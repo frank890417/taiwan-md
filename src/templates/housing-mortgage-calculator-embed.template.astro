@@ -1,0 +1,34 @@
+---
+/**
+ * housing-mortgage-calculator-embed.template.astro：mortgage-calculator 內嵌板（13 語共用 template）
+ *
+ * 給別人用 iframe 嵌進自己網站：只有工具本體、底部一行資料來源與截止日、連回單獨頁的 Taiwan.md。
+ * noindex、canonical 指向單獨頁（皆由 EmbedLayout 處理）。
+ */
+import EmbedLayout from '../layouts/EmbedLayout.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import MortgageCalculator from '../components/housing/tools/MortgageCalculator.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import type { TranslationKey } from '../i18n/utils';
+import { housingToolPages } from '../i18n/housing-toolpages';
+import { embedSourceNote } from '../utils/housing/toolpage-facts';
+import { getTopic, localizePath } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const pages = housingToolPages(lang);
+const topic = getTopic('housing')!;
+const tool = topic.tools.find((x) => x.slug === 'mortgage-calculator')!;
+const title = t('housing.tool.mortgage.title' as TranslationKey);
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={embedSourceNote('mortgage', lang, pages)}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    <MortgageCalculator lang={lang} variant="embed" />
+  </ToolFrame>
+</EmbedLayout>

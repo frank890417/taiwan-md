@@ -1,0 +1,1844 @@
+{
+  "$comment": "各方立場並列資料。事實只取自 reports/research/2026-11/housing-positions.md 中讀過原文的項目。verbatim=true 的引語都是研究檔標明逐字、且在來源頁看得到的字句；記者轉述與標題一律改成 stance 的間接敘述並標 reported。政黨只收 2024 總統大選公開政見、黨的官方新聞稿與間接轉述，不收 2026 年任何地方選舉候選人的政見或評比，也不收 2026 年黨籍立委與黨團的公開發言。描述立場不用形容詞定性。金管會 2025-09-04 令釋的來源網址取自 qingan.json。",
+  "retrieved": "2026-11-10",
+  "coverageNote": {
+    "zh": "這一頁的材料有幾個限制。官方原文多半抓不到，不少內容來自媒體報導，轉述與逐字引語分開標示。批評現行政策者的公開材料，比為現行政策辯護者的多，辯護新青安的學者材料這次沒有找到。政黨部分只收 2024 年總統大選的公開政見與黨的官方新聞稿，不含任何 2026 年地方選舉候選人的主張，所以國民黨與民眾黨各只有一兩段轉述，時代力量、綠黨與台灣基進在這個範圍內沒有收到材料。銀行業只有一家銀行的法說會間接轉述，社會住宅推動聯盟只有 2014 年的訴求。查不到的格子寫在各爭點的「沒有資料」欄，不用別人的說法代填。",
+    "en": "This page has several limits. Official texts were mostly out of reach, so much comes from media reports, and paraphrase is kept apart from verbatim quotation. Public material critical of current policy outweighs material defending it, and no scholar defending the new Youth Loan was found. For parties we include only 2024 presidential-campaign positions and official party releases, and nothing from any 2026 local-election candidate; the KMT and TPP therefore have only one or two paraphrased items, and for the New Power Party, the Green Party and the Taiwan Statebuilding Party nothing was collected within that scope. Banks are represented by one bank's indirectly quoted investor briefing, and the Social Housing Advocacy Alliance only by its 2014 demands. Gaps are shown as 'no data' under each issue rather than filled with someone else's words."
+  },
+  "groups": [
+    {
+      "id": "government",
+      "title": {
+        "zh": "政府機關",
+        "en": "Government agencies"
+      }
+    },
+    {
+      "id": "parties",
+      "title": {
+        "zh": "政黨",
+        "en": "Political parties"
+      }
+    },
+    {
+      "id": "advocacy",
+      "title": {
+        "zh": "居住團體",
+        "en": "Housing advocacy groups"
+      }
+    },
+    {
+      "id": "industry",
+      "title": {
+        "zh": "產業",
+        "en": "Industry"
+      }
+    },
+    {
+      "id": "scholars",
+      "title": {
+        "zh": "學者",
+        "en": "Scholars"
+      }
+    },
+    {
+      "id": "surveys",
+      "title": {
+        "zh": "調查數據",
+        "en": "Survey data"
+      }
+    }
+  ],
+  "actors": [
+    {
+      "id": "cbc",
+      "group": "government",
+      "name": {
+        "zh": "中央銀行",
+        "en": "Central Bank"
+      },
+      "person": {
+        "zh": "總裁楊金龍",
+        "en": "Governor Yang Chin-long"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 3 月微調第 2 戶成數時，央行說房市軟著陸是基調，並表示不動產貸款集中度的目標還沒到位（工商時報報導）。",
+          "en": "When it adjusted the second-home cap in March 2026, the bank said a soft landing for the housing market is its baseline and that its target for real estate loan concentration has not yet been reached (Commercial Times).",
+          "sources": [
+            {
+              "title": "房市管制微調 楊金龍：軟著陸是基調 集中度目標還沒到",
+              "publisher": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20260319701914-430503",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "2026 年 6 月 10 日楊金龍在立法院表示，選擇性信用管制現階段不再加碼；9 月 17 日央行把自然人第 2 戶成數上限由 6 成調到 7 成，並刪除購地貸款動工切結（媒體報導）。",
+          "en": "On 10 June 2026 Yang told the Legislative Yuan that selective credit controls would not be tightened further for now; on 17 September the bank raised the cap for an individual's second home from 60% to 70% and removed the construction-start undertaking for land-purchase loans (media reports).",
+          "sources": [
+            {
+              "title": "楊金龍宣布房市信用管制不加碼 營造股多數收紅",
+              "publisher": "公視新聞",
+              "url": "https://news.pts.org.tw/article/812449",
+              "kind": "reported"
+            },
+            {
+              "title": "央行鬆綁房市管制！刪除購地貸款動工期限、提升第二戶貸款成數至7成",
+              "publisher": "自由時報",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5577362",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "央行 2026 年 1 月的季刊指出，前五波管制對受管制對象有顯著影響，對整體房貸市場影響有限；新青安使第一戶房貸金額增加約 13.1%（聯合報報導）。",
+          "en": "The bank's January 2026 quarterly says the first five rounds of controls had a significant effect on the targeted groups but a limited effect on the mortgage market overall, and that the new Youth Loan raised first-home loan amounts by about 13.1% (United Daily News).",
+          "sources": [
+            {
+              "title": "央行季刊：選擇性信用管制有效約束多屋族 新青安顯著改變首購市場",
+              "publisher": "聯合報",
+              "url": "https://udn.com/news/story/7239/9282111",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "選擇性信用管制到目前為止，事實上是『就到這裡』",
+          "speaker": "央行總裁楊金龍",
+          "date": "2026-06-10",
+          "verbatim": true,
+          "source": {
+            "title": "楊金龍喊房市管制「就到這裡」！",
+            "publisher": "今周刊",
+            "url": "https://www.businesstoday.com.tw/article/category/183008/post/202606100035/",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "考量選擇性信用管制成效持續顯現，以及金融機構強化不動產授信風險控管已有一定成效，央行決定適度調整相關信用管制措施。",
+          "speaker": "中央銀行（報導引述）",
+          "date": "2026-09-17",
+          "verbatim": true,
+          "source": {
+            "title": "央行鬆綁房市管制！刪除購地貸款動工期限、提升第二戶貸款成數至7成",
+            "publisher": "自由時報",
+            "url": "https://ec.ltn.com.tw/article/breakingnews/5577362",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "至於有什麼漏洞，這是財政部的職責，我們不會越俎代庖，超越職責。",
+          "speaker": "央行總裁楊金龍",
+          "date": "2024-06-13",
+          "verbatim": true,
+          "source": {
+            "title": "央行楊金龍曝新青安「衝擊房市」 第6波管制1關鍵未擴全台",
+            "publisher": "ETtoday",
+            "url": "https://finance.ettoday.net/news/2757662",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "我們這次重點是房地產",
+          "speaker": "央行總裁楊金龍",
+          "date": "2024-06-13",
+          "verbatim": true,
+          "source": {
+            "title": "楊金龍：貨幣政策進一步緊縮 這波重點是房地產",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202406130373.aspx",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "mof",
+      "group": "government",
+      "name": {
+        "zh": "財政部",
+        "en": "Ministry of Finance"
+      },
+      "person": {
+        "zh": "國庫署長陳柏誠、部長莊翠雲",
+        "en": "Treasury head Chen Po-cheng; Minister Chuang Tsui-yun"
+      },
+      "stance": [
+        {
+          "zh": "青安 3.0 設有年齡（未滿 50 歲）、借款人本人年所得 200 萬元以下、房屋總價上限，並對婚育家庭加碼：結婚 1,200 萬元、育有未成年子女 1,500 萬元（中央社、Newtalk 報導）。",
+          "en": "Youth Loan 3.0 sets an age limit (under 50), a personal income limit of NT$2 million, a home-price cap, and higher ceilings for families: NT$12 million for newlyweds and NT$15 million with minor children (CNA, Newtalk).",
+          "sources": [
+            {
+              "title": "青安3.0設年齡房價等條件 個人年收200萬列排富",
+              "publisher": "中央社",
+              "url": "https://www.cna.com.tw/news/aipl/202607150276.aspx",
+              "kind": "reported"
+            },
+            {
+              "title": "政院拍板「青安貸款3.0」8/1上路",
+              "publisher": "Newtalk",
+              "url": "https://newtalk.tw/news/view/2026-07-16/1047481",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "2026 年房屋稅全國開徵 974.57 萬件，空閒置房屋約 111.66 萬件，較上期減少 2.06 萬件（NOWnews 報導）。",
+          "en": "The 2026 housing tax covers 9.7457 million cases nationwide, with about 1.1166 million vacant homes, 20,600 fewer than the previous period (NOWnews).",
+          "sources": [
+            {
+              "title": "房屋稅5月開徵！全國974萬件、單一自住占3成",
+              "publisher": "NOWnews",
+              "url": "https://www.nownews.com/news/6810062",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "為避免變成懲罰結婚者，因此決定排富門檻是以借款人本人的年所得200萬元，作為貸款資格條件。",
+          "speaker": "國庫署長陳柏誠",
+          "date": "2026-07-15",
+          "verbatim": true,
+          "source": {
+            "title": "青安3.0設年齡房價等條件 個人年收200萬列排富",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/aipl/202607150276.aspx",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "最主要是希望政策更精準協助民眾，因此希望房屋總價有限額。",
+          "speaker": "國庫署長陳柏誠",
+          "date": "2026-07-15",
+          "verbatim": true,
+          "source": {
+            "title": "青安3.0設年齡房價等條件 個人年收200萬列排富",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/aipl/202607150276.aspx",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "寬限期最長5年，但是真正適用寬限期到5年的只有23%。",
+          "speaker": "財政部長莊翠雲",
+          "date": "2026-06-10",
+          "verbatim": true,
+          "source": {
+            "title": "楊金龍宣布房市信用管制不加碼 營造股多數收紅",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/812449",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "新制加重閒置房屋持有成本，引導多屋族釋出房屋進入租賃或市場，但也維持自住房屋較低稅負",
+          "speaker": "財政部（媒體報導）",
+          "date": "2026-04-22",
+          "verbatim": true,
+          "source": {
+            "title": "房屋稅5月開徵！全國974萬件、單一自住占3成",
+            "publisher": "NOWnews",
+            "url": "https://www.nownews.com/news/6810062",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "moi",
+      "group": "government",
+      "name": {
+        "zh": "內政部、國土署",
+        "en": "Ministry of the Interior and the National Land Management Agency"
+      },
+      "person": {
+        "zh": "國土署副署長朱慶倫",
+        "en": "Deputy Director-General Chu Ching-lun"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 1 月內政部表示，都會區素地有限，中央除持續直接興辦社宅外，將擴大包租代管作為重要補充，並指包租代管依住宅法第 19 條屬社會住宅範疇（經濟日報報導）。",
+          "en": "In January 2026 the Ministry said urban land is limited and that, besides direct construction, the central government will expand leased-and-managed housing as an important supplement, which under Article 19 of the Housing Act counts as social housing (Economic Daily News).",
+          "sources": [
+            {
+              "title": "都會區土地稀缺！內政部調整社宅策略 包租代管、租金補貼並進",
+              "publisher": "經濟日報",
+              "url": "https://money.udn.com/money/story/5621/9273929",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "經濟日報記者敘述，直接興建目標由 13 萬戶降為 4 萬至 6 萬戶，2026 到 2027 年優先推動約 40 處、1.1 萬戶。",
+          "en": "Economic Daily News's reporter describes the direct-build target as falling from 130,000 to 40,000 to 60,000 units, with about 40 sites and 11,000 units prioritised for 2026 to 2027.",
+          "sources": [
+            {
+              "title": "社宅政策轉彎？劉世芳：2026至2027年優先推動40處、1.1萬戶",
+              "publisher": "經濟日報",
+              "url": "https://money.udn.com/money/story/5621/9274673",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "國土署 2026 年 8 月 7 日表示，包租代管 11 萬 6390 戶，租金補貼核定逾 91.9 萬戶（中央社報導）。",
+          "en": "On 7 August 2026 the Agency said leased-and-managed housing stood at 116,390 units and rent subsidies had been approved for over 919,000 households (CNA).",
+          "sources": [
+            {
+              "title": "國土署：多元興辦社宅滾動精進 實質照顧逾百萬戶",
+              "publisher": "中央社",
+              "url": "https://cna.com.tw/news/aipl/202608070274.aspx",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "政府推動社會住宅的整體計畫沒有改變，持續透過直接興建、包租代管及租金補貼等多元方式，擴大居住支持。",
+          "speaker": "國土署（新聞稿，媒體報導）",
+          "date": "2026-08-07",
+          "verbatim": true,
+          "source": {
+            "title": "國土署：多元興辦社宅滾動精進 實質照顧逾百萬戶",
+            "publisher": "中央社",
+            "url": "https://cna.com.tw/news/aipl/202608070274.aspx",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "透過多元興辦社宅、包租代管社宅及租金補貼3項政策，依社宅供給進度相互搭配，逐年依需求調整計畫戶數。",
+          "speaker": "國土署副署長朱慶倫",
+          "date": "2026-08-17",
+          "verbatim": true,
+          "source": {
+            "title": "民團質疑租補戶數至2032年砍半 國土署：滾動調整",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/822836",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "fsc",
+      "group": "government",
+      "name": {
+        "zh": "金融監督管理委員會",
+        "en": "Financial Supervisory Commission"
+      },
+      "person": {
+        "zh": "",
+        "en": ""
+      },
+      "stance": [
+        {
+          "zh": "金管會令釋指出，銀行辦理新青安貸款案件，2025 年 9 月 1 日後撥款者不計入銀行法第 72 條之 2 的限額。",
+          "en": "An FSC ruling states that new Youth Loan cases disbursed after 1 September 2025 do not count toward the limit under Article 72-2 of the Banking Act.",
+          "sources": [
+            {
+              "title": "銀行辦理新青安貸款案件114年9月1日後撥款者不計入銀行法第72條之2限額（2025-09-04）",
+              "publisher": "金融監督管理委員會",
+              "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509040001&toolsflag=Y&dtable=News",
+              "kind": "primary"
+            }
+          ]
+        },
+        {
+          "zh": "2025 年 9 月金管會與公股行庫溝通房貸放款額度（中央社報導）。",
+          "en": "In September 2025 the FSC discussed mortgage lending capacity with state-owned banks (CNA).",
+          "sources": [
+            {
+              "title": "房貸放款沒額度？金管會找8公股行庫溝通並嚴禁搭售",
+              "publisher": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202509010296.aspx",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "公股銀確實有背負政策性放款，但法規規定3成，若分子不能調整，也可透過分行吸收存款來加大分母",
+          "speaker": "金管會（報導引述）",
+          "date": "2025-09-01",
+          "verbatim": true,
+          "source": {
+            "title": "房貸放款沒額度？金管會找8公股行庫溝通並嚴禁搭售",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202509010296.aspx",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "audit",
+      "group": "government",
+      "name": {
+        "zh": "審計部",
+        "en": "National Audit Office"
+      },
+      "person": {
+        "zh": "",
+        "en": ""
+      },
+      "stance": [
+        {
+          "zh": "審計部審核意見指出，社宅租金分級收費原則研訂 2 年 10 個月餘仍未定案；截至 113 年 3 月底已發包 98,699 戶，納入規劃中 28,637 戶，預計 113 年底可達發包 12 萬戶（Newtalk 2024-07-30 報導）。",
+          "en": "The National Audit Office's review says rules for tiered social housing rents had taken over two years and ten months without being finalised; by end-March 2024 98,699 units had been put out to tender and 28,637 were in planning, with 120,000 units expected to be tendered by the end of 2024 (Newtalk, 30 July 2024).",
+          "sources": [
+            {
+              "title": "賴清德喊蓋13萬戶社宅 審計部看衰：需300公頃、土地取得不易",
+              "publisher": "Newtalk",
+              "url": "https://newtalk.tw/news/view/2024-07-30/930163",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [],
+      "thin": true
+    },
+    {
+      "id": "dpp",
+      "group": "parties",
+      "name": {
+        "zh": "民主進步黨",
+        "en": "Democratic Progressive Party"
+      },
+      "person": {
+        "zh": "2023 年時任黨主席賴清德",
+        "en": "Then party chair Lai Ching-te, 2023"
+      },
+      "stance": [
+        {
+          "zh": "2023 年 7 月提出居住權三大對策：鼓勵房源釋出、協助首次購屋青年家庭、保障百萬租屋家戶。",
+          "en": "In July 2023 it set out three housing measures: encourage the release of housing stock, help first-time young home buyers, and protect a million renting households.",
+          "sources": [
+            {
+              "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+              "publisher": "民進黨",
+              "url": "https://www.dpp.org.tw/media/contents/10247",
+              "kind": "primary"
+            }
+          ]
+        },
+        {
+          "zh": "新聞稿提出 2032 年社宅總量 25 萬戶、包租代管 25 萬戶，租金補貼加大到每年 50 萬家戶。",
+          "en": "The release sets 250,000 social housing units and 250,000 leased-and-managed units by 2032, with rent subsidies expanded to 500,000 households a year.",
+          "sources": [
+            {
+              "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+              "publisher": "民進黨",
+              "url": "https://www.dpp.org.tw/media/contents/10247",
+              "kind": "primary"
+            }
+          ]
+        },
+        {
+          "zh": "囤房稅由縣市歸戶改為全國歸戶，非自住稅率由 3.6% 調到 4.8%；青年安心成家貸款加碼利息補貼。",
+          "en": "It proposes moving the hoarding tax from county-level to national aggregation and raising the non-owner-occupied rate from 3.6% to 4.8%, and adding interest subsidies to the Youth Home-Starter Loan.",
+          "sources": [
+            {
+              "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+              "publisher": "民進黨",
+              "url": "https://www.dpp.org.tw/media/contents/10247",
+              "kind": "primary"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "現行的租金補貼，將加大到每年50萬家戶的補貼量。",
+          "speaker": "民進黨新聞稿",
+          "date": "2023-07-06",
+          "verbatim": true,
+          "source": {
+            "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+            "publisher": "民進黨",
+            "url": "https://www.dpp.org.tw/media/contents/10247",
+            "kind": "primary"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "kmt",
+      "group": "parties",
+      "name": {
+        "zh": "中國國民黨",
+        "en": "Kuomintang"
+      },
+      "person": {
+        "zh": "2024 年總統候選人侯友宜",
+        "en": "2024 presidential candidate Hou Yu-ih"
+      },
+      "stance": [
+        {
+          "zh": "侯友宜 2023 年 7 月提出五大住宅政策，內容包含租金實價登錄、租客所得稅列舉扣除額上調、房東分離課稅、社宅用地與容積獎勵、重新檢討不動產交易所得稅、青年租金補貼加碼與超低利貸款、社宅輪候制（Yahoo 股市整理）。",
+          "en": "In July 2023 Hou Yu-ih set out five housing policies covering rent registration at actual prices, a higher itemised deduction for tenants, separate taxation of landlords, land and floor-area bonuses for social housing, a review of tax on property transaction gains, larger youth rent subsidies and ultra-low-rate loans, and a social housing waiting-list system (as compiled by Yahoo Finance).",
+          "sources": [
+            {
+              "title": "提5大住宅政策 侯友宜：全力支持居住正義",
+              "publisher": "Yahoo 股市",
+              "url": "https://tw.stock.yahoo.com/news/%E6%8F%905%E5%A4%A7%E4%BD%8F%E5%AE%85%E6%94%BF%E7%AD%96-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9-105154951.html",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "2023 年 12 月起主打「555 方案」青年購屋，報導列出 1,500 萬元額度、頭期款全額貸、限年齡、首購、排富與轉售限制；ETtoday 2024-01-08 報導民進黨競總指官網與選舉公報寫的額度是 1,200 萬元。",
+          "en": "From December 2023 it promoted the '555 plan' for young buyers, reported as a NT$15 million ceiling, full down-payment financing, age limits, first-home and means tests and resale limits; ETtoday of 8 January 2024 reports the DPP campaign office saying the website and election bulletin gave NT$12 million.",
+          "sources": [
+            {
+              "title": "賴競總抓包「侯康貸」1500萬縮水成1200萬 侯辦：後續的新政策",
+              "publisher": "ETtoday",
+              "url": "https://www.ettoday.net/news/20240108/2659749.htm",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [],
+      "thin": true
+    },
+    {
+      "id": "tpp",
+      "group": "parties",
+      "name": {
+        "zh": "台灣民眾黨",
+        "en": "Taiwan People's Party"
+      },
+      "person": {
+        "zh": "2024 年總統候選人柯文哲",
+        "en": "2024 presidential candidate Ko Wen-je"
+      },
+      "stance": [
+        {
+          "zh": "OURs 在 2024 年 1 月的評析中，把柯文哲的住宅政見概括為大力蓋社宅、大力改稅制、大力補租客；稅制主張為自住減稅、多屋重稅、實坪制，並提出購屋補息、租金補貼、社宅優先三選一。這是 OURs 轉述，民眾黨官方白皮書原文本站沒有取得。",
+          "en": "In its January 2024 assessment, OURs summarised Ko Wen-je's housing platform as building social housing aggressively, reforming taxes and subsidising tenants, with lower tax for owner-occupiers, heavier tax on multiple homes, a floor-area-based pricing rule, and a choice of one of mortgage interest subsidy, rent subsidy or social housing priority. This is OURs' paraphrase; the party's own platform text was not obtained.",
+          "sources": [
+            {
+              "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+              "publisher": "報導者（廖庭輝）",
+              "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [],
+      "thin": true
+    },
+    {
+      "id": "ours",
+      "group": "advocacy",
+      "name": {
+        "zh": "OURs 都市改革組織",
+        "en": "OURs (Organization of Urban Re-s)"
+      },
+      "person": {
+        "zh": "秘書長彭揚凱、研究員廖庭輝",
+        "en": "Secretary-General Peng Yang-kai; researcher Liao Ting-hui"
+      },
+      "stance": [
+        {
+          "zh": "2024 年 1 月評析指出，賴清德的 50 萬戶租金補貼迴避租屋黑市的根本問題，並認為囤房稅 2.0 比過去為佳（報導者投書）。",
+          "en": "In its January 2024 assessment OURs said Lai Ching-te's 500,000-household rent subsidy sidesteps the underlying problem of the informal rental market, and that the second hoarding tax is better than before (The Reporter).",
+          "sources": [
+            {
+              "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+              "publisher": "報導者（廖庭輝）",
+              "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "2026 年 7 月 16 日論壇上批評新青安，並表示不應停止興建社宅（Yam 天空新聞報導）。",
+          "en": "At a forum on 16 July 2026 it criticised the new Youth Loan and said social housing construction should not stop (Yam News).",
+          "sources": [
+            {
+              "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+              "publisher": "Yam 天空新聞",
+              "url": "https://n.yam.com/Article/20260716209266",
+              "kind": "reported"
+            }
+          ]
+        },
+        {
+          "zh": "2026 年 8 月指出，依新方案未來每年租金補貼戶數會下修，草案顯示戶數 2032 年降至 50 萬（公視報導）。",
+          "en": "In August 2026 it said that under the new plan the number of subsidised households would fall each year, with a draft showing 500,000 by 2032 (PTS).",
+          "sources": [
+            {
+              "title": "民團質疑租補戶數至2032年砍半 國土署：滾動調整",
+              "publisher": "公視新聞",
+              "url": "https://news.pts.org.tw/article/822836",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "這項「50萬戶租金補貼」幫助租屋族的政策，則是迴避台灣「租屋黑市」的根本問題。",
+          "speaker": "OURs 廖庭輝",
+          "date": "2024-01-10",
+          "verbatim": true,
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "『囤房稅2.0』的確比過去為佳。",
+          "speaker": "OURs 廖庭輝",
+          "date": "2024-01-10",
+          "verbatim": true,
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "借越多、還越久，房價又越高",
+          "speaker": "OURs 秘書長彭揚凱",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "如果現在就停止興建社宅，台灣恐怕會成為「全世界最晚蓋社會住宅，卻最早結束的國家」",
+          "speaker": "OURs 秘書長彭揚凱",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "土地不是沒有，是刻意不把土地留下來蓋社宅。",
+          "speaker": "OURs 研究員廖庭輝",
+          "date": "2026-01-13",
+          "verbatim": true,
+          "source": {
+            "title": "社宅13萬戶變4萬？賴清德政策恐跳票 民團批：「沒地」是假議題",
+            "publisher": "民報",
+            "url": "https://www.peoplenews.tw/articles/hot-news/11879",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "依照他們現在要實施的這個方案，未來每一年的租金補助戶數會下修",
+          "speaker": "OURs 秘書長彭揚凱",
+          "date": "2026-08-17",
+          "verbatim": true,
+          "source": {
+            "title": "民團質疑租補戶數至2032年砍半 國土署：滾動調整",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/822836",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "tsh",
+      "group": "advocacy",
+      "name": {
+        "zh": "社會住宅推動聯盟",
+        "en": "Social Housing Advocacy Alliance"
+      },
+      "person": {
+        "zh": "",
+        "en": ""
+      },
+      "stance": [
+        {
+          "zh": "2014 年 10 月巢運新聞稿列出五項訴求：居住人權入憲、終結強拆迫遷；改革房產稅制、杜絕投機炒作；檢討公地法令、停建合宜住宅；廣建社宅達 5%、成立住宅法人；擴大租屋市場、制訂租賃專法。這是 2014 年的訴求，2026 年的主張本站沒有查到。",
+          "en": "The alliance's October 2014 press release lists five demands: housing rights in the constitution and an end to forced evictions; reform of property taxes against speculation; a review of public land rules and an end to 'affordable housing'; social housing at 5% of stock and a housing corporation; and a larger rental market with a rental act. These are the 2014 demands; its 2026 positions were not found.",
+          "sources": [
+            {
+              "title": "【巢運新聞稿】兩萬人怒躺仁愛路帝寶",
+              "publisher": "社會住宅推動聯盟",
+              "url": "http://socialhousingtw.blogspot.com/2014/10/20141005.html",
+              "kind": "primary"
+            }
+          ]
+        }
+      ],
+      "quotes": [],
+      "thin": true
+    },
+    {
+      "id": "cmm",
+      "group": "advocacy",
+      "name": {
+        "zh": "崔媽媽基金會",
+        "en": "Grandma Cui Foundation"
+      },
+      "person": {
+        "zh": "執行長呂秉怡",
+        "en": "CEO Lu Ping-yi"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 7 月 16 日論壇上表示，租屋市場仍有資訊不透明與租屋黑市等問題，政府不能再完全以契約自由看待租賃關係，並主張好好蓋社會住宅（Yam 天空新聞報導）。",
+          "en": "At the 16 July 2026 forum she said the rental market still suffers from opacity and an informal market, that the government can no longer treat leases purely as freedom of contract, and that social housing should be built well (Yam News).",
+          "sources": [
+            {
+              "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+              "publisher": "Yam 天空新聞",
+              "url": "https://n.yam.com/Article/20260716209266",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "仍存在資訊不透明及租屋黑市等問題，政府不能再完全以契約自由看待租賃關係",
+          "speaker": "崔媽媽基金會執行長呂秉怡",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "好好地蓋社會住宅，就是一帖最好的催生藥。",
+          "speaker": "崔媽媽基金會執行長呂秉怡",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "youth",
+      "group": "advocacy",
+      "name": {
+        "zh": "青年思潮",
+        "en": "Youth Thinking"
+      },
+      "person": {
+        "zh": "理事何傑恩",
+        "en": "Director Ho Chieh-en"
+      },
+      "stance": [
+        {
+          "zh": "青年思潮理事何傑恩主張公共住宅要達整體住宅 5%、約 50 萬戶（聯合報 2026-07-02 報導）。",
+          "en": "Director Ho Chieh-en argues public housing should reach 5% of all housing, about 500,000 units (United Daily News, 2 July 2026).",
+          "sources": [
+            {
+              "title": "賴政府13萬社宅挨批跳票 跨黨派立委偕民團喊話檢討",
+              "publisher": "聯合報",
+              "url": "https://udn.com/news/story/6656/9602270",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "若要對市場起到平衡作用，租金、租期與品質都受管控的公共住宅必須達到整體住宅5%、約50萬戶。",
+          "speaker": "青年思潮理事何傑恩",
+          "date": "2026-07-02",
+          "verbatim": true,
+          "source": {
+            "title": "賴政府13萬社宅挨批跳票 跨黨派立委偕民團喊話檢討",
+            "publisher": "聯合報",
+            "url": "https://udn.com/news/story/6656/9602270",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "builders",
+      "group": "industry",
+      "name": {
+        "zh": "中華民國不動產建築開發公會全聯會",
+        "en": "National Federation of Real Estate Developers"
+      },
+      "person": {
+        "zh": "理事長楊玉全",
+        "en": "Chairman Yang Yu-chuan"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 6 月 18 日表示肯定央行不再加碼管制的態度，並建議再做鬆綁（經濟日報報導）。",
+          "en": "On 18 June 2026 it welcomed the central bank's signal of no further tightening and proposed further easing (Economic Daily News).",
+          "sources": [
+            {
+              "title": "央行房市管制不變 建商公會：肯定態度但業界快撐不下去 仍盼鬆綁",
+              "publisher": "經濟日報",
+              "url": "https://money.udn.com/money/story/5621/9575236",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "公會肯定央行總裁楊金龍「選擇性信用管制就到這裡」的態度，明確釋出現階段不加碼管制之訊號，表示高度歡迎與肯定，此一立場有助於房市秩序趨於平穩，並為後續合理調整管制措施創造政策空間。",
+          "speaker": "理事長楊玉全",
+          "date": "2026-06-18",
+          "verbatim": true,
+          "source": {
+            "title": "央行房市管制不變 建商公會：肯定態度但業界快撐不下去 仍盼鬆綁",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9575236",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "現有的信用管制已經讓許多原本穩建經營建商快撐不下去，也造成很多民怨",
+          "speaker": "理事長楊玉全",
+          "date": "2026-06-18",
+          "verbatim": true,
+          "source": {
+            "title": "央行房市管制不變 建商公會：肯定態度但業界快撐不下去 仍盼鬆綁",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9575236",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "建議宜再做鬆綁。",
+          "speaker": "理事長楊玉全",
+          "date": "2026-06-18",
+          "verbatim": true,
+          "source": {
+            "title": "央行房市管制不變 建商公會：肯定態度但業界快撐不下去 仍盼鬆綁",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9575236",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "brokers",
+      "group": "industry",
+      "name": {
+        "zh": "不動產仲介經紀商業同業公會全國聯合會",
+        "en": "National Association of Real Estate Brokers"
+      },
+      "person": {
+        "zh": "理事長",
+        "en": "Chairman"
+      },
+      "stance": [
+        {
+          "zh": "2025 年 12 月提出六項建言，其中包含建請央行適度調整第七波信用管制、鼓勵購置第二屋投入社宅行列（經濟日報報導）。",
+          "en": "In December 2025 it made six proposals, including asking the central bank to adjust the seventh round of controls and encouraging second-home purchases to be put into social housing (Economic Daily News).",
+          "sources": [
+            {
+              "title": "2026年房市代表字「卡」 王瑞祺籲：公會六建言、解除房貸管制最重要",
+              "publisher": "經濟日報",
+              "url": "https://money.udn.com/money/story/5621/9197777",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "第二，建請中央銀行適度調整第七波信用管制措施，第二屋貸款建議應恢復八成",
+          "speaker": "理事長（公會六項建言之二）",
+          "date": "2025-12-11",
+          "verbatim": true,
+          "source": {
+            "title": "2026年房市代表字「卡」 王瑞祺籲：公會六建言、解除房貸管制最重要",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9197777",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "第六，鼓勵購置第二屋投入社宅行列",
+          "speaker": "理事長（公會六項建言之六）",
+          "date": "2025-12-11",
+          "verbatim": true,
+          "source": {
+            "title": "2026年房市代表字「卡」 王瑞祺籲：公會六建言、解除房貸管制最重要",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9197777",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": false
+    },
+    {
+      "id": "sinyi",
+      "group": "industry",
+      "name": {
+        "zh": "信義房屋不動產企研室",
+        "en": "Sinyi Realty Research Office"
+      },
+      "person": {
+        "zh": "專案經理曾敬德",
+        "en": "Project manager Tseng Ching-te"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 7 月 16 日評估青安 3.0 上路不至於刺激新的買盤（經濟日報報導）。",
+          "en": "On 16 July 2026 it assessed that the launch of Youth Loan 3.0 would not draw new buyers (Economic Daily News).",
+          "sources": [
+            {
+              "title": "「青安3.0」千萬房貸六年利息省逾30萬 市場憂再現上車潮 專家這麼看",
+              "publisher": "經濟日報",
+              "url": "https://money.udn.com/money/amp/story/5621/9632100",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "市場不至於因為「青安3.0」上路而刺激新的買盤出籠，反而可以幫助真正有需要的自用首購族群",
+          "speaker": "信義房屋企研室專案經理曾敬德",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「青安3.0」千萬房貸六年利息省逾30萬 市場憂再現上車潮 專家這麼看",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/amp/story/5621/9632100",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "banks",
+      "group": "industry",
+      "name": {
+        "zh": "銀行業（華南銀行）",
+        "en": "Banks (Hua Nan Bank)"
+      },
+      "person": {
+        "zh": "消金副總黃守良",
+        "en": "Consumer finance vice president Huang Shou-liang"
+      },
+      "stance": [
+        {
+          "zh": "華南銀行消金副總黃守良 2025 年 11 月法說會表示，該行銀行法 72 條之 2 的額度還夠，但受央行集中度影響較大，新青安放寬後能承作的房貸業務仍有限（聯合報間接引述）。",
+          "en": "At its November 2025 investor briefing Hua Nan's consumer finance vice president said the bank's Article 72-2 headroom was sufficient but the central bank's concentration rule weighed more, so even with the Youth Loan eased its mortgage business remained limited (indirect quotation, United Daily News).",
+          "sources": [
+            {
+              "title": "華銀法說會看房市「持平下走」 指主要和央行集中度管理有關",
+              "publisher": "聯合報",
+              "url": "https://udn.com/news/story/7252/9150406",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [],
+      "thin": true
+    },
+    {
+      "id": "scholar-chang",
+      "group": "scholars",
+      "name": {
+        "zh": "張金鶚",
+        "en": "Chang Chin-oh"
+      },
+      "person": {
+        "zh": "政大地政系教授（依報導）",
+        "en": "Professor of land economics, NCCU (per the report)"
+      },
+      "stance": [
+        {
+          "zh": "2024 年 7 月指出，蓋社會住宅與新青安貸款都沒有真正解決高房價，並認為囤房稅 2.0 對投資客成效有限（風傳媒報導）。",
+          "en": "In July 2024 he said both social housing and the new Youth Loan fail to solve high prices, and that the second hoarding tax has little bite on investors (Storm Media).",
+          "sources": [
+            {
+              "title": "新青安淪投資客炒作？學者曝2政策漏洞：都在玩假的",
+              "publisher": "風傳媒",
+              "url": "https://www.storm.mg/article/5200167",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "不論是蓋社會住宅或新青安貸款都並非真的在解決高房價，反而在幫助鞏固房價",
+          "speaker": "張金鶚",
+          "date": "2024-07-22",
+          "verbatim": true,
+          "source": {
+            "title": "新青安淪投資客炒作？學者曝2政策漏洞：都在玩假的",
+            "publisher": "風傳媒",
+            "url": "https://www.storm.mg/article/5200167",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "打的投資客不痛不癢",
+          "speaker": "張金鶚（談囤房稅 2.0）",
+          "date": "2024-07-22",
+          "verbatim": true,
+          "source": {
+            "title": "新青安淪投資客炒作？學者曝2政策漏洞：都在玩假的",
+            "publisher": "風傳媒",
+            "url": "https://www.storm.mg/article/5200167",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "scholar-huang",
+      "group": "scholars",
+      "name": {
+        "zh": "黃耀輝",
+        "en": "Huang Yao-hui"
+      },
+      "person": {
+        "zh": "台北商業大學財稅系（依報導）",
+        "en": "Department of Finance and Taxation, National Taipei University of Business (per the report)"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 7 月 16 日論壇上批評新青安可能讓青年買在高點，並認為囤房稅 2.0 稅負偏輕（Yam 天空新聞報導）。",
+          "en": "At the 16 July 2026 forum he criticised the new Youth Loan as possibly leaving young buyers at the top of the market, and said the second hoarding tax is too light (Yam News).",
+          "sources": [
+            {
+              "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+              "publisher": "Yam 天空新聞",
+              "url": "https://n.yam.com/Article/20260716209266",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "新青安透過低利率、寬限期及40年房貸，製造青年買得起房的假象，但實際上可能讓青年買在高點、背上一輩子債務",
+          "speaker": "黃耀輝",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        },
+        {
+          "text": "最後推出的囤房稅2.0也因稅負過輕，多屋族平均每戶一年只增加四千多元，「根本沒有感覺」",
+          "speaker": "黃耀輝",
+          "date": "2026-07-16",
+          "verbatim": true,
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    },
+    {
+      "id": "scholar-lee",
+      "group": "scholars",
+      "name": {
+        "zh": "李同榮",
+        "en": "Li Tung-jung"
+      },
+      "person": {
+        "zh": "報導稱「房市趨勢專家」",
+        "en": "Described in the report as a housing market trend expert"
+      },
+      "stance": [
+        {
+          "zh": "2026 年 1 月批評央行理事以房價所得比單一變數評估房價推升因素（工商時報報導）。",
+          "en": "In January 2026 he criticised central bank board members for judging the drivers of prices by the price-to-income ratio alone (Commercial Times).",
+          "sources": [
+            {
+              "title": "央行第七波管制不鬆綁因「房價所得比」？李同榮轟：內行人講外行話",
+              "publisher": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20260131700537-430601",
+              "kind": "reported"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "央行理事同樣以單一變數「房價所得比」評估為推升房價主因，這簡直是內行人講外行話。",
+          "speaker": "李同榮",
+          "date": "2026-01-31",
+          "verbatim": true,
+          "source": {
+            "title": "央行第七波管制不鬆綁因「房價所得比」？李同榮轟：內行人講外行話",
+            "publisher": "工商時報",
+            "url": "https://www.ctee.com.tw/news/20260131700537-430601",
+            "kind": "reported"
+          }
+        }
+      ],
+      "thin": true
+    }
+  ],
+  "issues": [
+    {
+      "id": "subsidy-price",
+      "question": {
+        "zh": "利率補貼會不會推高房價？",
+        "en": "Do interest-rate subsidies push up home prices?"
+      },
+      "cells": [
+        {
+          "actor": "mof",
+          "text": {
+            "zh": "國庫署長陳柏誠談青安 3.0：「最主要是希望政策更精準協助民眾，因此希望房屋總價有限額。」",
+            "en": "Treasury head Chen Po-cheng on Youth Loan 3.0: the aim is to help people more precisely, hence a cap on total home price."
+          },
+          "source": {
+            "title": "青安3.0設年齡房價等條件 個人年收200萬列排富",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/aipl/202607150276.aspx",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "cbc",
+          "text": {
+            "zh": "央行季刊指出，新青安使第一戶房貸金額增加約 13.1%。",
+            "en": "The central bank's quarterly says the new Youth Loan raised first-home loan amounts by about 13.1%."
+          },
+          "source": {
+            "title": "央行季刊：選擇性信用管制有效約束多屋族 新青安顯著改變首購市場",
+            "publisher": "聯合報",
+            "url": "https://udn.com/news/story/7239/9282111",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "sinyi",
+          "text": {
+            "zh": "信義房屋企研室曾敬德：「市場不至於因為「青安3.0」上路而刺激新的買盤出籠，反而可以幫助真正有需要的自用首購族群」。",
+            "en": "Sinyi's Tseng Ching-te: the market should not see new buyers drawn out by Youth Loan 3.0, and it can instead help genuine owner-occupier first-time buyers."
+          },
+          "source": {
+            "title": "「青安3.0」千萬房貸六年利息省逾30萬 市場憂再現上車潮 專家這麼看",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/amp/story/5621/9632100",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "scholar-chang",
+          "text": {
+            "zh": "政大地政系張金鶚：「不論是蓋社會住宅或新青安貸款都並非真的在解決高房價，反而在幫助鞏固房價」。",
+            "en": "NCCU's Chang Chin-oh: neither social housing nor the new Youth Loan really solves high prices, and both help entrench them."
+          },
+          "source": {
+            "title": "新青安淪投資客炒作？學者曝2政策漏洞：都在玩假的",
+            "publisher": "風傳媒",
+            "url": "https://www.storm.mg/article/5200167",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "scholar-huang",
+          "text": {
+            "zh": "台北商業大學黃耀輝：新青安「製造青年買得起房的假象」，實際上可能讓青年買在高點、背上一輩子債務。",
+            "en": "NTUB's Huang Yao-hui: the new Youth Loan creates an illusion that young people can afford a home and may leave them buying at the peak with lifelong debt."
+          },
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "ours",
+          "text": {
+            "zh": "OURs 秘書長彭揚凱形容新青安：「借越多、還越久，房價又越高」。",
+            "en": "OURs' Peng Yang-kai on the new Youth Loan: borrow more, repay longer, and prices go higher still."
+          },
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["dpp", "kmt", "tpp"]
+    },
+    {
+      "id": "hoarding-tax",
+      "question": {
+        "zh": "多屋持有的房屋稅（囤房稅）稅率夠不夠？",
+        "en": "Is the tax rate on holding multiple homes high enough?"
+      },
+      "cells": [
+        {
+          "actor": "dpp",
+          "text": {
+            "zh": "民進黨 2023 年新聞稿主張囤房稅由縣市歸戶改為全國歸戶，非自住稅率由 3.6% 調到 4.8%。",
+            "en": "The DPP's 2023 release proposes moving the hoarding tax to national aggregation and raising the non-owner-occupied rate from 3.6% to 4.8%."
+          },
+          "source": {
+            "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+            "publisher": "民進黨",
+            "url": "https://www.dpp.org.tw/media/contents/10247",
+            "kind": "primary"
+          },
+          "kind": "primary"
+        },
+        {
+          "actor": "mof",
+          "text": {
+            "zh": "財政部（2026-04-22 媒體報導）：「新制加重閒置房屋持有成本，引導多屋族釋出房屋進入租賃或市場，但也維持自住房屋較低稅負」。",
+            "en": "Ministry of Finance (media report, 22 April 2026): the new system raises the cost of holding idle homes, guiding multi-home owners to release them to rental or sale, while keeping a lower burden on owner-occupied homes."
+          },
+          "source": {
+            "title": "房屋稅5月開徵！全國974萬件、單一自住占3成",
+            "publisher": "NOWnews",
+            "url": "https://www.nownews.com/news/6810062",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "tpp",
+          "text": {
+            "zh": "OURs 轉述柯文哲 2024 年的稅制主張：自住減稅、多屋重稅、實坪制。",
+            "en": "OURs' account of Ko Wen-je's 2024 tax platform: lower tax for owner-occupiers, heavier tax on multiple homes, and a floor-area-based pricing rule."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "ours",
+          "text": {
+            "zh": "OURs 廖庭輝（2024）：「『囤房稅2.0』的確比過去為佳。」",
+            "en": "OURs' Liao Ting-hui (2024): the second hoarding tax is indeed better than before."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "scholar-chang",
+          "text": {
+            "zh": "張金鶚（2024）形容囤房稅 2.0：「打的投資客不痛不癢」。",
+            "en": "Chang Chin-oh (2024) on the second hoarding tax: it hurts investors neither here nor there."
+          },
+          "source": {
+            "title": "新青安淪投資客炒作？學者曝2政策漏洞：都在玩假的",
+            "publisher": "風傳媒",
+            "url": "https://www.storm.mg/article/5200167",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "scholar-huang",
+          "text": {
+            "zh": "黃耀輝（2026）：囤房稅 2.0 稅負過輕，多屋族平均每戶一年只增加四千多元。",
+            "en": "Huang Yao-hui (2026): the second hoarding tax is too light, adding only a little over NT$4,000 a year per multi-home owner on average."
+          },
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["kmt"]
+    },
+    {
+      "id": "social-housing-count",
+      "question": {
+        "zh": "社會住宅該蓋多少？",
+        "en": "How much social housing should be built?"
+      },
+      "cells": [
+        {
+          "actor": "dpp",
+          "text": {
+            "zh": "民進黨 2023 年新聞稿提出 2032 年社宅總量 25 萬戶、包租代管 25 萬戶。",
+            "en": "The DPP's 2023 release sets 250,000 social housing units and 250,000 leased-and-managed units by 2032."
+          },
+          "source": {
+            "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+            "publisher": "民進黨",
+            "url": "https://www.dpp.org.tw/media/contents/10247",
+            "kind": "primary"
+          },
+          "kind": "primary"
+        },
+        {
+          "actor": "moi",
+          "text": {
+            "zh": "經濟日報記者敘述，內政部直接興建目標由 13 萬戶降為 4 萬至 6 萬戶，2026 到 2027 年優先推動約 40 處、1.1 萬戶。",
+            "en": "Economic Daily News's reporter describes the Interior Ministry's direct-build target as falling from 130,000 to 40,000 to 60,000 units, with about 40 sites and 11,000 units prioritised for 2026 to 2027."
+          },
+          "source": {
+            "title": "社宅政策轉彎？劉世芳：2026至2027年優先推動40處、1.1萬戶",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9274673",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "audit",
+          "text": {
+            "zh": "審計部審核意見（Newtalk 2024-07-30 報導）：截至 113 年 3 月底已發包 98,699 戶，預計 113 年底可達發包 12 萬戶。",
+            "en": "National Audit Office review (Newtalk, 30 July 2024): by end-March 2024 98,699 units had been tendered, with 120,000 expected by end-2024."
+          },
+          "source": {
+            "title": "賴清德喊蓋13萬戶社宅 審計部看衰：需300公頃、土地取得不易",
+            "publisher": "Newtalk",
+            "url": "https://newtalk.tw/news/view/2024-07-30/930163",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "kmt",
+          "text": {
+            "zh": "侯友宜 2023 年提出的住宅政策含社宅用地與容積獎勵、社宅輪候制（Yahoo 股市整理）。",
+            "en": "Hou Yu-ih's 2023 housing policies include land and floor-area bonuses for social housing and a waiting-list system (Yahoo Finance)."
+          },
+          "source": {
+            "title": "提5大住宅政策 侯友宜：全力支持居住正義",
+            "publisher": "Yahoo 股市",
+            "url": "https://tw.stock.yahoo.com/news/%E6%8F%905%E5%A4%A7%E4%BD%8F%E5%AE%85%E6%94%BF%E7%AD%96-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9-105154951.html",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "tpp",
+          "text": {
+            "zh": "OURs 轉述柯文哲 2024 年的政見：大力蓋社宅。",
+            "en": "OURs' account of Ko Wen-je's 2024 platform: build social housing aggressively."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "youth",
+          "text": {
+            "zh": "青年思潮何傑恩：「若要對市場起到平衡作用，租金、租期與品質都受管控的公共住宅必須達到整體住宅5%、約50萬戶。」",
+            "en": "Youth Thinking's Ho Chieh-en: to balance the market, public housing with controlled rent, tenure and quality must reach 5% of all housing, about 500,000 units."
+          },
+          "source": {
+            "title": "賴政府13萬社宅挨批跳票 跨黨派立委偕民團喊話檢討",
+            "publisher": "聯合報",
+            "url": "https://udn.com/news/story/6656/9602270",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "ours",
+          "text": {
+            "zh": "OURs 彭揚凱：「如果現在就停止興建社宅，台灣恐怕會成為「全世界最晚蓋社會住宅，卻最早結束的國家」」。",
+            "en": "OURs' Peng Yang-kai: if construction stops now, Taiwan may become the country that started building social housing last and stopped first."
+          },
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": []
+    },
+    {
+      "id": "youth-eligibility",
+      "question": {
+        "zh": "青年購屋補貼要設哪些門檻？",
+        "en": "What eligibility limits should apply to youth home-buying subsidies?"
+      },
+      "cells": [
+        {
+          "actor": "mof",
+          "text": {
+            "zh": "國庫署長陳柏誠：「為避免變成懲罰結婚者，因此決定排富門檻是以借款人本人的年所得200萬元，作為貸款資格條件。」",
+            "en": "Treasury head Chen Po-cheng: to avoid penalising marriage, the means test uses the borrower's own annual income of NT$2 million as the eligibility condition."
+          },
+          "source": {
+            "title": "青安3.0設年齡房價等條件 個人年收200萬列排富",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/aipl/202607150276.aspx",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "kmt",
+          "text": {
+            "zh": "2023 年底起的「555 方案」，報導列出 1,500 萬元額度、頭期款全額貸、限年齡、首購、排富與轉售限制。",
+            "en": "The '555 plan' from late 2023 is reported as a NT$15 million ceiling, full down-payment financing, age limits, first-home and means tests and resale limits."
+          },
+          "source": {
+            "title": "賴競總抓包「侯康貸」1500萬縮水成1200萬 侯辦：後續的新政策",
+            "publisher": "ETtoday",
+            "url": "https://www.ettoday.net/news/20240108/2659749.htm",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "tpp",
+          "text": {
+            "zh": "OURs 轉述柯文哲 2024 年的政見：購屋補息、租金補貼、社宅優先三選一。",
+            "en": "OURs' account of Ko Wen-je's 2024 platform: a choice of one of mortgage interest subsidy, rent subsidy or social housing priority."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["dpp", "ours"]
+    },
+    {
+      "id": "credit-control",
+      "question": {
+        "zh": "央行的選擇性信用管制該不該放寬？",
+        "en": "Should the central bank ease its selective credit controls?"
+      },
+      "cells": [
+        {
+          "actor": "cbc",
+          "text": {
+            "zh": "央行（2026-09-17 報導引述）：「考量選擇性信用管制成效持續顯現，以及金融機構強化不動產授信風險控管已有一定成效，央行決定適度調整相關信用管制措施。」",
+            "en": "Central bank (quoted 17 September 2026): given the continuing effect of the controls and banks' stronger real estate credit risk management, it decided to adjust the controls appropriately."
+          },
+          "source": {
+            "title": "央行鬆綁房市管制！刪除購地貸款動工期限、提升第二戶貸款成數至7成",
+            "publisher": "自由時報",
+            "url": "https://ec.ltn.com.tw/article/breakingnews/5577362",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "builders",
+          "text": {
+            "zh": "建商公會理事長楊玉全：「現有的信用管制已經讓許多原本穩建經營建商快撐不下去，也造成很多民怨」，並建議再做鬆綁。",
+            "en": "Developers' federation chairman Yang Yu-chuan: current controls have left many sound developers struggling to survive and caused public resentment; he proposes further easing."
+          },
+          "source": {
+            "title": "央行房市管制不變 建商公會：肯定態度但業界快撐不下去 仍盼鬆綁",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9575236",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "brokers",
+          "text": {
+            "zh": "仲介公會全聯會理事長：「第二屋貸款建議應恢復八成」。",
+            "en": "Brokers' association chairman: second-home loans should be restored to 80%."
+          },
+          "source": {
+            "title": "2026年房市代表字「卡」 王瑞祺籲：公會六建言、解除房貸管制最重要",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9197777",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "scholar-lee",
+          "text": {
+            "zh": "李同榮：「央行理事同樣以單一變數「房價所得比」評估為推升房價主因，這簡直是內行人講外行話。」",
+            "en": "Li Tung-jung: central bank board members judging the main driver of prices by the single variable of the price-to-income ratio is an insider talking like an outsider."
+          },
+          "source": {
+            "title": "央行第七波管制不鬆綁因「房價所得比」？李同榮轟：內行人講外行話",
+            "publisher": "工商時報",
+            "url": "https://www.ctee.com.tw/news/20260131700537-430601",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "banks",
+          "text": {
+            "zh": "華南銀行消金副總黃守良（間接引述）：華銀受央行集中度影響較大，即使新青安放寬，能承作的房貸業務仍有限。",
+            "en": "Hua Nan Bank's consumer finance vice president (indirect quotation): the bank is more constrained by the central bank's concentration rule, so even with the Youth Loan eased its mortgage business stays limited."
+          },
+          "source": {
+            "title": "華銀法說會看房市「持平下走」 指主要和央行集中度管理有關",
+            "publisher": "聯合報",
+            "url": "https://udn.com/news/story/7252/9150406",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["dpp", "kmt", "tpp"]
+    },
+    {
+      "id": "rent-transparency",
+      "question": {
+        "zh": "租屋市場要怎麼透明化？",
+        "en": "How should the rental market be made more transparent?"
+      },
+      "cells": [
+        {
+          "actor": "kmt",
+          "text": {
+            "zh": "侯友宜 2023 年提出的住宅政策含租金實價登錄（Yahoo 股市整理）。",
+            "en": "Hou Yu-ih's 2023 housing policies include registering rents at actual prices (Yahoo Finance)."
+          },
+          "source": {
+            "title": "提5大住宅政策 侯友宜：全力支持居住正義",
+            "publisher": "Yahoo 股市",
+            "url": "https://tw.stock.yahoo.com/news/%E6%8F%905%E5%A4%A7%E4%BD%8F%E5%AE%85%E6%94%BF%E7%AD%96-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9-105154951.html",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "moi",
+          "text": {
+            "zh": "經濟日報報導，內政部表示將擴大包租代管作為重要補充。",
+            "en": "Economic Daily News reports the Interior Ministry will expand leased-and-managed housing as an important supplement."
+          },
+          "source": {
+            "title": "都會區土地稀缺！內政部調整社宅策略 包租代管、租金補貼並進",
+            "publisher": "經濟日報",
+            "url": "https://money.udn.com/money/story/5621/9273929",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "ours",
+          "text": {
+            "zh": "OURs 廖庭輝（2024）：「這項「50萬戶租金補貼」幫助租屋族的政策，則是迴避台灣「租屋黑市」的根本問題。」",
+            "en": "OURs' Liao Ting-hui (2024): the 500,000-household rent subsidy sidesteps the underlying problem of Taiwan's informal rental market."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "cmm",
+          "text": {
+            "zh": "崔媽媽基金會呂秉怡：「仍存在資訊不透明及租屋黑市等問題，政府不能再完全以契約自由看待租賃關係」。",
+            "en": "Grandma Cui's Lu Ping-yi: opacity and an informal rental market persist, and the government can no longer treat leases purely as freedom of contract."
+          },
+          "source": {
+            "title": "「716三周年居住正義」論壇 柯文哲、黃國昌攜專家痛批",
+            "publisher": "Yam 天空新聞",
+            "url": "https://n.yam.com/Article/20260716209266",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["dpp", "tpp"]
+    },
+    {
+      "id": "rent-subsidy",
+      "question": {
+        "zh": "租金補貼的規模與走向",
+        "en": "The scale and direction of rent subsidies"
+      },
+      "cells": [
+        {
+          "actor": "dpp",
+          "text": {
+            "zh": "民進黨 2023 年新聞稿：「現行的租金補貼，將加大到每年50萬家戶的補貼量。」",
+            "en": "The DPP's 2023 release: current rent subsidies will be expanded to 500,000 households a year."
+          },
+          "source": {
+            "title": "政府全力推動保障居住權，賴主席提居住正義三大對策，回應國人期待",
+            "publisher": "民進黨",
+            "url": "https://www.dpp.org.tw/media/contents/10247",
+            "kind": "primary"
+          },
+          "kind": "primary"
+        },
+        {
+          "actor": "moi",
+          "text": {
+            "zh": "國土署副署長朱慶倫：「透過多元興辦社宅、包租代管社宅及租金補貼3項政策，依社宅供給進度相互搭配，逐年依需求調整計畫戶數。」",
+            "en": "Agency deputy director Chu Ching-lun: the three tools of social housing, leased-and-managed housing and rent subsidies are matched to supply progress, and planned household numbers are adjusted yearly to demand."
+          },
+          "source": {
+            "title": "民團質疑租補戶數至2032年砍半 國土署：滾動調整",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/822836",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "ours",
+          "text": {
+            "zh": "OURs 彭揚凱：「依照他們現在要實施的這個方案，未來每一年的租金補助戶數會下修」。",
+            "en": "OURs' Peng Yang-kai: under the plan now to be implemented, the number of subsidised households will be revised down each year."
+          },
+          "source": {
+            "title": "民團質疑租補戶數至2032年砍半 國土署：滾動調整",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/822836",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "kmt",
+          "text": {
+            "zh": "侯友宜 2023 年提出的住宅政策含青年租金補貼加碼與超低利貸款（Yahoo 股市整理）。",
+            "en": "Hou Yu-ih's 2023 housing policies include larger youth rent subsidies and ultra-low-rate loans (Yahoo Finance)."
+          },
+          "source": {
+            "title": "提5大住宅政策 侯友宜：全力支持居住正義",
+            "publisher": "Yahoo 股市",
+            "url": "https://tw.stock.yahoo.com/news/%E6%8F%905%E5%A4%A7%E4%BD%8F%E5%AE%85%E6%94%BF%E7%AD%96-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9-105154951.html",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "tpp",
+          "text": {
+            "zh": "OURs 轉述柯文哲 2024 年的政見：購屋補息、租金補貼、社宅優先三選一。",
+            "en": "OURs' account of Ko Wen-je's 2024 platform: a choice of one of mortgage interest subsidy, rent subsidy or social housing priority."
+          },
+          "source": {
+            "title": "【投書】OURs都市改革組織評析：2024大選總統候選人居住政策",
+            "publisher": "報導者（廖庭輝）",
+            "url": "https://twreporter.org/a/opinion-2024-elections-presidential-candidates-housing-justice",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": []
+    },
+    {
+      "id": "loan-risk",
+      "question": {
+        "zh": "新青安的寬限期與放款風險怎麼看？",
+        "en": "How should the grace period and lending risk of the new Youth Loan be viewed?"
+      },
+      "cells": [
+        {
+          "actor": "cbc",
+          "text": {
+            "zh": "央行總裁楊金龍（2024-06-13）：「至於有什麼漏洞，這是財政部的職責，我們不會越俎代庖，超越職責。」",
+            "en": "Central bank Governor Yang Chin-long (13 June 2024): as for loopholes, that is the Ministry of Finance's responsibility and the bank will not overstep."
+          },
+          "source": {
+            "title": "央行楊金龍曝新青安「衝擊房市」 第6波管制1關鍵未擴全台",
+            "publisher": "ETtoday",
+            "url": "https://finance.ettoday.net/news/2757662",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "mof",
+          "text": {
+            "zh": "財政部長莊翠雲（2026-06-10）：「寬限期最長5年，但是真正適用寬限期到5年的只有23%。」",
+            "en": "Finance Minister Chuang Tsui-yun (10 June 2026): the grace period is at most five years, but only 23% actually use the full five."
+          },
+          "source": {
+            "title": "楊金龍宣布房市信用管制不加碼 營造股多數收紅",
+            "publisher": "公視新聞",
+            "url": "https://news.pts.org.tw/article/812449",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "fsc",
+          "text": {
+            "zh": "金管會（報導引述）：「公股銀確實有背負政策性放款，但法規規定3成，若分子不能調整，也可透過分行吸收存款來加大分母」。",
+            "en": "FSC (quoted by CNA): state-owned banks do carry policy lending, but the rule caps it at 30%, and if the numerator cannot be adjusted the denominator can be enlarged by taking deposits at branches."
+          },
+          "source": {
+            "title": "房貸放款沒額度？金管會找8公股行庫溝通並嚴禁搭售",
+            "publisher": "中央社",
+            "url": "https://www.cna.com.tw/news/afe/202509010296.aspx",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        },
+        {
+          "actor": "banks",
+          "text": {
+            "zh": "華南銀行消金副總黃守良（間接引述）：華銀的銀行法 72 條之 2 額度還夠，但受央行集中度影響較大。",
+            "en": "Hua Nan Bank's consumer finance vice president (indirect quotation): the bank's Article 72-2 headroom is sufficient but the central bank's concentration rule weighs more."
+          },
+          "source": {
+            "title": "華銀法說會看房市「持平下走」 指主要和央行集中度管理有關",
+            "publisher": "聯合報",
+            "url": "https://udn.com/news/story/7252/9150406",
+            "kind": "reported"
+          },
+          "kind": "reported"
+        }
+      ],
+      "missing": ["dpp", "kmt", "tpp"]
+    }
+  ],
+  "surveys": [
+    {
+      "finding": {
+        "zh": "73% 受訪者支持政府以不同方案續辦新青安，27% 不支持。",
+        "en": "73% of respondents support continuing the new Youth Loan in some form; 27% do not."
+      },
+      "who": "永慶房屋",
+      "method": {
+        "zh": "業者的網路會員調查，非隨機抽樣；樣本數與調查期間原文未提供。",
+        "en": "An online survey of the company's members, not a random sample; sample size and fieldwork dates were not given."
+      },
+      "date": "2026 年第 1 季調查（2025-12-24 經濟日報報導）",
+      "source": {
+        "title": "永慶：逾七成民眾支持續辦新青安 近六成認為第七波打炒房政策有效",
+        "publisher": "經濟日報",
+        "url": "https://money.udn.com/money/amp/story/5621/9224282",
+        "kind": "reported"
+      }
+    },
+    {
+      "finding": {
+        "zh": "59% 認為第七波信用管制有幫助，22% 認為沒幫助。",
+        "en": "59% say the seventh round of credit controls helped; 22% say it did not."
+      },
+      "who": "永慶房屋",
+      "method": {
+        "zh": "同上，業者的網路會員調查，非隨機抽樣。",
+        "en": "Same survey: an online member survey, not a random sample."
+      },
+      "date": "2026 年第 1 季調查（2025-12-24 經濟日報報導）",
+      "source": {
+        "title": "永慶：逾七成民眾支持續辦新青安 近六成認為第七波打炒房政策有效",
+        "publisher": "經濟日報",
+        "url": "https://money.udn.com/money/amp/story/5621/9224282",
+        "kind": "reported"
+      }
+    },
+    {
+      "finding": {
+        "zh": "68% 支持第七波信用管制延續至 2026 年。",
+        "en": "68% support carrying the seventh round of controls into 2026."
+      },
+      "who": "永慶房屋",
+      "method": {
+        "zh": "同上，業者的網路會員調查，非隨機抽樣。",
+        "en": "Same survey: an online member survey, not a random sample."
+      },
+      "date": "2026 年第 1 季調查（2025-12-24 經濟日報報導）",
+      "source": {
+        "title": "永慶：逾七成民眾支持續辦新青安 近六成認為第七波打炒房政策有效",
+        "publisher": "經濟日報",
+        "url": "https://money.udn.com/money/amp/story/5621/9224282",
+        "kind": "reported"
+      }
+    },
+    {
+      "finding": {
+        "zh": "2026 年 10 月居住類消費者物價年漲 2.07%，主因房租漲 1.7%。",
+        "en": "In October 2026 the housing component of the consumer price index rose 2.07% year on year, driven by a 1.7% rise in rents."
+      },
+      "who": "行政院主計總處",
+      "method": {
+        "zh": "官方物價統計，無受訪者；本站讀到的是自由時報報導。",
+        "en": "Official price statistics with no respondents; we read Liberty Times's report of the figures."
+      },
+      "date": "2026-11-05 公布",
+      "source": {
+        "title": "連6個月破2％！10月CPI年增2.33％ 沒有輸入型通膨",
+        "publisher": "自由時報",
+        "url": "https://ec.ltn.com.tw/article/breakingnews/5630664",
+        "kind": "reported"
+      }
+    }
+  ]
+}

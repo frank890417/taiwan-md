@@ -8,6 +8,7 @@ import { aboutUI } from './about';
 import { benchUI } from './bench';
 import { dataUI } from './data';
 import { budgetUI } from './budget';
+import { housingUI } from './housing';
 import { contributeUI } from './contribute';
 import { changelogUI } from './changelog';
 import { resourcesUI } from './resources';
@@ -36,6 +37,7 @@ export const ui = {
     ...aboutUI.en,
     ...dataUI.en,
     ...budgetUI.en,
+    ...housingUI.en,
     ...contributeUI.en,
     ...changelogUI.en,
     ...resourcesUI.en,
@@ -3027,6 +3029,7 @@ export const ui = {
     ...aboutUI['zh-TW'],
     ...dataUI['zh-TW'],
     ...budgetUI['zh-TW'],
+    ...housingUI['zh-TW'],
     ...contributeUI['zh-TW'],
     ...changelogUI['zh-TW'],
     ...resourcesUI['zh-TW'],

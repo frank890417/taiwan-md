@@ -1,0 +1,86 @@
+---
+/**
+ * Hero — 專題第一屏：標題、一句帶數字與截止日的引子、三個最有力的數字、往下走的理由。
+ * 三個數字：全國房價所得比、全國房貸負擔率、青安 3.0 前三年利率，全部讀自資料檔。
+ */
+import PageHero from '../../PageHero.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { homeFacts } from '../../../utils/housing/home-facts';
+import { fill } from '../../../utils/housing/format';
+import {
+  DATA,
+  agencyShort,
+  fmtPeriod,
+  qinganSrc,
+  srcOf,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const H = T.hero;
+const f = homeFacts(lang);
+const zh = lang === 'zh-TW';
+const lvl = zh ? f.level.label.zh : f.level.label.en;
+const vars = {
+  period: f.period,
+  pti: f.pti.v.toFixed(2),
+  burden: f.bur.v.toFixed(2),
+  level: lvl,
+  n: f.firstYears,
+  step: f.rateStr(f.stepPct),
+  yr: f.openYear,
+  base: f.rateStr(f.baseRate),
+};
+const src = srcOf(f.ptiS);
+const qsrc = qinganSrc((DATA.qingan as any).rate.source);
+---
+
+<PageHero
+  eyebrow={H.eyebrow}
+  title={H.title}
+  titleSize="clamp"
+  containerWidth="wide"
+  padding="compact"
+>
+  <p class="hs-lede">{fill(H.lede, vars)}</p>
+  <div class="hs-stats">
+    <div class="hs-stat is-lead">
+      <div class="hs-stat-v">
+        {f.pti.v.toFixed(2)}<small>{H.pti.unit}</small>
+      </div>
+      <div class="hs-stat-l">{H.pti.label}</div>
+      <div class="hs-stat-s">{fill(H.pti.sub, vars)}</div>
+    </div>
+    <div class="hs-stat">
+      <div class="hs-stat-v">{f.bur.v.toFixed(2)}<small>%</small></div>
+      <div class="hs-stat-l">{H.burden.label}</div>
+      <div class="hs-stat-s">{fill(H.burden.sub, vars)}</div>
+    </div>
+    <div class="hs-stat is-warm">
+      <div class="hs-stat-v">
+        {f.rateStr(f.firstStep.netRatePct)}<small>%</small>
+      </div>
+      <div class="hs-stat-l">{fill(H.qingan.label, vars)}</div>
+      <div class="hs-stat-s">{fill(H.qingan.sub, vars)}</div>
+    </div>
+  </div>
+  <p class="hs-hero-src">
+    <a href={src.url} target="_blank" rel="noopener" class="no-external-icon">
+      {agencyShort(src.agency, lang)}
+    </a>
+    {zh ? '，' : ', '}{T.ui.asOf}
+    {fmtPeriod(src.asOf, lang)}{zh ? '；' : '; '}
+    <a href={qsrc.url} target="_blank" rel="noopener" class="no-external-icon">
+      {agencyShort(qsrc.agency, lang)}
+    </a>
+    {zh ? '，' : ', '}{T.ui.asOf}
+    {fmtPeriod(qsrc.asOf, lang)}
+  </p>
+  <p class="hs-cue">
+    <a class="hs-cta" href="#tool">{H.cta}</a>
+    <span>{H.cue}</span>
+  </p>
+</PageHero>

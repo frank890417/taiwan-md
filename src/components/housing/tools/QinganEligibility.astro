@@ -1,0 +1,205 @@
+---
+/**
+ * QinganEligibility.astro — 青安 3.0 資格自查
+ * 逐條比對「符合／不符合／需銀行認定」，每條展開顯示 qingan.json 的條文原文與來源。
+ * 不輸出「可以貸到」之類的結論句；銀行審核裁量（discretion 條文）固定顯示。
+ * 比對邏輯在 src/utils/housing/qingan.ts，所有條件數字讀 src/data/housing/qingan.json。
+ */
+import ToolShell from './ToolShell.astro';
+import Field from './Field.astro';
+import { labelsFor } from './labels';
+import { useTranslations } from '../../../i18n/utils';
+import type { TranslationKey } from '../../../i18n/utils';
+import { fill } from '../../../utils/housing/format';
+import { nextUid } from '../../../utils/housing/uid';
+import {
+  QINGAN_COUNTIES,
+  eligibilityDefaults,
+  eligibilityView,
+  type AffordabilityFixtures,
+  type Ctx,
+  type QinganData,
+} from '../../../utils/housing/tool-models';
+import qingan from '../../../data/housing/qingan.json';
+import fixtures from '../../../data/housing/calc-fixtures.json';
+import type { Lang } from '../../../types';
+
+interface Props {
+  lang?: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+  headingLevel?: 2 | 3 | 4;
+  syncUrl?: boolean;
+  /** 房貸試算所在頁面的路徑（含語言前綴）；「帶進房貸試算」連結由此組出 */
+  toolsPath?: string;
+}
+const {
+  lang = 'zh-TW',
+  variant = 'inline',
+  headingLevel = 3,
+  syncUrl = true,
+  toolsPath = '',
+} = Astro.props;
+
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const uid = nextUid('qe');
+const labels = labelsFor(lang, ['common.', 'elig.', 'county.']);
+const q = qingan as unknown as QinganData;
+const fx = fixtures as unknown as AffordabilityFixtures;
+const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
+const values = eligibilityDefaults();
+const view = eligibilityView(values, ctx);
+const L = (k: string) => labels[k] ?? k;
+const f = (
+  name: string,
+  label: string,
+  extra: Record<string, any> = {},
+): any => ({
+  name,
+  label,
+  uid,
+  values,
+  ...extra,
+});
+const yesNo = [
+  { value: 'yes', label: L('common.yes') },
+  { value: 'no', label: L('common.no') },
+];
+const c = q.current;
+const sources = [q.sources.principles, q.sources.faq, q.sources.v3Release].map(
+  (s) => ({ agency: s.agency, title: s.title, url: s.url, date: q.asOf }),
+);
+---
+
+<ToolShell
+  lang={lang}
+  tool="elig"
+  variant={variant}
+  title={tt('elig.title')}
+  intro={tt('elig.intro')}
+  headingLevel={headingLevel}
+  asOf={q.asOf}
+  sources={sources}
+  labelsJson={JSON.stringify(labels)}
+  toolsPath={toolsPath}
+  syncUrl={syncUrl}
+>
+  <div class="hst-layout">
+    <form class="hst-form" autocomplete="off" onsubmit="return false">
+      <fieldset class="hst-group">
+        <legend>{L('elig.group.person')}</legend>
+        <Field
+          {...f('age', L('elig.f.age'), { step: '1', min: '18', max: '120' })}
+        />
+        <Field
+          {...f('term', L('elig.f.term'), { step: '1', min: '1', max: '50' })}
+        />
+        <Field {...f('income', L('elig.f.income'), { step: '1', min: '0' })} />
+      </fieldset>
+      <fieldset class="hst-group">
+        <legend>{L('elig.group.property')}</legend>
+        <Field
+          {...f('county', L('elig.f.county'), {
+            kind: 'select',
+            options: [
+              { value: '', label: '—' },
+              ...QINGAN_COUNTIES.map((n) => ({
+                value: n,
+                label: L(`county.${n}`),
+              })),
+            ],
+          })}
+        />
+        <Field {...f('price', L('elig.f.price'), { step: '10', min: '1' })} />
+        <Field
+          {...f(
+            'purchased',
+            fill(L('elig.f.purchased'), { months: c.purchasedWithinMonths }),
+            {
+              kind: 'select',
+              options: yesNo,
+            },
+          )}
+        />
+      </fieldset>
+      <fieldset class="hst-group">
+        <legend>{L('elig.group.household')}</legend>
+        <Field
+          {...f('home', L('elig.f.home'), {
+            kind: 'select',
+            options: (['none', 'share', 'parkingOrNiche', 'has'] as const).map(
+              (h) => ({ value: h, label: L(`elig.home.${h}`) }),
+            ),
+          })}
+        />
+        <Field
+          {...f('shareSqm', L('elig.f.shareSqm'), {
+            step: '0.1',
+            min: '0',
+            when: 'home=share',
+          })}
+        />
+        <Field
+          {...f('used', fill(L('elig.f.used'), { date: c.onceOnlySince }), {
+            kind: 'select',
+            options: yesNo,
+          })}
+        />
+        <Field
+          {...f(
+            'newlywed',
+            fill(L('elig.f.newlywed'), { years: c.newlywedWithinYears }),
+            { kind: 'select', options: yesNo },
+          )}
+        />
+        <Field
+          {...f('child', L('elig.f.child'), { kind: 'select', options: yesNo })}
+        />
+      </fieldset>
+      <button type="button" class="hst-btn" data-hs-reset>
+        {L('common.reset')}
+      </button>
+    </form>
+
+    <div class="hst-results">
+      <div class="hst-out" aria-live="polite">
+        <h4 class="hst-sub">{L('elig.resultsTitle')}</h4>
+        <p class="hst-take" data-hs-out="tally">{view.text.tally}</p>
+        <dl class="hst-stats">
+          <div class="hst-stat hst-stat-key">
+            <dt>{L('elig.limitTitle')}</dt>
+            <dd data-hs-out="limitValue">{view.text.limitValue}</dd>
+          </div>
+        </dl>
+        <p class="hst-line" data-hs-out="limitNote">{view.text.limitNote}</p>
+      </div>
+      <div class="hst-visuals">
+        <div data-hs-html="checks" set:html={view.html.checks} />
+        <h4 class="hst-sub">{L('elig.discretionTitle')}</h4>
+        <div data-hs-html="discretion" set:html={view.html.discretion} />
+        <details class="hst-more">
+          <summary>{L('elig.othersTitle')}</summary>
+          <div data-hs-html="others" set:html={view.html.others} />
+        </details>
+        <p>
+          <a
+            class="hst-link-btn"
+            data-hs-href="toMortgage"
+            href={view.href.toMortgage}
+          >
+            {L('elig.toMortgage')}
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <Fragment slot="assump">
+    <p>{L('elig.assump')}</p>
+  </Fragment>
+</ToolShell>
+
+<script>
+  import { bootTool } from '../../../utils/housing/tool-boot';
+  bootTool('elig');
+</script>

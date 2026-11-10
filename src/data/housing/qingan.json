@@ -1,0 +1,368 @@
+{
+  "$comment": "青年安心成家購屋優惠貸款（青安）三代條件、利率與時間線。事實只取自 reports/research/2026-11/housing-xinqingan.md 中讀過官方原文的項目；kind=reported 表示目前只有媒體轉述。政策調整時改這一份，頁面與試算工具都讀這裡。",
+  "asOf": "2026-11-10",
+  "retrieved": "2026-11-10",
+  "sources": {
+    "principles": {
+      "agency": "財政部國庫署",
+      "title": "公股銀行辦理青年安心成家購屋優惠貸款原則",
+      "url": "https://www.nta.gov.tw/singlehtml/108",
+      "kind": "primary"
+    },
+    "faq": {
+      "agency": "財政部國庫署",
+      "title": "公股銀行辦理青年安心成家購屋優惠貸款問與答",
+      "url": "https://www.nta.gov.tw/singlehtml/109",
+      "kind": "primary"
+    },
+    "v3Release": {
+      "agency": "財政部國庫署",
+      "title": "財政部青安貸款3.0，加碼支持婚育家庭，持續協助民眾購屋安居（2026-07-16）",
+      "url": "https://www.nta.gov.tw/singlehtml/238?cntId=6bcd4dfe5dbd466a9432bd641690eb6c",
+      "kind": "primary"
+    },
+    "v3Policy": {
+      "agency": "行政院",
+      "title": "青安3.0方案",
+      "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/ada805bf-1ccf-46e2-b13a-6cade76ec000",
+      "kind": "primary"
+    },
+    "v2Release": {
+      "agency": "財政部國庫署",
+      "title": "財政部青安貸款精進方案，擴大協助民眾購屋成家（2023-07-13）",
+      "url": "https://www.nta.gov.tw/singlehtml/238?cntId=920b532b53774705b2ede2f1bd7a36f0",
+      "kind": "primary"
+    },
+    "onceOnly": {
+      "agency": "財政部國庫署",
+      "title": "新青安貸款新增不得再次申貸規定（2024-06-27）",
+      "url": "https://www.nta.gov.tw/singlehtml/238?cntId=91ebf803bc324770964912e9b02afab1",
+      "kind": "primary"
+    },
+    "fsc722": {
+      "agency": "金融監督管理委員會",
+      "title": "銀行辦理新青安貸款案件114年9月1日後撥款者不計入銀行法第72條之2限額（2025-09-04）",
+      "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509040001&toolsflag=Y&dtable=News",
+      "kind": "primary"
+    },
+    "cbcRelief": {
+      "agency": "中央銀行",
+      "title": "本行選擇性信用管制規範之協處措施（2024-10-09）",
+      "url": "https://www.cbc.gov.tw/tw/cp-4220-176444-cf520-1.html",
+      "kind": "primary"
+    },
+    "monthly": {
+      "agency": "財政部國庫署",
+      "title": "公股銀行辦理青年安心成家貸款統計資料（截至 115 年 9 月底）",
+      "url": "https://www.nta.gov.tw/singlehtml/111?cntId=4c772290eff34c15888d24ad20d8565f",
+      "kind": "primary"
+    },
+    "tcb": {
+      "agency": "合作金庫商業銀行",
+      "title": "財政部青年安心成家貸款",
+      "url": "https://www.tcb-bank.com.tw/personal-banking/loan/mortgage/policy-loan-01",
+      "kind": "primary"
+    },
+    "nplRelease": {
+      "agency": "財政部國庫署",
+      "title": "財政部將就114年9月1日起新青安貸款不計入銀行法第72條之2限額，督導公股銀行落實徵授信審核（2025-09-04）",
+      "url": "https://www.nta.gov.tw/singlehtml/238?cntId=b9ff2ececd8e4ea18a9c7ed99787866b",
+      "kind": "primary"
+    }
+  },
+  "naming": [
+    {
+      "id": "v1",
+      "official": "青安貸款",
+      "nickname": "舊青安",
+      "from": "2010-12-01",
+      "to": "2023-07-31"
+    },
+    {
+      "id": "v2",
+      "official": "青安2.0（青安貸款精進方案）",
+      "nickname": "新青安",
+      "from": "2023-08-01",
+      "to": "2026-07-31"
+    },
+    {
+      "id": "v3",
+      "official": "青安3.0",
+      "nickname": "2026 上半年媒體稱「新青安2.0」",
+      "from": "2026-08-01",
+      "to": "2029-07-31",
+      "note": "申辦期至 2029-07-31，撥款日最遲 2029-10-31"
+    }
+  ],
+  "rate": {
+    "benchmark": {
+      "name": "中華郵政二年期定期儲金（額度未達 500 萬元）機動利率",
+      "pct": 1.72,
+      "since": "2024-03-27",
+      "source": "faq"
+    },
+    "spreadPct": 0.555,
+    "baseRatePct": 2.275,
+    "subsidySteps": [
+      {
+        "years": 3,
+        "subsidyPct": 0.5,
+        "netRatePct": 1.775
+      },
+      {
+        "years": 1,
+        "subsidyPct": 0.375,
+        "netRatePct": 1.9
+      },
+      {
+        "years": 1,
+        "subsidyPct": 0.25,
+        "netRatePct": 2.025
+      },
+      {
+        "years": 1,
+        "subsidyPct": 0.125,
+        "netRatePct": 2.15
+      },
+      {
+        "years": null,
+        "subsidyPct": 0,
+        "netRatePct": 2.275
+      }
+    ],
+    "note": "一段式機動利率（2021-01-01 起新貸案）。補貼 2 碼＝內政部住宅基金 1.5 碼＋公股銀行減收半碼；滿 3 年後每年減半碼，第 7 年起回復原貸款利率。青安2.0 既有貸戶同樣適用遞減。",
+    "source": "v3Release"
+  },
+  "current": {
+    "version": "v3",
+    "limits": {
+      "general": 10000000,
+      "newlywed": 12000000,
+      "withMinorChild": 15000000
+    },
+    "maxYears": 40,
+    "maxGraceMonths": 60,
+    "maxLtv": 0.8,
+    "maxAgeAtApplication": 50,
+    "ageAtApplicationExclusive": true,
+    "agePlusTermMax": 80,
+    "maxBorrowerAnnualIncome": 2000000,
+    "priceCaps": {
+      "臺北市": 35000000,
+      "新北市": 25000000,
+      "新竹縣": 25000000,
+      "新竹市": 25000000,
+      "default": 20000000
+    },
+    "newlywedWithinYears": 2,
+    "purchasedWithinMonths": 6,
+    "minShareExemptSqm": 40,
+    "onceOnlySince": "2023-08-01",
+    "rateOptions": ["single"],
+    "banks": [
+      "臺灣銀行",
+      "土地銀行",
+      "合作金庫",
+      "第一銀行",
+      "華南銀行",
+      "彰化銀行",
+      "兆豐銀行",
+      "臺灣企銀"
+    ],
+    "source": "principles"
+  },
+  "clauses": [
+    {
+      "id": "age",
+      "quote": "借款人符合民法規定之成年年齡以上，申貸時未滿50歲，且借款人與其配偶及未成年子女均無自有住宅者。",
+      "source": "principles"
+    },
+    {
+      "id": "onceOnly",
+      "quote": "112年8月1日以後經銀行核貸本優惠貸款者或經農業金融機構核貸青年安居購屋優惠貸款（下稱農安貸款）者，不得申貸本優惠貸款。",
+      "source": "principles"
+    },
+    {
+      "id": "selfUse",
+      "quote": "自住用途：核貸時借款人須簽訂自用住宅使用切結書，並經承辦銀行查證確係作為自用住宅使用。",
+      "source": "principles"
+    },
+    {
+      "id": "noHome",
+      "quote": "以申辦時借款人本人、配偶及未成年子女『全國財產稅總歸戶財產查詢清單』均查無建物資料為原則；惟倘持有建物屬停車位、靈骨塔位，得經承辦銀行依實況查核審認後，視為無自有住宅。",
+      "source": "faq"
+    },
+    {
+      "id": "share",
+      "quote": "所持有建物之持分換算面積合計未滿40平方公尺，可申辦本項貸款",
+      "source": "faq"
+    },
+    {
+      "id": "noRent",
+      "quote": "借款人將大於其自住需求之「居住空間」出租，如房間分租、整層（戶）出租、頂樓加蓋出租、作為公益出租人出租等，均影響房屋居住空間之自住事實，不符本項貸款協助購屋自住之政策目的",
+      "source": "faq"
+    },
+    {
+      "id": "discretion",
+      "quote": "並非每案均得以本項貸款最高額度上限、貸款最高成數8成或寬限期最長5年及最長40年期核貸。",
+      "source": "faq"
+    },
+    {
+      "id": "violation",
+      "quote": "倘貸後經承辦銀行查證借款人所購置住宅非供自住使用情形或有為符合貸款資格條件，提供虛偽不實之文件者，應自事實發生日起停止利息補貼，且借款人已溢領利息補貼者，應由承辦銀行追回",
+      "source": "principles"
+    },
+    {
+      "id": "window",
+      "quote": "自115年8月1日起至118年7月31日均得申請辦理，惟撥款日至遲不得逾118年10月31日。",
+      "source": "faq"
+    }
+  ],
+  "generations": [
+    {
+      "id": "v1",
+      "limit": "800 萬（2016-01-01 起；開辦時 500 萬）",
+      "years": "30 年",
+      "grace": "3 年",
+      "ltv": "最高 8 成",
+      "age": "成年",
+      "incomeCap": "無",
+      "priceCap": "無",
+      "onceOnly": "無",
+      "rateOptions": "混合式固定、一段式機動（2019 起）",
+      "target": "成屋"
+    },
+    {
+      "id": "v2",
+      "limit": "1,000 萬",
+      "years": "40 年",
+      "grace": "5 年",
+      "ltv": "最高 8 成",
+      "age": "成年，無上限",
+      "incomeCap": "無",
+      "priceCap": "無",
+      "onceOnly": "2024-06-27 起限貸一次，新貸戶簽自住切結",
+      "rateOptions": "一段式、二段式、混合式",
+      "target": "成屋"
+    },
+    {
+      "id": "v3",
+      "limit": "1,000 萬；兩年內結婚登記 1,200 萬；育有未成年子女 1,500 萬",
+      "years": "40 年（含寬限期）",
+      "grace": "最長 5 年",
+      "ltv": "最高 8 成",
+      "age": "申貸時未滿 50 歲，且年齡加年限不逾 80",
+      "incomeCap": "借款人本人年所得不逾 200 萬",
+      "priceCap": "臺北市 3,500 萬；新北市、新竹縣市 2,500 萬；其他縣市 2,000 萬",
+      "onceOnly": "維持限貸一次與自住切結",
+      "rateOptions": "只剩一段式機動",
+      "target": "申請日前 6 個月內因買賣取得所有權的住宅"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2010-12-01",
+      "event": "財政部推出青年安心成家購屋優惠貸款，由 8 家公股銀行以自有資金辦理",
+      "source": "v3Release"
+    },
+    {
+      "date": "2016-01-01",
+      "event": "額度由 500 萬提高為 800 萬",
+      "sourceUrl": "https://www.ey.gov.tw/Page/9277F759E41CCD91/6d89cbe3-12ba-462d-9b07-1b0fe0fb3822",
+      "kind": "primary"
+    },
+    {
+      "date": "2023-07-13",
+      "event": "行政院院會通過精進方案：額度 1,000 萬、年限 40 年、寬限期 5 年，利息補貼至 2026-07-31",
+      "source": "v2Release"
+    },
+    {
+      "date": "2023-08-01",
+      "event": "新青安（青安2.0）上路",
+      "source": "v2Release"
+    },
+    {
+      "date": "2024-03-22",
+      "event": "央行升息半碼，政府同幅加碼補貼，一段式補貼後維持 1.775%",
+      "sourceUrl": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=a518c08ae1d24bc29a4688022244bb08",
+      "kind": "primary"
+    },
+    {
+      "date": "2024-06-27",
+      "event": "新增限貸一次，新貸戶須簽自住切結書",
+      "source": "onceOnly"
+    },
+    {
+      "date": "2024-07-16",
+      "event": "首波查核：未符自住 1,502 件（出租 1,332、人頭戶 170）",
+      "sourceUrl": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=d23e786f153c46cf88134f096abfcc6c",
+      "kind": "primary"
+    },
+    {
+      "date": "2024-08-21",
+      "event": "第二波查核：未符自住 73 件（出租 34、人頭戶 39）",
+      "sourceUrl": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=108f16b9e6ca4618903a67b88bd6faa8",
+      "kind": "primary"
+    },
+    {
+      "date": "2024-10-09",
+      "event": "央行協處措施：新青安（非高價住宅）不受第七波管制的第 1、2 戶限制",
+      "source": "cbcRelief"
+    },
+    {
+      "date": "2025-09-04",
+      "event": "金管會令釋：2025-09-01 後撥款的新青安不計入銀行法第 72 條之 2 限額",
+      "source": "fsc722"
+    },
+    {
+      "date": "2025-09-05",
+      "event": "財政部：至 2025-07 底累計追回補貼 5,421 件、1 億 348 萬餘元；已核貸待撥款 12,923 件、1,257 億餘元",
+      "sourceUrl": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=4c1702994b51489fba7b4d14823172ae",
+      "kind": "primary"
+    },
+    {
+      "date": "2026-07-16",
+      "event": "行政院第 4012 次院會通過青安3.0",
+      "source": "v3Release"
+    },
+    {
+      "date": "2026-08-01",
+      "event": "青安3.0 上路；青安2.0 補貼滿 3 年的貸戶開始每年減半碼",
+      "source": "v3Release"
+    }
+  ],
+  "scale": {
+    "asOf": "2026-09-30",
+    "allCumulative": {
+      "households": 530812,
+      "amountYi": 29014.97
+    },
+    "v3Cumulative": {
+      "households": 1862,
+      "amountYi": 157.7
+    },
+    "v3Applications": {
+      "households": 8237,
+      "amountYi": 703.64
+    },
+    "v2Approx": {
+      "households": 171705,
+      "amountYi": 13410.04,
+      "derived": true,
+      "note": "本站計算：2026-06 底累計撥貸減 2023-07 底累計撥貸；官方稿用語為「青安2.0核貸17萬餘戶」"
+    },
+    "nplPct": {
+      "qingan": 0.04,
+      "allMortgage": 0.08,
+      "asOf": "2025-07-31",
+      "source": "nplRelease"
+    },
+    "source": "monthly"
+  },
+  "openQuestions": [
+    "金管會是否對青安3.0 繼續排除銀行法第 72 條之 2 限額：沒有讀到 2026 年官方文件",
+    "財政部 2026 年同口徑的違規追回累計數：沒有資料",
+    "新青安占全體新承做購置住宅貸款的比重：沒有官方數字",
+    "官方或公股銀行的月付金試算表：沒有公布"
+  ]
+}

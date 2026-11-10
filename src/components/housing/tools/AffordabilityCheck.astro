@@ -1,0 +1,253 @@
+---
+/**
+ * AffordabilityCheck.astro — 房價負擔能力自查
+ * 算房貸負擔率、房價所得比與內政部四級；可切「官方算法」與「我的條件」，並對照縣市官方值。
+ * 公式在 src/utils/housing/mortgage.ts，門檻與官方值讀 src/data/housing/calc-fixtures.json。
+ */
+import ToolShell from './ToolShell.astro';
+import Field from './Field.astro';
+import { labelsFor } from './labels';
+import { useTranslations } from '../../../i18n/utils';
+import type { TranslationKey } from '../../../i18n/utils';
+import { fill } from '../../../utils/housing/format';
+import { nextUid } from '../../../utils/housing/uid';
+import {
+  affordabilityDefaults,
+  affordabilityView,
+  periodLabel,
+  type AffordabilityFixtures,
+  type Ctx,
+  type QinganData,
+} from '../../../utils/housing/tool-models';
+import { isShown } from '../../../utils/housing/tool-ui';
+import qingan from '../../../data/housing/qingan.json';
+import fixtures from '../../../data/housing/calc-fixtures.json';
+import type { Lang } from '../../../types';
+
+interface Props {
+  lang?: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+  headingLevel?: 2 | 3 | 4;
+  syncUrl?: boolean;
+  toolsPath?: string;
+}
+const {
+  lang = 'zh-TW',
+  variant = 'inline',
+  headingLevel = 3,
+  syncUrl = true,
+  toolsPath = '',
+} = Astro.props;
+
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const uid = nextUid('af');
+const labels = labelsFor(lang, ['common.', 'afford.', 'band.', 'county.']);
+const q = qingan as unknown as QinganData;
+const fx = fixtures as unknown as AffordabilityFixtures;
+const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
+const values = affordabilityDefaults(ctx);
+const view = affordabilityView(values, ctx);
+const L = (k: string) => labels[k] ?? k;
+const hid = (expr: string) => !isShown(expr, values);
+const f = (
+  name: string,
+  label: string,
+  extra: Record<string, any> = {},
+): any => ({
+  name,
+  label,
+  uid,
+  values,
+  ...extra,
+});
+const fxAny = fixtures as any;
+const sources = [
+  {
+    agency: '內政部不動產資訊平台',
+    title: fxAny.officialAffordability.sourceTitle,
+    url: fxAny.officialAffordability.sourceUrl,
+    date: fxAny.asOf,
+  },
+  {
+    agency: fxAny.affordabilityBandsSource.agency,
+    title: fxAny.affordabilityBandsSource.title,
+    url: fxAny.affordabilityBandsSource.url,
+    date: fxAny.asOf,
+  },
+];
+const counties = fx.officialAffordability.rows.filter((r) => r.name !== '全國');
+---
+
+<ToolShell
+  lang={lang}
+  tool="afford"
+  variant={variant}
+  title={tt('afford.title')}
+  intro={tt('afford.intro')}
+  headingLevel={headingLevel}
+  asOf={q.asOf}
+  sources={sources}
+  labelsJson={JSON.stringify(labels)}
+  toolsPath={toolsPath}
+  syncUrl={syncUrl}
+>
+  <div class="hst-layout">
+    <form class="hst-form" autocomplete="off" onsubmit="return false">
+      <fieldset class="hst-group">
+        <legend>{L('afford.f.mode')}</legend>
+        <Field
+          {...f('mode', L('afford.f.mode'), {
+            kind: 'select',
+            options: [
+              { value: 'official', label: L('afford.mode.official') },
+              { value: 'mine', label: L('afford.mode.mine') },
+            ],
+          })}
+        />
+        <p
+          class="hst-help"
+          data-hs-when="mode=official"
+          hidden={hid('mode=official')}
+        >
+          {view.text.officialNote}
+        </p>
+        <p class="hst-help" data-hs-when="mode=mine" hidden={hid('mode=mine')}>
+          {L('afford.mineNote')}
+        </p>
+      </fieldset>
+      <fieldset class="hst-group">
+        <legend>{L('afford.group.inputs')}</legend>
+        <Field {...f('price', L('afford.f.price'), { step: '10', min: '1' })} />
+        <Field
+          {...f('income', L('afford.f.income'), { step: '0.01', min: '1' })}
+        />
+        <Field
+          {...f('down', L('afford.f.down'), {
+            step: '10',
+            min: '0',
+            disableWhen: 'mode=official',
+          })}
+        />
+        <Field
+          {...f('rate', L('afford.f.rate'), {
+            step: '0.001',
+            min: '0',
+            disableWhen: 'mode=official',
+          })}
+        />
+        <Field
+          {...f('years', L('afford.f.years'), {
+            step: '1',
+            min: '1',
+            max: '50',
+            disableWhen: 'mode=official',
+          })}
+        />
+        <Field
+          {...f('county', L('afford.f.county'), {
+            kind: 'select',
+            options: [
+              { value: '', label: L('afford.county.none') },
+              ...counties.map((c) => ({
+                value: c.name,
+                label: L(`county.${c.name}`),
+              })),
+            ],
+          })}
+        />
+      </fieldset>
+      <button type="button" class="hst-btn" data-hs-reset>
+        {L('common.reset')}
+      </button>
+    </form>
+
+    <div class="hst-results">
+      <div class="hst-out" aria-live="polite">
+        <p
+          class="hst-error"
+          data-hs-show="error"
+          data-hs-out="error"
+          hidden={!view.show.error}
+        >
+          {view.text.error}
+        </p>
+        <div
+          class="hst-results"
+          data-hs-show="result"
+          hidden={!view.show.result}
+        >
+          <dl class="hst-stats">
+            <div class="hst-stat hst-stat-key">
+              <dt>{L('afford.stat.ratio')}</dt>
+              <dd data-hs-out="ratio">{view.text.ratio}</dd>
+            </div>
+            <div class="hst-stat hst-stat-key">
+              <dt>{L('afford.stat.p2i')}</dt>
+              <dd data-hs-out="p2i">{view.text.p2i}</dd>
+            </div>
+            <div class="hst-stat hst-stat-key">
+              <dt>{L('afford.stat.band')}</dt>
+              <dd data-hs-out="band">{view.text.band}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('afford.stat.loan')}</dt>
+              <dd data-hs-out="loan">{view.text.loan}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('afford.stat.payment')}</dt>
+              <dd data-hs-out="payment">{view.text.payment}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('afford.stat.monthlyIncome')}</dt>
+              <dd data-hs-out="monthlyIncome">{view.text.monthlyIncome}</dd>
+            </div>
+          </dl>
+          <p class="hst-line">
+            <span data-hs-out="maxLabel">{view.text.maxLabel}</span>
+            <strong data-hs-out="maxLoan">{view.text.maxLoan}</strong>；{
+              L('afford.max.price')
+            }
+            <strong data-hs-out="maxPrice">{view.text.maxPrice}</strong>
+          </p>
+          <p class="hst-line" data-hs-out="nationLine">
+            {view.text.nationLine}
+          </p>
+          <p
+            class="hst-line"
+            data-hs-show="county"
+            data-hs-out="countyLine"
+            hidden={!view.show.county}
+          >
+            {view.text.countyLine}
+          </p>
+        </div>
+      </div>
+      <div class="hst-visuals" data-hs-show="result" hidden={!view.show.result}>
+        <h4 class="hst-sub" data-hs-out="rulerTake">{view.text.rulerTake}</h4>
+        <div
+          class="hst-chart"
+          data-hs-html="ruler"
+          set:html={view.html.ruler}
+        />
+        <details class="hst-more">
+          <summary>{L('common.chartData')}</summary>
+          <div
+            class="hst-tablewrap"
+            data-hs-html="bandTable"
+            set:html={view.html.bandTable}
+          />
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <Fragment slot="assump">
+    <p>{fill(L('afford.assump'), { period: periodLabel(fx, lang) })}</p>
+  </Fragment>
+</ToolShell>
+
+<script>
+  import { bootTool } from '../../../utils/housing/tool-boot';
+  bootTool('afford');
+</script>

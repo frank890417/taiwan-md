@@ -1,0 +1,2260 @@
+{
+  "$comment": "台灣住宅與房地產發展時間線。事實只取自 reports/research/2026-11/housing-history-timeline.md 與 housing-positions.md 中讀過原文的項目；標【摘】、僅搜尋摘要、維基文庫轉錄與維基線索的項目一律不收。kind=primary 只給官方機關、法規資料庫與當事團體自己的網站，媒體報導一律 reported。青安相關日期以 qingan.json 為準，其來源網址取自該檔。人數與漲幅有多個說法者並列，沒有挑一個。",
+  "retrieved": "2026-11-10",
+  "eras": [
+    {
+      "id": "land",
+      "from": 1945,
+      "to": 1974,
+      "title": {
+        "zh": "土地與安置",
+        "en": "Land and resettlement"
+      },
+      "lede": {
+        "zh": "這個時期留下可查證記錄的住宅政策只有美援貸款與省級國宅辦法。土地改革的法條本站沒有取得官方原文，所以沒有收進來。",
+        "en": "The housing policies with a verifiable record from this period are the aid-funded housing loans and the provincial public housing rules. We did not obtain official texts of the land-reform laws, so they are not included."
+      }
+    },
+    {
+      "id": "nationalhousing",
+      "from": 1975,
+      "to": 1986,
+      "title": {
+        "zh": "國宅年代",
+        "en": "The public housing era"
+      },
+      "lede": {
+        "zh": "1975 年《國民住宅條例》公布，政府以計畫直接興建國宅；1982 年修法後，政策轉向以獎勵投資興建為主。",
+        "en": "The Public Housing Act of 1975 launched planned direct government construction; after the 1982 amendment policy shifted to encouraging investment-built housing."
+      }
+    },
+    {
+      "id": "bubble",
+      "from": 1987,
+      "to": 1999,
+      "title": {
+        "zh": "第一次全民房價焦慮",
+        "en": "The first nationwide worry about prices"
+      },
+      "lede": {
+        "zh": "1987 到 1990 年間台北房價大幅上漲，1989 年無殼蝸牛夜宿忠孝東路。1999 年政府宣布停建國宅，同年發生九二一地震。",
+        "en": "Taipei prices rose sharply between 1987 and 1990, and in 1989 the Snail Without a Shell movement slept out on Zhongxiao East Road. In 1999 the government announced an end to public housing construction, and the 921 earthquake struck the same year."
+      }
+    },
+    {
+      "id": "lowrate",
+      "from": 2000,
+      "to": 2010,
+      "title": {
+        "zh": "低利與減稅",
+        "en": "Cheap credit and tax cuts"
+      },
+      "lede": {
+        "zh": "2000 年起政府推出優惠購屋專案貸款，到 2003 年額度累計 8,000 億元。2010 年央行再度對特定地區訂出購屋貸款規定，青安貸款同年底開辦。",
+        "en": "From 2000 the government ran preferential home-purchase loans, with the quota reaching NT$800 billion by 2003. In 2010 the central bank again set home-loan rules for designated areas, and the Youth Home-Starter Loan began at the end of that year."
+      }
+    },
+    {
+      "id": "rules",
+      "from": 2011,
+      "to": 2019,
+      "title": {
+        "zh": "制度補課",
+        "en": "Catching up on the rulebook"
+      },
+      "lede": {
+        "zh": "2011 到 2019 年間，特種貨物及勞務稅、住宅法、實價登錄、房地合一稅、租賃專法與危老條例相繼公布，2014 年巢運走上仁愛路。",
+        "en": "Between 2011 and 2019 the special goods tax, the Housing Act, actual-price registration, the combined housing-and-land tax, the rental act and the old-building rebuilding act were all put in place, and in 2014 the Nest movement took to Ren'ai Road."
+      }
+    },
+    {
+      "id": "controls",
+      "from": 2020,
+      "to": 2026,
+      "title": {
+        "zh": "管制年代",
+        "en": "The era of controls"
+      },
+      "lede": {
+        "zh": "2020 年 12 月央行發動第一波選擇性信用管制，之後陸續出到第七波；2026 年又兩度放寬第 2 戶成數。青安 3.0 在 2026 年 8 月 1 日上路。",
+        "en": "The central bank began selective credit controls in December 2020 and added rounds up to a seventh; in 2026 it eased the second-home cap twice. Youth Loan 3.0 took effect on 1 August 2026."
+      }
+    }
+  ],
+  "events": [
+    {
+      "date": "1951-06-07",
+      "precision": "day",
+      "era": "land",
+      "kind": "law",
+      "title": {
+        "zh": "耕地三七五減租條例公布",
+        "en": "Farmland rent reduction act promulgated"
+      },
+      "body": {
+        "zh": "條例制定公布全文 30 條，自公布日施行，把耕地租額上限寫進法律。",
+        "en": "The act, 30 articles in all, took effect on promulgation and wrote a ceiling on farmland rents into law."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "耕地三七五減租條例 法規沿革",
+          "publisher": "全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060008",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/history/台灣土地改革/"]
+    },
+    {
+      "date": "1954-08-26",
+      "precision": "day",
+      "era": "land",
+      "kind": "law",
+      "title": {
+        "zh": "實施都市平均地權條例公布",
+        "en": "Urban land rights equalization act promulgated"
+      },
+      "body": {
+        "zh": "條例制定公布全文 47 條。1977-02-02 修正公布名稱及全文 87 條，改名為平均地權條例，沿用至今。",
+        "en": "Promulgated with 47 articles. On 1977-02-02 it was rewritten in 87 articles and renamed the Equalization of Land Rights Act, the name it still carries."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "平均地權條例 法規沿革",
+          "publisher": "全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060009",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/history/台灣土地改革/"]
+    },
+    {
+      "date": "1955",
+      "precision": "year",
+      "era": "land",
+      "kind": "policy",
+      "title": {
+        "zh": "行政院設國民住宅興建委員會",
+        "en": "Executive Yuan sets up a National Housing Construction Committee"
+      },
+      "body": {
+        "zh": "營建署文件記載，1955 年行政院設立國民住宅興建委員會，以美援基金辦理勞工、農漁民及一般中收入家庭的住宅貸款。文件的說法是資金有限、法令受限。",
+        "en": "A Construction and Planning Agency document records that in 1955 the Executive Yuan created a National Housing Construction Committee, using US aid funds for housing loans to workers, farm and fishing households and middle-income families. The document describes the funds as limited and the legal basis as restrictive."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "1959",
+      "precision": "year",
+      "era": "land",
+      "kind": "law",
+      "title": {
+        "zh": "臺灣省公布國民住宅興建管理辦法",
+        "en": "Taiwan Province issues rules for building and managing public housing"
+      },
+      "body": {
+        "zh": "營建署文件記載，臺灣省政府在 1959 年公布《臺灣省國民住宅興建管理辦法》，文中另載這項辦法在民國 73 年（1984）廢止。",
+        "en": "The same Agency document records that the Taiwan Provincial Government issued the Taiwan Province Public Housing Construction and Management Rules in 1959, and that the rules were repealed in 1984 (year 73 of the Republic)."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1975-07-12",
+      "precision": "day",
+      "era": "nationalhousing",
+      "kind": "law",
+      "title": {
+        "zh": "《國民住宅條例》公布",
+        "en": "The Public Housing Act is promulgated"
+      },
+      "body": {
+        "zh": "行政院文件載明，《國民住宅條例》於民國 64 年（1975）7 月 12 日制定公布。",
+        "en": "An Executive Yuan document states that the Public Housing Act was enacted and promulgated on 12 July 1975 (year 64 of the Republic)."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "行政院會廢止「國民住宅條例」",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "1976",
+      "precision": "year",
+      "era": "nationalhousing",
+      "kind": "policy",
+      "title": {
+        "zh": "興建國民住宅六年計畫",
+        "en": "Six-year public housing construction plan"
+      },
+      "body": {
+        "zh": "營建署文件記載，民國 65 到 70 年度（1976 到 1981）政府以六年計畫直接興建國民住宅，目標 106,931 戶。實績為省 35,779 戶、台北市 23,844 戶、高雄市 8,422 戶。",
+        "en": "The Agency document records a six-year plan (fiscal years 1976 to 1981) under which the government built public housing directly, with a target of 106,931 units. Completed units were 35,779 by the province, 23,844 in Taipei and 8,422 in Kaohsiung."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "目標戶數",
+            "en": "Target units"
+          },
+          "value": "106,931 戶"
+        },
+        {
+          "label": {
+            "zh": "實績合計",
+            "en": "Units completed (total)"
+          },
+          "value": "68,045 戶（省 35,779＋台北市 23,844＋高雄市 8,422，加總為本站計算）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "1978",
+      "precision": "year",
+      "era": "nationalhousing",
+      "kind": "policy",
+      "title": {
+        "zh": "國軍老舊眷村重建試辦作業要點",
+        "en": "Trial guidelines for rebuilding old military dependents' villages"
+      },
+      "body": {
+        "zh": "營建署文件寫這份作業要點在民國 69 年（1980）訂定，《主計季刊》的一篇文章寫民國 67 年（1978）制定，兩個年份並列。",
+        "en": "The Agency document dates the guidelines to 1980, while an article in the Accounting Quarterly dates them to 1978. Both years are shown here."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        },
+        {
+          "title": "從國軍老舊眷村改建計畫架構探討國軍老舊眷村改建基金財務狀況",
+          "publisher": "《主計季刊》（黃世亨）",
+          "url": "https://www.mnd.gov.tw/File/29769",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/history/台灣眷村歷史/"]
+    },
+    {
+      "date": "1979",
+      "precision": "year",
+      "era": "nationalhousing",
+      "kind": "policy",
+      "title": {
+        "zh": "新市鎮與國宅列入十二項重大建設",
+        "en": "New towns and public housing are listed among the Twelve Major Projects"
+      },
+      "body": {
+        "zh": "營建署文件記載，民國 68 年（1979）將開發新市鎮、廣建國民住宅列為十二項重大建設之一。十二項建設的行政院公布日期，本站沒有查到。",
+        "en": "The Agency document records that in 1979 developing new towns and building public housing widely were listed among the Twelve Major Projects. The date of the Executive Yuan announcement was not found."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/geography/林口新市鎮/"]
+    },
+    {
+      "date": "1982",
+      "precision": "year",
+      "era": "nationalhousing",
+      "kind": "law",
+      "title": {
+        "zh": "《國民住宅條例》修正，轉向獎勵投資興建",
+        "en": "Public Housing Act amended; policy shifts to encouraging private investment"
+      },
+      "body": {
+        "zh": "營建署文件記載，1982 年修正條例後，政策轉向以獎勵投資興建為主、政府直接興建為輔，並增列貸款人民自建。",
+        "en": "The Agency document records that after the 1982 amendment, policy shifted to encouraging investment-built housing as the main channel, with direct government construction as a supplement, and added loans for people building their own homes."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "1982",
+      "precision": "year",
+      "era": "nationalhousing",
+      "kind": "policy",
+      "title": {
+        "zh": "四年計畫政府直接興建",
+        "en": "Four-year plan for direct government construction"
+      },
+      "body": {
+        "zh": "營建署文件記載，民國 71 到 74 年度（1982 到 1985）四年計畫的政府直接興建，省 15,119 戶、台北市 8,127 戶、高雄市 3,502 戶。",
+        "en": "The Agency document records the four-year plan (fiscal years 1982 to 1985) for direct construction: 15,119 units by the province, 8,127 in Taipei and 3,502 in Kaohsiung."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "合計",
+            "en": "Total"
+          },
+          "value": "26,748 戶（加總為本站計算）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1987-07",
+      "precision": "month",
+      "era": "bubble",
+      "kind": "credit",
+      "title": {
+        "zh": "央行解除大部分外匯管制",
+        "en": "Central bank lifts most foreign-exchange controls"
+      },
+      "body": {
+        "zh": "《2015 台灣地區房地產年鑑》第 1 章把這件事列為房市資金面的成因之一，說法是熱錢隨之流入。本站只讀到這一份來源。",
+        "en": "The 2015 Taiwan Real Estate Yearbook, chapter 1, lists this as one funding-side cause of the housing boom, saying speculative money flowed in. This is the only source we read on the point."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "台灣房市長期景氣循環",
+          "publisher": "《2015 台灣地區房地產年鑑》第 1 章",
+          "url": "https://www.ncscre.nccu.edu.tw/sites/default/files/2015_1-1.pdf",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1988-09",
+      "precision": "month",
+      "era": "bubble",
+      "kind": "tax",
+      "title": {
+        "zh": "恢復課徵證券交易所得稅",
+        "en": "Securities capital-gains tax is reinstated"
+      },
+      "body": {
+        "zh": "《2015 台灣地區房地產年鑑》記載，財政部長郭婉容在 1988 年 9 月宣布恢復課徵證所稅，台股無量下跌 19 天，資金轉進房市。這是單一來源的說法。",
+        "en": "The 2015 Yearbook records that Finance Minister Kuo Wan-jung announced the reinstatement of the securities gains tax in September 1988, the stock market fell for 19 days with almost no volume, and money moved into housing. This is a single-source account."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "台灣房市長期景氣循環",
+          "publisher": "《2015 台灣地區房地產年鑑》第 1 章",
+          "url": "https://www.ncscre.nccu.edu.tw/sites/default/files/2015_1-1.pdf",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1989",
+      "precision": "year",
+      "era": "bubble",
+      "kind": "movement",
+      "title": {
+        "zh": "運動催生 OURs 與崔媽媽租屋服務中心",
+        "en": "The movement gives rise to OURs and the Grandma Cui rental service"
+      },
+      "body": {
+        "zh": "台大建築與城鄉研究所的頁面指出，這場運動催生了專業者都市改革組織（OURs）與崔媽媽租屋服務中心。OURs 的官方成立日與崔媽媽的法人登記年，本站沒有查到。",
+        "en": "A page from National Taiwan University's Graduate Institute of Building and Planning says the movement gave rise to OURs (Organization of Urban Re-s) and the Grandma Cui rental service centre. OURs' official founding date and the foundation's incorporation year were not found."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "1989~2014 都市住宅運動（無殼蝸牛運動）",
+          "publisher": "國立臺灣大學建築與城鄉研究所",
+          "url": "https://bp.ntu.edu.tw/News_Photo_Content_n_102154_s_106167.html",
+          "kind": "reported"
+        },
+        {
+          "title": "崔媽媽基金會相關報導",
+          "publisher": "理財周刊",
+          "url": "https://www.moneyweekly.com.tw/_Article?AID=37741",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "1989-05",
+      "precision": "month",
+      "era": "bubble",
+      "kind": "movement",
+      "title": {
+        "zh": "無住屋者組織成形",
+        "en": "Homeless-in-housing organisers come together"
+      },
+      "body": {
+        "zh": "多篇報導指發起人是小學教師李幸長。OURs 的敘述是 1989 年 5 月初發起「無住屋者自救委員會」，6 月底定名「無住屋者團結組織」。台北時報寫成 Homeless Help Association（無住屋者救援會），組織名稱兩說並列。",
+        "en": "Several reports name primary-school teacher Li Hsing-chang as the initiator. OURs' account says a self-help committee for people without homes was launched in early May 1989 and renamed the Union of the Homeless (無住屋者團結組織) at the end of June. Taipei Times gives the name as Homeless Help Association. Both names are shown."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "無殼蝸牛運動30年未竟之路：青年安居與房市改革",
+          "publisher": "OURs 都市改革組織",
+          "url": "https://ours.org.tw/2019/09/17/housingmove30/",
+          "kind": "primary"
+        },
+        {
+          "title": "爬過25年 周六無殼蝸牛變身「巢運」睡帝寶",
+          "publisher": "風傳媒",
+          "url": "https://www.storm.mg/article/36461",
+          "kind": "reported"
+        },
+        {
+          "title": "Taiwan in Time: The snails strike back",
+          "publisher": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/feat/archives/2020/08/23/2003742128",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "1989-08-26",
+      "precision": "day",
+      "era": "bubble",
+      "kind": "movement",
+      "title": {
+        "zh": "無殼蝸牛夜宿忠孝東路",
+        "en": "The Snail Without a Shell movement sleeps out on Zhongxiao East Road"
+      },
+      "body": {
+        "zh": "1989 年 8 月 26 日，無殼蝸牛運動在台北忠孝東路夜宿。目前查到的人數都是事後引述，沒有當年警方或主辦方的點算。OURs 的回顧指出，政府的回應是廣建國宅與擴大購屋貸款，前者在 1999 年告終，後者成為支撐高房價的重要財務機制。",
+        "en": "On 26 August 1989 the Snail Without a Shell movement slept out on Zhongxiao East Road in Taipei. Every attendance figure found is a later recollection; no police or organiser count from the time was located. OURs' retrospective says the government answered with more public housing and wider mortgage lending, the first ending in 1999 and the second becoming a key financial support for high prices."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "參與人數",
+            "en": "Participants"
+          },
+          "value": "近 5 萬／4 萬多／數萬（三說並列，無官方點算）"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "無殼蝸牛運動30年未竟之路：青年安居與房市改革",
+          "publisher": "OURs 都市改革組織",
+          "url": "https://ours.org.tw/2019/09/17/housingmove30/",
+          "kind": "primary"
+        },
+        {
+          "title": "1989~2014 都市住宅運動（無殼蝸牛運動）",
+          "publisher": "國立臺灣大學建築與城鄉研究所",
+          "url": "https://bp.ntu.edu.tw/News_Photo_Content_n_102154_s_106167.html",
+          "kind": "reported"
+        },
+        {
+          "title": "Taiwan in Time: The snails strike back",
+          "publisher": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/feat/archives/2020/08/23/2003742128",
+          "kind": "reported"
+        },
+        {
+          "title": "爬過25年 周六無殼蝸牛變身「巢運」睡帝寶",
+          "publisher": "風傳媒",
+          "url": "https://www.storm.mg/article/36461",
+          "kind": "reported"
+        },
+        {
+          "title": "無殼蝸牛運動30年 見證房市狂飆起點",
+          "publisher": "TVBS",
+          "url": "https://news.tvbs.com.tw/life/1161786",
+          "kind": "reported"
+        },
+        {
+          "title": "無殼蝸牛報導",
+          "publisher": "今周刊",
+          "url": "https://www.businesstoday.com.tw/article/category/183022/post/202309250030/",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/", "/society/居住正義/"]
+    },
+    {
+      "date": "1990",
+      "precision": "year",
+      "era": "bubble",
+      "kind": "event",
+      "title": {
+        "zh": "全國住宅普查：空閒住宅 678,520 宅",
+        "en": "National housing census: 678,520 vacant dwellings"
+      },
+      "body": {
+        "zh": "行政院主計處的統計分析載有 1990 年底的全國住宅普查結果：住宅 5,088,232 宅，空閒住宅 678,520 宅，占比約 13.3%。",
+        "en": "A statistical analysis by the Directorate-General of Budget, Accounting and Statistics reports the end-1990 national housing census: 5,088,232 dwellings, of which 678,520 were vacant, about 13.3%."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "空閒住宅占比",
+            "en": "Vacant share"
+          },
+          "value": "13.3%（678,520÷5,088,232＝13.34%，本站驗算）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "臺閩地區住宅概況統計分析",
+          "publisher": "行政院主計處",
+          "url": "https://www.nlma.gov.tw/uploads/files/10da0cabf4ef8e4efc4cb15880801e3b.doc",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1990",
+      "precision": "year",
+      "era": "bubble",
+      "kind": "credit",
+      "title": {
+        "zh": "開辦輔助人民貸款自購住宅",
+        "en": "Subsidised loans for home purchase begin"
+      },
+      "body": {
+        "zh": "營建署文件記載，民國 79 年度（1990）起開辦輔助人民貸款自購住宅（補貼利息），各縣市建立等候名冊，國宅採預售。79 到 93 年度合計 120,314 戶。",
+        "en": "The Agency document records that from fiscal 1990 the government subsidised interest on loans for home purchase, counties and cities kept waiting lists, and public housing was sold off-plan. Fiscal 1990 to 2004 totalled 120,314 households."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "79 至 93 年度合計",
+            "en": "Fiscal 1990 to 2004 total"
+          },
+          "value": "120,314 戶"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1990-02-12",
+      "precision": "day",
+      "era": "bubble",
+      "kind": "market",
+      "title": {
+        "zh": "台股盤中創 12,682 點",
+        "en": "Taiwan stocks hit 12,682 intraday"
+      },
+      "body": {
+        "zh": "鉅亨網文章記載，台股在 1990 年 2 月 12 日盤中創下 12,682 點的歷史高點。",
+        "en": "A Cnyes article records that the Taiwan stock index reached an all-time high of 12,682 intraday on 12 February 1990."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "台股上萬點",
+          "publisher": "鉅亨網",
+          "url": "https://news.cnyes.com/news/id/4508251",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1992-08",
+      "precision": "month",
+      "era": "bubble",
+      "kind": "event",
+      "title": {
+        "zh": "輻射屋事件公開爆發",
+        "en": "The radioactive-housing scandal breaks"
+      },
+      "body": {
+        "zh": "1992 年 8 月，輻射屋事件公開爆發。核安會報告記載受污染建物 1,660 戶，監察院報告記載 1,669 戶，並載民生別墅 70 戶中有 34 戶受污染。核安會報告也寫到，1983 年已發現一根鈷 60 鋼筋。",
+        "en": "The radioactive-housing scandal became public in August 1992. The nuclear safety council's report counts 1,660 contaminated buildings and the Control Yuan's report 1,669, and notes 34 of 70 units in the Minsheng Villas were affected. The council's report also says one cobalt-60 steel bar had already been found in 1983."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "受污染建物",
+            "en": "Contaminated buildings"
+          },
+          "value": "1,660 戶（核安會）／1,669 戶（監察院）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "輻射屋流行病學研究報告",
+          "publisher": "核安會",
+          "url": "https://www.nusc.gov.tw/share/file/information/W1D9N0U4pgYluul1JtMjwQ__.pdf",
+          "kind": "primary"
+        },
+        {
+          "title": "監察院調查報告（輻射屋）",
+          "publisher": "監察院",
+          "url": "https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/61849",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "1999",
+      "precision": "year",
+      "era": "bubble",
+      "kind": "policy",
+      "title": {
+        "zh": "政府停建國宅",
+        "en": "The government stops building public housing"
+      },
+      "body": {
+        "zh": "營建署文件記載，民國 88 年（1999）起陸續宣布停止政府直接興建與獎勵投資興建國民住宅。",
+        "en": "The Agency document records that from 1999 the government progressively announced an end to both direct construction and investment-incentive construction of public housing."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "營建署 30 年實錄（住宅管理篇）",
+          "publisher": "內政部營建署",
+          "url": "https://www.nlma.gov.tw/filesys/annals/18/18_dc795e4d576346ee4a70746acd790b4b.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "1999-09-21",
+      "precision": "day",
+      "era": "bubble",
+      "kind": "event",
+      "title": {
+        "zh": "九二一地震",
+        "en": "The 921 earthquake"
+      },
+      "body": {
+        "zh": "1999 年 9 月 21 日凌晨 1 時 47 分發生九二一地震。死亡人數有 2,455 與 2,454 兩個數字，全倒 50,652 棟是內政部依門牌統計的數字，經濟損失 3,622.8 億元。",
+        "en": "The 921 earthquake struck at 01:47 on 21 September 1999. Two death tolls appear in the sources, 2,455 and 2,454. The 50,652 fully collapsed buildings is the Interior Ministry's count by street number, and economic losses are given as NT$362.28 billion."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "死亡",
+            "en": "Deaths"
+          },
+          "value": "2,455（謝志誠文）／2,454（報導者）"
+        },
+        {
+          "label": {
+            "zh": "全倒",
+            "en": "Fully collapsed"
+          },
+          "value": "50,652 棟（內政部依門牌，報導者引述）"
+        },
+        {
+          "label": {
+            "zh": "經濟損失",
+            "en": "Economic loss"
+          },
+          "value": "3,622.8 億元"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "臺灣 921 災後住宅重建政策",
+          "publisher": "謝志誠（九二一震災重建基金會執行長）",
+          "url": "https://e-info.org.tw/921/newpdf/ST006.pdf",
+          "kind": "reported"
+        },
+        {
+          "title": "【921地震20週年】重建進行式7,300天",
+          "publisher": "報導者（曹馥年）",
+          "url": "https://www.twreporter.org/a/921-earthquake-20th-construction-and-unfinished-works",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/history/九二一集集地震/"]
+    },
+    {
+      "date": "1999-09-21",
+      "precision": "day",
+      "era": "bubble",
+      "kind": "credit",
+      "title": {
+        "zh": "震後金融紓困",
+        "en": "Post-quake financial relief"
+      },
+      "body": {
+        "zh": "謝志誠的文章記載，行政院緊急會議決定，央行提撥 1,000 億元供銀行辦理災民重建緊急融資，原有房貸本金展延 5 年。",
+        "en": "Xie Zhicheng's paper records that an emergency Executive Yuan meeting had the central bank set aside NT$100 billion for banks to lend to quake victims, and allowed existing mortgage principal to be deferred for five years."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "臺灣 921 災後住宅重建政策",
+          "publisher": "謝志誠（九二一震災重建基金會執行長）",
+          "url": "https://e-info.org.tw/921/newpdf/ST006.pdf",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/history/九二一集集地震/"]
+    },
+    {
+      "date": "1999-10-05",
+      "precision": "day",
+      "era": "bubble",
+      "kind": "policy",
+      "title": {
+        "zh": "滯銷國宅以 7 折供災民承購",
+        "en": "Unsold public housing offered to quake victims at 30% off"
+      },
+      "body": {
+        "zh": "謝志誠的文章記載，1999 年 10 月 5 日公布「九二一震災住屋全倒、半倒受災戶承購國民住宅作業規定」，核定售價 7 折供應待售國宅。",
+        "en": "Xie Zhicheng's paper records that on 5 October 1999 rules were issued letting households whose homes were fully or half destroyed buy unsold public housing at 70% of the approved price."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "臺灣 921 災後住宅重建政策",
+          "publisher": "謝志誠（九二一震災重建基金會執行長）",
+          "url": "https://e-info.org.tw/921/newpdf/ST006.pdf",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/history/九二一集集地震/", "/society/國宅與居住正義/"]
+    },
+    {
+      "date": "2000-08",
+      "precision": "month",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "推出優惠購屋專案貸款",
+        "en": "Preferential home-purchase loan programme launched"
+      },
+      "body": {
+        "zh": "央行新聞稿記載政府在 2000 年 8 月推出優惠購屋專案貸款，起點日有兩說：2003 年稿寫 8 月 7 日開辦、原額度 2,000 億元；2001 年稿寫 8 月 14 日推出 3,200 億元優惠房貸，其中含 2,000 億元優惠購屋專案。",
+        "en": "Central bank releases record the launch of a preferential home-purchase loan programme in August 2000, with two start dates: the 2003 release says 7 August with an original quota of NT$200 billion; the 2001 release says 14 August, NT$320 billion of preferential mortgages including NT$200 billion for the home-purchase programme."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "央行新聞稿（4,000 億專案撥款統計）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-22197-BCCFE-1.html",
+          "kind": "primary"
+        },
+        {
+          "title": "央行新聞稿（優惠購屋專案累計）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-20949-4307A-1.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2001-08-17",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "優惠購屋專案由 2,000 億增為 4,000 億",
+        "en": "Preferential programme doubled from NT$200 billion to NT$400 billion"
+      },
+      "body": {
+        "zh": "行政院宣布優惠購屋專案由 2,000 億元增為 4,000 億元，8 月 27 日起受理，辦理至 2002 年 8 月 13 日。每戶最高額度台北市 250 萬元、其他地區 200 萬元。",
+        "en": "The Executive Yuan announced the programme would grow from NT$200 billion to NT$400 billion, accepting applications from 27 August and running to 13 August 2002. The per-household cap was NT$2.5 million in Taipei and NT$2 million elsewhere."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "每戶上限",
+            "en": "Cap per household"
+          },
+          "value": "台北市 250 萬元、其他地區 200 萬元"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "二千億優惠房貸（新聞稿）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-22494-E84F4-1.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2001-10-12",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "4,000 億專案撥款 103,386 戶",
+        "en": "NT$400 billion programme: 103,386 households funded"
+      },
+      "body": {
+        "zh": "央行新聞稿載明，截至 2001 年 10 月 12 日，4,000 億元專案撥款 103,386 戶、2,868 億元，其中優惠利率 1,856 億元、一般利率 1,012 億元。",
+        "en": "A central bank release states that by 12 October 2001 the NT$400 billion programme had disbursed NT$286.8 billion to 103,386 households, of which NT$185.6 billion was at the preferential rate and NT$101.2 billion at the standard rate."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "撥款",
+            "en": "Disbursed"
+          },
+          "value": "2,868 億元（優惠利率 1,856 億＋一般利率 1,012 億）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "央行新聞稿（4,000 億專案撥款統計）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-22197-BCCFE-1.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2002-01-30",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "tax",
+      "title": {
+        "zh": "《土地稅法》第 33 條修正公布",
+        "en": "Land Tax Act Article 33 amended"
+      },
+      "body": {
+        "zh": "全國法規資料庫沿革頁顯示，《土地稅法》第 33 條在 2002 年 1 月 30 日、2004 年 1 月 14 日與 2005 年 1 月 30 日三度修正公布，涉及土地增值稅。條文內容與稅率本站沒有逐條核對，不在此列。",
+        "en": "The National Laws and Regulations Database history page shows Article 33 of the Land Tax Act, which covers the land value increment tax, was amended and promulgated on 30 January 2002, 14 January 2004 and 30 January 2005. We did not check the text or rates clause by clause, so they are not listed here."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "土地稅法 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340096",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2003",
+      "precision": "year",
+      "era": "lowrate",
+      "kind": "market",
+      "title": {
+        "zh": "信義房價指數台北市 2003 年第 2 季 35.47",
+        "en": "Sinyi Taipei price index hits 35.47 in 2003 Q2"
+      },
+      "body": {
+        "zh": "信義房價指數的台北市數列在 2003 年各季為 36.71、35.47、38.27、38.92，第 2 季的 35.47 是 2003 到 2005 年間的最低值。",
+        "en": "The Sinyi index for Taipei stood at 36.71, 35.47, 38.27 and 38.92 across the four quarters of 2003; the Q2 reading of 35.47 is the lowest for 2003 to 2005."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "2003 年各季",
+            "en": "2003 by quarter"
+          },
+          "value": "36.71／35.47／38.27／38.92（指數點）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "信義房價季指數",
+          "publisher": "信義房屋",
+          "url": "https://www.sinyinews.com.tw/quarterly",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2003-06-27",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "優惠購屋專案累計撥款 37.8 萬戶",
+        "en": "Preferential programme reaches 377,791 households"
+      },
+      "body": {
+        "zh": "央行新聞稿記載，額度在 2001 年 8 月、2002 年 4 月、2003 年 1 月各增撥 2,000 億元，累計 8,000 億元。截至 2003 年 6 月 27 日撥款 377,791 戶、10,205 億元；截至 8 月 1 日為 395,909 戶、10,766 億元。撥款是實際撥出數，和額度不能直接相減。",
+        "en": "Central bank releases record quota increases of NT$200 billion each in August 2001, April 2002 and January 2003, for a total of NT$800 billion. By 27 June 2003 NT$1,020.5 billion had gone to 377,791 households; by 1 August, NT$1,076.6 billion to 395,909. Disbursements are actual payouts and cannot be subtracted from the quota."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "2003-06-27 止",
+            "en": "As of 27 Jun 2003"
+          },
+          "value": "377,791 戶、10,205 億元"
+        },
+        {
+          "label": {
+            "zh": "2003-08-01 止",
+            "en": "As of 1 Aug 2003"
+          },
+          "value": "395,909 戶、10,766 億元"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "央行新聞稿（優惠購屋專案累計）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-20949-4307A-1.html",
+          "kind": "primary"
+        },
+        {
+          "title": "央行新聞稿（優惠購屋專案累計，2003-08）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-20778-87105-1.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2010-06-24",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "央行發布特定地區購屋貸款規定",
+        "en": "Central bank issues rules on home loans in designated areas"
+      },
+      "body": {
+        "zh": "央行 2010 年 6 月 24 日發布、6 月 25 日生效的規定：台北市與台北縣 10 個縣轄市，已有房貸者再貸款購屋，成數最高 7 成，且無寬限期。",
+        "en": "Rules issued on 24 June 2010 and effective 25 June: in Taipei City and ten county-administered cities in then Taipei County, borrowers who already have a mortgage can borrow at most 70% for another purchase, with no grace period."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "中央銀行理監事聯席會議決議（99 年 6 月 24 日發布）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/public/Attachment/083103402.pdf",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2010-09-13",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "movement",
+      "title": {
+        "zh": "蔡英文與社會住宅推動聯盟座談",
+        "en": "Tsai Ing-wen meets the Social Housing Advocacy Alliance"
+      },
+      "body": {
+        "zh": "新頭殼報導，2010 年 9 月 13 日蔡英文與社會住宅推動聯盟成員座談，聯盟提出五項訴求。這是本站查到的社住盟最早記載，成立確切日期沒有查到。",
+        "en": "Newtalk reports that on 13 September 2010 Tsai Ing-wen met members of the Social Housing Advocacy Alliance, which presented five demands. This is the earliest record we found of the alliance; its exact founding date was not found."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "蔡英文與社會住宅推動聯盟座談",
+          "publisher": "新頭殼",
+          "url": "https://newtalk.tw/news/view/2010-09-13/8023",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2010-12-01",
+      "precision": "day",
+      "era": "lowrate",
+      "kind": "credit",
+      "title": {
+        "zh": "財政部推出青年安心成家購屋優惠貸款",
+        "en": "Finance Ministry launches the Youth Home-Starter Loan"
+      },
+      "body": {
+        "zh": "財政部推出青年安心成家購屋優惠貸款，由 8 家公股銀行以自有資金辦理。額度在 2016 年 1 月 1 日由 500 萬元提高為 800 萬元。",
+        "en": "The Ministry of Finance launched the Youth Home-Starter Loan, offered by eight state-owned banks from their own funds. The loan ceiling was raised from NT$5 million to NT$8 million on 1 January 2016."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "財政部青安貸款3.0，加碼支持婚育家庭，持續協助民眾購屋安居（2026-07-16）",
+          "publisher": "財政部國庫署",
+          "url": "https://www.nta.gov.tw/singlehtml/238?cntId=6bcd4dfe5dbd466a9432bd641690eb6c",
+          "kind": "primary"
+        },
+        {
+          "title": "青年安心成家購屋優惠貸款額度調整（2016-01-01）",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/6d89cbe3-12ba-462d-9b07-1b0fe0fb3822",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2011-05-04",
+      "precision": "day",
+      "era": "rules",
+      "kind": "tax",
+      "title": {
+        "zh": "《特種貨物及勞務稅條例》公布（俗稱奢侈稅）",
+        "en": "Special Goods and Services Tax Act promulgated"
+      },
+      "body": {
+        "zh": "《特種貨物及勞務稅條例》2011 年 5 月 4 日制定公布，行政院令定 2011 年 6 月 1 日施行，全文 26 條。沿革頁另記 2015 年 1 月 7 日修正、2015 年 6 月 24 日增訂第 6-1 條。",
+        "en": "The Special Goods and Services Tax Act, commonly called the luxury tax, was enacted on 4 May 2011 and an Executive Yuan order set 1 June 2011 as its start date. It has 26 articles. The history page also records an amendment on 7 January 2015 and the addition of Article 6-1 on 24 June 2015."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "特種貨物及勞務稅條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340128",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2011-12-30",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "《住宅法》制定公布",
+        "en": "The Housing Act is enacted"
+      },
+      "body": {
+        "zh": "《住宅法》2011 年 12 月 30 日制定公布，全文 54 條。行政院 2013 年的文件載明該法 2012 年 12 月 30 日施行。",
+        "en": "The Housing Act was enacted on 30 December 2011 with 54 articles. A 2013 Executive Yuan document states it took effect on 30 December 2012."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "住宅法 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0070195",
+          "kind": "primary"
+        },
+        {
+          "title": "行政院會廢止「國民住宅條例」",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2012-03-28",
+      "precision": "day",
+      "era": "rules",
+      "kind": "event",
+      "title": {
+        "zh": "文林苑都更案代拆",
+        "en": "Wenlin Yuan renewal case: city demolishes holdouts' homes"
+      },
+      "body": {
+        "zh": "2012 年 3 月 28 日，樂揚建設與王廣樹等兩戶協商未果，台北市政府以優勢警力代拆。兩戶先後在 2014 年 3 月 14 日與 3 月 16 日宣布停止抗爭。",
+        "en": "On 28 March 2012, after the developer Leyang and two households including Wang Kuang-shu failed to reach agreement, the Taipei city government carried out the demolition with a large police presence. The two households announced an end to their protest on 14 and 16 March 2014."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "文林苑事件年表",
+          "publisher": "今周刊",
+          "url": "https://www.businesstoday.com.tw/article/category/80392/post/201403200016/",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/都市更新爭議/"]
+    },
+    {
+      "date": "2012-08-01",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "實價登錄上路",
+        "en": "Actual-price registration takes effect"
+      },
+      "body": {
+        "zh": "《平均地權條例》2011 年 12 月 30 日修正公布，增訂第 81-2 條作為實價登錄法源，行政院令定第 47、81-2 條自 2012 年 8 月 1 日施行。《不動產經紀業管理條例》同日施行相關條文。",
+        "en": "The Equalization of Land Rights Act was amended on 30 December 2011, adding Article 81-2 as the legal basis for actual-price registration; an Executive Yuan order set 1 August 2012 for Articles 47 and 81-2. Related provisions of the Real Estate Brokerage Act took effect the same day."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "平均地權條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060009",
+          "kind": "primary"
+        },
+        {
+          "title": "不動產經紀業管理條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060066",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2013-03",
+      "precision": "month",
+      "era": "rules",
+      "kind": "movement",
+      "title": {
+        "zh": "華光社區拆除令",
+        "en": "Huaguang Community receives demolition notice"
+      },
+      "body": {
+        "zh": "苦勞網 2013 年 3 月 20 日刊載的華光社區記者會稿（當事人敘述）載明，第一波強制拆除命令已寄達，稿中並引述行政院長江宜樺關於違建戶沒有居住權的說法。拆除完成日該稿未載。",
+        "en": "A Coolloud press-conference statement of 20 March 2013 (the residents' own account) says the first forced-demolition orders had arrived, and cites Premier Jiang Yi-huah's remark that illegal-structure households have no right to housing. The statement does not give the completion date of the demolition."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "華光社區記者會稿",
+          "publisher": "苦勞網（當事人敘述）",
+          "url": "http://www.coolloud.org.tw/node/73358",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2013-03-14",
+      "precision": "day",
+      "era": "rules",
+      "kind": "policy",
+      "title": {
+        "zh": "行政院會通過廢止《國民住宅條例》",
+        "en": "Cabinet approves repealing the Public Housing Act"
+      },
+      "body": {
+        "zh": "行政院 2013 年 3 月 14 日院會通過廢止《國民住宅條例》，函請立法院審議。院方文件寫自民國 65 年至今計辦理約 39 萬餘戶，協助約 158 萬人。",
+        "en": "On 14 March 2013 the Cabinet approved repealing the Public Housing Act and sent it to the Legislative Yuan. The Executive Yuan document says that since 1976 about 390,000 households had been handled, helping about 1.58 million people."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "行政院會廢止「國民住宅條例」",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/國宅與居住正義/"]
+    },
+    {
+      "date": "2013-07-18",
+      "precision": "day",
+      "era": "rules",
+      "kind": "event",
+      "title": {
+        "zh": "苗栗縣府強拆大埔四戶",
+        "en": "Miaoli county demolishes four Dapu homes"
+      },
+      "body": {
+        "zh": "2013 年 7 月 18 日，苗栗縣府強拆大埔 4 戶（張藥房等）；9 月 18 日張藥房老闆張森文落水身亡。2014 年 1 月 3 日更一審 4 戶勝訴、徵收撤銷，2016 年 4 月 22 日更二審宣判，張藥房請求返還土地敗訴。",
+        "en": "On 18 July 2013 Miaoli County demolished four homes in Dapu, including the Zhang pharmacy. On 18 September the pharmacy's owner, Zhang Sen-wen, was found drowned. On 3 January 2014 the first retrial ruled for the four households and annulled the expropriation; on 22 April 2016 the second retrial rejected the Zhang pharmacy's claim for return of the land."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "大埔4戶勝訴 區段徵收撤銷 屋毀人亡地難還",
+          "publisher": "苦勞網",
+          "url": "https://www.coolloud.org.tw/node/76991",
+          "kind": "reported"
+        },
+        {
+          "title": "大埔案更二審宣判 張藥房討地再敗訴",
+          "publisher": "中央社",
+          "url": "https://www.cna.com.tw/news/firstnews/201604220258.aspx",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/geography/苗栗縣/", "/music/農村武裝青年/"]
+    },
+    {
+      "date": "2014-06-04",
+      "precision": "day",
+      "era": "rules",
+      "kind": "tax",
+      "title": {
+        "zh": "《房屋稅條例》第 5 條修正公布",
+        "en": "Housing Tax Act Article 5 amended"
+      },
+      "body": {
+        "zh": "《房屋稅條例》第 5 條 2014 年 6 月 4 日修正公布，授權地方政府依持有戶數訂定差別稅率，媒體稱為囤房稅 1.0。這次修正的施行日本站沒有查到。",
+        "en": "Article 5 of the Housing Tax Act was amended on 4 June 2014, authorising local governments to set differential rates by number of homes held, which media call the first hoarding tax. We did not find the start date of this amendment."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "房屋稅條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340102",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2014-10-04",
+      "precision": "day",
+      "era": "rules",
+      "kind": "movement",
+      "title": {
+        "zh": "巢運夜宿仁愛路",
+        "en": "The Nest movement sleeps out on Ren'ai Road"
+      },
+      "body": {
+        "zh": "2014 年 10 月 4 日，社會住宅推動聯盟在台北仁愛路發起夜宿行動。人數沒有官方總數，主辦方、台北時報、警方與中央社英文稿的說法差距很大，並列如下。",
+        "en": "On 4 October 2014 the Social Housing Advocacy Alliance held a sleep-out on Ren'ai Road in Taipei. There is no official count, and organisers, Taipei Times, police and CNA's English service gave very different figures, listed below."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "參與人數",
+            "en": "Participants"
+          },
+          "value": "主辦方稱約 2 萬／台北時報寫主辦方口徑約 1 萬／警方稱夜宿約 1,200／中央社英文稿 more than 15,000（未標統計者）。無官方總數"
+        },
+        {
+          "label": {
+            "zh": "事前預告",
+            "en": "Pre-event forecast"
+          },
+          "value": "公視 2014-09-05 報導主辦預告破 5 萬人"
+        },
+        {
+          "label": {
+            "zh": "五項訴求",
+            "en": "Five demands"
+          },
+          "value": "居住人權入憲、終結強拆迫遷；改革房產稅制、杜絕投機炒作；檢討公地法令、停建合宜住宅；廣建社宅達 5%、成立住宅法人；擴大租屋市場、制訂租賃專法（社住盟新聞稿）"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "【巢運新聞稿】兩萬人怒躺仁愛路帝寶",
+          "publisher": "社會住宅推動聯盟",
+          "url": "http://socialhousingtw.blogspot.com/2014/10/20141005.html",
+          "kind": "primary"
+        },
+        {
+          "title": "巢運報導",
+          "publisher": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/front/archives/2014/10/05/2003601311",
+          "kind": "reported"
+        },
+        {
+          "title": "Focus Taiwan（2014-10-05）",
+          "publisher": "中央社英文",
+          "url": "https://focustaiwan.tw/society/201410050011",
+          "kind": "reported"
+        },
+        {
+          "title": "Focus Taiwan（2014-10-04）",
+          "publisher": "中央社英文",
+          "url": "https://focustaiwan.tw/society/201410040028",
+          "kind": "reported"
+        },
+        {
+          "title": "巢運預告報導",
+          "publisher": "公視",
+          "url": "https://news.pts.org.tw/article/278449",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2015-06-24",
+      "precision": "day",
+      "era": "rules",
+      "kind": "tax",
+      "title": {
+        "zh": "房地合一課徵所得稅入法",
+        "en": "Combined housing-and-land income tax enacted"
+      },
+      "body": {
+        "zh": "《所得稅法》2015 年 6 月 24 日修正公布，增訂房地合一課徵所得稅，依第 126 條自 2016 年 1 月 1 日施行。稅率本站沒有取得官方條文，不列。",
+        "en": "The Income Tax Act was amended on 24 June 2015 to add the combined housing-and-land income tax, effective 1 January 2016 under Article 126. We did not obtain the official text of the rates, so they are not listed."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "所得稅法 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2017-01-11",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "《住宅法》全文修正",
+        "en": "Housing Act fully revised"
+      },
+      "body": {
+        "zh": "《住宅法》2017 年 1 月 11 日修正公布全文，沿革頁載 65 條。沿革頁另記 2021 年 6 月 9 日、2023 年 12 月 6 日、2026 年 3 月 4 日再修正。",
+        "en": "The Housing Act was fully revised and promulgated on 11 January 2017; the history page lists 65 articles. It also records further amendments on 9 June 2021, 6 December 2023 and 4 March 2026."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "住宅法 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0070195",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2017-05-10",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "《都市危險及老舊建築物加速重建條例》制定",
+        "en": "Act on accelerated rebuilding of dangerous and old buildings enacted"
+      },
+      "body": {
+        "zh": "該條例 2017 年 5 月 10 日制定公布，全文 13 條。2018 年 6 月 6 日增訂第 10-1 條，2023 年 12 月 6 日增訂第 5-1 條。",
+        "en": "The act was enacted on 10 May 2017 with 13 articles. Article 10-1 was added on 6 June 2018 and Article 5-1 on 6 December 2023."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "都市危險及老舊建築物加速重建條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0070249",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/都市更新爭議/"]
+    },
+    {
+      "date": "2017-12-27",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "《租賃住宅市場發展及管理條例》制定",
+        "en": "Rental Housing Market Development and Management Act enacted"
+      },
+      "body": {
+        "zh": "該條例 2017 年 12 月 27 日制定公布，2018 年 6 月 27 日施行，全文 46 條。",
+        "en": "The act was enacted on 27 December 2017 and took effect on 27 June 2018, with 46 articles."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "租賃住宅市場發展及管理條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060125",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2019-01-30",
+      "precision": "day",
+      "era": "rules",
+      "kind": "law",
+      "title": {
+        "zh": "《都市更新條例》全文修正",
+        "en": "Urban Renewal Act fully revised"
+      },
+      "body": {
+        "zh": "《都市更新條例》2019 年 1 月 30 日修正公布全文 88 條，自公布日施行。沿革頁另記 2021 年 5 月 5 日、5 月 28 日與 2024 年 11 月 13 日再修正，2024 年那次修第 65 條。",
+        "en": "The Urban Renewal Act was fully revised on 30 January 2019 with 88 articles, effective on promulgation. The history page also records amendments on 5 and 28 May 2021 and 13 November 2024, the last changing Article 65."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "都市更新條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0070008",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/都市更新爭議/"]
+    },
+    {
+      "date": "2020-12-07",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "央行發動第一波選擇性信用管制",
+        "en": "Central bank launches its first round of selective credit controls"
+      },
+      "body": {
+        "zh": "央行 2020 年 12 月 7 日發布、12 月 8 日生效：公司法人購住宅第 1 戶 6 成、第 2 戶以上 5 成；自然人第 3 戶以上 6 成；購地貸款 6.5 成等。新聞稿載明 2020 年 10 月底不動產貸款占總放款 35.9%，歷史高點為 37.9%。",
+        "en": "Announced 7 December 2020 and effective 8 December: legal entities buying a first home 60%, second or more 50%; individuals' third home onward 60%; land-purchase loans 65%, among others. The release says real estate loans were 35.9% of total lending at end-October 2020, against a historical peak of 37.9%."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "各波生效日",
+            "en": "Effective dates, by round"
+          },
+          "value": "2020-12-08、2021-03-19、2021-09-24、2021-12-17、2023-06-16、2024-06-14、2024-09-20，另有 2026-03-20、2026-09-18 兩次調整（央行表 2）"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "央行新聞稿（109 年 12 月 7 日，號 109-206）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-124848-b6248-1.html",
+          "kind": "primary"
+        },
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2021-01-27",
+      "precision": "day",
+      "era": "controls",
+      "kind": "law",
+      "title": {
+        "zh": "《平均地權條例》實價登錄 2.0 修法公布",
+        "en": "Land Rights Act amendment for actual-price registration 2.0 promulgated"
+      },
+      "body": {
+        "zh": "全國法規資料庫沿革頁顯示，《平均地權條例》在 2019 年 7 月 31 日與 2021 年 1 月 27 日兩度修正公布，這兩次是實價登錄 2.0 的修法。本站沒有取得官方施行說明。",
+        "en": "The history page shows the Equalization of Land Rights Act was amended and promulgated on 31 July 2019 and 27 January 2021, the two amendments behind actual-price registration 2.0. We did not obtain an official note on the start dates."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "平均地權條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060009",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2021-04-28",
+      "precision": "day",
+      "era": "controls",
+      "kind": "tax",
+      "title": {
+        "zh": "房地合一稅 2.0 修法公布",
+        "en": "Combined housing-and-land tax 2.0 promulgated"
+      },
+      "body": {
+        "zh": "全國法規資料庫沿革頁記載，《所得稅法》2021 年 4 月 28 日修正公布，房地合一稅 2.0 於 2021 年 7 月 1 日施行。稅率本站沒有取得官方條文，不列。",
+        "en": "The history page records that the Income Tax Act was amended and promulgated on 28 April 2021, with the 2.0 version of the combined housing-and-land tax taking effect on 1 July 2021. We did not obtain the official text of the rates, so they are not listed."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "所得稅法 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2022-07-01",
+      "precision": "day",
+      "era": "controls",
+      "kind": "policy",
+      "title": {
+        "zh": "300 億元中央擴大租金補貼開始受理",
+        "en": "NT$30 billion expanded rent subsidy opens for applications"
+      },
+      "body": {
+        "zh": "科技新報引述內政部報導，「300 億元中央擴大租金補貼專案計畫」自 2022 年 7 月 1 日起線上受理，每年 300 億元、照顧 50 萬戶，原本約 12 萬戶。核定日本站沒有查到。",
+        "en": "TechNews, citing the Interior Ministry, reports that the NT$30 billion expanded central rent-subsidy programme opened for online applications on 1 July 2022, at NT$30 billion a year for 500,000 households, up from about 120,000. The approval date was not found."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "規模",
+            "en": "Scale"
+          },
+          "value": "每年 300 億元、照顧 50 萬戶（原約 12 萬戶）"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "「300 億元中央擴大租金補貼專案計畫」自7月1日起線上受理",
+          "publisher": "科技新報（引內政部）",
+          "url": "https://finance.technews.tw/2022/06/30/expanded-rental-subsidy-program/",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2023-01-10",
+      "precision": "day",
+      "era": "controls",
+      "kind": "law",
+      "title": {
+        "zh": "立法院三讀《平均地權條例》部分條文修正",
+        "en": "Legislature passes amendments to the Land Rights Act"
+      },
+      "body": {
+        "zh": "工商時報報導，立法院 2023 年 1 月 10 日三讀《平均地權條例》部分條文修正，內容包含私法人購屋許可制、炒作重罰與檢舉制度。",
+        "en": "Commercial Times reports that on 10 January 2023 the Legislative Yuan passed amendments to the Equalization of Land Rights Act, including a permit system for corporate home purchases, heavy penalties for speculation and a reporting system."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "平均地權條例修正三讀",
+          "publisher": "工商時報",
+          "url": "https://www.ctee.com.tw/news/20230110700456-430601",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2023-02-08",
+      "precision": "day",
+      "era": "controls",
+      "kind": "law",
+      "title": {
+        "zh": "《平均地權條例》修正公布",
+        "en": "Land Rights Act amendments promulgated"
+      },
+      "body": {
+        "zh": "《平均地權條例》2023 年 2 月 8 日修正公布第 4、47-3、81-2、87 條，並增訂 47-4、47-5、79-1、81-3、81-4 條。第 4、47-3、47-4、79-1、81-2、81-3 第 1 項與 81-4 條，行政院 2023 年 6 月 9 日令定自 2023 年 7 月 1 日施行，其餘自公布日施行。",
+        "en": "The Equalization of Land Rights Act was amended on 8 February 2023, revising Articles 4, 47-3, 81-2 and 87 and adding 47-4, 47-5, 79-1, 81-3 and 81-4. An Executive Yuan order of 9 June 2023 set 1 July 2023 for Articles 4, 47-3, 47-4, 79-1, 81-2, 81-3 paragraph 1 and 81-4; the rest took effect on promulgation."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "平均地權條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0060009",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2023-08-01",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "新青安上路",
+        "en": "The enhanced Youth Home-Starter Loan takes effect"
+      },
+      "body": {
+        "zh": "青安貸款精進方案（官方稱青安 2.0，俗稱新青安）2023 年 8 月 1 日上路，行政院院會 7 月 13 日通過，利息補貼至 2026 年 7 月 31 日。額度、年限與寬限期都放寬。",
+        "en": "The enhanced Youth Home-Starter Loan (officially version 2.0, popularly the new Youth Loan) took effect on 1 August 2023 after Cabinet approval on 13 July, with interest subsidies running to 31 July 2026. The ceiling, term and grace period were all lengthened."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "額度",
+            "en": "Ceiling"
+          },
+          "value": "800 萬 → 1,000 萬元"
+        },
+        {
+          "label": {
+            "zh": "年限",
+            "en": "Term"
+          },
+          "value": "30 年 → 40 年"
+        },
+        {
+          "label": {
+            "zh": "寬限期",
+            "en": "Grace period"
+          },
+          "value": "3 年 → 5 年"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "財政部青安貸款精進方案，擴大協助民眾購屋成家（2023-07-13）",
+          "publisher": "財政部國庫署",
+          "url": "https://www.nta.gov.tw/singlehtml/238?cntId=920b532b53774705b2ede2f1bd7a36f0",
+          "kind": "primary"
+        },
+        {
+          "title": "青年安心成家購屋優惠貸款精進方案",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/2b817f1a-4269-47a1-b06d-906373a1514e",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2024",
+      "precision": "year",
+      "era": "controls",
+      "kind": "market",
+      "title": {
+        "zh": "內政部住宅價格指數 2024 年第 4 季 150.98",
+        "en": "Interior Ministry housing price index: 150.98 in 2024 Q4"
+      },
+      "body": {
+        "zh": "工商時報引述內政部資料，全國住宅價格指數 2024 年第 4 季為 150.98，年增 10.85%，連續 26 季上漲。2020 年基期值與累計漲幅，本站沒有查到。",
+        "en": "Commercial Times, citing the Interior Ministry, reports the national housing price index at 150.98 in 2024 Q4, up 10.85% year on year and rising for 26 consecutive quarters. The 2020 base value and cumulative rise were not found."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "2024 年第 4 季",
+            "en": "2024 Q4"
+          },
+          "value": "150.98，年增 10.85%，連 26 季上漲"
+        }
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "住宅價格指數 2024Q4",
+          "publisher": "工商時報（引內政部）",
+          "url": "https://www.ctee.com.tw/news/20250502701207-430104",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2024-01-03",
+      "precision": "day",
+      "era": "controls",
+      "kind": "tax",
+      "title": {
+        "zh": "《房屋稅條例》修正公布",
+        "en": "Housing Tax Act amended"
+      },
+      "body": {
+        "zh": "《房屋稅條例》2024 年 1 月 3 日修正公布，第 4 至 7、12、15 條自 2024 年 7 月 1 日施行。嘉義縣財稅局引財政部說明，新制改為全國歸戶，非自住住家用房屋稅率 2% 至 4.8%，自住 1%，並改按年徵收，媒體稱為囤房稅 2.0。",
+        "en": "The Housing Tax Act was amended on 3 January 2024, with Articles 4 to 7, 12 and 15 effective 1 July 2024. A Chiayi County tax bureau note citing the Ministry of Finance says the new rules count homes nationwide, tax non-owner-occupied homes at 2% to 4.8% and owner-occupied at 1%, and bill annually. Media call this the second hoarding tax."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "房屋稅條例 法規沿革",
+          "publisher": "法務部全國法規資料庫",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340102",
+          "kind": "primary"
+        },
+        {
+          "title": "房屋稅條例修正說明",
+          "publisher": "嘉義縣財政稅務局（引財政部電子申報網）",
+          "url": "https://www.etax.nat.gov.tw/etwmain/announcement/news/PpKgYrM",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2024-06-14",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "央行第六波：特定地區第 2 戶降為 6 成",
+        "en": "Round 6: second-home loan-to-value cut to 60% in designated areas"
+      },
+      "body": {
+        "zh": "央行表 2 記載，2024 年 6 月 14 日生效的第六波管制，把特定地區第 2 戶的貸款成數降為 6 成。",
+        "en": "The central bank's table 2 records that the sixth round, effective 14 June 2024, cut the loan-to-value cap for a second home in designated areas to 60%."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2024-09-19",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "央行第七波選擇性信用管制",
+        "en": "Round 7 of selective credit controls"
+      },
+      "body": {
+        "zh": "央行 2024 年 9 月 19 日發布、9 月 20 日生效：自然人第 2 戶成數上限降為 5 成並擴大到全國；公司法人、高價住宅、第 3 戶以上與餘屋為 3 成；名下已有房屋者購買的第 1 戶無寬限期；存款準備率（存準率）10 月 1 日起調升 0.25 個百分點。",
+        "en": "Announced 19 September 2024 and effective 20 September: the cap for an individual's second home falls to 50% and applies nationwide; legal entities, high-priced homes, third homes onward and unsold stock are capped at 30%; no grace period for a first home bought by someone who already owns property; reserve requirement ratios rise 0.25 percentage points from 1 October."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "中央銀行理監事聯席會議決議（113 年 9 月 19 日發布）",
+          "publisher": "中央銀行",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-175326-8fb7b-1.html",
+          "kind": "primary"
+        },
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2025",
+      "precision": "year",
+      "era": "controls",
+      "kind": "market",
+      "title": {
+        "zh": "建物買賣移轉 26 萬 1,308 棟，年減 25.5%",
+        "en": "Building transfers fall 25.5% to 261,308 in 2025"
+      },
+      "body": {
+        "zh": "科技新報引述內政部資料，2025 年建物買賣移轉 26 萬 1,308 棟，年減 25.5%，近 9 年新低；同期第一次登記 17.67 萬棟，年增 8.4%。2024 年的內政部定案數，本站沒有查到。",
+        "en": "TechNews, citing the Interior Ministry, reports 261,308 building sale transfers in 2025, down 25.5% and a nine-year low; first registrations rose 8.4% to 176,700. We did not find the Ministry's final 2024 figure."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "買賣移轉",
+            "en": "Sale transfers"
+          },
+          "value": "261,308 棟，年減 25.5%"
+        },
+        {
+          "label": {
+            "zh": "第一次登記",
+            "en": "First registrations"
+          },
+          "value": "17.67 萬棟，年增 8.4%"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Taiwan housing market: more houses built, fewer buyers, 25.5% decline, nine-year low",
+          "publisher": "科技新報（引內政部）",
+          "url": "https://finance.technews.tw/2026/06/25/taiwan-housing-market-more-houses-built-fewer-buyers-25-5-decline-nine-year-low/",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2026-01-19",
+      "precision": "day",
+      "era": "controls",
+      "kind": "policy",
+      "title": {
+        "zh": "內政部調整社宅策略",
+        "en": "Interior Ministry adjusts social housing strategy"
+      },
+      "body": {
+        "zh": "經濟日報報導，內政部在 2026 年 1 月表示都會區素地有限，中央除持續直接興辦社宅外，將擴大包租代管作為重要補充。報導稱直接興建目標由 13 萬戶降為 4 萬至 6 萬戶（記者敘述），2026 到 2027 年優先推動約 40 處、1.1 萬戶。",
+        "en": "Economic Daily News reports that in January 2026 the Interior Ministry said land in urban areas is limited and that, alongside direct construction, it will expand leased-and-managed housing as an important supplement. The report says the direct-build target falls from 130,000 to 40,000 to 60,000 units (the reporter's description), with about 40 sites and 11,000 units prioritised for 2026 to 2027."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "都會區土地稀缺！內政部調整社宅策略 包租代管、租金補貼並進",
+          "publisher": "經濟日報",
+          "url": "https://money.udn.com/money/story/5621/9273929",
+          "kind": "reported"
+        },
+        {
+          "title": "社宅政策轉彎？劉世芳：2026至2027年優先推動40處、1.1萬戶",
+          "publisher": "經濟日報",
+          "url": "https://money.udn.com/money/story/5621/9274673",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2026-03-19",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "央行放寬自然人第 2 戶成數至 6 成",
+        "en": "Central bank eases second-home cap to 60%"
+      },
+      "body": {
+        "zh": "央行表 2 記載，2026 年 3 月 19 日發布、3 月 20 日生效，自然人第 2 戶成數由 5 成升為 6 成。",
+        "en": "Central bank table 2 records that, announced 19 March 2026 and effective 20 March, the cap for an individual's second home rises from 50% to 60%."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2026-04-22",
+      "precision": "day",
+      "era": "controls",
+      "kind": "tax",
+      "title": {
+        "zh": "2026 年房屋稅開徵數字",
+        "en": "2026 housing tax figures"
+      },
+      "body": {
+        "zh": "NOWnews 報導，2026 年房屋稅 5 月開徵，全國 974.57 萬件，其中空閒置房屋約 111.66 萬件，較上期減少 2.06 萬件。財政部說明新制加重閒置房屋持有成本，同時維持自住房屋較低稅負。",
+        "en": "NOWnews reports that the 2026 housing tax is billed from May: 9.7457 million cases nationwide, of which about 1.1166 million are vacant homes, 20,600 fewer than the previous period. The Ministry of Finance says the new system raises the cost of holding idle homes while keeping a lower burden on owner-occupied homes."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "房屋稅5月開徵！全國974萬件、單一自住占3成",
+          "publisher": "NOWnews",
+          "url": "https://www.nownews.com/news/6810062",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2026-06-10",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "楊金龍：選擇性信用管制現階段不再加碼",
+        "en": "Governor Yang: no further selective credit controls for now"
+      },
+      "body": {
+        "zh": "今周刊與公視報導，央行總裁楊金龍 2026 年 6 月 10 日在立法院表示，選擇性信用管制現階段不再加碼。",
+        "en": "Business Today and PTS report that on 10 June 2026 central bank Governor Yang Chin-long told the Legislative Yuan that selective credit controls would not be tightened further for now."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "楊金龍喊房市管制「就到這裡」！",
+          "publisher": "今周刊",
+          "url": "https://www.businesstoday.com.tw/article/category/183008/post/202606100035/",
+          "kind": "reported"
+        },
+        {
+          "title": "楊金龍宣布房市信用管制不加碼 營造股多數收紅",
+          "publisher": "公視新聞",
+          "url": "https://news.pts.org.tw/article/812449",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2026-07-16",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "行政院通過青安 3.0",
+        "en": "Cabinet approves Youth Loan 3.0"
+      },
+      "body": {
+        "zh": "行政院院會 2026 年 7 月 16 日通過青安 3.0，8 月 1 日起實施，申辦至 2029 年 7 月 31 日。借款人須申貸時未滿 50 歲、本人年所得不逾 200 萬元，並設房價上限；前 3 年補貼 2 碼，淨利率 1.775%，之後每年減半碼。",
+        "en": "On 16 July 2026 the Cabinet approved Youth Loan 3.0, effective 1 August with applications open to 31 July 2029. Borrowers must be under 50 at application with personal annual income of NT$2 million or less, and a home-price cap applies; the first three years are subsidised by 2 basis-point steps, a net rate of 1.775%, then reduced by half a step each year."
+      },
+      "figures": [
+        {
+          "label": {
+            "zh": "額度",
+            "en": "Ceiling"
+          },
+          "value": "個人 1,000 萬、兩年內結婚登記 1,200 萬、育有未成年子女 1,500 萬元"
+        },
+        {
+          "label": {
+            "zh": "房價上限",
+            "en": "Price cap"
+          },
+          "value": "台北市 3,500 萬；新北市、新竹縣市 2,500 萬；其他縣市 2,000 萬元"
+        },
+        {
+          "label": {
+            "zh": "年限與寬限期",
+            "en": "Term and grace period"
+          },
+          "value": "40 年（含寬限期），寬限期最長 5 年"
+        }
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "財政部青安貸款3.0，加碼支持婚育家庭，持續協助民眾購屋安居（2026-07-16）",
+          "publisher": "財政部國庫署",
+          "url": "https://www.nta.gov.tw/singlehtml/238?cntId=6bcd4dfe5dbd466a9432bd641690eb6c",
+          "kind": "primary"
+        },
+        {
+          "title": "青安3.0方案",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/ada805bf-1ccf-46e2-b13a-6cade76ec000",
+          "kind": "primary"
+        }
+      ],
+      "articles": []
+    },
+    {
+      "date": "2026-07-16",
+      "precision": "day",
+      "era": "controls",
+      "kind": "law",
+      "title": {
+        "zh": "行政院通過危老、都更條例修正草案",
+        "en": "Cabinet approves draft amendments to rebuilding and renewal laws"
+      },
+      "body": {
+        "zh": "行政院 2026 年 7 月 16 日院會通過《危老條例》修正草案與《都市更新條例》部分條文修正草案，危老條例刪除施行期限，協議合建減徵土地增值稅及契稅 40%。是否已三讀，本站沒有查到。",
+        "en": "On 16 July 2026 the Cabinet approved draft amendments to the Act on rebuilding dangerous and old buildings and to parts of the Urban Renewal Act: the old-building act would lose its sunset date, and negotiated joint-construction deals would get a 40% cut in land value increment tax and deed tax. Whether they passed the third reading was not found."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "落實居住減壓、全齡住宅照顧 政院通過危老、都更條例修正草案",
+          "publisher": "行政院",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/1527fc05-2d18-4759-9e87-dbb6c9308707",
+          "kind": "primary"
+        }
+      ],
+      "articles": ["/society/都市更新爭議/"]
+    },
+    {
+      "date": "2026-08-07",
+      "precision": "day",
+      "era": "controls",
+      "kind": "policy",
+      "title": {
+        "zh": "國土署公布社宅與租補規模",
+        "en": "Housing agency gives social housing and rent subsidy figures"
+      },
+      "body": {
+        "zh": "中央社報導，國土署 2026 年 8 月 7 日表示包租代管 11 萬 6390 戶、租金補貼核定逾 91.9 萬戶，並稱社宅整體計畫沒有改變，持續透過直接興建、包租代管及租金補貼擴大居住支持。",
+        "en": "CNA reports that on 7 August 2026 the National Land Management Agency said leased-and-managed housing stood at 116,390 units and rent subsidies had been approved for over 919,000 households, and that the overall social housing plan is unchanged, continuing through direct construction, leased-and-managed housing and rent subsidies."
+      },
+      "featured": false,
+      "sources": [
+        {
+          "title": "國土署：多元興辦社宅滾動精進 實質照顧逾百萬戶",
+          "publisher": "中央社",
+          "url": "https://cna.com.tw/news/aipl/202608070274.aspx",
+          "kind": "reported"
+        }
+      ],
+      "articles": ["/society/居住正義/"]
+    },
+    {
+      "date": "2026-09-17",
+      "precision": "day",
+      "era": "controls",
+      "kind": "credit",
+      "title": {
+        "zh": "央行再放寬自然人第 2 戶成數至 7 成",
+        "en": "Central bank eases second-home cap to 70%"
+      },
+      "body": {
+        "zh": "央行 2026 年 9 月 17 日發布、9 月 18 日生效，自然人第 2 戶成數由 6 成升為 7 成，政策利率不變。自由時報另報導，購地貸款的動工切結一併刪除。",
+        "en": "Announced 17 September 2026 and effective 18 September, the cap for an individual's second home rises from 60% to 70% while the policy rate is unchanged. Liberty Times adds that the construction-start undertaking for land-purchase loans is removed."
+      },
+      "featured": true,
+      "sources": [
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        },
+        {
+          "title": "央行第3季理監事會報導",
+          "publisher": "今周刊",
+          "url": "https://www.businesstoday.com.tw/article/category/183025/post/202609170029/",
+          "kind": "reported"
+        },
+        {
+          "title": "央行鬆綁房市管制！刪除購地貸款動工期限、提升第二戶貸款成數至7成",
+          "publisher": "自由時報",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5577362",
+          "kind": "reported"
+        }
+      ],
+      "articles": []
+    }
+  ],
+  "cycles": [
+    {
+      "id": "1972-1974",
+      "label": {
+        "zh": "第一波 約 1972 到 1974 年",
+        "en": "Wave 1, about 1972 to 1974"
+      },
+      "rise": {
+        "value": null,
+        "note": "沒有資料"
+      },
+      "drivers": {
+        "zh": "沒有資料。林旺根（2022）只寫 1970 年代歷經兩次房價大飆漲，沒有給漲幅與成因。",
+        "en": "No data. Lin Wang-ken (2022) only says there were two sharp price surges in the 1970s, without figures or causes."
+      },
+      "sources": [
+        {
+          "title": "我國預售制度之演進與變革",
+          "publisher": "林旺根，《2022 台灣地區房地產年鑑》",
+          "url": "https://www.ncscre.nccu.edu.tw/sites/default/files/2022tai_wan_fang_di_chan_nian_jian_-5-1.pdf",
+          "kind": "reported"
+        }
+      ]
+    },
+    {
+      "id": "1978-1980",
+      "label": {
+        "zh": "第二波 約 1978 到 1980 年",
+        "en": "Wave 2, about 1978 to 1980"
+      },
+      "rise": {
+        "value": null,
+        "note": "沒有資料"
+      },
+      "drivers": {
+        "zh": "沒有資料。來源同上，沒有給漲幅與成因。",
+        "en": "No data. Same source as above, with no figures or causes."
+      },
+      "sources": [
+        {
+          "title": "我國預售制度之演進與變革",
+          "publisher": "林旺根，《2022 台灣地區房地產年鑑》",
+          "url": "https://www.ncscre.nccu.edu.tw/sites/default/files/2022tai_wan_fang_di_chan_nian_jian_-5-1.pdf",
+          "kind": "reported"
+        }
+      ]
+    },
+    {
+      "id": "1986-1990",
+      "label": {
+        "zh": "第三波 約 1986 到 1990 年",
+        "en": "Wave 3, about 1986 to 1990"
+      },
+      "rise": {
+        "value": "① 大台北每坪 6.7 萬（1986）→ 25.1 萬（1989），+274.5%（張金鶚等 2009，轉引徐滇慶 2006）；② 每坪 10 萬元以下 → 近 25 萬，約 +150%（2015 年鑑）；③ 1987 到 1989 年平均漲幅超過 200%，同期國民所得約增 40%（聯合報報時光，未註明資料來源）；④ 台北市每坪 6.72 萬（1986）→ 36.87 萬（1990），近 4.5 倍（TVBS）；⑤ 1985 年不到 10 萬 → 1990 年近 30 萬，近 3 倍（呂紹煒專欄）",
+        "note": "五個口徑的起迄年與地理範圍都不同，並列呈現，不能互相驗算。"
+      },
+      "drivers": {
+        "zh": "2015 年鑑列出兩項：1987 年 7 月外匯管制鬆綁、熱錢流入，1988 年 9 月證所稅復徵、股市下跌後資金轉進房市（單一來源）。張金鶚等的研究估計泡沫價格自 1989 年第 1 季起為正，1990 年第 3 季最大、占房價約 54%，前人研究的峰值在 1990 年第 1 季、約 47%，兩個峰值季別並列。",
+        "en": "The 2015 Yearbook lists two causes: the easing of foreign-exchange controls in July 1987 with hot money flowing in, and the September 1988 return of the securities gains tax, after which money moved from stocks into housing (single source). Chang Chin-oh and colleagues estimate the bubble component turned positive in Q1 1989 and peaked in Q3 1990 at about 54% of price; earlier work puts the peak in Q1 1990 at about 47%. Both peaks are shown."
+      },
+      "turning": {
+        "zh": "1989 年 2 月選擇性信用管制細節本站未取得原文；年鑑稱房市 1989 年下半年下滑。",
+        "en": "We did not obtain the original text of the February 1989 selective credit controls; the Yearbook says the market declined in the second half of 1989."
+      },
+      "sources": [
+        {
+          "title": "台北市房價泡沫知多少？房價 vs. 租金、房價 vs. 所得",
+          "publisher": "張金鶚、陳明吉等，《住宅學報》",
+          "url": "https://www.housing.org.tw/sites/default/files/journal_file/2022-12/18-1-1-%E5%BC%B5%E9%87%91%E9%B6%9A_%E9%99%B3%E6%98%8E%E5%90%89_%E9%84%A7%E7%AD%B1%E8%93%89_%E6%A5%8A%E6%99%BA%E5%85%83.pdf",
+          "kind": "reported"
+        },
+        {
+          "title": "台灣房市長期景氣循環",
+          "publisher": "《2015 台灣地區房地產年鑑》第 1 章",
+          "url": "https://www.ncscre.nccu.edu.tw/sites/default/files/2015_1-1.pdf",
+          "kind": "reported"
+        },
+        {
+          "title": "黃金地段睡睡看 無殼蝸牛夜宿忠孝東路",
+          "publisher": "聯合報報時光",
+          "url": "https://time.udn.com/udntime/story/122390/6059781",
+          "kind": "reported"
+        },
+        {
+          "title": "無殼蝸牛運動30年 見證房市狂飆起點",
+          "publisher": "TVBS",
+          "url": "https://news.tvbs.com.tw/life/1161786",
+          "kind": "reported"
+        },
+        {
+          "title": "徹底失敗卻名留青史的無殼蝸牛運動 巢運呢？",
+          "publisher": "風傳媒（呂紹煒專欄）",
+          "url": "https://www.storm.mg/article/23692",
+          "kind": "reported"
+        }
+      ]
+    },
+    {
+      "id": "2003-2014",
+      "label": {
+        "zh": "第四波 約 2003 到 2014 年",
+        "en": "Wave 4, about 2003 to 2014"
+      },
+      "rise": {
+        "value": "信義房價指數（全國，各年第 4 季）39.15（2003）→ 106.71（2014），+173%；國泰房價指數 45.97 → 91.69，+99.5%；信義台北市指數 38.92 → 108.44，約 +179%（以上漲幅為本站計算）。另有住展雜誌調查的平均成交價（非指數）：台北市每坪 36.7 萬（2002）→ 80.3 萬（2011），新北市 16.8 萬 → 33.6 萬",
+        "note": "信義的兩組數字同源，不是獨立驗證。內政部住宅價格指數 2003 年起的數列本站沒有查到。"
+      },
+      "drivers": {
+        "zh": "沒有查到單一權威的成因說法。同期有土地稅法修正（2002 到 2005）與遺產及贈與稅法修正（2009）等稅制變動，但沒有來源驗證它們與房價的因果。",
+        "en": "No single authoritative account of causes was found. Tax changes occurred in the period, including Land Tax Act amendments (2002 to 2005) and Estate and Gift Tax Act amendments (2009), but no source tests whether they caused the price rise."
+      },
+      "turning": {
+        "zh": "2010 年 6 月央行特定地區購屋貸款規定、2011 年特種貨物及勞務稅條例、2012 年實價登錄、2014 年 6 月房屋稅條例第 5 條修正；信義台北市指數高點為 2014 年第 2 季的 114.31。",
+        "en": "The June 2010 central bank rules on designated areas, the 2011 special goods tax, 2012 actual-price registration and the June 2014 Housing Tax Act amendment. The Sinyi Taipei index peaked at 114.31 in 2014 Q2."
+      },
+      "sources": [
+        {
+          "title": "信義房價季指數",
+          "publisher": "信義房屋",
+          "url": "https://www.sinyinews.com.tw/quarterly",
+          "kind": "reported"
+        },
+        {
+          "title": "營建指標：住宅價格指數、信義房價指數、國泰房價指數",
+          "publisher": "政大不動產研究中心",
+          "url": "https://rer.nccu.edu.tw/article/detail/2210058784414",
+          "kind": "reported"
+        },
+        {
+          "title": "10年來大台北房價漲幅逾倍（引住展雜誌調查）",
+          "publisher": "自由時報",
+          "url": "https://ec.ltn.com.tw/article/paper/553951",
+          "kind": "reported"
+        }
+      ]
+    },
+    {
+      "id": "2020-2024",
+      "label": {
+        "zh": "第五波 約 2020 到 2024 年",
+        "en": "Wave 5, about 2020 to 2024"
+      },
+      "rise": {
+        "value": null,
+        "note": "沒有資料：2020 年基期值與累計漲幅本站沒有查到。只有 2024 年第 4 季內政部住宅價格指數 150.98、年增 10.85%、連續 26 季上漲（工商時報引述）。"
+      },
+      "drivers": {
+        "zh": "沒有查到單一權威的成因說法。同期央行自 2020 年 12 月起連續推出選擇性信用管制，成因未經驗證。",
+        "en": "No single authoritative account of causes was found. The central bank issued successive selective credit controls from December 2020, but causes are unverified."
+      },
+      "turning": {
+        "zh": "2023 年 2 月平均地權條例修正公布、2023 年 8 月新青安上路、2024 年 9 月央行第七波；2025 年建物買賣移轉年減 25.5%。",
+        "en": "The February 2023 land rights amendments, the August 2023 enhanced Youth Loan, the September 2024 seventh round of controls, and a 25.5% fall in building transfers in 2025."
+      },
+      "sources": [
+        {
+          "title": "住宅價格指數 2024Q4",
+          "publisher": "工商時報（引內政部）",
+          "url": "https://www.ctee.com.tw/news/20250502701207-430104",
+          "kind": "reported"
+        },
+        {
+          "title": "表 2 109年12月以來中央銀行選擇性信用管制之調整重點",
+          "publisher": "中央銀行業務局",
+          "url": "https://www.cbc.gov.tw/tw/dl-196466-e9ba3d2799e24813837e657c90003e2b.html",
+          "kind": "primary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+---
+/**
+ * housing.template.astro — /housing/ 台灣房地產專題主頁（13 語共用 template）。
+ *
+ * 規劃報告：reports/design-housing-hub-2026-11-10.md（第四節敘事骨架、第七節圖表清單）
+ * 資料 SSOT：src/data/housing/*.json（scripts/tools/build-housing-data.py 生成）
+ * 章節：src/components/housing/sections/*（每章一個元件），新圖表：src/components/housing/charts/*
+ * 文案：src/i18n/housing-home.ts（zh-TW 與 en 完整；其他語言回 en）
+ * 樣式：src/styles/housing.css（class 前綴 hs-，含深色覆寫）
+ *
+ * 節奏：一行引子 → 一句斷言的 H2 → 圖 → 一到兩段文字。數字全部在 build 時從資料檔算出再填入文案。
+ */
+import '../styles/topics-foundation.css';
+import '../styles/housing.css';
+import Layout from '../layouts/Layout.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import Hero from '../components/housing/sections/Hero.astro';
+import S1Tool from '../components/housing/sections/S1Tool.astro';
+import S2Price from '../components/housing/sections/S2Price.astro';
+import S3County from '../components/housing/sections/S3County.astro';
+import S4History from '../components/housing/sections/S4History.astro';
+import S5System from '../components/housing/sections/S5System.astro';
+import S6Controls from '../components/housing/sections/S6Controls.astro';
+import S7Qingan from '../components/housing/sections/S7Qingan.astro';
+import S8Positions from '../components/housing/sections/S8Positions.astro';
+import S9Strengths from '../components/housing/sections/S9Strengths.astro';
+import S10Gaps from '../components/housing/sections/S10Gaps.astro';
+import S11Future from '../components/housing/sections/S11Future.astro';
+import S12Links from '../components/housing/sections/S12Links.astro';
+import S13Sources from '../components/housing/sections/S13Sources.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { housingHome } from '../i18n/housing-home';
+import { fill } from '../utils/housing/format';
+import { homeFacts } from '../utils/housing/home-facts';
+import { getTopic } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const T = housingHome(lang);
+const f = homeFacts(lang);
+const topic = getTopic('housing');
+const meta = {
+  year: f.year,
+  pti: f.pti.v.toFixed(2),
+  period: f.period,
+  nTools: topic?.tools.length ?? 4,
+};
+const title = fill(T.meta.title, meta);
+const description = fill(T.meta.description, meta);
+const jump = [
+  ['tool', T.nav.tool],
+  ['price', T.nav.price],
+  ['county', T.nav.county],
+  ['history', T.nav.history],
+  ['system', T.nav.system],
+  ['controls', T.nav.controls],
+  ['qingan', T.nav.qingan],
+  ['positions', T.nav.positions],
+  ['strengths', T.nav.strengths],
+  ['gaps', T.nav.gaps],
+  ['future', T.nav.future],
+  ['links', T.nav.links],
+  ['sources', T.nav.sources],
+];
+---
+
+<Layout
+  lang={lang}
+  title={title}
+  description={description}
+  readerSettings={true}
+>
+  <main class="housing-page tf-surface">
+    <Hero lang={lang} />
+    <TopicNav lang={lang} topic="housing" />
+    <nav class="hs-jump" aria-label={T.nav.label}>
+      <ul class="hs-jump-list">
+        {
+          jump.map(([id, label]) => (
+            <li>
+              <a href={`#${id}`}>{label}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+    <S1Tool lang={lang} />
+    <S2Price lang={lang} />
+    <S3County lang={lang} />
+    <S4History lang={lang} />
+    <S5System lang={lang} />
+    <S6Controls lang={lang} />
+    <S7Qingan lang={lang} />
+    <S8Positions lang={lang} />
+    <S9Strengths lang={lang} />
+    <S10Gaps lang={lang} />
+    <S11Future lang={lang} />
+    <S12Links lang={lang} />
+    <S13Sources lang={lang} />
+    <TopicCrossLinks lang={lang} currentId="housing" />
+  </main>
+</Layout>

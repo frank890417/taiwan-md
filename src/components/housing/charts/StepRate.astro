@@ -1,0 +1,215 @@
+---
+/**
+ * StepRate — 青安階梯利率圖：每一階一根柱，柱頂是補貼後利率，柱頂到虛線之間是政府補貼。
+ * x 軸為「貸款第幾年」，最後一階（years＝null）畫成開放式，標「7+」這類字樣由呼叫端給。
+ * 數字全部由呼叫端從 qingan.json 傳入；元件不含自然語言。
+ */
+import FigureShell from './FigureShell.astro';
+import { scaleLinear, niceTicks, CHART_WIDTHS } from '../../../utils/budgetViz';
+import type { SourceRef } from '../../../utils/housing/data';
+
+export interface RateStep {
+  /** 該階持續年數；null＝開放式最後一階 */
+  years: number | null;
+  netRatePct: number;
+  subsidyPct: number;
+  /** x 軸短標籤（例：1–3、4、7+） */
+  xLabel: string;
+  /** 滑過提示 */
+  tip: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  lang: string;
+  steps: RateStep[];
+  baseRatePct: number;
+  baseLabel: string;
+  axisTitle: string;
+  sources: SourceRef[];
+  note?: string;
+  /** 補貼區的圖上標籤（例：政府補貼）；只標在最寬的那一階 */
+  subsidyLabel: string;
+  tableHeaders: { step: string; rate: string; subsidy: string };
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  lang,
+  steps,
+  baseRatePct,
+  baseLabel,
+  axisTitle,
+  sources,
+  note,
+  subsidyLabel,
+  tableHeaders,
+  id,
+} = Astro.props;
+
+const units = steps.map((s) => s.years ?? 3);
+const totalUnits = units.reduce((a, b) => a + b, 0);
+const top = niceTicks(baseRatePct * 1.12, 4).slice(-1)[0];
+const ticks = niceTicks(baseRatePct * 1.12, 4);
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? 250 : 300;
+  const M = { l: narrow ? 38 : 48, r: 10, t: 26, b: 44 };
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const x = scaleLinear(0, totalUnits, M.l, M.l + iw);
+  const y = scaleLinear(0, top, M.t + ih, M.t);
+  let acc = 0;
+  const bars = steps.map((s, i) => {
+    const x0 = x(acc);
+    acc += units[i];
+    const x1 = x(acc);
+    return {
+      s,
+      i,
+      x0,
+      x1,
+      w: x1 - x0,
+      yTop: y(s.netRatePct),
+      yBase: y(baseRatePct),
+    };
+  });
+  const widest = bars.reduce((a, b) => (b.w > a.w ? b : a), bars[0]);
+  return { W, H, M, iw, ih, y, bars, widest, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<FigureShell
+  title={title}
+  subtitle={subtitle}
+  lang={lang}
+  sources={sources}
+  note={note}
+  id={id}
+  kind="step"
+>
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-label={title}
+        class={`hs-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {ticks.map((t) => (
+          <g class="hs-grid">
+            <line x1={L.M.l} x2={L.W - L.M.r} y1={L.y(t)} y2={L.y(t)} />
+            <text
+              x={L.M.l - 6}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="hs-tick"
+            >
+              {t}%
+            </text>
+          </g>
+        ))}
+        {L.bars.map((b) => (
+          <g class={`hs-stepbar ${b.s.years === null ? 'is-open' : ''}`}>
+            <rect
+              x={b.x0 + 1}
+              y={b.yBase}
+              width={Math.max(0, b.w - 2)}
+              height={Math.max(0, b.yTop - b.yBase)}
+              class="hs-subsidy"
+            />
+            <rect
+              x={b.x0 + 1}
+              y={b.yTop}
+              width={Math.max(0, b.w - 2)}
+              height={Math.max(0, L.y(0) - b.yTop)}
+              class="hs-stepfill"
+            >
+              <title>{b.s.tip}</title>
+            </rect>
+            <text
+              x={b.x0 + b.w / 2}
+              y={b.yTop + 17}
+              text-anchor="middle"
+              class="hs-stepval"
+            >
+              {b.s.netRatePct}%
+            </text>
+            <text
+              x={b.x0 + b.w / 2}
+              y={L.M.t + L.ih + 16}
+              text-anchor="middle"
+              class="hs-tick"
+            >
+              {b.s.xLabel}
+            </text>
+          </g>
+        ))}
+        <line
+          x1={L.M.l}
+          x2={L.W - L.M.r}
+          y1={L.y(baseRatePct)}
+          y2={L.y(baseRatePct)}
+          class="hs-baseline"
+        />
+        <text
+          x={L.W - L.M.r}
+          y={L.y(baseRatePct) - 6}
+          text-anchor="end"
+          class="hs-baselab"
+        >
+          {baseLabel}
+        </text>
+        {!L.narrow && (
+          <text
+            x={L.widest.x0 + L.widest.w / 2}
+            y={(L.widest.yBase + L.widest.yTop) / 2 + 4}
+            text-anchor="middle"
+            class="hs-sublab"
+          >
+            {subsidyLabel}
+          </text>
+        )}
+        <line
+          x1={L.M.l}
+          x2={L.W - L.M.r}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="hs-axis"
+        />
+        <text
+          x={(L.M.l + L.W - L.M.r) / 2}
+          y={L.H - 6}
+          text-anchor="middle"
+          class="hs-axistitle"
+        >
+          {axisTitle}
+        </text>
+      </svg>
+    ))
+  }
+  <table slot="table">
+    <thead>
+      <tr>
+        <th>{tableHeaders.step}</th>
+        <th class="num">{tableHeaders.rate}</th>
+        <th class="num">{tableHeaders.subsidy}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        steps.map((s) => (
+          <tr>
+            <td>{s.xLabel}</td>
+            <td class="num">{s.netRatePct}%</td>
+            <td class="num">{s.subsidyPct}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</FigureShell>

@@ -1,0 +1,350 @@
+{
+  "$comment": "由 scripts/tools/build-housing-data.py 從 reports/research/2026-11/housing-statistics.md 產生，勿手改",
+  "retrieved": "2026-11-10",
+  "series": [
+    {
+      "id": "rent-subsidy-households",
+      "label": {
+        "zh": "租金補貼戶數（111 年 Q4 起核撥）",
+        "en": "Rent subsidy households (disbursed since 2022Q4)"
+      },
+      "unit": "戶",
+      "cadence": "quarterly",
+      "asOf": "2025Q4",
+      "derived": false,
+      "source": {
+        "agency": "內政部不動產資訊平台（資料源：地政司、戶政司、財政部財政資訊中心、國土管理署等）",
+        "title": "統計資訊整合項目下載區（CSV：住宅存量、房屋稅籍住宅類數量、普通家戶數、戶量、人口數、出生人數、建物買賣移轉登記棟數、租金補貼戶數）",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/E3030"
+      },
+      "note": "官方欄位名稱「租金補貼戶數(111年Q4起核撥)」，原檔沒有說明是當季核撥戶數或當季在撥戶數，沿用原欄名；只到 114Q4",
+      "points": [
+        { "t": "2022Q4", "v": 202709 },
+        { "t": "2023Q1", "v": 240356 },
+        { "t": "2023Q2", "v": 215419 },
+        { "t": "2023Q3", "v": 191526 },
+        { "t": "2023Q4", "v": 267180 },
+        { "t": "2024Q1", "v": 379728 },
+        { "t": "2024Q2", "v": 441695 },
+        { "t": "2024Q3", "v": 468198 },
+        { "t": "2024Q4", "v": 548100 },
+        { "t": "2025Q1", "v": 525758 },
+        { "t": "2025Q2", "v": 595871 },
+        { "t": "2025Q3", "v": 579004 },
+        { "t": "2025Q4", "v": 656749 }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "social-housing-progress",
+      "label": {
+        "zh": "全國社會住宅興辦進度",
+        "en": "Social housing progress"
+      },
+      "period": "2026-10-31",
+      "columns": [
+        "existing",
+        "newlyCompleted",
+        "underConstruction",
+        "achieved",
+        "planned",
+        "total"
+      ],
+      "columnLabels": {
+        "existing": {
+          "zh": "既有"
+        },
+        "newlyCompleted": {
+          "zh": "新完工"
+        },
+        "underConstruction": {
+          "zh": "興建中"
+        },
+        "achieved": {
+          "zh": "達成數小計"
+        },
+        "planned": {
+          "zh": "規劃中"
+        },
+        "total": {
+          "zh": "總計"
+        }
+      },
+      "columnUnits": {
+        "existing": "戶",
+        "newlyCompleted": "戶",
+        "underConstruction": "戶",
+        "achieved": "戶",
+        "planned": "戶",
+        "total": "戶"
+      },
+      "source": {
+        "agency": "內政部不動產資訊平台／國土管理署",
+        "title": "社會住宅執行進度（全國社會住宅興辦進度統計表、包租代管計畫執行情形）",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/B5010?mode=7"
+      },
+      "note": "單位：戶。欄位「達成數」＝既有＋新完工＋興建中（原文「小計」），另有「規劃中」。原文備註：已完工＝新建社宅取得使用執照、修繕社宅修繕完成；興建中＝取得建造執照並完成開工申報；中央興辦達成 7 萬 0,578 戶，含國家住都中心 7 萬 0,279 戶、國有財產署 223 戶、農田水利署 76 戶。；研究檔只列全國合計與六都，其餘縣市逐縣市數字見來源頁",
+      "rows": [
+        {
+          "key": "全國合計／中央",
+          "region": "全國合計",
+          "body": "中央",
+          "name": {
+            "zh": "全國合計（中央）",
+            "en": "National total (Central government)"
+          },
+          "existing": 0,
+          "newlyCompleted": 12241,
+          "underConstruction": 58337,
+          "achieved": 70578,
+          "planned": 11368,
+          "total": 81946
+        },
+        {
+          "key": "全國合計／地方",
+          "region": "全國合計",
+          "body": "地方",
+          "name": {
+            "zh": "全國合計（地方）",
+            "en": "National total (Local governments)"
+          },
+          "existing": 5975,
+          "newlyCompleted": 29471,
+          "underConstruction": 22890,
+          "achieved": 58336,
+          "planned": 10327,
+          "total": 68663
+        },
+        {
+          "key": "全國合計／小計",
+          "region": "全國合計",
+          "body": "小計",
+          "name": {
+            "zh": "全國合計（小計）",
+            "en": "National total (Subtotal)"
+          },
+          "existing": 5975,
+          "newlyCompleted": 41712,
+          "underConstruction": 81227,
+          "achieved": 128914,
+          "planned": 21695,
+          "total": 150609
+        },
+        {
+          "key": "臺北市／小計",
+          "region": "臺北市",
+          "body": "小計",
+          "name": { "zh": "臺北市（小計）", "en": "Taipei City (Subtotal)" },
+          "existing": 5031,
+          "newlyCompleted": 13509,
+          "underConstruction": 6848,
+          "achieved": 25388,
+          "planned": 1493,
+          "total": 26881
+        },
+        {
+          "key": "新北市／小計",
+          "region": "新北市",
+          "body": "小計",
+          "name": {
+            "zh": "新北市（小計）",
+            "en": "New Taipei City (Subtotal)"
+          },
+          "existing": 697,
+          "newlyCompleted": 10414,
+          "underConstruction": 12954,
+          "achieved": 24065,
+          "planned": 16118,
+          "total": 40183
+        },
+        {
+          "key": "桃園市／小計",
+          "region": "桃園市",
+          "body": "小計",
+          "name": { "zh": "桃園市（小計）", "en": "Taoyuan City (Subtotal)" },
+          "existing": 0,
+          "newlyCompleted": 4837,
+          "underConstruction": 12071,
+          "achieved": 16908,
+          "planned": 3053,
+          "total": 19961
+        },
+        {
+          "key": "臺中市／小計",
+          "region": "臺中市",
+          "body": "小計",
+          "name": { "zh": "臺中市（小計）", "en": "Taichung City (Subtotal)" },
+          "existing": 0,
+          "newlyCompleted": 5117,
+          "underConstruction": 10949,
+          "achieved": 16066,
+          "planned": 405,
+          "total": 16471
+        },
+        {
+          "key": "臺南市／小計",
+          "region": "臺南市",
+          "body": "小計",
+          "name": { "zh": "臺南市（小計）", "en": "Tainan City (Subtotal)" },
+          "existing": 0,
+          "newlyCompleted": 2361,
+          "underConstruction": 9697,
+          "achieved": 12058,
+          "planned": 0,
+          "total": 12058
+        },
+        {
+          "key": "高雄市／小計",
+          "region": "高雄市",
+          "body": "小計",
+          "name": { "zh": "高雄市（小計）", "en": "Kaohsiung City (Subtotal)" },
+          "existing": 241,
+          "newlyCompleted": 3714,
+          "underConstruction": 19091,
+          "achieved": 23046,
+          "planned": 0,
+          "total": 23046
+        }
+      ]
+    },
+    {
+      "id": "rental-management-matches",
+      "label": {
+        "zh": "包租代管累計媒合戶數",
+        "en": "Rental management scheme: cumulative matched households"
+      },
+      "period": "2026-10-31",
+      "columns": ["local", "central", "matched", "effectiveContracts"],
+      "columnLabels": {
+        "local": {
+          "zh": "地方"
+        },
+        "central": {
+          "zh": "中央"
+        },
+        "matched": {
+          "zh": "媒合戶數（合計）"
+        },
+        "effectiveContracts": {
+          "zh": "有效契約數"
+        }
+      },
+      "columnUnits": {
+        "local": "戶",
+        "central": "戶",
+        "matched": "戶",
+        "effectiveContracts": "戶"
+      },
+      "source": {
+        "agency": "內政部不動產資訊平台／國土管理署",
+        "title": "社會住宅執行進度（全國社會住宅興辦進度統計表、包租代管計畫執行情形）",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/B5010?mode=7"
+      },
+      "note": "第 5 期為中央版 114-10-01 起（地方版各縣市開辦日不同）；第 1 期不分地方／中央；第 1 至 4 期媒合期間已截止，數據不再更新；有效契約數指租賃契約仍有效戶數，與累計媒合不可混加",
+      "rows": [
+        {
+          "key": "phase-1",
+          "name": { "zh": "第 1 期", "en": "Phase 1" },
+          "local": null,
+          "central": null,
+          "matched": 5157,
+          "effectiveContracts": null
+        },
+        {
+          "key": "phase-2",
+          "name": { "zh": "第 2 期", "en": "Phase 2" },
+          "local": 8590,
+          "central": 5937,
+          "matched": 14527,
+          "effectiveContracts": null
+        },
+        {
+          "key": "phase-3",
+          "name": { "zh": "第 3 期", "en": "Phase 3" },
+          "local": 17750,
+          "central": 36651,
+          "matched": 54401,
+          "effectiveContracts": null
+        },
+        {
+          "key": "phase-4",
+          "name": { "zh": "第 4 期", "en": "Phase 4" },
+          "local": 38199,
+          "central": 75839,
+          "matched": 114038,
+          "effectiveContracts": null
+        },
+        {
+          "key": "phase-5",
+          "name": { "zh": "第 5 期", "en": "Phase 5" },
+          "local": 5675,
+          "central": 60848,
+          "matched": 66523,
+          "effectiveContracts": null
+        },
+        {
+          "key": "cumulative",
+          "name": { "zh": "累計", "en": "Cumulative" },
+          "local": null,
+          "central": null,
+          "matched": 254646,
+          "effectiveContracts": 118923
+        }
+      ]
+    },
+    {
+      "id": "social-housing-plan-targets",
+      "label": {
+        "zh": "社會住宅興辦計畫目標（106–113 年）",
+        "en": "Social housing plan targets (2017–2024)"
+      },
+      "period": "2017-2024",
+      "columns": ["targetYear", "directBuild", "rentalManagement", "total"],
+      "columnLabels": {
+        "targetYear": {
+          "zh": "達成年度"
+        },
+        "directBuild": {
+          "zh": "政府直接興建"
+        },
+        "rentalManagement": {
+          "zh": "包租代管"
+        },
+        "total": {
+          "zh": "合計"
+        }
+      },
+      "columnUnits": {
+        "targetYear": "年",
+        "directBuild": "萬戶",
+        "rentalManagement": "萬戶",
+        "total": "萬戶"
+      },
+      "source": {
+        "agency": "內政部不動產資訊平台",
+        "title": "社會住宅興辦計畫與包租代管計畫說明頁",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/B5010?mode=4"
+      },
+      "note": "依行政院 106 年 3 月 6 日核定之「社會住宅興辦計畫」；第二階段政府直接興建含容積獎勵補充；目標與達成口徑不同（興建中尚未供住、媒合累計不等於有效契約），不可直接加總成「達成 20 萬戶」",
+      "rows": [
+        {
+          "key": "stage-1",
+          "name": { "zh": "第一階段", "en": "Stage 1" },
+          "targetYear": 2020,
+          "directBuild": 4,
+          "rentalManagement": 4,
+          "total": 8
+        },
+        {
+          "key": "stage-2",
+          "name": { "zh": "第二階段", "en": "Stage 2" },
+          "targetYear": 2024,
+          "directBuild": 12,
+          "rentalManagement": 8,
+          "total": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+---
+/**
+ * RelatedChips — 各章底下的站內文章卡列。沒有譯文的語言連到中文版，並在卡上標「中文」。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import type { RelCard } from '../../../utils/housing/related';
+
+interface Props {
+  lang: string;
+  cards: RelCard[];
+  label?: string;
+}
+const { lang, cards, label } = Astro.props;
+const T = housingHome(lang);
+---
+
+{
+  cards.length > 0 && (
+    <div class="hs-related">
+      <span class="hs-related-k">{label ?? T.ui.related}</span>
+      <ul class="hs-chips">
+        {cards.map((c) => (
+          <li>
+            <a
+              href={c.href}
+              title={c.zhFallback && lang !== 'zh-TW' ? undefined : c.desc}
+              class="hs-chip-link"
+            >
+              {c.title}
+              {c.zhFallback && <span class="hs-tag">{T.ui.zhOnly}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
