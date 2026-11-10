@@ -4,7 +4,9 @@
  *
  * 同一個工具在三個地方出現，外框只差在 variant：
  *   inline  放在專題頁裡：卡片外框、標題、一句說明、「單獨開啟」「嵌入」連結。
- *   page    放在單獨工具頁（ToolPage）裡：卡片外框、標題、「嵌入」連結（跳到頁內的嵌入程式碼）。
+ *   page    放在單獨工具頁（ToolPage）裡：卡片外框、「嵌入」連結（跳到頁內的嵌入程式碼）。
+ *           標題預設不顯示（頁面的 H1 已經是工具名），改寫進外框的 aria-label；
+ *           要顯示就傳 showTitle（v1.1）。
  *   embed   放在內嵌板（EmbedLayout）裡：只有標題與工具本體，沒有外框與連結。
  *
  * slots：
@@ -27,6 +29,7 @@
 import type { Lang } from '../../config/languages';
 import { useTopicsT } from '../../i18n/topics';
 import { localizePath } from '../../utils/topics/registry-core';
+import { uiDir } from '../../utils/topics/ui-dir';
 
 export interface Props {
   title: string;
@@ -39,6 +42,11 @@ export interface Props {
   lang: Lang;
   /** 標題層級。預設 inline 為 3（放在專題頁的 H2 區塊底下），page／embed 為 2。 */
   headingLevel?: 2 | 3 | 4;
+  /**
+   * 要不要把 title 顯示成看得到的標題。預設：inline、embed 顯示；page 不顯示
+   * （title 改當外框的 aria-label，避免跟頁面 H1 同字）。傳 true 強制顯示。
+   */
+  showTitle?: boolean;
 }
 
 const {
@@ -49,9 +57,12 @@ const {
   variant = 'inline',
   lang,
   headingLevel,
+  showTitle,
 } = Astro.props;
 
 const t = useTopicsT(lang);
+const ui = uiDir(lang);
+const titleVisible = showTitle ?? variant !== 'page';
 const Heading = `h${headingLevel ?? (variant === 'inline' ? 3 : 2)}` as
   | 'h2'
   | 'h3'
@@ -70,37 +81,52 @@ const embedLink = !embedHref
       : undefined;
 const hasSources = Astro.slots.has('sources');
 const hasDisclaimer = Astro.slots.has('disclaimer');
+const hasHeadText = titleVisible || !!description;
+const hasActions = showOpen || !!embedLink;
 ---
 
-<section class:list={['tf-frame', `tf-frame-${variant}`]} data-tf-frame>
-  <header class="tf-head">
-    <div class="tf-head-text">
-      <Heading class="tf-title">{title}</Heading>
-      {description && <p class="tf-desc">{description}</p>}
-    </div>
-    {
-      (showOpen || embedLink) && (
-        <p class="tf-actions">
-          {showOpen && (
-            <a class="tf-action" href={standalone}>
-              {t('tool.openStandalone')}
-              <span aria-hidden="true" class="tf-action-arrow">
-                ↗
-              </span>
-            </a>
-          )}
-          {embedLink && (
-            <a class="tf-action" href={embedLink}>
-              {t('tool.embed')}
-              <span aria-hidden="true" class="tf-action-arrow">
-                &lt;/&gt;
-              </span>
-            </a>
-          )}
-        </p>
-      )
-    }
-  </header>
+<section
+  class:list={['tf-frame', `tf-frame-${variant}`]}
+  data-tf-frame
+  aria-label={titleVisible ? undefined : title}
+>
+  {
+    (hasHeadText || hasActions) && (
+      <header class:list={['tf-head', { 'tf-head-bare': !hasHeadText }]}>
+        {hasHeadText && (
+          <div class="tf-head-text">
+            {titleVisible && <Heading class="tf-title">{title}</Heading>}
+            {description && <p class="tf-desc">{description}</p>}
+          </div>
+        )}
+        {hasActions && (
+          <p class="tf-actions">
+            {showOpen && (
+              <a
+                class="tf-action"
+                href={standalone}
+                dir={ui.dir}
+                lang={ui.lang}
+              >
+                {t('tool.openStandalone')}
+                <span aria-hidden="true" class="tf-action-arrow">
+                  ↗
+                </span>
+              </a>
+            )}
+            {embedLink && (
+              <a class="tf-action" href={embedLink} dir={ui.dir} lang={ui.lang}>
+                {t('tool.embed')}
+                <span aria-hidden="true" class="tf-action-arrow">
+                  &lt;/&gt;
+                </span>
+              </a>
+            )}
+          </p>
+        )}
+      </header>
+    )
+  }
 
   <div class="tf-body">
     <slot />
@@ -116,7 +142,9 @@ const hasDisclaimer = Astro.slots.has('disclaimer');
   {
     hasSources && (
       <div class="tf-sources">
-        <span class="tf-sources-label">{t('tool.sources')}</span>
+        <span class="tf-sources-label" dir={ui.dir} lang={ui.lang}>
+          {t('tool.sources')}
+        </span>
         <div class="tf-sources-body">
           <slot name="sources" />
         </div>
@@ -159,6 +187,14 @@ const hasDisclaimer = Astro.slots.has('disclaimer');
     flex: 1 1 16rem;
     min-width: 0;
   }
+  /* 沒有看得到的標題與說明時，只剩動作連結，靠結尾那一側。 */
+  .tf-head-bare {
+    justify-content: flex-end;
+    margin-bottom: 0.75rem;
+  }
+  .tf-title + .tf-desc {
+    margin-top: 0.3rem;
+  }
   .tf-title {
     margin: 0;
     font-family: var(--font-interface);
@@ -173,7 +209,7 @@ const hasDisclaimer = Astro.slots.has('disclaimer');
     font-size: clamp(1.15rem, 2.2vw, 1.35rem);
   }
   .tf-desc {
-    margin: 0.3rem 0 0;
+    margin: 0;
     font-size: 0.92rem;
     line-height: 1.65;
     color: var(--color-ink-soft);

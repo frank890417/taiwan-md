@@ -6,7 +6,7 @@
  * 本檔不 import 任何相對路徑模組。
  */
 
-/** 雙語文字。zh、en 必填；其他語言代碼（ja、ko…）可選，有就優先用。 */
+/** 雙語文字。zh、en 必填；其他語言代碼（ja、ko…）可選，有就優先用，沒有讀 en。 */
 export interface LocalizedText {
   zh: string;
   en: string;
@@ -17,6 +17,8 @@ export interface TopicSubpage {
   /** 中文版路徑，例 /housing/prices/。 */
   path: string;
   title: LocalizedText | string;
+  /** TopicNav 膠囊上的短標題（v1.1）。不給就用 title。 */
+  navTitle?: LocalizedText | string;
 }
 
 export interface TopicTool {
@@ -27,6 +29,8 @@ export interface TopicTool {
   /** 內嵌板中文版路徑，例 /embed/housing/mortgage-calculator/。 */
   embedPath: string;
   title: LocalizedText;
+  /** TopicNav 膠囊上的短標題（v1.1）。不給就用 title。 */
+  navTitle?: LocalizedText | string;
   description: LocalizedText;
   keywords: string[];
 }
@@ -47,6 +51,11 @@ export interface Topic {
   relatedArticles: string[];
   /** 其他專題的 id。 */
   relatedTopics: string[];
+  /**
+   * 這個專題的內容真的翻好了的語言代碼（v1.1）。登記檔沒寫就是 ['zh-TW', 'en']。
+   * 不在清單裡的語言頁應該標 noindex，見 isTopicTranslated()。
+   */
+  languages?: string[];
 }
 
 /** getAllTools() 的元素：工具加上它所屬的專題。 */
@@ -81,15 +90,13 @@ function toStrings(v: unknown): string[] {
   return Array.isArray(v) ? v.filter((x) => typeof x === 'string') : [];
 }
 
-/**
- * 缺該語言的字時先讀中文的語言。跟 src/i18n/utils.ts 的 FALLBACK_CHAIN 對齊：
- * ja、ko 的介面字串缺字時退到 zh-TW，其他語言先退到 en。那張表改了這裡要跟著改。
- */
-const ZH_FIRST_LANGS = ['zh-TW', 'zh', 'ja', 'ko'];
+/** 專題內容預設翻好的語言（登記檔沒寫 languages 時）。 */
+export const DEFAULT_TOPIC_LANGUAGES: readonly string[] = ['zh-TW', 'en'];
 
 /**
- * 照語言取字：該語言自己的欄位 → zh-TW、ja、ko 讀 zh → 其他語言讀 en。
- * 方向跟站上介面字串的 fallback 一致，同一頁不會一半中文一半英文。
+ * 照語言取字（v1.1）：該語言自己的欄位 → en → zh。zh-TW 讀 zh。
+ * 跟 src/i18n/topics.ts 的 topicsFallbackChain 同一條規則：zh-TW 與 en 以外的語言
+ * 缺字時一律先讀英文，同一頁不會一半中文一半英文。
  */
 export function pickText(
   text: LocalizedText | string | undefined | null,
@@ -99,8 +106,38 @@ export function pickText(
   if (typeof text === 'string') return text;
   const own = text[lang];
   if (typeof own === 'string' && own) return own;
-  if (ZH_FIRST_LANGS.includes(lang)) return text.zh || text.en || '';
+  if (lang === 'zh-TW' || lang === 'zh') return text.zh || text.en || '';
   return text.en || text.zh || '';
+}
+
+/**
+ * pickText 會不會讀到該語言自己的字（true），還是退到別的語言（false）。
+ * 純字串一律當成已經是該語言。textDir() 用它決定要不要標 dir="ltr"。
+ */
+export function hasOwnText(
+  text: LocalizedText | string | undefined | null,
+  lang: string,
+): boolean {
+  if (text == null || typeof text === 'string') return true;
+  const key = lang === 'zh-TW' ? 'zh' : lang;
+  const own = text[lang] || text[key];
+  return typeof own === 'string' && own !== '';
+}
+
+/**
+ * 這個專題在該語言有沒有翻好的內容（v1.1）。登記檔的 languages 沒寫時是
+ * zh-TW 與 en。專題主頁與子頁模板用它傳 noindex：
+ *   <Layout noindex={!isTopicTranslated(topic, lang)} …>
+ */
+export function isTopicTranslated(
+  topic: { languages?: readonly string[] } | undefined | null,
+  lang: string,
+): boolean {
+  const langs =
+    topic && Array.isArray(topic.languages) && topic.languages.length > 0
+      ? topic.languages
+      : DEFAULT_TOPIC_LANGUAGES;
+  return langs.includes(lang);
 }
 
 /**
@@ -122,6 +159,14 @@ export function normalizePath(path: string): string {
   return p === '' ? '/' : p;
 }
 
+/** navTitle 有寫才帶（字串或 {zh, en}）；沒寫就不加這個欄位。 */
+function navTitleOf(raw: any): { navTitle?: LocalizedText | string } {
+  const v = raw?.navTitle;
+  if (typeof v === 'string' && v) return { navTitle: v };
+  if (isText(v)) return { navTitle: toText(v) };
+  return {};
+}
+
 function normalizeTool(raw: any): TopicTool | null {
   if (!raw || typeof raw.slug !== 'string' || typeof raw.path !== 'string') {
     return null;
@@ -131,6 +176,7 @@ function normalizeTool(raw: any): TopicTool | null {
     path: raw.path,
     embedPath: typeof raw.embedPath === 'string' ? raw.embedPath : '',
     title: toText(raw.title, raw.slug),
+    ...navTitleOf(raw),
     description: toText(raw.description),
     keywords: toStrings(raw.keywords),
   };
@@ -154,12 +200,16 @@ export function normalizeTopic(raw: any): Topic | null {
       .map((s: any) => ({
         path: s.path,
         title: typeof s.title === 'string' ? s.title : toText(s.title, s.path),
+        ...navTitleOf(s),
       })),
     tools: (Array.isArray(data.tools) ? data.tools : [])
       .map(normalizeTool)
       .filter((t: TopicTool | null): t is TopicTool => t !== null),
     relatedArticles: toStrings(data.relatedArticles),
     relatedTopics: toStrings(data.relatedTopics),
+    ...(toStrings(data.languages).length > 0
+      ? { languages: toStrings(data.languages) }
+      : {}),
   };
 }
 
