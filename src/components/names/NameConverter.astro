@@ -1,0 +1,441 @@
+---
+/**
+ * NameConverter — 姓名拼音工具（/names 主頁內嵌精簡版、/names/romanize 完整版共用）。
+ *
+ * 全部在瀏覽器裡算：輸入不送出、不進網址、不存 localStorage。
+ * 字音表（public/data/names/readings.json，約 120KB gzip）在第一次需要時才抓。
+ * 拼音規則＝src/utils/names/romanize.ts（測試逐列對外交部領事事務局對照表）。
+ * 文案由呼叫端給（s），元件本身不寫任何語言的字串。
+ */
+import boca from '../../data/names/boca-table.json';
+import surnameReadings from '../../data/names/surname-readings.json';
+
+interface Props {
+  /** 文案表（names.tool.* 去掉前綴後的 key → 字串） */
+  s: Record<string, string>;
+  /** full＝工具頁（含反查分頁）；compact＝主頁內嵌 */
+  mode?: 'full' | 'compact';
+  /** 預填的名字 */
+  initial?: string;
+  uiLang: string;
+}
+const { s, mode = 'full', initial = '', uiLang } = Astro.props;
+const zhuyinList = (boca as any).rows.map((r: string[]) => r[0]);
+const local = (surnameReadings as any).rows.map((r: any) => [
+  r.surname,
+  r.taigi,
+  r.hakkaSixian,
+  r.sutianId,
+]);
+const cfg = { s, zhuyinList, local, mode, initial, uiLang };
+---
+
+<div class="np-tool" data-names-tool data-cfg={JSON.stringify(cfg)}>
+  {
+    mode === 'full' && (
+      <div class="np-tool-tabs" role="tablist" aria-label={s.tabsLabel}>
+        <button type="button" role="tab" aria-selected="true" data-tab="fwd">
+          {s.tabFwd}
+        </button>
+        <button type="button" role="tab" aria-selected="false" data-tab="rev">
+          {s.tabRev}
+        </button>
+      </div>
+    )
+  }
+
+  <div data-pane="fwd">
+    <label class="np-lab" for={`np-in-${mode}`}>{s.inputLabel}</label>
+    <div class="np-tool-row">
+      <input
+        class="np-input"
+        id={`np-in-${mode}`}
+        type="text"
+        inputmode="text"
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        maxlength="20"
+        lang="zh-Hant"
+        value={initial}
+        data-in
+      />
+      <div class="np-seg" role="group" aria-label={s.surnameLen}>
+        <button type="button" aria-pressed="true" data-slen="auto"
+          >{s.slenAuto}</button
+        >
+        <button type="button" aria-pressed="false" data-slen="1"
+          >{s.slen1}</button
+        >
+        <button type="button" aria-pressed="false" data-slen="2"
+          >{s.slen2}</button
+        >
+      </div>
+    </div>
+    <div class="np-chars" data-chars aria-live="polite"></div>
+    <table class="np-out" data-out>
+      <caption class="sr-only">{s.outCaption}</caption>
+      <tbody></tbody>
+    </table>
+    <p class="np-say" data-say hidden></p>
+    <ul class="np-warns" data-warns></ul>
+    <noscript><p class="bp-note">{s.noscript}</p></noscript>
+  </div>
+
+  {
+    mode === 'full' && (
+      <div data-pane="rev" hidden>
+        <label class="np-lab" for="np-rev-in">
+          {s.revLabel}
+        </label>
+        <div class="np-tool-row">
+          <input
+            class="np-input"
+            id="np-rev-in"
+            type="text"
+            autocomplete="off"
+            autocapitalize="off"
+            spellcheck="false"
+            maxlength="60"
+            lang="en"
+            placeholder="Hsieh Tsung-han"
+            data-rev-in
+          />
+        </div>
+        <div class="np-rev" data-rev aria-live="polite" />
+        <p class="np-tool-foot">{s.revFoot}</p>
+      </div>
+    )
+  }
+  <p class="np-tool-foot">{s.privacy}</p>
+</div>
+
+<script>
+  import {
+    SYSTEMS,
+    hanOnly,
+    splitName,
+    lookupReadings,
+    romanizeSyllableAll,
+    parseZhuyin,
+    toHanyuToned,
+    toIpa,
+    stripTone,
+    buildReverseIndex,
+    tokenizeRoman,
+    reverseLookup,
+    COMPOUND_READINGS,
+    type CharReading,
+    type System,
+  } from '../../utils/names/romanize';
+
+  type Cfg = {
+    s: Record<string, string>;
+    zhuyinList: string[];
+    local: [string, string, string, string][];
+    mode: string;
+    initial: string;
+    uiLang: string;
+  };
+
+  let dictPromise: Promise<Record<string, string>> | null = null;
+  const loadDict = () =>
+    (dictPromise ??= fetch('/data/names/readings.json')
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status));
+        return r.json();
+      })
+      .then((j) => j.r as Record<string, string>));
+
+  const esc = (t: string) =>
+    t.replace(
+      /[&<>"]/g,
+      (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!,
+    );
+  const fill = (tpl: string, vars: Record<string, string | number>) =>
+    tpl.replace(/\{(\w+)\}/g, (_, k) => String(vars[k] ?? ''));
+  const fold = (t: string) =>
+    t
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
+      .replace(/[^A-Za-z]/g, '')
+      .toUpperCase();
+
+  function init(root: HTMLElement) {
+    const cfg = JSON.parse(root.dataset.cfg!) as Cfg;
+    const s = cfg.s;
+    const official = new Set(cfg.zhuyinList);
+    const input = root.querySelector<HTMLInputElement>('[data-in]')!;
+    const charsEl = root.querySelector<HTMLElement>('[data-chars]')!;
+    const outBody = root.querySelector<HTMLElement>('[data-out] tbody')!;
+    const sayEl = root.querySelector<HTMLElement>('[data-say]')!;
+    const warnsEl = root.querySelector<HTMLElement>('[data-warns]')!;
+    const sysLabel: Record<System, [string, string]> = {
+      wg: [s.sysWg, s.sysWgSub],
+      hanyu: [s.sysHanyu, s.sysHanyuSub],
+      tongyong: [s.sysTongyong, s.sysTongyongSub],
+      mps2: [s.sysMps2, s.sysMps2Sub],
+    };
+    let slen: 'auto' | 1 | 2 = 'auto';
+    /** 使用者對每個位置選的讀音（key＝位置:字） */
+    const picks = new Map<string, number>();
+    let dict: Record<string, string> | null = null;
+
+    function render() {
+      const raw = input.value;
+      const chars = hanOnly(raw);
+      const dropped = Array.from(raw).filter(
+        (c) => c.trim() && !/\p{Script=Han}/u.test(c),
+      );
+      const warns: [string, boolean][] = [];
+      charsEl.innerHTML = '';
+      outBody.innerHTML = '';
+      sayEl.hidden = true;
+      if (!chars.length) {
+        if (raw.trim()) warns.push([s.warnNoHan, false]);
+        paintWarns(warns);
+        return;
+      }
+      if (!dict) {
+        charsEl.textContent = s.loading;
+        return;
+      }
+      if (dropped.length)
+        warns.push([fill(s.warnDropped, { x: dropped.join(' ') }), false]);
+      if (chars.length === 1) warns.push([s.warnOneChar, true]);
+      const sp = splitName(
+        chars,
+        slen === 'auto' ? undefined : Math.min(slen, chars.length),
+      );
+      const nS = Array.from(sp.surname).length;
+      if (slen === 'auto' && sp.compound)
+        warns.push([fill(s.warnCompound, { x: sp.surname }), true]);
+      if (chars.length >= 4 && slen === 'auto' && !sp.compound)
+        warns.push([s.warnFour, true]);
+
+      const compoundR = COMPOUND_READINGS[sp.surname];
+      const items: (CharReading & { surname: boolean; pos: number })[] =
+        chars.map((c, i) => {
+          const isS = i < nS;
+          const r = lookupReadings(c, dict!, isS && nS === 1);
+          if (isS && compoundR && compoundR[i]) {
+            r.readings = [
+              compoundR[i],
+              ...r.readings.filter((z) => z !== compoundR[i]),
+            ];
+            r.surnameOverride = true;
+          }
+          const key = `${i}:${c}`;
+          r.pick = Math.min(
+            picks.get(key) ?? 0,
+            Math.max(0, r.readings.length - 1),
+          );
+          return { ...r, surname: isS, pos: i };
+        });
+
+      for (const it of items) {
+        const cell = document.createElement('div');
+        cell.className = `np-char ${it.surname ? 'is-surname' : 'is-given'} ${it.readings.length ? '' : 'is-unknown'}`;
+        const cEl = document.createElement('span');
+        cEl.className = 'np-char-c';
+        cEl.lang = 'zh-Hant';
+        cEl.textContent = it.char;
+        cell.append(cEl);
+        if (it.readings.length > 1) {
+          const sel = document.createElement('select');
+          sel.setAttribute('aria-label', fill(s.pickReading, { x: it.char }));
+          it.readings.forEach((z, k) => {
+            const o = document.createElement('option');
+            o.value = String(k);
+            o.textContent = z;
+            if (k === it.pick) o.selected = true;
+            sel.append(o);
+          });
+          sel.addEventListener('change', () => {
+            picks.set(`${it.pos}:${it.char}`, Number(sel.value));
+            render();
+          });
+          cell.append(sel);
+        } else {
+          const z = document.createElement('span');
+          z.className = 'np-char-z';
+          z.textContent = it.readings[0] ?? s.unknownShort;
+          cell.append(z);
+        }
+        charsEl.append(cell);
+        if (!it.readings.length)
+          warns.push([fill(s.warnUnknown, { x: it.char }), false]);
+        else if (it.readings.length > 1) {
+          warns.push([
+            fill(it.surnameOverride ? s.warnPolySurname : s.warnPoly, {
+              x: it.char,
+              z: it.readings[it.pick],
+              n: it.readings.length,
+            }),
+            true,
+          ]);
+        }
+        const cur = it.readings[it.pick];
+        if (cur && !official.has(stripTone(cur)))
+          warns.push([fill(s.warnNotOfficial, { x: it.char, z: cur }), false]);
+      }
+
+      const usable = items.every((it) => it.readings.length);
+      if (usable) {
+        const zs = items.map((it) => it.readings[it.pick]);
+        for (const sys of SYSTEMS) {
+          const parts = zs.map((z) => romanizeSyllableAll(z)![sys]);
+          const sur = parts
+            .slice(0, nS)
+            .map((p) => p[0])
+            .join('');
+          const giv = parts
+            .slice(nS)
+            .map((p) => p[0])
+            .join('-');
+          const text = giv ? `${sur}, ${giv}` : sur;
+          const alts = parts
+            .map((p, i) =>
+              p.length > 1 ? `${items[i].char} ${p.join(' / ')}` : '',
+            )
+            .filter(Boolean);
+          const tr = document.createElement('tr');
+          tr.innerHTML =
+            `<th scope="row">${esc(sysLabel[sys][0])}<small>${esc(sysLabel[sys][1])}</small></th>` +
+            `<td class="v">${esc(text)}${alts.length ? `<span class="alt">${esc(fill(s.altSpelling, { x: alts.join('；') }))}</span>` : ''}</td>` +
+            `<td class="act"><button type="button" class="np-btn" data-copy="${esc(text)}">${esc(s.copy)}</button></td>`;
+          outBody.append(tr);
+          if (text.length > 39 && sys === 'wg') warns.push([s.warn39, false]);
+        }
+        // 念法提示
+        const py = zs.map((z) => toHanyuToned(parseZhuyin(z)!)).join(' ');
+        const ipa = zs.map((z) => toIpa(parseZhuyin(z)!)).join(' ');
+        sayEl.hidden = false;
+        sayEl.innerHTML =
+          `<b>${esc(s.sayTitle)}</b> ${esc(s.sayZhuyin)} <span lang="zh-Hant">${esc(zs.join(' '))}</span> · ` +
+          `${esc(s.sayPinyin)} ${esc(py)} · IPA <span class="ipa">[${esc(ipa)}]</span> ` +
+          `<button type="button" class="np-btn" data-speak>${esc(s.speak)}</button>`;
+        sayEl
+          .querySelector<HTMLButtonElement>('[data-speak]')!
+          .addEventListener('click', () => {
+            const synth = window.speechSynthesis;
+            if (!synth) return;
+            synth.cancel();
+            const u = new SpeechSynthesisUtterance(chars.join(''));
+            u.lang = 'zh-TW';
+            u.rate = 0.8;
+            synth.speak(u);
+          });
+        if (!('speechSynthesis' in window))
+          sayEl.querySelector('[data-speak]')!.remove();
+        // 台語、客語姓氏讀音（只有前 30 大姓、只有姓）
+        const loc = cfg.local.find((r) => r[0] === sp.surname);
+        if (loc)
+          warns.push([
+            fill(s.infoLocal, { x: loc[0], t: loc[1], h: loc[2] }),
+            true,
+          ]);
+      }
+      paintWarns(warns);
+    }
+
+    function paintWarns(list: [string, boolean][]) {
+      warnsEl.innerHTML = '';
+      for (const [t, info] of list) {
+        const li = document.createElement('li');
+        if (info) li.className = 'is-info';
+        li.textContent = t;
+        warnsEl.append(li);
+      }
+    }
+
+    root.addEventListener('click', (ev) => {
+      const b = (ev.target as Element).closest<HTMLButtonElement>('button');
+      if (!b) return;
+      if (b.dataset.copy) {
+        navigator.clipboard?.writeText(b.dataset.copy).then(() => {
+          const old = b.textContent;
+          b.textContent = s.copied;
+          setTimeout(() => (b.textContent = old), 1200);
+        });
+      } else if (b.dataset.slen) {
+        slen =
+          b.dataset.slen === 'auto'
+            ? 'auto'
+            : (Number(b.dataset.slen) as 1 | 2);
+        root
+          .querySelectorAll<HTMLButtonElement>('[data-slen]')
+          .forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        render();
+      } else if (b.dataset.tab) {
+        root
+          .querySelectorAll<HTMLButtonElement>('[data-tab]')
+          .forEach((x) => x.setAttribute('aria-selected', String(x === b)));
+        root
+          .querySelectorAll<HTMLElement>('[data-pane]')
+          .forEach((p) => (p.hidden = p.dataset.pane !== b.dataset.tab));
+      }
+    });
+    input.addEventListener('input', () => {
+      picks.clear();
+      render();
+    });
+
+    // 反查
+    const revIn = root.querySelector<HTMLInputElement>('[data-rev-in]');
+    const revEl = root.querySelector<HTMLElement>('[data-rev]');
+    if (revIn && revEl) {
+      const idx = buildReverseIndex(cfg.zhuyinList);
+      const sysName: Record<System, string> = {
+        wg: s.sysWg,
+        hanyu: s.sysHanyu,
+        tongyong: s.sysTongyong,
+        mps2: s.sysMps2,
+      };
+      const renderRev = () => {
+        revEl.innerHTML = '';
+        for (const tok of tokenizeRoman(revIn.value).slice(0, 8)) {
+          const hits = reverseLookup(tok, idx);
+          const byZ = new Map<string, System[]>();
+          for (const h of hits)
+            byZ.set(h.zhuyin, [...(byZ.get(h.zhuyin) || []), h.system]);
+          const localHits = cfg.local.filter(
+            (r) =>
+              fold(r[1].split('/')[0]) === tok ||
+              fold(r[1].split('/')[1] || '') === tok,
+          );
+          const hakkaHits = cfg.local.filter((r) => fold(r[2]) === tok);
+          const box = document.createElement('div');
+          box.className = `np-rev-tok ${byZ.size || localHits.length || hakkaHits.length ? '' : 'is-none'}`;
+          let html = `<span class="np-rev-t">${esc(tok)}</span><ul class="np-rev-list">`;
+          for (const [z, systems] of byZ) {
+            const syl = parseZhuyin(z)!;
+            html += `<li><b lang="zh-Hant">${esc(z)}</b> · ${esc(toHanyuToned({ ...syl, tone: 5 }))} · <span class="ipa">[${esc(toIpa({ ...syl, tone: 5 }))}]</span> — ${esc(systems.map((x) => sysName[x]).join('、'))}</li>`;
+          }
+          for (const r of localHits)
+            html += `<li>${esc(fill(s.revTaigi, { x: r[0], t: r[1] }))}</li>`;
+          for (const r of hakkaHits)
+            html += `<li>${esc(fill(s.revHakka, { x: r[0], t: r[2] }))}</li>`;
+          if (!byZ.size && !localHits.length && !hakkaHits.length)
+            html += `<li>${esc(s.revNone)}</li>`;
+          html += '</ul>';
+          box.innerHTML = html;
+          revEl.append(box);
+        }
+      };
+      revIn.addEventListener('input', renderRev);
+    }
+
+    loadDict()
+      .then((d) => {
+        dict = d;
+        render();
+      })
+      .catch(() => {
+        charsEl.textContent = s.loadFail;
+      });
+    render();
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-names-tool]').forEach(init);
+</script>

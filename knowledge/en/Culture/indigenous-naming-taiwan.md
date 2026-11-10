@@ -132,6 +132,8 @@ The person behind the name may be the father, mother, eldest son, clan, or house
 
 ## Further Reading
 
+- [Taiwanese Names (feature)](/en/names/) — surnames, generations, the four official spellings and Indigenous names in charts, with a name romanization tool.
+
 **Further Reading:** [Indigenous Peoples’ Traditional Name Recovery Information Network](https://taiwan-indigenous-name.info/zh-tw/index.html), [Guidelines for the Use of Traditional Names by Taiwan’s Indigenous Peoples](https://glrs.moi.gov.tw/LawContent.aspx?id=GL001686), [Operational Guidelines for Taiwan Indigenous Peoples to Recover Traditional Names and Correct Names](https://glrs.moi.gov.tw/LawContent.aspx?id=FL002349).
 
 ## Image Sources

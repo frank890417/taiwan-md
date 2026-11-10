@@ -97,6 +97,7 @@ Market names (菜市場名) are not shameful — they are the evidence that we h
 
 ## Further Reading
 
+- [Taiwanese Names (feature)](/en/names/) — surnames, generations, the four official spellings and Indigenous names in charts, with a name romanization tool.
 - [Ministry of Interior National Name Statistics Analysis (2023 latest edition)](https://www.ris.gov.tw) — Taiwan's most authoritative official name database.
 - ["Cheng-En Takes the Crown, Yi-Jun Fades: The Linguistics of Market Names" (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — In-depth analysis of the cultural meanings behind naming character choices across different eras.
 - [Salmon Chaos: A Study of Taiwan's Name-Change Phenomenon (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Documents the 2021 name-change wave that shook the world.

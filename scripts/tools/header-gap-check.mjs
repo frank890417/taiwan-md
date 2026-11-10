@@ -36,6 +36,7 @@ const OVERLAP_MAX = 2;
 const DEFAULT_ROUTES = [
   '/data/',
   '/budget/',
+  '/names/',
   '/companies/',
   '/opendata/',
   '/about/',

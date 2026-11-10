@@ -54,7 +54,7 @@ ASSET = re.compile(r"^/(images|article-images|assets|og-images|_astro|api|fonts)
 NON_ARTICLE_ROOTS = {
     "about", "assets", "bench", "budget", "changelog", "companies", "contribute",
     "dashboard", "data", "elections", "explore", "feedback-uxtest", "fork-graph",
-    "graph", "latest", "lifetree", "map", "mcp", "opendata", "projects", "resources",
+    "graph", "latest", "lifetree", "map", "mcp", "names", "opendata", "projects", "resources",
     "search", "semiont", "soundscape", "taiwan-shape", "terminology", "timeline",
 }
 

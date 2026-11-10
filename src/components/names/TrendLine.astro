@@ -1,0 +1,205 @@
+---
+/**
+ * TrendLine — 單一序列的年度折線（/names 專題用）。y 軸從 0 起，起訖兩點直接標值。
+ * 不用 budget/LineChart 的原因：那個元件的「來源／資料表／年度」寫死中英兩語，
+ * 這裡三語都是第一等公民，文字一律由呼叫端給。樣式沿用 budget.css 的 bg-* class。
+ */
+import {
+  scaleLinear,
+  niceTicks,
+  linePath,
+  CHART_WIDTHS,
+} from '../../utils/budgetViz';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  /** [年, 值]；partial 標記最後一點是不完整年度 */
+  points: [number, number][];
+  partialLast?: boolean;
+  unit?: string;
+  yMax?: number;
+  annot?: string;
+  source?: string;
+  sourceLabel: string;
+  tableLabel: string;
+  cols: [string, string];
+  id?: string;
+  height?: number;
+}
+const {
+  title,
+  subtitle,
+  points,
+  partialLast = false,
+  unit = '%',
+  yMax,
+  annot,
+  source,
+  sourceLabel,
+  tableLabel,
+  cols,
+  id,
+  height = 300,
+} = Astro.props;
+
+const uid = id || 'tl-chart';
+const ys = points.map((p) => p[1]);
+const ticks = niceTicks(yMax ?? Math.max(...ys), 4);
+const top = ticks[ticks.length - 1];
+const y0 = points[0][0];
+const y1 = points[points.length - 1][0];
+const fmt = (v: number) => `${v % 1 === 0 ? v.toFixed(1) : v}${unit}`;
+
+function layout(W: number, narrow: boolean) {
+  const M = { l: 40, r: narrow ? 52 : 64, t: 26, b: 30 };
+  const H = narrow ? height - 40 : height;
+  const x = scaleLinear(y0, y1, M.l, W - M.r);
+  const y = scaleLinear(0, top, H - M.b, M.t);
+  const pts = points.map(([yr, v]) => ({ x: x(yr), y: y(v) }));
+  const xt = points
+    .map((p) => p[0])
+    .filter((yr) => (narrow ? (yr - y0) % 4 === 0 : (yr - y0) % 2 === 0));
+  return { W, H, M, x, y, pts, xt, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="trend" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => {
+      const solid = partialLast ? L.pts.slice(0, -1) : L.pts;
+      const last = L.pts[L.pts.length - 1];
+      const prev = L.pts[L.pts.length - 2];
+      const first = L.pts[0];
+      return (
+        <svg
+          viewBox={`0 0 ${L.W} ${L.H}`}
+          role="img"
+          aria-labelledby={`${uid}-h`}
+          class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+          preserveAspectRatio="xMidYMid meet"
+        >
+          <title>{title}</title>
+          {ticks.map((t) => (
+            <g class="bg-grid">
+              <line
+                x1={L.M.l}
+                x2={L.W - L.M.r}
+                y1={L.y(t)}
+                y2={L.y(t)}
+                class={t === 0 ? 'bg-zero' : ''}
+              />
+              <text
+                x={L.M.l - 6}
+                y={L.y(t) + 4}
+                text-anchor="end"
+                class="bg-tick"
+              >
+                {t}
+                {unit}
+              </text>
+            </g>
+          ))}
+          {L.xt.map((yr) => (
+            <text x={L.x(yr)} y={L.H - 10} text-anchor="middle" class="bg-tick">
+              {yr}
+            </text>
+          ))}
+          <path d={linePath(solid)} fill="none" class="np-trend-line" />
+          {partialLast && (
+            <line
+              x1={prev.x}
+              y1={prev.y}
+              x2={last.x}
+              y2={last.y}
+              class="np-trend-line is-dashed"
+            />
+          )}
+          {L.pts.map((p, i) => (
+            <circle
+              cx={p.x}
+              cy={p.y}
+              r={i === L.pts.length - 1 ? 4.5 : 2.6}
+              class="np-trend-dot"
+            >
+              <title>{`${points[i][0]}：${fmt(points[i][1])}`}</title>
+            </circle>
+          ))}
+          <text x={first.x} y={first.y - 10} text-anchor="start" class="bg-val">
+            {fmt(points[0][1])}
+          </text>
+          <text x={last.x + 8} y={last.y + 4} class="bg-val np-trend-end">
+            {fmt(points[points.length - 1][1])}
+          </text>
+          {annot && !L.narrow && (
+            <text
+              x={last.x - 8}
+              y={last.y - 12}
+              text-anchor="end"
+              class="bg-tick"
+            >
+              {annot}
+            </text>
+          )}
+        </svg>
+      );
+    })
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {sourceLabel}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{tableLabel}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{cols[0]}</th>
+            <th class="num">{cols[1]}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            points.map(([yr, v], i) => (
+              <tr>
+                <td>
+                  {yr}
+                  {partialLast && i === points.length - 1 ? '*' : ''}
+                </td>
+                <td class="num">{fmt(v)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style is:global>
+  .names-page .np-trend-line {
+    stroke: var(--bg-down);
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .names-page .np-trend-line.is-dashed {
+    stroke-dasharray: 5 4;
+  }
+  .names-page .np-trend-dot {
+    fill: var(--bg-down);
+    stroke: var(--bg-surface);
+    stroke-width: 1.5;
+  }
+  .names-page .np-trend-end {
+    font-weight: 800;
+  }
+</style>
