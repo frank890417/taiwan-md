@@ -8,10 +8,11 @@ export const main = {
     'income.hero.eyebrow': 'Topic · Pay, tax and retirement',
     'income.hero.title': 'Where a Taiwanese paycheck goes',
     'income.hero.subtitle':
-      'Half of all employees in Taiwan earned less than {median} in {year}. This page follows that money: what gets deducted, what the employer adds, how income tax is worked out, and what comes back at retirement.',
-    'income.hero.verse': 'One payslip, three ledgers.',
+      "Half of the employees in Taiwan's industry and service sectors earned less than {median} in {year}. This page follows that money: what gets deducted, what the employer adds, how income tax is worked out, and what comes back at retirement.",
+    'income.hero.verse':
+      'What is deducted each month, what is paid each May, and what comes back after 65 all start from the same payslip.',
     'income.hero.stat.median':
-      'Median annual pay of all employees, {year} (pre-tax, bonuses included)',
+      'Median annual pay of industry and service employees, {year} (pre-tax, bonuses included)',
     'income.hero.stat.taxfree':
       'Salary below which a single filer owes no income tax, tax year 2026 (exemption, standard deduction and salary deduction only)',
     'income.hero.stat.minwage': 'Monthly minimum wage from {date}',
@@ -19,7 +20,7 @@ export const main = {
       'Share of the population aged 65 or over, {year} projection',
     'income.hero.asof.k': 'Figures as of',
     'income.hero.asof':
-      '{date}. Every rate, bracket and formula on this page states the year it applies to and links to the official source.',
+      '{date}. Every rate, bracket and formula on this page states the year it applies to. Figures come from official sources, and anything quoted from a news report or a study is labelled as such.',
     'income.hero.jump': 'Jump to a section',
     'income.hero.brief': 'The three-minute version',
     'income.subnav.label': 'Sections of this page',
@@ -34,10 +35,10 @@ export const main = {
       'Nominal pay against prices and GDP, and five explanations for slow wage growth.',
     'income.toc.s3.label': 'Minimum wage',
     'income.toc.s3.take':
-      'A ten-year freeze, yearly rises since 2017, and the 2024 Minimum Wage Act.',
+      'A freeze of almost ten years, yearly rises since 2017, and the 2024 Minimum Wage Act.',
     'income.toc.s4.label': 'Income tax',
     'income.toc.s4.take':
-      'Deduct first, then multiply: exemptions, brackets, who pays, and a tax calculator.',
+      'Exemptions, deductions, five brackets, who pays, and a tax calculator.',
     'income.toc.s5.label': 'Pension layers',
     'income.toc.s5.take':
       'Labor Insurance, Labor Pension, National Pension and the public-sector schemes in one table.',
@@ -52,7 +53,7 @@ export const main = {
       'An ageing population and the dates each year when the numbers move.',
     'income.about.h2': 'How should this page be read?',
     'income.about.p1':
-      'Figures are current as of {date}. Each number comes from an official source: the Ministry of Finance, the Ministry of Labor, the Bureau of Labor Insurance, the Directorate-General of Budget, Accounting and Statistics, or the National Development Council. Where we could not find an official figure, the page says “no data” rather than estimating.',
+      'Figures are current as of {date}. Rates, formulas and statistics come from official sources, chiefly the Ministry of Finance, the Ministry of Labor, the Bureau of Labor Insurance, the Bureau of Labor Funds, the Directorate-General of Budget, Accounting and Statistics, the National Development Council and the Laws and Regulations Database. The explanations for slow wage growth and the positions of each side are drawn from studies and news reports, each with its source. Where nothing could be found, the page says "no data" rather than estimating.',
     'income.about.p2':
       'Series marked “calculated by Taiwan.md” are derived from official data, and the method is written beside the chart. The calculators give estimates only. They are not tax or financial advice, and the amount that counts is the one assessed by the tax office or the Bureau of Labor Insurance.',
     'income.about.p3':
@@ -69,17 +70,18 @@ export const main = {
     'income.hero.eyebrow': '專題 · 薪資、稅與退休',
     'income.hero.title': '一份薪水的去向',
     'income.hero.subtitle':
-      '{year} 年，台灣有一半的受僱者全年領不到 {median}。這一頁跟著這筆錢走一遍：發薪前被扣了什麼、雇主另外付了什麼、每年五月的稅怎麼算、退休時能領回多少。',
-    'income.hero.verse': '一張薪資單，三本帳。',
+      '{year} 年，台灣工業及服務業的受僱員工有一半全年總薪資低於 {median}。這一頁跟著這筆錢走一遍：發薪前被扣了什麼、雇主另外付了什麼、每年五月的稅怎麼算、退休時能領回多少。',
+    'income.hero.verse':
+      '每個月被扣的、每年五月繳的、65 歲以後領的，都從同一張薪資單算起。',
     'income.hero.stat.median':
-      '{year} 年全體受僱員工全年總薪資中位數（稅前，含年終與獎金）',
+      '{year} 年工業及服務業受僱員工全年總薪資中位數（稅前，含年終與獎金）',
     'income.hero.stat.taxfree':
       '115 年度單身、無扶養的免稅門檻（只計免稅額、標準扣除額與薪資所得特別扣除額）',
     'income.hero.stat.minwage': '{date} 起每月最低工資',
     'income.hero.stat.aged': '{year} 年 65 歲以上人口占比（國發會推估）',
     'income.hero.asof.k': '資料截止',
     'income.hero.asof':
-      '{date}。這一頁的稅率、級距、費率與公式都標了適用年度，每個數字都連得回官方原始網頁。',
+      '{date}。這一頁的稅率、級距、費率與公式都標了適用年度。數字取自官方來源，引用媒體報導或研究的地方會標明。',
     'income.hero.jump': '跳到各區',
     'income.hero.brief': '三分鐘版',
     'income.subnav.label': '本頁各區',
@@ -92,9 +94,9 @@ export const main = {
     'income.toc.s2.take': '名目薪資對上物價與 GDP，以及低薪成因的五種解釋。',
     'income.toc.s3.label': '最低工資',
     'income.toc.s3.take':
-      '十年沒調、2017 年起連年調、2024 年《最低工資法》上路。',
+      '將近十年沒調、2017 年起連年調、2024 年《最低工資法》上路。',
     'income.toc.s4.label': '綜所稅',
-    'income.toc.s4.take': '先扣再乘：免稅額、級距、誰在繳稅，附所得稅試算。',
+    'income.toc.s4.take': '免稅額、扣除額、五級稅率、誰在繳稅，附所得稅試算。',
     'income.toc.s5.label': '退休金有幾層',
     'income.toc.s5.take': '勞保、勞退、國民年金與軍公教退撫，一張表對照。',
     'income.toc.s6.label': '勞保財務',
@@ -105,7 +107,7 @@ export const main = {
     'income.toc.s8.take': '人口變老，以及每年數字會變的那幾天。',
     'income.about.h2': '這一頁怎麼讀？',
     'income.about.p1':
-      '資料截至 {date}。每個數字都取自官方來源：財政部、勞動部、勞工保險局、行政院主計總處、國家發展委員會。查不到官方數字的地方，頁面寫「沒有資料」，不用估的。',
+      '資料截至 {date}。制度參數與統計數字取自官方來源，主要是財政部、勞動部、勞工保險局、勞動基金運用局、行政院主計總處、國家發展委員會與全國法規資料庫。低薪成因的幾種解釋與各方立場引自研究報告與媒體報導，各自標了出處。查不到的地方，頁面寫「沒有資料」，不用估的。',
     'income.about.p2':
       '標示「本站計算」的序列是用官方資料算出來的，算法寫在圖旁邊。試算工具的結果僅供參考，不構成稅務或財務建議，實際金額以國稅局與勞工保險局核定為準。',
     'income.about.p3':

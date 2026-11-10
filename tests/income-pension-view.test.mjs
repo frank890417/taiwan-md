@@ -292,9 +292,10 @@ test('保證收益率情境：月退比預設報酬率低，且比率副行有�
   assert.ok(n(v.out.lpMonthlyLow) > 0);
   assert.ok(n(v.out.lpMonthlyLow) < n(v.out.lpMonthly));
   assert.match(v.out.ratioLow, /約占你目前月薪的/);
-  assert.match(v.out.ratioRet, /約占你目前月薪的/);
+  assert.equal(v.out.ratioRet, undefined);
   assert.match(v.out.ratioNote, /不是官方所得替代率/);
   assert.match(v.out.ratioNote, /名目金額/);
+  assert.match(v.out.ratioNote, /粗略對照/);
   assert.ok(n(v.out.totalLow) <= n(v.out.totalRet));
   assert.match(v.out.lowLabel, /1\.7108%/);
   assert.match(v.out.retLabel, /7\.64%/);
@@ -314,4 +315,35 @@ test('x 軸刻度隔一個標一個', () => {
     ...v.svg.matchAll(/text-anchor="middle">(\d{2})<\/text>/g),
   ].map((m) => Number(m[1]));
   assert.deepEqual(ticks, [60, 62, 64, 66, 68, 70]);
+});
+
+test('專戶累積曲線：兩條線、終點標金額、aria 說出兩個終點', () => {
+  const v = buildPensionView(DEFAULT, P, msgs('zh-TW'), 'zh-TW');
+  assertClean(v);
+  assert.equal(v.show.balChart, true);
+  assert.match(v.balSvg, /^<svg[^>]*role="img"/);
+  assert.match(v.balSvg, /class="inc-line"/);
+  assert.match(v.balSvg, /class="pen-line-ret"/);
+  assert.equal((v.balSvg.match(/class="pen-sel-label"/g) ?? []).length, 2);
+  assert.doesNotMatch(v.balSvg, BAD);
+  assert.match(v.out.balAria, /名目金額/);
+  const ends = v.out.balAria.match(/終點 ([\d,]+) 元/g) ?? [];
+  assert.equal(ends.length, 2);
+  assert.equal(
+    buildPensionView({ ...DEFAULT, yearsLeft: 5 }, P, msgs('zh-TW'), 'zh-TW')
+      .show.balChart,
+    false,
+  );
+  assert.equal(
+    buildPensionView(
+      { ...DEFAULT, yearsLeft: 0, paidYears: 20 },
+      P,
+      msgs('en'),
+      'en',
+    ).show.balChart,
+    false,
+  );
+  const en = buildPensionView({ ...DEFAULT, ret: 0 }, P, msgs('en'), 'en');
+  assertClean(en);
+  assert.match(en.balSvg, /\dM<\/text>/);
 });

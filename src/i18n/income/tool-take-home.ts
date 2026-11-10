@@ -13,7 +13,7 @@ export const toolTakeHome = {
     'income.takehome.field.nhi': 'National Health Insurance premium (optional)',
     'income.takehome.field.nhi.hint':
       'Your own monthly NHI premium in NT$. Leave blank to leave it out.',
-    'income.takehome.nhi.link': 'Open the health topic',
+    'income.takehome.nhi.link': 'Open the NHI premium calculator',
     'income.takehome.nhi.note':
       'This tool does not calculate NHI premiums. Work yours out with the premium calculator in the health topic, then enter it here.',
     'income.takehome.more.summary': 'Tax estimate and other settings',
@@ -28,6 +28,8 @@ export const toolTakeHome = {
       'Rates differ by industry and the employer pays all of it. The default is the all-industry average.',
 
     'income.takehome.result.take.k': 'Monthly take-home pay',
+    'income.takehome.result.take.k.noNhi':
+      'After Labor Insurance, voluntary pension and income tax (before NHI premium)',
     'income.takehome.result.take.sub': '{pct} of your monthly salary',
     'income.takehome.group.worker': 'Deducted from your pay',
     'income.takehome.row.lab': 'Labor Insurance (your share)',
@@ -39,7 +41,8 @@ export const toolTakeHome = {
     'income.takehome.row.take': 'Monthly take-home pay',
     'income.takehome.unset.nhi': 'Not entered',
     'income.takehome.unset.tax': 'Not estimated',
-    'income.takehome.noNhi': 'National Health Insurance is not included.',
+    'income.takehome.noNhi':
+      'The National Health Insurance premium is not deducted yet.',
 
     'income.takehome.group.employer': 'Paid by your employer on top',
     'income.takehome.row.eLab': 'Labor Insurance',
@@ -58,11 +61,11 @@ export const toolTakeHome = {
     'income.takehome.chart.bar1.title':
       'Take-home pay is {pct} of your monthly salary',
     'income.takehome.chart.bar2.title':
-      'Your employer pays {pct} of your monthly salary on top of it',
+      'Your employer pays {pct} of your monthly salary on top of it (before the employer share of NHI)',
     'income.takehome.chart.bar1.aria':
       'Where your monthly salary goes: take-home {take}, Labor and Employment Insurance {ins}, voluntary pension {pen}, health insurance {nhi}, income tax {tax}.',
     'income.takehome.chart.bar2.aria':
-      'What your employer pays in total: your salary {wage}, employer Labor and Employment Insurance {ins}, occupational accident insurance {occ}, pension contribution {pen}.',
+      'What your employer pays in total: your salary {wage}, employer Labor and Employment Insurance {ins}, occupational accident insurance {occ}, pension contribution {pen}. The employer share of National Health Insurance is not included.',
     'income.takehome.legend.w-take': 'Take-home',
     'income.takehome.legend.w-ins': 'Labor and Employment Insurance',
     'income.takehome.legend.w-pen': 'Voluntary pension',
@@ -81,11 +84,11 @@ export const toolTakeHome = {
     'income.takehome.page.metaTitle':
       'Take-home pay calculator 2026: Taiwan insurance and tax',
     'income.takehome.page.metaDescription':
-      'Enter a monthly salary and see take-home pay after Labor Insurance, pension and tax, plus what the employer pays on top. NT$45,000 comes to NT$43,257.',
+      'Enter a monthly salary to see take-home pay after Labor Insurance, pension and tax. NT$45,000 with a 1.5-month bonus gives NT$43,257, before NHI.',
     'income.takehome.page.intro':
       'Enter your monthly salary and see what is deducted for Labor Insurance, Employment Insurance, voluntary pension and income tax, and what your employer pays on top.',
     'income.takehome.page.reading':
-      "The big number is what lands in your account each month, using 2026 rates. The first bar splits your salary into take-home and deductions. The second bar shows your employer's full cost, which is your salary plus the insurance and pension the employer pays for you. Health insurance is left out unless you enter it.",
+      "The big number is what lands in your account each month using 2026 rates, before the National Health Insurance premium unless you enter it. The first bar splits your salary into take-home and deductions. The second bar shows your employer's full cost, which is your salary plus the insurance and pension the employer pays for you. Health insurance is left out unless you enter it.",
     'income.takehome.page.method':
       'Insured salary: your monthly salary is matched to the 2026 Labor Insurance bracket table (11 brackets, NT$29,500 to NT$45,800), and to a separate 62-bracket pension table.\nLabor Insurance is the insured salary times 11.5%, and Employment Insurance is the insured salary times 1%. Workers pay 20%, employers 70% and the government 10%. Each item is rounded to the nearest NT$1.\nOccupational accident insurance uses the all-industry average rate of 0.21% by default, on its own bracket table up to NT$72,800, and the employer pays all of it.\nThe employer pension contribution is 6% of the contribution wage. Your voluntary contribution is the rate you choose, up to 6%, on the same wage.\nIncome tax: annual salary is monthly salary times (12 plus bonus months), less your voluntary pension for the year. The tax is worked out for a single filer with the standard deduction, the salary special deduction and the exemptions for the dependents you enter, using tax year 2026 (ROC year 115) amounts. The estimated annual tax is divided by 12.\nThe 2027 insurance rate has been announced but the 2027 bracket tables have not, so this tool stays on 2026.',
     'income.takehome.page.sources':
@@ -113,7 +116,7 @@ export const toolTakeHome = {
     'income.takehome.page.faq1.q':
       'How is my Labor Insurance premium worked out?',
     'income.takehome.page.faq1.a':
-      'In 2026 the ordinary accident rate is 11.5% for Labor Insurance, plus 1% for Employment Insurance. Workers pay 20% of each. The rate applies to your insured salary bracket, not your exact pay. At the top bracket of NT$45,800 you pay NT$1,053 and NT$92 a month.',
+      'In 2026 the ordinary-risk rate is 11.5% for Labor Insurance, plus 1% for Employment Insurance. Workers pay 20% of each. The rate applies to your insured salary bracket, not your exact pay. At the top bracket of NT$45,800 you pay NT$1,053 and NT$92 a month.',
     'income.takehome.page.faq2.q':
       'Does my Labor Insurance premium keep rising above NT$45,800?',
     'income.takehome.page.faq2.a':
@@ -125,7 +128,7 @@ export const toolTakeHome = {
     'income.takehome.page.faq4.q':
       'If I put in a voluntary pension contribution, do I pay less tax?',
     'income.takehome.page.faq4.a':
-      'Yes. Your take-home pay falls by the amount you contribute, but up to 6% of your wage is not counted as taxable salary income for that year. For NT$45,000 a month with 1.5 bonus months, contributing 6% lowers take-home pay from NT$43,257 to NT$40,646 and the estimated annual tax from NT$7,175 to NT$5,526 (tax year 2026).',
+      'Yes. Your take-home pay falls by the amount you contribute, but up to 6% of your wage is not counted as taxable salary income for that year. For NT$45,000 a month with 1.5 bonus months, contributing 6% lowers monthly take-home pay (before NHI) from NT$43,257 to NT$40,646 and the estimated annual tax from NT$7,175 to NT$5,526 (tax year 2026).',
     'income.takehome.page.faq5.q':
       'Why is National Health Insurance not included?',
     'income.takehome.page.faq5.a':
@@ -147,7 +150,7 @@ export const toolTakeHome = {
     'income.takehome.field.nhi': '健保自付額（選填）',
     'income.takehome.field.nhi.hint':
       '你自己每月要繳的健保費，單位是元。不填就不計入。',
-    'income.takehome.nhi.link': '前往醫療專題',
+    'income.takehome.nhi.link': '前往健保費試算',
     'income.takehome.nhi.note':
       '健保費請用醫療專題的健保費試算算出後填入，本工具不計算健保費。',
     'income.takehome.more.summary': '所得稅估算與其他設定',
@@ -162,6 +165,8 @@ export const toolTakeHome = {
       '各行業費率不同，由雇主全額負擔。預設是各行業平均。',
 
     'income.takehome.result.take.k': '每月實領',
+    'income.takehome.result.take.k.noNhi':
+      '扣勞保、勞退自提與所得稅後（未含健保費）',
     'income.takehome.result.take.sub': '占月薪的 {pct}',
     'income.takehome.group.worker': '你這邊被扣的',
     'income.takehome.row.lab': '勞保自付',
@@ -173,7 +178,7 @@ export const toolTakeHome = {
     'income.takehome.row.take': '每月實領',
     'income.takehome.unset.nhi': '未填',
     'income.takehome.unset.tax': '未估算',
-    'income.takehome.noNhi': '未含健保費。',
+    'income.takehome.noNhi': '健保費還沒扣。',
 
     'income.takehome.group.employer': '雇主另外付的',
     'income.takehome.row.eLab': '勞保',
@@ -190,11 +195,12 @@ export const toolTakeHome = {
     'income.takehome.row.annualTake': '全年實領',
 
     'income.takehome.chart.bar1.title': '實領占月薪的 {pct}',
-    'income.takehome.chart.bar2.title': '雇主另外多付的，相當於月薪的 {pct}',
+    'income.takehome.chart.bar2.title':
+      '雇主另外多付的，相當於月薪的 {pct}（未含雇主負擔的健保費）',
     'income.takehome.chart.bar1.aria':
       '你的月薪去哪裡：實領 {take}、勞保與就保 {ins}、勞退自提 {pen}、健保 {nhi}、所得稅 {tax}。',
     'income.takehome.chart.bar2.aria':
-      '雇主為你付出的總成本：月薪 {wage}、雇主勞保與就保 {ins}、職災保險 {occ}、勞退提繳 {pen}。',
+      '雇主為你付出的總成本：月薪 {wage}、雇主勞保與就保 {ins}、職災保險 {occ}、勞退提繳 {pen}。未含雇主負擔的健保費。',
     'income.takehome.legend.w-take': '實領',
     'income.takehome.legend.w-ins': '勞保與就保',
     'income.takehome.legend.w-pen': '勞退自提',
@@ -213,11 +219,11 @@ export const toolTakeHome = {
     'income.takehome.page.metaTitle':
       '實領薪資試算 2026：勞保、勞退、所得稅後每月拿多少',
     'income.takehome.page.metaDescription':
-      '輸入月薪，算出扣掉勞保、就保、勞退自提與所得稅後的每月實領，也列出雇主另付的成本。月薪 4.5 萬、年終 1.5 個月，每月實領約 43,257 元。',
+      '輸入月薪，算出扣掉勞保、就保、勞退自提與所得稅後的每月實領，也列出雇主另付的成本。月薪 4.5 萬、年終 1.5 個月，實領約 43,257 元，未含健保費。',
     'income.takehome.page.intro':
       '輸入月薪，看勞保、就保、勞退自提和所得稅各扣多少，每月實領多少，還有雇主另外替你付了多少。',
     'income.takehome.page.reading':
-      '大數字是 2026 年費率下，每月實際入帳的金額。第一條圖把你的月薪分成實領和各項扣款。第二條圖是雇主的總成本，也就是月薪加上雇主替你付的保險與勞退。健保費沒填的話不會算進去。',
+      '大數字是 2026 年費率下，每月實際入帳的金額，健保費沒填的話還沒扣。第一條圖把你的月薪分成實領和各項扣款。第二條圖是雇主的總成本，也就是月薪加上雇主替你付的保險與勞退。',
     'income.takehome.page.method':
       '投保薪資：月薪會對應到 2026 年勞保投保薪資分級表（共 11 級，29,500 元到 45,800 元），勞退另有一張 62 級的月提繳分級表。\n勞保費是投保薪資乘 11.5%，就保費是投保薪資乘 1%，勞工負擔 20%、雇主 70%、政府 10%，每一項各自四捨五入到元。\n職災保險預設用各行業平均費率 0.21%，另有自己的分級表，最高 72,800 元，全部由雇主負擔。\n雇主勞退提繳是月提繳工資的 6%，你的自提是你選的比率，最高 6%，用同一個工資計算。\n所得稅：全年薪資收入是月薪乘（12 加獎金月數），再扣掉全年勞退自提。稅額以單身、標準扣除額、薪資所得特別扣除額，加上你填的一般扶養人數的免稅額計算，採用 115 年度（2026 年所得）的已公告金額。估算的全年稅額除以 12 就是月均攤。\n2027 年的保險費率已經公告，但 2027 年的分級表還沒公告，所以本工具仍以 2026 年計算。',
     'income.takehome.page.sources':
@@ -250,7 +256,7 @@ export const toolTakeHome = {
       '2026 年雇主要負擔勞保與就保的 70%、全部的職災保險（各行業平均費率 0.21%），還有至少 6% 的工資提繳到你的勞退帳戶。雇主也要負擔一部分健保費，本工具沒有算進去。',
     'income.takehome.page.faq4.q': '勞退自提會讓實領變少，但稅也變少嗎？',
     'income.takehome.page.faq4.a':
-      '會。你的實領會減少自提的金額，但工資 6% 以內的自提，當年度不計入薪資所得課稅。以月薪 45,000 元、年終 1.5 個月為例，自提 6% 後，每月實領從 43,257 元降到 40,646 元，估算的全年所得稅從 7,175 元降到 5,526 元（115 年度稅制）。',
+      '會。你的實領會減少自提的金額，但工資 6% 以內的自提，當年度不計入薪資所得課稅。以月薪 45,000 元、年終 1.5 個月為例，自提 6% 後，每月實領（未含健保費）從 43,257 元降到 40,646 元，估算的全年所得稅從 7,175 元降到 5,526 元（115 年度稅制）。',
     'income.takehome.page.faq5.q': '為什麼這裡沒有算健保費？',
     'income.takehome.page.faq5.a':
       '健保費歸醫療專題處理。你可以先用那邊的健保費試算算出金額，再填進旁邊的欄位，這裡就會從實領裡扣掉。沒填的話，結果會註明未含健保費。',

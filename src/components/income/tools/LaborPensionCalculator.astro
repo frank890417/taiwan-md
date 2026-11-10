@@ -367,9 +367,6 @@ const prefix = variant === 'inline' ? 'pen.' : '';
           <span class="inc-headline-v" data-out="totalRet"
             >{view.out.totalRet}</span
           >
-          <span class="inc-headline-sub" data-out="ratioRet"
-            >{view.out.ratioRet}</span
-          >
         </div>
       </div>
       <span class="inc-headline-sub">{tag}</span>
@@ -463,6 +460,29 @@ const prefix = variant === 'inline' ? 'pen.' : '';
             </tr>
           </tbody>
         </table>
+        <figure
+          class="pen-chart"
+          data-show="balChart"
+          hidden={!view.show.balChart}
+        >
+          <figcaption class="pen-sub">
+            {t('income.pension.result.balChartTitle')}
+          </figcaption>
+          <div data-svg="bal" set:html={view.balSvg} />
+          <ul class="inc-legend-list">
+            <li>
+              <span class="inc-swatch inc-c0"></span><span data-out="lowLabel"
+                >{view.out.lowLabel}</span
+              >
+            </li>
+            <li>
+              <span class="inc-swatch inc-c1"></span><span data-out="retLabel"
+                >{view.out.retLabel}</span
+              >
+            </li>
+          </ul>
+          <p class="inc-note">{tag}</p>
+        </figure>
       </div>
       <p
         class="inc-warn"
@@ -549,6 +569,15 @@ const prefix = variant === 'inline' ? 'pen.' : '';
   .inc-tool.inc-pension :global(.pen-pt) {
     fill: var(--inc-cat-0);
   }
+  .inc-tool.inc-pension :global(.pen-line-ret) {
+    fill: none;
+    stroke: var(--inc-cat-1);
+    stroke-width: 2.25;
+    stroke-linejoin: round;
+  }
+  .inc-tool.inc-pension :global(.pen-pt-ret) {
+    fill: var(--inc-cat-1);
+  }
   .inc-tool.inc-pension :global(.pen-stat) {
     stroke: var(--color-ink-soft);
     stroke-width: 1;
@@ -590,6 +619,9 @@ const prefix = variant === 'inline' ? 'pen.' : '';
       root
         .querySelectorAll<HTMLElement>('[data-svg="curve"]')
         .forEach((el) => (el.innerHTML = v.svg));
+      root
+        .querySelectorAll<HTMLElement>('[data-svg="bal"]')
+        .forEach((el) => (el.innerHTML = v.balSvg));
     });
   }
 

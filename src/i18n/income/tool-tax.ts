@@ -1,7 +1,7 @@
 /** 所得稅試算：文案（zh-TW／en）。事實來源：reports/research/2026-11/income-topic-01-income-tax.md */
 export const toolTax = {
   en: {
-    'income.tax.title': 'Income tax calculator (tax year 2026, ROC year 115)',
+    'income.tax.title': 'Income tax calculator (tax year 2026, filed May 2027)',
     'income.tax.desc':
       'Enter salary, dependents and deductions to estimate your individual income tax, and switch to tax year 2025 (ROC year 114).',
 
@@ -22,7 +22,7 @@ export const toolTax = {
     'income.tax.field.elderly70': 'Dependent parents or grandparents aged 70+',
     'income.tax.field.minorChildren': 'Minor children',
     'income.tax.field.minorChildren.hint':
-      'The exemption is 50% higher from year 115 (law published 2026-09-11). Year 114 has no increase.',
+      'The exemption is 50% higher from tax year 2026 (law published 2026-09-11). Tax year 2025 has no increase.',
     'income.tax.field.preschool': 'Of those, aged 6 or under',
     'income.tax.field.preschool.hint':
       'Preschool special deduction: the first child and each further child have different amounts.',
@@ -80,7 +80,7 @@ export const toolTax = {
     'income.tax.yearNote.115':
       'Tax year 2026 (ROC year 115), filed May 2027. Amounts from the Ministry of Finance notice of 2025-11-27, plus the 2026-09-11 amendment for minor children.',
     'income.tax.yearNote.114':
-      'Tax year 2025 (ROC year 114), filed May 2026. Amounts from the Ministry of Finance notice of 2024-11-28 (unchanged from year 113).',
+      'Tax year 2025 (ROC year 114), filed May 2026. Amounts from the Ministry of Finance notice of 2024-11-28 (unchanged from tax year 2024).',
 
     'income.tax.method.joint': 'combined filing of both incomes',
     'income.tax.method.selfSalarySeparate': 'your salary taxed separately',
@@ -116,7 +116,7 @@ export const toolTax = {
       'The cheapest method taxes part of the income separately, so the chart does not mark one net income. The outlined cell is the highest bracket any part reaches.',
 
     'income.tax.w.basic':
-      'The Ministry of Finance announces the basic living expense per person for year 115 by the end of December and had not by 2026-11-10, so the difference is left out for now. A household with many members and few deductions may owe less once it is announced.',
+      'The Ministry of Finance announces the basic living expense per person for tax year 2026 by the end of December and had not by 2026-11-10, so the difference is left out for now. A household with many members and few deductions may owe less once it is announced.',
     'income.tax.w.rate20':
       'Long-term care and rent special deductions are not allowed here, because the tax rate after deducting them is 20% or higher (Income Tax Act Article 17). They are already left out.',
     'income.tax.w.div28':
@@ -130,7 +130,7 @@ export const toolTax = {
       'Source: Ministry of Finance notices for tax years 2025 and 2026 (ROC years 114 and 115) and Income Tax Act Articles 15 and 17, as of 2026-11-10.',
 
     'income.tax.page.metaTitle':
-      'Income Tax Calculator Taiwan, Tax Year 2026 (ROC 115)',
+      'Taiwan Income Tax Calculator, Tax Year 2026 (Filed May 2027)',
     'income.tax.page.metaDescription':
       'Estimate Taiwan individual income tax for tax year 2026 (filed May 2027) with the five rates. A single filer earning NT$600,000 owes NT$6,800.',
     'income.tax.page.intro':
@@ -138,19 +138,19 @@ export const toolTax = {
     'income.tax.page.reading':
       'The big number is the tax payable after the dividend credit and before tax already withheld. The balance below it is what you still owe or get back. The effective rate is tax divided by gross income and is usually well below the top bracket rate, because exemptions and deductions come off first and a higher rate only applies to the slice above each bracket limit. The bracket chart shows where your net income sits, and the figures under each block show the tax collected in that bracket.',
     'income.tax.page.method':
-      "Order of calculation: gross income (salary after the salary special deduction, other income as entered), minus personal exemptions, minus the standard or itemized deduction (one of the two), minus special deductions, minus the basic living expense difference, gives net income. Tax is net income times the bracket rate minus the progressive difference, worked out to the dollar and rounded down.\nMarried filers: the tool works out five methods, which are combined filing, your salary taxed separately, your spouse's salary taxed separately, all your income taxed separately and all your spouse's income taxed separately, and shows the lowest.\nDividends: the tool works out both adding dividends to income (8.5% of dividends as a credit, capped at NT$80,000 per filing household) and the separate 28% flat rate (Income Tax Act Article 15), and shows the lower. With the 28% method, the long-term care and rent special deductions are not allowed.\nLong-term care and rent: if the rate after deducting these two is 20% or higher, they are not allowed. The tool leaves them out automatically.\nBasic living expense difference: the Ministry of Finance announces a basic living expense per person each year (NT$213,000 for year 114). Multiply it by the number of people covered. The part above your total exemptions, general deduction and six special deductions (savings and investment, disability, tuition, preschool, long-term care, rent) comes off your income again. The year 115 amount had not been announced by 2026-11-10, so it is left out for now.\nMinor children, year 115: the exemption is NT$151,500 each, worked out from the law published 2026-09-11 and the ministry's press release. The year 115 tax return form was not out yet.\nTuition: counted at NT$25,000 per college student. If the real tuition is lower, adjust by hand.\nNot covered: professional service income, property transaction income, retirement income, overseas income, the calculation of the basic tax itself, and separate filing by separated spouses or in the year of marriage.",
+      "Order of calculation: gross income (salary after the salary special deduction, other income as entered), minus personal exemptions, minus the standard or itemized deduction (one of the two), minus special deductions, minus the basic living expense difference, gives net income. Tax is net income times the bracket rate minus the progressive difference, worked out to the dollar and rounded down.\nMarried filers: the tool works out five methods, which are combined filing, your salary taxed separately, your spouse's salary taxed separately, all your income taxed separately and all your spouse's income taxed separately, and shows the lowest.\nDividends: the tool works out both adding dividends to income (8.5% of dividends as a credit, capped at NT$80,000 per filing household) and the separate 28% flat rate (Income Tax Act Article 15), and shows the lower. With the 28% method, the long-term care and rent special deductions are not allowed.\nLong-term care and rent: if the rate after deducting these two is 20% or higher, they are not allowed. The tool leaves them out automatically.\nBasic living expense difference: the Ministry of Finance announces a basic living expense per person each year (NT$213,000 for tax year 2025). Multiply it by the number of people covered. The part above your total exemptions, general deduction and six special deductions (savings and investment, disability, tuition, preschool, long-term care, rent) comes off your income again. The tax year 2026 amount had not been announced by 2026-11-10, so it is left out for now.\nMinor children, tax year 2026: the exemption is NT$151,500 each, worked out from the law published 2026-09-11 and the ministry's press release. The tax year 2026 return form was not out yet.\nTuition: counted at NT$25,000 per college student. If the real tuition is lower, adjust by hand.\nNot covered: professional service income, property transaction income, retirement income, overseas income, the calculation of the basic tax itself, and separate filing by separated spouses or in the year of marriage.",
     'income.tax.page.sources':
-      'Executive Yuan Gazette notices for ROC years 114 and 115 (the year 115 notice is Ministry of Finance document 11404664070, 2025-11-27), Ministry of Finance press releases (2025-09-23 and 2025-11-27), Department of Taxation press release of 2026-08-21 (minor children exemption), Income Tax Act Articles 15 and 17, Taxpayer Rights Protection Act enforcement rules Article 3, and the Taxation Portal saving manual. Data as of 2026-11-10.',
+      'Executive Yuan Gazette notices for ROC years 114 and 115 (the tax year 2026 notice is Ministry of Finance document 11404664070, 2025-11-27), Ministry of Finance press releases (2025-09-23 and 2025-11-27), Department of Taxation press release of 2026-08-21 (minor children exemption), Income Tax Act Articles 15 and 17, Taxpayer Rights Protection Act enforcement rules Article 3, and the Taxation Portal saving manual. Data as of 2026-11-10.',
     'income.tax.page.source1.label':
-      'Executive Yuan Gazette: year 115 amounts (2025-11-27)',
+      'Executive Yuan Gazette: tax year 2026 amounts (2025-11-27)',
     'income.tax.page.source1.url':
       'https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm',
     'income.tax.page.source2.label':
-      'Ministry of Finance: year 115 adjustments and tax-free salary levels (2025-11-27)',
+      'Ministry of Finance: tax year 2026 adjustments and tax-free salary levels (2025-11-27)',
     'income.tax.page.source2.url':
       'https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=34b463dc8f1b49f29d440d92a6fd5139',
     'income.tax.page.source3.label':
-      'Ministry of Finance: year 114 tax-free salary for a single renter (2025-09-23)',
+      'Ministry of Finance: tax year 2025 tax-free salary for a single renter (2025-09-23)',
     'income.tax.page.source3.url':
       'https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=ef27a333aeb6491782f526bff6e0d966',
     'income.tax.page.source4.label':
@@ -165,19 +165,23 @@ export const toolTax = {
       'Income Tax Act Article 17 (exemptions, deductions, long-term care and rent rules)',
     'income.tax.page.source6.url':
       'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17',
+    'income.tax.page.source7.label':
+      'Income Tax Act history: Presidential order of 2026-09-11 amending Articles 17 and 126',
+    'income.tax.page.source7.url':
+      'https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003',
 
     'income.tax.page.faq1.q':
       'How much salary can I earn before I owe income tax?',
     'income.tax.page.faq1.a':
-      'It depends on the household. The Ministry of Finance worked out cases for renters: for ROC year 114 (filed May 2026) a single worker owes nothing up to NT$626,000. For ROC year 115 (filed May 2027) the levels are NT$644,000 for a single renter, NT$1,108,000 for a two-earner renting couple and NT$1,685,000 for a renting family of four with two children aged 6 or under. Those three year 115 levels were published on 2025-11-27, before the September 2026 amendment that raised the minor child exemption by 50%, so they leave that increase out. Families with minor children should run the calculator above.',
+      'It depends on the household. The Ministry of Finance worked out cases for renters: for tax year 2025 (ROC 114, filed May 2026) a single worker owes nothing up to NT$626,000. For tax year 2026 (ROC 115, filed May 2027) the levels are NT$644,000 for a single renter, NT$1,108,000 for a two-earner renting couple and NT$1,685,000 for a renting family of four with two children aged 6 or under. Those three tax year 2026 levels were published on 2025-11-27, before the September 2026 amendment that raised the minor child exemption by 50%, so they leave that increase out. Families with minor children should run the calculator above.',
     'income.tax.page.faq2.q':
       'Which amounts go up for tax year 2026 (ROC year 115)?',
     'income.tax.page.faq2.a':
-      'On 2025-11-27 the Ministry of Finance announced increases because consumer prices rose 4.13% from year 113. The personal exemption goes from NT$97,000 to NT$101,000 and from NT$145,500 to NT$151,500 for people aged 70 or over. The standard deduction goes from NT$131,000 to NT$136,000 for a single filer and from NT$262,000 to NT$272,000 with a spouse. The salary and disability special deductions go from NT$218,000 to NT$227,000, and the bracket limits rise too. Year 114 was not adjusted. A separate amendment published 2026-09-11 raises the minor child exemption by 50% to NT$151,500 from year 115.',
+      'On 2025-11-27 the Ministry of Finance announced increases because consumer prices rose 4.13% from tax year 2024. The personal exemption goes from NT$97,000 to NT$101,000 and from NT$145,500 to NT$151,500 for people aged 70 or over. The standard deduction goes from NT$131,000 to NT$136,000 for a single filer and from NT$262,000 to NT$272,000 with a spouse. The salary and disability special deductions go from NT$218,000 to NT$227,000, and the bracket limits rise too. Tax year 2025 was not adjusted. A separate amendment published 2026-09-11 raises the minor child exemption by 50% to NT$151,500 from tax year 2026.',
     'income.tax.page.faq3.q':
       'Should I take the standard deduction or itemize?',
     'income.tax.page.faq3.a':
-      'You pick one of the two. For year 115 the standard deduction is NT$136,000 for a single filer and NT$272,000 with a spouse (NT$131,000 and NT$262,000 for year 114). Itemizing only pays if your qualifying items add up to more than that. One example in the Taxation Portal manual for year 114 is interest on a loan for your own home, capped at NT$300,000 per household. When you choose itemized here, enter the total yourself.',
+      'You pick one of the two. For tax year 2026 the standard deduction is NT$136,000 for a single filer and NT$272,000 with a spouse (NT$131,000 and NT$262,000 for tax year 2025). Itemizing only pays if your qualifying items add up to more than that. One example in the Taxation Portal manual for tax year 2025 is interest on a loan for your own home, capped at NT$300,000 per household. When you choose itemized here, enter the total yourself.',
     'income.tax.page.faq4.q': 'Do married couples have to file together?',
     'income.tax.page.faq4.a':
       "Under Article 15 of the Income Tax Act, when both spouses have income they must file one combined return, and only separated spouses may file on their own. In the year of marriage the couple can choose to file separately or together, according to the Taxation Portal. Within the combined return you can still have the salary or all of one spouse's income taxed separately, which gives five methods in all. This tool works out all five and shows the lowest.",
@@ -257,8 +261,8 @@ export const toolTax = {
     'income.tax.notAnnounced': '尚未公告，暫不計入',
     'income.tax.none': '–',
     'income.tax.unit.wan': '萬',
-    'income.tax.unit.k': 'K',
-    'income.tax.unit.m': 'M',
+    'income.tax.unit.k': '千',
+    'income.tax.unit.m': '百萬',
     'income.tax.yearNote.115':
       '115 年度（2026 年所得），2027 年 5 月申報。金額依財政部 2025-11-27 公告，加上 2026-09-11 公布的未成年子女免稅額修法。',
     'income.tax.yearNote.114':
@@ -343,6 +347,10 @@ export const toolTax = {
       '所得稅法第 17 條（免稅額、扣除額與長照房租排除規定）',
     'income.tax.page.source6.url':
       'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17',
+    'income.tax.page.source7.label':
+      '所得稅法沿革：2026-09-11 總統令修正公布第 17、126 條',
+    'income.tax.page.source7.url':
+      'https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003',
 
     'income.tax.page.faq1.q': '年薪多少以下不用繳所得稅？',
     'income.tax.page.faq1.a':

@@ -23,11 +23,11 @@ export const sectionsA = {
     'income.s0.kicker': 'Split before it lands',
     'income.s0.h2': 'How many ways is one paycheck split?',
     'income.s0.lede':
-      'Take the {wyear} average regular monthly wage of {wage} as an example. At {year} rates, Labor Insurance（勞保）takes {li} and Employment Insurance（就業保險）takes {ei} before the money arrives. National Health Insurance and income tax come on top. In the same month your employer pays another {er} on your behalf, an amount that usually does not appear on the payslip.',
+      'Take the {wyear} average regular monthly wage of {wage} as an example. At {year} rates, Labor Insurance (勞保) takes {li} and Employment Insurance (就業保險) takes {ei} before the money arrives. National Health Insurance and income tax come on top. In the same month your employer pays another {er} on your behalf, an amount that usually does not appear on the payslip.',
     'income.s0.p1':
-      'The Labor Insurance ordinary-risk premium rate is {liRate} and the Employment Insurance rate is {eiRate}. For both, the worker pays {w}, the employer {e} and the government {g}. Occupational accident insurance is paid entirely by the employer, at an all-industry average rate of {occ}. For the labor pension（勞退）, the employer must contribute at least {pen} of wages every month into an individual account in your name, and the account follows you when you change jobs.',
+      'The Labor Insurance ordinary-risk premium rate is {liRate} and the Employment Insurance rate is {eiRate}. For both, the worker pays {w}, the employer {e} and the government {g}. Occupational accident insurance is paid entirely by the employer, at an all-industry average rate of {occ}. For the Labor Pension (勞退), the employer must contribute at least {pen} of wages every month into an individual account in your name, and the account follows you when you change jobs.',
     'income.s0.p2':
-      'Premiums are charged on an insured salary grade, not on your exact pay. The top Labor Insurance grade is {cap}. If you earn more than that, your premium stops there, and so does the salary used to work out your future pension. You may add up to {self} of your own to the labor pension, and that money is not counted as salary income for the year. Enter your own monthly pay in the tool above to see every line, including the full cost your employer carries.',
+      'Premiums are charged on an insured salary grade, not on your exact pay. The top Labor Insurance grade is {cap}. If you earn more than that, your premium stops there, and so does the salary used to work out your future pension. You may add up to {self} of your own to the Labor Pension, and that money is not counted as salary income for the year. Enter your own monthly pay in the tool above to see every line, including the full cost your employer carries.',
     'income.s0.note':
       'Rates and grade tables are the versions in force from {effective}. Employment Insurance is shared in the same proportions as Labor Insurance. Occupational accident rates differ by industry and the table uses the average. The employer figure in the example leaves out National Health Insurance.',
     'income.s0.tbl.caption': 'Who pays what on one paycheck ({year})',
@@ -83,7 +83,7 @@ export const sectionsA = {
       'The survey covers employees in industry and services. It leaves out civil servants, school teachers and staff, agriculture, forestry, fishing and animal husbandry, and the self-employed. Amounts are total annual pay before tax, including year-end and other bonuses. Data are for {year}, released {pub}. This page will be updated when the next edition comes out.',
 
     // ── s2 ──
-    'income.s2.kicker': 'Bigger numbers, same groceries',
+    'income.s2.kicker': 'Pay and prices',
     'income.s2.h2':
       'From {y0} to {y1}, regular wages rose {nom} on paper and {real} after prices',
     'income.s2.lede':
@@ -112,7 +112,7 @@ export const sectionsA = {
       'Another common measure is compensation of employees as a share of GDP, meaning how much of everything the economy produces goes to employees as pay and benefits. It was {c0} in {cy0} and {c1} in {cy1}. The {y1} wage figures are still preliminary, and the wage survey widened its industry coverage once along the way, so neighbouring years are not fully comparable.',
     'income.s2.explain.h': 'Why has pay grown slowly? {n} explanations',
     'income.s2.explain.intro':
-      'Each explanation below has its own source and looks at a different layer of the problem. This site lists them side by side, in no ranked order, and does not rule on which is right.',
+      'The explanations below each have their own source and look at different layers. They are listed in no ranked order, and this site does not rule on which is right.',
     'income.s2.explain.by': '{who}, {year}',
     'income.s2.explain.unverified': 'Secondhand source',
     'income.s2.note':
@@ -125,7 +125,7 @@ export const sectionsA = {
     'income.s3.h2':
       'The minimum wage restarted in {to} and reaches {m} in {ny}',
     'income.s3.lede':
-      'The minimum wage is the legal floor under pay. From {eff}, monthly pay may not be lower than {m} and hourly pay may not be lower than {h}. That is {pct} above the {cy} levels of {pm} and {ph}. The Minimum Wage Deliberation Committee set the amount on {council} and it was published on {pub}.',
+      'The minimum wage is the legal floor under pay. From {eff}, monthly pay may not be lower than {m} and hourly pay may not be lower than {h}. That is {pct} above the {cy} levels of {pm} and {ph}. The Minimum Wage Review Committee set the amount on {council} and it was published on {pub}.',
     'income.s3.chart.title':
       'Stuck at {frozen} from {from} to {to}, reaching {m} in {ny}',
     'income.s3.chart.sub':
@@ -142,16 +142,16 @@ export const sectionsA = {
     'income.s3.p1':
       'This floor once stood still for a long time. After it was set at {frozen} on {fromDate}, the next change came on {toDate}, more than {gap} years later. Several uneven adjustments followed. Since {streakY} it has gone up at the start of every year, {streak} years in a row counting {ny}. The monthly floor was {m0} in {y0} and will be {m} in {ny}, a nominal rise of {tot}.',
     'income.s3.p2':
-      'The Minimum Wage Act（最低工資法）took effect on {lawDate}. The basic wage was renamed the minimum wage, and the yearly review gained a legal footing. The law says the review must take the annual change in the consumer price index into account, and may also consider labor productivity, average wages, economic growth and household income and spending. If you are paid by the hour or near the floor, check your payslip. In {cy} the floor is {pm} a month and {ph} an hour, and the new amounts apply from {eff}. Labor, employers and scholars disagree on how large each increase should be.',
+      'The Minimum Wage Act (最低工資法) took effect on {lawDate}. The basic wage was renamed the minimum wage, and the yearly review gained a legal footing. The law says the review must take the annual change in the consumer price index into account, and may also consider labor productivity, average wages, economic growth and household income and spending. If you are paid by the hour or near the floor, check your payslip. In {cy} the floor is {pm} a month and {ph} an hour, and the new amounts apply from {eff}. Labor, employers and scholars disagree on how large each increase should be.',
     'income.s3.tos7': 'Their positions are set side by side further down.',
     'income.s3.note':
-      "The series uses the amount in force at the start of each year, compiled from the adjustments published by the Ministry of Labor. The publication and effective dates for {ny} come from the ministry's adjustment history page. The page does not list a separate date for the Executive Yuan's approval.",
+      "The series uses the amount in force at the start of each year, compiled from the adjustments published by the Ministry of Labor. The publication and effective dates for {ny} come from the ministry's adjustment history page. The Executive Yuan's website states that it approved this increase, but the page gives no approval date.",
 
     // ── s4 ──
-    'income.s4.kicker': 'Subtract first, then multiply',
+    'income.s4.kicker': 'Income tax brackets',
     'income.s4.h2': 'How income tax is worked out: subtract, then multiply',
     'income.s4.lede':
-      'Individual income tax（綜合所得稅）is worked out by subtracting first and multiplying second. Exemptions and deductions come off your income for the year. What is left is net taxable income, and the rate for each bracket is applied to that. For tax year {fy}, filed in {file}, a single employee takes off {sum} from just three items: the personal exemption of {ex}, the standard deduction of {std} and the special deduction for salary income of {sal}.',
+      'Individual income tax (綜合所得稅) is charged on what is left after your exemptions and deductions. Exemptions and deductions come off your income for the year. What is left is net taxable income, and the rate for each bracket is applied to that. For tax year {fy}, filed in {file}, a single employee takes off {sum} from just three items: the personal exemption of {ex}, the standard deduction of {std} and the special deduction for salary income of {sal}.',
     'income.s4.chart1.title':
       'Tax year {fy} has {n} rates: {r1} on net income up to {b1}, and {rN} on the part above {bN}',
     'income.s4.chart1.sub':
@@ -282,7 +282,7 @@ export const sectionsA = {
       '統計對象是工業及服務業的受僱員工，不含公務員、學校教職員、農林漁牧業與自營作業者。金額是稅前的全年總薪資，含年終與獎金。資料年度 {year} 年，{pub} 發布，下一版發布後本頁會更新。',
 
     // ── s2 ──
-    'income.s2.kicker': '數字在長，日子呢',
+    'income.s2.kicker': '薪資與物價',
     'income.s2.h2':
       '{y0} 到 {y1} 年，經常性薪資名目上漲 {nom}，扣掉物價後多 {real}',
     'income.s2.lede':
@@ -315,7 +315,7 @@ export const sectionsA = {
     'income.s2.explain.by': '{who}，{year} 年',
     'income.s2.explain.unverified': '二手來源',
     'income.s2.note':
-      '薪資是工業及服務業全體受僱員工的每人每月經常性薪資，含外籍與部分工時員工。官方沒有同一基期的 {y0} 到 {y1} 年連續實質薪資序列，圖上的實質指數是本站計算，不是官方數字。',
+      '薪資是工業及服務業全體受僱員工的每人每月經常性薪資，含外籍與部分工時員工。官方沒有同一基期的 {y0} 到 {y1} 年連續實質薪資數列，圖上的實質指數是本站計算，不是官方數字。',
     'income.s2.src.wage': '主計總處薪資序列',
     'income.s2.src.gdp': '主計總處國民所得序列',
 
@@ -342,13 +342,13 @@ export const sectionsA = {
       '{lawDate}《最低工資法》施行，基本工資改名最低工資，每年的審議也有了法律依據。法律寫明審議要參採消費者物價指數年增率，另外可以參考勞動生產力、平均薪資、經濟成長與家庭收支等資料。領時薪或月薪接近地板的人，可以拿薪資單對一下。{cy} 年是月薪 {pm}、時薪 {ph}，{eff} 起換成新金額。調幅該多大，勞方、資方與學者的看法不同。',
     'income.s3.tos7': '各方的說法並列在後面的立場區。',
     'income.s3.note':
-      '序列取每年年初適用的金額，由勞動部公布的歷次調整整理。{ny} 年金額的發布與生效日期取自勞動部歷年調整頁。行政院核定的日期官方頁面沒有另外列出。',
+      '序列取每年年初適用的金額，由勞動部公布的歷次調整整理。{ny} 年金額的發布與生效日期取自勞動部歷年調整頁。行政院官網寫明已核定這次調升，但該頁沒有列出核定日期。',
 
     // ── s4 ──
-    'income.s4.kicker': '先扣，再乘',
+    'income.s4.kicker': '稅率級距',
     'income.s4.h2': '綜所稅怎麼算：先扣再乘',
     'income.s4.lede':
-      '綜合所得稅的算法是先扣再乘，全年所得先減掉免稅額和各種扣除額，剩下的叫所得淨額，再照級距乘上稅率。以 {fy} 年度（{ce} 年的所得，{file}申報）來說，一個單身上班族光是免稅額 {ex}、標準扣除額 {std}、薪資所得特別扣除額 {sal} 三項，就先扣掉 {sum}。',
+      '綜合所得稅課的是扣掉免稅額和各種扣除額之後剩下的部分。全年所得先減掉這些，剩下的叫所得淨額，再照級距乘上稅率。以 {fy} 年度（{ce} 年的所得，{file}申報）來說，一個單身上班族光是免稅額 {ex}、標準扣除額 {std}、薪資所得特別扣除額 {sal} 三項，就先扣掉 {sum}。',
     'income.s4.chart1.title':
       '{fy} 年度有 {n} 級稅率：淨額 {b1}以下 {r1}，超過 {bN}的部分 {rN}',
     'income.s4.chart1.sub':

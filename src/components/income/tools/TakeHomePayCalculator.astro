@@ -5,8 +5,8 @@
  * 計算：src/utils/income/takeHomeView.ts（buildTakeHomeView）→ takeHome.ts、tax.ts。
  * 年度參數：src/data/income/labor-2026.json、tax-115.json，塞進 data-params。
  * 健保費不在這裡算（歸醫療專題）。
- * TODO(醫療專題上線後)：下面健保欄旁的連結 href 目前是 /health/，
- * 改成醫療專題的「健保費試算」頁。
+ * 健保欄旁與大數字旁的連結指向醫療專題的健保費試算頁
+ * /health/nhi-premium-calculator/。
  */
 import '../../../styles/income-tool.css';
 import type { Lang } from '../../../config/languages';
@@ -43,6 +43,7 @@ const params = {
   tax,
 };
 
+const nhiHref = localizePath('/health/nhi-premium-calculator/', lang);
 const defOcc = Number(
   (labor.occupationalAccident.averageRate * 100).toFixed(4),
 );
@@ -171,9 +172,7 @@ const gradeNote = t('income.takehome.gradeNote', {
       </label>
       <p class="inc-hint">
         {t('income.takehome.nhi.note')}
-        <a href={localizePath('/health/', lang)}
-          >{t('income.takehome.nhi.link')}</a
-        >
+        <a href={nhiHref}>{t('income.takehome.nhi.link')}</a>
       </p>
     </fieldset>
 
@@ -220,13 +219,21 @@ const gradeNote = t('income.takehome.gradeNote', {
 
   <div class="inc-result" aria-live="polite">
     <div class="inc-headline">
-      <span class="inc-headline-k">{t('income.takehome.result.take.k')}</span>
+      <span class="inc-headline-k" data-show="noNhi"
+        >{t('income.takehome.result.take.k.noNhi')}</span
+      >
+      <span class="inc-headline-k" data-show="hasNhi" hidden
+        >{t('income.takehome.result.take.k')}</span
+      >
       <span class="inc-headline-v" data-out="take">{outs.take}</span>
       <span class="inc-headline-sub" data-out="takeSub"
         >{t('income.takehome.result.take.sub', { pct: outs.takePct })}</span
       >
     </div>
-    <p class="inc-note" data-show="noNhi">{t('income.takehome.noNhi')}</p>
+    <p class="inc-note" data-show="noNhi">
+      {t('income.takehome.noNhi')}
+      <a href={nhiHref}>{t('income.takehome.nhi.link')}</a>
+    </p>
 
     <div class="inc-chart">
       <p class="inc-note inc-chart-title">
@@ -425,6 +432,7 @@ const gradeNote = t('income.takehome.gradeNote', {
         .querySelector('[data-aria="bar2"]')
         ?.setAttribute('aria-label', fillTpl(M.bar2Aria ?? '', a.bar2));
       setShow(root, 'noNhi', nhiRaw === '');
+      setShow(root, 'hasNhi', nhiRaw !== '');
     });
   }
 

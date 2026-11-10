@@ -80,16 +80,14 @@ export const toolPension = {
     'income.pension.result.returnNote':
       'The expected return is an assumption, not a guarantee. The real balance depends on fund returns, your pay and your contributions.',
     'income.pension.result.note2027':
-      'From 2027 the Labor Insurance rate changes (the ordinary-accident rate goes from 12.5% to 13%, already announced) and the insured salary table is not yet announced. This tool follows the rules in force in {year}.',
+      'From 2027 the Labor Insurance rate changes (the ordinary-risk rate goes from 12.5% to 13%, already announced) and the insured salary table is not yet announced. This tool follows the rules in force in {year}.',
 
     'income.pension.msg.ratio': 'About {pct} of your current monthly pay',
     'income.pension.msg.scenario.low':
       'If the return is only the guaranteed {rate}%',
     'income.pension.msg.scenario.ret': 'At the {rate}% return you entered',
     'income.pension.msg.ratioNote':
-      'The ratios are calculated from the pay you entered. They are not the official income replacement rate.',
-    'income.pension.msg.nominal':
-      ' The Labor Pension amount is in nominal money of the year you claim, with no deduction for price rises over the years in between. The Labor Insurance pension uses the insured salary you entered today.',
+      'This ratio is only a rough comparison and is not the official income replacement rate. The Labor Insurance pension is calculated from the insured salary you entered today, while the Labor Pension amount is in nominal money of the year you claim, with no deduction for price rises over the years in between.',
     'income.pension.msg.ratioNone':
       'Enter your current monthly pay to see what share of it the total covers.',
     'income.pension.msg.mixNote':
@@ -109,6 +107,12 @@ export const toolPension = {
       'Enter your average insured salary and insured years to see the pension.',
     'income.pension.msg.lpNo':
       'Contributions would total {n} years, under the {min} needed for a monthly annuity. You could only take a lump sum. Estimated account balance at claiming: {balance} (nominal, not adjusted for inflation).',
+    'income.pension.result.balChartTitle':
+      'Labor Pension account balance over the years',
+    'income.pension.msg.bal.x': 'Years from now',
+    'income.pension.msg.bal.tick': '{n}M',
+    'income.pension.msg.bal.aria':
+      'Labor Pension account balance from now to {n} years ahead, nominal and not adjusted for inflation. {lowLabel}: {low} at the end. {retLabel}: {ret} at the end.',
     'income.pension.msg.chart.x': 'Claiming age',
     'income.pension.msg.chart.statutory': 'Statutory {age}',
     'income.pension.msg.chart.aria':
@@ -130,7 +134,7 @@ export const toolPension = {
     'income.pension.page.reading':
       'The big number adds the two monthly payments. Below it, the Labor Insurance part shows which formula applied and how much your claiming age raises or lowers the amount, and the chart shows every claiming age from the earliest allowed to 70. The Labor Pension part depends on the return you assume, so try a lower return too. For Labor Insurance finances and government funding, see the topic main page.',
     'income.pension.page.method':
-      'Labor Insurance old-age pension (2026 rules): the higher of average insured salary × years × 0.775% + NT$3,000, and average insured salary × years × 1.55%. The average is over the highest 60 months of insured salary. Years are counted as years plus months ÷ 12, rounded to two decimals. Each year of delay adds 4% (up to 20%). Each year of early claiming cuts 4%, for at most 5 years and at most 20%. A pension needs 15 insured years.\nLabor Pension: the account is projected year by year the way the Ministry of Labor calculator does it. The monthly contribution wage is matched to the 2026 contribution table, contributions made during a year earn interest for 5.5 months, and pay grows at the rate you set. The monthly annuity is the account balance ÷ the annuity present-value factor ÷ 12. The factor uses the average remaining life at your claiming age (2022 abridged life table: 23 years at 60, 19 years at 65) and an interest rate of 1.1473%.\nAssumptions: the default return and pay growth are those of the Ministry of Labor calculator, version of 2026-03-05. Later price adjustments to the Labor Insurance pension are not included.',
+      'Labor Insurance old-age pension (2026 rules): the higher of average insured salary × years × 0.775% + NT$3,000, and average insured salary × years × 1.55%. The average is over the highest 60 months of insured salary. Years are counted as years plus months ÷ 12, rounded to two decimals (the third decimal rounds), and a part month of under 30 days counts as 1 month. Each year of delay adds 4% (up to 20%). Each year of early claiming cuts 4%, for at most 5 years and at most 20%. A pension needs 15 insured years.\nLabor Pension: the account is projected year by year the way the Ministry of Labor calculator does it. The monthly contribution wage is matched to the 2026 contribution table, contributions made during a year earn interest for 5.5 months, and pay grows at the rate you set. The monthly annuity is the account balance ÷ the annuity present-value factor ÷ 12. The factor uses the average remaining life at your claiming age (2022 abridged life table: 23 years at 60, 19 years at 65) and an interest rate of 1.1473%.\nAssumptions: the default return and pay growth are those of the Ministry of Labor calculator, version of 2026-03-05. Later price adjustments to the Labor Insurance pension are not included.',
     'income.pension.page.sources':
       'Bureau of Labor Insurance pension and annuity pages, the Ministry of Labor individual pension calculator (2026-03-05 version), the Labor Insurance Act and the Labor Pension Act. Data as of 2026-11-10.',
     'income.pension.page.source1.label':
@@ -167,7 +171,7 @@ export const toolPension = {
     'income.pension.page.faq4.q':
       'Are the Labor Insurance pension and the Labor Pension the same money?',
     'income.pension.page.faq4.a':
-      'No. Labor Insurance is social insurance. For ordinary-accident premiums the worker pays 20%, the employer 70% and the central government 10%, and the pension depends on insured salary and years. The Labor Pension, in force since 2005-07-01, is an individual account. The employer must contribute at least 6% of monthly pay, and you may add up to 6% yourself (Labor Insurance Act art. 15, Labor Pension Act art. 14).',
+      'No. Labor Insurance is social insurance. For ordinary-risk premiums the worker pays 20%, the employer 70% and the central government 10%, and the pension depends on insured salary and years. The Labor Pension, in force since 2005-07-01, is an individual account. The employer must contribute at least 6% of monthly pay, and you may add up to 6% yourself (Labor Insurance Act art. 15, Labor Pension Act art. 14).',
     'income.pension.page.faq5.q':
       'What do I gain by contributing 6% of my own pay to the Labor Pension?',
     'income.pension.page.faq5.a':
@@ -250,9 +254,7 @@ export const toolPension = {
     'income.pension.msg.scenario.low': '保證收益率 {rate}% 情境',
     'income.pension.msg.scenario.ret': '你填的報酬率 {rate}% 情境',
     'income.pension.msg.ratioNote':
-      '這些比率依你輸入的月薪計算，不是官方所得替代率。',
-    'income.pension.msg.nominal':
-      '勞退金額是到請領那一年的名目金額，沒有扣掉這段期間的物價上漲；勞保年金則用你現在填的投保薪資計算。',
+      '這個比率只是粗略對照，不是官方所得替代率。勞保年金用你現在填的投保薪資計算，勞退金額則是到請領那一年的名目金額，沒有扣掉這段期間的物價上漲，兩者的年份基準不同。',
     'income.pension.msg.ratioNone':
       '輸入目前月薪後，這裡會顯示合計占月薪的比率。',
     'income.pension.msg.mixNote':
@@ -272,10 +274,15 @@ export const toolPension = {
       '請輸入平均月投保薪資與勞保年資，才能算出年金。',
     'income.pension.msg.lpNo':
       '預計提繳年資 {n} 年，未滿 {min} 年，只能一次領，不能領月退休金。請領時專戶累積估計 {balance}（名目金額，未扣物價）。',
+    'income.pension.result.balChartTitle': '勞退專戶累積隨年數的變化',
+    'income.pension.msg.bal.x': '距今年數',
+    'income.pension.msg.bal.tick': '{n} 萬',
+    'income.pension.msg.bal.aria':
+      '勞退專戶累積，距今 0 到 {n} 年，名目金額，未扣物價。{lowLabel}，終點 {low}。{retLabel}，終點 {ret}。',
     'income.pension.msg.chart.x': '請領年齡',
     'income.pension.msg.chart.statutory': '法定 {age} 歲',
     'income.pension.msg.chart.aria':
-      '勞保年金每月金額，依請領年齡 {from} 到 {to} 歲。提前 {n} 年在 {earlyAge} 歲領，每月 {early}；法定 {stat} 歲領，每月 {base}；延後 {n} 年在 {lateAge} 歲領，每月 {late}。',
+      '勞保年金每月金額，依請領年齡 {from} 到 {to} 歲。提前 {n} 年在 {earlyAge} 歲領，每月 {early}。法定 {stat} 歲領，每月 {base}。延後 {n} 年在 {lateAge} 歲領，每月 {late}。',
     'income.pension.msg.chart.ariaSel': '你選的 {sel} 歲，每月 {amount}。',
 
     'income.pension.disclaimer':
@@ -291,7 +298,7 @@ export const toolPension = {
     'income.pension.page.reading':
       '最上面的大數字是兩筆月領金額相加。往下看，勞保年金會告訴你用了哪一個算式，以及你選的請領年齡讓金額增減多少，圖則畫出從最早可請領的年齡到 70 歲，每個年齡的月領金額。勞退月退取決於你假設的報酬率，建議也改成保守的數字試一次。勞保財務與政府撥補，請看專題主頁。',
     'income.pension.page.method':
-      '勞保老年年金（2026 年規定）：取「平均月投保薪資 × 年資 × 0.775% + 3,000 元」與「平均月投保薪資 × 年資 × 1.55%」中較高的一個。平均月投保薪資是加保期間最高 60 個月的平均。年資以年加月除以 12 計算，小數第二位四捨五入。每晚領 1 年增給 4%，最多 20%。每早領 1 年減給 4%，最多提前 5 年、最多減 20%。年資要滿 15 年才能領年金。\n勞退新制：專戶累積照勞動部勞工個人退休金試算表的算法逐年推算。月提繳工資對照 2026 年的月提繳分級表，當年新增的提繳以 5.5 個月計息，薪資依你設定的成長率每年調整。月退休金等於專戶累積除以年金現值因子，再除以 12。因子用請領年齡的平均餘命（111 年簡易生命表，60 歲 23 年、65 歲 19 年）與利率 1.1473% 計算。\n假設：預設的報酬率與薪資成長率採勞動部試算表 2026-03-05 版的預設值。勞保年金日後的物價調整不計入。',
+      '勞保老年年金（2026 年規定）：取「平均月投保薪資 × 年資 × 0.775% + 3,000 元」與「平均月投保薪資 × 年資 × 1.55%」中較高的一個。平均月投保薪資是加保期間最高 60 個月的平均。年資以年加月除以 12 計算，算到小數第二位（第三位四捨五入），未滿 30 日算 1 個月。每晚領 1 年增給 4%，最多 20%。每早領 1 年減給 4%，最多提前 5 年、最多減 20%。年資要滿 15 年才能領年金。\n勞退新制：專戶累積照勞動部勞工個人退休金試算表的算法逐年推算。月提繳工資對照 2026 年的月提繳分級表，當年新增的提繳以 5.5 個月計息，薪資依你設定的成長率每年調整。月退休金等於專戶累積除以年金現值因子，再除以 12。因子用請領年齡的平均餘命（111 年簡易生命表，60 歲 23 年、65 歲 19 年）與利率 1.1473% 計算。\n假設：預設的報酬率與薪資成長率採勞動部試算表 2026-03-05 版的預設值。勞保年金日後的物價調整不計入。',
     'income.pension.page.sources':
       '勞動部勞工保險局的老年年金與月退休金說明、勞動部勞工個人退休金試算表（2026-03-05 版）、勞工保險條例、勞工退休金條例。資料截至 2026-11-10。',
     'income.pension.page.source1.label': '勞保局：老年年金給付',
@@ -314,7 +321,7 @@ export const toolPension = {
       '要看出生年次（民國）。46 年次以前 60 歲，47 年次 61 歲，48 年次 62 歲，49 年次 63 歲，50 年次 64 歲，51 年次以後 65 歲。另外保險年資要合計滿 15 年，並且離職退保（勞保局，查閱日 2026-11-10）。',
     'income.pension.page.faq2.q': '提前領或延後領，差多少？',
     'income.pension.page.faq2.a':
-      '每延後 1 年請領，增給 4%，最多 20%。保險年資滿 15 年的人，最多可以提前 5 年請領，每提前 1 年減給 4%，最多減 20%。勞保局的算例中，原計算金額 19,012 元晚 3 年領，月領 21,293 元；原計算金額 16,368 元早 3 年領，月領 14,404 元（2026 年規定）。',
+      '每延後 1 年請領，增給 4%，最多 20%。保險年資滿 15 年的人，最多可以提前 5 年請領，每提前 1 年減給 4%，最多減 20%。勞保局的算例中，原計算金額 19,012 元晚 3 年領，月領 21,293 元。原計算金額 16,368 元早 3 年領，月領 14,404 元（2026 年規定）。',
     'income.pension.page.faq3.q': '年金的兩個公式差在哪？誰適用第一式？',
     'income.pension.page.faq3.a':
       '第一式是平均月投保薪資 × 年資 × 0.775% + 3,000 元，第二式是平均月投保薪資 × 年資 × 1.55%，兩式擇優，取較高的。兩式相等的條件是平均月投保薪資 × 年資 × 0.775% = 3,000 元，也就是平均月投保薪資 × 年資約為 387,097，低於這個數才是第一式較高。這個數字是本站由兩個公式算出來的，不是官方數字。以年資 15 年來算，平均月投保薪資要低於約 25,800 元才適用第一式。',

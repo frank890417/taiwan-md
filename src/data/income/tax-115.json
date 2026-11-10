@@ -20,7 +20,9 @@
     "announced": "2025-11-27",
     "minorChildSource": "https://www.dot.gov.tw/singlehtml/ch26?cntId=9665f10945c74724805d51a8bf52a09f",
     "minorChildAnnounced": "2026-08-21",
-    "minorChildPromulgated": "2026-09-11"
+    "minorChildPromulgated": "2026-09-11",
+    "minorChildPromulgatedSource": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003",
+    "minorChildPromulgationOrder": "中華民國一百十五年九月十一日總統華總一經字第 11500086671 號令修正公布第 17、126 條條文；並自一百十五年一月一日施行"
   },
   "standardDeduction": {
     "single": 136000,

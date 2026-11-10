@@ -70,6 +70,7 @@ export interface PensionView {
   out: Record<string, string>;
   show: Record<string, boolean>;
   svg: string;
+  balSvg: string;
 }
 
 /* ── 小工具 ───────────────────────────────────────────────────────── */
@@ -234,6 +235,88 @@ export function summarizeCurve(
   };
 }
 
+export interface BalPoint {
+  year: number;
+  balance: number;
+}
+
+export interface BalanceOpts {
+  ariaLabel: string;
+  xLabel: string;
+  /** 終點金額標籤 */
+  formatAmount: (n: number) => string;
+  /** y 軸刻度（精簡寫法，例如「700 萬」） */
+  formatTick: (n: number) => string;
+}
+
+/**
+ * 勞退專戶累積曲線：橫軸距今年數，兩條線（low＝保證收益率，ret＝使用者填的報酬率），終點各標金額。
+ * 兩條序列長度相同，第一點是 year 0。
+ */
+export function balanceSvg(
+  low: BalPoint[],
+  ret: BalPoint[],
+  o: BalanceOpts,
+): string {
+  const ML2 = 66;
+  const plotW = W - ML2 - MR;
+  const plotH = H - MT - MB;
+  const head = `<svg class="inc-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(o.ariaLabel)}" xmlns="http://www.w3.org/2000/svg">`;
+  const baseY = MT + plotH;
+  if (low.length < 2 || ret.length < 2) {
+    return `${head}<line class="inc-axis" x1="${ML2}" y1="${baseY}" x2="${W - MR}" y2="${baseY}"/></svg>`;
+  }
+  const maxYear = Math.max(low[low.length - 1].year, 1);
+  const yMax = niceMax(
+    Math.max(...low.map((p) => p.balance), ...ret.map((p) => p.balance)),
+  );
+  const X = (yr: number) => ML2 + (yr / maxYear) * plotW;
+  const Y = (v: number) => baseY - (v / yMax) * plotH;
+  const parts: string[] = [head];
+
+  for (const v of [0, yMax / 2, yMax]) {
+    const y = f1(Y(v));
+    parts.push(
+      `<line class="inc-axis" x1="${ML2}" y1="${y}" x2="${W - MR}" y2="${y}"${v === 0 ? '' : ' stroke-dasharray="2 3"'}/>`,
+    );
+    parts.push(
+      `<text x="${ML2 - 6}" y="${f1(Y(v) + 4)}" text-anchor="end">${esc(o.formatTick(v))}</text>`,
+    );
+  }
+  const step = maxYear <= 6 ? 1 : maxYear <= 12 ? 2 : maxYear <= 30 ? 5 : 10;
+  for (let yr = 0; yr <= maxYear; yr += step) {
+    parts.push(
+      `<text x="${f1(X(yr))}" y="${baseY + 18}" text-anchor="middle">${yr}</text>`,
+    );
+  }
+  parts.push(
+    `<text x="${f1(ML2 + plotW / 2)}" y="${H - 5}" text-anchor="middle">${esc(o.xLabel)}</text>`,
+  );
+
+  const path = (pts: BalPoint[]) =>
+    'M' + pts.map((p) => `${f1(X(p.year))} ${f1(Y(p.balance))}`).join(' L');
+  parts.push(`<path class="inc-line" d="${path(low)}"/>`);
+  parts.push(`<path class="pen-line-ret" d="${path(ret)}"/>`);
+
+  const a = low[low.length - 1];
+  const b = ret[ret.length - 1];
+  const x = f1(X(a.year));
+  parts.push(
+    `<circle class="pen-pt" cx="${x}" cy="${f1(Y(a.balance))}" r="4.5"/>`,
+  );
+  parts.push(
+    `<circle class="pen-pt-ret" cx="${x}" cy="${f1(Y(b.balance))}" r="4.5"/>`,
+  );
+  // 較高的終點標在上方，較低的標在下方，避免疊字
+  const lowIsHigher = a.balance > b.balance;
+  const lab = (p: BalPoint, above: boolean) =>
+    `<text class="pen-sel-label" x="${x}" y="${f1(Y(p.balance) + (above ? -9 : 19))}" text-anchor="end">${esc(o.formatAmount(p.balance))}</text>`;
+  parts.push(lab(a, lowIsHigher));
+  parts.push(lab(b, !lowIsHigher));
+  parts.push('</svg>');
+  return parts.join('');
+}
+
 /* ── 整個結果區 ───────────────────────────────────────────────────── */
 
 const MAX_CLAIM_AGE = 70;
@@ -343,11 +426,13 @@ export function buildPensionView(
         wageGrowth: num(s.growth) / 100,
       },
       P.lp,
-    ).finalBalance;
+    );
   const lowRate = P.lp.guaranteedReturn;
   const retRate = num(s.ret) / 100;
-  const balLow = project(lowRate);
-  const balRet = project(retRate);
+  const projLow = project(lowRate);
+  const projRet = project(retRate);
+  const balLow = projLow.finalBalance;
+  const balRet = projRet.finalBalance;
   const contribYears = paidYears + yearsLeft;
   const lpEligible = contribYears >= P.lp.minSeniorityYearsForAnnuity;
   const rateText = (r: number) => String(+(r * 100).toFixed(4));
@@ -388,8 +473,7 @@ export function buildPensionView(
   out.totalLow = money(lbMonthly + lpLow, loc);
   out.totalRet = money(lbMonthly + lpRet, loc);
   out.ratioLow = ratioOf(lbMonthly + lpLow);
-  out.ratioRet = ratioOf(lbMonthly + lpRet);
-  out.ratioNote = m('ratioNote') + m('nominal');
+  out.ratioNote = m('ratioNote');
 
   /* 圖 */
   const hasCurve = curve.some((p) => p.eligible);
@@ -427,7 +511,43 @@ export function buildPensionView(
     statutoryLabel: m('chart.statutory', { age: statutory }),
   });
 
-  return { out, show, svg };
+  /* 勞退專戶累積曲線 */
+  const startBal = Math.max(0, num(s.balance));
+  const series = (proj: ReturnType<typeof project>): BalPoint[] => [
+    { year: 0, balance: startBal },
+    ...proj.yearly.map((y) => ({ year: y.year, balance: y.balance })),
+  ];
+  const showBal = lpEligible && yearsLeft >= 1;
+  show.balChart = showBal;
+  let balSvg = '';
+  if (showBal) {
+    const unit = loc === 'zh-TW' ? 1e4 : 1e6;
+    const tick = (v: number) =>
+      v === 0
+        ? '0'
+        : m('bal.tick', {
+            n:
+              +(v / unit).toFixed(1) >= 100
+                ? Math.round(v / unit).toLocaleString('en-US')
+                : (+(v / unit).toFixed(1)).toLocaleString('en-US'),
+          });
+    const aria = m('bal.aria', {
+      n: yearsLeft,
+      lowLabel: out.lowLabel,
+      retLabel: out.retLabel,
+      low: money(balLow, loc),
+      ret: money(balRet, loc),
+    });
+    out.balAria = aria;
+    balSvg = balanceSvg(series(projLow), series(projRet), {
+      ariaLabel: aria,
+      xLabel: m('bal.x'),
+      formatAmount: (n) => money(n, loc),
+      formatTick: tick,
+    });
+  }
+
+  return { out, show, svg, balSvg };
 }
 
 /** 公式說明用的係數文字（0.00775 → "0.775"），元件和測試共用。 */
