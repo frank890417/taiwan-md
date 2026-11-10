@@ -1,8 +1,10 @@
 ---
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import { resolveStaticHref } from '../utils/staticRoutes';
+import { appStoreUrl, appStoreBadge } from '../config/ios-app';
 
 const lang = getLangFromUrl(Astro.url);
+const appBadge = appStoreBadge(lang);
 const t = useTranslations(lang);
 // 2026-07-06 site-map upgrade (design audit §2.8-a P0-2):
 // Footer becomes a full site map. Links use the same existence-aware
@@ -251,6 +253,39 @@ const label = {
     ru: 'Брендбук',
     de: 'Markenhandbuch',
   }),
+  // iOS App 徽章的替代文字與 Apple 商標聲明（2026-11-10 App 上架。Apple 規範：
+  // 用了 App Store 徽章就要在網站法律聲明處列一次，聲明可翻譯，商標名不翻）
+  appStore: L({
+    'zh-TW': '在 App Store 下載 Taiwan.md',
+    en: 'Download Taiwan.md on the App Store',
+    ja: 'App Store で Taiwan.md をダウンロード',
+    ko: 'App Store에서 Taiwan.md 다운로드',
+    es: 'Descarga Taiwan.md en el App Store',
+    fr: 'Télécharger Taiwan.md dans l’App Store',
+    vi: 'Tải Taiwan.md trên App Store',
+    id: 'Unduh Taiwan.md di App Store',
+    pt: 'Baixe o Taiwan.md na App Store',
+    hi: 'App Store से Taiwan.md डाउनलोड करें',
+    ar: 'نزّل Taiwan.md من App Store',
+    ru: 'Загрузите Taiwan.md в App Store',
+    de: 'Taiwan.md im App Store laden',
+  }),
+  appleCredit: L({
+    'zh-TW':
+      'Apple 與 Apple 標誌是 Apple Inc. 在美國及其他國家或地區註冊的商標。App Store 是 Apple Inc. 的服務標章。',
+    en: 'Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.',
+    ja: 'Apple、Apple のロゴは、米国およびその他の国や地域で登録された Apple Inc. の商標です。App Store は Apple Inc. のサービスマークです。',
+    ko: 'Apple 및 Apple 로고는 미국 및 기타 국가에서 등록된 Apple Inc.의 상표입니다. App Store는 Apple Inc.의 서비스 마크입니다.',
+    es: 'Apple y el logotipo de Apple son marcas comerciales de Apple Inc., registradas en EE. UU. y otros países. App Store es una marca de servicio de Apple Inc.',
+    fr: 'Apple et le logo Apple sont des marques d’Apple Inc., déposées aux États-Unis et dans d’autres pays. App Store est une marque de service d’Apple Inc.',
+    vi: 'Apple và logo Apple là nhãn hiệu của Apple Inc., đã đăng ký tại Hoa Kỳ và các quốc gia khác. App Store là nhãn hiệu dịch vụ của Apple Inc.',
+    id: 'Apple dan logo Apple adalah merek dagang Apple Inc. yang terdaftar di AS dan negara lain. App Store adalah merek layanan Apple Inc.',
+    pt: 'Apple e o logotipo da Apple são marcas comerciais da Apple Inc., registradas nos EUA e em outros países. App Store é uma marca de serviço da Apple Inc.',
+    hi: 'Apple और Apple लोगो, Apple Inc. के ट्रेडमार्क हैं, जो अमेरिका और अन्य देशों में पंजीकृत हैं। App Store, Apple Inc. का सर्विस मार्क है।',
+    ar: 'Apple وشعار Apple علامتان تجاريتان لشركة Apple Inc.، ومسجلتان في الولايات المتحدة وبلدان أخرى. App Store علامة خدمة لشركة Apple Inc.',
+    ru: 'Apple и логотип Apple являются товарными знаками Apple Inc., зарегистрированными в США и других странах. App Store является знаком обслуживания Apple Inc.',
+    de: 'Apple und das Apple Logo sind Marken der Apple Inc., die in den USA und weiteren Ländern eingetragen sind. App Store ist eine Dienstleistungsmarke der Apple Inc.',
+  }),
   rss: lang === 'zh-TW' ? 'RSS 訂閱' : 'RSS',
 };
 
@@ -323,6 +358,27 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
             class="rounded bg-white/[0.06] px-2 py-[0.15rem] text-[0.8rem] tracking-[0.02em] text-[#a7c7a7] no-underline transition-all duration-200 ease hover:bg-white/[0.12] hover:text-[#c7d2c7]"
             >{t('footer.support-us.cta')} →</a
           >
+        </p>
+        <!-- iOS App：Apple 官方徽章原檔，高 40px（螢幕最小高度），上方留白 ≥ 徽章高的 1/4 -->
+        <p class="mt-5">
+          <a
+            href={appStoreUrl(lang)}
+            target="_blank"
+            rel="noopener"
+            data-ga-section="footer_app"
+            data-ga-label="app_store"
+            class="inline-block !border-none !p-0"
+          >
+            <img
+              src={appBadge.src}
+              width={appBadge.width}
+              height={appBadge.height}
+              alt={label.appStore}
+              loading="lazy"
+              decoding="async"
+              class="block h-10 w-auto"
+            />
+          </a>
         </p>
       </div>
       <!-- 探索 · reading paths -->
@@ -406,6 +462,9 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
     </div>
     <div class="border-t border-[#1e293b] pt-6 text-center text-[0.8rem]">
       &copy; 2026 Taiwan.md — {t('footer.desc')}
+      <p class="mx-auto mt-2 max-w-[60rem] text-[0.7rem] text-[#94a3b8]">
+        {label.appleCredit}
+      </p>
     </div>
   </div>
 </footer>

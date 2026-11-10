@@ -21,6 +21,8 @@ import {
   getLanguage,
 } from '../config/languages';
 import { useTranslations } from '../i18n/utils';
+import { smartBannerContent } from '../config/ios-app';
+import { categoryList } from '../utils/categoryConfig';
 import {
   getCategoryDirMap,
   getTranslatedHubPresence,
@@ -194,6 +196,17 @@ const skipLinkLabels: Record<string, string> = {
   de: 'Zum Hauptinhalt springen',
 };
 const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
+
+// iOS Safari 智慧型應用程式橫幅（2026-11-10 App 上架公布）。知識文章頁（有 slug
+// 且分類是 14 個知識分類之一，/lifetree/ 也傳 slug 但 App 不收）帶本頁網址讓 App
+// 直接開同一篇，其他頁只帶 app-id，理由見 config/ios-app.ts。
+const isKnowledgeArticle =
+  !!slug && (categoryList as string[]).includes(categorySlug);
+const appBanner = smartBannerContent(
+  isKnowledgeArticle
+    ? new URL(Astro.url.pathname, 'https://taiwan.md').href
+    : undefined,
+);
 ---
 
 <!doctype html>
@@ -212,6 +225,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
       rel="apple-touch-icon-precomposed"
       href="/apple-touch-icon-precomposed.png"
     />
+    <meta name="apple-itunes-app" content={appBanner} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <!-- Taiwan Typography System -->
