@@ -1252,7 +1252,8 @@ def main():
         bad = []
         for name, text in texts.items():
             p = OUT / name
-            if not p.exists() or p.read_text(encoding="utf-8") != text:
+            # 比內容不比位元組：pre-commit 的 prettier 會重排 JSON 版面
+            if not p.exists() or json.loads(p.read_text(encoding="utf-8")) != json.loads(text):
                 bad.append(name)
         if bad:
             print(f"housing data 與研究檔不一致或缺檔：{', '.join(bad)}", file=sys.stderr)
