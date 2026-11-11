@@ -6,7 +6,6 @@ category: 'Culture'
 tags:
   [
     'CPBL',
-    'CPBL',
     'Bóng chày',
     'Taiwan Series',
     'Mái vòm Đài Bắc',
