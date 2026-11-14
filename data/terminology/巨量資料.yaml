@@ -1,0 +1,37 @@
+id: big-data
+category: tech
+subcategory: 軟體與程式開發
+fork_type: B
+
+auto_convert: false # 台灣媒體與日常也大量使用「大數據」，盲目取代會改壞已通行的表述
+
+display:
+  taiwan: 巨量資料
+  china: 大數據
+
+english: 'big data'
+
+etymology:
+  origin: 指傳統資料庫工具難以處理的超大規模、高速、多樣性資料集合（3V 特性）。
+  taiwan_path: 台灣官方與學術譯詞走「巨量」：國家教育研究院定譯「巨量資料」，政府計畫與課綱沿用；產業報告早期亦見「海量資料」。
+  china_path: 中國直譯「大數據」，簡短好唸，媒體與政策全面通行（國家大數據戰略）。
+  fork_point: '~2012（big data 譯詞定案期）'
+  fork_cause: 譯詞分流：台灣學術體系偏好精確的「巨量資料」，中國偏好口語化的「大數據」。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 台灣媒體與口語也高度通行「大數據」（「這些大數據顯示⋯」），屬已滲透用語；正式文件用「巨量資料」。
+
+status: stable
+
+detection:
+  severity: B
+
+notes: 「大數據」在台灣的通行度接近「人工智慧」級別，但政府文件、學術論文、課綱一律「巨量資料」。黃燈處理：提示即可，不強制替換。
+
+sources:
+  - '國家教育研究院雙語詞彙（big data＝巨量資料）'
+
+added: '2026-11-14'
+updated: '2026-11-14'

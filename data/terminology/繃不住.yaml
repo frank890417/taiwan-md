@@ -1,12 +1,29 @@
 id: 繃不住
-category: daily
+category: internet
+subcategory: 網路流行語
 fork_type: E
 display:
   taiwan: 忍不住
   china: 繃不住
+
+english: "can't hold it in"
 etymology:
-  origin: 情緒快要無法抑制，通常表示：忍不住而快笑出來。
-notes: 來源：caris-events/invade (CC0)
+  origin: 「繃住」（繃緊面部肌肉或情緒、吸飽氣 HOLD 在那裡）的失守態——維持不住繃緊的狀態，忍不住而笑出、哭出，或憋怒失守而爆發。
+  taiwan_path: 台灣原生講「忍不住」「憋不住」；「繃不住」字面可懂，近年隨中國直播與實況內容進入台灣年輕人口語。
+  china_path: 中國網路高頻詞，2021 年起「蚌埠住了」（諧音）廣泛流行，衍生「繃」單字用法（難繃、繃了）。語義不只忍笑：萌娘百科注釋其本義為「忍不住（笑／哭／激動）」，從生氣憋到崩潰的人也常說「我繃不住了」。
+  fork_point: '~2021（蚌埠住了諧音梗流行）'
+  fork_cause: 中國短影音與直播文化的諧音梗把「繃不住」放大成通用語。
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: ''
+status: emerging
+detection:
+  severity: B
+notes: 來源：caris-events/invade (CC0)，2026-11-14 補語感與系譜，2026-11-19 補情緒譜與「破防」之別：破防偏被戳中痛處，「繃不住」強調強忍之後控制失敗。與「難繃」「繃住」同族（參見該條）。
 sources:
   - https://github.com/caris-events/invade
+  - 'https://zh.wiktionary.org/wiki/繃不住'
+  - 'https://zh.wikiversity.org/zh-tw/中國大陸網路用語列表/人物'
 added: 2026-03-30
+updated: 2026-11-14

@@ -1,0 +1,46 @@
+id: submit
+category: tech
+subcategory: 科技通用
+fork_type: F
+
+auto_convert: false # 台灣正式議事與企業文書的「提交」（提交審議、提交董事會）是合法用法，盲目取代會改壞正確文字
+
+display:
+  taiwan: '送出 / 繳交 / 遞交'
+  china: 提交
+
+english: 'submit'
+
+etymology:
+  origin: 把文件、資料或成果交給機關、系統或上級。
+  taiwan_path: 台灣日常語境按對象分流：網頁按鈕「送出」（傳送訊息用「傳送」）、學校作業「繳交」、政府公文「陳報／呈交／提出」；版本控制的 commit 台灣開發者多半直接說英文「commit」，中文講「送交」。「提交」保留在正式議事與企業文書（提交審議、提交董事會）。
+  china_path: 中國日常全面「提交」：提交申請、提交作業、按鈕就是「提交」，開發圈也講「提交代碼」「提交 commit」——詞義擴大到所有交出動作。
+  fork_point: '~2000s（網頁 UI 語彙分流）'
+  fork_cause: 台灣網站 UI 在地化傳統用「送出」，中國網路語料把「提交」日常化；兩岸各自的界面慣例把分歧固定下來。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: false
+  exceptions: 台灣正式議事與企業文書的「提交審議」「提交董事會」是合法用法。
+
+status: stable
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: '提交審議'
+      note: '正式議事用語'
+    - pattern: '提交董事會'
+      note: '企業文書用語'
+    - pattern: '提交大會'
+      note: '議事用語'
+
+notes: 台灣網站按鈕寫「送出」是絕對主流；台灣正文出現「提交」按鈕或「提交申請」，多半是中國服務或譯文痕跡。
+
+sources:
+  - '教育部《重編國語辭典修訂本》提交條（提出、送交；多用於正式公文）'
+  - '台灣網站 UI 按鈕慣例（送出）'
+  - '台灣政府公文慣用語（陳報、呈交）'
+
+added: '2026-11-14'
+updated: '2026-11-14'

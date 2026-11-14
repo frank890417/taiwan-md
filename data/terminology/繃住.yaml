@@ -1,0 +1,35 @@
+id: 繃住
+category: internet
+subcategory: 網路流行語
+fork_type: E
+
+display:
+  taiwan: '撐住 / 忍住'
+  china: 繃住
+
+english: 'hold it together'
+
+etymology:
+  origin: 「繃」家族的原型與肯定式——緊繃面部肌肉或情緒，像吸飽一口氣 HOLD 在那裡，維持住不破功。
+  taiwan_path: 台灣講「撐住」「忍住」「hold 住」——「吸飽氣 HOLD 在那裡」的狀態感台灣原生就有，只是用不同詞；「繃住」在台灣語感中罕用（「繃」多用在繃緊、繃帶、繃著臉）。
+  china_path: 中國網路直播與實況文化高頻：「繃住，別笑」「繃住了嗎」——要求對方維持住表情或情緒（別笑、也別爆氣）。
+  fork_point: '~2021'
+  fork_cause: 「蚌埠住了／繃不住」流行後「繃」單字化，肯定式「繃住」隨之成為日常指令式用法。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: ''
+
+status: emerging
+
+detection:
+  severity: A
+
+notes: 與「繃不住」「難繃」同族（參見該條）；台灣聽到「繃住」多能從語境猜懂，但原生說法是「撐住」。
+
+sources:
+  - '萌娘百科「陰陽怪氣」條（繃不住了/蚌埠住了/難繃同族）'
+
+added: '2026-11-14'
+updated: '2026-11-14'
