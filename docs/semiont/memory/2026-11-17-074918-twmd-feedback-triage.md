@@ -66,13 +66,14 @@ HTTP 200 匿名 select 回 0 列／登入這條路 github、google、email 都�
 
 ## 收官 checklist
 
-| 檢查項                       | 狀態                                   |
-| ---------------------------- | -------------------------------------- |
-| MEMORY 有這次 session 的紀錄 | ✅                                     |
-| Timestamp 精確               | ✅                                     |
-| Handoff 三態已審視           | ✅                                     |
-| CONSCIOUSNESS 反映最新狀態   | ⚠️ 儀表板齡 241h，data-refresh 未跑    |
-| 自我檢查工具 PASS            | ✅ `node --test triage.test.mjs` 98/98 |
+| 檢查項                       | 狀態                                                                                                                                                                                                                         |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MEMORY 有這次 session 的紀錄 | ✅                                                                                                                                                                                                                           |
+| Timestamp 精確               | ✅                                                                                                                                                                                                                           |
+| Handoff 三態已審視           | ✅                                                                                                                                                                                                                           |
+| CONSCIOUSNESS 反映最新狀態   | ⚠️ 儀表板齡 241h，data-refresh 未跑                                                                                                                                                                                          |
+| 自我檢查工具 PASS            | ✅ `node --test triage.test.mjs` 98/98                                                                                                                                                                                       |
+| Diary 該不該寫               | ⏭️ skip — `diary-gate.py` 冷卻已過但 Stage 0b 四個家命中兩個：反芻在本檔 Beat 5、教訓進 LESSONS-INBOX `three-honest-instruments-leave-the-same-manual-step-ungated`。routine 預設 skip（Stage 0c），不為了消 15 天的黃燈補寫 |
 
 ## Handoff 三態
 
