@@ -1,0 +1,410 @@
+---
+/**
+ * NhiPremium — 健保費試算（一般保費＋補充保費）。專題頁內嵌／單獨頁／內嵌板共用。
+ *
+ * 公式全部在 src/utils/health/nhiCalc.ts，規則在 src/data/health/nhi-rules.json
+ * （費率、58 級分級表、負擔比率、平均眷口數，各帶健保署出處）。
+ * 無 JS 時顯示伺服端先算好的預設案例（受僱者、月薪 45,800、無眷屬）。
+ * 查詢參數：cat／salary／deps／sk／sa／si。
+ */
+import '../../../styles/budget.css';
+import '../../../styles/health.css';
+import rules from '../../../data/health/nhi-rules.json';
+import {
+  calcPremium,
+  calcSupplementary,
+  type NhiRules,
+} from '../../../utils/health/nhiCalc';
+import { useHealthT } from '../../../i18n/health';
+
+interface Props {
+  lang?: string;
+  variant?: 'inline' | 'page' | 'embed';
+}
+const { lang = 'zh-TW', variant = 'inline' } = Astro.props;
+const t = useHealthT(lang);
+const R = rules as unknown as NhiRules;
+const uid = `nhi-${Math.random().toString(36).slice(2, 8)}`;
+const nf = (n: number) => n.toLocaleString('en-US');
+
+const cats = [
+  'employee',
+  'civil',
+  'privateSchool',
+  'employer',
+  'union',
+  'farmer',
+  'regional',
+];
+const d = calcPremium(R, { category: 'employee', salary: 45800 });
+const total = d.insuredTotal + d.employer + d.government;
+const pct = (v: number) => (total ? (v / total) * 100 : 0);
+const kinds = [
+  'dividend',
+  'interest',
+  'rent',
+  'professional',
+  'partTime',
+  'bonus',
+];
+const s0 = calcSupplementary(R, { kind: 'dividend', amount: 50000 });
+const hints = {
+  employer: t('nhi.cat.hint.employer', { min: nf(rules.minInsured.employer) }),
+  union: t('nhi.cat.hint.union', { min: nf(rules.minInsured.union) }),
+  farmer: t('nhi.cat.hint.farmer', { fixed: nf(rules.fixedInsured.farmer) }),
+  regional: t('nhi.note.regional', {
+    per: nf(Math.round(rules.regional.averagePremium * rules.regional.insured)),
+  }),
+};
+const S = rules.sources;
+---
+
+<div
+  class={`budget-page health-page hea-tool hea-tool-${variant}`}
+  data-hea-nhi
+  data-hints={JSON.stringify(hints)}
+  data-heads={t('nhi.heads')}
+  data-none-th={t('nhi.supp.none.threshold')}
+  data-none-bonus={t('nhi.supp.none.bonus')}
+  data-base={t('nhi.supp.base')}
+>
+  <div class="hea-calc">
+    <form
+      class="hea-form"
+      data-form="premium"
+      onsubmit="return false"
+      aria-label={t('nhi.form')}
+    >
+      <h3>{t('nhi.form')}</h3>
+      <div class="hea-field">
+        <label for={`${uid}-cat`}>{t('nhi.cat')}</label>
+        <select id={`${uid}-cat`} name="cat">
+          {cats.map((c) => <option value={c}>{t(`nhi.cat.${c}`)}</option>)}
+        </select>
+        <p class="hea-hint" data-out="cat.hint" hidden></p>
+      </div>
+      <div class="hea-field" data-field="salary">
+        <label for={`${uid}-salary`}>{t('nhi.salary')}</label>
+        <input
+          id={`${uid}-salary`}
+          name="salary"
+          type="number"
+          inputmode="numeric"
+          min="0"
+          step="100"
+          value="45800"
+        />
+        <p class="hea-hint">
+          {t('nhi.salary.hint', { max: nf(R.grades[R.grades.length - 1]) })}
+        </p>
+      </div>
+      <div class="hea-field">
+        <label for={`${uid}-deps`}>{t('nhi.deps')}</label>
+        <select id={`${uid}-deps`} name="deps">
+          {[0, 1, 2, 3, 4, 5].map((n) => <option value={n}>{n}</option>)}
+        </select>
+        <p class="hea-hint">{t('nhi.deps.hint', { n: R.maxDependents })}</p>
+      </div>
+    </form>
+
+    <div class="hea-result" aria-live="polite">
+      <h3>{t('nhi.result')}</h3>
+      <div class="hea-big">
+        <div class="is-warm">
+          <div class="hea-big-v">
+            <span data-out="self">{nf(d.insuredTotal)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('nhi.big.self')}</div>
+        </div>
+        <div>
+          <div class="hea-big-v">
+            <span data-out="year">{nf(d.yearly)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('nhi.big.year')}</div>
+        </div>
+        <div data-box="insured">
+          <div class="hea-big-v">
+            <span data-out="insured">{nf(d.insuredAmount!)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('nhi.big.insured')}</div>
+        </div>
+      </div>
+      <div class="hea-split" style="height:16px" aria-hidden="true">
+        <i
+          class="is-self"
+          data-bar="self"
+          style={`width:${pct(d.insuredTotal)}%`}></i>
+        <i
+          class="is-gov"
+          data-bar="employer"
+          style={`width:${pct(d.employer)}%`}></i>
+        <i class="is-third" data-bar="gov" style={`width:${pct(d.government)}%`}
+        ></i>
+      </div>
+      <table class="hea-rows" style="margin-top:0.6rem">
+        <tbody>
+          <tr>
+            <td>
+              <i class="hea-dot" style="background:var(--bg-cat-1)"></i>
+              {t('nhi.row.self')}
+              <small data-out="heads">
+                {t('nhi.heads', { n: 0, per: nf(d.perPerson) })}
+              </small>
+            </td>
+            <td class="num"
+              ><span data-out="self">{nf(d.insuredTotal)}</span></td
+            >
+          </tr>
+          <tr>
+            <td>
+              <i class="hea-dot" style="background:var(--bg-cat-0)"></i>
+              {t('nhi.row.employer')}
+            </td>
+            <td class="num"
+              ><span data-out="employer">{nf(d.employer)}</span></td
+            >
+          </tr>
+          <tr>
+            <td>
+              <i class="hea-dot" style="background:var(--bg-cat-2)"></i>
+              {t('nhi.row.gov')}
+            </td>
+            <td class="num"><span data-out="gov">{nf(d.government)}</span></td>
+          </tr>
+          <tr>
+            <td><b>{t('nhi.row.total')}</b></td>
+            <td class="num"><b data-out="total">{nf(total)}</b></td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="hea-msg">
+        {t('nhi.note.avg', { avg: R.avgDependents })}
+      </p>
+    </div>
+  </div>
+
+  <h3 class="bp-h3">{t('nhi.supp.h')}</h3>
+  <div class="hea-calc">
+    <form
+      class="hea-form"
+      data-form="supp"
+      onsubmit="return false"
+      aria-label={t('nhi.supp.h')}
+    >
+      <div class="hea-field">
+        <label for={`${uid}-sk`}>{t('nhi.supp.kind')}</label>
+        <select id={`${uid}-sk`} name="sk">
+          {kinds.map((k) => <option value={k}>{t(`nhi.k.${k}`)}</option>)}
+        </select>
+      </div>
+      <div class="hea-field">
+        <label
+          for={`${uid}-sa`}
+          data-label-default={t('nhi.supp.amount')}
+          data-label-bonus={t('nhi.supp.amount.bonus')}
+          >{t('nhi.supp.amount')}</label
+        >
+        <input
+          id={`${uid}-sa`}
+          name="sa"
+          type="number"
+          inputmode="numeric"
+          min="0"
+          step="1000"
+          value="50000"
+        />
+      </div>
+      <div class="hea-field" data-field="si" hidden>
+        <label for={`${uid}-si`}>{t('nhi.supp.insured')}</label>
+        <input
+          id={`${uid}-si`}
+          name="si"
+          type="number"
+          inputmode="numeric"
+          min="0"
+          step="100"
+          value="45800"
+        />
+      </div>
+    </form>
+    <div class="hea-result" aria-live="polite">
+      <div class="hea-big">
+        <div class="is-warm">
+          <div class="hea-big-v">
+            <span data-out="supp">{nf(s0.premium)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('nhi.supp.out')}</div>
+        </div>
+      </div>
+      <p class="hea-msg" data-out="supp.msg">
+        {
+          t('nhi.supp.base', {
+            base: nf(s0.base),
+            rate: (R.supplementaryRate * 100).toFixed(2),
+          })
+        }
+      </p>
+      <p class="hea-msg">{t('nhi.supp.note')}</p>
+    </div>
+  </div>
+  <p class="hea-msg is-warn">{t('nhi.pending')}</p>
+  <p class="hea-toolsrc">
+    {t('nhi.src')}
+    {
+      [S.formula, S.grades, S.shares, S.tableEmployee, S.supplementary].map(
+        (s, i) => (
+          <>
+            {i > 0 && '、'}
+            <a href={s.url} target="_blank" rel="noopener">
+              {s.title}
+            </a>
+          </>
+        ),
+      )
+    }。{t('asof')}{R.asOf}。
+  </p>
+</div>
+
+<script>
+  import rules from '../../../data/health/nhi-rules.json';
+  import {
+    calcPremium,
+    calcSupplementary,
+  } from '../../../utils/health/nhiCalc';
+  import type { NhiRules, SuppKind } from '../../../utils/health/nhiCalc';
+
+  const R = rules as unknown as NhiRules;
+  const nf = (n: number) => n.toLocaleString('en-US');
+  const fill = (s: string, vars: Record<string, string | number>) =>
+    Object.entries(vars).reduce(
+      (a, [k, v]) => a.split(`{${k}}`).join(String(v)),
+      s,
+    );
+
+  document.querySelectorAll<HTMLElement>('[data-hea-nhi]').forEach((root) => {
+    const pf = root.querySelector<HTMLFormElement>('[data-form=premium]')!;
+    const sf = root.querySelector<HTMLFormElement>('[data-form=supp]')!;
+    const el = <T extends HTMLElement>(f: HTMLElement, n: string) =>
+      f.querySelector<T>(`[name=${n}]`)!;
+    const cat = el<HTMLSelectElement>(pf, 'cat');
+    const salary = el<HTMLInputElement>(pf, 'salary');
+    const deps = el<HTMLSelectElement>(pf, 'deps');
+    const sk = el<HTMLSelectElement>(sf, 'sk');
+    const sa = el<HTMLInputElement>(sf, 'sa');
+    const si = el<HTMLInputElement>(sf, 'si');
+    const hints: Record<string, string> = JSON.parse(
+      root.dataset.hints || '{}',
+    );
+    const set = (k: string, v: string) =>
+      root
+        .querySelectorAll<HTMLElement>(`[data-out="${k}"]`)
+        .forEach((e) => (e.textContent = v));
+    const bar = (k: string, p: number) =>
+      root
+        .querySelectorAll<HTMLElement>(`[data-bar="${k}"]`)
+        .forEach((e) => (e.style.width = `${p}%`));
+
+    const render = (push: boolean) => {
+      const c = cat.value;
+      const noSalary = c === 'regional' || c === 'farmer';
+      pf.querySelector<HTMLElement>('[data-field=salary]')!.hidden = noSalary;
+      root.querySelector<HTMLElement>('[data-box=insured]')!.hidden =
+        c === 'regional';
+      const hint = root.querySelector<HTMLElement>('[data-out="cat.hint"]')!;
+      hint.hidden = !hints[c];
+      hint.textContent = hints[c] || '';
+      const r = calcPremium(R, {
+        category: c,
+        salary: +salary.value || 0,
+        dependents: +deps.value || 0,
+      });
+      const total = r.insuredTotal + r.employer + r.government;
+      set('self', nf(r.insuredTotal));
+      set('year', nf(r.yearly));
+      set('insured', r.insuredAmount === null ? '' : nf(r.insuredAmount));
+      set('employer', nf(r.employer));
+      set('gov', nf(r.government));
+      set('total', nf(total));
+      set(
+        'heads',
+        fill(root.dataset.heads || '', {
+          n: r.heads - 1,
+          per: nf(r.perPerson),
+        }),
+      );
+      bar('self', total ? (r.insuredTotal / total) * 100 : 0);
+      bar('employer', total ? (r.employer / total) * 100 : 0);
+      bar('gov', total ? (r.government / total) * 100 : 0);
+
+      const kind = sk.value as SuppKind;
+      const isBonus = kind === 'bonus';
+      sf.querySelector<HTMLElement>('[data-field=si]')!.hidden = !isBonus;
+      const lab = sf.querySelector<HTMLElement>(`label[for="${sa.id}"]`)!;
+      lab.textContent =
+        (isBonus ? lab.dataset.labelBonus : lab.dataset.labelDefault) || '';
+      const s = calcSupplementary(R, {
+        kind,
+        amount: +sa.value || 0,
+        insuredAmount: +si.value || 0,
+      });
+      set('supp', nf(s.premium));
+      set(
+        'supp.msg',
+        s.reason === 'below-threshold'
+          ? fill(root.dataset.noneTh || '', {
+              th: nf(
+                kind === 'partTime'
+                  ? R.supplementary.partTimeThreshold
+                  : R.supplementary.singleThreshold,
+              ),
+            })
+          : s.reason === 'bonus-within-multiple'
+            ? fill(root.dataset.noneBonus || '', {
+                m: R.supplementary.bonusMultiple,
+              })
+            : fill(root.dataset.base || '', {
+                base: nf(s.base),
+                rate: (R.supplementaryRate * 100).toFixed(2),
+              }),
+      );
+      if (push) {
+        const q = new URLSearchParams(location.search);
+        q.set('cat', c);
+        if (noSalary) q.delete('salary');
+        else q.set('salary', salary.value);
+        q.set('deps', deps.value);
+        q.set('sk', kind);
+        q.set('sa', sa.value);
+        if (isBonus) q.set('si', si.value);
+        else q.delete('si');
+        history.replaceState(
+          null,
+          '',
+          `${location.pathname}?${q}${location.hash}`,
+        );
+      }
+    };
+
+    const q = new URLSearchParams(location.search);
+    const opt = (s: HTMLSelectElement, v: string | null) => {
+      if (v && Array.from(s.options).some((o) => o.value === v)) s.value = v;
+    };
+    opt(cat, q.get('cat'));
+    opt(deps, q.get('deps'));
+    opt(sk, q.get('sk'));
+    if (q.get('salary')) salary.value = q.get('salary')!;
+    if (q.get('sa')) sa.value = q.get('sa')!;
+    if (q.get('si')) si.value = q.get('si')!;
+    render(false);
+    pf.addEventListener('input', () => render(true));
+    sf.addEventListener('input', () => render(true));
+  });
+</script>

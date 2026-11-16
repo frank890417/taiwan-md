@@ -1,0 +1,615 @@
+{
+  "id": "population-aging",
+  "createdBy": "health 專題（claude/health-topic-d9fbbb）",
+  "asOf": "2026-11-10",
+  "note": "歷史值為年底戶籍人口（內政部；2016 年以前取國發會歷年表，同口徑）。推估為國發會 2024–2070 年版中推估；國發會已有 2026–2075 年新版，官方原頁本次打不開（403），沒有換上。",
+  "thresholds": [
+    {
+      "pct": 7,
+      "label": "高齡化社會",
+      "reached": "1993 年底",
+      "value": 7.1,
+      "source": "moi2018"
+    },
+    {
+      "pct": 14,
+      "label": "高齡社會",
+      "reached": "2018 年 3 月底",
+      "value": 14.05,
+      "source": "moi2018"
+    },
+    {
+      "pct": 20,
+      "label": "超高齡社會",
+      "reached": "2025 年 12 月底",
+      "value": 20.06,
+      "source": "moi202512"
+    }
+  ],
+  "latest": {
+    "asOf": "2026-09",
+    "elder": 4806053,
+    "elderPct": 20.7,
+    "total": 23213251,
+    "highest": {
+      "name": "臺北市",
+      "pct": 24.86
+    },
+    "lowest": {
+      "name": "新竹縣",
+      "pct": 15.52
+    },
+    "source": "moi202609"
+  },
+  "history": [
+    {
+      "year": 1993,
+      "elder": 1491000,
+      "elderPct": 7.1
+    },
+    {
+      "year": 2010,
+      "elder": 2488000,
+      "elderPct": 10.74
+    },
+    {
+      "year": 2015,
+      "elder": 2939000,
+      "elderPct": 12.51
+    },
+    {
+      "year": 2016,
+      "elder": 3106000,
+      "elderPct": 13.2
+    },
+    {
+      "year": 2017,
+      "elder": 3268013,
+      "elderPct": 13.86
+    },
+    {
+      "year": 2018,
+      "elder": 3433517,
+      "elderPct": 14.56
+    },
+    {
+      "year": 2019,
+      "elder": 3607127,
+      "elderPct": 15.28
+    },
+    {
+      "year": 2020,
+      "elder": 3787315,
+      "elderPct": 16.07
+    },
+    {
+      "year": 2021,
+      "elder": 3939033,
+      "elderPct": 16.85
+    },
+    {
+      "year": 2022,
+      "elder": 4085793,
+      "elderPct": 17.56
+    },
+    {
+      "year": 2023,
+      "elder": 4296985,
+      "elderPct": 18.35
+    },
+    {
+      "year": 2024,
+      "elder": 4488707,
+      "elderPct": 19.18
+    },
+    {
+      "year": 2025,
+      "elder": 4673155,
+      "elderPct": 20.06
+    }
+  ],
+  "projection": {
+    "variant": "中推估",
+    "unit": "千人",
+    "rows": [
+      {
+        "year": 2024,
+        "young": 2741,
+        "working": 16171,
+        "elder": 4490,
+        "elderPct": 19.2,
+        "agingIndex": 163.8,
+        "dependency": 44.7,
+        "oldDependency": 27.8
+      },
+      {
+        "year": 2025,
+        "young": 2712,
+        "working": 15957,
+        "elder": 4674,
+        "elderPct": 20.0,
+        "agingIndex": 172.3,
+        "dependency": 46.3,
+        "oldDependency": 29.3
+      },
+      {
+        "year": 2026,
+        "young": 2649,
+        "working": 15767,
+        "elder": 4858,
+        "elderPct": 20.9,
+        "agingIndex": 183.4,
+        "dependency": 47.6,
+        "oldDependency": 30.8
+      },
+      {
+        "year": 2027,
+        "young": 2546,
+        "working": 15608,
+        "elder": 5042,
+        "elderPct": 21.7,
+        "agingIndex": 198.0,
+        "dependency": 48.6,
+        "oldDependency": 32.3
+      },
+      {
+        "year": 2028,
+        "young": 2479,
+        "working": 15407,
+        "elder": 5226,
+        "elderPct": 22.6,
+        "agingIndex": 210.8,
+        "dependency": 50.0,
+        "oldDependency": 33.9
+      },
+      {
+        "year": 2029,
+        "young": 2387,
+        "working": 15243,
+        "elder": 5397,
+        "elderPct": 23.4,
+        "agingIndex": 226.1,
+        "dependency": 51.1,
+        "oldDependency": 35.4
+      },
+      {
+        "year": 2030,
+        "young": 2290,
+        "working": 15087,
+        "elder": 5556,
+        "elderPct": 24.2,
+        "agingIndex": 242.6,
+        "dependency": 52.0,
+        "oldDependency": 36.8
+      },
+      {
+        "year": 2031,
+        "young": 2197,
+        "working": 14922,
+        "elder": 5714,
+        "elderPct": 25.0,
+        "agingIndex": 260.1,
+        "dependency": 53.0,
+        "oldDependency": 38.3
+      },
+      {
+        "year": 2032,
+        "young": 2115,
+        "working": 14769,
+        "elder": 5842,
+        "elderPct": 25.7,
+        "agingIndex": 276.2,
+        "dependency": 53.9,
+        "oldDependency": 39.6
+      },
+      {
+        "year": 2033,
+        "young": 2045,
+        "working": 14587,
+        "elder": 5981,
+        "elderPct": 26.4,
+        "agingIndex": 292.4,
+        "dependency": 55.0,
+        "oldDependency": 41.0
+      },
+      {
+        "year": 2034,
+        "young": 1979,
+        "working": 14399,
+        "elder": 6115,
+        "elderPct": 27.2,
+        "agingIndex": 309.0,
+        "dependency": 56.2,
+        "oldDependency": 42.5
+      },
+      {
+        "year": 2035,
+        "young": 1925,
+        "working": 14199,
+        "elder": 6241,
+        "elderPct": 27.9,
+        "agingIndex": 324.3,
+        "dependency": 57.5,
+        "oldDependency": 44.0
+      },
+      {
+        "year": 2036,
+        "young": 1874,
+        "working": 14004,
+        "elder": 6353,
+        "elderPct": 28.6,
+        "agingIndex": 339.1,
+        "dependency": 58.7,
+        "oldDependency": 45.4
+      },
+      {
+        "year": 2037,
+        "young": 1841,
+        "working": 13800,
+        "elder": 6450,
+        "elderPct": 29.2,
+        "agingIndex": 350.4,
+        "dependency": 60.1,
+        "oldDependency": 46.7
+      },
+      {
+        "year": 2038,
+        "young": 1813,
+        "working": 13589,
+        "elder": 6541,
+        "elderPct": 29.8,
+        "agingIndex": 360.7,
+        "dependency": 61.5,
+        "oldDependency": 48.1
+      },
+      {
+        "year": 2039,
+        "young": 1777,
+        "working": 13385,
+        "elder": 6627,
+        "elderPct": 30.4,
+        "agingIndex": 372.8,
+        "dependency": 62.8,
+        "oldDependency": 49.5
+      },
+      {
+        "year": 2040,
+        "young": 1748,
+        "working": 13167,
+        "elder": 6713,
+        "elderPct": 31.0,
+        "agingIndex": 384.0,
+        "dependency": 64.3,
+        "oldDependency": 51.0
+      },
+      {
+        "year": 2041,
+        "young": 1720,
+        "working": 12896,
+        "elder": 6844,
+        "elderPct": 31.9,
+        "agingIndex": 397.9,
+        "dependency": 66.4,
+        "oldDependency": 53.1
+      },
+      {
+        "year": 2042,
+        "young": 1693,
+        "working": 12654,
+        "elder": 6939,
+        "elderPct": 32.6,
+        "agingIndex": 410.0,
+        "dependency": 68.2,
+        "oldDependency": 54.8
+      },
+      {
+        "year": 2043,
+        "young": 1667,
+        "working": 12391,
+        "elder": 7046,
+        "elderPct": 33.4,
+        "agingIndex": 422.6,
+        "dependency": 70.3,
+        "oldDependency": 56.9
+      },
+      {
+        "year": 2044,
+        "young": 1645,
+        "working": 12115,
+        "elder": 7159,
+        "elderPct": 34.2,
+        "agingIndex": 435.2,
+        "dependency": 72.7,
+        "oldDependency": 59.1
+      },
+      {
+        "year": 2045,
+        "young": 1624,
+        "working": 11845,
+        "elder": 7258,
+        "elderPct": 35.0,
+        "agingIndex": 446.9,
+        "dependency": 75.0,
+        "oldDependency": 61.3
+      },
+      {
+        "year": 2046,
+        "young": 1604,
+        "working": 11569,
+        "elder": 7356,
+        "elderPct": 35.8,
+        "agingIndex": 458.5,
+        "dependency": 77.5,
+        "oldDependency": 63.6
+      },
+      {
+        "year": 2047,
+        "young": 1585,
+        "working": 11301,
+        "elder": 7442,
+        "elderPct": 36.6,
+        "agingIndex": 469.5,
+        "dependency": 79.9,
+        "oldDependency": 65.8
+      },
+      {
+        "year": 2048,
+        "young": 1566,
+        "working": 11053,
+        "elder": 7503,
+        "elderPct": 37.3,
+        "agingIndex": 479.2,
+        "dependency": 82.1,
+        "oldDependency": 67.9
+      },
+      {
+        "year": 2049,
+        "young": 1547,
+        "working": 10815,
+        "elder": 7550,
+        "elderPct": 37.9,
+        "agingIndex": 488.1,
+        "dependency": 84.1,
+        "oldDependency": 69.8
+      },
+      {
+        "year": 2050,
+        "young": 1528,
+        "working": 10601,
+        "elder": 7568,
+        "elderPct": 38.4,
+        "agingIndex": 495.5,
+        "dependency": 85.8,
+        "oldDependency": 71.4
+      },
+      {
+        "year": 2051,
+        "young": 1508,
+        "working": 10421,
+        "elder": 7550,
+        "elderPct": 38.8,
+        "agingIndex": 500.7,
+        "dependency": 86.9,
+        "oldDependency": 72.5
+      },
+      {
+        "year": 2052,
+        "young": 1487,
+        "working": 10234,
+        "elder": 7536,
+        "elderPct": 39.1,
+        "agingIndex": 506.8,
+        "dependency": 88.2,
+        "oldDependency": 73.6
+      },
+      {
+        "year": 2053,
+        "young": 1465,
+        "working": 10018,
+        "elder": 7548,
+        "elderPct": 39.7,
+        "agingIndex": 515.4,
+        "dependency": 90.0,
+        "oldDependency": 75.3
+      },
+      {
+        "year": 2054,
+        "young": 1441,
+        "working": 9829,
+        "elder": 7532,
+        "elderPct": 40.1,
+        "agingIndex": 522.6,
+        "dependency": 91.3,
+        "oldDependency": 76.6
+      },
+      {
+        "year": 2055,
+        "young": 1417,
+        "working": 9617,
+        "elder": 7537,
+        "elderPct": 40.6,
+        "agingIndex": 531.7,
+        "dependency": 93.1,
+        "oldDependency": 78.4
+      },
+      {
+        "year": 2056,
+        "young": 1393,
+        "working": 9418,
+        "elder": 7527,
+        "elderPct": 41.0,
+        "agingIndex": 540.3,
+        "dependency": 94.7,
+        "oldDependency": 79.9
+      },
+      {
+        "year": 2057,
+        "young": 1367,
+        "working": 9216,
+        "elder": 7518,
+        "elderPct": 41.5,
+        "agingIndex": 549.8,
+        "dependency": 96.4,
+        "oldDependency": 81.6
+      },
+      {
+        "year": 2058,
+        "young": 1341,
+        "working": 9009,
+        "elder": 7515,
+        "elderPct": 42.1,
+        "agingIndex": 560.5,
+        "dependency": 98.3,
+        "oldDependency": 83.4
+      },
+      {
+        "year": 2059,
+        "young": 1313,
+        "working": 8804,
+        "elder": 7508,
+        "elderPct": 42.6,
+        "agingIndex": 571.7,
+        "dependency": 100.2,
+        "oldDependency": 85.3
+      },
+      {
+        "year": 2060,
+        "young": 1285,
+        "working": 8596,
+        "elder": 7503,
+        "elderPct": 43.2,
+        "agingIndex": 584.0,
+        "dependency": 102.2,
+        "oldDependency": 87.3
+      },
+      {
+        "year": 2061,
+        "young": 1256,
+        "working": 8390,
+        "elder": 7497,
+        "elderPct": 43.7,
+        "agingIndex": 597.1,
+        "dependency": 104.3,
+        "oldDependency": 89.4
+      },
+      {
+        "year": 2062,
+        "young": 1226,
+        "working": 8182,
+        "elder": 7492,
+        "elderPct": 44.3,
+        "agingIndex": 610.9,
+        "dependency": 106.6,
+        "oldDependency": 91.6
+      },
+      {
+        "year": 2063,
+        "young": 1198,
+        "working": 8023,
+        "elder": 7437,
+        "elderPct": 44.6,
+        "agingIndex": 620.9,
+        "dependency": 107.6,
+        "oldDependency": 92.7
+      },
+      {
+        "year": 2064,
+        "young": 1170,
+        "working": 7849,
+        "elder": 7397,
+        "elderPct": 45.1,
+        "agingIndex": 632.4,
+        "dependency": 109.1,
+        "oldDependency": 94.2
+      },
+      {
+        "year": 2065,
+        "young": 1142,
+        "working": 7652,
+        "elder": 7379,
+        "elderPct": 45.6,
+        "agingIndex": 646.0,
+        "dependency": 111.4,
+        "oldDependency": 96.4
+      },
+      {
+        "year": 2066,
+        "young": 1116,
+        "working": 7498,
+        "elder": 7317,
+        "elderPct": 45.9,
+        "agingIndex": 655.7,
+        "dependency": 112.5,
+        "oldDependency": 97.6
+      },
+      {
+        "year": 2067,
+        "young": 1091,
+        "working": 7351,
+        "elder": 7246,
+        "elderPct": 46.2,
+        "agingIndex": 664.2,
+        "dependency": 113.4,
+        "oldDependency": 98.6
+      },
+      {
+        "year": 2068,
+        "young": 1068,
+        "working": 7220,
+        "elder": 7160,
+        "elderPct": 46.3,
+        "agingIndex": 670.4,
+        "dependency": 114.0,
+        "oldDependency": 99.2
+      },
+      {
+        "year": 2069,
+        "young": 1046,
+        "working": 7094,
+        "elder": 7067,
+        "elderPct": 46.5,
+        "agingIndex": 675.4,
+        "dependency": 114.4,
+        "oldDependency": 99.6
+      },
+      {
+        "year": 2070,
+        "young": 1026,
+        "working": 6974,
+        "elder": 6966,
+        "elderPct": 46.5,
+        "agingIndex": 678.7,
+        "dependency": 114.6,
+        "oldDependency": 99.9
+      }
+    ],
+    "source": "ndc2024"
+  },
+  "sources": {
+    "moiStructure": {
+      "title": "內政部戶政司人口統計（老年人口結構、現住人口結構）",
+      "url": "https://www.moi.gov.tw/cl.aspx?n=15369",
+      "date": "2026-03-10 更新"
+    },
+    "moi202512": {
+      "title": "內政部《民國 114 年 12 月戶口統計資料分析》（65 歲以上 20.06%）",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=335870",
+      "date": "2026-01-09"
+    },
+    "moi202609": {
+      "title": "內政部《民國 115 年 9 月戶口統計資料分析》（65 歲以上 20.70%）",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=342353",
+      "date": "2026-10-08"
+    },
+    "moi2018": {
+      "title": "內政部統計處《內政統計通報》107 年第 15 週（7% 與 14% 達標）",
+      "url": "https://ws.moi.gov.tw/001/Upload/OldFile/news_file/107%E5%B9%B4%E7%AC%AC15%E9%80%B1%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1_%E9%AB%98%E9%BD%A1%E7%A4%BE%E6%9C%83.pdf",
+      "date": "2018-04-14"
+    },
+    "ndc2024": {
+      "title": "國發會《中華民國人口推估（2024 年至 2070 年）》表 14-3、14-7（中推估）",
+      "url": "https://ws.ndc.gov.tw/001/administrator/10/relfile/0/13729/ec0a27cc-4cc4-4d9e-9350-f2688189aefe.pdf",
+      "date": "2024-10"
+    }
+  }
+}

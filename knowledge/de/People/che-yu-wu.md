@@ -314,19 +314,19 @@ lifeTree:
       scene: '小六鋼琴被收起來準備國中基測。中間口琴社、交大鋼琴社社長都有碰，但「用鋼琴寫歌、發到平台、讓陌生人聽」這件事，等了二十年'
       chose:
         label: 'Spotify 上發行 6 首鋼琴曲 + 即時演奏會'
-        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。「程式碼會過時，鋼琴不會。」華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
+        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
       alternatives:
         - label: '永遠不重啟音樂'
           plausibility: 'structural'
-          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，「程式碼會過時鋼琴不會」這個觀察不會被身體驗證，也不會出現在三十歲後的作品論述裡。'
+          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，鋼琴不會回到三十歲後的作品論述裡。'
         - label: '只在私人空間彈不發行'
           plausibility: 'structural'
           note: '中間路徑：自己彈、給朋友聽，不上傳。但「讓陌生人聽」這個邊界沒被跨過，二十年的沉默就還在那裡。'
       sources: ['^34', '^36']
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ac5cbabad7f0e8a5'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-09-25T08:36:40.937122+00:00'
 ---
 
@@ -537,8 +537,6 @@ Dazwischen hatte er nicht völlig die Musik aufgegeben. In der Oberschule mischt
 Zwanzig Jahre später erschien sein Name auf Spotify. Sechs Klavierstücke: Blue Horizon, Stars, StarTrack, The Other Shore of Dreams, The Bull and the Sudden Rain, Summer Migration[^34].
 
 Er „lernte“ das Klavierspielen nicht neu. Diese Dinge waren immer in seinem Körper, nur von zwanzig Jahren Staub bedeckt. Als er sich wieder vor die Tasten setzte, erinnerten sich seine Finger nicht an Technik, sondern an jenes Kind, das mit sechs Jahren begann, Noten zu berühren.
-
-**Code wird veralten, das Klavier nicht.**
 
 Im Juni 2025 eröffnete im immersiven Raum des Huashan Creative Parks die Aufführung von 《演算詩篇：夢境與孤寂的邊界》[^36]. Er saß am Klavier, während hinter ihm Code aufblühte[^36].
 

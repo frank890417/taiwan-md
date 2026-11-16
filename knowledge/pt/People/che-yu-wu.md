@@ -25,9 +25,9 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/吳哲宇.md'
 readingTime: 16
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-08-03T03:16:08+08:00'
 ---
 
@@ -238,8 +238,6 @@ Pelo meio não deixou totalmente a música. No liceu misturou-se no clube de har
 Vinte anos depois, o nome dele apareceu no Spotify. Seis peças para piano: _Blue Horizon_, _Stars_, _StarTrack_, _The Other Shore of Dreams_, _The Bull and the Sudden Rain_, _Summer Migration_[^34].
 
 Ele não "reaprendeu" piano. Essas coisas sempre estiveram no corpo, apenas cobertas por vinte anos de poeira. Quando se sentou novamente às teclas, os dedos lembravam não a técnica, mas a criança que aos seis anos começou a tocar notas.
-
-**O código envelhece, o piano não**.
 
 Junho de 2025, no espaço imersivo do Parque Cultural e Criativo de Huashan (華山文創園區), estreou _Poemas Algorítmicos: Fronteira entre Sonhos e Solidão_. Ele sentou-se ao piano, o código florescia atrás dele[^36].
 

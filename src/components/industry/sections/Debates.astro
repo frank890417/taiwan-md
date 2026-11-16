@@ -1,0 +1,103 @@
+---
+/**
+ * §7 Debates — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const { DB, REL, ti, zh } = await industryPageData(lang);
+---
+
+<!-- §7 各方怎麼看 -->
+<section class="bp-section" id="s7">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s7.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s7.h2')}</h2>
+    <p class="bp-lede">{ti('s7.lede')}</p>
+    {
+      DB.debates.map((d: any) => (
+        <article class="ind-debate" id={`debate-${d.id}`}>
+          <h3 class="ind-debate-q">{ti(`debates.debates.${d.id}.q`)}</h3>
+          <p class="ind-debate-ctx">{ti(`debates.debates.${d.id}.ctx`)}</p>
+          <div class="ind-voices">
+            {d.voices.map((v: any) => (
+              <figure class={`ind-voice is-${v.side}`}>
+                <blockquote lang={v.quoteLang === 'en' ? 'en' : 'zh-Hant'}>
+                  {/* 轉述（記者或機構的整理）不加引號；直接引語與文件原文才加 */}
+                  {v.kind === 'reported'
+                    ? v.quote
+                    : v.quoteLang === 'en'
+                      ? `“${v.quote}”`
+                      : `「${v.quote}」`}
+                </blockquote>
+                {(v.quoteLang === 'en' ? zh : !zh) && (
+                  <p class="ind-voice-tr">
+                    {ti('label.translated')}
+                    {ti(`debates.debates.${d.id}.voices.${v.id}.tr`)}
+                  </p>
+                )}
+                <figcaption>
+                  <b>{ti(`debates.debates.${d.id}.voices.${v.id}.who`)}</b>，
+                  {ti(`debates.debates.${d.id}.voices.${v.id}.role`)}
+                  <br />
+                  {v.date}・{ti(`debates.debates.${d.id}.voices.${v.id}.venue`)}
+                  {v.kind === 'reported' && (
+                    <span class="ind-voice-kind">{ti('label.reported')}</span>
+                  )}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label={ti('label.source')}
+                    href={v.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+          {d.id === 'labor' && (
+            <p class="ind-debate-ctx">{ti('s7.labor.note')}</p>
+          )}
+          {d.facts?.length > 0 && (
+            <ul class="ind-facts">
+              {d.facts.map((f: any) => (
+                <li>
+                  <b>{ti(`debates.debates.${d.id}.facts.${f.id}.v`)}</b>
+                  {ti(`debates.debates.${d.id}.facts.${f.id}.l`)}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label={ti('label.source')}
+                    href={f.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </article>
+      ))
+    }
+    <p class="bp-note">{ti('s7.note')}</p>
+    {
+      REL.s7.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s7.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

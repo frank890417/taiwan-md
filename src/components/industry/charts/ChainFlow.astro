@@ -1,0 +1,152 @@
+---
+/**
+ * ChainFlow — 一條供應鏈的環節流程圖（graph.md §二「流向」；語意 HTML，無 SVG 形狀）。
+ *
+ * 桌機：環節由左到右排成一列，可橫向捲動；手機：直排。每個環節是一張卡：
+ * 編號、名稱、這一環做什麼、台灣公司清單（名稱、代號、角色、出處）、這一環台灣缺什麼。
+ * 全部內容預設可見（graph.md §三.9），不靠 hover。公司有榜單列或站內文章時名稱是連結。
+ * 另附一張完整資料表。
+ */
+export interface ChainCompany {
+  name: string;
+  ticker?: string;
+  role: string;
+  hq?: string;
+  /** 站內連結：/companies#c-2330 或文章網址 */
+  href?: string;
+  sourceUrl?: string;
+}
+export interface ChainStage {
+  id: string;
+  name: string;
+  what: string;
+  companies: ChainCompany[];
+  foreignNote?: string;
+  foreignSourceUrl?: string;
+}
+interface Props {
+  id: string;
+  title: string;
+  lede?: string;
+  stages: ChainStage[];
+  labels: {
+    stage: string;
+    company: string;
+    role: string;
+    hq: string;
+    gap: string;
+    source: string;
+    table: string;
+    /** 這一環沒有列任何台灣公司時顯示 */
+    none?: string;
+  };
+}
+const { id, title, lede, stages, labels } = Astro.props;
+---
+
+<section class="ind-chain" id={id} aria-labelledby={`${id}-h`}>
+  <h3 class="ind-chain-h" id={`${id}-h`}>{title}</h3>
+  {lede && <p class="ind-chain-lede">{lede}</p>}
+  <ol class="ind-chain-flow">
+    {
+      stages.map((s, i) => (
+        <li class="ind-stage" id={`${id}-${s.id}`}>
+          <div class="ind-stage-head">
+            <span class="ind-stage-n">{i + 1}</span>
+            <h4 class="ind-stage-name">{s.name}</h4>
+          </div>
+          <p class="ind-stage-what">{s.what}</p>
+          <ul class="ind-stage-list">
+            {s.companies.map((c) => (
+              <li
+                class="ind-node"
+                data-node={
+                  (c as any).key ?? `${c.name} ${c.ticker ?? ''}`.toLowerCase()
+                }
+              >
+                <span class="ind-node-head">
+                  {c.href ? (
+                    <a href={c.href} class="ind-node-name">
+                      {c.name}
+                    </a>
+                  ) : (
+                    <span class="ind-node-name">{c.name}</span>
+                  )}
+                  {c.ticker && <span class="ind-node-ticker">{c.ticker}</span>}
+                  {c.sourceUrl && (
+                    <a
+                      class="ind-src no-external-icon"
+                      aria-label={labels.source}
+                      href={c.sourceUrl}
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      ↗
+                    </a>
+                  )}
+                </span>
+                <span class="ind-node-role" title={c.role}>
+                  {c.role}
+                </span>
+              </li>
+            ))}
+          </ul>
+          {s.companies.length === 0 && labels.none && (
+            <p class="ind-stage-none">{labels.none}</p>
+          )}
+          {s.foreignNote && (
+            <p class="ind-stage-gap">
+              <b>{labels.gap}</b>
+              {s.foreignNote}
+              {s.foreignSourceUrl && (
+                <a
+                  class="ind-src no-external-icon"
+                  aria-label={labels.source}
+                  href={s.foreignSourceUrl}
+                  target="_blank"
+                  rel="noopener"
+                >
+                  ↗
+                </a>
+              )}
+            </p>
+          )}
+        </li>
+      ))
+    }
+  </ol>
+  <details class="bg-table">
+    <summary>{labels.table}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{labels.stage}</th>
+            <th>{labels.company}</th>
+            <th>{labels.role}</th>
+            <th>{labels.hq}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            stages.flatMap((s, i) =>
+              s.companies.map((c) => (
+                <tr>
+                  <td>
+                    {i + 1}. {s.name}
+                  </td>
+                  <td>
+                    {c.name}
+                    {c.ticker ? `（${c.ticker}）` : ''}
+                  </td>
+                  <td>{c.role}</td>
+                  <td>{c.hq ?? '—'}</td>
+                </tr>
+              )),
+            )
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</section>

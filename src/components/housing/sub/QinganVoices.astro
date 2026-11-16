@@ -1,0 +1,117 @@
+---
+/**
+ * QinganVoices：5.8 爭議與各方評價。
+ * 只從 positions.json 取與青安有關、verbatim: true 的引語（人工策展 PICKS，比對不到或不符條件的自動略過），
+ * 限 government、advocacy、scholars 三組；不放政黨、不放候選人；機關說法經媒體引述的標「轉述」。
+ * 顯示 coverageNote。不連 /housing/positions/（該子頁選前不公開）。
+ * 英文頁的引語附本站翻譯（原文為中文）。
+ */
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { housingHome } from '../../../i18n/housing-home';
+import { DATA, fmtPeriod } from '../../../utils/housing/data';
+import { quoteKey } from '../../../utils/housing/quotes';
+import { isZh, loc, mentionsCandidate } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.voices;
+const zh = isZh(lang);
+const pos: any = DATA.positions;
+const GROUPS = ['government', 'advocacy', 'scholars'];
+const PICKS: { actor: string; prefix: string }[] = [
+  { actor: 'mof', prefix: '為避免變成懲罰結婚者' },
+  { actor: 'mof', prefix: '最主要是希望政策更精準' },
+  { actor: 'mof', prefix: '寬限期最長5年' },
+  { actor: 'cbc', prefix: '至於有什麼漏洞' },
+  { actor: 'fsc', prefix: '公股銀確實有背負政策性放款' },
+  { actor: 'ours', prefix: '借越多' },
+  { actor: 'scholar-chang', prefix: '不論是蓋社會住宅或新青安貸款' },
+  { actor: 'scholar-huang', prefix: '新青安透過低利率' },
+];
+const enHome = housingHome('en').quotesEn as Record<string, string>;
+const tr = (key: string): string | undefined =>
+  EN_DATA.quotes[key] ?? enHome[key];
+const out: any[] = [];
+for (const p of PICKS) {
+  const a = pos.actors.find((x: any) => x.id === p.actor);
+  if (!a || !GROUPS.includes(a.group)) continue;
+  const qt = (a.quotes ?? []).find(
+    (x: any) => x.verbatim === true && x.text.startsWith(p.prefix),
+  );
+  if (!qt || !qt.source?.url || !qt.source?.publisher) continue;
+  if (!['primary', 'reported'].includes(qt.source.kind)) continue;
+  if (mentionsCandidate(qt)) continue;
+  out.push({
+    group: a.group,
+    speaker: qt.speaker,
+    date: qt.date,
+    text: qt.text,
+    key: quoteKey(p.prefix),
+    source: qt.source,
+    viaMedia: /報導引述|媒體報導|新聞稿/.test(qt.speaker),
+  });
+}
+const cols = GROUPS.map((g) => ({
+  id: g,
+  title: loc(pos.groups.find((x: any) => x.id === g)?.title, lang) || g,
+  list: out.filter((x) => x.group === g),
+})).filter((c) => c.list.length > 0);
+const coverage: string = loc(pos.coverageNote, lang);
+---
+
+<section class="hs-section" id="voices">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-quotecols is-three">
+      {
+        cols.map((g) => (
+          <div class="hs-quotecol">
+            <h3 class="hs-h3">{g.title}</h3>
+            {g.list.map((qt) => (
+              <figure class={`hs-quote is-${g.id}`}>
+                <blockquote lang="zh-TW">
+                  <p>{qt.text}</p>
+                </blockquote>
+                {!zh && tr(qt.key) && (
+                  <p class="hs-quote-tr">
+                    {tr(qt.key)}
+                    <span class="hs-quote-trn">{S.translation}</span>
+                  </p>
+                )}
+                <figcaption>
+                  <span class="hs-quote-who">{qt.speaker}</span>
+                  <span class="hs-quote-meta">
+                    <time datetime={qt.date}>{fmtPeriod(qt.date, lang)}</time>
+                    <span class="hs-tag">
+                      {qt.viaMedia ? S.paraphrase : S.quote}
+                    </span>
+                    <a
+                      href={qt.source.url}
+                      target="_blank"
+                      rel="noopener"
+                      class="no-external-icon"
+                    >
+                      {S.via}
+                      {zh ? '：' : ': '}
+                      {qt.source.publisher}
+                    </a>
+                  </span>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        ))
+      }
+    </div>
+    <details class="hs-limits" open>
+      <summary>{S.coverage}</summary>
+      <p lang={zh ? 'zh-TW' : 'en'}>{coverage}</p>
+    </details>
+    <p class="hs-fine">{S.more}</p>
+  </div>
+</section>

@@ -1,0 +1,84 @@
+---
+/**
+ * S1Tool — 第 1 節：內嵌房貸試算（ToolFrame + MortgageCalculator），其餘三個工具用卡片連到 /housing/tools/#slug。
+ * 標題與說明讀 src/data/topics/housing.json 的 tools。
+ */
+import ToolFrame from '../../tools/ToolFrame.astro';
+import MortgageCalculator from '../tools/MortgageCalculator.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import {
+  DATA,
+  fmtPeriod,
+  fmtWanYuan,
+  stripBrand,
+  trimNum,
+} from '../../../utils/housing/data';
+import {
+  getTopic,
+  localizePath,
+  pickText,
+} from '../../../utils/topics/registry';
+
+interface Props {
+  lang: any;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s1;
+const topic = getTopic('housing')!;
+const tool = topic.tools.find((x) => x.slug === 'mortgage-calculator')!;
+const others = topic.tools.filter((x) => x.slug !== 'mortgage-calculator');
+const q: any = DATA.qingan;
+const fx: any = DATA.fixtures.officialAffordability;
+const toolsHref = localizePath(
+  topic.subpages.find((s) => s.path.includes('tools'))?.path ??
+    '/housing/tools/',
+  lang,
+);
+---
+
+<section class="hs-section" id="tool">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">
+      {fill(S.h2, { amount: fmtWanYuan(q.current.limits.general, lang) })}
+    </h2>
+    <p class="hs-lede2">
+      {
+        fill(S.intro, {
+          rate: trimNum(fx.annualRatePct, 3),
+          qRate: trimNum(q.rate.subsidySteps[0].netRatePct, 3),
+          rateAsOf: fmtPeriod(fx.periodCe, lang),
+        })
+      }
+    </p>
+    <ToolFrame
+      title={stripBrand(pickText(tool.title, lang))}
+      description={pickText(tool.description, lang)}
+      variant="inline"
+      lang={lang}
+      standaloneHref={tool.path}
+      embedHref={tool.embedPath}
+    >
+      <MortgageCalculator lang={lang} variant="inline" />
+    </ToolFrame>
+    <h3 class="hs-h3">{fill(S.othersTitle, { n: others.length })}</h3>
+    <ul class="hs-toolcards">
+      {
+        others.map((t) => (
+          <li>
+            <a class="hs-toolcard" href={`${toolsHref}#${t.slug}`}>
+              <span class="hs-toolcard-t">
+                {stripBrand(pickText(t.title, lang))}
+              </span>
+              <span class="hs-toolcard-d">{pickText(t.description, lang)}</span>
+              <span class="hs-toolcard-go">{S.open} →</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+    <p class="hs-fine">{S.othersNote}</p>
+  </div>
+</section>

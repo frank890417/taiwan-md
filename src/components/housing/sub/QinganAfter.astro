@@ -1,0 +1,144 @@
+---
+/**
+ * QinganAfter：5.9 寬限期結束與補貼退場後怎麼辦。
+ * 內嵌 MortgageCalculator（預設就是青安 3.0、1,000 萬、40 年、寬限 5 年），旁邊用 mortgage.ts 算月付路徑
+ * （寬限期內、寬限期結束的下一年、補貼退完的下一年），標「本站試算，官方沒有公布試算表」。
+ * 列出讀者可以做的三件事，不寫建議買或不買。
+ * 免責聲明（housing.tool.common.disclaimer）由 ToolShell 在每個工具下方輸出，本元件不再重複寫一份。
+ */
+import ToolFrame from '../../tools/ToolFrame.astro';
+import MortgageCalculator from '../tools/MortgageCalculator.astro';
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { computeMortgage } from '../../../utils/housing/mortgage';
+import { qinganRateStages } from '../../../utils/housing/qingan';
+import {
+  DATA,
+  fmtWanYuan,
+  fmtYuan,
+  grp,
+  qinganSrc,
+  stripBrand,
+  fmtPeriod,
+} from '../../../utils/housing/data';
+import {
+  getTopic,
+  localizePath,
+  pickText,
+} from '../../../utils/topics/registry';
+import SrcLine from '../sections/SrcLine.astro';
+
+interface Props {
+  lang: any;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.after;
+const q: any = DATA.qingan;
+const cur = q.current;
+const principal = cur.limits.general as number;
+const years = cur.maxYears as number;
+const graceMonths = cur.maxGraceMonths as number;
+const res = computeMortgage({
+  principal,
+  years,
+  graceMonths,
+  method: 'annuity',
+  stages: qinganRateStages(q),
+});
+const noGrace = computeMortgage({
+  principal,
+  years,
+  graceMonths: 0,
+  method: 'annuity',
+  stages: qinganRateStages(q),
+});
+const payOf = (r: typeof res, y: number) =>
+  r.schedule.find((x) => x.month === (y - 1) * 12 + 1)?.payment ?? 0;
+const g = graceMonths / 12;
+const finite = (q.rate.subsidySteps as any[]).reduce(
+  (a, s) => a + (s.years ?? 0),
+  0,
+);
+const y7 = finite + 1;
+const p1 = Math.round(payOf(res, 1));
+const p2 = Math.round(payOf(res, g + 1));
+const p3 = Math.round(payOf(res, y7));
+const n1 = Math.round(payOf(noGrace, 1));
+const n7 = Math.round(payOf(noGrace, y7));
+const vars = {
+  amount: fmtWanYuan(principal, lang),
+  years,
+  grace: g,
+  g,
+  y: g + 1,
+  p1: fmtYuan(p1, lang),
+  p2: fmtYuan(p2, lang),
+  p3: fmtYuan(p3, lang),
+  a: grp(n1),
+  b: grp(n7),
+  asOf: fmtPeriod(q.asOf, lang),
+};
+const rows = [
+  { k: fill(S.rows.grace, vars), v: fmtYuan(p1, lang) },
+  { k: fill(S.rows.y6, vars), v: fmtYuan(p2, lang) },
+  { k: fill(S.rows.y7, { y: y7 }), v: fmtYuan(p3, lang) },
+];
+const todo = [
+  { h: S.t1h, p: fill(S.t1, { ...vars, y: y7 }) },
+  { h: S.t2h, p: S.t2 },
+  { h: S.t3h, p: S.t3 },
+];
+const topic = getTopic('housing')!;
+const tool = topic.tools.find((x) => x.slug === 'mortgage-calculator')!;
+const toolsPath = localizePath('/housing/tools/', lang);
+---
+
+<section class="hs-section" id="after">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <p class="hs-lede2">{fill(S.intro, vars)}</p>
+    <h3 class="hs-h3">{S.pathTitle}</h3>
+    <dl class="hs-path">
+      {
+        rows.map((r, i) => (
+          <div class={`hs-path-r r${i}`}>
+            <dt>{r.k}</dt>
+            <dd>{r.v}</dd>
+          </div>
+        ))
+      }
+    </dl>
+    <p class="hs-fine">
+      {fill(S.pathNote, vars)}
+      <span class="hs-badge">{T.ui.derived}</span>
+    </p>
+    <ToolFrame
+      title={stripBrand(pickText(tool.title, lang))}
+      description={pickText(tool.description, lang)}
+      variant="inline"
+      lang={lang}
+      standaloneHref={tool.path}
+      embedHref={tool.embedPath}
+    >
+      <MortgageCalculator lang={lang} variant="inline" toolsPath={toolsPath} />
+    </ToolFrame>
+    <SrcLine
+      lang={lang}
+      sources={[qinganSrc('principles'), qinganSrc('v3Release')]}
+    />
+    <h3 class="hs-h3">{S.todoK}</h3>
+    <ol class="hs-todo">
+      {
+        todo.map((x) => (
+          <li>
+            <strong>{x.h}</strong>
+            <p>{x.p}</p>
+          </li>
+        ))
+      }
+    </ol>
+    <p class="hs-fine">{S.fine}</p>
+  </div>
+</section>

@@ -1,0 +1,179 @@
+---
+/**
+ * HBars — 橫條圖（/names 專題用）。一列一項，條從 0 起畫，值直接標在條尾。
+ * 沿用 /budget 的圖表樣式（bg-chart／bg-svg／bg-row…，定義在 src/styles/budget.css），
+ * 所以外層頁面的 <main> 要帶 budget-page class。寬 760／窄 380 兩套幾何，附資料表 fallback。
+ * 跟 budget/RankBars 的差別：值是人數或百分比（不是億元），不畫起點年標記，列順序由呼叫端決定。
+ */
+import {
+  scaleLinear,
+  niceTicks,
+  estTextW,
+  CHART_WIDTHS,
+} from '../../utils/budgetViz';
+
+export interface Row {
+  id: string;
+  label: string;
+  value: number;
+  /** 條尾顯示的字（已格式化） */
+  text: string;
+  /** 資料表第三欄（例：占比） */
+  extra?: string;
+  highlight?: boolean;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  rows: Row[];
+  /** 軸刻度格式化 */
+  tick?: (v: number) => string;
+  source?: string;
+  sourceLabel?: string;
+  tableLabel?: string;
+  cols: [string, string, string?];
+  id?: string;
+  rowH?: number;
+}
+const {
+  title,
+  subtitle,
+  rows,
+  tick = (v: number) => v.toLocaleString('en-US'),
+  source,
+  sourceLabel = '來源：',
+  tableLabel = '資料表',
+  cols,
+  id,
+  rowH = 26,
+} = Astro.props;
+
+const uid =
+  id ||
+  `hb-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const max = Math.max(...rows.map((r) => r.value));
+const ticks = niceTicks(max, 4);
+const top = ticks[ticks.length - 1];
+
+function layout(W: number, narrow: boolean) {
+  const longest = Math.max(0, ...rows.map((r) => estTextW(r.label, 13, 7)));
+  const maxL = narrow ? 110 : 190;
+  const labelTop = longest + 14 > maxL;
+  const rh = labelTop ? Math.max(rowH, 38) : rowH;
+  const valW = Math.max(...rows.map((r) => estTextW(r.text, 11, 6.5))) + 12;
+  const M = { l: labelTop ? 8 : longest + 14, r: valW, t: 28, b: 10 };
+  const iw = W - M.l - M.r;
+  const H = M.t + rows.length * rh + M.b;
+  const x = scaleLinear(0, top, M.l, M.l + iw);
+  const barH = labelTop ? 12 : Math.max(8, rowH - 12);
+  return { W, H, M, x, barH, narrow, labelTop, rh };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="rank" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {ticks.map((t) => (
+          <g class="bg-grid">
+            <line
+              x1={L.x(t)}
+              x2={L.x(t)}
+              y1={L.M.t - 6}
+              y2={L.M.t + rows.length * L.rh}
+            />
+            <text
+              x={L.x(t)}
+              y={L.M.t - 10}
+              text-anchor="middle"
+              class="bg-tick"
+            >
+              {tick(t)}
+            </text>
+          </g>
+        ))}
+        {rows.map((r, i) => {
+          const cy = L.labelTop
+            ? L.M.t + i * L.rh + L.rh - 10
+            : L.M.t + i * L.rh + L.rh / 2;
+          return (
+            <g class={`bg-row ${r.highlight ? 'is-hi' : ''}`} data-id={r.id}>
+              {L.labelTop ? (
+                <text x={L.M.l} y={cy - L.barH / 2 - 5} class="bg-rowlab">
+                  {r.label}
+                </text>
+              ) : (
+                <text
+                  x={L.M.l - 10}
+                  y={cy + 4}
+                  text-anchor="end"
+                  class="bg-rowlab"
+                >
+                  {r.label}
+                </text>
+              )}
+              <rect
+                x={L.x(0)}
+                y={cy - L.barH / 2}
+                width={Math.max(1, L.x(r.value) - L.x(0))}
+                height={L.barH}
+                rx={3}
+                class="bg-bar"
+              >
+                <title>{`${r.label}：${r.text}${r.extra ? `（${r.extra}）` : ''}`}</title>
+              </rect>
+              <text x={L.x(r.value) + 6} y={cy + 4} class="bg-val">
+                {r.text}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {sourceLabel}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{tableLabel}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{cols[0]}</th>
+            <th class="num">{cols[1]}</th>
+            {cols[2] && <th class="num">{cols[2]}</th>}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>{r.label}</td>
+                <td class="num">{r.text}</td>
+                {cols[2] && <td class="num">{r.extra ?? ''}</td>}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

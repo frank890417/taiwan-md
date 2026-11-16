@@ -1,0 +1,28 @@
+---
+/** ToolCards — 四個工具／指南的入口卡（主頁英雄區與 §7 共用）。 */
+import { useHealthT, healthPath } from '../../i18n/health';
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const t = useHealthT(lang);
+const items = [
+  ['long-term-care-subsidy', 'tool.k'],
+  ['nhi-premium-calculator', 'tool.k'],
+  ['long-term-care-eligibility', 'tool.k'],
+  ['advance-care-planning', 'tool.k.guide'],
+];
+---
+
+<div class="hea-tools">
+  {
+    items.map(([slug, k]) => (
+      <a class="hea-tool" href={healthPath(lang, slug)}>
+        <span class="hea-tool-k">{t(k)}</span>
+        <span class="hea-tool-t">{t(`tool.${slug}.t`)}</span>
+        <span class="hea-tool-d">{t(`tool.${slug}.d`)}</span>
+        <span class="hea-tool-go">→</span>
+      </a>
+    ))
+  }
+</div>

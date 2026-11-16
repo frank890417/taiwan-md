@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "title": {
+      "zh": "綜合所得稅申報戶的所得淨額級距分布（112 年度核定）",
+      "en": "Individual income tax filers by net-income bracket (tax year 2023 assessed)"
+    },
+    "unit": "households：納稅單位（戶）；*Thousand：千元（新臺幣）；*Pct：%。",
+    "source": [
+      {
+        "name": "財政資訊中心《112年度綜合所得稅申報核定統計專冊》（發布 2026-04-30；專冊封面 114 年 6 月 30 日）表 6-2、16-2、17-2",
+        "url": "https://www.fia.gov.tw/singlehtml/43?cntId=84e7fef263a84f339e650245ed84847a"
+      },
+      {
+        "name": "同專冊 HTML ZIP 下載（5.1 MB，內含表 6-2、16-2、17-2、69）",
+        "url": "https://www.fia.gov.tw/download/f9a5d08c1de44ed5b23dc5dcb7fbc33a"
+      },
+      {
+        "name": "賦稅署新聞稿：114 年度綜合所得稅初步申報統計（2026-06-02）",
+        "url": "https://www.dot.gov.tw/singlehtml/ch26?cntId=46652a466e8d45fbb82f84e7cb63d8b8"
+      },
+      {
+        "name": "賦稅署新聞稿：113 年度綜合所得稅初步申報統計（2025-07-01）",
+        "url": "https://www.dot.gov.tw/singlehtml/ch26?cntId=bbd59cf240cc48c08cd59f9e09af2bc3"
+      },
+      {
+        "name": "財政部澄清稿（2023-10-31）：110 年度 305 萬申報戶所得淨額為零、高所得戶占 0.85%",
+        "url": "https://www.dot.gov.tw/singlehtml/ch26?cntId=e0ca5bcf65ee496f849ff7fbe5b96fca"
+      }
+    ],
+    "asOf": "2024-12-31",
+    "taxYear": 112,
+    "fetched": "2026-11-10",
+    "derived": [
+      "brackets[].householdSharePct",
+      "rate40PlusHouseholds",
+      "rate40PlusSharePct"
+    ],
+    "notes": [
+      "專冊最新年度為 112 年度；113、114 年度專冊沒有資料，114 年度各級距戶數比率與薪資占比：沒有資料。",
+      "使用限制（專冊頁面原文）：「本統計資料來源為各年度最新綜合所得稅申報核定資料，不含分離課稅、免稅及非課稅所得，本統計表不宜作為貧富差距之比較」；107 年度起實施股利所得課稅新制、108 年度起薪資所得計算改為定額減除或必要費用減除擇一擇優，部分統計表不宜作時間數列比較。",
+      "householdSharePct 是本站以各級距戶數除以合計戶數 6,880,883 算出（derived: true），四捨五入到小數 1 位，不是官方比率；加總為 100。官方直接給的比率只有 110 年度那組（見 officialRatios）。",
+      "級距為「所得淨額」，112 年度 5% 檔為 56 萬以下（級距 560,000／1,260,000／2,520,000／4,720,000）。40% 檔在原表拆成 472–500、500–1000、1000 以上三列；rate40PlusHouseholds 是本站相加（8,798＋51,371＋12,598）。",
+      "「申報件數」（初步，114 年度 7,052,870 件）與專冊「納稅單位」（112 年度核定 6,880,883 戶）口徑不同，不能直接相減。",
+      "薪資所得＝薪資收入減薪資費用（薪資所得特別扣除額或必要費用擇大者）。專冊表中另有「薪資收入」90.12 一欄，分母口徑未確認，不引用。"
+    ]
+  },
+  "brackets": [
+    {
+      "id": "net-zero",
+      "netIncomeBandWan": null,
+      "statutoryRatePct": 0,
+      "label": {
+        "zh": "所得淨額為 0",
+        "en": "Net income of zero"
+      },
+      "households": 3010515,
+      "householdSharePct": 43.8,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 916280592,
+      "netIncomeThousand": 0,
+      "taxThousand": 0
+    },
+    {
+      "id": "5pct",
+      "netIncomeBandWan": "0-56",
+      "statutoryRatePct": 5,
+      "label": {
+        "zh": "0–56 萬（5% 檔）",
+        "en": "Up to NT$560,000 (5% bracket)"
+      },
+      "households": 2476336,
+      "householdSharePct": 36,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 1692348249,
+      "netIncomeThousand": 531535731,
+      "taxThousand": 26575506
+    },
+    {
+      "id": "12pct",
+      "netIncomeBandWan": "56-126",
+      "statutoryRatePct": 12,
+      "label": {
+        "zh": "56–126 萬（12% 檔）",
+        "en": "NT$560,000–1,260,000 (12%)"
+      },
+      "households": 779788,
+      "householdSharePct": 11.3,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 1157740075,
+      "netIncomeThousand": 654055139,
+      "taxThousand": 43141832
+    },
+    {
+      "id": "20pct",
+      "netIncomeBandWan": "126-252",
+      "statutoryRatePct": 20,
+      "label": {
+        "zh": "126–252 萬（20% 檔）",
+        "en": "NT$1,260,000–2,520,000 (20%)"
+      },
+      "households": 382481,
+      "householdSharePct": 5.6,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 972581156,
+      "netIncomeThousand": 669279732,
+      "taxThousand": 66396919
+    },
+    {
+      "id": "30pct",
+      "netIncomeBandWan": "252-472",
+      "statutoryRatePct": 30,
+      "label": {
+        "zh": "252–472 萬（30% 檔）",
+        "en": "NT$2,520,000–4,720,000 (30%)"
+      },
+      "households": 158996,
+      "householdSharePct": 2.3,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 681579054,
+      "netIncomeThousand": 532625472,
+      "taxThousand": 79750876
+    },
+    {
+      "id": "40pct-472-500",
+      "netIncomeBandWan": "472-500",
+      "statutoryRatePct": 40,
+      "label": {
+        "zh": "472–500 萬（40% 檔）",
+        "en": "NT$4,720,000–5,000,000 (40%)"
+      },
+      "households": 8798,
+      "householdSharePct": 0.1,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 51924469,
+      "netIncomeThousand": 42708779,
+      "taxThousand": 7923139
+    },
+    {
+      "id": "40pct-500-1000",
+      "netIncomeBandWan": "500-1000",
+      "statutoryRatePct": 40,
+      "label": {
+        "zh": "500–1000 萬（40% 檔）",
+        "en": "NT$5,000,000–10,000,000 (40%)"
+      },
+      "households": 51371,
+      "householdSharePct": 0.7,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 398896140,
+      "netIncomeThousand": 340134505,
+      "taxThousand": 74819578
+    },
+    {
+      "id": "40pct-1000plus",
+      "netIncomeBandWan": "1000+",
+      "statutoryRatePct": 40,
+      "label": {
+        "zh": "1000 萬以上（40% 檔）",
+        "en": "NT$10,000,000 and above (40%)"
+      },
+      "households": 12598,
+      "householdSharePct": 0.2,
+      "householdSharePctDerived": true,
+      "grossIncomeThousand": 265002769,
+      "netIncomeThousand": 244182463,
+      "taxThousand": 80552392
+    }
+  ],
+  "totals": {
+    "households": 6880883,
+    "grossIncomeThousand": 6136352504,
+    "netIncomeThousand": 3014521819,
+    "taxThousand": 379160242,
+    "averageTaxRatePct": 12.58,
+    "effectiveTaxRatePct": 6.18,
+    "averageAndEffectiveRateSource": "專冊原表合計列（官方值）"
+  },
+  "rate40PlusHouseholds": 72767,
+  "rate40PlusSharePct": 1.1,
+  "rate40PlusDerived": true,
+  "incomeComposition": {
+    "taxYear": 112,
+    "unit": "% of 各類所得合計（表 17-2 合計列；合計為綜合所得總額加計分開計稅之股利所得）",
+    "salaryPct": 66.48,
+    "dividendPct": 17.42,
+    "businessProfitPct": 2.38,
+    "professionalPct": 2.5,
+    "interestPct": 5.8,
+    "rentRoyaltyPct": 2.37,
+    "propertyTransactionPct": 0.28,
+    "lotteryPct": 0.15,
+    "retirementPct": 0.16,
+    "otherPct": 1.92,
+    "manuscriptPct": 0.02,
+    "reportedExceedsAttributedPct": 0.51,
+    "totalIncomeThousand": 6500557990,
+    "salaryIncomeThousand": 4321291446,
+    "dividendIncomeThousand": 1132077474,
+    "source": "專冊表 17-2、16-2 合計列"
+  },
+  "officialRatios": {
+    "taxYear": 110,
+    "zeroNetIncomeHouseholdsApprox": 3050000,
+    "zeroNetIncomeSharePct": 47,
+    "top40HouseholdSharePct": 0.85,
+    "top40TaxShareOfPayablePct": 45.5,
+    "netIncomeThresholdWan": 453,
+    "quote": "110年度有305萬申報戶（約占全部申報戶47%）因減除免稅額及各項扣除額（或考量基本生活費不得加以課稅）後之所得淨額為零而毋須繳稅，而所得淨額超過453萬元（適用最高稅率40%）之高所得申報戶占全部申報戶0.85%，繳納45.5%應納稅額",
+    "source": "財政部澄清稿（頁面發布 2023-10-31）",
+    "note": "官方直接給的比率，110 年度；與 112 年度表 6-2 的自算比率年度不同。"
+  },
+  "preliminary": {
+    "113": {
+      "filings": 6976278,
+      "netTaxRevenueBillion": 2708.37,
+      "publishedDate": "2025-07-01",
+      "note": "賦稅署初步統計。單位 billion＝億元。"
+    },
+    "114": {
+      "filings": 7052870,
+      "filingsPrevYear": 6982963,
+      "filingsGrowthPct": 1,
+      "selfPayTaxBillion": 3852,
+      "minimumTaxIncludedBillion": 182,
+      "refundBillion": 635,
+      "netTaxRevenueBillion": 3217,
+      "netTaxRevenuePrevYearBillion": 2730,
+      "netTaxRevenueGrowthPct": 17.83,
+      "publishedDate": "2026-06-02",
+      "note": "賦稅署初步統計；申報資料尚在統整中，以最終統計為準。單位 billion＝億元。稅收淨額增加推估係因股利所得及薪資所得增加所致（官方推估）。"
+    }
+  }
+}

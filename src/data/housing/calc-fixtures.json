@@ -1,0 +1,219 @@
+{
+  "$comment": "房貸試算核心的公開對照值。每筆附官方或銀行公開出處；tests/housing-mortgage.test.mjs 逐筆驗算。更新時同步改 asOf 與 sourceUrl。",
+  "asOf": "2026-11-10",
+  "affordabilityBands": [
+    {
+      "key": "affordable",
+      "max": 30
+    },
+    {
+      "key": "slightlyLow",
+      "max": 40
+    },
+    {
+      "key": "low",
+      "max": 50
+    },
+    {
+      "key": "veryLow",
+      "max": null
+    }
+  ],
+  "affordabilityBandsSource": {
+    "agency": "內政部不動產資訊平台",
+    "title": "111 年第 4 季房價負擔能力統計發布內容（備註 1）",
+    "url": "https://pip.moi.gov.tw/Upload/CustomFile/Doc/111Q4負擔能力發布內容(平台).pdf"
+  },
+  "officialAffordability": {
+    "period": "115Q1",
+    "periodCe": "2026Q1",
+    "definition": "二十年期本利均等攤還、貸款成數七成，月攤還額除以中位數月家戶可支配所得",
+    "years": 20,
+    "ltv": 0.7,
+    "annualRatePct": 2.318,
+    "nation": {
+      "medianPrice": 9660000,
+      "medianHouseholdIncome": 1019700,
+      "burdenPct": 41.46,
+      "priceToIncome": 9.47
+    },
+    "tolerancePct": 0.03,
+    "note": "官方表缺連江縣；澎湖縣、金門縣實價登錄樣本少於 100 筆（原文備註）",
+    "sourceTitle": "115 年第 1 季房價負擔能力指標統計成果",
+    "sourceUrl": "https://pip.moi.gov.tw/Upload/CustomFile/Doc/115Q1房價負擔能力指標統計成果.pdf",
+    "rows": [
+      {
+        "name": "全國",
+        "burdenPct": 41.46,
+        "priceToIncome": 9.47,
+        "smallSample": false
+      },
+      {
+        "name": "新北市",
+        "burdenPct": 55.3,
+        "priceToIncome": 12.63,
+        "smallSample": false
+      },
+      {
+        "name": "臺北市",
+        "burdenPct": 64.41,
+        "priceToIncome": 14.72,
+        "smallSample": false
+      },
+      {
+        "name": "桃園市",
+        "burdenPct": 36.89,
+        "priceToIncome": 8.43,
+        "smallSample": false
+      },
+      {
+        "name": "臺中市",
+        "burdenPct": 49.67,
+        "priceToIncome": 11.35,
+        "smallSample": false
+      },
+      {
+        "name": "臺南市",
+        "burdenPct": 38.33,
+        "priceToIncome": 8.76,
+        "smallSample": false
+      },
+      {
+        "name": "高雄市",
+        "burdenPct": 40.9,
+        "priceToIncome": 9.35,
+        "smallSample": false
+      },
+      {
+        "name": "宜蘭縣",
+        "burdenPct": 32.09,
+        "priceToIncome": 7.33,
+        "smallSample": false
+      },
+      {
+        "name": "新竹縣",
+        "burdenPct": 40.31,
+        "priceToIncome": 9.21,
+        "smallSample": false
+      },
+      {
+        "name": "苗栗縣",
+        "burdenPct": 33.46,
+        "priceToIncome": 7.64,
+        "smallSample": false
+      },
+      {
+        "name": "彰化縣",
+        "burdenPct": 36.01,
+        "priceToIncome": 8.23,
+        "smallSample": false
+      },
+      {
+        "name": "南投縣",
+        "burdenPct": 37.08,
+        "priceToIncome": 8.47,
+        "smallSample": false
+      },
+      {
+        "name": "雲林縣",
+        "burdenPct": 31.36,
+        "priceToIncome": 7.17,
+        "smallSample": false
+      },
+      {
+        "name": "嘉義縣",
+        "burdenPct": 29.21,
+        "priceToIncome": 6.67,
+        "smallSample": false
+      },
+      {
+        "name": "屏東縣",
+        "burdenPct": 30.98,
+        "priceToIncome": 7.08,
+        "smallSample": false
+      },
+      {
+        "name": "臺東縣",
+        "burdenPct": 35.66,
+        "priceToIncome": 8.15,
+        "smallSample": false
+      },
+      {
+        "name": "花蓮縣",
+        "burdenPct": 36.38,
+        "priceToIncome": 8.31,
+        "smallSample": false
+      },
+      {
+        "name": "澎湖縣",
+        "burdenPct": 35.22,
+        "priceToIncome": 8.05,
+        "smallSample": true
+      },
+      {
+        "name": "基隆市",
+        "burdenPct": 24.93,
+        "priceToIncome": 5.7,
+        "smallSample": false
+      },
+      {
+        "name": "新竹市",
+        "burdenPct": 36.88,
+        "priceToIncome": 8.43,
+        "smallSample": false
+      },
+      {
+        "name": "嘉義市",
+        "burdenPct": 32.85,
+        "priceToIncome": 7.51,
+        "smallSample": false
+      },
+      {
+        "name": "金門縣",
+        "burdenPct": 36.68,
+        "priceToIncome": 8.38,
+        "smallSample": true
+      }
+    ]
+  },
+  "aprCases": [
+    {
+      "id": "tcb-qingan-apr",
+      "bank": "合作金庫商業銀行",
+      "input": {
+        "principal": 2000000,
+        "years": 20,
+        "stages": [
+          {
+            "months": 240,
+            "annualRatePct": 2.275
+          }
+        ]
+      },
+      "fees": 5300,
+      "expectAprPct": 2.3,
+      "tolerance": 0.005,
+      "quote": "貸款金額：新臺幣200萬元，貸款期間20年，各項相關費用總金額：5,300元起…一段式機動利率之總費用年百分率＝2.30%起",
+      "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/loan/mortgage/policy-loan-01"
+    },
+    {
+      "id": "mega-qingan-apr",
+      "bank": "兆豐國際商業銀行",
+      "input": {
+        "principal": 2000000,
+        "years": 20,
+        "stages": [
+          {
+            "months": 240,
+            "annualRatePct": 2.275
+          }
+        ]
+      },
+      "fees": 5300,
+      "expectAprPct": 2.3,
+      "tolerance": 0.05,
+      "quote": "一段式機動利率之總費用年百分率為2.3%起",
+      "sourceUrl": "https://www.megabank.com.tw/personal/loan/policy-mortgage/youth-housing-grant"
+    }
+  ]
+}

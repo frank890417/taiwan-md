@@ -9,6 +9,8 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: incubating
+curationReason: unverified
 ---
 
 # 台灣官方網站資源大全 🏛️

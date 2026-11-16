@@ -1,0 +1,77 @@
+---
+/**
+ * QinganTimeline：5.5 歷次調整時間線（qingan.json 的 timeline）。
+ * 每筆附來源；`source`（指到 sources 表）與 `sourceUrl`（直接給網址，機關名由主機名對照）兩種寫法都處理。
+ * 資料檔的事件文字只有中文，英文版用 EN_DATA.timeline（以日期為鍵）。
+ */
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { DATA, agencyName, fmtPeriod } from '../../../utils/housing/data';
+import {
+  isZh,
+  qinganTlSource,
+  qinganTlText,
+} from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.tl;
+const tl = (DATA.qingan as any).timeline as any[];
+const items = tl.map((e) => ({
+  date: e.date,
+  text: qinganTlText(e, lang),
+  src: qinganTlSource(e, lang),
+}));
+---
+
+<section class="hs-section" id="timeline">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">
+      {
+        fill(S.h2, {
+          first: fmtPeriod(tl[0].date, lang),
+          last: fmtPeriod(tl[tl.length - 1].date, lang),
+        })
+      }
+    </h2>
+    <p class="hs-lede2">{fill(S.intro, { n: tl.length })}</p>
+    <ol class="hs-tl-list hs-qtl">
+      {
+        items.map((e) => (
+          <li class="hs-tl-ev">
+            <time class="hs-tl-date" datetime={e.date}>
+              {fmtPeriod(e.date, lang)}
+            </time>
+            <div class="hs-tl-main">
+              <p class="hs-tl-body">{e.text}</p>
+              {e.src && (
+                <p class="hs-tl-src">
+                  <a
+                    href={e.src.url}
+                    target="_blank"
+                    rel="noopener"
+                    class="no-external-icon"
+                    title={e.src.title || undefined}
+                  >
+                    {S.more}
+                    {isZh(lang) ? '：' : ': '}
+                    {e.src.fromHost
+                      ? e.src.agency
+                      : agencyName(e.src.agency, lang)}
+                    <span class="hs-tag">
+                      {e.src.kind === 'primary' ? T.ui.primary : T.ui.reported}
+                    </span>
+                  </a>
+                </p>
+              )}
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</section>

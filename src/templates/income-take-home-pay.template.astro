@@ -1,0 +1,20 @@
+---
+/**
+ * /income/take-home-pay/ 單獨工具頁（13 語共用）。版型由地基的 ToolPage 提供，
+ * 文案在 src/i18n/income/，計算在 src/utils/income/。
+ */
+import IncomeToolPage from '../components/income/IncomeToolPage.astro';
+import TakeHomePayCalculator from '../components/income/tools/TakeHomePayCalculator.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<IncomeToolPage
+  lang={lang}
+  slug="take-home-pay"
+  ns="takehome"
+  embedHeight={820}
+>
+  <TakeHomePayCalculator lang={lang} variant="page" />
+</IncomeToolPage>

@@ -10,6 +10,8 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: incubating
+curationReason: unverified
 ---
 
 > 你家巷口那間內科診所，醫生花 25 秒就完成了過去要 20 分鐘的糖尿病風險評估。全家店員按三分鐘就搞定以前要十五分鐘的鮮食訂購。你在 LINE 上問的客服問題，回你的不是人。台灣人每天跟 AI 互動十幾次，但幾乎沒有人意識到這件事。

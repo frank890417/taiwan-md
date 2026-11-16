@@ -266,6 +266,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          # 2026-11-10：部署包同步常貼著預設 10 分鐘上限逾時（當天 12:59、14:41、15:04 連三次）。
+          # 站體大是根因，另案處理；這裡先把等待上限放寬到 30 分鐘，讓部署走得完。
+          timeout: 1800000
 
   # 2026-09-04 (#1666)：站上是不是空白頁，只有站上答得出來。
   # Layout.astro 把整頁的 visibility 綁在字型事件上；那道閘門曾經一個逾時

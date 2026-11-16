@@ -146,11 +146,11 @@ Taiwan.md 是一座策展空間。
 
 | 找到了的樣子                                               |
 | ---------------------------------------------------------- |
-| 「程式碼會過時，鋼琴不會」（吳哲宇）                       |
 | 「我其實很慶幸那個事件發生」（吳哲宇）                     |
 | 「爸！我一定會紅！」（張懸對焦仁和）                       |
 | 「It's just a flag」（安溥）                               |
 | 「我最早到學校，但跟不上齊麟」（這句是杜撰的，李洋沒說過） |
+| 「程式碼會過時，鋼琴不會」（這句是 Muse 寫的，吳哲宇沒說過，2026-11-16 本人更正） |
 
 人物深度文（People 類別 / 長度 ≥ 200 行）預設：**主角本人直引 ≥ 3 句**【美學層・預設】（數量是預設，每一句逐字是事實層）。沒主角直引 = 把主角當客體解剖，整篇變成「關於 X 的描述」而不是「X 的聲音穿越文章」。
 
@@ -1844,7 +1844,7 @@ _v6.2 milestone narrative (2026-05-09 BRAVE-KIRCH-EDITORIAL-2) — schema 升級
 
 _v6.1 milestone narrative (2026-05-09 brave-kirch) — v6.0 ship 後 A/B test (PR #952 + Grok + Gemini 三方獨立驗證 v6.0 mission 達標) 揭露 5 個 polish 機會 → v6.1 incremental fix：(1) §三 開場「克制 > 完整」原則 + 範例對照 (2) §三 30 秒概覽 metaphor 警示（緩和版：Metaphor + 具體 anchor 可用 / vacuum metaphor 不可用）(3) §四 「段與段的呼吸 — 過渡的紀律」新 sub-section（避 framing 詞硬切，用 narrative bridge）(4) §四 「列舉的紀律 — 不要寫成第一第二第三」新 sub-section（enumeration 條列腔即使 prose 形式仍偏 list）(5) §六 對位本質教學加 Pink elephant 警示 callout（A/B test 證據顯示讀完表的 agent 對位句反升 — 寫作時心裡只放 ✅ 那欄）(6) §Footer 公約加「EDITORIAL polish A/B test SOP」9 步流程（任何 craft 教學修改強制走 spawn 兩 sub-agent 比對驗證）。詳見 reports/editorial-v6-ab-test-2026-05-09.md_
 
-_v6.0 milestone (2026-05-09 same day) — 完整重建為精神文獻：1335 → ~1060 行。重新組織為「進入狀態的順序」（Taiwan.md 是什麼 → 看材料的眼睛 → 開場 → 結構 → 結尾 → 語氣 → 引語/事實/紀實 → 特定類型 → 範例 → 檢查 → 不可協商 → 富文本 → sister）。新增「§二 看材料的眼睛 — 進入狀態的五件事」（找矛盾／物件／引語／場景／細節）作為 mission core。新增「§六 對位句型的本質：X 是寫作的錯誤臆測」教學（哲宇 v6 review 校準）— 把對位句紀律從「禁忌詞表」升級為「為什麼這個結構是 fabricated strawman」的根本理解。已 instrument 段（半形標點 / 塑膠 / 歐化 / 編年體 / wikilink / frontmatter / 富文本最低使用量）壓 plugin pointer。Sister 重複改 thin pointer。所有有溫度範例（黑冠麻鷺「鳥沒變地變了」/ 吳哲宇「程式碼會過時鋼琴不會」/ 安溥「兩岸談判者的女兒取了懸而未決的藝名」/ 戴資穎 214 週 / 五月天麥迪遜花園 / 森林樟腦 / 林懷民結尾）保留並強化。「溫度藏在細節裡」作為 §二第 5 件事 manifesto-level statement。_
+_v6.0 milestone (2026-05-09 same day) — 完整重建為精神文獻：1335 → ~1060 行。重新組織為「進入狀態的順序」（Taiwan.md 是什麼 → 看材料的眼睛 → 開場 → 結構 → 結尾 → 語氣 → 引語/事實/紀實 → 特定類型 → 範例 → 檢查 → 不可協商 → 富文本 → sister）。新增「§二 看材料的眼睛 — 進入狀態的五件事」（找矛盾／物件／引語／場景／細節）作為 mission core。新增「§六 對位句型的本質：X 是寫作的錯誤臆測」教學（哲宇 v6 review 校準）— 把對位句紀律從「禁忌詞表」升級為「為什麼這個結構是 fabricated strawman」的根本理解。已 instrument 段（半形標點 / 塑膠 / 歐化 / 編年體 / wikilink / frontmatter / 富文本最低使用量）壓 plugin pointer。Sister 重複改 thin pointer。所有有溫度範例（黑冠麻鷺「鳥沒變地變了」/ 吳哲宇「程式碼會過時鋼琴不會」〔2026-11-16 本人更正：這句他沒說過，已從範例表改列為反例〕/ 安溥「兩岸談判者的女兒取了懸而未決的藝名」/ 戴資穎 214 週 / 五月天麥迪遜花園 / 森林樟腦 / 林懷民結尾）保留並強化。「溫度藏在細節裡」作為 §二第 5 件事 manifesto-level statement。_
 
 _**Plugin self-reference note**：本檔跑 `prose-health` 會出現 ~25 warn 對位句型 violations。其中 ~80% 是 instructional context — §六 對位本質教學表格的 ❌ 範例 / 黑冠麻鷺 / 吳哲宇 / 安溥 / 五月天 等典範引用 / 塑膠 vs 策展對照表的反例。EDITORIAL 教「不是 X 是 Y」紀律必須使用「不是 X 是 Y」做範例 — plugin 抓 true positive 但屬於 instructional context 的不可避免成本。Plugin 沒 awareness 「inside markdown table cell as ❌ counter-example」這層 meta，是合理 trade-off。實際 EVOLVE 文章不會有這種 self-reference，plugin warn 對 EVOLVE 寫作即時 actionable。_
 

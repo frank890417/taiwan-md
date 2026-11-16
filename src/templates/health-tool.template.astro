@@ -1,0 +1,141 @@
+---
+/**
+ * health-tool.template.astro — /health/<tool-slug>/ 工具單獨頁（三個工具共用的薄殼）。
+ *
+ * 版型、結構化資料、嵌入程式碼區塊都交給共用的 ToolPage（專題共用契約 v1 §4(b)）；
+ * 這支只負責把文案（src/i18n/health/toolpages.ts）裡的 {佔位} 用規則檔的數字代入，
+ * 以及把對的工具元件放進 ToolFrame。
+ */
+import '../styles/budget.css';
+import '../styles/health.css';
+import ToolPage from '../components/tools/ToolPage.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import LtcSubsidy from '../components/health/tools/LtcSubsidy.astro';
+import LtcEligibility from '../components/health/tools/LtcEligibility.astro';
+import NhiPremium from '../components/health/tools/NhiPremium.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useHealthT } from '../i18n/health';
+import { toolPages } from '../i18n/health/toolpages';
+import { toolVars, fillVars } from '../utils/health/toolVars';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+import ltc from '../data/health/ltc-rules.json';
+import nhi from '../data/health/nhi-rules.json';
+
+interface Props {
+  slug:
+    | 'long-term-care-subsidy'
+    | 'long-term-care-eligibility'
+    | 'nhi-premium-calculator';
+}
+const { slug } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const zh = lang === 'zh-TW';
+const t = useHealthT(lang);
+const copy = toolPages[slug][zh ? 'zh' : 'en'];
+const vars = toolVars(slug);
+const f = (s: string) => fillVars(s, vars);
+
+const topic = getTopic('health')!;
+const tool = topic.tools.find((x) => x.slug === slug)!;
+const isNhi = slug === 'nhi-premium-calculator';
+const rulesSrc = (isNhi ? nhi.sources : ltc.sources) as Record<
+  string,
+  { title: string; url: string; date: string }
+>;
+const figures = isNhi
+  ? (nhi as any).figures
+  : slug === 'long-term-care-eligibility'
+    ? [
+        {
+          zh: '給付對象與長照需要等級',
+          en: 'Eligible groups and care needs levels',
+          sources: ['law', 'amend', 'apply'],
+        },
+      ]
+    : (ltc as any).figures;
+const related = [
+  ...topic.tools
+    .filter((x) => x.slug !== slug)
+    .map((x) => ({
+      href: localizePath(x.path, lang),
+      label: pickText(x.title, lang),
+    })),
+  {
+    href: localizePath('/health/advance-care-planning/', lang),
+    label: t('tool.advance-care-planning.t'),
+  },
+];
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={{
+    ...tool,
+    title: f(copy.h1),
+    applicationCategory: 'FinanceApplication',
+  }}
+  metaTitle={f(copy.title)}
+  metaDescription={f(copy.description)}
+  faq={copy.faq.map((q) => ({ q: f(q.q), a: f(q.a) }))}
+  related={related}
+  updated={String(vars.asOf)}
+  embedPath={tool.embedPath}
+  headings={{ reading: copy.readH, method: copy.formulaH, faq: copy.faqH }}
+>
+  <ToolFrame
+    title={t(`tool.${slug}.t`)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    {
+      slug === 'long-term-care-subsidy' && (
+        <LtcSubsidy lang={lang} variant="page" />
+      )
+    }
+    {
+      slug === 'long-term-care-eligibility' && (
+        <LtcEligibility lang={lang} variant="page" />
+      )
+    }
+    {
+      slug === 'nhi-premium-calculator' && (
+        <NhiPremium lang={lang} variant="page" />
+      )
+    }
+    <p slot="disclaimer">
+      <b>{t('tool.disclaimer.h')}</b>：{t('tool.disclaimer.p')}
+    </p>
+  </ToolFrame>
+  <Fragment slot="reading">
+    <p>{f(copy.lead)}</p>
+    {copy.read.map((p) => <p>{f(p)}</p>)}
+  </Fragment>
+  <Fragment slot="method">
+    <ul>{copy.formula.map((p) => <li>{f(p)}</li>)}</ul>
+  </Fragment>
+  <Fragment slot="sources">
+    <ul>
+      {
+        figures.map((fg: any) => (
+          <li>
+            {zh ? fg.zh : fg.en}：
+            {fg.sources.map((k: string, i: number) => (
+              <>
+                {i > 0 && '、'}
+                <a href={rulesSrc[k].url} target="_blank" rel="noopener">
+                  {rulesSrc[k].title}
+                </a>
+                （{rulesSrc[k].date}）
+              </>
+            ))}
+          </li>
+        ))
+      }
+    </ul>
+    {isNhi && zh && <p>{(nhi as any).verifiedNote}</p>}
+    <p>{t('asof')}{vars.asOf}</p>
+  </Fragment>
+  <p slot="disclaimer">{t('tool.disclaimer.p')}</p>
+</ToolPage>
