@@ -324,9 +324,9 @@ lifeTree:
           note: '中間路徑：自己彈、給朋友聽，不上傳。但「讓陌生人聽」這個邊界沒被跨過，二十年的沉默就還在那裡。'
       sources: ['^34', '^36']
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ac5cbabad7f0e8a5'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-09-23T21:53:43.203898+00:00'
 ---
 

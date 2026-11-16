@@ -24,9 +24,9 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 featured: true
 translatedFrom: People/吳哲宇.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-06-12T16:39:07Z'
 ---
 
