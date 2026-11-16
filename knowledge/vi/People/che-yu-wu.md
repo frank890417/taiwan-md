@@ -245,8 +245,6 @@ Hai mươi năm sau, Spotify xuất hiện tên anh. Sáu bài đàn piano: Blue
 
 Anh không tái "học" đàn piano. Những ấy một lúc ở trong cơ thể, chỉ bị bụi phủ hai mươi năm. Khi anh tái ngồi trước phím, ngón tay nhớ không phải kỹ năng, là cậu bé sáu tuổi bắt đầu chạm nốt nhạc ấy.
 
-**Code sẽ lỗi thời, đàn piano sẽ không.**
-
 2025 năm 6 tháng, không gian bao quanh Hoa Sơn Công Viên Sáng Tạo, "Thơ Thuật Toán: Ranh Giới Giữa Giấc Mơ Và Cô Độc" khai diễn. Anh ngồi trước đàn piano, code nở hoa phía sau[^36].
 
 Anh thiết kế hệ thống qui tắc toàn bộ. Nhưng bấm phím khoảnh ấy, anh đã không ở "kiểm soát", mà **đối thoại với cơ cấu**.

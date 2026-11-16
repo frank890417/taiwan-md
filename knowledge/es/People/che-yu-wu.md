@@ -240,8 +240,6 @@ Veinte años después, su nombre apareció en Spotify. Seis piezas para piano: _
 
 No volvió a «aprender» piano. Esas cosas siempre estuvieron en su cuerpo, solo cubiertas de polvo durante veinte años. Cuando volvió a sentarse ante las teclas, lo que sus dedos recordaban no era la técnica, sino el niño que empezó a tocar las notas a los seis años.
 
-**El código queda obsoleto; el piano no.**
-
 En junio de 2025, en el espacio inmersivo del parque cultural Huashan, se estrenó _Poesía Algorítmica: El frontera entre sueños y soledad_. Él se sentó frente al piano; el código floreció a su espalda[^36].
 
 Él diseñó todo este conjunto de reglas. Pero en el momento de pulsar la tecla, ya no estaba «controlando», sino **dialogando con el mecanismo**.

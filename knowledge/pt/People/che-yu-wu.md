@@ -239,8 +239,6 @@ Vinte anos depois, o nome dele apareceu no Spotify. Seis peças para piano: _Blu
 
 Ele não "reaprendeu" piano. Essas coisas sempre estiveram no corpo, apenas cobertas por vinte anos de poeira. Quando se sentou novamente às teclas, os dedos lembravam não a técnica, mas a criança que aos seis anos começou a tocar notas.
 
-**O código envelhece, o piano não**.
-
 Junho de 2025, no espaço imersivo do Parque Cultural e Criativo de Huashan (華山文創園區), estreou _Poemas Algorítmicos: Fronteira entre Sonhos e Solidão_. Ele sentou-se ao piano, o código florescia atrás dele[^36].
 
 Ele desenhou todo o conjunto de regras. Mas no momento em que premia a tecla, já não está a "controlar", mas **em diálogo com o mecanismo**.

@@ -240,8 +240,6 @@ Vingt ans plus tard, son nom apparaît sur Spotify. Six morceaux de piano : _Blu
 
 Il n'a pas « réappris » le piano. Ces choses étaient toujours dans son corps, juste recouvertes de poussière pendant vingt ans. Lorsqu'il se rassoit devant les touches, ce que ses doigts se souviennent, ce n'est pas la technique, c'est l'enfant de six ans qui a commencé à toucher les notes.
 
-**Le code devient obsolète, le piano non.**
-
 En juin 2025, dans l'espace immersif du Huashan Creative Park, _Algorithmic Poetics : Boundary of Dreams and Solitude_ est joué. Il est assis devant le piano, le code fleurit derrière lui[^36].
 
 Il a conçu tout cet ensemble de règles. Mais au moment où il appuie sur une touche, il n'est plus en train de « contrôler » — il est en **dialogue avec le mécanisme**.

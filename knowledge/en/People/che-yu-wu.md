@@ -240,8 +240,6 @@ Twenty years later, his name appeared on Spotify. Six piano pieces: _Blue Horizo
 
 He didn't re-learn the piano. Those things had always been in his body, just covered in dust for twenty years. When he sat back down at the keys, what his fingers remembered wasn't technique — it was the six-year-old who first touched the notes.
 
-**Code becomes obsolete. The piano doesn't.**
-
 In June 2025, in the immersive space of Huashan 1914 Creative Park, _Algorithmic Poetry: The Boundary of Dreams and Solitude_ premiered. He sat at the piano; code bloomed behind him[^36].
 
 He designed the entire set of rules. But the moment he pressed a key, he was no longer "controlling" — he was **in dialogue with the mechanism**.

@@ -314,11 +314,11 @@ lifeTree:
       scene: '小六鋼琴被收起來準備國中基測。中間口琴社、交大鋼琴社社長都有碰，但「用鋼琴寫歌、發到平台、讓陌生人聽」這件事，等了二十年'
       chose:
         label: 'Spotify 上發行 6 首鋼琴曲 + 即時演奏會'
-        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。「程式碼會過時，鋼琴不會。」華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
+        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
       alternatives:
         - label: '永遠不重啟音樂'
           plausibility: 'structural'
-          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，「程式碼會過時鋼琴不會」這個觀察不會被身體驗證，也不會出現在三十歲後的作品論述裡。'
+          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，鋼琴不會回到三十歲後的作品論述裡。'
         - label: '只在私人空間彈不發行'
           plausibility: 'structural'
           note: '中間路徑：自己彈、給朋友聽，不上傳。但「讓陌生人聽」這個邊界沒被跨過，二十年的沉默就還在那裡。'
@@ -537,8 +537,6 @@ Ia tidak sepenuhnya menjauhi musik di masa remaja. Di SMA, ia tergabung dalam kl
 Dua puluh tahun kemudian, namanya muncul di Spotify. Enam komposisi piano: _Blue Horizon_, _Stars_, _StarTrack_, _The Other Shore of Dreams_, _The Bull and the Sudden Rain_, dan _Summer Migration_[^34].
 
 Ia tidak "belajar" piano lagi. Hal-hal itu selalu ada di dalam dirinya, hanya saja tertutup debu selama dua puluh tahun. Ketika ia kembali duduk di depan tuts, jari-jarinya mengingat bukan teknik, melainkan anak kecil yang menyentuh nada sejak usia enam tahun.
-
-**Kode akan usang, tetapi piano tidak.**
 
 Pada Juni 2025, di ruang imersif WaShan Creative Park, pertunjukan _Ode Komputasi: Batas Mimpi dan Kesepian_ dibuka[^36]. Ia duduk di depan piano, sementara kode mekar di belakangnya.
 

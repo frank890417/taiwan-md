@@ -314,11 +314,11 @@ lifeTree:
       scene: '小六鋼琴被收起來準備國中基測。中間口琴社、交大鋼琴社社長都有碰，但「用鋼琴寫歌、發到平台、讓陌生人聽」這件事，等了二十年'
       chose:
         label: 'Spotify 上發行 6 首鋼琴曲 + 即時演奏會'
-        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。「程式碼會過時，鋼琴不會。」華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
+        consequence: 'Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration。華山《演算詩篇》他坐鋼琴前、程式碼在身後開花。'
       alternatives:
         - label: '永遠不重啟音樂'
           plausibility: 'structural'
-          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，「程式碼會過時鋼琴不會」這個觀察不會被身體驗證，也不會出現在三十歲後的作品論述裡。'
+          note: '同代多數放棄樂器的人就是放棄了。重新拾起需要主動決定 + 公開承諾（發到 Spotify）。如果不重啟，鋼琴不會回到三十歲後的作品論述裡。'
         - label: '只在私人空間彈不發行'
           plausibility: 'structural'
           note: '中間路徑：自己彈、給朋友聽，不上傳。但「讓陌生人聽」這個邊界沒被跨過，二十年的沉默就還在那裡。'
@@ -537,8 +537,6 @@ NFT जारी करने वाले माध्यमों में �
 बीस साल बाद, Spotify पर उसका नाम दिखाई दिया। छह पियानो वादन: Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration[^34]।
 
 उसने पियानो "दोबारा सीखा" नहीं। वे चीज़ें हमेशा शरीर में थीं, बस बीस साल से धूल ढकी थी। जब वह फिर से कुंजियों के सामने बैठा, उंगलियों को याद था तकनीक नहीं, बल्कि वह छह साल का बच्चा जिसने नोटों को छूना शुरू किया था।
-
-**कोड पुराना पड़ जाता है, पियानो नहीं**।
 
 जून 2025 में, हुआशान क्रिएटिव पार्क के इमर्सिव स्पेस में, 《演算詩篇：夢境與孤寂的邊界》 का प्रदर्शन शुरू हुआ। वह पियानो के सामने बैठा, कोड उसकी पीठ के पीछे खिल उठा[^36]।
 
