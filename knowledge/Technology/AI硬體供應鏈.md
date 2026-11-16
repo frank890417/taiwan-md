@@ -27,6 +27,8 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: incubating
+curationReason: unverified
 ---
 
 # AI 硬體供應鏈：台灣把雲端變成機器的地方
