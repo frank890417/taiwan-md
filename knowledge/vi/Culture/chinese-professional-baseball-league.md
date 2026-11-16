@@ -3,14 +3,7 @@ title: 'CPBL: ba mươi bảy năm, một giải đấu suýt chết hai lần r
 description: 'Ngày 26 tháng 10 năm 2026, Wei Chuan Dragons đóng kín 6:0 trước CTBC Brothers ở trận 6 tại Mái vòm Đài Bắc, giành chức vô địch thứ 6 trong lịch sử đội. Bài viết lội ngược từ trận đăng quang đó, qua đại hội thành lập năm 1989, cú ném bóng đầu tiên năm 1990, Wei Chuan giải thể năm 1999, hai lần cận kề tan rã vì vụ Gạo Đen (2008) và Voi Đen (2009), cho đến quy mô sáu đội và lượng khán giả trung bình mùa giải vượt mốc một vạn người vào năm 2025. Trong ba mươi bảy năm, giải đấu này đã hai lần suýt biến mất.'
 date: 2026-11-02
 category: 'Culture'
-tags:
-  [
-    'CPBL',
-    'Bóng chày',
-    'Taiwan Series',
-    'Mái vòm Đài Bắc',
-    'Bê bối bán độ',
-  ]
+tags: ['CPBL', 'Bóng chày', 'Taiwan Series', 'Mái vòm Đài Bắc', 'Bê bối bán độ']
 subcategory: '運動文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -38,9 +31,9 @@ translatedAt: '2026-11-10T02:22:39+08:00'
 
 ## Ngày 26 tháng 10, đầu hiệp chín
 
-Đầu hiệp chín, đã có hai người out, Lin Kai-wei khiến Chen Chun-hsiu đánh ra một cú *ground ball* (bóng chạm đất trong sân). Đúng khoảnh khắc cầu thủ giữ base một nhận được bóng và chạm chân lên bệ, ba vạn tám nghìn một trăm bảy mươi tám người trong Mái vòm Đài Bắc đồng loạt tung dải băng đỏ xuống sân. Wei Chuan Dragons đã đóng kín 6:0 trước CTBC Brothers ở trận thứ 6 của Taiwan Series, thắng loạt trận với tỷ số 4-2, giành chức vô địch thứ 6 trong lịch sử đội, cũng là chức vô địch thứ 2 kể từ khi đội tái lập năm 2019.[^32]
+Đầu hiệp chín, đã có hai người out, Lin Kai-wei khiến Chen Chun-hsiu đánh ra một cú _ground ball_ (bóng chạm đất trong sân). Đúng khoảnh khắc cầu thủ giữ base một nhận được bóng và chạm chân lên bệ, ba vạn tám nghìn một trăm bảy mươi tám người trong Mái vòm Đài Bắc đồng loạt tung dải băng đỏ xuống sân. Wei Chuan Dragons đã đóng kín 6:0 trước CTBC Brothers ở trận thứ 6 của Taiwan Series, thắng loạt trận với tỷ số 4-2, giành chức vô địch thứ 6 trong lịch sử đội, cũng là chức vô địch thứ 2 kể từ khi đội tái lập năm 2019.[^32]
 
-Pitcher khởi đầu Cristopher Mercedes loại liên tiếp 10 lượt đánh đầu tiên, phải đến hiệp 6 mới bị đối phương đánh ra cú hit đầu tiên; anh ném 100 quả trọn 8 hiệp, chỉ để lọt 2 cú hit mà không để mất điểm nào, ném loại 6 lượt đánh bằng *strikeout*, và sau trận được trao cả MVP Taiwan Series lẫn MVP trận thứ 6. Hàng công Wei Chuan mở điểm trước nhờ cú đánh an toàn đúng lúc của Chang Cheng-yu ở cuối hiệp 3, rồi ở cuối hiệp 8 dồn thêm 5 điểm bằng 4 cú hit liên tiếp cộng với cú *home run* hai điểm của Chiang Shao-hung.[^32]
+Pitcher khởi đầu Cristopher Mercedes loại liên tiếp 10 lượt đánh đầu tiên, phải đến hiệp 6 mới bị đối phương đánh ra cú hit đầu tiên; anh ném 100 quả trọn 8 hiệp, chỉ để lọt 2 cú hit mà không để mất điểm nào, ném loại 6 lượt đánh bằng _strikeout_, và sau trận được trao cả MVP Taiwan Series lẫn MVP trận thứ 6. Hàng công Wei Chuan mở điểm trước nhờ cú đánh an toàn đúng lúc của Chang Cheng-yu ở cuối hiệp 3, rồi ở cuối hiệp 8 dồn thêm 5 điểm bằng 4 cú hit liên tiếp cộng với cú _home run_ hai điểm của Chiang Shao-hung.[^32]
 
 Loạt trận này ban đầu Wei Chuan dẫn 3-0, bị CTBC Brothers gỡ lại thành 3-2, giữa chừng còn phải hoãn hai ngày vì bão. Lần gần nhất Wei Chuan Dragons đăng quang là năm 2023; trước đó phải lùi về bốn chức vô địch từ 1990 đến 1999 — và ngay sau bốn chức vô địch đó, đội tuyên bố giải thể.[^32]
 
@@ -54,6 +47,7 @@ Sáu dấu mốc trong ba mươi bảy năm của CPBL
 2026 | Chức vô địch thứ 6 trong lịch sử đội | Ngày 26 tháng 10, trận thứ 6 đóng kín 6:0 trước CTBC Brothers; 38.178 người vào sân
 Nguồn: các chú thích 1, 20, 23, 28, 29 và 32 của bài viết này
 ```
+
 ## Ngày 17 tháng 3 năm 1990, cú ném bóng đầu tiên
 
 CPBL không xuất hiện từ chỗ trống không.
@@ -62,7 +56,7 @@ Ngày 31 tháng 12 năm 1987, "Ủy ban Xúc tiến Bóng chày Chuyên nghiệp
 
 Ngày 23 tháng 10 năm 1989, "Giải Bóng chày Chuyên nghiệp Trung Hoa" tổ chức đại hội thành lập tại khách sạn Brother. Bốn doanh nghiệp đầu tiên bước vào kinh doanh đội bóng chày chuyên nghiệp là Wei Chuan, Uni-President, Sanshang và Brother.[^1]
 
-Ngày 17 tháng 3 năm 1990, năm đầu bóng chày chuyên nghiệp khai mùa. Trận mở màn là Uni-President Lions đấu với Brother Elephants, Sadaharu Oh đến sân thực hiện cú ném bóng khai mạc mang tính biểu trưng, còn Yu Hung-kai, cựu cầu thủ đội bóng chày thiếu niên Hongye, được mời tham dự lễ khai mạc. Đài truyền hình TTV trực tiếp truyền hình, đài NHK của Nhật cũng truyền hình qua vệ tinh hai trận đấu ngày đầu tiên. Uni-President thắng 4:3, Wang Chun-liang ở đầu hiệp 4 đánh ra cú *home run* đầu tiên trong lịch sử CPBL. Cùng ngày đó ở trận khác, Sanshang Tigers đóng kín 3:0 trước Wei Chuan Dragons.[^1][^2]
+Ngày 17 tháng 3 năm 1990, năm đầu bóng chày chuyên nghiệp khai mùa. Trận mở màn là Uni-President Lions đấu với Brother Elephants, Sadaharu Oh đến sân thực hiện cú ném bóng khai mạc mang tính biểu trưng, còn Yu Hung-kai, cựu cầu thủ đội bóng chày thiếu niên Hongye, được mời tham dự lễ khai mạc. Đài truyền hình TTV trực tiếp truyền hình, đài NHK của Nhật cũng truyền hình qua vệ tinh hai trận đấu ngày đầu tiên. Uni-President thắng 4:3, Wang Chun-liang ở đầu hiệp 4 đánh ra cú _home run_ đầu tiên trong lịch sử CPBL. Cùng ngày đó ở trận khác, Sanshang Tigers đóng kín 3:0 trước Wei Chuan Dragons.[^1][^2]
 
 Từ ngày đó, "năm đầu bóng chày chuyên nghiệp" trở thành một cách gọi phân kỳ trong lịch sử bóng chày Đài Loan.
 
@@ -96,11 +90,12 @@ Bóng của bê bối bán độ không biến mất cùng với việc hợp nh
 
 Tháng 7 năm 2005, Cục Điều tra Hình sự bắt giữ mười người, trong đó có một bắt bóng (catcher) của La New Bears, một huấn luyện viên đội hai của Chientai Cobras, một cựu phiên dịch của Sinon Bulls và các đầu nậu cá cược; nhiều cầu thủ và huấn luyện viên bị tạm giam hoặc được tại ngoại, sau đó bị đội bóng sa thải — được gọi là vụ Gấu Đen (Black Bear).[^1][^10] Tháng 8 năm 2007, CTBC Whales bị phát hiện một số cầu thủ bị các nhân vật có liên hệ với băng đảng đe dọa, dụ dỗ — được gọi là vụ Cá Voi Đen (Black Whale).[^1]
 
-Tháng 10 năm 2008, Media Rhinos — trước đây là Chientai Cobras — bị cơ quan điều tra nghi ngờ do các nhà đầu tư giấu mặt hợp tác với đầu nậu cá cược mua lại và trực tiếp điều khiển kết quả trận đấu; giải đấu đình chỉ và loại trừ đội này khỏi giải — được gọi là vụ Gạo Đen (Black Rice).[^1] Một tháng sau, ngày 11 tháng 11, CTBC Whales tuyên bố giải thể, giải đấu lại trở về quy mô bốn đội.[^11] Vụ Gạo Đen kéo đến năm 2013 mới có phán quyết phúc thẩm của Tòa án Cấp cao: tội lừa đảo của nhà đầu tư giấu mặt được xác định, bị tuyên hai năm tù; còn tội vi phạm tín nhiệm của người đứng đầu đội bóng không thành lập vì thiếu chứng cứ.[^12]
+Tháng 10 năm 2008, Media T-Rex — trước đây là Chientai Cobras — bị cơ quan điều tra nghi ngờ do các nhà đầu tư giấu mặt hợp tác với đầu nậu cá cược mua lại và trực tiếp điều khiển kết quả trận đấu; giải đấu đình chỉ và loại trừ đội này khỏi giải — được gọi là vụ Gạo Đen (Black Rice).[^1] Một tháng sau, ngày 11 tháng 11, CTBC Whales tuyên bố giải thể, giải đấu lại trở về quy mô bốn đội.[^11] Vụ Gạo Đen kéo đến năm 2013 mới có phán quyết phúc thẩm của Tòa án Cấp cao: tội lừa đảo của nhà đầu tư giấu mặt được xác định, bị tuyên hai năm tù; còn tội vi phạm tín nhiệm của người đứng đầu đội bóng không thành lập vì thiếu chứng cứ.[^12]
 
 Ngày 26 tháng 10 năm 2009, một ngày sau khi Taiwan Series kết thúc, cơ quan điều tra phát động khám xét quy mô lớn, nhiều cầu thủ của Brother Elephants bị gọi lên thẩm vấn — được gọi là vụ Voi Đen (Black Elephant).[^1][^13] Vụ án kết thúc điều tra vào tháng 2 năm 2010, tổng cộng 24 người bị truy tố với tội danh lừa đảo và cờ bạc.[^14]
 
 Từ 2005 đến 2009, hầu như năm nào cũng có đội bóng bị dính đến cá cược.[^13] Kết quả là doanh thu vé sụt giảm mạnh, năm 2010 lượng khán giả vào sân cả năm giảm gần ba mươi phần trăm so với năm trước, có đội bóng từng cân nhắc giải thể, nhiều cầu thủ chọn ở lại nghiệp dư hoặc ra nước ngoài thi đấu luôn.[^1]
+
 ## Thời đại Mái vòm Đài Bắc
 
 Năm 2012, tập đoàn Sinon, vốn điều hành Sinon Bulls mười bảy năm, không chịu được lỗ lã nữa nên quyết định dừng kinh doanh đội bóng; ngày 17 tháng 12 cùng năm, bán cho tập đoàn E-DA với giá 130 triệu Đài tệ, đổi tên thành E-DA Rhinos.[^1][^15] Làn sóng World Baseball Classic năm 2013 và cơn lốc Manny giúp mức độ quan tâm với bóng chày chuyên nghiệp hồi phục.[^1][^4]
@@ -144,6 +139,7 @@ Số liệu của giải đấu có thể đọc hết trong một trang, nhưng
 **Người không có trong danh sách.** Sau vụ Diều Hâu Đen năm 1996, phần lớn cầu thủ bị gọi thẩm vấn, bị bắt đi, bị sa thải chưa bao giờ trở lại sân đấu; khi Wei Chuan Dragons giải thể năm 1999, đội vừa mới đoạt ba chức vô địch liên tiếp. Mỗi năm được viết ở các phần trước của bài viết này, phía sau đều có một nhóm người bị buộc phải rời khỏi môn thể thao này, và tên của họ sẽ không bao giờ xuất hiện trong danh sách nhà vô địch.[^1][^6]
 
 ## Tài liệu tham khảo
+
 [^1]: [Giải Bóng chày Chuyên nghiệp Lớn Trung Hoa (Wikipedia)](https://zh.wikipedia.org/zh-tw/中華職棒) — bao quát việc thành lập Ủy ban Xúc tiến Bóng chày Chuyên nghiệp năm 1987 và đại hội thành lập chính thức ngày 23-10-1989; lời mời Yu Hung-kai tham dự lễ khai mạc năm đầu; tổng lượt khán giả vượt mốc mười triệu và quy mô bảy đội năm 1997; thể thức một mùa giải duy nhất năm 1998 và 1999; việc triệu tập 15 cầu thủ chuyên nghiệp cho Cúp Bóng chày Thế giới 2001; trận khai mùa năm 2003 tại Thiên Mẫu; diễn biến các vụ Gấu Đen/Cá Voi Đen/Gạo Đen/Voi Đen; doanh thu vé sụt giảm năm 2010; CTBC tiếp quản Brother Elephants; các năm Wei Chuan và TSG Hawks lên hạng một; tổng lượt khán giả mùa giải 2024.
 
 [^2]: [United Daily News, chuyên mục "udn Time": trận khai mùa năm đầu bóng chày chuyên nghiệp](https://time.udn.com/udntime/story/122833/8703709) — ngày 17-03-1990 Uni-President Lions thắng 4:3 trước Brother Elephants; Sadaharu Oh thực hiện cú ném bóng khai mạc mang tính biểu trưng; đài TTV trực tiếp truyền hình và NHK truyền hình qua vệ tinh hai trận đấu ngày đầu; Wang Chun-liang ở đầu hiệp 4 đánh ra cú home run đầu tiên trong lịch sử CPBL; Sanshang Tigers đóng kín 3:0 trước Wei Chuan Dragons.
