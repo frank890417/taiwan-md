@@ -2,9 +2,7 @@
 title: '台湾のバイク文化'
 description: '世界で最もバイク密度が高い国は、人々がバイクを愛しているからではない。他の選択肢がないからである。そして今、この島は皮肉にも電動二輪車の世界的な実験場となっている。'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '交通與移動'
 tags:
   [
     '生活',
@@ -16,15 +14,19 @@ tags:
     '電動バイク',
     '交通',
   ]
-readingTime: 10
+subcategory: '交通與移動'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-featured: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣機車文化.md'
-sourceCommitSha: 'da8d86879'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f94b3bf22acf8238'
 sourceBodyHash: 'sha256:6ed1f511fb4c93bd'
-translatedAt: '2026-07-25T12:45:15+08:00'
+translatedAt: '2026-11-17T20:03:47.988435+00:00'
 ---
 
 # 台湾のバイク文化
