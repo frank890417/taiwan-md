@@ -1,0 +1,425 @@
+---
+/**
+ * CountyMap.astro — 2026 選舉主頁的 22 縣市地圖（建置時產生的靜態 SVG）。
+ *
+ * 形狀全部來自 public/assets/geo/taiwan-country.topo.json（22 縣市，MIT，
+ * /taiwan-shape 頁有授權說明），建置時解 TopoJSON、用 d3-geo 投影成 path。
+ * 不手繪任何台灣形狀（REFLEXES #61）。不需要瀏覽器端 JS。
+ *
+ * 顏色深淺只表示「縣市長候選人人數」，用 --el-map-1..4（elections.css），
+ * 與政黨無關。每個縣市是一個 <a href="#race-i">，可鍵盤聚焦、有 aria-label；
+ * 旁邊附同一份資料的文字清單。金門、連江放在左側插圖框（放大）；澎湖在
+ * 主圖裡照比例顯示。
+ *
+ * 父層要掛 .el-surface（提供 --el-* token）。
+ */
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { geoArea, geoMercator, geoPath } from 'd3';
+
+interface County {
+  /** 中選會寫法（臺北市…），要跟 TopoJSON 的 name 一致 */
+  area: string;
+  /** 顯示名稱（外語版用翻譯） */
+  label: string;
+  /** 縣市長候選人人數 */
+  count: number;
+  /** 名冊卡片錨點，例如 #race-0 */
+  href: string;
+}
+
+interface Props {
+  counties: County[];
+  /** 地圖整體的名稱（給螢幕報讀） */
+  title: string;
+  /** 每個縣市的 aria-label：{area}、{n} */
+  aria: string;
+  legendTitle: string;
+  /** 圖例與清單的人數寫法：{n} 位／{n} 位以上 */
+  countLabel: string;
+  countPlusLabel: string;
+  note: string;
+  listTitle: string;
+}
+
+const {
+  counties,
+  title,
+  aria,
+  legendTitle,
+  countLabel,
+  countPlusLabel,
+  note,
+  listTitle,
+} = Astro.props;
+const fill = (tpl: string, vars: Record<string, string | number>) =>
+  tpl.replace(/\{(\w+)\}/g, (_, k: string) => String(vars[k] ?? ''));
+
+// ── 解 TopoJSON（quantized arcs：先累加差分、再套 transform；負索引＝反向）──
+type Topo = {
+  transform: { scale: [number, number]; translate: [number, number] };
+  arcs: Array<Array<[number, number]>>;
+  objects: {
+    map: {
+      geometries: Array<{
+        type: 'Polygon' | 'MultiPolygon';
+        arcs: number[][] | number[][][];
+        properties: { id: string; name: string };
+      }>;
+    };
+  };
+};
+const topo: Topo = JSON.parse(
+  readFileSync(
+    join(process.cwd(), 'public/assets/geo/taiwan-country.topo.json'),
+    'utf8',
+  ),
+);
+const {
+  scale: [sx, sy],
+  translate: [tx, ty],
+} = topo.transform;
+const arcs = topo.arcs.map((arc) => {
+  let x = 0;
+  let y = 0;
+  return arc.map(([dx, dy]) => {
+    x += dx;
+    y += dy;
+    return [x * sx + tx, y * sy + ty] as [number, number];
+  });
+});
+const arcPoints = (i: number) => (i >= 0 ? arcs[i] : [...arcs[~i]].reverse());
+const ring = (ids: number[]) =>
+  ids.flatMap((i, k) => (k === 0 ? arcPoints(i) : arcPoints(i).slice(1)));
+
+type Feature = {
+  type: 'Feature';
+  properties: { name: string };
+  geometry:
+    | { type: 'Polygon'; coordinates: [number, number][][] }
+    | { type: 'MultiPolygon'; coordinates: [number, number][][][] };
+};
+const features = new Map<string, Feature>();
+for (const g of topo.objects.map.geometries) {
+  const feature: Feature =
+    g.type === 'Polygon'
+      ? {
+          type: 'Feature',
+          properties: { name: g.properties.name },
+          geometry: {
+            type: 'Polygon',
+            coordinates: (g.arcs as number[][]).map(ring),
+          },
+        }
+      : {
+          type: 'Feature',
+          properties: { name: g.properties.name },
+          geometry: {
+            type: 'MultiPolygon',
+            coordinates: (g.arcs as number[][][]).map((p) => p.map(ring)),
+          },
+        };
+  // d3-geo 把順時針當外環；繞向相反時面積會變成「整顆地球減掉這塊」
+  if (geoArea(feature as never) > 2 * Math.PI) {
+    const reverse = (r: [number, number][]) => r.reverse();
+    if (feature.geometry.type === 'Polygon')
+      feature.geometry.coordinates.forEach(reverse);
+    else feature.geometry.coordinates.forEach((p) => p.forEach(reverse));
+  }
+  if (geoArea(feature as never) > 0.01)
+    throw new Error(`CountyMap: ${g.properties.name} 面積異常，繞向沒修好`);
+  features.set(g.properties.name, feature);
+}
+const missing = counties.filter((c) => !features.has(c.area));
+if (missing.length > 0 || features.size !== counties.length) {
+  throw new Error(
+    `CountyMap: 縣市名稱對不上 TopoJSON（${missing.map((c) => c.area).join('、') || `${features.size} vs ${counties.length}`}）`,
+  );
+}
+
+// ── 版面：左側兩個插圖框（連江、金門），右側主圖（台灣本島＋澎湖等）──
+// 主圖照資料檔全部畫出（宜蘭縣的範圍含東經 123.5 度附近的釣魚臺列嶼），
+// 範圍因此往東延伸，畫布取接近正方形，本島才不會被壓小。
+const W = 560;
+const H = 480;
+// 金門縣含烏坵、連江縣島嶼分散，插圖框給寬一點，主島才看得清楚
+const insetW = 132;
+const insets = [
+  { area: '連江縣', box: [8, 8, insetW, 140] as const },
+  { area: '金門縣', box: [8, 158, insetW, 110] as const },
+];
+const insetAreas = new Set(insets.map((i) => i.area));
+const mainFeatures = counties
+  .filter((c) => !insetAreas.has(c.area))
+  .map((c) => features.get(c.area)!);
+const mainProjection = geoMercator().fitExtent(
+  [
+    [insetW + 22, 8],
+    [W - 8, H - 8],
+  ],
+  { type: 'FeatureCollection', features: mainFeatures } as never,
+);
+const mainPath = geoPath(mainProjection).digits(1);
+const insetPaths = new Map(
+  insets.map(({ area, box: [x, y, w, h] }) => {
+    const f = features.get(area)!;
+    const projection = geoMercator().fitExtent(
+      [
+        [x + 10, y + 22],
+        [x + w - 10, y + h - 8],
+      ],
+      f as never,
+    );
+    return [area, geoPath(projection).digits(1)(f as never) ?? ''];
+  }),
+);
+
+const bucket = (n: number) => Math.max(0, Math.min(4, n - 1));
+const shapes = counties.map((c) => ({
+  ...c,
+  d: insetAreas.has(c.area)
+    ? insetPaths.get(c.area)!
+    : (mainPath(features.get(c.area)! as never) ?? ''),
+  bucket: bucket(c.count),
+  inset: insetAreas.has(c.area),
+  aria: fill(aria, { area: c.label, n: c.count }),
+}));
+
+// 圖例：只列實際出現的人數級距（2 位、3 位、4 位、5 位以上）
+const minCount = Math.min(...counties.map((c) => c.count));
+const legend = [1, 2, 3, 4]
+  .filter((b) => b >= bucket(minCount))
+  .map((b) => ({
+    bucket: b,
+    label:
+      b === 4 ? fill(countPlusLabel, { n: 5 }) : fill(countLabel, { n: b + 1 }),
+  }));
+---
+
+<figure class="cm">
+  <div class="cm-map">
+    <svg
+      viewBox={`0 0 ${W} ${H}`}
+      role="group"
+      aria-label={title}
+      class="cm-svg"
+    >
+      {
+        insets.map(({ area, box: [x, y, w, h] }) => (
+          <g aria-hidden="true">
+            <rect class="cm-inset" x={x} y={y} width={w} height={h} rx="6" />
+            <text class="cm-inset-label" x={x + 8} y={y + 15}>
+              {counties.find((c) => c.area === area)?.label}
+            </text>
+          </g>
+        ))
+      }
+      {
+        shapes.map((s) => (
+          <a href={s.href} aria-label={s.aria} class="cm-link">
+            <path
+              d={s.d}
+              class={`cm-c cm-b${s.bucket}${s.inset ? ' cm-small' : ''}`}
+            />
+          </a>
+        ))
+      }
+    </svg>
+  </div>
+  <figcaption class="cm-side">
+    <p class="cm-legend-title">{legendTitle}</p>
+    <ul class="cm-legend" aria-hidden="true">
+      {
+        legend.map((l) => (
+          <li>
+            <span class={`cm-swatch cm-b${l.bucket}`} />
+            {l.label}
+          </li>
+        ))
+      }
+    </ul>
+    <p class="cm-note">{note}</p>
+    <p class="cm-list-title">{listTitle}</p>
+    <ol class="cm-list">
+      {
+        shapes.map((s) => (
+          <li>
+            <a href={s.href} class="cm-list-link">
+              <span class={`cm-swatch cm-b${s.bucket}`} aria-hidden="true" />
+              <span class="cm-list-name">{s.label}</span>
+              <span class="cm-list-n">{fill(countLabel, { n: s.count })}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </figcaption>
+</figure>
+
+<style>
+  .cm {
+    display: grid;
+    gap: 20px;
+    margin: 0 0 32px;
+    padding: 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .cm-map {
+    max-width: 520px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .cm-svg {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .cm-inset {
+    fill: none;
+    stroke: var(--el-border-strong);
+    stroke-width: 1;
+  }
+  .cm-inset-label {
+    font-family: var(--el-sans);
+    font-size: 12px;
+    fill: var(--el-ink-2);
+  }
+  .cm-c {
+    stroke: var(--el-map-stroke);
+    stroke-width: 0.8;
+    stroke-linejoin: round;
+    transition: fill 0.15s;
+  }
+  .cm-b0 {
+    fill: var(--el-map-0);
+    background: var(--el-map-0);
+  }
+  .cm-b1 {
+    fill: var(--el-map-1);
+    background: var(--el-map-1);
+  }
+  .cm-b2 {
+    fill: var(--el-map-2);
+    background: var(--el-map-2);
+  }
+  .cm-b3 {
+    fill: var(--el-map-3);
+    background: var(--el-map-3);
+  }
+  .cm-b4 {
+    fill: var(--el-map-4);
+    background: var(--el-map-4);
+  }
+  /* 插圖框裡的小島：外框改用墨色細線，淺色級距也看得見 */
+  .cm-small {
+    stroke: var(--el-ink-3);
+    stroke-width: 0.7;
+  }
+  .cm-link {
+    cursor: pointer;
+  }
+  .cm-link:focus {
+    outline: none;
+  }
+  .cm-link:hover .cm-c,
+  .cm-link:focus-visible .cm-c {
+    stroke: var(--el-map-hover);
+    stroke-width: 2.4;
+  }
+  .cm-side {
+    min-width: 0;
+  }
+  .cm-legend-title,
+  .cm-list-title {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-ink);
+  }
+  .cm-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--el-ink-2);
+  }
+  .cm-legend > li {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .cm-swatch {
+    display: inline-block;
+    flex: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 1px var(--el-border);
+  }
+  .cm-note {
+    margin: 10px 0 18px;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--el-ink-3);
+  }
+  .cm-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 16px;
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--el-rule);
+  }
+  .cm-list > li {
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .cm-list-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--el-ink);
+    border-bottom: 0;
+    text-decoration: none;
+  }
+  .cm-list-link:hover {
+    color: var(--el-accent);
+  }
+  .cm-list-name {
+    flex: 1;
+    min-width: 0;
+  }
+  .cm-list-n {
+    flex: none;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+  @media (min-width: 768px) {
+    .cm {
+      grid-template-columns: minmax(0, 5fr) minmax(0, 6fr);
+      align-items: start;
+      gap: 32px;
+      padding: 28px 32px;
+    }
+  }
+  @media (min-width: 1024px) {
+    .cm-list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .cm-c {
+      transition: none;
+    }
+  }
+</style>

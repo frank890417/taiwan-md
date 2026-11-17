@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import '../styles/elections.css';
+import CountyMap from '../components/elections/CountyMap.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsDataRaw from '../data/elections-2026.json';
 import timelineDataRaw from '../data/elections-2026-timeline.json';
@@ -3120,6 +3121,17 @@ type IaCopy = {
     postTitle: string;
     fullPage: string;
     next: string;
+    mapTitle: string;
+    mapAria: string;
+    legendTitle: string;
+    countLabel: string;
+    countPlusLabel: string;
+    mapNote: string;
+    listTitle: string;
+    councilLink: string;
+    councilAria: string;
+    pollingLink: string;
+    pollingAria: string;
   };
   understand: {
     title: string;
@@ -3222,6 +3234,18 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postTitle: '參選名冊（選前）',
       fullPage: '候選人頁：搜尋姓名、各政黨推薦人數',
       next: '查你的投票所',
+      mapTitle: '22 縣市地圖：顏色表示縣市長候選人人數',
+      mapAria: '{area}，{n} 位縣市長候選人，跳到名冊',
+      legendTitle: '顏色＝縣市長候選人人數',
+      countLabel: '{n} 位',
+      countPlusLabel: '{n} 位以上',
+      mapNote:
+        '顏色只表示候選人人數，不代表政黨或勝負。點縣市跳到該縣市的名冊；金門、連江放在左上方的框裡。',
+      listTitle: '各縣市候選人人數（依名冊順序）',
+      councilLink: '議員等候選人名單',
+      councilAria: '{area}選委會網站：議員等候選人名單（另開新視窗）',
+      pollingLink: '查投票所',
+      pollingAria: '中選會投開票所查詢：{area}（另開新視窗）',
     },
     understand: {
       title: '讀懂這場選舉',
@@ -3352,6 +3376,20 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postTitle: 'Candidate roster (as of before the vote)',
       fullPage: 'Candidates page: search by name, nominations by party',
       next: 'Find your polling station',
+      mapTitle:
+        'Map of 22 cities and counties: shade shows the number of mayoral candidates',
+      mapAria: '{area}, {n} mayoral candidates, jump to the roster',
+      legendTitle: 'Shade = number of mayoral candidates',
+      countLabel: '{n}',
+      countPlusLabel: '{n} or more',
+      mapNote:
+        'Shade shows only how many candidates are running; it says nothing about parties or who is ahead. Select a city or county to jump to its roster. Kinmen and Lienchiang are in the boxes at top left.',
+      listTitle: 'Candidates per city and county (roster order)',
+      councilLink: 'Council and other candidate lists',
+      councilAria:
+        '{area} election commission: council and other candidate lists (opens in a new window)',
+      pollingLink: 'Find a polling station',
+      pollingAria: 'CEC polling station search: {area} (opens in a new window)',
     },
     understand: {
       title: 'Understanding this election',
@@ -3484,6 +3522,19 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postTitle: '立候補者名簿（投票前）',
       fullPage: '候補者ページ：名前で検索、政党ごとの推薦数',
       next: '自分の投票所を調べる',
+      mapTitle: '22県市の地図：色の濃さは首長候補者の人数',
+      mapAria: '{area}、首長候補者{n}人、名簿へ移動',
+      legendTitle: '色＝首長候補者の人数',
+      countLabel: '{n}人',
+      countPlusLabel: '{n}人以上',
+      mapNote:
+        '色は候補者の人数だけを表し、政党や優劣とは関係ありません。県市を選ぶとその名簿へ移動します。金門と連江は左上の枠内です。',
+      listTitle: '県市ごとの候補者数（名簿順）',
+      councilLink: '議員などの候補者名簿',
+      councilAria:
+        '{area}選挙委員会サイト：議員などの候補者名簿（新しいウィンドウ）',
+      pollingLink: '投票所を調べる',
+      pollingAria: '中央選挙委員会 投開票所検索：{area}（新しいウィンドウ）',
     },
     understand: {
       title: 'この選挙を知る',
@@ -3613,6 +3664,18 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postTitle: '후보 명부(투표 전 기준)',
       fullPage: '후보 페이지: 이름 검색, 정당별 추천 수',
       next: '내 투표소 찾기',
+      mapTitle: '22개 현·시 지도: 색 농도는 단체장 후보 수',
+      mapAria: '{area}, 단체장 후보 {n}명, 명부로 이동',
+      legendTitle: '색 = 단체장 후보 수',
+      countLabel: '{n}명',
+      countPlusLabel: '{n}명 이상',
+      mapNote:
+        '색은 후보 수만 나타내며 정당이나 우열과는 관계없습니다. 현·시를 누르면 해당 명부로 이동합니다. 진먼과 롄장은 왼쪽 위 상자에 있습니다.',
+      listTitle: '현·시별 후보 수(명부 순서)',
+      councilLink: '의원 등 후보 명단',
+      councilAria: '{area} 선거위원회: 의원 등 후보 명단(새 창)',
+      pollingLink: '투표소 찾기',
+      pollingAria: '중앙선거위원회 투개표소 검색: {area}(새 창)',
     },
     understand: {
       title: '이번 선거 이해하기',
@@ -3764,6 +3827,21 @@ const iaCopy: Record<UpLang, IaCopy> = {
       fullPage:
         'Page des candidats : recherche par nom, investitures par parti',
       next: 'Trouver votre bureau de vote',
+      mapTitle:
+        'Carte des 22 villes et comtés : la teinte indique le nombre de candidats',
+      mapAria: '{area}, {n} candidats, aller à la liste',
+      legendTitle: 'Teinte = nombre de candidats (maire ou chef de comté)',
+      countLabel: '{n}',
+      countPlusLabel: '{n} ou plus',
+      mapNote:
+        'La teinte indique seulement le nombre de candidats, rien sur les partis ni sur qui mène. Choisissez une ville ou un comté pour aller à sa liste. Kinmen et Lienchiang sont dans les cadres en haut à gauche.',
+      listTitle: 'Candidats par ville et comté (ordre de la liste)',
+      councilLink: 'Listes des conseillers et autres candidats',
+      councilAria:
+        'Commission électorale de {area} : listes des conseillers et autres candidats (nouvelle fenêtre)',
+      pollingLink: 'Trouver un bureau de vote',
+      pollingAria:
+        'Recherche des bureaux de vote (CEC) : {area} (nouvelle fenêtre)',
     },
     understand: {
       title: 'Comprendre ce scrutin',
@@ -3923,6 +4001,21 @@ const iaCopy: Record<UpLang, IaCopy> = {
       fullPage:
         'Página de candidatos: búsqueda por nombre, nominaciones por partido',
       next: 'Encuentra tu lugar de votación',
+      mapTitle:
+        'Mapa de 22 ciudades y condados: el tono indica el número de candidatos',
+      mapAria: '{area}, {n} candidatos, ir a la lista',
+      legendTitle: 'Tono = número de candidatos a alcalde o jefe de condado',
+      countLabel: '{n}',
+      countPlusLabel: '{n} o más',
+      mapNote:
+        'El tono solo indica cuántos candidatos hay; no dice nada de partidos ni de quién va delante. Elige una ciudad o condado para ir a su lista. Kinmen y Lienchiang están en los recuadros de arriba a la izquierda.',
+      listTitle: 'Candidatos por ciudad y condado (orden de la lista)',
+      councilLink: 'Listas de concejales y otros candidatos',
+      councilAria:
+        'Comisión electoral de {area}: listas de concejales y otros candidatos (nueva ventana)',
+      pollingLink: 'Buscar lugar de votación',
+      pollingAria:
+        'Búsqueda de lugares de votación (CEC): {area} (nueva ventana)',
     },
     understand: {
       title: 'Entender esta elección',
@@ -4476,6 +4569,14 @@ const toolGroups: Array<{
   },
 ];
 
+// 縣市地圖：資料檔順序（同名冊卡片的 race-i 錨點）
+const mapCounties = electionsData.races.map((r, i) => ({
+  area: r.area,
+  label: areaLabel(r.area),
+  count: r.candidates.length,
+  href: `#race-${i}`,
+}));
+
 // 錯誤回報：GitHub 事實更正表單，預填頁面網址
 const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template=fact-correction.yml&title=${encodeURIComponent('[Fact Check] 2026 選舉專頁')}&article=${encodeURIComponent(pageUrl)}`;
 ---
@@ -4650,7 +4751,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
           <h2 id="h-vote" class="el-h2">{ia.vote.title}</h2>
           <p class="el-sec-desc">{ia.vote.intro}</p>
         </div>
-        <dl class="el-vote-card">
+        <dl class="el-vote-box">
           <div class="el-vote-row">
             <dt>
               <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
@@ -4785,6 +4886,17 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
           <p class="el-source-line" set:html={candSourceHtml} />
         </div>
 
+        <CountyMap
+          counties={mapCounties}
+          title={ia.who.mapTitle}
+          aria={ia.who.mapAria}
+          legendTitle={ia.who.legendTitle}
+          countLabel={ia.who.countLabel}
+          countPlusLabel={ia.who.countPlusLabel}
+          note={ia.who.mapNote}
+          listTitle={ia.who.listTitle}
+        />
+
         <div class="el-cand-tools">
           <div
             class="el-seg"
@@ -4913,6 +5025,32 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
                         </li>
                       ))}
                     </ul>
+                    <p class="el-race-links">
+                      <a
+                        href={race.commissionSite}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="el-race-link no-external-icon"
+                        aria-label={fill(ia.who.councilAria, {
+                          area: areaLabel(race.area),
+                        })}
+                      >
+                        {ia.who.councilLink}
+                        <span aria-hidden="true">↗</span>
+                      </a>
+                      <a
+                        href={lookups.voteSearch.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="el-race-link no-external-icon"
+                        aria-label={fill(ia.who.pollingAria, {
+                          area: areaLabel(race.area),
+                        })}
+                      >
+                        {ia.who.pollingLink}
+                        <span aria-hidden="true">↗</span>
+                      </a>
+                    </p>
                   </article>
                 ))}
               </div>
@@ -6067,6 +6205,29 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     border-radius: 12px;
     scroll-margin-top: 64px;
   }
+  .el-race-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 16px;
+    margin: 0 -18px -6px;
+    padding: 8px 18px 10px;
+    border-top: 1px solid var(--el-rule);
+    background: color-mix(in srgb, var(--el-about) 45%, transparent);
+    border-radius: 0 0 12px 12px;
+  }
+  .el-race-link {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: var(--el-accent);
+    border-bottom: 1px solid
+      color-mix(in srgb, var(--el-accent) 30%, transparent);
+    padding-bottom: 0;
+  }
+  .el-race-link:hover {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
   .el-race:target {
     border-color: var(--el-accent);
     box-shadow: 0 0 0 3px var(--el-accent-soft);
@@ -6190,7 +6351,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
   }
 
   /* ── 02 怎麼投票 ── */
-  .el-vote-card {
+  .el-vote-box {
     margin: 0;
     padding: 4px 18px;
     background: var(--el-card);
@@ -6891,7 +7052,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     .el-st-item {
       font-size: 15px;
     }
-    .el-vote-card {
+    .el-vote-box {
       padding: 6px 28px;
     }
     .el-vote-row {
@@ -6932,6 +7093,10 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     }
     .el-race {
       padding: 18px 20px 8px;
+    }
+    .el-race-links {
+      margin: 0 -20px -8px;
+      padding: 8px 20px 10px;
     }
     .el-invite {
       padding: 28px 32px;
