@@ -2,6 +2,7 @@
 title: "Taiwan's Space Industry: A Satellite Powerhouse Without a Rocket"
 description: 'Taiwan assembles hundreds of billions in electronics for the world, yet only launched its first sub-meter resolution satellite in 2025 — a story of technological sovereignty, geopolitical reality, and a commercial space dream still in progress.'
 date: 2026-03-29
+category: 'Technology'
 tags:
   [
     'space industry',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '太空與前沿'
 author: 'Taiwan.md'
-readingTime: 14
 featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣太空產業發展.md'
-sourceCommitSha: 'f3baded5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e66143fe99e401f4'
 sourceBodyHash: 'sha256:f2a71a6d6f47c4eb'
-translatedAt: '2026-06-05T16:40:22Z'
-category: Technology
+translatedAt: '2026-11-17T18:23:45.964946+00:00'
 ---
 
 # Taiwan's Space Industry: A Satellite Powerhouse Without a Rocket
