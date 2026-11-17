@@ -4,23 +4,27 @@ description: 'Desde el escenario improvisado que dos estadounidenses montaron en
 date: 2026-03-29
 category: 'Music'
 tags:
-  - 'festivales musicales'
-  - 'Spring Scream'
-  - 'Festival de Música del Océano'
-  - 'Megaport Festival'
-  - 'música independiente'
-  - 'cultura juvenil'
+  [
+    'festivales musicales',
+    'Spring Scream',
+    'Festival de Música del Océano',
+    'Megaport Festival',
+    'música independiente',
+    'cultura juvenil',
+  ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
-translatedAt: '2026-09-27T23:29:50+08:00'
+translatedAt: '2026-11-17T18:54:43.711622+00:00'
 ---
 
 **La cultura de los festivales musicales en Taiwán comenzó en 1995, cuando dos estadounidenses montaron un escenario improvisado en las playas de Kenting. En tres décadas, dio lugar a especies tan distintas como Spring Scream, el Festival de Música del Océano y Megaport Festival. Para la década de 2020, esta isla de superficie menor que los Países Bajos acogía más de 50 festivales al año. No es una escala que pueda explicarse por la demanda del mercado: se acerca más a un ritual colectivo, la forma en la que toda una generación encontró su propia voz al aire libre.**

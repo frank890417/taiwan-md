@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T03:41:18+08:00",
-    "zhCommitHead": "98affc075",
+    "lastUpdated": "2026-11-18T03:42:53+08:00",
+    "zhCommitHead": "92c0dce34",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1186,
-        "fresh": 644,
+        "fresh": 645,
         "stale": 56,
         "metadata_stale": 460,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       },
       "fr": {
@@ -122785,7 +122785,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/lai-jui-lung.md",
+          "translatedFrom": "People/賴瑞隆.md",
+          "sourceCommitSha": "a38a9e07f",
+          "sourceContentHash": "sha256:08e74b51b6f448d6",
+          "sourceBodyHash": "sha256:1d41125d44464226",
+          "translatedAt": "2026-11-18T00:49:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 20002,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/lai-jui-lung.md",
