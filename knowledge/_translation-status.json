@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T03:51:15+08:00",
-    "zhCommitHead": "99eacf66b",
+    "lastUpdated": "2026-11-18T03:52:22+08:00",
+    "zhCommitHead": "30937b2f9",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1186,
-        "fresh": 646,
+        "fresh": 647,
         "stale": 54,
         "metadata_stale": 460,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       },
       "es": {
@@ -54259,7 +54259,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/hospice-palliative-care-and-patient-autonomy.md",
+          "translatedFrom": "Lifestyle/安寧緩和醫療與病人自主.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:0adbf2d6cca3c606",
+          "sourceBodyHash": "sha256:e93ea8843d47b9d9",
+          "translatedAt": "2026-11-18T00:49:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 13910,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"

@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣機車文化.md'
-sourceCommitSha: 'da8d86879'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f94b3bf22acf8238'
 sourceBodyHash: 'sha256:6ed1f511fb4c93bd'
-translatedAt: '2026-07-26T19:42:10+08:00'
+translatedAt: '2026-11-17T19:38:56.277158+00:00'
 ---
 
 # 타이완의 스쿠터 문화

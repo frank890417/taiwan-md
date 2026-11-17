@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
-sourceCommitSha: '10c444b35'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f83026c30713b729'
 sourceBodyHash: 'sha256:15454291ed0f5b85'
-translatedAt: '2026-10-03T04:11:35+08:00'
+translatedAt: '2026-11-17T19:33:35.818405+00:00'
 ---
 
 # 타이완 음악 산업과 스트리밍 시대: 레코드 가게에서 디지털 플랫폼으로의 전환 과정

@@ -11,11 +11,13 @@ readingTime: 16
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '1f266e533'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e2e52ce67066146d'
 sourceBodyHash: 'sha256:956a2e50c55badba'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-11-17T18:30:45.572490+00:00'
 ---
 
 # 타이완 국제 무역 정책: 세계화 물결 속에서 정체성 찾기

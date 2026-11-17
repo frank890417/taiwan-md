@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: '5dcc54256'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d424949afdcc0ad2'
 sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-11-17T19:25:22.399767+00:00'
 ---
 
 # 타이완 타이어 노래의 진화：알버 노래에서 문젤 새싹으로의 정체성 전환
