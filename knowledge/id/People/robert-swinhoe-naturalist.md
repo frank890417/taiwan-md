@@ -2,26 +2,30 @@
 title: 'Robert Swinhoe: Sang Diplomat yang Menjadi Ahli Biologi'
 description: 'Pada tahun 1856, seorang pejabat penerjemah Inggris berusia 19 tahun mencatat burung pertama yang dilihatnya di pantai barat Formosa. Empat tahun kemudian, ia melalui 52 makalah ilmiah memperkenalkan kepada dunia makhluk-makhluk yang mendiami pulau ini. Ia meninggal di London pada usia 41 tahun, namun spesies-spesies yang ia namakan hingga kini masih hidup di hutan-hutan Taiwan.'
 date: 2026-04-12
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史人物'
 tags:
-  - 'biologi alam'
-  - 'konsul Inggris'
-  - 'sejarah alam'
-  - 'burung'
-  - 'spesies endemik Taiwan'
-  - 'pembukaan pelabuhan perdagangan'
-  - 'abad ke-19'
+  [
+    'biologi alam',
+    'konsul Inggris',
+    'sejarah alam',
+    'burung',
+    'spesies endemik Taiwan',
+    'pembukaan pelabuhan perdagangan',
+    'abad ke-19',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-07-25T15:46:02+08:00'
-image: ''
+translatedAt: '2026-11-17T17:56:57.931039+00:00'
 ---
 
 # Robert Swinhoe: Sang Diplomat yang Menjadi Ahli Biologi

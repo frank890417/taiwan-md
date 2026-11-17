@@ -10,11 +10,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/太陽花學運.md'
-sourceCommitSha: 'e6c587213'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f622a7c42dce34d6'
 sourceBodyHash: 'sha256:2558980b3f59cb6f'
-translatedAt: '2026-07-29T15:46:41+08:00'
+translatedAt: '2026-11-17T17:19:03.612982+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 17 Maret 2014, anggota legislatif KMT Chang Ching-chung (張慶忠) terbaring di lantai menggunakan mikrofon kecil di kerah baju, menghabiskan tiga puluh detik mengumumkan Perjanjian Perdagangan Jasa Lintas Selat (CSSTA) "dianggap telah direview". Semalam kemudian, lebih dari dua ratus mahasiswa melompat pagar menduduki Yuan Legislatif, menggunakan satu iPad menyiarkan langsung dua puluh empat jam sehari, mengelakkan semua stasiun televisi. Dua puluh empat hari kemudian mahasiswa mundur, CSSTA tidak dibatalkan — ia ditinggalkan oleh sejarah. Dua belas tahun kemudian, angka-angka menjelaskan segalanya: ketergantungan perdagangan Taiwan pada Tiongkok turun dari 42% menjadi 31,5%. Mereka memenangkan perang yang mereka sendiri tidak tahu sedang mereka tempur.

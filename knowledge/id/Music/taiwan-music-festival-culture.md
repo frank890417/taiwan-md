@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-17T18:16:39.160002+00:00'
 ---
 
 **Budaya festival musik Taiwan bermula pada tahun 1995 ketika dua orang Amerika mendirikan panggung improvisasi di Pantai Kenting. Dalam tiga puluh tahun, hal ini berevolusi menjadi spesies yang sangat berbeda seperti Spring Scream, Hohaiyan Rock Festival, dan MEGAPORT. Pada dekade 2020, pulau dengan luas kurang dari Belanda ini mengadakan lebih dari 50 festival musik setiap tahunnya. Skala ini tidak dapat dijelaskan hanya dengan permintaan pasar; ini lebih menyerupai ritual kolektif: satu generasi utuh menemukan cara untuk menemukan suara mereka di alam terbuka.**

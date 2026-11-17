@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-17T17:36:46.288144+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada tahun 1981, di sekitar Nanjing Street dan Roosevelt Road, Taipei terdapat 48 kelas persiapan ulang untuk masuk universitas dengan lebih dari 100.000 siswa; pada tahun 2023 hanya tersisa 3 kelas dengan sekitar 2.500 orang. Taiwan menghabiskan 30 tahun reformasi pendidikan untuk menghilangkan konsep "satu ujian menentukan seumur hidup," dan kelas persiapan ulang benar-benar menghilang, tetapi bimbingan belajar tidak: dalam lima tahun setelah kurikulum baru diterapkan, sekolah bimbingan belajar sastra dan sains di seluruh negeri bertambah sebanyak 960. Di balik siklus ini terdapat dialektika berulang sebuah pulau mengenai definisi "keadilan."
