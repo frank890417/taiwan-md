@@ -17,11 +17,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
-sourceCommitSha: '38b58ab04'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d2d08f4f883aa3cc'
 sourceBodyHash: 'sha256:6159201bd426eed7'
-translatedAt: '2026-10-03T00:56:55+08:00'
+translatedAt: '2026-11-17T23:13:24.239148+00:00'
 ---
 
 # Taiwan's Gaming Industry and Digital Entertainment

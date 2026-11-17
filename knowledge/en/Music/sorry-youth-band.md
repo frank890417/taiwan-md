@@ -2,28 +2,32 @@
 title: 'Sorry Youth: Three Southern Boys Who Sang in Hokkien About the Loneliness of Working Far from Home — and Twenty Years Later Became the Voice of a Generation'
 description: 'In 2005, three men who grew up listening to rock music by the sea in Tainan decided to write songs in Hokkien, aiming to make grandparents nod their heads in approval. The challenge: only Chiang-chiang had spoken Hokkien since childhood. From *Seashore Flavor* to *Noise Apartment* — four all-Hokkien albums, three Golden Indie Music Awards for Best Rock, two record-breaking flyingV crowdfunding campaigns — Sorry Youth turned the loneliness of migrant workers into the shared language of an entire generation.'
 date: 2026-04-27
+category: 'Music'
 tags:
-  - 'Hokkien Music'
-  - 'Rock'
-  - 'Tainan'
-  - 'Indie Music'
-  - 'Hokkien Rock'
-  - 'Sorry Youth'
-  - 'Seashore Flavor'
-  - 'Golden Indie Music Awards'
-  - 'Office Worker Rock'
-category: Music
+  [
+    'Hokkien Music',
+    'Rock',
+    'Tainan',
+    'Indie Music',
+    'Hokkien Rock',
+    'Sorry Youth',
+    'Seashore Flavor',
+    'Golden Indie Music Awards',
+    'Office Worker Rock',
+  ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12min
 lastVerified: 2026-04-27
 lastHumanReview: false
-translatedFrom: Music/拍謝少年.md
-sourceCommitSha: '4b6d28c5'
+readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Music/拍謝少年.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: '2026-05-01T01:46:13+08:00'
+translatedAt: '2026-11-17T23:18:41.360639+00:00'
 ---
 
 > **30-second overview:** In 2005, three Tainan men decided after the Spring Scream festival to form a fully Hokkien rock band. Problem: only Chiang-chiang had spoken Hokkien since childhood. _Seashore Flavor_ (2012) used a milkfish on its cover; _Brothers Shouldn't Be Without Dreams_ (2017) won the Golden Melody Award for Best Album Design and the Golden Indie Music Award for Best Rock; _Awkwardly Good_ (2021) raised over 3.11 million NTD on flyingV; _Noise Apartment_ (2024) broke their own crowdfunding record and won Best Rock at the Golden Indie Music Awards for the third time. From office-worker band to full-time musicians, over twenty years Vini, Chiang-chiang, and Zong-han's shared conviction has always been one sentence: "Everyone needs to be living well first — then the music will hold together."
