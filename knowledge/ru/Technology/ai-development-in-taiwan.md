@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
-translatedAt: '2026-10-03T18:48:26.616919+00:00'
+translatedAt: '2026-11-17T17:57:04.691517+00:00'
 ---
 
 # Восход островного государства ИИ: развитие искусственного интеллекта на Тайване и будущие стратегии

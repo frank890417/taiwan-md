@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台達電子.md'
-sourceCommitSha: 'bf0ce371e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0c0aec93dc48d894'
 sourceBodyHash: 'sha256:85c567c76ec730ad'
-translatedAt: '2026-10-04T00:51:59+08:00'
+translatedAt: '2026-11-17T17:25:23.409482+00:00'
 ---
 
 > **Краткий обзор:** В 1971 году беженец-студент в возрасте 13 лет, покинувший родителей из Фуцзяни и приехавший на Тайвань к дяде, основал Delta Electronics в Цзиньчжане с капиталом в NT$300 000.

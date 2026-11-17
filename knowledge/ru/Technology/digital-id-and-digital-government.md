@@ -20,11 +20,13 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/數位身分證與數位政府.md'
-sourceCommitSha: '6615ea1e6'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b266b1831a82667c'
 sourceBodyHash: 'sha256:557151344a289bcc'
-translatedAt: '2026-10-03T00:56:57+08:00'
+translatedAt: '2026-11-17T17:49:46.290370+00:00'
 ---
 
 # Цифровая идентичность и цифровое правительство
