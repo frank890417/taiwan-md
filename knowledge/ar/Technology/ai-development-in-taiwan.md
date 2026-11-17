@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
-translatedAt: '2026-10-04T00:51:59+08:00'
+translatedAt: '2026-11-17T17:53:21.905450+00:00'
 ---
 
 # صعود الدولة الجزيرية للذكاء الاصطناعي: التطورات والاستراتيجيات المستقبلية لتايوان في مجال الذكاء الاصطناعي
