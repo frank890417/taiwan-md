@@ -14,6 +14,7 @@ import {
   daysUntil,
   electionPhase,
   itemState,
+  nextSteps,
   resolveToday,
   taipeiDate,
   upcoming,
@@ -82,10 +83,16 @@ test('選後：選民日期全部結束，時程只剩公告當選與就職等',
   assert.ok(next.includes('inauguration'));
 });
 
-test('主頁「接下來五步」在 11/17 有五項，且依開始日排序', () => {
-  const steps = upcoming(timeline.items, '2026-11-17', 5);
+test('主頁「接下來五步」在 11/17 有五項，依開始日排序，不含已在進行的長期間', () => {
+  const steps = nextSteps(timeline.items, '2026-11-17', 5);
   assert.equal(steps.length, 5);
   for (let i = 1; i < steps.length; i++) {
     assert.ok(steps[i - 1].start <= steps[i].start);
   }
+  assert.ok(steps.every((s) => s.start >= '2026-11-17'));
+  assert.ok(!ids(steps).includes('mayor-campaign'));
+});
+
+test('11/26 起「接下來五步」第一項就是投票日', () => {
+  assert.equal(nextSteps(timeline.items, '2026-11-26', 5)[0].id, 'voting-day');
 });

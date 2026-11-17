@@ -93,6 +93,22 @@ export function upcoming<T extends DatedItem>(
 }
 
 /**
+ * 主頁「接下來的選務時程」：今天或之後才開始的項目，取前 n 個。
+ * 已經在進行中的長期間（例如十幾天的競選活動期）不列，讓投票日更早出現。
+ */
+export function nextSteps<T extends DatedItem>(
+  items: T[],
+  today: string,
+  n = 5,
+): T[] {
+  return upcoming(
+    items.filter((i) => i.start >= today),
+    today,
+    n,
+  );
+}
+
+/**
  * 狀態列「接下來要留意」：時程資料裡標 voters 的項目，加上時程檔沒有、
  * 但跟選民自己有關的日期（例如戶政司開放查投票所），取還沒結束的前 n 個。
  */

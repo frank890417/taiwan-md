@@ -3,6 +3,16 @@ import Layout from '../layouts/Layout.astro';
 import '../styles/elections.css';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsDataRaw from '../data/elections-2026.json';
+import timelineDataRaw from '../data/elections-2026-timeline.json';
+import {
+  daysUntil as daysUntilElection,
+  electionPhase,
+  itemState,
+  nextSteps,
+  resolveToday,
+  upcoming,
+  voterDates,
+} from '../utils/elections/status';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -1746,8 +1756,11 @@ type Candidate = {
   article?: { zh: string; slug: string };
 };
 
+type LookupLink = { url: string; owner: string; note?: string };
 type ElectionsData = {
   lastVerified: string;
+  // 頁面層級「本頁資料查證於」；lastVerified 只標候選人資料
+  pageVerified: string;
   election: {
     date: string;
     startDate: string;
@@ -1756,6 +1769,16 @@ type ElectionsData = {
     source: string;
   };
   sources: Record<string, string>;
+  lookups: {
+    voteSearch: LookupLink;
+    risPollingPlace: LookupLink & {
+      opens: string;
+      closes: string;
+      source: string;
+    };
+    electionDb: LookupLink;
+    cecHome: LookupLink;
+  };
   offices: Array<{
     key: string;
     type: string;
@@ -1771,6 +1794,8 @@ type ElectionsData = {
     seats: number;
     source: string;
     rosterSource: string;
+    // 該縣市選委會網站（11/17 起公告議員等候選人名單）
+    commissionSite: string;
     candidates: Candidate[];
   }>;
   votingInfo: Array<
@@ -3036,6 +3061,950 @@ const partyI18n: Record<
   },
 };
 
+// ── 2026-11 改版：主頁分流（狀態列、三扇門、怎麼投、查證工具、時程五步）──
+// 設計：reports/design-elections-2026-upgrade-2026-11-17.md §五.1。
+// {start}{end}{date}{area}{n} 由模板填入；日期一律來自資料檔，不寫死在文案裡。
+type IaCopy = {
+  doors: {
+    label: string;
+    vote: { title: string; hint: string };
+    who: { title: string; hint: string };
+    what: { title: string; hint: string };
+    results: { title: string; hint: string };
+  };
+  status: {
+    nextLabel: string;
+    dayTitle: string;
+    dayHours: string;
+    dayBring: string;
+    dayCount: string;
+    dayCountLink: string;
+    postTitle: string;
+    postResults: string;
+    postResultsLink: string;
+    postResultsNote: string;
+    postNextLabel: string;
+    by: string;
+    range: string;
+    risLabel: string;
+  };
+  nav: {
+    vote: string;
+    who: string;
+    understand: string;
+    tools: string;
+    timeline: string;
+    about: string;
+  };
+  vote: {
+    title: string;
+    intro: string;
+    timeLabel: string;
+    timeValue: string;
+    bringLabel: string;
+    bringValue: string;
+    whereLabel: string;
+    whereValue: string;
+    cecLookup: string;
+    risLookup: string;
+    risWindow: string;
+    paperLabel: string;
+    paperValue: string;
+    paperLink: string;
+    faqTitle: string;
+    faqHint: string;
+    next: string;
+  };
+  who: {
+    title: string;
+    postTitle: string;
+    fullPage: string;
+    next: string;
+  };
+  understand: {
+    title: string;
+    chartTitle: string;
+    chartNote: string;
+    readTitle: string;
+  };
+  tools: {
+    title: string;
+    intro: string;
+    internal: string;
+    groups: Record<
+      'polling' | 'lists' | 'money' | 'rumors' | 'views' | 'history',
+      string
+    >;
+    voteSearch: { name: string; desc: string };
+    ris: { name: string; desc: string };
+    bulletin: { name: string; desc: string };
+    db: { name: string; desc: string };
+  };
+  timeline: {
+    title: string;
+    intro: string;
+    nowLabel: string;
+    nextLabel: string;
+    fullLink: string;
+    source: string;
+  };
+  further: { title: string };
+  about: {
+    title: string;
+    verified: string;
+    reportPrefix: string;
+    reportLink: string;
+    reportSuffix: string;
+  };
+  // 時程檔只有 zh-TW／en／ja；ko／fr／es 用這裡的短標題（依 id），沒有的退回英文
+  tlLabels?: Record<string, string>;
+};
+
+const iaCopy: Record<UpLang, IaCopy> = {
+  'zh-TW': {
+    doors: {
+      label: '你想知道什麼',
+      vote: { title: '我要投票', hint: '時間、要帶什麼、去哪投、公報何時到' },
+      who: { title: '我們縣市有誰', hint: '22 縣市地圖與縣市長候選人名冊' },
+      what: {
+        title: '這場選舉是什麼',
+        hint: '九種職位、同日公投、制度怎麼運作',
+      },
+      results: { title: '看官方選舉結果', hint: '中選會選舉資料庫' },
+    },
+    status: {
+      nextLabel: '接下來要留意',
+      dayTitle: '今天投票',
+      dayHours: '上午 8 點到下午 4 點，公投第 22 案同時投',
+      dayBring: '帶國民身分證；印章可以不帶；投票通知單上寫著你的投票所',
+      dayCount: '下午 4 點投票結束，各投票所當場開票。官方開票資訊看',
+      dayCountLink: '中選會網站',
+      postTitle: '投票已經結束',
+      postResults: '官方結果看',
+      postResultsLink: '中選會選舉資料庫',
+      postResultsNote: '（網站寫明投票後 7 日內更新）',
+      postNextLabel: '接下來',
+      by: '{date} 前',
+      range: '{start}–{end}',
+      risLabel: '戶政司開放線上查投票所',
+    },
+    nav: {
+      vote: '怎麼投',
+      who: '縣市候選人',
+      understand: '讀懂選舉',
+      tools: '查證工具',
+      timeline: '時程',
+      about: '關於這一頁',
+    },
+    vote: {
+      title: '怎麼投',
+      intro: '投票日要知道的四件事，每一件都附官方查詢入口。',
+      timeLabel: '投票時間',
+      timeValue: '11 月 28 日（六）上午 8 點到下午 4 點',
+      bringLabel: '要帶什麼',
+      bringValue:
+        '國民身分證，一定要帶。印章可以不帶，簽名或按指印也行。投票通知單上寫著你的投票所。',
+      whereLabel: '去哪裡投',
+      whereValue: '戶籍地的投票所。不知道在哪裡，用這兩個官方查詢：',
+      cecLookup: '中選會投開票所查詢',
+      risLookup: '戶政司個人投票所查詢',
+      risWindow: '{start}–{end} 開放',
+      paperLabel: '公報與通知單',
+      paperValue:
+        '選舉公報和投票通知單最晚 {date} 送到每一戶（依法推算：投票日二日前），公報也會公開在中選會網站。',
+      paperLink: '選舉及公投公報網站',
+      faqTitle: '常見問題',
+      faqHint: '點問題展開答案，每題都附官方來源。',
+      next: '看你們縣市有誰在選',
+    },
+    who: {
+      title: '我們縣市有誰',
+      postTitle: '參選名冊（選前）',
+      fullPage: '候選人頁：搜尋姓名、各政黨推薦人數',
+      next: '查你的投票所',
+    },
+    understand: {
+      title: '讀懂這場選舉',
+      chartTitle: '九種職位的應選席次',
+      chartNote: '依職位層級排列，不是排名；橫條長度是應選席次。',
+      readTitle: '想再多懂一點',
+    },
+    tools: {
+      title: '查證與深入',
+      intro:
+        'Taiwan.md 不重做工具。依你想查的事，下面是官方與公民團體已經做好的入口。',
+      internal: '本站',
+      groups: {
+        polling: '查投票所',
+        lists: '查公報與名單',
+        money: '查政治獻金',
+        rumors: '查謠言與深偽',
+        views: '看多方說法',
+        history: '看歷屆結果',
+      },
+      voteSearch: {
+        name: '中選會投開票所查詢',
+        desc: '依縣市、鄉鎮市區查投票所地點',
+      },
+      ris: {
+        name: '內政部戶政司投票所查詢',
+        desc: '{start}–{end} 開放，沒住在戶籍地或沒收到通知單的人可以查自己的投票所',
+      },
+      bulletin: {
+        name: '選舉及公投公報網站',
+        desc: '中選會：選舉公報、公投公報的線上版',
+      },
+      db: {
+        name: '中選會選舉資料庫',
+        desc: '歷屆選舉結果；網站寫明投票後 7 日內更新',
+      },
+    },
+    timeline: {
+      title: '接下來的選務時程',
+      intro: '只列接下來五步，完整的 30 項在時程頁。狀態依台北日期判斷。',
+      nowLabel: '進行中',
+      nextLabel: '下一步',
+      fullLink: '看完整選務時程',
+      source:
+        '日期依中選會選舉工作進行程序表與法規；標「前」的是依法推算的最晚日。',
+    },
+    further: { title: '延伸閱讀' },
+    about: {
+      title: '關於這一頁',
+      verified: '本頁資料查證於 ',
+      reportPrefix: '發現錯誤或過時的資料？',
+      reportLink: '到 GitHub 回報',
+      reportSuffix: '，或按頁面左下角的「意見回饋」。',
+    },
+  },
+  en: {
+    doors: {
+      label: 'What do you need?',
+      vote: {
+        title: 'I want to vote',
+        hint: 'Hours, what to bring, where to vote, when the gazette arrives',
+      },
+      who: {
+        title: 'Who is running where I live',
+        hint: 'Map of 22 cities and counties, mayoral candidate roster',
+      },
+      what: {
+        title: 'What is this election',
+        hint: 'Nine offices, the same-day referendum, how it works',
+      },
+      results: {
+        title: 'Official results',
+        hint: 'CEC election database',
+      },
+    },
+    status: {
+      nextLabel: 'Coming up',
+      dayTitle: 'Voting is today',
+      dayHours: '8 a.m. to 4 p.m.; Referendum No. 22 is voted at the same time',
+      dayBring:
+        'Bring your national ID card. A seal is optional. Your voting notice shows your polling station.',
+      dayCount:
+        'Polls close at 4 p.m. and each station counts its ballots on the spot. For official counts, see the',
+      dayCountLink: 'CEC website',
+      postTitle: 'Voting has ended',
+      postResults: 'Official results:',
+      postResultsLink: 'CEC election database',
+      postResultsNote: ' (the site says it updates within 7 days of voting)',
+      postNextLabel: 'Next',
+      by: 'by {date}',
+      range: '{start}–{end}',
+      risLabel: 'Online polling station lookup opens (Household Registration)',
+    },
+    nav: {
+      vote: 'How to vote',
+      who: 'Candidates',
+      understand: 'The election',
+      tools: 'Fact-check tools',
+      timeline: 'Schedule',
+      about: 'About this page',
+    },
+    vote: {
+      title: 'How to vote',
+      intro:
+        'Four things to know for voting day, each with an official place to check.',
+      timeLabel: 'Voting hours',
+      timeValue: 'Saturday, November 28, 8 a.m. to 4 p.m.',
+      bringLabel: 'What to bring',
+      bringValue:
+        'Your national ID card is required. A seal is optional: you can sign or use a fingerprint instead. Your voting notice shows your polling station.',
+      whereLabel: 'Where to vote',
+      whereValue:
+        'At the polling station for your registered household address. To find it, use these official lookups:',
+      cecLookup: 'CEC polling station search',
+      risLookup: 'Household Registration personal lookup',
+      risWindow: 'open {start}–{end}',
+      paperLabel: 'Gazette and voting notice',
+      paperValue:
+        'The election gazette and voting notice reach every household by {date} at the latest (two days before voting, per the law’s counting rule). The gazette is also posted on the CEC website.',
+      paperLink: 'Election and referendum gazette site',
+      faqTitle: 'Common questions',
+      faqHint:
+        'Tap a question to open the answer. Each one cites an official source.',
+      next: 'See who is running in your city or county',
+    },
+    who: {
+      title: 'Who is running where I live',
+      postTitle: 'Candidate roster (as of before the vote)',
+      fullPage: 'Candidates page: search by name, nominations by party',
+      next: 'Find your polling station',
+    },
+    understand: {
+      title: 'Understanding this election',
+      chartTitle: 'Seats to be filled, by office',
+      chartNote:
+        'Listed by level of office, not ranked; bar length is the number of seats.',
+      readTitle: 'Read more',
+    },
+    tools: {
+      title: 'Check facts, go deeper',
+      intro:
+        'Taiwan.md does not rebuild tools. Grouped by what you want to check, these are the official and civic sites that already do it.',
+      internal: 'Taiwan.md',
+      groups: {
+        polling: 'Find a polling station',
+        lists: 'Gazettes and candidate lists',
+        money: 'Political donations',
+        rumors: 'Rumors and deepfakes',
+        views: 'Different perspectives',
+        history: 'Past results',
+      },
+      voteSearch: {
+        name: 'CEC polling station search',
+        desc: 'Look up polling stations by city/county and district',
+      },
+      ris: {
+        name: 'Household Registration polling station lookup',
+        desc: 'Open {start}–{end}; for people living away from their registered address or without a voting notice',
+      },
+      bulletin: {
+        name: 'Election and referendum gazette site',
+        desc: 'CEC: online versions of the election and referendum gazettes',
+      },
+      db: {
+        name: 'CEC election database',
+        desc: 'Past election results; the site says it updates within 7 days of voting',
+      },
+    },
+    timeline: {
+      title: 'What happens next',
+      intro:
+        'The next five steps only; all 30 are on the schedule page. Status follows the Taipei date.',
+      nowLabel: 'Under way',
+      nextLabel: 'Next',
+      fullLink: 'See the full schedule',
+      source:
+        'Dates follow the CEC work schedule and the law; “by” dates are legal deadlines worked out from the law.',
+    },
+    further: { title: 'Further reading' },
+    about: {
+      title: 'About this page',
+      verified: 'Facts on this page checked on ',
+      reportPrefix: 'Found an error or something out of date? ',
+      reportLink: 'Report it on GitHub',
+      reportSuffix: ', or use the “Feedback” button at the bottom left.',
+    },
+  },
+  ja: {
+    doors: {
+      label: '知りたいこと',
+      vote: {
+        title: '投票に行く',
+        hint: '時間・持ち物・投票所・公報が届く日',
+      },
+      who: {
+        title: '自分の県市の候補者',
+        hint: '22県市の地図と首長候補者名簿',
+      },
+      what: {
+        title: 'この選挙とは',
+        hint: '9種類の公職・同日の住民投票・制度の仕組み',
+      },
+      results: {
+        title: '公式の選挙結果',
+        hint: '中央選挙委員会の選挙データベース',
+      },
+    },
+    status: {
+      nextLabel: 'この先の日程',
+      dayTitle: '今日が投票日',
+      dayHours: '午前8時から午後4時まで。公民投票第22案も同時に投票',
+      dayBring:
+        '国民身分証を持参。印鑑はなくても可。投票所は投票通知書に書かれています',
+      dayCount:
+        '午後4時に投票が終わり、各投票所でそのまま開票します。公式の開票情報は',
+      dayCountLink: '中央選挙委員会のサイト',
+      postTitle: '投票は終わりました',
+      postResults: '公式の結果は',
+      postResultsLink: '中央選挙委員会の選挙データベース',
+      postResultsNote: '（投票後7日以内に更新とサイトに記載）',
+      postNextLabel: 'この先',
+      by: '{date}まで',
+      range: '{start}〜{end}',
+      risLabel: '戸政司が投票所のオンライン照会を開始',
+    },
+    nav: {
+      vote: '投票の仕方',
+      who: '候補者',
+      understand: '選挙を知る',
+      tools: '検証ツール',
+      timeline: '日程',
+      about: 'このページについて',
+    },
+    vote: {
+      title: '投票の仕方',
+      intro:
+        '投票日に知っておきたい4つのこと。それぞれ公式の照会先を付けています。',
+      timeLabel: '投票時間',
+      timeValue: '11月28日（土）午前8時〜午後4時',
+      bringLabel: '持ち物',
+      bringValue:
+        '国民身分証は必須です。印鑑はなくても大丈夫で、署名か指印でも受け取れます。投票所は投票通知書に書かれています。',
+      whereLabel: '投票する場所',
+      whereValue:
+        '戸籍地の投票所です。場所がわからないときは、次の公式照会を使えます。',
+      cecLookup: '中央選挙委員会 投開票所検索',
+      risLookup: '戸政司 個人の投票所照会',
+      risWindow: '{start}〜{end}に公開',
+      paperLabel: '公報と通知書',
+      paperValue:
+        '選挙公報と投票通知書は遅くとも{date}までに各世帯へ届きます（法律の数え方で投票日の2日前）。公報は中央選挙委員会のサイトでも公開されます。',
+      paperLink: '選挙・公民投票公報サイト',
+      faqTitle: 'よくある質問',
+      faqHint:
+        '質問をタップすると答えが開きます。どの答えにも公式の出典があります。',
+      next: '自分の県市の候補者を見る',
+    },
+    who: {
+      title: '自分の県市の候補者',
+      postTitle: '立候補者名簿（投票前）',
+      fullPage: '候補者ページ：名前で検索、政党ごとの推薦数',
+      next: '自分の投票所を調べる',
+    },
+    understand: {
+      title: 'この選挙を知る',
+      chartTitle: '公職ごとの定数',
+      chartNote: '公職の階層順で、順位ではありません。棒の長さは定数です。',
+      readTitle: 'もっと知る',
+    },
+    tools: {
+      title: '検証と深掘り',
+      intro:
+        'Taiwan.md はツールを作り直しません。調べたいことごとに、公的機関と市民団体がすでに用意している入口をまとめました。',
+      internal: 'Taiwan.md',
+      groups: {
+        polling: '投票所を調べる',
+        lists: '公報と候補者名簿',
+        money: '政治献金を調べる',
+        rumors: 'デマとディープフェイク',
+        views: 'さまざまな見方',
+        history: '過去の結果',
+      },
+      voteSearch: {
+        name: '中央選挙委員会 投開票所検索',
+        desc: '県市・郷鎮市区から投票所の場所を検索',
+      },
+      ris: {
+        name: '内政部戸政司 投票所照会',
+        desc: '{start}〜{end}に公開。戸籍地に住んでいない人や通知書が届かない人が自分の投票所を調べられます',
+      },
+      bulletin: {
+        name: '選挙・公民投票公報サイト',
+        desc: '中央選挙委員会：選挙公報と公民投票公報のオンライン版',
+      },
+      db: {
+        name: '中央選挙委員会 選挙データベース',
+        desc: '過去の選挙結果。投票後7日以内に更新とサイトに記載',
+      },
+    },
+    timeline: {
+      title: 'この先の選挙日程',
+      intro:
+        '次の5つだけを載せています。全30項目は日程ページへ。状態は台北の日付で判断しています。',
+      nowLabel: '進行中',
+      nextLabel: '次',
+      fullLink: '全日程を見る',
+      source:
+        '日付は中央選挙委員会の工作日程表と法律によります。「まで」は法律から計算した期限です。',
+    },
+    further: { title: '関連記事' },
+    about: {
+      title: 'このページについて',
+      verified: 'このページの情報の確認日：',
+      reportPrefix: '誤りや古い情報を見つけたら、',
+      reportLink: 'GitHub で報告',
+      reportSuffix: 'するか、左下の「フィードバック」からお知らせください。',
+    },
+  },
+  ko: {
+    doors: {
+      label: '무엇이 궁금하세요?',
+      vote: {
+        title: '투표하러 가요',
+        hint: '시간, 준비물, 투표소, 선거공보 도착일',
+      },
+      who: {
+        title: '우리 지역 후보는 누구?',
+        hint: '22개 현·시 지도와 단체장 후보 명부',
+      },
+      what: {
+        title: '이번 선거는 무엇인가요',
+        hint: '9가지 공직, 같은 날 국민투표, 제도의 원리',
+      },
+      results: {
+        title: '공식 선거 결과',
+        hint: '중앙선거위원회 선거 데이터베이스',
+      },
+    },
+    status: {
+      nextLabel: '다가오는 일정',
+      dayTitle: '오늘이 투표일',
+      dayHours: '오전 8시부터 오후 4시까지, 국민투표 제22안도 함께 투표',
+      dayBring:
+        '국민신분증을 가져가세요. 도장은 없어도 됩니다. 투표소는 투표 안내문에 적혀 있습니다',
+      dayCount:
+        '오후 4시에 투표가 끝나면 각 투표소에서 바로 개표합니다. 공식 개표 정보는',
+      dayCountLink: '중앙선거위원회 웹사이트',
+      postTitle: '투표가 끝났습니다',
+      postResults: '공식 결과:',
+      postResultsLink: '중앙선거위원회 선거 데이터베이스',
+      postResultsNote: ' (투표 후 7일 이내 갱신한다고 사이트에 안내)',
+      postNextLabel: '다음 일정',
+      by: '{date}까지',
+      range: '{start}–{end}',
+      risLabel: '호적사 온라인 투표소 조회 개시',
+    },
+    nav: {
+      vote: '투표 방법',
+      who: '후보',
+      understand: '선거 이해',
+      tools: '검증 도구',
+      timeline: '일정',
+      about: '이 페이지에 대해',
+    },
+    vote: {
+      title: '투표 방법',
+      intro: '투표일에 알아야 할 네 가지와 각각의 공식 조회처입니다.',
+      timeLabel: '투표 시간',
+      timeValue: '11월 28일(토) 오전 8시~오후 4시',
+      bringLabel: '준비물',
+      bringValue:
+        '국민신분증은 꼭 가져가야 합니다. 도장은 없어도 되며 서명이나 지장도 됩니다. 투표소는 투표 안내문에 적혀 있습니다.',
+      whereLabel: '투표 장소',
+      whereValue:
+        '호적지의 투표소입니다. 위치를 모르면 아래 공식 조회를 이용하세요.',
+      cecLookup: '중앙선거위원회 투개표소 검색',
+      risLookup: '호적사 개인 투표소 조회',
+      risWindow: '{start}–{end} 운영',
+      paperLabel: '선거공보와 안내문',
+      paperValue:
+        '선거공보와 투표 안내문은 늦어도 {date}까지 각 가구에 도착합니다(법정 계산 방식으로 투표일 2일 전). 선거공보는 중앙선거위원회 웹사이트에도 공개됩니다.',
+      paperLink: '선거·국민투표 공보 사이트',
+      faqTitle: '자주 묻는 질문',
+      faqHint: '질문을 누르면 답이 펼쳐집니다. 모든 답에 공식 출처가 있습니다.',
+      next: '우리 지역 후보 보기',
+    },
+    who: {
+      title: '우리 지역 후보는 누구?',
+      postTitle: '후보 명부(투표 전 기준)',
+      fullPage: '후보 페이지: 이름 검색, 정당별 추천 수',
+      next: '내 투표소 찾기',
+    },
+    understand: {
+      title: '이번 선거 이해하기',
+      chartTitle: '공직별 선출 정수',
+      chartNote:
+        '공직 단계 순서이며 순위가 아닙니다. 막대 길이는 선출 정수입니다.',
+      readTitle: '더 읽어보기',
+    },
+    tools: {
+      title: '검증과 심화',
+      intro:
+        'Taiwan.md는 도구를 다시 만들지 않습니다. 확인하고 싶은 내용별로 공공기관과 시민단체가 이미 만든 곳을 모았습니다.',
+      internal: 'Taiwan.md',
+      groups: {
+        polling: '투표소 찾기',
+        lists: '선거공보와 후보 명단',
+        money: '정치헌금 확인',
+        rumors: '루머와 딥페이크',
+        views: '다양한 관점',
+        history: '역대 결과',
+      },
+      voteSearch: {
+        name: '중앙선거위원회 투개표소 검색',
+        desc: '현·시와 향·진·시·구로 투표소 위치 검색',
+      },
+      ris: {
+        name: '내정부 호적사 투표소 조회',
+        desc: '{start}–{end} 운영. 호적지에 살지 않거나 안내문을 받지 못한 사람이 자기 투표소를 조회',
+      },
+      bulletin: {
+        name: '선거·국민투표 공보 사이트',
+        desc: '중앙선거위원회: 선거공보와 국민투표 공보 온라인판',
+      },
+      db: {
+        name: '중앙선거위원회 선거 데이터베이스',
+        desc: '역대 선거 결과. 투표 후 7일 이내 갱신한다고 안내',
+      },
+    },
+    timeline: {
+      title: '다가오는 선거 일정',
+      intro:
+        '다음 다섯 단계만 보여 줍니다. 전체 30개 항목은 일정 페이지에 있습니다. 상태는 타이베이 날짜 기준입니다.',
+      nowLabel: '진행 중',
+      nextLabel: '다음',
+      fullLink: '전체 일정 보기',
+      source:
+        '날짜는 중앙선거위원회 업무 일정표와 법령을 따릅니다. "까지"는 법령으로 계산한 기한입니다.',
+    },
+    further: { title: '더 읽을거리' },
+    about: {
+      title: '이 페이지에 대해',
+      verified: '이 페이지 자료 확인일: ',
+      reportPrefix: '오류나 오래된 정보를 발견하셨나요? ',
+      reportLink: 'GitHub에 신고',
+      reportSuffix: '하거나 왼쪽 아래 "피드백" 버튼을 눌러 주세요.',
+    },
+    tlLabels: {
+      'mayor-campaign': '직할시장 선거운동 기간과 공영 정견발표회',
+      'referendum-sessions': '국민투표 제22안 의견발표회·토론회(5회)',
+      'others-list': '직할시의원·현(시)장·현(시)의원 후보 명단 공고',
+      'others-campaign': '직할시의원·현(시)장·현(시)의원 선거운동 기간',
+      'local-campaign': '향진시 대표·원주민구 대표·촌리장 선거운동 기간',
+      'voter-count': '선거인 수와 국민투표 투표권자 수 공고',
+      'bulletins-delivered': '선거공보·국민투표 공보·투표 안내문 가구 도착',
+      'voting-day': '투표일: 9가지 지방선거와 국민투표 제22안',
+      counting: '개표',
+      'winners-announced': '당선인 명단 확정·공고',
+      'referendum-result': '국민투표 제22안 결과 확정·공고',
+      certificates: '당선증 교부',
+      inauguration: '새 지방 공직자 취임',
+      'subsidy-notice': '후보에게 선거비용 보조금 수령 통지',
+    },
+  },
+  fr: {
+    doors: {
+      label: 'Que cherchez-vous ?',
+      vote: {
+        title: 'Je vais voter',
+        hint: 'Horaires, pièces à apporter, bureau de vote, date du bulletin officiel',
+      },
+      who: {
+        title: 'Qui se présente chez moi',
+        hint: 'Carte des 22 villes et comtés, liste des candidats',
+      },
+      what: {
+        title: 'De quel scrutin s’agit-il',
+        hint: 'Neuf mandats, le référendum du même jour, le fonctionnement',
+      },
+      results: {
+        title: 'Résultats officiels',
+        hint: 'Base de données électorale de la CEC',
+      },
+    },
+    status: {
+      nextLabel: 'Prochaines dates',
+      dayTitle: 'On vote aujourd’hui',
+      dayHours: 'De 8 h à 16 h ; le référendum n° 22 se vote en même temps',
+      dayBring:
+        'Apportez votre carte d’identité nationale. Le sceau est facultatif. Votre avis de vote indique votre bureau.',
+      dayCount:
+        'Le vote se termine à 16 h et chaque bureau dépouille sur place. Pour les résultats officiels, voir le',
+      dayCountLink: 'site de la CEC',
+      postTitle: 'Le vote est terminé',
+      postResults: 'Résultats officiels :',
+      postResultsLink: 'base de données électorale de la CEC',
+      postResultsNote:
+        ' (mise à jour sous 7 jours après le vote, selon le site)',
+      postNextLabel: 'Ensuite',
+      by: 'au plus tard le {date}',
+      range: '{start} – {end}',
+      risLabel:
+        'Ouverture de la recherche en ligne du bureau de vote (état civil)',
+    },
+    nav: {
+      vote: 'Comment voter',
+      who: 'Candidats',
+      understand: 'Le scrutin',
+      tools: 'Vérifier',
+      timeline: 'Calendrier',
+      about: 'À propos',
+    },
+    vote: {
+      title: 'Comment voter',
+      intro:
+        'Quatre choses à savoir pour le jour du vote, chacune avec une source officielle.',
+      timeLabel: 'Horaires',
+      timeValue: 'Samedi 28 novembre, de 8 h à 16 h',
+      bringLabel: 'À apporter',
+      bringValue:
+        'La carte d’identité nationale est obligatoire. Le sceau est facultatif : on peut signer ou apposer son empreinte. L’avis de vote indique votre bureau.',
+      whereLabel: 'Où voter',
+      whereValue:
+        'Au bureau de vote de votre domicile enregistré. Pour le trouver, deux recherches officielles :',
+      cecLookup: 'Recherche des bureaux de vote (CEC)',
+      risLookup: 'Recherche personnelle (état civil)',
+      risWindow: 'ouverte du {start} au {end}',
+      paperLabel: 'Bulletin officiel et avis de vote',
+      paperValue:
+        'Le bulletin électoral officiel et l’avis de vote arrivent dans chaque foyer au plus tard le {date} (deux jours avant le vote, selon le mode de calcul de la loi). Le bulletin est aussi publié sur le site de la CEC.',
+      paperLink: 'Site des bulletins électoraux et référendaires',
+      faqTitle: 'Questions fréquentes',
+      faqHint:
+        'Touchez une question pour afficher la réponse. Chacune cite une source officielle.',
+      next: 'Voir qui se présente dans votre ville ou comté',
+    },
+    who: {
+      title: 'Qui se présente chez moi',
+      postTitle: 'Liste des candidats (avant le vote)',
+      fullPage:
+        'Page des candidats : recherche par nom, investitures par parti',
+      next: 'Trouver votre bureau de vote',
+    },
+    understand: {
+      title: 'Comprendre ce scrutin',
+      chartTitle: 'Sièges à pourvoir par mandat',
+      chartNote:
+        'Classés par niveau de mandat, pas par ordre d’importance ; la longueur de la barre correspond au nombre de sièges.',
+      readTitle: 'Pour aller plus loin',
+    },
+    tools: {
+      title: 'Vérifier et approfondir',
+      intro:
+        'Taiwan.md ne refait pas les outils. Classés selon ce que vous voulez vérifier, voici les sites officiels et citoyens qui le font déjà.',
+      internal: 'Taiwan.md',
+      groups: {
+        polling: 'Trouver un bureau de vote',
+        lists: 'Bulletins et listes de candidats',
+        money: 'Dons politiques',
+        rumors: 'Rumeurs et deepfakes',
+        views: 'Points de vue',
+        history: 'Résultats passés',
+      },
+      voteSearch: {
+        name: 'Recherche des bureaux de vote (CEC)',
+        desc: 'Trouver un bureau de vote par ville ou comté et par district',
+      },
+      ris: {
+        name: 'Recherche du bureau de vote (état civil)',
+        desc: 'Ouverte du {start} au {end} ; pour qui vit loin de son domicile enregistré ou n’a pas reçu d’avis de vote',
+      },
+      bulletin: {
+        name: 'Site des bulletins électoraux et référendaires',
+        desc: 'CEC : versions en ligne des bulletins officiels',
+      },
+      db: {
+        name: 'Base de données électorale de la CEC',
+        desc: 'Résultats des scrutins passés ; mise à jour sous 7 jours après le vote, selon le site',
+      },
+    },
+    timeline: {
+      title: 'Les prochaines étapes',
+      intro:
+        'Seulement les cinq prochaines étapes ; les 30 sont sur la page du calendrier. L’état suit la date de Taipei.',
+      nowLabel: 'En cours',
+      nextLabel: 'Prochaine',
+      fullLink: 'Voir le calendrier complet',
+      source:
+        'Dates selon le calendrier de la CEC et la loi ; « au plus tard » indique un délai légal calculé.',
+    },
+    further: { title: 'Pour aller plus loin' },
+    about: {
+      title: 'À propos de cette page',
+      verified: 'Informations vérifiées le ',
+      reportPrefix: 'Une erreur ou une information dépassée ? ',
+      reportLink: 'Signalez-la sur GitHub',
+      reportSuffix: ', ou utilisez le bouton « Retour » en bas à gauche.',
+    },
+    tlLabels: {
+      'mayor-campaign':
+        'Campagne et réunions publiques des maires des municipalités spéciales',
+      'referendum-sessions':
+        'Réunions d’expression sur le référendum n° 22 (5 séances)',
+      'others-list':
+        'Publication des listes : conseillers municipaux, chefs et conseillers de comté',
+      'others-campaign':
+        'Campagne des conseillers municipaux, chefs et conseillers de comté',
+      'local-campaign':
+        'Campagne des représentants de canton, de district autochtone et des chefs de village',
+      'voter-count': 'Publication du nombre d’électeurs',
+      'bulletins-delivered':
+        'Bulletins officiels et avis de vote livrés à domicile',
+      'voting-day':
+        'Jour du vote : neuf scrutins locaux et le référendum n° 22',
+      counting: 'Dépouillement',
+      'winners-announced': 'Proclamation des élus',
+      'referendum-result': 'Proclamation du résultat du référendum n° 22',
+      certificates: 'Remise des certificats d’élection',
+      inauguration: 'Entrée en fonction des nouveaux élus',
+      'subsidy-notice':
+        'Avis de versement du remboursement des frais de campagne',
+    },
+  },
+  es: {
+    doors: {
+      label: '¿Qué necesitas?',
+      vote: {
+        title: 'Voy a votar',
+        hint: 'Horario, qué llevar, dónde votar, cuándo llega la gaceta',
+      },
+      who: {
+        title: 'Quién se presenta donde vivo',
+        hint: 'Mapa de 22 ciudades y condados, lista de candidatos',
+      },
+      what: {
+        title: 'Qué elección es esta',
+        hint: 'Nueve cargos, el referéndum del mismo día, cómo funciona',
+      },
+      results: {
+        title: 'Resultados oficiales',
+        hint: 'Base de datos electoral de la CEC',
+      },
+    },
+    status: {
+      nextLabel: 'Próximas fechas',
+      dayTitle: 'Hoy se vota',
+      dayHours: 'De 8:00 a 16:00; el referéndum n.º 22 se vota al mismo tiempo',
+      dayBring:
+        'Lleva tu documento nacional de identidad. El sello es opcional. Tu aviso de votación indica tu mesa.',
+      dayCount:
+        'La votación cierra a las 16:00 y cada mesa cuenta los votos allí mismo. Para el conteo oficial, consulta el',
+      dayCountLink: 'sitio de la CEC',
+      postTitle: 'La votación ha terminado',
+      postResults: 'Resultados oficiales:',
+      postResultsLink: 'base de datos electoral de la CEC',
+      postResultsNote:
+        ' (según el sitio, se actualiza dentro de los 7 días posteriores)',
+      postNextLabel: 'Después',
+      by: 'a más tardar el {date}',
+      range: '{start}–{end}',
+      risLabel:
+        'Abre la consulta en línea del lugar de votación (registro civil)',
+    },
+    nav: {
+      vote: 'Cómo votar',
+      who: 'Candidatos',
+      understand: 'La elección',
+      tools: 'Verificar',
+      timeline: 'Calendario',
+      about: 'Sobre esta página',
+    },
+    vote: {
+      title: 'Cómo votar',
+      intro:
+        'Cuatro cosas que saber para el día de la votación, cada una con una consulta oficial.',
+      timeLabel: 'Horario',
+      timeValue: 'Sábado 28 de noviembre, de 8:00 a 16:00',
+      bringLabel: 'Qué llevar',
+      bringValue:
+        'El documento nacional de identidad es obligatorio. El sello es opcional: también puedes firmar o usar la huella. Tu aviso de votación indica tu lugar de votación.',
+      whereLabel: 'Dónde votar',
+      whereValue:
+        'En el lugar de votación de tu domicilio registrado. Para encontrarlo, usa estas consultas oficiales:',
+      cecLookup: 'Búsqueda de lugares de votación (CEC)',
+      risLookup: 'Consulta personal (registro civil)',
+      risWindow: 'abierta del {start} al {end}',
+      paperLabel: 'Gaceta y aviso de votación',
+      paperValue:
+        'La gaceta electoral y el aviso de votación llegan a cada hogar a más tardar el {date} (dos días antes de votar, según el cómputo de la ley). La gaceta también se publica en el sitio de la CEC.',
+      paperLink: 'Sitio de gacetas electorales y de referéndum',
+      faqTitle: 'Preguntas frecuentes',
+      faqHint:
+        'Toca una pregunta para ver la respuesta. Cada una cita una fuente oficial.',
+      next: 'Ver quién se presenta en tu ciudad o condado',
+    },
+    who: {
+      title: 'Quién se presenta donde vivo',
+      postTitle: 'Lista de candidatos (antes de la votación)',
+      fullPage:
+        'Página de candidatos: búsqueda por nombre, nominaciones por partido',
+      next: 'Encuentra tu lugar de votación',
+    },
+    understand: {
+      title: 'Entender esta elección',
+      chartTitle: 'Escaños por cargo',
+      chartNote:
+        'Ordenados por nivel del cargo, no es una clasificación; la longitud de la barra es el número de escaños.',
+      readTitle: 'Para saber más',
+    },
+    tools: {
+      title: 'Verificar y profundizar',
+      intro:
+        'Taiwan.md no rehace herramientas. Agrupados según lo que quieras comprobar, estos son los sitios oficiales y cívicos que ya lo hacen.',
+      internal: 'Taiwan.md',
+      groups: {
+        polling: 'Encontrar el lugar de votación',
+        lists: 'Gacetas y listas de candidatos',
+        money: 'Donaciones políticas',
+        rumors: 'Rumores y deepfakes',
+        views: 'Distintas perspectivas',
+        history: 'Resultados anteriores',
+      },
+      voteSearch: {
+        name: 'Búsqueda de lugares de votación (CEC)',
+        desc: 'Busca lugares de votación por ciudad o condado y distrito',
+      },
+      ris: {
+        name: 'Consulta del lugar de votación (registro civil)',
+        desc: 'Abierta del {start} al {end}; para quien vive lejos de su domicilio registrado o no recibió el aviso',
+      },
+      bulletin: {
+        name: 'Sitio de gacetas electorales y de referéndum',
+        desc: 'CEC: versiones en línea de las gacetas oficiales',
+      },
+      db: {
+        name: 'Base de datos electoral de la CEC',
+        desc: 'Resultados de elecciones anteriores; según el sitio, se actualiza dentro de los 7 días posteriores',
+      },
+    },
+    timeline: {
+      title: 'Lo que viene',
+      intro:
+        'Solo los próximos cinco pasos; los 30 están en la página del calendario. El estado sigue la fecha de Taipéi.',
+      nowLabel: 'En curso',
+      nextLabel: 'Siguiente',
+      fullLink: 'Ver el calendario completo',
+      source:
+        'Fechas según el calendario de la CEC y la ley; «a más tardar» indica un plazo legal calculado.',
+    },
+    further: { title: 'Lecturas relacionadas' },
+    about: {
+      title: 'Sobre esta página',
+      verified: 'Datos verificados el ',
+      reportPrefix: '¿Encontraste un error o un dato desactualizado? ',
+      reportLink: 'Repórtalo en GitHub',
+      reportSuffix: ', o usa el botón «Comentarios» abajo a la izquierda.',
+    },
+    tlLabels: {
+      'mayor-campaign':
+        'Campaña y presentaciones públicas de alcaldes de municipios especiales',
+      'referendum-sessions':
+        'Presentaciones sobre el referéndum n.º 22 (5 sesiones)',
+      'others-list':
+        'Publicación de listas: concejales municipales, jefes y concejales de condado',
+      'others-campaign':
+        'Campaña de concejales municipales, jefes y concejales de condado',
+      'local-campaign':
+        'Campaña de representantes de municipio, distrito indígena y jefes de aldea',
+      'voter-count': 'Publicación del número de electores',
+      'bulletins-delivered':
+        'Gacetas y avisos de votación entregados en cada hogar',
+      'voting-day':
+        'Día de votación: nueve elecciones locales y el referéndum n.º 22',
+      counting: 'Escrutinio',
+      'winners-announced': 'Proclamación de los electos',
+      'referendum-result': 'Proclamación del resultado del referéndum n.º 22',
+      certificates: 'Entrega de credenciales',
+      inauguration: 'Toma de posesión de los nuevos cargos',
+      'subsidy-notice': 'Aviso de pago del reembolso de gastos de campaña',
+    },
+  },
+};
+
 const lang = getLangFromUrl(Astro.url);
 // roadmap 四張卡依序連到四個子頁（各語言 roadmap.items 順序相同）
 const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
@@ -3059,28 +4028,10 @@ const copy = electionCopy[lang as keyof typeof electionCopy] ?? electionCopy.en;
 const pageTitle = copy.meta.title;
 const pageDescription = copy.meta.description;
 
-const electionDate = new Date('2026-11-28T08:00:00+08:00');
-const now = new Date();
-const daysUntil = Math.ceil(
-  (electionDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24),
-);
-const isUpcoming = daysUntil > 0;
-const isRecent = daysUntil > -7 && daysUntil <= 0;
-
-// Timeline milestone states — computed at build time (site rebuilds daily),
-// Taipei-local date so day boundaries flip on Taiwan time.
-const todayIso = new Date(now.getTime() + 8 * 60 * 60 * 1000)
-  .toISOString()
-  .slice(0, 10);
-const nextMilestoneIdx = copy.timeline.items.findIndex(
-  (m) => m.iso >= todayIso,
-);
-const nextMilestone =
-  nextMilestoneIdx >= 0 ? copy.timeline.items[nextMilestoneIdx] : null;
-
 // ── 2026-10 升級：衍生值 ──────────────────────────────────────────────
 const upLang: UpLang = lang in upgradeCopy ? (lang as UpLang) : 'en';
 const up = upgradeCopy[upLang];
+const ia = iaCopy[upLang];
 const isZh = upLang === 'zh-TW';
 const fill = (tpl: string, vars: Record<string, string | number>) =>
   tpl.replace(/\{(\w+)\}/g, (_, k: string) => String(vars[k] ?? ''));
@@ -3144,9 +4095,6 @@ const heroEyebrow = copy.hero.eyebrow.replace(
   /^\p{Extended_Pictographic}️?\s*/u,
   '',
 );
-const doneSteps = copy.timeline.items.filter((m) => m.iso < todayIso).length;
-const totalSteps = copy.timeline.items.length;
-const progressPct = Math.round((doneSteps / totalSteps) * 100);
 
 // fr／es 的千位分隔跟英文不同（法文的逗號是小數點）
 const numLocale =
@@ -3240,15 +4188,14 @@ const faqJsonLd = toJsonLd({
   })),
 });
 
-// 章節導覽：七個段落（07 延伸閱讀不列，避免導覽過長）
+// 章節導覽：讀者的五件事＋關於（延伸閱讀不列，避免導覽過長）
 const navItems = [
-  { id: 'candidates', label: up.nav.candidates },
-  { id: 'how-to-vote', label: up.nav.howToVote },
-  { id: 'referendum', label: up.nav.referendum },
-  { id: 'timeline', label: up.nav.timeline },
-  { id: 'offices', label: up.nav.offices },
-  { id: 'subpages', label: up.nav.subpages },
-  { id: 'about', label: up.nav.about },
+  { id: 'how-to-vote', label: ia.nav.vote },
+  { id: 'candidates', label: ia.nav.who },
+  { id: 'understand', label: ia.nav.understand },
+  { id: 'tools', label: ia.nav.tools },
+  { id: 'timeline', label: ia.nav.timeline },
+  { id: 'about', label: ia.nav.about },
 ];
 const candFilters = [
   { key: 'all', label: up.candidates.filterAll },
@@ -3334,6 +4281,203 @@ const referendumSourceHtml =
     'el-inline-link--slate',
   );
 import { icons } from '../icons/taiwan-icons.mjs';
+
+// ── 2026-11 改版：日期狀態、三扇門、怎麼投、查證工具、時程五步 ──────────
+type TimelineItem = {
+  id: string;
+  start: string;
+  end: string;
+  by?: boolean;
+  derived?: boolean;
+  cats: string[];
+} & Partial<Record<'zh-TW' | 'en' | 'ja', { title: string }>>;
+const timelineItems = (timelineDataRaw as unknown as { items: TimelineItem[] })
+  .items;
+const lookups = electionsData.lookups;
+// 預覽別的日期：ELECTIONS_TODAY=2026-11-28 npm run dev（只在建置時讀，正式站不設）
+const today = resolveToday(process.env.ELECTIONS_TODAY);
+const phase = electionPhase(today);
+const daysLeft = daysUntilElection(today);
+
+const dateLocale: Record<UpLang, string> = {
+  'zh-TW': 'zh-TW',
+  en: 'en-US',
+  ja: 'ja-JP',
+  ko: 'ko-KR',
+  fr: 'fr-FR',
+  es: 'es-ES',
+};
+// 中文與日文寫 11/25；其他語言用各自的月日寫法
+const fmtMD = (iso: string) => {
+  if (isZh || upLang === 'ja') {
+    const [, m, d] = iso.split('-');
+    return `${Number(m)}/${Number(d)}`;
+  }
+  return new Intl.DateTimeFormat(dateLocale[upLang], {
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC',
+  }).format(new Date(`${iso}T00:00:00Z`));
+};
+const fmtSpan = (i: { start: string; end: string; by?: boolean }) =>
+  i.by
+    ? fill(ia.status.by, { date: fmtMD(i.end) })
+    : i.start === i.end
+      ? fmtMD(i.start)
+      : fill(ia.status.range, { start: fmtMD(i.start), end: fmtMD(i.end) });
+const tlLabel = (i: TimelineItem) =>
+  (upLang === 'zh-TW' || upLang === 'en' || upLang === 'ja'
+    ? i[upLang]?.title
+    : ia.tlLabels?.[i.id]) ??
+  i.en?.title ??
+  i.id;
+
+// 戶政司開放查投票所：時程檔沒有這一筆，從 elections-2026.json 的 lookups 補
+const risItem: TimelineItem = {
+  id: 'ris-lookup',
+  start: lookups.risPollingPlace.opens,
+  end: lookups.risPollingPlace.closes,
+  cats: ['voters'],
+};
+const risWindow = {
+  start: fmtMD(lookups.risPollingPlace.opens),
+  end: fmtMD(lookups.risPollingPlace.closes),
+};
+const statusDates = (
+  phase === 'post'
+    ? upcoming(
+        timelineItems.filter((i) =>
+          ['winners-announced', 'inauguration'].includes(i.id),
+        ),
+        today,
+        3,
+      )
+    : voterDates(timelineItems, [risItem], today, 3)
+).map((i) => ({
+  ...i,
+  when: fmtSpan(i),
+  label: i.id === 'ris-lookup' ? ia.status.risLabel : tlLabel(i),
+  state: itemState(i, today),
+}));
+const bulletinItem = timelineItems.find((i) => i.id === 'bulletins-delivered');
+const bulletinDate = bulletinItem ? fmtMD(bulletinItem.end) : '';
+
+// 三扇門：選後第一扇改成「看官方選舉結果」（外連中選會選舉資料庫）
+const doors = [
+  phase === 'post'
+    ? {
+        key: 'results',
+        href: lookups.electionDb.url,
+        external: true,
+        icon: 'archive',
+        ...ia.doors.results,
+      }
+    : {
+        key: 'vote',
+        href: '#how-to-vote',
+        external: false,
+        icon: 'ballot',
+        ...ia.doors.vote,
+      },
+  {
+    key: 'who',
+    href: '#candidates',
+    external: false,
+    icon: 'map',
+    ...ia.doors.who,
+  },
+  {
+    key: 'what',
+    href: '#understand',
+    external: false,
+    icon: 'book',
+    ...ia.doors.what,
+  },
+];
+const lineIcon = (name: string) => (icons as Record<string, string>)[name];
+
+// 九種職位橫條：長度＝應選席次（線性，不取對數；數字直接標在旁邊）
+const maxSeats = Math.max(...officeRows.map((o) => o.count));
+const officeSources = [...new Set(electionsData.offices.map((o) => o.source))];
+
+// 時程：接下來五步（今天或之後開始的項目；狀態規則同時程子頁）
+const timelineSteps = nextSteps(timelineItems, today, 5).map((i) => ({
+  ...i,
+  when: fmtSpan(i),
+  label: tlLabel(i),
+  state: itemState(i, today),
+}));
+const firstTodo = timelineSteps.findIndex((s) => s.state === 'todo');
+
+// 查證工具：依讀者的問題分組；官方與公民團體的名稱沿用 resources 文案
+const resourceByUrl = (part: string) =>
+  copy.resources.items.find((r) => r.url.includes(part));
+const subpage = (slug: string) => {
+  const i = roadmapSlugs.indexOf(slug);
+  const item = copy.roadmap.items[i];
+  return {
+    name: item.title,
+    desc: item.desc,
+    url: `${langPrefix}/elections/2026/${slug}/`,
+    internal: true,
+  };
+};
+type ToolLink = { name: string; desc: string; url: string; internal?: boolean };
+const ext = (r: { name: string; desc: string; url: string } | undefined) =>
+  r ? [{ name: r.name, desc: r.desc, url: r.url }] : [];
+const toolGroups: Array<{
+  key: keyof IaCopy['tools']['groups'];
+  icon: string;
+  links: ToolLink[];
+}> = [
+  {
+    key: 'polling',
+    icon: 'pin',
+    links: [
+      { ...ia.tools.voteSearch, url: lookups.voteSearch.url },
+      {
+        name: ia.tools.ris.name,
+        desc: fill(ia.tools.ris.desc, risWindow),
+        url: lookups.risPollingPlace.url,
+      },
+    ],
+  },
+  {
+    key: 'lists',
+    icon: 'news',
+    links: [
+      { ...ia.tools.bulletin, url: electionsData.sources.bulletin },
+      ...ext(resourceByUrl('web.cec.gov.tw')),
+      subpage('candidates'),
+    ],
+  },
+  {
+    key: 'money',
+    icon: 'coins',
+    links: [
+      ...ext(resourceByUrl('ardata.cy.gov.tw')),
+      ...ext(resourceByUrl('g0v-money-flow')),
+      subpage('donations'),
+    ],
+  },
+  {
+    key: 'rumors',
+    icon: 'shield',
+    links: [
+      ...ext(resourceByUrl('tfc-taiwan')),
+      ...ext(resourceByUrl('cofacts')),
+    ],
+  },
+  { key: 'views', icon: 'comment', links: [subpage('perspectives')] },
+  {
+    key: 'history',
+    icon: 'archive',
+    links: [{ ...ia.tools.db, url: lookups.electionDb.url }],
+  },
+];
+
+// 錯誤回報：GitHub 事實更正表單，預填頁面網址
+const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template=fact-correction.yml&title=${encodeURIComponent('[Fact Check] 2026 選舉專頁')}&article=${encodeURIComponent(pageUrl)}`;
 ---
 
 <Layout
@@ -3342,8 +4486,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
   description={pageDescription}
   readerSettings
 >
-  <div class="elections-2026 el-surface">
-    <!-- 00 開場：投票日三件事＋倒數與選務進度 -->
+  <div class="elections-2026 el-surface" data-phase={phase}>
+    <!-- 00 開場：標題＋依台北日期切換的狀態列＋三扇門 -->
     <section class="el-hero" aria-labelledby="el-title">
       <div class="el-wrap el-hero-grid">
         <div class="el-hero-main">
@@ -3354,82 +4498,124 @@ import { icons } from '../icons/taiwan-icons.mjs';
             >{up.hero.titleGap}{copy.hero.titleSuffix}
           </h1>
           <p class="el-hero-sub">{copy.hero.subtitle}</p>
-          <ul class="el-facts el-reset" aria-label={up.hero.factsLabel}>
-            {
-              up.hero.facts.map((f) => (
-                <li class="el-fact">
-                  <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
-                    {iconPaths[f.icon].map((d) => (
-                      <path d={d} />
-                    ))}
-                  </svg>
-                  <div>
-                    <p class="el-fact-label">{f.label}</p>
-                    <p class="el-fact-value">{f.value}</p>
-                  </div>
-                </li>
-              ))
-            }
-          </ul>
         </div>
 
-        <aside class="el-count" aria-label={copy.hero.countdownLabel}>
+        <aside
+          class={`el-state is-${phase}`}
+          aria-label={phase === 'pre'
+            ? copy.hero.countdownLabel
+            : phase === 'day'
+              ? ia.status.dayTitle
+              : ia.status.postTitle}
+        >
           {
-            isUpcoming && (
-              <>
-                <p class="el-count-label">{copy.hero.countdownLabel}</p>
-                <p class="el-count-num">
-                  <span class="el-count-days">{daysUntil}</span>
-                  <span class="el-count-unit">{copy.hero.dayUnit}</span>
+            phase === 'pre' && (
+              <div class="el-st-count">
+                <p class="el-st-label">{copy.hero.countdownLabel}</p>
+                <p class="el-st-num">
+                  <span class="el-st-days">{daysLeft}</span>
+                  <span class="el-st-unit">{copy.hero.dayUnit}</span>
                 </p>
-                <p class="el-count-date">{copy.hero.dateLabel}</p>
-              </>
+                <p class="el-st-date">{copy.hero.dateLabel}</p>
+              </div>
             )
           }
           {
-            isRecent && (
-              <>
-                <p class="el-count-recent">{copy.hero.recentTitle}</p>
-                <p class="el-count-date">{copy.hero.recentSubtitle}</p>
-              </>
+            phase === 'day' && (
+              <div class="el-st-day">
+                <p class="el-st-title">{ia.status.dayTitle}</p>
+                <ul class="el-st-facts el-reset">
+                  <li>{ia.status.dayHours}</li>
+                  <li>{ia.status.dayBring}</li>
+                  <li>
+                    {ia.status.dayCount}
+                    {sentenceGap}
+                    <a
+                      href={lookups.cecHome.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="el-inline-link"
+                    >
+                      {ia.status.dayCountLink}
+                    </a>
+                  </li>
+                </ul>
+              </div>
             )
           }
           {
-            !isUpcoming && !isRecent && (
-              <p class="el-count-date">{copy.hero.dateLabel}</p>
-            )
-          }
-          {
-            nextMilestone && (
-              <div class="el-count-next">
-                <p class="el-count-next-label">{copy.timeline.nextLabel}</p>
-                <p class="el-count-next-body">
-                  <span class="el-count-next-date">{nextMilestone.date}</span>
-                  {nextMilestone.label}
+            phase === 'post' && (
+              <div class="el-st-day">
+                <p class="el-st-title">{ia.status.postTitle}</p>
+                <p class="el-st-result">
+                  {ia.status.postResults}
+                  {sentenceGap}
+                  <a
+                    href={lookups.electionDb.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="el-inline-link"
+                  >
+                    {ia.status.postResultsLink}
+                  </a>
+                  {ia.status.postResultsNote}
                 </p>
               </div>
             )
           }
-          <div class="el-progress">
-            <div class="el-progress-head">
-              <p class="el-progress-label">{up.hero.progressLabel}</p>
-              <a href="#timeline" class="el-progress-link"
-                >{up.hero.timelineLink} <span aria-hidden="true">→</span></a
-              >
-            </div>
-            <div class="el-progress-bar" aria-hidden="true">
-              <span style={`width: ${progressPct}%`}></span>
-            </div>
-            <p class="el-progress-count">
-              {
-                fill(up.hero.progressCount, {
-                  done: doneSteps,
-                  total: totalSteps,
-                })
-              }
-            </p>
-          </div>
+          {
+            statusDates.length > 0 && (
+              <div class="el-st-next">
+                <p class="el-st-next-label">
+                  {phase === 'post'
+                    ? ia.status.postNextLabel
+                    : ia.status.nextLabel}
+                </p>
+                <ol class="el-st-dates el-reset">
+                  {statusDates.map((d) => (
+                    <li class={`el-st-item is-${d.state}`}>
+                      <span class="el-st-when">{d.when}</span>
+                      <span class="el-st-what">{d.label}</span>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )
+          }
         </aside>
+
+        <nav class="el-doors" aria-label={ia.doors.label}>
+          <ul class="el-reset el-doors-list">
+            {
+              doors.map((d) => (
+                <li>
+                  <a
+                    href={d.href}
+                    class="el-door no-external-icon"
+                    {...(d.external
+                      ? { target: '_blank', rel: 'noopener noreferrer' }
+                      : {})}
+                  >
+                    <svg
+                      class="el-icon el-door-icon"
+                      viewBox="0 0 24 24"
+                      aria-hidden="true"
+                    >
+                      <path d={lineIcon(d.icon)} />
+                    </svg>
+                    <span class="el-door-text">
+                      <span class="el-door-title">{d.title}</span>
+                      <span class="el-door-hint">{d.hint}</span>
+                    </span>
+                    <span class="el-door-arrow" aria-hidden="true">
+                      {d.external ? '↗' : '↓'}
+                    </span>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
       </div>
     </section>
 
@@ -3452,16 +4638,126 @@ import { icons } from '../icons/taiwan-icons.mjs';
       </div>
     </nav>
 
-    <!-- 01 縣市長候選人（中選會審定名單；對稱呈現、無政黨色） -->
+    <!-- 01 怎麼投：一張卡講完四件事，常見問題收成折疊 -->
+    <section
+      id="how-to-vote"
+      class="el-section anchor-section"
+      aria-labelledby="h-vote"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">01</p>
+        <div class="el-sec-head">
+          <h2 id="h-vote" class="el-h2">{ia.vote.title}</h2>
+          <p class="el-sec-desc">{ia.vote.intro}</p>
+        </div>
+        <dl class="el-vote-card">
+          <div class="el-vote-row">
+            <dt>
+              <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d={lineIcon('clock')}></path>
+              </svg>
+              {ia.vote.timeLabel}
+            </dt>
+            <dd>{ia.vote.timeValue}</dd>
+          </div>
+          <div class="el-vote-row">
+            <dt>
+              <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d={lineIcon('id')}></path>
+              </svg>
+              {ia.vote.bringLabel}
+            </dt>
+            <dd>{ia.vote.bringValue}</dd>
+          </div>
+          <div class="el-vote-row">
+            <dt>
+              <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d={lineIcon('pin')}></path>
+              </svg>
+              {ia.vote.whereLabel}
+            </dt>
+            <dd>
+              {ia.vote.whereValue}
+              <span class="el-lookups">
+                <a
+                  href={lookups.voteSearch.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="el-btn el-btn-primary no-external-icon"
+                >
+                  {ia.vote.cecLookup}
+                  <span aria-hidden="true">↗</span>
+                </a>
+                <a
+                  href={lookups.risPollingPlace.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="el-btn el-btn-ghost no-external-icon"
+                >
+                  <span>
+                    {ia.vote.risLookup}
+                    <span aria-hidden="true">↗</span>
+                    <span class="el-btn-sub">
+                      {fill(ia.vote.risWindow, risWindow)}
+                    </span>
+                  </span>
+                </a>
+              </span>
+            </dd>
+          </div>
+          <div class="el-vote-row">
+            <dt>
+              <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d={lineIcon('news')}></path>
+              </svg>
+              {ia.vote.paperLabel}
+            </dt>
+            <dd>
+              {fill(ia.vote.paperValue, { date: bulletinDate })}{sentenceGap}
+              <a
+                href={electionsData.sources.bulletin}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="el-inline-link">{ia.vote.paperLink}</a
+              >
+            </dd>
+          </div>
+        </dl>
+
+        <h3 class="el-h3 el-faq-title">{ia.vote.faqTitle}</h3>
+        <p class="el-note">{ia.vote.faqHint}</p>
+        <div class="el-faqs">
+          {
+            faqItems.map((f) => (
+              <details id={`vote-${f.id}`} class="el-faq">
+                <summary class="el-faq-q">{f.q}</summary>
+                <p class="el-faq-a">{f.a}</p>
+                <p class="el-faq-src" set:html={faqSourceHtml(f.links)} />
+              </details>
+            ))
+          }
+        </div>
+        <p class="el-next">
+          <a href="#candidates" class="el-more-link">
+            {ia.vote.next}
+            <span aria-hidden="true">↓</span>
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <!-- 02 我們縣市有誰（中選會審定名單；對稱呈現、無政黨色） -->
     <section
       id="candidates"
       class="el-section anchor-section"
       aria-labelledby="h-candidates"
     >
       <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">01</p>
+        <p class="el-sec-no" aria-hidden="true">02</p>
         <div class="el-sec-head">
-          <h2 id="h-candidates" class="el-h2">{up.candidates.title}</h2>
+          <h2 id="h-candidates" class="el-h2">
+            {phase === 'post' ? ia.who.postTitle : ia.who.title}
+          </h2>
           <p class="el-sec-desc">
             {
               fill(up.candidates.intro, {
@@ -3650,121 +4946,236 @@ import { icons } from '../icons/taiwan-icons.mjs';
             </a>
           </div>
         </aside>
+        <p class="el-next el-next--split">
+          <a
+            href={`${langPrefix}/elections/2026/candidates/`}
+            class="el-more-link"
+          >
+            {ia.who.fullPage}
+            <span aria-hidden="true">→</span>
+          </a>
+          <a href="#how-to-vote" class="el-more-link">
+            {ia.who.next}
+            <span aria-hidden="true">↑</span>
+          </a>
+        </p>
       </div>
     </section>
 
-    <!-- 02 怎麼投票（七題全部展開） -->
+    <!-- 03 讀懂這場選舉：九種職位一張圖＋同日公投（只講程序）＋制度文章 -->
     <section
-      id="how-to-vote"
+      id="understand"
       class="el-section anchor-section"
-      aria-labelledby="h-vote"
+      aria-labelledby="h-understand"
     >
       <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">02</p>
+        <p class="el-sec-no" aria-hidden="true">03</p>
         <div class="el-sec-head">
-          <h2 id="h-vote" class="el-h2">{up.howToVote.title}</h2>
-          <p class="el-sec-desc">{up.howToVote.intro}</p>
+          <h2 id="h-understand" class="el-h2">{ia.understand.title}</h2>
+          <p class="el-sec-desc">{copy.offices.intro}</p>
         </div>
-        <div class="el-faqs">
-          {
-            faqItems.map((f, i) => (
-              <article id={`vote-${f.id}`} class="el-faq">
-                <p class="el-faq-no" aria-hidden="true">
-                  Q{i + 1}
+        <figure id="offices" class="el-chart anchor-section">
+          <figcaption class="el-chart-head">
+            <h3 class="el-h3">{ia.understand.chartTitle}</h3>
+            <p class="el-total">
+              <span class="el-total-label">{up.offices.totalPrefix}</span>
+              <span class="el-total-num">
+                {fmt(electionsData.totalElected.count)}
+              </span>
+              <span class="el-total-unit">{up.offices.totalSuffix}</span>
+            </p>
+          </figcaption>
+          <ul class="el-bars el-reset">
+            {
+              officeRows.map((e) => (
+                <li class="el-bar-row">
+                  <span class="el-bar-name">{e.name}</span>
+                  <span class="el-bar-track" aria-hidden="true">
+                    <span
+                      class="el-bar-fill"
+                      style={`width: max(2px, ${((e.count / maxSeats) * 100).toFixed(2)}%)`}
+                    />
+                  </span>
+                  <span class="el-bar-val">
+                    {e.estimate && up.offices.approxPrefix}
+                    {fmt(e.count)}
+                  </span>
+                </li>
+              ))
+            }
+          </ul>
+          <p class="el-note el-chart-note">
+            {ia.understand.chartNote}{sentenceGap}{copy.offices.sourceNote}{
+              sentenceGap
+            }<span
+              set:html={escHtml(up.howToVote.sourceLabel) +
+                sourceLinks([
+                  ...officeSources.map((url) => ({
+                    url,
+                    label: up.links.announcement,
+                  })),
+                  {
+                    url: electionsData.totalElected.source,
+                    label: up.offices.totalSource,
+                  },
+                ])}
+            />
+          </p>
+        </figure>
+
+        <div id="referendum" class="el-ref anchor-section">
+          <div class="el-ref-grid">
+            <div>
+              <p class="el-kicker">{up.referendum.eyebrow}</p>
+              <h3 id="h-referendum" class="el-h3 el-ref-title">
+                {up.referendum.title}
+              </h3>
+              <p class="el-sec-desc">{up.referendum.lead}</p>
+              <figure class="el-ref-q">
+                <figcaption class="el-ref-q-label">
+                  {up.referendum.questionLabel}
+                </figcaption>
+                <p class="el-ref-text" lang="zh-Hant">
+                  「{referendum.question}」
                 </p>
-                <h3 class="el-faq-q">{f.q}</h3>
-                <p class="el-faq-a">{f.a}</p>
-                <p class="el-faq-src" set:html={faqSourceHtml(f.links)} />
-              </article>
+                {
+                  up.referendum.translation && (
+                    <div class="el-ref-tr">
+                      <p class="el-ref-tr-label">
+                        {up.referendum.translationLabel}
+                      </p>
+                      <p class="el-ref-tr-text">{up.referendum.translation}</p>
+                    </div>
+                  )
+                }
+              </figure>
+            </div>
+            <dl class="el-ref-facts">
+              {
+                up.referendum.facts.map((fact) => (
+                  <div class="el-ref-fact">
+                    <dt>{fact.label}</dt>
+                    <dd>{fact.text}</dd>
+                  </div>
+                ))
+              }
+            </dl>
+          </div>
+          <div class="el-ref-foot">
+            <p>{up.referendum.neutral}</p>
+            <p set:html={referendumSourceHtml} />
+          </div>
+        </div>
+
+        <div class="el-read">
+          <h3 class="el-col-title">{ia.understand.readTitle}</h3>
+          <ul class="el-list el-reset">
+            {
+              [copy.related.articles[1], copy.related.articles[5]]
+                .filter(Boolean)
+                .map((a) => (
+                  <li>
+                    <a href={a.href} class="el-list-link">
+                      <span class="el-list-title">{a.title}</span>
+                      <span class="el-list-desc">{a.desc}</span>
+                    </a>
+                  </li>
+                ))
+            }
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- 04 查證與深入：依讀者的問題分組 -->
+    <section
+      id="tools"
+      class="el-section anchor-section"
+      aria-labelledby="h-tools"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">04</p>
+        <div class="el-sec-head">
+          <h2 id="h-tools" class="el-h2">{ia.tools.title}</h2>
+          <p class="el-sec-desc">{ia.tools.intro}</p>
+        </div>
+        <div class="el-tools">
+          {
+            toolGroups.map((g) => (
+              <section class="el-tool" aria-labelledby={`tool-${g.key}`}>
+                <h3 id={`tool-${g.key}`} class="el-tool-title">
+                  <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d={lineIcon(g.icon)} />
+                  </svg>
+                  {ia.tools.groups[g.key]}
+                </h3>
+                <ul class="el-reset el-tool-list">
+                  {g.links.map((l) => (
+                    <li>
+                      <a
+                        href={l.url}
+                        class="el-tool-link no-external-icon"
+                        {...(l.internal
+                          ? {}
+                          : { target: '_blank', rel: 'noopener noreferrer' })}
+                      >
+                        <span class="el-tool-name">
+                          {l.name}
+                          {l.internal ? (
+                            <span class="el-tag el-tag--inline">
+                              {ia.tools.internal}
+                            </span>
+                          ) : (
+                            <span class="el-ext" aria-hidden="true">
+                              ↗
+                            </span>
+                          )}
+                        </span>
+                        <span class="el-tool-desc">{l.desc}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
             ))
           }
         </div>
       </div>
     </section>
 
-    <!-- 03 同日公投：另一張票，石板灰底；完全中立，只列程序事實 -->
-    <section
-      id="referendum"
-      class="el-section el-section--slate anchor-section"
-      aria-labelledby="h-referendum"
-    >
-      <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">03</p>
-        <div class="el-ref-grid">
-          <div>
-            <p class="el-kicker">{up.referendum.eyebrow}</p>
-            <h2 id="h-referendum" class="el-h2">{up.referendum.title}</h2>
-            <p class="el-sec-desc">{up.referendum.lead}</p>
-            <figure class="el-ref-q">
-              <figcaption class="el-ref-q-label">
-                {up.referendum.questionLabel}
-              </figcaption>
-              <p class="el-ref-text" lang="zh-Hant">
-                「{referendum.question}」
-              </p>
-              {
-                up.referendum.translation && (
-                  <div class="el-ref-tr">
-                    <p class="el-ref-tr-label">
-                      {up.referendum.translationLabel}
-                    </p>
-                    <p class="el-ref-tr-text">{up.referendum.translation}</p>
-                  </div>
-                )
-              }
-            </figure>
-          </div>
-          <dl class="el-ref-facts">
-            {
-              up.referendum.facts.map((fact) => (
-                <div class="el-ref-fact">
-                  <dt>{fact.label}</dt>
-                  <dd>{fact.text}</dd>
-                </div>
-              ))
-            }
-          </dl>
-        </div>
-        <div class="el-ref-foot">
-          <p>{up.referendum.neutral}</p>
-          <p set:html={referendumSourceHtml} />
-        </div>
-      </div>
-    </section>
-
-    <!-- 04 選務時程（中選會第 622 次委員會議決議） -->
+    <!-- 05 時程：只放接下來五步 -->
     <section
       id="timeline"
       class="el-section anchor-section"
       aria-labelledby="h-timeline"
     >
       <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">04</p>
+        <p class="el-sec-no" aria-hidden="true">05</p>
         <div class="el-sec-head">
-          <h2 id="h-timeline" class="el-h2">{copy.timeline.title}</h2>
-          <p class="el-sec-desc">{copy.timeline.subtitle}</p>
+          <h2 id="h-timeline" class="el-h2">{ia.timeline.title}</h2>
+          <p class="el-sec-desc">{ia.timeline.intro}</p>
         </div>
         <ol class="el-steps">
           {
-            copy.timeline.items.map((m, i) => {
-              const isDone = m.iso < todayIso;
-              const isNext = i === nextMilestoneIdx;
-              const state = isDone ? 'is-done' : isNext ? 'is-next' : 'is-todo';
+            timelineSteps.map((m, i) => {
+              const isNext = i === firstTodo;
+              const state =
+                m.state === 'now' ? 'is-now' : isNext ? 'is-next' : 'is-todo';
               return (
                 <li
                   class={`el-step ${state}`}
                   aria-current={isNext ? 'step' : undefined}
                 >
-                  <span class="el-step-date">{m.date}</span>
+                  <span class="el-step-date">{m.when}</span>
                   <span class="el-step-dot" aria-hidden="true" />
-                  <span class="el-step-label">
-                    {m.label}
-                    {isDone && (
-                      <span class="el-sr">（{copy.timeline.doneLabel}）</span>
-                    )}
-                  </span>
+                  <span class="el-step-label">{m.label}</span>
+                  {m.state === 'now' && (
+                    <span class="el-step-badge is-now">
+                      {ia.timeline.nowLabel}
+                    </span>
+                  )}
                   {isNext && (
-                    <span class="el-step-badge">{copy.timeline.nextLabel}</span>
+                    <span class="el-step-badge">{ia.timeline.nextLabel}</span>
                   )}
                 </li>
               );
@@ -3776,207 +5187,61 @@ import { icons } from '../icons/taiwan-icons.mjs';
             href={`${langPrefix}/elections/2026/timeline/`}
             class="el-more-link"
           >
-            {up.timeline.fullLink}
+            {ia.timeline.fullLink}
             <span aria-hidden="true">→</span>
           </a>
-          <p class="el-note">{copy.timeline.sourceNote}</p>
+          <p class="el-note">{ia.timeline.source}</p>
         </div>
       </div>
     </section>
 
-    <!-- 05 九種職位（正式名額；數字全部用主文字色） -->
-    <section
-      id="offices"
-      class="el-section anchor-section"
-      aria-labelledby="h-offices"
-    >
-      <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">05</p>
-        <div class="el-sec-head">
-          <h2 id="h-offices" class="el-h2">{copy.offices.title}</h2>
-          <p class="el-sec-desc">{copy.offices.intro}</p>
-        </div>
-        <p class="el-total">
-          <span class="el-total-label">{up.offices.totalPrefix}</span>
-          <span class="el-total-num">
-            {fmt(electionsData.totalElected.count)}
-          </span>
-          <span class="el-total-unit">{up.offices.totalSuffix}</span>
-          <a
-            href={electionsData.totalElected.source}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="el-inline-link el-total-src">{up.offices.totalSource}</a
-          >
-        </p>
-        <ul class="el-offices el-reset">
-          {
-            officeRows.map((e) => (
-              <li class="el-office">
-                <h3 class="el-office-name">{e.name}</h3>
-                <p class="el-office-count">
-                  {e.estimate && (
-                    <span class="el-office-approx">
-                      {up.offices.approxPrefix}
-                    </span>
-                  )}
-                  {fmt(e.count)}
-                </p>
-                <p class="el-office-desc">
-                  {e.desc}
-                  {e.estimate && (
-                    <span class="el-tag el-tag--inline">
-                      {up.offices.estimateLabel}
-                    </span>
-                  )}
-                </p>
-              </li>
-            ))
-          }
-        </ul>
-        <p class="el-note el-note--after">{copy.offices.sourceNote}</p>
-      </div>
-    </section>
-
-    <!-- 06 專區頁面（四個子頁；已上線的整張卡是連結） -->
-    <section
-      id="subpages"
-      class="el-section anchor-section"
-      aria-labelledby="h-subpages"
-    >
-      <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">06</p>
-        <div class="el-sec-head">
-          <h2 id="h-subpages" class="el-h2">{up.subpages.title}</h2>
-          <p class="el-sec-desc">{up.subpages.subtitle}</p>
-        </div>
-        <ul class="el-pages el-reset">
-          {
-            copy.roadmap.items.map((item, i) => {
-              const slug = roadmapSlugs[i];
-              const live = liveSubpages.has(slug);
-              return (
-                <li>
-                  {live ? (
-                    <a
-                      href={`${langPrefix}/elections/2026/${slug}/`}
-                      class="el-page is-live"
-                    >
-                      <span class="el-page-top">
-                        <svg
-                          class="el-icon el-page-icon"
-                          viewBox="0 0 24 24"
-                          aria-hidden="true"
-                        >
-                          {iconPaths[slug].map((d) => (
-                            <path d={d} />
-                          ))}
-                        </svg>
-                        <span class="el-status is-live">
-                          {up.subpages.live}
-                        </span>
-                      </span>
-                      <span class="el-page-title">{item.title}</span>
-                      <span class="el-page-desc">{item.desc}</span>
-                      <span class="el-page-cta">
-                        {roadmapCta[upLang] ?? roadmapCta.en}{' '}
-                        <span aria-hidden="true">→</span>
-                      </span>
-                    </a>
-                  ) : (
-                    <div class="el-page is-wip">
-                      <span class="el-page-top">
-                        <svg
-                          class="el-icon el-page-icon"
-                          viewBox="0 0 24 24"
-                          aria-hidden="true"
-                        >
-                          {iconPaths[slug].map((d) => (
-                            <path d={d} />
-                          ))}
-                        </svg>
-                        <span class="el-status is-wip">{up.subpages.wip}</span>
-                      </span>
-                      <span class="el-page-title">{item.title}</span>
-                      <span class="el-page-desc">{item.desc}</span>
-                    </div>
-                  )}
-                </li>
-              );
-            })
-          }
-        </ul>
-      </div>
-    </section>
-
-    <!-- 07 延伸閱讀與公民工具 -->
+    <!-- 06 延伸閱讀（策展層文章） -->
     <section
       id="further"
       class="el-section anchor-section"
       aria-labelledby="h-further"
     >
       <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">07</p>
+        <p class="el-sec-no" aria-hidden="true">06</p>
         <div class="el-sec-head">
-          <h2 id="h-further" class="el-h2">{up.further.title}</h2>
+          <h2 id="h-further" class="el-h2">{ia.further.title}</h2>
+          <p class="el-sec-desc">{copy.related.intro}</p>
         </div>
-        <div class="el-further">
-          <div>
-            <h3 class="el-col-title">{copy.related.title}</h3>
-            <p class="el-col-intro">{copy.related.intro}</p>
-            <ul class="el-list el-reset">
-              {
-                copy.related.articles.map((a) => (
-                  <li>
-                    <a href={a.href} class="el-list-link">
-                      <span class="el-list-title">{a.title}</span>
-                      <span class="el-list-desc">{a.desc}</span>
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-          </div>
-          <div>
-            <h3 class="el-col-title">{copy.resources.title}</h3>
-            <p class="el-col-intro">{copy.resources.intro}</p>
-            <ul class="el-list el-reset">
-              {
-                copy.resources.items.map((r) => (
-                  <li>
-                    <a
-                      href={r.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="el-list-link no-external-icon"
-                    >
-                      <span class="el-list-title">
-                        {r.name}
-                        <span class="el-ext" aria-hidden="true">
-                          ↗
-                        </span>
-                      </span>
-                      <span class="el-list-desc">{r.desc}</span>
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-          </div>
-        </div>
+        <ul class="el-list el-list--grid el-reset">
+          {
+            copy.related.articles.map((a) => (
+              <li>
+                <a href={a.href} class="el-list-link">
+                  <span class="el-list-title">{a.title}</span>
+                  <span class="el-list-desc">{a.desc}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
       </div>
     </section>
 
-    <!-- 08 關於本專區：Taiwan.md 的角色＋怎麼驗證 -->
+    <!-- 07 關於這一頁：Taiwan.md 的角色＋怎麼驗證＋查證日期與錯誤回報 -->
     <section
       id="about"
       class="el-section el-section--about anchor-section"
       aria-labelledby="h-about"
     >
       <div class="el-wrap">
-        <p class="el-sec-no" aria-hidden="true">08</p>
+        <p class="el-sec-no" aria-hidden="true">07</p>
         <div class="el-sec-head">
-          <h2 id="h-about" class="el-h2">{up.about.title}</h2>
+          <h2 id="h-about" class="el-h2">{ia.about.title}</h2>
+          <p class="el-verified">
+            {ia.about.verified}<time datetime={electionsData.pageVerified}
+              >{electionsData.pageVerified}</time
+            >{isZh || upLang === 'ja' ? '。' : '. '}{ia.about.reportPrefix}<a
+              href={reportHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="el-inline-link">{ia.about.reportLink}</a
+            >{ia.about.reportSuffix}
+          </p>
         </div>
         <div class="el-about-grid">
           <div>
@@ -4078,6 +5343,36 @@ import { icons } from '../icons/taiwan-icons.mjs';
       });
     });
   }
+
+  // 1b. 錨點落在折疊的常見問題（#vote-*）就打開它；落在被篩掉的縣市卡
+  //     （#race-*，例如從地圖點進來）就先把篩選切回「全部」再捲過去。
+  const reveal = (id: string, scroll: boolean) => {
+    const el = id ? document.getElementById(id) : null;
+    if (!el) return;
+    if (el instanceof HTMLDetailsElement) el.open = true;
+    if (el.closest<HTMLElement>('[data-cand-group]')?.hidden) {
+      document
+        .querySelector<HTMLButtonElement>(
+          '[data-cand-filter] [data-filter="all"]',
+        )
+        ?.click();
+      if (scroll) el.scrollIntoView();
+    }
+  };
+  const hashId = () => decodeURIComponent(location.hash.slice(1));
+  reveal(hashId(), true);
+  window.addEventListener('hashchange', () => reveal(hashId(), true));
+  // 點連結時在瀏覽器捲動之前先處理，才不會捲到隱藏的卡片
+  document.addEventListener(
+    'click',
+    (event) => {
+      const a = (
+        event.target as HTMLElement | null
+      )?.closest<HTMLAnchorElement>('a[href^="#race-"], a[href^="#vote-"]');
+      if (a) reveal(a.getAttribute('href')!.slice(1), false);
+    },
+    true,
+  );
 
   // 2. 章節導覽：跟著站台表頭（含語言橫幅）的實際高度貼齊；
   //    IntersectionObserver 標出目前段落；手機橫向捲動時只動導覽本身的
@@ -4235,7 +5530,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
   /* ── 00 開場 ── */
   .el-hero {
     position: relative;
-    padding: 40px 0 48px;
+    padding: 20px 0 28px;
   }
   .el-hero::before {
     content: '';
@@ -4257,12 +5552,21 @@ import { icons } from '../icons/taiwan-icons.mjs';
   .el-hero-grid {
     position: relative;
     display: grid;
-    gap: 28px;
-    align-items: center;
+    grid-template-areas: 'main' 'state' 'doors';
+    gap: 14px;
+  }
+  .el-hero-main {
+    grid-area: main;
+  }
+  .el-state {
+    grid-area: state;
+  }
+  .el-doors {
+    grid-area: doors;
   }
   .el-eyebrow {
-    margin: 0 0 12px;
-    font-size: 14px;
+    margin: 0 0 4px;
+    font-size: 13px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -4271,7 +5575,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
   .el-h1 {
     margin: 0;
     font-family: var(--el-serif);
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 700;
     line-height: 1.15;
     letter-spacing: -0.02em;
@@ -4281,162 +5585,164 @@ import { icons } from '../icons/taiwan-icons.mjs';
     color: var(--el-accent);
   }
   .el-hero-sub {
-    margin: 14px 0 0;
+    margin: 4px 0 0;
     max-width: 36em;
-    font-size: 18px;
-    line-height: 1.7;
+    font-size: 15px;
+    line-height: 1.6;
     color: var(--el-ink-2);
   }
-  .el-facts {
-    margin-top: 28px;
-    display: grid;
-    gap: 10px;
-  }
-  .el-fact {
-    display: flex;
-    gap: 12px;
-    align-items: flex-start;
+
+  /* 狀態列：選前倒數＋接下來的日期；投票日與選後換內容（建置時決定） */
+  .el-state {
     padding: 14px 16px;
     background: var(--el-card);
     border: 1px solid var(--el-border);
-    border-radius: 12px;
-  }
-  .el-fact .el-icon {
-    color: var(--el-accent);
-    margin-top: 2px;
-  }
-  .el-fact-label {
-    margin: 0;
-    font-size: 13px;
-    line-height: 1.5;
-    color: var(--el-ink-3);
-  }
-  .el-fact-value {
-    margin: 2px 0 0;
-    font-size: 15px;
-    font-weight: 600;
-    line-height: 1.55;
-    color: var(--el-ink);
-  }
-
-  .el-count {
-    padding: 24px;
-    background: var(--el-card);
-    border: 1px solid var(--el-border);
-    border-radius: 16px;
+    border-radius: 14px;
     box-shadow:
       0 1px 2px color-mix(in srgb, var(--el-ink) 4%, transparent),
       0 10px 28px color-mix(in srgb, var(--el-accent) 6%, transparent);
   }
-  .el-count-label {
+  .el-st-count {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 2px 10px;
+  }
+  .el-st-label,
+  .el-st-date,
+  .el-st-next-label {
     margin: 0;
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 13px;
     line-height: 1.5;
     color: var(--el-ink-2);
   }
-  .el-count-num {
-    margin: 6px 0 0;
+  .el-st-date {
+    font-variant-numeric: tabular-nums;
+  }
+  .el-st-num {
+    margin: 0;
     display: flex;
     align-items: baseline;
-    gap: 8px;
+    gap: 4px;
     color: var(--el-accent);
   }
-  .el-count-days {
+  .el-st-days {
     font-family: var(--el-serif);
-    font-size: 72px;
+    font-size: 44px;
     font-weight: 700;
     line-height: 1;
     letter-spacing: -0.02em;
     font-variant-numeric: tabular-nums;
   }
-  .el-count-unit {
-    font-size: 20px;
+  .el-st-unit {
+    font-size: 17px;
     font-weight: 600;
     line-height: 1;
   }
-  .el-count-date {
-    margin: 10px 0 0;
-    font-size: 15px;
-    line-height: 1.5;
-    color: var(--el-ink-2);
-    font-variant-numeric: tabular-nums;
-  }
-  .el-count-recent {
+  .el-st-title {
     margin: 0;
     font-family: var(--el-serif);
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 1.3;
     color: var(--el-accent);
   }
-  .el-count-next {
-    margin-top: 20px;
-    padding-top: 16px;
-    border-top: 1px solid var(--el-rule);
+  .el-st-facts {
+    margin-top: 6px;
   }
-  .el-count-next-label,
-  .el-progress-label {
-    margin: 0;
-    font-size: 13px;
-    line-height: 1.5;
-    color: var(--el-ink-3);
-  }
-  .el-count-next-body {
-    margin: 2px 0 0;
-    font-size: 15px;
-    font-weight: 600;
+  .el-st-facts > li,
+  .el-st-result {
+    margin: 4px 0 0;
+    font-size: 14px;
     line-height: 1.6;
     color: var(--el-ink);
   }
-  .el-count-next-date {
-    margin-inline-end: 8px;
-    color: var(--el-accent);
-    font-variant-numeric: tabular-nums;
-  }
-  .el-progress {
-    margin-top: 16px;
-    padding-top: 16px;
+  .el-st-next {
+    margin-top: 10px;
+    padding-top: 10px;
     border-top: 1px solid var(--el-rule);
   }
-  .el-progress-head {
+  .el-st-dates {
+    margin-top: 4px;
+    display: grid;
+    gap: 2px;
+  }
+  .el-st-item {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 12px;
-  }
-  .el-progress-link {
-    flex: none;
+    gap: 10px;
     font-size: 14px;
+    line-height: 1.5;
+  }
+  .el-st-when {
+    flex: none;
+    min-width: 6.5em;
     font-weight: 600;
-    line-height: 1.5;
     color: var(--el-accent);
-    border-bottom: 1px solid transparent;
-    padding-bottom: 0;
-  }
-  .el-progress-link:hover {
-    color: var(--el-accent);
-    border-bottom-color: var(--el-accent);
-  }
-  .el-progress-bar {
-    margin-top: 8px;
-    height: 6px;
-    border-radius: 999px;
-    background: var(--el-rule);
-    overflow: hidden;
-  }
-  .el-progress-bar > span {
-    display: block;
-    height: 100%;
-    border-radius: inherit;
-    background: var(--el-done);
-  }
-  .el-progress-count {
-    margin: 6px 0 0;
-    font-size: 13px;
-    line-height: 1.5;
-    color: var(--el-ink-2);
     font-variant-numeric: tabular-nums;
+  }
+  .el-st-item.is-now .el-st-when::after {
+    content: ' ●';
+    font-size: 10px;
+    vertical-align: 2px;
+    color: var(--el-done);
+  }
+  .el-st-what {
+    min-width: 0;
+    color: var(--el-ink);
+  }
+
+  /* 三扇門：手機三列、桌機三欄 */
+  .el-doors-list {
+    display: grid;
+    gap: 8px;
+  }
+  .el-door {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 52px;
+    padding: 9px 14px;
+    color: var(--el-ink);
+    text-decoration: none;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+    transition:
+      border-color 0.15s,
+      box-shadow 0.15s;
+  }
+  .el-door:hover {
+    color: var(--el-ink);
+    border-color: color-mix(in srgb, var(--el-accent) 45%, transparent);
+    box-shadow: 0 6px 18px color-mix(in srgb, var(--el-accent) 7%, transparent);
+  }
+  .el-door:focus-visible {
+    outline: 2px solid var(--el-accent);
+    outline-offset: 2px;
+  }
+  .el-door-icon {
+    color: var(--el-accent);
+  }
+  .el-door-text {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+  }
+  .el-door-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+  .el-door-hint {
+    font-size: 12.5px;
+    line-height: 1.45;
+    color: var(--el-ink-2);
+  }
+  .el-door-arrow {
+    flex: none;
+    font-size: 16px;
+    color: var(--el-accent);
   }
 
   /* ── 章節導覽 ── */
@@ -4504,10 +5810,6 @@ import { icons } from '../icons/taiwan-icons.mjs';
     padding: 56px 0;
     border-top: 1px solid var(--el-rule);
   }
-  .el-section--slate {
-    background: var(--el-slate);
-    border-top-color: var(--el-slate-line);
-  }
   .el-section--about {
     background: var(--el-about);
     border-top-color: var(--el-border);
@@ -4529,9 +5831,6 @@ import { icons } from '../icons/taiwan-icons.mjs';
     flex: 1;
     height: 1px;
     background: var(--el-border);
-  }
-  .el-section--slate .el-sec-no::after {
-    background: var(--el-slate-line);
   }
   .el-sec-head {
     margin-bottom: 28px;
@@ -4891,52 +6190,202 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
 
   /* ── 02 怎麼投票 ── */
+  .el-vote-card {
+    margin: 0;
+    padding: 4px 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .el-vote-row {
+    padding: 14px 0;
+  }
+  .el-vote-row + .el-vote-row {
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-vote-row dt {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-accent);
+  }
+  .el-vote-row dt .el-icon {
+    width: 20px;
+    height: 20px;
+  }
+  .el-vote-row dd {
+    margin: 4px 0 0;
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--el-ink);
+  }
+  .el-lookups {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+  }
+  .el-btn-sub {
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--el-ink-2);
+  }
+  .el-faq-title {
+    margin-top: 36px;
+  }
   .el-faqs {
     display: grid;
-    gap: 16px;
+    gap: 8px;
+    margin-top: 14px;
   }
   .el-faq {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
     background: var(--el-card);
     border: 1px solid var(--el-border);
     border-radius: 12px;
     scroll-margin-top: 64px;
   }
-  .el-faq-no {
-    margin: 0;
-    font-family: var(--el-mono);
-    font-size: 13px;
-    font-weight: 600;
-    line-height: 1.4;
-    letter-spacing: 0.06em;
-    color: var(--el-accent);
+  .el-faq[open] {
+    border-color: var(--el-border-strong);
   }
   .el-faq-q {
-    margin: 6px 0 0;
+    position: relative;
+    padding: 14px 44px 14px 18px;
     font-family: var(--el-sans);
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 600;
     line-height: 1.5;
-    letter-spacing: 0;
     color: var(--el-ink);
+    cursor: pointer;
+    list-style: none;
+  }
+  .el-faq-q::-webkit-details-marker {
+    display: none;
+  }
+  .el-faq-q::after {
+    content: '+';
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--el-accent);
+  }
+  .el-faq[open] > .el-faq-q::after {
+    content: '−';
+  }
+  .el-faq-q:focus-visible {
+    outline: 2px solid var(--el-accent);
+    outline-offset: -2px;
+    border-radius: 12px;
+  }
+  .el-faq-a,
+  .el-faq-src {
+    padding: 0 18px;
+  }
+  .el-faq-src {
+    padding-bottom: 16px;
   }
   .el-faq-a {
-    margin: 8px 0 0;
+    margin: 0;
     font-size: 15px;
     line-height: 1.8;
     color: color-mix(in srgb, var(--el-ink-2) 70%, var(--el-ink));
   }
   .el-faq-src {
-    margin: auto 0 0;
-    padding-top: 14px;
+    margin: 0;
+    padding-top: 8px;
     font-size: 13px;
     line-height: 1.7;
     color: var(--el-ink-3);
   }
 
-  /* ── 03 同日公投 ── */
+  .el-next {
+    margin: 28px 0 0;
+  }
+  .el-next--split {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 12px 24px;
+  }
+
+  /* ── 03 讀懂這場選舉：九種職位橫條 ── */
+  .el-chart {
+    margin: 0;
+    padding: 20px 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .el-chart-head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 4px 16px;
+    margin-bottom: 14px;
+  }
+  .el-bars {
+    display: grid;
+    gap: 6px;
+  }
+  .el-bar-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas: 'name val' 'bar bar';
+    align-items: baseline;
+    gap: 2px 12px;
+  }
+  .el-bar-name {
+    grid-area: name;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--el-ink);
+  }
+  .el-bar-track {
+    grid-area: bar;
+    display: block;
+    height: 10px;
+    background: var(--el-chart-track);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .el-bar-fill {
+    display: block;
+    height: 100%;
+    background: var(--el-chart-bar);
+    border-radius: 3px;
+  }
+  .el-bar-val {
+    grid-area: val;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--el-chart-label);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-chart-note {
+    margin-top: 16px;
+  }
+  .el-read {
+    margin-top: 40px;
+  }
+
+  /* ── 03 同日公投（石板灰卡；只列程序） ── */
+  .el-ref {
+    margin-top: 32px;
+    padding: 24px 18px;
+    background: var(--el-slate);
+    border: 1px solid var(--el-slate-line);
+    border-radius: 14px;
+  }
+  .el-ref-title {
+    font-size: 22px;
+  }
   .el-ref-grid {
     display: grid;
     gap: 32px;
@@ -5093,9 +6542,23 @@ import { icons } from '../icons/taiwan-icons.mjs';
     line-height: 1.6;
     color: var(--el-ink-2);
   }
-  .is-next .el-step-label {
+  .is-next .el-step-label,
+  .is-now .el-step-label {
     font-weight: 600;
     color: var(--el-ink);
+  }
+  .is-now .el-step-dot {
+    background: var(--el-done);
+    border-color: var(--el-done);
+    box-shadow: 0 0 0 4px var(--el-positive-soft);
+  }
+  .is-now .el-step-date {
+    color: var(--el-done);
+    font-weight: 600;
+  }
+  .el-step-badge.is-now {
+    color: var(--el-done);
+    background: var(--el-positive-soft);
   }
   .el-step-badge {
     display: inline-block;
@@ -5134,11 +6597,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    gap: 4px 10px;
-    margin: 0 0 24px;
-    padding: 18px 0;
-    border-top: 1px solid var(--el-rule);
-    border-bottom: 1px solid var(--el-rule);
+    gap: 4px 8px;
+    margin: 0;
   }
   .el-total-label,
   .el-total-unit {
@@ -5147,149 +6607,71 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-total-num {
     font-family: var(--el-serif);
-    font-size: 44px;
+    font-size: 32px;
     font-weight: 700;
     line-height: 1.1;
     letter-spacing: -0.01em;
     color: var(--el-accent);
     font-variant-numeric: tabular-nums;
   }
-  .el-total-src {
-    margin-inline-start: auto;
-    font-size: 13px;
-  }
-  .el-offices {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 12px;
-  }
-  .el-office {
-    padding: 16px;
-    background: var(--el-card);
-    border: 1px solid var(--el-border);
-    border-radius: 12px;
-  }
-  .el-office-name {
-    margin: 0;
-    font-family: var(--el-sans);
-    font-size: 15px;
-    font-weight: 600;
-    line-height: 1.45;
-    letter-spacing: 0;
-    color: var(--el-ink);
-  }
-  .el-office-count {
-    margin: 6px 0 0;
-    font-family: var(--el-sans);
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 1.2;
-    color: var(--el-ink);
-    font-variant-numeric: tabular-nums;
-  }
-  .el-office-approx {
-    font-size: 15px;
-    font-weight: 600;
-  }
-  .el-office-desc {
-    margin: 6px 0 0;
-    font-size: 13px;
-    line-height: 1.6;
-    color: var(--el-ink-2);
-  }
 
-  /* ── 06 專區頁面 ── */
-  .el-pages {
+  /* ── 04 查證與深入：依問題分組的工具卡 ── */
+  .el-tools {
     display: grid;
-    gap: 16px;
+    gap: 14px;
   }
-  .el-pages > li {
-    display: flex;
-  }
-  .el-page {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    padding: 20px;
-    color: var(--el-ink);
-    text-decoration: none;
+  .el-tool {
+    padding: 18px;
     background: var(--el-card);
     border: 1px solid var(--el-border);
-    border-radius: 12px;
+    border-radius: 14px;
   }
-  a.el-page {
-    transition:
-      border-color 0.15s,
-      box-shadow 0.15s;
-  }
-  a.el-page:hover {
-    color: var(--el-ink);
-    border-color: color-mix(in srgb, var(--el-accent) 45%, transparent);
-    box-shadow: 0 8px 24px color-mix(in srgb, var(--el-accent) 7%, transparent);
-  }
-  .el-page.is-wip {
-    background: color-mix(in srgb, var(--el-card) 55%, transparent);
-  }
-  .el-page-top {
+  .el-tool-title {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 14px;
-  }
-  .el-page-icon {
-    color: var(--el-accent);
-  }
-  .is-wip .el-page-icon {
-    color: var(--el-ink-3);
-  }
-  .el-status {
-    padding: 1px 8px;
-    font-size: 12px;
-    font-weight: 600;
-    line-height: 1.6;
-    border-radius: 999px;
-  }
-  .el-status.is-live {
-    color: var(--el-done);
-    background: color-mix(in srgb, var(--el-done) 10%, var(--el-card));
-  }
-  .el-status.is-wip {
-    color: var(--el-ink-2);
-    background: var(--el-about);
-  }
-  .el-page-title {
-    display: block;
+    gap: 8px;
+    margin: 0 0 6px;
     font-family: var(--el-sans);
     font-size: 16px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--el-ink);
+  }
+  .el-tool-title .el-icon {
+    width: 20px;
+    height: 20px;
+    color: var(--el-accent);
+  }
+  .el-tool-list > li + li {
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-tool-link {
+    display: block;
+    padding: 10px 0;
+    color: var(--el-ink);
+    border-bottom: 0;
+  }
+  .el-tool-link:hover {
+    color: var(--el-ink);
+  }
+  .el-tool-name {
+    display: block;
+    font-size: 15px;
     font-weight: 600;
     line-height: 1.5;
-    color: var(--el-ink);
     transition: color 0.15s;
   }
-  a.el-page:hover .el-page-title {
+  .el-tool-link:hover .el-tool-name {
     color: var(--el-accent);
   }
-  .el-page-desc {
+  .el-tool-desc {
     display: block;
-    margin-top: 6px;
-    font-size: 14px;
-    line-height: 1.7;
+    font-size: 13.5px;
+    line-height: 1.6;
     color: var(--el-ink-2);
   }
-  .el-page-cta {
-    margin-top: auto;
-    padding-top: 14px;
-    font-size: 14px;
-    font-weight: 600;
-    line-height: 1.5;
-    color: var(--el-accent);
-  }
 
-  /* ── 07 延伸閱讀與公民工具 ── */
-  .el-further {
-    display: grid;
-    gap: 40px;
-  }
+  /* ── 06 延伸閱讀 ── */
   .el-col-intro {
     margin: 8px 0 0;
     font-size: 15px;
@@ -5336,7 +6718,19 @@ import { icons } from '../icons/taiwan-icons.mjs';
     color: var(--el-ink-2);
   }
 
-  /* ── 08 關於本專區 ── */
+  .el-list--grid {
+    display: grid;
+    column-gap: 32px;
+  }
+
+  /* ── 07 關於這一頁 ── */
+  .el-verified {
+    margin: 12px 0 0;
+    max-width: 720px;
+    font-size: 15px;
+    line-height: 1.8;
+    color: var(--el-ink);
+  }
   .el-about-grid {
     display: grid;
     gap: 36px;
@@ -5412,19 +6806,22 @@ import { icons } from '../icons/taiwan-icons.mjs';
 
   /* ── 斷點 ── */
   @media (min-width: 640px) {
-    .el-facts {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 12px;
-    }
-    .el-fact {
-      flex-direction: column;
-      gap: 10px;
-    }
     .el-races {
       columns: 2;
     }
-    .el-pages {
+    .el-tools {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .el-list--grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .el-bar-row {
+      grid-template-columns: 11em minmax(0, 1fr) 4.5em;
+      grid-template-areas: 'name bar val';
+      align-items: center;
+    }
+    .el-bar-val {
+      text-align: right;
     }
   }
   @media (min-width: 768px) {
@@ -5437,13 +6834,81 @@ import { icons } from '../icons/taiwan-icons.mjs';
       scroll-padding-inline: 32px;
     }
     .el-hero {
-      padding: 56px 0 64px;
+      padding: 48px 0 56px;
     }
     .el-h1 {
-      font-size: 56px;
+      font-size: 52px;
     }
-    .el-count {
+    .el-hero-sub {
+      margin-top: 10px;
+      font-size: 18px;
+    }
+    .el-eyebrow {
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+    .el-hero-grid {
+      gap: 24px;
+    }
+    .el-doors-list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .el-door {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+      padding: 16px 18px;
+    }
+    .el-door-arrow {
+      display: none;
+    }
+    .el-door-title {
+      font-size: 18px;
+    }
+    .el-door-hint {
+      font-size: 13.5px;
+    }
+    .el-state {
+      padding: 22px 26px;
+    }
+    .el-st-count {
+      display: block;
+    }
+    .el-st-days {
+      font-size: 68px;
+    }
+    .el-st-unit {
+      font-size: 20px;
+    }
+    .el-st-num {
+      margin: 4px 0 2px;
+    }
+    .el-st-next {
+      margin-top: 16px;
+      padding-top: 14px;
+    }
+    .el-st-item {
+      font-size: 15px;
+    }
+    .el-vote-card {
+      padding: 6px 28px;
+    }
+    .el-vote-row {
+      display: grid;
+      grid-template-columns: 9em minmax(0, 1fr);
+      gap: 20px;
+      padding: 18px 0;
+    }
+    .el-vote-row dd {
+      margin: 0;
+    }
+    .el-chart,
+    .el-ref {
       padding: 28px 32px;
+    }
+    .el-tool {
+      padding: 20px 22px;
     }
     .el-section {
       padding: 80px 0;
@@ -5473,9 +6938,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     }
     .el-faqs {
       grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-    .el-faq {
-      padding: 22px 24px;
+      align-items: start;
     }
     .el-ref-q {
       padding: 24px 28px;
@@ -5484,23 +6947,21 @@ import { icons } from '../icons/taiwan-icons.mjs';
       font-size: 24px;
     }
     .el-total-num {
-      font-size: 52px;
-    }
-    .el-offices {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 16px;
-    }
-    .el-office {
-      padding: 18px 20px;
-    }
-    .el-office-count {
-      font-size: 28px;
+      font-size: 40px;
     }
   }
   @media (min-width: 1024px) {
     .el-hero-grid {
       grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
-      gap: 56px;
+      grid-template-areas: 'main state' 'doors state';
+      align-items: start;
+      gap: 28px 56px;
+    }
+    .el-tools {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .el-list--grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
     }
     .el-races {
       columns: 3;
@@ -5510,22 +6971,15 @@ import { icons } from '../icons/taiwan-icons.mjs';
       gap: 56px;
       align-items: start;
     }
-    .el-pages {
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-    }
-    .el-further {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 56px;
-    }
     .el-about-grid {
       grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
       gap: 64px;
     }
 
-    /* 時程橫向步驟條：八個節點平均分布，日期在上、事件在下 */
+    /* 時程橫向步驟條：五個節點平均分布，日期在上、事件在下 */
     .el-steps {
       display: grid;
-      grid-template-columns: repeat(8, minmax(0, 1fr));
+      grid-template-columns: repeat(5, minmax(0, 1fr));
     }
     .el-step {
       display: flex;
