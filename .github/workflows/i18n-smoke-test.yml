@@ -196,3 +196,4 @@ jobs:
           echo ""
           echo "ℹ️  Coverage drops are not auto-fail (we accept FALLBACK_CHAIN strategy)"
           echo "ℹ️  But large drops should trigger maintainer review"
+# ci-speed probe（量測用，不合併）

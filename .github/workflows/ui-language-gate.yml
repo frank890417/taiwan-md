@@ -96,3 +96,4 @@ jobs:
       # 不在這裡重複維護詞表。
       - name: Check UI string terminology (Taiwan usage, WARN-only)
         run: python3 scripts/tools/check-ui-terminology.py
+# ci-speed probe（量測用，不合併）

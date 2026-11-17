@@ -110,3 +110,4 @@ jobs:
       # 一次 13% 一次零個元素，空清單被印成 ✅ 就是閘門在說謊。
       - name: Check sticky elements do not eat the mobile viewport
         run: node scripts/tools/check-sticky-viewport.mjs --base http://localhost:4399
+# ci-speed probe（量測用，不合併）
