@@ -1,0 +1,73 @@
+---
+/**
+ * PosSurveys：調查數據。每筆顯示調查結果、調查者、方法說明（例如業者的網路會員調查，非隨機抽樣）、時間與出處。
+ */
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { isZh, loc } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+  surveys: any[];
+}
+const { lang, surveys } = Astro.props;
+const T = housingSub(lang);
+const S = T.pos.surveys;
+const L = T.pos.labels;
+const zh = isZh(lang);
+---
+
+<section class="hs-section" id="surveys">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, { n: surveys.length })}</h2>
+    <ul class="hs-surveys">
+      {
+        surveys.map((sv) => (
+          <li class="hs-survey">
+            <p class="hs-survey-f" lang={zh ? 'zh-TW' : 'en'}>
+              {loc(sv.finding, lang)}
+            </p>
+            <dl>
+              <div>
+                <dt>{S.who}</dt>
+                <dd>
+                  {zh
+                    ? sv.who
+                    : (Object.fromEntries(EN_DATA.who)[sv.who] ?? sv.who)}
+                </dd>
+              </div>
+              <div>
+                <dt>{S.method}</dt>
+                <dd lang={zh ? 'zh-TW' : 'en'}>{loc(sv.method, lang)}</dd>
+              </div>
+              <div>
+                <dt>{S.when}</dt>
+                <dd>
+                  {zh ? sv.date : (EN_DATA.surveyDate[sv.date] ?? sv.date)}
+                </dd>
+              </div>
+              <div>
+                <dt>{S.src}</dt>
+                <dd>
+                  <span class="hs-tag">
+                    {sv.source.kind === 'primary' ? L.primary : L.reported}
+                  </span>
+                  <a
+                    href={sv.source.url}
+                    target="_blank"
+                    rel="noopener"
+                    class="no-external-icon"
+                    title={sv.source.title}
+                  >
+                    {sv.source.publisher}
+                  </a>
+                </dd>
+              </div>
+            </dl>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,123 @@
+{
+  "_meta": {
+    "fiscalYear": 115,
+    "filingPeriod": "2027 年 5 月",
+    "asOf": "2026-11-10",
+    "notes": [
+      "115 年度金額為財政部 2025-11-27 公告（CPI 上漲 4.13%，已達調整標準）。",
+      "2026-09-11 公布所得稅法第 17、126 條修正，自 115 年 1 月 1 日施行：未成年子女免稅額加 50%（151,500 = 101,000 × 1.5，依新聞稿與法條推得，115 年度申報書尚未公布）。",
+      "每人基本生活所需費用：截至 2026-11-10 沒有資料（財政部依規定 12 月底前公告），perPerson 填 null。",
+      "長期照顧特別扣除額 114、115 年度都是 18 萬。",
+      "儲蓄投資、教育學費、幼兒學前、長照、房租為法條固定金額，不隨 CPI 調整。",
+      "savings／education／dividend／exclusion 的公告日研究檔沒有單獨日期，填 null（法條固定金額）。"
+    ]
+  },
+  "exemption": {
+    "general": 101000,
+    "elderly70": 151500,
+    "minorChild": 151500,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+    "announced": "2025-11-27",
+    "minorChildSource": "https://www.dot.gov.tw/singlehtml/ch26?cntId=9665f10945c74724805d51a8bf52a09f",
+    "minorChildAnnounced": "2026-08-21",
+    "minorChildPromulgated": "2026-09-11",
+    "minorChildPromulgatedSource": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003",
+    "minorChildPromulgationOrder": "中華民國一百十五年九月十一日總統華總一經字第 11500086671 號令修正公布第 17、126 條條文；並自一百十五年一月一日施行"
+  },
+  "standardDeduction": {
+    "single": 136000,
+    "married": 272000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+    "announced": "2025-11-27"
+  },
+  "salaryDeduction": {
+    "cap": 227000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+    "announced": "2025-11-27"
+  },
+  "disabledDeduction": {
+    "amount": 227000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+    "announced": "2025-11-27"
+  },
+  "savingsDeduction": {
+    "cap": 270000,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  },
+  "educationDeduction": {
+    "perStudent": 25000,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  },
+  "preschoolDeduction": {
+    "first": 150000,
+    "second": 225000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=643fcb01a1c04ff49c4e3008cdba4eea",
+    "announced": "2023-12-19"
+  },
+  "longTermCareDeduction": {
+    "perPerson": 180000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=ac9ee8a563c24db9ad0ad3fdc6c4046f",
+    "announced": "2025-12-09"
+  },
+  "rentDeduction": {
+    "cap": 180000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=643fcb01a1c04ff49c4e3008cdba4eea",
+    "announced": "2023-12-19"
+  },
+  "brackets": {
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm",
+    "speedFormulaSource": "https://www.mof.gov.tw/download/ae68ed6e8bfd4b66b0e7bc0ab515bdd0",
+    "announced": "2025-11-27",
+    "rows": [
+      {
+        "upTo": 610000,
+        "rate": 0.05,
+        "differential": 0
+      },
+      {
+        "upTo": 1380000,
+        "rate": 0.12,
+        "differential": 42700
+      },
+      {
+        "upTo": 2770000,
+        "rate": 0.2,
+        "differential": 153100
+      },
+      {
+        "upTo": 5190000,
+        "rate": 0.3,
+        "differential": 430100
+      },
+      {
+        "upTo": null,
+        "rate": 0.4,
+        "differential": 949100
+      }
+    ]
+  },
+  "basicLiving": {
+    "perPerson": null,
+    "source": "https://www.dot.gov.tw/multiplehtml/06afbfc0e60e4ccb88f3f7f956aaacc7",
+    "announced": null
+  },
+  "dividend": {
+    "creditRate": 0.085,
+    "creditCap": 80000,
+    "separateRate": 0.28,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=15",
+    "announced": null
+  },
+  "amt": {
+    "threshold": 7500000,
+    "source": "https://www.mof.gov.tw/download/bb34472701e4443c910788e792dae85c",
+    "announced": "2025-11-27"
+  },
+  "exclusion": {
+    "rate": 0.2,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  }
+}

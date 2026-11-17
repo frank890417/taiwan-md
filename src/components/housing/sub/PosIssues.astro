@@ -1,0 +1,89 @@
+---
+/**
+ * PosIssues：爭點矩陣。每個 issue 一個區塊（H2＝question），各方 cells 以卡片列出：
+ * 陣營、一句話、來源連結、標「一手／轉述」；missing 的陣營列成一行「這幾方的公開說法沒有找到：…」。
+ * 過濾後的資料由 cleanPositions() 提供（含候選人字樣的 cell 已被略過）。
+ */
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { loc, isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+  issues: any[];
+  actors: any[];
+  groups: any[];
+}
+const { lang, issues, actors, groups } = Astro.props;
+const T = housingSub(lang);
+const S = T.pos.issues;
+const L = T.pos.labels;
+const zh = isZh(lang);
+const actorOf = (id: string) => actors.find((a) => a.id === id);
+const groupTitle = (gid: string) =>
+  loc(groups.find((g) => g.id === gid)?.title, lang) || gid;
+---
+
+<section class="hs-section" id="issues">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, { n: issues.length })}</h2>
+  </div>
+</section>
+{
+  issues.map((iss) => (
+    <section class="hs-section hs-issue" id={`issue-${iss.id}`}>
+      <div class="hs-wrap">
+        <h2 class="hs-h2 hs-h2-q">{loc(iss.question, lang)}</h2>
+        {iss.cells.length === 0 ? (
+          <p class="hs-nodata-box">{S.none}</p>
+        ) : (
+          <ul class="hs-cells">
+            {iss.cells.map((c: any) => {
+              const a = actorOf(c.actor);
+              return (
+                <li class={`hs-cell is-${a?.group ?? 'x'}`}>
+                  <p class="hs-cell-h">
+                    <strong>{a ? loc(a.name, lang) : c.actor}</strong>
+                    {a && <span class="hs-tag">{groupTitle(a.group)}</span>}
+                  </p>
+                  <p class="hs-cell-t" lang={zh ? 'zh-TW' : 'en'}>
+                    {loc(c.text, lang)}
+                  </p>
+                  <p class="hs-cell-s">
+                    <span class="hs-tag">
+                      {c.kind === 'primary' ? L.primary : L.reported}
+                    </span>
+                    <a
+                      href={c.source.url}
+                      target="_blank"
+                      rel="noopener"
+                      class="no-external-icon"
+                      title={c.source.title}
+                    >
+                      {S.src}
+                      {zh ? '：' : ': '}
+                      {c.source.publisher}
+                    </a>
+                  </p>
+                </li>
+              );
+            })}
+          </ul>
+        )}
+        {(iss.missing ?? []).length > 0 && (
+          <p class="hs-missing">
+            {fill(S.missing, {
+              names: (iss.missing as string[])
+                .map((id) => {
+                  const a = actorOf(id);
+                  return a ? loc(a.name, lang) : id;
+                })
+                .join(zh ? '、' : ', '),
+            })}
+          </p>
+        )}
+      </div>
+    </section>
+  ))
+}

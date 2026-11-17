@@ -1,0 +1,14 @@
+---
+/**
+ * /embed/income/labor-pension-calculator/ 內嵌板（13 語共用）。給別的網站用 iframe 嵌入。
+ */
+import IncomeToolEmbed from '../components/income/IncomeToolEmbed.astro';
+import LaborPensionCalculator from '../components/income/tools/LaborPensionCalculator.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<IncomeToolEmbed lang={lang} slug="labor-pension-calculator" ns="pension">
+  <LaborPensionCalculator lang={lang} variant="embed" />
+</IncomeToolEmbed>

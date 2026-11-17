@@ -1,0 +1,74 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * income.css — /income/ 專題主頁自己的少量樣式。
+ *
+ * 版面與圖表沿用 budget.css（主頁最外層同時掛 .budget-page），這裡只放
+ * income 專屬的補充。全部選擇器掛在 .income-page 底下，class 前綴 inc-。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.income-page .inc-topicnav {
+  margin-top: var(--space-5, 1.5rem);
+}
+
+/* 區塊裡的工具卡：跟上下文留出呼吸 */
+.income-page .bp-section .tf-frame,
+.income-page .bp-section [data-tool-frame] {
+  margin-block: 1.75rem;
+}
+
+/* 首屏四個數字在手機上兩欄 */
+@media (max-width: 640px) {
+  .income-page .bp-hero-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 表格內的「沒有資料」 */
+.income-page .inc-nodata {
+  color: var(--bg-ink-soft);
+  font-style: italic;
+}
+
+/* 立場卡：各方份量一致，不用顏色暗示對錯 */
+.income-page .inc-stance {
+  display: grid;
+  gap: 0.5rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--bg-grid);
+  border-radius: 10px;
+  background: var(--bg-panel);
+  min-width: 0;
+}
+.income-page .inc-stance-group {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--bg-ink-soft);
+}
+.income-page .inc-stance-actor {
+  font-family: var(--bp-font-head);
+  font-weight: 700;
+  line-height: 1.4;
+}
+.income-page .inc-stance-meta {
+  font-size: 0.78rem;
+  color: var(--bg-ink-soft);
+}
+.income-page .inc-stance-body {
+  margin: 0;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+.income-page .inc-stance-tag {
+  display: inline-block;
+  margin-inline-end: 0.4rem;
+  padding: 0.05rem 0.45rem;
+  border: 1px solid var(--bg-grid);
+  border-radius: 999px;
+  font-size: 0.7rem;
+  color: var(--bg-ink-soft);
+}
+.income-page .inc-stances {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  gap: 0.8rem;
+}

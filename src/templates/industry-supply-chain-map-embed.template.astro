@@ -1,0 +1,29 @@
+---
+/**
+ * /embed/industry/supply-chain-map/ — 內嵌板（契約 v1 第 4 節 (c)）：只有工具本體，noindex，canonical 指向單獨頁。
+ */
+import EmbedLayout from '../layouts/EmbedLayout.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import SupplyChainMap from '../components/industry/tools/SupplyChainMap.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useIndustryT } from '../i18n/industry';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const ti = useIndustryT(lang);
+const tool = getTopic('industry')!.tools.find(
+  (x) => x.slug === 'supply-chain-map',
+)!;
+const title = pickText(tool.title, lang);
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={ti('tool.chain.sourcesShort', { date: '2026-11-10' })}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    <SupplyChainMap lang={lang} variant="embed" />
+  </ToolFrame>
+</EmbedLayout>

@@ -1,15 +1,15 @@
 ---
-title: 'Potter King — Do entretenimento "cantadas" ao caçador "rosa", o jogador digital debatendo-se entre lei e soberania'
-description: 'A evolução da carreira de Potter King (陳加晉) regista o processo de transformação de criadores taiwaneses de beneficiários dos dividendos comerciais cross-strait para defensores da soberania digital, revelando simultaneamente a complexidade legal, de propriedade e financeira do longo embate entre criadores e o sistema de capital.'
+title: 'Potter King — Do Entretenimento de "Artista da Sedução" a Caçador de "Pink", um Estrategista Digital Lutando entre a Lei e a Soberania'
+description: 'A evolução da carreira de Potter King (Chen Jia-jin) registra o processo de transformação de criadores taiwaneses de colhedores de dividendos comerciais cross-strait em defensores da soberania digital, ao mesmo tempo em que revela a complexidade legal, de propriedade intelectual e financeira do longo emaranhamento entre criadores e o sistema de capital.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Potter King',
-    'soberania digital',
-    'operações cognitivas',
-    'direitos de influenciadores',
-    'batalha legal',
+    'Soberania digital',
+    'Guerra cognitiva',
+    'Direitos de propriedade de influenciadores',
+    'Jogo jurídico',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
@@ -18,11 +18,13 @@ lastVerified: 2026-01-01
 lastHumanReview: true
 summary: '台灣網路創作者。1990 年生於高雄，隔代教養背景。早期以「撩妹語錄」走紅，2019 年因拒絕中資經紀公司審查「總統」稱謂而觸發兩岸脫鉤。2022 年起與前東家爆發長達數年的法律戰，2026 年二審判決出現財務逆轉，揭露了網紅合約分潤的灰色地帶。他是解構認知作戰的「粉紅特報」觀察者，也是台灣首位將「拒絕數位跪下」標籤化的指標人物。'
 coverImage: ''
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/波特王.md'
-sourceCommitSha: '5edf34bcb'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f218c0f6edac6f55'
 sourceBodyHash: 'sha256:bd885df97c7fe1fa'
-translatedAt: '2026-07-28T06:15:59+08:00'
+translatedAt: '2026-11-07T10:20:03.445361+00:00'
 ---
 
 ## Visão geral em 30 segundos

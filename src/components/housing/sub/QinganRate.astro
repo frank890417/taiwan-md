@@ -1,0 +1,117 @@
+---
+/**
+ * QinganRate：5.3 利率與補貼怎麼算。基準利率、加碼、補貼階梯（StepRate 圖）、一行公式。
+ * 全部讀 qingan.json 的 rate；原貸款利率 = 基準 + 加碼，build 時核對資料檔的 baseRatePct。
+ */
+import StepRate from '../charts/StepRate.astro';
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import {
+  DATA,
+  fmtPeriod,
+  qinganSrc,
+  trimNum,
+} from '../../../utils/housing/data';
+import { isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.rate;
+const q: any = DATA.qingan;
+const r = q.rate;
+const steps = r.subsidySteps as {
+  years: number | null;
+  subsidyPct: number;
+  netRatePct: number;
+}[];
+const base: number = r.baseRatePct;
+const bench = r.benchmark;
+const finite = steps.reduce((a, s) => a + (s.years ?? 0), 0);
+const stepDiff = +(steps[0].subsidyPct - steps[1].subsidyPct).toFixed(4);
+let acc = 0;
+const items = steps.map((s) => {
+  const from = acc + 1;
+  acc += s.years ?? 0;
+  const x =
+    s.years === null
+      ? `${from}+`
+      : s.years === 1
+        ? `${from}`
+        : `${from}–${from + s.years - 1}`;
+  return {
+    years: s.years,
+    netRatePct: s.netRatePct,
+    subsidyPct: s.subsidyPct,
+    xLabel: x,
+    tip: fill(S.stepTip, {
+      x,
+      r: trimNum(s.netRatePct, 3),
+      s: trimNum(s.subsidyPct, 3),
+    }),
+  };
+});
+const vars = {
+  bench: trimNum(bench.pct, 3),
+  benchName: isZh(lang) ? bench.name : EN_DATA.benchName,
+  since: fmtPeriod(bench.since, lang),
+  spread: trimNum(r.spreadPct, 3),
+  base: trimNum(base, 3),
+  n: steps[0].years ?? 0,
+  s0: trimNum(steps[0].subsidyPct, 3),
+  r0: trimNum(steps[0].netRatePct, 3),
+  y2: (steps[0].years ?? 0) + 1,
+  step: trimNum(stepDiff, 3),
+  yr: finite + 1,
+};
+// 資料檔的原貸款利率要等於基準加加碼，不一致就在 build 時報錯
+if (Math.abs(bench.pct + r.spreadPct - base) > 1e-9)
+  throw new Error('qingan.json: baseRatePct != benchmark.pct + spreadPct');
+const baseSrc = qinganSrc(r.source);
+const benchSrc = qinganSrc(bench.source);
+---
+
+<section class="hs-section" id="rate">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <p class="hs-formula">
+      <span class="hs-formula-k">{S.formulaK}</span>
+      <span class="hs-formula-v">{fill(S.formula, vars)}</span>
+    </p>
+    <div class="hs-prose">
+      <p>{fill(S.p1, vars)}</p>
+      <p>{fill(S.p2, vars)}</p>
+    </div>
+    <StepRate
+      title={fill(S.stepTitle, vars)}
+      subtitle={S.stepSub}
+      lang={lang}
+      steps={items}
+      baseRatePct={base}
+      baseLabel={fill(S.stepBase, vars)}
+      axisTitle={S.stepAxis}
+      subsidyLabel={S.stepSubsidy}
+      sources={[baseSrc, benchSrc]}
+      tableHeaders={S.stepHdr}
+    />
+    <p class="hs-fine">
+      {
+        fill(S.v2, {
+          n: vars.n,
+          date: fmtPeriod(q.naming.find((x: any) => x.id === 'v3').from, lang),
+        })
+      }
+    </p>
+    <p class="hs-fine">
+      <strong>{S.note}</strong>{isZh(lang) ? '：' : ': '}
+      <span lang={isZh(lang) ? 'zh-TW' : 'en'}>
+        {isZh(lang) ? r.note : EN_DATA.rateNote}
+      </span>
+    </p>
+    <SrcLine lang={lang} sources={[baseSrc, benchSrc]} />
+  </div>
+</section>

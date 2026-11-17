@@ -12,6 +12,8 @@ lastHumanReview: false
 readingTime: 28
 relatedDiary:
   - 2026-07-23-214453-idlccp-clownfish-instrument
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：**台灣本土服飾品牌 NET（主富服裝）起源於 1960 年代的「主婦商場」，由創辦人黃騰龍帶領轉型，成功在 Uniqlo 與 Zara 等國際巨頭入台後生存至今。NET 最為人稱道的並非其設計感，而是其低調卻深刻的社會責任——連續 15 年為弱勢兒少「封館購衣」。然而，這家一向低調的企業，近期卻因基隆東岸廣場的產權糾紛，罕見地與政府對簿公堂，展現出其「溫柔卻堅韌」的品牌底色。

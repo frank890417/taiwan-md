@@ -1,0 +1,177 @@
+---
+/**
+ * §3 Today — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import LineChart from '../../budget/LineChart.astro';
+import StackedArea from '../../budget/StackedArea.astro';
+import SlopeChart from '../../budget/SlopeChart.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const {
+  REL,
+  elecShare,
+  elecShare0,
+  exp,
+  expAt,
+  expSlopeRows,
+  expTotalLast,
+  expY0,
+  expY1,
+  ge,
+  geComp,
+  geLastYear,
+  gl,
+  gs,
+  gsCats,
+  gsValues,
+  gsYears,
+  mk,
+  mkLast,
+  mkSeries,
+  pct1,
+  srcLineL,
+  ti,
+  zh,
+} = await industryPageData(lang);
+---
+
+<!-- §3 現在靠什麼賺錢 -->
+<section class="bp-section" id="s3">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s3.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {ti('s3.h2', { year: expY1, share: Math.round(elecShare) })}
+    </h2>
+    <p class="bp-lede">
+      {
+        ti('s3.lede', {
+          y0: expY0,
+          y1: expY1,
+          s0: pct1(elecShare0),
+          s1: pct1(elecShare),
+          // {total} 是億美元（zh 字串用），{totalB} 是 billion（en 與回退到 en 的語言用）
+          total: Math.round(expTotalLast).toLocaleString('en-US'),
+          totalB: (expTotalLast / 10).toFixed(1),
+        })
+      }
+    </p>
+    <SlopeChart
+      id="c-exp-slope"
+      title={ti('s3.chart1.title', {
+        y0: expY0,
+        y1: expY1,
+        ict0: pct1(expAt('ict', expY0)),
+        ict1: pct1(expAt('ict', expY1)),
+      })}
+      subtitle={ti('s3.chart1.sub')}
+      leftLabel={String(expY0)}
+      rightLabel={String(expY1)}
+      height={560}
+      rows={expSlopeRows}
+      lang={lang}
+      source={srcLineL(exp.source)}
+    />
+    <div class="bp-prose">
+      <p>{ti('s3.p1')}</p>
+    </div>
+    <LineChart
+      id="c-markets"
+      title={ti('s3.chart2.title', {
+        year: expY1,
+        us: pct1(mkLast('us')),
+        cn: pct1(mkLast('cnhk')),
+      })}
+      subtitle={ti('s3.chart2.sub')}
+      years={mk.years}
+      lang={lang}
+      unit="%"
+      yMax={50}
+      height={320}
+      series={mkSeries}
+      source={srcLineL(mk.source)}
+    />
+    <div class="bp-prose">
+      <p>{ti('s3.p2')}</p>
+    </div>
+    <StackedArea
+      id="c-gdp-sectors"
+      title={ti('s3.chart3.title', {
+        y: gs.years[gs.years.length - 1],
+        ind: pct1(gsValues[1][gsValues[1].length - 1]),
+      })}
+      subtitle={ti('s3.chart3.sub')}
+      years={gsYears}
+      cats={gsCats}
+      values={gsValues}
+      mode="share"
+      lang={lang}
+      source={srcLineL(gs.source)}
+    />
+    <LineChart
+      id="c-gdp-elec"
+      title={ti('s3.chart4.title', {
+        y0: ge.years[0],
+        y1: geLastYear,
+        v0: pct1(geComp[0]),
+        v1: pct1(geComp[geComp.length - 1]),
+      })}
+      subtitle={ti('s3.chart4.sub')}
+      years={ge.years}
+      lang={lang}
+      unit="%"
+      yMax={20}
+      height={300}
+      series={[
+        {
+          id: 'components',
+          label: ti('gdp.components'),
+          values: ge.rows[0].values,
+          cls: 'bg-s0',
+        },
+        {
+          id: 'computers',
+          label: ti('gdp.computers'),
+          values: ge.rows[1].values,
+          cls: 'bg-s2',
+        },
+      ]}
+      source={srcLineL(ge.source)}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          ti('s3.p3', {
+            growth25: gl.realGrowthPct[gl.realGrowthPct.length - 1],
+            f26: gl.forecast2026.realGrowthPct,
+            released: gl.forecast2026.released,
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={ti('label.source')}
+          href={gl.forecast2026.source.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+    </div>
+    <p class="bp-note">{ti('s3.note')}</p>
+    {
+      REL.s3.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s3.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

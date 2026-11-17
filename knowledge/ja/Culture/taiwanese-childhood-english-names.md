@@ -280,6 +280,7 @@ BarešováとPikhartの論文にもこの年齢前倒しの傾向が記録され
 
 ## 参考文献
 
+- [台湾人の名前（特集）](/ja/names/) — 姓、世代、四つのローマ字方式、原住民族の名前を図解。氏名ローマ字変換ツール付き。
 - [台湾の外来語と言語接触](/ja/culture/loanwords-and-language-contact-in-taiwan) — 日本語・英語・台湾語の間の借用から見る台湾の多言語層の重なり方
 - [台湾原住民言語復興運動](/ja/culture/indigenous-language-revitalization-movement) — 命名権回復のもう一つの系譜、民族言語復興から2024年姓名条例改正まで
 - [蒋為文](/ja/people/chiung-wi-vun) — 台湾語文運動「脱漢」論理の延長線上の対照、命名と文字主権のもう一つの側面

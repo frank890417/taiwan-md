@@ -1,0 +1,2080 @@
+{
+  "meta": {
+    "task": "supply-chains",
+    "generated": "2026-11-10",
+    "accessed": "2026-11-10",
+    "note": "每家公司 source 為 role 的主要出處；quoteVerified=true 表示引文已用程式對照下載的原始檔逐字（忽略空白）比對成功。",
+    "notes": [
+      "每環節 what 為編輯用口語說明，非來源引文，不含數字。",
+      "候選名單中「晶圓代工與記憶體」環節有 6 家，超過每環節上限 5 家，故拆成「晶圓代工」（台積電、聯電、世界先進、力積電）與「記憶體」（南亞科、華邦電）兩環節；要合併請自行合併。",
+      "AI 伺服器 ODM 環節候選 6 家，技嘉（2376）因本次下載的年報未順利取出業務範圍段落而未列，非判斷其不相關。",
+      "hq 欄＝經濟部商工登記公示資料（GCIS）公司登記地址的縣市；與公開資訊觀測站地址縣市不同者（力旺、台勝科、南電、台達電）已用 hqNote 標出，需編輯決定顯示哪一個。世芯-KY、貿聯-KY 為開曼註冊公司，GCIS 無資料，hq 取 MOPS 台灣地址。",
+      "各公司「role」依來源用語節錄，已刻意不收「全球第一／領導廠商／唯一」等自我定位用語（來源原文含此類字句時，quote 欄不收該句）。",
+      "聯發科年報為民國113年度（2024）版：下載時公開資訊觀測站電子資料尚無 114 年度年報；其餘為 114 年度（2025）。"
+    ]
+  },
+  "chains": [
+    {
+      "id": "semiconductor",
+      "title": "半導體供應鏈",
+      "stages": [
+        {
+          "id": "ip-design-service",
+          "name": "矽智財與設計服務",
+          "what": "把現成的電路模組授權給晶片公司，或幫客戶把客製晶片設計到可以投片",
+          "companies": [
+            {
+              "name": "創意",
+              "fullName": "創意電子股份有限公司",
+              "ticker": "3443",
+              "market": "上市",
+              "role": "研究、開發、生產、製造及銷售各種應用積體電路（嵌入式記憶體及邏輯元件、設計用元件資料庫、設計用自動化工具），並提供客戶委託之技術服務",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行六路10號",
+              "addressMOPS": "新竹科學工業園區新竹市力行六路十號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3443 創意電子股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "一、研究、開發、生產、製造及銷售：各種應用積體電路1.嵌入式記\n憶體及邏輯元件。2.設計用元件資料庫。3.設計用自動化工具\n二、提供前述產品相關及客戶委託之技術服務。",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3443",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3443-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "世芯-KY",
+              "fullName": "世芯電子股份有限公司",
+              "ticker": "3661",
+              "market": "上市",
+              "role": "專為系統公司開發高複雜度、高產量的特殊應用積體電路（ASIC）及系統單晶片（SoC）設計及製造生產",
+              "registeredAddressGCIS": null,
+              "addressMOPS": "114 台北市內湖區文湖街12號9樓",
+              "hq": "台北市",
+              "hqBasis": "公開資訊觀測站「公司基本資料」地址（GCIS 查無此公司登記；外國企業註冊地：KY 開曼群島）",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+                "title": "世芯電子股份有限公司 民國114年度股東會年報（2025_3661_20260526F04.pdf）",
+                "publisher": "世芯電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "世芯電子專為系統公司開發高複雜度、高產量的特殊應用積體電路(Application Specific IC；ASIC)及系統單晶片(System-on-Chip；SoC)設計及製造生產業務。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3661_20260526F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3661-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "力旺",
+              "fullName": "力旺電子股份有限公司",
+              "ticker": "3529",
+              "market": "上櫃",
+              "role": "嵌入式非揮發性記憶體 IP 授權及技術服務",
+              "registeredAddressGCIS": "新竹科學園區新竹市園區二路47號305室",
+              "addressMOPS": "新竹縣竹北市台元一街5號8樓(通訊地址)",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "hqNote": "公開資訊觀測站「公司基本資料」地址縣市為新竹縣，與登記地址縣市不同，請編輯決定要顯示哪一個",
+              "hqMopsCounty": "新竹縣",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3529 力旺電子股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "嵌入式非揮發記憶體IP授權及技術服務",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3529",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3529-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "M31",
+              "fullName": "円星科技股份有限公司",
+              "ticker": "6643",
+              "market": "上櫃",
+              "role": "矽智財授權金及權利金（矽智財授權）",
+              "registeredAddressGCIS": "新竹縣竹北市竹北里台元二街8號9樓",
+              "addressMOPS": "新竹縣竹北市台元二街8號9樓",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6643 円星科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "矽智財授權金及權利金",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6643",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6643-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ],
+          "foreignNote": {
+            "text": "晶片設計用的 EDA（電子設計自動化）軟體：世芯年報寫的是結合「商用」設計軟體工具；創意年報的矽智財夥伴清單列有 Cadence 與 Synopsys。本次檢視的年報沒有列出台灣自有的 EDA 供應者，也沒有提到 Siemens EDA。這只能證實「用外商商用軟體」，不能寫成市占或依賴程度。",
+            "sources": [
+              {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+                "title": "世芯電子股份有限公司 民國114年度股東會年報（2025_3661_20260526F04.pdf）",
+                "publisher": "世芯電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "世芯電子結合商用的設計軟體工具(EDA)與內部研發的設計技術",
+                "section": "肆、營運概況 技術及研發概況 開發成功之技術",
+                "file": "2025_3661_20260526F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3661-annual-report-excerpt.txt"
+              },
+              {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3443&year=115&seamon=&mtype=F&",
+                "title": "創意電子股份有限公司 民國114年度股東會年報（2025_3443_20260521F04.pdf）",
+                "publisher": "創意電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/04/16",
+                "accessed": "2026-11-10",
+                "quote": "ARM、Arteris、Cadence、CAST、Ceva、Credo、Chips&Media、Comcores、Dolphin Design、 eMemory、Imagination、M31、NSCore、OmniDesign、proteanTecs、PUFsecurity、Rambus、 Silicongate、SiliconCreations、Synopsys、TCI、TSMC 等公司合作",
+                "section": "肆、營運概況 業務範圍 E. 完整的矽智財夥伴",
+                "file": "2025_3443_20260521F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3443-annual-report-excerpt.txt"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ic-design",
+          "name": "IC 設計",
+          "what": "自己設計晶片，製造交給別人；賣的是設計好的晶片",
+          "companies": [
+            {
+              "name": "聯發科",
+              "fullName": "聯發科技股份有限公司",
+              "ticker": "2454",
+              "market": "上市",
+              "role": "研究、開發、生產、製造、銷售多媒體積體電路、電腦週邊積體電路、高階消費性電子積體電路及其他特殊應用積體電路",
+              "registeredAddressGCIS": "新竹科學園區新竹市篤行一路1號",
+              "addressMOPS": "新竹科學園區篤行一路1號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2454&year=114&seamon=&mtype=F&",
+                "title": "聯發科技股份有限公司 民國113年度股東會年報（2024_2454_20250529F04.pdf）",
+                "publisher": "聯發科技股份有限公司",
+                "period": "民國113年度（2024）",
+                "published": "公開資訊觀測站電子資料上傳日 114/05/08",
+                "accessed": "2026-11-10",
+                "quote": "A. 研究、開發、生產、製造、銷售下列產品： a. 多媒體積體電路 b. 電腦週邊積體電路 c. 高階消費性電子積體電路 d. 其他特殊應用積體電路",
+                "section": "營運概況 一、業務內容 1.1.1 公司所營業務之主要內容",
+                "file": "2024_2454_20250529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2454-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "瑞昱",
+              "fullName": "瑞昱半導體股份有限公司",
+              "ticker": "2379",
+              "market": "上市",
+              "role": "研究、開發、生產、製造、銷售各種積體電路，並提供積體電路產品之軟硬體應用設計、測試、維修及技術諮詢服務",
+              "registeredAddressGCIS": "新竹科學園區新竹縣創新二路2號",
+              "addressMOPS": "新竹科學園區創新二路2號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2379&year=115&seamon=&mtype=F&",
+                "title": "瑞昱半導體股份有限公司 民國114年度股東會年報（2025_2379_20260527F04.pdf）",
+                "publisher": "瑞昱半導體股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "1. 研究、開發、生產、製造、銷售各種積體電路 2. 提供各種積體電路產品之軟硬體應用設計、測試、維修及技術諮詢服務",
+                "section": "肆、營運概況 一、業務範圍 （一）公司所營業務主要內容",
+                "file": "2025_2379_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2379-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "聯詠",
+              "fullName": "聯詠科技股份有限公司",
+              "ticker": "3034",
+              "market": "上市",
+              "role": "研究、開發、設計、生產、製造、銷售語音、通訊、內崁式微控制器、數位訊號處理器、電腦週邊控制、液晶顯示器驅動等積體電路及系統",
+              "registeredAddressGCIS": "新竹科學園區新竹縣寶山鄉創新一路13號2樓",
+              "addressMOPS": "新竹科學園區創新一路13號2樓",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3034 聯詠科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "研究.開發.設計.生產.製造.銷售下列產品:A語音積體電路及系統B通\n訊積體電路及系統C內崁式微控制器及系統D數位訊號處理器及系統\nE電腦週邊控制積體電路及系統F液晶顯示器驅動積體電路及系統",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3034",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3034-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "信驊",
+              "fullName": "信驊科技股份有限公司",
+              "ticker": "5274",
+              "market": "上櫃",
+              "role": "多媒體積體電路、電腦周邊積體電路、高階消費性電子積體電路",
+              "registeredAddressGCIS": "新竹市東區光復里公道五路三段1號4樓之1",
+              "addressMOPS": "新竹市東區公道五路三段1號4樓之1",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（5274 信驊科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "多媒體積體電路\n電腦周邊積體電路\n高階消費性電子積體電路",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=5274",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-5274-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "wafer-materials",
+          "name": "晶圓材料",
+          "what": "把矽長成晶棒、切成晶圓，晶片就是做在這片圓盤上",
+          "companies": [
+            {
+              "name": "環球晶",
+              "fullName": "環球晶圓股份有限公司",
+              "ticker": "6488",
+              "market": "上櫃",
+              "role": "半導體晶棒及晶圓之研發、設計與製造",
+              "registeredAddressGCIS": "新竹科學園區新竹市工業東二路8號",
+              "addressMOPS": "新竹科學園區新竹市工業東二路八號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6488 環球晶圓股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "半導體晶棒及晶圓之研發、設計與製造",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6488",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6488-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "台勝科",
+              "fullName": "台塑勝高科技股份有限公司",
+              "ticker": "3532",
+              "market": "上市",
+              "role": "矽晶圓電子材料之製造及銷售",
+              "registeredAddressGCIS": "雲林縣麥寮鄉中興村台塑工業園區1號之1",
+              "addressMOPS": "台北市內湖區南京東路六段380號 (台塑企業內湖大樓A1棟8樓)",
+              "hq": "雲林縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "hqNote": "公開資訊觀測站「公司基本資料」地址縣市為台北市，與登記地址縣市不同，請編輯決定要顯示哪一個",
+              "hqMopsCounty": "台北市",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3532 台塑勝高科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "矽晶圓電子材料之製造及銷售進出口業務\n前項原材料之買賣及進出口業務\n除許可業務外，得經營非法令非禁止或限制之業務",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3532",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3532-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ],
+          "foreignNote": {
+            "text": null,
+            "reason": "光阻與特用化學品由哪些國家供應：搜尋只找到市調公司與媒體的市占數字（日商約八到九成），沒有政府或公司的原始出處；財政部關務署進口統計需互動式查詢，本次未取得。不寫數字、不寫「日商壟斷」。"
+          }
+        },
+        {
+          "id": "foundry",
+          "name": "晶圓代工",
+          "what": "接客戶的設計，在晶圓上把晶片製造出來",
+          "companies": [
+            {
+              "name": "台積電",
+              "fullName": "台灣積體電路製造股份有限公司",
+              "ticker": "2330",
+              "market": "上市",
+              "role": "依客戶訂單與其提供之產品設計說明，製造與銷售積體電路及其他晶圓半導體裝置，並提供封裝與測試服務、光罩製造及其設計服務",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行六路8號",
+              "addressMOPS": "新竹科學園區力行六路8號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（2330 台灣積體電路製造股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "依客戶之訂單與其提供之產品設計說明，以從事製造與銷售積體電路\n以及其他晶圓半導體裝置。提供前述產品之封裝與測試服務、積體電\n路之電腦輔助設計技術服務。提供製造光罩及其設計服務。",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=2330",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-2330-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "聯電",
+              "fullName": "聯華電子股份有限公司",
+              "ticker": "2303",
+              "market": "上市",
+              "role": "以先進的製程技術提供晶圓製造服務，為IC產業各項應用產品生產晶圓",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行二路3號",
+              "addressMOPS": "新竹科學園區新竹市力行二路三號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2303&year=115&seamon=&mtype=F&",
+                "title": "聯華電子股份有限公司 民國114年度股東會年報（2025_2303_20260527F04.pdf）",
+                "publisher": "聯華電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/06",
+                "accessed": "2026-11-10",
+                "quote": "聯電以先進的製程技術提供晶圓製造服務，為IC產業各項應用產品生產晶圓。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2303_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2303-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "世界先進",
+              "fullName": "世界先進積體電路股份有限公司",
+              "ticker": "5347",
+              "market": "上櫃",
+              "role": "依客戶訂單與其提供之產品設計說明，從事製造與銷售積體電路，並提供封裝與測試服務、光罩製造及其設計服務",
+              "registeredAddressGCIS": "新竹科學園區新竹縣園區三路123號",
+              "addressMOPS": "新竹科學園區新竹縣園區三路123號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（5347 世界先進積體電路股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "依客戶訂單與其提供之產品設計說明，從事製造與銷售積體電路。\n提供前述產品之封裝與測試服務。提供製造光罩及其設計服務。\n提供積體電路以及其他晶圓半導體裝置之電腦輔助設計技術服務。",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=5347",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-5347-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "力積電",
+              "fullName": "力晶積成電子製造股份有限公司",
+              "ticker": "6770",
+              "market": "上市",
+              "role": "各式積體電路及其系統產品之生產、製造、測試、封裝；半導體設備零組件維修、開發、製造與銷售；ASIC 技術整合服務與矽智財設計與服務",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行一路18號",
+              "addressMOPS": "新竹科學園區新竹市力行一路18號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6770 力晶積成電子製造股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "各式積體電路其系統產品之生產、製造、測試、封裝；半導體設備零\n組件維修、開發、製造與銷售；研究、開發、設計及銷售下列產品：\n(1)特殊應用積體電路技術整合服務(2)矽智財設計與服務",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6770",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6770-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "memory",
+          "name": "記憶體",
+          "what": "做 DRAM、快閃記憶體這類存資料的晶片",
+          "companies": [
+            {
+              "name": "南亞科",
+              "fullName": "南亞科技股份有限公司",
+              "ticker": "2408",
+              "market": "上市",
+              "role": "致力提供記憶體產品及服務，主要商品項目為 DRAM 晶片",
+              "registeredAddressGCIS": "新北市泰山區大科里南林路98號",
+              "addressMOPS": "新北市泰山區大科里南林路98號",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2408&year=115&seamon=&mtype=F&",
+                "title": "南亞科技股份有限公司 民國114年度股東會年報（2025_2408_20260521F04.pdf）",
+                "publisher": "南亞科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/04/30",
+                "accessed": "2026-11-10",
+                "quote": "致力提供高品質、先進的記憶體產品及服務。 目前本公司主要之商品項目為： 1. DRAM 晶片",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2408_20260521F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2408-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://www.nanya.com/en/About",
+                  "title": "Nanya Technology — About",
+                  "publisher": "南亞科技股份有限公司（官網）",
+                  "period": "擷取日現況",
+                  "accessed": "2026-11-10",
+                  "quote": "Nanya is a company dedicated to the R&D, design, manufacturing, and sales of DRAM (Dynamic Random Access Memory).",
+                  "rawFile": "data/industry/raw/web/nanya-about-en-20261110.html",
+                  "quoteVerified": true
+                }
+              ]
+            },
+            {
+              "name": "華邦電",
+              "fullName": "華邦電子股份有限公司",
+              "ticker": "2344",
+              "market": "上市",
+              "role": "主要產品為快閃記憶體（Code Storage Flash Memory）與客製化記憶體解決方案",
+              "registeredAddressGCIS": "中部科學園區臺中市大雅區科雅一路8號",
+              "addressMOPS": "台中市大雅區中部科學園區科雅一路8號",
+              "hq": "台中市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2344&year=115&seamon=&mtype=F&",
+                "title": "華邦電子股份有限公司 民國114年度股東會年報（2025_2344_20260529F04.pdf）",
+                "publisher": "華邦電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/04/28",
+                "accessed": "2026-11-10",
+                "quote": "華邦主要產品為快閃記憶體（Code Storage Flash Memory）、客製化記憶體解決方案（Customized Memory Solution）",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 1.",
+                "file": "2025_2344_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2344-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "equipment-facility",
+          "name": "設備與廠務",
+          "what": "蓋無塵室與廠房、做製程設備與搬運晶圓光罩的容器",
+          "companies": [
+            {
+              "name": "弘塑",
+              "fullName": "弘塑科技股份有限公司",
+              "ticker": "3131",
+              "market": "上櫃",
+              "role": "半導體及積體電路製造設備之工程承包、製造、買賣及維修；濕製程化學品；半導體相關之機械安裝、電子零組件製造",
+              "registeredAddressGCIS": "新竹市香山區中華路六段89號",
+              "addressMOPS": "30095新竹市香山區中華路六段89號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3131 弘塑科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "半導體及積體電路製造設備之工程承包、製造、買賣及維修工程。\n化學品：工業級、試藥級、電子級混酸（蝕刻液）、電鑄藥液。\n半導體相關之機械安裝、電子零組件製造。",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3131",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3131-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "家登",
+              "fullName": "家登精密工業股份有限公司",
+              "ticker": "3680",
+              "market": "上櫃",
+              "role": "光罩解決方案、晶圓解決方案與機台設備產品",
+              "registeredAddressGCIS": "新北市土城區中央路4段2號9樓之5",
+              "addressMOPS": "新北市土城區中央路4段2號9樓之5",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3680 家登精密工業股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "光罩解決方案產品\n晶圓解決方案產品\n機台設備產品",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3680",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3680-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "帆宣",
+              "fullName": "帆宣系統科技股份有限公司",
+              "ticker": "6196",
+              "market": "上市",
+              "role": "高科技設備材料銷售與服務、客製化設備研發製造、廠務自動化暨整合系統",
+              "registeredAddressGCIS": "臺北市南港區園區街3-2號6樓",
+              "addressMOPS": "台北市南港區園區街3-2號6樓",
+              "hq": "台北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6196 帆宣系統科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "高科技設備材料銷售與服務業務\n客製化設備研發製造業務\n廠務自動化暨整合系統業務",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6196",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6196-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "漢唐",
+              "fullName": "漢唐集成股份有限公司",
+              "ticker": "2404",
+              "market": "上市",
+              "role": "半導體先進製造及封裝等科技廠房整廠、無塵室、控制、機電並配合業主進行製程提升之改建工程",
+              "registeredAddressGCIS": "新北市中和區橋和路13號13樓",
+              "addressMOPS": "新北市中和區橋和路13號13樓",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2404&year=115&seamon=&mtype=F&",
+                "title": "漢唐集成股份有限公司 民國114年度股東會年報（2025_2404_20260529F04.pdf）",
+                "publisher": "漢唐集成股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "半導體先進製造及封裝等科技廠房整廠、無塵室、控制、機電並配合業主進行製程提升之改建工程。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2404_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2404-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "京鼎",
+              "fullName": "京鼎精密科技股份有限公司",
+              "ticker": "3413",
+              "market": "上市",
+              "role": "半導體設備、次系統及系統整合；平面顯示器設備、次系統及系統整合",
+              "registeredAddressGCIS": "新竹科學園區苗栗縣竹南鎮科中路16號",
+              "addressMOPS": "(35053)新竹科學園區苗栗縣竹南鎮科中路16號",
+              "hq": "苗栗縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3413 京鼎精密科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "半導體設備、次系統及系統整合\n平面顯示器設備、次系統及系統整合",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3413",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3413-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ],
+          "foreignNote": {
+            "text": "EUV（極紫外光）曝光機：ASML 官網寫此技術「unique to ASML」；其全球總部在荷蘭 Veldhoven。台灣設備業者（本環節列的公司）做的是濕製程、廠務、傳載容器與次系統，不是曝光機。",
+            "sources": [
+              {
+                "url": "https://www.asml.com/en/products/euv-lithography-systems",
+                "title": "EUV lithography systems – Products | ASML",
+                "publisher": "ASML（官網）",
+                "period": "擷取日現況",
+                "accessed": "2026-11-10",
+                "quote": "The technology, which is unique to ASML, prints microchips using light with a wavelength of just 13.5 nm",
+                "rawFile": "data/industry/raw/web/asml-euv-20261110.html",
+                "quoteVerified": true
+              },
+              {
+                "url": "https://www.asml.com/en/company/about-asml",
+                "title": "About ASML",
+                "publisher": "ASML（官網）",
+                "period": "擷取日現況",
+                "accessed": "2026-11-10",
+                "quote": "Veldhoven, the Netherlands Our global headquarters is our biggest R&D and manufacturing site.",
+                "rawFile": "data/industry/raw/web/asml-about-20261110.html",
+                "quoteVerified": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "packaging-test",
+          "name": "封裝測試",
+          "what": "把晶圓切開、封成一顆顆晶片、測試好再出貨",
+          "companies": [
+            {
+              "name": "日月光投控",
+              "fullName": "日月光投資控股股份有限公司",
+              "ticker": "3711",
+              "market": "上市",
+              "role": "封裝及模組設計、IC封裝、多晶片封裝、記憶體封裝；前段測試、晶圓針測、成品測試；基板設計、製造（日月光投控旗下子公司之封測業務）",
+              "registeredAddressGCIS": "高雄市楠梓區經三路26號",
+              "addressMOPS": "高雄市楠梓區經三路26號",
+              "hq": "高雄市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=115&seamon=&mtype=F&",
+                "title": "日月光投資控股股份有限公司 民國114年度股東會年報（2025_3711_20260624F04.pdf）",
+                "publisher": "日月光投資控股股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/06/03",
+                "accessed": "2026-11-10",
+                "quote": "封測業：IC服務 封裝：封裝及模組設計、IC封裝、多晶片封裝、微型及混合型模組、記憶體封裝。 測試：前段測試、晶圓針測、成品測試。 材料：基板設計、製造。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3711_20260624F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3711-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://ir.aseglobal.com/html/ir_profile.php",
+                  "title": "ASE Technology Holding — IR Company Profile",
+                  "publisher": "日月光投資控股股份有限公司（官網投資人專區）",
+                  "period": "擷取日現況",
+                  "accessed": "2026-11-10",
+                  "quote": "Semiconductor packaging, design and production of interconnect materials, front-end engineering testing, wafer probing and final testing services as well as electronic manufacturing services through USI.",
+                  "rawFile": "data/industry/raw/web/ase-ir-profile-20261110.html",
+                  "quoteVerified": true
+                }
+              ]
+            },
+            {
+              "name": "力成",
+              "fullName": "力成科技股份有限公司",
+              "ticker": "6239",
+              "market": "上市",
+              "role": "積體電路（IC）封裝測試",
+              "registeredAddressGCIS": "新竹縣湖口鄉新竹工業區大同路10號",
+              "addressMOPS": "新竹縣湖口鄉新竹工業區大同路10號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6239&year=115&seamon=&mtype=F&",
+                "title": "力成科技股份有限公司 民國114年度股東會年報（2025_6239_20260527F04.pdf）",
+                "publisher": "力成科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "本公司成立於民國 86 年 5 月，以積體電路 IC 封裝測試業務為主",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_6239_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/6239-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "京元電子",
+              "fullName": "京元電子股份有限公司",
+              "ticker": "2449",
+              "market": "上市",
+              "role": "各種積體電路之設計、製造、測試、配件、加工、包裝、銷售",
+              "registeredAddressGCIS": "新竹市東區埔頂里公道五路二段81號",
+              "addressMOPS": "新竹市公道五路二段81號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2449&year=115&seamon=&mtype=F&",
+                "title": "京元電子股份有限公司 民國114年度股東會年報（2025_2449_20260529F04.pdf）",
+                "publisher": "京元電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "各種積體電路之設計、製造、測試、配件、加工、包裝、銷售",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2449_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2449-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "矽格",
+              "fullName": "矽格股份有限公司",
+              "ticker": "6257",
+              "market": "上市",
+              "role": "各型積體電路之設計、加工、測試、封裝、預燒處理製造買賣；各型積體電路測試及晶圓測試服務",
+              "registeredAddressGCIS": "新竹縣竹東鎮北興路一段436號",
+              "addressMOPS": "新竹縣竹東鎮北興路1段436號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6257&year=115&seamon=&mtype=F&",
+                "title": "矽格股份有限公司 民國114年度股東會年報（2025_6257_20260529F04.pdf）",
+                "publisher": "矽格股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/06",
+                "accessed": "2026-11-10",
+                "quote": "各型積體電路之設計、加工、測試、封裝、預燒處理製造買賣。 … (1)各型積體電路測試及晶圓測試服務。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_6257_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/6257-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "test-interface",
+          "name": "測試介面",
+          "what": "晶片測試時，接在晶片和測試機之間的探針卡、測試座與測試板",
+          "companies": [
+            {
+              "name": "穎崴",
+              "fullName": "穎崴科技股份有限公司",
+              "ticker": "6515",
+              "market": "上市",
+              "role": "半導體測試介面、精密彈簧針、探針卡、溫控模組",
+              "registeredAddressGCIS": "高雄市楠梓區創意南路68號",
+              "addressMOPS": "高雄市楠梓區創意南路68號",
+              "hq": "高雄市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6515 穎崴科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "半導體測試介面、精密彈簧針、探針卡、溫控模組",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6515",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6515-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "旺矽",
+              "fullName": "旺矽科技股份有限公司",
+              "ticker": "6223",
+              "market": "上櫃",
+              "role": "半導體測試零組件加工維修製造；營收來源主要是晶圓探針卡及半導體設備之銷售",
+              "registeredAddressGCIS": "新竹縣竹北市中和街155號1-3樓",
+              "addressMOPS": "302新竹縣竹北市中和街 155號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6223 旺矽科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "半導體測試零組件加工維修製造進出口買賣\n電腦及週邊設備維護買賣研發\n機械及其零件之進出口買賣",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6223",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6223-20261110.html",
+                "quoteVerified": true
+              },
+              "extraSources": [
+                {
+                  "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6223&year=115&seamon=&mtype=F&",
+                  "title": "旺矽科技股份有限公司 民國114年度股東會年報（2025_6223_20260617F04.pdf）",
+                  "publisher": "旺矽科技股份有限公司",
+                  "period": "民國114年度（2025）",
+                  "published": "公開資訊觀測站電子資料上傳日 115/05/29",
+                  "accessed": "2026-11-10",
+                  "quote": "營收來源主要是晶圓探針卡及半導體設備之銷售",
+                  "section": "肆、營運概況 一、業務內容 2. 營業比重",
+                  "file": "2025_6223_20260617F04.pdf",
+                  "quoteVerified": true,
+                  "excerptFile": "data/industry/raw/annual-excerpts/6223-annual-report-excerpt.txt"
+                }
+              ]
+            },
+            {
+              "name": "精測",
+              "fullName": "中華精測科技股份有限公司",
+              "ticker": "6510",
+              "market": "上櫃",
+              "role": "晶圓測試卡、IC測試板技術服務",
+              "registeredAddressGCIS": "桃園市平鎮區湧豐里工業三路15號",
+              "addressMOPS": "桃園巿平鎮區工業三路15號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（6510 中華精測科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "晶圓測試卡\nIC測試板\n技術服務與其他",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=6510",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-6510-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-server",
+      "title": "AI 伺服器供應鏈",
+      "stages": [
+        {
+          "id": "gpu-asic-design",
+          "name": "GPU／ASIC 設計服務",
+          "what": "AI 加速器要有人把晶片設計出來；台灣業者接的是客製 ASIC 的設計到量產服務",
+          "companies": [
+            {
+              "name": "世芯-KY",
+              "fullName": "世芯電子股份有限公司",
+              "ticker": "3661",
+              "market": "上市",
+              "role": "專為系統公司開發高複雜度、高產量的特殊應用積體電路（ASIC）及系統單晶片（SoC）設計及製造生產",
+              "registeredAddressGCIS": null,
+              "addressMOPS": "114 台北市內湖區文湖街12號9樓",
+              "hq": "台北市",
+              "hqBasis": "公開資訊觀測站「公司基本資料」地址（GCIS 查無此公司登記；外國企業註冊地：KY 開曼群島）",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+                "title": "世芯電子股份有限公司 民國114年度股東會年報（2025_3661_20260526F04.pdf）",
+                "publisher": "世芯電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "世芯電子專為系統公司開發高複雜度、高產量的特殊應用積體電路(Application Specific IC；ASIC)及系統單晶片(System-on-Chip；SoC)設計及製造生產業務。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3661_20260526F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3661-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+                  "title": "世芯電子股份有限公司 民國114年度股東會年報（2025_3661_20260526F04.pdf）",
+                  "publisher": "世芯電子股份有限公司",
+                  "period": "民國114年度（2025）",
+                  "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                  "accessed": "2026-11-10",
+                  "quote": "公司積極參與多項人工智慧專案，應用領域涵蓋雲端服務供應商之 AI 加速器以及邊緣運算晶片等關鍵市場。",
+                  "section": "壹、致股東報告書",
+                  "file": "2025_3661_20260526F04.pdf",
+                  "quoteVerified": true,
+                  "excerptFile": "data/industry/raw/annual-excerpts/3661-annual-report-excerpt.txt"
+                }
+              ]
+            },
+            {
+              "name": "創意",
+              "fullName": "創意電子股份有限公司",
+              "ticker": "3443",
+              "market": "上市",
+              "role": "研究、開發、生產、製造及銷售各種應用積體電路（嵌入式記憶體及邏輯元件、設計用元件資料庫、設計用自動化工具），並提供客戶委託之技術服務",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行六路10號",
+              "addressMOPS": "新竹科學工業園區新竹市力行六路十號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3443 創意電子股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "一、研究、開發、生產、製造及銷售：各種應用積體電路1.嵌入式記\n憶體及邏輯元件。2.設計用元件資料庫。3.設計用自動化工具\n二、提供前述產品相關及客戶委託之技術服務。",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3443",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3443-20261110.html",
+                "quoteVerified": true
+              },
+              "extraSources": [
+                {
+                  "url": "https://www.guc-asic.com/",
+                  "title": "GUC — Global Unichip Corp.（首頁）",
+                  "publisher": "創意電子股份有限公司（官網）",
+                  "period": "擷取日現況",
+                  "accessed": "2026-11-10",
+                  "quote": "GUC specializes in designing cutting-edge AI and HPC chips",
+                  "rawFile": "data/industry/raw/web/guc-home-20261110.html",
+                  "quoteVerified": true
+                }
+              ]
+            }
+          ],
+          "foreignNote": {
+            "text": "GPU／AI 加速器的架構設計：NVIDIA 10-K 寫採 fabless（無自有晶圓廠）策略、晶圓委託台積電等代工；AMD 10-K 寫晶圓由台積電生產。兩家的總部國別本次未取得官方出處，不寫。這一環節台灣廠商做的是 ASIC 設計服務（客製晶片），不是通用 GPU 的架構設計。",
+            "sources": [
+              {
+                "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+                "title": "NVIDIA Corporation Form 10-K（會計年度止於 2026-01-25）Item 1 Manufacturing",
+                "publisher": "NVIDIA Corporation／美國證券交易委員會 EDGAR",
+                "period": "FY2026（2025-01-27 至 2026-01-25）",
+                "published": "2026-02-25 提交",
+                "accessed": "2026-11-10",
+                "quote": "We utilize a fabless and contracting manufacturing strategy",
+                "quoteVerified": false,
+                "quoteVerifiedNote": "經 WebFetch 讀取後轉述；SEC 伺服器拒絕本機 curl 下載，未能逐字比對原文，發表前請人工對 EDGAR 原文"
+              },
+              {
+                "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+                "title": "NVIDIA Corporation Form 10-K（會計年度止於 2026-01-25）Item 1 Manufacturing",
+                "publisher": "NVIDIA Corporation／美國證券交易委員會 EDGAR",
+                "period": "FY2026（2025-01-27 至 2026-01-25）",
+                "published": "2026-02-25 提交",
+                "accessed": "2026-11-10",
+                "quote": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC,",
+                "quoteVerified": false,
+                "quoteVerifiedNote": "經 WebFetch 讀取後轉述；SEC 伺服器拒絕本機 curl 下載，未能逐字比對原文，發表前請人工對 EDGAR 原文"
+              },
+              {
+                "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+                "title": "Advanced Micro Devices Form 10-K（會計年度止於 2025-12-27）Item 1",
+                "publisher": "Advanced Micro Devices, Inc.／美國證券交易委員會 EDGAR",
+                "period": "FY2025",
+                "published": "2026-02-04 提交",
+                "accessed": "2026-11-10",
+                "quote": "We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers",
+                "quoteVerified": false,
+                "quoteVerifiedNote": "同 NVIDIA：經 WebFetch 讀取後轉述，未能 curl 比對原文"
+              }
+            ]
+          }
+        },
+        {
+          "id": "foundry-advanced-packaging",
+          "name": "晶圓代工與先進封裝",
+          "what": "AI 晶片先在晶圓廠做出來，再和高頻寬記憶體封在同一個基板上",
+          "companies": [
+            {
+              "name": "台積電",
+              "fullName": "台灣積體電路製造股份有限公司",
+              "ticker": "2330",
+              "market": "上市",
+              "role": "依客戶訂單製造積體電路；CoWoS 先進封裝服務整合多個系統單晶片（SoC）與高頻寬記憶體（HBM）",
+              "registeredAddressGCIS": "新竹科學園區新竹市力行六路8號",
+              "addressMOPS": "新竹科學園區力行六路8號",
+              "hq": "新竹市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2330&year=115&seamon=&mtype=F&",
+                "title": "台灣積體電路製造股份有限公司 民國114年度股東會年報（2025_2330_20260604F04.pdf）",
+                "publisher": "台灣積體電路製造股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/21",
+                "accessed": "2026-11-10",
+                "quote": "CoWoS®先進封裝服務整合多個系統單晶片（System-on-Chip, SoC）以及高頻寬記憶體（High Bandwidth Memory, HBM），以提升高效能計算產品的卓越計算能力和記憶體頻寬。",
+                "section": "肆、營運概況 技術及研發概況 先進封裝",
+                "file": "2025_2330_20260604F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2330-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                  "title": "公開資訊觀測站－公司基本資料（2330 台灣積體電路製造股份有限公司）「主要經營業務」",
+                  "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                  "period": "公司登記現況（擷取日當天查詢）",
+                  "accessed": "2026-11-10",
+                  "quote": "依客戶之訂單與其提供之產品設計說明，以從事製造與銷售積體電路\n以及其他晶圓半導體裝置。提供前述產品之封裝與測試服務、積體電\n路之電腦輔助設計技術服務。提供製造光罩及其設計服務。",
+                  "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=2330",
+                  "rawFile": "data/industry/raw/mops/mops-t05st03-2330-20261110.html",
+                  "quoteVerified": true
+                }
+              ]
+            },
+            {
+              "name": "日月光投控",
+              "fullName": "日月光投資控股股份有限公司",
+              "ticker": "3711",
+              "market": "上市",
+              "role": "封裝及模組設計、IC封裝、多晶片封裝、記憶體封裝；前段測試、晶圓針測、成品測試；基板設計、製造（日月光投控旗下子公司之封測業務）",
+              "registeredAddressGCIS": "高雄市楠梓區經三路26號",
+              "addressMOPS": "高雄市楠梓區經三路26號",
+              "hq": "高雄市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=115&seamon=&mtype=F&",
+                "title": "日月光投資控股股份有限公司 民國114年度股東會年報（2025_3711_20260624F04.pdf）",
+                "publisher": "日月光投資控股股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/06/03",
+                "accessed": "2026-11-10",
+                "quote": "封測業：IC服務 封裝：封裝及模組設計、IC封裝、多晶片封裝、微型及混合型模組、記憶體封裝。 測試：前段測試、晶圓針測、成品測試。 材料：基板設計、製造。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3711_20260624F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3711-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://ir.aseglobal.com/html/ir_profile.php",
+                  "title": "ASE Technology Holding — IR Company Profile",
+                  "publisher": "日月光投資控股股份有限公司（官網投資人專區）",
+                  "period": "擷取日現況",
+                  "accessed": "2026-11-10",
+                  "quote": "Semiconductor packaging, design and production of interconnect materials, front-end engineering testing, wafer probing and final testing services as well as electronic manufacturing services through USI.",
+                  "rawFile": "data/industry/raw/web/ase-ir-profile-20261110.html",
+                  "quoteVerified": true
+                }
+              ],
+              "note": "日月光官網與年報（中文）業務範圍皆未寫 CoWoS 字樣；此處只依來源證實其封裝與測試業務，不寫成 CoWoS 供應者"
+            }
+          ],
+          "foreignNote": {
+            "text": "HBM（高頻寬記憶體）：SK hynix 官方新聞稿（2022-06-08）寫其 HBM3 晶片將用於 NVIDIA H100 GPU；NVIDIA 10-K 寫記憶體向 SK Hynix、Micron、Samsung 採購（未特別限定 HBM）。台灣記憶體業者（南亞科、華邦電）不在 HBM 供應名單的官方出處中，本次也未找到說明其是否生產 HBM 的官方文件，故不寫。",
+            "sources": [
+              {
+                "url": "https://news.skhynix.com/en/sk-hynix-to-supply-industrys-first-hbm3-dram-to-nvidia/",
+                "title": "SK hynix to Supply Industry’s First HBM3 DRAM to NVIDIA",
+                "publisher": "SK hynix Newsroom",
+                "period": "2022-06-08 發布",
+                "accessed": "2026-11-10",
+                "quote": "The chip will power NVIDIA’s H100 GPUs, offering up to 819GB/s bandwidth",
+                "rawFile": "data/industry/raw/web/skhynix-hbm3-nvidia-20261110.html",
+                "quoteVerified": true
+              },
+              {
+                "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+                "title": "NVIDIA Corporation Form 10-K（會計年度止於 2026-01-25）Item 1 Manufacturing",
+                "publisher": "NVIDIA Corporation／美國證券交易委員會 EDGAR",
+                "period": "FY2026（2025-01-27 至 2026-01-25）",
+                "published": "2026-02-25 提交",
+                "accessed": "2026-11-10",
+                "quote": "We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+                "quoteVerified": false,
+                "quoteVerifiedNote": "經 WebFetch 讀取後轉述；SEC 伺服器拒絕本機 curl 下載，未能逐字比對原文，發表前請人工對 EDGAR 原文"
+              }
+            ]
+          }
+        },
+        {
+          "id": "substrate-pcb-ccl",
+          "name": "ABF 載板、PCB 與銅箔基板",
+          "what": "晶片要裝在載板上，伺服器主機板則是多層電路板，兩者的原料之一是銅箔基板",
+          "companies": [
+            {
+              "name": "欣興",
+              "fullName": "欣興電子股份有限公司",
+              "ticker": "3037",
+              "market": "上市",
+              "role": "印刷電路板（PCB）、高密度連接板（HDI）、軟板、軟硬複合板、載板（IC Carrier）之開發、製造、加工與銷售",
+              "registeredAddressGCIS": "桃園市龜山區山鶯路179號",
+              "addressMOPS": "桃園市龜山區山鶯路179號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3037&year=115&seamon=&mtype=F&",
+                "title": "欣興電子股份有限公司 民國114年度股東會年報（2025_3037_20260529F04.pdf）",
+                "publisher": "欣興電子股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要營業項目係從事印刷電路板(PCB, Printed circuit board)、高密度連接板(HDI PCB, High density interconnect printed circuit board)、軟板(FPC, Flexible printed circuits)、軟硬複合板(Rigid-flex PCB)、載板(IC Carrier)之開發、製造、加工與銷售等業務。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3037_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3037-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "景碩",
+              "fullName": "景碩科技股份有限公司",
+              "ticker": "3189",
+              "market": "上市",
+              "role": "IC 載板：PBGA 基板、覆晶式基板與覆晶式晶片尺寸基板等之製造與銷售",
+              "registeredAddressGCIS": "桃園市新屋區石磊里中華路1245號",
+              "addressMOPS": "桃園市新屋區中華路1245號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3189&year=115&seamon=&mtype=F&",
+                "title": "景碩科技股份有限公司 民國114年度股東會年報（2025_3189_20260527F04.pdf）",
+                "publisher": "景碩科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "(1) PBGA(Plastic Ball Grid Array)基板之製造與銷售。 … (5) 覆晶式基板(Flip Chip Substrates) 與覆晶式晶片尺寸基板(Flip Chip CSP Substrates)之製造與銷售。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 3. 公司目前之產品",
+                "file": "2025_3189_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3189-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "南電",
+              "fullName": "南亞電路板股份有限公司",
+              "ticker": "8046",
+              "market": "上市",
+              "role": "傳統印刷電路板、HDI、軟硬複合板、ABF 載板及 PP 載板之生產及銷售",
+              "registeredAddressGCIS": "臺北市內湖區石潭里南京東路六段390號7樓",
+              "addressMOPS": "桃園市蘆竹區南崁路一段338號",
+              "hq": "台北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "hqNote": "公開資訊觀測站「公司基本資料」地址縣市為桃園市，與登記地址縣市不同，請編輯決定要顯示哪一個",
+              "hqMopsCounty": "桃園市",
+              "source": {
+                "url": "https://www.nanyapcb.com.tw/nypcb/Chinese/AboutNanYaPCB/CompanyProfile/Company",
+                "title": "南亞電路板 — 公司簡介",
+                "publisher": "南亞電路板股份有限公司（官網）",
+                "period": "擷取日現況",
+                "accessed": "2026-11-10",
+                "quote": "生產及銷售傳統印刷電路板(Conventional PCB)、高密度連結板(HDI)、軟硬複合板(Rigid-Flex)、ABF載板(Ajinomoto Build-up Film Substrate)及PP載板(Prepreg Substrate)",
+                "rawFile": "data/industry/raw/web/nypcb-company-20261110.html",
+                "quoteVerified": true
+              }
+            },
+            {
+              "name": "台光電",
+              "fullName": "台光電子材料股份有限公司",
+              "ticker": "2383",
+              "market": "上市",
+              "role": "印刷電路板用銅箔基板、內層銅箔基板及黏合片、多層壓合板之製造、加工與銷售",
+              "registeredAddressGCIS": "桃園市觀音區觀音工業區大同一路18號",
+              "addressMOPS": "桃園巿觀音區觀音工業區大同一路18號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2383&year=115&seamon=&mtype=F&",
+                "title": "台光電子材料股份有限公司 民國114年度股東會年報（2025_2383_20260527F04.pdf）",
+                "publisher": "台光電子材料股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/12",
+                "accessed": "2026-11-10",
+                "quote": "雙面印刷電路板用之銅箔基板。 - 多層印刷電路板用之內層銅箔基板及黏合片。 - 多層壓合板。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 2. 公司目前之產品",
+                "file": "2025_2383_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2383-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "金像電",
+              "fullName": "金像電子(股)公司",
+              "ticker": "2368",
+              "market": "上市",
+              "role": "印刷電路板（通訊及電腦相關產品，含 AI 及雲端使用的伺服器用板）",
+              "registeredAddressGCIS": "桃園市中壢區西園路113號",
+              "addressMOPS": "桃園市中壢區西園路113號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2368&year=115&seamon=&mtype=F&",
+                "title": "金像電子(股)公司 民國114年度股東會年報（2025_2368_20260529F04.pdf）",
+                "publisher": "金像電子(股)公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "本公司目前之商品為印刷電路板。本公司產品主要集中於通訊及電腦相關產品，如伺服器、網通用板、筆記型電腦板、基地台、手機及平板電腦等，公司這幾年一直朝高階產品發展，有 AI 及雲端使用的伺服器",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 3、公司目前之商品項目",
+                "file": "2025_2368_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2368-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "thermal",
+          "name": "散熱",
+          "what": "AI 伺服器耗電高，要靠風扇、散熱模組或水冷把熱帶走",
+          "companies": [
+            {
+              "name": "奇鋐",
+              "fullName": "奇鋐科技股份有限公司",
+              "ticker": "3017",
+              "market": "上市",
+              "role": "散熱產品（風扇、散熱片、散熱模組、熱交換器、熱管／均熱板、水冷板等水冷散熱解決方案）、機殼與機櫃、系統組裝及轉軸",
+              "registeredAddressGCIS": "高雄市前鎮區新生路248之27號",
+              "addressMOPS": "高雄市前鎮區新生路248之27號",
+              "hq": "高雄市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3017&year=115&seamon=&mtype=F&",
+                "title": "奇鋐科技股份有限公司 民國114年度股東會年報（2025_3017_20260602F04.pdf）",
+                "publisher": "奇鋐科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/13",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要銷售與生產產品可區分為散熱產品、機殼與機櫃、系統組裝及轉軸產品等，其中散熱產品包含風扇、散熱片、散熱器、散熱模組、熱交換器、熱管 /均熱板、3D VC、水冷板等完整水冷散熱解決方案。",
+                "section": "肆、營運概況 一、業務內容 4.1.1 業務範圍 4.1.1.1",
+                "file": "2025_3017_20260602F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3017-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "雙鴻",
+              "fullName": "雙鴻科技股份有限公司",
+              "ticker": "3324",
+              "market": "上櫃",
+              "role": "散熱模組",
+              "registeredAddressGCIS": "新北市新莊區五權三路6號3樓",
+              "addressMOPS": "新北市新莊區五權三路6號3樓",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                "title": "公開資訊觀測站－公司基本資料（3324 雙鴻科技股份有限公司）「主要經營業務」",
+                "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                "period": "公司登記現況（擷取日當天查詢）",
+                "accessed": "2026-11-10",
+                "quote": "散熱模組",
+                "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=3324",
+                "rawFile": "data/industry/raw/mops/mops-t05st03-3324-20261110.html",
+                "quoteVerified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "power",
+          "name": "電源",
+          "what": "把市電轉成伺服器與晶片能用的電",
+          "companies": [
+            {
+              "name": "台達電",
+              "fullName": "台達電子工業股份有限公司",
+              "ticker": "2308",
+              "market": "上市",
+              "role": "電源供應系統、無刷直流風扇、散熱系統等；近年聚焦 AI 資料中心、微電網、智能製造、智慧建築與綠色交通",
+              "registeredAddressGCIS": "桃園市龜山區山頂里興邦路31之1號",
+              "addressMOPS": "台北市內湖區瑞光路186號",
+              "hq": "桃園市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "hqNote": "公開資訊觀測站「公司基本資料」地址縣市為台北市，與登記地址縣市不同，請編輯決定要顯示哪一個",
+              "hqMopsCounty": "台北市",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2308&year=115&seamon=&mtype=F&",
+                "title": "台達電子工業股份有限公司 民國114年度股東會年報（2025_2308_20260528F04.pdf）",
+                "publisher": "台達電子工業股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "近年台達逐步聚焦 AI 資料中心、微電網、智能製造、智慧建築與綠色交通等關鍵領域，提供客戶完整的解決方案",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2308_20260528F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2308-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+                  "title": "公開資訊觀測站－公司基本資料（2308 台達電子工業股份有限公司）「主要經營業務」",
+                  "publisher": "臺灣證券交易所／證券櫃檯買賣中心 公開資訊觀測站",
+                  "period": "公司登記現況（擷取日當天查詢）",
+                  "accessed": "2026-11-10",
+                  "quote": "電源供應系統、無刷直流風扇、散熱系統、微型化關鍵零組件、\n電動車電源相關系統、工業自動化、視訊顯示、資訊、網路通訊\n消費性電子、可再生能源應用、智慧樓宇管理與控制解決方案等",
+                  "query": "POST https://mopsov.twse.com.tw/mops/web/ajax_t05st03 co_id=2308",
+                  "rawFile": "data/industry/raw/mops/mops-t05st03-2308-20261110.html",
+                  "quoteVerified": true
+                }
+              ]
+            },
+            {
+              "name": "光寶科",
+              "fullName": "光寶科技股份有限公司",
+              "ticker": "2301",
+              "market": "上市",
+              "role": "設計、研發、生產及銷售應用於資料中心、伺服器、網通設備、AI、物聯網等之產品，含伺服器電源及儲能系統解決方案",
+              "registeredAddressGCIS": "臺北市內湖區瑞光路392號22樓",
+              "addressMOPS": "台北市內湖區瑞光路392號22樓",
+              "hq": "台北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2301&year=115&seamon=&mtype=F&",
+                "title": "光寶科技股份有限公司 民國114年度股東會年報（2025_2301_20260520F04.pdf）",
+                "publisher": "光寶科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/04/30",
+                "accessed": "2026-11-10",
+                "quote": "設計、研發、生產及銷售應用 於資料中心、伺服器、網通設 備、AI、物聯網、智慧裝置與智 慧影像方案之產品。 伺服器電源及儲能系統解決方 案。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2301_20260520F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2301-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "chassis-rail",
+          "name": "機殼與滑軌",
+          "what": "伺服器的鐵殼、機櫃內讓伺服器抽進抽出的滑軌",
+          "companies": [
+            {
+              "name": "勤誠",
+              "fullName": "勤誠興業股份有限公司",
+              "ticker": "8210",
+              "market": "上市",
+              "role": "伺服器機殼及零組件、桌上型與工業用個人電腦機殼之研發、製造、加工及買賣",
+              "registeredAddressGCIS": "新北市新莊區中原路558號18樓",
+              "addressMOPS": "新北市新莊區中原路558號18樓",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=8210&year=115&seamon=&mtype=F&",
+                "title": "勤誠興業股份有限公司 民國114年度股東會年報（2025_8210_20260529F04.pdf）",
+                "publisher": "勤誠興業股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "電腦週邊設備及其用品、耗材、主件系統之研發、製造、加工及買賣 … ■ 桌上型個人電腦用機殼及零組件。 ■ 工業用電腦用機殼及零組件。 ■ 伺服器機殼及零組件。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_8210_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/8210-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "川湖",
+              "fullName": "川湖科技股份有限公司",
+              "ticker": "2059",
+              "market": "上市",
+              "role": "研究、設計、製造和銷售導軌及伺服器週邊零組件；各式用途之滑軌；隱藏式鉸鏈",
+              "registeredAddressGCIS": "高雄市路竹區後鄉里順安路275巷136號",
+              "addressMOPS": "高雄市路竹區順安路275巷136號",
+              "hq": "高雄市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2059&year=115&seamon=&mtype=F&",
+                "title": "川湖科技股份有限公司 民國114年度股東會年報（2025_2059_20260630F04.pdf）",
+                "publisher": "川湖科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/06/11",
+                "accessed": "2026-11-10",
+                "quote": "(1)研究、設計、製造和銷售導軌及伺服器週邊零組件。 (2)研究、設計、製造和銷售各式用途之滑軌。 (3)研究、設計、製造和銷售隱藏式鉸鏈。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2059_20260630F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2059-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "cables-connectors",
+          "name": "連接線與連接器",
+          "what": "伺服器內外的線材、插槽與連接器",
+          "companies": [
+            {
+              "name": "貿聯-KY",
+              "fullName": "貿聯控股(BizLink Holding Inc.)",
+              "ticker": "3665",
+              "market": "上市",
+              "role": "提供應用於工業自動化、資訊科技與資料中心、汽車、醫療等市場之線纜、線束，以及連接模組與系統解決方案",
+              "registeredAddressGCIS": null,
+              "addressMOPS": "23553新北市中和區建一路186號3樓",
+              "hq": "新北市",
+              "hqBasis": "公開資訊觀測站「公司基本資料」地址（GCIS 查無此公司登記；外國企業註冊地：KY 開曼群島）",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3665&year=115&seamon=&mtype=F&",
+                "title": "貿聯控股(BizLink Holding Inc.) 民國114年度股東會年報（2025_3665_20260529F04.pdf）",
+                "publisher": "貿聯控股(BizLink Holding Inc.)",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要提供應用於工業自動化、資訊科技與資料中心、汽車、醫療、新能源、半導體設備及特殊應用市場之線纜、線束，以及完整之連接模組與系統解決方案。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3665_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3665-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "嘉澤",
+              "fullName": "嘉澤端子工業股份有限公司",
+              "ticker": "3533",
+              "market": "上市",
+              "role": "應用於伺服器、個人電腦、汽車、工業控制及醫療等領域之連接器、連接線、插槽及相關零組件之設計、製造與銷售",
+              "registeredAddressGCIS": "基隆市安樂區武訓街15號",
+              "addressMOPS": "基隆市安樂區武訓街15號",
+              "hq": "基隆市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3533&year=115&seamon=&mtype=F&",
+                "title": "嘉澤端子工業股份有限公司 民國114年度股東會年報（2025_3533_20260612F04.pdf）",
+                "publisher": "嘉澤端子工業股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/11",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要從事應用於伺服器、個人電腦、汽車、工業控制及醫療等領域之各式連接 器、連接線、插槽及相關零組件之設計、製造與銷售。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 2. 公司目前產品及服務項目",
+                "file": "2025_3533_20260612F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3533-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        },
+        {
+          "id": "assembly-odm",
+          "name": "整機與機櫃組裝（ODM）",
+          "what": "把板卡、散熱、電源裝成整台伺服器或整櫃，交給雲端業者",
+          "companies": [
+            {
+              "name": "鴻海",
+              "fullName": "鴻海精密工業股份有限公司",
+              "ticker": "2317",
+              "market": "上市",
+              "role": "雲端網路、消費智能、電腦終端、元件及其他產品；AI 伺服器從設計、關鍵零組件、模組、液冷散熱系統到整機組裝的垂直整合",
+              "registeredAddressGCIS": "新北市土城區中山路66號",
+              "addressMOPS": "新北市土城區自由街2號",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2317&year=115&seamon=&mtype=F&",
+                "title": "鴻海精密工業股份有限公司 民國114年度股東會年報（2025_2317_20260529F04.pdf）",
+                "publisher": "鴻海精密工業股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/19",
+                "accessed": "2026-11-10",
+                "quote": "鴻海業務範圍主要分為四大類，分別雲端網路、消費智能、電腦終端、元件及其他產品領域 … 硬體方面，深度參與新一代 AI 伺服器平 台的開發與量產，提供從設計、關鍵零組件、模組、液冷散熱系統到整機組裝的完整垂直整合解決方案",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2317_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2317-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "廣達",
+              "fullName": "廣達電腦股份有限公司",
+              "ticker": "2382",
+              "market": "上市",
+              "role": "主要產品涵蓋伺服器、筆記型電腦、汽車電子及其他消費性電子產品，並以外銷為主",
+              "registeredAddressGCIS": null,
+              "addressMOPS": "桃園市龜山區文化里文化二路188號",
+              "hq": "桃園市",
+              "hqBasis": "公開資訊觀測站「公司基本資料」地址（GCIS 查無此公司登記；外國企業註冊地：－）",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2382&year=115&seamon=&mtype=F&",
+                "title": "廣達電腦股份有限公司 民國114年度股東會年報（2025_2382_20260529F04.pdf）",
+                "publisher": "廣達電腦股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要產品涵蓋伺服器、筆記型電腦、汽車電子及其他消費性電子產品，並以外 銷為主，銷售市場遍及全球。",
+                "section": "肆、營運概況 二、市場及產銷概況 4.2.1.1 主要產品及服務之銷售地區",
+                "file": "2025_2382_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2382-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "緯創",
+              "fullName": "緯創資通股份有限公司",
+              "ticker": "3231",
+              "market": "上市",
+              "role": "伺服器、工作站、AI 運算設備及高功能多中央處理器電腦系統及其重要零組件之研究、開發、設計、生產、製造、測試及售後服務",
+              "registeredAddressGCIS": "新竹縣竹北市智慧路1號",
+              "addressMOPS": "新竹縣竹北市智慧路1號",
+              "hq": "新竹縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3231&year=115&seamon=&mtype=F&",
+                "title": "緯創資通股份有限公司 民國114年度股東會年報（2025_3231_20260529F04.pdf）",
+                "publisher": "緯創資通股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/04/28",
+                "accessed": "2026-11-10",
+                "quote": "本公司主要營業項目包括下述各項產品、半成品及其週邊設備、零組件之研究、開發 、設計、生產、製造、測試及售後服務： … (2) 伺服器、工作站、AI 運算設備及高功能多中央處理器電腦系統及其重要零組件。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_3231_20260529F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/3231-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "緯穎",
+              "fullName": "緯穎科技服務股份有限公司",
+              "ticker": "6669",
+              "market": "上市",
+              "role": "雲端運算基礎架構解決方案：超大型資料中心所用的運算與儲存設備及系統整合",
+              "registeredAddressGCIS": "新北市汐止區新台五路一段90號8樓",
+              "addressMOPS": "新北市汐止區新台五路一段90號8樓",
+              "hq": "新北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6669&year=115&seamon=&mtype=F&",
+                "title": "緯穎科技服務股份有限公司 民國114年度股東會年報（2025_6669_20260525F04.pdf）",
+                "publisher": "緯穎科技服務股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/06",
+                "accessed": "2026-11-10",
+                "quote": "本公司為雲端運算基礎架構解決方案供應商，提供超大型資料中心 (Hyperscale Data Center)及高品質的運算與儲存設備及系統整合解決方案",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 3. 公司目前之商品（服務）項目",
+                "file": "2025_6669_20260525F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/6669-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "英業達",
+              "fullName": "英業達股份有限公司",
+              "ticker": "2356",
+              "market": "上市",
+              "role": "電腦及智能終端產品之生產及銷售；企業解決方案含伺服器、儲存設備、交換器、人工智慧解決方案、機櫃解決方案",
+              "registeredAddressGCIS": "臺北市士林區後港街66號",
+              "addressMOPS": "北市後港街六十六號",
+              "hq": "台北市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2356&year=115&seamon=&mtype=F&",
+                "title": "英業達股份有限公司 民國114年度股東會年報（2025_2356_20260527F04.pdf）",
+                "publisher": "英業達股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/08",
+                "accessed": "2026-11-10",
+                "quote": "本集團主要營業項目為電腦及智能終端產品之生產及銷售等業務。 … 企業解決方案：伺服器、儲存設備、交換器、人工智慧解決方案、機櫃解決方案、網路解決方案。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍",
+                "file": "2025_2356_20260527F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/2356-annual-report-excerpt.txt"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tungsten",
+      "title": "鎢供應鏈",
+      "stages": [
+        {
+          "id": "ore-concentrate",
+          "name": "鎢礦與精礦（開採）",
+          "what": "從礦山挖出含鎢的礦石，選成精礦，是整條鏈最上游",
+          "companies": [],
+          "foreignNote": {
+            "text": "鎢礦與精礦的開採：USGS《Mineral Commodity Summaries 2026》世界礦山產量表（2025 為估計）列中國 67,000 公噸、世界合計 85,000 公噸；占比由表內數字計算，見 tungstenFacts.usgsMcs2026。台灣是否有鎢礦床，找不到官方明文，故不寫「台灣無鎢礦」。",
+            "sources": [
+              {
+                "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-tungsten.pdf",
+                "title": "U.S. Geological Survey, Mineral Commodity Summaries 2026 — Tungsten",
+                "publisher": "美國地質調查局（USGS）",
+                "period": "2024、2025e",
+                "accessed": "2026-11-10",
+                "quote": "China 67,000 67,000 2,500,000",
+                "rawFile": "data/industry/raw/usgs-mcs2026-tungsten-20261110.pdf（文字版 .txt 同目錄）",
+                "quoteVerified": true
+              }
+            ],
+            "taiwanMineNull": {
+              "value": null,
+              "reason": "未找到經濟部地質調查及礦業管理中心等官方文件明文「台灣無鎢礦」；USGS 該頁亦未列台灣。"
+            }
+          },
+          "gap": "台灣無列名公司：本環節全靠進口，見 foreignNote"
+        },
+        {
+          "id": "recycle-refine",
+          "name": "回收提煉：鎢酸鈉、APT、氧化鎢",
+          "what": "把含鎢的廢硬質合金、刀屑溶出來、純化，做成下游要的鎢化合物",
+          "companies": [
+            {
+              "name": "聯友金屬-創",
+              "fullName": "聯友金屬科技股份有限公司",
+              "ticker": "7610",
+              "market": "上市",
+              "role": "以二次硬質合金及二次鎢、鈷資源為原料，還原為鎢、鈷金屬原料；現階段主要產品為鎢酸鈉及硫酸鈷液",
+              "registeredAddressGCIS": "屏東縣枋寮鄉太源村中山路三段103號",
+              "addressMOPS": "屏東縣枋寮鄉太源村中山路三段103號",
+              "hq": "屏東縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=7610&year=115&seamon=&mtype=F&",
+                "title": "聯友金屬科技股份有限公司 民國114年度股東會年報（2025_7610_20260526F04.pdf）",
+                "publisher": "聯友金屬科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "現階段主要產品為鎢酸鈉(Na2WO4)及硫酸鈷液(CoSO4)",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 1.所營業務之主要內容",
+                "file": "2025_7610_20260526F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/7610-annual-report-excerpt.txt"
+              }
+            },
+            {
+              "name": "京沅鎢鈷資源",
+              "fullName": "京沅鎢鈷資源股份有限公司",
+              "ticker": null,
+              "tickerReason": "證交所上市公司基本資料與櫃買公開發行公司基本資料開放資料均查無此統編 54632783，未見其為上市櫃公司（其他公開發行或興櫃身分未另行查證）",
+              "market": null,
+              "role": "將回收之含鎢廢料、二次鎢粉、二次合金、鎢酸鈉及鎢酸鈣還原加工為仲鎢酸銨（APT）、氧化鎢及碳酸鈷",
+              "hq": "屏東縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "registeredAddressGCIS": "屏東縣枋寮鄉東海村科技路1-11號",
+              "source": {
+                "url": "https://www.jy-tungsten.com.tw/aboutus.htm",
+                "title": "京沅鎢鈷資源 — 關於京沅",
+                "publisher": "京沅鎢鈷資源股份有限公司（官網）",
+                "period": "擷取日現況（頁尾 Copyright 2025）",
+                "accessed": "2026-11-10",
+                "quote": "京沅專注於鎢與鈷金屬之冶煉、製造及銷售，將回收之含鎢廢料、二次鎢粉、二次合金、鎢酸鈉及鎢酸鈣等原料，還原加工為仲鎢酸銨、氧化鎢及碳酸鈷或(硫酸鈷)。",
+                "rawFile": "data/industry/raw/web/jy-tungsten-about-20261110.html",
+                "quoteVerified": true
+              },
+              "extraSources": [
+                {
+                  "url": "https://data.gcis.nat.gov.tw/od/data/api/5F64D864-61CB-4D0D-8AD9-492047CC1EA6?$format=json&$filter=Business_Accounting_NO%20eq%2054632783",
+                  "title": "經濟部商業發展署 商工登記公示資料－公司基本資料（京沅鎢鈷資源股份有限公司，統編 54632783）",
+                  "publisher": "經濟部商業發展署（商工登記公示資料開放資料）",
+                  "period": "登記現況（擷取日當天查詢）",
+                  "accessed": "2026-11-10",
+                  "quote": "\"Company_Name\":\"京沅鎢鈷資源股份有限公司\" … \"Company_Location\":\"屏東縣枋寮鄉東海村科技路1-11號\"",
+                  "rawFile": "data/industry/raw/gcis-54632783-20261110.json",
+                  "quoteVerified": true
+                }
+              ],
+              "note": "官網自稱「臺灣唯一專業生產仲鎢酸銨（APT）與氧化鎢粉」屬公司自我定位，未取得第三方查證，故不採入 role"
+            }
+          ]
+        },
+        {
+          "id": "powder-carbide",
+          "name": "鎢粉與碳化鎢粉",
+          "what": "把氧化鎢還原成鎢粉，再和碳做成碳化鎢粉，是做硬質合金的原料",
+          "companies": [
+            {
+              "name": "聯友金屬-創",
+              "fullName": "聯友金屬科技股份有限公司",
+              "ticker": "7610",
+              "market": "上市",
+              "role": "碳化鎢加工及冶煉（列於「公司目前之商品（服務）項目」；現階段主要產品仍為鎢酸鈉及硫酸鈷液）",
+              "registeredAddressGCIS": "屏東縣枋寮鄉太源村中山路三段103號",
+              "addressMOPS": "屏東縣枋寮鄉太源村中山路三段103號",
+              "hq": "屏東縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=7610&year=115&seamon=&mtype=F&",
+                "title": "聯友金屬科技股份有限公司 民國114年度股東會年報（2025_7610_20260526F04.pdf）",
+                "publisher": "聯友金屬科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "(4)碳化鎢加工及冶煉。",
+                "section": "肆、營運概況 一、業務內容 （一）業務範圍 3.公司目前之商品(服務)項目",
+                "file": "2025_7610_20260526F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/7610-annual-report-excerpt.txt"
+              },
+              "note": "年報另寫「開發氧化鎢、鎢粉及碳化鎢等產品製程技術，逐步建構鎢產業鏈下游製造能力」，即鎢粉／碳化鎢粉量產尚在開發"
+            },
+            {
+              "name": "京沅鎢鈷資源",
+              "fullName": "京沅鎢鈷資源股份有限公司",
+              "ticker": null,
+              "tickerReason": "證交所上市公司基本資料與櫃買公開發行公司基本資料開放資料均查無此統編 54632783，未見其為上市櫃公司（其他公開發行或興櫃身分未另行查證）",
+              "market": null,
+              "role": "規劃生產鎢粉及碳化鎢粉（官網「重大訊息」寫為投資計畫規劃中，尚非現有產品）",
+              "hq": "屏東縣",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "registeredAddressGCIS": "屏東縣枋寮鄉東海村科技路1-11號",
+              "source": {
+                "url": "https://www.jy-tungsten.com.tw/",
+                "title": "京沅鎢鈷資源 — 首頁",
+                "publisher": "京沅鎢鈷資源股份有限公司（官網）",
+                "period": "擷取日現況",
+                "accessed": "2026-11-10",
+                "quote": "京沅鎢鈷資源股份有限公司目前正規畫生產鎢粉及碳化鎢粉之投資計畫",
+                "rawFile": "data/industry/raw/web/jy-tungsten-home-20261110.html",
+                "quoteVerified": true
+              },
+              "extraSources": [
+                {
+                  "url": "https://data.gcis.nat.gov.tw/od/data/api/5F64D864-61CB-4D0D-8AD9-492047CC1EA6?$format=json&$filter=Business_Accounting_NO%20eq%2054632783",
+                  "title": "經濟部商業發展署 商工登記公示資料－公司基本資料（京沅鎢鈷資源股份有限公司，統編 54632783）",
+                  "publisher": "經濟部商業發展署（商工登記公示資料開放資料）",
+                  "period": "登記現況（擷取日當天查詢）",
+                  "accessed": "2026-11-10",
+                  "quote": "\"Company_Name\":\"京沅鎢鈷資源股份有限公司\" … \"Company_Location\":\"屏東縣枋寮鄉東海村科技路1-11號\"",
+                  "rawFile": "data/industry/raw/gcis-54632783-20261110.json",
+                  "quoteVerified": true
+                }
+              ],
+              "note": "僅為規劃，未量產；不可寫成已有鎢粉／碳化鎢粉產能"
+            }
+          ],
+          "gap": "鎢粉、碳化鎢粉的量產廠商：本次沒有找到官方出處能證實台灣已有量產者"
+        },
+        {
+          "id": "cemented-carbide-tools",
+          "name": "硬質合金刀具",
+          "what": "把碳化鎢粉加鈷壓製燒結，磨成車刀、銑刀、鑽頭，工具機與電子零件加工都在用",
+          "companies": [
+            {
+              "name": "萬事達切削科技",
+              "fullName": "萬事達切削科技股份有限公司",
+              "ticker": null,
+              "tickerReason": "證交所上市公司基本資料與櫃買公開發行公司基本資料開放資料均查無此公司（統編 28560566），未見其為上市櫃公司",
+              "market": null,
+              "role": "以壓製、燒結、研磨與塗層等方法製造切削刀具（官網產品為碳化物端銑刀、鑽頭、刀片）",
+              "hq": "台南市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "registeredAddressGCIS": "臺南市安南區顯宮里工業六路10號",
+              "source": {
+                "url": "https://www.winstarcutting.com/about",
+                "title": "Winstar Cutting Technologies Corp. — About Us",
+                "publisher": "萬事達切削科技股份有限公司（官網）",
+                "period": "擷取日現況",
+                "accessed": "2026-11-10",
+                "quote": "Winstar Cutting Technologies Corp. is a professional manufacturer that specializes in crafting cutting tools using advanced methods like pressing, sintering, grinding, and coating.",
+                "rawFile": "data/industry/raw/web/winstar-about-20261110.html",
+                "quoteVerified": true
+              },
+              "extraSources": [
+                {
+                  "url": "https://data.gcis.nat.gov.tw/od/data/api/5F64D864-61CB-4D0D-8AD9-492047CC1EA6?$format=json&$filter=Business_Accounting_NO%20eq%2028560566",
+                  "title": "經濟部商業發展署 商工登記公示資料－公司基本資料（萬事達切削科技股份有限公司，統編 28560566）",
+                  "publisher": "經濟部商業發展署（商工登記公示資料開放資料）",
+                  "period": "登記現況（擷取日當天查詢）",
+                  "accessed": "2026-11-10",
+                  "quote": "\"Company_Name\":\"萬事達切削科技股份有限公司\" … \"Company_Location\":\"臺南市安南區顯宮里工業六路10號\"",
+                  "rawFile": "data/industry/raw/gcis-28560566-20261110.json",
+                  "quoteVerified": true
+                }
+              ],
+              "note": "官網未寫原料是否為台灣自產碳化鎢粉；僅證實為硬質合金（碳化物）刀具製造商。台灣尚有其他刀具廠，本次未逐家查證，名單非完整"
+            }
+          ],
+          "gap": "名單非完整：只查證到一家有官方登記與官網出處的業者"
+        },
+        {
+          "id": "wf6",
+          "name": "半導體用六氟化鎢（WF6）",
+          "what": "晶片製程用氣體，把鎢一層層鍍進晶片裡的接觸孔",
+          "companies": [],
+          "foreignNote": {
+            "text": null,
+            "reason": "報導說兩家日本公司（關東電化、中央硝子）於 2026-07-01 起永久停產六氟化鎢、合計約占全球四分之一產能，但本次查兩家公司官網新聞頁與搜尋，找不到官方公告；該說法目前只有二手報導。台灣有沒有生產 WF6 的公司，也沒有找到官方文件。"
+          },
+          "gap": "台灣無查證到生產 WF6 的公司（三福化工、台特化的年報中均無「六氟化鎢」或「鎢」字樣）"
+        },
+        {
+          "id": "sputtering-target",
+          "name": "鎢靶材",
+          "what": "濺鍍製程用的金屬靶材，鎢是其中一種材料",
+          "companies": [
+            {
+              "name": "光洋科",
+              "fullName": "光洋應用材料科技股份有限公司",
+              "ticker": "1785",
+              "market": "上櫃",
+              "role": "薄膜濺鍍靶材與蒸鍍材製造；薄膜濺鍍材料的主要原料之一為鎢（年報原料表）",
+              "registeredAddressGCIS": "臺南市安南區工業三路1號",
+              "addressMOPS": "台南市安南區工業三路1號",
+              "hq": "台南市",
+              "hqBasis": "經濟部商工登記公示資料（GCIS）公司登記地址",
+              "source": {
+                "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1785&year=115&seamon=&mtype=F&",
+                "title": "光洋應用材料科技股份有限公司 民國114年度股東會年報（2025_1785_20260525F04.pdf）",
+                "publisher": "光洋應用材料科技股份有限公司",
+                "period": "民國114年度（2025）",
+                "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                "accessed": "2026-11-10",
+                "quote": "(1)薄膜濺鍍靶材與蒸鍍材 (2)貴金屬及稀有金屬化學品與材料 (3)含貴重金屬及稀有金屬回收",
+                "section": "肆、營運概況 一、業務範圍 1. 所營業務之主要內容",
+                "file": "2025_1785_20260525F04.pdf",
+                "quoteVerified": true,
+                "excerptFile": "data/industry/raw/annual-excerpts/1785-annual-report-excerpt.txt"
+              },
+              "extraSources": [
+                {
+                  "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1785&year=115&seamon=&mtype=F&",
+                  "title": "光洋應用材料科技股份有限公司 民國114年度股東會年報（2025_1785_20260525F04.pdf）",
+                  "publisher": "光洋應用材料科技股份有限公司",
+                  "period": "民國114年度（2025）",
+                  "published": "公開資訊觀測站電子資料上傳日 115/05/07",
+                  "accessed": "2026-11-10",
+                  "quote": "薄膜濺鍍材料 金、銀、鈀、鉑、釕、鉭、 銦、鋁、鈷、鎳、鎢、銅、 鉬、鈦、鐵、錫、鈮、矽",
+                  "section": "肆、營運概況 （三）主要原料之供應狀況",
+                  "file": "2025_1785_20260525F04.pdf",
+                  "quoteVerified": true,
+                  "excerptFile": "data/industry/raw/annual-excerpts/1785-annual-report-excerpt.txt"
+                }
+              ],
+              "note": "證據偏弱：年報原料表把鎢列在薄膜濺鍍材料的主要原料，且該表供應商國別（美國、日本、中國、歐盟、英國、南非）是整張表合計、不是鎢單獨"
+            }
+          ],
+          "gap": "光洋科年報只列鎢為薄膜濺鍍材料的原料，未明寫鎢靶材產品與出貨"
+        }
+      ]
+    }
+  ],
+  "tungstenFacts": {
+    "chinaExportControl": [
+      {
+        "issuer": "中華人民共和國商務部（頁面標題另列海關總署聯署）",
+        "announcementTitle": "商务部 海关总署公告2025年第10号 公布对钨、碲、铋、钼、铟相关物项实施出口管制的决定",
+        "documentNumber": "商务部公告2025年第10号",
+        "issueDate": "2025-02-04",
+        "effective": "自发布之日起正式实施（公告原文）",
+        "coversTungstenItems": [
+          "仲钨酸铵（APT）",
+          "氧化钨",
+          "碳化钨（非1C226项下管制者）",
+          "固态钨及钨合金（含量門檻見公告原文）"
+        ],
+        "quotes": [
+          "商务部 海关总署公告2025年第10号 公布对钨、碲、铋、钼、铟相关物项实施出口管制的决定",
+          "【发布文号】商务部公告2025年第10号",
+          "【发文日期】2025年02月04日",
+          "为维护国家安全和利益、履行防扩散等国际义务，经国务院批准，决定对下列物项实施出口管制",
+          "仲钨酸铵(参考海关商品编号：2841801000)",
+          "氧化钨(参考海关商品编号：2825901200、2825901910、2825901920)",
+          "非1C226项下管制的碳化钨(参考海关商品编号：2849902000)",
+          "本公告自发布之日起正式实施"
+        ],
+        "source": {
+          "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_e623090907fc4e1092f0a4db72f57b95.html",
+          "title": "商务部 海关总署公告2025年第10号 公布对钨、碲、铋、钼、铟相关物项实施出口管制的决定",
+          "publisher": "中華人民共和國商務部",
+          "period": "2025-02-04 發布",
+          "accessed": "2026-11-10",
+          "rawFile": "data/industry/raw/mofcom-2025no10-20261110.html",
+          "quote": "【发布文号】商务部公告2025年第10号；【发文日期】2025年02月04日；为维护国家安全和利益、履行防扩散等国际义务，经国务院批准，决定对下列物项实施出口管制",
+          "quoteVerified": true
+        },
+        "note": "頁面標題寫「商务部 海关总署公告」，頁內「发布文号」欄寫「商务部公告2025年第10号」；引用文號時以頁內发布文号欄為準，標題聯署海關總署。本次未檢索到後續暫停或調整此公告的官方文件（不等於不存在）。"
+      },
+      {
+        "issuer": "中華人民共和國商務部",
+        "announcementTitle": "商务部公告2026年第1号 关于加强两用物项对日本出口管制的公告",
+        "documentNumber": "商务部公告2026年第1号",
+        "issueDate": "2026-01-06",
+        "effective": "自公布之日起正式实施（公告原文）",
+        "coversTungstenItems": [],
+        "quotes": [
+          "商务部公告2026年第1号 关于加强两用物项对日本出口管制的公告",
+          "【发布文号】商务部公告2026年第1号",
+          "【发文日期】2026年01月06日",
+          "禁止所有两用物项对日本军事用户、军事用途，以及一切有助于提升日本军事实力的其他最终用户用途出口。",
+          "本公告自公布之日起正式实施。"
+        ],
+        "source": {
+          "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_8990fedae8fa462eb02cc9bae5034e91.html",
+          "title": "商务部公告2026年第1号 关于加强两用物项对日本出口管制的公告",
+          "publisher": "中華人民共和國商務部",
+          "period": "2026-01-06 發布",
+          "accessed": "2026-11-10",
+          "rawFile": "data/industry/raw/mofcom-2026no1-20261110.html",
+          "quote": "禁止所有两用物项对日本军事用户、军事用途，以及一切有助于提升日本军事实力的其他最终用户用途出口。",
+          "quoteVerified": true
+        },
+        "note": "本公告針對「所有兩用物項」對日本軍事用戶／用途，未單獨點名鎢；鎢屬兩用物項是否被管制要對照兩用物項清單（本次未逐項核對）。"
+      }
+    ],
+    "usgsMcs2026": {
+      "title": "U.S. Geological Survey, Mineral Commodity Summaries 2026 — Tungsten",
+      "publisher": "美國地質調查局（USGS）",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-tungsten.pdf",
+      "publishedLine": "U.S. Geological Survey, Mineral Commodity Summaries, February 2026",
+      "period": "世界礦山產量：2024 年與 2025 年（2025 為估計值 e）；單位：公噸，鎢金屬含量",
+      "accessed": "2026-11-10",
+      "rawFile": "data/industry/raw/usgs-mcs2026-tungsten-20261110.pdf（文字版 .txt 同目錄）",
+      "worldTotalRow": "World total (rounded) 82,000 85,000 >4,700,000",
+      "worldTotal2024_t": 82000,
+      "worldTotal2025e_t": 85000,
+      "table": [
+        {
+          "country": "United States",
+          "mine2024_t": 0,
+          "mine2025e_t": 0,
+          "reserves_t": "NA",
+          "rawRow": "United States — — NA",
+          "share2024_pct": 0.0,
+          "share2025e_pct": 0.0
+        },
+        {
+          "country": "Australia",
+          "mine2024_t": 920,
+          "mine2025e_t": 1000,
+          "reserves_t": "570,000",
+          "rawRow": "Australia 920 1,000 570,000",
+          "share2024_pct": 1.1,
+          "share2025e_pct": 1.2
+        },
+        {
+          "country": "Austria",
+          "mine2024_t": 840,
+          "mine2025e_t": 840,
+          "reserves_t": "10,000",
+          "rawRow": "Austria 840 840 10,000",
+          "share2024_pct": 1.0,
+          "share2025e_pct": 1.0
+        },
+        {
+          "country": "Bolivia",
+          "mine2024_t": 1700,
+          "mine2025e_t": 1700,
+          "reserves_t": "NA",
+          "rawRow": "Bolivia 1,700 1,700 NA",
+          "share2024_pct": 2.1,
+          "share2025e_pct": 2.0
+        },
+        {
+          "country": "China",
+          "mine2024_t": 67000,
+          "mine2025e_t": 67000,
+          "reserves_t": "2,500,000",
+          "rawRow": "China 67,000 67,000 2,500,000",
+          "share2024_pct": 81.7,
+          "share2025e_pct": 78.8
+        },
+        {
+          "country": "Kazakhstan",
+          "mine2024_t": 0,
+          "mine2025e_t": 2400,
+          "reserves_t": "NA",
+          "rawRow": "Kazakhstan — 2,400 NA",
+          "share2024_pct": 0.0,
+          "share2025e_pct": 2.8
+        },
+        {
+          "country": "Korea, North",
+          "mine2024_t": 1900,
+          "mine2025e_t": 2000,
+          "reserves_t": "29,000",
+          "rawRow": "Korea, North 1,900 2,000 29,000",
+          "share2024_pct": 2.3,
+          "share2025e_pct": 2.4
+        },
+        {
+          "country": "Portugal",
+          "mine2024_t": 650,
+          "mine2025e_t": 700,
+          "reserves_t": "3,400",
+          "rawRow": "Portugal 650 700 3,400",
+          "share2024_pct": 0.8,
+          "share2025e_pct": 0.8
+        },
+        {
+          "country": "Russia",
+          "mine2024_t": 1500,
+          "mine2025e_t": 2000,
+          "reserves_t": "400,000",
+          "rawRow": "Russia 1,500 2,000 400,000",
+          "share2024_pct": 1.8,
+          "share2025e_pct": 2.4
+        },
+        {
+          "country": "Rwanda",
+          "mine2024_t": 1300,
+          "mine2025e_t": 1300,
+          "reserves_t": "NA",
+          "rawRow": "Rwanda 1,300 1,300 NA",
+          "share2024_pct": 1.6,
+          "share2025e_pct": 1.5
+        },
+        {
+          "country": "Spain",
+          "mine2024_t": 700,
+          "mine2025e_t": 800,
+          "reserves_t": "66,000",
+          "rawRow": "Spain 700 800 66,000",
+          "share2024_pct": 0.9,
+          "share2025e_pct": 0.9
+        },
+        {
+          "country": "Vietnam",
+          "mine2024_t": 3400,
+          "mine2025e_t": 3000,
+          "reserves_t": "170,000",
+          "rawRow": "Vietnam 3,400 3,000 170,000",
+          "share2024_pct": 4.1,
+          "share2025e_pct": 3.5
+        },
+        {
+          "country": "Other countries",
+          "mine2024_t": 1700,
+          "mine2025e_t": 2400,
+          "reserves_t": "950,000",
+          "rawRow": "Other countries 1,700 2,400 950,000",
+          "share2024_pct": 2.1,
+          "share2025e_pct": 2.8
+        }
+      ],
+      "computeNote": "占比 = 各國列值 ÷ USGS 表列「World total (rounded)」；USGS 的世界總計已四捨五入，各國加總為 2024: 81610、2025e: 85140，與總計略有差。占比由 build 腳本計算，未手工填。",
+      "quotes": [
+        "World Mine Production and Reserves: Production in 2024 for Russia was revised significantly based on a Government report. Reserves for China and Vietnam were revised based on Government reports.",
+        "China continued to be the world’s leading producer, importer, and consumer of tungsten concentrates.",
+        "World tungsten resources are geographically widespread. China ranked first in the world in tungsten resources and reserves.",
+        "in February 2025 China implemented new export controls on selected tungsten items"
+      ],
+      "taiwanNote": "USGS 本頁沒有列台灣（亦無「Taiwan」字樣）；「台灣無鎢礦」本次找不到官方明文，維持 null",
+      "e": "e Estimated. NA Not available. — Zero."
+    }
+  },
+  "articleCrossCheck": {
+    "article": "knowledge/Technology/台灣鎢供應鏈.md（只當線索）",
+    "items": [
+      {
+        "claim": "聯友金屬 2018 年成立",
+        "result": "相符",
+        "evidence": "GCIS：Company_Setup_Date 1070529（民國107年5月29日）；年報：「本公司成立於 107 年 05 月」",
+        "raw": "data/industry/raw/gcis-50802223-20261110.json"
+      },
+      {
+        "claim": "聯友金屬資本額 4.28 億元",
+        "result": "與現況不符（疑為舊資料）",
+        "evidence": "GCIS 2026-11-10：核准資本額 1,000,000,000，實收資本額 583,054,560",
+        "raw": "data/industry/raw/gcis-50802223-20261110.json"
+      },
+      {
+        "claim": "聯友金屬 152 名員工",
+        "result": "對不上",
+        "evidence": "114 年度年報員工人數表：113 年度 139 人、114 年度 157 人、截至 115/03/31 為 162 人；沒有 152"
+      },
+      {
+        "claim": "聯友金屬 2024 年營收 11 億元",
+        "result": "相符",
+        "evidence": "年報：113 年度銷貨淨額 1,098,913 千元"
+      },
+      {
+        "claim": "聯友金屬年回收產能約 3,000 噸、設計上限 5,000 噸",
+        "result": "未驗證",
+        "evidence": "年報該處為圖表（不可抽字），未取得文字出處"
+      },
+      {
+        "claim": "聯友金屬「全球第一大再製鎢酸鈉製造商」「台積電、蘋果唯一台灣鎢供應商」",
+        "result": "官方文件未見此說法",
+        "evidence": "年報無此二句；年報另寫「本公司為國內唯一…」與「台灣地區目前 99%以上為聯友金屬科技(股)公司出口」（圖表註，資料來源 ITC trademap），皆為公司自述，未收進 role；二手報導（今周刊）原話不可當事實"
+      },
+      {
+        "claim": "聯友金屬現在做碳化鎢",
+        "result": "有條件相符",
+        "evidence": "年報「公司目前之商品(服務)項目」列「(4)碳化鎢加工及冶煉」，但同頁寫「現階段主要產品為鎢酸鈉(Na2WO4)及硫酸鈷液(CoSO4)」，並把氧化鎢、鎢粉、碳化鎢粉列為「計劃開發之新商品」"
+      },
+      {
+        "claim": "京沅統編 54632783、2014 年 6 月設立、資本總額 3 億、實收 1.5 億",
+        "result": "相符",
+        "evidence": "GCIS：Company_Setup_Date 1030612、Capital_Stock_Amount 300000000、Paid_In_Capital_Amount 150000000",
+        "raw": "data/industry/raw/gcis-54632783-20261110.json"
+      },
+      {
+        "claim": "京沅 2026-06-22 改制股份有限公司並更名",
+        "result": "未驗證",
+        "evidence": "GCIS 現名為「京沅鎢鈷資源股份有限公司」，但 API 欄位只給最近一次核准變更日 1150824（2026-08-24），未給改制日；曾用名「允得鎢業」與設立地高雄亦未在此 API 驗證"
+      },
+      {
+        "claim": "京沅「年產量可達四千噸」",
+        "result": "未驗證",
+        "evidence": "官網未見；無第三方"
+      },
+      {
+        "claim": "關東電化、中央硝子 2026-07-01 永久停產六氟化鎢，合計約占全球 25%",
+        "result": "官方未見",
+        "evidence": "兩家官網新聞頁與搜尋均找不到公告，目前只有媒體／分析文章"
+      },
+      {
+        "claim": "中國 2025-02-04 商務部、海關總署 2025 年第 10 號公告",
+        "result": "相符（文號以頁內為準）",
+        "evidence": "見 tungstenFacts.chinaExportControl"
+      },
+      {
+        "claim": "中國占全球鎢礦產量約八成",
+        "result": "與 USGS 相符",
+        "evidence": "USGS MCS 2026 世界礦山產量表：中國 67,000 公噸；占比 2024 為 81.7%、2025e 為 78.8%（程式計算）"
+      }
+    ]
+  }
+}

@@ -13,6 +13,21 @@ import {
   localizeCompanyArticleUrls,
   sectorColors,
 } from '../utils/dataConfig';
+// 2026-11 產業專題：排行表抽成可重用的工具元件（專題頁、內嵌板共用同一張表），
+// 另加專題入口與歷年年底前十名。原有的標題、英雄區、故事、泡泡圖、洞察卡、掉榜區、方法說明不動。
+import { useIndustryT } from '../i18n/industry';
+import CompanyRanking from '../components/industry/tools/CompanyRanking.astro';
+import TopTenHistory from '../components/industry/charts/TopTenHistory.astro';
+import industrySeries from '../data/industry/series.json';
+import EmbedSnippet from '../components/tools/EmbedSnippet.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import { getLanguage } from '../config/languages';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+import {
+  buildFaqPageLd,
+  buildWebApplicationLd,
+  serializeJsonLd,
+} from '../utils/tools/jsonld';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -52,6 +67,53 @@ const money = (v: number) =>
   isZhPage
     ? v.toLocaleString()
     : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
+
+const ti = useIndustryT(lang);
+// 歷年年底前十名（證交所歷史股數 × 收盤價；資料與 /industry 第五節同一份）
+const mh = (industrySeries as any).marketHistory as any | undefined;
+const mhCols = mh
+  ? mh.years.filter((x: any) => (mh.pick as string[]).includes(x.label))
+  : [];
+const mhNames: Record<string, string> = {};
+if (mh && lang !== 'zh-TW') {
+  // 「Hon Hai Foxconn 鴻海」這種雙語名在窄欄裡只留拉丁字那一段
+  for (const c of [...companies, ...fellOff])
+    mhNames[c.ticker] =
+      c.name.replace(/\s+[\u3400-\u9fff][\s\S]*$/, '') || c.name;
+  for (const x of mh.years)
+    for (const c of x.top)
+      if (!mhNames[c.code] && ti(`mh.${c.code}`) !== `mh.${c.code}`)
+        mhNames[c.code] = ti(`mh.${c.code}`);
+}
+// 這一頁同時是排行工具的單獨頁（專題共用契約 v1）：補常見問題、嵌入程式碼與結構化資料。
+// 麵包屑不另加（Layout 的 SEO 元件已經有一份）。
+const topic = getTopic('industry');
+const rankTool = topic?.tools.find((x) => x.slug === 'company-ranking');
+const faq = [1, 2, 3, 4, 5].map((n) => ({
+  q: ti(`co.faq${n}.q`, { date: COMPANIES_SNAPSHOT_DATE }),
+  a: ti(`co.faq${n}.a`, { date: COMPANIES_SNAPSHOT_DATE }),
+}));
+const toolLd = rankTool
+  ? [
+      buildWebApplicationLd({
+        name: pickText(rankTool.title, lang as any),
+        description: pickText(rankTool.description, lang as any),
+        url: localizePath(rankTool.path, lang as any),
+        inLanguage: getLanguage(lang)?.hreflang ?? lang,
+        keywords: rankTool.keywords,
+        dateModified: COMPANIES_SNAPSHOT_DATE,
+        partOf: topic
+          ? {
+              name: pickText(topic.title, lang as any),
+              url: localizePath(topic.path, lang as any),
+            }
+          : undefined,
+      }),
+      buildFaqPageLd(faq),
+    ].filter(Boolean)
+  : [];
+const industryHref = translatePath('/industry/');
+const chainsHref = translatePath('/industry/supply-chain-map/');
 ---
 
 <Layout
@@ -92,6 +154,22 @@ const money = (v: number) =>
         <p>{t('data.companies.story.p2')}</p>
       </div>
     </section>
+
+    <!-- 專題入口：榜單的脈絡在 /industry -->
+    <aside class="topic-entry" aria-label={ti('co.topic.h')}>
+      <div class="topic-entry-body">
+        <h2 class="topic-entry-h">{ti('co.topic.h')}</h2>
+        <p>{ti('co.topic.p')}</p>
+      </div>
+      <div class="topic-entry-cta">
+        <a href={industryHref} class="topic-entry-btn is-primary">
+          {ti('co.topic.cta1')} →
+        </a>
+        <a href={chainsHref} class="topic-entry-btn">
+          {ti('co.topic.cta2')} →
+        </a>
+      </div>
+    </aside>
 
     <!-- Bubble chart controls -->
     <div
@@ -188,54 +266,12 @@ const money = (v: number) =>
     </div>
 
     <!-- Full ranking table — the machine-readable SSOT behind the bubbles -->
-    <section class="table-section">
+    <section class="table-section" id="rank">
       <h2 class="section-title">{t('data.companies.table.heading')}</h2>
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>{t('data.companies.table.rank')}</th>
-              <th>{t('data.companies.table.company')}</th>
-              <th>{t('data.companies.table.sector')}</th>
-              <th class="num">{t('data.companies.table.marketCap')}</th>
-              <th class="num">{t('data.companies.table.revenue')}</th>
-              <th class="num">{t('data.companies.table.employees')}</th>
-              <th class="num">{t('data.companies.table.founded')}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {
-              companies.map((c, i) => (
-                <tr>
-                  <td>{i + 1}</td>
-                  <td>
-                    {c.articleUrl ? (
-                      <a href={c.articleUrl} class="company-link">
-                        {c.name}
-                      </a>
-                    ) : (
-                      <strong>{c.name}</strong>
-                    )}
-                    <span class="ticker">{c.ticker}</span>
-                  </td>
-                  <td>
-                    <span
-                      class="sector-tag"
-                      style={`background: ${sectorColors[c.sector] || '#888'}22; color: ${sectorColors[c.sector] || '#888'}; border: 1px solid ${sectorColors[c.sector] || '#888'}55`}
-                    >
-                      {t(`data.sector.${c.sector}`)}
-                    </span>
-                  </td>
-                  <td class="num">{money(c.marketCap)}</td>
-                  <td class="num">{money(c.revenue)}</td>
-                  <td class="num">{c.employees.toLocaleString()}</td>
-                  <td class="num">{c.founded}</td>
-                </tr>
-              ))
-            }
-          </tbody>
-        </table>
+      <div class="rank-disclaimer" role="note">
+        <strong>{ti('co.disclaimer.h')}</strong>
       </div>
+      <CompanyRanking lang={lang} variant="page" anchors dark />
     </section>
 
     <!-- Who fell off -->
@@ -268,6 +304,34 @@ const money = (v: number) =>
       </div>
     </section>
 
+    <!-- 歷年年底前十名 -->
+    {
+      mh && (
+        <section class="history-section" id="history">
+          <h2 class="section-title">{ti('co.hist.h')}</h2>
+          <div class="story-text felloff-intro">
+            <p>{ti('co.hist.p')}</p>
+          </div>
+          <TopTenHistory
+            cols={mhCols}
+            names={mhNames}
+            labels={{
+              rank: ti('s5.hist.rank'),
+              top10Share: ti('s5.hist.top10'),
+              tsmcShare: ti('s5.hist.tsmc'),
+              caption: ti('s5.hist.title'),
+            }}
+          />
+          <p class="rank-note">{ti('s5.hist.note')}</p>
+          <p class="rank-note">
+            <a href={`${industryHref}#s5`} class="company-link">
+              {ti('co.hist.more')} →
+            </a>
+          </p>
+        </section>
+      )
+    }
+
     <!-- Method note -->
     <section class="method-section">
       <div class="method-box">
@@ -275,6 +339,40 @@ const money = (v: number) =>
         <p>{t('data.companies.method.body')}</p>
       </div>
     </section>
+
+    <!-- 常見問題與嵌入（排行工具的單獨頁） -->
+    <section class="history-section" id="faq">
+      <h2 class="section-title">{ti('co.faq.h')}</h2>
+      <dl class="co-faq">
+        {
+          faq.map((f) => (
+            <div>
+              <dt>{f.q}</dt>
+              <dd>{f.a}</dd>
+            </div>
+          ))
+        }
+      </dl>
+      {
+        rankTool && (
+          <div class="co-embed">
+            <h3>{ti('co.embed.h')}</h3>
+            <EmbedSnippet
+              embedPath={rankTool.embedPath}
+              title={pickText(rankTool.title, lang as any)}
+              lang={lang as any}
+              height={820}
+            />
+          </div>
+        )
+      }
+      <TopicNav lang={lang as any} topic="industry" />
+    </section>
+    {
+      toolLd.map((ld) => (
+        <script type="application/ld+json" set:html={serializeJsonLd(ld)} />
+      ))
+    }
 
     <!-- Related -->
     <footer class="related-footer">
@@ -892,6 +990,111 @@ const money = (v: number) =>
       color: #cbd5e1;
       line-height: 1.55;
       margin: 0;
+    }
+
+    /* 2026-11 產業專題：聲明、專題入口、歷年前十名 */
+    .table-section {
+      max-width: 1240px;
+    }
+    .rank-disclaimer {
+      margin: 0 auto 1.25rem;
+      border: 1px solid rgba(251, 191, 36, 0.35);
+      border-left: 4px solid #fbbf24;
+      border-radius: 10px;
+      background: rgba(251, 191, 36, 0.07);
+      padding: 0.75rem 1.1rem;
+      color: #fde68a;
+      font-size: 0.95rem;
+    }
+    .rank-note {
+      margin: 0.75rem 0 0;
+      color: #94a3b8;
+      font-size: 0.78rem;
+      line-height: 1.7;
+    }
+    .co-faq {
+      max-width: 820px;
+      margin: 0 auto;
+    }
+    .co-faq > div {
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 1rem 0;
+    }
+    .co-faq dt {
+      font-weight: 700;
+      color: #f8fafc;
+    }
+    .co-faq dd {
+      margin: 0.4rem 0 0;
+      color: #cbd5e1;
+      font-size: 0.92rem;
+      line-height: 1.8;
+    }
+    .co-embed {
+      max-width: 820px;
+      margin: 2rem auto;
+    }
+    .co-embed h3 {
+      margin: 0 0 0.6rem;
+      font-size: 1rem;
+      color: #cbd5e1;
+    }
+    .history-section {
+      max-width: 1100px;
+      margin: 4rem auto 0;
+      padding: 0 2rem;
+      color: #e2e8f0;
+    }
+    .topic-entry {
+      max-width: 1100px;
+      margin: 0 auto 2.5rem;
+      padding: 0 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem 2rem;
+    }
+    .topic-entry-body {
+      flex: 1 1 320px;
+      border-left: 3px solid #818cf8;
+      padding-left: 1rem;
+    }
+    .topic-entry-h {
+      margin: 0 0 0.3rem;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #f8fafc;
+    }
+    .topic-entry-body p {
+      margin: 0;
+      color: #cbd5e1;
+      font-size: 0.92rem;
+      line-height: 1.75;
+    }
+    .topic-entry-cta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+    .topic-entry-btn {
+      display: inline-flex;
+      align-items: center;
+      min-height: 2.75rem;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 999px;
+      padding: 0.5rem 1.1rem;
+      color: #e2e8f0;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .topic-entry-btn.is-primary {
+      border-color: transparent;
+      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      color: #0b1220;
+    }
+    .topic-entry-btn:hover {
+      border-color: #38bdf8;
     }
 
     /* Method note */

@@ -422,6 +422,48 @@ export const categories: SoundCategory[] = [
         },
         contributor: 'iigmir',
         date: '2026-08',
+        icon: '🏪',
+      },
+      {
+        file: 'taichung-north-familymart-buying-drink.mp3',
+        location: {
+          'zh-TW': '台中北區',
+          en: 'North District, Taichung',
+        },
+        description: {
+          'zh-TW': '在全家便利商店購買飲料時店內錄製的聲音',
+          en: 'Sounds recorded in Familymart while buying drinks'
+        },
+        contributor: 'iigmir',
+        date: '2026-09',
+        icon: '🏪',
+      },
+      {
+        file: 'taichung-south-taichung-south-hoshinchun-truck.mp3',
+        location: {
+          'zh-TW': '台中南區',
+          en: 'South District, Taichung'
+        },
+        description: {
+          'zh-TW': '街頭的選舉宣傳車，以國語和臺語發音',
+          en: 'An election campaign truck'
+        },
+        contributor: 'iigmir',
+        date: '2026-10',
+        icon: '📢',
+      },
+      {
+        file: 'taichung-west-changyiantong-truck.mp3',
+        location: {
+          'zh-TW': '台中南屯',
+          en: 'Nantun District, Taichung'
+        },
+        description: {
+          'zh-TW': '街頭的選舉宣傳車、被宣傳車嚇哭的小朋友、以及安撫小孩的媽媽',
+          en: 'An election campaign truck, a child scared by the truck, and his mother appeasing him'
+        },
+        contributor: 'iigmir',
+        date: '2026-10',
         icon: '📢',
       },
     ],

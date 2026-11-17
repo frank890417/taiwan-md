@@ -24,6 +24,8 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+curation: incubating
+curationReason: unverified
 ---
 
 # NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的

@@ -1,0 +1,221 @@
+---
+/**
+ * SupplyChainMap — 供應鏈地圖工具（契約 v1 第 4 節 (a)）。
+ * 三條鏈（半導體、AI 伺服器、鎢）各拆成環節；可切換看哪一條（?chain=），可輸入公司名或代號
+ * 找出它在哪幾環（?q=）。沒有 JS 時三條鏈全部展開。同一頁可放多個實例（idPrefix 區分錨點）。
+ *
+ * 每家公司的角色只寫「它在這一環做什麼」，出處是公司年報、官網或公開資訊觀測站。
+ * 不寫市占、排名、股價與任何評價。內容：src/data/industry/content/chains.json。
+ */
+import '../../../styles/industry.css';
+import ChainFlow from '../charts/ChainFlow.astro';
+import { useTranslatedPath } from '../../../i18n/utils';
+import { useIndustryT } from '../../../i18n/industry';
+import { related } from '../../../utils/industry/related';
+import companiesMeta from '../../../data/industry/companies-meta.json';
+import chainsData from '../../../data/industry/content/chains.json';
+
+interface Props {
+  lang: string;
+  variant?: 'inline' | 'page' | 'embed';
+  /** 錨點前綴：同一頁放兩個實例時給不同值 */
+  idPrefix?: string;
+}
+const { lang, variant = 'inline', idPrefix = 'chain' } = Astro.props;
+const ti = useIndustryT(lang);
+const translatePath = useTranslatedPath(lang as any);
+const cjk = ['zh-TW', 'ja', 'ko'].includes(lang);
+const companiesHref = translatePath('/companies/');
+const CH = chainsData as any;
+const inTable = new Set(
+  Object.entries(companiesMeta.companies as Record<string, any>)
+    .filter(([, m]) => m.inTop50)
+    .map(([t]) => t),
+);
+
+const chains = [];
+for (const c of CH.chains) {
+  const stages = [];
+  for (const s of c.stages) {
+    const companies = [];
+    for (const co of s.companies) {
+      // 內嵌板不出站內連結（iframe 裡點開會在別人的網站裡換頁）
+      let href: string | undefined;
+      if (variant !== 'embed') {
+        if (co.ticker && inTable.has(co.ticker)) {
+          href = `${companiesHref}#c-${co.ticker}`;
+        } else if (co.article) {
+          href = (await related(lang, co.article[0], co.article[1]))?.href;
+        }
+      }
+      const key = `chains.chains.${c.id}.stages.${s.id}.companies.${co.id}`;
+      companies.push({
+        name: cjk ? co.name : co.latin ? `${co.latin}（${co.name}）` : co.name,
+        key: `${co.name} ${co.latin ?? ''} ${co.ticker ?? ''}`.toLowerCase(),
+        ticker: co.ticker,
+        role: ti(`${key}.role`),
+        hq: co.hq ? ti(`county.${co.hq}`) : undefined,
+        href,
+        sourceUrl: co.url,
+      });
+    }
+    const sk = `chains.chains.${c.id}.stages.${s.id}`;
+    stages.push({
+      id: s.id,
+      name: ti(`${sk}.name`),
+      what: ti(`${sk}.what`),
+      companies,
+      foreignNote: s.gap ? ti(`${sk}.gap`) : undefined,
+      foreignSourceUrl: s.gapUrl,
+    });
+  }
+  chains.push({
+    id: c.id,
+    title: ti(`chains.chains.${c.id}.title`),
+    lede: ti(`chains.chains.${c.id}.lede`),
+    stages,
+    n: stages.reduce((a, s) => a + s.companies.length, 0),
+  });
+}
+const labels = {
+  stage: ti('ch.label.stage'),
+  company: ti('ch.label.company'),
+  role: ti('ch.label.role'),
+  hq: ti('ch.label.hq'),
+  gap: ti('ch.label.gap'),
+  source: ti('label.source'),
+  table: ti('ch.label.table'),
+  none: ti('ch.label.none'),
+};
+---
+
+<div
+  class="ind-tool ind-chain-tool"
+  data-ind-chains
+  data-variant={variant}
+  data-ids={chains.map((c) => c.id).join(',')}
+>
+  <div
+    class="ind-tl-filter"
+    data-tabs
+    role="group"
+    aria-label={ti('ch.toc')}
+    hidden
+  >
+    {
+      chains.map((c) => (
+        <button type="button" data-chain={c.id} aria-pressed="false">
+          {c.title}
+          <small>
+            {ti('ch.tab.count', { stages: c.stages.length, n: c.n })}
+          </small>
+        </button>
+      ))
+    }
+  </div>
+  <form class="ind-find" data-find hidden>
+    <label>
+      <span>{ti('ch.find.label')}</span>
+      <input
+        type="search"
+        name="q"
+        autocomplete="off"
+        placeholder={ti('ch.find.placeholder')}
+        data-none={ti('ch.find.none')}
+        data-hit={ti('ch.find.hit')}
+      />
+    </label>
+    <p class="ind-find-out" data-find-out aria-live="polite"></p>
+  </form>
+  {
+    chains.map((c) => (
+      <div data-chain-panel={c.id}>
+        <ChainFlow
+          id={`${idPrefix}-${c.id}`}
+          title={c.title}
+          lede={c.lede}
+          stages={c.stages}
+          labels={labels}
+        />
+      </div>
+    ))
+  }
+  <p class="ind-rank-note">{ti('ch.asof', { date: CH.asOf })}</p>
+</div>
+
+<script>
+  import {
+    findNodes,
+    parseChain,
+    parseQuery,
+  } from '../../../utils/industry/toolState';
+
+  for (const root of document.querySelectorAll<HTMLElement>(
+    '[data-ind-chains]',
+  )) {
+    const tabs = root.querySelector<HTMLElement>('[data-tabs]');
+    const form = root.querySelector<HTMLFormElement>('[data-find]');
+    const out = root.querySelector<HTMLElement>('[data-find-out]');
+    const input = form?.querySelector<HTMLInputElement>('input');
+    if (!tabs || !form || !out || !input) continue;
+    const ids = (root.dataset.ids || '').split(',');
+    const panels = Array.from(
+      root.querySelectorAll<HTMLElement>('[data-chain-panel]'),
+    );
+    const buttons = Array.from(tabs.querySelectorAll('button'));
+    const nodes = Array.from(
+      root.querySelectorAll<HTMLElement>('[data-node]'),
+    ).map((el) => ({ key: el.dataset.node || '', el }));
+    const setParam = (k: string, v: string) => {
+      const u = new URL(location.href);
+      if (v) u.searchParams.set(k, v);
+      else u.searchParams.delete(k);
+      history.replaceState(null, '', u);
+    };
+    const show = (id: string, push: boolean) => {
+      for (const p of panels) p.hidden = p.dataset.chainPanel !== id;
+      for (const b of buttons)
+        b.setAttribute('aria-pressed', String(b.dataset.chain === id));
+      if (push) setParam('chain', id === ids[0] ? '' : id);
+    };
+    const find = (q: string, push: boolean) => {
+      const hits = findNodes(nodes, q);
+      const set = new Set(hits.map((h) => h.el));
+      for (const n of nodes) n.el.classList.toggle('is-hit', set.has(n.el));
+      const where = hits.map((h) => {
+        const stage = h.el
+          .closest('.ind-stage')
+          ?.querySelector('.ind-stage-name')?.textContent;
+        const chain = h.el
+          .closest('.ind-chain')
+          ?.querySelector('.ind-chain-h')?.textContent;
+        return `${chain} › ${stage}`;
+      });
+      out.textContent = !q
+        ? ''
+        : where.length
+          ? `${input.dataset.hit}${[...new Set(where)].join('；')}`
+          : input.dataset.none || '';
+      // 命中的節點若不在目前那條鏈上，切到第一個命中的那條
+      const first = hits[0]?.el.closest<HTMLElement>('[data-chain-panel]');
+      if (first?.hidden) show(first.dataset.chainPanel!, push);
+      if (push) setParam('q', q);
+    };
+    tabs.hidden = false;
+    form.hidden = false;
+    form.addEventListener('submit', (e) => e.preventDefault());
+    tabs.addEventListener('click', (e) => {
+      const b = (e.target as HTMLElement).closest('button');
+      if (b?.dataset.chain) show(b.dataset.chain, true);
+    });
+    input.addEventListener('input', () =>
+      find(input.value.trim().toLowerCase(), true),
+    );
+    show(parseChain(location.search, ids), false);
+    const q = parseQuery(location.search);
+    if (q) {
+      input.value = q;
+      find(q, false);
+    }
+  }
+</script>

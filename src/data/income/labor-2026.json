@@ -1,0 +1,282 @@
+{
+  "_meta": {
+    "effective": "2026-01-01",
+    "asOf": "2026-11-10",
+    "fetched": "2026-11-10",
+    "notes": [
+      "本檔是 2026 年（民國 115 年）現行規定。2027 年（民國 116 年）的勞保投保薪資分級表與勞退月提繳分級表截至 2026-11-10 尚未公告，本檔不含 2027 年分級表。",
+      "2027 年勞保普通事故費率已公告由 12.5% 調為 13%（扣除內含就保 1% 後以 12% 計收，勞保局 2026-10-21 公告 https://www.bli.gov.tw/0110278.html），但本檔不含 2027 年費率，分級表公告後再一起換檔。",
+      "數字全部來自 reports/research/2026-11/income-topic-02-pension.md 引的官方頁面；沒有拿到的欄位寫 null 並註明。"
+    ],
+    "research": "reports/research/2026-11/income-topic-02-pension.md"
+  },
+  "laborInsurance": {
+    "source": "https://www.bli.gov.tw/Files/25661",
+    "announced": "2025-11-21",
+    "updated": "2026-11-10",
+    "sources": {
+      "grades": "https://www.bli.gov.tw/Files/25661（勞動部 114-11-21 勞動保 2 字第 1140091863 號令，自 115-01-01 施行）",
+      "rates": "https://www.bli.gov.tw/Files/25696（勞保局 115 年保險費分擔金額表附註：普通事故 11.5% 加就保 1%）",
+      "shares": "勞工保險條例第 15 條 https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001",
+      "pension": "https://www.bli.gov.tw/0019825.html；條文第 58、58-1、58-2、59 條",
+      "claimAge": "https://www.bli.gov.tw/0019821.html"
+    },
+    "ordinaryAccidentRate": 0.115,
+    "ordinaryAccidentRateTotal": 0.125,
+    "ordinaryAccidentRateNote": "普通事故費率合計 12.5%，其中 1% 為就業保險費率，所以勞保本身實收 11.5%（勞保局 115 年分擔表附註）。ordinaryAccidentRate 是 11.5%。",
+    "employmentRate": 0.01,
+    "shares": {
+      "worker": 0.2,
+      "employer": 0.7,
+      "government": 0.1
+    },
+    "insuredSalaryGrades": [
+      29500, 30300, 31800, 33300, 34800, 36300, 38200, 40100, 42000, 43900,
+      45800
+    ],
+    "gradesNote": "第 1 級 29,500 元以下；第 11 級 43,901 元以上都算 45,800。",
+    "pension": {
+      "formulaA": {
+        "coefficient": 0.00775,
+        "constant": 3000
+      },
+      "formulaB": {
+        "coefficient": 0.0155
+      },
+      "adjustmentPerYear": 0.04,
+      "adjustmentCap": 0.2,
+      "maxEarlyYears": 5,
+      "averageMonths": 60,
+      "minSeniorityYears": 15,
+      "seniorityDecimals": 2
+    },
+    "claimAgeByBirthYear": [
+      {
+        "fromBirthYear": null,
+        "toBirthYear": 46,
+        "age": 60
+      },
+      {
+        "fromBirthYear": 47,
+        "toBirthYear": 47,
+        "age": 61
+      },
+      {
+        "fromBirthYear": 48,
+        "toBirthYear": 48,
+        "age": 62
+      },
+      {
+        "fromBirthYear": 49,
+        "toBirthYear": 49,
+        "age": 63
+      },
+      {
+        "fromBirthYear": 50,
+        "toBirthYear": 50,
+        "age": 64
+      },
+      {
+        "fromBirthYear": 51,
+        "toBirthYear": null,
+        "age": 65
+      }
+    ],
+    "claimAgeNote": "出生年次是民國年。勞保局頁面文字寫「115年以後為65歲」，跟同頁出生年次表（51 年次才 65 歲）是年度與出生年次兩種說法；本檔以出生年次表為準（研究檔衝突 X1）。",
+    "lumpSum": {
+      "monthsPerYear": 1,
+      "monthsPerYearBeyond15": 2,
+      "thresholdYears": 15,
+      "maxMonths": 45,
+      "maxYearsAfter60": 5,
+      "maxMonthsWithAfter60": 50
+    }
+  },
+  "occupationalAccident": {
+    "source": "https://www.mol.gov.tw/1607/1632/1633/76836/",
+    "announced": "2024-11-07",
+    "effectiveFrom": "2025-01-01",
+    "updated": "2026-11-10",
+    "sources": {
+      "rates": "https://www.mol.gov.tw/1607/1632/1633/76836/（勞動部 2024-11-07 公告，114-01-01 起，每 3 年調整）",
+      "grades": "https://www.bli.gov.tw/Files/25664（勞動部 114-11-17 勞動保 3 字第 1140090499 號令，自 115-01-01 施行）"
+    },
+    "averageRate": 0.0021,
+    "industryAverageRate": 0.0014,
+    "commuteRate": 0.0007,
+    "rateNote": "各行業平均費率 0.21% ＝ 行業別平均 0.14% ＋ 上下班災害單一費率 0.07%。個別行業 0.05% 到 0.89%，要用實際行業費率時由呼叫端傳入。",
+    "employerShare": 1.0,
+    "insuredSalaryGrades": [
+      29500, 30300, 31800, 33300, 34800, 36300, 38200, 40100, 42000, 43900,
+      45800, 48200, 50600, 53000, 55400, 57800, 60800, 63800, 66800, 69800,
+      72800
+    ],
+    "gradesNote": "全表 21 級；第 21 級 69,801 元以上都算 72,800。全部由雇主負擔。"
+  },
+  "laborPension": {
+    "source": "https://www.bli.gov.tw/Files/25709",
+    "announced": "2025-11-24",
+    "updated": "2026-11-10",
+    "sources": {
+      "grades": "https://www.bli.gov.tw/Files/25709（勞動部 114-11-24 勞動福 3 字第 1140153598 號令，自 115-01-01 生效）",
+      "annuity": "https://www.bli.gov.tw/0018437.html（更新 2026-08-07）",
+      "lifeExpectancy": "https://www.bli.gov.tw/Files/16482（111 年全國簡易生命表，月退採計）",
+      "trial": "https://calcr2.mol.gov.tw/trial（本試算表於 115-03-05 更新）",
+      "guarantee": "https://www.blf.gov.tw/49200/49255/49261/49269/49277/73025/post"
+    },
+    "employerMinRate": 0.06,
+    "selfMaxRate": 0.06,
+    "contributionGrades": [
+      1500, 3000, 4500, 6000, 7500, 8700, 9900, 11100, 12540, 13500, 15840,
+      16500, 17280, 17880, 19047, 20008, 21009, 22000, 23100, 24000, 25250,
+      26400, 27600, 28590, 29500, 30300, 31800, 33300, 34800, 36300, 38200,
+      40100, 42000, 43900, 45800, 48200, 50600, 53000, 55400, 57800, 60800,
+      63800, 66800, 69800, 72800, 76500, 80200, 83900, 87600, 92100, 96600,
+      101100, 105600, 110100, 115500, 120900, 126300, 131700, 137100, 142500,
+      147900, 150000
+    ],
+    "annuityRate": 0.011473,
+    "annuityRateNote": "勞動基金運用局公告 110 至 112 年全年平均保證收益率的平均數，勞保局至少每 3 年檢討一次。",
+    "lifeExpectancy": [
+      {
+        "age": 60,
+        "years": 23
+      },
+      {
+        "age": 61,
+        "years": 23
+      },
+      {
+        "age": 62,
+        "years": 22
+      },
+      {
+        "age": 63,
+        "years": 21
+      },
+      {
+        "age": 64,
+        "years": 20
+      },
+      {
+        "age": 65,
+        "years": 19
+      },
+      {
+        "age": 66,
+        "years": 19
+      },
+      {
+        "age": 67,
+        "years": 18
+      },
+      {
+        "age": 68,
+        "years": 17
+      },
+      {
+        "age": 69,
+        "years": 16
+      },
+      {
+        "age": 70,
+        "years": 16
+      },
+      {
+        "age": 71,
+        "years": 15
+      },
+      {
+        "age": 72,
+        "years": 14
+      },
+      {
+        "age": 73,
+        "years": 13
+      },
+      {
+        "age": 74,
+        "years": 13
+      },
+      {
+        "age": 75,
+        "years": 12
+      },
+      {
+        "age": 76,
+        "years": 11
+      },
+      {
+        "age": 77,
+        "years": 11
+      },
+      {
+        "age": 78,
+        "years": 10
+      },
+      {
+        "age": 79,
+        "years": 9
+      },
+      {
+        "age": 80,
+        "years": 9
+      },
+      {
+        "age": 81,
+        "years": 8
+      },
+      {
+        "age": 82,
+        "years": 8
+      },
+      {
+        "age": 83,
+        "years": 7
+      },
+      {
+        "age": 84,
+        "years": 6
+      },
+      {
+        "age": 85,
+        "years": 6
+      }
+    ],
+    "lifeExpectancyNote": "85 歲以上一律採 6 年；不滿 60 歲不能請領月退休金。",
+    "minSeniorityYearsForAnnuity": 15,
+    "claimAge": 60,
+    "trialDefaults": {
+      "retireAge": 65,
+      "annualReturn": 0.0764,
+      "wageGrowth": 0.0152,
+      "employerRate": 0.06,
+      "currentBalance": 0,
+      "monthsInterestFirstYear": 5.5,
+      "note": "勞動部勞工個人退休金試算表 115-03-05 版：報酬率預設「成立迄今」7.64%，薪資成長率預設「每人每月經常性薪資年化成長率」1.52%。",
+      "source": "https://calcr2.mol.gov.tw/trial",
+      "asOf": "2026-03-05"
+    },
+    "guaranteedReturn": {
+      "rate": 0.017108,
+      "period": "2026-11",
+      "announced": "2026-11-02",
+      "basis": "當地銀行二年期定期存款利率計算之最低保證收益率（年利率）",
+      "source": "https://www.blf.gov.tw/49200/49255/49261/49269/49277/73025/post",
+      "annualAverages": {
+        "2021": 0.007858,
+        "2022": 0.011003,
+        "2023": 0.015559,
+        "2024": 0.016797,
+        "2025": 0.017108
+      },
+      "annualAveragesNote": "110 至 114 年全年平均，勞動基金運用局 PDF；研究檔 D-9。"
+    },
+    "officialFactorCheck": {
+      "lifeExpectancy": 23,
+      "rate": 0.011473,
+      "factor": 20.239737682,
+      "source": "https://www.bli.gov.tw/0018437.html"
+    }
+  }
+}

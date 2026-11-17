@@ -1,0 +1,1627 @@
+{
+  "_meta": {
+    "title": {
+      "zh": "工業及服務業受僱員工全年總薪資中位數及分布（113 年／2024）",
+      "en": "Annual total earnings of employees in industry and services: median and distribution (2024)"
+    },
+    "dataYear": 2024,
+    "dataYearRoc": 113,
+    "publishedDate": "2025-11-25",
+    "publisher": {
+      "zh": "行政院主計總處",
+      "en": "Directorate-General of Budget, Accounting and Statistics (DGBAS)"
+    },
+    "source": [
+      {
+        "name": "主計總處新聞稿 113年工業及服務業受僱員工全年總薪資中位數及分布統計結果（網頁）",
+        "url": "https://www.stat.gov.tw/News_Content.aspx?n=2716&s=235514"
+      },
+      {
+        "name": "新聞稿 PDF（檔名含中文，使用時需百分比編碼）",
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/235514/113年受僱員工薪資中位數統計結果新聞稿.pdf"
+      },
+      {
+        "name": "表 2 十等分位組分界點（xlsx）",
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/235514/表2　工業及服務業十等分位組分界點之全年總薪資－全體受僱員工.xlsx"
+      },
+      {
+        "name": "表 1、3、5、6（四等分位與中位數、按特性別）見同一頁附表",
+        "url": "https://www.stat.gov.tw/News_Content.aspx?n=2716&s=235514"
+      }
+    ],
+    "unit": "元（新臺幣，稅前全年總薪資）。原始資料以萬元為單位、精度到千元（例：54.6 萬元＝546000 元）；本檔數字為原始萬元值 ×10000，不是更精確的值。",
+    "asOf": "2024-12-31",
+    "fetched": "2026-11-10",
+    "definition": {
+      "salary": "全年總薪資係指廠商當年度支付給員工之工作報酬，包括各月經常性薪資（含本薪、按月津貼等）及非經常性薪資（年終獎金、年節獎金、員工酬勞（紅利）、績效獎金及加班費等），以上均不扣除應付所得稅、保險費、工會會費及自提退休金等，但不含個人其他來源所得或收入，例如股息、利息、兼職或租賃等所得，亦不含雇主負擔或提撥之保險費、退休金與資遣費等非薪資報酬。",
+      "population": "本項統計自 106 年（資料時間，下同）起按年發布，對象包含工業及服務業場所單位僱用之領薪員工，即本國籍、外國籍之全時員工及部分工時員工，但不包含農林漁牧業、政府機關、小學以上各級公私立學校、宗教、職業團體及類似組織等行業之僱用員工；並配合最新工業及服務業普查行業範圍，自 108 年起擴增「研究發展服務業」（屬「專業、科學及技術服務業」）、「學前教育」（屬「教育業」）及「社會工作服務業」（屬「醫療保健及社會工作服務業」）等行業範圍。",
+      "definitionSource": "主計總處 113 年新聞稿 PDF「附錄 一、統計定義及範圍」（逐字）"
+    },
+    "nextRelease": "114 年（2025）版預期 2026 年 11 月底到 12 月（官方統計時效寫「11個月」，113 年版於 2025-11-25 發布）；官方預告發布日期未讀到（預告時間表為動態載入頁面），此為推測，不是官方確認。發布後須換檔：https://www.stat.gov.tw/News.aspx?n=2716&sms=10980",
+    "notes": [
+      "「全體」（all）含外籍移工與部分工時員工；官方註明 D1（33.0 萬元）以下多數為外籍移工與部分工時員工。給本國全職者用請看 domesticFullTime。",
+      "官方只公布十分位 D1–D9 與四分位 Q1、Q3。按性別、年齡、教育程度、員工規模、行業只有 Q1／中位數／Q3／平均數，沒有十分位。domesticFullTime 的十分位官方沒有，填 null。",
+      "25 與 75 百分位（Q1、Q3）是官方額外錨點：Q1 落在 D2 與 D3 之間，Q3 落在 D7 與 D8 之間。",
+      "各組欄位 median／q1／q3／mean 以全體受僱員工為準（表 3、表 5）；員工規模「100-299人」表 5 未列四分位與平均，只有表 3 的中位數，其餘填 null。",
+      "專業科學及技術服務業、教育業、醫療保健及社會工作服務業自 108 年起擴增行業範圍，不與 103 年比較（表 3 表註）。",
+      "工具使用提醒：不含公務員、小學以上各級學校教職員、農林漁牧業、宗教與職業團體員工、自營作業者與雇主；金額為稅前，含年終與員工分紅；地區不含金門縣、連江縣；以 2024 年分布為基準，未調整 2025、2026 年薪資成長。",
+      "各組 parent 欄位為本站整理的行業階層（工業／服務業底下的細項），不是官方欄位。"
+    ]
+  },
+  "all": {
+    "D1": 330000,
+    "D2": 381000,
+    "D3": 432000,
+    "D4": 487000,
+    "D5": 546000,
+    "D6": 628000,
+    "D7": 753000,
+    "D8": 959000,
+    "D9": 1336000,
+    "Q1": 406000,
+    "median": 546000,
+    "Q3": 842000,
+    "mean": 732000
+  },
+  "domesticFullTime": {
+    "D1": null,
+    "D2": null,
+    "D3": null,
+    "D4": null,
+    "D5": null,
+    "D6": null,
+    "D7": null,
+    "D8": null,
+    "D9": null,
+    "Q1": 436000,
+    "median": 585000,
+    "Q3": 907000,
+    "mean": 776000,
+    "_note": "本國籍全時受僱員工（表 4、表 6）：官方只公布 Q1／中位數／Q3／平均數，十分位沒有資料。",
+    "bySex": [
+      {
+        "id": "male",
+        "label": {
+          "zh": "男",
+          "en": "Male"
+        },
+        "median": 638000,
+        "q1": 465000,
+        "q3": 1013000,
+        "mean": 859000
+      },
+      {
+        "id": "female",
+        "label": {
+          "zh": "女",
+          "en": "Female"
+        },
+        "median": 535000,
+        "q1": 413000,
+        "q3": 790000,
+        "mean": 692000
+      }
+    ],
+    "byAge": [
+      {
+        "id": "under30",
+        "label": {
+          "zh": "未滿30歲",
+          "en": "Under 30"
+        },
+        "median": 504000,
+        "q1": 400000,
+        "q3": 672000,
+        "mean": 594000
+      },
+      {
+        "id": "under25",
+        "label": {
+          "zh": "未滿25歲",
+          "en": "Under 25"
+        },
+        "median": 446000,
+        "q1": 368000,
+        "q3": 537000,
+        "mean": 483000
+      },
+      {
+        "id": "25-29",
+        "label": {
+          "zh": "25-29歲",
+          "en": "25-29"
+        },
+        "median": 537000,
+        "q1": 423000,
+        "q3": 737000,
+        "mean": 638000
+      },
+      {
+        "id": "30-39",
+        "label": {
+          "zh": "30-39歲",
+          "en": "30-39"
+        },
+        "median": 608000,
+        "q1": 449000,
+        "q3": 901000,
+        "mean": 755000
+      },
+      {
+        "id": "40-49",
+        "label": {
+          "zh": "40-49歲",
+          "en": "40-49"
+        },
+        "median": 646000,
+        "q1": 458000,
+        "q3": 1028000,
+        "mean": 852000
+      },
+      {
+        "id": "50-64",
+        "label": {
+          "zh": "50-64歲",
+          "en": "50-64"
+        },
+        "median": 599000,
+        "q1": 445000,
+        "q3": 1021000,
+        "mean": 868000
+      },
+      {
+        "id": "65plus",
+        "label": {
+          "zh": "65歲以上",
+          "en": "65 and over"
+        },
+        "median": 451000,
+        "q1": 362000,
+        "q3": 614000,
+        "mean": 642000
+      }
+    ],
+    "byEducation": [
+      {
+        "id": "junior-high-or-below",
+        "label": {
+          "zh": "國中及以下",
+          "en": "Junior high or below"
+        },
+        "median": 454000,
+        "q1": 377000,
+        "q3": 569000,
+        "mean": 514000
+      },
+      {
+        "id": "senior-high-vocational",
+        "label": {
+          "zh": "高級中等（高中、高職）",
+          "en": "Senior high / vocational"
+        },
+        "median": 496000,
+        "q1": 396000,
+        "q3": 656000,
+        "mean": 582000
+      },
+      {
+        "id": "college-university",
+        "label": {
+          "zh": "專科及大學",
+          "en": "Junior college and university"
+        },
+        "median": 610000,
+        "q1": 453000,
+        "q3": 920000,
+        "mean": 769000
+      },
+      {
+        "id": "graduate",
+        "label": {
+          "zh": "研究所",
+          "en": "Graduate school"
+        },
+        "median": 1138000,
+        "q1": 701000,
+        "q3": 1624000,
+        "mean": 1395000
+      }
+    ],
+    "byIndustry": [
+      {
+        "id": "industry",
+        "label": {
+          "zh": "工業",
+          "en": "Industry (secondary sector)"
+        },
+        "parent": null,
+        "median": 622000,
+        "q1": 459000,
+        "q3": 977000,
+        "mean": 832000
+      },
+      {
+        "id": "mining",
+        "label": {
+          "zh": "礦業及土石採取業",
+          "en": "Mining and quarrying"
+        },
+        "parent": "industry",
+        "median": 704000,
+        "q1": 435000,
+        "q3": 1075000,
+        "mean": 781000
+      },
+      {
+        "id": "manufacturing",
+        "label": {
+          "zh": "製造業",
+          "en": "Manufacturing"
+        },
+        "parent": "industry",
+        "median": 650000,
+        "q1": 477000,
+        "q3": 1012000,
+        "mean": 871000
+      },
+      {
+        "id": "mfg-food",
+        "label": {
+          "zh": "食品及飼品製造業",
+          "en": "Food and feed manufacturing"
+        },
+        "parent": "manufacturing",
+        "median": 535000,
+        "q1": 456000,
+        "q3": 704000,
+        "mean": 645000
+      },
+      {
+        "id": "mfg-beverage-tobacco",
+        "label": {
+          "zh": "飲料及菸草製造業",
+          "en": "Beverage and tobacco manufacturing"
+        },
+        "parent": "manufacturing",
+        "median": 695000,
+        "q1": 517000,
+        "q3": 1001000,
+        "mean": 785000
+      },
+      {
+        "id": "mfg-textiles",
+        "label": {
+          "zh": "紡織業",
+          "en": "Textiles"
+        },
+        "parent": "manufacturing",
+        "median": 512000,
+        "q1": 431000,
+        "q3": 652000,
+        "mean": 592000
+      },
+      {
+        "id": "mfg-apparel",
+        "label": {
+          "zh": "成衣及服飾品製造業",
+          "en": "Apparel and accessories manufacturing"
+        },
+        "parent": "manufacturing",
+        "median": 445000,
+        "q1": 375000,
+        "q3": 611000,
+        "mean": 560000
+      },
+      {
+        "id": "mfg-leather",
+        "label": {
+          "zh": "皮革、毛皮及其製品製造業",
+          "en": "Leather, fur and related products"
+        },
+        "parent": "manufacturing",
+        "median": 517000,
+        "q1": 415000,
+        "q3": 766000,
+        "mean": 659000
+      },
+      {
+        "id": "mfg-wood-bamboo",
+        "label": {
+          "zh": "木竹製品製造業",
+          "en": "Wood and bamboo products"
+        },
+        "parent": "manufacturing",
+        "median": 479000,
+        "q1": 413000,
+        "q3": 582000,
+        "mean": 529000
+      },
+      {
+        "id": "mfg-paper",
+        "label": {
+          "zh": "紙漿、紙及紙製品製造業",
+          "en": "Pulp, paper and paper products"
+        },
+        "parent": "manufacturing",
+        "median": 502000,
+        "q1": 405000,
+        "q3": 671000,
+        "mean": 582000
+      },
+      {
+        "id": "mfg-printing",
+        "label": {
+          "zh": "印刷及資料儲存媒體複製業",
+          "en": "Printing and reproduction of recorded media"
+        },
+        "parent": "manufacturing",
+        "median": 468000,
+        "q1": 397000,
+        "q3": 587000,
+        "mean": 545000
+      },
+      {
+        "id": "mfg-petroleum-coal",
+        "label": {
+          "zh": "石油及煤製品製造業",
+          "en": "Petroleum and coal products"
+        },
+        "parent": "manufacturing",
+        "median": 1188000,
+        "q1": 927000,
+        "q3": 1341000,
+        "mean": 1142000
+      },
+      {
+        "id": "mfg-chemical-materials",
+        "label": {
+          "zh": "化學材料及肥料製造業",
+          "en": "Chemical materials and fertilizers"
+        },
+        "parent": "manufacturing",
+        "median": 943000,
+        "q1": 683000,
+        "q3": 1229000,
+        "mean": 1006000
+      },
+      {
+        "id": "mfg-other-chemicals",
+        "label": {
+          "zh": "其他化學製品製造業",
+          "en": "Other chemical products"
+        },
+        "parent": "manufacturing",
+        "median": 658000,
+        "q1": 501000,
+        "q3": 923000,
+        "mean": 790000
+      },
+      {
+        "id": "mfg-pharma",
+        "label": {
+          "zh": "藥品及醫用化學製品製造業",
+          "en": "Pharmaceuticals and medicinal chemicals"
+        },
+        "parent": "manufacturing",
+        "median": 610000,
+        "q1": 488000,
+        "q3": 847000,
+        "mean": 733000
+      },
+      {
+        "id": "mfg-rubber",
+        "label": {
+          "zh": "橡膠製品製造業",
+          "en": "Rubber products"
+        },
+        "parent": "manufacturing",
+        "median": 541000,
+        "q1": 441000,
+        "q3": 686000,
+        "mean": 601000
+      },
+      {
+        "id": "mfg-plastics",
+        "label": {
+          "zh": "塑膠製品製造業",
+          "en": "Plastic products"
+        },
+        "parent": "manufacturing",
+        "median": 516000,
+        "q1": 436000,
+        "q3": 684000,
+        "mean": 633000
+      },
+      {
+        "id": "mfg-nonmetallic-minerals",
+        "label": {
+          "zh": "非金屬礦物製品製造業",
+          "en": "Non-metallic mineral products"
+        },
+        "parent": "manufacturing",
+        "median": 592000,
+        "q1": 464000,
+        "q3": 787000,
+        "mean": 681000
+      },
+      {
+        "id": "mfg-basic-metals",
+        "label": {
+          "zh": "基本金屬製造業",
+          "en": "Basic metals"
+        },
+        "parent": "manufacturing",
+        "median": 692000,
+        "q1": 530000,
+        "q3": 997000,
+        "mean": 811000
+      },
+      {
+        "id": "mfg-fabricated-metals",
+        "label": {
+          "zh": "金屬製品製造業",
+          "en": "Fabricated metal products"
+        },
+        "parent": "manufacturing",
+        "median": 486000,
+        "q1": 409000,
+        "q3": 623000,
+        "mean": 561000
+      },
+      {
+        "id": "mfg-electronic-components",
+        "label": {
+          "zh": "電子零組件製造業",
+          "en": "Electronic components"
+        },
+        "parent": "manufacturing",
+        "median": 1011000,
+        "q1": 711000,
+        "q3": 1566000,
+        "mean": 1358000
+      },
+      {
+        "id": "mfg-computers-electronics-optical",
+        "label": {
+          "zh": "電腦、電子產品及光學製品製造業",
+          "en": "Computers, electronics and optical products"
+        },
+        "parent": "manufacturing",
+        "median": 1037000,
+        "q1": 679000,
+        "q3": 1509000,
+        "mean": 1199000
+      },
+      {
+        "id": "mfg-electrical-equipment",
+        "label": {
+          "zh": "電力設備及配備製造業",
+          "en": "Electrical equipment"
+        },
+        "parent": "manufacturing",
+        "median": 570000,
+        "q1": 436000,
+        "q3": 863000,
+        "mean": 728000
+      },
+      {
+        "id": "mfg-machinery",
+        "label": {
+          "zh": "機械設備製造業",
+          "en": "Machinery and equipment"
+        },
+        "parent": "manufacturing",
+        "median": 528000,
+        "q1": 422000,
+        "q3": 722000,
+        "mean": 634000
+      },
+      {
+        "id": "mfg-motor-vehicles",
+        "label": {
+          "zh": "汽車及其零件製造業",
+          "en": "Motor vehicles and parts"
+        },
+        "parent": "manufacturing",
+        "median": 600000,
+        "q1": 478000,
+        "q3": 813000,
+        "mean": 699000
+      },
+      {
+        "id": "mfg-other-transport",
+        "label": {
+          "zh": "其他運輸工具及其零件製造業",
+          "en": "Other transport equipment and parts"
+        },
+        "parent": "manufacturing",
+        "median": 605000,
+        "q1": 479000,
+        "q3": 837000,
+        "mean": 709000
+      },
+      {
+        "id": "mfg-furniture",
+        "label": {
+          "zh": "家具製造業",
+          "en": "Furniture"
+        },
+        "parent": "manufacturing",
+        "median": 432000,
+        "q1": 375000,
+        "q3": 518000,
+        "mean": 480000
+      },
+      {
+        "id": "mfg-other",
+        "label": {
+          "zh": "其他製造業",
+          "en": "Other manufacturing"
+        },
+        "parent": "manufacturing",
+        "median": 543000,
+        "q1": 442000,
+        "q3": 694000,
+        "mean": 631000
+      },
+      {
+        "id": "mfg-repair-installation",
+        "label": {
+          "zh": "產業用機械設備維修及安裝業",
+          "en": "Industrial machinery repair and installation"
+        },
+        "parent": "manufacturing",
+        "median": 678000,
+        "q1": 497000,
+        "q3": 1135000,
+        "mean": 904000
+      },
+      {
+        "id": "electricity-gas",
+        "label": {
+          "zh": "電力及燃氣供應業",
+          "en": "Electricity and gas supply"
+        },
+        "parent": "industry",
+        "median": 1128000,
+        "q1": 858000,
+        "q3": 1432000,
+        "mean": 1130000
+      },
+      {
+        "id": "water-remediation",
+        "label": {
+          "zh": "用水供應及污染整治業",
+          "en": "Water supply and remediation"
+        },
+        "parent": "industry",
+        "median": 507000,
+        "q1": 373000,
+        "q3": 682000,
+        "mean": 581000
+      },
+      {
+        "id": "construction",
+        "label": {
+          "zh": "營建工程業",
+          "en": "Construction"
+        },
+        "parent": "industry",
+        "median": 510000,
+        "q1": 382000,
+        "q3": 778000,
+        "mean": 632000
+      },
+      {
+        "id": "services",
+        "label": {
+          "zh": "服務業",
+          "en": "Services (tertiary sector)"
+        },
+        "parent": null,
+        "median": 564000,
+        "q1": 421000,
+        "q3": 862000,
+        "mean": 742000
+      },
+      {
+        "id": "wholesale-retail",
+        "label": {
+          "zh": "批發及零售業",
+          "en": "Wholesale and retail trade"
+        },
+        "parent": "services",
+        "median": 525000,
+        "q1": 411000,
+        "q3": 748000,
+        "mean": 668000
+      },
+      {
+        "id": "wholesale",
+        "label": {
+          "zh": "批發業",
+          "en": "Wholesale trade"
+        },
+        "parent": "wholesale-retail",
+        "median": 541000,
+        "q1": 414000,
+        "q3": 789000,
+        "mean": 706000
+      },
+      {
+        "id": "retail",
+        "label": {
+          "zh": "零售業",
+          "en": "Retail trade"
+        },
+        "parent": "wholesale-retail",
+        "median": 504000,
+        "q1": 406000,
+        "q3": 691000,
+        "mean": 616000
+      },
+      {
+        "id": "transport-storage",
+        "label": {
+          "zh": "運輸及倉儲業",
+          "en": "Transportation and storage"
+        },
+        "parent": "services",
+        "median": 695000,
+        "q1": 485000,
+        "q3": 967000,
+        "mean": 788000
+      },
+      {
+        "id": "accommodation-food",
+        "label": {
+          "zh": "住宿及餐飲業",
+          "en": "Accommodation and food service"
+        },
+        "parent": "services",
+        "median": 473000,
+        "q1": 367000,
+        "q3": 582000,
+        "mean": 517000
+      },
+      {
+        "id": "publishing-media-ict",
+        "label": {
+          "zh": "出版影音及資通訊業",
+          "en": "Publishing, audiovisual and ICT"
+        },
+        "parent": "services",
+        "median": 834000,
+        "q1": 599000,
+        "q3": 1279000,
+        "mean": 1027000
+      },
+      {
+        "id": "finance-insurance",
+        "label": {
+          "zh": "金融及保險業",
+          "en": "Finance and insurance"
+        },
+        "parent": "services",
+        "median": 1124000,
+        "q1": 769000,
+        "q3": 1545000,
+        "mean": 1296000
+      },
+      {
+        "id": "real-estate",
+        "label": {
+          "zh": "不動產業",
+          "en": "Real estate"
+        },
+        "parent": "services",
+        "median": 543000,
+        "q1": 400000,
+        "q3": 808000,
+        "mean": 690000
+      },
+      {
+        "id": "professional-scientific-technical",
+        "label": {
+          "zh": "專業科學及技術服務業",
+          "en": "Professional, scientific and technical services"
+        },
+        "parent": "services",
+        "median": 669000,
+        "q1": 460000,
+        "q3": 1001000,
+        "mean": 831000
+      },
+      {
+        "id": "support-services",
+        "label": {
+          "zh": "支援服務業",
+          "en": "Support services"
+        },
+        "parent": "services",
+        "median": 465000,
+        "q1": 377000,
+        "q3": 544000,
+        "mean": 507000
+      },
+      {
+        "id": "education-excl-schools",
+        "label": {
+          "zh": "教育業(不含小學以上各級公私立學校等)",
+          "en": "Education (excluding schools above primary level)"
+        },
+        "parent": "services",
+        "median": 405000,
+        "q1": 330000,
+        "q3": 496000,
+        "mean": 438000
+      },
+      {
+        "id": "health-social-work",
+        "label": {
+          "zh": "醫療保健及社會工作服務業",
+          "en": "Health care and social work"
+        },
+        "parent": "services",
+        "median": 666000,
+        "q1": 500000,
+        "q3": 1004000,
+        "mean": 870000
+      },
+      {
+        "id": "arts-entertainment-recreation",
+        "label": {
+          "zh": "藝術娛樂及休閒服務業",
+          "en": "Arts, entertainment and recreation"
+        },
+        "parent": "services",
+        "median": 430000,
+        "q1": 341000,
+        "q3": 625000,
+        "mean": 542000
+      },
+      {
+        "id": "other-services",
+        "label": {
+          "zh": "其他服務業",
+          "en": "Other services"
+        },
+        "parent": "services",
+        "median": 385000,
+        "q1": 337000,
+        "q3": 539000,
+        "mean": 487000
+      }
+    ],
+    "byFirmSize": null
+  },
+  "bySex": [
+    {
+      "id": "male",
+      "label": {
+        "zh": "男",
+        "en": "Male"
+      },
+      "median": 585000,
+      "q1": 426000,
+      "q3": 935000,
+      "mean": 801000
+    },
+    {
+      "id": "female",
+      "label": {
+        "zh": "女",
+        "en": "Female"
+      },
+      "median": 512000,
+      "q1": 390000,
+      "q3": 743000,
+      "mean": 653000
+    }
+  ],
+  "byAge": [
+    {
+      "id": "under30",
+      "label": {
+        "zh": "未滿30歲",
+        "en": "Under 30"
+      },
+      "median": 468000,
+      "q1": 358000,
+      "q3": 621000,
+      "mean": 536000
+    },
+    {
+      "id": "under25",
+      "label": {
+        "zh": "未滿25歲",
+        "en": "Under 25"
+      },
+      "median": 381000,
+      "q1": 302000,
+      "q3": 491000,
+      "mean": 406000
+    },
+    {
+      "id": "25-29",
+      "label": {
+        "zh": "25-29歲",
+        "en": "25-29"
+      },
+      "median": 521000,
+      "q1": 403000,
+      "q3": 707000,
+      "mean": 611000
+    },
+    {
+      "id": "30-39",
+      "label": {
+        "zh": "30-39歲",
+        "en": "30-39"
+      },
+      "median": 581000,
+      "q1": 430000,
+      "q3": 862000,
+      "mean": 724000
+    },
+    {
+      "id": "40-49",
+      "label": {
+        "zh": "40-49歲",
+        "en": "40-49"
+      },
+      "median": 620000,
+      "q1": 440000,
+      "q3": 995000,
+      "mean": 827000
+    },
+    {
+      "id": "50-64",
+      "label": {
+        "zh": "50-64歲",
+        "en": "50-64"
+      },
+      "median": 579000,
+      "q1": 423000,
+      "q3": 983000,
+      "mean": 846000
+    },
+    {
+      "id": "65plus",
+      "label": {
+        "zh": "65歲以上",
+        "en": "65 and over"
+      },
+      "median": 439000,
+      "q1": 339000,
+      "q3": 627000,
+      "mean": 666000
+    }
+  ],
+  "byEducation": [
+    {
+      "id": "junior-high-or-below",
+      "label": {
+        "zh": "國中及以下",
+        "en": "Junior high or below"
+      },
+      "median": 439000,
+      "q1": 360000,
+      "q3": 555000,
+      "mean": 497000
+    },
+    {
+      "id": "senior-high-vocational",
+      "label": {
+        "zh": "高級中等（高中、高職）",
+        "en": "Senior high / vocational"
+      },
+      "median": 481000,
+      "q1": 379000,
+      "q3": 635000,
+      "mean": 560000
+    },
+    {
+      "id": "college-university",
+      "label": {
+        "zh": "專科及大學",
+        "en": "Junior college and university"
+      },
+      "median": 582000,
+      "q1": 422000,
+      "q3": 887000,
+      "mean": 737000
+    },
+    {
+      "id": "graduate",
+      "label": {
+        "zh": "研究所",
+        "en": "Graduate school"
+      },
+      "median": 1099000,
+      "q1": 662000,
+      "q3": 1595000,
+      "mean": 1359000
+    }
+  ],
+  "byIndustry": [
+    {
+      "id": "industry",
+      "label": {
+        "zh": "工業",
+        "en": "Industry (secondary sector)"
+      },
+      "parent": null,
+      "median": 561000,
+      "q1": 427000,
+      "q3": 873000,
+      "mean": 764000
+    },
+    {
+      "id": "mining",
+      "label": {
+        "zh": "礦業及土石採取業",
+        "en": "Mining and quarrying"
+      },
+      "parent": "industry",
+      "median": 682000,
+      "q1": 406000,
+      "q3": 1074000,
+      "mean": 766000
+    },
+    {
+      "id": "manufacturing",
+      "label": {
+        "zh": "製造業",
+        "en": "Manufacturing"
+      },
+      "parent": "industry",
+      "median": 570000,
+      "q1": 437000,
+      "q3": 885000,
+      "mean": 787000
+    },
+    {
+      "id": "mfg-food",
+      "label": {
+        "zh": "食品及飼品製造業",
+        "en": "Food and feed manufacturing"
+      },
+      "parent": "manufacturing",
+      "median": 496000,
+      "q1": 415000,
+      "q3": 634000,
+      "mean": 581000
+    },
+    {
+      "id": "mfg-beverage-tobacco",
+      "label": {
+        "zh": "飲料及菸草製造業",
+        "en": "Beverage and tobacco manufacturing"
+      },
+      "parent": "manufacturing",
+      "median": 654000,
+      "q1": 481000,
+      "q3": 980000,
+      "mean": 744000
+    },
+    {
+      "id": "mfg-textiles",
+      "label": {
+        "zh": "紡織業",
+        "en": "Textiles"
+      },
+      "parent": "manufacturing",
+      "median": 466000,
+      "q1": 400000,
+      "q3": 585000,
+      "mean": 530000
+    },
+    {
+      "id": "mfg-apparel",
+      "label": {
+        "zh": "成衣及服飾品製造業",
+        "en": "Apparel and accessories manufacturing"
+      },
+      "parent": "manufacturing",
+      "median": 414000,
+      "q1": 341000,
+      "q3": 558000,
+      "mean": 512000
+    },
+    {
+      "id": "mfg-leather",
+      "label": {
+        "zh": "皮革、毛皮及其製品製造業",
+        "en": "Leather, fur and related products"
+      },
+      "parent": "manufacturing",
+      "median": 479000,
+      "q1": 389000,
+      "q3": 693000,
+      "mean": 601000
+    },
+    {
+      "id": "mfg-wood-bamboo",
+      "label": {
+        "zh": "木竹製品製造業",
+        "en": "Wood and bamboo products"
+      },
+      "parent": "manufacturing",
+      "median": 450000,
+      "q1": 399000,
+      "q3": 538000,
+      "mean": 489000
+    },
+    {
+      "id": "mfg-paper",
+      "label": {
+        "zh": "紙漿、紙及紙製品製造業",
+        "en": "Pulp, paper and paper products"
+      },
+      "parent": "manufacturing",
+      "median": 454000,
+      "q1": 383000,
+      "q3": 604000,
+      "mean": 532000
+    },
+    {
+      "id": "mfg-printing",
+      "label": {
+        "zh": "印刷及資料儲存媒體複製業",
+        "en": "Printing and reproduction of recorded media"
+      },
+      "parent": "manufacturing",
+      "median": 449000,
+      "q1": 381000,
+      "q3": 564000,
+      "mean": 510000
+    },
+    {
+      "id": "mfg-petroleum-coal",
+      "label": {
+        "zh": "石油及煤製品製造業",
+        "en": "Petroleum and coal products"
+      },
+      "parent": "manufacturing",
+      "median": 1168000,
+      "q1": 881000,
+      "q3": 1339000,
+      "mean": 1126000
+    },
+    {
+      "id": "mfg-chemical-materials",
+      "label": {
+        "zh": "化學材料及肥料製造業",
+        "en": "Chemical materials and fertilizers"
+      },
+      "parent": "manufacturing",
+      "median": 868000,
+      "q1": 611000,
+      "q3": 1176000,
+      "mean": 944000
+    },
+    {
+      "id": "mfg-other-chemicals",
+      "label": {
+        "zh": "其他化學製品製造業",
+        "en": "Other chemical products"
+      },
+      "parent": "manufacturing",
+      "median": 615000,
+      "q1": 475000,
+      "q3": 872000,
+      "mean": 751000
+    },
+    {
+      "id": "mfg-pharma",
+      "label": {
+        "zh": "藥品及醫用化學製品製造業",
+        "en": "Pharmaceuticals and medicinal chemicals"
+      },
+      "parent": "manufacturing",
+      "median": 578000,
+      "q1": 462000,
+      "q3": 812000,
+      "mean": 705000
+    },
+    {
+      "id": "mfg-rubber",
+      "label": {
+        "zh": "橡膠製品製造業",
+        "en": "Rubber products"
+      },
+      "parent": "manufacturing",
+      "median": 470000,
+      "q1": 405000,
+      "q3": 591000,
+      "mean": 540000
+    },
+    {
+      "id": "mfg-plastics",
+      "label": {
+        "zh": "塑膠製品製造業",
+        "en": "Plastic products"
+      },
+      "parent": "manufacturing",
+      "median": 481000,
+      "q1": 407000,
+      "q3": 622000,
+      "mean": 575000
+    },
+    {
+      "id": "mfg-nonmetallic-minerals",
+      "label": {
+        "zh": "非金屬礦物製品製造業",
+        "en": "Non-metallic mineral products"
+      },
+      "parent": "manufacturing",
+      "median": 532000,
+      "q1": 423000,
+      "q3": 710000,
+      "mean": 615000
+    },
+    {
+      "id": "mfg-basic-metals",
+      "label": {
+        "zh": "基本金屬製造業",
+        "en": "Basic metals"
+      },
+      "parent": "manufacturing",
+      "median": 615000,
+      "q1": 481000,
+      "q3": 880000,
+      "mean": 720000
+    },
+    {
+      "id": "mfg-fabricated-metals",
+      "label": {
+        "zh": "金屬製品製造業",
+        "en": "Fabricated metal products"
+      },
+      "parent": "manufacturing",
+      "median": 452000,
+      "q1": 386000,
+      "q3": 560000,
+      "mean": 509000
+    },
+    {
+      "id": "mfg-electronic-components",
+      "label": {
+        "zh": "電子零組件製造業",
+        "en": "Electronic components"
+      },
+      "parent": "manufacturing",
+      "median": 876000,
+      "q1": 638000,
+      "q3": 1403000,
+      "mean": 1228000
+    },
+    {
+      "id": "mfg-computers-electronics-optical",
+      "label": {
+        "zh": "電腦、電子產品及光學製品製造業",
+        "en": "Computers, electronics and optical products"
+      },
+      "parent": "manufacturing",
+      "median": 899000,
+      "q1": 584000,
+      "q3": 1408000,
+      "mean": 1106000
+    },
+    {
+      "id": "mfg-electrical-equipment",
+      "label": {
+        "zh": "電力設備及配備製造業",
+        "en": "Electrical equipment"
+      },
+      "parent": "manufacturing",
+      "median": 518000,
+      "q1": 403000,
+      "q3": 788000,
+      "mean": 674000
+    },
+    {
+      "id": "mfg-machinery",
+      "label": {
+        "zh": "機械設備製造業",
+        "en": "Machinery and equipment"
+      },
+      "parent": "manufacturing",
+      "median": 485000,
+      "q1": 394000,
+      "q3": 663000,
+      "mean": 586000
+    },
+    {
+      "id": "mfg-motor-vehicles",
+      "label": {
+        "zh": "汽車及其零件製造業",
+        "en": "Motor vehicles and parts"
+      },
+      "parent": "manufacturing",
+      "median": 517000,
+      "q1": 446000,
+      "q3": 702000,
+      "mean": 624000
+    },
+    {
+      "id": "mfg-other-transport",
+      "label": {
+        "zh": "其他運輸工具及其零件製造業",
+        "en": "Other transport equipment and parts"
+      },
+      "parent": "manufacturing",
+      "median": 542000,
+      "q1": 449000,
+      "q3": 753000,
+      "mean": 645000
+    },
+    {
+      "id": "mfg-furniture",
+      "label": {
+        "zh": "家具製造業",
+        "en": "Furniture"
+      },
+      "parent": "manufacturing",
+      "median": 410000,
+      "q1": 354000,
+      "q3": 477000,
+      "mean": 441000
+    },
+    {
+      "id": "mfg-other",
+      "label": {
+        "zh": "其他製造業",
+        "en": "Other manufacturing"
+      },
+      "parent": "manufacturing",
+      "median": 492000,
+      "q1": 420000,
+      "q3": 640000,
+      "mean": 587000
+    },
+    {
+      "id": "mfg-repair-installation",
+      "label": {
+        "zh": "產業用機械設備維修及安裝業",
+        "en": "Industrial machinery repair and installation"
+      },
+      "parent": "manufacturing",
+      "median": 636000,
+      "q1": 464000,
+      "q3": 1180000,
+      "mean": 880000
+    },
+    {
+      "id": "electricity-gas",
+      "label": {
+        "zh": "電力及燃氣供應業",
+        "en": "Electricity and gas supply"
+      },
+      "parent": "industry",
+      "median": 1091000,
+      "q1": 820000,
+      "q3": 1398000,
+      "mean": 1161000
+    },
+    {
+      "id": "water-remediation",
+      "label": {
+        "zh": "用水供應及污染整治業",
+        "en": "Water supply and remediation"
+      },
+      "parent": "industry",
+      "median": 505000,
+      "q1": 366000,
+      "q3": 678000,
+      "mean": 576000
+    },
+    {
+      "id": "construction",
+      "label": {
+        "zh": "營建工程業",
+        "en": "Construction"
+      },
+      "parent": "industry",
+      "median": 497000,
+      "q1": 363000,
+      "q3": 747000,
+      "mean": 614000
+    },
+    {
+      "id": "services",
+      "label": {
+        "zh": "服務業",
+        "en": "Services (tertiary sector)"
+      },
+      "parent": null,
+      "median": 534000,
+      "q1": 390000,
+      "q3": 822000,
+      "mean": 710000
+    },
+    {
+      "id": "wholesale-retail",
+      "label": {
+        "zh": "批發及零售業",
+        "en": "Wholesale and retail trade"
+      },
+      "parent": "services",
+      "median": 506000,
+      "q1": 393000,
+      "q3": 719000,
+      "mean": 646000
+    },
+    {
+      "id": "wholesale",
+      "label": {
+        "zh": "批發業",
+        "en": "Wholesale trade"
+      },
+      "parent": "wholesale-retail",
+      "median": 523000,
+      "q1": 402000,
+      "q3": 770000,
+      "mean": 691000
+    },
+    {
+      "id": "retail",
+      "label": {
+        "zh": "零售業",
+        "en": "Retail trade"
+      },
+      "parent": "wholesale-retail",
+      "median": 485000,
+      "q1": 382000,
+      "q3": 660000,
+      "mean": 575000
+    },
+    {
+      "id": "transport-storage",
+      "label": {
+        "zh": "運輸及倉儲業",
+        "en": "Transportation and storage"
+      },
+      "parent": "services",
+      "median": 682000,
+      "q1": 472000,
+      "q3": 966000,
+      "mean": 782000
+    },
+    {
+      "id": "accommodation-food",
+      "label": {
+        "zh": "住宿及餐飲業",
+        "en": "Accommodation and food service"
+      },
+      "parent": "services",
+      "median": 415000,
+      "q1": 330000,
+      "q3": 554000,
+      "mean": 463000
+    },
+    {
+      "id": "publishing-media-ict",
+      "label": {
+        "zh": "出版影音及資通訊業",
+        "en": "Publishing, audiovisual and ICT"
+      },
+      "parent": "services",
+      "median": 807000,
+      "q1": 573000,
+      "q3": 1256000,
+      "mean": 1006000
+    },
+    {
+      "id": "finance-insurance",
+      "label": {
+        "zh": "金融及保險業",
+        "en": "Finance and insurance"
+      },
+      "parent": "services",
+      "median": 1106000,
+      "q1": 720000,
+      "q3": 1558000,
+      "mean": 1288000
+    },
+    {
+      "id": "real-estate",
+      "label": {
+        "zh": "不動產業",
+        "en": "Real estate"
+      },
+      "parent": "services",
+      "median": 537000,
+      "q1": 387000,
+      "q3": 804000,
+      "mean": 685000
+    },
+    {
+      "id": "professional-scientific-technical",
+      "label": {
+        "zh": "專業科學及技術服務業",
+        "en": "Professional, scientific and technical services"
+      },
+      "parent": "services",
+      "median": 654000,
+      "q1": 440000,
+      "q3": 995000,
+      "mean": 822000
+    },
+    {
+      "id": "support-services",
+      "label": {
+        "zh": "支援服務業",
+        "en": "Support services"
+      },
+      "parent": "services",
+      "median": 455000,
+      "q1": 359000,
+      "q3": 536000,
+      "mean": 488000
+    },
+    {
+      "id": "education-excl-schools",
+      "label": {
+        "zh": "教育業(不含小學以上各級公私立學校等)",
+        "en": "Education (excluding schools above primary level)"
+      },
+      "parent": "services",
+      "median": 382000,
+      "q1": 330000,
+      "q3": 479000,
+      "mean": 409000
+    },
+    {
+      "id": "health-social-work",
+      "label": {
+        "zh": "醫療保健及社會工作服務業",
+        "en": "Health care and social work"
+      },
+      "parent": "services",
+      "median": 633000,
+      "q1": 460000,
+      "q3": 963000,
+      "mean": 827000
+    },
+    {
+      "id": "arts-entertainment-recreation",
+      "label": {
+        "zh": "藝術娛樂及休閒服務業",
+        "en": "Arts, entertainment and recreation"
+      },
+      "parent": "services",
+      "median": 411000,
+      "q1": 330000,
+      "q3": 601000,
+      "mean": 513000
+    },
+    {
+      "id": "other-services",
+      "label": {
+        "zh": "其他服務業",
+        "en": "Other services"
+      },
+      "parent": "services",
+      "median": 381000,
+      "q1": 330000,
+      "q3": 536000,
+      "mean": 482000
+    }
+  ],
+  "byFirmSize": [
+    {
+      "id": "1-4",
+      "label": {
+        "zh": "4人以下",
+        "en": "Under 5 employees"
+      },
+      "median": 395000,
+      "q1": 341000,
+      "q3": 511000,
+      "mean": 464000
+    },
+    {
+      "id": "5-99",
+      "label": {
+        "zh": "5-99人",
+        "en": "5-99 employees"
+      },
+      "median": 478000,
+      "q1": 382000,
+      "q3": 642000,
+      "mean": 587000
+    },
+    {
+      "id": "100-299",
+      "label": {
+        "zh": "100-299人",
+        "en": "100-299 employees"
+      },
+      "median": 591000,
+      "q1": null,
+      "q3": null,
+      "mean": null
+    },
+    {
+      "id": "300-499",
+      "label": {
+        "zh": "300-499人",
+        "en": "300-499 employees"
+      },
+      "median": 636000,
+      "q1": 485000,
+      "q3": 934000,
+      "mean": 807000
+    },
+    {
+      "id": "500plus",
+      "label": {
+        "zh": "500人以上",
+        "en": "500 or more employees"
+      },
+      "median": 802000,
+      "q1": 543000,
+      "q3": 1247000,
+      "mean": 1021000
+    }
+  ],
+  "history": {
+    "_note": "全體受僱員工（含外籍與部分工時）103–113 年（2014–2024）十等分位與四等分位分界點、平均數；單位元；來源同表 1、表 2。median 與 D5 相同。",
+    "rocYears": [103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113],
+    "years": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    "D1": [
+      248000, 251000, 253000, 261000, 276000, 287000, 293000, 296000, 304000,
+      316000, 330000
+    ],
+    "D2": [
+      290000, 294000, 297000, 306000, 321000, 333000, 341000, 342000, 352000,
+      368000, 381000
+    ],
+    "D3": [
+      338000, 340000, 346000, 353000, 369000, 381000, 388000, 396000, 403000,
+      413000, 432000
+    ],
+    "D4": [
+      396000, 398000, 402000, 412000, 427000, 436000, 442000, 447000, 454000,
+      465000, 487000
+    ],
+    "D5": [
+      452000, 460000, 462000, 472000, 487000, 494000, 498000, 508000, 518000,
+      525000, 546000
+    ],
+    "D6": [
+      520000, 530000, 530000, 545000, 557000, 567000, 571000, 583000, 594000,
+      601000, 628000
+    ],
+    "D7": [
+      612000, 626000, 625000, 640000, 658000, 667000, 674000, 694000, 713000,
+      720000, 753000
+    ],
+    "D8": [
+      756000, 777000, 783000, 805000, 826000, 839000, 848000, 879000, 906000,
+      917000, 959000
+    ],
+    "D9": [
+      1046000, 1084000, 1089000, 1123000, 1158000, 1183000, 1195000, 1235000,
+      1281000, 1279000, 1336000
+    ],
+    "Q1": [
+      311000, 314000, 319000, 328000, 341000, 354000, 360000, 367000, 375000,
+      388000, 406000
+    ],
+    "Q3": [
+      673000, 690000, 694000, 710000, 731000, 743000, 750000, 775000, 796000,
+      805000, 842000
+    ],
+    "mean": [
+      573000, 587000, 591000, 608000, 630000, 643000, 651000, 674000, 697000,
+      701000, 732000
+    ],
+    "median": [
+      452000, 460000, 462000, 472000, 487000, 494000, 498000, 508000, 518000,
+      525000, 546000
+    ]
+  }
+}

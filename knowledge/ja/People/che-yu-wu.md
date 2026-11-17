@@ -24,9 +24,9 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-06-12T16:38:55Z'
 ---
 
@@ -239,8 +239,6 @@ NFTは発行メディアの一つであり、アイデンティティの定義�
 二十年後、Spotifyに彼の名前が現れた。六曲のピアノ曲：Blue Horizon、Stars、StarTrack、The Other Shore of Dreams、The Bull and the Sudden Rain、Summer Migration[^34]。
 
 彼はピアノを「学び直した」のではない。それらはずっと体の中にあった。ただ二十年の埃に覆われていただけだ。彼が再び鍵盤に手を置いたとき、指が覚えていたのはテクニックではなく、六歳で音符に触れ始めた子供だった。
-
-**コードは時代遅れになる。ピアノはならない。**
 
 2025年6月、華山文化創造園区の没入空間で、《演算詩篇：夢境與孤寂の邊界》が上演された。彼はピアノの前に座り、コードが彼の背後で花を咲かせた[^36]。
 

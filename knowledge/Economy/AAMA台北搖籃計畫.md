@@ -16,6 +16,8 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.aamataipei.com.tw/archives/44255'
 relatedDiary:
   - 2026-07-15-121155-manual
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** AAMA 台北搖籃計畫是台灣少見的一種存在：一個不投資、不佔股、也不收學費的創業導師制計畫。2012 年由《數位時代》發行人詹宏志和退休會計顧問顏漏有發起，讓資深企業家用兩年時間，一對一陪伴一位成長期的創業家。它每年只收二十來位，十三年只走到第十五期，卻累積出 Appier、社企流、Portaly 這些名字。它最反直覺的地方在於一個選擇：一群本來可以退休享福的人，選了最慢、最沒有規模效益的方式，把「怎麼把公司做大」這種很難言傳的手藝，親手交給下一代，然後不求回報。
