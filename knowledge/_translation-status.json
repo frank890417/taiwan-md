@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T05:29:39+08:00",
-    "zhCommitHead": "4aad27b58",
+    "lastUpdated": "2026-11-18T05:45:21+08:00",
+    "zhCommitHead": "7745fef0d",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1186,
-        "fresh": 646,
-        "stale": 58,
+        "fresh": 647,
+        "stale": 57,
         "metadata_stale": 458,
         "missing": 24,
         "orphan": 0
@@ -2856,11 +2856,11 @@
           "sourceContentHash": "sha256:f83026c30713b729",
           "sourceBodyHash": "sha256:15454291ed0f5b85",
           "translatedAt": "2026-11-17T20:09:18.190981+00:00",
-          "translationLastCommit": "cab126a8",
-          "translationLastModified": "2026-10-03T04:44:17+08:00",
+          "translationLastCommit": "01156aec",
+          "translationLastModified": "2026-11-18T05:29:39+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 18173,
+          "bytes": 18175,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -54446,11 +54446,11 @@
           "sourceContentHash": "sha256:0adbf2d6cca3c606",
           "sourceBodyHash": "sha256:e93ea8843d47b9d9",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01156aec",
+          "translationLastModified": "2026-11-18T05:29:39+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17030,
+          "bytes": 17032,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -56130,18 +56130,18 @@
         "pt": {
           "path": "pt/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
           "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:879eb268c7fce9b0",
-          "sourceBodyHash": "sha256:a5c8010bb09051a0",
-          "translatedAt": "2026-08-09T00:41:18.073251+00:00",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:592d319a9839fc8f",
+          "sourceBodyHash": "sha256:dc4852cc6c6703f8",
+          "translatedAt": "2026-11-17T21:30:00.342128+00:00",
           "translationLastCommit": "2ab76d37",
           "translationLastModified": "2026-10-10T23:42:20+08:00",
           "inferred": false,
-          "footnoteDefs": 42,
-          "bytes": 60748,
+          "footnoteDefs": 43,
+          "bytes": 75541,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (43→42)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
@@ -77706,8 +77706,8 @@
           "sourceContentHash": "sha256:53dce2454f2bc650",
           "sourceBodyHash": "sha256:a975eff83abc0a3e",
           "translatedAt": "2026-11-17T19:57:41.369091+00:00",
-          "translationLastCommit": "6d6f4f30",
-          "translationLastModified": "2026-10-08T01:12:07+08:00",
+          "translationLastCommit": "01156aec",
+          "translationLastModified": "2026-11-18T05:29:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 19853,
