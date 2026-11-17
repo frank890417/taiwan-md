@@ -11,8 +11,8 @@
 行為：
   - frontmatter 無 curation 欄位 → 在 closing --- 前插入
   - 已有 curation → 更新值
-  - --set incubating 時，featured: true 一併改 false（incubating 不進精選，互斥由
-    article-health curation-consistency check 看守）
+  - --set incubating 時，預設把 featured: true 一併改 false（新進站投稿不進精選，MAINTAINER §1b）；
+    加 --keep-featured 則保留精選（2026-11-17 哲宇拍板：進化中與精選可以並存，舊精選補標用這個）
   - --reason unverified|thin（只配 --set incubating）：寫 `curationReason`，文章頁與卡片依它
     選說明條文案（待查證／待擴寫，2026-11-04 全站普查 §五.5）。插在 curation 那行正下方；
     已有就更新。沒給 --reason 時不動既有的 curationReason（舊 342 篇缺欄位，顯示預設「待查證」）
@@ -32,7 +32,7 @@ VALID = {'verified', 'incubating'}
 REASONS = {'unverified', 'thin'}
 
 
-def process(path: Path, value: str, apply: bool, reason: str | None = None) -> str:
+def process(path: Path, value: str, apply: bool, reason: str | None = None, keep_featured: bool = False) -> str:
     text = path.read_text(encoding='utf-8')
     if not text.startswith('---'):
         return 'NO_FRONTMATTER'
@@ -65,7 +65,7 @@ def process(path: Path, value: str, apply: bool, reason: str | None = None) -> s
         fm = re.sub(r"^curationReason:.*\n", '', fm, flags=re.M)
         actions.append('remove curationReason')
 
-    if value == 'incubating' and re.search(r"^featured:\s*true\s*$", fm, flags=re.M):
+    if value == 'incubating' and not keep_featured and re.search(r"^featured:\s*true\s*$", fm, flags=re.M):
         fm = re.sub(r"^featured:\s*true\s*$", 'featured: false', fm, flags=re.M)
         actions.append('featured true → false')
 
@@ -85,6 +85,8 @@ def main():
     ap.add_argument('paths', nargs='*', help='直接給檔案路徑')
     ap.add_argument('--apply', action='store_true', help='實際寫入（缺省 dry-run）')
     ap.add_argument('--limit', type=int, help='只處理前 N 檔（dry-run 抽檢用）')
+    ap.add_argument('--keep-featured', action='store_true',
+                    help='--set incubating 時不動 featured（精選文章補標用）')
     args = ap.parse_args()
     if args.reason and args.value != 'incubating':
         ap.error('--reason 只能配 --set incubating')
@@ -109,7 +111,7 @@ def main():
             print(f'❌ MISSING  {t}')
             missing += 1
             continue
-        result = process(p, args.value, args.apply, args.reason)
+        result = process(p, args.value, args.apply, args.reason, args.keep_featured)
         if result in ('NO_FRONTMATTER', 'BROKEN_FRONTMATTER'):
             print(f'❌ {result}  {t}')
             missing += 1

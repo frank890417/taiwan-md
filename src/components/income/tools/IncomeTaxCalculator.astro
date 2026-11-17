@@ -1,0 +1,435 @@
+---
+/**
+ * IncomeTaxCalculator — 所得稅試算（綜合所得稅，114 與 115 年度）。
+ *
+ * 計算：src/utils/income/tax.ts；畫面字串與稅額階梯圖：src/utils/income/taxView.ts
+ * （伺服端渲染預設案例與瀏覽器端重算共用同一組函式）。
+ * 年度參數：src/data/income/tax-{114,115}.json，兩個年度都放進 data-params，年度切換在瀏覽器端換參數。
+ * 文案：src/i18n/income/tool-tax.ts。外框、標題、免責與來源由外層 ToolFrame 給。
+ */
+import '../../../styles/income-tool.css';
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, incomeLocale } from '../../../i18n/income';
+import {
+  runTax,
+  TAX_DEFAULT_STATE,
+  TAX_MSG_KEYS,
+} from '../../../utils/income/taxView';
+import type { TaxParams } from '../../../utils/income/tax';
+import tax114 from '../../../data/income/tax-114.json';
+import tax115 from '../../../data/income/tax-115.json';
+
+export interface Props {
+  lang: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+}
+const { lang, variant = 'inline' } = Astro.props;
+const t = useIncomeT(lang);
+const loc = incomeLocale(lang);
+const K = (k: string) => `income.tax.${k}`;
+
+const ALL = { '114': tax114, '115': tax115 } as unknown as Record<
+  string,
+  TaxParams
+>;
+const M: Record<string, string> = {};
+for (const k of TAX_MSG_KEYS) M[k] = t(K(k));
+
+const S = TAX_DEFAULT_STATE;
+const view = runTax(S, ALL, M, loc);
+const o = view.out;
+const show = view.show;
+
+const counts = (name: string, max = 20) => ({
+  type: 'number' as const,
+  inputmode: 'numeric' as const,
+  min: 0,
+  max,
+  step: 1,
+  name,
+  value: S[name] as number,
+});
+const money = (name: string) => ({
+  type: 'number' as const,
+  inputmode: 'numeric' as const,
+  min: 0,
+  step: 1000,
+  name,
+  value: S[name] as number,
+});
+
+const otherSelf = [
+  ['interest', 'field.interest'],
+  ['dividend', 'field.dividend'],
+  ['other', 'field.other'],
+];
+const otherSpouse = [
+  ['spouseInterest', 'field.spouseInterest'],
+  ['spouseDividend', 'field.spouseDividend'],
+  ['spouseOther', 'field.spouseOther'],
+];
+const kvRows: [string, string, boolean?][] = [
+  ['salaryDed', 'kv.salaryDed'],
+  ['gross', 'kv.gross'],
+  ['exemptions', 'kv.exemptions'],
+  ['generalDed', 'kv.general'],
+  ['special', 'kv.special'],
+  ['basicLiving', 'kv.basic'],
+  ['net', 'kv.net'],
+  ['taxPayable', 'kv.taxPayable'],
+];
+---
+
+<div
+  class="inc-tool inc-tax is-split"
+  data-inc-tool="tax"
+  data-loc={loc}
+  data-prefix={variant === 'inline' ? 'tax.' : ''}
+  data-params={JSON.stringify(ALL)}
+  data-i18n={JSON.stringify(M)}
+>
+  <form class="inc-form" novalidate>
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t(K('legend.year'))}</legend>
+      <div class="inc-seg">
+        <label>
+          <input type="radio" name="year" value="115" checked />
+          <span>{t(K('year.115'))}</span>
+        </label>
+        <label>
+          <input type="radio" name="year" value="114" />
+          <span>{t(K('year.114'))}</span>
+        </label>
+      </div>
+    </fieldset>
+
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t(K('legend.household'))}</legend>
+      <div class="inc-seg">
+        <label>
+          <input type="radio" name="married" value="0" checked />
+          <span>{t(K('married.0'))}</span>
+        </label>
+        <label>
+          <input type="radio" name="married" value="1" />
+          <span>{t(K('married.1'))}</span>
+        </label>
+      </div>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t(K('field.salary'))}</span>
+          <input {...money('salary')} />
+          <span class="inc-hint">{t(K('field.salary.hint'))}</span>
+        </label>
+        <label class="inc-field" data-show="spouse" hidden={!show.spouse}>
+          <span>{t(K('field.spouseSalary'))}</span>
+          <input {...money('spouseSalary')} />
+        </label>
+      </div>
+    </fieldset>
+
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t(K('legend.family'))}</legend>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t(K('field.general'))}</span>
+          <input {...counts('general')} />
+          <span class="inc-hint">{t(K('field.general.hint'))}</span>
+        </label>
+        <label class="inc-field">
+          <span>{t(K('field.elderly70'))}</span>
+          <input {...counts('elderly70')} />
+        </label>
+      </div>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t(K('field.minorChildren'))}</span>
+          <input {...counts('minorChildren')} />
+          <span class="inc-hint">{t(K('field.minorChildren.hint'))}</span>
+        </label>
+        <label class="inc-field">
+          <span>{t(K('field.preschool'))}</span>
+          <input {...counts('preschool')} />
+          <span class="inc-hint">{t(K('field.preschool.hint'))}</span>
+        </label>
+      </div>
+      <p class="inc-hint inc-clamp" data-show="clamp" hidden={!show.clamp}>
+        <span data-out="clamp">{o.clamp}</span>
+      </p>
+    </fieldset>
+
+    <details class="inc-more">
+      <summary>{t(K('more'))}</summary>
+      <div class="inc-stack-form">
+        <div class="inc-row">
+          {
+            otherSelf.map(([name, key]) => (
+              <label class="inc-field">
+                <span>{t(K(key))}</span>
+                <input {...money(name)} />
+              </label>
+            ))
+          }
+        </div>
+        <div class="inc-row" data-show="spouse" hidden={!show.spouse}>
+          {
+            otherSpouse.map(([name, key]) => (
+              <label class="inc-field">
+                <span>{t(K(key))}</span>
+                <input {...money(name)} />
+              </label>
+            ))
+          }
+        </div>
+        <div class="inc-row">
+          <label class="inc-check">
+            <input type="checkbox" name="selfElderly70" />
+            <span>{t(K('field.selfElderly70'))}</span>
+          </label>
+          <label class="inc-check" data-show="spouse" hidden={!show.spouse}>
+            <input type="checkbox" name="spouseElderly70" />
+            <span>{t(K('field.spouseElderly70'))}</span>
+          </label>
+        </div>
+        <div class="inc-row">
+          <label class="inc-field">
+            <span>{t(K('field.college'))}</span>
+            <input {...counts('college')} />
+            <span class="inc-hint">{t(K('field.college.hint'))}</span>
+          </label>
+          <label class="inc-field">
+            <span>{t(K('field.disabled'))}</span>
+            <input {...counts('disabled')} />
+          </label>
+          <label class="inc-field">
+            <span>{t(K('field.longTermCare'))}</span>
+            <input {...counts('longTermCare')} />
+          </label>
+        </div>
+        <fieldset class="inc-fieldset">
+          <legend class="inc-legend">{t(K('legend.deduction'))}</legend>
+          <div class="inc-seg">
+            <label>
+              <input type="radio" name="deduction" value="standard" checked />
+              <span>{t(K('deduction.standard'))}</span>
+            </label>
+            <label>
+              <input type="radio" name="deduction" value="itemized" />
+              <span>{t(K('deduction.itemized'))}</span>
+            </label>
+          </div>
+          <label class="inc-field" data-show="itemized" hidden={!show.itemized}>
+            <span>{t(K('field.itemized'))}</span>
+            <input {...money('itemized')} />
+          </label>
+        </fieldset>
+        <div class="inc-row">
+          <label class="inc-field">
+            <span>{t(K('field.rent'))}</span>
+            <input {...money('rent')} />
+            <span class="inc-hint">{t(K('field.rent.hint'))}</span>
+          </label>
+          <label class="inc-field">
+            <span>{t(K('field.withheld'))}</span>
+            <input {...money('withheld')} />
+            <span class="inc-hint">{t(K('field.withheld.hint'))}</span>
+          </label>
+        </div>
+      </div>
+    </details>
+  </form>
+
+  <div class="inc-result" aria-live="polite">
+    <div class="inc-headline">
+      <span class="inc-headline-k">{t(K('result.total'))}</span>
+      <span class="inc-headline-v" data-out="totalDue">{o.totalDue}</span>
+      <span class="inc-headline-sub">
+        {t(K('result.eff'))}
+        <strong data-out="effRate">{o.effRate}</strong>
+        <span aria-hidden="true"> · </span>
+        {t(K('result.top'))}
+        <strong data-out="topRate">{o.topRate}</strong>
+      </span>
+    </div>
+    <p class="inc-note" data-out="yearNote">{o.yearNote}</p>
+
+    <p class="inc-note inc-best" data-show="best" hidden={!show.best}>
+      <strong data-out="best">{o.best}</strong>
+    </p>
+    <p class="inc-note inc-best" data-show="divBest" hidden={!show.divBest}>
+      <strong data-out="divBest">{o.divBest}</strong>
+    </p>
+
+    <dl class="inc-kv">
+      {
+        kvRows.map(([key, label]) => (
+          <div>
+            <dt>{t(K(label))}</dt>
+            <dd data-out={key}>{o[key]}</dd>
+          </div>
+        ))
+      }
+      <div data-show="div" hidden={!show.div}>
+        <dt data-out="divLabel">{o.divLabel}</dt>
+        <dd data-out="divValue">{o.divValue}</dd>
+      </div>
+      <div class="is-total">
+        <dt>{t(K('kv.total'))}</dt>
+        <dd data-out="totalDue">{o.totalDue}</dd>
+      </div>
+      <div>
+        <dt>{t(K('kv.withheld'))}</dt>
+        <dd data-out="withheld">{o.withheld}</dd>
+      </div>
+      <div class="is-total">
+        <dt data-out="balanceLabel">{o.balanceLabel}</dt>
+        <dd data-out="balance">{o.balance}</dd>
+      </div>
+    </dl>
+    <p class="inc-note">{t(K('kv.note'))}</p>
+
+    <p class="inc-warn" data-show="wBasic" hidden={!show.wBasic}>
+      <span data-out="wBasic">{o.wBasic}</span>
+    </p>
+    <p class="inc-warn" data-show="wRate20" hidden={!show.wRate20}>
+      <span data-out="wRate20">{o.wRate20}</span>
+    </p>
+    <p class="inc-warn" data-show="wDiv28" hidden={!show.wDiv28}>
+      <span data-out="wDiv28">{o.wDiv28}</span>
+    </p>
+    <p class="inc-warn" data-show="wAmt" hidden={!show.wAmt}>
+      <span data-out="wAmt">{o.wAmt}</span>
+    </p>
+
+    <div class="inc-chart">
+      <p class="inc-chart-title">{t(K('chart.title'))}</p>
+      <div data-chart set:html={view.svg} />
+      <p class="inc-note">{t(K('chart.note'))}</p>
+      <p class="inc-note" data-show="sepNote" hidden={!show.sepNote}>
+        {t(K('sepNote'))}
+      </p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .inc-tool.inc-tax .inc-stack-form {
+    display: grid;
+    gap: 0.9rem;
+  }
+  .inc-tool.inc-tax .inc-chart {
+    display: grid;
+    gap: 0.4rem;
+  }
+  .inc-tool.inc-tax .inc-chart-title {
+    margin: 0;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--color-ink-soft);
+  }
+  .inc-tool.inc-tax .inc-best strong {
+    color: var(--color-ink);
+  }
+  .inc-tool.inc-tax .inc-headline-sub strong {
+    color: var(--color-ink);
+    font-variant-numeric: tabular-nums;
+  }
+  .inc-tool.inc-tax .inc-kv dt {
+    min-width: 0;
+  }
+  .inc-tool.inc-tax .inc-kv dd {
+    flex: none;
+    white-space: nowrap;
+  }
+  .inc-tool.inc-tax :global(.inc-step) {
+    opacity: 0.3;
+    stroke: none;
+  }
+  .inc-tool.inc-tax :global(.inc-step.is-on) {
+    opacity: 1;
+  }
+  .inc-tool.inc-tax :global(.inc-step.is-cur) {
+    stroke: var(--color-ink);
+    stroke-width: 3;
+  }
+  .inc-tool.inc-tax :global(.inc-step-0) {
+    fill: var(--inc-cat-0);
+  }
+  .inc-tool.inc-tax :global(.inc-step-1) {
+    fill: var(--inc-cat-2);
+  }
+  .inc-tool.inc-tax :global(.inc-step-2) {
+    fill: var(--inc-cat-3);
+  }
+  .inc-tool.inc-tax :global(.inc-step-3) {
+    fill: var(--inc-cat-1);
+  }
+  .inc-tool.inc-tax :global(.inc-step-4) {
+    fill: var(--inc-cat-4);
+  }
+  .inc-tool.inc-tax :global(.inc-step-rate) {
+    font-size: 17px;
+    font-weight: 800;
+    fill: var(--color-surface);
+    paint-order: stroke;
+    stroke: var(--color-ink);
+    stroke-opacity: 0.5;
+    stroke-width: 2.5px;
+    stroke-linejoin: round;
+  }
+  .inc-tool.inc-tax :global(.inc-step-rate.is-off) {
+    fill: var(--color-ink);
+    stroke: none;
+  }
+  .inc-tool.inc-tax :global(.inc-step-tax) {
+    font-size: 11px;
+    font-weight: 700;
+    fill: var(--color-surface);
+    paint-order: stroke;
+    stroke: var(--color-ink);
+    stroke-opacity: 0.5;
+    stroke-width: 2.5px;
+    stroke-linejoin: round;
+  }
+  .inc-tool.inc-tax :global(.inc-step-edge) {
+    font-size: 11px;
+    fill: var(--color-ink);
+  }
+  .inc-tool.inc-tax :global(.inc-step-pin) {
+    fill: var(--inc-warm);
+  }
+  .inc-tool.inc-tax :global(.inc-step-mark) {
+    font-size: 12px;
+    font-weight: 800;
+    fill: var(--inc-warm);
+  }
+</style>
+
+<script>
+  import {
+    bindTool,
+    setOut,
+    setShow,
+    messages,
+    params,
+  } from '../../../utils/income/toolDom';
+  import { runTax } from '../../../utils/income/taxView';
+  import type { TaxParams } from '../../../utils/income/tax';
+
+  function init(root: HTMLElement) {
+    const P = params<Record<string, TaxParams>>(root);
+    const M = messages(root);
+    const loc = root.dataset.loc ?? 'en';
+    const chart = root.querySelector<HTMLElement>('[data-chart]');
+    root
+      .querySelector('form')
+      ?.addEventListener('submit', (e) => e.preventDefault());
+    bindTool(root, (s) => {
+      const v = runTax(s, P, M, loc);
+      for (const [k, text] of Object.entries(v.out)) setOut(root, k, text);
+      for (const [k, on] of Object.entries(v.show)) setShow(root, k, on);
+      if (chart) chart.innerHTML = v.svg;
+    });
+  }
+  document.querySelectorAll<HTMLElement>('[data-inc-tool="tax"]').forEach(init);
+</script>

@@ -1,0 +1,2309 @@
+{
+  "task": "perspectives",
+  "accessed": "2026-11-10",
+  "caveats": [
+    "每個 quote 都已由腳本比對「逐字出現在本機存檔來源」（忽略空白與全半形引號差異）；PDF 版面交錯處用 parts 分段比對；央行金融穩定報告含數字／AI 字樣的引文因 PDF text layer 漏字，改以頁面圖檔肉眼核對（verifiedBy=page image）。",
+    "quoteType=媒體轉述／二手轉述：引文是記者轉述或第三方轉述，不是當事人直接引語，上站時應寫成「據報導」，不可當成逐字講話。",
+    "《經濟學人》原文（付費牆）、Moody’s／S&P 評等原報告、台積電法說會逐字稿與新聞稿（investor.tsmc.com／pr.tsmc.com 對自動下載回 403 或 Cloudflare 檢查）、NewsNation 訪談逐字稿、總統府與經濟部部分新聞稿原文均未取得；相關說法皆以標明來源的轉述收錄。",
+    "主計總處 114 年（2025）薪資為初步值（Ⓟ）；114 年全年總薪資中位數預定 2026-11-25 發布，尚未出，故中位數用 113 年（2024）版。",
+    "本檔只並列立場，不判斷誰對；央行同一份文件既否認荷蘭病、也承認傳產薪資漲幅低於電子業，兩個讀法並存。"
+  ],
+  "scope": "6 個公共爭論的並列立場；只收找得到原文逐字句的具名說法，找不到的標 null＋reason。不替任何一方下結論。",
+  "quoteKinds": {
+    "primary": "官方機關／公司／團體自己發布的原文",
+    "secondary": "媒體報導；quoteType 寫「媒體轉述」表示引文是記者轉述而非當事人直接引語"
+  },
+  "debates": [
+    {
+      "id": "guardian-vs-dutch-disease",
+      "question": "半導體是「護國神山」還是讓台灣得了「荷蘭病」（匯率、薪資、資源排擠）？",
+      "positions": [
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2022-11-06",
+          "venue": "中央銀行新聞參考資料《台灣經濟發展並無荷蘭病現象》",
+          "quote": "台灣為小型開放經濟體，無論是電子資通訊或傳產製造業出口，長期均受全球需求變化影響，並非受新台幣匯率走勢所影響。",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+            "title": "台灣經濟發展並無荷蘭病現象（中央銀行新聞參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2022-11-06",
+            "accessed": "2026-11-10",
+            "quote": "台灣為小型開放經濟體，無論是電子資通訊或傳產製造業出口，長期均受全球需求變化影響，並非受新台幣匯率走勢所影響。",
+            "kind": "primary",
+            "extraQuotes": [
+              "電子資通訊產業已具國際競爭優勢，傳產製造業亦致力高值化，持續轉型升級，兩者附加價值率均呈上升走勢，並未出現荷蘭病之症狀"
+            ]
+          },
+          "extraQuotes": [
+            "電子資通訊產業已具國際競爭優勢，傳產製造業亦致力高值化，持續轉型升級，兩者附加價值率均呈上升走勢，並未出現荷蘭病之症狀"
+          ]
+        },
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2022-11-06",
+          "venue": "同上（同一份文件中，央行自己承認的傳產薪資與就業落差）",
+          "quote": "近年台灣傳產製造業薪資漲幅不大，較電子資通訊業漲幅明顯為低，而就業呈現下滑，反映勞動需求減少，與荷蘭病工資上漲之症狀不同",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+            "title": "台灣經濟發展並無荷蘭病現象（中央銀行新聞參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2022-11-06",
+            "accessed": "2026-11-10",
+            "quote": "近年台灣傳產製造業薪資漲幅不大，較電子資通訊業漲幅明顯為低，而就業呈現下滑，反映勞動需求減少，與荷蘭病工資上漲之症狀不同",
+            "kind": "primary"
+          },
+          "note": "央行用這一點論證「與荷蘭病不同」，但同時等於官方承認傳產薪資、就業落後電子業；兩個讀法並存，不替任何一方下結論。"
+        },
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料〈四、當前台灣產業發展之探討〉（問答式，表 7「當前台灣經濟發展與荷蘭病現象並不相同」）",
+          "quote": "當前台灣面臨電子資通訊製造業表現優於傳統製造業之分化狀況，惟傳統製造業仍持續成長，並努力朝高值化方向，以及跨入 AI 等供應鏈，進行產業升級轉型，與 1960 年代之荷蘭產業發展存在顯著差異(表 7)。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "當前台灣面臨電子資通訊製造業表現優於傳統製造業之分化狀況，惟傳統製造業仍持續成長，並努力朝高值化方向，以及跨入 AI 等供應鏈，進行產業升級轉型，與 1960 年代之荷蘭產業發展存在顯著差異(表 7)。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白",
+            "extraQuotes": [
+              "當前台灣經濟表現集中於電子資通訊製造業，並非國內市場失衡，而是順應全球市場需求的專業化分工表現。"
+            ]
+          },
+          "extraQuotes": [
+            "當前台灣經濟表現集中於電子資通訊製造業，並非國內市場失衡，而是順應全球市場需求的專業化分工表現。"
+          ]
+        },
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "龔明鑫",
+          "role": "經濟部部長",
+          "date": "2025-11-20",
+          "venue": "立法院經濟委員會前媒體聯訪（針對《經濟學人》「台灣病」說法）",
+          "quote": "龔明鑫認為，半導體與 AI 產業的蓬勃發展是台灣的「機會」，而非病徵。",
+          "url": "https://uanalyze.com.tw/articles/5502839467",
+          "source": {
+            "url": "https://uanalyze.com.tw/articles/5502839467",
+            "title": "再駁「台灣病」！龔明鑫：半導體是拉動轉型火車頭 高科技紅利將擴散至百工百業",
+            "publisher": "優分析 UAnalyze",
+            "period": "2025-11-20 09:06",
+            "accessed": "2026-11-10",
+            "quote": "龔明鑫認為，半導體與 AI 產業的蓬勃發展是台灣的「機會」，而非病徵。",
+            "kind": "secondary",
+            "sourceNote": "經濟部原始新聞稿未取得；內文為記者轉述，非直接引語",
+            "extraQuotes": [
+              "他強調，高科技產業如同經濟發展的火車頭，其產生的技術外溢效應與龐大需求，正好能為機械、材料等傳統產業帶來轉型升級的動力。"
+            ]
+          },
+          "extraQuotes": [
+            "他強調，高科技產業如同經濟發展的火車頭，其產生的技術外溢效應與龐大需求，正好能為機械、材料等傳統產業帶來轉型升級的動力。"
+          ],
+          "note": "引文為記者轉述，非部長直接引語；經濟部原始新聞稿未取得。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "Dino Wei（魏思源）",
+          "role": "資訊科技業從業者（Taipei Times 投書署名「works in the information technology industry」）",
+          "date": "2025-11-24",
+          "venue": "Taipei Times 第 8 版投書〈The nation is not under the Dutch disease trap〉",
+          "quote": "The Economist’s warning is useful, but Taiwan’s case is not an example of Dutch disease.",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/24/2003847712",
+          "source": {
+            "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/24/2003847712",
+            "title": "The nation is not under the Dutch disease trap（Dino Wei 魏思源投書）",
+            "publisher": "Taipei Times",
+            "period": "2025-11-24 page 8",
+            "accessed": "2026-11-10",
+            "quote": "The Economist’s warning is useful, but Taiwan’s case is not an example of Dutch disease.",
+            "kind": "secondary",
+            "extraQuotes": [
+              "Dutch disease is driven by a boom in a pure-export industry typified by natural resources, for which Taiwan’s semiconductor and artificial intelligence industries have never fit the bill."
+            ]
+          },
+          "extraQuotes": [
+            "Dutch disease is driven by a boom in a pure-export industry typified by natural resources, for which Taiwan’s semiconductor and artificial intelligence industries have never fit the bill."
+          ],
+          "note": "同一篇投書也寫「Excessive industrial concentration is a result of overdependence on a few highly profitable sectors」，即不認為是荷蘭病、但承認集中風險。"
+        },
+        {
+          "side": "否認荷蘭病／半導體是帶動整體經濟的火車頭",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2025-11-14",
+          "venue": "央行對《經濟學人》〈The hidden risks in Taiwan’s boom〉的英文聲明（針對匯率被壓低論）",
+          "quote": "A single-product index is an inadequate measure for overall currency valuation.",
+          "url": "https://www.cbc.gov.tw/en/cp-448-187368-a7876-2.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/en/cp-448-187368-a7876-2.html",
+            "title": "Statement Regarding The Economist's Recent Piece 'The Hidden Risks in Taiwan's boom'",
+            "publisher": "Central Bank of the Republic of China (Taiwan)",
+            "period": "Date: November 14, 2025",
+            "accessed": "2026-11-10",
+            "quote": "A single-product index is an inadequate measure for overall currency valuation.",
+            "kind": "primary",
+            "extraQuotes": [
+              "Regarding the Nov. 14, 2025 article published by The Economist, claiming that based on its Big Mac Index, Taiwan's long-standing policy of keeping its currency weak has impaired Taiwan's purchasing power, pushed up housing prices, and stored up growing financial risks, the Bank offers the following clarification to avoid misinterpretations."
+            ]
+          },
+          "extraQuotes": [
+            "Regarding the Nov. 14, 2025 article published by The Economist, claiming that based on its Big Mac Index, Taiwan's long-standing policy of keeping its currency weak has impaired Taiwan's purchasing power, pushed up housing prices, and stored up growing financial risks, the Bank offers the following clarification to avoid misinterpretations."
+          ],
+          "note": "央行聲明日為 2025-11-14，並稱《經濟學人》文章為「Nov. 14, 2025」；Taipei Times 稱該刊於 11/13（週四）出刊。這是匯率論戰，不是荷蘭病本身，但《經濟學人》以匯率切入。"
+        },
+        {
+          "side": "第三方：肯定半導體優勢，同時指出成長不均",
+          "speaker": "Moody's（經中央銀行新聞稿轉述）",
+          "role": "國際信評機構",
+          "date": "2026-06-03",
+          "venue": "Moody's 2026-06-03 台灣主權信用評等報告（央行 2026 年 6 月新聞稿轉述）",
+          "quote": "Moody’s認為，台灣在先進晶片製造領域的領先優勢為台灣經濟具韌性的關鍵驅動因素，有助維持強勁成長與競爭力；惟「科技業」與「傳產製造業及服務業」間的成長不均，以及人口老化帶來挑戰。",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+            "title": "穆迪信評公司（Moody’s）維持我國國家主權評等為Aa3，展望穩定，並肯定央行貨幣政策表現",
+            "publisher": "中央銀行（轉述 Moody’s 2026-06-03 報告）",
+            "period": "發布於 2026-06（Moody’s 報告日 2026-06-03）",
+            "accessed": "2026-11-10",
+            "quote": "Moody’s認為，台灣在先進晶片製造領域的領先優勢為台灣經濟具韌性的關鍵驅動因素，有助維持強勁成長與競爭力；惟「科技業」與「傳產製造業及服務業」間的成長不均，以及人口老化帶來挑戰。",
+            "kind": "primary",
+            "sourceNote": "評級機構原報告未取得，內容為央行新聞稿的轉述"
+          },
+          "note": "評級機構原報告未取得，是央行新聞稿的轉述。"
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "童子賢",
+          "role": "和碩聯合科技董事長",
+          "date": "2025-03-07",
+          "venue": "風傳媒 11 週年社慶論壇座談問答",
+          "quote": "台灣不能只有一個產品、一個產業，因為孤注一擲於單一產業，就好像一座森林植物太過單一，容易有一榮俱榮、一枯俱枯的現象。",
+          "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+            "title": "台積電加碼美國 童子賢：不能活在一個人的武林",
+            "publisher": "中央社（記者吳家豪）",
+            "period": "2025-03-07 15:31",
+            "accessed": "2026-11-10",
+            "quote": "台灣不能只有一個產品、一個產業，因為孤注一擲於單一產業，就好像一座森林植物太過單一，容易有一榮俱榮、一枯俱枯的現象。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "他倒是擔心台灣上下對矽盾的正面與負面迷戀，會加深台灣經濟「荷蘭病」。",
+              "至於外界有一種論調，談到台積電投資美國就等於掏空台灣之說，童子賢直言那是太誇張的評論。"
+            ]
+          },
+          "extraQuotes": [
+            "他倒是擔心台灣上下對矽盾的正面與負面迷戀，會加深台灣經濟「荷蘭病」。",
+            "至於外界有一種論調，談到台積電投資美國就等於掏空台灣之說，童子賢直言那是太誇張的評論。"
+          ],
+          "note": "中央社下標為〈童子賢：台灣若迷戀矽盾 產業恐生荷蘭病會不長進〉（另一則 https://www.cna.com.tw/news/afe/202503070298.aspx，19:17，3/10 更新）。引文為記者轉述。童子賢同場也說台積電赴美「掏空」之說太誇張。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "谷月涵（Peter Kurz）",
+          "role": "聚界潔能（Alpha Ring）台灣董事長，資本市場長期外號「台灣先生」（文中描述）",
+          "date": "2026-03（演講）／2026-05-15（報導）",
+          "venue": "台北龍門扶輪社例會演講〈台灣真正挑戰–各方勢力脅迫下的經濟轉型策略〉（財訊記者劉煥彥報導，Yahoo 轉載）",
+          "quote": "過去幾年半導體大量吸納各方人才及社會資源，不僅造成其他產業找人困難，還推升物價及薪資，產業發展失衡愈趨明顯，這在很多層面都非常類似1960~1970年代，荷蘭發現外海天然氣資源而致富後的一系列社會問題，也就是「荷蘭病」。",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%99%B6%E7%89%87%E7%9B%9B%E4%B8%96%E7%9A%84%E4%BB%A3%E5%83%B9-%E8%B0%B7%E6%9C%88%E6%B6%B5%E7%A4%BA%E8%AD%A6-%E8%8D%B7%E8%98%AD%E7%97%85-%E6%88%91%E5%80%91%E8%B3%BA%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E9%8C%A2-%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%9F%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%97%8E-022000568.html",
+          "source": {
+            "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%99%B6%E7%89%87%E7%9B%9B%E4%B8%96%E7%9A%84%E4%BB%A3%E5%83%B9-%E8%B0%B7%E6%9C%88%E6%B6%B5%E7%A4%BA%E8%AD%A6-%E8%8D%B7%E8%98%AD%E7%97%85-%E6%88%91%E5%80%91%E8%B3%BA%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E9%8C%A2-%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%9F%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%97%8E-022000568.html",
+            "title": "台灣晶片盛世的代價！谷月涵示警「荷蘭病」：我們賺到全世界的錢，老百姓真的幸福嗎？",
+            "publisher": "Yahoo新聞（記者劉煥彥）",
+            "period": "2026-05-15 10:20；演講日 2026 年 3 月中",
+            "accessed": "2026-11-10",
+            "quote": "過去幾年半導體大量吸納各方人才及社會資源，不僅造成其他產業找人困難，還推升物價及薪資，產業發展失衡愈趨明顯，這在很多層面都非常類似1960~1970年代，荷蘭發現外海天然氣資源而致富後的一系列社會問題，也就是「荷蘭病」。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "谷月涵直言，台灣現在就要思考如何避免真正染上「荷蘭病」，不能放任現有問題持續惡化"
+            ]
+          },
+          "extraQuotes": [
+            "谷月涵直言，台灣現在就要思考如何避免真正染上「荷蘭病」，不能放任現有問題持續惡化"
+          ],
+          "note": "引文為記者轉述演講內容；演講確切日期僅知「2026年3月中」。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "陳國祥",
+          "role": "《新冷戰下的經濟棋局》作者（聯合新聞網書摘頁面未載其職稱）",
+          "date": "2026-11-03",
+          "venue": "商周出版《新冷戰下的經濟棋局》書摘，聯合新聞網轉載",
+          "quote": "台灣是否已罹患荷蘭病？或許尚未到病入膏肓的地步，但症狀已浮現。",
+          "url": "https://udn.com/news/story/121591/9853747",
+          "source": {
+            "url": "https://udn.com/news/story/121591/9853747",
+            "title": "半導體產業獨強…台灣真得「荷蘭病」？專家引歷史經驗憂：終將付出代價（《新冷戰下的經濟棋局》書摘，作者陳國祥）",
+            "publisher": "聯合新聞網／商周出版",
+            "period": "2026-11-03 11:21",
+            "accessed": "2026-11-10",
+            "quote": "台灣是否已罹患荷蘭病？或許尚未到病入膏肓的地步，但症狀已浮現。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "然而，風險也不可忽視。第一是產業過度集中帶來的系統性風險。"
+            ]
+          },
+          "extraQuotes": [
+            "然而，風險也不可忽視。第一是產業過度集中帶來的系統性風險。"
+          ],
+          "note": "作者職稱在頁面上沒有標示，role 不補。同一書摘另一則（2026-11-02）見 D3、D4。"
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "彭博資訊（Bloomberg）",
+          "role": "國際財經媒體（經 ETtoday 轉述 2021 年研究報告）",
+          "date": "2021-04-17（ETtoday 報導日；Bloomberg 報告原發布日未查到）",
+          "venue": "Bloomberg 研究報告（ETtoday 轉述）",
+          "quote": "彭博資訊出具最新研究報告，直指台灣與南韓對於半導體晶片製造的依賴持續加深中，反而削弱了其他產業的競爭力，已出現「荷蘭病」的初期症狀",
+          "url": "https://finance.ettoday.net/news/1962279",
+          "source": {
+            "url": "https://finance.ettoday.net/news/1962279",
+            "title": "彭博示警台韓顯露「荷蘭病」初期症狀 央行出18頁報告釋疑",
+            "publisher": "ETtoday財經雲（記者林淑慧）",
+            "period": "2021-04-17 12:58",
+            "accessed": "2026-11-10",
+            "quote": "彭博資訊出具最新研究報告，直指台灣與南韓對於半導體晶片製造的依賴持續加深中，反而削弱了其他產業的競爭力，已出現「荷蘭病」的初期症狀",
+            "kind": "secondary"
+          },
+          "note": "Bloomberg 原報告未取得，僅此一則轉述，且為 2021 年舊說；央行當時以 18 頁報告回應。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "中央銀行某位理事（議事錄未具名）",
+          "role": "央行理事會理事",
+          "date": "2021-01-28（議事錄公布）",
+          "venue": "央行 2020 年第 4 季理監事會議事錄（TechNews 報導）",
+          "quote": "有位理事則指出，當前新台幣升值的情況與當年「荷蘭病」（Dutch Disease）的背景有些相似",
+          "url": "https://finance.technews.tw/2021/01/28/beware-of-dutch-disease/",
+          "source": {
+            "url": "https://finance.technews.tw/2021/01/28/beware-of-dutch-disease/",
+            "title": "出口暢旺新台幣勁揚，央行理事示警小心「荷蘭病」",
+            "publisher": "TechNews 科技新報",
+            "period": "2021-01-28（央行 2020 Q4 理監事會議事錄）",
+            "accessed": "2026-11-10",
+            "quote": "有位理事則指出，當前新台幣升值的情況與當年「荷蘭病」（Dutch Disease）的背景有些相似",
+            "kind": "secondary"
+          },
+          "note": "議事錄未具名，不符「具名」標準，列為機構內部看法的紀錄；央行事後的正式立場為「並無荷蘭病」。",
+          "anonymous": true
+        },
+        {
+          "side": "示警荷蘭病徵兆／產業失衡",
+          "speaker": "《經濟學人》（The Economist，經 Taipei Times 社論轉述）",
+          "role": "國際英文週刊",
+          "date": "2025-11-13/14（原文遇付費牆未取得）",
+          "venue": "〈The hidden risks in Taiwan’s boom〉（Taipei Times 社論轉述）",
+          "quote": "The article claimed that Taiwan looks strong and prosperous on the surface, but suffers from the “Formosa flu,” a long-standing structural issue that has been overlooked for years: The central bank’s deliberate undervaluation of the NT dollar has impaired Taiwanese’s purchasing power, pushed up housing prices and created growing financial risks.",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/18/2003847375",
+          "source": {
+            "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/18/2003847375",
+            "title": "EDITORIAL: The ‘Formosa flu’ diagnosis",
+            "publisher": "Taipei Times（社論）",
+            "period": "2025-11-18 page 8",
+            "accessed": "2026-11-10",
+            "quote": "The article claimed that Taiwan looks strong and prosperous on the surface, but suffers from the “Formosa flu,” a long-standing structural issue that has been overlooked for years: The central bank’s deliberate undervaluation of the NT dollar has impaired Taiwanese’s purchasing power, pushed up housing prices and created growing financial risks.",
+            "kind": "secondary",
+            "sourceNote": "《經濟學人》2025-11-13/14 原文遇付費牆未取得，僅有 Taipei Times 與央行的轉述"
+          },
+          "note": "這是 Taipei Times 對《經濟學人》的轉述，不是《經濟學人》原文。",
+          "quoteType": "二手轉述"
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "電子資通訊產品（電子零組件＋資通與視聽產品）占出口比重，2026 年 1–5 月",
+          "value": {
+            "period": "2026-01~05",
+            "electronicComponents_pct": 33.7,
+            "ictAndAV_pct": 44.9,
+            "combined_pct": 78.6,
+            "unit": "%"
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "產品出口比重逐漸攀升，2026 年 1 至 5 月已高達 78.6% (=33.7%+44.9%)。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          },
+          "note": "央行表 2，資料來源：財政部。口徑：「電子零組件」與「資通與視聽產品」兩個出口大類。"
+        },
+        {
+          "fact": "電子資通訊產品占出口比重歷年（央行表 2，%）",
+          "value": {
+            "years": [
+              "1981",
+              "1991",
+              "2001",
+              "2011",
+              "2018",
+              "2022",
+              "2026_1-5月"
+            ],
+            "electronicComponents": [13.0, 10.7, 16.6, 24.2, 33.2, 41.7, 33.7],
+            "ictAndAV": [0.7, 7.3, 24.8, 11.8, 10.6, 13.5, 44.9],
+            "unit": "%"
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "電子零組件 13.0 10.7 16.6 24.2 33.2 41.7 33.7",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          },
+          "note": "直接取自表 2 兩列；2018 年 33.2＋10.6、2022 年 41.7＋13.5（兩列相加由讀者自行加，此處不代為相加）"
+        },
+        {
+          "fact": "電子資通訊製造業 vs 傳統製造業：2017–2024 產值複合成長率",
+          "value": {
+            "electronicIct_pct": 7.0,
+            "traditional_pct": 1.6,
+            "traditionalShareOfManufacturing_2017_pct": 62.7,
+            "traditionalShareOfManufacturing_2024_pct": 53.7
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "2017 年至 2024 年電子資通訊製造業產值複合成長 7.0%，成長幅度大於傳統製造業之 1.6%，傳統製造業產值占製造業比重下滑，由 2017 年之 62.7%，降至 2024 年之 53.7%(表 4)。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          }
+        },
+        {
+          "fact": "傳統製造業實質 GDP 指數（2017=100）2024 年",
+          "value": 105.6,
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "2024 年指數為 105.6，亦即較 2017 年成長 5.6%。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          },
+          "note": "央行主張傳統製造業並未萎縮的核心數字。"
+        },
+        {
+          "fact": "每人全年總薪資平均（元），2025（民國114年）初步值，全體受僱員工（含部分工時與外籍）",
+          "value": {
+            "工業及服務業": 760632,
+            "製造業": 832476,
+            "服務業": 730068,
+            "電子零組件製造業": 1332924,
+            "電腦電子產品及光學製品製造業": 1139592,
+            "食品及飼品製造業": 596424,
+            "紡織業": 542256,
+            "塑膠製品製造業": 598344,
+            "金屬製品製造業": 526632,
+            "unit": "元/人/年"
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=2724&s=235863",
+            "title": "114年12月暨全年工業及服務業薪資統計結果（新聞稿與附表 1–16）",
+            "publisher": "行政院主計總處",
+            "period": "發布 2026-02-11 16:00；資料 2025 全年（初步值 Ⓟ）",
+            "accessed": "2026-11-10",
+            "quote": "每人全年總薪資平均數為 760,632 元",
+            "kind": "primary",
+            "sourceNote": "附表 xlsx 在 raw/dgbas-wage-20261110-11412-表N.xlsx；PDF 圖檔／文字見 raw/dgbas-wage-20261110-新聞稿11412.pdf"
+          },
+          "note": "quote 驗證的是新聞稿給的「工業及服務業全體」760,632 元（與表 2 總計相同，程式已核對）；其餘行業別數值由程式讀 raw/dgbas-wage-20261110-11412-表2／3／4.xlsx 的「114年Ⓟ」列、依欄位標題取得（腳本見本檔）。表內 114 年為初步值（Ⓟ），12 月為 Ⓟ。口徑為「全體受僱員工」（含本國籍與外國籍全時、部分工時）。"
+        },
+        {
+          "fact": "同上（派生）：電子零組件製造業年薪 ÷ 服務業年薪；電子零組件 ÷ 紡織業",
+          "value": {
+            "電子零組件_除以_服務業": 1.83,
+            "電子零組件_除以_紡織業": 2.46,
+            "電子零組件_除以_製造業": 1.6
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=2724&s=235863",
+            "title": "114年12月暨全年工業及服務業薪資統計結果（新聞稿與附表 1–16）",
+            "publisher": "行政院主計總處",
+            "period": "發布 2026-02-11 16:00；資料 2025 全年（初步值 Ⓟ）",
+            "accessed": "2026-11-10",
+            "quote": "每人全年總薪資平均數為 760,632 元",
+            "kind": "primary",
+            "sourceNote": "附表 xlsx 在 raw/dgbas-wage-20261110-11412-表N.xlsx；PDF 圖檔／文字見 raw/dgbas-wage-20261110-新聞稿11412.pdf"
+          },
+          "derived": "由上列主計總處數值相除、四捨五入至小數 2 位；不是主計總處自己公布的倍數"
+        },
+        {
+          "fact": "全年總薪資中位數（萬元）2024（民國113年）：全體／製造業／電子零組件／電腦電子光學／批發零售／住宿餐飲",
+          "value": {
+            "全體": 54.6,
+            "製造業": 57.0,
+            "電子零組件製造業": 87.6,
+            "電腦電子及光學製品製造業": 89.9,
+            "批發及零售業": 50.6,
+            "住宿及餐飲業": 41.5,
+            "金融及保險業": 110.6,
+            "unit": "萬元/年"
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=3703&s=235514",
+            "title": "113年工業及服務業受僱員工全年總薪資中位數及分布統計結果",
+            "publisher": "行政院主計總處",
+            "period": "發布 2025-11-25；資料 2024 全年",
+            "accessed": "2026-11-10",
+            "quote": "113 年工業及服務業全體受僱員工（含本國籍、外國籍之全時員工及部分工時員工）全年總薪資（含經常性薪資與獎金等非經常性薪資）中位數為 54.6 萬元，較上（112）年增加 4.03%。",
+            "kind": "primary",
+            "sourceNote": "PDF：https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/235514/113年受僱員工薪資中位數統計結果新聞稿.pdf；本機檔 raw/dgbas-wage-20261110-113年全年總薪資中位數新聞稿-20251125.pdf。114 年版預定 2026-11-25 發布，目前（2026-11-10）尚未出"
+          },
+          "note": "行業中位數取自新聞稿圖「各行業全年總薪資中位數」（圖內數字，pdftotext 版面中可見製造業 57.0、電腦電子及光學製品製造業 89.9、電子零組件製造業 87.6、批發及零售業 50.6、住宿及餐飲業 41.5）；2025（114年）全年中位數尚未發布（預定 2026-11-25）。"
+        },
+        {
+          "fact": "匯率：新台幣對美元升貶幅與荷蘭病論述的實證",
+          "value": null,
+          "reason": "本子代任務只收「具名立場」；央行以 BIS 的名目有效匯率指數（NEER）2010-12-31 104.72 → 2022-11-01 122.33（升 16.8%）論證（見 cbc2022 腳註 2，已含於該份文件）。其他匯率數據不在本任務範圍，未另行擷取。"
+        }
+      ]
+    },
+    {
+      "id": "concentration-risk",
+      "question": "產業與股市過度集中在半導體／單一公司的風險",
+      "positions": [
+        {
+          "side": "集中是風險",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-05-29",
+          "venue": "第20期《金融穩定報告》（115年5月）第 20 頁「AI相關產業快速發展對金融市場之影響」",
+          "quote": "AI投資熱潮推升臺股AI相關產業股價，惟市場資金集中於少數AI族群，將放大單一產業趨勢變化對整體市場之衝擊。",
+          "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+            "title": "金融穩定報告 第20期（115年5月）全文 PDF（dl-227237）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-05-29；涵蓋 2025 初至 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "AI投資熱潮推升臺股AI相關產業股價，惟市場資金集中於少數AI族群，將放大單一產業趨勢變化對整體市場之衝擊。",
+            "kind": "primary",
+            "sourceNote": "PDF text layer 會漏掉數字與字母 I，含數字的引文已用頁面圖檔肉眼逐字核對（raw/perspectives-src/cbc-fsr20-p20-pdfpage31.png、cbc-fsr20-p48-pdfpage59.png）"
+          },
+          "note": "PDF text layer 把「AI」的 I 漏掉（顯示成「A」），本條已對照 PDF 第 31 頁（報告頁碼 20）圖檔逐字核對無誤。",
+          "verifiedBy": "page image"
+        },
+        {
+          "side": "集中是風險",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-05-29",
+          "venue": "第20期《金融穩定報告》第 48 頁「上市股價指數本益比續升」",
+          "quote": "第4季電子產業占上市股價指數權重由上年同期71.10%上升至76.27%，顯示產業集中度進一步提高",
+          "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+            "title": "金融穩定報告 第20期（115年5月）全文 PDF（dl-227237）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-05-29；涵蓋 2025 初至 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "第4季電子產業占上市股價指數權重由上年同期71.10%上升至76.27%，顯示產業集中度進一步提高",
+            "kind": "primary",
+            "sourceNote": "PDF text layer 會漏掉數字與字母 I，含數字的引文已用頁面圖檔肉眼逐字核對（raw/perspectives-src/cbc-fsr20-p20-pdfpage31.png、cbc-fsr20-p48-pdfpage59.png）",
+            "extraQuotes": [
+              "國內股市結構對科技產業依賴程度偏高，若相關產業景氣出現波動，恐擴大股市整體波動幅度"
+            ]
+          },
+          "extraQuotes": [
+            "國內股市結構對科技產業依賴程度偏高，若相關產業景氣出現波動，恐擴大股市整體波動幅度"
+          ],
+          "note": "數字依 PDF 第 59 頁（報告頁碼 48）圖檔逐字核對；text layer 漏掉數字，故機器比對略過。",
+          "verifiedBy": "page image"
+        },
+        {
+          "side": "集中是風險",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料〈四、當前台灣產業發展之探討〉Q1(三)「須持續注意過度集中所可能產生的風險」",
+          "quote": "景氣波動風險：若科技景氣反轉，可能加劇台灣經濟波動。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "景氣波動風險：若科技景氣反轉，可能加劇台灣經濟波動。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白",
+            "extraQuotes": [
+              "要素排擠效應：若過度推升水、電、土地與人力等成本，恐抑制傳統製造業投資與生產意願。",
+              "所得分配惡化：科技紅利集中特定勞動族群，一般民眾感受程度較低，所得分配狀況可能惡化。"
+            ]
+          },
+          "extraQuotes": [
+            "要素排擠效應：若過度推升水、電、土地與人力等成本，恐抑制傳統製造業投資與生產意願。",
+            "所得分配惡化：科技紅利集中特定勞動族群，一般民眾感受程度較低，所得分配狀況可能惡化。"
+          ],
+          "note": "三項風險在 PDF 版面中與圖表文字交錯換行；上列引文為依閱讀順序接回的原句，已逐段比對。"
+        },
+        {
+          "side": "集中是風險",
+          "speaker": "童子賢",
+          "role": "和碩聯合科技董事長",
+          "date": "2025-03-07",
+          "venue": "風傳媒 11 週年社慶論壇",
+          "quote": "台灣不能只有一個產品、一個產業，因為孤注一擲於單一產業，就好像一座森林植物太過單一，容易有一榮俱榮、一枯俱枯的現象。",
+          "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+            "title": "台積電加碼美國 童子賢：不能活在一個人的武林",
+            "publisher": "中央社（記者吳家豪）",
+            "period": "2025-03-07 15:31",
+            "accessed": "2026-11-10",
+            "quote": "台灣不能只有一個產品、一個產業，因為孤注一擲於單一產業，就好像一座森林植物太過單一，容易有一榮俱榮、一枯俱枯的現象。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "童子賢表示，台積電在全球競爭中表現極佳，那是台灣的光榮"
+            ]
+          },
+          "extraQuotes": [
+            "童子賢表示，台積電在全球競爭中表現極佳，那是台灣的光榮"
+          ],
+          "note": "引文為記者轉述；同一段話也肯定台積電表現，故在兩邊都列。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "集中是風險",
+          "speaker": "林德福",
+          "role": "立法委員（國民黨）",
+          "date": "2026-01-07",
+          "venue": "立法院財政委員會質詢金管會",
+          "quote": "立委林德福點出，台股3萬點創新高，但科技類股獨強，食品、水泥、貿易百貨、觀光旅遊類股等傳產類股不漲反跌",
+          "url": "https://finance.ettoday.net/news/3097030",
+          "source": {
+            "url": "https://finance.ettoday.net/news/3097030",
+            "title": "台股靠台積電衝3萬點挨轟「虛胖」 彭金隆曝6成個股未達年線",
+            "publisher": "ETtoday財經雲",
+            "period": "2026-01-07 13:16",
+            "accessed": "2026-11-10",
+            "quote": "立委林德福點出，台股3萬點創新高，但科技類股獨強，食品、水泥、貿易百貨、觀光旅遊類股等傳產類股不漲反跌",
+            "kind": "secondary"
+          },
+          "note": "引文為記者轉述質詢內容；黨籍為常識性補充，ETtoday 報導原文未寫黨籍，故不放入引文。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "集中是風險",
+          "speaker": "Dino Wei（魏思源）",
+          "role": "資訊科技業從業者（Taipei Times 投書署名）",
+          "date": "2025-11-24",
+          "venue": "Taipei Times 第 8 版投書",
+          "quote": "What we are facing is the volatility of global markets and the structural risks of overconcentration in one sector.",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/24/2003847712",
+          "source": {
+            "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/24/2003847712",
+            "title": "The nation is not under the Dutch disease trap（Dino Wei 魏思源投書）",
+            "publisher": "Taipei Times",
+            "period": "2025-11-24 page 8",
+            "accessed": "2026-11-10",
+            "quote": "What we are facing is the volatility of global markets and the structural risks of overconcentration in one sector.",
+            "kind": "secondary",
+            "extraQuotes": [
+              "Excessive industrial concentration is a result of overdependence on a few highly profitable sectors."
+            ]
+          },
+          "extraQuotes": [
+            "Excessive industrial concentration is a result of overdependence on a few highly profitable sectors."
+          ]
+        },
+        {
+          "side": "集中是競爭優勢／專業化分工的結果",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料〈四、當前台灣產業發展之探討〉Q5(三)",
+          "quote": "當前台灣經濟表現集中於電子資通訊製造業，並非國內市場失衡，而是順應全球市場需求的專業化分工表現。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "當前台灣經濟表現集中於電子資通訊製造業，並非國內市場失衡，而是順應全球市場需求的專業化分工表現。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白",
+            "extraQuotes": [
+              "電子資通訊製造業非單一產業，而是透過與上下游廠商深化技術協作，將傳統單向供應鏈轉為高度互賴的生態"
+            ]
+          },
+          "extraQuotes": [
+            "電子資通訊製造業非單一產業，而是透過與上下游廠商深化技術協作，將傳統單向供應鏈轉為高度互賴的生態"
+          ]
+        },
+        {
+          "side": "集中是競爭優勢／專業化分工的結果",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-05-29",
+          "venue": "第20期《金融穩定報告》第 20 頁",
+          "quote": "隨全球AI熱潮持續發酵，我國作為全球AI硬體供應鏈之核心，並受惠於半導體及伺服器等AI相關產業競爭優勢，在強勁的資金動能帶動下，臺股價量齊揚且頻創新高，惟應注意相關風險。",
+          "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+            "title": "金融穩定報告 第20期（115年5月）全文 PDF（dl-227237）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-05-29；涵蓋 2025 初至 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "隨全球AI熱潮持續發酵，我國作為全球AI硬體供應鏈之核心，並受惠於半導體及伺服器等AI相關產業競爭優勢，在強勁的資金動能帶動下，臺股價量齊揚且頻創新高，惟應注意相關風險。",
+            "kind": "primary",
+            "sourceNote": "PDF text layer 會漏掉數字與字母 I，含數字的引文已用頁面圖檔肉眼逐字核對（raw/perspectives-src/cbc-fsr20-p20-pdfpage31.png、cbc-fsr20-p48-pdfpage59.png）"
+          },
+          "note": "同一句既肯定競爭優勢也提醒風險；已對照頁面圖檔核對 AI 字樣。",
+          "verifiedBy": "page image"
+        },
+        {
+          "side": "集中是競爭優勢／專業化分工的結果",
+          "speaker": "Moody's（經中央銀行新聞稿轉述）",
+          "role": "國際信評機構",
+          "date": "2026-06-03",
+          "venue": "Moody's 台灣主權信用評等報告（央行新聞稿轉述）",
+          "quote": "Moody’s認為，台灣在先進晶片製造領域的領先優勢為台灣經濟具韌性的關鍵驅動因素，有助維持強勁成長與競爭力",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+            "title": "穆迪信評公司（Moody’s）維持我國國家主權評等為Aa3，展望穩定，並肯定央行貨幣政策表現",
+            "publisher": "中央銀行（轉述 Moody’s 2026-06-03 報告）",
+            "period": "發布於 2026-06（Moody’s 報告日 2026-06-03）",
+            "accessed": "2026-11-10",
+            "quote": "Moody’s認為，台灣在先進晶片製造領域的領先優勢為台灣經濟具韌性的關鍵驅動因素，有助維持強勁成長與競爭力",
+            "kind": "primary",
+            "sourceNote": "評級機構原報告未取得，內容為央行新聞稿的轉述"
+          },
+          "note": "評級機構原報告未取得。"
+        },
+        {
+          "side": "集中是競爭優勢／專業化分工的結果",
+          "speaker": "S&P Global Ratings（經中央銀行新聞稿轉述）",
+          "role": "國際信評機構",
+          "date": "2026-04-29",
+          "venue": "S&P 台灣主權信用評等報告（央行新聞稿轉述）",
+          "quote": "地緣政治緊張雖持續對台灣信用評等造成壓力，惟不致阻礙台灣具高度競爭力之製造業成長。",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-191195-f0581-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-191195-f0581-1.html",
+            "title": "標準普爾信評公司(S&P)報告指出我國長期主權信用評等為AA+級，展望穩定，並肯定央行貨幣政策表現",
+            "publisher": "中央銀行（轉述 S&P 2026-04-29 報告）",
+            "period": "發布於 2026-04/05（S&P 報告日 2026-04-29）",
+            "accessed": "2026-11-10",
+            "quote": "地緣政治緊張雖持續對台灣信用評等造成壓力，惟不致阻礙台灣具高度競爭力之製造業成長。",
+            "kind": "primary",
+            "sourceNote": "評級機構原報告未取得，內容為央行新聞稿的轉述"
+          },
+          "note": "評級機構原報告未取得；S&P 此處未明講「集中風險」，列在這邊是它把半導體／製造業競爭力視為評等支撐。"
+        },
+        {
+          "side": "金管會的回應（不下集中是否為風險的結論）",
+          "speaker": "彭金隆",
+          "role": "金融監督管理委員會主任委員",
+          "date": "2026-01-07",
+          "venue": "立法院財政委員會答詢",
+          "quote": "年線以下個股比重確實偏高，但此一現象本質上，仍是反映景氣循環與市場預期心理",
+          "url": "https://finance.ettoday.net/news/3097030",
+          "source": {
+            "url": "https://finance.ettoday.net/news/3097030",
+            "title": "台股靠台積電衝3萬點挨轟「虛胖」 彭金隆曝6成個股未達年線",
+            "publisher": "ETtoday財經雲",
+            "period": "2026-01-07 13:16",
+            "accessed": "2026-11-10",
+            "quote": "年線以下個股比重確實偏高，但此一現象本質上，仍是反映景氣循環與市場預期心理",
+            "kind": "secondary"
+          },
+          "note": "引文為記者轉述；ETtoday 報導同段另載彭金隆指 2025 年個股股價在年線以下比重 63.5%。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "國際機構（IMF Article IV）對台灣集中風險的具名說法",
+          "speaker": null,
+          "role": null,
+          "date": null,
+          "venue": null,
+          "quote": null,
+          "url": null,
+          "reason": "IMF 對台灣無 Article IV；信評（Moody’s／S&P）的原報告未取得，只有央行新聞稿轉述（已列）。《經濟學人》原文遇付費牆。",
+          "tried": [
+            "IMF（無對台灣報告）",
+            "cbc.gov.tw 新聞稿（取得）",
+            "economist.com（付費牆）",
+            "hackmd 轉貼（無內容）"
+          ]
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "電子產業占上市股價指數權重（第 4 季）",
+          "value": {
+            "Q4_2024_pct": 71.1,
+            "Q4_2025_pct": 76.27,
+            "unit": "%"
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+            "title": "金融穩定報告 第20期（115年5月）全文 PDF（dl-227237）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-05-29；涵蓋 2025 初至 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "第4季電子產業占上市股價指數權重由上年同期71.10%上升至76.27%，顯示產業集中度進一步提高",
+            "kind": "primary",
+            "sourceNote": "PDF text layer 會漏掉數字與字母 I，含數字的引文已用頁面圖檔肉眼逐字核對（raw/perspectives-src/cbc-fsr20-p20-pdfpage31.png、cbc-fsr20-p48-pdfpage59.png）"
+          },
+          "note": "報告頁碼 48（PDF 第 59 頁）；數字以圖檔核對。"
+        },
+        {
+          "fact": "上市股價指數本益比（倍）",
+          "value": {
+            "end2024": 21.29,
+            "end2025": 23.22
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-899-191320-e001b-1.html",
+            "title": "金融穩定報告 第20期（115年5月）全文 PDF（dl-227237）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-05-29；涵蓋 2025 初至 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "上市股價指數本益比亦由上年底21.29倍續升至23.22倍(圖3-11)",
+            "kind": "primary",
+            "sourceNote": "PDF text layer 會漏掉數字與字母 I，含數字的引文已用頁面圖檔肉眼逐字核對（raw/perspectives-src/cbc-fsr20-p20-pdfpage31.png、cbc-fsr20-p48-pdfpage59.png）"
+          },
+          "note": "同頁；數字以圖檔核對。"
+        },
+        {
+          "fact": "台積電單一公司占台股市值比重（官方統計）",
+          "value": null,
+          "reason": "本任務未自證交所取得；央行報告給的是「電子產業」占上市指數權重（上列）。台積電單檔占比請引用另一子代的 marketcap 研究檔，不在這裡重複。"
+        }
+      ]
+    },
+    {
+      "id": "water-power",
+      "question": "半導體用水用電與民生、農業、減碳的競合",
+      "positions": [
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "經濟部能源署",
+          "role": "經濟部能源署（機構）",
+          "date": "2026-06-18",
+          "venue": "《114年度全國電力資源供需報告》（2025 年回顧；2026–2035 推估）",
+          "quote": "半導體等高附加價值產業用電成長快速並帶動經濟成長，傳統產業用電則呈下滑，兩者正負相抵後用電成長大致持平",
+          "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+          "source": {
+            "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+            "title": "114年度全國電力資源供需報告",
+            "publisher": "經濟部能源署",
+            "period": "發布（頁面更新日）2026-06-18；回顧 2025，推估 2026–2035",
+            "accessed": "2026-11-10",
+            "quote": "半導體等高附加價值產業用電成長快速並帶動經濟成長，傳統產業用電則呈下滑，兩者正負相抵後用電成長大致持平",
+            "kind": "primary",
+            "sourceNote": "PDF：https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=27046&file_id=17091；本機檔 raw/moeaea-power-supply-demand-20261110-114年度全國電力資源供需報告-20260618.pdf（33 頁）",
+            "extraQuotes": [
+              "預估 2026~2035 年用電需求年均成長率約為 2.5%",
+              "2026 年夜尖峰負載將增加 1,952MW，達 38,840MW"
+            ]
+          },
+          "extraQuotes": [
+            "預估 2026~2035 年用電需求年均成長率約為 2.5%",
+            "2026 年夜尖峰負載將增加 1,952MW，達 38,840MW"
+          ]
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "吳志偉；夏峪泉",
+          "role": "經濟部能源署署長；能源署電力組長",
+          "date": "2026-06-18",
+          "venue": "經濟部公布《114年度全國電力資源供需報告》記者會",
+          "quote": "未來10年（115年至124年）電力需求年均成長率約2.5%，為歷年預測中第2高的成長水準，高於過去10年（105年至114年）的年均成長率1.24%，也高於日本、韓國等產業競爭國。",
+          "url": "https://www.cna.com.tw/news/afe/202606180283.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/afe/202606180283.aspx",
+            "title": "經部估AI資料中心帶動用電 未來10年電力需求年增2.5%",
+            "publisher": "中央社（記者謝怡璇）",
+            "period": "2026-06-18 17:26",
+            "accessed": "2026-11-10",
+            "quote": "未來10年（115年至124年）電力需求年均成長率約2.5%，為歷年預測中第2高的成長水準，高於過去10年（105年至114年）的年均成長率1.24%，也高於日本、韓國等產業競爭國。",
+            "kind": "secondary",
+            "sourceNote": "記者會上能源署署長與電力組長的談話；經濟部／能源署對應的新聞稿本文未取得",
+            "extraQuotes": [
+              "AIDC電力需求方面，夏峪泉提到，除了有提出設置申請電力需求近1.2GW之外，已另外準備2GW至3GW的電力，提供額外增加的AIDC電力需求。"
+            ]
+          },
+          "extraQuotes": [
+            "AIDC電力需求方面，夏峪泉提到，除了有提出設置申請電力需求近1.2GW之外，已另外準備2GW至3GW的電力，提供額外增加的AIDC電力需求。"
+          ],
+          "note": "引文為中央社記者轉述兩位官員談話；經濟部／能源署新聞稿本文未取得。AIDC 申請量在報告 PDF 文字層未見具體 GW 數字。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "賴清德",
+          "role": "總統",
+          "date": "2025-03-06",
+          "venue": "總統府記者會（偕台積電董事長魏哲家說明赴美加碼投資）",
+          "quote": "賴清德則承諾，一定會極力協助台積電獲取足夠的土地、水電等資源。",
+          "url": "https://news.pts.org.tw/article/740906",
+          "source": {
+            "url": "https://news.pts.org.tw/article/740906",
+            "title": "魏哲家返台說明台積在美千億投資 強調還要加速台灣進程",
+            "publisher": "公視新聞網 PNN",
+            "period": "2025-03-06 18:39",
+            "accessed": "2026-11-10",
+            "quote": "賴清德則承諾，一定會極力協助台積電獲取足夠的土地、水電等資源。",
+            "kind": "secondary"
+          },
+          "note": "引文為記者轉述承諾；NOWnews 同場另載「也會供應足夠的水電」（見 https://www.nownews.com/news/6655519）。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "行政院農業委員會（現農業部）",
+          "role": "農委會（機構）；發布機關：農田水利署",
+          "date": "2020-11-25",
+          "venue": "嘉南地區110年第一期作停灌配套措施（新聞稿）",
+          "quote": "農委會今（25）日宣布，嘉南地區曾文-烏山頭水庫灌區1萬9千公頃農田將實施停灌補償",
+          "url": "https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8268",
+          "source": {
+            "url": "https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8268",
+            "title": "因應水情嚴峻 嘉南地區110年第一期作停灌配套措施",
+            "publisher": "農業部（原行政院農業委員會；發布機關：農田水利署）",
+            "period": "發布日 2020-11-25（民國109-11-25）",
+            "accessed": "2026-11-10",
+            "quote": "農委會今（25）日宣布，嘉南地區曾文-烏山頭水庫灌區1萬9千公頃農田將實施停灌補償",
+            "kind": "primary",
+            "extraQuotes": ["每公頃補償9.3萬元", "每公頃可補償8.2萬元"]
+          },
+          "extraQuotes": ["每公頃補償9.3萬元", "每公頃可補償8.2萬元"],
+          "note": "官方新聞稿原文；補償兩態樣：種植獎勵作物 9.3 萬、翻耕或非獎勵作物 8.2 萬（元/公頃）。"
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "行政院農業委員會（現農業部）",
+          "role": "農委會（機構）",
+          "date": "2021-01-05",
+          "venue": "旱災中央災害應變中心評估後，農委會說明桃園地區110年一期作供停灌",
+          "quote": "評估桃園地區今年一期作可供灌農田面積約7千公頃，但仍無法完全滿足全部農田灌溉所需，爰其餘2萬8千公頃農田今年第一期作須實施停灌。",
+          "url": "https://academy.moa.gov.tw/YF/news.php?id=news_1609835462",
+          "source": {
+            "url": "https://academy.moa.gov.tw/YF/news.php?id=news_1609835462",
+            "title": "副主委陳駿季說明桃園地區110年第一期作供停灌區域配套措施",
+            "publisher": "農業部（原行政院農業委員會）",
+            "period": "2021-01-05",
+            "accessed": "2026-11-10",
+            "quote": "評估桃園地區今年一期作可供灌農田面積約7千公頃，但仍無法完全滿足全部農田灌溉所需，爰其餘2萬8千公頃農田今年第一期作須實施停灌。",
+            "kind": "primary"
+          }
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "行政院農業委員會（現農業部）",
+          "role": "農委會（機構）",
+          "date": "2020-12-29",
+          "venue": "宣布台中、苗栗、新竹明年第1期作停灌",
+          "quote": "台中原本灌區為2.6萬公頃、預計停灌2萬62公頃，苗栗為9500公頃、預計停灌2894公頃，新竹為6100公頃、預計停灌4588公頃",
+          "url": "https://www.cna.com.tw/news/firstnews/202012290168.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/firstnews/202012290168.aspx",
+            "title": "竹苗中2021年1期停灌 2.75萬公頃水稻居多",
+            "publisher": "中央社（記者楊淑閔）",
+            "period": "2020-12-29",
+            "accessed": "2026-11-10",
+            "quote": "台中原本灌區為2.6萬公頃、預計停灌2萬62公頃，苗栗為9500公頃、預計停灌2894公頃，新竹為6100公頃、預計停灌4588公頃",
+            "kind": "secondary",
+            "sourceNote": "農委會記者會內容的轉述"
+          },
+          "note": "中央社轉述農委會記者會；為「預計」停灌面積，不是最終統計。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "行政院農業委員會（現農業部）",
+          "role": "農委會（機構）；經自由時報報導",
+          "date": "2021-01-05",
+          "venue": "農委會記者會（自由時報報導全國一期作合計）",
+          "quote": "總計一期作累積將停灌7萬4千公頃，達20年來最大面積停灌。",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/3401972",
+          "source": {
+            "url": "https://news.ltn.com.tw/news/life/breakingnews/3401972",
+            "title": "桃園2.8萬公頃停灌 一期作7.4萬公頃停灌創20年來最大面積",
+            "publisher": "自由時報",
+            "period": "2021-01-05",
+            "accessed": "2026-11-10",
+            "quote": "總計一期作累積將停灌7萬4千公頃，達20年來最大面積停灌。",
+            "kind": "secondary",
+            "sourceNote": "農委會 1/5 記者會的轉述；農業部／農水署對全國合計的原始統計文件未取得"
+          },
+          "note": "全國合計 7.4 萬公頃為媒體加總報導；農業部／農水署的最終統計文件未取得，故 keyFacts 以各區官方數字為主、合計標「二手」。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "官方：供給與預測／政府承諾供應",
+          "speaker": "中央旱災應變中心",
+          "role": "跨部會旱災應變機關（機構）",
+          "date": "2021-04-16",
+          "venue": "中央旱災應變中心水情會議（ETtoday 報導）",
+          "quote": "會中決議桃園地區即日起全日減壓供水，並自4月23日起新竹提高工業節水力道至13%，高雄及台南提升工業節水力道至11%，非工業、泳池及三溫暖等提升至20%，水情燈號維持不變。",
+          "url": "https://finance.ettoday.net/news/1961766",
+          "source": {
+            "url": "https://finance.ettoday.net/news/1961766",
+            "title": "快訊／桃園即日起全日減壓供水 新竹、高雄及台南工業戶提高節水率",
+            "publisher": "ETtoday財經雲",
+            "period": "2021-04-16 15:18",
+            "accessed": "2026-11-10",
+            "quote": "會中決議桃園地區即日起全日減壓供水，並自4月23日起新竹提高工業節水力道至13%，高雄及台南提升工業節水力道至11%，非工業、泳池及三溫暖等提升至20%，水情燈號維持不變。",
+            "kind": "secondary",
+            "sourceNote": "中央旱災應變中心決議的轉述"
+          },
+          "note": "用來對照「半導體被優先供水」的說法：官方決議也要求工業戶提高節水率，但沒有說工業戶被停水；停灌的是農田。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "環團與批評者：用水用電集中、再生能源與再生水路徑不夠務實",
+          "speaker": "陳國祥",
+          "role": "《新冷戰下的經濟棋局》作者（頁面未載職稱）",
+          "date": "2026-11-02",
+          "venue": "商周出版書摘，聯合新聞網轉載",
+          "quote": "2021年台灣遭逢數十年罕見乾旱時，半導體產業仍被列為優先供水對象，凸顯其戰略地位。",
+          "url": "https://udn.com/news/story/121591/9852018",
+          "source": {
+            "url": "https://udn.com/news/story/121591/9852018",
+            "title": "缺水缺電先保神山？股市創高只有工程師賺？全台陷荷蘭病…傳產服務淪次等公民（《新冷戰下的經濟棋局》書摘，作者陳國祥）",
+            "publisher": "聯合新聞網／商周出版",
+            "period": "2026-11-02 15:14",
+            "accessed": "2026-11-10",
+            "quote": "2021年台灣遭逢數十年罕見乾旱時，半導體產業仍被列為優先供水對象，凸顯其戰略地位。",
+            "kind": "secondary"
+          },
+          "note": "書摘作者的論述，未附官方出處；與上列旱災應變中心決議並列讀。"
+        },
+        {
+          "side": "環團與批評者：用水用電集中、再生能源與再生水路徑不夠務實",
+          "speaker": "鄧宇佑",
+          "role": "地球公民基金會行銷主任",
+          "date": "2024-06-25",
+          "venue": "台積電高雄第3座2奈米廠環評會議後受訪（公視新聞）",
+          "quote": "但是目前以10年為目標，我們比較難看到就是，它在過程中，比較務實的一些執行方案，所以我們是期待這個，淨零跟再生能源的部份可以用5年為期。",
+          "url": "https://news.pts.org.tw/article/701870",
+          "source": {
+            "url": "https://news.pts.org.tw/article/701870",
+            "title": "台積電高雄P3二奈米廠環評通過 環團憂用電與再生水",
+            "publisher": "公視新聞網 PNN",
+            "period": "發布 2024-06-25 20:25",
+            "accessed": "2026-11-10",
+            "quote": "但是目前以10年為目標，我們比較難看到就是，它在過程中，比較務實的一些執行方案，所以我們是期待這個，淨零跟再生能源的部份可以用5年為期。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "環團發現，台積電3廠用電量加總達55億度，是去（2023）年高雄總用電量18%，再有擴廠需求，是否衝擊高雄用電？"
+            ]
+          },
+          "extraQuotes": [
+            "環團發現，台積電3廠用電量加總達55億度，是去（2023）年高雄總用電量18%，再有擴廠需求，是否衝擊高雄用電？"
+          ],
+          "note": "第二句為公視記者陳述「環團發現」，未標明個別發言人。"
+        },
+        {
+          "side": "環團與批評者：用水用電集中、再生能源與再生水路徑不夠務實",
+          "speaker": "鄭泰鈞",
+          "role": "地球公民基金會議題部專員",
+          "date": "2024-03-04",
+          "venue": "台積電高雄廠環差審核（公視新聞）",
+          "quote": "長遠來看的話，希望可以比照即將要上路的碳費收費標準，裡面有規定碳排放大戶要做自主減量計畫，這個自主減量計畫也可以做為他們未來碳費折扣的項目。",
+          "url": "https://news.pts.org.tw/article/683769",
+          "source": {
+            "url": "https://news.pts.org.tw/article/683769",
+            "title": "台積電高雄廠召開環差審核 環團籲向公民電廠購電補足用電",
+            "publisher": "公視新聞網 PNN",
+            "period": "發布 2024-03-04 19:42",
+            "accessed": "2026-11-10",
+            "quote": "長遠來看的話，希望可以比照即將要上路的碳費收費標準，裡面有規定碳排放大戶要做自主減量計畫，這個自主減量計畫也可以做為他們未來碳費折扣的項目。",
+            "kind": "secondary"
+          }
+        },
+        {
+          "side": "環團與批評者：用水用電集中、再生能源與再生水路徑不夠務實",
+          "speaker": "陳詠仁",
+          "role": "綠色和平氣候與能源專案經理",
+          "date": "2023-09-15",
+          "venue": "綠色和平新聞稿回應台積電宣布 RE100 提前至 2040",
+          "quote": "台積電能夠宣示加速RE100目標，固然是一個良好的開端，但仍建議台積電學習其他加入RE100的企業公開2040年RE100路徑",
+          "url": "https://www.greenpeace.org/taiwan/press/37719/加速10年！台積電拚2040實現re100，綠色和平建議公開再生/",
+          "source": {
+            "url": "https://www.greenpeace.org/taiwan/press/37719/加速10年！台積電拚2040實現re100，綠色和平建議公開再生/",
+            "title": "加速10年！台積電拚2040實現RE100，綠色和平建議公開再生能源路徑，納入自發自用占比",
+            "publisher": "綠色和平 Greenpeace 台灣",
+            "period": "2023-09-15（台積電宣布 RE100 提前當日）",
+            "accessed": "2026-11-10",
+            "quote": "台積電能夠宣示加速RE100目標，固然是一個良好的開端，但仍建議台積電學習其他加入RE100的企業公開2040年RE100路徑",
+            "kind": "primary",
+            "extraQuotes": [
+              "台積電在「國際臭氧層保護日（9月16日）」前夕，於15日宣布加速RE100永續進程，將原定於2050年實現「全球營運100%使用再生能源」的目標提前至2040年"
+            ]
+          },
+          "extraQuotes": [
+            "台積電在「國際臭氧層保護日（9月16日）」前夕，於15日宣布加速RE100永續進程，將原定於2050年實現「全球營運100%使用再生能源」的目標提前至2040年"
+          ]
+        },
+        {
+          "side": "台積電自述：目標與進度",
+          "speaker": "台積電（年報）",
+          "role": "台灣積體電路製造股份有限公司（機構）",
+          "date": "2026（民國114年度年報）",
+          "venue": "台積公司 114年度年報：氣候變遷管理與溫室氣體減量目標",
+          "quote": "（二）民國119 年再生能源占比達60%，民國129年再生能源占比達100%。",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+          "source": {
+            "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+            "title": "台積公司 114年度（2025）年報（中文版）",
+            "publisher": "台灣積體電路製造股份有限公司",
+            "period": "民國114年度（2025）",
+            "accessed": "2026-11-10",
+            "quote": "（二）民國119 年再生能源占比達60%，民國129年再生能源占比達100%。",
+            "kind": "primary",
+            "sourceNote": "官網對自動下載回 403；本機檔取自 Internet Archive 同一官方 URL 的 2026-08-20 存檔：raw/tsmc-AR2025-C-wayback20260820.pdf，pdftotext 轉 raw/tsmc-AR2025-C-raw.txt（另一子代下載）",
+            "extraQuotes": [
+              "使用約57.8億度再生能源，再生能源使用比例提升至20.1%"
+            ]
+          },
+          "extraQuotes": [
+            "使用約57.8億度再生能源，再生能源使用比例提升至20.1%"
+          ],
+          "note": "民國119年＝2030、129年＝2040；使用量與比例為 2025（民國114年）達成進度。"
+        },
+        {
+          "side": "台積電自述：目標與進度",
+          "speaker": "台積電（年報）",
+          "role": "台灣積體電路製造股份有限公司（機構）",
+          "date": "2026（民國114年度年報）",
+          "venue": "台積公司 114年度年報：水資源管理",
+          "quote": "取用2,353萬立方公尺再生水，使台灣廠區的替代率達18%。",
+          "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+          "source": {
+            "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+            "title": "台積公司 114年度（2025）年報（中文版）",
+            "publisher": "台灣積體電路製造股份有限公司",
+            "period": "民國114年度（2025）",
+            "accessed": "2026-11-10",
+            "quote": "取用2,353萬立方公尺再生水，使台灣廠區的替代率達18%。",
+            "kind": "primary",
+            "sourceNote": "官網對自動下載回 403；本機檔取自 Internet Archive 同一官方 URL 的 2026-08-20 存檔：raw/tsmc-AR2025-C-wayback20260820.pdf，pdftotext 轉 raw/tsmc-AR2025-C-raw.txt（另一子代下載）",
+            "extraQuotes": [
+              "善用每一滴水資源是台積公司的水管理目標。",
+              "整體廠務系統增加673萬立方公尺節水量"
+            ]
+          },
+          "extraQuotes": [
+            "善用每一滴水資源是台積公司的水管理目標。",
+            "整體廠務系統增加673萬立方公尺節水量"
+          ]
+        },
+        {
+          "side": "台積電自述：目標與進度",
+          "speaker": "莊子壽",
+          "role": "台積電廠務副總經理（公視報導稱「廠務副總」）",
+          "date": "2024-06-25",
+          "venue": "台積電高雄第3座2奈米廠環評會議後（公視新聞）",
+          "quote": "這個5年為期的這個報告，應該是比較負責任的作法，我會回去跟我們公司討論。",
+          "url": "https://news.pts.org.tw/article/701870",
+          "source": {
+            "url": "https://news.pts.org.tw/article/701870",
+            "title": "台積電高雄P3二奈米廠環評通過 環團憂用電與再生水",
+            "publisher": "公視新聞網 PNN",
+            "period": "發布 2024-06-25 20:25",
+            "accessed": "2026-11-10",
+            "quote": "這個5年為期的這個報告，應該是比較負責任的作法，我會回去跟我們公司討論。",
+            "kind": "secondary"
+          }
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "全國電力消費量 2025（億度）與較 2024 變化",
+          "value": {
+            "y2025": 2830.1,
+            "y2024": 2838.5,
+            "change": -8.4,
+            "change_pct": -0.3,
+            "unit": "億度"
+          },
+          "source": {
+            "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+            "title": "114年度全國電力資源供需報告",
+            "publisher": "經濟部能源署",
+            "period": "發布（頁面更新日）2026-06-18；回顧 2025，推估 2026–2035",
+            "accessed": "2026-11-10",
+            "quote": "2025 年電力消費量為 2,830.1 億度，較 2024 年 2,838.5 億度減少 8.4 億度，減幅約 0.30%",
+            "kind": "primary",
+            "sourceNote": "PDF：https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=27046&file_id=17091；本機檔 raw/moeaea-power-supply-demand-20261110-114年度全國電力資源供需報告-20260618.pdf（33 頁）"
+          },
+          "note": "能源署報告第 6 頁。"
+        },
+        {
+          "fact": "未來十年電力需求年均成長率（2026–2035）vs 過去十年（2016–2025）",
+          "value": {
+            "forecast_2026_2035_pct": 2.5,
+            "past_2016_2025_pct": 1.24,
+            "previousReportForecast_2025_2034_pct": 1.7
+          },
+          "source": {
+            "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+            "title": "114年度全國電力資源供需報告",
+            "publisher": "經濟部能源署",
+            "period": "發布（頁面更新日）2026-06-18；回顧 2025，推估 2026–2035",
+            "accessed": "2026-11-10",
+            "quote": "2026~2035 年電力需求年均成長率約為 2.5%，高於過去 10 年 (2016~2025 年)年均成長率 1.24%",
+            "kind": "primary",
+            "sourceNote": "PDF：https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=27046&file_id=17091；本機檔 raw/moeaea-power-supply-demand-20261110-114年度全國電力資源供需報告-20260618.pdf（33 頁）"
+          },
+          "note": "去年預估 1.7% 取自 CNA 報導（吳志偉：去年預估 114–123 年 1.7%），報告 PDF 本身未見；已另見 cnaPower。"
+        },
+        {
+          "fact": "夜尖峰負載：2025 實績、2026 預估與 2026–2035 年均成長",
+          "value": {
+            "actual2025_MW": 36888,
+            "forecast2026_MW": 38840,
+            "increase_MW": 1952,
+            "cagr_2026_2035_pct": 2.7
+          },
+          "source": {
+            "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+            "title": "114年度全國電力資源供需報告",
+            "publisher": "經濟部能源署",
+            "period": "發布（頁面更新日）2026-06-18；回顧 2025，推估 2026–2035",
+            "accessed": "2026-11-10",
+            "quote": "2025 年夜尖峰負載實績為 36,888MW",
+            "kind": "primary",
+            "sourceNote": "PDF：https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=27046&file_id=17091；本機檔 raw/moeaea-power-supply-demand-20261110-114年度全國電力資源供需報告-20260618.pdf（33 頁）"
+          },
+          "note": "三句均已逐段核對。"
+        },
+        {
+          "fact": "規劃新增燃氣機組與再生能源裝置容量",
+          "value": {
+            "newGasPlanned_MW": 25980,
+            "renewableInstalled2025_MW": 22872
+          },
+          "source": {
+            "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+            "title": "114年度全國電力資源供需報告",
+            "publisher": "經濟部能源署",
+            "period": "發布（頁面更新日）2026-06-18；回顧 2025，推估 2026–2035",
+            "accessed": "2026-11-10",
+            "quote": "規劃未來新增燃氣機組約 25,980MW",
+            "kind": "primary",
+            "sourceNote": "PDF：https://www.moeaea.gov.tw/ECW/populace/content/wHandMenuFile.ashx?menu_id=27046&file_id=17091；本機檔 raw/moeaea-power-supply-demand-20261110-114年度全國電力資源供需報告-20260618.pdf（33 頁）"
+          },
+          "note": "再生能源 2025 年累計裝置容量 22,872MW 見同報告第 1 頁（「2025 年再生能源裝置容量累計達 22,872MW」）。"
+        },
+        {
+          "fact": "2021 年一期作停灌：各區面積與補償標準",
+          "value": {
+            "嘉南": "1萬9千公頃（農委會 2020-11-25）",
+            "台中_預計": "2萬62公頃",
+            "苗栗_預計": "2894公頃",
+            "新竹_預計": "4588公頃",
+            "桃園": "2萬8千公頃（另 7千公頃優先供灌）",
+            "全國一期作累計_二手": "7萬4千公頃（自由時報報導農委會 2021-01-05）",
+            "補償_每公頃_元": {
+              "獎勵作物或綠肥": 93000,
+              "翻耕或非獎勵作物": 82000
+            }
+          },
+          "source": {
+            "url": "https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8268",
+            "title": "因應水情嚴峻 嘉南地區110年第一期作停灌配套措施",
+            "publisher": "農業部（原行政院農業委員會；發布機關：農田水利署）",
+            "period": "發布日 2020-11-25（民國109-11-25）",
+            "accessed": "2026-11-10",
+            "quote": "每公頃補償9.3萬元",
+            "kind": "primary"
+          },
+          "note": "嘉南面積四捨五入為「1萬9千公頃」（官方文字）；搜尋摘要有「19,385 公頃」精確值，但未取得其官方出處，不採用。"
+        },
+        {
+          "fact": "2021 年停灌補償總經費（億元）",
+          "value": null,
+          "reason": "未找到農委會／農業部／農水署公布的總額；僅找到 2015 年（104 年）旱災時的事前估計 30 億元（農委會舊頁），不同年度，不採用。需要請查農水署決算或立法院預算書。"
+        },
+        {
+          "fact": "台積電：再生能源使用比例與台灣廠區再生水替代率（2025）",
+          "value": {
+            "renewable_share_2025_pct": 20.1,
+            "renewable_target": {
+              "y2030_pct": 60,
+              "y2040_pct": 100
+            },
+            "reclaimedWaterReplacementTaiwanFabs_2025_pct": 18
+          },
+          "source": {
+            "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+            "title": "台積公司 114年度（2025）年報（中文版）",
+            "publisher": "台灣積體電路製造股份有限公司",
+            "period": "民國114年度（2025）",
+            "accessed": "2026-11-10",
+            "quote": "使用約57.8億度再生能源，再生能源使用比例提升至20.1%",
+            "kind": "primary",
+            "sourceNote": "官網對自動下載回 403；本機檔取自 Internet Archive 同一官方 URL 的 2026-08-20 存檔：raw/tsmc-AR2025-C-wayback20260820.pdf，pdftotext 轉 raw/tsmc-AR2025-C-raw.txt（另一子代下載）"
+          },
+          "note": "再生水替代率 18% 與水資源段落見上列 positions 第二則。"
+        }
+      ]
+    },
+    {
+      "id": "labor",
+      "question": "科技業高薪背後的工時、輪班、人才排擠與「一個台灣兩個世界」薪資落差",
+      "positions": [
+        {
+          "side": "官方／數據：景氣與需求的反映",
+          "speaker": "譚文玲",
+          "role": "行政院主計總處國勢普查處副處長",
+          "date": "2026-06-12",
+          "venue": "主計總處發布 2026 年 4 月薪資統計後說明（Focus Taiwan／CNA 報導，6/13）",
+          "quote": "Tan Wen-ling (譚文玲), deputy director of the DGBAS Census Department, said repeated increases in overtime hours in AI-related industries reflected robust demand and were consistent with the agency's earlier assessment that AI would continue to help drive Taiwan's economic growth.",
+          "url": "https://focustaiwan.tw/business/202606130004",
+          "source": {
+            "url": "https://focustaiwan.tw/business/202606130004",
+            "title": "AI boom pushes overtime to new high in Taiwan's key tech sectors",
+            "publisher": "Focus Taiwan（CNA）",
+            "period": "2026-06-13（DGBAS 6/12 發布 4 月數字）",
+            "accessed": "2026-11-10",
+            "quote": "Tan Wen-ling (譚文玲), deputy director of the DGBAS Census Department, said repeated increases in overtime hours in AI-related industries reflected robust demand and were consistent with the agency's earlier assessment that AI would continue to help drive Taiwan's economic growth.",
+            "kind": "secondary",
+            "extraQuotes": [
+              "The electronic components manufacturing sector recorded an average of 29.6 overtime hours per worker in April, the highest figure for that month since records began 47 years ago, the Directorate-General of Budget, Accounting and Statistics (DGBAS) said on Friday."
+            ]
+          },
+          "extraQuotes": [
+            "The electronic components manufacturing sector recorded an average of 29.6 overtime hours per worker in April, the highest figure for that month since records began 47 years ago, the Directorate-General of Budget, Accounting and Statistics (DGBAS) said on Friday."
+          ],
+          "note": "CNA 英文轉述；主計總處新聞稿 PDF 另載 4 月製造業加班 18.5 小時（見 keyFacts）。電子零組件 29.6 小時為 CNA 轉述，未在主計總處新聞稿本文找到。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2022-11-06",
+          "venue": "央行新聞參考資料《台灣經濟發展並無荷蘭病現象》",
+          "quote": "近年台灣傳產製造業薪資漲幅不大，較電子資通訊業漲幅明顯為低，而就業呈現下滑，反映勞動需求減少，與荷蘭病工資上漲之症狀不同",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-155897-38cbb-1.html",
+            "title": "台灣經濟發展並無荷蘭病現象（中央銀行新聞參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2022-11-06",
+            "accessed": "2026-11-10",
+            "quote": "近年台灣傳產製造業薪資漲幅不大，較電子資通訊業漲幅明顯為低，而就業呈現下滑，反映勞動需求減少，與荷蘭病工資上漲之症狀不同",
+            "kind": "primary"
+          }
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料 Q1(三)「須持續注意過度集中所可能產生的風險」",
+          "quote": "所得分配惡化：科技紅利集中特定勞動族群，一般民眾感受程度較低，所得分配狀況可能惡化。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "所得分配惡化：科技紅利集中特定勞動族群，一般民眾感受程度較低，所得分配狀況可能惡化。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          },
+          "note": "這是「風險」的警示語氣（若過度集中，可能…），不是「已經惡化」的確認。"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "楊芳益",
+          "role": "台灣螺絲工業同業公會總幹事",
+          "date": "2026-05-09",
+          "venue": "民進黨「2026縣市長政策說明會」高雄場後與產業界座談（聯合報報導）",
+          "quote": "台灣螺絲工業同業公會總幹事楊芳益指出，台積電等科技產業磁吸效應明顯，很多人都跑去科技業，讓傳產在人力市場競爭更加吃力，希望政府在推動高科技產業發展之餘，也能兼顧傳統製造業生存與升級需求。",
+          "url": "https://udn.com/news/story/7238/9492511",
+          "source": {
+            "url": "https://udn.com/news/story/7238/9492511",
+            "title": "傳產缺工衝擊接單…螺絲、製造業苦 鄭麗君：研議成立南部推動小組",
+            "publisher": "聯合報／聯合新聞網（記者郭韋綺）",
+            "period": "2026-05-09 18:11",
+            "accessed": "2026-11-10",
+            "quote": "台灣螺絲工業同業公會總幹事楊芳益指出，台積電等科技產業磁吸效應明顯，很多人都跑去科技業，讓傳產在人力市場競爭更加吃力，希望政府在推動高科技產業發展之餘，也能兼顧傳統製造業生存與升級需求。",
+            "kind": "secondary",
+            "sourceNote": "curl 對 udn.com 只回 JS 殼，改用 Browser pane 取頁面文字"
+          },
+          "note": "引文為聯合報記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "陳國祥",
+          "role": "《新冷戰下的經濟棋局》作者（頁面未載職稱）",
+          "date": "2026-11-02",
+          "venue": "商周出版書摘，聯合新聞網轉載",
+          "quote": "半導體工程師年薪動輒百萬、甚至數百萬新臺幣，分紅與股票獎酬屢創新高；相對之下，餐飲、零售、觀光等內需服務業，薪資成長卻遠落後於通膨。",
+          "url": "https://udn.com/news/story/121591/9852018",
+          "source": {
+            "url": "https://udn.com/news/story/121591/9852018",
+            "title": "缺水缺電先保神山？股市創高只有工程師賺？全台陷荷蘭病…傳產服務淪次等公民（《新冷戰下的經濟棋局》書摘，作者陳國祥）",
+            "publisher": "聯合新聞網／商周出版",
+            "period": "2026-11-02 15:14",
+            "accessed": "2026-11-10",
+            "quote": "半導體工程師年薪動輒百萬、甚至數百萬新臺幣，分紅與股票獎酬屢創新高；相對之下，餐飲、零售、觀光等內需服務業，薪資成長卻遠落後於通膨。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "第一，理工人才高度集中於半導體產業，其他產業面臨「人才斷層」；第二，文法商科系學生也紛紛轉向科技業相關職位，形成跨領域的人才虹吸。"
+            ]
+          },
+          "extraQuotes": [
+            "第一，理工人才高度集中於半導體產業，其他產業面臨「人才斷層」；第二，文法商科系學生也紛紛轉向科技業相關職位，形成跨領域的人才虹吸。"
+          ],
+          "note": "書摘作者論述，未附統計出處；請對照 keyFacts 的主計總處數字。"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "谷月涵（Peter Kurz）",
+          "role": "聚界潔能（Alpha Ring）台灣董事長",
+          "date": "2026-03（演講）／2026-05-15（報導）",
+          "venue": "台北龍門扶輪社例會演講（財訊報導，Yahoo 轉載）",
+          "quote": "過去幾年半導體大量吸納各方人才及社會資源，不僅造成其他產業找人困難，還推升物價及薪資，產業發展失衡愈趨明顯",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%99%B6%E7%89%87%E7%9B%9B%E4%B8%96%E7%9A%84%E4%BB%A3%E5%83%B9-%E8%B0%B7%E6%9C%88%E6%B6%B5%E7%A4%BA%E8%AD%A6-%E8%8D%B7%E8%98%AD%E7%97%85-%E6%88%91%E5%80%91%E8%B3%BA%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E9%8C%A2-%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%9F%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%97%8E-022000568.html",
+          "source": {
+            "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%99%B6%E7%89%87%E7%9B%9B%E4%B8%96%E7%9A%84%E4%BB%A3%E5%83%B9-%E8%B0%B7%E6%9C%88%E6%B6%B5%E7%A4%BA%E8%AD%A6-%E8%8D%B7%E8%98%AD%E7%97%85-%E6%88%91%E5%80%91%E8%B3%BA%E5%88%B0%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E9%8C%A2-%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%9F%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%97%8E-022000568.html",
+            "title": "台灣晶片盛世的代價！谷月涵示警「荷蘭病」：我們賺到全世界的錢，老百姓真的幸福嗎？",
+            "publisher": "Yahoo新聞（記者劉煥彥）",
+            "period": "2026-05-15 10:20；演講日 2026 年 3 月中",
+            "accessed": "2026-11-10",
+            "quote": "過去幾年半導體大量吸納各方人才及社會資源，不僅造成其他產業找人困難，還推升物價及薪資，產業發展失衡愈趨明顯",
+            "kind": "secondary"
+          },
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "勞方：縮減工時與申報",
+          "speaker": "臺灣工人鬥陣總工會",
+          "role": "工會（機構）",
+          "date": "2025-10-08",
+          "venue": "臺灣工人鬥陣總工會要求政府訂定雇主申報縮減工時規範（TVBS 英文版報導，10/9）",
+          "quote": "Taiwan Workers' Labor Union (臺灣工人鬥陣總工會) demanded a day earlier that the government establish formal regulations requiring accurate employer reporting of reduced work hours",
+          "url": "https://news.tvbs.com.tw/english/3011416",
+          "source": {
+            "url": "https://news.tvbs.com.tw/english/3011416",
+            "title": "Labor minister warns on work hour cuts",
+            "publisher": "TVBS News（English）",
+            "period": "Release time 2025-10-09 10:53",
+            "accessed": "2026-11-10",
+            "quote": "Taiwan Workers' Labor Union (臺灣工人鬥陣總工會) demanded a day earlier that the government establish formal regulations requiring accurate employer reporting of reduced work hours",
+            "kind": "secondary"
+          },
+          "note": "這是美國關稅衝擊下「減班休息」（縮減工時、傳產為主）的勞方主張，不是科技業工時；放在這裡是為了對照科技業加班與傳產減班的兩端。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "洪申翰",
+          "role": "勞動部部長",
+          "date": "2025-10-09",
+          "venue": "立法院社福及衛環委員會前受訪（TVBS 英文版報導）",
+          "quote": "Taiwan's top labor official warned Thursday (Oct. 9) that companies reducing employee work hours without consent violate",
+          "url": "https://news.tvbs.com.tw/english/3011416",
+          "source": {
+            "url": "https://news.tvbs.com.tw/english/3011416",
+            "title": "Labor minister warns on work hour cuts",
+            "publisher": "TVBS News（English）",
+            "period": "Release time 2025-10-09 10:53",
+            "accessed": "2026-11-10",
+            "quote": "Taiwan's top labor official warned Thursday (Oct. 9) that companies reducing employee work hours without consent violate",
+            "kind": "secondary",
+            "extraQuotes": [
+              "U.S. tariff impacts affect 8,505 workers through reduced hours"
+            ]
+          },
+          "extraQuotes": [
+            "U.S. tariff impacts affect 8,505 workers through reduced hours"
+          ],
+          "note": "TVBS 英文轉述；「violate national labor law」接在下一行。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "Aaron Butler（巴特勒）",
+          "role": "亞利桑那州建築業工會（Arizona Building and Construction Trades Council）主席",
+          "date": "2023-12-07（協議宣布；報導日）",
+          "venue": "台積電亞利桑那廠與當地工會的勞資糾紛與協議（Taiwan News 綜合外媒與中央社）",
+          "quote": "公會主席巴特勒（Aaron Butler）對缺乏熟練工人的說法相當不滿，反批台積電引進台灣工人，意在對美國工人砍薪、解聘。",
+          "url": "https://www.taiwannews.com.tw/zh/news/5054353",
+          "source": {
+            "url": "https://www.taiwannews.com.tw/zh/news/5054353",
+            "title": "台積電與亞利桑那工會達成協議：視情況引進「專業經驗」外國勞工",
+            "publisher": "Taiwan News（綜合外媒與中央社）",
+            "period": "2023-12-07 11:04",
+            "accessed": "2026-11-10",
+            "quote": "公會主席巴特勒（Aaron Butler）對缺乏熟練工人的說法相當不滿，反批台積電引進台灣工人，意在對美國工人砍薪、解聘。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "巴特勒（Aaron Butler）指出：「今天的協議對亞利桑那州工人及台積電亞利桑那州子公司TSMC Arizona建廠時程來說，是一大勝利。」"
+            ]
+          },
+          "extraQuotes": [
+            "巴特勒（Aaron Butler）指出：「今天的協議對亞利桑那州工人及台積電亞利桑那州子公司TSMC Arizona建廠時程來說，是一大勝利。」"
+          ],
+          "note": "這是美國當地建築業工會，不是台灣勞團；為「台積電赴美勞動文化爭議」唯一取得原文的具名出處。2023 年事件。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "落差與排擠：薪資、人才、所得分配",
+          "speaker": "Moody's（經中央銀行新聞稿轉述）",
+          "role": "國際信評機構",
+          "date": "2026-06-03",
+          "venue": "Moody's 台灣主權信用評等報告（央行新聞稿轉述）",
+          "quote": "惟「科技業」與「傳產製造業及服務業」間的成長不均，以及人口老化帶來挑戰。",
+          "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/tw/cp-302-191342-ae94f-1.html",
+            "title": "穆迪信評公司（Moody’s）維持我國國家主權評等為Aa3，展望穩定，並肯定央行貨幣政策表現",
+            "publisher": "中央銀行（轉述 Moody’s 2026-06-03 報告）",
+            "period": "發布於 2026-06（Moody’s 報告日 2026-06-03）",
+            "accessed": "2026-11-10",
+            "quote": "惟「科技業」與「傳產製造業及服務業」間的成長不均，以及人口老化帶來挑戰。",
+            "kind": "primary",
+            "sourceNote": "評級機構原報告未取得，內容為央行新聞稿的轉述"
+          }
+        },
+        {
+          "side": "台灣科技業工會或勞團對工時、輪班的具名說法（含「台積電赴美勞動文化爭議」在台灣的勞團出處）",
+          "speaker": null,
+          "role": null,
+          "date": null,
+          "venue": null,
+          "quote": null,
+          "url": null,
+          "reason": "搜尋後未找到可取得全文的、台灣工會／勞團就科技業工時輪班的具名聲明；查到的美國亞利桑那工會（Butler，已列）、臺灣工人鬥陣總工會（關稅減班，已列）都不是這個題目。《Rest of World》報導菲律賓移工在台半導體廠 12 小時輪班等指控，經 BHRRC 轉載，但轉載頁的日期標示前後不一（2025/6/4、2025/6/30、2025/5/4），原文未取得，不採用。",
+          "tried": [
+            "WebSearch：台積電 亞利桑那 勞動文化 工會",
+            "WebSearch：台灣勞工陣線／台灣高科技產業工會 科技業 責任制",
+            "business-humanrights.org 頁面（日期不清）",
+            "ccu.edu.tw 轉載勞動部「科技業工會少」一文（404）"
+          ]
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "平均每月總工時（小時），2025（民國114年）初步值：製造業與服務業",
+          "value": {
+            "industry_total": 175.1,
+            "manufacturing_total": 176.7,
+            "manufacturing_regular": 159.5,
+            "manufacturing_overtime": 17.2,
+            "services_total": 164.6,
+            "unit": "小時/人/月"
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=2724&s=235863",
+            "title": "114年12月暨全年工業及服務業薪資統計結果（新聞稿與附表 1–16）",
+            "publisher": "行政院主計總處",
+            "period": "發布 2026-02-11 16:00；資料 2025 全年（初步值 Ⓟ）",
+            "accessed": "2026-11-10",
+            "quote": "raw/dgbas-wage-20261110-11412-表10.xlsx「114年Ⓟ」列（工業及服務業受僱員工每人每月總工時－按行業別分）",
+            "kind": "primary",
+            "sourceNote": "附表 xlsx 在 raw/dgbas-wage-20261110-11412-表N.xlsx；PDF 圖檔／文字見 raw/dgbas-wage-20261110-新聞稿11412.pdf"
+          },
+          "note": "數值由程式讀表 10「114年Ⓟ」列，欄位對照標題：工業合計、製造業小計、正常工時、加班工時、服務業合計（已核對標題）。口徑為「受僱員工每人每月總工時」。"
+        },
+        {
+          "fact": "2026 年 4 月：全體與製造業每人加班工時（小時）",
+          "value": {
+            "all_employees": 9.4,
+            "manufacturing": 18.5,
+            "manufacturing_Jan_Apr_avg": 17.6
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=2724&s=236356",
+            "title": "115年4月工業及服務業薪資統計結果（新聞稿）",
+            "publisher": "行政院主計總處",
+            "period": "發布 2026-06-12；資料 2026-04",
+            "accessed": "2026-11-10",
+            "quote": "4 月全體受僱員工加班工時平均為 9.4 小時，較上月、上年同月均增 0.4 小時，其中製造業為 18.5 小時",
+            "kind": "primary",
+            "sourceNote": "PDF：https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236356/1-薪資及生產力統計新聞稿11504.pdf；本機檔 raw/dgbas-wage-20261110-新聞稿11504.pdf"
+          },
+          "note": "主計總處新聞稿；1–4 月製造業平均每月加班 17.6 小時（同段後句）。"
+        },
+        {
+          "fact": "全年總薪資分布（萬元）2024（民國113年）",
+          "value": {
+            "median_all": 54.6,
+            "mean_all": 73.2,
+            "decile1": 33.0,
+            "decile9": 133.6,
+            "firms500plus_median": 80.2,
+            "firms4orLess_median": 39.5
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=3703&s=235514",
+            "title": "113年工業及服務業受僱員工全年總薪資中位數及分布統計結果",
+            "publisher": "行政院主計總處",
+            "period": "發布 2025-11-25；資料 2024 全年",
+            "accessed": "2026-11-10",
+            "quote": "第 1 十分位數為 33.0 萬元（亦即 10%受僱員工全年總薪資低於 33.0 萬元，其中多數為外籍移工與部分工時員工）",
+            "kind": "primary",
+            "sourceNote": "PDF：https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/235514/113年受僱員工薪資中位數統計結果新聞稿.pdf；本機檔 raw/dgbas-wage-20261110-113年全年總薪資中位數新聞稿-20251125.pdf。114 年版預定 2026-11-25 發布，目前（2026-11-10）尚未出"
+          },
+          "note": "主計總處註記：第 1 十分位以下多數為外籍移工與部分工時員工。平均數 73.2、中位數 54.6 見同新聞稿「全體受僱員工」列。"
+        },
+        {
+          "fact": "受僱員工人數（千人）2025 平均：製造業、電子零組件製造業、電腦電子及光學製品製造業、服務業、紡織業、金屬製品",
+          "value": {
+            "manufacturing": 2869,
+            "services": 5075,
+            "textiles": 83,
+            "metalProducts": 360,
+            "electronicComponents": 645,
+            "computerElectronicOptical": 250,
+            "textiles_2020": 99,
+            "unit": "千人"
+          },
+          "source": {
+            "url": "https://www.stat.gov.tw/News_Content.aspx?n=2724&s=235863",
+            "title": "114年12月暨全年工業及服務業薪資統計結果（新聞稿與附表 1–16）",
+            "publisher": "行政院主計總處",
+            "period": "發布 2026-02-11 16:00；資料 2025 全年（初步值 Ⓟ）",
+            "accessed": "2026-11-10",
+            "quote": "raw/dgbas-wage-20261110-11412-表11、表12.xlsx「114年Ⓟ」列",
+            "kind": "primary",
+            "sourceNote": "附表 xlsx 在 raw/dgbas-wage-20261110-11412-表N.xlsx；PDF 圖檔／文字見 raw/dgbas-wage-20261110-新聞稿11412.pdf"
+          },
+          "note": "由程式讀表 11（製造業、服務業合計）與表 12（紡織業、金屬製品、電子零組件、電腦電子及光學）114 年列；textiles_2020 為同表 109 年列。"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics-overseas",
+      "question": "「矽盾」與海外設廠是分散風險還是掏空",
+      "positions": [
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "賴清德",
+          "role": "總統",
+          "date": "2026-02-13",
+          "venue": "「因應台美簽署貿易協議新局」國安高層會議會後記者會",
+          "quote": "不管是台積電或其他產業，只要他的研發中心、先進製程、最大產量在台灣，台灣就能夠持續穩定的發展。",
+          "url": "https://news.tvbs.com.tw/politics/3127796",
+          "source": {
+            "url": "https://news.tvbs.com.tw/politics/3127796",
+            "title": "台積電已赴美投資1650億 賴清德：企業的自主決定",
+            "publisher": "TVBS 新聞網",
+            "period": "2026-02-13 12:44",
+            "accessed": "2026-11-10",
+            "quote": "不管是台積電或其他產業，只要他的研發中心、先進製程、最大產量在台灣，台灣就能夠持續穩定的發展。",
+            "kind": "secondary",
+            "sourceNote": "總統府原始新聞稿未取得",
+            "extraQuotes": [
+              "企業界到各國投資，是企業力量的延伸。政府尊重每一個企業自主的決定。"
+            ]
+          },
+          "extraQuotes": [
+            "企業界到各國投資，是企業力量的延伸。政府尊重每一個企業自主的決定。"
+          ],
+          "note": "引文為 TVBS 轉述總統談話；總統府原始稿未取得。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "賴清德",
+          "role": "總統",
+          "date": "2025-03-06",
+          "venue": "總統府記者會（與魏哲家共同說明）",
+          "quote": "賴清德表示，政府在台積電赴美投資的過程當中，並沒有接收到來自美國的壓力。",
+          "url": "https://news.pts.org.tw/article/740906",
+          "source": {
+            "url": "https://news.pts.org.tw/article/740906",
+            "title": "魏哲家返台說明台積在美千億投資 強調還要加速台灣進程",
+            "publisher": "公視新聞網 PNN",
+            "period": "2025-03-06 18:39",
+            "accessed": "2026-11-10",
+            "quote": "賴清德表示，政府在台積電赴美投資的過程當中，並沒有接收到來自美國的壓力。",
+            "kind": "secondary"
+          },
+          "note": "公視轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "魏哲家",
+          "role": "台積電董事長暨總裁",
+          "date": "2025-03-06",
+          "venue": "總統府記者會（公視新聞）",
+          "quote": "「所以台灣的計畫不只不會受影響，還要加速進行」",
+          "url": "https://news.pts.org.tw/article/740906",
+          "source": {
+            "url": "https://news.pts.org.tw/article/740906",
+            "title": "魏哲家返台說明台積在美千億投資 強調還要加速台灣進程",
+            "publisher": "公視新聞網 PNN",
+            "period": "2025-03-06 18:39",
+            "accessed": "2026-11-10",
+            "quote": "「所以台灣的計畫不只不會受影響，還要加速進行」",
+            "kind": "secondary"
+          },
+          "note": "直接引語出自公視報導的引號內；前文為記者轉述「擴大在美投資並不影響在台投資規劃」。台積電對外原始發言稿未取得。"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "魏哲家",
+          "role": "台積電董事長暨總裁",
+          "date": "2025-04-17",
+          "venue": "台積電第 1 季法說會（自由時報報導）",
+          "quote": "對於加碼投資美國，魏哲家就投資興建時程說明，預計6座廠完工與投入量產，2奈米及更先進製程將有約30%的產能來自美國亞利桑那州廠。",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5015476",
+          "source": {
+            "url": "https://ec.ltn.com.tw/article/breakingnews/5015476",
+            "title": "魏哲家：台積電將持續擴大在台灣投資",
+            "publisher": "自由時報（記者洪友芳）",
+            "period": "2025-04-17 20:27（台積電法說會當日）",
+            "accessed": "2026-11-10",
+            "quote": "對於加碼投資美國，魏哲家就投資興建時程說明，預計6座廠完工與投入量產，2奈米及更先進製程將有約30%的產能來自美國亞利桑那州廠。",
+            "kind": "secondary",
+            "sourceNote": "台積電法說會逐字稿（investor.tsmc.com）對自動化下載回 403，未取得；此為媒體轉述",
+            "extraQuotes": [
+              "台積電董事長暨總裁魏哲家再度宣示持續擴大在台灣投資，計劃在未來數年在台灣興建11座晶圓廠和4座先進封裝廠。"
+            ]
+          },
+          "extraQuotes": [
+            "台積電董事長暨總裁魏哲家再度宣示持續擴大在台灣投資，計劃在未來數年在台灣興建11座晶圓廠和4座先進封裝廠。"
+          ],
+          "note": "法說會逐字稿未取得（investor.tsmc.com 403），此為記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "童子賢",
+          "role": "和碩聯合科技董事長",
+          "date": "2025-03-07",
+          "venue": "風傳媒 11 週年社慶論壇",
+          "quote": "至於外界有一種論調，談到台積電投資美國就等於掏空台灣之說，童子賢直言那是太誇張的評論。",
+          "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+            "title": "台積電加碼美國 童子賢：不能活在一個人的武林（含施振榮談話）",
+            "publisher": "中央社（記者吳家豪）",
+            "period": "2025-03-07 15:31",
+            "accessed": "2026-11-10",
+            "quote": "至於外界有一種論調，談到台積電投資美國就等於掏空台灣之說，童子賢直言那是太誇張的評論。",
+            "kind": "secondary"
+          },
+          "note": "記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "施振榮",
+          "role": "宏碁創辦人（文中稱曾任台積電董事 20 年）",
+          "date": "2025-03-07",
+          "venue": "「掌握智慧醫材國際化的契機」座談會受訪",
+          "quote": "以他個人在台積電擔任20年董事所見，整個國際化是台灣國力的延伸，很明顯台灣的能量遠超過台灣這麼小的市場，在這麼小的地方，人力、土地、水電都沒有辦法支持台商的能量",
+          "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+          "source": {
+            "url": "https://www.cna.com.tw/news/afe/202503070178.aspx",
+            "title": "台積電加碼美國 童子賢：不能活在一個人的武林（含施振榮談話）",
+            "publisher": "中央社（記者吳家豪）",
+            "period": "2025-03-07 15:31",
+            "accessed": "2026-11-10",
+            "quote": "以他個人在台積電擔任20年董事所見，整個國際化是台灣國力的延伸，很明顯台灣的能量遠超過台灣這麼小的市場，在這麼小的地方，人力、土地、水電都沒有辦法支持台商的能量",
+            "kind": "secondary"
+          },
+          "note": "記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "政府與業界：全球布局是力量延伸，核心留台",
+          "speaker": "鄭麗君",
+          "role": "行政院副院長、台美關稅談判首席",
+          "date": "2025-10-01",
+          "venue": "返台後受訪（CNBC／Tom's Hardware 引中央社）",
+          "quote": "“This issue was not discussed in this round of negotiation, and we will not agree to such a condition,” Cheng said, according to the report.",
+          "url": "https://www.tomshardware.com/tech-industry/taiwan-refuses-to-move-half-of-u-s-bound-chip-production-to-american-shores-trade-discussion-to-be-focused-on-section-232-investigation-for-preferential-deal-on-semiconductors",
+          "source": {
+            "url": "https://www.tomshardware.com/tech-industry/taiwan-refuses-to-move-half-of-u-s-bound-chip-production-to-american-shores-trade-discussion-to-be-focused-on-section-232-investigation-for-preferential-deal-on-semiconductors",
+            "title": "Taiwan refuses to move half of U.S.-bound chip production to American shores",
+            "publisher": "Tom's Hardware（引中央社）",
+            "period": "2025-10-01/02",
+            "accessed": "2026-11-10",
+            "quote": "“This issue was not discussed in this round of negotiation, and we will not agree to such a condition,” Cheng said, according to the report.",
+            "kind": "secondary"
+          },
+          "note": "TVBS 英文版載行政院 10/2 簡報；此引文日期依 CNBC 寫「said on Wednesday」＝2025-10-01。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "質疑與施壓：矽盾被稀釋、被迫移產能",
+          "speaker": "Howard Lutnick",
+          "role": "美國商務部長",
+          "date": "2025-09-28",
+          "venue": "NewsNation 訪談（CNBC 9/30 報導）",
+          "quote": "“My objective, and this administration's objective, is to get chip manufacturing significantly onshored — we need to make our own chips,” Lutnick said. “The idea that I pitched [Taiwan] was, let's get to 50-50. We're producing half, and you're producing half.”",
+          "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
+          "source": {
+            "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
+            "title": "Taiwan should only produce half of America’s chips, says U.S. Commerce Chief",
+            "publisher": "CNBC",
+            "period": "Published 2025-09-30（引 NewsNation 訪談，播出日 2025-09-28 週日）",
+            "accessed": "2026-11-10",
+            "quote": "“My objective, and this administration's objective, is to get chip manufacturing significantly onshored — we need to make our own chips,” Lutnick said. “The idea that I pitched [Taiwan] was, let's get to 50-50. We're producing half, and you're producing half.”",
+            "kind": "secondary",
+            "sourceNote": "NewsNation 訪談逐字稿未取得；引語取自 CNBC 引述",
+            "extraQuotes": [
+              "“My argument to them was, well, if you have 95% [chip production], how am I going to get it to protect you? You're going to put it on a plane? You're going to put it on a boat?” Lutnick said."
+            ]
+          },
+          "extraQuotes": [
+            "“My argument to them was, well, if you have 95% [chip production], how am I going to get it to protect you? You're going to put it on a plane? You're going to put it on a boat?” Lutnick said."
+          ],
+          "note": "NewsNation 訪談逐字稿未取得，引語取自 CNBC 的引述；「95%」為 Lutnick 說法，本檔未獨立查證。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "質疑與施壓：矽盾被稀釋、被迫移產能",
+          "speaker": "朱立倫",
+          "role": "中國國民黨主席",
+          "date": "2025-09-29 至 10-02 間（CNBC 10/2 引中央社；確切發言日未查到）",
+          "venue": "回應盧特尼克「50-50」（CNBC 引述中央社）",
+          "quote": "“No one can sell out Taiwan or TSMC, and no one can undermine Taiwan's silicon shield,” Chu said",
+          "url": "https://www.cnbc.com/2025/10/02/taiwan-us-chip-production-tsmc-trade-tariffs.html",
+          "source": {
+            "url": "https://www.cnbc.com/2025/10/02/taiwan-us-chip-production-tsmc-trade-tariffs.html",
+            "title": "Taiwan rejects U.S. proposal for '50-50' chip production, says trade talks focused on tariffs",
+            "publisher": "CNBC（引中央社）",
+            "period": "Published 2025-10-02",
+            "accessed": "2026-11-10",
+            "quote": "“No one can sell out Taiwan or TSMC, and no one can undermine Taiwan's silicon shield,” Chu said",
+            "kind": "secondary",
+            "extraQuotes": [
+              "calling it “an act of exploitation and plunder,” according to the Central News Agency report."
+            ]
+          },
+          "extraQuotes": [
+            "calling it “an act of exploitation and plunder,” according to the Central News Agency report."
+          ],
+          "note": "CNBC 英文轉述中央社；原中文談話未取得。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "質疑與施壓：矽盾被稀釋、被迫移產能",
+          "speaker": "黃國昌",
+          "role": "台灣民眾黨主席",
+          "date": "2025-08-06",
+          "venue": "回應川普宣稱台積電將再投資美國（風傳媒）",
+          "quote": "台積電在開始談判以前，就已經去美國投資，現在連換來美方、川普的一封信都沒有，只有白宮片面發出的行政命令，讓全體國人非常擔心。",
+          "url": "https://www.storm.mg/article/11058269",
+          "source": {
+            "url": "https://www.storm.mg/article/11058269",
+            "title": "川普又對台積電獅子大開口 黃國昌嘆：談判前就投資，現在連一封信換不到",
+            "publisher": "風傳媒（羅立邦）",
+            "period": "2025-08-06（文中「今（6）日」，並提「8月7日中午前」）",
+            "accessed": "2026-11-10",
+            "quote": "台積電在開始談判以前，就已經去美國投資，現在連換來美方、川普的一封信都沒有，只有白宮片面發出的行政命令，讓全體國人非常擔心。",
+            "kind": "secondary",
+            "extraQuotes": [
+              "黃國昌表示，台積電身為台灣護國神山，是台灣最重要的產業，務必保護好相關先進製程，確保台灣競爭力"
+            ]
+          },
+          "extraQuotes": [
+            "黃國昌表示，台積電身為台灣護國神山，是台灣最重要的產業，務必保護好相關先進製程，確保台灣競爭力"
+          ],
+          "note": "黃國昌此段批評政府談判與透明度，並沒有使用「掏空」一詞；「掏空」說法的具名倡議者本檔未找到可取得原文者（見 NULL 項）。記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "質疑與施壓：矽盾被稀釋、被迫移產能",
+          "speaker": "劉佩真",
+          "role": "台灣經濟研究院（台經院）研究員",
+          "date": "2025-09-29",
+          "venue": "接受採訪談盧特尼克「50-50」與矽盾（Taipei Times 9/30）",
+          "quote": "This position indicates that the US is effectively redefining the “silicon shield” from being “Taiwan only” to a shared Taiwan-US resilience, she said.",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2025/09/30/2003844633",
+          "source": {
+            "url": "https://www.taipeitimes.com/News/taiwan/archives/2025/09/30/2003844633",
+            "title": "‘Silicon shield’ might shift to shared resilience with the US: expert",
+            "publisher": "Taipei Times（Staff writer, with CNA）",
+            "period": "2025-09-30",
+            "accessed": "2026-11-10",
+            "quote": "This position indicates that the US is effectively redefining the “silicon shield” from being “Taiwan only” to a shared Taiwan-US resilience, she said.",
+            "kind": "secondary",
+            "extraQuotes": [
+              "Washington could pressure Taiwan Semiconductor Manufacturing Co (TSMC) to speed up its construction of US fabs and expand investment in the US, she said, adding that other supply chain companies could face similar pressures."
+            ]
+          },
+          "extraQuotes": [
+            "Washington could pressure Taiwan Semiconductor Manufacturing Co (TSMC) to speed up its construction of US fabs and expand investment in the US, she said, adding that other supply chain companies could face similar pressures."
+          ],
+          "note": "Taipei Times 英文轉述（Staff writer, with CNA）；發言日依報導「yesterday」推為 2025-09-29（報導日 9/30）。學術機構分析，語氣中性。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "具名主張台積電赴美是「掏空」台灣的在野黨或學者原話",
+          "speaker": null,
+          "role": null,
+          "date": null,
+          "venue": null,
+          "quote": null,
+          "url": null,
+          "reason": "找到的最接近出處是黃國昌（質疑談判與透明度，未用「掏空」，已列）與朱立倫（批美方「exploitation and plunder」，已列）；童子賢的談話反映「掏空」論調存在但未點名倡議者。搜尋中看到的陸行之「美積電」專欄（wantrich 2025-03-04）curl 取不到內文，未採用。其他搜尋結果沒有可取得原文的具名「掏空」發言。",
+          "tried": [
+            "WebSearch：黃國昌 掏空",
+            "WebSearch：台積電 掏空台灣 質疑 教授 立委",
+            "wantrich.chinatimes.com（內文空）"
+          ]
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "台積電對美累計承諾投資（億美元）與本次加碼",
+          "value": {
+            "total_us_commitment_100M_usd": 1650,
+            "march2025_addition_100M_usd": 1000,
+            "addition_scope": "3座新晶圓廠、2座先進封裝廠、1座研發團隊中心"
+          },
+          "source": {
+            "url": "https://www.nownews.com/news/6655519",
+            "title": "台積電加碼赴美！賴清德、魏哲家記者會說了什麼？重點一文全掌握",
+            "publisher": "NOWnews 今日新聞",
+            "period": "2025-03-06",
+            "accessed": "2026-11-10",
+            "quote": "宣布台積電將加碼投資美國1000億美元，用於興建3座新晶圓廠、2座先進封裝廠及1座研發團隊中心，使其在美國的總投資額提升至1650億美元",
+            "kind": "secondary"
+          },
+          "note": "NOWnews 轉述；原始為 2025-03-03 白宮記者會。"
+        },
+        {
+          "fact": "台美貿易協定：台灣企業自主投資美國金額與台積電已達金額",
+          "value": {
+            "taiwan_firms_pledge_100M_usd": 2500,
+            "tsmc_total_100M_usd": 1650
+          },
+          "source": {
+            "url": "https://news.tvbs.com.tw/politics/3127796",
+            "title": "台積電已赴美投資1650億 賴清德：企業的自主決定",
+            "publisher": "TVBS 新聞網",
+            "period": "2026-02-13 12:44",
+            "accessed": "2026-11-10",
+            "quote": "台美貿易協定（ART）在美東時間12日正式簽署，對於台灣企業將自主投資美國2500億美元（約新台幣7兆9057億元），其中台積電的總投資已達1650億美元",
+            "kind": "secondary",
+            "sourceNote": "總統府原始新聞稿未取得"
+          },
+          "note": "協定簽署日 2026-02-12（美東）；TVBS 轉述，協定原文未取得。"
+        },
+        {
+          "fact": "2 奈米及更先進製程產能來自亞利桑那的預期比重",
+          "value": {
+            "arizona_share_pct": 30
+          },
+          "source": {
+            "url": "https://ec.ltn.com.tw/article/breakingnews/5015476",
+            "title": "魏哲家：台積電將持續擴大在台灣投資",
+            "publisher": "自由時報（記者洪友芳）",
+            "period": "2025-04-17 20:27（台積電法說會當日）",
+            "accessed": "2026-11-10",
+            "quote": "2奈米及更先進製程將有約30%的產能來自美國亞利桑那州廠",
+            "kind": "secondary",
+            "sourceNote": "台積電法說會逐字稿（investor.tsmc.com）對自動化下載回 403，未取得；此為媒體轉述"
+          },
+          "note": "魏哲家 2025-04-17 法說會（記者轉述）；是「預期」，非現況。"
+        },
+        {
+          "fact": "研發人員：台灣 vs 美國研發中心（魏哲家）",
+          "value": {
+            "taiwan_rd_staff": 10000,
+            "us_rd_center_staff": 1000
+          },
+          "source": {
+            "url": "https://news.pts.org.tw/article/740906",
+            "title": "魏哲家返台說明台積在美千億投資 強調還要加速台灣進程",
+            "publisher": "公視新聞網 PNN",
+            "period": "2025-03-06 18:39",
+            "accessed": "2026-11-10",
+            "quote": "而與美國規模1000人的研發中心對比，台灣目前則擁有1萬名研發人員。",
+            "kind": "secondary"
+          },
+          "note": "公視記者轉述；2025-03-06。"
+        }
+      ]
+    },
+    {
+      "id": "sme-and-old-economy",
+      "question": "傳統產業與中小企業在 AI 行情與美國關稅下的處境（「K 型」）",
+      "positions": [
+        {
+          "side": "處境吃緊：缺工、關稅、出口與薪資",
+          "speaker": "楊芳益",
+          "role": "台灣螺絲工業同業公會總幹事",
+          "date": "2026-05-09",
+          "venue": "民進黨「2026縣市長政策說明會」高雄場後與產業界座談（聯合報報導）",
+          "quote": "傳統產業薪資成長追不上物價漲幅，薪水不高，希望政府提供政策配套，包括補助企業加薪、資金挹注、協助改善缺工，以及放寬外籍移工政策等，協助產業度過人力斷層危機。",
+          "url": "https://udn.com/news/story/7238/9492511",
+          "source": {
+            "url": "https://udn.com/news/story/7238/9492511",
+            "title": "傳產缺工衝擊接單…螺絲、製造業苦 鄭麗君：研議成立南部推動小組",
+            "publisher": "聯合報／聯合新聞網（記者郭韋綺）",
+            "period": "2026-05-09 18:11",
+            "accessed": "2026-11-10",
+            "quote": "傳統產業薪資成長追不上物價漲幅，薪水不高，希望政府提供政策配套，包括補助企業加薪、資金挹注、協助改善缺工，以及放寬外籍移工政策等，協助產業度過人力斷層危機。",
+            "kind": "secondary",
+            "sourceNote": "curl 對 udn.com 只回 JS 殼，改用 Browser pane 取頁面文字",
+            "extraQuotes": [
+              "楊芳益說，缺工並非短時間能改善，只能先透過引進外籍人力支撐產線需求，政府也允諾會盡快開放移工來台，並協助媒合人力資源。"
+            ]
+          },
+          "extraQuotes": [
+            "楊芳益說，缺工並非短時間能改善，只能先透過引進外籍人力支撐產線需求，政府也允諾會盡快開放移工來台，並協助媒合人力資源。"
+          ],
+          "note": "前句為記者敘述傳產業界訴求，後句為楊芳益談話的轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "處境吃緊：缺工、關稅、出口與薪資",
+          "speaker": "陳紳騰",
+          "role": "台灣工具機暨零組件工業同業公會（TMBA）理事長",
+          "date": "2026-01-20",
+          "venue": "TMBA「TMTS 2026 暨工具機產業展望」記者會",
+          "quote": "像是 2025 年工具機出口產值滑落 10%，但同期進口設備卻成長 16%，對產業是一項警訊",
+          "url": "https://finance.technews.tw/2026/01/20/tmts-2026/",
+          "source": {
+            "url": "https://finance.technews.tw/2026/01/20/tmts-2026/",
+            "title": "台灣關稅降至 15% 大利多！工具機理事長陳紳騰喊出口美國成長 8%",
+            "publisher": "TechNews 科技新報",
+            "period": "2026-01-20（TMBA「TMTS 2026 暨工具機產業展望」）",
+            "accessed": "2026-11-10",
+            "quote": "像是 2025 年工具機出口產值滑落 10%，但同期進口設備卻成長 16%，對產業是一項警訊",
+            "kind": "secondary",
+            "extraQuotes": [
+              "陳紳騰表示，台美對等關稅協議正式拍板，台灣工具機產值與出口獲利將在 2026 年全面甦醒。"
+            ]
+          },
+          "extraQuotes": [
+            "陳紳騰表示，台美對等關稅協議正式拍板，台灣工具機產值與出口獲利將在 2026 年全面甦醒。"
+          ],
+          "note": "記者轉述。同場他對關稅降至 15% 持正面看法，所以此人在兩邊都有話。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "處境吃緊：缺工、關稅、出口與薪資",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料 前言",
+          "quote": "相對而言，當前傳統製造業則面臨中國大陸低價傾銷及美國關稅政策等嚴峻挑戰，導致出口及產值等表現與電子資通訊製造業出現分歧走勢，惟此現象並非台灣獨有，南韓與日本亦面臨相似的情境。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "相對而言，當前傳統製造業則面臨中國大陸低價傾銷及美國關稅政策等嚴峻挑戰，導致出口及產值等表現與電子資通訊製造業出現分歧走勢，惟此現象並非台灣獨有，南韓與日本亦面臨相似的情境。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          }
+        },
+        {
+          "side": "處境吃緊：缺工、關稅、出口與薪資",
+          "speaker": "臺灣工人鬥陣總工會／勞動部",
+          "role": "工會；勞動部",
+          "date": "2025-10-08/09",
+          "venue": "美國關稅下減班休息（TVBS 英文版報導）",
+          "quote": "Minister Hung Sun-han (洪申翰) made the announcement as U.S. tariff impacts affect 8,505 workers through reduced hours",
+          "url": "https://news.tvbs.com.tw/english/3011416",
+          "source": {
+            "url": "https://news.tvbs.com.tw/english/3011416",
+            "title": "Labor minister warns on work hour cuts",
+            "publisher": "TVBS News（English）",
+            "period": "Release time 2025-10-09 10:53",
+            "accessed": "2026-11-10",
+            "quote": "Minister Hung Sun-han (洪申翰) made the announcement as U.S. tariff impacts affect 8,505 workers through reduced hours",
+            "kind": "secondary"
+          },
+          "note": "勞動部統計為 2025 年 9 月下旬數字（TVBS 轉述）。",
+          "quoteType": "二手轉述"
+        },
+        {
+          "side": "仍有韌性、政策挺住、景氣回溫",
+          "speaker": "經濟部",
+          "role": "經濟部（機構）；發言人：中小及新創企業署戴副署長",
+          "date": "2025-12-26",
+          "venue": "《2025中小企業白皮書》發布記者會新聞稿",
+          "quote": "2024年我國中小企業整體發展呈現穩健向上的正向趨勢，持續扮演穩定國家經濟的關鍵角色。",
+          "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=121491",
+          "source": {
+            "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=121491",
+            "title": "《2025中小企業白皮書》發布 中小企業扮演臺灣經濟發展關鍵角色",
+            "publisher": "經濟部（供稿：中小及新創企業署）",
+            "period": "2025-12-26 15:45；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "2024年我國中小企業整體發展呈現穩健向上的正向趨勢，持續扮演穩定國家經濟的關鍵角色。",
+            "kind": "primary",
+            "sourceNote": "curl／WebFetch 對 moea.gov.tw 回 403，改用 Browser pane 取頁面文字"
+          }
+        },
+        {
+          "side": "仍有韌性、政策挺住、景氣回溫",
+          "speaker": "經濟部中小及新創企業署",
+          "role": "經濟部（機構）；發言人：戴副署長",
+          "date": "2026-09-10",
+          "venue": "行政院第 4020 次院會「支持及壯大中小微企業方案」專案報告",
+          "quote": "預計於未來8年內，由政府加碼投入1,000億元預算撥入「中小微企業轉型升級發展基金」，建立長期、穩定且具制度性的支持體系。",
+          "url": "https://www.sme.gov.tw/article-tw-2276-15109",
+          "source": {
+            "url": "https://www.sme.gov.tw/article-tw-2276-15109",
+            "title": "經濟部推動「支持及壯大中小微企業方案」 8年千億預算全力挺百業",
+            "publisher": "經濟部中小及新創企業署",
+            "period": "2026-09-10",
+            "accessed": "2026-11-10",
+            "quote": "預計於未來8年內，由政府加碼投入1,000億元預算撥入「中小微企業轉型升級發展基金」，建立長期、穩定且具制度性的支持體系。",
+            "kind": "primary",
+            "extraQuotes": [
+              "智慧機械、人工智慧、數位及淨零轉型設備抵減門檻，相較於產業創新條例的100萬元大幅調降至25萬元",
+              "「員工加薪租稅優惠」的加成減除率，也從原有的 175%提高至200%"
+            ]
+          },
+          "extraQuotes": [
+            "智慧機械、人工智慧、數位及淨零轉型設備抵減門檻，相較於產業創新條例的100萬元大幅調降至25萬元",
+            "「員工加薪租稅優惠」的加成減除率，也從原有的 175%提高至200%"
+          ]
+        },
+        {
+          "side": "仍有韌性、政策挺住、景氣回溫",
+          "speaker": "中央銀行",
+          "role": "中華民國中央銀行（機構）",
+          "date": "2026-06-18",
+          "venue": "央行理監事會後記者會參考資料 前言",
+          "quote": "面對激烈的國際競爭，台灣多數傳統製造業並未出現萎縮或競爭力下滑的疑慮，而持續投入研發經費與增購機器設備，積極朝生產製程優化與產品高值化轉型，帶動其附加價值率長期持續走升。",
+          "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "面對激烈的國際競爭，台灣多數傳統製造業並未出現萎縮或競爭力下滑的疑慮，而持續投入研發經費與增購機器設備，積極朝生產製程優化與產品高值化轉型，帶動其附加價值率長期持續走升。",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          }
+        },
+        {
+          "side": "仍有韌性、政策挺住、景氣回溫",
+          "speaker": "龔明鑫",
+          "role": "經濟部部長",
+          "date": "2025-11-20",
+          "venue": "立法院經濟委員會前媒體聯訪",
+          "quote": "他強調，高科技產業如同經濟發展的火車頭，其產生的技術外溢效應與龐大需求，正好能為機械、材料等傳統產業帶來轉型升級的動力。",
+          "url": "https://uanalyze.com.tw/articles/5502839467",
+          "source": {
+            "url": "https://uanalyze.com.tw/articles/5502839467",
+            "title": "再駁「台灣病」！龔明鑫：半導體是拉動轉型火車頭 高科技紅利將擴散至百工百業",
+            "publisher": "優分析 UAnalyze",
+            "period": "2025-11-20 09:06",
+            "accessed": "2026-11-10",
+            "quote": "他強調，高科技產業如同經濟發展的火車頭，其產生的技術外溢效應與龐大需求，正好能為機械、材料等傳統產業帶來轉型升級的動力。",
+            "kind": "secondary",
+            "sourceNote": "經濟部原始新聞稿未取得；內文為記者轉述，非直接引語"
+          },
+          "note": "記者轉述。",
+          "quoteType": "媒體轉述"
+        },
+        {
+          "side": "紡織業公會（紡拓會、紡織業同業公會）對 AI 行情與關稅的具名原話",
+          "speaker": null,
+          "role": null,
+          "date": null,
+          "venue": null,
+          "quote": null,
+          "url": null,
+          "reason": "搜尋顯示紡拓會秘書長黃偉基 2025-10 有談關稅與大陸低價競爭（wantrich 2025-10-02），但該頁 curl 取不到內文，未能逐字核對，不採用；沒有其他可取得原文的紡織公會具名談話。",
+          "tried": [
+            "WebSearch：紡織公會 理事長 關稅 無薪假",
+            "wantrich.chinatimes.com 20251002900180（內文空）"
+          ]
+        }
+      ],
+      "keyFacts": [
+        {
+          "fact": "中小企業家數與占全體企業比重（2024）",
+          "value": {
+            "count": 1715528,
+            "share_of_all_firms_pct": 98.87,
+            "yoy_pct": 2.48,
+            "press_rounding": "超過171.5萬家（經濟部新聞稿 2025-12-26）；171.6萬家、98.9%（中企署 2026-09-10 新聞稿）"
+          },
+          "source": {
+            "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=121491",
+            "title": "《2025中小企業白皮書》發布 中小企業扮演臺灣經濟發展關鍵角色",
+            "publisher": "經濟部（供稿：中小及新創企業署）",
+            "period": "2025-12-26 15:45；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "中小企業家數超過171.5萬家，占全體企業達98%以上",
+            "kind": "primary",
+            "sourceNote": "curl／WebFetch 對 moea.gov.tw 回 403，改用 Browser pane 取頁面文字"
+          },
+          "note": "recoveredBy：白皮書 PDF 第 125 頁表 3-1-3 text layer 為「1,633,788 1,674,061 1,715,528 / 98.90 98.88 98.87 / 2.38 2.47 2.48」（2022–2024；中文標籤缺），與新聞稿「超過171.5萬家、占98%以上」吻合，採 1,715,528 與 98.87%（年增 2.48%）。"
+        },
+        {
+          "fact": "中小企業就業人數與占全國就業比重（2024）",
+          "value": {
+            "employed_10k": 919.4,
+            "share_pct": 79.29,
+            "yoy_pct": 0.29
+          },
+          "source": {
+            "url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=121491",
+            "title": "《2025中小企業白皮書》發布 中小企業扮演臺灣經濟發展關鍵角色",
+            "publisher": "經濟部（供稿：中小及新創企業署）",
+            "period": "2025-12-26 15:45；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "吸納約919.4萬就業人口，提供全國近8成就業機會",
+            "kind": "primary",
+            "sourceNote": "curl／WebFetch 對 moea.gov.tw 回 403，改用 Browser pane 取頁面文字"
+          },
+          "note": "recoveredBy：白皮書 PDF 第 120 頁 text layer「2024 919 4 2024 1,159 5 9194 79.29% … 0.29%」（919.4 萬 ÷ 全體 1,159.5 萬 ＝ 79.29%；中文標籤缺，與新聞稿「近8成」吻合）。"
+        },
+        {
+          "fact": "中小企業銷售額（2024）與占全體企業銷售額比重",
+          "value": {
+            "sales_trillion_ntd": 31.1,
+            "sales_million_ntd": 31075170,
+            "share_of_all_firms_pct": 51.99,
+            "yoy_pct": 8.05
+          },
+          "source": {
+            "url": "https://www.sme.gov.tw/article-tw-2345-13928",
+            "title": "2025年中小企業白皮書(PDF檔)（PDF：/files/13928/EB0374F3-F6B7-48DB-8B4A-614F60A095F4）；2025中小企業白皮書發布記者會簡報（/files/13860/3F500370-49B1-4C2D-ADA7-EBA03D5D8248）",
+            "publisher": "經濟部中小及新創企業署",
+            "period": "發布 2025-12-26；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "總銷售額逾 31.1 兆元，年增率達 8.05%",
+            "kind": "primary",
+            "sourceNote": "白皮書 PDF 的 CJK 字體無 Unicode 對應，text layer 只剩數字；數字以記者會簡報與新聞稿中文敘述交叉對照後使用"
+          },
+          "note": "簡報第 4 頁原句；占比 51.99% 取自白皮書第 125 頁 text layer「28,592,007 28,760,346 31,075,170 / 51.58 52.66 51.99 / 7.41 0.59 8.05」，與新聞稿「占整體企業銷售額比重達5成以上」吻合。"
+        },
+        {
+          "fact": "中小企業內銷與出口（2024）",
+          "value": {
+            "domestic_trillion_ntd": 27.9,
+            "domestic_yoy_pct": 8.32,
+            "export_trillion_ntd": 3.2,
+            "export_million_ntd": 3193376,
+            "export_share_of_all_firms_exports_pct": 22.11,
+            "export_share_of_sme_sales_pct": 10.28,
+            "export_yoy_pct": 5.78,
+            "share_of_all_exports_change_pp": -1.41
+          },
+          "source": {
+            "url": "https://www.sme.gov.tw/article-tw-2345-13928",
+            "title": "2025年中小企業白皮書(PDF檔)（PDF：/files/13928/EB0374F3-F6B7-48DB-8B4A-614F60A095F4）；2025中小企業白皮書發布記者會簡報（/files/13860/3F500370-49B1-4C2D-ADA7-EBA03D5D8248）",
+            "publisher": "經濟部中小及新創企業署",
+            "period": "發布 2025-12-26；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "內銷金額 27.9 兆元  出口金額   3.2 兆元",
+            "kind": "primary",
+            "sourceNote": "白皮書 PDF 的 CJK 字體無 Unicode 對應，text layer 只剩數字；數字以記者會簡報與新聞稿中文敘述交叉對照後使用"
+          },
+          "note": "簡報第 4 頁原句；出口 3,193,376（百萬元）、占全體企業出口 22.11%（較上年 −1.41 個百分點，連續下降）、占中小企業銷售額 10.28%，取自白皮書第 125 頁 text layer「3,607,244 3,019,024 3,193,376 / 24.60 23.52 22.11 / 12.62 10.50 10.28 / 7.33 -16.31 5.78 … 22.11% 1.41」，數字順序與簡報「出口金額 3.2 兆元」吻合；欄位名稱（占全體出口、占自身銷售）由數字位置與 2022→2024 趨勢推得，非標籤直讀，引用時請以白皮書原頁為準。"
+        },
+        {
+          "fact": "政府支持方案官方金額：8 年 1,000 億元",
+          "value": {
+            "budget_100M_ntd": 1000,
+            "years": 8,
+            "vehicle": "中小微企業轉型升級發展基金",
+            "announced": "2026-09-10 行政院院會"
+          },
+          "source": {
+            "url": "https://www.sme.gov.tw/article-tw-2276-15109",
+            "title": "經濟部推動「支持及壯大中小微企業方案」 8年千億預算全力挺百業",
+            "publisher": "經濟部中小及新創企業署",
+            "period": "2026-09-10",
+            "accessed": "2026-11-10",
+            "quote": "預計於未來8年內，由政府加碼投入1,000億元預算撥入「中小微企業轉型升級發展基金」，建立長期、穩定且具制度性的支持體系。",
+            "kind": "primary"
+          }
+        },
+        {
+          "fact": "信保額外額度與稅抵減（記者會簡報）",
+          "value": {
+            "extraCreditGuarantee_max_10k_ntd": 3500,
+            "wageRaiseTaxDeductionRate_pct": {
+              "proposed": 200,
+              "existing": 175
+            }
+          },
+          "source": {
+            "url": "https://www.sme.gov.tw/article-tw-2345-13928",
+            "title": "2025年中小企業白皮書(PDF檔)（PDF：/files/13928/EB0374F3-F6B7-48DB-8B4A-614F60A095F4）；2025中小企業白皮書發布記者會簡報（/files/13860/3F500370-49B1-4C2D-ADA7-EBA03D5D8248）",
+            "publisher": "經濟部中小及新創企業署",
+            "period": "發布 2025-12-26；資料年 2024",
+            "accessed": "2026-11-10",
+            "quote": "額外提供同一企業  最高 3,500 萬元",
+            "kind": "primary",
+            "sourceNote": "白皮書 PDF 的 CJK 字體無 Unicode 對應，text layer 只剩數字；數字以記者會簡報與新聞稿中文敘述交叉對照後使用"
+          },
+          "note": "簡報第 9 頁；員工加薪租稅優惠加成減除率 175% → 200%，亦見 2026-09-10 新聞稿。"
+        },
+        {
+          "fact": "傳統製造業 vs 電子資通訊製造業產值（兆元）2017 → 2024",
+          "value": {
+            "electronicIct": {
+              "y2017": 7.35,
+              "y2024": 11.84
+            },
+            "traditional": {
+              "y2017": 12.36,
+              "y2024": 13.74
+            }
+          },
+          "source": {
+            "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+            "title": "四、當前台灣產業發展之探討（115年6月18日央行理監事會後記者會參考資料）",
+            "publisher": "中央銀行",
+            "period": "發布日 2026-06-18（PDF 後加註 6/24 收到葉萬安來函後增修）；資料至 2026-05",
+            "accessed": "2026-11-10",
+            "quote": "2017 年至 2024 年電子資通訊製造業產值複合成長 7.0%，成長幅度大於傳統製造業之 1.6%",
+            "kind": "primary",
+            "sourceNote": "本機檔 raw/cbc-industry-20261110-當前台灣產業發展之探討-20260618.pdf；pdftotext -layout 的欄位會與圖表文字交錯，比對時忽略空白"
+          },
+          "note": "表 4 數字見 pdftotext 版面（7.35／12.36／11.84／13.74 兆元；占比 37.3／62.7／46.3／53.7%）。"
+        },
+        {
+          "fact": "「傳產各公協會」對政府「千億」方案的具名評價（例如三三會、工總）",
+          "value": null,
+          "reason": "搜尋到「三三會林伯豐籲先與企業界充分溝通」的聯合報標題，但頁面取不到；不採用。"
+        }
+      ]
+    }
+  ]
+}

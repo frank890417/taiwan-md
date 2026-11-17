@@ -1,0 +1,200 @@
+---
+/**
+ * topics-index.template.astro — /topics/ 專題總覽（13 語共用）。
+ *
+ * 資料：src/data/topics/*.json（src/utils/topics/registry.ts）。
+ * 文案：src/i18n/topics.ts（zh-TW、en、ja 完整，其他語言退到 en 並標 noindex）。
+ * 登記檔一份都沒有時：noindex，照實顯示「專題陸續上線」，不列任何假專題。
+ * 結構化資料：有專題時走 Layout 的 collectionItems（SEO.astro 輸出 CollectionPage）。
+ */
+import '../styles/topics-foundation.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { topicsUiLang, useTopicsT } from '../i18n/topics';
+import {
+  getTopics,
+  latestUpdated,
+  localizePath,
+  pickText,
+} from '../utils/topics/registry';
+import { absoluteUrl } from '../utils/tools/jsonld';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTopicsT(lang);
+const topics = getTopics();
+const isEmpty = topics.length === 0;
+// 介面字串沒有該語言版本（zh-TW、en、ja 以外）的總覽頁只是英文重複頁，不收錄。
+const uiTranslated = topicsUiLang(lang) === lang;
+const toolCount = topics.reduce((n, topic) => n + topic.tools.length, 0);
+
+const description = isEmpty
+  ? t('topics.meta.description.empty')
+  : t('topics.meta.description', { n: topics.length });
+const collectionItems = topics.map((topic) => ({
+  name: pickText(topic.title, lang),
+  url: absoluteUrl(localizePath(topic.path, lang)),
+}));
+---
+
+<Layout
+  lang={lang}
+  title={t('topics.meta.title')}
+  description={description}
+  noindex={isEmpty || !uiTranslated}
+  dateModified={latestUpdated(topics) || undefined}
+  collectionItems={collectionItems}
+  readerSettings={true}
+>
+  <div class="tf-surface tf-index" data-tf-index="topics">
+    <PageHero
+      title={t('topics.hero.title')}
+      subtitle={t('topics.hero.subtitle')}
+      titleSize="clamp"
+      padding="compact"
+    />
+
+    <div class="tf-wrap">
+      {
+        isEmpty ? (
+          <div class="tf-empty" data-tf-empty>
+            <h2 class="tf-empty-title">{t('topics.empty.title')}</h2>
+            <p class="tf-empty-body">{t('topics.empty.body')}</p>
+          </div>
+        ) : (
+          <ul class="tf-grid">
+            {topics.map((topic) => (
+              <li>
+                <a class="tf-card" href={localizePath(topic.path, lang)}>
+                  <h2 class="tf-card-title">
+                    {topic.emoji && (
+                      <span class="tf-card-emoji" aria-hidden="true">
+                        {topic.emoji}
+                      </span>
+                    )}
+                    {pickText(topic.title, lang)}
+                  </h2>
+                  <p class="tf-card-desc">
+                    {pickText(topic.description, lang)}
+                  </p>
+                  <p class="tf-card-meta">
+                    {topic.subpages.length > 0 && (
+                      <span>
+                        {t('topics.card.subpages', {
+                          n: topic.subpages.length,
+                        })}
+                      </span>
+                    )}
+                    {topic.tools.length > 0 && (
+                      <span>
+                        {t('topics.card.tools', { n: topic.tools.length })}
+                      </span>
+                    )}
+                    {topic.updated && (
+                      <time datetime={topic.updated}>
+                        {t('topics.card.updated', { date: topic.updated })}
+                      </time>
+                    )}
+                  </p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+
+      {
+        toolCount > 0 && (
+          <p class="tf-index-more">
+            <a href={localizePath('/tools/', lang)}>{t('topics.toolsLink')}</a>
+          </p>
+        )
+      }
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .tf-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tf-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1.25rem 1.35rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    color: var(--color-ink);
+    text-decoration: none;
+    box-shadow: var(--shadow-soft);
+  }
+  .tf-card:hover,
+  .tf-card:focus-visible {
+    border-color: var(--color-accent);
+  }
+  .tf-card-title {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1.4;
+    letter-spacing: 0;
+  }
+  .tf-card-emoji {
+    margin-inline-end: 0.4em;
+  }
+  .tf-card-desc {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .tf-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem 0.9rem;
+    margin: auto 0 0;
+    padding-top: 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 0.78rem;
+    color: var(--color-ink-soft);
+  }
+  .tf-empty {
+    max-width: 36rem;
+    margin: 0 auto;
+    padding: var(--space-6) 1.25rem;
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius-chip);
+    text-align: center;
+  }
+  .tf-empty-title {
+    margin: 0 0 0.4rem;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--color-ink);
+  }
+  .tf-empty-body {
+    margin: 0;
+    color: var(--color-ink-soft);
+    line-height: 1.75;
+  }
+  .tf-index-more {
+    margin: var(--space-5) 0 0;
+    text-align: center;
+    font-size: 0.92rem;
+  }
+  .tf-index-more a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+</style>

@@ -1,0 +1,107 @@
+---
+/**
+ * IncomeToolPage — income 專題四個工具「單獨網址頁」的共用組裝（包住地基的 ToolPage）。
+ *
+ * 各工具的模板只給 slug（登記檔）與 ns（i18n 命名空間，例 'tax'），工具本體放 default slot。
+ * 頁面文案全部取自 src/i18n/income/tool-<ns>.ts 的 income.<ns>.page.* 與 .disclaimer：
+ *   metaTitle／metaDescription／intro／reading／method／sources、
+ *   source1..8.label＋.url、faq1..6.q＋.a。
+ */
+import type { Lang } from '../../config/languages';
+import ToolPage from '../tools/ToolPage.astro';
+import ToolFrame from '../tools/ToolFrame.astro';
+import { useIncomeT } from '../../i18n/income';
+import { getTopic, localizePath, pickText } from '../../utils/topics/registry';
+
+export interface Props {
+  lang: Lang;
+  slug: string;
+  ns: string;
+  embedHeight?: number;
+}
+
+const { lang, slug, ns, embedHeight } = Astro.props;
+const t = useIncomeT(lang);
+const topic = getTopic('income')!;
+const tool = topic.tools.find((x) => x.slug === slug)!;
+const k = (suffix: string) => `income.${ns}.${suffix}`;
+const has = (suffix: string) => t(k(suffix)) !== k(suffix);
+const paras = (suffix: string) =>
+  has(suffix)
+    ? t(k(suffix))
+        .split('\n')
+        .map((s) => s.trim())
+        .filter(Boolean)
+    : [];
+
+const faq = [1, 2, 3, 4, 5, 6]
+  .filter((n) => has(`page.faq${n}.q`) && has(`page.faq${n}.a`))
+  .map((n) => ({ q: t(k(`page.faq${n}.q`)), a: t(k(`page.faq${n}.a`)) }));
+const sources = [1, 2, 3, 4, 5, 6, 7, 8]
+  .filter((n) => has(`page.source${n}.label`) && has(`page.source${n}.url`))
+  .map((n) => ({
+    label: t(k(`page.source${n}.label`)),
+    url: t(k(`page.source${n}.url`)),
+  }));
+const reading = paras('page.reading');
+const method = paras('page.method');
+
+// 相關頁面：同專題的其他工具，再加總預算頁（稅收進國庫之後）
+const related = [
+  ...topic.tools
+    .filter((x) => x.slug !== slug)
+    .map((x) => ({
+      href: localizePath(x.path, lang),
+      label: pickText(x.title, lang),
+    })),
+  { href: localizePath('/budget/', lang), label: t('income.related.budget') },
+];
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={{ ...tool, applicationCategory: 'FinanceApplication' }}
+  metaTitle={t(k('page.metaTitle'))}
+  metaDescription={t(k('page.metaDescription'))}
+  howItWorks={has('page.intro') ? t(k('page.intro')) : undefined}
+  faq={faq}
+  related={related}
+  updated={topic.updated}
+  embedPath={tool.embedPath}
+  embedHeight={embedHeight}
+>
+  <ToolFrame
+    title={pickText(tool.title, lang)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    <slot />
+    <p slot="disclaimer">{t(k('disclaimer'))}</p>
+    <p slot="sources">{t(k('sourcesLine'))}</p>
+  </ToolFrame>
+  <Fragment slot="reading">
+    {reading.map((p) => <p>{p}</p>)}
+  </Fragment>
+  <Fragment slot="method">
+    {method.map((p) => <p>{p}</p>)}
+  </Fragment>
+  <Fragment slot="sources">
+    {has('page.sources') && <p>{t(k('page.sources'))}</p>}
+    {
+      sources.length > 0 && (
+        <ul>
+          {sources.map((s) => (
+            <li>
+              <a href={s.url} target="_blank" rel="noopener">
+                {s.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </Fragment>
+  <p slot="disclaimer">{t(k('disclaimer'))}</p>
+</ToolPage>

@@ -1,0 +1,73 @@
+---
+/**
+ * QinganOpen：5.10 還沒有答案的問題（openQuestions 全列）與資料來源表（sources 全列：機關、文件、連結）。
+ * openQuestions 只有中文，英文版用 EN_DATA.open（依序對應）。
+ */
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { DATA, agencyName, fmtPeriod } from '../../../utils/housing/data';
+import { isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.open;
+const q: any = DATA.qingan;
+const questions: string[] = isZh(lang)
+  ? q.openQuestions
+  : q.openQuestions.map((x: string, i: number) => EN_DATA.open[i] ?? x);
+const sources = Object.entries(q.sources) as [string, any][];
+---
+
+<section class="hs-section" id="open">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <h3 class="hs-h3">{S.qTitle}</h3>
+    <ul class="hs-nodata-list">
+      {questions.map((x) => <li>{x}</li>)}
+    </ul>
+    <h3 class="hs-h3">{S.sTitle}</h3>
+    <div class="hs-rt-wrap">
+      <table class="hs-rt hs-rt-src2">
+        <thead>
+          <tr>
+            <th scope="col">{S.cols.agency}</th>
+            <th scope="col">{S.cols.title}</th>
+            <th scope="col">{S.cols.kind}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            sources.map(([_key, s]) => (
+              <tr>
+                <th scope="row" data-label={S.cols.agency}>
+                  {agencyName(s.agency, lang)}
+                </th>
+                <td data-label={S.cols.title}>
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener"
+                    class="no-external-icon"
+                    lang="zh-TW"
+                  >
+                    {s.title}
+                  </a>
+                </td>
+                <td data-label={S.cols.kind}>
+                  {(S.kinds as any)[s.kind] ?? s.kind}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="hs-fine">
+      {fill(S.checked, { date: fmtPeriod(q.retrieved, lang) })}
+    </p>
+  </div>
+</section>

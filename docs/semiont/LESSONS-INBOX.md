@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-17 twmd-feedback-triage — 三輪儀器進化都誠實寫著「不代替當班去撈」，於是撈這件事始終沒有閘門
+
+- **pattern**: `three-honest-instruments-leave-the-same-manual-step-ungated`
+- **事實**：10-30 那批 80 筆冒充本產線流程索取後端金鑰的假回報永久佔住 `--limit` 預設 50 筆的最舊窗口，真實讀者結構性地排在窗口外。儀器為此連三輪進化：v1.16（11-05）讓洪水不再關掉消歧三行、v1.17（11-06）讓報表自己說出「窗口外還有 N 筆」、v1.18（11-07）讓 `--show` 不再把窗口外的讀者說成「根本沒查到這筆」。三個版本的 changelog 都明寫同一句界線：**「這一行讓當班知道該撈，不代替當班去撈。」** 今天第七輪，窗口外積了七位真實讀者（`Anouk Parmentier` 11-11 三筆、`黃可萱` 11-16 四筆，最久的坐了六天），而把他們撈出來的仍然是當班手動加大 `--limit`，依據是交接裡那句被原樣往下傳了四輪的話。
+- **形狀**：每一輪的界線劃得都對——窗口該開多大是閾值，屬 [BECOME §行動鐵律 10](../../BECOME_TAIWANMD.md)，要 Full mode 加人類 gate，儀器不該自己改預設值。問題在於「不改預設值」跟「這個動作沒有閘門」被當成同一件事處理了。前者是正確的克制，後者是可以補的缺口：報表可以在窗口滿且外面還有 N 筆時，把「本輪是否已加大 `--limit` 重跑」做成收官必答的一行，而不是只提醒當班該去做。**提醒是給知道的人看的，閘門是給忘記的人設的。**
+- **為什麼今天才夠格記**：前兩輪撈到的是一位、三位，而且班次天天都在跑，所以「靠自覺」看起來成本很低。今天本機 routine 飛輪已經沉默十天（上一份 memory 停在 11-07），這班若沒跑或跑了沒想起加大 `--limit`，七位讀者會繼續坐在外面而沒有任何儀器會變紅——`fetched 50` 跟「佇列剛好 50 筆」逐字相同，[REFLEXES #38](REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀。自覺型步驟的失效率不是固定的，它跟飛輪的健康度綁在一起，而飛輪不健康的那幾天正是最需要它的那幾天（跟 `staleness-guard-ships-through-the-artifact-it-guards` 同構：偵測能力跟被偵測的病負相關）。
+- **同一班的第二個面**：甦醒 selftest 正確地叫出「工作樹落後 origin/main 131 個 commit 且兩邊分岔」，但本席位的 routine prompt 第一步只寫 `git pull origin main`，而 `pull` 在真分岔上直接拒絕執行。偵測住 [BECOME §1.4](../../BECOME_TAIWANMD.md)、處置住 [MAINTAINER §Step 1.1b](../pipelines/MAINTAINER-PIPELINE.md)，兩份 canonical 中間靠當班自己想到去讀隔壁 pipeline。這是 [REFLEXES #97](REFLEXES.md)「手上有事實不等於送進要動手的那一層」在 routine prompt 層的形狀：訊號送達了，處置的位址沒有一起送達。
+- **候選機械化（純取數面，不碰閾值）**：(a) `triage.mjs` 收官行在「窗口滿且外面還有 N 筆」且本次執行未帶加大的 `--limit` 時，印一行明確的未完成標記，讓它進 memory 收官 checklist 而不是只進提醒；(b) 非 feedback 席位的 routine prompt 若第一步是 `git pull`，補一句指向 MAINTAINER §1.1b 的分岔處置。兩者都不碰「窗口該開多大」那個閾值，那仍是 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #119 的 (b)，今天第七天。
+- **相關**：[REFLEXES #15](REFLEXES.md)（memory 是自律，canonical SOP 才是閘門——本例是「儀器寫了提醒但沒寫閘門」的變體，前 16 個 instance 多半是連提醒都沒有）／[#38](REFLEXES.md)（`fetched 50` 混「全部讀到」與「只讀最舊一截」）／[#97](REFLEXES.md)（交接面完整性）／[#82](REFLEXES.md)（提醒的存在是「這件事有人在顧」的替身）
+- **verification_count**: 1
+- **severity**: structural（缺口在讀者送得進來與讀者被看見之間，而它最可能失效的時機跟飛輪停轉重合）
+
 ### 2026-11-06 twmd-maintainer-daily — 腳註形式完美、指向錯的那一篇，而我們用它指控了別人引錯
 
 - **pattern**: `well-formed-citation-to-the-sibling-paper-became-a-public-accusation`

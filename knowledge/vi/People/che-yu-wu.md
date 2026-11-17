@@ -20,9 +20,9 @@ tags:
 subcategory: '新媒體藝術'
 author: 'Taiwan.md Contributors'
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-08-09T11:16:34+08:00'
 featured: true
 lastVerified: 2026-04-20
@@ -244,8 +244,6 @@ Giữa không hoàn toàn không làm âm nhạc. Lớp hai mươi anh lọn và
 Hai mươi năm sau, Spotify xuất hiện tên anh. Sáu bài đàn piano: Blue Horizon, Stars, StarTrack, Bờ Kia Của Giấc Mơ, Bò Rừng Và Mưa Bất Ngờ, Di Cư Hè[^34].
 
 Anh không tái "học" đàn piano. Những ấy một lúc ở trong cơ thể, chỉ bị bụi phủ hai mươi năm. Khi anh tái ngồi trước phím, ngón tay nhớ không phải kỹ năng, là cậu bé sáu tuổi bắt đầu chạm nốt nhạc ấy.
-
-**Code sẽ lỗi thời, đàn piano sẽ không.**
 
 2025 năm 6 tháng, không gian bao quanh Hoa Sơn Công Viên Sáng Tạo, "Thơ Thuật Toán: Ranh Giới Giữa Giấc Mơ Và Cô Độc" khai diễn. Anh ngồi trước đàn piano, code nở hoa phía sau[^36].
 

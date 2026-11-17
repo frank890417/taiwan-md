@@ -186,7 +186,8 @@ gh pr view N --json maintainerCanModify -q .maintainerCanModify   # true = 可�
 
 merge-first-then-heal 的 heal 步驟**必含** frontmatter 查證狀態設定（設計 canonical：[reports/design-curation-tier-2026-08-04.md](../../reports/design-curation-tier-2026-08-04.md)）：
 
-- **新 merged 貢獻文章 → `curation: incubating`**（文章頁顯示 🌱 進化中說明條＋讀者參與入口；不進 featured 與首頁精選——`curation-tag.py` 會同時把 `featured: true` 改 false，互斥由 `article-health --check=curation-consistency` 看守）
+- **新 merged 貢獻文章 → `curation: incubating`**（文章頁顯示 🌱 進化中說明條＋讀者參與入口；新進站預設不進 featured 與首頁精選——`curation-tag.py` 預設會同時把 `featured: true` 改 false）
+- **精選文章也可以是「進化中」（2026-11-17 哲宇拍板，issue #1995）**：進化中與 featured 不再互斥，curation-consistency 已拿掉那條 HARD。新進站投稿仍照上一條預設 featured: false；既有精選補標時用 `curation-tag.py --keep-featured`，首頁與分類頁的精選不受影響。
 - **轉正**：文章走完 REWRITE Evolution 深度 / FACTCHECK Full mode 後 → `curation: verified` **同時** `lastHumanReview: true`（兩欄一起動，lint 有 warn 看守）
 - 🔎 徽章只認 `curation: verified` 顯式值，**不從 lastHumanReview 推導**（早期低標準的 true 會變假保證）
 - 工具：`python3 scripts/tools/curation-tag.py --set incubating knowledge/... --apply`
@@ -376,6 +377,8 @@ auditRef: 'reports/research/YYYY-MM/{slug}.md'
 - 對非 contributor 的第三方（媒體、其他專案）之任何留言
 
 **分層判準一句話**：留言內容若只是「已發生之事實＋感謝」→ 自主；若替 Taiwan.md **許諾未來或代表立場** → reserve。拿不準 → reserve 進 handoff。
+
+**公開留言不准把決定或規則歸給哲宇（2026-11-17 哲宇 callout）**：reserve 是維護流程對內的處置，對外只能寫成「維護流程把這件事保留下來／還沒處理」。「這要由哲宇本人決定」「哲宇規定 X」這類句子，只有在能附上一筆既有紀錄時才准寫：OBSERVER-QUEUE §已決的 #N、或本檔與 EDITORIAL 裡標明「哲宇 YYYY-MM-DD 拍板」的判例，並附連結。保留之前先查判例：同一類稿件常常已經有拍板過的收法（例：選舉年候選人頁 → §人物文章知名度門檻的 #104 判例，照收、守五條）。誕生案例：11-16 維護班在 PR #1982／#1983／#1995 公開寫「選前要不要新增候選人頁由哲宇本人決定」，哲宇沒說過，而且跟他 10-20 拍板的 #104 相反；11-06／11-07 兩班對 #1963 也寫過「要等哲宇判斷」「超出維護者權限」。為候選人寫人物頁本身不等於政治立場判斷，照 #104 審即可。
 
 **判例：投稿者以 Taiwan.md 第一人稱寫的自述文（哲宇 2026-09-05 拍板）**：`knowledge/About/` 只收 Taiwan.md 自己（或哲宇）第一人稱講「我是什麼」的自述，這個位置本身就是對外語氣定調，屬上面 reserve 清單。投稿者對 Taiwan.md 的觀察、期許、未來想像即使內容正確、即使跟 MANIFESTO 信念方向一致，執筆的仍是投稿者本人，這類稿件不進 About/，close 並說明這條界線；材料本身值得保留時，建議投稿者改用具名身分發表成貢獻者觀點。誕生案例：〈Taiwan.md 不是什麼〉（PR #1407，2026-08-18）、〈Taiwan-md 的未來〉（PR #1411，2026-08-18）。
 

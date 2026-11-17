@@ -1,0 +1,215 @@
+{
+  "asOf": "2026-11-10",
+  "tracks": {
+    "nhi": {
+      "zh": "健保",
+      "en": "NHI"
+    },
+    "ltc": {
+      "zh": "長照",
+      "en": "Long-term care"
+    },
+    "end": {
+      "zh": "安寧與自主",
+      "en": "End of life"
+    },
+    "work": {
+      "zh": "人力",
+      "en": "Workforce"
+    }
+  },
+  "events": [
+    {
+      "date": "1950",
+      "track": "nhi",
+      "zh": "勞工保險開辦，受僱勞工有了第一個社會保險。",
+      "en": "Labour Insurance begins, the first social insurance for employed workers.",
+      "url": "https://www.mol.gov.tw/1607/1632/1640/18966/",
+      "key": false
+    },
+    {
+      "date": "1958-01-29",
+      "track": "nhi",
+      "zh": "《公務人員保險法》公布。",
+      "en": "The Civil Servants Insurance Act is promulgated.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0070001",
+      "key": false
+    },
+    {
+      "date": "1989-06-23",
+      "track": "nhi",
+      "zh": "《農民健康保險條例》公布。",
+      "en": "The Farmers Health Insurance Act is promulgated.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0050084",
+      "key": false
+    },
+    {
+      "date": "1994-08-09",
+      "track": "nhi",
+      "zh": "《全民健康保險法》公布。",
+      "en": "The National Health Insurance Act is promulgated.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0060001",
+      "key": true
+    },
+    {
+      "date": "1995-03-01",
+      "track": "nhi",
+      "zh": "全民健保開辦，費率 4.25%。",
+      "en": "National Health Insurance begins at a 4.25% premium rate.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0060001",
+      "key": true
+    },
+    {
+      "date": "2000-06-07",
+      "track": "end",
+      "zh": "《安寧緩和醫療條例》公布施行。",
+      "en": "The Hospice Palliative Care Act takes effect.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0020066",
+      "key": false
+    },
+    {
+      "date": "2002-09",
+      "track": "nhi",
+      "zh": "費率調到 4.55%。",
+      "en": "The premium rate rises to 4.55%.",
+      "url": "https://media.nhi.gov.tw/md/dl-51894-9eb2e73944774f9bb537d544a83115af-3.pdf",
+      "key": false
+    },
+    {
+      "date": "2004-01",
+      "track": "nhi",
+      "zh": "健保 IC 卡全面上線。",
+      "en": "NHI smart cards are fully rolled out.",
+      "url": "https://mohw.gov.tw/cp-17-43191-1.html",
+      "key": false
+    },
+    {
+      "date": "2007",
+      "track": "ltc",
+      "zh": "行政院核定「長期照顧十年計畫」（長照 1.0）。",
+      "en": "The Executive Yuan approves the Ten-Year Long-Term Care Plan (1.0).",
+      "url": "https://www.mohw.gov.tw/dl-78115-5511ccc0-cae0-4d16-b729-6d0e16228fb5.html",
+      "key": false
+    },
+    {
+      "date": "2010-04-01",
+      "track": "nhi",
+      "zh": "費率由 4.55% 調到 5.17%。",
+      "en": "The premium rate rises from 4.55% to 5.17%.",
+      "url": "https://mohw.gov.tw/cp-16-57420-1.html",
+      "key": false
+    },
+    {
+      "date": "2013-01-01",
+      "track": "nhi",
+      "zh": "二代健保施行，開徵補充保費；一般費率降為 4.91%。",
+      "en": "Second-generation NHI adds a supplementary premium; the general rate falls to 4.91%.",
+      "url": "https://media.nhi.gov.tw/md/dl-51894-9eb2e73944774f9bb537d544a83115af-3.pdf",
+      "key": true
+    },
+    {
+      "date": "2015-06-03",
+      "track": "ltc",
+      "zh": "《長期照顧服務法》公布，兩年後施行。",
+      "en": "The Long-Term Care Services Act is promulgated, effective two years later.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0070040",
+      "key": false
+    },
+    {
+      "date": "2016-01-06",
+      "track": "end",
+      "zh": "《病人自主權利法》公布，三年後施行。",
+      "en": "The Patient Right to Autonomy Act is promulgated, effective three years later.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0020189",
+      "key": false
+    },
+    {
+      "date": "2016-12-26",
+      "track": "ltc",
+      "zh": "行政院核定長照 2.0（2017 到 2026 年）。",
+      "en": "The Executive Yuan approves long-term care 2.0 (2017 to 2026).",
+      "url": "https://www.mohw.gov.tw/dl-98526-31ea7422-1b07-414b-a2a4-51e38c070ee4.html",
+      "key": true
+    },
+    {
+      "date": "2017-06-03",
+      "track": "ltc",
+      "zh": "《長期照顧服務法》施行，設置長照服務發展基金。",
+      "en": "The Long-Term Care Services Act takes effect and the care fund is set up.",
+      "url": "https://www.mohw.gov.tw/dl-98526-31ea7422-1b07-414b-a2a4-51e38c070ee4.html",
+      "key": false
+    },
+    {
+      "date": "2019-01-06",
+      "track": "end",
+      "zh": "《病人自主權利法》施行，可以預立醫療決定。",
+      "en": "The Patient Right to Autonomy Act takes effect; advance decisions become possible.",
+      "url": "https://dep.mohw.gov.tw/DOMA/fp-997-73103-106.html",
+      "key": false
+    },
+    {
+      "date": "2021-01-01",
+      "track": "nhi",
+      "zh": "費率調回 5.17%，補充保費 2.11%。",
+      "en": "The premium rate returns to 5.17%; the supplementary rate is 2.11%.",
+      "url": "https://mohw.gov.tw/cp-16-57420-1.html",
+      "key": false
+    },
+    {
+      "date": "2023-07-01",
+      "track": "nhi",
+      "zh": "部分負擔新制：調整急診與門診藥品部分負擔。",
+      "en": "New copayments for emergency care and outpatient drugs.",
+      "url": "https://mohw.gov.tw/cp-2704-75054-1.html",
+      "key": false
+    },
+    {
+      "date": "2024-03-01",
+      "track": "work",
+      "zh": "三班護病比標準實施。",
+      "en": "Three-shift nurse-to-patient standards take effect.",
+      "url": "https://mohw.gov.tw/cp-16-77368-1.html",
+      "key": false
+    },
+    {
+      "date": "2024-07-16",
+      "track": "nhi",
+      "zh": "立法院主決議：2025 年 6 月底前平均點值達 0.95 元。",
+      "en": "Legislative resolution: an average point value of NT$0.95 by end-June 2025.",
+      "url": "https://mohw.gov.tw/cp-2704-79372-1.html",
+      "key": false
+    },
+    {
+      "date": "2025-12",
+      "track": "ltc",
+      "zh": "65 歲以上人口達 20.06%，進入超高齡社會；行政院 12 月 31 日核定長照 3.0。",
+      "en": "People 65 and over reach 20.06%; the Executive Yuan approves long-term care 3.0 on 31 December.",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=335870",
+      "key": true
+    },
+    {
+      "date": "2026-01-01",
+      "track": "ltc",
+      "zh": "長照 3.0 上路：失智症不限年齡，住宿式機構補助提高。",
+      "en": "Long-term care 3.0 begins: dementia at any age, a higher residential subsidy.",
+      "url": "https://www.mohw.gov.tw/cp-18-82814-1.html",
+      "key": true
+    },
+    {
+      "date": "2026-05-15",
+      "track": "work",
+      "zh": "《醫療法》修正公布，三班護病比入法並訂罰則。",
+      "en": "The amended Medical Care Act writes nurse ratios into law with fines.",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0020021",
+      "key": false
+    },
+    {
+      "date": "2026-09-30",
+      "track": "nhi",
+      "zh": "健保會公布 2027 年度總額協商結果 1 兆 434 億元，首次破兆。",
+      "en": "The negotiated 2027 global budget is NT$1.0434 trillion, the first above NT$1 trillion.",
+      "url": "https://www.mohw.gov.tw/dl-102883-881a723b-8777-46a8-9912-280aa756ebc9.html",
+      "key": false
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+---
+/**
+ * health-acp.template.astro — /health/advance-care-planning/ 安寧與預立醫療決定流程指南。
+ * 條文與數字出處見 src/i18n/health/acp.ts 檔頭；結構化資料 FAQPage＋BreadcrumbList。
+ */
+import '../styles/budget.css';
+import '../styles/health.css';
+import '../styles/topics-foundation.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import ToolCards from '../components/health/ToolCards.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
+import { healthPath } from '../i18n/health';
+import { acp as copyAll } from '../i18n/health/acp';
+import { healthCtx } from '../utils/health/pageContext';
+import { rich, source } from '../utils/health/sources';
+
+const lang = getLangFromUrl(Astro.url);
+const { t, zh, topic, wan, nf } = healthCtx(lang);
+const c = copyAll[zh ? 'zh' : 'en'];
+const A = topic.acp;
+const dateZh = (s: string) => {
+  const [y, m, d] = s.split('-').map(Number);
+  return zh ? `${y} 年 ${m} 月 ${d} 日` : s;
+};
+const vars = {
+  asOf: topic.asOf,
+  statAsOf: dateZh(A.asOf),
+  hospice: wan(A.hospiceTotal),
+  ad: wan(A.adTotal),
+  sites: A.acpSites,
+  points: nf(A.acpPoints),
+  acpSince: dateZh(A.acpSince),
+  acpExpand: dateZh(A.acpExpand),
+  reach: zh ? '180 萬人' : '1.8 million people',
+};
+const r = (s: string) => rich(s, vars);
+const plain = (s: string) =>
+  Object.entries(vars).reduce(
+    (a, [k, v]) => a.split(`{${k}}`).join(String(v)),
+    s.replace(/\[\[[\w.]+\]\]/g, ''),
+  );
+const srcKeys = ['acpStats', 'acpNhi', 'pra', 'hospiceLaw'];
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: c.faq.map((q) => ({
+      '@type': 'Question',
+      name: q.q,
+      acceptedAnswer: { '@type': 'Answer', text: q.a },
+    })),
+  },
+];
+---
+
+<Layout
+  lang={lang}
+  title={c.title}
+  description={plain(c.description)}
+  readerSettings={true}
+  noindex={!isTopicTranslated(getTopic('health'), lang)}
+>
+  <main class="budget-page health-page tf-surface min-h-screen">
+    <nav class="hea-crumb" aria-label="breadcrumb">
+      <a href={healthPath(lang)}>← {t('hub.name')}</a>
+    </nav>
+    <PageHero
+      eyebrow={c.eyebrow}
+      title={c.h1}
+      titleSize="clamp"
+      containerWidth="wide"
+    />
+    <TopicNav lang={lang} topic="health" />
+    <section class="bp-section" id="tool">
+      <div class="bp-wrap">
+        <p class="bp-lede" set:html={r(c.lead)} />
+        <h2 class="bp-h2">{c.stepsH}</h2>
+        <ol class="hea-steps">
+          {
+            c.steps.map(([h, p]) => (
+              <li>
+                <h4>{h}</h4>
+                <p set:html={r(p)} />
+              </li>
+            ))
+          }
+        </ol>
+        <aside class="hea-disclaimer" role="note">
+          <b>{c.disclaimerH}</b>
+          {c.disclaimer}
+        </aside>
+      </div>
+    </section>
+    <section class="bp-section" id="compare">
+      <div class="bp-wrap">
+        <h2 class="bp-h2">{c.cmpH}</h2>
+        <div class="bp-tbl-wrap">
+          <table class="hea-rows hea-cmp">
+            <thead>
+              <tr>{c.cmp[0].map((h) => <th>{h}</th>)}</tr>
+            </thead>
+            <tbody>
+              {
+                c.cmp.slice(1).map((row) => (
+                  <tr>
+                    <th scope="row">{row[0]}</th>
+                    <td>{row[1]}</td>
+                    <td>{row[2]}</td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+        <p class="bg-chart-src" set:html={r(c.cmpSrc)} />
+        <h2 class="bp-h2" style="margin-top:var(--space-6)">{c.condH}</h2>
+        <div class="bp-prose">
+          <ol>{c.cond.map((x) => <li>{x}</li>)}</ol>
+        </div>
+        <p class="bp-note">{c.condNote}</p>
+        <h2 class="bp-h2" style="margin-top:var(--space-6)">{c.costH}</h2>
+        <div class="bp-prose">
+          <ul>{c.cost.map((x) => <li set:html={r(x)} />)}</ul>
+        </div>
+      </div>
+    </section>
+    <section class="bp-section" id="faq">
+      <div class="bp-wrap">
+        <h2 class="bp-h2">{c.faqH}</h2>
+        <div class="hea-faq">
+          {
+            c.faq.map((q) => (
+              <details>
+                <summary>{q.q}</summary>
+                <p>{q.a}</p>
+              </details>
+            ))
+          }
+        </div>
+        <h3 class="bp-h3">{c.srcH}</h3>
+        <ol class="hea-fnlist">
+          {
+            srcKeys.map((k) => {
+              const s = source(k);
+              return (
+                <li id={`src-${s.n}`} value={s.n}>
+                  <a href={s.url} target="_blank" rel="noopener">
+                    {s.title}
+                  </a>
+                  （{s.date}）
+                </li>
+              );
+            })
+          }
+        </ol>
+        <p class="bg-chart-src">{t('asof')}{topic.asOf}</p>
+        <h3 class="bp-h3">{t('tool.more.h')}</h3>
+        <ToolCards lang={lang} />
+        <TopicCrossLinks lang={lang} currentId="health" />
+      </div>
+    </section>
+  </main>
+  {
+    jsonld.map((j) => (
+      <script type="application/ld+json" set:html={JSON.stringify(j)} />
+    ))
+  }
+</Layout>

@@ -1,0 +1,1072 @@
+{
+  "name": "gdp-structure",
+  "accessed": "2026-11-10",
+  "threeSectors": {
+    "1951": {
+      "agriculture": 32.42,
+      "industry": 19.85,
+      "services": 47.72,
+      "manufacturing": 13.8,
+      "gdp_production_side_million_twd": 12327,
+      "sector_million_twd": {
+        "agriculture": 3997,
+        "industry": 2447,
+        "services": 5883,
+        "manufacturing": 1701
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1951年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1951年欄：「總    計(生產面)」12327、「農  業」3997、「工  業」2447、「服務業」5883、「3.製造業」1701"
+      }
+    },
+    "1955": {
+      "agriculture": 29.44,
+      "industry": 21.74,
+      "services": 48.82,
+      "manufacturing": 14.65,
+      "gdp_production_side_million_twd": 30163,
+      "sector_million_twd": {
+        "agriculture": 8880,
+        "industry": 6556,
+        "services": 14727,
+        "manufacturing": 4420
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1955年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1955年欄：「總    計(生產面)」30163、「農  業」8880、「工  業」6556、「服務業」14727、「3.製造業」4420"
+      }
+    },
+    "1960": {
+      "agriculture": 29.09,
+      "industry": 25.37,
+      "services": 45.53,
+      "manufacturing": 18.07,
+      "gdp_production_side_million_twd": 63394,
+      "sector_million_twd": {
+        "agriculture": 18442,
+        "industry": 16086,
+        "services": 28866,
+        "manufacturing": 11454
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1960年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1960年欄：「總    計(生產面)」63394、「農  業」18442、「工  業」16086、「服務業」28866、「3.製造業」11454"
+      }
+    },
+    "1965": {
+      "agriculture": 24.67,
+      "industry": 29.19,
+      "services": 46.14,
+      "manufacturing": 21.57,
+      "gdp_production_side_million_twd": 114762,
+      "sector_million_twd": {
+        "agriculture": 28313,
+        "industry": 33496,
+        "services": 52953,
+        "manufacturing": 24758
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1965年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1965年欄：「總    計(生產面)」114762、「農  業」28313、「工  業」33496、「服務業」52953、「3.製造業」24758"
+      }
+    },
+    "1970": {
+      "agriculture": 16.29,
+      "industry": 35.75,
+      "services": 47.96,
+      "manufacturing": 28.38,
+      "gdp_production_side_million_twd": 231397,
+      "sector_million_twd": {
+        "agriculture": 37693,
+        "industry": 82723,
+        "services": 110981,
+        "manufacturing": 65677
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1970年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1970年欄：「總    計(生產面)」231397、「農  業」37693、「工  業」82723、「服務業」110981、「3.製造業」65677"
+      }
+    },
+    "1975": {
+      "agriculture": 13.06,
+      "industry": 38.76,
+      "services": 48.18,
+      "manufacturing": 30.01,
+      "gdp_production_side_million_twd": 601778,
+      "sector_million_twd": {
+        "agriculture": 78594,
+        "industry": 233273,
+        "services": 289911,
+        "manufacturing": 180592
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1975年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1975年欄：「總    計(生產面)」601778、「農  業」78594、「工  業」233273、「服務業」289911、「3.製造業」180592"
+      }
+    },
+    "1980": {
+      "agriculture": 7.82,
+      "industry": 43.72,
+      "services": 48.46,
+      "manufacturing": 34.52,
+      "gdp_production_side_million_twd": 1522495,
+      "sector_million_twd": {
+        "agriculture": 119075,
+        "industry": 665686,
+        "services": 737734,
+        "manufacturing": 525568
+      },
+      "basis": "computed = 各業生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「1951~1980」國內各業生產毛額(2008SNA)(當期價格，1951年～1980年)",
+        "publisher": "行政院主計總處",
+        "period": "1980年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2026/8/14；單位：新臺幣百萬元；1980年欄：「總    計(生產面)」1522495、「農  業」119075、「工  業」665686、「服務業」737734、「3.製造業」525568"
+      }
+    },
+    "1985": {
+      "agriculture": 5.71,
+      "industry": 44.73,
+      "services": 49.56,
+      "manufacturing": 35.11,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "1985年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；1985年欄：「C 製造業」35.11、補充項目「農      業」5.71、「工      業」44.73、「服  務  業」49.56"
+      }
+    },
+    "1990": {
+      "agriculture": 4,
+      "industry": 39.22,
+      "services": 56.78,
+      "manufacturing": 31.1,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "1990年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；1990年欄：「C 製造業」31.1、補充項目「農      業」4、「工      業」39.22、「服  務  業」56.78"
+      }
+    },
+    "1995": {
+      "agriculture": 3.31,
+      "industry": 33.62,
+      "services": 63.06,
+      "manufacturing": 25.53,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "1995年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；1995年欄：「C 製造業」25.53、補充項目「農      業」3.31、「工      業」33.62、「服  務  業」63.06"
+      }
+    },
+    "2000": {
+      "agriculture": 2.02,
+      "industry": 30.94,
+      "services": 67.05,
+      "manufacturing": 25.25,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2000年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2000年欄：「C 製造業」25.25、補充項目「農      業」2.02、「工      業」30.94、「服  務  業」67.05"
+      }
+    },
+    "2005": {
+      "agriculture": 1.64,
+      "industry": 31.76,
+      "services": 66.6,
+      "manufacturing": 27.22,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2005年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2005年欄：「C 製造業」27.22、補充項目「農      業」1.64、「工      業」31.76、「服  務  業」66.6"
+      }
+    },
+    "2010": {
+      "agriculture": 1.61,
+      "industry": 33.39,
+      "services": 65,
+      "manufacturing": 28.67,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2010年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2010年欄：「C 製造業」28.67、補充項目「農      業」1.61、「工      業」33.39、「服  務  業」65"
+      }
+    },
+    "2015": {
+      "agriculture": 1.76,
+      "industry": 36.29,
+      "services": 61.95,
+      "manufacturing": 31.42,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2015年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2015年欄：「C 製造業」31.42、補充項目「農      業」1.76、「工      業」36.29、「服  務  業」61.95"
+      }
+    },
+    "2016": {
+      "agriculture": 1.87,
+      "industry": 36.87,
+      "services": 61.27,
+      "manufacturing": 32.22,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2016年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2016年欄：「C 製造業」32.22、補充項目「農      業」1.87、「工      業」36.87、「服  務  業」61.27"
+      }
+    },
+    "2017": {
+      "agriculture": 1.83,
+      "industry": 37.23,
+      "services": 60.94,
+      "manufacturing": 32.97,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2017年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2017年欄：「C 製造業」32.97、補充項目「農      業」1.83、「工      業」37.23、「服  務  業」60.94"
+      }
+    },
+    "2018": {
+      "agriculture": 1.7,
+      "industry": 37.12,
+      "services": 61.18,
+      "manufacturing": 33.02,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2018年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2018年欄：「C 製造業」33.02、補充項目「農      業」1.7、「工      業」37.12、「服  務  業」61.18"
+      }
+    },
+    "2019": {
+      "agriculture": 1.7,
+      "industry": 36.63,
+      "services": 61.67,
+      "manufacturing": 32.23,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2019年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2019年欄：「C 製造業」32.23、補充項目「農      業」1.7、「工      業」36.63、「服  務  業」61.67"
+      }
+    },
+    "2020": {
+      "agriculture": 1.6,
+      "industry": 39.01,
+      "services": 59.39,
+      "manufacturing": 34.12,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2020年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2020年欄：「C 製造業」34.12、補充項目「農      業」1.6、「工      業」39.01、「服  務  業」59.39"
+      }
+    },
+    "2021": {
+      "agriculture": 1.45,
+      "industry": 40.78,
+      "services": 57.77,
+      "manufacturing": 36.37,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2021年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2021年欄：「C 製造業」36.37、補充項目「農      業」1.45、「工      業」40.78、「服  務  業」57.77"
+      }
+    },
+    "2022": {
+      "agriculture": 1.41,
+      "industry": 39.55,
+      "services": 59.04,
+      "manufacturing": 36.63,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2022年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2022年欄：「C 製造業」36.63、補充項目「農      業」1.41、「工      業」39.55、「服  務  業」59.04"
+      }
+    },
+    "2023": {
+      "agriculture": 1.51,
+      "industry": 38.56,
+      "services": 59.93,
+      "manufacturing": 34.64,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2023年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2023年欄：「C 製造業」34.64、補充項目「農      業」1.51、「工      業」38.56、「服  務  業」59.93"
+      }
+    },
+    "2024": {
+      "agriculture": 1.46,
+      "industry": 40.4,
+      "services": 58.14,
+      "manufacturing": 35.67,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2024年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2024年欄：「C 製造業」35.67、補充項目「農      業」1.46、「工      業」40.4、「服  務  業」58.14"
+      }
+    },
+    "2025": {
+      "agriculture": 1.44,
+      "industry": 43.45,
+      "services": 55.1,
+      "manufacturing": 38.55,
+      "basis": "主計總處「名目(占比)1981~」工作表現成數字，占 GDP(生產面) 比重 %",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_季_對外發布版(060a).xlsx",
+        "title": "生產帳_季_對外發布版(060a).xlsx 工作表「名目(占比)1981~」國內各業生產毛額占比(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2025年；檔案更新日期 2026/8/14",
+        "accessed": "2026-11-10",
+        "quote": "單位：%；2025年欄：「C 製造業」38.55、補充項目「農      業」1.44、「工      業」43.45、「服  務  業」55.1"
+      }
+    }
+  },
+  "electronics": {
+    "2001": {
+      "electronic_components_CR_pct": 4.54,
+      "computer_electronics_optical_CS_pct": 2.28,
+      "CR_plus_CS_pct": 6.81,
+      "manufacturing_C_pct": 23.59,
+      "million_twd": {
+        "CR": 459220,
+        "CS": 230300,
+        "C": 2387088,
+        "GDP_production_side": 10119429
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2001年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2001年欄：「CR.電子零組件製造業」459220、「CS.電腦、電子產品及光學製品製造業」230300、「總      計(生產面)」10119429"
+      }
+    },
+    "2005": {
+      "electronic_components_CR_pct": 7.76,
+      "computer_electronics_optical_CS_pct": 2.72,
+      "CR_plus_CS_pct": 10.47,
+      "manufacturing_C_pct": 27.22,
+      "million_twd": {
+        "CR": 936351,
+        "CS": 327918,
+        "C": 3286616,
+        "GDP_production_side": 12072956
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2005年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2005年欄：「CR.電子零組件製造業」936351、「CS.電腦、電子產品及光學製品製造業」327918、「總      計(生產面)」12072956"
+      }
+    },
+    "2010": {
+      "electronic_components_CR_pct": 8.93,
+      "computer_electronics_optical_CS_pct": 3.45,
+      "CR_plus_CS_pct": 12.37,
+      "manufacturing_C_pct": 28.67,
+      "million_twd": {
+        "CR": 1252253,
+        "CS": 483195,
+        "C": 4021323,
+        "GDP_production_side": 14024906
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2010年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2010年欄：「CR.電子零組件製造業」1252253、「CS.電腦、電子產品及光學製品製造業」483195、「總      計(生產面)」14024906"
+      }
+    },
+    "2015": {
+      "electronic_components_CR_pct": 11.49,
+      "computer_electronics_optical_CS_pct": 3.71,
+      "CR_plus_CS_pct": 15.2,
+      "manufacturing_C_pct": 31.42,
+      "million_twd": {
+        "CR": 1955926,
+        "CS": 631490,
+        "C": 5348932,
+        "GDP_production_side": 17022620
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2015年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2015年欄：「CR.電子零組件製造業」1955926、「CS.電腦、電子產品及光學製品製造業」631490、「總      計(生產面)」17022620"
+      }
+    },
+    "2016": {
+      "electronic_components_CR_pct": 11.7,
+      "computer_electronics_optical_CS_pct": 3.65,
+      "CR_plus_CS_pct": 15.35,
+      "manufacturing_C_pct": 32.22,
+      "million_twd": {
+        "CR": 2053301,
+        "CS": 640712,
+        "C": 5655706,
+        "GDP_production_side": 17555268
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2016年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2016年欄：「CR.電子零組件製造業」2053301、「CS.電腦、電子產品及光學製品製造業」640712、「總      計(生產面)」17555268"
+      }
+    },
+    "2017": {
+      "electronic_components_CR_pct": 12.46,
+      "computer_electronics_optical_CS_pct": 3.29,
+      "CR_plus_CS_pct": 15.75,
+      "manufacturing_C_pct": 32.97,
+      "million_twd": {
+        "CR": 2249433,
+        "CS": 593950,
+        "C": 5951694,
+        "GDP_production_side": 18053119
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2017年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2017年欄：「CR.電子零組件製造業」2249433、「CS.電腦、電子產品及光學製品製造業」593950、「總      計(生產面)」18053119"
+      }
+    },
+    "2018": {
+      "electronic_components_CR_pct": 12.48,
+      "computer_electronics_optical_CS_pct": 3.04,
+      "CR_plus_CS_pct": 15.52,
+      "manufacturing_C_pct": 33.02,
+      "million_twd": {
+        "CR": 2301308,
+        "CS": 559676,
+        "C": 6088713,
+        "GDP_production_side": 18439379
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2018年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2018年欄：「CR.電子零組件製造業」2301308、「CS.電腦、電子產品及光學製品製造業」559676、「總      計(生產面)」18439379"
+      }
+    },
+    "2019": {
+      "electronic_components_CR_pct": 12.13,
+      "computer_electronics_optical_CS_pct": 3.14,
+      "CR_plus_CS_pct": 15.27,
+      "manufacturing_C_pct": 32.23,
+      "million_twd": {
+        "CR": 2286015,
+        "CS": 591975,
+        "C": 6075769,
+        "GDP_production_side": 18851489
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2019年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2019年欄：「CR.電子零組件製造業」2286015、「CS.電腦、電子產品及光學製品製造業」591975、「總      計(生產面)」18851489"
+      }
+    },
+    "2020": {
+      "electronic_components_CR_pct": 14.25,
+      "computer_electronics_optical_CS_pct": 3.69,
+      "CR_plus_CS_pct": 17.94,
+      "manufacturing_C_pct": 34.12,
+      "million_twd": {
+        "CR": 2827964,
+        "CS": 732243,
+        "C": 6770729,
+        "GDP_production_side": 19844783
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2020年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2020年欄：「CR.電子零組件製造業」2827964、「CS.電腦、電子產品及光學製品製造業」732243、「總      計(生產面)」19844783"
+      }
+    },
+    "2021": {
+      "electronic_components_CR_pct": 16.59,
+      "computer_electronics_optical_CS_pct": 3.26,
+      "CR_plus_CS_pct": 19.85,
+      "manufacturing_C_pct": 36.37,
+      "million_twd": {
+        "CR": 3612365,
+        "CS": 710576,
+        "C": 7918542,
+        "GDP_production_side": 21773291
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2021年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2021年欄：「CR.電子零組件製造業」3612365、「CS.電腦、電子產品及光學製品製造業」710576、「總      計(生產面)」21773291"
+      }
+    },
+    "2022": {
+      "electronic_components_CR_pct": 17.83,
+      "computer_electronics_optical_CS_pct": 3.67,
+      "CR_plus_CS_pct": 21.5,
+      "manufacturing_C_pct": 36.63,
+      "million_twd": {
+        "CR": 4060032,
+        "CS": 835938,
+        "C": 8341140,
+        "GDP_production_side": 22768954
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2022年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2022年欄：「CR.電子零組件製造業」4060032、「CS.電腦、電子產品及光學製品製造業」835938、「總      計(生產面)」22768954"
+      }
+    },
+    "2023": {
+      "electronic_components_CR_pct": 15.83,
+      "computer_electronics_optical_CS_pct": 4.21,
+      "CR_plus_CS_pct": 20.04,
+      "manufacturing_C_pct": 34.64,
+      "million_twd": {
+        "CR": 3678456,
+        "CS": 978958,
+        "C": 8051425,
+        "GDP_production_side": 23243894
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2023年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2023年欄：「CR.電子零組件製造業」3678456、「CS.電腦、電子產品及光學製品製造業」978958、「總      計(生產面)」23243894"
+      }
+    },
+    "2024": {
+      "electronic_components_CR_pct": 17.21,
+      "computer_electronics_optical_CS_pct": 5.0,
+      "CR_plus_CS_pct": 22.2,
+      "manufacturing_C_pct": 35.67,
+      "million_twd": {
+        "CR": 4414517,
+        "CS": 1281636,
+        "C": 9152478,
+        "GDP_production_side": 25657187
+      },
+      "basis": "computed = 名目生產毛額(百萬元) / 總計(生產面)(百萬元)，四捨五入至小數2位",
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/生產帳_年_對外發布版(056).xlsx",
+        "title": "生產帳_年_對外發布版(056).xlsx 工作表「名目生產毛額」國內各業生產毛額(2008SNA)(當期價格，1981年～)",
+        "publisher": "行政院主計總處",
+        "period": "2024年；檔案更新日期 2025/11/28",
+        "accessed": "2026-11-10",
+        "quote": "更新日期：2025/11/28；單位：新臺幣百萬元；2024年欄：「CR.電子零組件製造業」4414517、「CS.電腦、電子產品及光學製品製造業」1281636、「總      計(生產面)」25657187"
+      }
+    },
+    "2025": null,
+    "_null_reason_2025": "主計總處公開的年度細業別檔「生產帳_年_對外發布版(056)」僅到2024年(更新日期2025/11/28)；季檔「生產帳_季」只有A~S大類，無電子零組件細業；統計資料庫(nstatdb)未能程式化查詢。待主計總處更新年度檔後補。"
+  },
+  "ict_official": null,
+  "ict_official_null_reason": "主計總處未見公布「資通訊產業占GDP」官方統計；最接近的是行業分類大類「J 出版影音及資通訊業」(含在 名目(占比)1981~ 表)，定義與市場說的ICT(含電子零組件、電腦及電子產品製造)不同，不可混用。",
+  "employment": {
+    "1990": {
+      "agriculture_pct": 12.85,
+      "industry_pct": 40.83,
+      "services_pct": 46.32,
+      "manufacturing_pct": 32.03,
+      "thousand_persons": {
+        "total": 8283,
+        "agriculture": 1064,
+        "industry": 3382,
+        "services": 3837,
+        "manufacturing": 2653
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/11516/236078/table13.xlsx",
+        "title": "114年人力資源調查統計(年報) 表13 歷年就業者之行業",
+        "publisher": "行政院主計總處",
+        "period": "1990年平均；114年年報(發布單位：國勢普查處)",
+        "accessed": "2026-11-10",
+        "quote": "表１３ 歷年就業者之行業（工作表「13_舊行業」）；1990年平均 千人：總計8283、農林漁牧業1064、工業3382、服務業3837；單位：％：農12.85、工業40.83、服務業46.32"
+      }
+    },
+    "2010": {
+      "agriculture_pct": 5.24,
+      "industry_pct": 35.92,
+      "services_pct": 58.84,
+      "manufacturing_pct": 27.27,
+      "thousand_persons": {
+        "total": 10493,
+        "agriculture": 550,
+        "industry": 3769,
+        "services": 6174,
+        "manufacturing": 2861
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/11516/236078/table13.xlsx",
+        "title": "114年人力資源調查統計(年報) 表13 歷年就業者之行業",
+        "publisher": "行政院主計總處",
+        "period": "2010年平均；114年年報(發布單位：國勢普查處)",
+        "accessed": "2026-11-10",
+        "quote": "表１３ 歷年就業者之行業（工作表「13_新行業」）；2010年平均 千人：總計10493、農林漁牧業550、工業3769、服務業6174；單位：％：農5.24、工業35.92、服務業58.84"
+      }
+    },
+    "2020": {
+      "agriculture_pct": 4.76,
+      "industry_pct": 35.43,
+      "services_pct": 59.8,
+      "manufacturing_pct": 26.43,
+      "thousand_persons": {
+        "total": 11504,
+        "agriculture": 548,
+        "industry": 4076,
+        "services": 6879,
+        "manufacturing": 3041
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/11516/236078/table13.xlsx",
+        "title": "114年人力資源調查統計(年報) 表13 歷年就業者之行業",
+        "publisher": "行政院主計總處",
+        "period": "2020年平均；114年年報(發布單位：國勢普查處)",
+        "accessed": "2026-11-10",
+        "quote": "表１３ 歷年就業者之行業（工作表「13_新行業」）；2020年平均 千人：總計11504、農林漁牧業548、工業4076、服務業6879；單位：％：農4.76、工業35.43、服務業59.8"
+      }
+    },
+    "2024": {
+      "agriculture_pct": 4.26,
+      "industry_pct": 34.94,
+      "services_pct": 60.81,
+      "manufacturing_pct": 25.82,
+      "thousand_persons": {
+        "total": 11595,
+        "agriculture": 494,
+        "industry": 4051,
+        "services": 7051,
+        "manufacturing": 2994
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/11516/236078/table13.xlsx",
+        "title": "114年人力資源調查統計(年報) 表13 歷年就業者之行業",
+        "publisher": "行政院主計總處",
+        "period": "2024年平均；114年年報(發布單位：國勢普查處)",
+        "accessed": "2026-11-10",
+        "quote": "表１３ 歷年就業者之行業（工作表「13_新行業」）；2024年平均 千人：總計11595、農林漁牧業494、工業4051、服務業7051；單位：％：農4.26、工業34.94、服務業60.81"
+      }
+    },
+    "2025": {
+      "agriculture_pct": 4.18,
+      "industry_pct": 34.81,
+      "services_pct": 61.01,
+      "manufacturing_pct": 25.7,
+      "thousand_persons": {
+        "total": 11626,
+        "agriculture": 486,
+        "industry": 4047,
+        "services": 7093,
+        "manufacturing": 2987
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/11516/236078/table13.xlsx",
+        "title": "114年人力資源調查統計(年報) 表13 歷年就業者之行業",
+        "publisher": "行政院主計總處",
+        "period": "2025年平均；114年年報(發布單位：國勢普查處)",
+        "accessed": "2026-11-10",
+        "quote": "表１３ 歷年就業者之行業（工作表「13_新行業」）；2025年平均 千人：總計11626、農林漁牧業486、工業4047、服務業7093；單位：％：農4.18、工業34.81、服務業61.01"
+      }
+    },
+    "1952": {
+      "agriculture_pct": 56.06,
+      "industry_pct": 16.9,
+      "services_pct": 27.04,
+      "manufacturing_pct": 12.36,
+      "thousand_persons": {
+        "total": 2929,
+        "agriculture": 1642,
+        "industry": 495,
+        "services": 792,
+        "manufacturing": 362
+      },
+      "basis": "computed from thousand persons, rounded to 2 decimals",
+      "source": {
+        "url": "https://www.taiwan-database.net/PDFs/Taiwan_Statistical_Data_Book_2010.pdf",
+        "title": "Taiwan Statistical Data Book 2010, Table 2-9a Employment by Industry",
+        "publisher": "Council for Economic Planning and Development, Executive Yuan, R.O.C. (Taiwan)（網站為 taiwan-database.net 鏡像，非官方網域）",
+        "period": "1952",
+        "accessed": "2026-11-10",
+        "quote": "2-9a. Employment by Industry; I. Number (1,000 persons); 1952: Total 2,929, Primary Industry 1,642, Secondary Industry Subtotal 495, Tertiary Industry Subtotal 792, Mfg. 362; Source: See Table 2-8a."
+      }
+    },
+    "1970": {
+      "agriculture_pct": 36.74,
+      "industry_pct": 27.93,
+      "services_pct": 35.34,
+      "manufacturing_pct": 20.94,
+      "thousand_persons": {
+        "total": 4576,
+        "agriculture": 1681,
+        "industry": 1278,
+        "services": 1617,
+        "manufacturing": 958
+      },
+      "basis": "computed from thousand persons, rounded to 2 decimals",
+      "source": {
+        "url": "https://www.taiwan-database.net/PDFs/Taiwan_Statistical_Data_Book_2010.pdf",
+        "title": "Taiwan Statistical Data Book 2010, Table 2-9a Employment by Industry",
+        "publisher": "Council for Economic Planning and Development, Executive Yuan, R.O.C. (Taiwan)（網站為 taiwan-database.net 鏡像，非官方網域）",
+        "period": "1970",
+        "accessed": "2026-11-10",
+        "quote": "2-9a. Employment by Industry; I. Number (1,000 persons); 1970: Total 4,576, Primary Industry 1,681, Secondary Industry Subtotal 1,278, Tertiary Industry Subtotal 1,617, Mfg. 958; Source: See Table 2-8a."
+      }
+    }
+  },
+  "gdpLevel": {
+    "annual": {
+      "2015": {
+        "nominal_gdp_100m_twd": 170550.8,
+        "nominal_gdp_million_twd": 17055080,
+        "gdp_per_capita_usd": 22780,
+        "gdp_per_capita_twd": 726895,
+        "avg_fx_twd_per_usd": 31.91,
+        "real_growth_pct": 1.47,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2015年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "104年：平均匯率31.91、經濟成長1.47、名目國內生產毛額(GDP)百萬元17055080、平均每人GDP元726895、美元22780"
+        }
+      },
+      "2016": {
+        "nominal_gdp_100m_twd": 175552.68,
+        "nominal_gdp_million_twd": 17555268,
+        "gdp_per_capita_usd": 23091,
+        "gdp_per_capita_twd": 746526,
+        "avg_fx_twd_per_usd": 32.33,
+        "real_growth_pct": 2.17,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2016年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "105年：平均匯率32.33、經濟成長2.17、名目國內生產毛額(GDP)百萬元17555268、平均每人GDP元746526、美元23091"
+        }
+      },
+      "2017": {
+        "nominal_gdp_100m_twd": 180123.87,
+        "nominal_gdp_million_twd": 18012387,
+        "gdp_per_capita_usd": 25121,
+        "gdp_per_capita_twd": 764678,
+        "avg_fx_twd_per_usd": 30.44,
+        "real_growth_pct": 3.66,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2017年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "106年：平均匯率30.44、經濟成長3.66、名目國內生產毛額(GDP)百萬元18012387、平均每人GDP元764678、美元25121"
+        }
+      },
+      "2018": {
+        "nominal_gdp_100m_twd": 184200.39,
+        "nominal_gdp_million_twd": 18420039,
+        "gdp_per_capita_usd": 25901,
+        "gdp_per_capita_twd": 781169,
+        "avg_fx_twd_per_usd": 30.16,
+        "real_growth_pct": 2.91,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2018年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "107年：平均匯率30.16、經濟成長2.91、名目國內生產毛額(GDP)百萬元18420039、平均每人GDP元781169、美元25901"
+        }
+      },
+      "2019": {
+        "nominal_gdp_100m_twd": 189740.97,
+        "nominal_gdp_million_twd": 18974097,
+        "gdp_per_capita_usd": 25998,
+        "gdp_per_capita_twd": 804123,
+        "avg_fx_twd_per_usd": 30.93,
+        "real_growth_pct": 3.06,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2019年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "108年：平均匯率30.93、經濟成長3.06、名目國內生產毛額(GDP)百萬元18974097、平均每人GDP元804123、美元25998"
+        }
+      },
+      "2020": {
+        "nominal_gdp_100m_twd": 200237.52,
+        "nominal_gdp_million_twd": 20023752,
+        "gdp_per_capita_usd": 28705,
+        "gdp_per_capita_twd": 849105,
+        "avg_fx_twd_per_usd": 29.58,
+        "real_growth_pct": 3.42,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2020年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "109年：平均匯率29.58、經濟成長3.42、名目國內生產毛額(GDP)百萬元20023752、平均每人GDP元849105、美元28705"
+        }
+      },
+      "2021": {
+        "nominal_gdp_100m_twd": 217732.91,
+        "nominal_gdp_million_twd": 21773291,
+        "gdp_per_capita_usd": 33111,
+        "gdp_per_capita_twd": 927776,
+        "avg_fx_twd_per_usd": 28.02,
+        "real_growth_pct": 6.72,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2021年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "110年：平均匯率28.02、經濟成長6.72、名目國內生產毛額(GDP)百萬元21773291、平均每人GDP元927776、美元33111"
+        }
+      },
+      "2022": {
+        "nominal_gdp_100m_twd": 228204.3,
+        "nominal_gdp_million_twd": 22820430,
+        "gdp_per_capita_usd": 32827,
+        "gdp_per_capita_twd": 978579,
+        "avg_fx_twd_per_usd": 29.81,
+        "real_growth_pct": 2.68,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2022年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "111年：平均匯率29.81、經濟成長2.68、名目國內生產毛額(GDP)百萬元22820430、平均每人GDP元978579、美元32827"
+        }
+      },
+      "2023": {
+        "nominal_gdp_100m_twd": 235983.48,
+        "nominal_gdp_million_twd": 23598348,
+        "gdp_per_capita_usd": 32444,
+        "gdp_per_capita_twd": 1010959,
+        "avg_fx_twd_per_usd": 31.16,
+        "real_growth_pct": 1.08,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2023年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "112年：平均匯率31.16、經濟成長1.08、名目國內生產毛額(GDP)百萬元23598348、平均每人GDP元1010959、美元32444"
+        }
+      },
+      "2024": {
+        "nominal_gdp_100m_twd": 257370.88,
+        "nominal_gdp_million_twd": 25737088,
+        "gdp_per_capita_usd": 34238,
+        "gdp_per_capita_twd": 1099390,
+        "avg_fx_twd_per_usd": 32.11,
+        "real_growth_pct": 5.27,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2024年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "113年：平均匯率32.11、經濟成長5.27、名目國內生產毛額(GDP)百萬元25737088、平均每人GDP元1099390、美元34238"
+        }
+      },
+      "2025": {
+        "nominal_gdp_100m_twd": 287151.2,
+        "nominal_gdp_million_twd": 28715120,
+        "gdp_per_capita_usd": 39515,
+        "gdp_per_capita_twd": 1230035,
+        "avg_fx_twd_per_usd": 31.19,
+        "real_growth_pct": 8.76,
+        "source": {
+          "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+          "title": "table(060a).xlsx 國民所得統計常用資料",
+          "publisher": "行政院主計總處",
+          "period": "2025年；網頁更新日期115-11-09，附註 115年Ⅲ為概估",
+          "accessed": "2026-11-10",
+          "quote": "114年：平均匯率31.19、經濟成長8.76、名目國內生產毛額(GDP)百萬元28715120、平均每人GDP元1230035、美元39515"
+        }
+      }
+    },
+    "forecast_2026": {
+      "year": 2026,
+      "real_growth_pct": 11.05,
+      "gdp_per_capita_usd": 45332,
+      "release_date": "2026-08-14",
+      "is_latest_as_of_2026-11-10": true,
+      "note": "2026-10-30 另有「115年第3季國民所得概估統計」(Q3 yoy 14.36%)，但該稿未更新全年預測，故最新全年預測仍為 8/14 這次。主計總處通常於11月下旬發布新一輪預測，發布後此欄需更新。",
+      "prior_forecast": {
+        "real_growth_pct": 9.64,
+        "release": "2026-05"
+      },
+      "source": {
+        "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236591/news11508.pdf",
+        "title": "國民所得統計及國內經濟情勢展望(新聞稿)",
+        "publisher": "行政院主計總處",
+        "period": "115年8月14日下午4時15分發布",
+        "accessed": "2026-11-10",
+        "quote": "預測115年第3、4季經濟成長率(yoy)分別為11.42％及5.37％，併計第1、2季，全年經濟成長率11.05％，較115年5月預測數9.64％上修1.41個百分點，每人GDP 4萬5,332美元，CPI上漲2.07％。"
+      }
+    }
+  },
+  "publishing_av_ict_J_pct": {
+    "2000": 3.7,
+    "2005": 3.49,
+    "2010": 3.31,
+    "2015": 3.09,
+    "2016": 3.13,
+    "2017": 3.07,
+    "2018": 3.07,
+    "2019": 3.15,
+    "2020": 3.09,
+    "2021": 3.08,
+    "2022": 3.23,
+    "2023": 3.4,
+    "2024": 3.17,
+    "2025": 3.05
+  },
+  "notes": {
+    "threeSectors": "名目(當期價格)占比，分母為 GDP(生產面)，即不含「統計差異」的 GDP。農/工/服務業採主計總處「補充項目」口徑：進口稅與加值型營業稅已分攤進三業，故三者相加約100(尾差±0.01來自四捨五入)。製造業(manufacturing)是工業的一部分，占比分母同為GDP(生產面)，未分攤稅。1951~1980 主計總處只給金額，占比為本腳本以「各業生產毛額÷總計(生產面)」自算(四捨五入至2位)；1981起直接取主計總處占比。分類為2008SNA版。檔案(生產帳_季_對外發布版(060a))更新日期2026/8/14；2025(民國114)年數字為主計總處最新修訂值，後續仍可能再修正，不是年報定稿。",
+    "electronics": "分子「CR 電子零組件製造業」、「CS 電腦、電子產品及光學製品製造業」為2008SNA行業分類下製造業細業；分母為總計(生產面)。占比為本腳本自百萬元金額算出，主計總處未直接給細業占比。CR 內含半導體(晶圓代工)。CR_plus_CS_pct 只是「電子資通硬體」近似，非主計總處官方定義。2025為null(見 _null_reason_2025)。檔案更新日期2025/11/28，2023、2024年為當時值，之後可能已被修訂，與季檔(2026/8/14)的製造業占比可能有差，本檔 manufacturing_C_pct 為同檔自算值，與 threeSectors.manufacturing 在2023、2024年已核對相同(34.64、35.67)。",
+    "ict_official": "未找到官方資通訊產業占GDP數字，寫null。另附 publishing_av_ict_J_pct = 大類 J 出版影音及資通訊業(含軟體、電信、資訊服務等服務業)占GDP%，與電子製造不同，請勿與CR/CS相加。",
+    "employment": "主計總處人力資源調查，就業者行業，年平均。1990取自年報表13「13_舊行業」工作表，2010起取自「13_新行業」工作表。表註：90至100年按第8次修訂之行業標準分類，101至105年按第9次修訂，106至110年按第10次修訂，111年1月起第11次修訂；88年起全部改按第7次修訂。各期分類不完全可比。1952與1970不在年報(僅1978起)，改取經建會 Taiwan Statistical Data Book 2010 表2-9a(原始來源為主計總處《人力資源統計月報》2010年5月，來自 taiwan-database.net 鏡像，非官方網域)，千人數自算占比，且當時調查口徑與今日不同，1978年前後不宜逐點精確比較。就業占比分母為總就業者，與產值占比不是同一概念。",
+    "gdpLevel": "名目GDP為當期價格，單位新臺幣億元(=百萬元/100)；人均GDP美元取主計總處「平均每人GDP」美元欄，由當年平均匯率換算。表網頁更新日期115-11-09，115年Ⅲ為概估。2026年預測值11.05%與人均GDP 45,332美元為2026-08-14發布；主計總處通常11月下旬發布新一輪預測，發布後此欄需更新。",
+    "reasons_null": {
+      "electronics_2025": "見 electronics._null_reason_2025",
+      "ict_official": "見 ict_official_null_reason"
+    }
+  }
+}

@@ -14,6 +14,7 @@ import {
   getLanguage,
   type Lang,
 } from '../config/languages';
+import { getTopics } from '../utils/topics/registry';
 
 const currentPath = Astro.url.pathname;
 
@@ -71,6 +72,23 @@ const homePaths = new Set(
 );
 const isHome = homePaths.has(normalizedPath);
 
+// 2026-11-10 專題整合：/topics（專題總覽）掛在探索 subnav、/tools（工具總覽）掛在
+// 資源 subnav。專題主頁各有自己的頂層路徑（/health/、/industry/…），清單從登記檔
+// 讀（getTopics），新專題登記後自動亮起，不寫死。比對前先拿掉語言前綴。
+const barePath = (() => {
+  const seg = currentPath.split('/')[1];
+  return nonDefaultCodes.includes(seg as Lang)
+    ? currentPath.slice(seg.length + 1) || '/'
+    : currentPath;
+})();
+const underPath = (base: string) => {
+  const b = base.replace(/\/$/, '');
+  return barePath === b || barePath.startsWith(`${b}/`);
+};
+const isTopicsArea =
+  underPath('/topics') || getTopics().some((topic) => underPath(topic.path));
+const isToolsArea = underPath('/tools');
+
 const navConfig = [
   { path: '/about', label: t('nav.about') },
   { path: '/explore', label: t('nav.explore') },
@@ -104,14 +122,16 @@ const navConfig = [
     active =
       active ||
       currentPath.startsWith('/elections') ||
-      currentPath.startsWith('/exams');
+      currentPath.startsWith('/exams') ||
+      isTopicsArea;
   }
   if (item.path === '/resources') {
     const mcpPath = navHref('/mcp');
     active =
       active ||
       currentPath.startsWith('/mcp') ||
-      currentPath.startsWith(mcpPath);
+      currentPath.startsWith(mcpPath) ||
+      isToolsArea;
   }
   // 2026-06-10: /opendata（OpenData 策展）lives under 數據 subnav.
   // 2026-06-23: /companies（企業地圖完整版）also lives under 數據 subnav.
@@ -143,6 +163,7 @@ const mobileSubLinks: Record<string, { href: string; label: string }[]> = {
   '/explore': [
     { href: navHref('/latest'), label: `🆕 ${t('nav.latest')}` },
     { href: navHref('/timeline'), label: `⏳ ${t('nav.timeline')}` },
+    { href: navHref('/topics'), label: `📰 ${t('nav.topics')}` },
     { href: navHref('/graph'), label: `🕸️ ${t('nav.graph-view')}` },
     { href: navHref('/terminology'), label: `📖 ${t('nav.terminology')}` },
     // nav.elections 的 i18n 字串已內含字首 🗳️，不重複加
@@ -158,7 +179,10 @@ const mobileSubLinks: Record<string, { href: string; label: string }[]> = {
     { href: navHref('/companies'), label: `🏢 ${t('nav.data.enterprise')}` },
     { href: navHref('/budget'), label: `🧾 ${t('nav.data.budget')}` },
   ],
-  '/resources': [{ href: navHref('/mcp'), label: `🔌 ${t('nav.mcp')}` }],
+  '/resources': [
+    { href: navHref('/tools'), label: t('nav.tools') },
+    { href: navHref('/mcp'), label: `🔌 ${t('nav.mcp')}` },
+  ],
   '/semiont': [
     // cognitive / newsroom 的 i18n 字串已內含字尾 emoji，不重複加
     { href: navHref('/semiont'), label: t('nav.semiont.cognitive') },
@@ -339,6 +363,12 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
                         >
                           ⏳ {t('nav.timeline')}
                         </a>
+                        <a
+                          href={navHref('/topics')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          📰 {t('nav.topics')}
+                        </a>
                         <div class="dropdown-divider" />
                         <a
                           href={navHref('/graph')}
@@ -492,6 +522,9 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
                           {t('nav.resources')}
                         </a>
                         <div class="dropdown-divider" />
+                        <a href={navHref('/tools')} class="dropdown-item">
+                          {t('nav.tools')}
+                        </a>
                         <a href={navHref('/mcp')} class="dropdown-item">
                           🔌 {t('nav.mcp')}
                         </a>

@@ -1,0 +1,30 @@
+---
+/**
+ * names-name-romanization-embed.template.astro — /embed/names/name-romanization/ 內嵌板。
+ * 給別人用 iframe 嵌進自己的網站：只有工具本體、一行來源、連回單獨頁。外殼是共用的 EmbedLayout。
+ */
+import EmbedLayout from '../layouts/EmbedLayout.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import NameRomanization from '../components/names/tools/NameRomanization.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useNames } from '../i18n/names';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const tool = getTopic('names')!.tools.find(
+  (x) => x.slug === 'name-romanization',
+)!;
+const title = pickText(tool.title, lang);
+const t = useNames(lang);
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={t('rz.embedSource')}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    <NameRomanization lang={lang} variant="embed" />
+  </ToolFrame>
+</EmbedLayout>

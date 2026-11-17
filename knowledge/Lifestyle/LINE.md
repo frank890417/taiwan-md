@@ -20,6 +20,8 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 15
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** LINE 是 2011 年 311 東日本大地震後在日本誕生的通訊軟體，同年進入台灣，於 MSN 終止服務、WhatsApp 改採收費的 2013 年趁勢取代昔日霸主。如今台灣 15-65 歲滲透率達 93%，從家人對話、長輩圖文化、公務群組，到 LINE Pay 行動支付與 LINE Bank 純網銀，已是名副其實的「數位基礎設施」。但高度依賴也伴隨假訊息、帳號盜用、廣告氾濫、數位遺產與市場壟斷等爭議，迫使社會重新審視這款商業軟體的公共性。

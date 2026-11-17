@@ -1,0 +1,112 @@
+---
+/**
+ * ToolShell.astro — 四個試算工具共用的內層外框：內容、免責聲明、資料來源、算法假設。
+ * 外框只管版面與固定文字；工具本身的欄位與結果由各工具元件放進 default slot。
+ * 根節點用 data-hs-tool 標記，瀏覽器端的互動只在這個節點內查詢。
+ *
+ * 標題與說明由外層的 ToolFrame（src/components/tools/ToolFrame.astro）負責，這裡不再輸出
+ * （title 只當 aria-label）。同一項資訊在每個位置只出現一次，所以各 variant 的差別是：
+ *   inline  專題頁、工具集頁：免責聲明、資料來源、算法假設都在工具下方
+ *   page    單獨工具頁：免責聲明在工具下方；資料來源與計算方式由 ToolPage 的區塊負責，這裡不重複
+ *   embed   內嵌板：免責聲明與算法假設在工具下方；資料來源由 EmbedLayout 底部一行負責
+ * 直接把工具元件放進沒有 ToolFrame 的頁面時會缺標題，請一律包 ToolFrame。
+ */
+import '../../../styles/housing-tools.css';
+import { useTranslations } from '../../../i18n/utils';
+import type { TranslationKey } from '../../../i18n/utils';
+import { fill } from '../../../utils/housing/format';
+import type { Lang } from '../../../types';
+
+interface SourceRef {
+  agency: string;
+  title: string;
+  url: string;
+  date: string;
+}
+interface Props {
+  lang: Lang;
+  tool: 'mortgage' | 'afford' | 'elig' | 'rentbuy';
+  variant: 'inline' | 'page' | 'embed';
+  title: string;
+  intro?: string;
+  headingLevel?: 2 | 3 | 4;
+  asOf: string;
+  sources: SourceRef[];
+  labelsJson: string;
+  toolsPath: string;
+  syncUrl: boolean;
+  /** 工具集頁的錨點由外層 section 提供，這裡不放 id，避免同頁重複 */
+}
+const {
+  lang,
+  tool,
+  variant,
+  title,
+  intro,
+  headingLevel = 3,
+  asOf,
+  sources,
+  labelsJson,
+  toolsPath,
+  syncUrl,
+} = Astro.props;
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+// 標題與說明交給 ToolFrame；這兩個 props 保留是為了不動各工具元件的呼叫端
+void intro;
+void headingLevel;
+const showSources = variant === 'inline';
+const showAssump = variant !== 'page';
+---
+
+<section
+  class={`hst hst-${variant} hst-t-${tool}`}
+  data-hs-tool={tool}
+  data-hs-lang={lang}
+  data-hs-tools-path={toolsPath}
+  data-hs-sync={syncUrl ? '1' : '0'}
+  aria-label={title}
+>
+  <slot />
+
+  <p class="hst-disclaimer">
+    {fill(tt('common.disclaimer'), { asOf })}
+  </p>
+
+  {
+    showSources && (
+      <div class="hst-sources">
+        <h4>{tt('common.sourcesTitle')}</h4>
+        <ul>
+          {sources.map((s) => (
+            <li>
+              <a href={s.url} target="_blank" rel="noopener noreferrer">
+                {fill(tt('common.sourceLine'), {
+                  agency: s.agency,
+                  title: s.title,
+                  date: s.date,
+                })}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
+
+  {
+    showAssump && (
+      <details class="hst-more hst-assump">
+        <summary>{tt('common.assumptions')}</summary>
+        <slot name="assump" />
+      </details>
+    )
+  }
+
+  <script
+    is:inline
+    type="application/json"
+    data-hs-labels
+    set:html={labelsJson.replace(/</g, '\\u003c')}
+  />
+</section>

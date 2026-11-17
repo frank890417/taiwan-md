@@ -1,0 +1,231 @@
+---
+/**
+ * SignedColumns — 有正有負的逐年直條（0 軸在中間），例：基金各年收益率。
+ *
+ * 為什麼不用 budget/DivergingBars 或 RankBars：RankBars 的條從 0 往右長，負值畫不出來；
+ * DivergingBars 的條尾標籤取整數（−0.09% 會顯示成 −0%），資料表欄名固定是「增減 %／增減額（億元）」，
+ * 套在收益率上會誤導。介面照 budget 那套：title、subtitle、資料列、unit、source、lang。
+ *
+ * 伺服端輸出 inline SVG，寬 760／窄 380 兩套幾何（跟 budget 圖表同一組斷點，
+ * 由 budget.css 的 .bg-svg.is-wide／.is-narrow 切換）。class 以 inc- 開頭，樣式在本檔。
+ * 文字標籤（資料表欄名、來源前綴）一律由呼叫端從 i18n 傳入，本檔不含任何語言的句子。
+ */
+import { scaleLinear, CHART_WIDTHS } from '../../../utils/budgetViz';
+
+export interface ColRow {
+  /** x 軸標籤（年份） */
+  label: string;
+  /** 值；null＝沒有資料（不畫條，資料表顯示 nodataLabel） */
+  value: number | null;
+  /** 資料表裡附在標籤後的小字 */
+  note?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  rows: ColRow[];
+  /** 值的單位字尾，預設 % */
+  unit?: string;
+  /** 條上標籤與資料表的小數位數 */
+  digits?: number;
+  source?: string;
+  /** 「來源：」前綴 */
+  sourceLabel: string;
+  /** 資料表摺疊標題 */
+  tableLabel: string;
+  /** 資料表第一欄欄名（例：年度） */
+  itemLabel: string;
+  /** 資料表第二欄欄名（例：收益率） */
+  valueLabel: string;
+  /** 值為 null 時資料表顯示的字 */
+  nodataLabel: string;
+  lang?: string;
+  id?: string;
+  height?: number;
+}
+const {
+  title,
+  subtitle,
+  rows,
+  unit = '%',
+  digits = 1,
+  source,
+  sourceLabel,
+  tableLabel,
+  itemLabel,
+  valueLabel,
+  nodataLabel,
+  id,
+  height = 300,
+} = Astro.props;
+
+const uid =
+  id ||
+  `sc-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+
+const vals = rows.map((r) => r.value).filter((v): v is number => v !== null);
+const rawMin = Math.min(0, ...vals);
+const rawMax = Math.max(0, ...vals);
+const span = rawMax - rawMin || 1;
+const step = [0.5, 1, 2, 5, 10, 20, 50, 100].find((s) => span / s <= 6) ?? 100;
+const lo = Math.floor(rawMin / step) * step;
+const hi = Math.ceil(rawMax / step) * step;
+const ticks: number[] = [];
+for (let v = lo; v <= hi + 1e-9; v += step) ticks.push(+v.toFixed(6));
+
+const sign = (v: number) => (v < 0 ? '−' : '');
+const fmt = (v: number, d = digits) => `${sign(v)}${Math.abs(v).toFixed(d)}`;
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? Math.round(height * 0.86) : height;
+  const M = { l: narrow ? 32 : 44, r: 8, t: 20, b: 30 };
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const y = scaleLinear(lo, hi, M.t + ih, M.t);
+  const band = iw / Math.max(1, rows.length);
+  const barW = Math.max(6, band * (narrow ? 0.66 : 0.6));
+  // 窄版年份每隔一個標一次，避免相鄰年份互相蓋住
+  const labelEvery = narrow && rows.length > 8 ? 2 : 1;
+  return { W, H, M, iw, ih, y, band, barW, narrow, labelEvery };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart inc-chart" data-chart="inc-signed-columns" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {ticks.map((t) => (
+          <g class="bg-grid">
+            <line
+              x1={L.M.l}
+              x2={L.M.l + L.iw}
+              y1={L.y(t)}
+              y2={L.y(t)}
+              class={t === 0 ? 'bg-zero' : ''}
+            />
+            <text
+              x={L.M.l - 6}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
+              {fmt(t, 0)}
+              {unit}
+            </text>
+          </g>
+        ))}
+        {rows.map((r, i) => {
+          const cx = L.M.l + L.band * i + L.band / 2;
+          const v = r.value;
+          const y0 = L.y(0);
+          const y1 = v === null ? y0 : L.y(v);
+          const neg = v !== null && v < 0;
+          return (
+            <g
+              class={`inc-col ${v === null ? 'is-null' : neg ? 'is-neg' : 'is-pos'}`}
+            >
+              {v !== null && (
+                <rect
+                  x={cx - L.barW / 2}
+                  y={Math.min(y0, y1)}
+                  width={L.barW}
+                  height={Math.max(1.5, Math.abs(y1 - y0))}
+                  rx={2}
+                  class="inc-col-bar"
+                >
+                  <title>{`${r.label}：${fmt(v, Math.max(digits, 2))}${unit}`}</title>
+                </rect>
+              )}
+              {v !== null && (
+                <text
+                  x={cx}
+                  y={neg ? y1 + (L.narrow ? 10 : 13) : y1 - 5}
+                  text-anchor="middle"
+                  class={`inc-col-val ${L.narrow ? 'is-small' : ''}`}
+                >
+                  {fmt(v)}
+                </text>
+              )}
+              {i % L.labelEvery === 0 && (
+                <text
+                  x={cx}
+                  y={L.M.t + L.ih + 20}
+                  text-anchor="middle"
+                  class="bg-tick"
+                >
+                  {r.label}
+                </text>
+              )}
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {sourceLabel}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{tableLabel}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{itemLabel}</th>
+            <th class="num">{valueLabel}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>
+                  {r.label}
+                  {r.note && <small class="bg-note"> {r.note}</small>}
+                </td>
+                <td class="num">
+                  {r.value === null
+                    ? nodataLabel
+                    : `${fmt(r.value, Math.max(digits, 2))}${unit}`}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  .inc-col.is-pos .inc-col-bar {
+    fill: var(--bg-up);
+  }
+  .inc-col.is-neg .inc-col-bar {
+    fill: var(--bg-down);
+  }
+  .inc-col-val {
+    font-size: 11px;
+    fill: var(--bg-ink);
+  }
+  .inc-col-val.is-small {
+    font-size: 9px;
+  }
+</style>

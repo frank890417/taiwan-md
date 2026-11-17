@@ -1,0 +1,48 @@
+---
+/**
+ * SrcLine — 非圖表區塊底下的來源列：機關名連到網址，截止期別依語系，本站計算標徽章。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import {
+  agencyShort,
+  fmtPeriod,
+  mergeSrc,
+  type SourceRef,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+  sources: SourceRef[];
+}
+const { lang, sources } = Astro.props;
+const T = housingHome(lang);
+const zh = lang === 'zh-TW';
+---
+
+<p class="hs-srcline">
+  <span class="hs-src-k">{T.ui.source}</span>
+  {
+    mergeSrc(sources).map((s, i) => (
+      <span>
+        {i > 0 && (zh ? '；' : '; ')}
+        <a
+          href={s.url}
+          target="_blank"
+          rel="noopener"
+          class="no-external-icon"
+          title={s.title}
+        >
+          {agencyShort(s.agency, lang)}
+        </a>
+        {s.asOfs.length > 0 && (
+          <span>
+            {zh ? '，' : ', '}
+            {T.ui.asOf}{' '}
+            {s.asOfs.map((a) => fmtPeriod(a, lang)).join(zh ? '、' : ', ')}
+          </span>
+        )}
+        {s.derived && <span class="hs-badge">{T.ui.derived}</span>}
+      </span>
+    ))
+  }
+</p>

@@ -48,3 +48,12 @@ def test_dry_run_does_not_write(tmp_path):
     p = _f(tmp_path)
     ct.process(p, "incubating", False, "thin")
     assert p.read_text(encoding="utf-8") == FM
+
+
+def test_keep_featured_leaves_featured_true(tmp_path):
+    # 2026-11-17 哲宇拍板：進化中與精選可以並存，--keep-featured 補標舊精選時不動 featured
+    p = _f(tmp_path)
+    r = ct.process(p, "incubating", True, "unverified", keep_featured=True)
+    assert "featured true → false" not in r
+    text = p.read_text(encoding="utf-8")
+    assert "featured: true" in text and "curation: incubating" in text
