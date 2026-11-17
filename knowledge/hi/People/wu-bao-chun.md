@@ -2,9 +2,7 @@
 title: 'वू पाओ-चुन: पाइवान बच्चों से किया गया एक वादा'
 description: 'पिंगतुंग के ग्रामीण परिवार में जन्मे, माध्यमिक विद्यालय तक शिक्षित और फ़्रेंच से अनजान वू पाओ-चुन ने पेरिस में लीची-गुलाब ब्रेड के साथ दुनिया का पहला मास्टर बेकर स्वर्ण पदक जीता—उस ब्रेड में ताइवान के मूलनिवासी बच्चे से दस वर्ष पहले किया गया एक वादा समाया था।'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '餐飲與職人'
 tags:
   [
     'खानपान',
@@ -15,15 +13,19 @@ tags:
     'ब्रेड',
     'ताइवान के मूलनिवासी समुदाय',
   ]
-readingTime: 7
+subcategory: '餐飲與職人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-07-18T19:14:57+08:00'
+translatedAt: '2026-11-17T23:19:09.541402+00:00'
 ---
 
 # वू पाओ-चुन: पाइवान बच्चों से किया गया एक वादा
