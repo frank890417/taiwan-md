@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-17T17:50:03.950013+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1981, la calle Nanyang y la carretera Roosevelt en Taipéi concentraban 48 academias de repetición para el ingreso a la universidad con más de 100.000 estudiantes; en 2023 solo quedaban 3 academias con unos 2.500 alumnos. Taiwán dedicó 30 años a la reforma educativa para acabar con el «un solo examen decide toda la vida»; las academias de repetición realmente desaparecieron, pero las de refuerzo no: cinco años después de la entrada en vigor del nuevo currículo, las academias de refuerzo académico a nivel nacional aumentaron en 960. Detrás de este ciclo se esconde el repetido debate de una isla sobre la definición de «equidad».

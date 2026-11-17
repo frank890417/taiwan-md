@@ -1,142 +1,167 @@
 ---
-title: 'Su Chiao-hui: a la sombra del «Chong Chong Chong», la curadora que cose Nuevo Taipéi con ley y detalle'
-description: 'De hija de un abogado defensor del Incidente de Formosa a legisladora calificada como sobresaliente en 16 ocasiones, Su Chiao-hui se despojó de la etiqueta de «apellido privilegiado» y, desde el Congreso, reformó la Ley de Prevención y Control del Cáncer y la Ley de Desarrollo de la Industria Deportiva para dotar al derecho de una dimensión humana, mientras que, en el ámbito local, empleó el metro, las tuberías de agua potable y las mejoras escolares para armar su propio mapa político.'
-date: 2026-04-28
-author: 'Taiwan.md Contributors'
-category: People
+title: 'Su Chiao-hui: de experta en superación y del parlamento a "Mamá Nutria"'
+description: 'En 2009, la abogada Su Chiao-hui se unió a la Fundación Chao Yue para que los niños conocieran diversas profesiones; en 2016 entró al parlamento por el quinto distrito de Nueva Taipéi y fue reelegida en 2020 y 2024.'
+date: 2026-11-06
+category: 'People'
 tags:
   [
-    Su Chiao-hui,
-    Nuevo Taipéi,
-    Legisladora,
-    Evaluación parlamentaria,
-    Obras locales,
-    Jurista,
-    Políticas de crianza,
-    Diplomacia parlamentaria,
-    Igualdad de género,
-    Historia familiar,
+    'Personajes',
+    'Su Chiao-hui',
+    'Política',
+    'Nueva Taipéi',
+    'Educación',
+    'Infancia y juventud',
+    'Servicio público',
   ]
-readingTime: 12
-lastVerified: 2026-04-28
-lastHumanReview: false
-translatedFrom: People/蘇巧慧.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:eb7e3bede251836b'
-sourceBodyHash: 'sha256:8ae89739a53e0a1f'
-translatedAt: 2026-05-01T20:54:23+08:00
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-11-17
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+researchReport: 'reports/factcheck/2026-11/pr1963-蘇巧慧.md'
+rationale:
+  why_this_hook: '蘇巧慧的政治家族身分無法被抹去，但公開經歷也顯示她在法律、教育、國會與親子媒體之間建立了自己的工作路徑。'
+  whats_excluded: '不把競選網站自述直接當成政績，也不寫選戰攻防與政見；只保留能說明她公共角色如何變化的事件。'
+  where_it_hedges: '學歷依不同時期立法院資料各自呈現，不把第9屆資料所列的 SJD 候選人寫成博士；辦公室網站的建設成果標明為自述。'
+  whos_pushing_back: '批評者以「政二代」稱呼她；民眾黨質疑胞妹相關公司獲政府補助與投資涉及利益迴避，國民黨質疑她在地方建設中的參與程度，本文列出指控與回應。'
+translatedFrom: 'People/蘇巧慧.md'
+sourceCommitSha: 'a3153ed16'
+sourceContentHash: 'sha256:c8915f917f9448a9'
+sourceBodyHash: 'sha256:e4d35852f02ecd0f'
+translatedAt: '2026-11-18T00:49:38+08:00'
 ---
 
-# Su Chiao-hui: a la sombra del «Chong Chong Chong», la curadora que cose Nuevo Taipéi con ley y detalle
+# Su Chiao-hui: de experta en superación y del parlamento a "Mamá Nutria"
 
-> ### ⚠️ Nota editorial en víspera electoral (2026-04-28)
->
-> Su Chiao-hui es la candidata nominada por el DPP para la alcaldía de Nuevo Taipéi en 2026. La densidad fáctica de este artículo aún se encuentra en fase de pulido —varias cifras concretas de logros políticos entre febrero y abril de 2026 (como los 77 000 millones de yuanes para el metro, los 30 millones de yuanes para la conexión de agua potable, y los 345 millones de yuanes en obras escolares) fueron aportadas en el borrador inicial por los colaboradores, y los mantenedores de Taiwan.md están verificando progresivamente cada dato con fuentes primarias (sitio web de la Alianza Ciudadana de Supervisión Parlamentaria / documentos oficiales del Yuan Ejecutivo / presupuesto del Gobierno de Nuevo Taipéi). Durante el ciclo electoral, los lectores deben referirse a las fuentes oficiales; esta entrada no constituye un respaldo a ninguna candidatura. Taiwan.md se sitúa sobre los ejes de «perspectiva de historia de la isla de Taiwán + soberanía independiente», pero no respalda a ningún candidato (según [MANIFESTO §Límites de la autonomía](docs/semiont/MANIFESTO.md#自主權邊界)).
->
-> ### ⚡️ Panorama en 30 segundos
->
-> **«El activo político más exitoso de Su Chiao-hui no es su apellido, sino su obsesión por el "detalle": está usando frías enmiendas legales y mundanas tuberías de agua para coser las grietas urbanas que dejó el estilo enérgico de su padre.»**
->
-> | Dimensión clave             | Hecho central                                                                                                                                                                                                                                                                     |
-> | :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | **Desempeño parlamentario** | 13 períodos legislativos consecutivos, 16 veces calificada como «legisladora sobresaliente» por la Alianza Ciudadana de Supervisión Parlamentaria (Citizen Congress Watch); volumen de iniciativas y profundidad de interpelaciones situados en la franja alta del Congreso [^2]. |
-> | **Obras locales**           | Coordinó los 77 000 millones de yuanes del presupuesto de la línea Wanda-Shulin del metro, y gestionó que los 980 millones de yuanes de la rampa de acceso de la carretera provincial 65 fueran cubiertos íntegramente por el gobierno central [^9] [^11].                        |
-> | **Estilo de gobernanza**    | Desde el apoyo psicosocial en la Ley de Prevención y Control del Cáncer hasta el podcast «Mamá Nutria», busca construir una calidez maternal dentro de la política más dura [^7] [^21].                                                                                           |
->
-> **💡 ¿Y entonces?**
-> Esta no es solo una historia de sucesión de una dinastía política, sino un experimento profundo sobre cómo una jurista, a través de la «gobernanza micro», ensambla un mapa personal bajo el peso histórico y desafía el poder de gobernar la ciudad más grande de Taiwán.
+> **Nota sobre procesos electorales**: Su Chiao-hui es candidata inscrita para las elecciones a la alcaldía de Nueva Taipéi de 2026. Esta página ha sido contribuida por la comunidad y aún está en proceso de verificación, por lo que no representa un respaldo a ningún candidato; para información electoral oficial, consulte los datos de la Comisión Electoral Central y otros organismos oficiales. Para conocer a los candidatos, vea [Elecciones Integrales de 2026](/elections/2026).
 
-En las calles de Nuevo Taipéi en 2026, Su Chiao-hui ya no aparece en las vallas publicitarias únicamente como «la hija de Su Tseng-chang». Esta legisladora, titular de dos maestrías en Derecho por la Universidad de Pensilvania (University of Pennsylvania) y la Universidad de Boston (Boston University), intenta desafiar el cargo de alcalde de la municipalidad más poblada de Taiwán mediante un experimento político centrado en el «detalle». Su carrera política no es solo una continuación del legado familiar, sino una manifestación de voluntad personal y competencia profesional, que busca abrir un camino de gobernanza meticulosa —«Hui Hui Hui»— más allá del tradicional estilo político del «Chong Chong Chong» («avanzar sin descanso»).
+> **Resumen en 30 segundos:** En 2016, Su Chiao-hui entró al parlamento como legisladora por el quinto distrito de Nueva Taipéi y fue reelegida hasta la 11.ª legislatura; su currículum público incluye roles como abogada, directora ejecutiva de una ONG educativa, legisladora y presentadora de un podcast para padres e hijos. Es hija del ex presidente del Ejecutivo [Su Chin-chang](/es/people/su-tseng-chang); aunque su punto de partida político lleva el apellido familiar, lo que ha hecho repetidamente es trasladar la idea de "acompañar a los niños en su camino" a proyectos educativos, leyes y a una voz conocida como "Mamá Nutria".[^1] [^2] [^3]
 
-### El contraste de una jurista: de los tribunales a la obra, una «obsesa del detalle»
+Cuando los podcasts empezaron a popularizarse en 2020, Su Chiao-hui no siguió el ejemplo de otros políticos creando programas sobre actualidad. Al recordar su reacción ante la propuesta de sus asesores, comentó en una entrevista: «¡¿Qué?! Pero es que no quiero seguir hablando de política después de terminar mi jornada laboral».[^4] Así, fuera del Legislativo, surgió otra faceta de ella: tomó el micrófono para contar historias a los niños y también para enseñar taiwanés.
 
-El punto de partida político de Su Chiao-hui parece despejado, pero está lleno de contrastes. Como hija mayor de Su Tseng-chang, abogado defensor en el Incidente de Formosa, heredó el rigor jurídico y la búsqueda de justicia y equidad, pero eligió el camino más «pegado al suelo»: la reforma legislativa y las obras locales. Durante su ejercicio como abogada en el bufete Wan Guo Law Firm, manejaba artículos legales fríos y disputas comerciales; sin embargo, al ingresar al Congreso, transformó ese conocimiento profesional en una herramienta para resolver problemas cotidianos, demostrando la lógica y el detalle propios de una jurista [^1].
+No abandonó la política, sino que extendió el servicio público desde las leyes y las comisiones hasta el momento de ir a dormir, que es cuando los niños escuchan sus programas. Su dualidad reside precisamente ahí: una abogada criada en una familia política que debe lidiar con la etiqueta de "segunda generación política" mientras demuestra que su nombre es más que un apellido en una papeleta electoral.
 
-> 📝 Nota de la curadora: El derecho no debería ser solo palabras en un código, sino una herramienta para resolver que las zonas rurales carezcan de agua potable o que los viajeros diarios no tengan rutas adecuadas. La formación «jurista» de Su Chiao-hui le confiere, al abordar las obras locales, una exigencia de detalle casi obsesiva, lo que se convierte en un rasgo distintivo frente a los políticos tradicionales.
+## Primero vio el ritmo de la política en los niños
 
-En el Legislativo, Su Chiao-hui no es conocida por consignas políticas radicales, sino por su «densidad legislativa» y la «profundidad de sus interpelaciones». Ha sido calificada como legisladora sobresaliente por la Alianza Ciudadana de Supervisión Parlamentaria (Citizen Congress Watch) durante 13 períodos legislativos consecutivos, acumulando 16 reconocimientos, y ha ocupado repetidamente el primer lugar en las evaluaciones ciudadanas, un récord que demuestra su contribución sustancial en la cámara legislativa [^2] [^3]. Las iniciativas que ha impulsado abarcan desde la reforma integral de la Ley de Prevención y Control del Cáncer hasta la codificación de la Ley de Garantía de Derechos para Nuevos Residentes, así como la revisión de la Ley de Desarrollo de la Industria Deportiva, con el objetivo de ofrecer una protección más completa a los grupos vulnerables y específicos mediante el poder de la ley [^4] [^5] [^6].
+Su Chiao-hui estudió inicialmente Trabajo Social en la Universidad Nacional de Taiwán (NTU) y luego se trasladó a la Facultad de Derecho. Tras obtener su licencia de abogada, trabajó en el bufete Wanguo y también viajó en tren hasta Ruifang para ejercer como abogada pro bono en zonas rurales.[^4] En 2006, se fue a Estados Unidos para realizar estudios de posgrado, obteniendo maestrías en derecho por la Universidad de Boston y la Universidad de Pensilvania.[^19] Los datos oficiales de la 11.ª legislatura enumeran su formación como dos maestrías en derecho y el grupo judicial de la Facultad de Derecho de NTU; los datos de la 9.ª legislatura mencionan por separado que era candidata al Doctorado en Ciencias Jurídicas (SJD) por la Universidad de Pensilvania.[^1] [^2]
 
-Aboga por que la Ley de Prevención y Control del Cáncer incluya un sistema de apoyo psicosocial y mejore la capacitación en comunicación del personal médico, una atención hacia la «persona» que refleja su compromiso con los derechos humanos en salud [^7]. En la revisión de la Ley de Desarrollo de la Industria Deportiva, se centró en establecer canales de inversión para el sector deportivo, canalizar capital privado y asegurar que el Fondo Nacional de Desarrollo destine un porcentaje determinado a la inversión en la industria del inyectora de vitalidad al desarrollo deportivo taiwanés [^8].
+Tras aprobar el examen estatal para abogados en 2002, se incorporó al bufete Wanguo como abogada de litigios. En 2004, actuó como coordinadora general del grupo de apoyo legal para la campaña de Chen Shui-bian y se unió al equipo de abogados encargados del recuento de votos en el proceso de impugnación de la elección de Chen Shui-bian. En 2005, ejerció como abogada pro bono de asesoría legal en zonas rurales del condado de Taipéi.[^2] [^17]
 
-### El «experimento del detalle» para coser la ciudad: Shulin, Yingge y Xinzhuang
+En 2004, los comunicados oficiales del Partido Progresista Democrático (DPP) discutían puntos controvertidos en la demanda de nulidad de la elección de Chen Shui-bian y Lu Hsiu-lien, tales como el alcance del recuento de votos, los procedimientos y la carga de los costes.[^18]
 
-Para los residentes de Shulin, Yingge y el sur de Xinzhuang, los logros de Su Chiao-hui suelen materializarse en esas «grietas urbanas» que pasan desapercibidas. No busca el momento del corte de cinta, sino que se preocupa por que la «última milla» de las obras se complete sin contratiempos y por que esas infraestructuras mejoren realmente la calidad de vida de los residentes.
+Tras regresar a Taiwán, no continuó en bufetes de abogados; en 2009 se convirtió en directora ejecutiva de la Fundación Chao Yue.[^4] [^19] Según los registros de la fundación, en 2012 lanzó el proyecto "Chao Yue Daren" (Expertos en Superación), invitando a profesionales de diversos sectores a ayudar a los niños a conocer las profesiones y el mundo, acompañando a más de 190,000 niños. La descripción de la fundación señala que descubrió que para cambiar la sociedad no bastaba con salvar casos individuales, por lo que se volcó en el sector de las ONG con la esperanza de promover ideas progresistas a través de la educación.[^5]
 
-#### 1. La «cirugía de sutura» del transporte ferroviario
+Una entrevista de la revista _今周刊_ (Chin Weekly) de octubre de 2026 mencionaba que ella considera que «salvar uno por uno no es suficiente; lo que Taiwán necesita cambiar es la política», razón por la cual entró formalmente en la política en 2016.[^4] Un evento puede acompañar a un grupo de niños, pero una ley puede cambiar las reglas que todos deben enfrentar.
 
-La línea Wanda-Zhonghe-Shulin del metro había sido durante años un espejismo para los residentes locales: «solo se oían escaleras, pero nunca llegaba el ascensor». Tras asumir su cargo, Su Chiao-hui no solo coordinó activamente la aprobación por el Yuan Ejecutivo del presupuesto total de 77 000 millones de yuanes, sino que a finales de 2025 gestionó un presupuesto adicional para garantizar el inicio de las obras en toda la línea; el plan de corrección financiera del tramo elevado de Tucheng también fue aprobado por el Yuan Ejecutivo, permitiendo al Gobierno de Nuevo Taipéi adjudicar los contratos de obra sin problemas [^9] [^10]. Su exigencia para el metro no es solo que «entre en servicio», sino que «cose»: mediante la optimización de la construcción de la superficie del puente elevado, reduciendo el impacto en los distritos comerciales locales, y gestionando la adición de una rampa de acceso sur en la carretera provincial 65 para Xinzhuang, financiada íntegramente por el gobierno central con 980 millones de yuanes, beneficiando a más de 400 000 viajeros diarios de las zonas de Shulin y Xinzhuang [^11].
+## En 2016, llevó el apellido familiar al quinto distrito
 
-#### 2. Las tuberías de agua potable que faltaban
+En 2016, Su Chiao-hui se postuló como legisladora por el quinto distrito de Nueva Taipéi. Los medios informaron que derrotó al legislador del Kuomintang (KMT) que buscaba la reelección con un 56.11% de los votos, entrando oficialmente en el parlamento; fue reelegida en 2020 y figura como candidata en el boletín electoral del quinto distrito de Nueva Taipéi para la 11.ª legislatura en 2024.[^4] [^6] [^19]
 
-En las zonas montañosas remotas de Shulin, algunos residentes llevaban años viéndose obligados a recorrer senderos de montaña para recoger agua de manantial, enfrentándose a la dificultad del acceso al agua. Su Chiao-hui gestionó un presupuesto superior a los 30 millones de yuanes para completar las obras de conexión de agua potable, largamente pendientes, resolviendo así una necesidad básica de los residentes locales [^12]. Para ella, esto es la «ley fundamental» de los derechos ciudadanos y una práctica concreta de la «protección de derechos» inherente a su carácter de jurista, enfatizando que cada ciudadano debe gozar del derecho básico al agua potable.
+El distrito incluye Shulin, Yingge y otras nueve zonas como Min'an, en el distrito de Xinzhuang. Este ámbito geográfico es importante porque, cuando habla de Nueva Taipéi, suele desglosar la gestión urbana abstracta en elementos tangibles: patios escolares, carreteras, desplazamientos diarios y cultura local. Los datos de la 11.ª legislatura indican que asumió su cargo el 1 de febrero de 2024 en la Comisión de Asuntos Internos; durante la 9.ª legislatura, perteneció a la Comisión de Educación y Cultura.[^1] [^2] [^6]
 
-#### 3. El «retoque estético» de las obras escolares
+Su padre, Su Chin-chang, es ex presidente del Ejecutivo y una figura muy reconocida en la política de Taiwán, por lo que el estigma de "hija de un político" no desapareció automáticamente tras su elección.[^4] Su Chiao-hui no ha negado este trasfondo ni puede negarlo: desde pequeña vio a su padre en las calles repartiendo folletos; la política era parte de la vida cotidiana familiar.[^4]
 
-Gestionó mejoras en 38 escuelas con 186 proyectos de infraestructura, por un total de 345 millones de yuanes [^13]. Desde la renovación de baños antiguos y la repavimentación de pistas deportivas hasta la instalación de accesibilidad universal, estos proyectos de «retoque», aunque menos llamativos que los grandes hitos arquitectónicos, son los logros que más perciben los padres, mejorando directamente el entorno de aprendizaje y la seguridad de los estudiantes.
+Sin embargo, la familia proporcionó la entrada, pero no las respuestas para cada interpelación. Ella debe construir un registro verificable de su profesionalidad y métodos de trabajo en el Legislativo, razón por la cual suele vincular la educación, la infancia, la cultura y el desarrollo local en sus discursos, en lugar de limitarse a usar los eslóganes políticos de su padre para definirse.
 
-### Diplomacia parlamentaria y políticas de género: una gestión política multidimensional
+## El azul y el verde están en canastas distintas; en la Comisión de Educación se prioriza arreglar las leyes
 
-El mapa político de Su Chiao-hui no se limita a Nuevo Taipéi. En el ámbito internacional, participa activamente en el Consejo de Liberales y Demócratas Asiáticos (Council of Asian Liberals and Democrats, CALD), promoviendo la diplomacia partidista, y ha encabezado delegaciones de asesores jóvenes a Estados Unidos para fortalecer el apoyo bipartidista entre Taiwán y EE. UU. [^14] [^15]. Conoce bien la situación especial de Taiwán en la comunidad internacional y, a través de la diplomacia parlamentaria, busca mayor visibilidad y apoyo internacional para la isla.
+En 2017, Su Chiao-hui y el legislador del KMT, Ko Chih-en, formaban parte de la Comisión de Educación y Cultura del Legislativo. Un informe replicado por la Alianza para la Supervisión Ciudadana del Parlamento registró que ambos hablaban de su trabajo en la comisión de una manera amistosa, como amigos en un programa de radio; Su elogió las especialidades de los miembros de distintos partidos y mencionó que, aunque en la comisión se debatía intensamente cuando había opiniones divergentes, en aquel entonces no se recurría a la votación, sino que se formaban consensos mediante la comunicación.[^14]
 
-En materia de políticas de crianza y género, es una activista destacada. Fue una de las primeras legisladoras en proponer «incrementar el subsidio para bebés prematuros» y «30 000 yuanes mensuales de subsidio de cuidado infantil», y ha subrayado que las políticas de crianza deben cubrir cuatro dimensiones de apoyo: «conocimiento, financiamiento, espacio y bienestar físico y mental», y no limitarse a ayudas económicas [^16] [^17]. También aborda las cuestiones de igualdad de género, trabajando a través de reformas legislativas e incidencia pública para construir un entorno social más amigable para las mujeres y las familias.
+Este registro no es una prueba de que "la cooperación bipartidista elimina el conflicto". El informe también mencionaba que, en la revisión de otras leyes, tanto el gobierno como la oposición seguían teniendo bloqueos y enfrentamientos físicos; la propia metáfora de Su Chiao-hui era que dos equipos deben estar en su propio lado del campo y no intentar encestar en la canasta equivocada. La cooperación que describe se asemeja más a reconocer que el oponente también puede tener experiencia técnica en la reforma de leyes, manteniendo intactas sus posiciones políticas.[^14]
 
-### Controversias y desafíos: el peso histórico y la etiqueta de «apellido privilegiado»
+Esta interacción ayuda a entender su estilo parlamentario, pero no implica que cada una de sus propuestas haya sido un éxito. El valor de la cooperación parlamentaria no suele residir en eliminar las diferencias, sino en permitir que esas diferencias se integren en procesos de discusión y modificación artículo por artículo.
 
-Sin embargo, el camino político de Su Chiao-hui no está exento de sombras. Como miembro de una dinastía política, la etiqueta de «apellido privilegiado» (靠爸, «depender del padre») la ha acompañado siempre. Durante la campaña electoral de 2026, reaparecieron en internet difamaciones que acusaban a su bisabuelo Su Yun-ying de ser un «traidor chino»; este tipo de ataques contra ascendientes han sido desmentidos repetidamente como fabricaciones y fueron refutados categóricamente por la propia Su Chiao-hui [^18] [^19]. Además, como legisladora del partido en el gobierno, su postura en las reformas legislativas del Congreso ha sido frecuentemente blanco de ataques de la oposición; ante la presión de las batallas políticas, debe encontrar un equilibrio entre defender la posición del partido y responder a la ciudadanía.
+## Cambian las comisiones, pero los temas siguen centrados en la seguridad de la vida diaria
 
-> 📝 Nota de la curadora: El halo de una dinastía política es tanto un activo como un pasivo. Su Chiao-hui debe encontrar su propio punto de equilibrio entre el peso de la historia y la visión del futuro. Ha respondido con alta inteligencia emocional a las críticas externas: «Antes era Chong Chong Chong (avanzar sin descanso), ahora hay que añadir Hui Hui Hui (sabiduría)». Con esto señala que, además del ímpetu, se necesita sabiduría y atención al detalle, lo que se ha convertido en su estilo distintivo ante los desafíos [^20].
+El trabajo parlamentario de Su Chiao-hui no se ha limitado siempre a la Comisión de Educación y Cultura. Los datos oficiales de la 9.ª legislatura muestran que estuvo ocho periodos en dicha comisión; su informe oficial indica que en el primer periodo de la 10.ª legislatura pasó a la Comisión de Bienestar Social y Medio Ambiente, supervisando la prevención de la pandemia y leyes importantes durante la crisis sanitaria. En el primer periodo de la 11.ª legislatura, volvió a entrar en la Comisión de Asuntos Internos.[^1] [^2] [^16]
 
-Incluso se transformó en «Mamá Nutria» en su canal de podcast, contando cuentos e interactuando con niños, compartiendo experiencias de crianza y anécdotas cotidianas, buscando construir una imagen maternal cálida y racional más allá de las duras batallas políticas [^21]. Esta gestión multidimensional refleja su intento de abrir un nuevo estilo político de «simbiosis» fuera del marco tradicional, permitiendo a los votantes ver una figura política más tridimensional y humana.
+Este cambio ha ampliado su ámbito de temas desde la escuela y la cultura hacia la sanidad, el bienestar social, la vivienda, la gobernanza local y la seguridad pública. Aunque se hizo conocida por temas de educación e infancia, el día a día de una legisladora incluye presupuestos, leyes y supervisión administrativa en diversas comisiones.[^16]
 
-### Conclusión: no es solo «Su Tseng-chang 2.0»
+Las leyes que ha liderado también abarcan estos campos. En la 10.ª legislatura, propuso la adición del artículo 12-1 al _Reglamento para el Desarrollo de la Industria del Deporte_, la cual fue revisada junto con versiones del Ejecutivo y de otros legisladores, figurando como "revisión completada (tercera lectura)".[^24] En la 11.ª legislatura, presentó el _Proyecto de Ley Básica para los Nuevos Residentes_, revisado conjuntamente con otras leyes similares, también figurando como "revisión completada (tercera lectura)". Su propuesta de enmienda a la _Ley de Prevención y Control del Cáncer_ figura como "entregada para revisión".[^25] [^26] También fue una de las proponente de las enmiendas a los artículos 8 y 89 de la _Ley de Navegación_, caso que figura como "revisión completada (tercera lectura)" en los registros del Legislativo.[^7]
 
-El artículo sobre Su Chiao-hui no debería terminar en su formación académica o linaje, sino en su intento de «coser» la ciudad de Nuevo Taipéi. Partiendo del rigor de una jurista, ha aplicado su conocimiento profesional a la legislación parlamentaria y a las obras locales, y, a través de su obsesión por el detalle, ha ido ensamblando su propio mapa político. Si logra pasar de «legisladora sobresaliente» a «alcaldesa sobresaliente», dependerá de que pueda demostrar que las enmiendas legales impulsadas en el Congreso y las tuberías de agua potable gestionadas localmente realmente pueden armar un Nuevo Taipéi más habitable y resiliente.
+En la sección "Sobre Chiao-hui" de su oficina, se enumeran cargos como presidenta de la Asociación de Bienestar de la Legislatura, vicepresidenta principal de la Comisión para el Avance de los Objetivos de Desarrollo Sostenible, y roles en el DPP como miembro del Comité Central y subsecretaria del grupo parlamentario; sin embargo, los datos del Legislativo la registran como secretaria general en la Asociación de Bienestar.[^1] [^15]
 
-Su trayectoria política es un microcosmos del proceso de desarrollo democrático de Taiwán, que muestra cómo una nueva generación de políticos busca su propio lugar y valor entre la herencia y la innovación. En la era del «Chong Chong Chong», Su Chiao-hui eligió el «Hui Hui Hui», curando el futuro de Taiwán con sabiduría y detalle.
+## "Mamá Nutria" lleva la política a la hora de dormir
 
----
+_《水獺媽媽巧巧話》_ (Las historias de Mamá Nutria) es el nombre por el cual los niños la reconocen más fácilmente. Su presentación oficial dice: «Cuando estoy trabajando, me esfuerzo en revisar el presupuesto del gobierno y redactar las leyes del país... cuando termino mi jornada, me convierto en Mamá Nutria para contar historias a las pequeñas nutrias».[^3]
 
-### Referencias
+El programa comenzó con su costumbre de contar historias a sus dos hijas y evolucionó hasta convertirse en un podcast. Los datos oficiales indican que el programa lleva 6 años, centrándose en libros ilustrados taiwaneses, historia, la tierra, ecología, derechos humanos y enseñanza del taiwanés; la página de selección de programas infantiles de _Taiwan Media Watch_ lo incluyó como el 24.º programa infantil de calidad de 2024, destacando el vínculo familiar y la educación en la lengua materna.[^3] [^10]
 
-[^1]: [Su Chiao-hui - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%98%87%E5%B7%A7%E6%85%A7) — Wikipedia, entrada de la enciclopedia libre
+El programa traduce temas públicos a situaciones que los niños entienden: la tierra de Taiwán se cuenta mediante historias, la ecología a través de personajes y los derechos humanos pueden empezar con un libro ilustrado. Su Chiao-hui comentó en una entrevista con _今周刊_: «Esos niños no saben que él es Su Chin-chang, solo saben que se llama Abuelo Nutria».[^4]
 
-[^2]: [16.ª vez calificada como legisladora sobresaliente por Citizen Congress Watch; Su Chiao-hui: «Seguiré esforzándome para que la vida de todos sea mejor»](https://news.ltn.com.tw/news/politics/paper/1750950) — Reportaje del Liberty Times (2026-04-15)
+## Dieciséis evaluaciones y candidaturas
 
-[^3]: [¡Una legisladora sobresaliente será sin duda una alcaldesa sobresaliente! 🔥🔥](https://www.threads.com/@yuehchin_lin/post/DXJQiEvGaUD/) — Publicación en Threads (2026-04-15)
+El sitio web oficial de campaña de Su Chiao-hui afirma que, durante sus tres mandatos como legisladora, ha sido evaluada como "legisladora excelente" por la Alianza para la Supervisión Ciudadana del Parlamento (gong-du-meng) en 16 ocasiones. Según un informe de _Liberty Times_ sobre las evaluaciones de 2026, recibió su 16.ª distinción y obtuvo el primer lugar en la evaluación ciudadana. Estas son declaraciones públicas del sitio de la candidata y resultados de evaluaciones, lo que no equivale necesariamente a la valoración general de todos los votantes.[^11] [^15]
 
-[^4]: [Revisión del proyecto de enmienda a la Ley de Nutricionistas y la Ley de Prevención y Control del Cáncer](https://lawmaker.twreporter.org/congress/a/144154) — Congreso Transparente (plataforma de noticias The Reporter)
+El mismo informe también resume las leyes propuestas y su trabajo local, incluyendo la enmienda a la Ley de Navegación, la iniciativa para el fondo de prevención del cáncer y la obtención de fondos para transporte y construcción escolar en Nueva Taipéi. Este contenido sirve para entender cómo ella describe su trayectoria política, pero no demuestra por sí solo la eficacia real de cada política.[^11]
 
-[^5]: [Último día del primer período legislativo del Congreso: ¡aprobada la legalización de derechos para nuevos residentes!](https://www.facebook.com/chiaohui.su/posts/1049114779903691/) — Publicación en la página oficial de Facebook de Su Chiao-hui
+Su Chiao-hui representa al Partido Progresista Democrático (DPP) en las elecciones a la alcaldía de Nueva Taipéi de 2026; para información básica de los candidatos, vea [Elecciones Integrales de 2026](/elections/2026).
 
-[^6]: [Proyecto de enmienda a la Ley de Desarrollo de la Industria Deportiva: establecimiento de canales de inversión](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Noticia en el portal del Yuan Ejecutivo (2026-04-12)
+## El Partido Popular cuestiona subsidios a empresa de su hermana; el KMT cuestiona participación en obras
 
-[^7]: [Su Chiao-hui: Revisión del proyecto de enmienda a la Ley de Nutricionistas y la Ley de Prevención y Control del Cáncer](https://lawmaker.twreporter.org/congress/a/144154) — Congreso Transparente (plataforma de noticias The Reporter)
+En 2026, el Partido Popular de Taiwán acusó al equipo relacionado con la hermana de Su Chiao-hui, Su Chiao-chun, de haber recibido subsidios e inversiones gubernamentales durante el mandato de Su Chin-chang como presidente del Ejecutivo, cuestionando la falta de recusación por conflicto de intereses. Su Chiao-hui calificó esto como difamación política, afirmando que su hermana destaca por su propia profesionalidad; el Partido Popular presentó una denuncia ante la Fiscalía de Distrito de Taipéi solicitando una investigación.[^19]
 
-[^8]: [Proyecto de enmienda a la Ley de Desarrollo de la Industria Deportiva: establecimiento de canales de inversión](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Noticia en el portal del Yuan Ejecutivo (2026-04-12)
+Uno de los casos es el subsidio a Weiru Technology: el grupo del Partido Popular cuestionó que, tras Su Chiao-chun asumir como CEO de akaSwap (filial de Weiru Technology), la empresa recibió sucesivamente subsidios del Ministerio de Cultura y del Ministerio de Economía sin revelar su relación con Su Chiao-hui. El Ministerio de Economía declaró el 22 de junio de 2026 que, durante el periodo de ejecución del proyecto, ni los responsables, accionistas o directores de Weiru Technology ni de la empresa colaboradora eran Su Chiao-chun; además, el beneficiario era Weiru Technology y no la plataforma akaSwap, por lo que con los datos actuales no se puede determinar una violación de la _Ley de Recusación por Conflictos de Intereses para Funcionarios Públicos_.[^21] [^22]
 
-[^9]: [Comienza la construcción del puente elevado del metro en Shulin; se gestiona la aprobación del Yuan Ejecutivo para un presupuesto total de 77 000 millones de yuanes](https://www.threads.com/@fa.writing/post/DXf2gMogfTG/) — Contenido reportado en Threads (2026-04-24)
+Por su parte, el KMT cuestionó que su nivel de participación en obras locales como la línea de metro San'ying o la estación Fengming fue bajo, y que ella se atribuyó méritos de la administración local.[^19]
 
-[^10]: [Gestiona miles de millones en obras para Nuevo Taipéi y 9 proyectos de ley: Su Chiao-hui presenta su balance parlamentario](https://udn.com/news/story/7323/9402130) — Noticia de última hora en United Daily News (2026-03-25)
+## Obras locales e informes de gestión en su sitio web
 
-[^11]: [Su Chiao-hui gestiona presupuesto y coordina la subterraneización eléctrica, impulsando con éxito el metro de Nuevo Taipéi](https://tw.news.yahoo.com/%E8%98%87%E5%B7%A7%E6%85%A7%E7%88%AD%E5%8F%96%E9%A0%90%E7%AE%97-%E5%8D%94%E8%AA%BF%E9%9B%BB%E5%8A%9B%E5%9C%B0%E4%B8%8B%E5%8C%96-%E6%88%90%E5%8A%9F%E6%8E%A8%E5%8B%95%E6%96%B0%E5%8C%97%E6%8D%B7%E9%81%8B-052500907.html) — Reportaje compilado en Yahoo News (2026-02-21)
+El sitio web de la oficina de Su Chiao-hui ha enumerado obras locales como el inicio de las obras de la línea de metro Shulin, la finalización del acceso al puente Fuzhou en la ruta 65, el camino lateral del dique de Xinying, la instalación de la estación provisional de Fengming y el reemplazo de tuberías de agua en Xinzhuang; también menciona mejoras en 38 escuelas de Shulin, Yingge y Xinzhuang, con 186 proyectos que suman un total de NT$745 millones.[^23]
 
-[^12]: [Resuelto el problema de acceso al agua en las montañas de Shulin: Su Chiao-hui gestiona más de 30 millones para completar la conexión de agua potable](https://newtalk.tw/news/view/2026-02-27/1021737) — Noticia en Newtalk (2026-02-27)
+Sus informes periódicos "Chiao-hui Report" siguen el mismo formato: la página del primer periodo de la 11.ª legislatura en 2024 detalla su paso a la Comisión de Asuntos Internos, mientras que la de 2025 organiza su trabajo parlamentario en temas como vivienda, protección animal, prevención de fraudes, cuidado infantil y pensiones.[^16]
 
-[^13]: [Acerca de Chiao-hui — Gestión de mejoras en infraestructura escolar](https://chiao.tw/about/) — Perfil en el sitio web oficial de la legisladora Su Chiao-hui
+## De "la hija de Su Chin-chang" a su propio nombre
 
-[^14]: [Escuchen a Emily, asesora de la oficina parlamentaria de Su Chiao-hui, compartir su experiencia en el Campamento de Empoderamiento Diplomático 2025](https://www.threads.com/@dpp_international/post/DXHDascEXfO/) — Threads del Departamento Internacional del Partido Democrático Progresista (2026-04-14)
+La historia de Su Chiao-hui no tiene un momento limpio de "quitarse la etiqueta". Su trasfondo familiar es un recurso real, pero también una sombra persistente; su experiencia como abogada y educadora es una acumulación real, pero tampoco elimina automáticamente las dudas sobre intereses y poder político. Una descripción más cercana a la realidad es que ella ha estado añadiendo nuevo contenido a ese mismo nombre.
 
-[^15]: [¡Fructífera diplomacia partidista! Yi-jou Wu, representante del DPP, elegida vicepresidenta del Consejo de Liberales y Demócratas Asiáticos — Sección juvenil](https://www.dpp.org.tw/content_print/media/11513) — Comunicado oficial del Partido Democrático Progresista (2026-03-31)
+En 2012, llevó la imaginación profesional hacia los niños; en 2016, llevó los problemas educativos al parlamento; en 2020, convirtió el deseo de no hablar de política tras el trabajo en "Mamá Nutria". En cada transición, su identidad anterior no desapareció, sino que continuó acompañándola.
 
-[^16]: [Se intensifica el debate sobre políticas de crianza: Su Chiao-hui, «fui la primera en proponer un subsidio adicional de 30 000 yuanes para bebés prematuros»](https://tw.news.yahoo.com/%E8%82%B2%E5%85%92%E6%94%BF%E8%A6%8B%E9%96%8B%E6%88%B0-%E7%B6%A0%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E8%98%87%E5%B7%A7%E6%85%A7-%E6%9C%80%E6%97%A9%E6%8F%90%E5%87%BA%E5%8A%A0%E7%A2%BC%E6%97%A9%E7%94%A2%E5%85%92%E8%A3%9C%E8%B2%BC3%E8%90%AC-041402244.html) — Reportaje compilado en Yahoo News (2026-03-27)
+Aquella frase inicial de "no querer seguir hablando de política después del trabajo" no terminó dejando la política fuera de casa. Simplemente cambió la forma de expresarlo: de leyes a historias, de interpelaciones a compañía, y de "salvar uno por uno no es suficiente" a intentar hacer que el sistema sea más temprano y más amplio.
 
-[^17]: [«Fui la primera en proponer políticas de crianza»: Su Chiao-hui, «además de cuidar a los niños, también cuidamos a los mayores»](https://udn.com/news/story/124652/9408380) — Noticia de última hora en United Daily News (2026-03-28)
+## Referencias
 
-[^18]: [El bisabuelo es difamado de nuevo como «traidor chino»: Su Chiao-hui, «el autor original ya desmintió que todo era una fabricación»](https://tw.news.yahoo.com/%E6%9B%BE%E7%A5%96%E7%88%B6%E5%86%8D%E9%81%AD%E6%8A%B9%E9%BB%91%E7%82%BA-%E6%BC%A2%E5%A5%B8-%E8%98%87%E5%B7%A7%E6%85%A7-%E5%8E%9F%E4%BD%9C%E8%80%85%E6%97%A9%E5%B7%B2%E9%97%A2%E8%AC%A0-%E5%85%A8%E6%8E%8F%E9%80%A0-012117959.html) — Reportaje compilado en Yahoo News (2026-03-15)
+[^1]: [Sitio web oficial del Legislativo: Legisladora Su Chiao-hui (11.ª legislatura)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46860) — Datos de la 11.ª legislatura, incluye formación académica, fecha de toma de posesión el 1 de febrero de 2024, pertenencia a la Comisión de Asuntos Internos y cargo de secretaria general en la Asociación de Bienestar.
 
-[^19]: ¿Reaparecen las difamaciones contra ascendientes en la campaña electoral? Cheng-yuan Tsai afirma que el bisabuelo de Su Chiao-hui causó una masacre... el autor original ya...](https://www.fountmedia.io/article/361190) — Noticia en Fount Media (2026-03-16)
+[^2]: [Sitio web oficial del Legislativo: Legisladora Su Chiao-hui (9.ª legislatura)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=1917) — Datos de la 9.ª legislatura, incluye candidata al SJD de la Universidad de Pensilvania, ocho periodos en la Comisión de Educación y Cultura y experiencia en el grupo de apoyo legal de 2004.
 
-[^20]: [Yuan-chih Yeh la llama «dependiente del padre»; Su Chiao-hui responde con alta inteligencia emocional: «Antes era Chong Chong Chong, ahora hay que añadir Hui Hui Hui»](https://www.facebook.com/story.php?story_fbid=1160754182085901&id=100044539895059) — Registro de video noticioso en Facebook
+[^3]: [Su Chiao-hui 2026: Las historias de Mamá Nutria](https://chiao.tw/ottermama) — Introducción del programa en el sitio web de campaña, incluye su autodescripción "trabajo/después del trabajo" y el alcance del contenido.
 
-[^21]: [Perfil oficial de Su Chiao-hui en Facebook — «Mamá Nutria Chiao Chiao Hua»](https://www.facebook.com/chiaohui.su/) — Página oficial de Facebook de Su Chiao-hui
+[^4]: [今周刊 (Chin Weekly): Entrevista a Su Chiao-hui / Tras la jornada sin política, nace el universo de "Mamá Nutria"](https://www.businesstoday.com.tw/article/category/183027/post/202610240006/) — Entrevista de octubre de 2026, detalla su transición de Trabajo Social a Derecho, su cargo en la Fundación Chao Yue en 2009, su elección en 2016 y la creación del podcast.
+
+[^5]: [Fundación Chao Yue: Fundadora del Proyecto Chao Yue Daren - Su Chiao-hui](https://eball.tw/node/100020) — Descripción de la fundación sobre el inicio del proyecto en 2012 y el acompañamiento a más de 190,000 niños.
+
+[^6]: [Comisión Electoral Central: Boletín electoral del quinto distrito de Nueva Taipéi para las elecciones de la 11.ª legislatura](https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/03%E6%96%B0%E5%8C%97%E5%B8%82/%E7%AC%AC05%E9%81%B8%E8%88%89%E5%8D%80/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E7%AC%AC5%E9%81%B8%E8%88%89%E5%8D%80.pdf) — Boletín electoral de 2024, especifica el área del quinto distrito (Shulin, Yingge, Min'an en Xinzhuang, etc.) y datos de candidatos.
+
+[^7]: [Sitio web de información parlamentaria: Enmienda a los artículos 8 y 89 de la Ley de Navegación](https://ppg.ly.gov.tw/ppg/bills/202110164380000/details) — Página de propuesta legislativa, proponente incluye a Su Chiao-hui y otras 18 personas; estado: revisión completada (tercera lectura).
+
+[^10]: [Taiwan Media Watch: Las historias de Mamá Nutria](https://www.mediawatch.org.tw/fine-program/10504) — Página de selección de programas infantiles de calidad de 2024, con comentarios sobre el vínculo familiar y la lengua materna.
+
+[^11]: [Liberty Times: 16.ª vez evaluada como legisladora excelente por gong-du-meng](https://news.ltn.com.tw/news/politics/paper/1750950) — Reportaje de abril de 2026, registra su 16.ª distinción y el primer lugar en la evaluación ciudadana.
+
+[^14]: [Replicado por la Alianza para la Supervisión Ciudadana del Parlamento: Buena relación entre azul y verde en la Comisión de Educación; legisladora verde habla de nuevas visiones parlamentarias](https://ccw.org.tw/news/-604) — Replicación de un informe de 2017 sobre el funcionamiento de la comisión y la metáfora de "no encestar en la canasta equivocada".
+
+[^15]: [Sitio web oficial de Su Chiao-hui: Sobre Chiao-hui](https://chiao.tw/about/) — Autodescripción de trayectoria en su sitio de campaña, lista 16 distinciones como legisladora excelente y cargos en la Asociación de Bienestar.
+
+[^16]: [Sitio web oficial de Su Chiao-hui: Chiao-hui Report / Resultados de gestión](https://chiao.tw/chiao-report/) — Informes de periodos anteriores de su oficina, registrando cambios de comisión e temas de gestión anual.
+
+[^17]: [NOWnews: Hoy mi perfil más joven / Alejándose de la etiqueta de "hija de político", gana el corazón del pueblo con profesionalidad](https://today.line.me/tw/v3/article/GglWBjQ) — Reportaje de 2023, detalla su examen de abogada en 2002, apoyo legal en 2004 y labor pro bono en zonas rurales en 2005.
+
+[^18]: [Partido Progresista Democrático: Comunicado de prensa del equipo legal del Presidente y Vicepresidente](https://www.dpp.org.tw/media/contents/1563) — Comunicado del DPP de 2004 sobre los puntos de disputa en la impugnación de la elección (alcance, procedimiento y costes).
+
+[^19]: [BBC News Chino: Campaña para la alcaldía de Nueva Taipéi: La "segunda generación" Su Chiao-hui contra el "subdirector profesional" Li Chih-sien](https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad) — Reportaje de octubre de 2026, resume su estudios, cargo en la Fundación Chao Yue en 2009, reelección en 2020 y cuestionamientos del Partido Popular y el KMT.
+
+[^21]: [United Daily News: El Partido Popular acusa a Weiru Technology de conflicto de intereses; el Ministerio de Economía dice que no se puede determinar ilegalidad](https://udn.com/news/story/7238/9581704) — Reportaje del 22 de junio de 2026 sobre las dudas del grupo del Partido Popular y la respuesta ministerial.
+
+[^22]: [Liberty Times: Ministerio de Economía: Los operadores de Weiru Technology no son Su Chiao-chun; no se puede determinar violación de recusación](https://ec.ltn.com.tw/article/breakingnews/5480412) — Reportaje financiero del 22 de junio de 2026 sobre las explicaciones del Ministerio respecto a los subsidios.
+
+[^23]: [Sitio web oficial de Su Chiao-hui: Sobre Chiao-hui (Archivo de Internet, 12 de junio de 2026)](http://web.archive.org/web/20260612144430/https://chiao.tw/about/) — Versión antigua de la página de campaña, detalla logros como la línea Shulin, el acceso al puente Fuzhou y proyectos en 38 escuelas por un total de NT$745 millones.
+
+[^24]: [Sitio web de información parlamentaria: Proyecto de adición del artículo 12-1 a la Ley para el Desarrollo de la Industria del Deporte](https://ppg.ly.gov.tw/ppg/bills/202103145180000/details) — Página de propuesta de la 10.ª legislatura, proponente incluye a Su Chiao-hui y otras 20 personas; estado tras revisión conjunta: revisión completada (tercera lectura).
+
+[^25]: [Sitio web de información parlamentaria: Proyecto de Ley Básica para los Nuevos Residentes](https://ppg.ly.gov.tw/ppg/bills/202110037370000/details) — Página de propuesta de la 11.ª legislatura, proponente incluye a Su Chiao-hui y otras 26 personas; revisado conjuntamente con otras leyes de derechos de residentes.
+
+[^26]: [Sitio web de información parlamentaria: Proyecto de enmienda a la Ley de Prevención y Control del Cáncer](https://ppg.ly.gov.tw/ppg/bills/202110067670000/details) — Página de propuesta de la 11.ª legislatura, proponente incluye a Su Chiao-hui y otras 30 personas; estado: entregada para revisión.

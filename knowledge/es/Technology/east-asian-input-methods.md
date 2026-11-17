@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/東亞文字輸入法.md'
-sourceCommitSha: 'c0bb841a7'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:90551a3865db4ef0'
 sourceBodyHash: 'sha256:2cf976c21e3add32'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-11-17T17:56:50.873872+00:00'
 ---
 
 # El conflicto de civilizaciones en el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental

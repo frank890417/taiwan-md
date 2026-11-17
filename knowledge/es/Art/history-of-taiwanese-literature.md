@@ -1,30 +1,32 @@
 ---
 title: 'Historia de la literatura taiwanesa'
-description: 'Desde que se cuestionó "¿Tiene Taiwán literatura?" hasta que Yang Kui ganó por primera vez un premio en Japón, desde la represión lingüística hasta la recuperación de múltiples voces: una epopeya de cuatrocientos años sobre voces que buscan palabras y palabras que buscan un hogar'
+description: 'Desde el cuestionamiento de «¿existe la literatura en Taiwán?» hasta el primer premio de Yang Kui en Japón; desde la represión lingüística hasta el resurgimiento de múltiples voces: una epopeya de cuatrocientos años sobre cómo las voces buscaron palabras y las palabras buscaron un hogar'
 date: 2026-03-24
-author: 'Taiwan.md'
 category: 'Art'
+tags:
+  [
+    'literatura',
+    'historia',
+    'cultura',
+    'Lai He',
+    'Bai Xianyong',
+    'literatura indígena',
+    'literatura local',
+    'debates literarios',
+  ]
 subcategory: '文學'
-tags: [
-'文學',
-'歷史',
-'文化',
-'賴和',
-'白先勇',
-'原住民文學',
-'鄉土文學',
-'文學論戰',
-]
-readingTime: 13
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: true
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣文學史.md'
-sourceCommitSha: '4d7fab8e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:894f1af0d29b3b98'
 sourceBodyHash: 'sha256:b3ce615995198c0c'
-translatedAt: '2026-05-01T20:54:23+08:00'
-
+translatedAt: '2026-11-17T17:56:29.477459+00:00'
 ---
 
 # Historia de la literatura taiwanesa
