@@ -1,5 +1,5 @@
 {
-  "$comment": "2026 九合一選舉：多視角觀點頁的來源清單。每筆含網址、抓取日期與引用的原文片段。所有 excerpts 已在 2026-10-20 重新抓取原頁比對，逐字（忽略空白）出現在原文。usedAs=quote 的片段即頁面「原文摘錄」區塊顯示的文字。",
+  "$comment": "2026 九合一選舉：多視角觀點頁的來源清單。每筆含網址、抓取日期與引用的原文片段。所有 excerpts 已在 2026-10-20 重新抓取原頁比對，逐字（忽略空白）出現在原文。usedAs=quote 的片段即頁面「原文摘錄」區塊顯示的文字。2026-11-17 修訂時再抓一次：原有 51 段引文中 47 段逐字相符，另 4 段（udn-9112733、cec-ebook2021-27、cec-ebook2021-33、inside-7980）來源擋爬蟲或要前端載入、沒有重新比對；新增的 mnd-afjournal-701、cec-db-p13、cec-db-p15 抓取日為 2026-11-17。",
   "page": "/elections/2026/perspectives/",
   "retrievedAt": "2026-10-20",
   "method": "以 curl 抓取 fetchUrl 原始頁面（PDF 以 pdftotext 轉文字；中選會新聞稿網頁由前端載入，改抓同篇的官方 API），去除 HTML 標籤後比對 excerpt（忽略空白字元）。",
@@ -1256,8 +1256,9 @@
         {
           "text": "並將與第三方事實查核機構、社群平臺業者強化溝通交流，適時揭露並下架不實網路資訊，以防制境外敵對勢力對我影響力作戰，維護國內純淨輿論環境。",
           "verified": true,
-          "usedAs": ["fact"],
-          "usedIn": ["interference-claims"]
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["國家安全局"]
         }
       ],
       "note": "PDF 未標發布日期。"
@@ -1284,6 +1285,36 @@
           "usedIn": []
         }
       ]
+    },
+    {
+      "id": "mnd-afjournal-701",
+      "publisher": "國防部（空軍學術雙月刊）",
+      "title": "認知作戰對國家安全影響之探討",
+      "url": "https://www.mnd.gov.tw/File/48901",
+      "date": "2024-08",
+      "retrievedAt": "2026-11-17",
+      "excerpts": [
+        {
+          "text": "但凡提出質疑或檢視政府效能、公眾人物或事務等情形下，多遭以「認知作戰」、「灰色地帶(Gray area)」、「資訊戰(Information warfare)」及「三戰(Three Warfares)」回應甚至攻擊",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["徐偉勛"]
+        },
+        {
+          "text": "然現今社會，部分媒體與公眾人物濫用「認知作戰」此一名詞情況下，",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": ["interference-claims"]
+        },
+        {
+          "text": "徐偉勛上校，指職軍官91年班，步兵正規班346期、陸軍指參學院104年班。曾任機步旅排、連長，裝甲旅營長、作戰科長、作計室聯參官。現任國防大學政戰學院中共軍事事務研究所114年班研究生。",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": ["interference-claims"]
+        }
+      ],
+      "note": "《空軍學術雙月刊》第 701 期（2024 年 8 月）頁 51–52，作者陸軍上校徐偉勛。PDF 為雙欄排版，pdftotext -layout 後取左欄逐行拼接比對（右欄小標「定義」會插在行間，比對時略過）。2026-11-17 補入，讓「干預警告與貼標籤」主題的批評方多一個非政黨的聲音。"
     },
     {
       "id": "cna-202605020189",
@@ -1536,7 +1567,8 @@
           "usedIn": ["fact-checking"],
           "speaker": ["國民黨立法院黨團"]
         }
-      ]
+      ],
+      "note": "2026-11-17 再找國民黨團原始新聞稿或記者會報導，未找到；公視 564065、風傳媒 4157861、TVBS 1694681 有同一事件的報導，但都沒有黨團質疑查核中心偏頗的原文，所以頁面保留這段並在身分欄明寫「據 Newtalk 新頭殼報導」。"
     },
     {
       "id": "newtalk-700184",
@@ -1616,8 +1648,27 @@
           "verified": true,
           "usedAs": ["context"],
           "usedIn": []
+        },
+        {
+          "text": "研究生：劉佳融",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "學位類別：碩士",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "系所名稱：法學院 - 法律學系",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": ["fact-checking"]
         }
-      ]
+      ],
+      "note": "2026-11-17 依論文系統頁面標示身分：研究生、碩士、法學院法律學系、論文出版年 2026、指導教授劉定基；英文題名 Deciding What's True: Fact-Checking and the State。"
     },
     {
       "id": "tfc-105107",
@@ -1693,6 +1744,42 @@
           "usedIn": ["vote-counting"]
         }
       ]
+    },
+    {
+      "id": "cec-db-p13",
+      "publisher": "中央選舉委員會選舉資料庫",
+      "title": "第13任總統副總統選舉",
+      "url": "https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=fddf766f2a250a2e3688d644fda346d2&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000",
+      "fetchUrl": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/P0/00/fddf766f2a250a2e3688d644fda346d2/N/00_000_00_000_0000.json",
+      "date": "2012-01-14",
+      "retrievedAt": "2026-11-17",
+      "excerpts": [
+        {
+          "text": "\"ticket_percent\": 51.6, \"is_victor\": \"*\", \"ris_prv_code\": \"00\", \"ris_city_code\": \"000\", \"ris_area_code\": \"00\", \"ris_dept_code\": \"000\", \"area_name\": \"全國\", \"cand_id\": 8067, \"cand_name\": \"馬英九\", \"cand_sex\": \"1\", \"cand_birthyear\": \"1950\", \"cand_edu\": \"博士\", \"party_code\": 1, \"party_name\": \"中國國民黨\", \"is_current\": \"Y\"",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        }
+      ],
+      "note": "選舉資料庫網頁由前端載入，比對使用同一筆資料的官方 JSON。is_victor 為 * 表示當選，is_current 為 Y 表示現任。用來說明 2012 年 1 月民進黨發表監票聲明時，總統是國民黨籍。"
+    },
+    {
+      "id": "cec-db-p15",
+      "publisher": "中央選舉委員會選舉資料庫",
+      "title": "第15任總統副總統選舉",
+      "url": "https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=1f7d9f4f6bfe06fdaf4db7df2ed4d60c&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000",
+      "fetchUrl": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/P0/00/1f7d9f4f6bfe06fdaf4db7df2ed4d60c/N/00_000_00_000_0000.json",
+      "date": "2020-01-11",
+      "retrievedAt": "2026-11-17",
+      "excerpts": [
+        {
+          "text": "\"ticket_percent\": 57.13, \"is_victor\": \"*\", \"ris_prv_code\": \"00\", \"ris_city_code\": \"000\", \"ris_area_code\": \"00\", \"ris_dept_code\": \"000\", \"area_name\": \"全國\", \"cand_id\": 8081, \"cand_name\": \"蔡英文\", \"cand_sex\": \"2\", \"cand_birthyear\": \"1956\", \"cand_edu\": \"博士\", \"party_code\": 16, \"party_name\": \"民主進步黨\", \"is_current\": \"Y\"",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        }
+      ],
+      "note": "選舉資料庫網頁由前端載入，比對使用同一筆資料的官方 JSON。用來說明 2022 年 10 月國民黨招募監票志工時，總統是 2020 年當選連任的民進黨籍（任期至 2024 年 5 月 20 日，見總統府〈行憲後歷任總統〉）。"
     },
     {
       "id": "dpp-4860",

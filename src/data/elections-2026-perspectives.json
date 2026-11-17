@@ -1,6 +1,6 @@
 {
   "$comment": "2026 九合一選舉多視角觀點頁資料。內容 SSOT 在 reports/research/2026-10/elections-2026/perspectives-sources.json（含每則引語的原文摘錄與抓取日期）。quote 欄位必須逐字出現在來源原文。",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-11-17",
   "sourcesFileUrl": "https://github.com/frank890417/taiwan-md/blob/main/reports/research/2026-10/elections-2026/perspectives-sources.json",
   "issues": [
     {
@@ -1104,9 +1104,9 @@
             "ja": "外国による選挙介入への警告と、「レッテル」への懸念"
           },
           "question": {
-            "zh-TW": "國安機關與陸委會公開警告境外勢力正在介入選舉。也有政黨人士與人權團體提醒，「認知作戰」「假訊息」這類說法如果沒有清楚標準，可能壓縮國內的不同意見。",
-            "en": "Security agencies and the Mainland Affairs Council publicly warn that foreign forces are interfering in the election. Some party figures and human rights groups caution that without clear standards, labels such as “cognitive warfare” or “disinformation” may squeeze out legitimate disagreement at home.",
-            "ja": "国家安全機関と大陸委員会は、外国勢力が選挙に介入していると公に警告しています。一方で政党関係者や人権団体は、「認知戦」や「偽情報」といった言葉に明確な基準がなければ、国内の異なる意見を狭めかねないと注意を促しています。"
+            "zh-TW": "國安機關與陸委會公開警告境外勢力正在介入選舉。也有政黨人士、人權團體與研究者提醒，「認知作戰」「假訊息」這類說法如果沒有清楚標準，可能壓縮國內的不同意見。",
+            "en": "Security agencies and the Mainland Affairs Council publicly warn that foreign forces are interfering in the election. Some party figures, human rights groups and researchers caution that without clear standards, labels such as “cognitive warfare” or “disinformation” may squeeze out legitimate disagreement at home.",
+            "ja": "国家安全機関と大陸委員会は、外国勢力が選挙に介入していると公に警告しています。一方で政党関係者や人権団体、研究者は、「認知戦」や「偽情報」といった言葉に明確な基準がなければ、国内の異なる意見を狭めかねないと注意を促しています。"
           },
           "facts": [
             {
@@ -1114,14 +1114,6 @@
                 "zh-TW": "國家安全局發布的〈2025年中共對臺認知作戰操作手法分析〉寫到，2025 年國安團隊查報超過 4.5 萬組異常帳號，蒐集超過 231.4 萬則爭議訊息，通報政府相關部門 3,200 多則。",
                 "en": "The National Security Bureau’s report “Analysis of the CCP’s Cognitive Warfare Tactics Against Taiwan in 2025” says security teams flagged more than 45,000 sets of anomalous accounts in 2025, collected more than 2.314 million pieces of disputed content, and referred more than 3,200 of them to government agencies.",
                 "ja": "国家安全局が公表した「2025 年 中国共産党の対台湾認知戦の手法分析」によると、2025 年に国家安全チームは 4.5 万組を超える異常アカウントを検出し、231.4 万件を超える問題のある情報を収集し、3,200 件余りを関係する政府部門に通報しました。"
-              },
-              "sources": ["nsb-2025"]
-            },
-            {
-              "text": {
-                "zh-TW": "同一份報告的結語寫到，國安局將與第三方事實查核機構、社群平台加強溝通，「適時揭露並下架不實網路資訊」，以防制境外敵對勢力的影響力作戰。報告沒有標示發布日期。",
-                "en": "The same report concludes that the bureau will strengthen communication with third-party fact-checkers and social media platforms to “expose and take down false online information in a timely manner” in order to counter influence operations by hostile foreign forces. The report carries no publication date.",
-                "ja": "同じ報告の結語は、国家安全局が第三者のファクトチェック機関や SNS 事業者との連携を強め、「ネット上の虚偽情報を適時に明らかにして削除させる」ことで、敵対的な外国勢力の影響力工作を防ぐとしています。報告に公表日の記載はありません。"
               },
               "sources": ["nsb-2025"]
             }
@@ -1151,6 +1143,32 @@
               "quoteTranslation": {
                 "en": "Under exactly what circumstances may state power intervene in people’s speech on the grounds of disinformation? Are the existing laws necessary as regulation? In enforcement, how can the chilling effect of police summoning people for questioning be reduced?",
                 "ja": "いったいどのような状況であれば、国家権力が偽情報を理由に人々の言論へ介入できるのか。既存の法律に、規制としての必要性はあるのか。執行の面では、警察が人々を呼び出して事情を聴くことによる萎縮効果をどう減らすのか。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2024-08",
+              "speaker": {
+                "zh-TW": "徐偉勛",
+                "en": "徐偉勛",
+                "ja": "徐偉勛"
+              },
+              "role": {
+                "zh-TW": "陸軍上校、國防大學政戰學院研究生（《空軍學術雙月刊》第 701 期論文〈認知作戰對國家安全影響之探討〉）",
+                "en": "Army colonel and graduate student at 國防大學政戰學院 (National Defense University); paper in the Air Force journal 空軍學術雙月刊, issue 701 (〈認知作戰對國家安全影響之探討〉, on cognitive warfare and national security)",
+                "ja": "陸軍大佐、国防大学政治作戦学院の大学院生（『空軍学術双月刊』第 701 期の論文「認知戦が国家安全に及ぼす影響の検討」）"
+              },
+              "summary": {
+                "zh-TW": "指出部分媒體與公眾人物濫用「認知作戰」一詞，質疑政府效能的聲音常被冠上這類標籤回應甚至攻擊。全文主旨仍在分析中共認知作戰的威脅。",
+                "en": "Notes that some media and public figures misuse the term “cognitive warfare,” so that voices questioning government performance are often answered, or even attacked, with such labels. The paper’s main subject is still the threat of CCP cognitive warfare.",
+                "ja": "一部のメディアや公人が「認知戦」という言葉を乱用し、政府の実績に疑問を呈する声がこうしたレッテルで応じられ、攻撃されることさえあると指摘しています。論文の主眼はあくまで中国共産党の認知戦の脅威の分析にあります。"
+              },
+              "quote": "但凡提出質疑或檢視政府效能、公眾人物或事務等情形下，多遭以「認知作戰」、「灰色地帶(Gray area)」、「資訊戰(Information warfare)」及「三戰(Three Warfares)」回應甚至攻擊",
+              "quoteLang": "zh",
+              "sources": ["mnd-afjournal-701"],
+              "quoteTranslation": {
+                "en": "Whenever people question or scrutinize government performance, public figures or public affairs, they are mostly met with, or even attacked by, the labels “cognitive warfare,” “gray zone,” “information warfare” and the “three warfares.”",
+                "ja": "政府の実績や公人、公共の事柄に疑問を呈したり検証したりすると、たいてい「認知戦」「グレーゾーン」「情報戦」「三戦」といった言葉で応じられ、攻撃されることさえある。"
               }
             },
             {
@@ -1229,6 +1247,32 @@
               "quoteTranslation": {
                 "en": "MAC minister 邱垂正 said today that the CCP’s interference in Taiwan’s election is already openly under way, including transnational repression and cognitive warfare, and that especially near the end of the campaign it may confuse and mislead the public to influence voters’ judgment and voting behavior.",
                 "ja": "大陸委員会の邱垂正主任委員は、中国共産党の台湾選挙への介入はすでにあからさまに進行しており、越境弾圧や認知戦を含み、特に選挙終盤には混乱や誤った誘導で有権者の判断や投票行動に影響を与えるおそれがあると述べた。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": null,
+              "speaker": {
+                "zh-TW": "國家安全局",
+                "en": "National Security Bureau",
+                "ja": "国家安全局"
+              },
+              "role": {
+                "zh-TW": "〈2025年中共對臺認知作戰操作手法分析〉結語（報告未標示發布日期）",
+                "en": "Conclusion of “Analysis of the CCP’s Cognitive Warfare Tactics Against Taiwan in 2025” (the report carries no publication date)",
+                "ja": "「2025 年 中国共産党の対台湾認知戦の手法分析」の結語（報告に公表日の記載なし）"
+              },
+              "summary": {
+                "zh-TW": "表示會和第三方事實查核機構、社群平台加強溝通，適時揭露並下架不實網路資訊，以防制境外影響力作戰。",
+                "en": "Says it will strengthen communication with third-party fact-checkers and social media platforms, exposing and taking down false online information in a timely manner to counter foreign influence operations.",
+                "ja": "第三者のファクトチェック機関や SNS 事業者との連携を強め、ネット上の虚偽情報を適時に明らかにして削除させ、外国の影響力工作を防ぐとしています。"
+              },
+              "quote": "並將與第三方事實查核機構、社群平臺業者強化溝通交流，適時揭露並下架不實網路資訊，以防制境外敵對勢力對我影響力作戰，維護國內純淨輿論環境。",
+              "quoteLang": "zh",
+              "sources": ["nsb-2025"],
+              "quoteTranslation": {
+                "en": "…and will strengthen communication and exchanges with third-party fact-checking organizations and social media platforms, exposing and taking down false online information in a timely manner, in order to counter influence operations against us by hostile foreign forces and maintain a pure domestic public-opinion environment.",
+                "ja": "……第三者のファクトチェック機関や SNS 事業者との意思疎通と交流を強め、ネット上の虚偽情報を適時に明らかにして削除させ、敵対的な外国勢力によるわが国への影響力工作を防ぎ、国内の純粋な世論環境を守る。"
               }
             }
           ],
@@ -1313,9 +1357,9 @@
                 "ja": "国民党立法院会派"
               },
               "role": {
-                "zh-TW": "2022 年預算審查（新頭殼轉述）",
-                "en": "2022 budget review (as reported by Newtalk)",
-                "ja": "2022 年の予算審査（新頭殻の報道）"
+                "zh-TW": "2022 年預算審查（據 Newtalk 新頭殼報導）",
+                "en": "2022 budget review (according to a Newtalk report)",
+                "ja": "2022 年の予算審査（新頭殻（Newtalk）の報道による）"
               },
               "summary": {
                 "zh-TW": "審查預算時要求華視停止和查核中心合作，質疑查核中心挑選案例偏頗。",
@@ -1443,9 +1487,9 @@
                 "ja": "劉佳融"
               },
               "role": {
-                "zh-TW": "政治大學法律學系碩士論文〈如何決定真相：事實查核與國家的距離〉",
-                "en": "Master’s thesis, Department of Law, National Chengchi University: “How Truth Is Decided: The Distance Between Fact-Checking and the State”",
-                "ja": "国立政治大学法律学科修士論文「真実をどう決めるか：ファクトチェックと国家の距離」"
+                "zh-TW": "政治大學法律學系研究生，碩士論文〈如何決定真相：事實查核與國家的距離〉（2026，指導教授劉定基）",
+                "en": "Graduate student, Department of Law, National Chengchi University; master’s thesis “Deciding What’s True: Fact-Checking and the State” (2026, advisor 劉定基)",
+                "ja": "国立政治大学法律学科の大学院生、修士論文「真実をどう決めるか：ファクトチェックと国家の距離」（2026 年、指導教員 劉定基）"
               },
               "summary": {
                 "zh-TW": "指出事實查核在資金來源、人事、選題與判準的中立性上有爭議，並擔心政府把查核組織納入平台治理架構，讓兩者距離越來越近。",
@@ -1515,6 +1559,14 @@
                 "ja": "2023 年の南投県の立法委員補欠選挙では、監視を名乗る人たちが投票所の外で撮影し、投票者の特徴を記録したため、警察が投票妨害の疑いで送致しました。"
               },
               "sources": ["cna-202303090199"]
+            },
+            {
+              "text": {
+                "zh-TW": "下方民進黨 2012 年的聲明與國民黨 2022 年的監票動員，發表時兩黨都不是總統所屬政黨：2012 年 1 月 14 日總統大選，在任的國民黨籍馬英九連任；2022 年九合一選舉時的總統，是 2020 年連任的民進黨籍蔡英文。",
+                "en": "When the DPP issued its 2012 statement and the KMT mobilized poll-watchers in 2022, as listed below, neither held the presidency: in the January 14, 2012 presidential election, the incumbent 馬英九 of the KMT was re-elected, and the president during the 2022 local elections was 蔡英文 of the DPP, re-elected in 2020.",
+                "ja": "下に挙げた民進党の 2012 年の声明と国民党の 2022 年の監視動員は、いずれも総統の所属政党ではない時期のものです。2012 年 1 月 14 日の総統選挙では現職で国民党の馬英九が再選され、2022 年の統一地方選挙のときの総統は 2020 年に再選された民進党の蔡英文でした。"
+              },
+              "sources": ["cec-db-p13", "cec-db-p15"]
             }
           ],
           "views": [
@@ -1527,9 +1579,9 @@
                 "ja": "民主進歩党"
               },
               "role": {
-                "zh-TW": "時為在野黨，2012 年大選後回應選民對選務的質疑",
-                "en": "Then in opposition, responding to voters’ doubts about the 2012 election administration",
-                "ja": "当時は野党。2012 年の総統・立法委員選挙後、選挙事務への疑問に回答"
+                "zh-TW": "2012 年大選後回應選民對選務的質疑（當時總統為國民黨籍馬英九）",
+                "en": "Responding to voters’ doubts about the 2012 election administration (the president at the time was 馬英九 of the KMT)",
+                "ja": "2012 年の総統・立法委員選挙後、選挙事務への疑問に回答（当時の総統は国民党の馬英九）"
               },
               "summary": {
                 "zh-TW": "表示要推動修法，讓開票過程全程錄影，以昭公信。",
@@ -1579,9 +1631,9 @@
                 "ja": "中国国民党"
               },
               "role": {
-                "zh-TW": "時為在野黨，2022 年九合一前招募監票志工（中央社轉述）",
-                "en": "Then in opposition, recruiting poll-watch volunteers before the 2022 local elections (as reported by CNA)",
-                "ja": "当時は野党。2022 年の統一地方選挙を前に監視ボランティアを募集（中央通訊社の報道）"
+                "zh-TW": "2022 年九合一前招募監票志工（當時總統為民進黨籍蔡英文；中央社轉述）",
+                "en": "Recruiting poll-watch volunteers before the 2022 local elections (the president at the time was 蔡英文 of the DPP; as reported by CNA)",
+                "ja": "2022 年の統一地方選挙を前に監視ボランティアを募集（当時の総統は民進党の蔡英文。中央通訊社の報道）"
               },
               "summary": {
                 "zh-TW": "在各開票所外安排志工監看投開票與報票，表示目的是預防作票。",
@@ -2511,6 +2563,17 @@
       "date": "2020-01-13"
     },
     {
+      "id": "mnd-afjournal-701",
+      "publisher": {
+        "zh-TW": "國防部（空軍學術雙月刊）",
+        "en": "Ministry of National Defense (空軍學術雙月刊)",
+        "ja": "国防部（空軍学術双月刊）"
+      },
+      "title": "認知作戰對國家安全影響之探討",
+      "url": "https://www.mnd.gov.tw/File/48901",
+      "date": "2024-08"
+    },
+    {
       "id": "cna-202605020189",
       "publisher": {
         "zh-TW": "中央社",
@@ -2740,6 +2803,28 @@
       "title": "鄭運鵬爆選舉監票文件 林家興譴責造假抹黑",
       "url": "https://www.cna.com.tw/news/aipl/202303090199.aspx",
       "date": "2023-03-09"
+    },
+    {
+      "id": "cec-db-p13",
+      "publisher": {
+        "zh-TW": "中央選舉委員會選舉資料庫",
+        "en": "Central Election Commission election database",
+        "ja": "中央選挙委員会 選挙データベース"
+      },
+      "title": "第13任總統副總統選舉",
+      "url": "https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=fddf766f2a250a2e3688d644fda346d2&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000",
+      "date": "2012-01-14"
+    },
+    {
+      "id": "cec-db-p15",
+      "publisher": {
+        "zh-TW": "中央選舉委員會選舉資料庫",
+        "en": "Central Election Commission election database",
+        "ja": "中央選挙委員会 選挙データベース"
+      },
+      "title": "第15任總統副總統選舉",
+      "url": "https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=1f7d9f4f6bfe06fdaf4db7df2ed4d60c&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000",
+      "date": "2020-01-11"
     },
     {
       "id": "dpp-4860",
