@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T05:51:08+08:00",
-    "zhCommitHead": "0520290a6",
+    "lastUpdated": "2026-11-18T06:09:51+08:00",
+    "zhCommitHead": "64e0d9770",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -20,57 +20,57 @@
     "summary": {
       "en": {
         "total_zh": 1186,
-        "fresh": 644,
+        "fresh": 645,
         "stale": 53,
-        "metadata_stale": 467,
+        "metadata_stale": 466,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1186,
-        "fresh": 644,
+        "fresh": 645,
         "stale": 49,
         "metadata_stale": 467,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1186,
-        "fresh": 649,
+        "fresh": 650,
         "stale": 54,
-        "metadata_stale": 460,
+        "metadata_stale": 459,
         "missing": 23,
         "orphan": 0
       },
       "es": {
         "total_zh": 1186,
-        "fresh": 649,
+        "fresh": 650,
         "stale": 55,
         "metadata_stale": 458,
-        "missing": 24,
+        "missing": 23,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1186,
-        "fresh": 651,
+        "fresh": 652,
         "stale": 50,
-        "metadata_stale": 463,
+        "metadata_stale": 462,
         "missing": 22,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1186,
-        "fresh": 639,
+        "fresh": 640,
         "stale": 65,
-        "metadata_stale": 459,
+        "metadata_stale": 458,
         "missing": 23,
         "orphan": 0
       },
       "id": {
         "total_zh": 1186,
-        "fresh": 637,
+        "fresh": 638,
         "stale": 61,
-        "metadata_stale": 465,
+        "metadata_stale": 464,
         "missing": 23,
         "orphan": 0
       },
@@ -84,33 +84,33 @@
       },
       "hi": {
         "total_zh": 1186,
-        "fresh": 639,
+        "fresh": 640,
         "stale": 66,
-        "metadata_stale": 458,
+        "metadata_stale": 457,
         "missing": 23,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1186,
-        "fresh": 647,
+        "fresh": 649,
         "stale": 57,
-        "metadata_stale": 459,
-        "missing": 23,
+        "metadata_stale": 458,
+        "missing": 22,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1186,
-        "fresh": 656,
+        "fresh": 657,
         "stale": 49,
-        "metadata_stale": 458,
+        "metadata_stale": 457,
         "missing": 23,
         "orphan": 0
       },
       "de": {
         "total_zh": 1186,
-        "fresh": 626,
+        "fresh": 627,
         "stale": 67,
-        "metadata_stale": 470,
+        "metadata_stale": 469,
         "missing": 23,
         "orphan": 0
       }
@@ -28600,20 +28600,18 @@
         "ar": {
           "path": "ar/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "b67b190fb",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:85f9d09627902abf",
           "sourceBodyHash": "sha256:c4a7f62bbc68876d",
-          "translatedAt": "2026-09-08T00:33:58.455880+00:00",
+          "translatedAt": "2026-11-17T21:51:00.241064+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 77597,
+          "bytes": 77649,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-bim-construction-tech.md",
@@ -37130,20 +37128,18 @@
         "ru": {
           "path": "ru/Technology/justfont-and-taiwan-typography.md",
           "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "1ec0df23",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:4e382a7fba09b7dd",
           "sourceBodyHash": "sha256:83fcd71da8d50603",
-          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translatedAt": "2026-11-17T21:51:04.459429+00:00",
           "translationLastCommit": "436fdfa4",
           "translationLastModified": "2026-11-02T16:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 65,
-          "bytes": 84811,
+          "bytes": 84871,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/justfont-and-taiwan-typography.md",
@@ -41128,20 +41124,18 @@
         "en": {
           "path": "en/Art/taiwanese-prose.md",
           "translatedFrom": "Art/台灣散文.md",
-          "sourceCommitSha": "f40273072",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:9f56c23ee6489760",
           "sourceBodyHash": "sha256:2c9c292fec3fdb34",
-          "translatedAt": "2026-10-10T12:07:00+08:00",
+          "translatedAt": "2026-11-17T21:51:12.444626+00:00",
           "translationLastCommit": "b1981212",
           "translationLastModified": "2026-10-10T17:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14039,
+          "bytes": 14098,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/taiwanese-prose.md",
@@ -41164,20 +41158,18 @@
         "ko": {
           "path": "ko/Art/taiwanese-prose.md",
           "translatedFrom": "Art/台灣散文.md",
-          "sourceCommitSha": "f40273072",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:9f56c23ee6489760",
           "sourceBodyHash": "sha256:2c9c292fec3fdb34",
-          "translatedAt": "2026-10-10T12:07:01+08:00",
+          "translatedAt": "2026-11-17T21:51:15.742931+00:00",
           "translationLastCommit": "33df952b",
           "translationLastModified": "2026-10-10T16:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 15408,
+          "bytes": 15467,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/taiwanese-prose.md",
@@ -41200,20 +41192,18 @@
         "fr": {
           "path": "fr/Art/taiwanese-prose.md",
           "translatedFrom": "Art/台灣散文.md",
-          "sourceCommitSha": "f40273072",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:9f56c23ee6489760",
           "sourceBodyHash": "sha256:2c9c292fec3fdb34",
-          "translatedAt": "2026-10-10T12:07:02+08:00",
+          "translatedAt": "2026-11-17T21:53:53.058651+00:00",
           "translationLastCommit": "9e173326",
           "translationLastModified": "2026-10-10T16:12:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 16134,
+          "bytes": 16193,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/taiwanese-prose.md",
@@ -41236,20 +41226,18 @@
         "id": {
           "path": "id/Art/taiwanese-prose.md",
           "translatedFrom": "Art/台灣散文.md",
-          "sourceCommitSha": "f40273072",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:9f56c23ee6489760",
           "sourceBodyHash": "sha256:2c9c292fec3fdb34",
-          "translatedAt": "2026-10-10T03:00:58.097791+00:00",
+          "translatedAt": "2026-11-17T21:54:00.417774+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14220,
+          "bytes": 14272,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-prose.md",
@@ -47424,8 +47412,8 @@
           "sourceContentHash": "sha256:9ea16a828e45af61",
           "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
           "translatedAt": "2026-11-17T20:28:47.213618+00:00",
-          "translationLastCommit": "0e249950",
-          "translationLastModified": "2026-10-10T23:16:36+08:00",
+          "translationLastCommit": "88443a28",
+          "translationLastModified": "2026-11-18T05:51:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 32403,
@@ -51214,8 +51202,8 @@
           "sourceContentHash": "sha256:d85b6c99ab72b318",
           "sourceBodyHash": "sha256:f6ae8560d7e03438",
           "translatedAt": "2026-11-17T21:28:02.731571+00:00",
-          "translationLastCommit": "7f76f90c",
-          "translationLastModified": "2026-10-13T14:13:43+08:00",
+          "translationLastCommit": "0520290a",
+          "translationLastModified": "2026-11-18T05:50:50+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "bytes": 46350,
@@ -51852,8 +51840,8 @@
           "sourceContentHash": "sha256:b7ca49d82827acde",
           "sourceBodyHash": "sha256:2e1cc7bd2fbaf9b1",
           "translatedAt": "2026-11-18T00:50:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0520290a",
+          "translationLastModified": "2026-11-18T05:50:50+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 16521,
@@ -59716,7 +59704,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:48:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 15718,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/organ-donation.md",
@@ -59735,7 +59736,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:49:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 17415,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/organ-donation.md",
@@ -75459,8 +75473,8 @@
           "sourceContentHash": "sha256:13ad9f4bddf2a29a",
           "sourceBodyHash": "sha256:834d3f803cfd3af2",
           "translatedAt": "2026-11-18T00:51:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "88443a28",
+          "translationLastModified": "2026-11-18T05:51:08+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 29473,
@@ -75469,7 +75483,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-life-expectancy.md",
+          "translatedFrom": "Society/台灣平均餘命.md",
+          "sourceCommitSha": "04eecf4c4",
+          "sourceContentHash": "sha256:13ad9f4bddf2a29a",
+          "sourceBodyHash": "sha256:834d3f803cfd3af2",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 19751,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -91173,20 +91200,18 @@
         "vi": {
           "path": "vi/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "c24076169",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
-          "translatedAt": "2026-09-21T23:34:04+08:00",
+          "translatedAt": "2026-11-17T21:53:56.806639+00:00",
           "translationLastCommit": "00397ac3",
           "translationLastModified": "2026-09-22T02:39:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 18376,
+          "bytes": 18435,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/taiwan-marine-conservation-challenges.md",
@@ -91195,8 +91220,8 @@
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
           "translatedAt": "2026-11-17T20:27:14.947350+00:00",
-          "translationLastCommit": "0c26a62b",
-          "translationLastModified": "2026-09-21T23:16:24+08:00",
+          "translationLastCommit": "0520290a",
+          "translationLastModified": "2026-11-18T05:50:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 15166,
@@ -117334,20 +117359,18 @@
         "hi": {
           "path": "hi/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "21298a7a",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:c2aa8f15ab2b1700",
           "sourceBodyHash": "sha256:7119ad62eb825546",
-          "translatedAt": "2026-07-29T07:32:35+08:00",
+          "translatedAt": "2026-11-17T21:50:55.989530+00:00",
           "translationLastCommit": "1862bcff",
           "translationLastModified": "2026-10-10T23:28:54+08:00",
           "inferred": false,
           "footnoteDefs": 92,
-          "bytes": 134734,
+          "bytes": 134780,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yang-dechang.md",
@@ -131039,20 +131062,18 @@
         "de": {
           "path": "de/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "89b721a3d",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
           "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
-          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translatedAt": "2026-11-17T21:51:08.453883+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 50638,
+          "bytes": 51428,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
