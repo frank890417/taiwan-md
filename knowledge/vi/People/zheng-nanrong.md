@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭南榕.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:97d9bc4f07653a81'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:8c5f343cec62a07b'
 sourceBodyHash: 'sha256:91b4c7638f35fd2f'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-17T22:24:13.842486+00:00'
 ---
 
 # Trịnh Nam Dung
@@ -119,23 +121,23 @@ Trịnh Nam Dung để lại một câu hỏi có thể tiếp tục được tr
 
 ## Tài liệu tham khảo
 
-[^1]: [Tuần san Tự do Thời đại — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Xác nhận ngày khai trương 12 tháng 3 năm 1984, 24 tờ giấy phép được cấp, 18 lần kiểm duyệt.
-
-[^2]: [Quỹ Trịnh Nam Dung · Tưởng niệm đường](https://www.nfreedommemorialfoundation.org/) — Bảng thời biểu tiểu sử: năm 1987 công khai phát động hoạt động kỷ niệm Sự kiện 228, thời gian truy tố tội phản quốc ngày 21 tháng 1 năm 1989.
-
-[^3]: [Hứa Thế Khải — Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Bối cảnh tác giả của "Dự thảo Hiến pháp Cộng hòa Đài Loan"; quá trình được công bố trên Tuần san Tự do Thời đại kỳ 254 gây ra cuộc truy tố.
-
-[^4]: [Trịnh Nam Dung — Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Xác nhận ngày 7 tháng 4 năm 1989 cuộc phá cửa được Hầu Hữu Nghi — trưởng phòng hình sự Chi nhánh Trung Sơn dẫn đội; Triệu Ích Hoà tự thiêu bảy ngày sau trong diễu hành đưa linh cữu.
-
-[^5]: [Diệp Cúc Lan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Xác nhận công chức đảm nhiệm: đại biểu Quốc hội, Bộ trưởng Giao thông, Chủ tịch Ủy ban Dân tộc, Phó Viện Hành pháp, Thư ký Phủ Tổng thống (2006–2007).
-
-[^6]: [Ngày Tự do Ngôn luận — Viện Hành pháp](https://www.ey.gov.tw/) — Công bố xác định ngày 7 tháng 4 là Ngày Tự do Ngôn luận vào ngày 22 tháng 12 năm 2016.
-
 **Đọc thêm**
 
-- [Tăng Bác Ơn](/vi/people/bernard-tseng) — Tháng 8 năm 2019, MC Tăng Bác Ơn của chương trình "Tăng Bác Ơn Đêm Đêm" tại Open Mic đã trích dẫn đoạn tự thiêu của Trịnh Nam Dung, gây ra phản ứng xã hội gay gắt, lần đầu tiên tạm dừng hợp tác với Sartre
-- [Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/) — Lịch sử miệng nói về Khủng bố Trắng và phong trào dân chủ
-- Hồ Huệ Linh, _Trăm năm theo đuổi: Câu chuyện của phong trào dân chủ Đài Loan_ — Ghi chép chi tiết về Trịnh Nam Dung và phong trào ngoài Quốc hội
-- [Quỹ Kỷ niệm Sự kiện 228](https://www.228.org.tw/) — Mối liên hệ giữa gia đình Trịnh Nam Dung và Sự kiện 228
-- [Sự kiện Đảo Đẹp — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Sự kiện chủ chốt tạo ra động lực cho Trịnh Nam Dung bước vào phong trào xã hội
-- Phim tài liệu _Linh hồn của Tự do: Nylon_ (Đạo diễn: Thái Sùng Long, 2009) — Tái hiện quá trình sống của Trịnh Nam Dung và quyết định tự thiêu thông qua các cuộc phỏng vấn nhân chứng và hình ảnh lịch sử
+- [Tăng Bác Ân](/vi/people/bernard-tseng) — Tháng 8 năm 2019, người dẫn chương trình "Bo En Ye Ye Show" đã sử dụng một mẩu chuyện đùa về việc Trịnh Nam Dung tự thiêu trong buổi Open Mic, gây ra phản ứng dữ dội từ xã hội và lần đầu tiên tạm dừng hợp tác với Satire.
+- [Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/) — Lịch sử truyền miệng về Khủng bố Trắng và các phong trào dân chủ.
+- Hồ Tuệ Linh, _Hành trình trăm năm: Câu chuyện về phong trào dân chủ Đài Loan_ — Ghi chép chi tiết về Trịnh Nam Dung và phong trào Đảng ngoại.
+- [Quỹ Kỷ niệm Sự kiện 228](https://www.228.org.tw/) — Mối liên hệ giữa gia đình Trịnh Nam Dung và sự kiện 228.
+- [Sự kiện Đảo Đẹp (Formosa Incident) — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Sự kiện then chốt thúc đẩy Trịnh Nam Dung tham gia các hoạt động xã hội.
+- Phim tài liệu _Linh hồn tự do Nylon_ (Đạo diễn: Thái Sùng Long, 2009) — Tái hiện quá trình cuộc đời và quyết định tự thiêu của Trịnh Nam Dung thông qua các cuộc phỏng vấn nhân chứng và tư liệu lịch sử.
+
+[^1]: [Tạp chí Tuần báo Thời đại Tự do — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Xác nhận ngày thành lập là 12 tháng 3 năm 1984, có 24 giấy phép đăng ký và 18 lần bị đình bản.
+
+[^2]: [Quỹ Trịnh Nam Dung • Nhà lưu niệm](https://www.nfreedommemorialfoundation.org/) — Niên biểu cuộc đời: Năm 1987 công khai khởi xướng các hoạt động kỷ niệm 228; trình tự thời gian bị truy tố về tội phản loạn vào ngày 21 tháng 1 năm 1989.
+
+[^3]: [Hứa Thế Khải — Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Bối cảnh tác giả của "Dự thảo Hiến pháp Cộng hòa Đài Loan"; quá trình đăng tải trên Tuần báo Thời đại Tự do số 254 dẫn đến việc bị truy tố.
+
+[^4]: [Trịnh Nam Dung — Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Xác nhận cuộc đột kích ngày 7 tháng 4 năm 1989 do Hầu Hữu Nghi thuộc Phân cục Trung Sơn dẫn đầu; Chiêm Ích Hoa đã tự thiêu trong đoàn đưa tang bảy ngày sau đó.
+
+[^5]: [Diệp Cúc Lan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Xác nhận các chức vụ công tác: Ủy viên Lập pháp, Bộ trưởng Giao thông, Chủ tịch Ủy ban Phát triển Vùng người Khách Gia, Phó Viện trưởng Hành chính viện, Tổng thư ký Phủ Tổng thống (2006–2007).
+
+[^6]: [Ngày Tự do Ngôn luận — Hành chính viện](https://www.ey.gov.tw/) — Thông báo phê duyệt ngày 7 tháng 4 là Ngày Tự do Ngôn luận vào ngày 22 tháng 12 năm 2016.

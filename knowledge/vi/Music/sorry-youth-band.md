@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/拍謝少年.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-17T23:32:18.351834+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 2005, ba chàng trai ở Đài Nam đã quyết định thành lập một ban nhạc rock toàn bộ bằng tiếng Đài Loan sau những lời gào thét trong mùa xuân. Vấn đề là: chỉ có Giang Giang (Jiang Jiang) biết nói tiếng Đài Loan từ nhỏ. 《Hải Vị Khẩu》 (2012) có bìa in hình cá trích; 《Huynh Đệ Vô Mộng Bất Nên》 (2017) đoạt giải Thiết kế tốt nhất tại Giải thưởng Kim Cúc và Rock tốt nhất tại Giải thưởng Kim Âm; 《Đãi Tệ Hảo Thế》 (2021) gây quỹ trên 3,1 triệu Đài tệ qua flyingV; còn 《Nhiễu Cung Dịch》 (2024) lại phá kỷ lục gây quỹ của chính mình và giành giải Rock tốt nhất tại Giải thưởng Kim Âm lần thứ ba. Từ một ban nhạc dân văn phòng thành các nghệ sĩ toàn thời gian, trong hai mươi năm qua, sự đồng thuận của Vi Ni (Wei Ni), Giang Giang và Tông Hàn (Zong Han) luôn chỉ là một câu: "Mọi người hãy sống tốt cuộc đời mình trước đã, âm nhạc mới có thể tồn tại."

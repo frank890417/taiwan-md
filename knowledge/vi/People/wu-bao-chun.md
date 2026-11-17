@@ -2,9 +2,7 @@
 title: 'Ngô Bảo Xuân: Lời hứa với một em nhỏ người Paiwan'
 description: 'Một người con vùng nông thôn Bình Đông, chỉ học hết trung học cơ sở và không biết tiếng Pháp. Tại Paris, ông đã giành huy chương vàng đầu tiên của cuộc thi Bậc thầy Bánh mì Thế giới bằng một ổ bánh mì vải thiều hoa hồng—bên trong chứa đựng lời hứa ông dành cho một em nhỏ người bản địa từ mười năm trước.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '餐飲與職人'
 tags:
   [
     'ẩm thực',
@@ -15,15 +13,19 @@ tags:
     'bánh mì',
     'các dân tộc bản địa',
   ]
-readingTime: 7
+subcategory: '餐飲與職人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-17T23:46:43.981794+00:00'
 ---
 
 # Ngô Bảo Xuân: Lời hứa với một em nhỏ người Paiwan
