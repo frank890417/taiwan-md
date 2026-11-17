@@ -1,16 +1,16 @@
 ---
-title: 'Casamento Igualitário e Igualdade de Gênero em Taiwan'
-description: 'De quem foi detido durante o período marcial ao primeiro país asiático com lei de casamento igualitário, a jornada de 33 anos de Chen Jiawei (祁家威) – petições, autenticações e litígios – redefiniu o casamento em Taiwan.'
+title: 'Casamento entre pessoas do mesmo sexo e igualdade de género em Taiwan'
+description: 'De indivíduos assumidos que foram detidos durante o período de lei marcial à primeira lei de casamento entre pessoas do mesmo sexo na Ásia: os 33 anos de petições, testemunhos e litígios de Chi Chia-wei e como ele fez Taiwan redefinir o conceito de matrimónio'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
-    'Casamento Igualitário',
-    'Igualdade de Gênero',
-    'Direitos Humanos',
-    'Justiça',
-    'Primeiro da Ásia',
-    'Chen Jiawei',
+    'casamento entre pessoas do mesmo sexo',
+    'igualdade de género',
+    'direitos humanos',
+    'judicial',
+    'primeiro na Ásia',
+    'Chi Chia-wei',
     'LGBTQ+',
   ]
 subcategory: '人權與平等'
@@ -20,11 +20,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-10-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: '872f4aef5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:53dce2454f2bc650'
 sourceBodyHash: 'sha256:a975eff83abc0a3e'
-translatedAt: '2026-10-08T00:51:24+08:00'
+translatedAt: '2026-11-17T19:57:41.369091+00:00'
 ---
 
 # Casamento Igualitário e Igualdade de Gênero em Taiwan
