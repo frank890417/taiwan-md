@@ -20,11 +20,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-10-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: '872f4aef5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:53dce2454f2bc650'
 sourceBodyHash: 'sha256:a975eff83abc0a3e'
-translatedAt: '2026-10-08T01:07:12+08:00'
+translatedAt: '2026-11-17T19:33:45.959915+00:00'
 ---
 
 # Đồng giới hóa hôn nhân và bình đẳng giới tại Đài Loan

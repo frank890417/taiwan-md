@@ -1,19 +1,19 @@
 ---
-title: 'Thương mại điện tử và thanh toán số của Đài Loan: Ba cuộc chiến thương mại trên một hòn đảo'
-description: 'Từ khi Chân Hồng Chỉ đặt cược 24 giờ giao hàng, Shopee đốt 3 tỷ bổ trợ, đến Coupang tấn công với giao hàng Rocket — hai mươi năm thương mại điện tử Đài Loan là một cuộc lịch sử "sáng tạo bản địa bị vốn nước ngoài lật đổ, rồi bị vốn nước ngoài khác lật đổ" không ngừng.'
+title: 'Thương mại điện tử và thanh toán kỹ thuật số tại Đài Loan: Ba cuộc chiến thương mại trên một hòn đảo'
+description: 'Từ canh bạc giao hàng trong 24 giờ của Chiêm Hoành Chí, cuộc chiến trợ giá 3 tỷ Đài tệ của Shopee, đến sự đổ bộ của dịch vụ giao hàng siêu tốc Coupang — hai mươi năm thương mại điện tử Đài Loan là một vòng lặp "đổi mới bản địa bị vốn ngoại lật đổ, rồi lại bị một dòng vốn ngoại khác lật đổ".'
 date: 2026-04-06
 category: 'Technology'
 tags:
   [
-    'thương mại điện tử',
-    'thanh toán số',
+    'Thương mại điện tử',
+    'Thanh toán kỹ thuật số',
     'Shopee',
     'momo',
     'PChome',
     'Coupang',
     'LINE Pay',
-    'Street Pay',
-    'chuyển đổi số',
+    'Jiekou Pay',
+    'Chuyển đổi số',
   ]
 subcategory: '數位與網路'
 author: 'Taiwan.md'
@@ -21,153 +21,155 @@ featured: true
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4dd14cf66'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b8c4015a34b3a79e'
 sourceBodyHash: 'sha256:9120e92d38401c8e'
-translatedAt: '2026-09-17T22:54:53.364264+00:00'
+translatedAt: '2026-11-18T00:50:30+08:00'
 ---
 
-# Thương mại điện tử và thanh toán số của Đài Loan: Ba cuộc chiến thương mại trên một hòn đảo
+# Thương mại điện tử và thanh toán kỹ thuật số tại Đài Loan: Ba cuộc chiến thương mại trên một hòn đảo
 
-> **Tóm tắt 30 giây:** Năm 2007, Chân Hồng Chỉ đặt cược "giao hàng 24 giờ toàn Đài Loan", cổ phiếu PChome tăng vọt đến 537 đồng. Tám năm sau, Shopee mang 3 tỷ bổ trợ từ Singapore tấn công, PChome bắt đầu sụp đổ. Mười năm tiếp theo, Coupang của Hàn Quốc lại mang giao hàng Rocket tấn chiếm. Trong khi đó, ví tiền của người Đài Loan biến mất im lặng — người dùng thanh toán điện tử vượt qua 34 triệu, ngay cả các quầy trứng chiên hàu ở chợ đêm cũng dán mã QR. Mỗi cuộc chiến thương mại trên hòn đảo này đều thay đổi cách mọi người mua sắm và thanh toán.
-
----
-
-## Một cuộc cược: Giao hàng 24 giờ
-
-Năm 2007, quy trình tiêu chuẩn của mua sắm trực tuyến Đài Loan là: đặt hàng, chờ ba đến bảy ngày, nhận hàng. Người tiêu dùng đã quen với điều này.
-
-Chân Hồng Chỉ không tin vào bộ quy trình này. Ông là người có nền tảng từ lĩnh vực xuất bản, một con người có nền tảng văn hóa, thành lập PChome Online năm 1996, từ tạp chí trực tuyến phát triển thành thương mại điện tử. Khi PChome Online Shopping ra mắt năm 2000, thương mại điện tử Đài Loan vẫn sử dụng "mô hình chuyển đơn" — trang web tiếp nhận đơn hàng, nhà cung cấp gửi hàng, không ai quản lý logistics ở giữa. Chân Hồng Chỉ nhìn thấy vấn đề rất đơn giản: nếu bạn không thể kiểm soát kho hàng của người khác, bạn sẽ không thể kiểm soát tốc độ.[^1]
-
-Vì vậy, ông đã đưa ra một quyết định điên rồ theo tiêu chuẩn của thời đó: tự xây dựng kho hàng, cam kết giao hàng 24 giờ toàn Đài Loan. Không phải "cố gắng", mà là "bảo đảm" — nếu vượt quá giờ thì mất tiền. Để thực hiện điều này, PChome đã tự phát triển hệ thống quản lý hàng hóa, xây dựng trung tâm logistics, từ tồn kho đến gửi hàng tất cả đều tự mình làm.[^2]
-
-Cuộc cược này thắng. Giao hàng 24 giờ đã trở thành hào ngoại của PChome. Năm 2015, cổ phiếu PChome tăng vọt đến mức cao kỷ lục 537 đồng, lợi nhuận ròng mỗi cổ phiếu 8,24 đồng, là chủ nhân không tranh cãi của thương mại điện tử Đài Loan.[^3]
-
-Nhưng ở phía bên kia của hào ngoại, có người đang đào hầm.
+> **Tóm tắt trong 30 giây:** Năm 2007, Chiêm Hoành Chí (Zhan Hongzhi) đặt cược vào "giao hàng toàn Đài Loan trong 24 giờ", đưa giá cổ phiếu PChome vọt lên mức 537 Đài tệ. Tám năm sau, Shopee mang theo khoản trợ giá 3 tỷ Đài tệ từ Singapore tiến đánh thị trường, khiến PChome bắt đầu sụp đổ. Mười năm tiếp theo, Coupang từ Hàn Quốc lại đổ bộ với dịch vụ giao hàng siêu tốc còn khốc liệt hơn. Cùng lúc đó, ví tiền của người dân Đài Loan cũng âm thầm thay đổi — số lượng người dùng thanh toán điện tử vượt ngưỡng 34 triệu, ngay cả các sạp hàu chiên (o-a-chien) ở chợ đêm cũng dán mã QR. Mỗi cuộc chiến thương mại trên hòn đảo này đều đang viết lại cách con người mua sắm và trả tiền.
 
 ---
 
-## Kẻ xâm chiếm ba mươi tỷ
+## Một canh bạc: Giao hàng trong 24 giờ
 
-Tháng 10 năm 2015, tập đoàn Sea của Singapore (công ty tiền thân là Garena) phát hành Shopee Đấu giá tại Đài Loan. Điều đầu tiên nó làm không phải quảng cáo mà đốt tiền — người bán không phí đăng ký, người mua không phí vận chuyển.
+Năm 2007, quy trình tiêu chuẩn của mua sắm trực tuyến tại Đài Loan là: đặt hàng, chờ từ ba đến bảy ngày, rồi nhận hàng. Người tiêu dùng đã quá quen với điều này.
 
-Giới thương mại điện tử Đài Loan lúc đầu không coi nó là thế lực. Không phí vận chuyển? Không thể chịu được bao lâu.
+Chiêm Hoành Chí không tin vào mô hình đó. Xuất thân là một trí thức trong ngành xuất bản, ông thành lập PChome Online vào năm 1996, đi lên từ tạp chí trực tuyến đến thương mại điện tử. Khi PChome Online ra mắt vào năm 2000, thương mại điện tử Đài Loan vẫn đang dùng "mô hình chuyển đơn" — website nhận đơn, nhà cung cấp giao hàng, và không ai quản lý khâu logistics ở giữa. Vấn đề mà Chiêm Hoành Chí nhìn thấy rất đơn giản: nếu bạn không thể kiểm soát kho hàng của người khác, bạn sẽ không thể kiểm soát tốc độ. [^1]
 
-Họ đã đánh giá thấp độ sâu của túi tiền tập đoàn Sea. Bổ trợ của Shopee không phải để nếm thử thị trường mà là chìm nhấn hoàn toàn. Các nhà phân tích ước tính rằng trong trận chiến này Shopee đã đốt hơn 3 tỷ đồng Đài Loan. Không phải để kiếm tiền mà để thay đổi hành vi của người tiêu dùng — để biến "không phí vận chuyển" từ một bất ngờ thành một kỳ vọng, để những nền tảng không có vận chuyển miễn phí trông như đang thu thuế.[^4]
+Vì vậy, ông đã đưa ra một quyết định mà vào thời điểm đó bị coi là điên rồ: tự xây dựng hệ thống kho bãi, cam kết giao hàng toàn Đài Loan trong 24 giờ. Không phải là "cố gắng hết sức", mà là "cam kết" — nếu quá hạn sẽ bồi thường. Để làm được điều này, PChome đã tự nghiên cứu hệ thống quản lý hàng hóa, xây dựng trung tâm logistics, tự mình đảm nhận mọi khâu từ tồn kho đến xuất hàng. [^2]
 
-Chân Hồng Chỉ mới hiểu được cách làm này đến tháng 1 năm 2017. Ông sau này đã thừa nhận trong một bài diễn thuyết: "Tôi suy nghĩ đi suy nghĩ lại, thực sự không có phòng vệ, chỉ có tấn công. Vì tấn công, mới là vị trí tốt hơn phòng vệ."[^5]
+Canh bạc này đã thắng. Giao hàng trong 24 giờ trở thành hào bảo vệ của PChome. Năm 2015, giá cổ phiếu PChome chạm mức cao kỷ lục 537 Đài tệ, lợi nhuận trên mỗi cổ phiếu đạt 8,24 Đài tệ, khẳng định vị thế bá chủ không thể tranh cãi của thương mại điện tử Đài Loan. [^3]
 
-Nhưng cuộc tấn công của PChome đến quá chậm. Shopee dùng giao diện trò chơi để tóm gọn người dùng trẻ, dùng tính năng chat để cho phép người mua và người bán giao tiếp theo thời gian thực, dùng trực tiếp mang hàng để tạo ra trải nghiệm mua sắm kiểu giải trí. Đây không phải những gì PChome giỏi. Chân Hồng Chỉ himself also admitted: "Tôi nhận thức được sức mạnh của vốn quá muộn."[^6]
-
-> **📝 Ghi chú của người tuyển tập**
-> Câu chuyện Shopee vs PChome, về bản chất là một kịch bản quen thuộc của ngành công nghệ Đài Loan: những người tiên phong bản địa sử dụng sáng tạo để xây dựng lợi thế, vốn nước ngoài lật đổ bằng quy mô. Ba mươi năm trước, lĩnh vực bán lẻ truyền thống đã diễn ra một vở kịch giống nhau — Tập đoàn Quốc Phòng, Carrefour, Costco vào Đài Loan, nhưng những cửa hàng tạp hóa truyền thống cũng từng nghĩ rằng chúng không thể thay thế được.
+Nhưng ở phía bên kia hào bảo vệ, đã có kẻ đang đào hầm xuyên qua.
 
 ---
 
-## Người chiến thắng im lặng
+## Kẻ xâm lược với 3 tỷ Đài tệ
 
-Khi tất cả mọi người chú ý đến cuộc chiến giữa PChome và Shopee, momo đang làm một việc không lắm hấp dẫn nhưng cực kỳ quan trọng: xây dựng kho hàng.
+Tháng 10 năm 2015, tập đoàn Sea từ Singapore (tiền thân là Garena) ra mắt Shopee tại Đài Loan. Việc đầu tiên họ làm không phải là quảng cáo, mà là đốt tiền — miễn phí đăng bán cho người bán và miễn phí vận chuyển cho người mua.
 
-Fubon Media (công ty mẹ của momo) xuất phát từ mua sắm truyền hình, năm 2005 bước vào thương mại điện tử trực tuyến. Nó không có ánh hào của tiên phong của PChome, không có lửa bổ trợ của Shopee. Nhưng nó có một thứ: sự hỗ trợ vốn của tập đoàn Fubon, và một chiến lược gần như ám ảnh về logistics.
+Giới thương mại điện tử Đài Loan ban đầu không mấy bận tâm. Miễn phí vận chuyển ư? Chẳng trụ được bao lâu đâu.
 
-momo đã đầu tư hơn 14 tỷ đồng toàn Đài Loan để xây dựng trung tâm logistics, với hơn 50 kho hàng lớn nhỏ, là công ty thương mại điện tử duy nhất ở Đài Loan tự mình làm mọi thứ từ mua đất, xây kho, đến các hệ thống nội bộ.[^7] Điều này nghe có vẻ như công việc khó khăn, nhưng hiệu quả thật đáng kinh ngạc: năm 2024, doanh thu hợp nhất toàn năm của momo đạt 1.1256 tỷ đồng, lập kỷ lục mới, vững vàng chiếm vị trí thứ nhất trong thương mại điện tử B2C ở Đài Loan.[^8]
+Họ đã đánh giá thấp độ dày của túi tiền tập đoàn Sea. Khoản trợ giá của Shopee không phải là thăm dò thị trường, mà là một cuộc lụt lội toàn diện. Giới quan sát ước tính, trong chiến dịch này Shopee đã đốt hơn 3 tỷ Đài tệ. Mục tiêu không phải để kiếm lời, mà là để thay đổi hành vi người tiêu dùng — biến "miễn phí vận chuyển" từ một điều bất ngờ thành một kỳ vọng mặc định, khiến các nền tảng không có miễn phí vận chuyển trông như đang thu thuế. [^4]
 
-Câu chuyện momo nói lên một điều: trong cuộc chiến thương mại điện tử, những người chiến thắng cuối cùng thường không phải những người giỏi hô hào nhất mà những người giỏi vận chuyển hàng hóa nhất. Logistics không chỉ là chi phí mà là rào cản.
+Phải đến tháng 1 năm 2017, Chiêm Hoành Chí mới hiểu ra logic này. Trong một bài diễn thuyết sau đó, ông thừa nhận: "Tôi suy nghĩ đi suy nghĩ lại, thực tế chẳng có khái niệm phòng thủ nào cả, chỉ có tấn công thôi. Bởi vì tấn công chính là vị thế tốt hơn cả phòng thủ." [^5]
 
----
+Nhưng đòn tấn công của PChome đến quá muộn. Shopee dùng giao diện trò chơi hóa để thu hút người dùng trẻ, dùng tính năng chat để kết nối tức thời giữa người mua và người bán, và dùng livestream để tạo ra trải nghiệm tiêu dùng giải trí. Đây không phải là thế mạnh của PChome. Bản thân Chiêm Hoành Chí cũng thừa nhận: "Tôi đã nhận thức quá muộn về sức mạnh của tư bản." [^6]
 
-## Làn sóng xâm chiếm thứ ba: Rocket từ Hàn Quốc tới
-
-Năm 2022, ông chủ thương mại điện tử hàng đầu Hàn Quốc Coupang đổ bộ Đài Loan.
-
-Người sáng lập Coupang Kim Bôn Tích là người Mỹ gốc Hàn, từ bỏ học tại Harvard để khởi nghiệp, di chuyển "mô hình Amazon" sang Hàn Quốc, dựa vào logistics được xây dựng bởi chính mình để đạt tới 99% đơn hàng giao tiếp tiếp theo ở toàn Hàn Quốc. Bây giờ ông muốn sao chép cùng một bộ công cụ ở Đài Loan: giao hàng Rocket.[^9]
-
-Tháng 3 năm 2026, Coupang khai trương trung tâm logistics thứ tư tại Đào Viên, giao hàng Rocket phủ sóng khoảng 70% lãnh thổ toàn Đài Loan.[^10] Chiến lược của nó giống hệt như mười năm trước của Shopee: đơn giản trực tiếp — trước tiên thua lỗ để giành thị phần. Mua lần đầu giảm 70%, vận chuyển xuyên biên giới trực tiếp, hàng tiêu dùng hàng ngày như bỉm em — thấp hơn giá thị trường — các chuyên gia ngành ước tính rằng Coupang đã chiếm 20% thị phần trong danh mục bỉm em.
-
-Quý 3 năm 2025, báo cáo tài chính tập đoàn Sea cho thấy doanh thu thị trường quốc tế nơi có Đài Loan đạt 1.287 tỷ đô la Mỹ, tăng 32% năm trên năm, nhưng tốc độ tăng trưởng của Coupang ở Đài Loan là ba chữ số.[^11] Kim Bôn Tích tại hội thảo tài chính nói rằng, hành vi của người tiêu dùng Đài Loan "rất giống với quỹ đạo phát triển ban đầu của hoạt động bán lẻ ở Hàn Quốc". Dịch ra tiếng thường dân: còn nhiều thịt để ăn ở đây.
-
-> **💡 Bạn có biết không**
-> Tháng 10 năm 2024, tập đoàn Thống Nhất tuyên bố đầu tư vào PChome, sở hữu 30% cổ phần, trở thành cổ đông pháp nhân lớn nhất. Chủ nhân bán lẻ thực tế ngày xưa, bây giờ đã sáp nhập chủ nhân thương mại điện tử ngày xưa. Chân Hồng Chỉ tại hội đồng cổ đông nói: "Giá cổ phiếu cuối cùng cũng đã trả lại cho chúng tôi một số công bằng." Câu nói này đằng sau là chín năm giảm từ 537 đồng xuống dưới một trăm đồng.
+> **📝 Ghi chú của biên tập**
+> Câu chuyện giữa Shopee và PChome về bản chất là một kịch bản quen thuộc của ngành công nghệ Đài Loan: những người tiên phong bản địa xây dựng lợi thế bằng sự đổi mới, rồi bị vốn ngoại lật ngược thế cờ bằng nguồn lực tài chính và quy mô. Ba mươi năm trước, ngành bán lẻ truyền thống cũng từng chứng kiến điều tương tự — khi các chuỗi cửa hàng tiện lợi như 7-Eleven, Carrefour hay Costco tiến vào Đài Loan, các tiệm tạp hóa truyền thống cũng từng nghĩ mình là không thể thay thế.
 
 ---
 
-## Kỷ lục biến mất của ví tiền
+## Người chiến thắng thầm lặng
 
-Cuộc chiến thương mại điện tử gây xôi xao, nhưng cuộc cách mạng trong cách thanh toán của người Đài Loan cũng rất dữ dội, chỉ là im lặng hơn.
+Trong khi mọi người đều dán mắt vào cuộc chiến giữa PChome và Shopee, momo lại đang làm một việc không mấy hào nhoáng nhưng cực kỳ then chốt: xây kho hàng.
 
-Năm 2020, người dùng thanh toán điện tử Đài Loan vượt qua mốc 10 triệu. Năm năm sau vào năm 2025, con số này tăng vọt lên 34 triệu.[^12] Tổng dân số Đài Loan chỉ 23,4 triệu — lý do tại sao con số vượt quá dân số là vì một người bình quân có 1,5 tài khoản thanh toán điện tử.
+Công ty truyền thông Fubon (công ty mẹ của momo) khởi nghiệp từ mảng mua sắm qua truyền hình và bước chân vào thương mại điện tử trực tuyến từ năm 2005. Họ không có hào quang tiên phong như PChome, cũng không có hỏa lực trợ giá như Shopee. Nhưng họ có một thứ: sự hỗ trợ vốn từ tập đoàn Fubon và một chiến lược gần như ám ảnh về logistics.
 
-Ba ông chủ lớn mỗi ông có con đường riêng. Một thẻ toàn thông (iPASS MONEY) dựa trên cơ sở vé giao thông cộng với dòng chảy xã hội của LINE Pay, với 6,98 triệu người dùng vững vàng chiếm vị trí thứ nhất. Street Pay đi theo "con đường quầy hàng", đi sâu vào chợ đêm và thị trường truyền thống, với 6,93 triệu người dùng theo sát phía sau. Tất cả hỗ trợ toàn quốc thì xếp thứ ba với 6,21 triệu người dùng.[^13]
+momo đã đầu tư tích lũy hơn 14 tỷ Đài tệ trên toàn Đài Loan để xây dựng các trung tâm logistics, với hơn 50 kho hàng lớn nhỏ. Đây là đơn vị thương mại điện tử duy nhất tại Đài Loan tự thực hiện mọi khâu từ mua đất, xây kho đến phát triển hệ thống nội bộ. [^7] Nghe có vẻ như một công việc nặng nhọc, nhưng hiệu quả mang lại rất đáng kinh ngạc: năm 2024, doanh thu hợp nhất cả năm của momo đạt 112,56 tỷ Đài tệ, lập kỷ lục lịch sử và giữ vững vị trí số một trong mảng thương mại điện tử B2C tại Đài Loan. [^8]
 
-Và biến số thực sự xuất hiện vào năm 2025: LINE Pay nâng cấp từ "thanh toán di động" lên "thanh toán điện tử", chính thức tham chiến với tư cách độc lập. Doanh thu một tháng là 6,4 trăm triệu đồng vào tháng 7, tăng 25% so với năm, lập kỷ lục mới.[^14] Một cuộc hỗn chiến mới đang diễn ra.
-
----
-
-## Mã QR của quầy trứng chiên hàu
-
-Những con số trông tốt đẹp, nhưng cuộc cách mạng thanh toán thực sự trông như thế nào?
-
-Bước vào bất kỳ chợ đêm nào ở Đài Loan, bạn sẽ thấy gần như mỗi quầy hàng đều dán biển TWQR (tiêu chuẩn mã QR thống nhất Đài Loan). Tỷ lệ thiết lập cao đến 99%. Nhưng nhìn gần hơn — có một số chủ quầy dán mã QR vào góc, thậm chí quay mặt vào tường. Chủ quầy sẽ nói với bạn: "Tiền mặt nhanh hơn đó."[^15]
-
-Lý do không phức tạp. Thanh toán điện tử có nghĩa là mỗi giao dịch đều có ghi chép, có ghi chép thì phải nộp thuế. Đối với những tiểu thương truyền thống từng giao dịch bằng tiền mặt, "tiện lợi" và "minh bạch" là hai mặt của cùng một đồng xu. Do đó, chính phủ đã cung cấp cho điều chỉnh thuế suất: những người kinh doanh quy mô nhỏ sử dụng thanh toán điện tử, thuế doanh thu từ 5% hạ xuống 1%. Nhưng thay đổi hành vi khó hơn thay đổi quy tắc.
-
-> **✦** "Tỷ lệ thiết lập chợ đêm 99%, tỷ lệ sử dụng thực tế tất nhiên thấp hơn con số này. Số phận của một mã QR phụ thuộc vào việc chủ quầy có sẵn sàng lật nó không."
-
-Tuy nhiên, xu hướng đã không thể đảo ngược. Khảo sát mới nhất cho thấy rằng 84% người Đài Loan thường xuyên sử dụng thanh toán di động, trong các giao dịch nhỏ dưới 50 đồng, tỷ lệ chọn thanh toán di động (46%) đã vượt quá tiền mặt (42%). Một quầy trứng chiên hàu 60 đồng, đúng trên điểm đảo ngược này.
+Câu chuyện của momo minh chứng cho một điều: trong cuộc chiến thương mại điện tử, người cuối cùng đứng vững thường không phải là kẻ hô khẩu hiệu giỏi nhất, mà là kẻ biết bốc xếp thùng hàng chuyên nghiệp nhất. Logistics không chỉ là chi phí, nó là rào cản gia nhập thị trường.
 
 ---
 
-## Vòng tuần hoàn hai mươi năm
+## Làn sóng xâm lược thứ ba: Tên lửa đến từ Hàn Quốc
 
-Nhìn lại, thương mại điện tử và thanh toán kỹ thuật số của Đài Loan trong hai thập kỷ là một vòng lặp liên tục bị phá vỡ.
+Năm 2022, gã khổng lồ thương mại điện tử Hàn Quốc Coupang đổ bộ Đài Loan.
 
-Thập niên 2000, PChome định nghĩa "nhanh" bằng cam kết giao hàng trong 24 giờ. Thập niên 2010, Shopee định nghĩa "rẻ" bằng miễn phí vận chuyển. Thập niên 2020, momo định nghĩa "ổn định" bằng hệ thống logistics tự xây dựng, và Shopee lại cố gắng định nghĩa lại "nhanh" bằng dịch vụ giao hàng siêu tốc (Rocket Delivery). Người chiến thắng của mỗi vòng đều nghĩ rằng mình đã tìm ra hào kinh thành, còn kẻ xâm nhập ở vòng tiếp theo thì tìm ra lối đi vòng qua.
+Người sáng lập Coupang, Kim Bum-suk (Kim Beom-seok), là một người Mỹ gốc Hàn, từng bỏ học Harvard để khởi nghiệp. Ông đã mang "mô hình Amazon" sang Hàn Quốc và nhờ vào hệ thống logistics tự xây dựng mà đạt được tỷ lệ 99% đơn hàng tại Hàn Quốc được giao ngay ngày hôm sau. Giờ đây, ông muốn tái lập mô hình đó tại Đài Loan: dịch vụ giao hàng siêu tốc (Rocket Delivery). [^9]
 
-Phía thanh toán cũng tương tự. Từ tiền hàng đến nơi, sang thẻ tín dụng, rồi quét mã LINE Pay, và cuối cùng là TWQR dùng chung một mã — mỗi lần nâng cấp "tiện lợi" đều khiến sự "tiện lợi" của thế hệ trước trở nên vụng về.
+Tháng 3 năm 2026, Coupang khánh thành trung tâm logistics thứ tư tại Đào Viên, giúp dịch vụ giao hàng siêu tốc bao phủ khoảng 70% khu vực trên toàn Đài Loan. [^10] Chiến lược của họ cũng trực diện như Shopee mười năm trước: chấp nhận thua lỗ để chiếm lĩnh thị trường. Giảm giá 30% cho đơn hàng đầu tiên, giao hàng xuyên biên giới trực tiếp, các nhu yếu phẩm như tã giấy có giá thấp hơn cả giá thị trường — giới chuyên môn ước tính Coupang đã chiếm được 20% thị phần trong ngành hàng tã giấy.
 
-Tháng 12 năm 2024, Tập đoàn Eslite (Uni-President) đầu tư vào PChome. Công ty từng thay đổi ngành bán lẻ Đài Loan bằng chuỗi cửa hàng tiện lợi 7-Eleven này, giờ lại muốn thay đổi thương mại điện tử Đài Loan. Ba mươi năm trước, các cửa hàng tạp hóa truyền thống đã bị các cửa hàng tiện lợi thay thế. Giờ đây, chủ cửa hàng tiện lợi phải dọn dẹp tàn cuộc của thương mại điện tử.
+Trong quý 3 năm 2025, báo cáo tài chính của tập đoàn Sea cho thấy doanh thu tại các thị trường quốc tế (bao gồm Đài Loan) đạt 1,287 tỷ USD, tăng 32% so với cùng kỳ, nhưng tốc độ tăng trưởng của Coupang tại Đài Loan lại ở mức ba chữ số. [^11] Tại một buổi họp báo cáo kết quả kinh doanh, Kim Bum-suk nhận định mô hình tiêu dùng của người dân Đài Loan "cực kỳ tương đồng với quỹ đạo phát triển trong giai đoạn đầu của ngành bán lẻ Hàn Quốc". Nói một cách bình dân: nơi đây vẫn còn rất nhiều miếng bánh để ăn.
 
-Cuộc chiến kinh doanh trên hòn đảo này sẽ không dừng lại. Mỗi mã QR mới, mỗi trung tâm logistics mới, và mỗi đợt trợ cấp đều đang trả lời cùng một câu hỏi: Ai có thể làm cho hành động chi tiền của hai mươi ba triệu người diễn ra nhanh hơn một giây?
+> **💡 Bạn có biết?**
+> Tháng 10 năm 2024, tập đoàn Uniliver (Uni-President) thông báo mua cổ phần của PChome, nắm giữ 30% cổ phần và trở thành cổ đông pháp nhân lớn nhất. Kẻ thống trị bán lẻ truyền thống trước đây nay đã thâu tóm kẻ thống trị thương mại điện tử cũ. Chiêm Hoành Chí phát biểu tại đại hội cổ đông: "Giá cổ phiếu cuối cùng cũng trả lại cho chúng tôi một chút công bằng." Đằng sau câu nói đó là chín năm dài đằng đẵng khi giá cổ phiếu rơi từ 537 Đài tệ xuống mức chưa đầy 100 Đài tệ.
+
+---
+
+## Nhật ký biến mất của ví tiền
+
+Cuộc chiến thương mại điện tử diễn ra vô cùng rầm rộ, nhưng cuộc cách mạng về phương thức thanh toán của người dân Đài Loan cũng mãnh liệt không kém, chỉ là nó diễn ra âm thầm hơn nhiều.
+
+Năm 2020, số lượng người dùng thanh toán điện tử tại Đài Loan vượt mốc 10 triệu người. Năm năm sau đó, vào năm 2025, con số này đã vọt lên 34 triệu. [^12] Trong khi tổng dân số Đài Loan chỉ có 23,4 triệu người — lý do con số này vượt quá dân số là vì trung bình mỗi người sở hữu 1,5 tài khoản thanh toán điện tử.
+
+Ba "ông lớn" đều có lộ trình riêng. iPASS MONEY dựa trên nền tảng thẻ giao thông kết hợp với lưu lượng mạng xã hội từ LINE Pay, giữ vững vị trí số một với 6,98 triệu người dùng. Jiekou Pay (Street口支付) đi theo "con đường sạp hàng", thâm nhập sâu vào các chợ đêm và chợ truyền thống, bám sát nút với 6,93 triệu người dùng. Thanh toán của PChoyuan (All-Pay/全支付) dựa vào mạng lưới hơn một nghìn cửa hàng vật lý trên toàn Đài Loan, đứng thứ ba với 6,21 triệu người dùng. [^13]
+
+Và biến số thực sự đã xuất hiện vào năm 2025: LINE Pay nâng cấp từ "thanh toán di động" lên thành "thanh toán điện tử", chính thức tham chiến với tư cách độc lập. Doanh thu tháng 7 đạt 640 triệu Đài tệ, tăng 25% so với cùng kỳ, lập kỷ lục mới. [^14] Một cuộc hỗn chiến mới đang bắt đầu.
+
+---
+
+## Mã QR tại sạp hàu chiên
+
+Những con số trông rất đẹp, nhưng cuộc cách mạng thanh toán thực tế trông như thế nào?
+
+Bước vào bất kỳ chợ đêm nào ở Đài Loan, bạn sẽ thấy hầu hết các sạp hàng đều dán biển TWQR (tiêu chuẩn mã QR thống nhất của Đài Loan). Tỷ lệ lắp đặt lên tới 99%. Nhưng nhìn kỹ hơn — một số người bán giấu mã QR vào góc khuất, thậm chí quay mặt vào tường. Bà chủ sạp sẽ bảo bạn: "Dùng tiền mặt cho nhanh." [^15]
+
+Nguyên nhân không hề phức tạp. Thanh toán điện tử đồng nghĩa với việc mỗi giao dịch đều có hồ sơ, và có hồ sơ thì phải báo thuế. Đối với các tiểu thương truyền thống vốn quen giao dịch bằng tiền mặt lâu nay, "tiện lợi" và "minh bạch" chính là hai mặt của cùng một đồng xu. Chính phủ đã đưa ra ưu đãi thuế để khuyến khích: những hộ kinh doanh quy mô nhỏ sử dụng thanh toán điện tử sẽ được giảm thuế kinh doanh từ 5% xuống còn 1%. Tuy nhiên, thay đổi hành vi khó hơn nhiều so với thay đổi chế độ.
+
+> **✦** "Tỷ lệ lắp đặt tại chợ đêm là 99%, nhưng tỷ lệ sử dụng thực tế thấp hơn con số đó rất nhiều. Số phận của một mã QR phụ thuộc vào việc bà chủ sạp có sẵn lòng lật nó ra hay không."
+
+Dù vậy, xu hướng này là không thể đảo ngược. Khảo sát mới nhất cho thấy 84% người dân Đài Loan thường xuyên sử dụng thanh toán di động. Trong các giao dịch nhỏ dưới 50 Đài tệ, tỷ lệ chọn thanh toán di động (46%) đã vượt qua tiền mặt (42%). Một phần hàu chiên giá 60 Đài tệ chính là nằm ngay tại điểm xoay chiều này.
+
+---
+
+## Vòng lặp hai mươi năm
+
+Nhìn lại, hai mươi năm của thương mại điện tử và thanh toán kỹ thuật số tại Đài Loan là một vòng lặp bị lật đổ liên tục.
+
+Thập niên 2000, PChome dùng giao hàng trong 24 giờ để định nghĩa sự "nhanh chóng". Thập niên 2010, Shopee dùng miễn phí vận chuyển để định nghĩa sự "rẻ". Thập niên 2020, momo dùng logistics tự xây dựng để định nghĩa sự "ổn định", và Coupang lại đang cố gắng định nghĩa lại sự "nhanh chóng" bằng dịch vụ giao hàng siêu tốc. Mỗi vòng lặp, người chiến thắng đều ngỡ rằng mình đã tìm thấy hào bảo vệ, nhưng kẻ xâm lược của vòng tiếp theo luôn tìm được đường để vượt qua nó.
+
+Phía thanh toán cũng vậy. Từ trả tiền khi nhận hàng (COD), đến thẻ tín dụng, đến quét mã LINE Pay, rồi đến TWQR dùng chung một mã — mỗi lần nâng cấp sự "tiện lợi" đều khiến sự "tiện lợi" của thế hệ trước trở nên lạc hậu.
+
+Tháng 12 năm 2024, tập đoàn Uni-President mua cổ phần PChome. Công ty vốn đã thay đổi ngành bán lẻ Đài Loan nhờ chuỗi 7-Eleven này, nay lại muốn thay đổi cả thương mại điện tử. Ba mươi năm trước, các tiệm tạp hóa truyền thống bị thay thế bởi cửa hàng tiện lợi. Giờ đây, chính những chủ cửa hàng tiện lợi đang đến để thu dọn tàn cuộc của ngành thương mại điện tử.
+
+Cuộc chiến thương mại trên hòn đảo này sẽ không dừng lại. Mỗi mã QR mới, mỗi trung tâm logistics mới, mỗi đợt trợ giá mới đều đang trả lời cùng một câu hỏi: Ai có thể khiến hành động rút ví của 23 triệu dân nhanh hơn thêm một giây?
 
 **Đọc thêm**:
 
-- [Phát triển công nghệ tài chính Đài Loan](/vi/economy/taiwan-fintech-development) — Từ ngân hàng thuần túy, ngân hàng mở đến sandbox quản lý, bức tranh toàn cảnh chuyển đổi số của ngành tài chính
-- [Thanh toán di động Đài Loan](/vi/technology/taiwan-mobile-payment) — Từ người tiêu dùng, doanh nghiệp đến TWQR, hiểu tại sao tiền mặt vẫn là phương án dự phòng thường nhật sau khi thanh toán qua điện thoại phổ biến
-- [Xây dựng mạng 5G và chuyển đổi số Đài Loan](/vi/technology/taiwan-5g-digital-transformation) — Hạ tầng cơ bản của 5G thay đổi việc theo dõi logistics, mua sắm trực tiếp và bán lẻ thông minh như thế nào
-- [Phát triển ngành phần mềm Đài Loan](/vi/technology/taiwan-software-industry-development) — Từ gia công đến thương hiệu riêng, ngành phần mềm hỗ trợ nền tảng kỹ thuật của thương mại điện tử ra sao
-- [Hải quan và EZ WAY của Đài Loan](/vi/lifestyle/ezway) — Nút cuối cùng cho các gói hàng thương mại điện tử xuyên biên giới vào Đài Loan: Ai đang vận hành ứng dụng ủy quyền hải quan, ngưỡng miễn thuế được quy định như thế nào
+- [Phát triển công nghệ tài chính Đài Loan](/vi/economy/taiwan-fintech-development) — Từ ngân hàng thuần số, ngân hàng mở đến cơ chế thử nghiệm (sandbox), toàn cảnh chuyển đổi số của ngành tài chính.
+- [Thanh toán di động tại Đài Loan](/vi/technology/taiwan-mobile-payment) — Từ người tiêu dùng, thương gia đến TWQR, hiểu tại sao tiền mặt vẫn là phương án dự phòng sau khi thanh toán qua điện thoại trở nên phổ biến.
+- [Xây dựng mạng 5G và chuyển đổi số tại Đài Loan](/vi/technology/taiwan-5g-digital-transformation) — Hạ tầng 5G thay đổi việc theo dõi logistics, mua sắm livestream và bán lẻ thông minh như thế nào.
+- [Phát triển ngành phần mềm Đài Loan](/vi/technology/taiwan-software-industry-development) — Từ gia công đến thương hiệu riêng, ngành phần mềm hỗ trợ nền tảng hạ tầng kỹ thuật cho thương mại điện tử ra sao.
+- [Khai báo hải quan Đài Loan và EZ WAY](/vi/lifestyle/ezway) — Chặng cuối cùng của các kiện hàng thương mại điện tử xuyên biên giới vào Đài Loan: Ai vận hành ứng dụng ủy quyền khai báo, và ngưỡng miễn thuế được quy định thế nào.
 
 ## Tài liệu tham khảo
 
-[^1]: [PChome 網路家庭創業歷程（經濟部中小企業處）](https://service.moea.gov.tw/EE514/tw/niia/290-3978.html) — Ghi lại quy trình khởi nghiệp của PChome từ tạp chí trực tuyến sang thương mại điện tử, bao gồm lý do sáng tạo tự xây dựng kho hàng và giao hàng 24 giờ.
+[^1]: [Quá trình khởi nghiệp gia đình trực tuyến của PChome (Cục Doanh nghiệp vừa và nhỏ, Bộ Kinh tế)](https://service.moea.gov.tw/EE514/tw/niia/290-3978.html) — Ghi lại quá trình ra quyết định chuyển đổi từ tạp chí trực tuyến sang thương mại điện tử của PChome, bao gồm bối cảnh đổi mới tự xây dựng kho bãi và giao hàng trong 24 giờ.
 
-[^2]: [PChome 總座蔡凱文請辭、詹宏志暫代（數位時代，2022）](https://www.bnext.com.tw/article/65974/pchome-story) — Quay lại lịch sử tăng trưởng của PChome, bao gồm những câu chuyện bên trong về cách vượt qua thời kỳ "thậm chí hơi thở cũng mất tiền".
+[^2]: [Tổng giám đốc PChome Thái Khải Văn (Cai Kaiwen) từ chức, Chiêm Hoành Chí tạm thời thay thế (Digital Age, 2022)](https://www.bnext.com.tw/article/65974/pchome-story) — Nhìn lại lịch sử phát triển của PChome, bao gồm những câu chuyện nội bộ về cách họ vượt qua giai đoạn "ngay cả việc hít thở cũng lỗ".
 
-[^3]: [網家股價最高 537 元，如今成時代眼淚（今周刊，2024）](https://www.businesstoday.com.tw/article/category/183016/post/202410250009/) — Phân tích quá trình suy giảm 10 năm của PChome từ mức cao năm 2015 đến năm 2024, sắp xếp lại các yếu tố múi thời gian áp dụng mạnh lên PChome.
+[^3]: [Giá cổ phiếu Wangjia từng cao nhất 537 Đài tệ, nay trở thành giọt nước mắt thời đại (Next Magazine, 2024)](https://www.businesstoday.com.tw/article/category/183016/post/202410250009/) — Phân tích quá trình suy thoái mười năm của PChome từ đỉnh cao năm 2015 đến năm 2024, hệ thống lại các yếu tố gây sụp đổ Wangjia.
 
-[^4]: [蝦皮購物補貼策略分析（島讀，2017）](https://daodu.tech/09-28-2017-shopee-subsidy-strategy-and-pchome-transformation-dilemma) — Phân tích sâu sắc về chiến lược thay đổi hành vi người tiêu dùng của Shopee thông qua bổ trợ, cũng như tình trạng khó khăn chuyển đổi mà PChome phải đối mặt.
+[^4]: [Phân tích chiến lược trợ giá của Shopee (Island Reader, 2017)](https://daodu.tech/09-28-2017-shopee-subsidy-strategy-and-pchome-transformation-dilemma) — Phân tích sâu logic chiến lược của Shopee trong việc dùng trợ giá để thay đổi hành vi người tiêu dùng, cũng như khó khăn chuyển đổi mà PChome phải đối mặt.
 
-[^5]: [「30 億之後——論補貼與蝦皮之役」詹宏志首度揭露回擊策略（經理人，2018）](https://www.managertoday.com.tw/articles/view/56213) — Ghi lại các bài diễn thuyết công khai của Chân Hồng Chỉ đáp ứng lại chiến tranh thương mại với Shopee, bao gồm câu nguyên bản "không có phòng vệ nào, chỉ có tấn công".
+[^5]: [「Sau 3 tỷ Đài tệ — Bàn về trợ giá và cuộc chiến với Shopee」Chiêm Hoành Chí lần đầu tiết lộ chiến lược phản công (Manager, 2018)](https://www.managertoday.com.tw/articles/view/56213) — Bản ghi chép bài diễn thuyết lần đầu tiên Chiêm Hoành Chí công khai phản hồi về cuộc chiến thương mại với Shopee, bao gồm nguyên văn câu nói "thực tế chẳng có khái niệm phòng thủ nào cả".
 
-[^6]: [詹宏志：我太晚認知到資本的力量了（INSIDE，2018）](https://www.inside.com.tw/article/13190-pchome-pk-shopee-2) — Cuộc phỏng vấn thẳng thắn của Chân Hồng Chỉ phản ánh việc PChome thua kém trong cuộc chiến vốn.
+[^6]: [Chiêm Hoành Chí: Tôi đã nhận thức quá muộn về sức mạnh của tư bản (INSIDE, 2018)](https://www.inside.com.tw/article/13190-pchome-pk-shopee-2) — Cuộc phỏng vấn thẳng thắn nơi Chiêm Hoành Chí tự phản tỉnh về việc PChome bị tụt hậu trong cuộc chiến tư bản.
 
-[^7]: [momo 燒 140 億自建倉儲「星系」（數位時代，2024）](https://www.bnext.com.tw/article/83374/momo-last-mile) — Chi tiết chiến lược bố trí trung tâm logistics hơn 50 cơ sở được xây dựng bởi momo và các chi tiết kỹ thuật.
+[^7]: [momo đốt 14 tỷ xây dựng "hệ sinh thái" kho bãi (Digital Age, 2024)](https://www.bnext.com.tw/article/83374/momo-last-mile) — Chi tiết về chiến lược bố trí và kỹ thuật của momo khi tự xây dựng hơn 50 trung tâm logistics.
 
-[^8]: [momo 2024 全年營收續創新高（TechNews，2025）](https://finance.technews.tw/2025/02/24/momo-2024-q4-earnings/) — Phân tích báo cáo tài chính chính thức của momo năm 2024 với doanh thu hợp nhất là 1.1256 tỷ đồng.
+[^8]: [Doanh thu cả năm 2024 của momo tiếp tục lập kỷ lục (TechNews, 2025)](https://finance.technews.tw/2025/02/24/momo-2024-q4-earnings/) — Phân tích báo cáo tài chính chính thức về doanh thu hợp nhất 112,56 tỷ Đài tệ năm 2024 của momo.
 
-[^9]: [韓國直擊：拆解酷澎「火箭擴張」三祕訣（天下雜誌）](https://www.cw.com.tw/article/5125961) — Tạp chí Thiên Hạ đã phỏng vấn tại Hàn Quốc, phân tích chế độ logistics tự xây dựng của Coupang và chiến lược mở rộng tại Đài Loan.
+[^9]: [Trực tiếp từ Hàn Quốc: Giải mã ba bí quyết "mở rộng tên lửa" của Coupang (天下雜誌)](https://www.cw.com.tw/article/5125961) — Tạp chí Thiên Hạ đến Hàn Quốc phỏng vấn, phân tích mô hình logistics tự xây dựng của Coupang và chiến lược mở rộng tại Đài Loan.
 
-[^10]: [酷澎在台第四座物流中心啟用（TechNews，2026）](https://technews.tw/2026/03/26/coupang-launches-its-fourth-fulfillment-center-in-taoyuan/) — Khai trương trung tâm logistics thứ tư tại Đào Viên của Coupang, giao hàng Rocket phủ sóng khoảng 70% của Đài Loan.
+[^10]: [Coupang khánh thành trung tâm logistics thứ tư tại Đài Loan (TechNews, 2026)](https://technews.tw/2026/03/26/coupang-launches-its-fourth-fulfillment-center-in-taoyuan/) — Kho mới của Coupang tại Đào Viên đi vào hoạt động, dịch vụ giao hàng siêu tốc bao phủ khoảng 70% khu vực toàn Đài Loan.
 
-[^11]: [酷澎在台營運三位數成長（TechNews，2025）](https://finance.technews.tw/2025/11/05/coupang-q3-2025-earnings/) — Báo cáo tài chính Q3 2025 của Coupang, thị trường Đài Loan tăng ba chữ số, Kim Bôn Tích thảo luận về hành vi người tiêu dùng Đài Loan.
+[^11]: [Coupang tăng trưởng ba chữ số tại Đài Loan (TechNews, 2025)](https://finance.technews.tw/2025/11/05/coupang-q3-2025-earnings/) — Báo cáo tài chính Q3 2025 của Coupang, thị trường Đài Loan tăng trưởng ba chữ số, Kim Bum-suk nói về hành vi người tiêu dùng Đài Loan.
 
-[^12]: [電子支付超夯——使用人數破千萬大關（中央社，2020）](https://www.cna.com.tw/news/afe/202010060306.aspx) — Ghi lại sự bùng nổ tăng trưởng của thanh toán điện tử Đài Loan từ 10 triệu vào năm 2020 đến 34 triệu vào năm 2025.
+[^12]: [Thanh toán điện tử cực hot — Số lượng người dùng vượt mốc 10 triệu (CNA, 2020)](https://www.cna.com.tw/news/afe/202010060306.aspx) — Ghi lại sự bùng nổ của thanh toán điện tử Đài Loan từ mốc 10 triệu năm 2020 đến 34 triệu năm 2025.
 
-[^13]: [電支大戰升溫：LINE Pay 7 月營收年增 25%（數位時代，2025）](https://www.bnext.com.tw/article/84196/epay-taiwan-2025-line-ipass) — Phân tích xếp hạng ba cạnh tranh thanh toán điện tử năm 2025 (Một thẻ toàn thông, Street Pay, Tất cả hỗ trợ) và sự tham gia của LINE Pay.
+[^13]: [Cuộc chiến thanh toán điện tử nóng lên: Doanh thu tháng 7 của LINE Pay tăng 25% (Digital Age, 2025)](https://www.bnext.com.tw/article/84196/epay-taiwan-2025-line-ipass) — Phân tích thứ hạng ba thế lực thanh toán điện tử năm 2025 (iPASS MONEY, Jiekou Pay, All-Pay) và sự tham chiến của LINE Pay.
 
-[^14]: [台灣電子支付用戶突破 3,220 萬，iPASS 奪冠（公視新聞，2025）](https://news.pts.org.tw/article/760475) — Thống kê mới nhất của Quốc gia Tài chính, xếp hạng số lượng người dùng và giao dịch của các tổ chức hỗ trợ điện tử.
+[^14]: [Người dùng thanh toán điện tử Đài Loan vượt 32,2 triệu, iPASS dẫn đầu (PTS News, 2025)](https://news.pts.org.tw/article/760475) — Thống kê mới nhất từ Ủy ban Giám sát Tài chính, xếp hạng số lượng người dùng và giá trị giao dịch của các đơn vị thanh toán điện tử.
 
-[^15]: [電子支付淪擺看？排隊名店「藏 QR code」只收現金（TVBS，2025）](https://news.tvbs.com.tw/life/3094988) — Báo cáo phỏng vấn thực địa tại sao những chủ quầy chợ đêm lại thiết lập mã QR nhưng không muốn sử dụng.
+[^15]: [Thanh toán điện tử bị ngó lơ? Các tiệm nổi tiếng "giấu mã QR" chỉ nhận tiền mặt (TVBS, 2025)](https://news.tvbs.com.tw/life/3094988) — Phóng sự thực tế về hiện tượng các sạp hàng chợ đêm dù có lắp đặt mã QR nhưng không muốn sử dụng.
 
-[^16]: [金管會電子支付帳戶重要業務資訊揭露](https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multimessage_view.jsp&dataserno=201805300001&dtable=Disclosure) — Cơ sở dữ liệu thống kê chính thức của Quốc gia Tài chính, số lượng người dùng hàng tháng và giao dịch của mỗi tổ chức thanh toán điện tử.
+[^16]: [Công bố thông tin nghiệp vụ quan trọng của tài khoản thanh toán điện tử (Ủy ban Giám sát Tài chính)](https://www.banking.gov.tw/ch/home.jsp?id=591&parentpath=0,590&mcustomize=multimessage_view.jsp&dataserno=201805300001&dtable=Disclosure) — Cơ sở dữ liệu thống kê chính thức của Ủy ban Giám sát Tài chính, dữ liệu số lượng người dùng và giá trị giao dịch hàng tháng của các tổ chức thanh toán điện tử.

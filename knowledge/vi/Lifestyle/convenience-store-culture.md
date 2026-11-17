@@ -19,11 +19,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: '42580d097'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:33d2f6cba1a3b0f2'
 sourceBodyHash: 'sha256:9a55ab468883045f'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-11-17T18:54:50.517510+00:00'
 ---
 
 # Văn hóa cửa hàng tiện lợi Đài Loan

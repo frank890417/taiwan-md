@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T04:03:41+08:00",
-    "zhCommitHead": "8c2a7e08b",
+    "lastUpdated": "2026-11-18T04:19:49+08:00",
+    "zhCommitHead": "1dedee5a8",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1186,
-        "fresh": 641,
+        "fresh": 642,
         "stale": 54,
         "metadata_stale": 467,
-        "missing": 24,
+        "missing": 23,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1186,
-        "fresh": 642,
+        "fresh": 644,
         "stale": 49,
-        "metadata_stale": 468,
-        "missing": 27,
+        "metadata_stale": 467,
+        "missing": 26,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1186,
-        "fresh": 647,
+        "fresh": 649,
         "stale": 54,
         "metadata_stale": 460,
-        "missing": 25,
+        "missing": 23,
         "orphan": 0
       },
       "es": {
         "total_zh": 1186,
-        "fresh": 646,
+        "fresh": 647,
         "stale": 56,
-        "metadata_stale": 459,
+        "metadata_stale": 458,
         "missing": 25,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1186,
-        "fresh": 648,
+        "fresh": 649,
         "stale": 51,
         "metadata_stale": 463,
-        "missing": 24,
+        "missing": 23,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1186,
-        "fresh": 636,
+        "fresh": 637,
         "stale": 65,
         "metadata_stale": 460,
-        "missing": 25,
+        "missing": 24,
         "orphan": 0
       },
       "id": {
         "total_zh": 1186,
-        "fresh": 634,
+        "fresh": 635,
         "stale": 61,
         "metadata_stale": 467,
-        "missing": 24,
+        "missing": 23,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1186,
-        "fresh": 644,
+        "fresh": 645,
         "stale": 58,
-        "metadata_stale": 459,
+        "metadata_stale": 458,
         "missing": 25,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1186,
-        "fresh": 637,
+        "fresh": 638,
         "stale": 66,
         "metadata_stale": 459,
-        "missing": 24,
+        "missing": 23,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1186,
-        "fresh": 644,
+        "fresh": 646,
         "stale": 57,
-        "metadata_stale": 461,
-        "missing": 24,
+        "metadata_stale": 460,
+        "missing": 23,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1186,
-        "fresh": 654,
+        "fresh": 655,
         "stale": 49,
         "metadata_stale": 458,
-        "missing": 25,
+        "missing": 24,
         "orphan": 0
       },
       "de": {
         "total_zh": 1186,
-        "fresh": 623,
+        "fresh": 625,
         "stale": 67,
-        "metadata_stale": 471,
-        "missing": 25,
+        "metadata_stale": 470,
+        "missing": 24,
         "orphan": 0
       }
     },
@@ -2852,20 +2852,18 @@
         "pt": {
           "path": "pt/Music/taiwan-music-industry-and-the-streaming-era.md",
           "translatedFrom": "Music/台灣音樂產業與串流時代.md",
-          "sourceCommitSha": "10c444b35",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f83026c30713b729",
           "sourceBodyHash": "sha256:15454291ed0f5b85",
-          "translatedAt": "2026-10-03T04:11:36+08:00",
+          "translatedAt": "2026-11-17T20:09:18.190981+00:00",
           "translationLastCommit": "cab126a8",
           "translationLastModified": "2026-10-03T04:44:17+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 18116,
+          "bytes": 18173,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-music-industry-and-the-streaming-era.md",
@@ -28972,8 +28970,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-11-17T19:24:54.627072+00:00",
-          "translationLastCommit": "543ba12d",
-          "translationLastModified": "2026-09-26T23:26:00+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 15931,
@@ -51792,7 +51790,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/dialysis.md",
+          "translatedFrom": "Lifestyle/洗腎與透析.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:b7ca49d82827acde",
+          "sourceBodyHash": "sha256:2e1cc7bd2fbaf9b1",
+          "translatedAt": "2026-11-18T00:49:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 15022,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -51804,7 +51815,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/dialysis.md",
+          "translatedFrom": "Lifestyle/洗腎與透析.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:b7ca49d82827acde",
+          "sourceBodyHash": "sha256:2e1cc7bd2fbaf9b1",
+          "translatedAt": "2026-11-18T00:50:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 16521,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -51813,7 +51837,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/dialysis.md",
+          "translatedFrom": "Lifestyle/洗腎與透析.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:b7ca49d82827acde",
+          "sourceBodyHash": "sha256:2e1cc7bd2fbaf9b1",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 23769,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -53998,20 +54035,18 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-scooter-culture.md",
           "translatedFrom": "Lifestyle/台灣機車文化.md",
-          "sourceCommitSha": "da8d86879",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f94b3bf22acf8238",
           "sourceBodyHash": "sha256:6ed1f511fb4c93bd",
-          "translatedAt": "2026-07-25T12:45:15+08:00",
+          "translatedAt": "2026-11-17T20:03:47.988435+00:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18919,
+          "bytes": 18978,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-scooter-culture.md",
@@ -54032,20 +54067,18 @@
         "es": {
           "path": "es/Lifestyle/taiwan-scooter-culture.md",
           "translatedFrom": "Lifestyle/台灣機車文化.md",
-          "sourceCommitSha": "da8d8687",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f94b3bf22acf8238",
           "sourceBodyHash": "sha256:6ed1f511fb4c93bd",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-11-17T20:04:51.986854+00:00",
           "translationLastCommit": "17d8c5b7",
           "translationLastModified": "2026-09-28T01:35:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17605,
+          "bytes": 17681,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-scooter-culture.md",
@@ -54086,8 +54119,8 @@
           "sourceContentHash": "sha256:f94b3bf22acf8238",
           "sourceBodyHash": "sha256:6ed1f511fb4c93bd",
           "translatedAt": "2026-11-17T19:33:49.378086+00:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 17290,
@@ -54254,7 +54287,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/hospice-palliative-care-and-patient-autonomy.md",
+          "translatedFrom": "Lifestyle/安寧緩和醫療與病人自主.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:0adbf2d6cca3c606",
+          "sourceBodyHash": "sha256:e93ea8843d47b9d9",
+          "translatedAt": "2026-11-18T00:48:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 17283,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/hospice-palliative-care-and-patient-autonomy.md",
@@ -54314,11 +54360,11 @@
           "sourceContentHash": "sha256:0adbf2d6cca3c606",
           "sourceBodyHash": "sha256:e93ea8843d47b9d9",
           "translatedAt": "2026-11-18T00:50:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 15370,
+          "bytes": 15372,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -59571,22 +59617,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 15831,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:49:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 14627,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:50:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 17184,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:50:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 18263,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/organ-donation.md",
@@ -59595,8 +59693,8 @@
           "sourceContentHash": "sha256:fd63a97247c98178",
           "sourceBodyHash": "sha256:8c46733cfa44c596",
           "translatedAt": "2026-11-18T00:50:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 17128,
@@ -59640,10 +59738,36 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:52:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 26619,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:52:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 17418,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -60400,8 +60524,8 @@
           "sourceContentHash": "sha256:33d2f6cba1a3b0f2",
           "sourceBodyHash": "sha256:9a55ab468883045f",
           "translatedAt": "2026-11-17T18:52:04.883668+00:00",
-          "translationLastCommit": "86f55e0a",
-          "translationLastModified": "2026-10-03T02:37:28+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 19121,
@@ -75246,7 +75370,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-life-expectancy.md",
+          "translatedFrom": "Society/台灣平均餘命.md",
+          "sourceCommitSha": "04eecf4c4",
+          "sourceContentHash": "sha256:13ad9f4bddf2a29a",
+          "sourceBodyHash": "sha256:834d3f803cfd3af2",
+          "translatedAt": "2026-11-18T00:51:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 29473,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -77470,8 +77607,8 @@
           "sourceContentHash": "sha256:53dce2454f2bc650",
           "sourceBodyHash": "sha256:a975eff83abc0a3e",
           "translatedAt": "2026-11-17T19:28:14.871915+00:00",
-          "translationLastCommit": "36aaa4ba",
-          "translationLastModified": "2026-10-08T01:10:56+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 18703,
@@ -78990,8 +79127,8 @@
           "sourceContentHash": "sha256:01affe2533530c02",
           "sourceBodyHash": "sha256:21c703a5d9235d48",
           "translatedAt": "2026-11-17T19:12:36.739377+00:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 17705,
@@ -91025,20 +91162,18 @@
         "ar": {
           "path": "ar/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "c24076169",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
-          "translatedAt": "2026-09-21T21:38:56+08:00",
+          "translatedAt": "2026-11-17T20:09:23.256076+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 22105,
+          "bytes": 22164,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-marine-conservation-challenges.md",
@@ -113884,8 +114019,8 @@
           "sourceContentHash": "sha256:5933733fa0ffe284",
           "sourceBodyHash": "sha256:759fc6aa29cdf9f0",
           "translatedAt": "2026-11-17T18:31:09.333285+00:00",
-          "translationLastCommit": "0cc466c8",
-          "translationLastModified": "2026-10-04T04:05:07+08:00",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 21279,
@@ -122925,8 +123060,8 @@
           "sourceContentHash": "sha256:08e74b51b6f448d6",
           "sourceBodyHash": "sha256:1d41125d44464226",
           "translatedAt": "2026-11-18T00:50:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dedee5a",
+          "translationLastModified": "2026-11-18T04:03:41+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 19738,
@@ -126627,20 +126762,18 @@
         "de": {
           "path": "de/People/ethan-tu.md",
           "translatedFrom": "People/杜奕瑾.md",
-          "sourceCommitSha": "ab47ff39c",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:61081ca7c646947e",
           "sourceBodyHash": "sha256:f186e67ce03f9679",
-          "translatedAt": "2026-09-12T00:32:25+08:00",
+          "translatedAt": "2026-11-17T20:03:01.167531+00:00",
           "translationLastCommit": "5af02f60",
           "translationLastModified": "2026-09-12T03:09:57+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 16019,
+          "bytes": 16079,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
