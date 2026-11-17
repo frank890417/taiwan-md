@@ -57,6 +57,33 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v5
+        with:
+          # 深度 2：PR 的合併 commit 第一個 parent 就是 base，下一步用它判斷
+          # 這個 PR 有沒有動到 OG 圖的輸入。
+          fetch-depth: 2
+
+      # OG 圖只有 deploy 會用，這道閘門量的是 HTML。PR 沒動到 OG 的輸入時
+      # 略過產圖（約省一分鐘）；動到了、或是 push 到 main，照舊整套產。
+      # 清單跟 deploy.yml「Detect OG-relevant changes」同一份。
+      - name: Detect OG-relevant changes (PR only)
+        id: og
+        run: |
+          if [ "${{ github.event_name }}" != "pull_request" ]; then
+            echo "skip=0" >> "$GITHUB_OUTPUT"; echo "push 到 main：照舊產 OG"; exit 0
+          fi
+          # 判斷不出來（拿不到 base、git 出錯）就照舊產圖：寧可慢，不可漏
+          if ! git rev-parse --verify -q HEAD^1 >/dev/null || \
+             ! LIST=$(git diff --name-only HEAD^1 HEAD -- 'knowledge/**/*.md' \
+               'docs/semiont/diary/*.md' 'scripts/core/generate-og-images.mjs' \
+               'public/favicon.png'); then
+            echo "skip=0" >> "$GITHUB_OUTPUT"; echo "判斷不出 PR 改了什麼：照舊產 OG"; exit 0
+          fi
+          CHANGED=$(printf '%s\n' "$LIST" | sed -n 1p)
+          if [ -n "$CHANGED" ]; then
+            echo "skip=0" >> "$GITHUB_OUTPUT"; echo "PR 動到 OG 輸入（$CHANGED）：照舊產 OG"
+          else
+            echo "skip=1" >> "$GITHUB_OUTPUT"; echo "PR 沒動到 OG 輸入：略過產圖"
+          fi
 
       - uses: actions/setup-node@v4
         with:
@@ -71,6 +98,8 @@ jobs:
         run: npx --no-install playwright install --with-deps chromium
 
       - name: Build
+        env:
+          OG_SKIP: ${{ steps.og.outputs.skip }}
         run: npm run build
 
       - name: Serve dist

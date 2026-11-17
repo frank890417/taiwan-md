@@ -748,6 +748,15 @@ async function launchChromiumWithHeal() {
 }
 
 async function main() {
+  // OG_SKIP=1：只給 PR 閘門用（sticky-viewport-gate / i18n-smoke-test）。
+  // 那兩條要的是 dist 的 HTML，不看 OG 圖；PR 沒動到 OG 的輸入
+  // （knowledge/*.md、diary、本檔、favicon）時，產圖只是重做 deploy 會做的事。
+  // 判斷 OG 輸入有沒有動的那段在 workflow 裡，跟 deploy.yml 的
+  // 「Detect OG-relevant changes」同一份清單。部署與本機都不設這個變數，行為不變。
+  if (process.env.OG_SKIP === '1') {
+    console.log('⏭️  OG_SKIP=1 — 這次沒動到 OG 的輸入，略過產圖');
+    return;
+  }
   const args = process.argv.slice(2);
   const getArg = (name) => {
     const eq = args.find((a) => a.startsWith(`--${name}=`));

@@ -97,20 +97,8 @@ jobs:
       - name: Install dependencies
         if: steps.node-modules-cache.outputs.cache-hit != 'true'
         run: npm ci --prefer-offline --no-audit
-      - name: Verify CJK Markdown parser contract
-        run: npm run test:markdown
-      - name: Validate frontmatter (changed files)
-        run: node scripts/core/test-frontmatter.mjs --ci
-
-      # SSOT article-health validation — full sweep on CI.
-      # Phase 10 promoted from shadow → hard gate. 2026-05-04 cleanup-1-4 promoted
-      # CI to hard fail (no observation period needed; pre-commit gate already
-      # caught drift, full sweep on main is the final safety net).
-      - name: Validate article health (SSOT, full sweep)
-        # ci-deploy profile: full sweep, blocks on HARD only. WARN is advisory
-        # surface (dashboard + human review). release-pr profile is the strict
-        # one for explicit release review (fails on WARN too).
-        run: python3 scripts/tools/article-health.py --all --profile=ci-deploy --quiet
+      # Markdown 契約、frontmatter、文章健康全掃三道驗證，2026-11-17 搬到下方
+      # 同時跑的 validate job（deploy 要等 build 與 validate 都綠才會走）。
 
       # （2026-06-10 audit 熱點 #7：原 Tier 1-3 .astro content-collection cache
       # 已移除 — repo 零 getCollection 呼叫（文章走 fs 直讀），cache 實測僅
@@ -249,19 +237,80 @@ jobs:
           # hero showed "0+" (2026-06-13 regression root-cause fix).
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
+      # 2026-11-17 CI 加速：upload-pages-artifact@v5 是「tar 打包＋upload-artifact」
+      # 兩步的組合，但不開放壓縮等級，內部固定用 6。站體 tar 是 6.1GB，等級 6
+      # 壓成 1.96GB 要 100–107 秒；等級 1 壓成 2.13GB 只要 63 秒（同 commit 實測，
+      # run 44030979991）。這裡把那兩步照原樣拆開寫，只改壓縮等級：
+      #   - tar 參數同 v5 的 action.yml（include-hidden-files: true 那一支，
+      #     即不加 --exclude=.[^/]*，放行 public/.well-known/ 給 iOS Universal Links）
+      #   - 拿掉 -v：逐檔列出三萬多行只是 log 噪音，tar 內容不變
+      #   - upload-artifact 釘同一個 SHA（v7.0.0）、同名 github-pages、retention 1 天
+      # deploy-pages 照舊從 github-pages 這個 artifact 取 artifact.tar。
+      # 還原：換回上一版的 upload-pages-artifact@v5 步驟即可。
+      - name: Archive artifact
+        run: |
+          tar --dereference --hard-dereference --directory ./dist \
+            -cf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
+          ls -l "$RUNNER_TEMP/artifact.tar"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
         with:
-          path: ./dist
-          # 放行 public/.well-known/（iOS Universal Links 的 apple-app-site-association）
-          include-hidden-files: true
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
+          compression-level: 1
+
+  # 2026-11-17 CI 加速：這三道驗證原本排在 build job 的最前面、依序跑（約 33 秒），
+  # 它們不讀 build 的任何產物，build 也不讀它們的。搬成同時跑的 job，
+  # 步驟、指令、環境（完整歷史 blobless clone＋mtime 還原＋同一份 node_modules
+  # 快取）照舊；deploy 的 needs 同時掛 build 與 validate，任一道紅就不部署。
+  validate:
+    runs-on: ubuntu-24.04-arm
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          filter: blob:none
+      - name: Restore file mtimes from git history
+        run: python3 scripts/ci/restore-mtime.py --verify-min-ratio 0.9
+      - name: Setup Node (with npm cache)
+        uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: 'npm'
+      - name: Restore node_modules cache
+        id: node-modules-cache
+        uses: actions/cache@v5
+        with:
+          path: node_modules
+          key: node-modules-${{ runner.os }}-${{ runner.arch }}-node22-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        if: steps.node-modules-cache.outputs.cache-hit != 'true'
+        run: npm ci --prefer-offline --no-audit
+      - name: Verify CJK Markdown parser contract
+        run: npm run test:markdown
+      - name: Validate frontmatter (changed files)
+        run: node scripts/core/test-frontmatter.mjs --ci
+
+      # SSOT article-health validation — full sweep on CI.
+      # Phase 10 promoted from shadow → hard gate. 2026-05-04 cleanup-1-4 promoted
+      # CI to hard fail (no observation period needed; pre-commit gate already
+      # caught drift, full sweep on main is the final safety net).
+      - name: Validate article health (SSOT, full sweep)
+        # ci-deploy profile: full sweep, blocks on HARD only. WARN is advisory
+        # surface (dashboard + human review). release-pr profile is the strict
+        # one for explicit release review (fails on WARN too).
+        run: python3 scripts/tools/article-health.py --all --profile=ci-deploy --quiet
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: [build, validate]
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -288,12 +337,19 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+        with:
+          # 閘門只跑 scripts/tools/check-font-gate.mjs（只 import playwright），
+          # 打的是正式站，不需要 1.16GB 的工作樹。根目錄的 .nvmrc 與
+          # package.json cone 模式會一起抓。
+          sparse-checkout: scripts/tools
       - uses: actions/setup-node@v6
         with:
           # 寫死 '22' 會拿 runner 快取裡的最新 22.x；2026-10-24 快取停在 22.23.3
           # 而 astro 7.4.2 要 >=22.23.4，deploy build 當場死。改讀單一來源。
           node-version-file: .nvmrc
-      - run: npm i -D playwright@1.59.1 --no-save
+      # --ignore-scripts：postinstall 的 sync.sh 要讀 knowledge/，sparse 下沒有；
+      # 這道閘門打的是正式站，用不到 sync 產的 src/content，也用不到 husky。
+      - run: npm i -D playwright@1.59.1 --no-save --ignore-scripts
       - run: npx playwright install chromium
       - name: 字型拿不到時，讀者還看得到內容嗎
         run: node scripts/tools/check-font-gate.mjs --url=https://taiwan.md --paths=/,/about/,/en/

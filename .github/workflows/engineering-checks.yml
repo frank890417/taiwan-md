@@ -8,6 +8,12 @@ on:
 permissions:
   contents: read
 jobs:
+  # 2026-11-17 CI 加速：原本一條 job 循序跑完全部（約 3.2 分，其中 astro check
+  # 73 秒）。拆成三條同時跑的 job，步驟一個不少、各自的順序不變：
+  #   contracts    根目錄 audit、契約測試、pytest
+  #   types        fork-graph 資料 → astro check（check:types 讀 fork-graph 產的檔，所以留在同一條）
+  #   subprojects  四個子專案的 audit / check / build / test
+  # 任一條紅，這個 workflow 就紅，閘門強度不變。
   contracts:
     runs-on: ubuntu-latest
     steps:
@@ -31,10 +37,34 @@ jobs:
         if: ${{ !cancelled() }}
       - run: python -m pytest tests -q
         if: ${{ !cancelled() }}
+  types:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci --ignore-scripts --no-audit
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      # fork-graph 腳本要 PyYAML；拆 job 前是前面 pytest 那步順手裝到的
+      - run: pip install PyYAML==6.0.3
       - run: npm run prebuild:fork-graph
-        if: ${{ !cancelled() }}
       - run: npm run check:types
         if: ${{ !cancelled() }}
+  subprojects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      # harvest/ui 的 build 會往上讀根目錄 tsconfig.json（extends astro/tsconfigs/strict），
+      # 要根目錄的 node_modules；拆 job 前是 contracts 那條第一步裝的
+      - run: npm ci --ignore-scripts --no-audit
       # 以下四個子專案互相獨立，所以用 `if: !cancelled()` 讓其中一個紅掉時
       # 另外三個照樣跑完。沒有這一行的話，步驟是循序的、第一個紅的就讓後面
       # 全部 skipped——2026-10-24 那次 main 的 run 就是這樣：repo 根的 audit
@@ -71,6 +101,11 @@ jobs:
         options: --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
     steps:
       - uses: actions/checkout@v5
+        with:
+          # 這支測試只讀 tests/feedback/ 與 supabase/migrations/，不抓整個 1.16GB 工作樹
+          sparse-checkout: |
+            tests/feedback
+            supabase
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
