@@ -30,11 +30,13 @@ image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'
 imageLicense: '政府公開資訊（OGDL — Open Government Data License）'
 imageSource: 'https://www.president.gov.tw/NEWS/20543'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '72a8b4432'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:01affe2533530c02'
 sourceBodyHash: 'sha256:21c703a5d9235d48'
-translatedAt: '2026-07-26T23:53:47+08:00'
+translatedAt: '2026-11-17T19:12:36.739377+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Paraguay dan Republik Tiongkok (Taiwan) mendirikan hubungan diplomatik pada 1957, dan pada 2026 telah memasuki tahun ke-69. Paraguay adalah satu-satunya sahabat diplomatik Taiwan di Amerika Selatan, serta negara dengan luas wilayah terbesar di antara sahabat diplomatik yang ada; namun jumlah penduduknya lebih rendah dari sebagian sahabat diplomatik di Amerika Tengah. Pada 7–10 Mei 2026, Presiden Paraguay Santiago Peña melakukan kunjungan negara pertamanya ke Taiwan, dan Kementerian Luar Negeri mengumumkan Presiden Lai Ching-te akan menyambutnya dengan upacara militer, jamuan negara, serta Bintang Adi Utama pada 8 Mei. Hubungan diplomatik ini bertahan dari rayuan Tiongkok berkat pengakuan diplomatik, pasar produk peternakan, Universitas Politeknik Taiwan-Paraguay, Kawasan Teknologi Cerdas, dan kerja sama teknis jangka panjang yang saling menopang.[^1][^2]

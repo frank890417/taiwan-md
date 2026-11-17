@@ -2,9 +2,7 @@
 title: 'Budaya Skuter Taiwan'
 description: 'Negara dengan kepadatan skuter tertinggi di dunia bukan karena orang-orangnya suka berkendara—tetapi karena tidak ada pilihan lain. Sekarang, tempat ini secara tak terduga menjadi laboratorium global untuk kendaraan roda dua bertenaga listrik.'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '交通與移動'
 tags:
   [
     'kehidupan',
@@ -16,15 +14,19 @@ tags:
     'skuter listrik',
     'transportasi',
   ]
-readingTime: 10
+subcategory: '交通與移動'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-featured: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣機車文化.md'
-sourceCommitSha: 'da8d86879'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f94b3bf22acf8238'
 sourceBodyHash: 'sha256:6ed1f511fb4c93bd'
-translatedAt: '2026-07-24T15:52:20+08:00'
+translatedAt: '2026-11-17T19:33:49.378086+00:00'
 ---
 
 # Budaya Skuter Taiwan
