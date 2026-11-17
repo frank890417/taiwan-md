@@ -117,7 +117,8 @@ const officialResourceUrls = {
   cec: 'https://web.cec.gov.tw/',
   politicalDonations: 'https://ardata.cy.gov.tw/',
   moneyFlow: 'https://g0v-money-flow.github.io/elections/',
-  tfc: 'https://tfc-taiwan.org.tw/',
+  // 2026 選舉工具箱（站方首頁橫幅寫的 /2026election 是 404，可開的是這個）
+  tfc: 'https://tfc-taiwan.org.tw/election2026/',
   cofacts: 'https://cofacts.tw/',
 };
 
@@ -340,7 +341,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'g0v 選舉金流',
           url: officialResourceUrls.moneyFlow,
-          desc: '政治獻金視覺化',
+          desc: '歷屆（2014–2018）政治獻金視覺化，不含 2026',
           icon: '💸',
         },
         {
@@ -609,7 +610,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'g0v Election Money Flow',
           url: officialResourceUrls.moneyFlow,
-          desc: 'Political donation visualization',
+          desc: 'Past elections (2014–2018) political donation visualization; not 2026',
           icon: '💸',
         },
         {
@@ -865,7 +866,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'g0v 選挙資金フロー',
           url: officialResourceUrls.moneyFlow,
-          desc: '政治献金の可視化',
+          desc: '過去の選挙（2014〜2018年）の政治献金の可視化。2026年分は含まれません',
           icon: '💸',
         },
         {
@@ -1121,7 +1122,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'g0v 선거 자금 흐름',
           url: officialResourceUrls.moneyFlow,
-          desc: '정치헌금 시각화',
+          desc: '역대 선거(2014–2018) 정치헌금 시각화, 2026년은 포함되지 않음',
           icon: '💸',
         },
         {
@@ -1396,7 +1397,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'Flux financiers électoraux g0v',
           url: officialResourceUrls.moneyFlow,
-          desc: 'Visualisation des dons politiques',
+          desc: 'Visualisation des dons politiques des scrutins passés (2014–2018), sans 2026',
           icon: '💸',
         },
         {
@@ -1670,7 +1671,7 @@ const electionCopy: Record<string, ElectionCopy> = {
         {
           name: 'Flujo de dinero electoral g0v',
           url: officialResourceUrls.moneyFlow,
-          desc: 'Visualización de donaciones políticas',
+          desc: 'Visualización de donaciones políticas de elecciones pasadas (2014–2018), sin 2026',
           icon: '💸',
         },
         {
@@ -4013,14 +4014,14 @@ import { icons } from '../icons/taiwan-icons.mjs';
               <li>
                 {copy.verify.factCheckPrefix}{' '}
                 <a
-                  href="https://tfc-taiwan.org.tw/"
+                  href={officialResourceUrls.tfc}
                   target="_blank"
                   rel="noopener noreferrer"
                   class="el-inline-link">{tfcName}</a
                 >{' '}
                 {copy.verify.factCheckJoin}{' '}
                 <a
-                  href="https://cofacts.tw/"
+                  href={officialResourceUrls.cofacts}
                   target="_blank"
                   rel="noopener noreferrer"
                   class="el-inline-link">{cofactsName}</a

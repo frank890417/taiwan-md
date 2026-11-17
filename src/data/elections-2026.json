@@ -1,6 +1,7 @@
 {
   "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = ballot number for races whose draw result is posted by that city/county election commission (number + numberSource = the commission's own result page on cec.gov.tw; 金門縣 drawn 2026-10-23, the other 21 races postponed to 2026-10-27 by Typhoon 薔琵). 南投縣 and 連江縣 commissions had not posted results as of 2026-11-02, so they keep research file order (registration date, CEC roster) until the 2026-11-17 official notice. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
   "lastVerified": "2026-11-02",
+  "pageVerified": "2026-11-17",
   "election": {
     "date": "2026-11-28",
     "startDate": "2026-11-28T08:00:00+08:00",
@@ -22,6 +23,29 @@
     "schedule": "https://web.cec.gov.tw/central/article/61722",
     "pressRelease0820": "https://web.cec.gov.tw/central/article/63642",
     "referendum": "https://web.cec.gov.tw/central/article/64775"
+  },
+  "lookups": {
+    "$comment": "讀者自己要用的官方查詢入口，2026-11-17 以 curl 確認 HTTP 200。races[].commissionSite 是各縣市選委會網站（標題逐一核對），11/17 起在那裡公告直轄市議員、縣（市）議員等候選人名單。",
+    "voteSearch": {
+      "url": "https://info.cec.gov.tw/vote2026/voteSearch/",
+      "owner": "中央選舉委員會"
+    },
+    "risPollingPlace": {
+      "url": "https://www.ris.gov.tw/app/portal",
+      "owner": "內政部戶政司",
+      "opens": "2026-11-23",
+      "closes": "2026-11-28",
+      "source": "https://www.moi.gov.tw/News_Content.aspx?n=4&s=343110"
+    },
+    "electionDb": {
+      "url": "https://db.cec.gov.tw/",
+      "owner": "中央選舉委員會",
+      "note": "歷屆選舉結果；頁尾寫「選舉投票後7日內更新」"
+    },
+    "cecHome": {
+      "url": "https://web.cec.gov.tw/central",
+      "owner": "中央選舉委員會"
+    }
   },
   "offices": [
     {
@@ -95,6 +119,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/mect/",
       "candidates": [
         {
           "name": "郭璽",
@@ -168,6 +193,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/tpcec/",
       "candidates": [
         {
           "name": "蘇巧慧",
@@ -210,6 +236,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/tyec/",
       "candidates": [
         {
           "name": "黃世杰",
@@ -239,6 +266,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/tcec/",
       "candidates": [
         {
           "name": "何欣純",
@@ -276,6 +304,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/tnec/",
       "candidates": [
         {
           "name": "蕭燐洪",
@@ -322,6 +351,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "commissionSite": "https://www.cec.gov.tw/khec/",
       "candidates": [
         {
           "name": "張靜",
@@ -378,6 +408,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/klec/",
       "candidates": [
         {
           "name": "童子瑋",
@@ -416,6 +447,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/hcec/",
       "candidates": [
         {
           "name": "高虹安",
@@ -454,6 +486,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/cyec/",
       "candidates": [
         {
           "name": "王義成",
@@ -509,6 +542,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/hccec/",
       "candidates": [
         {
           "name": "鄭朝方",
@@ -546,6 +580,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/mlec/",
       "candidates": [
         {
           "name": "陳品安",
@@ -575,6 +610,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/chec/",
       "candidates": [
         {
           "name": "陳素月",
@@ -621,6 +657,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/ntec/",
       "candidates": [
         {
           "name": "温世政",
@@ -648,6 +685,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/ylec/",
       "candidates": [
         {
           "name": "吳炳輝",
@@ -694,6 +732,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/cycec/",
       "candidates": [
         {
           "name": "吳品叡",
@@ -722,6 +761,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/ptec/",
       "candidates": [
         {
           "name": "蘇清泉",
@@ -751,6 +791,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/ilec/",
       "candidates": [
         {
           "name": "林國漳",
@@ -806,6 +847,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/hlec/",
       "candidates": [
         {
           "name": "魏嘉賢",
@@ -852,6 +894,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/ttec/",
       "candidates": [
         {
           "name": "李吳穎智",
@@ -898,6 +941,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/phec/",
       "candidates": [
         {
           "name": "許智富",
@@ -962,6 +1006,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/kmec/",
       "candidates": [
         {
           "name": "張國威",
@@ -1035,6 +1080,7 @@
       "seats": 1,
       "source": "https://web.cec.gov.tw/central/article/65212",
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "commissionSite": "https://www.cec.gov.tw/lcec/",
       "candidates": [
         {
           "name": "王忠銘",
