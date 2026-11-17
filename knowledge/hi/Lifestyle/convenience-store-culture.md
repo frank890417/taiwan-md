@@ -2,9 +2,7 @@
 title: 'ताइवान की सुविधा स्टोर संस्कृति'
 description: 'दुनिया में शीर्ष घनत्व वाले सुविधा स्टोर बाज़ारों में शामिल ताइवान, जहाँ 7-Eleven और FamilyMart के स्थानीय नवाचारों ने आधुनिक जीवनशैली को नई परिभाषा दी है'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '城市生活'
 tags:
   [
     'जीवन',
@@ -15,15 +13,19 @@ tags:
     'सुविधा स्टोर संस्कृति',
     'आधुनिक जीवन',
   ]
-readingTime: 7
+subcategory: '城市生活'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: '42580d097'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:33d2f6cba1a3b0f2'
 sourceBodyHash: 'sha256:9a55ab468883045f'
-translatedAt: '2026-10-03T02:23:42+08:00'
+translatedAt: '2026-11-17T18:16:46.014051+00:00'
 ---
 
 # ताइवान की सुविधा स्टोर संस्कृति
