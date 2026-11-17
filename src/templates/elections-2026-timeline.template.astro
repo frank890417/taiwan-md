@@ -13,6 +13,7 @@
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import timelineDataRaw from '../data/elections-2026-timeline.json';
+import '../styles/elections.css';
 
 type ItemText = { title: string; detail: string; voterTip?: string };
 type TimelineItem = {
@@ -630,20 +631,26 @@ for (const item of items) {
   g.items.push(item);
 }
 
-const voterItems = items.filter((i) => i.cats.includes('voters'));
+// 選民日期放在第一屏：還沒過的排前面（各自仍照日期），已完成的放後面；
+// 投票日過後全部已完成，就回到單純的日期順序。
+const voterItems = items
+  .filter((i) => i.cats.includes('voters'))
+  .sort(
+    (a, b) => Number(stateOf(a) === 'done') - Number(stateOf(b) === 'done'),
+  );
 const catKeys = ['admin', 'candidates', 'referendum', 'voters'];
 
 const stateChip: Record<ItemState, string> = {
-  done: 'bg-[#f0fdf4] text-[#15803d]',
-  now: 'bg-[#7c2d12] text-white',
-  next: 'bg-[#fef3c7] text-[#92400e]',
-  upcoming: 'bg-[#f3f4f6] text-[#6b7280]',
+  done: 'bg-(--el-positive-soft) text-(--el-positive)',
+  now: 'bg-(--el-accent) text-(--el-bg)',
+  next: 'bg-(--el-warn-soft) text-(--el-accent-2)',
+  upcoming: 'bg-(--el-slate) text-(--el-ink-3)',
 };
 const stateDot: Record<ItemState, string> = {
-  done: 'border-[#15803d] bg-[#15803d]',
-  now: 'border-[#7c2d12] bg-[#7c2d12]',
-  next: 'border-[#7c2d12] bg-[#fef2ec]',
-  upcoming: 'border-[#d1d5db] bg-white',
+  done: 'border-(--el-positive) bg-(--el-positive)',
+  now: 'border-(--el-accent) bg-(--el-accent)',
+  next: 'border-(--el-accent) bg-(--el-accent-soft)',
+  upcoming: 'border-(--el-border-strong) bg-(--el-panel)',
 };
 
 // ── JSON-LD：BreadcrumbList ───────────────────────────────────────
@@ -672,7 +679,7 @@ const jsonLd = toJsonLd({
 const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 const serif = "font-family: 'Noto Serif TC', serif;";
 // 出處連結沿用全站 main a 的底線與 ↗ 樣式，只調顏色
-const linkCls = 'text-[#6b7280] hover:text-[#374151]';
+const linkCls = 'text-(--el-ink-3) hover:text-(--el-ink-2)';
 ---
 
 <Layout
@@ -681,18 +688,18 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
   description={fill(c.metaDescription, mv)}
   readerSettings
 >
-  <div class="elections-timeline">
+  <div class="elections-timeline el-surface">
     <!-- Hero -->
     <section
-      class="hero relative overflow-hidden border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+      class="hero relative overflow-hidden border-b border-(--el-border) bg-gradient-to-b from-(--el-cream) via-(--el-bg) to-(--el-bg)"
     >
       <div
         class="relative mx-auto max-w-[920px] px-4 pb-12 pt-8 md:px-6 md:pb-16"
       >
-        <nav aria-label="breadcrumb" class="mb-8 text-sm text-[#78716c]">
+        <nav aria-label="breadcrumb" class="mb-8 text-sm text-(--el-ink-3)">
           <a
             href={`${langPrefix}/elections/2026/`}
-            class="card-link text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+            class="border-b-0 pb-0 text-(--el-accent) underline decoration-(--el-accent)/30 underline-offset-2 hover:decoration-(--el-accent)"
             >{c.breadcrumbHome}</a
           >
           <span aria-hidden="true" class="mx-1.5">/</span>
@@ -700,77 +707,39 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
         </nav>
 
         <div
-          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-(--el-accent-2)"
         >
           {c.hero.eyebrow}
         </div>
         <h1
-          class="hero-title mb-5 text-center text-[2.25rem] font-bold leading-[1.2] text-[#1f2937] md:text-[3rem]"
+          class="hero-title mb-5 text-center text-[2.25rem] font-bold leading-[1.2] text-(--el-ink) md:text-[3rem]"
           style={heading}
         >
           {c.hero.title}
         </h1>
         <p
-          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.8] text-[#52525b] md:text-lg"
+          class="mx-auto max-w-[640px] text-center text-base leading-[1.8] text-(--el-ink-2) md:text-lg"
         >
           {c.hero.subtitle}
         </p>
-
-        <div
-          class="mx-auto max-w-[560px] rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/75 px-5 py-6 shadow-[0_4px_20px_rgba(124,45,18,0.08)] md:px-8"
-        >
-          <p class="mb-4 text-center text-xs text-[#78716c]">
-            {fill(c.hero.todayLabel, { date: todayIso.replace(/-/g, '/') })}
-            <span aria-hidden="true" class="mx-1.5">·</span>
-            {fill(c.hero.progress, { done: doneCount, total: items.length })}
-          </p>
-          {
-            focusItems.length > 0 ? (
-              <ul class="list-none space-y-3 pl-0">
-                {focusItems.map((i) => {
-                  const st = stateOf(i);
-                  return (
-                    <li class="flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
-                      <span
-                        class={`rounded-full px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider ${stateChip[st]}`}
-                      >
-                        {c.timeline.states[st]}
-                      </span>
-                      <span class="font-mono text-sm tabular-nums text-[#7c2d12]">
-                        {fmtDate(i)}
-                      </span>
-                      <a
-                        href={`#${i.id}`}
-                        class="card-link text-base font-semibold text-[#1f2937] no-underline hover:text-[#7c2d12]"
-                      >
-                        {textOf(i).title}
-                      </a>
-                    </li>
-                  );
-                })}
-              </ul>
-            ) : (
-              <p class="text-center text-base font-semibold text-[#15803d]">
-                {c.hero.allDone}
-              </p>
-            )
-          }
-        </div>
       </div>
     </section>
 
     <!-- 選民要自己留意的日期 -->
-    <section id="voters" class="anchor-section bg-[#fdfaf2] py-14 md:py-20">
+    <section
+      id="voters"
+      class="anchor-section bg-(--el-cream) pb-14 pt-10 md:pb-20 md:pt-14"
+    >
       <div class="mx-auto max-w-[920px] px-4 md:px-6">
         <div class="mb-8 text-center">
           <h2
-            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[2rem]"
+            class="mb-3 text-[1.5rem] font-light text-(--el-ink) md:text-[2rem]"
             style={heading}
           >
             {c.voters.title}
           </h2>
           <p
-            class="mx-auto max-w-[620px] text-base leading-[1.75] text-[#52525b]"
+            class="mx-auto max-w-[620px] text-base leading-[1.75] text-(--el-ink-2)"
           >
             {c.voters.intro}
           </p>
@@ -783,14 +752,14 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
               const t = textOf(i);
               return (
                 <li
-                  class={`rounded-xl border-[1.5px] bg-white p-5 ${
+                  class={`rounded-xl border-[1.5px] bg-(--el-panel) p-5 ${
                     st === 'done'
-                      ? 'border-[#e5e7eb] opacity-80'
-                      : 'border-[#e7d9b8]'
+                      ? 'border-(--el-border) opacity-80'
+                      : 'border-(--el-border)'
                   }`}
                 >
                   <div class="mb-2 flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
-                    <span class="font-mono text-sm font-semibold tabular-nums text-[#7c2d12]">
+                    <span class="font-mono text-sm font-semibold tabular-nums text-(--el-accent)">
                       {fmtDate(i)}
                     </span>
                     <span
@@ -799,23 +768,23 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
                       {c.timeline.states[st]}
                     </span>
                     {i.derived && (
-                      <span class="rounded border border-[#d1d5db] px-1.5 font-mono text-[10px] text-[#6b7280]">
+                      <span class="rounded border border-(--el-border-strong) px-1.5 font-mono text-[10px] text-(--el-ink-3)">
                         {c.timeline.derivedBadge}
                       </span>
                     )}
                   </div>
                   <h3
-                    class="mb-2 text-base font-semibold leading-[1.5] text-[#1f2937]"
+                    class="mb-2 text-base font-semibold leading-[1.5] text-(--el-ink)"
                     style={serif}
                   >
                     <a
                       href={`#${i.id}`}
-                      class="card-link text-[#1f2937] no-underline hover:text-[#7c2d12]"
+                      class="border-b-0 pb-0 text-(--el-ink) no-underline hover:text-(--el-accent)"
                     >
                       {t.title}
                     </a>
                   </h3>
-                  <p class="text-sm leading-[1.7] text-[#52525b]">
+                  <p class="text-sm leading-[1.7] text-(--el-ink-2)">
                     {t.voterTip ?? t.detail}
                   </p>
                 </li>
@@ -826,10 +795,10 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
 
         <div class="mt-8 grid gap-4 md:grid-cols-2">
           <div
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/70 p-5"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-panel)/70 p-5"
           >
             <h3
-              class="mb-3 text-base font-semibold text-[#1f2937]"
+              class="mb-3 text-base font-semibold text-(--el-ink)"
               style={serif}
             >
               {c.voters.bringTitle}
@@ -838,13 +807,13 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
               {
                 c.voters.bring.map((b) => (
                   <div>
-                    <dt class="font-semibold text-[#7c2d12]">{b.label}</dt>
-                    <dd class="text-[#52525b]">{b.text}</dd>
+                    <dt class="font-semibold text-(--el-accent)">{b.label}</dt>
+                    <dd class="text-(--el-ink-2)">{b.text}</dd>
                   </div>
                 ))
               }
             </dl>
-            <p class="mt-3 text-xs leading-[1.6] text-[#9ca3af]">
+            <p class="mt-3 text-xs leading-[1.6] text-(--el-ink-3)">
               {c.timeline.sourceLabel}
               {
                 ['law-e18', 'cec-idrules', 'cec-63642', 'cec-61230'].map(
@@ -869,10 +838,10 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
             </p>
           </div>
           <div
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/70 p-5"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-panel)/70 p-5"
           >
             <h3
-              class="mb-3 text-base font-semibold text-[#1f2937]"
+              class="mb-3 text-base font-semibold text-(--el-ink)"
               style={serif}
             >
               {c.voters.whoTitle}
@@ -881,13 +850,13 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
               {
                 c.voters.who.map((w) => (
                   <div>
-                    <dt class="font-semibold text-[#7c2d12]">{w.label}</dt>
-                    <dd class="text-[#52525b]">{w.text}</dd>
+                    <dt class="font-semibold text-(--el-accent)">{w.label}</dt>
+                    <dd class="text-(--el-ink-2)">{w.text}</dd>
                   </div>
                 ))
               }
             </dl>
-            <p class="mt-3 text-xs leading-[1.6] text-[#9ca3af]">
+            <p class="mt-3 text-xs leading-[1.6] text-(--el-ink-3)">
               {c.timeline.sourceLabel}
               {
                 ['law-e14', 'law-e15', 'law-e4', 'law-r7', 'law-r8'].map(
@@ -916,20 +885,65 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
     </section>
 
     <!-- 完整時間軸 -->
-    <section id="timeline" class="anchor-section bg-white py-14 md:py-20">
+    <section
+      id="timeline"
+      class="anchor-section bg-(--el-panel) py-14 md:py-20"
+    >
       <div class="mx-auto max-w-[800px] px-4 md:px-6">
         <div class="mb-8 text-center">
           <h2
-            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[2rem]"
+            class="mb-3 text-[1.5rem] font-light text-(--el-ink) md:text-[2rem]"
             style={heading}
           >
             {c.timeline.title}
           </h2>
           <p
-            class="mx-auto max-w-[600px] text-base leading-[1.75] text-[#52525b]"
+            class="mx-auto max-w-[600px] text-base leading-[1.75] text-(--el-ink-2)"
           >
             {c.timeline.intro}
           </p>
+        </div>
+
+        <!-- 今天走到哪：依台北日期，進行中與下一站 -->
+        <div
+          class="mx-auto mb-10 max-w-[560px] rounded-2xl border-[1.5px] border-(--el-accent)/20 bg-(--el-panel)/75 px-5 py-6 shadow-[0_4px_20px_color-mix(in_srgb,var(--el-accent)_8%,transparent)] md:px-8"
+        >
+          <p class="mb-4 text-center text-xs text-(--el-ink-3)">
+            {fill(c.hero.todayLabel, { date: todayIso.replace(/-/g, '/') })}
+            <span aria-hidden="true" class="mx-1.5">·</span>
+            {fill(c.hero.progress, { done: doneCount, total: items.length })}
+          </p>
+          {
+            focusItems.length > 0 ? (
+              <ul class="list-none space-y-3 pl-0">
+                {focusItems.map((i) => {
+                  const st = stateOf(i);
+                  return (
+                    <li class="flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
+                      <span
+                        class={`rounded-full px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider ${stateChip[st]}`}
+                      >
+                        {c.timeline.states[st]}
+                      </span>
+                      <span class="font-mono text-sm tabular-nums text-(--el-accent)">
+                        {fmtDate(i)}
+                      </span>
+                      <a
+                        href={`#${i.id}`}
+                        class="border-b-0 pb-0 text-base font-semibold text-(--el-ink) no-underline hover:text-(--el-accent)"
+                      >
+                        {textOf(i).title}
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            ) : (
+              <p class="text-center text-base font-semibold text-(--el-positive)">
+                {c.hero.allDone}
+              </p>
+            )
+          }
         </div>
 
         <!-- 分類篩選：無 JS 時保持 hidden，時間軸全部顯示 -->
@@ -942,7 +956,7 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
         >
           <button
             type="button"
-            class="tl-filter-btn rounded-full border-[1.5px] border-[#d1d5db] bg-white px-4 py-1.5 text-sm font-semibold text-[#374151]"
+            class="tl-filter-btn rounded-full border-[1.5px] border-(--el-border-strong) bg-(--el-panel) px-4 py-1.5 text-sm font-semibold text-(--el-ink-2)"
             data-filter="all"
             aria-pressed="true">{c.timeline.all}</button
           >
@@ -950,7 +964,7 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
             catKeys.map((k) => (
               <button
                 type="button"
-                class="tl-filter-btn rounded-full border-[1.5px] border-[#d1d5db] bg-white px-4 py-1.5 text-sm font-semibold text-[#374151]"
+                class="tl-filter-btn rounded-full border-[1.5px] border-(--el-border-strong) bg-(--el-panel) px-4 py-1.5 text-sm font-semibold text-(--el-ink-2)"
                 data-filter={k}
                 aria-pressed="false"
               >
@@ -963,10 +977,10 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
         {
           monthGroups.map((g) => (
             <div class="tl-month mb-10 last:mb-0" data-tl-month>
-              <h3 class="mb-4 font-mono text-xs uppercase tracking-[0.16em] text-[#92400e]">
+              <h3 class="mb-4 font-mono text-xs uppercase tracking-[0.16em] text-(--el-accent-2)">
                 {g.label}
               </h3>
-              <ol class="relative list-none border-l-[1.5px] border-[#e7d9b8] pl-5 md:pl-6">
+              <ol class="relative list-none border-l-[1.5px] border-(--el-border) pl-5 md:pl-6">
                 {g.items.map((i) => {
                   const st = stateOf(i);
                   const t = textOf(i);
@@ -984,10 +998,10 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
                         <span
                           class={`font-mono text-sm tabular-nums ${
                             st === 'done'
-                              ? 'text-[#15803d]'
+                              ? 'text-(--el-positive)'
                               : st === 'upcoming'
-                                ? 'text-[#6b7280]'
-                                : 'font-semibold text-[#7c2d12]'
+                                ? 'text-(--el-ink-3)'
+                                : 'font-semibold text-(--el-accent)'
                           }`}
                         >
                           {fmtDate(i)}
@@ -999,39 +1013,41 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
                           {c.timeline.states[st]}
                         </span>
                         {i.derived && (
-                          <span class="rounded border border-[#d1d5db] px-1.5 font-mono text-[10px] text-[#6b7280]">
+                          <span class="rounded border border-(--el-border-strong) px-1.5 font-mono text-[10px] text-(--el-ink-3)">
                             {c.timeline.derivedBadge}
                           </span>
                         )}
                         {i.cats.map((k) => (
-                          <span class="rounded-full border border-[#e7d9b8] px-2 py-0.5 text-[11px] text-[#92400e]">
+                          <span class="rounded-full border border-(--el-border) px-2 py-0.5 text-[11px] text-(--el-accent-2)">
                             {c.timeline.cats[k]}
                           </span>
                         ))}
                       </div>
                       <h4
                         class={`mb-1.5 text-[1.05rem] font-semibold leading-[1.5] ${
-                          st === 'done' ? 'text-[#4b5563]' : 'text-[#1f2937]'
+                          st === 'done'
+                            ? 'text-(--el-ink-2)'
+                            : 'text-(--el-ink)'
                         }`}
                         style={serif}
                       >
                         {t.title}
                       </h4>
-                      <p class="mb-2 text-sm leading-[1.75] text-[#52525b]">
+                      <p class="mb-2 text-sm leading-[1.75] text-(--el-ink-2)">
                         {t.detail}
                       </p>
                       {t.voterTip && (
-                        <p class="mb-2 rounded-lg border-l-[3px] border-[#7c2d12]/50 bg-[#fef9ed] px-3 py-2 text-sm leading-[1.7] text-[#374151]">
-                          <span class="font-semibold text-[#7c2d12]">
+                        <p class="mb-2 rounded-lg border-l-[3px] border-(--el-accent)/50 bg-(--el-cream) px-3 py-2 text-sm leading-[1.7] text-(--el-ink-2)">
+                          <span class="font-semibold text-(--el-accent)">
                             {c.timeline.voterTipLabel}
                           </span>
                           {t.voterTip}
                         </p>
                       )}
-                      <p class="text-xs leading-[1.7] text-[#9ca3af]">
+                      <p class="text-xs leading-[1.7] text-(--el-ink-3)">
                         <span>
                           {c.timeline.ownerLabel}
-                          <span class="text-[#6b7280]">
+                          <span class="text-(--el-ink-3)">
                             {c.owners[i.owner] ?? i.owner}
                           </span>
                         </span>
@@ -1069,21 +1085,21 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
     </section>
 
     <!-- 這頁怎麼整理的 -->
-    <section class="border-t border-[#f1f0ec] bg-[#fdfaf2] py-12 md:py-16">
+    <section class="border-t border-(--el-rule) bg-(--el-cream) py-12 md:py-16">
       <div class="mx-auto max-w-[760px] px-4 md:px-6">
         <h2
-          class="mb-5 text-center text-xl font-light text-[#1f2937] md:text-2xl"
+          class="mb-5 text-center text-xl font-light text-(--el-ink) md:text-2xl"
           style={heading}
         >
           {c.notes.title}
         </h2>
         <ul
-          class="list-none space-y-2.5 pl-0 text-sm leading-[1.75] text-[#52525b]"
+          class="list-none space-y-2.5 pl-0 text-sm leading-[1.75] text-(--el-ink-2)"
         >
           {
             c.notes.items.map((n) => (
               <li class="flex gap-2.5">
-                <span class="text-[#92400e]" aria-hidden="true">
+                <span class="text-(--el-accent-2)" aria-hidden="true">
                   ·
                 </span>
                 <span>{n}</span>
@@ -1091,14 +1107,14 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
             ))
           }
         </ul>
-        <p class="mt-5 text-center text-xs text-[#9ca3af]">
+        <p class="mt-5 text-center text-xs text-(--el-ink-3)">
           {c.notes.lastVerified}<time datetime={data.lastVerified}
             >{data.lastVerified}</time
           >
         </p>
 
         <h3
-          class="mb-3 mt-10 text-center text-base font-semibold text-[#1f2937]"
+          class="mb-3 mt-10 text-center text-base font-semibold text-(--el-ink)"
           style={serif}
         >
           {c.related.title}
@@ -1108,7 +1124,7 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
             c.related.items.map((r) => (
               <a
                 href={r.href}
-                class="card-link rounded-lg border-[1.5px] border-[#e5e7eb] bg-white px-3.5 py-1.5 text-sm text-[#374151] no-underline hover:border-[#7c2d12]/30 hover:text-[#7c2d12]"
+                class="rounded-lg border-[1.5px] border-(--el-border) bg-(--el-panel) px-3.5 py-1.5 text-sm text-(--el-ink-2) no-underline hover:border-(--el-accent)/30 hover:text-(--el-accent)"
               >
                 {r.title}
               </a>
@@ -1119,22 +1135,22 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
     </section>
 
     <!-- 底部導覽 -->
-    <section class="bg-white py-12">
+    <section class="bg-(--el-panel) py-12">
       <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
-        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+        <h2 class="mb-5 text-lg font-semibold text-(--el-ink)" style={serif}>
           {c.footTitle}
         </h2>
         <div class="flex flex-wrap justify-center gap-2.5">
           <a
             href={`${langPrefix}/elections/2026/`}
-            class="card-link rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            class="rounded-full border-[1.5px] border-(--el-accent)/40 bg-(--el-accent-soft) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline"
             >← {c.footHome}</a
           >
           {
             c.footLinks.map((l) => (
               <a
                 href={`${langPrefix}/elections/2026/${l.slug}/`}
-                class="card-link rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                class="rounded-full border-[1.5px] border-(--el-accent)/25 bg-(--el-panel) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline hover:bg-(--el-accent-soft)"
               >
                 {l.label}
               </a>
@@ -1180,6 +1196,14 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
 </script>
 
 <style>
+  /* 底色與預設字色：深色主題下不繼承全站 body 的字色。
+     --el-panel 是 --el-card 的別名：class 裡出現 "card" 字樣會被 dark-polish.css
+     的全站 [class*='card'] 規則蓋掉底色與邊線，所以模板 class 一律寫 --el-panel。 */
+  .elections-timeline {
+    --el-panel: var(--el-card);
+    background: var(--el-bg);
+    color: var(--el-ink);
+  }
   .elections-timeline [hidden] {
     display: none !important;
   }
@@ -1193,9 +1217,9 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
     gap: 0.5rem;
   }
   .elections-timeline .tl-filter-btn[aria-pressed='true'] {
-    border-color: #1f2937;
-    background: #1f2937;
-    color: #fff;
+    border-color: var(--el-ink);
+    background: var(--el-ink);
+    color: var(--el-bg);
   }
   .elections-timeline .hero-title {
     letter-spacing: -0.02em;
@@ -1214,12 +1238,12 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
     background-image:
       radial-gradient(
         circle at 20% 30%,
-        rgba(124, 45, 18, 0.05) 0%,
+        color-mix(in srgb, var(--el-accent) 5%, transparent) 0%,
         transparent 50%
       ),
       radial-gradient(
         circle at 80% 70%,
-        rgba(146, 64, 14, 0.04) 0%,
+        color-mix(in srgb, var(--el-accent-2) 4%, transparent) 0%,
         transparent 50%
       );
     pointer-events: none;
