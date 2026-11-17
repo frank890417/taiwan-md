@@ -3,9 +3,9 @@ title: 'SPORE-HARVEST-PIPELINE'
 description: '孢子回聲收割產線 v3.0 audience flywheel — metrics + reply content + 5-bucket factual challenge classifier + reader-driven EVOLVE trigger + reply draft + observer-gate ship + Chrome MCP execCommand pattern。核心哲學：人本 + 正確性 + 正直 + 透明度 + 誠懇'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.2'
-last_updated: 2026-09-20
-last_session: '2026-09-20-063544-twmd-spore-harvest-am（進 permalink 改從動態頁點進去，navigate 靜默轉址兩輪驗證）'
+current_version: 'v3.3'
+last_updated: 2026-11-18
+last_session: '2026-11-18-twmd-spore-harvest-am（直接 navigate 到 permalink 連兩班沒被轉址，放回第一順位，動態頁點進去留作備援）'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-WRITING.md'
@@ -1052,10 +1052,15 @@ v2.8 是 generator parser silent fail（K/M suffix），v2.9 是 template splitM
 - 後續 backfill / 精準對比 → Chrome MCP（exact numbers，看 reply context）
 - X 平台所有 harvest → Chrome MCP only（WebFetch 不支援）
 
-**Chrome MCP harvest pattern**（v3.2，2026-09-20：進 permalink 的順序改從動態頁點進去）：
+**Chrome MCP harvest pattern**（v3.3，2026-11-18：先試直接 navigate，被轉址才改從動態頁點進去）：
 
 ```bash
-# Step A — 進 permalink 不走 navigate（2026-09-16 起直接 navigate 到任何 /post/ URL，
+# Step A0 — 先直接 navigate 到 permalink（11-17、11-18 連兩班沒被轉址）
+mcp__Claude_in_Chrome__navigate https://www.threads.com/@taiwandotmd/post/{shortcode}
+mcp__Claude_in_Chrome__computer wait 4
+#   檢查 location.href 仍是 /post/{shortcode}、標頭有「N 次瀏覽」→ 直接跳 Step B
+#   被轉到「為你推薦」首頁 → 改走 Step A
+# Step A — 備援：從動態頁點進去（2026-09-16〜11 月初直接 navigate 到任何 /post/ URL，
 #           含讀者的 reply permalink，都被靜默轉到「為你推薦」首頁；09-18 + 09-20 兩輪驗證）
 mcp__Claude_in_Chrome__navigate https://www.threads.com/activity          # 或 /activity/replies
 mcp__Claude_in_Chrome__computer wait 4
@@ -1071,7 +1076,7 @@ mcp__Claude_in_Chrome__computer wait 4
 mcp__Claude_in_Chrome__tabs_close_mcp {tabId}
 ```
 
-舊順序（`navigate permalink → scroll → screenshot`）保留在 batch-2026-09-18-2-spores.md 之前的所有 batch log 作歷史；若 Threads 哪天不再轉址，直接 navigate 仍是最短路徑，先試一次再退回 Step A。
+轉址期（09-16 起）的順序保留在 batch-2026-09-18-2-spores.md 之後的 batch log 作歷史。11-17、11-18 兩班直接 navigate 都落在 canonical permalink，照 11-17 交接寫好的條件（再通一次就改回）把直接 navigate 放回第一順位；Threads 若再開始轉址，Step A 仍在。
 
 **Chrome MCP `select_browser` 第一次連結**：
 
@@ -1648,6 +1653,8 @@ _執行責任：AI 主責 Step 1-5 + 7-8；人類主責 Step 6（回覆留言）
 _每次執行留 log 到 `docs/factory/SPORE-HARVESTS/{N}-{slug}-{date}.md`_
 
 _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（D+1 → D+7 cadence + 6h decision gate + Reach×Accuracy trigger + atomic batch log SSOT 顯化）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 SPORE-PIPELINE / VERIFY / FACTCHECK / DATA-REFRESH 分工 + atomic batch log 寫入路徑強化）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。D+1-D+7 prose body 不動（已健康，5/8 Phase 6 SSOT cleanup 保留）。_
+
+_v3.3 | 2026-11-18 twmd-spore-harvest-am — §Chrome MCP harvest pattern 進場順序改回：直接 `navigate` 到 /post/ URL 在 11-17、11-18 兩班都落在 canonical permalink（#29 李洋），照 11-17 交接寫好的零判斷條件把它放回 Step A0，動態頁座標點進去降為被轉址時的備援 Step A。_
 
 _v3.2 | 2026-09-20 twmd-spore-harvest-am — §Chrome MCP harvest pattern 的進場順序改寫：直接 `navigate` 到任何 /post/ URL 自 09-16 起被靜默轉到推薦首頁，09-18 與 09-20 兩輪驗證「從動態頁座標點那列才落到 canonical」，照 09-19 handoff 寫成的零判斷條件（再成立一次就改）升進本檔；同段補「pressable-container 會虛擬化，不可當留言總數」。同輪回覆分頁撈到一則前兩班漏登的 #25 讀者回覆（9-2），證明分頁要逐則對日期而不是看「其餘都是三週前」。_
 

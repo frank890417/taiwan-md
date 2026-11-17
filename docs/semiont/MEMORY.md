@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-18 | 053940-twmd-routine-sync | 停擺十天後第一輪對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；11-08、11-15 兩輪週班六條零 commit，對上營運機離線 | lastRunAt 記發車不記到站，有沒有跑看 git | [→](memory/2026-11-18-053940-twmd-routine-sync.md) |
 | 2026-11-18 | 060944-twmd-data-refresh-am | 停擺十一天後第一班早班刷新：十四步全過、15 個 dashboard 0 stale、快照齡 263h→0h；狀態頁讀到舊排程 dump，Stage 1.5 後重生才歸零 | 新鮮度閘門量檔案有沒有重寫，不量重寫時讀的料新不新 | [→](memory/2026-11-18-060944-twmd-data-refresh-am.md) |
 | 2026-11-18 | 060854-twmd-embeddings-nightly | 換機器後本機 bge-m3 恢復，十四天來第一次完整重建：13 語 14,996 向量零失敗、verify PASS，`376e7895f` | 恢復靠換機器不是診斷，備援單點仍在；重建已從 13 分鐘長到一小時 | [→](memory/2026-11-18-060854-twmd-embeddings-nightly.md) |
+| 2026-11-18 | 064304-twmd-spore-harvest-am | 恢復後第二班收割：兩個動態頁零新留言，#29 留言仍 232 不重抓；直接 navigate 連兩班沒被轉址，pipeline 改回先 navigate（v3.3） | 交接條件寫成零判斷，下一班就能直接兌現 | [→](memory/2026-11-18-064304-twmd-spore-harvest-am.md) |
