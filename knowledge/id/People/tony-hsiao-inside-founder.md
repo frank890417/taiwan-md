@@ -130,7 +130,7 @@ Hsiao Shang-nung masih ada. Pengamatan pun terus berlanjut. Ia menjadikan "terus
 
 [^bnext]: [TNL Media Group Umumkan Akuisisi Platform Resep Terbesar iCook — Digital Era BusinessNext](https://www.bnext.com.tw/article/71676/tnl-media-group-bought-icook) — Liputan resmi September 2022 iCook diakuisisi TNL Media Group, menjelaskan niat strategis dan arah integrasi bisnis.
 
-[^wazaiiii]: [Membuka "Catatan Perjalanan AI" Pengusaha Internet Hsiao Shang-nung Fox — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Hsiao Shang-nung wawancara Wazaiii, membahas sikap optimis teknologi, peluncuran resep AI iCook (Mei 2023) serta sikap praktis menghadapi gelombang AI.
+[^wazaiii]: [Membuka "Catatan Perjalanan AI" Pengusaha Internet Hsiao Shang-nung Fox — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Hsiao Shang-nung wawancara Wazaiii, membahas sikap optimis teknologi, peluncuran resep AI iCook (Mei 2023) serta sikap praktis menghadapi gelombang AI.
 
 [^tnl]: ["Mesin Pembuat Cemas" Fox Hsiao Shang-nung: Melantai di Gelombang Kripto dan AI, Bagaimana Menjaga Rasa Ingin Tahu Terhadap Hal Baru? — TNL](https://www.thenewslens.com/article/254336) — Mencatat proses eksperimen Hsiao Shang-nung pakai alat AI bikin aplikasi scan kartu nama sendiri dan menjual, serta strategi pribadinya menghadapi iterasi cepat teknologi.
 

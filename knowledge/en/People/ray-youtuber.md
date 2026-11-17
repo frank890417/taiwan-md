@@ -71,13 +71,13 @@ Every time Ray appears before international cameras, he naturally mentions that 
 ## References
 
 1. Wikipedia (Chinese) - Ray (Taiwanese YouTuber) (Latest 2026 version)  
-   [^1] https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber
+   https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber
 
 2. Wikipedia (English) - Rayasianboy  
-   [^2] https://en.wikipedia.org/wiki/Rayasianboy
+   https://en.wikipedia.org/wiki/Rayasianboy
 
 3. GQ Taiwan / GQ Sports 2025 Interview and Video  
-   [^3] https://www.gq.com.tw/article/gq-hype-ray-2025
+   https://www.gq.com.tw/article/gq-hype-ray-2025
 
 4. The Streamer Awards Official Records (2025 Winner List)
 
