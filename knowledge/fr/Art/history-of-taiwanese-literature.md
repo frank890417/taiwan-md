@@ -2,6 +2,7 @@
 title: 'Histoire de la littérature taïwanaise'
 description: 'De la question « La Taïwan a-t-elle une littérature ? » à la première récompense de Yang Kui au Japon, de la censure linguistique à la renaissance des voix multiples — une épopée de quatre siècles sur la quête des voix vers les mots, et des mots vers un foyer'
 date: 2026-03-24
+category: 'Art'
 tags:
   [
     'Littérature',
@@ -14,17 +15,18 @@ tags:
     'Querelles littéraires',
   ]
 subcategory: '文學'
-category: 'Art'
 author: 'Taiwan.md'
-readingTime: 13
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣文學史.md'
-sourceCommitSha: '4d7fab8e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:894f1af0d29b3b98'
 sourceBodyHash: 'sha256:b3ce615995198c0c'
-translatedAt: '2026-05-01T20:54:17+08:00'
+translatedAt: '2026-11-17T17:33:10.008645+00:00'
 ---
 
 # Histoire de la littérature taïwanaise

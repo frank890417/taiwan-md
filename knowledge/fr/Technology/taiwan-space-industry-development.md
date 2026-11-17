@@ -2,6 +2,7 @@
 title: "Le développement de l'industrie spatiale taïwanaise : grande puissance de fabrication de satellites, mais sans ses propres fusées"
 description: "Taïwan assemble chaque année des dizaines de milliards de dollars de composants électroniques pour le monde entier, mais ce n'est qu'en 2025 qu'elle a mis en orbite son premier satellite à résolution submétrique — une histoire d'autonomie technologique, de réalités internationales et de rêve commercial de l'espace"
 date: 2026-03-29
+category: 'Technology'
 tags:
   [
     'industrie spatiale',
@@ -12,17 +13,18 @@ tags:
     'espace commercial',
   ]
 subcategory: '太空與前沿'
-category: 'Technology'
 author: 'Taiwan.md'
-readingTime: 14
 featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
-translatedFrom: Technology/台灣太空產業發展.md
-sourceCommitSha: 'f3baded5'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/台灣太空產業發展.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e66143fe99e401f4'
 sourceBodyHash: 'sha256:f2a71a6d6f47c4eb'
-translatedAt: '2026-06-06T00:00:00Z'
+translatedAt: '2026-11-17T17:56:32.634381+00:00'
 ---
 
 # Le développement de l'industrie spatiale taïwanaise : grande puissance de fabrication de satellites, mais sans ses propres fusées

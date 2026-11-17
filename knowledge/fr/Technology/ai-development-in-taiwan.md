@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-11-17T18:05:22.683751+00:00'
 ---
 
 # L'ascension de l'État insulaire IA : développement et stratégies futures de l'intelligence artificielle à Taïwan
