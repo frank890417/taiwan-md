@@ -34,7 +34,7 @@ Tuy nhiên, nếu chỉ nhìn nhận “Hành trình thờ cúng Mẫu Sư Đạ
 
 ## Nền tảng lịch sử và mạng lưới linh lực
 
-Lịch sử của “Hành trình thờ cúng Mẫu Sư Đại Giác” có thể quay lại thời kỳ Minh nhà hoàng đế [^8]。 Theo tài liệu lưu trữ và bản đồ văn hóa tôn giáo do Bộ Nội Vụ Đài Loan cung cấp, vào năm 1730 (niên đại Minh nhà hoàng đế năm tám), người Phúc Kiến từ vùng biển miền bắc tỉnh Thanh Hóa mang theo hương khói của Mẫu Sư đến đảo Đại Giác và lập ấn định cư, sau đó với sự tham gia của tín đồ địa phương và quan lại, dần xây dựng nên chùa Đại Giác [^^8]。
+Lịch sử của “Hành trình thờ cúng Mẫu Sư Đại Giác” có thể quay lại thời kỳ Minh nhà hoàng đế [^8]。 Theo tài liệu lưu trữ và bản đồ văn hóa tôn giáo do Bộ Nội Vụ Đài Loan cung cấp, vào năm 1730 (niên đại Minh nhà hoàng đế năm tám), người Phúc Kiến từ vùng biển miền bắc tỉnh Thanh Hóa mang theo hương khói của Mẫu Sư đến đảo Đại Giác và lập ấn định cư, sau đó với sự tham gia của tín đồ địa phương và quan lại, dần xây dựng nên chùa Đại Giác [^8]。
 
 Trong giai đoạn phát triển sớm, hương khói và vị thế của chùa Đại Giác chưa nhất thiếu. Nghiên cứu học thuật cho rằng một phần lý do khiến Mẫu Sư Đại Giác sớm thúc đẩy các hoạt động dài đường thờ cúng và hành trình thờ cúng, là để tìm kiếm sức mạnh linh lực từ các chùa khác (như chùa Thái Thượng ở Bắc Cảng hoặc các chùa khác), kết nối các tuyến đường, từ đó củng cố vị thế trong mạng lưới tôn giáo khu vực và tăng cường sự trung thành của tín đồ [^2]。 Khi thời gian trôi, tuyến đường thờ cúng từ các địa điểm cụ thể ban đầu dần phát triển thành hành trình chín ngày tám đêm cố định hướng tới chùa Thái Thiên ở Tân Hương. Mỗi ngôi chùa và mỗi ngôi làng dọc đường đều xây dựng mối quan hệ liên kết chính trị, dân tộc và kinh tế dày đặc theo trục thời gian.
 
