@@ -1,0 +1,109 @@
+{
+  "id": "industry",
+  "path": "/industry/",
+  "title": {
+    "zh": "產業與上市公司",
+    "en": "Industries and listed companies"
+  },
+  "description": {
+    "zh": "出口、GDP、科學園區、各縣市工廠與歷年市值前十名，用官方統計畫出台灣的產業結構，加上六個公共爭論的各方說法。",
+    "en": "Exports, GDP, science parks, factories by county and twenty years of market-cap rankings: Taiwan’s industrial structure in official statistics, plus six public debates in each side’s own words."
+  },
+  "emoji": "🏭",
+  "updated": "2026-11-10",
+  "subpages": [],
+  "tools": [
+    {
+      "slug": "company-ranking",
+      "path": "/companies/",
+      "embedPath": "/embed/industry/company-ranking/",
+      "title": {
+        "zh": "台灣市值前 50 大企業排行",
+        "en": "Taiwan top 50 companies by market cap"
+      },
+      "description": {
+        "zh": "依市值、營收、員工數、成立年排序，按證交所產業別與總部縣市篩選；市值為 2026-10-22 收盤快照。",
+        "en": "Sort by market cap, revenue, employees or founding year and filter by TWSE industry and headquarters county; market cap as of the close on 2026-10-22."
+      },
+      "keywords": [
+        "台灣市值前50大公司",
+        "台灣百大企業排名",
+        "台灣前50大企業",
+        "上市公司市值排名",
+        "Taiwan largest companies by market cap"
+      ],
+      "navTitle": {
+        "zh": "前 50 大排行",
+        "en": "Top 50 ranking"
+      }
+    },
+    {
+      "slug": "supply-chain-map",
+      "path": "/industry/supply-chain-map/",
+      "embedPath": "/embed/industry/supply-chain-map/",
+      "title": {
+        "zh": "台灣供應鏈地圖 2026",
+        "en": "Taiwan supply-chain map 2026"
+      },
+      "description": {
+        "zh": "半導體、AI 伺服器、鎢三條供應鏈拆成環節，查每一環有哪些台灣公司、哪一環靠國外，每個節點附年報或官網出處。",
+        "en": "Three supply chains — semiconductors, AI servers and tungsten — broken into links: which Taiwanese companies work in each and which link is supplied from abroad, with a source on every node."
+      },
+      "keywords": [
+        "台灣半導體供應鏈",
+        "AI伺服器供應鏈",
+        "半導體產業鏈",
+        "鎢供應鏈",
+        "Taiwan semiconductor supply chain",
+        "AI server supply chain Taiwan"
+      ],
+      "navTitle": {
+        "zh": "供應鏈地圖",
+        "en": "Supply-chain map"
+      }
+    },
+    {
+      "slug": "timeline",
+      "path": "/industry/timeline/",
+      "embedPath": "/embed/industry/timeline/",
+      "title": {
+        "zh": "台灣產業時間軸 1953–2026",
+        "en": "Taiwan industry timeline 1953–2026"
+      },
+      "description": {
+        "zh": "從 1953 年的經建計畫到 2026 年的臺美貿易協定，37 個事件分成政策、企業、資本市場、國際四條線，每筆附官方出處。",
+        "en": "From the economic plans of 1953 to the 2026 Taiwan–US trade agreement: 37 events on four tracks — policy, companies, capital market, international — each with an official source."
+      },
+      "keywords": [
+        "台灣產業發展史",
+        "台灣經濟發展時間軸",
+        "加工出口區",
+        "十大建設",
+        "竹科",
+        "Taiwan industrial history timeline"
+      ],
+      "navTitle": {
+        "zh": "產業時間軸",
+        "en": "Industry timeline"
+      }
+    }
+  ],
+  "relatedArticles": [
+    "/economy/台灣前50大企業/",
+    "/technology/半導體產業/",
+    "/technology/AI硬體供應鏈/",
+    "/technology/台灣鎢供應鏈/",
+    "/economy/台灣股市與資本市場/",
+    "/economy/台灣產業轉型升級/",
+    "/economy/經濟奇蹟/",
+    "/technology/科技園區發展/",
+    "/economy/台灣外貿與全球供應鏈/",
+    "/economy/台灣企業：台積電/",
+    "/history/高雄加工出口區/",
+    "/history/十大建設/",
+    "/people/張忠謀/",
+    "/people/王永慶/"
+  ],
+  "relatedTopics": ["income", "housing"],
+  "languages": ["zh-TW", "en"]
+}

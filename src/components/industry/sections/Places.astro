@@ -1,0 +1,131 @@
+---
+/**
+ * §6 Places — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import CountyTiles from '../charts/CountyTiles.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const { PL, REL, S, countyNames, fc, fcTop, srcLineL, ti, tileData, fmtYi } =
+  await industryPageData(lang);
+---
+
+<!-- §6 產業住在哪裡 -->
+<section class="bp-section" id="s6">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s6.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {
+        ti('s6.h2', {
+          c1: ti(`county.${fcTop[0].county}`),
+          c2: ti(`county.${fcTop[1].county}`),
+        })
+      }
+    </h2>
+    <p class="bp-lede">
+      {
+        ti('s6.lede', {
+          year: fc.dataYear,
+          n: fc.national.operatingFactories.toLocaleString('en-US'),
+          rev: fmtYi(fc.national.revenue100M, lang),
+        })
+      }
+    </p>
+    <CountyTiles
+      id="c-tiles"
+      title={ti('s6.chart.title', {
+        year: fc.dataYear,
+        c1: ti(`county.${fcTop[0].county}`),
+        v1: fmtYi(fcTop[0].revenue100M, lang),
+      })}
+      subtitle={ti('s6.chart.sub')}
+      data={tileData}
+      names={countyNames}
+      valueLabel={ti('s6.chart.value')}
+      noteLabel={ti('s6.chart.hq')}
+      lang={lang}
+      source={srcLineL(fc.source)}
+    />
+    <div class="bp-prose">
+      <p>{ti('s6.p1')}</p>
+      <p>{ti('s6.p2')}</p>
+    </div>
+    <h3 class="bp-h3">{ti('s6.clusters.h')}</h3>
+    <div class="ind-cards">
+      {
+        PL.clusters.map((c: any) => (
+          <div class="ind-card">
+            <span class="ind-card-k">
+              {c.counties.map((x: string) => ti(`county.${x}`)).join('・')}
+            </span>
+            <h4>{ti(`places.clusters.${c.id}.h`)}</h4>
+            <p>
+              {ti(`places.clusters.${c.id}.p`)}
+              <a
+                class="bp-src no-external-icon"
+                aria-label={ti('label.source')}
+                href={c.url}
+                target="_blank"
+                rel="noopener"
+              >
+                ↗
+              </a>
+            </p>
+          </div>
+        ))
+      }
+    </div>
+    <details class="bg-table">
+      <summary>{ti('s6.parks.h')}</summary>
+      <div class="bg-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>{ti('s6.parks.park')}</th>
+              <th>{ti('s6.parks.base')}</th>
+              <th>{ti('s6.parks.county')}</th>
+              <th class="num">{ti('s6.parks.year')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              S.parksBases.map((b: any) => (
+                <tr>
+                  <td>{b.park}</td>
+                  <td>
+                    {b.url ? (
+                      <a href={b.url} target="_blank" rel="noopener">
+                        {b.name}
+                      </a>
+                    ) : (
+                      b.name
+                    )}
+                  </td>
+                  <td>{b.county ?? '—'}</td>
+                  <td class="num">{b.year ?? '—'}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </details>
+    <p class="bp-note">{ti('s6.note')}</p>
+    {
+      REL.s6.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s6.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

@@ -18,19 +18,19 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: '63fb967a1'
-sourceContentHash: 'sha256:e5ed54a3ae12d0e6'
-sourceBodyHash: 'sha256:f9ade260f241a953'
-translatedAt: '2026-09-27T00:57:32+08:00'
+sourceCommitSha: 'ff8ab4d4d'
+sourceContentHash: 'sha256:38a4067994051318'
+sourceBodyHash: 'sha256:14e97ff0df91ded4'
+translatedAt: '2026-11-06T04:48:14.265900+00:00'
 ---
 
-> **Resumo de 30 segundos:** Em 1997, a orquídea-borboleta taiwanesa começou a deixar registros de exportação; por 2011, as estatísticas oficiais já apontavam crescimento de US$ 3,533 mil para US$ 98,474 mil, mas esse caminho não é simplesmente colher flores e enviá-las. Taiwan conectou melhoramento genético, cultura de tecidos, gerenciamento de estufas, quarentena, transporte marítimo, florescimento induzido no exterior e proteção de variedades numa única cadeia de suprimentos, transformando uma planta que precisa de cuidados constantes em um produto agrícola que atravessa fronteiras.
+**Visão geral de 30 segundos:** Em 1997, a orquídea-borboleta de Taiwan começou a registrar desempenho de exportação; em 2011, o valor de exportação oficial já havia subido de US$ 3,533 mil para US$ 98,474 mil, mas esse caminho não é tão simples quanto colher as flores e enviá-las. Taiwan conectou melhoramento genético, cultura de tecidos, gestão de estufas, quarentena, transporte marítimo, forçamento de floração no exterior e direitos de variedade em uma única cadeia de suprimentos, transformando uma planta que exige cuidados em um produto agrícola que pode ser transferido entre países.
 
-![Orquídea-borboleta Phalaenopsis Taisuco Kobold, Taiwan International Orchid Show](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
+![Orquídea-borboleta Phalaenopsis Taisuco Kobold, Exposição Internacional de Orquídeas de Tainan](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-Imagem: A-Qiao HQ / [Página no Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Imagem incorporada via URL quente, não baixada.
+_Imagem: 阿橋 HQ／[página do arquivo no Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD%5FPhalaenopsis%5FTaisuco%5FKobold%5F-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95%5FTaiwan%5FInternational%5FOrchid%5FShow-%5F(39129452540).jpg>)，[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Imagem incorporada via hotlink, não baixada._
 
 ## A flor não sai direto de uma estufa para a floricultura
 
@@ -110,20 +110,20 @@ Na próxima floração, talvez você possa recolocar a pergunta: antes de pergun
 
 ## Referências
 
-[^1]: [Ministério da Agricultura: 農產貿易全球布局、跨越兩岸－淺論臺灣蝴蝶蘭產業的崛起](https://www.moa.gov.tw/ws.php?id=2446099) — Artigo oficial do Ministério da Agricultura que documenta dados de exportação de orquídea-borboleta, plano de transporte com mídia de cultivo para os EUA, tecnologia de conservação para transporte marítimo e distribuição geográfica de estufas industriais.
+[^1]: [Ministério da Agricultura: Layout global do comércio de produtos agrícolas, atravessando o Estreito – Breve análise da ascensão da indústria de orquídeas Phalaenopsis em Taiwan](https://www.moa.gov.tw/ws.php?id=2446099) — Artigo oficial do Ministério da Agricultura, registra dados de exportação de orquídeas Phalaenopsis, plano de exportação para os EUA com meio de cultivo, tecnologia de preservação por transporte marítimo e distribuição de estufas da indústria.
 
-[^2]: [Agriharvest (豐年雜誌): 從「洋蘭」到臺灣之光：蝴蝶蘭百年產業發展](https://www.agriharvest.tw/archives/126282/) — Artigo de mídia agrícola especializada que organiza o contexto histórico de espécies nativas, cultura de colecionadores, melhoramento genético, investimento de Taiwan Sugar Corporation, exposições florais internacionais e sistemas de conservação de espécies selvagens.
+[^2]: [Portal de Conhecimento Agrícola / Revista Fengnian: De 'orquídea estrangeira' à luz de Taiwan: Desenvolvimento da indústria de orquídeas Phalaenopsis ao longo de cem anos](https://www.agriharvest.tw/archives/126282/) — Artigo de mídia agrícola profissional, compila o contexto histórico de espécies nativas, cultura de orquídeas, melhoramento genético, investimento da Taiwan Sugar, exposições internacionais de orquídeas e sistema de conservação de espécies selvagens.
 
-[^3]: [Taiwan Sugar Corporation: 封面故事—市售蘭花我最強-傳奇篇](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Artigo de publicação oficial da Taiwan Sugar Corporation que explica a transformação empresarial, cultivo experimental em Xiliao, importação de estufa holandesa e processo de institucionalização do setor de orquídea-borboleta.
+[^3]: [Taiwan Sugar: História de capa – As orquídeas comerciais mais fortes – Edição lendária](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Artigo de publicação oficial da Taiwan Sugar, explica o processo de institucionalização do negócio de orquídeas Phalaenopsis a partir da transformação empresarial, testes de cultivo em Xihu, estufas holandesas e criação do departamento de horticultura.
 
-[^4]: [CPVO (Comunidade de Proteção de Variedades de Plantas): CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — Anúncio oficial de 2026 da Comunidade de Proteção de Variedades de Plantas da UE que detalha o reconhecimento mútuo de testes DUS de orquídea-borboleta e oncidium entre Taiwan e UE, além do progresso de cooperação de proteção de variedades.
+[^4]: [CPVO: CPVO e Taiwan expandem a proteção de variedades vegetais para orquídeas Oncidium](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — Anúncio oficial de 2026 do Escritório Comunitário de Variedades Vegetais da UE, explica o reconhecimento mútuo de relatórios de exame DUS de orquídeas Phalaenopsis e Oncidium entre Taiwan e a UE, e o progresso da cooperação em direitos de variedade.
 
-[^5]: [Ministério da Agricultura: 植物品種權面面觀－植物品種權與產業全球化布局－以蝴蝶蘭為例](https://www.moa.gov.tw/ws.php?id=2445491) — Artigo de análise institucional do Ministério da Agricultura que explica o princípio de territorialidade de proteção de variedades, ciclo de melhoramento genético de orquídea-borboleta, divisão internacional de melhoramento genético e planejamento de cadeia produtiva global.
+[^5]: [Ministério da Agricultura: Panorama dos direitos de variedade vegetal – Direitos de variedade vegetal e layout global da indústria – tomando a orquídea Phalaenopsis como exemplo](https://www.moa.gov.tw/ws.php?id=2445491) — Artigo de análise institucional do Ministério da Agricultura, explica o princípio da territorialidade dos direitos de variedade, ciclo de melhoramento da orquídea Phalaenopsis, divisão global do trabalho em melhoramento e layout da cadeia industrial.
 
-[^6]: [Chao Hsin-yen: 台灣蝴蝶蘭產業生產型態之研究——以台南地區為例](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Dissertação de mestrado da Universidade Nacional de Taiwan compilada em Airiti que fornece resumo de pesquisa sobre região produtora de Tainan, industrialização agrícola, relação entre produtoras-núcleo e produtoras-satélite, e redes sociais de produção.
+[^6]: [Zhao Xinyan: Estudo sobre o modelo de produção da indústria de orquídeas Phalaenopsis em Taiwan – tomando a região de Tainan como exemplo](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Página da tese de mestrado da Universidade Normal de Taiwan incluída no Airiti, fornece resumo da pesquisa sobre a área de produção de Tainan, industrialização agrícola, viveiros centrais e satélites de orquídeas e redes sociais.
 
-[^7]: [S. Wei et al.: Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — Artigo acadêmico em inglês publicado em Acta Horticulturae que analisa através de entrevistas profundas as micro, pequenas e médias empresas de orquídea taiwanesa, cadeia de valor, vantagens técnicas e questões de sustentabilidade a longo prazo.
+[^7]: [S. Wei et al.: Dinâmica da cadeia de valor na indústria de orquídeas de Taiwan](https://www.actahort.org/books/878/878_56.htm) — Página de artigo acadêmico em inglês da Acta Horticulturae, analisa através de entrevistas em profundidade as PMEs de orquídeas de Taiwan, cadeia de valor, vantagens tecnológicas e questões de sustentabilidade a longo prazo.
 
-[^8]: [Ministério da Agricultura: 臺日簽署植物品種檢定報告書合作備忘錄 開啟合作新篇章](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — Notícia oficial de 2024 da Divisão de Sementes e Mudas que explica o reconhecimento mútuo entre Taiwan e Japão de relatórios de testes de variedades de plantas, cronograma de aprovação de proteção de variedades, resultados de 17 variedades com direitos internacionais e economia de custos para aplicações no exterior.
+[^8]: [Ministério da Agricultura: Taiwan e Japão assinam memorando de cooperação sobre relatórios de exame de variedades vegetais, abrindo novo capítulo de cooperação](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — Notícia oficial de 2024 da Agência de Agricultura e Alimentos, explica o reconhecimento mútuo de relatórios de exame de variedades vegetais entre Taiwan e Japão, tempo de exame de direitos de variedade, 17 casos de resultados de direitos de variedade no exterior e custos de aplicação no exterior.
 
-[^9]: [Wikimedia Commons: 蝴蝶蘭 Phalaenopsis Taisuco Kobold－台南國際蘭展](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — Detalhes na página de referência original no link
+[^9]: [Wikimedia Commons: Orquídea Phalaenopsis Phalaenopsis Taisuco Kobold – Exposição Internacional de Orquídeas de Tainan](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — Consulte o link original para dados suplementares no conteúdo

@@ -23,6 +23,8 @@ image: '/article-images/people/howhow-sevenfat-band-2017.webp'
 imageCredit: 'RJ廉傑克曼'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:七月半.jpeg'
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** 陳孜昊（Howhow）做了一件台灣 YouTube 史上最反直覺的事。別人想盡辦法把業配藏起來，他用一張大字幕寫上「直接進入業配主題！」，把創作者最尷尬的東西變成招牌。他靠自己一個人編劇、導演、演戲、剪輯，撐起 154 萬訂閱、7.6 億觀看的 HowFun 頻道。但這裡有三層你可能沒想到的矛盾：他被稱讚的「誠實業配」，正是學界說「廣告不像廣告」的欺騙機制；他的「一人團隊」是別人貼的標籤，他本人討厭孤獨、一直想要團隊；而他堅持的高成本長片，剛好落在被短影音壓得最兇的那條賽道。這篇文講的是一個創作者怎麼守住自己的節奏，而這份堅持正在變貴。

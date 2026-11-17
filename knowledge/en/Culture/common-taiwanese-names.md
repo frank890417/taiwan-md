@@ -32,6 +32,8 @@ author: 'Taiwan.md'
 > **30-Second Overview:**
 > "Market names" (菜市場名, literally "wet-market names") are names so common that shouting them in a market will make a crowd of people turn around at once. This is not a joke: according to the Ministry of Interior's most recent statistics from 2024, there are over 30,000 women named "Shu-Fen" (淑芬) and over 14,000 men named "Jia-Hao" (家豪) across Taiwan, and they have held the top spots for men's and women's most common names for over a decade.[^1] These names do not reflect parental laziness — they are the collective consensus of each era in Taiwanese society about what a good name looks like.
 
+> **Looking for the basics?** Which part is the family name, why one surname has four spellings, and how Indigenous names are written are covered in our feature [Taiwanese Names](/en/names/). To spell a Chinese name the way a Taiwan passport would, try the [name romanization tool](/en/names/name-romanization/).
+
 ---
 
 ## Shu-Fen and Zhi-Ming: The Default Names of the Baby Boom Generation
@@ -97,6 +99,7 @@ Market names (菜市場名) are not shameful — they are the evidence that we h
 
 ## Further Reading
 
+- [Taiwanese Names (feature)](/en/names/) — surnames, generations, the four official spellings and Indigenous names in charts, with a name romanization tool.
 - [Ministry of Interior National Name Statistics Analysis (2023 latest edition)](https://www.ris.gov.tw) — Taiwan's most authoritative official name database.
 - ["Cheng-En Takes the Crown, Yi-Jun Fades: The Linguistics of Market Names" (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — In-depth analysis of the cultural meanings behind naming character choices across different eras.
 - [Salmon Chaos: A Study of Taiwan's Name-Change Phenomenon (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Documents the 2021 name-change wave that shook the world.

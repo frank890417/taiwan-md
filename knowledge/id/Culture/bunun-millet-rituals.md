@@ -17,20 +17,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-14T06:58:43+08:00'
+translatedAt: '2026-11-05T23:33:54.629874+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Upacara millet suku Bunun bukanlah perayaan yang hanya hadir setelah panen, melainkan diselaraskan dengan siklus hidup millet mulai menanam, menyiangi, memanen, menyimpan ke lumbung, dan bernyanyi. Penanaman millet pernah terhenti akibat pengelolaan tanah, pergantian tanaman, dan perubahan agama. Hari ini, revitalisasinya dimulai dari benih, sekolah, dan ladang desa untuk menyambung kembali tanaman, keluarga, dan kenangan.
+**Ringkasan 30 detik:** Upacara millet suku Bunun bukan sekadar festival yang muncul setelah panen, melainkan disusun mengikuti siklus pertumbuhan millet: menanam, mencabut rumput, memanen, memasukkan ke lumbung, dan bernyanyi. Penanaman millet pernah terhenti karena pengelolaan tanah, peralihan tanaman, dan perubahan agama. Hari ini, revitalisasinya dimulai dari benih, sekolah, dan ladang kampung untuk menghubungkan kembali tanaman, keluarga, dan kenangan.
 
-Di hutan percobaan Nantou Xinyi, pernah ada sebidang kecil ladang millet yang dipasang jaring anti-burung. Tahun 2022, di sinilah ditanam 28 varietas lokal Nantou yang dibawa kembali dari pusat plasma nutfah Amerika Serikat. Itu bukan sekadar percobaan pertanian, melainkan pintu masuk bagi pemuda dan tetua suku Bunun untuk berbicara kembali tentang millet. [^1]
+Di hutan percobaan Nantou Xinyi, pernah ada sebidang kecil ladang millet yang dilengkapi jaring anti-burung. Pada 2022, di sini ditanam 28 varietas lokal Nantou yang dibawa kembali dari Pusat Plasmanegara AS ke Taiwan. Itu bukan sekadar percobaan pertanian, melainkan pintu masuk bagi kaum muda dan tetua suku Bunun untuk kembali berbicara tentang millet.[^1]
 
-Satu tanaman yang sama, dalam kehidupan suku Bunun memiliki lebih dari sembilan nama yang sesuai dengan berbagai fase pertumbuhannya. Ia bukan hanya makanan, melainkan koordinat kekayaan keluarga, hubungan sosial, dan tatanan upacara. [^2] Hal yang kontradiktifnya: pemutusan budaya millet bukan hanya kehilangan satu jenis pangan, tetapi juga kehilangan tumpuan cara hidup yang menandai waktu melalui tanaman.
+Tanaman yang sama, dalam kehidupan suku Bunun memiliki lebih dari sembilan nama yang masing-masing sesuai dengan tahap pertumbuhan yang berbeda. Ia tidak hanya makanan, tetapi juga kompas kekayaan keluarga, hubungan sosial, dan tata upacara.[^2] Hal yang kontradiktif dengan intuisi: penghentian budaya millet tidak hanya berarti hilangnya satu jenis bahan pangan, tetapi juga kehilangan tumpuan gaya hidup yang menandai waktu melalui tanaman.
 
-Kini, orang-orang yang membuka kembali ladang millet tidak hanya mencari kembali tanaman kuno. Mereka bertanya: jika upacara asalnya mengikuti pertumbuhan millet, saat millet tidak lagi ditanam, apakah suku ini masih bisa hanya mengandalkan lagu di atas panggung untuk menyanyikan waktu itu kembali?
+Kini, orang-orang yang memulihkan penanaman millet tidak hanya mencari kembali tanaman kuno. Mereka bertanya: jika upacara tadinya mengikuti pertumbuhan millet, saat millet tidak lagi ditanam, apakah anggota suku masih bisa hanya mengandalkan lagu di atas panggung untuk menyanyikan waktu itu kembali?
 
 ## Setahun Tidak Dimulai dari Kalender
 
@@ -152,20 +154,20 @@ Oleh karena itu, memahami upacara ini tidak bisa hanya tanya "sekarang tersisa b
 
 ## Referensi
 
-[^1]: [Universitas Nasional Taiwan: NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Berita bahasa Inggris Universitas Taiwan mencatat plasma nutfah millet lokal 1977, penarikan kembali 2011, dan kolaborasi revitalisasi dengan desa Xinyi 2022.
+[^1]: [Universitas Nasional Taiwan: NTU dan Suku Bunun Bergandengan Tangan untuk Menghidupkan Kembali Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Buletin bahasa Inggris Universitas Taiwan mencatat konteks plasma nutfah millet lokal pada 1977, pengembalian ke Taiwan pada 2011, serta kolaborasi restorasi dengan Desa Xinyi pada 2022.
 
-[^2]: [Xu Ya-hui: Penelitian Ekologi Budaya Millet Suku Bunun—Studi Kasus Desa Wangxiang Kabupaten Nantou](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Abstrak disertasi menganalisis nama millet, cara tanam, dan makna sosial-spiritual suku Bunun dengan pendekatan ekologi budaya dan survei lapangan.
+[^2]: [Xu Yahui: Penelitian Ekologi Budaya Millet Suku Bunun—Studi Kasus Desa Wangxiang, Kabupaten Nantou](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Abstrak tesis gelar menganalisis nama millet suku Bunun, metode penanaman, serta makna sosial dan spiritualnya menggunakan pendekatan ekologi budaya dan survei lapangan.
 
-[^3]: [Bank Memori Budaya Nasional: Haiduan—2021 Makanan Upacara X Musiman—Naskah Kurasi Pameran Khusus Industri Budaya Bunun Haiduan—Upacara Menanam](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Naskah kurasi upacara menanam Bunun Haiduan, mencatat berurutan berkah, percobaan tanam, usir roh, doa alat, lagu upacara, dan alur menanam.
+[^3]: [Arsip Memori Budaya Nasional: Gedung Haiduan—Festival Makanan Ritual X Musim 2021—Pameran Khusus Industri Budaya Suku Bunun Kecamatan Haiduan Teks Kurator—Upacara Menabur](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Teks kurator Festival Penaburan Suku Bunun di Kecamatan Haiduan, mencatat secara rinci doa berkah, uji coba penaburan, pengusiran roh jahat, doa berkah alat pertanian, lagu ritual, dan prosedur penaburan.
 
-[^4]: [Perpustakaan Pengetahuan Budaya Bunun Yanping: Hu Qin-fu—Pemahamanku tentang Budaya Millet](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Data orang pertama pewaris budaya Bunun, menjelaskan urutan upacara, pantangan mimpi, pembagian kerja keluarga, sistem gotong royong, dan varietas millet.
+[^4]: [Arsip Pengetahuan Budaya Bunun Kecamatan Yanping: Hu Chin-fu—Pemahaman Saya tentang Budaya Millet](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Data narasi orang pertama dari pewaris budaya suku Bunun, menjelaskan urutan upacara, tabu mimpi, pembagian kerja klan, pertukaran kerja, dan varietas millet.
 
-[^5]: [Jaringan Aset Budaya Nasional: Lagu Pasibutbut Suku Bunun Mendoakan Panen Millet](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Halaman pendaftaran aset budaya lagu polifoni tradisional suku Bunun, menyediakan nama lagu, komunitas penyebaran, dan konteks preservasi sejarah.
+[^5]: [Situs Aset Budaya Nasional: Lagu Doa Panen Millet pasibutbut Suku Bunun](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Data lagu polifoni tradisional suku Bunun di halaman pendaftaran aset budaya, menyediakan judul lagu, komunitas penyalur, dan konteks preservasi sejarah.
 
-[^6]: [Dinas Budaya Kabupaten Hualien: Musik Suku Bunun Pasibutbut (Lagu Panen Millet)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Data aset budaya Hualien menjelaskan cara pemimpin nyanyian dan harmoni desa Gufeng, komunitas penyebaran, dan pekerjaan revitalisasi sejak 1980-an.
+[^6]: [Dinas Kebudayaan Kabupaten Hualien: Musik Suku Bunun pasibutbut (Lagu Panen Millet)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Data aset budaya Kabupaten Hualien menjelaskan teknik solo dan paduan suara Desa Gufeng, komunitas penyalur, serta upaya revitalisasi sejak 1980-an.
 
-[^7]: [Kementerian Budaya: Taiwan's Bunun People Invited to Perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Artikel bahasa Inggris Kementerian Budaya mencatat pertunjukan Paris 2022, makna upacara pasibutbut, nyanyian 6–12 orang, dan rekaman Takasago Kōchō.
+[^7]: [Kementerian Kebudayaan: Masyarakat Bunun Taiwan Diundang Tampil di Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Artikel bahasa Inggris Kementerian Kebudayaan mencatat pertunjukan di Paris 2022, makna ritual pasibutbut, paduan suara 6 hingga 12 orang, serta catatan rekaman Takao Kurosawa.
 
-[^8]: [Taiwan Panorama: Renaissance of Bunun Millet Culture—Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Laporan mendalam bahasa Inggris 2023, melacak revitalisasi millet Xinyi, kurikulum SD Jiumei, pemulihan upacara, dan peserta pulang kampung Program Kebun.
+[^8]: [Taiwan Panorama: Renaisans Budaya Millet Bunun—Menanam Varietas Asli di Bawah Program Garden](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Laporan mendalam bahasa Inggris 2023 melacak revitalisasi millet di Kecamatan Xinyi, kurikulum SD Jiumei, restorasi ritual, serta partisipan Program Garden yang kembali ke desa asal.
 
-[^9]: [Universitas Nasional Taitung: Reproduksi Suara Asli dan Imajinasi Kontemporer Bunun Cishan](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Data kegiatan kampus menjelaskan makna pengenal identitas suku pasibutbut, serta re-interpretasi musik tradisional Bunun Cishan di pertunjukan kontemporer.
+[^9]: [Universitas Nasional Taitung: Reproduksi Suara Asli Suku Bunun Zhuoxi dan Imaginasi Kontemporer](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Data kegiatan universitas menjelaskan makna identitas etnis pasibutbut, serta penafsiran ulang musik tradisional Suku Bunun Zhuoxi dalam pertunjukan kontemporer.

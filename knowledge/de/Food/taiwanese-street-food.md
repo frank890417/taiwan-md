@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-23T21:18:17+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-06T04:26:53.202830+00:00'
 ---
 
 # Taiwan-Straßenimbisse
@@ -186,8 +186,9 @@ Die Verwirrung des deutschen Professors ist in der Tat die Antwort.
 
 ## Verwandte Themen
 
-- [Nachtmarktkultur](/de/food/night-market-culture) — Eine tiefere Analyse des Nachtmarkts als sozialer Raum
-- [Tee mit Perlen](/de/food/bubble-tea) — Die globale Herrschaft der flüssigen Snacks
-- [Taiwan-Reis mit Schweinefleisch](/de/food/braised-pork-rice) — Die Erinnerung an eine Familie in einem Schüssel Reis
-- [Hakka-Kültur](/de/food/hakka-food-culture) — Die Weisheit der Hakka in der Küche
-- [Die kulinarische Verschmelzung der neuen taiwanesischen Ehepaare](/de/food/taiwanese-new-immigrant-culinary-fusion) — Die nächste Welle der kulturellen Mischung in der Küche
+- [Nachtmarktkultur](/de/food/night-market-culture) — Tiefenanalyse des Nachtmarkts als sozialem Raum
+- [Bubble Tea](/de/food/bubble-tea) — Globale Vorherrschaft des flüssigen Snacks
+- [Süßkartoffelbällchen](/de/food/sweet-potato-balls) — Die Entstehungsgeschichte unter der Zhongzheng-Brücke und die hohlen Bällchen, die Händler vor dem Öltopf herausdrücken
+- [Taiwans Luroufan](/de/food/braised-pork-rice) — Das ethnische Gedächtnis einer Schüssel Luroufan
+- [Hakka-Esskultur](/de/food/hakka-food-culture) — Die kulinarische Weisheit der Hakka-Volksgruppe
+- [Kulinarische Fusion der neuen Einwohner Taiwans](/de/food/taiwanese-new-immigrant-culinary-fusion) — Die nächste Welle der kulinarischen Vermischung findet statt

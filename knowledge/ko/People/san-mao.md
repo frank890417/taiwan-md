@@ -1,20 +1,24 @@
 ---
-title: '삼모: 도피를 자유로 쓴 사람'
-description: '본명 첸평, 1943년 충칭생, 1948년 가족과 함께 대만으로 이주. 중학교 시절 교사의 공개적인 수치로 인해 중학교를 떠나며 7년간 자립생활을 했다가 화가 구부생의 지도 아래 다시 글쓰기를 시작했다. 1973년 스페인 제노바 사하라에서 혹세를 결혼, 산문으로 큰 불씨를 일으켜 절대대통령 시절 대만 사람들의 상상 속 먼 곳의 창으로 되었다. 1979년 혹세가 칸칼리 제도 라팔마 섬에서 스쿠버 다이빙 사고로 사망. 1990년 각본《굴굴홍인》 금마상 8상 수상. 1991년 1월 4일 타이베이 국군병원에서 자살, 47세를 일기로 떠났다.'
+title: '산마오: 도피를 자유로 쓴 사람'
+description: '산마오의 본명은 천핑으로, 사하라 사막의 삶을 그린 대만 작가이며, 작품 판매 부수가 1,500만 부를 넘는다. 중학교 2학년 때 수학 선생님이 붓으로 그녀의 눈가에 두 개의 0을 그린 사건 이후 자퇴해 중학교 학력이 없었으나, 7년 뒤 화가 구푸성의 이끌림으로 다시 펜을 잡았다. 1973년 스페인령 사하라에서 호세와 결혼해 계엄 시대 대만인들에게 먼 세상을 내다볼 창을 열어주었다. 1979년 호세가 다이빙 사고로 세상을 떠나자, 그녀는 평생의 도피를 자유로 써내려갔다.'
 date: 2026-05-17
 category: 'People'
-tags: ['삼모', '산문', '사하라', '혹세', '올리브나무', '굴굴홍인', '유랑문학']
+tags: ['산마오', '수필', '사하라', '호세', '올리브나무', '권권홍진', '방랑문학']
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T12:07:01+08:00'
+translatedAt: '2026-11-05T23:42:53.026834+00:00'
 ---
 
 # 삼모: 도피를 자유로 쓴 사람
@@ -133,50 +137,50 @@ Gran Canaria 섬 Telde 지구의 그 길은 삼모와 혹세가 살았던 Lope d
 
 ## 참고 자료
 
-[^1]: [위키백과: 삼모 (작가)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — 기본 생애, 창작 연표, 문학 평가
+[^1]: [위키백과: 삼모 (작가)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — 기본 생애, 창작 연표, 문학 평가
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — 혹세 출생 1951, 나이 차 8세, 독일 미혼 약혼자
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — 호세 출생 연도 1951, 나이 차이 8세, 독일인 약혼자
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — 혹세 익사 사고 장소 La Palma Barlovento, 날짜, 구조 세부 사항
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — 호세 익사 장소 라팔마 바를로벤토, 날짜, 인양 세부 사항
 
-[^4]: [위키백과: 굴굴홍인 (영화)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — 금마상 제27회 8상 전체 목록
+[^4]: [위키백과: 붉은 먼지 (영화)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — 제27회 금마장 8개 부문 수상 전체 목록
 
 [^5]: [뉴욕타임스 Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1,500만 부 판매량, 국제적 평가
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — 블룸스베리 영역 번역본, 마이크 푸 번역가, 국립 번역상 후보
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — 블룸즈버리 영문판, 마이크 푸 번역가, 국가번역상 후보
 
-[^7]: [전통 ARTouch](https://artouch.com/art-views/content-2727.html) — 구부생 타이안거리 화방 주소, 10개월 간화, 백선용 소개
+[^7]: [典藏 ARTouch](https://artouch.com/art-views/content-2727.html) — 구푸성 타이안가 화실 주소, 10개월간 미술 지도, 백선용 추천
 
-[^8]: [텐센트 뉴스](https://news.qq.com/rain/a/20240103A07USZ00) — 독일 미혼 약혼자 심장병으로 갑작스럽게 사망, 결혼 홍보장, 안면수면제 복용
+[^8]: [텐센트 뉴스](https://news.qq.com/rain/a/20240103A07USZ00) — 독일인 약혼자 심장병 돌연사, 결혼 명함, 수면제 복용
 
-[^9]: [방언 Fount Media](https://www.fountmedia.io/article/81860) — 올리브 나무 원작 가사 '작은 말 도넛' '스페인 소녀의 큰 눈동자', 양주준 수정, 삼모의 반응 원문
+[^9]: [방언 Fount Media](https://www.fountmedia.io/article/81860) — 올리브 나무 원작 가사 '작은 당나귀', '스페인 아가씨 큰 눈', 양주군 개사, 삼모 반응 원문
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 대만 방송 담당부서 올리브 나무 금지, 문화적 배경 분석
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 대만 광전처 올리브 나무 방송 금지, 문화적 배경 분석
 
-[^11]: [텐센트 뉴스](https://news.qq.com/rain/a/20210917A0GH4S00) — 첸천심 회고 혹세 사망, 삼모 직접 무덤 파기
+[^11]: [텐센트 뉴스](https://news.qq.com/rain/a/20210917A0GH4S00) — 천톈신 호세 사망 회고, 삼모 직접 무덤 파기
 
-[^12]: [중국시사](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 왕뢰빈 관계 시작과 끝, 121일, 〈기다림〉
+[^12]: [중국시보](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 왕루빈 관계 전말, 121일, '기다림'
 
-[^13]: [점취명가](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 엄하 회고 40박 40일 대화
+[^13]: [작견 명가](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 옌하오 회고 40일 밤 대담
 
-[^14]: [Yahoo 뉴스](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 린청새 "삼모가 없었다면, 나는 이 상을 받지 못했을 것이다"
+[^14]: [야후 뉴스](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 임청하 '삼모가 없었다면 이 상을 받지 못했을 것'
 
-[^15]: [민일보](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — 사망 경과, 4가지 설명, 의사 견해
+[^15]: [민보](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — 사망 경위, 네 가지 설, 의사 견해
 
-[^16]: [연합문학 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 대중성 vs 순수문학적 위치, 정선화의 스승 부족
+[^16]: [연합문학 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 대중문학 vs 순수문학 위치, 정전화된 거장 부재
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Ruta Sanmao 관광로, 혹세 무덤 손님노트 통계(61% 간체 / 10% 번체 / 21% 스페인어)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — 루타 삼모 노선, 호세 묘지 방문객부 통계 (61% 간체 / 10% 번체 / 21% 스페인어)
 
-[^18]: [국립대만역사박물관](https://women.nmth.gov.tw/?p=19358) — 《사하라의 이야기》 1976년 출판으로 양안 독서 열기
+[^18]: [국립대만역사박물관](https://women.nmth.gov.tw/?p=19358) — 『사하라의 이야기』 1976년 출판으로 양안 독서 열풍 촉발
 
-[^19]: [국립대만문학관](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — "대만에서 가장 베스트셀러이자 영향력 있는 문학인" 평가
+[^19]: [국립대만문학관](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — '대만에서 가장 많이 팔리고 영향력 큰 문인' 평가
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019년 삼모 76세 생일 Doodle, 삼모 문학상 1992년 설립, Echo 이름 현상
+[^20]: [구글 두들](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019년 삼모 76세 탄신일 두들, 삼모문학상 1992년 설립, '에코' 이름 현상
 
 [^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — 스페인 다큐멘터리 Sanmao: La novia del desierto (2020)
 
-[^22]: [삼립신문](https://www.setn.com/News.aspx?NewsID=1408845) — 시마중원 2024-01-04 사망, 삼모와 같은 달 같은 날, 생사의 약속
+[^22]: [SET 뉴스](https://www.setn.com/News.aspx?NewsID=1408845) — 사마중원 2024-01-04 별세, 삼모와 같은 달 같은 날, 생사의 약속
 
-[^23]: [피츠버그 대학](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 학술 논문 삼모의 기록과 허구의 경계 탐구
+[^23]: [피츠버그 대학교](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 학술 논문 삼모의 기록과 허구 경계 탐구
 
-[^24]: [대경제](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 마중진 《삼모의 진실》 1996년 출판, 논쟁과 비판
+[^24]: [대기원](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 마중신 『삼모 진실』 1996년 출판, 논란과 비평

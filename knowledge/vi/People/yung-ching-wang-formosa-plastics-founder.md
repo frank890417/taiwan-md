@@ -1,15 +1,15 @@
 ---
-title: 'Vương Vĩnh Khánh: Từ tiệm gạo đến cuộc chiến hai mươi năm tại Lục Khánh, và vở kịch tranh chấp tài sản sau khi qua đời'
-description: 'Sinh năm 1917 tại một gia đình nông dân nghèo ở Tân Điếm, Đài Bắc, ông bỏ học năm 15 tuổi, vay cha 200 Yên Nhật để mở "Tân Cao Chế Mễ Sở", đến năm 1954 thành lập Công ty Công nghiệp Nhựa Đài Loan và sau này được mệnh danh là "Thần kinh doanh". Năm 1973, ông đề xuất dự án Lục Khánh với chính phủ, dù bị từ chối nhiều lần nhưng vẫn không bỏ cuộc, chiến đấu gần hai mươi năm mới được phê duyệt và chính thức đi vào sản xuất hàng loạt tại Mạch Liêu, Vân Lâm năm 1998. Ông qua đời tại New York, Hoa Kỳ vào ngày 15 tháng 10 năm 2008, thọ 92 tuổi, để lại cuộc tranh chấp tài sản gia tộc kéo dài đến khoảng năm 2022.'
+title: 'Vương Vĩnh Khánh: Tiệm gạo, Dự án Sáu Nhẹ hai mươi năm chiến đấu, vở kịch tranh tài sản sau khi ông qua đời'
+description: 'Vương Vĩnh Khánh là người Tân Điển, Đài Bắc, sinh năm 1917 trong một gia đình nông dân nghèo khó. 15 tuổi bỏ học, vay tiền cha mẹ mở tiệm gạo, đi từng nhà ghi chép chu kỳ tiêu thụ gạo của mỗi hộ gia đình. Năm 1954 ông thành lập Công ty Nhựa Đài Loan (Formosa Plastics), sau này được mệnh danh là "Thần kinh doanh". Năm 1973 đề xuất Dự án Sáu Nhẹ, bị chính phủ từ chối liên tục, kéo dài gần hai mươi năm mới được chấp thuận, năm 1998 sản xuất hàng loạt tại Mạch Liêu, Vân Lâm. Năm 2008 ông qua đời tại New York, hưởng thọ 92 tuổi, cuộc tranh tài sản của gia đình sau khi ông qua đời kéo dài đến khoảng năm 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Công nghệ và doanh nghiệp',
-    'Tập đoàn Formosa Plastics',
+    'Công nghệ và Doanh nghiệp',
+    'Tập đoàn Formosa',
     'Công nghiệp hóa dầu',
-    'Lục Khánh',
-    'Nhà kinh doanh',
+    'Sáu Nhẹ',
+    'Doanh nhân',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 13,511 曝光 100 點擊（0.74%），查詢「王永慶哪裡人」56、「王永慶是誰」22 曝光；description 第一句先答台北新店人，從 181 字履歷串縮短。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-10-16T00:53:02+08:00'
+translatedAt: '2026-11-06T00:17:27.616462+00:00'
 ---
 
 # Vương Vĩnh Khánh: Từ tiệm gạo đến cuộc chiến hai mươi năm tại Lục Khánh, và vở kịch tranh chấp tài sản sau khi qua đời

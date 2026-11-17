@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-13T05:56:52+08:00'
+translatedAt: '2026-11-06T08:13:20.897785+00:00'
 ---
 
 تأسس «سوق الحياة» (生活市集) عام 2013، ليصبح منصة تجارة إلكترونية تابعة لشركة «رواد الأعمال الرقميون» (創業家數位股份有限公司). بحلول عام 2020، لم تعد المنتجات المعروضة على منصته تقتصر على مستلزمات الحياة، بل بلغت حصة الفئات غير الأساسية مثل منتجات 3C والأغذية حوالي ثلاثة إلى أربعة أعشار إجمالي الإيرادات. وفي 12 أكتوبر 2023، مدد المنصة أرففها إلى الخارج، مطلقة خدمة الشحن المباشر من الخارج.[^1] [^2] [^7]

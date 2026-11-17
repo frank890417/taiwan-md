@@ -1,42 +1,48 @@
 ---
-title: "Guling Street: The Book Street the Japanese Left Behind, Edward Yang's Adolescents, and the Nationalist Government's Palaces"
-description: "On a Saturday afternoon, students line up in front of the red-brick theater at the end of Lane 5, Guling Street. Next to it are the National Museum of History, built in 1955, and the lotus pond of the Taipei Botanical Garden, reorganized in 1921. This 1.2-kilometer street was called Sakuma-cho in 1922 and renamed Guling Street in 1947 after Lushan in Jiangxi. After 1945, the books left behind when the Japanese withdrew were laid out along the roadside and became Taiwan's first used-book street. At its 1960s peak there were more than 200 vendors. After Guanghua Bridge opened in April 1973, the vendors were cleared out and moved beneath the Guanghua overpass. On June 15, 1961, on this street, 16-year-old Mao Wu killed 15-year-old Liu Min with a scout knife. In 1991, Edward Yang made the incident into a 237-minute film. The book street was dismantled, the stalls moved, and students began buying books elsewhere. What remains are the Japanese-era red-brick former police precinct, the postwar Chinese palace-style museum, and the lotus pond that has been in the same place since 1921."
+title: "Guling Street: The Book Street Left by the Japanese, Edward Yang's Youth, the Nationalist Government's Palace"
+description: "Guling Street is a 1.2-kilometer street in Taipei. In 1922 it was called Sakuma-cho, and in 1947 it was renamed after Guling on Mount Lu in Jiangxi. After the war, books left by the Japanese were set up along the roadside, becoming Taiwan's first used-book street; at its peak there were over 200 bookstalls. In 1961, 16-year-old Mao Wu stabbed to death 15-year-old Liu Min on this street, and Edward Yang made a film about it. The bookstalls have moved away, but the palace-style National History Museum and the 1921 lotus pond remain."
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區 / 台北市中正區'
 tags:
   [
     'Guling Street',
     'Nanhai Academy',
     'Taipei City',
     'Zhongzheng District',
-    'Historic District',
-    'Used-Book Street',
+    'Historic Street District',
+    'Used Book Street',
     'Edward Yang',
-    'A Brighter Summer Day Juvenile Murder Incident',
-    'National Museum of History',
+    'Guling Street Youth Murder Case',
+    'National History Museum',
     'Taipei Botanical Garden',
-    'Guling Street Avant-garde Theatre',
+    'Guling Street Little Theater',
     'Sakuma-cho',
     'Kodama-cho',
-    'Guanghua Market',
+    'Guanghua Mall',
     'Songlin Bookstore',
-    'Historic District Series',
+    'Historic Street District Series',
   ]
-readingTime: 18
+subcategory: '歷史街區 / 台北市中正區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+translatedAt: '2026-11-06T04:51:42.223542+00:00'
 ---
 
 # Guling Street: The Book Street the Japanese Left Behind, Edward Yang's Adolescents, and the Nationalist Government's Palaces

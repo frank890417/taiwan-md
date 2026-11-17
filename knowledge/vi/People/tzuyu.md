@@ -1,29 +1,33 @@
 ---
-title: 'Châu Tử Du'
-description: 'Một cô gái Đài Nam chưa từng bàn chuyện chính trị đã bị lá quốc kỳ xuất hiện trong tám giây biến thành bước ngoặt trong vận mệnh Đài Loan. Mười năm sau, cô đọc bức thư viết tay tại Taipei Dome: “Tôi không rời đi, không phải vì ngoan ngoãn, mà vì tôi thật sự mong muốn và khát khao”.'
-date: '2026-04-14'
-author: 'Taiwan.md'
+title: 'Chu Tử Du'
+description: 'Một cô gái người Tainan chưa từng bàn về chính trị, bị một chiếc quốc kỳ chỉ xuất hiện 8 giây biến thành điểm ngoặt của số phận Taiwan. Mười năm sau, tại Cao Hsiung, cô đọc lên lá thư viết tay: 「Tôi không rời đi, không phải vì ngoan ngoãn, mà vì tôi thực sự khao khát」.'
+date: 2026-04-14
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
-    'Châu Tử Du',
+    'Chu Tử Du',
     'TWICE',
     'Hàn Quốc',
     'K-POP',
-    'sự kiện quốc kỳ',
-    'bản sắc Đài Loan',
-    'âm nhạc đại chúng',
+    'Sự kiện quốc kỳ',
+    'Nhận diện Taiwan',
+    'Nhạc phổ biến',
   ]
-readingTime: '16'
-lastVerified: '2026-04-14'
-lastHumanReview: 'true'
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-04-14
+lastHumanReview: true
+readingTime: 16
+evolveHistory:
+  - date: 2026-11-04
+    action: 'fix'
+    reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-05T23:43:52.967361+00:00'
 ---
 
 > **Tổng quan 30 giây:** Châu Tử Du (Tzuyu, 周子瑜), sinh năm 1999 tại Đài Nam, rời nhà ở tuổi 13 để trở thành thực tập sinh của JYP. Khi ra mắt được 47 ngày, cô cầm một lá quốc kỳ Trung Hoa Dân Quốc (Đài Loan) trên chương trình tạp kỹ Hàn Quốc; cảnh quay dài tám giây bị cư dân mạng Trung Quốc chụp lại. Hai tháng sau, một video xin lỗi dài 90 giây được công bố vào đêm trước cuộc bầu cử tổng thống Đài Loan; giới học giả ước tính video này đã tác động đến quyết định của 1,34 triệu cử tri trẻ[^8]. Kể từ đó, cô chưa từng nói một lời nào về 90 giây ấy, chỉ tiếp tục khiêu vũ, tiếp tục phát hành album, tiếp tục đảm nhiệm vị trí nhảy dẫn và em út trong TWICE. Mười năm sau, cuối cùng cô trở về Cao Hùng, đọc trước 55.000 người một bức thư viết tay: “Tôi không rời đi, không phải vì ngoan ngoãn hay nghe lời, mà vì tôi thật sự mong muốn và khát khao”. Cả khán đài khóc cùng cô.

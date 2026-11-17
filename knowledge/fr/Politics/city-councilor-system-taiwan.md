@@ -1,6 +1,6 @@
 ---
-title: 'Système des conseillers : pourquoi est-il différent de celui des députés ? Les 30 ans du maintien du SNTV dans la politique locale'
-description: "En 2008, les élections législatives sont passées au système de vote à deux bulletins par circonscription unique, tandis que les élections des conseillers municipaux et de comté de la même année ont conservé l'ancien système SNTV des années 1980. Un même pays, les mêmes électeurs, mais des fonctions différentes sur un même bulletin de vote utilisant deux règles du jeu totalement distinctes. Ce n'est pas un bug, mais l'un des plus grands enjeux inaboutis de l'histoire de la réforme du système électoral taïwanais, lié aux factions locales, aux intérêts des partis et aux coûts d'accompagnement. Une analyse détaillée du fonctionnement de ces deux systèmes, des raisons pour lesquelles l'un a changé alors que l'autre est resté tel quel, et de ce que cela signifie pour les petits partis et la représentativité de la diversité."
+title: "Système des conseillers : en quoi diffère-t-il des députés, pourquoi les élections locales utilisent-elles encore l'ancien système SNTV"
+description: "Les députés entrent au Yuan législatif, 113 sièges au niveau national, depuis 2008 chaque circonscription n'élit qu'une seule personne, avec un autre bulletin pour le vote de parti ; les conseillers municipaux et de comté entrent dans les 22 conseils municipaux et de comté, encore aujourd'hui chaque circonscription élit plusieurs sièges, les électeurs ne peuvent cocher qu'une seule personne, pas de vote de parti, ce système ancien s'appelle le SNTV. La révision constitutionnelle de 2005 a changé le système pour les députés, mais le système électoral des conseillers n'a pas suivi pendant dix-huit ans, derrière cela se trouvent les factions locales, les intérêts des partis et le coût du redécoupage des circonscriptions, ce qui détermine aussi que les petits partis obtiennent plus facilement des sièges dans les conseils locaux qu'au parlement national."
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,8 +8,8 @@ tags:
     'conseiller',
     'système électoral',
     'SNTV',
-    'système de vote à deux bulletins par circonscription unique',
-    'législateur',
+    'système à deux votes dans une circonscription unique',
+    'député',
     'élections 2026',
   ]
 subcategory: '選舉制度'
@@ -18,16 +18,20 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:15:05.239280+00:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-05T18:53:45.205123+00:00'
 ---
 
-# Système des conseillers : pourquoi est-il différent de celui des membres du Legislative Yuan ? Les 30 ans de maintien du SNTV dans la politique locale
+# Système des conseillers : en quoi diffère-t-il de celui des députés, et pourquoi les élections locales utilisent-elles encore l'ancien système SNTV
 
-> **Résumé en 30 secondes :** Le 12 janvier 2008, lors de la septième élection des membres du Legislative Yuan à Taïwan, le « système de vote à deux bulletins par circonscription unique » a été adopté pour la première fois — un bulletin pour le candidat et un pour le parti. Le nombre de sièges au Legislative Yuan est passé de 225 à 113, réécrivant totalement les modalités électorales. Pourtant, lors des élections des conseillers de comté et de municipalité de la seizième législature, qui se sont tenues avant décembre de la même année, le système de « vote uninominal à liste restreinte dans des circonscriptions plurinominales » (_Single Non-Transferable Vote_ ou SNTV), hérité des années 1980, a été maintenu — un système où cinq à dix sièges sont pourvus par circonscription, où l'électeur ne peut cocher qu'une seule personne et où les voix excédentaires ne peuvent pas être transférées à un autre candidat du même parti. Pour une même année, un même groupe d'électeurs et deux fonctions figurant sur le même bulletin de vote officiel, deux règles du jeu totalement différentes s'appliquaient. Il ne s'agit pas d'un bug technique, mais du résultat d'une réforme institutionnelle délibérément interrompue en cours de route. Derrière cela se cachent l'ancrage des factions locales et des deux grands partis dans la structure du SNTV, le coût élevé des réformes d'accompagnement et la difficulté à obtenir un consensus transpartisan — ce qui constitue également l'un des enjeux inachevés les plus sous-estimés sur le chemin de l'approfondissement démocratique de Taïwan depuis 30 ans.
+> **Aperçu en 30 secondes :** Le 12 janvier 2008, la 7e élection des membres du Legislative Yuan à Taïwan a adopté pour la première fois le « système à un siège unique avec deux votes » — un vote pour une personne, un vote pour un parti ; les sièges de députés sont passés de 225 à 113, et le mode de scrutin a été entièrement réécrit. Lors des élections des conseillers des comtés et villes de 16e législature en décembre de la même année, on a continué d'utiliser le « vote unique non transférable dans des circonscriptions plurinominales » (SNTV) hérité des années 1980 — une circonscription élit cinq à dix sièges, l'électeur ne peut cocher qu'une seule personne, et les voix excédentaires ne peuvent être transférées aux colistiers. La même année, les mêmes électeurs, deux postes sur le même bulletin d'information électoral, mais deux jeux de règles complètement différents. Ce n'est pas un bug technique, c'est le résultat d'une réforme institutionnelle délibérément arrêtée à mi-chemin. Derrière cela se trouvent l'arrimage des factions locales et des deux grands partis à la structure du SNTV, le coût élevé des réformes d'accompagnement, la difficulté d'aboutir à un consensus transpartisan — et c'est aussi l'un des chantiers inachevés les plus sous-estimés des 30 ans d'approfondissement démocratique de Taïwan.
 
 ## La même année, deux systèmes différents
 

@@ -1,37 +1,37 @@
 ---
-title: 'ASUS Computer (ASUS): el gigante tecnológico que nació de las placas base'
-description: 'ASUS es una marca taiwanesa: la fundaron cuatro ingenieros en Taipéi en 1989 y pasó de fabricar placas base a ser el quinto mayor proveedor mundial de computadoras personales.'
+title: 'ASUS: desde un apartamento en Taipei hasta convertirse en la marca taiwanesa líder mundial en placas base'
+description: 'ASUS es una marca taiwanesa, fundada en 1989 por cuatro exingenieros de Acer en un apartamento en la calle Minsheng East Road en Taipei, con un capital de solo NT$10 millones. Comenzó con placas base, alcanzando una cuota de mercado global de más del 40 % y siendo número uno durante 15 años consecutivos, y ocupa el quinto lugar en envíos de computadoras personales a nivel mundial. A diferencia de muchas empresas tecnológicas taiwanesas, ASUS decidió desde temprano operar su propia marca y no dedicarse únicamente a la fabricación por encargo; en 2008 separó su negocio de fabricación por encargo en Pegatron, para desde entonces centrarse en la gestión de su marca.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
+tags: ['Economía', 'Empresa', 'Hardware informático', 'Marca', 'Tecnología']
 subcategory: '企業列傳'
-tags: ['Economía', 'Empresas', 'hardware informático', 'marca', 'tecnología']
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
-translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078e'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-07-06T16:38:03Z'
 evolveHistory:
   - date: 2026-11-04
-    action: seo
-    reason: 'SC 28 天 1,035 曝光 0 點擊；查詢「asus de donde es」30、「asus pais de origen」16 曝光。舊 description 寫 ASUS 起家於 Hsinchu，與內文（Taipéi）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
+translatedFrom: 'Economy/台灣企業：華碩.md'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-05T22:38:20.871626+00:00'
 ---
 
 > **Panorama en 30 segundos**
 >
 > ASUSTeK Computer (ASUS) es el quinto mayor proveedor mundial de computadoras personales. Pasó de ser una empresa de placas base fundada en Taipéi en 1989 por cuatro ingenieros a convertirse en un gigante tecnológico con ingresos anuales cercanos a los 600.000 millones de nuevos dólares taiwaneses. Conocida mundialmente por su compromiso de calidad “Rock Solid” (sólida como una roca), su gama de productos abarca placas base, laptops, teléfonos móviles, equipos para gaming y más. Es uno de los mejores ejemplos de la transición de la industria taiwanesa de TI desde el OEM hacia la construcción de marcas propias.
 
-## ¿Por qué ASUS es importante?
+## ¿Por qué es importante ASUS?
 
-Imagina que quieres armar una computadora. ¿Qué marca de placa base te daría más confianza? La respuesta probablemente sea ASUS. Esta marca de Taiwán se ha convertido en sinónimo de “calidad” e “innovación” para usuarios de PC, jugadores de e-sports y creadores de contenido en todo el mundo.
+Imagina que vas a montar un ordenador: ¿qué marca de placa base te da más tranquilidad? La respuesta probablemente sea ASUS (華碩). Esta marca originaria de Taiwán se ha convertido en sinónimo de «calidad» e «innovación» para jugadores de PC, deportistas de esports y creadores de todo el mundo.
 
-Pero la historia de ASUS es mucho más interesante que la de un fabricante de placas base. Fue pionera en la transición de la industria tecnológica taiwanesa desde la manufactura por encargo hacia las marcas propias, y es una de las pocas empresas taiwanesas capaces de competir frontalmente, en el feroz mercado de la electrónica de consumo, con gigantes internacionales como Apple, Samsung y Lenovo.
+Pero la historia de ASUS va mucho más allá de un fabricante de placas base. Es pionera en la transición de la industria tecnológica taiwanesa del OEM a la marca propia, y una de las pocas empresas taiwanesas capaz de competir de tú a tú con gigantes internacionales como Apple, Samsung y Lenovo en el feroz mercado de la electrónica de consumo.
 
-Desde un pequeño equipo emprendedor de cuatro personas en un departamento de Hsinchu hasta el imperio tecnológico que hoy se extiende por 68 países, la trayectoria de crecimiento de ASUS refleja más de tres décadas de transformación de la industria tecnológica de Taiwán. Cuando “Taiwan No.1” ya se ha convertido en un meme del mundo gamer, ASUS ofrece una respuesta distinta a través de su desempeño real en el mercado.
+Desde un equipo fundador de cuatro personas en un apartamento de la calle Minsheng East Road en Taipéi, hasta el imperio tecnológico actual presente en 68 países, la trayectoria de crecimiento de ASUS refleja la transformación de la industria tecnológica taiwanesa en las últimas tres décadas. Cuando «Taiwan No.1» ya se ha vuelto un meme gamer, ASUS responde con su real desempeño en el mercado.
 
 ## Panorama empresarial: de rey de las placas base a marca tecnológica integral
 

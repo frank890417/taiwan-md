@@ -1,27 +1,31 @@
 ---
-title: 'Retirada de las Naciones Unidas: aquellos 17 minutos de 1971 en que Taiwán pasó de ser “China” a huérfano internacional'
-description: 'El 25 de octubre de 1971, en el momento en que Chou Shu-kai bajó del estrado de la Asamblea General de la ONU, la República de China pasó de ser miembro fundador de las Naciones Unidas a convertirse en una observadora que hasta hoy sigue bloqueada fuera de la organización. Medio siglo después, aquella decisión basada en que “Han y bandidos no pueden coexistir” sigue produciendo efectos: en 2025, Estados Unidos aprobó una ley que reafirma que la Resolución 2758 nunca abordó la representación de Taiwán.'
+title: 'La retirada de Taiwán de la ONU: aquellos 17 minutos de 1971, cómo un miembro fundador se convirtió en un excluido'
+description: 'El 25 de octubre de 1971, Chou Shu-kai bajó del podio en la Asamblea General de la ONU, y la República de China pasó de ser miembro fundador de la ONU a ser un excluido al que se le cerraban las puertas. En apariencia, fue una salida trágica bajo la consigna de «los Han y los bandidos no pueden coexistir», pero Chiang Kai-shek había aceptado ya a principios de 1971 el compromiso de las «dos Chinas»; la clave real fue la visita secreta de Kissinger a Pekín en julio de ese mismo año. Medio siglo después, la Cámara de Representantes de EE. UU. aprobó en 2025 una ley que reafirma: la Resolución 2758 nunca abordó la representación de Taiwán.'
 date: 2026-05-02
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
-    'diplomacia',
-    'historia',
+    'Diplomacia',
+    'Historia',
     'Naciones Unidas',
     'Guerra Fría',
-    'relaciones a través del Estrecho',
-    'derecho internacional',
+    'Relaciones a ambos lados del estrecho',
+    'Derecho internacional',
   ]
+subcategory: '民主與治理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-06T04:29:18.562250+00:00'
 ---
 
 La noche del 25 de octubre de 1971, en la sala de la Asamblea General de las Naciones Unidas en Nueva York, el ministro de Relaciones Exteriores de la República de China, Chou Shu-kai, terminó de leer una declaración, se dio vuelta y bajó del estrado de mármol verde. Toda la delegación salió en fila. Desde su entrada hasta su salida pasaron menos de 20 minutos[^1]. Media hora después, la Resolución 2758 fue aprobada por 76 votos contra 35: los “representantes de Chiang Kai-shek” fueron expulsados y la República Popular China asumió oficialmente el asiento de China. Taiwán, que había sido miembro fundador de las Naciones Unidas —el 24 de agosto de 1945, Chiang Kai-shek firmó en Chongqing el instrumento de ratificación de la Carta de las Naciones Unidas[^2]—, se convirtió de la noche a la mañana en un actor externo a las organizaciones internacionales.

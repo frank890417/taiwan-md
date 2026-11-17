@@ -1,0 +1,150 @@
+---
+/**
+ * PosActors：各方卡片。依 groups 分組，每個 actor 顯示 stance（間接敘述，附來源）與 quotes（逐字引語加引號、
+ * 說話者、日期、來源）；thin: true 的顯示「這一方的公開說法我們只找到這些」。政黨組只顯示資料檔已有的內容，不補。
+ * 引語原文是中文；英文頁附本站翻譯（有對照的才附）。
+ */
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { fmtPeriod } from '../../../utils/housing/data';
+import { isZh, loc } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+  actors: any[];
+  groups: any[];
+}
+const { lang, actors, groups } = Astro.props;
+const T = housingSub(lang);
+const S = T.pos.actors;
+const L = T.pos.labels;
+const zh = isZh(lang);
+const trTable: Record<string, string> = {
+  ...(housingHome('en').quotesEn as Record<string, string>),
+  ...EN_DATA.quotes,
+};
+const strip = (x: string) => x.replace(/[，。、：；「」『』\s]/g, '');
+function translate(text: string): string | undefined {
+  const t = strip(text);
+  // 對照表的鍵帶 q- 前綴（見 src/utils/housing/quotes.ts 的 quoteKey）
+  const k = Object.keys(trTable).find((key) =>
+    t.startsWith(key.replace(/^q-/, '')),
+  );
+  return k ? trTable[k] : undefined;
+}
+const byGroup = groups
+  .filter((g) => g.id !== 'surveys')
+  .map((g) => ({
+    id: g.id,
+    title: loc(g.title, lang),
+    list: actors.filter((a) => a.group === g.id),
+  }))
+  .filter((g) => g.list.length > 0);
+const nActors = actors.length;
+const srcTag = (k: string) => (k === 'primary' ? L.primary : L.reported);
+---
+
+<section class="hs-section" id="actors">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, { n: nActors })}</h2>
+    {
+      byGroup.map((g) => (
+        <div class="hs-actgroup">
+          <h3 class="hs-h3">{g.title}</h3>
+          <div class="hs-actors">
+            {g.list.map((a) => {
+              const person = loc(a.person, lang);
+              const empty = a.stance.length === 0 && a.quotes.length === 0;
+              return (
+                <article class="hs-actor" id={`actor-${a.id}`}>
+                  <header>
+                    <h4 class="hs-actor-n">{loc(a.name, lang)}</h4>
+                    {person && (
+                      <p class="hs-actor-p">
+                        {S.person}
+                        {zh ? '：' : ': '}
+                        {person}
+                      </p>
+                    )}
+                  </header>
+                  {a.stance.length > 0 && (
+                    <>
+                      <p class="hs-actor-k">{S.stance}</p>
+                      <ul class="hs-stance">
+                        {a.stance.map((st: any) => (
+                          <li>
+                            <span lang={zh ? 'zh-TW' : 'en'}>
+                              {loc(st, lang)}
+                            </span>
+                            <span class="hs-stance-src">
+                              {(st.sources ?? []).map((s: any) => (
+                                <a
+                                  href={s.url}
+                                  target="_blank"
+                                  rel="noopener"
+                                  class="no-external-icon"
+                                  title={s.title}
+                                >
+                                  {s.publisher}
+                                  <span class="hs-tag">{srcTag(s.kind)}</span>
+                                </a>
+                              ))}
+                            </span>
+                          </li>
+                        ))}
+                      </ul>
+                    </>
+                  )}
+                  {a.quotes.length > 0 && (
+                    <>
+                      <p class="hs-actor-k">{S.quotes}</p>
+                      {a.quotes.map((qt: any) => (
+                        <figure class="hs-quote">
+                          <blockquote lang="zh-TW">
+                            <p>{`「${qt.text}」`}</p>
+                          </blockquote>
+                          {!zh && translate(qt.text) && (
+                            <p class="hs-quote-tr">
+                              {`“${translate(qt.text)}”`}
+                              <span class="hs-quote-trn">{L.translation}</span>
+                            </p>
+                          )}
+                          <figcaption>
+                            <span class="hs-quote-who">{qt.speaker}</span>
+                            <span class="hs-quote-meta">
+                              <time datetime={qt.date}>
+                                {fmtPeriod(qt.date, lang)}
+                              </time>
+                              <span class="hs-tag">
+                                {srcTag(qt.source.kind)}
+                              </span>
+                              <a
+                                href={qt.source.url}
+                                target="_blank"
+                                rel="noopener"
+                                class="no-external-icon"
+                                title={qt.source.title}
+                              >
+                                {L.via}
+                                {zh ? '：' : ': '}
+                                {qt.source.publisher}
+                              </a>
+                            </span>
+                          </figcaption>
+                        </figure>
+                      ))}
+                    </>
+                  )}
+                  {empty && <p class="hs-fine">{S.none}</p>}
+                  {a.thin && <p class="hs-thin">{S.thin}</p>}
+                </article>
+              );
+            })}
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</section>

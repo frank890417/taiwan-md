@@ -18,6 +18,8 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: incubating
+curationReason: unverified
 ---
 
 # Mini Taiwan Pulse — 台灣交通即時 3D 視覺化 🌐

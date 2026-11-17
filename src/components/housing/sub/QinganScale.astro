@@ -1,0 +1,120 @@
+---
+/**
+ * QinganScale：5.7 規模。scale 的累計撥貸、3.0 撥貸與受理、青安 2.0 期間（derived: true 標「本站計算」）、
+ * 逾放比（來源用 scale.nplPct.source 指到的那一筆，不用 scale.source）。
+ */
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import {
+  DATA,
+  fmtPeriod,
+  fmtYi,
+  grp,
+  qinganSrc,
+  trimNum,
+} from '../../../utils/housing/data';
+import { isZh, nplSource } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.scale;
+const q: any = DATA.qingan;
+const sc = q.scale;
+const d = (x: string) => fmtPeriod(x, lang);
+const v3from = d(q.naming.find((n: any) => n.id === 'v3').from);
+const asOf = d(sc.asOf);
+const v2Note: string = isZh(lang) ? sc.v2Approx.note : EN_DATA.scaleNote;
+const cards = [
+  {
+    l: S.all,
+    v: grp(sc.allCumulative.households),
+    s: fmtYi(sc.allCumulative.amountYi, lang),
+    n: fill(S.allN, { asOf }),
+    derived: false,
+  },
+  {
+    l: S.v3,
+    v: grp(sc.v3Cumulative.households),
+    s: fmtYi(sc.v3Cumulative.amountYi, lang),
+    n: fill(S.v3N, { v3from, asOf }),
+    derived: false,
+  },
+  {
+    l: S.v3a,
+    v: grp(sc.v3Applications.households),
+    s: fmtYi(sc.v3Applications.amountYi, lang),
+    n: S.v3aN,
+    derived: false,
+  },
+  {
+    l: S.v2,
+    v: grp(sc.v2Approx.households),
+    s: fmtYi(sc.v2Approx.amountYi, lang),
+    n: fill(S.v2N, { note: v2Note }),
+    derived: !!sc.v2Approx.derived,
+  },
+];
+const nplAsOf = d(sc.nplPct.asOf);
+---
+
+<section class="hs-section" id="scale">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">
+      {
+        fill(S.h2, {
+          h: grp(sc.allCumulative.households),
+          amount: fmtYi(sc.allCumulative.amountYi, lang),
+          asOf,
+        })
+      }
+    </h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-statrow is-four">
+      {
+        cards.map((c) => (
+          <div class="hs-mini">
+            <div class="hs-mini-v">
+              {c.v}
+              <small>{S.hu}</small>
+            </div>
+            <div class="hs-mini-l">
+              {c.l}
+              {c.derived && <span class="hs-badge">{T.ui.derived}</span>}
+            </div>
+            <div class="hs-mini-s">{c.s}</div>
+            <div class="hs-mini-s">{c.n}</div>
+          </div>
+        ))
+      }
+    </div>
+    <SrcLine
+      lang={lang}
+      sources={[
+        qinganSrc(sc.source, sc.asOf),
+        { ...qinganSrc(sc.source, sc.asOf), derived: true },
+      ]}
+    />
+    <h3 class="hs-h3">{S.npl}</h3>
+    <div class="hs-statrow">
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {trimNum(sc.nplPct.qingan, 2)}<small>%</small>
+        </div>
+        <div class="hs-mini-l">{S.nplQ}</div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {trimNum(sc.nplPct.allMortgage, 2)}<small>%</small>
+        </div>
+        <div class="hs-mini-l">{S.nplA}</div>
+      </div>
+    </div>
+    <p class="hs-fine">{fill(S.nplN, { asOf: nplAsOf })}</p>
+    <SrcLine lang={lang} sources={[nplSource()]} />
+  </div>
+</section>

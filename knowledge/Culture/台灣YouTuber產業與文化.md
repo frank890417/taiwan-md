@@ -9,6 +9,8 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** 2024年3月，台灣魔術YouTuber「Chi Hsuan Tricking」成為全台首位千萬訂閱創作者，標誌著台灣YouTube文化從2008年蔡阿嘎的愛台灣時事影片，進化為具國際競爭力的內容輸出平台。YouTube在台灣觸及率超過95%的網路使用者，短影音（Shorts）觀看時間佔比已突破75%，創作者正從純影音生產轉向品牌化與多元變現的轉型期。

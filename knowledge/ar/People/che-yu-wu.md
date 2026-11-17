@@ -25,9 +25,9 @@ lastHumanReview: true
 researchReport: reports/research/2026-04/吳哲宇.md
 readingTime: 16
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-09-09T15:32:52+08:00'
 ---
 
@@ -240,8 +240,6 @@ NFT هو واحد من وسائط النشر، وليس تعريف الهوية.
 عشرين سنة بعد ذلك، ظهر اسمه على Spotify. ستة مقطوعات بيانو: Blue Horizon و Stars و StarTrack و The Other Shore of Dreams و The Bull and the Sudden Rain و Summer Migration[^34].
 
 لم يُعد تعلم البيانو من جديد. كانت تلك الأشياء في جسده دائماً، مغطاة فقط بالغبار لمدة عشرين سنة. عندما عاد ليجلس أمام لوحات المفاتيح، أصابعه تتذكر ليس التقنية، بل الطفل الذي بدأ بلمس المفاتيح في سن السادسة.
-
-**الكود ينقضي أجله، البيانو لا ينقضي.**
 
 في يونيو 2025، في المساحة الغامرة بحديقة Huashan 1914 Creative Park، يبدأ عرض «قصائد الخوارزميات: الحدود بين الأحلام والعزلة». يجلس أمام البيانو، والكود يزهر خلفه[^36].
 

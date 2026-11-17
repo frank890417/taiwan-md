@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T08:54:35.730500+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T02:57:24.927170+00:00'
 ---
 
 # Taiwanische Staatenbeziehungen und internationale Diplomatie: 12 Staaten, 113 Vertretungen, 177 visumfreie Länder
@@ -216,16 +216,18 @@ Dua evolusi baru-baru ini:
 
 **Fakta bahwa AS melindungi negara pengakuan diplomatik Taiwan itu sendiri** adalah tanda keterlibatan mendalam dari negara-negara yang tidak memiliki hubungan diplomatik dalam urusan luar negeri Taiwan — secara tradisional, urusan negara pengakuan diplomatik seharusnya ditangani oleh kedua belah pihak yang memiliki hubungan tersebut.
 
-## Passt in 177 Länder: Eine andere Art der Anerkennung
+## Pass ermöglicht Einreise in 177 Länder: Eine andere Messlatte für Anerkennung
 
-Offizielle Statistiken des Außenministeriums vom 30. Januar 2026 besagen, dass Reisepässe der Republik China dank Visa-Freiheit, Einreisevisa und elektronischen Visas **in 177 Länder und Gebiete** einreisen können [^37].
+Offizielle Statistik des Außenministeriums vom 30. Januar 2026: Der Reisepass der Republik China (Taiwan) genießt visafreie Einreise, Visa bei Ankunft, E-Visa und weitere Erleichterungen und ermöglicht die Einreise in **177 Länder und Gebiete** weltweit[^37].
 
-Der Henley Passport Index von 2026 rangierte den taiwanesischen Pass weltweit um Platz 33, ähnlich wie Japan und Südkorea.
+Der Henley Passport Index 2026 stuft den taiwanischen Pass auf Rang 33 weltweit ein, ähnlich wie Japan und Südkorea.
 
-Die überwiegende Mehrheit dieser 177 Länder hat keine diplomatischen Beziehungen zu Taiwan. **Was die Reisefreiheit ermöglicht, ist nicht die diplomatische Anerkennung, sondern das bilaterale Vertrauen, die wirtschaftlichen Verbindungen, niedrige Kriminalitätsraten und geringe Zahlen von illegalen Einwanderern.** Das Verhältnis zwischen der Anzahl der Staaten mit diplomatischen Beziehungen und der Anzahl der Länder, in die man reisen kann, beträgt 12:177 – etwa 1:15.
+Die absolute Mehrheit dieser 177 Länder und Gebiete unterhält **keine diplomatischen Beziehungen** zu Taiwan. **Was die Reisefreiheit ermöglicht, sind nicht diplomatische Beziehungen, sondern bilaterales Vertrauen, wirtschaftliche Verflechtungen, niedrige Kriminalitätsraten und niedrige Raten illegaler Einwanderung.** Das Verhältnis zwischen der Zahl der diplomatischen Partnerstaaten und der Zahl der bereisbaren Länder beträgt 12:177 — etwa 1:15.
+
+Diese Zahl wird leicht als „weltweit uneingeschränkte Reisefreiheit mit dem Pass“ gelesen, daher müssen zwei Punkte klargestellt werden. Erstens: **177 bedeutet nicht, dass alle visafrei sind**: Das Konsularamt des Außenministeriums fasst visafreie Einreise, Visa bei Ankunft und E-Visa in ein und derselben Liste zusammen; Visa bei Ankunft und E-Visa erfordern weiterhin Formalitäten und können dennoch abgelehnt werden[^37]. Zweitens: Länder und Gebiete außerhalb dieser Liste verlangen nach wie vor ein vorab zu beantragendes Visum, und die Liste selbst ändert sich — dieser Artikel zitiert die Version vom 30. Januar 2026, das Konsularamt hat die Seite seither am 22. Oktober 2026 aktualisiert[^37]. Reisende sollten sich an den aktuellen Bekanntmachungen des Einreiselandes orientieren, nicht an diesem Artikel.
 
 > **⚠️ Ein Paradoxon**
-> Die Länge der Liste der Staaten mit diplomatischen Beziehungen steht in umgekehrtem Verhältnis zur tatsächlichen internationalen Mobilität der Bürger. Die Zunahme der Staaten mit diplomatischen Beziehungen geschieht meist, weil kleinere Länder nach erfolgreichen Finanzhilfeverhandlungen zustimmen; die Zunahme der Länder, in die man reisen kann, hängt vom nationalen Image, den Sicherheitsbilanzen und dem Visumenaustausch ab. Letzteres ist schwieriger, aber zuverlässiger.
+> Die Länge der Liste der diplomatischen Partnerstaaten und die tatsächliche internationale Mobilität der Bürger stehen in umgekehrtem Verhältnis zueinander. Eine Zunahme der diplomatischen Partnerstaaten resultiert meist daraus, dass kleine Staaten nach Zusagen finanzieller Hilfe diplomatische Beziehungen aufnehmen; die Zunahme der bereisbaren Länder resultiert aus dem Länderimage, Sicherheitsbilanzen und Visumsgleichbehandlung. Letzteres ist schwieriger als Ersteres, aber auch verlässlicher.
 
 ## Schild aus Silizium: 90 %, 30 % und ein zweischneidiges Schwert
 
@@ -266,29 +268,28 @@ Selama 12 negara pengakuan tersebut ada, argumen ini tidak dapat bertahan. Oleh 
 
 ```
 12             113            177
-Diplomatische    Auslandsvertretungen  Länder, die mit dem
-Partner                              Reisepass zugänglich sind
+diplomatische Partner    Auslandsvertretungen    visafreie Reiseziele
 ```
 
-12 Länder erkennen die Regierung der Republik China (Taiwan) als die „legitime Regierung Chinas“ an.
-113 Vertretungen weltweit repräsentieren Taiwan und erledigen praktische Angelegenheiten.
-177 Länder erkennen die Republik China nicht an, lassen aber taiwanische Staatsbürger einreisen.
+12 Länder erkennen die Regierung der Republik China (Taiwan) als „legitime Regierung Chinas“ an[^16].
+113 Auslandsvertretungen vertreten Taiwan weltweit bei praktischen Angelegenheiten[^34].
+177 Länder und Gebiete erkennen die Republik China nicht an, erlauben aber taiwanesischen Staatsbürgern visafreie Einreise, Visa bei Ankunft oder E-Visa[^37].
 
-Das Europäische Parlament verabschiedete die Resolution 2758 mit 432 Ja-Stimmen gegen 275-Stimmen. Als Tsai Ing-wen im Mai 2024 ihr Amt niederlegte, gab es noch 12 diplomatische Partner; im Oktober nach ihrem Ausscheiden wurde sie eingeladen, das Europäische Parlament zu besuchen. Bonnie Glaser erwähnte, dass die Abhängigkeit von TSMC einen Moment lang existierte. Mark Lambert sagte, dass die Resolution 2758 Taiwan nicht erwähnt.
+Das Europäische Parlament stimmte mit 432 Stimmen für eine Resolution gegen die Resolution 2758[^3]. Als Tsai Ing-wen im Mai 2024 aus dem Amt schied, gab es 12 diplomatische Partner; nach ihrem Amtsende besuchte sie im Oktober auf Einladung das Europäische Parlament. Bonnie Glaser sprach einmal von einem Moment der TSMC-Abhängigkeit. Mark Lambert sagte, die Resolution 2758 habe Taiwan nicht erwähnt.
 
-All diese Dinge geschehen gleichzeitig. Es gibt keinen einzelnen Punkt namens „der internationale Status Taiwans“.
+Diese Dinge geschehen gleichzeitig. Es gibt keine einzige Linie namens „Taiwans internationaler Status“.
 
-Wenn es ihn gäbe, wäre dieser Wert weder 12 noch 113, noch 177, noch 90 % oder 30 %.
+Wenn es eine gäbe, wäre sie nicht 12, nicht 113, nicht 177, nicht 90 % oder 30 %.
 
-Er liegt in der Distanz zwischen diesen Zahlen.
+Es ist die Distanz zwischen diesen Zahlen.
 
 **Weiterführende Literatur**:
 
-- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Wenn nur noch 12 diplomatische Partner übrig sind, ist die militärische Selbstverteidigung eine weitere Säule, um „nicht bei Null“ zu bleiben
-- [Die Taiwanstraße-Krise und die Entwicklung der Beziehungen auf beiden Seiten der Taiwanstraße](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Wie drei Krisen die diplomatische Isolation und die Sicherheitsängste Taiwans geformt haben
-- [TSMC](/de/economy/tsmc) — Die materielle Basis des „Silicon Shield“ und seine strukturelle Verwundbarkeit
-- [Zhuo Rongtai](/de/people/cho-jung-tai) — Der Pfad der US-Taiwan-Zölle von 32 % → 20 % → 15 % im Jahr 2026 + Kabinettskoordinator des Besuchs von Lai Ching-te in Swastini
-- [Taiwan und Swastini](/de/society/taiwan-eswatini-relations) — Die einzige verbleibende afrikanische Verbindung unter den 12 diplomatischen Partnern: Die vollständige Geschichte von der Aufnahme diplomatischer Beziehungen am selben Tag im Jahr 1968 bis zum Besuch von Lai Ching-te im Jahr 2026
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Wenn nur noch 12 diplomatische Partner übrig sind, ist militärische Selbstverteidigung der andere Pfeiler, der „nicht 0“ aufrechterhält
+- [Krisen in der Taiwanstraße und Entwicklung der Beziehungen zwischen beiden Seiten der Taiwanstraße](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Wie drei Krisen Taiwans diplomatische Isolation und Sicherheitsängste formten
+- [TSMC](/de/economy/tsmc) — Die materielle Basis des Silberschilds und seine strukturelle Fragilität
+- [Cho Jung-tai](/de/people/cho-jung-tai) — 2026 US-Taiwan-Zölle 32→20→15 % Verlauf + Lai Ching-tes Besuch in Eswatini als Kabinettskoordinator
+- [Taiwan und Eswatini](/de/society/taiwan-eswatini-relations) — Der einzige afrikanische Verbündete unter den 12 diplomatischen Partnern, von der gleichzeitigen Aufnahme diplomatischer Beziehungen 1968 bis zu Lai Ching-tes Besuch 2026: die vollständige 58-Jahres-Geschichte
 
 ## Quellenangaben
 

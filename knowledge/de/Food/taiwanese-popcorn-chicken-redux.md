@@ -1,17 +1,17 @@
 ---
-title: 'Taiwanese Fried Chicken (Yansuji)'
-description: 'In den 1970er Jahren begann Chen Ting-chih (陳廷智), der seine Restaurantscheiterte, in Ximending, Taipeh, mit frittierten Fleischstücken zu verkaufen. Fünfzig Jahre später ist Yansuji ein einzigartiger Snack in Taiwan, der nur einen Wagen und eine Pfanne benötigt – CNN hat ihn zweimal auf seiner Liste der Must-Eats genannt, aber die authentischste Art, ihn zu essen, ist immer noch in einem Papiersack am Straßenrand mitten in der Nacht.'
+title: 'Taiwanesisches Salzhähnchen'
+description: '1975 stellte der Tainaner Chen Ting-chih, dessen Restaurant gescheitert war, in Ximending einen Wagen auf und frittierte Hähnchenstücke mit einer familieneigenen Marinade. Fünfzig Jahre später wurde das Salzhähnchen zu einem der wenigen taiwanesischen Snacks, die ohne Nachtmarkt, ohne Ladenlokal, nur mit einem Wagen und einem Topf Öl überleben – CNN führte es zweimal auf die Liste der taiwanesischen Gerichte, die man probieren muss, doch seine authentischste Art, es zu essen, bleibt für immer, mitten in der Nacht am Straßenrand auf die Papiertüte zu warten.'
 date: 2026-04-01
 category: 'Food'
 tags:
   [
-    'Yansuji',
-    'Xiansuji',
+    'Salzhähnchen',
+    'Salzhähnchen',
     'Snack',
     'Nachtmarkt',
     'Frittiertes',
-    'Spätnachtskultur',
-    'Basilikum',
+    'Nachtsnack-Kultur',
+    'Thai-Basilikum',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-06-26
 lastHumanReview: true
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a5'
-sourceContentHash: 'sha256:ff821213812f38cb'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
 sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-09-25T01:48:24+08:00'
+translatedAt: '2026-11-05T18:09:09.235368+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Yansuji ist einer der repräsentativsten Volksfrittiergerichte Taiwans. 1975 eröffnete Chen Ting-chih (陳廷智) den ersten Stand in Ximending, indem er mit speziellen Marinaden frittierte Fleischstücke zubereitete und diese mit Pfeffer und Basilikum bestreute[^1]. Fünfzig Jahre später sind Yansuji-Stände an jeder Ecke, auf jedem Nachtmarkt und in Wohngebieten Taiwans zu finden. CNN hat ihn zweimal als „essenwichtige Spezialität Taiwans“ bezeichnet[^2], doch sein besonderer Reiz liegt nicht im Geschmack – sondern in seiner Existenzform als „Nachtinfrastruktur“: Er benötigt kein Restaurant, keine Schilder, nur einen Wagen, eine Pfanne und etwas Basilikum.
@@ -89,11 +89,12 @@ Ein kritischer Blog auf Englisch lieferte einen weiteren Hinweis: Der englische 
 
 Fünfzig Jahre zuvor hätte Chen Ting-chih (陳廷智) wahrscheinlich nicht gedacht, dass der Straßenstand seines gescheiterten Restaurants zur zuverlässigsten nächtlichen Trostquelle auf einer ganzen Insel werden würde. Yansuji ist kein raffiniertes Gericht; seine Existenzberechtigung besteht darin, dass er egal wie spät es ist und wo man sich befindet, immer in dieser Pfanne an der Gasse wartet.
 
-## Weiterführende Lektüre
+## Weiterführende Links
 
-- [Nachtmarktkultur](/de/food/night-market-culture) — Das Hauptumfeld für Yansuji; die Bühne des taiwanesischen Spätnachtsökosystems
-- [Taiwanisches Frühstückskultur](/de/food/taiwan-breakfast-culture) — Die zwei wichtigen Essenszeiten Taiwans, von der Morgenstunde bis in die Nacht
-- [Taiwanische Convenience Store Kultur](/de/lifestyle/convenience-store-culture) — Yansuji-Stände und Convenience Stores bilden zusammen das 24-Stunden-Esslandschaftsbild Taiwans
+- [Nachtmarktkultur](/de/food/night-market-culture) — Hauptvertriebsort von Yansuji, Kernbühne des taiwanesischen Mitternachtssnack-Ökosystems
+- [Taiwanesische Frühstückskultur](/de/food/taiwan-breakfast-culture) — Vom frühen Morgen bis spät in die Nacht: Gegenüberstellung der zwei wichtigen Essenszeiten Taiwans
+- [Taiwanesische Convenience-Store-Kultur](/de/lifestyle/convenience-store-culture) — Yansuji-Stände und Convenience Stores bilden gemeinsam Taiwans 24-Stunden-Essenslandschaft
+- [Süßkartoffelbällchen](/de/food/sweet-potato-balls) — Ein weiterer Topf Öl in derselben Nachtmarktstraße: Die Hohlheit der Süßkartoffelbällchen wird von den Händlern mit dem Schaumlöffel Topf für Topf herausgedrückt
 
 ## Referenzen
 

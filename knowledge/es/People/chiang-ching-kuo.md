@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-11T02:13:57+08:00'
+translatedAt: '2026-11-06T07:55:27.068768+00:00'
 ---
 
-> **Resumen en 30 segundos:** Chiang Ching-kuo se convirtió en presidente en 1978 y el 15 de julio de 1987 anunció la derogación de la ley marcial en Taiwán, que había durado 38 años. Estos dos hechos lo convierten simultáneamente en el timonel del sistema autoritario y en el decisor de la apertura política. Este artículo no escribe la democratización como el regalo de una sola persona, sino que sitúa sus reformas, la violencia estatal y la acción social continua posterior al Incidente de la Isla de la Belleza en la misma cadena causal.
+> **Resumen en 30 segundos:** Chiang Ching-kuo se convirtió en presidente en 1978, y el 15 de julio de 1987 anunció el levantamiento de la ley marcial de 38 años en Taiwán; estos dos hechos lo convierten simultáneamente en timonel del régimen autoritario y en artífice de la apertura política. Este artículo no presenta la democratización como la dádiva de un solo hombre, sino que sitúa sus reformas, la violencia de Estado y la sociedad que siguió actuando tras el incidente de Kaohsiung en una misma cadena causal.
 
-El 20 de mayo de 1978, Chiang Ching-kuo prestó juramento como presidente de la República de China en Taipéi; el 15 de julio de 1987, Taiwán derogó la ley marcial que había vigenciado durante 38 años; el 13 de enero de 1988, falleció durante su mandato presidencial. [^1] Estas tres fechas, puestas juntas, parecen una línea de progreso ordenada. Sin embargo, Chiang Ching-kuo no era alguien que estuviera fuera del sistema de ley marcial, abriendo la puerta para Taiwán; él mismo era uno de los guardias de esa puerta.
+El 20 de mayo de 1978, Chiang Ching-kuo juró como presidente de la República de China (Taiwán) en Taipéi; el 15 de julio de 1987, Taiwán puso fin a 38 años de ley marcial; el 13 de enero de 1988, falleció en el ejercicio de la presidencia.[^1] Estas tres fechas, puestas en fila, parecen una línea de tiempo progresiva ordenada. Pero Chiang Ching-kuo no estaba fuera del sistema de ley marcial abriendo la puerta para Taiwán; él mismo era uno de los guardianes de esa puerta.
 
-El dilema histórico que dejó no es, por tanto, una pregunta de votación del tipo «¿es bueno o malo Chiang Ching-kuo?», sino: ¿por qué una persona que había utilizado un Estado autoritario comenzó, en los últimos años de su vida, a derribar algunos de los pilares sobre los que se sustentaba su gobierno? Más aún, esta demolición no comenzó desde cero. Él empujó la puerta para abrir una rendija, pero quienes metieron el cuerpo dentro y lograron que ya no pudiera cerrarse fueron una serie de personas que, durante la era de la ley marcial, arriesgaron hablar.
+El enigma histórico que deja no es, por tanto, una cuestión de votación del tipo «¿Chiang Ching-kuo, bueno o malo?», sino: ¿por qué alguien que operó el Estado autoritario comenzó, en sus últimos años, a desmantelar los propios pilares que sustentaban su poder? Lo más espinoso es que este desmantelamiento no partió de la nada. Él entreabrió la puerta, pero quienes metieron el cuerpo en la rendija para que ya no pudiera cerrarse fueron oleadas de personas que se atrevieron a hablar durante la era de la ley marcial.
 
-![Retrato de Chiang Ching-kuo en la década de 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Imagen: Adao / Wikimedia Commons, CC BY-SA 4.0._
+![Retrato de Chiang Ching-kuo en los años 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Imagen: Ado／Wikimedia Commons, CC BY-SA 4.0._
 
 > **📝 Nota del curador**
-> La derogación de la ley marcial merece ser recordada no porque un líder fuerte se volviera de repente bondadoso, sino porque incluso un líder fuerte tuvo que enfrentar a una sociedad que ya había crecido.
+> El fin de la ley marcial merece recordarse, no porque un hombre fuerte se volviera repentinamente bueno, sino porque hasta el hombre fuerte tuvo que enfrentarse a una sociedad que ya había crecido.
 
 ## Un sucesor en medio de una crisis
 

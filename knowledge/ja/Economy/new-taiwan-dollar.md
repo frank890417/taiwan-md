@@ -1,20 +1,22 @@
 ---
-title: '新臺幣：四萬換一元の後、2000年まで国幣とならなかった理由'
-description: '1949年6月15日、四萬枚の旧臺幣を1元の新臺幣に換えました。毎日朝食を買うための紙幣ですが、2000年になってやっと中華民国の通貨として法的に認められました。新臺幣の歴史は、危機がどのように徐々に日常の信頼になったのかを物語ります。'
-category: 'Economy'
-subcategory: '經濟發展'
-tags: ['新臺幣', '貨幣史', '戦後臺湾', '鈔券', '中央銀行']
-author: 'Taiwan.md Contributors'
+title: '新台湾ドル：4万対1の切り替え後、2000年まで国幣にならなかった'
+description: '1949年6月15日、旧台湾ドル4万枚が新台湾ドル1と交換されました。毎日朝食を買うのに使われるこの紙幣が、法規上で中華民国の貨幣となったのは2000年になってからでした。それはハイパーインフレ、金門限定券、中央銀行による接管を経験し、山林、総統府、そしてある島の記憶を財布に収めました。新台湾ドルの歴史は、いかに危機が徐々に日常の信頼へと変わっていったかという物語です。'
 date: 2026-08-17
-readingTime: 8
+category: 'Economy'
+tags: ['新台湾ドル', '貨幣史', '戦後台湾', '紙幣', '中央銀行']
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/新台幣.md'
-sourceCommitSha: 'a8354bde0'
-sourceContentHash: 'sha256:4d797183a6dc8cc5'
-sourceBodyHash: 'sha256:8d5699b86714ee17'
-translatedAt: '2026-09-23T22:11:46+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:62c8b035ec5c889f'
+sourceBodyHash: 'sha256:f0e09241a66b11bc'
+translatedAt: '2026-11-06T20:29:34.678156+00:00'
 ---
 
 > **30秒概覽：** 1949年6月15日、臺湾は四萬元の旧臺幣を1元の新臺幣に換え、既に失速したインフレーションにブレーキをかけました。奇妙なことに、実際には毎日使われていたこの通貨が、法的に中華民国の通貨として正式に認められるまでに2000年を要しました。新臺幣の物語は、単なる換鈔を超えて、信頼、法的名称、日常生活がどのように互いに追い上げたかの歴史でもあります。
@@ -45,27 +47,31 @@ translatedAt: '2026-09-23T22:11:46+08:00'
 
 新臺幣発行の翌日、臺湾省政府は新臺幣と金圓券および中国大陸各地の通貨との両替を停止しました。この決定は、危機が継続的に輸入される通道を断ち切るとともに、臺湾の金融的境界を再び定義しました。国家公文書館はこの措置を、通貨改革の核心的な流れの一部として位置づけ、単なる行政通知としてではなく扱いました。[^1]
 
-## 一枚の鈔票、二つの名前
+## 一枚の紙幣、二つの名前
 
-![臺湾銀行本店ビル、この銀行は新臺幣発行業務を担っていました](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
+![台湾銀行総本店ビル、この銀行はかつて新台湾ドルの発行業務を担った](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
 
-_画像：Carpkazu、CC BY-SA 2.5。[Wikimedia Commons 画像詳細ページ](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) と [ライセンス条項](https://creativecommons.org/licenses/by-sa/2.5/deed.en) を参照。_
+_画像：Carpkazu、CC BY-SA 2.5。詳細は [Wikimedia Commons 画像詳細ページ](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) および [ライセンス条項](https://creativecommons.org/licenses/by-sa/2.5/deed.en) を参照。_
 
-この建物は新臺幣の発行機械ではありませんが、制度史の良い入口点です。1946年から、臺湾銀行は戦後の臺幣および後の新臺幣の発行業務を担っていました。鈔票に印刷されている機関名は、法的通貨身分よりも早く人々の日常生活に浸透していました。[^3]
+この建物は新台湾ドルの発行機械ではないが、制度史における格好の入り口だ。1946 年以降、台湾銀行が戦後の台湾ドルおよびその後の新台湾ドルの発行業務を担った。紙幣に印刷された機関名は、法的な通貨としての身分よりも早く人々の日常に浸透していた。[^3]
 
-新臺幣は早くから実際に流通していましたが、法的身分は長い間曖昧でした。1949年末、政府が臺湾に移駐した後、中央銀行は組織を縮小し、多くの業務を臺湾銀行に委託しました。その結果、鈔票には臺湾銀行の名前が印刷されていましたが、背後の通貨責務は徐々に中央銀行に回帰していきました。[^2]
+新台湾ドルは早期から実際に流通していたが、法的な地位は長らく曖昧なままだった。1949 年末に政府が台湾に移転した後、中央銀行は組織を縮小し、多くの業務を台湾銀行に委託した。紙幣発行もその一つだった。[^2]
 
-中央銀行は1961年7月1日に再開し、その後も臺湾銀行に鈔券発行を委託し続けました。この arrangement により、同じ鈔票が二つの身分を背負うことになりました：それは臺湾人の毎日使うお金であり、同時に法的名称と中央の責務が完全に整理されていない制度的残留物でもありました。[^2] [^3]
+紙幣には台湾銀行の名が印刷されていたが、裏側の通貨権限と責任は次第に中央銀行に戻っていった。[^2]
 
-![中央銀行第一ビルと第二ビル、中央銀行は1961年に臺湾で再開しました](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
+中央銀行は 1961 年 7 月 1 日に業務を再開したが、その後も台湾銀行に代理発行を委託し続けた。この取り決めにより、一枚の紙幣が二重の身分を背負うことになった。それは台湾の人々が日常的に使うお金であると同時に、法的名称と中央銀行の権限・責任がまだ完全に整理されていない制度上の遺産でもあった。[^2] [^3]
 
-_画像：Yu tptw、CC BY-SA 4.0。[Wikimedia Commons 画像詳細ページ](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) と [ライセンス条項](https://creativecommons.org/licenses/by-sa/4.0/deed.en) を参照。_
+![中央銀行第一庁舎と第二庁舎、中央銀行が 1961 年に台湾で業務再開](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
 
-この awkward さは官僚的文書だけで感じられるものではありません。英語の『Taipei Times』の歴史報道によると、新臺幣は長い間「地域通貨」として視されていましたが、それでも既に臺湾の事実上の法定取引手段でした。1961年中央銀行が再開してからも、発行権の arrangement はこの名称の矛盾を即座に解消しませんでした。[^5]
+_画像：Yu tptw、CC BY-SA 4.0。詳細は [Wikimedia Commons 画像詳細ページ](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) および [ライセンス条項](https://creativecommons.org/licenses/by-sa/4.0/deed.en) を参照。_
 
-1991年、元々法定通貨として存在していた銀元が廃止され、臺湾は一時期「実際には新臺幣を使用しているが、法的文章はまだ完全に追いついていない」という状態に陥しました。2000年1月、行政院は関連する発行規定を公表し、中菰民国の通貨は新臺幣であることを明記しました。同年7月、中央銀行は新臺幣の直接発行を開始しました。[^3] [^5]
+この気まずさは官僚文書だけで感じられるものではなかった。英字紙『Taipei Times』の歴史報道によれば、新台湾ドルは長い間「地方通貨」と見なされていた。すでに台湾における事実上の法定決済手段となっていたにもかかわらずだ。[^5]
 
-📝 策展人メモ：ある社会がある通貨を「国の通貨」として使い始めることができ、法律が数年後にそれを正式に認めることができるのです。
+1961 年に中央銀行が業務を再開した後も、発行権の取り決めはこの名称の矛盾をすぐには解消しなかった。[^5]
+
+1991 年、それまで法定通貨だった銀元が廃止され、台湾では一時「実際には新台湾ドルを使っているのに、法令の文言がまだ追いついていない」という状態が生じた。2000 年 1 月、行政院が関連発行規定を公布し、中華民国の通貨は新台湾ドルであると明確に定めた。同年 7 月、中央銀行が新台湾ドルを直接発行するようになった。[^3] [^5]
+
+📝 キュレーターノート：ある社会が特定のお金を「国のお金」として使い始めてから、法律が「みんながとっくに知っていたこと」を認めるまでには、何年もの時間がかかることがある。
 
 ## 金門の鈔票、通貨にも地理があることを教えてくれる
 
@@ -119,20 +125,20 @@ _画像：Yu tptw、CC BY-SA 4.0。[Wikimedia Commons 画像詳細ページ](htt
 
 ## 参考資料
 
-[^1]: [国家発展委員会公文書管理局：40,000対1：新臺幣の発行と流通](https://www.archives.gov.tw/tw/arctw/69-1989.html) — 行政院、臺湾銀行、中央銀行の公文書を通じて1949年の通貨改革、40,000対1の両替、発行上限、激しいインフレーション、金門・馬祖限地鈔券について説明。
+[^1]: [国家発展委員会公文書管理局：四万換一元：新台湾ドルの発行と流通](https://www.archives.gov.tw/tw/arctw/69-1989.html) — 行政院、台湾銀行および中央銀行の公文書に基づき、1949年の通貨改革、四万対一元の交換、発行上限、悪性インフレ、金門・馬祖限定紙幣について説明しています。
 
-[^2]: [国家発展委員会公文書管理局：直から横へ：新臺幣鈔票の発行と進化](https://www.archives.gov.tw/tw/arctw/69-1766.html) — 国家公文書を追跡し、横型鈔票、中央銀行の再開、外島地区発行、100元鈔デザイン、2000年の直接発行の制度的変化について説明。
+[^2]: [国家発展委員会公文書管理局：縦から横へ：新台湾ドル紙幣の発行と変遷](https://www.archives.gov.tw/tw/arctw/69-1766.html) — 国立公文書を用いて横型紙幣、中央銀行の再開、離島での分区発行、100元紙幣のデザイン、2000年の直接発行制度の変化を追跡しています。
 
-[^3]: [Ministry of Finance Museum: Bank of Taiwan issues New Taiwan Dollar specimen note](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — 財政省の英語史料により、臺幣と新臺幣の発行経緯、準備制度、額面変化、中央銀行の引き継ぎ、防偽印刷技術について整理。
+[^3]: [財政部博物館：台湾銀行発行の新台湾ドル見本券](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — 財政部の英文史料により、台湾ドルと新台湾ドルの発行沿革、準備制度、額面変更、中央銀行による引き継ぎ、偽造防止印刷技術が整理されています。
 
-[^4]: [Central Bank: New Taiwan Dollar Notes and Coins](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — 中央銀行が2000年の新シリーズ券幣、額面構成、硬貨の種類、2014年各額面鈔票が流通総額に占める割合について説明。
+[^4]: [中央銀行：新台湾ドル紙幣と硬貨](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — 中央銀行が2000年新シリーズの紙幣・硬貨、額面構成、硬貨の種類、2014年時点の各額面紙幣の流通総額における割合を説明しています。
 
-[^5]: [Taipei Times: Taiwan in Time: How the New Taiwan dollar became the national currency](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — 英語の歴史報道により、新臺幣が地域通貨から法定通貨への名称の矛盾、中央銀行の再開、2000年の法的定義について梳理。
+[^5]: [タイペイ・タイムズ：台湾の時代：新台湾ドルが法定通貨になるまで](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — 英語の歴史報道により、新台湾ドルが地方通貨から法定通貨になるまでの名称論争、中央銀行の再開、2000年の法的位置づけを整理しています。
 
-[^6]: [G. E. Makinen: The Taiwanese Hyperinflation and Stabilization of 1945–1952](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — RePEcに掲載された経済学ジャーナル論文の詳細ページで、1945年から1952年の臺湾のインフレーションと安定化研究の書誌と学術的脈絡を記録。
+[^6]: [G. E. マキネン：1945〜1952年の台湾のハイパーインフレと安定化](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — RePEcに収録された経済学雑誌記事の詳細ページで、1945〜1952年の台湾のインフレと安定化に関する研究の書誌と学術的文脈を記録しています。
 
-[^7]: [Central Bank Currency Museum: The Banknote and Its Design Tell a Story](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — 中央銀行券幣博物館が、現在の鈔票に印刷された山々、建築物、原生生物種、防偽グラフィックについて説明し、各額面のデザインの具体的背景を提供。
+[^7]: [中央銀行貨幣博物館：紙幣とそのデザインが語る物語](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — 中央銀行貨幣博物館が、現行紙幣に描かれた山岳、建築、固有種、偽造防止図柄を説明し、各額面の図案の具体的な背景を提供しています。
 
-[^8]: [Academia Sinica Institute of Taiwan History: 臺湾戦後の激しい物価膨張（1945–1950）](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — 中央研究院臺湾史研究所の学術書誌ページで、吳聰敏の戦後激しい物価膨張研究の正式な題名、刊行物、時間範囲を提供。
+[^8]: [中央研究院台湾史研究所：台湾戦後の悪性物価膨張（1945〜1950）](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — 中央研究院台湾史研究所の学術書目ページで、呉聰敏による戦後悪性物価膨張研究の正式タイトル、掲載誌、期間を提供しています。
 
-[^9]: [Bank of Taiwan: Bank History](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — 臺湾銀行の英語沿革ページで、日治時代と戦後の金融体系、国庫、通貨発行業務における機関的役割を説明。
+[^9]: [台湾銀行：銀行沿革](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — 台湾銀行の英文沿革ページで、日治時代および戦後の金融システム、国庫、通貨発行業務における機関としての背景を説明しています。

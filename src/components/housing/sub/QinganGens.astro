@@ -1,0 +1,72 @@
+---
+/**
+ * QinganGens：5.2 三代條件對照表（generations）。
+ * 桌面是表格；手機每一項展開成三行（CSS 堆疊），不需橫向捲動、不溢出頁面。
+ * 資料檔的格子只有中文，英文版用 EN_DATA.generations 的對照翻譯。
+ */
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { DATA, qinganSrc } from '../../../utils/housing/data';
+import { isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.gens;
+const q: any = DATA.qingan;
+const gens = q.generations as any[];
+const cell = (g: any, k: string): string =>
+  isZh(lang) ? g[k] : (EN_DATA.generations[g.id]?.[k] ?? g[k]);
+const rows = Object.keys(S.rows) as (keyof typeof S.rows)[];
+---
+
+<section class="hs-section" id="gens">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-rt-wrap">
+      <table class="hs-rt hs-rt-gen">
+        <thead>
+          <tr>
+            <th scope="col">{S.item}</th>
+            {
+              gens.map((g) => (
+                <th scope="col" class={g.id === 'v3' ? 'is-now' : ''}>
+                  {(S.names as any)[g.id]}
+                </th>
+              ))
+            }
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((k) => (
+              <tr>
+                <th scope="row">{S.rows[k]}</th>
+                {gens.map((g) => (
+                  <td
+                    data-label={(S.names as any)[g.id]}
+                    class={g.id === 'v3' ? 'is-now' : ''}
+                  >
+                    {cell(g, k)}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <SrcLine
+      lang={lang}
+      sources={[
+        qinganSrc('principles'),
+        qinganSrc('faq'),
+        qinganSrc('v3Release'),
+      ]}
+    />
+  </div>
+</section>

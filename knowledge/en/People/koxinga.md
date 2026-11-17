@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-09-25T16:58:19+08:00'
+translatedAt: '2026-11-07T00:08:35.526401+00:00'
 ---
 
 # Zheng Chenggong: Born in Japan, Raised in China, Died in Taiwan at Age Thirty-Seven

@@ -1,16 +1,16 @@
 ---
-title: "Alliés diplomatiques de Taïwan et diplomatie internationale : 12 alliés, 113 représentations à l'étranger, exemption de visa pour 177 pays (2026)"
-description: "Le 15 janvier 2024, soit 48 heures après l'élection de Lai Ching-te à la présidence, Nauru a annoncé la rupture de ses relations diplomatiques, faisant passer le nombre d'alliés de 13 à 12. Pourtant, la même année, Taïwan comptait 113 représentations à l'étranger, son passeport permettait de visiter 177 pays, TSMC produisait 90 % des puces avancées mondiales, et le Parlement européen a adopté une résolution (432:60:71) contre la distorsion par la Chine de la résolution 2758 de l'Assemblée générale des Nations Unies. Si la reconnaissance formelle semble se contracter, le réseau d'influence informel s'étend, et la bataille pour l'interprétation du droit international est en train de basculer."
+title: 'Les alliés diplomatiques de Taïwan et la diplomatie internationale : 12 alliés, 113 missions, 177 pays sans visa (2026)'
+description: "Le 15 janvier 2024, 48 heures après l'élection de Lai Ching-te à la présidence, Nauru a annoncé la rupture des relations diplomatiques, faisant passer le nombre d'alliés de 13 à 12. Mais la même année, Taïwan compte 113 missions à l'étranger, son passeport permet d'accéder à 177 pays, TSMC produit 90 % des puces avancées mondiales, et le Parlement européen a adopté par 432 voix pour, 60 contre et 71 abstentions une résolution s'opposant à la distorsion par la Chine de la résolution 2758 de l'Assemblée générale des Nations unies. La reconnaissance formelle se réduit, le réseau informel s'étend, et la bataille d'interprétation du droit international est en train de basculer."
 date: 2026-04-28
 category: 'Society'
 tags:
   [
-    'diplomatie',
-    'alliés diplomatiques',
-    'relations internationales',
-    'relations transstrait',
-    'Nations Unies',
-    'bouclier de silicium',
+    'Diplomatie',
+    'Alliés diplomatiques',
+    'Relations internationales',
+    'Cross-strait',
+    'Nations unies',
+    'Bouclier de silicium',
   ]
 subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
@@ -28,350 +28,363 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T11:56:52.664044+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T03:36:28.206132+00:00'
 ---
 
-# Les alliés diplomatiques de Taïwan et la diplomatie internationale : 12 pays alliés, 113 représentations et exemption de visa dans 177 pays
+# Taïwan, pays alliés et diplomatie internationale : 12 alliés, 113 missions, 177 pays sans visa
 
-> **Aperçu en 30 secondes :** Taïwan (République de Chine) compte actuellement **12 pays alliés**, soit le nombre d'alliés le plus faible parmi les principales économies mondiales. Parallèlement, Taïwan dispose d'environ **113 représentations diplomatiques** réparties dans **71 pays**, et son passeport permet d'accéder à **177 pays et régions**[^1]. TSMC produit environ 90 % des puces de haute performance mondiales[^2], et en 2024, le Parlement européen a adopté une résolution, par **432 voix contre 60 et 71 abstentions**, s'opposant à la distorsion de la résolution 2758 de l'ONU par la Chine[^3]. Ces trois ensembles de chiffres constituent l'essentiel de cet article.
+> **Aperçu en 30 secondes :** Taïwan (République de Chine) dispose actuellement de **12 pays alliés**, le nombre le plus faible parmi les principales économies mondiales. Dans le même temps, Taïwan a établi environ **113 missions à l'étranger** dans **71 pays**, les passeports de ses citoyens permettent d'accéder à **177 pays et territoires**[^1], TSMC produit environ 90 % des puces de pointe mondiales[^2], en 2024 le Parlement européen a adopté par **432 voix pour, 60 contre, 71 abstentions** une résolution s'opposant à la distortion par la Chine de la résolution 2758 des Nations unies[^3]. Ces trois séries de chiffres, mises côte à côte, constituent l'essentiel de cet article.
 
 ## Les 48 heures suivant l'élection de Lai Ching-te
 
-Le soir du 13 janvier 2024, Lai Ching-te a remporté l'élection présidentielle.
+Le soir du 13 janvier 2024, Lai Ching-te remporte l'élection présidentielle.
 
-Deux jours plus tard (le 15 janvier) à 11 h 45, le président de la République de Nauru, David Adeang, a tenu une conférence de presse dans la capitale, Yaren, pour annoncer que « Nauru reconnaît la République populaire de Chine comme le seul gouvernement légitime représentant la Chine », mettant ainsi fin aux relations diplomatiques avec la République de Chine ce jour même[^4].
+Deux jours plus tard (le 15 janvier), à 11 h 45, le président de la République de Nauru, David Adeang, tient une conférence de presse dans la capitale Yaren et annonce que « Nauru reconnaît la République populaire de Chine comme le seul gouvernement légitime représentant la Chine », rompant le jour même ses relations diplomatiques avec la République de Chine[^4].
 
-Le ministre des Affaires étrangères de l'époque, Joseph Wu, se trouvait ce jour-là au Guatemala.
+Le ministre des Affaires étrangères de l'époque, Wu Chao-hsieh, se trouvait au Guatemala ce jour-là.
 
-Sa réaction, selon les propos rapportés par des responsables du ministère des Affaires étrangères, fut celle d'une « grande colère » — car beaucoup d'efforts avaient été consacrés à Nauru[^5]. À 14 h 15, le secrétaire adjoint politique du ministère des Affaires étrangères, Tanaka Kuang, a tenu une conférence de presse à Taipei, révélant que le nouveau gouvernement de Nauru avait « exigé une aide financière exorbitante et s'était servi des offres de l'autre côté du détroit pour comparer les prix » : ce que Nauru demandait correspondait au déficit budgétaire laissé par la fermeture des centres de traitement des réfugiés en Australie (environ NT$2,6 milliards par an, soit plus de la moitié du budget annuel national de Nauru), auquel s'ajoutaient les fonds nécessaires aux infrastructures pour les Jeux du Pacifique de 2026[^6]. Après évaluation, Taïwan avait cherché à négocier une coopération avec des pays voisins ; les négociations étaient en cours lorsque la Chine a promis une aide annuelle de 100 millions USD à Nauru[^7]. Nauru a choisi l'offre la plus élevée.
+Selon des responsables du ministère des Affaires étrangères, sa réaction fut une « grande colère » — car Taïwan avait beaucoup investi dans sa relation avec Nauru[^5].
 
-> **📝 Note du conservateur**
-> En ce qui concerne les alliés diplomatiques, Taïwan s'est habitué à perdre. De 70 pays en 1969, il n'en reste que 12 en 2024 ; en cinquante ans, la moyenne est d'un peu plus d'un pays perdu par an. Mais en lisant cet article, vous réaliserez que le nombre d'alliés diplomatiques n'est en réalité qu'une seule des facettes de la diplomatie taïwanaise — et ce n'est pas la plus cruciale.
+À 14 h 15, le vice-ministre des Affaires étrangères T'ien Chung-kuang tient une conférence de presse à Taipei et révèle que le nouveau gouvernement de Nauru « a exigé une aide financière exorbitante et a mis en concurrence l'autre rive » : Nauru réclamait le déficit budgétaire laissé par la fermeture du centre de traitement des réfugiés australien sur son territoire (environ NT$2,6 milliards par an, soit plus de la moitié du budget annuel de Nauru), ainsi que les frais d'infrastructure pour les Jeux de Micronésie 2026[^6].
 
-## De 70 à 12 : cinquante ans de déclin
+Après évaluation, Taïwan a approché des pays voisins pour discuter d'une coopération conjointe ; les négociations étaient encore à mi-parcours lorsque la Chine a offert une aide annuelle de 100 millions de dollars US à Nauru[^7].
 
-| 70 → 22                                       | 21 → 12                           |
-| --------------------------------------------- | --------------------------------- |
-| 1969-1988 (Chiang Kai-shek, Chiang Ching-kuo) | 2016-2024 (8 ans de Tsai Ing-wen) |
+Nauru a choisi la partie offrant le montant le plus élevé.
 
-Le nombre d'alliés diplomatiques de la République de Chine a atteint son apogée non pas à l'époque actuelle de Taipei, mais durant le sommet de la guerre froide, quelques années seulement après la retraite de Nankin vers Taïwan. En 1969, le pays comptait 70 alliés, grâce à la configuration globale du camp anticommuniste[^8].
+> **📝 Note du curateur**
+> En ce qui concerne les alliés diplomatiques, Taïwan a l'habitude de perdre. Au sommet de 1969, il en comptait 70 ; en 2024, il n'en reste plus que 12. En cinquante ans, la moyenne dépasse une perte par an. Mais en lisant cet article, vous découvrirez que le nombre d'alliés diplomatiques n'est en réalité qu'un des fils de la diplomatie taïwanaise — et non le plus crucial.
 
-S'ensuivit une série de points de rupture :
+## De 70 à 12 : cinquante ans d'effondrement
 
-1. **25/10/1971** — L'Assemblée générale des Nations Unies adopte la résolution 2758. Avant le vote, Chou Shu-kai, représentant de la République de Chine auprès de l'ONU, monte spontanément à la tribune pour lire une déclaration de retrait : « Étant donné que les Nations Unies sont actuellement enveloppées par des émotions et des procédures irrationnelles, la délégation de la République de Chine cesse, dès à présent, de participer à toute réunion des Nations Unies. »[^9] Il quitte ensuite la salle en tête de sa délégation. La résolution est adoptée par 76 voix contre 35.
-2. **29/09/1972** — Rupture des relations avec le Japon. Kakuei Tanaka se rend à Pékin.
-3. **01/01/1979** — Rupture des relations avec les États-Unis. Le gouvernement Carter change de cap ; il faudra attendre avril pour que le _Taiwan Relations Act_ vienne pallier la situation[^10].
-4. **1989-1996** — Période de réaction de la « diplomatie pragmatique » de Lee Teng-hui, où le nombre d'alliés remonte de 22 à 31. La perte la plus douloureuse de cette période fut celle de la **Corée du Sud le 23/08/1992** : le gouvernement de Roh Tae-woo a exigé que le personnel de la mission de la République de Chine quitte le pays sous 24 heures, après avoir confisqué l'intégralité des terrains et bâtiments de l'ambassade pour les transférer à Pékin. Plus tard, dans les mémoires de diplomates retraités, cette scène a été résumée par une phrase : « Confiscation de l'ambassade, trahison des cinq tigres. »[^11]
-5. **2008-2016** — Période du « cessez-le-feu diplomatique » de Ma Ying-jeou. En 8 ans, un seul pays a rompu ses liens (la Gambie), mais aucun nouvel allié n'a été acquis. Cette stabilité s'est obtenue au prix des relations inter-détroit.
-6. **2016-2024** — Durant les 8 ans de Tsai Ing-wen, Taïwan a perdu un total de 10 alliés diplomatiques, ce qui constitue le record le plus élevé depuis la levée de la loi martiale. Le calendrier et les conditions imposées par la Chine pour chaque cas seront détaillés ci-après.
+| 70 → 22                                       | 21 → 12                        |
+| --------------------------------------------- | ------------------------------ |
+| 1969-1988 (Chiang Kai-shek, Chiang Ching-kuo) | 2016-2024 (Tsai Ing-wen 8 ans) |
 
-Ces chiffres sont froids. Pourtant, derrière chaque chiffre se cachent une négociation, une aide financière, ou la décision d'un président ou d'un roi.
+Le nombre de pays ayant des relations diplomatiques avec la République de Chine a atteint son sommet non pas à l'époque de Taipei, mais au pic de la guerre froide, quelques années après la retraite de Nankin vers Taïwan. En 1969, 70 pays, grâce à la configuration globale du bloc anti-communiste[^8].
 
-## Les 10 adieux de Tsai Ing-wen en 8 ans
+Voici une série de points de bascule :
 
-Ces 10 pays présentent un schéma commun : un nouveau gouvernement entre en fonction et formule des demandes d'aide financière plusieurs fois supérieures à celles du passé ; Taïwan refuse, et la Chine prend le relais[^12].
+1. **25/10/1971** — L'Assemblée générale de l'ONU adopte la résolution 2758. Le représentant de la République de Chine auprès de l'ONU, Chou Shu-kai, monte à la tribune avant le vote et lit une déclaration de retrait : « Parce que l'ONU est actuellement enveloppée dans une atmosphère irrationnelle d'émotion et de procédure, la délégation de la République de Chine, à partir de maintenant, ne participera plus à aucune réunion de l'ONU. »[^9] Il conduit ensuite la délégation hors de la salle. La résolution est adoptée par 76 voix contre 35.
+2. **29/09/1972** — Rupture diplomatique avec le Japon. Tanaka Kakuei se rend à Pékin.
+3. **01/01/1979** — Rupture diplomatique avec les États-Unis. L'administration Carter change de cap ; ce n'est qu'en avril que le _Taiwan Relations Act_ vient en remédier[^10].
+4. **1989-1996** — Période de rebond de la « diplomatie pragmatique » de Lee Teng-hui, le nombre de pays alliés passe de 22 à 31. La perte la plus douloureuse de cette période est la **Corée du Sud le 23/08/1992** : le gouvernement de Roh Tae-woo exige le départ du personnel de la République de Chine dans les 24 heures, les terrains et bâtiments de l'ambassade sont entièrement confisqués puis transférés à Pékin : plus tard, dans les mémoires de diplomates à la retraite, cette scène se résume en une phrase : « Ambassade confisquée, trahison des cinq tigres. »[^11]
+5. **2008-2016** — Période de « trêve diplomatique » de Ma Ying-jeou. En 8 ans, une seule rupture (Gambie), mais aucun nouvel allié. Cette stabilité a été achetée au prix des relations inter-détroit.
+6. **2016-2024** — En 8 ans, Tsai Ing-wen perd 10 alliés, un record depuis la levée de la loi martiale. Le calendrier de chaque rupture et les conditions posées par la Chine seront détaillés par la suite.
 
-1. **21/12/2016** — Sao Tomé-et-Principe
-2. **13/06/2017** — Panama. Le gouvernement Varela n'a donné aucun avertissement préalable.
-3. **01/05/2018** — République dominicaine
-4. **24/05/2018** — Burkina Faso
-5. **21/08/2018** — Salvador
-6. **16/09/2019** — Îles Salomon
-7. **20/09/2019** — Kiribati (perte de 2 pays en 4 jours, la semaine la plus intense de l'histoire des ruptures diplomatiques)
-8. **10/12/2021** — Nicaragua (gouvernement Ortega)
-9. **26/03/2023** — Honduras
-10. **15/01/2024** — Nauru
+Les chiffres sont froids. Mais derrière chaque chiffre se cache une négociation, un programme d'aide, la décision d'un président ou d'un roi.
 
-Le cas du Honduras mérite un arrêt sur image. Dès sa prise de fonction, le gouvernement Castro a présenté à la Chine un plan de construction de 6 milliards USD, tout en demandant à Taïwan une aide de 2,5 milliards USD, exigeant que l'aide annuelle initiale de 50 millions USD soit doublée, ainsi qu'une assistance pour restructurer 600 millions USD de dette[^13]. Il était impossible pour Taïwan de suivre un tel tarif.
+## Les 10 adieux des 8 années de Tsai Ing-wen
 
-> **✦** « La Chine veut seulement nous coloniser. »
+Ces 10 pays partagent un même schéma : un nouveau gouvernement arrive au pouvoir, présente à Taïwan des demandes d'aide financière plusieurs fois supérieures à celles du passé ; Taïwan refuse, la Chine accepte[^12].
 
-C'est ce que l'ancien vice-président du Honduras a déclaré aux médias en revenant sur les faits en 2024[^14]. Selon des révélations d'ETtoday en avril 2025, sur les montants initialement promis par la Chine, seuls 280 millions USD destinés à la rénovation d'écoles et 100 000 USD de dons médicaux ont réellement été versés à l'horizon 2025 ; la majeure partie du reste n'a jamais été honorée[^15].
+1. **2016/12/21** — Sao Tomé-et-Principe
+2. **2017/6/13** — Panama. Le gouvernement Varela n'a donné aucun avertissement préalable
+3. **2018/5/1** — République dominicaine
+4. **2018/5/24** — Burkina Faso
+5. **2018/8/21** — Salvador
+6. **2019/9/16** — Îles Salomon
+7. **2019/9/20** — Kiribati (perte de 2 pays en 4 jours, la semaine la plus dense de l'histoire des ruptures diplomatiques)
+8. **2021/12/10** — Nicaragua (gouvernement Ortega)
+9. **2023/3/26** — Honduras
+10. **2024/1/15** — Nauru
 
-Mais une fois que les relations diplomatiques sont rompues, rétablir les liens est presque impossible. Le regret ne permet pas de revenir en arrière.
+L'affaire du Honduras mérite qu'on s'y arrête. Dès son arrivée au pouvoir, le gouvernement Castro a présenté à la Chine un plan d'infrastructure de 6 milliards USD, a réclamé à Taïwan 2,5 milliards USD d'aide financière, exigé que Taïwan double son aide annuelle initiale de 50 millions USD, et demandé son aide pour restructurer une dette de 600 millions USD[^13]. Taïwan ne pouvait pas suivre ce prix.
 
-## Portrait des 12 pays : qui, pourquoi et partiront-ils ?
+> **✦** « La Chine veut seulement venir nous coloniser. »
 
-Douze alliés diplomatiques : 3 en Océanie, 1 en Afrique, 1 en Europe, et 7 en Amérique latine et dans les Caraïbes[^16]. Il est inutile de les considérer comme une simple liste ; il est plus utile d'observer ceux qui ont une histoire particulière.
+C'est ce qu'a déclaré l'ancien vice-président du Honduras en 2024, en regardant en arrière, aux médias[^14]. Selon les révélations d'ETtoday d'avril 2025, sur les montants promis initialement par la Chine, seuls 280 millions USD pour la rénovation d'écoles et 100 000 USD de dons médicaux avaient été effectivement versés à fin 2025 ; la grande majorité du reste n'a pas été honorée[^15].
 
-### Le Saint-Siège : le vote de 900 millions de catholiques
+Mais une fois qu'un allié diplomatique a rompu, le rétablissement des relations est presque impossible. Les regrets ne permettent pas de revenir en arrière.
 
-Établies en 1942 sous le gouvernement nationaliste, ces relations diplomatiques comptent aujourd'hui 84 ans et figurent parmi les plus anciennes encore existantes. Le Saint-Siège est un État observateur à l'ONU, ce qui en fait le **seul allié diplomatique de Taïwan non membre de l'ONU**[^17].
+## Portrait des 12 pays : qui, pourquoi, partiront-ils ?
 
-La véritable dynamique du Vatican ne se joue pas au ministère des Affaires étrangères, mais dans la nomination des évêques. En 2018, la Chine et le Vatican ont signé un accord provisoire sur la nomination des évêques, dont la dernière reconduction date de 2024. Si Pékin venait à nommer unilatéralement des évêques à l'avenir sans opposition du Vatican, la pérennité des relations diplomatiques avec Taïwan entrerait dans une phase d'incertitude.
+12 pays alliés, 3 en Océanie, 1 en Afrique, 1 en Europe, 7 en Amérique latine et dans les Caraïbes[^16]. Les lister comme une simple énumération n'a pas de sens. Il est plus utile d'examiner ceux qui ont une histoire.
 
-Après le décès du pape François en avril 2025, Robert Francis Prevost a été élu le 8 mai. Premier pape né en Amérique du Nord, il porte le nom de Léon XIV[^18]. Sa politique vis-à-vis de la Chine n'a pas encore été pleinement déployée.
+### Le Saint-Siège : un vote pour 900 millions de catholiques
 
-Lors d'une interview accordée à la PTS en mars 2025, le ministre des Affaires étrangères Lin Chia-lung a publiquement cité « Haïti et le Saint-Siège » comme deux alliés diplomatiques nécessitant une « attention particulière »[^19] : une formulation diplomatique, mais au message très clair.
+Des relations diplomatiques ont été établies en 1942 sous le gouvernement nationaliste, il y a 84 ans, ce qui en fait l'une des relations diplomatiques les plus anciennes encore en vigueur. Le Saint-Siège est un État observateur à l'ONU, **le seul allié diplomatique de Taïwan qui n'est pas membre de l'ONU**[^17].
 
-### Le Paraguay : l'unique représentant en Amérique du Sud, soutenu par la lignée du Parti Colorado depuis 69 ans
+La véritable dynamique du Saint-Siège ne se joue pas au ministère des Affaires étrangères, mais dans la nomination des évêques. La Chine et le Vatican ont signé un accord provisoire sur la nomination des évêques en 2018, renouvelé pour la dernière fois en 2024. Si Pékin venait à nommer unilatéralement des évêques à l'avenir et que le Vatican ne s'y opposait pas, la survie des relations diplomatiques Taïwan–Saint-Siège entrerait dans une période de test.
 
-Relations établies en 1957. C'est le **seul allié diplomatique de Taïwan en Amérique du Sud**. Depuis plus de soixante ans, le pays a traversé des crises de rupture diplomatique après le coup d'État de 1989, ainsi que la pression constante du marché chinois et des tentatives de séduction politique ; pour un contexte complet, voir 《[Paraguay et Taïwan](/fr/society/paraguay-taiwan/)》.
+En avril 2025, le pape François est décédé, et le 8 mai, Robert Francis Prevost a été élu, devenant le premier pape né en Amérique du Nord de l'histoire, sous le nom de Léon XIV (Leo XIV)[^18]. La ligne du nouveau pape à l'égard de la Chine ne s'est pas encore pleinement déployée.
 
-Le Parti Colorado (_Colorado Party_) au Paraguay exerce un pouvoir intermittent depuis 1947, soit plus de 70 ans. Son anticommunisme et sa proximité avec Taïwan sont des héritages structurels de la guerre froide. Le vainqueur de l'élection de 2023, Santiago Peña, est le candidat du Parti Colorado ; son adversaire du Parti Libéral prônait un examen de la politique envers Taïwan : en choisissant le Parti Colorado, les électeurs ont choisi le maintien des relations diplomatiques.
+Lors d'une interview à la télévision publique (PTS) en mars 2025, le ministre des Affaires étrangères Lin Chia-lung a publiquement placé « Haïti, le Saint-Siège » sur le même plan comme « deux pays alliés nécessitant une attention particulière »[^19] : les termes étaient diplomatiques, mais le sens était clair.
 
-En mai 2024, Peña s'est rendu personnellement à Taipei pour assister à l'investiture de Lai Ching-te[^20]. En novembre de la même année, lors de sa visite à Taïwan, le ministre paraguayen des Affaires étrangères Rubén Ramírez a déclaré publiquement :
+### Le Paraguay : le seul en Amérique du Sud, soutenu pendant 69 ans par l'héritage du Parti rouge
 
-> **✦** « Nous n'acceptons pas la rupture des relations avec Taïwan, quelles que soient les conditions. »[^21]
+Relations établies en 1957. **Le seul allié diplomatique de Taïwan en Amérique du Sud**, qui a traversé plus de soixante ans, survivant à la crise de rupture diplomatique suivant le coup d'État de 1989 ainsi qu'à la pression prolongée du marché chinois et des séductions politiques ; le contexte complet est disponible dans « [Le Paraguay et Taïwan](/fr/society/paraguay-taiwan/) ».
 
-Cependant, en juillet 2025, après une visite en Chine, le député du Parti Colorado Hugo Meza a proposé une résolution demandant l'abandon de Taïwan. Le consensus au sein de l'élite du Parti Colorado semble vaciller, même s'il n'a pas encore basculé.
+Le Parti rouge (Colorado Party) du Paraguay gouverne par intermittence depuis 1947, soit plus de 70 ans. L'anticommunisme et le soutien à Taïwan sont un héritage structurel de la guerre froide. Le vainqueur de l'élection de 2023, Santiago Peña, est le candidat du Parti rouge ; son adversaire du Parti libéral prônait une révision de la politique envers Taïwan : les électeurs ont choisi le Parti rouge, ce qui équivaut à choisir le maintien des relations diplomatiques.
 
-### Haïti : si instable que la Chine ne veut même pas s'y intéresser
+En mai 2024, Peña s'est personnellement rendu à Taipei pour assister à la cérémonie d'investiture de Lai Ching-te[^20]. En novembre de la même année, le ministre des Affaires étrangères du Paraguay, Rubén Ramírez, a déclaré publiquement lors de sa visite à Taïwan :
 
-Relations établies en 1956. C'est **le pays présentant le risque le plus élevé parmi les 12 alliés diplomatiques**.
+> **✦** « Nous n'acceptons pas de rompre les relations diplomatiques avec Taïwan sous quelque condition que ce soit. »[^21]
 
-Depuis l'assassinat de l'ancien président Jovenel Moïse en juillet 2021, Haïti est plongé dans une instabilité chronique dominée par les gangs. La capitale, Port-au-Prince, ressemble à un champ de bataille, et les élections prévues pour août 2025 par le gouvernement de transition ont été reportées à plusieurs reprises[^22].
+Mais en juillet 2025, le député du Parti rouge Hugo Meza, de retour d'un voyage en Chine, a présenté une proposition exigeant l'abandon de Taïwan. Le consensus des élites du Parti rouge à la base vacille, même s'il n'a pas encore basculé.
 
-Lin Chia-lung a désigné Haïti comme nécessitant une « attention particulière », mais un détail contre-intuitif subsiste : Haïti ne partira pas forcément, en partie parce que Taïwan peut la maintenir, et en partie parce que **la Chine n'en a pas nécessairement besoin**. Pour Pékin, le rapport coût-bénéfice d'un État défaillant, sans gouvernement stable, sans intérêts commerciaux et sans valeur stratégique, est peu élevé.
+### Haïti : un pays si chaotique que même la Chine ne veut pas l'arracher
 
-Cela révèle une logique rarement exprimée : la capacité de Taïwan à conserver un allié dépend parfois moins de ses propres efforts que de l'intérêt manifesté par la Chine.
+Relations établies en 1956. **Le plus risqué des 12 alliés diplomatiques**.
+
+Après l'assassinat de l'ancien président Moïse en juillet 2021, Haïti a plongé dans une instabilité prolongée sous le joug des gangs. La capitale, Port-au-Prince, ressemble à un champ de bataille, et les élections promises par le gouvernement de transition pour août 2025 ont été reportées à maintes reprises[^22].
+
+Lin Chia-lung a désigné Haïti comme « nécessitant une attention particulière », mais il y a un détail contre-intuitif : Haïti ne partira pas nécessairement, en partie parce que Taïwan peut le retenir, en partie parce que **la Chine n'en a pas nécessairement envie**. Un pays en ruine sans gouvernement stable, sans intérêts commerciaux, sans valeur stratégique, n'offre pas un bon rapport coût-bénéfice pour Pékin.
+
+Cette affaire révèle une logique que peu osent formuler : la capacité à conserver un allié diplomatique ne dépend pas toujours des efforts de Taïwan, mais de l'intérêt de la Chine.
 
 ### Tuvalu : 82 % de la population est en train de déménager
 
-Relations établies en 1979. Population d'environ 10 000 habitants. Le pays fait **face à une crise existentielle due à l'élévation du niveau de la mer** — les données du GIEC indiquent que le rythme de montée des eaux y est deux fois supérieur à la moyenne mondiale, avec une hausse de 14 cm au cours des 30 dernières années et une projection de 19 cm supplémentaires pour les 30 prochaines[^23].
+Relations diplomatiques établies en 1979. Population d'environ 10 000 habitants. **Face à la menace existentielle de la montée des eaux** — les données du GIEC indiquent que le niveau de la mer y monte à deux fois la moyenne mondiale, avec une hausse de 14 cm au cours des 30 dernières années et une possible augmentation supplémentaire de 19 cm dans les 30 prochaines années[^23].
 
-En juin 2025, l'Australie a ouvert le premier « visa climatique » au monde (un canal spécial sous le traité _Falepili Union_), permettant aux Tuvaluans de s'installer en Australie pour un séjour de longue durée. À la fin de l'année 2025, **environ 8 750 Tuvaluans avaient déposé une demande, soit l'équivalent de 82 % de la population nationale**[^24].
+En juin 2025, l'Australie a ouvert le premier « visa climatique » au monde (une voie spéciale sous le traité de l'Union Falepili), permettant aux Tuvaluens de s'installer durablement en Australie. Fin 2025, **environ 8 750 Tuvaluens avaient déposé une demande, soit 82 % de la population nationale**[^24].
 
-> **⚠️ La population d'un État allié est en train de migrer vers un pays non-allié par le biais de politiques officielles.**
-> Tuvalu ne disparaîtra pas demain, et l'Australie ne prendra pas le contrôle du pays instantanément. Cependant, le concept même de « souveraineté » est en train d'être redéfini dans ce cas précis. Si la majorité des citoyens d'un État allié résident dans un autre pays, utilisent son système de protection sociale et paient ses impôts, où se situe encore la nature « étatique » de cet allié ?
+> **⚠️ La population d'un allié diplomatique migre par voie politique vers un non-allié**
+> Tuvalu ne disparaîtra pas demain, l'Australie ne le reprendra pas demain non plus. Mais le concept de « souveraineté » se trouve redéfini dans ce cas. Si la majorité des ressortissants d'un allié diplomatique vit dans un autre pays, utilise son système de protection sociale et paie ses impôts, où réside encore la nature d'« État » de cet allié ?
 
-Taïwan et les Fidji sont les deux seuls États de pêche du Pacifique ayant signé la déclaration de soutien aux frontières maritimes de Tuvalu[^25]. C'est un soutien de Taïwan à l'argument suivant : « Même si votre territoire est submergé par la mer, votre souveraineté maritime demeure. »
+Taïwan et les Fidji sont les seuls deux États côtiers du Pacifique opérant des navires de pêche à avoir signé la déclaration soutenant les limites maritimes de Tuvalu[^25]. C'est le soutien de Taïwan au principe selon lequel « même si votre territoire est submergé, votre souveraineté maritime demeure la vôtre ».
 
 ### Eswatini : l'avion présidentiel de Lai Ching-te qui n'a pas pu décoller en avril 2026
 
-Relations établies en 1968. C'est le **dernier allié diplomatique de Taïwan en Afrique** — le pays ayant perdu 10 alliés africains au cours des 30 dernières années[^26]. Le roi Mswati III est l'un des derniers monarques absolus d'Afrique ; il s'est rendu personnellement à Taipei en mai 2024 pour l'investiture de Lai Ching-te.
+Relations diplomatiques établies en 1968. **Dernier allié diplomatique de Taïwan en Afrique** — 10 alliés africains perdus au cours des 30 dernières années[^26]. Le roi Mswati III, l'un des derniers monarques absolus d'Afrique, s'est rendu personnellement à Taipei en mai 2024 pour assister à l'investiture de Lai Ching-te.
 
-En avril 2026, Lai Ching-te devait initialement partir le 22 avril pour visiter l'Eswatini afin de célébrer une triple cérémonie : le 40e anniversaire du règne de Mswati III, son 58e anniversaire et les 58 ans d'indépendance du pays.
+En avril 2026, Lai Ching-te devait partir le 22 avril pour une visite d'État à Eswatini, afin de célébrer une triple cérémonie : le 40e anniversaire de l'accession au trône de Mswati III, ses 58 ans et le 58e anniversaire de l'indépendance du pays.
 
-Douze heures avant le départ, le voyage a été suspendu.
+Douze heures avant le départ, le voyage a été reporté.
 
-Le ministère des Affaires étrangères a expliqué que certains pays sur la route de l'avion présidentiel avaient temporairement annulé les autorisations de survol. L'équipe de sécurité nationale a décidé de reporter le voyage pour des raisons de sécurité du chef de l'État, et a chargé le ministre des Affaires étrangères Lin Chia-lung de se rendre en Eswatini en tant qu'envoyé spécial du président[^27]. Lin Chia-lung est arrivé en Eswatini dans la nuit du 25 avril — il a d'abord volé de Taïwan vers Vienne, en Autriche, avant de prendre un jet privé Gulfstream de la compagnie Qatar Airways au départ de Vienne. Il a traversé le continent africin pour entrer sur le territoire, **évitant délibérément les espaces aériens des Seychelles, de l'île Maurice et de Madagascar**.
+Le Ministère des Affaires étrangères a expliqué que plusieurs pays sur la route de l'avion présidentiel avaient révoqué leur autorisation de survol à la dernière minute ; l'équipe de sécurité nationale, invoquant la sécurité du chef d'État et du vol, a décidé de reporter le déplacement et d'envoyer à la place le ministre des Affaires étrangères Lin Chia-lung en tant qu'envoyé spécial du président[^27].
 
-Cet itinéraire détourné illustre clairement la situation : la zone de pression de la Chine s'étend désormais des alliés diplomatiques eux-mêmes à leurs voisins. Le blocus aérien en Afrique est une nouvelle méthode qui émerge depuis 2024.
+Lin Chia-lung est arrivé à Eswatini aux petites heures du 25 avril — il a d'abord volé de Taïwan vers Vienne en Autriche, puis a embarqué sur un Gulfstream privé affrété par Qatar Airways au départ de Vienne, entrant par le continent africain **en évitant délibérément l'espace aérien des Seychelles, de Maurice et de Madagascar**.
 
-## Pourquoi n'en reste-t-il que 12 ?
+Cette route sinueuse en dit long. La pression chinoise s'est étendue de l'allié lui-même à ses voisins — le blocus aérien africain est une nouvelle tactique apparue après 2024.
 
-Il existe trois raisons structurelles, il n'y a pas de réponse unique :
+## Pourquoi il n'en reste que 12
 
-### 1. La « guerre de la traduction » de la résolution 2758 des Nations Unies
+Il y a trois causes structurelles, pas de réponse unique.
 
-Le 25 octobre 1971, l'Assemblée générale des Nations Unies a adopté la résolution 2758 par 76 voix pour, 35 contre et 17 abstentions. Le texte original en chinois ne contient qu'un seul paragraphe :
+### 1. La « guerre de traduction » de la résolution 2758 des Nations unies
 
-> Décide : de restaurer tous les droits de la République populaire de Chine, de reconnaître le gouvernement de la République populaire de Chine comme le seul représentant légitime de la Chine auprès de l'Organisation des Nations Unies, et d'expulser immédiatement les représentants de Chiang Kai-shek de tous les sièges qu'ils occupent illégalement au sein de l'Organisation des Nations Unies et de tous ses organismes subordonnés. [^28]
+Le 25 octobre 1971, l'Assemblée générale des Nations unies adopte la résolution 2758 par 76 voix pour, 35 contre et 17 abstentions. La version originale en chinois ne comporte qu'un seul paragraphe :
 
-Notez quatre points : le texte original ne mentionne pas « Taïwan », ne mentionne pas la « République de Chine », n'autorise pas le « principe d'une seule Chine » et n'interdit pas la participation de Taïwan au système des Nations Unies.
+> Décide : de rétablir tous les droits de la République populaire de Chine, de reconnaître les représentants de son gouvernement comme les seuls représentants légitimes de la Chine auprès de l'Organisation des Nations unies, et d'expulser immédiatement les représentants de Chiang Kai-shek du siège qu'ils occupent illégalement à l'Organisation des Nations unies et dans toutes les organisations qui en dépendent.[^28]
 
-Cependant, au cours du dernier demi-siècle, la Chine a systématiquement traduit ce paragraphe par : « La résolution 2758 équivaut au principe d'une seule Chine = Taïwan fait partie de la Chine = aucun pays ne doit établir de relations officielles avec Taïwan ». Cette interprétation extensive commence à être formellement contestée depuis 2024.
+Notons quatre points : le texte original ne mentionne pas « Taïwan », ne mentionne pas « République de Chine », n'autorise pas le « principe d'une seule Chine » et n'interdit pas à Taïwan de participer au système des Nations unies.
 
-En avril 2024, le coordinateur américain pour la Chine au Département d'État, Mark Lambert, a publiquement déclaré quatre positions [^29] :
+Mais la Chine a passé le dernier demi-siècle à traduire ce paragraphe par « 2758 = principe d'une seule Chine = Taïwan fait partie de la Chine = aucun pays ne doit établir de relations officielles avec Taïwan » — cette interprétation extensive commence à être frontalement réfutée en 2024.
 
-1. La résolution 2758 ne reconnaît pas, n'est pas équivalente et ne reflète pas le consensus de quelque pays que ce soit sur le « principe d'une seule Chine » de la Chine.
-2. Cette résolution ne limite pas le choix souverain de tout pays concernant des échanges substantiels avec Taïwan.
-3. Cette résolution ne constitue pas la position officielle des Nations Unies sur le statut politique final de Taïwan.
-4. Cette résolution n'exclut pas la participation significative de Taïwan au système des Nations Unies et à d'autres forums multilatéraux.
+En avril 2024, le coordinateur pour la Chine du département d'État américain, Mark Lambert, publie une déclaration en quatre points[^29] :
 
-Le 18 septembre de la même année, lors de son témoignage devant la Commission des affaires étrangères de la Chambre des représentants, le sous-secrétaire d'État américain Kurt Campbell a directement indiqué que « la Chine utilise la résolution 2758 comme un outil pour nuire au statut de Taïwan ». Le 23 avril 2025, les États-Unis ont publiquement critiqué l'usage abusif de la résolution 2758 par la Chine lors d'une réunion du Conseil de sécurité des Nations Unies [^30].
+1. La résolution 2758 n'approuve pas, n'est pas équivalente à, ne reflète pas le consensus d'aucun pays sur le « principe d'une seule Chine » de la Chine
+2. Cette résolution n'impose aucune limite au choix souverain de tout pays d'entretenir des relations substantielles avec Taïwan
+3. Cette résolution ne constitue pas la position officielle des Nations unies sur le statut politique final de Taïwan
+4. Cette résolution n'exclut pas la participation significative de Taïwan au système des Nations unies et aux autres forums multilatéraux
 
-Le 24 octobre 2024, le Parlement européen a adopté une résolution par **432 voix pour, 60 contre et 71 abstentions**, s'opposant à la distorsion de la résolution 2758 par la Chine, condamnant les provocations militaires envers Taïwan et positionnant Taïwan comme un « partenaire clé de l'UE et un allié démocratique dans l'Indopacifique » [^31]. Au cours de la même année, les parlements d'Australie, de Belgique, du Canada, de la République tchèque, des Pays-Bas et du Royaume-Uni ont également adopté des motions similaires.
+Le 18 septembre de la même année, le secrétaire d'État adjoint américain Kurt Campbell témoigne devant la commission des affaires étrangères de la Chambre des représentants en soulignant directement que « la Chine utilise la résolution 2758 comme un outil pour porter atteinte au statut de Taïwan ». Le 23 avril 2025, les États-Unis critiquent publiquement l'utilisation abusive de la résolution 2758 par la Chine lors d'une réunion du Conseil de sécurité des Nations unies[^30].
 
-> **📝 Note du conservateur**
-> La résolution 2758 est un texte écrit en 1971. Personne ne l'a modifié depuis 50 ans. Mais au cours de ces 50 années, la manière dont ce texte est interprété est en train d'évoluer de façon inverse — c'est un phénomène rare en droit international : le texte original reste inchangé, mais le consensus change.
+Le 24 octobre 2024, le Parlement européen adopte à **432 voix pour, 60 contre et 71 abstentions** une résolution s'opposant à la distortion de la résolution 2758 par la Chine, condamnant les provocations militaires contre Taïwan, et qualifiant Taïwan de « partenaire clé de l'UE et allié démocratique en Indo-Pacifique »[^31]. La même année, les parlements d'Australie, de Belgique, du Canada, de Tchéquie, des Pays-Bas et du Royaume-Uni adoptent également des motions similaires.
+
+> **📝 Note du curateur**
+> La résolution 2758 est un paragraphe écrit en 1971. Personne ne l'a modifié pendant 50 ans. Mais la façon dont ce paragraphe a été interprété pendant 50 ans est en train de s'inverser — c'est une chose rare en droit international : le texte original n'a pas changé, mais le consensus a changé.
 
 ### 2. L'arsenal de pression de la Chine
 
-L'arsenal de la Chine ne se limite pas à un seul type d'outil ; il repose sur une combinaison de cinq méthodes :
+L'arsenal de la Chine ne se limite pas à un seul outil ; cinq éléments fonctionnent en combinaison :
 
-- **L'aide financière** : promesse d'un plan de 6 milliards USD pour le Honduras, 100 millions NT$ par an pour Nauru, ou l'utilisation de projets d'infrastructure comme levier pour les îles Salomon et Kiribati. Le taux de réalisation des promesses est historiquement faible (dans le cas du Honduras, seuls 280 millions NT$ ont été réellement versés), mais le montant suffit au moment de la signature.
-- **L'infiltration par le bilatéralisme** : manipulation via des parlementaires pro-Chine dans certains pays (comme un député paraguayen proposant de rompre avec Taïwan après une visite en Chine) ou des contacts individuels entre ministres des Affaires étrangères (le ministre guatémaltèque prévoyait, en février 2024, de développer le commerce avec Pékin tout en maintenant ses relations diplomatiques).
-- **Le blocage dans les organisations internationales** : en utilisant l'argument « 2758 = principe d'une seule Chine », la Chine exige que les organisations excluent Taïwan (le cas le plus emblématique étant celui de l'OMS qui, depuis 2017, refuse d'inviter Taïwan à participer à l'Assemblée mondiale de la santé en tant qu'observateur [^32]).
-- **La coercition économique** : après que la Lituanie a accepté en 2021 d'établir un « Bureau de représentation taïwanais » (utilisant « Taiwanese » plutôt que le terme « Taipei » couramment utilisé en Europe), la Chine a immédiatement dégradé ses relations diplomatiques, retiré son ambassadeur et interdit l'importation de marchandises lituaniennes [^33]. Le cas lituanien est devenu un modèle pour l'UE afin d'étudier comment résister à la coercition économique chinoise.
-- **Le blocus aérien** : une nouvelle version de cette pression s'est manifestée en avril 2026, ciblant les escales africaines aux Seychelles, à Maurice et à Madagascar.
+- **Aide financière** : promesse d'un plan de 6 milliards USD au Honduras, 100 millions USD par an à Nauru, liaison d'infrastructures aux Îles Salomon et aux Kiribati. Le taux de tenue des promesses est traditionnellement bas (le cas du Honduras : 2,8 milliards réellement versés), mais la signature suffit sur le moment.
+
+- **Infiltration bilatérale** : via des parlementaires pro-Chine de pays spécifiques (ex. : un député paraguayen propose de rompre avec Taïwan après une visite en Chine), contacts individuels de ministres des Affaires étrangères (le ministre guatémaltèque prévoyait en février 2024 de développer le commerce avec Pékin tout en maintenant les relations diplomatiques), opérant sur plusieurs pistes.
+
+- **Blocage dans les organisations internationales** : sur la base argumentaire « 2758 = principe d'une seule Chine », exiger l'exclusion de Taïwan des organisations (le cas le plus emblématique : l'OMS refuse depuis 2017 d'inviter Taïwan à participer à l'AMS en tant qu'observateur[^32]).
+
+- **Coercition économique** : après que la Lituanie a accepté en 2021 l'ouverture d'un « Taiwanese Representative Office » (utilisant « Taiwanese » et non « Taipei » comme c'était l'usage en Europe), la Chine abaisse immédiatement le niveau des relations diplomatiques, retire son ambassadeur en Lituanie, interdit l'importation de marchandises lituaniennes[^33]. Le cas lituanien devient par la suite une référence pour l'UE sur la manière de résister à la coercition économique chinoise.
+
+- **Encirclement aérien** : en avril 2026, pression sur les escales africaines aux Seychelles, à Maurice et à Madagascar, une nouvelle version qui émerge.
 
 ### 3. L'économie politique des petits États
 
-Parmi les 12 alliés diplomatiques, 9 ont une population inférieure à un million d'habitants. Leur économie dépend fortement de l'aide étrangère, les risques climatiques sont urgents et le pouvoir décisionnel est concentré entre les mains de quelques individus. Ce sont des conditions structurelles, dépourvues de dimension morale — la décision prise par un président de Nauru peut être le point de bascule déterminant pour savoir si une année entière de travail du ministère taïwanais des Affaires étrangères sera préservée ou non.
+Sur les 12 pays ayant des relations diplomatiques, 9 comptent moins d'un million d'habitants. Leurs finances dépendent fortement de l'aide extérieure, les risques climatiques sont urgents, le pouvoir de décision est concentré entre quelques mains. Ce sont toutes des conditions structurelles, sans jugement moral — une décision du président de Nauru peut être le point de bascule qui détermine si le travail d'une année entière du ministère des Affaires étrangères de Taïwan aura été préservé.
 
-Pour ces pays, établir des relations avec la Chine signifie une aide financière plus importante, des marchés plus vastes et davantage d'infrastructures. **Pour les petits États, il s'agit d'une stratégie de survie dans le contexte de la compétition entre grandes puissances.** La diminution du nombre d'alliés diplomatiques est, par essence, une constante de la reconfiguration de l'ordre mondial.
+Pour ces pays, établir des relations diplomatiques avec la Chine signifie une aide financière plus importante, des marchés plus vastes, davantage d'infrastructures. **Pour les petits États, c'est une stratégie de survie dans le paysage de la compétition entre grandes puissances.** La réduction du nombre de pays ayant des relations diplomatiques est, en substance, une constante de la recomposition du paysage des grandes puissances.
 
-## 113 représentations pour 12 pays alliés
+## Les 113 missions derrière les 12 pays
 
-L'ancien calcul reposait sur le nombre de pays ayant des relations diplomatiques officielles. Le nouveau calcul repose sur la densité du réseau à l'étranger.
+L'ancien calcul reposait sur le nombre de pays ayant des relations diplomatiques. Le nouveau calcul repose sur la densité du réseau de représentations à l'étranger.
 
-En décembre 2025, Taïwan dispose d'environ 113 représentations à l'étranger[^34] dans 71 pays, 2 régions (Hong Kong, Macao) et 1 organisation internationale (l'OMC), comprenant 12 ambassades officielles (dans les 12 pays alliés) et plus de 100 points d'ancrage diplomatiques effectifs opérant sous le nom de « bureaux de représentation » ou « bureaux ».
+Au décembre 2025, Taïwan dispose d'environ 113 missions à l'étranger dans 71 pays, 2 territoires (Hong Kong, Macao) et 1 organisation internationale (OMC)[^34], incluant 12 ambassades officielles (dans les 12 pays ayant des relations diplomatiques), ainsi que plus de 100 missions diplomatiques de facto opérant sous les noms de « bureaux de représentation » ou « bureaux d'affaires ».
 
-Les relations entre Taïwan et les États-Unis sont les plus représentatives. Après la rupture des relations diplomatiques en 1979, les deux parties ont établi des institutions mutuelles :
+L'exemple le plus représentatif est la relation entre Taïwan et les États-Unis. Après la rupture diplomatique de 1979, les deux parties ont établi des institutions mutuelles :
 
-- **TECRO** (Bureau de représentation économique et culturelle de Taipei) à Washington D.C., avec 12 bureaux locaux (Atlanta, Boston, Chicago, Denver, Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Guam).
-- **AIT** (Association américaine à Taïwan) à Taipei.
+- **TECRO** (Bureau de représentation économique et culturel de Taipei) à Washington D.C., avec 12 bureaux annexes (Atlanta, Boston, Chicago, Denver, Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Guam)
+- **AIT** (Association américaine à Taïwan) à Taipei
 
-Ces institutions ne s'appellent pas des ambassades, mais leurs fonctions sont strictement identiques : visas, commerce, échanges culturels, protection consulaire et coordination des ventes d'armes. Le **modèle TECRO/AIT** est devenu par la suite un exemple pour les autres pays n'ayant pas de relations diplomatiques officielles avec Taïwan.
+Ces institutions ne portent pas le nom d'ambassades, mais leurs fonctions sont identiques : visas, commerce, échanges culturels, protection consulaire, coordination des ventes d'armes. Le **modèle TECRO/AIT** est ensuite devenu le modèle pour les relations d'autres pays sans relations diplomatiques avec Taïwan.
 
 Deux évolutions récentes :
 
-- **En novembre 2021**, la Lituanie a ouvert le « Taiwanese Representative Office » — la première représentation en Europe à utiliser le nom « Taiwanese » (plutôt que « Taipei »), ce qui a été considéré par la Chine comme le franchissement d'une ligne rouge[^35].
-- **En mars 2020**, l'administration Trump a signé le **TAIPEI Act** (_Taiwan Allies International Protection and Enhancement Initiative Act_, Pub.L. 116-135), autorisant le Département d'État à intervenir pour protéger les pays alliés de Taïwan et à soutenir l'adhésion de Taïwan aux organisations internationales sans exigence de citoyenneté[^36].
+- **Novembre 2021** : la Lituanie ouvre un « Taiwanese Representative Office » — le premier bureau de représentation en Europe à utiliser « Taiwanese » (au lieu de « Taipei ») dans son nom, ce que la Chine considère comme le franchissement d'une ligne rouge[^35].
+- **Mars 2020** : l'administration Trump aux États-Unis signe le **TAIPEI Act** (Taiwan Allies International Protection and Enhancement Initiative Act, Pub.L. 116-135), autorisant le Département d'État à intervenir pour protéger les pays ayant des relations diplomatiques avec Taïwan et soutenant l'adhésion de Taïwan aux organisations internationales ne requérant pas la qualité d'État[^36].
 
-**Le fait même que les États-Unis protègent les pays alliés de Taïwan** est un signe de l'implication profonde des pays n'ayant pas de relations diplomatiques officielles dans les affaires diplomatiques de Taïwan — alors que, traditionnellement, les affaires concernant les pays alliés devraient être traitées par les deux parties ayant des liens diplomatiques.
+Le fait même que **les États-Unis protègent les pays ayant des relations diplomatiques avec Taïwan** est le signe de l'implication profonde de pays sans relations diplomatiques dans les affaires diplomatiques de Taïwan — traditionnellement, les affaires entre pays ayant des relations diplomatiques devraient être gérées par les deux parties concernées.
 
-## Un passeport pour 177 pays : une autre mesure de la reconnaissance
+## Le passeport permet d'accéder à 177 pays : une autre mesure de la reconnaissance
 
-Selon les statistiques officielles du ministère des Affaires étrangères au 30 janvier 2026, le passeport de la République de Chine bénéficie de facilités telles que l'exemption de visa, le visa à l'arrivée ou le visa électronique, permettant d'entrer dans **177 pays et régions** à travers le monde[^37].
+Selon les statistiques officielles du Ministère des Affaires étrangères du 30 janvier 2026, le passeport de la République de Chine (RDC) bénéficie d'exemptions de visa, de visas à l'arrivée et de visas électroniques, permettant d'entrer dans **177 pays et territoires** à travers le monde[^37].
 
-Dans le Henley Passport Index 2026, le passeport taïwanais se classe aux alentours de la 33e place mondiale, un rang proche de celui du Japon et de la Corée du Sud.
+L'indice de classement des passeports (Henley Passport Index) 2026 classe le passeport de Taïwan autour de la 33e place mondiale, proche de ceux du Japon et de la Corée du Sud.
 
-La grande majorité de ces 177 pays n'ont pas de relations diplomatiques officielles avec Taïwan. **Ce qui permet au passeport de circuler, ce ne sont pas les relations diplomatiques, mais la confiance bilatérale, les liens économiques, le faible taux de criminalité et l'absence d'antécédents d'immigration illégale.** Le ratio entre le nombre de pays alliés diplomatiques et le nombre de destinations accessibles avec le passeport est de 12:177, soit environ 1:15.
+Parmi ces 177 pays et territoires, la grande majorité n'entretient pas de relations diplomatiques avec Taïwan. **Ce qui permet la libre circulation du passeport, ce ne sont pas les relations diplomatiques, mais la confiance bilatérale, les liens économiques, les faibles taux de criminalité et les faibles antécédents d'immigration illégale.** Le ratio entre le nombre de pays ayant des relations diplomatiques et le nombre de pays accessibles avec le passeport est de 12:177, soit environ 1:15.
+
+Ce chiffre se lit facilement comme « le passeport circule librement dans le monde », il faut donc clarifier deux points. Premièrement, **177 ne signifie pas que tous sont exemptés de visa** : le Bureau des affaires consulaires du Ministère des Affaires étrangères regroupe dans une même liste trois types de facilités — exemption de visa, visa à l'arrivée et visa électronique — or le visa à l'arrivée et le visa électronique nécessitent encore des démarches et peuvent être refusés[^37]. Deuxièmement, les pays et territoires hors de cette liste sont ceux qui exigent une demande de visa préalable, et cette liste elle-même évolue — l'article cite la version du 30 janvier 2026, la page du Bureau des affaires consulaires ayant été mise à jour ultérieurement le 22 octobre 2026[^37]. Les voyageurs doivent se référer aux dernières annonces du pays de destination, et non se fier à cet article.
 
 > **⚠️ Un paradoxe**
-> La longueur de la liste des pays alliés diplomatiques et la mobilité internationale réelle des citoyens sont inversement proportionnelles. L'augmentation du nombre d'alliés diplomatiques provient souvent de petits États acceptant d'établir des relations après la conclusion d'une aide financière ; l'augmentation du nombre de pays accessibles avec le passeport est due à l'image de marque du pays, à son dossier de sécurité et à la réciprocité des visas. Cette dernière est plus difficile à obtenir que la première, mais elle est également plus fiable.
+> La longueur de la liste des pays à relations diplomatiques et la mobilité internationale réelle des citoyens sont inversement proportionnelles. L'augmentation du nombre de pays à relations diplomatiques tient surtout au fait que de petits États acceptent d'établir des relations après des négociations d'aide financière ; l'augmentation du nombre de pays accessibles au passeport tient à l'image du pays, aux antécédents de sécurité et à la réciprocité en matière de visas. Ce dernier facteur est plus difficile à obtenir que le premier, mais aussi plus fiable.
 
-## Le bouclier de silicium : 90 %, 30 % et une arme à double tranchant
+## Bouclier de silicium : 90 %, 30 %, double tranchant
 
-En 2026, TSMC produira environ 90 % des puces haut de gamme mondiales[^38]. Ce chiffre n'est pas un argument de relations publiques, mais le reflet des registres d'achats réels de NVIDIA, Apple, AMD, Qualcomm et Intel.
+En 2026, TSMC produit environ 90 % des puces haut de gamme mondiales[^38]. Ce chiffre n'est pas du langage de relations publiques, ce sont les véritables registres d'approvisionnement de NVIDIA, Apple, AMD, Qualcomm et Intel.
 
-C'est là que réside la base matérielle du concept de « **bouclier de silicium** » : les principales puissances mondiales ont besoin des puces de Taïwan, ce qui garantit le statut international de l'île bien plus efficacement que les promesses formelles de ses 12 alliés diplomatiques. Si la Chine attaquait Taïwan, les chaînes d'approvisionnement mondiales de l'IA, des smartphones et de l'automobile s'arrêteraient en moins de deux mois.
+C'est la base matérielle du concept de « bouclier de silicium » : le besoin des pays majeurs pour les puces de Taïwan garantit davantage la position internationale de Taïwan que les engagements sur papier de ses 12 alliés diplomatiques. Si la Chine attaque Taïwan, les chaînes d'approvisionnement mondiales de l'IA, des smartphones et de l'automobile s'arrêteraient en deux mois.
 
-Cependant, le bouclier de silicium est en train d'être auto-érodé par sa propre expansion. TSMC a construit en Arizona 5 usines (_fabs_), 2 sites de packaging avancé et 1 centre de R&D, pour un investissement total de 165 milliards USD. La première usine a déjà commencé la production de masse de puces en 4 nm en 2025 et a débuté la fabrication des processeurs d'IA Blackwell de NVIDIA — **c'est la première fois que TSMC produit des puces d'IA de pointe en dehors de Taïwan**[^39]. La deuxième usine devrait produire du 3 nm en masse dès 2027, et la troisième du 2 nm en 2029. Une fois l'ensemble achevé, environ 30 % des puces les plus avancées au monde seront produites aux États-Unis[^40].
+Mais le bouclier de silicium est en train d'être affaibli par sa propre expansion. TSMC construit en Arizona 5 usines (fab) + 2 usines d'encapsulage avancé + 1 centre de R&D, pour un investissement total de 165 milliards USD. La première usine a déjà commencé la production de masse en 4 nm en 2025 et a entamé la sous-traitance des processeurs IA Blackwell de NVIDIA — c'est la première fois que TSMC produit des puces IA de pointe hors de Taïwan[^39]. La deuxième usine devrait produire en 3 nm en 2027, la troisième en 2 nm en 2029. Une fois toutes achevées, environ 30 % des puces les plus avancées au monde seront produites aux États-Unis[^40].
 
-> **✦** « There was a moment when everybody started waking up to the dependence on TSMC. » (Il y a eu un moment où tout le monde a commencé à prendre conscience de sa dépendance envers TSMC.)
+> **✦** « There was a moment when everybody started waking up to the dependence on TSMC. » (Le moment où chacun a pris conscience de sa dépendance à TSMC)
 
-C'est l'observation de Bonnie Glaser, directrice du programme Indo-Pacifique du GMF[^41]. Elle souligne également que l'expansion en Arizona pourrait « _endangering Taiwan's strategic importance by damaging its silicon shield_ » (mettre en péril l'importance stratégique de Taïwan en affaiblissant son bouclier de silicium).
+C'est l'observation de Bonnie Glaser, directrice du programme Indo-Pacifique du GMF[^41]. Elle souligne également que l'expansion en Arizona pourrait « endangering Taiwan's strategic importance by damaging its silicon shield » (mettre en péril l'importance stratégique de Taïwan en affaiblissant son bouclier de silicium).
 
-Le titre de la revue _MIT Technology Review_ d'août 2025 est sans détour : « **Taiwan's silicon shield could be weakening** » (Le bouclier de silicium de Taïwan pourrait s'affaiblir)[^42].
+Le MIT Technology Review d'août 2025 titrait sans détour : « Taiwan's silicon shield could be weakening »[^42].
 
-L'existence du bouclier de silicium n'a jamais été une décision que Taïwan pouvait prendre unilatéralement. Son efficacité repose sur le monopole du fait que « Taïwan est le seul endroit capable de produire du 2 nm » — dès lors que ce monopole est dispersé, la base physique du bouclier s'amenuise.
+Le bouclier de silicium n'a jamais été quelque chose que Taïwan puisse décider unilatéralement. Son efficacité repose sur le monopole selon lequel « Taïwan est le seul endroit capable de faire du 2 nm » — une fois ce monopole dispersé, la base physique du bouclier de silicium est réduite.
 
-C'est le véritable défi diplomatique de l'ère Lai Ching-te : **comment faire en sorte que l'expansion en Arizona, tout en réduisant la dépendance des États-Unis envers Taïwan, ne réduise pas pour autant la volonté politique des États-Unis de défendre l'île**. Personne n'a encore de réponse toute prête.
+C'est le véritable défi diplomatique de l'ère Lai Ching-te : comment faire en sorte que l'expansion en Arizona réduise la dépendance des États-Unis à l'égard de Taïwan, sans pour autant diminuer la volonté politique américaine de défendre Taïwan. Personne n'a de réponse toute faite.
 
-## Le véritable risque de la disparition des alliés diplomatiques
+## Le véritable risque de la chute à zéro des alliés diplomatiques
 
-Beaucoup de gens demandent : si un jour les 12 alliés diplomatiques venaient à rompre tous leurs liens, que se passerait-il ?
+Beaucoup se demandent : que se passerait-il si, un jour, les 12 pays ayant des relations diplomatiques rompaient tous leurs liens ?
 
-Sur le plan dramatique, il ne se passerait peut-être rien. Taïwan et les États-Unis n'ont pas de relations diplomatiques formelles, pourtant les ventes militaires s'élèvent à plusieurs milliards de dollars chaque année ; Taïwan et le Japon n'ont pas non plus de relations diplomatiques, mais le Japon est l'une des principales sources de touristes pour Taïwan. Les relations substantielles ne dépendent pas du nombre d'alliés diplomatiques.
+Sur le plan dramatique, il ne se passerait peut-être rien. Taïwan et les États-Unis n'ont pas de relations diplomatiques, pourtant les ventes d'armes s'élèvent à plusieurs milliards de dollars par an ; Taïwan et le Japon n'ont pas de relations diplomatiques, et le Japon reste l'un des principaux pays d'origine des touristes à Taïwan. Les relations substantielles n'ont rien à voir avec le nombre d'alliés diplomatiques.
 
-Cependant, sur le plan du droit international, quatre risques réels existent :
+Mais sur le plan du droit international, il existe quatre risques réels :
 
-1. **L'émergence d'un discours sur la dissolution de l'identité étatique**. La Convention de Montevideo de 1933 définit quatre critères pour un État (une population permanente, un territoire défini, un gouvernement et la capacité d'entrer en relation avec les autres États) ; Taïwan remplit les trois premiers. Toutefois, la « reconnaissance continue » est une pratique du droit international, et une chute à zéro déclencherait un débat juridique sur la question de savoir si « Taïwan est toujours un État ».
-2. **La restructuration forcée de la chaîne de protection consulaire**. Le statut juridique de la plupart des 113 représentations à l'étranger repose sur des mécanismes gris tels que le «托管 (mandat) par un pays allié » ou le « consentement tacite par la pratique internationale ». La disparition des alliés diplomatiques obligerait à formaliser ces mécanismes gris.
-3. **Une diminution de l'espoir d'un retour dans les organisations internationales**. Le retour de Taïwan au sein d'organisations telles que l'OMS, l'OACI ou Interpol repose presque entièrement sur le canal du « soutien des alliés à Taïwan » lors des assemblées annuelles de ces pays. Une chute à zéro ferait disparaître totalement cette voie.
-4. **Le statut juridique en cas de crise militaire inter-détroit** deviendrait un point de litige majeur. Taïwan est-elle un « État » au regard du droit international, l'intervention d'un pays tiers est-elle légale, doit-on appliquer le _IHL_ (Droit international humanitaire) ou le droit relatif aux guerres civiles, le traitement des prisonniers de guerre — chaque point ferait l'objet de nouvelles contestations.
+1. **La thèse de la dissolution de la personnalité étatique ferait surface**. La Convention de Montevideo de 1933 définit quatre critères pour l'État (population, territoire, gouvernement, capacité d'entrer en relations avec les autres États) ; Taïwan remplit les trois premiers ; mais la « reconnaissance continue » est une coutume du droit international, et la chute à zéro déclencherait le débat juridique sur « Taïwan est-il encore un État ? »
+2. **La chaîne de protection consulaire serait forcée de se réorganiser**. Le statut juridique des 113 missions à l'étranger repose pour la plupart sur des mécanismes gris tels que la « tutelle par des pays amis » ou la « tolérance par la coutume internationale » ; la chute à zéro des alliés diplomatiques obligerait à recodifier ces zones grises.
+3. **Les espoirs de réintégration aux organisations internationales s'amenuiseraient**. Le retour au sein d'organisations comme l'AMS, l'OACI ou Interpol dépend presque entièrement du canal du « soutien des pays amis » à l'Assemblée annuelle. La chute à zéro ferait disparaître totalement cette voie.
+4. **Le statut juridique en cas de crise militaire transdétroit deviendrait un point de discorde majeur**. Est-ce que Taïwan est un « État » au sens du droit international, l'intervention de tiers États est-elle légale, s'applique-t-il le DIH (droit international humanitaire / droit des conflits armés internationaux) ou le droit de la guerre civile, le traitement des prisonniers de guerre — chaque point serait renégocié.
 
-**Le quatrième point constitue le véritable risque.** La disparition des alliés diplomatiques en soi ne changerait rien immédiatement, mais elle offrirait à la Chine un outil rhétorique supplémentaire lors d'un éventuel conflit futur : « Taïwan n'a même pas un seul allié diplomatique, ce n'est donc pas un État au regard du droit international. »
+**Le quatrième point est le véritable risque.** La chute à zéro des alliés diplomatiques ne changerait rien immédiatement, mais elle offrirait à la Chine un outil argumentaire de plus dans un conflit futur : « Taïwan n'a même pas un seul allié diplomatique, donc ce n'est pas un État au regard du droit international. »
 
-Tant que les 12 alliés diplomatiques sont maintenus, ce discours ne tient pas la route. Ainsi, la signification de ces 12 pays est limitée en soi ; leur importance réside dans le fait qu'ils **ne sont pas à zéro**.
+Tant que 12 alliés diplomatiques sont maintenus, cet argument ne tient pas. C'est pourquoi ces 12 pays ont en eux-mêmes une signification limitée ; leur signification réside dans le fait qu'ils **ne sont pas 0**.
 
 ## Trois chiffres
 
 ```
 12             113            177
-Alliés       Représentations  Pays accessibles
-diplomatiques  à l'étranger    avec le passeport
+Pays alliés    Représentations à l'étranger    Entrées sans visa
 ```
 
-12 pays reconnaissent le gouvernement de la République de Chine comme étant le « gouvernement légitime de la Chine ».
-113 représentations à l'étranger représentent Taïwan et gèrent ses affaires concrètes dans le monde.
-177 pays ne reconnaissent pas la République de Chine, mais laissent entrer les citoyens taïwanais.
+12 pays reconnaissent le gouvernement de la République de Chine à Taïwan comme le « gouvernement légitime de la Chine »[^16].
+113 représentations à l'étranger représentent Taïwan dans le monde pour traiter les affaires pratiques[^34].
+177 pays et territoires ne reconnaissent pas la République de Chine, mais permettent aux citoyens taïwanais d'entrer sans visa, avec visa à l'arrivée ou visa électronique[^37].
 
-Le Parlement européen a adopté la résolution 2758 avec 432 voix pour et 275 contre. Lorsque Tsai Ing-wen a quitté ses fonctions en mai 2024, il restait 12 alliés diplomatiques ; après son départ, elle a été invitée à visiter le Parlement européen en octobre. Bonnie Glaser a affirmé qu'il y avait eu un instant de dépendance vis-à-vis de TSMC. Mark Lambert a déclaré que la résolution 2758 ne mentionnait pas Taïwan.
+Le Parlement européen a adopté une résolution contre la résolution 2758 par 432 voix pour[^3]. Au moment du départ de Tsai Ing-wen en mai 2024, il y avait 12 pays alliés ; en octobre, après son départ, elle a été invitée à visiter le Parlement européen. Bonnie Glaser a souligné que la dépendance à TSMC a connu un moment critique. Mark Lambert a rappelé que la résolution 2758 ne mentionnait pas Taïwan.
 
-Toutes ces choses se produisent simultanément. Il n'existe aucune règle nommée « statut international de Taïwan ».
+Ces événements se produisent simultanément. Il n'existe pas une seule chose appelée « statut international de Taïwan ».
 
-Si elle existait, cette chose ne serait ni 12, ni 113, ni 177, ni 90 % ou 30 %.
+S'il y en avait une, cette chose ne serait pas 12, ni 113, ni 177, ni 90 % ou 30 %.
 
-Elle résiderait dans la distance entre ces chiffres.
+C'est la distance entre ces chiffres.
 
 **Lectures complémentaires** :
 
-- [Défense de Taïwan et modernisation militaire](/fr/society/taiwan-defense-modernization) — Lorsque les alliés diplomatiques ne sont plus que 12, l'autodéfense militaire est un autre pilier pour maintenir le chiffre « non nul »
-- [Crise du détroit et évolution des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Comment trois crises ont façonné l'isolement diplomatique et l'anxiété sécuritaire de Taïwan
-- [TSMC](/fr/economy/tsmc) — La base matérielle du bouclier de silicium et sa vulnérabilité structurelle
-- [Zhuo Rongtai](/fr/people/cho-jung-tai) — Trajectoire des tarifs douaniers USA-Taïwan 2026 (de 32 % → 20 % → 15 %) + coordinateur de cabinet de la visite de Lai Ching-te en Slovénie
-- [Taïwan et la Slovénie](/fr/society/taiwan-eswatini-relations) — L'Afrique ne compte plus qu'un seul des 12 alliés diplomatiques : l'histoire complète de 58 ans, de l'établissement des relations en 1968 jusqu'à la visite de Lai Ching-te en 2026
+- [Taïwan : défense et modernisation militaire](/fr/society/taiwan-defense-modernization) — Lorsque les pays alliés ne sont plus que 12, l'autodéfense militaire est l'autre pilier pour maintenir le « non-zéro »
+- [Crises du détroit de Taïwan et développement des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Comment trois crises ont façonné l'isolement diplomatique et l'anxiété sécuritaire de Taïwan
+- [TSMC](/fr/economy/tsmc) — La base matérielle du bouclier de silicium et sa fragilité structurelle
+- [Cho Jung-tai](/fr/people/cho-jung-tai) — Trajectoire 2026 des droits de douane UE-Taïwan 32→20→15 % + coordinateur du cabinet pour la visite de Lai Ching-te à Eswatini
+- [Taïwan et Eswatini](/fr/society/taiwan-eswatini-relations) — Le seul allié africain restant parmi les 12 pays alliés, 58 ans d'histoire complète depuis l'établissement des relations diplomatiques le même jour en 1968 jusqu'à la visite de Lai Ching-te en 2026
 
 ## Références
 
-[^1]: [Bureau des affaires consulaires du Ministère des Affaires étrangères — Informations sur l'exemption de visa, le visa à l'arrivée et le visa électronique](https://www.boca.gov.tw/cp-37-220-9f130-1.html) — Version mise à jour le 30-01-2026, 177 pays et régions
+[^1]: [Bureau des affaires consulaires du Ministère des Affaires étrangères — Informations sur l'exemption de visa, le visa à l'arrivée et le visa électronique](https://www.boca.gov.tw/cp-37-220-9f130-1.html) — Version mise à jour le 2026-01-30, 177 pays et régions
 
-[^2]: [MIT Technology Review — Le bouclier de silicium de Taïwan pourrait s'affaiblir](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Analyse de 2025 sur la part de marché d'environ 90 % de TSMC dans les processus de fabrication avancés mondiaux
+[^2]: [MIT Technology Review — Le bouclier de silicium de Taïwan pourrait s'affaiblir](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Analyse 2025 : TSMC détient environ 90 % de parts de marché mondiales des procédés avancés
 
-[^3]: [Résolution du Parlement européen RC-B10-0134/2024](https://www.europarl.europa.eu/doceo/document/RC-10-2024-0134_EN.html) — Texte original de la résolution du Parlement européen du 24-10-2024 s'opposant à la distorsion de la résolution 2758, vote 432:60:71
+[^3]: [Résolution du Parlement européen RC-B10-0134/2024](https://www.europarl.europa.eu/doceo/document/RC-10-2024-0134_EN.html) — Texte original de la résolution du Parlement européen du 2024-10-24 contre la distorsion de la résolution 2758, vote 432:60:71
 
-[^4]: [CNA — Chronologie des relations entre la République de Chine et Nauru](https://www.cna.com.tw/news/aipl/202401150200.aspx) — Chronologie de la rupture des relations avec Nauru le 15-01-2024 et déclaration d'Adeang
+[^4]: [Agence centrale de presse — Chronologie des relations entre la République de Chine et Nauru](https://www.cna.com.tw/news/aipl/202401150200.aspx) — Chronologie de la rupture diplomatique de Nauru le 2024-01-15 et déclaration d'Adeang
 
-[^5]: [udn Key Commentary — Rupture soudaine de Nauru, Joseph Wu est très en colère](https://www.thenewslens.com/article/197585) — Récit par un fonctionnaire du ministère des Affaires étrangères de la réaction de Joseph Wu au Guatemala
+[^5]: [Critical Review Network — Rupture diplomatique surprise de Nauru, Wu Chao-hsieh très en colère](https://www.thenewslens.com/article/197585) — Un responsable du Ministère des Affaires étrangères rapporte la réaction de Wu Chao-hsieh au Guatemala
 
-[^6]: [UDN — Nauru réclame NT$2,6 milliards d'aide économique à Taïwan pour cette raison](https://udn.com/news/story/123892/7712032) — Détails sur le déficit financier lié à la fermeture du centre de traitement des réfugiés australien
+[^6]: [United Daily News — Nauru demande NT$2,6 milliards d'aide à Taïwan pour cette affaire](https://udn.com/news/story/123892/7712032) — Détails du déficit financier causé par la fermeture du centre de traitement des réfugiés australien
 
-[^7]: [Next Magazine — Le président de Nauru demande une aide financière exorbitante, la Chine accepte 100 millions USD par an](https://www.businesstoday.com.tw/article/category/183027/post/202401150023/) — Une source anonyme révèle l'engagement de la Chine, que celle-ci nie
+[^7]: [Business Weekly — Le président de Nauru demande une aide financière exorbitante, la partie chinoise accepte 100 millions de dollars US par an](https://www.businesstoday.com.tw/article/category/183027/post/202401150023/) — Une source impliquée dans les affaires étrangères révèle anonymement la promesse de la partie chinoise, que cette dernière nie
 
-[^8]: [Wikipedia — Liste des alliés diplomatiques de la République de Chine](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%82%A6%E4%BA%A4%E5%9C%8B%E5%88%97%E8%A1%A8) — Archives historiques du pic de 70 pays en 1969
+[^8]: [Wikipédia — Liste des pays ayant des relations diplomatiques avec la République de Chine](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%82%A6%E4%BA%A4%E5%9C%8B%E5%88%97%E8%A1%A8) — Record historique du pic de 70 pays en 1969
 
-[^9]: [Story Studio — La ligne rouge politique de Chiang Kai-shek concernant la résolution 2758 et la déclaration de retrait de Chou Shu-kai](https://storystudio.tw/article/gushi/ares2758-a/) — Source du texte intégral du discours de retrait de Chou Shu-kai devant l'ONU
+[^9]: [Story Studio — La ligne de fond de la politique de Chiang Kai-shek sur la résolution 2758 et la déclaration de retrait de Chou Shu-kai](https://storystudio.tw/article/gushi/ares2758-a/) — Source du discours intégral de Chou Shu-kai lors du retrait des Nations Unies
 
-[^10]: [Wikipedia — Taiwan Relations Act](https://en.wikipedia.org/wiki/Taiwan_Relations_Act) — La rupture des relations diplomatiques par les États-Unis en 1979 et le Taiwan Relations Act
+[^10]: [Wikipédia — Taiwan Relations Act](https://en.wikipedia.org/wiki/Taiwan_Relations_Act) — Rupture diplomatique des États-Unis en 1979 et loi sur les relations avec Taïwan
 
-[^11]: [CNA — Déballage de vieilles photos : 32e anniversaire de la rupture des relations entre Taïwan et la Corée du Sud](https://www.cna.com.tw/news/ahel/202408235002.aspx) — Détails sur la rupture des relations avec la Corée du Sud le 23-08-1992, le départ en 24 heures et la saisie de l'ambassade
+[^11]: [Agence centrale de presse — Déballage de vieilles photos : 32e anniversaire de la rupture diplomatique entre Taïwan et la Corée du Sud](https://www.cna.com.tw/news/ahel/202408235002.aspx) — Détails de la rupture diplomatique de la Corée du Sud le 1992-08-23, départ sous 24 heures, saisie de l'ambassade
 
-[^12]: [CNA — Le calcul perfide de la Chine : 10 interventions en 8 ans](https://www.cna.com.tw/news/aipl/202401150242.aspx) — Analyse du calendrier et des conditions des 10 ruptures diplomatiques sous le mandat de Tsai Ing-wen
+[^12]: [Agence centrale de presse — Calculs impitoyables de la Chine : 10 interventions en 8 ans](https://www.cna.com.tw/news/aipl/202401150242.aspx) — Analyse du moment et des conditions des 10 ruptures diplomatiques sous la présidence de Tsai Ing-wen
 
-[^13]: [Liberty Times — Conditions de l'aide économique du Honduras](https://news.ltn.com.tw/news/politics/breakingnews/4241197) — Le gouvernement Castro demande à Taïwan une aide de 2,5 milliards USD et une restructuration de la dette de 600 millions USD
+[^13]: [Liberty Times — Conditions d'aide économique du Honduras](https://news.ltn.com.tw/news/politics/breakingnews/4241197) — Le gouvernement Castro demande à Taïwan 2,5 milliards de dollars US d'aide financière et 600 millions de dollars US pour la restructuration de la dette
 
-[^14]: [Look Magazine — Visite de l'ancien vice-président du Honduras](https://www.watchinese.com/article/2024/26145) — Source des propos originaux : « La Chine veut seulement venir nous coloniser »
+[^14]: [Kan Magazine — Visite de l'ancien vice-président du Honduras](https://www.watchinese.com/article/2024/26145) — Source de la citation originale : « La Chine veut seulement venir nous coloniser »
 
-[^15]: [ETtoday — Le Honduras regrette la rupture des relations : l'aide de la Chine ne vient pas](https://www.ettoday.net/news/20250419/2946192.htm) — En avril 2025, révèle que la Chine n'a réellement versé que 280 millions USD
+[^15]: [ETtoday — Le Honduras regrette la rupture diplomatique : l'aide chinoise tombe à l'eau](https://www.ettoday.net/news/20250419/2946192.htm) — Avril 2025 révèle que l'aide chinoise réellement versée s'élève à 2,8 milliards de dollars US
 
-[^16]: [Ministère des Affaires étrangères de la République de Chine — Pays alliés](https://www.mofa.gov.tw/AlliesIndex.aspx?n=167&sms=33) — Version officielle mise à jour le 24-04-2026, liste des 12 pays et classification par région
+[^16]: [Ministère des Affaires étrangères de la République de Chine — Pays ayant des relations diplomatiques](https://www.mofa.gov.tw/AlliesIndex.aspx?n=167&sms=33) — Version officielle mise à jour le 2026-04-24, liste des 12 pays et classification régionale
 
-[^17]: [Wikipédia — Relations entre le Saint-Siège et la République de Chine](https://zh.wikipedia.org/wiki/%E6%95%99%E5%BB%B7%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%97%9C%E4%BF%82) — Depuis l'établissement des relations en 1942, le seul pays allié non membre de l'ONU
+[^17]: [Wikipédia — Relations entre le Saint-Siège et la République de Chine](https://zh.wikipedia.org/wiki/%E6%95%99%E5%BB%B7%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%97%9C%E4%BF%82) — Relations diplomatiques établies en 1942 jusqu'à aujourd'hui, seul État non-membre de l'ONU ayant des relations diplomatiques
 
-[^18]: [客新聞 — Élection du Pape Léon XIV le 08-05-2025](https://hakkanews.tw/2025/04/21/pope/) — Le premier pape né en Amérique du Nord, Robert Francis Prevost
+[^18]: [Hakka News — Élection du pape Léon XIV le 2025-05-08](https://hakkanews.tw/2025/04/21/pope/) — Premier pape né en Amérique du Nord, Robert Francis Prevost
 
-[^19]: [PTS News — Lin Chia-lung : Haïti et le Saint-Siège nécessitent une attention particulière](https://news.pts.org.tw/article/740385) — Paroles originales de l'interview de PTS en mars 2025
+[^19]: [PTS News — Lin Chia-lung : Haïti et le Saint-Siège nécessitent une attention particulière](https://news.pts.org.tw/article/740385) — Propos originaux de l'interview de PTS en mars 2025
 
-[^20]: [Présidence — Le président Lai Ching-te rencontre le président paraguayen Peña](https://www.president.gov.tw/News/28438) — Peña s'est rendu à Taïwan en mai 2024 pour assister à la cérémonie d'investiture
+[^20]: [Présidence — Le président Lai Ching-te rencontre le président paraguayen Peña](https://www.president.gov.tw/News/28438) — Mai 2024 : visite de Peña à Taïwan pour assister à la cérémonie d'investiture
 
-[^21]: [CNA — La ministre des Affaires étrangères du Paraguay en visite à Taïwan pour maintenir les liens diplomatiques](https://www.cna.com.tw/news/aipl/202411290318.aspx) — Paroles originales de Ramírez le 29-11-2024
+[^21]: [CNA — Le ministre des Affaires étrangères du Paraguay en visite à Taïwan pour réaffirmer les relations diplomatiques](https://www.cna.com.tw/news/aipl/202411290318.aspx) — Paroles originales de Ramírez le 29 novembre 2024
 
-[^22]: [Vision Magazine — La crise en Haïti](https://www.gvm.com.tw/article/80847) — Situation actuelle du gouvernement dirigé par les gangs après l'assassinat de Moïse en juillet 2021
+[^22]: [CommonWealth Magazine — Crise en Haïti](https://www.gvm.com.tw/article/80847) — Juillet 2021 : situation de gouvernance par des gangs après l'assassinat de Moïse
 
-[^23]: [天下 CSR — La crise d'extinction de Tuvalu](https://csr.cw.com.tw/article/44229) — Données du GIEC sur le niveau de la mer et l'élévation de Tuvalu
+[^23]: [CommonWealth CSR — Crise existentielle de Tuvalu](https://csr.cw.com.tw/article/44229) — Données du GIEC sur la montée du niveau de la mer et l'élévation de Tuvalu
 
-[^24]: [Liberty Times — 82 % des citoyens de Tuvalu demandent un visa climatique](https://news.ltn.com.tw/news/world/breakingnews/5118068) — Données de demande de visa climatique australien pour la fin de l'année 2025
+[^24]: [Liberty Times — Visa climatique pour Tuvalu : 82 % des citoyens ont fait une demande](https://news.ltn.com.tw/news/world/breakingnews/5118068) — Données sur les demandes de visa climatique australien à la fin 2025
 
-[^25]: [Liberty Times Net — Opportunités stratégiques du visa climatique](https://talk.ltn.com.tw/article/breakingnews/5092696) — Taïwan et Fidji soutiennent la déclaration sur les frontières maritimes de Tuvalu
+[^25]: [Liberty Times Net — Opportunités stratégiques du visa climatique](https://talk.ltn.com.tw/article/breakingnews/5092696) — Taïwan et les Fidji soutiennent la déclaration sur les frontières maritimes de Tuvalu
 
-[^26]: [CommonWealth Magazine — Eswatini est-il le seul pays allié de Taïwan en Afrique ?](https://www.cw.com.tw/article/5140733) — Perte cumulée de 10 pays alliés en Afrique sur 30 ans
+[^26]: [CommonWealth Magazine — Eswatini est-il le seul allié diplomatique de Taïwan en Afrique ?](https://www.cw.com.tw/article/5140733) — Perte cumulative de 10 alliés diplomatiques africains en 30 ans
 
-[^27]: [Taronews — Lin Chia-lung se rend en Eswatini en tant qu'envoyé spécial du président](https://wp.taronews.tw/2026/04/28/1179509/) — En avril 2026, l'avion présidentiel de Lai Ching-te a été bloqué lors d'une escale, entraînant la nomination de Lin Chia-lung
+[^27]: [Taronews — Lin Chia-lung se rend à Eswatini en tant qu'envoyé spécial du président](https://wp.taronews.tw/2026/04/28/1179509/) — Avril 2026 : le vol présidentiel de Lai Ching-te bloqué, Lin Chia-lung dépêché à sa place
 
-[^28]: [Officiel des Nations Unies — Texte original chinois de la résolution 2758](https://www.un.org/zh/ga/26/res/ares2758.html) — Texte intégral de la résolution du 25-10-1971
+[^28]: [ONU officiel — Texte original chinois de la résolution 2758](https://www.un.org/zh/ga/26/res/ares2758.html) — Texte intégral de la résolution du 25 octobre 1971
 
-[^29]: [Global Taiwan Institute — De hauts responsables américains s'opposent à l'utilisation abusive de la résolution 2758 par la RPC](https://globaltaiwan.org/2024/05/senior-us-officials-push-back-against-the-prc-misusing-unga-resolution-2758/) — Texte intégral des quatre positions de Mark Lambert en avril 2024
+[^29]: [Global Taiwan Institute — Des responsables américains de haut niveau ripostent à l'utilisation abusive de la résolution 2758 par la RPC](https://globaltaiwan.org/2024/05/senior-us-officials-push-back-against-the-prc-misusing-unga-resolution-2758/) — Position en quatre points de Mark Lambert, avril 2024, texte intégral
 
-[^30]: [VOA — Les États-Unis réfutent la description chinoise de la résolution 2758 de l'ONU](https://www.voacantonese.com/a/us-refutes-china-s-characterization-of-un-resolution-2758-20240528/7633211.html) — Témoignage de Campbell devant le Congrès en septembre 2024 et position ultérieure des États-Unis
+[^30]: [VOA — Les États-Unis réfutent la description chinoise de la résolution 2758 de l'ONU](https://www.voacantonese.com/a/us-refutes-china-s-characterization-of-un-resolution-2758-20240528/7633211.html) — Témoignage de Campbell devant le Congrès en septembre 2024 et positions ultérieures des États-Unis
 
-[^31]: [Communiqué de presse du Parlement européen 2024-10-21](https://www.europarl.europa.eu/news/en/agenda/plenary-news/2024-10-21/4/meps-set-to-criticise-china-s-aggressive-stance-on-taiwan) — Explication officielle du Parlement européen s'opposant à la résolution déformée 2758
+[^31]: [Communiqué de presse du Parlement européen 2024-10-21](https://www.europarl.europa.eu/news/en/agenda/plenary-news/2024-10-21/4/meps-set-to-criticise-china-s-aggressive-stance-on-taiwan) — Explication officielle de la résolution du Parlement européen contre la distorsion de la résolution 2758
 
-[^32]: [Wikipédia — Taiwan et l'Organisation mondiale de la Santé](https://en.wikipedia.org/wiki/Taiwan_and_the_World_Health_Organization) — Historique des huit années de statut d'observateur à l'OMS entre 2009 et 2016
+[^32]: [Wikipédia — Taïwan et l'Organisation mondiale de la santé](https://en.wikipedia.org/wiki/Taiwan_and_the_World_Health_Organization) — Histoire de huit ans du statut d'observateur de Taïwan à l'Assemblée mondiale de la santé (2009-2016)
 
-[^33]: [Atlantic Council — La politique de la Lituanie vis-à-vis de la Chine](https://www.atlanticcouncil.org/in-depth-research-reports/report/lithuanias-policy-on-china-an-unlikely-eu-trailblazer/) — Chronique complète du chantage économique exercé par la Chine après l'établissement d'un bureau en Lituanie en 2021
+[^33]: [Atlantic Council — La politique de la Lituanie envers la Chine](https://www.atlanticcouncil.org/in-depth-research-reports/report/lithuanias-policy-on-china-an-unlikely-eu-trailblazer/) — Rapport complet sur la coercition économique de la Chine contre la Lituanie suite à l'ouverture de son bureau de représentation en 2021
 
-[^34]: [Wikipédia — Liste des représentations diplomatiques de la République de Chine](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%A7%90%E5%A4%96%E6%A9%9F%E6%A7%8B%E5%88%97%E8%A1%A8) — Liste et répartition des 113 missions et bureaux au 2025-12
+[^34]: [Wikipédia — Liste des représentations de la République de Chine à l'étranger](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%A7%90%E5%A4%96%E6%A9%9F%E6%A7%8B%E5%88%97%E8%A1%A8) — 113 missions et leur répartition au décembre 2025
 
-[^35]: [Wikipédia — Relations Lituanie-Taïwan](https://en.wikipedia.org/wiki/Lithuania%E2%80%93Taiwan_relations) — Processus d'établissement du Bureau de représentation taïwanais le 2021-11-18
+[^35]: [Wikipédia — Relations entre la Lituanie et Taïwan](https://en.wikipedia.org/wiki/Lithuania%E2%80%93Taiwan_relations) — Ouverture du Bureau de représentation taïwanais le 18 novembre 2021
 
-[^36]: [Congress.gov — TAIPEI Act S.1678](https://www.congress.gov/bill/116th-congress/senate-bill/1678) — Texte original de la loi Pub.L. 116-135 signée par Trump le 2020-03-26
+[^36]: [Congress.gov — TAIPEI Act S.1678](https://www.congress.gov/bill/116th-congress/senate-bill/1678) — Texte original de la Pub.L. 116-135 signée par Trump le 2020-03-26
 
-[^37]: [Ministère des Affaires étrangères de la République de Chine — Informations sur l'exemption de visa](https://www.mofa.gov.tw/FreeVisa.aspx?n=545&sms=81) — Statistiques au 2026-01-30 : 177 pays et régions
+[^37]: [Ministère des Affaires étrangères de la République de Chine — Informations sur l'exemption de visa](https://www.mofa.gov.tw/FreeVisa.aspx?n=545&sms=81) — Statistiques au 2026-01-30 : 177 pays et territoires
 
-[^38]: [The Diplomat — Silicon Shield 2.0: A Taiwan Perspective](https://thediplomat.com/2024/09/silicon-shield-2-0-a-taiwan-perspective/) — Analyse de la part de marché mondiale des puces haut de gamme de TSMC
+[^38]: [The Diplomat — Bouclier de silicium 2.0 : une perspective taïwanaise](https://thediplomat.com/2024/09/silicon-shield-2-0-a-taiwan-perspective/) — Analyse de la part de marché mondiale des puces haut de gamme de TSMC
 
-[^39]: [Wikipédia — TSMC Arizona](https://en.wikipedia.org/wiki/TSMC_Arizona) — Projet d'expansion de NT$165 milliards comprenant 5 usines, 2 sites d'encapsulation et 1 centre de R&D
+[^39]: [Wikipédia — TSMC Arizona](https://en.wikipedia.org/wiki/TSMC_Arizona) — Plan d'expansion de 1 650 milliards de dollars comprenant 5 usines, 2 unités d'assemblage et 1 centre de R&D
 
-[^40]: [Tom's Hardware — Calendrier 3nm de TSMC Arizona](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-brings-its-most-advanced-chipmaking-node-to-the-us-yet-to-begin-equipment-installation-for-3mn-months-ahead-of-schedule-arizona-fab-slated-for-production-in-2027) — Calendrier de production de masse du processus 3nm à l'usine d'Arizona pour 2027
+[^40]: [Tom's Hardware — Calendrier 3 nm de TSMC Arizona](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-brings-its-most-advanced-chipmaking-node-to-the-us-yet-to-begin-equipment-installation-for-3mn-months-ahead-of-schedule-arizona-fab-slated-for-production-in-2027) — Prévision de production en volume 3 nm de l'usine d'Arizona pour 2027
 
-[^41]: [GMF — Audition de Bonnie Glaser devant le Sénat sur les relations étrangères](https://www.gmfus.org/news/bonnie-glaser-senate-foreign-relations-committee-hearing) — Source originale des propos concernant la dépendance envers TSMC
+[^41]: [GMF — Audition de Bonnie Glaser au Comité des relations étrangères du Sénat](https://www.gmfus.org/news/bonnie-glaser-senate-foreign-relations-committee-hearing) — Source de la déclaration originale sur le moment de dépendance à l'égard de TSMC
 
-[^42]: [MIT Technology Review — Le bouclier de silicium de Taïwan pourrait s'affaiblir](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Discours sur l'affaiblissement du bouclier de silicium en août 2025
+[^42]: [MIT Technology Review — Le bouclier de silicium de Taïwan pourrait s'affaiblir](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Discours d'août 2025 sur l'affaiblissement du bouclier de silicium

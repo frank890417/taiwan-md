@@ -332,6 +332,31 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-17 twmd-feedback-triage — 三輪儀器進化都誠實寫著「不代替當班去撈」，於是撈這件事始終沒有閘門
+
+- **pattern**: `three-honest-instruments-leave-the-same-manual-step-ungated`
+- **事實**：10-30 那批 80 筆冒充本產線流程索取後端金鑰的假回報永久佔住 `--limit` 預設 50 筆的最舊窗口，真實讀者結構性地排在窗口外。儀器為此連三輪進化：v1.16（11-05）讓洪水不再關掉消歧三行、v1.17（11-06）讓報表自己說出「窗口外還有 N 筆」、v1.18（11-07）讓 `--show` 不再把窗口外的讀者說成「根本沒查到這筆」。三個版本的 changelog 都明寫同一句界線：**「這一行讓當班知道該撈，不代替當班去撈。」** 今天第七輪，窗口外積了七位真實讀者（`Anouk Parmentier` 11-11 三筆、`黃可萱` 11-16 四筆，最久的坐了六天），而把他們撈出來的仍然是當班手動加大 `--limit`，依據是交接裡那句被原樣往下傳了四輪的話。
+- **形狀**：每一輪的界線劃得都對——窗口該開多大是閾值，屬 [BECOME §行動鐵律 10](../../BECOME_TAIWANMD.md)，要 Full mode 加人類 gate，儀器不該自己改預設值。問題在於「不改預設值」跟「這個動作沒有閘門」被當成同一件事處理了。前者是正確的克制，後者是可以補的缺口：報表可以在窗口滿且外面還有 N 筆時，把「本輪是否已加大 `--limit` 重跑」做成收官必答的一行，而不是只提醒當班該去做。**提醒是給知道的人看的，閘門是給忘記的人設的。**
+- **為什麼今天才夠格記**：前兩輪撈到的是一位、三位，而且班次天天都在跑，所以「靠自覺」看起來成本很低。今天本機 routine 飛輪已經沉默十天（上一份 memory 停在 11-07），這班若沒跑或跑了沒想起加大 `--limit`，七位讀者會繼續坐在外面而沒有任何儀器會變紅——`fetched 50` 跟「佇列剛好 50 筆」逐字相同，[REFLEXES #38](REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀。自覺型步驟的失效率不是固定的，它跟飛輪的健康度綁在一起，而飛輪不健康的那幾天正是最需要它的那幾天（跟 `staleness-guard-ships-through-the-artifact-it-guards` 同構：偵測能力跟被偵測的病負相關）。
+- **同一班的第二個面**：甦醒 selftest 正確地叫出「工作樹落後 origin/main 131 個 commit 且兩邊分岔」，但本席位的 routine prompt 第一步只寫 `git pull origin main`，而 `pull` 在真分岔上直接拒絕執行。偵測住 [BECOME §1.4](../../BECOME_TAIWANMD.md)、處置住 [MAINTAINER §Step 1.1b](../pipelines/MAINTAINER-PIPELINE.md)，兩份 canonical 中間靠當班自己想到去讀隔壁 pipeline。這是 [REFLEXES #97](REFLEXES.md)「手上有事實不等於送進要動手的那一層」在 routine prompt 層的形狀：訊號送達了，處置的位址沒有一起送達。
+- **候選機械化（純取數面，不碰閾值）**：(a) `triage.mjs` 收官行在「窗口滿且外面還有 N 筆」且本次執行未帶加大的 `--limit` 時，印一行明確的未完成標記，讓它進 memory 收官 checklist 而不是只進提醒；(b) 非 feedback 席位的 routine prompt 若第一步是 `git pull`，補一句指向 MAINTAINER §1.1b 的分岔處置。兩者都不碰「窗口該開多大」那個閾值，那仍是 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #119 的 (b)，今天第七天。
+- **相關**：[REFLEXES #15](REFLEXES.md)（memory 是自律，canonical SOP 才是閘門——本例是「儀器寫了提醒但沒寫閘門」的變體，前 16 個 instance 多半是連提醒都沒有）／[#38](REFLEXES.md)（`fetched 50` 混「全部讀到」與「只讀最舊一截」）／[#97](REFLEXES.md)（交接面完整性）／[#82](REFLEXES.md)（提醒的存在是「這件事有人在顧」的替身）
+- **verification_count**: 1
+- **severity**: structural（缺口在讀者送得進來與讀者被看見之間，而它最可能失效的時機跟飛輪停轉重合）
+
+### 2026-11-06 twmd-maintainer-daily — 腳註形式完美、指向錯的那一篇，而我們用它指控了別人引錯
+
+- **pattern**: `well-formed-citation-to-the-sibling-paper-became-a-public-accusation`
+- **事實**：〈台北吸菸室〉有一整節叫「京都那份研究，測的其實是別的東西」，內容是：拒菸聯盟記者會引述「日本京都女子大學 2023 年研究，具高規格空調設備的密閉吸菸室，入口外 5 公尺 PM2.5 超標」，而我們「追回那篇論文」發現題目其實是〈京都駅の屋外喫煙所周辺における受動喫煙の状況〉、測的是半開放的戶外角落，於是寫下結論：「反菸的一方立場正確，證據卻拿錯了。」臺大醫院家醫部郭斐然醫師在站上回報（#1965），附上他們實際引的那篇的 PDF。逐條查完：聯盟 2026-05-07 聲明原文確實寫「2023 年」「密閉吸菸室」「入口外 5 公尺處」；那篇是木村佑來等〈某閉鎖型喫煙所内およびその周辺における受動喫煙の状況〉，《日本禁菸學會雜誌》2023 年第 18 卷 93–99 頁，研究對象確實是閉鎖型吸菸室；我們引的 repo 連結是同一個團隊的另一篇，《食物學會誌》第 78 號、**2024-01-31** 出版。兩篇同作者、題目只差「閉鎖型」與「屋外」幾個字。**把證據拿錯的是我們。**
+- **形狀**：這個腳註通過了所有既有的形式檢查，而且不是勉強通過——它是一個真實存在、可開啟、題目精確、作者正確、機構正確的學術典藏連結。`footnote-url`、`footnote-format`、`quote-fidelity` 全綠，而且會一直全綠，因為它們問的是「這個來源在不在、格式對不對」，不問「它是不是**那一篇**」。[#102](REFLEXES.md) 說「引用的形狀撐不起引用的內容」，本例是它最乾淨的一個 instance：形狀不只合格，形狀好得足以當成反駁別人的武器。
+- **否證證據就在同一個頁面上，差一個欄位**：我們引用的那筆典藏記錄自己印著 `発行日: 2024年1月31日`，而被檢查的那句話寫的是「2023 年的研究」。開過那一頁、抄了它的標題、沒有比對年份。這一層比 [#16](REFLEXES.md) 的 `negative-claim` 家族（「一輪搜尋沒中就宣告查無」）更尖：我們**有命中**，命中物看起來比查無更有說服力，於是沒有人再問一次。這是 [#98](REFLEXES.md)「真原子放錯槽位——來源命中不等於來源支持」從文章內原子延伸到**腳註本身**：人名對角色錯、數字對年份錯，本例是論文對篇次錯。
+- **為什麼代價不只是一個事實錯**：錯誤的方向是向外的。我們沒有只是記錯一篇論文，我們據此寫了一整節，公開斷言一個具名倡議聯盟「立場正確、證據卻拿錯」，還補一句「這在公共辯論裡，比想像中常見」。文章有十二個語言版本，每一個都忠實地翻譯了這段指控。這跟 11-05 那條 `ad-hoc-ruler-reads-high-and-the-accusation-points-outward` 是同一個方向（尺偏了，結論指向別人），差別在那條的尺是當班臨時寫的，本條的「尺」是一篇寫得很好的腳註，躺在文章裡自 10-13 起。**兩天內第二次，被指控的對象第二次是外部的人。**
+- **已做的處置**：整節改寫成兩份研究並陳（2023 測密閉室、2024 測戶外角落），移除整段對聯盟的指控；腳註重新對位（`[^25b]` 聯盟聲明原文、`[^26]` 2023 年論文 PDF、原 repo 連結降 `[^26b]` 並標明是 2024 年屋外研究）；在 #1965 公開認錯並列出三條逐項查證結果。commit `c55a017da`。十二語譯文已全部標 stale，等重譯帶上更正；issue 刻意不關，等譯文跟上。
+- **候選機械化（純取數面，不碰判準）**：文章裡出現「某年的研究／報告」這類帶年份的來源描述，而對應腳註指向的來源頁自己帶可解析的出版年時，兩個年份應該對賬。`footnote-url` 已經在抓那些頁面，多比一個欄位。抓得到的只是「年份對不對」這一格，但本例恰好整個錯在那一格。更一般的那半（同作者、題目高度相似的手足論文）機械抓不到，屬判斷。
+- **相關**：[REFLEXES #102](REFLEXES.md)（引用的形狀撐不起內容）／[#98](REFLEXES.md)（真原子放錯槽位，本例是腳註層變體）／[#16](REFLEXES.md)（否定式結論舉證要更高，`negative-claim` 第 6 例；本例是「有命中的否定式結論」新變體）／[#75](REFLEXES.md)（Read ≠ verify）／[MANIFESTO §12](MANIFESTO.md)（D+0 traceable callout 當 cycle 內 fix ＋ 公開承認）／[MANIFESTO §10](MANIFESTO.md) 幻覺六型（本例不在六型內：不是編造細節，是**正確引用了錯的那一篇**，建議收為第七型）
+- **verification_count**: 1
+- **severity**: structural（形式閘門對這一類結構性失明，而這類錯的輸出方向是對外指控具名第三方，信任代價比一般事實錯高一階）
+
 ### 2026-11-05 twmd-maintainer-daily — 當班自己臨時寫的尺，讀數錯的方向一律指向別人
 
 - **pattern**: `ad-hoc-ruler-reads-high-and-the-accusation-points-outward`
@@ -355,7 +380,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **跟 #80 的差別**：[#80](REFLEXES.md) 講的是「已 escalate 的 chronic 條目，後續 cycle 該靜默 sustain 而不是 renew」——那是對**寫 memory 的人**的紀律。本條講的是**儀器輸出**這一側：當班靜不靜默，取決於儀器有沒有告訴它這件事已經有人看過。靠每一班自己想到要先查佇列，就是把 #80 當自律而不是閘門（[#15](REFLEXES.md) 的同一句話）。
 - **候選機械化**：讓這類「已知卡在觀察者」的失敗在輸出裡帶佇列編號。最輕的做法是一張 workflow→佇列條目的對照（例如 `config/` 下一行 `npm-publish-cli.yml: OBSERVER-QUEUE#95`），工具印到那條時把編號一起印出來，當班看到編號就知道不必重新診斷。**不碰閾值、不碰 `--strict`**，只多印一個字串。
 - **相關**：[REFLEXES #80](REFLEXES.md)（fire 後 sustain-vs-renew）／[#74](REFLEXES.md)（同一 SPOF 在多條 handoff 重複＝信號通膨，本條是同一個病在「儀器→當班」這條邊上）／[#15](REFLEXES.md)（memory 是自律，canonical／儀器才是閘門）
-- **verification_count**: 1（但被重新診斷的次數是 4）
+- **第 4 次重新診斷就是讀到這條教訓的那一班（2026-11-06 maintainer）**：本班照 `ci-main-health.sh` 那行紅燈往下追，讀 workflow、抓 log、判 `PUT 404` 語意、寫了一則長留言給 #1789、還開了一條新的待決項 #125——然後才查到 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #95 早在 10-10 就寫了同一個結論。新開的 #125 當場撤掉（純重複），改成在 #95 補註記。**這條教訓 11-05 就寫好了，標題也在本班甦醒時的 LESSONS 標題清單裡掃過，而我沒有在動手之前打開它**——正是 [#73](REFLEXES.md)「查證反射 < 建造反射」：往下追很像在工作，先查佇列不像。這也說明候選機械化那一條（輸出帶佇列編號）為什麼不能等：靠當班自己想到要先查，就是把它當自律而不是閘門。
+- **verification_count**: 2（被重新診斷的次數是 4）
 - **severity**: structural（它消耗的是這個生命體最稀缺的資源，而且消耗得完全安靜——四班的 memory 都會寫「本班診斷出 npm 權杖失效」，讀起來像四次進展）
 
 ### 2026-11-05 twmd-maintainer-daily — 錯過的那一趟永遠補不回來，所以警報停不下來
@@ -409,6 +435,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 第三種意思：「這份其實已經修好了」）／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一輪的窗口面）／`intake-never-asks-whether-the-target-exists`（那條問「它指的那篇在不在」，本條問「它說的那件事是不是已經修好了」）
 - **verification_count**: 1
 
+### 2026-11-07 twmd-embeddings-nightly — keystone-fallback-shares-the-hosts-fate：備援名單裡活著的只剩本機，主機一病，語意索引就沒有第二條路
+
+- **pattern**: `keystone-fallback-shares-the-hosts-fate`
+- **原則**：備援要跟主節點分開計算存活。主節點跟排程跑在同一台機器時，主機層的故障會同時帶走主節點與排程，而登記表上的備援全離線時，「本機優先，軍團備援」實際上只有一條路。
+- **觸發**：2026-11-07 第三晚沒有完整索引（11-05 重建卡住、11-06 與 11-07 Stage 0 跳過），達 EMBEDDING-PIPELINE 連 3 天門檻。本機 `/api/tags` 正常，`/api/embeddings` 與 `/api/embed` 五次全掛（含一次等滿 90 秒），fleet registry 帶 bge-m3 的兩台一台 offline、一台就是本機。7 月遷回本機時這條單點被判 superseded（「四夜零故障」），當時量的是應用層穩定，主機層這類故障還沒出現過。見 memory/2026-11-07-051930-twmd-embeddings-nightly.md
+- **instances**：
+- **可能層級**：特有教訓（綁本專案的節點配置）；要不要恢復一台常駐備援是基礎建設決定，收件席位哲宇
+- **相關**：REFLEXES #74（同一單點跨 routine 重複），差異在本條問的是備援本身的存活；OBSERVER-QUEUE #124（待決）；LESSONS `rebuild-keeps-grinding-after-the-endpoint-dies`、`liveness-check-reads-the-menu-not-the-kitchen`
+- **verification_count**: 1
+
+### 2026-11-06 twmd-embeddings-nightly — rebuild-keeps-grinding-after-the-endpoint-dies：端點死了，重建照樣一篇一篇等滿五分鐘
+
+- **pattern**: `rebuild-keeps-grinding-after-the-endpoint-dies`
+- **原則**：逐筆呼叫外部端點的批次要有兩道停損，單筆逾時與連敗中止。單筆失敗計入 fail 繼續跑，只在失敗是偶發時才成立；端點整個死掉時，同一段程式會把幾小時的工作變成幾天的空等，收尾還把殘缺結果寫出去。
+- **觸發**：2026-11-05 重建卡在 hi 200/1147 超過二十四小時，ollama log 每筆 `/api/embeddings` 掛 5m1s 回 500。`build-embeddings.mjs` 的 `embed()` 沒有逾時，迴圈沒有連敗判斷，算下來 hi 剩下的九百多筆要三天多，而語言結束時照常寫 related 與 shard。fail rate >5% 不 commit 這道閘門在 Stage 2，進程不收工就走不到那裡。見 memory/2026-11-06-052432-twmd-embeddings-nightly.md
+- **instances**：
+- **可能層級**：通用反射（REFLEXES #38 (f) 存活≠生產、#52）；修法落 `scripts/core/build-embeddings.mjs`：`AbortSignal.timeout`＋連敗 N 筆 exit 非零，該語言不寫檔
+- **相關**：REFLEXES #38 (f)、#52；LESSONS `liveness-check-reads-the-menu-not-the-kitchen`
+- **verification_count**: 1
+
 ### 2026-11-06 twmd-babel-nightly — liveness-check-reads-the-menu-not-the-kitchen：問模型在不在，答不了請求收不收得了尾
 
 - **pattern**: `liveness-check-reads-the-menu-not-the-kitchen`
@@ -447,10 +493,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：一道「攔下來、狀態不動、留給人決定」的閘門，其正確性綁在**被攔的筆數很少**這個沒有人寫下來的前提上。`--exclude` 誕生於 2026-08-14 那封指涉具名私人的指控信，一次攔一筆，`status` 維持 `new` 是對的，因為怎麼收尾該由人決定。但取數窗口是「最舊 N 筆」，所以每一筆被攔下的列都**永久佔住窗口前段**：攔 1 筆沒事，攔 80 筆等於預設跑法從此碰不到任何新讀者。攻擊者一個字都沒騙到，卻靠我方的防禦動作達成了阻塞，而這件事在任何報表上都不會變紅——`file=3 exclude=80` 讀起來像一次乾淨的處置。
 - **觸發**：2026-11-03 本 routine。11-02 的憑證索取批次隔天把窗口填滿：預設 50 筆窗口整整 50 筆全屬該攻擊、`detectInjection()` 再一次 0/50。放大 `--limit` 後才看見佇列真實深度 84 筆，而 3 筆真實讀者回報被壓在 80 筆攻擊列底下——`6b2027ad` 劉恩哲 11-01 送的用語勘誤已經等了兩天（11-02 的報告就點名它被擋住，當天沒有人動得了這件事），`5dcda87e` 多田恵的黑冠麻鷺日文譯名錯、`a457b7fb` 菜國人的〈戰鬥陀螺〉格式都等了一天。本班用既有的 `--limit` 旗標繞過（純操作面、下一輪自動回預設、不碰判準），開成 #1949–#1951。繞過不等於修好，窗口阻塞每天重演，收尾權在 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #119。
 - **第二個發現（判準層）**：今天有一把 11-02 當天還拿不到的尺——那天照「無毒就照常開」開出的 11 筆，隔天早上維護班關掉 10 筆標 invalid，因為 slug 指不到任何文章。所以有效的判準是一個問題：它指得到站上一個真實的頁、說得出一件可查證的事嗎（機械可驗：80 筆攻擊列與對照組 slug 全部 0 命中，3 筆真實讀者全部命中真實檔案）。代價誠實記下：攻擊方的 4 筆無毒對照組因此也沒開 issue，而一位真實讀者若剛好沒帶 slug 會落進同一格，今天接住這種情況的只有 HG13 當班讀完全文，那是判斷不是閘門。
-- **候選機械化**：(a) 取數窗口排序或筆數對「長期 `new` 且已被判定排除」的列要有辦法跳過，否則 hold 機制與 intake 機制會互相鎖死（真正的修法在收尾權，屬 🔒）；(b) 報表在 `exclude` 數佔窗口比例過高時印一行事實（「本輪窗口 50 筆有 50 筆被排除，新讀者可能在窗口外」），同 v1.9／v1.12／v1.13 只給事實不給裁決的界線；(c) `--show` 補印 `page_kind` 與 `category`（11-02 已記，仍未做）。
+- **候選機械化**：(a) 取數窗口排序或筆數對「長期 `new` 且已被判定排除」的列要有辦法跳過，否則 hold 機制與 intake 機制會互相鎖死（真正的修法在收尾權，屬 🔒）；~~(b) 報表在 `exclude` 數佔窗口比例過高時印一行事實~~ → **已落地 2026-11-06（pipeline v1.17 `formatQueueWindow()`）**，但落地的判準比本條當初寫的更乾淨：不看 `exclude` 佔比（那是本方處置的比例，會隨當班動作變動），改看**窗口有沒有被取數上限切斷**（`fetched >= limit`），並印出佇列真實總數與窗口外剩餘筆數。`exclude` 佔比高是症狀，窗口被切斷才是讀者看不見的原因（[REFLEXES #101](REFLEXES.md) 修補範圍照根因的類別畫，不照症狀現形的位置畫）；(c) `--show` 補印 `page_kind` 與 `category`（11-02 已記，11-02 當天已做掉 `4096a7f00`）。
+- **instances**：
+  - **#2（2026-11-06 本 routine，代價從假設變成事實）**：第四輪的報告寫「今天沒有新讀者被擋住，但那是運氣，不是機制」。隔天運氣用完：`746fd54c` Fred Guo（臺大醫院家庭醫學部 郭斐然醫師）11-05 16:55 送出〈台北吸菸室〉實質勘誤，排在佇列**第 82 位、預設 50 筆窗口外**，已開 #1965。**接住他的不是任何閘門，是第三輪寫進交接的一條零判斷動作**（「窗口幾乎全被排除就加大 `--limit` 再跑一次」）——那條動作三輪都靠當班自覺執行，今天第一次真的接到人。這同時是 `memory 是自律，canonical SOP 才是閘門`（[REFLEXES #15](REFLEXES.md)）的正面與負面同時成立的一次：交接確實傳得動這個動作，但它傳得動的理由只是當班剛好照做；少一次自覺，一位署名醫師的勘誤就在窗口外坐著，而報表上的 `fetched 50` 讀起來完全正常。本輪把「窗口被切斷」這件事變成報表自己說的話（候選 (b)），**但它只讓當班知道該撈，不代替當班去撈**——真正的修法仍在收尾權（#119 的 (b)），第五天。
 - **可能層級**：通用反射（任何「attacker 可大量投遞 ＋ 處置是 hold ＋ 取數有窗口」的 intake 線都適用）
 - **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 同時承載「還沒判」與「判過了，等人收尾」兩種意思，處置相反）／[#82](REFLEXES.md) proxy signal（`file=N` 代理「這輪把進來的東西處理掉了」）／LESSONS `gate-built-for-frame-breaking-is-blind-to-frame-impersonation`（同一場攻擊的偵測面）／`intake-never-asks-whether-the-target-exists`（本條第二個發現是它的正向用法）／`every-instrument-on-this-line-measures-my-side-of-the-handoff`（讀者等待時間仍然沒有人在量，本例是它的第二個 instance：等了兩天這件事是本班手算的）
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-11-03 twmd-babel-nightly — push-loop-blocked-by-dirty-shared-file-waits-for-nobody：推送迴圈印「需要人看」十三小時，沒有任何人在看
 
@@ -458,9 +506,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：常駐的推送迴圈遇到「工作樹有改動擋住 merge」時只印 🔴「需要人看」然後下一輪再試；它在無人值守的機器上全天跑，這行字唯一的讀者是隔天剛好去翻 log 的那一班。三重巡檢的「生產」看 report.jsonl，產線全程健康，於是「做好了但沒離開這台機器」不會讓任何一項亮燈。
 - **觸發**：2026-11-03 babel-nightly。`data/compute/claude-usage-ledger.jsonl` 的工作樹版是一份舊版（掉 11-02 兩筆、多 10-24 維護班兩筆從未 commit 的紀錄），`babel-push-every.py` 從 11-02 中午起每兩分鐘合併失敗，本機 ahead 71／182 篇譯文沒上 origin 約十三小時；log 全檔同一則訊息累積 638 次（九月、十月已有舊例）。修法是以 HEAD 為準插回那兩筆再 commit（`81e02b481`），不能直接 checkout 還原。→ [memory/2026-11-03-010003-twmd-babel-nightly.md](memory/2026-11-03-010003-twmd-babel-nightly.md)
 - **instances**：
+  - 2026-11-07 twmd-babel-nightly：同一份帳本，這次工作樹少兩行、同班 memory 檔被刪，連 263 次失敗約九小時，128 篇卡住（修時 131 篇）。diff 只有刪除，`git restore` 後推出。靠 `git pull` 失敗才撞見，上面提議的 pulse 🔴 行至今沒做。→ [memory/2026-11-07-004919-twmd-babel-nightly.md](memory/2026-11-07-004919-twmd-babel-nightly.md)
 - **可能層級**：操作規則（BABEL-VORTEX §三重巡檢加一問「做好的有沒有離開這台機器」：ahead 數與最後一次推送成功距今；push-every 擋住超過 N 輪時把擋路檔與它的 diff 摘要寫進 babel-pulse 的 🔴 行）
 - **相關**：REFLEXES #38 (f) 存活≠生產，本條是再往下一層的「生產≠交付」；#85「不知道」需要自己的符號（🔴 等人看是一個沒有收件人的符號）；`gitlock` v1.99 的冒牌鎖是同一條推送線上另一種「等不到」
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-11-02 twmd-maintainer-daily — verification-reflex-points-outward-only：往外查證三個來源，往自己的佇列一次都沒查
 
@@ -1982,6 +2031,33 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **可能層級**：操作規則（REWRITE-PIPELINE-SINGLE 派工面）
 - **相關**：REFLEXES #65 (f)／#69（同一顆腦不准又寫又審）——本條是它在「並行派工」這個新維度的失效路徑：規則沒被違反，是資源不足讓它靜默不執行
 - **verification_count**: 1
+
+### 2026-11-07 twmd-feedback-triage — 修「知不知道該撈」不會順手修「撈到讀不讀得到」
+
+- **pattern**: `the-mandatory-read-entrance-is-itself-windowed`
+- **原則**：一個被截斷的取數窗口會同時擋住兩個面——**當班知不知道窗口外有人**，以及**撈到之後讀不讀得到那個人**。兩個面住在不同的指令裡（報表 vs 讀取入口），所以修了一個不會自動修另一個，而修完第一個的那份滿足感會讓第二個更難被看見。更尖銳的是第二個面長在閘門身上：HG13 存在的理由就是「窗口外那位讀者要被讀完才准判」，而窗口外的人它讀不到時，它說的是「根本沒查到這筆」——那句話是為「id 打錯」寫的，兩種根因逐字相同而處置相反（改 id vs 加大 `--limit`）。
+- **觸發**：2026-11-07 07:00 轉錄班（憑證索取第六輪）。v1.17 昨天才落地 `formatQueueWindow()`，讓報表自己說「窗口外還有 N 筆」；今天照那條交接加大 `--limit` 撈到三位真實讀者（第 82-84 位，同一位 `菜國人`），把 id 丟給 `--show` 讀全文時回「根本沒查到這筆」，得再帶一次 `--limit 200` 才讀得到 → [memory/2026-11-07-071105-twmd-feedback-triage.md](memory/2026-11-07-071105-twmd-feedback-triage.md)、[reports/feedback-injection-campaign-2026-11-02.md §第六輪](../../reports/feedback-injection-campaign-2026-11-02.md)
+- **已落地那一半**：pipeline v1.18 `formatShowMissing()` 純函式 + 4 unit test（98/98 綠），四種讀數分開（窗口沒滿／窗口滿且外面還有／窗口滿但總數查不到／窗口剛好等於總數），wiring 檢查兩條分支各跑一次真實讀數 + 正控制（同一個真 id 加大窗口後確實印出全文）。純讀取面，不碰判準、不碰閾值。
+- **還沒做的那一半**：**撈這個動作本身仍然沒有閘門**。v1.18 讓 `--show` 提醒「這個 id 可能排在窗口外」，但前提是當班已經知道有這個 id——而知道有這個 id 的唯一路徑仍是第三輪寫進交接、靠自覺執行的那條「加大 `--limit` 再跑一次」。窗口該開多大是閾值（OBSERVER-QUEUE #119 的 (b)），所以這一半動不了。
+- **instances**：（首例，見觸發）
+- **可能層級**：[REFLEXES #38](REFLEXES.md) 混維度的 instance（fold，不開新編號）——載體是「查不到」這三個字。同時是 [#16](REFLEXES.md) 否定式結論延伸的本線形狀：否定式斷言只用了一個被截斷的窗口，而說它的工具不知道自己的視野有多窄。候選的跨域規則：**任何「視野有上限」的工具，它的否定式輸出都要帶上自己的視野大小**，否則「我沒看到」會被讀成「不存在」。
+- **相關**：[REFLEXES #38](REFLEXES.md)（混維度）、[#16](REFLEXES.md)（否定式結論舉證要比肯定式高）、[#85](REFLEXES.md)（「不知道」要有自己的符號）、[#97](REFLEXES.md)（交接面完整性——`--show` 第三次漏印該印的東西：v1.11 四欄只印兩欄、11-02 十欄只印八欄、今天是窗口外讀不到）、[#100](REFLEXES.md)（wiring 檢查，承 11-05 `dry-run-gate-catches-the-pipelines-own-edit`）
+- **verification_count**: 1
+- **severity**: structural（它長在 HG13 這道保護讀者的閘門上，而失效方式是把一個真實的人報成不存在）
+
+### 2026-11-07 twmd-maintainer-daily — 閘門亮的那一行，病灶在它底下兩層
+
+- **pattern**: `gate-flags-a-line-whose-real-defect-is-two-layers-below-it`
+- **原則**：格式閘門報的是格式，而它指到的那一行可能同時住著事實錯誤。照字面把它當格式修掉（本例：把裸中文片名塞進括號）會讓閘門轉綠、讓底下的事實錯誤原封不動上站。**閘門亮燈的位置與病灶的位置只差一行，而那一行要人真的讀下去才看得見。** 這是 [#82](REFLEXES.md) proxy signal 的鏡像：不是訊號量到替身，是訊號量對了、但它量的那一維不是最貴的那一維。
+- **觸發**：2026-11-07 09:00 maintainer 審 PR #1968（aminzai 印尼語〈金馬獎〉，92 腳註）。所有機械尺全過：`verify-translation.py` 19/19、`article-health --profile=ci-deploy` hard=0 warn=0、geo／person／script 三把主權保真尺全清。`cjk-residue-check` 只亮一行（`[^74]` 的裸中文片名）。讀那一行發現它本身是錯的，往同一段讀下去加第三方查證，五個原子不成立：鍾雪瑩→不存在的「Charlene Jin Lei」（實為 Chung Suet-ying）、《看我今天怎麼說》→「Twilight's Kiss／Lover's Lane」兩個無關片名（實為 The Way We Talk）、《時代革命》→*Blue Island*（那是《憂鬱之島》，而該段論點正是「哪些香港電影只有台灣放得了」，片名指錯片把論點指錯）、周冠威→「Chan Kin-wai」（實為 Kiwi Chow）、《眾生相》→*The Palace on the Sea*（國際場合用 Queerpanorama）→ [memory/2026-11-07-092255-twmd-maintainer-daily.md](memory/2026-11-07-092255-twmd-maintainer-daily.md)
+- **同日對稱 instance（作者是我）**：同一班修 issue #1971 時補〈台灣邦交國與國際外交〉收尾段的腳註，第一版把「113 個館處」指到 `[^29]`——形式完全合格、沒有任何閘門會擋，而 `[^29]` 講的是 Mark Lambert 與聯大 2758，不是館處（正確是 `[^34]`）。逐條打開腳註核對才攔下。**所以這一天兩次事實錯誤，一次投稿者的一次我的，兩次都穿著合格的形式，差別只在有沒有人逐條打開來對。**
+- **人名幻覺第二型的再次驗證**：五個錯裡四個是「模型不認識這個人／這部片，於是填一個讀起來合理的名字」，而同一篇上一段的東南亞名單（Yeo Yann Yann／Chong Keat Aun／Wu Kang-ren／Chen Shu-fang／Lin Pin-tong）全部正確。缺口不隨翻譯品質分布，只落在模型得猜的那幾格——承 2026-07-25 ar 批次「人名幻覺第二型是填空不是混淆」（MEMORY §神經迴路），本例把它從人名擴到**作品名**，且證明 `person-fidelity-check` 抓不到（它守的是政治人物替換）。
+- **還沒做的那一半**：本班只抽樣了一段加一條腳註，86 個斜體英文片名裡有 18 個沒附中文原名，等於沒有抽樣母體覆蓋。可能的機械化：譯文裡的斜體作品名若未附原文，列為待驗清單（判準機械、零誤判），但那是新增閘門判準（BECOME 鐵律 10），未動。
+- **instances**：（首例，見觸發；同日對稱 instance 一例）
+- **可能層級**：[REFLEXES #102](REFLEXES.md)（引用的形狀撐不起引用的內容）與 [#98](REFLEXES.md)（真原子放錯槽位）的 fold 候選，載體是**閘門的射程**而非引用本身。候選跨域規則：**窄射程的閘門亮燈時，要連它射程外的同段一起讀**，因為會被它抓到的那一行，常是某個更貴的錯誤剛好露出來的那一角。
+- **相關**：[REFLEXES #82](REFLEXES.md)、[#98](REFLEXES.md)、[#102](REFLEXES.md)、[#75](REFLEXES.md)（read ≠ verify）、[#16](REFLEXES.md)（否定式結論舉證要高——本班五個「這是錯的」全部附第三方來源才寫進留言）、[OBSERVER-QUEUE #112](OBSERVER-QUEUE.md)（ko／ja 裸漢字閘門射程，同一班量到三篇韓文 32 處殘留含 7 處簡體字形）
+- **verification_count**: 1
+- **severity**: structural（失效方式是閘門轉綠而事實錯誤上站，且兩個方向都驗到：投稿者的與維護者自己的）
 
 ## ✅ 已消化（保留 pointer）
 

@@ -31,6 +31,8 @@ import {
   parseArgs,
   partitionExcluded,
   shouldPrintIntakeDisambiguation,
+  formatQueueWindow,
+  formatShowMissing,
   selectForShow,
   formatForShow,
   formatIntakeAge,
@@ -562,6 +564,82 @@ test('partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄', () => 
     ['bbb'],
   );
   assert.deepEqual(p.unmatched, []);
+});
+
+test('formatQueueWindow: 窗口沒滿 → 不印（佇列已全部讀進來,窗口不是限制條件）', () => {
+  assert.equal(formatQueueWindow({ fetched: 3, limit: 50, total: 3 }), null);
+  assert.equal(formatQueueWindow({ fetched: 0, limit: 50, total: 0 }), null);
+});
+
+test('formatQueueWindow: 窗口滿且外面還有 → 印出剩幾筆（第五輪那位醫師排在第 82 位）', () => {
+  const line = formatQueueWindow({ fetched: 50, limit: 50, total: 82 });
+  assert.match(line, /讀進 50 筆已到 --limit 50 上限/);
+  assert.match(line, /共 82 筆/);
+  assert.match(line, /窗口外還有 32 筆/);
+  assert.match(line, /⚠️/);
+});
+
+test('formatQueueWindow: 總數查不到 → 說查不到,不說窗口外沒東西（#85 不借用「沒事」的長相）', () => {
+  const line = formatQueueWindow({ fetched: 50, limit: 50, total: null });
+  assert.match(line, /佇列總數查不到/);
+  assert.ok(!/窗口外沒有剩餘/.test(line));
+});
+
+test('formatQueueWindow: 窗口剛好等於佇列總數 → 說窗口外沒有剩餘（跟查不到不共用長相）', () => {
+  const line = formatQueueWindow({ fetched: 50, limit: 50, total: 50 });
+  assert.match(line, /窗口外沒有剩餘/);
+  assert.ok(!/查不到/.test(line));
+});
+
+test('formatQueueWindow: 參數不是數字 → 回 null,不印一行猜的事實', () => {
+  assert.equal(formatQueueWindow({}), null);
+  assert.equal(formatQueueWindow({ fetched: 50 }), null);
+});
+
+test('formatShowMissing: 窗口沒滿 → 說是這個 id 不在 status=new（整批都讀進來了）', () => {
+  const line = formatShowMissing({
+    id: 'typo',
+    fetched: 3,
+    limit: 50,
+    total: 3,
+  });
+  assert.match(line, /整批讀進來/);
+  assert.doesNotMatch(line, /加大 --limit/);
+});
+
+test('formatShowMissing: 窗口滿且外面還有 → 說可能排在窗口外,叫人加大 --limit（第六輪那三位讀者）', () => {
+  const line = formatShowMissing({
+    id: 'real-reader',
+    fetched: 50,
+    limit: 50,
+    total: 84,
+  });
+  assert.match(line, /窗口外還有 34 筆/);
+  assert.match(line, /加大 --limit/);
+  // 舊版那句話把兩種根因讀成同一件事,不准再出現。
+  assert.doesNotMatch(line, /根本沒查到/);
+});
+
+test('formatShowMissing: 窗口滿但總數查不到 → 說分不出哪一種,不替任一根因背書（#85）', () => {
+  const line = formatShowMissing({
+    id: 'x',
+    fetched: 50,
+    limit: 50,
+    total: null,
+  });
+  assert.match(line, /總數查不到/);
+  assert.match(line, /分不出/);
+});
+
+test('formatShowMissing: 窗口剛好等於佇列總數 → 說窗口外沒有剩餘,不叫人加大 --limit', () => {
+  const line = formatShowMissing({
+    id: 'typo',
+    fetched: 50,
+    limit: 50,
+    total: 50,
+  });
+  assert.match(line, /窗口外沒有剩餘/);
+  assert.doesNotMatch(line, /加大 --limit/);
 });
 
 test('shouldPrintIntakeDisambiguation: 取數為空 → 印（v1.9 以來的原行為）', () => {

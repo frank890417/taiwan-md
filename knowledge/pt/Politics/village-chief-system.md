@@ -1,15 +1,15 @@
 ---
-title: 'O sistema de chefes de vila e bairro: 7.748 líderes eleitos, a unidade política mais básica de Taiwan'
-description: 'Escritórios abertos às 5h30 da manhã, subsídio de NT$ 54.000 mensais, mais de 60% sem partido — os chefes de vila e bairro são o cargo político menos "político" em Taiwan e a prova mais completa de sua democratização.'
+title: 'Sistema de chefes de vila e bairro: 7.748 líderes eleitos, a unidade política mais básica de Taiwan'
+description: 'Chefes de vila e de bairro são o mesmo nível de líder eleito, diferindo na jurisdição: os municípios rurais têm vilas, enquanto as cidades especiais e as cidades condais têm bairros, totalizando 7.748 pessoas em todo Taiwan. Segundo a Lei do Sistema de Governo Local, o mandato é de quatro anos, com reeleição permitida sem limite de mandatos, a cada quatro anos coincidindo com as eleições unificadas de nove cargos; a data da votação em 2026 é 28 de novembro. O cargo de chefe de vila ou bairro é não remunerado, recebendo mensalmente um subsídio para despesas de gabinete de NT$54.000, que não conta como salário; mais de 60% não têm filiação partidária, tendo evoluído do sistema baojia da era colonial japonesa até se tornarem o cargo eletivo mais básico de Taiwan.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'chefe de vila e bairro',
-    'autonomia local',
+    'chefes de vila e bairro',
+    'autogoverno de base',
     'Lei do Sistema de Governo Local',
-    'sistema Baojia da era japonesa',
-    'eleições 2026',
+    'sistema baojia da era colonial japonesa',
+    'eleições de 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:30:15+08:00'
+translatedAt: '2026-11-05T23:34:40.614728+00:00'
 ---
 
 # O sistema de chefes de vila e bairro: 7.748 líderes eleitos, a unidade política mais básica de Taiwan

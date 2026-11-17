@@ -2,33 +2,37 @@
 title: '백링궈 News: 세계 뉴스를 대만인의 이어폰에 담다'
 description: '캐리와 켄은 이중 언어, 웃음, 그리고 입장을 피하지 않는 대화를 통해 낯선 국제 뉴스를 대만인이 끝까지 듣고 반드시 다시 생각해야 하는 일상의 영역으로 전환했다.'
 date: 2026-08-17
-subcategory: '數位與媒體'
 category: 'People'
 tags: ['백링궈 News', '팟캐스트', '캐리', '켄', '국제 뉴스']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/people/bailingguo-news-podcast-headphones.webp'
+imageCredit: 'Zephyris'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
-sourceCommitSha: 'cf406dedd'
-sourceContentHash: 'sha256:2e4b0f96f5527220'
-sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-13T20:06:44+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:6178ccc8d8afac3a'
+sourceBodyHash: 'sha256:d66f8844359d3f83'
+translatedAt: '2026-11-06T21:22:32.293950+00:00'
 ---
 
-2014년, 캐리와 켄은 아직 '백링궈 News'의 진행자가 아니었다. 그들은 대만 뉴스와 세계가 단절되어 있다는 사실을 목격하며, 이 상황을 바꾸려던 두 젊은이에 불과했다. 2020년, 그들은 '국제 연결'을 주제로台南(타이난)에서 오프라인 행사를 개최했으며, 청중은 현장에서 모였고 프로그램은 이어폰에서 도시로 나왔다. 2022년, 대만이 세계에 들리도록 하기 위해 그들은 신대만달러 250만 위안을 들여 완전 영어 프로그램 제작에 나섰다. [^1] [^2] [^3]
+2014년, 캐리와 켄은 아직 '백링궈 News'의 진행자가 아니었다. 그들은 대만 뉴스가 세계와 단절된 것을 보며 이를 바꾸려 시도하는 두 젊은이일 뿐이었다. 2020년, 그들은 타이난에서 '국제 접속'을 주제로 한 오프라인 행사를 열었고, 청중이 현장에 모였으며, 프로그램은 이어폰에서 도시로 걸어 나왔다. 2022년, 그들은 대만이 국제적으로 들려지기를 바라며 NT$250만을 들여 전 영어 프로그램을 제작했다.[^1] [^2] [^3]
 
-이 세 가지 시간점을 함께 놓아보면 백링궈의 대비가 보인다. 그것은 가장 친구처럼 장난치는 방식으로 가장 잡담 같지 않은 이야기를 다룬다. 백링궈는 국제 뉴스를 단순하게 만드는 것이 아니라, 먼저 사람들이 그에게 다가가게 만드는 것이다. 다가가고 나서야 청중은 자신이 대만과 세계의 관계를 이해하도록 강요받고 있다는 사실을 깨닫는다.
+이 세 시점을 나란히 놓아야 비로소 백링궈의 반전이 보인다: 친구들끼리 장난치듯 가장 편한 방식으로 가장 잡담 같지 않은 이야기를 나눈다. 백링궈는 국제 뉴스를 단순하게 만드는 것이 아니라, 먼저 사람들이 기꺼이 다가가게 만든다. 다가간 뒤에야 청중은 자신이 대만과 세계의 관계를 강제로 이해하고 있음을 깨닫는다.
 
-> **직관에 반하는 핵심 문장:** 백링궈는 뉴스를 잡담처럼 만들지만, 그 때문에 '세계를 이야기할 자격이 있는 자'라는 문제를 대만인의 이어폰 하나하나에 가져온다.
+> **반직관 핵심 문장:** 백링궈는 뉴스를 잡담처럼 만들지만, 바로 그 때문에 '누가 세계를 논할 자격이 있는가'라는 문제를 모든 대만인의 이어폰 속으로 가져온다.
 
-![이어폰 마이크, 백링궈가 국제 뉴스를 일상적인 청취 장면으로 가져오는 것을 상징함](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![헤드폰 마이크, 백링궈가 국제 뉴스를 일상 청취 장면으로 가져옴을 상징](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_사진: `Headphones with Microphone.jpg`, 작가 Zephyris; [Wikimedia Commons 파일 페이지](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. 여기서는 원본 파일의 핫링크를 사용했으며, 이미지는 다운로드하지 않았다._
+_이미지: `Headphones with Microphone.jpg`, 작가 Zephyris; [Wikimedia Commons 파일 페이지](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. 여기서는 원본 파일 핫링크를 사용했으며, 이미지를 다운로드하지 않음._
 
-_사진: Tatler Asia 인터뷰配图, [백링궈 News 진행자 인터뷰](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news)에서 가져옴. 이 비자유 저작권 이미지는 원본 핫링크를 임베드하여 글의 문맥과 출처를 안내하는 용도로만 사용되며, 재권리 부여, 다운로드, 복제 또는 상업적 사용을 주장하지 않는다._
+_이미지: Tatler Asia 인터뷰 삽화, 출처: [백링궈 News 진행자 인터뷰](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). 이는 비자유 저작권 이미지로, 원본 핫링크만 임베디드하여 기사 맥락과 출처 안내용으로 사용하며, 재라이선스·다운로드·재제작·상업적 사용을 주장하지 않음._
 
 ## '미디어 국제화'에서 시작하다
 
@@ -116,24 +120,24 @@ Tatler의 인터뷰는 또 다른 척도를 제시한다: 백링궈는 Facebook�
 
 ## 참고 자료
 
-[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 영어 장편 현장 기록, 2014년 미디어 국제화 시도, 초기 프로그램부터 2020년台南 활동에 이르는 캐리와 켄의 발전 맥락을 정리한다.
+[^1]: [뮤직 팜: 백령과──대만 팟캐스트 2020년 이어폰의 새로운 물결을 목격하다](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 영어 장문 현장 기록으로, 켈리와 켄이 2014년 미디어 국제화 시도, 초기 프로그램부터 2020년 타이난 활동까지의 발전 맥락을 정리했습니다.
 
-[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Taipei Times와 중사통신(中央社)이 전제한 구체적인 보도, 완전 영어 프로그램, 제작 에피소드, 배우 초청 및 제작비 등 검증 가능한 정보를 기록한다.
+[^2]: [타이베이 타임스: 백령과 뉴스, 영어 스케치 코미디 '터프 보바: 대만 언센서드' 출시](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 타이베이 타임스와 중앙사가 전재한 구체적 보도로, 전 영어 프로그램, 제작 회차, 배우 섭외 및 제작비 등 검증 가능한 정보를 기록했습니다.
 
-[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 영어와 중국어를 대조한 뉴스 기사, 백링궈가 대만 Podcast에서 차지한 순위, 국제화 목표 및 민감한 소재의 제작 난도를 설명한다.
+[^3]: [타이베이 타임스: 백령과 뉴스, 영어 스케치 코미디 '터프 보바: 대만 언센서드' 출시](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 영어와 중국어 대조 뉴스 기사로, 백령과의 대만 팟캐스트 순위, 국제화 목표 및 민감한 소재 제작의 어려움을 설명했습니다.
 
-[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 두 진행자의 비전통적인 리포팅 어조, 이중 언어 능력, 프로그램 형식 및 Podcast 생태적 위치를 묘사하는 영어 인물 및 산업 관찰 기사.
+[^4]: [뮤직 팜: 백령과──대만 팟캐스트 2020년 이어폰의 새로운 물결을 목격하다](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 영어 인물 및 산업 관찰 기사로, 두 진행자의 비전통적 진행 톤, 이중언어 능력, 프로그램 형식 및 팟캐스트 생태계 내 위치를 묘사했습니다.
 
-[^5]: [Tatler Asia: 2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021년 진행자 인터뷰, 프로그램 기원, 국제 뉴스 목표, Podcast의 동반감, 라이브 방송 및 오프라인 활동, 그리고 캐리와 켄의 직접 인용문을 제공한다.
+[^5]: [타틀러 아시아: 2021년 가장 핫한 팟캐스트 '백령과 뉴스' 들어보셨나요?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021년 진행자 인터뷰로, 프로그램 기원, 국제 뉴스 목표, 팟캐스트의 동반감, 라이브 및 오프라인 활동, 그리고 켈리와 켄의 직접 인용문을 제공했습니다.
 
-[^6]: [백링궈 News 공식 웹사이트](https://www.bailingguonews.com/) — 창작자가 공개한 프로그램 위치, 이중 언어 슬로건, 고정 업로드 시간 및 국제 뉴스 제작 방식은 1차 자기 설명을 검증하는 출처이다.
+[^6]: [백령과 뉴스 공식 웹사이트](https://www.bailingguonews.com/) — 창작자가 직접 공개한 프로그램 포지셔닝, 이중언어 슬로건, 고정 업로드 시간 및 국제 뉴스 제작 방식으로, 제1자 자기 설명을 검증하는 출처입니다.
 
-[^7]: [Apple Podcasts: 백링궈 News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — 공식 프로그램의 Apple Podcasts 상세 페이지, 진행자, 이중 언어 대화, 프로그램 설명 및 창작자 정보 등 1차 배포 자료를 보존한다.
+[^7]: [애플 팟캐스트: 백령과 뉴스](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — 애플 팟캐스트의 공식 프로그램 상세 페이지로, 진행자, 이중언어 대화, 프로그램 설명 및 창작자 정보 등 제1자 배포 자료를 보존하고 있습니다.
 
-[^8]: [Spotify: 백링궈 News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — 공식 프로그램의 Spotify 상세 페이지, 프로그램 설명 및 여러 구체적인 에피소드 및 인터뷰 받은 창작자를 나열하여 프로그램 내용 범위를 검증하는 데 제공한다.
+[^8]: [스포티파이: 백령과 뉴스](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — 스포티파이의 공식 프로그램 상세 페이지로, 프로그램 설명 및 여러 구체적 에피소드와 인터뷰 창작자를 나열하여 프로그램 내용 범위를 검증할 수 있습니다.
 
-[^9]: [Spotify: The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — 2020년 1월의 구체적인 에피소드 페이지, 에피소드 날짜, 길이, 인터뷰 대상자 및 초기 프로그램 설명을 보존하여 백링궈의 초기 형적을 추적할 수 있다.
+[^9]: [스포티파이: 더 KK 쇼 — 008 국제 뉴스 강자: 범기비](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — 2020년 1월의 구체적 에피소드 페이지로, 에피소드 날짜, 길이, 인터뷰 대상자 및 초기 프로그램 설명을 보존하여 백령과의 초기 형태를 추적할 수 있습니다.
 
-[^10]: [SoundOn: 백링궈 News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Podcast 플랫폼의 구체적인 프로그램 상세 페이지, 백링궈의 이중 언어 프로그램 설명 및 진행자 위치를 보존하여 공식 자기 소개를 교차 검증할 수 있다.
+[^10]: [사운드온: 백령과 뉴스](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — 팟캐스트 플랫폼의 구체적 프로그램 상세 페이지로, 백령과의 이중언어 프로그램 설명과 진행자 포지셔닝을 보존하여 공식 자기소개와 교차 검증할 수 있습니다.
 
-[^11]: [BIOS Monthly: 史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — 2020년 캐리와 켄의 인물 인터뷰, 두 사람의 작업 배경, 프로그램 형성 및 정치적 부적절 표현에 대한 자기 이해를 기록한다.
+[^11]: [BIOS 먼슬리: 역대 가장 정치적으로 올바르지 않은 인터뷰(떨림) 끝에 의견을 토해낸 팟캐스트](https://www.biosmonthly.com/article/10325) — 2020년 켈리와 켄의 인물 인터뷰로, 두 사람의 업무 배경, 프로그램 형성 및 정치적으로 올바르지 않은 표현에 대한 자기 이해를 기록했습니다.

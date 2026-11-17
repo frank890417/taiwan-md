@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15052,
+  "totalArticles": 15053,
   "totalCategories": 15,
   "estimatedContributors": 80,
-  "totalTags": 8970,
+  "totalTags": 8984,
   "categories": [
     {
       "name": "people",
@@ -10,7 +10,7 @@
     },
     {
       "name": "society",
-      "count": 1588
+      "count": 1589
     },
     {
       "name": "culture",
@@ -76,7 +76,7 @@
     },
     {
       "name": "企業",
-      "count": 51
+      "count": 52
     },
     {
       "name": "YouTuber",
@@ -84,7 +84,7 @@
     },
     {
       "name": "ODM",
-      "count": 36
+      "count": 38
     },
     {
       "name": "民主化",
@@ -92,27 +92,15 @@
     },
     {
       "name": "原住民族",
-      "count": 30
-    },
-    {
-      "name": "科技與企業",
       "count": 29
     },
     {
       "name": "政治",
-      "count": 28
-    },
-    {
-      "name": "台南",
-      "count": 28
+      "count": 27
     },
     {
       "name": "AI",
       "count": 26
-    },
-    {
-      "name": "原住民",
-      "count": 25
     },
     {
       "name": "飲食文化",
@@ -123,12 +111,24 @@
       "count": 25
     },
     {
+      "name": "台南",
+      "count": 25
+    },
+    {
       "name": "建築",
       "count": 25
     },
     {
       "name": "원주민",
+      "count": 25
+    },
+    {
+      "name": "科技與企業",
       "count": 24
+    },
+    {
+      "name": "原住民",
+      "count": 23
     },
     {
       "name": "기업",
@@ -143,8 +143,8 @@
       "count": 21
     },
     {
-      "name": "音樂",
-      "count": 21
+      "name": "體育",
+      "count": 20
     }
   ],
   "languageDistribution": {
@@ -157,17 +157,17 @@
     "ja": 1158,
     "de": 1158,
     "ru": 1158,
-    "zh-TW": 1161,
+    "zh-TW": 1162,
     "id": 1157,
     "ar": 1158,
     "pt": 1158
   },
-  "lastUpdated": "2026-11-04T22:07:00.342Z",
-  "stars": 1237,
+  "lastUpdated": "2026-11-06T22:29:04.943Z",
+  "stars": 1239,
   "forks": 188,
-  "zhPages": 1159,
+  "zhPages": 1160,
   "languagePages": {
-    "zh-TW": 1159,
+    "zh-TW": 1160,
     "en": 1158,
     "ja": 1158,
     "ko": 1158,
@@ -182,5 +182,5 @@
     "de": 1158
   },
   "enPages": 1158,
-  "totalPages": 1159
+  "totalPages": 1160
 }

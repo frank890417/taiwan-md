@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '5478954ba'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-09-18T00:53:01+08:00'
+translatedAt: '2026-11-06T08:34:06.379823+00:00'
 ---
 
 # 천스쥔(陳士駿)

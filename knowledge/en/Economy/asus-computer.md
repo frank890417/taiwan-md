@@ -1,37 +1,37 @@
 ---
-title: "ASUS (ASUSTeK): A Taiwanese Brand, From a Taipei Apartment in 1989 to the World's Top Motherboard Maker"
-description: 'ASUS is a Taiwanese company. Four former Acer engineers founded it in 1989 in an apartment on Minsheng East Road in Taipei, with NT$10 million in capital. It holds over 40% of the global motherboard market, first for 15 straight years, and ranks fifth in PC shipments. ASUS committed to its own brand early and spun off its contract manufacturing as Pegatron in 2008.'
+title: "ASUS: From a Taipei Apartment to the World's No. 1 Motherboard Brand from Taiwan"
+description: 'ASUS is a Taiwanese brand founded in 1989 by four former Acer engineers in an apartment on Minsheng East Road in Taipei, with a capital of only NT$10 million. Starting with motherboards, it achieved over 40% global motherboard market share and ranked No. 1 for 15 consecutive years, while its PC shipments rank fifth worldwide. Unlike many Taiwanese tech firms, ASUS decided early on to operate its own brand rather than pure contract manufacturing, spinning off its OEM business as Pegatron in 2008 to focus solely on brand operations.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags: ['Economy', 'Enterprise', 'Computer Hardware', 'Brand', 'Technology']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
-translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078e'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-07-06T16:37:25Z'
 evolveHistory:
   - date: 2026-11-04
-    action: seo
-    reason: 'SC 28 天 7,164 曝光 6 點擊；查詢全是哪國品牌：「asus which country brand」404、「asus country of origin」286、「asus origin country」265 曝光。title 與 description 首句改成直接說 Taiwanese brand、1989 年台北創立'
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
+translatedFrom: 'Economy/台灣企業：華碩.md'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-06T00:15:14.229003+00:00'
 ---
 
 > **30-Second Overview**
 >
 > ASUSTeK Computer (ASUS) is the world’s fifth-largest personal computer supplier. It grew from a motherboard company founded in Taipei by four engineers in 1989 into a technology giant with annual revenue approaching NT$600 billion. Known worldwide for its “Rock Solid” commitment to quality, its products span motherboards, laptops, smartphones, gaming equipment, and more. ASUS is one of the strongest examples of Taiwan’s IT industry shifting from OEM manufacturing to branded products.
 
-## Why Does ASUS Matter?
+## Why ASUS Matters
 
-Imagine you are assembling a computer. Which motherboard brand would give you the greatest confidence? The answer is very likely ASUS. This Taiwanese brand has become synonymous with “quality” and “innovation” among PC builders, esports players, and creators around the world.
+Imagine you're building a computer — which motherboard brand gives you the most peace of mind? The answer is likely ASUS. This brand from Taiwan has become synonymous with "quality" and "innovation" in the minds of PC gamers, esports athletes, and creators worldwide.
 
-But the ASUS story is far more compelling than that of a motherboard manufacturer. It was a pioneer in Taiwan’s technology sector’s transition from contract manufacturing to brand building, and it is one of the few Taiwanese companies able to compete head-on with global giants such as Apple, Samsung, and Lenovo in the intensely competitive consumer electronics market.
+But ASUS's story is far more remarkable than that of a mere motherboard manufacturer. It is a pioneer in Taiwan's tech industry's shift from OEM manufacturing to branded products, and one of the few Taiwanese companies able to compete head-to-head with global giants like Apple, Samsung, and Lenovo in the fiercely competitive consumer electronics market.
 
-From a four-person startup team in an apartment on Minsheng East Road in Taipei to today’s technology empire spanning 68 countries, ASUS’s growth trajectory reflects the transformation of Taiwan’s technology industry over more than three decades. When “Taiwan No.1” has become a gaming meme, ASUS has offered a different answer through actual market performance.
+From a four-person founding team in an apartment on Minsheng East Road in Taipei to a tech empire spanning 68 countries today, ASUS's growth trajectory reflects the transformation of Taiwan's tech industry over the past three decades. While "Taiwan No.1" has become a gaming meme, ASUS has delivered a different answer through actual market performance.
 
 ## Company Overview: From Motherboard Leader to Full-Spectrum Technology Brand
 

@@ -10,20 +10,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-15T06:51:25+08:00'
+translatedAt: '2026-11-07T00:11:46.814252+00:00'
 ---
 
-> **30초 개관:** 부누스족의 밀 제의는 수확 후에만 등장하는 축제가 아니라, 밀의 성장 주기에 따라 파종, 초제, 수확, 진창과 노래를 배열한다. 밀 재배는 토지 관리, 작물 전환, 종교 변화로 인해 중단되었다. 오늘날의 복진은 씨앗, 교실, 부족 들판에서 작물, 가족, 기억를 다시 이어가고 있다.
+**30초 개요:** 부누스족의 밀 제의는 수확 후에야 등장하는 축제가 아니라, 밀의 생장 주기에 따라 파종, 제초, 수확, 입고, 노래 부르기를 배열한 것이다. 밀 재배는 토지 관리, 작물 전환, 종교 변화로 인해 중단된 바 있다. 오늘날의 부흥은 씨앗, 교정, 부족 밭에서 작물, 가족, 기억을 다시 잇는 것에서 시작된다.
 
-나투신의 신의 농장에서는, 작은 방충망으로 덮인 밀밭이 있었다. 2022년, 여기에 미국 종원 센터에서 데려온 28개의 나투신 지역 품종을 심었다. 이것은 단순한 농업 실험이 아니라, 부누스족 청년과 장인이 다시 밀 이야기를 시작한 곳이었다.[^1]
+남투 신이향의 실험림 안에, 한때 새막을 친 작은 밀밭이 있었다. 2022년, 이곳에 미국 종자원에서 타이완으로 가져온 28개 남투 토종 품계가 심어졌다. 이는 단순한 농업 시험이 아니라, 부누스족 청년과 장로가 다시 밀 이야기를 나누는 입구였다.[^1]
 
-같은 작물이라도, 부누스족 생활 속에서는 성장 단계별로 9가지 이상의 이름이 있다. 이것은 음식일 뿐만 아니라, 가족의 부산물, 사회적 관계, 제의 질서의 좌표이기도 하다.[^2] 직관에 반하는 점은, 밀 문화의 단절은 단지 한 가지 음식을 잃은 것이 아니라, 작물로 시간을 표시하는 생활 방식마저도 상실했다는 점이다.
+같은 작물이 부누스족 삶에는 서로 다른 생장 단계에 대응하는 아홉 가지 이상의 이름으로 불린다. 그것은 음식이면서, 동시에 가정의 부, 사회적 관계, 제의 질서의 좌표이기도 하다.[^2] 반직관적인 점은: 밀 문화의 단절은 단지 한 가지 양식이 줄어든 것이 아니라, 작물로 시간을 표시하던 한 생활 방식이 의지할 점을 잃게 했다는 데 있다.
 
-이제, 복원하는 사람들은 단지 오래된 작물을 되찾고 있는 것이 아니다. 그들은 묻고 있다: "제의가 원래 밀의 성장에 따라 움직였다면, 밀이 더 이상 심어지지 않을 때, 무대 위의 노래만으로 그 시간을 되찾을 수 있을까?"
+오늘날 밀을 다시 경작하는 사람들은 단지 한 고대 작물을 되찾는 데 그치지 않는다. 그들은 묻고 있다: 만약 제의가 본래 밀의 생장을 따랐다면, 밀을 더 이상 심지 않을 때, 부족민들이 무대 위의 노래만으로 그 시간을 다시 불러올 수 있을까?
 
 ## 1년은 달력에서 시작되지 않는다
 
@@ -145,20 +147,20 @@ translatedAt: '2026-09-15T06:51:25+08:00'
 
 ## 참고 자료
 
-[^1]: [국립 대학교: NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — 대학 영문 보도는 1977년 지역 밀 종원, 2011년 대만으로 재수입, 2022년 신 부족과의 협력 복원 맥락을 기록한다.
+[^1]: [국립타이완대학: NTU와 부농족이 손잡고 조 부흥에 나서다](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — 타이완대학 영문 교신(校訊)은 1977년 현지 조 종자, 2011년 대만으로 재도입, 2022년 신이(信義) 부락과의 협력 복원 과정을 기록하고 있다.
 
-[^2]: [Xu Ya-mei: 부누스족 밀 문화 생태학 연구—나투신 하향 부족을 예로](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — 학위 논문 요약은 문화 생태학과 현장 조사를 통해 부누스족 밀 이름, 재배 방식 및 사회적·영적 의미를 분석한다.
+[^2]: [쉬야후이(徐雅慧): 부농족의 조 문화생태학 연구—난터우현 왕샹(望鄉) 부락을 사례로](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — 학위논문 초록은 문화생태학과 현지조사를 통해 부농족 조의 명칭, 재배 방식 및 그 사회적·정신적 의의를 분석한다.
 
-[^3]: [국가 문화 기억고: 해단관—2021제의X계절—해단 신 부누스족 문화 산업 특전 전시 문안—파종 제의](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — 해단 신 부누스족 파종 제의 전시 문안, 기도, 시험 파종, 악마 몰래, 농기구 기도, 제의 노래, 파종 절차를 하나씩 기록한다.
+[^3]: [국가문화기억고: 하이뎬관(海端館)－2021 제식(祭食) X 계시(季時)－하이뎬향 부농족 문화산업 특별전 기획안－파종제](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — 하이뎬향 부농 파종제 기획안으로, 축복, 시험 파종, 축귀, 농기구 축복, 제사 노래 및 파종 절차를 항목별로 기록하였다.
 
-[^4]: [연평 신 부누스 문화 지식 보존고: 후진복—나의 밀 문화 인식](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — 부누스족 문화 전수자의 1인칭 자료, 제의 순서, 꿈의 금기, 가족 분업, 교체, 밀 품종을 설명한다.
+[^4]: [옌핑향 부농 문화 지식 보존고: 후친푸(胡欽福)—내가 아는 조 문화](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — 부농족 문화 전승자의 1인칭 자료로, 제의 시차, 꿈 금기, 가족 분업, 품앗이 및 조 품종을 설명한다.
 
-[^5]: [국가 문화 유산 네트워크: 부누스족 pasibutbut 밀 수확 기원 노래](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — 문화 유산 등록 페이지의 부누스족 전통 복음 노래 자료, 노래 제목, 전승 공동체, 역사적 보존 맥락을 제공한다.
+[^5]: [국가문화자산망: 부농족 파시부트부트(pasibutbut) 기도 조 풍년가](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — 문화자산 등록 페이지의 부농족 전통 복성 가요 자료로, 노래 이름, 전승 공동체 및 역사적 보존 맥락을 제공한다.
 
-[^6]: [호연 현 문화국: 부누스족 음악 pasibutbut(밀 수확 노래)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — 호연 문화 유산 자료는 고풍 부족의 리드 보컬과 합창 방식, 전승 공동체 및 1980년대 이후 복원 작업을 설명한다.
+[^6]: [화롄현 문화국: 부농족 음악 파시부트부트(pasibutbut)(조 풍년가)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — 화롄현 문화자산 자료는 고풍 부락의 선창과 화음 방식, 전승 공동체 및 1980년대부터의 부흥 작업을 설명한다.
 
-[^7]: [문화부: Taiwan’s Bunun people invited to perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — 문화부 영문 기사는 2022년 파리 공연, pasibutbut의 제의 의미, 6~12명 합창, 검즈와 루오의 녹음 기록을 기록한다.
+[^7]: [문화부: 대만 부농족, 파리 공연 초청받다](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — 문화부 영문 기사는 2022년 파리 공연, 파시부트부트의 제의적 의미, 6~12인 합창 및 구로사와 다카아사(黑澤隆朝)의 녹음 기록을 기록하고 있다.
 
-[^8]: [대만광화: Renaissance of Bunun Millet Culture—Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — 2023년 영문 심층 보도, 신의 밀 복원, 구메 초등학교 교과과정, 제의 재현 및 Garden Program 참여자들을 추적한다.
+[^8]: [타이완광화: 부농족 조 문화의 르네상스—가든 프로그램(Garden Program) 아래 토종 품종 재배](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — 2023년 영문 심층 보도로, 신이향 조 부흥, 주메이(九梅) 초등학교 교육과정, 제의 재현 및 가든 프로그램의 귀향 참여자를 추적한다.
 
-[^9]: [국립 대학교: 조선 부누스족의 원음 재현과 현대 상상](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — 대학 활동 자료는 pasibutbut의 정체성 의미를 설명하며, 조선 부누스족 전통 음악이 현대 전시에서 어떻게 재해석되는지 보여준다.
+[^9]: [국립타이둥대학: 쭤시(卓溪) 부농족의 원음 재현과 현대적 상상](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — 대학 행사 자료는 파시부트부트의 민족 정체성 의의와 쭤시 부농 전통 음악의 현대 공연에서의 재해석을 설명한다.

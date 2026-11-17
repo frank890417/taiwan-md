@@ -53,9 +53,11 @@ ASSET = re.compile(r"^/(images|article-images|assets|og-images|_astro|api|fonts)
 # 存在的頁面全報成死連結——閘門誤報比漏報更貴，因為它會訓練人忽略它。
 NON_ARTICLE_ROOTS = {
     "about", "assets", "bench", "budget", "changelog", "companies", "contribute",
-    "dashboard", "data", "elections", "explore", "feedback-uxtest", "fork-graph",
-    "graph", "latest", "lifetree", "map", "mcp", "opendata", "projects", "resources",
+    "dashboard", "data", "elections", "embed", "explore", "feedback-uxtest", "fork-graph",
+    "graph", "health", "housing", "income", "industry", "latest", "lifetree", "map", "mcp",
+    "names", "opendata", "projects", "resources",
     "search", "semiont", "soundscape", "taiwan-shape", "terminology", "timeline",
+    "tools", "topics",
 }
 
 

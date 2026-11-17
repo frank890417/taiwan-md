@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-19T11:59:01+08:00'
+translatedAt: '2026-11-06T08:17:41.964897+00:00'
 ---
 
 > **30-Second Overview**: Energy poverty is not simply "using too much electricity" or "not knowing how to conserve," but rather households lacking sufficient resources to obtain safe, affordable, and efficient energy services. For families living in old apartments, rooftop additions, poorly ventilated rooms, or using second-hand energy-intensive air conditioners, turning on the AC may cause bill pressure, while not turning it on may increase heat injury risk. Taiwan currently lacks a nationally consistent definition of energy poverty, but civil society surveys have found that assisted vulnerable households' energy expenditure as a share of disposable income is notably high.[^1] When high temperatures are treated by the government as a cross-sectoral risk, energy poverty can no longer be just conservation advocacy, but must become a public issue jointly addressed by housing, social welfare, public health, and climate adaptation.[^2]

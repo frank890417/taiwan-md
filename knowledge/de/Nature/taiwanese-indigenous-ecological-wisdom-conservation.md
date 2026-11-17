@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-09-25T15:42:51+08:00'
+translatedAt: '2026-11-05T23:56:02.922708+00:00'
 ---
 
 # Taiwans indigenes Umweltwissen und Naturschutz

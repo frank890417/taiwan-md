@@ -16,20 +16,22 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
-translatedAt: '2026-09-11T10:28:55+08:00'
+translatedAt: '2026-11-05T18:13:20.945270+00:00'
 ---
 
-> **Vue d'ensemble en 30 secondes :** À la fin de l'année 1786, un conflit local à Daliyi (Changhua) s'est amplifié pour devenir l'une des plus vastes révoltes populaires de la période des Qing à Taïwan. Les actions de Lin Shuangwen, Zhuang Datian et Jin Niang ont obligé la cour des Qing à transférer des troupes interprovinciales et à réorganiser, après la guerre, les ports d'embarquement, les soldats-gardiens et les systèmes de fortification. Cet article ne se contente pas de décrire l'événement comme une « pacification » par les armées impériales, mais interroge la manière dont une guerre a transformé la façon dont l'Empire gouvernait Taïwan.
+> **Aperçu en 30 secondes :** Fin 1786, un conflit local à Daliyi, Changhua, s'est transformé en l'une des plus grandes révoltes populaires de l'époque Qing à Taïwan. Les actions de Lin Shuangwen, Zhuang Datian, Jin Niang et d'autres ont contraint la cour Qing à mobiliser des troupes à travers les provinces, et à réorganiser après la guerre les ports de traversée, le système de tunting et la défense des villes. Cet article ne se contente pas de présenter l'événement comme « la pacification de la rébellion par l'armée Qing », mais interroge la manière dont une guerre a changé la façon dont l'empire gouvernait Taïwan.
 
-À la fin de l'année 1786, Lin Shuangwen, originaire de Daliyi (Changhua), fut entraîné dans un conflit local qui n'aurait peut-être pas été initié par lui. En janvier 1787, ce conflit avait déjà pris la ville du comté de Changhua et attiré l'attention militaire de l'Empire des Qing sur la moitié ouest de Taïwan. [^1] Au printemps 1788, Lin Shuangwen fut arrêté et transporté à Pékin dans un chariot de prison. [^2]
+Fin 1786, Lin Shuangwen de Daliyi, Changhua, a été entraîné dans un conflit local qui n'avait pas nécessairement été déclenché par lui. En janvier 1787, ce conflit avait déjà pris la ville du district de Changhua et attiré l'attention militaire de l'empire Qing sur la moitié occidentale de Taïwan.[^1] Au printemps 1788, Lin Shuangwen fut capturé et conduit à Pékin dans une cage roulante.[^2]
 
-L'aspect de cette histoire le plus souvent réduit à la « pacification des révoltes par les armées des Qing » est en réalité secondaire par rapport à une question fondamentale : pourquoi une île, considérée par l'Empire comme une périphérie et longtemps réticente à investir des coûts de gouvernance importants, a-t-elle pu contraindre la cour des Qing à mobiliser des troupes par-delà la mer pendant plus d'un an, aboutissant finalement à un changement des politiques portuaires, des soldats-gardiens et de la défense des citadelles ? [^3]
+Cette histoire est trop facilement rédigée comme « la pacification de la rébellion par l'armée Qing », mais la vraie question qui mérite d'être posée est une autre : comment une île que l'empire considérait comme une frontière lointaine et dans laquelle il refusait depuis longtemps d'investir des coûts de gouvernance élevés a-t-elle pu contraindre la cour Qing à mobiliser des troupes au-delà des mers pendant plus d'un an, pour finalement modifier sa politique sur les ports, le tunting et la défense des villes ?[^3]
 
-> **Phrase centrale contre-intuitive :** La conclusion de l'incident de Lin Shuangwen semble restaurer le statu quo, mais elle a en réalité empêché l'Empire des Qing de gouverner Taïwan selon les méthodes antérieures.
+> **Phrase-clé contre-intuitive :** L'issue de l'incident Lin Shuangwen semble en apparence restaurer le statu quo, mais en réalité, elle a rendu impossible pour l'empire Qing de continuer à gouverner Taïwan de la même manière qu'avant.
 
 ## De la répression des sociétés secrètes à la perte de contrôle local
 

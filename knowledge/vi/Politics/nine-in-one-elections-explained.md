@@ -1,18 +1,18 @@
 ---
-title: 'Cuộc bầu cử "Chín hợp nhất" là gì？Chín vị trí, bốn lần nâng cấp, ba mươi năm tiến hóa tự trị địa phương'
-description: 'Từ "chín hợp nhất" được sử dụng rộng rãi lần đầu tiên vào năm 2014, đằng sau là bốn lần tái tổ chức địa lý thành phố — nâng cấp Đài Bắc, Cao Hùng năm 1967, nâng cấp Cao Hùng năm 1979, nâng cấp năm thành phố năm 2010, nâng cấp Đào Viên năm 2014 — kết hợp với ba điểm nút chế độ: cuộc bầu cử trực tiếp thị trưởng thành phố trực thuộc lần đầu tiên năm 1994, hợp nhất Luật Chế độ Địa phương năm 1999, thành lập chức vụ trưởng khu bản địa miền núi năm 2014. Chín vị trí bầu cử cùng ngày — trưởng thành phố trực thuộc / cộng sự thành phố trực thuộc / trưởng tỉnh/thị / cộng sự tỉnh/thị / trưởng xã/thị trấn / đại diện nhân dân xã/thị trấn / trưởng khu bản địa miền núi / đại diện nhân dân khu bản địa miền núi / trưởng xóm/làng — là kết quả tích lũy của ba mươi năm tiến hóa tự trị địa phương ở Đài Loan.'
+title: 'Bầu cử chín hợp nhất là gì? Chín loại chức vụ, bốn lần thăng cấp, ba mươi năm lịch sử diễn biến của tự trị địa phương'
+description: 'Bầu cử chín hợp nhất là việc bầu cử chín chức vụ công địa phương cùng một ngày: Thống đốc thành phố trực thuộc trung ương, Nghị sĩ thành phố trực thuộc trung ương, Thống đốc tỉnh/thành phố, Nghị sĩ tỉnh/thành phố, Trưởng xã/thị trấn/thành phố cấp huyện, Đại biểu dân xã/thị trấn/thành phố cấp huyện, Quận trưởng vùng núi bản địa, Đại biểu dân quận và Trưởng thôn/Trưởng xã, nhiệm kỳ đều là bốn năm. Ngày bầu cử năm 2026 là thứ Bảy, ngày 28 tháng 11, mở cửa từ 8 giờ sáng, thời gian bầu cử cụ thể theo công bố của Ủy ban Trung ương Bầu cử. Cái khuôn khổ này chỉ hình thành năm 2014, là kết quả tích lũy ba mươi năm từ việc thăng cấp Bắc-Khảo (Taipei - Kaohsiung), năm thành phố trực thuộc trung ương, Taoyên và việc bầu cử dân chọn Thống đốc thành phố trực thuộc trung ương.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'chín hợp nhất bầu cử',
-    'công chức địa phương',
-    'trưởng thành phố trực thuộc',
-    'trưởng tỉnh/thị',
-    'cộng sự',
-    'trưởng xóm/làng',
-    'luật chế độ địa phương',
-    'bầu cử 2026',
+    'Bầu cử chín hợp nhất',
+    'Chức vụ công địa phương',
+    'Thống đốc thành phố trực thuộc trung ương',
+    'Thống đốc tỉnh/thành phố',
+    'Nghị sĩ',
+    'Trưởng thôn/Trưởng xã',
+    'Luật chế độ địa phương',
+    'Bầu cử 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -20,11 +20,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-02T20:19:15.034384+00:00'
+translatedAt: '2026-11-05T22:17:01.017205+00:00'
 ---
 
 # Cuộc bầu cử "chín hợp nhất" là gì？

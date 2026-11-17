@@ -1,0 +1,134 @@
+---
+/** §7 工具與來源：工具卡、站內文章、怎麼讀、來源清單（腳註編號對應這裡）。 */
+import { healthCtx } from '../../../utils/health/pageContext';
+import { allSources } from '../../../utils/health/sources';
+import ToolCards from '../ToolCards.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import LtcSubsidy from '../tools/LtcSubsidy.astro';
+import LtcEligibility from '../tools/LtcEligibility.astro';
+import NhiPremium from '../tools/NhiPremium.astro';
+import { getTopic, pickText } from '../../../utils/topics/registry';
+import type { RelItem } from '../../../utils/health/related';
+import { useTranslatedPath } from '../../../i18n/utils';
+interface Props {
+  lang: string;
+  reads: RelItem[];
+}
+const { lang, reads } = Astro.props;
+const { t, r, V } = healthCtx(lang);
+const tp = useTranslatedPath(lang as any);
+const live = reads.filter((x) => !x.pending);
+const pending = reads.filter((x) => x.pending);
+const tools = getTopic('health')!.tools;
+const toolOf = (slug: string) => tools.find((x) => x.slug === slug)!;
+const repo = 'https://github.com/frank890417/taiwan-md';
+---
+
+<section class="bp-section" id="s7">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s7.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s7.h2')}</h2>
+    <h3 class="bp-h3">{t('s7.tools.h')}</h3>
+    <ToolCards lang={lang} />
+    {
+      [
+        'long-term-care-subsidy',
+        'nhi-premium-calculator',
+        'long-term-care-eligibility',
+      ].map((slug) => {
+        const tool = toolOf(slug);
+        return (
+          <ToolFrame
+            title={t(`tool.${slug}.t`)}
+            description={pickText(tool.description, lang as any)}
+            variant="inline"
+            lang={lang as any}
+            standaloneHref={tool.path}
+            embedHref={tool.embedPath}
+          >
+            {slug === 'long-term-care-subsidy' && (
+              <LtcSubsidy lang={lang} variant="inline" />
+            )}
+            {slug === 'nhi-premium-calculator' && (
+              <NhiPremium lang={lang} variant="inline" />
+            )}
+            {slug === 'long-term-care-eligibility' && (
+              <LtcEligibility lang={lang} variant="inline" />
+            )}
+            <p slot="disclaimer">
+              <b>{t('tool.disclaimer.h')}</b>：{t('tool.disclaimer.p')}
+            </p>
+          </ToolFrame>
+        );
+      })
+    }
+
+    <h3 class="bp-h3">{t('s7.read.h')}</h3>
+    <div class="hea-reads">
+      {
+        live.map((x) => (
+          <a class="hea-read" href={x.href}>
+            <b>{x.title}</b>
+            <span>{x.desc}</span>
+          </a>
+        ))
+      }
+    </div>
+    {
+      pending.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('s7.read.pending')}</span>
+          {pending.map((x) => (
+            <span class="hea-pending">{x.title}</span>
+          ))}
+        </div>
+      )
+    }
+
+    <h3 class="bp-h3">{t('s7.guide.h')}</h3>
+    <div class="bp-guide">
+      {
+        [1, 2, 3, 4].map((n) => (
+          <div class="bp-guide-card">
+            <h4>{t(`s7.g${n}.h`)}</h4>
+            <p set:html={r(`s7.g${n}.p`)} />
+          </div>
+        ))
+      }
+    </div>
+
+    <h3 class="bp-h3" id="sources">{t('s7.sources.h')}</h3>
+    <div class="bp-prose"><p>{t('s7.sources.p')}</p></div>
+    <ol class="hea-fnlist">
+      {
+        allSources.map((s) => (
+          <li id={`src-${s.n}`} value={s.n}>
+            <a href={s.url} target="_blank" rel="noopener">
+              {s.title}
+            </a>
+            （{s.date}）
+          </li>
+        ))
+      }
+    </ol>
+    <div class="bp-related">
+      <a
+        href={`${repo}/tree/main/src/data/health`}
+        target="_blank"
+        rel="noopener">⬇︎ {t('s7.download')}</a
+      >
+      <a href={`${repo}/issues/new`} target="_blank" rel="noopener"
+        >✎ {t('s7.corrections')}</a
+      >
+    </div>
+    <p class="bg-chart-src">{t('updated')}{V.asOf}</p>
+
+    <h3 class="bp-h3">{t('s7.more.h')}</h3>
+    <div class="bp-related">
+      <a href={tp('/budget')}>🧾 {t('s7.more.budget')}</a>
+      <a href={tp('/data')}>📊 {t('s7.more.data')}</a>
+      <a href={tp('/timeline')}>🕰 {t('s7.more.timeline')}</a>
+      <a href={tp('/map')}>🗺 {t('s7.more.map')}</a>
+    </div>
+  </div>
+</section>

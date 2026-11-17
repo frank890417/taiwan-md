@@ -1,15 +1,15 @@
 ---
-title: "Le système des chefs de village et de quartier : 7 748 chefs élus, l'unité politique la plus locale de Taïwan"
-description: "Le bureau de quartier à 5 h 30 du matin, 54 000 NT$ d'allocation mensuelle, plus de six sur dix sans étiquette partisane — le chef de village/quartier est le poste politique qui ressemble le moins à de la « politique » dans les élections taïwanaises, et la preuve la plus complète de la démocratisation de Taïwan. Du système baojia de l'ère coloniale japonaise à l'élection directe de 1950, ces 7 748 postes — plus nombreux que les 7-Eleven — font tourner depuis quatre-vingts ans la médiation des relations locales."
+title: "Système des chefs de village et de quartier : 7 748 chefs élus, l'unité politique la plus locale de Taïwan"
+description: "Les chefs de village et les chefs de quartier sont des chefs élus du même niveau, la différence réside dans leur juridiction : les cantons et bourgs ont des villages, les municipalités spéciales et les villes de comté ont des quartiers, au total 7 748 personnes à Taïwan. Selon la « Loi sur le système local », le mandat est de quatre ans, la réélection est autorisée sans limite de nombre de mandats. Tous les quatre ans, ils sont renouvelés lors des élections « neuf en un », le jour du vote en 2026 est le 28 novembre. Les chefs de village et de quartier sont des postes non rémunérés, ils perçoivent chaque mois une allocation de frais de NT$54,000, qui ne compte pas comme un salaire ; plus de 60 % ne sont pas affiliés à un parti, évoluant depuis le système de baojia de l'époque coloniale japonaise pour devenir le poste élu le plus local de Taïwan."
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'chef de village/quartier',
-    'autonomie locale',
-    'loi sur le système local',
-    "baojia de l'ère japonaise",
-    'élections 2026',
+    'Chefs de village et de quartier',
+    'Autonomie locale de base',
+    'Loi sur le système local',
+    "Baojia de l'époque coloniale japonaise",
+    'Élections 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:30:02+08:00'
+translatedAt: '2026-11-05T22:58:01.438910+00:00'
 ---
 
 # Le système des chefs de village et de quartier : 7 748 chefs élus, l'unité politique la plus locale de Taïwan

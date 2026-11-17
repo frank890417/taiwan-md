@@ -109,6 +109,36 @@ export function partitionExcluded(rows, excludeIds) {
 }
 
 /**
+ * 這一輪的取數窗口有沒有被塞滿,窗口外還剩幾筆。
+ *
+ * `--limit` 預設 50,取數是 `created_at.asc`,所以佇列一旦長過 50 筆,新進來的讀者
+ * 永遠排在窗口外,而報表的第一行 `fetched 50` 讀起來跟「佇列剛好有 50 筆」逐字相同。
+ * 2026-10-30 那批 80 筆攻擊列永久佔住最舊 50 筆之後,這件事連三輪成立:第三、四、五輪
+ * 都得靠當班照交接手動加大 `--limit` 再跑一次,才知道窗口外有沒有真實讀者。
+ * 第五輪真的撈到一位（〈台北吸菸室〉的署名醫師勘誤,排在第 82 位,距今 6 小時）——
+ * 前一輪寫「今天沒有新讀者被擋住,但那是運氣,不是機制」,運氣隔一天就用完了。
+ *
+ * 這一行把那個手動動作變成流程給的事實:窗口滿了就說滿了,查得到總數就說還剩幾筆。
+ * **不自己加大 `--limit`、不改預設值、不下裁決**——窗口該開多大是閾值,per BECOME
+ * §行動鐵律 10 要 Full mode ＋ 人類 gate(那條仍在 OBSERVER-QUEUE #119 的 (b) 底下)。
+ * 同 v1.9／v1.12／v1.16 的界線:只給事實不給裁決。
+ *
+ * 總數查不到時說「查不到」,不說「窗口外沒東西」——`null` 不借用「沒事」的長相
+ * (同 HG12b `unavailable` 紀律、[REFLEXES #85](../../docs/semiont/REFLEXES.md))。
+ */
+export function formatQueueWindow({ fetched, limit, total = null } = {}) {
+  // 窗口沒滿 = 佇列已經全部讀進來了,窗口不是這一輪的限制條件,不需要這一行。
+  if (!Number.isFinite(fetched) || !Number.isFinite(limit)) return null;
+  if (fetched < limit) return null;
+  if (total === null || !Number.isFinite(total))
+    return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列總數查不到（不等於窗口外沒有東西——加大 --limit 再跑一次才知道）`;
+  const beyond = total - fetched;
+  if (beyond <= 0)
+    return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · 窗口外沒有剩餘`;
+  return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · ⚠️ 窗口外還有 ${beyond} 筆這一輪沒看到（最舊優先排序,新讀者排在窗口外）`;
+}
+
+/**
  * 這一輪要不要印消歧三行（最近一筆距今 / 這個距今算久嗎 / 讀者送不送得進來）。
  *
  * v1.9〜v1.13 把觸發條件寫成「取數回來是空的」,那個寫法假設佇列塞得滿就代表有東西要做。
@@ -144,6 +174,39 @@ export function selectForShow(rows, showIds) {
   const found = rows.filter((r) => want.has(r.id));
   const seen = new Set(found.map((r) => r.id));
   return { found, missing: [...want].filter((id) => !seen.has(id)) };
+}
+
+/**
+ * `--show` 指名的 id 不在這一批裡時,說清楚是哪一種「不在」。
+ *
+ * v1.7 造這句話時只想得到一種根因:id 打錯了。而 `--show` 跟 dry-run 共用同一個
+ * 取數窗口（預設最舊 50 筆）,所以還有第二種:**id 是對的,人排在窗口外**。
+ * 兩種在舊版輸出裡逐字相同,而處置相反——打錯要改 id,排在窗口外要加大 `--limit`。
+ * 它偏偏長在 HG13 那道「讀完全文才准判」的入口上:**窗口外的讀者結構性地讀不到,
+ * 而讀不到時這道閘門說的是「根本沒查到這筆」**。
+ *
+ * 2026-11-07 第六輪親手絆到:三筆真實讀者排在第 82-84 位,`--show` 回「根本沒查到」,
+ * 要再加 `--limit 200` 才讀得到。v1.17 昨天讓 dry-run 報表自己說「窗口外還有 N 筆」,
+ * 那一行沒有長到這個面上來（[REFLEXES #38](../../docs/semiont/REFLEXES.md) 混維度在
+ * 「查不到」這三個字上的形狀；[#16](../../docs/semiont/REFLEXES.md) 否定式結論的舉證
+ * 要比肯定式高——「查不到」無法被自己的失敗證偽）。
+ *
+ * 純讀取面:只分辨根因、只給事實,**不自己加大 `--limit`、不改預設值、不下裁決**
+ * （窗口該開多大仍是閾值,OBSERVER-QUEUE #119 的 (b)）。總數查不到就說查不到,
+ * 不替任何一種根因背書（同 HG12b `unavailable` 紀律、[#85](../../docs/semiont/REFLEXES.md)）。
+ */
+export function formatShowMissing({ id, fetched, limit, total = null } = {}) {
+  const head = `  ⚠️ --show id=${id} 不在這一批 status=new 裡`;
+  const windowFull =
+    Number.isFinite(fetched) && Number.isFinite(limit) && fetched >= limit;
+  if (!windowFull)
+    return `${head}（佇列這一輪已整批讀進來 ${fetched} 筆,所以是這個 id 不在 status=new —— 不是「內容沒問題」）`;
+  if (total === null || !Number.isFinite(total))
+    return `${head}（⚠️ 窗口已滿 ${fetched}/${limit} 而佇列總數查不到 —— 分不出是 id 打錯還是排在窗口外,加大 --limit 再試一次）`;
+  const beyond = total - fetched;
+  if (beyond <= 0)
+    return `${head}（窗口滿 ${fetched}/${limit} 但佇列共 ${total} 筆、窗口外沒有剩餘,所以是這個 id 不在 status=new）`;
+  return `${head}（⚠️ 窗口滿 ${fetched}/${limit}、佇列共 ${total} 筆,窗口外還有 ${beyond} 筆沒讀進來 —— 這個 id 可能就排在外面,加大 --limit 再試一次才分得出是打錯還是被窗口擋住）`;
 }
 
 /**
@@ -611,12 +674,24 @@ async function fetchNewFeedback(limit) {
     );
   }
   const endpoint = `${url}/rest/v1/feedback?status=eq.new&order=created_at.asc&limit=${limit}`;
+  // `count=exact` 讓同一個請求的 content-range 帶回 status=new 的真實總筆數,
+  // 這樣「窗口滿了,外面還有幾筆」不必再多打一次 Supabase（formatQueueWindow）。
   const res = await fetch(endpoint, {
-    headers: { apikey: key, Authorization: `Bearer ${key}` },
+    headers: {
+      apikey: key,
+      Authorization: `Bearer ${key}`,
+      Prefer: 'count=exact',
+    },
   });
   if (!res.ok)
     throw new Error(`Supabase REST ${res.status}: ${await res.text()}`);
-  return res.json();
+  const rows = await res.json();
+  // content-range 形如 `0-49/82`；解不出來就回 null,不拿一個猜的數字當總數。
+  const parsed = parseInt(
+    String(res.headers.get('content-range') || '').split('/')[1],
+    10,
+  );
+  return { rows, total: Number.isFinite(parsed) ? parsed : null };
 }
 
 async function writeBackStatus(id, status, issue, note) {
@@ -845,14 +920,23 @@ async function main() {
   const mode = args.commit ? 'COMMIT' : 'DRY-RUN';
 
   let rows;
+  let queueTotal = null;
   if (args.seed) {
     rows = JSON.parse(readFileSync(args.seed, 'utf8'));
     console.log(
       `[triage] seed=${args.seed} (${rows.length} rows) · mode=${mode}`,
     );
   } else {
-    rows = await fetchNewFeedback(args.limit);
+    const fetchRes = await fetchNewFeedback(args.limit);
+    rows = fetchRes.rows;
+    queueTotal = fetchRes.total;
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
+    const windowLine = formatQueueWindow({
+      fetched: rows.length,
+      limit: args.limit,
+      total: queueTotal,
+    });
+    if (windowLine) console.log(windowLine);
   }
   // 取數當下的筆數 —— `rows` 後面會被 --exclude 的 kept 覆蓋掉,消歧三行的判準要分得出
   // 「本來就沒東西」跟「有東西但整批被攔掉」,所以這個數字得在覆蓋之前留下來。
@@ -883,7 +967,12 @@ async function main() {
     for (const r of sel.found) console.log(formatForShow(r));
     for (const id of sel.missing) {
       console.log(
-        `  ⚠️ --show id=${id} 在這批 status=new 裡找不到（不是「內容沒問題」,是根本沒查到這筆）`,
+        formatShowMissing({
+          id,
+          fetched: fetchedCount,
+          limit: args.limit,
+          total: queueTotal,
+        }),
       );
     }
     console.log(

@@ -1,14 +1,14 @@
 ---
-title: 'Pegatron (和碩聯合科技) — O campeão invisível da fabricação por contrato eletrônica'
-description: 'Nascida da cisão da ASUS, a gigante da fabricação por contrato é a fabricante invisível por trás de iPhones, consoles de jogos e notebooks, sendo uma das "cinco grandes da eletrônica"'
+title: 'Pegatron: a fábrica por contrato que monta iPhones para a Apple e Switches para a Nintendo'
+description: 'A Pegatron é uma fábrica por contrato de eletrônicos de Taiwan, que não produz sua própria marca, especializada em montar produtos para outras empresas: iPhones e MacBooks da Apple, Nintendo Switch, Sony PlayStation, Microsoft Xbox, todos têm modelos saídos de suas linhas de produção. Em 2008, separou-se da Asus e tornou-se independente, com T.H. Tung como presidente do conselho. Em 2024, a receita foi de aproximadamente NT$1,3 trilhão, sendo classificada junto com Quanta, Wistron, Inventec e Compal como os "Cinco Grandes da Eletrônica". A Apple responde por quase metade da receita, sendo o maior cliente e também o maior risco.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
     'Economia',
-    'Empresas',
-    'Fabricação por contrato eletrônica',
-    'Indústria manufatureira',
+    'Empresa',
+    'Fabricação eletrônica por contrato',
+    'Indústria de manufatura',
     'ODM',
   ]
 subcategory: '企業列傳'
@@ -17,11 +17,15 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-07-26T07:02:07+08:00'
+translatedAt: '2026-11-05T22:29:37.097218+00:00'
 ---
 
 > **Visão geral em 30 segundos**
@@ -228,12 +232,12 @@ A posição de campeã invisível da Pegatron nos diz: na era da divisão global
 
 ## Referências
 
-[^1]: [Site oficial da Pegatron](https://www.pegatroncorp.com/) — Perfil corporativo, escopo de negócios e layout global de manufatura da Pegatron
+[^1]: [Site oficial da Pegatron](https://www.pegatroncorp.com/) — Perfil corporativo da Pegatron, escopo de negócios e layout de manufatura global
 
-[^2]: [Cnyes — Ranking global de fabricantes EMS 2025](https://www.cnyes.com/) — Segundo dados mais recentes de 2025, ranking global de EMS ajustado, Wistron subiu para segundo maior fabricante EMS global
+[^2]: [Cnyes — Ranking global de fabricantes EMS em 2025](https://www.cnyes.com/) — Segundo os dados mais recentes de 2025, o ranking global de EMS foi ajustado, e a Wistron subiu para se tornar o segundo maior fabricante EMS do mundo
 
-[^3]: [Wikipédia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c anunciado oficialmente em 10 de setembro de 2013, não 2012; Pegatron foi principal fabricante por contrato
+[^3]: [Wikipédia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — O iPhone 5c foi anunciado oficialmente em 10 de setembro de 2013, não em 2012; a Pegatron foi a principal fabricante por contrato
 
-[^4]: [Yuan Executivo — Escritório Nacional de Energia e Redução de Carbono](https://www.ey.gov.tw/) — Tung Tzu-hsien assumiu como ministro-chefe do Escritório Nacional de Energia e Redução de Carbono do Yuan Executivo em 2024, mantendo cargo de presidente do conselho da Pegatron
+[^4]: [Yuan Executivo — Escritório Nacional de Energia e Redução de Carbono](https://www.ey.gov.tw/) — Tong Zixian assumiu em 2024 o cargo de presidente do Escritório Nacional de Energia e Redução de Carbono do Yuan Executivo, continuando simultaneamente como presidente da Pegatron
 
-[^5]: [Wikipédia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron fundada em 2008 a partir de cisão da ASUS, histórico corporativo e descrição de principais clientes
+[^5]: [Wikipédia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — A Pegatron foi criada em 2008 a partir de uma cisão da Asus, com histórico da empresa e descrição dos principais clientes

@@ -18,11 +18,13 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
-translatedFrom: Geography/台灣都市發展與城鄉差距.md
-sourceCommitSha: f45a19331
-sourceContentHash: sha256:bfa78a33fd163a9a
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:bfa78a33fd163a9a'
 sourceBodyHash: 'sha256:aa0440f383f174b1'
-translatedAt: 2026-09-10T00:00:00+08:00
+translatedAt: '2026-11-06T00:01:01.605017+00:00'
 ---
 
 # ताइवान का शहरी विकास और शहर-ग्रामीण विभाजन

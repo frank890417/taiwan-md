@@ -1,0 +1,6439 @@
+{
+  "_meta": {
+    "edition_found": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+    "edition_note": "ris.gov.tw 人口統計資料電子書頁(2026-11-10查)列出的最新《全國姓名統計分析》即112年版(第8次編印)；107年/105年為前兩版；無113-115年版。上一版107年版資料日為107年6月30日。",
+    "catalog_urls": [
+      "https://www.ris.gov.tw/documents/html/8/5/241.html",
+      "https://www.ris.gov.tw/documents/html/5/2/popudata-quart-pub.html"
+    ],
+    "pdf_url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+    "total_population": 23373283,
+    "male": 11540567,
+    "female": 11832716,
+    "caveats": [
+      "黃/黄、溫/温、高/髙、龐/龎 分別統計，未合併（p.41）",
+      "原住民傳統姓名與以中文原名或外文音譯者列入「其他」欄(8,089人)，不入姓氏排序（凡例p.4-5）",
+      "姓氏統計依戶役政系統「姓」欄位；不含出國2年戶籍遷出者（凡例二）",
+      "百分比欄 pct_of_total_derived 為本檔以 count/23,373,283 自行計算，非報告原文（前10姓與報告p.26一致）"
+    ]
+  },
+  "1_surname_counts": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表一",
+      "pdf_page": 24,
+      "printed_page": 24,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "total_surnames": 1785,
+    "single": 1667,
+    "compound": 118,
+    "single_pop": 23337790,
+    "single_pct": 99.85,
+    "compound_pop": 27404,
+    "compound_pct": 0.12,
+    "other_pop": 8089,
+    "other_pct": 0.03,
+    "note": "其他=原住民傳統姓名及以中文原名或外文音譯者"
+  },
+  "1_surname_concentration": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表二",
+      "pdf_page": 25,
+      "printed_page": 25,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "rows": [
+      ["第1至10姓", 12339778, 52.79, 12339778, 52.79],
+      ["第11至20姓", 3700210, 15.83, 16039988, 68.63],
+      ["第21至30姓", 2239725, 9.58, 18279713, 78.21],
+      ["第31至40姓", 1415251, 6.05, 19694964, 84.26],
+      ["第41至50姓", 995631, 4.26, 20690595, 88.52],
+      ["第51至60姓", 605384, 2.59, 21295979, 91.11],
+      ["第61至70姓", 424975, 1.82, 21720954, 92.93],
+      ["第71至80姓", 373706, 1.6, 22094660, 94.53],
+      ["第81至90姓", 303117, 1.3, 22397777, 95.83],
+      ["第91至100姓", 184598, 0.79, 22582375, 96.62],
+      ["第101姓以後", 782819, 3.35, 23365194, 99.97],
+      ["其他", 8089, 0.03, 23373283, 100.0]
+    ],
+    "cols": ["range", "pop", "pct", "cum_pop", "cum_pct"]
+  },
+  "1_top10_surnames": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表三",
+      "pdf_page": 26,
+      "printed_page": 26,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "top10_sum": 12339778,
+    "top10_pct": 52.79,
+    "rows": [
+      {
+        "surname": "陳",
+        "count": 2618994,
+        "male": 1291013,
+        "female": 1327981,
+        "pct": 11.21
+      },
+      {
+        "surname": "林",
+        "count": 1947520,
+        "male": 968114,
+        "female": 979406,
+        "pct": 8.33
+      },
+      {
+        "surname": "黃",
+        "count": 1402808,
+        "male": 702272,
+        "female": 700536,
+        "pct": 6.0
+      },
+      {
+        "surname": "張",
+        "count": 1239880,
+        "male": 609568,
+        "female": 630312,
+        "pct": 5.3
+      },
+      {
+        "surname": "李",
+        "count": 1199920,
+        "male": 590830,
+        "female": 609090,
+        "pct": 5.13
+      },
+      {
+        "surname": "王",
+        "count": 955035,
+        "male": 472847,
+        "female": 482188,
+        "pct": 4.09
+      },
+      {
+        "surname": "吳",
+        "count": 935684,
+        "male": 468949,
+        "female": 466735,
+        "pct": 4.0
+      },
+      {
+        "surname": "劉",
+        "count": 737607,
+        "male": 362892,
+        "female": 374715,
+        "pct": 3.16
+      },
+      {
+        "surname": "蔡",
+        "count": 684531,
+        "male": 338702,
+        "female": 345829,
+        "pct": 2.93
+      },
+      {
+        "surname": "楊",
+        "count": 617799,
+        "male": 305426,
+        "female": 312373,
+        "pct": 2.64
+      }
+    ]
+  },
+  "1_top100_surnames": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十七(姓氏排名與人數按三階段年齡別分)",
+      "pdf_page": 282,
+      "printed_page": 282,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "pages": "282-283",
+    "rows": [
+      {
+        "rank": 1,
+        "surname": "陳",
+        "count": 2618994,
+        "age0_14": 316689,
+        "age15_64": 1822159,
+        "age65plus": 480146,
+        "pct_of_total_derived": 11.21
+      },
+      {
+        "rank": 2,
+        "surname": "林",
+        "count": 1947520,
+        "age0_14": 239450,
+        "age15_64": 1355816,
+        "age65plus": 352254,
+        "pct_of_total_derived": 8.33
+      },
+      {
+        "rank": 3,
+        "surname": "黃",
+        "count": 1402808,
+        "age0_14": 171524,
+        "age15_64": 989787,
+        "age65plus": 241497,
+        "pct_of_total_derived": 6.0
+      },
+      {
+        "rank": 4,
+        "surname": "張",
+        "count": 1239880,
+        "age0_14": 147602,
+        "age15_64": 861557,
+        "age65plus": 230721,
+        "pct_of_total_derived": 5.3
+      },
+      {
+        "rank": 5,
+        "surname": "李",
+        "count": 1199920,
+        "age0_14": 142380,
+        "age15_64": 839118,
+        "age65plus": 218422,
+        "pct_of_total_derived": 5.13
+      },
+      {
+        "rank": 6,
+        "surname": "王",
+        "count": 955035,
+        "age0_14": 113486,
+        "age15_64": 672086,
+        "age65plus": 169463,
+        "pct_of_total_derived": 4.09
+      },
+      {
+        "rank": 7,
+        "surname": "吳",
+        "count": 935684,
+        "age0_14": 114241,
+        "age15_64": 661852,
+        "age65plus": 159591,
+        "pct_of_total_derived": 4.0
+      },
+      {
+        "rank": 8,
+        "surname": "劉",
+        "count": 737607,
+        "age0_14": 86135,
+        "age15_64": 515654,
+        "age65plus": 135818,
+        "pct_of_total_derived": 3.16
+      },
+      {
+        "rank": 9,
+        "surname": "蔡",
+        "count": 684531,
+        "age0_14": 82747,
+        "age15_64": 477331,
+        "age65plus": 124453,
+        "pct_of_total_derived": 2.93
+      },
+      {
+        "rank": 10,
+        "surname": "楊",
+        "count": 617799,
+        "age0_14": 74065,
+        "age15_64": 433514,
+        "age65plus": 110220,
+        "pct_of_total_derived": 2.64
+      },
+      {
+        "rank": 11,
+        "surname": "許",
+        "count": 540929,
+        "age0_14": 67327,
+        "age15_64": 381167,
+        "age65plus": 92435,
+        "pct_of_total_derived": 2.31
+      },
+      {
+        "rank": 12,
+        "surname": "鄭",
+        "count": 440767,
+        "age0_14": 52302,
+        "age15_64": 307086,
+        "age65plus": 81379,
+        "pct_of_total_derived": 1.89
+      },
+      {
+        "rank": 13,
+        "surname": "謝",
+        "count": 412657,
+        "age0_14": 49700,
+        "age15_64": 287028,
+        "age65plus": 75929,
+        "pct_of_total_derived": 1.77
+      },
+      {
+        "rank": 14,
+        "surname": "洪",
+        "count": 352942,
+        "age0_14": 43706,
+        "age15_64": 245753,
+        "age65plus": 63483,
+        "pct_of_total_derived": 1.51
+      },
+      {
+        "rank": 15,
+        "surname": "郭",
+        "count": 350072,
+        "age0_14": 41296,
+        "age15_64": 243265,
+        "age65plus": 65511,
+        "pct_of_total_derived": 1.5
+      },
+      {
+        "rank": 16,
+        "surname": "邱",
+        "count": 343469,
+        "age0_14": 41508,
+        "age15_64": 238935,
+        "age65plus": 63026,
+        "pct_of_total_derived": 1.47
+      },
+      {
+        "rank": 17,
+        "surname": "曾",
+        "count": 338779,
+        "age0_14": 41153,
+        "age15_64": 235348,
+        "age65plus": 62278,
+        "pct_of_total_derived": 1.45
+      },
+      {
+        "rank": 18,
+        "surname": "廖",
+        "count": 315819,
+        "age0_14": 38521,
+        "age15_64": 219086,
+        "age65plus": 58212,
+        "pct_of_total_derived": 1.35
+      },
+      {
+        "rank": 19,
+        "surname": "賴",
+        "count": 310053,
+        "age0_14": 38021,
+        "age15_64": 215505,
+        "age65plus": 56527,
+        "pct_of_total_derived": 1.33
+      },
+      {
+        "rank": 20,
+        "surname": "徐",
+        "count": 294723,
+        "age0_14": 35259,
+        "age15_64": 204800,
+        "age65plus": 54664,
+        "pct_of_total_derived": 1.26
+      },
+      {
+        "rank": 21,
+        "surname": "周",
+        "count": 282185,
+        "age0_14": 32612,
+        "age15_64": 197747,
+        "age65plus": 51826,
+        "pct_of_total_derived": 1.21
+      },
+      {
+        "rank": 22,
+        "surname": "葉",
+        "count": 276376,
+        "age0_14": 33219,
+        "age15_64": 192251,
+        "age65plus": 50906,
+        "pct_of_total_derived": 1.18
+      },
+      {
+        "rank": 23,
+        "surname": "蘇",
+        "count": 265641,
+        "age0_14": 32083,
+        "age15_64": 184095,
+        "age65plus": 49463,
+        "pct_of_total_derived": 1.14
+      },
+      {
+        "rank": 24,
+        "surname": "莊",
+        "count": 222238,
+        "age0_14": 27095,
+        "age15_64": 153788,
+        "age65plus": 41355,
+        "pct_of_total_derived": 0.95
+      },
+      {
+        "rank": 25,
+        "surname": "江",
+        "count": 214168,
+        "age0_14": 26504,
+        "age15_64": 149073,
+        "age65plus": 38591,
+        "pct_of_total_derived": 0.92
+      },
+      {
+        "rank": 26,
+        "surname": "呂",
+        "count": 212835,
+        "age0_14": 25990,
+        "age15_64": 149711,
+        "age65plus": 37134,
+        "pct_of_total_derived": 0.91
+      },
+      {
+        "rank": 27,
+        "surname": "何",
+        "count": 198755,
+        "age0_14": 24065,
+        "age15_64": 139175,
+        "age65plus": 35515,
+        "pct_of_total_derived": 0.85
+      },
+      {
+        "rank": 28,
+        "surname": "蕭",
+        "count": 194001,
+        "age0_14": 23096,
+        "age15_64": 136154,
+        "age65plus": 34751,
+        "pct_of_total_derived": 0.83
+      },
+      {
+        "rank": 29,
+        "surname": "羅",
+        "count": 193869,
+        "age0_14": 23434,
+        "age15_64": 136180,
+        "age65plus": 34255,
+        "pct_of_total_derived": 0.83
+      },
+      {
+        "rank": 30,
+        "surname": "高",
+        "count": 179657,
+        "age0_14": 22141,
+        "age15_64": 125924,
+        "age65plus": 31592,
+        "pct_of_total_derived": 0.77
+      },
+      {
+        "rank": 31,
+        "surname": "潘",
+        "count": 162042,
+        "age0_14": 19114,
+        "age15_64": 115196,
+        "age65plus": 27732,
+        "pct_of_total_derived": 0.69
+      },
+      {
+        "rank": 32,
+        "surname": "簡",
+        "count": 158851,
+        "age0_14": 19128,
+        "age15_64": 110371,
+        "age65plus": 29352,
+        "pct_of_total_derived": 0.68
+      },
+      {
+        "rank": 33,
+        "surname": "朱",
+        "count": 154057,
+        "age0_14": 18132,
+        "age15_64": 108480,
+        "age65plus": 27445,
+        "pct_of_total_derived": 0.66
+      },
+      {
+        "rank": 34,
+        "surname": "鍾",
+        "count": 152552,
+        "age0_14": 17915,
+        "age15_64": 106489,
+        "age65plus": 28148,
+        "pct_of_total_derived": 0.65
+      },
+      {
+        "rank": 35,
+        "surname": "游",
+        "count": 139073,
+        "age0_14": 17165,
+        "age15_64": 97294,
+        "age65plus": 24614,
+        "pct_of_total_derived": 0.6
+      },
+      {
+        "rank": 36,
+        "surname": "彭",
+        "count": 138119,
+        "age0_14": 16576,
+        "age15_64": 97291,
+        "age65plus": 24252,
+        "pct_of_total_derived": 0.59
+      },
+      {
+        "rank": 37,
+        "surname": "詹",
+        "count": 136232,
+        "age0_14": 16709,
+        "age15_64": 94242,
+        "age65plus": 25281,
+        "pct_of_total_derived": 0.58
+      },
+      {
+        "rank": 38,
+        "surname": "施",
+        "count": 127312,
+        "age0_14": 15392,
+        "age15_64": 88499,
+        "age65plus": 23421,
+        "pct_of_total_derived": 0.54
+      },
+      {
+        "rank": 39,
+        "surname": "胡",
+        "count": 126649,
+        "age0_14": 14967,
+        "age15_64": 90167,
+        "age65plus": 21515,
+        "pct_of_total_derived": 0.54
+      },
+      {
+        "rank": 40,
+        "surname": "沈",
+        "count": 120364,
+        "age0_14": 14277,
+        "age15_64": 83829,
+        "age65plus": 22258,
+        "pct_of_total_derived": 0.51
+      },
+      {
+        "rank": 41,
+        "surname": "余",
+        "count": 118955,
+        "age0_14": 14539,
+        "age15_64": 83530,
+        "age65plus": 20886,
+        "pct_of_total_derived": 0.51
+      },
+      {
+        "rank": 42,
+        "surname": "盧",
+        "count": 111185,
+        "age0_14": 13297,
+        "age15_64": 77570,
+        "age65plus": 20318,
+        "pct_of_total_derived": 0.48
+      },
+      {
+        "rank": 43,
+        "surname": "梁",
+        "count": 107098,
+        "age0_14": 12865,
+        "age15_64": 75363,
+        "age65plus": 18870,
+        "pct_of_total_derived": 0.46
+      },
+      {
+        "rank": 44,
+        "surname": "趙",
+        "count": 103810,
+        "age0_14": 11925,
+        "age15_64": 73750,
+        "age65plus": 18135,
+        "pct_of_total_derived": 0.44
+      },
+      {
+        "rank": 45,
+        "surname": "顏",
+        "count": 103567,
+        "age0_14": 12895,
+        "age15_64": 72025,
+        "age65plus": 18647,
+        "pct_of_total_derived": 0.44
+      },
+      {
+        "rank": 46,
+        "surname": "柯",
+        "count": 102280,
+        "age0_14": 12705,
+        "age15_64": 71182,
+        "age65plus": 18393,
+        "pct_of_total_derived": 0.44
+      },
+      {
+        "rank": 47,
+        "surname": "翁",
+        "count": 93244,
+        "age0_14": 11081,
+        "age15_64": 64462,
+        "age65plus": 17701,
+        "pct_of_total_derived": 0.4
+      },
+      {
+        "rank": 48,
+        "surname": "魏",
+        "count": 89608,
+        "age0_14": 10713,
+        "age15_64": 62145,
+        "age65plus": 16750,
+        "pct_of_total_derived": 0.38
+      },
+      {
+        "rank": 49,
+        "surname": "孫",
+        "count": 83760,
+        "age0_14": 9511,
+        "age15_64": 59553,
+        "age65plus": 14696,
+        "pct_of_total_derived": 0.36
+      },
+      {
+        "rank": 50,
+        "surname": "戴",
+        "count": 82124,
+        "age0_14": 9713,
+        "age15_64": 57692,
+        "age65plus": 14719,
+        "pct_of_total_derived": 0.35
+      },
+      {
+        "rank": 51,
+        "surname": "范",
+        "count": 79190,
+        "age0_14": 9410,
+        "age15_64": 56273,
+        "age65plus": 13507,
+        "pct_of_total_derived": 0.34
+      },
+      {
+        "rank": 52,
+        "surname": "方",
+        "count": 76757,
+        "age0_14": 9036,
+        "age15_64": 53978,
+        "age65plus": 13743,
+        "pct_of_total_derived": 0.33
+      },
+      {
+        "rank": 53,
+        "surname": "宋",
+        "count": 75318,
+        "age0_14": 8778,
+        "age15_64": 53243,
+        "age65plus": 13297,
+        "pct_of_total_derived": 0.32
+      },
+      {
+        "rank": 54,
+        "surname": "鄧",
+        "count": 63544,
+        "age0_14": 7222,
+        "age15_64": 45455,
+        "age65plus": 10867,
+        "pct_of_total_derived": 0.27
+      },
+      {
+        "rank": 55,
+        "surname": "杜",
+        "count": 54163,
+        "age0_14": 6400,
+        "age15_64": 38288,
+        "age65plus": 9475,
+        "pct_of_total_derived": 0.23
+      },
+      {
+        "rank": 56,
+        "surname": "侯",
+        "count": 52912,
+        "age0_14": 6317,
+        "age15_64": 36966,
+        "age65plus": 9629,
+        "pct_of_total_derived": 0.23
+      },
+      {
+        "rank": 57,
+        "surname": "傅",
+        "count": 52562,
+        "age0_14": 6072,
+        "age15_64": 36793,
+        "age65plus": 9697,
+        "pct_of_total_derived": 0.22
+      },
+      {
+        "rank": 58,
+        "surname": "曹",
+        "count": 51403,
+        "age0_14": 5918,
+        "age15_64": 36673,
+        "age65plus": 8812,
+        "pct_of_total_derived": 0.22
+      },
+      {
+        "rank": 59,
+        "surname": "薛",
+        "count": 50246,
+        "age0_14": 5990,
+        "age15_64": 34949,
+        "age65plus": 9307,
+        "pct_of_total_derived": 0.21
+      },
+      {
+        "rank": 60,
+        "surname": "阮",
+        "count": 49289,
+        "age0_14": 4528,
+        "age15_64": 40940,
+        "age65plus": 3821,
+        "pct_of_total_derived": 0.21
+      },
+      {
+        "rank": 61,
+        "surname": "丁",
+        "count": 48495,
+        "age0_14": 5743,
+        "age15_64": 35069,
+        "age65plus": 7683,
+        "pct_of_total_derived": 0.21
+      },
+      {
+        "rank": 62,
+        "surname": "卓",
+        "count": 44936,
+        "age0_14": 5609,
+        "age15_64": 31656,
+        "age65plus": 7671,
+        "pct_of_total_derived": 0.19
+      },
+      {
+        "rank": 63,
+        "surname": "馬",
+        "count": 42710,
+        "age0_14": 4976,
+        "age15_64": 30543,
+        "age65plus": 7191,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 64,
+        "surname": "温",
+        "count": 42171,
+        "age0_14": 5182,
+        "age15_64": 29656,
+        "age65plus": 7333,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 65,
+        "surname": "董",
+        "count": 41537,
+        "age0_14": 4836,
+        "age15_64": 29472,
+        "age65plus": 7229,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 66,
+        "surname": "藍",
+        "count": 41507,
+        "age0_14": 4997,
+        "age15_64": 29012,
+        "age65plus": 7498,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 67,
+        "surname": "古",
+        "count": 41350,
+        "age0_14": 5160,
+        "age15_64": 28968,
+        "age65plus": 7222,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 68,
+        "surname": "石",
+        "count": 40943,
+        "age0_14": 4899,
+        "age15_64": 28948,
+        "age65plus": 7096,
+        "pct_of_total_derived": 0.18
+      },
+      {
+        "rank": 69,
+        "surname": "紀",
+        "count": 40747,
+        "age0_14": 5218,
+        "age15_64": 28427,
+        "age65plus": 7102,
+        "pct_of_total_derived": 0.17
+      },
+      {
+        "rank": 70,
+        "surname": "唐",
+        "count": 40579,
+        "age0_14": 4328,
+        "age15_64": 29505,
+        "age65plus": 6746,
+        "pct_of_total_derived": 0.17
+      },
+      {
+        "rank": 71,
+        "surname": "蔣",
+        "count": 40387,
+        "age0_14": 4660,
+        "age15_64": 28681,
+        "age65plus": 7046,
+        "pct_of_total_derived": 0.17
+      },
+      {
+        "rank": 72,
+        "surname": "姚",
+        "count": 39953,
+        "age0_14": 4747,
+        "age15_64": 28146,
+        "age65plus": 7060,
+        "pct_of_total_derived": 0.17
+      },
+      {
+        "rank": 73,
+        "surname": "連",
+        "count": 39773,
+        "age0_14": 4654,
+        "age15_64": 27688,
+        "age65plus": 7431,
+        "pct_of_total_derived": 0.17
+      },
+      {
+        "rank": 74,
+        "surname": "歐",
+        "count": 37838,
+        "age0_14": 4529,
+        "age15_64": 26303,
+        "age65plus": 7006,
+        "pct_of_total_derived": 0.16
+      },
+      {
+        "rank": 75,
+        "surname": "馮",
+        "count": 37810,
+        "age0_14": 4358,
+        "age15_64": 26723,
+        "age65plus": 6729,
+        "pct_of_total_derived": 0.16
+      },
+      {
+        "rank": 76,
+        "surname": "程",
+        "count": 36448,
+        "age0_14": 4319,
+        "age15_64": 25690,
+        "age65plus": 6439,
+        "pct_of_total_derived": 0.16
+      },
+      {
+        "rank": 77,
+        "surname": "湯",
+        "count": 35907,
+        "age0_14": 4255,
+        "age15_64": 25374,
+        "age65plus": 6278,
+        "pct_of_total_derived": 0.15
+      },
+      {
+        "rank": 78,
+        "surname": "田",
+        "count": 35560,
+        "age0_14": 4809,
+        "age15_64": 25352,
+        "age65plus": 5399,
+        "pct_of_total_derived": 0.15
+      },
+      {
+        "rank": 79,
+        "surname": "康",
+        "count": 35499,
+        "age0_14": 4349,
+        "age15_64": 24688,
+        "age65plus": 6462,
+        "pct_of_total_derived": 0.15
+      },
+      {
+        "rank": 80,
+        "surname": "黄",
+        "count": 34531,
+        "age0_14": 3772,
+        "age15_64": 23966,
+        "age65plus": 6793,
+        "pct_of_total_derived": 0.15
+      },
+      {
+        "rank": 81,
+        "surname": "姜",
+        "count": 34083,
+        "age0_14": 3960,
+        "age15_64": 24125,
+        "age65plus": 5998,
+        "pct_of_total_derived": 0.15
+      },
+      {
+        "rank": 82,
+        "surname": "白",
+        "count": 33142,
+        "age0_14": 4148,
+        "age15_64": 23100,
+        "age65plus": 5894,
+        "pct_of_total_derived": 0.14
+      },
+      {
+        "rank": 83,
+        "surname": "汪",
+        "count": 32452,
+        "age0_14": 3593,
+        "age15_64": 22978,
+        "age65plus": 5881,
+        "pct_of_total_derived": 0.14
+      },
+      {
+        "rank": 84,
+        "surname": "尤",
+        "count": 32036,
+        "age0_14": 3941,
+        "age15_64": 22620,
+        "age65plus": 5475,
+        "pct_of_total_derived": 0.14
+      },
+      {
+        "rank": 85,
+        "surname": "鄒",
+        "count": 31813,
+        "age0_14": 3715,
+        "age15_64": 22594,
+        "age65plus": 5504,
+        "pct_of_total_derived": 0.14
+      },
+      {
+        "rank": 86,
+        "surname": "黎",
+        "count": 29532,
+        "age0_14": 3035,
+        "age15_64": 22940,
+        "age65plus": 3557,
+        "pct_of_total_derived": 0.13
+      },
+      {
+        "rank": 87,
+        "surname": "巫",
+        "count": 29117,
+        "age0_14": 3756,
+        "age15_64": 20209,
+        "age65plus": 5152,
+        "pct_of_total_derived": 0.12
+      },
+      {
+        "rank": 88,
+        "surname": "鐘",
+        "count": 28759,
+        "age0_14": 3532,
+        "age15_64": 19950,
+        "age65plus": 5277,
+        "pct_of_total_derived": 0.12
+      },
+      {
+        "rank": 89,
+        "surname": "涂",
+        "count": 27298,
+        "age0_14": 3278,
+        "age15_64": 19175,
+        "age65plus": 4845,
+        "pct_of_total_derived": 0.12
+      },
+      {
+        "rank": 90,
+        "surname": "龔",
+        "count": 24885,
+        "age0_14": 2852,
+        "age15_64": 17533,
+        "age65plus": 4500,
+        "pct_of_total_derived": 0.11
+      },
+      {
+        "rank": 91,
+        "surname": "嚴",
+        "count": 22084,
+        "age0_14": 2519,
+        "age15_64": 15451,
+        "age65plus": 4114,
+        "pct_of_total_derived": 0.09
+      },
+      {
+        "rank": 92,
+        "surname": "韓",
+        "count": 21190,
+        "age0_14": 2329,
+        "age15_64": 15264,
+        "age65plus": 3597,
+        "pct_of_total_derived": 0.09
+      },
+      {
+        "rank": 93,
+        "surname": "袁",
+        "count": 20907,
+        "age0_14": 2269,
+        "age15_64": 15275,
+        "age65plus": 3363,
+        "pct_of_total_derived": 0.09
+      },
+      {
+        "rank": 94,
+        "surname": "金",
+        "count": 19369,
+        "age0_14": 2626,
+        "age15_64": 13618,
+        "age65plus": 3125,
+        "pct_of_total_derived": 0.08
+      },
+      {
+        "rank": 95,
+        "surname": "童",
+        "count": 19345,
+        "age0_14": 2343,
+        "age15_64": 13648,
+        "age65plus": 3354,
+        "pct_of_total_derived": 0.08
+      },
+      {
+        "rank": 96,
+        "surname": "陸",
+        "count": 17082,
+        "age0_14": 1813,
+        "age15_64": 12292,
+        "age65plus": 2977,
+        "pct_of_total_derived": 0.07
+      },
+      {
+        "rank": 97,
+        "surname": "柳",
+        "count": 16669,
+        "age0_14": 2067,
+        "age15_64": 11882,
+        "age65plus": 2720,
+        "pct_of_total_derived": 0.07
+      },
+      {
+        "rank": 98,
+        "surname": "凃",
+        "count": 16374,
+        "age0_14": 1959,
+        "age15_64": 11380,
+        "age65plus": 3035,
+        "pct_of_total_derived": 0.07
+      },
+      {
+        "rank": 99,
+        "surname": "夏",
+        "count": 16249,
+        "age0_14": 1726,
+        "age15_64": 11941,
+        "age65plus": 2582,
+        "pct_of_total_derived": 0.07
+      },
+      {
+        "rank": 100,
+        "surname": "邵",
+        "count": 15329,
+        "age0_14": 1742,
+        "age15_64": 10996,
+        "age65plus": 2591,
+        "pct_of_total_derived": 0.07
+      }
+    ]
+  },
+  "1_top5_compound": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五",
+      "pdf_page": 28,
+      "printed_page": 28,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "rows": [
+      {
+        "surname": "張簡",
+        "count": 9162
+      },
+      {
+        "surname": "歐陽",
+        "count": 7653
+      },
+      {
+        "surname": "范姜",
+        "count": 4259
+      },
+      {
+        "surname": "周黃",
+        "count": 594
+      },
+      {
+        "surname": "江謝",
+        "count": 533
+      }
+    ],
+    "sum": 22201
+  },
+  "2_county_top10_surnames": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表七(各直轄市、縣(市)前10大姓人口百分比；各縣市自己的前10大，依序)",
+      "pdf_page": 30,
+      "printed_page": 30,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "note": "表四(p.27)是「全國前10大姓」占各縣市人口比，與表七不同口徑；表七列各縣市「本地」前10大姓依人數序，百分比為該10姓占該縣市人口。報告表一(p.90-95)另有各縣市前20大姓人數，本檔未抄。",
+    "rows": [
+      {
+        "county": "新北市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "李",
+          "黃",
+          "張",
+          "王",
+          "吳",
+          "劉",
+          "蔡",
+          "楊"
+        ],
+        "pct_of_county_pop": 53.36
+      },
+      {
+        "county": "臺北市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "張",
+          "李",
+          "黃",
+          "王",
+          "吳",
+          "劉",
+          "楊",
+          "蔡"
+        ],
+        "pct_of_county_pop": 51.95
+      },
+      {
+        "county": "桃園市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "李",
+          "張",
+          "吳",
+          "劉",
+          "王",
+          "楊",
+          "邱"
+        ],
+        "pct_of_county_pop": 48.3
+      },
+      {
+        "county": "臺中市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "張",
+          "黃",
+          "王",
+          "李",
+          "劉",
+          "吳",
+          "蔡",
+          "楊"
+        ],
+        "pct_of_county_pop": 55.55
+      },
+      {
+        "county": "臺南市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "王",
+          "李",
+          "吳",
+          "張",
+          "蔡",
+          "楊",
+          "郭"
+        ],
+        "pct_of_county_pop": 56.25
+      },
+      {
+        "county": "高雄市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "李",
+          "吳",
+          "王",
+          "張",
+          "蔡",
+          "劉",
+          "楊"
+        ],
+        "pct_of_county_pop": 53.2
+      },
+      {
+        "county": "宜蘭縣",
+        "top10_in_order": [
+          "林",
+          "陳",
+          "李",
+          "黃",
+          "張",
+          "吳",
+          "游",
+          "楊",
+          "王",
+          "劉"
+        ],
+        "pct_of_county_pop": 61.07
+      },
+      {
+        "county": "新竹縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "張",
+          "劉",
+          "李",
+          "彭",
+          "吳",
+          "徐",
+          "曾"
+        ],
+        "pct_of_county_pop": 48.15
+      },
+      {
+        "county": "苗栗縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "張",
+          "劉",
+          "李",
+          "吳",
+          "徐",
+          "邱",
+          "謝"
+        ],
+        "pct_of_county_pop": 51.65
+      },
+      {
+        "county": "彰化縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "張",
+          "李",
+          "許",
+          "王",
+          "吳",
+          "楊",
+          "劉"
+        ],
+        "pct_of_county_pop": 53.35
+      },
+      {
+        "county": "南投縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "張",
+          "黃",
+          "李",
+          "吳",
+          "劉",
+          "王",
+          "洪",
+          "廖"
+        ],
+        "pct_of_county_pop": 53.77
+      },
+      {
+        "county": "雲林縣",
+        "top10_in_order": [
+          "林",
+          "陳",
+          "李",
+          "張",
+          "吳",
+          "黃",
+          "廖",
+          "許",
+          "王",
+          "蔡"
+        ],
+        "pct_of_county_pop": 63.94
+      },
+      {
+        "county": "嘉義縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "蔡",
+          "張",
+          "李",
+          "吳",
+          "劉",
+          "王",
+          "許"
+        ],
+        "pct_of_county_pop": 54.91
+      },
+      {
+        "county": "屏東縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "李",
+          "張",
+          "吳",
+          "王",
+          "潘",
+          "蔡",
+          "劉"
+        ],
+        "pct_of_county_pop": 51.38
+      },
+      {
+        "county": "臺東縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "李",
+          "黃",
+          "張",
+          "王",
+          "吳",
+          "楊",
+          "劉",
+          "蔡"
+        ],
+        "pct_of_county_pop": 50.47
+      },
+      {
+        "county": "花蓮縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "張",
+          "李",
+          "吳",
+          "劉",
+          "王",
+          "楊",
+          "曾"
+        ],
+        "pct_of_county_pop": 51.05
+      },
+      {
+        "county": "澎湖縣",
+        "top10_in_order": [
+          "陳",
+          "許",
+          "林",
+          "洪",
+          "蔡",
+          "吳",
+          "王",
+          "呂",
+          "黃",
+          "李"
+        ],
+        "pct_of_county_pop": 56.07
+      },
+      {
+        "county": "基隆市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "張",
+          "李",
+          "黃",
+          "王",
+          "吳",
+          "劉",
+          "楊",
+          "許"
+        ],
+        "pct_of_county_pop": 51.46
+      },
+      {
+        "county": "新竹市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "張",
+          "李",
+          "吳",
+          "楊",
+          "王",
+          "劉",
+          "蔡"
+        ],
+        "pct_of_county_pop": 50.53
+      },
+      {
+        "county": "嘉義市",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "黃",
+          "李",
+          "蔡",
+          "吳",
+          "張",
+          "王",
+          "劉",
+          "許"
+        ],
+        "pct_of_county_pop": 54.52
+      },
+      {
+        "county": "金門縣",
+        "top10_in_order": [
+          "陳",
+          "李",
+          "林",
+          "黃",
+          "蔡",
+          "楊",
+          "許",
+          "王",
+          "張",
+          "吳"
+        ],
+        "pct_of_county_pop": 60.31
+      },
+      {
+        "county": "連江縣",
+        "top10_in_order": [
+          "陳",
+          "林",
+          "王",
+          "曹",
+          "劉",
+          "張",
+          "李",
+          "黃",
+          "吳",
+          "鄭"
+        ],
+        "pct_of_county_pop": 68.67
+      }
+    ]
+  },
+  "2_county_top3_counts": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表八/九/十",
+      "pdf_page": 31,
+      "printed_page": 31,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "note": "各縣市第1-3大姓人數見報告 p.31-33，未抄全表"
+  },
+  "3_top_given_names": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十一(前一百大常見名字，不含姓)",
+      "pdf_page": 266,
+      "printed_page": 266,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "male": [
+      {
+        "rank": 1,
+        "name": "家豪",
+        "count": 14038
+      },
+      {
+        "rank": 2,
+        "name": "志明",
+        "count": 12719
+      },
+      {
+        "rank": 3,
+        "name": "建宏",
+        "count": 12196
+      },
+      {
+        "rank": 4,
+        "name": "俊傑",
+        "count": 12187
+      },
+      {
+        "rank": 5,
+        "name": "俊宏",
+        "count": 11189
+      },
+      {
+        "rank": 6,
+        "name": "志豪",
+        "count": 10676
+      },
+      {
+        "rank": 7,
+        "name": "志偉",
+        "count": 10563
+      },
+      {
+        "rank": 8,
+        "name": "承翰",
+        "count": 9726
+      },
+      {
+        "rank": 9,
+        "name": "冠宇",
+        "count": 9655
+      },
+      {
+        "rank": 10,
+        "name": "志強",
+        "count": 9101
+      },
+      {
+        "rank": 11,
+        "name": "宗翰",
+        "count": 9021
+      },
+      {
+        "rank": 12,
+        "name": "志宏",
+        "count": 8960
+      },
+      {
+        "rank": 13,
+        "name": "冠廷",
+        "count": 8915
+      },
+      {
+        "rank": 14,
+        "name": "志成",
+        "count": 8903
+      },
+      {
+        "rank": 15,
+        "name": "文雄",
+        "count": 8678
+      },
+      {
+        "rank": 16,
+        "name": "承恩",
+        "count": 8631
+      },
+      {
+        "rank": 17,
+        "name": "金龍",
+        "count": 8426
+      },
+      {
+        "rank": 18,
+        "name": "文彬",
+        "count": 8005
+      },
+      {
+        "rank": 19,
+        "name": "正雄",
+        "count": 7971
+      },
+      {
+        "rank": 20,
+        "name": "明輝",
+        "count": 7890
+      },
+      {
+        "rank": 21,
+        "name": "柏翰",
+        "count": 7662
+      },
+      {
+        "rank": 22,
+        "name": "彥廷",
+        "count": 7598
+      },
+      {
+        "rank": 23,
+        "name": "明德",
+        "count": 7417
+      },
+      {
+        "rank": 24,
+        "name": "文龍",
+        "count": 7273
+      },
+      {
+        "rank": 25,
+        "name": "俊賢",
+        "count": 7236
+      },
+      {
+        "rank": 26,
+        "name": "志忠",
+        "count": 6967
+      },
+      {
+        "rank": 27,
+        "name": "國華",
+        "count": 6642
+      },
+      {
+        "rank": 28,
+        "name": "信宏",
+        "count": 6610
+      },
+      {
+        "rank": 29,
+        "name": "家銘",
+        "count": 6590
+      },
+      {
+        "rank": 30,
+        "name": "俊雄",
+        "count": 6581
+      },
+      {
+        "rank": 31,
+        "name": "宇翔",
+        "count": 6155
+      },
+      {
+        "rank": 32,
+        "name": "建成",
+        "count": 6100
+      },
+      {
+        "rank": 33,
+        "name": "冠霖",
+        "count": 5989
+      },
+      {
+        "rank": 34,
+        "name": "志銘",
+        "count": 5840
+      },
+      {
+        "rank": 35,
+        "name": "志雄",
+        "count": 5619
+      },
+      {
+        "rank": 36,
+        "name": "進財",
+        "count": 5518
+      },
+      {
+        "rank": 37,
+        "name": "明哲",
+        "count": 5479
+      },
+      {
+        "rank": 38,
+        "name": "榮華",
+        "count": 5421
+      },
+      {
+        "rank": 39,
+        "name": "柏宇",
+        "count": 5392
+      },
+      {
+        "rank": 40,
+        "name": "志鴻",
+        "count": 5355
+      },
+      {
+        "rank": 41,
+        "name": "志賢",
+        "count": 5262
+      },
+      {
+        "rank": 42,
+        "name": "俊良",
+        "count": 5261
+      },
+      {
+        "rank": 43,
+        "name": "建華",
+        "count": 5248
+      },
+      {
+        "rank": 44,
+        "name": "家瑋",
+        "count": 5246
+      },
+      {
+        "rank": 45,
+        "name": "家榮",
+        "count": 5245
+      },
+      {
+        "rank": 46,
+        "name": "文祥",
+        "count": 5229
+      },
+      {
+        "rank": 47,
+        "name": "建志",
+        "count": 5139
+      },
+      {
+        "rank": 48,
+        "name": "文正",
+        "count": 5134
+      },
+      {
+        "rank": 49,
+        "name": "文忠",
+        "count": 5126
+      },
+      {
+        "rank": 50,
+        "name": "凱翔",
+        "count": 5098
+      },
+      {
+        "rank": 51,
+        "name": "家宏",
+        "count": 5085
+      },
+      {
+        "rank": 52,
+        "name": "國雄",
+        "count": 5080
+      },
+      {
+        "rank": 53,
+        "name": "明宏",
+        "count": 5072
+      },
+      {
+        "rank": 54,
+        "name": "文賢",
+        "count": 5062
+      },
+      {
+        "rank": 55,
+        "name": "世昌",
+        "count": 5044
+      },
+      {
+        "rank": 56,
+        "name": "哲瑋",
+        "count": 5032
+      },
+      {
+        "rank": 57,
+        "name": "文傑",
+        "count": 4904
+      },
+      {
+        "rank": 58,
+        "name": "正義",
+        "count": 4889
+      },
+      {
+        "rank": 59,
+        "name": "武雄",
+        "count": 4847
+      },
+      {
+        "rank": 60,
+        "name": "建興",
+        "count": 4838
+      },
+      {
+        "rank": 61,
+        "name": "志文",
+        "count": 4805
+      },
+      {
+        "rank": 62,
+        "name": "嘉宏",
+        "count": 4782
+      },
+      {
+        "rank": 63,
+        "name": "文章",
+        "count": 4722
+      },
+      {
+        "rank": 64,
+        "name": "明宗",
+        "count": 4717
+      },
+      {
+        "rank": 65,
+        "name": "宇軒",
+        "count": 4708
+      },
+      {
+        "rank": 66,
+        "name": "進興",
+        "count": 4696
+      },
+      {
+        "rank": 67,
+        "name": "俊豪",
+        "count": 4673
+      },
+      {
+        "rank": 68,
+        "name": "俊廷",
+        "count": 4649
+      },
+      {
+        "rank": 69,
+        "name": "冠宏",
+        "count": 4634
+      },
+      {
+        "rank": 70,
+        "name": "仁傑",
+        "count": 4610
+      },
+      {
+        "rank": 71,
+        "name": "威廷",
+        "count": 4589
+      },
+      {
+        "rank": 72,
+        "name": "哲維",
+        "count": 4583
+      },
+      {
+        "rank": 73,
+        "name": "宗霖",
+        "count": 4559
+      },
+      {
+        "rank": 74,
+        "name": "文欽",
+        "count": 4512
+      },
+      {
+        "rank": 75,
+        "name": "博文",
+        "count": 4511
+      },
+      {
+        "rank": 76,
+        "name": "俊男",
+        "count": 4481
+      },
+      {
+        "rank": 77,
+        "name": "宗憲",
+        "count": 4480
+      },
+      {
+        "rank": 78,
+        "name": "子豪",
+        "count": 4472
+      },
+      {
+        "rank": 79,
+        "name": "俊宇",
+        "count": 4450
+      },
+      {
+        "rank": 80,
+        "name": "勝雄",
+        "count": 4438
+      },
+      {
+        "rank": 81,
+        "name": "柏諺",
+        "count": 4410
+      },
+      {
+        "rank": 82,
+        "name": "建良",
+        "count": 4401
+      },
+      {
+        "rank": 83,
+        "name": "俊明",
+        "count": 4376
+      },
+      {
+        "rank": 84,
+        "name": "俊銘",
+        "count": 4359
+      },
+      {
+        "rank": 85,
+        "name": "世明",
+        "count": 4353
+      },
+      {
+        "rank": 86,
+        "name": "義雄",
+        "count": 4352
+      },
+      {
+        "rank": 87,
+        "name": "建銘",
+        "count": 4323
+      },
+      {
+        "rank": 88,
+        "name": "永昌",
+        "count": 4310
+      },
+      {
+        "rank": 89,
+        "name": "文華",
+        "count": 4305
+      },
+      {
+        "rank": 90,
+        "name": "子翔",
+        "count": 4298
+      },
+      {
+        "rank": 91,
+        "name": "柏宏",
+        "count": 4230
+      },
+      {
+        "rank": 92,
+        "name": "政宏",
+        "count": 4222
+      },
+      {
+        "rank": 93,
+        "name": "進發",
+        "count": 4209
+      },
+      {
+        "rank": 94,
+        "name": "柏霖",
+        "count": 4206
+      },
+      {
+        "rank": 95,
+        "name": "建中",
+        "count": 4199
+      },
+      {
+        "rank": 96,
+        "name": "國榮",
+        "count": 4192
+      },
+      {
+        "rank": 97,
+        "name": "志誠",
+        "count": 4130
+      },
+      {
+        "rank": 98,
+        "name": "聰明",
+        "count": 4122
+      },
+      {
+        "rank": 99,
+        "name": "俊佑",
+        "count": 4096
+      },
+      {
+        "rank": 100,
+        "name": "志遠",
+        "count": 4094
+      }
+    ],
+    "female": [
+      {
+        "rank": 1,
+        "name": "淑芬",
+        "count": 31879
+      },
+      {
+        "rank": 2,
+        "name": "淑惠",
+        "count": 30420
+      },
+      {
+        "rank": 3,
+        "name": "美玲",
+        "count": 27487
+      },
+      {
+        "rank": 4,
+        "name": "麗華",
+        "count": 25624
+      },
+      {
+        "rank": 5,
+        "name": "美惠",
+        "count": 25015
+      },
+      {
+        "rank": 6,
+        "name": "淑貞",
+        "count": 23904
+      },
+      {
+        "rank": 7,
+        "name": "雅婷",
+        "count": 23407
+      },
+      {
+        "rank": 8,
+        "name": "秀英",
+        "count": 23020
+      },
+      {
+        "rank": 9,
+        "name": "淑娟",
+        "count": 22828
+      },
+      {
+        "rank": 10,
+        "name": "秀琴",
+        "count": 22266
+      },
+      {
+        "rank": 11,
+        "name": "秀美",
+        "count": 21426
+      },
+      {
+        "rank": 12,
+        "name": "美華",
+        "count": 20843
+      },
+      {
+        "rank": 13,
+        "name": "怡君",
+        "count": 20185
+      },
+      {
+        "rank": 14,
+        "name": "淑華",
+        "count": 20178
+      },
+      {
+        "rank": 15,
+        "name": "美玉",
+        "count": 20011
+      },
+      {
+        "rank": 16,
+        "name": "雅惠",
+        "count": 19012
+      },
+      {
+        "rank": 17,
+        "name": "秀蘭",
+        "count": 18207
+      },
+      {
+        "rank": 18,
+        "name": "淑美",
+        "count": 18055
+      },
+      {
+        "rank": 19,
+        "name": "秀鳳",
+        "count": 17808
+      },
+      {
+        "rank": 20,
+        "name": "美珠",
+        "count": 17520
+      },
+      {
+        "rank": 21,
+        "name": "麗珠",
+        "count": 17097
+      },
+      {
+        "rank": 22,
+        "name": "麗娟",
+        "count": 16792
+      },
+      {
+        "rank": 23,
+        "name": "淑玲",
+        "count": 16542
+      },
+      {
+        "rank": 24,
+        "name": "美雲",
+        "count": 16424
+      },
+      {
+        "rank": 25,
+        "name": "雅雯",
+        "count": 16195
+      },
+      {
+        "rank": 26,
+        "name": "雅玲",
+        "count": 15204
+      },
+      {
+        "rank": 27,
+        "name": "美麗",
+        "count": 14594
+      },
+      {
+        "rank": 28,
+        "name": "玉蘭",
+        "count": 14506
+      },
+      {
+        "rank": 29,
+        "name": "月娥",
+        "count": 13961
+      },
+      {
+        "rank": 30,
+        "name": "麗卿",
+        "count": 13873
+      },
+      {
+        "rank": 31,
+        "name": "惠美",
+        "count": 13859
+      },
+      {
+        "rank": 32,
+        "name": "麗美",
+        "count": 13570
+      },
+      {
+        "rank": 33,
+        "name": "秀珠",
+        "count": 12950
+      },
+      {
+        "rank": 34,
+        "name": "淑珍",
+        "count": 12818
+      },
+      {
+        "rank": 35,
+        "name": "欣怡",
+        "count": 12776
+      },
+      {
+        "rank": 36,
+        "name": "素貞",
+        "count": 12664
+      },
+      {
+        "rank": 37,
+        "name": "秀珍",
+        "count": 12501
+      },
+      {
+        "rank": 38,
+        "name": "素珍",
+        "count": 12315
+      },
+      {
+        "rank": 39,
+        "name": "惠玲",
+        "count": 12264
+      },
+      {
+        "rank": 40,
+        "name": "玉梅",
+        "count": 12177
+      },
+      {
+        "rank": 41,
+        "name": "玉英",
+        "count": 12175
+      },
+      {
+        "rank": 42,
+        "name": "淑慧",
+        "count": 12106
+      },
+      {
+        "rank": 43,
+        "name": "秀玲",
+        "count": 11853
+      },
+      {
+        "rank": 44,
+        "name": "明珠",
+        "count": 11745
+      },
+      {
+        "rank": 45,
+        "name": "秋香",
+        "count": 11736
+      },
+      {
+        "rank": 46,
+        "name": "秀玉",
+        "count": 11639
+      },
+      {
+        "rank": 47,
+        "name": "麗雲",
+        "count": 11580
+      },
+      {
+        "rank": 48,
+        "name": "秀梅",
+        "count": 11572
+      },
+      {
+        "rank": 49,
+        "name": "麗玉",
+        "count": 11285
+      },
+      {
+        "rank": 50,
+        "name": "寶珠",
+        "count": 10806
+      },
+      {
+        "rank": 51,
+        "name": "怡婷",
+        "count": 10611
+      },
+      {
+        "rank": 52,
+        "name": "麗玲",
+        "count": 10547
+      },
+      {
+        "rank": 53,
+        "name": "宜蓁",
+        "count": 10413
+      },
+      {
+        "rank": 54,
+        "name": "月英",
+        "count": 10286
+      },
+      {
+        "rank": 55,
+        "name": "淑芳",
+        "count": 10078
+      },
+      {
+        "rank": 56,
+        "name": "玉玲",
+        "count": 10027
+      },
+      {
+        "rank": 57,
+        "name": "秀雲",
+        "count": 10000
+      },
+      {
+        "rank": 58,
+        "name": "慧玲",
+        "count": 9854
+      },
+      {
+        "rank": 59,
+        "name": "春美",
+        "count": 9808
+      },
+      {
+        "rank": 60,
+        "name": "碧霞",
+        "count": 9769
+      },
+      {
+        "rank": 61,
+        "name": "麗香",
+        "count": 9731
+      },
+      {
+        "rank": 62,
+        "name": "美鳳",
+        "count": 9640
+      },
+      {
+        "rank": 63,
+        "name": "美珍",
+        "count": 9631
+      },
+      {
+        "rank": 64,
+        "name": "美英",
+        "count": 9622
+      },
+      {
+        "rank": 65,
+        "name": "碧珠",
+        "count": 9612
+      },
+      {
+        "rank": 66,
+        "name": "碧雲",
+        "count": 9499
+      },
+      {
+        "rank": 67,
+        "name": "佳蓉",
+        "count": 9489
+      },
+      {
+        "rank": 68,
+        "name": "美蘭",
+        "count": 9315
+      },
+      {
+        "rank": 69,
+        "name": "秀娟",
+        "count": 9245
+      },
+      {
+        "rank": 70,
+        "name": "美娟",
+        "count": 9095
+      },
+      {
+        "rank": 71,
+        "name": "淑敏",
+        "count": 9090
+      },
+      {
+        "rank": 72,
+        "name": "玉珍",
+        "count": 9079
+      },
+      {
+        "rank": 73,
+        "name": "淑卿",
+        "count": 8876
+      },
+      {
+        "rank": 74,
+        "name": "美慧",
+        "count": 8840
+      },
+      {
+        "rank": 75,
+        "name": "靜宜",
+        "count": 8827
+      },
+      {
+        "rank": 76,
+        "name": "素珠",
+        "count": 8812
+      },
+      {
+        "rank": 77,
+        "name": "雅慧",
+        "count": 8693
+      },
+      {
+        "rank": 78,
+        "name": "靜怡",
+        "count": 8682
+      },
+      {
+        "rank": 79,
+        "name": "玉美",
+        "count": 8646
+      },
+      {
+        "rank": 80,
+        "name": "雅萍",
+        "count": 8559
+      },
+      {
+        "rank": 81,
+        "name": "素卿",
+        "count": 8491
+      },
+      {
+        "rank": 82,
+        "name": "素琴",
+        "count": 8442
+      },
+      {
+        "rank": 83,
+        "name": "秀枝",
+        "count": 8421
+      },
+      {
+        "rank": 84,
+        "name": "金蓮",
+        "count": 8417
+      },
+      {
+        "rank": 85,
+        "name": "秋月",
+        "count": 8370
+      },
+      {
+        "rank": 86,
+        "name": "麗雪",
+        "count": 8360
+      },
+      {
+        "rank": 87,
+        "name": "惠珍",
+        "count": 8342
+      },
+      {
+        "rank": 88,
+        "name": "心怡",
+        "count": 8312
+      },
+      {
+        "rank": 89,
+        "name": "佳玲",
+        "count": 8307
+      },
+      {
+        "rank": 90,
+        "name": "鈺婷",
+        "count": 8251
+      },
+      {
+        "rank": 91,
+        "name": "詩涵",
+        "count": 8221
+      },
+      {
+        "rank": 92,
+        "name": "秀霞",
+        "count": 8221
+      },
+      {
+        "rank": 93,
+        "name": "秀華",
+        "count": 8142
+      },
+      {
+        "rank": 94,
+        "name": "麗琴",
+        "count": 8104
+      },
+      {
+        "rank": 95,
+        "name": "金鳳",
+        "count": 8050
+      },
+      {
+        "rank": 96,
+        "name": "麗珍",
+        "count": 8041
+      },
+      {
+        "rank": 97,
+        "name": "玉鳳",
+        "count": 8033
+      },
+      {
+        "rank": 98,
+        "name": "玉琴",
+        "count": 8027
+      },
+      {
+        "rank": 99,
+        "name": "秀蓮",
+        "count": 8004
+      },
+      {
+        "rank": 100,
+        "name": "素蘭",
+        "count": 8002
+      }
+    ],
+    "note": "267頁為女性；名字=去掉姓之後的名；全國不分出生年"
+  },
+  "3_top_given_names_page": {
+    "male": 266,
+    "female": 267
+  },
+  "3_by_birth_cohort_top10": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十六(各出生年前十大名字排名與人數按性別分)",
+      "pdf_page": "280(男)-281(女)",
+      "printed_page": "280(男)-281(女)",
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "male": {
+      "民國1年至9年": [
+        {
+          "rank": 1,
+          "name": "德成",
+          "count": 3
+        },
+        {
+          "rank": 2,
+          "name": "文山",
+          "count": 2
+        },
+        {
+          "rank": 3,
+          "name": "丙丁",
+          "count": 2
+        },
+        {
+          "rank": 4,
+          "name": "安",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "name": "金才",
+          "count": 2
+        },
+        {
+          "rank": 6,
+          "name": "金旺",
+          "count": 2
+        },
+        {
+          "rank": 7,
+          "name": "金龍",
+          "count": 2
+        },
+        {
+          "rank": 8,
+          "name": "俊",
+          "count": 2
+        },
+        {
+          "rank": 9,
+          "name": "春森",
+          "count": 2
+        },
+        {
+          "rank": 10,
+          "name": "康",
+          "count": 2
+        }
+      ],
+      "民國10年至19年": [
+        {
+          "rank": 1,
+          "name": "金龍",
+          "count": 46
+        },
+        {
+          "rank": 2,
+          "name": "金水",
+          "count": 44
+        },
+        {
+          "rank": 3,
+          "name": "金生",
+          "count": 40
+        },
+        {
+          "rank": 4,
+          "name": "水木",
+          "count": 38
+        },
+        {
+          "rank": 5,
+          "name": "清泉",
+          "count": 31
+        },
+        {
+          "rank": 6,
+          "name": "金木",
+          "count": 29
+        },
+        {
+          "rank": 7,
+          "name": "添福",
+          "count": 29
+        },
+        {
+          "rank": 8,
+          "name": "傑",
+          "count": 29
+        },
+        {
+          "rank": 9,
+          "name": "榮華",
+          "count": 29
+        },
+        {
+          "rank": 10,
+          "name": "福來",
+          "count": 29
+        }
+      ],
+      "民國20年至29年": [
+        {
+          "rank": 1,
+          "name": "正雄",
+          "count": 768
+        },
+        {
+          "rank": 2,
+          "name": "文雄",
+          "count": 760
+        },
+        {
+          "rank": 3,
+          "name": "武雄",
+          "count": 673
+        },
+        {
+          "rank": 4,
+          "name": "義雄",
+          "count": 545
+        },
+        {
+          "rank": 5,
+          "name": "金龍",
+          "count": 354
+        },
+        {
+          "rank": 6,
+          "name": "金水",
+          "count": 337
+        },
+        {
+          "rank": 7,
+          "name": "俊雄",
+          "count": 323
+        },
+        {
+          "rank": 8,
+          "name": "國雄",
+          "count": 314
+        },
+        {
+          "rank": 9,
+          "name": "秀雄",
+          "count": 284
+        },
+        {
+          "rank": 10,
+          "name": "正義",
+          "count": 263
+        }
+      ],
+      "民國30年至39年": [
+        {
+          "rank": 1,
+          "name": "武雄",
+          "count": 2262
+        },
+        {
+          "rank": 2,
+          "name": "正雄",
+          "count": 2216
+        },
+        {
+          "rank": 3,
+          "name": "文雄",
+          "count": 2053
+        },
+        {
+          "rank": 4,
+          "name": "義雄",
+          "count": 1606
+        },
+        {
+          "rank": 5,
+          "name": "勝雄",
+          "count": 1182
+        },
+        {
+          "rank": 6,
+          "name": "國雄",
+          "count": 1041
+        },
+        {
+          "rank": 7,
+          "name": "金龍",
+          "count": 982
+        },
+        {
+          "rank": 8,
+          "name": "正義",
+          "count": 958
+        },
+        {
+          "rank": 9,
+          "name": "茂雄",
+          "count": 914
+        },
+        {
+          "rank": 10,
+          "name": "進財",
+          "count": 905
+        }
+      ],
+      "民國40年至49年": [
+        {
+          "rank": 1,
+          "name": "金龍",
+          "count": 2427
+        },
+        {
+          "rank": 2,
+          "name": "進財",
+          "count": 2101
+        },
+        {
+          "rank": 3,
+          "name": "榮華",
+          "count": 1983
+        },
+        {
+          "rank": 4,
+          "name": "進興",
+          "count": 1912
+        },
+        {
+          "rank": 5,
+          "name": "明輝",
+          "count": 1839
+        },
+        {
+          "rank": 6,
+          "name": "明德",
+          "count": 1781
+        },
+        {
+          "rank": 7,
+          "name": "文龍",
+          "count": 1659
+        },
+        {
+          "rank": 8,
+          "name": "進發",
+          "count": 1640
+        },
+        {
+          "rank": 9,
+          "name": "聰明",
+          "count": 1629
+        },
+        {
+          "rank": 10,
+          "name": "文章",
+          "count": 1544
+        }
+      ],
+      "民國50年至59年": [
+        {
+          "rank": 1,
+          "name": "志明",
+          "count": 4577
+        },
+        {
+          "rank": 2,
+          "name": "志成",
+          "count": 3360
+        },
+        {
+          "rank": 3,
+          "name": "文雄",
+          "count": 2530
+        },
+        {
+          "rank": 4,
+          "name": "明德",
+          "count": 2415
+        },
+        {
+          "rank": 5,
+          "name": "明輝",
+          "count": 2400
+        },
+        {
+          "rank": 6,
+          "name": "金龍",
+          "count": 2380
+        },
+        {
+          "rank": 7,
+          "name": "俊雄",
+          "count": 2258
+        },
+        {
+          "rank": 8,
+          "name": "志宏",
+          "count": 2255
+        },
+        {
+          "rank": 9,
+          "name": "文龍",
+          "count": 2221
+        },
+        {
+          "rank": 10,
+          "name": "國華",
+          "count": 2196
+        }
+      ],
+      "民國60年至69年": [
+        {
+          "rank": 1,
+          "name": "志偉",
+          "count": 4847
+        },
+        {
+          "rank": 2,
+          "name": "志明",
+          "count": 4739
+        },
+        {
+          "rank": 3,
+          "name": "建宏",
+          "count": 4231
+        },
+        {
+          "rank": 4,
+          "name": "志豪",
+          "count": 4161
+        },
+        {
+          "rank": 5,
+          "name": "志強",
+          "count": 3939
+        },
+        {
+          "rank": 6,
+          "name": "俊宏",
+          "count": 3806
+        },
+        {
+          "rank": 7,
+          "name": "志宏",
+          "count": 3615
+        },
+        {
+          "rank": 8,
+          "name": "俊傑",
+          "count": 3211
+        },
+        {
+          "rank": 9,
+          "name": "志忠",
+          "count": 3152
+        },
+        {
+          "rank": 10,
+          "name": "家豪",
+          "count": 2667
+        }
+      ],
+      "民國70年至79年": [
+        {
+          "rank": 1,
+          "name": "家豪",
+          "count": 4864
+        },
+        {
+          "rank": 2,
+          "name": "志豪",
+          "count": 3964
+        },
+        {
+          "rank": 3,
+          "name": "志偉",
+          "count": 3531
+        },
+        {
+          "rank": 4,
+          "name": "宗翰",
+          "count": 3254
+        },
+        {
+          "rank": 5,
+          "name": "建宏",
+          "count": 3149
+        },
+        {
+          "rank": 6,
+          "name": "俊傑",
+          "count": 3122
+        },
+        {
+          "rank": 7,
+          "name": "俊宏",
+          "count": 3030
+        },
+        {
+          "rank": 8,
+          "name": "冠宇",
+          "count": 2104
+        },
+        {
+          "rank": 9,
+          "name": "家銘",
+          "count": 1980
+        },
+        {
+          "rank": 10,
+          "name": "信宏",
+          "count": 1903
+        }
+      ],
+      "民國80年至89年": [
+        {
+          "rank": 1,
+          "name": "家豪",
+          "count": 4039
+        },
+        {
+          "rank": 2,
+          "name": "冠宇",
+          "count": 3603
+        },
+        {
+          "rank": 3,
+          "name": "冠廷",
+          "count": 3399
+        },
+        {
+          "rank": 4,
+          "name": "承翰",
+          "count": 3008
+        },
+        {
+          "rank": 5,
+          "name": "宗翰",
+          "count": 2831
+        },
+        {
+          "rank": 6,
+          "name": "柏翰",
+          "count": 2594
+        },
+        {
+          "rank": 7,
+          "name": "彥廷",
+          "count": 2502
+        },
+        {
+          "rank": 8,
+          "name": "冠霖",
+          "count": 2114
+        },
+        {
+          "rank": 9,
+          "name": "俊傑",
+          "count": 2084
+        },
+        {
+          "rank": 10,
+          "name": "承恩",
+          "count": 1918
+        }
+      ],
+      "民國90年至99年": [
+        {
+          "rank": 1,
+          "name": "承恩",
+          "count": 2997
+        },
+        {
+          "rank": 2,
+          "name": "承翰",
+          "count": 2636
+        },
+        {
+          "rank": 3,
+          "name": "冠廷",
+          "count": 2452
+        },
+        {
+          "rank": 4,
+          "name": "冠宇",
+          "count": 2206
+        },
+        {
+          "rank": 5,
+          "name": "宇翔",
+          "count": 1938
+        },
+        {
+          "rank": 6,
+          "name": "柏翰",
+          "count": 1885
+        },
+        {
+          "rank": 7,
+          "name": "彥廷",
+          "count": 1610
+        },
+        {
+          "rank": 8,
+          "name": "冠霖",
+          "count": 1509
+        },
+        {
+          "rank": 9,
+          "name": "柏宇",
+          "count": 1471
+        },
+        {
+          "rank": 10,
+          "name": "柏諺",
+          "count": 1409
+        }
+      ],
+      "民國100年至109年": [
+        {
+          "rank": 1,
+          "name": "承恩",
+          "count": 2215
+        },
+        {
+          "rank": 2,
+          "name": "宥廷",
+          "count": 2036
+        },
+        {
+          "rank": 3,
+          "name": "品睿",
+          "count": 2021
+        },
+        {
+          "rank": 4,
+          "name": "宸睿",
+          "count": 1904
+        },
+        {
+          "rank": 5,
+          "name": "宇恩",
+          "count": 1860
+        },
+        {
+          "rank": 6,
+          "name": "宇翔",
+          "count": 1713
+        },
+        {
+          "rank": 7,
+          "name": "承翰",
+          "count": 1556
+        },
+        {
+          "rank": 8,
+          "name": "宥辰",
+          "count": 1532
+        },
+        {
+          "rank": 9,
+          "name": "柏睿",
+          "count": 1511
+        },
+        {
+          "rank": 10,
+          "name": "睿恩",
+          "count": 1503
+        }
+      ],
+      "民國110年至112年6月": [
+        {
+          "rank": 1,
+          "name": "恩碩",
+          "count": 469
+        },
+        {
+          "rank": 2,
+          "name": "宥廷",
+          "count": 366
+        },
+        {
+          "rank": 3,
+          "name": "子睿",
+          "count": 327
+        },
+        {
+          "rank": 4,
+          "name": "承恩",
+          "count": 322
+        },
+        {
+          "rank": 5,
+          "name": "品睿",
+          "count": 316
+        },
+        {
+          "rank": 6,
+          "name": "宇恩",
+          "count": 315
+        },
+        {
+          "rank": 7,
+          "name": "宸睿",
+          "count": 309
+        },
+        {
+          "rank": 8,
+          "name": "睿恩",
+          "count": 286
+        },
+        {
+          "rank": 9,
+          "name": "子宸",
+          "count": 267
+        },
+        {
+          "rank": 10,
+          "name": "子恩",
+          "count": 262
+        }
+      ]
+    },
+    "female": {
+      "民國1年至9年": [
+        {
+          "rank": 1,
+          "name": "英",
+          "count": 7
+        },
+        {
+          "rank": 2,
+          "name": "玉英",
+          "count": 6
+        },
+        {
+          "rank": 3,
+          "name": "梅",
+          "count": 5
+        },
+        {
+          "rank": 4,
+          "name": "月妹",
+          "count": 4
+        },
+        {
+          "rank": 5,
+          "name": "玉蘭",
+          "count": 4
+        },
+        {
+          "rank": 6,
+          "name": "招治",
+          "count": 4
+        },
+        {
+          "rank": 7,
+          "name": "金",
+          "count": 4
+        },
+        {
+          "rank": 8,
+          "name": "珠",
+          "count": 4
+        },
+        {
+          "rank": 9,
+          "name": "不",
+          "count": 3
+        },
+        {
+          "rank": 10,
+          "name": "秀英",
+          "count": 3
+        }
+      ],
+      "民國10年至19年": [
+        {
+          "rank": 1,
+          "name": "秀英",
+          "count": 340
+        },
+        {
+          "rank": 2,
+          "name": "玉蘭",
+          "count": 263
+        },
+        {
+          "rank": 3,
+          "name": "玉英",
+          "count": 201
+        },
+        {
+          "rank": 4,
+          "name": "玉",
+          "count": 187
+        },
+        {
+          "rank": 5,
+          "name": "梅",
+          "count": 175
+        },
+        {
+          "rank": 6,
+          "name": "月英",
+          "count": 164
+        },
+        {
+          "rank": 7,
+          "name": "彩雲",
+          "count": 155
+        },
+        {
+          "rank": 8,
+          "name": "月娥",
+          "count": 145
+        },
+        {
+          "rank": 9,
+          "name": "秀琴",
+          "count": 139
+        },
+        {
+          "rank": 10,
+          "name": "金枝",
+          "count": 137
+        }
+      ],
+      "民國20年至29年": [
+        {
+          "rank": 1,
+          "name": "秀英",
+          "count": 2237
+        },
+        {
+          "rank": 2,
+          "name": "玉蘭",
+          "count": 1704
+        },
+        {
+          "rank": 3,
+          "name": "梅",
+          "count": 1614
+        },
+        {
+          "rank": 4,
+          "name": "秀琴",
+          "count": 1547
+        },
+        {
+          "rank": 5,
+          "name": "雪",
+          "count": 1472
+        },
+        {
+          "rank": 6,
+          "name": "玉英",
+          "count": 1434
+        },
+        {
+          "rank": 7,
+          "name": "月娥",
+          "count": 1329
+        },
+        {
+          "rank": 8,
+          "name": "玉",
+          "count": 1245
+        },
+        {
+          "rank": 9,
+          "name": "秀蘭",
+          "count": 1242
+        },
+        {
+          "rank": 10,
+          "name": "菊",
+          "count": 1197
+        }
+      ],
+      "民國30年至39年": [
+        {
+          "rank": 1,
+          "name": "秀英",
+          "count": 5026
+        },
+        {
+          "rank": 2,
+          "name": "秀琴",
+          "count": 4444
+        },
+        {
+          "rank": 3,
+          "name": "美玉",
+          "count": 3851
+        },
+        {
+          "rank": 4,
+          "name": "秀蘭",
+          "count": 3553
+        },
+        {
+          "rank": 5,
+          "name": "月娥",
+          "count": 3459
+        },
+        {
+          "rank": 6,
+          "name": "秀鳳",
+          "count": 3296
+        },
+        {
+          "rank": 7,
+          "name": "玉蘭",
+          "count": 3017
+        },
+        {
+          "rank": 8,
+          "name": "玉英",
+          "count": 2863
+        },
+        {
+          "rank": 9,
+          "name": "秀美",
+          "count": 2841
+        },
+        {
+          "rank": 10,
+          "name": "月英",
+          "count": 2702
+        }
+      ],
+      "民國40年至49年": [
+        {
+          "rank": 1,
+          "name": "麗華",
+          "count": 11120
+        },
+        {
+          "rank": 2,
+          "name": "秀琴",
+          "count": 8813
+        },
+        {
+          "rank": 3,
+          "name": "秀英",
+          "count": 7661
+        },
+        {
+          "rank": 4,
+          "name": "秀美",
+          "count": 7540
+        },
+        {
+          "rank": 5,
+          "name": "麗珠",
+          "count": 7308
+        },
+        {
+          "rank": 6,
+          "name": "美玉",
+          "count": 7201
+        },
+        {
+          "rank": 7,
+          "name": "美珠",
+          "count": 6953
+        },
+        {
+          "rank": 8,
+          "name": "美華",
+          "count": 6674
+        },
+        {
+          "rank": 9,
+          "name": "秀鳳",
+          "count": 6602
+        },
+        {
+          "rank": 10,
+          "name": "淑貞",
+          "count": 6472
+        }
+      ],
+      "民國50年至59年": [
+        {
+          "rank": 1,
+          "name": "淑芬",
+          "count": 14492
+        },
+        {
+          "rank": 2,
+          "name": "美玲",
+          "count": 13562
+        },
+        {
+          "rank": 3,
+          "name": "淑惠",
+          "count": 12531
+        },
+        {
+          "rank": 4,
+          "name": "美惠",
+          "count": 10137
+        },
+        {
+          "rank": 5,
+          "name": "淑娟",
+          "count": 9094
+        },
+        {
+          "rank": 6,
+          "name": "淑貞",
+          "count": 8820
+        },
+        {
+          "rank": 7,
+          "name": "麗華",
+          "count": 8459
+        },
+        {
+          "rank": 8,
+          "name": "美華",
+          "count": 8215
+        },
+        {
+          "rank": 9,
+          "name": "麗娟",
+          "count": 8173
+        },
+        {
+          "rank": 10,
+          "name": "淑華",
+          "count": 7998
+        }
+      ],
+      "民國60年至69年": [
+        {
+          "rank": 1,
+          "name": "淑芬",
+          "count": 10644
+        },
+        {
+          "rank": 2,
+          "name": "雅惠",
+          "count": 10471
+        },
+        {
+          "rank": 3,
+          "name": "淑娟",
+          "count": 8424
+        },
+        {
+          "rank": 4,
+          "name": "淑惠",
+          "count": 8277
+        },
+        {
+          "rank": 5,
+          "name": "雅玲",
+          "count": 7624
+        },
+        {
+          "rank": 6,
+          "name": "美玲",
+          "count": 7240
+        },
+        {
+          "rank": 7,
+          "name": "怡君",
+          "count": 5703
+        },
+        {
+          "rank": 8,
+          "name": "美惠",
+          "count": 5575
+        },
+        {
+          "rank": 9,
+          "name": "雅雯",
+          "count": 5473
+        },
+        {
+          "rank": 10,
+          "name": "淑華",
+          "count": 5160
+        }
+      ],
+      "民國70年至79年": [
+        {
+          "rank": 1,
+          "name": "雅婷",
+          "count": 11310
+        },
+        {
+          "rank": 2,
+          "name": "怡君",
+          "count": 8316
+        },
+        {
+          "rank": 3,
+          "name": "雅雯",
+          "count": 5983
+        },
+        {
+          "rank": 4,
+          "name": "欣怡",
+          "count": 5271
+        },
+        {
+          "rank": 5,
+          "name": "怡婷",
+          "count": 4626
+        },
+        {
+          "rank": 6,
+          "name": "雅惠",
+          "count": 4177
+        },
+        {
+          "rank": 7,
+          "name": "雅玲",
+          "count": 3906
+        },
+        {
+          "rank": 8,
+          "name": "婉婷",
+          "count": 3586
+        },
+        {
+          "rank": 9,
+          "name": "佩珊",
+          "count": 3435
+        },
+        {
+          "rank": 10,
+          "name": "佳蓉",
+          "count": 3155
+        }
+      ],
+      "民國80年至89年": [
+        {
+          "rank": 1,
+          "name": "雅婷",
+          "count": 5797
+        },
+        {
+          "rank": 2,
+          "name": "怡君",
+          "count": 3575
+        },
+        {
+          "rank": 3,
+          "name": "怡婷",
+          "count": 3183
+        },
+        {
+          "rank": 4,
+          "name": "雅雯",
+          "count": 3084
+        },
+        {
+          "rank": 5,
+          "name": "詩涵",
+          "count": 3006
+        },
+        {
+          "rank": 6,
+          "name": "鈺婷",
+          "count": 2775
+        },
+        {
+          "rank": 7,
+          "name": "怡萱",
+          "count": 2729
+        },
+        {
+          "rank": 8,
+          "name": "雅筑",
+          "count": 2700
+        },
+        {
+          "rank": 9,
+          "name": "郁婷",
+          "count": 2600
+        },
+        {
+          "rank": 10,
+          "name": "宜庭",
+          "count": 2555
+        }
+      ],
+      "民國90年至99年": [
+        {
+          "rank": 1,
+          "name": "宜蓁",
+          "count": 2629
+        },
+        {
+          "rank": 2,
+          "name": "欣妤",
+          "count": 1643
+        },
+        {
+          "rank": 3,
+          "name": "詩涵",
+          "count": 1610
+        },
+        {
+          "rank": 4,
+          "name": "思妤",
+          "count": 1561
+        },
+        {
+          "rank": 5,
+          "name": "雅婷",
+          "count": 1439
+        },
+        {
+          "rank": 6,
+          "name": "宜庭",
+          "count": 1394
+        },
+        {
+          "rank": 7,
+          "name": "佳穎",
+          "count": 1375
+        },
+        {
+          "rank": 8,
+          "name": "品妤",
+          "count": 1336
+        },
+        {
+          "rank": 9,
+          "name": "子涵",
+          "count": 1271
+        },
+        {
+          "rank": 10,
+          "name": "怡萱",
+          "count": 1258
+        }
+      ],
+      "民國100年至109年": [
+        {
+          "rank": 1,
+          "name": "品妍",
+          "count": 2421
+        },
+        {
+          "rank": 2,
+          "name": "子晴",
+          "count": 2087
+        },
+        {
+          "rank": 3,
+          "name": "詠晴",
+          "count": 2001
+        },
+        {
+          "rank": 4,
+          "name": "品妤",
+          "count": 1697
+        },
+        {
+          "rank": 5,
+          "name": "禹彤",
+          "count": 1578
+        },
+        {
+          "rank": 6,
+          "name": "羽彤",
+          "count": 1434
+        },
+        {
+          "rank": 7,
+          "name": "芯語",
+          "count": 1342
+        },
+        {
+          "rank": 8,
+          "name": "宥蓁",
+          "count": 1226
+        },
+        {
+          "rank": 9,
+          "name": "語彤",
+          "count": 1221
+        },
+        {
+          "rank": 10,
+          "name": "苡晴",
+          "count": 1164
+        }
+      ],
+      "民國110年至112年6月": [
+        {
+          "rank": 1,
+          "name": "品妍",
+          "count": 355
+        },
+        {
+          "rank": 2,
+          "name": "苡菲",
+          "count": 306
+        },
+        {
+          "rank": 3,
+          "name": "雨霏",
+          "count": 301
+        },
+        {
+          "rank": 4,
+          "name": "芸菲",
+          "count": 294
+        },
+        {
+          "rank": 5,
+          "name": "芯語",
+          "count": 285
+        },
+        {
+          "rank": 6,
+          "name": "苡安",
+          "count": 283
+        },
+        {
+          "rank": 7,
+          "name": "玥彤",
+          "count": 280
+        },
+        {
+          "rank": 8,
+          "name": "羽彤",
+          "count": 276
+        },
+        {
+          "rank": 9,
+          "name": "子晴",
+          "count": 260
+        },
+        {
+          "rank": 10,
+          "name": "禹彤",
+          "count": 258
+        }
+      ]
+    },
+    "note": "出生年為民國年；最後一組為民國110年至112年6月"
+  },
+  "3_cohort_top3_summary": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表二十七(各世代前3大取用名字)",
+      "pdf_page": 59,
+      "printed_page": 59,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    }
+  },
+  "3_single_given_names_top100": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十(前一百大單名)",
+      "pdf_page": "264(男)-265(女)",
+      "printed_page": "264(男)-265(女)",
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "male": [
+      {
+        "rank": 1,
+        "name": "傑",
+        "count": 1654
+      },
+      {
+        "rank": 2,
+        "name": "杰",
+        "count": 1629
+      },
+      {
+        "rank": 3,
+        "name": "毅",
+        "count": 1564
+      },
+      {
+        "rank": 4,
+        "name": "翔",
+        "count": 1289
+      },
+      {
+        "rank": 5,
+        "name": "靖",
+        "count": 1232
+      },
+      {
+        "rank": 6,
+        "name": "明",
+        "count": 1191
+      },
+      {
+        "rank": 7,
+        "name": "平",
+        "count": 1147
+      },
+      {
+        "rank": 8,
+        "name": "皓",
+        "count": 1140
+      },
+      {
+        "rank": 9,
+        "name": "威",
+        "count": 1089
+      },
+      {
+        "rank": 10,
+        "name": "偉",
+        "count": 1072
+      },
+      {
+        "rank": 11,
+        "name": "瑋",
+        "count": 1023
+      },
+      {
+        "rank": 12,
+        "name": "浩",
+        "count": 1022
+      },
+      {
+        "rank": 13,
+        "name": "立",
+        "count": 1014
+      },
+      {
+        "rank": 14,
+        "name": "恩",
+        "count": 983
+      },
+      {
+        "rank": 15,
+        "name": "謙",
+        "count": 958
+      },
+      {
+        "rank": 16,
+        "name": "正",
+        "count": 954
+      },
+      {
+        "rank": 17,
+        "name": "安",
+        "count": 920
+      },
+      {
+        "rank": 18,
+        "name": "文",
+        "count": 904
+      },
+      {
+        "rank": 19,
+        "name": "誠",
+        "count": 811
+      },
+      {
+        "rank": 20,
+        "name": "凱",
+        "count": 802
+      },
+      {
+        "rank": 21,
+        "name": "睿",
+        "count": 793
+      },
+      {
+        "rank": 22,
+        "name": "宇",
+        "count": 777
+      },
+      {
+        "rank": 23,
+        "name": "豪",
+        "count": 768
+      },
+      {
+        "rank": 24,
+        "name": "昊",
+        "count": 746
+      },
+      {
+        "rank": 25,
+        "name": "揚",
+        "count": 744
+      },
+      {
+        "rank": 26,
+        "name": "維",
+        "count": 701
+      },
+      {
+        "rank": 27,
+        "name": "榮",
+        "count": 691
+      },
+      {
+        "rank": 28,
+        "name": "軒",
+        "count": 686
+      },
+      {
+        "rank": 29,
+        "name": "強",
+        "count": 679
+      },
+      {
+        "rank": 30,
+        "name": "龍",
+        "count": 676
+      },
+      {
+        "rank": 31,
+        "name": "森",
+        "count": 671
+      },
+      {
+        "rank": 32,
+        "name": "駿",
+        "count": 666
+      },
+      {
+        "rank": 33,
+        "name": "鈞",
+        "count": 649
+      },
+      {
+        "rank": 34,
+        "name": "翊",
+        "count": 639
+      },
+      {
+        "rank": 35,
+        "name": "斌",
+        "count": 619
+      },
+      {
+        "rank": 36,
+        "name": "奕",
+        "count": 608
+      },
+      {
+        "rank": 37,
+        "name": "捷",
+        "count": 600
+      },
+      {
+        "rank": 38,
+        "name": "鑫",
+        "count": 581
+      },
+      {
+        "rank": 39,
+        "name": "勇",
+        "count": 577
+      },
+      {
+        "rank": 40,
+        "name": "清",
+        "count": 572
+      },
+      {
+        "rank": 41,
+        "name": "樂",
+        "count": 569
+      },
+      {
+        "rank": 42,
+        "name": "翰",
+        "count": 565
+      },
+      {
+        "rank": 43,
+        "name": "忠",
+        "count": 560
+      },
+      {
+        "rank": 44,
+        "name": "瀚",
+        "count": 559
+      },
+      {
+        "rank": 45,
+        "name": "震",
+        "count": 545
+      },
+      {
+        "rank": 46,
+        "name": "成",
+        "count": 544
+      },
+      {
+        "rank": 47,
+        "name": "福",
+        "count": 543
+      },
+      {
+        "rank": 48,
+        "name": "磊",
+        "count": 523
+      },
+      {
+        "rank": 49,
+        "name": "晨",
+        "count": 504
+      },
+      {
+        "rank": 50,
+        "name": "昱",
+        "count": 497
+      },
+      {
+        "rank": 51,
+        "name": "群",
+        "count": 481
+      },
+      {
+        "rank": 52,
+        "name": "祥",
+        "count": 479
+      },
+      {
+        "rank": 53,
+        "name": "昕",
+        "count": 469
+      },
+      {
+        "rank": 54,
+        "name": "進",
+        "count": 454
+      },
+      {
+        "rank": 55,
+        "name": "俊",
+        "count": 450
+      },
+      {
+        "rank": 56,
+        "name": "德",
+        "count": 448
+      },
+      {
+        "rank": 57,
+        "name": "愷",
+        "count": 446
+      },
+      {
+        "rank": 58,
+        "name": "逸",
+        "count": 445
+      },
+      {
+        "rank": 59,
+        "name": "亮",
+        "count": 441
+      },
+      {
+        "rank": 60,
+        "name": "銘",
+        "count": 441
+      },
+      {
+        "rank": 61,
+        "name": "昇",
+        "count": 435
+      },
+      {
+        "rank": 62,
+        "name": "宸",
+        "count": 434
+      },
+      {
+        "rank": 63,
+        "name": "興",
+        "count": 427
+      },
+      {
+        "rank": 64,
+        "name": "萬",
+        "count": 425
+      },
+      {
+        "rank": 65,
+        "name": "旭",
+        "count": 416
+      },
+      {
+        "rank": 66,
+        "name": "鴻",
+        "count": 408
+      },
+      {
+        "rank": 67,
+        "name": "元",
+        "count": 406
+      },
+      {
+        "rank": 68,
+        "name": "霖",
+        "count": 406
+      },
+      {
+        "rank": 69,
+        "name": "華",
+        "count": 404
+      },
+      {
+        "rank": 70,
+        "name": "顥",
+        "count": 399
+      },
+      {
+        "rank": 71,
+        "name": "岳",
+        "count": 398
+      },
+      {
+        "rank": 72,
+        "name": "易",
+        "count": 397
+      },
+      {
+        "rank": 73,
+        "name": "松",
+        "count": 389
+      },
+      {
+        "rank": 74,
+        "name": "喆",
+        "count": 386
+      },
+      {
+        "rank": 75,
+        "name": "義",
+        "count": 385
+      },
+      {
+        "rank": 76,
+        "name": "全",
+        "count": 381
+      },
+      {
+        "rank": 77,
+        "name": "緯",
+        "count": 381
+      },
+      {
+        "rank": 78,
+        "name": "澤",
+        "count": 381
+      },
+      {
+        "rank": 79,
+        "name": "宏",
+        "count": 380
+      },
+      {
+        "rank": 80,
+        "name": "健",
+        "count": 378
+      },
+      {
+        "rank": 81,
+        "name": "彬",
+        "count": 372
+      },
+      {
+        "rank": 82,
+        "name": "田",
+        "count": 370
+      },
+      {
+        "rank": 83,
+        "name": "晉",
+        "count": 367
+      },
+      {
+        "rank": 84,
+        "name": "達",
+        "count": 363
+      },
+      {
+        "rank": 85,
+        "name": "輝",
+        "count": 363
+      },
+      {
+        "rank": 86,
+        "name": "弘",
+        "count": 362
+      },
+      {
+        "rank": 87,
+        "name": "寬",
+        "count": 359
+      },
+      {
+        "rank": 88,
+        "name": "鵬",
+        "count": 354
+      },
+      {
+        "rank": 89,
+        "name": "陽",
+        "count": 353
+      },
+      {
+        "rank": 90,
+        "name": "齊",
+        "count": 351
+      },
+      {
+        "rank": 91,
+        "name": "寧",
+        "count": 340
+      },
+      {
+        "rank": 92,
+        "name": "允",
+        "count": 340
+      },
+      {
+        "rank": 93,
+        "name": "樹",
+        "count": 335
+      },
+      {
+        "rank": 94,
+        "name": "權",
+        "count": 331
+      },
+      {
+        "rank": 95,
+        "name": "新",
+        "count": 330
+      },
+      {
+        "rank": 96,
+        "name": "政",
+        "count": 329
+      },
+      {
+        "rank": 97,
+        "name": "昀",
+        "count": 327
+      },
+      {
+        "rank": 98,
+        "name": "凡",
+        "count": 326
+      },
+      {
+        "rank": 99,
+        "name": "慶",
+        "count": 325
+      },
+      {
+        "rank": 100,
+        "name": "永",
+        "count": 324
+      }
+    ],
+    "female": [
+      {
+        "rank": 1,
+        "name": "梅",
+        "count": 5923
+      },
+      {
+        "rank": 2,
+        "name": "雪",
+        "count": 5428
+      },
+      {
+        "rank": 3,
+        "name": "敏",
+        "count": 4983
+      },
+      {
+        "rank": 4,
+        "name": "美",
+        "count": 4460
+      },
+      {
+        "rank": 5,
+        "name": "秀",
+        "count": 4204
+      },
+      {
+        "rank": 6,
+        "name": "玉",
+        "count": 4186
+      },
+      {
+        "rank": 7,
+        "name": "滿",
+        "count": 4002
+      },
+      {
+        "rank": 8,
+        "name": "菊",
+        "count": 3988
+      },
+      {
+        "rank": 9,
+        "name": "月",
+        "count": 3517
+      },
+      {
+        "rank": 10,
+        "name": "春",
+        "count": 3222
+      },
+      {
+        "rank": 11,
+        "name": "英",
+        "count": 2932
+      },
+      {
+        "rank": 12,
+        "name": "香",
+        "count": 2833
+      },
+      {
+        "rank": 13,
+        "name": "燕",
+        "count": 2721
+      },
+      {
+        "rank": 14,
+        "name": "靜",
+        "count": 2700
+      },
+      {
+        "rank": 15,
+        "name": "珠",
+        "count": 2377
+      },
+      {
+        "rank": 16,
+        "name": "花",
+        "count": 2290
+      },
+      {
+        "rank": 17,
+        "name": "足",
+        "count": 2271
+      },
+      {
+        "rank": 18,
+        "name": "晴",
+        "count": 2209
+      },
+      {
+        "rank": 19,
+        "name": "桃",
+        "count": 2157
+      },
+      {
+        "rank": 20,
+        "name": "好",
+        "count": 2065
+      },
+      {
+        "rank": 21,
+        "name": "蘭",
+        "count": 2057
+      },
+      {
+        "rank": 22,
+        "name": "愛",
+        "count": 2000
+      },
+      {
+        "rank": 23,
+        "name": "薇",
+        "count": 1997
+      },
+      {
+        "rank": 24,
+        "name": "鳳",
+        "count": 1981
+      },
+      {
+        "rank": 25,
+        "name": "葉",
+        "count": 1977
+      },
+      {
+        "rank": 26,
+        "name": "婷",
+        "count": 1946
+      },
+      {
+        "rank": 27,
+        "name": "琳",
+        "count": 1925
+      },
+      {
+        "rank": 28,
+        "name": "琴",
+        "count": 1868
+      },
+      {
+        "rank": 29,
+        "name": "綢",
+        "count": 1864
+      },
+      {
+        "rank": 30,
+        "name": "粉",
+        "count": 1834
+      },
+      {
+        "rank": 31,
+        "name": "錦",
+        "count": 1801
+      },
+      {
+        "rank": 32,
+        "name": "玲",
+        "count": 1769
+      },
+      {
+        "rank": 33,
+        "name": "麗",
+        "count": 1714
+      },
+      {
+        "rank": 34,
+        "name": "婕",
+        "count": 1693
+      },
+      {
+        "rank": 35,
+        "name": "馨",
+        "count": 1645
+      },
+      {
+        "rank": 36,
+        "name": "金",
+        "count": 1611
+      },
+      {
+        "rank": 37,
+        "name": "幼",
+        "count": 1607
+      },
+      {
+        "rank": 38,
+        "name": "素",
+        "count": 1596
+      },
+      {
+        "rank": 39,
+        "name": "霞",
+        "count": 1578
+      },
+      {
+        "rank": 40,
+        "name": "碧",
+        "count": 1573
+      },
+      {
+        "rank": 41,
+        "name": "雲",
+        "count": 1566
+      },
+      {
+        "rank": 42,
+        "name": "娥",
+        "count": 1532
+      },
+      {
+        "rank": 43,
+        "name": "萍",
+        "count": 1517
+      },
+      {
+        "rank": 44,
+        "name": "蜜",
+        "count": 1500
+      },
+      {
+        "rank": 45,
+        "name": "嬌",
+        "count": 1484
+      },
+      {
+        "rank": 46,
+        "name": "寧",
+        "count": 1437
+      },
+      {
+        "rank": 47,
+        "name": "萱",
+        "count": 1435
+      },
+      {
+        "rank": 48,
+        "name": "欣",
+        "count": 1428
+      },
+      {
+        "rank": 49,
+        "name": "淑",
+        "count": 1419
+      },
+      {
+        "rank": 50,
+        "name": "芳",
+        "count": 1414
+      },
+      {
+        "rank": 51,
+        "name": "笑",
+        "count": 1374
+      },
+      {
+        "rank": 52,
+        "name": "蕊",
+        "count": 1360
+      },
+      {
+        "rank": 53,
+        "name": "緞",
+        "count": 1336
+      },
+      {
+        "rank": 54,
+        "name": "桂",
+        "count": 1275
+      },
+      {
+        "rank": 55,
+        "name": "純",
+        "count": 1244
+      },
+      {
+        "rank": 56,
+        "name": "芸",
+        "count": 1242
+      },
+      {
+        "rank": 57,
+        "name": "幸",
+        "count": 1230
+      },
+      {
+        "rank": 58,
+        "name": "銀",
+        "count": 1216
+      },
+      {
+        "rank": 59,
+        "name": "潔",
+        "count": 1199
+      },
+      {
+        "rank": 60,
+        "name": "麵",
+        "count": 1192
+      },
+      {
+        "rank": 61,
+        "name": "琪",
+        "count": 1162
+      },
+      {
+        "rank": 62,
+        "name": "圓",
+        "count": 1142
+      },
+      {
+        "rank": 63,
+        "name": "蓉",
+        "count": 1130
+      },
+      {
+        "rank": 64,
+        "name": "勤",
+        "count": 1112
+      },
+      {
+        "rank": 65,
+        "name": "莉",
+        "count": 1092
+      },
+      {
+        "rank": 66,
+        "name": "昕",
+        "count": 1091
+      },
+      {
+        "rank": 67,
+        "name": "娟",
+        "count": 1062
+      },
+      {
+        "rank": 68,
+        "name": "富",
+        "count": 1048
+      },
+      {
+        "rank": 69,
+        "name": "却",
+        "count": 1043
+      },
+      {
+        "rank": 70,
+        "name": "絹",
+        "count": 1042
+      },
+      {
+        "rank": 71,
+        "name": "招",
+        "count": 1042
+      },
+      {
+        "rank": 72,
+        "name": "絨",
+        "count": 1010
+      },
+      {
+        "rank": 73,
+        "name": "瑜",
+        "count": 989
+      },
+      {
+        "rank": 74,
+        "name": "琦",
+        "count": 985
+      },
+      {
+        "rank": 75,
+        "name": "綿",
+        "count": 972
+      },
+      {
+        "rank": 76,
+        "name": "彤",
+        "count": 962
+      },
+      {
+        "rank": 77,
+        "name": "穎",
+        "count": 958
+      },
+      {
+        "rank": 78,
+        "name": "秋",
+        "count": 956
+      },
+      {
+        "rank": 79,
+        "name": "昀",
+        "count": 953
+      },
+      {
+        "rank": 80,
+        "name": "勉",
+        "count": 950
+      },
+      {
+        "rank": 81,
+        "name": "華",
+        "count": 931
+      },
+      {
+        "rank": 82,
+        "name": "換",
+        "count": 899
+      },
+      {
+        "rank": 83,
+        "name": "時",
+        "count": 897
+      },
+      {
+        "rank": 84,
+        "name": "鑾",
+        "count": 895
+      },
+      {
+        "rank": 85,
+        "name": "杏",
+        "count": 894
+      },
+      {
+        "rank": 86,
+        "name": "惜",
+        "count": 888
+      },
+      {
+        "rank": 87,
+        "name": "快",
+        "count": 883
+      },
+      {
+        "rank": 88,
+        "name": "瑩",
+        "count": 878
+      },
+      {
+        "rank": 89,
+        "name": "謹",
+        "count": 875
+      },
+      {
+        "rank": 90,
+        "name": "慧",
+        "count": 861
+      },
+      {
+        "rank": 91,
+        "name": "真",
+        "count": 857
+      },
+      {
+        "rank": 92,
+        "name": "嫌",
+        "count": 853
+      },
+      {
+        "rank": 93,
+        "name": "品",
+        "count": 847
+      },
+      {
+        "rank": 94,
+        "name": "善",
+        "count": 843
+      },
+      {
+        "rank": 95,
+        "name": "雀",
+        "count": 842
+      },
+      {
+        "rank": 96,
+        "name": "丹",
+        "count": 838
+      },
+      {
+        "rank": 97,
+        "name": "惠",
+        "count": 838
+      },
+      {
+        "rank": 98,
+        "name": "靖",
+        "count": 830
+      },
+      {
+        "rank": 99,
+        "name": "筠",
+        "count": 827
+      },
+      {
+        "rank": 100,
+        "name": "甘",
+        "count": 824
+      }
+    ],
+    "total_single_name_pop": 509868,
+    "pct": 2.18,
+    "male_single": 151129,
+    "female_single": 358739,
+    "src_text_page": 60
+  },
+  "4_top_full_names": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十二(前一百大同姓同名)",
+      "pdf_page": "268(男)-269(女)",
+      "printed_page": "268(男)-269(女)",
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "male": [
+      {
+        "rank": 1,
+        "name": "陳冠宇",
+        "count": 4021
+      },
+      {
+        "rank": 2,
+        "name": "陳建宏",
+        "count": 3524
+      },
+      {
+        "rank": 3,
+        "name": "張家豪",
+        "count": 2890
+      },
+      {
+        "rank": 4,
+        "name": "陳俊宏",
+        "count": 2801
+      },
+      {
+        "rank": 5,
+        "name": "陳冠廷",
+        "count": 2469
+      },
+      {
+        "rank": 6,
+        "name": "陳柏宇",
+        "count": 2383
+      },
+      {
+        "rank": 7,
+        "name": "林建宏",
+        "count": 2375
+      },
+      {
+        "rank": 8,
+        "name": "陳柏翰",
+        "count": 2353
+      },
+      {
+        "rank": 9,
+        "name": "陳彥廷",
+        "count": 2249
+      },
+      {
+        "rank": 10,
+        "name": "陳信宏",
+        "count": 2120
+      },
+      {
+        "rank": 11,
+        "name": "林俊宏",
+        "count": 2078
+      },
+      {
+        "rank": 12,
+        "name": "張家銘",
+        "count": 1890
+      },
+      {
+        "rank": 13,
+        "name": "陳志豪",
+        "count": 1879
+      },
+      {
+        "rank": 14,
+        "name": "陳冠霖",
+        "count": 1825
+      },
+      {
+        "rank": 15,
+        "name": "黃俊傑",
+        "count": 1775
+      },
+      {
+        "rank": 16,
+        "name": "王俊傑",
+        "count": 1773
+      },
+      {
+        "rank": 17,
+        "name": "陳俊宇",
+        "count": 1740
+      },
+      {
+        "rank": 18,
+        "name": "陳志明",
+        "count": 1710
+      },
+      {
+        "rank": 19,
+        "name": "林冠宇",
+        "count": 1678
+      },
+      {
+        "rank": 20,
+        "name": "林冠廷",
+        "count": 1651
+      },
+      {
+        "rank": 21,
+        "name": "陳威廷",
+        "count": 1583
+      },
+      {
+        "rank": 22,
+        "name": "陳建志",
+        "count": 1575
+      },
+      {
+        "rank": 23,
+        "name": "陳俊傑",
+        "count": 1529
+      },
+      {
+        "rank": 24,
+        "name": "林志明",
+        "count": 1453
+      },
+      {
+        "rank": 25,
+        "name": "林彥廷",
+        "count": 1452
+      },
+      {
+        "rank": 26,
+        "name": "陳冠宏",
+        "count": 1426
+      },
+      {
+        "rank": 27,
+        "name": "陳俊良",
+        "count": 1424
+      },
+      {
+        "rank": 28,
+        "name": "陳柏安",
+        "count": 1370
+      },
+      {
+        "rank": 29,
+        "name": "陳柏霖",
+        "count": 1359
+      },
+      {
+        "rank": 30,
+        "name": "林哲宇",
+        "count": 1352
+      },
+      {
+        "rank": 31,
+        "name": "陳柏宏",
+        "count": 1342
+      },
+      {
+        "rank": 32,
+        "name": "吳宗翰",
+        "count": 1322
+      },
+      {
+        "rank": 33,
+        "name": "陳建宇",
+        "count": 1322
+      },
+      {
+        "rank": 34,
+        "name": "李俊賢",
+        "count": 1306
+      },
+      {
+        "rank": 35,
+        "name": "張育誠",
+        "count": 1295
+      },
+      {
+        "rank": 36,
+        "name": "張家瑋",
+        "count": 1294
+      },
+      {
+        "rank": 37,
+        "name": "陳威宇",
+        "count": 1287
+      },
+      {
+        "rank": 38,
+        "name": "吳承翰",
+        "count": 1266
+      },
+      {
+        "rank": 39,
+        "name": "陳建良",
+        "count": 1266
+      },
+      {
+        "rank": 40,
+        "name": "陳柏諺",
+        "count": 1266
+      },
+      {
+        "rank": 41,
+        "name": "張凱翔",
+        "count": 1262
+      },
+      {
+        "rank": 42,
+        "name": "李承翰",
+        "count": 1261
+      },
+      {
+        "rank": 43,
+        "name": "李承恩",
+        "count": 1257
+      },
+      {
+        "rank": 44,
+        "name": "陳奕安",
+        "count": 1255
+      },
+      {
+        "rank": 45,
+        "name": "吳俊賢",
+        "count": 1246
+      },
+      {
+        "rank": 46,
+        "name": "張哲瑋",
+        "count": 1227
+      },
+      {
+        "rank": 47,
+        "name": "李宗翰",
+        "count": 1223
+      },
+      {
+        "rank": 48,
+        "name": "陳建成",
+        "count": 1213
+      },
+      {
+        "rank": 49,
+        "name": "許家豪",
+        "count": 1213
+      },
+      {
+        "rank": 50,
+        "name": "陳俊廷",
+        "count": 1209
+      },
+      {
+        "rank": 51,
+        "name": "張哲維",
+        "count": 1207
+      },
+      {
+        "rank": 52,
+        "name": "吳承恩",
+        "count": 1194
+      },
+      {
+        "rank": 53,
+        "name": "張家榮",
+        "count": 1187
+      },
+      {
+        "rank": 54,
+        "name": "蔡承翰",
+        "count": 1186
+      },
+      {
+        "rank": 55,
+        "name": "林信宏",
+        "count": 1185
+      },
+      {
+        "rank": 56,
+        "name": "陳建銘",
+        "count": 1185
+      },
+      {
+        "rank": 57,
+        "name": "陳柏睿",
+        "count": 1173
+      },
+      {
+        "rank": 58,
+        "name": "陳建安",
+        "count": 1158
+      },
+      {
+        "rank": 59,
+        "name": "林志鴻",
+        "count": 1130
+      },
+      {
+        "rank": 60,
+        "name": "陳宥廷",
+        "count": 1121
+      },
+      {
+        "rank": 61,
+        "name": "陳志成",
+        "count": 1121
+      },
+      {
+        "rank": 62,
+        "name": "陳彥宇",
+        "count": 1115
+      },
+      {
+        "rank": 63,
+        "name": "張志豪",
+        "count": 1109
+      },
+      {
+        "rank": 64,
+        "name": "蔡宗翰",
+        "count": 1107
+      },
+      {
+        "rank": 65,
+        "name": "林子傑",
+        "count": 1088
+      },
+      {
+        "rank": 66,
+        "name": "陳彥霖",
+        "count": 1077
+      },
+      {
+        "rank": 67,
+        "name": "陳俊男",
+        "count": 1075
+      },
+      {
+        "rank": 68,
+        "name": "陳志忠",
+        "count": 1066
+      },
+      {
+        "rank": 69,
+        "name": "林子翔",
+        "count": 1058
+      },
+      {
+        "rank": 70,
+        "name": "陳志偉",
+        "count": 1048
+      },
+      {
+        "rank": 71,
+        "name": "陳品睿",
+        "count": 1040
+      },
+      {
+        "rank": 72,
+        "name": "蔡承恩",
+        "count": 1037
+      },
+      {
+        "rank": 73,
+        "name": "陳志銘",
+        "count": 1018
+      },
+      {
+        "rank": 74,
+        "name": "陳俊豪",
+        "count": 1011
+      },
+      {
+        "rank": 75,
+        "name": "黃柏翰",
+        "count": 1009
+      },
+      {
+        "rank": 76,
+        "name": "陳俊佑",
+        "count": 1006
+      },
+      {
+        "rank": 77,
+        "name": "陳志宏",
+        "count": 1005
+      },
+      {
+        "rank": 78,
+        "name": "楊宗翰",
+        "count": 1004
+      },
+      {
+        "rank": 79,
+        "name": "陳昱安",
+        "count": 998
+      },
+      {
+        "rank": 80,
+        "name": "李建興",
+        "count": 996
+      },
+      {
+        "rank": 81,
+        "name": "林明輝",
+        "count": 994
+      },
+      {
+        "rank": 82,
+        "name": "李俊毅",
+        "count": 989
+      },
+      {
+        "rank": 83,
+        "name": "林冠宏",
+        "count": 985
+      },
+      {
+        "rank": 84,
+        "name": "劉冠廷",
+        "count": 975
+      },
+      {
+        "rank": 85,
+        "name": "陳俊吉",
+        "count": 969
+      },
+      {
+        "rank": 86,
+        "name": "陳正雄",
+        "count": 959
+      },
+      {
+        "rank": 87,
+        "name": "陳宥任",
+        "count": 952
+      },
+      {
+        "rank": 88,
+        "name": "林建成",
+        "count": 951
+      },
+      {
+        "rank": 89,
+        "name": "鄭宇翔",
+        "count": 945
+      },
+      {
+        "rank": 90,
+        "name": "王俊凱",
+        "count": 945
+      },
+      {
+        "rank": 91,
+        "name": "劉建宏",
+        "count": 934
+      },
+      {
+        "rank": 92,
+        "name": "吳俊毅",
+        "count": 931
+      },
+      {
+        "rank": 93,
+        "name": "林明德",
+        "count": 930
+      },
+      {
+        "rank": 94,
+        "name": "楊承翰",
+        "count": 928
+      },
+      {
+        "rank": 95,
+        "name": "陳志強",
+        "count": 920
+      },
+      {
+        "rank": 96,
+        "name": "林建志",
+        "count": 913
+      },
+      {
+        "rank": 97,
+        "name": "黃柏翔",
+        "count": 910
+      },
+      {
+        "rank": 98,
+        "name": "陳俊雄",
+        "count": 909
+      },
+      {
+        "rank": 99,
+        "name": "陳文彬",
+        "count": 908
+      },
+      {
+        "rank": 100,
+        "name": "陳柏豪",
+        "count": 908
+      }
+    ],
+    "female": [
+      {
+        "rank": 1,
+        "name": "陳怡君",
+        "count": 5744
+      },
+      {
+        "rank": 2,
+        "name": "林怡君",
+        "count": 4401
+      },
+      {
+        "rank": 3,
+        "name": "陳淑芬",
+        "count": 3747
+      },
+      {
+        "rank": 4,
+        "name": "張雅婷",
+        "count": 3491
+      },
+      {
+        "rank": 5,
+        "name": "陳美玲",
+        "count": 3235
+      },
+      {
+        "rank": 6,
+        "name": "陳怡如",
+        "count": 3121
+      },
+      {
+        "rank": 7,
+        "name": "陳美惠",
+        "count": 3103
+      },
+      {
+        "rank": 8,
+        "name": "陳淑惠",
+        "count": 2921
+      },
+      {
+        "rank": 9,
+        "name": "林淑惠",
+        "count": 2903
+      },
+      {
+        "rank": 10,
+        "name": "陳淑貞",
+        "count": 2751
+      },
+      {
+        "rank": 11,
+        "name": "陳淑娟",
+        "count": 2687
+      },
+      {
+        "rank": 12,
+        "name": "陳麗華",
+        "count": 2632
+      },
+      {
+        "rank": 13,
+        "name": "林佳慧",
+        "count": 2514
+      },
+      {
+        "rank": 14,
+        "name": "林淑芬",
+        "count": 2493
+      },
+      {
+        "rank": 15,
+        "name": "陳美華",
+        "count": 2336
+      },
+      {
+        "rank": 16,
+        "name": "陳怡靜",
+        "count": 2278
+      },
+      {
+        "rank": 17,
+        "name": "楊雅婷",
+        "count": 2252
+      },
+      {
+        "rank": 18,
+        "name": "陳淑華",
+        "count": 2196
+      },
+      {
+        "rank": 19,
+        "name": "陳怡伶",
+        "count": 2175
+      },
+      {
+        "rank": 20,
+        "name": "林麗華",
+        "count": 2150
+      },
+      {
+        "rank": 21,
+        "name": "陳思妤",
+        "count": 2140
+      },
+      {
+        "rank": 22,
+        "name": "張雅惠",
+        "count": 2134
+      },
+      {
+        "rank": 23,
+        "name": "陳淑美",
+        "count": 2107
+      },
+      {
+        "rank": 24,
+        "name": "陳韻如",
+        "count": 2097
+      },
+      {
+        "rank": 25,
+        "name": "黃淑芬",
+        "count": 2048
+      },
+      {
+        "rank": 26,
+        "name": "陳秀美",
+        "count": 2047
+      },
+      {
+        "rank": 27,
+        "name": "陳怡婷",
+        "count": 2040
+      },
+      {
+        "rank": 28,
+        "name": "陳淑玲",
+        "count": 2006
+      },
+      {
+        "rank": 29,
+        "name": "黃鈺婷",
+        "count": 1991
+      },
+      {
+        "rank": 30,
+        "name": "張雅雯",
+        "count": 1988
+      },
+      {
+        "rank": 31,
+        "name": "陳麗娟",
+        "count": 1971
+      },
+      {
+        "rank": 32,
+        "name": "林美惠",
+        "count": 1955
+      },
+      {
+        "rank": 33,
+        "name": "林美玲",
+        "count": 1937
+      },
+      {
+        "rank": 34,
+        "name": "林淑娟",
+        "count": 1933
+      },
+      {
+        "rank": 35,
+        "name": "陳雅玲",
+        "count": 1882
+      },
+      {
+        "rank": 36,
+        "name": "林秀美",
+        "count": 1877
+      },
+      {
+        "rank": 37,
+        "name": "陳秀琴",
+        "count": 1809
+      },
+      {
+        "rank": 38,
+        "name": "陳美玉",
+        "count": 1807
+      },
+      {
+        "rank": 39,
+        "name": "許雅婷",
+        "count": 1805
+      },
+      {
+        "rank": 40,
+        "name": "黃淑惠",
+        "count": 1782
+      },
+      {
+        "rank": 41,
+        "name": "劉怡君",
+        "count": 1763
+      },
+      {
+        "rank": 42,
+        "name": "張淑惠",
+        "count": 1739
+      },
+      {
+        "rank": 43,
+        "name": "陳怡安",
+        "count": 1723
+      },
+      {
+        "rank": 44,
+        "name": "陳美珠",
+        "count": 1694
+      },
+      {
+        "rank": 45,
+        "name": "林佳蓉",
+        "count": 1689
+      },
+      {
+        "rank": 46,
+        "name": "林淑華",
+        "count": 1686
+      },
+      {
+        "rank": 47,
+        "name": "陳雅惠",
+        "count": 1685
+      },
+      {
+        "rank": 48,
+        "name": "陳品妤",
+        "count": 1683
+      },
+      {
+        "rank": 49,
+        "name": "黃馨儀",
+        "count": 1678
+      },
+      {
+        "rank": 50,
+        "name": "陳麗珠",
+        "count": 1675
+      },
+      {
+        "rank": 51,
+        "name": "陳秀英",
+        "count": 1662
+      },
+      {
+        "rank": 52,
+        "name": "王怡婷",
+        "count": 1653
+      },
+      {
+        "rank": 53,
+        "name": "陳思穎",
+        "count": 1647
+      },
+      {
+        "rank": 54,
+        "name": "陳美雲",
+        "count": 1643
+      },
+      {
+        "rank": 55,
+        "name": "林美華",
+        "count": 1641
+      },
+      {
+        "rank": 56,
+        "name": "林淑貞",
+        "count": 1630
+      },
+      {
+        "rank": 57,
+        "name": "陳宥蓁",
+        "count": 1628
+      },
+      {
+        "rank": 58,
+        "name": "陳秀鳳",
+        "count": 1590
+      },
+      {
+        "rank": 59,
+        "name": "張淑芬",
+        "count": 1579
+      },
+      {
+        "rank": 60,
+        "name": "陳惠美",
+        "count": 1578
+      },
+      {
+        "rank": 61,
+        "name": "林欣怡",
+        "count": 1573
+      },
+      {
+        "rank": 62,
+        "name": "陳惠玲",
+        "count": 1567
+      },
+      {
+        "rank": 63,
+        "name": "黃美玲",
+        "count": 1556
+      },
+      {
+        "rank": 64,
+        "name": "陳麗卿",
+        "count": 1552
+      },
+      {
+        "rank": 65,
+        "name": "李淑芬",
+        "count": 1544
+      },
+      {
+        "rank": 66,
+        "name": "黃淑貞",
+        "count": 1535
+      },
+      {
+        "rank": 67,
+        "name": "陳美麗",
+        "count": 1529
+      },
+      {
+        "rank": 68,
+        "name": "陳麗美",
+        "count": 1513
+      },
+      {
+        "rank": 69,
+        "name": "黃美惠",
+        "count": 1505
+      },
+      {
+        "rank": 70,
+        "name": "陳雅婷",
+        "count": 1503
+      },
+      {
+        "rank": 71,
+        "name": "李佳蓉",
+        "count": 1499
+      },
+      {
+        "rank": 72,
+        "name": "李麗華",
+        "count": 1486
+      },
+      {
+        "rank": 73,
+        "name": "林雅惠",
+        "count": 1474
+      },
+      {
+        "rank": 74,
+        "name": "林秀英",
+        "count": 1461
+      },
+      {
+        "rank": 75,
+        "name": "林欣儀",
+        "count": 1461
+      },
+      {
+        "rank": 76,
+        "name": "鄭雅文",
+        "count": 1459
+      },
+      {
+        "rank": 77,
+        "name": "陳慧玲",
+        "count": 1438
+      },
+      {
+        "rank": 78,
+        "name": "黃郁婷",
+        "count": 1424
+      },
+      {
+        "rank": 79,
+        "name": "林宜蓁",
+        "count": 1422
+      },
+      {
+        "rank": 80,
+        "name": "陳姿穎",
+        "count": 1418
+      },
+      {
+        "rank": 81,
+        "name": "陳秀蘭",
+        "count": 1417
+      },
+      {
+        "rank": 82,
+        "name": "林芳如",
+        "count": 1411
+      },
+      {
+        "rank": 83,
+        "name": "黃詩涵",
+        "count": 1400
+      },
+      {
+        "rank": 84,
+        "name": "黃麗華",
+        "count": 1398
+      },
+      {
+        "rank": 85,
+        "name": "黃美華",
+        "count": 1393
+      },
+      {
+        "rank": 86,
+        "name": "陳麗如",
+        "count": 1390
+      },
+      {
+        "rank": 87,
+        "name": "林麗娟",
+        "count": 1388
+      },
+      {
+        "rank": 88,
+        "name": "李淑惠",
+        "count": 1388
+      },
+      {
+        "rank": 89,
+        "name": "黃淑娟",
+        "count": 1387
+      },
+      {
+        "rank": 90,
+        "name": "王淑芬",
+        "count": 1378
+      },
+      {
+        "rank": 91,
+        "name": "林雅婷",
+        "count": 1364
+      },
+      {
+        "rank": 92,
+        "name": "李怡萱",
+        "count": 1360
+      },
+      {
+        "rank": 93,
+        "name": "張淑娟",
+        "count": 1356
+      },
+      {
+        "rank": 94,
+        "name": "張美玲",
+        "count": 1347
+      },
+      {
+        "rank": 95,
+        "name": "林秀玲",
+        "count": 1344
+      },
+      {
+        "rank": 96,
+        "name": "李宜蓁",
+        "count": 1336
+      },
+      {
+        "rank": 97,
+        "name": "陳素貞",
+        "count": 1333
+      },
+      {
+        "rank": 98,
+        "name": "吳佩珊",
+        "count": 1330
+      },
+      {
+        "rank": 99,
+        "name": "張淑貞",
+        "count": 1325
+      },
+      {
+        "rank": 100,
+        "name": "陳淑珍",
+        "count": 1325
+      }
+    ]
+  },
+  "4_cross_gender_same_name_top10": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表五十三",
+      "pdf_page": 270,
+      "printed_page": 270,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "rows": [
+      {
+        "name": "陳宥均",
+        "total": 829,
+        "male": 488,
+        "female": 341
+      },
+      {
+        "name": "陳禹安",
+        "total": 789,
+        "male": 408,
+        "female": 381
+      },
+      {
+        "name": "林宥均",
+        "total": 690,
+        "male": 354,
+        "female": 336
+      },
+      {
+        "name": "張家華",
+        "total": 666,
+        "male": 354,
+        "female": 312
+      },
+      {
+        "name": "陳冠樺",
+        "total": 643,
+        "male": 336,
+        "female": 307
+      },
+      {
+        "name": "陳品安",
+        "total": 566,
+        "male": 290,
+        "female": 276
+      },
+      {
+        "name": "林家安",
+        "total": 492,
+        "male": 233,
+        "female": 259
+      },
+      {
+        "name": "李佳霖",
+        "total": 488,
+        "male": 229,
+        "female": 259
+      },
+      {
+        "name": "陳以恩",
+        "total": 485,
+        "male": 216,
+        "female": 269
+      },
+      {
+        "name": "陳郁文",
+        "total": 453,
+        "male": 201,
+        "female": 252
+      }
+    ]
+  },
+  "4_couples_same_full_name": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "文字",
+      "pdf_page": 68,
+      "printed_page": 68,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "value": "2對（因個資不揭露姓名）",
+    "same_surname_couples": 226871
+  },
+  "5_name_length": {
+    "source": {
+      "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+      "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+      "table": "表四十六/四十七、文字",
+      "pdf_page": 83,
+      "printed_page": 83,
+      "as_of": "2023-06-30 (民國112年6月30日)"
+    },
+    "single_name_pop": 509868,
+    "single_name_pct": 2.18,
+    "reduplicated_pop": 67571,
+    "reduplicated_male": 1220,
+    "reduplicated_female": 66351,
+    "reduplicated_source_page": 62,
+    "reduplicated_top10_male": [
+      ["彬彬", 55],
+      ["安安", 49],
+      ["明明", 45],
+      ["偉偉", 34],
+      ["友友", 33],
+      ["樂樂", 28],
+      ["森森", 23],
+      ["龍龍", 22],
+      ["元元", 19],
+      ["欣欣", 17]
+    ],
+    "reduplicated_top10_female": [
+      ["婷婷", 4536],
+      ["玲玲", 3834],
+      ["莉莉", 3735],
+      ["娟娟", 2551],
+      ["美美", 1724],
+      ["珊珊", 1592],
+      ["菁菁", 1570],
+      ["盈盈", 1534],
+      ["麗麗", 1388],
+      ["純純", 1066]
+    ],
+    "over_six_chars": {
+      "total": 2638,
+      "male": 1303,
+      "female": 1335,
+      "by_len": {
+        "6": 1148,
+        "7": 743,
+        "8": 429,
+        "9": 196,
+        "10": 63,
+        "11": 27,
+        "12": 16,
+        "13": 7,
+        "14": 2,
+        "15+": 7
+      },
+      "indigenous": 2438,
+      "indigenous_pct": 92.42,
+      "foreign_resident": 60,
+      "foreign_pct": 2.27,
+      "note": "不含以「．」「，」或空格區隔者"
+    },
+    "not_available": "報告沒有「2字/3字/4字姓名」人數與占比的分布表；僅有單名(2字姓名)人數、疊字、逾6字。最長姓名:15字以上7人，未揭露實際最長字數與內容。"
+  },
+  "6_indigenous": {
+    "table43": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表四十三(各縣市原住民姓名並列羅馬拼音人數按性別分)",
+        "pdf_page": 248,
+        "printed_page": 248,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total_indigenous": 586538,
+      "romanized_parallel": 22614,
+      "pct": 3.86,
+      "male": 10658,
+      "female": 11956,
+      "as_of": "2023-06-30",
+      "note": "註：此欄為「姓名並列羅馬拼音」，報告未區分傳統姓名並列與漢名並列"
+    },
+    "table44": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表四十四",
+        "pdf_page": 250,
+        "printed_page": 250,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "period": "民國97年至111年(15年累計)",
+      "restored_traditional": 2670,
+      "restored_han": 500,
+      "birth_reg_traditional": 1078,
+      "warning": "民間團體聲明把2,670寫成「近5年」，但表頭是97-111年累計；102-111年則為1,797(表三十五 p.78)"
+    },
+    "table35": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十五(原住民回復傳統姓名,102-111)",
+        "pdf_page": 78,
+        "printed_page": 78,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total_102_111": 1797,
+      "male": 849,
+      "female": 948
+    },
+    "table36": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十六(原住民回復漢人姓名,102-111)",
+        "pdf_page": 80,
+        "printed_page": 80,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 337
+    },
+    "table37": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十七(原住民以傳統姓名申報出生登記)",
+        "pdf_page": 82,
+        "printed_page": 82,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total_102_111": 894,
+      "yearly": {
+        "102": 52,
+        "103": 75,
+        "104": 77,
+        "105": 87,
+        "106": 99,
+        "107": 104,
+        "108": 105,
+        "109": 108,
+        "110": 86,
+        "111": 101
+      }
+    },
+    "other_column": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表一",
+        "pdf_page": 24,
+        "printed_page": 24,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "value": 8089,
+      "note": "原住民傳統姓名及以中文原名或外文音譯者合計(不入姓氏排序)"
+    },
+    "dot_in_name": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "文字",
+        "pdf_page": 69,
+        "printed_page": 69,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "value": 4589,
+      "male": 2308,
+      "female": 2281
+    },
+    "indigenous_total_top10_surnames": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表十五",
+        "pdf_page": 38,
+        "printed_page": 38,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 586538,
+      "top10": [
+        "林61169",
+        "陳57372",
+        "黃26263",
+        "張25920",
+        "李24563",
+        "王20566",
+        "高20364",
+        "潘17547",
+        "吳15948",
+        "楊14156"
+      ],
+      "top10_sum": 283868,
+      "top10_pct": 48.4
+    },
+    "cip_2024": {
+      "url": "https://www.ctee.com.tw/news/20240519700545-431401",
+      "doc": "工商時報 2024-05-19 引述原住民族委員會「推動原住民族登記傳統名字便民措施3年(113-115年)計畫」",
+      "quote_summary": "登記傳統名字的族人不到4萬人，占全體族人6%",
+      "as_of": "未標示基準日",
+      "tier": "二手(媒體)；計畫PDF為一手: https://www-ws.gov.taipei/001/Upload/382/relfile/10173/9178227/47f98f43-d8c9-4079-90ea-6e89c54840f8.pdf 第四點原文「目前登記傳統名字的族人不到 4 萬人，僅佔全體族人的 6%」(民國113年5月19日)"
+    },
+    "law_2024": {
+      "doc": "姓名條例修正三讀 2024-05-14；施行細則修正 內政部113年11月21日部務會報通過(新聞稿 https://www.moi.gov.tw/News_Content.aspx?n=2&s=323260)",
+      "cna": "https://www.cna.com.tw/news/aipl/202405140127.aspx"
+    },
+    "single_listed_native_script_count": "沒有資料：2024修法後「單列族語羅馬拼音」登記人數，本次未找到內政部/原民會公開數字"
+  },
+  "7_mother_surname": {
+    "recent": {
+      "source": {
+        "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&sms=9009&s=333314",
+        "doc": "內政部統計處《內政統計通報》114年第46週(114年11月15日)「出生嬰兒從母姓之比率呈增加趨勢，114年1-9月達6.0％為歷年新高」",
+        "table": "表一 出生嬰兒從姓統計(資料來源：內政部戶政司)",
+        "as_of": "各年全年；114年為1-9月"
+      },
+      "rows": [
+        {
+          "year": "109",
+          "total": 165249,
+          "father": 156523,
+          "father_pct": 94.7,
+          "mother": 8609,
+          "mother_pct": 5.2,
+          "traditional": 108,
+          "guardian": 9
+        },
+        {
+          "year": "110",
+          "total": 153820,
+          "father": 145825,
+          "father_pct": 94.8,
+          "mother": 7908,
+          "mother_pct": 5.1,
+          "traditional": 84,
+          "guardian": 3
+        },
+        {
+          "year": "111",
+          "total": 138986,
+          "father": 131323,
+          "father_pct": 94.5,
+          "mother": 7563,
+          "mother_pct": 5.4,
+          "traditional": 100,
+          "guardian": 0
+        },
+        {
+          "year": "112",
+          "total": 135571,
+          "father": 127809,
+          "father_pct": 94.3,
+          "mother": 7676,
+          "mother_pct": 5.7,
+          "traditional": 85,
+          "guardian": 1
+        },
+        {
+          "year": "113",
+          "total": 134856,
+          "father": 127211,
+          "father_pct": 94.3,
+          "mother": 7571,
+          "mother_pct": 5.6,
+          "traditional": 73,
+          "guardian": 1
+        },
+        {
+          "year": "114_1-9月",
+          "total": 81381,
+          "father": 76442,
+          "father_pct": 93.9,
+          "mother": 4884,
+          "mother_pct": 6.0,
+          "traditional": 54,
+          "guardian": 1
+        }
+      ],
+      "by_agreement_2025_1_9": {
+        "parents_agreed": 79175,
+        "parents_agreed_mother_pct": 3.4,
+        "one_party_decided": 2037,
+        "one_party_mother_pct": 99.0,
+        "draw": 168
+      },
+      "top_counties_2025_1_9": {
+        "臺東縣": 16.8,
+        "花蓮縣": 16.5,
+        "屏東縣": 9.0
+      }
+    },
+    "history_97_111": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "圖十八",
+        "pdf_page": 67,
+        "printed_page": 67,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "note": "圖中標示數值(%)，依序97至111年，全體:",
+      "overall_pct": {
+        "97": 4.73,
+        "98": 4.44,
+        "99": 4.68,
+        "100": 4.03,
+        "101": 3.83,
+        "102": 4.2,
+        "103": 4.32,
+        "104": 4.43,
+        "105": 4.65,
+        "106": 4.78,
+        "107": 4.95,
+        "108": 4.98,
+        "109": 5.21,
+        "110": 5.14,
+        "111": 5.44
+      },
+      "both_same_surname_couples_pct": {
+        "97": 5.18,
+        "98": 4.86,
+        "99": 5.02,
+        "100": 4.46,
+        "101": 4.13,
+        "102": 4.83,
+        "103": 6.41,
+        "104": 5.75,
+        "105": 6.36,
+        "106": 6.47,
+        "107": 6.75,
+        "108": 6.65,
+        "109": 7.09,
+        "110": 7.25,
+        "111": 8.47
+      },
+      "avg_97_111": {
+        "overall": 4.64,
+        "same_surname_couples": 5.87
+      },
+      "caveat": "109-111年全體值，圖十八(5.21/5.14/5.44)與114週報(5.2/5.1/5.4)四捨五入一致"
+    },
+    "stock_2023": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表二十五",
+        "pdf_page": 55,
+        "printed_page": 55,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 23373283,
+      "father": 22390167,
+      "father_pct": 95.79,
+      "mother": 584279,
+      "mother_pct": 2.5,
+      "adoptive_father": 289434,
+      "adoptive_mother": 31798,
+      "other": 77605,
+      "note": "存量(全體人口的從姓)，與出生登記的流量比率不同"
+    },
+    "married_name_prefix": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表二十七/二十八",
+        "pdf_page": 200,
+        "printed_page": 200,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total_persons_with_spouse_surname_prefix": 918462,
+      "male": 1247,
+      "female": 917215,
+      "top10_spouse_surnames_total": 490383,
+      "top10_by_spouse_surname": {
+        "陳": 111867,
+        "林": 73809,
+        "張": 56201,
+        "李": 51388,
+        "黃": 43505,
+        "王": 37343,
+        "蔡": 32724,
+        "劉": 31643,
+        "吳": 28770,
+        "楊": 23133
+      },
+      "note": "表二十八p.204 已對照頁面圖片：欄位為 冠配偶姓總人數918,462｜前十大合計490,383｜陳..楊。為存量(112.6.30仍冠配偶姓者)，非當年新增；女性占99.9%"
+    },
+    "prefix_trend": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十二/三十六",
+        "pdf_page": 72,
+        "printed_page": 72,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "period": "民國107-111年",
+      "prefix_new": 1147,
+      "remove_prefix": 5838,
+      "by_year_prefix": {
+        "107": 266,
+        "108": 258,
+        "109": 234,
+        "110": 188,
+        "111": 201
+      },
+      "by_year_remove_prefix": {
+        "107": 1423,
+        "108": 1331,
+        "109": 1145,
+        "110": 1001,
+        "111": 938
+      },
+      "source_p230": 230
+    }
+  },
+  "7_name_changes": {
+    "given_name_change_102_111": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "文字+圖二十一",
+        "pdf_page": 73,
+        "printed_page": 73,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 861810,
+      "male": 374776,
+      "female": 487034,
+      "yearly": {
+        "102": 111109,
+        "103": 99613,
+        "104": 97475,
+        "105": 91716,
+        "106": 86972,
+        "107": 81484,
+        "108": 79356,
+        "109": 77132,
+        "110": 69848,
+        "111": 67105
+      },
+      "note": "名字變更人數(人，非件)；102年來逐年下降"
+    },
+    "surname_change_89_111": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十",
+        "pdf_page": 70,
+        "printed_page": 70,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 381806,
+      "male": 142292,
+      "female": 239514,
+      "yearly": {
+        "89": 9668,
+        "90": 12770,
+        "91": 13938,
+        "92": 17530,
+        "93": 20921,
+        "94": 19525,
+        "95": 28032,
+        "96": 16308,
+        "97": 18333,
+        "98": 20571,
+        "99": 19408,
+        "100": 18384,
+        "101": 16742,
+        "102": 15980,
+        "103": 16676,
+        "104": 16370,
+        "105": 15374,
+        "106": 15382,
+        "107": 15187,
+        "108": 14467,
+        "109": 14061,
+        "110": 13076,
+        "111": 13103
+      }
+    },
+    "both_name_change_102_111": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "文字",
+        "pdf_page": 76,
+        "printed_page": 76,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "total": 3474,
+      "note": "110、111年大增因宗教因素出世或還俗"
+    },
+    "top_age_for_change": {
+      "source": {
+        "url": "https://www.ris.gov.tw/documents/data/5/2/112namestat.pdf",
+        "doc": "內政部《全國姓名統計分析》112年版（內政部編印，中華民國112年10月；資料時間：112年6月30日）",
+        "table": "表三十三",
+        "pdf_page": 75,
+        "printed_page": 75,
+        "as_of": "2023-06-30 (民國112年6月30日)"
+      },
+      "note": "20歲26,678人最多；男性未滿1歲12,174人最多"
+    },
+    "newer_data": "沒有資料：112、113、114年全年改名人數本次未找到一手公布(112年版報告止於111年)。人口統計年刊113年版(ris.gov.tw)可能有，未開啟驗證。"
+  },
+  "8_salmon_chaos": {
+    "official_moi_primary": "沒有資料：未找到內政部/戶政司官方新聞稿或統計表給出「鮭魚之亂」改名總人數",
+    "figures": [
+      {
+        "num": 332,
+        "desc": "至少332人為吃免費壽司改名(截至3月18日,戶政系統)",
+        "who": "中時 2021-03-19 轉述，立委林楚茵在立院質詢提出；NOWnews/ETtoday 等同",
+        "url": "https://www.chinatimes.com/realtimenews/20210319002881-260407",
+        "tier": "二手(媒體轉述立委發言)"
+      },
+      {
+        "num": 331,
+        "desc": "活動期間改名者共331人(各縣市戶政事務所統計)",
+        "who": "TVBS 回顧稿；維基百科亦用331",
+        "url": "https://news.tvbs.com.tw/life/1679618",
+        "tier": "二手"
+      },
+      {
+        "num": "200多人",
+        "desc": "內政部長徐國勇2021-03-19答詢：300多人有改名念頭、實際改名200多人；改名前全國已有10人名叫「鮭魚」",
+        "who": "中時 2021-03-19",
+        "url": "https://www.chinatimes.com/realtimenews/20210319002881-260407",
+        "tier": "二手(媒體轉述部長發言)"
+      },
+      {
+        "num": 298,
+        "desc": "298人向戶政事務所申請改名；至3/19(週五)已有159人改回原名(戶政司資料)",
+        "who": "Taipei Times 2021-03-21 p.3",
+        "url": "https://taipeitimes.com/News/taiwan/archives/2021/03/21/2003754223",
+        "tier": "二手(媒體引述內政部戶政司)"
+      },
+      {
+        "num": 19,
+        "desc": "3月16日單日19人改名「鮭魚」(戶政司統計)",
+        "who": "自由時報 2021-03-17 18:10",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/3469721",
+        "tier": "二手"
+      },
+      {
+        "num": 65,
+        "desc": "截至3/17中午全台至少65人已申請改名並換發新證(桃園市蘆竹戶所轉載稿,連結已404)",
+        "who": "蘆竹戶政事務所新聞稿(搜尋摘要,頁面無法開啟)",
+        "url": "https://www.luzhu-hro.tycg.gov.tw/News_Content.aspx?n=13120&s=1050586",
+        "tier": "待查(404,僅見搜尋摘要)"
+      },
+      {
+        "num": "300多位",
+        "desc": "立法院法制局專題：根據統計全台300多位民眾改名「鮭魚」(未註明機關與期間)",
+        "who": "立法院法制局 R01283 黃華源 110.04.09",
+        "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=208648",
+        "tier": "二手(立院幕僚,未標來源)"
+      }
+    ],
+    "warning": "各數字統計日、口徑(申請人數/完成換證/含改回)不同，且彼此衝突；不可寫成單一「官方人數」。"
+  }
+}

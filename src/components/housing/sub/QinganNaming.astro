@@ -1,0 +1,67 @@
+---
+/**
+ * QinganNaming：5.1 名稱釐清。naming 三代的官方名稱、俗稱、起迄日；明寫新青安＝青安 2.0 已期滿，現行是青安 3.0。
+ * 資料檔的名稱是中文，英文版用 EN_DATA.naming。
+ */
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { DATA, fmtPeriod, qinganSrc } from '../../../utils/housing/data';
+import { isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.naming;
+const q: any = DATA.qingan;
+const nm = q.naming as any[];
+const v2 = nm.find((n) => n.id === 'v2');
+const v3 = nm.find((n) => n.id === 'v3');
+const d = (x: string) => fmtPeriod(x, lang);
+const draw: string | null =
+  (v3.note as string | undefined)?.match(
+    /撥款日最遲\s*(\d{4}-\d{2}-\d{2})/,
+  )?.[1] ?? null;
+const cards = nm.map((n) => ({
+  id: n.id,
+  name: isZh(lang) ? n.official : EN_DATA.naming[n.id].name,
+  nick: isZh(lang) ? n.nickname : EN_DATA.naming[n.id].nick,
+  range: fill(S.range, { from: d(n.from), to: d(n.to) }),
+  badge: n.id === 'v3' ? S.now : n.id === 'v2' ? S.ended : S.past,
+  apply:
+    n.id === 'v3' && draw ? fill(S.apply, { to: d(n.to), draw: d(draw) }) : '',
+}));
+---
+
+<section class="hs-section" id="naming">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, { v2to: d(v2.to) })}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <ol class="hs-names">
+      {
+        cards.map((c) => (
+          <li class={`hs-name ${c.id === 'v3' ? 'is-now' : ''}`}>
+            <span class="hs-name-t">{c.name}</span>
+            <span class="hs-name-n">
+              {S.nick}
+              {isZh(lang) ? '：' : ': '}
+              {c.nick}
+            </span>
+            <span class="hs-name-d">{c.range}</span>
+            {c.apply && <span class="hs-name-d">{c.apply}</span>}
+            <span class={`hs-badge ${c.id === 'v3' ? 'is-now' : ''}`}>
+              {c.badge}
+            </span>
+          </li>
+        ))
+      }
+    </ol>
+    <SrcLine
+      lang={lang}
+      sources={[qinganSrc('v3Release'), qinganSrc('v2Release')]}
+    />
+  </div>
+</section>

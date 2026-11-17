@@ -1,0 +1,337 @@
+---
+/**
+ * income.template.astro — /income/「台灣的薪資、稅與退休」專題主頁（13 語共用）。
+ *
+ * 規劃報告：reports/income-topic-plan-2026-11-10.md
+ * 版型：比照 /budget（一行引子 → 一句斷言 H2 → 圖 → 兩段），最外層同時掛 .budget-page
+ *       以沿用 budget.css 的版面 class 與圖表色彩變數（只 import、不改）。
+ * 九區各自是 src/components/income/sections/ 的元件；四個試算工具在 src/components/income/tools/，
+ * 這裡用 ToolFrame 包好塞進對應那一區的 slot。
+ * 文案：src/i18n/income.ts（zh-TW／en，其他語言退回 en）。
+ * 資料：src/data/income/*.json（每檔 _meta 有來源網址與截止日期）。
+ * 政治題（年金改革、勞保財務、世代公平）：只並列各方原話，不下結論。
+ */
+import '../styles/budget.css';
+import '../styles/topics-foundation.css';
+import '../styles/income.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import S0Paycheck from '../components/income/sections/S0Paycheck.astro';
+import S1Distribution from '../components/income/sections/S1Distribution.astro';
+import S2WageTrend from '../components/income/sections/S2WageTrend.astro';
+import S3MinimumWage from '../components/income/sections/S3MinimumWage.astro';
+import S4IncomeTax from '../components/income/sections/S4IncomeTax.astro';
+import S5PensionLayers from '../components/income/sections/S5PensionLayers.astro';
+import S6LaborInsuranceFinance from '../components/income/sections/S6LaborInsuranceFinance.astro';
+import S7ReformStances from '../components/income/sections/S7ReformStances.astro';
+import S8WhatsNext from '../components/income/sections/S8WhatsNext.astro';
+import IncomeTaxCalculator from '../components/income/tools/IncomeTaxCalculator.astro';
+import LaborPensionCalculator from '../components/income/tools/LaborPensionCalculator.astro';
+import SalaryPercentile from '../components/income/tools/SalaryPercentile.astro';
+import TakeHomePayCalculator from '../components/income/tools/TakeHomePayCalculator.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useIncomeT, fmtNT, fmtWan } from '../i18n/income';
+import {
+  getTopic,
+  isTopicTranslated,
+  pickText,
+} from '../utils/topics/registry';
+import { uiDir } from '../utils/topics/ui-dir';
+import { taxFreeThreshold } from '../utils/income/tax';
+import dist from '../data/income/salary-distribution-2024.json';
+import minWage from '../data/income/minimum-wage.json';
+import tax115 from '../data/income/tax-115.json';
+import aging from '../data/shared/population-projection-2026-2075.json';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useIncomeT(lang);
+// 文案只有 zh-TW／en 兩套；右到左語言頁退到英文時，內容區標上英文與左到右。
+const contentDir = uiDir(lang);
+const topic = getTopic('income')!;
+const tool = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
+
+// ── 首屏四個數字：全部取自資料檔，資料更新時這裡跟著變 ─────────────────
+const median = dist.all.median;
+// 單身、無扶養、標準扣除額：薪資收入在這個數字以下免繳綜所稅（115 年度已公告金額）
+const singleFree = taxFreeThreshold(
+  {
+    married: false,
+    self: { salary: 0, interest: 0, dividend: 0, other: 0 },
+    dependents: {
+      general: 0,
+      elderly70: 0,
+      minorChildren: 0,
+      preschool: 0,
+      college: 0,
+      disabled: 0,
+      longTermCare: 0,
+    },
+    deduction: { type: 'standard' },
+    rent: 0,
+  },
+  tax115 as any,
+);
+const mw = minWage.latestDecision;
+const agedShare = aging.table1.sharePct.age65plus[0];
+const agedYear = aging.years[0];
+
+const toc = [0, 1, 2, 3, 4, 5, 6, 7, 8].map((n) => ({
+  id: `s${n}`,
+  label: t(`income.toc.s${n}.label`),
+  take: t(`income.toc.s${n}.take`),
+}));
+
+const frames = {
+  takehome: tool('take-home-pay'),
+  percentile: tool('salary-percentile'),
+  tax: tool('income-tax-calculator'),
+  pension: tool('labor-pension-calculator'),
+};
+---
+
+<Layout
+  lang={lang}
+  title={t('income.meta.title')}
+  description={t('income.meta.description', {
+    median: fmtWan(median, lang),
+  })}
+  readerSettings={true}
+  noindex={!isTopicTranslated(topic, lang)}
+>
+  <main
+    class="budget-page income-page tf-surface min-h-screen"
+    dir={contentDir.dir}
+    lang={contentDir.lang}
+  >
+    <PageHero
+      eyebrow={t('income.hero.eyebrow')}
+      title={t('income.hero.title')}
+      subtitle={t('income.hero.subtitle', {
+        median: fmtWan(median, lang),
+        year: dist._meta.dataYear,
+      })}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <blockquote class="bp-kicker bp-hero-verse">
+        {t('income.hero.verse')}
+      </blockquote>
+      <div class="bp-hero-stats">
+        <div class="bp-stat">
+          <div class="bp-stat-v">{fmtWan(median, lang)}</div>
+          <div class="bp-stat-l">
+            {t('income.hero.stat.median', { year: dist._meta.dataYear })}
+          </div>
+        </div>
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{fmtWan(singleFree, lang)}</div>
+          <div class="bp-stat-l">{t('income.hero.stat.taxfree')}</div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{fmtNT(mw.monthly, lang)}</div>
+          <div class="bp-stat-l">
+            {t('income.hero.stat.minwage', { date: mw.effective })}
+          </div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{agedShare}%</div>
+          <div class="bp-stat-l">
+            {t('income.hero.stat.aged', { year: agedYear })}
+          </div>
+        </div>
+      </div>
+      <p class="bp-hero-next">
+        <b>{t('income.hero.asof.k')}</b>
+        {t('income.hero.asof', { date: topic.updated })}
+      </p>
+      <nav class="bp-brief" aria-label={t('income.hero.jump')}>
+        <h2 class="bp-brief-h">{t('income.hero.brief')}</h2>
+        <ol class="bp-brief-list">
+          {
+            toc.map((s, i) => (
+              <li>
+                <a href={`#${s.id}`}>
+                  <span class="bp-brief-n">{i}</span>
+                  <span class="bp-brief-body">
+                    <span class="bp-brief-label">{s.label}</span>
+                    <span class="bp-brief-take">{s.take}</span>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </PageHero>
+
+    <div class="tf-wrap inc-topicnav">
+      <TopicNav lang={lang} topic="income" />
+    </div>
+
+    <!-- 黏頂子導覽：純 anchor；JS 只加 scroll-spy 高亮 -->
+    <nav
+      class="bp-subnav"
+      aria-label={t('income.subnav.label')}
+      data-inc-subnav
+    >
+      <div class="bp-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <S0Paycheck lang={lang}>
+      <ToolFrame
+        title={pickText(frames.takehome.title, lang)}
+        description={pickText(frames.takehome.description, lang)}
+        variant="inline"
+        lang={lang}
+        standaloneHref={frames.takehome.path}
+        embedHref={frames.takehome.embedPath}
+      >
+        <TakeHomePayCalculator lang={lang} variant="inline" />
+        <p slot="disclaimer">{t('income.takehome.disclaimer')}</p>
+        <p slot="sources">{t('income.takehome.sourcesLine')}</p>
+      </ToolFrame>
+    </S0Paycheck>
+
+    <S1Distribution lang={lang}>
+      <ToolFrame
+        title={pickText(frames.percentile.title, lang)}
+        description={pickText(frames.percentile.description, lang)}
+        variant="inline"
+        lang={lang}
+        standaloneHref={frames.percentile.path}
+        embedHref={frames.percentile.embedPath}
+      >
+        <SalaryPercentile lang={lang} variant="inline" />
+        <p slot="disclaimer">{t('income.percentile.disclaimer')}</p>
+        <p slot="sources">{t('income.percentile.sourcesLine')}</p>
+      </ToolFrame>
+    </S1Distribution>
+
+    <S2WageTrend lang={lang} />
+    <S3MinimumWage lang={lang} />
+
+    <S4IncomeTax lang={lang}>
+      <ToolFrame
+        title={pickText(frames.tax.title, lang)}
+        description={pickText(frames.tax.description, lang)}
+        variant="inline"
+        lang={lang}
+        standaloneHref={frames.tax.path}
+        embedHref={frames.tax.embedPath}
+      >
+        <IncomeTaxCalculator lang={lang} variant="inline" />
+        <p slot="disclaimer">{t('income.tax.disclaimer')}</p>
+        <p slot="sources">{t('income.tax.sourcesLine')}</p>
+      </ToolFrame>
+    </S4IncomeTax>
+
+    <S5PensionLayers lang={lang}>
+      <ToolFrame
+        title={pickText(frames.pension.title, lang)}
+        description={pickText(frames.pension.description, lang)}
+        variant="inline"
+        lang={lang}
+        standaloneHref={frames.pension.path}
+        embedHref={frames.pension.embedPath}
+      >
+        <LaborPensionCalculator lang={lang} variant="inline" />
+        <p slot="disclaimer">{t('income.pension.disclaimer')}</p>
+        <p slot="sources">{t('income.pension.sourcesLine')}</p>
+      </ToolFrame>
+    </S5PensionLayers>
+
+    <S6LaborInsuranceFinance lang={lang} />
+    <S7ReformStances lang={lang} />
+    <S8WhatsNext lang={lang} />
+
+    <!-- 怎麼讀這一頁：口徑、沒有資料的地方、勘誤 -->
+    <section class="bp-section" id="about-data">
+      <div class="bp-wrap">
+        <h2 class="bp-h2">{t('income.about.h2')}</h2>
+        <div class="bp-prose">
+          <p>{t('income.about.p1', { date: topic.updated })}</p>
+          <p>{t('income.about.p2')}</p>
+          <p>{t('income.about.p3')}</p>
+        </div>
+        <div class="bp-related">
+          <a
+            href="https://github.com/frank890417/taiwan-md/tree/main/src/data/income"
+            target="_blank"
+            rel="noopener"
+          >
+            {t('income.about.data')}
+          </a>
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues/new"
+            target="_blank"
+            rel="noopener"
+          >
+            {t('income.about.errata')}
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <div class="tf-wrap">
+      <TopicCrossLinks lang={lang} currentId="income" />
+    </div>
+  </main>
+
+  <script>
+    // 漸進增強：量 fixed header 底緣寫 --bp-sticky-top，子導覽 scroll-spy。沒有 JS 時 anchor 照常可用。
+    const subnav = document.querySelector<HTMLElement>('[data-inc-subnav]');
+    if (subnav) {
+      const measure = () => {
+        const hc = document.getElementById('header-container');
+        const b = hc ? hc.getBoundingClientRect().bottom : 56;
+        document.documentElement.style.setProperty(
+          '--bp-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
+        );
+      };
+      measure();
+      window.addEventListener('resize', measure, { passive: true });
+      setTimeout(measure, 800);
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+      );
+      const byId = new Map(links.map((a) => [a.dataset.target!, a]));
+      const sections = links
+        .map((a) => document.getElementById(a.dataset.target!))
+        .filter((el): el is HTMLElement => !!el);
+      if ('IntersectionObserver' in window && sections.length) {
+        const io = new IntersectionObserver(
+          (entries) => {
+            for (const e of entries) {
+              if (!e.isIntersecting) continue;
+              links.forEach((a) => a.classList.remove('is-active'));
+              const a = byId.get(e.target.id);
+              if (a) {
+                a.classList.add('is-active');
+                // 只橫向捲子導覽自己，不動頁面的直向捲動
+                const box = a.parentElement;
+                if (box) {
+                  box.scrollLeft =
+                    a.offsetLeft - (box.clientWidth - a.clientWidth) / 2;
+                }
+              }
+            }
+          },
+          { rootMargin: '-30% 0px -60% 0px' },
+        );
+        sections.forEach((s) => io.observe(s));
+      }
+    }
+  </script>
+</Layout>

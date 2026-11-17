@@ -1,22 +1,25 @@
 ---
-title: 'Chi Cheng: 10 récords mundiales en pista, y cincuenta años después sigue corriendo por el nombre de Taiwán'
-description: 'Nacida el 15 de marzo de 1944 en Hsinchu, Chi Cheng se convirtió en la atleta femenina más destacada de la historia del atletismo taiwanés bajo el apodo de "gacela saltadora". En los Juegos Olímpicos de México 1968, ganó el bronzo en 80 metros vallas con 10,51 segundos, la primera medalla olímpica femenina de atletismo para Taiwán; a lo largo de su carrera estableció 10 récords mundiales. Tras su retiro, se dedicó a promover las carreras de ruta, y con más de ochenta años sigue activa en el movimiento para que Taiwán compita bajo su propio nombre.'
+title: 'Chi Cheng: estableció 10 récords mundiales, sigue corriendo por el reconocimiento de Taiwán cincuenta años después'
+description: 'Chi Cheng, nacida en 1944 en Hsinchu, conocida como la «Antílope Voladora». En los Juegos Olímpicos de México 1968, ganó el bronce en los 80 metros vallas con 10,51 segundos, convirtiéndose en la primera mujer taiwanesa en ganar una medalla olímpica de atletismo, estableciendo 10 récords mundiales en su carrera. Tras su retiro, promovió carreras de ruta en Taiwán, y en 2024 fue nombrada asesora de política nacional de la Oficina Presidencial; a sus más de 80 años, sigue abogando por el reconocimiento de Taiwán, insistiendo en competir bajo el nombre «Taiwán» en los Juegos Olímpicos de Los Ángeles 2028.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  ['Deportes', 'Atletismo', 'Juegos Olímpicos', 'Vallas', 'Récords mundiales']
 subcategory: '體育'
-tags: ['Deportes', 'Atletismo', 'Juegos Olímpicos', 'Vallas', 'Récord mundial']
-readingTime: 7
-#   whats_excluded: "體育行政的詳細爭論；各項世界紀錄的完整技術細節；1966年100公尺世界紀錄的爭議史料（文中已適度標注）"
-#   where_it_hedges: "1966年100公尺世界紀錄（各來源說法不一，賽事地點與成績仍有歧異）；200公尺慕尼黑紀錄的確切年份；本名紀正平（未獲中文史料確認）"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-05-26T21:07:27Z'
+translatedAt: '2026-11-06T00:16:38.195441+00:00'
 ---
 
 # Chi Cheng: 10 récords mundiales en pista, y cincuenta años después sigue corriendo por el nombre de Taiwán

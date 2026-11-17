@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-22T08:09:28+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-07T04:12:46.668194+00:00'
 ---
 
-> **30 秒概覽：** Le 3 décembre 1966, la zone de libre-export de Kaohsiung à Fengshan a vu le jour, marquant la création de la première zone de libre-export de Taïwan, qualifiée par les archives du Conseil des ministres de la première au monde. Elle a combiné les fonctions d'une zone industrielle, d'une zone franche et d'une zone de commerce libre, reliant à travers un guichet unique, des avantages fiscaux et le port, les investissements étrangers, les matières premières, les usines et les commandes d'exportation au même endroit. En moins de deux ans, le parc a dépassé sa capacité initiale et employait plus de vingt mille personnes.[^1]
+**Aperçu en 30 secondes :** Le 3 décembre 1966, la première zone de libre-export de Taïwan a vu le jour à Qianzhen, Kaohsiung ; selon les archives du Conseil des ministres, il s'agirait même de la première au monde. Elle combine les fonctions de zone industrielle, de zone franche et de zone de libre-échange, et relie, via un guichet unique, des avantages fiscaux et le port, les investissements étrangers, les matières premières, les usines et les commandes d'exportation en un seul lieu. En deux ans, le parc a dépassé les prévisions initiales et employait plus de vingt mille personnes.[^1]
 
-![Carte du port de Kaohsiung montrant la zone autour de la zone de libre-export](/article-images/history/kaohsiung-port-map.svg)
+![Carte du port de Kaohsiung, indiquant la zone portuaire autour de la zone de libre-export](/article-images/history/kaohsiung-port-map.svg)
 
-_Image 1 : Carte du port de Kaohsiung, par Luuva, Wikimedia Commons, CC BY-SA 3.0. Page de l'image : https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg。_
+_Image 1 : Carte du port de Kaohsiung, auteur Luuva, Wikimedia Commons, CC BY-SA 3.0. Page de l'image : https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
 ## Une porte d'entrée d'exportation "fermée"
 
@@ -91,15 +95,15 @@ Cela ne signifie pas que le parc doit être réévalué négativement, mais que 
 
 ## Comment le parc a survécu à son propre succès
 
-![Sortie 1 de la gare de la zone de Nanzi](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![Sortie no 1 de la station de la zone de transformation de Nanzih](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_Image 2 : Sortie 1 de la gare de la zone de Nanzi, par Long Ben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Page de l'image : https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg ; fichier local : images/nanzih-export-processing-zone-station.jpg。_
+_Image 2 : Sortie no 1 de la station de la zone de transformation de Nanzih, auteur Long Ben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Page de l'image : https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg ; fichier local : images/nanzih-export-processing-zone-station.jpg._
 
-Les industries intensives en main-d'œuvre ont été sous pression dans les années 1980 en raison de la hausse des salaires, des protections commerciales internationalaux et de la délocalisation industrielle. La zone de libre-export n'a pas disparu pour autant ; elle a progressivement introduit l'électronique, la fabrication de précision, la logistique et d'autres activités à plus forte valeur ajoutée. Un résumé de thèse décrit l'année 1986 comme une période où les conditions institutionnelles et du marché évoluent simultanément, et note que le parc s'est progressivement tourné vers l'électronique hautement technologique et la logistique mondiale.[^8]
+Les industries à forte intensité de main-d'œuvre ont subi, après les années 1980, la pression de la hausse des salaires, du protectionnisme commercial international et de la délocalisation industrielle. Les zones de transformation à l'exportation n'ont pas disparu pour autant ; elles ont progressivement introduit l'industrie électronique, la fabrication de précision, la logistique et d'autres activités à plus haute technologie. Le résumé d'une thèse de doctorat décrit la période postérieure à 1986 comme un moment où les conditions institutionnelles et de marché ont changé simultanément, et indique que les zones se sont ensuite orientées vers une transformation en direction de l'électronique de haute technologie et de la logistique mondiale.[^8]
 
-Cette transformation a également changé la mémoire du parc. En 2021, la zone de libre-export de Kaohsiung a abandonné le nom utilisé depuis un demi-siècle pour adopter le nom de parc industriel de Fengshan. Ce changement de nom n'efface pas l'histoire, mais reconnaît que l'ancien "parc de libre-export" est devenu un héritage institutionnel : le guichet unique, l'agglomération industrielle, l'orientation exportatrice et l'apprentissage technologique continuent de laisser des traces dans différents secteurs.[^3]
+Cette transformation a également modifié la manière dont on se souvient des zones. En 2021, la zone de transformation à l'exportation de Kaohsiung a abandonné son ancien nom utilisé depuis un demi-siècle pour devenir le parc industriel technologique de Qianzhen. Ce changement de nom n'a pas effacé l'histoire ; au contraire, il a reconnu que la « zone de transformation à l'exportation » d'origine était devenue une sorte d'héritage institutionnel : guichet unique, grappes industrielles, orientation vers l'exportation et apprentissage technologique continuent de laisser leurs traces dans différentes industries.[^3]
 
-Les bâtiments administratifs, les anciennes usines et autres structures du parc possèdent ainsi une double identité. D'un côté, ils peuvent encore être utilisés comme espaces industriels ; de l'autre, ils constituent des preuves matérielles de l'histoire économique de Taïwan. Les réduire à de simples bâtiments anciens revient à ignorer leurs liens avec les usines, les ouvrières, le port et les marchandises ; les traiter uniquement comme des monuments de succès revient à ignorer les coûts en termes de main-d'œuvre et d'environnement.[^3]
+Les bâtiments administratifs, les premières usines et les autres édifices du parc ont ainsi une double identité. D'un côté, ce sont des espaces industriels qui peuvent encore être utilisés ; de l'autre, ce sont des preuves matérielles de l'histoire économique de Taïwan. Les considérer uniquement comme de vieux bâtiments ferait passer sous silence leurs relations avec les usines, les ouvrières, le port et les marchandises ; les considérer uniquement comme des monuments à la réussite ferait également passer sous silence les coûts du travail et de l'environnement.[^3]
 
 ## Un parc, plusieurs Taïwans
 

@@ -1,0 +1,404 @@
+---
+/**
+ * MortgageCalculator.astro — 房貸試算（情境：一般房貸／青安 3.0／青安 2.0 既有貸戶）
+ *
+ * 伺服端用預設案例（1,000 萬、40 年、寬限 5 年、青安 3.0）先算出結果與 SVG；
+ * 瀏覽器端 <script> 接手互動。公式在 src/utils/housing/mortgage.ts、qingan.ts，
+ * 這裡只放欄位與排版。同一頁放兩個實例互不影響（id 帶唯一字尾，查詢限定在根節點內）。
+ */
+import ToolShell from './ToolShell.astro';
+import Field from './Field.astro';
+import { labelsFor } from './labels';
+import { useTranslations } from '../../../i18n/utils';
+import type { TranslationKey } from '../../../i18n/utils';
+import { fill, fmtRate, fmtWan, paren } from '../../../utils/housing/format';
+import { nextUid } from '../../../utils/housing/uid';
+import {
+  mortgageDefaults,
+  mortgageView,
+  periodLabel,
+  type AffordabilityFixtures,
+  type Ctx,
+  type QinganData,
+} from '../../../utils/housing/tool-models';
+import { qinganRateStages } from '../../../utils/housing/qingan';
+import { isShown } from '../../../utils/housing/tool-ui';
+import qingan from '../../../data/housing/qingan.json';
+import fixtures from '../../../data/housing/calc-fixtures.json';
+import type { Lang } from '../../../types';
+
+interface Props {
+  lang?: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+  headingLevel?: 2 | 3 | 4;
+  /** 是否把輸入同步到網址查詢參數；同頁第二個實例請設 false */
+  syncUrl?: boolean;
+  /** 房貸試算所在頁面的路徑（含語言前綴），給「帶進房貸試算」之類的連結用 */
+  toolsPath?: string;
+}
+const {
+  lang = 'zh-TW',
+  variant = 'inline',
+  headingLevel = 3,
+  syncUrl = true,
+  toolsPath = '',
+} = Astro.props;
+
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const uid = nextUid('mc');
+const labels = labelsFor(lang, ['common.', 'mortgage.', 'countyName_']);
+const q = qingan as unknown as QinganData;
+const fx = fixtures as unknown as AffordabilityFixtures;
+const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
+const values = mortgageDefaults(ctx);
+const view = mortgageView(values, ctx);
+const L = (k: string) => labels[k] ?? k;
+
+const stepsText = qinganRateStages(q)
+  .map((s) => fmtRate(s.annualRatePct))
+  .join(' → ');
+const rate = fx.officialAffordability.annualRatePct;
+const limits = q.current.limits;
+const sources = [
+  {
+    agency: q.sources.v3Release.agency,
+    title: q.sources.v3Release.title,
+    url: q.sources.v3Release.url,
+    date: q.asOf,
+  },
+  {
+    agency: q.sources.principles.agency,
+    title: q.sources.principles.title,
+    url: q.sources.principles.url,
+    date: q.asOf,
+  },
+  {
+    agency: '內政部不動產資訊平台',
+    title: (fixtures as any).officialAffordability.sourceTitle,
+    url: (fixtures as any).officialAffordability.sourceUrl,
+    date: (fixtures as any).asOf,
+  },
+];
+const hid = (expr: string) => !isShown(expr, values);
+const f = (
+  name: string,
+  label: string,
+  extra: Record<string, any> = {},
+): any => ({
+  name,
+  label,
+  uid,
+  values,
+  ...extra,
+});
+---
+
+<ToolShell
+  lang={lang}
+  tool="mortgage"
+  variant={variant}
+  title={tt('mortgage.title')}
+  intro={tt('mortgage.intro')}
+  headingLevel={headingLevel}
+  asOf={q.asOf}
+  sources={sources}
+  labelsJson={JSON.stringify(labels)}
+  toolsPath={toolsPath}
+  syncUrl={syncUrl}
+>
+  <div class="hst-layout">
+    <form class="hst-form" autocomplete="off" onsubmit="return false">
+      <fieldset class="hst-group">
+        <legend>{L('mortgage.group.loan')}</legend>
+        <Field
+          {...f('scenario', L('mortgage.f.scenario'), {
+            kind: 'select',
+            options: [
+              { value: 'general', label: L('mortgage.scn.general') },
+              { value: 'qingan3', label: L('mortgage.scn.qingan3') },
+              { value: 'qingan2', label: L('mortgage.scn.qingan2') },
+            ],
+          })}
+        />
+        <Field
+          {...f('limitClass', L('mortgage.f.limitClass'), {
+            kind: 'select',
+            when: 'scenario=qingan3',
+            options: (['general', 'newlywed', 'withMinorChild'] as const).map(
+              (c) => ({
+                value: c,
+                label: `${fill(L(`mortgage.class.${c}`), { years: q.current.newlywedWithinYears })}${paren(fmtWan(limits[c], lang), lang)}`,
+              }),
+            ),
+          })}
+        />
+        <Field
+          {...f('amount', L('mortgage.f.amount'), {
+            step: '10',
+            min: '1',
+            labelOut: 'amountLabel',
+          })}
+        />
+        <Field
+          {...f('years', L('mortgage.f.years'), {
+            step: '1',
+            min: '1',
+            max: '50',
+          })}
+        />
+        <Field
+          {...f('grace', L('mortgage.f.grace'), { step: '0.5', min: '0' })}
+        />
+        <Field
+          {...f('drawMonth', L('mortgage.f.drawMonth'), {
+            kind: 'month',
+            when: 'scenario=qingan2',
+            help: L('mortgage.drawHelp'),
+          })}
+        />
+        <Field
+          {...f('method', L('mortgage.f.method'), {
+            kind: 'select',
+            options: [
+              { value: 'annuity', label: L('mortgage.method.annuity') },
+              {
+                value: 'equalPrincipal',
+                label: L('mortgage.method.equalPrincipal'),
+              },
+            ],
+          })}
+        />
+        <Field
+          {...f('rate1', L('mortgage.f.rate1'), {
+            step: '0.001',
+            min: '0',
+            when: 'scenario=general',
+          })}
+        />
+        <p
+          class="hst-help"
+          data-hs-when="scenario=general"
+          hidden={hid('scenario=general')}
+        >
+          {
+            fill(L('mortgage.rateNote.general'), {
+              period: periodLabel(fx, lang),
+              rate: fmtRate(rate),
+            })
+          }
+        </p>
+        <p
+          class="hst-help"
+          data-hs-when="scenario=qingan3"
+          hidden={hid('scenario=qingan3')}
+        >
+          {
+            fill(L('mortgage.rateNote.qingan3'), {
+              steps: stepsText,
+              asOf: q.asOf,
+            })
+          }
+        </p>
+        <p
+          class="hst-help"
+          data-hs-when="scenario=qingan2"
+          hidden={hid('scenario=qingan2')}
+        >
+          {
+            fill(L('mortgage.rateNote.qingan2'), {
+              steps: stepsText,
+              asOf: q.asOf,
+            })
+          }
+        </p>
+      </fieldset>
+
+      <details
+        class="hst-group"
+        data-hs-when="scenario=general"
+        hidden={hid('scenario=general')}
+      >
+        <summary>{L('mortgage.group.rate')}</summary>
+        <Field {...f('len1', L('mortgage.f.len1'), { step: '1', min: '0' })} />
+        <Field
+          {...f('rate2', L('mortgage.f.rate2'), { step: '0.001', min: '0' })}
+        />
+        <Field {...f('len2', L('mortgage.f.len2'), { step: '1', min: '0' })} />
+        <Field
+          {...f('rate3', L('mortgage.f.rate3'), { step: '0.001', min: '0' })}
+        />
+      </details>
+
+      <fieldset class="hst-group">
+        <legend>{L('mortgage.group.compare')}</legend>
+        <Field
+          {...f('compare', L('mortgage.f.compare'), { kind: 'checkbox' })}
+        />
+        <Field
+          {...f('cmpRate', L('mortgage.f.cmpRate'), {
+            step: '0.001',
+            min: '0',
+            when: 'compare=1',
+          })}
+        />
+      </fieldset>
+
+      <details class="hst-group">
+        <summary>{L('mortgage.group.prepay')}</summary>
+        <Field
+          {...f('prepayMonth', L('mortgage.f.prepayMonth'), {
+            step: '1',
+            min: '1',
+          })}
+        />
+        <Field
+          {...f('prepayAmount', L('mortgage.f.prepayAmount'), {
+            step: '10',
+            min: '0',
+          })}
+        />
+        <Field
+          {...f('prepayMode', L('mortgage.f.prepayMode'), {
+            kind: 'select',
+            options: [
+              { value: 'shortenTerm', label: L('mortgage.prepay.shortenTerm') },
+              {
+                value: 'reducePayment',
+                label: L('mortgage.prepay.reducePayment'),
+              },
+            ],
+          })}
+        />
+      </details>
+
+      <button type="button" class="hst-btn" data-hs-reset>
+        {L('common.reset')}
+      </button>
+    </form>
+
+    <div class="hst-results">
+      <div class="hst-out" aria-live="polite">
+        <p
+          class="hst-error"
+          data-hs-show="error"
+          data-hs-out="error"
+          hidden={!view.show.error}
+        >
+          {view.text.error}
+        </p>
+        <div
+          class="hst-results"
+          data-hs-show="result"
+          hidden={!view.show.result}
+        >
+          <p
+            class="hst-note"
+            data-hs-show="elapsed"
+            data-hs-out="elapsedNote"
+            hidden={!view.show.elapsed}
+          >
+            {view.text.elapsedNote}
+          </p>
+          <div
+            class="hst-warn"
+            data-hs-show="warnings"
+            data-hs-html="warnings"
+            hidden={!view.show.warnings}
+            set:html={view.html.warnings}
+          />
+          <dl class="hst-stats">
+            <div class="hst-stat">
+              <dt data-hs-out="principalLabel">
+                {L('mortgage.stat.principal')}
+              </dt>
+              <dd data-hs-out="principal">{view.text.principal}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('mortgage.stat.rateNow')}</dt>
+              <dd data-hs-out="rateNow">{view.text.rateNow}</dd>
+            </div>
+            <div class="hst-stat hst-stat-key">
+              <dt>{L('mortgage.stat.gracePayment')}</dt>
+              <dd data-hs-out="gracePayment">{view.text.gracePayment}</dd>
+            </div>
+            <div class="hst-stat hst-stat-key">
+              <dt>{L('mortgage.stat.afterGrace')}</dt>
+              <dd data-hs-out="afterGrace">{view.text.afterGrace}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('mortgage.stat.maxPayment')}</dt>
+              <dd data-hs-out="maxPayment">{view.text.maxPayment}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('mortgage.stat.totalInterest')}</dt>
+              <dd data-hs-out="totalInterest">{view.text.totalInterest}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('mortgage.stat.totalPaid')}</dt>
+              <dd data-hs-out="totalPaid">{view.text.totalPaid}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('mortgage.stat.payoff')}</dt>
+              <dd data-hs-out="payoff">{view.text.payoff}</dd>
+            </div>
+          </dl>
+          <p
+            class="hst-take"
+            data-hs-show="cmp"
+            data-hs-out="cmpTake"
+            hidden={!view.show.cmp}
+          >
+            {view.text.cmpTake}
+          </p>
+        </div>
+      </div>
+
+      <div class="hst-visuals" data-hs-show="result" hidden={!view.show.result}>
+        <h4 class="hst-sub" data-hs-out="chartBTitle">
+          {view.text.chartBTitle}
+        </h4>
+        <div
+          class="hst-chart"
+          data-hs-html="chartB"
+          set:html={view.html.chartB}
+        />
+        <div class="hst-tablewrap" data-hs-show="cmp" hidden={!view.show.cmp}>
+          <div data-hs-html="cmpTable" set:html={view.html.cmpTable ?? ''} />
+        </div>
+        <h4 class="hst-sub">{L('mortgage.stepsTitle')}</h4>
+        <div
+          class="hst-tablewrap"
+          data-hs-html="steps"
+          set:html={view.html.steps}
+        />
+        <h4 class="hst-sub" data-hs-out="chartATitle">
+          {view.text.chartATitle}
+        </h4>
+        <div
+          class="hst-chart"
+          data-hs-html="chartA"
+          set:html={view.html.chartA}
+        />
+        <details class="hst-more">
+          <summary>{L('mortgage.yearlyTitle')}</summary>
+          <div
+            class="hst-tablewrap"
+            data-hs-html="yearly"
+            set:html={view.html.yearly}
+          />
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <Fragment slot="assump">
+    <p>{L('mortgage.assump')}</p>
+    <p>{L('mortgage.formula')}</p>
+  </Fragment>
+</ToolShell>
+
+<script>
+  import { bootTool } from '../../../utils/housing/tool-boot';
+  bootTool('mortgage');
+</script>

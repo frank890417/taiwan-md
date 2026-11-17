@@ -1,0 +1,276 @@
+---
+/**
+ * S2WageTrend — 第 2 區「薪資二十五年：名目在漲，扣掉物價後漲得慢」。
+ *
+ * 圖一：實質 GDP 指數 vs 實質經常性薪資指數（兩條都是本站計算，2000＝100）。
+ *       LineChart 的 unit 只有「億」與「%」，指數用 % 畫（基期年＝100%），副標寫明。
+ * 圖二：受僱人員報酬占 GDP。兩個官方版本在 2014→2015 交接，拆成兩條序列各自上色，
+ *       不把不同精度的兩版接成一條線；沒有資料的年份留空。
+ * 低薪成因卡：low-wage-explanations.json 存在才輸出，並列、不排序。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, pickIncome, fmtNT } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import LineChart from '../../budget/LineChart.astro';
+import wages from '../../../data/income/wage-series.json';
+import gdp from '../../../data/income/gdp-series.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const pc = (v: number, d = 1) => `${v.toFixed(d)}%`;
+
+const years = wages.years;
+const n = years.length - 1;
+const y0 = years[0];
+const y1 = years[n];
+const nom = wages.regularWageNominal;
+const realIdx = wages.realRegularWageIndex;
+const gdpIdx = gdp.realGdpIndex;
+const nomGrowth = (nom[n] / nom[0] - 1) * 100;
+const realGrowth = realIdx[n] - 100;
+const cpiGrowth = (wages.cpiIndex[n] / wages.cpiIndex[0] - 1) * 100;
+// 實質指數的最低點，以及之後第一次回到基期水準的年份
+const minV = Math.min(...realIdx);
+const minI = realIdx.indexOf(minV);
+const backI = realIdx.findIndex((v, i) => i > minI && v >= 100);
+
+// 受僱人員報酬占 GDP：依版本拆兩條
+const share = gdp.compensationShareOfGdp as (number | null)[];
+const edition = gdp.compensationShareEdition as (string | null)[];
+const isSummary = (e: string | null) => !!e && e.startsWith('summary');
+const isAnnual = (e: string | null) => !!e && e.startsWith('annual');
+const shareSummary = share.map((v, i) => (isSummary(edition[i]) ? v : null));
+const shareAnnual = share.map((v, i) => (isAnnual(edition[i]) ? v : null));
+const sI0 = share.findIndex((v) => v !== null);
+const sI1 =
+  share.length - 1 - [...share].reverse().findIndex((v) => v !== null);
+const lastSummaryYear =
+  gdp.years[edition.map((e) => isSummary(e)).lastIndexOf(true)];
+const firstAnnualYear = gdp.years[edition.findIndex((e) => isAnnual(e))];
+const missing = gdp.years.filter((_, i) => share[i] === null).join(', ');
+
+// 低薪成因（另一個資料檔，還沒產生就整塊不輸出）
+const lwMods = import.meta.glob(
+  '../../../data/income/low-wage-explanations.json',
+  { eager: true },
+) as Record<string, any>;
+const lwRaw = Object.values(lwMods)[0];
+const lw = lwRaw ? (lwRaw.default ?? lwRaw) : null;
+const explanations: any[] = (lw?.explanations ?? []).map((e: any) => ({
+  ...e,
+  by: t('income.s2.explain.by', {
+    who: pickIncome<string>(e.proponent, lang) ?? '',
+    year: e.year,
+  }),
+}));
+const lwGaps = lw?._meta?.gaps ? pickIncome<string>(lw._meta.gaps, lang) : '';
+
+const wageSrc = wages._meta.source[0].url;
+const gdpSrc = gdp._meta.source[0].url;
+const rel = await relatedList(lang, [
+  ['Economy', '經濟奇蹟'],
+  ['Economy', '新台幣'],
+  ['Economy', '台灣前50大企業'],
+]);
+---
+
+<section class="bp-section" id="s2">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s2.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {
+        t('income.s2.h2', {
+          y0,
+          y1,
+          nom: pc(nomGrowth),
+          real: pc(realGrowth),
+        })
+      }
+    </h2>
+    <p class="bp-lede">
+      {
+        t('income.s2.lede', {
+          y0,
+          y1,
+          w0: fmtNT(nom[0], lang),
+          w1: fmtNT(nom[n], lang),
+          nom: pc(nomGrowth),
+          cpi: pc(cpiGrowth),
+          real: pc(realGrowth),
+        })
+      }
+    </p>
+    <LineChart
+      id="c-inc-gdp-wage"
+      title={t('income.s2.chart1.title', {
+        y0,
+        y1,
+        gdp: (gdpIdx[n] / 100).toFixed(2),
+        wage: (realIdx[n] / 100).toFixed(2),
+      })}
+      subtitle={t('income.s2.chart1.sub', { y0 })}
+      years={years}
+      lang={lang}
+      unit="%"
+      series={[
+        {
+          id: 'gdp',
+          label: t('income.s2.series.gdp'),
+          values: gdpIdx,
+          cls: 'bg-s1',
+        },
+        {
+          id: 'wage',
+          label: t('income.s2.series.wage'),
+          values: realIdx,
+          cls: 'bg-s0',
+        },
+      ]}
+      source={t('income.s2.chart1.source', { asOf: wages._meta.asOf })}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s2.p1', {
+            y0,
+            minY: years[minI],
+            minV: minV.toFixed(1),
+            backY: years[backI],
+          })
+        }
+      </p>
+      <p>{t('income.s2.p2', { y0, y1, cpi: pc(cpiGrowth) })}</p>
+    </div>
+    <LineChart
+      id="c-inc-comp-share"
+      title={t('income.s2.chart2.title', {
+        cy0: gdp.years[sI0],
+        c0: pc(share[sI0] as number),
+        cy1: gdp.years[sI1],
+        c1: pc(share[sI1] as number),
+      })}
+      subtitle={t('income.s2.chart2.sub', {
+        sumTo: lastSummaryYear,
+        annFrom: firstAnnualYear,
+        missing,
+      })}
+      years={gdp.years}
+      lang={lang}
+      unit="%"
+      height={300}
+      series={[
+        {
+          id: 'summary',
+          label: t('income.s2.series.summary'),
+          values: shareSummary,
+          cls: 'bg-mute',
+        },
+        {
+          id: 'annual',
+          label: t('income.s2.series.annual'),
+          values: shareAnnual,
+          cls: 'bg-s0',
+        },
+      ]}
+      source={t('income.s2.chart2.source', { asOf: gdp._meta.asOf })}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s2.p3', {
+            cy0: gdp.years[sI0],
+            c0: pc(share[sI0] as number),
+            cy1: gdp.years[sI1],
+            c1: pc(share[sI1] as number),
+            y1,
+          })
+        }
+      </p>
+    </div>
+    {
+      explanations.length > 0 && (
+        <>
+          <h3 class="bp-h3">
+            {t('income.s2.explain.h', { n: explanations.length })}
+          </h3>
+          <div class="bp-prose">
+            <p>{t('income.s2.explain.intro')}</p>
+          </div>
+          <div class="bp-guide">
+            {explanations.map((e) => (
+              <div class="bp-guide-card">
+                <h4>{pickIncome(e.title, lang)}</h4>
+                <p>{pickIncome(e.summary, lang)}</p>
+                <p class="inc-cite">
+                  <span class="bp-cite">{e.by}</span>
+                  {e.source?.url && (
+                    <a
+                      class="bp-src no-external-icon"
+                      aria-label={t('income.common.srclink')}
+                      title={e.source.name}
+                      href={e.source.url}
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      ↗
+                    </a>
+                  )}
+                  {e.verified === false && (
+                    <span class="bp-tag">
+                      {t('income.s2.explain.unverified')}
+                    </span>
+                  )}
+                </p>
+              </div>
+            ))}
+          </div>
+          {lwGaps && <p class="bp-note">{lwGaps}</p>}
+        </>
+      )
+    }
+    <p class="bp-note">
+      {t('income.s2.note', { y0, y1 })}
+      {' '}{t('income.s2.src.wage')}
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.common.srclink')}
+        href={wageSrc}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+      {' '}{t('income.s2.src.gdp')}
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.common.srclink')}
+        href={gdpSrc}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+    {
+      rel.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.common.related')}</span>
+          {rel.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .bp-guide-card .inc-cite {
+    margin-block-start: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+</style>

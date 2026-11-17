@@ -1,8 +1,8 @@
 ---
 title: 'Taiwan’s Tap Water: A Century of Engineering and the Anxiety of Drought'
 description: 'In 1885, Taipei residents were already digging wells, filtering, and disinfecting water; by 2026, we still treat the tap as background noise. From the Japanese colonial-era waterways to the establishment of Taiwan Water Corporation in 1974, and through droughts, leaks, and raw water pollution, this article asks a routine yet extraordinary question: how much public engineering must a single drop of water undergo before it appears on schedule when you turn on the tap?'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'Tap Water',
@@ -11,17 +11,19 @@ tags:
     'Drought',
     'Drinking Water',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-11T06:30:18+08:00'
+translatedAt: '2026-11-05T22:21:06.403783+00:00'
 ---
 
 > **30-Second Overview:** Between 1885 and 1890, Taipei already saw attempts at public water supply involving well-digging, filtration, and disinfection. The 1907 Shuanghsi River source project brought modern tap water into the city. Since the post-war era, Taiwan’s nationwide water supply coverage rate has risen from approximately 10% to 93.1% in 2013, but water has not thereby become something that "naturally appears." Today’s tap is still connected to intake points, water treatment plants, tens of thousands of kilometers of pipelines, cross-regional transfers, and the trade-offs made during every drought.
@@ -131,24 +133,24 @@ This article uses two freely licensed images from Wikimedia Commons, embedded vi
 
 ## References
 
-[^1]: [Taipei Water and Sewerage Bureau: Historical Evolution](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Taipei City’s official water authority compiles the timeline from 1885 public water supply, the 1907 Shuanghsi River source, to the Feitsui raw water tunnel and recent water supply resilience.
+[^1]: [Taipei Water Department: Historical Evolution](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — The official water supply agency of Taipei City has compiled a timeline from public water supply in 1885, the Xindian Creek water source in 1907, to the Feitsui raw water pipeline and recent water supply resilience.
 
-[^2]: [Ministry of Economic Affairs Water Resources Agency: Overview of Taiwan’s Tap Water Development (Part II)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — The Water Resources Agency’s e-newsletter explains the post-war changes in water supply coverage, the consolidation of province-wide water plants, and the institutional background of the establishment of Taiwan Water Corporation.
+[^2]: [Water Resources Agency, Ministry of Economic Affairs: Overview of Taiwan's Tap Water Development (Part 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — The Water Resources Agency's e-newsletter explains changes in post-war water supply coverage, the consolidation of water plants across the province, and the institutional background of the establishment of Taiwan Water Corporation.
 
-[^3]: [Taiwan Water Corporation: Taiwan Water Supply Statistics Yearbook](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — An annual statistical portal published by the state-owned water supply company, listing tables for sources, output, served population, coverage, water treatment facilities, and pipelines.
+[^3]: [Taiwan Water Corporation: Taiwan Water Business Statistical Yearbook](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — The state-owned water supply company's publicly available annual statistical portal, listing tables on water sources, water output, population served, coverage rate, water purification facilities, and pipelines.
 
-[^4]: [Taiwan Water Corporation: Taiwan Water Resource Management](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Taiwan Water’s sustainability page details 141 water supply systems, 486 water treatment plants, plant modernization, leakage improvement, and water quality management indicators.
+[^4]: [Taiwan Water Corporation: Taiwan Water Resource Management](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Taiwan Water's sustainability page describes 141 water supply systems, 486 water treatment plants, modernization of treatment plants, leakage improvement, and water quality management indicators.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — An English academic paper reviewing Taiwan’s reclaimed water technology, industrial cases, drought and shortage background, and the 2031 reclaimed water supply target.
+[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — An English academic paper reviews Taiwan's reclaimed water technology, industrial cases, drought and water shortage background, and the 2031 reclaimed water supply target.
 
-[^6]: [Our Island: When a Century-Long Drought Becomes the Norm? The Inescapable Water Problem](https://ourisland.pts.org.tw/content/9997) — Public Television’s in-depth report records the southern Taiwan drought, pressure-reduced water supply, reclaimed water, phreatic water, drought-resistant wells, and the public policy context of leakage rates.
+[^6]: [Our Island: When Centennial Drought Becomes the Norm? The Unavoidable Water Crisis](https://ourisland.pts.org.tw/content/9997) — PTS in-depth report records the drought in southern Taiwan, pressure-reduced water supply, reclaimed water, subsurface flow, drought-resistant wells, and the public policy context of leakage rates.
 
-[^7]: [Taiwan Science and Technology Media Center: Expert Opinions on Possible Causes and Dispatching Mechanisms for Taiwan’s 2021 Reservoir Shortages](https://smctw.tw/9462/) — Inviting water, environmental, and cultural resource experts to distinguish between drought and shortage, discussing reservoirs, rivers, groundwater, pipeline maintenance, and water price dispatching.
+[^7]: [Taiwan Science and Technology Media Center: Expert Opinions on Possible Causes of Taiwan's Reservoir Water Shortage in 2021 and Dispatch Mechanisms](https://smctw.tw/9462/) — Invited experts in water resources, environment, and cultural resources to distinguish between drought and water shortage, discussing reservoirs, rivers, groundwater, pipeline maintenance, and water price dispatch.
 
-[^8]: [The Reporter: Data Reporter: Interactive Map Reveals 10 Major Risk Watersheds](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Investigating raw water pollution risks using intake points, protection zones, and environmental penalty data, presenting the conflict between water supply security and upstream land governance.
+[^8]: [The Reporter: Data Reporter: Interactive Map Reveals 10 Major Risk Watersheds](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Using water intake, protected area, and environmental penalty data to investigate raw water pollution risks, presenting the conflict between water supply safety and upstream land governance.
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — Taiwan Water’s official English page reviews the company’s 50-year history of water supply coverage, pipeline expansion, disaster response, and climate resilience strategies.
+[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — Taiwan Water's official English page reviews the company's 50-year history of water supply coverage, pipeline expansion, disaster response, and climate resilience strategies.
 
-[^10]: [Water Resources Agency: Overview of Taiwan’s Tap Water Development (Part I)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — The Water Resources Agency explains the damage to water supply systems caused by war and the reconstruction phase of repairing 77 rural water supply systems with U.S. aid support post-war.
+[^10]: [Water Resources Agency: Overview of Taiwan's Tap Water Development (Part 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — The Water Resources Agency explains the damage to water supply systems caused by war, and the post-war reconstruction phase of repairing 77 rural water supply systems with U.S. aid.
 
-[^11]: [Water Resources Agency: January 1952 – Establishment of the Provincial Government Construction Department Engineering General Corps and the Development of Taiwan’s Tap Water Industry](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — The Water Resources Agency compiles equipment renovations from 1946 to 1974, rural water supply subsidies, the Engineering General Corps, the Public Works Bureau, and the integration of 128 water plants.
+[^11]: [Water Resources Agency: January 1952 – Establishment of the Provincial Government's Construction Bureau Engineering Corps and Development of Taiwan's Water Supply Industry](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — The Water Resources Agency compiles the period from 1946 to 1974, covering facility repairs, rural water supply subsidies, the Engineering Corps, the Public Works Bureau, and the integration of 128 water plants.

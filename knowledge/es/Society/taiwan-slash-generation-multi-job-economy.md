@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:04+08:00'
+translatedAt: '2026-11-06T21:22:38.440413+00:00'
 ---
 
 > Los jóvenes de 25 a 35 años de Taiwán están viviendo un experimento de supervivencia que nadie anunció. El salario mediano se estanca en 38.000 dólares taiwaneses, pero el alquiler de un estudio en Taipéi empieza en 14.000. Un empleo a tiempo completo no basta, así que tras el turno encienden la app de reparto, los fines de semana aceptan encargos, a medianoche editan vídeos. Esto no es una «tendencia slash», es una estrategia de supervivencia forzada por un dilema estructural.

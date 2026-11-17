@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/魏哲家.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-09-15T19:45:27+08:00'
+translatedAt: '2026-11-06T16:00:38.523490+00:00'
 ---
 
 # Ngụy Triết Gia: Từ kỹ sư điện tử Đại học Quốc gia, Tiến sĩ Yale đến Chủ tịch kiêm Tổng giám đốc TSMC

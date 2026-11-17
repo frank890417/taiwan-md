@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-09-09T15:32:21+08:00'
+translatedAt: '2026-11-05T22:49:46.722698+00:00'
 ---
 
 # चु तिएन-वेन: 1956 ताइपे,《त्रि-त्रि पत्रिका》से《दु:ख नगर》तक वेनिस स्वर्ण शेर

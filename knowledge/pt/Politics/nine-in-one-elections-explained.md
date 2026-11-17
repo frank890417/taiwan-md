@@ -1,16 +1,16 @@
 ---
-title: 'O que são as eleições "Nove em Um"? Nove cargos, quatro ascensões administrativas e a história de trinta anos da evolução da autonomia local em Taiwan'
-description: 'O termo "Nove em Um" foi amplamente utilizado pela primeira vez em 2014, resultado de quatro reorganizações geográficas urbanas (ascensão de Taipé e Kaohsiung em 1967 e 1979, ascensão das "Cinco Capitais" em 2010, ascensão de Taoyuan em 2014) e três marcos institucionais (eleição direta do prefeito da capital em 1994, integração pela Lei do Sistema Local em 1999, criação do cargo de chefe do distrito nativo montanhês em 2014). O voto simultâneo para nove cargos — prefeito da capital, deputado da capital, prefeito do condado/cidade, deputado do condado/cidade, prefeito do município/condado, representante do conselho do município/condado, chefe do distrito nativo montanhês, representante do conselho do distrito nativo montanhês e chefe do vilarejo/ligang — é o resultado acumulado de trinta anos de evolução da autonomia local em Taiwan.'
+title: 'O que são as eleições unificadas de nove cargos? Nove posições, quatro elevações, trinta anos de história da evolução da autonomia local'
+description: 'As eleições unificadas de nove cargos são a votação no mesmo dia para nove cargos públicos locais: prefeito de município especial, vereador de município especial, prefeito de condado/cidade, vereador de condado/cidade, prefeito de township/cidade, representante do povo de township/cidade, chefe de distrito indígena de montanha, representante de distrito e chefe de vila/bairro, todos com mandato de quatro anos. O dia da votação em 2026 é 28 de novembro, sábado, com abertura às 8 horas da manhã; o horário de votação segue o anúncio da Comissão Eleitoral Central. Este formato só se consolidou em 2014, resultado de trinta anos de acumulação desde a elevação de Taipei e Kaohsiung, das cinco metrópoles, da elevação de Taoyuan e da eleição direta de prefeitos de municípios especiais.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'eleições Nove em Um',
+    'eleições unificadas de nove cargos',
     'cargos públicos locais',
-    'prefeito da capital',
-    'prefeito do condado/cidade',
-    'deputados',
-    'chefes de vilarejo/ligang',
+    'prefeito de município especial',
+    'prefeito de condado/cidade',
+    'vereador',
+    'chefe de vila/bairro',
     'Lei do Sistema Local',
     'eleições de 2026',
   ]
@@ -20,11 +20,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-02T20:20:55.675245+00:00'
+translatedAt: '2026-11-06T00:00:55.767333+00:00'
 ---
 
 # O que são as eleições "Nove em Um"?

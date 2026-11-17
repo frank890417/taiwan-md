@@ -17,13 +17,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
+image: '/article-images/lifestyle/paidui-taipei-station-platform.webp'
+imageCredit: '4300streetcar'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Main_Station_platform_3_May_2025.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Lifestyle/排隊.md'
-sourceCommitSha: '0e24f2873'
-sourceContentHash: 'sha256:71a07c5ea0f34a1e'
-sourceBodyHash: 'sha256:a11c88d6404dea13'
-translatedAt: '2026-09-26T03:10:17.440078+00:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:4be9409cec6c3551'
+sourceBodyHash: 'sha256:34547022abab25ff'
+translatedAt: '2026-11-07T01:13:57.158303+00:00'
 ---
 
 # Taiwan Queuing: From Imposed Order to Collectively Maintained Fairness
@@ -50,39 +54,39 @@ Today, Taipei Metro officially continues to promote that both sides of the escal
 
 This shift also reminds us that "civility" in public circulation is not a fixed answer. When rules change, passengers need to understand which objective has shifted: in the past, emphasis was on clearing the left corridor; now officials emphasize the handrail, standing securely, and using both sides. If we explain it only as "people used to be more polite" or "people are more selfish now," we miss how institutions redesign behavior based on safety and pedestrian flow.
 
-## How a Queue Entered City Life
+## How a Queue Entered Urban Life
 
-Taiwan's queuing culture has two easily conflated turning points: the 1979 official campaign, and the March 28, 1996 opening of Taipei's first metro line. The former framed queuing as a bodily discipline citizens should master. The latter embedded that discipline into the daily rhythm of platforms, turnstiles, and train doors. Taipei City Government records show that the Muzha Line began operations on March 28, 1996 (Republic of China Year 85), transforming commuting patterns and the urban landscape.[^10]
+Queuing culture has two time points that are easily conflated: the official advocacy in 1979, and the start of operations of the Taipei MRT's first line in 1996. The former framed queuing as a bodily order that citizens should learn. The latter placed this order onto the platforms, fare gates, and train doors of daily commutes. The Taipei City Government records that the Muzha Line began service on March 28, 1996, and changed citizens' commuting methods and the city's appearance.[^10]
 
-| Date           | Verifiable Event                                                   | Significance for Queuing Life                                                        |
-| -------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| 1979           | Taipei City Government launches the "Queuing Movement"             | Queuing enters official discourse linking order, efficiency, and civilized conduct   |
-| March 28, 1996 | Taipei Metro Muzha Line opens for service                          | Queuing becomes embedded in fixed schedules, platform markings, and crowd management |
-| 1990s onward   | Automated ticketing systems and customer-priority attitudes emerge | Queuing extends from physical lines to service workflows and numbered sequences      |
-| Present day    | Metro, restaurants, clinics, and ticketing systems coexist         | Waiting can happen on-site or be managed through numbers and screens                 |
+| Time           | Verifiable Event                                           | Significance for Queuing Life                                                         |
+| -------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1979           | Taipei City Government promotes "Queuing Movement"         | Queuing enters official language of order, efficiency, and civilized literacy         |
+| March 28, 1996 | Taipei MRT Muzha Line begins operations                    | Queuing enters daily life of fixed schedules, platform markings, and crowd management |
+| Post-1990s     | Automatic queue machines and customer-first mindset emerge | Queuing extends from physical lines into service flows and digital sequences          |
+| Present        | MRT, restaurants, clinics, and ticketing systems coexist   | Waiting can be done on-site, or managed by numbers and screens                        |
 
-This table does not claim that all Taiwan queuing behavior stems directly from a single policy. It simply places together nodes supported by sources: an official campaign provided a vocabulary, the metro offered high-frequency public venues, and ticketing systems transformed sequence into trackable information.
+This table does not imply that all queuing behaviors in Taiwan were directly caused by a single policy. It merely places together a few nodes that can be supported by sources: the official movement provided a vocabulary, the MRT provided high-frequency public scenarios, and the queue-number systems turned priority order into traceable information.
 
-## How Did Taiwanese People Queue Before 1979? Historical Records Before Imagination
+## How Did Taiwanese People Queue Before 1979? Historical Sources Before Imagination
 
-To answer "What did queuing look like for Taiwanese people before 1979?", the first obstacle is not a lack of Taiwan's history, but rather that "queuing" — a modern everyday term — may not be the classification used in early archival records of crowd order. Early materials more often documented port control, shipping traffic, grain requisition and rationing, population movement, school training, or police administration. They can tell us who was permitted to enter a certain process and which resources were regulated, but they don't necessarily tell us whether ordinary people stood shoulder-to-shoulder in a straight line.
+To answer "what queuing looked like for Taiwanese people before 1979," the first obstacle is not a lack of Taiwanese history, but that "queuing" — this modern everyday term — was not necessarily the category early archives used when recording crowd order. Early materials more often document port control, ship movements, grain requisition and rationing, population movement, school training, or police governance. They can tell us who was allowed to enter a certain process, which resources were controlled, but they do not necessarily tell us whether ordinary people stood shoulder-to-shoulder in a straight line.
 
-| Period                           | Currently Verifiable Materials                                                  | What Can Be Said                                                                              | What Cannot Be Directly Said                                                     |
-| -------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Dutch, Spanish, and Zheng Period | Port, maritime, and external relations research                                 | Can discuss trading posts, military-political context, and port order                         | Cannot directly rewrite port control as everyday shopping queues                 |
-| Qing Period                      | Official ports, coastal ports, and regional market network research             | Can discuss inspection, taxation, shipping traffic, and market networks                       | Cannot infer modern straight-line queues from market gatherings                  |
-| Japanese Colonial Period         | Photographs, postcards, photo albums, statistical summaries, and paper archives | Can continue investigating concrete images of public space, schools, and transportation       | Cannot describe general queuing based solely on archival catalog descriptions    |
-| Postwar to 1979                  | Grain control, rationing systems, and daily life history research               | Can discuss how resource acquisition was affected by eligibility, control, and supply systems | Cannot automatically equate rationing systems with everyone forming fixed queues |
+| Period                                      | Currently Verifiable Materials                                                  | What Can Be Said                                                                                  | What Cannot Be Directly Said                                                       |
+| ------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Dutch, Spanish, and Zheng Chenggong periods | Research on ports, maritime zones, and foreign relations                        | Can discuss background of trade outposts, military-political affairs, and port order              | Cannot equate port control directly with everyday shopping queues                  |
+| Qing period                                 | Research on Zhengkou, coastal ports, and regional market circles                | Can discuss inspection, taxation, ship movements, and market networks                             | Cannot infer modern straight-line queues from market gatherings                    |
+| Japanese colonial period                    | Photographs, postcards, photo albums, statistical yearbooks, and paper archives | Can continue investigating concrete images of public spaces, schools, and transportation          | Cannot describe general queuing habits based solely on archive collection guides   |
+| Postwar to 1979                             | Research on grain control, rationing systems, and daily life history            | Can discuss how resource acquisition was affected by qualifications, controls, and supply systems | Cannot automatically equate rationing systems with everyone queuing in fixed lines |
 
-Research on the Dutch period in Taiwan can provide background on Penghu and Taiwan's external relations and maritime activities from 1624–1661. However, the current focus of verifiable research is on political authority and external relations, not the queuing posture of ordinary residents at shops or windows.[^26] The Spanish and Zheng periods likewise cannot rely on later photographs or today's habits to reconstruct an "ancient Taiwan queuing scene." Without concrete archival evidence, it can only be listed as a gap in historical records awaiting investigation.
+Research on the Dutch colonial period can provide background on Penghu and Taiwan's foreign relations and maritime activities from 1624–1661. But currently verifiable research focuses on regimes and foreign relations, not the queuing postures of ordinary residents in shops or at windows.[^26] The Spanish and Zheng Chenggong periods likewise cannot rely on later photographs or today's habits to fill in a "picture of ancient Taiwanese queuing." Without concrete archives, they can only be listed as documentary gaps awaiting investigation.
 
-The Qing period actually offers more detailed port administration materials. Lin Yu-ju's research indicates that after the Kangxi Emperor incorporated Taiwan into the imperial territory in the twenty-third year of Kangxi's reign, the Qing court designated specific ports as nodes for landing, inspection, and taxation. Early Qing Taiwan's port trade was divided into foreign trade and coastal domestic trade, with small coastal ports gradually forming regional markets and external trade networks.[^27] These materials reveal the institutional possibility of "entering in sequence, undergoing inspection, and waiting for shipping or negotiation," but they do not provide sufficient evidence to describe the formation, positioning, or interaction of ordinary people when queuing, so this article does not rewrite port management as the origin of modern queuing culture.
+The Qing period actually has more detailed port system materials. Lin Yu-ju's research points out that after the Qing incorporated Taiwan into its territory in the 23rd year of Kangxi (1684), it used specific ports as nodes for landing, inspection, and taxation. Early Qing Taiwan port trade was further divided into external (off-island) trade and internal coastal trade; later, small coastal ports gradually formed regional markets and external trade networks.[^27] These materials let us see the institutional possibility of "entering in sequence, undergoing inspection, waiting for sailings or negotiations," but they do not provide sufficient evidence to describe the queue formations, positioning, or interactions of ordinary people when queuing, so this article does not rewrite port management as the origin of modern queuing culture.
 
-Japanese colonial period archives have higher visibility, yet they also have preservation bias. The Institute of Taiwan History, Academia Sinica, notes that Japanese colonial materials include not only paper documents but also photographs, postcards, photo albums, picture postcards, statistical summaries, and graduation photographs.[^28] At the same time, photography was still expensive then, and ordinary families more often preserved images of major events like weddings and graduations.[^28] Therefore, old Japanese photographs are well-suited to investigating crowd order at stations, schools, streets, or public ceremonies, but each photograph must be verified for time, location, photographic purpose, and archival description — one cannot treat "looks like queuing" as proven queuing behavior.
+Archive visibility improves in the Japanese colonial period, yet preservation bias also exists. The Archives of the Institute of Taiwan History, Academia Sinica, notes that Japanese colonial historical materials include not only paper documents but also photographs, postcards, photo albums, illustrated postcards, statistical yearbooks, and graduation portraits. At the same time, photography was still expensive at the time, and ordinary families more often preserved images of major events like weddings and graduations.[^28] Therefore, old Japanese colonial photos are well suited for investigating crowd order in stations, schools, streets, or public ceremonies, but each must be verified for time, location, shooting purpose, and archival description — one cannot treat "looks like queuing" as proven queuing habit.
 
-The early postwar period had another kind of "waiting": grain control. The Taiwan Historical Records Institute compiled grain control from 1945–1949, indicating that the early postwar period continued the total requisition and total rationing system from the late Japanese period, involving issues of rationing eligibility, rice control, grain export, and smuggling.[^29] This shows that people's access to grain was affected by state control, eligibility, and supply conditions. However, the research summary does not describe how ordinary citizens stood at rationing points or how they maintained order, so the most prudent phrasing is "resource acquisition was institutionalized," rather than "people were already queuing the way they do today."
+The early postwar period had another kind of "waiting": grain control. The Taiwan Historica's compilation of 1945–1949 grain control notes that the early postwar period continued the Japanese colonial late-period system of total requisition and total rationing, involving issues of rationing targets, grain control, grain export, and smuggling.[^29] This indicates that at the time people's access to grain was affected by state control, qualifications, and supply conditions. But the research abstract does not describe how the general populace stood at distribution points or how they maintained precedence, so the most prudent phrasing is "resource acquisition was institutionalized," not "back then everyone already queued like today."
 
-Thus, Taiwan before 1979 was not without collective waiting, sequential processing, or regulated procedures. Rather, the focus of currently available public historical records is largely on ports, grain, population, schools, and governance — not the bodily details of those queuing. The real turning point where "queuing" was explicitly named as a civic virtue, efficiency, and order issue, and left behind comprehensive urban governance research subjects, was the 1979 Taipei queuing movement.[^1]
+So, pre-1979 Taiwan was not without collective waiting, sequential processing, or controlled processes. It is just that the focus of existing public historical materials lies mostly in ports, grain, population, schools, and governance, not in the bodily details of those queuing. The true turning point that explicitly named "queuing" as an issue of civic civilization, efficiency, and order, and left a complete object of urban governance research, was the 1979 Taipei City Queuing Movement.[^1]
 
 ## 1979: When Queuing Was a Movement
 
@@ -128,16 +132,16 @@ This angle connects with the marketing analysis presented earlier: when long que
 
 ## Four Readings of Queuing
 
-Queuing can simultaneously be understood as traffic flow, service process, physical discipline, and fairness standard. Separating these prevents a single phrase like "did you queue properly?" from obscuring the differences across contexts.
+Queuing can simultaneously be seen as traffic flow, service process, bodily training, and a standard of fairness. Separating them prevents a single phrase — "whether [one] queued properly" — from papering over differences across scenarios.
 
-| Context                 | Main Rule                                     | Who Designs Order                                                     | Common Fairness Issues                                               |
-| ----------------------- | --------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| MRT platform            | Exit first, then board in sequence            | Station markings, announcements, and passengers collectively maintain | Door congestion, priority seating and accessibility needs            |
-| Restaurant waiting area | Take a number, wait for call, handle timeouts | Restaurant workflow and queuing system                                | Queue jumping, missed numbers, companions waiting in someone's place |
-| Service counter         | First come, first served                      | Ticket machine, counter, and service staff                            | Number skipping, lack of transparency, unmet special needs           |
-| Holiday events          | Collect items in sequence, await distribution | Organizers and on-site flow                                           | Overcrowding, mismatch between quota and wait time                   |
+| Scenario           | Main Rules                                 | Who Designs the Order                                            | Common Fairness Issues                                         |
+| ------------------ | ------------------------------------------ | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| MRT platform       | Alight first, board in order               | Station markings, announcements, and passengers jointly maintain | Door obstruction, priority seats and accessibility needs       |
+| Restaurant waiting | Take number, call number, timeout handling | Store process and waiting system                                 | Cutting in line, missing one's turn, companions holding places |
+| Counter service    | First come, first served                   | Ticket machines, counters, and service staff                     | Queue jumping, information opacity, diverse needs unaddressed  |
+| Holiday events     | Receive in order, wait for distribution    | Organizers and on-site flow                                      | Overcrowding, quotas and waiting costs asymmetrical            |
 
-The same person may follow exit-first-board-second on the platform, yet accept a friend going ahead to grab a number at a popular restaurant. This need not be a double standard—it reflects how different contexts define "who arrived first" differently. When systems clarify this definition, queues require less enforcement through the disapproving stares of bystanders.
+The same person may follow "alight first, board in order" on the platform, yet at a popular shop accept a friend grabbing a number first. This isn't necessarily a double standard, but rather different scenarios defining "who counts as arriving first" differently. If the system makes that definition clear, the queue relies less on the glares of bystanders to maintain itself.
 
 ## Time in Line: Who Deserves to Be Seen
 
@@ -199,17 +203,17 @@ But queuing does not automatically equal fairness. Waiting time carries differen
 
 ## Lunar New Year Lucky Bags: Waiting as a Form of Participation
 
-Queuing takes on yet another dimension in Lunar New Year activities. A photo of the Jieyu Temple lucky bag distribution, provided by a user and sourced from the Presidential Office collection on Wikimedia Commons, shows crowds lined up along the temple plaza awaiting the distribution of lucky bags. The image provides no data on total attendance, wait times, or event outcomes, and thus serves only as a concrete scene—it cannot be used to generalize about all Lunar New Year activities.[^11]
+Queuing takes on another face in Lunar New Year activities. The Jieyu Temple lucky bag photo provided by the user captures the version from the Presidential Office's materials on Wikimedia Commons: crowds queue along the plaza in front of the temple, waiting for lucky bags to be distributed. The image does not provide total numbers, wait times, or event outcomes, so it can only serve as a specific scene and cannot be used to infer that all holiday activities are like this.[^11]
 
-![Queue at Jieyu Temple plaza awaiting the President's distribution of lucky bags](/article-images/lifestyle/paidui-jieyunsi-fu-bag-2024.webp)
+![Queuing at Jieyu Temple plaza waiting for the President to distribute lucky bags](/article-images/lifestyle/paidui-jieyunsi-fu-bag-2024.webp)
 
-_Image: Queue at Jieyu Temple plaza awaiting the President's distribution of lucky bags; original source from the Presidential Office Flickr, Wikimedia Commons page marked CC BY 2.0.[^11]_
+_Figure: Queuing at Jieyu Temple plaza waiting for the President to distribute lucky bags; original source is the Presidential Office Flickr, Wikimedia Commons page marked CC BY 2.0.[^11]_
 
-![Queue at Songbai Ridge Receiving Heaven Temple in Nantou awaiting Lunar New Year lucky bags](<https://commons.wikimedia.org/wiki/Special:FilePath/02.18_%E7%B8%BD%E7%B5%B1%E5%88%9D%E4%B8%89%E8%87%B3%E5%8D%97%E6%8A%95%E6%9D%BE%E6%9F%8F%E5%B6%BA%E5%8F%97%E5%A4%A9%E5%AE%AE%E7%99%BC%E9%80%81%E6%96%B0%E5%B9%B4%E7%A6%8F%E8%A2%8B%EF%BC%8C%E8%80%90%E8%91%97%E5%A4%A7%E5%A4%AA%E9%99%BD%E6%8E%92%E9%9A%8A%E7%9A%84%E6%B0%91%E7%9C%BE%EF%BC%8C%E9%9B%A3%E6%8E%A9%E8%88%88%E5%A5%AE%E4%B9%8B%E6%83%85_(38525638810).jpg?width=960>)
+![Queuing at Songbai Ridge Receiving Heaven Temple in Nantou waiting for New Year lucky bags](<https://commons.wikimedia.org/wiki/Special:FilePath/02.18_%E7%B8%BD%E7%B5%B1%E5%88%9D%E4%B8%89%E8%87%B3%E5%8D%97%E6%8A%95%E6%9D%BE%E6%9F%8F%E5%B6%BA%E5%8F%97%E5%A4%A9%E5%AE%AE%E7%99%BC%E9%80%81%E6%96%B0%E5%B9%B4%E7%A6%8F%E8%A2%8B%EF%BC%8C%E8%80%90%E8%91%97%E5%A4%A7%E5%A4%AA%E9%99%BD%E6%8E%92%E9%9A%8A%E7%9A%84%E6%B0%91%E7%9C%BE%EF%BC%8C%E9%9B%A3%E6%8E%A9%E8%88%88%E5%A5%AE%E4%B9%8B%E6%83%85_(38525638810).jpg?width=960>)
 
-_Image: Queue at Songbai Ridge Receiving Heaven Temple in Nantou awaiting Lunar New Year lucky bags; original Flickr image from the Presidential Office / Taiwan Presidential Office, marked CC BY 2.0 on Wikimedia Commons. This photograph captures an outdoor queue and the activity scene under sunlight, but provides no statistics on attendance or wait times.[^16]_
+_Figure: Queuing at Songbai Ridge Receiving Heaven Temple in Nantou waiting for New Year lucky bags; original Presidential Office / Taiwan Presidential Office Flickr image, Wikimedia Commons marked CC BY 2.0. This photo shows an outdoor long queue and sunlit event scene, does not provide crowd count or wait time statistics.[^16]_
 
-What Lunar New Year queuing and MRT queuing have in common is that both require converting human flow into order. The difference lies in the value of the lucky bag queue: it extends beyond simply "obtaining an item" to encompassing participation in a ritually meaningful activity. Waiting thus becomes not purely a cost but potentially a way for people to confirm "I was here, I participated." This is a cultural reading of the photographic scene, not a statistical judgment about all participants' motivations.
+The commonality between holiday queuing and MRT queuing is that both require turning crowd flow into sequence. The difference lies in that the value of the lucky bag queue lies not only in "getting something," but also in jointly participating in an activity with ritual quality. Waiting is therefore not entirely a cost; it may also be a way for people to confirm "I was here, I participated." This is a cultural reading of the photo scene, not a statistical judgment of all participants' motivations.
 
 ## Coffee Queues at Transit Hubs
 
@@ -235,19 +239,19 @@ The queue at the popiah stall on Xindong Street brings the issue back to the mos
 
 _Figure: Evening queue to purchase popiah on Xindong Street, Songshan District, after the Qingming holiday in 2018; photographer Hsuan Shih-sheng, Wikimedia Commons, CC0 1.0.[^19]_
 
-## Queuing and Appointments: Waiting Doesn't Always Mean Standing
+## Queuing and Appointments: Waiting Doesn't Have to Mean Standing in Line
 
-A 2017 book excerpt published by _The News Lens_ begins with the author's observations of life in Taiwan—numbered tickets at ice cream shops, queues at clinics and restaurants—and asks why people are willing to give their time to a line. This is the author's experiential writing, not a national statistical study of Taiwan's queuing behavior. Its value lies in reframing the question from "how long do we queue?" to another one: Is the time spent waiting transformed by the system into better service?[^20]
+A 2017 book excerpt published in 《關鍵評論網》 begins with the author's observations of numbered-ticket systems at dessert shops, clinics, and restaurants in Taiwan, asking why people are willing to surrender their time to a queue. This is experiential writing, not a nationwide statistical study of queuing behavior in Taiwan. Its value lies in reframing "how long to queue" into a different question: is the time spent waiting converted by the system into better service?[^20]
 
-The article also contrasts the author's experience making a loan appointment at a Swedish bank with Taiwan's practice of drawing a number ticket first, then gradually explaining one's needs at the counter. This comparison cannot be used to generalize about all Taiwanese banks or Swedish services, but it helps us distinguish two forms of waiting: **on-site queuing** makes the order publicly visible, while **appointment systems** move waiting to before the transaction, allowing staff to prepare documents in advance. Neither eliminates waiting; they simply place it at different points in the process.[^20]
+The article also contrasts the author's experience booking a loan appointment at a Swedish bank with the imagined process in Taiwan—taking a number first, then explaining one's needs step by step at the counter. This comparison cannot be used to generalize about all Taiwanese banks or Swedish services, but it helps distinguish two types of waiting: **on-site queuing** publicly displays the order, while **appointment systems** move the wait to before the transaction, allowing service staff to prepare materials in advance. Neither eliminates waiting; they merely place the wait in different positions.[^20]
 
-| Form of Waiting     | What People Can See                         | What the System Must Clarify                                                                               |
-| ------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| On-site queuing     | Queue length, back of line, order of people | How to get a number, what happens if you miss your turn, whether the queue still accepts people at the end |
-| Numbered ticket     | Current number and calling progress         | What number is being called now, whether you can leave, how to reschedule if you miss your turn            |
-| Appointment service | Appointment time slot and service window    | What information to provide beforehand, how to handle lateness and rescheduling                            |
+| Form of Waiting      | What People Can See                                  | Questions the System Must Clarify                                                             |
+| -------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| On-site queuing      | Queue length, tail position, and front-to-back order | Ticket-taking method, handling of missed numbers, whether the end of the line is still served |
+| Numbered tickets     | Current number being called and calling progress     | Which number is currently being served, whether one may leave, how to handle timeouts         |
+| Appointment services | Appointment time slot and service window             | What information must be provided in advance, how lateness and rescheduling are handled       |
 
-This comparison adds an important perspective to Taiwan's queuing culture: people don't necessarily prefer "standing and waiting," but rather accept a particular form of waiting within a familiar service system. When an on-site queue can clearly explain the order, standing feels fair. When an appointment allows staff to prepare in advance, providing information beforehand may be more efficient than starting the conversation on-site. The prerequisite is that the system must let users know what they are waiting for and how the next step will unfold. This is an extension of the cited article's perspective, not a direct application of Swedish experience as evidence for Taiwan's system.
+This comparison adds an important dimension to Taiwan's queuing culture: people do not necessarily prefer "standing to wait," but rather accept a particular mode of waiting within familiar service systems. When an on-site queue clearly communicates the order, standing in line is understood as fair. When appointments allow service staff to prepare in advance, providing information ahead of time can be more efficient than starting communication only upon arrival. The prerequisite is that the system must let users know what they are waiting for and what will happen next. This is an extended analysis of the cited article's perspective, not an attempt to treat the Swedish experience as direct evidence for Taiwan's systems.
 
 ## Economics and Marketing: Waiting as a Commodity
 
@@ -271,20 +275,20 @@ Sanlih E-News reported on an online survey by Pollster. The survey collected 1,7
 
 These figures can be used to describe that "queue-jumping triggers fairness judgments," but they cannot be presented as precise proportions of Taiwan's entire population. This is because the report notes that the sample came from real-time voting by members of an online platform, not a probability sample of Taiwan's population. Moreover, "active" and "passive" are analytical categories created by the reporter through reclassifying different response options. In other words, the power of queuing rules lies not only in whether people are willing to stand in line, but also in whether bystanders feel they have a responsibility to respond when someone breaks the order.
 
-## Waiting Has a Sweet Spot, But No Universal Minute Count Across Taiwan
+## Waiting Has a Sweet Spot, But No Universal Minute Count for All of Taiwan
 
-Research on waiting times at Taiwan's theme parks provides a concrete figure that is also easily misused. A media report published by National Chung Hsing University noted that the study surveyed 1,440 visitors across five theme parks: Jiuzu Cultural Village, Janfusun Fancyworld, Leofoo Village Theme Park, Little People Kingdom, and Lihpao Land. The average maximum acceptable wait time respondents were willing to tolerate for their favorite attractions was 17.89 minutes, and the research report described approximately 30 minutes as a range where emotional shifts might occur.[^35]
+Research on waiting at Taiwan's theme parks provides a specific figure that is also easily misused. A media report published by National Chung Hsing University states that the study surveyed 1,440 visitors across five theme parks: Formosan Aboriginal Culture Village, Janfusun Fancyworld, Leofoo Village Theme Park, Window on China Theme Park, and Lihpao Land. The average maximum acceptable wait time for respondents' favorite attractions was 17.89 minutes, and the research report describes approximately 30 minutes as the interval where emotions may reach a turning point.[^35]
 
-A NOWnews report carried by Fansinews and Yahoo News further listed the standard deviation of 17.89 minutes as 11.38 minutes, and presented an acceptable range of 6.51 to 29.27 minutes reflecting variation under different environmental factors. These three article pages and the report from 《CriticalNews》 all point to the same study, making them cross-verification of different reports on a single study rather than four independent samples.[^36] [^37] [^38]
+NOWnews reports carried by Fan News and Yahoo News further list the standard deviation of 17.89 minutes as 11.38 minutes, and present an acceptable range of 6.51 to 29.27 minutes under varying environmental factors. These three article pages and the report from _The News Lens_ point to the same study; they are therefore cross-referencing different reports on the same research, not four independent samples.[^36] [^37] [^38]
 
-The true value of this research is not to set a rule that "all Taiwan queues can wait no more than 17.89 minutes," but rather to remind service designers that wait time interacts with expectations, attraction appeal, perceived crowding, and quality judgments. Theme park rides, restaurant seating queues, registration lines, and polling places each serve different purposes and carry different risks—the average from one context cannot be directly transferred to another.
+The true value of this study is not to set a "maximum wait of 17.89 minutes" for all queues in Taiwan, but to remind service designers that wait time interacts with expectations, facility attractiveness, on-site crowding perception, and quality judgments. Theme park attractions, restaurant waitlists, medical registration, and polling stations each have different purposes and risks; one cannot simply transplant the average from one scenario to another.
 
-| Data Type                      | What It Can Support                                                                                       | What Should Not Be Extended                                        |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Psychologist media perspective | Conformity, sense of security, and belonging are possible clues to understanding queue-following behavior | All Taiwanese people share the same queuing psychology             |
-| Online survey report           | Within a specific sample, there are different ways to respond to queue jumping                            | 51.4% represents all Taiwanese people stopping queue jumpers       |
-| Theme park research report     | Wait time results for 1,440 visitors across five specific parks                                           | 17.89 minutes is a universal upper limit for all queuing scenarios |
-| 104 Life/Workplace article     | Queuing can be reinterpreted as observation of patience, planning, and communication                      | Queuing necessarily leads to improved workplace skills             |
+| Data Type                       | Supported Claims                                                                                         | Claims That Should Not Be Extended                                 |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Psychologist Media Perspectives | Conformity, sense of security, and belonging are possible clues for understanding herd-mentality queuing | All Taiwanese people have the same queuing psychology              |
+| Online Survey Reports           | In specific samples, reactions to queue-jumping vary                                                     | 51.4% represents all Taiwanese people stopping queue-jumpers       |
+| Theme Park Study Reports        | Wait time results for five specific parks, 1,440 visitors                                                | 17.89 minutes is a universal upper limit for all queuing scenarios |
+| 104 Life/Workplace Articles     | Queuing can be interpreted as observations of patience, planning, and communication                      | Queuing necessarily leads to improved workplace skills             |
 
 ## Queues Are Getting Longer, and Being Redesigned
 
@@ -302,17 +306,17 @@ Rule formation has at least four sources: **promotion** makes people aware of th
 
 Yet rules are also relearned through exceptions. Providing priority for elderly people, pregnant women, people with disabilities, or those carrying infants does not cancel the sequence—it expands "fairness" from a simple first-come-first-served principle to explainable care arrangements. If exceptions are not clearly marked, bystanders easily mistake necessary assistance for queue jumping. If all exceptions depend only on personal interpretation, vulnerable people must bear the cost of publicly explaining their circumstances. The true sign of mature rules is not that lines are always perfectly straight, but that both standard order and reasonable exceptions can be clearly managed by the system.[^23]
 
-## Three Management Levels of Queuing Systems
+## Three Management Levels of Queue Systems
 
-Comparing different scenarios reveals that queuing extends beyond the moment of "standing in a line." It encompasses at least three management levels: first, **arrival**, where the system must make clear where the queue begins and who is last. Second, **confirmation**, through ticket numbers, identity verification, or polling place checks, converting "I am waiting" into a state the system can recognize. Third, **completion**, where staff, number-display screens, or election procedures inform people whose turn it is, and how to handle missed numbers, errors, or overcrowding.[^4] [^14] [^15]
+Comparing different scenarios side by side reveals that queuing is not limited to the moment of "standing in a line." It encompasses at least three management levels: the first is **Arrival**, where the system must let people know where the line begins and who is last. The second is **Verification**, where taking a number, verifying identity, or checking a polling station turns "I am waiting" into a system-recognizable state. The third is **Completion**, where service staff, calling displays, or election procedures must let people know whose turn it is, and how to handle missed turns, errors, or excessive crowds.[^4] [^14] [^15]
 
-| Management Level | Daily Question                                                                | Visible System Tools                                                                          |
-| ---------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Arrival          | Where does the queue start? Where is the last person?                         | Floor markings, queue-end signs, staff guidance                                               |
-| Confirmation     | Have I secured my place in order? Am I in the right location?                 | Ticket numbers, identity checks, polling place verification                                   |
-| Completion       | When is it my turn? What happens if I miss my number or there's overcrowding? | Number-display screens, rules for missed numbers, queue-end confirmation and staff allocation |
+| Management Level | Everyday Problem                                                 | Visible System Tools                                                            |
+| ---------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Arrival          | Where does the line start? Where is the last person?             | Floor markings, end-of-line signs, staff guidance                               |
+| Verification     | Have I already secured a place in line? Am I in the right place? | Number tickets, identity checks, polling station verification                   |
+| Completion       | When is my turn? What if I miss it or there's overflow?          | Calling displays, re-queue rules, end-of-line confirmation and staff deployment |
 
-This model also explains why "whether people are queuing" should not be judged from photographs alone. Images can show the line formation after arrival, but they may not reveal how numbers are distributed, who manages confirmation, or whether the queue ultimately completes service. Understanding queuing culture requires viewing people's bodies, spatial markings, and backend processes together.
+This model also explains why "whether queuing exists" should not be judged by appearances alone. Photos can show the formation after arrival, but cannot necessarily tell us how numbers are allocated, who is responsible for verification, or whether the line ultimately completes service. To understand queuing culture, we must look at human bodies, spatial markings, and backend processes together.
 
 ## Staying in Line, Waiting for an Answer Everyone Can Understand
 

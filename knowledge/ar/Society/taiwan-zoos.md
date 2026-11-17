@@ -20,12 +20,14 @@ author: 'p3nchan'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Society/台灣有哪些動物園.md
-sourceCommitSha: 287389ecc
-sourceContentHash: sha256:39eab6090a3c571e
-sourceBodyHash: sha256:831b02af043591c7
-translatedAt: '2026-09-09T15:32:52+08:00'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣有哪些動物園.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:39eab6090a3c571e'
+sourceBodyHash: 'sha256:831b02af043591c7'
+translatedAt: '2026-11-06T19:28:11.125909+00:00'
 ---
 
 # حدائق الحيوان في تايوان: الأقدم ليس في مو تشه، والأكبر ليس حديقة حيوان فحسب

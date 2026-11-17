@@ -1,0 +1,1388 @@
+{
+  "meta": {
+    "task": "semiconductor-output",
+    "accessed": "2026-11-10",
+    "unit": "新臺幣億元（除另註）"
+  },
+  "icOutput": {
+    "unit": "新臺幣億元",
+    "years": [
+      {
+        "year": 2010,
+        "total": 17693,
+        "design": 4548,
+        "manufacturing": 8997,
+        "foundry": 5830,
+        "memory_and_other": 3167,
+        "packaging": 2870,
+        "testing": 1278,
+        "yoy_pct": 38.3,
+        "is_estimate": false,
+        "source": "tsia_2014FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）",
+        "label_note": "原表「記憶體與其他製造」此期間標示為 Brand Name（自有品牌，主要為記憶體）"
+      },
+      {
+        "year": 2011,
+        "total": 15627,
+        "design": 3856,
+        "manufacturing": 7867,
+        "foundry": 5729,
+        "memory_and_other": 2138,
+        "packaging": 2696,
+        "testing": 1208,
+        "yoy_pct": -11.7,
+        "is_estimate": false,
+        "source": "tsia_2014FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）",
+        "label_note": "原表「記憶體與其他製造」此期間標示為 Brand Name（自有品牌，主要為記憶體）"
+      },
+      {
+        "year": 2012,
+        "total": 16342,
+        "design": 4115,
+        "manufacturing": 8292,
+        "foundry": 6483,
+        "memory_and_other": 1809,
+        "packaging": 2720,
+        "testing": 1215,
+        "yoy_pct": 4.6,
+        "is_estimate": false,
+        "source": "tsia_2014FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）",
+        "label_note": "原表「記憶體與其他製造」此期間標示為 Brand Name（自有品牌，主要為記憶體）"
+      },
+      {
+        "year": 2013,
+        "total": 18886,
+        "design": 4811,
+        "manufacturing": 9965,
+        "foundry": 7592,
+        "memory_and_other": 2373,
+        "packaging": 2844,
+        "testing": 1266,
+        "yoy_pct": 15.6,
+        "is_estimate": false,
+        "source": "tsia_2014FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）",
+        "label_note": "原表「記憶體與其他製造」此期間標示為 Brand Name（自有品牌，主要為記憶體）"
+      },
+      {
+        "year": 2014,
+        "total": 22033,
+        "design": 5763,
+        "manufacturing": 11731,
+        "foundry": 9140,
+        "memory_and_other": 2591,
+        "packaging": 3160,
+        "testing": 1379,
+        "yoy_pct": 16.7,
+        "is_estimate": false,
+        "source": "tsia_2014FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）",
+        "label_note": "原表「記憶體與其他製造」此期間標示為 Brand Name（自有品牌，主要為記憶體）"
+      },
+      {
+        "year": 2015,
+        "total": 22640,
+        "design": 5927,
+        "manufacturing": 12300,
+        "foundry": 10093,
+        "memory_and_other": 2207,
+        "packaging": 3099,
+        "testing": 1314,
+        "yoy_pct": 2.8,
+        "is_estimate": false,
+        "source": "tsia_2016FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2016,
+        "total": 24493,
+        "design": 6531,
+        "manufacturing": 13324,
+        "foundry": 11487,
+        "memory_and_other": 1837,
+        "packaging": 3238,
+        "testing": 1400,
+        "yoy_pct": 8.2,
+        "is_estimate": false,
+        "source": "tsia_2019FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2017,
+        "total": 24623,
+        "design": 6171,
+        "manufacturing": 13682,
+        "foundry": 12061,
+        "memory_and_other": 1621,
+        "packaging": 3330,
+        "testing": 1440,
+        "yoy_pct": 0.5,
+        "is_estimate": false,
+        "source": "tsia_2020FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2018,
+        "total": 26199,
+        "design": 6413,
+        "manufacturing": 14856,
+        "foundry": 12851,
+        "memory_and_other": 2005,
+        "packaging": 3445,
+        "testing": 1485,
+        "yoy_pct": 6.4,
+        "is_estimate": false,
+        "source": "tsia_2020FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2019,
+        "total": 26656,
+        "design": 6928,
+        "manufacturing": 14721,
+        "foundry": 13125,
+        "memory_and_other": 1596,
+        "packaging": 3463,
+        "testing": 1544,
+        "yoy_pct": 1.7,
+        "is_estimate": false,
+        "source": "tsia_2020FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2020,
+        "total": 32222,
+        "design": 8529,
+        "manufacturing": 18203,
+        "foundry": 16297,
+        "memory_and_other": 1906,
+        "packaging": 3775,
+        "testing": 1715,
+        "yoy_pct": 20.9,
+        "is_estimate": false,
+        "source": "tsia_2020FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2021,
+        "total": 40820,
+        "design": 12147,
+        "manufacturing": 22289,
+        "foundry": 19410,
+        "memory_and_other": 2879,
+        "packaging": 4354,
+        "testing": 2030,
+        "yoy_pct": 26.7,
+        "is_estimate": false,
+        "source": "tsia_2021FY",
+        "note": "原表單位 NT$ billion（十億），×10 換算成億元，無四捨五入（原表一位小數）"
+      },
+      {
+        "year": 2022,
+        "total": 48370,
+        "design": 12320,
+        "manufacturing": 29203,
+        "foundry": 26847,
+        "memory_and_other": 2356,
+        "packaging": 4660,
+        "testing": 2187,
+        "yoy_pct": 18.5,
+        "is_estimate": false,
+        "source": "tsia_2025FY",
+        "note": "原表單位億新臺幣"
+      },
+      {
+        "year": 2023,
+        "total": 43428,
+        "design": 10965,
+        "manufacturing": 26626,
+        "foundry": 24925,
+        "memory_and_other": 1701,
+        "packaging": 3931,
+        "testing": 1906,
+        "yoy_pct": -10.2,
+        "is_estimate": false,
+        "source": "tsia_2025FY",
+        "note": "原表單位億新臺幣"
+      },
+      {
+        "year": 2024,
+        "total": 53151,
+        "design": 12721,
+        "manufacturing": 34195,
+        "foundry": 32438,
+        "memory_and_other": 1757,
+        "packaging": 4233,
+        "testing": 2002,
+        "yoy_pct": 22.4,
+        "is_estimate": false,
+        "source": "tsia_2025FY",
+        "note": "原表單位億新臺幣"
+      },
+      {
+        "year": 2025,
+        "total": 65225,
+        "design": 14245,
+        "manufacturing": 43869,
+        "foundry": 41693,
+        "memory_and_other": 2176,
+        "packaging": 4825,
+        "testing": 2286,
+        "yoy_pct": 22.7,
+        "is_estimate": false,
+        "source": "tsia_2026Q2",
+        "note": "原表單位億新臺幣；2026-02 新聞稿中全年欄位標 2025 (e)，2026-05、2026-08 新聞稿表中同數字不再標 (e)，數字始終為 65,225。"
+      }
+    ],
+    "estimate_2026": [
+      {
+        "year": 2026,
+        "is_estimate": true,
+        "vintage": "2026-08-14（TSIA 2026Q2 新聞稿）",
+        "total": 91904,
+        "design": 18211,
+        "manufacturing": 64683,
+        "foundry": 57746,
+        "memory_and_other": 6937,
+        "packaging": 6152,
+        "testing": 2858,
+        "yoy_pct": 40.9,
+        "source": "tsia_2026Q2"
+      },
+      {
+        "year": 2026,
+        "is_estimate": true,
+        "vintage": "2026-05-14（TSIA 2026Q1 新聞稿）",
+        "total": 84450,
+        "design": 17046,
+        "manufacturing": 59024,
+        "foundry": 54412,
+        "memory_and_other": 4612,
+        "packaging": 5703,
+        "testing": 2677,
+        "yoy_pct": 29.5,
+        "source": "tsia_2026Q1"
+      },
+      {
+        "year": 2026,
+        "is_estimate": true,
+        "vintage": "2026-02-12（TSIA 2025Q4 新聞稿，IEK 預估）",
+        "total": 77150,
+        "design": 15214,
+        "manufacturing": 54339,
+        "foundry": 51317,
+        "memory_and_other": 3022,
+        "packaging": 5163,
+        "testing": 2434,
+        "yoy_pct": 18.3,
+        "source": "tsia_2025FY"
+      }
+    ],
+    "quarters_2026": [
+      {
+        "quarter": "2026Q1",
+        "total": 19261,
+        "design": 3896,
+        "manufacturing": 13349,
+        "foundry": 12284,
+        "memory_and_other": 1065,
+        "packaging": 1374,
+        "testing": 642,
+        "yoy_pct": 29.4,
+        "is_estimate": false,
+        "source": "tsia_2026Q2"
+      },
+      {
+        "quarter": "2026Q2",
+        "total": 22313,
+        "design": 4565,
+        "manufacturing": 15511,
+        "foundry": 13808,
+        "memory_and_other": 1703,
+        "packaging": 1526,
+        "testing": 711,
+        "yoy_pct": 39.5,
+        "is_estimate": false,
+        "source": "tsia_2026Q2"
+      },
+      {
+        "quarter": "2026Q3(e)",
+        "total": 24649,
+        "design": 4850,
+        "manufacturing": 17450,
+        "foundry": 15396,
+        "memory_and_other": 2054,
+        "packaging": 1605,
+        "testing": 744,
+        "yoy_pct": 47.6,
+        "is_estimate": true,
+        "source": "tsia_2026Q2"
+      },
+      {
+        "quarter": "2026Q4(e)",
+        "total": 25681,
+        "design": 4900,
+        "manufacturing": 18373,
+        "foundry": 16258,
+        "memory_and_other": 2115,
+        "packaging": 1647,
+        "testing": 761,
+        "yoy_pct": 45.5,
+        "is_estimate": true,
+        "source": "tsia_2026Q2"
+      }
+    ],
+    "sum_check_total_minus_components_and_mfg_minus_foundry_plus_memory": [
+      [2010, 0, 0],
+      [2011, 0, 0],
+      [2012, 0, 0],
+      [2013, 0, 0],
+      [2014, 0, 0],
+      [2015, 0, 0],
+      [2016, 0, 0],
+      [2017, 0, 0],
+      [2018, 0, 0],
+      [2019, 0, 0],
+      [2020, 0, 0],
+      [2021, 0, 0],
+      [2022, 0, 0],
+      [2023, 0, 0],
+      [2024, 0, 0],
+      [2025, 0, 0]
+    ],
+    "definition": "IC產業產值=IC設計業+IC製造業+IC封裝業+IC測試業；IC製造業=晶圓代工+記憶體與其他製造；以總部設立在台灣的公司為基準（TSIA 原表說明）。",
+    "sources_ref": "見 sources"
+  },
+  "sources": {
+    "tsia_2026Q2": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=915",
+      "title": "【TSIA新聞稿115.08.14】台灣半導體產業協會(TSIA) 2026Q2台灣IC營運結果出爐",
+      "publisher": "台灣半導體產業協會(TSIA)；數據：工研院產科國際所",
+      "period": "發布日 2026-08-14；資料 2022–2026(e)",
+      "accessed": "2026-11-10",
+      "quote": "2022 ~ 2026(e)年台灣IC產業產值 億新台幣 2022 2022 成長率 2023 2023 成長率 2024 2024 成長率 2025 2025 成長率 2026 (e) 2026 (e) 成長率 IC產業產值 48,370 18.5% 43,428 -10.2% 53,151 22.4% 65,225 22.7% 91,904 40.9% IC設計業 12,320 1.4% 10,965 -11.0% 12,721 16.0% 14,245 12.0% 18,211 27.8% IC製造業 29,203 31.0% 26,626 -8.8% 34,195 28.4% 43,869 28.3% 64,683 47.4% 晶圓代工 26,847 38.3% 24,925 -7.2% 32,438 30.1% 41,693 28.5% 57,746 38.5% 記憶體與其他製造 2,356 -18.2% 1,701 -27.8% 1,757 3.3% 2,176 23.8% 6,937 218.8% IC封裝業 4,660 7.0% 3,931 -15.6% 4,233 7.7% 4,825 14.0% 6,152 27.5% IC測試業 2,187 7.7% 1,906 -12.8% 2,002 5.0% 2,286 14.2% 2,858 25.0% IC產品產值 14,676 -2.3% 12,666 -13.7% 14,478 14.3% 16,421 13.4% 25,148 53.1% 全球半導體市場(億美元)及成長率(%) 5,741 3.3% 5,269 -8.2% 6,305 19.7% 7,956 26.2% 16,550 108.1% 資料來源：TSIA；工研院產科國際所 (2026/08) 說明： 註：(e)表示預估值(estimate)。 IC產業產值=IC設計業+IC製造業+IC封裝業+IC測試業。 IC產品產值=IC設計業+記憶體與其他製造。 IC製造業產值=晶圓代工+記憶體與其他製造。 上述產值計算是以總部設立在台灣的公司為基",
+      "raw_file": "data/industry/raw/tsia-pressrelease-2026Q2-20261110.txt"
+    },
+    "tsia_2026Q1": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=892",
+      "title": "【TSIA新聞稿115.05.14】台灣半導體產業協會(TSIA) 2026Q1台灣IC營運結果出爐",
+      "publisher": "台灣半導體產業協會(TSIA)；數據：工研院產科國際所",
+      "period": "發布日 2026-05-14",
+      "accessed": "2026-11-10",
+      "quote": "2022 ~ 2026(e)年台灣IC產業產值 億新台幣 2022 2022 成長率 2023 2023 成長率 2024 2024 成長率 2025 2025 成長率 2026 (e) 2026 (e) 成長率 IC產業產值 48,370 18.5% 43,428 -10.2% 53,151 22.4% 65,225 22.7% 84,450 29.5% IC設計業 12,320 1.4% 10,965 -11.0% 12,721 16.0% 14,245 12.0% 17,046 19.7% IC製造業 29,203 31.0% 26,626 -8.8% 34,195 28.4% 43,869 28.3% 59,024 34.5% 晶圓代工 26,847 38.3% 24,925 -7.2% 32,438 30.1% 41,693 28.5% 54,412 30.5% 記憶體與其他製造 2,356 -18.2% 1,701 -27.8% 1,757 3.3% 2,176 23.8% 4,612 111.9% IC封裝業 4,660 7.0% 3,931 -15.6% 4,233 7.7% 4,825 14.0% 5,703 18.2% IC測試業 2,187 7.7% 1,906 -12.8% 2,002 5.0% 2,286 14.2% 2,677 17.1% IC產品產值 14,676 -2.3% 12,666 -13.7% 14,478 14.3% 16,421 13.4% 21,658 31.9% 全球半導體市場(億美元)及成長率(%) 5,741 3.3% 5,269 -8.2% 6,305 19.7% 7,956 26.2% 10,049 26.3% 資料來源：TSIA；工研院產科國際所 (2026/05) 說明： 註：(e)表示預估值(estimate)。 IC產業產值=IC設計業+IC製造業+IC封裝業+IC測試業。 IC產品產值=IC設計業+記憶體與其他製造。 IC製造業產值=晶圓代工+記憶體與其他製造。 上述產值計算是以總部設立在台灣的公司為基準",
+      "raw_file": "data/industry/raw/tsia-pressrelease-2026Q1-20261110.txt"
+    },
+    "tsia_2025FY": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=833",
+      "title": "【TSIA新聞稿115.02.12】台灣半導體產業協會(TSIA) 2025Q4及全年台灣IC營運成果出爐",
+      "publisher": "台灣半導體產業協會(TSIA)；數據：工研院產科國際所",
+      "period": "發布日 2026-02-12；資料 2022–2026(e)",
+      "accessed": "2026-11-10",
+      "quote": "2022 ~ 2026(e)年台灣IC產業產值 LINK Excel.Sheet.12 C:\\\\Users\\\\User\\\\Desktop\\\\★★2026工作總檔案★★\\\\★★台灣半導體產值\\\\20260126-半導體產值-2025Q4-v01.xlsx TSIA當年度!R73C1:R82C11 \\a \\f 4 \\h \\* MERGEFORMAT 億新台幣 2022 2022 成長率 2023 2023 成長率 2024 2024 成長率 2025 2025 成長率 2026 (e) 2026 (e) 成長率 IC產業產值 48,370 18.5% 43,428 -10.2% 53,151 22.4% 65,225 22.7% 77,150 18.3% IC設計業 12,320 1.4% 10,965 -11.0% 12,721 16.0% 14,245 12.0% 15,214 6.8% IC製造業 29,203 31.0% 26,626 -8.8% 34,195 28.4% 43,869 28.3% 54,339 23.9% 晶圓代工 26,847 38.3% 24,925 -7.2% 32,438 30.1% 41,693 28.5% 51,317 23.1% 記憶體與其他製造 2,356 -18.2% 1,701 -27.8% 1,757 3.3% 2,176 23.8% 3,022 38.9% IC封裝業 4,660 7.0% 3,931 -15.6% 4,233 7.7% 4,825 14.0% 5,163 7.0% IC測試業 2,187 7.7% 1,906 -12.8% 2,002 5.0% 2,286 14.2% 2,434 6.5% IC產品產值 14,676 -2.3% 12,666 -13.7% 14,478 14.3% 16,421 13.4% 18,236 11.1% 全球半導體市場(億美元)及成長率(%) 5,741 3.3% 5,269 -8.2% 6,305 19.7% 7,917 25.6% 9,999 26.3% 資料來源：TSIA",
+      "raw_file": "data/industry/raw/tsia-pressrelease-2025Q4-FY-20261110.txt"
+    },
+    "tsia_2025FY_text": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=833",
+      "title": "同上（內文段落）",
+      "publisher": "台灣半導體產業協會(TSIA)；數據：工研院產科國際所",
+      "period": "發布日 2026-02-12",
+      "accessed": "2026-11-10",
+      "quote": "工研院產科國際所預估2025年台灣IC產業產值達新臺幣65,225億元(USD$209.1B)，較2024年成長22.7%。其中IC設計業產值為新臺幣14,245億元(USD$ 45.7B)，較2024年成長12.0%；IC製造業為新臺幣43,869億元(USD$140.6B)，較2024年成長28.3%，其中晶圓代工為新臺幣41,693億元(USD$133.6B)，較2024年成長28.5%，記憶體與其他製造為新臺幣2,176億元(USD$7.0B)，較2024年成長23.8%；IC封裝業為新臺幣4,825億元(USD$15.5B)，較2024年成長14.0%；IC測試業為新臺幣2,286億元(USD$7.3B)，較2024年成長14.2%。新臺幣對美元匯率以31.2計算。 2025年台灣IC產業產值統計結果 億新台幣 25Q1 季成長 年成長 25Q2 季成長 年成長 25Q3 季成長 年成長 25Q4 季成長 年成長 20",
+      "raw_file": "data/industry/raw/tsia-pressrelease-2025Q4-FY-20261110.txt"
+    },
+    "tsia_2021FY": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=407",
+      "title": "TSIA Q4 2021 and Year 2021 Statistics on Taiwan IC Industry",
+      "publisher": "TSIA；ISTI-ITRI",
+      "period": "發布日 2022-02-17；資料 2018–2022(e)",
+      "accessed": "2026-11-10",
+      "quote": "2018-2022 Taiwan IC Revenue NT$B 2018 18/17 2019 19/18 2020 20/19 2021 21/20 2022(e) 22(e)/21 Industry Revenue 2,619.9 6.4% 2,665.6 1.7% 3,222.2 20.9% 4,082.0 26.7% 4,806.2 17.7% IC Design 641.3 3.9% 692.8 8.0% 852.9 23.1% 1,214.7 42.4% 1,384.8 14.0% IC Manufacturing 1,485.6 8.6% 1,472.1 -0.9% 1,820.3 23.7% 2,228.9 22.4% 2,726.4 22.3% Foundry 1,285.1 6.6% 1,312.5 6.6% 1,629.7 24.2% 1,941.0 19.1% 2,407.6 24.0% €Memory & Other Manufacturing 200.5 23.7% 159.6 -20.4% 190.6 19.4% 287.9 51.0% 318.8 10.7% IC Packaging 344.5 3.5% 346.3 0.5% 377.5 9.0% 435.4 15.3% 475.0 9.1% IC Testing 148.5 3.1% 154.4 4.0% 171.5 11.1% 203.0 18.4% 220.0 8.4% Product Revenue 841.8 8.0% 852.4 1.3% 1,043.5 22.4% 1,502.6 44.0% 1,703.6 13.4% WW Revenue (US$B) Growth (%) 468.8 13.7% 412.3 -12.0% 440.4 6.8% 555.9 26.2% 604.6 8.8% (e): Estimate Source：TSIA, ISTI-ITRI (February 2022) Note: IC Industry Revenue = IC design ",
+      "raw_file": "data/industry/raw/tsia-dl-407-20261110.txt"
+    },
+    "tsia_2020FY": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=294",
+      "title": "TSIA Q4 2020 and Year 2020 Statistics on Taiwan IC Industry",
+      "publisher": "TSIA；ISTI-ITRI",
+      "period": "發布日 2021-02-22；資料 2017–2021(e)",
+      "accessed": "2026-11-10",
+      "quote": "2017-2021 Taiwan IC Revenue NT$B 2017 17/16 2018 18/17 2019 19/18 2020 20/19 2021 (e) 21 /20(e) Industry Revenue 2,462.3 0.5% 2,619.9 6.4% 2,665.6 1.7% 3,222.2 20.9% 3,498.1 8.6% IC Design 617.1 -5.5% 641.3 3.9% 692.8 8.0% 852.9 23.1% 945.9 10.9% IC Manufacturing 1,368.2 2.7% 1,485.6 8.6% 1,472.1 -0.9% 1,820.3 23.7% 1,965.7 8.0% Foundry 1,206.1 5.0% 1,285.1 5.0% 1,312.5 2.1% 1,629.7 24.2% 1,767.5 8.5% €Memory & Other Manufacturing 162.1 -11.8% 200.5 23.7% 159.6 -20.4% 190.6 19.4% 198.2 4.0% IC Packaging 333.0 2.8% 344.5 3.5% 346.3 0.5% 377.5 9.0% 402.5 6.6% IC Testing 144.0 2.9% 148.5 3.1% 154.4 4.0% 171.5 11.1% 184.0 7.3% Product Revenue 779.2 -6.9% 841.8 8.0% 852.4 1.3% 1,043.5 22.4% 1,144.1 9.6% WW Revenue (US$B) Growth (%) 412.2 21.6% 468.8 13.7% 412.3 -12.0% 440.4 6.8% 488.3 10.9% (e): Estimate Source：TSIA, ISTI-ITRI (February 2021) Note: IC Industry Revenue = IC design + Manufactur",
+      "raw_file": "data/industry/raw/tsia-dl-294-20261110.txt"
+    },
+    "tsia_2019FY": {
+      "url": "https://www.tsia.org.tw/api/DownloadPage?pageID=170",
+      "title": "TSIA 2019Q4 & 2019 Statistics",
+      "publisher": "TSIA；ISTI-ITRI",
+      "period": "發布日 2020-02；資料 2016–2020(e)",
+      "accessed": "2026-11-10",
+      "quote": "2016-2020 Taiwan IC Revenue NT$B 2016 16/15 2017 17/16 2018 18/17 2019 19/18 2020 (e) 20 (e)/19 Industry Revenue 2,449.3 8.2% 2,462.3 0.5% 2,619.9 6.4% 2,665.6 1.7% 2,774.2 4.1% IC Design 653.1 10.2% 617.1 -5.5% 641.3 3.9% 692.8 8.0% 722.7 4.3% IC Manufacturing 1,332.4 8.3% 1,368.2 2.7% 1,485.6 8.6% 1,472.1 -0.9% 1,528.5 3.8% Foundry 1,148.7 10.4% 1,206.1 5.0% 1,285.1 6.6% 1,312.5 2.1% 1,364.9 4.0% Memory & Other Manufacturing 183.7 -16.8% 162.1 -11.8% 200.5 23.7% 159.6 -20.4% 163.6 2.5% IC Packaging 323.8 4.5% 333.0 2.8% 344.5 3.5% 346.3 0.5% 361.5 4.4% IC Testing 140.0 6.5% 144.0 2.9% 148.5 3.1% 154.4 4.0% 161.5 4.6% Product Revenue 836.8 2.9% 779.2 -6.9% 841.8 8.0% 852.4 1.3% 886.3 4.0% WW Revenue (US$B) Growth (%) 338.9 1.1% 412.2 21.6% 468.8 13.7% 412.1 -12.1% 433.0 5.1% (e): Estimate Source：TSIA, ISTI-ITRI (February 2020) Note: IC Industry Revenue = IC design + Manufacturing + Pack",
+      "raw_file": "data/industry/raw/tsia-dl-170-20261110.txt"
+    },
+    "tsia_2016FY": {
+      "url": "https://www.tsia.org.tw/Uploads/TSIA%202016%20Q4%20&%202016%20Statistics.doc",
+      "title": "TSIA Q4 2016 and Year 2016 Statistics on Taiwan IC Industry",
+      "publisher": "TSIA；IEK-ITRI",
+      "period": "發布日 2017-02-20；資料 2011–2017(e)",
+      "accessed": "2026-11-10",
+      "quote": "2011-2017 Taiwan IC Revenue NT$B 2011 11/10 2012 12/11 2013 13/12 2014 14/13 2015 15/14 2016 16/15 2017(e) 17/16 Industry Revenue 1,562.7 -11.7% 1,634.2 4.6% 1,888.6 15.6% 2,203.3 16.7% 2,264.0 2.8% 2,449.3 8.2% 2,591.6 5.8% IC Design 385.6 -15.2% 411.5 6.7% 481.1 16.9% 576.3 19.8% 592.7 2.8% 653.1 10.2% 689.0 5.5% IC Manufacturing 786.7 -12.6% 829.2 5.4% 996.5 20.2% 1,173.1 17.7% 1,230.0 4.9% 1,332.4 8.3% 1,397.1 4.9% Foundry 572.9 -1.7% 648.3 13.2% 759.2 17.1% 914.0 20.4% 1,009.3 10.4% 1,148.7 13.8% 1,272.4 10.8% Brand Name 213.8 -32.5% 180.9 -15.4% 237.3 31.2% 259.1 9.2% 220.7 -14.8% 183.7 -16.8% 124.7 -32.1% IC Packaging 269.6 -6.1% 272.0 0.9% 284.4 4.6% 316.0 11.1% 309.9 -1.9% 323.8 4.5% 348.2 7.5% IC Testing 120.8 -5.5% 121.5 0.6% 126.6 4.2% 137.9 8.9% 131.4 -4.7% 140.0 6.5% 157.3 12.4% Product Revenue 599.4 -22.3% 592.4 -1.2% 718.4 21.3% 835.4 16.3% 813.4 -2.6% 836.8 2.9% 813.7 -2",
+      "raw_file": "data/industry/raw/tsia-wayback-2016Q4-stat.txt",
+      "archive_url": "https://web.archive.org/web/20170710090341id_/http://www.tsia.org.tw/Uploads/TSIA%202016%20Q4%20&%202016%20Statistics.doc"
+    },
+    "tsia_2014FY": {
+      "url": "https://www.tsia.org.tw/Uploads/TSIA%202014%20Q4%20&%202014%20Statistics.doc",
+      "title": "TSIA Q4 2014 and Year 2014 Statistics on Taiwan IC Industry",
+      "publisher": "TSIA；IEK-ITRI",
+      "period": "發布日 2015-02-05；資料 2010–2014",
+      "accessed": "2026-11-10",
+      "quote": "Industry Revenue 1,769.3 38.3% 1,562.7 -11.7% 1,634.2 4.6% 1,888.6 15.6% 2,203.3 16.7% IC Design 454.8 17.9% 385.6 -15.2% 411.5 6.7% 481.1 16.9% 576.3 19.8% IC Manufacturing 899.7 56.0% 786.7 -12.6% 829.2 5.4% 996.5 20.2% 1,173.1 17.7% Foundry 583.0 42.8% 572.9 -1.7% 648.3 13.2% 759.2 17.1% 914.0 20.4% Brand Name 316.7 88.1% 213.8 -32.5% 180.9 -15.4% 237.3 31.2% 259.1 9.2% IC Packaging 287.0 30.6% 269.6 -6.1% 272.0 0.9% 284.4 4.6% 316.0 11.1% IC Testing 127.8 32.3% 120.8 -5.5% 121.5 0.6% 126.6 4.2% 137.9 8.9% Product Revenue 771.5 39.2% 599.4 -22.3% 592.4 -1.2% 718.4 21.3% 835.4 16.3% WW Growth (%) - 31.8% - 0.4% - -2.7% - 4.8% - 9.9% Source：TSIA, IEK-ITRI (February 2015) 【News Contact: Dori",
+      "raw_file": "data/industry/raw/tsia-wayback-2014Q4-stat.txt",
+      "archive_url": "https://web.archive.org/web/20170710101659id_/http://www.tsia.org.tw/Uploads/TSIA%202014%20Q4%20&%202014%20Statistics.doc"
+    },
+    "tsia_2011FY": {
+      "url": "http://tsia.org.tw/Uploads/TSIA%202011%20Q4%20Statistics-Engv2.doc",
+      "title": "TSIA 2011 Q4 Statistics",
+      "publisher": "TSIA；IEK-ITRI",
+      "period": "發布日 2012-03；2010 初版數字",
+      "accessed": "2026-11-10",
+      "quote": "Industry Revenue 1,753.7 37.1% 1,562.7 -11.7% 1,656.9 6.5% IC Design 454.8 17.9% 385.6 -15.2% 412.6 7.0% IC Manufacturing 884.1 53.3% 786.7 -12.6% 824.6 5.7% Foundry 570.9 39.9% 572.9 -1.7% 617.3 7.6% Brand Name 313.2 86.0% 213.8 -32.5% 207.3 0.5% IC Packaging 287.0 30.6% 269.6 -6.1% 290.0 7.6% IC Testing 127.8 32.3% 120.8 -5.5% 129.7 7.4% Product Revenue 768.0 38.6% 599.4 -22.3% 619.9 4.7% WW Growth (%) - 31.8% - 0.4% - 5.0% (e): estimate Source：TSIA, IEK-ITRI (March 2012) 【News Contact: Julie ",
+      "raw_file": "data/industry/raw/tsia-wayback-2011Q4-stat.txt",
+      "archive_url": "https://web.archive.org/web/20130820115306id_/http://tsia.org.tw/Uploads/TSIA%202011%20Q4%20Statistics-Engv2.doc"
+    },
+    "tsmc_20F_FY2015_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312516536225/d138743d20f.htm",
+      "title": "TSMC Form 20-F FY2015 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2015，提交日 2016-04-11",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2013, 2014 and 2015 were NT$287,595 million, NT$288,540 million and NT$257,517 million (US$8,123 million, translated from a weighted average exchange rate of NT$31.7 to US$1.00), respectively. Our capital expenditures in 2016 are expected to be approximately US$9 billion to US$10 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2013 were f",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2015.htm"
+    },
+    "tsmc_20F_FY2016_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312517122097/d366455d20f.htm",
+      "title": "TSMC Form 20-F FY2016 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2016，提交日 2017-04-13",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2014, 2015 and 2016 were NT$288,540 million, NT$257,517 million and NT$328,045 million (US$10,186 million, translated from a weighted average exchange rate of NT$32.21 to US$1.00), respectively. Our capital expenditures in 2017 are expected to be approximately US$10.0 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2014, 2015 and 2016 wer",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2016.htm"
+    },
+    "tsmc_20F_FY2017_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312518121866/d459142d20f.htm",
+      "title": "TSMC Form 20-F FY2017 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2017，提交日 2018-04-19",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2015, 2016 and 2017 were NT$257,517 million, NT$328,045 million, and NT$330,588 million (US$10,859 million, translated from a weighted average exchange rate of NT$30.45 to US$1.00), respectively. Our capital expenditures in 2018 are expected to be between US$10.5 billion to US$11 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2015, 2016 ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2017.htm"
+    },
+    "tsmc_20F_FY2018_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312519108390/d665387d20f.htm",
+      "title": "TSMC Form 20-F FY2018 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2018，提交日 2019-04-17",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2016, 2017 and 2018 were NT$328,045 million, NT$330,588 million, and NT$315,582 million (US$10,463 million, translated from a weighted average exchange rate of NT$30.16 to US$1.00), respectively. Our capital expenditures in 2019 are expected to be between US$10 billion to US$11 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2016, 2017 an",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2018.htm"
+    },
+    "tsmc_20F_FY2019_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312520107579/d831201d20f.htm",
+      "title": "TSMC Form 20-F FY2019 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2019，提交日 2020-04-15",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2017, 2018, and 2019 were NT$330,588 million, NT$315,582 million, and NT$460,422 million (US$14,903 million, translated from a weighted average exchange rate of NT$30.90 to US$1.00), respectively. Our capital expenditures in 2020 are expected to be between US$15 billion to US$16 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2017, 2018, ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2019.htm"
+    },
+    "tsmc_20F_FY2020_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312521118512/d94821d20f.htm",
+      "title": "TSMC Form 20-F FY2020 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2020，提交日 2021-04-16",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2018, 2019 and 2020 were NT$315,582 million, NT$460,422 million and NT$507,239 million (US$17,235 million, translated from a weighted average exchange rate of NT$29.43 to US$1.00), respectively. Our capital expenditures in 2021 are expected to be approximately US$30 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2018 and 2019 were funded",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2020.htm"
+    },
+    "tsmc_20F_FY2021_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312522104891/d204786d20f.htm",
+      "title": "TSMC Form 20-F FY2021 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2021，提交日 2022-04-14",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2019, 2020 and 2021 were NT$460,422 million, NT$507,239 million and NT$839,196 million (US$30,039 million, translated from a weighted average exchange rate of NT$27.94 to US$1.00), respectively. Our capital expenditures in 2022 are expected to be between US$40 billion and US$44 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2019 were fun",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2021.htm"
+    },
+    "tsmc_20F_FY2022_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312523107214/d428519d20f.htm",
+      "title": "TSMC Form 20-F FY2022 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2022，提交日 2023-04-20",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2020, 2021 and 2022 were NT$507,239 million, NT$839,196 million and NT$1,082,672 million (US$36,289 million, translated from a weighted average exchange rate of NT$29.84 to US$1.00), respectively. Our capital expenditures in 2023 are expected to be between US$32 billion and US$36 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2020, 2021 ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2022.htm"
+    },
+    "tsmc_20F_FY2023_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312524099840/d592628d20f.htm",
+      "title": "TSMC Form 20-F FY2023 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2023，提交日 2024-04-18",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2021, 2022 and 2023 were NT$839,196 million, NT$1,082,672 million and NT$949,817 million (US$30,448 million, translated from a weighted average exchange rate of NT$31.19 to US$1.00), respectively. Our capital expenditures in 2024 are expected to be between US$28 billion and US$32 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2021, 2022 ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2023.htm"
+    },
+    "tsmc_20F_FY2024_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312525083423/d896993d20f.htm",
+      "title": "TSMC Form 20-F FY2024 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2024，提交日 2025-04-17",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2022, 2023 and 2024 were NT$1,082,672 million, NT$949,817 million and NT$956,007 million (US$29,755 million, translated from a weighted average exchange rate of NT$32.13 to US$1.00), respectively. Our capital expenditures in 2025 are expected to be between US$38 billion and US$42 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2022, 2023 ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2024.htm"
+    },
+    "tsmc_20F_FY2025_capex": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025 (Item 4/5 capital expenditures)",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC），向美國 SEC 提交",
+      "period": "FY2025，提交日 2026-04-16",
+      "accessed": "2026-11-10",
+      "quote": "Our capital expenditures in 2023 , 2024 and 2025 were NT$ 949,817 million, NT$ 956,007 million and NT$ 1,272,411 million (US$ 40,895 million, translated from a weighted average exchange rate of NT$ 31.11 to US$1.00), respectively. Our capital expenditures in 2026 are expected to be between US$52 billion and US$56 billion, which, depending on market conditions, may be adjusted later. Our capital expenditures for 2023 ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tsmc_20F_FY2015_employees": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312516536225/d138743d20f.htm",
+      "title": "TSMC Form 20-F FY2015 (Item 6 employees table)",
+      "publisher": "TSMC",
+      "period": "FY2015，提交日 2016-04-11",
+      "accessed": "2026-11-10",
+      "quote": "number of our full-time employees serving in the capacities indicated. As of December 31, Function 2013 2014 2015 Managers 4,078 4,385 4,669 Professionals 17,205 18,552 19,645 Assistant Engineers/Clericals 3,236 3,530 3,789 Technicians 15,964 17,124 17,169 Total 40,483 43,591 45,272 The following table sets out, as of the dates indicated, a breakdown of the number of our full-time employees by geographic location: As of December 31, Location of Facility and Principal Offices 2013 2014 2015 Hsinchu Science Park, Taiwan 21,096 22,329 23,583 Southern Taiwan Science Park, Taiwan 10,772 12,577 12,415",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2015.htm"
+    },
+    "tsmc_20F_FY2016_employees": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312517122097/d366455d20f.htm",
+      "title": "TSMC Form 20-F FY2016 (Item 6 employees table)",
+      "publisher": "TSMC",
+      "period": "FY2016，提交日 2017-04-13",
+      "accessed": "2026-11-10",
+      "quote": "number of our full-time employees serving in the capacities indicated. As of December 31, Function 2014 2015 2016 Managers 4,385 4,669 4,909 Professionals 18,552 19,645 20,719 Assistant Engineers/Clericals 3,530 3,789 3,934 Technicians 17,124 17,169 17,406 Total 43,591 45,272 46,968 39 Table of Contents The following table sets out, as of the dates indicated, a breakdown of the number of our full-time employees by geographic location: As of December 31, Location of Facility and Principal Offices 2014 2015 2016 Hsinchu Science Park, Taiwan 22,329 23,583 22,960 Southern Taiwan Science Park, Taiwan 12,577 12,415",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2016.htm"
+    },
+    "tsmc_20F_FY2019_employees": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312520107579/d831201d20f.htm",
+      "title": "TSMC Form 20-F FY2019 (Item 6 employees table)",
+      "publisher": "TSMC",
+      "period": "FY2019，提交日 2020-04-15",
+      "accessed": "2026-11-10",
+      "quote": "number of our full-time employees serving in the capacities indicated. As of December 31, Function 2017 2018 2019 Managers 5,107 5,294 5,364 Professionals 21,895 22,285 24,416 Assistant Engineers/Clericals 4,082 4,109 4,357 Technicians 17,518 17,064 17,160 Total 48,602 48,752 51,297 The following table sets out, as of the dates indicated, a breakdown of the number of our full-time employees by geographic location: As of December 31, Location of Facility and Principal Offices 2017 2018 2019 Hsinchu Science Park, Taiwan 24,488 23,998 24,442 Southern Taiwan Science Park, Taiwan 10,276 11,157 12,771",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2019.htm"
+    },
+    "tsmc_20F_FY2022_employees": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312523107214/d428519d20f.htm",
+      "title": "TSMC Form 20-F FY2022 (Item 6 employees table)",
+      "publisher": "TSMC",
+      "period": "FY2022，提交日 2023-04-20",
+      "accessed": "2026-11-10",
+      "quote": "number of our full-time employees serving in the capacities indicated. As of December 31, Function 2020 2021 2022 Managers 5,857 6,635 7,295 Professionals 27,767 31,920 35,189 Assistant Engineers/Clericals 4,832 6,620 8,665 Technicians 18,375 19,977 21,941 Total 56,831 65,152 73,090 The following table sets out, as of the dates indicated, a breakdown of the number of our full-time employees by geographic location: As of December 31, Location of Facility and Principal Offices 2020 2021 2022 Hsinchu Science Park, Taiwan 25,776 27,382 30,219 Southern Taiwan Science Park, Taiwan 16,114 20,428 23,508 Central Taiwan Science Park, Tai",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2022.htm"
+    },
+    "tsmc_20F_FY2025_employees": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025 (Item 6 employees table)",
+      "publisher": "TSMC",
+      "period": "FY2025，提交日 2026-04-16",
+      "accessed": "2026-11-10",
+      "quote": "number of our full-time employees serving in the capacities indicated. As of December 31, Function 2023 2024 2025 Managers 7,861 8,737 9,582 Professionals 36,807 40,477 44,690 Assistant Engineers/Clericals 9,235 10,207 11,368 Technicians 22,575 24,404 24,917 Total 76,478 83,825 90,557 54 Th e following table sets out, as of the dates indicated, a breakdown of the number of our full-time employees by geographic location: As of December 31, Location of Facility and Principal Offices 2023 2024 2025 Hsinchu Science Park, Taiwan 31,524 32,703 33,507 Southern Taiwan Science Park, Taiwan 24,444 23,059 24,702 Central Taiwan Science Park, Taiwan 8,775",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tsmc_xbrl_revenue": {
+      "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0001046179/ifrs-full/Revenue.json",
+      "title": "SEC EDGAR XBRL companyconcept：TSMC ifrs-full:Revenue（取自 20-F 申報）",
+      "publisher": "美國 SEC EDGAR（資料由 TSMC 20-F XBRL 提供）",
+      "period": "FY2015–FY2024（20-F）",
+      "accessed": "2026-11-10",
+      "quote": "TWD 2015-01-01..2015-12-31 843497400000; 2016 947938300000; 2017 977447200000; 2018 1031473600000; 2019 1069985400000; 2020 1339254800000; 2021 1587415000000; 2022 2263891300000; 2023 2161735800000; 2024 2894307700000（單位：元新臺幣；取自 raw JSON 的 val 欄位）",
+      "raw_file": "data/industry/raw/sec-tsmc-xbrl-Revenue-20261110.json"
+    },
+    "tsmc_AR2025_revenue": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "民國114年 民國113年 增減金額 營業收入淨額 3,809,054,272 2,894,307,699 914,746,573 32% 營業成本 1,527,760,293 1,269,954,135 257,806,158 20% 營業毛利 2,281,293,979 1,624,353,564 656,940,415 40% 營業費用 345,649,630 301,070,315 44,（單位：新台幣仟元；節錄自 年報 6.1 財務狀況比較表）",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "tsmc_AR2025_platform": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "依據產品平台來區分，高效能運算占58%、智慧型手機占29%、物聯網占5%、車用電子占5%。此外，消費性電子產品占1%，其他產品則為剩餘的2%。",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "tsmc_AR2025_adv": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "7奈米及以下先進製程技術對台積公司晶圓銷售貢獻 民國109年 41% 民國110年 50% 民國111年 53% 民國112年 58% 民國113年 69% 民國114年 74%；「先進製程技術（7奈米及以下先進製程）的銷售金額占整體晶圓銷售金額的74%，高於民國一百一十三年的69%。」",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "tsmc_AR2025_emp": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "截至民國一百一十四年底，台積公司之全球員工總數為9萬557人，其中包括9,582位主管人員、4萬4,690位專業人員、1萬1,368位助理人員以及2萬4,917位技術人員。",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "tsmc_AR2025_overseas": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "我們在亞利桑那州的第一座晶圓廠已經在民國一百一十三年第四季順利以優異的良率成功進入量產；我們正加速第二座晶圓廠的生產計劃，預計於民國一百一十六年下半年進入量產；第三座晶圓廠則已經於民國一百一十四年開始動工興建。…在日本，我們在熊本的第一座特殊製程技術晶圓廠已於民國一百一十三年底以非常好的良率開始量產，目前於熊本興建中的第二座晶圓廠正規劃將採用3奈米製程技術生產…在歐洲，我們在德國德勒斯登…（節錄自董事長／總裁致股東報告書，版面為多欄，句子依閱讀順序拼接）",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "tsmc_20F_FY2025_adv": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025（Item 4 technology share）",
+      "publisher": "TSMC",
+      "period": "FY2025，提交日 2026-04-16",
+      "accessed": "2026-11-10",
+      "quote": "In 2025 , the 3-nanometer, 5-nanometer and 7-nanometer revenues represented 24% , 36% and 14% of total wafer revenue, respectively. Advanced technologies (7-nanometer and below) accounted for 74% of total wafer revenue, up from 69% in 2024 . In 2024 , the 3-nanometer, 5-nanometer and 7-nanometer revenues represented 18% , 34% and 17% of total wafer revenue, respectively. Advanced technologies (7-nanometer and below) ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tsmc_20F_FY2025_rev": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025（net revenue）",
+      "publisher": "TSMC",
+      "period": "FY2025",
+      "accessed": "2026-11-10",
+      "quote": "NT$ 3,809,054 million (US$ 121,423 million) and NT$ 1,697,604 million (US$ 54,116 million) in 2025 , respectively. Please see “ – Year-to-Year Comparisons – Net Revenue” for a discussion of the change",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tsmc_20F_FY2018_adv": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312519108390/d665387d20f.htm",
+      "title": "TSMC Form 20-F FY2018（technology share）",
+      "publisher": "TSMC",
+      "period": "FY2018，提交日 2019-04-17",
+      "accessed": "2026-11-10",
+      "quote": "In 2018, the 7-nanometer revenue reached 9% of total wafer revenue. The 10-nanometer revenue was 11% and the combined 16/20-nanometer revenue represented 23% of total wafer revenue. Advanced technologies (28-nanometer and below) accounted for 63% of total wafer revenue, up from 58% in 2017. In 2017, the 10-nanometer revenue reached 10% of total wafer revenue. The combined 16/20-nanometer revenue represented 25% of to",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2018.htm"
+    },
+    "tsmc_20F_FY2019_adv": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312520107579/d831201d20f.htm",
+      "title": "TSMC Form 20-F FY2019（technology share）",
+      "publisher": "TSMC",
+      "period": "FY2019，提交日 2020-04-15",
+      "accessed": "2026-11-10",
+      "quote": "In 2019, the 7-nanometer revenue reached 27% of total wafer revenue. The 10-nanometer revenue was 3% and the 16-nanometer revenue represented 20% of total wafer revenue. Advanced technologies (16-nanometer and below) accounted for 50% of total wafer revenue, up from 41% in 2018. In 2018, the 7-nanometer revenue reached 9% of total wafer revenue. The 10-nanometer revenue was 11% and the 16-nanometer revenue represente",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2019.htm"
+    },
+    "tsmc_20F_FY2016_adv": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312517122097/d366455d20f.htm",
+      "title": "TSMC Form 20-F FY2016（technology share）",
+      "publisher": "TSMC",
+      "period": "FY2016，提交日 2017-04-13",
+      "accessed": "2026-11-10",
+      "quote": "In 2016, the combined 16/20-nanometer revenue represented 29% of total wafer revenue, up from 21% in 2015. Advanced technologies (28-nanometer and below) accounted for 55% of total wafer revenue, up from 48% in 2015. In 2015, the combined 16/20-nanometer revenue reached 21% of total wafer revenue, up from 9% in 2014. Advanced technologies (28-nanometer and below) accounted for 48% of total wafer revenue, up from 42% ",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2016.htm"
+    },
+    "tsmc_20F_FY2018_28nm": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000119312519108390/d665387d20f.htm",
+      "title": "TSMC Form 20-F FY2018（28nm and below）",
+      "publisher": "TSMC",
+      "period": "FY2018",
+      "accessed": "2026-11-10",
+      "quote": "Advanced technologies (28-nanometer and below) accounted for 63% of total wafer revenue, up from 58% in 2017. In 2017, the 10-nanometer revenue reached 10% of total wafer revenue. The combined 16/20-n",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2018.htm"
+    },
+    "tsmc_AR2020_16nm": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2020/2020Annual%20Report_C_%20.pdf",
+      "title": "台積公司 109年度（2020）年報",
+      "publisher": "TSMC",
+      "period": "民國109年度（2020）",
+      "accessed": "2026-11-10",
+      "quote": "先進製程技術（16奈米及以下先進製程）的銷售金額佔整體晶圓銷售金額的58%，高於民國一百零八年的50%。",
+      "raw_file": "data/industry/raw/tsmc-AR2020-C-wayback20220121.pdf",
+      "archive_url": "https://web.archive.org/web/20220121050442id_/https://investor.tsmc.com/sites/ir/annual-report/2020/2020Annual%20Report_C_%20.pdf",
+      "note": "同上：官方站 403，檔案取自 Internet Archive 存檔"
+    },
+    "pr_arizona": {
+      "url": "https://pr.tsmc.com/english/news/3210",
+      "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
+      "publisher": "TSMC 新聞中心",
+      "period": "Mar. 4, 2025（頁面標示 2025/03/04）",
+      "accessed": "2026-11-10",
+      "quote": "\"total investment in the U.S. is expected to reach US$165 billion\"；\"ongoing $65 billion investment in its advanced semiconductor manufacturing operations in Phoenix, Arizona\"；\"plans for three new fabrication plants, two advanced packaging facilities and a major R&D team center\"（引文為 WebFetch 回傳之原文片段）",
+      "note": "pr.tsmc.com 對 curl 回 Cloudflare 403，內容以 WebFetch 取得"
+    },
+    "pr_jasm": {
+      "url": "https://pr.tsmc.com/english/news/3105",
+      "title": "JASM Set to Expand in Kumamoto Japan",
+      "publisher": "TSMC 新聞中心",
+      "period": "Issued on: 2024/02/06",
+      "accessed": "2026-11-10",
+      "quote": "\"the overall investment in JASM will exceed US$20 billion\"；\"TSMC, SSS, DENSO and Toyota will hold equity stakes of approximately 86.5%, 6.0%, 5.5%, and 2.0% in JASM, respectively.\"；\"build a second fab, which is scheduled to begin operation by the end of the 2027 calendar year.\"（WebFetch 回傳之原文片段）"
+    },
+    "pr_esmc": {
+      "url": "https://pr.tsmc.com/english/news/3049",
+      "title": "TSMC, Bosch, Infineon, and NXP Establish Joint Venture to Bring Advanced Semiconductor Manufacturing to Europe",
+      "publisher": "TSMC 新聞中心",
+      "period": "Issued on: 2023/08/08",
+      "accessed": "2026-11-10",
+      "quote": "\"Total investments are expected to exceed 10 billion euros consisting of equity injection, debt borrowing\"；\"The planned joint venture will be 70% owned by TSMC, with Bosch, Infineon, and NXP each holding 10% equity stake\"；\"production targeted to begin by the end of 2027.\"；\"monthly production capacity of 40,000 300mm (12-inch) wafers\"（WebFetch 回傳之原文片段）"
+    },
+    "tsmc_20F_FY2025_subs": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025（Item 4 Our Subsidiaries and Affiliates）",
+      "publisher": "TSMC",
+      "period": "FY2025，截至 2026-02-28 持股",
+      "accessed": "2026-11-10",
+      "quote": "TSMC Arizona. In November 2020, we established TSMC Arizona (of which the manufacturing entity is Fab 21), a wholly-owned subsidiary that is expected to be primarily engaged in the manufacture and sale of integrated circuits. TSMC Arizona plans to build and operate multiple advanced semiconductor manufacturing facilities in Phoenix, Arizona. Our first facility successfully entered high volume production at the end of 2024. Construction of our second facility is ongoing, and the construction of our third facility commenced in 2025 . Furthermore, we acquired an additional parcel of land in 2026 to support our current expansion plans and provide more flexibility in response to strong customer demand. In November 2024, TSMC Arizona entered into a direct funding agreement (the “Direct Funding Agreement”) with the U.S. Department of Commerce (the “DOC”) under the U.S. CHIPS Act. Under this agr … As of February 28, 2026 , we owned approximat ely 72.6% of t … As of February 28, 2026 , we owned 70. 0 % of the equity interest in ESMC. ITEM 4A. UNRESO",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tsmc_20F_FY2025_re": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "title": "TSMC Form 20-F FY2025（Item 4 renewable energy）",
+      "publisher": "TSMC",
+      "period": "FY2025，提交日 2026-04-16",
+      "accessed": "2026-11-10",
+      "quote": "purchased renewable energy certificates and carbon credits globally in a total of 5,780 GWh, of which approximately 2,795 GWh enabled our overseas sites to be 100% powered by clean energy for the eighth consecutive year. As of the end of 2025 , we have signed power purchase agreements to purchase 7.3 GW of renewable energy, thereby eliminating an estimated 7.5 million metric to",
+      "raw_file": "data/industry/raw/sec-tsmc-20F-FY2025.htm"
+    },
+    "tf_2023_12": {
+      "url": "https://www.trendforce.com/presscenter/news/20231214-11959.html",
+      "title": "China and US Bolster Semiconductor Independence as Taiwan’s Foundry Capacity Share Projected to Decline to 41% by 2027, Says TrendForce",
+      "publisher": "TrendForce（集邦科技）新聞中心",
+      "period": "14 December 2023",
+      "accessed": "2026-11-10",
+      "quote": "\"Taiwan holds approximately 46% of global semiconductor foundry capacity.\"；\"the semiconductor production capacities of Taiwan and South Korea are projected to decrease to 41% and 10%.\"；\"In advanced manufacturing processes (including 16/14nm and more advanced technologies),\" Taiwan \"leads with a 68% global capacity share in 2023.\"；\"Taiwan holds nearly 80% when it comes to EUV generation processes (such as 7nm and beyond).\"；副標：\"Taiwan to concentrate 60% of advanced manufacturing processes by 2027, retaining a hold on key technologies.\"",
+      "note": "以 WebFetch 取得頁面，引文為回傳之原文片段"
+    },
+    "tf_2024_05": {
+      "url": "https://www.trendforce.com/news/2024/05/14/insights-trendforce-foundry-capacity-market-share-of-advanced-process-to-decline-in-taiwan-korea-until-2027-while-us-on-the-rise/",
+      "title": "[Insights] Trendforce: Foundry Capacity Market Share of Advanced Process to Decline in Taiwan, Korea until 2027, While US on the Rise",
+      "publisher": "TrendForce（集邦科技）新聞中心",
+      "period": "2024-05-14",
+      "accessed": "2026-11-10",
+      "quote": "\"Taiwan is expected to lead the global semiconductor foundry capacity in advanced manufacturing processes with a 66% market share\"；\"the semiconductor production capacities of advanced nodes in Taiwan and Korea are projected to decrease to 55% and 8%\"；\"Taiwan is expected to hold approximately 44% of global market share as of 2024\"；\"the overall semiconductor production capacities of Taiwan and South Korea are projected to decrease to 40% and 10%\"；另轉引 SIA/BCG（經朝鮮日報）：\"Taiwan and Korea held 69% and 31% shares of the production of the most advanced semiconductors below 10 nanometers\"；\"their market share on the advanced nodes may fall to 47% and 9% in 2032\"",
+      "note": "此頁為 TrendForce [Insights] 新聞稿；SIA/BCG 數字是二手轉引，未取得 SIA/BCG 原報告"
+    },
+    "tf_2022_04": {
+      "url": "https://www.trendforce.com/presscenter/news/20220425-11204.html",
+      "title": "Localization of Chip Manufacturing Rising. Taiwan to Control 48% of Global Foundry Capacity in 2022, Says TrendForce",
+      "publisher": "TrendForce（集邦科技）新聞中心",
+      "period": "25 April 2022",
+      "accessed": "2026-11-10",
+      "quote": "\"In 2022, Taiwan will account for approximately 48% of global 12-inch equivalent wafer foundry production capacity.\"；\"the market share of advanced processes below 16nm (inclusive) will be as high as 61%.\"；\"TrendForce estimates that the market share held by Taiwan's local foundry capacity will drop slightly to 44% in 2025\"；\"advanced manufacturing processes to approximately 58%.\"",
+      "note": "以 WebFetch 取得頁面，引文為回傳之原文片段"
+    },
+    "tf_2026_03": {
+      "url": "https://www.trendforce.com/presscenter/news/20260312-12965.html",
+      "title": "AI Demand Drives 4Q25 Global Top 10 Foundries Revenue Up 2.6% QoQ; Samsung Gains Share and Tower Moves Up in Rankings, Says TrendForce",
+      "publisher": "TrendForce（集邦科技）新聞中心",
+      "period": "12 March 2026",
+      "accessed": "2026-11-10",
+      "quote": "\"which allowed TSMC to maintain its leading position with a 70.4% market share.\"；\"pushed the combined revenue of the world’s top ten foundries up 2.6% QoQ to nearly US$46.3 billion in 4Q25.\"；\"The leading ten foundries achieved around $169.5 billion in revenue in 2025, a 26.3% YoY increase\"",
+      "note": "以 WebFetch 取得頁面，引文為回傳之原文片段"
+    },
+    "tf_2026_06": {
+      "url": "https://www.trendforce.com/presscenter/news/20260612-13095.html",
+      "title": "Strong AI Demand and Early Consumer Electronics Inventory Build Drive Top 10 Foundries to 3.7% QoQ Revenue Growth in 1Q26, Says TrendForce",
+      "publisher": "TrendForce（集邦科技）新聞中心",
+      "period": "12 June 2026",
+      "accessed": "2026-11-10",
+      "quote": "\"Market share expanded further to 72%, even during what is typically a weaker quarter.\"",
+      "note": "以 WebFetch 取得頁面，引文為回傳之原文片段"
+    },
+    "sr2025_energy": {
+      "url": "https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2025 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2025 年度（報告 2026 年發布，存檔日 2026-08-20）",
+      "accessed": "2026-11-10",
+      "quote": "In 2025, TSMC’s total energy consumption reached 30,990 GWh, with purchased electricity constituting approximately 92.8%, natural gas 7.1%, and diesel 0.1%.",
+      "raw_file": "data/industry/raw/tsmc-SR2025-E-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820040506id_/https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "sr2025_re": {
+      "url": "https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2025 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2025 年度（報告 2026 年發布，存檔日 2026-08-20）",
+      "accessed": "2026-11-10",
+      "quote": "In 2025, renewable energy accounted for 20.1% of the Company’s total global electricity consumption, while usage at Taiwan fabs increased to 2,940 GWh, representing 11.4% of total electricity consumption in Taiwan operations.",
+      "raw_file": "data/industry/raw/tsmc-SR2025-E-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820040506id_/https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "sr2025_chart": {
+      "url": "https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2025 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2025 年度（報告 2026 年發布，存檔日 2026-08-20）",
+      "accessed": "2026-11-10",
+      "quote": "能源消費堆疊圖（單位 100 GWh；圖例 Non-renewable energy／Renewable energy／Natural gases／Diesel oil）2023/2024/2025 欄位數字：0.01/0.2/0.2；15.4/19.0/22.0；25.9/36.1/57.8；206.3/219.4/229.9；再生能源占比 9.2%、10.4%、11.2%、14.1%、20.1%（2021–2025）。",
+      "raw_file": "data/industry/raw/tsmc-SR2025-E-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820040506id_/https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "sr2024_chart": {
+      "url": "https://esg.tsmc.com/file/public/2024-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2024 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2024 年度（存檔日 2025-10-20）",
+      "accessed": "2026-11-10",
+      "quote": "能源消費堆疊圖（單位 100 GWh）2021/2022 欄位數字：0.3/0.3；10.9/13.1；16.7/21.9；164.1/188.9；2024 年文字：\"In 2024, TSMC’s total energy consumption was 27,456 GWh, with purchased electricity, natural gases, and diesel accounting for approximately 93.0%, 6.9%, and 0.1%, respectively.\"",
+      "raw_file": "data/industry/raw/tsmc-SR2024-E-wayback20251020.pdf",
+      "archive_url": "https://web.archive.org/web/20251020034129id_/https://esg.tsmc.com/file/public/2024-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "sr2025_water": {
+      "url": "https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2025 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2025 年度（報告 2026 年發布，存檔日 2026-08-20）",
+      "accessed": "2026-11-10",
+      "quote": "Tap Water Consumption 圖（million m3）：Taiwan fabs 2021–2025 = 76.1、96.8、92.5、94.6、108.9；subsidiaries 2021–2025 = 6.7、7.8、8.5、14.6、18.2；Water consumption per wafer-layer（L/12-inch equivalent wafer mask layer）2021–2025 = 119.9、137.3、176.4、161.0、153.3；\"cumulative consumption reaching 23.53 million cubic meters in 2025 (including 22.73 million cubic meters of reclaimed water intake and 0.80 million cubic meters of water exchange), achieving a ... substitution rate of 18% at Taiwan fabs.\"（圖表由 pdftotext 抽取，列順序依標籤與總和交叉驗證；2025/2024 單位用水量 153.3/161.0 另見年報）",
+      "raw_file": "data/industry/raw/tsmc-SR2025-E-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820040506id_/https://esg.tsmc.com/file/public/2025-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "tsmc_AR2025_water": {
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "title": "台積公司 114年度（2025）年報",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "民國114年度（2025）",
+      "accessed": "2026-11-10",
+      "quote": "年度 總用水量（百萬立方公尺）（註一）單位產品用水量（公升／十二吋晶圓當量-光罩數）114年 151 153.3；113年 129 161.0。註一：包含台積公司台灣廠區與子公司自來水與再生水使用量總和。…「截至一百一十四年底已取用2,353萬立方公尺再生水，使台灣廠區的替代率達18%。」",
+      "raw_file": "data/industry/raw/tsmc-AR2025-C-wayback20260820.pdf",
+      "archive_url": "https://web.archive.org/web/20260820035808id_/https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "note": "官方網站對自動化下載回 Cloudflare 403；檔案取自 Internet Archive 對同一官方 URL 的存檔（2026-08-20），pdftotext 轉文字，逐字節錄"
+    },
+    "sr2024_reclaimed": {
+      "url": "https://esg.tsmc.com/file/public/2024-TSMC-Sustainability-Report-e.pdf",
+      "title": "TSMC 2024 Sustainability Report",
+      "publisher": "台灣積體電路製造股份有限公司（TSMC）",
+      "period": "2024 年度",
+      "accessed": "2026-11-10",
+      "quote": "\"Tainan fabs cumulatively consumed 19.65 million m3\"；\"achieving a reclaimed water replacement rate of 17%\"（節錄，2024 年）",
+      "raw_file": "data/industry/raw/tsmc-SR2024-E-wayback20251020.pdf",
+      "archive_url": "https://web.archive.org/web/20251020034129id_/https://esg.tsmc.com/file/public/2024-TSMC-Sustainability-Report-e.pdf",
+      "note": "官方站 403；檔案取自 Internet Archive 對同一官方 URL 的存檔，pdftotext -layout 轉文字（多欄版面，引句已依閱讀順序拼接）"
+    },
+    "moeaea_2025_power": {
+      "url": "https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=14436",
+      "title": "能源消費概況（民國114年）",
+      "publisher": "經濟部能源署",
+      "period": "民國114年（2025）；頁面內容更新 115-07-01",
+      "accessed": "2026-11-10",
+      "quote": "「以電力消費來看，民國114年總量為2,830億度，按部門別分，由大至小排列，依序為工業部門為1,573億度、占比為55.6%，」（WebFetch 回傳之原文）",
+      "note": "取自政府官方統計頁面，以 WebFetch 取得"
+    }
+  },
+  "tsmc": {
+    "years": [
+      {
+        "year": 2015,
+        "revenue_ntd_million": 843497.4,
+        "revenue_ntd_100m": 8434.974,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 257517,
+        "capex_usd_million": 8123,
+        "capex_source": "tsmc_20F_FY2015_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": null,
+        "advanced_null_reason": "20-F 與年報自 2018 年起才有「7奈米」營收占比；2015–2017 年報告中使用的是 16/20 奈米或 28 奈米以下口徑（見 advanced_other_definitions），不併入 7 奈米以下序列",
+        "employees_year_end": 45272,
+        "employees_source": "tsmc_20F_FY2015_employees"
+      },
+      {
+        "year": 2016,
+        "revenue_ntd_million": 947938.3,
+        "revenue_ntd_100m": 9479.383,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 328045,
+        "capex_usd_million": 10186,
+        "capex_source": "tsmc_20F_FY2016_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": null,
+        "advanced_null_reason": "20-F 與年報自 2018 年起才有「7奈米」營收占比；2015–2017 年報告中使用的是 16/20 奈米或 28 奈米以下口徑（見 advanced_other_definitions），不併入 7 奈米以下序列",
+        "employees_year_end": 46968,
+        "employees_source": "tsmc_20F_FY2016_employees"
+      },
+      {
+        "year": 2017,
+        "revenue_ntd_million": 977447.2,
+        "revenue_ntd_100m": 9774.472,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 330588,
+        "capex_usd_million": 10859,
+        "capex_source": "tsmc_20F_FY2017_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": null,
+        "advanced_null_reason": "20-F 與年報自 2018 年起才有「7奈米」營收占比；2015–2017 年報告中使用的是 16/20 奈米或 28 奈米以下口徑（見 advanced_other_definitions），不併入 7 奈米以下序列",
+        "employees_year_end": 48602,
+        "employees_source": "tsmc_20F_FY2019_employees"
+      },
+      {
+        "year": 2018,
+        "revenue_ntd_million": 1031473.6,
+        "revenue_ntd_100m": 10314.736,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 315582,
+        "capex_usd_million": 10463,
+        "capex_source": "tsmc_20F_FY2018_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 9,
+        "advanced_source": "tsmc_20F_FY2018_adv",
+        "employees_year_end": 48752,
+        "employees_source": "tsmc_20F_FY2019_employees"
+      },
+      {
+        "year": 2019,
+        "revenue_ntd_million": 1069985.4,
+        "revenue_ntd_100m": 10699.854,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 460422,
+        "capex_usd_million": 14903,
+        "capex_source": "tsmc_20F_FY2019_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 27,
+        "advanced_source": "tsmc_20F_FY2019_adv",
+        "employees_year_end": 51297,
+        "employees_source": "tsmc_20F_FY2019_employees"
+      },
+      {
+        "year": 2020,
+        "revenue_ntd_million": 1339254.8,
+        "revenue_ntd_100m": 13392.548,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 507239,
+        "capex_usd_million": 17235,
+        "capex_source": "tsmc_20F_FY2020_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 41,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 56831,
+        "employees_source": "tsmc_20F_FY2022_employees"
+      },
+      {
+        "year": 2021,
+        "revenue_ntd_million": 1587415.0,
+        "revenue_ntd_100m": 15874.15,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 839196,
+        "capex_usd_million": 30039,
+        "capex_source": "tsmc_20F_FY2021_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 50,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 65152,
+        "employees_source": "tsmc_20F_FY2022_employees"
+      },
+      {
+        "year": 2022,
+        "revenue_ntd_million": 2263891.3,
+        "revenue_ntd_100m": 22638.913,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 1082672,
+        "capex_usd_million": 36289,
+        "capex_source": "tsmc_20F_FY2022_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 53,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 73090,
+        "employees_source": "tsmc_20F_FY2022_employees"
+      },
+      {
+        "year": 2023,
+        "revenue_ntd_million": 2161735.8,
+        "revenue_ntd_100m": 21617.358,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 949817,
+        "capex_usd_million": 30448,
+        "capex_source": "tsmc_20F_FY2023_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 58,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 76478,
+        "employees_source": "tsmc_20F_FY2025_employees"
+      },
+      {
+        "year": 2024,
+        "revenue_ntd_million": 2894307.7,
+        "revenue_ntd_100m": 28943.077,
+        "revenue_source": "tsmc_xbrl_revenue",
+        "capex_ntd_million": 956007,
+        "capex_usd_million": 29755,
+        "capex_source": "tsmc_20F_FY2024_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 69,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 83825,
+        "employees_source": "tsmc_20F_FY2025_employees"
+      },
+      {
+        "year": 2025,
+        "revenue_ntd_million": 3809054.272,
+        "revenue_ntd_100m": 38090.54272,
+        "revenue_source": "tsmc_AR2025_revenue",
+        "revenue_note": "年報合併營業收入淨額 3,809,054,272 仟元；20-F 表列 NT$3,809,054 million",
+        "capex_ntd_million": 1272411,
+        "capex_usd_million": 40895,
+        "capex_source": "tsmc_20F_FY2025_capex",
+        "capex_note": "美元數字為 20-F 以當年加權平均匯率換算（該年 20-F 之 Item 5 句子）；非各季法說會逐季加總",
+        "advanced_7nm_and_below_pct_of_wafer_revenue": 74,
+        "advanced_source": "tsmc_AR2025_adv",
+        "employees_year_end": 90557,
+        "employees_source": "tsmc_20F_FY2025_employees"
+      }
+    ],
+    "advanced_other_definitions": {
+      "28nm_and_below_pct": {
+        "2015": 48,
+        "2016": 55,
+        "2017": 58,
+        "2018": 63,
+        "source": ["tsmc_20F_FY2016_adv", "tsmc_20F_FY2018_28nm"],
+        "note": "20-F FY2018 把 2016 修為 54%（FY2016 20-F 原寫 55%），兩版數字並存"
+      },
+      "16nm_and_below_pct": {
+        "2017": 32,
+        "2018": 41,
+        "2019": 50,
+        "2020": 58,
+        "source": ["tsmc_20F_FY2019_adv", "tsmc_AR2020_16nm"]
+      }
+    },
+    "platform_share_2025": {
+      "year": 2025,
+      "basis": "年報：營業收入淨額依產品平台區分",
+      "HPC": 58,
+      "smartphone": 29,
+      "IoT": 5,
+      "automotive": 5,
+      "DCE": 1,
+      "others": 2,
+      "source": "tsmc_AR2025_platform",
+      "older_years": null,
+      "older_years_reason": "本次只取最新年度（任務指定）；歷年平台別占比未逐年蒐集"
+    },
+    "employees_note": "來源為 20-F Item 6 全職員工年底人數（TSMC 及子公司合併口徑，2025 年與年報「全球員工總數 9萬557人」一致）；2015–2024 年報口徑未另逐年核對，2025 年兩源一致",
+    "employees_2025_annual_report": {
+      "value": 90557,
+      "source": "tsmc_AR2025_emp"
+    },
+    "overseas_fabs": [
+      {
+        "site": "美國亞利桑那州（TSMC Arizona，鳳凰城）",
+        "announced_investment": "累計規劃 US$165 billion（2025-03-04 宣布，在既有 US$65 billion 上再加 US$100 billion；含 3 座新晶圓廠、2 座先進封裝廠、1 個研發中心）",
+        "source_investment": "pr_arizona",
+        "status": "第一座晶圓廠 2024 年底量產；第二座預計 2027 下半年量產；第三座 2025 年動工；2026 年再購一塊土地",
+        "source_status": ["tsmc_AR2025_overseas", "tsmc_20F_FY2025_subs"],
+        "government_support": "美國商務部 CHIPS Act 直接補助最高 US$6.6 billion、貸款最高 US$5 billion（2024-11 簽約，20-F 原文）",
+        "note": "US$165B 是宣布的「計畫總額」，非已支出；2025 年全公司資本支出為 US$40.9B 全球合計"
+      },
+      {
+        "site": "日本熊本（JASM，Fab 23）",
+        "announced_investment": "兩座晶圓廠合計總投資超過 US$20 billion（2024-02-06 公告）",
+        "source_investment": "pr_jasm",
+        "status": "第一廠 2024-12 量產；第二廠 2025-10 動工；年報稱第二廠規劃改採 3 奈米（與 2024 年公告的 6/7 奈米不同，以年報為最新）",
+        "source_status": ["tsmc_AR2025_overseas", "tsmc_20F_FY2025_subs"],
+        "equity": "公告時 TSMC 86.5%／Sony 6.0%／DENSO 5.5%／Toyota 2.0%；20-F 載截至 2026-02-28 TSMC 持股約 72.6%（兩者口徑不同，後者為近期持股）",
+        "note": "2024 公告中第二廠製程為 6/7 奈米；年報 2025 稱 3 奈米"
+      },
+      {
+        "site": "德國德勒斯登（ESMC，Fab 24）",
+        "announced_investment": "總投資預計超過 10 billion euros（2023-08-08 公告；含股權投入、借款及歐盟與德國政府支持）",
+        "source_investment": "pr_esmc",
+        "status": "2024 年動工；公告目標 2027 年底量產、月產能 40,000 片 12 吋；年報：製造 28/22 奈米平面 CMOS 及 16/12 奈米 FinFET",
+        "source_status": ["tsmc_AR2025_overseas", "tsmc_20F_FY2025_subs"],
+        "equity": "TSMC 70%，Bosch／Infineon／NXP 各 10%（20-F 載截至 2026-02-28 為 70.0%）"
+      }
+    ],
+    "overseas_fabs_note": "投資金額均為各公司公開宣布的規劃數字，非實際已投入金額；任務要求的三地皆有官方來源。未列入：南京、上海、華盛頓州 Camas 既有廠"
+  },
+  "globalShare": {
+    "taiwan_capacity_share": [
+      {
+        "metric": "台灣占全球晶圓代工產能（整體）",
+        "year": 2022,
+        "value_pct": 48,
+        "basis": "12 吋約當產能（TrendForce 2022 稿）",
+        "forecast_for_2025_pct": 44,
+        "source": "tf_2022_04",
+        "published": "2022-04-25"
+      },
+      {
+        "metric": "台灣占全球晶圓代工產能（整體）",
+        "year": 2023,
+        "value_pct": 46,
+        "forecast_2027_pct": 41,
+        "source": "tf_2023_12",
+        "published": "2023-12-14"
+      },
+      {
+        "metric": "台灣占全球晶圓代工產能（整體）",
+        "year": 2024,
+        "value_pct": 44,
+        "forecast_2027_pct": 40,
+        "source": "tf_2024_05",
+        "published": "2024-05-14",
+        "note": "TrendForce 2023-12 稿預估 2027 為 41%，2024-05 稿改為 40%；兩個預估並列"
+      }
+    ],
+    "taiwan_advanced_process_share": [
+      {
+        "metric": "台灣占全球先進製程產能（TrendForce 定義：16/14nm 及更先進）",
+        "year": 2022,
+        "value_pct": 61,
+        "source": "tf_2022_04",
+        "published": "2022-04-25",
+        "forecast_for_2025_pct": 58,
+        "ambiguity": "原句 \"the market share of advanced processes below 16nm (inclusive) will be as high as 61%\" 位於 2022 年台灣產能脈絡，主語推定為台灣，原稿未明寫；請對照原頁確認"
+      },
+      {
+        "metric": "同上",
+        "year": 2023,
+        "value_pct": 68,
+        "forecast_2027_pct": 60,
+        "source": "tf_2023_12",
+        "published": "2023-12-14"
+      },
+      {
+        "metric": "同上",
+        "year": 2024,
+        "value_pct": 66,
+        "forecast_2027_pct": 55,
+        "source": "tf_2024_05",
+        "published": "2024-05-14"
+      },
+      {
+        "metric": "台灣占 EUV 世代製程（7nm 及更先進）產能",
+        "year": 2023,
+        "value_pct": 80,
+        "qualifier": "nearly 80%",
+        "source": "tf_2023_12",
+        "published": "2023-12-14"
+      }
+    ],
+    "taiwan_below_10nm_production_share": [
+      {
+        "metric": "台灣占 10nm 以下最先進晶片生產",
+        "year": 2022,
+        "value_pct": 69,
+        "qualifier": "原句為 Taiwan 與 Korea 分占 69% 與 31%",
+        "forecast_2032_pct": 47,
+        "source": "tf_2024_05",
+        "note": "二手：TrendForce 轉引 SIA/BCG（經朝鮮日報）；未取得 SIA/BCG 原報告。此口徑（<10nm、生產量）與上方 16/14nm 產能口徑不同，不可混用"
+      }
+    ],
+    "company_revenue_share_not_taiwan": [
+      {
+        "metric": "台積電占全球前十大晶圓代工營收",
+        "period": "2025Q4",
+        "value_pct": 70.4,
+        "source": "tf_2026_03",
+        "published": "2026-03-12",
+        "note": "這是單一公司（台積電）營收占比，不是「台灣」整體；台灣其他代工廠（聯電、世界先進、力積電）未在新聞稿原文取得合計數"
+      },
+      {
+        "metric": "同上",
+        "period": "2026Q1",
+        "value_pct": 72,
+        "source": "tf_2026_06",
+        "published": "2026-06-12",
+        "note": "同上"
+      }
+    ],
+    "taiwan_foundry_revenue_share": null,
+    "taiwan_foundry_revenue_share_reason": "TrendForce 公開新聞稿只給單一公司占比；「台灣整體」營收占比需完整前十名表加總，表在付費報告，未取得。",
+    "semi_or_sia_bcg_original": null,
+    "semi_or_sia_bcg_original_reason": "未找到 SEMI 對「台灣占先進製程產能」的公開句子；SIA/BCG 原報告未取得，只有 TrendForce 轉引的一句。",
+    "not_adopted_clues": [
+      "Sourceready（付費報告網站摘要）稱引 MIC 資料：2025 年台灣占全球 7nm 以下先進製程產能 63%——非官方、未驗證，不採用",
+      "ICAEW 產業簡介稱台灣占最先進製造產能 92%——口徑與出處未驗證，不採用"
+    ],
+    "note": "各來源口徑不同（總產能／先進製程產能／EUV 世代／<10nm 產量；預估 vs 實績），數字並列，不挑單一值。"
+  },
+  "energyWater": {
+    "electricity_by_year": [
+      {
+        "year": 2021,
+        "unit": "100 GWh（= 億度）",
+        "nonrenewable_electricity": 164.1,
+        "renewable_electricity": 16.7,
+        "natural_gas": 10.9,
+        "diesel": 0.3,
+        "renewable_share_of_electricity_pct": 9.2,
+        "electricity_total_derived": 180.8,
+        "derivation": "electricity_total_derived = nonrenewable + renewable（自圖表抽出數字相加，非報告明列的總量）",
+        "source": "sr2024_chart",
+        "chart_caveat": "圖表由 pdftotext 抽取，系列對應依 (a) 2025/2024 文字總量 30,990/27,456 GWh 與四項總和相符、(b) 再生比 9.2/10.4/11.2/14.1/20.1% 與各年 renewable/(renewable+nonrenewable) 相符 交叉確認"
+      },
+      {
+        "year": 2022,
+        "unit": "100 GWh（= 億度）",
+        "nonrenewable_electricity": 188.9,
+        "renewable_electricity": 21.9,
+        "natural_gas": 13.1,
+        "diesel": 0.3,
+        "renewable_share_of_electricity_pct": 10.4,
+        "electricity_total_derived": 210.8,
+        "derivation": "electricity_total_derived = nonrenewable + renewable（自圖表抽出數字相加，非報告明列的總量）",
+        "source": "sr2024_chart",
+        "chart_caveat": "圖表由 pdftotext 抽取，系列對應依 (a) 2025/2024 文字總量 30,990/27,456 GWh 與四項總和相符、(b) 再生比 9.2/10.4/11.2/14.1/20.1% 與各年 renewable/(renewable+nonrenewable) 相符 交叉確認"
+      },
+      {
+        "year": 2023,
+        "unit": "100 GWh（= 億度）",
+        "nonrenewable_electricity": 206.3,
+        "renewable_electricity": 25.9,
+        "natural_gas": 15.4,
+        "diesel": 0.01,
+        "renewable_share_of_electricity_pct": 11.2,
+        "electricity_total_derived": 232.2,
+        "derivation": "electricity_total_derived = nonrenewable + renewable（自圖表抽出數字相加，非報告明列的總量）",
+        "source": "sr2025_chart",
+        "chart_caveat": "圖表由 pdftotext 抽取，系列對應依 (a) 2025/2024 文字總量 30,990/27,456 GWh 與四項總和相符、(b) 再生比 9.2/10.4/11.2/14.1/20.1% 與各年 renewable/(renewable+nonrenewable) 相符 交叉確認"
+      },
+      {
+        "year": 2024,
+        "unit": "100 GWh（= 億度）",
+        "nonrenewable_electricity": 219.4,
+        "renewable_electricity": 36.1,
+        "natural_gas": 19.0,
+        "diesel": 0.2,
+        "renewable_share_of_electricity_pct": 14.1,
+        "electricity_total_derived": 255.5,
+        "derivation": "electricity_total_derived = nonrenewable + renewable（自圖表抽出數字相加，非報告明列的總量）",
+        "source": "sr2025_chart",
+        "chart_caveat": "圖表由 pdftotext 抽取，系列對應依 (a) 2025/2024 文字總量 30,990/27,456 GWh 與四項總和相符、(b) 再生比 9.2/10.4/11.2/14.1/20.1% 與各年 renewable/(renewable+nonrenewable) 相符 交叉確認",
+        "reported_total_energy_GWh": 27456,
+        "reported_total_source": "sr2024_chart"
+      },
+      {
+        "year": 2025,
+        "unit": "100 GWh（= 億度）",
+        "nonrenewable_electricity": 229.9,
+        "renewable_electricity": 57.8,
+        "natural_gas": 22.0,
+        "diesel": 0.2,
+        "renewable_share_of_electricity_pct": 20.1,
+        "electricity_total_derived": 287.7,
+        "derivation": "electricity_total_derived = nonrenewable + renewable（自圖表抽出數字相加，非報告明列的總量）",
+        "source": "sr2025_chart",
+        "chart_caveat": "圖表由 pdftotext 抽取，系列對應依 (a) 2025/2024 文字總量 30,990/27,456 GWh 與四項總和相符、(b) 再生比 9.2/10.4/11.2/14.1/20.1% 與各年 renewable/(renewable+nonrenewable) 相符 交叉確認",
+        "reported_total_energy_GWh": 30990,
+        "reported_total_source": "sr2025_energy"
+      }
+    ],
+    "electricity_2020": null,
+    "electricity_2020_reason": "2020 年數值只在 2024 年永續報告書的圖表中，圖表欄位無法可靠對應（抽出的數字序列與圖例無法交叉驗證），不填。",
+    "total_energy_reported_GWh": {
+      "2024": 27456,
+      "2025": 30990
+    },
+    "renewable_2025": {
+      "global_GWh": 5780,
+      "global_share_pct": 20.1,
+      "taiwan_fabs_GWh": 2940,
+      "taiwan_fabs_share_pct": 11.4,
+      "source": ["sr2025_re", "tsmc_20F_FY2025_re"],
+      "note": "20-F FY2025 同稱 5,780 GWh（含再生電力、憑證與碳權，定義見報告腳註）"
+    },
+    "share_of_taiwan_total_electricity": {
+      "official_statement": null,
+      "reason": "TSMC 報告書、台電、經濟部能源署均未直接公布「台積電占台灣總用電比重」。僅可用官方分子分母推算，且分子（台灣廠區用電）也非報告明列。",
+      "taiwan_total_electricity_2025_100M_kWh": 2830,
+      "taiwan_total_source": "moeaea_2025_power",
+      "derived_estimate": {
+        "tsmc_taiwan_fabs_electricity_GWh_derived": "2,940 GWh ÷ 11.4% ≈ 25,789 GWh（報告的 11.4% 與 2,940 GWh 反推；有四捨五入誤差，約±1%）",
+        "share_of_taiwan_total_derived_pct": "≈ 9.1%（25,789 GWh ÷ 283,000 GWh）",
+        "warning": "派生值，不是官方數字；若用全球用電 28,770 GWh（renewable+nonrenewable 相加）去除以台灣用電會得 10.2%，但分子含海外廠，口徑不對。媒體（自由時報等）有「約 10%」說法，屬二手，未採用。"
+      }
+    },
+    "water_by_year": [
+      {
+        "year": 2021,
+        "tap_water_taiwan_fabs_million_m3": 76.1,
+        "tap_water_subsidiaries_million_m3": 6.7,
+        "source": "sr2025_water",
+        "scope_note": "子公司含 TSMC (China)、TSMC (Nanjing)、TSMC Washington、TSMC Arizona、JASM、VisEra（報告圖註）"
+      },
+      {
+        "year": 2022,
+        "tap_water_taiwan_fabs_million_m3": 96.8,
+        "tap_water_subsidiaries_million_m3": 7.8,
+        "source": "sr2025_water",
+        "scope_note": "子公司含 TSMC (China)、TSMC (Nanjing)、TSMC Washington、TSMC Arizona、JASM、VisEra（報告圖註）"
+      },
+      {
+        "year": 2023,
+        "tap_water_taiwan_fabs_million_m3": 92.5,
+        "tap_water_subsidiaries_million_m3": 8.5,
+        "source": "sr2025_water",
+        "scope_note": "子公司含 TSMC (China)、TSMC (Nanjing)、TSMC Washington、TSMC Arizona、JASM、VisEra（報告圖註）"
+      },
+      {
+        "year": 2024,
+        "tap_water_taiwan_fabs_million_m3": 94.6,
+        "tap_water_subsidiaries_million_m3": 14.6,
+        "source": "sr2025_water",
+        "scope_note": "子公司含 TSMC (China)、TSMC (Nanjing)、TSMC Washington、TSMC Arizona、JASM、VisEra（報告圖註）",
+        "total_water_million_m3_annual_report": 129,
+        "unit_water_L_per_wafer_layer": 161.0,
+        "reclaimed_taiwan_cumulative_million_m3": 19.65,
+        "reclaimed_substitution_rate_pct": 17,
+        "source_total": "tsmc_AR2025_water",
+        "source_reclaimed": "sr2024_reclaimed"
+      },
+      {
+        "year": 2025,
+        "tap_water_taiwan_fabs_million_m3": 108.9,
+        "tap_water_subsidiaries_million_m3": 18.2,
+        "source": "sr2025_water",
+        "scope_note": "子公司含 TSMC (China)、TSMC (Nanjing)、TSMC Washington、TSMC Arizona、JASM、VisEra（報告圖註）",
+        "total_water_million_m3_annual_report": 151,
+        "unit_water_L_per_wafer_layer": 153.3,
+        "reclaimed_taiwan_million_m3": 23.53,
+        "reclaimed_substitution_rate_pct": 18,
+        "source_total": "tsmc_AR2025_water",
+        "source_reclaimed": "sr2025_water"
+      }
+    ],
+    "water_2020_2023": null,
+    "water_2020_2023_reason": "總用水量（含再生水）與再生水量僅在年報／報告書最近兩年表取得（2024、2025）；2021–2023 只有自來水分廠區圖表數據（見 water_by_year）；2020 年未取得。",
+    "reclaimed_note": "「2025 年 23.53 百萬立方公尺」在報告書原文為 \"cumulative consumption reaching ... in 2025\"，年報中文為「截至114年底已取用…」。累積起算點與是否為單年量，報告書未在該句交代，引用時請保留原文；替代率 18% 為台灣廠區。"
+  },
+  "notes": [
+    "【TSIA 口徑】以總部設立在台灣的公司為基準（海外廠區產值計入台灣公司，外商在台廠不計）；IC產業產值＝設計＋製造＋封裝＋測試；製造＝晶圓代工＋記憶體與其他製造。匯率以新聞稿所用（2025/2026 版 31.2）。",
+    "【版本】TSIA 每年二月新聞稿會修正前一年的預估。本檔每個年度取「最新一份載明該年數字的發布」：2010–2014 取 2015-02 稿（2010 年在 2012-03 稿為 17,537 億、2013-03 稿起為 17,693 億，取後者）；2015 取 2017-02 稿（與 2019-02 稿相同）；2016 取 2020-02 稿；2017–2020 取 2021-02 稿；2021 取 2022-02 稿；2022–2025 取 2026-02／2026-08 稿。所有重疊年度在不同版本間的數字一致（除上述 2010 年）。",
+    "【記憶體欄位名稱與斷點】2010–2016 原表欄位為 \"Brand Name\"（自有品牌，主要為記憶體），2017 起為「記憶體與其他製造」；TSIA 註明 2018 年起華亞科（美光子公司）不再計入台灣記憶體產值。2017 年（含）以前與 2018 年（含）以後的記憶體／IC產業總產值是否同口徑，文件未逐年說明，跨 2017/2018 年比較時請加註。",
+    "【年增率】yoy_pct 為新聞稿／統計表原載，非本檔重算。2010 年的 38.3% 以 2009 年（舊口徑）為基準。",
+    "【2025 年】2026-02 新聞稿全年欄位標 (e)，2026-05、2026-08 稿表中沿用同數字且不再標 (e)。2026 年為預估，TSIA／IEK 三次預估：77,150（2026-02）→84,450（2026-05）→91,904（2026-08，年增 40.9%）。",
+    "【台積電】營收為合併營收；2015–2024 取自 SEC 20-F 之 XBRL（元），2025 取自年報（仟元）。資本支出美元為 20-F 內以加權平均匯率換算的數字（例 2025：NT$1,272,411 million＝US$40,895 million，匯率 31.11），與法說會口徑的四捨五入值（US$40.9B）一致。員工數為 20-F 全職員工年底人數。",
+    "【7 奈米以下占比】為占「晶圓銷售金額」比重（不含其他營收）。2018 年與 2019 年的 9%、27% 只有 7nm 一節點；2020 年起 7nm＋5nm（＋3nm）合計。年報 2025 把 2020 年寫為 41%（7nm 33% ＋ 5nm 8%），與 20-F FY2020 之 \"7-nanometer 33%、5-nanometer 8%\" 相符。",
+    "【取得途徑】tsmc.com 與 esg.tsmc.com 對自動化下載回 Cloudflare 驗證頁（403），未嘗試繞過；PDF 改取 Internet Archive 對同一官方網址的存檔，並在 archive_url 標示。TSIA 舊稿（2010–2014）同為 Internet Archive 存檔的 tsia.org.tw 原檔，2015 以後多數可直接由 tsia.org.tw/api/DownloadPage?pageID=N 下載。",
+    "【未做】未逐年核對 2015–2024 年報口徑員工數與 20-F 是否完全一致（僅核對 2025）；未取得 TSMC 歷年平台別占比（任務只要最新）；2020 年用電與 2020–2023 年再生水量未取得（見各欄 reason）。"
+  ]
+}

@@ -1,15 +1,15 @@
 ---
-title: 'El sistema de jefes de aldea y barrio: 7,748 líderes electos, la unidad política más básica de Taiwán'
-description: 'Oficinas abiertas a las 5:30 a. m., NT$54,000 de subsidio mensual y más del 60 % sin partido: el jefe de barrio es el cargo menos «político» en las elecciones de Taiwán y la prueba más completa de su democratización.'
+title: 'Sistema de jefes de aldea y barrio: 7,748 líderes electos, la unidad política más básica de Taiwán'
+description: 'Los jefes de aldea y los jefes de barrio son líderes electos del mismo nivel, la diferencia radica en su jurisdicción: los municipios rurales establecen aldeas, mientras que los municipios especiales y los municipios condales establecen barrios, sumando un total de 7,748 en toda Taiwán. Según la Ley de Sistema Local, el mandato es de cuatro años, se permite la reelección sin límite de mandatos, y cada cuatro años se eligen junto con las elecciones unificadas de nueve cargos; la fecha de votación de 2026 es el 28 de noviembre. Los jefes de aldea y barrio son cargos no remunerados, reciben una asignación mensual para gastos de NT$54,000, que no se considera salario; más del 60 % no pertenece a ningún partido, y han evolucionado desde el sistema de baojia de la época colonial japonesa hasta convertirse en el cargo electo más básico de Taiwán.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'jefe de barrio',
-    'autonomía local',
-    'Ley de Instituciones Locales',
-    'sistema Baojia',
-    'elecciones 2026',
+    'Jefes de aldea y barrio',
+    'Autogobierno de base',
+    'Ley de Sistema Local',
+    'Baojia de la época colonial japonesa',
+    'Elecciones de 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:29:58+08:00'
+translatedAt: '2026-11-05T23:31:49.713321+00:00'
 ---
 
 # El sistema de jefes de aldea y barrio: 7,748 líderes electos, la unidad política más básica de Taiwán

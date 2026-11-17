@@ -3,7 +3,17 @@ title: 'AI 供應鏈海外設廠：台灣能力被世界請出去'
 description: 'AI 硬體供應鏈的海外設廠，不只是台積電赴美日德，也包括鴻海、緯創、台達、封測與伺服器供應商被客戶、關稅、補貼與地緣政治拉向美國、日本、歐洲、印度、東南亞與墨西哥。這篇文章從全球化、去風險化與供應鏈博弈說明：台灣企業出海，是能力的延伸，也是世界降低單點依賴的動作，不是一場單純的企業搬家。'
 date: 2026-07-11
 category: 'Technology'
-tags: ['AI硬體', '海外設廠', '半導體', '供應鏈', '台積電', '鴻海', '緯創', '台達電子']
+tags:
+  [
+    'AI硬體',
+    '海外設廠',
+    '半導體',
+    '供應鏈',
+    '台積電',
+    '鴻海',
+    '緯創',
+    '台達電子',
+  ]
 subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -18,6 +28,8 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: incubating
+curationReason: unverified
 ---
 
 # AI 供應鏈海外設廠：台灣能力被世界請出去
@@ -198,12 +210,21 @@ AI 供應鏈裡，不同環節的出海理由不一樣。
 ## 參考資料
 
 [^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — 美聯社報導 NVIDIA 在美國生產 Blackwell 晶片與 AI supercomputers，點名 TSMC Phoenix、Foxconn Houston、Wistron Dallas，以及 SPIL / Amkor 在 Arizona 的封裝測試合作。
+
 [^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — 美聯社報導 OpenAI 與鴻海合作設計、製造 AI data center racks，產品包含 cabling、networking、power systems，並提到鴻海美國設施分布。
+
 [^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — 報導台達電子在 Texas Plano 擴建製造與辦公設施，並整理其既有研發製造中心、後續園區規模與美國在地製造定位。
+
 [^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — 報導台達電子印度 Krishnagiri 廠擴建，說明其電信、資料中心、電動車與工業客戶需求，以及印度在地化供應鏈布局。
+
 [^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — 台積電官方亞利桑那頁面，說明 Phoenix 投資規模、六座晶圓廠、兩座先進封裝設施、N4/N3/N2/A16 時程與水回收規劃。
+
 [^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — 美聯社報導台積電計畫在日本熊本第二廠生產 3 奈米晶片，並整理日本經濟安全與 AI、機器人、自動駕駛需求。
+
 [^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC 官方網站說明其為 TSMC、Bosch、Infineon、NXP 合資公司，在德國德勒斯登建立晶圓廠以支援歐洲工業、IoT、通訊與汽車市場。
+
 [^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — 美聯社報導美國 CHIPS and Science Act 對台積電亞利桑那擴產提供補助，說明美國政府如何把先進晶片製造視為供應鏈安全與國家安全問題。
+
 [^9]: [TIME: 閱讀台灣總統賴清德接受《時代》雜誌採訪的全文](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — 《TIME》刊出的中文訪談全文中，賴清德談到半導體作為全球分工產業，以及政府如何看待台積電等半導體公司赴美、日、歐布局。
+
 [^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — 報導 Arizona 半導體聚落擴張帶來的就業、地方發展、水資源、環境與勞工安全爭議，可用於平衡海外設廠的地方社會視角。

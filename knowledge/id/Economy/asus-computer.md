@@ -1,6 +1,6 @@
 ---
-title: 'Komputer ASUS - Raksasa Teknologi dari Papan Induk'
-description: 'ASUS adalah merek asal Taiwan. Didirikan pada 1989 oleh empat insinyur di Taipei, perusahaan pembuat papan induk ini tumbuh menjadi pemasok komputer pribadi terbesar kelima di dunia.'
+title: 'ASUS: Dari Seorang Apartemen di Taipei, Menjadi Merek Taiwan Nomor Satu Motherboard di Dunia'
+description: 'ASUS adalah merek Taiwan, didirikan pada 1989 oleh empat insinyur bekas Acer di sebuah apartemen di Jalan Minsheng Timur, Taipei, dengan modal hanya NT$10 juta. Ia bermula dari motherboard, menguasai lebih dari empat puluh persen pangsa pasar motherboard global dan menduduki peringkat pertama selama 15 tahun berturut-turut, serta peringkat kelima global untuk pengiriman komputer pribadi. Berbeda dengan banyak perusahaan teknologi Taiwan, ASUS sejak awal memutuskan untuk mengelola merek sendiri, tidak hanya melakukan OEM murni; pada 2008 memisahkan bisnis OEM-nya menjadi Pegatron, sejak itu fokus mengelola merek.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -11,15 +11,15 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078ef'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-09-09T15:32:33+08:00'
 evolveHistory:
   - date: 2026-11-04
-    action: seo
-    reason: 'SC 28 天 1,123 曝光 1 點擊；查詢「asus dari mana」131、「asus produk negara mana」123 曝光。舊 description 寫 ASUS 起家於 Hsinchu，與內文（Taipei）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
+translatedFrom: 'Economy/台灣企業：華碩.md'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-06T00:18:17.742541+00:00'
 ---
 
 > **Gambaran 30 Detik**
@@ -28,11 +28,11 @@ evolveHistory:
 
 ## Mengapa ASUS Penting?
 
-Bayangkan Anda akan merakit komputer, merek papan induk apa yang paling membuat Anda tenang? Jawabannya mungkin adalah ASUS. Merek yang berasal dari Taiwan ini telah menjadi sinonim "kualitas" dan "inovasi" di mata pemain PC global, atlet esports, dan kreator.
+Bayangkan jika Anda ingin merakit sebuah komputer, merek papan induk apa yang paling menenangkan? Jawabannya kemungkinan besar adalah ASUS (華碩). Merek yang berasal dari Taiwan ini telah menjadi sinonim "kualitas" dan "inovasi" di hati para pemain PC, atlet e-sports, dan kreator di seluruh dunia.
 
-Namun cerita ASUS jauh lebih menarik daripada sekadar produsen papan induk. Ini adalah pionir transformasi industri teknologi Taiwan dari pabrik kontrak ke merek, dan salah satu dari sedikit perusahaan Taiwan yang dapat bersaing langsung dengan raksasa internasional seperti Apple, Samsung, dan Lenovo di pasar elektronik konsumen yang sengit.
+Namun kisah ASUS jauh lebih menarik dari sekadar produser papan induk. Ia adalah pelopor transformasi industri teknologi Taiwan dari OEM ke merek sendiri, dan juga salah satu sedikit perusahaan Taiwan yang mampu bersaing langsung dengan raksasa internasional seperti Apple, Samsung, dan Lenovo di pasar elektronik konsumen yang sangat kompetitif.
 
-Dari sebuah kelompok empat orang dalam apartemen di Hsinchu hingga kini menjadi kerajaan teknologi yang tersebar di 68 negara di seluruh dunia, lintasan pertumbuhan ASUS mencerminkan transformasi industri teknologi Taiwan selama lebih dari tiga dekade. Ketika "Taiwan No.1" telah menjadi permainan meme, ASUS memberikan jawaban yang berbeda melalui kinerja pasar aktual.
+Dari tim pendiri beranggotakan empat orang di sebuah apartemen di Jalan Minsheng Timur, Taipei, hingga hari ini menjadi kekaisaran teknologi yang menjangkau 68 negara di seluruh dunia, jejak pertumbuhan ASUS memantulkan perjalanan transformasi industri teknologi Taiwan selama lebih dari tiga puluh tahun. Saat "Taiwan No.1" telah menjadi meme game, ASUS memberikan jawaban yang berbeda dengan kinerja pasar yang nyata.
 
 ## Ringkasan Perusahaan: Dari Penguasa Papan Induk hingga Merek Teknologi Multifungsi
 

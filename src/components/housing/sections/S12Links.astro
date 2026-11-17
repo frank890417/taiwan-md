@@ -1,0 +1,134 @@
+---
+/**
+ * S12Links — 第 12 節：串聯。既有文章分組卡（網址照設計報告 2.1 的 A、B 級清單，且 knowledge/ 檔案存在才輸出），
+ * 另連站內資料專區。非中文語言沒有譯文時連中文版（見 utils/housing/related.ts），卡上標「中文」。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import { relatedList } from '../../../utils/housing/related';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s12;
+const GROUPS: { id: keyof typeof S.groups; items: [string, string][] }[] = [
+  {
+    id: 'system',
+    items: [
+      ['Society', '國宅與居住正義'],
+      ['Society', '居住正義'],
+      ['History', '台灣土地改革'],
+      ['History', '台灣眷村歷史'],
+      ['Society', '都市更新爭議'],
+    ],
+  },
+  {
+    id: 'scenes',
+    items: [
+      ['Society', '鐵皮屋'],
+      ['Society', '台南鐵路地下化'],
+      ['Society', '冷氣與能源貧窮議題'],
+      ['Society', '台灣原住民族土地正義與傳統領域'],
+      ['Geography', '樂生療養院'],
+      ['Geography', '寶藏巖'],
+      ['Geography', '四四南村'],
+    ],
+  },
+  {
+    id: 'places',
+    items: [
+      ['Geography', '林口新市鎮'],
+      ['Geography', '北大特區'],
+      ['Geography', '台灣都市發展與城鄉差距'],
+      ['Geography', '用數據看台灣22縣市'],
+      ['Geography', '新北市'],
+      ['Geography', '基隆市'],
+      ['Geography', '新竹縣'],
+      ['Geography', '苗栗縣'],
+      ['Geography', '板南線'],
+      ['Geography', '三鶯線'],
+    ],
+  },
+  {
+    id: 'people',
+    items: [
+      ['Society', '台灣的年級生世代'],
+      ['Society', '台灣斜槓世代'],
+      ['Society', '誰算低薪'],
+      ['Society', '台灣少子化危機'],
+    ],
+  },
+  {
+    id: 'buildings',
+    items: [
+      ['Lifestyle', '台灣騎樓文化與街景'],
+      ['Culture', '鐵窗花'],
+      ['Art', '台灣建築'],
+      ['Art', '戰後台灣現代主義建築群像'],
+      ['Technology', '台灣BIM與營建科技'],
+    ],
+  },
+];
+const groups = await Promise.all(
+  GROUPS.map(async (g) => ({ ...g, cards: await relatedList(lang, g.items) })),
+);
+const HUB: { id: keyof typeof S.hub; path: string }[] = [
+  { id: 'data', path: '/data/' },
+  { id: 'budget', path: '/budget/' },
+  { id: 'map', path: '/map/' },
+  { id: 'timeline', path: '/timeline/' },
+  { id: 'opendata', path: '/opendata/' },
+  { id: 'companies', path: '/companies/' },
+];
+---
+
+<section class="hs-section" id="links">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <div class="hs-linkgroups">
+      {
+        groups.map(
+          (g) =>
+            g.cards.length > 0 && (
+              <div class="hs-linkgroup">
+                <h3 class="hs-h3">{S.groups[g.id]}</h3>
+                <ul class="hs-cards">
+                  {g.cards.map((c) => (
+                    <li>
+                      <a class="hs-card" href={c.href}>
+                        <span class="hs-card-t">
+                          {c.title}
+                          {c.zhFallback && (
+                            <span class="hs-tag">{T.ui.zhOnly}</span>
+                          )}
+                        </span>
+                        {!(c.zhFallback && lang !== 'zh-TW') && (
+                          <span class="hs-card-d">{c.desc}</span>
+                        )}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ),
+        )
+      }
+    </div>
+    <h3 class="hs-h3">{S.hubTitle}</h3>
+    <ul class="hs-hub">
+      {
+        HUB.map((h) => (
+          <li>
+            <a class="hs-hubcard" href={localizePath(h.path, lang)}>
+              <span class="hs-card-t">{S.hub[h.id].t}</span>
+              <span class="hs-card-d">{S.hub[h.id].d}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>

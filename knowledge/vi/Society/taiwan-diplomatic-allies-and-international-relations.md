@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T12:07:07.589856+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T03:21:29.351533+00:00'
 ---
 
 # Ngoại giao quốc tế và các nước bang giao của Đài Loan: 12 nước bang giao, 113 cơ quan đại diện, miễn thị thực tại 177 quốc gia
@@ -216,16 +216,18 @@ Hai bước phát triển trong những năm gần đây:
 
 **Bản thân việc Hoa Kỳ bảo vệ các nước bang giao của Đài Loan** đã là dấu hiệu cho thấy một nước không có quan hệ ngoại giao tham gia sâu vào công việc ngoại giao của Đài Loan — trong quan niệm truyền thống, vấn đề bang giao lẽ ra phải do hai quốc gia có quan hệ ngoại giao với nhau xử lý.
 
-## Hộ chiếu có thể đến 177 quốc gia: một thước đo khác của sự công nhận
+## Hộ chiếu đi được 177 quốc gia: Một thước đo khác về sự được công nhận
 
-Theo thống kê chính thức của Bộ Ngoại giao ngày 30 tháng 1 năm 2026, hộ chiếu Trung Hoa Dân Quốc được hưởng các tiện ích như miễn thị thực, thị thực tại cửa khẩu và thị thực điện tử để nhập cảnh **177 quốc gia và vùng lãnh thổ** trên thế giới[^37].
+Bộ Ngoại giao ngày 30 tháng 1 năm 2026 thống kê chính thức: Hộ chiếu Trung Hoa Dân Quốc (Đài Loan) được hưởng các ưu đãi miễn thị thực, thị thực tại cửa khẩu, thị thực điện tử, có thể nhập cảnh **177 quốc gia và vùng lãnh thổ** trên toàn cầu[^37].
 
-Chỉ số xếp hạng hộ chiếu Henley Passport Index năm 2026 xếp hộ chiếu Đài Loan ở khoảng vị trí thứ 33 thế giới, gần với Nhật Bản và Hàn Quốc.
+Chỉ số Hộ chiếu Henley (Henley Passport Index) năm 2026 xếp hạng hộ chiếu Đài Loan ở khoảng thứ 33 toàn cầu, ngang ngửa với Nhật Bản và Hàn Quốc.
 
-Phần lớn trong số 177 quốc gia này không có quan hệ ngoại giao với Đài Loan. **Điều giúp hộ chiếu được chấp nhận không phải là bang giao, mà là lòng tin song phương, liên kết kinh tế, tỷ lệ tội phạm thấp và hồ sơ di cư bất hợp pháp thấp.** Tỷ lệ giữa số nước bang giao và số quốc gia mà hộ chiếu có thể đến là 12:177 — xấp xỉ 1:15.
+Trong 177 quốc gia và vùng lãnh thổ này, **phần lớn** không thiết lập quan hệ ngoại giao với Đài Loan. **Điều cho phép hộ chiếu thông hành không phải là quan hệ ngoại giao, mà là sự tin cậy song phương, liên kết kinh tế, tỷ lệ tội phạm thấp, tiền án nhập cư trái phép thấp.** Tỷ lệ giữa số quốc gia bang giao và số quốc gia hộ chiếu có thể đi là 12:177 — khoảng 1:15.
+
+Con số này dễ bị hiểu nhầm là "hộ chiếu thông hành toàn cầu", nên cần làm rõ hai điểm. Thứ nhất, **177 không phải là tất cả đều miễn thị thực**: Cục Lãnh sự Bộ Ngoại giao gộp ba loại ưu đãi miễn thị thực, thị thực tại cửa khẩu, thị thực điện tử vào cùng một danh sách, thị thực tại cửa khẩu và thị thực điện tử vẫn phải làm thủ tục, vẫn có thể bị từ chối[^37]. Thứ hai, các quốc gia và vùng lãnh thổ ngoài danh sách chính là nhóm yêu cầu xin thị thực trước, và bản thân danh sách này có thể thay đổi — bài viết trích dẫn phiên bản ngày 30 tháng 1 năm 2026, Cục Lãnh sự đã cập nhật tiếp vào ngày 22 tháng 10 năm 2026[^37]. Người đi cần tham khảo thông báo mới nhất của quốc gia nhập cảnh, đừng lấy bài viết này làm chuẩn.
 
 > **⚠️ Một nghịch lý**
-> Độ dài danh sách các nước bang giao tỷ lệ nghịch với khả năng di chuyển quốc tế thực tế của công dân. Số nước bang giao tăng lên phần lớn vì một quốc gia nhỏ đồng ý thiết lập quan hệ sau khi đạt thỏa thuận viện trợ; số quốc gia mà hộ chiếu có thể đến tăng lên nhờ hình ảnh quốc gia, hồ sơ an ninh và nguyên tắc thị thực có đi có lại. Điều thứ hai khó đạt hơn, nhưng cũng đáng tin cậy hơn.
+> Độ dài danh sách quốc gia bang giao với khả năng di chuyển quốc tế thực tế của công dân呈 mối quan hệ nghịch biến。Số lượng quốc gia bang giao tăng lên đa số là do các quốc gia nhỏ đồng ý thiết lập quan hệ sau khi đàm phán viện trợ tài chính; số lượng quốc gia hộ chiếu có thể đi tăng lên là nhờ hình ảnh quốc gia, tiền án an ninh, nguyên tắc đối等 thị thực。Việc sau khó khăn hơn việc trước, nhưng cũng đáng tin cậy hơn。
 
 ## Lá chắn silicon: 90%, 30% và lưỡi gươm hai mặt
 
@@ -266,29 +268,28 @@ Chừng nào còn duy trì 12 nước bang giao, lập luận này không thể 
 
 ```
 12             113            177
-Nước bang giao   Cơ quan đại diện  Số quốc gia
-                                  hộ chiếu có thể đến
+nước bang giao  cơ quan đại diện  nhập cảnh miễn thị thực
 ```
 
-12 quốc gia công nhận chính phủ Trung Hoa Dân Quốc (Đài Loan) là "chính phủ hợp pháp của Trung Quốc".
-113 cơ quan đại diện đang thay mặt Đài Loan xử lý các nghiệp vụ thực tế trên thế giới.
-177 quốc gia không công nhận Trung Hoa Dân Quốc, nhưng vẫn cho phép công dân Đài Loan bước vào.
+12 quốc gia công nhận chính phủ Trung Hoa Dân Quốc (Đài Loan) là "chính phủ hợp pháp của Trung Quốc"[^16].
+113 cơ quan đại diện trên thế giới đại diện cho Đài Loan xử lý nghiệp vụ thực tế[^34].
+177 quốc gia và vùng lãnh thổ không công nhận Trung Hoa Dân Quốc, nhưng cho phép công dân Đài Loan nhập cảnh miễn thị thực, thị thực tại cửa khẩu hoặc thị thực điện tử[^37].
 
-Nghị quyết 2758 đã được Nghị viện châu Âu thông qua với 432 phiếu thuận và 275 chống. Khi Thái Anh Văn (Tsai Ing-wen) rời nhiệm sở vào tháng 5 năm 2024, số nước bang giao là 12; sau khi từ nhiệm, bà đã nhận lời mời thăm Nghị viện châu Âu vào tháng 10. Bonnie Glaser từng nói rằng sự phụ thuộc vào TSMC đã có một khoảnh khắc [đạt đỉnh]. Mark Lambert cũng từng khẳng định Nghị quyết 2758 không hề nhắc đến Đài Loan.
+Nghị viện châu Âu 432 phiếu thuận thông qua nghị quyết phản đối 2758[^3]. Khi Thái Anh Văn rời nhiệm tháng 5 năm 2024, nước bang giao 12; sau khi rời nhiệm tháng 10 được mời thăm Nghị viện châu Âu. Bonnie Glaser từng nói sự phụ thuộc vào TSMC đã có một khoảnh khắc. Mark Lambert từng nói 2758 không đề cập đến Đài Loan.
 
-Những điều này đang diễn ra đồng thời. Không tồn tại một khái niệm nào gọi là "vị thế quốc tế của Đài Loan".
+Những việc này xảy ra cùng lúc. Không có một đường nào gọi là "vị thế quốc tế của Đài Loan".
 
-Nếu có, thì thứ đó không phải là 12, cũng không phải 113, không phải 177, cũng không phải 90% hay 30%.
+Nếu có, thứ đó không phải là 12, cũng không phải 113, cũng không phải 177, cũng không phải 90% hay 30%.
 
-Nó chính là khoảng cách giữa những con số này.
+Đó là khoảng cách giữa những con số này.
 
 **Đọc thêm**:
 
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Khi chỉ còn 12 nước bang giao, tự vệ quân sự là một trụ cột khác để duy trì trạng thái "không phải bằng 0"
-- [Khủng hoảng eo biển Đài Loan và sự phát triển quan hệ hai bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Ba cuộc khủng hoảng đã định hình sự cô lập ngoại giao và nỗi lo ngại an ninh của Đài Loan như thế nào
-- [TSMC](/vi/economy/tsmc) — Nền tảng vật chất của "lá chắn silicon" và sự mong manh mang tính cấu trúc của nó
-- [Trác Vinh Thái (Zhuo Rongtai)](/vi/people/cho-jung-tai) — Quỹ đạo thuế quan Mỹ-Đài Loan từ 32% $\rightarrow$ 20% $\rightarrow$ 15% vào năm 2026 + Điều phối viên nội các trong chuyến thăm Swaziland của Lại Thanh Đức
-- [Đài Loan và Swaziland](/vi/society/taiwan-eswatini-relations) — Câu chuyện trọn vẹn suốt 58 năm từ khi thiết lập quan hệ ngoại giao cùng ngày vào năm 1968 cho đến chuyến thăm của Lại Thanh Đức vào năm 2026, với châu Phi là mảnh ghép duy nhất còn lại trong số 12 nước bang giao
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Khi nước bang giao chỉ còn 12, tự vệ quân sự là trụ cột khác duy trì "không phải 0"
+- [Khủng hoảng Biển Đài và phát triển quan hệ hai bên bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Ba lần khủng hoảng như thế nào định hình sự cô lập ngoại giao và lo ngại an ninh của Đài Loan
+- [TSMC](/vi/economy/tsmc) — Cơ sở vật chất của Khiên silic và sự mong manh cấu trúc của nó
+- [Trác Vinh Thái](/vi/people/cho-jung-tai) — Quỹ đạo thuế quan Mỹ-Đài 2026 32→20→15% + người điều phối nội các cho chuyến thăm Eswatini của Lại Thanh Đức
+- [Đài Loan và Eswatini](/vi/society/taiwan-eswatini-relations) — Mảnh đất duy nhất tại châu Phi trong 12 nước bang giao, từ ngày thiết lập quan hệ ngoại giao cùng nhau năm 1968 đến chuyến thăm 2026 của Lại Thanh Đức, câu chuyện trọn vẹn 58 năm
 
 ## Tài liệu tham khảo
 

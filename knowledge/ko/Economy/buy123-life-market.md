@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-14T00:53:27+08:00'
+translatedAt: '2026-11-07T00:23:57.161548+00:00'
 ---
 
 2013년, 생활 시장이 설립되어 창업가 디지털 주식회사 산하의 전자상거래 플랫폼이 되었다. 2020년이 되자 그곳에 올라온 상품은 생활용품에 그치지 않았고, 3C와 식품 등 본래 핵심 품목이 아니던 것들이 전체 매출의 약 3~4할을 차지했다. 2023년 10월 12일, 다시 진열대를 해외로 뻗어 해외 직송을 선보였다.[^1] [^2] [^7]

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-09-09T15:32:21+08:00'
+translatedAt: '2026-11-05T22:18:31.024985+00:00'
 ---
 
 > **30 सेकंड की समीक्षा:**
@@ -80,30 +82,30 @@ translatedAt: '2026-09-09T15:32:21+08:00'
 
 ---
 
-## संदर्भ
+## संदर्भ सामग्री
 
-[^1]: [YouTuber हुआंग ब्रदर्स साक्षात्कार: दर्शकों के साथ विकास की सृजनात्मक यात्रा](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — TechBang (विवरण के लिए मूल लिंक में सामग्री पूरक देखें)
+[^1]: [यूट्यूबर हुआंग ब्रदर्स साक्षात्कार: दर्शकों के साथ संयुक्त रूप से विकसित होने की रचनात्मक यात्रा](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦（विस्तृत जानकारी के लिए मूल लिंक देखें）
 
-[^2]: [20 महीने तक छुट्टी नहीं! हुआंग ब्रदर्स सृजन के कठिन इतिहास को याद करते हैं](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [20 महीनों से कोई छुट्टी नहीं! हुआंग ब्रदर्स ने रचनात्मक संघर्ष का इतिहास याद किया](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【भाई दान करते हैं】ग्रामीण प्राथमिक विद्यालय को पूरे दिन के लिए बुक करना](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — हुआंग ब्रदर्स YouTube चैनल
+[^3]: [【भाई करते हैं परोपकार】पूरे दिन के लिए ग्रामीण प्राथमिक विद्यालय बुक किया](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — हुआंग ब्रदर्स यूट्यूब चैनल
 
-[^4]: [करना हो तो सबसे अच्छा करो! YouTuber हुआंग ब्रदर्स विभिन्न प्रयास, पूर्णता की खोज](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [करना है तो सर्वश्रेष्ठ करो! यूट्यूबर हुआंग ब्रदर्स ने बहु-प्रयास किए, पूर्णता की खोज](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [दस लाख प्रशंसक YouTuber कैसे बनते हैं? हुआंग ब्रदर्स का साक्षात्कार](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [लाखों सब्सक्राइबर वाला यूट्यूबर कैसे बना? हुआंग ब्रदर्स का विशेष साक्षात्कार](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [हुआंग ब्रदर्स से निष्पादन शक्ति सीखें | आकाश के पीछे सटीक आत्म-स्थिति छिपी है](https://premium.parenting.com.tw/article/5087793) — पेरेंटिंग (विवरण के लिए मूल लिंक में सामग्री पूरक देखें)
+[^6]: [हुआंग ब्रदर्स से क्रियान्वयन शक्ति सीखें｜उड़ान भरने वाली कल्पना के पीछे सटीक आत्म-स्थिति छिपी है](https://premium.parenting.com.tw/article/5087793) — पेरेंटिंग वर्ल्ड（विस्तृत जानकारी के लिए मूल लिंक देखें）
 
-[^7]: [वेइवेई को बलपूर्वक आउट किया गया वह गुस्से से बोले: मूलतः बलात्कार-शैली सार्वजनिकता](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo समाचार
+[^7]: [वेई वेई को जबरन आउट किया गया, वह क्रोधित: सरासर बलात्कार जैसा खुलासा](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — याहू न्यूज़
 
-[^8]: [इस रिपोर्ट के बारे में, मैं परिवार से कुछ कहना चाहता हूँ【हुआंग ब्रदर्स】](https://www.youtube.com/watch?v=jo7ggR1f54s) — हुआंग ब्रदर्स YouTube वीडियो
+[^8]: [रिपोर्टिंग के बारे में, मैं परिवार से कहना चाहता हूँ【हुआंग ब्रदर्स】](https://www.youtube.com/watch?v=jo7ggR1f54s) — हुआंग ब्रदर्स यूट्यूब वीडियो
 
-[^9]: [हुआंग ब्रदर्स वेइवेई «बलपूर्वक आउटिंग» आपको क्षमा माँगने की ज़रूरत नहीं](https://newslab.pts.org.tw/news/216) — पब्लिक टेलीविजन समाचार
+[^9]: [हुआंग ब्रदर्स के वेई वेई 'आउट किए गए' तुम्हें माफी मांगने की जरूरत नहीं](https://newslab.pts.org.tw/news/216) — पब्लिक टीवी न्यूज़
 
-[^10]: [2 मिलियन YouTuber वेइवेई हुआंग टिंगवेई «सृजन गायक» बन गए पहला व्यक्तिगत EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV ताइवान
+[^10]: [20 लाख यूट्यूबर वेई वेई हुआंग ने वेई को 'रचनात्मक गायक' के रूप में पहली व्यक्तिगत EP जारी करने में समर्थन किया](https://www.mtv.com.tw/news/newsdetail/10063) — MTV ताइवान
 
-[^11]: [हुआंग ब्रदर्स कमजोर विद्यार्थियों के लिए लोगों को प्रोत्साहित करते हैं Red Heart Charity दान राजदूत नियुक्त](https://money.udn.com/money/story/5723/8957929) — आर्थिक दैनिक (आर्थिक दैनिक रिपोर्ट)
+[^11]: [हुआंग ब्रदर्स ने जनता से वंचित छात्रों को प्रोत्साहित करने का आह्वान किया, रेड हार्ट फाउंडेशन के चैरिटी राजदूत बने](https://money.udn.com/money/story/5723/8957929) — इकोनॉमिक डेली न्यूज़（इकोनॉमिक डेली न्यूज़ रिपोर्ट）
 
-[^12]: [【KOL में कार्यरत】हुआंग ब्रदर्स स्वीकार करते हैं कि उन्होंने «पापा-माँ को पहली सील» लड़ाई में अतिक्रमण किया](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo समाचार
+[^12]: [【KOL ऑपरेशन में】हुआंग ब्रदर्स ने खुद खुलासा किया कि प्रैंक कभी सीमा पार कर गया था](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — याहू न्यूज़
 
-[^13]: [शुধु मज़ेदार वीडियो नहीं, YouTubers सामाजिक जिम्मेदारी निभाते हैं](https://csr.cw.com.tw/article/41369) — कॉमनवेल्थ CSR
+[^13]: [सिर्फ कॉमेडी वीडियो नहीं, यूट्यूबर प्रभाव डालकर सामाजिक जिम्मेदारी निभाते हैं](https://csr.cw.com.tw/article/41369) — कॉमनवेल्थ पत्रिका CSR

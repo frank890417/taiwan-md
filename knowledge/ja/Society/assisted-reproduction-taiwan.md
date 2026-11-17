@@ -1,20 +1,22 @@
 ---
 title: '台湾の人工生殖：胚は国境を越えても、家庭は法を超えられない'
 description: '2020年、レズビアンカップルがIVFのためにカンボジアへ渡航し4年間で約200万新台幣を費やしました。台湾には人工生殖法がありますが、法律が追いついていないのは生殖方法だけでなく、「誰が家庭として認められるか」という点です。'
-category: 'Society'
-subcategory: '人權與平等'
-tags: ['人工生殖', '体外受精', '生殖の権利', '同性婚', '少子化']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 10
+category: 'Society'
+tags: ['人工生殖', '体外受精', '生殖の権利', '同性婚', '少子化']
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-17T06:43:35+08:00'
+translatedAt: '2026-11-06T08:17:47.849072+00:00'
 ---
 
 > **30秒概覧：** 2020年、レズビアンカップルであるMotaさんとCityさんはカンボジアでIVFを受け、4年間で約200万新台幣を費やしました。台湾の医療技術はすでに成熟しているにもかかわらず、法律は長らく異性間の結婚した夫婦のみに適用されてきました。本稿では、「子どもが生まれるか否か」ではなく、誰が診察室に入り、子どもが生まれた後に誰が法的に認められるのか、そして代理母が生み出す難題について考察します[^1]。
