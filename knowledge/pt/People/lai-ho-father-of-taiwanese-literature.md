@@ -93,7 +93,7 @@ Após a guerra, Lai Ho foi incluído no Templo dos Mártires em 1951, removido p
 
 [^12]: [Soka Taiwan 〈Lai Ho: Um Humanista em Ação〉](https://www.twsgi.org.tw/index-author.php?author_id=129) — Coluna de crítica literária sobre Lai Ho; ver detalhes no link original.
 
-[^8]: [Lai Ho — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Dados biográficos básicos (1894-1943), graduação médica e estágio no Hospital de Chiayi.
+[^2]: [Lai Ho — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Dados biográficos básicos (1894-1943), graduação médica e estágio no Hospital de Chiayi.
 
 [^3]: [Memória de Taiwan — Biblioteca Nacional](https://tm.ncl.edu.tw/) — + [Acervo Open Museum Lai Ho](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Registros do serviço de Lai Ho no Hospital Bo'ai em Xiamen, 1918.
 

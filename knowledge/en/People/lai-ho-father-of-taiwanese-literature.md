@@ -93,7 +93,7 @@ After the war, Lai He was enshrined in the Shrine of Martyrs in 1951, removed du
 
 [^12]: [Soka Gakkai Taiwan, "Lai He: An Active Humanist"](https://www.twsgi.org.tw/index-author.php?author_id=129) — Literary critique column on Lai He: see original link for details.
 
-[^8]: [Lai He — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Biographical data: 1894–1943, medical school graduation, internship at Chiayi Hospital, etc.
+[^2]: [Lai He — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Biographical data: 1894–1943, medical school graduation, internship at Chiayi Hospital, etc.
 
 [^3]: [Taiwan Memory — National Central Library](https://tm.ncl.edu.tw/) — + [Open Museum Lai He Collection](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Records of his service at Boai Hospital on Gulangyu Island, Xiamen, in 1918
 

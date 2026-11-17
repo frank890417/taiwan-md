@@ -86,14 +86,14 @@ Von den beschämenden Boykott-Plakaten an japanischen Flughäfen in den 1990er J
 
 [^11]: [Interview: Zurück zum Tag Null mit „Twelve Nights“](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Details siehe ergänzende Informationen im Original-Link.
 
-[^12]: [Wenn Zwischenstationen zu Endstationen werden: Ein Blick auf die Wahrheit in staatlichen Tierheimen nach dem Ende von „Twelve Nights“](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Details siehe ergänzende Informationen im Original-Link.
+[^7]: [Wenn Zwischenstationen zu Endstationen werden: Ein Blick auf die Wahrheit in staatlichen Tierheimen nach dem Ende von „Twelve Nights“](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Details siehe ergänzende Informationen im Original-Link.
 
-[^13]: [Wessen Zuhause ist der Wildnisraum? – Häufige Angriffe durch Hunde; ökologische und öffentliche Gesundheitskrise durch Konflikte zwischen streunenden Hunden und Wildtieren](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Details siehe ergänzende Informationen im Original-Link.
+[^12]: [Wessen Zuhause ist der Wildnisraum? – Häufige Angriffe durch Hunde; ökologische und öffentliche Gesundheitskrise durch Konflikte zwischen streunenden Hunden und Wildtieren](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Details siehe ergänzende Informationen im Original-Link.
 
-[^14]: [Über die Hälfte der geretteten Schuppentiere und 1/3 der freigelassenen Nebelparder wurden durch Hunde getötet; das Forschungszentrum klagt über willkürliche Fütterung](https://www.agriharvest.tw/archives/102801/) — Fachartikel der Agrarmedien.
+[^13]: [Über die Hälfte der geretteten Schuppentiere und 1/3 der freigelassenen Nebelparder wurden durch Hunde getötet; das Forschungszentrum klagt über willkürliche Fütterung](https://www.agriharvest.tw/archives/102801/) — Fachartikel der Agrarmedien.
 
-[^15]: [Taiwan Clouded Leopard Conservation Association: Aktiveres Management für streunende Hunde und Katzen erforderlich](https://www.twlcat.org/2025/07/4830/) — Details siehe ergänzende Informationen im Original-Link.
+[^14]: [Taiwan Clouded Leopard Conservation Association: Aktiveres Management für streunende Hunde und Katzen erforderlich](https://www.twlcat.org/2025/07/4830/) — Details siehe ergänzende Informationen im Original-Link.
 
-[^16]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Details siehe ergänzende Informationen im Original-Link.
+[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Details siehe ergänzende Informationen im Original-Link.
 
-[^17]: [Tierschutzgesetz - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia-Eintrag.
+[^9]: [Tierschutzgesetz - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia-Eintrag.

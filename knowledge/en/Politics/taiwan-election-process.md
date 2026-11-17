@@ -95,54 +95,54 @@ The results become clear on the night of the election, followed by official anno
 
 [^1]: [Statistics on Voter Turnout in Past Presidential Elections](https://web.cec.gov.tw/preview/cms/35164) — Central Election Commission
 
-[^2]: [Printing Quantity of the 2024 Presidential Election Bulletin](https://www.cna.com.tw/news/aipl/202401050123.aspx) — Central News Agency
+[^3]: [Printing Quantity of the 2024 Presidential Election Bulletin](https://www.cna.com.tw/news/aipl/202401050123.aspx) — Central News Agency
 
-[^3]: [Statistics on the Number of Polling Stations Nationwide](https://web.cec.gov.tw/preview/cms/42157) — Central Election Commission
+[^4]: [Statistics on the Number of Polling Stations Nationwide](https://web.cec.gov.tw/preview/cms/42157) — Central Election Commission
 
-[^4]: [Table of Votes and Election Results for the 16th President and Vice President](https://www.roc-taiwan.org/uploads/sites/79/2024/01/T0050R.pdf) — Central Election Commission (2024 16th Presidential Election Vote Statistics)
+[^5]: [Table of Votes and Election Results for the 16th President and Vice President](https://www.roc-taiwan.org/uploads/sites/79/2024/01/T0050R.pdf) — Central Election Commission (2024 16th Presidential Election Vote Statistics)
 
-[^5]: [Regulations on Allowing the Public to Record Video at Polling Stations](https://www.cec.gov.tw/central/cms/elec_news/38456) — Central Election Commission
+[^6]: [Regulations on Allowing the Public to Record Video at Polling Stations](https://www.cec.gov.tw/central/cms/elec_news/38456) — Central Election Commission
 
-[^6]: [2024 Election Knowledge Pack | Presidential Signature Threshold](https://tw.news.yahoo.com/2024%E9%81%B8%E8%88%89%E7%9F%A5%E8%AD%98%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C%E7%B8%BD%E7%B5%B1%E9%80%A3%E7%BD%B2%E9%96%80%E6%AA%BB%E8%A6%81%E5%A4%9A%E5%B0%91%E4%BA%BA-083437238.html) — Yahoo News
+[^7]: [2024 Election Knowledge Pack | Presidential Signature Threshold](https://tw.news.yahoo.com/2024%E9%81%B8%E8%88%89%E7%9F%A5%E8%AD%98%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BD%9C%E7%B8%BD%E7%B5%B1%E9%80%A3%E7%BD%B2%E9%96%80%E6%AA%BB%E8%A6%81%E5%A4%9A%E5%B0%91%E4%BA%BA-083437238.html) — Yahoo News
 
-[^7]: [Taiwan's manual counting as a shield against disinformation](https://www.reuters.com/world/asia-pacific/taiwans-low-tech-voting-system-is-high-trust-2024-01-12/) — Reuters
+[^8]: [Taiwan's manual counting as a shield against disinformation](https://www.reuters.com/world/asia-pacific/taiwans-low-tech-voting-system-is-high-trust-2024-01-12/) — Reuters
 
-[^8]: [Why doesn't Taiwan implement absentee voting or electronic voting?](https://www.twreporter.org/a/2024-election-absentee-voting-controversy) — The Reporter
+[^9]: [Why doesn't Taiwan implement absentee voting or electronic voting?](https://www.twreporter.org/a/2024-election-absentee-voting-controversy) — The Reporter
 
-[^9]: [Analysis of Regulations Prohibiting the Release of Polling Data Before Elections](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=174364) — Legislative Yuan Issue Analysis (Legal basis for the 10-day pre-election polling ban)
+[^10]: [Analysis of Regulations Prohibiting the Release of Polling Data Before Elections](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=174364) — Legislative Yuan Issue Analysis (Legal basis for the 10-day pre-election polling ban)
 
-[^10]: [What is the polling ban period?](https://news.pts.org.tw/article/674339) — PTS News
+[^11]: [What is the polling ban period?](https://news.pts.org.tw/article/674339) — PTS News
 
-[^11]: [2021 National Referendum Supervision Practice](https://dep-s-district.hccg.gov.tw/uploaddowndoc?file=municipalnews/202110131648410.pdf) — Hsinchu City North District Office
+[^14]: [2021 National Referendum Supervision Practice](https://dep-s-district.hccg.gov.tw/uploaddowndoc?file=municipalnews/202110131648410.pdf) — Hsinchu City North District Office
 
-[^12]: [Challenges of AI Deepfake Technology to Election Trust](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026010211/PPGB60500_4000_20959_1150121_0007.pdf) — Legislative Yuan Public Hearing Report
+[^15]: [Challenges of AI Deepfake Technology to Election Trust](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026010211/PPGB60500_4000_20959_1150121_0007.pdf) — Legislative Yuan Public Hearing Report
 
-[^13]: [Taiwan's "Absentee Voting" Controversy: What do young people think?](https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad) — BBC News Chinese
+[^16]: [Taiwan's "Absentee Voting" Controversy: What do young people think?](https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad) — BBC News Chinese
 
-[^14]: [Voting from Home: The Generational Clash in Taiwan's "Holy Land of Democracy"](https://cn.nytimes.com/asia-pacific/20200109/taiwan-election-return-home-vote/zh-hant/) — New York Times Chinese
+[^17]: [Voting from Home: The Generational Clash in Taiwan's "Holy Land of Democracy"](https://cn.nytimes.com/asia-pacific/20200109/taiwan-election-return-home-vote/zh-hant/) — New York Times Chinese
 
-[^15]: [Voting Stamp](https://zh.wikipedia.org/zh-hant/%E5%9C%88%E9%80%89%E5%8D%B0%E7%AB%A0) — Wikipedia (Design and specification evolution of the _bu_ character voting stamp)
+[^20]: [Voting Stamp](https://zh.wikipedia.org/zh-hant/%E5%9C%88%E9%80%89%E5%8D%B0%E7%AB%A0) — Wikipedia (Design and specification evolution of the _bu_ character voting stamp)
 
-[^16]: [Blue and White parties push for "absentee voting"; Green proposes "Democracy Holiday" countermeasure](https://www.youtube.com/watch?v=50G22GxFt-M) — Tan Zheng Shi (2026.01.09)
+[^22]: [Blue and White parties push for "absentee voting"; Green proposes "Democracy Holiday" countermeasure](https://www.youtube.com/watch?v=50G22GxFt-M) — Tan Zheng Shi (2026.01.09)
 
-[^17]: [Green party proposes special law including Democracy Holiday and transportation subsidies](https://www.cna.com.tw/news/aipl/202512010082.aspx) — Central News Agency
+[^23]: [Green party proposes special law including Democracy Holiday and transportation subsidies](https://www.cna.com.tw/news/aipl/202512010082.aspx) — Central News Agency
 
-[^18]: [You Ying-long: Taiwan's ballot printing is based on the number of electors; regulations differ from South Korea](https://www.cna.com.tw/news/aipl/202606080331.aspx) — Central News Agency
+[^26]: [You Ying-long: Taiwan's ballot printing is based on the number of electors; regulations differ from South Korea](https://www.cna.com.tw/news/aipl/202606080331.aspx) — Central News Agency
 
-[^19]: [Polling Station Staff Manual: Regulations Prohibiting Sorting Before Announcing](https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNzYvcmVsZmlsZS8xMDczMS8xMTkzMTMxL2VmMTg4OGZmLWI0MDItNGMwNC1iY2ZiLTQ5Yjg1NWY1MjRiMC5wZGY%3D) — Taoyuan City Election Commission
+[^27]: [Polling Station Staff Manual: Regulations Prohibiting Sorting Before Announcing](https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNzYvcmVsZmlsZS8xMDczMS8xMTkzMTMxL2VmMTg4OGZmLWI0MDItNGMwNC1iY2ZiLTQ5Yjg1NWY1MjRiMC5wZGY%3D) — Taoyuan City Election Commission
 
-[^20]: [Taiwan's Grassroots "Counting Party" Culture: An Expression of Alleyway Democracy](https://www.twreporter.org/a/2024-election-night-scenes) — The Reporter
+[^31]: [Taiwan's Grassroots "Counting Party" Culture: An Expression of Alleyway Democracy](https://www.twreporter.org/a/2024-election-night-scenes) — The Reporter
 
-[^21]: [Officer Election and Recall Act §14, §15](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — National Law Database (Right to vote for those aged 20 or older; residency of four months or more for electors in each district)
+[^32]: [Officer Election and Recall Act §14, §15](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — National Law Database (Right to vote for those aged 20 or older; residency of four months or more for electors in each district)
 
-[^22]: [Presidential and Vice-Presidential Election and Recall Act](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000975) — Ministry of the Interior Regulations (Six-month residency requirement and register compilation 20 days before election)
+[^34]: [Presidential and Vice-Presidential Election and Recall Act](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000975) — Ministry of the Interior Regulations (Six-month residency requirement and register compilation 20 days before election)
 
-[^23]: [Secretary-General Chang Chun-hsiung's Summary Report on Vote Verification Work](https://www.dpp.org.tw/media/contents/1500) — Democratic Progressive Party
+[^35]: [Secretary-General Chang Chun-hsiung's Summary Report on Vote Verification Work](https://www.dpp.org.tw/media/contents/1500) — Democratic Progressive Party
 
-[^24]: [2025 National Referendum Polling Station Staff Manual: Ballot Categorization, Bagging, and Sealing Regulations](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzE5L3JlbGZpbGUvNjU2MTcvOTQ0MjQ4My8zZmE2NTJmYi05NTQwLTQzY2YtYmY1OS05NzYyM2Q0NDk3YWYucGRm) — Taipei City Election Commission
+[^36]: [2025 National Referendum Polling Station Staff Manual: Ballot Categorization, Bagging, and Sealing Regulations](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzE5L3JlbGZpbGUvNjU2MTcvOTQ0MjQ4My8zZmE2NTJmYi05NTQwLTQzY2YtYmY1OS05NzYyM2Q0NDk3YWYucGRm) — Taipei City Election Commission
 
-[^25]: [Taiwan Elections: Police Maintain Fairness in Voting and Counting](https://www.voachinese.com/a/taiwan-election-20160116/3148604.html) — Voice of America Chinese (Notes on security during the 2016 election)
+[^37]: [Taiwan Elections: Police Maintain Fairness in Voting and Counting](https://www.voachinese.com/a/taiwan-election-20160116/3148604.html) — Voice of America Chinese (Notes on security during the 2016 election)
 
-[^26]: [Election Security Maintenance Guidelines: Ballot Sealing and Destruction Procedures](https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL010674) — Ministry of Justice Regulations (Post-election sealing period and supervised destruction regulations)
+[^38]: [Election Security Maintenance Guidelines: Ballot Sealing and Destruction Procedures](https://mojlaw.moj.gov.tw/LawContent.aspx?LSID=FL010674) — Ministry of Justice Regulations (Post-election sealing period and supervised destruction regulations)
 
-[^27]: [CEC: Paper ballot boxes have been used for many years since 2014](https://web.cec.gov.tw/central/article/40944) — Central Election Commission
+[^39]: [CEC: Paper ballot boxes have been used for many years since 2014](https://web.cec.gov.tw/central/article/40944) — Central Election Commission

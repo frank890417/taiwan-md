@@ -127,9 +127,9 @@ Les résultats sont généralement clairs le soir même de l'élection, suivis d
 
 [^23]: [Le DPP propose une loi incluant le jour férié démocratique et des aides aux transports](https://www.cna.com.tw/news/aipl/202512010082.aspx) — Central News Agency (CNA)
 
-[^24]: [You Ying-long : L'impression des bulletins à Taïwan se base sur le nombre d'électeurs, pratique différente de la Corée](https://www.cna.com.tw/news/aipl/202606080331.aspx) — Central News Agency (CNA)
+[^26]: [You Ying-long : L'impression des bulletins à Taïwan se base sur le nombre d'électeurs, pratique différente de la Corée](https://www.cna.com.tw/news/aipl/202606080331.aspx) — Central News Agency (CNA)
 
-[^25]: [Manuel du personnel des bureaux de vote : réglementation interdisant de trier avant de lire les bulletins](https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNzYvcmVsZmlsZS8xMDczMS8xMTkzMTMxL2VmMTg4OGZmLWI0MDItNGMwNC1iY2ZiLTQ5Yjg1NWY1MjRiMC5wZGY%3D) — Commission électorale de Taoyuan
+[^27]: [Manuel du personnel des bureaux de vote : réglementation interdisant de trier avant de lire les bulletins](https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNzYvcmVsZmlsZS8xMDczMS8xMTkzMTMxL2VmMTg4OGZmLWI0MDItNGMwNC1iY2ZiLTQ5Yjg1NWY1MjRiMC5wZGY%3D) — Commission électorale de Taoyuan
 
 [^31]: [Culture des « fêtes du dépouillement » à la base à Taïwan : expression de la démocratie de quartier](https://www.twreporter.org/a/2024-election-night-scenes) — The Reporter
 

@@ -88,13 +88,13 @@ Do cartaz de boicote vergonhoso nos aeroportos japoneses dos anos 90 aos "cães 
 
 [^11]: [Entrevista exclusiva: De volta ao dia zero com _12th Night_](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Ver informações suplementares no link original.
 
-[^12]: [Quando a casa de passagem se torna uma residência final: Um olhar direto sobre a verdade dos abrigos públicos após o fim de 12th Night](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Ver informações suplementares no link original.
+[^7]: [Quando a casa de passagem se torna uma residência final: Um olhar direto sobre a verdade dos abrigos públicos após o fim de 12th Night](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Ver informações suplementares no link original.
 
-[^13]: [Quem é o dono do habitat selvagem? Mortes por cães frequentes: Crise ecológica e de saúde pública sob o conflito entre cães errantes e animais selvagens](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Ver informações suplementares no link original.
+[^12]: [Quem é o dono do habitat selvagem? Mortes por cães frequentes: Crise ecológica e de saúde pública sob o conflito entre cães errantes e animais selvagens](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Ver informações suplementares no link original.
 
-[^14]: [Mais de metade dos pangolins resgatados e 1/3 dos tigres-de-Taiwan libertados mortos por cães; Centro de Investigação Biológica lamenta a alimentação arbitrária](https://www.agriharvest.tw/archives/102801/) — Artigo especializado da Agência de Mídia Agrícola.
+[^13]: [Mais de metade dos pangolins resgatados e 1/3 dos tigres-de-Taiwan libertados mortos por cães; Centro de Investigação Biológica lamenta a alimentação arbitrária](https://www.agriharvest.tw/archives/102801/) — Artigo especializado da Agência de Mídia Agrícola.
 
-[^15]: [Associação de Conservação do Tigre-de-Taiwan: Deve ser adotada uma gestão mais ativa para cães e gatos errantes](https://www.twlcat.org/2025/07/4830/) — Ver informações suplementares no link original.
+[^14]: [Associação de Conservação do Tigre-de-Taiwan: Deve ser adotada uma gestão mais ativa para cães e gatos errantes](https://www.twlcat.org/2025/07/4830/) — Ver informações suplementares no link original.
 
 [^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Ver informações suplementares no link original.
 
