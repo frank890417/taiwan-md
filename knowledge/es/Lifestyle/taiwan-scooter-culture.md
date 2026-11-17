@@ -2,29 +2,31 @@
 title: 'La cultura de la motocicleta en Taiwán'
 description: 'El país con mayor densidad de motocicletas del mundo no lo es porque les guste montar en moto, sino porque no tienen otra opción. Ahora, inesperadamente, se ha convertido en un laboratorio global para los vehículos eléctricos de dos ruedas.'
 date: 2026-03-25
+category: 'Lifestyle'
 tags:
   [
-    vida cotidiana,
-    motocicleta,
-    moto,
-    Gogoro,
-    KYMCO,
-    SYM,
-    motocicleta eléctrica,
-    transporte,
+    'vida cotidiana',
+    'motocicleta',
+    'moto',
+    'Gogoro',
+    'KYMCO',
+    'SYM',
+    'motocicleta eléctrica',
+    'transporte',
   ]
 subcategory: '交通與移動'
 author: 'Taiwan.md'
-readingTime: 10
 featured: true
-category: 'Lifestyle'
 lastVerified: 2026-03-25
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣機車文化.md'
-sourceCommitSha: 'da8d8687'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f94b3bf22acf8238'
 sourceBodyHash: 'sha256:6ed1f511fb4c93bd'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-17T20:04:51.986854+00:00'
 ---
 
 # La cultura de la motocicleta en Taiwán
