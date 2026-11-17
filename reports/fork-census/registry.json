@@ -2,15 +2,15 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-11-04",
+    "last_census": "2026-11-17",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 885993,
-      "users": 586498
+      "views": 977095,
+      "users": 664583
     },
     "dev_noise": {
-      "views": 12552,
+      "views": 12684,
       "users": 187
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 440,
+        "views": 419,
         "users": 60
       },
       "confidence": "high",
@@ -107,11 +107,44 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 383,
+        "views": 353,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
       "notes": "silent copy(沒按 fork 鈕,跟 Sweden.md 同 pattern)。最有主權含金量卻對母體最隱形 — §主權的巴別塔 視角下最值得關注"
+    },
+    {
+      "id": "russia-md",
+      "label": "Russia.md",
+      "hostnames": ["russia-md.ru"],
+      "title_brands": ["Russia.md"],
+      "type": "place / country",
+      "topic": "Russia knowledge base (history/geography/culture/economy)",
+      "language": "en",
+      "github": "denis-gordeev/russia-md",
+      "who": "Denis Gordeev — 俄國 NLP 研究者 (INFERRED high)",
+      "network_fork": true,
+      "credits_upstream": "explicit — README + JSON-LD isBasedOn 雙列 russia-md + frank890417/taiwan-md (最強 credit)",
+      "cognitive_layer": "no docs/semiont — 自建 skills/ 層 (央行 cbr / DaData / openai.yaml)",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages + russia-md.ru",
+      "content_articles": "12 new (russia-knowledge/) + legacy-content/ (~727 total incl legacy)",
+      "health": "active",
+      "last_push": "2026-06-13",
+      "first_seen": "2026-03",
+      "last_seen": "2026-11",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 144,
+        "users": 96
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 88,
+        "users": 81
+      },
+      "confidence": "high",
+      "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
     },
     {
       "id": "portaly.cc",
@@ -132,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 212,
-        "users": 157
+        "views": 222,
+        "users": 166
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -167,44 +200,11 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 208,
-        "users": 154
+        "views": 218,
+        "users": 163
       },
       "last_seen": "2026-11",
       "first_seen": "2026-07"
-    },
-    {
-      "id": "russia-md",
-      "label": "Russia.md",
-      "hostnames": ["russia-md.ru"],
-      "title_brands": ["Russia.md"],
-      "type": "place / country",
-      "topic": "Russia knowledge base (history/geography/culture/economy)",
-      "language": "en",
-      "github": "denis-gordeev/russia-md",
-      "who": "Denis Gordeev — 俄國 NLP 研究者 (INFERRED high)",
-      "network_fork": true,
-      "credits_upstream": "explicit — README + JSON-LD isBasedOn 雙列 russia-md + frank890417/taiwan-md (最強 credit)",
-      "cognitive_layer": "no docs/semiont — 自建 skills/ 層 (央行 cbr / DaData / openai.yaml)",
-      "ga_leaking": true,
-      "deployment": "GitHub Pages + russia-md.ru",
-      "content_articles": "12 new (russia-knowledge/) + legacy-content/ (~727 total incl legacy)",
-      "health": "active",
-      "last_push": "2026-06-13",
-      "first_seen": "2026-03",
-      "last_seen": "2026-11",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 125,
-        "users": 78
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 79,
-        "users": 72
-      },
-      "confidence": "high",
-      "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
     },
     {
       "id": "su-chiao-hui",
@@ -300,7 +300,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 61,
+        "views": 42,
         "users": 1
       },
       "last_seen": "2026-11",

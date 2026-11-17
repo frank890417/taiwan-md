@@ -2948,6 +2948,17 @@
     "city": "台北"
   },
   {
+    "title": "台灣鐵路地下化：鐵軌下地之後，地面上的帳才開始算",
+    "lat": 25.036219,
+    "lng": 121.561809,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/%E5%8F%B0%E7%81%A3%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96",
+    "lang": "zh-TW",
+    "desc": "台北分四個專案、花二十多年把市區鐵路送進地下，高雄用十二年、近千億元一次施工，台南則在 2026 年 10 月通車。從高雄通車首班車延誤 34 分鐘，到台北車站旁的雙星要等三十多年後才動工，這篇從台北、高雄、台南三座城市的官方資料與報導，看鐵軌下地之後，地面上還留下哪些要算的帳。",
+    "city": "台北"
+  },
+  {
     "title": "嘉義市：被皇帝賜名嘉義，卻成了最容易被略過的省轄市",
     "lat": 23.479882,
     "lng": 120.451674,
@@ -4323,6 +4334,17 @@
     "city": "高雄"
   },
   {
+    "title": "鄉土文學論戰：1977 年那頂「狼來了」的帽子，以及它後來去了哪裡",
+    "lat": 25.026544,
+    "lng": 121.561027,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0",
+    "lang": "zh-TW",
+    "desc": "1977 年 8 月 20 日，余光中在《聯合報》副刊發表〈狼來了〉，引毛澤東的延安講話，說其中若干觀點和國內某些「文藝批評」「竟似有些暗合之處」。一場文壇內部的「鄉土」之爭，從此染上政治色彩。從 1977 年 4 月到 1978 年 1 月，九個多月的論戰裡，光是 7 月到 11 月，官方與兩大報就刊出 58 篇攻擊鄉土文學的文章；高準的《詩潮》第一期被查禁；最後在國軍文藝大會上，王昇呼籲團結鄉土，把鄉土之愛擴大為國家之愛。",
+    "city": "台北"
+  },
+  {
     "title": "阿里山：帝國的林場與高一生的山",
     "lat": 23.512346,
     "lng": 120.701928,
@@ -4629,6 +4651,17 @@
     "lang": "zh-TW",
     "desc": "包廂式KTV在1990年代興起，錢櫃、好樂迪、星聚點等品牌開枝散葉，超過10萬首歌、從豪華總統包廂到平價歡樂包，讓KTV成為全民娛樂與聚會首選；但1992年神話世界KTV縱火16死、2020年錢櫃林森店火災6死，兩起憾事逼全社會正視包廂逃生安全，雙雄競爭與安全改革交織成島嶼夜生活。",
     "city": "台北"
+  },
+  {
+    "title": "安寧緩和醫療與病人自主：全世界第三的排名，與零點五趴的簽署率",
+    "lat": 24.14848,
+    "lng": 120.669326,
+    "category": "lifestyle",
+    "region": "central",
+    "link": "/lifestyle/%E5%AE%89%E5%AF%A7%E7%B7%A9%E5%92%8C%E9%86%AB%E7%99%82%E8%88%87%E7%97%85%E4%BA%BA%E8%87%AA%E4%B8%BB",
+    "lang": "zh-TW",
+    "desc": "2023 年，台灣死亡前一年的安寧緩和利用率是 30.9%，與美國的 30.3% 相當；2025 年全球安寧地圖把台灣評為世界第三、亞洲第一。但截至 2024 年底，預立安寧緩和意願書累計 103 萬筆（18 歲以上 5.2%），預立醫療決定只有約 9.4 萬筆（0.5%），而 2024 年新簽的意願書是 87,835 筆。這篇用官方年報拆開兩部法律、581 家服務機構、279 家諮商機構、871 張安寧病床與六都集中、離島偏低的落差。",
+    "city": "台中"
   },
   {
     "title": "小綠人：從倒數計時到交通訊號的邊界",
@@ -6050,6 +6083,17 @@
     "city": "屏東"
   },
   {
+    "title": "李四川：從臺北市工務局走到副市長的工程與行政資歷",
+    "lat": 25.03629,
+    "lng": 121.569495,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E6%9D%8E%E5%9B%9B%E5%B7%9D",
+    "lang": "zh-TW",
+    "desc": "從臺北市工務局基層做起，李四川歷任臺北縣副縣長、行政院秘書長、高雄市副市長與臺北市副市長。2026 年 3 月離開臺北市政府後，參選新北市長。",
+    "city": "台北"
+  },
+  {
     "title": "李安：兩座奧斯卡背後，那個沒能對父親好好說再見的兒子",
     "lat": 22.991432,
     "lng": 120.226117,
@@ -6312,6 +6356,17 @@
     "lang": "zh-TW",
     "desc": "1980 年代初，剛進中影的楊德昌穿一件印著「Herzog, Bresson, Yang」的 T 恤，把自己排在兩位大師後面。這個放棄美國潛艦工程師工作、三十出頭回台學拍片的人，後來成了第一位拿下坎城最佳導演的台灣人——卻讓《一一》十七年沒在台灣戲院放過。他用最冷的方法，拍我們最不敢看的後腦勺。",
     "city": "台北"
+  },
+  {
+    "title": "楊維哲：數學教授先把台語課開出來，爭論才跟上來",
+    "lat": 24.146266,
+    "lng": 120.680975,
+    "category": "people",
+    "region": "central",
+    "link": "/people/%E6%A5%8A%E7%B6%AD%E5%93%B2",
+    "lang": "zh-TW",
+    "desc": "1996 年秋天，台大數學教授楊維哲把一門通識課排成台語授課，教務長批「上課不宜用方言」，他照樣開課。隔年新黨立委在國會說這門課違憲，還親自打電話勸他。他讀過三年醫科才重考數學，教過陳文成，八十六歲還在台大講潮汐力。2018 年立法院審國家語言發展法，主張與質疑的兩方，都拿他用台語上課這件事當例子。",
+    "city": "台中"
   },
   {
     "title": "殷海光：在溫州街十八巷把自由主義種進台灣的哲學家",
@@ -6765,14 +6820,14 @@
     "city": "花蓮"
   },
   {
-    "title": "蘇巧慧：在「衝衝衝」的陰影下，用法律與細節縫合新北的策展人",
+    "title": "蘇巧慧：從超越達人、國會到水獺媽媽",
     "lat": 25.005663,
     "lng": 121.471003,
     "category": "people",
     "region": "north",
     "link": "/people/%E8%98%87%E5%B7%A7%E6%85%A7",
     "lang": "zh-TW",
-    "desc": "從美麗島辯護律師的女兒到 16 度優秀立委，蘇巧慧如何擺脫「靠爸」標籤，在國會用《癌症防治法》與《運動產業發展條例》重塑法律溫度，並在地方用捷運、自來水管與校園改善，拼湊出屬於自己的政治版圖。",
+    "desc": "2009 年，律師蘇巧慧轉進超越基金會，讓孩子在偏鄉與城市認識不同職業；2016 年，她以新北市第五選區立委身分進入國會，2020、2024 年連任。白天她審查預算、推動法案，晚上用水獺媽媽的聲音說故事。她的難題從來不只是父親蘇貞昌的名字，而是如何讓繼承而來的政治起點，長成自己的公共路徑。",
     "city": "新北"
   },
   {
@@ -6884,6 +6939,17 @@
     "lang": "zh-TW",
     "desc": "台灣第16任總統，中華民國憲政史上首位以副總統身分參選並成功當選的政治人物",
     "city": "台南"
+  },
+  {
+    "title": "賴瑞隆：從高雄市府到立法院的政治人物",
+    "lat": 22.628021,
+    "lng": 120.301703,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E8%B3%B4%E7%91%9E%E9%9A%86",
+    "lang": "zh-TW",
+    "desc": "賴瑞隆曾在高雄市府參與世運、演唱會與城市行銷，立法院履歷列他為黃色小鴨策展人，之後轉任立委，2016、2020、2024 年三度當選。回看他的職涯，城市活動帶來的能見度如何轉成可檢驗的地方治理與政策問責，是比活動聲量更值得追問的問題，也關乎市民如何追蹤公共承諾。",
+    "city": "高雄"
   },
   {
     "title": "這群人：七個成員十三年沒有人退團，停更但沒有解散",
@@ -8358,6 +8424,17 @@
     "lang": "zh-TW",
     "desc": "台灣賽鴿把幼鴿海翔、鴿舍技術、私人鴿會、產業鏈與下注放進同一套規則。這套制度用高風險製造人人有機會的公平想像，卻也把迷途、失聯與賽後棄養的代價交給第一次上場的幼鴿，留下動物福利、公共治理、地方社會與責任追蹤的難題。",
     "city": "基隆"
+  },
+  {
+    "title": "身心障礙者：一百二十六萬人，與一半是六十五歲以上的結構",
+    "lat": 25.018622,
+    "lng": 121.470544,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85",
+    "lang": "zh-TW",
+    "desc": "2026 年 6 月底，台灣領有身心障礙證明的人數是 1,258,972 人，其中 65 歲以上 638,430 人，占了超過一半；類別上以神經系統及精神心智功能 395,924 人最多，極重度者 128,752 人，六都以新北 189,142 人最多。勞動部 113 年調查顯示，15 歲以上身障者的勞動力參與率是 21.9%、失業率 7.1%，非勞動力達 91.2 萬人。這篇用衛福部與勞動部的官方統計，拆開這 126 萬人的年齡、類別、縣市與就業結構。",
+    "city": "新北"
   },
   {
     "title": "都市更新爭議：文林苑之後，台灣怎麼處理「不同意戶」",
@@ -10340,6 +10417,17 @@
     "city": "台東"
   },
   {
+    "title": "Taiwán: ferrocarril subterráneo — cuando los rieles bajan a tierra, la cuenta en superficie recién empieza",
+    "lat": 22.631154,
+    "lng": 120.298448,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "Taipéi en cuatro proyectos y más de veinte años, Kaohsiung en doce años y casi mil millones de dólares neotaiwaneses de una sola vez, Tainan con inauguración en octubre de 2026: desde el retraso de 34 minutos del primer tren en Kaohsiung hasta las torres gemelas junto a la estación de Taipéi que esperan más de treinta años para empezar, esta crónica recorre los datos oficiales y reportajes de tres ciudades para ver qué cuentas quedan pendientes en superficie tras enterrar la vía.",
+    "city": "高雄"
+  },
+  {
     "title": "Sistemas fluviales y características hidrológicas de Taiwán: ríos cortos y caudalosos y cambios estacionales en la geografía hidrológica",
     "lat": 25.176551,
     "lng": 121.443636,
@@ -10657,6 +10745,17 @@
     "lang": "zh-TW",
     "desc": "Administrativement, Zhongli est un district de la ville de Taoyuan, mais dans la vie quotidienne, il est souvent perçu comme le cœur d'une autre ville au sud de Taoyuan. De Jianzaili à la ville de Zhongli dans le comté de Taoyuan, puis au district de Zhongli en tant que ville directement administrée, comprendre pleinement son histoire, ses transports, ses campus universitaires, ses industries, sa composition ethnique, le ruisseau Laojie, sa gastronomie et son identité locale permet de saisir que la distinction « Zhongli diffère de Taoyuan » n'est pas de simples querelles, mais le résultat d'une superposition longue entre le nom administratif, le bassin de vie urbain et la régionalisation nord-sud de Taoyuan.",
     "city": "桃園"
+  },
+  {
+    "title": "Cinavu : le petit mil enveloppé en feuilles des Paiwan, et cette feuille de « fausse groseille » qu'il faut manger avec le riz",
+    "lat": 25.01066,
+    "lng": 121.472672,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "En 2019, la chorale d'enfants paiwan Taiwu Ancient Ballads Troupe a apporté une recette de cinavu en Australie ; la « fausse groseille » sur la liste d'ingrédients n'a pas été traduite en anglais, mais transcrite directement en pinyin jiasuanjiang. Le cinavu (aussi écrit jinnafu) est un mets paiwan où du porc mariné est enveloppé dans du petit mil ou de la farine de taro, puis enveloppé dans deux couches de feuilles et cuit à la vapeur ; les appellations et méthodes varient selon les villages. Les extérieurs l'appellent souvent « zongzi autochtone », mais la différence avec le zongzi réside dans cette feuille de fausse groseille collée au riz, qu'il faut avaler ensemble.",
+    "city": "新北"
   },
   {
     "title": "Le comté de Changhua : un grand comté agricole qui a battu DuPont, mais qui ne parvient pas à retenir sa jeunesse",
@@ -11242,14 +11341,14 @@
     "city": "台北"
   },
   {
-    "title": "गुलिंग स्ट्रीट: जापानियों द्वारा छोड़ी गई किताबों की सड़क, यांग डे-चांग के किशोर, राष्ट्रीय सरकार का महल",
+    "title": "गुलिंग स्ट्रीट: जापानियों द्वारा छोड़ी गई किताबों की गली, एडवर्ड यांग का किशोर, राष्ट्रवादी सरकार का महल",
     "lat": 25.033633,
     "lng": 121.567846,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "शनिवार दोपहर गुलिंग स्ट्रीट की 5वीं गली के अंत में लाल ईंट के थिएटर के सामने छात्र कतार में खड़े हैं, पास में 1955 में बनी राष्ट्रीय इतिहास संग्रहालय और 1921 में पुनर्गठित ताइपे वनस्पति उद्यान का कमल तालाब है। यह 1.2 किलोमीटर की सड़क, 1922 में जोकुमा-चो कहलाती थी, 1947 में गुलिंग स्ट्रीट नाम दिया गया जो जियांगक्सी के लुशान से लिया गया था। 1945 के बाद जापानियों के जाने के बाद छोड़ी गई किताबें सड़क के किनारे रखी गईं और ताइवान की पहली पुरानी किताबों की सड़क बन गईं, 1960 के दशक में 200 से अधिक विक्रेताओं के साथ अपने चरम पर पहुंची, 1973 में अप्रैल में गुआंगहुआ पुल के खुलने के बाद विक्रेताओं को गुआंगहुआ ओवरपास के नीचे स्थानांतरित किया गया, 1961 में 15 जून को इस सड़क पर 16 वर्षीय माओ वु ने 15 वर्षीय लियू मिन को स्काउट चाकू से मार डाला, 1991 में यांग डे-चांग ने इसे 237 मिनट की फिल्म में बनाया। किताबों की सड़क ध्वस्त हो गई, विक्रेता चले गए, छात्र किताबें खरीदने के लिए अन्य जगहों पर जाने लगे, बचा हुआ है जापानी काल का लाल ईंट पुलिस थाना, युद्धोत्तर चीनी महल शैली की संग्रहालय, और 1921 से ही अपनी जगह पर कमल तालाब।",
+    "desc": "गुलिंग स्ट्रीट ताइपे की एक 1.2 किलोमीटर लंबी सड़क है, जिसे 1922 में सकुमा-चो कहा जाता था, और 1947 में जियांग्शी के लुशान के गुलिंग के नाम पर इसका नाम बदल दिया गया। युद्ध के बाद जापानियों द्वारा छोड़ी गई किताबें सड़क किनारे लगाई गईं, जिससे यह ताइवान की पहली पुरानी किताबों की गली बन गई, अपने चरम पर यहां 200 से अधिक किताबों के स्टॉल थे। 1961 में 16 वर्षीय माओ वू ने इसी सड़क पर 15 वर्षीय लियू मिन की चाकू मारकर हत्या कर दी, जिसे एडवर्ड यांग ने फिल्माया। किताबों के स्टॉल हट गए, लेकिन महलनुमा इतिहास संग्रहालय और 1921 का कमल तालाब अभी भी मौजूद हैं।",
     "city": "台北"
   },
   {
@@ -11770,14 +11869,14 @@
     "city": "嘉義"
   },
   {
-    "title": "Jalan Guling: Jalan Buku Peninggalan Jepang, Pemuda Ang Lee, dan Istana Pemerintah Nasional",
+    "title": "Jalan Guling: Jalan Buku yang Ditinggalkan Orang Jepang, Remaja Edward Yang, Istana Pemerintah Nasional",
     "lat": 25.032664,
     "lng": 121.557096,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Sore Sabtu di depan teater batu merah di ujung Gang 5 Jalan Guling ada siswa yang antri, di sebelahnya adalah Museum Sejarah Nasional yang dibangun tahun 1955 dan Kolam Teratai Taman Botani Taipei yang diubah tahun 1921. Jalan sepanjang 1,2 kilometer ini bernama Jalan Sakuma pada tahun 1922, diubah nama menjadi Jalan Guling pada tahun 1947 diambil dari Gunung Lu di Jiangxi. Setelah perang 1945 ketika orang Jepang mundur, buku-buku yang ditinggalkan diletakkan di pinggir jalan menjadi jalan buku bekas pertama Taiwan, pada tahun 1960-an mencapai puncaknya dengan lebih dari 200 pedagang, setelah jembatan Guanghua dibuka pada April 1973 pedagang dipindahkan di bawah jembatan Guanghua, pada tanggal 15 Juni 1961 seorang pemuda berusia 16 tahun bernama Mao Wu membunuh Liu Min berusia 15 tahun dengan pisau pramuka di jalan ini, pada tahun 1991 Ang Lee membuat film berdurasi 237 menit. Jalan buku diruntuhkan, pedagang buku pindah, siswa pergi ke tempat lain untuk membeli buku, yang tersisa adalah bekas kantor cabang polisi batu merah dari masa pemerintahan Jepang, museum bergaya istana Tiongkok pasca perang, dan kolam teratai yang sudah ada di tempat yang sama sejak tahun 1921.",
+    "desc": "Jalan Guling adalah jalan sepanjang 1,2 kilometer di Taipei, pada 1922 disebut Sakuma-chō, pada 1947 berganti nama mengacu pada Guling di Gunung Lu, Jiangxi. Pasca perang, buku-buku yang ditinggalkan orang Jepang dijual di pinggir jalan, menjadikannya jalan buku bekas pertama di Taiwan, pada puncaknya ada lebih dari dua ratus gerobak buku. Pada 1961, Mao Wu berusia 16 tahun menusuk sampai mati Liu Min berusia 15 tahun di jalan ini, disutradarai Edward Yang menjadi film. Gerobak buku sudah pindah, museum sejarah bergaya istana dan kolam teratai tahun 1921 masih ada.",
     "city": "台北"
   },
   {
@@ -12188,14 +12287,14 @@
     "city": "台北"
   },
   {
-    "title": "金馬賓館現代美術館 — 送別所から芸術の桃源郷へ",
+    "title": "金馬賓館現代美術館",
     "lat": 22.628498,
     "lng": 120.30609,
     "category": "art",
     "region": "south",
     "link": "/ja/art/alien-art-centre",
     "lang": "ja",
-    "desc": "離別と再会を見守った冷戦時代の軍事駐屯地が、20年間の眠りから目覚め、『ロンリープラネット』推薦の高雄のおすすめ美術館となりました。",
+    "desc": "冷戦期の軍事拠点として離別と再会を見守った施設が、20年の眠りを経て父娘によって蘇り、『ロンリープラネット』推薦の高雄随一の美術館となった。",
     "city": "高雄"
   },
   {
@@ -16500,6 +16599,17 @@
     "city": "台北"
   },
   {
+    "title": "ホスピス・緩和ケアと患者の自己決定：世界第3位の評価と、わずか0.5%の署名率",
+    "lat": 24.14699,
+    "lng": 120.67751,
+    "category": "lifestyle",
+    "region": "central",
+    "link": "/ja/lifestyle/hospice-palliative-care-and-patient-autonomy",
+    "lang": "ja",
+    "desc": "2023年、台湾における死亡前年の緩和ケア利用率は30.9%で、米国の30.3%に匹敵します。2025年の世界緩和ケアマップでは、台湾は世界第3位、アジア第1位と評価されました。しかし、2024年末時点での「事前緩和ケア意向書」の累計は103万筆（18歳以上の5.2%）に対し、「事前医療決定」は約9.4万筆（0.5%）に留まります。本記事では公式年報に基づき、2つの法律、581のサービス機関、279の相談機関、871の緩和ケア病床、そして都市部への集中と離島での格差について紐解きます。",
+    "city": "台中"
+  },
+  {
     "title": "温泉文化",
     "lat": 25.036288,
     "lng": 121.557483,
@@ -17644,14 +17754,14 @@
     "city": "台北"
   },
   {
-    "title": "張忠仁と張忠義：身体を分けた後、人生がようやく始まった",
+    "title": "張忠仁と張忠義：身体が分離されてから、人生はようやく始まります。",
     "lat": 22.629391,
     "lng": 120.307924,
     "category": "people",
     "region": "south",
     "link": "/ja/people/chang-chung-jen-chung-i-twins",
     "lang": "ja",
-    "desc": "1976年高雄生まれの張忠仁（ちょう・ちゅうじん）、張忠義（ちょう・ちゅうぎ）は、3歳までを中山医学院附設病院で過ごしました。1979年、台大医院の36人の多科チームが12時間の分離手術を完成させました。真の長い物語は手術台から降りた後に始まります。病痛、義肢、仕事、家族、そしてメディアの注視が、40年の間に二つの名前を各自の人生へと変え、台湾に医療の突破と個人の自主性の距離を改めて考えさせました。",
+    "desc": "1976年、高雄で生まれた張忠仁さんと張忠義さんは、3歳まで中山医院で過ごしました。1979年、台湾大学病院の36人からなるチームが12時間にわたる分離手術を行いました。本当の長い物語は、手術台を降りてから始まりました。病気の苦しみ、義肢、仕事、家庭、メディアの注目が、二人の名前を40年の歳月の中でそれぞれの人生へと変えていき、台湾社会に医療のブレイクスルーと個人の自立の距離を改めて考えさせました。",
     "city": "高雄"
   },
   {
@@ -17816,7 +17926,7 @@
     "region": "south",
     "link": "/ja/people/chen-wen-yu-plant-breeder",
     "lang": "ja",
-    "desc": "鳳山試験所、鳳山一号無籽スイカから農友種苗まで、陳文郁は育種を農民の生活向上を先行させる台湾のソフトパワーへと昇華させました。",
+    "desc": "鳳山試験所、鳳山1号無種子スイカから農友種苗へと、陳文郁氏は育種を、農民がまずより良い生活を得られる台湾のソフトパワーへと昇華させました。",
     "city": "台南"
   },
   {
@@ -18590,6 +18700,17 @@
     "city": "彰化"
   },
   {
+    "title": "頼瑞隆：高雄市政府から立法院へ、ある政治人物の軌跡",
+    "lat": 22.623226,
+    "lng": 120.296796,
+    "category": "people",
+    "region": "south",
+    "link": "/ja/people/lai-jui-lung",
+    "lang": "ja",
+    "desc": "頼瑞隆は高雄市政府で世運会、コンサート、都市プロモーションに携わり、立法院の履歴には「黄色いアヒルのキュレーター」と記されている。その後立委に転じ、2016年、2020年、2024年と3度当選した。そのキャリアを振り返ると、都市イベントがもたらした知名度いかに検証可能な地方統治と政策説明責任へ転化させたかという問いは、イベントの話題性以上に追及すべき課題であり、市民が公約をどう追跡するかにも関わる。",
+    "city": "高雄"
+  },
+  {
     "title": "徐佳瑩：看護師から金曲（ゴールデンメロディー）の歌へ、選秀チャンピオンを創作のテーマに変えた人",
     "lat": 25.037895,
     "lng": 121.563124,
@@ -19151,14 +19272,14 @@
     "city": "台北"
   },
   {
-    "title": "蘇巧慧（スー・チャオホイ）：「衝衝衝」の影の下で、法律と細部で新北を縫い合わせるキュレーター",
+    "title": "蘇巧慧（そ・こうえい）：超越達人、国会から「カワウソママ」へ",
     "lat": 25.006191,
     "lng": 121.457109,
     "category": "people",
     "region": "north",
     "link": "/ja/people/su-chiao-hui",
     "lang": "ja",
-    "desc": "美麗島事件弁護士の娘から16回優秀立法委員に至るまで、蘇巧慧はどのように「二世政治家」のレッテルを剥がし、国会で癌症防治法と運動産業発展条例によって法律に温もりを与え、地方で鉄道・水道管・校舎改善を積み重ねて自分自身の政治的版図を描いてきたか。",
+    "desc": "2009年、弁護士の蘇巧慧氏は超越基金会に移り、子供たちが地方と都市で多様な職業に触れる機会を作りました。2016年に新北市第5選挙区選出の立法委員として国会入りし、2020年、2024年と連続当選。昼は予算審査や法案推進に奔走し、夜は「カワウソママ」として物語を届けます。彼女の挑戦は、父・蘇貞昌氏の名声を超え、受け継いだ政治の出発点をいかにして自身の公的な歩みへと育て上げるかという点にあります。",
     "city": "新北"
   },
   {
@@ -20592,14 +20713,14 @@
     "city": "高雄"
   },
   {
-    "title": "雪山トンネル：「不可能な任務」から台湾工学の血涙の奇跡へ",
+    "title": "雪山トンネル：「不可能な任務」から台湾工程の血と涙の奇跡へ",
     "lat": 24.757548,
     "lng": 121.748641,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/hsuehshan-tunnel",
     "lang": "ja",
-    "desc": "1997 年 12 月 15 日、湧水事故が三百人の命を危うく奪いかけ、さらに建造費十億元の掘削の切り札 TBM を鉄くずにしました。『ブリタニカ百科事典』で世界で最も困難な工事の一つに挙げられたこのトンネルは、単なる交通動脈ではありません。25 人の殉職者と無数の無名の英雄が、鋼より硬い四稜砂岩を掘り抜いて生み出した血涙の奇跡です。",
+    "desc": "全長約12.9キロメートルの雪山トンネルは台湾最長の道路トンネルであり、2006年の開通により台北から宜蘭までの所要時間が2時間から約40分に短縮されました。工期は15年：1997年12月15日の湧水事故で造価10億の全断面掘削機（TBM）が廃鉄と化し、鋼より硬い四稜砂岩では1日わずか1メートル余りしか進めず、国際専門家は「不可能な任務」と断言しました。北宜高速公路工事では25名が殉職し、その名は石碇サービスエリアの慰霊碑に刻まれています。",
     "city": "宜蘭"
   },
   {
@@ -23010,17 +23131,6 @@
     "lang": "zh-TW",
     "desc": "Năm 1884, hạm đội Pháp pháo kích cảng Cơ Long, hai ngàn thủy quân lục chiến đổ bộ chiếm cảng. Nhưng họ mất bảy tháng để thoát khỏi những dãy núi ở Cơ Long. Cùng tuần đó, 600 thủy quân Pháp đổ bộ Đạm Thủy, hai giờ sau bị đẩy trở lại biển. Khi chiến tranh kết thúc, Pháp lấy Việt Nam, từ bỏ Đài Loan. Thanh triều gần như thua, nhưng vì thế Đài Loan từ thuộc địa trở thành một tỉnh.",
     "city": "新北"
-  },
-  {
-    "title": "Xếp hàng ở Đài Loan: Từ trật tự bị bắt buộc đến sự công bằng mà mọi người cùng gìn giữ",
-    "lat": 25.026728,
-    "lng": 121.561407,
-    "category": "lifestyle",
-    "region": "north",
-    "link": "/lifestyle/taiwan-queuing-culture",
-    "lang": "zh-TW",
-    "desc": "Năm 1979, chính quyền Đài Bắc từng đưa việc xếp hàng vào quản trị đô thị; hàng người trên sân ga tàu điện ngầm, máy gọi số ở nhà hàng và trước các quán ăn nổi tiếng sau đó đã biến kỷ luật thân thể này thành ngôn ngữ công bằng của dịch vụ thường ngày. Xếp hàng tưởng như lãng phí thời gian, nhưng lại khiến những người xa lạ cùng chia sẻ một quy tắc nhìn thấy được.",
-    "city": "台北"
   },
   {
     "title": "Hệ thống giao thông Đài Loan: Làm thế nào một hòn đảo nén chính mình trong 90 phút",

@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-11-07 06:31
+last_generated: 2026-11-18 06:08
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-11-07 06:31** · 頂層 \*.md 共 **315** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-11-18 06:08** · 頂層 \*.md 共 **323** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   739 | 40.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   781 | 42.8 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `evaluation/`                    |   173 | 4.9 MB   | —                                                    |
 | `editorial-room/`                |   116 | 1.0 MB   | —                                                    |
@@ -28,13 +28,13 @@ type: auto-index
 | `routine-prompt-drift/`          |    35 | 110.6 KB | —                                                    |
 | `rewrite-guide/`                 |    32 | 408.8 KB | —                                                    |
 | `archive/`                       |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
+| `factcheck/`                     |    22 | 687.9 KB | —                                                    |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
-| `babel/`                         |    18 | 9.2 MB   | —                                                    |
+| `babel/`                         |    18 | 9.1 MB   | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
 | `news-lens/`                     |    13 | 256.7 KB | —                                                    |
 | `probe/`                         |    11 | 218.3 KB | BECOME §Step 7 探測器報告                            |
 | `article-census/`                |     9 | 3.3 MB   | —                                                    |
-| `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
 | `ab-tests/`                      |     8 | 182.9 KB | Editorial v6 A/B test                                |
 | `babel-tier4/`                   |     8 | 5.5 KB   | —                                                    |
 | `babel-quarantine/`              |     7 | 268.0 KB | —                                                    |
@@ -45,12 +45,12 @@ type: auto-index
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-trends/`            |     3 | 36.2 KB  | —                                                    |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 224.1 KB | —                                                    |
+| `404-monitor/`                   |     2 | 218.0 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `audit/`                         |     2 | 50.6 KB  | —                                                    |
-| `fork-census/`                   |     2 | 39.8 KB  | —                                                    |
+| `fork-census/`                   |     2 | 40.1 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 133.2 KB | —                                                    |
+| `newsroom/`                      |     2 | 136.0 KB | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
 | `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -89,8 +89,9 @@ type: auto-index
 - `2026-04-14` [memory-distillation-design-2026-04-14](memory-distillation-design-2026-04-14.md)
 - `2026-04-05` [organ-lifecycle-design-2026-04-05](organ-lifecycle-design-2026-04-05.md)
 
-### plan (19)
+### plan (20)
 
+- `2026-11-10` [income-topic-plan-2026-11-10](income-topic-plan-2026-11-10.md)
 - `2026-11-04` [evolve-plan-2026-11-04](evolve-plan-2026-11-04.md) — 全面進化規劃 2026-11-04：文章、頁面與網站
 - `2026-11-02` [ios-app-implementation-plan-2026-11-02](ios-app-implementation-plan-2026-11-02.md)
 - `2026-07-10` [elections-2026-refresh-plan-2026-07-10](elections-2026-refresh-plan-2026-07-10.md) — 2026 選舉關聯頁面：七月刷新實錄 + 選前四個半月進化計畫
@@ -260,8 +261,14 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (140)
+### ops (147)
 
+- `2026-11-17` [design-elections-2026-upgrade-2026-11-17](design-elections-2026-upgrade-2026-11-17.md)
+- `2026-11-17` [subcategory-drift-census-2026-11-17](subcategory-drift-census-2026-11-17.md) — subcategory 漂移普查 2026-11-17
+- `2026-11-10` [design-health-topic-page-2026-11-10](design-health-topic-page-2026-11-10.md)
+- `2026-11-10` [design-housing-hub-2026-11-10](design-housing-hub-2026-11-10.md) — design-housing-hub-2026-11-10
+- `2026-11-10` [design-industry-topic-2026-11-10](design-industry-topic-2026-11-10.md) — 設計報告：台灣產業與上市公司專題（/industry ＋ /companies 升級）
+- `2026-11-10` [design-names-topic-2026-11-10](design-names-topic-2026-11-10.md) — design-names-topic-2026-11-10
 - `2026-11-04` [article-health-census-2026-11-04](article-health-census-2026-11-04.md) — 全站文章健檢普查：該標進化中的、可以轉正的、沒封面的、太單薄的
 - `2026-11-04` [evolve-2026-11-04-pages-before-after](evolve-2026-11-04-pages-before-after.md)
 - `2026-11-04` [evolve-2026-11-04](evolve-2026-11-04.md) — 全面進化 2026-11-04：數據收集與交叉分析（EVOLVE Phase 1–2）
@@ -402,6 +409,7 @@ type: auto-index
 - `2026-03-31` [evolve-2026-03-31](evolve-2026-03-31.md)
 - `????` [README](README.md)
 - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md) — 標點淨化 campaign — dispatch prompts（coordinator + per-worker）
+- `????` [twmd-full-review-2026-11](twmd-full-review-2026-11.md) — Taiwan.md 完整梳理：運作機制、網站健康與訪談準備（2026-11）
 
 ## 📅 By month (descending)
 
@@ -411,9 +419,16 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-11 (8 files)
+### 2026-11 (16 files)
 
-- Type breakdown: ops: 6 / plan: 2
+- Type breakdown: ops: 13 / plan: 3
+  - `2026-11-17` [design-elections-2026-upgrade-2026-11-17](design-elections-2026-upgrade-2026-11-17.md)
+  - `2026-11-17` [subcategory-drift-census-2026-11-17](subcategory-drift-census-2026-11-17.md)
+  - `2026-11-10` [design-health-topic-page-2026-11-10](design-health-topic-page-2026-11-10.md)
+  - `2026-11-10` [design-housing-hub-2026-11-10](design-housing-hub-2026-11-10.md)
+  - `2026-11-10` [design-industry-topic-2026-11-10](design-industry-topic-2026-11-10.md)
+  - `2026-11-10` [design-names-topic-2026-11-10](design-names-topic-2026-11-10.md)
+  - `2026-11-10` [income-topic-plan-2026-11-10](income-topic-plan-2026-11-10.md)
   - `2026-11-04` [article-health-census-2026-11-04](article-health-census-2026-11-04.md)
   - `2026-11-04` [evolve-2026-11-04-pages-before-after](evolve-2026-11-04-pages-before-after.md)
   - `2026-11-04` [evolve-2026-11-04](evolve-2026-11-04.md)
@@ -422,6 +437,7 @@ type: auto-index
   - `2026-11-02` [feedback-injection-campaign-2026-11-02](feedback-injection-campaign-2026-11-02.md)
   - `2026-11-02` [ios-app-implementation-plan-2026-11-02](ios-app-implementation-plan-2026-11-02.md)
   - `2026-11-02` [ios-app-research-2026-11-02](ios-app-research-2026-11-02.md)
+  - `????` [twmd-full-review-2026-11](twmd-full-review-2026-11.md)
 
 ### 2026-10 (10 files)
 

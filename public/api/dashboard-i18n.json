@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T22:29:03Z",
-  "max_total": 2316,
+  "generated": "2026-11-17T22:07:08Z",
+  "max_total": 2319,
   "modules": [
     {
       "name": "home",
@@ -23,19 +23,19 @@
     {
       "name": "about",
       "langs": {
-        "zh-TW": 276,
-        "en": 276,
-        "ja": 276,
-        "ko": 276,
-        "es": 270,
-        "fr": 270,
-        "vi": 270,
-        "id": 270,
-        "pt": 270,
-        "hi": 270,
-        "ar": 270,
-        "ru": 270,
-        "de": 276
+        "zh-TW": 279,
+        "en": 279,
+        "ja": 279,
+        "ko": 279,
+        "es": 273,
+        "fr": 273,
+        "vi": 273,
+        "id": 273,
+        "pt": 273,
+        "hi": 273,
+        "ar": 273,
+        "ru": 273,
+        "de": 279
       }
     },
     {
@@ -220,18 +220,18 @@
     }
   ],
   "lang_totals": {
-    "zh-TW": { "keys": 2316, "coverage_pct": 100.0 },
-    "en": { "keys": 2316, "coverage_pct": 100.0 },
-    "ja": { "keys": 2307, "coverage_pct": 99.61 },
-    "ko": { "keys": 2307, "coverage_pct": 99.61 },
-    "es": { "keys": 2301, "coverage_pct": 99.35 },
-    "fr": { "keys": 2300, "coverage_pct": 99.31 },
-    "vi": { "keys": 2300, "coverage_pct": 99.31 },
-    "id": { "keys": 2300, "coverage_pct": 99.31 },
-    "pt": { "keys": 2300, "coverage_pct": 99.31 },
-    "hi": { "keys": 2300, "coverage_pct": 99.31 },
-    "ar": { "keys": 2300, "coverage_pct": 99.31 },
-    "ru": { "keys": 2300, "coverage_pct": 99.31 },
-    "de": { "keys": 2316, "coverage_pct": 100.0 }
+    "zh-TW": { "keys": 2319, "coverage_pct": 100.0 },
+    "en": { "keys": 2319, "coverage_pct": 100.0 },
+    "ja": { "keys": 2310, "coverage_pct": 99.61 },
+    "ko": { "keys": 2310, "coverage_pct": 99.61 },
+    "es": { "keys": 2304, "coverage_pct": 99.35 },
+    "fr": { "keys": 2303, "coverage_pct": 99.31 },
+    "vi": { "keys": 2303, "coverage_pct": 99.31 },
+    "id": { "keys": 2303, "coverage_pct": 99.31 },
+    "pt": { "keys": 2303, "coverage_pct": 99.31 },
+    "hi": { "keys": 2303, "coverage_pct": 99.31 },
+    "ar": { "keys": 2303, "coverage_pct": 99.31 },
+    "ru": { "keys": 2303, "coverage_pct": 99.31 },
+    "de": { "keys": 2319, "coverage_pct": 100.0 }
   }
 }

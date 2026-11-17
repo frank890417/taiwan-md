@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T22:29:51.421Z",
+  "lastUpdated": "2026-11-17T22:07:10.700Z",
   "totals": {
     "contributors": 80,
     "activeWindow": "last 30d"
@@ -7,49 +7,49 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10450,
+      "commits": 10650,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-11-07 02:37:15 +0800",
+      "lastCommitAt": "2026-11-18 02:36:53 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1808,
-        "system": 5314,
-        "translation": 2473
+        "content": 1838,
+        "system": 5396,
+        "translation": 2502
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 477,
+      "commits": 480,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-10-14 16:50:04 +0800",
+      "lastCommitAt": "2026-11-09 15:50:08 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 472,
+        "content": 475,
         "system": 1,
         "translation": 0
       }
     },
     {
       "login": "tboydar",
-      "commits": 182,
+      "commits": 205,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-11-04 21:56:49 +0800",
-      "primaryArea": "translation",
+      "lastCommitAt": "2026-11-16 20:47:47 +0800",
+      "primaryArea": "content",
       "breakdown": {
-        "content": 79,
+        "content": 102,
         "system": 21,
         "translation": 101
       }
     },
     {
       "login": "aminzai",
-      "commits": 122,
+      "commits": 129,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -231,7 +231,7 @@
     },
     {
       "login": "iigmir",
-      "commits": 10,
+      "commits": 11,
       "avatarUrl": "https://avatars.githubusercontent.com/u/11061770?v=4",
       "profileUrl": "https://github.com/iigmir",
       "firstCommitAt": null,
@@ -851,16 +851,30 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 477,
+      "commits": 480,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-10-14 16:50:04 +0800",
+      "lastCommitAt": "2026-11-09 15:50:08 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 472,
+        "content": 475,
         "system": 1,
         "translation": 0
+      }
+    },
+    {
+      "login": "tboydar",
+      "commits": 205,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "firstCommitAt": "2026-03-23 22:51:19 +0800",
+      "lastCommitAt": "2026-11-16 20:47:47 +0800",
+      "primaryArea": "content",
+      "breakdown": {
+        "content": 102,
+        "system": 21,
+        "translation": 101
       }
     },
     {
@@ -904,35 +918,21 @@
         "system": 2,
         "translation": 2
       }
-    },
-    {
-      "login": "CKS40660",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118961951?v=4",
-      "profileUrl": "https://github.com/CKS40660",
-      "firstCommitAt": "2026-10-23 07:41:42 +0800",
-      "lastCommitAt": "2026-10-23 09:38:45 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 5,
-        "system": 0,
-        "translation": 0
-      }
     }
   ],
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10450,
+      "commits": 10650,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-11-07 02:37:15 +0800",
+      "lastCommitAt": "2026-11-18 02:36:53 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1808,
-        "system": 5314,
-        "translation": 2473
+        "content": 1838,
+        "system": 5396,
+        "translation": 2502
       }
     },
     {
@@ -994,20 +994,6 @@
   ],
   "topTranslation": [
     {
-      "login": "tboydar",
-      "commits": 182,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-11-04 21:56:49 +0800",
-      "primaryArea": "translation",
-      "breakdown": {
-        "content": 79,
-        "system": 21,
-        "translation": 101
-      }
-    },
-    {
       "login": "Link1515",
       "commits": 53,
       "avatarUrl": "https://avatars.githubusercontent.com/u/88765055?v=4",
@@ -1062,9 +1048,23 @@
         "system": 0,
         "translation": 7
       }
+    },
+    {
+      "login": "ceruleanstring",
+      "commits": 4,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
+      "profileUrl": "https://github.com/ceruleanstring",
+      "firstCommitAt": "2026-04-07 19:58:17 +0800",
+      "lastCommitAt": "2026-04-15 12:29:57 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 161
+      }
     }
   ],
-  "weeklyActive": 4,
+  "weeklyActive": 2,
   "monthlyActive": 6,
   "recentlyJoined": [
     {
@@ -1083,14 +1083,14 @@
     },
     {
       "login": "CKS40660",
-      "commits": 5,
+      "commits": 6,
       "avatarUrl": "https://avatars.githubusercontent.com/u/118961951?v=4",
       "profileUrl": "https://github.com/CKS40660",
       "firstCommitAt": "2026-10-23 07:41:42 +0800",
-      "lastCommitAt": "2026-10-23 09:38:45 +0800",
+      "lastCommitAt": "2026-11-07 18:32:50 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 5,
+        "content": 6,
         "system": 0,
         "translation": 0
       }

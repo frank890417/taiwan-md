@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-17",
   "totalDetected": 17,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 12,
@@ -25,7 +25,7 @@
       "cognitiveLayer": "yes",
       "health": "semi-active",
       "firstSeen": "2026-04",
-      "views365d": 1068
+      "views365d": 1047
     },
     {
       "label": "HongKong.md",
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 537
+      "views365d": 507
     },
     {
       "label": "Russia.md",
@@ -53,7 +53,7 @@
       "cognitiveLayer": "no docs/semiont",
       "health": "active",
       "firstSeen": "2026-03",
-      "views365d": 204
+      "views365d": 232
     },
     {
       "label": "LagunaBeach.md",
