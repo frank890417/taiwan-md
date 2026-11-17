@@ -198,6 +198,7 @@
           "number": 3,
           "registeredOn": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "article": { "zh": "李四川", "slug": "li-szu-chuan" },
           "numberSource": "https://www.cec.gov.tw/tpcec/article/65360"
         }
       ]
@@ -365,6 +366,7 @@
           "number": 5,
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "article": { "zh": "賴瑞隆", "slug": "lai-jui-lung" },
           "numberSource": "https://www.cec.gov.tw/khec/article/65366"
         }
       ]
