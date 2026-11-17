@@ -76,7 +76,7 @@ Cara ini nanti diikuti banyak perusahaan dan lembaga publik: menyerahkan perusah
 
 Tanggal 17 Maret 1990 Liga Profesional Baseball Taiwan (CPBL) tahun pertama buka, Empat tim pendiri: Brother Elephants, Mercuries Tigers, Uni-President Lions, Wei Chuan Dragons, semuanya bernama hewan, mengikat identitas tim langsung ke satu hewan konkret.[^22]
 
-Maskot olahraga beda jauh dengan hadiah perusahaan. Datong Baby mewakili reputasi dan janji tahan lama perusahaan, maskot tim profesional harus tiap minggu menampung emosi menang-kalah penggemar, mobilisasi kandang, dan rasa milik komunitas. Gajah, harimau, singa, naga awalnya logo di dada baju, baru nanti tumbuh jadi boneka berjalan di pinggir lapangan, menggerakkan sorak.[^^22]
+Maskot olahraga beda jauh dengan hadiah perusahaan. Datong Baby mewakili reputasi dan janji tahan lama perusahaan, maskot tim profesional harus tiap minggu menampung emosi menang-kalah penggemar, mobilisasi kandang, dan rasa milik komunitas. Gajah, harimau, singa, naga awalnya logo di dada baju, baru nanti tumbuh jadi boneka berjalan di pinggir lapangan, menggerakkan sorak.[^22]
 
 Empat hewan itu jadi pembawa memori generasi penggemar. Bukan cuma bikin suasana di tribun, jadi inti barang merch tim, alat sorak khas penggemar, dan memori bersama generasi. Kemenangan tim sementara, tapi rasa milik yang dibangkitkan peran di tribun, bisa temani penggemar lewat puluhan tahun.[^22]
 
@@ -102,7 +102,7 @@ Beruang hitam jadi pilihan desain pertama publik, sebab punya tiga efisiensi vis
 
 Tapi, sikap aman "pilih beruang hitam pasti aman", cepat bawa krisis kejenuhan pengenalan. Seluruh Taiwan publik dan swasta pernah lahirkan puluhan beruang hitam tak ada hubungan darah, dari Direktorat Jenderal Pariwisata "Oh Bear", Taipei "Bravo", Kaohsiung "Kaohsiung Bear", Wei Hwa "Wei Bear", sampai Pasar Malam Ningxia "Ningxia Bear". Lin Cheng-yi bercanda, cuma Kaohsiung sudah tiga, nggak tahu siapa bedain "Gao Gao Bear" sama "Kaohsiung Bear".[^23]
 
-Desainer layanan Lin Cheng-yi pernah analisis, saat tiap beruang mirip "beruang hitam Taiwan" istilah umum, peran justru kehilangan titik ingat sebagai merek independen, mudah jadi alat jalan-jalan acara sekali pakai. Baru saat peran dimasukin tugas kota konkret dan operasional harian jangka panjang, dia mungkin keluar dari "lagi satu beruang hitam".[^^23]
+Desainer layanan Lin Cheng-yi pernah analisis, saat tiap beruang mirip "beruang hitam Taiwan" istilah umum, peran justru kehilangan titik ingat sebagai merek independen, mudah jadi alat jalan-jalan acara sekali pakai. Baru saat peran dimasukin tugas kota konkret dan operasional harian jangka panjang, dia mungkin keluar dari "lagi satu beruang hitam".[^23]
 
 | Lapisan Desain    | Pembaca Pertama Lihat Apa                 | Masih Perlu Tambah Isi Apa                                            |
 | ----------------- | ----------------------------------------- | --------------------------------------------------------------------- |

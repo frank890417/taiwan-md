@@ -51,7 +51,7 @@ Transisi ini bukan sekadar "bangunan tua ganti fungsi". Ia juga memantul pergese
 
 2002, Yayasan Pendidikan Budaya Kertas Angin (紙風車文教基金會) turut membangun ulang sejarah Teater Red House; 2007, Yayasan Budaya Kota Taipei (臺北市文化基金會) mengambil alih pengelolaan. Data resmi dan halaman sejarah berbahasa Inggris Red House sama-sama menilai fase ini krusial untuk penempatan ulang: bangunan pasar dikembalikan ke jaringan pertunjukan seni, pasar kreatif, dan pengembangan kawasan Ximending.[^2] [^3] [^5]
 
-Di sini ada perbedaan yang sering terlewat. Pemanfaatan ulang cagar budaya bukan mengosongkan rumah tua lalu menyisipkan beberapa toko baru; yang diurus adalah bagaimana fungsi baru tak menghapus jejak sejarah asal. Menara Berdelapan, Menara Bersilang, dan alun-alun utara-selatan diletakkan dalam satu kerangka pengelolaan, pameran, kuliner, jualan kreatif, bengkel, dan pertunjukan masing-masing berperan, saling tarik pengunjung.[^^2] [^4]
+Di sini ada perbedaan yang sering terlewat. Pemanfaatan ulang cagar budaya bukan mengosongkan rumah tua lalu menyisipkan beberapa toko baru; yang diurus adalah bagaimana fungsi baru tak menghapus jejak sejarah asal. Menara Berdelapan, Menara Bersilang, dan alun-alun utara-selatan diletakkan dalam satu kerangka pengelolaan, pameran, kuliner, jualan kreatif, bengkel, dan pertunjukan masing-masing berperan, saling tarik pengunjung.[^2] [^4]
 
 Taipei Travel Net pernah mencatat, satu sisi Menara Bersilang dikembangkan jadi pasar kreatif dan Pusat Pengembangan Industri Kreatif Budaya, sisi lain jadi venue pertunjukan band. Susunan ini memberi kreator tempat menjual karya dan tampil, juga membuat orang yang ke Ximending tak perlu dulu memikirkan "saya penonton pameran", baru punya alasan masuk cagar budaya.[^3]
 

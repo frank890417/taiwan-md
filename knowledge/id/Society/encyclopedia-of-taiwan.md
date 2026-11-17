@@ -37,9 +37,9 @@ Proyek senilai 500 juta ini adalah taruhan besar tentang "hak interpretasi subje
 
 Tokoh inti dari proyek besar ini adalah Wang Yongwen, Presiden Far East Publishing. Baginya, ensiklopedia adalah penghargaan akhir bagi seorang penerbit. Visi yang diausungkan di awal proyek sangat ambisius: dia berharap dapat menyelesaikan versi bahasa Mandarin online dalam **4 tahun**, versi bahasa Inggris online dalam **5 tahun**, dan menerbitkan versi cetak dalam **6 tahun** (setidaknya **30 volume**, **50 juta karakter**, mencetak 10.000 eksemplar untuk disumbangkan ke sekolah dan ke internasional)[^2].
 
-Target isi mencakup struktur pengetahuan yang jelas (**Propedia**) dan **setidaknya 100.000 entri**. Dia mengacu pada anggaran revisi Edisi ke-16 Ensiklopedia Britannica, memperkirakan anggaran total selama enam tahun sebesar **1,4 miliar yuan**, dan mencusulkan pendirian yayasan swadana untuk pemeliharaan jangka panjang[^2]. Untuk memastikan otoritas, proyek ini mengundang pemenang Hadiah Nobel Li Yuanzhu pada Mei 2007 untuk menjadi **Direktur Komite Penyuntingan Ahli Pengawas**[^\*^1][^\*^3].
+Target isi mencakup struktur pengetahuan yang jelas (**Propedia**) dan **setidaknya 100.000 entri**. Dia mengacu pada anggaran revisi Edisi ke-16 Ensiklopedia Britannica, memperkirakan anggaran total selama enam tahun sebesar **1,4 miliar yuan**, dan mencusulkan pendirian yayasan swadana untuk pemeliharaan jangka panjang[^2]. Untuk memastikan otoritas, proyek ini mengundang pemenang Hadiah Nobel Li Yuanzhu pada Mei 2007 untuk menjadi **Direktur Komite Penyuntingan Ahli Pengawas**[^1][^3].
 
-Namun, realitas dan impian jauh berbeda. Anggaran sebenarnya yang dilaksanakan sekitar **520 juta yuan**[^\*^1]. Rencana yang sebelumnya ditargetkan untuk menerbitkan **20 volume** pada 2008, dalam proses pelaksanaan karena keterbatasan anggaran dan pergeseran fokus ke digital, pada akhirnya hanya selesai oleh anak perusahaan Far East, "Zhihui Cang Teknologi Pendidikan", yang menyelesaikan enam volume pertama. Rencana penerbitan cetak besar tidak pernah terwujud sebagaimana direncanakan[^\*^1][^\*^2][^\*^4].
+Namun, realitas dan impian jauh berbeda. Anggaran sebenarnya yang dilaksanakan sekitar **520 juta yuan**[^1]. Rencana yang sebelumnya ditargetkan untuk menerbitkan **20 volume** pada 2008, dalam proses pelaksanaan karena keterbatasan anggaran dan pergeseran fokus ke digital, pada akhirnya hanya selesai oleh anak perusahaan Far East, "Zhihui Cang Teknologi Pendidikan", yang menyelesaikan enam volume pertama. Rencana penerbitan cetak besar tidak pernah terwujud sebagaimana direncanakan[^1][^2][^4].
 
 📝 Catatan kurator: Ketika mimpi penerbit bertemu dengan anggaran negara, taruhan ini sepertinya mendapatkan dukungan terkuat, namun juga ditakdirkan untuk bernegosiasi selama satu dekade dengan birokrasi, perubahan teknologi, dan budaya komunitas.
 
@@ -47,35 +47,35 @@ Namun, realitas dan impian jauh berbeda. Anggaran sebenarnya yang dilaksanakan s
 
 Pada awalnya, proyek ini mengadopsi strategi "versi rakyat lebih dulu", dan melalui tiga siklus utama iterasi sistem teknologi dan evolusi lisensi:
 
-1. **Sistem Pengembangan Mandiri (diluncurkan Januari 2005)**: Dikelola oleh Asosiasi Agenda Abad ke-21 Taiwan. Sistem ini memerlukan pendaftaran dengan nama, nomor telepon, bahkan **nomor KTP**, menimbulkan kekhawatiran serius tentang privasi[^\*^1][^\*^2]. Pada awalnya diterapkan sistem "membayar setelah kontribusi disetujui", menyebabkan banjirnya entri, dan proses peninjauan menjadi tertunda parah[^\*^5].
-2. **Sistem MediaWiki (diperbarui 2007)**: Situs web beralih ke sistem MediaWiki, dengan lisensi **GNU Free Documentation License (GFDL)**[^\*^2]. Pada masa ini, karena sifat sistem yang terbuka, "konten pengguna hampir tidak diperiksa", **artikel plagiarisme berdaulang**, menjadi krisis kualitas terbesar proyek ini[^\*^1][^\*^2].
-3. **Sistem Mandiri (diperbarui Oktober 2009)**: Untuk memecahkan masalah plagiarisme dan kualitas, situs web kembali diperbarui menjadi sistem mandiri (taiwanpedia.culture.tw), dengan lisensi disesuaikan menjadi **CC BY-NC-SA 2.5 Creative Commons**, secara eksplisit menyatakan sikap "terbuka tetapi tidak untuk penggunaan komersial"[^\*^1][^\*^2].
+1. **Sistem Pengembangan Mandiri (diluncurkan Januari 2005)**: Dikelola oleh Asosiasi Agenda Abad ke-21 Taiwan. Sistem ini memerlukan pendaftaran dengan nama, nomor telepon, bahkan **nomor KTP**, menimbulkan kekhawatiran serius tentang privasi[^1][^2]. Pada awalnya diterapkan sistem "membayar setelah kontribusi disetujui", menyebabkan banjirnya entri, dan proses peninjauan menjadi tertunda parah[^5].
+2. **Sistem MediaWiki (diperbarui 2007)**: Situs web beralih ke sistem MediaWiki, dengan lisensi **GNU Free Documentation License (GFDL)**[^2]. Pada masa ini, karena sifat sistem yang terbuka, "konten pengguna hampir tidak diperiksa", **artikel plagiarisme berdaulang**, menjadi krisis kualitas terbesar proyek ini[^1][^2].
+3. **Sistem Mandiri (diperbarui Oktober 2009)**: Untuk memecahkan masalah plagiarisme dan kualitas, situs web kembali diperbarui menjadi sistem mandiri (taiwanpedia.culture.tw), dengan lisensi disesuaikan menjadi **CC BY-NC-SA 2.5 Creative Commons**, secara eksplisit menyatakan sikap "terbuka tetapi tidak untuk penggunaan komersial"[^1][^2].
 
-"Orang yang suka menggunakan internet cenderung menolak penulisan dan kritik pengetahuan yang digerakkan oleh pemerintah."[^\*^5] Ini adalah konsensus yang dicapai setelah Kementerian Kebudayaan (saat itu Kementerian Pembangunan Informasi dan Budaya) mengundang para ahli dan akademisi untuk berdiskusi pada 2006. Kehawatiran para ahli tentang "membatalkan kritik" tidak hanya berkaitan dengan otoritas, tetapi juga khawatir bahwa "subjektivitas Taiwan" akan terhakis oleh kebisingan[^\*^2].
+"Orang yang suka menggunakan internet cenderung menolak penulisan dan kritik pengetahuan yang digerakkan oleh pemerintah."[^5] Ini adalah konsensus yang dicapai setelah Kementerian Kebudayaan (saat itu Kementerian Pembangunan Informasi dan Budaya) mengundang para ahli dan akademisi untuk berdiskusi pada 2006. Kehawatiran para ahli tentang "membatalkan kritik" tidak hanya berkaitan dengan otoritas, tetapi juga khawatir bahwa "subjektivitas Taiwan" akan terhakis oleh kebisingan[^2].
 
 ### Hasil: Produksi Pengetahuan dengan Nada Piramida
 
-Meskipun prosesnya berliku, "Taiwan Teknopedia" masih meninggalkan warisan akademis yang berharga. Versi profesional menekankan "nada piramida": tiga kalimat pertama harus mengandung fakta konkret, kemudian masuk ke dalam penjelasan yang sederhana, dan akhirnya menyediakan bacaan lanjutan[^\*^6]. Proyek ini, pada pertengahan hingga akhir 2000-an, melakukan pengorganisasian sistematis terhadap sejarah, geografi, adat tradisional, sastra, dan 16 bidang lainnya di Taiwan[^\*^5][^\*^7].
+Meskipun prosesnya berliku, "Taiwan Teknopedia" masih meninggalkan warisan akademis yang berharga. Versi profesional menekankan "nada piramida": tiga kalimat pertama harus mengandung fakta konkret, kemudian masuk ke dalam penjelasan yang sederhana, dan akhirnya menyediakan bacaan lanjutan[^6]. Proyek ini, pada pertengahan hingga akhir 2000-an, melakukan pengorganisasian sistematis terhadap sejarah, geografi, adat tradisional, sastra, dan 16 bidang lainnya di Taiwan[^5][^7].
 
-| Kategori                    | Data                                                                                                            |
-| :-------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| **Rencana Versi Rakyat**    | 15.036 entri                                                                                                    |
-| **Kontribusi Versi Rakyat** | 11.793 entri (sekitar 10.648 yang lolos kritik di awal)[^\*^2]                                                  |
-| **Data Kumulatif**          | Hingga akhir 2011, kumulatif sekitar **50.008 entri** (termasuk jumlah yang belum diajukan secara ketat)[^\*^2] |
-| **Hasil Versi Profesional** | Lebih dari **13.000 entri berkualitas tinggi yang telah disunting ahli**[^\*^5]                                 |
-| **Sumber Daya Multimedai**  | 8.929 gambar dan sebagian besar berkas audio visual[^\*^2]                                                      |
+| Kategori                    | Data                                                                                                         |
+| :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Rencana Versi Rakyat**    | 15.036 entri                                                                                                 |
+| **Kontribusi Versi Rakyat** | 11.793 entri (sekitar 10.648 yang lolos kritik di awal)[^2]                                                  |
+| **Data Kumulatif**          | Hingga akhir 2011, kumulatif sekitar **50.008 entri** (termasuk jumlah yang belum diajukan secara ketat)[^2] |
+| **Hasil Versi Profesional** | Lebih dari **13.000 entri berkualitas tinggi yang telah disunting ahli**[^5]                                 |
+| **Sumber Daya Multimedai**  | 8.929 gambar dan sebagian besar berkas audio visual[^2]                                                      |
 
 📝 Catatan kurator: Yang paling berharga dari ensiklopedia ini bukan hanya lima ratus jutanya, tetapi ia memaksa para ahli dari berbagai bidang untuk melakukan pemeriksaan pengetahuan menyeluruh tentang Taiwan di awal transformasi digital, dan mencoba berinteraksi dengan komunitas online.
 
 ### Akhir: Pengunduran Diri Digital 2014 dan Pergeseran Paradigma
 
-Pada Juni 2014, Kementerian Budaya secara resmi menggabungkan entri "Taiwan Teknopedia" ke dalam "Basis Data Budaya Nasional" (nrch.culture.tw), dan tidak lagi membuka kolaborasi komunitas[^\*^1][^\*^2]. **15 Juli 2014**, situs web independen secara resmi ditutup[^\*^1][^\*^2].
+Pada Juni 2014, Kementerian Budaya secara resmi menggabungkan entri "Taiwan Teknopedia" ke dalam "Basis Data Budaya Nasional" (nrch.culture.tw), dan tidak lagi membuka kolaborasi komunitas[^1][^2]. **15 Juli 2014**, situs web independen secara resmi ditutup[^1][^2].
 
-Ini adalah titik belok penting: negara memilih untuk mengakui keterbatasan monorel "ensiklopedia otoritatif tunggal" di era Web 2.0, dan malahan memperlakukan konten sebagai bagian dari "data terbuka" (Open Data). Sekarang ini, entri-entri ini telah terintegrasi ke dalam "Basis Data Budaya Nasional 2.0", yang beralih dari "ensiklopedia ahli" ke "perpustakaan sumber rakyat", dan menggabungkan aplikasi NLP dan AI, menekankan "berbagi dan kreativitas ulang DNA budaya"[^\*^8][^\*^9].
+Ini adalah titik belok penting: negara memilih untuk mengakui keterbatasan monorel "ensiklopedia otoritatif tunggal" di era Web 2.0, dan malahan memperlakukan konten sebagai bagian dari "data terbuka" (Open Data). Sekarang ini, entri-entri ini telah terintegrasi ke dalam "Basis Data Budaya Nasional 2.0", yang beralih dari "ensiklopedia ahli" ke "perpustakaan sumber rakyat", dan menggabungkan aplikasi NLP dan AI, menekankan "berbagi dan kreativitas ulang DNA budaya"[^8][^9].
 
 ### Tantangan dan Kontroversi: Medan Baru Kedaulatan Pengetahuan
 
-Perang pengetahuan ini belum berakhir. Pada akhir 2025, penerbit Ensiklopedia Cina besar meluncurkan "Ensiklopedia Sejarah Taiwan" sebesar 960.000 kata, yang menekankan "prinsip satu Tiongkok"[^\*^10]. Ini membuktikan bahwa ketika kita tidak mendefinisikan diri sendiri, orang lain akan mendefinisikan untuk kita.
+Perang pengetahuan ini belum berakhir. Pada akhir 2025, penerbit Ensiklopedia Cina besar meluncurkan "Ensiklopedia Sejarah Taiwan" sebesar 960.000 kata, yang menekankan "prinsip satu Tiongkok"[^10]. Ini membuktikan bahwa ketika kita tidak mendefinisikan diri sendiri, orang lain akan mendefinisikan untuk kita.
 
 Masa depan kedaulatan pengetahuan Taiwan mungkin tidak ada pada "ensiklopedia nasional otoritatif", tetapi pada bagaimana konten lokal dapat ditemukan dan dipelihara secara efektif di platform global (seperti Wikipedia, model bahasa besar AI). Eksperimen yang menghabiskan lima ratus juta yuan ini memberikan pelajaran mendalam: peran paling cocok bagi negara adalah sebagai pelindung arsip dasar dan data terbuka, bukan sebagai penetapan tunggal interpretasi pengetahuan.
 

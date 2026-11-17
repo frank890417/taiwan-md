@@ -129,7 +129,7 @@ Seluruh alumni TFT, delapan puluh persen lebih tetap bekerja di bidang ketidakse
 
 Angka ini mungkin pembelaan terbaik TFT: kalau orang-orang ini dua tahun lalu pergi dari lapangan pendidikan, kritikus benar—ini cuma pengalaman relawan mirip plakat emas. Tapi kalau delapan puluh persen memilih tinggal, lanjutkan hal yang sama dengan cara berbeda, berarti dua tahun itu mengubah bukan cuma anak-anak, tapi juga sudut pandang dunia para muda ini.
 
-2025, TFT gelar "Festival Merasakan" di Taman Budaya Kreatif Huashan, gabungin musik, pasar, pameran, dan dialog lintas bidang[^^14]. Sebelas tahun lalu organisasi bermodal dua ribu yuan, sekarang punya lebih dari seratus mitra korporasi dan amal, setiap tahun menyentuh lebih dari sepuluh ribu muda[^14].
+2025, TFT gelar "Festival Merasakan" di Taman Budaya Kreatif Huashan, gabungin musik, pasar, pameran, dan dialog lintas bidang[^14]. Sebelas tahun lalu organisasi bermodal dua ribu yuan, sekarang punya lebih dari seratus mitra korporasi dan amal, setiap tahun menyentuh lebih dari sepuluh ribu muda[^14].
 
 Angkatan ke-duabelas sedang rekrut[^14].
 
