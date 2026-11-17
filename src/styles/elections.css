@@ -1,0 +1,82 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * elections.css — 2026 選舉專頁五頁共用的顏色 token（淺色＋深色）。
+ *
+ * 設計報告：reports/design-elections-2026-upgrade-2026-11-17.md §七。
+ * 用法：頁面最外層加 class="el-surface"，樣式裡只用 var(--el-*)，不寫色碼。
+ * 淺色值等於 2026-10 改版當時主頁的色碼（視覺不變）；深色值另配，正文對比
+ * 依 WCAG AA（4.5:1）以上。圖表一律用 --el-chart-*／--el-map-*，不用政黨色。
+ *
+ * 選擇器只掛在 .el-surface 底下，不寫全域選擇器。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.el-surface {
+  /* 底與面 */
+  --el-bg: #faf7f0;
+  --el-card: #fff;
+  --el-about: #f3ecdc; /* 米色區塊（關於、說明框） */
+  --el-cream: #fdfaf2; /* 子頁的淺米底 */
+  --el-slate: #f1f2f4; /* 中性灰底 */
+  /* 線 */
+  --el-border: #e7dfcc;
+  --el-border-strong: #d4c5a0;
+  --el-rule: #efe8d8;
+  /* 字 */
+  --el-ink: #1c1917;
+  --el-ink-2: #57534e;
+  --el-ink-3: #716a65; /* 規格 #78716c 在 #faf7f0 只有 4.48:1，微調到 4.97:1 */
+  /* 強調 */
+  --el-accent: #7c2d12;
+  --el-accent-2: #92400e;
+  --el-accent-soft: #fbefe6;
+  --el-done: #3f6212;
+  --el-positive: #15803d;
+  --el-positive-soft: #f0fdf4;
+  --el-warn-soft: #fef3c7;
+  /* 圖表（計數用，與政黨無關） */
+  --el-chart-bar: #7c2d12;
+  --el-chart-track: #efe8d8;
+  --el-chart-label: #57534e;
+  --el-map-0: #f3ecdc;
+  --el-map-1: #e7c9a8;
+  --el-map-2: #d39a6e;
+  --el-map-3: #b0653d;
+  --el-map-4: #7c2d12;
+  --el-map-stroke: #faf7f0;
+  --el-map-hover: #1c1917;
+  /* 字體 */
+  --el-serif: 'jf-lanyangming', var(--font-title, 'Noto Serif TC'), serif;
+  --el-sans: var(--font-interface, 'Noto Sans TC'), sans-serif;
+  --el-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+}
+
+:root[data-theme='dark'] .el-surface {
+  --el-bg: #0e0d0b;
+  --el-card: #181613;
+  --el-about: #1d1a15;
+  --el-cream: #14120f;
+  --el-slate: #1b1c1f;
+  --el-border: rgba(243, 236, 222, 0.16);
+  --el-border-strong: rgba(243, 236, 222, 0.28);
+  --el-rule: rgba(243, 236, 222, 0.1);
+  --el-ink: #f3efe7;
+  --el-ink-2: #d2cbc0;
+  --el-ink-3: #aaa298;
+  --el-accent: #f2a77f;
+  --el-accent-2: #f6bf91;
+  --el-accent-soft: rgba(242, 167, 127, 0.14);
+  --el-done: #b4d382;
+  --el-positive: #86d39a;
+  --el-positive-soft: rgba(134, 211, 154, 0.12);
+  --el-warn-soft: rgba(250, 204, 21, 0.12);
+  --el-chart-bar: #f2a77f;
+  --el-chart-track: rgba(243, 236, 222, 0.1);
+  --el-chart-label: #d2cbc0;
+  --el-map-0: #2a241d;
+  --el-map-1: #5a3b28;
+  --el-map-2: #8e5536;
+  --el-map-3: #c27449;
+  --el-map-4: #f2a77f;
+  --el-map-stroke: #0e0d0b;
+  --el-map-hover: #f3efe7;
+  color-scheme: dark;
+}
