@@ -36,9 +36,9 @@ Bởi vì đó chính là bảo hiểm cấu trúc cuối cùng cho chất lư�
 
 ## Ủy ban Bầu cử Trung ương: Pháp lý và Khung Cấu trúc
 
-Ủy ban Bầu cử Trung ương là một **cơ quan độc lập** dưới Viện Hành pháp[^3]. Cơ quan độc lập có nghĩa là mặc dù nó ở trong hệ thống tổ chức của Viện Hành pháp, nhưng khi thực hiện quyền hạn, nó không tuân theo sự chỉ đạo hoặc giám sát của Viện Trưởng Hành pháp — cùng loại với Ủy ban Thông tấn và Truyền thông (NCC), Ủy ban Công bằng Thương mại (Công bằng Ủy ban), và Ủy ban Điều tra An toàn Vận tải (Ủy ban An toàn).
+Ủy ban Bầu cử Trung ương là một **cơ quan độc lập** dưới Viện Hành pháp[^2]. Cơ quan độc lập có nghĩa là mặc dù nó ở trong hệ thống tổ chức của Viện Hành pháp, nhưng khi thực hiện quyền hạn, nó không tuân theo sự chỉ đạo hoặc giám sát của Viện Trưởng Hành pháp — cùng loại với Ủy ban Thông tấn và Truyền thông (NCC), Ủy ban Công bằng Thương mại (Công bằng Ủy ban), và Ủy ban Điều tra An toàn Vận tải (Ủy ban An toàn).
 
-Luật Tổ chức Ủy ban Bầu cử Trung ương được thực thi năm 2009[^4], tích hợp các quy định của Ủy ban Bầu cử Trung ương trước đây rải rác trong các sắc lệnh hành chính khác nhau thành một luật chính thức. Luật quy định:
+Luật Tổ chức Ủy ban Bầu cử Trung ương được thực thi năm 2009[^3], tích hợp các quy định của Ủy ban Bầu cử Trung ương trước đây rải rác trong các sắc lệnh hành chính khác nhau thành một luật chính thức. Luật quy định:
 
 - **Số thành viên**: 9 đến 11 người, mỗi Chủ tịch và Phó Chủ tịch 1 người
 - **Nhiệm kỳ**: 4 năm, **không được tái nhiệm kỳ**
@@ -58,7 +58,7 @@ Quy trình bổ nhiệm thành viên có vẻ như rất đơn giản:
 
 Tuy nhiên khi hoạt động thực tế, căng thẳng chính trị của quy trình này xa vượt quá các quy định pháp lý.
 
-**Khi phe cầm quyền lớn, phe đối lập nhỏ** (phe cầm quyền kiểm soát cả Viện Hành pháp lẫn Viện Lập pháp): việc đề cử dễ dàng được thông qua, nhưng phe cầm quyền sẽ bị công chúng giám sát "có hay không là đã đề cử quá nhiều thành viên cùng đảng" — lúc này "không quá một phần ba từ cùng đảng" trở thành một ràng buộc quan trọng. Trong lịch sử, trong thời kỳ chính phủ Mã Anh Cửu (2008) và Thái Anh Văn (2016), cả hai đều từng có danh sách đề cử bị chất vấn về "tính đại diện đa đảng không đủ"[^5].
+**Khi phe cầm quyền lớn, phe đối lập nhỏ** (phe cầm quyền kiểm soát cả Viện Hành pháp lẫn Viện Lập pháp): việc đề cử dễ dàng được thông qua, nhưng phe cầm quyền sẽ bị công chúng giám sát "có hay không là đã đề cử quá nhiều thành viên cùng đảng" — lúc này "không quá một phần ba từ cùng đảng" trở thành một ràng buộc quan trọng. Trong lịch sử, trong thời kỳ chính phủ Mã Anh Cửu (2008) và Thái Anh Văn (2016), cả hai đều từng có danh sách đề cử bị chất vấn về "tính đại diện đa đảng không đủ"[^4].
 
 **Khi phe cầm quyền nhỏ, phe đối lập lớn** (Viện Hành pháp và Viện Lập pháp do các đảng khác nhau nắm giữ): bế tắc đề cử trở thành tiêu chuẩn. Viện Trưởng Hành pháp đề cử những người mà Viện Lập pháp không đồng ý, Viện Lập pháp hy vọng những người mà Viện Trưởng Hành pháp không đề cử, việc đề cử / từ chối / đề cử lại có thể kéo dài nhiều tháng. Sau bầu cử 2024, Đài Loan rơi vào tình huống này, sự tranh cãi chính trị chậm chạp Viện Lập pháp không thông qua những thành viên mới là một ví dụ điển hình.
 
