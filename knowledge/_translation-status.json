@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T03:48:09+08:00",
-    "zhCommitHead": "3edd529a6",
+    "lastUpdated": "2026-11-18T03:51:15+08:00",
+    "zhCommitHead": "99eacf66b",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -20,17 +20,17 @@
     "summary": {
       "en": {
         "total_zh": 1186,
-        "fresh": 640,
+        "fresh": 641,
         "stale": 54,
         "metadata_stale": 467,
-        "missing": 25,
+        "missing": 24,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1186,
-        "fresh": 641,
+        "fresh": 642,
         "stale": 49,
-        "metadata_stale": 469,
+        "metadata_stale": 468,
         "missing": 27,
         "orphan": 0
       },
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1186,
-        "fresh": 643,
+        "fresh": 644,
         "stale": 57,
         "metadata_stale": 461,
-        "missing": 25,
+        "missing": 24,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1186,
-        "fresh": 622,
+        "fresh": 623,
         "stale": 67,
         "metadata_stale": 471,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       }
     },
@@ -2752,20 +2752,18 @@
         "ja": {
           "path": "ja/Music/taiwan-music-industry-and-the-streaming-era.md",
           "translatedFrom": "Music/台灣音樂產業與串流時代.md",
-          "sourceCommitSha": "10c444b35",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:f83026c30713b729",
           "sourceBodyHash": "sha256:15454291ed0f5b85",
-          "translatedAt": "2026-10-03T04:11:35+08:00",
+          "translatedAt": "2026-11-17T19:49:23.964018+00:00",
           "translationLastCommit": "013284f9",
           "translationLastModified": "2026-10-03T04:43:49+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 20675,
+          "bytes": 20732,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/taiwan-music-industry-and-the-streaming-era.md",
@@ -2912,11 +2910,11 @@
           "sourceContentHash": "sha256:f83026c30713b729",
           "sourceBodyHash": "sha256:15454291ed0f5b85",
           "translatedAt": "2026-11-17T19:46:32.109960+00:00",
-          "translationLastCommit": "61ccc1d5",
-          "translationLastModified": "2026-10-03T04:45:30+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 28429,
+          "bytes": 28431,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -3558,8 +3556,8 @@
           "sourceContentHash": "sha256:d424949afdcc0ad2",
           "sourceBodyHash": "sha256:f3b6a62bd1b3e3fe",
           "translatedAt": "2026-11-17T19:33:01.840619+00:00",
-          "translationLastCommit": "e0f9fffc",
-          "translationLastModified": "2026-10-03T02:44:45+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 30983,
@@ -18240,8 +18238,8 @@
           "sourceContentHash": "sha256:e2e52ce67066146d",
           "sourceBodyHash": "sha256:956a2e50c55badba",
           "translatedAt": "2026-11-17T18:23:14.049854+00:00",
-          "translationLastCommit": "e0f9fffc",
-          "translationLastModified": "2026-10-03T02:44:45+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 37338,
@@ -29040,8 +29038,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-11-17T19:25:08.741832+00:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 28083,
@@ -54242,7 +54240,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/hospice-palliative-care-and-patient-autonomy.md",
+          "translatedFrom": "Lifestyle/安寧緩和醫療與病人自主.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:0adbf2d6cca3c606",
+          "sourceBodyHash": "sha256:e93ea8843d47b9d9",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 14715,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -54314,7 +54325,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/hospice-palliative-care-and-patient-autonomy.md",
+          "translatedFrom": "Lifestyle/安寧緩和醫療與病人自主.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:0adbf2d6cca3c606",
+          "sourceBodyHash": "sha256:e93ea8843d47b9d9",
+          "translatedAt": "2026-11-18T00:52:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 17391,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -59537,7 +59561,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/organ-donation.md",
+          "translatedFrom": "Lifestyle/器官捐贈.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:fd63a97247c98178",
+          "sourceBodyHash": "sha256:8c46733cfa44c596",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 23001,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -60364,8 +60401,8 @@
           "sourceContentHash": "sha256:33d2f6cba1a3b0f2",
           "sourceBodyHash": "sha256:9a55ab468883045f",
           "translatedAt": "2026-11-17T18:36:21.718175+00:00",
-          "translationLastCommit": "e0f9fffc",
-          "translationLastModified": "2026-10-03T02:44:45+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 32540,
@@ -71948,8 +71985,8 @@
           "sourceContentHash": "sha256:ede91c7ee7539592",
           "sourceBodyHash": "sha256:24778da06af3ffc5",
           "translatedAt": "2026-11-17T18:52:15.111437+00:00",
-          "translationLastCommit": "763d1dcc",
-          "translationLastModified": "2026-10-15T20:13:17+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 37082,
@@ -77436,8 +77473,8 @@
           "sourceContentHash": "sha256:53dce2454f2bc650",
           "sourceBodyHash": "sha256:a975eff83abc0a3e",
           "translatedAt": "2026-11-17T19:37:28.936496+00:00",
-          "translationLastCommit": "916c76b0",
-          "translationLastModified": "2026-10-08T01:12:21+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 32099,
@@ -78958,8 +78995,8 @@
           "sourceContentHash": "sha256:01affe2533530c02",
           "sourceBodyHash": "sha256:21c703a5d9235d48",
           "translatedAt": "2026-11-17T19:17:26.578197+00:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 30305,
@@ -111950,8 +111987,8 @@
           "sourceContentHash": "sha256:e59170d02fd5cb4e",
           "sourceBodyHash": "sha256:4a3467792107ad07",
           "translatedAt": "2026-11-18T00:52:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 35620,
@@ -122893,8 +122930,8 @@
           "sourceContentHash": "sha256:08e74b51b6f448d6",
           "sourceBodyHash": "sha256:1d41125d44464226",
           "translatedAt": "2026-11-18T00:52:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b6dbc02f",
+          "translationLastModified": "2026-11-18T03:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 31059,

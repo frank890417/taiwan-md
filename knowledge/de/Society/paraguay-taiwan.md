@@ -30,11 +30,13 @@ image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'
 imageLicense: '政府公開資訊（OGDL — Open Government Data License）'
 imageSource: 'https://www.president.gov.tw/NEWS/20543'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '72a8b4432'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:01affe2533530c02'
 sourceBodyHash: 'sha256:21c703a5d9235d48'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-17T19:17:30.207976+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Paraguay und die Republik China nahmen 1957 diplomatische Beziehungen auf; 2026 ist das 69. Jahr. Es ist Taiwans einziger diplomatischer Partner in Südamerika und der flächenmäßig größte unter den aktuellen Partnerstaaten; bevölkerungsmäßig liegt es unter einigen mittelamerikanischen Partnern. Vom 7. bis 10. Mai 2026 reist Paraguays Präsident Peña (Santiago Peña) mit einer Delegation zu seinem ersten Staatsbesuch nach Taiwan; das Außenministerium kündigte an, dass Präsident Lai Ching-te ihn am 8. Mai mit militärischen Ehren, einem Staatsbankett und dem Orden des Ausgewählten Jades empfangen wird. Dass diese diplomatische Beziehung chinesischem Werben standhält, verdankt sie der diplomatischen Anerkennung, Agrarmärkten, der Taiwan-Paraguay-Technologischen Universität, dem Intelligenten Technologiepark und langjähriger technischer Zusammenarbeit.[^1][^2]

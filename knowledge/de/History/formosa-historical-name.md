@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/福爾摩沙.md'
-sourceCommitSha: '01d9d0e73'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:7935e86b210536e5'
 sourceBodyHash: 'sha256:dd15e8c65b7a98f1'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-17T19:33:05.447625+00:00'
 ---
 
 # Formosa: Wie die Europäer eine Insel „entdeckten“, die schon immer von Menschen bewohnt war

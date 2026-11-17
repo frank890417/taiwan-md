@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴清德.md'
-sourceCommitSha: '43e9e1c7e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5933733fa0ffe284'
 sourceBodyHash: 'sha256:759fc6aa29cdf9f0'
-translatedAt: '2026-10-04T00:52:00+08:00'
+translatedAt: '2026-11-17T18:30:34.912323+00:00'
 ---
 
 # Lai Ching-te: Vom Bergarbeiterhaushalt ins Präsidentenamt – ein Public-Health-Arzt

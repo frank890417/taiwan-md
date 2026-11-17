@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4dd14cf66'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b8c4015a34b3a79e'
 sourceBodyHash: 'sha256:9120e92d38401c8e'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-17T19:25:12.105975+00:00'
 ---
 
 # Taiwans E-Commerce und digitale Zahlungen: Drei Handelskriege einer Insel
