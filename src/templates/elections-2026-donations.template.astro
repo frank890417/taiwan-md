@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import donationsDataRaw from '../data/elections-2026-donations.json';
+import '../styles/elections.css';
 
 // 2026 九合一選舉：政治獻金透明度子頁。
 // 只寫規則、時程、查詢方法；不寫任何候選人的金額或評論。
@@ -1149,7 +1150,7 @@ const esc = (s: string) =>
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
 const linkCls =
-  'text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]';
+  'text-(--el-accent) underline decoration-(--el-accent)/30 underline-offset-2 hover:decoration-(--el-accent)';
 const a = (url: string, label: string) =>
   `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="${linkCls}">${esc(label)}</a>`;
 const srcHtml = (key: string) => {
@@ -1195,11 +1196,11 @@ const jsonLd = toJsonLd({
 
 const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 const serif = "font-family: 'Noto Serif TC', serif;";
-const sourceCls = 'mt-6 text-xs leading-[1.9] text-[#78716c]';
+const sourceCls = 'mt-6 text-xs leading-[1.9] text-(--el-ink-3)';
 const h2Cls =
-  'mb-4 text-center text-[1.6rem] font-light text-[#1f2937] md:text-[2.1rem]';
+  'mb-4 text-center text-[1.6rem] font-light text-(--el-ink) md:text-[2.1rem]';
 const cardCls =
-  'rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white/80 p-6 md:p-8';
+  'rounded-2xl border-[1.5px] border-(--el-border) bg-(--el-panel)/80 p-6 md:p-8';
 const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
 ---
 
@@ -1209,15 +1210,15 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
   description={c.metaDescription}
   readerSettings
 >
-  <div class="elections-donations">
+  <div class="elections-donations el-surface">
     <!-- Hero -->
     <section
-      class="hero relative overflow-hidden border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+      class="hero relative overflow-hidden border-b border-(--el-border) bg-gradient-to-b from-(--el-cream) via-(--el-bg) to-(--el-bg)"
     >
       <div
         class="relative mx-auto max-w-[920px] px-4 pb-14 pt-8 md:px-6 md:pb-20"
       >
-        <nav aria-label="breadcrumb" class="mb-10 text-sm text-[#78716c]">
+        <nav aria-label="breadcrumb" class="mb-10 text-sm text-(--el-ink-3)">
           <a href={`${langPrefix}/elections/2026/`} class={linkCls}
             >{c.breadcrumbHome}</a
           >
@@ -1226,20 +1227,20 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         </nav>
 
         <div
-          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-(--el-accent-2)"
         >
           {c.eyebrow}
         </div>
         <h1
-          class="hero-title mb-5 text-center text-[1.9rem] font-bold leading-[1.2] text-[#1f2937] md:text-[3.25rem]"
+          class="hero-title mb-5 text-center text-[1.9rem] font-bold leading-[1.2] text-(--el-ink) md:text-[3.25rem]"
           style="font-family: 'jf-lanyangming', 'rixingsong-semibold', 'Noto Serif TC', 'Source Han Serif TC', serif;"
         >
-          {c.titlePrefix}<span class="text-[#7c2d12]">{c.titleEmphasis}</span>{
-            c.titleSuffix
-          }
+          {c.titlePrefix}<span class="text-(--el-accent)"
+            >{c.titleEmphasis}</span
+          >{c.titleSuffix}
         </h1>
         <p
-          class="mx-auto mb-10 max-w-[640px] text-center text-lg italic leading-[1.7] text-[#52525b]"
+          class="mx-auto mb-10 max-w-[640px] text-center text-lg italic leading-[1.7] text-(--el-ink-2)"
         >
           {c.subtitle}
         </p>
@@ -1247,11 +1248,11 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         <div class="grid gap-3 sm:grid-cols-3">
           {
             c.facts.map((f) => (
-              <div class="rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/75 px-5 py-5 text-center shadow-[0_4px_20px_rgba(124,45,18,0.06)]">
-                <div class="text-2xl font-bold tabular-nums text-[#7c2d12] md:text-[1.75rem]">
+              <div class="rounded-2xl border-[1.5px] border-(--el-accent)/20 bg-(--el-panel)/75 px-5 py-5 text-center shadow-[0_4px_20px_color-mix(in_srgb,var(--el-accent)_6%,transparent)]">
+                <div class="text-2xl font-bold tabular-nums text-(--el-accent) md:text-[1.75rem]">
                   {f.value}
                 </div>
-                <div class="mt-1.5 text-sm leading-[1.6] text-[#78716c]">
+                <div class="mt-1.5 text-sm leading-[1.6] text-(--el-ink-3)">
                   {f.label}
                 </div>
               </div>
@@ -1260,7 +1261,7 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         </div>
 
         <p
-          class="mx-auto mt-8 max-w-[640px] rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/50 px-5 py-3 text-center text-sm leading-[1.7] text-[#52525b]"
+          class="mx-auto mt-8 max-w-[640px] rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-panel)/50 px-5 py-3 text-center text-sm leading-[1.7] text-(--el-ink-2)"
         >
           {c.stance}
         </p>
@@ -1273,7 +1274,7 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
             c.nav.map((l) => (
               <a
                 href={l.href}
-                class="inline-flex items-center gap-1.5 rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white/80 px-4 py-2 text-sm font-semibold text-[#7c2d12] no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/50 hover:bg-[#fef2ec]"
+                class="inline-flex items-center gap-1.5 rounded-full border-[1.5px] border-(--el-accent)/25 bg-(--el-panel)/80 px-4 py-2 text-sm font-semibold text-(--el-accent) no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-(--el-accent)/50 hover:bg-(--el-accent-soft)"
               >
                 {l.label}
                 <span aria-hidden="true">↓</span>
@@ -1285,16 +1286,19 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 時間軸 -->
-    <section id="timeline" class="anchor-section bg-[#fdfaf2] py-16 md:py-20">
+    <section
+      id="timeline"
+      class="anchor-section bg-(--el-cream) py-16 md:py-20"
+    >
       <div class="mx-auto max-w-[760px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.timeline.title}</h2>
         <p
-          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-[#52525b]"
+          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-(--el-ink-2)"
         >
           {c.timeline.intro}
         </p>
 
-        <ol class="relative list-none border-l-2 border-[#e7d9b8] pl-6">
+        <ol class="relative list-none border-l-2 border-(--el-border) pl-6">
           {
             timelineRows.map((t) => (
               <li class="relative mb-6 last:mb-0">
@@ -1303,10 +1307,10 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                   class:list={[
                     'absolute -left-[33px] top-1.5 h-4 w-4 rounded-full border-2',
                     t.next
-                      ? 'border-[#7c2d12] bg-[#7c2d12]'
+                      ? 'border-(--el-accent) bg-(--el-accent)'
                       : t.done
-                        ? 'border-[#d4c5a0] bg-[#e7d9b8]'
-                        : 'border-[#92400e] bg-white',
+                        ? 'border-(--el-border-strong) bg-(--el-border)'
+                        : 'border-(--el-accent-2) bg-(--el-panel)',
                   ]}
                 />
                 <div class="flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
@@ -1315,23 +1319,23 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                       datetime={t.iso}
                       class:list={[
                         'font-mono text-sm tabular-nums',
-                        t.done ? 'text-[#9ca3af]' : 'text-[#7c2d12]',
+                        t.done ? 'text-(--el-ink-3)' : 'text-(--el-accent)',
                       ]}
                     >
                       {t.date}
                     </time>
                   ) : (
-                    <span class="font-mono text-sm text-[#7c2d12]">
+                    <span class="font-mono text-sm text-(--el-accent)">
                       {t.date}
                     </span>
                   )}
                   {t.done && (
-                    <span class="rounded-full border border-[#d1d5db] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#9ca3af]">
+                    <span class="rounded-full border border-(--el-border-strong) px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-(--el-ink-3)">
                       {c.timeline.doneLabel}
                     </span>
                   )}
                   {t.next && (
-                    <span class="rounded-full bg-[#fef3c7] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#92400e]">
+                    <span class="rounded-full bg-(--el-warn-soft) px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-(--el-accent-2)">
                       {c.timeline.nextLabel}
                     </span>
                   )}
@@ -1339,7 +1343,7 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                 <p
                   class:list={[
                     'mt-1 text-[0.95rem] leading-[1.75]',
-                    t.done ? 'text-[#6b7280]' : 'text-[#1f2937]',
+                    t.done ? 'text-(--el-ink-3)' : 'text-(--el-ink)',
                     t.local && 'italic',
                   ]}
                 >
@@ -1355,36 +1359,42 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 誰可以收、誰可以捐 -->
-    <section id="rules" class="anchor-section bg-white py-16 md:py-24">
+    <section id="rules" class="anchor-section bg-(--el-panel) py-16 md:py-24">
       <div class="mx-auto max-w-[920px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.who.title}</h2>
 
         <div class="mt-10 grid gap-5 md:grid-cols-[1fr_1.6fr]">
           <div class={cardCls}>
-            <h3 class="mb-4 text-lg font-semibold text-[#7c2d12]" style={serif}>
+            <h3
+              class="mb-4 text-lg font-semibold text-(--el-accent)"
+              style={serif}
+            >
               {c.who.receiveTitle}
             </h3>
             <ul
-              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
             >
               {c.who.receiveBody.map((p) => <li>{p}</li>)}
             </ul>
           </div>
 
           <div class={cardCls}>
-            <h3 class="mb-4 text-lg font-semibold text-[#7c2d12]" style={serif}>
+            <h3
+              class="mb-4 text-lg font-semibold text-(--el-accent)"
+              style={serif}
+            >
               {c.who.donateTitle}
             </h3>
-            <p class="mb-4 text-[0.95rem] leading-[1.8] text-[#374151]">
+            <p class="mb-4 text-[0.95rem] leading-[1.8] text-(--el-ink-2)">
               {c.who.donateBody}
             </p>
             <ol
-              class="list-none space-y-2 pl-0 text-sm leading-[1.75] text-[#374151]"
+              class="list-none space-y-2 pl-0 text-sm leading-[1.75] text-(--el-ink-2)"
             >
               {
                 c.who.excluded.map((item, i) => (
                   <li class="flex gap-3">
-                    <span class="w-6 shrink-0 text-right font-mono tabular-nums text-[#92400e]">
+                    <span class="w-6 shrink-0 text-right font-mono tabular-nums text-(--el-accent-2)">
                       {i + 1}
                     </span>
                     <span>{item}</span>
@@ -1397,12 +1407,12 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
 
         <div class="mt-5 grid gap-4 md:grid-cols-2">
           <p
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5 text-sm leading-[1.8] text-[#52525b]"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-cream) p-5 text-sm leading-[1.8] text-(--el-ink-2)"
           >
             {c.who.memberNote}
           </p>
           <p
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5 text-sm leading-[1.8] text-[#52525b]"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-cream) p-5 text-sm leading-[1.8] text-(--el-ink-2)"
           >
             {c.who.foreignNote}
           </p>
@@ -1413,20 +1423,20 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 捐贈上限 -->
-    <section class="bg-[#fdfaf2] py-16 md:py-24">
+    <section class="bg-(--el-cream) py-16 md:py-24">
       <div class="mx-auto max-w-[920px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.limits.title}</h2>
         <p
-          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-[#52525b]"
+          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-(--el-ink-2)"
         >
           {c.limits.intro}
         </p>
 
         <div
-          class="overflow-hidden rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white"
+          class="overflow-hidden rounded-2xl border-[1.5px] border-(--el-border) bg-(--el-panel)"
         >
           <table class="w-full table-fixed text-left text-sm md:text-base">
-            <thead class="bg-[#fef9ed] text-[#7c2d12]">
+            <thead class="bg-(--el-cream) text-(--el-accent)">
               <tr>
                 <th scope="col" class="px-3 py-3 font-semibold md:px-5">
                   {c.limits.colDonor}
@@ -1442,17 +1452,17 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
             <tbody>
               {
                 data.limits.rows.map((r) => (
-                  <tr class="border-t border-[#f1e8d2]">
+                  <tr class="border-t border-(--el-rule)">
                     <th
                       scope="row"
-                      class="px-3 py-3 font-medium text-[#1f2937] md:px-5"
+                      class="px-3 py-3 font-medium text-(--el-ink) md:px-5"
                     >
                       {c.limits.donors[r.donor]}
                     </th>
-                    <td class="px-3 py-3 tabular-nums text-[#374151] md:px-5">
+                    <td class="px-3 py-3 tabular-nums text-(--el-ink-2) md:px-5">
                       {c.money(r.same)}
                     </td>
-                    <td class="px-3 py-3 tabular-nums text-[#374151] md:px-5">
+                    <td class="px-3 py-3 tabular-nums text-(--el-ink-2) md:px-5">
                       {c.money(r.all)}
                     </td>
                   </tr>
@@ -1463,18 +1473,23 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         </div>
 
         <div class={`mt-5 ${cardCls}`}>
-          <h3 class="mb-2 text-base font-semibold text-[#7c2d12]" style={serif}>
+          <h3
+            class="mb-2 text-base font-semibold text-(--el-accent)"
+            style={serif}
+          >
             {c.limits.partyTitle}
           </h3>
-          <p class="mb-4 text-sm leading-[1.75] text-[#52525b]">
+          <p class="mb-4 text-sm leading-[1.75] text-(--el-ink-2)">
             {c.limits.partyIntro}
           </p>
-          <dl class="divide-y divide-[#f1e8d2] text-sm">
+          <dl class="divide-y divide-(--el-rule) text-sm">
             {
               data.limits.partyToNominee.map((p) => (
                 <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 py-2.5">
-                  <dt class="text-[#374151]">{c.limits.offices[p.office]}</dt>
-                  <dd class="font-semibold tabular-nums text-[#7c2d12]">
+                  <dt class="text-(--el-ink-2)">
+                    {c.limits.offices[p.office]}
+                  </dt>
+                  <dd class="font-semibold tabular-nums text-(--el-accent)">
                     {c.money(p.amount)}
                   </dd>
                 </div>
@@ -1483,7 +1498,7 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
           </dl>
         </div>
 
-        <p class="mt-5 text-sm leading-[1.75] text-[#52525b]">
+        <p class="mt-5 text-sm leading-[1.75] text-(--el-ink-2)">
           {c.limits.penalty}
         </p>
         <p class={sourceCls} set:html={srcHtml('limits')} />
@@ -1491,19 +1506,19 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 匿名、現金、收據 ＋ 專戶 -->
-    <section class="bg-white py-16 md:py-24">
+    <section class="bg-(--el-panel) py-16 md:py-24">
       <div
         class="mx-auto grid max-w-[1080px] gap-6 px-4 md:grid-cols-2 md:px-6"
       >
         <div class={cardCls}>
           <h2
-            class="mb-5 text-[1.4rem] font-light text-[#1f2937] md:text-[1.6rem]"
+            class="mb-5 text-[1.4rem] font-light text-(--el-ink) md:text-[1.6rem]"
             style={heading}
           >
             {c.cash.title}
           </h2>
           <ul
-            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
           >
             {c.cash.items.map((it) => <li>{it}</li>)}
           </ul>
@@ -1512,23 +1527,23 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
 
         <div class={cardCls}>
           <h2
-            class="mb-5 text-[1.4rem] font-light text-[#1f2937] md:text-[1.6rem]"
+            class="mb-5 text-[1.4rem] font-light text-(--el-ink) md:text-[1.6rem]"
             style={heading}
           >
             {c.account.title}
           </h2>
           <ul
-            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
           >
             {c.account.items.map((it) => <li>{it}</li>)}
           </ul>
           <div
-            class="mt-5 rounded-xl border-[1.5px] border-dashed border-[#7c2d12]/30 bg-[#fef9ed] p-4"
+            class="mt-5 rounded-xl border-[1.5px] border-dashed border-(--el-accent)/30 bg-(--el-cream) p-4"
           >
-            <h3 class="mb-1.5 text-sm font-semibold text-[#7c2d12]">
+            <h3 class="mb-1.5 text-sm font-semibold text-(--el-accent)">
               {c.account.tipTitle}
             </h3>
-            <p class="text-sm leading-[1.75] text-[#52525b]">
+            <p class="text-sm leading-[1.75] text-(--el-ink-2)">
               {c.account.tip}
             </p>
           </div>
@@ -1538,12 +1553,12 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 抵稅 -->
-    <section class="bg-[#fdfaf2] py-16 md:py-20">
+    <section class="bg-(--el-cream) py-16 md:py-20">
       <div class="mx-auto max-w-[760px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.tax.title}</h2>
         <div class={`mt-8 ${cardCls}`}>
           <ul
-            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
           >
             {c.tax.items.map((it) => <li>{it}</li>)}
           </ul>
@@ -1553,37 +1568,42 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 競選經費最高金額 -->
-    <section id="spending" class="anchor-section bg-white py-16 md:py-24">
+    <section
+      id="spending"
+      class="anchor-section bg-(--el-panel) py-16 md:py-24"
+    >
       <div class="mx-auto max-w-[1080px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.caps.title}</h2>
         <p
-          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-[#52525b]"
+          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-(--el-ink-2)"
         >
           {c.caps.intro}
         </p>
 
         <div class="mb-8 grid gap-4 md:grid-cols-2">
           <div
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-cream) p-5"
           >
             <h3
-              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              class="mb-2 text-base font-semibold text-(--el-accent)"
               style={serif}
             >
               {c.caps.formulaTitle}
             </h3>
-            <p class="text-sm leading-[1.8] text-[#374151]">{c.caps.formula}</p>
+            <p class="text-sm leading-[1.8] text-(--el-ink-2)">
+              {c.caps.formula}
+            </p>
           </div>
           <div
-            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5"
+            class="rounded-xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-cream) p-5"
           >
             <h3
-              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              class="mb-2 text-base font-semibold text-(--el-accent)"
               style={serif}
             >
               {c.caps.usesTitle}
             </h3>
-            <p class="text-sm leading-[1.8] text-[#374151]">{c.caps.uses}</p>
+            <p class="text-sm leading-[1.8] text-(--el-ink-2)">{c.caps.uses}</p>
           </div>
         </div>
 
@@ -1599,13 +1619,13 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                 rows: data.spendingCaps.countyMayors,
               },
             ].map((tbl) => (
-              <div class="self-start overflow-hidden rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white">
+              <div class="self-start overflow-hidden rounded-2xl border-[1.5px] border-(--el-border) bg-(--el-panel)">
                 <table class="w-full text-left text-sm">
-                  <caption class="bg-[#fef9ed] px-4 py-3 text-left text-base font-semibold text-[#7c2d12]">
+                  <caption class="bg-(--el-cream) px-4 py-3 text-left text-base font-semibold text-(--el-accent)">
                     {tbl.title}
                   </caption>
-                  <thead class="text-xs text-[#78716c]">
-                    <tr class="border-t border-[#f1e8d2]">
+                  <thead class="text-xs text-(--el-ink-3)">
+                    <tr class="border-t border-(--el-rule)">
                       <th scope="col" class="px-4 py-2 font-medium">
                         {c.caps.colArea}
                       </th>
@@ -1616,19 +1636,19 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                   </thead>
                   <tbody>
                     {tbl.rows.map((r) => (
-                      <tr class="border-t border-[#f1e8d2]">
+                      <tr class="border-t border-(--el-rule)">
                         <th
                           scope="row"
-                          class="px-4 py-2 font-normal text-[#1f2937]"
+                          class="px-4 py-2 font-normal text-(--el-ink)"
                         >
                           {areaLabel(r.area)}
                           {!isZh && (
-                            <span class="ml-1.5 text-xs text-[#9ca3af]">
+                            <span class="ml-1.5 text-xs text-(--el-ink-3)">
                               {r.area}
                             </span>
                           )}
                         </th>
-                        <td class="px-4 py-2 text-right font-mono tabular-nums text-[#374151]">
+                        <td class="px-4 py-2 text-right font-mono tabular-nums text-(--el-ink-2)">
                           {capFmt(r.cap)}
                         </td>
                       </tr>
@@ -1640,23 +1660,25 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
           }
         </div>
 
-        <p class="mt-6 text-sm leading-[1.75] text-[#52525b]">{c.caps.note}</p>
+        <p class="mt-6 text-sm leading-[1.75] text-(--el-ink-2)">
+          {c.caps.note}
+        </p>
         <p class={sourceCls} set:html={srcHtml('caps')} />
       </div>
     </section>
 
     <!-- 選舉補貼 -->
-    <section class="bg-[#fdfaf2] py-16 md:py-20">
+    <section class="bg-(--el-cream) py-16 md:py-20">
       <div class="mx-auto max-w-[760px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.subsidy.title}</h2>
         <div class={`mt-8 ${cardCls}`}>
           <ul
-            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
           >
             {c.subsidy.items.map((it) => <li>{it}</li>)}
           </ul>
           <p
-            class="mt-5 rounded-lg bg-[#fef3c7]/60 px-4 py-3 text-sm leading-[1.75] text-[#78350f]"
+            class="mt-5 rounded-lg bg-(--el-warn-soft)/60 px-4 py-3 text-sm leading-[1.75] text-(--el-accent-2)"
           >
             {c.subsidy.example}
           </p>
@@ -1666,27 +1688,27 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 申報與公開 -->
-    <section class="bg-white py-16 md:py-24">
+    <section class="bg-(--el-panel) py-16 md:py-24">
       <div class="mx-auto max-w-[920px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.report.title}</h2>
         <div class="mt-8 grid gap-5 md:grid-cols-[1.4fr_1fr]">
           <div class={cardCls}>
             <ul
-              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-(--el-ink-2) marker:text-(--el-accent-2)"
             >
               {c.report.items.map((it) => <li>{it}</li>)}
             </ul>
           </div>
           <div
-            class="self-start rounded-2xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-6"
+            class="self-start rounded-2xl border-[1.5px] border-dashed border-(--el-border-strong) bg-(--el-cream) p-6"
           >
             <h3
-              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              class="mb-2 text-base font-semibold text-(--el-accent)"
               style={serif}
             >
               {c.report.prevTitle}
             </h3>
-            <p class="mb-3 text-sm leading-[1.7] text-[#52525b]">
+            <p class="mb-3 text-sm leading-[1.7] text-(--el-ink-2)">
               {c.report.prevIntro}
             </p>
             <ol class="list-none space-y-3 pl-0 text-sm">
@@ -1695,18 +1717,18 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                   <li>
                     <time
                       datetime={p.iso}
-                      class="block font-mono tabular-nums text-[#7c2d12]"
+                      class="block font-mono tabular-nums text-(--el-accent)"
                     >
                       {fmtDate(p.iso)}
                     </time>
-                    <span class="leading-[1.65] text-[#374151]">
+                    <span class="leading-[1.65] text-(--el-ink-2)">
                       {c.report.prev[p.scope]}
                     </span>
                   </li>
                 ))
               }
             </ol>
-            <p class="mt-4 text-sm leading-[1.7] text-[#52525b]">
+            <p class="mt-4 text-sm leading-[1.7] text-(--el-ink-2)">
               {c.report.prevOutro}
             </p>
           </div>
@@ -1718,12 +1740,12 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     <!-- 怎麼查 -->
     <section
       id="how-to-check"
-      class="anchor-section bg-[#fdfaf2] py-16 md:py-24"
+      class="anchor-section bg-(--el-cream) py-16 md:py-24"
     >
       <div class="mx-auto max-w-[1080px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.howto.title}</h2>
         <p
-          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-[#52525b]"
+          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-(--el-ink-2)"
         >
           {c.howto.intro}
         </p>
@@ -1731,8 +1753,8 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         <div class="grid gap-5 lg:grid-cols-3">
           {
             howtoCards.map((card) => (
-              <div class="flex flex-col rounded-2xl border-[1.5px] border-[#e5e7eb] bg-white p-6">
-                <h3 class="text-lg font-semibold text-[#1f2937]" style={serif}>
+              <div class="flex flex-col rounded-2xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-6">
+                <h3 class="text-lg font-semibold text-(--el-ink)" style={serif}>
                   {card.name}
                 </h3>
                 <a
@@ -1743,16 +1765,16 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                 >
                   {card.site}
                 </a>
-                <p class="mt-3 text-sm leading-[1.7] text-[#52525b]">
+                <p class="mt-3 text-sm leading-[1.7] text-(--el-ink-2)">
                   {card.desc}
                 </p>
                 <ol
-                  class="mt-4 list-none space-y-3 pl-0 text-sm leading-[1.75] text-[#374151]"
+                  class="mt-4 list-none space-y-3 pl-0 text-sm leading-[1.75] text-(--el-ink-2)"
                   aria-label={c.howto.stepsLabel}
                 >
                   {card.steps.map((s, i) => (
                     <li class="flex gap-3">
-                      <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[#fef2ec] font-mono text-xs font-semibold text-[#7c2d12]">
+                      <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-(--el-accent-soft) font-mono text-xs font-semibold text-(--el-accent)">
                         {i + 1}
                       </span>
                       <span>{s}</span>
@@ -1760,7 +1782,7 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
                   ))}
                 </ol>
                 {card.note && (
-                  <p class="mt-4 rounded-lg border border-dashed border-[#d4c5a0] bg-[#fdfaf2] px-3 py-2.5 text-xs leading-[1.7] text-[#78716c]">
+                  <p class="mt-4 rounded-lg border border-dashed border-(--el-border-strong) bg-(--el-cream) px-3 py-2.5 text-xs leading-[1.7] text-(--el-ink-3)">
                     {card.note}
                   </p>
                 )}
@@ -1770,25 +1792,28 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
         </div>
 
         <div
-          class="mx-auto mt-8 max-w-[760px] rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/80 p-6 text-center"
+          class="mx-auto mt-8 max-w-[760px] rounded-2xl border-[1.5px] border-(--el-accent)/20 bg-(--el-panel)/80 p-6 text-center"
         >
-          <h3 class="mb-2 text-base font-semibold text-[#7c2d12]" style={serif}>
+          <h3
+            class="mb-2 text-base font-semibold text-(--el-accent)"
+            style={serif}
+          >
             {c.howto.whenTitle}
           </h3>
-          <p class="text-sm leading-[1.8] text-[#374151]">{c.howto.when}</p>
+          <p class="text-sm leading-[1.8] text-(--el-ink-2)">{c.howto.when}</p>
         </div>
 
         <p class={sourceCls} set:html={srcHtml('howto')} />
         {
           c.sourceNote && (
-            <p class="mt-1 text-xs italic text-[#9ca3af]">{c.sourceNote}</p>
+            <p class="mt-1 text-xs italic text-(--el-ink-3)">{c.sourceNote}</p>
           )
         }
       </div>
     </section>
 
     <!-- 延伸閱讀 -->
-    <section class="bg-white py-16 md:py-20">
+    <section class="bg-(--el-panel) py-16 md:py-20">
       <div class="mx-auto max-w-[1080px] px-4 md:px-6">
         <h2 class={h2Cls} style={heading}>{c.related.title}</h2>
         <div class="mt-8 grid gap-4 md:grid-cols-3">
@@ -1796,15 +1821,17 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
             c.related.articles.map((ar) => (
               <a
                 href={ar.href}
-                class="group block rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/30 hover:bg-[#fef9ed] hover:shadow-[0_4px_16px_rgba(124,45,18,0.06)]"
+                class="group block rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-6 no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-(--el-accent)/30 hover:bg-(--el-cream) hover:shadow-[0_4px_16px_color-mix(in_srgb,var(--el-accent)_6%,transparent)]"
               >
                 <h3
-                  class="mb-2 text-lg font-semibold text-[#1f2937] group-hover:text-[#7c2d12]"
+                  class="mb-2 text-lg font-semibold text-(--el-ink) group-hover:text-(--el-accent)"
                   style={serif}
                 >
                   {ar.title}
                 </h3>
-                <p class="text-sm leading-[1.65] text-[#6b7280]">{ar.desc}</p>
+                <p class="text-sm leading-[1.65] text-(--el-ink-3)">
+                  {ar.desc}
+                </p>
               </a>
             ))
           }
@@ -1813,29 +1840,29 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     </section>
 
     <!-- 底部導覽 -->
-    <section class="border-t border-[#e7d9b8] bg-[#fef9ed] py-12">
+    <section class="border-t border-(--el-border) bg-(--el-cream) py-12">
       <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
-        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+        <h2 class="mb-5 text-lg font-semibold text-(--el-ink)" style={serif}>
           {c.footTitle}
         </h2>
         <div class="flex flex-wrap justify-center gap-2.5">
           <a
             href={`${langPrefix}/elections/2026/`}
-            class="rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            class="rounded-full border-[1.5px] border-(--el-accent)/40 bg-(--el-accent-soft) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline"
             >← {c.footHome}</a
           >
           {
             c.footLinks.map((l) => (
               <a
                 href={`${langPrefix}/elections/2026/${l.slug}/`}
-                class="rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                class="rounded-full border-[1.5px] border-(--el-accent)/25 bg-(--el-panel) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline hover:bg-(--el-accent-soft)"
               >
                 {l.label}
               </a>
             ))
           }
         </div>
-        <p class="mt-8 text-xs text-[#9ca3af]">
+        <p class="mt-8 text-xs text-(--el-ink-3)">
           <time datetime={data.lastVerified}>
             {c.verified(fmtDate(data.lastVerified))}
           </time>
@@ -1848,7 +1875,13 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
 </Layout>
 
 <style>
+  /* 底色與預設字色：深色主題下不繼承全站 body 的字色。
+     --el-panel 是 --el-card 的別名：class 裡出現 "card" 字樣會被 dark-polish.css
+     的全站 [class*='card'] 規則蓋掉底色與邊線，所以模板 class 一律寫 --el-panel。 */
   .elections-donations {
+    --el-panel: var(--el-card);
+    background: var(--el-bg);
+    color: var(--el-ink);
     overflow-wrap: anywhere;
   }
   .elections-donations .anchor-section {
@@ -1867,12 +1900,12 @@ const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
     background-image:
       radial-gradient(
         circle at 20% 30%,
-        rgba(124, 45, 18, 0.05) 0%,
+        color-mix(in srgb, var(--el-accent) 5%, transparent) 0%,
         transparent 50%
       ),
       radial-gradient(
         circle at 80% 70%,
-        rgba(146, 64, 14, 0.04) 0%,
+        color-mix(in srgb, var(--el-accent-2) 4%, transparent) 0%,
         transparent 50%
       );
     pointer-events: none;
