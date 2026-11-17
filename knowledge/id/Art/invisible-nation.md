@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '影評光譜兩端與政治攻防：(1) 純影評攻擊（Jay Liu「淪為執政黨宣傳」、Guardian「all over the shop」、Screen Daily 配樂過度煽情、NYC Movie Guru「歌功頌德」）已編入 §「自己掏錢看自己」與 §「框外那個沒有名字的男人」；(2) 親 PRC 倡議（George Koo「台灣不是國家」）僅取其「陳水扁省略」這個跨陣營共識的事實觀察，政治結論不採（research §5）；(3) 匿名藍營社群「稅金拍片」假指控已被製片馮賢賢闢謠，prose 收於 §「自己掏錢看自己」；(4) 綠營內「斷代」批評（周玉蔻）編入 §「框外那個沒有名字的男人」。未深入：呂秀蓮受訪（單源 Taipei Times）、PBS extended cut 片長（未確認）、LSE 抗議放映（無可追溯，rumour）。'
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d85b6c99ab72b318'
 sourceBodyHash: 'sha256:f6ae8560d7e03438'
-translatedAt: '2026-10-13T04:32:15.133024+00:00'
+translatedAt: '2026-11-17T21:28:02.731571+00:00'
 ---
 
 > **Ringkasan 30 Detik:** _Negara yang Tak Terlihat_ (Invisible Nation) adalah dokumenter karya sutradara AS Vanessa Hope yang disutradarai selama tujuh tahun, mewawancarai Presiden Tsai Ing-wen lima kali secara eksklusif, mendorong sebuah pulau yang dicoret dari PBB, di Olimpiade hanya bisa disebut "Taipei Tionghoa", dan negara sahabatnya turun dari 22 menjadi 12 ke depan lensa dunia. Hadir perdana di Festival Film Woodstock 2023[^1], tayang di bioskop Taiwan Juni 2025, meraup 37,71 juta TWD baru, menduduki peringkat ketiga sejarah dokumenter Taiwan[^2]. Namun film yang ingin membuat Taiwan "terlihat" ini punya sudut buta—yang paling dikritik adalah ketergantungan tujuh tahun pada kerjasama kantor Tsai, serta nama yang tak sekali pun tersebut dari awal hingga akhir: Chen Shui-bian.
