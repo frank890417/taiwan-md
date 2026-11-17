@@ -1,0 +1,130 @@
+name: zz CI speed bench (temporary, branch only)
+
+# 暫時的對照實驗，只在 ci-speed 分支上跑，合併進 main 前刪掉。
+# 照抄 deploy.yml 的 build job，在 ARM 與 x86 各跑兩次，
+# 量每一步的時間、產物清單（路徑＋大小），以及上傳壓縮等級的影響。
+# 不碰 deploy-pages，不會部署。
+
+on:
+  push:
+    branches: [claude/stoic-wright-266ae6]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  bench:
+    strategy:
+      fail-fast: false
+      matrix:
+        runner: [ubuntu-24.04-arm, ubuntu-24.04]
+        rep: [1, 2]
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 90
+    env:
+      DEBIAN_FRONTEND: noninteractive
+      NODE_OPTIONS: --max-old-space-size=12288
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          filter: blob:none
+      - name: Restore file mtimes from git history
+        run: python3 scripts/ci/restore-mtime.py --verify-min-ratio 0.9
+      - name: Setup Node (with npm cache)
+        uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: 'npm'
+      - name: Restore node_modules cache
+        id: node-modules-cache
+        uses: actions/cache@v5
+        with:
+          path: node_modules
+          key: node-modules-${{ runner.os }}-${{ runner.arch }}-node22-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        if: steps.node-modules-cache.outputs.cache-hit != 'true'
+        run: npm ci --prefer-offline --no-audit
+      - name: Verify CJK Markdown parser contract
+        run: npm run test:markdown
+      - name: Validate frontmatter (changed files)
+        run: node scripts/core/test-frontmatter.mjs --ci
+      - name: Validate article health (SSOT, full sweep)
+        run: python3 scripts/tools/article-health.py --all --profile=ci-deploy --quiet
+
+      - name: Time git log (status.py query) with and without rename detection
+        run: |
+          q() { git -c core.quotepath=false log --name-only --format='__COMMIT__|%H|%aI' --full-history "$@" HEAD -- knowledge; }
+          s=$(date +%s.%N); q > /tmp/log-renames.txt; e=$(date +%s.%N)
+          echo "with renames: $(echo "$e - $s" | bc)s lines=$(wc -l < /tmp/log-renames.txt)"
+          s=$(date +%s.%N); q --no-renames > /tmp/log-norenames.txt; e=$(date +%s.%N)
+          echo "no renames:   $(echo "$e - $s" | bc)s lines=$(wc -l < /tmp/log-norenames.txt)"
+          s=$(date +%s.%N); q > /tmp/log-renames2.txt; e=$(date +%s.%N)
+          echo "with renames (2nd, after lazy fetch): $(echo "$e - $s" | bc)s"
+
+      - name: Restore OG image cache
+        uses: actions/cache/restore@v5
+        with:
+          path: public/og-images
+          key: og-images-${{ hashFiles('scripts/core/generate-og-images.mjs', 'public/favicon.png') }}-${{ github.run_id }}
+          restore-keys: |
+            og-images-${{ hashFiles('scripts/core/generate-og-images.mjs', 'public/favicon.png') }}-
+            og-images-
+      - name: Sync OG cache for renamed articles
+        timeout-minutes: 2
+        run: node scripts/tools/og-rename-sync.mjs --since '30 days ago'
+
+      - name: Build
+        env:
+          LANG_SYNC_SKIP_DIFFSTAT: '1'
+          PUBLIC_FEEDBACK_MODE: ${{ vars.PUBLIC_FEEDBACK_MODE }}
+          PUBLIC_SUPABASE_URL: ${{ vars.PUBLIC_SUPABASE_URL }}
+          PUBLIC_SUPABASE_ANON_KEY: ${{ vars.PUBLIC_SUPABASE_ANON_KEY }}
+          PUBLIC_FEEDBACK_PROVIDERS: ${{ vars.PUBLIC_FEEDBACK_PROVIDERS }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run build 2>&1 | tee /tmp/build.log | grep -E '^> taiwan-md@|page\(s\) built|Completed in' ; test ${PIPESTATUS[0]} -eq 0
+
+      - name: Prebuild step timestamps
+        run: grep -nE '^> taiwan-md@' /tmp/build.log | head -50
+
+      - name: Manifest
+        run: |
+          cd dist
+          find . -type f -printf '%P\t%s\n' | LC_ALL=C sort > /tmp/manifest.tsv
+          echo "files=$(wc -l < /tmp/manifest.tsv) html=$(grep -c '\.html	' /tmp/manifest.tsv) bytes=$(awk -F'\t' '{s+=$2} END {print s}' /tmp/manifest.tsv)"
+      - uses: actions/upload-artifact@v5
+        with:
+          name: manifest-${{ matrix.runner }}-${{ matrix.rep }}
+          path: /tmp/manifest.tsv
+          retention-days: 3
+
+      - name: Archive like upload-pages-artifact
+        run: |
+          tar --dereference --hard-dereference --directory dist -cf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
+          ls -l "$RUNNER_TEMP/artifact.tar"
+      - name: Upload level 6 (current)
+        if: matrix.rep == 1
+        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
+        with:
+          name: bench-${{ matrix.runner }}-l6
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          compression-level: 6
+      - name: Upload level 1
+        if: matrix.rep == 1
+        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
+        with:
+          name: bench-${{ matrix.runner }}-l1
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          compression-level: 1
+      - name: Upload level 0
+        if: matrix.rep == 1
+        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
+        with:
+          name: bench-${{ matrix.runner }}-l0
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          compression-level: 0
