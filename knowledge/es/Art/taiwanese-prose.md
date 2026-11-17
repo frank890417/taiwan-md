@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣散文.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9f56c23ee6489760'
 sourceBodyHash: 'sha256:2c9c292fec3fdb34'
-translatedAt: '2026-10-10T12:07:01+08:00'
+translatedAt: '2026-11-17T22:23:31.863393+00:00'
 ---
 
 # La prosa de Taiwán: un paisaje literario reescrito por escritoras
