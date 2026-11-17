@@ -1,11 +1,11 @@
 ---
-title: '台湾台語歌曲の演進：「おじさんの歌」から「文青（文化系青年）の新寵」へのアイデンティティ転換'
-description: '台湾台語歌曲がナカシ、洪一峰、江蕙の時代から、茄子蛋、拍謝少年などの新世代バンドの時代へと変遷してきた軌跡をたどり、台語音楽がいかにして若い世代の共感を再び獲得したかを探る'
+title: '台湾語の楽曲の進化：おじいさんの歌から文青（カルチャー志向）の新寵へ、アイデンティティの転換'
+description: 'ナカシ、洪一峰、江蕙（ジャン・フェイ）の時代から、茄子蛋（カズダン）、拍謝少年（パシェシャオニェン）といった新世代バンドに至るまで、台湾語楽曲の変遷を辿り、台湾語音楽がいかにして若い世代の共感を得るようになったのかを探ります。'
 date: 2026-03-19
 category: 'Music'
 tags:
   [
-    '台語歌曲',
+    '台湾語の歌',
     'ナカシ',
     '洪一峰',
     '江蕙',
@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: '5dcc54256'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d424949afdcc0ad2'
 sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-11-17T19:33:32.142682+00:00'
 ---
 
 # 台湾台語歌曲の演進：「おじさんの歌」から「文青（文化系青年）の新寵」へのアイデンティティ転換

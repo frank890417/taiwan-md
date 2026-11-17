@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-11-17T18:23:49.643614+00:00'
 ---
 
 # AI島国の台頭：台湾の人工知能開発と未来戦略

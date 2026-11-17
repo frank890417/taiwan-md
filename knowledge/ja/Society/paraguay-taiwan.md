@@ -4,34 +4,39 @@ description: '1957 年に建交、1989 年のクーデター後も台北に留�
 date: 2026-05-07
 category: 'Society'
 tags:
-  - '邦交国'
-  - 'パラグアイ'
-  - 'パラグアイ'
-  - 'ベニア'
-  - '頼清徳'
-  - '蔡英文'
-  - '王昇'
-  - '台湾外交'
-  - 'TaiwanICDF'
-  - '農業技術'
-  - '台巴科大'
-  - '国際関係'
-  - '豚牛肉輸出'
-  - '采玉大勲章'
+  [
+    '邦交国',
+    'パラグアイ',
+    'パラグアイ',
+    'ベニア',
+    '頼清徳',
+    '蔡英文',
+    '王昇',
+    '台湾外交',
+    'TaiwanICDF',
+    '農業技術',
+    '台巴科大',
+    '国際関係',
+    '豚牛肉輸出',
+    '采玉大勲章',
+  ]
 subcategory: '國際關係'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-07
 lastHumanReview: false
-translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '72a8b443'
-sourceContentHash: 'sha256:01affe2533530c02'
-sourceBodyHash: 'sha256:21c703a5d9235d48'
-translatedAt: '2026-06-12T00:53:40+08:00'
+researchReport: 'reports/research/2026-05/巴拉圭與台灣.md'
 image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'
 imageLicense: '政府公開資訊（OGDL — Open Government Data License）'
 imageSource: 'https://www.president.gov.tw/NEWS/20543'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/巴拉圭與台灣.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:01affe2533530c02'
+sourceBodyHash: 'sha256:21c703a5d9235d48'
+translatedAt: '2026-11-17T19:19:28.639170+00:00'
 ---
 
 > **30 秒概覽：** パラグアイと中華民国は 1957 年に外交関係を樹立し、2026 年で第 69 年を迎えました。これは台湾の南米唯一の友好国であり、現存友好国の中で最も面積が大きい国です。人口は中米の一部友好国より少ないです。2026 年 5 月 7 日から 10 日にかけて、パラグアイ大統領ベニア（Santiago Peña）が初めて国家訪問のために来台し、外交部は賴清徳総統が 5 月 8 日に軍礼、国宴、采玉大勲章で迎えることを発表しました。この友好関係は中国の誘致に耐え、外交承認、農畜産品市場、台巴科技大学、スマートテックパーク、長期技術協力によって支えられています。[^1][^2]

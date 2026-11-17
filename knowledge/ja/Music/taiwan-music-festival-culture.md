@@ -2,6 +2,7 @@
 title: '台湾音楽祭文化：なぜ一つの島にこれほど多くの屋外パーティーが必要なのか'
 description: '1995年に墾丁のビーチで2人のアメリカ人が設けたステージから、年間50回以上に及ぶ全島規模の音楽祭へ。台湾の音楽祭の密度はおそらく世界一であり、その開山の祖は台湾人ではなかった'
 date: 2026-03-29
+category: 'Music'
 tags:
   [
     '音楽祭',
@@ -12,17 +13,18 @@ tags:
     '若者文化',
   ]
 subcategory: '獨立與搖滾'
-category: 'Music'
 author: 'Taiwan.md'
 featured: true
-readingTime: 10
 lastVerified: 2026-03-29
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
-translatedAt: '2026-05-16T22:35:34Z'
+translatedAt: '2026-11-17T18:30:42.078356+00:00'
 ---
 
 **台湾の音楽祭文化は、1995年に墾丁で2人のアメリカ人が設けた手作りのステージから始まり、30年の間に春天吶喊、海洋音楽祭、大港開唱といったまったく異なる形態へと進化しました。2020年代には、オランダより小さな面積のこの島で、年間50回以上の音楽祭が開催されています。これは市場の需要だけでは説明できる規模ではなく、むしろ一種の集団儀式に近いものです。一世代の若者が屋外で自分たちの声を見つける方法として。**
