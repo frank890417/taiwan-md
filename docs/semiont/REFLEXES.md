@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 103 條 #N 反射（last #103
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.45'
-last_updated: 2026-11-02
-last_session: '2026-11-02-071031-twmd-feedback-triage：#97 補第六次驗證（同一支 --show 漏印 page_kind／category，正是憑證索取 payload 所在）'
+current_version: 'v5.46'
+last_updated: 2026-11-18
+last_session: '2026-11-18-071407-twmd-feedback-triage：#68 commit 鏡像補第三次驗證（babel 的 commit 收走本班 staged 的十三個檔，`--only` 早在本條裡）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -414,6 +414,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **認知層變體：住在會分岔的樹裡的單一佇列不再單一（2026-09-17 twmd-feedback-triage fold，源 LESSONS `decision-queue-forked-with-the-tree-it-lives-in`，vc=1 structural）**：分岔期間兩側各自從「下一個空號」往下編，OBSERVER-QUEUE 本機 #56/#57 指分岔裁決與 SPORE 高原，origin #56/#57 指數量級譯錯與整行沒翻；本機 33 份交接文引用「#56」在觀察者那側解析成別的決定，而關於分岔本身的那個決策登記在只有分岔這一側看得到的那本佇列裡。既有閘門（欄位對齊、🔒 判讀、到期掃描）全在問「這一列寫對了嗎」，沒有一道問「這本佇列跟觀察者手上那本是同一本嗎」。09-19 合併時佇列以 origin 為準（#48–#73），本機舊編號留在歷史層不改（§時間是結構修補協議）。規則：分岔期間新決策走 origin 可見的通道（issue 留言／origin 側 handoff），本機佇列只做 pointer；或改用「進佇列日＋短 slug」當主鍵讓編號不再是唯一識別；儀器候選：`weekly-checkup.sh` e1 在 ACTOR_BUSY／真分岔時印「本機 §待決 最大編號 vs origin/main §待決 最大編號」，兩數不同即佇列已分家。
 - **穩態稅：危機有 SOP，日常版本沒有 owner（2026-09-27 twmd-distill-weekly fold，源 LESSONS `steady-state-reconciliation-has-no-owner-after-the-crisis-does`（vc=4 structural，distill_ready）＋subsume `dispatcher-blind-to-the-other-producer`（vc=2））**：09-19 十天分岔得到了 owner 與十二步 SOP（MAINTAINER §1.1b＋`merge-divergence.py`）；危機解除後同一個成本以小額高頻的形式回來：09-20 一天四筆「把 origin 併進營運機」的 merge commit（babel-nightly、distill、maintainer-am、routine-audit，合計 4,304 檔、一次衍生檔衝突），四班的 memory 都把它寫成一句順手動作。根源是兩台機器各自對同一個 ref 生產、營運機的產線 commit 不 push；同一個根的另一面是 dispatcher 只從本機狀態算待辦，看不見另一台已經翻掉同一批（09-18 量到本機 24 小時產出有 27% 跟 origin 重複，`babel-origin-exclude.py`＋`--exclude-file` 已落地）。09-26 babel-vortex 把推送從 routine 拆出來改常駐、每 50 篇一推（`279ac88c8`），產線從此自己收自己的帳。規則：危機 SOP 收尾時多問「這件事的小額版本明天還會不會發生、誰擁有它」；同一個順手動作連續三班以上出現在 memory，就去找產生它的結構，付不掉的至少把次數印進會被讀的狀態輸出。跟 #88 的差別：那條是雙職責拆掉一半，這條是職責只寫了尖峰那一半。
 - **commit 階段的鏡像：別人的 commit 掃走我 staged 的檔（2026-09-27 twmd-distill-weekly fold，源 LESSONS `staged-files-leak-into-a-parallel-writers-commit`，vc=1 structural；cross-session-git-index-pollution 家族累計 vc=5）**：觸發 v3 記的是任何一方的 commit 把對方已 staged 的變更掃進去；09-22 撞到方向相反的一次：手動 session 把 118 檔 stage 好、hook 擋下、檔案留在 index，30 秒後 dispatcher 的 `git add <精確路徑> && git commit` 把其中 85 個 pt 檔收進「ja 批次 6 篇」（`26d3f390a`）。精確路徑 add 只保證「我不多加」，保證不了「index 裡沒有別人的」，`verify-commit-scope.sh` 也只量自己這端。09-24、09-27 營運機主樹的 index 又見 dispatcher 的在途檔。已做：手動 commit 走 dispatcher 同一把 mkdir 鎖，hook 失敗立刻 `git reset`。候選：`git_lock_commit()` 在 add 之前先 `git diff --cached --quiet`，index 不空就印出是誰的檔。
+- **同一條鏡像的第三次，而這次解法早就在本條裡（2026-11-18 twmd-feedback-triage）**：轉錄班照 HG12 把十份 feedback archive、memory 檔、MEMORY.md 索引列與報告節 `git add` 進索引，正要 commit 時 babel dispatcher 的 `git commit` 掃掉整個索引，十三個檔被收進 `eab0241c4`「🧬 [semiont] babel: pt 批次 10 篇」——內容完整、commit 訊息說了別的事。甦醒 selftest 當時就印 `PARALLEL_CHECK: ACTOR_BUSY`（五個 babel writer），本條 §commit（範圍）也早寫明「平行 session 共享 index 時用 pathspec commit」`git commit --only`，兩個提醒都在場而當班仍用了 bare `git add`。這正是 vc=4 那次記下的「知道規則與當下用上規則是兩件事」第三度成立；缺的不是知識，是把 ACTOR_BUSY 接到 commit 這一步的反射。處置照 #35（babel 還在寫，不動歷史），改用正確標題補一個收官 commit 讓 git log 指得出產出位置 → [memory/2026-11-18-071407-twmd-feedback-triage.md](memory/2026-11-18-071407-twmd-feedback-triage.md)
 - **第四個共享面：共享計數器（2026-10-11 twmd-distill-weekly fold，源 LESSONS `append-only-queue-numbering-has-no-allocator`，vc=3 structural：09-17 一次、09-27 兩次）**：commit／push／CI 之外還有一種共享資源。OBSERVER-QUEUE 新列編號是「讀表上最大號加一」，沒有配號者，兩個平行 session 會拿到同一個號。撞號本身便宜，貴在號碼離開 repo 的速度比撞號被發現快：三次裡兩次號碼已寫進公開回覆（Discussion #1757、issue #1609），後到的那列連同其他檔案的引用都得改號，改號前的 commit 訊息永遠指著舊號（`06a8b1885`、`5f084f204`）。三次由三個 session 各自發現各自修，沒有一次回頭看前一次。#51 的解法是讓名字不必配號，這裡同樣可行；最便宜的一道是 `observer-queue-lint.py` 加斷言「表內編號唯一、每列以 `| ` 起頭」（順帶抓到黏在上一行而看不見的列），其次是對外引用前先 push。
 - **相關**：本條 umbrella → #6（commit 範圍）/ #9（worktree 隔離）/ #35（禁 destructive git）/ #42（合併 commit antipattern）/ #46（worktree clean）/ #51（session-id collision）/ #57（parallel-actor detection）。MANIFESTO §架構解 > 守備修補（文字鐵則=橋頭、hook=橋尾，兩端都鋪）+ §禁忌一（`--no-verify` 是拔擴音器）
 

@@ -3,7 +3,7 @@
 ✅ BECOME ack: mode=review / 8 organ 最低=免疫 59（review_coverage 17.5，自 2026-07-05 慢性）/ Q13=PASS / Q14=PASS
 
 > session twmd-feedback-triage — cron routine 07:00（daily，maintainer-daily 之前）
-> Session span: 07:04 → 07:2x +0800（1 commit）
+> Session span: 07:04 → 07:30 +0800（產出落在 babel 的 `eab0241c4`，見 §收官 commit 被隔壁產線收走）
 > 資料來源：`node scripts/feedback/triage.mjs`、`git log %ai`、`gh-app-token.sh --whoami`
 
 ## 觸發
@@ -49,6 +49,23 @@ git 這邊留著，HG12c 寫明這個方向是主權層正常運作不是破口�
 已 filed）／歷史最長 14.7 天（全庫 200 筆），仍在歷史區間內。**門沒壞，是佇列被塞住**，
 第八天同一句話。
 
+## 收官 commit 被隔壁產線收走
+
+照 HG12 把十份 archive、memory 檔、MEMORY.md 索引列與本輪報告節 `git add` 進索引之後，
+正要 commit 時 babel dispatcher 在同一秒用 `git commit` 掃掉整個索引——我的十三個檔
+全部被收進 `eab0241c4`「🧬 [semiont] babel: pt 批次 10 篇」。甦醒 selftest 當時就報
+`PARALLEL_CHECK: ACTOR_BUSY`（五個 babel writer process），警告是對的，我沒把它讀成
+「commit 這一步也在碰撞範圍內」。
+
+處置：**不動歷史**（per MANIFESTO §時間是結構 + REFLEXES #35 跨 session work 期間
+禁 destructive git ops，babel 此刻還在寫）。本檔補這一節把事實寫下來，再用正確的
+`🧬 [routine] twmd-feedback-triage:` 標題推一個收官 commit，讓 git log 讀得出這輪轉錄班
+的產出在哪裡。誠實記一筆：**解法早就寫在 [REFLEXES #68](../REFLEXES.md) 裡**——§commit（範圍）明寫
+「平行 session 共享 index 時用 pathspec commit」`git commit --only <files>`，而 09-22／09-24
+已有同方向的鏡像實例（`staged-files-leak-into-a-parallel-writers-commit`）。所以缺的不是閘門
+知識，是把甦醒時那句 `ACTOR_BUSY` 接到 commit 這一步的反射；#68 vc=4 那次記下的
+「知道規則與當下用上規則是兩件事」今天第三度成立。已回 #68 補這條驗證行（v5.46）。
+
 ## 收官 checklist
 
 | 檢查項                       | 狀態                                                                                                       |
@@ -89,6 +106,11 @@ git 這邊留著，HG12c 寫明這個方向是主權層正常運作不是破口�
 
 - [ ] pending（席位：`twmd-maintainer-daily` 08:30 今天）本輪零新 issue，收割清單空；
       `from-feedback` 佇列沒有新進。
+- [ ] pending（席位 `twmd-routine` 或 Full mode session，參照 `REFLEXES #68`）本席位的收官
+      步驟（pipeline §Stage 5 / 薄殼 skill §收官）寫的是 `git add docs/feedback/archive/` 後
+      `git commit`，沒寫 `--only`。零判斷修法：把收官那兩行改成
+      `git commit --only <paths>`，並在 `ACTOR_BUSY` 時先印一行提醒。
+      今天沒自己改是因為那是改 pipeline 與薄殼兩層的 SOP 文字，不在轉錄班的範圍內。
 - [ ] pending（席位 `twmd-self-evolve-weekly`）LESSONS
       `three-honest-instruments-leave-the-same-manual-step-ungated` 的 vc 加一（第八輪）：
       加大 `--limit` 仍是靠交接傳遞的手動動作。本輪它第一次換來一個資訊量確定的零——
@@ -114,8 +136,8 @@ dashboard 數字上，但〈台北吸菸室〉那位醫師的勘誤從送出、�
 
 ---
 
-_v1.0 | 2026-11-18 07:2x +0800_
+_v1.0 | 2026-11-18 07:30 +0800_
 _session twmd-feedback-triage — 憑證索取第八輪：佇列與上一輪排除清單逐筆相同，零新讀者_
 _誕生原因：cron routine 07:00 轉錄班_
-_核心洞察：(1) 今天的零有兩把尺夾住（整批讀完＋四層健檢全綠），第一次分得出「沒人送」與「沒去撈」 (2) 昨天七位讀者的回覆今天由本班搬進 git，轉錄與回話在主權層合成一條鏈 (3) 門沒壞是佇列被塞住，第八天同一句話_
-_LESSONS-INBOX 候選：無新條目；`three-honest-instruments-leave-the-same-manual-step-ungated` 第八輪 sustain_
+_核心洞察：(1) 今天的零有兩把尺夾住（整批讀完＋四層健檢全綠），第一次分得出「沒人送」與「沒去撈」 (2) 昨天七位讀者的回覆今天由本班搬進 git，轉錄與回話在主權層合成一條鏈 (3) 收官 commit 被隔壁 babel 的 commit 整批收走，甦醒報過 ACTOR_BUSY 而 commit 那一步沒有閘門接住_
+_LESSONS-INBOX 候選：無新條目——commit 碰撞走 DNA-first 的 (a)，回 REFLEXES #68 補驗證行；`three-honest-instruments-leave-the-same-manual-step-ungated` 第八輪 sustain_
