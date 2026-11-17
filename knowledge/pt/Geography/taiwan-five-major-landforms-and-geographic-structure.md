@@ -125,7 +125,7 @@ Formada pelos sedimentos trazidos pelos rios Zhuoshui, Beigang, Bajhang, Jishui,
 
 **Valor agrícola:**
 
-- Principal região agrícola e produtora de arroz de Taiwan, daí o apelido de "celeiro"[^\n3]
+- Principal região agrícola e produtora de arroz de Taiwan, daí o apelido de "celeiro"[^3]
 - Açúcar, amendoim e mandioca são culturas econômicas principais
 - Na década de 1920, a construção do grande dique de Jiānán transformou esta terra no "celeiro de Taiwan"
 

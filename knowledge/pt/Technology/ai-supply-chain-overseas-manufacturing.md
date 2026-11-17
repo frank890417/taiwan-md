@@ -83,7 +83,7 @@ Esta lista é interessante. Wafers, embalagem/teste, servidores completos, racks
 
 _Canteiro de obras da TSMC Fab 21 em Phoenix, Arizona. A expansão no exterior acaba por chegar a fábricas, água/eletricidade, trabalhadores, sociedade local e cadeia de abastecimento a operar juntos. Foto: Hunter Trick. CC BY-SA 4.0 via Wikimedia Commons._
 
-A OpenAI e a Foxconn anunciaram depois colaboração, a desenhar e fabricar racks de centros de dados de IA nos EUA, produtos incluem cablagem, networking e sistemas de energia; a AP noticiou que a Foxconn usará instalações no Wisconsin, Ohio, Texas. [^^2] Isto faz com que "expansão no exterior" não seja mais só produção de chips, mas toda a infraestrutura de hardware de centros de dados de IA puxada para a localização.
+A OpenAI e a Foxconn anunciaram depois colaboração, a desenhar e fabricar racks de centros de dados de IA nos EUA, produtos incluem cablagem, networking e sistemas de energia; a AP noticiou que a Foxconn usará instalações no Wisconsin, Ohio, Texas. [^2] Isto faz com que "expansão no exterior" não seja mais só produção de chips, mas toda a infraestrutura de hardware de centros de dados de IA puxada para a localização.
 
 ![Mapa de rotas da expansão no exterior da cadeia de abastecimento de IA: capacidades nucleares da ilha principal de Taiwan estendendo-se para EUA, Japão, Europa, México, Sudeste Asiático, Índia e mercados de centros de dados, mostrando quatro tipos de força de tração: empresas, governos, local e clientes](/article-images/technology/ai-supply-chain-overseas-footprint.svg)
 
