@@ -111,7 +111,7 @@ The three characters "Hantavirus" appeared repeatedly in the news in the spring 
 
 Hantavirus is transmitted through aerosols formed by the drying of urine, feces, and saliva from rodents such as brown rats and house mice; if humans inhale contaminated dust, they may become infected^[37]. It **does not transmit from person to person**, with Taiwan confirming only single-digit cases annually, and no fatalities in the past 25 years^[2][^37]. Therefore, CDC Deputy Director Luo Yi-chun emphasized at the press conference that the focus is not on the fact that "the dragon kingdom has rats," but on wearing masks when cleaning rodent traces, wetting with diluted bleach before sweeping, and avoiding dust generation^[37].
 
-The "squirrels also transmit hantavirus" panic that once appeared on social media was simultaneously denied by the medical community and the CDC—squirrels are not known hantavirus hosts^[38][^39].
+The "squirrels also transmit hantavirus" panic that once appeared on social media was simultaneously denied by the medical community and the CDC—squirrels are not known hantavirus hosts[^37][^38].
 
 📝 **Curator's Note:** The most important lesson to learn from the hantavirus incident should not be "rats are scary"; the most important lesson should be "rat problems are a side effect of kitchen waste, garbage, and cracks."
 

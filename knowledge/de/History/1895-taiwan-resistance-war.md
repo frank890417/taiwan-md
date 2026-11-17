@@ -122,7 +122,7 @@ Die Republik China (Taiwan) nannte sich selbst „Yongqing“. Eine Republik, di
 
 Übrig blieb ein 19-jähriger Hakka-Junge – und die vier Zeilen Gedicht, die er im Gefängnis schrieb.
 
-Die gelbe Tiger-Flagge steht nun hinter Glas im Museum. Sie ist still. Die 148 Tage Geschichte sind in diesem Stück Stoff verschwunden. Niemand weiß, ob die Geschichte anders ausgewesen wäre, wenn Tang Jing-song nicht geflohen wäre. Doch Jiang Shaoxus unehelicher Sohn wuchs auf und wurde während der japanischen Kolonialherrschaft ein lokaler Führer in Neichuang[^24]. Manche Menschen enden nicht mit dem Krieg.
+Die gelbe Tiger-Flagge steht nun hinter Glas im Museum. Sie ist still. Die 148 Tage Geschichte sind in diesem Stück Stoff verschwunden. Niemand weiß, ob die Geschichte anders ausgewesen wäre, wenn Tang Jing-song nicht geflohen wäre. Doch Jiang Shaoxus unehelicher Sohn wuchs auf und wurde während der japanischen Kolonialherrschaft ein lokaler Führer in Neichuang[^23]. Manche Menschen enden nicht mit dem Krieg.
 
 ---
 

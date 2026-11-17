@@ -62,7 +62,7 @@ Abé assinou com a Universal Music, explorando shows e composições pessoais; A
 | Álbum/Canção                                       | Ano  | Prêmios                                                                      |
 | :------------------------------------------------- | :--- | :--------------------------------------------------------------------------- |
 | "Personagens de Desenho Animado"                   | 2017 | Prêmios Golden Melody 2017: Novo Artista e Álbum em Taiês[^4]                |
-| "Nosso Casamento"                                  | 2019 | Indicação aos Prêmios Golden Melody 2019: Álbum em Taiês e Álbum do Ano[^13] |
+| "Nosso Casamento"                                  | 2019 | Indicação aos Prêmios Golden Melody 2019: Álbum em Taiês e Álbum do Ano[^12] |
 | 〈O Amor é Mais Grandes que Eu Esperava〉 (single) | 2021 | Prêmio Golden Melody 2022: Canção do Ano[^9]                                 |
 
 ## Referências

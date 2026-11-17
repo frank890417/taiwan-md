@@ -160,7 +160,7 @@ Câu nói này đặt bên cạnh các biểu diễn cực đoan của ngài, kh
 
 ### Tại sao điều này lại quan trọng đối với Đài Loan
 
-Vị trí của tác phẩm của Xiệ De Khải trong lịch sử nghệ thuật quốc tế đã không cần được phản biện. MoMA, Guggenheim, Tate, M+, Dia, Neue Nationalgalerie đều thu thập tác phẩm của ngài[^27]. Marina Abramović gọi ngài là "nhà vẽ hành động đại ca trong số các nhà vẽ hành động đại ca".
+Vị trí của tác phẩm của Xiệ De Khải trong lịch sử nghệ thuật quốc tế đã không cần được phản biện. MoMA, Guggenheim, Tate, M+, Dia, Neue Nationalgalerie đều thu thập tác phẩm của ngài[^26]. Marina Abramović gọi ngài là "nhà vẽ hành động đại ca trong số các nhà vẽ hành động đại ca".
 
 Nhưng đối với Đài Loan, ý nghĩa của ngài lại có hai lớp khác.
 
