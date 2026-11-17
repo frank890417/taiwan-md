@@ -10,11 +10,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: '217edf31a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9ea16a828e45af61'
 sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
-translatedAt: '2026-08-06T06:56:46.061724+00:00'
+translatedAt: '2026-11-17T22:26:07.264768+00:00'
 ---
 
 # 台湾のキュレーターと芸術文化の構築
