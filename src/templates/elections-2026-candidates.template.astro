@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsData from '../data/elections-2026.json';
 import i18nData from '../data/elections-2026-candidates.json';
+import '../styles/elections.css';
 
 type Copy = {
   metaTitle: string;
@@ -459,7 +460,7 @@ const jsonLd = toJsonLd({
 });
 
 const linkCls =
-  'text-[#6b7280] underline decoration-[#d1d5db] underline-offset-2 hover:text-[#374151]';
+  'text-(--el-ink-3) underline decoration-(--el-border-strong) underline-offset-2 hover:text-(--el-ink-2)';
 const serif = "font-family: 'Noto Serif TC', serif;";
 const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 ---
@@ -474,16 +475,16 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
       : c.metaDescription}
   readerSettings
 >
-  <div class="elections-candidates">
+  <div class="elections-candidates el-surface">
     <!-- Hero -->
     <section
-      class="border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+      class="border-b border-(--el-border) bg-gradient-to-b from-(--el-cream) via-(--el-bg) to-(--el-bg)"
     >
       <div class="mx-auto max-w-[920px] px-4 pb-12 pt-8 md:px-6 md:pb-16">
-        <nav aria-label="breadcrumb" class="mb-8 text-sm text-[#78716c]">
+        <nav aria-label="breadcrumb" class="mb-8 text-sm text-(--el-ink-3)">
           <a
             href={`${langPrefix}/elections/2026/`}
-            class="text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+            class="text-(--el-accent) underline decoration-(--el-accent)/30 underline-offset-2 hover:decoration-(--el-accent)"
             >{c.breadcrumbHome}</a
           >
           <span aria-hidden="true" class="mx-1.5">/</span>
@@ -491,18 +492,18 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
         </nav>
 
         <div
-          class="mb-3 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+          class="mb-3 text-center font-mono text-xs uppercase tracking-[0.18em] text-(--el-accent-2)"
         >
           {c.eyebrow}
         </div>
         <h1
-          class="mb-4 text-center text-[2.1rem] font-bold leading-[1.2] text-[#7c2d12] md:text-[3rem]"
+          class="mb-4 text-center text-[2.1rem] font-bold leading-[1.2] text-(--el-accent) md:text-[3rem]"
           style={heading}
         >
           {c.title}
         </h1>
         <p
-          class="mx-auto max-w-[640px] text-center text-base leading-[1.75] text-[#52525b] md:text-lg"
+          class="mx-auto max-w-[640px] text-center text-base leading-[1.75] text-(--el-ink-2) md:text-lg"
         >
           {
             allNumbered
@@ -516,40 +517,46 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
     </section>
 
     <!-- 統計 -->
-    <section class="bg-[#fdfaf2] py-12 md:py-16">
+    <section class="bg-(--el-cream) py-12 md:py-16">
       <div class="mx-auto max-w-[920px] px-4 md:px-6">
         <h2
-          class="mb-6 text-[1.5rem] font-light text-[#1f2937] md:text-[1.9rem]"
+          class="mb-6 text-[1.5rem] font-light text-(--el-ink) md:text-[1.9rem]"
           style={heading}
         >
           {c.statsTitle}
         </h2>
 
         <dl class="mb-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
-          <div class="rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-4">
-            <dt class="text-xs text-[#78716c]">{c.statTotal}</dt>
-            <dd class="m-0 text-3xl font-bold text-[#7c2d12]">{total}</dd>
+          <div
+            class="rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-4"
+          >
+            <dt class="text-xs text-(--el-ink-3)">{c.statTotal}</dt>
+            <dd class="m-0 text-3xl font-bold text-(--el-accent)">{total}</dd>
           </div>
-          <div class="rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-4">
-            <dt class="text-xs text-[#78716c]">{c.statRaces}</dt>
-            <dd class="m-0 text-3xl font-bold text-[#7c2d12]">
+          <div
+            class="rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-4"
+          >
+            <dt class="text-xs text-(--el-ink-3)">{c.statRaces}</dt>
+            <dd class="m-0 text-3xl font-bold text-(--el-accent)">
               {races.length}
             </dd>
           </div>
           <div
-            class="col-span-2 rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-4 sm:col-span-1"
+            class="col-span-2 rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-4 sm:col-span-1"
           >
-            <dt class="text-xs text-[#78716c]">{c.statCouncil}</dt>
-            <dd class="m-0 text-3xl font-bold text-[#7c2d12]">
+            <dt class="text-xs text-(--el-ink-3)">{c.statCouncil}</dt>
+            <dd class="m-0 text-3xl font-bold text-(--el-accent)">
               {councilTotal}
             </dd>
           </div>
         </dl>
 
         <div class="grid gap-6 md:grid-cols-2">
-          <div class="rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5">
+          <div
+            class="rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-5"
+          >
             <h3
-              class="mb-3 text-base font-semibold text-[#1f2937]"
+              class="mb-3 text-base font-semibold text-(--el-ink)"
               style={serif}
             >
               {c.distTitle}
@@ -557,15 +564,15 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
             <ul class="m-0 list-none space-y-2.5 p-0">
               {
                 distRows.map(([n, areas]) => (
-                  <li class="text-sm leading-[1.7] text-[#374151]">
-                    <span class="font-semibold text-[#7c2d12]">
+                  <li class="text-sm leading-[1.7] text-(--el-ink-2)">
+                    <span class="font-semibold text-(--el-accent)">
                       {fill(c.distRow, { n })}
                     </span>
-                    <span class="text-[#78716c]">
+                    <span class="text-(--el-ink-3)">
                       {' · '}
                       {fill(c.distRaces, { k: areas.length })}
                     </span>
-                    <div class="text-[#6b7280]">
+                    <div class="text-(--el-ink-3)">
                       {areas.map((a, i) => (
                         <>
                           {i > 0 && <span>{isZh ? '、' : ', '}</span>}
@@ -581,26 +588,28 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
             </ul>
           </div>
 
-          <div class="rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5">
+          <div
+            class="rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-5"
+          >
             <h3
-              class="mb-1 text-base font-semibold text-[#1f2937]"
+              class="mb-1 text-base font-semibold text-(--el-ink)"
               style={serif}
             >
               {c.partyTitle}
             </h3>
-            <p class="mb-3 text-xs leading-[1.6] text-[#78716c]">
+            <p class="mb-3 text-xs leading-[1.6] text-(--el-ink-3)">
               {c.partyNote}
             </p>
             <ul class="m-0 list-none space-y-1 p-0">
               {
                 partyRows.map((p) => (
-                  <li class="flex items-baseline justify-between gap-3 text-sm text-[#374151]">
+                  <li class="flex items-baseline justify-between gap-3 text-sm text-(--el-ink-2)">
                     <span
                       lang={isZh || partyI18n[p.party] ? undefined : 'zh-Hant'}
                     >
                       {p.label}
                     </span>
-                    <span class="tabular-nums text-[#6b7280]">
+                    <span class="tabular-nums text-(--el-ink-3)">
                       {fill(c.candidateCount, { n: p.n })}
                     </span>
                   </li>
@@ -613,13 +622,13 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
     </section>
 
     <!-- 名冊 -->
-    <section id="roster" class="bg-white py-12 md:py-16">
+    <section id="roster" class="bg-(--el-panel) py-12 md:py-16">
       <div class="mx-auto max-w-[1080px] px-4 md:px-6">
         <!-- 搜尋框：沒有 JS 時整塊隱藏，所有卡片照常顯示 -->
         <div id="cand-search-wrap" class="mb-8 hidden">
           <label
             for="cand-search"
-            class="mb-2 block text-sm font-semibold text-[#1f2937]"
+            class="mb-2 block text-sm font-semibold text-(--el-ink)"
             >{c.searchLabel}</label
           >
           <input
@@ -627,11 +636,11 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
             type="search"
             autocomplete="off"
             placeholder={c.searchPlaceholder}
-            class="w-full rounded-xl border-[1.5px] border-[#e5e7eb] bg-[#fdfaf2] px-4 py-3 text-base text-[#1f2937] outline-none focus:border-[#7c2d12]/50"
+            class="w-full rounded-xl border-[1.5px] border-(--el-border) bg-(--el-cream) px-4 py-3 text-base text-(--el-ink) outline-none focus:border-(--el-accent)/50"
           />
           <p
             id="cand-status"
-            class="mt-2 text-xs text-[#78716c]"
+            class="mt-2 text-xs text-(--el-ink-3)"
             aria-live="polite"
             data-tpl={c.showing}
             data-total={races.length}
@@ -643,11 +652,11 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
           groups.map((g) => (
             <div class="cand-group mb-12 last:mb-0" data-cand-group={g.key}>
               <h2
-                class="mb-5 flex flex-wrap items-baseline gap-x-3 border-b border-[#e7d9b8] pb-2 text-xl font-semibold text-[#1f2937]"
+                class="mb-5 flex flex-wrap items-baseline gap-x-3 border-b border-(--el-border) pb-2 text-xl font-semibold text-(--el-ink)"
                 style={serif}
               >
                 {g.label}
-                <span class="text-sm font-normal text-[#78716c]">
+                <span class="text-sm font-normal text-(--el-ink-3)">
                   {fill(c.groupCount, { n: g.races.length })}
                 </span>
               </h2>
@@ -668,46 +677,46 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
                   return (
                     <article
                       id={raceId(race.area)}
-                      class="cand-card flex scroll-mt-24 flex-col rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5"
+                      class="cand-race flex scroll-mt-24 flex-col rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-5"
                       data-search={searchText}
                     >
                       <header class="mb-3 flex items-baseline justify-between gap-3">
                         <h3
-                          class="text-lg font-semibold text-[#1f2937]"
+                          class="text-lg font-semibold text-(--el-ink)"
                           style={serif}
                         >
                           {areaLabel(race.area)}
                           {!isZh && (
                             <span
-                              class="ml-2 text-sm font-normal text-[#9ca3af]"
+                              class="ml-2 text-sm font-normal text-(--el-ink-3)"
                               lang="zh-Hant"
                             >
                               {race.area}
                             </span>
                           )}
                         </h3>
-                        <span class="shrink-0 text-xs text-[#78716c]">
+                        <span class="shrink-0 text-xs text-(--el-ink-3)">
                           {fill(c.candidateCount, {
                             n: race.candidates.length,
                           })}
                         </span>
                       </header>
-                      <ul class="m-0 list-none divide-y divide-[#f1f0ec] p-0">
+                      <ul class="m-0 list-none divide-y divide-(--el-rule) p-0">
                         {orderedCandidates(race).map((cand) => (
                           <li class="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 py-2">
                             {isNumbered(race) && (
-                              <span class="font-mono text-[13px] tabular-nums text-[#7c2d12]">
+                              <span class="font-mono text-[13px] tabular-nums text-(--el-accent)">
                                 {fill(c.numberLabel, { n: cand.number ?? '' })}
                               </span>
                             )}
                             <span
-                              class="text-base font-semibold text-[#1f2937]"
+                              class="text-base font-semibold text-(--el-ink)"
                               lang={isZh ? undefined : 'zh-Hant'}
                             >
                               {cand.name}
                             </span>
                             <span
-                              class="text-sm text-[#6b7280]"
+                              class="text-sm text-(--el-ink-3)"
                               lang={
                                 isZh || partyLabel(cand.party) !== cand.party
                                   ? undefined
@@ -717,14 +726,14 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
                               {partyLabel(cand.party)}
                             </span>
                             {cand.incumbent && (
-                              <span class="rounded border border-[#d1d5db] px-1.5 text-[11px] leading-[1.5] text-[#6b7280]">
+                              <span class="rounded border border-(--el-border-strong) px-1.5 text-[11px] leading-[1.5] text-(--el-ink-3)">
                                 {c.incumbent}
                               </span>
                             )}
                           </li>
                         ))}
                       </ul>
-                      <footer class="mt-auto pt-3 text-[11px] leading-[1.6] text-[#9ca3af]">
+                      <footer class="mt-auto pt-3 text-[11px] leading-[1.6] text-(--el-ink-3)">
                         <p class="m-0">
                           {c.sourceLabel}
                           <a
@@ -769,13 +778,13 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 
         <p
           id="cand-empty"
-          class="hidden rounded-xl border border-dashed border-[#d6c9a8] bg-[#fef9ed] p-6 text-center text-sm text-[#78716c]"
+          class="hidden rounded-xl border border-dashed border-(--el-border-strong) bg-(--el-cream) p-6 text-center text-sm text-(--el-ink-3)"
         >
           {c.noResult}
         </p>
 
         <div
-          class="mt-10 space-y-2 rounded-xl border border-dashed border-[#d6c9a8] bg-[#fef9ed] p-5 text-sm leading-[1.75] text-[#52525b]"
+          class="mt-10 space-y-2 rounded-xl border border-dashed border-(--el-border-strong) bg-(--el-cream) p-5 text-sm leading-[1.75] text-(--el-ink-2)"
         >
           <p class="m-0">
             {
@@ -794,7 +803,7 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
               href={src.incumbent}
               target="_blank"
               rel="noopener noreferrer"
-              class="text-[#7c2d12] underline underline-offset-2"
+              class="text-(--el-accent) underline underline-offset-2"
               >{c.incumbentNoteLink}</a
             >
           </p>
@@ -803,38 +812,38 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
     </section>
 
     <!-- 接下來會發生什麼 -->
-    <section class="bg-[#fdfaf2] py-12 md:py-16">
+    <section class="bg-(--el-cream) py-12 md:py-16">
       <div class="mx-auto max-w-[760px] px-4 md:px-6">
         <h2
-          class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[1.9rem]"
+          class="mb-3 text-[1.5rem] font-light text-(--el-ink) md:text-[1.9rem]"
           style={heading}
         >
           {c.nextTitle}
         </h2>
-        <p class="mb-8 text-base leading-[1.75] text-[#52525b]">
+        <p class="mb-8 text-base leading-[1.75] text-(--el-ink-2)">
           {c.nextIntro}
         </p>
         <ol class="m-0 list-none space-y-4 p-0">
           {
             c.nextItems.map((it) => (
-              <li class="rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5">
-                <div class="mb-1 font-mono text-xs tracking-wide text-[#92400e]">
+              <li class="rounded-xl border-[1.5px] border-(--el-border) bg-(--el-panel) p-5">
+                <div class="mb-1 font-mono text-xs tracking-wide text-(--el-accent-2)">
                   {it.date}
                 </div>
                 <h3
-                  class="mb-1 text-base font-semibold text-[#1f2937]"
+                  class="mb-1 text-base font-semibold text-(--el-ink)"
                   style={serif}
                 >
                   {it.label}
                 </h3>
-                <p class="m-0 text-sm leading-[1.7] text-[#52525b]">
+                <p class="m-0 text-sm leading-[1.7] text-(--el-ink-2)">
                   {it.desc}
                 </p>
               </li>
             ))
           }
         </ol>
-        <p class="mt-5 text-xs leading-[1.7] text-[#78716c]">
+        <p class="mt-5 text-xs leading-[1.7] text-(--el-ink-3)">
           {c.nextSource}
           <a
             href={src.schedule}
@@ -851,16 +860,19 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
         </p>
 
         <div
-          class="mt-8 rounded-xl border border-dashed border-[#d6c9a8] bg-[#fef9ed] p-5 text-sm leading-[1.75] text-[#52525b]"
+          class="mt-8 rounded-xl border border-dashed border-(--el-border-strong) bg-(--el-cream) p-5 text-sm leading-[1.75] text-(--el-ink-2)"
         >
-          <h3 class="mb-2 text-base font-semibold text-[#1f2937]" style={serif}>
+          <h3
+            class="mb-2 text-base font-semibold text-(--el-ink)"
+            style={serif}
+          >
             {c.councilTitle}
           </h3>
           <p class="m-0">
             {fill(c.councilMunicipal, councilNumbers.municipal)}
           </p>
           <p class="m-0">{fill(c.councilCounty, councilNumbers.county)}</p>
-          <p class="mt-2 text-xs text-[#78716c]">
+          <p class="mt-2 text-xs text-(--el-ink-3)">
             <a
               href={src.qualified}
               target="_blank"
@@ -873,22 +885,22 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
     </section>
 
     <!-- 底部導覽 -->
-    <section class="bg-white py-12">
+    <section class="bg-(--el-panel) py-12">
       <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
-        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+        <h2 class="mb-5 text-lg font-semibold text-(--el-ink)" style={serif}>
           {c.footTitle}
         </h2>
         <div class="flex flex-wrap justify-center gap-2.5">
           <a
             href={`${langPrefix}/elections/2026/`}
-            class="rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            class="rounded-full border-[1.5px] border-(--el-accent)/40 bg-(--el-accent-soft) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline"
             >← {c.footHome}</a
           >
           {
             c.footLinks.map((l) => (
               <a
                 href={`${langPrefix}/elections/2026/${l.slug}/`}
-                class="rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                class="rounded-full border-[1.5px] border-(--el-accent)/25 bg-(--el-panel) px-5 py-2 text-sm font-semibold text-(--el-accent) no-underline hover:bg-(--el-accent-soft)"
               >
                 {l.label}
               </a>
@@ -910,7 +922,7 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
   const status = document.getElementById('cand-status');
   const empty = document.getElementById('cand-empty');
   const cards = Array.from(
-    document.querySelectorAll<HTMLElement>('.cand-card'),
+    document.querySelectorAll<HTMLElement>('.cand-race'),
   );
   const groups = Array.from(
     document.querySelectorAll<HTMLElement>('.cand-group'),
@@ -927,7 +939,7 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
       if (ok) shown++;
     }
     for (const g of groups) {
-      g.hidden = !g.querySelector('.cand-card:not([hidden])');
+      g.hidden = !g.querySelector('.cand-race:not([hidden])');
     }
     if (empty) empty.classList.toggle('hidden', shown > 0);
     if (status) {
@@ -946,7 +958,15 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 </script>
 
 <style>
-  .cand-card[hidden],
+  /* 底色與預設字色：深色主題下不繼承全站 body 的字色。
+     --el-panel 是 --el-card 的別名：class 裡出現 "card" 字樣會被 dark-polish.css
+     的全站 [class*='card'] 規則蓋掉底色與邊線，所以模板 class 一律寫 --el-panel。 */
+  .elections-candidates {
+    --el-panel: var(--el-card);
+    background: var(--el-bg);
+    color: var(--el-ink);
+  }
+  .cand-race[hidden],
   .cand-group[hidden] {
     display: none;
   }
