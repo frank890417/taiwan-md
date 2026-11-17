@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-17T17:46:50.513024+00:00'
 ---
 
 > **30秒概覧：** 1981年には台北南陽街・ロスフォロ通り周辺に48軒の大学入試再受験塾と10万人以上の学生がいましたが、2023年にはわずか3軒、約2,500人に減少しました。台湾は「一度の試験で一生が決まる」というシステムを打破するため30年間教育改革を試みましたが、再受験塾は姿を消した一方で、補習塾は減りませんでした。新カリキュラム導入後5年で全国の文理補習塾は960軒も増加しました。この循環の裏には、ある島が「公平」という概念を繰り返し弁証法的に問い続けてきた歴史があります。

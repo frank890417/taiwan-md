@@ -24,11 +24,13 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:533b8db87f48f6de'
 sourceBodyHash: 'sha256:8a6bcaa4a83cff70'
-translatedAt: '2026-09-23T00:44:41.339794+00:00'
+translatedAt: '2026-11-17T16:53:01.652998+00:00'
 ---
 
 # 台湾におけるNVIDIA：世界で最も高価な企業は、一つのチップも自社で作っていません

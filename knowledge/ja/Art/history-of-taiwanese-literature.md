@@ -2,6 +2,7 @@
 title: '台湾文学史：「台湾に文学はあるのか」という問いから、400年の多声の叙事詩へ'
 description: '「台湾に文学はあるのか」という問いに始まり、楊逵（ようき）が日本で初めて受賞を果たすまで。言語の束縛を経て複数の声が復活するまでの400年史。'
 date: 2026-03-24
+category: 'Art'
 tags:
   [
     '文学',
@@ -14,17 +15,18 @@ tags:
     '文学論争',
   ]
 subcategory: '文學'
-category: 'Art'
 author: 'Taiwan.md'
-readingTime: 13
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: Art/台灣文學史.md
-sourceCommitSha: '4d7fab8e'
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/台灣文學史.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:894f1af0d29b3b98'
 sourceBodyHash: 'sha256:b3ce615995198c0c'
-translatedAt: 2026-05-01T14:48:26+08:00
+translatedAt: '2026-11-17T17:49:56.876620+00:00'
 ---
 
 # 台湾文学史
