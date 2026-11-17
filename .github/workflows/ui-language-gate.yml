@@ -66,6 +66,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          # 三支檢查只讀 src/、scripts/、docs/editorial/（2026-11-17 本機比對：
+          # sparse 與完整工作樹的輸出逐字相同）。完整 checkout 是 1.16GB、
+          # 抓檔約 50 秒；只抓這三個資料夾約 40MB。根目錄檔案 cone 模式會一起抓。
+          sparse-checkout: |
+            src
+            scripts
+            docs/editorial
 
       - uses: actions/setup-node@v4
         with:

@@ -18,7 +18,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        runner: [ubuntu-24.04-arm, ubuntu-24.04]
+        runner: [ubuntu-24.04-arm]
+        variant: [old, new]
         rep: [1, 2]
     runs-on: ${{ matrix.runner }}
     timeout-minutes: 90
@@ -54,16 +55,9 @@ jobs:
       - name: Validate article health (SSOT, full sweep)
         run: python3 scripts/tools/article-health.py --all --profile=ci-deploy --quiet
 
-      - name: Time git log (status.py query) with and without rename detection
-        run: |
-          q() { git -c core.quotepath=false log --name-only --format='__COMMIT__|%H|%aI' --full-history "$@" HEAD -- knowledge; }
-          s=$(date +%s.%N); q > /tmp/log-renames.txt; e=$(date +%s.%N)
-          echo "with renames: $(echo "$e - $s" | bc)s lines=$(wc -l < /tmp/log-renames.txt)"
-          s=$(date +%s.%N); q --no-renames > /tmp/log-norenames.txt; e=$(date +%s.%N)
-          echo "no renames:   $(echo "$e - $s" | bc)s lines=$(wc -l < /tmp/log-norenames.txt)"
-          s=$(date +%s.%N); q > /tmp/log-renames2.txt; e=$(date +%s.%N)
-          echo "with renames (2nd, after lazy fetch): $(echo "$e - $s" | bc)s"
-
+      - name: Use the pre-change status.py (old variant)
+        if: matrix.variant == 'old'
+        run: git show 171014919d:scripts/tools/lang-sync/status.py > scripts/tools/lang-sync/status.py && git diff --stat
       - name: Restore OG image cache
         uses: actions/cache/restore@v5
         with:
@@ -96,35 +90,7 @@ jobs:
           echo "files=$(wc -l < /tmp/manifest.tsv) html=$(grep -c '\.html	' /tmp/manifest.tsv) bytes=$(awk -F'\t' '{s+=$2} END {print s}' /tmp/manifest.tsv)"
       - uses: actions/upload-artifact@v5
         with:
-          name: manifest-${{ matrix.runner }}-${{ matrix.rep }}
+          name: manifest2-${{ matrix.variant }}-${{ matrix.rep }}
           path: /tmp/manifest.tsv
           retention-days: 3
 
-      - name: Archive like upload-pages-artifact
-        run: |
-          tar --dereference --hard-dereference --directory dist -cf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
-          ls -l "$RUNNER_TEMP/artifact.tar"
-      - name: Upload level 6 (current)
-        if: matrix.rep == 1
-        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
-        with:
-          name: bench-${{ matrix.runner }}-l6
-          path: ${{ runner.temp }}/artifact.tar
-          retention-days: 1
-          compression-level: 6
-      - name: Upload level 1
-        if: matrix.rep == 1
-        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
-        with:
-          name: bench-${{ matrix.runner }}-l1
-          path: ${{ runner.temp }}/artifact.tar
-          retention-days: 1
-          compression-level: 1
-      - name: Upload level 0
-        if: matrix.rep == 1
-        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
-        with:
-          name: bench-${{ matrix.runner }}-l0
-          path: ${{ runner.temp }}/artifact.tar
-          retention-days: 1
-          compression-level: 0

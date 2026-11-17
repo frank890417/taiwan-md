@@ -117,6 +117,12 @@ def _build_git_history_cache():
     # for all 17,881 knowledge paths, 3.35s → 0.72s locally (2026-10-20).
     out = subprocess.run(
         ["git", "-c", "core.quotepath=false", "log", "--name-only",
+         # --no-renames（2026-11-17 CI 加速）：改名偵測要讀 blob 內容，CI 的
+         # blobless clone 下每個候選都變一次網路 lazy fetch，這條查詢在
+         # deploy 上要 15–40 秒，關掉後 0.7 秒。結果不變：改名的新路徑本來
+         # 就有自己的紀錄，關掉只會讓已不存在的舊路徑多一筆刪除紀錄，而
+         # 查表只查現存檔案。本機實測 --json 輸出前後除時間戳外逐字相同。
+         "--no-renames",
          "--format=__COMMIT__|%H|%aI", "--full-history", "HEAD", "--",
          "knowledge"],
         cwd=REPO, capture_output=True, encoding="utf-8", errors="replace",
