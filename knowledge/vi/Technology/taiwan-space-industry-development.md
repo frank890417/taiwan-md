@@ -18,12 +18,13 @@ featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣太空產業發展.md'
-sourceCommitSha: 'f3baded5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e66143fe99e401f4'
 sourceBodyHash: 'sha256:f2a71a6d6f47c4eb'
-translatedAt: '2026-07-31T12:00:00Z'
-imageAlt: 'Vệ tinh FormoSat-8A chuẩn bị được phóng lên không gian'
+translatedAt: '2026-11-17T18:16:35.447301+00:00'
 ---
 
 # Phát triển ngành công nghiệp không gian Đài Loan: Quốc gia sản xuất vệ tinh, nhưng không có tên lửa riêng

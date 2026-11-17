@@ -18,13 +18,15 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-imageAlt: 'Biểu diễn thao tác búp bê Đài Loan'
 readingTime: 12
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣傳統藝術.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'
-translatedAt: 2026-07-31T00:00:00Z
+translatedAt: '2026-11-17T18:24:03.969925+00:00'
 ---
 
 # Nghệ thuật truyền thống Đài Loan: Từ vở kịch nhỏ ở thôn quê tới đế chế văn hóa—Kỳ tích lật ngược

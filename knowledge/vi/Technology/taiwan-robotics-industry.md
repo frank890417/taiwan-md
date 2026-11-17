@@ -1,15 +1,15 @@
 ---
-title: 'Ngành robot Đài Loan'
-description: 'Con đảo dẫn đầu thế giới về bán dẫn, tại sao lại phải "bổ sung kiến thức" vào kỷ nguyên robot? Nhìn lại từ lần lộ diện năm 2026 của NCAIR, chiêm ngưỡng cơ khí chính xác Đài Loan những phần thành công lẫn những lỗ hổng.'
+title: 'Ngành công nghiệp robot của Đài Loan'
+description: 'Tại sao hòn đảo đứng đầu thế giới về bán dẫn lại cần phải "học bù" trong kỷ nguyên robot? Từ sự kiện khánh thành NCAIR năm 2026, nhìn lại kỳ tích và những điểm mù của ngành máy móc chính xác Đài Loan.'
 date: 2026-04-11
 category: 'Technology'
 tags:
   [
     'robot',
-    'cơ khí chính xác',
+    'máy móc chính xác',
     'bán dẫn',
     'AI',
-    'chuyển đổi ngành công nghiệp',
+    'chuyển đổi công nghiệp',
     'HIWIN',
     'NCAIR',
     '2026',
@@ -21,151 +21,153 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4702dd502f640592'
 sourceBodyHash: 'sha256:2025d0771f75493c'
-translatedAt: '2026-09-17T21:12:21.181860+00:00'
+translatedAt: '2026-11-18T00:50:30+08:00'
 ---
 
-# Ngành robot Đài Loan
+# Ngành công nghiệp robot của Đài Loan
 
-## Chiều hôm đó ở Ả Luân
+## Một buổi chiều tại Shalun
 
-Ngày 10 tháng 4 năm 2026, Thành phố Đài Nam, Ả Luân trí tuệ xanh lạc quan. Tổng thống Lại Thanh Đức tự tay khai mạc một cơ quan chính phủ mới: **Trung tâm AI Robot Quốc gia**, viết tắt tiếng Anh là NCAIR.[^1] Cơ quan mới này thuộc Viện Nghiên cứu Quốc gia (NIAR), nhiệm vụ nghe rất trực tiếp: nghiên cứu, thử nghiệm, đào tạo robot.
+Ngày 10 tháng 4 năm 2026, tại Thành phố Khoa học Năng lượng Xanh Thông minh Shalun (Sili), Tainan. Tổng thống Lại Thanh Đức (Lai Ching-te) đã đích thân khánh thành một cơ quan chính phủ mới: **Trung tâm Robot AI Quốc gia**, viết tắt là NCAIR. [^1] Cơ quan mới này trực thuộc Viện Nghiên cứu Quốc gia (NIAR), với nhiệm vụ nghe có vẻ rất trực diện: nghiên cứu, thử nghiệm và huấn luyện robot.
 
-Vào ngày khai mạc, Lại Thanh Đức đã đề cập đến một con số cụ thể trong bài phát biểu: từ năm 2026 đến 2029, chính phủ sẽ đầu tư **200 tỷ đồng tệ** vào ngành robot.[^2] Mục tiêu là để ít nhất ba công ty khởi nghiệp có thể bén rễ. Bốn lĩnh vực ứng dụng được ưu tiên đầu tư là: các nghề đặc biệt nguy hiểm, chăm sóc y tế và sức khỏe, ngành lương thực và dịch vụ, và — như Giám đốc NCAIR Su Văn Dũ đặc biệt nhấn mạnh — **robot chăm sóc dài hạn tại gia đình**.[^3]
+Trong buổi lễ khánh thành, ông Lại Thanh Đức đã đưa ra một con số cụ thể trong bài phát biểu: từ năm 2026 đến năm 2029, chính phủ sẽ đầu tư **NT$20 tỷ** vào ngành công nghiệp robot. [^2] Mục tiêu là giúp ít nhất ba công ty khởi nghiệp có thể bén rễ. Bốn lĩnh vực ứng dụng ưu tiên bao gồm: các nghề nghiệp có rủi ro cao, y tế và chăm sóc sức khỏe, thực phẩm và dịch vụ, và — như Giám đốc NCAIR Tô Văn Ngọc (Su Wen-yu) đặc biệt nhấn mạnh — **robot chăm sóc người cao tuổi tại gia**. [^3]
 
-Tất cả những điều này nghe có vẻ hợp lý. Đài Loan đang lão hóa, có tình trạng thiếu hụt nhân lực chăm sóc gia đình, robot về lý thuyết có thể bù vào khoảng trống đó. Chính phủ cấp ngân sách, thiết lập trung tâm, đặt ra mục tiêu, mời tổng thống khai mạc — một bước khởi đầu điển hình của chính sách ngành công nghiệp.
+Tất cả nghe đều rất hợp lý. Đài Loan đang già hóa, việc chăm sóc tại gia đang thiếu hụt lao động, và về lý thuyết, robot có thể lấp đầy khoảng trống này. Chính phủ cấp ngân sách, thành lập trung tâm, đặt mục tiêu và mời Tổng thống khánh thành — một khởi đầu điển hình của chính sách công nghiệp.
 
-Nhưng câu hỏi thực sự đáng được đặt ra không phải là "Đài Loan có nên làm robot không", mà là: **Tại sao Đài Loan mới bắt đầu làm việc này vào năm 2026?**
+Nhưng câu hỏi thực sự đáng hỏi không phải là "Đài Loan có nên làm robot hay không", mà là: **Tại sao đến tận năm 2026 Đài Loan mới bắt đầu làm việc này?**
 
-Đài Loan là nơi giỏi nhất thế giới trong việc sản xuất chip. Các dây chuyền sản xuất chính xác nhất thế giới 5 nanomet, 3 nanomet, 2 nanomet đều nằm trên hòn đảo này. Chip mà robot cần nhất bao gồm cảm biến, xử lý, điều khiển động cơ — Đài Loan có toàn bộ khả năng làm những việc này, và làm tốt hơn bất kỳ nơi nào khác.
+Đài Loan là nơi giỏi chế tạo chip nhất thế giới. Những dây chuyền sản xuất 5nm, 3nm và 2nm tinh vi nhất thế giới đều nằm trên hòn đảo này. Các thành phần mà robot cần nhất như cảm biến chip, tính toán, điều khiển động cơ — Đài Loan đều có thể làm được, và làm tốt hơn bất kỳ nơi nào khác.
 
-Nhưng trong khớp của những robot nhân hình hàng đầu thế giới, 80% sử dụng bộ giảm tốc sóng hài của Harmonic Drive Systems ở Nhật Bản.[^4]
+Tuy nhiên, trong các khớp nối của những robot hình người (humanoid) hàng đầu thế giới, 80% sử dụng bộ giảm tốc sóng hài (harmonic drive) của Harmonic Drive Systems đến từ Nhật Bản. [^4]
 
-> **Tóm tắt 30 giây**: Vào ngày 10 tháng 4 năm 2026, Lại Thanh Đức tại Ả Luân, Đài Nam khai mạc Trung tâm AI Robot Quốc gia (NCAIR), là thời điểm giao thoa khi chính phủ Đài Loan chính thức đưa robot vào danh sách chiến lược ngành công nghiệp quốc gia. Từ 2026-2029 đầu tư 200 tỷ đồng tệ, mục tiêu hỗ trợ ba công ty khởi nghiệp robot, tập trung vào ứng dụng chăm sóc dài hạn tại nhà và các nghề đặc biệt nguy hiểm. Bối cảnh là Đài Loan sở hữu chuỗi cung ứng bán dẫn và cơ khí chính xác cấp thế giới (HIWIN, Taiwan Precision Machinery, Chih-De, Mitech), nhưng trên thị trường các bộ phận then chốt của robot nhân hình (bộ giảm tốc sóng hài, bộ giảm tốc hành tinh) lâu nay do các nhà sản xuất Nhật Bản thống trị. NCAIR không phải bước khởi đầu, mà là bổ sung kiến thức — một hòn đảo vươn lên nhờ chuỗi cung ứng sản xuất gia công, trong giai đoạn tiếp theo "tích hợp hệ thống" phải học lại cách đi bộ.
+> **Tóm tắt trong 30 giây**: Ngày 10 tháng 4 năm 2026, ông Lại Thanh Đức khánh thành Trung tâm Robot AI Quốc gia (NCAIR) tại Shalun, Tainan, đánh dấu bước ngoặt khi chính phủ Đài Loan chính thức đưa robot vào chiến lược công nghiệp quốc gia. Giai đoạn 2026-2029 sẽ đầu tư NT$20 tỷ, mục tiêu hỗ trợ ba startup robot, tập trung vào ứng dụng chăm sóc tại gia và các nghề rủi ro cao. Bối cảnh là Đài Loan sở hữu chuỗi cung ứng bán dẫn và máy móc chính xác đẳng cấp thế giới (HIWIN, Taiwan Precision, Jetech, Menli), nhưng thị trường linh kiện then chốt cho robot hình người (bộ giảm tốc sóng hài, bộ giảm tốc hành tinh) từ lâu đã bị các nhà sản xuất Nhật Bản thống trị. NCAIR không phải là điểm khởi đầu, mà là một sự "học bù" — một hòn đảo vốn trỗi dậy nhờ chuỗi cung ứng gia công, nay phải học cách đi lại trong giai đoạn tiếp theo mang tên "tích hợp hệ thống".
 
-## Một công ty, một câu nói: "Công nghệ mua không được, thì tự tay sáng tạo"
+## Một câu nói của một doanh nghiệp: "Công nghệ không mua được thì tự mình chế tạo"
 
-Để hiểu rõ tình hình ngành robot của Đài Loan, tốt nhất là bắt đầu từ một công ty gọi là **HIWIN**（上銀科技).
+Để hiểu rõ tình cảnh của ngành robot Đài Loan, cách nhanh nhất là bắt đầu từ một công ty có tên là **HIWIN** (Thượng Ngân Khoa Kỹ).
 
-HIWIN có trụ sở tại Đài Trung, chuyên sản xuất "những thứ có chuyển động" — thanh trượt tuyến tính, vít bi, bộ giảm tốc, hệ thống điều khiển. Những thứ này nghe có vẻ bình thường, nhưng bất kỳ máy móc công nghiệp nào chuyển động cũng cần chúng. Bất kỳ máy CNC nào, bất kỳ cánh tay robot nào trong nhà máy bán dẫn, bất kỳ máy bay không người lái nào có hệ thống truyền động — gần như tất cả đều chứa các bộ phận của HIWIN.
+Trụ sở chính của HIWIN đặt tại Đài Trung, chuyên về "những thứ chuyển động" — thanh trượt tuyến tính, trục vít me bi, bộ giảm tốc và hệ thống điều khiển. Những thứ này nghe có vẻ bình thường, nhưng bất kỳ máy móc công nghiệp nào có chuyển động đều cần đến chúng. Bất kỳ máy CNC nào, bất kỳ cánh tay robot nào trong nhà máy bán dẫn, hay bất kỳ chiếc drone nào có hệ thống truyền động — hầu như đều có linh kiện của HIWIN bên trong.
 
-Vị thế thị trường của họ như sau: **Nhà sản xuất thanh trượt tuyến tính lớn thứ hai toàn cầu, đứng đầu thị trường truyền động ở Ý**. Trong danh sách "100 công ty robot nhân hình toàn cầu" năm 2025 của Morgan Stanley, bốn công ty Đài Loan được chọn — TSMC, Foxconn, Và Đại Công Nghiệp, và HIWIN.[^5] Chip, lắp ráp, bộ phận, truyền động — bốn đại diện lấy một vị trí.
+Vị thế thị trường của họ là: **Nhà sản xuất thanh trượt tuyến tính lớn thứ hai thế giới, đứng đầu thị trường truyền động tại Ý**. Trong danh sách "100 doanh nghiệp robot hình người hàng đầu thế giới" năm 2025 của Morgan Stanley, có bốn doanh nghiệp Đài Loan được chọn — TSMC, Hon Hai (Foxconn), He-Da Industrial và HIWIN. [^5] Chip, lắp ráp, linh kiện và truyền động — bốn đại diện cho bốn mảnh ghép khác nhau.
 
-Chủ tịch HIWIN là **Trác Văn Hằng**（卓文恆), người gia nhập công ty năm 1995, trở thành chủ tịch năm 2019. Anh ấy đã nói một câu nói, câu nói này trở thành triết lý cốt lõi của công ty:
+Chủ tịch HIWIN, ông **Trác Văn Hằng** (Cho Wen-heng), gia nhập công ty năm 1995 và tiếp quản vị trí Chủ tịch vào năm 2019. Ông đã nói một câu trở thành triết lý cốt lõi của công ty:
 
-> **"Công nghệ mua không được, thì tự tay sáng tạo."**[^6]
+> **"Công nghệ không mua được thì tự mình chế tạo."** [^6]
 
-Câu nói này nghe có vẻ truyền cảm hứng, nhưng đằng sau nó là một điểm đau rất thực tế: HIWIN muốn sản xuất cánh tay robot sáu trục cho robot công nghiệp, một bộ phận quan trọng nhất là bộ giảm tốc sóng hài — một cơ cấu chính xác có thể chuyển đổi tốc độ cao, mô-men xoắn thấp của động cơ thành tốc độ thấp, mô-men xoắn cao mà cánh tay robot cần. Nhà cung cấp chính trên toàn cầu cho thứ này là Harmonic Drive Systems（HDS) ở Nhật Bản, thị phần của họ trong ứng dụng robot công nghiệp lên đến 80%.[^7]
+Câu nói này nghe có vẻ đầy cảm hứng, nhưng đằng sau đó là một nỗi đau thực tế: HIWIN muốn làm cánh tay robot sáu trục dùng cho robot công nghiệp, và linh kiện quan trọng nhất chính là bộ giảm tốc sóng hài — một cơ cấu chính xác có khả năng chuyển đổi tốc độ quay cao, mô-men xoắn thấp của động cơ thành tốc độ quay thấp, mô-men xoắn cao mà cánh tay robot cần. Nhà cung cấp chính trên toàn cầu cho thứ này là Harmonic Drive Systems (HDS) của Nhật Bản, với thị phần đạt 80% trong các ứng dụng robot công nghiệp. [^7]
 
-HDS không phải là một người xấu, chúng chỉ làm quá tốt, người khác không theo kịp. Flex spline trong bộ giảm tốc sóng hài phải có thể chịu được hàng trăm triệu lần uốn xoắn mà không bị gãy, đằng sau đó là sự tích lũy hàng chục năm trong khoa học vật liệu, công nghệ xử lý nhiệt, gia công chính xác. HIWIN muốn mua sản phẩm của HDS để lắp ráp robot của mình, HDS có thể bán cho bạn, nhưng sẽ không cung cấp đặc tả mới nhất; và giá cả do HDS quyết định.
+Không phải HDS làm điều gì xấu, mà là họ làm quá tốt đến mức những người khác không theo kịp. Để bánh răng ngoài đàn hồi (flex spline) trong bộ giảm tốc sóng hài có thể chịu được hàng trăm triệu lần xoắn đi xoắn lại mà không gãy, đó là kết quả của hàng thập kỷ tích lũy về khoa học vật liệu, quy trình xử lý nhiệt và gia công chính xác. HIWIN muốn mua sản phẩm của HDS để lắp ráp robot của mình; HDS có thể bán cho bạn, nhưng họ sẽ không bán cho bạn những thông số kỹ thuật mới nhất; và giá cả là do họ quyết định.
 
-Lựa chọn của HIWIN là tự sáng tạo. Họ phát triển một chuỗi gọi là **DATORKER**（"DT"), sau nhiều năm thử sai, họ tạo ra một bộ giảm tốc sóng hài có thể sử dụng được. Không phải hàng đầu thế giới, nhưng đủ dùng, có thể lắp vào cánh tay robot sáu trục của riêng họ.[^8]
+Lựa chọn của HIWIN là tự chế tạo. Họ đã phát triển một dòng sản phẩm gọi là **DATORKER** (DT), sau nhiều năm thử sai đã tạo ra được bộ giảm tốc sóng hài có thể sử dụng được. Không phải số một thế giới, nhưng đủ dùng để đưa vào cánh tay robot sáu trục của chính họ. [^8]
 
-Câu chuyện này có một chi tiết quan trọng: tỷ lệ tích hợp dọc của HIWIN là **95%**.[^9] Nói cách khác, họ tự làm các thiết bị, tự mài các viên bi, tự chế tạo vật liệu nguyên liệu, tự kiểm tra, tự lắp ráp. Sự tích hợp dọc này không phải để tiết kiệm tiền — tích hợp dọc thực chất đắt hơn ngoài thầu — mà vì **trong ngành cơ khí chính xác, mỗi khâu chuỗi cung ứng có thể cản trở bạn**. Bất kỳ quy trình nào được ngoài thầu, sự cải tiến sản phẩm thế hệ tiếp theo phải phụ thuộc vào lịch trình của nhà cung cấp đó.
+Câu chuyện này có một chi tiết quan trọng: tỷ lệ tích hợp dọc của HIWIN là **95%**. [^9] Nghĩa là họ tự làm thiết bị, tự mài bi, tự chế tạo nguyên liệu, tự kiểm thử và tự lắp ráp. Sự tích hợp dọc này không phải để tiết kiệm tiền — thực tế tích hợp dọc đắt hơn thuê ngoài — mà bởi vì **trong ngành máy móc chính xác, bất kỳ mắt xích nào trong chuỗi cung ứng cũng có thể làm bạn bị nghẽn lại**. Nếu một công đoạn được thuê ngoài, việc cải tiến sản phẩm thế hệ tiếp theo sẽ phải phụ thuộc vào tiến độ của nhà cung cấp đó.
 
-HIWIN sử dụng tích hợp dọc + tự chủ trong nghiên cứu và phát triển để trao đổi lấy tự do không bị nhà sản xuất Nhật Bản bóp cổ họng. Nhưng giá của tự do này là: **họ không có lựa chọn nào khác ngoài việc tự xây dựng lại từng lớp của toàn bộ chuỗi công nghiệp**.
+HIWIN đã dùng sự tích hợp dọc + tự nghiên cứu phát triển để đổi lấy sự tự do không bị các nhà sản xuất Nhật Bản "bóp nghẹt". Nhưng cái giá của sự tự do này là: **họ buộc phải tự xây dựng lại từng lớp của toàn bộ chuỗi ngành hàng**.
 
-Đây là minh họa cho ngành robot Đài Loan: **không phải không có khả năng, mà là không có hệ sinh thái**.
+Đây chính là hình ảnh thu nhỏ của ngành robot Đài Loan: **Không phải không có năng lực, mà là không có hệ sinh thái**.
 
-## Tại sao siêu cường bán dẫn là sinh viên "bổ sung kiến thức" trong lĩnh vực robot
+## Tại sao cường quốc bán dẫn lại là "học sinh học bù" trong lĩnh vực robot
 
-Nếu chỉ nhìn các bộ phận, thực ra nguồn cung ứng ngành robot Đài Loan không yếu:
+Nếu chỉ nhìn vào linh kiện, thượng nguồn của ngành robot Đài Loan thực tế không hề yếu:
 
-- **Bộ phận truyền động**: HIWIN (thanh trượt/vít/bộ giảm tốc), Taiwan Precision Machinery (bộ giảm tốc hành tinh), Chih-De (thanh trượt tuyến tính)
-- **Điều khiển động cơ**: Delta, Teco, Shilin Electric
-- **Chip và cảm biến**: TSMC (代工 AI chip), Foxconn (lắp ráp), Novatek (xử lý hình ảnh), OmniVision (cảm biến 3D)
-- **Đúc chính xác**: Hotai Motor (đúc giảm tốc, nhà cung cấp của Tesla Optimus)
-- **Tích hợp hệ thống**: Mitech, Delta (robot công nghiệp)
+- **Linh kiện truyền động**: HIWIN (thanh trượt/trục vít/bộ giảm tốc), Taiwan Precision (bộ giảm tốc hành tinh), Jetech (thanh trượt tuyến tính).
+- **Điều khiển động cơ**: Delta Electronics, Tung Yuan, Shihlin Electric.
+- **Chip và cảm biến**: TSMC (gia công chip AI), Hon Hai (lắp ráp), Novatek (xử lý hình ảnh), Primecore (cảm biến 3D).
+- **Đúc chính xác**: He-Da Industrial (vỏ đúc bộ giảm tốc, nhà cung cấp cho Tesla Optimus).
+- **Tích hợp hệ thống**: Menli, Delta Electronics (robot công nghiệp).
 
-Nhưng nếu bạn hỏi một kỹ sư nước ngoài "Robot nhân hình nào được mong chờ nhất vào năm 2026?", anh ấy sẽ nói Tesla Optimus, Figure AI, Boston Dynamics, hoặc các công ty robot Unitree (宇樹) từ Trung Quốc. Anh ấy không bao giờ sẽ nói bất kỳ thương hiệu Đài Loan nào.
+Nhưng nếu bạn hỏi một kỹ sư nước ngoài rằng "Robot hình người nào được mong đợi nhất vào năm 2026?", anh ta sẽ nói Tesla Optimus, Figure AI, Boston Dynamics, hoặc Unitree của Trung Quốc. Anh ta sẽ không nhắc đến bất kỳ thương hiệu Đài Loan nào.
 
-Đây là **nghịch lý** cốt lõi của ngành robot Đài Loan: **bộ phận mạnh, máy hoàn chỉnh yếu**.
+Đây là **nghịch lý** cốt lõi của ngành robot Đài Loan: **Linh kiện mạnh, nguyên chiếc yếu**.
 
-Tại sao? Bởi vì logic phát triển kinh tế của Đài Loan trong nửa thế kỷ qua là trở thành trung và thượng lưu chuỗi cung ứng toàn cầu. "Bạn cho tôi thông số, tôi làm cho bạn" — Đài Loan rất giỏi làm điều này. TSMC đưa logic này tới cực hạn: khách hàng nói TSMC muốn làm chip gì, TSMC chịu trách nhiệm tạo ra nó, không tạo CPU, GPU, hoặc thương hiệu tiêu dùng của riêng mình.
+Tại sao? Bởi vì logic phát triển kinh tế trong nửa thế kỷ qua của Đài Loan là trở thành thượng nguồn và trung nguồn của chuỗi cung ứng toàn cầu. "Bạn đưa thông số, tôi làm cho bạn" — Đài Loan rất giỏi việc này. TSMC đã đẩy logic này lên đến cực hạn: khách hàng nói với TSMC cần chip gì, TSMC chịu trách nhiệm làm ra nó, chứ không làm CPU, GPU hay thương hiệu tiêu dùng của riêng mình.
 
-Logic này đúng trong bán dẫn, trong đúc PC, trong lắp ráp điện thoại, trong bảng điều khiển, trong máy chủ. **Nhưng robot không phải là ngành công nghiệp như vậy**.
+Logic này đúng trong bán dẫn, gia công PC, lắp ráp điện thoại, tấm nền và máy chủ. **Nhưng robot không phải là một ngành công nghiệp như vậy**.
 
-Robot là một ngành công nghiệp mà **máy hoàn chỉnh = tình huống ứng dụng**. Bạn không thể chỉ làm "một bộ giảm tốc tốt" và chiến thắng trên thị trường robot nhân hình. Bạn phải xác định tình huống sử dụng (chăm sóc dài hạn tại nhà? hoạt động nhà máy? dịch vụ nhà hàng?), xác định nhu cầu hành động (leo cầu thang? ôm người già? trao cà phê?), xác định logic giao diện (giọng nói? cử chỉ? cảm ứng?), rồi đẩy những nhu cầu này xuống: tôi cần cảm biến nào, thuật toán điều khiển nào, cấu trúc cơ khí nào, quản lý pin nào.
+Robot là ngành công nghiệp mà **nguyên chiếc = bối cảnh ứng dụng**. Bạn không thể chỉ làm "một bộ giảm tốc tốt" mà giành chiến thắng trên thị trường robot hình người. Bạn phải định nghĩa kịch bản sử dụng (chăm sóc tại gia? vận hành nhà máy? phục vụ nhà hàng?), định nghĩa nhu cầu chuyển động (leo cầu thang? bế người già? đưa cà phê?), định nghĩa logic giao diện (giọng nói? cử chỉ? chạm?), rồi từ những nhu cầu đó suy ngược lại: tôi cần cảm biến thế nào, thuật toán điều khiển ra sao, cấu trúc cơ khí gì và quản lý pin như thế nào.
 
-Đây là "hạ lưu xác định thượng lưu" điển hình. Kinh nghiệm sản xuất gia công của Đài Loan không quen với logic này — Đài Loan quen với "thượng lưu chuỗi cung ứng bị khách hàng thúc đẩy". Làm ngược lại, toàn bộ tổ chức ngành công nghiệp, đào tạo nhân tài, hệ thống khoán lương đều phải tái cấu trúc.
+Đây là kiểu "hạ nguồn định nghĩa thượng nguồn" điển hình. Kinh nghiệm gia công của Đài Loan không quen với logic này — thứ Đài Loan quen thuộc là "thượng nguồn cung ứng bị thúc đẩy bởi khách hàng". Làm ngược lại, toàn bộ tổ chức ngành nghề, đào tạo nhân tài và hệ thống đãi ngộ đều phải tái cấu trúc.
 
-Đó là lý do NCAIR tồn tại. Nó không phải một trung tâm nghiên cứu và phát triển, nó là **trung tâm tái cấu trúc ngành công nghiệp**. 200 tỷ đồng tệ của chính phủ không chỉ là mua thiết bị, xây dựng phòng thí nghiệm, tuyển dụng nhà nghiên cứu — nó là mua thời gian, mua chi phí của những sai lầm, mua một không gian để các kỹ sư Đài Loan bắt đầu suy nghĩ "robot phải làm cái gì" thay vì "tôi phải làm cho tốt bộ phận này".
+Đó là lý do tại sao NCAIR tồn tại. Nó không phải là một trung tâm nghiên cứu phát triển (R&D), nó là **trung tâm tái cấu trúc ngành công nghiệp**. 20 tỷ của chính phủ không chỉ để mua thiết bị, xây phòng thí nghiệm hay tuyển nhà nghiên cứu — mà là để mua thời gian, mua chi phí cho những sai lầm, và mua một không gian để các kỹ sư Đài Loan bắt đầu suy nghĩ về việc "robot sẽ làm gì" thay vì "tôi phải làm tốt linh kiện này như thế nào".
 
-## Từ công nghiệp đến gia đình, trận chiến tiếp theo của ngành robot
+## Từ công nghiệp đến gia đình: Cuộc chiến tiếp theo của ngành robot
 
-NCAIR tập trung vào bốn lĩnh vực ứng dụng, nhưng Giám đốc Su Văn Dũ đặc biệt nhấn mạnh một trong số đó: **robot chăm sóc dài hạn tại gia đình**.
+NCAIR nhắm vào bốn lĩnh vực ứng dụng, nhưng Giám đốc Tô Văn Ngọc đặc biệt nhấn mạnh một lĩnh vực: **robot chăm sóc người cao tuổi tại gia**.
 
-Sự lựa chọn này không phải tình cờ. Năm 2025, tỷ lệ dân số Đài Loan trên 65 tuổi đã vượt quá 20%, bước vào "xã hội siêu lão hóa". Con số này vẫn đang xấu đi. Đồng thời, tình trạng thiếu hụt có cấu trúc nhân lực chăm sóc nước ngoài, khoảng trống trong các nhân viên dịch vụ chăm sóc bản địa, áp lực tài chính của chính sách chăm sóc dài hạn 2.0 — mỗi cái đều chỉ tới một kết luận: **hai mươi năm tới, Đài Loan sẽ cần một cái gì đó để bù khoảng trống nhân lực**.
+Lựa chọn này không phải ngẫu nhiên. Năm 2025, tỷ lệ dân số trên 65 tuổi tại Đài Loan đã vượt quá 20%, bước vào "xã hội siêu già". Con số này vẫn đang tiếp tục xấu đi. Đồng thời, sự thiếu hụt cấu trúc của lao động giúp việc nước ngoài, sự đứt gãy của đội ngũ chăm sóc bản địa và áp lực tài chính từ chính sách Chăm sóc dài hạn 2.0 — tất cả đều chỉ về một kết luận: **Đài Loan của hai mươi năm tới cần một thứ gì đó để bù đắp khoảng trống nhân lực**.
 
-Nếu robot chăm sóc dài hạn tại gia đình có thể "giúp người già lật người, thay tã, trò chuyện, nhắc nhở lịch uống thuốc, đo huyết áp, báo cáo khi té ngã", nó có thể giải quyết 60-70% những việc mà một nhân viên chăm sóc có thể giải quyết. 30% còn lại cần nhân lực con người để phán đoán và kết nối cảm xúc — đây là cái mà robot không thể làm được trong thời gian ngắn. Nhưng có thể giải quyết 60-70% là đủ để làm nhẹ gánh nặng của gia đình và nhân viên chăm sóc để cuộc sống có thể tiếp tục.
+Nếu robot chăm sóc tại gia có thể làm được những việc như "giúp người già trở mình, thay tã, trò chuyện, nhắc nhở uống thuốc đúng giờ, đo huyết áp, thông báo khi ngã", nó có thể giải quyết 60-70% công việc của một người chăm sóc. 30% còn lại cần đến sự phán đoán và kết nối cảm xúc của con người — điều mà robot chưa thể làm được trong ngắn hạn. Nhưng giải quyết được 60-70% thôi cũng đã đủ để giảm bớt gánh nặng cho gia đình và người chăm sóc, giúp cuộc sống có thể tiếp tục.
 
-Cách tính toán này nghe có vẻ rất thẳng thắn, nhưng khi thực sự triển khai sẽ gặp ba vấn đề có cấu trúc:
+Phép tính này nghe có vẻ trực diện, nhưng khi thực hiện sẽ gặp phải ba vấn đề cấu trúc:
 
-**Thứ nhất, phần cứng không đủ rẻ.** Một robot chăm sóc nhân hình hoặc nửa nhân hình bình thường, chi phí vào năm 2026 là khoảng 30.000 đến 100.000 đô la Mỹ (khoảng 900.000 đến 3.000.000 đồng tệ). Đây vẫn là giá kỷ nguyên sớm, thậm chí nếu lượng sản xuất lên đến 100.000 chiếc mỗi năm, giá đơn vị có lẽ cũng không thể giảm xuống dưới 100.000 đồng tệ. Ngược lại, một nhân viên chăm sóc nước ngoài khoảng 20.000 đồng tệ mỗi tháng, mười năm là 2.400.000. "Lợi thế chi phí" của robot vẫn chưa thực sự được thành lập.
+**Thứ nhất, phần cứng chưa đủ rẻ.** Một con robot hình người hoặc bán hình người ra hồn vào năm 2026 có giá khoảng 30.000 đến 100.000 USD (tương đương khoảng NT$900.000 đến NT$3 triệu). Đây vẫn là mức giá khi sản lượng còn thấp; ngay cả khi sản xuất hàng loạt 100.000 con mỗi năm, đơn giá có lẽ cũng khó giảm xuống dưới NT$100.000. So sánh với việc thuê một người giúp việc nước ngoài tốn khoảng NT$20.000 mỗi tháng, mười năm là NT$2,4 triệu. "Lợi thế chi phí" của robot vẫn chưa thực sự được thiết lập.
 
-**Thứ hai, phần mềm chưa đủ thông minh.** Hiện tại, LLM có thể trò chuyện, có thể nhận diện hình ảnh, nhưng tích hợp những khả năng này vào hành động vật lý — để robot biết "người già hiện tại muốn gì", "hành động này có làm tổn thương anh ấy không", "người này hôm nay tâm trạng không ổn, tôi phải phản ứng thế nào" — vẫn còn ở giai đoạn nghiên cứu rất sớm. AI vật lý (Physical AI) cách xa một thế hệ so với các mô hình ngôn ngữ thuần tuý.
+**Thứ hai, phần mềm chưa đủ thông minh.** Hiện nay LLM có thể trò chuyện, có thể nhận diện hình ảnh, nhưng việc tích hợp những khả năng này vào các hành động vật lý — để robot biết "người già hiện đang muốn gì", "hành động này có làm họ bị thương không", "người này hôm nay tâm trạng không tốt, nên phản ứng thế nào" — vẫn còn ở giai đoạn nghiên cứu sơ khai. AI vật lý (Physical AI) cách biệt cả một thế hệ so với các mô hình ngôn ngữ thuần túy.
 
-**Thứ ba, môi trường chưa đủ hề hôi.** Gia đình là hỗn loạn. Một cốc nước trên bàn có thể đổ bất cứ lúc nào, một cái dép trên sàn có thể làm robot vấp ngã bất cứ lúc nào, một đứa trẻ có thể muốn chơi với robot bất cứ lúc nào, một người già có thể kể chuyện về thời kỳ Nhật trị với robot. Robot nhà máy có môi trường được đặt trước, nhà thì không. Cú nhảy từ "robot nhà máy" đến "robot gia đình" không phải là kỹ sư điều chỉnh tham số có thể hoàn thành — đó là một sự chuyển giao từ "môi trường có cấu trúc" sang "môi trường không cấu trúc".
+**Thứ ba, môi trường chưa đủ chín muồi.** Gia đình là một nơi hỗn loạn. Ly nước trên bàn có thể đổ bất cứ lúc nào, đôi dép dưới sàn có thể làm robot vấp ngã, trẻ con có thể muốn chơi với robot bất cứ lúc nào, và người già có thể kể cho robot nghe những câu chuyện từ thời kỳ Nhật thuộc. Robot trong nhà máy có môi trường được thiết lập sẵn, nhưng ở nhà thì không. Bước nhảy từ "robot nhà máy" sang "robot gia đình" không phải là việc mà kỹ sư chỉ cần điều chỉnh tham số là xong — đó là một bước nhảy vọt từ "môi trường có cấu trúc" sang "môi trường không cấu trúc".
 
-NCAIR chọn khích cạnh từ chăm sóc dài hạn tại gia đình là một lựa chọn thực tế nhưng cũng đầy rủi ro. Thực tế ở chỗ cấu trúc dân số Đài Loan thực sự cần nó; rủi ro ở chỗ đây là mảnh khó nhất cần chinh phục trong toàn bộ ngành robot thế giới — ngay cả Nhật Bản, Đức, Mỹ vẫn chưa có một người chiến thắng rõ ràng.
+Việc NCAIR chọn bắt đầu từ chăm sóc tại gia là một lựa chọn thực tế nhưng cũng đầy mạo hiểm. Thực tế ở chỗ cấu trúc dân số Đài Loan thực sự cần nó; mạo hiểm ở chỗ đây là mảnh đất khó chinh phục nhất trong ngành robot thế giới — ngay cả Nhật Bản, Đức hay Mỹ vẫn chưa có người chiến thắng rõ rệt.
 
-## Kết thúc: Hai mươi năm bổ một bài học
+## Kết luận: Học bù một bài học cho hai mươi năm tới
 
-Năm 2030, mục tiêu của "Kế hoạch thúc đẩy ngành Robot AI thông minh" do Chính viện triển khai là **giá trị sản xuất trong nước vượt qua 1 ngàn tỷ đồng Đài Loan**.[^10]
+Đến năm 2030, mục tiêu của "Phương án thúc đẩy ngành công nghiệp robot thông minh AI" của Hành chính viện là **giá trị sản xuất nội địa vượt ngưỡng một nghìn tỷ Đài tệ**. [^10]
 
-Con số này mang nhiều tham vọng. Từ điểm xuất phát năm 2026 đến mốc 1 ngàn tỷ năm 2030, có nghĩa là **tăng trưởng hàng năm trên 40%**. So với dự báo của Morgan Stanley cho thấy doanh thu năm của thị trường robot người máy toàn cầu năm 2050 gần **5 ngàn tỷ USD**, lượng lắp đặt tích lũy vượt **1 tỷ台**; hoặc Goldman Sachs dự báo quy mô thị trường đạt 300–380 tỷ USD năm 2035, Đài Loan muốn cắt một phần 1 ngàn tỷ đồng Đài Loan trên đường đua này không phải là không thể, nhưng cũng tuyệt đối không tự động xảy ra.
+Con số này thể hiện tham vọng rất lớn. Từ điểm khởi đầu năm 2026 đến con số một nghìn tỷ vào năm 2030 nghĩa là **tăng trưởng hơn 40% mỗi năm**. Đối chiếu với dự báo của Morgan Stanley về doanh thu hàng năm của thị trường robot hình người toàn cầu đạt gần **5 nghìn tỷ USD** vào năm 2050, với tổng lượng lắp đặt vượt quá **1 tỷ chiếc**; hoặc dự báo của Goldman Sachs về quy mô thị trường đạt 30-38 tỷ USD vào năm 2035, việc Đài Loan muốn giành lấy một phần trong đường đua này là không phải không thể, nhưng cũng không tự nhiên mà có.
 
-Thử thách thực sự không nằm ở tổng lượng, mà ở cấu trúc.
+Thách thức thực sự không nằm ở tổng lượng, mà nằm ở cấu trúc.
 
-**Nếu năm 2030 ngành robot Đài Loan đạt 1 ngàn tỷ đồng đến từ:**
+**Nếu đến năm 2030, một nghìn tỷ Đài tệ của ngành robot Đài Loan đến từ:**
 
-- Bán linh kiện cho thương hiệu nước ngoài → Đây là sự kéo dài lối đi cũ, Đài Loan chỉ chuyển mô hình gia công bán dẫn sang gia công linh kiện robot
-- Bán toàn máy ra thị trường nước ngoài → Đây là thành công của lối đi mới, Đài Loan có thương hiệu riêng và khả năng tích hợp hệ thống
-- Chủ yếu cung cấp cho nhu cầu nội địa (y tế, chăm sóc dài hạn, nhà máy) → Đây là thành công của chiến lược thay thế nhập khẩu, Đài Loan chuyển sự phụ thuộc bên ngoài thành tự chủ bên trong
+- Bán linh kiện cho các thương hiệu nước ngoài $\rightarrow$ Đây là sự mở rộng của con đường cũ, Đài Loan chỉ đang chuyển mô hình gia công bán dẫn sang gia công linh kiện robot.
+- Bán nguyên chiếc ra thị trường nước ngoài $\rightarrow$ Đây là thành công của con đường mới, Đài Loan có thương hiệu và năng lực tích hợp hệ thống của riêng mình.
+- Chủ yếu cung cấp cho nhu cầu nội địa (y tế, chăm sóc tại gia, nhà máy) $\rightarrow$ Đây là sự thành công trong việc thay thế nhập khẩu, Đài Loan chuyển sự phụ thuộc bên ngoài thành tự chủ bên trong.
 
-Ba con đường này mang ý nghĩa chính sách hoàn toàn khác. Con đường đầu tiên dễ nhất nhưng trần thấp nhất; con đường thứ hai khó nhất nhưng tiềm năng báo cao nhất; con đường thứ ba thực tế nhất nhưng không thể xuất khẩu.
+Ý nghĩa chính sách của ba con đường này hoàn toàn khác nhau. Con đường thứ nhất dễ nhất nhưng có trần thấp nhất; con đường thứ hai khó nhất nhưng lợi nhuận tiềm năng cao nhất; con đường thứ ba thực tế nhất nhưng không thể xuất khẩu.
 
-200 tỷ đồng của NCAIR và lời nguyện vọng "Đảo công nghệ" của Lại Thanh Đức, cốt lõi của cược bài kia là: **Đài Loan có thể hay không trong hai mươi năm tới, từ "trung thượng游 chuỗi cung ứng" nâng cấp thành "nhà tích hợp hệ thống"**.
+Số tiền 20 tỷ của NCAIR và tầm nhìn "đảo công nghệ" của ông Lại Thanh Đức mang theo một canh bạc: **Liệu Đài Loan có thể nâng cấp từ "trung thượng nguồn chuỗi cung ứng" thành "nhà tích hợp hệ thống" trong hai mươi năm tới hay không?**
 
-Việc nâng cấp này không phải vấn đề công nghệ, mà là vấn đề tổ chức, vấn đề văn hóa, vấn đề giáo dục, vấn đề phân bổ vốn. Đài Loan giỏi nhất là "làm một việc đến mức tốt nhất", Đài Loan kém quen nhất là "quyết định phải làm việc gì". Ngành robot đòi hỏi chính là điều sau.
+Sự nâng cấp này không phải là vấn đề kỹ thuật, mà là vấn đề tổ chức, văn hóa, giáo dục và phân bổ vốn. Thứ Đài Loan giỏi nhất là "làm một việc đến mức tốt nhất", thứ Đài Loan kém nhất là "quyết định xem nên làm việc gì". Ngành công nghiệp robot lại yêu cầu chính xác điều sau.
 
-Năm 2030 có đạt 1 ngàn tỷ hay không? Có lẽ sẽ. Nhưng vấn đề quan trọng hơn là: trong số 1 ngàn tỷ đó, bao nhiêu đến từ "chúng ta cuối cùng quyết định mình muốn làm gì", bao nhiêu đến từ "chúng ta tiếp đơn hàng của nước khác và làm tốt hơn"?
+Liệu năm 2030 có đạt được một nghìn tỷ không? Có lẽ là có. Nhưng câu hỏi quan trọng hơn là: Trong một nghìn tỷ đó, bao nhiêu đến từ việc "cuối cùng chúng ta đã quyết định tự mình làm gì", và bao nhiêu đến từ việc "chúng ta nhận đơn hàng của quốc gia khác tốt hơn"?
 
-Sự khác biệt giữa hai câu trả lời này, chính là bảng điểm thực sự của ngành robot Đài Loan.
+Sự khác biệt giữa hai câu trả lời đó chính là bảng điểm thực sự của ngành công nghiệp robot Đài Loan.
 
 ---
 
 **Đọc thêm**:
 
-- [Ngành công nghiệp AI trí tuệ nhân tạo](/vi/technology/artificial-intelligence-industry) — Tổng quan năm篇 AI của Đài Loan, robot là AI hiện thực hóa, nhưng "trí tuệ" và "cơ thể" trong ngành công nghiệp Đài Loan là hai đường song song
-- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Nền tảng chip của mọi robot, cũng như logic ngành công nghiệp vì sao "mạnh chip không đồng nghĩa mạnh robot"
-- [Ngành công nghiệp máy bay không người lái Đài Loan](/vi/technology/taiwan-drone-industry) — Một trường hợp khác "linh kiện mạnh, toàn máy yếu", có thể đối chiếu xem cùng ngành robot
-- [Khủng hoảng ít con Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Tại sao NCAIR đặt "chăm sóc gia đình dài hạn" lên hàng đầu? Câu trả lời nằm ở cấu trúc dân số
-- [Nâng cấp chuyển đổi ngành công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Từ gia công đến thương hiệu, từ linh kiện đến tích hợp hệ thống, hai mươi năm qua đã bàn bao nhiêu lần bài toán cấu trúc khó này
-- [Ngành công nghiệp máy công cụ Đài Loan](/vi/economy/taiwan-machine-tool-industry) — 1.500 doanh nghiệp máy chính xác tại Thung lũng vàng Đà Đổ Sơn, là nền tảng thượng游 phần cứng robot
-- [Computex: Ba triển lãm máy tính quốc tế lớn mất hai, cái còn lại mọc tại Đài Bắc](/vi/technology/computex) — Computex 2026 chủ打 "AI thực thể" với trí tuệ hóa thân, sân khấu triển diễn hàng năm nơi chuỗi cung ứng robot Đài Loan từ lắp AI server mở rộng sang lắp robot
+- [Ngành công nghiệp AI](/vi/technology/artificial-intelligence-industry) — Tổng quan về năm bài viết về AI tại Đài Loan; robot là AI hữu hình, nhưng "trí tuệ" và "thể xác" đang là hai đường thẳng song song trong ngành công nghiệp Đài Loan.
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Nền tảng chip cho mọi loại robot, và logic ngành "chip mạnh không đồng nghĩa với robot mạnh".
+- [Ngành drone Đài Loan](/vi/technology/taiwan-drone-industry) — Một trường hợp khác của "linh kiện mạnh, nguyên chiếc yếu", có thể đối chiếu với ngành robot.
+- [Khủng hoảng tỷ lệ sinh thấp tại Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Tại sao NCAIR đặt "chăm sóc tại gia" lên hàng đầu? Câu trả lời nằm ở cấu trúc dân số.
+- [Chuyển đổi và nâng cấp công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Từ gia công đến thương hiệu, từ linh kiện đến tích hợp hệ thống, một vấn đề cấu trúc đã được thảo luận nhiều lần trong hai thập kỷ qua.
+- [Ngành máy công cụ Đài Loan](/vi/economy/taiwan-machine-tool-industry) — 1.500 doanh nghiệp máy móc chính xác tại thung lũng vàng, là nền tảng thượng nguồn cho phần cứng robot.
+- [Computex: Ba triển lãm máy tính quốc tế lớn, thu về hai, cái còn lại nằm ở Đài Bắc](/vi/technology/computex) — Computex 2026 tập trung vào "AI vật lý" và trí tuệ hiện thân, là nơi trình diễn hàng năm khi chuỗi cung ứng robot Đài Loan mở rộng từ lắp ráp máy chủ AI sang lắp ráp robot.
 
 ## Tài liệu tham khảo
 
-[^1]: [Lai inaugurates National Center for AI Robotics in Tainan - Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/04/11/2003855415) — Báo cáo tiếng Anh của Taipei Times, ghi lại toàn bộ quá trình Tổng thống Lại Thanh Đức tới Ả Luân, Đài Nam ngày 10 tháng 4 năm 2026 để khai mạc Trung tâm AI Robot Quốc gia (NCAIR) ở Thành phố Trí tuệ Xanh Lạc quan, thông tin về địa điểm và giải thích vai trò chính thức.
+[^1]: [Lai inaugurates National Center for AI Robotics in Tainan - Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/04/11/2003855415) — Báo cáo tiếng Anh của Taipei Times, ghi lại toàn bộ quá trình Tổng thống Lại Thanh Đức đến khánh thành Trung tâm Robot AI Quốc gia (NCAIR) tại Shalun, Tainan vào ngày 10 tháng 4 năm 2026, thông tin địa điểm và vai trò chính thức.
 
-[^2]: [President Lai inaugurates National Center for AI Robotics in Tainan - Focus Taiwan](https://focustaiwan.tw/sci-tech/202604100020) — Phiên bản tiếng Anh của Tơi Đài Phương (Focus Taiwan) của Cơ quan Thông tấn Trung ương ghi lại các con số đầu tư cụ thể mà Tổng thống Lại Thanh Đức tuyên bố tại lễ khai mạc (NT$200 tỷ từ 2026-2029, tương đương khoảng US$6.29 tỷ) và tham chiếu tầm nhìn "Đảo công nghệ".
+[^2]: [President Lai inaugurates National Center for AI Robotics in Tainan - Focus Taiwan](https://focustaiwan.tw/sci-tech/202604100020) — Bản tiếng Anh của Trung ương Xã (CNA) ghi lại con số đầu tư cụ thể mà ông Lại Thanh Đức công bố tại lễ khánh thành (NT$20 tỷ từ 2026-2029, khoảng 629 triệu USD) và trích dẫn tầm nhìn "đảo công nghệ".
 
-[^3]: [Lai inaugurates National Center for AI Robotics in Tainan - Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/04/11/2003855415) — Báo cáo của Taipei Times trích dẫn Giám đốc NCAIR Su Văn Dũ (Su Wen-yu) định nghĩa các hướng ưu tiên của trung tâm, nhấn mạnh rằng robot chăm sóc dài hạn tại gia đình là tiêu điểm nghiên cứu chính của NCAIR, cũng như lập kế hoạch cụ thể cho bốn lĩnh vực ứng dụng.
+[^3]: [Lai inaugurates National Center for AI Robotics in Tainan - Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/04/11/2003855415) — Taipei Times trích dẫn định nghĩa của Giám đốc NCAIR Tô Văn Ngọc (Su Wen-yu) về các hướng ưu tiên của trung tâm, nhấn mạnh robot chăm sóc tại gia là trọng tâm nghiên cứu chính và kế hoạch cụ thể cho bốn lĩnh vực ứng dụng.
 
-[^4]: [減速機扮人形機器人要角 全球大廠卡位台廠拚商機 - 工商時報](https://www.ctee.com.tw/news/20241130700314-430502) — Báo cáo chuyên sâu ngành công nghiệp của Công Thương Thời Báo, tổng hợp cấu trúc cung ứng thị trường bộ giảm tốc sóng hài toàn cầu, ghi lại sự thật rằng Harmonic Drive Systems (HDS) ở Nhật Bản chiếm 80% thị phần trong ứng dụng robot công nghiệp, cũng như nguồn gốc của rào cản kỹ thuật của họ.
+[^4]: [Bộ giảm tốc đóng vai trò then chốt trong robot hình người, các ông lớn toàn cầu chiếm lĩnh vị thế, doanh nghiệp Đài Loan tranh thủ cơ hội - Công thương Thời báo](https://www.ctee.com.tw/news/20241130700314-430502) — Báo cáo chuyên sâu của Công thương Thời báo về cục diện cung ứng thị trường bộ giảm tốc sóng hài toàn cầu, ghi nhận thực tế Harmonic Drive Systems (HDS) của Nhật Bản chiếm 80% thị phần trong ứng dụng robot công nghiệp và nguồn gốc rào cản kỹ thuật của họ.
 
-[^5]: [入選全球「人形機器人百強」！上銀科技的致勝心法 - 經理人月刊](https://www.managertoday.com.tw/articles/view/71579) — Phiên bản năm 2025 của tạp chí Manager Today về HIWIN với tóm tắt doanh nghiệp hoàn chỉnh, bao gồm dữ liệu nền tảng của bốn công ty Đài Loan được chọn trong danh sách "Humanoid 100" của Morgan Stanley (TSMC, Foxconn, Hotai Motor, HIWIN).
+[^5]: [Lọt vào danh sách "100 doanh nghiệp robot hình người hàng đầu thế giới"! Bí quyết chiến thắng của HIWIN - Manager Monthly](https://www.managertoday.com.tw/articles/view/71579) — Hồ sơ doanh nghiệp đầy đủ về HIWIN năm 2025 từ Manager Monthly, bao gồm thông tin nền tảng về bốn doanh nghiệp Đài Loan lọt vào danh sách "Humanoid 100" của Morgan Stanley (TSMC, Hon Hai, He-Da Industrial, HIWIN).
 
-[^6]: [入選全球「人形機器人百強」！上銀科技的致勝心法 - 經理人月刊](https://www.managertoday.com.tw/articles/view/71579) — Manager Today lưu giữ lời phát biểu nguyên gốc của triết lý quản lý của Chủ tịch HIWIN Trác Văn Hằng (Cho Wen-heng) là "Công nghệ mua không được, thì tự tay sáng tạo", cũng như nền tảng hoàn chỉnh của việc ông vào công ty năm 1995 và trở thành chủ tịch năm 2019.
+[^6]: [Lọt vào danh sách "100 doanh nghiệp robot hình người hàng đầu thế giới"! Bí quyết chiến thắng của HIWIN - Manager Monthly](https://www.managertoday.com.tw/articles/view/71579) — Manager Monthly trích dẫn nguyên văn triết lý kinh doanh của Chủ tịch HIWIN Trác Văn Hằng (Cho Wen-heng): "Công nghệ không mua được thì tự mình chế tạo", cùng bối cảnh ông gia nhập công ty năm 1995 và tiếp quản chức Chủ tịch vào năm 2019.
 
-[^7]: [減速機扮人形機器人要角 全球大廠卡位台廠拚商機 - 工商時報](https://www.ctee.com.tw/news/20241130700314-430502) — Công Thương Thời Báo ghi lại cấu trúc thị trường bộ giảm tốc sóng hài toàn cầu: Harmonic Drive Systems và các công ty liên kết của nó chiếm khoảng 70% thị phần toàn cầu, đạt 80% trong ứng dụng robot công nghiệp; trong khi bộ giảm tốc hành tinh được các nhà sản xuất Nhật Bản và Đức thống trị.
+[^7]: [Bộ giảm tốc đóng vai trò then chốt trong robot hình người, các ông lớn toàn cầu chiếm lĩnh vị thế, doanh nghiệp Đài Loan tranh thủ cơ hội - Công thương Thời báo](https://www.ctee.com.tw/news/20241130700314-430502) — Công thương Thời báo ghi lại cấu trúc thị trường bộ giảm tốc sóng hài toàn cầu: Harmonic Drive Systems và các công ty liên kết chiếm khoảng 70% thị phần toàn cầu, đạt 80% trong ứng dụng robot công nghiệp; trong khi bộ giảm tốc hành tinh do các nhà sản xuất Nhật Bản và Đức thống trị.
 
-[^8]: [AI 機器人｜全球滾珠螺桿巨頭 上銀有望掌握人形機器人商機嗎 - 優分析](https://uanalyze.com.tw/articles/9860012116) — Nhận xét tài chính chuyên sâu của Youanalyze, ghi lại bối cảnh phát triển chuỗi bộ giảm tốc sóng hài DATORKER (DT) của HIWIN, cũng như lựa chọn chiến lược "tự nghiên cứu phá vỡ độc quyền Nhật Bản" của HIWIN.
+[^8]: [Robot AI | Gã khổng lồ trục vít me toàn cầu HIWIN liệu có nắm bắt được cơ hội robot hình người? - Ư Phân Tích](https://uanalyze.com.tw/articles/9860012116) — Bình luận tài chính chuyên sâu của Ư Phân Tích, ghi lại bối cảnh phát triển dòng bộ giảm tốc sóng hài DATORKER (DT) của HIWIN và chiến lược "tự nghiên cứu để phá vỡ sự độc quyền của Nhật Bản".
 
-[^9]: [入選全球「人形機器人百強」！上銀科技的致勝心法 - 經理人月刊](https://www.managertoday.com.tw/articles/view/71579) — Manager Today tiết lộ tỷ lệ tích hợp dọc 95% của HIWIN, cũng như các con số hoạt động đạt được hiệu suất sản xuất tăng 3-4 lần thông qua sản xuất thiết bị của riêng họ, giải thích tại sao họ chọn tự chủ trong nghiên cứu và phát triển thay vì ngoài thầu.
+[^9]: [Lọt vào danh sách "100 doanh nghiệp robot hình người hàng đầu thế giới"! Bí quyết chiến thắng của HIWIN - Manager Monthly](https://www.managertoday.com.tw/articles/view/71579) — Manager Monthly tiết lộ tỷ lệ tích hợp dọc 95% của HIWIN và các con số vận hành đạt được hiệu suất sản xuất tăng 3-4 lần thông qua việc tự chế tạo thiết bị, giải thích lý do tại sao họ chọn tự nghiên cứu thay vì thuê ngoài.
 
-[^10]: [「AI 機器人大聯盟」啟動！2030 年拚兆元出口，台灣精密機械業轉型劇本改寫中？ - 遠見雜誌](https://www.gvm.com.tw/article/123262) — Báo cáo của tạp chí Tầm Nhìn Xa (Gvm) về việc Viện Hành pháp khởi động "Kế hoạch Thúc đẩy Ngành Công nghiệp Robot AI Thông Minh" năm 2025, ghi lại mục tiêu chính sách sản lượng năm 2030 là một "兆" tệ và hướng chuyển đổi của ngành công cụ cơ khí chính xác.
+[^10]: [Khởi động "Liên minh Robot AI"! Phấn đấu xuất khẩu một nghìn tỷ vào năm 2030, kịch bản chuyển đổi của ngành máy móc chính xác Đài Loan đang được viết lại? - Vision Magazine](https://www.gvm.com.tw/article/123262) — Vision Magazine đưa tin về "Phương án thúc đẩy ngành công nghiệp robot thông minh AI" do Hành chính viện khởi động năm 2025, ghi nhận mục tiêu chính sách giá trị sản xuất một nghìn tỷ vào năm 2030 và hướng chuyển đổi của ngành máy móc chính xác.

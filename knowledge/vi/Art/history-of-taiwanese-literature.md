@@ -20,12 +20,13 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣文學史.md'
-sourceCommitSha: '4d7fab8ee'
-sourceContentHash: 'sha256:e97160f506bdd53f88651b7ca757f9279bf8b7bd2c1300b4c2747457b127e6ff'
-sourceBodyHash: 'sha256:ee4dd27c00df396e04eaad2413cd54ecb99c497fa2e6ac9562e8dc52e1042e54'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Lịch sử Văn học Đài Loan: từ thơ Nguyên thủy, phong trào chữ Hán đến thơ hiện đại'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:894f1af0d29b3b98'
+sourceBodyHash: 'sha256:b3ce615995198c0c'
+translatedAt: '2026-11-17T17:56:33.448864+00:00'
 ---
 
 # Lịch sử văn học Đài Loan

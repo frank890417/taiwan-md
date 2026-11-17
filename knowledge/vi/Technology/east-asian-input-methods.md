@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/東亞文字輸入法.md'
-sourceCommitSha: 'c0bb841a7'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:90551a3865db4ef0'
 sourceBodyHash: 'sha256:2cf976c21e3add32'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-11-17T17:56:54.356084+00:00'
 ---
 
 # Xung đột văn hóa trên bàn phím: Sự tiến hóa hàng trăm năm của các phương pháp nhập liệu văn bản Đông Á
