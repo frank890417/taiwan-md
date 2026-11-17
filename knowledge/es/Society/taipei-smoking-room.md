@@ -1,9 +1,9 @@
 ---
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495'
-sourceContentHash: 'sha256:38028701b07f0fef'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-07-24T00:10:00+08:00'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fda552b52db75a7'
+sourceBodyHash: 'sha256:670589f45a540af9'
+translatedAt: '2026-11-17T02:09:57.143327+00:00'
 lang: 'es'
 title: 'La sala de fumar de Taipéi: la caja de cristal que respira dentro de una ciudad sin humo'
 description: 'El 7 de mayo de 2026 se levantó junto a la salida 6 del metro de Ximen una caja transparente: la primera sala de fumar exterior de presión negativa de Taiwán. Al abrir la puerta, el aire entra y no sale. Taipéi quiere ser una ciudad sin humo y, sin embargo, ha empezado construyendo en plena calle una casa de cristal para fumar. Desde 1984, cuando Yen Tao perdió un lóbulo pulmonar, hasta hoy, con el humo ajeno en interiores reducido al 3,2% y todavía casi la mitad puertas afuera, esta caja contiene un cigarrillo legal y un contrato sobre el espacio público que la ciudad aún no ha terminado de negociar.'
@@ -18,7 +18,7 @@ tags:
   - 'salud pública'
   - 'Ximending'
   - 'cigarrillo electrónico'
-subcategory: 'Society'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -125,9 +125,10 @@ Reducción del daño: encerrar el tabaco en una caja | Reducción del consumo: h
 Reconocer que aún hay quien fuma y darle un rincón que no moleste | El objetivo es que la prevalencia siga bajando
 Gestionar de forma concentrada el olor y las colillas y limpiar el paisaje urbano | Cuanto más incómodo, más probable es que se fume menos o se deje
 La lógica de separación del actual gobierno municipal | La posición de las organizaciones antitabaco y de parte del sector médico
+Fuente: respuestas del gobierno municipal de Taipéi en el pleno municipal y estimaciones de coste-beneficio de las asociaciones de padres (agencia CNA, entre otros medios) + posturas de la Fundación John Tung y de la Alianza Taiwanesa contra el Tabaco[^20][^21][^22]
 ```
 
-Kuo Fei-jan, médico adjunto del Departamento de Medicina Familiar del Hospital Universitario Nacional de Taiwán y secretario general de la Alianza Médica Taiwanesa para el Control del Tabaco, va un paso más allá. En un artículo de opinión cita el Convenio Marco de la OMS para el Control del Tabaco y señala que ninguna ventilación, equipo de filtrado de aire ni sala designada puede evitar la exposición al humo ajeno, y que «no existe ningún nivel seguro de exposición al humo de segunda mano»[^23]. Y su frase más afilada apunta al efecto secundario de la propia existencia de esta caja.
+Kuo Fei-jan, médico adjunto del Departamento de Medicina Familiar del Hospital Universitario Nacional de Taiwán y secretario general de la Alianza Médica Taiwanesa para el Control del Tabaco, va un paso más allá. En un artículo de opinión cita el Convenio Marco de la OMS para el Control del Tabaco y señala que ninguna ventilación, equipo de filtrado de aire ni sala designada puede evitar la exposición al humo ajeno, y que «no existe ningún nivel seguro de exposición al humo de segunda mano»[^23]. Y su frase más afilada apunta al efecto secundario de la propia existencia de esta caja[^25].
 
 ```tw-quote
 Apoyo mucho la ciudad sin humo, pero no instalen salas de fumar cerradas al aire libre; no anuncien que como la sala tiene presión negativa y equipos de filtrado ya no hay humo ajeno; no propaguen ideas equivocadas en nombre de un fin bienintencionado.
@@ -136,15 +137,15 @@ Kuo Fei-jan | médico del Departamento de Medicina Familiar del Hospital Univers
 
 > 📝 **Nota de la curaduría**: en esta frase de Kuo Fei-jan se esconde un mecanismo que se pasa por alto con facilidad. Una caja de cristal con aire futurista que presume de «cuatro filtros» sugiere que «si hay equipo, hay seguridad»: cuando ves el humo absorbido por una caja de alta tecnología, sientes inconscientemente que el problema del humo ajeno ya está resuelto. Pero científicamente esa tranquilidad no se sostiene. El informe del Cirujano General de Estados Unidos de 2006 concluyó que ni siquiera las salas de fumar de presión negativa, cerradas y con extracción independientes, impiden que el humo ajeno se filtre a las zonas contiguas[^24]. La OMS y la ASHRAE mantienen la misma posición. La casa de cristal es a la vez un compromiso considerado y, posiblemente, una barrera que baja la guardia de la gente; ambas cosas pueden ser ciertas al mismo tiempo.
 
-## Aquel estudio de Kioto medía en realidad otra cosa
+## Los dos estudios del equipo de Kioto: uno midió una sala cerrada; el otro, un rincón exterior
 
-Llegados a este punto de la discusión, cada bando empieza a sacar sus pruebas. Y uno de los estudios más citados es justamente un buen ejemplo de «cómo un mismo material se cuenta de dos maneras distintas».
+Llegados a este punto de la discusión, cada bando empieza a sacar sus pruebas. Las más citadas son dos investigaciones sucesivas de un equipo de la Universidad Femenina de Kioto, que midieron dos estructuras distintas.
 
-La Alianza contra el Tabaco citó en rueda de prensa que un estudio de 2023 de la Universidad Femenina de Kioto halló que la concentración de PM2.5 de una «sala de fumar cerrada» con climatización de alta especificación superaba el nivel de alerta de calidad del aire, y que incluso las mediciones a 5 metros de la entrada excedían el límite[^25]. Suena como el golpe más directo posible contra las salas de presión negativa. Pero al rastrear el artículo, el título es en realidad «Situación del tabaquismo pasivo en el entorno del área de fumadores _exterior_ de la estación de Kioto», y el objeto de estudio era un rincón abierto para fumadores frente a la estación, con mamparas parciales pero sin puerta ni techo, y lo que se midió fue el PM2.5 a distancias como 3 y 10 metros hacia el este[^26]. No medía una sala cerrada, sino un rincón exterior bajo un alero y ventilado por los cuatro costados.
+La Alianza contra el Tabaco citó en rueda de prensa la de 2023: en una sala de fumar cerrada con climatización de alta especificación, la concentración de PM2.5 superaba el nivel de alerta de las normas de calidad del aire, e incluso los valores medidos a 5 metros de la entrada eran más altos que el promedio diario de contaminación atmosférica del Ministerio de Medio Ambiente de Taiwán[^25b]. Ese artículo, titulado «Situación del tabaquismo pasivo dentro y en el entorno de cierta sala de fumadores cerrada», se publicó en la _Revista de la Sociedad Japonesa para el Control del Tabaco_, vol. 18 (2023), y midió precisamente el interior y el entorno de una sala de fumar de tipo cerrado[^26]. El objeto de estudio era una sala cerrada; en este punto, la cita se sostiene.
 
-La diferencia no es pequeña. Una sala cerrada de presión negativa y un área de fumadores abierta son dos estructuras físicas distintas. El profesor Hiroshi Yamato, de la Universidad de Ciencias de la Salud Ocupacional y Ambiental, llamó en una entrevista a aquel espacio de Kioto directamente «un rincón de fumadores de tipo abierto», y criticó que no es razonable colocar ese tipo de rincón bajo una gran cubierta y que debería estar al menos a 25 metros de las rutas de paso de los no fumadores[^27]. Dicho de otro modo: el bando antitabaco quería demostrar con ese estudio que «ni siquiera una sala cerrada retiene el humo», pero lo que el estudio demuestra es que «ni siquiera un rincón abierto con cubierta impide que el humo se escape».
+El mismo equipo publicó a principios de 2024 otro trabajo, «Situación del tabaquismo pasivo en el entorno del área de fumadores exterior de la estación de Kioto», cuyo objeto era esta vez un rincón semiabierto para fumadores de la estación de Kioto, donde se midió el PM2.5 a 3 y 10 metros hacia el este y a 5,7 metros hacia el sur. El valor máximo a 3 metros hacia el este superó con creces el criterio de alerta de 70 microgramos del Ministerio de Medio Ambiente de Japón, y a 10 metros también era elevado[^26b]. El profesor Hiroshi Yamato, de la Universidad de Ciencias de la Salud Ocupacional y Ambiental, llamó en una entrevista a aquel espacio «un rincón de fumadores de tipo abierto», y consideró que no es razonable colocar ese tipo de rincón bajo una gran cubierta y que debería estar al menos a 25 metros de las rutas de paso de los no fumadores[^27].
 
-Los dos bandos citaron el mismo estudio, pero lo que se medía era otra cosa. Lo interesante es que ese desajuste informativo lleva de vuelta a una advertencia más honesta: el problema no está solo en si hay cierre o no, sino en que, si el diseño del flujo de aire no está a la altura, el olor a tabaco no se retiene ni cerrado ni abierto. Para verificar científicamente una sala cerrada de presión negativa hay que volver a las conclusiones coincidentes de los CDC, la OMS y la ingeniería, no a un estudio sobre un espacio exterior que se ha ido deformando al recontarse. Que un bando tenga razón en su postura pero se equivoque de prueba es, en el debate público, más frecuente de lo que parece.
+Puestos uno al lado del otro, los dos estudios apuntan a lo mismo: si el diseño del flujo de aire no está a la altura, el humo no se retiene ni en un espacio cerrado ni en uno abierto. La sala cerrada añade una frontera física, pero esa frontera solo existe cuando la presión negativa y la renovación del aire cumplen de verdad los requisitos, y esa es precisamente la premisa en la que insisten una y otra vez los CDC, la OMS y la ingeniería.
 
 ## ¿De quién es el soportal?
 
@@ -281,7 +282,11 @@ Este texto utiliza 6 imágenes, todas cacheadas en `public/article-images/societ
 
 [^25]: [Peoplenews: Kuo Fei-jan critica las salas cerradas al aire libre](https://www.peoplenews.tw/articles/hot-news/35538) — Reportaje del 01-06-2026 con la cita literal de Kuo Fei-jan «no propaguen ideas equivocadas en nombre de un fin bienintencionado»; el mismo artículo contiene el contexto de la referencia de la Alianza contra el Tabaco al estudio de Kioto.
 
-[^26]: [Repositorio académico de la Universidad Femenina de Kioto: situación del tabaquismo pasivo en el entorno del área de fumadores exterior de la estación de Kioto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — El título del artículo confirma que el objeto de estudio era el área de fumadores «exterior» de la estación de Kioto (medición de PM2.5 a 3 y 10 metros hacia el este) y no la «sala cerrada» de la que hablaba la Alianza contra el Tabaco.
+[^25b]: [Alianza Taiwanesa contra el Tabaco: impulsar la «ciudad sin humo» no equivale en absoluto a instalar «salas de fumar cerradas de presión negativa»](https://www.e-quit.org/News/NewsDetails.aspx?type=1&NewId=7310) — Texto original del comunicado de la alianza del 07-05-2026, en el que Tang Hsien-mei, secretaria general adjunta de la Alianza Nacional de Madres por la Protección de la Familia y la Infancia, cita: «un estudio de 2023 de la Universidad Femenina de Kioto (Japón) halló que en una sala de fumar cerrada con climatización de alta especificación la concentración de partículas finas (PM2.5) superaba el nivel de alerta de las normas de calidad del aire, e incluso el PM2.5 medido a 5 metros de la entrada superaba el promedio diario de contaminación atmosférica del Ministerio de Medio Ambiente».
+
+[^26]: [Kimura Yura et al.: situación del tabaquismo pasivo dentro y en el entorno de cierta sala de fumadores cerrada](https://jstc.or.jp/wp-content/uploads/2026/09/gakkaisi_231020_99.pdf) — _Revista de la Sociedad Japonesa para el Control del Tabaco_, vol. 18 (2023), págs. 93–99; el objeto de estudio es el interior y el entorno de una sala de fumar de tipo cerrado, es decir, el estudio que citó la Alianza contra el Tabaco en su rueda de prensa.
+
+[^26b]: [Repositorio académico de la Universidad Femenina de Kioto: situación del tabaquismo pasivo en el entorno del área de fumadores exterior de la estación de Kioto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Otra investigación del mismo equipo, publicada en la _Revista de la Sociedad de Alimentación_ (Shokumotsu Gakkaishi), n.º 78 (31-01-2024); el objeto es el área de fumadores semiabierta de la estación de Kioto, con mediciones de PM2.5 a 3 y 10 metros hacia el este y a 5,7 metros hacia el sur; el valor máximo a 3 metros hacia el este supera con creces el criterio de alerta de 70 μg/m³ del Ministerio de Medio Ambiente de Japón.
 
 [^27]: [Kyoto Shimbun (reproducido en notobacco.jp): quejas por el área de fumadores de la plaza de la estación de Kioto](https://notobacco.jp/pslaw/kyoto240314.html) — Reportaje del 14-03-2024 que describe esa área como una estructura rodeada por mamparas de unos 2 metros de altura, sin puerta ni techo, y en la que el profesor Hiroshi Yamato, de la Universidad de Ciencias de la Salud Ocupacional y Ambiental, la llama «un rincón de fumadores de tipo abierto».
 

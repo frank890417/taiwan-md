@@ -14,7 +14,7 @@ tags:
     'Ximending',
     'rokok elektrik',
   ]
-subcategory: 'Society'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -36,10 +36,10 @@ sporeLinks:
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '52052ddaa'
-sourceContentHash: 'sha256:f6e388583def59a6'
-sourceBodyHash: 'sha256:0879f11101fa0c2c'
-translatedAt: '2026-10-13T07:16:18.260719+00:00'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fda552b52db75a7'
+sourceBodyHash: 'sha256:670589f45a540af9'
+translatedAt: '2026-11-17T02:09:57.143327+00:00'
 ---
 
 Di luar Pintu Keluar Jalur MRT Ximen 6, ruang merokok bertekanan negatif pertama di seluruh Taiwan: sebuah kotak kaca transparan dengan bingkai hitam yang berdiri di trotoar. Foto: _Huahua Daily_ / Reporter Chang Xiangying (komentar editorial penggunaan wajar).
@@ -128,7 +128,7 @@ Logika pemisahan arus dari pemerintah kota saat ini | Pendapat kelompok anti-rok
 Sumber: Jawaban Dewan Kota Taipei dan estimasi biaya-manfaat dari kelompok orang tua (laporan CNA, dll.) + Posisi Yayasan Dong dan Aliansi Anti-Rokok Taiwan[^20][^21][^22]
 ```
 
-Guo Fei-ran, dokter spesialis di Departemen Kedokteran Keluarga Rumah Sakit Nasional Taiwan (NTUH) sekaligus Sekretaris Jenderal Aliansi Pencegahan Bahaya Tembakau Komunitas Medis Taiwan, memberikan pandangan yang lebih mendalam. Dalam suratnya, ia mengutip Konvensi Kerangka Kerja Organisasi Kesehatan Dunia (WHO) tentang Pengendalian Tembakau, dan menunjukkan bahwa ventilasi, peralatan penyaringan udara, atau ruang merokok khusus mana pun tidak dapat mencegah paparan asap rokok sekunder, karena "tidak ada tingkat paparan asap rokok sekunder yang aman"[^23]. Dan pernyataan paling tajam darinya mengarah pada efek samping dari keberadaan kotak tersebut itu sendiri.
+Guo Fei-ran, dokter spesialis di Departemen Kedokteran Keluarga Rumah Sakit Nasional Taiwan (NTUH) sekaligus Sekretaris Jenderal Aliansi Pencegahan Bahaya Tembakau Komunitas Medis Taiwan, memberikan pandangan yang lebih mendalam. Dalam suratnya, ia mengutip Konvensi Kerangka Kerja Organisasi Kesehatan Dunia (WHO) tentang Pengendalian Tembakau, dan menunjukkan bahwa ventilasi, peralatan penyaringan udara, atau ruang merokok khusus mana pun tidak dapat mencegah paparan asap rokok sekunder, karena "tidak ada tingkat paparan asap rokok sekunder yang aman"[^23]. Dan pernyataan paling tajam darinya mengarah pada efek samping dari keberadaan kotak tersebut itu sendiri[^25].
 
 ```tw-quote
 Saya sangat mendukung kota bebas asap rokok, tetapi jangan membangun ruang merokok tertutup di luar ruangan; jangan mempromosikan bahwa ruang merokok dengan tekanan negatif dan peralatan penyaringan berarti tidak ada asap rokok sekunder; jangan menyebarkan konsep yang salah demi tujuan yang baik.
@@ -137,15 +137,15 @@ Guo Fei-ran | Dokter Departemen Kedokteran Keluarga NTUH, Sekretaris Jenderal Al
 
 > 📝 **Catatan Kurator**: Dalam perkataan Guo Fei-ran ini, terdapat sebuah mekanisme yang mudah terabaikan. Sebuah kotak kaca yang tampak futuristik dan mengklaim memiliki "empat lapis filter" akan memberikan kesan implisit bahwa "adanya peralatan berarti aman": saat Anda melihat asap rokok tersedot ke dalam kotak berteknologi tinggi, secara tidak sadar Anda akan merasa masalah asap rokok sekunder telah teratasi. Namun secara ilmiah, rasa aman ini tidak memiliki dasar yang kuat. Laporan dari Administrator Kesehatan Masyarakat Amerika Serikat pada tahun 2006 menyimpulkan bahwa meskipun ruang merokok bertekanan negatif bersifat tertutup dan memiliki sistem pembuangan udara yang independen, hal itu tetap tidak dapat mencegah asap rokok sekunder merembes ke area di sebelahnya[^24]. Posisi WHO dan American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) adalah sama. Rumah kaca tersebut bisa menjadi bentuk kompromi yang penuh perhatian, namun sekaligus bisa menjadi garis pertahanan yang membuat orang menurunkan kewaspadaan—kedua hal ini bisa saja terjadi secara bersamaan.
 
-## Penelitian di Kyoto, Sebenarnya Mengukur Hal Lain
+## Dua Penelitian Tim Kyoto: Satu Mengukur Ruang Tertutup, Satu Lagi Sudut Luar Ruangan
 
-Perdebatan sampai pada titik ini, dan kedua belah pihak mulai mengajukan bukti masing-masing. Salah satu penelitian yang paling sering dikutip adalah contoh bagus tentang "satu data yang diklaim sebagai dua hal."
+Perdebatan sampai pada titik ini, dan kedua belah pihak mulai mengajukan bukti masing-masing. Yang paling sering dikutip adalah dua survei berturut-turut dari tim Universitas Wanita Kyoto, yang mengukur dua struktur yang berbeda.
 
-Aliansi Anti-Rokok mengutip studi dari Universitas Wanita Kyoto pada tahun 2023 dalam konferensi pers, yang menemukan bahwa konsentrasi PM2.5 di "ruang merokok tertutup" dengan fasilitas pendingin udara berstandar tinggi melebihi nilai peringatan kualitas udara, bahkan diukur 5 meter di luar pintu[^25]. Ini terdengar seperti pukulan telak langsung terhadap ruang merokok bertekanan negatif. Namun, jika menelusuri makalah tersebut, judulnya sebenarnya adalah "Situasi perokok pasif di sekitar area merokok 'luar' Stasiun Kyoto," dan subjek penelitian adalah sudut merokok terbuka di depan Stasiun Kyoto yang memiliki beberapa sekat tetapi tidak memiliki pintu atau langit-langit; pengukuran dilakukan pada PM2.5 pada jarak 3 meter dan 10 meter di sisi timur[^26]. Yang diukur bukanlah ruang tertutup, melainkan sudut luar ruangan dengan atap pelindung dan ventilasi di keempat sisinya.
+Yang dikutip Aliansi Anti-Rokok dalam konferensi pers adalah studi tahun 2023: di sebuah ruang merokok tertutup dengan fasilitas pendingin udara berstandar tinggi, konsentrasi PM2.5 melebihi nilai peringatan standar kualitas udara, dan bahkan nilai yang diukur 5 meter di luar pintu masuk lebih tinggi daripada rata-rata harian polusi udara Kementerian Lingkungan Hidup Taiwan[^25b]. Makalah itu berjudul "Situasi perokok pasif di dalam dan di sekitar sebuah ruang merokok tertutup", dimuat dalam Jurnal Masyarakat Jepang untuk Pengendalian Tembakau volume 18 tahun 2023, dan yang diukurnya memang bagian dalam dan sekitar sebuah ruang merokok tipe tertutup[^26]. Subjek penelitiannya memang ruang tertutup; kutipan di bagian ini dapat dipertanggungjawabkan.
 
-Perbedaan ini cukup besar. Ruang merokok bertekanan negatif dan area merokok terbuka adalah struktur fisik yang berbeda. Profesor Hiroshi Yamada dari Universitas Kedokteran Industri secara langsung menyebut area merokok di Kyoto itu sebagai "sudut merokok terbuka" saat diwawancarai, dan mengkritik bahwa mendirikan sudut semacam itu di bawah atap besar tidak masuk akal; seharusnya berjarak setidaknya 25 meter dari jalur pejalan kaki non-perokok[^27]. Dengan kata lain, kubu anti-rokok ingin menggunakan penelitian ini untuk membuktikan "bahkan ruang tertutup pun tidak bisa menahan asap," tetapi penelitian itu sendiri membuktikan bahwa "bahkan sudut terbuka yang terlindung pun masih ada kebocoran bau rokok."
+Pada awal 2024, tim yang sama menerbitkan studi lain, "Situasi perokok pasif di sekitar area merokok luar ruangan Stasiun Kyoto", yang subjeknya kali ini adalah sebuah sudut merokok semi-terbuka di Stasiun Kyoto, dengan pengukuran PM2.5 pada jarak 3 meter dan 10 meter di sisi timur serta 5,7 meter di sisi selatan. Nilai maksimum pada 3 meter di sisi timur jauh melampaui ambang peringatan 70 mikrogram dari Kementerian Lingkungan Hidup Jepang, dan pada 10 meter pun nilainya tergolong tinggi[^26b]. Profesor Hiroshi Yamato dari Universitas Kedokteran Industri, saat diwawancarai, menyebut tempat itu sebagai "sudut merokok terbuka" dan menilai bahwa mendirikan sudut semacam itu di bawah atap besar tidak masuk akal; seharusnya berjarak setidaknya 25 meter dari jalur pejalan kaki non-perokok[^27].
 
-Kedua pihak mengutip penelitian yang sama, padahal mereka mengukur hal yang berbeda. Menariknya, kesenjangan informasi ini justru kembali pada pengingat yang lebih jujur: masalahnya bukan hanya apakah itu tertutup atau tidak, tetapi jika desain aliran udara tidak tepat, baik di ruang tertutup maupun terbuka, bau rokok tidak akan bisa ditahan. Untuk memverifikasi secara ilmiah ruang merokok bertekanan negatif, harus kembali pada kesimpulan konsisten dari CDC, WHO, dan komunitas teknik, bukan pada penelitian luar ruangan yang telah disalahartikan. Pihak anti-rokok memiliki posisi yang benar, tetapi mereka menggunakan bukti yang salah, sesuatu yang lebih umum daripada yang dibayangkan dalam debat publik.
+Jika kedua penelitian itu disandingkan, keduanya menunjuk pada hal yang sama: selama desain aliran udara tidak tepat, baik tertutup maupun terbuka, asap rokok tidak akan bisa ditahan. Ruang tertutup menambahkan satu batas fisik, tetapi batas itu hanya berlaku bila tekanan negatif dan pergantian udara benar-benar memenuhi standar, dan inilah prasyarat yang berulang kali ditekankan oleh CDC, WHO, dan komunitas teknik.
 
 ## Siapa yang Menduduki Teras
 
@@ -282,7 +282,11 @@ Artikel ini menggunakan 6 gambar, yang semuanya di-_cache_ di `public/article-im
 
 [^25]: [Minbao: Guo Fei-Ran Mengkritik Ruang Merokok Tertutup di Luar Ruangan](https://www.peoplenews.tw/articles/hot-news/35538) — Laporan tanggal 1 Juni 2026, Guo Fei-Ran menyatakan 'jangan menyebarkan konsep yang salah demi tujuan yang baik' kata per kata; artikel yang sama juga mencakup narasi dari Aliansi Anti-Merokok mengenai penelitian Kyoto.
 
-[^26]: [Arsip Akademik Universitas Wanita Kyoto: Situasi Perokok Pasif di Sekitar Area Merokok Luar Stasiun Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Judul tesis mengonfirmasi bahwa subjek penelitian adalah area merokok 'luar' Stasiun Kyoto (PM2.5 3 meter ke timur, 10 meter), bukan 'ruang merokok tertutup' yang dikutip oleh Aliansi Anti-Merokok.
+[^25b]: [Aliansi Anti-Rokok Taiwan: Mendorong "Kota Bebas Asap Rokok" Sama Sekali Tidak Sama dengan Membangun "Ruang Merokok Tertutup Bertekanan Negatif"](https://www.e-quit.org/News/NewsDetails.aspx?type=1&NewId=7310) — Teks asli pernyataan aliansi tanggal 7 Mei 2026, di mana Tang Xian-mei, Wakil Sekretaris Jenderal Aliansi Nasional Ibu untuk Perlindungan Keluarga dan Anak, mengutip: "Penelitian Universitas Wanita Kyoto, Jepang, tahun 2023 menemukan bahwa konsentrasi partikel halus (PM2.5) di ruang merokok tertutup dengan fasilitas pendingin udara berstandar tinggi melebihi nilai peringatan standar kualitas udara, bahkan PM2.5 yang diukur 5 meter di luar pintu masuk juga melebihi rata-rata harian polusi udara Kementerian Lingkungan Hidup".
+
+[^26]: [Kimura Yura dkk.: Situasi Perokok Pasif di Dalam dan di Sekitar Sebuah Ruang Merokok Tertutup](https://jstc.or.jp/wp-content/uploads/2026/09/gakkaisi_231020_99.pdf) — Jurnal Masyarakat Jepang untuk Pengendalian Tembakau, 2023, volume 18, halaman 93–99; subjek penelitian adalah bagian dalam dan sekitar ruang merokok tipe tertutup, yaitu studi yang dikutip dalam konferensi pers Aliansi Anti-Rokok.
+
+[^26b]: [Arsip Akademik Universitas Wanita Kyoto: Situasi Perokok Pasif di Sekitar Area Merokok Luar Stasiun Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Survei lain dari tim yang sama, Jurnal Masyarakat Pangan (Shokumotsu Gakkaishi) No. 78 (31 Januari 2024), dengan subjek area merokok semi-terbuka Stasiun Kyoto; PM2.5 diukur pada 3 meter dan 10 meter di sisi timur serta 5,7 meter di sisi selatan; nilai maksimum pada 3 meter di sisi timur jauh melampaui ambang peringatan 70 μg/m³ Kementerian Lingkungan Hidup Jepang.
 
 [^27]: [Kyoto Shimbun (Diterjemahkan dari notobacco.jp): Keluhan Area Merokok di Depan Stasiun Kyoto](https://notobacco.jp/pslaw/kyoto240314.html) — Laporan tanggal 14 Maret 2024, menggambarkan struktur area merokok yang dikelilingi oleh sekat setinggi sekitar 2 meter tanpa pintu dan tanpa langit-langit, disebut 'sudut merokok terbuka' oleh Profesor Hiroshi Yamato dari Universitas Kedokteran Industri.
 

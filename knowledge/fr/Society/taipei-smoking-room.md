@@ -1,9 +1,9 @@
 ---
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495'
-sourceContentHash: 'sha256:38028701b07f0fef'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-07-24T03:45:00+08:00'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fda552b52db75a7'
+sourceBodyHash: 'sha256:670589f45a540af9'
+translatedAt: '2026-11-17T02:09:57.143327+00:00'
 lang: 'fr'
 title: 'Le fumoir de Taipei : la boîte de verre qui respire dans une ville sans fumée'
 description: 'Le 7 mai 2026, une boîte transparente s’est dressée à côté de la sortie 6 du métro Ximen : le premier fumoir extérieur à pression négative de Taïwan. On ouvre la porte, l’air entre et ne ressort pas. Taipei veut être une ville sans fumée et a pourtant commencé par bâtir en pleine rue une maison de verre pour fumer. De 1984, quand Yen Tao a perdu un lobe pulmonaire, à aujourd’hui, avec un tabagisme passif intérieur tombé à 3,2 % et encore près de la moitié dehors, cette boîte contient une cigarette légale et un contrat sur l’espace public que la ville n’a pas fini de négocier.'
@@ -18,7 +18,7 @@ tags:
   - 'santé publique'
   - 'Ximending'
   - 'cigarette électronique'
-subcategory: 'Society'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -125,9 +125,10 @@ Réduction des risques : enfermer le tabac dans une boîte | Réduction du volum
 Reconnaître qu’il reste des fumeurs et leur donner un coin qui ne dérange pas | L’objectif est de continuer à faire baisser la prévalence
 Gérer de façon groupée l’odeur et les mégots, nettoyer le paysage urbain | Plus c’est inconfortable, plus on fume moins ou l’on arrête
 La logique de séparation de l’actuelle municipalité | La position des associations antitabac et d’une partie du corps médical
+Source : réponses de la municipalité de Taipei au conseil municipal et estimations coût-bénéfice des associations de parents (agence CNA, entre autres médias) + positions de la Fondation John Tung et de l’Alliance taïwanaise antitabac[^20][^21][^22]
 ```
 
-Kuo Fei-jan, médecin au département de médecine familiale de l’hôpital universitaire national de Taïwan et secrétaire général de l’Alliance médicale taïwanaise pour la lutte antitabac, va un cran plus loin. Dans une tribune, il cite la Convention-cadre de l’OMS pour la lutte antitabac et souligne qu’aucune ventilation, aucun équipement de filtration de l’air et aucun fumoir désigné ne peut empêcher l’exposition au tabagisme passif, et qu’« il n’existe aucun niveau sûr d’exposition à la fumée secondaire »[^23]. Et sa phrase la plus acérée vise l’effet secondaire de l’existence même de cette boîte.
+Kuo Fei-jan, médecin au département de médecine familiale de l’hôpital universitaire national de Taïwan et secrétaire général de l’Alliance médicale taïwanaise pour la lutte antitabac, va un cran plus loin. Dans une tribune, il cite la Convention-cadre de l’OMS pour la lutte antitabac et souligne qu’aucune ventilation, aucun équipement de filtration de l’air et aucun fumoir désigné ne peut empêcher l’exposition au tabagisme passif, et qu’« il n’existe aucun niveau sûr d’exposition à la fumée secondaire »[^23]. Et sa phrase la plus acérée vise l’effet secondaire de l’existence même de cette boîte[^25].
 
 ```tw-quote
 Je soutiens beaucoup la ville sans fumée, mais n’installez pas de fumoirs clos en extérieur ; ne dites pas que parce que le fumoir a une pression négative et des équipements de filtration, il n’y a plus de tabagisme passif ; ne propagez pas des idées fausses au nom d’un but bienveillant.
@@ -136,15 +137,15 @@ Kuo Fei-jan | médecin au département de médecine familiale de l’hôpital un
 
 > 📝 **Note de la curation** : dans cette phrase de Kuo Fei-jan se cache un mécanisme facile à négliger. Une boîte de verre au reflet futuriste, affichant « quatre filtres », suggère que « s’il y a de l’équipement, c’est sûr » : en voyant la fumée aspirée dans une boîte high-tech, on sent inconsciemment que le problème du tabagisme passif est réglé. Scientifiquement, pourtant, cette tranquillité ne tient pas. Le rapport du Surgeon General américain de 2006 conclut que même des fumoirs à pression négative, chacun clos et doté d’une extraction indépendante, n’empêchent pas la fumée secondaire de s’infiltrer dans les zones voisines[^24]. L’OMS et l’ASHRAE partagent cette position. La maison de verre est à la fois un compromis attentionné et, peut-être, une digue qui fait baisser la garde — ces deux choses peuvent être vraies en même temps.
 
-## Cette étude de Kyoto mesurait en fait autre chose
+## Les deux études de l’équipe de Kyoto : l’une mesurait un local clos, l’autre un coin extérieur
 
-Arrivés là, les deux camps sortent chacun leurs preuves. Et l’une des études les plus citées est justement un bon exemple de « comment un même matériau se raconte de deux manières ».
+Arrivés là, les deux camps sortent chacun leurs preuves. Les plus citées sont deux enquêtes successives d’une équipe de l’Université des femmes de Kyoto, qui mesuraient deux structures différentes.
 
-L’Alliance antitabac a cité en conférence de presse une étude de 2023 de l’Université des femmes de Kyoto, selon laquelle la concentration de PM2,5 d’un « fumoir clos » doté d’une climatisation haut de gamme dépassait le seuil d’alerte de qualité de l’air, les mesures à 5 mètres de l’entrée dépassant elles aussi la limite[^25]. Cela sonne comme le coup le plus direct porté aux fumoirs à pression négative. Mais en remontant à l’article, le titre est en réalité « Situation du tabagisme passif aux abords de l’espace fumeurs _extérieur_ de la gare de Kyoto », et l’objet d’étude était un coin fumeurs ouvert devant la gare, muni de cloisons partielles mais sans porte ni plafond, les mesures portant sur les PM2,5 à 3 et 10 mètres vers l’est[^26]. Ce n’était pas un local clos, mais un coin extérieur sous un auvent et ventilé de tous côtés.
+L’Alliance antitabac a cité en conférence de presse celle de 2023 : dans un fumoir clos doté d’une climatisation haut de gamme, la concentration de PM2,5 dépassait le seuil d’alerte des normes de qualité de l’air, et même les valeurs mesurées à 5 mètres de l’entrée étaient supérieures à la moyenne journalière de pollution atmosphérique du ministère taïwanais de l’Environnement[^25b]. L’article, intitulé « Situation du tabagisme passif à l’intérieur et aux abords d’un certain fumoir clos », a paru dans la _Revue de la Société japonaise de lutte antitabac_, vol. 18 (2023), et mesurait précisément l’intérieur et les abords d’un fumoir de type clos[^26]. L’objet d’étude était bien un local clos : sur ce point, la citation tient.
 
-L’écart n’est pas mince. Un local clos à pression négative et un espace fumeurs ouvert sont deux structures physiques différentes. Le professeur Hiroshi Yamato, de l’Université des sciences de la santé au travail et de l’environnement, a qualifié cet espace de Kyoto, en entretien, de « coin fumeurs de type ouvert », et a critiqué le fait d’installer un tel coin sous une grande toiture, estimant qu’il faudrait l’éloigner d’au moins 25 mètres des cheminements des non-fumeurs[^27]. Autrement dit, le camp antitabac voulait démontrer avec cette étude que « même un local clos ne retient pas la fumée », alors que l’étude démontre que « même un coin ouvert couvert laisse s’échapper l’odeur du tabac ».
+La même équipe a publié début 2024 une autre étude, « Situation du tabagisme passif aux abords de l’espace fumeurs extérieur de la gare de Kyoto », portant cette fois sur un coin fumeurs semi-ouvert de la gare de Kyoto, avec des mesures de PM2,5 à 3 et 10 mètres vers l’est et à 5,7 mètres vers le sud. La valeur maximale à 3 mètres vers l’est dépassait largement le seuil d’alerte de 70 microgrammes du ministère japonais de l’Environnement, et celle à 10 mètres était elle aussi élevée[^26b]. Le professeur Hiroshi Yamato, de l’Université des sciences de la santé au travail et de l’environnement, a qualifié cet espace, en entretien, de « coin fumeurs de type ouvert », estimant qu’il n’est pas raisonnable d’installer un tel coin sous une grande toiture et qu’il faudrait l’éloigner d’au moins 25 mètres des cheminements des non-fumeurs[^27].
 
-Les deux camps ont cité la même étude, mais ce qui était mesuré n’était pas la même chose. Le plus intéressant, c’est que ce décalage informationnel ramène à un avertissement plus honnête : le problème ne tient pas seulement au caractère clos ou non, mais au fait que si la conception du flux d’air n’est pas à la hauteur, l’odeur du tabac ne se retient ni en milieu clos ni en milieu ouvert. Pour vérifier scientifiquement un local clos à pression négative, il faut revenir aux conclusions convergentes des CDC, de l’OMS et de l’ingénierie, et non à une étude extérieure déformée à force d’être rapportée. Qu’un camp ait raison sur le fond mais se trompe de preuve est, dans le débat public, plus fréquent qu’on ne le croit.
+Mises côte à côte, les deux études pointent vers la même chose : si la conception du flux d’air n’est pas à la hauteur, ni le clos ni l’ouvert ne retiennent la fumée. Le local clos ajoute une frontière physique, mais cette frontière n’existe que si la pression négative et le renouvellement d’air atteignent réellement les normes, et c’est précisément la condition sur laquelle insistent sans relâche les CDC, l’OMS et l’ingénierie.
 
 ## À qui est l’arcade ?
 
@@ -281,7 +282,11 @@ Ce texte utilise 6 images, toutes mises en cache dans `public/article-images/soc
 
 [^25]: [Peoplenews : Kuo Fei-jan critique les fumoirs clos en extérieur](https://www.peoplenews.tw/articles/hot-news/35538) — Reportage du 01-06-2026 avec la citation mot à mot de Kuo Fei-jan « ne propagez pas des idées fausses au nom d’un but bienveillant » ; le même article contient le contexte de la référence de l’Alliance antitabac à l’étude de Kyoto.
 
-[^26]: [Dépôt académique de l’Université des femmes de Kyoto : situation du tabagisme passif aux abords de l’espace fumeurs extérieur de la gare de Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Le titre de l’article confirme que l’objet d’étude était l’espace fumeurs « extérieur » de la gare de Kyoto (mesure des PM2,5 à 3 et 10 mètres vers l’est) et non le « fumoir clos » évoqué par l’Alliance antitabac.
+[^25b]: [Alliance taïwanaise antitabac : promouvoir la « ville sans fumée » ne signifie en aucun cas installer des « fumoirs clos à pression négative »](https://www.e-quit.org/News/NewsDetails.aspx?type=1&NewId=7310) — Texte original du communiqué de l’alliance du 07-05-2026, dans lequel Tang Hsien-mei, secrétaire générale adjointe de l’Alliance nationale des mères pour la protection de la famille et de l’enfance, cite : « une étude de 2023 de l’Université des femmes de Kyoto (Japon) a constaté que, dans un fumoir clos doté d’une climatisation haut de gamme, la concentration de particules fines (PM2,5) dépassait le seuil d’alerte des normes de qualité de l’air, et que même les PM2,5 mesurées à 5 mètres de l’entrée dépassaient la moyenne journalière de pollution atmosphérique du ministère de l’Environnement ».
+
+[^26]: [Kimura Yura et al. : situation du tabagisme passif à l’intérieur et aux abords d’un certain fumoir clos](https://jstc.or.jp/wp-content/uploads/2026/09/gakkaisi_231020_99.pdf) — _Revue de la Société japonaise de lutte antitabac_, vol. 18 (2023), p. 93–99 ; l’objet d’étude est l’intérieur et les abords d’un fumoir de type clos, c’est-à-dire l’étude citée par l’Alliance antitabac lors de sa conférence de presse.
+
+[^26b]: [Dépôt académique de l’Université des femmes de Kyoto : situation du tabagisme passif aux abords de l’espace fumeurs extérieur de la gare de Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Autre enquête de la même équipe, parue dans la _Revue de la Société d’alimentation_ (Shokumotsu Gakkaishi), n° 78 (31-01-2024) ; l’objet est l’espace fumeurs semi-ouvert de la gare de Kyoto, avec des mesures de PM2,5 à 3 et 10 mètres vers l’est et à 5,7 mètres vers le sud ; la valeur maximale à 3 mètres vers l’est dépasse largement le seuil d’alerte de 70 μg/m³ du ministère japonais de l’Environnement.
 
 [^27]: [Kyoto Shimbun (repris sur notobacco.jp) : plaintes concernant l’espace fumeurs de la place de la gare de Kyoto](https://notobacco.jp/pslaw/kyoto240314.html) — Reportage du 14-03-2024 décrivant cet espace comme une structure entourée de cloisons d’environ 2 mètres de haut, sans porte ni plafond, et dans lequel le professeur Hiroshi Yamato, de l’Université des sciences de la santé au travail et de l’environnement, le qualifie de « coin fumeurs de type ouvert ».
 

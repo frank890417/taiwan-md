@@ -14,7 +14,7 @@ tags:
     'Ximending',
     'cigarro eletrônico',
   ]
-subcategory: 'Society'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -36,10 +36,10 @@ sporeLinks:
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '52052ddaa'
-sourceContentHash: 'sha256:f6e388583def59a6'
-sourceBodyHash: 'sha256:0879f11101fa0c2c'
-translatedAt: '2026-10-13T07:17:06.081941+00:00'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fda552b52db75a7'
+sourceBodyHash: 'sha256:670589f45a540af9'
+translatedAt: '2026-11-17T02:09:57.143327+00:00'
 ---
 
 _Fora da saída 6 do metro de Ximending, a primeira cabine de fumadores de pressão negativa ao ar livre de Taiwan: uma caixa de vidro transparente com moldura preta, plantada no passeio. Foto: Huahua Daily / Repórter Chang Hsiang-ying (fair use editorial commentary)._
@@ -130,7 +130,7 @@ A estratégia de segregação da atual prefeitura | A posição de grupos antita
 Fonte: Respostas do Conselho Municipal de Taipei e estimativas de custo-benefício de grupos de pais (relatórios da CNA, entre outros) + posições da Fundação Dongshi e da Taiwan No Smoking Alliance[^20][^21][^22]
 ```
 
-Kuo Fei-jan, médico do Departamento de Medicina Familiar do Hospital Universitário de Taiwan e secretário-geral da Aliança de Prevenção de Danos do Tabaco do Setor Médico de Taiwan, vai um passo mais além. Numa carta de opinião, ele cita a Convenção-Quadro da Organização Mundial da Saúde para o Controlo do Tabaco, apontando que qualquer equipamento de ventilação, filtragem de ar ou sala de fumadores designada não consegue impedir a exposição ao fumo passivo: «não existe um nível seguro de exposição ao fumo passivo»[^23]. E a sua frase mais incisiva aponta para o efeito secundário da própria existência desta "caixa".
+Kuo Fei-jan, médico do Departamento de Medicina Familiar do Hospital Universitário de Taiwan e secretário-geral da Aliança de Prevenção de Danos do Tabaco do Setor Médico de Taiwan, vai um passo mais além. Numa carta de opinião, ele cita a Convenção-Quadro da Organização Mundial da Saúde para o Controlo do Tabaco, apontando que qualquer equipamento de ventilação, filtragem de ar ou sala de fumadores designada não consegue impedir a exposição ao fumo passivo: «não existe um nível seguro de exposição ao fumo passivo»[^23]. E a sua frase mais incisiva aponta para o efeito secundário da própria existência desta "caixa"[^25].
 
 ```tw-quote
 Apoio muito o conceito de cidade sem fumo, mas não instalem salas de fumadores fechadas ao ar livre; não promovam a ideia de que, porque a sala tem pressão negativa e equipamentos de filtragem, não haverá fumo passivo; não promovam conceitos errados por causa de um propósito nobre.
@@ -139,15 +139,15 @@ Kuo Fei-jan | Médico do Depto. de Medicina Familiar do Hospital Universitário 
 
 > 📝 **Nota do Curador**: Nas palavras de Kuo Fei-jan esconde-se um mecanismo que é facilmente ignorado. Uma caixa de vidro com aspeto futurista, que ostenta "quatro camadas de filtragem", transmite a sugestão implícita de que «ter equipamento é sinónimo de segurança»: quando vê o fumo a ser aspirado para uma caixa de alta tecnologia, subconscientemente sente que o problema do fumo passivo foi resolvido. No entanto, cientificamente, essa sensação de segurança não se sustenta. Um relatório de 2006 do Surgeon General dos EUA concluiu que mesmo salas de fumadores de pressão negativa, que sejam independentes e com exaustão própria, não conseguem impedir que o fumo passivo se infiltre nas áreas adjacentes[^24]. A posição da Organização Mundial da Saúde e da American Society of Heating, Refrigerating and Air-Conditioning Engineers é consensual. Uma estrutura de vidro pode ser tanto uma concessão atenciosa como uma barreira que faz as pessoas baixarem a guarda — estas duas coisas podem ser verdadeiras ao mesmo tempo.
 
-## O estudo de Quioto, que afinal media outra coisa
+## Os dois estudos da equipa de Quioto: um mediu uma sala fechada, o outro um canto ao ar livre
 
-A discussão chega aqui e cada lado traz as suas provas. E a mais citada é precisamente um caso de «os mesmos dados vendidos como duas coisas diferentes».
+A discussão chega aqui e cada lado traz as suas provas. As mais citadas são duas investigações sucessivas de uma equipa da Universidade Feminina de Quioto, que mediram duas estruturas diferentes.
 
-A Aliança Recusa ao Tabaco citou em conferência de imprensa: estudo de 2023 da Universidade Feminina de Quioto descobriu que «salas de fumadores fechadas de alta especificação» têm PM2.5 acima do valor de alerta de qualidade do ar; até a 5 metros da entrada os valores excedem o padrão[^25]. Soa como um golpe direto nas cabines de pressão negativa. Mas indo buscar o artigo, o título é «Situação do fumo passivo nas imediações da «área de fumadores ao ar livre» da Estação de Quioto»; o objeto de estudo é um canto com divisórias parciais, _sem porta nem teto_, na frente da estação; mediu-se PM2.5 a 3 e 10 metros do lado leste[^26]. Não mediu sala fechada; mediu um canto ao ar livre com beiral, aberto aos quatro ventos.
+A Aliança Recusa ao Tabaco citou em conferência de imprensa a de 2023: numa sala de fumadores fechada com equipamento de climatização de alta especificação, a concentração de PM2.5 excedia o valor de alerta das normas de qualidade do ar, e até os valores medidos a 5 metros da entrada ficavam acima da média diária de poluição atmosférica do Ministério do Ambiente de Taiwan[^25b]. O artigo, intitulado «Situação do fumo passivo no interior e nas imediações de uma determinada sala de fumadores fechada», foi publicado na _Revista da Sociedade Japonesa de Controlo do Tabaco_, vol. 18 (2023), e mediu precisamente o interior e as imediações de uma sala de fumadores de tipo fechado[^26]. O objeto de estudo era mesmo uma sala fechada; neste ponto, a citação tem fundamento.
 
-A diferença não é pequena. Sala de pressão negativa fechada e canto de fumadores ao ar livre são duas físicas diferentes. O professor Yamato Hiroshi (大和浩) da Universidade de Medicina Ocupacional, em entrevista, chamou diretamente àquele espaço de Quioto «canto de fumadores ao ar livre aberto», e criticou que pôr isso debaixo de um grande telhado não faz sentido; devia ficar a pelo menos 25 metros das rotas de não fumadores[^27]. Ou seja: o lado anti-tabaco queria usar este estudo para provar que «até sala fechada não segura o fumo», mas o estudo prova é que «até canto abrigado e aberto deixa escapar o fumo».
+A mesma equipa publicou no início de 2024 um outro estudo, «Situação do fumo passivo nas imediações da área de fumadores ao ar livre da Estação de Quioto», desta vez sobre um canto de fumadores semiaberto da Estação de Quioto, medindo PM2.5 a 3 e 10 metros do lado leste e a 5,7 metros do lado sul. O valor máximo a 3 metros do lado leste ultrapassou largamente o critério de alerta de 70 microgramas do Ministério do Ambiente do Japão, e a 10 metros também era elevado[^26b]. O professor Yamato Hiroshi, da Universidade de Medicina Ocupacional, chamou em entrevista àquele espaço «canto de fumadores ao ar livre aberto» e considerou que pôr um canto assim debaixo de um grande telhado não faz sentido; devia ficar a pelo menos 25 metros das rotas de não fumadores[^27].
 
-Duas fações a citar o mesmo estudo, a medir coisas diferentes. Curiosamente, esta falha de informação acaba por voltar ao mesmo aviso mais honesto: o problema não é só fechar ou não; é que, se o desenho do fluxo de ar não chega, seja fechado ou aberto, o cheiro não fica lá dentro. A ciência real para validar salas de pressão negativa fechadas está nas conclusões convergentes do CDC, OMS e engenharia — não num estudo de exterior que foi deturpado na citação. O lado anti-tabaco tem a posição correta, mas usou a prova errada; em debate público, isso acontece mais do que se imagina.
+Lado a lado, os dois estudos apontam para a mesma coisa: se o desenho do fluxo de ar não chega, o fumo não fica retido, seja o espaço fechado ou aberto. A sala fechada acrescenta uma fronteira física, mas essa fronteira só existe quando a pressão negativa e a renovação do ar cumprem realmente os requisitos, e é precisamente essa a premissa em que o CDC, a OMS e a engenharia insistem uma e outra vez.
 
 ## De quem é a arcada
 
@@ -284,7 +284,11 @@ Este artigo usa 6 imagens, todas em cache em `public/article-images/society/` pa
 
 [^25]: [The Reporter: Kuo Fei-jan critica cabines fechadas ao ar livre](https://www.peoplenews.tw/articles/hot-news/35538) — Reportagem 2026-06-01, Kuo Fei-jan «não se deve, por bom propósito, propagandear conceitos errados» literal; mesmo artigo inclui contextualização da citação do estudo de Quioto pela Aliança Recusa ao Tabaco.
 
-[^26]: [Repositório Académico da Universidade Feminina de Quioto: Situação do fumo passivo nas imediações da «área de fumadores ao ar livre» da Estação de Quioto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Título do paper confirma objeto: «área de fumadores ao ar livre» da Estação de Quioto (mediu lado leste 3 m, 10 m PM2.5), não «sala de fumadores fechada» como citado pela Aliança.
+[^25b]: [Aliança Recusa ao Tabaco de Taiwan: promover a «cidade sem fumo» não equivale de modo algum a instalar «salas de fumadores fechadas de pressão negativa»](https://www.e-quit.org/News/NewsDetails.aspx?type=1&NewId=7310) — Texto original do comunicado da aliança de 2026-05-07, em que Tang Hsien-mei, secretária-geral adjunta da Aliança Nacional das Mães para a Proteção da Família e da Criança, cita: «um estudo de 2023 da Universidade Feminina de Quioto, no Japão, concluiu que, numa sala de fumadores fechada com equipamento de climatização de alta especificação, a concentração de partículas finas (PM2.5) excedia o valor de alerta das normas de qualidade do ar, e até o PM2.5 medido a 5 metros da entrada ultrapassava a média diária de poluição atmosférica do Ministério do Ambiente».
+
+[^26]: [Kimura Yura et al.: Situação do fumo passivo no interior e nas imediações de uma determinada sala de fumadores fechada](https://jstc.or.jp/wp-content/uploads/2026/09/gakkaisi_231020_99.pdf) — _Revista da Sociedade Japonesa de Controlo do Tabaco_, 2023, vol. 18, pp. 93–99; o objeto de estudo é o interior e as imediações de uma sala de fumadores de tipo fechado, ou seja, o estudo citado na conferência de imprensa da Aliança Recusa ao Tabaco.
+
+[^26b]: [Repositório Académico da Universidade Feminina de Quioto: Situação do fumo passivo nas imediações da «área de fumadores ao ar livre» da Estação de Quioto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Outro estudo da mesma equipa, na _Revista da Sociedade de Alimentação_ (Shokumotsu Gakkaishi), n.º 78 (2024-01-31); objeto: área de fumadores semiaberta da Estação de Quioto, com PM2.5 medido a 3 e 10 m do lado leste e a 5,7 m do lado sul; o valor máximo a 3 m do lado leste ultrapassa largamente o critério de alerta de 70 μg/m³ do Ministério do Ambiente do Japão.
 
 [^27]: [Kyoto Shimbun (republicado em notobacco.jp): Queixas sobre área de fumadores da praça da Estação de Quioto](https://notobacco.jp/pslaw/kyoto240314.html) — Reportagem 2024-03-14, descreve estrutura: divisórias ~2 m, sem porta nem teto; prof. Yamato Hiroshi da Universidade de Medicina Ocupacional chama «canto de fumadores ao ar livre aberto».
 

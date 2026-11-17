@@ -14,7 +14,7 @@ tags:
     'Tây Môn',
     'thuốc lá điện tử',
   ]
-subcategory: 'Society'
+subcategory: '社區與日常'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -36,10 +36,10 @@ sporeLinks:
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '52052ddaa'
-sourceContentHash: 'sha256:f6e388583def59a6'
-sourceBodyHash: 'sha256:0879f11101fa0c2c'
-translatedAt: '2026-10-13T07:15:27.413751+00:00'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fda552b52db75a7'
+sourceBodyHash: 'sha256:670589f45a540af9'
+translatedAt: '2026-11-17T02:09:57.143327+00:00'
 ---
 
 _Bên ngoài lối ra số 6 ga tàu điện ngầm Tây Môn, phòng hút thuốc áp suất âm ngoài trời đầu tiên của toàn Đài Loan: một chiếc hộp kính trong suốt có khung đen, đặt trên vỉa hè. Photo: Hoa Hoa Nhật Báo / Phóng viên Chương Tương Vân (fair use editorial commentary)._
@@ -128,7 +128,7 @@ Tư duy phân luồng của chính quyền thành phố hiện tại | Quan đi�
 Nguồn: Trả lời chất vấn tại Hội đồng Thành phố Đài Bắc và ước tính chi phí - lợi ích của các nhóm phụ huynh (theo báo cáo của Trung ương Xã, v.v.) + Lập trường của Quỹ Dong Shih và Liên minh Từ chối Thuốc lá Đài Loan[^20][^21][^22]
 ```
 
-Bác sĩ chuyên khoa Khoa Y học Gia đình tại Bệnh viện Đại học Quốc gia Đài Loan (NTUH), đồng thời là Tổng thư ký Liên minh Phòng chống Tác hại Thuốc lá của Giới Y khoa Đài Loan, ông Quách Phỉ Nhiên (Guo Fei-ran), đã đưa ra một nhận định sâu sắc hơn. Trong bài viết của mình, ông dẫn chứng Công ước Khung về Kiểm soát Thuốc lá của Tổ chức Y tế Thế giới (WHO) để chỉ ra rằng bất kỳ thiết bị thông gió, lọc không khí hay phòng hút thuốc chuyên dụng nào cũng không thể ngăn chặn việc tiếp xúc với khói thuốc thụ động, bởi "không có mức độ tiếp xúc an toàn nào với khói thuốc thụ động"[^23]. Và câu nói sắc bén nhất của ông nhắm thẳng vào tác dụng phụ từ chính sự tồn tại của "chiếc hộp" này.
+Bác sĩ chuyên khoa Khoa Y học Gia đình tại Bệnh viện Đại học Quốc gia Đài Loan (NTUH), đồng thời là Tổng thư ký Liên minh Phòng chống Tác hại Thuốc lá của Giới Y khoa Đài Loan, ông Quách Phỉ Nhiên (Guo Fei-ran), đã đưa ra một nhận định sâu sắc hơn. Trong bài viết của mình, ông dẫn chứng Công ước Khung về Kiểm soát Thuốc lá của Tổ chức Y tế Thế giới (WHO) để chỉ ra rằng bất kỳ thiết bị thông gió, lọc không khí hay phòng hút thuốc chuyên dụng nào cũng không thể ngăn chặn việc tiếp xúc với khói thuốc thụ động, bởi "không có mức độ tiếp xúc an toàn nào với khói thuốc thụ động"[^23]. Và câu nói sắc bén nhất của ông nhắm thẳng vào tác dụng phụ từ chính sự tồn tại của "chiếc hộp" này[^25].
 
 ```tw-quote
 Tôi rất ủng hộ một thành phố không khói thuốc, nhưng đừng thiết lập các phòng hút thuốc kín ngoài trời; đừng quảng bá rằng phòng hút thuốc có áp suất âm hay có thiết bị lọc thì sẽ không còn khói thuốc thụ động; đừng vì một mục đích tốt đẹp mà quảng bá những quan niệm sai lầm.
@@ -137,15 +137,15 @@ Quách Phỉ Nhiên | Bác sĩ Khoa Y học Gia đình, Bệnh viện Đại h�
 
 > 📝 **Ghi chú của người biên tập**: Trong câu nói này của Quách Phỉ Nhiên ẩn chứa một cơ chế dễ bị bỏ qua. Một chiếc hộp kính mang cảm giác tương lai, được quảng bá là có "bốn lớp màng lọc", sẽ tạo ra một ám thị rằng "có thiết bị đồng nghĩa với an toàn": khi bạn nhìn thấy khói thuốc được hút vào một chiếc hộp công nghệ cao, bạn sẽ vô thức cảm thấy vấn đề khói thuốc thụ động đã được giải quyết. Tuy nhiên, về mặt khoa học, cảm giác an tâm này không có cơ sở. Một báo cáo năm 2006 của Cơ quan Y tế Công cộng Hoa Kỳ đã kết luận rằng: ngay cả các phòng hút thuốc áp suất âm kín biệt lập và có hệ thống thông gió riêng biệt cũng không thể ngăn khói thuốc thụ động thẩm thấu sang các khu vực lân cận[^24]. Lập trường của Tổ chức Y tế Thế giới và Hiệp hội Kỹ sư Nhiệt lạnh Hoa Kỳ (ASHRAE) là thống nhất. Một ngôi nhà kính vừa là một sự thỏa hiệp đầy tinh tế, nhưng cũng có thể là một rào chắn khiến người ta mất cảnh giác — cả hai điều này đều có thể cùng tồn tại một lúc.
 
-## Nghiên cứu Kyoto đó, thực ra đo cái khác
+## Hai nghiên cứu của nhóm Kyoto: một đo phòng kín, một đo góc ngoài trời
 
-Cuộc tranh luận xảy ra đến đây, cả hai bên bắt đầu mang bằng cứ của họ. Và trong đó, một nghiên cứu được trích dẫn thường xuyên nhất, trùng hợp là một ví dụ tốt về "cùng một dữ liệu được gọi là hai thứ khác nhau".
+Cuộc tranh luận đi đến đây, cả hai bên bắt đầu đưa ra bằng chứng của mình. Được trích dẫn nhiều nhất là hai cuộc khảo sát nối tiếp nhau của một nhóm nghiên cứu thuộc Đại Học Nữ Kyoto, và chúng đo hai loại cấu trúc khác nhau.
 
-Liên Minh Từ Chối trích dẫn trong họp báo, nghiên cứu năm 2023 của Đại Học Nữ Kyoto phát hiện, "phòng hút thuốc kín" có thiết bị điều hòa không khí quy cách cao, nồng độ PM2.5 vượt quá giá trị cảnh báo chất lượng không khí, thậm chí ở 5 mét bên ngoài cửa vào cũng đo được vượt mức[^25]. Nghe có vẻ như một cú đập trực tiếp nhất vào phòng hút thuốc áp suất âm. Nhưng đi lại bài báo đó, tiêu đề thực tế là "Tình hình tiếp xúc thụ động hút thuốc xung quanh khu hút thuốc 'ngoài trời' ga Kyoto", đối tượng nghiên cứu là một góc hút thuốc mở, chỉ có vách ngăn một phần, không có cửa và không có trần tại ga Kyoto, đo là PM2.5 ở khoảng cách phía đông 3 mét, 10 mét v.v.[^26]. Nó đo không phải là phòng kín, mà là một góc hút thuốc ngoài trời với mái che và thông gió bốn phía.
+Điều Liên Minh Từ Chối trích dẫn trong họp báo là nghiên cứu năm 2023: trong một phòng hút thuốc kín có thiết bị điều hòa không khí quy cách cao, nồng độ PM2.5 vượt quá giá trị cảnh báo của tiêu chuẩn chất lượng không khí, ngay cả giá trị đo được ở 5 mét bên ngoài cửa vào cũng cao hơn giá trị trung bình ngày về ô nhiễm không khí của Bộ Môi trường Đài Loan[^25b]. Bài báo đó có tiêu đề "Tình hình hút thuốc thụ động bên trong và xung quanh một phòng hút thuốc kín", đăng trên Tạp chí Hội Kiểm soát Thuốc lá Nhật Bản, tập 18 năm 2023, và đo đúng là bên trong và xung quanh một phòng hút thuốc kiểu kín[^26]. Đối tượng nghiên cứu chính là phòng kín, nên phần trích dẫn này đứng vững.
 
-Khoảng cách này không nhỏ. Phòng hút thuốc kín áp suất âm và khu hút thuốc mở, là hai kiến trúc vật lý khác nhau. Giáo sư Đại Hòa của Đại Học Y Khoa Công Nghiệp, trong buổi phỏng vấn, thẳng thừng gọi khu hút thuốc Kyoto đó là "góc hút thuốc mở", và phê bình rằng không nên xây góc này dưới mái che lớn, nên cách xa dòng chuyển động của những người không hút thuốc ít nhất 25 mét[^27]. Nói cách khác, các nhóm chống thuốc muốn dùng nghiên cứu này để chứng minh "ngay cả phòng kín cũng không thể chặn được thuốc", nhưng bản thân nghiên cứu chứng minh là "ngay cả góc mở có che đó, mùi thuốc cũng chảy ra ngoài".
+Đầu năm 2024, cùng nhóm đó công bố thêm nghiên cứu "Tình hình hút thuốc thụ động xung quanh khu hút thuốc ngoài trời ga Kyoto", lần này đối tượng là một góc hút thuốc bán mở tại ga Kyoto, đo PM2.5 ở khoảng cách 3 mét, 10 mét phía đông và 5,7 mét phía nam. Giá trị tối đa ở 3 mét phía đông vượt xa ngưỡng cảnh báo 70 microgram của Bộ Môi trường Nhật Bản, ở 10 mét cũng ở mức cao[^26b]. Giáo sư Yamato Hiroshi (Đại Hòa) của Đại Học Y Khoa Công Nghiệp khi được phỏng vấn đã gọi nơi đó là "góc hút thuốc mở", cho rằng đặt một góc như vậy dưới mái che lớn là không hợp lý, và cần cách xa lối đi của người không hút thuốc ít nhất 25 mét[^27].
 
-Hai phái trích dẫn cùng một nghiên cứu, đo của thực tế là hai thứ khác nhau. Điều thú vị là, chính sự mất cân bằng thông tin này, lại vòng về cùng một lời nhắc nhở trung thực hơn: vấn đề không chỉ nằm ở có kín hay không, mà ở chỉ cần thiết kế dòng khí không kỹ, dù kín hay mở, mùi thuốc cũng giữ không lại. Để xác minh khoa học của phòng hút thuốc kín áp suất âm thực sự, phải quay lại kết luận một lòng của CDC, WHO và giới kỹ sư, chứ không phải một bài nghiên cứu ngoài trời bị tường thuật lệch đi. Phía chống thuốc lá lập trường đúng, bằng cứ nhưng lấy sai, trong tranh luận công cộng, lạ hơn tưởng tượng.
+Đặt hai nghiên cứu cạnh nhau, chúng chỉ về cùng một điều: chỉ cần thiết kế dòng khí không đạt, dù kín hay mở cũng không giữ được khói thuốc. Phòng kín có thêm một ranh giới vật lý, nhưng ranh giới đó chỉ có hiệu lực khi áp suất âm và thông gió thực sự đạt chuẩn, và đó chính là tiền đề mà CDC, WHO và giới kỹ sư nhiều lần nhấn mạnh.
 
 ## Của ai cái hành lang
 
@@ -282,7 +282,11 @@ Bài viết này sử dụng 5 hình ảnh, toàn bộ bộ nhớ đệm tại `
 
 [^25]: [Dân Báo: Quách Phế Nhiên Chỉ Trích Phòng Hút Thuốc Kín Ngoài Trời](https://www.peoplenews.tw/articles/hot-news/35538) — Báo Cáo 2026-06-01, Quách Phế Nhiên "Đừng Vì Một Mục Đích Tốt Lành, Quảng Cáo Những Quan Niệm Sai Lầm" Chính Xác; Cũng Bài Chứa Liên Minh Từ Chối Ngữ Cảnh Trích Dẫn Đối Với Nghiên Cứu Kyoto.
 
-[^26]: [Lưu Trữ Học Thuật Đại Học Nữ Kyoto: Tình Hình Tiếp Xúc Hít Thụ Động Xung Quanh Khu Hút Thuốc Ngoài Trời Ga Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Tiêu Đề Bài Báo Xác Nhận Đối Tượng Nghiên Cứu Là Ga Kyoto "Ngoài Trời" Khu Hút Thuốc (Đo Phía Đông 3 Mét, 10 Mét PM2.5), Không Phải "Phòng Hút Thuốc Kín" Liên Minh Từ Chối Trích Dẫn.
+[^25b]: [Liên minh Từ chối Thuốc lá Đài Loan: Thúc đẩy "thành phố không khói thuốc" hoàn toàn không đồng nghĩa với lắp đặt "phòng hút thuốc kín áp suất âm"](https://www.e-quit.org/News/NewsDetails.aspx?type=1&NewId=7310) — Nguyên văn tuyên bố của liên minh ngày 2026-05-07, trong đó bà Đường Tiên Mỹ (Tang Xianmei), Phó Tổng thư ký Liên minh Các Bà mẹ Toàn quốc Bảo vệ Gia đình và Trẻ em, trích dẫn: "Nghiên cứu năm 2023 của Đại học Nữ Kyoto, Nhật Bản phát hiện, phòng hút thuốc kín có thiết bị điều hòa không khí quy cách cao có nồng độ bụi mịn (PM2.5) vượt quá giá trị cảnh báo của tiêu chuẩn chất lượng không khí, ngay cả PM2.5 đo được ở 5 mét bên ngoài cửa vào cũng vượt giá trị trung bình ngày về ô nhiễm không khí của Bộ Môi trường".
+
+[^26]: [Kimura Yura và cộng sự: Tình hình hút thuốc thụ động bên trong và xung quanh một phòng hút thuốc kín](https://jstc.or.jp/wp-content/uploads/2026/09/gakkaisi_231020_99.pdf) — Tạp chí Hội Kiểm soát Thuốc lá Nhật Bản, năm 2023, tập 18, trang 93–99; đối tượng nghiên cứu là bên trong và xung quanh một phòng hút thuốc kiểu kín (kiểu khép kín), tức chính nghiên cứu mà Liên Minh Từ Chối trích dẫn trong họp báo.
+
+[^26b]: [Lưu Trữ Học Thuật Đại Học Nữ Kyoto: Tình Hình Tiếp Xúc Hít Thụ Động Xung Quanh Khu Hút Thuốc Ngoài Trời Ga Kyoto](http://repo.kyoto-wu.ac.jp/dspace/handle/11173/3852) — Một khảo sát khác của cùng nhóm, đăng trên Tạp chí Hội Thực phẩm (Shokumotsu Gakkaishi) số 78 (2024-01-31), đối tượng là khu hút thuốc bán mở tại ga Kyoto, đo PM2.5 ở 3 mét, 10 mét phía đông và 5,7 mét phía nam; giá trị tối đa ở 3 mét phía đông vượt xa ngưỡng cảnh báo 70 μg/m³ của Bộ Môi trường Nhật Bản.
 
 [^27]: [Kyoto Tin Tức (notobacco.jp Tái Đăng): Ga Kyoto Quảng Trường Khu Hút Thuốc Phàn Nàn](https://notobacco.jp/pslaw/kyoto240314.html) — Báo Cáo 2024-03-14, Mô Tả Khu Hút Thuốc Đó Là Vách Ngăn Khoảng 2 Mét Cao Bao Quanh, Không Cửa Không Trần Kiến Trúc, Giáo Sư Đại Học Y Khoa Công Nghiệp Đại Hòa Gọi "Góc Hút Thuốc Mở".
 
