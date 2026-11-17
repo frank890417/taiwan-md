@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣太空產業發展.md'
-sourceCommitSha: 'f3baded5f'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e66143fe99e401f4'
 sourceBodyHash: 'sha256:f2a71a6d6f47c4eb'
-translatedAt: '2026-09-23T02:56:17+08:00'
+translatedAt: '2026-11-17T17:56:57.844428+00:00'
 ---
 
 # Desenvolvimento da Indústria Espacial de Taiwan: Uma Potência em Fabricação de Satélites, Mas Sem Própco Foguete

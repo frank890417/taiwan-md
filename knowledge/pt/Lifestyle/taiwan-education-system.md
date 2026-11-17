@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-17T17:36:49.924164+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 1981, a área de Nanyang Street e Roosevelt Road, em Taipé, abrigava 48 cursos preparatórios para admissão universitária e mais de 100.000 estudantes; em 2023, restaram apenas 3, com cerca de 2.500 pessoas. Taiwan gastou 30 anos reformando a educação para abolir o "um exame define por toda a vida", mas os cursos preparatórios não desapareceram: cinco anos após a implementação do Novo Currículo, as escolas particulares em todo o país aumentaram em 960. Por trás deste ciclo está um debate repetido de uma ilha sobre a definição de "equidade".

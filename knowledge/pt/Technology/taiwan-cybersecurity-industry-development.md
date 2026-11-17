@@ -18,11 +18,13 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: 'b0b668075'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b8cab3d7189be94d'
 sourceBodyHash: 'sha256:a74e3ddc66982d98'
-translatedAt: '2026-10-04T00:51:59+08:00'
+translatedAt: '2026-11-17T17:32:38.849214+00:00'
 ---
 
 # Desenvolvimento da Indústria de Cibersegurança em Taiwan

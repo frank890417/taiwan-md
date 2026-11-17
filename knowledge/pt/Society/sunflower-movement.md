@@ -15,11 +15,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/太陽花學運.md'
-sourceCommitSha: 'e6c587213'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f622a7c42dce34d6'
 sourceBodyHash: 'sha256:2558980b3f59cb6f'
-translatedAt: '2026-07-30T03:55:56+08:00'
+translatedAt: '2026-11-17T16:56:17.643267+00:00'
 ---
 
 > **Resumo em 30 segundos:** A 17 de março de 2014, o legislador do Kuomintang Chang Ching-chung (張慶忠), deitado no chão com um pequeno microfone preso à lapela, levou trinta segundos para anunciar que o Acordo de Comércio de Serviços Cross-Strait era «considerado como já examinado». Na noite seguinte, mais de duzentos estudantes escalaram muros e ocuparam o Yuan Legislativo, usando um iPad para montar uma transmissão em direto de vinte e quatro horas, contornando todas as estações de televisão. Vinte e quatro dias depois, os estudantes retiraram-se; o acordo de serviços não foi rejeitado — foi abandonado pela história. Doze anos depois, os números dizem tudo: a dependência comercial de Taiwan face à China caiu de 42% para 31,5%. Eles venceram uma guerra que não sabiam que estavam a travar.
