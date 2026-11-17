@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T07:29:31+08:00",
-    "zhCommitHead": "cf86fc8d8",
+    "lastUpdated": "2026-11-18T07:30:16+08:00",
+    "zhCommitHead": "9a07389e8",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1186,
-        "fresh": 653,
+        "fresh": 654,
         "stale": 53,
         "metadata_stale": 462,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "ja": {
@@ -72296,7 +72296,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/people-with-disabilities.md",
+          "translatedFrom": "Society/身心障礙者.md",
+          "sourceCommitSha": "8b859ae9c",
+          "sourceContentHash": "sha256:dde7f7b28081c0a7",
+          "sourceBodyHash": "sha256:6dd2eb96bc0d111d",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 11839,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"

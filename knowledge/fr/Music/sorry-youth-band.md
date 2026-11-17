@@ -2,6 +2,7 @@
 title: "Sorry Youth : trois gars du sud chantent la solitude des provinciaux en taïwanais, et vingt ans plus tard, ils sont devenus la voix d'une génération"
 description: "En 2005, trois garçons ayant grandi à Tainan au son du rock décident d'écrire des chansons en taïwanais, avec un objectif simple : faire hocher la tête à leurs grands-parents. Le problème : seul Jiangjiang parlait taïwanais depuis l'enfance. De *Hai Kou Wei* à *Noise Apartment*, quatre albums entièrement en taïwanais, trois Golden Indie Music Awards du meilleur rock, deux records de financement participatif sur flyingV — Sorry Youth a transformé la solitude des travailleurs provinciaux en langage commun de toute une génération."
 date: 2026-04-27
+category: 'Music'
 tags:
   [
     'musique taïwanaise',
@@ -14,18 +15,19 @@ tags:
     'Golden Indie Music Awards',
     'rock de salariés',
   ]
-category: Music
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12min
 lastVerified: 2026-04-27
 lastHumanReview: false
-translatedFrom: Music/拍謝少年.md
-sourceCommitSha: '4b6d28c5'
+readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Music/拍謝少年.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-17T23:15:20.364382+00:00'
 ---
 
 > **En 30 secondes :** En 2005, trois garçons de Tainan décident de former un groupe de rock entièrement taïwanais après le festival Spring Scream. Le problème : seul Jiangjiang parlait taïwanais depuis l'enfance. _Hai Kou Wei_ (2012) a pour couverture un poisson-lait ; _Xiong Di Mei Meng Bu Ying Gai_ (2017) remporte le Golden Melody Award du meilleur design de pochette et le Golden Indie du meilleur album de rock ; _Dai Shi Hao Shi_ (2021) dépasse les 3,1 millions de dollars taïwanais sur flyingV ; _Noise Apartment_ (2024) bat à nouveau son propre record de financement et remporte le Golden Indie du meilleur album de rock pour la troisième fois. De groupe de salariés à musiciens à plein temps, la conviction de Vini, Jiangjiang et Zonghan n'a jamais changé : « Chacun doit d'abord bien vivre sa vie, et la musique suivra. »
