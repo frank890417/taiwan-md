@@ -27,6 +27,8 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** 2015 年 9 月 8 日上午，justfont 的金萱字型在 flyingV 上線募資，76 分鐘衝破 150 萬元門檻，最終 7,667 人投入 2,593 萬元。這篇從 1987 年華康成立講起，看一個天天被全台灣閱讀的產業怎麼塌掉、一群讀者怎麼被教出來；也講做字的人：畫佛像出身的林霞、太原路上鑄了半世紀鉛字的張介冠、十四歲入行畫招牌的王水河，以及金萱之後長出的開源字型、蘭陽明體與獨立設計師生態。
