@@ -2,9 +2,7 @@
 title: "Les « gens de l'extérieur » : d'une jeunesse ravie à l'identification à la terre taïwanaise"
 description: "En 1949, plus d'un million de personnes portant les stigmates du traumatisme et la nostalgie de leur terre natale traversèrent le détroit pour gagner Taïwan. Ils constituaient à la fois un groupe à haut risque de « prisonniers politiques » suspectés par le régime autoritaire et des « réfugiés de guerre » arrachés de force à leur patrie. Cet article dévoile comment, à travers quatre traumatismes psychologiques, la communauté des « gens de l'extérieur » a accompli la migration identitaire de « l'exilé » au « sédentaire »."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     "gens de l'extérieur",
@@ -16,15 +14,19 @@ tags:
     'littérature des villages militaires',
     'compatriotes du Dachen',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-04T18:48:57.755108+00:00'
 ---
 
 > **En bref (30 secondes) :**
@@ -96,7 +98,7 @@ Pour la troisième génération, « gens de l'extérieur » n'est souvent qu'un 
 
 [^11]: [Des « compatriotes du Dachen »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 
-[^12]: He Zhengzhe, _Dachen à Taïwan — une étude de cas sur les nouveaux immigrants des années 1950_ — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification. [何政哲：大陳過台灣－1950年代新移民的個案研究](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900)
+[^12]: [何政哲：大陳過台灣－1950年代新移民的個案研究](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900) — He Zhengzhe, _Dachen à Taïwan — une étude de cas sur les nouveaux immigrants des années 1950_ — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification
 
 [^13]: [Cloisons ethniques, injustice sociale et relations intimes dans le Taïwan de l'après-guerre : deux ouvrages « tardifs »](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — Fournit le contexte, les données ou les cadres événementiels pertinents pour cet article, servant de base narrative et de vérification.
 

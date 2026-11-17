@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-13T17:52:07+08:00'
+translatedAt: '2026-11-02T14:43:39.447833+00:00'
 ---
 
 # Die Fischerhäfen exportieren mehr als nur Fisch: Wie die taiwanesische Fischerei durch Forschungsschiffe, Märkte und technische Fachkräfte neu gestaltet wurde
@@ -140,12 +140,12 @@ Es gibt noch eine oft übersehene Ebene: die Arbeit von Frauen und Familien an L
 
 Ebenso integrierten die durch die Hafenmodernisierung entstandenen Straßen, Eisherstellung, Strom und Lagerhaltung das Fischerdorf in die städtische Lieferkette und machten es abhängiger von Treibstoffpreisen, Käufern aus anderen Städten und der Bauplanung der Regierung. Wenn der Fischmarkt verfiel, war nicht nur ein Gebäude betroffen, sondern ein ganzes Lebensrhythmus-System geriet ins Wanken. Deshalb muss die Geschichte der Fischerei jenseits der Produktionsmenge gelesen werden: Der Fang auf See ist nur der Anfang; die wahre Geschichte spielt sich nach dem Anlanden ab.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Modernisierung der taiwanesischen Fischerei](/de/history/taiwan-fishery-modernization) — Die zweite Hälfte desselben Meeres: Hochseeflotten, ausschließliche Wirtschaftszonen und Flaggenstaatsverantwortung
-- [Geschichte des Taiwan Agricultural Cooperative](/de/history/taiwan-farmers-association-history) — Systemische Veränderungen in ländlichen Organisationen, Finanzen und lokalen öffentlichen Schnittstellen
-- [Geschichte der taiwanesischen Post](/history/台灣郵政史) — Eine weitere öffentliche Infrastruktur, die lokale Gemeinschaften, Logistik und staatliche Verwaltung miteinander verband
-- [Geschichte des taiwanesischen Wassers](/history/台灣自來水史) — Wie Ingenieurwesen, Hygiene und das städtische Alltagsleben ein System bildeten
+- [Modernisierung der taiwanischen Fischerei](/de/history/taiwan-fishery-modernization) — Die zweite Halbzeit auf demselben Meer: Hochseeflotten, die ausschließliche Wirtschaftszone und die Verantwortung der Flaggenstaaten
+- [Geschichte der landwirtschaftlichen Genossenschaften in Taiwan](/de/history/taiwan-farmers-association-history) — Institutioneller Wandel von ländlichen Organisationen, Finanzwesen und lokalen öffentlichen Anlaufstellen
+- [Geschichte der Post in Taiwan](/de/lifestyle/taiwan-postal-service-history) — Eine weitere Infrastruktur, die lokale Gemeinschaften, Logistik und staatliche Verwaltung miteinander verknüpft
+- [Geschichte der Wasserversorgung in Taiwan](/de/geography/taiwan-tap-water) — Wie Ingenieurwesen, Hygiene und das städtische Alltagsleben gemeinsam Institutionen formten
 
 ## Referenzen
 

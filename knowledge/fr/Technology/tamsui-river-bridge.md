@@ -1,29 +1,31 @@
 ---
-title: "Le pont de Tamsui : à l'horizon de l'estuaire, un monument colossal conçu pour la « transparence »"
-description: "Le pont de Tamsui devrait être inauguré le 12 mai 2026. Conçu par l'équipe de l'architecte Zaha Hadid, ce pont à haubans asymétrique à pylône unique, fruit de trente ans de planification, tente de concilier la préservation du coucher de soleil sur Tamsui et la fluidification du trafic, redéfinissant le paysage de l'estuaire par ses lignes fluides."
+title: "Le pont Danjiang : sur l'horizon de l'estuaire, un immense repère existant pour la « transparence »"
+description: "Le pont Danjiang devrait être mis en service le 12 mai 2026. Ce pont à haubans asymétrique à tour unique, conçu par l'équipe de l'architecte de renom Zaha Hadid, a nécessité trente ans de planification. Au cœur de l'opposition entre la préservation du coucher de soleil de Tamsui et la fluidification du trafic, ses lignes fluides redéfinissent le paysage de l'estuaire de Taïwan."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
-    '淡江大橋',
+    'Pont Danjiang',
     'Zaha Hadid',
-    '淡水夕照',
-    '交通建設',
-    '建築美學',
-    '環境保護',
-    '工程技術',
+    'Coucher de soleil de Tamsui',
+    'Infrastructures de transport',
+    'Esthétique architecturale',
+    "Protection de l'environnement",
+    "Technologie d'ingénierie",
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-04T17:28:24.970691+00:00'
 ---
 
 > **En 30 secondes :**

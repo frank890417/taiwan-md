@@ -1,10 +1,8 @@
 ---
 title: 'Hồi giáo tại Đài Loan: Bức tranh tín ngưỡng từ tổ tiên họ Quách ở Tuyền Châu đến 300.000 lao động di trú'
 description: 'Năm 2025, dân số Hồi giáo tại Đài Loan vượt 300.000 người, trong khi dấu ấn Islam trên đảo quốc này đã trải dài suốt bốn thế kỷ. Từ những điều kiêng kỵ trong nghi lễ thờ cúng tổ tiên tại xóm họ Quách ở Lộc Cảng đến đại lễ kết thúc tháng Ramadan giữa đại sảnh lát ô đen trắng của Ga Đài Bắc, Đài Loan đang trải qua một cuộc tái cấu trúc tín ngưỡng, từ nguồn gốc tổ tiên bị che giấu đến quê hương nơi đất khách.'
-date: '2026-04-28'
-author: 'idlccp1984'
+date: 2026-04-28
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Hồi giáo',
@@ -14,15 +12,19 @@ tags:
     'họ Đinh ở Đài Tây',
     'lịch sử Đài Loan',
   ]
-readingTime: 8
-lastVerified: '2026-04-28'
-lastHumanReview: false
+subcategory: '宗教與民俗'
+author: 'idlccp1984'
 featured: false
+lastVerified: 2026-04-28
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-05T07:16:05.314215+00:00'
 ---
 
 > **Tổng quan trong 30 giây:** Hồi giáo tại Đài Loan không phải một nền văn hóa ngoại lai, mà là ký ức lâu đời ẩn sâu trong huyết mạch của đảo quốc. Từ hậu duệ cộng đồng “Hồi Đinh” ở Tuyền Châu theo Trịnh Thành Công đến Đài Loan vào cuối Minh đầu Thanh, cho tới 260.000 lao động di trú Hồi giáo Indonesia đang góp sức duy trì hệ thống chăm sóc dài hạn và ngành ngư nghiệp Đài Loan ngày nay, tín ngưỡng này đã trải qua một hành trình kỳ lạ, từ chỗ biến mất trong quá trình đồng hóa đến khi nở rộ giữa một xã hội đa nguyên.

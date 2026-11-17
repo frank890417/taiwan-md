@@ -1,77 +1,79 @@
 ---
-title: 'Pan ataúd: de nombre ominoso a exquisitez híbrida japonesa-occidental de Tainan'
-description: 'A fines de la década de 1940, en Shakaliba, Tainan, apareció un bocadillo llamado «tabla de hígado de pollo» que, por su forma singular, recibió en broma el nombre de «pan ataúd». Este plato, inventado por el señor Hsu Liu-yi, envuelve hígado de pollo y una masa cremosa en pan de molde frito y crujiente: no solo fue un suplemento nutritivo en la escasez material de la posguerra, sino que también llegó a aparecer en un reportaje de CNN y se convirtió en una carta de presentación internacional de la cultura culinaria híbrida japonesa-occidental de Tainan.'
+title: 'Pan de ataúd: de nombre de mal agüero a manjar sino-occidental de Tainan'
+description: 'A finales de la década de 1940, apareció en Sakhariba de Tainan un bocadillo llamado «pan de hígado de pollo», apodado burlonamente «pan de ataúd» por su forma única. Este plato inventado por el señor Hsu Liu-i, que envuelve hígado de pollo y natillas en tostada frita crujiente, no solo fue un aporte nutricional en la escasez de la posguerra, sino que llegó a ser reportado por la CNN, convirtiéndose en la tarjeta de presentación internacional de la cultura gastronómica «sino-occidental» de Tainan.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'bocadillos de Tainan',
-    'pan ataúd',
-    'Hsu Liu-yi',
-    'Shakaliba',
-    'tabla de hígado de pollo',
-    'reportaje de CNN',
+    'pan de ataúd',
+    'Hsu Liu-i',
+    'Sakhariba',
+    'pan de hígado de pollo',
+    'reportaje CNN',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/棺材板.md'
-sourceCommitSha: 'b7f6ebf9b'
-sourceContentHash: 'sha256:2019e39a8477f086'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:c1a6f8a2f2e30ae7'
 sourceBodyHash: 'sha256:d70608d1aa149287'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T10:53:09+08:00'
 ---
 
-> **Panorama en 30 segundos:** A fines de la década de 1940, el señor Hsu Liu-yi, de Shakaliba en Tainan, creó su original «tabla de hígado de pollo», que por su parecido con un sarcófago de piedra recibió de un profesor el apodo jocoso de «pan ataúd». Este plato, de nombre aparentemente ominoso pero lleno de creatividad, envuelve un relleno intenso en pan de molde frito y crujiente: no solo condensa la cultura culinaria híbrida japonesa-occidental del Taiwán de posguerra, sino que además fue cubierto por medios internacionales como CNN. Desde su relleno inicial de hígado de pollo hasta la versión actual con mariscos en salsa blanca, pasó de ser un bocadillo local a convertirse en una de las cartas de presentación gastronómicas internacionales más representativas de Tainan.
+> **Resumen en 30 segundos:** A finales de la década de 1940, el señor Hsu Liu-i de Sakhariba en Tainan vio cómo su exclusivo «pan de hígado de pollo» era apodado «pan de ataúd» por profesores, al parecerse su forma a un sarcófago de piedra. Este plato, de nombre aparentemente funesto pero rebosante de creatividad, envuelve un relleno rico en tostada frita crujiente; no solo es un reflejo de la cultura gastronómica «sino-occidental» de la posguerra en Taiwán, sino que ha merecido la cobertura de medios internacionales como CNN. Desde su relleno original de hígado de pollo hasta la actual salsa blanca de mariscos, ha pasado de ser un bocadillo local a la tarjeta de presentación gastronómica internacional más representativa de Tainan.
 
-A fines de la década de 1940, Taiwán se recuperaba lentamente de la escasez material de la posguerra. En el animado «Shakaliba» de Tainan, hoy mercado Kangle, nació discretamente un bocadillo novedoso [^1]. Consistía en una gruesa rebanada de pan de molde frito y crujiente, usada como recipiente para un relleno abundante, pero se hizo famoso por su nombre audaz: «pan ataúd». Este bocadillo de Tainan, que suena funesto pero resulta apetitoso, encarna en realidad una evolución singular de la cultura alimentaria taiwanesa de posguerra, así como la creatividad y la perseverancia de un cocinero.
+A finales de la década de 1940, Taiwán se recuperaba lentamente de la escasez de la posguerra, y en el bullicioso «Sakhariba» (actual mercado Kanglo) de Tainan, nació discretamente un nuevo bocadillo [^1]. Usaba tostada gruesa frita crujiente como base, con un relleno generoso, pero se hizo famoso por su atrevido nombre: «pan de ataúd». Este bocadillo de Tainan, de nombre aparentemente funesto pero que hace la boca agua, encierra en realidad la evolución única de la cultura gastronómica de la posguerra en Taiwán, así como la creatividad y la constancia de un chef.
 
-### El nacimiento de la tabla de hígado de pollo y el nombre de «ataúd»
+### El nacimiento del «pan de hígado de pollo» y el nombre de «ataúd»
 
-El inventor del «pan ataúd» fue el señor Hsu Liu-yi, fundador de Chihkan Shitang, antes llamado «Chihkan Dianxin Dian» o «Shengchang Lao Chihkan» [^2]. Ya hacia 1935 había abierto un puesto de bocadillos en Shakaliba, también conocido como Shengchang. Durante el periodo de dominio japonés fue reclutado como trabajador militar en el Sudeste Asiático, donde aprendió técnicas de cocina japonesa y occidental [^3]. Tras la Retrocesión, Hsu Liu-yi volvió a Tainan, incorporó técnicas de cocina occidental a ingredientes locales taiwaneses y creó la primera «tabla de hígado de pollo». Al mismo tiempo, promovió el «Lunch», comida rápida de estilo occidental; ambos fueron ejemplos representativos de la cocina híbrida de la posguerra.
+El inventor del «pan de ataúd» es el señor Hsu Liu-i, fundador del Comedor Chihkan (originalmente «Pastelería Chihkan» o «Viejo Chihkan del Campo Próspero») [^2]. Hacia 1935 ya tenía un puesto de bocadillos en Sakhariba (Campo Próspero); durante la época colonial japonesa fue reclutado para servir como porteador militar en el Sur (Nanyang), donde aprendió técnicas culinarias japonesas y occidentales [^3]. Tras la Retrocesión, Hsu Liu-i regresó a Tainan y fusionó la técnica occidental con ingredientes locales taiwaneses, creando el «pan de hígado de pollo» original, y promocionó al mismo tiempo el «Lunch» (comida rápida occidental), ambos representativos de la cocina mestiza de la posguerra.
 
-Sobre el origen del nombre, la versión más difundida cuenta que, presuntamente a fines de la década de 1950, alrededor de 1959, un profesor de un equipo arqueológico de la Universidad Nacional de Taiwán, aunque otras versiones mencionan a un profesor de la Universidad Nacional Cheng Kung o a un amigo profesor de Hsu, llegó al local para probar el plato. Al ver la forma del pan de molde una vez retirada la tapa, le pareció muy similar a un sarcófago de piedra excavado, y comentó en broma: «¡Esta tabla de hígado de pollo se parece a los sarcófagos de piedra que excavamos!» [^1] [^5]. Cuando Hsu Liu-yi lo escuchó, pensó que el nombre era especial y fácil de recordar, así que lo rebautizó formalmente como «pan ataúd». Poco después colgó el nuevo letrero del local y el plato se volvió un éxito inmediato [^2].
+Sobre el origen del nombre, la versión más extendida cuenta que a finales de la década de 1950 (hacia 1959), un profesor del equipo arqueológico de la Universidad Nacional de Taiwán (también se dice que era profesor de la Universidad Nacional Cheng Kung o un amigo profesor de Hsu) visitó el local para probarlo; al ver la forma de la tostada al levantar la tapa, muy parecida a un sarcófago de piedra recién excavado, bromeó: «¡Este pan de hígado de pollo tiene la forma de los sarcófagos que excavamos!» [^1] [^5]. Al oírlo, el señor Hsu Liu-i encontró el nombre tan peculiar como memorable, y lo adoptó oficialmente como «pan de ataúd», colocando el rótulo en la fachada; desde entonces se hizo famoso [^2].
 
-📝 Nota curatorial: Que un nombre aparentemente poco auspicioso pudiera ganar tanta popularidad por su singularidad quizá refleje la resiliencia con la que la sociedad taiwanesa transforma los desafíos de la vida mediante humor y creatividad.
+📝 Nota del curador: Un nombre aparentemente de mal agüero que, sin embargo, gana popularidad por su singularidad; quizá refleje la resiliencia de los taiwaneses para transformar con humor y creatividad los retos de la vida.
 
-### Del hígado de pollo a los mariscos: evolución del relleno y exposición internacional
+### De hígado de pollo a mariscos: evolución del relleno y proyección internacional
 
-El pan ataúd original tenía como relleno principal hígado de pollo, acompañado de salchicha curada, masa cremosa, arvejas y zanahoria. En tiempos de escasez material, era un suplemento nutritivo sumamente valioso [^4]. En sus primeras versiones también se añadía sepia al relleno para darle más capas de sabor. Sin embargo, con el paso del tiempo y para adaptarse al gusto del público, el relleno evolucionó gradualmente hacia la versión moderna más común, con mariscos y pollo en salsa blanca.
+El «pan de ataúd» original llevaba hígado de pollo como protagonista, acompañado de salchicha china, natillas, guisantes y zanahoria; en la escasez de entonces era un suplemento nutricional preciadísimo [^4]. Al principio, para enriquecer la textura, también se añadía calamar. Sin embargo, con el paso del tiempo y para satisfacer el gusto popular, el relleno fue evolucionando hacia la versión moderna de salsa blanca con mariscos y pollo.
 
-Este sabor taiwanés tan particular también atrajo la atención internacional. CNN dedicó un reportaje a este bocadillo bajo el nombre de "Coffin Bread", lo que lo convirtió en un emblema gastronómico de Tainan conocido internacionalmente [^6]. Sin embargo, con la turistificación, algunos comensales veteranos lamentan que los rellenos modernos tiendan a estar más diluidos y tengan una textura más ligera, menos espesa y sustanciosa que la de antes; lo describen como el desafío de una «forma más grande que el alma».
+Este sabor único de Taiwán atrajo la atención internacional; la CNN dedicó un reportaje a este bocadillo bajo el nombre de «Coffin Bread», convirtiéndolo en un emblema gastronómico internacional de Tainan [^6]. No obstante, con la turistificación, algunos gourmets lamentan que el relleno actual tienda a diluirse, con una textura más ligera, menos densa y sustanciosa que la de antaño, calificándolo como el reto de que «la forma prevalezca sobre el alma».
 
-### Forma ortodoxa de comerlo y consejos para prepararlo en casa
+### Forma ortodoxa de comerlo y consejos para hacerlo en casa
 
-La forma ortodoxa de comerlo en Chihkan Shitang es bastante meticulosa: primero se corta con cuchillo y tenedor la tapa crujiente del pan de molde, y luego se vierte la espesa salsa blanca sobre el pan para comerlo todo junto, de modo que la corteza crujiente y la suavidad del relleno generen un contraste intenso en la boca [^3]. Actualmente, una porción de pan ataúd cuesta alrededor de 70 dólares taiwaneses.
+La forma ortodoxa en el Comedor Chihkan es bastante ceremonial: hay que usar cuchillo y tenedor para cortar la tapa crujiente de la tostada, verter luego la densa salsa blanca sobre la tostada y comerlo todo junto, para que el crujido de la corteza y la sedosidad del relleno creen un fuerte contraste en la boca [^3]. Actualmente, una porción de pan de ataúd cuesta alrededor de 70 NT$.
 
-Si quieres intentarlo en casa, puedes preparar pan de molde en rebanada gruesa, idealmente pan de leche, y freírlo con control preciso de la temperatura del aceite hasta que quede dorado. En una versión doméstica sencilla, se puede usar horno o dorar el pan en sartén para reducir la cantidad de aceite. Para el relleno, sofríe cebolla, pollo, mariscos y verduras en mantequilla; luego añade leche y espesa ligeramente con fécula de maíz. En invierno resulta especialmente reconfortante, aunque conviene tener en cuenta que es bastante calórico y se disfruta mejor en una porción moderada.
+Quien quiera probar en casa puede preparar tostada gruesa (se recomienda tostada de leche) y freírla a temperatura precisa hasta que quede dorada. La versión casera simplificada puede hornearse o dorarse en sartén para reducir el aceite; el relleno se hace salteando cebolla, pollo, mariscos y verduras en mantequilla, y ligando después con leche y maicena. En invierno resulta especialmente reconfortante, pero hay que tener en cuenta su alto aporte calórico, por lo que conviene degustarlo con moderación.
 
-### Transmisión y memoria cultural: locales recomendados
+### Herencia y memoria cultural: locales recomendados
 
-Chihkan Shitang ha llegado hasta la tercera generación y mantiene hasta hoy su reputación como «la mejor tabla bajo el cielo» [^2] [^8]. Además del lugar de origen en el mercado Kangle, Tainan cuenta con varios locales tradicionales que vale la pena probar:
+El Comedor Chihkan ha llegado ya a la tercera generación, manteniendo intacta la fama de «la mejor tabla bajo el cielo» [^2] [^8]. Además del local original en el mercado Kanglo, Tainan cuenta con varios establecimientos veteranos que merecen la pena:
 
-- **Wangcheng Guancaiban**: situado en la calle antigua de Anping, ofrece una versión mini del pan ataúd, adecuada para viajeros que quieren probar varios bocadillos.
-- **Puestos alrededor de la Torre Chihkan**: ofrecen opciones más económicas y localizadas, y son un bocadillo cotidiano para muchos habitantes de Tainan.
+- **Pan de ataúd Wangcheng**: en la calle antigua de Anping, ofrece una versión mini, ideal para viajeros que quieran probar varios bocadillos.
+- **Puestos alrededor de la Torre Chihkan**: proponen opciones más económicas y localizadas, elegidas a diario por muchos tainaneses.
 
-Este bocadillo pasó de ser la invención de un solo local a convertirse en una memoria colectiva de la cultura culinaria de Tainan, representando la pasión y la creatividad de sus habitantes por la buena comida.
+Este bocadillo ha pasado de ser la invención de un solo local a convertirse en memoria colectiva de la cultura gastronómica de Tainan, representando la pasión y la creatividad de los tainaneses por la buena mesa.
 
 ### Referencias
 
-[^1]: Banco Nacional de Memoria Cultural. (sin fecha). Pan ataúd. Tomado de [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048)
+[^1]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048) — Biblioteca Nacional de la Memoria Cultural. (s.f.). Pan de ataúd. Recuperado de
 
-[^2]: Agriharvest. (8 de diciembre de 2022). 【Comer en el mercado】Chihkan Shitang: el local que inventó el pan ataúd, ochenta años de moda culinaria híbrida japonesa-occidental. Tomado de [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/)
+[^2]: [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/) — Agriharvest. (8 de diciembre de 2022). 【Comer en el mercado】Comedor Chihkan — el local inventor del pan de ataúd, 80 años de moda sino-occidental. Recuperado de
 
-[^3]: Consejo para los Asuntos de la Comunidad de Ultramar. (4 de enero de 2026). La Escuela de Chino Tianbai TCML inicia su semestre de primavera con una explicación del nombre «pan ataúd» y una conversación sobre la historia alimentaria de Taiwán. Tomado de [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652)
+[^3]: [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652) — Comisión de Asuntos de Chinos en el Extranjero. (4 de enero de 2026). La escuela china TCML de Tianbai inaugura la clase de primavera analizando el nombre «pan de ataúd» y la historia gastronómica de Taiwán. Recuperado de
 
-[^4]: Kindom Living. (6 de diciembre de 2021). 【Cocinar】Bocadillo casero: pan ataúd dorado y crujiente. Tomado de [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754)
+[^4]: [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754) — Kindom Living. (6 de diciembre de 2021). 【Cocina】Pan de ataúd casero, dorado y crujiente. Recuperado de
 
-[^5]: Taiwan Rotary Publishing. (sin fecha). Relatos extraordinarios de glotonería: el bocadillo emblemático de Tainan, el pan ataúd. Tomado de [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225)
+[^5]: [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225) — Publicaciones Rotary de Taiwán. (s.f.). Curiosidades gastronómicas: el bocadillo emblema de Tainan, el pan de ataúd. Recuperado de
 
-[^6]: Laihao. (23 de abril de 2026). De cocina híbrida de posguerra a bocadillo clásico de Tainan: el relleno del pan ataúd guarda 80 años de historia alimentaria de Taiwán. Tomado de [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread)
+[^6]: [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread) — Laihao. (23 de abril de 2026). De la cocina mestiza de posguerra al bocadillo clásico de Tainan: 80 años de historia gastronómica taiwanesa en el relleno del pan de ataúd. Recuperado de
 
-[^7]: Instagram Hao Yu. (24 de diciembre de 2025). El uso del hígado de pollo como ingrediente nutritivo para fortalecer el cuerpo dio forma al prototipo de este plato. Tomado de [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/)
+[^7]: [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/) — Instagram Haoyu. (24 de diciembre de 2025). El hígado de pollo como ingrediente fortificante dio origen al prototipo de este plato. Recuperado de
 
-[^8]: YouTube Taiwan 1001 Stories. (27 de julio de 2016). Pan ataúd de sabor tradicional que se vuelve adictivo al primer bocado; una tienda de 76 años que los viajeros de regreso a casa añoran, episodio 178 parte 5【Taiwan 1001 Stories】. Tomado de [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA)
+[^8]: [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA) — YouTube Taiwán 1001 Historias. (27 de julio de 2016). Pan de ataúd de sabor antiguo, adictivo al primer bocado; local de 76 años, el sabor que los retornados añoran, episodio 178 parte 5【Taiwán 1001 Historias】. Recuperado de

@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-08-04T13:18:20+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:33:39.445028+00:00'
 ---
 
 # Historia del movimiento ambiental en Taiwán
@@ -92,22 +92,23 @@ Al entrar en el siglo XXI, el movimiento ambiental en Taiwán presenta varias nu
 
 ## Desafíos y perspectivas
 
-El movimiento ambiental en Taiwán enfrenta varios desafíos continuos:
+El movimiento ambiental de Taiwán enfrenta varios desafíos persistentes:
 
-**Presión del desarrollo económico**: En la competencia global, mantener el equilibrio entre la protección ambiental y el crecimiento económico sigue siendo difícil. La transición energética y la transformación industrial requieren planificación a largo plazo y consenso social.
+**Presión del desarrollo económico**: En la competencia global, el equilibrio entre la protección ambiental y el crecimiento económico sigue siendo difícil. La transición energética y la transformación industrial requieren planificación a largo plazo y consenso social.
 
-**Riesgo de politización**: Los temas ambientales son susceptibles de ser politizados, lo que afecta la continuidad de las políticas. La política nuclear es un ejemplo evidente, con posturas distintas según el partido en el poder.
+**Riesgo de politización**: Los temas ambientales se politizan fácilmente, afectando la continuidad de las políticas. La política nuclear es un ejemplo claro: los diferentes partidos en el gobierno adoptan posturas distintas.
 
-**Diferencias generacionales de valores**: Existen diferencias en la percepción del valor ambiental entre distintas generaciones, lo que influye en la base social para la implementación de políticas.
+**Diferencias generacionales**: Las distintas generaciones tienen percepciones diferentes sobre los valores ambientales, lo que afecta la base social para impulsar políticas.
 
-**Limitación de recursos**: En comparación con las empresas y el gobierno, los recursos de los grupos ambientales son limitados, lo que afecta la escala y la sostenibilidad de sus acciones.
+**Limitación de recursos**: En comparación con empresas y gobierno, los grupos ambientalistas tienen recursos limitados, lo que afecta la escala y sostenibilidad de sus acciones.
 
-El movimiento ambiental en Taiwán ha experimentado cuarenta años de desarrollo, evolucionando de protestas contra la contaminación a una acción diversificada que busca el desarrollo sostenible. Este proceso refleja un cambio en los valores de la sociedad taiwanesa: de la búsqueda del crecimiento rápido a la importancia de la calidad de vida; de los intereses individuales a la responsabilidad generacional. El siguiente paso del movimiento ambiental será cómo establecer mecanismos de gobernanza ambiental más eficaces dentro del sistema democrático.
+El movimiento ambiental de Taiwán ha experimentado cuarenta años de desarrollo, evolucionando desde la lucha contra la contaminación hacia acciones diversas en busca del desarrollo sostenible. Este proceso refleja el cambio en los valores de la sociedad taiwanesa: de perseguir el crecimiento rápido a valorar la calidad de vida; del interés individual a la responsabilidad intergeneracional. El próximo paso del movimiento ambiental será cómo establecer mecanismos de gobernanza ambiental más efectivos dentro del sistema democrático.
 
 **Lecturas adicionales**:
 
-- [Debates sobre Taiwán y la energía nuclear](/es/society/taiwan-nuclear-debate) — Cómo el movimiento anti-nuclear surgió del movimiento ambiental y fue reconfigurado por la generación climática: una historia completa de tres referéndums en cuarenta años.
-- [Crisis climática en Taiwán y transición hacia el cero neto](/es/nature/taiwan-climate-change-net-zero-transition) — Cómo la conciencia ambiental se transforma en políticas nacionales de transición hacia el cero neto y la reestructuración energética.
+- [Taiwán y el debate nuclear](/es/society/taiwan-nuclear-debate) — Cómo el movimiento antinuclear surgió del movimiento ambiental y fue reconfigurado en la generación climática: la historia completa del debate de cuarenta años y tres referendos
+- [Crisis climática y transición a cero neto en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — Cómo la conciencia ambiental se transformó en políticas nacionales de transición a cero neto y reestructuración de la matriz energética
+- [Chi Po-lin](/es/people/chi-po-lin) — En 2013, 《Beyond Beauty: Taiwan from Above》 hizo que todo Taiwán viera en los cines el costo del desarrollo; después, las disputas sobre tierras nacionales y Asia Cement fueron asumidas por personas de diversas localidades
 
 ## Referencias
 

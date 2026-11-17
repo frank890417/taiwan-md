@@ -1,20 +1,32 @@
 ---
-title: 「台湾の繊維産業：夕暮れの産業からオリンピック機能服を支える隠れたチャンピオンへ」
-description: 「かつて『夕暮れ』と見なされていた伝統産業が、ペットボトルや廃棄漁網、さらには工場排ガスを回収することで、2024年パリ五輪で世界代表チームのサステナブルな戦闘服を支え、台湾の製造業のレジリエンス（回復力）という物語を転換させている。」
+title: '台湾の繊維産業：斜陽産業からオリンピック機能性ウェアの隠れたチャンピオンへ'
+description: 'かつて「斜陽産業」と見なされていた伝統産業が、ペットボトルのリサイクルや廃棄漁網の活用、さらには工場の排気ガスの回収技術を駆使し、2024年パリ五輪で世界の代表チームを支えるハイテクウェアを実現。台湾の伝統産業が持つレジリエンス（回復力）の物語を塗り替えます。'
 date: 2026-07-20
 category: 'Economy'
+tags:
+  [
+    '繊維産業',
+    '隠れたチャンピオン',
+    'オリンピック',
+    '循環経済',
+    '遠東新紡',
+    '儒鴻',
+    '聚陽',
+  ]
 subcategory: '經濟發展'
-tags: ['紡織業', '隠形冠軍', '奧運', '循環經濟', '遠東新', '儒鴻', '聚陽']
-readingTime: 10
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-07-23T23:06:50+08:00'
-author: 'Taiwan.md Contributors'
+translatedAt: '2026-11-04T16:06:20.590294+00:00'
 ---
 
 > 30秒概覽：台湾の繊維産業は、1960年代には勃興期の柱石でしたが、1990年代にはコスト圧力により「夕暮れの産業」という烙印を押されました。しかし、30年間の技術転換を経て、台湾は現在世界中の運動機能性布地の70%以上を供給しています[^1]。2024年パリ五輪における中華チームの「排ガスによる衣服製造」[^2]から、2026年ワールドカップ（世足）で出場する48チームのうち23チームが台湾産の糸を使用していること[^3]は、この島が廃棄物と先端技術を用いて、世界のサステナブルなファッションの基準を再定義していることを示しています。

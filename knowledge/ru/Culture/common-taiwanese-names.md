@@ -2,9 +2,7 @@
 title: 'Имена с рынка'
 description: 'Если на улице Тайваня громко позвать «Шуфэнь» или «Цзяхао», сколько людей обернётся? Эти имена — отражение тайваньского общества, записавшие коллективные представления разных поколений о «хорошей жизни».'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Социальная культура',
@@ -15,15 +13,20 @@ tags:
     'Цзяхао',
     'Ятин',
   ]
-readingTime: 6
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T05:00:16+08:00'
+translatedAt: '2026-11-05T08:41:18.326539+00:00'
 ---
 
 # Имена с рынка

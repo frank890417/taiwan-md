@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T16:28:02.657568+00:00'
 ---
 
 > Quy mô ngành phần mềm của Đài Loan chưa phải là hàng đầu thế giới, nhưng số lượng người dùng gắn thẻ Taiwan trên GitHub vượt quá 44.000 người, với hơn 70 sự kiện hackathon cộng đồng và hàng nghìn người đóng góp—hầu hết đều là các nhà phát triển cá nhân tự bỏ tiền túi sau giờ làm việc. Bài viết này không chỉ nói về g0v mà còn phác họa bản đồ hoàn chỉnh của văn hóa mã nguồn mở Đài Loan từ bốn góc độ: con người, cộng đồng, giáo dục và ngành công nghiệp.

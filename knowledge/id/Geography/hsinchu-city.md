@@ -35,10 +35,10 @@ imageCredit: 'Jiang / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-08T15:54:46+08:00'
+translatedAt: '2026-11-02T12:07:49.926601+00:00'
 ---
 
 # Kota Hsinchu: Zhaqian yang Dibuat dari Bambu pada Tahun 1733, Tempat Kelahiran Emas Taiwan Semiconductor (TSMC) pada Tahun 1980
@@ -204,17 +204,17 @@ Lain kali Anda mengunjungi Hsinchu, jangan hanya melihat pabrik chip di kawasan 
 
 ## Bacaan Lanjutan
 
-- [Kota Keelung](/id/geography/keelung-city) — Seri 22 Kota pilot: Memori pelabuhan yang dijajah Spanyol dari tahun 1626 hingga menjadi pelabuhan kontainer terbesar ketujuh di dunia pada tahun 1984, memiliki basis garis depan Perang Dingin seperti Hsinchu (Pulau Pinghe Keelung vs. Pangkalan Udara Hsinchu) dan nasib kota prefektur.
-- [Kota Chiayi](/id/geography/chiayi-city) — Seri 22 Kota: Kota prefektur yang juga dipisahkan dari pusatnya (pindah ke Taibao pada tahun 1991 vs. pindah ke Zhubei pada tahun 1989), membandingkan konsekuensi pembagian kota prefektur.
-- [Kabupaten Miaoli](/id/geography/miaoli-county) — Seri 22 Kota: Kabupaten tetangga yang dipisahkan dari Prefektur Hsinchu pada tahun 1887; kawasan Longtan dan Donglu di Zhaqian berada di Miaoli, menunjukkan luapan industri Hsinchu.
-- [Kabupaten Nantou](/id/geography/nantou-county) — Seri 22 Kota: Satu-satunya kabupaten yang tidak menghadap laut, memiliki struktur geografis "skala ≠ pentingnya" seperti Hsinchu (Nantou menopang seluruh sistem pegunungan tengah / Hsinchu menopang klaster semikonduktor).
-- [Kota Taoyuan](/id/geography/taoyuan-city) — Tetangga utara Hsinchu, awalnya dipertimbangkan untuk Institut Penelitian Industri pada tahun 1973 di Longtan, tetapi akhirnya memilih Hsinchu; kawasan Longtan Zhaqian berada di antara Taoyuan dan Hsinchu.
-- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Memisahkan diri dari Kota Hsinchu pada tahun 1982, pindah ke Zhubei pada tahun 1989, dan tetangga yang menampung pabrik 2 nanometer TSMC di Baoshan.
-- [Industri Semikonduktor Taiwan](/technology/台灣半導體產業) — Sejarah industri semikonduktor lengkap dari Institut Penelitian Industri pada tahun 1973 hingga 2 nanometer TSMC pada tahun 2025, Hsinchu adalah koordinat fisik untuk semua linimasa tersebut.
-- [TSMC](/companies/台積電) — Didirikan di Kawasan Ilmiah Hsinchu pada tahun 1987, memulai produksi massal 2 nanometer di Pabrik Baoshan pada kuartal keempat 2025.
-- [Taiwan Selama Perang Dingin](/history/冷戰時期的台灣) — Sejarah operasi pengintaian Pasukan Kelelawar Hitam dan Pasukan Kucing Hitam, Pangkalan Udara Hsinchu adalah pusat sejarah ini.
-- [Kawasan Ilmiah Taiwan](/geography/台灣科學園區) — Sejarah lengkap kawasan ilmiah dari Hsinchu pada tahun 1980, Nanshi pada tahun 1996, Zhongke pada tahun 2003, dan kawasan super besar Kaohsiung pada tahun 2025.
-- [Festival Zhongyuan Ji'long](/culture/雞籠中元祭) — Termasuk sistem kepercayaan lokal Dinasti Qing yang sama dengan Kuil Ci'enghuang Hsinchu, membandingkan ritual "menerima orang mati" (Keelung menerima hantu tentara asing pada tahun 1884 / Kuil Ci'enghuang mengurus dewa dan roh di seluruh Taiwan).
+- [Kota Keelung](/id/geography/keelung-city) — Pilot seri 22 Kota/Kabupaten: Memori kota pelabuhan dari penancapan bendera Spanyol pada 1626 hingga menjadi pelabuhan peti kemas terbesar ketujuh di dunia pada 1984; seperti Hsinchu, memiliki basis garis depan Perang Dingin (Pulau Heping Keelung vs. Pangkalan Angkatan Udara Hsinchu) dan nasib sebagai kota administratif provinsi.
+- [Kota Chiayi](/id/geography/chiayi-city) — Seri 22 Kota/Kabupaten: Sama-sama merupakan kota administratif provinsi yang terpecah akibat pemindahan pusat pemerintahan kabupaten (pemindahan pusat pemerintahan Kabupaten Chiayi ke Taibao pada 1991 vs. pemindahan pusat pemerintahan Kabupaten Hsinchu ke Zhubei pada 1989); membandingkan konsekuensi dari dua jenis pembagian administrasi kabupaten dan kota.
+- [Kabupaten Miaoli](/id/geography/miaoli-county) — Seri 22 Kota/Kabupaten: Kabupaten tetangga yang memisahkan diri dari Kabupaten Hsinchu pada 1887; Kawasan Houlong dan Kawasan Tongluo di Hsinchu Science Park berada di Miaoli, merupakan bentuk limpahan industri dari Hsinchu.
+- [Kabupaten Nantou](/id/geography/nantou-county) — Seri 22 Kota/Kabupaten: Satu-satunya kabupaten yang tidak berbatasan dengan laut; memiliki struktur geografis yang sama dengan Hsinchu dalam hal "skala ≠ kepentingan" (Nantou menopang seluruh sistem pegunungan tengah / Hsinchu menopang seluruh klaster semikonduktor).
+- [Kota Taoyuan](/id/geography/taoyuan-city) — Tetangga di sebelah utara Hsinchu; saat ITRI didirikan pada 1973, lokasi awal yang dipertimbangkan adalah Longtan, Taoyuan sebelum akhirnya memilih Hsinchu; Kawasan Longtan di Hsinchu Science Park membentang di antara Taoyuan dan Hsinchu.
+- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Memisahkan diri dari Kota Hsinchu pada 1982, pemindahan pusat pemerintahan kabupaten ke Zhubei pada 1989, dan merupakan kabupaten tetangga tempat pabrik 2 nanometer TSMC berada di Kecamatan Baoshan.
+- [Industri Semikonduktor Taiwan](/id/technology/taiwan-semiconductor-industry) — Sejarah industri lengkap dari ITRI pada 1973 hingga proses 2 nanometer TSMC pada 2025; Hsinchu adalah koordinat fisik bagi seluruh lini masa tersebut.
+- [TSMC](/id/economy/tsmc) — Didirikan pada 1987 di Hsinchu Science Park, produksi massal untuk proses 2 nanometer akan dimulai di pabrik Baoshan pada kuartal keempat tahun 2025.
+- [Taiwan pada Masa Perang Dingin](/history/冷戰時期的台灣) — Sejarah operasi pengintaian Pasukan Black Bat dan Pasukan Black Cat; Pangkalan Angkatan Udara Hsinchu adalah pusat dari periode sejarah ini.
+- [Science Park di Taiwan](/id/technology/science-park-development) — Sejarah lengkap Science Park: Hsinchu pada 1980, Southern Taiwan Science Park (STSP) pada 1996, Central Taiwan Science Park (CTSP) pada 2003, dan kawasan super besar di Kaohsiung pada 2025.
+- [Ritual Zhongyuan Keelung](/culture/雞籠中元祭) — Memiliki sistem kepercayaan lokal dari era Dinasti Qing yang sama dengan Kuil Kota Hsinchu; membandingkan dua jenis ritual "menampung arwah orang mati" (Keelung menampung arwah tentara Prancis tahun 1884 / Kuil Kota Hsinchu mengelola roh dan dewa di seluruh Taiwan).
 
 ## Sumber Gambar
 

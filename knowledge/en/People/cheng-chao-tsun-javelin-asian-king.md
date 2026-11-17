@@ -16,13 +16,15 @@ subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
-translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0a'
-sourceContentHash: 'sha256:ce2f1e81de54c692'
-sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-05-25T21:06:51Z'
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/鄭兆村.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:ce2f1e81de54c692'
+sourceBodyHash: 'sha256:efa67fc4a2da3f45'
+translatedAt: '2026-11-04T23:53:16.995971+00:00'
 ---
 
 # Cheng Chao-tsun: 91.36 Meters on the Last Throw — The Day Asian Javelin Changed Forever

@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-04-12
 lastHumanReview: true
 readingTime: '10min'
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
-translatedAt: '2026-07-26T19:42:09+08:00'
+translatedAt: '2026-11-04T16:28:49.863147+00:00'
 ---
 
 > **Ringkasan 30 detik:** TikTok bukan sekadar platform video pendek yang membuat orang terkenal, di Taiwan ia lebih merupakan sebuah "eksperimen kognitif terdesentralisasi". Melalui rekomendasi personalisasi ekstrem, ia membuat pengguna tanpa sadar menginternalisasi agenda politik orang lain sebagai pandangan dunia mereka sendiri. Survei 2025 menunjukkan, di kalangan remaja Taiwan usia 15 hingga 18 tahun, lebih dari 70 persen menghabiskan lebih dari 2 jam per hari di TikTok, dan rasa suka mereka terhadap Tiongkok naik diam-dami seiring jari yang menggeser, sementara pandangan negatif terhadap masyarakat Taiwan pun semakin dalam.

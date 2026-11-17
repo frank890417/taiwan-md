@@ -132,6 +132,15 @@ english_opener_hard_over = 10
 [profiles.pre-commit.options_overrides.seo-meta]
 applies_to = ["*"]
 
+# ── curation-gap A2「觸檔即硬」（2026-11-04 全站普查 §八 #7）────────────────────
+# A2 = 投稿走 PR 進站（§1b 規則 2026-08-04 生效後）卻沒標 curation: incubating。那是規則
+# 沒照做，不是策展判斷，所以本機 commit 觸到就擋，逼 heal 當場補標。A1（零證據＋單薄）
+# 是判斷題，維持 WARN。CI 不升（plugin 偵測 GITHUB_ACTIONS）：pr-frontmatter-gate 對投稿 PR
+# 逐檔跑這個 profile，投稿者的新文在 PR 裡必中 A2，標記是維護者 merge 後的事（merge-first）。
+# 第一波補標（同日）後全站 A2 歸零，所以這條上線時沒有存量會被擋。
+[profiles.pre-commit.options_overrides.curation-gap]
+a2_severity = "hard"
+
 [profiles."rewrite-stage-3"]
 # REWRITE-PIPELINE Stage 3 (Verify): quality-scan ≤ 3 budget.
 checks = ["prose-health"]
@@ -188,6 +197,10 @@ viz-health = "hard"
 min_chars = 4500
 
 [profiles."rewrite-stage-4".options_overrides.image-health]
+# 2026-11-04 全站普查 §八 #9：新文章必須有封面圖（frontmatter image）。只在 REWRITE 的
+# stage-4／4-5 升 hard；ci-deploy／pre-commit 吃 plugin 預設 warn（投稿路徑與 904 篇存量
+# 只提醒不擋）。報告 reports/article-health-census-2026-11-04.md。
+cover_required_severity = "hard"
 # 2026-06-07 哲宇 directive (REWRITE v6.8 媒體完整度低標提升)：length_scaled —
 # effective_min = max(3, round(prose-CJK / 1200)) → 4500→4 / 7000→6 / 9000→8；base 3 是
 # 短 depth floor (黃魚鴞 3635 字/3 媒體 全過)。named 富媒體範本 (設研院 5 / 天下 6 / 複雜 13)
@@ -205,6 +218,7 @@ checks = ["image-health"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4-5".options_overrides.image-health]
+cover_required_severity = "hard"
 min_images = 3
 length_scaled = true
 cjk_per_media = 1200

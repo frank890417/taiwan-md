@@ -1,14 +1,14 @@
 ---
-title: 'Chim Cào Giang Đen Vàng: Loài Chim Mơ Ước Của Những Người Yêu Chim, Con Chim Ngu Trong Trường Học'
-description: 'Từ năm 1985 đến 1992, trong 4.000 bản ghi chép chim lâu nấm của Hiệp hội Chim Hoang dã Trung Hoa, chim Cào Giang Đen Vàng chỉ chiếm 25 bản ghi, là một "chim Cù lũ hiếm gặp". Ba mươi năm sau, nó xuất hiện hàng ngày trên đường Dâu Liễu tại Đài Bắc, công viên rừng An Tôn. Lý thuyết phổ biến là "nó không còn sợ con người", nhưng nghiên cứu của Nguyễn Hiếu Duy từ Đại học Đài Bắc từ năm 2010 trở đi chỉ ra một câu trả lời khác: các khuôn viên đại học tập trung cao trong thành phố Đài Loan và bãi cỏ không phun thuốc trừ sâu của Đài Loan đã tái tạo chính xác vị trí sinh cư rừng hạ độ cao của nó — chim không thay đổi, nhưng địa điểm thay đổi.'
+title: 'Diệc mồi mào đen: Loài mơ ước của người quan sát chim, chim to ngáo và chim khoai lang trong khuôn viên trường'
+description: 'Diệc mồi mào đen chính là loài chim mà mọi người trong khuôn viên trường gọi là «chim khoai lang» «chim to ngáo». Từ năm 1985 đến 1992, trong 4.000 bản ghi của Hội Chim Trung Hoa, loài này chỉ chiếm 25 bản ghi, là loài chim cư trú hiếm gặp trong sách định danh; ba mươi năm sau, chúng xuất hiện hàng ngày tại Đại đạo Dừa của Đại học Quốc gia Đài Loan và Công viên Rừng Đại An. Lời giải thường nghe là chúng trở nên không sợ người, nghiên cứu gắn vòng chân của Viên Hiếu Vi tại Đại học Quốc gia Đài Loan chỉ ra một câu trả lời khác: khuôn viên trường rậm rạp như rừng già và những bãi cỏ không phun thuốc bảo vệ thực vật chính xác sao chép lại môi trường rừng thấp nguyên bản của chúng. Chim không thay đổi, mà đất đai đã thay đổi.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
     'Sinh thái Đài Loan',
-    'Chim đô thị',
-    'Chim Cào Giang Đen Vàng',
-    'Con chim ngu',
+    'Chim thành phố',
+    'Diệc mồi mào đen',
+    'Chim to ngáo',
     'Khoa học công dân',
   ]
 subcategory: '野生動物'
@@ -16,7 +16,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-researchReport: reports/research/2026-04/黑冠麻鷺.md
+researchReport: 'reports/research/2026-04/黑冠麻鷺.md'
 image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp'
 imageCredit: 'Dr. Raju Kasambe'
 imageLicense: 'CC BY-SA 3.0'
@@ -31,16 +31,20 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 23,070 曝光 149 點擊（0.65%），最大查詢「地瓜鳥」8,206＋「地瓜 鳥」1,564 曝光，title 與 description 都沒有這個俗名；title 補「地瓜鳥」，description 首句先講俗名'
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:74ac37cae326eaa1'
-sourceBodyHash: 'sha256:9c1e23df6047812e'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:55a53c683cb2fe02'
+sourceBodyHash: 'sha256:d2a2bc2c14be17d0'
+translatedAt: '2026-11-05T16:03:29.824950+00:00'
 ---
 
-# Chim Cào Giang Đen Vàng: Loài Chim Mơ Ước Của Những Người Yêu Chim, Con Chim Ngu Trong Trường Học
+# Chim Cào Giang Đen Vàng: Loài chim mơ ước của người quan sát chim, "con chim to đùng" và "con chim khoai lang" trong khuôn viên trường
 
-> **Tóm tắt 30 giây:** Chim Cào Giang Đen Vàng (_Gorsachius melanolophus_) trong các bản ghi chép chim hoang dã Đài Loan từ 1985–1992 chỉ là một "chim cù lũ hiếm gặp" chiếm 25 bản ghi trong 4.000 bản ghi, nhưng ngày nay lại xuất hiện hàng ngày trên đường Dâu Liễu tại Đài Bắc và công viên rừng An Tôn. Phó giáo sư Khoa Lâm nghiệp Đài Bắc Đinh Tông Tô mô tả loài chim này là một "loài chim mơ ước với hành động bốc đồng" trong mắt những người yêu chim Đông Nam Á, "kể từ ba mươi năm trước, không biết vì sao, chim Cào Giang Đen Vàng ở Đài Loan bắt đầu trở nên táo bạo hơn". Giải thích gần với sự thật hơn chỉ hướng sang một hướng khác: các khuôn viên đại học tập trung cao trong thành phố Đài Loan và bãi cỏ không phun thuốc đã tái tạo chính xác vị trí sinh cư rừng hạ độ cao của nó. Chim không thay đổi, nhưng địa điểm thay đổi.
+> **Tóm tắt 30 giây:** Chim Cào Giang Đen Vàng (_Gorsachius melanolophus_) trong hồ sơ quan sát chim hoang dã của Đài Loan năm 1985–1992 là "loài chim cư trú hiếm" chỉ chiếm 25 trên 4.000 bản ghi, nhưng hôm nay lại thấy hằng ngày tại rừng dừa Đại học Đài Loan và Công viên Rừng Đại An. Phó giáo sư khoa Lâm nghiệp Đại học Đài Loan Đinh Tông Tố mô tả loài chim này ở Đông Nam Á là "loài chim mơ ước có hành tung bay bổng" trong mắt người quan sát chim, "từ ba mươi năm trước, vì lý do không rõ, chim Cào Giang Đen Vàng của Đài Loan bắt đầu trở nên táo bạo". Giải thích gần với sự thật hơn chỉ về một hướng khác: các khuôn viên trường học rậm rạp như rừng và bãi cỏ không phun thuốc trừ sâu của thành phố Đài Loan chính xác sao chép lại môi trường sống rừng thấp nguyên bản của chúng. Chim không thay đổi, mà đất mới thay đổi.
 
 ## Loài Chim Mơ Ước Của Đông Nam Á, Khách Thường Của Đường Dâu Liễu Tại Đài Bắc
 

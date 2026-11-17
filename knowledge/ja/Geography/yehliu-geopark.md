@@ -1,6 +1,7 @@
 ---
 title: '野柳（ヤリュウ）：魔の岬の上で、「女王」の戴冠と幕引きを見守る時間との競走'
 description: '1962年の岩石の亀裂という偶然が野柳の女王頭を「戴冠」させたが、この世界的な地景は毎年2センチずつ消えていく。スペイン人が「魔の岬（Punto Diablos）」と呼んだ地から全国民が守る文化的シンボルまで、野柳の物語は地質の奇観だけでなく、台湾人が自然の法則と感情的な執着の間でいかに「手放すこと」を学んだかの過程でもある。'
+date: 2026-04-26
 category: 'Geography'
 tags:
   [
@@ -10,17 +11,19 @@ tags:
     '万里（ワンリー）',
     '林添禎（リン・ティエンジェン）',
   ]
-date: 2026-04-26
-lastVerified: 2026-04-26
-lastHumanReview: false
+subcategory: '地形與地質'
 author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-26
+lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-05-16T22:35:34Z'
+translatedAt: '2026-11-05T05:07:16.155459+00:00'
 ---
 
 # 野柳（ヤリュウ）：魔の岬の上で、「女王」の戴冠と幕引きを見守る時間との競走

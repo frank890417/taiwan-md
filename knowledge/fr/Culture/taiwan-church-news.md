@@ -2,27 +2,31 @@
 title: 'Le Taiwan Church News : un journal qui a vécu cent quarante ans, et le jour où il fut confisqué'
 description: "En 1885, le missionnaire britannique Thomas Barclay imprima à Tainan le premier journal de Taïwan, en écriture latine du taïwanais (pe̍h-ōe-jī). Ce journal fut suspendu par le gouvernement japonais, interdit d'utiliser la langue maternelle par le Kuomintang, et l'intégralité d'un numéro fut saisi par le Commandement de la Garde nationale en 1987 pour avoir couvert l'Incident du 28 Février. Chaque fois qu'il fut réprimé, il revint à la vie. En 2025, il fête ses 140 ans, et sa supplément littéraire discute de l'IA générative."
 date: 2026-04-29
-tags:
-  - 'Médias'
-  - 'Church News'
-  - 'Pe̍h-ōe-jī'
-  - 'Église presbytérienne'
-  - "Liberté d'expression"
-  - 'Incident du 28 Février'
-  - 'Taïwanais'
-  - 'Politique linguistique'
 category: 'Culture'
+tags:
+  [
+    'Médias',
+    'Church News',
+    'Pe̍h-ōe-jī',
+    'Église presbytérienne',
+    "Liberté d'expression",
+    'Incident du 28 Février',
+    'Taïwanais',
+    'Politique linguistique',
+  ]
 subcategory: '媒體與出版'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 10
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/台灣教會公報.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3439ffa9774025fa'
 sourceBodyHash: 'sha256:2e121ca67feccc95'
-translatedAt: '2026-06-11T16:39:06Z'
+translatedAt: '2026-11-05T07:16:00.179465+00:00'
 ---
 
 > **En 30 secondes :** Le 12 juin 1885 (11e année du règne de l'empereur Guangxu des Qing), le missionnaire de l'Église presbytérienne britannique Thomas Barclay publia le _Taiwan Fucheng Church News_ (《台灣府城教會報》) à Tainan, imprimé en écriture latine de l'Église (pe̍h-ōe-jī, « écriture vernaculaire »), le premier journal de l'histoire de Taïwan. Ce journal traversa les périodes Qing, japonaise et autoritaire de l'après-guerre, fut suspendu deux fois, interdit d'utiliser la langue maternelle, confisqué en totalité par le Commandement de la Garde nationale, et continue de paraître aujourd'hui. En 2025, il fête ses 140 ans, ce qui en fait la publication périodique la plus ancienne encore en activité à Taïwan. Son supplément littéraire couvre des sujets allant de la théologie aux questions sociales, et depuis 2022, il publie même des chroniques et commentaires sur l'intelligence artificielle générative.

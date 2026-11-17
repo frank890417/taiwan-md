@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T03:21:32.208696+00:00'
+translatedAt: '2026-11-04T16:18:05.865548+00:00'
 ---
 
 **Tóm tắt 30 giây:** Tây La ở Vân Lâm, bờ nam sông Trọc Thủy, một thị trấn nhỏ hơn 40.000 người. Người ngoài nhớ đến trước hết là cây cầu Tây La màu đỏ, nhưng đời sống người địa phương là một chuyện khác: nước tương đậu đen phải ủ 180 ngày, những ngôi nhà phố Baroque trên lão gia Diên Bình đứng từ những năm 1920 đến nay, Thánh mẫu Thái Bình tại Phúc Hưng Cung quản lý việc lớn nhỏ địa phương đã ba trăm năm, còn Thất Khảm Võ Quán của người di cư thời nhà Thanh đã biến tổ chức tự vệ thành phim truyền hình. Bài viết này không coi Tây La như phụ kiện của cây cầu, mà đặt cây cầu trở lại dòng thời gian của thị trấn.[^1] [^2] [^3] [^4]

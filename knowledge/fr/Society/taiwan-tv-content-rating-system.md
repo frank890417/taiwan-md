@@ -1,28 +1,30 @@
 ---
 title: "Les gardiens de l'écran : l'évolution du système de classification des films et séries à Taïwan"
 description: 'Le système de classification taïwanais incarne le passage de la "censure d''État" sous la loi martiale à la "protection de l''enfance" à l''ère démocratique. De l''abolition de la loi sur la censure cinématographique en 1983 à la naissance de la catégorie "Protégé" inspirée par Jurassic Park en 1993, jusqu''à l''harmonisation complète au système à cinq niveaux en 2026, cet article retrace une longue évolution entre droit du spectateur et responsabilité sociale.'
+date: 2026-04-08
 category: 'Society'
-subcategory: '媒體與傳播'
 tags:
   [
-    classification des films,
-    Jurassic Park,
-    loi sur le cinéma,
-    Ministère de la Culture,
-    loi martiale,
-    protection de l'enfance,
+    'classification des films',
+    'Jurassic Park',
+    'loi sur le cinéma',
+    'Ministère de la Culture',
+    'loi martiale',
+    "protection de l'enfance",
   ]
+subcategory: '媒體與傳播'
 author: 'Taiwan.md Contributors'
-date: 2026-04-08
-readingTime: 15
+featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-04-14T12:32:34+08:00'
-featured: false
+translatedAt: '2026-11-04T19:20:00.851712+00:00'
 ---
 
 > **Résumé en 30 secondes :** Le système de classification taïwanais fut longtemps une paire de ciseaux. Avant 1983, les films devaient passer une "inspection" et non une simple classification — la censure politique et morale était la norme. En 1993, la polémique autour de Jurassic Park révéla les lacunes du système à trois niveaux, donnant naissance à la catégorie "Protégé". Aujourd'hui, Taïwan dispose d'un système à cinq niveaux couvrant cinéma, télévision, vidéo et jeux vidéo, transformant l'"interdiction" en "orientation", pour protéger à la fois la diversité audiovisuelle et la sécurité des plus jeunes.

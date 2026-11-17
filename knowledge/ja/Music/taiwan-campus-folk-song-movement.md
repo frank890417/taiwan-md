@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T12:07:01+08:00'
+translatedAt: '2026-11-02T00:43:46.414503+00:00'
 ---
 
 # 台湾民歌運動
@@ -147,10 +147,10 @@ translatedAt: '2026-10-10T12:07:01+08:00'
 
 ## 関連記事
 
-- [台湾のポップ音楽の発展](/music/台灣流行音樂發展) — 民歌の後、ロー・タイヤからチェン・チィチン、チャン・シュエへの華語ポップのメイン軸
-- [解禁後の台湾文学](/ja/art/post-martial-law-taiwanese-literature) — 1987 年の解禁後、民歌の「自分の歌を歌う」精神と同じく文化的自覺運動
-- [台湾映画](/ja/art/taiwanese-cinema) — 同時期の台湾新映画運動、1970-80 年代台湾の本土文化覚醒の別の軸
-- [サン・チョ](/ja/people/san-mao) — 『オリーブの木』の原作詞人、歌詞が改変された後華語世界に広まった
+- [台湾ポップミュージックの発展](/ja/music/golden-melodies-legacy-taiwan-pop-music) — 民歌以降、羅大佑（ロウ・ダイユ／ルオ・ダーユ）から陳綺貞（チェン・チーティン／チェン・イーヂェン）、張懸（チャン・シュエン／ジャン・シュアン）へと続く華語ポップミュージックの主流軸
+- [解厳後の台湾文学](/ja/art/post-martial-law-taiwanese-literature) — 1987年の解厳後に起こったもう一つの文化自覚運動であり、民歌の「自分の歌を歌う」精神と同源である
+- [台湾映画](/ja/art/taiwanese-cinema) — 同時期に展開された台湾ニュー・シネマ運動。1970〜80年代における台湾本土文化覚醒のもう一つの軸
+- [三毛（サン・マオ）](/ja/people/san-mao) — 〈オリーブの木〉の原詞を手がけた詩人。その歌詞は改変された後、華語圏全体に広まった
 
 ---
 

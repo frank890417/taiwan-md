@@ -2,9 +2,7 @@
 title: '대만 만화'
 description: '1970년대 만화 왕국의 류싱친과 아오유샹에서, 1991년 일본을 사로잡아 “아시아의 지보”가 된 정문, 《장자설》로 고전 철학을 만화화한 차이즈중을 거쳐, 2010년 금만장과 2017년 CCC 창작집에 이르기까지, 대만 만화는 일본 만화의 협공 속 침체기를 지나 자기만의 독창적 목소리를 되찾아가고 있다.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
     '만화',
@@ -16,16 +14,18 @@ tags:
     'CCC 창작집',
     '롼광민',
   ]
-readingTime: 11
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
-translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
-sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-05-24T05:06:32+08:00'
 difficulty: 'beginner'
+readingTime: 11
+translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
+sourceBodyHash: 'sha256:dd1128570e96c06e'
+translatedAt: '2026-11-02T15:26:34.406086+00:00'
 ---
 
 # 대만 만화
@@ -113,11 +113,11 @@ CCC의 성공은 작품 품질의 향상에만 있지 않았다. 그것은 대�
 
 대만 만화의 부흥은 산업의 문제인 동시에 문화 정체성의 문제이기도 하다. 대만 만화가들이 자기 필치로 대만의 이야기를 그리기 시작하고, 독자들이 지역 작품에 정체감을 느끼기 시작할 때, 우리가 보는 것은 문화적 자신감의 재건이다. 이러한 자신감은 열린 문화적 자각에 속한다. 외래문화의 장점을 감상하면서도 자기 문화의 특징을 소중히 여기는 태도다.
 
-## 더 읽을거리
+## 연관 읽을거리
 
-- [대만 애니메이션·만화 문화](/ko/culture/taiwan-anime-culture) — 독자 시각의 애니메이션·만화 소비문화: 코스프레, 동인지, 애니메이션·만화 행사, 세대 기억
-- [대만 영화](/ko/art/taiwanese-cinema) — 대만 시각 서사의 또 다른 축
-- [대만 현대문학의 발전](/art/台灣當代文學發展) — 대만 창작의 자기의식이 진화해온 문자적 층위
+- [타이완 애니메이션 및 만화 문화](/ko/culture/taiwan-anime-culture) — 독자 관점의 애니메이션·만화 소비 문화: 코스프레, 동인지, 애니메이션 전시회, 세대적 기억
+- [타이완 영화](/ko/art/taiwanese-cinema) — 타이완 시각 서사의 또 다른 축
+- [타이완 현대 문학의 발전](/ko/art/contemporary-taiwanese-literature) — 타이완 창작 자아의식 진화를 보여주는 텍스트 층위
 
 ## 참고 자료
 

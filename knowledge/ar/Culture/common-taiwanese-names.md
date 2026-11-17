@@ -2,9 +2,7 @@
 title: 'أسماء السوق'
 description: "في شوارع تايوان، إذا صرخت باسم 'شوفن' أو 'جا هاو'، كم من الناس سيستديرون؟ هذه الأسماء هي انعكاس للمجتمع التايواني، تسجل تصورًا جماعيًا عن 'حياة جيدة' عبر أجيال مختلفة."
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'الثقافة الاجتماعية',
@@ -15,16 +13,20 @@ tags:
     'جا هاو',
     'يا تينغ',
   ]
-readingTime: 6
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
-slug: popular-names-taiwan
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T21:33:48+08:00'
+translatedAt: '2026-11-05T07:27:42.580254+00:00'
 ---
 
 # أسماء السوق

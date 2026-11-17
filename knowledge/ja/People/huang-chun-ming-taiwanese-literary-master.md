@@ -3,28 +3,20 @@ title: '黄春明：羅東1935、『海を見る日々』から『息子の大�
 description: '1935年2月13日、宜蘭羅東に生まれました。『海を見る日々』は1967年、 『息子の大きな人形』は1969年に発表され、台湾郷土文学の核心である小人物への関心を代表しています。1977年に郷土文学論争が起こり、吳三連文芸賞と国家文芸賞を受賞しました。次男の黄国峻（作家）は2003年6月20日に自殺しました。侯孝賢は1983年に作品を映画化しました。2026年現在も健在です。'
 date: 2026-03-19
 category: 'People'
-tags:
-  - '文学'
-  - '郷土文学'
-  - '宜蘭'
-  - '小人物'
-  - '息子の大きな人形'
-  - '海を見る日々'
+tags: ['文学', '郷土文学', '宜蘭', '小人物', '息子の大きな人形', '海を見る日々']
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "作品の発表年の正しい順序（海を見る日々1967が息子の大きな人形1969より先）から切り込むことで、時系列の確認は事実の正確性を確認する手段でもあります。"
-#   whats_excluded: "各短編の逐章分析；黄大魚子ども劇団の歴年公演；宜蘭文化活動の詳細"
-#   where_it_hedges: "『海を見る日々』1967年の発表時期はウィキペディアを基準としています（P0⚠️実証確認を推奨）"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:67504d464a04b735'
-sourceBodyHash: 'sha256:ab0b19ccbbb03dd2'
-translatedAt: '2026-05-22T08:13:48+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:fa94afa39f837939'
+sourceBodyHash: 'sha256:59fc287ce8c0baeb'
+translatedAt: '2026-11-04T22:38:24.699392+00:00'
 ---
 
 # 黄春明：羅東1935、『海を見る日々』から『息子の大きな人形』までの小人物の書き手

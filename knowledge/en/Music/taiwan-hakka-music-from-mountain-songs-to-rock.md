@@ -1,21 +1,31 @@
 ---
-title: "Taiwanese Hakka Music: From Mountain Songs to Lin Sheng-xiang's Award Refusal and the Politics of Language"
-description: 'Hakka mountain songs originated in labor life, while Hakka eight-tone ensembles accompanied weddings and funerals. In 1999, the Labor Exchange Band won the Golden Melody Awards for Best Composer and Best Producer with *We Are Going to Sing Mountain Songs*, ushering in the era of Hakka rock. The 14th Golden Melody Awards in 2003 established the Best Hakka Vocalist category; in 2004, Hsieh Yu-wei became its first recipient. In 2007, Lin Sheng-xiang won with *Planting Trees* but refused the award on stage, calling for classification by musical genre rather than language, igniting a debate over the existence of language-based categories that led to the creation of the Golden Indie Music Awards three years later. Hakka TV, founded in 2003, has continued to expand the visibility of Hakka-language music. The threat of language loss persists, but the tension between preservation and innovation continues to drive Hakka musicians forward.'
+title: "Taiwanese Hakka Music: From Mountain Songs to Lim Sheng-hsiang's Linguistic Politics of Refusing Awards"
+description: 'Hakka mountain songs originated from labor life, while Hakka Eight Tones are used for weddings and funerals. In 1999, the band Makeshift Studio won Best Composer and Best Producer at the Golden Melody Awards with "We Are Here to Sing Mountain Songs," ushering in a generation of Hakka rock. The 14th Golden Melody Awards established the Best Hakka Artist award in 2003, with Hsieh Yu-wei becoming the first winner in 2004. In 2007, Lim Sheng-hsiang won for "Planting Trees" but refused to accept the award on the spot, calling for musical genres rather than linguistic categories to be used for classification. This sparked a debate over the existence of Hakka language awards and eventually led to the creation of the Golden Indie Music Awards three years later. The establishment of Hakka Television in 2003 has continued to expand the visibility of Hakka music. While the threat of language loss persists, the tension between preservation and innovation continues to drive Hakka musicians forward.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '傳統音樂'
 tags:
-  ['客家音樂', '山歌', '客家八音', '林生祥', '交工樂隊', '客語歌曲', '金曲獎']
-readingTime: 10
+  [
+    'Hakka music',
+    'Mountain songs',
+    'Hakka Eight Tones',
+    'Lim Sheng-hsiang',
+    'Makeshift Studio',
+    'Hakka songs',
+    'Golden Melody Awards',
+  ]
+subcategory: '傳統音樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-05-18T05:08:07+08:00'
+translatedAt: '2026-11-04T16:21:00.444887+00:00'
 ---
 
 # Taiwanese Hakka Music: From Mountain Songs to Lin Sheng-xiang's Award Refusal and the Politics of Language
@@ -88,18 +98,18 @@ The digital age also brings new opportunities: streaming platforms allow Hakka m
 
 ## References
 
-[^1]: [Music Without Borders — Lin Sheng-xiang: The Last Award I Want Is the Hakka One | Coolloud](https://www.coolloud.org.tw/node/3817) — Confirms Lin Sheng-xiang's motivation for refusing the award and his statement.
+[^1]: [Music Knows No Borders, Lin Sheng-hsiang: The One Award I Least Want to Win | Kulau](https://www.coolloud.org.tw/node/3817) — Confirms Lin Sheng-hsiang's motivation for refusing the award and his statement.
 
-[^2]: [National Center for Traditional Arts: Hakka Eight-Tone Documentation](https://www.ncfta.gov.tw/) — Explains the suona-centered practice of Hakka eight-tone ensembles.
+[^2]: [National Center for Traditional Arts: Hakka Ba-yin Transmission Materials](https://www.ncfta.gov.tw/) — An explanation of the practice of Hakka Ba-yin, which primarily features the suona as the lead instrument.
 
-[^3]: [Bureau of Audiovisual and Music Industry Development, Ministry of Culture: Past Winners and Nominees](https://www.bamid.gov.tw/information_176_64106.html) — Confirms _We Are Going to Sing Mountain Songs_ won Best Composer and Best Producer at the 11th Golden Melody Awards (not Best Band).
+[^3]: [Ministry of Culture, Bureau of Audiovisual and Music Industry Development: List of Previous Winners and Nominees](https://www.bamid.gov.tw/information_176_64106.html) — Confirms that "We Are Coming to Sing Mountain Songs" won Best Composer and Best Producer at the 11th Golden Melody Awards (not Best Band).
 
-[^4]: [14th Golden Melody Awards — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirms the 14th Awards (2003) established the Best Hakka Vocalist category for the first time; renamed Best Hakka Singer at the 18th Awards (2007).
+[^4]: [14th Golden Melody Awards — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirms that the Best Hakka Vocalist award was first established in 2003 at the 14th awards; renamed to Best Hakka Singer in 2007 at the 18th awards.
 
-[^5]: [Hsieh Yu-wei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirms Hsieh Yu-wei as the 15th Golden Melody Awards (2004) Best Hakka Vocalist winner; representative album _Yi Chai, Hua Shu Xia_.
+[^5]: [Hsieh Yu-wei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirms Hsieh Yu-wei as the winner of the Best Hakka Vocalist award at the 15th Golden Melody Awards in 2004; representative work: "One Person, Under the Flower Tree".
 
-[^6]: [Golden Melody 18, Take 1… Lin Sheng-xiang Drops a Bombshell, Refuses Award with Folded Hands | Liberty Times Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Details of Lin Sheng-xiang's refusal at the 18th Golden Melody Awards (2007) and the recipients of his donated prize money.
+[^6]: [First Time in 18 Years of Golden Melody Awards... Lin Sheng-hsiang Drops a Bombshell and Refuses to Accept Award | Freedom Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Details regarding Lin Sheng-hsiang's refusal of the award at the 18th Golden Melody Awards (2007) and the recipients of his prize money donation.
 
-[^7]: [Best Hakka Album (Golden Melody Awards) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirms Lo Szu-jung's _Lan Hua Qu_ won Best Hakka Singer and Best Hakka Album at the 23rd Golden Melody Awards.
+[^7]: [Best Hakka Album (Golden Melody Awards) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirms Lo Ssu-jung's "Taking Flowers" won Best Hakka Singer and Best Hakka Album at the 23rd awards.
 
-[^8]: [Hakka TV Official Website](https://www.hakkatv.org.tw/) — Confirms launch in 2003 as the world's first 24-hour Hakka-language television channel.
+[^8]: [Hakka TV Official Website](https://www.hakkatv.org.tw/) — Confirms its launch in 2003 as the world's first 24-hour Hakka language television channel.

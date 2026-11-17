@@ -1,19 +1,28 @@
 ---
-title: 'Lin Yixiong: From Taiwan Provincial Councilor to the Moral Symbol of the Anti–Nuclear Four Movement'
-description: "Lin Yixiong was born in 1941 in Yilan, graduated from the National Taiwan University Department of Law, and practiced as an attorney. He was elected to the Taiwan Provincial Council in 1979 and joined *Formosa Magazine* in 1979. On 2/28/1980, the Lin Family Murders occurred: his mother and twin infant daughters were killed, and the case remains unsolved to this day. After his release from prison in 1984, he earned an MPA from the Harvard Kennedy School of Government. On 6/7/1998, he was elected the eighth chairman of the Democratic Progressive Party (the first directly elected chairman). He left the DPP on 1/24/2006. In 2014, he undertook an indefinite hunger strike that led to the suspension and mothballing of the Fourth Nuclear Power Plant. He founded the Tzulin Education Foundation and is one of the most morally significant figures in Taiwan's democracy movement. As of 2026, he is 84 years old and living."
+title: 'Lin Yi-hsiung: From Taiwan Provincial Assembly Member to Moral Icon of the Anti-Nuclear Four Movement'
+description: "Lin Yi-hsiung was born in Yilan in 1941, graduated from National Taiwan University's Department of Law, and practiced as a lawyer. He was elected to the Taiwan Provincial Assembly in 1977 and joined Formosa Magazine in 1979. On February 28, 1980, the Lin family massacre took place, in which his mother and twin daughters were killed; the case remains unsolved to this day. After his release from prison in 1984, he attended the Harvard Kennedy School and earned an MPA. On June 7, 1998, he was elected as the eighth chairperson of the Democratic Progressive Party (the first directly elected chair). He left the DPP on January 24, 2006. In 2014, an indefinite hunger strike he undertook led to the suspension and mothballing of the Fourth Nuclear Power Plant. He founded the Chilin Educational Foundation and is regarded as one of the most morally authoritative figures in Taiwan's democracy movement. As of 2026, he is alive at age 84."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
+tags:
+  [
+    'Democracy Movement',
+    'Lin Family Massacre',
+    'Anti-Nuclear Movement',
+    'Political Victim',
+    'Chilin Educational Foundation',
+  ]
 subcategory: '政治與民主'
-tags: ['民主運動', '林宅血案', '反核運動', '政治受難者', '慈林教育基金會']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-05T01:50:43.697593+00:00'
 ---
 
 # Lin Yixiong: From Taiwan Provincial Councilor to the Moral Symbol of the Anti–Nuclear Four Movement
@@ -68,19 +77,19 @@ Assessments of him remain divided to this day: supporters regard him as the mora
 
 ## References
 
-[^1]: [Lin Yixiong — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Biographical overview, 1977 Taiwan Provincial Council, 1998 DPP eighth chairmanship (first directly elected), 1987 Harvard MPA record. See also [Taiwan FactCheck Center: Lin Yixiong's 2006 DPP departure fact check](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
+[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Biographical overview, 1977 Taiwan Provincial Councilor, 1998 DPP 8th Chairperson first direct election, 1987 Harvard MPA record. Also see [Taiwan FactCheck Center: Lin Yi-hsiung 2006 party departure rumor debunking](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Kaohsiung Incident — National Human Rights Museum](https://www.nhrm.gov.tw/) — Full account of the 1979 Kaohsiung Incident, arrest roster, and military trial records.
+[^2]: [Kaohsiung Incident — National Human Rights Museum](https://www.nhrm.gov.tw/) — Details of the 1979 Kaohsiung Incident, list of arrestees, and military trial records.
 
-[^3]: [Lin Family Murders — National Human Rights Museum](https://www.nhrm.gov.tw/w/nhrm/home) — Archival records of the Lin Family Murders and the current status of the unsolved case.
+[^3]: [Lin Family Massacre — National Human Rights Museum](https://www.nhrm.gov.tw/w/nhrm/home) — Case files of the Lin Family Massacre and explanation of its unsolved status.
 
-[^4]: [Democratic Progressive Party History — DPP Official Website](https://www.dpp.org.tw/) — Founding history and party records from Lin Yixiong's 1998–2000 chairmanship. See also [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) documenting the 1/24/2006 departure.
+[^4]: [Democratic Progressive Party History — DPP Official Website](https://www.dpp.org.tw/) — Party founding history and records of party affairs during Lin Yi-hsiung's 1998-2000 chairmanship. Also see [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) documenting the 2006/1/24 party departure.
 
-[^5]: [Tzulin Education Foundation Official Website](https://www.tzlin.org.tw/) — Foundation mission, Tzulin Campus introduction, and event information.
+[^5]: [Cilin Educational Foundation Official Website](https://www.tzlin.org.tw/) — Foundation mission, Cilin campus introduction, and activity information.
 
-[^6]: [2014 Anti–Nuclear Four Hunger Strike Coverage — Liberty Times](https://news.ltn.com.tw/) — Confirmation of the April 2014 Lin Yixiong hunger strike and the decision to suspend and mothball the Fourth Nuclear Power Plant.
+[^6]: [2014 Anti-Nuclear Plant 4 Hunger Strike Coverage — Liberty Times](https://news.ltn.com.tw/) — Confirms the details of Lin Yi-hsiung's hunger strike in April 2014 and the decision to halt construction and mothball Nuclear Plant 4.
 
-[^7]: [Anti-Nuclear Movement Historical Materials — Green Citizens' Action Alliance](https://gcaa.org.tw/) — Historical context of Taiwan's anti-nuclear movement and documentation of Lin Yixiong's role.
+[^7]: [Anti-Nuclear Movement Historical Materials — Green Citizens' Action Alliance](https://gcaa.org.tw/) — Historical context of Taiwan's anti-nuclear movement and records of Lin Yi-hsiung's role.
 
 ## Further Reading
 

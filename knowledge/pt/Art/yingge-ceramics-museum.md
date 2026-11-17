@@ -2,9 +2,7 @@
 title: 'Museu de Cerâmica de Yingge: Um Século de Indústria Cerâmica no Concreto Aparente'
 description: "Em novembro de 2000, o primeiro museu profissional de cerâmica de Taiwan inaugurou no distrito de Yingge, Nova Taipé, projetado por Chien Hsüeh-i com o conceito dos quatro elementos 'terra, água, fogo, vento'. Esta arquitetura de concreto aparente reposicionou Yingge de uma cidade de fornos para um palácio da arte cerâmica, e a Bienal Internacional de Cerâmica de Taiwan, a partir de 2004, conectou o artesanato local ao cenário global."
 date: 2026-05-07
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '策展與教育'
 tags:
   [
     'cerâmica',
@@ -14,15 +12,19 @@ tags:
     'Chien Hsüeh-i',
     'Bienal Internacional de Cerâmica de Taiwan',
   ]
+subcategory: '策展與教育'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-04T17:30:52.189729+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 26 de novembro de 2000, o Museu de Cerâmica de Yingge da Nova Taipé inaugurou, sendo o primeiro museu profissional de cerâmica de Taiwan. A arquitetura, projetada por Chien Hsüeh-i, tem como conceito os quatro elementos "terra, água, fogo, vento", com paredes de concreto aparente e grandes cortinas de vidro que se integram à paisagem de Yingge. Ele reposicionou Yingge — conhecida como a "Jingdezhen de Taiwan" e famosa como cidade atacadista de fornos — como um palácio da arte cerâmica com foco em curadoria, educação e intercâmbio internacional. A "Bienal Internacional de Cerâmica de Taiwan", a partir de 2004, conectou o artesanato local à cena global da cerâmica contemporânea.

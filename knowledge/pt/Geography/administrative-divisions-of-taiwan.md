@@ -2,9 +2,7 @@
 title: 'Divisões administrativas de Taiwan: das "assembleias locais" aos "cinco municípios" do quebra-cabeça do poder'
 description: 'As divisões administrativas de Taiwan não são apenas linhas no mapa, mas um experimento de poder que atravessa quatrocentos anos. Das assembleias tribais do período holandês-espanhol, ao movimento de "refinamento de topônimos" dos "cinco circuitos e três prefeituras" do período japonês, até a quase criação do "município de Shuangwen" no pós-guerra, cada fronteira esconde um cabo de guerra entre a vontade governante e a identidade local.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'Divisões administrativas',
@@ -12,15 +10,19 @@ tags:
     'Planejamento territorial',
     'Autonomia local',
   ]
-readingTime: 15
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-05T05:31:42.942643+00:00'
 ---
 
 > **Visão geral em 30 segundos:** As atuais \"seis municípios e dezesseis condados e cidades\" de Taiwan são o resultado de múltiplas cirurgias políticas ao longo de quatrocentos anos. No século XVII, os holandeses usaram \"assembleias locais\" para monitorar tribos; os períodos Zheng e Qing inauguraram o sistema de comandarias e condados han; o período japonês, por sua vez, através dos \"cinco circuitos e três prefeituras\" e do refinamento de topônimos, lançou a espinha dorsal das divisões administrativas modernas. Esse experimento, em 1945, quase produziu um \"município de Shuangwen\" batizado com nome de pessoa, e em 2010, através da reforma dos cinco municípios, incorporou 60% da população de Taiwan em municípios especiais, deixando o desafio contemporâneo do desequilíbrio de recursos.

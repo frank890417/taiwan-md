@@ -164,3 +164,186 @@ test('display.taiwan 的其他說法以「也說」接在 lead 後面（四桶�
     assert.ok(!w.faqAnswer.includes('也說'), 'FAQ 只講主要說法');
   }
 });
+
+// ── 搜尋結果頁 title / description（2026-11-04 evolve）──────────────────────
+// 查詢是「X 意思」「X 注音」；origin 裡挑得到定義句的條目改成先答字義，
+// 挑不到的維持「台灣怎麼說」原句型、一字不動。字義句只能是 origin 原文。
+import {
+  termGloss,
+  termSeo,
+  TERM_DESC_MAX,
+  TERM_GLOSS_MAX,
+} from '../src/utils/terminology-wording.ts';
+
+const g = (over) =>
+  termGloss({
+    origin: '',
+    china: '吃瓜',
+    taiwanTerms: ['看八卦', '看戲'],
+    forkKey: 'E',
+    category: 'daily',
+    ...over,
+  });
+
+test('字義：從 origin 第一句切出來，沒提到詞就把詞接在前面', () => {
+  const a = g({
+    origin:
+      '源自「吃瓜群眾」，比喻旁觀看熱鬧的人（像嗑瓜子看戲）。中國網路高頻用語。台灣說「看八卦」「看戲」。',
+  });
+  assert.equal(
+    a.gloss,
+    '「吃瓜」：源自「吃瓜群眾」，比喻旁觀看熱鬧的人（像嗑瓜子看戲）。',
+  );
+  assert.equal(a.zhuyin, '');
+  // 動詞起頭直接接，不加冒號
+  assert.equal(
+    g({ china: '腦洞大開', origin: '表示想法或創意非常大膽、奇特。' }).gloss,
+    '「腦洞大開」表示想法或創意非常大膽、奇特。',
+  );
+  // 句子已經提到詞，不重複接
+  assert.equal(
+    g({
+      china: '三觀',
+      origin: '中國「三觀」指世界觀、人生觀、價值觀的合稱，台灣不使用此說法。',
+    }).gloss,
+    '中國「三觀」指世界觀、人生觀、價值觀的合稱。',
+  );
+  // YAML 折行留下的 CJK 間空白要拿掉
+  assert.equal(
+    g({ china: '線程', origin: '作業系統中可獨立排程執行的\n最小單位' }).gloss,
+    '「線程」：作業系統中可獨立排程執行的最小單位。',
+  );
+});
+
+test('字義：台灣對照、詞源比較、F 型、譯名類、過長都挑不到', () => {
+  const none = { gloss: '', zhuyin: '' };
+  // 以台灣說法開頭＝在解釋台灣那個詞
+  assert.deepEqual(
+    g({
+      china: '煤氣',
+      taiwanTerms: ['瓦斯'],
+      origin: '「瓦斯」是日語「ガス」（gasu）的漢字寫法。',
+    }),
+    none,
+  );
+  // 句首就是台灣
+  assert.deepEqual(
+    g({
+      china: '教程',
+      origin: '台灣說「教學」（影片/文章），中國說「教程」。',
+    }),
+    none,
+  );
+  // 沒有定義標記、又在講翻譯
+  assert.deepEqual(g({ china: '字節', origin: 'byte 的意譯。' }), none);
+  // 沒有定義標記、在講命名差異
+  assert.deepEqual(g({ china: 'U盤', origin: '各地命名方式完全不同。' }), none);
+  // F 同詞不同語感：問「是什麼意思」答非所問
+  assert.deepEqual(
+    g({ china: '水平', forkKey: 'F', origin: '兩個詞都指程度與標準。' }),
+    none,
+  );
+  // 譯名類
+  assert.deepEqual(
+    g({ china: '乍得', category: 'proper-noun', origin: '是 Chad 的音譯。' }),
+    none,
+  );
+  // 沒有 origin（單位、零佐證 import）
+  assert.deepEqual(g({ china: '厘米', origin: '' }), none);
+  // 過長
+  assert.deepEqual(
+    g({ origin: '指' + '很長'.repeat(TERM_GLOSS_MAX) + '。' }),
+    none,
+  );
+});
+
+test('字義：origin 帶注音的那一句另外交出來', () => {
+  const z = g({
+    china: '咋的',
+    taiwanTerms: ['怎麼樣', '不管怎樣'],
+    origin:
+      '是中國方言，用來表示「怎麼樣」「如何」的意思。注音可作「ㄓㄚˋ」或「ㄗㄚˊ」。',
+  });
+  assert.equal(
+    z.gloss,
+    '「咋的」是中國方言，用來表示「怎麼樣」「如何」的意思。',
+  );
+  assert.equal(z.zhuyin, '注音可作「ㄓㄚˋ」或「ㄗㄚˊ」。');
+});
+
+test('termSeo：沒有字義＝原句型一字不動', () => {
+  const w = termWording({
+    ...base,
+    china: '厘米',
+    taiwanPrimary: '公分',
+    evidenced: false,
+  });
+  const s = termSeo({
+    china: '厘米',
+    taiwanPrimary: '公分',
+    gloss: { gloss: '', zhuyin: '' },
+    seoLead: w.seoLead,
+    forkBlurb: '',
+  });
+  assert.equal(s.kind, 'lookup');
+  assert.equal(s.title, '「厘米」台灣怎麼說？台灣用語是「公分」');
+  assert.equal(
+    s.description,
+    '有人回報中國說「厘米」、台灣說「公分」，來源待查證。查「厘米」算不算中國用語、台灣用語怎麼說 — Taiwan.md 用語保存計畫。',
+  );
+});
+
+test('termSeo：有字義＝標題先問意思、描述第一句是字義，不超過 160 字', () => {
+  const w = termWording({
+    ...base,
+    china: '吃瓜',
+    taiwanPrimary: '看八卦',
+    forkKey: 'E',
+    evidenced: true,
+  });
+  const gloss = {
+    gloss: '「吃瓜」：源自「吃瓜群眾」，比喻旁觀看熱鬧的人（像嗑瓜子看戲）。',
+    zhuyin: '',
+  };
+  const s = termSeo({
+    china: '吃瓜',
+    taiwanPrimary: '看八卦',
+    gloss,
+    seoLead: w.seoLead,
+    forkBlurb: '還在分歧中的詞，兩邊講法都聽得懂，但各有偏好。',
+  });
+  assert.equal(s.kind, 'meaning');
+  assert.equal(s.title, '「吃瓜」是什麼意思？台灣說「看八卦」');
+  assert.ok(s.description.startsWith(gloss.gloss));
+  assert.ok(s.description.includes('台灣說「看八卦」'));
+  assert.ok(s.description.length <= TERM_DESC_MAX);
+  // 塞不下的尾巴就不放，但字義與台灣說法一定在
+  const long = {
+    gloss: '「吃瓜」：' + '比喻旁觀'.repeat(18) + '。',
+    zhuyin: '',
+  };
+  const t = termSeo({
+    china: '吃瓜',
+    taiwanPrimary: '看八卦',
+    gloss: long,
+    seoLead: w.seoLead,
+    forkBlurb: '還在分歧中的詞，兩邊講法都聽得懂，但各有偏好。',
+  });
+  assert.ok(t.description.length <= TERM_DESC_MAX);
+  assert.ok(
+    t.description.startsWith(long.gloss) &&
+      t.description.includes('台灣說「看八卦」'),
+  );
+  // 注音版標題；台灣說法的括號註記不進標題
+  const z = termSeo({
+    china: '咋的',
+    taiwanPrimary: '怎麼樣（口語）',
+    gloss: { gloss: '「咋的」是中國方言。', zhuyin: '注音可作「ㄓㄚˋ」。' },
+    seoLead: '中國說「咋的」，台灣說「怎麼樣」。',
+    forkBlurb: '',
+  });
+  assert.equal(z.title, '「咋的」是什麼意思、注音怎麼念？台灣說「怎麼樣」');
+  assert.ok(
+    z.description.startsWith('「咋的」是中國方言。注音可作「ㄓㄚˋ」。'),
+  );
+});

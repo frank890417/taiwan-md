@@ -17,19 +17,23 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-23T22:11:58+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-07T03:53:14.939257+00:00'
 ---
 
-> **Resumo em 30 segundos:** Em 3 de dezembro de 1966, a primeira Zona de Processamento e Exportação (ZPE) de Taiwan surgiu em Qianzhen, Kaohsiung, sendo descrita nos registros governamentais como a primeira do mundo. Ela sobrepôs as funções de zona industrial, área isenta de impostos e zona de livre comércio, conectando capital estrangeiro, matérias-primas, fábricas e pedidos de exportação em um só lugar por meio de uma janela única, incentivos fiscais e porto. Em dois anos, o parque excedeu o plano original e empregou mais de vinte mil pessoas.[^1]
+**Resumo de 30 segundos:** Em 3 de dezembro de 1966, surgiu em Cianjhen, Kaohsiung, a primeira Zona de Processamento de Exportação (ZPE) de Taiwan, também designada pelos arquivos do Executivo Nacional como a primeira ZPE do mundo. Ela reuniu as funções de zona industrial, zona franca e zona de livre comércio, conectando, por meio de uma janela única, incentivos fiscais e porto, investimento estrangeiro, matérias-primas, fábricas e pedidos de exportação em um só local. Em dois anos, a zona já havia superado o plano original e empregava mais de vinte mil pessoas.[^1]
 
-![Mapa do Porto de Kaohsiung, indicando a área portuária circundante da ZPE](/article-images/history/kaohsiung-port-map.svg)
+![Mapa do Porto de Kaohsiung, indicando a área portuária ao redor da Zona de Processamento de Exportação](/article-images/history/kaohsiung-port-map.svg)
 
 _Imagem 1: Mapa do Porto de Kaohsiung, autor Luuva, Wikimedia Commons, CC BY-SA 3.0. Página da imagem: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
@@ -89,17 +93,17 @@ No aspecto de gênero, embora o trabalho feminino tenha trazido renda e oportuni
 
 A afirmação do parque não precisa ser derrubada por isso, mas "a criação de empregos" e "como as condições de trabalho foram arranjadas" devem ser colocadas na mesma tela. Se apenas o valor da exportação for mantido, os produtores se tornam um denominador; se apenas a crítica for mantida, também não se verá como um salário mudou uma família e uma cidade. A responsabilidade histórica não é escolher uma única avaliação para o parque, mas tornar visíveis resultados de diferentes camadas.
 
-## Como o Parque Sobreviveu ao Seu Próprio Sucesso
+## Como o parque sobreviveu ao próprio sucesso
 
-![Saída 1 da Estação do Parque Nanzi](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![Saída 1 da Estação Nanzih Export Processing Zone](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_Imagem 2: Saída 1 da Estação do Parque Nanzi, autor Longben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Página da imagem: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; Arquivo local: images/nanzih-export-processing-zone-station.jpg._
+_Imagem 2: Saída 1 da Estação Nanzih Export Processing Zone, autor Longben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Página da imagem: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; arquivo local: images/nanzih-export-processing-zone-station.jpg._
 
-A indústria intensiva em mão de obra enfrentou pressões após a década de 1980, como o aumento dos salários, a proteção comercial internacional e a transferência industrial. A ZPE não desapareceu imediatamente; ela introduziu gradualmente atividades eletrônicas, manufatura de precisão, logística e outras tecnologias mais avançadas. O resumo da tese doutoral descreve o período pós-1986 como um momento em que as condições institucionais e de mercado mudaram simultaneamente, apontando para a transição do parque para a alta tecnologia eletrônica e gestão global.[^8]
+As indústrias de mão de obra intensiva enfrentaram pressão após os anos 1980 devido ao aumento dos salários, protecionismo comercial internacional e deslocalização industrial. As zonas de processamento de exportação não desapareceram por isso de imediato; elas introduziram gradualmente a indústria eletrónica, fabrico de precisão, logística e outras atividades de maior tecnologia. O resumo de uma tese de doutoramento descreve o período após 1986 como uma época de mudança simultânea nas condições institucionais e de mercado, e aponta que as zonas se transformaram posteriormente em direção à indústria eletrónica de alta tecnologia e à logística global.[^8]
 
-Essa transição também mudou a forma como o parque é lembrado. Em 2021, a ZPE de Kaohsiung abandonou seu nome antigo, usado por meio século, e passou a ser chamada Parque Tecnológico Qianzhen. A mudança de nome não apagou a história; pelo contrário, reconheceu que a antiga "Zona de Processamento e Exportação" havia se tornado um legado institucional: a janela única, o aglomerado industrial, a orientação à exportação e o aprendizado tecnológico continuaram deixando marcas em diferentes indústrias.[^3]
+Esta transformação também mudou a forma como a memória do parque é preservada. Em 2021, a Zona de Processamento de Exportação de Kaohsiung abandonou o nome usado por meio século e passou a chamar-se Parque Industrial de Tecnologia de Cianjhen. A mudança de nome não apagou a história; pelo contrário, reconheceu que a "zona de processamento de exportação" original se tornou um legado institucional: balcão único, aglomerado industrial, orientação para a exportação e aprendizagem tecnológica, que continuam a deixar marcas em diferentes indústrias.[^3]
 
-Os edifícios administrativos dentro do parque, as antigas fábricas e outros prédios têm uma dupla identidade. Por um lado, são espaços industriais que ainda podem ser usados; por outro, são evidências físicas da história econômica de Taiwan. Vê-los apenas como velhos edifícios ignora sua relação com as fábricas, as operárias, o porto e as mercadorias; vê-los apenas como monumentos ao sucesso ignora os custos do trabalho e do meio ambiente.[^3]
+Os edifícios administrativos, fábricas iniciais e outras construções dentro do parque possuem, portanto, uma identidade dupla. Por um lado, são espaços industriais que ainda podem ser utilizados; por outro, são evidências físicas da história económica de Taiwan. Tratá-los apenas como edifícios antigos faria perder a sua relação com fábricas, operárias, portos e mercadorias; tratá-los apenas como monumentos ao sucesso também faria perder os custos do trabalho e do ambiente.[^3]
 
 ## Um Parque, Múltiplas Taiwan
 

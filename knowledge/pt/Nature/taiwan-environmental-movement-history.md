@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-08-04T14:12:36+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:31:03.312416+00:00'
 ---
 
 # História do Movimento Ambiental em Taiwan
@@ -90,24 +90,25 @@ Entrado o século XXI, o movimento ambiental em Taiwan apresenta várias novas c
 
 **Vínculos internacionais**: Organizações ambientais de Taiwan começaram a participar de redes ambientais internacionais, intercambiando e cooperando com organizações da Ásia-Pacífico. Questões globais como mudanças climáticas e proteção marinha impulsionam a conexão dos movimentos locais com o internacional.
 
-## Desafios e perspectivas
+## Desafios e Perspectivas
 
-O movimento ambiental em Taiwan enfrenta vários desafios persistentes:
+O movimento ambiental de Taiwan enfrenta vários desafios persistentes:
 
-**Pressão do desenvolvimento econômico**: Na competição global, o equilíbrio entre proteção ambiental e crescimento econômico permanece difícil. Transição energética e transição industrial requerem planejamento de longo prazo e consenso social.
+**Pressão do desenvolvimento económico**: Na competição global, o equilíbrio entre proteção ambiental e crescimento económico continua difícil. A transição energética e a transição industrial requerem planeamento a longo prazo e consenso social.
 
-**Risco de politização**: Temas ambientais são facilmente politizados, afetando a continuidade das políticas. A política nuclear é exemplo claro: diferentes partidos no poder adotam posições diferentes.
+**Risco de politização**: As questões ambientais são facilmente politizadas, afetando a continuidade das políticas. A política nuclear é um exemplo claro, com diferentes partidos a adotarem posições diferentes quando no poder.
 
-**Diferenças de visão intergeracional**: Diferentes gerações têm percepções distintas sobre valores ambientais, afetando a base social para o avanço das políticas.
+**Diferenças geracionais de conceção**: Diferentes gerações têm percepções diferentes dos valores ambientais, afetando a base social para a promoção de políticas.
 
-**Limitação de recursos**: Em comparação com empresas e governo, os recursos das organizações ambientais são limitados, afetando a escala e a sustentabilidade das ações.
+**Limitações de recursos**: Em comparação com empresas e governo, os grupos ambientalistas têm recursos limitados, afetando a escala e a sustentabilidade das suas ações.
 
-O movimento ambiental em Taiwan percorreu quarenta anos de desenvolvimento, evoluindo de protestos contra a poluição para ações diversificadas em busca de desenvolvimento sustentável. Esse processo reflete a transformação dos valores da sociedade taiwanesa: da busca por crescimento rápido à valorização da qualidade de vida; do interesse individual à responsabilidade intergeracional. O próximo passo do movimento ambiental será como, dentro do sistema democrático, estabelecer mecanismos mais eficazes de governança ambiental.
+O movimento ambiental de Taiwan passou por quarenta anos de desenvolvimento, evoluindo de lutas contra a poluição para ações diversificadas em busca de desenvolvimento sustentável. Este processo reflete a mudança nos valores da sociedade taiwanesa: da busca por crescimento rápido para a valorização da qualidade de vida; do interesse individual para a responsabilidade intergeracional. O próximo passo do movimento ambiental será como estabelecer mecanismos de governação ambiental mais eficazes dentro do sistema democrático.
 
 **Leitura complementar**:
 
-- [Taiwan e a discussão sobre energia nuclear](/pt/society/taiwan-nuclear-debate) — Como o movimento antinuclear nasceu do movimento ambiental e foi reconfigurado pela geração climática: história completa do debate de quarenta anos e três referendos
-- [Crise climática e transição para zero líquido em Taiwan](/pt/nature/taiwan-climate-change-net-zero-transition) — Como a consciência ambiental se transformou em política nacional de transição para zero líquido e reestruturação da matriz energética
+- [Taiwan e a discussão sobre energia nuclear](/pt/society/taiwan-nuclear-debate) — Como o movimento antinuclear nasceu do movimento ambiental e foi reconfigurado na geração climática: a história completa do debate de quarenta anos e três referendos
+- [Crise climática de Taiwan e transição para zero líquido](/pt/nature/taiwan-climate-change-net-zero-transition) — Como a consciência ambiental se transformou em políticas nacionais de transição para zero líquido e reestruturação da matriz energética
+- [Chi Po-lin](/pt/people/chi-po-lin) — Em 2013, 《看見台灣》 fez todo Taiwan ver nos cinemas o custo do desenvolvimento; depois, as controvérsias sobre terras nacionais e a Asia Cement foram assumidas por pessoas de várias regiões
 
 ## Referências
 

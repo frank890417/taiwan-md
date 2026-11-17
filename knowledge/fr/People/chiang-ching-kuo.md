@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-11T03:12:09+08:00'
+translatedAt: '2026-11-04T14:58:26.436359+00:00'
 ---
 
-> **En 30 secondes :** Tchang Kaï-chek devient président en 1978 et, le 15 juillet 1987, annonce la levée du martial à Taïwan, qui durait depuis 38 ans. Ces deux faits en font à la fois le capitaine du régime autoritaire et le décideur de l'ouverture politique. Cet article ne présente pas la démocratisation comme le don d'un individu, mais place ses réformes, la violence d'État et la société qui a continué d'agir après l'incident de l'Île du Beau Pays (Meilidao) dans une même chaîne causale.
+**Aperçu en 30 secondes :** Chiang Ching-kuo devient président en 1978 ; le 15 juillet 1987, il annonce la levée de la loi martiale qui durait depuis 38 ans à Taïwan. Ces deux faits font de lui à la fois le timonier du régime autoritaire et l'artisan de l'ouverture politique. Cet article ne présente pas la démocratisation comme le don d'un seul homme, mais replace ses réformes, la violence d'État et la société qui a continué d'agir après l'incident de Meilidao dans une même chaîne causale.
 
-Le 20 mai 1978, Tchang Kaï-chek prête serment en tant que président de la République de Chine à Taipei ; le 15 juillet 1987, Taïwan lève le martial qui pesait sur le pays depuis 38 ans ; le 13 janvier 1988, il décède en fonction. [^1] Ces trois dates, alignées, ressemblent à une ligne du temps progressiste bien ordonnée. Pourtant, Tchang Kaï-chek n'était pas un homme extérieur au régime martial venu ouvrir la porte à Taïwan ; il était l'un des gardiens de cette porte.
+Le 20 mai 1978, Chiang Ching-kuo prête serment comme président de la République de Chine à Taipei ; le 15 juillet 1987, Taïwan lève la loi martiale qui durait depuis 38 ans ; le 13 janvier 1988, il décède en cours de mandat présidentiel.[^1] Ces trois dates alignées ressemblent à une chronologie du progrès bien ordonnée. Pourtant, Chiang Ching-kuo n'est pas quelqu'un qui se tenait hors du système de la loi martiale pour ouvrir la porte à Taïwan ; il était lui-même l'un des gardiens de cette porte.
 
-Le problème historique qu'il laisse n'est donc pas une question de vote du type « Tchang Kaï-chek était-il bon ou mauvais », mais plutôt : pourquoi un homme ayant autrefois utilisé un État autoritaire a-t-il commencé, dans les dernières années de sa vie, à démanteler les piliers sur lesquels reposait son pouvoir ? Plus épineux encore, ce démantèlement n'a pas commencé à partir de zéro. C'est lui qui a poussé la porte pour créer une fente, mais ce sont les corps serrés dans cette ouverture, empêchant la porte de se refermer à nouveau, qui appartiennent à ceux qui ont osé parler pendant les années de martial.
+L'énigme historique qu'il laisse derrière lui n'est donc pas un référendum du type « Chiang Ching-kuo, bon ou mauvais ? », mais plutôt : pourquoi un homme qui a manié l'État autoritaire a-t-il commencé, dans les dernières années de sa vie, à démanteler les piliers mêmes de son pouvoir ? Plus épineux encore, ce démantèlement n'est pas parti de zéro. C'est lui qui a entrouvert la porte, mais ce sont ceux qui, pendant les années de loi martiale, ont osé parler au péril de leur vie et se sont engouffrés dans l'entrebâillement, qui ont empêché qu'elle ne se referme.
 
-![Portrait de Tchang Kaï-chek dans les années 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Image : Adao / Wikimedia Commons, CC BY-SA 4.0._
+![Portrait de Chiang Ching-kuo dans les années 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Image : Ado／Wikimedia Commons, CC BY-SA 4.0._
 
-> **📝 Note du curateur**
-> La levée du martial mérite d'être retenue non pas parce qu'un homme fort est soudainement devenu bon, mais parce que même les hommes forts ont dû faire face à une société qui avait grandi.
+> **📝 Note du commissaire**
+> La levée de la loi martiale mérite d'être rappelée, non pas parce qu'un homme fort serait soudain devenu bienveillant, mais parce que même un homme fort a dû faire face à une société qui avait déjà grandi.
 
 ## Un successeur dans la crise
 

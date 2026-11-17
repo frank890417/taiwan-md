@@ -1,15 +1,15 @@
 ---
-title: 'Beyblade: De una campaña promocional de juguetes a un deporte con 600 competiciones en todo Taiwán'
-description: 'La madrugada del 23 de mayo de 2026, ya había una larga fila fuera del Hongfu Plaza en Xinzhuang; no eran personas comprando zapatillas de edición limitada, sino esperando el inicio del Campeonato Nacional de Beyblade, donde los tres primeros ganadores reciben lanzadores de oro, plata y bronce. En 1999, la compañía de juguetes japonesa Takara lanzó una animación homónima para promocionar los Beyblade; los niños que veían la versión doblada en chino de entonces son ahora los adultos que hacen cola al amanecer. El juguete no envejeció, sino que se transformó en un deporte competitivo con árbitros, puntuación y premios.'
+title: 'Beyblade: un plan promocional de un fabricante de juguetes que, tras veintisiete años, se convirtió en un deporte con más de seiscientas competiciones en toda Taiwán'
+description: 'A las 00:00 del 23 de mayo de 2026, ya se formaba una cola frente al centro comercial Honghui Plaza en Xinzhuang; no esperaban zapatillas de edición limitada, sino el campeonato nacional de Beyblade, donde los tres primeros se llevan lanzadores dorado, plateado y bronce. En 1999, la japonesa Takara lanzó el anime homónimo para vender peonzas; los niños que vieron el doblaje taiwanés hoy son los adultos que madrugan para hacer cola. Un juguete no deja de crecer, sino que crece hasta tener árbitros, puntuación y premios en metálico.'
 date: 2026-08-19
 category: 'Lifestyle'
 tags:
   [
     'Beyblade',
-    'Juguetes',
-    'Recuerdos de la infancia',
-    'Deporte competitivo',
-    'Economía nostálgica',
+    'juguetes',
+    'memoria infantil',
+    'deporte de competición',
+    'economía de la nostalgia',
   ]
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
@@ -18,130 +18,135 @@ lastVerified: 2026-08-19
 lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
-rationale: null
-why_this_hook: '以 2026 年 5 月新莊宏匯廣場清晨排隊的真實畫面開場，取代「玩具懷舊」的慣性寫法，凸顯陀螺已競技化的反差。'
-whats_excluded: '不寫各世代動畫劇情細節、不寫二手市場行情與價格指南，聚焦玩具本身如何演化成運動。'
-where_it_hedges: '「全台每年 600 場以上比賽」來自第三方賽事整合平台而非官方統計；Hasbro 財報數字以新聞稿口徑為準。'
-whos_pushing_back: '玩具業者會主張這仍是「玩具」而非運動；玩家社群對 GEAR SPORTS 官方化的接受度也有分歧。'
+image: '/article-images/lifestyle/beyblade-tournament-incirlik-2012-hero.webp'
+imageCredit: 'U.S. Air Force photo by Senior Airman Clayton Lenhardt'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Beyblades_rip_into_Incirlik_120418-F-BS505-223.jpg'
+rationale:
+  why_this_hook: '以 2026 年 5 月新莊宏匯廣場清晨排隊的真實畫面開場，取代「玩具懷舊」的慣性寫法，凸顯陀螺已競技化的反差。'
+  whats_excluded: '不寫各世代動畫劇情細節、不寫二手市場行情與價格指南，聚焦玩具本身如何演化成運動。'
+  where_it_hedges: '「全台每年 600 場以上比賽」來自第三方賽事整合平台而非官方統計；Hasbro 財報數字以新聞稿口徑為準。'
+  whos_pushing_back: '玩具業者會主張這仍是「玩具」而非運動；玩家社群對 GEAR SPORTS 官方化的接受度也有分歧。'
 translatedFrom: 'Lifestyle/戰鬥陀螺.md'
-sourceCommitSha: '7492cf56b'
-sourceContentHash: 'sha256:5721a11524a1892d'
-sourceBodyHash: 'sha256:238cada628dc5182'
-translatedAt: '2026-09-11T08:12:13+08:00'
+sourceCommitSha: 'a63cd7340'
+sourceContentHash: 'sha256:91aa52253afb126e'
+sourceBodyHash: 'sha256:2c69a76b1198a9c8'
+translatedAt: '2026-11-03T19:41:31+08:00'
 ---
 
-Beyblade Beyblade de batalla
-_Beyblade de batalla y lanzador: Cada Beyblade puede desmontarse en hoja de batalla, disco de rueda y eje, permitiendo a los jugadores configurar su fuerza de combate (Foto: Dasilvaat, CC BY-SA 4.0, vía Wikimedia Commons)_
+# Beyblade: un plan promocional de un fabricante de juguetes que, tras veintisiete años, se convirtió en un deporte con más de seiscientas competiciones en toda Taiwán
 
-**Resumen en 30 segundos:** Beyblade no es un juguete que se abandona al crecer. Tras el lanzamiento de la cuarta generación Beyblade X en 2023, el fabricante original reposicionó este juguete como «GEAR SPORTS» (Deportes de Engranajes). En 2025, se celebró por primera vez el Campeonato Mundial que incluía la zona de Taiwán. Taiwán ahora tiene más de 600 competiciones al año, y las escenas de adultos haciendo cola para comprar Beyblades de edición limitada han aparecido en las noticias de televisión. Esta es una historia de juguetes y deportes que comenzó con una animación de la cadena japonesa TV Tokyo, pasó por la evolución de cuatro generaciones de componentes, y es un caso de fermentación simultánea de la economía nostálgica y la transformación competitiva.
+> **Resumen en 30 s:** Beyblade no es un juguete que «se deja de jugar al crecer». Tras el lanzamiento de la cuarta generación Beyblade X en 2023, el fabricante original reposicionó la línea como «GEAR SPORTS» (deporte de engranajes) y en 2025 celebró por primera vez un campeonato mundial que incluía la división de Taiwán. Hoy en Taiwán se disputan más de seiscientas competiciones al año, y las colas de adultos comprando peonzas de edición limitada salen en los telediarios. Esta es la historia de un deporte-juguete nacido en un anime de TV Tokyo, que ha atravesado cuatro sistemas de piezas, y un caso de estudio donde la economía de la nostalgia y la deportivización fermentan a la vez.
 
-Escena de la fila al amanecer: fuera del mercado de calzado, los Beyblades entran en formación
+---
 
-La madrugada del 23 de mayo de 2026, una gran multitud de jugadores de Beyblade se congregó fuera del Hongfu Plaza en Xinzhuang, Nueva Taipei, para hacer cola en el Campeonato Nacional «Extreme Cup G2» del día. Muchos llegaron temprano para comprar lanzadores y Beyblades de edición limitada; los tres primeros ganadores del día recibirían lanzadores de los colores oro, plata y bronce. Durante el mismo fin de semana, el premio para el campeón del Campeonato Abierto del Centro de Taiwán fue de 6.000 yenes, y 5.000 yenes para el subcampeón. El organizador del evento publicó públicamente en las redes sociales la configuración del cuerpo del campeón para que los jugadores la estudiaran.
+## La escena de la cola a medianoche: fuera del mercado de zapatillas, entran las peonzas
 
-Si se desglosa este número de «600 competiciones», se comprende que este calor tiene un esqueleto concreto: Taipéi, Taichung y Kaohsiung tienen sedes fijas donde se realizan competiciones regularmente, las tiendas de distribución y los centros comerciales organizan competiciones semanales, sumando más de 600 competiciones a lo largo del año. El juguete de los niños en el recreo de diez minutos ahora cuenta con jugadores adultos que hacen cola al amanecer, árbitros que determinan las victorias y derrotas, y análisis de configuraciones de cuerpos publicados en las redes sociales.
+A las 00:00 del 23 de mayo de 2026, frente al centro comercial Honghui Plaza en Xinzhuang, Nuevo Taipéi, se agolpaban multitud de jugadores de Beyblade para hacer cola para el campeonato nacional «Copa Extrema G2»; muchos habían llegado de madrugada para conseguir lanzadores y peonzas de edición limitada, y los tres primeros clasificados del día se llevaban lanzadores dorado, plateado y bronce. Ese mismo fin de semana, el campeón del abierto de Taiwán central se embolsaba 6 000 NT$, el subcampeón 5 000 NT$, y la organización publicó en redes la configuración de la peonza ganadora para que la comunidad la estudiara.
 
+Si desglosamos la cifra de «seiscientas», vemos que ese calor tiene esqueleto: Taipéi, Taichung y Kaohsiung cuentan con sedes fijas, cadenas de tiendas y grandes almacenes organizan torneos cada semana, sumando más de seiscientas al año. El juguete de los diez minutos de recreo en la primaria ahora tiene jugadores adultos que madrugan, árbitros que dictaminan victorias y análisis de configuraciones publicados en redes.
+
+```tw-quote
 3, 2, 1, let it rip!
-ADK Emotions NY (Agente de licencia de Hasbro para el negocio de Beyblade) en el comunicado de prensa del Campeonato Mundial
+ADK Emotions NY | Hasbro, agente autorizado del negocio Beyblade, nota de prensa del campeonato mundial
+```
 
-De Beyblade a los Beyblades de plástico: el nacimiento de una campaña promocional
+## De beigoma a peonza de plástico: el nacimiento de un plan promocional
 
-La genealogía de Beyblade se remonta al juguete tradicional japonés «beigoma» (beigoma), un trompo de madera transmitido desde la era Edo, donde los jugadores lo hacían girar golpeándolo con una cuerda enrollada en el dedo y determinaban el ganador mediante colisiones entre trompos. En 1999, la compañía de juguetes Takara (que se fusionó con Tomy en 2006 para convertirse en Takara Tomy) lanzó unos Beyblades de plástico de batalla desmontables inspirados en el beigoma, lanzando simultáneamente un manga y una animación homónimos para impulsar el juguete mediante el contenido.
+El linaje de Beyblade remonta al juguete tradicional japonés «beigoma» (ベーゴマ), una peonza de madera transmitida desde el periodo Edo; los jugadores la hacían girar tirando de una cuerda enrollada en la yema del dedo y luego las chocaban para decidir el vencedor. En 1999, la juguetera Takara (fusionada con Tomy en 2006 formando Takara Tomy) se inspiró en el beigoma para lanzar peonzas de plástico desmontables, y simultáneamente publicó manga y anime homónimos, usando el contenido para impulsar el juguete.
 
-Trompo tradicional japonés Beigoma
-_Beigoma (beigoma): Trompo japonés transmitido desde la era Edo, hecho girar mediante golpes con cuerda y colisionando entre sí, es la fuente de inspiración de Beyblade (Foto: Σ64, CC BY 3.0, vía Wikimedia Commons)_
+![Un conjunto de beigoma sobre una mesa, pequeñas peonzas metálicas alineadas, junto a las cuerdas para enrollar](/article-images/lifestyle/beigoma-traditional-japanese-top.webp)
+_Beigoma: peonza japonesa transmitida desde el periodo Edo, se hace girar tirando de la cuerda y se choca contra la rival; es la inspiración de Beyblade (Foto: Σ64, CC BY 3.0, vía Wikimedia Commons)_
 
-Este modelo tuvo un éxito excepcional al aterrizar en Taiwán, gracias en gran parte a la animación en chino taiwanés. _Beyblade_ se emitió en TV Tokyo en Japón desde 2001, con un total de 51 episodios, producidos por Madhouse. La versión taiwanesa contó con la doblaje de Ho Shih-fang, Chien Hsin-yu, Chan Ya-ching y otros, transmitida por la China Television Company (CTV) y el canal generalista Global TV (GTV), con Kan Chih-hung como director de doblaje. La animación dotó a los Beyblades de una personalidad de «bestia sagrada»; el Dragón Azul, la Fénix Roja, el Tigre Blanco y la Tortuga Negra tenían cada uno su dueño. El Beyblade de cada niño pasó de ser un plástico homogeneizado a convertirse en un compañero con nombre. El disco en la puerta de las tiendas de juguetes de Taiwán se convirtió en el «jianghu» (mundo de las artes marciales/competencia) después de clases.
+Este modelo aterrizó en Taiwán con un éxito particular, y el doblaje taiwanés tuvo mucho que ver. _Beyblade_ se emitió en TV Tokyo desde 2001, 51 episodios, producción de Madhouse. El doblaje taiwanés contó con He Shih-fang, Chien Hsin-yu, Chan Ya-ching y otros, emitido por China Television (CTV) y GTV Variety Show; el director de doblaje era Kuan Chih-hung. El anime dotó a las peonzas de «bestias sagradas» con personalidad: Dragón Azul, Ave Fénix, Tigre Blanco, Tortuga Negra, cada una con su portador; así, la peonza de plástico estandarizada de cada niño se convirtió en un compañero con nombre. La arena redonda a la puerta de la juguetería se volvió el jianghu (mundo marcial) de después de clase.
 
-Cuatro generaciones de componentes: cada renovación es una «ruptura de era»
+## Cuatro generaciones de piezas: cada rediseño es un «corte generacional»
 
-Los componentes de las cuatro generaciones de Beyblade son incompatibles entre sí; cada generación es un reinicio independiente. Este diseño intencional de «ruptura de era» es, para la industria de los juguetes, una forma de limpiar inventario, y para los jugadores, un recambio de sangre:
+Las piezas de las cuatro generaciones de Beyblade son mutuamente incompatibles; cada generación es un reinicio independiente. Ese «corte generacional» deliberado sirve al fabricante para limpiar stock y al jugador para renovar equipo:
 
-Línea temporal de las generaciones de Beyblade
-1999 | Primera generación (Beyblade Burst) | Takara lanza Beyblades de plástico de batalla y una animación homónima; Hasbro obtiene la licencia internacional en 2002
-2008 | Beyblade Metal Fusion | Se añaden piezas metálicas, reforzando los sonidos de colisión y los efectos de chispas. La animación se emite en 2009
-2015 | Beyblade Metal Masters | Sistema de componentes en capas. Los Beyblades «explotan» y se desmontan bajo ataques fuertes, añadiendo una forma de determinar el ganador
-2023 | Beyblade X | Sistema de pista de engranajes y disco de batalla Xtreme; el fabricante original lo define como GEAR SPORTS (Deportes de Engranajes)
-Fuente: Sala de prensa de Hasbro, Wikipedia, 2025
+```tw-timeline
+Trayectoria generacional de Beyblade
+1999 | 1.ª generación (Bakuten Shoot Beyblade) | Takara lanza peonzas de plástico y anime homólogo; Hasbro obtiene licencia internacional en 2002
+2008 | Metal Fight Beyblade | Incorporación de piezas metálicas, refuerzo del sonido de impacto y efecto chispas. Anime en 2009
+2015 | Burst (Explosión) | Sistema de piezas en capas. La peonza «explota» (se desmonta) al recibir un golpe fuerte, añadiendo un nuevo criterio de victoria
+2023 | Beyblade X | Sistema de carril de engranajes y estadio Xtreme; el fabricante la define como deporte GEAR SPORTS
+Fuente: Hasbro Newsroom, Wikipedia, 2025
+```
 
-La generación Metal Fusion (juguetes de 2008, animación de 2009) dotó a los Beyblades de sonidos de colisión metálica y chispas. La generación Metal Masters (desde 2015) introdujo las capas; los Beyblades se desmontan y «explotan» bajo ataques fuertes, añadiendo una tensión dramática instantánea a la determinación del ganador. Es importante señalar para los jugadores taiwaneses que los campeones de la Copa Asiática oficial en 2017 y 2018 fueron ambos taiwaneses; en esa generación, Taiwán ya era un mercado competitivo con solidez.
+La generación Metal Fight (juguete 2008, anime 2009) dio a la peonza el sonido metálico y las chispas al chocar. La generación Burst (desde 2015) introdujo la estructura en capas: la peonza estalla (se desarma) al recibir un ataque potente, añadiendo tensión dramática instantánea al criterio de victoria. Cabe destacar para los jugadores taiwaneses que los campeones oficiales de la Copa Asiática de 2017 y 2018 fueron jugadores de Taiwán, que ya en esa generación era un mercado competitivo de peso.
 
-La cuarta generación Beyblade X se lanzó en 2023, con la mayor innovación siendo la adición de una pista de engranajes en el borde del disco de batalla: cuando el eje del Beyblade se acopla a la pista, acelera bruscamente y sprinta, a una velocidad visible a simple vista. El fabricante original definió oficialmente este juguete como «GEAR SPORTS» (Deportes de Engranajes): venden juguetes, pero también organizan deportes.
+La cuarta generación, Beyblade X, lanzada en 2023, tiene su mayor innovación en el carril de engranajes en el borde del estadio: el eje de la peonza engrana con el carril y acelera de golpe hasta una velocidad visible a simple vista. El fabricante definió oficialmente esta línea como «GEAR SPORTS»: vende juguetes, pero también organiza deporte.
 
-Escena de la competición de Beyblade
-_Escena competitiva de Beyblades colisionando en el disco de batalla: el Beyblade que sigue girando al final gana (Foto: Foto de la Fuerza Aérea de EE. UU. por el Senior Airman Clayton Lenhardt, dominio público, vía Wikimedia Commons)_
+![Dos niños sentados a cada lado de un estadio de plástico azul, uno tira de la cuerda del lanzador, dentro dos peonzas siguen girando, adultos y otros niños observan alrededor](/article-images/lifestyle/beyblade-tournament-incirlik-2012-hero.webp)
+_Escena competitiva de peonzas chocando en el estadio: gana la que sigue girando al final (Foto: U.S. Air Force photo by Senior Airman Clayton Lenhardt, dominio público, vía Wikimedia Commons)_
 
-Matemáticas de puntuación en el disco de batalla
+## La matemática de la puntuación dentro del estadio
 
-En las competiciones oficiales, dos jugadores lanzan sus Beyblades a un disco de batalla en forma de cuenco. Hay cuatro formas de determinar el ganador: victoria por rotación (gira más que el oponente) vale un punto; victoria por lanzamiento fuera del disco (se golpea fuera del disco) vale dos puntos; victoria por explosión (se golpea hasta desmontarse) vale dos puntos; y la victoria extrema, exclusiva de la generación X (el Beyblade del oponente cae en la zona de recolección y no puede volver a la zona de batalla), vale el máximo de tres puntos. Los Beyblades se dividen en cuatro tipos: ataque, defensa, resistencia y equilibrio, existiendo una lógica de contrarrestos similar a la de piedra-papel-tijeras: el ataque contrarresta a la resistencia, la resistencia contrarresta a la defensa, y la defensa contrarresta al ataque.
+En competición oficial, dos jugadores lanzan sus peonzas al estadio cóncavo; hay cuatro criterios de victoria: victoria por giro (girar más que el rival) 1 punto, victoria por expulsión (sacar al rival del estadio) 2 puntos, victoria por explosión (hacer estallar al rival) 2 puntos, y la victoria extrema propia de la generación X (la peonza rival cae en la zona de recogida y no puede volver a la zona de batalla) 3 puntos, la más alta. Las peonzas se clasifican en cuatro tipos: ataque, defensa, resistencia, equilibrio, con una lógica de tijera-papel-piedra: ataque gana a resistencia, resistencia gana a defensa, defensa gana a ataque.
 
-La carrera armamentística en la comunidad de jugadores es más detallada que estas reglas básicas. Cada Beyblade del mismo modelo tiene pequeñas diferencias de constitución; los jugadores avanzados utilizan balanzas electrónicas para seleccionar las piezas más pesadas. La fuerza de tracción, el ángulo de lanzamiento y el punto de caída afectan el curso de la batalla; la aplicación móvil oficial incluso registra la velocidad de rotación después de cada lanzamiento. Este juguete, Beyblade, ahora tiene datos, entrenamiento y configuraciones, alejándose mucho de la idea de «dejar que el destino decida».
+```tw-stat
+3 puntos | Valor de la «victoria extrema» en la generación X | Triple de la victoria por giro
+Fuente: GQ Taiwan, 2026
+```
 
-Tres puntos | Valor de la «victoria extrema» de la generación X | Triple de la victoria por rotación
+La carrera armamentística de la comunidad de jugadores es más fina que estas reglas básicas. Cada peonza del mismo modelo tiene minúsculas diferencias de «constitución»; los jugadores avanzados usan balanzas electrónicas para elegir las piezas más pesadas. La fuerza del tirón, el ángulo y el punto de caída influyen en el combate; la app oficial registra incluso las RPM de cada lanzamiento. Este juguete ya tiene datos, entrenamiento, configuración; está muy lejos del «dejarlo a la suerte».
 
-El escenario mundial y el libro de cuentas de Hasbro
+## El escenario mundial y la contabilidad de Hasbro
 
-La transformación competitiva del fabricante no se queda solo en eslóganes. El 21 de marzo de 2025, «Día de Beyblade», Hasbro anunció el inicio global del Campeonato Mundial de Beyblade X; desde abril, las competiciones regionales comenzaron en todo el mundo, y la final se celebró en la Torre de Tokio a principios de octubre. El comunicado de prensa oficial mencionaba las regiones participantes, incluyendo Estados Unidos, Canadá, Francia, Taiwán y Brasil. El mismo comunicado de prensa citaba datos de la agencia de investigación de mercados Circana: el Beyblade X Xtreme Battle Set (Juego de Batalla Xtreme) fue el número uno en ventas en la categoría de figuras de acción en 2024.
+La deportivización del fabricante no se queda en eslóganes. El 21 de marzo de 2025, «Día Beyblade», Hasbro anunció el campeonato mundial BEYBLADE X a escala global; desde abril arrancaron las clasificatorias regionales y la final recaló en la Torre de Tokio a principios de octubre. La nota de prensa oficial cita como regiones participantes EE. UU., Canadá, Francia, Taiwán, Brasil. La misma nota cita datos de la consultora Circana: el set Beyblade X Xtreme Battle Set fue el nº 1 en ventas de la categoría figuras de acción en 2024.
 
-Al mismo tiempo, la industria general de los juguetes estaba enfrentando vientos en contra. En la primera mitad de 2025, los ingresos del departamento de juguetes de Hasbro disminuyeron debido al impacto de los aranceles y a la debilidad de los pedidos de los minoristas; la línea tradicional de juguetes estaba bajo presión general. Sin embargo, al revisar los informes financieros del mismo año, Hasbro listó a Beyblade como uno de los puntos destacados de crecimiento en el departamento de productos de consumo. En una curva general de descenso, un Beyblade de 27 años creció a contracorriente. La nostalgia, en este negocio, es una de las pocas categorías que aún se expande, no un placebo en la etapa de declive.
+En ese mismo momento, la industria juguetera sopla viento en contra. En el primer semestre de 2025, los ingresos de la división de juguetes de Hasbro cayeron por el impacto de los aranceles y la debilidad de pedidos del retail; las líneas tradicionales sufren presión. Sin embargo, en el informe financiero del mismo año, Hasbro destaca a Beyblade como uno de los puntos brillantes de crecimiento de la división de productos de consumo. En medio de una curva descendente, una peonza de veintisiete años crece a contracorriente. La nostalgia, en este negocio, es de las pocas categorías que siguen expandiéndose, no un placebo para la fase de declive.
 
-Un aumento y una disminución en el mismo informe financiero de Hasbro (2025)
-Departamento de Juguetes (Productos de Consumo) | Ingresos anuales disminuyeron un 4%, el segundo trimestre cayó un 16%
-Beyblade | Listado como punto destacado de crecimiento en el departamento de productos de consumo; el juego de batalla de la generación X fue el campeón en ventas de figuras de acción en 2024
-Fuente: Comunicado de prensa financiero de Hasbro, 2026
+```tw-stat
+Una subida y una bajada en el mismo informe Hasbro (2025)
+−4 % | Ingresos anuales de la división Consumer Products | En un solo trimestre del primer semestre cayó un 16 %
+Nº 1 | Ventas 2024 del Beyblade X Xtreme Battle Set en figuras de acción | El mismo informe cita a Beyblade como punto brillante de crecimiento de la división
+Fuente: Nota de prensa de resultados Hasbro, 2026
+```
 
-Tendencias y nostalgia: cómo los Beyblades regresaron a los bolsillos de los adultos
+## Tendencia y nostalgia: cómo la peonza volvió al bolsillo de los adultos
 
-En 2024, el actor Timothée Chalamet apareció en la premiere de la película _A Complete Unknown_ sosteniendo un Beyblade, y la imagen se viralizó en las redes sociales. En Taiwán, el punto de ignición de este resurgimiento fue más cotidiano: durante las festividades de Año Nuevo, un hilo de discusión en Threads preguntando sobre Beyblade se convirtió en un gran «escenario de intercambio para nuevos jugadores», y el presentador de talk show Bo En también apareció en los comentarios compartiendo su configuración de Beyblade.
+En 2024, el actor Timothée Chalamet apareció en el estreno de _A Complete Unknown_ sosteniendo una Beyblade; la imagen se viralizó en redes. En Taiwán, el detonante de este retorno fue más cotidiano: durante el Año Nuevo Lunar de este año, un hilo en Threads preguntando por Beyblade se convirtió en un masivo «punto de encuentro para novatos»; el presentador de stand-up Bowen apareció en los comentarios compartiendo su propia configuración.
 
-**📝 Nota del curador**
+> **📝 Nota del curador**
+> A la economía de la nostalgia se la suele describir como «vender recuerdos», pero el retorno de Beyblade revela un mecanismo más interesante: **el recuerdo es solo la entrada, la competición es lo que retiene**. El renacer de las cartas Pokémon se apoya en el mercado de coleccionismo, Tamagotchi en la reedición nostálgica; solo Beyblade rediseñó el objeto de la infancia como un deporte con datos, calendario y ranking; así el consumidor pasa de «comprar para coleccionar» a «comprar para competir», subiendo ticket medio y recompra a la vez. 2018: campeón taiwanés en la Copa Asiática; 2025: Taiwán incluida en las clasificatorias mundiales; 2026: jugadores haciendo cola al amanecer. Estas tres piezas encajadas muestran que Taiwán es uno de los mercados donde la «deportivización» ha dado resultados más evidentes.
 
-La economía nostálgica a menudo se describe como «vender recuerdos», pero el resurgimiento de Beyblade expone un mecanismo más interesante: **los recuerdos son solo la entrada, la competencia es la herramienta para retener a los clientes**. El renacimiento de las cartas Pokémon dependió del mercado de coleccionismo, Tamagotchi dependió de las reediciones nostálgicas, pero Beyblade rediseñó el objeto de la infancia como un deporte con datos, calendarios de competiciones y clasificaciones; así, los consumidores pasaron de «comprar para coleccionar» a «comprar para competir», elevando simultáneamente el valor promedio del pedido y la tasa de recompra. Los taiwaneses ganando la Copa Asiática en 2018, Taiwán siendo listado en las zonas regionales del Campeonato Mundial en 2025, y los jugadores haciendo cola al amanecer en 2026; vistos juntos, estos tres eventos muestran que Taiwán es uno de los mercados con los efectos más evidentes de la «transformación competitiva».
+## Zona gris: la seriedad de los adultos y el juguete de los niños
 
-Zona gris: la seriedad de los adultos y los juguetes de los niños
+Llegada a este punto, la deportivización trae problemas a los que la industria juguetera no está acostumbrada. Informaciones periodísticas han destapado que en competiciones oficiales algunos jugadores hacían trampa añadiendo peso ilegal a sus peonzas para clasificar, e incluso se disfrazaban para inscribirse varias veces. Cuando el afán de ganar de los adultos supera el espíritu de juego de los niños, el sistema arbitral y los agujeros del reglamento se convierten en dolores de crecimiento obligados. Esos propios desórdenes son una prueba: la peonza ya importa lo suficiente como para hacer trampa.
 
-Llegar a este punto de la competencia competitiva también trae problemas que la industria de los juguetes no está acostumbrada a manejar. Los reportes de noticias han revelado que en las competiciones oficiales, algunos jugadores, para avanzar en la clasificación, agregaron pesos de forma ilegal a sus cuerpos modificados, e incluso se disfrazaron para inscribirse repetidamente en la competición. Cuando el deseo de ganar de los adultos supera el espíritu de juego de los niños, el sistema de arbitraje y los vacíos en las reglas se convierten en una etapa de crecimiento inevitable. Estos desórdenes son en sí mismos una evidencia: el Beyblade es tan importante que vale la pena hacer trampa.
+> **📝 Nota del curador**
+> Fíjate en el desfase generacional de este renacimiento: **el fabricante usa las especificaciones de un juguete infantil para vendérselo a adultos nada infantiles**. La edad recomendada oficial es 8+, pero quienes hacen cola al amanecer por lanzadores de edición limitada son adultos. El campeonato mundial creó una Regular Class (8-12 años) y una Open Class (13+), pero no impide que los adultos se apilen en la categoría adulta. El «límite de edad superior» del juguete queda invalidado ante la deportivización; probablemente no era el final que nadie escribió en la presentación del plan de Takara en 1999.
 
-**📝 Nota del curador**
+## Final: el próximo lanzamiento
 
-Observe la desincronización generacional en este renacimiento: **los fabricantes de juguetes venden especificaciones de juguetes para niños a adultos que no son infantiles**. La edad recomendada oficial es de 8 años en adelante, pero los adultos son los que hacen cola al amanecer para comprar lanzadores de edición limitada. El Campeonato Mundial estableció una Clase Regular para niños de 8 a 12 años y una Clase Abierta para mayores de 13 años, pero no pudo evitar que los adultos se colaran en la clase de adultos. El «límite de edad» del juguete falló frente a la competencia competitiva; este es probablemente el resultado que nadie escribió en la presentación de la reunión de planificación de Takara en 1999.
+Volvamos a esa mañana en Honghui Plaza. Entre la gente que hace cola, muchos también hacían cola hace más de veinte años —entonces por la serie de las Cuatro Bestias Sagradas: Dragón Caballero, Fénix Llameante, Tigre Plateado, Tortuga Acorazada, juntando la paga para comprar el modelo de iniciación. Hoy usan ingresos de adultos, investigan el número de dientes del eje, pesan piezas en balanzas electrónicas, hacen cola al amanecer por lanzadores limitados.
 
-Final: el próximo lanzamiento
+La peonza no ha cambiado; quien la lanza ha crecido. El fabricante no se opuso a la corriente, sino que la convirtió en competición. La próxima vez que oigas «3, 2, 1, GO SHOOT», escucha bien: puede que sea un grupo de adultos completando, con veinte años de retraso, el campeonato nacional de aquellos diez minutos de recreo.
 
-De vuelta a esa mañana en el Hongfu Plaza. Entre los que hacían cola, muchos habían hecho cola hace más de veinte años; solo que en aquel entonces, la cola era para comprar la serie de las Cuatro Bestias Sagradas: Caballero Dragón, Fénix Llamas, Tigre Cazador y Tortuga Blindada, las versiones de iniciación compradas con dinero de bolsillo. Ahora, con los ingresos de adultos, estudian el número de dientes del eje, seleccionan piezas con balanzas electrónicas y hacen cola al amanecer para comprar lanzadores de edición limitada.
+## Lecturas recomendadas
 
-El Beyblade en sí no ha cambiado; lo que ha cambiado es que la persona que lanza el Beyblade ha crecido. El fabricante de juguetes, en lugar de detenerlo, lo aprovechó para convertirlo en una competición. La próxima vez que escuches «3, 2, 1, GO SHOOT», escucha con atención: puede que sea un grupo de adultos completando una competencia nacional que llegó 20 años tarde, para su propio recreo de diez minutos de la infancia.
+- ¿Por qué «Beyblade» ha vuelto a estallar? Análisis único desde el origen del anime, reglas de combate, equipamiento y estrategia (GQ Taiwan)
+- Web oficial de BEYBLADE X
 
-Lecturas adicionales: Por qué «Beyblade» se ha vuelto a poner de moda: desde el origen de la animación, las reglas de batalla hasta el equipamiento y la estrategia, todo analizado en una sola lectura (GQ Taiwan), sitio web oficial de BEYBLADE X
+## Referencias
 
-Referencias
+1. Yahoo News / TVBS: Exclusivo. Campeonato nacional de Beyblade. Jugadores hacen cola al amanecer «para comprar peonzas limitadas» (mayo 2026) — Crónica del campeonato nacional «Copa Extrema» del 23 de mayo de 2026 en Honghui Plaza, Xinzhuang; jugadores haciendo cola al amanecer por peonzas y lanzadores limitados; los tres primeros se llevan lanzadores dorado, plateado y bronce.
+2. Threads @ctptaichung: Concluye con éxito el 1.er Abierto de Beyblade de Taiwán central (mayo 2026) — Anuncio oficial del organizador: premio al campeón 6 000 NT$, subcampeón 5 000 NT$, y publicación de la configuración de la peonza ganadora para estudio de la comunidad.
+3. Beyblade Hub: Horarios, mapa e inscripción de las clasificatorias G3 de toda Taiwán (2026) — Plataforma integradora de torneos de Beyblade en Taiwán; contabiliza más de seiscientas competiciones al año cubriendo sedes fijas en norte, centro y sur.
+4. Wikipedia: Beyblade — Entrada en inglés de Wikipedia; recoge su inspiración en el beigoma japonés, lanzamiento en Japón en 1999, licencia internacional a Hasbro en 2002 y evolución por generaciones.
+5. Wikipedia (zh): Beyblade — Entrada en chino de Wikipedia; resume el origen del juguete y anime de Takara, información de producción del anime y series por generaciones.
+6. Wiki de doblaje taiwanés: Beyblade — Registra el reparto del doblaje taiwanés (He Shih-fang, Chien Hsin-yu, Chan Ya-ching, etc.), canales de emisión en Taiwán (CTV, GTV Variety Show) y el trasfondo de «anime y manga nacidos para promocionar la peonza».
+7. GQ Taiwan: ¿Por qué «Beyblade» ha vuelto a estallar? Análisis único desde el origen del anime, reglas de combate, equipamiento y estrategia (marzo 2026) — Detalla la evolución de cuatro generaciones, criterios de victoria y puntuación, lógica de contrapeso de piezas, campeones taiwaneses en la Copa Asiática 2017 y 2018, y problemas de trampas e inscripciones duplicadas en competiciones oficiales.
+8. Hasbro Newsroom: BEYBLADE X Universe Expands on BEYBLADE Day (21 marzo 2025) — Fuente primaria: anuncia calendario del campeonato mundial y final en Torre de Tokio; cita a Taiwán como región clasificatoria; cita datos de Circana situando al Xtreme Battle Set como nº 1 en figuras de acción en 2024.
+9. NBC Philadelphia / CNBC: Hasbro beats second-quarter expectations (23 julio 2025) — Crónica financiera en inglés: ingresos de la división Consumer Products de Hasbro caen 16 % en el 2T 2025; líneas de juguetes golpeadas por aranceles y debilidad de pedidos del retail.
+10. Hasbro Newsroom: Fourth Quarter and Full Year 2025 Financial Results (10 febrero 2026) — Fuente primaria: resultados anuales 2025 de Hasbro; ingresos de Consumer Products −4 % y, a la vez, Beyblade citado como punto brillante de crecimiento de la división.
+11. FLO MAG: ¿Beyblade se ha vuelto accesorio de moda? Cómo Beyblade pasó de juguete infantil a nuevo favorito social de la Gen Z (marzo 2026) — Registra a Timothée Chalamet con peonza en el estreno viralizando redes, hilo de Threads en Año Nuevo Lunar en Taiwán y comentario de Bowen, y analiza el contexto de la economía de la nostalgia.
+12. Dudian: Beyblade vuelve a encender la fiebre: historia, jugabilidad y clásicos imprescindibles del juguete divino de la infancia (abril 2026) — Recopila modelos representativos por generación, incluyendo la serie de las Cuatro Bestias Sagradas como modelo de iniciación de los jugadores taiwaneses, y canales oficiales y rangos de precio en Taiwán.
 
-: Yahoo Noticias / TVBS: ¡Exclusivo! ¡Competición Nacional de Beyblade! Los jugadores hacen cola al amanecer «para comprar Beyblades de edición limitada» (mayo de 2026) — Reporte de la escena del Campeonato Nacional «Extreme Cup» en el Hongfu Plaza de Xinzhuang el 23 de mayo de 2026, donde los jugadores hacen cola al amanecer para comprar Beyblades y lanzadores de edición limitada; los tres primeros ganadores reciben lanzadores de oro, plata y bronce.
+> Estas doce fuentes fueron proporcionadas por el autor en agosto de 2026; los enlaces Markdown originales se perdieron en el proceso de envío. En la versión corregida del 3 de noviembre de 2026 se conservan los títulos y descripciones originales de las fuentes; las URLs y notas al pie frase a frase se completarán en la siguiente ronda de verificación; hasta entonces, los hechos de este artículo deben contrastarse con las fuentes listadas arriba, que son localizables por cuenta propia.
 
-: Threads @ctptaichung: La Primera Competición Abierta de Beyblade del Centro de Taiwán concluye con éxito (mayo de 2026) — Anuncio oficial del organizador del evento: el premio para el campeón es de 6.000 yenes, 5.000 yenes para el subcampeón, y se publica la configuración del cuerpo del campeón para que la comunidad la estudie.
+## Créditos de imágenes
 
-: Beyblade Hub: Horarios, mapas y registro de las competiciones locales G3 en todo Taiwán (2026) — Plataforma de integración de competiciones de Beyblade en Taiwán, que estadísticamente supera las 600 competiciones al año en todo el país, cubriendo sedes fijas en las zonas norte, central y sur.
-
-: Wikipedia: Beyblade — Artículo de Beyblade en la Wikipedia en inglés, que registra su inspiración en el trompo tradicional japonés beigoma, su lanzamiento inicial en Japón en 1999, la obtención de la licencia internacional por Hasbro en 2002 y la evolución de cada generación.
-
-: Wikipedia (Wikipedia en chino): Beyblade — Artículo de Beyblade en la Wikipedia en chino, que organiza el origen de la推出 del juguete y la animación por parte de Takara, la información de producción de la animación y las series de cada generación.
-
-: Wiki de Doblaje de Taiwán: Beyblade — Registra el elenco de doblaje en chino taiwanés (Ho Shih-fang, Chien Hsin-yu, Chan Ya-ching, etc.), los canales de transmisión en Taiwán (CTV, Global TV) y el contexto de «animación y manga nacidos para promocionar Beyblades».
-
-: GQ Taiwan: Por qué «Beyblade» se ha vuelto a poner de moda: desde el origen de la animación, las reglas de batalla hasta el equipamiento y la estrategia, todo analizado en una sola lectura (marzo de 2026) — Detalla la evolución de las cuatro generaciones, las formas de victoria y la puntuación, la lógica de contrarrestos de las piezas, los taiwaneses ganando la Copa Asiática en 2017 y 2018, y los desórdenes de modificaciones oficiales e inscripciones repetidas en las competiciones.
-
-: Hasbro Newsroom: BEYBLADE X Universe Expands on BEYBLADE Day (21 de marzo de 2025) — Fuente primaria: anuncia el calendario del Campeonato Mundial y la final en la Torre de Tokio, lista a Taiwán como zona regional, y cita datos de Circana indicando que el juego Xtreme de la generación X fue el número uno en ventas de figuras de acción en 2024.
-
-: NBC Philadelphia / CNBC: Hasbro beats second-quarter expectations (23 de julio de 2025) — Reporte financiero en inglés: los ingresos del departamento de productos de consumo de Hasbro en el segundo trimestre de 2025 cayeron un 16%, con la línea de juguetes impactada por aranceles y la debilidad de los pedidos de los minoristas.
-
-: Hasbro Newsroom: Fourth Quarter and Full Year 2025 Financial Results (10 de febrero de 2026) — Fuente primaria: informe financiero anual completo de 2025 de Hasbro; mientras los ingresos del departamento de productos de consumo cayeron un 4%, Beyblade fue listado como un punto destacado de crecimiento del departamento.
-
-: FLO MAG: ¿El Beyblade se ha convertido en un accesorio de moda? Cómo Beyblade pasó de ser un juguete de la infancia a la nueva mascota de las redes sociales de la Gen Z (marzo de 2026) — Registra el evento de la premiere donde Timothée Chalamet sostenía un Beyblade que detonó las redes sociales, el hilo de discusión en Threads durante el Año Nuevo en Taiwán y los comentarios de Bo En, analizando el contexto de la economía nostálgica.
-
-: Du Dian: Beyblade vuelve a crear una ola de calor: historia, jugabilidad y modelos clásicos imprescindibles del juguete divino de la infancia (abril de 2026) — Organiza los modelos de Beyblade representativos de cada generación, incluyendo la serie de las Cuatro Bestias Sagradas de iniciación para los jugadores taiwaneses, así como los canales oficiales y rangos de precios en Taiwán.
-
-Licencia de imágenes
-
-1. Imagen principal: Beyblade de batalla y lanzador, fotografiado por Dasilvaat, CC BY-SA 4.0, originario de Wikimedia Commons.
-2. Imagen intermedia 1: Trompo tradicional japonés beigoma (beigoma), fotografiado por Σ64, CC BY 3.0, originario de Wikimedia Commons.
-3. Imagen intermedia 2: Escena de competición de Beyblade, fotografiada por el Senior Airman Clayton Lenhardt de la Fuerza Aérea de EE. UU., dominio público (U.S. Air Force), originario de Wikimedia Commons.
+- [Σ64 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beigoma_01.jpg) — CC BY 3.0
+- [Foto de la Fuerza Aérea de EE. UU. por el soldado de primera Clayton Lenhardt](https://commons.wikimedia.org/wiki/File:Beyblades_rip_into_Incirlik_120418-F-BS505-223.jpg) — Dominio público

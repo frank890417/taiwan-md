@@ -17,10 +17,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-13T00:44:02+08:00'
+translatedAt: '2026-11-02T15:37:55.188524+00:00'
 ---
 
 # Cảng cá không chỉ ra khơi: Ngành ngư nghiệp Đài Loan được tái tạo bởi tàu thử nghiệm, chợ cá và một tập thể nhân tài kỹ thuật
@@ -135,10 +135,10 @@ Tương tự, đường sá, làm đá, điện và kho bãi do hiện đại h�
 
 ## Đọc thêm
 
-- [Hiện đại hóa Ngư nghiệp Đài Loan](/vi/history/taiwan-fishery-modernization) — Nửa sau của cùng một vùng biển: đội tàu xa bờ, vùng biển kinh tế chuyên dụng và trách nhiệm quốc tịch
-- [Lịch sử Hiệp hội Nông dân Đài Loan](/vi/history/taiwan-farmers-association-history) — Sự thay đổi thể chế của tổ chức nông thôn, tài chính và cửa sổ công cộng địa phương
-- [Lịch sử Bưu điện Đài Loan](/history/台灣郵政史) — Một cơ sở hạ tầng công cộng khác kết nối địa phương, logistics và hành chính quốc gia
-- [Lịch sử Cấp nước Đài Loan](/history/台灣自來水史) — Cách kỹ thuật, vệ sinh và cuộc sống đô thị cùng nhau hình thành thể chế
+- [Hiện đại hóa ngành ngư nghiệp Đài Loan](/vi/history/taiwan-fishery-modernization) — Hiệp hai trên cùng một vùng biển: Đội tàu xa bờ, vùng đặc quyền kinh tế và trách nhiệm của quốc gia treo cờ
+- [Lịch sử Hiệp hội Nông nghiệp Đài Loan](/vi/history/taiwan-farmers-association-history) — Sự thay đổi về thể chế của các tổ chức nông thôn, tài chính và cửa ngõ công cộng tại địa phương
+- [Lịch sử Bưu điện Đài Loan](/vi/lifestyle/taiwan-postal-service-history) — Một hệ thống hạ tầng công cộng khác kết nối địa phương, logistics và hành chính quốc gia
+- [Lịch sử ngành nước sạch Đài Loan](/vi/geography/taiwan-tap-water) — Cách thức kỹ thuật, vệ sinh và đời sống đô thị cùng nhau hình thành nên các thể chế
 
 ## Tài liệu tham khảo
 

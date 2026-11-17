@@ -20,11 +20,13 @@ lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 10
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-05T05:35:40.206627+00:00'
 ---
 
 > 30-Sekunden-Überblick: Taiwans Textilindustrie war in den 1960er Jahren eine Devisenbringerin, erhielt aber in den 1990er Jahren aufgrund von Kostendruck das Etikett „Sunset-Industrie“. Doch durch 30 Jahre technologischer Transformation liefert Taiwan heute über 70 % der weltweiten Sportfunktionsstoffe[^1]. Von den „Abfallgas-zu-Kleidung“-Anzügen des taiwanesischen Teams bei den Olympischen Spielen 2024 in Paris[^2] bis hin zu 23 von 48 Mannschaften bei der Fußball-WM 2026, die taiwanesisches Garn verwenden[^3] – die Insel definiert mit Abfall und Hightech die globalen Standards nachhaltiger Mode neu.

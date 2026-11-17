@@ -1,15 +1,15 @@
 ---
-title: 'Turismo e cultura de vida inclusivos para todas as idades em Taiwan: quando a humanidade se torna a melhor instalação de acessibilidade'
-description: 'Da perspectiva familiar, observa-se como a sociedade taiwanesa, através da humanidade e de instalações inclusivas, redefine o significado de "viajar juntos como uma família" no caminho para se tornar uma sociedade superenvelhecida.'
+title: 'Turismo e Cultura de Vida Inclusiva para Todas as Idades em Taiwan: Quando a Hospitalidade se Torna uma Facilidade de Acessibilidade'
+description: 'Observando sob uma perspectiva familiar como a sociedade taiwanesa utiliza a hospitalidade e instalações inclusivas para redefinir o significado de "viajar em família" no caminho rumo a uma sociedade superenvelhecida.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'inclusão para todas as idades',
-    'turismo acessível',
-    'sociedade superenvelhecida',
-    'cultura familiar',
-    'resiliência social',
+    'Inclusão de todas as idades',
+    'Turismo acessível',
+    'Sociedade superenvelhecida',
+    'Cultura familiar',
+    'Resiliência social',
   ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:30+08:00'
+translatedAt: '2026-11-02T16:19:50.153330+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

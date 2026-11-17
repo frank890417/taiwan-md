@@ -2,6 +2,7 @@
 title: 'Yu Yong-he'
 description: 'En 1697, un letrado de Hangzhou se ofreció voluntario para viajar a una Taiwán considerada miasmática a extraer azufre. Caminó desde Tainan hasta Beitou y dejó la primera crónica literaria del norte de Taiwán.'
 date: 2026-03-25
+category: 'People'
 tags:
   [
     'Personajes',
@@ -14,17 +15,18 @@ tags:
     'Literatura taiwanesa',
   ]
 subcategory: '歷史與探險'
-category: 'People'
 author: 'Taiwan.md'
 featured: false
-readingTime: 10
 lastVerified: 2026-03-25
 lastHumanReview: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-05-02T08:50:00+08:00'
+translatedAt: '2026-11-04T21:51:27.584108+00:00'
 ---
 
 # Yu Yong-he

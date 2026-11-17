@@ -17,11 +17,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-09-15T19:45:27+08:00'
+translatedAt: '2026-11-06T08:53:52.132490+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Mối quan hệ giữa Đài Loan và Litva đã đạt đỉnh vào năm 2021 khi thiết lập văn phòng mang tên "Đài Loan", nhưng cũng nhanh chóng đối mặt với sự cưỡng ép kinh tế gay gắt từ Trung Quốc. Bước sang năm 2026, sự thay đổi chính trị ở Litva đã gây ra một cuộc kiểm điểm chiến lược sâu sắc: Thủ tướng mới nghi ngờ việc đặt tên là một "sai lầm chiến lược" và cân nhắc đổi tên, trong khi Tổng thống kiên định lập trường hiện tại, tạo ra sự khác biệt giữa hành pháp và lập pháp. Đồng thời, thương mại song phương vẫn tăng trưởng nghịch cảnh trong các lệnh trừng phạt, và Đài Loan đang tiếp tục làm sâu sắc mối quan hệ đối tác mang tên dân chủ này dưới sự thử thách của chủ nghĩa thực dụng thông qua "Kế hoạch hợp tác kinh tế với Đài Loan" và đầu tư thực chất.

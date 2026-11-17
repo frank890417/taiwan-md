@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-07-26T23:43:24+08:00'
+translatedAt: '2026-11-04T21:22:41.918587+00:00'
 ---
 
 # هسو فانغ يي: من ييلان عام 1971، إلى راقصة رئيسية في فرقة مارثا غراهام، وتصميم الرقص البصري الرئيسي لمهرجان جينما عام 2024

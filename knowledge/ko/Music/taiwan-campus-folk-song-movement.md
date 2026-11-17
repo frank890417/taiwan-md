@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T12:07:01+08:00'
+translatedAt: '2026-11-02T00:34:26.541991+00:00'
 ---
 
 # 타이완 민가 운동
@@ -145,12 +145,12 @@ translatedAt: '2026-10-10T12:07:01+08:00'
 
 타이완 민가 운동이 우리에게 주는 대답은 이것이다. 자신의 언어와 이야기로 창작하는 것을 두려워하지 말라. 그래야만 우리는 이 세상에 진정으로 우리 것인 목소리를 남길 수 있기 때문이다.
 
-## 심화 독서
+## 연관 읽기
 
-- [타이완 대중음악 발전](/music/台灣流行音樂發展) — 민가 이후 로다우에서 천치정, 장쉬안으로 이어지는 화어 대중음악의 주류 축
-- [해제 후 타이완 문학](/ko/art/post-martial-law-taiwanese-literature) — 1987년 해제 이후 또 다른 문화적 자각운동으로, 민가의 '자신의 노래를 부르다' 정신과 기원이 같다.
-- [타이완 영화](/ko/art/taiwanese-cinema) — 동시대의 타이완 신영화 운동으로, 1970~80년대 타이완 토착 문화 각성의 또 다른 축이다.
-- [싼마오(三毛)](/ko/people/san-mao) — 〈올리브나무〉 원작 시인으로, 가사가 재창조되어 화어 세계에 퍼졌다.
+- [타이완 대중음악의 발전](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 민가 이후 로다유(羅大佑)부터 천치전(陳綺貞), 장셴(張懸)에 이르는 화어권 대중음악의 주류 축
+- [해엄 이후의 타이완 문학](/ko/art/post-martial-law-taiwanese-literature) — 1987년 해엄 이후 나타난 또 다른 문화적 자각 운동으로, 민가의 「자신의 노래를 부르다」 정신과 그 뿌리를 같이함
+- [타이완 영화](/ko/art/taiwanese-cinema) — 동시기의 타이완 뉴웨이브 영화 운동, 1970~80년대 타이완 토착 문화 각성의 또 다른 축
+- [산마오(三毛)](/ko/people/san-mao) — 〈올리브 나무〉의 원작 작사가로, 가사가 개사된 후 화어권 전역에 퍼짐
 
 ---
 

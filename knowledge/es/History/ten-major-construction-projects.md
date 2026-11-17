@@ -2,9 +2,7 @@
 title: 'Los Diez Proyectos de Construcción: una apuesta de dos mil millones de dólares en divisas de diez millones'
 description: 'En 1973, las reservas de divisas de Taiwán apenas sumaban mil millones de dólares, pero Chiang Kai-shek anunció la inversión de unos 300.000 millones de dólares taiwaneses para impulsar los Diez Proyectos de Construcción. Esto no solo fue un giro económico para responder a la crisis petrolera y al aislamiento diplomático, sino también una narrativa política que reempaquetó los planos heredados de la era colonial japonesa para transformarlos en identidad nacional.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '經濟發展史'
 tags:
   [
     'Desarrollo económico',
@@ -14,15 +12,19 @@ tags:
     'Historia de Taiwán',
     'Modernización industrial',
   ]
-readingTime: 12
+subcategory: '經濟發展史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/十大建設.md'
-sourceCommitSha: '9ecd20d61'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c56d8ded11ccacaf'
 sourceBodyHash: 'sha256:b63c0b30d24f0d0a'
-translatedAt: '2026-07-24T10:40:42+08:00'
+translatedAt: '2026-11-05T05:15:00.920963+00:00'
 ---
 
 > **Resumen en 30 segundos:**

@@ -1,6 +1,6 @@
 ---
-title: 'Gralha-azul-de-Taiwan: a gangue azul na selva urbana e uma batalha genética centenária'
-description: 'Em 2007, com 180.000 votos, conquistou o posto de ave nacional, mas esta joia das florestas é uma família robusta que pratica “brigas de gangue”. É uma espécie endêmica de Taiwan, desde o primeiro espécime coletado por Swinhoe em 1862 até hoje, quando rouba ração de gato em parques urbanos, graças a uma taxa de 97% de ajudantes no ninho que garantem vitória na competição; e ao longo de mais de cem anos, mantiveram a fronteira genética com a gralha-azul-de-bico-vermelho da China. Esta é uma história insular sobre sobrevivência, coesão familiar, guerra genética e a sabedoria da coexistência entre humanos e aves.'
+title: 'Pega-azul-de-Taiwan: a gangue azul na selva urbana e uma batalha centenária pela preservação genética'
+description: 'A pega-azul-de-Taiwan é uma espécie endêmica de Taiwan, tendo vencido a seleção de ave nacional em 2007. Sua população é estável, listada como "Pouco Preocupante" na Lista Vermelha da IUCN, e classificada como espécie protegida de terceiro nível em Taiwan, principalmente por ser endêmica; nos últimos anos, tem aumentado em áreas de baixa altitude e parques urbanos. Vivem em grupos, e 97% dos grupos familiares contam com ajudantes na criação dos filhotes, atacando coletivamente invasores; a ameaça mais preocupante é a hibridização e a poluição genética trazidas pela espécie exótica pega-azul-de-bico-vermelho.'
 date: 2026-04-30
 category: 'Nature'
 tags:
@@ -9,11 +9,11 @@ tags:
     'espécie protegida',
     'aves',
     'ecologia',
-    'donzela-de-cauda-longa',
+    'longa-cauda-da-montanha',
     'reprodução cooperativa',
-    'Tsou',
-    'Bunun',
-    'gralha-azul-de-bico-vermelho',
+    'povo Tsou',
+    'povo Bunun',
+    'pega-azul-de-bico-vermelho',
     'ciência cidadã',
     'mudanças climáticas',
   ]
@@ -23,11 +23,15 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T03:32:54.760119+00:00'
+translatedAt: '2026-11-05T19:30:10.962426+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

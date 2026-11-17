@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-07-26T20:52:22+08:00'
+translatedAt: '2026-11-04T21:44:03.944058+00:00'
 ---
 
 > Năm 1976, Thái Hoàng Cự sinh ra tại Bảo Khóa, bệnh nền mặt nguyên sinh dẫn đến ông mù hai lần. Tuy nhiên, kinh nghiệm "không thể nhìn thấy" này đã trở thành nguồn sống cho sự nghiệp âm nhạc và cuộc đời ông. Ông không chỉ là người giữ kỷ lục bốn lần xuất hiện giải thưởng Golden Melody cho ca sĩ nam nhạc truyền thống Đài Loan, mà còn từng đại diện cho Đài Loan dâng hộ tại APEC, giành hạng ba võ đề. Vào năm 1995, ông thành lập "Ban Nhạc Cầm Toàn Diện", mở đường chuyên nghiệp hóa cho các nghệ sĩ mù. Gần đây, ông đã sử dụng phong cách "địa hỗn" độc đáo để phản biện xã hội, chứng minh rằng dù sống trong bóng tối, con người vẫn có thể tỏa sáng qua tiếng hát và tư duy rộng mở.

@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T06:29:11.939024+00:00'
 ---
 
 # Die Wilde Tulpen-Bewegung

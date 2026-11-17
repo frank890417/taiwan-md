@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:71bb6dc9665fc922'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-08-03T23:02:21.539863+00:00'
+translatedAt: '2026-11-04T21:42:50.999051+00:00'
 ---
 
 # वू बाई: लिउजियाओ टाउनशिप के सुंतौ गांव से शुरुआत, ताइवानी रॉक के तीस साल बिना समझौते

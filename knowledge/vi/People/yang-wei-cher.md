@@ -19,11 +19,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-09-16T11:57:32+08:00'
+translatedAt: '2026-11-06T21:32:09.383583+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
@@ -79,28 +81,28 @@ Sự tồn tại của Dương Duy Triết chính là một sự chất vấn l�
 
 ## Tài liệu tham khảo
 
-[^1]: [Huyền thoại giảng dạy tiếng Đài ngữ tại Đại học Đài Loan và những diễn biến tiếp theo (Câu hỏi cũ: Giáo sư Dương Duy Triết giảng dạy bằng tiếng Đài ngữ năm 1997, Nghị viên cho là "Vi hiến"!)](https://www.telltaiwan.org/5057) — Giáo sư Chu Uyển Yểu đã trình bày chi tiết bối cảnh lịch sử và tranh cãi tại Viện Lập pháp về việc giáo sư Dương Duy Triết giảng dạy bằng tiếng Đài ngữ.
+[^1]: [Huyền thoại về việc giảng dạy bằng tiếng Đài Loan tại Đại học Quốc gia Đài Loan và những phát triển sau đó (Tiêu đề cũ: Năm 1997 giáo sư Dương Vĩ Triết giảng dạy bằng tiếng Đài Loan, nghị viên Viện Lập pháp cho là "vi hiến"!)](https://www.telltaiwan.org/5057) — Giáo sư Châu Uyển Yểu chi tiết bối cảnh lịch sử và tranh cãi tại Viện Lập pháp về việc giáo sư Dương Vĩ Triết giảng dạy bằng tiếng Đài Loan.
 
-[^2]: [Dương Duy Triết - Wikipedia, Bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Tổng quan cơ bản về tiểu sử và đặc điểm giảng dạy của giáo sư Dương Duy Triết.
+[^2]: [Dương Vĩ Triết - Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Tổng quan về tiểu sử cơ bản và đặc điểm giảng dạy của giáo sư Dương Vĩ Triết.
 
-[^3]: [Dương Duy Triết: Tôi hối tiếc vì đã không bắt đầu bằng tiếng Đài ngữ để dạy toán](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Phỏng vấn độc quyền trên 《Tân Đài Loan Tân Văn Tuần Gian》, ghi lại hành trình tâm lý của giáo sư Dương Duy Triết trong việc quảng bá giảng dạy bằng tiếng Đài ngữ.
+[^3]: [Dương Vĩ Triết: Tôi hối hận vì không dạy toán bằng tiếng Đài Loan ngay từ đầu](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Phỏng vấn độc quyền của 'Tân Đài Loan Tin Tức Tuần Báo', ghi lại hành trình tâm tình của giáo sư Dương Vĩ Triết trong việc phổ biến giảng dạy bằng tiếng Đài Loan.
 
-[^4]: [Giảng đường Toán học của Giáo sư Dương Duy Triết - Hình học tọa độ cơ bản](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Nhà xuất bản Ngũ Nam giới thiệu triết lý giáo dục và các sách chuyên môn toán học của giáo sư Dương Duy Triết.
+[^4]: [Hội đường Toán học của giáo sư Dương Vĩ Triết - Hình học tọa độ cơ bản](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Nhà xuất bản Ngũ Nam giới thiệu triết lý giáo dục và chuyên著 toán học của giáo sư Dương Vĩ Triết.
 
-[^5]: [【Bài giảng vàng tiếng Đài ngữ】Giáo sư Dương Duy Triết diễn thuyết: Bàn về bằng góc độ Toán học](https://www.instagram.com/p/Czgc1tJPeAK/) — Thông tin sự kiện buổi diễn thuyết của giáo sư Dương Duy Triết tại Khoa Văn học Đại học Đài Loan năm 2023.
+[^5]: [[Hội thảo tiếng Đài Loan thứ Sáu] Bài phát biểu của giáo sư Dương Vĩ Triết: Trình bày từ góc nhìn toán học](https://www.instagram.com/p/Czgc1tJPeAK/) — Thông tin hoạt động bài phát biểu của giáo sư Dương Vĩ Triết tại Viện Văn học Đại học Quốc gia Đài Loan năm 2023.
 
-[^6]: [Cảm giác như gặp Newton (Phần dưới)](https://blog.udn.com/Carole777/45605455) — Mô tả tương tác và tình cảm giữa giáo sư Dương Duy Triết với các tiền bối, đồng nghiệp tại Khoa Toán Đại học Đài Loan.
+[^6]: [Cảm giác như gặp gỡ Newton (Phần dưới)](https://blog.udn.com/Carole777/45605455) — Ghi lại sự tương tác và tình nghĩa giữa giáo sư Dương Vĩ Triết với các tiền bối, đồng nghiệp khoa Toán Đại học Quốc gia Đài Loan.
 
-[^7]: [Giáo viên khoa toán kể về quá trình trưởng thành của tôi từ cấp ba](https://www.instagram.com/p/C8Zkg9-PC4w/) — Giáo sư Diệp Bính Thành hồi tưởng về ảnh hưởng của giáo sư Dương Duy Triết đối với giáo dục ưu tú và sinh viên.
+[^7]: [Nhìn từ cấp ba: Người thầy khoa Toán nhìn tôi lớn lên](https://www.instagram.com/p/C8Zkg9-PC4w/) — Giáo sư Diệp Bính Thành hồi tưởng ảnh hưởng của giáo sư Dương Vĩ Triết đối với giáo dục tài năng và học sinh.
 
-[^8]: [Truyền thông Toán học - Dương Duy Triết](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Danh mục các tác phẩm của giáo sư Dương Duy Triết trên tạp chí 《Truyền thông Toán học》 thuộc Viện Nghiên cứu Trung ương.
+[^8]: [Truyền thông Toán học - Dương Vĩ Triết](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Danh sách tác phẩm của giáo sư Dương Vĩ Triết trên tạp chí 'Truyền thông Toán học' của Viện Nghiên cứu Toán học, Viện Hàn lâm Trung ương.
 
-[^9]: [Sáu – Dũng sĩ tinh tiến, họa đàn trường xuân - Dương Khải Đông và Dương Duy Triết](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Lưu trữ tại Bảo tàng Nghệ thuật Quốc gia Đài Loan, mô tả câu chuyện con trai bỏ nghề y theo toán của hai cha con.
+[^9]: [Lục - Dũng sĩ tinh tiến, họa đàn trường thanh - Dương Khải Đông và Dương Vĩ Triết](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Lưu trữ của Bảo tàng Mỹ thuật Quốc gia Đài Loan, chi tiết câu chuyện cha con Dương Khải Đông và Dương Vĩ Triết bỏ y học theo toán học.
 
-[^10]: [Sinh viên ưu tú "nhảy ba cấp" đầu tiên tại Đài Loan! Dương Bách tốt nghiệp Đại học Đài Loan năm 18 tuổi](https://time.udn.com/udntime/story/122833/8798116) — Bài báo trên Thời báo Liên hợp, ghi lại quá trình trưởng thành thiên tài của con trai ông, Dương Bách.
+[^10]: [Học sinh tài năng đầu tiên của Đài Loan 'nhảy ba cấp'! Dương Bách Nhân tốt nghiệp Đại học Quốc gia Đài Loan ở 18 tuổi](https://time.udn.com/udntime/story/122833/8798116) — Báo Liên Hợp ghi lại hành trình lớn lên của thiên tài Dương Bách Nhân, con trai của giáo sư Dương Vĩ Triết.
 
-[^11]: [Vụ án Trần Văn Thành và Khoa Toán Đại học Đài Loan](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Ghi chép trên Wikipedia về lập trường của giáo sư Dương Duy Triết trong vụ án Trần Văn Thành.
+[^11]: [Sự kiện Trần Văn Thành và khoa Toán Đại học Quốc gia Đài Loan](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Bài viết Wikipedia về lập trường của giáo sư Dương Vĩ Triết trong sự kiện Trần Văn Thành.
 
-[^12]: [Dương Duy Triết 20081223: Từ cuộc sống đại học đến vụ án Trần Văn Thành](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Bản ghi phỏng vấn lịch sử truyền miệng tại Bảo tàng Lịch sử Đại học Quốc lập Đài Loan.
+[^12]: [Dương Vĩ Triết 20081223: Từ đời sống đại học đến sự kiện Trần Văn Thành](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Bản ghi chép phỏng vấn lịch sử khẩu thuật của Quản sử quán Đại học Quốc gia Đài Loan.
 
-[^13]: [Kỷ niệm 41 năm vụ án Trần Văn Thành: Tưởng nhớ một dũng sĩ kiên quyết chống lại bạo lực của quốc gia](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Tin tức trên Yahoo, đề cập đến việc Dương Duy Triết đề xuất dòng chữ cho đài tưởng niệm Trần Văn Thành.
+[^13]: [41 năm sự kiện Trần Văn Thành: Tưởng nhớ một dũng sĩ kiên quyết kháng cự bạo lực nhà nước](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahoo News báo dẫn, nhắc đến giáo sư Dương Vĩ Triết viết chữ cho bia tưởng niệm Trần Văn Thành.

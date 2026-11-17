@@ -2,6 +2,7 @@
 title: "Taiwan's Urban Development and the Rural-Urban Divide"
 description: '70 years transformed Taiwan from agricultural island to urban island: The light and shadow of six special municipalities concentrating 70% of the population'
 date: 2026-03-21
+category: 'Geography'
 tags:
   [
     'urban development',
@@ -10,18 +11,20 @@ tags:
     'population migration',
     'regional development',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md'
-difficulty: 'beginner'
-readingTime: 12
-category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: 'f45a1933'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bfa78a33fd163a9a'
 sourceBodyHash: 'sha256:aa0440f383f174b1'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-11-05T05:44:49.665652+00:00'
 ---
 
 # Taiwan's Urban Development and the Rural-Urban Divide

@@ -1,28 +1,30 @@
 ---
 title: 'School Cooperatives in Taiwan: The Vanishing Democratic Experiment Behind the Pork Bun'
 description: 'In 1989, NTU student body president Lo Wen-chia led a sit-in at the campus welfare shop, demanding it be restructured into a teacher-and-student-owned cooperative. A year later, the Ministry of Education made it national policy, and at peak there were over 5,000 cooperative shops across Taiwan campuses. Three decades on, the cooperatives at flagship schools like Jianguo High and Jingmei Girls High are switching off their lights — squeezed out by food-delivery platforms, food bans, and the demographic cliff. This piece asks: when the NT$10 share certificate disappears, what Taiwan loses is not just the smell of steamed pork buns, but an unfinished lesson in civic and labor education.'
-category: Lifestyle
-subcategory: '教育'
+date: 2026-04-30
+category: 'Lifestyle'
 tags:
   [
-    campus culture,
-    cooperatives,
-    taiwan history,
-    labor education,
-    democratic economy,
-    demographic decline,
+    'campus culture',
+    'cooperatives',
+    'taiwan history',
+    'labor education',
+    'democratic economy',
+    'demographic decline',
   ]
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
-date: 2026-04-30
-readingTime: 12
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-04-30T22:33:56+08:00'
-featured: false
+translatedAt: '2026-11-04T18:46:12.617223+00:00'
 ---
 
 # School Cooperatives in Taiwan: The Vanishing Democratic Experiment Behind the Pork Bun

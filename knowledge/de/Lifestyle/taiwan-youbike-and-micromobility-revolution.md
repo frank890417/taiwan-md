@@ -1,104 +1,133 @@
 ---
-title: 'Taiwan YouBike Kultur und die Revolution des urbanen Mikromobilitätsverkehrs'
-description: 'Von der „letzten Meile“ zur alltäglichen Infrastruktur: Wie YouBike mit geringen Gebühren, dichtem Netz und Echtzeit-Allokation die Mobilitätsgewohnheiten und das Zeitgefühl in Taiwan verändert.'
+title: 'Die YouBike-Kultur Taiwans und die Revolution der urbanen Mikromobilität'
+description: 'Vom „letzten Kilometer“ zur alltäglichen Infrastruktur: Wie YouBike durch niedrige Tarife, dichte Stationen und Echtzeit-Logistik die Mobilitätsgewohnheiten und das Zeitgefühl in taiwanesischen Städten verändert.'
 date: 2026-04-14
 category: 'Lifestyle'
-tags: ['YouBike', 'Stadtverkehr', 'grüne Mobilität', 'Mikromobilität']
+tags: ['YouBike', 'Stadtverkehr', 'Grüne Mobilität', 'Mikromobilität']
 subcategory: '交通與移動'
 author: 'Wilson Chen'
 featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-05T00:25:44+08:00'
 ---
 
 > **30-Sekunden-Überblick:**
-> In Taiwan erreichte der Jahresverleih von YouBike in Taipeh 2023 46 Millionen Mal und ist somit keine gelegentliche Freizeitbeschäftigung mehr, sondern eine Standardoption für viele Pendler. Interessanterweise zeigt das System eine „Verfügbarkeitsrate von etwa 90 %“, doch Nutzer berichten oft über Frustrationen, weil sie ein Fahrrad nicht ausleihen konnten. Dieser Artikel fragt nicht, ob YouBike gut ist, sondern: Was verteilen wir neu, wenn die Stadt Fahrräder zu einer Infrastruktur macht?
+> Im Jahr 2023 erreichte das jährliche Leihvolumen von YouBike in Taipeh 46 Millionen Mal. Es ist kein Freizeitservice für „gelegentliche Fahrten“ mehr, sondern die Standardoption für den täglichen Arbeitsweg vieler Menschen.
+> Interessanterweise zeigt die Systemebene eine „Verfügbarkeitsrate von etwa 90 %“, doch Nutzer erleben dennoch häufig den Frust des „Nicht-Leihbar-Seins“.
+> Dieser Artikel will nicht beantworten, ob „YouBike gut ist“, sondern: Wenn eine Stadt Fahrräder zu einer Basisinfrastruktur macht, was genau wird dann neu verteilt?
 
-Am 22. März 2024 erreichte der Tagesverleih von YouBike in Taipeh einen neuen Rekord mit 207.000 Verleihen [^1]. In derselben Stadt lag laut offiziellen Indikatoren die Verfügbarkeit durchweg bei etwa 90 % [^1]. Doch die meisten Pendler kennen dieses Gefühl: Um 8:32 Uhr vor dem U-Bahn-Ausgang zu stehen und festzustellen, dass „kein Fahrrad verfügbar“ ist.
+Am 22. März 2024 erreichte das tägliche Leihvolumen von YouBike in Taipeh einen neuen Rekord von 207.000 Fahrten. [^1]
+In derselben Stadt zeigen offizielle Indikatoren, dass die stadtweite Verfügbarkeitsrate der Fahrräder weitgehend bei etwa 90 % liegt. [^1]
+Doch die meisten Pendler kennen das Gefühl: Man steht um 8:32 Uhr vor dem Ausgang der MRT (Mass Rapid Transit) und sieht genau „0 verfügbare Räder“.
 
-Dies ist nicht nur eine Frage der „Verfügbarkeit“.
-Es ist ein städtisches Problem bezüglich Zeitabschnitten, räumlicher Dichte und menschlichem Verhalten.
+Dies ist nicht nur eine Frage des „Ob es Fahrräder gibt“.
+Es ist eine städtische Fragestellung über Zeitfenster, Raumdichte und menschliches Verhalten.
 
-> **📝 Kuratorennotiz**
-> Wenn ein System alltäglich wird, steigt der Bewertungsstandard von „brauchbar“ auf „genau in dem Moment verfügbar sein, den ich brauche“.
+> **📝 Anmerkung der Kuratoren**
+> Sobald ein System zum Alltag gehört, steigt der Qualitätsstandard von „verfügbar“ zu „muss genau in der Minute verfügbar sein, in der ich es brauche“.
 
-## Vom Zubringer zum Alltagsstandard
+## Vom Zubringer zum alltäglichen Standard
 
-Die ursprüngliche Rolle von YouBike im städtischen Verkehr Taiwans war klar: die Ergänzung der ersten und letzten Meile des öffentlichen Nahverkehrs [^2]. Diese Rolle klingt nach einer Nebenfigur, aber in dicht besiedelten Städten bestimmt oft die Nebenrolle, ob das ganze Stück überhaupt funktioniert.
+Die ursprüngliche Positionierung von YouBike im taiwanesischen Stadtverkehr war klar: Die Lücke des ersten und letzten Kilometers des öffentlichen Nahverkehrs zu schließen. [^2]
+Diese Rolle klingt nach einer Nebenrolle, doch in hochverdichteten Städten entscheiden die Nebenrollen oft darüber, ob das gesamte Stück überhaupt stattfinden kann.
 
-Akademische Studien präzisieren dies weiter. Eine Studie mit Taipeh als Fallbeispiel zeigt, dass YouBike tatsächlich eine deutliche First-Mile/Last-Mile-Dienstleistung für die MRT bietet; gleichzeitig gibt es Bereiche mit „hoher Versorgung und geringer Nachfrage“ sowie „hoher Nachfrage und geringer Versorgung“ [^3]. Mit anderen Worten geht es nicht nur darum, ob etwas da ist, sondern ob es passt.
+Die akademische Forschung beschreibt dies noch präziser.
+Studien am Beispiel von Taipeh zeigen, dass YouBike tatsächlich einen deutlichen Service für den ersten/letzten Kilometer der MRT bietet; gleichzeitig entstehen jedoch Fehlpassungen, bei denen „hohes Angebot bei geringer Nachfrage“ und „hohe Nachfrage bei geringem Angebot“ nebeneinander existieren. [^3]
+Mit anderen Worten: Es geht nicht nur darum, ob das System „da ist“, sondern ob es „präzise passt“.
 
-Man kann diese Diskrepanz wie eine städtische Schuhgröße verstehen. Es gibt viele Schuhe im Schrank, aber das bedeutet nicht, dass jeder gerade die richtige Größe trägt.
+Man kann diese Fehlpassung als die städtische Version der „Schuhgröße“ betrachten.
+Nur weil viele Schuhe im Schrank stehen, bedeutet das nicht, dass jeder Mensch in diesem Moment seine passende Größe findet.
 
-## 5 Yuan: Warum kann dies den Rhythmus einer ganzen Stadt verändern?
+## Warum können 5 NT$ den Rhythmus einer ganzen Stadt verändern?
 
-Wenn man nur den Betrag betrachtet, ist 5 Yuan ein kleiner Restbetrag für einen Eiskaffee in Taipeh. Aber wenn man das Verhalten betrachtet, kann es die Grenze zwischen „zu Fuß gehen“ und „radfahren“ sein.
+Betrachtet man nur den Betrag, sind 5 NT$ kaum mehr als das Kleingeld für ein Bubble Tea in Taipeh.
+Doch betrachtet man das Verhalten, könnten 5 NT$ die Trennlinie zwischen „Heute laufe ich“ und „Heute fahre ich Rad“ sein.
 
-Eine empirische Studie zu YouBike in Taipeh ergab, dass der Tagesverleih an Werktagen nach Einführung einer Startgebühr von 5 Yuan um 14 % sank, während er an Wochenenden um 43 % sank; die tägliche Umschlagshäufigkeit pro Fahrrad sank von 10,4 auf 8,0 Mal [^4]. Entscheidender war jedoch, dass sich Spitzenzeiten, Fahrtdauer und Verteilungen nicht drastisch änderten [^4]. Das bedeutet, viele brauchten das Rad nicht nicht, sondern waren sehr preissensibel.
+Eine empirische Studie zu YouBike in Taipeh weist darauf hin, dass nach der Einführung einer Startgebühr von 5 NT$ das tägliche Leihvolumen an Wochentagen um 14 % und an Wochenenden um 43 % sank; die tägliche Fluktuation pro Fahrrad fiel von 10,4 auf 8,0 Mal. [^4]
+Entscheidender ist jedoch, dass sich die Stoßzeiten, die Fahrtdauer und die Distanzverteilung nicht drastisch veränderten. [^4]
+Das bedeutet, dass viele Menschen das Radfahren nicht grundsätzlich nicht mehr wollen, aber sehr sensibel auf Preisschwellen reagieren.
 
-> **📝 Kuratorennotiz**
-> Manche Politiken scheinen die „Gebühren“ anzupassen, doch in Wirklichkeit passen sie die „Schwierigkeit an, eine Gewohnheit zu aktivieren“.
+> **📝 Anmerkung der Kuratoren**
+> Manche politischen Maßnahmen scheinen „Tarife“ zu regulieren, in Wahrheit regulieren sie jedoch die „Leichtigkeit, mit der Gewohnheiten aktiviert werden“.
 
-Derselbe Gedanke gilt für die 30-minütige kostenlose Nutzung, die Taipeh im Jahr 2024 wieder einführte. Sowohl offizielle als auch Medienbeobachtungen verzeichneten einen Anstieg der Nutzung und zeigten innerhalb kurzer Zeit mehrmalige Tagesrekorde von fast oder über 190.000 Verleihen [^1]. Dies verschob die Diskussion über YouBike von „Fördern oder nicht fördern“ hin zu „Kann es bewältigen oder nicht“.
+Dieselbe Logik zeigte sich nach der Wiederaufnahme der ersten 30 Minuten kostenloser Nutzung in Taipeh im Jahr 2024.
+Sowohl offizielle Stellen als auch Medien beobachteten einen Anstieg der Nutzung, wobei es in kurzer Zeit mehrfach zu täglichen Rekorden von nahezu oder über 190.000 Fahrten kam. [^1]
+Dies verschob die Diskussion über YouBike von der Frage „Soll man es fördern?“ hin zu „Kann das System diese Last tragen?“.
 
-## Dichteres Netz, aber warum fühlt man sich trotzdem oft ohne ein Fahrrad?
+## Die Stationen sind dichter – warum fühlt es sich trotzdem oft so an, als könne man nicht leihen?
 
-Dies ist der paradoxeste und städtischste Teil. Die „durchschnittliche Verfügbarkeit von 90 %“ und das „gefühlte Nicht-Finden durch Pendler“ können gleichzeitig zutreffen [^1].
+Dies ist der kontraintuitivste und zugleich städtischste Teil.
+„Durchschnittliche Verfügbarkeit von 90 %“ und „das Gefühl der Pendler, nicht leihen zu können“, können gleichzeitig wahr sein. [^1]
 
-Der Grund liegt in den unterschiedlichen Zeitskalen, die gemessen werden. Die Verfügbarkeit wird oft über lange Zeiträume statistisch erfasst, während der Pendler in einem extrem kurzen Fenster von 5 bis 10 Minuten lebt. Wenn man um 8:30 Uhr kein Fahrrad bekommt, ist das für einen zu 100 % nicht verfügbar; selbst wenn an dieser Station den ganzen Tag 90 % der Zeit ein Fahrrad da war, kann dies die einmalige negative Erfahrung nicht ausgleichen.
+Der Grund liegt darin, dass beide unterschiedliche Zeitskalen messen.
+Die Verfügbarkeitsrate wird oft über lange Zeiträume statistisch erfasst, während Pendler in extrem kurzen Fenstern von 5 bis 10 Minuten leben.
+Wenn Sie um 8:30 Uhr kein Rad leihen können, bedeutet das für Sie eine Verfügbarkeit von 0 %; selbst wenn die Station den ganzen Tag über zu 90 % der Zeit belegt ist, kann dies die einmalige negative Erfahrung nicht kompensieren.
 
-Hinzu kommt, dass die Echtzeitdaten von YouBike jede Minute aktualisiert werden [^5]. In Spitzenzeiten reicht eine Minute aus, um einen gesamten Parkplatz von „verfügbar“ zu „leer“ und „zurückzugebende Fahrräder“ zu „vollständig belegt“ zu machen. Das System ist kontinuierlich beobachtbar, aber die Nutzererfahrung ist diskret und emotional.
+Hinzu kommt, dass die Echtzeitdaten von YouBike jede Minute aktualisiert werden. [^5]
+In der Stoßzeit reicht eine einzige Minute aus, um eine ganze Reihe von Parkplätzen von „besetzt“ auf „frei“ oder von „frei“ auf „voll“ zu verändern.
+Das System ist datentechnisch kontinuierlich beobachtbar, aber das Nutzererlebnis ist diskret und emotional.
 
-> **📝 Kuratorennotiz**
-> Die Zufriedenheit mit einem Transportmittel wird oft nicht durch den Durchschnitt bestimmt, sondern durch die „kritischste 10-Minuten-Periode“.
+> **📝 Anmerkung der Kuratoren**
+> Die Zufriedenheit mit einem Verkehrsmittel wird oft nicht durch den Durchschnitt bestimmt, sondern durch die „stressigsten 10 Minuten“.
 
-## Man denkt, man fährt Fahrrad, aber man beteiligt sich an einem Echtzeit-Algorithmus-System
+## Sie denken, Sie fahren Rad – in Wahrheit nehmen Sie an einem Echtzeit-Algorithmus-System teil
 
-Viele denken, YouBike sei ein Drei-Schritte-Prozess: „Ausleihen, fahren, zurückgeben“. Tatsächlich ist es ein Systemingenieurwesen, das aus der Kombination von Stationenverteilung, Kapazität der Fahrradständer, Allokationsrouten, Echtzeitdatenfluss und Vorhersagemodellen besteht [^1][^5].
+Viele glauben, YouBike bestünde aus drei Schritten: „Rad leihen, fahren, zurückgeben“.
+In Wirklichkeit ist es ein Systemprojekt, bei dem Standortplanung, Kapazität der Fahrradständer, Logistikrouten, Echtzeit-Datenströme und Vorhersagemodelle zusammenarbeiten. [^1][^5]
 
-Eine Analyse öffentlicher Daten von _Reporter_ zu Taipeh zeigte auch, dass die Verfügbarkeit an bestimmten Zeiten und Standorten nach Einführung der Politik schwankte; gleichzeitig reagierten Stadtverwaltung und Betreiber kontinuierlich mit mehr Fahrrädern und Allokation auf den Spitzenlastdruck [^1]. Dies erinnert uns daran: Öffentliche Fahrräder sind keine „fertige Hardware“, sondern ein dynamischer Dienst, der täglich gewartet werden muss.
+Analysen von _The Reporter_ zu den öffentlichen Daten von Taipeh zeigen ebenfalls, dass nach Einführung bestimmter Maßnahmen die Verfügbarkeit an einigen Zeiten und Standorten tatsächlich schwankt; gleichzeitig reagieren die Stadtverwaltung und der Betreiber kontinuierlich auf den Druck der Stoßzeiten durch das Hinzufügen von Fahrrädern und Logistik. [^1]
+Dies erinnert uns daran: Öffentliche Fahrräder sind keine Hardware-Infrastruktur, die man „einmal installiert“ und dann fertig hat, sondern ein dynamischer Dienst, der tägliche Wartung erfordert.
 
-Die Betriebsdaten von 2026 zeigen beispielsweise Verleihzahlen von über 50.000 pro Monat an beliebten Stationen (z. B. in der Nähe des U-Bahnhofs Gongguan) [^2]. Diese Dichte nähert sich eher der Rolle eines „städtischen Kapillarsystems“ als nur einer Ergänzung rund um Sehenswürdigkeiten.
+Betrachtet man die offiziellen Betriebsergebnisse von März 2026, so erreichen beliebte Stationen (wie etwa im Umfeld der MRT-Station Gongguan) bereits ein monatliches Leihvolumen von über 50.000 Mal. [^2]
+Diese Dichte nähert sich der Rolle von „städtischen Kapillaren“ an und ist nicht mehr nur eine Ergänzung des Verkehrs in der Nähe von Sehenswürdigkeiten.
 
-## Neue Fragen, die die Stadt beantworten muss, wenn Fahrräder zur Infrastruktur werden
+## Wenn das Fahrrad zur Infrastruktur wird: Neue Fragen für die Stadt
 
-Die erste Frage ist die Effizienz: Streben wir eine gute Durchschnittsstatistik für die ganze Stadt an oder reduzieren wir die Ausfallrate in Spitzenzeiten?
+Die erste Frage ist die Effizienz:
+Streben wir nach schönen Durchschnittswerten für die ganze Stadt oder nach einer Senkung der Ausfallrate während der Stoßzeiten?
 
-Die zweite Frage ist die Fairness: Soll die Ressource auf Hochbedarf-Hotspots konzentriert werden oder soll ein gewisser Anteil für Gebiete mit geringer Nachfrage, aber schwacher Verkehrsergänzung, reserviert bleiben?
+Die zweite Frage ist die Gerechtigkeit:
+Sollten Ressourcen in Gebieten mit hoher Nachfrage konzentriert werden, oder sollte ein gewisser Anteil für Gebiete mit geringer Nachfrage reserviert bleiben, die jedoch kaum alternative Verkehrsmittel bieten?
 
-Die dritte Frage betrifft Sicherheit und Raum: Wie müssen Radwege, Fußgängerbereiche und Umsteigepunkte gestaltet werden, wenn immer mehr Menschen auf Mikromobilität angewiesen sind, damit sie nicht miteinander konkurrieren?
+Die dritte Frage ist Sicherheit und Raum:
+Wenn mehr Menschen auf Mikromobilität angewiesen sind, wie müssen das Radwegenetz, der Fußgängerraum und die Umstiegsknotenpunkte gemeinsam gestaltet werden, damit sie sich nicht gegenseitig den Platz streitig machen?
 
-Laut einer Untersuchung des Verkehrsministeriums im Jahr 2024 machten nicht-motorisierte Transportmittel 12,8 % der gesamten Transportvorgänge in Taiwan aus, wovon Fahrräder (einschließlich geteilter) 9,9 % ausmachten; grüne Mobilität (öffentlicher Verkehr + nicht-motorisiert) machte 28,0 % aus [^6]. Diese Zahlen sehen nicht revolutionär aus, könnten aber der Ausgangspunkt sein, an dem sich die städtische Mobilität langsam neu schreibt.
+Laut einer Untersuchung des Verkehrsministeriums aus dem Jahr 113 (2024) beträgt der Anteil nicht-motorisierter Verkehrsmittel an den Gesamtfahrten in Taiwan 12,8 %, wovon Fahrräder (einschließlich Shared Bikes) 9,9 % ausmachen; die grüne Mobilität (öffentlicher Nahverkehr + nicht-motorisiert) liegt bei 28,0 %. [^6]
+Diese Zahlen wirken vielleicht noch nicht wie eine Revolution, könnten aber der Ausgangspunkt für eine schrittweise Neugestaltung der städtischen Mobilität sein.
 
-> **📝 Kuratorennotiz**
-> Eine wahre Verkehrsrevolution sieht selten aus wie eine „Fertigstellungszeremonie eines Großprojekts“; sie ähnelt eher dem Moment, in dem man plötzlich feststellt: Ich bin seit sechs Monaten nicht mehr mit dem Motorrad gefahren.
+> **📝 Anmerkung der Kuratoren**
+> Eine echte Verkehrswende sieht selten aus wie die „Einweihungsfeier eines Großprojekts“; sie fühlt sich eher so an, als ob man eines Tages plötzlich feststellt: „Ich bin diesen Weg seit einem halben Jahr nicht mehr mit dem Motorrad gefahren.“
 
-Der wichtigste Aspekt von YouBike ist nicht, ob es eine bestimmte Transportform ersetzt hat. Es ist vielmehr die Tatsache, dass es städtischen Bewohnern zum ersten Mal ermöglichte, „kurze Strecken“ als etwas zu betrachten, das neu gestaltet werden kann. Wenn dies geschieht, geht es in der Stadtplanung nicht mehr nur darum, ob die Straßen breit genug sind, sondern darum: Wie wollen wir den Alltag bewegen?
+Der wichtigste Aspekt von YouBike ist nicht, ob es ein anderes Verkehrsmittel ersetzt hat.
+Sondern dass es Stadtbewohnern zum ersten Mal in großem Maßstab ermöglicht, die „Kurzstreckenmobilität“ als etwas zu betrachten, das im Alltag neu gestaltet werden kann.
+Wenn dies geschieht, geht es bei der Stadtplanung nicht mehr nur um die Frage „Ist die Straße breit genug?“, sondern darum: „Wie soll sich unsere tägliche Bewegung anfühlen?“
 
 ---
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Taiwan Verkehrssystem](/de/lifestyle/transportation-system) — YouBike ist die letzte Meile dieses Systems; dieser Artikel ergänzt den vorgelagerten Kontext.
-- [Geschichte des U-Bahn-Ausbaus in Taiwan](/de/lifestyle/history-of-taiwan-mrt-development) — Warum muss YouBike mit der MRT verbunden sein? Wie wurde diese Verbindung zur alltäglichen Infrastruktur?
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Die Rolle der Mikromobilität im Anteil von 28 % an grüner Mobilität.
+- [Das taiwanesische Verkehrssystem](/de/lifestyle/transportation-system) — YouBike ist der letzte Kilometer dieses Systems; dieser Artikel liefert den übergeordneten Kontext.
+- [Geschichte der MRT in Taiwan](/de/lifestyle/history-of-taiwan-mrt-development) — Warum muss YouBike an die MRT angebunden sein? Wie wurde die Anbindung zum alltäglichen Standard?
+- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Die Rolle der Mikromobilität innerhalb der 28 % grünen Mobilität.
 
-## Quellenverzeichnis
+## Referenzen
 
-[^1]: _Reporter_: „Sind YouBike in Taipeh so beliebt? Sind sie nach der Wiederaufnahme des 30-minütigen Gratisangebots schwerer zu bekommen?“ [https://www.twreporter.org/a/data-reporter-taipei-youbike-free-ride-for-the-first-30-minutes] — Berichterstattung aus dem Jahr 2024, mit Tageshöchstwerten, Verfügbarkeitsanalyse und Allokationsdaten.
+[^1]: [The Reporter: Wie beliebt ist YouBike in Taipeh? Ist es nach der Wiederaufnahme der ersten 30 Minuten kostenlos schwerer zu leihen?](https://www.twreporter.org/a/data-reporter-taipei-youbike-free-ride-for-the-first-30-minutes) — Bericht über Daten aus 2024, einschließlich Spitzenwerten pro Tag, Verfügbarkeitsraten und Logistikanalysen.
 
-[^2]: _YouBike Smile Bicycle (Taipeh) Betriebsberichte_ [https://www.youbike.com.tw/region/taipei/operation/] — Offizielle monatliche Daten zu beliebten Stationen und Verleihzahlen.
+[^2]: [Betriebsergebnisse von YouBike (Taipeh)](https://www.youbike.com.tw/region/taipei/operation/) — Offizielle monatliche Daten zu beliebten Stationen und Leihvorgängen.
 
-[^3]: _How public shared bike can assist first and last mile accessibility (Journal of Transport Geography)_ [https://scholar.nycu.edu.tw/en/publications/how-public-shared-bike-can-assist-first-and-last-mile-accessibili] — Fallstudie Taipeh, Analyse der Angebot-Nachfrage-Passung zwischen YouBike und MRT.
+[^3]: [How public shared bike can assist first and last mile accessibility (Journal of Transport Geography)](https://scholar.nycu.edu.tw/en/publications/how-public-shared-bike-can-assist-first-and-last-mile-accessibili) — Fallstudie zu Taipeh, Analyse der Abstimmung zwischen Angebot und Nachfrage von YouBike und MRT.
 
-[^4]: _Impacts Of Imposing A Start Fee On The Bikesharing Program: Empirical Evidence Of Taipei YouBike_ [http://jase.tku.edu.tw/articles/jase-202311-26-11-0006] — Studie über die Auswirkungen einer Startgebühr von 5 Yuan auf Verleihzahlen und Umschlagshäufigkeit.
+[^4]: [Impacts Of Imposing A Start Fee On The Bikesharing Program: Empirical Evidence Of Taipei YouBike](http://jase.tku.edu.tw/articles/jase-202311-26-11-0006) — Untersuchung der Auswirkungen einer 5 NT$-Startgebühr auf das Leihvolumen und die Fluktuation.
 
-[^5]: _Öffentliche Datenplattform der Regierung: Echtzeitinformationen für öffentliche Fahrräder in Taipeh (YouBike2.0)_ [https://data.gov.tw/dataset/137993] — Quelle der Echtzeitdaten, aktualisiert jede Minute.
+[^5]: [Open Government Data Platform: Echtzeitinformationen zu öffentlichen Fahrrädern in Taipeh (YouBike 2.0)](https://data.gov.tw/dataset/137993) — Quelle für Echtzeitdaten der Stationen, aktualisiert jede Minute.
 
-[^6]: _Verkehrsministerium: Zusammenfassung und Analyse der Umfrage zur täglichen Nutzung von Transportmitteln durch die Bevölkerung im Jahr 2024_ [https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=s] — Nationale Statistik zu Verkehrsvorgängen, Marktanteilen und grüner Mobilität.
+[^6]: [Verkehrsministerium: Zusammenfassende Analyse der Untersuchung zur täglichen Nutzung von Verkehrsmitteln im Jahr 113](https://www.motc.gov.tw/ch/app/data/doc?detailNo=1389089679046873088&id=56&module=survey&serno=202506190000&type=s) — Statistiken zu nationalen Fahrten, Marktanteilen und grüner Mobilität.

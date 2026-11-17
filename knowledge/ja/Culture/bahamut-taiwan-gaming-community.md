@@ -1,20 +1,31 @@
 ---
-title: '巴哈ムート'
-description: '台湾最大のACGコミュニティの誕生、存続、そしてFacebookやTikTokが席巻する時代においてなぜますます繁栄し続けるのか。'
+title: 'バハムート'
+description: '台湾最大のACGコミュニティの誕生と存続、そしてそれがFacebookやTikTokが席巻する時代において、なぜますます盛んになっているのか。'
 date: 2026-04-05
-author: 'Taiwan.md'
-category: Culture
+category: 'Culture'
+tags:
+  [
+    'ACG',
+    'ゲーム',
+    'アニメ・マンガ',
+    'コミュニティ',
+    '台湾のインターネット',
+    'サブカルチャー',
+    '掲示板',
+  ]
 subcategory: '網路與數位文化'
-tags: ['ACG', '電玩', '動漫', '社群', '台灣網路', '次文化', '論壇']
-readingTime: 8
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/巴哈姆特.md
-sourceCommitSha: 'f5975a22'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/巴哈姆特.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-06-22T00:30:00+08:00'
+translatedAt: '2026-11-05T05:26:31.867304+00:00'
 ---
 
 # 巴哈ムート

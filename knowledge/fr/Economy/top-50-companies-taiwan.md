@@ -2,9 +2,7 @@
 title: 'Les 50 plus grandes entreprises de Taïwan : la montagne sacrée protectrice du pays soutient un classement, mais aussi un pays à point de défaillance unique'
 description: "Le 19 mai 2026, la capitalisation boursière de TSMC représentait à elle seule 31,51 % de l'indice pondéré de Taïwan et environ 40 % de la capitalisation totale du marché taïwanais ; les 50 plus grandes entreprises réunies soutiennent l'équivalent d'un PIB, mais l'une d'elles tient en otage le destin de ce PIB. Électronique 36 %, finance 25 %, industries traditionnelles 10 % : le prétendu tripode « électronique-finance-industries traditionnelles » est en réalité un corps à moitié porté par la seule jambe électronique. De la soirée où Jensen Huang et Morris Chang ont été photographiés au marché de nuit de Ningxia, jusqu'aux 32 vies perdues avant l'aube sur Kaixuan 3rd Road, ce classement est à la fois la colonne vertébrale irremplaçable de Taïwan et son point de défaillance unique le plus fragile."
 date: 2026-05-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: 'Economy'
 tags:
   [
     'entreprises',
@@ -18,19 +16,21 @@ tags:
     'entreprises familiales',
     'concentration',
   ]
-readingTime: 18
+subcategory: 'Economy'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-20
 lastHumanReview: false
-featured: false
-translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:22fc95c656db9409'
-sourceBodyHash: 'sha256:645f8f42e79639a7'
-translatedAt: '2026-06-16T16:54:51Z'
+readingTime: 18
 image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+translatedFrom: 'Economy/台灣前50大企業.md'
+sourceCommitSha: '515c092b1'
+sourceContentHash: 'sha256:3b7bdefbf92969dd'
+sourceBodyHash: 'sha256:3f33446cf2ef1d05'
+translatedAt: '2026-11-02T12:39:58.559246+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Après la clôture du marché le 19 mai 2026, la capitalisation boursière de TSMC atteignait 57,18 billions de dollars taïwanais. Une seule entreprise représentait 31,51 % de l'indice pondéré de Taïwan, environ 40 % de la capitalisation totale du marché taïwanais et 71 % de la fonderie mondiale de semi-conducteurs. Les 49 places suivantes étaient réparties entre 12 holdings financiers, 11 entreprises de semi-conducteurs, 6 sous-traitants électroniques et 5 vétérans des industries traditionnelles. Le prétendu tripode électronique-finance-industries traditionnelles est, dans les faits, un corps à moitié soutenu par la seule jambe électronique ; à partir de 2024, la vague de l'IA a fait remonter Quanta, Wistron, Wiwynn et Hon Hai Precision Industry du milieu du classement, augmentant encore la concentration. Lire ce tableau des 50 plus grandes entreprises revient à lire une carte anatomique de l'économie taïwanaise : où se trouve la colonne vertébrale, où se trouve le point de défaillance unique, et où se trouvent les organes internes cachés hors du tableau.
@@ -42,33 +42,30 @@ Les noms figurant sur cette carte étaient presque un condensé du classement de
 > **📝 Note du curateur**
 > Lire ce tableau des 50 plus grandes entreprises, c'est lire une carte. En le parcourant de haut en bas, le nombre de places occupées par les semi-conducteurs, la sous-traitance électronique, la finance, les industries traditionnelles et les télécommunications reflète l'ossature industrielle de cette île qu'est Taïwan. Le lecteur peut y voir trois choses : quelle est la vertèbre principale, quelle est la côte fragile, et si le cœur bat régulièrement.
 
-## Une carte qui cloue un pays sur un écran
+## Une carte qui cloue un pays sur la carte
 
-Après la clôture du 19 mai 2026, le classement se présentait ainsi[^4] : première place, TSMC, avec une capitalisation de 57,18 billions de dollars taïwanais ([2330](/fr/economy/tsmc)) ; deuxième, MediaTek, 5,06 billions (2454) ; troisième, Delta Electronics, 4,97 billions ([2308](/fr/economy/delta-electronics-taiwan-power-giant)) ; quatrième, Hon Hai, 3,43 billions ([2317](/fr/economy/foxconn-precision-industry)) ; cinquième, ASE Technology Holding, 2,11 billions (3711). À elles seules, ces cinq entreprises dépassaient déjà 72 billions de dollars taïwanais de capitalisation, soit plus de la moitié de la capitalisation totale du marché taïwanais.
+Le classement de clôture du 19 mai 2026 se présente ainsi[^4] : en première position, TSMC avec une capitalisation de 57,18 milliards de NT$ ([2330](/fr/economy/tsmc)), en deuxième, MediaTek avec 5,06 milliards (2454), en troisième, Delta Electronics avec 4,97 milliards ([2308](/fr/economy/delta-electronics-taiwan-power-giant)), en quatrième, Hon Hai (Foxconn) avec 3,43 milliards ([2317](/fr/economy/foxconn-precision-industry)), en cinquième, ASE Holding avec 2,11 milliards (3711). À elles seules, ces cinq entreprises totalisent déjà 7,2 milliards de capitalisation, soit plus de la moitié de la capitalisation totale du marché taïwanais.
 
-De la sixième à la trentième place, trois niveaux apparaissent. Le camp des semi-conducteurs comprend UMC ([2303](/fr/economy/mediatek)), Global Unichip (3443), Winbond (2344), Nanya Technology (2408) et Chroma (2360). Le camp financier comprend Fubon Financial ([2881](/fr/economy/taiwan-enterprise-fubon-financial)), Cathay Financial ([2882](/fr/economy/taiwan-enterprise-cathay-financial)), CTBC Financial, Yuanta Financial, Mega Financial, Taishin Shin Kong Financial et E.SUN Financial ([2884](/fr/economy/esun-financial-holding-digital-banking-pioneer)). La sous-traitance électronique et la périphérie de l'IA comptent Quanta ([2382](/fr/economy/taiwanese-companies-quanta-computer)), Accton (2345), Wiwynn (6669), Auras (3017), Hon Precision (7769), Unimicron (3037), Elite Material (2383) et Yageo ([2327](/fr/economy/taiwan-enterprise-ase-semiconductor)). Dans les industries traditionnelles et les télécommunications, seules Chunghwa Telecom (2412) et Nan Ya Plastics ([1303](/fr/economy/formosa-plastics-group)) parviennent encore à se glisser dans le top 30[^5].
+De la sixième à la trentième place, on distingue trois autres strates. Le camp des semiconducteurs compte UMC ([2303](/fr/economy/united-microelectronics-corporation)), Parade Technologies (3443), Winbond (2344), Nanya Technology (2408) et ChipMOS (2360). Le camp financier compte Fubon Financial ([2881](/fr/economy/taiwan-enterprise-fubon-financial)), Cathay Financial ([2882](/fr/economy/taiwan-enterprise-cathay-financial)), CTBC Financial, Yuanta Financial, Mega Financial, Taishin Shin Kong Financial et E.SUN Financial ([2884](/fr/economy/esun-financial-holding-digital-banking-pioneer)). L'EMS et la périphérie IA comptent Quanta ([2382](/fr/economy/taiwanese-companies-quanta-computer)), Wistron NeWeb (2345), Wiwynn (6669), Inventec (3017), Hong Jing (7769), Systex (3037), Tai Kwang (2383) et Yageo (2327). Il ne reste plus que Chunghwa Telecom (2412) et Nan Ya Plastics ([1303](/fr/economy/formosa-plastics-group)) des secteurs traditionnels et des télécoms pour s'infiltrer dans le top 30[^5].
 
-Les places 31 à 50 sont encore plus serrées. China Steel ([2002](/fr/economy/taiwan-companies-china-steel)), Formosa Petrochemical (6505), Evergreen Marine ([2603](/fr/economy/evergreen-marine)) et Uni-President ([1216](/fr/economy/taiwan-enterprise-uni-president)), vétérans portés par le miracle économique des années 1970-1980, tiennent l'arrière du classement. Wistron ([3231](/fr/economy/wistron-global-manufacturing-transformation-pioneer)), ASUS ([2357](/fr/economy/asus-computer)), Lite-On, Advantech (2395) et Alchip-KY (3661), avec plusieurs holdings financiers, se relaient aux mêmes positions ; leurs capitalisations se situent toutes dans la zone des 400 à 500 milliards de dollars taïwanais, où un point de pourcentage suffit à changer l'ordre[^6].
+Les places 31 à 50 sont encore plus serrées. China Steel ([2002](/fr/economy/taiwan-companies-china-steel)), Formosa Plastics (6505), Evergreen Marine ([2603](/fr/economy/evergreen-marine)) et Uni-President ([1216](/fr/economy/taiwan-enterprise-uni-president)) — ces vétérans qui ont porté le miracle économique des années 1970-80 — tiennent le haut du pavé en queue de peloton. Wistron ([3231](/fr/economy/wistron-global-manufacturing-transformation-pioneer)), ASUS ([2357](/fr/economy/asus-computer)), Lite-On, Advantech (2395) et Alchip-KY (3661) — ce groupe d'usines électroniques et de holdings financiers — se relayent aux mêmes places, avec des capitalisations toutes dans la fourchette 400-500 milliards de NT$, où un point de pourcentage suffit à changer l'ordre[^6].
 
-![Vue extérieure de Taipei 101, dont les 508 mètres abritent le siège de la Bourse de Taïwan, lieu où résonne la cloche d'ouverture des 50 plus grandes entreprises cotées taïwanaises](/article-images/economy/taipei-101-twse-2023.webp)
+![Façade de Taipei 101, le siège de la Bourse de Taïwan se trouve dans ce gratte-ciel emblématique de 508 mètres, d'où retentit la cloche d'ouverture pour les 50 plus grandes entreprises du marché taïwanais](/article-images/economy/taipei-101-twse-2023.webp)
 
-_Taipei 101, dans le district de Xinyi à Taipei. Le siège de la Bourse de Taïwan se trouve dans ce bâtiment emblématique de 508 mètres, d'où résonne chaque jour la cloche d'ouverture du marché taïwanais. Photo : Anas1712, 2023-05-11. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg)._
+_Taipei 101, district de Xinyi. Le siège de la Bourse de Taïwan est installé dans ce gratte-ciel emblématique de 508 mètres, d'où retentit chaque jour la cloche d'ouverture du marché taïwanais. Photo : Anas1712, 11-05-2023. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg)._
 
-En découpant les 50 plus grandes entreprises par secteur, à l'exclusion des deux ETF Yuanta Taiwan 50 et Yuanta High Dividend :
+En découpant le top 50 par secteur (hors les deux ETF Yuanta Taiwan 50 et Yuanta High Dividend) :
 
-| Catégorie sectorielle                                                                                      | Places           | Part |
-| ---------------------------------------------------------------------------------------------------------- | ---------------- | ---- |
-| Semi-conducteurs (fonderie / conception de circuits intégrés / assemblage et test / mémoire / équipements) | 11 places        | 23 % |
-| Finance (holdings financiers)                                                                              | 12 places        | 25 % |
-| Sous-traitance électronique (serveurs IA inclus, PC de marque)                                             | 6 places         | 13 % |
-| PCB / substrats ABF / dissipation thermique                                                                | 5 places         | 10 % |
-| Industries traditionnelles (pétrochimie / acier / transport maritime / alimentation)                       | 5 places         | 10 % |
-| Communications (télécommunications)                                                                        | 3 places         | 6 %  |
-| Réseaux / ordinateurs industriels / composants passifs / optique / test                                    | 7 places         | 15 % |
-| Autres (distribution automobile)                                                                           | 1 place (limite) | 2 %  |
-
-> **💡 Le saviez-vous**
-> Les investisseurs utilisent depuis longtemps la formule « électronique-finance-industries traditionnelles » pour décrire le tripode du marché boursier taïwanais. Mais lorsqu'on déploie le top 50 de 2026, l'électronique et les semi-conducteurs occupent déjà 36 % des sièges, la finance 25 %, et les industries traditionnelles sont comprimées à 10 %. Ce tripode est en réalité un corps à moitié porté par une seule jambe, une autre jambe, la finance, portant un quart, le reste des orteils revenant aux industries traditionnelles, aux communications et aux composants passifs.
+| Secteur                                                                              | Sièges           | Part |
+| ------------------------------------------------------------------------------------ | ---------------- | ---- |
+| Semiconducteurs (fonderie/conception IC/emballage-test/mémoire/équipement)           | 11 sièges        | 23 % |
+| Finance (holdings financiers)                                                        | 12 sièges        | 25 % |
+| EMS (y compris serveurs IA, PC de marque)                                            | 6 sièges         | 13 % |
+| PCB / substrats ABF / dissipation thermique                                          | 5 sièges         | 10 % |
+| Industrie traditionnelle (pétrochimie/sidérurgie/transport maritime/agroalimentaire) | 5 sièges         | 10 % |
+| Télécoms                                                                             | 3 sièges         | 6 %  |
+| Réseaux/ordinateurs industriels/composants passifs/optique/test                      | 7 sièges         | 15 % |
+| Autre (concession automobile)                                                        | 1 siège (limite) | 2 %  |
 
 ## Les deux faces de la montagne sacrée protectrice du pays
 
@@ -130,22 +127,22 @@ L'entité principale de Ting Hsin International est cotée en Chine, sous Master
 > **💡 Le saviez-vous**
 > Les sociétés cotées ont des obligations de publication : le classement est donc visible, la capitalisation calculable, et le conseil d'administration comprend des administrateurs indépendants. Les sociétés non cotées n'ont pas à publier les mêmes informations. Peut-on donc comparer directement la taille d'I-Mei à celle d'Uni-President ? La réponse est non, car leurs structures d'états financiers diffèrent. Mais si l'on parle de nombre d'employés, d'influence sur l'alimentation des ménages taïwanais et d'emploi local, I-Mei possède des distributeurs et des usines dans chaque comté et chaque ville ; c'est un géant invisible du même rang que les entreprises alimentaires du top 50.
 
-## Les PM2.5 de Kaixuan 3rd Road
+## PM2.5 de Kaixuan 3rd Road
 
-Alors que les 50 plus grandes entreprises soutiennent l'équivalent d'un PIB, elles laissent aussi d'autres comptes à régler sur l'île de Taïwan.
+Les 50 grandes entreprises soutiennent un PIB, mais laissent aussi d'autres comptes à régler sur cette île qu'est Taïwan.
 
-Dans la nuit du 31 juillet au 1er août 2014, Kaixuan 3rd Road, dans le district de Qianzhen à Kaohsiung, a explosé en tranchée[^29]. Trente-deux personnes sont mortes et 321 ont été blessées. L'accident provenait d'une conduite de propylène de 4 pouces, corrodée et fuyante à l'intérieur d'un caisson de drainage. **Cette conduite appartenait à LCY Chemical** ; parmi les 12 prévenus figuraient des cadres de LCY Chemical, China General Terminal & Distribution, ainsi que le Bureau des travaux publics de la municipalité de Kaohsiung. Lorsque le jugement est devenu définitif, huit ans s'étaient écoulés depuis les explosions. Ce tronçon de Kaixuan 3rd Road a ensuite été repavé, et il est difficile d'y voir encore les traces de cette nuit. Mais pour les habitants de Qianzhen, l'idée que « l'industrie pétrochimique est juste derrière la maison » ne s'est plus estompée depuis ce soir-là.
+Dans la nuit du 31 juillet 2014 au 1er août 2014, la route Kaixuan 3rd Road dans le district de Qianzhen à Kaohsiung a explosé en tranchées[^29]. 32 morts, 321 blessés. L'accident est dû à une fuite d'une canalisation de propylène de 4 pouces corrodée à l'intérieur et à l'extérieur d'un collecteur d'eaux pluviales. Cette canalisation appartenait à LCY Chemical Corp. ; parmi les 12 accusés figuraient des cadres de LCY Chemical, Hua Yun Warehousing et le Bureau des travaux publics de la ville de Kaohsiung. Le jugement est devenu définitif 8 ans après l'explosion de gaz. Ce tronçon de la route Kaixuan 3rd Road a été refait par la suite, et il est difficile de voir encore des traces de l'époque sur la chaussée. Mais pour les habitants du district de Qianzhen, le fait que « l'industrie pétrochimique est juste derrière la porte » ne s'estompera plus depuis cette nuit.
 
-Le sixième complexe de craquage de Formosa Plastics à Mailiao, dans le comté de Yunlin, fonctionne depuis 1998. Une étude menée en 2012 par le professeur Chan Chang-chuan, du département de santé publique de l'Université nationale de Taïwan, indiquait que les concentrations de métabolites de métaux lourds dans l'urine des habitants situés dans un rayon de 10 kilomètres étaient 5,5 fois plus élevées que chez les habitants au-delà de 10 kilomètres ; le complexe émettait 132 substances toxiques et cancérogènes, avec des émissions annuelles de PM2.5 de l'ordre de 140 000 tonnes[^30]. En 2015, 75 habitants de Yunlin ont demandé conjointement 70 millions de dollars taïwanais de compensation ; le tribunal de district de Yunlin a rejeté la demande au motif qu'il était « difficile d'établir le lien de causalité ». La même année, de janvier à septembre, Yunlin était le comté à l'air le plus pollué de Taïwan.
+Le complexe n°6 de Formosa Plastics (台塑六輕) à Mailiao, Yunlin, fonctionne depuis 1998. Une étude de 2012 du professeur Chan Chang-chuan de l'École de santé publique de l'Université nationale de Taïwan indique que la concentration de métabolites de métaux lourds dans l'urine des résidents vivant à moins de 10 km est 5,5 fois supérieure à celle des résidents vivant au-delà de 10 km ; le complexe émet 132 substances toxiques et cancérigènes, avec des émissions annuelles de PM2.5 atteignant 140 000 tonnes[^30]. En 2015, 75 résidents de Yunlin ont conjointement réclamé 70 millions NT$ en dommages-intérêts ; le tribunal de district de Yunlin a rejeté la demande au motif qu'il était « difficile d'établir un lien de causalité ». De janvier à septembre de la même année, Yunlin était le comté/la ville où l'air était le plus pollué de tout Taïwan.
 
-![Vue aérienne du sixième complexe pétrochimique de Formosa Plastics à Mailiao, Yunlin, dont les installations s'étendent le long de toute la côte ; c'est le plus grand pôle pétrochimique de Taïwan et l'un des grands registres environnementaux laissés par le camp des industries traditionnelles au sein des 50 plus grandes entreprises](/article-images/economy/mailiao-formosa-complex-2014.webp)
+![Vue aérienne du parc industriel n°6 de Formosa Plastics à Mailiao, Yunlin. L'usine s'étend sur toute la côte ; c'est la plus grande concentration d'industrie pétrochimique de Taïwan et l'un des registres environnementaux laissés par le camp des industries traditionnelles parmi les 50 grandes entreprises](/article-images/economy/mailiao-formosa-complex-2014.webp)
 
-_Vue aérienne du sixième complexe pétrochimique de Formosa Plastics à Mailiao, Yunlin. En fonctionnement depuis 1998, le site couvre plus de 2 600 hectares ; c'est le plus grand pôle pétrochimique de Taïwan et l'un des grands registres environnementaux laissés par le camp des industries traditionnelles au sein des 50 plus grandes entreprises. Photo : Mk2010 (Malcolm Koo), 2014-03-15. [CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg).\_
+_Vue aérienne du parc industriel n°6 de Formosa Plastics à Mailiao, Yunlin. En fonctionnement depuis 1998, le site occupe plus de 2 600 hectares ; c'est la plus grande concentration d'industrie pétrochimique de Taïwan et l'un des registres environnementaux laissés par le camp des industries traditionnelles parmi les 50 grandes entreprises. Photo : Mk2010 (Malcolm Koo), 15 mars 2014. [CC BY-SA 3.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>).\_
 
-China Steel, à Xiaogang, Kaohsiung, porte aussi une facture. Les données de la Citizens of the Earth Foundation indiquent que 80 à 90 % de la pollution atmosphérique de l'industrie sidérurgique de Kaohsiung provient de China Steel ; parmi les sources fixes de pollution de Kaohsiung, 36 % des émissions de particules et 32 % des émissions de SOx proviennent de la sidérurgie[^31]. Entre 2017 et 2020, China Steel a investi 4,756 milliards de dollars taïwanais pour améliorer ses équipements, réduisant les particules de 15,6 %, les SOx de 18,9 % et les NOx de 11,3 %. Les chiffres ont progressé, mais la structure selon laquelle « la sidérurgie dans son ensemble influence la qualité de l'air de Kaohsiung » n'a pas changé.
+China Steel (中鋼) à Xiaogang, Kaohsiung, supporte également une facture. Selon les données de la Fondation des citoyens de la Terre, 80 à 90 % de la pollution atmosphérique de l'industrie sidérurgique de Kaohsiung provient de China Steel ; 36 % des émissions de PM et 32 % des émissions de SOx des sources fixes de pollution de la ville de Kaohsiung sont imputables à l'industrie sidérurgique[^31]. China Steel a investi 4,756 milliards NT$ entre 2017 et 2020 pour améliorer ses équipements ; les PM ont diminué de 15,6 %, les SOx de 18,9 %, les NOx de 11,3 %. Les chiffres se sont améliorés, mais la structure selon laquelle « l'industrie sidérurgique dans son ensemble affecte la qualité de l'air de Kaohsiung » n'a pas changé.
 
-> **📝 Note du curateur**
-> L'autre face des 50 plus grandes entreprises, ce sont 50 registres de coûts externes. Ce que le PIB compte, c'est la valeur de production des usines ; ce qu'il ne compte pas, ce sont les dépenses médicales des ménages vivant autour de ces usines, la charge de soins de longue durée qui émerge dans les files d'attente des habitants de Yunlin, ou les coûts de relogement des habitants de Qianzhen à Kaohsiung. En économie, cela s'appelle « internaliser les externalités » : lorsque la société oblige les entreprises à reprendre à leur charge des coûts autrefois rejetés vers l'extérieur, c'est cela le véritable sens de l'ESG. Parmi les 50 plus grandes entreprises de Taïwan, les semi-conducteurs et les holdings financiers sont généralement en tête des notations ESG ; les industries traditionnelles et pétrochimiques, elles, sont les objets de l'examen. Cette redistribution des scores transformera les classements, dans les dix prochaines années, plus profondément que n'importe quel rapport trimestriel.
+> **📝 Note du commissaire**
+> L'autre face des 50 grandes entreprises, ce sont 50 registres de coûts externes. Le PIB compte la valeur de production des usines, mais pas les dépenses médicales des foyers autour des usines, la charge de soins de longue durée qui s'accumule pour les résidents de Yunlin, les frais de relogement des habitants de Qianzhen à Kaohsiung. L'économie appelle cela « l'internalisation des externalités » (externalities) : lorsque la société force les entreprises à réintégrer les coûts qu'elles faisaient auparavant retomber sur l'extérieur, c'est là le véritable sens de l'ESG. Parmi les 50 grandes entreprises de Taïwan, l'industrie des semi-conducteurs et l'industrie financière (holdings financiers) sont généralement en tête des scores ESG ; les industries traditionnelles et pétrochimiques sont, elles, l'objet de l'examen. Ce réordonnancement des scores changera plus profondément le classement au cours des dix prochaines années que ne le ferait n'importe quel rapport financier trimestriel.
 
 ## Le marché de nuit de Ningxia et Kaixuan 3rd Road
 

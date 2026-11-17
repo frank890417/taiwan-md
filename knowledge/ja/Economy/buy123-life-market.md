@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-13T05:56:47+08:00'
+translatedAt: '2026-11-05T15:52:35.602014+00:00'
 ---
 
 2013年、生活市集が設立され、創業家数位（そうぎょうか・すうい／創業家數位）股份有限公司傘下の電子商取引プラットフォームとなった。2020年までには、取り扱い商品は生活用品にとどまらず、3C（家電・情報通信機器）や食品など本来のコアカテゴリー以外の品目が、全体売上の約3〜4割を占めるようになった。2023年10月12日には、さらに棚を海外へ伸ばし、海外直送サービスを開始した。[^1] [^2] [^7]

@@ -1,19 +1,19 @@
 ---
-title: 'Thân Bảo Phúc (Ando Bảo Phúc): Từ Chiayi Phú Thọ Đến Bàn Thờ Toàn Cầu — Truyền Thuyết Địa Chất Đài Loan Và Bao Bì Nhật Bản'
-description: 'Năm 1961, Ando Bảo Phúc mua bản quyền đăng ký bằng sáng chế của Trần Quốc Văn với 23 triệu yên. Đây không chỉ là một giao dịch thương mại, mà còn là một cuộc đấu tranh quốc tế về quyền định nghĩa phát minh. Một doanh nhân từ Chiayi Phú Thọ, ông biến linh hồn của mì gà truyền thống Đài Loan thành món ăn quốc gia của Nhật Bản, và thông qua "Mì ăn liền Hương vị", thay đổi hoàn toàn thói quen ăn uống toàn cầu. Bài viết sâu xa khám phá những khởi nguồn khởi nghiệp của ông trong thời kỳ thuộc địa Nhật, những suy ngẫm trong nhà tù sau chiến tranh, cũng như những xung đột về danh tính và gia đình giữa hai quốc gia.'
+title: 'Ngô Bách Phúc (Ando Momofuku): Từ Puzi, Gia Nghĩa đến bàn ăn toàn cầu, gen Đài Loan và lớp vỏ Nhật Bản'
+description: 'Năm 1961, Ando Momofuku đã chi 23 triệu Yên để mua lại quyền đăng ký bằng sáng chế mì ăn liền của Trương Quốc Văn. Đây không chỉ đơn thuần là một giao dịch thương mại, mà còn là cuộc đấu tranh xuyên quốc gia về quyền định nghĩa sự phát minh. Vị doanh nhân xuất thân từ Puzi, Gia Nghĩa này đã chuyển hóa linh hồn của món mì sợi gà xé truyền thống Đài Loan thành món ăn quốc dân của Nhật Bản, đồng thời thay đổi hoàn toàn thói quen ăn uống toàn cầu thông qua mì ly "Cup Noodles". Bài viết đi sâu tìm hiểu về điểm khởi đầu khởi nghiệp của ông tại Đài Loan thời kỳ Nhật thuộc, những chiêm nghiệm sau khi vào tù thời hậu chiến, cũng như sự giằng xé giữa bản sắc và gia đình giữa hai quốc gia.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Thân Bảo Phúc',
-    'Ando Bảo Phúc',
-    'mì ăn liền',
-    'lịch sử Đài Loan',
-    'văn hóa ẩm thực',
+    'Ngô Bách Phúc',
+    'Ando Momofuku',
+    'Mì ăn liền',
+    'Lịch sử Đài Loan',
+    'Văn hóa ẩm thực',
     'Nissin Foods',
-    'mì ăn liền ly',
-    'lịch sử sau chiến tranh',
-    'chợ lớn Đại Thảo Thượng',
+    'Mì ly',
+    'Lịch sử hậu chiến',
+    'Đại Đạo Đình',
   ]
 subcategory: '歷史人物'
 author: 'idlccp1984'
@@ -22,10 +22,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-11-02T00:35:47.510355+00:00'
 ---
 
 > **30 giây tóm tắt:**

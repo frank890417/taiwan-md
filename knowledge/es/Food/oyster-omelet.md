@@ -2,8 +2,7 @@
 title: 'Tortilla de ostras: historia de su evolución culinaria de la pobreza a la comida nacional'
 description: 'Un platillo callejero taiwanés nacido de la escasez de alimentos, cómo evolucionó desde el "jiān chuí" (tortilla frita) de la era de Koxinga hasta convertirse en la comida nacional que hoy cautiva dentro y fuera de Taiwán, y los secretos de salsa y pasta de almidón que esconde tras de sí.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     'Tortilla de ostras',
@@ -16,15 +15,19 @@ tags:
     'Salsa',
     'Papas fritas Hua Yuan',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/蚵仔煎.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/蚵仔煎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: 2026-05-01T22:19:10+08:00
-featured: false
+translatedAt: '2026-11-05T03:58:13.233408+00:00'
 ---
 
 > **Panorama en 30 segundos**

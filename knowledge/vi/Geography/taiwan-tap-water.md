@@ -1,8 +1,8 @@
 ---
 title: 'Đài Loan nước máy: Hành trình công trình công cộng hàng trăm năm và lo âu hạn hán'
 description: 'Năm 1885, trong thành phố Đài Bắc đã có người thổ hội, lọc và khử trùng nước; đến năm 2026, chúng ta vẫn coi nước chảy từ vòi nước như nhạc nền. Từ hệ thống cấp nước thời nhật chiếm, đến viên nước tài nguyên Đài Loan được thành lập năm 1974, cho tới hạn hán, rò rỉ và ô nhiễm nguồn nước nguyên liệu, bài viết này điều tra một sự kiện hàng ngày nhưng không phải điều hiện hữu: một giọt nước phải trải qua bao nhiêu dự án công trình mới xuất hiện khi bạn mở vòi nước.'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'Nước máy',
@@ -11,17 +11,19 @@ tags:
     'Hạn hán',
     'Nước uống',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-15T06:51:28+08:00'
+translatedAt: '2026-11-05T17:12:24.584268+00:00'
 ---
 
 > **30 giây tóm tắt:** Từ năm 1885 đến 1890, Đài Bắc đã thử nghiệm cấp nước công cộng bằng cách thổ hội, lọc và khử trùng. Năm 1907, dự án nguồn nước sông Tân Thập (Shin-tse) mang đưa hệ thống cấp nước hiện đại vào thành phố. Sau chiến tranh, tỷ lệ cấp nước trên toàn đảo tăng từ khoảng 10% lên 93,1% vào năm 2013, nhưng nước không trở nên "tự nhiên xuất hiện". Ngày nay, vòi nước vẫn kết nối với các trạm lấy nước, nhà máy lọc, hàng chục nghìn km ống dẫn, phân phối liên khu vực và mỗi lần hạn hán đều đòi hỏi sự lựa chọn.
@@ -131,24 +133,24 @@ Bài viết sử dụng hai hình ảnh miễn phí từ Wikimedia Commons, đ�
 
 ## Tài liệu tham khảo
 
-[^1]: [Cơ quan Cấp nước Đài Bắc: Lịch sử phát triển](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Cơ quan cấp nước chính thức của thành phố Đài Bắc tổng hợp từ năm 1885 cung cấp nước công cộng, năm 1907 dự án nguồn nước sông Tân Thập, cho đến ống dẫn nguồn Bát Trang và thời gian gần đây về khả năng chịu đựng.
+[^1]: [Xí nghiệp Cấp nước Đài Bắc: Lịch sử biến thiên](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Cơ quan cấp nước chính thức của thành phố Đài Bắc tổng hợp từ năm 1885 cấp nước công cộng, năm 1907 nguồn nước sông Tân Điền, đến đường ống nước thô Bích Ngọc và bối cảnh thời gian về khả năng phục hồi cấp nước gần đây.
 
-[^2]: [Bộ Nước lợi, Bộ Kinh tế: Tổng quan về phát triển hệ thống cấp nước của chúng ta (phần 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Tạp chí điện tử của Bộ Nước lợi giải thích biến động tỷ lệ cung cấp nước sau chiến tranh, sự hợp nhất nhà máy nước trên toàn tỉnh và bối cảnh pháp lý thành lập Công ty Cấp nước Đài Loan.
+[^2]: [Cục Thủy lợi Bộ Kinh tế: Tổng quan phát triển cấp nước nước ta (phần dưới)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Bản tin điện tử của Cục Thủy lợi giải thích sự thay đổi tỷ lệ phổ cập cấp nước sau chiến tranh, sự hợp nhất các nhà máy nước toàn tỉnh và bối cảnh thể chế thành lập Công ty Cấp nước Đài Loan.
 
-[^3]: [Công ty Cấp nước Đài Loan: Báo cáo thống kê hàng năm của Công ty Cấp nước Đài Loan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Cổng thống kê công khai của công ty nhà nước, liệt kê nguồn nước, lượ lượng xuất, dân số được cung cấp, tỷ lệ phủ sóng, thiết bị lọc và ống dẫn.
+[^3]: [Công ty Cấp nước Đài Loan: Niên báo thống kê sự nghiệp cấp nước Đài Loan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Cổng thống kê hàng năm công khai của công ty cấp nước nhà nước, liệt kê các bảng册 về nguồn nước, nước sản xuất, dân số được cấp nước, tỷ lệ phổ cập, thiết bị lọc nước và đường ống.
 
-[^4]: [Công ty Cấp nước Đài Loan: Quản lý tài nguyên nước của Công ty Cấp nước Đài Loan](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Trang bền vững của Công ty Cấp nước Đài Loan giải thích 141 hệ thống cấp nước, 486 trạm lọc, hiện đại hóa trạm lọc, cải thiện rò rỉ và các chỉ tiêu quản lý chất lượng nước.
+[^4]: [Công ty Cấp nước Đài Loan: Quản lý tài nguyên nước của Đài Loan](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Trang bền vững của Đài Loan giải thích 141 hệ thống cấp nước, 486 nhà máy lọc nước, hiện đại hóa nhà máy lọc nước, cải thiện rò rỉ nước và các chỉ số quản lý chất lượng nước.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Bài báo học thuật tiếng Anh xem xét công nghệ nước tái chế của Đài Loan, trường hợp công nghiệp, nền tảng hạn hán và mục tiêu cung cấp nước tái chế năm 2031.
+[^5]: [Nước tái sử dụng tại Đài Loan: hiện trạng và triển vọng tương lai](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Bài báo học thuật tiếng Anh xem xét lại công nghệ nước tái sinh Đài Loan, các trường hợp công nghiệp, bối cảnh thiếu nước hạn hán và mục tiêu cung cấp nước tái sinh năm 2031.
 
-[^6]: [Chúng tôi và đảo quê: Khi hạn hán kéo dài trở thành thói quen? Vấn đề về nước không thể tránh khỏi](https://ourisland.pts.org.tw/content/9997) — Bản tin sâu của phỏng trần công cộng ghi nhận hạn hán ở Nam Đài Loan, giảm áp suất cung cấp, nước tái chế, nước ngầm, giếng trút trữ và bối cảnh chính sách công cộng về tỷ lệ rò rỉ.
+[^6]: [Đảo của chúng ta: Khi hạn hán trăm năm trở thành thường态? Vấn đề nước không thể tránh khỏi](https://ourisland.pts.org.tw/content/9997) — Báo cáo chuyên sâu của PTS ghi lại hiện tượng hạn hán tại Nam Đài Loan, cấp nước giảm áp, nước tái sinh, nước ngầm, giếng chống hạn và bối cảnh chính sách công về tỷ lệ rò rỉ nước.
 
-[^7]: [Trung tâm Truyền thông Khoa học và Công nghệ Đài Loan: Ý kiến chuyên gia về nguyên nhân khả năng thiếu nước và cơ chế phân bổ của hồ chứa năm 2021](https://smctw.tw/9462/) — Mời các chuyên gia về tài nguyên nước, môi trường và tài nguyên văn hóa phân biệt giữa hạn hán và thiếu nước, thảo luận về hồ chứa, sông ngòi, nước ngầm, bảo trì ống dẫn và giá cả nước.
+[^7]: [Trung tâm Truyền thông Khoa học Công nghệ Đài Loan: Ý kiến chuyên gia về nguyên nhân có thể gây thiếu nước hồ chứa năm 2021 và cơ chế điều độ](https://smctw.tw/9462/) — Mời các chuyên gia thủy lợi, môi trường và tài nguyên văn hóa phân biệt hạn hán và thiếu nước, thảo luận về hồ chứa, sông suối, nước ngầm, bảo trì đường ống và điều độ giá nước.
 
-[^8]: [Báo cáo viên: Data Reporter: Bản đồ tương tác tiết lộ 10 vùng lưệu vực rủi ro lớn](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Điều tra dữ liệu về điểm lấy nước, khu vực bảo vệ và dữ liệu phạt môi trường để phân tích rủi ro ô nhiễm nguồn nước, trình bày xung đột giữa an ninh cung cấp nước và quản lý đất đai ven sông.
+[^8]: [Người báo đạo: Data Reporter: Bản đồ tương tác tiết lộ 10 lưu vực rủi ro hàng đầu](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Điều tra rủi ro ô nhiễm nước thô dựa trên dữ liệu lấy nước, khu bảo vệ và phạt môi trường, trình bày xung đột giữa an toàn cấp nước và quản trị đất thượng nguồn.
 
-[^9]: [Công ty Cấp nước Đài Loan: Thông điệp từ Chủ tịch](https://www.water.gov.tw/en/Contents?nodeId=4875) — Trang web chính thức tiếng Anh của Công ty Cấp nước Đài Loan tóm tắt lịch sử 50 năm của công ty về mở rộng cung cấp nước, mở rộng ống dẫn, ứng phó thiên tai và chiến lược chịu đựng khí hậu.
+[^9]: [Công ty Cấp nước Đài Loan: Thông điệp từ Chủ tịch](https://www.water.gov.tw/en/Contents?nodeId=4875) — Trang chính thức tiếng Anh của Đài Loan Cấp nước xem lại 50 năm thành lập công ty về phổ cập cấp nước, mở rộng đường ống, ứng phó thảm họa và chiến lược khả năng phục hồi khí hậu.
 
-[^10]: [Bộ Nước lợi: Tổng quan về phát triển hệ thống cấp nước của chúng ta (phần 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Bộ Nước lợi giải thích hậu quả của chiến tranh đối với hệ thống cấp nước, cũng như giai đoạn tái thiết 77 hệ thống cấp nước nông thôn dưới sự hỗ trợ của quỹ Mỹ hỗ trợ sau chiến tranh.
+[^10]: [Cục Thủy lợi: Tổng quan phát triển cấp nước nước ta (phần trên)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Cục Thủy lợi giải thích hệ thống cấp nước bị tổn thương do chiến tranh, cũng như giai đoạn tái thiết sau chiến tranh dưới sự hỗ trợ viện trợ Mỹ để sửa chữa 77 hệ thống cấp nước nông thôn.
 
-[^11]: [Bộ Nước lợi: Tháng 1 năm 1952 - Thành lập Đội ngũ Kỹ thuật của Sở Kế hoạch và sự phát triển của hệ thống cấp nước Đài Loan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Bộ Nước lợi tổng hợp từ năm 1946 đến 1974 các hoạt động sửa chữa thiết bị, hỗ trợ cấp nước nông thôn, Đội ngũ Kỹ thuật, Sở Công trình công cộng và sự hợp nhất của 128 nhà máy nước.
+[^11]: [Cục Thủy lợi: Tháng 1 năm 1952 – Thành lập Tổng đội Kỹ thuật Thiết kế Xây dựng Thông tin Sở Xây dựng Tỉnh và phát triển sự nghiệp cấp nước Đài Loan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Cục Thủy lợi tổng hợp năm 1946 đến 1974 về sửa chữa thiết bị, trợ cấp cấp nước nông thôn, tổng đội kỹ thuật, cục công trình công cộng và hợp nhất 128 nhà máy nước.

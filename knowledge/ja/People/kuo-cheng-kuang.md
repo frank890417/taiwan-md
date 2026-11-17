@@ -1,25 +1,22 @@
 ---
 title: '郭正光'
 description: '彼はNASAヒューストン・ジョンソン宇宙センターのシニアサイエンティストで、宇宙飛行士の食事や飲料を専門に研究しています。しかし、故郷である台湾の記録では、かつて「テロリスト」ブラックリストに掲載されていました。'
-tags:
-  - '郭正光'
-  - 'NASA'
-  - '宇宙食'
-  - 'ブラックリスト'
-  - '台湾民主運動'
-category: 'People'
-subcategory: '科學與研究'
 date: 2026-04-06
+category: 'People'
+tags: ['郭正光', 'NASA', '宇宙食', 'ブラックリスト', '台湾民主運動']
+subcategory: '科學與研究'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-06-12T00:53:40+08:00'
+translatedAt: '2026-11-04T22:12:08.553531+00:00'
 ---
 
 # 郭正光

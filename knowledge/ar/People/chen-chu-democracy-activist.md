@@ -2,18 +2,20 @@
 title: 'تشين تشو'
 description: 'من سجينة محكوم عليها بالإعدام في قضية "فورموزا الجميلة" إلى "الأم هوا" سيدة الجنوب القوية، إنها الشاهدة الأبرز على التحول الديمقراطي في تايوان.'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['السياسة', 'الحركة الديمقراطية', 'كاويونغ', 'حقوق الإنسان']
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-07-25T12:13:36+08:00'
+translatedAt: '2026-11-04T21:45:30.085874+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

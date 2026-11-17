@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從兩面金牌的精確成績切入——219kg（遞補）和212kg（直接奪金）都是具體數字，不是形容詞。"
-#   whats_excluded: "技術動作生物力學分析；訓練課表細節；商業代言清單"
-#   where_it_hedges: "2012銀牌遞補金牌的金牌得主P0確認為趙常玲（哈薩克），原文有誤"
-translatedFrom: People/許淑淨.md
-sourceCommitSha: 0ea5d5d42
-sourceContentHash: sha256:81d60bf0143f4da3
-sourceBodyHash: sha256:a8a07476ede69bdb
-translatedAt: 2026-05-17T05:34:50+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/許淑淨.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:81d60bf0143f4da3'
+sourceBodyHash: 'sha256:a8a07476ede69bdb'
+translatedAt: '2026-11-04T20:42:09.559979+00:00'
 ---
 
 # 許淑淨：崙背1991、台湾初のオリンピックダブル金メダリスト 53kg級重量挙げ選手

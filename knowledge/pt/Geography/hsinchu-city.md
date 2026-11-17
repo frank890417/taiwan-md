@@ -35,10 +35,10 @@ imageCredit: 'Jiang / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-09T19:34:16+08:00'
+translatedAt: '2026-11-02T12:08:36.096646+00:00'
 ---
 
 # Hsinchu: a Chuchien de 1733 que plantou bambu para erguer muralhas, e o berço da TSMC em 1980
@@ -204,17 +204,17 @@ Na próxima ida a Hsinchu, não fique só no parque olhando fábricas de chips. 
 
 ## Leitura complementar
 
-- [Keelung (基隆市)](/pt/geography/keelung-city) — Série 22 condados e cidades pilot: da bandeira espanhola em 1626 ao 7º maior porto de contêineres do mundo em 1984, memória portuária, assim como Hsinchu tem base de linha de frente da Guerra Fria (Ilha da Paz de Keelung vs Base Aérea de Hsinchu) e destino de cidade provincial
-- [Chiayi (嘉義市)](/pt/geography/chiayi-city) — Série 22 condados e cidades: também cidade provincial partida pela transferência da sede condal (1991 sede de Chiayi para Taibao vs 1989 sede de Hsinchu para Chupei), comparação de duas consequências da divisão condado-cidade
-- [Miaoli (苗栗縣)](/pt/geography/miaoli-county) — Série 22 condados e cidades: condado vizinho separado do Condado de Hsinchu em 1887, Parques Científicos de Houlung (後龍) e Tunglo (銅鑼) ficam em Miaoli, transbordamento industrial de Hsinchu
-- [Nantou (南投縣)](/pt/geography/nantou-county) — Série 22 condados e cidades: único condado sem litoral, como Hsinchu tem estrutura geográfica de "escala ≠ importância" (Nantou sustenta todo o sistema da Cordilheira Central / Hsinchu sustenta todo o cluster de semicondutores)
-- [Taoyuan (桃園市)](/pt/geography/taoyuan-city) — Vizinho norte de Hsinchu, ITRI em 1973 considerou inicialmente Longtan (龍潭), Taoyuan, depois escolheu Hsinchu; Parque Científico de Longtan atravessa Taoyuan e Hsinchu
-- [Condado de Hsinchu (新竹縣)](/pt/geography/hsinchu-county) — 1982 separado da Cidade de Hsinchu, 1989 sede para Chupei, Paoshan (寶山鄉) é condado vizinho onde fica a Fábrica 2 nm da TSMC
-- [Indústria de semicondutores de Taiwan (台灣半導體產業)](/technology/台灣半導體產業) — Do ITRI 1973 ao 2 nm da TSMC 2025, história industrial completa, Hsinchu é coordenada física de todas as linhas do tempo
-- [TSMC (台積電)](/companies/台積電) — Fundada em 1987 no Parque Científico de Hsinchu, 4º trimestre 2025 processo 2 nm inicia produção em volume na Fábrica de Paoshan
-- [Taiwan na era da Guerra Fria (冷戰時期的台灣)](/history/冷戰時期的台灣) — História das operações de reconhecimento do Esquadrão Morcego Negro e Gato Negro, Base Aérea de Hsinchu é o centro desta história
-- [Parques Científicos de Taiwan (台灣科學園區)](/geography/台灣科學園區) — História completa: 1980 Hsinchu, 1996 Sul, 2003 Centro, 2025 Kaohsiung superparque
-- [Festival Zhongyuan de Keelung (雞籠中元祭)](/culture/雞籠中元祭) — Mesmo sistema de crença local da era Qing que o Templo do Deus da Cidade de Hsinchu, comparação de dois rituais de "acolhimento de mortos" (Keelung acolhe almas francesas de 1884 / Templo do Deus da Cidade de Hsinchu gere deuses e fantasmas de Taiwan)
+- [Cidade de Keelung](/pt/geography/keelung-city) — Série das 22 divisões administrativas (piloto): Memórias da cidade portuária, desde a bandeira espanhola em 1626 até o sétimo maior porto de contêineres do mundo em 1984; assim como Hsinchu, possui uma base na linha de frente da Guerra Fria (Ilha de Pe和平, Keelung vs. Base da Força Aérea de Hsinchu) e um destino compartilhado como cidade administrada pela província.
+- [Cidade de Chiayi](/pt/geography/chiayi-city) — Série das 22 divisões administrativas: Outra cidade administrada pela província que foi dividida devido à mudança da sede do condado (sede do Condado de Chiayi mudou para Taibao em 1991 vs. sede do Condado de Hsinchu mudou para Zhubei em 1989), comparando as consequências desses dois modelos de divisão administrativa.
+- [Condado de Miaoli](/pt/geography/miaoli-county) — Série das 22 divisões administrativas: Condado vizinho separado de Hsinchu em 1887; os parques industriais de Houlong e Tongluo, do Parque Científico de Hsinchu, estão localizados em Miaoli, representando o transbordamento industrial de Hsinchu.
+- [Condado de Nantou](/pt/geography/nantou-county) — Série das 22 divisões administrativas: O único condado sem costa marítima; possui uma estrutura geográfica semelhante à de Hsinchu no sentido de que "escala ≠ importância" (Nantou sustenta todo o sistema da Cordilheira Central / Hsinchu sustenta todo o aglomerado de semicondutores).
+- [Cidade de Taoyuan](/pt/geography/taoyuan-city) — Vizinha ao norte de Hsinchu; quando o ITRI foi fundado em 1973, considerou inicialmente estabelecer-se em Longtan, Taoyuan, mas acabou optando por Hsinchu; o Parque de Longtan do Parque Científico de Hsinchu estende-se entre Taoyuan e Hsinchu.
+- [Condado de Hsinchu](/pt/geography/hsinchu-county) — Tornou-se independente da Cidade de Hsinchu em 1982, com a sede do condado mudada para Zhubei em 1989; é o condado vizinho onde se localiza a fábrica de 2 nm da TSMC, em Baoshan.
+- [Indústria de Semicondutores de Taiwan](/pt/technology/taiwan-semiconductor-industry) — A história completa da indústria, desde a fundação do ITRI em 1973 até o processo de 2 nm da TSMC em 2025; Hsinchu é a coordenada física de todos esses marcos temporais.
+- [TSMC](/pt/economy/tsmc) — Fundada em 1987 no Parque Científico de Hsinchu, com a produção em massa do processo de 2 nm prevista para iniciar na fábrica de Baoshan no quarto trimestre de 2025.
+- [Taiwan durante a Guerra Fria](/history/冷戰時期的台灣) — A história das missões de reconhecimento dos Esquadrões Morcego Negro e Gato Negro; a Base da Força Aérea de Hsinchu foi o centro deste período histórico.
+- [Parques Científicos de Taiwan](/pt/technology/science-park-development) — A história completa dos parques científicos: Hsinchu em 1980, Parque Científico do Sul em 1996, Parque Científico Central em 2003 e o mega parque de Kaohsiung em 2025.
+- [Festival Zhongyuan de Keelung](/culture/雞籠中元祭) — Pertence ao mesmo sistema de crenças locais da Dinastia Qing que o Templo do Deus da Cidade de Hsinchu; compara dois tipos de rituais para "acolher os mortos" (Keelung acolhendo as almas dos soldados franceses em 1884 vs. o Templo do Deus da Cidade de Hsinchu governando divindades e espíritos de todo Taiwan).
 
 ## Fontes das imagens
 

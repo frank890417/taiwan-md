@@ -2,6 +2,7 @@
 title: 'El Movimiento Estudiantil del Lirio Silvestre'
 description: 'Un grupo de estudiantes universitarios se sentó en sentada durante siete días en el Memorial de Chiang Kai-shek, hasta que un sistema político estancado durante más de cuarenta años comenzó a ceder. Lo que el Movimiento del Lirio Silvestre cambió realmente no fue solo la Conferencia Nacional de Asuntos del Estado, sino que los taiwaneses vieron por primera vez con claridad que los estudiantes podían reescribir directamente el calendario de la reforma constitucional.'
 date: 2026-03-23
+category: 'Society'
 tags:
   [
     'Sociedad',
@@ -12,15 +13,16 @@ tags:
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
-category: 'Society'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-05-26T21:07:27Z'
+translatedAt: '2026-11-04T18:45:07.945184+00:00'
 ---
 
 # El Movimiento Estudiantil del Lirio Silvestre

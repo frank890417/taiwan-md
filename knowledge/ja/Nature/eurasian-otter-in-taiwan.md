@@ -2,9 +2,7 @@
 title: '台湾のカワウソ：金門ユーラシアカワウソの孤島サバイバルと本島の静かなる消滅'
 description: '台湾本島のユーラシアカワウソは1980年代以降、確実な野外記録がなく、個体群の現状は不明であり極めて楽観できません。現在金門にのみ残存する「戦地カワウソ」は、生息地の分断、ロードキル、マイクロプラスチック汚染という複合的な危機に直面しています。'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Nature
-subcategory: '保育與環境'
+category: 'Nature'
 tags:
   [
     'ユーラシアカワウソ',
@@ -15,15 +13,19 @@ tags:
     'ロードキル',
     '生息地の分断',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Nature/水獺.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/水獺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-05-16T22:35:34Z'
-featured: false
+translatedAt: '2026-11-04T19:09:43.835892+00:00'
 ---
 
 # 台湾のカワウソ：金門ユーラシアカワウソの孤島サバイバルと本島の静かなる消滅

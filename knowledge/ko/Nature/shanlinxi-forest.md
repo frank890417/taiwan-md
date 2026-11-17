@@ -9,13 +9,16 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
+image: '/article-images/nature/sun-link-sea-forest-valley.webp'
+imageCredit: 'lienyuan lee'
+imageLicense: 'CC BY 3.0'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Nature/杉林溪.md'
-sourceCommitSha: 'c4c68308d'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:bc1981684ea96389'
 sourceBodyHash: 'sha256:8fca360e2bf80295'
-translatedAt: '2026-09-15T01:54:33+08:00'
+translatedAt: '2026-11-06T19:35:46.901975+00:00'
 ---
 
 ![산림시 숲과 계곡 경관](/article-images/nature/sun-link-sea-forest-valley.webp)

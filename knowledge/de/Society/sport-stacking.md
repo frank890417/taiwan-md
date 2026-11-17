@@ -1,16 +1,16 @@
 ---
-title: 'Wettbewerbs-Stapeln: Vom 1,915-Sekunden-„Trendobjekt“ zur Asien-Dominanz mit 43 Goldmedaillen'
-description: 'Die taiwanische Delegation gewann bei der Asian Cup in Dalian 2025 43 Goldmedaillen und brach 7 Weltrekorde; dieser einst verspottete Sport ist nun zu einem der erfolgreichsten Wettkampfbereiche Taiwans geworden. Von Lin Meng-hsin bis zur Sami Basaw: Das Stapeln verfolgt nicht nur die 0,001-Sekunden-Grenze, sondern hat auch neue Höhen in der Sonderpädagogik und Inklusion erreicht.'
+title: 'Sport-Stacking: Vom 1,915-Sekunden-Online-Trend zum Siegeszug mit 43 Goldmedaillen in Asien'
+description: 'Das taiwanesische Nationalteam gewann bei den Asian Cup 2025 in Dalian 43 Goldmedaillen und stellte sieben Weltrekorde auf. Damit wurde der Sport, der einst spöttisch als „Becherstapeln mit Löchern“ bezeichnet wurde, zu einer der dominantesten Disziplinen Taiwans. Von Lin Meng-hsin bis hin zur Saydiaq-Mädchen Shama Bashao – das taiwanesische Sport-Stacking strebt nicht nur nach dem Limit von 0,001 Sekunden, sondern setzt auch in der sonderpädagogischen Rehabilitation und der inklusiven Bildung neue gesellschaftliche Maßstäbe.'
 date: 2026-04-28
 category: 'Society'
 tags:
   [
-    'Wettbewerbs-Stapeln',
+    'Sport-Stacking',
     'Lin Meng-hsin',
-    'Sama Basaw',
+    'Shama Bashao',
     'Weltrekord',
-    'Inklusion',
-    'gesellschaftlicher Zusammenhalt',
+    'Inklusive Bildung',
+    'Gesellschaftliche Inklusion',
   ]
 subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-02T01:57:22.550401+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

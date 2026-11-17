@@ -2,9 +2,7 @@
 title: 'تشاو تزو تشيانغ: من تنوير فرقة لانلينغ المسرحية، إلى الروح غير المستسلمة تحت مريلة جدة الفاكهة'
 description: 'في عام 1984، انضم تشاو تزو تشيانغ إلى فرقة لانلينغ المسرحية بسبب إعلان «مجاني طوال العام»، مفتتحاً مسيرة أسطورية امتدت عبر المسرح والسينما والتلفزيون وفنون الأطفال. بشخصية «جدة الفاكهة»، أضفى الدفء على طفولة عدد لا يحصى من الأطفال، غير أنه في الواقع أسس «فرقة إذا للأطفال المسرحية» وتكبد ديوناً بالملايين، مظهراً «عزماً لا يلين» و«صلابة لا تستسلم» في مواجهة جائحة كورونا والأزمات المالية. إنها ممارسة عميقة لممثل كرس ثلاثين عاماً لحماية أحلام أطفال تايوان.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'تشاو تزو تشيانغ',
@@ -14,15 +12,19 @@ tags:
     'فنون الأطفال',
     'الثقافة التايوانية',
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-07-25T17:25:43+08:00'
+translatedAt: '2026-11-04T20:55:23.362069+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-07-26T17:01:26+08:00'
+translatedAt: '2026-11-04T16:07:56.557861+00:00'
 ---
 
 # Música Hakka de Taiwan: do shan'ge à política linguística da recusa de prêmio por Lin Sheng-xiang
@@ -96,18 +98,18 @@ A era digital traz também novas oportunidades: plataformas de streaming levam a
 
 ## Referências
 
-[^1]: [Música sem fronteiras — Lin Sheng-xiang: o prêmio hakka que menos quero ganhar | Cooloud](https://www.coolloud.org.tw/node/3817) — Confirma motivação e declaração da recusa de Lin Sheng-xiang.
+[^1]: [Música sem Fronteiras - Lin Sheng-xiang: O que eu menos gostaria fosse um prêmio de Hakka | Kulau Web](https://www.coolloud.org.tw/node/3817) — Confirmação da motivação e declaração de Lin Sheng-xiang sobre a recusa do prêmio.
 
-[^2]: [Centro Nacional de Artes Tradicionais: materiais de transmissão do bayin hakka](https://www.ncfta.gov.tw/) — Explicação da prática do bayin hakka centrado na suona.
+[^2]: [Centro Nacional de Artes Tradicionais: Materiais de Transmissão de Hakka Bayin](https://www.ncfta.gov.tw/) — Explicação da prática do Hakka Bayin, tendo o suona como instrumento principal.
 
-[^3]: [Bureau de Indústria Audiovisual e Musical Popular do Ministério da Cultura: listas de indicados e vencedores por edição](https://www.bamid.gov.tw/information_176_64106.html) — Confirma que _We'll Come Sing Shan'ge_ ganhou no 11º Golden Melody Melhor Compositor e Melhor Produtor (não Melhor Banda).
+[^3]: [Departamento de Indústria de Cinema, Televisão e Música Popular do Ministério da Cultura: Lista de Vencedores e Indicados de Edições Anteriores](https://www.bamid.gov.tw/information_176_64106.html) — Confirmação de que 《Vamos Cantar Canções de Montanha》 venceu as categorias de Melhor Compositor e Melhor Produtor na 11ª Golden Melody Awards (não foi o prêmio de Melhor Banda).
 
-[^4]: [14º Golden Melody — Wikipédia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirma que o 14º Golden Melody (2003) criou pela primeira vez o Melhor Intérprete em Hakka; o 18º (2007) renomeou para Melhor Cantor Hakka.
+[^4]: [14ª Golden Melody Awards — Wikipédia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirmação da criação da categoria de Melhor Cantor Hakka em 2003 (14ª edição); a categoria foi renomeada para Melhor Cantor Hakka na 18ª edição (2007).
 
-[^5]: [Xie Yu-wei — Wikipédia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirma vencedor do 15º Golden Melody (2004) Melhor Intérprete em Hakka; obra representativa _Yizai, Under the Flower Tree_.
+[^5]: [Hsieh Yu-wei — Wikipédia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmação do vencedor de Melhor Cantor Hakka na 15ª Golden Melody Awards em 2004; obra representativa: 《Um Povo, Debaixo da Árvore de Flores》.
 
-[^6]: [Golden Melody 18... Lin Sheng-xiang lança bomba e recusa prêmio de mãos dadas | Liberty Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Detalhes da recusa no 18º Golden Melody (2007) e destino do prêmio em dinheiro.
+[^6]: [Pela primeira vez em 18 anos do Golden Melody... Lin Sheng-xiang causa choque ao recusar prêmio | Freedom Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Detalhes sobre a recusa do prêmio por Lin Sheng-xiang na 18ª Golden Melody Awards (2007) e o destino da doação do prêmio em dinheiro.
 
-[^7]: [Melhor Álbum Hakka (Golden Melody) — Wikipédia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirma que _Picking Flowers_ de Luo Si-rong ganhou Melhor Cantor Hakka e Melhor Álbum Hakka no 23º Golden Melody.
+[^7]: [Melhor Álbum Hakka (Golden Melody Awards) — Wikipédia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirmação de que Luo Siyong venceu como Melhor Cantor Hakka e Melhor Álbum Hakka na 23ª edição.
 
-[^8]: [Site oficial da Hakka TV](https://www.hakkatv.org.tw/) — Confirma inauguração em 2003, primeiro canal de TV 24 horas em hakka no mundo.
+[^8]: [Site Oficial da Hakka TV](https://www.hakkatv.org.tw/) — Confirmação do início das transmissões em 2003, sendo o primeiro canal de televisão dedicado exclusivamente à língua Hakka no mundo com transmissão 24 horas.

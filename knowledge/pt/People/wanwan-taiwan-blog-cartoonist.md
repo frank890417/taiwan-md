@@ -1,16 +1,16 @@
 ---
-title: 'Wan-wan: o careca que deu um rosto a uma geração de trabalhadores de escritório, e a Hu Chia-wei que o fez "virar figura histórica"'
-description: 'Na era em que os escritórios ainda dependiam do MSN para comunicar, trabalhadores que não ousavam falar com o chefe trocavam a foto de perfil por um homenzinho careca, sem roupa, com um único fio de cabelo encaracolado no topo da cabeça, para que ele dissesse por eles: "Quero ir embora". A autora desse desenho, Hu Chia-wei, partiu de assistente de design com salário de 9.000 dólares taiwaneses por mês para se tornar, inesperadamente, o primeiro blog de Taiwan a ultrapassar cem milhões de visualizações e a pioneira da criação de texto e imagem. O homenzinho careca permanece eternamente ingénuo e imortal; quem o desenha, porém, envelhece. Por isso, ela decidiu que a personagem se retirasse junto com ela, "virando figura histórica".'
+title: 'Wanwan: Hu Jiawei desenhou o homem careca para a geração MSN, e a decisão de fazê-lo "se tornar uma figura histórica"'
+description: 'Wanwan, de nome real Hu Jiawei, é a pioneira da criação de texto e imagem na internet de Taiwan. No início dos anos 2000, o homem careca que ela desenhou foi adotado por trabalhadores de escritório como foto de perfil do MSN, dando voz ao seu "quero sair do trabalho"; em 2007, seu blog tornou-se o primeiro blog de Taiwan a ultrapassar 100 milhões de visualizações, depois expandiu para stickers do LINE e WEBTOON. Após se tornar mãe, sua criação voltou-se para o cotidiano parental, e ela decidiu fazer o homem careca eternamente jovem se retirar junto com ela, "tornando-se uma figura histórica".'
 date: 2026-06-29
 category: 'People'
 tags:
   [
-    'Wan-wan',
-    'Hu Chia-wei',
-    'ilustração',
-    'criação de texto e imagem',
-    'era MSN',
-    'cultura da internet',
+    'Wanwan',
+    'Hu Jiawei',
+    'Ilustração',
+    'Criação de texto e imagem',
+    'Era MSN',
+    'Cultura da internet',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T02:52:54.140655+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-06T07:26:10.072538+00:00'
 ---
 
-# Wan-wan: o careca que deu um rosto a uma geração de trabalhadores de escritório, e a Hu Chia-wei que o fez "virar figura histórica"
+# Wan-wan: o homenzinho careca que Hu Chia-wei desenhou para a geração MSN, e a decisão de o tornar uma «figura histórica»
 
-Início dos anos 2000, certo trabalhador de escritório em Taipé abre o computador, entra no MSN Messenger. Ele troca a sua foto de perfil por um homenzinho: sem roupa, careca redondo, apenas um fio de cabelo encaracolado e teimoso no topo da cabeça, rosto com uma expressão meio morta, ao lado três palavras: "Quero ir embora".
+No início dos anos 2000, um trabalhador de escritório em Taipé abre o computador, entra no MSN Messenger. Ele troca a sua foto de perfil por um homenzinho: sem roupa, careca redondo, com apenas um fio de cabelo encaracolado no topo da cabeça, uma expressão meio morta no rosto, e três caracteres ao lado: «Quero sair do trabalho».
 
-Ele não ousa dizer isso ao chefe na vida real. Mas aquele homenzinho careca disse por ele.
+Ele não ousa dizer isso realmente ao chefe. Mas aquele homenzinho careca disse por ele.
 
-Era o tempo em que telemóveis só serviam para ligar e mandar SMS. Não havia stickers do LINE, nem Stories, todas as emoções do escritório ficavam comprimidas numa janela do MSN que não se podia fechar antes de sair. E aquele homenzinho careca (depois todos o chamariam de "Wan-wan") estava naquele pequeno quadrado da janela, a dar voz ao ocupado, sonolento, triste, cansado, irritado, entediado de todos os escritórios de Taiwan[^1].
+Era a época em que os telemóveis só serviam para fazer chamadas e enviar SMS. Não havia stickers do LINE, nem Stories, todas as emoções do escritório estavam comprimidas numa janela do MSN que ainda não tinha saído do ar, que não se podia fechar. E aquele homenzinho careca (que mais tarde todos chamariam de «Wan-wan») estava ali, no pequeno quadrado daquela janela, a gritar em nome de todos os escritórios de Taiwan: ocupado, com sono, triste, cansado, irritado, entediado[^1].
 
-![2008 年台北國際書展，彎彎在聯合線上攤位](/article-images/people/wanwan-2008-book-fair.webp)
-_2008, Feira do Livro de Taipé, Wan-wan no stand da United Daily News (UDN). — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![Feira do Livro de Taipé de 2008, Wan-wan no stand da United Daily News (UDN)](/article-images/people/wanwan-2008-book-fair.webp)
+_Feira do Livro de Taipé de 2008, Wan-wan no stand da United Daily News (UDN). — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Resumo em 30 segundos:** Wan-wan, nome verdadeiro Hu Chia-wei, é a pioneira da criação de texto e imagem na internet de Taiwan. Partiu de assistente de design com salário de 9.000 dólares taiwaneses por mês, "a rolar no canteiro de obras todos os dias", e, por tédio, desenhou no MSN uns quantos quadradinhos que combinavam com o seu estado de espírito — tornou-se inesperadamente um fenómeno em toda a ilha. O seu blog pessoal tornou-se, em 2007, o primeiro de Taiwan a ultrapassar cem milhões de visualizações; provou que "desenhar dá para ganhar a vida", abrindo caminho a toda uma geração de criadores de texto e imagem. O seu traço mais comovente está na escolha que fez sobre a sua própria personagem: o homenzinho careca permanece eternamente ingénuo e imortal, quem o desenha cresce e cansa-se; por isso Hu Chia-wei decidiu que a personagem se retirasse junto com ela, "virando figura histórica".
+> **Resumo de 30 segundos:** Wan-wan, nome verdadeiro Hu Chia-wei, é a pioneira da criação de texto e imagem na internet de Taiwan. Ela começou como assistente de design com um salário mensal de NT$9.000, «revirando-se todos os dias no canteiro de obras», e por tédio desenhou no MSN algumas pequenas imagens que combinavam com o seu estado de espírito, tornando-se inesperadamente famosa em toda a ilha. O seu blogue pessoal tornou-se em 2007 o primeiro blogue de Taiwan a ultrapassar 100 milhões de visualizações; ela provou que «desenhar pode pagar as contas», e uma geração inteira de criadores de texto e imagem seguiu-a. E a parte mais comovente está na escolha que fez sobre a sua própria personagem: o homenzinho careca permanece para sempre ingénuo e imortal, mas quem o desenha envelhece, cansa-se; por isso Hu Chia-wei disse que quer que a personagem se retire junto com ela, «tornando-se uma figura histórica».
 
 ## Um fio de cabelo rebelde, um homenzinho sem roupa
 

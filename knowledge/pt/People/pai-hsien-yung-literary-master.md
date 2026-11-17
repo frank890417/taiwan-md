@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T08:09:39.099173+00:00'
+translatedAt: '2026-11-04T21:24:38.505103+00:00'
 ---
 
 # Pai Hsien-yung: "Taipé" 1971, até a tournée de 20 anos da versão jovem de "O Pavilhão das Peónias"

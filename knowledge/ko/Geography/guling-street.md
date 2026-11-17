@@ -1,42 +1,48 @@
 ---
-title: '구링제: 일본인이 남긴 책 거리, 에드워드 양의 소년, 국민정부의 궁전'
-description: '토요일 오후 구링제 5항 끝의 붉은 벽돌 극장 앞에는 학생들이 줄을 서 있고, 그 옆에는 1955년에 세워진 국립역사박물관과 1921년에 개편된 타이베이식물원의 연꽃 연못이 있다. 이 1.2킬로미터 길이의 거리는 1922년 사쿠마초라 불렸고, 1947년 장시성 루산에서 따와 구링제로 이름이 바뀌었다. 1945년 전후 일본인이 철수하며 남긴 책들이 길가에 놓이면서 대만 최초의 헌책 거리가 되었고, 1960년대 전성기에는 노점상이 200곳을 넘었다. 1973년 4월 광화교가 개통된 뒤 노점상들은 정비되어 광화 육교 아래로 옮겨졌다. 1961년 6월 15일 이 거리에서 16세 마오우가 보이스카우트 칼로 15세 류민을 살해했고, 1991년 에드워드 양은 이를 237분짜리 영화로 만들었다. 책 거리는 철거되고, 서점 노점은 옮겨졌으며, 학생들은 다른 곳에서 책을 사게 되었다. 남은 것은 일제시대 붉은 벽돌 경찰 분국 옛 청사, 전후의 중국 궁전식 박물관, 그리고 1921년부터 그 자리에 있던 연꽃 연못이다.'
+title: '고링가: 일본인이 남긴 책거리, 양덕창의 소년, 국민정부의 궁전'
+description: '고링가는 타이베이의 1.2km 길이의 거리로, 1922년에는 사쿠마초라 불렸으며, 1947년 강서 여산의 고링에서 이름을 따와 개명했다. 전후 일본인이 남긴 책들이 길가에 놓여 대만 최초의 헌책방 거리가 되었고, 전성기에는 200여 개의 책 노점이 있었다. 1961년 16세의 마오우가 이 거리에서 15세의 류민을 찔러 죽였고, 양덕창이 이를 영화로 만들었다. 책 노점들은 옮겨갔고, 궁전 형태의 역사박물관과 1921년의 연꽃 연못은 여전히 남아 있다.'
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區 / 台北市中正區'
 tags:
   [
-    '구링제',
-    '난하이학원',
+    '고링가',
+    '남해학원',
     '타이베이시',
     '중정구',
-    '역사 지구',
-    '헌책 거리',
-    '에드워드 양',
-    '구링제 소년 살인 사건',
+    '역사 거리',
+    '헌책방 거리',
+    '양덕창',
+    '고링가 소년 살인 사건',
     '국립역사박물관',
-    '타이베이식물원',
-    '구링제 소극장',
+    '타이베이 식물원',
+    '고링가 소극장',
     '사쿠마초',
-    '고다마초',
-    '광화상장',
-    '쑹린서국',
-    '역사 지구 시리즈',
+    '코다마초',
+    '광화상가',
+    '송림서국',
+    '역사 거리 시리즈',
   ]
-readingTime: 18
+subcategory: '歷史街區 / 台北市中正區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+translatedAt: '2026-11-06T00:24:16.448763+00:00'
 ---
 
 # 구링제: 일본인이 남긴 책 거리, 에드워드 양의 소년, 국민정부의 궁전

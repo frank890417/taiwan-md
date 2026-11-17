@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T01:23:28+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-03T04:32:40.081656+00:00'
 ---
 
 # Chế độ trưng cầu dân ý tại Đài Loan: Được đưa vào Hiến pháp từ năm 1947, mất 56 năm mới có được một đạo luật
@@ -99,19 +99,20 @@ Con lắc đã quay trở lại vào tháng 11 năm 2025: Lập pháp viện th�
 
 Vì vậy, chúng ta có cục diện của năm 2026: Vào ngày bầu cử địa phương 28 tháng 11, người dân sẽ bỏ phiếu cùng với đề án thứ 22. Khi Chủ tịch Ủy ban Bầu cử Trung ương đưa ra ước tính về thời gian kiểm phiếu, hình ảnh của đêm năm 2018 thực chất chính là nguồn gốc của con số đó. [^4]
 
-## Tại sao dòng lịch sử này đáng để ghi nhớ
+## Tại sao đường ranh giới này đáng để ghi nhớ
 
-Khi xem xét kỹ mọi cuộc tranh luận, chế độ trưng cầu dân ý tại Đài Loan thực sự chỉ đang cân nhắc lặp đi lặp lại ba vấn đề.
+Xét lại từng cuộc tranh luận, chế độ trưng cầu dân ý của Đài Loan thực sự chỉ đang cân nhắc ba vấn đề cốt lõi.
 
-Ở một đầu của cán cân là **ngưỡng thông qua**: Vấn đề của 6 đề án năm 2004 và 2008 là ngưỡng quá khắt khe, dù đã thúc đẩy được cử tri đi bỏ phiếu nhưng vẫn không đạt yêu cầu; sau khi chuyển sang chế độ một phần tư vào năm 2017, vấn đề lại chuyển sang đầu kia, tỷ lệ cử tri đi bỏ phiếu thấp cộng với tỷ lệ đồng ý cao vẫn có thể dẫn đến thất bại, và đề án thứ 21 năm 2025 là minh chứng cho sự kết hợp này. Đầu thứ hai là **năng lực quản lý bầu cử**: Năm có 10 đề án cùng ngày đã đẩy sức chịu đựng của các điểm bỏ phiếu tới giới hạn, dẫn đến việc tách rời vào năm 2019; nhưng sau khi tách rời, nhiệt độ thảo luận về trưng cầu dân ý lại bị nghi ngờ, dẫn đến việc kết hợp trở lại vào năm 2025. Đầu thứ ba là "**ý kiến của ai có thể lọt vào lá phiếu đó**", điều này phụ thuộc vào việc lấy chữ ký có cần bản giấy hay không, bỏ phiếu vắng mặt có được phép hay không, và cả hai vấn đề này vẫn đang chờ đợi các luật về phương thức thực hiện. [^6]
+Đặt lên cân đầu tiên là ngưỡng thông qua: vấn đề của sáu án năm 2004 và 2008 nằm ở ngưỡng quá khắt khe, phiếu bầu được huy động ra nhưng không vượt qua; sau khi năm 2017 sửa thành chế độ một phần tư, vấn đề chuyển sang phía kia, tỷ lệ bỏ phiếu thấp kết hợp tỷ lệ đồng ý cao vẫn có thể không thông qua, án thứ 21 năm 2025 chính là tổ hợp này. Cánh thứ hai là năng lực tổ chức bầu cử, một năm mười án cùng ngày đẩy sức chịu đựng của trạm bỏ phiếu đến giới hạn, từ đó có sự tách rời năm 2019, sau khi tách rời nhiệt độ thảo luận trưng cầu dân ý lại bị đặt dưới dấu hỏi, từ đó có sự gắn kết lại năm 2025. Cánh thứ ba là "ý kiến của ai mới lên được tờ phiếu", điều này tùy thuộc vào việc liên署 có bắt buộc giấy hay không, người không tại nguyên quán có bỏ phiếu được hay không, và cả hai vấn đề này vẫn đang chờ luật quy định cách thức thi hành. [^6]
 
-Cả ba vấn đề này chưa bao giờ thuần túy là vấn đề kỹ thuật; mỗi lần chúng đều được tính toán lại trên đấu trường chính trị. Và những dấu vết mà chế độ để lại rất dễ nhận diện: năm nào sửa luật, sửa điều khoản nào, tỷ lệ cử tri đi bỏ phiếu là bao nhiêu, ngưỡng là một phần tư hay một nửa. Sắp xếp các con số này theo năm sẽ thấy được quá trình hòn đảo này vừa học cách sử dụng quyền dân chủ trực tiếp, vừa tự điều chỉnh "chiếc bình chứa" của chính mình.
+Ba việc này không có lần nào là vấn đề thuần túy kỹ thuật, mỗi lần đều bị tính toán lại trên sân chính trị. Dấu vết để lại bởi chế độ rất dễ nhận ra: năm nào sửa luật, sửa điều nào, tỷ lệ bỏ phiếu bao nhiêu, ngưỡng là một phần tư hay một phần hai. Sắp xếp các con số này theo năm, chính là quá trình đảo đảo này vừa học cách dùng quyền dân chủ trực tiếp, vừa điều chỉnh khung chứa đựng của mình.
 
 **Đọc thêm**:
 
-- [Chế độ của Ủy ban Bầu cử Trung ương](/vi/politics/central-election-commission) — Cơ quan thực hiện toàn bộ quy trình từ đề xuất, lấy ý kiến ủng hộ đến bỏ phiếu trưng cầu dân ý.
-- [Lịch sử ngưỡng quyền bầu cử](/vi/politics/voting-rights-threshold-history) — Ranh giới xác định ai có tư cách bước vào điểm bỏ phiếu cũng là thứ đã trải qua nhiều lần sửa đổi.
-- [Bầu cử địa phương 2026](/politics/2026 九合一選舉) — Nửa còn lại của lá phiếu ngày 28 tháng 11.
+- [Hệ thống Ủy ban Bầu cử Trung ương](/vi/politics/central-election-commission) — Cơ quan đưa án trưng cầu dân ý từ đề xuất, liên署 đến bỏ phiếu hoàn trọn quy trình
+- [Lịch sử ngưỡng quyền bỏ phiếu](/vi/politics/voting-rights-threshold-history) — Đường ranh giới ai có tư cách bước vào trạm bỏ phiếu, cũng là một đường được sửa đổi liên tục
+- [Bầu cử 9 trong 1 năm 2026](/politics/2026 九合一選舉) — Nửa còn lại của tờ phiếu ngày 28 tháng 11
+- [Đài Loan và tranh luận điện hạt nhân](/vi/society/taiwan-nuclear-debate) — Bản thân án thứ 22: Nhà máy điện hạt nhân số 3 từng cái một đang xét duyệt, điều kiện "có sự đồng thuận xã hội" được đưa vào trưng cầu dân ý cùng ngày
 
 ## Tài liệu tham khảo
 

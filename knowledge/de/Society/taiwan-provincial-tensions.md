@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T18:01:41.010641+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 1949 zogen etwa 1,2 Millionen Soldaten und Zivilisten mit der Republik-China-Regierung vom chinesischen Festland nach Taiwan aus und bildeten die Bevölkerungsstruktur von „Außenprovinz“ und „Innenprovinz“. Die institutionelle Ungleichheit während der Kriegsrechtszeit und das kollektive Trauma der [[二二八事件]] machten die Provinzidentität zur sensibelsten Grundlage der taiwanesischen Politik. Nach der Demokratisierung wurde der Provinzidentitätskonflikt von Politikern immer wieder instrumentalisiert, bis er im 21. Jahrhundert allmählich durch die „taiwanische Identität“ verwässert wurde – aber, wie Forscher sagen, verschwand er nie, nur seine Form änderte sich.

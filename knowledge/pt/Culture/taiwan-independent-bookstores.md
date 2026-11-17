@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-11T17:03:15+08:00'
+translatedAt: '2026-11-02T15:33:08.647474+00:00'
 ---
 
 > **Visão geral em 30 segundos:** As livrarias independentes de Taiwan não são um modelo de loja fixo, mas uma forma de operação que vincula julgamento de curadoria, escala espacial e relações públicas. Podem estar no porão de uma cidade universitária de Taipé, ou escondidas na rua velha de Guanshan, à beira da estrada de Changbin ou nos becos de Penghu. As livrarias vendem livros, mas o que fazem com mais frequência é arranjar encontros entre leitores estranhos, preservar para um lugar uma linguagem que possa continuar a ser falada. Da rua de livrarias de Chongqing Sul às livrarias humanísticas de Wenluoting, até os espaços microscópicos de vilas e ilhas, elas enfrentam descontos, logística, aluguel e problemas demográficos diversos, mas todas respondem à mesma questão: como um lugar faz com que livros e leitores difíceis de ver se encontrem. Esse valor não substitui o problema da receita, mas explica por que, após descontos online e leitura digital, ainda há quem aposte o aluguel, o tempo e a vida em uma fileira de estantes.
@@ -122,11 +122,11 @@ A cultura das livrarias independentes de Taiwan, portanto, não é a história s
 
 Quando um livro é posto na estante, o dono já fez uma escolha pelo leitor. Quando o leitor entra, pode com suas questões mudar a livraria. Esse vai-e-vem faz a livraria virar a sala de estar de um lugar, não porque seja sempre silenciosa ou sempre romântica, mas porque ainda está disposta a deixar uma cadeira para o estranho.
 
-## Leituras complementares
+## Leitura Complementar
 
-- [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature): entender o pano de fundo de longo prazo da publicidade da leitura a partir de autores, obras e campos literários.
-- [Cultura da impressão tipográfica de Taiwan](/culture/台灣活版印刷文化): rastrear como livros, jornais e linguagem pública foram concretamente fabricados pela tecnologia de impressão.
-- [Boletim da Igreja de Taiwan](/pt/culture/taiwan-church-news): compreender como publicação inicial, língua e organização religiosa formaram juntos comunidades de leitores.
+- [História da Literatura de Taiwan](/pt/art/history-of-taiwanese-literature): Compreenda o contexto de longo prazo da publicidade da leitura por meio de escritores, obras e do campo literário.
+- [Cultura da Tipografia em Taiwan](/pt/culture/taiwan-letterpress-printing): Acompanhe como livros, jornais e a linguagem pública foram concretamente produzidos pelas técnicas de impressão.
+- [Boletim da Igreja de Taiwan](/pt/culture/taiwan-church-news): Entenda como as publicações de early stage, a língua e as organizações religiosas formaram conjuntamente comunidades de leitores.
 
 ## Referências
 

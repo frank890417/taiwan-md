@@ -2,27 +2,31 @@
 title: 'Huang Guangxiong: el hombre que construyó una facultad de educación en los campos de Chiayi'
 description: 'En 1996, Huang Guangxiong viajó desde la Universidad Normal de Taiwán hasta Chiayi, donde fundó el Instituto de Investigación en Educación en la Universidad Nacional Chung Cheng, que posteriormente expandió hasta convertirlo en una facultad de educación. Dedicó medio siglo a introducir la teoría curricular occidental en Taiwán, tradujo manuales clásicos de investigación cualitativa, dirigió la planificación investigadora de los programas curriculares del sistema de nueve años de educación obligatoria, y lideró a un grupo de académicos que, en tres años, diseñaron un programa de enseñanza moral centrado en el "respeto y la compasión". Falleció en 2021 a los 84 años.'
 date: 2026-04-25
-tags:
-  - Educación
-  - Teoría curricular
-  - Pedagogía
-  - Académico
-  - Universidad Nacional Chung Cheng
-  - Universidad Normal
-  - Investigación cualitativa
-  - Educación moral
-subcategory: '教育與社會'
 category: 'People'
+tags:
+  [
+    'Educación',
+    'Teoría curricular',
+    'Pedagogía',
+    'Académico',
+    'Universidad Nacional Chung Cheng',
+    'Universidad Normal',
+    'Investigación cualitativa',
+    'Educación moral',
+  ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 7
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-04T21:19:39.354520+00:00'
 ---
 
 > **Resumen en 30 segundos:** Huang Guangxiong (1937-2021), pionero de los estudios curriculares en Taiwán. Doctor en Pedagogía por la Universidad Normal de Taiwán, con investigación en el Institute of Education de la Universidad de London (actualmente UCL IOE). Fue decano de la Facultad de Educación de la Universidad Normal, rector de la Escuela Normal Provincial de Hsinchu, y director fundador tanto del Instituto de Investigación en Educación como de la Facultad de Educación en la Universidad Nacional Chung Cheng. Introdujo de forma sistemática la teoría curricular occidental en Taiwán, editó manuales de formación docente como _Introducción a la educación_ y _Principios de la enseñanza_, dirigió la traducción de _Investigación educativa cualitativa_, y participó directamente en la planificación investigadora de los programas curriculares del sistema de nueve años de educación obligatoria del Ministerio de Educación. Falleció el 4 de febrero de 2021, a los 84 años.

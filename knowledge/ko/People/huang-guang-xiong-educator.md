@@ -2,27 +2,31 @@
 title: '황광웅: 자이이의 들판 위에 교육대학을 세운 사람'
 description: '1996년, 황광웅은 사대에서 남하하여 자이이에 있는 중정대학에 교육학연구소를 설립한 뒤 이를 교육대학으로 확장했다. 그는 반세기 동안 서양의 교육과정 이론을 대만으로 이식하고, 질적 연구의 고전 교과서를 번역하며, 구년일관 교육과정 연구 기획을 주관하고, 학자들과 함께 3년간 「존중과 배려」를 핵심으로 하는 도덕 교육 프로그램을 설계했다. 2021년 향년 84세로 타계했다.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - 교육
-  - 교육과정 이론
-  - 교육학
-  - 학자
-  - 중정대학
-  - 사범대학
-  - 질적 연구
-  - 도덕 교육
-readingTime: 7
+  [
+    '교육',
+    '교육과정 이론',
+    '교육학',
+    '학자',
+    '중정대학',
+    '사범대학',
+    '질적 연구',
+    '도덕 교육',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-05-02T02:50:56+08:00'
+translatedAt: '2026-11-04T21:18:56.433103+00:00'
 ---
 
 > **30초 개요:** 황광웅(1937-2021), 대만 교육학의 토대를 놓은 학자. 대만사범대학 교육학 박사, 영국 런던대학교 교육연구원 연구. 사대 교육학원장, 신주사전 교장, 중정대학 교육학연구소 창소 소장 겸 교육대학 창원 원장을 역임했다. 서양 교육과정 이론을 체계적으로 대만에 소개하고, 『교육개론』『교학원리』 등 사범 교과서를 주편하며, 『질적 교육연구』를 주역하고, 교육부 구년일관 교육과정 연구 기획에 직접 참여했다. 2021년 2월 4일 향년 84세로 서거했다.

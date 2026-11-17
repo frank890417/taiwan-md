@@ -18,15 +18,17 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-07-28T21:27:53+08:00'
+translatedAt: '2026-11-04T17:38:15.871497+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
-> Fundada em 2004, a "Estreia Criativa" (SOFA Studio) foi outrora a estrela da animação taiwanesa, carregando o capital e o sonho original de Kuo Tai-chiang; com "MuMuHug" conquistou mais de 80 países. Contudo, o alto custo e o longo ciclo de retorno do desenvolvimento de animação fizeram essa grande aposta mudar de rumo. A história não acabou: o membro nuclear Chiu Li-wei fundou em Tainan o studio2, que pegou a tocha; de "O Pequeno Gato Bakri" a "Bajie", eles, num velho edifício de Tainan, trocaram vinte anos de solidão pela estética de animação que pertence a Taiwan.
+> Fundado em 2004, o Estreia Criativa (SOFA Studio) foi outrora a estrela da animação de Taiwan, apoiado pelo financiamento de Kuo T'ai-ch'iang e pelo sonho de criações originais, conquistando 80 países com MuMuHug. No entanto, os elevados custos e o longo prazo de retorno do desenvolvimento de animação levaram esta aposta arriscada a mudar de rumo. A história não acabou: o membro principal Chiu Li-wei fundou o studio2 em Tainan, pegando a tocha; do Pequeno Gato Bakri ao Bajie, eles, nos velhos edifícios de Tainan, trocaram vinte anos de solidão pela estética de animação própria de Taiwan.
 
 ---
 

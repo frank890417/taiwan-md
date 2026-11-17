@@ -18,11 +18,13 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
 terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
-translatedAt: 2026-07-31T00:00:00Z
+translatedAt: '2026-11-05T07:01:59.114953+00:00'
 ---
 
 > **30 giây tóm tắt:** Tại sao tiếng Trung Quốc mà người Đài Loan nói lại như thế này? Không phải kết quả của chính sách thiết kế, mà là kết quả tự nhiên của bốn trăm năm sống trên đảo tích tụ thành những tầng lớp ngôn ngữ. Từ những tên địa danh do người Hà Lan để lại, sự thấm lọc của từ vay mượn Nhật suốt năm mươi năm, sự phân hoá từ vựng năm 1949, cho tới cuộc kéo co ngôn ngữ thời kỳ internet——mỗi tầng lớp đều là dấu tích của cuộc sống thực tế, không phải lập trường chính trị.

@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "ハム10年→巨人FA→独立リーグ——これはプロ選手の完全なアークであり、「台東アミ族が日職へ」よりも説得力がある。"
-#   whats_excluded: "年度別打撃成績表；日職各球団の待遇比較；2024-2025独立リーグの近況詳細"
-#   where_it_hedges: "原文が「読売ジャイアンツと契約（2005）」および「高校は花蓮体中」と誤記していた点を修正：2005年ドラフトでハムが交渉権獲得、高校は日本で就讀"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:43fe535b07f25e8f'
-sourceBodyHash: 'sha256:671fca6899bd3dfa'
-translatedAt: '2026-05-22T08:13:48+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a0454e71ee2abfe6'
+sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
+translatedAt: '2026-11-04T23:20:05.879296+00:00'
 ---
 
 # 陽岱鋼：台東1987、日職ハム10年ゴールデングローブから巨人FAへのアミ族外野手

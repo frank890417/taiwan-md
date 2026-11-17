@@ -1,19 +1,31 @@
 ---
-title: 'Barbie Hsu: de la chica traviesa a la reina indomable del "dos muertos, un herido grave"'
-description: 'Debutó en 1994 con el grupo S.O.S, conquistó toda Asia en 2001 con "Meteor Garden" y consolidó su sello estético en 2005 con "Beauty Queen". Falleció en febrero de 2025 a los 48 años. Con su búsqueda obsesiva de la belleza como refugio ante el caos vital, y su declaración de "dos muertos, un herido grave" en medio de la tormenta matrimonial, dejó el retrato más descarnado de los dilemas de la mujer contemporánea.'
+title: 'Barbie Hsu: de una chica excéntrica y encantadora a la «reina feroz» de «dos muertas y una herida grave»'
+description: 'Debutó en 1994 con S.O.S., saltó a la fama en toda Asia en 2001 con «Meteor Garden», consolidó su etiqueta estética en 2005 con «Beauty King» y falleció en febrero de 2025 a los 48 años. Con su búsqueda extrema de la belleza combatió la falta de control de su vida, y en medio de la tormenta matrimonial dejó una declaración de «dos muertas y una herida grave» que refleja el aspecto más profundo del dilema de la mujer contemporánea.'
 date: 2026-04-28
+category: 'People'
+tags:
+  [
+    'Barbie Hsu',
+    'Big S',
+    'Wang Xiaofei',
+    'Koo Jun-yup',
+    'Meteor Garden',
+    'Beauty King',
+    '100% Entretenimiento',
+  ]
+subcategory: '電影與戲劇'
 author: 'idlccp1984'
-category: People
-tags: [徐熙媛, 大S, 汪小菲, 具俊曄, 流星花園, 美容大王, 娛樂百分百]
-readingTime: 8
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
-translatedFrom: People/徐熙媛.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/徐熙媛.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-05T00:42:37.324434+00:00'
 ---
 
 > **Resumen en 30 segundos:** Barbie Hsu (conocida como 大S o Da S), nacida en 1976, fue actriz, cantante y presentadora taiwanesa. En 1994 debutó junto a su hermana Dee Hsu como el dúo S.O.S. En 2001 alcanzó fama panasiática con su papel como "Shan Cai" en "Meteor Garden". En 2005, "Beauty Queen" marcó tendencia en el mundo de la belleza. Tras dos matrimonios, en 2024 sorprendió al público con una declaración que rezaba "diez años de matrimonio: dos muertos, un herido grave". El 2 de febrero de 2025 falleció a los 48 años a causa de neumonía derivada de una gripe.

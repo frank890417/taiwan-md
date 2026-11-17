@@ -1,6 +1,7 @@
 ---
 title: "Kuo Chin-fa: The Bass Soul Behind 'Roasted Rice Dumpling'"
 description: "From a shoemaker's apprentice in Dadaocheng to the 'Island's Bass King,' Kuo Chin-fa used 'Roasted Rice Dumpling' to sing out the hardship and resilience of postwar Taiwanese common people — and burned up his last breath on stage."
+date: 2026-04-19
 category: 'People'
 tags:
   [
@@ -13,15 +14,16 @@ tags:
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
-date: 2026-04-19
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-05-16T22:19:17Z'
+translatedAt: '2026-11-04T23:39:12.697165+00:00'
 ---
 
 > **📝 Curator's note**

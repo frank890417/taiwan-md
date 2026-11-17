@@ -1,8 +1,8 @@
 ---
-title: 'Alishan-Waldbahn: 71,6 Kilometer für Holztransport und kulturelles Erbe'
-description: 'Die 1906 begonnene und 1912 eröffnete Alishan-Waldbahn beförderte Zypressenholz ins Tal von Chiayi und wurde durch Taifune unterbrochen. 2024 fährt sie wieder auf voller Länge. Von einer Holzlinie zur Kulturlandschaft: Die Eisenbahn zeigt, wie Taiwan lernte, Berge zu respektieren, anstatt sie zu bezwingen.'
-category: Geography
-subcategory: '交通與基礎設施'
+title: 'Die Alishan-Waldbahn: Eine 71,6 Kilometer lange Strecke, gebaut für Holz, bewahrt für die Kultur'
+description: 'Die 1906 begonnene und 1912 eröffnete Alishan-Waldbahn transportierte einst Zypressenholz nach Chiayi und stand nach den Taifunen Morakot und Dujuan 15 Jahre still. 2024 nahm sie den Vollbetrieb wieder auf und wandelte sich von einer Holztransportstrecke zu einer Kulturlandschaft. Die eigentliche Frage seit der Wiederaufnahme ist nicht, wie man den Wald bezwingt, sondern wie der Betrieb zwischen Katastrophen, Tourismus und Erhalt fortbestehen kann.'
+date: 2026-08-20
+category: 'Geography'
 tags:
   [
     'Alishan',
@@ -10,146 +10,146 @@ tags:
     'Kulturlandschaft',
     'Eisenbahn',
     'Chiayi',
-    'Japanische Kolonialzeit',
+    'japanische Kolonialzeit',
   ]
-featured: false
+subcategory: '交通與基礎設施'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-translatedFrom: Geography/阿里山林業鐵路.md
-sourceCommitSha: da79c32b0
-sourceContentHash: 'sha256:98502e991d7261a6'
-sourceBodyHash: 'sha256:7466cc3940afd368'
-translatedAt: '2026-09-27T00:57:32+08:00'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Geography/阿里山林業鐵路.md'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:d2f1e34fdbd007bc'
+sourceBodyHash: 'sha256:c28d645ae239af32'
+translatedAt: '2026-11-05T07:46:37+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Die Alishan-Waldbahn ist keine reine Touristenbahn für Sonnenaufgänge. 1906 gebaut, um Bergholz ins Tal zu transportieren, 1912 in Betrieb genommen. Nach 15 Jahren Unterbrechung durch den Taifun Morakot (2009) ist die 71,6 Kilometer lange Strecke 2024 wieder durchgehend befahrbar. Sie verbindet Chiayi in der Ebene, Waldarbeitersiedlungen und Hochgebirgswald. Als eine Eisenbahn, die für Waldnutzung gebaut wurde, zur Kulturlandschaft wurde, müssen wir fragen: Was bewahren wir – die Gleise oder die ganze Geschichte, wie Menschen und Berg zusammenleben?[^1] [^2] [^3]
+> **30-Sekunden-Überblick:** Die Alishan-Waldbahn ist nicht einfach ein Touristenzug, der Passagiere zum Sonnenaufgang bringt. Sie wurde 1906 gebaut, um Hochgebirgsholz talwärts zu transportieren, erreichte 1912 Erwanping und wandte sich erst später dem Personenverkehr und Tourismus zu. Der Taifun Morakot 2009 legte sie für 15 Jahre lahm. Heute verbindet diese 71,6 Kilometer lange Strecke wieder die Chiayi-Ebene, forstwirtschaftliche Siedlungen und den Hochgebirgswald. Wenn eine für die Walderschließung gebaute Bahn zum Kulturgut wird – was bewahren wir dann wirklich: die Schienen oder die gesamte Geschichte des Zusammenlebens von Mensch und Berg?[^1] [^2] [^3]
 
-![Zug der Alishan-Waldbahn](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alishan_Forest_Railway.jpg)
+![Alishan-Waldbahnzug](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alishan_Forest_Railway.jpg)
 
-_Abbildung: Alishan-Waldbahn. Fotograf Naplee12. CC BY-SA 3.0. Bildquelle und Lizenzinformationen auf [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg).[^9]_
+_Abb.: Alishan-Waldbahnzug. Autor Naplee12. CC BY-SA 3.0. Bildseite und Lizenzinformationen siehe [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg).[^9]_
 
-## Der Zug durchquert zuerst nicht die Landschaft, sondern einen Höhenunterschied
+## Was der Zug zuerst durchquert, ist keine Landschaft, sondern ein Höhenunterschied
 
-Im Dezember 1912 öffnete die Eisenbahnstrecke von Chiayi bis Erwuanping (Zhiwanping) offiziell. Der Startpunkt liegt auf etwa 30 Metern Meereshöhe, die Alishan-Station auf 2.216 Metern.[^1] [^2] Auf der Fahrt in die Berge durchquert der Zug erst Ackerland, dann Bambushaine, Teeplantagen und Wälder verschiedener Höhenstufen. Fahrgäste beobachten farbenfrohe Landschaftsveränderungen; Ingenieure stehen vor der Aufgabe, Gleise an steilen Hängen, Verwerfungen und Wassererosion zu bewältigen.
+Im Dezember 1912 wurde die Alishan-Bahn von Chiayi nach Erwanping offiziell fertiggestellt und eröffnet. Der Ausgangspunkt liegt auf etwa 30 Metern Höhe, der Bahnhof Alishan auf 2.216 Metern.[^1] [^2] Von der Ebene in Richtung Berg durchquert der Zug zunächst Felder, dann Bambuswälder, Teegärten und Wälder unterschiedlicher Höhenstufen. Die Passagiere sehen eine sich Schicht für Schicht wandelnde Szenerie; die Ingenieure sahen das Problem, wie die Gleise in Steilhängen, Verwerfungen und Regenwasser kontinuierlich bleiben können.
 
-Die Betriebslänge dieser Strecke beträgt etwa 71,6 Kilometer, mit Kulturlandschaftspotenzial über Chiayi Stadt, Landkreis Chiayi und Landkreis Nantou. Sie umfasst Eisenbahn, Siedlungen, Waldwirtschaftliche Ruinen und Naturraum.[^2] Es ist daher kein isoliertes Verkehrsmittel, sondern eine lange Kulturlandschaft, die Ebenenstadt, Bergsiedlungen und Ökosysteme verbindet.
+Die betriebliche Streckenlänge beträgt etwa 71,6 Kilometer; die Kulturlandschaft-Potenzialpunkte erstrecken sich über die Städte Chiayi, den Landkreis Chiayi und den Landkreis Nantou und umfassen Bahntrasse, Siedlungen, Forstverwaltungsrelikte und Naturumwelt.[^2] Sie ist daher kein isoliertes Verkehrsbauwerk, sondern eine langgestreckte Kulturlandschaft, die Ebenenstadt, Berghsiedlungen und Ökozonen aneinanderreiht.
 
-![Diesellok DL 36 der Alishan-Waldbahn hält in Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
+![DL 36 Diesellok der Alishan-Waldbahn am Bahnhof Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_Abbildung: Diesellok DL 36 hält in Beimen. Fotograf Industrial Wales. CC BY-SA 2.0. Bildquelle und Lizenzinformationen auf Wikimedia Commons.[^10]_
+_Abb.: DL 36 Diesellok am Bahnhof Beimen. Autor Industrial Wales. CC BY-SA 2.0. Bildseite und Lizenzinformationen siehe [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,%5FAlishan%5FForest%5FRailway%5F%27DL%5F36%27%5Fat%5FBeimen.jpg).[^10]_
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
+Daher hat die Alishan-Waldbahn eigentlich mehrere „Endpunkte“. Für Reisende ist es der Bahnhof Alishan. Für die frühe Forstwirtschaft war es der Moment, wenn das Holz in Chiayi Fabriken und Märkte erreichte. Für die Kulturlandschaft darf der Endpunkt nicht am Bahnsteig enden, sondern muss sich fortsetzen in der Frage, wie die Siedlungen entlang der Strecke weiterleben. Diese Mehrfach-Endpunkte machen eine Zugreise nicht nur zu einer Fahrt von unten nach oben, sondern zu einer Bewegung zwischen verschiedenen Epochen Taiwans.
 
-Deshalb hat die Alishan-Waldbahn eigentlich mehrere Endstationen. Für Touristen ist es die Alishan-Station. In der Frühzeit der Forstwirtschaft war es der Punkt, wo Holz Fabriken und Märkte von Chiayi erreichte. Für die Kulturlandschaft kann das Ende nicht nur am Bahnhof sein, sondern muss sich auf die Lebenswelt der Siedlungen ausdehnen. Diese mehrfachen Endpunkte machen eine Zugfahrt zu mehr als einer Reise von unten nach oben – sie wird zu einer Bewegung durch verschiedene Epochen Taiwans.
+Das Besondere der Alishan-Waldbahn liegt nicht nur im „Bergauf“. Sie vereint gleichzeitig die Eigenschaften einer Waldeisenbahn, einer Bergbahn und einer Hochgebirgsbahn, nutzt 762 Millimeter Schmalspur und hinterlässt entlang der Trasse aus dem Gelände geborene Linienführungen wie Kehrtunnel, Spitzkehren und große Kurven.[^2] Die Spirale am Dulishan lässt den Zug den Berg umkreisen, um Höhe zu gewinnen. Wo der Platz nicht reicht, ermöglicht eine Z-förmige Spitzkehre dem Zug, durch Vor- und Zurückfahren Höhe zu gewinnen.
 
-Das Besondere der Alishan-Waldbahn liegt nicht nur im „Berganstieg". Sie hat zugleich Merkmale einer Waldlinie, Bergbahn und Hochgebirgsbahn. Mit Spurweite von 762 Millimetern, verläuft sie in Spirallinien, Zahnradbahn-Zahnstangen-Hängen und großen Kurven, um das Gelände zu nutzen.[^2] Die Spirallinie bei Dulixanshan windet sich um den Berg. Wo der Raum fehlt, nutzen Z-förmige Spitzkehren einen vor-zurück-Mechanismus, um Höhe zu gewinnen.
+| Ort, den Sie passieren | Die historischen Spuren, die er hinterlässt                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| Bahnhof Beimen         | Holzbauender Bahnhof am Ebenenende, verbunden mit der Holzstadt-Struktur Chiayis.[^2]           |
+| Dulishan               | Spirallinie zur Bewältigung steilen Geländes, lässt den Zug Höhe gewinnen.[^2]                  |
+| Fenchihu               | Zwischenstation, wo Forstarbeit und Berghsiedlung aufeinandertreffen.[^2]                       |
+| Zhaoping, Zhushan      | Von der Forstbahn und Hochgebirgsbahn allmählich hin zu Tourismus und Sonnenaufgangsreisen.[^2] |
 
-| Der Ort deiner Durchfahrt | Seine historische Spur                                                                        |
-| ------------------------- | --------------------------------------------------------------------------------------------- |
-| Beimen-Bahnhof            | Hölzerne Station in der Ebene aus der Edo-Zeit, verbunden mit Chiayi's Holzhandelstextur.[^2] |
-| Dulixanshan               | Spirallinie für steile Topografie, ermöglicht Höhenerwerb des Zuges.[^2]                      |
-| Fenqihu                   | Waldarbeit und Bergsiedlung treffen sich an dieser Zwischenstation.[^2]                       |
-| Zhuoping, Zhushan         | Vom Waldwerk zur Hochgebirgsbahn, Wandel zu Tourismus und Sonnenaufgangsfahrten.[^2]          |
+Diese Tabelle ist kein Reiseplan, sondern eine Lesart der Bahn: Jeder Stationsname verweist gleichzeitig auf eine Geländform, ein Stück Industriegeschichte und eine Art, wie Menschen im Berg geblieben sind.
 
-Diese Tabelle ist kein Reiseplan, sondern eine Lesemethode: Jeder Stationsname zeigt zugleich Topografie, Wirtschaftsgeschichte und eine Weise, wie Menschen in Bergen verweilen.
+> 📝 **Kuratorennotiz:** Das Merkwürdigste an der Alishan-Bahn ist nicht, dass sie „schön“ ist, sondern dass sie den Höhenunterschied in eine sichtbare Ingenieurssprache übersetzt. Draußen wechseln die Waldgürtel, unter den Rädern beantwortet die Trasse dieselbe Frage: Der Berg weicht nicht für die Bahn, die Bahn muss lernen, Umwege zu gehen.
 
-> 📝 **Kurator's Note:** Das Wichtigste an der Alishan-Bahn ist nicht, dass sie „wunderschön" ist, sondern dass sie Höhendifferenzen in eine sichtbare Ingenieursprache übersetzt hat. Der Wald wechselt die Sicht, die Gleise unter den Rädern antworten auf die gleiche Frage: Der Berg macht der Bahn nicht Platz – die Bahn lernt zu umgehen.
+Die Langsamkeit des Zuges macht gerade diese Beziehung sichtbar. Er komprimiert die Berglandschaft nicht zu einem Foto von der Autobahn, sondern lässt Reisende verschiedene Waldtypen, Bahnhöfe und Tunnel durchfahren. Diese Geschwindigkeit bewahrt auch das Maßstäblichkeit der ursprünglichen Industriebahn. Das ist keine Romantisierung des Slow Travel, sondern die Anerkennung, dass in Bergregionen Sicherheit, Instandhaltung und Schauen Zeit brauchen.
 
-Der langsame Zug ermöglicht es, diese Beziehung zu beobachten. Er komprimiert Berglandschaften nicht zu einem Autobahnfoto, sondern lässt Fahrgäste unterschiedliche Waldbestände, Bahnhöfe und Tunnel durchqueren. Diese Geschwindigkeit bewahrt auch den ursprünglichen Maßstab der Industriebahn. Das ist nicht Verklärung von Langsamkeit, sondern Anerkennung, dass in Berggebieten Sicherheit, Reparatur und Beobachtung Zeit brauchen.
+## Ursprünglich war es eine Strecke, die Wald in Ware verwandelte
 
-## Sie war ursprünglich eine Linie, um Wald in Fracht zu verwandeln
+1903 begann das Regierungsgeneral von Taiwan mit der Planung der Erschließung des Alishan-Waldes. 1906 nahm die Firma Fujita-gumi die Bauarbeiten auf, wechselte später wegen finanzieller Probleme in staatliche Regie. 1912 wurde die Strecke Chiayi–Erwanping eröffnet, Gesamtlänge 66,6 Kilometer. Mit der Ausdehnung der Walderschließung wurde die Strecke später bis Alishan verlängert, sodass die Betriebsstrecke das heutige Maß von etwa 71,6 Kilometern erreichte.[^1]
 
-1903 begann die Generalgouvernement Taiwan mit der Planung der Alishan-Walderschließung. 1906 begannen Bauarbeiten unter Fujita; wegen Finanzierungsproblemen übernahm die Regierung. 1912 eröffnete die Linie von Chiayi bis Erwuanping mit 66,6 Kilometer. Mit fortlaufender Walderschließung erreichte die Strecke später Alishan, womit sich die Betriebslänge auf etwa 71,6 Kilometer erweiterte.[^1]
+Diese Geschichte darf nicht durch die vier Zeichen „Jahrhundertealte Bahn“ gewaschen werden. Die Alishan-Waldbahn wurde gebaut, um Holz zu transportieren. Nach der Verlängerung bis Zhaoping 1914 begann der Holzeinschlag in vollem Umfang. Von der japanischen Kolonialzeit bis zum Kriegsende 1945 betrieb das Alishan-Forstamt etwa 30 Jahre lang Holzeinschlag, wodurch die ursprünglichen Zypressenwälder großflächig abgeholzt wurden.[^2]
 
-Diese Geschichte lässt sich nicht mit „hundertjähriger Eisenbahn" beschönigen. Die Alishan-Waldbahn wurde gebaut, um Holz zu transportieren. Nach der Verlängerung bis Zhuoping 1914 begannen offizielle Holzschlagsoperationen. Von der japanischen Kolonialzeit bis Kriegsende 1945 dauerte die Waldarbeit in Alishan etwa 30 Jahre, während massive Mengen der ursprünglichen Zypressenbestände gefällt wurden.[^2]
+![Blick vom Waggon der Alishan-Waldbahn auf den Bahnsteig des Bahnhofs Beimen](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
 
-![Aussicht auf Beimen-Bahnhof aus einem Zug der Alishan-Waldbahn](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
+_Abb.: Blick vom Waggon der Alishan-Waldbahn auf den Bahnsteig des Bahnhofs Beimen. Autor Malcolm Koo. CC BY-SA 4.0. Bildseite und Lizenzinformationen siehe [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>).[^11]\_
 
-_Abbildung: Aussicht auf Beimen-Bahnhof vom Zug der Alishan-Waldbahn. Fotograf Malcolm Koo. CC BY-SA 4.0. Bildquelle und Lizenzinformationen auf [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>).[^11]\_
+Die von der Bahn bewirkten Veränderungen beschränkten sich nicht auf den Berg. Sägewerke, Holzhandel und -verarbeitung, Mitarbeiterwohnungen, Geschäfte und Schulen sammelten sich entlang des Transportsystems; Chiayi formte allmählich eine von der Holzindustrie geprägte Stadtstruktur, die als „Holz-Hauptstadt“ bezeichnet wurde.[^2] Eine Industrielinie tat damit zwei Dinge gleichzeitig: Sie brachte Waldressourcen aus dem Berg und brachte städtisches Leben in den Berg.
 
-Die Veränderungen, die die Eisenbahn brachte, beschränkten sich nicht auf die Berge. Sägereien, Holzgroßhandel, Verarbeitung, Arbeiterwohnungen, Läden und Schulen sammelten sich um das Transportsystem, und Chiayi entwickelte sich zu einer Waldhandelstadt – „Holzmetropole". Eine Produktionslinie tat daher zwei Dinge zugleich: Sie transportierte Waldressourcen aus den Bergen herab und brachte Stadtkultur in die Berge.
+Das ist der erste Kontrast der Alishan-Waldbahn. Heute wird sie als langsames Reisen nah am Wald wahrgenommen, doch ihre ursprüngliche Aufgabe war es, den Wald effizienter nutzbar zu machen. Wenn man sie nur als romantischen Bergzug beschreibt, verpasst man die taiwanesische Geschichte, die diese Bahn wirklich trägt: Modernisierung, Forstwirtschaft, Städtewachstum und der Prozess, in dem natürliche Ressourcen neu berechnet wurden.
 
-Das ist das erste Paradoxon der Alishan-Waldbahn. Sie wird heute als langsames Reisen zur Walderkundung gesehen, aber ihre ursprüngliche Aufgabe war, Waldressourcen effizienter zu nutzen. Wer sie nur als romantische Gebirgsbahn beschreibt, übersieht die echte taiwanesische Geschichte, die sie trägt: Modernisierung, Forstwirtschaft, Stadtwachstum und die Umrechnung natürlicher Ressourcen.
+Die akademische Forschung diskutiert die Alishan-Waldbahn an der Schnittstelle von „Erhalt von Eisenbahnkulturgütern“ und „Kulturem Tourismus“, nicht als einzelnen Aussichtspunkt.[^7] Dieser Winkel ist wichtig, weil er zeigt, dass Erhaltungsarbeit zwei Zeitlichkeiten gleichzeitig gegenübersteht: Eine ist das materielle Alter von Bahn, Bahnhöfen und Lokomotiven. Die andere ist das soziale Alter von Industrieverfall, Tourismusaufschwung und Wandel des lokalen Lebens. Wenn man nur das Erstere restauriert, verschwindet das Letztere aus der Erzählung.
 
-Akademische Forschung diskutiert die Alishan-Waldbahn an der Kreuzung von „Eisenbahn-Kulturerbe-Schutz" und „Kulturtourismus", nicht als einzelne Sehenswürdigkeit.[^7] Das ist wichtig, denn es zeigt, dass Bewahrungsarbeit zwei zeitliche Ebenen bewältigt: Die materielle Zeitlinie der Eisenbahn, Bahnhöfe und Lokomotiven. Eine andere ist die Zeitlinie der Industrieniedergänge, Tourismusentwicklung und gesellschaftliche Veränderungen in lokalen Leben. Repariert man nur Erstere, verschwindet letztere aus der Geschichte.
+## Von der Holzeinschlagslinie zur Kulturlandschaft – Transformation heißt nicht, die Vergangenheit zu löschen
 
-## Von der Holzlinie zur Kulturlandschaft: Umwandlung bedeutet nicht, die Vergangenheit zu löschen
+Nach dem Rückzug der Holzwirtschaft verschwand die Bahn nicht mit. Ihre Funktion wandelte sich allmählich zu Personenverkehr, Tourismus und kultureller Bildung; Bahnhöfe, Siedlungen, Tunnel, Brücken und Forstrelikte wandelten sich von Produktionsanlagen zu erhaltenen, gedeuteten und genutzten Geschichtsorten. Die Forst- und Naturschutzbehörde fasst diesen Wandel als Transformation der Siedlungsstruktur und der Mensch-Land-Interaktion von der Holzwirtschaft zum Tourismus zusammen.[^1]
 
-Nach Ende der Forstwirtschaft verschwand die Eisenbahn nicht. Ihre Funktion wechselte zu Personenverkehr, Tourismus und Kulturbildung. Bahnhöfe, Siedlungen, Tunnel, Brücken und Waldwirtschaftliche Überreste wandelten sich von Produktionseinrichtungen zu bewachten, interpretierten und genutzten historischen Orten. Die Forstbehörde fasst diese Transformation als Übergang von Waldwirtschaft zu Tourismus mit den dazugehörigen Siedlungsmustern und Mensch-Natur-Beziehungen zusammen.[^1]
+Der Bahnhof Beimen ist ein guter Einstieg in diesen Wandel. Er entstand etwa zwischen 1910 und 1912, ist ein japanischer Holzbau aus Alishan-Rotzypresse und der erste Raum am Ebenenende, um die Waldbahn zu verstehen.[^2] Reisende, die vom Stadtzentrum Chiayi in den Bahnhof Beimen eintreten, sehen keine Berggipfellandschaft, sondern wie Holz in der Stadt empfangen, verarbeitet und verteilt wurde. Hier werden „Wald“ und „Stadt“ auf zwei Seiten desselben Bahnsteigs nebeneinander gestellt.
 
-Beimen-Bahnhof ist ein ausgezeichneter Einstiegspunkt zu dieser Umwandlung. Er entstand etwa zwischen 1910 und 1912 als hölzerner Bahnhof im japanischen Stil, gebaut aus taiwanischem Zypressenholz, und ist der erste Ort, um die Waldbahn von der Ebene aus zu verstehen.[^2] Wenn Fahrgäste von Chiayi Stadtgebiet in den Beimen-Bahnhof kommen, sehen sie nicht die Berglandschaft oben, sondern wie Holz in der Stadt empfangen, verarbeitet und verteilt wird. Hier stehen „Wald" und „Stadt" auf denselben Bahnsteigseiten.
+2018 gründete die Regierung das „Büro für Alishan-Waldbahn und Kulturgüter“, um Forschung, Bildung und Kulturgutmanagement gebündelt voranzutreiben. 2019 wurde „Alishan-Waldbahn und -Eisenbahn“ als erste nationale bedeutende Kulturlandschaft Taiwans registriert, ihr Wert gegliedert in fünf Dimensionen: natürliche Ökologie, Forstentwicklung, Bahntechnik, Siedlungsleben und menschliche Erinnerung.[^1]
 
-2018 gründete die Regierung das Alishan Forest Railway and Cultural Heritage Management Office zur gesammelteren Förderung von Forschung, Bildung und Kulturgutschutz. 2019 wurde die „Alishan-Waldbahn-Kulturlandschaft" als erste nationale Kulturlandschaft Taiwans eingetragen. Der Wert wurde in fünf Dimensionen zusammengefasst: Naturökosystem, Waldentwicklung, Eisenbahntechnik, Siedlungsleben und humanistische Erinnerung.[^1]
+Die Bedeutung dieser Registrierung liegt darin, dass sie nicht nur einen Bahnhof oder ein Gleisstück schützt. Gegenstand der Kulturlandschaft ist die Bahn mit ihrer umgebenden Arbeit, Wohnen, Transport und Naturumwelt. Anders gesagt: Erhalten heißt nicht, einen alten Waggon in eine Glassperre zu sperren, sondern ein einst funktionierendes Beziehungsgefüge weiterhin verständlich zu machen.
 
-Der Bedeutung dieser Eintragung liegt darin, dass sie nicht nur eine Station oder ein Gleisstück schützt. Das Objekt der Kulturlandschaft ist die Eisenbahn und ihre Umgebung von Arbeit, Wohnung, Verkehr und Naturraum. Mit anderen Worten: Schutz bedeutet nicht, einen alten Eisenbahnwagen hinter Glas einzusperren, sondern ein ehemals funktionierendes Beziehungssystem weiterhin verständlich zu halten.
+Alishan gelangte dadurch auch in die Diskussion um Weltkulturerbe-Potenzialpunkte. Offizielle Unterlagen beschreiben ein Areal von 32.900 Hektar, das Bahnumgebungssiedlungen und Ökoumwelt umfasst, entlang der Strecke von Chiayi, Beimen, Zhuqi, Zhangnaoliao, Fenchihu bis Zhaoping.[^2] Dieser Maßstab erinnert daran, dass Alishan kein „Sehenswürdigkeitspunkt“ ist, sondern ein System, das Stadt, Bergregion und Industriegedächtnis übergreift.
 
-Alishan trat danach in Diskussionen über Weltkulturerbe-Potenzial ein. Offizielle Unterlagen beschreiben ein Gebiet von 32.900 Hektar mit Eisenbahnsiedlungen und Ökosystem, von Chiayi, Beimen, Zhuqi, Zhangnaoliao bis Fenqihu und Zhuoping.[^2] Dies Scale erinnert uns: Alishan ist nicht eine einzelne „Sehenswürdigkeit", sondern ein System, das Stadt, Berggebiet und Wirtschaftserinnerung übergreift.
+> 📝 **Kuratorennotiz:** Das Schwierigste am Kulturguterhalt sind oft nicht Holz und Stahlschienen, sondern wie sie einst von Menschen genutzt wurden. Wenn von der Alishan-Waldbahn nur schöne Bahnhöfe bleiben, bleibt nur die Hülle. Was wirklich erhalten werden muss, ist, wie eine Strecke das Schicksal von Chiayi, Bergdörfern und Wald verändert hat.
 
-> 📝 **Kurator's Note:** Das Schwierigste an Kulturerbe-Schutz ist oft nicht Holz oder Stahl, sondern wie sie von Menschen benutzt wurden. Wenn die Alishan-Waldbahn nur schöne Bahnhöfe hat, bleibt nur eine Schale. Ihr echter Schutz ist, wie eine Eisenbahn das Schicksal von Chiayi, Bergsiedlungen und Wald verändert hat.
+## 2009: Der Berg legte die Brüchigkeit der Bahn bloß
 
-## 2009: Der Berg enthüllte die Verletzlichkeit der Eisenbahn auf einmal
+Nach dem Taifun Morakot 2009 traten entlang der Alishan-Waldbahn an 421 Stellen Murgänge, Straßenabbrüche und Brückenunterbrechungen auf. Offizielle Rückblicke halten fest, dass die Bahn daraufhin 15 Jahre stillstand. Chiayi–Fenchihu wurde 2014 zuerst wieder in Betrieb genommen; Taifun Dujuan 2015 verzögerte die Wiederherstellung der verbleibenden Abschnitte erneut.[^3] [^4]
 
-Nach dem Taifun Morakot 2009 zeigte sich die Alishan-Waldbahn von 421 Beschädigungen: Erdrutsche, Wegzerstörungen und unterbrochene Brücken. Behördenangaben zeigen, dass der Betrieb 15 Jahre lang zum Erliegen kam. Von Chiayi bis Fenqihu erhielt die Strecke 2014 wieder Betrieb, der Taifun Dujuan 2015 verzögerte danach die Reparaturen der übrigen Strecken.[^3] [^4]
+Das war kein „Reparieren und zurück zum Originalzustand“-Projekt. Das Bahnbett im Berg wird vom Wasser mitgerissen, Tunnel treffen auf Steinschlag, die ursprüngliche Trasse liegt möglicherweise in geologischen Verhältnissen, die nicht mehr für Zugverkehr geeignet sind. Interviews der Nationalen Yang-Ming-Chiao-Tung-Universität berichten, dass das Wiederherstellungsteam zwischen Pingzhena und Erwanping einen neuen Tunnel prüfte und zwischen Shizilu und Pingzhena den Einsturz von Tunnel 42 bearbeitete.[^5]
 
-Dies war nicht eine Reparatur, die „wie früher" endete. Bergwasser spült Fahrbahn weg, Tunnel treffen auf Steinschlag, die alte Route liegt möglicherweise in geologischen Bedingungen, die keinen Zugverkehr mehr erlauben. Interviews der National Yang Ming Chiao Tung University zeigten, dass das Reparaturteam neue Tunnel zwischen Biluo und Erwuanping plante und den Einsturz des Tunnels 42 zwischen Crossroad und Biluo reparierte.[^5]
+2021 baute die Verwaltung zwischen Shizilu und Zhaoping einen rund 1,1 Kilometer langen neuen Tunnel, Baukosten ca. 420 Millionen NT$. Der Bau war gleichzeitig von Grundwasserzufluss, Steinschlag, Personalmangel und Sprengstofflieferengpässen betroffen.[^4] Diese Zahlen sind nicht nur Bauskala; sie zeigen, dass „Vollbetrieb“ nicht bedeutet, alte Schienen wieder anzuschweißen, sondern neu zu beurteilen, wo Erhalt möglich ist und wo Trassenverlegung unumgänglich ist.
 
-2021 baute die Verwaltung zwischen Crossroad und Zhuoping einen neuen Tunnel von etwa 1,1 Kilometer. Die Baukosten betrugen etwa 420 Millionen NT$. Der Bau wurde durch Grundwasser, Steinfall, Personalknappheit und Sprengstoffversorgung gehindert.[^4] Diese Zahlen sind nicht nur Bauskala, sondern zeigen: „Durchgehend fahren" bedeutet nicht alte Gleise wiederzuverbinden, sondern neu zu entscheiden, wo man erhält und wo man umgeht.
+Am 6. Juli 2024 wurde der Vollbetrieb Chiayi–Alishan wiederaufgenommen.[^3] Ein englischer Reiseartikel des Landwirtschaftsministeriums beschreibt die Hauptstrecke als 71,6 Kilometer von Chiayi-Bahnhof (ca. 30 m) zum Alishan-Bahnhof (2.216 m). Die Wiederaufnahme ist daher nicht nur Tourismusnachricht, sondern bedeutet, dass ein langfristig durch Katastrophen unterbrochener öffentlicher Bergverkehr wieder verbunden ist.[^6]
 
-7. Juli 2024: Die Strecke von Chiayi bis Alishan eröffnete wieder in voller Länge.[^3] Das Landwirtschaftsministerium beschreibt die Hauptlinie als 71,6 Kilometer von Chiayi-Station (etwa 30 Meter Meereshöhe) bis Alishan-Station (2.216 Meter). Die Vollstreckenöffnung ist daher nicht nur Tourismusnachricht, sondern bedeutet, dass eine 15 Jahre unterbrochene Bergverkehrsader wiederhergestellt wurde.[^6]
+Dieses Wiederinbetriebnahmedatum verändert auch die Bedeutung von „Alishan-Bähnchen“. Ein englischsprachiger Bildbericht der _New York Times_ setzt diese Reise an den Schnittpunkt von taiwanesischem Kulturgut und internationalen Reisenden.[^8] Was ihr aber wirklich Substanz verleiht, ist nicht, ob sie eine hübsche Postkarte abgibt, sondern ob Reisende erfahren können, warum diese Strecke einst unterbrochen war, wer sie wiederaufbaute und was sie nach der Wiederherstellung zu tragen hat.
 
-Das Eröffnungsdatum veränderte auch die Bedeutung des Wortes „Alishan-Kleinbahn". The New York Times setzte diese Fahrt als Schnittpunkt von Taiwans Kulturerbe und internationalen Touristen. Aber seine echte Substanz liegt nicht darin, ob es schöne Postkarten wird, sondern ob Fahrgäste verstehen, warum die Linie unterbrochen wurde, wer sie reparierte, und was die Wiederöffnung verlangt.[^8]
+## Das Ziel der Wiederherstellung ist nicht die Inbetriebnahme, sondern der nächste Regen
 
-## Das Ende der Reparatur ist nicht die Wiederöffnung, sondern der nächste Regen
+Nach der Wiederaufnahme 2024 beschränkt sich die Sicherheitsarbeit der Waldbahn nicht mehr auf Personalpatrouillen. In die Wiederherstellung wurden Gleis- und Böschungs-Anomalie-Erkennungssysteme integriert. Zwischen Tunnel 29 und 30 kann das System bei Steinschlag oder umgestürzten Bäumen auf dem Gleis Warnungen ausgeben, damit Bahnpersonal den Triebfahrzeugführer verständigt.[^4]
 
-Nach der Wiederaufnahme 2024 ist die Sicherheitsarbeit nicht nur menschliche Kontrolle. Die Reparaturarbeiten integrierten ein Gleisanomalien- und Böschungsüberwachungssystem. Zwischen den Tunneln 29 und 30 kann das System vor Steinschlag oder Bäumen auf den Gleisen warnen und die Station benachrichtigen, um den Fahrer zu informieren.[^4]
+Interviews der Nationalen Yang-Ming-Chiao-Tung-Universität dokumentieren auch die Betonung langfristiger Überwachung durch das Wiederherstellungsteam, einschließlich LiDAR-Erfassung von Geländeveränderungen zur Früherkennung potenzieller Risiken. Das Interview erwähnt, dass die Waldbahn nach Taifun Kemi 2024 kurzzeitig für Murgang- und Sturzbäume-Räumung stillstand und danach den Betrieb wieder aufnahm.[^5] Für Bergbahnen bedeutet „Wiederherstellung“ nicht, dass es nie wieder Unterbrechungen gibt, sondern dass man nach jeder Unterbrechung schneller und sicherer entscheiden kann, wie der nächste Schritt aussieht.
 
-Interviews der National Yang Ming Chiao Tung University dokumentierten auch die Bedeutung der Dauerüberwachung für das Reparaturteam. Dies umfasst Lidar-Einsatz zur Erfassung von Topografieänderungen und Frühwarnung von Risiken. Das Interview zeigt, dass die Waldbahn nach dem Taifun Kaimi 2024 vorübergehend still stand, um Erdrutsche und umgestürzte Bäume zu räumen, dann aber wieder Betrieb aufnahm.[^5] Für Bergbahnen bedeutet „Wiederaufnahme" nicht „nie mehr Unterbrechung", sondern „schneller und sicherer wissen, was als Nächstes zu tun ist".
+In der offiziellen Jubiläumsrückschau 2025 wird der Wiederherstellungsinhalt in Gleis, Straße, Fahrzeugwesen, Digitalisierung der Streckensignalisierung und Bahnhofsbau gegliedert.[^3] Diese Liste wirkt technisch, erklärt aber genau, warum Kulturerhalt nicht nur mit Nostalgie geht: Eine alte Bahn weiterleben zu lassen, erfordert gleichzeitig historische Glaubwürdigkeit, moderne Sicherheitsstandards und eine Institution, die dauerhafte Instandhaltung leisten kann.
 
-2025 fasste die Behörde die Reparaturinhalte in Gleisbau, Straßen, Lokomotiven, digitalisierte Kommunikation und Stationsausstattung zusammen.[^3] Diese Liste wirkt technisch, aber sagt gerade aus, dass Kulturschutz nicht auf Nostalgie beruht: Alte Eisenbahn, um weiterhin lebendig zu sein, muss gleichzeitig historische Glaubwürdigkeit, moderne Sicherheitsstandards und unterhaltbare Institutionen haben.
+Wenn die Bahn wieder zur Reiseroute wird, entstehen neue Drucke. Offizielle Weltkulturerbe-Potenzialpunkt-Unterlagen wiesen bereits darauf hin, dass Alishan anthropogenen Einflüssen durch Reisende und Fahrzeuge ausgesetzt ist, Katastrophenwiederaufbau und Umwelterhalt langfristig betrieben werden müssen.[^2] Tourismus kann mehr Menschen das Verständnis der Kulturlandschaft ermöglichen, aber auch mehr Verkehr, Müll, Lärm und Instandhaltungslast in die Bergregion bringen. „Alishan der Welt zeigen“ und „Alishan nicht verbrauchen“ müssen gleichzeitig gelten.
 
-Als die Eisenbahn wieder Touristenlinie wurde, entstanden neue Belastungen. Offizielle Welterbe-Potenzial-Daten wiesen bereits hin: Alishan trägt Druck von Touristen und Fahrzeugen, Katastrophenwiederherstellung und Umweltschutz erfordern Dauerbewirtschaftung.[^2] Tourismus kann mehr Menschen zum Verständnis der Kulturlandschaft führen, oder es kann die Berge mit Verkehr, Müll, Lärm und Instandhaltungsbelastung überlasten. „Die Welt soll Alishan sehen" und „Alishan nicht auslaugen" müssen gleichzeitig gelten.
+## Die Fragen, die eine Bahn hinterlässt
 
-## Die Fragen, die eine Eisenbahn hinterlässt
+Das Bewegendste an der Alishan-Waldbahn ist nicht, dass sie den Berg schließlich besiegt hat. Sie hat den Berg nie besiegt: Der Bau 1906 musste dem Gelände ausweichen, der Starkregen 2009 konnte das Bahnbett wegspülen, der Einsturz 2015 konnte die fast fertige Wiederinbetriebnahme erneut verzögern, jeder Taifun nach 2024 wird sie neu testen.[^3] [^4] [^5]
 
-Das Bewegendste der Alishan-Waldbahn ist nicht, dass sie den Berg endlich besiegt hat. Sie hat den Berg nie besiegt: 1906 musste das Ingenieurwesen um Bergformen gehen, 2009 konnte Starkregen Fahrbahn hinwegspülen, 2015 konnte Einsturz den fast fertigen Betrieb verschieben, und nach 2024 testet jeder Taifun sie erneut.[^3] [^4] [^5]
+Was sie wirklich geleistet hat, ist, menschliche Ingenieurskunst allmählich die Bedingungen des Berges anerkennen zu lassen. Die frühe Bahn behandelte den Wald als abtransportierbare Ressource; die spätere Kulturlandschaft zwingt uns, Bahn, Siedlungen, Ökologie und Katastrophe auf dieselbe Karte zu legen. Das ist nicht, die frühere Holzeinschlagsgeschichte in eine Umweltschutzgeschichte umzuschreiben, sondern anzuerkennen, dass Taiwan einst über diese Strecke den Berg erschloss und nun mit neuen Governance-Weisen den Folgen jener Erschließung begegnen muss.
 
-Was sie wirklich schafft, ist, die menschliche Technik lernen zu lassen, Bergbedingungen anzuerkennen. Frühe Eisenbahn sah Wald als exportierbare Ressource; später zwingt die Kulturlandschaft uns, Eisenbahn, Siedlung, Ökosystem und Katastrophe auf die gleiche Karte zu zeichnen. Das ist nicht, die Holzschlag-Geschichte in eine Umweltschutzgeschichte umzuschreiben, sondern zuzugeben, dass Taiwan Bergwald mit dieser Linie entwickelt hat, und mit neuer Regierungsweise die Folgen dieses Wandels bewältigen muss.
+Also: Wenn man die Alishan-Waldbahn besteigt, kann man zwei Richtungen im Kopf behalten. Der Zug fährt bergauf und zeigt den Wechsel von Tropenwald, warmgemäßigem Wald und Hochgebirgswald. Die Geschichte geht zurück und zeigt, wie Holz, Arbeiter, Stadt, traditionelle Gebiete der Tsou, Windkatastrophen und Wiederaufbauprojekte auf derselben Strecke übereinanderliegen.[^2]
 
-Deshalb kann man beim Fahren mit der Alishan-Waldbahn zwei Richtungen merken. Der Zug fährt bergauf und zeigt dir tropische, warmklimatische und alpische Waldveränderung. Geschichte fährt zurück und zeigt, wie Holz, Arbeiter, Stadt, Ureinwohner-Lebensraum, Katastrophe und Reparaturwerk sich auf der gleichen Strecke schichten.[^2]
+Man kann noch eine dritte Richtung hinzufügen: seitwärts schauen. Die Geschichte von Alishan liegt nicht nur auf der Hauptlinie, in der der Waggon vorwärtsfährt, sondern auch in den erhaltenen Nebenstrecken, in den zu Wanderwegen umgewandelten alten Trassen, in den Läden der Siedlungen, in den Wäldern um die Bahnhöfe und in den Räumen, in denen die Tsou seit langer Zeit leben. Offizielle englische Unterlagen führen das Beispiel der alten Shuishan-Linien-Trasse an, die zum Wanderweg wurde – ein Beleg dafür, dass Stillstand nicht Verschwinden bedeutet. Eine Linie kann die Art wechseln, weiter genutzt zu werden.[^6]
 
-Man kann sich auch noch eine dritte Richtung merken: seitlich schauen. Alishan erzählt sich nicht nur auf der Zugfahrt, sondern auch in erhaltenen Nebenlinien, alten Wegen, die zu Pfaden umgewandelt wurden, Geschäften in Siedlungen, Bergen um Stationen und in Räumen der Tsou, die dort lange lebten. Offizielle englische Daten zeigen, wie alte Zufahrtslinien zu Pfaden wurden – Stilllegung bedeutet nicht Verschwindung. Eine Linie kann sich in eine andere Nutzungsform verwandeln.[^6]
+Die Alishan-Waldbahn hat Taiwan nicht aus der Natur herausgeführt. Sie ist eher eine lange Erinnerung: Wir sind einst mit Schienen in den Wald eingedrungen, und nur wenn wir gelernt haben, das Tempo, die Steigung und die Ungewissheit des Waldes zu respektieren, können wir dort vielleicht bleiben.
 
-Die Alishan-Waldbahn hat Taiwan nicht weg von der Natur geführt. Sie ist eher eine lange Erinnerung: Wir sind mit Eisenbahngleisen in die Wälder eingedrungen. Nur indem wir lernten, die Geschwindigkeit, die Neigung und die Ungewissheit des Waldes zu respektieren, könnten wir dort bleiben.
+## Weiterführende Links
 
-## Weiterführende Ressourcen
-
-- [Alishan Forest Railway and Cultural Heritage Management Office](https://afrch.forest.gov.tw/)
-- [Taiwan World Heritage Potential Sites: Alishan Forest Railway and Cultural Landscape](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw)
+- [Büro für Alishan-Waldbahn und Kulturgüter](https://afrch.forest.gov.tw/)
+- [Taiwan Weltkulturerbe-Potenzialpunkt: Alishan-Waldbahn und -Eisenbahn Kulturlandschaft](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw)
 - [Taiwan Agriculture Tourism: Forest Railway Journey](https://ezgo.ardswc.gov.tw/en/column/4886/)
 
-## Referenzen
+## Quellen
 
-[^1]: [Alishan Forest Railway and Cultural Heritage Management Office: Branch Introduction](https://www.forest.gov.tw/afrch_intro) — Offizielle Einführung der Waldschutz- und Naturschutzabteilung zu Konstruktionsgeschichte, Streckenlänge, Verwaltungsstruktur und Hintergrund der 2019 wichtigen Kulturlandschafts-Eintragung.
+[^1]: [Büro für Alishan-Waldbahn und Kulturgüter: Abteilungsvorstellung](https://www.forest.gov.tw/afrch_intro) — Offizielle Vorstellung der Forst- und Naturschutzbehörde zu Baugeschichte, Streckenlänge, Verwaltungsorgan und Hintergründe der Registrierung als bedeutende Kulturlandschaft 2019.
 
-[^2]: [Taiwan World Heritage Potential Sites: Alishan Forest Railway and Cultural Landscape](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw) — Welterbepotenzial-Seite der Kulturerbebehörde, erklärt Landschaftsbereich, historische Entwicklung, Ingenieurmerkmale, Ökosystem sowie Tourismus- und Schutzherausforderungen.
+[^2]: [Taiwan Weltkulturerbe-Potenzialpunkt: Alishan-Waldbahn und -Eisenbahn Kulturlandschaft](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw) — Spezialseite des Kulturgüteramts zum Weltkulturerbe-Potenzialpunkt, erläutert Landschaftsumfang, historische Entwicklung, technische Merkmale, Ökoumwelt sowie Tourismus- und Erhaltsherausforderungen.
 
-[^3]: [Alishan Forest Railway and Cultural Heritage Management Office: Pathbreaking Railroad, Regeneration After Crisis](https://afrch.forest.gov.tw/AllNews/0075222) — Offizielle Behördennachricht zum einjährigen Jubiläum 2025, dokumentiert 421 Katastrophenschäden, 15-jährige Unterbrechung, 2024 Vollstreckenöffnung und nachfolgende Sicherheits- und Kulturschutzarbeit.
+[^3]: [Büro für Alishan-Waldbahn und Kulturgüter: Mühsamer Weg der Waldbahn – Wiedergeburt und Feier der Wiedergeburt](https://afrch.forest.gov.tw/AllNews/0075222) — Offizieller Artikel der Waldbahnverwaltung zum Jubiläum der Wiederinbetriebnahme 2025, dokumentiert 421 Schadensstellen, 15 Jahre Unterbrechung, Vollbetrieb 2024 sowie anschließende Sicherheits- und Kulturerhaltungsarbeiten.
 
-[^4]: [Taipei Times: Alishan Forest Railway resumes full operations](https://www.taipeitimes.com/News/taiwan/archives/2024/07/07/2003820458) — Englischsprachige Nachricht basierend auf Vor-Ort- und Behördendaten, berichtet Vollstreckenöffnung, neue Tunnel, Reparaturkosten, Baubeschränkungen und Gleisüberwachungssystem.
+[^4]: [Taipei Times: Alishan Forest Railway resumes full operations](https://www.taipeitimes.com/News/taiwan/archives/2024/07/07/2003820458) — Englischer Nachrichtenartikel, basiert auf Vor-Ort- und Verwaltungsdaten, berichtet über Vollbetrieb, neuen Tunnel, Wiederherstellungskosten, Bauhindernisse und Gleisanomalie-Erkennungssystem.
 
-[^5]: [National Yang Ming Chiao Tung University: Protecting Centennial Railways](https://www.nycu.edu.tw/nycu/ch/app/data/view?module=nycu0141&id=21171&serno=ca792a51-8188-4ebb-9253-6a8bfba8f943) — Interview im Universitätsmagazin mit Prof. Liao Zhizhong über Details von 2009 Katastrophenschäden, Tunnelreparaturen, Ingenieurkontrolle, Talentförderung und Langzeitüberwachung von Topografieveränderungen.
+[^5]: [Nationale Yang-Ming-Chiao-Tung-Universität: Hüter der jahrhundertealten Bahn](https://www.nycu.edu.tw/nycu/ch/app/data/view?module=nycu0141&id=21171&serno=ca792a51-8188-4ebb-9253-6a8bfba8f943) — Universitätsmagazin-Interview mit Prof. Liao Chih-chung, liefert Details zu 2009-Schäden, Tunnelwiederherstellung, Ingenieurprüfung, Talentförderung und langfristiger Geländemonitoring.
 
-[^6]: [Taiwan Agriculture Tourism: Forest Railway Journey](https://ezgo.ardswc.gov.tw/en/column/4886/) — Englischsprachiger Artikel des Landwirtschaftsministeriums, verifiziert 2024 Vollstreckenöffnung, Route von Chiayi bis Alishan 71,6 Kilometer und Umwandlung zu langsamer Reise sowie Waldbildung in der Gegenwart.
+[^6]: [Taiwan Agriculture Tourism: Forest Railway Journey](https://ezgo.ardswc.gov.tw/en/column/4886/) — Englischer Fachartikel der Rural Development and Soil and Water Conservation Agency des Landwirtschaftsministeriums, bestätigt Vollbetrieb 2024, 71,6 km Chiayi–Alishan und aktuellen Stand der Transformation zu Slow Travel und Walderziehung.
 
-[^7]: [National Central Library: Research on Railway Cultural Heritage Preservation and Cultural Tourism — The Case of Alishan Forest Railway](https://ndltd.ncl.edu.tw/r/7pv9k6) — Taiwanesische Dissertation und Diplomarbeit Indexseite in der Nationalbibliothek, bietet akademische Quellen zu Alishan-Waldbahn Kulturgutschutz, Tourismusumwandlung und Welterbepotenzial-Kontext.
+[^7]: [Nationale Zentralbibliothek: Forschung zum Erhalt von Eisenbahnkulturgütern und Kulturellem Tourismus – am Beispiel der Alishan-Waldbahn](https://ndltd.ncl.edu.tw/r/7pv9k6) — Forschungsseite des Taiwanischen Dissertationssystems der Nationalen Zentralbibliothek, bietet akademischen Index zu Kulturguterhalt, Tourismuswandel und Weltkulturerbe-Potenzialpunkt-Kontext der Alishan-Waldbahn.
 
-[^8]: [The New York Times: A Train Ride Deep Into a Forest, and Into the Past](https://www.nytimes.com/card/2024/10/29/world/asia/taiwan-alishan-train-photos) — Englischsprachige Fotoreportage der New York Times 2024, dokumentiert Fahrgasterlebnis nach Vollöffnung, Waldgeschichte, Zypressentransport und zeitgenössische Erinnerung der Alishan-Bahn.
+[^8]: [The New York Times: A Train Ride Deep Into a Forest, and Into the Past](https://www.nytimes.com/card/2024/10/29/world/asia/taiwan-alishan-train-photos) — _New York Times_ 2024 englischer Bildbericht, dokumentiert Reiseerlebnis nach Vollbetrieb, Forstgeschichte, Zypressentransport und zeitgenössisches Gedächtnis der Alishan-Bahn.
 
-[^9]: [Wikimedia Commons: File:Alishan Forest Railway.jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg) — Fotograf Naplee12, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0, Bild per Originalquelle-Hotlink eingebettet, nicht heruntergeladen oder re-gehostet.
+[^9]: [Wikimedia Commons: File:Alishan Forest Railway.jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg) — Autor Naplee12, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0, Bild per Originaldatei-Hotlink eingebettet, nicht heruntergeladen oder neu gehostet.
 
-[^10]: [Wikimedia Commons: File:Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — Fotograf Industrial Wales, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 2.0, Bild per Originalquelle-Hotlink eingebettet, nicht heruntergeladen oder re-gehostet.
+[^10]: [Wikimedia Commons: File:Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — Autor Industrial Wales, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 2.0, Bild per Originaldatei-Hotlink eingebettet, nicht heruntergeladen oder neu gehostet.
 
-[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — Fotograf Malcolm Koo, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0, Bild per Originalquelle-Hotlink eingebettet, nicht heruntergeladen oder re-gehostet.
+[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — Autor Malcolm Koo, Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0, Bild per Originaldatei-Hotlink eingebettet, nicht heruntergeladen oder neu gehostet.

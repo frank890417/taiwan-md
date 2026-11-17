@@ -19,16 +19,18 @@ featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-09-12T12:53:10+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T14:09:07.307710+00:00'
 ---
 
-Halbe vier Uhr morgens ist noch kein Licht an in Guohua-Straße. Einige Menschen gehen vom Tainan-Hauptbahnhof, ihr Telefonbildschirm leuchtet sie an, sie gehen zu einem der sechs Rinderbrühe-Stände, dessen Schilder noch im Dunkeln bleiben. Sie sind nicht die ersten: Vor dem Geschäft steht schon jemand in der Schlange. Das Rind, das im Schlachthof von Shuanghua-Beef-Markt stammt, wird am Vorabend geschlachtet, die Kühllaster fahren am Morgen vor Sonnenaufgang an, der erste Topf beginnt um fünf Uhr zu kochen. Die frühen Kommen wissen etwas: **Die Süße des ersten Topfes ist anders als am Abend.**
+Um halb vier Uhr morgens ist es in der Guohua-Straße noch dunkel. Ein paar Leute kommen vom Bahnhof Tainan herüber; die Bildschirme ihrer Handys erhellen den Weg, während sie auf das Restaurant Liuqian Beef Soup zusteuern, dessen Ladenschild noch immer im Dunkeln liegt. Sie sind nicht die Ersten: Vor dem Eingang warten bereits andere. Das Rindfleisch vom Fleischmarkt Shanhua wird bereits in der vorangegangenen Nacht geschlachtet und mit Kühlwagen vor dem Morgengrauen geliefert; die erste Ladung Suppe beginnt um fünf Uhr zu köcheln. Wer früh da ist, weiß eines: **Die Süße der ersten Ladung ist eine andere als die am Abend.**
 
-Das ist keine Zeremonie. Das ist Logistik.
+Das ist kein Ritual. Das ist Logistik.
 
 ## Fünf-Kanäle-Hafen: Der Grund für das Verschwinden
 
@@ -72,17 +74,17 @@ Das Gefühl von frischem Rindfleisch ist „knack knack“ – die Muskelfasern 
 
 📝 Kurator-Notiz: In der Uni-Zeit, mit Kommilitonen, zum ersten Mal nach Tainan, mitten in der Nacht um vier Uhr, wurde ich geweckt: „Komm schon, lass uns Rinderbrühe trinken gehen.“ Ich war halb im Schlaf, mein erster Gedanke war: Zu welcher Zeit ist das? Wer verkauft zu dieser Zeit Rinderbrühe? Und selbst wenn jemand verkauft, warum jetzt aufstehen? Aber meine Kommilitonen waren sehr beharrlich, ich ging halbwegs mit. Auf der Hai'an-Straße, bevor ich die Geschäfte erkennen konnte, sah ich zuerst die Regenunterstände am Markt, die Straßenlaterne beleuchteten eine Reihe von Menschen – zwanzig bis dreißig Menschen, die dort schon gewartet hat. Die Geschäfte öffnen um fünf Uhr, die erste Suppe ist weg. Dieser Geschmack – nicht weil Zucker hinzugefügt wurde, sondern weil die Muskelfasern in frischersten Zustand in die Suppe sickern – die Rinderbrühe am Abend ist genauso verlockend, aber die Frische des ersten Topfes ist auf einer anderen Ebene eine geistige Erfahrung. Das ist ein fast unfaires Gefühl der Befriedigung. Zu dieser Zeit erinnerten sie mich noch: „Wie schmeckt er? Lohnt sich das? Sag es dir, komm am Montag nicht, Montag ist geschlossen.“ Es stellt sich heraus, dass die Rinderbrühe-Geschäfte in Tainan in der Regel montags geschlossen sind, weil der Schlachthof montags keine Rinder schlachtet.
 
-## Schlangenfisch-Nudeln: 27 Sekunden Physik
+## Eel-Eimian-Nudeln: Schnelles Pfannenrühren bei großer Hitze – Ein Restaurant schreibt die Zeit an die Wand
 
-Schlangenfisch-Nudeln gibt es auch in anderen Teilen Taiwans, aber außerhalb von Tainan gibt es kaum jemand, die es richtig machen können, weil die Kernkompetenz sehr streng ist: Von der Zeit, wenn die Schlangenfisch in den Topf kommt, bis er fertig ist, darf nicht länger als 27 Sekunden dauern. Wenn länger, wird das Fleisch hart, der Gestank kommt heraus, der ganze Topf ist ruiniert.
+Die Kunst der Eel-Eimian-Nudeln liegt in der Hitze des Feuers: Die Aalstreifen werden bei großer Hitze in die Pfanne gegeben; wird zu lange gebraten, wird das Fleisch zäh. Ein traditionsreiches Lokal in Sakariba hat „27 Sekunden“ als sein Markenzeichen an die Wand geschrieben – dies ist jedoch die spezifische Angabe dieses einen Restaurants und keine allgemeingültige Regel für das Gericht.
 
-Die Herkunft dieses Gerichts liegt im Shihkangle-Markt (Sakariba). Während der japanischen Kolonialherrschaft gab es keine echten Schlangenfisch in Tainan, aber in den Teichen konnte man ähnlich große wilde Schlangenfisch fangen, aber niemand wusste, wie man sie zubereitet. Liao Bingnan, Liao Huoxu lernten von einem Fuzhou-Meister die „Blade“ (to-tsì) Kochtechnik, entwickelten eine Schlangenfisch-Imitiation der Schlangenfisch-Pfanne, die süße, saure und salzige Geschmacksrichtung der taiwanesischen Küche überzeugte sogar die japanischen Beamten, von da an wurde es im Shihkangle-Markt berühmt. Liao Bingnan wurde später auch als „Schlangenfisch-Süden“ bekannt; die Liao-Familie übertrug die Technik von Generation zu Generation, heute in Shihkangle-Markt Liao’s Chahua-Schlangenfisch, auf der Chenggong-Straße A Yuan, auf der Minzu-Straße A Jiang, alle stammen aus der gleichen Linie.
+Der Ursprung dieses Gerichts liegt im Youai-Street-Markt (Sakariba). Die Brüder Liao Bing-nan und Liao Huo-tu lernten von einem Koch aus Fuzhou die Kunst des „to-tsì“ (Messerführung), um den salzig-sauren und süßen Geschmack Tainans zu kreieren und sich in Sakariba einen Namen zu machen. Liao Bing-nan wurde später als „Eel Nan“ bekannt; das handwerkliche Geschick der Familie Liao wurde von Generation zu Generation weitergegeben, sodass die Familien Liao in Sakariba, A-Yuan in der Chenggong-Straße und A-Jiang in der Minzu-Straße alle derselben Abstammung entstammen. Die vollständige Geschichte finden Sie unter 〈[Eel-Eimian-Nudeln](/de/food/eel-noodles)〉.
 
-Knoblauch wird in der Pfanne angeröstet, die Schlangenfisch-Stücke kommen in den Topf, Frühlingszwiebeln, Zwiebeln, Chili, Gewürze, Bindemittel, fünf-Nut-Essig, fertig, gieße über die fertigen Nudeln. Der Dampf, der aus der Pfanne aufsteigt, ist das Signal, mit dem der Meister die Hitze durch das Ohr beurteilt, nicht durch die Augen.
+Knoblauch wird duftend angebraten, die Aalstücke kommen in die Pfanne, dazu Frühlingszwiebeln, Zwiebeln, Chili, Gewürze, eine Bindung mit Stärke und Wu-Yin-Essig – dann wird alles angerichtet und über die servierten Eimian-Nudeln gegossen. Das Geräusch des aufsteigenden „Wok-Heis“ (dem Aroma des Pfannenrührens) ist das Zeichen, dass der erfahrene Meister die Hitze mit den Ohren beurteilt, nicht mit den Augen.
 
-Die Nudeln sind ein lokales Produkt in Tainan, in halb gekochtem Zustand in der Pfanne geformt, in die Suppe gelegt, die Sauce aufsaugt, das Gefühl ist völlig anders als normale Nudeln. Der fünf-Nut-Essig ist unerlässlich – die Säure und Süße am Ende setzen den Geschmack zurück, so dass man nach dem Fett und Eiweiß noch einen weiteren Stand essen kann.
+Bei den Eimian-Nudeln handelt es sich um eine lokale Nudelsorte aus Tainan, die im halbgekochten Zustand frittiert wird, um ihre Form zu behalten, bevor sie in die Brühe gegeben werden, um sich vollends mit der Sauce vollzusaugen; die Textur unterscheidet sich daher grundlegend von gewöhnlichen Nudeln. Der Wu-Yin-Essig ist unerlässlich – die säuerlich-süße Note am Ende setzt den Geschmack neu zurück, sodass man nach Fett und Proteinen bereit für den nächsten Stand ist.
 
-📝 Kurator-Notiz: „Sakariba“ ist die taiwanesische Aussprache des japanischen Wortes „Sakareba“ (盛り場), was einen lebhaften Markt bedeutet. Dieser Name erklärt selbst die Herkunft des Schlangenfisch-Nudelgerichts: ein Ort, an dem Arbeiter während der japanischen Kolonialherrschaft versammelt waren.
+📝 Notiz des Kurators: „Sakariba“ ist die taiwanische Transkription des japanischen Wortes „盛り場“ (sakariba), was so viel wie ein belebter Marktplatz bedeutet. Dieser Name beschreibt bereits den Ursprungsort der Eel-Eimian-Nudeln: ein Sammelpunkt für Arbeiter während der japanischen Kolonialzeit.
 
 ## A-Ming-Schweineherz-Dim-Sum: Zwei Stunden Wartezeit und die Philosophie der Wasserbads
 

@@ -2,8 +2,7 @@
 title: 'La olla caliente taiwanesa: una historia evolutiva del sabor isleño que conquista el alma'
 description: 'Desde símbolo de civilización en la era colonial hasta la comida nacional de hoy, la olla caliente taiwanesa no es solo una evolución del paladar, sino también un reflejo de los cambios sociales y la fusión étnica.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     'Olla caliente',
@@ -11,15 +10,19 @@ tags:
     'Salsa de soja con ajo y chile (shacha)',
     'Cultura culinaria',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Food/台灣火鍋.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/台灣火鍋.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: 2026-05-01T22:19:10+08:00
-featured: false
+translatedAt: '2026-11-05T04:57:05.117127+00:00'
 ---
 
 > **Panorama en 30 segundos:** El mercado de la olla caliente (_hot pot_) en Taiwán genera un valor anual de cientos de miles de millones. No es solo una comida nacional para entrar en calor en invierno, sino una cultura gastronómica apta para las cuatro estaciones. Desde el _sukiyaki_ del período colonial japonés hasta las diversas ollas calientes traídas por inmigrantes de todas las provincias tras la guerra, pasando por las ollas individuales y las versiones gourmet de hoy, la historia evolutiva de la olla caliente taiwanesa refleja los cambios sociales y la fusión étnica de esta isla, dando como resultado un sabor único e irrepetible: el _taiwei_ (sabor taiwanés).
@@ -68,20 +71,20 @@ La cultura de la olla caliente taiwanesa es una epopeya tejida conjuntamente por
 
 ## Referencias
 
-[^1]: CParty. (2025). «Guía clásica de noctámbulos: evolución centenaria de la olla caliente en Taiwán». [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^1]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). «Guía clásica de noctámbulos: evolución centenaria de la olla caliente en Taiwán»
 
-[^2]: orstyle.net. (2025). «¿Cómo se convirtió esta olla en "taiwanés"? El camino lento de la isla de la olla caliente». [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/)
+[^2]: [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/) — orstyle.net. (2025). «¿Cómo se convirtió esta olla en "taiwanés"? El camino lento de la isla de la olla caliente»
 
-[^3]: VERSE. (2022). «Yufu: ¡Vamos a reunirnos alrededor del hogar para hablar de olla caliente!». [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu)
+[^3]: [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu) — VERSE. (2022). «Yufu: ¡Vamos a reunirnos alrededor del hogar para hablar de olla caliente!»
 
-[^4]: Ming Ren Tang. (2020). «¿La sacha era originalmente un "producto importado"? La historia pasada y presente de la salsa shacha en Taiwán». [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
+[^4]: [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026) — Ming Ren Tang. (2020). «¿La sacha era originalmente un "producto importado"? La historia pasada y presente de la salsa shacha en Taiwán»
 
-[^5]: Taiwan Panorama (sin fecha). «La sacha taiwanesa: un sabor diverso que registra las huellas de la inmigración». [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
+[^5]: [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2) — Taiwan Panorama (sin fecha). «La sacha taiwanesa: un sabor diverso que registra las huellas de la inmigración»
 
-[^6]: Up Media (2021). «¡"Di Yi Hot Pot", con más de medio siglo de historia, desaparece!». [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
+[^6]: [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834) — Up Media (2021). «¡"Di Yi Hot Pot", con más de medio siglo de historia, desaparece!»
 
-[^7]: Every Little D. (sin fecha). «En el año 68 de la República de China, el primer restaurante de olla caliente picante de Taipei: "Ning Ji"». [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
+[^7]: [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/) — Every Little D. (sin fecha). «En el año 68 de la República de China, el primer restaurante de olla caliente picante de Taipei: "Ning Ji"»
 
-[^8]: Yutower (sin fecha). «Un producto popular originario de Sichuan: la olla caliente picante». [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
+[^8]: [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl) — Yutower (sin fecha). «Un producto popular originario de Sichuan: la olla caliente picante»
 
-[^9]: CParty. (2025). «Guía clásica de noctámbulos: evolución centenaria de la olla caliente en Taiwán». [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^9]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). «Guía clásica de noctámbulos: evolución centenaria de la olla caliente en Taiwán»

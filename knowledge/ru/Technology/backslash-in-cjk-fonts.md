@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: 'Большой иероглиф "gōng", рядом его код Big5 A5 и 5C в двух ячейках, от 5C стрелка указывает на ASCII 0x5C обратную косую черту; ниже — реальный вывод Python, у трёх иероглифов "Сюй Гуньгай" второй байт — обратная косая черта.'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:30:01+08:00'
+translatedAt: '2026-11-05T11:45:28.600628+00:00'
 ---
 
 > **30-секундный обзор:** Я запустил скрипт статуса перевода, на экране вывелось 4546, всё в `root`. На GitHub CI в Linux — зелёный. Позже выяснилось две вещи. Обратная косая черта в путях Windows, скрипт режет прямой — не вырезает. Второй байт Big5 у "gōng" — это сам ASCII `\`. Две вещи, механизмы разные, но часто встречаются вместе на одной и той же繁中 Windows.

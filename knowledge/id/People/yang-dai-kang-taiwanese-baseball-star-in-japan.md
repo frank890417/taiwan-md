@@ -2,19 +2,21 @@
 title: 'Yang Dai-kang: Taitung 1987, Sepuluh Tahun di Nippon Ham Fighters hingga FA ke Yomiuri Giants, Outfielder Keturunan Amis'
 description: 'Lahir 17 Januari 1987 di Kota Taitung, keturunan Amis, nama lama Yang Chung-shou. Lulus dari SMP terafiliasi Universitas Taitung, melanjutkan ke SMA Fukuoka Dai-ichi (Jepang). Draft NPB 2005 dipilih first-round oleh Nippon Ham Fighters dan SoftBank Hawks, Fighters memenangkan undian. 2012 Golden Glove Liga Pasifik outfielder (pertama pemain Taiwan). 2016 FA ke Yomiuri Giants. Karier NPB: 1322 pertandingan, 105 home run, 482 RBI, batting average .270. Akhir 2021 meninggalkan Giants, bergabung liga independen.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags: ['Olahraga', 'Baseball', 'NPB', 'Amis', 'Orang Asli', 'Outfielder']
-readingTime: 7
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-04T21:46:58.144751+00:00'
 ---
 
 # Yang Dai-kang: Taitung 1987, Sepuluh Tahun di Nippon Ham Fighters hingga FA ke Yomiuri Giants, Outfielder Keturunan Amis

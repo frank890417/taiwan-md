@@ -27,6 +27,7 @@
  */
 
 import type { Lang } from '../types';
+import { getFallbackChain } from '../i18n/utils';
 
 export type Localized = Partial<Record<Lang, string>> & { 'zh-TW': string };
 
@@ -71,8 +72,14 @@ export interface SoundCategory {
  * triggers the zh-TW fallback.
  */
 export function localize(field: Localized, lang: Lang): string {
-  const val = field[lang];
-  if (val !== undefined) return val;
+  // 2026-11-04 site-health: walk the site-wide fallback chain (vi/id/hi/ar/
+  // ru/de → en, pt → es → en) like `t()` does. It used to jump straight to
+  // zh-TW, so /ar/ /ru/ /de/ soundscape rendered Chinese under an Arabic,
+  // Russian or German <html lang>.
+  for (const code of getFallbackChain(lang)) {
+    const val = field[code];
+    if (val !== undefined && val !== '') return val;
+  }
   return field['zh-TW'];
 }
 
@@ -410,11 +417,53 @@ export const categories: SoundCategory[] = [
           en: 'Sounds recorded in 7-Eleven while buying drinks',
           ja: 'セブンイレブンで飲み物を買っているときに録音された音',
           ko: '세븐일레븐에서 음료를 살 때 녹음된 소리',
-          fr: 'Sons enregistrés dans un 7-Eleven pendant l\'achat de boissons',
+          fr: "Sons enregistrés dans un 7-Eleven pendant l'achat de boissons",
           es: 'Sonidos grabados en un 7-Eleven mientras se compran bebidas',
         },
         contributor: 'iigmir',
         date: '2026-08',
+        icon: '🏪',
+      },
+      {
+        file: 'taichung-north-familymart-buying-drink.mp3',
+        location: {
+          'zh-TW': '台中北區',
+          en: 'North District, Taichung',
+        },
+        description: {
+          'zh-TW': '在全家便利商店購買飲料時店內錄製的聲音',
+          en: 'Sounds recorded in Familymart while buying drinks'
+        },
+        contributor: 'iigmir',
+        date: '2026-09',
+        icon: '🏪',
+      },
+      {
+        file: 'taichung-south-taichung-south-hoshinchun-truck.mp3',
+        location: {
+          'zh-TW': '台中南區',
+          en: 'South District, Taichung'
+        },
+        description: {
+          'zh-TW': '街頭的選舉宣傳車，以國語和臺語發音',
+          en: 'An election campaign truck'
+        },
+        contributor: 'iigmir',
+        date: '2026-10',
+        icon: '📢',
+      },
+      {
+        file: 'taichung-west-changyiantong-truck.mp3',
+        location: {
+          'zh-TW': '台中南屯',
+          en: 'Nantun District, Taichung'
+        },
+        description: {
+          'zh-TW': '街頭的選舉宣傳車、被宣傳車嚇哭的小朋友、以及安撫小孩的媽媽',
+          en: 'An election campaign truck, a child scared by the truck, and his mother appeasing him'
+        },
+        contributor: 'iigmir',
+        date: '2026-10',
         icon: '📢',
       },
     ],

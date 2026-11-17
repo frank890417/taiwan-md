@@ -2,19 +2,21 @@
 title: '잉거 도자기 박물관: 노출 콘크리트 속의 백년 도업'
 description: '2000년 11월, 대만 최초의 도자기 전문 박물관이 신베이시 잉거 구(鶯歌區)에서 개관하였다. 젠쉐이(簡學義)가 설계한 이 박물관은 「토(土)·수(수)·화(火)·풍(風)」의 네 가지 원소를 이념으로 삼는다. 노출 콘크리트 건축으로 잉거를 도업 소도시에서 도예의 전당으로 재정립하였으며, 2004년부터 시작된 대만 국제 도예 비엔날레는 지역 공예를 세계와 연결하였다.'
 date: 2026-05-07
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '策展與教育'
 tags: ['도자기', '잉거', '박물관', '건축', '젠쉐이', '대만 국제 도예 비엔날레']
+subcategory: '策展與教育'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T17:35:27.356647+00:00'
 ---
 
 > **30초 개요:** 2000년 11월 26일, 신베이시립 잉거 도자기 박물관이 개관하며 대만 최초의 도자기 전문 박물관이 탄생하였다. 건축은 젠쉐이(簡學義)가 설계하였으며, 「토(土)·수(水)·화(火)·풍(風)」을 설계 이념으로 삼아 노출 콘크리트 외벽과 대형 유리 커튼월이 잉거의 지형과 조화를 이룬다. 이 박물관은 잉거를 「대만의 징더진(景德鎮)」으로 알려진 도업 도매 소도시에서 기획 전시, 교육, 국제 교류를 축으로 하는 도예의 전당으로 재정립하였다. 2004년부터 시작된 「대만 국제 도예 비엔날레」는 지역 공예를 세계 현대 도예의 흐름과 연결하였다.

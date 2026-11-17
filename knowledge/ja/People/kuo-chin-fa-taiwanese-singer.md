@@ -1,19 +1,22 @@
 ---
 title: '郭金発：焼肉粽の背後にある低音の魂'
 description: '大稲埕の靴屋の見習いから宝島の低音歌王へ、郭金発は楽曲『焼肉粽』を通じて台湾戦後の庶民の辛酸と強靭さを歌い上げ、舞台で最期の力を尽くしました。'
+date: 2026-04-19
 category: 'People'
 tags: ['音楽', '台湾歌謡', '焼肉粽', '低音歌王', '戒厳期の禁止歌曲']
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
-date: 2026-04-19
-readingTime: 10
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-05-16T22:35:34Z'
-featured: false
+translatedAt: '2026-11-04T21:46:29.945687+00:00'
 ---
 
 > **📝 キュレーターのメモ**

@@ -1,15 +1,20 @@
 ---
-title: '국가우주센터: 이름조차 아직 다 갖추지 못한 국가를 위해 32년에 걸쳐 우주청 하나를 갖추다'
-description: '1991년 그것은 ‘준비처’라고 불렸고, 이름도 로켓도 자기 땅도 없었다. 32년 뒤 그것은 Taiwan을 이름 안에 되돌려 넣었고, 지금 신주의 관제센터는 24시간 아홉 기 위성의 심장박동을 추적한다. 0403 화롄 지진이 일어난 날에는 지진 발생 6분 뒤 임무를 재설정하고 3시간 만에 영상을 획득했다. 이제 그것은 마지막 부품을 채우고 있다. 자체 궤도 진입 로켓 한 기, 그리고 이미 승인되어 이르면 2028년에 출발할 달 탐사 임무다.'
+title: '국가우주센터: 32년, 아직 이름을 갖추지 못한 나라에 우주청을 마련하다'
+description: "1991년 그것은 '준비처'라 불렸으며, 이름도, 로켓도, 자신의 땅도 없었다. 32년 후 그것은 'Taiwan'을 이름에 되돌려 놓았고, 지금 신추의 관제센터는 24시간 아홉 위성의 심박을 추적하고 있다. 0403 화롄 지진 그날, 그것은 진후 6분 만에 임무를 재설정하고 3시간 만에 영상을 촬영했다. 그것은 마지막 퍼즐 조각인 자체 궤도 진입 로켓과, 이미 승인되어 빠르면 2028년 발사 예정인 달 탐사 임무를 채워가고 있다."
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Technology'
+tags: ['국가우주센터', 'TASA', '우주 기술', '오종신', '복위', '우주 주권']
 subcategory: '太空與前沿'
-tags: ['국가우주센터', 'TASA', '우주기술', '우쭝신', '포모사 위성', '우주주권']
-readingTime: 28
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-featured: true
+image: '/article-images/technology/formosat8-tasa-banner.webp'
+imageAlt: '국가우주센터 복위 8호 광학 원격측정 위성 은하 공식 비주얼'
+imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
+imageLicense: 'Fair use editorial commentary（©TASA）'
+imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+readingTime: 28
 sporeLinks:
   - id: 122
     platform: 'threads'
@@ -20,14 +25,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T16:48:28.190093+00:00'
-image: '/article-images/technology/formosat8-tasa-banner.webp'
-imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
-imageLicense: 'Fair use editorial commentary（©TASA）'
-imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+translatedAt: '2026-11-06T16:45:56.095266+00:00'
 ---
 
 2016년, 메이데이(五月天)의 〈완고〉 뮤직비디오에는 황무지에서 로켓을 만드는 중년 남자가 등장한다. 그는 백일몽을 꾸는 괴짜 취급을 받다가, 마지막에는 직접 만든 로켓을 등에 메고 하늘로 날아간다. 대다수 타이완인이 우쭝신(吳宗信)을 처음 알게 된 것은 어떤 국가기관을 통해서가 아니라 이 뮤직비디오를 통해서였다. 바로 그 “로켓 아저씨”였다[^1].
@@ -261,12 +262,13 @@ _국가우주센터 TASA 공식 홍보영상: 포모사 위성 8호는 한 기 �
 
 치보린은 헬리콥터 위에서 타이완을 보았고, 추락한 그해에 끝까지 보지 못했다. 8년 뒤, 그의 이름을 딴 위성이 그를 대신해 561킬로미터 높이에서 이 섬을 끝까지 바라보았다. 그리고 동시에 30년 동안 스스로 기상을 본다고 말해온 이 기관을 그것의 진짜 모습으로 보이게 했다. 승인받지 못한 국가를 위해 “자주”를 위성 한 기 한 기로 증명해내는 장소로. 다음 역에서, 그것은 달을 보러 갈 것이다.
 
-## 더 읽을거리
+## 확장 읽기
 
-- [타이완 우주산업 발전](/ko/technology/taiwan-space-industry-development) — 이 글이 기관 자체가 어떻게 성장했는지를 다룬다면, 그 글은 그 뒤의 공급망을 다룬다. 어떤 업체들이 위성 부품을 만들었는지, 반도체가 어떻게 우주로 들어갔는지, 스타트업 생태계가 어떻게 형성되었는지에 관한 이야기다.
-- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 타이완 우주 “자주”의 산업적 기반 가운데 큰 부분은 이 섬이 이미 갖고 있던 반도체와 정밀제조 역량 위에 세워져 있다.
-- [중화 타이베이](/ko/society/chinese-taipei) — “Taiwan을 이름 안에 되돌려 넣다”라는 주권의 선이 경기장에서는 어떤 다른 면을 갖는지 보여준다.
-- [린치얼](/ko/people/lin-chi-er-astronaut) — 과학 현장에서 타이완을 위해 일하는 또 다른 인물 초상이다.
+- [타이완 우주 산업 발전](/ko/technology/taiwan-space-industry-development) — 이 글은 기관 자체가 어떻게 성장했는지를 다루고, 저 글은 그 뒤에 있는 공급망을 다룬다: 어떤 업체들이 위성 부품을 만들어냈는지, 반도체가 어떻게 우주 분야로 진입했는지, 스타트업 생태계가 어떻게 형성되었는지.
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 타이완 우주 '자주'의 산업 기반 상당 부분이 이 섬이 기존에 가진 반도체와 정밀 제조 능력 위에 구축되어 있다.
+- [중화 타이베이](/ko/society/chinese-taipei) — '이름에 Taiwan을 되돌려놓다'라는 주권의 선이 운동장 위에서 또 다른 면을 보인다.
+- [린치얼](/ko/people/lin-chi-er-astronaut) — 마찬가지로 과학 현장에서 타이완을 위해 일하는 인물의 측면 묘사.
+- [치바이린](/ko/people/chi-po-lin) — 포모샛 8호 첫 번째 위성이 그의 이름을 따서 명명됨: 국공국 항공 촬영 공무원 출신, 《타이완을 보다》 감독, 2017년 속편 로케이션 헌팅 중 조난.
 
 ## 영상 출처
 

@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: 'f4ae4fb8f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-10-21T02:10:21.095268+00:00'
+translatedAt: '2026-11-05T06:34:10.553309+00:00'
 ---
 
 # Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/消失的遊樂園.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:b2e6141f09c44118'
-sourceBodyHash: 'sha256:67b3b53be583f748'
-translatedAt: '2026-07-29T05:21:41.806155+00:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:7b31af80267ab366'
+sourceBodyHash: 'sha256:0f1dcfb20c9bc8d9'
+translatedAt: '2026-11-05T05:09:59.215911+00:00'
 ---
 
 **Resumo de 30 segundos:**
@@ -50,16 +52,16 @@ O adjacente Parque de Diversões Kadori, por sua vez, permaneceu na memória das
 
 📝 **Nota do Curador:** A morte de um parque de diversões muitas vezes acompanha certa "inversão de sacralidade". O que antes era o local dos risos em mais altos decibéis, após a queda de energia e o mato crescer, torna-se a projeção do medo mais profundo.
 
-## A infância confiscada: por que os parques desapareceram coletivamente?
+## A infância confiscada: por que os parques desapareceram em massa?
 
-Ao enumerar a lista dos desaparecidos: Parque Mingde de Taipé, Parque Ásia do Reservatório Shimen, Parque Wuzhi de Tainan, Vila Folclórica de Taiwan em Changhua [^3]. Por trás do desaparecimento destes parques encontram-se razões estruturais extremamente semelhantes:
+A lista dos que desapareceram: Parque Mingde de Taipé, Parque Asiático do Reservatório de Shimen, Parque Wuzhi de Tainan, Vila Folclórica de Taiwan em Changhua [^3]. Por trás do desaparecimento desses parques, há causas estruturais extremamente semelhantes:
 
-| Motivo do desaparecimento               | Impacto concreto                                                                                                                                                                                                                     |
-| :-------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planeamento urbano e regulamentos**   | Muitos parques iniciais localizavam-se em bacias hidrográficas ou terrenos destinados a parques, o que impedia a atualização das instalações, levando à sua desapropriação final.                                                    |
-| **Mudança na concorrência de mercado**  | Após os anos 1990, os "três montanhas e uma vila" (Jianhushan, Leofoo Village, Formosan Aboriginal Culture Village, Window on China) operados por grandes grupos surgiram, e os parques locais tradicionais não conseguiam competir. |
-| **Desastres naturais e contexto geral** | O grande terremoto de 921 em 1999 devastou o turismo no centro de Taiwan, e parques como o Jardim Yage e o Kadori viram seus visitantes cair drasticamente, tornando-se a gota d'água para suas falências.                           |
-| **Abertura de viagens ao exterior**     | Com a abertura do turismo em 1979, o horizonte dos taiwaneses voltou-se para a Disney e a Universal Studios, e a atratividade dos parques locais diminuiu relativamente.                                                             |
+| Motivo do desaparecimento                | Impacto concreto                                                                                                                                                                                                                      |
+| :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Planeamento urbano e regulamentos**    | Muitos parques iniciais localizavam-se em áreas de captação de rios ou terrenos previstos para parques, o que impedia a atualização das instalações, levando à sua expropriação final.                                                |
+| **Mudança na concorrência de mercado**   | Após os anos 1990, os «três montanhas e uma vila» (Chienhushan, Leofoo Village, Formosan Aboriginal Culture Village, Window on China) operados por grandes grupos surgiram, e os parques locais tradicionais não conseguiam competir. |
+| **Desastres naturais e grande ambiente** | O grande terremoto de 921 em 1999 atingiu severamente o turismo no centro de Taiwan, e parques como Yako Garden e Kadori viram uma queda acentuada de visitantes, tornando-se a gota d'água para a falência.                          |
+| **Abertura de viagens ao exterior**      | Com a abertura do turismo em 1979, o horizonte dos taiwaneses voltou-se para a Disney e a Universal Studios, e a atratividade dos parques locais diminuiu relativamente.                                                              |
 
 ## Ecos: reconstruindo memórias sobre as ruínas
 
@@ -73,16 +75,16 @@ Os parques de diversões desaparecidos não são cicatrizes da cultura de Taiwan
 
 ## Referências
 
-[^1]: [O primeiro parque temático de Taiwan: retrospectiva das belas memórias do Parque Aquático Datong](https://time.udn.com/udntime/story/122835/5701671) — Reporting Time: detalha o processo de fundação e os números de receita do Parque Aquático Datong.
+[^1]: [O primeiro parque temático de Taiwan: relembrando as belas memórias do Parque Aquático Datong](https://time.udn.com/udntime/story/122835/5701671) — Report Time: relato detalhado do processo de fundação e números de receita do Parque Aquático Datong.
 
-[^2]: [Local de filmagem do clássico programa ao ar livre da CTV: o status especial do Jardim Yage](https://udn.com/news/story/120910/6486512) — United Daily News: relembra a conexão entre o Jardim Yage e o programa «Ba Zhan Bai Sheng».
+[^2]: [Local de filmagem do clássico programa ao ar livre da CTS: o status especial do Jardim A-Ge](https://udn.com/news/story/120910/6486512) — United Daily News: retrospectiva sobre a associação entre o Jardim A-Ge e 'Bai Zhan Bai Sheng'.
 
-[^3]: [Os parques de diversão que visitávamos na infância ainda existem? 10 parques desaparecidos de Taiwan](https://www.storm.mg/lifestyle/141341) — Storm Media: lista os principais parques desaparecidos de Taiwan e sua situação atual.
+[^3]: [Os parques de diversões que visitamos na infância ainda existem? 10 parques desaparecidos de Taiwan](https://www.storm.mg/lifestyle/141341) — Storm Media: inventário dos principais parques desaparecidos de Taiwan e sua situação atual.
 
-[^4]: [Parques de diversões desaparecidos – Agência de Viagens no Tempo](https://curation.culture.tw/curation/public?id=1145) — National Cultural Memory Bank: fornece ricas comparações entre passado e presente e dados sobre parques no topo de lojas de departamento.
+[^4]: [Parques de diversões desaparecidos - Agência de Viagens no Tempo](https://curation.culture.tw/curation/public?id=1145) — Banco de Memória Cultural Nacional: fornece ricas comparações entre passado e presente e dados sobre parques no topo de lojas de departamento.
 
-[^5]: [Após falência, rumores sobrenaturais frequentes! O outrora famoso Parque de Diversões Kadori, conhecido pela montanha-russa](https://time.udn.com/udntime/story/122835/7007866) — Reporting Time: esclarece as causas da falência e os rumores sobrenaturais do Parque Kadori.
+[^5]: [Rumores sobrenaturais frequentes após falência! O Parque Kadori, famoso pela montanha-russa](https://time.udn.com/udntime/story/122835/7007866) — Report Time: esclarece as razões da falência do Parque Kadori e os rumores sobrenaturais.
 
-[^6]: [O assustador parque de diversões abandonado de Taichung onde ninguém ousa ir: ele o transformou em autódromo para realizar o sonho de infância](https://www.storm.mg/article/405013) — Storm Media: reporta a história da transformação do Jardim Yage em autódromo.
+[^6]: [O assustador parque abandonado de Taichung que ninguém ousa visitar: ele o transformou em autódromo para realizar o sonho de infância](https://www.storm.mg/article/405013) — Storm Media: reporta a história da transformação do Jardim A-Ge em autódromo.
 
-[^7]: [O 'patriarca' dos parques de Taiwan, extremamente lucrativo: Parque Aquático Datong 'recupera investimento em seis meses'](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News: sobre os dados de investimento inicial e recuperação do Parque Aquático Datong.
+[^7]: [O patriarca dos parques de Taiwan altamente lucrativo: Parque Aquático Datong 'recuperou o investimento em meio ano'](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News: dados sobre o investimento inicial e o ponto de equilíbrio do Parque Aquático Datong.

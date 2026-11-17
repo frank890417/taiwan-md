@@ -237,6 +237,20 @@ if npm run prebuild > /tmp/prebuild.log 2>&1; then
 else
   echo -e "${YEL}⚠️  prebuild 失敗 — Beat 1 會標記 build-broken (P0)${RST}"
   tail -15 /tmp/prebuild.log
+  # OG 圖只在本機 public/og-images（gitignored），但 run-p 會在它失敗時停掉所有平行兄弟，
+  # 連帶 vitals/organism/translations 與後面的 search/latest/redirects 都沒跑（2026-11-06 早班）。
+  # 這裡只救儀表板：清單從 package.json 取，不複寫。npm run build 的 OG 閘門不變。
+  if grep -q 'ERROR: "prebuild:og" exited' /tmp/prebuild.log; then
+    echo -e "${YEL}   ↻ 失敗的是 prebuild:og，跳過它重跑其餘 prebuild（OG 圖今天未更新）${RST}"
+    REST_CMD=$(node -e "const m=require('./package.json').scripts.prebuild.match(/run-p ([^&]+?) &&(.*)\$/);console.log('npx run-p '+m[1].split(/\s+/).filter(x=>x&&x!=='prebuild:og').join(' ')+' &&'+m[2])")
+    if bash -c "$REST_CMD" > /tmp/prebuild-rest.log 2>&1; then
+      echo -e "${DIM}   ✓ 其餘 prebuild 完成，dashboard JSON 已重生${RST}"
+    else
+      echo -e "${YEL}⚠️  略過 OG 後 prebuild 仍失敗${RST}"
+      tail -15 /tmp/prebuild-rest.log
+    fi
+    rm -f /tmp/prebuild-rest.log
+  fi
 fi
 rm -f /tmp/prebuild.log
 echo ""

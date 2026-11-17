@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 103 條 #N 反射（last #103
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.44'
-last_updated: 2026-10-25
-last_session: '2026-10-25-031544-twmd-distill-weekly：加 #103 排除判定不等於排除觀察；fold 十一處（#16／#24／#38×2／#52／#58／#85×2／#99／#100／#103 家族層）'
+current_version: 'v5.45'
+last_updated: 2026-11-02
+last_session: '2026-11-02-071031-twmd-feedback-triage：#97 補第六次驗證（同一支 --show 漏印 page_kind／category，正是憑證索取 payload 所在）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -920,6 +920,8 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 **#79 主權留哲宇 default reservation — maintainer routine 對 §自主權邊界 命中的 default 姿態是 reserve 不是 auto-close/merge**（2026-07-05 twmd-self-evolve-weekly 升 canonical vc=5 — 2026-07-04 am maintainer memory 揭「主權留哲宇 pattern 已跨 5 signal 穩定」#1186 5-file split PR 內容側全過主權留 / #1193 湖口老街 3rd round 內容側全過主權留 / #1192 周天成 2nd round 內容側全過主權留 / #1204 泰雅語正寫法 rewrite candidate route / #1205 生態論文 provenance 存疑 fact-check backlog，severity=structural，#71 相對面）— #71「Default 是行動不是 defer」是「無 §自主權邊界 命中時的 default 行動姿態」；本條是**互補相對面**：**§自主權邊界 命中時 default 姿態是 reserve（保資料 + 5-層 review post + 主權續留哲宇）不是 auto-close 或 auto-merge**。maintainer routine 對「內容側全過」的 mergeable PR 不 auto-merge，對「可修 issue」不 auto-close，是 reserve default 姿態的 5 conditions stable signal。
 
+- **反向失誤：把 reserve 寫成哲宇的決定（2026-11-17 哲宇 callout，vc=3：11-06 #1963、11-07 #1964、11-16 #1982／#1983／#1995）**：本條的 reserve 是對內姿態，對外說出口時一再被寫成「這要由哲宇本人決定」「超出維護者權限」，把維護流程自己的判斷公開掛在哲宇名下；11-16 那次還跟他 10-20 拍板的 OBSERVER-QUEUE #104（選舉年候選人頁照收、守五條）相反。兩條修法：(a) reserve 前先查有沒有拍板過的判例，有就照判例做，不再保留；(b) 公開留言只寫「維護流程保留／還沒處理」，要提哲宇必須附既有紀錄的連結。canonical 在 [MAINTAINER §外向留言分層](../pipelines/MAINTAINER-PIPELINE.md)。
+
 - **規則**：(a) **命中判準**：政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通 / AI 文章被主體本人 flagged fabrication / 6 lang 已 live 高敏場景 / 敏感素材 final call / 身份授權 / 經費決定 → default = reserve (b) **reserve 姿態內容**：5-層 review 完整 post（Q13 anti-bias PASS + 內容側判斷 published）+ 不 auto-merge / 不 auto-close + handoff 明示「主權續留哲宇」+ contributor 3-round cycle (初 review / 覆評 / follow-up ack) 全程 reserve 直到哲宇 in-loop (c) **對比 #71**：#71 是「無 §自主權邊界 命中時 default action」；本條是「§自主權邊界 命中時 default reservation」— 兩條 dual 拼出完整 default 姿態 matrix (d) **routine 端誤區防範**：把「內容側 review 全過」讀為「可以 merge 了」= 命中 §自主權邊界 但 auto-execute = 授權位置從哲宇移到 routine（per 7/5 distill Beat 5 fast-track authorization boundary）
 - **Boundary**：(a) 不適用「內容側 hard gate FAIL」場景（不 mergeable 是 pipeline 決定，不需 reserve — 直接請 contributor 修）(b) 不適用「明確 low-stake 貢獻」（typo heal / broken link fix / 明顯 no-risk PR，走 #71 auto-merge）(c) 不適用 close-with-insufficient-info 類（那需另一 threshold 判斷）(d) 適用範圍：MAINTAINER 系列 routine 內 PR / issue disposition + contributor engagement 節奏
 - **觸發 (vc=5 cluster 7/3-7/4)**：
@@ -1207,6 +1209,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **子規則：送到了，收件席位動不了手（2026-09-27 twmd-distill-weekly fold，源 LESSONS `handoff-addressed-to-a-seat-that-cannot-act`，vc=3）**：本條原本問「送了嗎」，這條問「收的人動得了嗎」。寫 handoff 時會挑一個聽起來該管的 routine 名字，但沒有一步驗那個席位的權限收不收得下這個檔；收件人讀了也只能原樣往下傳，報表上它跟「還沒輪到」「優先序不夠」長得一樣。三例：09-20 embeddings（當時歸因成「缺決定」）；09-22 routine-sync「任何 Micro session 都能做」，等於沒有席位；09-23 embeddings 指名 routine-sync，而該席位的 commit 範圍鎖在 `routine-prompts/`，收不下那個檔，最後寄件方自己做掉（`929a6f739`）。規則：交接項帶收件席位，並寫一句「該席位動得了這個路徑嗎」；被原樣傳三輪以上且指名席位固定的，先當權限問題看。MEMORY-PIPELINE §Handoff 同 commit 補。
 - **子規則：交接行的狀態標籤跟它指向的 canonical 反向（2026-09-27 twmd-distill-weekly fold，源 LESSONS `settled-decision-relabelled-as-open-in-handoff`，vc=1，27 班複製）**：`ROUTINE.md` 註 ¹³ 三處寫明 spore-pick／spore-publish／rewrite-daily 是 `manual-by-decision`，decision_ref 指到 2026-09-05 哲宇拍板；交接鏈卻寫成「停用未拍板」，09-14 起 26 個班別、六條 routine 逐字沿用，其中數條一邊貼錯標籤、一邊正確指向說相反話的那個註腳。09-15 spore-harvest 當班更正過，更正只住在自己的 memory 裡，沒有跨過去。指標正確不等於讀過，原樣複製的是字串。規則：交接參照帶狀態（`OBSERVER-QUEUE #N（已決／待決）`），讓複製時至少複製到一個可以被對賬的字；候選儀器：`routine-sync-check.py` 把近 7 天 handoff 的狀態字樣跟 `ROUTINE.md` 的 routine-decisions 對賬。
 - **驗證（2026-10-11 twmd-news-lens-weekly，載體：報告處置欄）**：09-27 探測器把 ar〈尼克星〉音譯撞字寫在報告處置欄「給 babel／哲宇判斷」，沒落進任何佇列或帶參照的 handoff；兩週後同一 query 週點擊 21 → 42、位置 7.3 → 2.9。報告是給人讀的，佇列才是給下一個動手的人讀的；補成 OBSERVER-QUEUE #98。規則 (a) 的延伸：報告裡凡寫「給 X 判斷」，同一班落進佇列或 handoff → [memory](memory/2026-10-11-011220-twmd-news-lens-weekly.md)
+- **驗證（2026-11-02 twmd-feedback-triage，載體：第六次，同一支 `--show`）**：v1.11（09-18）修的是「讀者自由文字四欄只印兩欄」，今天同一支工具的漏印換了一層：`--show` 印十個讀者可控欄位裡的八個，**沒印 `page_kind` 與 `category`**，而那正是 `a1-pk`／`a1-cat`／`a2-pk`／`a2-cat` 四筆憑證索取 payload 的所在（這四筆的 body 是正常勘誤，只靠 `--show` 讀會讀起來完全乾淨）。抓到它們的是當班另外手寫的全欄位普查，不是流程給的讀取入口——HG13 的可靠度又一次掛在「當班願不願意多做一件流程沒給的事」上。補印兩欄屬判準面小修，隨 OBSERVER-QUEUE #119 一起等；證據 [reports/feedback-injection-campaign-2026-11-02.md](../../reports/feedback-injection-campaign-2026-11-02.md)
 - **相關**：#82／#91／#85／#15（五次都是絆到才修）／FEEDBACK-TRIAGE-PIPELINE HG13
 
 **#98 真原子放錯槽位 — 來源命中不等於來源支持（named-entity-present-but-in-a-different-role）**（2026-09-20 twmd-distill-weekly 升 canonical，vc=3 三種載體，severity=structural；源 LESSONS `named-entity-present-but-in-a-different-role`）— 查核一條腳註撐不撐得起正文，最容易機械化的動作是拿正文的原子（人名、數字、事件）去來源頁搜。這個動作對「來源查無此物」有效，對本條這種錯剛好相反：它會回報命中，然後替錯誤蓋章。錯的從來不在原子本身，在原子跟槽位的配對。

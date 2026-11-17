@@ -22,10 +22,10 @@ lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:688354040345de96'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-09-23T12:31:30.042384+00:00'
+translatedAt: '2026-11-02T11:46:08.762303+00:00'
 ---
 
 > **Kurzüberblick (30 Sekunden)**: In den 42 Jahren nach dem Krieg (1945–1987) lebte die taiwanesische Literatur unter der Bedingung des „Nicht-Sagens“: Man durfte nicht Japanisch sprechen, man durfte über den 228er Vorfall nicht sprechen, man durfte nicht sagen, dass Taiwan etwas anderes als China sei, und man durfte nicht über das lokale Milieu schreiben. Dennoch lernte jede Generation von Schriftstellern auf unterschiedliche Weise, „wie man es sagt“. Ye Shi-tao ging von der leeren Seite von 1945 zur 232-seitigen „Geschichte der taiwanesischen Literatur“ von 1987, wobei er durch Sprachlosigkeit, drei Jahre Haft, über zehn Jahre Schweigen und die Schriften „Lokale Literatur Taiwans“ (1965) sowie „Ohne Land gibt es keine Literatur“ (1985) ging. Pai Hsien-yung las Kafka im Luftschutzbunker. Wang Wenxing verbrachte sieben Jahre mit dem Schreiben der beleidigten „Familienveränderung“. Lin Haiyin kündigte als stellvertretende Redakteurin wegen eines Gedichts. Yu Guangzhong rief in der Debatte um die lokale Literatur „Der Wolf ist da“ (狼來了). Li Ang zwang 1983 die Stadt Lin dazu, mit dem Schlachtermesser zu zerlegen. Was diese 42 Jahre hinterließen, war ein ganzes System verschwungener Sprache.
@@ -156,16 +156,16 @@ Die Dinge, die diese 42 Jahre hinterlassen hatten, würden nicht mit der Aufhebu
 
 Die nächste 42 Jahre würde jemand anderes schreiben.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Literatur in Taiwan nach der Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Die Blüte von Lokalität, Geschlecht und Muttersprachen zwischen 1987 und 2000
-- [Zeitgenössische Literatur aus Taiwan](/de/art/contemporary-taiwanese-literature) — Wu Mingyi internationalisiert im 21. Jahrhundert, Lin Yi-han und die digitale Welle
-- [Geschichte der Literatur in Taiwan](/de/art/history-of-taiwanese-literature) — Der Gesamtkontext von der niederländischen Herrschaft über die Qing-Dynastie, die japanische Kolonialzeit bis zur Gegenwart
-- [Literatur während der japanischen Kolonialzeit](/de/art/taiwanese-literature-during-japanese-rule) — Die Anfänge von Lai He, Lü Heruo, Chang Wen-huan und Yang Kui in der japanisch besetzten Zeit, ein anderer Pol des Nachkriegs-Schweigezustandes
-- [Lin Liang](/de/people/lin-liang-childrens-literature) — Gründerin der Kinderliteratur, die nach dem Krieg über das Meer nach Taiwan kam; ihre 57-jährige Tätigkeit für _Guoyu Ribao_ definierte den literarischen Ausgangspunkt für Generationen von Kindern in Taiwan nach dem Krieg
-- [Weiße Terrorherrschaft](/history/白色恐怖) — Der politische Hintergrund der Inhaftierung Ye Shi-tao, die Aktivitäten von Yang Kui auf Green Island und Lü Heruo in Lukou
-- [Der 228-Vorfall](/de/history/228-incident) — Die Schockwelle für die literarische Szene im Jahr 1947 (Wang Tian-deng, Yang Kui, Ye Tao)
-- [Die Zeit des Kriegsrechts](/de/history/martial-law-era) — Die politischen Bedingungen der literarischen Aktivitäten von 1949 bis 1987
+- [Taiwanesische Literatur nach Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — 1987 bis 2000: Explosion der Nativisierung, Gender-Themen und Muttersprachenvielfalt nach Aufhebung des Kriegsrechts
+- [Zeitgenössische taiwanesische Literatur](/de/art/contemporary-taiwanese-literature) — 21. Jahrhundert: Internationalisierung durch Wu Ming-yi, Lin Yi-han, digitale Welle
+- [Geschichte der taiwanesischen Literatur](/de/art/history-of-taiwanese-literature) — Gesamter Bogen von der niederländischen und der Ming-Qing-Zeit über die japanische Kolonialzeit und die Nachkriegszeit bis zur Gegenwart
+- [Literatur der japanischen Kolonialzeit](/de/art/taiwanese-literature-during-japanese-rule) — Der Ausgangspunkt unter japanischer Kolonialherrschaft mit Lai He, Lü He-ruo, Chang Wen-huan, Yang Kui — das andere Ende der nachkriegszeitlichen Sprachlosigkeit
+- [Lin Liang](/de/people/lin-liang-childrens-literature) — Begründer der Kinderliteratur, der nach dem Krieg nach Taiwan kam, 57 Jahre Karriere beim _Guoli Ribao_, die „Kunst der einfachen Sprache“ definierte den literarischen Ausgangspunkt für mehrere Generationen taiwanesischer Kinder nach dem Krieg
+- [Weißer Terror](/de/history/taiwan-white-terror) — Politischer Hintergrund: Ye Shi-taos Haft, Yang Kuis Verbannung nach Green Island, Lü He-ruos Schicksal am Lukou-Berg
+- [228-Vorfall](/de/history/228-incident) — Auswirkungen auf die Literaturszene 1947 (Wang Tian-deng, Yang Kui, Ye Tao)
+- [Kriegsrechtszeit](/de/history/martial-law-era) — Politische Rahmenbedingungen für literarische Aktivitäten 1949–1987
 
 ---
 

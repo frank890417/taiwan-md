@@ -2,9 +2,7 @@
 title: 'Vanished Amusement Parks: From the “First Park” to Ghost Legends, the Childhoods Confiscated by Urban Planning'
 description: 'In 1972, Taiwan’s first theme park, Datong Water Park, opened in Banqiao, inaugurating Taiwan’s two-decade “great amusement park era.” From the crowds that had Chen Zhaobing personally serving dishes, to the broken-track rumors surrounding Carton King-style Katori Amusement Park, the collective disappearance of these parks was not simply the result of aging facilities, but a microcosm of Taiwan’s urban expansion and the transformation of its leisure industry.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'Amusement Parks',
@@ -14,15 +12,19 @@ tags:
     'Katori Amusement Park',
     'Yage Garden',
   ]
-readingTime: 8
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/消失的遊樂園.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:66f6ef1e7d53c7c9'
-sourceBodyHash: 'sha256:67b3b53be583f748'
-translatedAt: '2026-06-02T00:39:59+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:7b31af80267ab366'
+sourceBodyHash: 'sha256:0f1dcfb20c9bc8d9'
+translatedAt: '2026-11-05T06:38:45.799485+00:00'
 ---
 
 > **30-Second Overview:**
@@ -50,16 +52,16 @@ Neighboring Katori Amusement Park remained in public memory in a more intense wa
 
 📝 **Curator’s Note:** The death of an amusement park is often accompanied by a certain “reversal of sacredness.” Places that once held the loudest laughter, after the power is cut and weeds take over, become projections of the deepest fears.
 
-## Confiscated Childhoods: Why Did the Parks Disappear Together?
+## A Confiscated Childhood: Why Did the Amusement Parks Vanish En Masse?
 
-Consider the list of disappeared parks: Taipei’s Mingde Amusement Park, Asia World near Shimen Reservoir, Wuzhi Amusement Park in Tainan, and Taiwan Folk Village in Changhua [^3]. Behind the disappearance of these parks were highly similar structural causes:
+Counting the vanished: Taipei's Mingde Amusement Park, Shimen Reservoir Asia Amusement Park, Tainan's Wuzhi Amusement Park, Changhua's Taiwan Folk Village [^3]. Behind the disappearance of these parks lie strikingly similar structural causes:
 
-| Cause of Disappearance                            | Specific Impact                                                                                                                                                                                                                                                          |
-| :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Urban Planning and Regulations**                | Many early amusement parks were located in river catchment areas or on land reserved for parks, which prevented facilities from being updated and eventually led to expropriation.                                                                                       |
-| **Shifts in Market Competition**                  | After the 1990s, large corporate operators known as the “three mountains and one village,” meaning Janfusun Fancyworld, Leofoo Village, Formosan Aboriginal Culture Village, and Window on China, rose to prominence, leaving traditional local parks unable to compete. |
-| **Natural Disasters and the Broader Environment** | The 1999 Jiji earthquake severely damaged tourism in central Taiwan. Visitor numbers at Yage Garden, Katori, and other parks fell sharply, becoming the last straw that led to closure.                                                                                  |
-| **Opening of Overseas Tourism**                   | As tourism was opened in 1979, Taiwanese people’s horizons shifted toward Disney and Universal Studios, while local amusement parks became relatively less attractive.                                                                                                   |
+| Cause of Disappearance                            | Specific Impact                                                                                                                                                                                                                                        |
+| :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Urban Planning and Regulations**                | Many early parks were located in river catchment areas or designated park land, preventing facility upgrades and ultimately leading to expropriation.                                                                                                  |
+| **Shift in Market Competition**                   | After the 1990s, the "Three Mountains, One Village" (Janfusun Fancyworld, Leofoo Village, Formosan Aboriginal Culture Village, Window on China) operated by large conglomerates rose to prominence, leaving traditional local parks unable to compete. |
+| **Natural Disasters and the Broader Environment** | The 1999 921 Earthquake dealt a severe blow to central Taiwan's tourism industry; parks such as Ago Garden and Katori Amusement Park saw visitor numbers plummet, becoming the final straw that forced their closure.                                  |
+| **Opening of Outbound Travel**                    | With the opening of outbound tourism in 1979, Taiwanese travelers turned their sights to Disney and Universal Studios, and the appeal of domestic parks relatively declined.                                                                           |
 
 ## Aftertones: Rebuilding Memory on the Ruins
 
@@ -73,16 +75,16 @@ Taiwan’s disappeared amusement parks are not wounds in Taiwanese culture, but 
 
 ## References
 
-[^1]: [Taiwan’s First Theme Park: Looking Back on the Beautiful Memories of Datong Water Park](https://time.udn.com/udntime/story/122835/5701671) — UDN Time: A detailed account of Datong Water Park’s founding process and revenue figures.
+[^1]: [Taiwan's First Theme Park: Recalling the Fond Memories of Datong Water Park](https://time.udn.com/udntime/story/122835/5701671) — Report Time: Detailed account of the founding process and revenue figures of Datong Water Park.
 
-[^2]: [The Filming Location of CTS’s Classic Outdoor Program: Yage Garden’s Special Status](https://udn.com/news/story/120910/6486512) — United Daily News: A retrospective on the connection between Yage Garden and _The Ultimate Challenge_.
+[^2]: [Filming Location of CTV's Classic Outdoor Show: The Special Status of Yage Garden](https://udn.com/news/story/120910/6486512) — United Daily News: Recalling the connection between Yage Garden and 'Hundred Battles, Hundred Victories'.
 
-[^3]: [Are the Amusement Parks We Visited as Children Still There? Ten Disappeared Parks in Taiwan](https://www.storm.mg/lifestyle/141341) — The Storm Media: An inventory of Taiwan’s major disappeared amusement parks and their current status.
+[^3]: [The Amusement Parks We Visited as Children: Are They Still Here? 10 Disappeared Amusement Parks in Taiwan](https://www.storm.mg/lifestyle/141341) — Storm Media: Inventory of major disappeared amusement parks across Taiwan and their current status.
 
-[^4]: [Disappeared Amusement Parks - Time Travel Agency](https://curation.culture.tw/curation/public?id=1145) — Taiwan Cultural Memory Bank: Provides rich then-and-now comparisons and information on department-store rooftop amusement parks.
+[^4]: [Disappeared Amusement Parks - Time Travel Agency](https://curation.culture.tw/curation/public?id=1145) — National Cultural Memory Bank: Provides rich then-and-now comparisons and data on department store rooftop amusement parks.
 
-[^5]: [Supernatural Rumors Spread After Closure: Katori Amusement Park, Once Famous for Its Roller Coaster](https://time.udn.com/udntime/story/122835/7007866) — UDN Time: Clarifies the reasons for Katori Amusement Park’s closure and the supernatural rumors surrounding it.
+[^5]: [Frequent Ghost Rumors After Closure! The Kadori Amusement Park Once Famous for Its Roller Coaster](https://time.udn.com/udntime/story/122835/7007866) — Report Time: Clarifying the reasons for Kadori Park's closure and the ghost rumors.
 
-[^6]: [The Terrifying Abandoned Taichung Amusement Park No One Dared Visit: He Transformed It into a Racetrack for a Childhood Dream](https://www.storm.mg/article/405013) — The Storm Media: Reports the story of Yage Garden’s transformation into a racetrack.
+[^6]: [Taichung's Haunted Abandoned Amusement Park No One Dares Visit: He Transformed It into a Racetrack for His Childhood Dream](https://www.storm.mg/article/405013) — Storm Media: Reporting the story of Yage Garden's transformation into a racetrack.
 
-[^7]: [Taiwan’s Amusement-Park Pioneer Was a Cash Machine: Datong Water Park “Recovered Its Investment in Half a Year”](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News: Data on Datong Water Park’s early investment and recovery of costs.
+[^7]: [The Ancestor of All Taiwanese Amusement Parks, Super Profitable: Datong Water Park 'Broke Even in Half a Year'](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News: Data on Datong Water Park's early investment and break-even.

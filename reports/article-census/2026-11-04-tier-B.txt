@@ -1,0 +1,5 @@
+# article-census 2026-11-04 — B 級：已標 🌱 但可能已夠好（人審轉正候選，本次不動）
+# 產生：python3 scripts/tools/article-census.py --tier B（規則見 lib/article_health/census.py）
+# 2 篇
+knowledge/Art/馬祖國際藝術島.md
+knowledge/Nature/台灣黑熊.md

@@ -2,9 +2,7 @@
 title: "'소우렴: 유영전의 후광 뒤에서 수성을 맡은 인물, 그리고 타이베이 성도(省會)의 실제 정착'"
 description: "그는 역사 속에서 '신정(新政)을 끝낸' 죄인으로 기록되어야 하는가, 아니면 청대 타이완에서 가장 실무적인 재정의 문지기였는가? 유영전이 대규모 토목사업을 벌인 뒤를 이어, 소우렴은 극도로 궁핍한 재정 속에서 타이베이에서 신주까지의 철도를 완성하고 타이완의 성도(省會)를 공식적으로 타이베이에 정착시켰다. 또한 후대에 풀기 어려운 논쟁 하나를 남겼다. 수성이란 과연 퇴보인가, 아니면 현실에 더 가까운 또 다른 형태의 통치인가."
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     '청치 시기',
@@ -16,15 +14,19 @@ tags:
     '일리 조약',
     '이홍장',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T22:00:22.373884+00:00'
 ---
 
 > **30초 개관:** 1891년, 초대 타이완 순무 유영전은 병으로 직을 떠나며 현대화의 꿈으로 가득했지만 재정 적자에 시달리는 타이완을 남겼다. 후임자 소우렴은 흔히 “신정을 모두 폐지한” 보수파로 묘사되지만, 실제로 그는 푸젠의 협향(協餉) 지원이 끊긴 극한의 환경에서 타이베이-신주 구간 철도 운행을 완성했고, 1894년 성도(省會)를 공식적으로 타이베이로 옮겼다. 《일리 조약》 협상에 참여했고 이홍장 집안과 사돈 관계였던 이 외교관은 실무적인 관료 수완으로 이후 백 년 동안 타이완의 정치·경제 중심이 놓일 기본 방향을 정했다.
@@ -79,44 +81,44 @@ translatedAt: '2026-06-17T00:36:20+08:00'
 
 ### 참고 자료
 
-[^1]: 롄헝, 《타이완통사·도지지》, [타이완은행 경제연구실 편](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711).
+[^1]: [타이완은행 경제연구실 편](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — 롄헝, 《타이완통사·도지지》.
 
-[^2]: 셰지캉, 〈소우렴의 타이완 방무에 관한 검토(1891년-1894년): 양무 건설 등을 예로〉, 《난카이학보》, [제8권 제2기, 2011년](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf).
+[^2]: [제8권 제2기, 2011년](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — 셰지캉, 〈소우렴의 타이완 방무에 관한 검토(1891년-1894년): 양무 건설 등을 예로〉, 《난카이학보》.
 
-[^3]: 쉬쉐지, 〈소우렴과 자강 신정〉, 《청계 자강운동 연구토론회 논문》 수록, [중앙연구원 근대사연구소](https://www.mh.sinica.edu.tw/Default.aspx).
+[^3]: [중앙연구원 근대사연구소](https://www.mh.sinica.edu.tw/Default.aspx) — 쉬쉐지, 〈소우렴과 자강 신정〉, 《청계 자강운동 연구토론회 논문》 수록.
 
-[^4]: 국가도서관, 《타이완 기억》 시스템, [“소우렴” 항목](https://tm.ncl.edu.tw/).
+[^4]: [“소우렴” 항목](https://tm.ncl.edu.tw/) — 국가도서관, 《타이완 기억》 시스템.
 
-[^5]: 궈팅이, 《타이완 사사 개설》, [정중서국, 1984년](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ).
+[^5]: [정중서국, 1984년](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — 궈팅이, 《타이완 사사 개설》.
 
-[^6]: 전지식, 〈타이베이부〉, [역사 문헌 자료 인용](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735).
+[^6]: [역사 문헌 자료 인용](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — 전지식, 〈타이베이부〉.
 
-[^7]: 한린 클라우드 학원, 〈중학교 역사: 소우렴〉, [핵심어 학습](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html).
+[^7]: [핵심어 학습](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — 한린 클라우드 학원, 〈중학교 역사: 소우렴〉.
 
-[^8]: 양펑페이, 〈청대 타이완 기차역에 관하여〉, 《관찰잡지》, [제22기, 2015년 6월](http://www.observer-taipei.com/article.php?id=712).
+[^8]: [제22기, 2015년 6월](http://www.observer-taipei.com/article.php?id=712) — 양펑페이, 〈청대 타이완 기차역에 관하여〉, 《관찰잡지》.
 
-[^9]: 청계 타이완 양무 사료, 〈타이완 순무 소우렴이 타이완 철도를 신주에 이르러 일시 정지하겠다고 주보한 문서〉, [광서 18년](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99).
+[^9]: [광서 18년](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — 청계 타이완 양무 사료, 〈타이완 순무 소우렴이 타이완 철도를 신주에 이르러 일시 정지하겠다고 주보한 문서〉.
 
-[^10]: 와타나베 게이노신, 《타이완 철도 독본》, 황더펑 역, [국사관 타이완문헌관](https://www.th.gov.tw/).
+[^10]: [국사관 타이완문헌관](https://www.th.gov.tw/) — 와타나베 게이노신, 《타이완 철도 독본》, 황더펑 역.
 
-[^11]: 왕이푸, 〈말임 타이완 순무〉, 《China Daily》, [2023년 2월 2일](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html).
+[^11]: [2023년 2월 2일](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — 왕이푸, 〈말임 타이완 순무〉, 《China Daily》.
 
-[^12]: 위키백과, [〈소우렴〉 항목](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82).
+[^12]: [〈소우렴〉 항목](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — 자세한 내용은 링크된 원문 참조.
 
-[^13]: 위키백과, [〈소찬〉 항목](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF).
+[^13]: [〈소찬〉 항목](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — 자세한 내용은 링크된 원문 참조.
 
-[^14]: 메이시거의 행복한 생활, [〈꿈은 셰차오에서 끊기다: 셰차오 소부 5대 전기〉](https://www.yuleshow.com/?p=448).
+[^14]: [〈꿈은 셰차오에서 끊기다: 셰차오 소부 5대 전기〉](https://www.yuleshow.com/?p=448) — 메이시거의 행복한 생활.
 
-[^15]: 고궁박물원, [〈소순미〉 인물 소개](https://www.dpm.org.cn/lemmas/241167.html).
+[^15]: [〈소순미〉 인물 소개](https://www.dpm.org.cn/lemmas/241167.html) — 자세한 내용은 링크된 원문 참조.
 
-[^16]: 위키백과, [〈일리 조약〉 항목](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84).
+[^16]: [〈일리 조약〉 항목](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — 자세한 내용은 링크된 원문 참조.
 
-[^17]: 리양판, 〈증기택: 비로소 곤륜에 따로 산이 있음을 믿다〉, 《세계지식》 수록, [2006년](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf).
+[^17]: [2006년](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — 리양판, 〈증기택: 비로소 곤륜에 따로 산이 있음을 믿다〉, 《세계지식》 수록.
 
-[^18]: 타이베이시 문화국, [〈타이베이성과 소우렴〉](https://culture.gov.taipei/).
+[^18]: [〈타이베이성과 소우렴〉](https://culture.gov.taipei/) — 타이베이시 문화국.
 
-[^19]: 위키백과, [〈타이베이 기기국〉 항목](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80).
+[^19]: [〈타이베이 기기국〉 항목](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — 자세한 내용은 링크된 원문 참조.
 
-[^20]: 초상국 데이터베이스, [〈히로시마 회담과 전권 부족〉](http://1872.cmhk.com/ziliaoku/5110.html).
+[^20]: [〈히로시마 회담과 전권 부족〉](http://1872.cmhk.com/ziliaoku/5110.html) — 초상국 데이터베이스.
 
-[^21]: 텐센트 뉴스, [〈히로시마 사절 거부: 청일전쟁의 전운 아래 천조의 환상이 진정으로 깨지다〉](https://view.inews.qq.com/k/20260508A01P7U00).
+[^21]: [〈히로시마 사절 거부: 청일전쟁의 전운 아래 천조의 환상이 진정으로 깨지다〉](https://view.inews.qq.com/k/20260508A01P7U00) — 텐센트 뉴스. (자세한 내용은 링크된 원문 참조)

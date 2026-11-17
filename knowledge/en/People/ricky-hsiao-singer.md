@@ -1,25 +1,29 @@
 ---
 title: "Ricky Hsiao: Twice Blind, Yet with His 'Eyes for No One' Humor He Fell His Way to a Golden Melody Award"
 description: "Born in 1976, Taiwanese singer-songwriter Ricky Hsiao lost his sight twice due to congenital cataracts. He is not only a four-time Golden Melody Award winner for Best Taiwanese Male Singer, but was also a national judo bronze medalist at the Asian Para Games. He pioneered a professional path for visually impaired musicians by founding the Life Line Band, and in recent years has used self-deprecating 'dark humor' to flip the stereotyped images people project onto those with disabilities — becoming a legendary figure in the Mandopop world."
-category: People
-subcategory: '音樂與表演'
-tags:
-  - 'Ricky Hsiao'
-  - 'Life Line Band'
-  - 'Golden Melody Awards'
-  - 'Para Games Judo'
-  - 'Dark Humor'
-author: 'Taiwan.md Contributors'
 date: 2026-04-19
-readingTime: 12
+category: 'People'
+tags:
+  [
+    'Ricky Hsiao',
+    'Life Line Band',
+    'Golden Melody Awards',
+    'Para Games Judo',
+    'Dark Humor',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-05-01T12:53:58+08:00'
-featured: false
+translatedAt: '2026-11-04T22:13:41.417782+00:00'
 ---
 
 > Born in Banciao in 1976, Ricky Hsiao's life trajectory is one of two encounters with darkness. Congenital cataracts meant he was born completely blind; surgery at age 4 restored limited vision, but a complication of glaucoma at 15 took away the light again[^1]. Yet that "inability to see" did not lead him toward tragedy — instead it made him the most life-resilient figure in Taiwan's music world. He is not only the first person to win the Golden Melody Award for Best Taiwanese Male Singer four times, but was also a judo national athlete representing Taiwan at the Para Games.

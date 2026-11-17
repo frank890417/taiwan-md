@@ -1,20 +1,23 @@
 ---
-title: '中元節：從安撫孤魂的恐懼，到一座島嶼的集體和解'
-description: '中元節在台灣不只是對鬼魂的敬畏，更是一段關於拓墾、衝突與族群融合的生存紀錄。從基隆的血淚和解到頭城的極限搶孤，這場祭典揭示了台灣人如何將恐懼轉化為社會的和平條約。'
+title: '中元節：孤魂を鎮める恐れから、一島の集団的和解へ'
+description: '台湾における中元節は、単なる幽霊への畏敬ではなく、開墾・衝突・民族融合の生存記録でもある。基隆の血と涙の和解から頭城の極限の搶孤まで、この祭典は台湾人がいかに恐怖を社会の平和条約へと転換させたかを明らかにする。'
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
+tags: ['中元施食', '基隆中元祭', '搶孤', '台湾の民俗', '歴史']
 subcategory: '節慶與禮俗'
-tags: ['中元普渡', '基隆中元祭', '搶孤', '台灣民俗', '歷史']
-readingTime: 8
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-05T07:15:13.329120+00:00'
 ---
 
 > **30秒でわかる要点：** 台湾の中元節は単なる宗教儀式ではなく、百年以上続く「社会平和条約」である。初期の開墾の過酷さと族群間の流血の紛争は、先住民たちに「頭を殴り合う代わりに賽陣頭（陣頭芸の競演）で争う」という競争機制を生み出させた。この祭典は、異郷で亡くなった「外人」を「好兄弟（よい兄弟）」として扱い、台湾特有の移民への憐れみとコミュニティの結束力を体現している。

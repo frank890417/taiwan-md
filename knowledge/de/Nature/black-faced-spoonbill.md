@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/黑面琵鷺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T18:41:51.671479+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Der Schwarzflammenreiher war einst eine gefährdete Art mit weniger als 300 Exemplaren weltweit. Nach dreißig Jahren grenzüberschreitender Anstrengung hat die Zahl nun 7.000 Tiere überschritten, wovon über sechzig Prozent in Taiwan überwintern. Dies ist ein Paradebeispiel für einen erfolgreichen Naturschutz, doch mit zunehmender Zahl sind diese Gäste gezwungen, Kernschutzgebiete zu verlassen und nach einem sicheren Lebensraum zwischen Solarmodulen, freilaufenden Hunden und tödlichem Botulismus zu suchen.

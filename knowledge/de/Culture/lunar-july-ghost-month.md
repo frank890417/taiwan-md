@@ -20,11 +20,13 @@ lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 25
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-05T14:27:59.063526+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Der chinesische Neumondmonat, was die Taiwanesen den „Spukmonat" nennen, hat seine wahre Bedeutung nicht im Schrecken vor Geistern, sondern in einem mehrhundertjährigen Übungsprogramm des Zusammenlebens. Vom Mitternachts-Öffnen der „Tiger-Tür" im Stadttempel in Hsinchu bis zum Wettbewerb des „Schutzes der Einsamen" in Toucheng vor dem Schreckenreich, verwandelt Taiwan diesen Glauben in eine kulturell geprägte Feier. In diesem Artikel tauchen wir ein in das Licht der Häuserküste, den Schweiß der einsamen Hütten und jene Verboten, die in unsere DNA eingeschrieben sind. Wir enthüllen die politische Inszenierung, die möglicherweise auf die Ming-Dynastie zurückgeht, und verstehen, wie diese Insel mit der Weisheit „Herzlich willkommen, aber nicht zum Bleiben" eine Versöhnung jenseits von Zeit und Raum erreicht.

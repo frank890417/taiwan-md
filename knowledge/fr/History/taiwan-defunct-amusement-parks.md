@@ -2,9 +2,7 @@
 title: "Parcs d'attractions disparus : du « premier parc » aux légendes de fantômes, ces enfances confisquées par l'urbanisme"
 description: "En 1972, le premier parc à thème de Taïwan, le « Datong Water Park », ouvrait à Banqiao, inaugurant deux décennies de « grande époque des parcs d'attractions » à Taïwan. De l'affluence qui obligea Chen Zhaobing à servir lui-même les clients, aux rumeurs de rails rompus au parc Katoli, la disparition collective de ces parcs ne tient pas seulement au vieillissement des installations : elle condense l'expansion urbaine de Taïwan et la transformation de son industrie des loisirs."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     "parcs d'attractions",
@@ -14,15 +12,19 @@ tags:
     'parc Katoli',
     'jardin Yago',
   ]
-readingTime: 8
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/消失的遊樂園.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:66f6ef1e7d53c7c9'
-sourceBodyHash: 'sha256:67b3b53be583f748'
-translatedAt: '2026-06-02T00:40:00+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:7b31af80267ab366'
+sourceBodyHash: 'sha256:0f1dcfb20c9bc8d9'
+translatedAt: '2026-11-05T05:44:05.673929+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :**
@@ -50,16 +52,16 @@ Le parc Katoli, voisin, resta quant à lui dans les mémoires de manière plus i
 
 📝 **Note curatoriale :** La mort d’un parc d’attractions s’accompagne souvent d’une forme de « renversement du sacré ». Le lieu qui concentrait autrefois les rires les plus sonores devient, une fois le courant coupé et les herbes folles installées, la projection des peurs les plus profondes.
 
-## Une enfance confisquée : pourquoi les parcs ont-ils disparu collectivement ?
+## L'enfance confisquée : pourquoi les parcs ont-ils disparu collectivement ?
 
-Énumérons la liste des disparus : le parc Mingde à Taipei, l’Asian Paradise du réservoir de Shimen, le parc Wuzhi à Tainan, le Taiwan Folk Village à Changhua [^3]. Derrière leur disparition se trouvent des causes structurelles extrêmement similaires :
+Passons en revue la liste des disparus : Taipei Mingde Amusement Park, Shimen Reservoir Asia Amusement Park, Tainan Wuzhi Amusement Park, Changhua Taiwan Folk Village [^3]. Derrière la disparition de ces parcs se cachent des causes structurelles extrêmement similaires :
 
-| Cause de disparition                            | Effets concrets                                                                                                                                                                                                                                                      |
-| :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Urbanisme et réglementation**                 | De nombreux premiers parcs se situaient dans des bassins versants ou sur des terrains réservés à de futurs parcs publics, ce qui empêcha la modernisation des installations et mena finalement à leur expropriation.                                                 |
-| **Mutation de la concurrence de marché**        | Après les années 1990, les « trois montagnes et un village » gérés par de grands groupes, Janfusun Fancyworld, Leofoo Village, Formosan Aboriginal Culture Village et Window on China, prirent leur essor ; les parcs locaux traditionnels ne purent plus rivaliser. |
-| **Catastrophes naturelles et contexte général** | Le séisme du 21 septembre 1999 frappa durement le tourisme du centre de Taïwan ; la fréquentation de parcs comme Yago et Katoli chuta fortement, devenant la dernière étape avant la fermeture.                                                                      |
-| **Ouverture du tourisme à l’étranger**          | Après l’ouverture au tourisme en 1979, le regard des Taïwanais se tourna vers Disney et Universal Studios, réduisant relativement l’attrait des parcs locaux.                                                                                                        |
+| Causes de la disparition                        | Impact concret                                                                                                                                                                                                                                       |
+| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planification urbaine et réglementation**     | De nombreux parcs précoces étaient situés dans des zones de captage fluvial ou des terrains réservés pour des parcs, ce qui empêchait la mise à jour des installations et a conduit à leur expropriation finale.                                     |
+| **Tournant de la concurrence sur le marché**    | Après les années 1990, les « trois montagnes et un village » (Jianhushan, Leofoo Village, Formosan Aboriginal Culture Village, Window on China) exploités par de grands groupes ont émergé, les parcs locaux traditionnels ne pouvant pas rivaliser. |
+| **Catastrophes naturelles et contexte général** | Le séisme du 21 septembre 1999 a durement frappé le tourisme du centre de Taïwan, les parcs comme Yago Garden et Katoli ont vu leur fréquentation chuter drastiquement, devenant le coup de grâce.                                                   |
+| **Ouverture du tourisme à l'étranger**          | Avec l'ouverture du tourisme en 1979, les Taïwanais se sont tournés vers Disneyland et Universal Studios, l'attrait des parcs locaux déclinant relativement.                                                                                         |
 
 ## Rémanences : reconstruire les souvenirs sur les ruines
 
@@ -73,16 +75,16 @@ Les parcs d’attractions disparus ne sont pas une cicatrice de la culture taïw
 
 ## Références
 
-[^1]: [Le premier parc à thème de Taïwan : retour sur les beaux souvenirs du Datong Water Park](https://time.udn.com/udntime/story/122835/5701671) — UDN Time : récit détaillé de la fondation du Datong Water Park et de ses chiffres de recettes.
+[^1]: [Le premier parc à thème de Taïwan : retour sur les beaux souvenirs du parc aquatique Datong](https://time.udn.com/udntime/story/122835/5701671) — Report Time : relate en détail le processus de fondation et les chiffres de revenus du parc aquatique Datong.
 
-[^2]: [Lieu de tournage d’une émission extérieure classique de CTS : la place particulière du jardin Yago](https://udn.com/news/story/120910/6486512) — United Daily News : retour sur les liens entre le jardin Yago et _Baizhan Baisheng_.
+[^2]: [Lieu de tournage de l'émission classique en extérieur de CTV : le statut particulier du jardin Yage](https://udn.com/news/story/120910/6486512) — United Daily News : retour sur l'association entre le jardin Yage et « Bai Zhan Bai Sheng ».
 
-[^3]: [Les parcs d’attractions visités dans l’enfance existent-ils encore ? Dix parcs disparus de Taïwan](https://www.storm.mg/lifestyle/141341) — The Storm Media : inventaire des principaux parcs disparus de Taïwan et de leur état actuel.
+[^3]: [Les parcs d'attractions de notre enfance : sont-ils encore là ? 10 parcs disparus de Taïwan](https://www.storm.mg/lifestyle/141341) — Storm Media : inventaire des principaux parcs disparus de Taïwan et de leur situation actuelle.
 
-[^4]: [Parcs d’attractions disparus - Agence de voyage spatio-temporel](https://curation.culture.tw/curation/public?id=1145) — Banque nationale de la mémoire culturelle : riches comparaisons entre passé et présent, ainsi que données sur les parcs aériens de grands magasins.
+[^4]: [Parcs d'attractions disparus - Agence de voyage dans le temps](https://curation.culture.tw/curation/public?id=1145) — Banque nationale de la mémoire culturelle : fournit de riches comparaisons passé-présent et des données sur les parcs d'attractions sur les toits des grands magasins.
 
-[^5]: [Après sa fermeture, les rumeurs surnaturelles se multiplient ! Le parc Katoli, autrefois célèbre pour son grand huit](https://time.udn.com/udntime/story/122835/7007866) — UDN Time : clarification des causes de la fermeture du parc Katoli et des rumeurs surnaturelles.
+[^5]: [Après sa fermeture, de nombreuses rumeurs surnaturelles ont circulé ! Le parc d'attractions Kadoorie, autrefois célèbre pour ses montagnes russes](https://time.udn.com/udntime/story/122835/7007866) — Report Time : clarifie les raisons de la fermeture du parc Kadoorie et les rumeurs surnaturelles.
 
-[^6]: [Ce parc d’attractions abandonné et terrifiant de Taichung où personne n’osait aller : il l’a transformé en circuit automobile pour réaliser son rêve d’enfance](https://www.storm.mg/article/405013) — The Storm Media : reportage sur la transformation du jardin Yago en circuit automobile.
+[^6]: [Le parc d'attractions abandonné et hanté de Taichung où personne n'ose aller : il l'a transformé en circuit de course pour réaliser son rêve d'enfance](https://www.storm.mg/article/405013) — Storm Media : rapporte l'histoire de la transformation du jardin Yage en circuit de course.
 
-[^7]: [L’ancêtre des parcs taïwanais, extrêmement rentable : le Datong Water Park « récupéra son investissement en six mois »](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News : données sur l’investissement initial et le retour sur investissement du Datong Water Park.
+[^7]: [L'ancêtre des parcs de Taïwan, une machine à cash : le parc aquatique Datong « rentabilisé en six mois »](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News : données sur l'investissement initial et le retour sur investissement du parc aquatique Datong.

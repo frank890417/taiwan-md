@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:01:31+08:00'
+translatedAt: '2026-11-04T18:05:37.185610+00:00'
 ---
 
 > **30 秒概要：** 2026 年の台湾では、26 人に 1 人が国際移住労働者です。総数は 87.3 万人に上り、約 9.4 万人の行方不明移住労働者を加えると、この異郷の人々は台湾の常住人口の 5% 以上を占めます。台北駅大ホールの配信文化から、移住労働者大行進における「就労年限撤廃」の訴え、そして 2026 年 4 月に署名数が 4 万人を突破した「インド人移住労働者反対」の波まで、台湾は深刻な労働力不足と社会共生への不安の岐路に立っています。これは単なる労働政策ではなく、台湾がいかに「私たち」を定義するかという集団的試練なのです。

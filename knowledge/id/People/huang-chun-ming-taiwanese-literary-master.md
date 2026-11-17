@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:67504d464a04b735'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:fa94afa39f837939'
 sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-08-04T04:31:47.828279+00:00'
+translatedAt: '2026-11-04T22:01:13.998515+00:00'
 ---
 
 # Huang Chun-ming: Luodong 1935, Penulis Tokoh Kecil dari _Hari-hari Melihat Laut_ ke _Boneka Besar Anakku_

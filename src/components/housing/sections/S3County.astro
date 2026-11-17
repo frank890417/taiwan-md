@@ -1,0 +1,137 @@
+---
+/**
+ * S3County — 第 3 節：各縣市房貸負擔率排序條，底帶是內政部四級分級（30／40／50%），虛線是全國值。
+ * 圖：RankBands，資料表 affordability / affordability-by-county-2026Q1；分級門檻讀 affordability.json 的 bands。
+ */
+import RankBands from '../charts/RankBands.astro';
+import RelatedChips from './RelatedChips.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { BAND_LEVELS } from '../../../utils/housing/home-facts';
+import { relatedList } from '../../../utils/housing/related';
+import { QINGAN_COUNTIES } from '../../../utils/housing/tool-models';
+import {
+  DATA,
+  fmtPeriod,
+  getTable,
+  srcOfTable,
+} from '../../../utils/housing/data';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s3;
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+const tbl = getTable('affordability', 'affordability-by-county-2026Q1');
+const nameOf = (r: any) => r.name[L] ?? r.name.en ?? r.name.zh;
+const nat = tbl.rows.find((r: any) => r.key === '全國');
+const counties = tbl.rows.filter((r: any) => r.key !== '全國');
+const sorted = [...counties].sort(
+  (a: any, b: any) => b.burdenPct - a.burdenPct,
+);
+const hi = sorted[0];
+const lo = sorted[sorted.length - 1];
+// 缺的縣市：22 縣市名單對官方表；英文名取自低度使用表（同樣 22 縣市）
+const enOfZh: Record<string, string> = {};
+for (const r of getTable('vacancy', 'low-use-by-county-2025H2').rows)
+  enOfZh[r.key] = r.name.en;
+const have = new Set(counties.map((r: any) => r.key));
+const missingKeys = QINGAN_COUNTIES.filter((c) => !have.has(c));
+const missing = missingKeys.map((k) => (zh ? k : (enOfZh[k] ?? k))).join(S.sep);
+
+// 分級：由低到高 affordable → slightlyLow → low → veryLow
+const lv = (id: string) => BAND_LEVELS.find((b) => b.id === id)!;
+const labelOf = (id: string) => (zh ? lv(id).label.zh : lv(id).label.en);
+const b1 = lv('affordable').max as number;
+const b2 = lv('slightly-low').max as number;
+const b3 = lv('low').max as number;
+const bands = [
+  { from: 0, to: b1, label: labelOf('affordable'), level: 0 },
+  { from: b1, to: b2, label: labelOf('slightly-low'), level: 1 },
+  { from: b2, to: b3, label: labelOf('low'), level: 2 },
+  { from: b3, to: null, label: labelOf('very-low'), level: 3 },
+];
+const highNames = counties
+  .filter((r: any) => r.burdenPct >= b3)
+  .map(nameOf)
+  .join(S.sep);
+const lowNames = counties
+  .filter((r: any) => r.burdenPct < b1)
+  .map(nameOf)
+  .join(S.sep);
+const nHigh = counties.filter((r: any) => r.burdenPct >= b3).length;
+const nLow = counties.filter((r: any) => r.burdenPct < b1).length;
+const small = counties.filter((r: any) => r.smallSample);
+const rows = sorted.map((r: any) => ({
+  id: r.key,
+  label: nameOf(r),
+  v: r.burdenPct as number,
+  highlight: r === hi || r === lo,
+  flag: r.smallSample ? '＊' : '',
+  note: r.smallSample
+    ? zh
+      ? '樣本少於 100 筆'
+      : 'fewer than 100 sales'
+    : undefined,
+}));
+const fx: any = DATA.fixtures.officialAffordability;
+const vars = {
+  n: counties.length,
+  minName: nameOf(lo),
+  minPct: lo.burdenPct.toFixed(0),
+  maxName: nameOf(hi),
+  maxPct: hi.burdenPct.toFixed(0),
+  period: fmtPeriod(tbl.period ?? '', lang),
+  b1,
+  b2,
+  b3,
+  l0: labelOf('affordable'),
+  l1: labelOf('slightly-low'),
+  l2: labelOf('low'),
+  l3: labelOf('very-low'),
+  nHigh,
+  nLow,
+  highNames,
+  lowNames,
+  smallNames: small.map(nameOf).join(S.sep),
+  missing,
+  years: fx.years,
+  ltv: zh ? String(Math.round(fx.ltv * 10)) : `${Math.round(fx.ltv * 100)}%`,
+};
+const rel = await relatedList(lang, [
+  ['Geography', '用數據看台灣22縣市'],
+  ['Geography', '台灣都市發展與城鄉差距'],
+]);
+const toolHref = `${localizePath('/housing/tools/', lang)}#affordability-check`;
+---
+
+<section class="hs-section" id="county">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <RankBands
+      title={fill(S.chartTitle, vars)}
+      subtitle={S.chartSub}
+      lang={lang}
+      rows={rows}
+      sources={[srcOfTable(tbl)]}
+      unit="%"
+      digits={2}
+      bands={bands}
+      refLine={{ v: nat.burdenPct, label: S.refLabel }}
+      xMax={70}
+      valueHeader={S.valueHeader}
+      itemHeader={T.ui.item}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.p1, vars)}</p>
+      <p>{fill(S.p2, vars)}</p>
+      <p>{S.toolLead}<a href={toolHref}>{S.toolLink}</a></p>
+    </div>
+    <RelatedChips lang={lang} cards={rel} />
+  </div>
+</section>

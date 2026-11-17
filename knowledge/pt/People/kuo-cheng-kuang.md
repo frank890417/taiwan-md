@@ -2,9 +2,7 @@
 title: 'Mike Kuo'
 description: 'Ele é cientista sênior no Centro Espacial Johnson da NASA em Houston, especializado no que os astronautas comem e bebem; mas nos arquivos de sua terra natal, Taiwan, ele já figurou em uma lista negra de "terroristas".'
 date: 2026-04-06
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與研究'
 tags:
   [
     'Mike Kuo',
@@ -13,15 +11,19 @@ tags:
     'lista negra',
     'movimento democrático de Taiwan',
   ]
-readingTime: 7
+subcategory: '科學與研究'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-04T23:14:45.006914+00:00'
 ---
 
 # Mike Kuo

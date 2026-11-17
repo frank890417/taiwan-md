@@ -2,18 +2,20 @@
 title: '陳澄波'
 description: '彼は油絵で東京の帝展を制したにもかかわらず、嘉義駅前で銃殺された。そして世に知らしめたのは、しばしば死であって、あの絵画ではなかった。'
 date: 2026-03-31
-tags: [芸術, 絵画, 二二八, 嘉義, 日本統治時代]
+category: 'People'
+tags: ['芸術', '絵画', '二二八', '嘉義', '日本統治時代']
 subcategory: '藝術家'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
-translatedFrom: People/陳澄波.md
-sourceCommitSha: '4b6d28c54'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/陳澄波.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-05-16T22:19:52+00:00'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-04T21:48:50.218766+00:00'
 ---
 
 > **30 秒でわかる概要：** 1947 年 3 月 25 日、嘉義駅前で、絵筆を手にする人物が両手を針金で縛られ、公開銃殺された。その人物は陳澄波。台湾人として初めて油絵で日本の帝展に入選した人物であり、二二八事件（じゅうにじゅうはちじけん）の中で交渉に向かいながら二度と戻らなかった人物である。

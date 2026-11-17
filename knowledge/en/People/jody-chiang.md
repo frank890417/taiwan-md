@@ -1,15 +1,15 @@
 ---
-title: 'Jody Chiang: The Taiwanese Pop Queen from Beitou Nakasi'
-description: 'Jody Chiang (born Jiang Shu-hui, 1961 in Kaohsiung) moved to Taipei at age nine to perform in Beitou''s *nakasi* venues. Her 1992 album "Voices After Drinking" sold 1.16 million copies in Taiwan, the only million-selling Taiwanese-language album on record. After winning four consecutive Golden Melody Awards for Best Female Mandarin/Dialect Singer (2000–2003), she retired in 2015 and made a comeback at the Taipei Dome National Day Gala in 2024.'
+title: 'Jody Chiang: A Hokkien Singer from Beitou Nakasi'
+description: 'Jody Chiang (born Jiang Shu-hui in Kaohsiung, 1961) moved to Taipei with her family at the age of nine and began performing in the Nakasi venues of Beitou. In 1992, her album "Heartfelt Words After Drinking" sold 1.16 million copies in Taiwan, making it the only Hokkien album to surpass one million sales according to official records. She won the Golden Melody Award for Best Hokkien Female Singer for four consecutive years from 2000 to 2003. After retiring in 2015, she made her comeback at the 2024 National Day Gala at the Taipei Dome.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
     'Jody Chiang',
-    'Taiwanese pop music',
+    'Hokkien Pop Music',
     'Golden Melody Awards',
     'Beitou Nakasi',
-    'Taiwan culture',
+    'Taiwanese Culture',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T08:42:14+08:00'
+translatedAt: '2026-11-02T03:48:13.492066+00:00'
 ---
 
 # Jody Chiang: From Beitou Nakasi to the Only Million-Selling Taiwanese Album

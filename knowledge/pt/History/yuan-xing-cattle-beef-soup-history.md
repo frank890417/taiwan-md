@@ -2,26 +2,30 @@
 title: 'As 19 vacas do Monte Chingtian: da raça Yuanxing ao caldo de carne de Tainan, a ruptura da carne bovina de uma ilha'
 description: 'A taxa de autoabastecimento de carne bovina de Taiwan é de apenas 4,6%, mas em 2024 nasceu a primeira raça bovina certificada civilmente do país. A história da raça Yuanxing é um roteiro de ruptura industrial escrito por um homem de 94 anos, 19 vacas negras selvagens e uma tigela de caldo de carne de corpo quente ao amanhecer.'
 date: 2026-03-25
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
-  - 'Raça Yuanxing'
-  - 'Caldo de carne de Tainan'
-  - 'Carne de corpo quente'
-  - 'Pecuária'
-  - 'Agricultura de Taiwan'
-  - 'Lee Teng-hui'
-  - 'Indústria de carne bovina'
-readingTime: 9
+  [
+    'Raça Yuanxing',
+    'Caldo de carne de Tainan',
+    'Carne de corpo quente',
+    'Pecuária',
+    'Agricultura de Taiwan',
+    'Lee Teng-hui',
+    'Indústria de carne bovina',
+  ]
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-05T04:44:23.541419+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Mais de 95% do mercado de carne bovina de Taiwan depende de importações; a ilha é pequena, densamente povoada, não tem grandes pastagens e o governo não tem uma política clara para carne bovina. Mas em 2024, Taiwan viu o nascimento da sua primeira raça bovina nativa desenvolvida por civis e oficialmente certificada — a raça Yuanxing. O seu ponto de partida foi um lote de gado Tajima trazido do Japão em 1933; o seu ponto de chegada é uma tigela de caldo de carne de Tainan que deve ser servida 6 a 8 horas após o abate. Esta não é uma história de expansão industrial, mas de encontrar uma fresta numa desvantagem estrutural.

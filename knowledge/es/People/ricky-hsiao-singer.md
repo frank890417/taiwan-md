@@ -1,20 +1,29 @@
 ---
-title: 'Ricky Hsiao: dos veces ciego, pero con el humor de "no ver a nadie" forjó su arco de resiliencia hasta convertirse en rey de los Golden Melody'
-description: 'Nacido en 1976, el cantautor taiwanés Ricky Hsiao (蕭煌奇) sufrió ceguera bilateral dos veces a causa de cataratas congénitas. No solo es cuatro veces ganador del premio al Mejor Cantante Masculino en Hokkien de los Golden Melody Awards, sino que también fue medallista de bronce en judo en los Juegos Paralímpicos. Con la "Life Line Band" abrió el camino hacia la profesionalización de los músicos con discapacidad visual, y con su humor de "bromas del infierno" revirtió los estereotipos sociales sobre las personas con discapacidad, convirtiéndose en una figura legendaria de la música en lengua china.'
+title: 'Xiao Huangqi: dos veces ciego, pero con su humor «sin nadie en los ojos», trazó la curva de adversidad del rey de los Premios Golden Melody'
+description: 'Nacido en 1976, el cantautor taiwanés Xiao Huangqi perdió la vista en dos ocasiones debido a una catarata congénita. No solo es ganador en cuatro ocasiones del premio Golden Melody al mejor cantante en taiwanés, sino que también fue medallista de bronce en judo en los Juegos Paraasiáticos. Con su «banda integral» abrió el camino a la profesionalización de los músicos con discapacidad visual, y con sus «chistes infernales» revirtió los estereotipos sociales sobre las personas con discapacidad, convirtiéndose en una figura legendaria de la escena musical en lengua china.'
 date: 2026-04-19
+category: 'People'
+tags:
+  [
+    'Xiao Huangqi',
+    'banda integral',
+    'Premios Golden Melody',
+    'judoka de élite',
+    'chistes infernales',
+  ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
-category: People
-subcategory: 音樂與表演
-tags: [蕭煌奇, 全方位樂團, 金曲獎, 柔道國手, 地獄梗]
-readingTime: 12
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-translatedFrom: People/蕭煌奇.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/蕭煌奇.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: 2026-05-02T01:17:17+08:00
-featured: false
+translatedAt: '2026-11-04T21:42:02.625576+00:00'
 ---
 
 > En 1976, Ricky Hsiao nació en Banqiao. Las cataratas congénitas provocaron que perdiera la vista en dos ocasiones. Sin embargo, esa experiencia de "no ver" se convirtió en nutriente para su música y su vida. No solo es el primer artista taiwanés en ganar cuatro veces el premio al Mejor Cantante Masculino en Hokkien de los Golden Melody Awards, sino que también representó a Taiwán en los Juegos Paralímpicos, donde obtuvo la medalla de bronce en judo. En 1995 fundó la "Life Line Band", abriendo una vía profesional para los músicos con discapacidad visual. En los últimos años, con su singular sentido del humor basado en "bromas del infierno", ha desmontado la imagen lastimera que la sociedad proyecta sobre las personas con discapacidad, demostrando con su voz y su actitud vital despreocupada que, incluso en la oscuridad, se puede vivir la vida más extraordinaria.

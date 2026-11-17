@@ -2,6 +2,7 @@
 title: '선성보'
 description: '컴퓨터 과학을 전공했지만 프로그래밍 언어를 대만 현대 미술 현장으로 가져온 선성보. 34년이라는 짧은 생애에 남긴 것은 디지털 아트 작품만이 아니다. 프로그램을 삶으로, 자유 소프트웨어를 창작 윤리로 삼은 실험 정신이다.'
 date: 2026-03-23
+category: 'People'
 tags:
   [
     '인물',
@@ -12,17 +13,18 @@ tags:
     '대만',
   ]
 subcategory: '藝術與設計'
-category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
-translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:36208e14ce1c380c'
-sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-05-16T22:20:00Z'
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/沈聖博.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:36208e14ce1c380c'
+sourceBodyHash: 'sha256:5eb269f5e4d722c4'
+translatedAt: '2026-11-04T21:34:36.268277+00:00'
 ---
 
 # 선성보 (Shen Sheng-bo)

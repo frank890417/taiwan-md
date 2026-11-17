@@ -1,108 +1,110 @@
 ---
-title: "Yang Shen-Keng: The Education Philosopher Who Brought Two Oxygen Tanks to His Student's Dissertation Defense"
-description: "On December 13, 2020, Yang Shen-Keng took leave from National Taiwan University Hospital, brought two oxygen tanks, and — accompanied throughout by his wife and son — traveled to NTNU to serve as oral examiner for a doctoral dissertation. Eight months later he passed away. This Athens University Doctor of Philosophy, Taiwan's first lifetime National Chair Professor in education, and Golden Tripod Award recipient built the academic foundations of Taiwanese educational philosophy over 44 years."
+title: 'Yang Shen-keng: The Educational Philosopher Who Brought Oxygen Tanks to a Doctoral Defense'
+description: "On December 13, 2020, Yang Shen-keng took leave from NTUH, bringing two oxygen tanks and accompanied by his wife and son, to conduct a doctoral defense at NTNU. Eight months later, he passed away; that was the final oral examination of his life. A PhD from the University of Athens, Taiwan's first lifetime National Chair Professor, and a recipient of the Golden Pin Award, he spent 44 years constructing the academic foundations of educational philosophy in Taiwan."
 date: 2026-04-25
-tags:
-  - 'education'
-  - 'educational philosophy'
-  - 'comparative education'
-  - 'teacher education'
-  - 'scholar'
-  - 'National Chair'
-  - 'National Chung Cheng University'
-  - 'National Chi Nan University'
-subcategory: '教育與社會'
 category: 'People'
+tags:
+  [
+    'Education',
+    'Educational Philosophy',
+    'Comparative Education',
+    'Teacher Education',
+    'Scholar',
+    'National Chair Professor',
+    'Chung Cheng University',
+    'National Chi Nan University',
+  ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-05-01T12:21:52+08:00'
+translatedAt: '2026-11-05T04:19:16+08:00'
 ---
 
-> **30-Second Overview:** Yang Shen-Keng (楊深坑, 1946–2021), the architect of Taiwan's educational philosophy. Doctor of Philosophy from the University of Athens; Taiwan's first Lifetime National Chair Professor in education; four-time recipient of the National Science Council Outstanding Research Award; Golden Tripod Award recipient. He founded the Graduate Institute of Comparative Education at National Chi Nan University, served as Dean of the College of Education and Vice President at National Chung Cheng University, and for nearly forty years hosted the "Yang School" academic seminar at NTNU. He guided more than one hundred master's and doctoral students. He passed away at NTU Hospital on August 29, 2021, at age 76.
+> **30-Second Overview:** Yang Shen-keng (1946–2021) was a foundational figure in Taiwan's educational philosophy. A PhD from the University of Athens, he was the first lifetime National Chair Professor appointed by the Ministry of Education, a four-time recipient of the Outstanding Research Award from the National Science and Technology Council, and a Golden Pin Award winner. He founded the Institute of Comparative Education at National Chi Nan University, served as Dean of the College of Education and Vice President of Chung Cheng University, and presided over the "Yang School" academic seminars at NTNU for nearly forty years. He supervised over one hundred master's and doctoral students. He passed away from illness at National Taiwan University Hospital on August 29, 2021, at the age of 76.
 
 ---
 
-## The Last Oral Examination
+## The Final Defense
 
-December 13, 2020: Yang Shen-Keng took leave from National Taiwan University Hospital.
+On December 13, 2020, Yang Shen-keng took leave from National Taiwan University Hospital.
 
-He had already been hospitalized for some time. But that day NTNU had a doctoral dissertation oral examination, and he was the supervising professor. He brought two oxygen tanks, accompanied throughout by his wife and son, and traveled from the hospital to NTNU's College of Education. After the examination concluded, he returned to his hospital room.[^1]
+He had already been hospitalized for some time. However, on that day, there was a doctoral dissertation defense at NTNU, and he was the supervising professor. Carrying two oxygen tanks and accompanied by his wife and son, he traveled from the hospital to the NTNU College of Education. After the defense concluded, he returned to his hospital ward[^1].
 
-Eight months later, on August 29, 2021, Yang Shen-Keng passed away at NTU Hospital at age 76. The December 2020 examination was the last time in his life he served as an oral examination committee member.[^1]
+Eight months later, on August 29, 2021, Yang Shen-keng passed away at National Taiwan University Hospital at the age of 76. That December 2020 defense was the final time he served as an examination committee member during his lifetime[^1].
 
-An educational philosopher used the last strength of his life to ensure his student could complete their degree.
+The final strength an educational philosopher exerted in his life was to ensure that his students could successfully complete their degrees.
 
 ---
 
 ## From Changhua to Athens
 
-Yang Shen-Keng was born in Changhua in 1946. He completed his bachelor's and master's degrees in education at National Taiwan Normal University, then traveled far to Greece, earning a Doctor of Philosophy from the University of Athens (1978). In an era when Taiwanese scholars studying abroad predominantly chose English-speaking countries, Yang Shen-Keng chose the birthplace of Western philosophy.[^2]
+Yang Shen-keng was born in Changhua in 1946. He earned a bachelor's degree from the Department of Education and a master's degree from the Graduate Institute of Education at National Taiwan Normal University (NTNU). He later traveled to Greece, where he obtained his PhD in Philosophy from the University of Athens in 1978. In an era when most Taiwanese scholars studying abroad chose the UK or the US, Yang Shen-keng chose the source of Western philosophy[^2].
 
-This choice determined the academic direction of his subsequent forty years: starting from classical Greek philosophy, traversing hermeneutics, critical theory, and postmodern thought, systematically building methodological foundations for Taiwan's educational studies. He introduced Habermas's theory of communicative action into Taiwan's moral education field, arguing that the educational domain should be a space for rational communication and moral practice.[^3]
+This choice determined his academic direction for the next forty years: starting from Classical Greek philosophy and spanning hermeneutics, critical theory, and postmodern thought, he systematically constructed a methodological foundation for educational studies in Taiwan. He introduced Jürgen Habermas's theory of communicative action to the field of moral education in Taiwan, arguing that the educational arena should be a space for rational communication and moral practice[^3].
 
 ---
 
 ## Academic Milestones
 
-Yang Shen-Keng's academic career spanned 44 years, generating a remarkable output: 54 Chinese and English journal articles, 9 Chinese and English monographs, 88 domestic and international academic conference papers, 35 Chinese and English book chapters, and 10 co-edited volumes.[^2]
+Yang Shen-keng's academic career spanned 44 years, producing an impressive body of work: 54 Chinese and English journal articles, 9 Chinese and English monographs, 88 papers presented at domestic and international conferences, 35 Chinese and English book chapters, and 10 edited volumes[^2].
 
-Several representative achievements stand out:
+Key representative achievements include:
 
-_Theory of Science and the Development of Educational Studies_ (科學理論與教育學發展; Psychological Publishing, 2002) is his signature work, based on his National Chair lectures, systematically analyzing how logical positivism, hermeneutics, critical theory, and postmodern thought have influenced educational science. This book received the Executive Yuan's Golden Tripod Award in 2003.[^2]
-
-_Teacher Education in Taiwan: State Control vs Marketization_ (Routledge, 2016, co-authored with Huang Jia-Li) is his English-language monograph, included in the Routledge Research in Teacher Education series, bringing the transformation of Taiwan's teacher education from state control to marketization onto the international academic stage.[^7] He also published multiple chapters in Springer international volumes, including _Social Justice, Equal Access, and Stratification of Higher Education in Taiwan_, and a chapter analyzing the impact of SSCI on Taiwanese educational research.[^8] In 2001, he presented _Dilemmas of Education Reform in Taiwan: Internationalization or Localization?_ at the Comparative and International Education Society (CIES) annual meeting in Washington, D.C., bringing the dilemmas of Taiwan's education reform into international academic dialogue.[^8]
-
-In the field of comparative education, he edited _Comparative and International Education_ (through its fourth edition), _Development of Teacher Organizations and Professional Rights in Various Countries_, _Teacher Education Certification Systems in Various Countries_, and _Comparative Research on Elementary and Secondary School Teacher Quality Management Systems_, establishing the academic foundations of Taiwan's comparative education studies.[^3]
+- _Scientific Theory and the Development of Pedagogy_ (Psychology Publishing, 2002) is his representative work. Based on his National Chair lectures, it systematically analyzes the influence of logical positivism, hermeneutics, critical theory, and postmodernism on educational science. This book won the Golden Pin Award from the Government Information Office in 2003[^2].
+- _Teacher Education in Taiwan: State control vs marketization_ (Routledge, 2016, co-authored with Huang Jia-Li) is his English monograph, included in the Routledge Research in Teacher Education series. It brought the transformation of Taiwan's teacher education from state control to marketization onto the international academic stage[^7]. He also published several chapters in international books published by Springer, including _Social Justice, Equal Access, and Stratification of Higher Education in Taiwan_, which explores social justice in Taiwanese higher education, and a chapter analyzing the impact of SSCI on educational research in Taiwan[^8]. In 2001, he presented _Dilemmas of Education Reform in Taiwan: Internationalization or Localization?_ at the Comparative and International Education Society (CIES) annual conference in Washington, D.C., directly bringing the dilemmas of Taiwan's educational reform into international academic dialogue[^8].
+- In the field of comparative education, he edited several monographs, including _Comparative and International Education_ (up to the 4th edition), _Teacher Organization and Professional Rights Development in Various Countries_, _Teacher Education Certification Systems in Various Countries_, and _A Comparative Study of Teacher Quality Management Systems in Primary and Secondary Schools_, laying the academic foundation for comparative education in Taiwan[^3].
 
 ---
 
 ## Forty Years of the "Yang School"
 
-On the eighth floor of NTNU's College of Education, every Friday featured an academic seminar. This tradition continued for nearly forty years, with participants being Yang Shen-Keng's master's and doctoral students and academic colleagues through the years. They called it the "Yang School" (楊門).[^2]
+On the eighth floor of the NTNU College of Education, an academic seminar was held every Friday. This tradition continued for nearly forty years, with participants consisting of the master's and doctoral students Yang Shen-keng had supervised over the years, as well as his academic colleagues. They called it the "Yang School" (楊門) [^2].
 
-Yang Shen-Keng guided more than one hundred master's and doctoral students. After his passing, the Taiwan Educational Philosophy Association published a commemorative special issue, with solicited themes spanning eight directions — from educational philosophy methodology to international comparative teacher education — each direction corresponding to a field he had cultivated throughout his lifetime.[^4]
+Yang Shen-keng supervised more than one hundred graduate students. Following his passing, the Taiwan Educational Philosophy Association published a commemorative special issue. The call for papers covered eight major directions—ranging from educational philosophy methodology to international comparisons of teacher education—each corresponding to an academic field he had cultivated throughout his life[^4].
 
-His academic footprint also extended into administration and international roles. He served as founding director of the Graduate Institute of Comparative Education at National Chi Nan University (1995), Dean of the College of Education and Vice President at National Chung Cheng University (2003–2007), President of the Chinese Comparative Education Society, Vice President of the Asian Comparative Education Society (2001–2005), and Executive Committee Member of the World Council of Comparative Education Societies (1998–2001, 2009–2011). The integrated research projects he led spanned more than twenty years, accumulating academic awards including four National Science Council Outstanding Research Awards, ten Category A awards, two Wooden Bell Awards, the first National Chair Award (1997–1999), and the fourth Ministry of Education Lifetime National Chair Award (2000–2002).[^2]
+His academic footprint also extended to administration and international organizations. He served as the founding director of the Institute of Comparative Education at National Chi Nan University (1995), Dean of the College of Education and Vice President of Chung Cheng University (2003–2007), President of the Comparative Education Association of the Republic of China, Vice President of the Asia-Pacific Comparative Education Research Association (2001–2005), and Executive Committee member of the World Association for Comparative Education (1998–2001, 2009–2011). He led integrated research projects for over twenty years. His accumulated academic honors include four Outstanding Research Awards from the NSTC, ten Class A awards, two Mudu Awards, the first National Chair Award (1997–1999), and the fourth lifetime National Chair Award from the Ministry of Education (2000–2002)[^2].
 
-The Ministry of Education Lifetime National Chair is the highest honor in Taiwan's educational academia. Yang Shen-Keng was the first educational scholar to receive this distinction.[^1]
+The lifetime National Chair Professorship is the highest honor in Taiwan's educational academic community. Yang Shen-keng was the first educational scholar to receive this distinction[^1].
 
 ---
 
-## "Education Should Not Be Merely the Transmission of Knowledge"
+## "Education Should Not Merely Be the Transmission of Knowledge"
 
-Yang Shen-Keng's core academic belief can be distilled into a single sentence: the educational domain should be a space for rational communication and moral practice, not unidirectional transmission of knowledge.
+Yang Shen-keng's core academic belief can be summarized in one sentence: the educational arena should be a space for rational communication and moral practice, rather than a one-way transmission of knowledge.
 
-Starting from Habermas's theory of communicative action, he argued that dialogue in education should be built on mutual respect and rational argumentation. This argument is most clearly embodied in his moral education research: the goal of moral education should transcend instilling specific values, and instead cultivate students' capacity for moral reasoning and value judgment.[^3]
+Starting from Habermas's theory of communicative action, he argued that dialogue in education should be built on the foundation of mutual respect and rational debate. This assertion was most clearly embodied in his research on moral education: the goal of moral education should transcend the level of indoctrinating specific values and instead cultivate students' ability to engage in moral reasoning and value judgment[^3].
 
-His student Li Feng-ju (李奉儒; professor at National Chung Cheng University's Graduate Institute of Education) has extended this academic lineage in multiple papers, introducing critical pedagogy and educational justice concepts into discussions of Taiwan's education reform.[^5] The Graduate Institute of Comparative Education that Yang Shen-Keng founded at Chi Nan University has had subsequent directors who continued his academic direction — the lineage in blood left a concrete institutional imprint.[^6]
+His student, Li Feng-ju (Professor at the Graduate Institute of Education, Chung Cheng University), has continued this academic lineage in several papers, introducing concepts of critical pedagogy and educational justice into Taiwan's educational reform discussions[^5]. The Institute of Comparative Education founded by Yang Shen-keng at National Chi Nan University saw subsequent directors follow his academic direction, leaving a concrete imprint of his intellectual lineage on the institution[^6].
 
-In August 2021, Yang Shen-Keng received the Ministry of Education's Professional Medal for Education, recognizing his lifetime contribution to Taiwan's educational scholarship.[^1]
+In August 2021, Yang Shen-keng was awarded the Professional Education Medal by the Ministry of Education in recognition of his lifelong contribution to educational scholarship in Taiwan[^1].
 
-Those oxygen tanks, that oral examination, those forty years of Friday seminars. The best legacy an educational philosopher can leave is letting his students know that education is something worth doing with one's entire life.
+Those oxygen tanks, that defense, those forty years of Friday seminars. The best legacy an educational philosopher can leave is letting his students know that education is a pursuit worth a lifetime.
 
 ---
 
 ## References
 
-[^1]: [Taiwan's First Lifetime National Chair Professor in Education Yang Shen-Keng Posthumously Awarded Professional Medal for Education — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/3801789) — Contains: oxygen tank oral examination (taking hospital leave and bringing oxygen tanks to examine a doctoral student), date of passing, first Lifetime National Chair in education, posthumous Professional Medal for Education.
+[^1]: [First Lifetime National Chair Professor: Posthumous Awarding of the Professional Education Medal to Yang Shen-keng - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/3801789) — Includes details on the oxygen tank defense (taking leave from the hospital with oxygen tanks to conduct a doctoral defense), date of death, his status as the first lifetime National Chair Professor, and the posthumous awarding of the Professional Education Medal.
 
-[^2]: [Yang Shen-Keng Awarded Professional Medal for Education — NTNU Alumni Center](https://alumni.ntnu.edu.tw/ActiveMessage/MessageView?itemid=1796&mid=8) — Contains: complete academic and professional background, academic output statistics, awards list.
+[^2]: [Yang Shen-keng awarded Professional Education Medal (NTNU Alumni Center)](https://alumni.ntnu.edu.tw/ActiveMessage/MessageView?itemid=1796&mid=8) — Includes complete academic and professional history, statistics of academic output, and a list of awards.
 
-[^3]: [Li Feng-ju Faculty Page — NCU Graduate Institute of Education](https://deptedu.ccu.edu.tw/p/404-1231-28076.php?Lang=zh-tw) — Contains: experience as NCU Graduate Institute of Comparative Education associate professor and director, academic collaboration context with Yang Shen-Keng.
+[^3]: [Li Feng-ju Faculty Page (Chung Cheng University Graduate Institute of Education)](https://deptedu.ccu.edu.tw/p/404-1231-28076.php?Lang=zh-tw) — Includes his experience as Associate Professor and Director of the Institute of Comparative Education at National Chi Nan University, and his academic collaboration with Yang Shen-keng.
 
-[^4]: [Taiwan Educational Philosophy Special Commemorative Issue Call for Papers](https://tpes.website/?p=2720) — Taiwan Educational Philosophy Association, 2022. Eight solicited paper themes.
+[^4]: [Call for Papers: "Taiwan Educational Philosophy" Commemorative Special Issue](https://tpes.website/?p=2720) — Taiwan Educational Philosophy Association, 2022. Eight major themes for papers.
 
-[^5]: [Li Feng-ju (2023). A Retrospective on Thirty Years of Higher Education Reform in Taiwan. Bulletin of Educational Research, 69(4), 1–39](https://doi.org/10.53106/102887082023126904001) — Representative research extending Yang Shen-Keng's critical education lineage.
+[^5]: [Li Feng-ju (2023). A Review of 30 Years of Higher Education Reform in Taiwan. Journal of Educational Research, 69(4), 1-39](https://doi.org/10.53106/102887082023126904001) — A representative study continuing Yang Shen-keng's lineage of critical pedagogy.
 
-[^6]: [Li Feng-ju Faculty Page — NCU Graduate Institute of Education](https://deptedu.ccu.edu.tw/p/404-1231-28076.php?Lang=zh-tw) — Contains: experience as NCU Graduate Institute of Comparative Education associate professor and director.
+[^6]: [Li Feng-ju Faculty Page (Chung Cheng University Graduate Institute of Education)](https://deptedu.ccu.edu.tw/p/404-1231-28076.php?Lang=zh-tw) — Includes his experience as Associate Professor and Director of the Institute of Comparative Education at National Chi Nan University.
 
-[^7]: [_Teacher Education in Taiwan: State Control vs Marketization_ — Routledge](https://www.amazon.com/Teacher-Education-Taiwan-marketization-Routledge/dp/1138804304) — Yang, Shen-Keng & Huang, Jia-Li, 2016. Routledge Research in Teacher Education series.
+[^7]: [_Teacher Education in Taiwan: State control vs marketization_ (Routledge)](https://www.amazon.com/Teacher-Education-Taiwan-marketization-Routledge/dp/1138804304) — Yang, Shen-Keng & Huang, Jia-Li, 2016. Routledge Research in Teacher Education series.
 
-[^8]: [Springer Book Chapter: Social Justice, Equal Access, and Stratification of Higher Education in Taiwan](https://link.springer.com/chapter/10.1057/9780230119215_11) — Yang, Shen-Keng & Cheng, Kent. See also [Impact of SSCI on Educational Research in Taiwan](https://link.springer.com/chapter/10.1007/978-94-6209-407-9_6) (2014).
+[^8]: [Springer Book Chapter: Social Justice, Equal Access, and Stratification of Higher Education in Taiwan](https://link.springer.com/chapter/10.1057/9780230119215_11) — Yang, Shen-Keng & Cheng, Kent. See also [The Impact of SSCI on Educational Research in Taiwan](https://link.springer.com/chapter/10.1007/978-94-6209-407-9_6) (2014).

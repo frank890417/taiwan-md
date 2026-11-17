@@ -2,9 +2,7 @@
 title: "Nasi Minyak: Dari Beras Ketan 'Pamer Kaya' Menjadi Hadiah Bulan Penuh yang Menyandang Berat Kehidupan"
 description: "Di jalanan Taiwan tahun 2026, semangkuk nasi minyak tetap menjadi pilihan utama banyak orang untuk merayakan kelahiran baru. Hidangan ini yang bermula dari tradisi imigran Han dan berevolusi di Taiwan dengan 'proporsi pecinta kuliner' yang memadukan rasa asin dan manis, memadukan beras ketan dengan bawang merah goreng menjadi doa paling tebal keluarga Taiwan di titik balik kehidupan."
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'Nasi Minyak',
@@ -14,15 +12,19 @@ tags:
     'Beras Ketan',
     'Budaya Pesta Panggung',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-07-25T06:34:15+08:00'
+translatedAt: '2026-11-04T23:05:26.871388+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

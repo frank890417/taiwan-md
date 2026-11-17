@@ -3,7 +3,6 @@ title: 'Berita Gereja Taiwan: Sebuah Koran yang Bertahan 140 Tahun, dan Hariketi
 description: 'Pada tahun 1885, misioner agama Kristen British Barclay menerbitkan koran pertama di Taiwan di Tainan menggunakan Pe̍h-ōe-jī. Koran ini pernah dihentikan penerbitan oleh pemerintah Jepang, dilarang penggunaan bahasa ibunda oleh Partai Kuomintang, dan pada tahun 1987 dibekukan seluruhnya oleh pusat keamanan karena melaporkan Kejadian 228. Setiap kali ditekan, koran ini tetap bertahan. Pada tahun 2025, usianya mencapai 140 tahun, bagian sampingnya membahas AI generatif.'
 date: 2026-04-29
 category: 'Culture'
-subcategory: '媒體與出版'
 tags:
   [
     'media',
@@ -15,16 +14,19 @@ tags:
     'Bahasa Taiwan',
     'Kebijakan Bahasa',
   ]
+subcategory: '媒體與出版'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/台灣教會公報.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3439ffa9774025fa'
 sourceBodyHash: 'sha256:2e121ca67feccc95'
-translatedAt: '2026-07-25T05:00:09+08:00'
+translatedAt: '2026-11-05T04:18:32.027787+00:00'
 ---
 
 > **30 Detik Ringkasan:** Pada tanggal 12 Juni 1885 (tahun ke-11 dari reign Qing Guangxu), misioner agama Kristen British Church Thomas Barclay di Tainan menerbitkan "Berita Gereja Kota Provinsi Taiwan" menggunakan huruf Latin gereja (Pe̍h-ōe-jī), menjadi koran pertama di Taiwan. Koran ini melewati era Qing, penjajahan Jepang, otoritas pasca-perang, dibekukan dua kali, dilarang penggunaan bahasa ibunda, dan pada tahun 1987 dibekukan seluruhnya oleh pusat keamanan karena melaporkan Kejadian 228. Hingga kini masih diterbitkan. Pada tahun 2025, usianya mencapai 140 tahun, menjadi publikasi berkala paling lama di Taiwan. Bagian sampingnya menyentuh berbagai topik teologis hingga isu sosial, dan sejak tahun 2022 bahkan mulai menyertakan kolom ulasan tentang AI generatif.

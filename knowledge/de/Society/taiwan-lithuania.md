@@ -17,11 +17,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:35:09.102715+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Die Beziehung zwischen Taiwan und Litauen erreichte 2021 ihren Höhepunkt durch die Einrichtung einer mit „Taiwan“ benannten Vertretung, sah sich jedoch unmittelbar dem heftigen wirtschaftlichen Druck Chinas ausgesetzt. Mit der politischen Umstrukturierung in Litauen im Jahr 2026 führte dies zu einer tiefgreifenden strategischen Überprüfung: Die neue Premierministerin bezweifelt den Namen als „strategischen Fehler“ und erwägt eine Namensänderung, während der Präsident seinen Standpunkt beibehält, was zu internen Differenzen führt. Gleichzeitig wächst der bilaterale Handel trotz Sanktionen, und Taiwan vertieft diese partnerschaftliche Beziehung, die unter dem Banner der Demokratie steht, durch den „Wirtschaftskooperationsplan für Taiwan“.

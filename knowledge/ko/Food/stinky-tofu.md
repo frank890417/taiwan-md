@@ -1,19 +1,30 @@
 ---
 title: '취두부: 악취를 쫓고 향기를 찾는 사이, 대만인의 감각 극한 운동'
 description: '1950년대 거리의 전역 군인 솜씨에서 국빈 만찬에 오른 "취두부 사원"까지, 이 발효 두부는 대만 반 세기의 회복력을 담고 있다. 본문은 발효 수액(滷水) 뒤에 숨은 생균 큐레이팅과 심켠(深坑)의 향긋한 탄 내음, 위리(玉里)의 삼단 유온(三道油溫) 풍비의 비밀을 해석한다.'
-category: Food
-tags: [취두부, 대만 분식, 발효식품, 심켠, 위리차오터우, 다이지두치즈지가]
-author: 'idlccp1984'
 date: 2026-04-26
-readingTime: 10
+category: 'Food'
+tags:
+  [
+    '취두부',
+    '대만 분식',
+    '발효식품',
+    '심켠',
+    '위리차오터우',
+    '다이지두치즈지가',
+  ]
+subcategory: '經典小吃'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/臭豆腐.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/臭豆腐.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-05T04:15:34.850275+00:00'
 ---
 
 > **30초 개요:** 취두부는 대만에서 가장 논란이 많으면서도 가장 대표적인 서민 음식이다. 청대 서생의 뜻밖의 시작에서 비롯되었으나, 대만에서 독특한 "생균 발효" 공정으로 진화했다. 심켠 라오제(老街)의 향긋한 탄 내음이 나는 염수 두부에서 화롄(花蓮) 위리가 고수하는 "삼단 유온"의 바삭한 기적까지, 이 글은 왜 이 코를 막게 하는 냄새가 일본 발효학 권위자를 건너편 바다까지 유인하여 악취를 쫓게 하고, 심지어 대만 문화의 회복력의 상징이 되었는지를 이해하게 해줄 것이다.

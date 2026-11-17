@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
+researchReport: 'reports/research/2026-04/蕭上農.md'
+harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0c7501412dac27dc'
-sourceBodyHash: 'sha256:9108cdc7ca125f4b'
-translatedAt: '2026-07-25T10:53:16+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:cf3dd21873bec862'
+sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
+translatedAt: '2026-11-02T01:12:12.843012+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Hsiao Shang-nung (nama panggilan internet fOx) adalah pendiri bersama INSIDE Hard-se Network Trend Observation dan iCook. Pada 2009 ia bersama lima teman meluncurkan salah satu media teknologi berpendapat paling awal di Taiwan, 2011 secara bersamaan meluncurkan platform resep terbesar Taiwan. Kedua perusahaan masing-masing diakuisisi pada 2018 dan 2022 oleh pembeli yang sama: TNL Media Group (關鍵評論網媒體集團). Saat ini ia aktif sebagai pengamat internet di berbagai podcast dan acara media, menjadi salah satu suara paling sering diundang membahas tren di komunitas teknologi Taiwan.
@@ -91,30 +93,30 @@ Tugas Pak RT, adalah menghubungkan orang dengan orang. Tugas Hsiao Shang-nung, j
 
 Jaringan ini, sebagian menjelaskan kenapa ia bisa operasikan INSIDE dan iCook bersamaan, dan setelah akuisisi tetap aktif sebagai pengamat—dengan kata lain, "komunitas internet Taiwan kenal dia" hal ini tidak hilang hanya karena perusahaannya diakuisisi.
 
-## Menghadapi AI: Orang yang Bilang "Jangan Cemas"
+## Menghadapi AI: Sosok yang Berkata "Jangan Cemas"
 
-Mei 2023, setengah tahun setelah ChatGPT diluncurkan, iCook meluncurkan fitur bantu resep AI.[^wazaiiii] Periode yang sama, Hsiao Shang-nung memanfaatkan alat AI bikin aplikasi scan kartu nama dan publish, tiap bulan stabil penghasilan puluhan ribu dollar Taiwan.[^tnl]
+Pada Mei 2023, enam bulan setelah peluncuran ChatGPT, iCook meluncurkan fitur asisten resep berbasis AI. [^wazaiii] Pada periode yang sama, Hsiao Shang-nung merilis aplikasi pemindai kartu nama berbasis alat AI ke pasar, yang menghasilkan pendapatan stabil di atas NT$10.000 setiap bulannya. [^tnl]
 
-Ia bilang: "Saya optimis teknologi, tentu merasa teknologi membuat hidup kita lebih kaya dan nyaman."[^wazaiiii]
+Ia mengatakan: "Saya adalah seorang optimis teknologi, tentu saja saya merasa bahwa teknologi membuat hidup kita menjadi lebih makmur dan nyaman." [^wazaiii]
 
-Ia juga bilang: "Tombol kendali sama sekali tidak di tangan kita, jadi khawatir tidak ada gunanya, saya juga cenderung tidak khawatir."[^wazaiiii]
+Ia juga menambahkan: "Tombol kendalinya sama sekali tidak ada di tangan kita, jadi khawatir pun tidak ada gunanya, saya cenderung untuk tidak merasa khawatir." [^wazaiii]
 
-Ini sikap konsistennya menghadapi setiap gelombang teknologi: amati, coba, lalu bilang ke semua orang jangan terlalu cemas. Dari era kripto hingga era AI sikapnya sama.
+Inilah sikap konsistennya dalam menghadapi setiap gelombang teknologi: mengamati, mencoba, lalu memberi tahu semua orang agar tidak terlalu cemas. Dari era mata uang kripto hingga era AI, ia selalu menunjukkan sikap yang sama.
 
-Saat ini ia rutin muncul di segmen "Membaca Tren" acara "Lan Xuan Time" Radio Taiwan International Pop Network (中廣流行網), memimpin podcast "塞掐 Side Chat", terus melakukan terjemahan tren berkala untuk komunitas teknologi Taiwan.
+Saat ini, ia rutin muncul dalam segmen "Reading Trends" di program Lan Hsuan Time pada radio Pop Radio (Zhongguang), serta memandu podcast 「塞掐 Side Chat」, untuk terus menerjemahkan tren secara berkala bagi lingkaran teknologi Taiwan.
 
 ---
 
-Blog kolaboratif 2009 itu, sekarang milik orang lain. Platform resep 2011 itu, juga.
+Blog catatan bersama dari tahun 2009 itu kini telah menjadi milik orang lain. Begitu pula dengan platform resep dari tahun 2011 tersebut.
 
-Hsiao Shang-nung masih di sini. Pengamatan terus berlanjut. Ia jadikan "terus mengamati" itu sendiri, sebagai hal besar selanjutnya.
+Hsiao Shang-nung masih ada. Pengamatan pun terus berlanjut. Ia menjadikan "terus mengamati" itu sendiri sebagai langkah berikutnya.
 
-**Baca Lebih Lanjut**:
+**Bacaan Lanjutan**:
 
-- [INSIDE Hard-se Network Trend Observation](https://www.inside.com.tw/) — Media teknologi pendirian bersama Hsiao Shang-nung, kini milik TNL Media Group, terus meliput industri teknologi Taiwan dan global
-- [iCook](https://icook.tw/) — Platform resep terbesar Taiwan pendirian bersama Hsiao Shang-nung, kini milik TNL Media Group
-- [Audrey Tang (唐鳳)](/id/people/audrey-tang) — Menteri Pertama Departemen Pengembangan Digital Taiwan, sama-sama mendefinisikan karirnya dengan "melintasi banyak bidang"
-- [Ekosistem Startup Taiwan (台灣新創生態系)](/technology/台灣新創生態系) — Konteks perkembangan wirausaha internet Taiwan secara keseluruhan, INSIDE dan iCook keduanya kasus representatif di dalamnya
+- [INSIDE Hard-se Network Trend Observation](https://www.inside.com.tw/) — Media teknologi yang didirikan bersama oleh Hsiao Shang-nung, kini di bawah naungan Kompas Media Group (The News Lens), terus melaporkan industri teknologi Taiwan dan global.
+- [iCook 愛料理](https://icook.tw/) — Platform resep terbesar di Taiwan yang didirikan bersama oleh Hsiao Shang-nung, kini di bawah naungan Kompas Media Group (The News Lens).
+- [Tang Feng](/id/people/audrey-tang) — Menteri pertama Kementerian Digital Taiwan, yang juga mendefinisikan kariernya dengan "melintasi berbagai bidang".
+- [Ekosistem Startup Taiwan](/id/economy/taiwan-startup-ecosystem-overview) — Konteks perkembangan keseluruhan kewirausahaan internet di Taiwan; INSIDE dan iCook adalah contoh representatif di dalamnya.
 
 ## Referensi
 

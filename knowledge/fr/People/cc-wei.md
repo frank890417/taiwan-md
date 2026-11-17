@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從交大→耶魯→德儀→台積電的路徑，加上2024年接任董事長——這是一個40年積累的位置，不是空降。"
-#   whats_excluded: "各代製程技術細節比較；台積電財報分析；與三星/英特爾競爭細節"
-#   where_it_hedges: "原文章誤植出生年1955→已修正為P0確認的1953；原誤植台大材料+史丹佛→已修正為交大電子+耶魯"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/魏哲家.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T23:40:24.244795+00:00'
 ---
 
 # C.C. Wei : de l'Université nationale Chiao Tung à Yale, puis à la présidence de TSMC

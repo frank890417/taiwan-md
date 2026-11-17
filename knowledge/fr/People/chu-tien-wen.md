@@ -2,9 +2,7 @@
 title: "Chu Tien-wen : Taipei 1956, de la revue San San au Lion d'or de Venise pour La Cité des douleurs"
 description: "Née en 1956 à Taipei, fille de Chu Hsi-ning. En 1977, cofonde la revue San San avec Hu Lan-cheng. Scénariste attitrée de Hou Hsiao-hsien, son œuvre majeure La Cité des douleurs remporte le Lion d'or à la Mostra de Venise en 1989. En 1994, Les Carnets d'un homme déserté obtient le premier prix du roman au China Times Literary Award. Parmi ses scénarios : Good Men, Good Women et Goodbye South, Goodbye."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'Littérature',
@@ -14,17 +12,19 @@ tags:
     'Littérature San San',
     "Carnets d'un homme déserté",
   ]
-readingTime: 7
-#   whats_excluded: "各電影完整劇本分析；三三集刊歷年作者名單；學術研究論文清單"
-#   where_it_hedges: "出生地維基記台北（另有高雄鳳山一說，以台北為準）；侯孝賢失智確認時間（P0⚠️待確認具體年份）；首次執導《尋找河神》詳情（P0⚠️待確認）"'
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T21:46:47.753873+00:00'
 ---
 
 # Chu Tien-wen : Taipei 1956, de la revue San San au Lion d'or de Venise pour La Cité des douleurs

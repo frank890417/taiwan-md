@@ -1,14 +1,14 @@
 ---
-title: 'Vom „Hundermordinsel“ zur Null-Tötung: Vierzig Jahre Erlösung im Tierschutz von Taiwan'
-description: 'In den 1990er Jahren wurde Taiwan wegen der grausamen Behandlung streunender Hunde international als „Hundermordinsel“ bezeichnet; sogar in japanischen Flughäfen gab es Boykottschilder. Von der Verabschiedung des Tierschutzgesetzes im Jahr 1998 bis zur vollständigen Null-Tötung im Jahr 2017 war dies eine soziale Bewegung, die den Wert des Lebens neu definierte.'
+title: 'Vom „Land der Hundemörder“ zur Null-Tötungspolitik: Der vierzigjährige Weg der Tierschutz-Erlösung in Taiwan'
+description: 'In den 1990er Jahren wurde Taiwan wegen des grausamen Umgangs mit streunenden Hunden international als „Land der Hundemörder“ beschimpft. Von der Verabschiedung des Tierschutzgesetzes 1998 bis zur vollständigen Null-Tötungspolitik im Jahr 2017 markiert dies eine gesellschaftliche Bewegung zur Neudefinition des Wertes des Lebens.'
 date: 2026-07-28
 category: 'History'
 tags:
   [
     'Tierschutz',
-    'Sozialbewegung',
-    'Gesetzliche Entwicklung',
-    'Taiwan-Geschichte',
+    'soziale Bewegung',
+    'rechtliche Entwicklung',
+    'Geschichte Taiwans',
   ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
@@ -18,84 +18,82 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'History/動保.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:7522efdf3a40c32a'
-sourceBodyHash: 'sha256:1acff297b5650550'
-translatedAt: '2026-09-12T16:22:12+08:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:7976b50994d50f0d'
+sourceBodyHash: 'sha256:43d507c619cbc518'
+translatedAt: '2026-11-03T00:30:31+08:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Die Geschichte des Tierschutzes in Taiwan ist ein dramatischer Wandel von der „Müllbeseitigung“ hin zur „Lebensachtung“. In den 1980er und 1990er Jahren hatte Taiwan wegen massiver und grausamer Hundetötungen einen schlechten Ruf international, was sogar zu Boykotten durch Europa, Amerika und Japan führte. Doch durch die unermüdliche Arbeit zivilgesellschaftlicher Gruppen wurde im Jahr 1998 das Tierschutzgesetz erlassen, und 2017 wurde Taiwan zum zweiten Land in Asien, das „Null-Tötung“ implementierte. Heute sind die Quarantänehunde an den Flughäfen nationale Helden – diese Geschichte zeugt vom Aufstieg der zivilen Kultur Taiwans.
+> **30-Sekunden-Überblick:** Die Geschichte des Tierschutzes in Taiwan ist ein drastischer Wendepunkt von der „Beseitigung von Abfall“ hin zum „Respekt vor dem Leben“. In den 1980er und 90er Jahren war Taiwan aufgrund der großflächigen und grausamen Tötung streunender Hunde international berüchtigt, was sogar zu Boykottaufrufen des Tourismus in Europa, den USA und Japan führte. Durch die unermüdliche Arbeit zivilgesellschaftlicher Gruppen wurde jedoch 1998 das Tierschutzgesetz erlassen, und 2017 wurde Taiwan offiziell das zweite Land in Asien, das eine „Null-Tötungspolitik“ implementierte. Heute gelten Quarantänehunde an Flughäfen als nationale Helden – diese Geschichte zeugt vom zivilisatorischen Aufstieg der taiwanesischen Gesellschaft.
 
-### Die beschämte Ära: Die „Hundermordinsel“-Schilder auf japanischen Flughäfen
+### Eine Ära der Schande: Die „Land der Hundemörder“-Plakate an japanischen Flughäfen
 
-Zu Beginn der 1990er Jahre befand sich das internationale Image Taiwans an einem extrem widersprüchlichen Scheideweg. Während das Wirtschaftswunder Taiwan auf die Weltbühne katapultierte, bildeten Tausende von streunenden Hunden einen der dunkelsten Flecken des Landes. Die damalige Regierung betrachtete die streunenden Hunde als „Umwelthygieneproblem“, und die Zuständigkeit lag bei den Reinigungsdiensten der Umweltbehörde, nicht bei Stellen für das Tierwohl [^1].
+In den frühen 1990er Jahren befand sich das internationale Image Taiwans an einem extrem widersprüchlichen Wendepunkt. Während das Wirtschaftswunder Taiwan auf die Weltbühne hob, wurden die Tausenden streunenden Hunde auf den Straßen zum dunkelsten Kapitel des Landes. Die damalige taiwanesische Regierung betrachtete streunende Hunde lediglich als „Problem der Umwelthygiene“; die Zuständigkeit lag bei den Reinigungsteams des Umweltschutzamtes und nicht bei einer Tierschutzbehörde[^1].
 
-Zwischen 1993 und 1994 starteten internationale Tierschutzorganisationen wie die „World Society for the Protection of Animals“ (WSPA) eine starke Boykottkampagne gegen Taiwan. An internationalen Knotenpunkten wie dem Narita-Flughafen in Japan oder Heathrow in London erschienen riesige Schilder mit der Aufschrift „Taiwan: Land of Dog Killing“, die internationale Reisende aufforderten, dieses grausam gegenüber Tieren handelnde Land zu meiden [^2]. Die Schilder zeigten schreckliche Bilder von Hunde, die durch Elektroschock, Ertrinken oder Massengräberung getötet wurden – ein enormer diplomatischer und imagebezogener Schlag für die damalige Regierung Taiwans, die aktiv um internationale Anerkennung kämpfte.
+Zwischen 1993 und 1994 starteten internationale Tierschutzorganisationen wie die „World Animal Protection“ (WSPA) eine massive Boykottbewegung gegen Taiwan. An internationalen Drehkreuzen wie dem Flughafen Narita in Japan oder dem Londoner Flughafen Heathrow erschienen riesige Plakate mit der Aufschrift „Taiwan: Land der Hundemörder“ (Taiwan: Land of Dog Killing), die internationale Reisende davor warnten, dieses Tierquälerei praktizierende Land zu besuchen[^2]. Die Plakate zeigten schockierende Bilder von streunenden Hunden, die durch Elektroschocks, Ertrinken oder Massenbegräbnisse getötet wurden. Für die taiwanesische Regierung, die damals aktiv um internationale Anerkennung rang, war dies ein massiver diplomatischer und imagebezogener Schlag.
 
-📝 **Kuratorische Anmerkung:** Die „Hundejagd-Einheiten“ dieser Zeit waren im Grunde Reinigungsdienste; Hunde wurden wie Müll behandelt – hinter dieser Logik stand eine kollektive Missachtung des Lebenswertes.
+📝 _Anmerkung der Kuratoren:_ Die damaligen „Hundeauffangtrupps“ waren in Wirklichkeit Reinigungsteams; Hunde wurden wie „Abfall“ behandelt. Hinter dieser Logik stand die kollektive Ignoranz der Gesellschaft gegenüber dem Wert des Lebens.
 
-### Das durch Tragödie geweckte Bewusstsein: Vom Bissfall zur Geburt des Tierschutzgesetzes
+### Erwachen aus der Tragödie: Von Beißvorfällen zur Geburtsstunde des Tierschutzgesetzes
 
-Der internationale Druck war zwar ein Impuls, aber das wahre Erwachen kam aus den blutigen Lehren innerhalb Taiwans. Im Jahr 1992 ereigneten sich in Hualien, Hsinchu und Taipeh nacheinander drei Tragödien, bei denen streunende Hunde Kleinkinder angegriffen und getötet hatten, was zu einer Panik über die „Überfülle an Wildhunden“ führte [^3]. Doch diese Panik führte nicht zu noch grausameren Tötungen, sondern löste eine organisierte Bewegung zivilgesellschaftlicher Gruppen aus. Im Jahr 1993 wurde der „Animal Welfare Association“ (關懷生命協會) gegründet und begann, das erste spezielle Gesetz zum Schutz von Tieren in Taiwan voranzutreiben [^4].
+Internationaler Druck war zwar ein Katalysator, doch das wahre Erwachen resultierte aus blutigen Lektionen im Inneren Taiwans. 1992 ereigneten sich in Hualien, Hsinchu und Taipeh nacheinander drei Tragödien, bei denen streunende Hunde Kleinkinder zerbisssen, was eine gesellschaftliche Panik vor einer „Plage von Wildhunden“ auslöste[^3]. Diese Panik führte jedoch nicht zu noch grausameren Massentötungen, sondern stimulierte stattdessen die Organisation zivilgesellschaftlicher Gruppen. 1993 wurde die „Compassion in Life Association“ gegründet, um das erste spezialisierte Gesetz zum Schutz von Tieren in Taiwan voranzutreiben[^4].
 
-Am 4. November 1998 trat das Tierschutzgesetz offiziell in Kraft. Dieses Gesetz schrieb ein Verbot der willkürlichen Tötung von Tieren fest. Obwohl die Klausel „Tötungen sind human, wenn innerhalb von sieben Tagen kein Adoptierer gefunden wurde“ beibehalten wurde, beendete es die illegale Dunkelheit der Reinigungsdienste, die streunende Hunde durch Elektroschock oder Ertrinken töteten, und hob die Tierhaltung vom Umweltproblem auf die juristische Ebene [^5].
+Am 4. November 1998 wurde das 《動物保護法》 (Tierschutzgesetz) offiziell verkündet und in Kraft gesetzt. Dieses Gesetz legte fest, dass Tiere nicht willkürlich getötet werden dürfen. Obwohl es damals noch eine Klausel enthielt, die besagte, dass Tiere, die nach sieben Tagen nicht abgeholt wurden, „human“ behandelt werden könnten, beendete es die gesetzlose Ära, in der Reinigungsteams streunende Hunde wahllos mit Stromschlägen oder Ertrinken töteten. Damit wurde das Management von Tieren von einer reinen Umweltfrage auf eine rechtliche Ebene gehoben[^5].
 
-### Die Kraft des Bildes: Der soziale Tsunami, ausgelöst durch den Film „Zwölf Nächte“
+### Die Macht der Bilder: Der gesellschaftliche Tsunami durch den Dokumentarfilm „Twelve Nights“
 
-Selbst nach der Einführung des Tierschutzgesetzes blieben staatliche Tierheime in Taiwan lange Zeit überfüllt und wiesen hohe Abschussquoten auf. Bis 2012 lag die Abschussrate in ganz Taiwan konstant bei über 50 %, in einigen Regionen sogar bei bis zu achtzig Prozent [^6].
+Trotz des Tierschutzgesetzes litten die staatlichen Tierheime in Taiwan lange Zeit unter Überbelegung und hohen Tötungsraten. Bis vor 2012 lag die Tötungsrate in taiwanesischen Tierheimen konstant bei über 50 %, in einigen Regionen sogar bei bis zu 80 %[^6].
 
-Im Jahr 2013 wurde der Spielfilm „Zwölf Nächte“ (十二夜) veröffentlicht, der die grausame Realität des Lebens von streunenden Hunden in Tierheimen in den letzten zwölf Tagen dokumentierte. Der verzweifelte Blick und die beengte, schmutzige Umgebung der Hunde lösten einen gewaltigen emotionalen Tsunami in der taiwanesischen Gesellschaft aus [^10]. Dieser Film erzielte nicht nur sechzig Millionen Zuschauer, sondern führte auch direkt zu politischem Druck. Im Jahr 2015 verabschiedete der Gesetzgeber innerhalb kurzer Zeit eine Änderung des Tierschutzgesetzes und kündigte die vollständige Abschaffung der Euthanasie in staatlichen Tierheimen nach zwei Jahren an – die sogenannte „Null-Tötungs“-Politik [^11].
+Im Jahr 2013 wurde der Dokumentarfilm 《十二夜》 (Twelve Nights) veröffentlicht, der die grausame Realität dokumentierte, wie streunende Hunde in den Tierheimen um ihr Leben bangten – ein Countdown von zwölf Tagen. Die verzweifelten Blicke der Hunde und die überfüllten, schmutzigen Umgebungen lösten in der taiwanesischen Gesellschaft einen gewaltigen emotionalen Tsunami aus[^10]. Der Film spielte nicht nur 60 Millionen NT$ an den Kinokassen ein, sondern wandelte sich direkt in politischen Druck um. Im Jahr 2015 verabschiedete das Legislative Yuan in kürzester Zeit eine Änderung des Tierschutzgesetzes, die die vollständige Abschaffung der Einschläferung in staatlichen Tierheimen zwei Jahre später ankündigte – die sogenannte „Null-Tötungspolitik“[^11].
 
-### Das Ende von Zwölf Nächte: Meilensteine und Herausforderungen der Null-Tötungs-Politik
+### Das Ende von „Twelve Nights“: Meilensteine und Herausforderungen der Null-Tötungspolitik
 
-Im Februar 2017 setzte Taiwan die „Null-Tötungs“-Politik offiziell und vollständig durch und wurde zum zweiten Land in Asien, das gesetzlich vorschreibt, dass gesunde Tiere nicht aufgrund von Platzmangel oder Zeitdruck getötet werden dürfen [^7]. Doch Null-Tötung war kein Endpunkt, sondern der Beginn einer weiteren Prüfung.
+Im Februar 2017 implementierte Taiwan offiziell die vollständige „Null-Tötungspolitik“. Damit wurde das Land zum zweiten in Asien, das gesetzlich vorschreibt, dass Tierheime gesunde Tiere nicht aufgrund von Platzmangel oder Zeitdruck töten dürfen[^7]. Doch die Null-Tötung war kein Endpunkt, sondern der Beginn einer neuen Prüfung.
 
-Nach der Umsetzung des Gesetzes stiegen die Tierheime schnell in die Höhe. Da „kein Tier aus dem System entlassen wurde“, verwandelten sich die Heime von Zwischenstationen in „Endstationen“. Viele Hunde verharrten in engen Käfigen über tausend Tage [^7]. Dies führte zu einer Verschlechterung der Haltungsbedingungen, enormem Druck auf Tierärzte und schließlich zur politischen Wende hin zu „präziser Hundefangerei“ und „Sterilisation und Rückgabe (TNVR)“, um den Einweisdruck an der Quelle abzumildern.
+Nach der Einführung der Politik kam es in den Tierheimen zu einem rasanten Anstieg der Besetzung. Da es „nur Zufluss, aber keinen Abfluss“ gab, verwandelten sich die Heime von Zwischenstationen in „Endstationen“; viele Hunde verbrachten über tausend Tage in engen Käfigen[^7]. Dies führte zu einer Verschlechterung der Pflegequalität und extremem Stress für Tierärzte. Infolgedessen kam es zu einer politischen Neuausrichtung hin zu „präziser Hundeauffangung“ und dem TNVR-Modell (Trap-Neuter-Vaccinate-Return), um den Druck auf die Heime an der Quelle zu mildern.
 
-📝 **Kuratorische Anmerkung:** Die Null-Tötungs-Politik demonstrierte zwar einen zivilisatorischen Fortschritt auf rechtlicher Ebene, enthüllte jedoch die bitteren Folgen des langfristigen Mangels an Quellmanagement (wie Strafen für Verwerfung und Registrierung der Halter).
+📝 _Anmerkung der Kuratoren:_ Die Null-Tötungspolitik demonstriert rechtlich den zivilisatorischen Fortschritt, offenbart aber in der Praxis die bitteren Folgen eines langfristig mangelhaften Managements an der Quelle (wie etwa Strafen für das Aussetzen oder die Registrierung von Haustieren).
 
-### Der ökologische Konflikt: Überlebenskampf zwischen streunenden Hunden und einheimischer Wildtiere
+### Ökologische Konflikte: Der Überlebenskampf zwischen streunenden Hunden und Wildtieren
 
-Da die Population der streunenden Hunde in freier Wildbahn weiterhin bestand, trat das Thema Tierschutz in Taiwan in einen neuen Streitbereich ein: der Konflikt zwischen streunenden Hunden und heimischen Wildtieren. In den letzten Jahren wurden häufig Fälle gemeldet, in denen Tiere wie der Bergantilope (陽明山) oder der Leopard (南投) sowie verschiedene Pangolane durch Angriffe von streunenden Hunden getötet wurden – ein Phänomen, das in wissenschaftlichen Kreisen als „Hundermord“ bezeichnet wird [^12].
+Da die Zahl der streunenden Hunde in der Wildnis weiterhin hoch bleibt, ist die Tierschutzdebatte in Taiwan in ein neues Konfliktfeld geraten: den Zusammenstoß zwischen streunenden Hunden und einheimischen Wildtieren. In den letzten Jahren gab es vermehrt Berichte über Fälle, in denen Sika-Hirsche im Yangmingshan-Nationalpark, Nebelparder (Clouded Leopards) in Nantou oder Schuppentiere in verschiedenen Regionen durch Angriffe streunender Hunde getötet wurden – ein Phänomen, das in der Wissenschaft als „Dog-Kill“-Problem bezeichnet wird[^12].
 
-Studien zeigen, dass mehr als die Hälfte der bei Tierkliniken behandelten Pangolane von Hunden angeknabbert wurde; und etwa ein Drittel der freilaufenden Leoparden starb durch Hundeangriffe [^13]. Dies führte zu einer intensiven Debatte zwischen Tierschutzorganisationen (die sich auf das individuelle Leben konzentrieren) und Naturschutzgruppen (die die Artenvielfalt schützen wollen). Wie man in einem Rahmen der „Null-Tötung“ seltene einheimische Tiere schützt, ist derzeit eine der schwierigsten ethischen Herausforderungen für Taiwan [^14].
+Studien zeigen, dass bei Schuppentieren, die in Rettungszentren gebracht werden, mehr als die Hälfte Bissverletzungen durch Hunde aufweist; auch bei freigelassenen Nebelpardern starben ein Drittel durch Hundeangriffe[^13]. Dies hat eine heftige Debatte zwischen Tierschützerorganisationen (die sich auf das individuelle Leben konzentrieren) und Naturschutzgruppen (die das Überleben der Arten fokussieren) ausgelöst. Wie man im Rahmen der „Null-Tötungspolitik“ seltene einheimische Tiere schützen kann, ist derzeit eine der schwierigsten ethischen Umweltfragen in Taiwan[^14].
 
-### Das heutige Taiwan: Vom nationalen Lastenpunkt zum Schutzhund des Landes
+### Das heutige Taiwan: Vom nationalen Problem zum „Beschützer des Landes“
 
-Nach dieser beschämten Geschichte haben die heutigen Einstellungen der Taiwaneser gegenüber Tieren stark variiert. Im Jahr 2026 lösten auf sozialen Medien in Japan Werbeplakate vom Flughafen Taoyuan (桃園機場) Diskussionen aus, deren Protagonisten zwei scharfsinnige Quarantänehunde von Miegru waren, kombiniert mit dem Wortspiel „I absorb YOU“, was die Professionalität und den Humor Taiwans beim Schutz der Landwirtschaft demonstrierte [^8].
+Nach dieser Ära der Schande hat sich die Einstellung der Taiwanesen gegenüber Tieren grundlegend gewandelt. Im Jahr 2026 sorgte eine Werbekampagne am Flughafen Taoyuan in japanischen sozialen Medien für Aufsehen: Die Protagonisten waren zwei scharfsinnige Beagle-Quarantänehunde mit einem Wortspiel-Slogan „I 吸 YOU“ (ein Wortspiel auf das englische „I love you“ und das chinesische Wort für „Absaugen/Einatmen“, was die Professionalität und den Humor Taiwans beim Schutz der landwirtschaftlichen Sicherheit unterstreicht)[^8].
 
-Von dem beschämenden Boykottposter auf japanischen Flughäfen in den 1990er Jahren bis zu den viralen „supercoolen Quarantänehunden“ in Japan in den 2020er Jahren – dieser vierzigjährige Bogen dokumentiert nicht nur das Schicksal der Tiere, sondern auch die zivilisatorische Reise Taiwans beim Lernen, mit anderen Lebensformen zu koexistieren. Obwohl weiterhin neue Herausforderungen wie überfüllte Tierheime und ökologische Konflikte bestehen, ist „Leben darf nicht willkürlich ausgelöscht werden“ ein fester Glaube dieser Insel [^9].
+Von den beschämenden Boykott-Plakaten an japanischen Flughäfen in den 1990er Jahren bis hin zu den „super coolen Quarantänehunden“, die in den 2020er Jahren von japanischen Netizens geteilt wurden – dieser vierzigjährige Bogen dokumentiert nicht nur das Schicksal der Tiere, sondern auch den zivilisatorischen Prozess, wie die Menschen in Taiwan lernten, mit anderen Lebensformen koexistieren. Obwohl das Land weiterhin vor neuen Herausforderungen wie überfüllten Tierheimen und ökologischen Konflikten steht, ist die Überzeugung „Leben sollte nicht willkürlich ausgelöscht werden“ zu einem festen Glaubenssatz dieser Insel geworden[^9].
 
 ---
 
 ### Referenzen
 
-## Fußnoten
+[^1]: [Chronik der streunenden Hunde in Taiwan von 1950 bis 2022](https://animal-friendly.co/pet/39823/) — Details siehe ergänzende Informationen im Original-Link.
 
-[^1]: [Tagebuch der streunenden Hunde in Taiwan von 1950 bis 2022](https://animal-friendly.co/pet/39823/) — Animal Friendly
+[^2]: [Berichte ausländischer Gruppen über das Problem der streunenden Hunde in Taiwan](https://h2friends.com/board/hstr/4959.html) — Details siehe ergänzende Informationen im Original-Link.
 
-[^2]: [Berichte ausländischer Gruppen über das Problem der streunenden Hunde in Taiwan](https://h2friends.com/board/hstr/4959.html) — 26. Juli 1998
+[^3]: [Über die administrative Verwaltung von streunenden Hunden und Katzen in unserem Land](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Wissensportal des Landwirtschaftsministeriums.
 
-[^3]: [Verwaltung von streunenden Hunden und Katzen in unserem Land](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Informationsnetzwerk für Tierschutz des Ministeriums für Landwirtschaft
+[^4]: [Der Hintergrund der Compassion in Life Association und die Entwicklung des Tierschutzes in Taiwan in den 90er Jahren](https://www.lca.org.tw/article/3651) — Details siehe ergänzende Informationen im Original-Link.
 
-[^4]: [Hintergrund der Animal Welfare Association und die Entwicklung des Tierschutzes in Taiwan in den Neunzigerjahren](https://www.lca.org.tw/article/3651) — Animal Welfare Association
+[^5]: [Das Tierschutzgesetz in Taiwan: Vergangenheit und Gegenwart!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — Details siehe ergänzende Informationen im Original-Link.
 
-[^5]: [Tierschutzgesetz in Taiwan: Vergangenheit und Gegenwart!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — Nationales Pädagogisches Universität von Taichung
+[^6]: [Lass mich nicht streunen – Unsere Insel](https://ourisland.pts.org.tw/content/968) — PTS Special Topic „Unsere Insel“.
 
-[^6]: [Lasst mich nicht streunen - Unsere Insel](https://ourisland.pts.org.tw/content/968) — CCTV News Network
+[^10]: [Twelve Nights (Taiwanischer Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Wikipedia-Eintrag.
 
-[^10]: [Zwölf Nächte (Taiwan-Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Wikipedia
+[^11]: [Interview: Zurück zum Tag Null mit „Twelve Nights“](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Details siehe ergänzende Informationen im Original-Link.
 
-[^11]: [Exklusives Interview zu Zwölf Nächte](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Annie News
+[^12]: [Wenn Zwischenstationen zu Endstationen werden: Ein Blick auf die Wahrheit in staatlichen Tierheimen nach dem Ende von „Twelve Nights“](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Details siehe ergänzende Informationen im Original-Link.
 
-[^7]: [Von der Zwischenstation zur Endstation: Die Wahrheit über staatliche Tierheime nach dem Ende von Zwölf Nächte](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — The Reporter
+[^13]: [Wessen Zuhause ist der Wildnisraum? – Häufige Angriffe durch Hunde; ökologische und öffentliche Gesundheitskrise durch Konflikte zwischen streunenden Hunden und Wildtieren](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Details siehe ergänzende Informationen im Original-Link.
 
-[^12]: [Wer ist das Zuhause in freier Wildbahn? Ökologische und öffentliche Gesundheitskrisen im Konflikt zwischen streunenden Hunden und Wildtieren](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — The Reporter
+[^14]: [Über die Hälfte der geretteten Schuppentiere und 1/3 der freigelassenen Nebelparder wurden durch Hunde getötet; das Forschungszentrum klagt über willkürliche Fütterung](https://www.agriharvest.tw/archives/102801/) — Fachartikel der Agrarmedien.
 
-[^13]: [Über die Hälfte der behandelten Pangolane, ein Drittel der freilaufenden Leoparden durch Hunde getötet: Spezielle Zentren kritisieren willkürliche Fütterung](https://www.agriharvest.tw/archives/102801/) — Agrar-Medien
+[^15]: [Taiwan Clouded Leopard Conservation Association: Aktiveres Management für streunende Hunde und Katzen erforderlich](https://www.twlcat.org/2025/07/4830/) — Details siehe ergänzende Informationen im Original-Link.
 
-[^14]: [Taiwan Leopard Conservation Association: Forderung nach aktiverem Management von streunenden Hunden und Katzen](https://www.twlcat.org/2025/07/4830/) — Taiwan Leopard Conservation Association
+[^16]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Details siehe ergänzende Informationen im Original-Link.
 
-[^8]: [Taoyuan Airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Taipei Times
-
-[^9]: [Tierschutzgesetz - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia
+[^17]: [Tierschutzgesetz - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia-Eintrag.

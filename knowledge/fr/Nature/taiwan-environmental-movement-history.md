@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-08-04T13:18:21+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:27:05.242381+00:00'
 ---
 
 # Histoire du mouvement environnemental à Taïvan
@@ -92,22 +92,23 @@ Entré dans le XXIe siècle, le mouvement environnemental à Taïwan présente p
 
 ## Défis et perspectives
 
-Le mouvement environnemental à Taïwan fait face à plusieurs défis persistants :
+Le mouvement environnemental à Taïwan est confronté à plusieurs défis persistants :
 
-**Pression du développement économique** : Dans la compétition mondiale, l'équilibre entre protection de l'environnement et croissance économique reste difficile à trouver. La transition énergétique et industrielle nécessite une planification à long terme et un consensus social.
+**Pressions du développement économique** : Dans le contexte de la compétition mondiale, l'équilibre entre protection de l'environnement et croissance économique demeure difficile. La transition énergétique et la transformation industrielle nécessitent toutes deux une planification à long terme et un consensus social.
 
-**Risque de politisation** : Les enjeux environnementaux sont vulnérables à la politisation, ce qui peut affecter la continuité des politiques. La politique nucléaire en est l'exemple le plus frappant, les positions variant selon le parti au pouvoir.
+**Risque de politisation** : Les questions environnementales sont facilement politisées, ce qui affecte la continuité des politiques. La politique nucléaire en est un exemple flagrant, les positions variant selon le parti au pouvoir.
 
-**Divergence des conceptions générationnelles** : Les différences de perception de la valeur environnementale entre les générations influencent la base sociale nécessaire à la mise en œuvre des politiques.
+**Différences générationnelles** : Les perceptions des valeurs environnementales diffèrent selon les générations, ce qui influence le socle social nécessaire à la mise en œuvre des politiques.
 
-**Limites des ressources** : Comparés aux entreprises et au gouvernement, les groupes environnementaux disposent de ressources limitées, ce qui affecte l'ampleur et la pérennité de leurs actions.
+**Limitation des ressources** : Par rapport aux entreprises et au gouvernement, les organisations de protection de l'environnement disposent de ressources limitées, ce qui affecte l'ampleur et la pérennité de leurs actions.
 
-Après quarante ans d'évolution, le mouvement environnemental à Taïwan est passé de la contestation de la pollution à une action diversifiée en faveur du développement durable. Ce processus reflète une transformation des valeurs de la société taïwanaise : de la recherche d'une croissance rapide vers l'importance de la qualité de vie ; de l'intérêt individuel vers la responsabilité intergénérationnelle. La prochaine étape du mouvement environnemental sera de savoir comment établir des mécanismes de gouvernance environnementale plus efficaces au sein du système démocratique.
+Après quarante ans de développement, le mouvement environnemental taïwanais est passé de la lutte contre la pollution à des actions diversifiées visant le développement durable. Ce processus reflète l'évolution des valeurs de la société taïwanaise : de la recherche d'une croissance rapide vers l'importance accordée à la qualité de vie ; de l'intérêt individuel vers la responsabilité intergénérationnelle. La prochaine étape du mouvement environnemental sera de savoir comment établir des mécanismes de gouvernance environnementale plus efficaces au sein du système démocratique.
 
 **Lectures complémentaires** :
 
-- [Discussions sur le nucléaire à Taïwan](/fr/society/taiwan-nuclear-debate) — Comment le mouvement anti-nucléaire est né du mouvement environnemental et a été redéfini par la génération climatique : l'histoire complète de quarante ans de référendums.
-- [Crise climatique et transition vers le zéro émission à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Comment la conscience écologique se transforme en politique nationale de transition vers le net-zéro et de restructuration énergétique.
+- [Le débat sur Taïwan et le nucléaire](/fr/society/taiwan-nuclear-debate) — Comment le mouvement anti-nucléaire a émergé du mouvement environnemental, pour être ensuite redéfini par la génération climatique : l'histoire complète des débats à travers trois référendums en quarante ans.
+- [Crise climatique et transition vers le zéro net à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Comment la conscience environnementale s'est transformée en politiques nationales de transition vers le zéro net et en restructuration de la structure énergétique.
+- [Zebra](/fr/people/chi-po-lin) — En 2013, le film 《看見台灣》 (_Voir Taïwan_) a permis à tout le pays de découvrir ensemble le coût du développement au cinéma ; les controverses ultérieures sur l'aménagement du territoire et les sédiments ont ensuite été reprises par des acteurs locaux.
 
 ## Références
 

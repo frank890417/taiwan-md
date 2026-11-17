@@ -2,9 +2,7 @@
 title: 'Parques de diversiones desaparecidos: del “primer parque” a las leyendas de fantasmas, las infancias confiscadas por la planificación urbana'
 description: 'En 1972, el “Parque Acuático Tatung”, el primer parque temático de Taiwán, abrió sus puertas en Banqiao e inauguró la “era de los grandes parques” que se prolongaría durante dos décadas. Desde las multitudes que llevaron a Chen Chao-ping a servir platos personalmente, hasta los rumores sobre rieles rotos en el Parque Katori, la desaparición colectiva de estos parques no se debió simplemente al envejecimiento de sus instalaciones, sino que refleja la expansión urbana de Taiwán y la transformación de su industria del ocio.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'parques de diversiones',
@@ -14,15 +12,19 @@ tags:
     'Parque Katori',
     'Jardín Yago',
   ]
-readingTime: 8
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/消失的遊樂園.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:66f6ef1e7d53c7c9'
-sourceBodyHash: 'sha256:67b3b53be583f748'
-translatedAt: '2026-06-02T00:40:00+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:7b31af80267ab366'
+sourceBodyHash: 'sha256:0f1dcfb20c9bc8d9'
+translatedAt: '2026-11-05T05:42:42.641960+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -50,16 +52,16 @@ El vecino Parque Katori, en cambio, quedó en la memoria pública de una forma m
 
 📝 **Nota del curador:** La muerte de un parque de diversiones suele ir acompañada de una suerte de “inversión de lo sagrado”. Un lugar que alguna vez concentró risas al máximo volumen, tras quedar sin electricidad y cubierto de maleza, se convierte en una proyección de los temores más profundos.
 
-## Infancias confiscadas: ¿por qué desaparecieron colectivamente los parques?
+## La infancia confiscada: ¿por qué desaparecieron los parques en masa?
 
-La lista de los desaparecidos es extensa: el Parque Mingde de Taipéi, el Parque Asia del embalse Shimen, el Parque Wuzhi de Tainan y la Aldea Folclórica Taiwanesa de Changhua [^3]. Detrás de la desaparición de estos parques hubo causas estructurales muy similares:
+Al enumerar la lista de los desaparecidos: el Parque Mingde de Taipéi, el Parque Asia del Embalse Shihmen, el Parque Wuchih de Tainan y el Pueblo Folclórico de Taiwán en Changhua [^3]. Detrás de la desaparición de estos parques hay razones estructurales extremadamente similares:
 
-| Causa de desaparición                      | Impacto concreto                                                                                                                                                                                                                           |
-| :----------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planificación urbana y normativa**       | Muchos de los primeros parques estaban ubicados en cuencas fluviales o terrenos reservados para parques públicos, lo que impidió renovar sus instalaciones y finalmente condujo a su expropiación.                                         |
-| **Cambio en la competencia del mercado**   | Después de la década de 1990, surgieron parques operados por grandes conglomerados —Janfusun Fancyworld, Leofoo Village, Formosan Aboriginal Culture Village y Window on China—, y los parques locales tradicionales no pudieron competir. |
-| **Desastres naturales y contexto general** | El terremoto del 21 de septiembre de 1999 golpeó duramente el turismo del centro de Taiwán; parques como el Jardín Yago y Katori sufrieron una fuerte caída de visitantes, lo que se convirtió en el golpe final antes del cierre.         |
-| **Apertura de los viajes al extranjero**   | Con la apertura del turismo en 1979, la mirada de los taiwaneses se desplazó hacia Disney y Universal Studios, y el atractivo relativo de los parques locales disminuyó.                                                                   |
+| Causa de la desaparición                  | Impacto concreto                                                                                                                                                                                                                           |
+| :---------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planificación urbana y normativa**      | Muchos de los primeros parques estaban situados en zonas de captación fluvial o terrenos destinados a parques, lo que impedía la renovación de las instalaciones y acabó en su expropiación.                                               |
+| **Cambio en la competencia del mercado**  | A partir de los años 90, surgieron los «tres montañas y un pueblo» (Janfusun, Leofoo Village, Formosan Aboriginal Culture Village, Window on China) operados por grandes grupos, y los parques locales tradicionales no pudieron competir. |
+| **Desastres naturales y entorno general** | El gran terremoto del 921 de 1999 asestó un duro golpe al turismo en el centro de Taiwán; parques como Yako Garden y Kadoorie vieron caer sus visitantes en picado, lo que fue la gota que colmó el vaso para su cierre.                   |
+| **Apertura de los viajes al extranjero**  | Con la apertura del turismo al exterior en 1979, la mirada de los taiwaneses se volcó hacia Disney y Universal Studios, y el atractivo de los parques locales disminuyó relativamente.                                                     |
 
 ## Resonancias: reconstruir recuerdos sobre las ruinas
 
@@ -73,16 +75,16 @@ Los parques de diversiones desaparecidos no son una herida de la cultura taiwane
 
 ## Referencias
 
-[^1]: [台灣第一座主題樂園 回顧大同水上樂園的美好記憶](https://time.udn.com/udntime/story/122835/5701671) — _Time.udn_: registra en detalle el proceso de fundación del Parque Acuático Tatung y sus cifras de ingresos.
+[^1]: [El primer parque temático de Taiwán: recordando los bellos recuerdos del Parque Acuático Datong](https://time.udn.com/udntime/story/122835/5701671) — Report Time: detalla el proceso de fundación y las cifras de ingresos del Parque Acuático Datong.
 
-[^2]: [華視經典戶外節目的拍攝地：亞哥花園的特殊地位](https://udn.com/news/story/120910/6486512) — _United Daily News_: repasa la relación entre el Jardín Yago y _Baizhan Baisheng_.
+[^2]: [Lugar de rodaje del clásico programa al aire libre de CTV: el estatus especial del Jardín Yage](https://udn.com/news/story/120910/6486512) — United Daily News: repasa la relación entre el Jardín Yage y 'Bai Zhan Bai Sheng'.
 
-[^3]: [小時候去過的遊樂園，現在都還在嗎？台灣 10 座消失的樂園](https://www.storm.mg/lifestyle/141341) — _The Storm Media_: inventario de los principales parques desaparecidos de Taiwán y su situación actual.
+[^3]: [¿Siguen existiendo los parques de atracciones que visitabas de niño? 10 parques desaparecidos de Taiwán](https://www.storm.mg/lifestyle/141341) — The Storm Media: recuento de los principales parques desaparecidos de Taiwán y su situación actual.
 
-[^4]: [消失的遊樂園 - 時空旅行社](https://curation.culture.tw/curation/public?id=1145) — Banco Nacional de Memoria Cultural: ofrece abundantes comparaciones entre pasado y presente, así como información sobre los parques aéreos en grandes almacenes.
+[^4]: [Parques de atracciones desaparecidos - Agencia de Viajes en el Tiempo](https://curation.culture.tw/curation/public?id=1145) — Archivo Nacional de Memoria Cultural: proporciona abundantes comparaciones entre pasado y presente y datos sobre los parques en azoteas de grandes almacenes.
 
-[^5]: [倒閉後頻傳靈異謠言！曾以雲霄飛車聞名的卡多里遊樂園](https://time.udn.com/udntime/story/122835/7007866) — _Time.udn_: aclara las causas del cierre del Parque Katori y los rumores paranormales.
+[^5]: [¡Rumores paranormales tras su cierre! El parque Kadoorie, famoso por su montaña rusa](https://time.udn.com/udntime/story/122835/7007866) — Report Time: aclara las razones del cierre del parque Kadoorie y los rumores paranormales.
 
-[^6]: [無人敢去的台中恐怖廢棄遊樂園 他為兒時夢改造成為賽車場](https://www.storm.mg/article/405013) — _The Storm Media_: reportaje sobre la transformación del Jardín Yago en circuito de carreras.
+[^6]: [El aterrador parque abandonado de Taichung al que nadie se atreve a ir: lo transformó en un circuito de carreras por su sueño de infancia](https://www.storm.mg/article/405013) — The Storm Media: reporta la historia de la transformación del Jardín Yage en un circuito de carreras.
 
-[^7]: [全台樂園祖師爺超吸金 大同水上樂園「半年就回本」](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo Noticias: datos sobre la inversión inicial del Parque Acuático Tatung y la rapidez con que recuperó sus costos.
+[^7]: [El 'ancestro' de los parques de Taiwán genera enormes ganancias: el Parque Acuático Datong 'recuperó la inversión en medio año'](https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%A8%82%E5%9C%92%E7%A5%96%E5%B8%AB%E7%88%BA%E8%B6%85%E5%90%B8%E9%87%91-%E5%A4%A7%E5%90%8C%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E5%8D%8A%E5%B9%B4%E5%B0%B1%E5%9B%9E%E6%9C%AC-141201826.html) — Yahoo News: datos sobre la inversión inicial y el punto de equilibrio del Parque Acuático Datong.

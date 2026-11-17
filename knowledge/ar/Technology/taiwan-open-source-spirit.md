@@ -2,9 +2,7 @@
 title: 'روح تايوان مفتوحة المصدر — مهندسون يعملون بدافع الشغف'
 description: 'أكثر مشاريع تايوان مفتوحة المصدر تأثيرًا ليس برنامجًا، بل مجموعة من المهندسين قالوا للحكومة في هاكاثون: "أنتم لا تنجزون الأمر بشكل جيد، سنقوم نحن به".'
 date: 2026-03-29
-author: 'p3nchan'
 category: 'Technology'
-subcategory: '社群與數位文化'
 tags:
   [
     'مفتوحة المصدر',
@@ -14,15 +12,19 @@ tags:
     'التكنولوجيا المدنية',
     'البرمجيات الحرة',
   ]
-readingTime: 8
+subcategory: '社群與數位文化'
+author: 'p3nchan'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-07-26T03:58:15+08:00'
+translatedAt: '2026-11-04T16:32:31.577272+00:00'
 ---
 
 > حجم صناعة البرمجيات في تايوان لا يُصنّف في الطليعة عالميًا، لكن مستخدمي غيت هب (GitHub) الذين يحدّدون موقعهم في تايوان يتجاوزون 44,000 شخص، وهاكاثونات المجتمع المتراكمة تفوق 70 فعالية، بآلاف المساهمين — يكاد جميعهم مطوّرون فرديون يعملون بعد ساعات الدوام الرسمي وعلى نفقتهم الخاصة. هذه المقالة لا تتحدّث عن g0v فحسب، بل ترسم خريطة كاملة لثقافة تايوان مفتوحة المصدر من أربعة زوايا: الأشخاص، المجتمع، التعليم، والصناعة.

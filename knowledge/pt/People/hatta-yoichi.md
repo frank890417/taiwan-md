@@ -1,17 +1,17 @@
 ---
-title: 'Hatta Yoichi: da lenda da irrigação ao "Canal que Morde", a marca colonial do tecnocrata'
-description: 'Na década de 1920, o engenheiro japonês Hatta Yoichi construiu o Reservatório de Wushantou e o Canal de Chianan na planície de Chianan, em Taiwan. Esta obra de nível mundial trouxe colheitas abundantes, mas, pela sua natureza de exploração colonial e o pesado fardo sobre os camponeses, foi chamada por alguns de "Canal que Morde". Este artigo explora a fundo os méritos e deméritos de Hatta Yoichi, a dualidade da sua filosofia de gestão e as complexas marcas que esta história deixou na sociedade taiwanesa.'
+title: 'Yoichi Hatta: Da engenharia hidráulica ao "Canal que morde as pessoas", a marca colonial de um tecnocrata'
+description: 'Na década de 1920, o engenheiro japonês Yoichi Hatta construiu a Represa de Wushantou e o Canal de Jiā-Nán na Planície de Chianan, em Taiwan. Embora este projeto de nível mundial tenha trazido colheitas agrícolas abundantes, devido à sua natureza de exploração colonial e ao pesado fardo sobre os camponeses, foi apelidado por alguns agricultores como o "Canal que morde as pessoas". Este artigo explorará profundamente os méritos e falhas de Yoichi Hatta, a dualidade de sua filosofia de gestão e a complexa marca que este período histórico deixou na sociedade taiwanesa.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'Hatta Yoichi',
+    'Yoichi Hatta',
     'Canal de Chianan',
-    'Reservatório de Wushantou',
-    'período colonial japonês',
-    'exploração colonial',
-    'agricultura de Taiwan',
-    'avaliação histórica',
+    'Represa de Wushantou',
+    'Período do domínio japonês',
+    'Exploração colonial',
+    'Agricultura de Taiwan',
+    'Avaliação histórica',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,13 +20,13 @@ lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'People/八田與一.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:6b0f80761ab45ab9'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:9f1665215c6b5da8'
 sourceBodyHash: 'sha256:2885ebb0691722a3'
-translatedAt: '2026-07-30T03:55:56+08:00'
+translatedAt: '2026-11-02T16:09:43.672940+00:00'
 ---
 
-> **Visão geral em 30 segundos:** Em 1920, o engenheiro japonês Hatta Yoichi supervisionou a construção do Reservatório de Wushantou e do Canal de Chianan na planície de Chianan, em Taiwan. Esta obra de engenharia, aclamada como "milagre da engenharia", transformou terras áridas no celeiro de Taiwan. No entanto, por trás dela estava a pilhagem de recursos de Taiwan pelo governo colonial japonês, bem como o sangue e as lágrimas dos camponeses forçados ao "sistema de rotação trienal de culturas", ganhando até o apelido de "Canal que Morde". A decisão de Hatta Yoichi de "demitir primeiro os funcionários mais competentes" durante cortes de pessoal, embora interpretada como preocupação humanitária, também gerou controvérsia gestacional. Esta história, no suicídio por afogamento da esposa de Hatta, Yotoki, após a guerra, e no decapitamento contemporâneo da estátua de Hatta, continua a lembrar-nos que a avaliação dos feitos e falhas de um construtor colonial nunca é unidimensional, mas cheia de contradições e tensões.
+> **Resumo em 30 segundos:** Em 1920, o engenheiro japonês Hatta Yoichi liderou a construção do reservatório de Wushantou e do sistema de irrigação Chianan Plain em Taiwan. Esta obra hidráulica, aclamada como um "milagre da engenharia", transformou terras áridas no celeiro de arroz de Taiwan. No entanto, por trás disso, havia a exploração dos recursos de Taiwan pelo governo colonial japonês e o sofrimento dos agricultores, forçados a implementar o "sistema de rotação de três anos", o que rendeu ao projeto o apelido de "Grande Canal que morde pessoas". A decisão de Hatta Yoichi de "priorizar a demissão de funcionários excelentes" durante cortes de pessoal, embora interpretada por alguns como um gesto de humanidade, também gerou controvérsias de gestão. Esta história — marcada pelo desespero da esposa de Hatta, a Sra. Hatta, que cometeu suicídio por afogamento no pós-guerra, e pelo incidente contemporâneo da decapitação de sua estátua — serve como um lembrete constante de que a avaliação das obras de construtores coloniais nunca é unidimensional, sendo sempre repleta de contradições e tensões.
 
 ## Uma visão que atravessa eras: o nascimento do Canal de Chianan e o contexto colonial
 

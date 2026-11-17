@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T20:44:25.355353+00:00'
 ---
 
 # Dương Hữu Nhiệm: Từ học sinh trung học bỏ học làm graffiti đến người cứu mạng bằng giày cũ tại Phi Châu
@@ -58,19 +60,19 @@ Dương Hữu Nhiệm xuất bản sách "Tặng Bạn 5 Vạn Đôi Ước Mơ:
 
 ## Tài liệu tham khảo
 
-[^1]: [Dương Hữu Nhiệm — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Tư liệu chính về cuộc đời, bao gồm sinh tại Đào Viên, du học Úc và bước ngoặt đức tin.
+[^1]: [Dương Hữu Nhậm — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Các thông tin chính về cuộc đời, bao gồm việc sinh ra tại Đào Viên, du học tại Úc và bước ngoặt trong đức tin.
 
-[^2]: [Step30 Cứu Mạng Bằng Giày Cũ — Trang web chính thức](https://www.step30.org/) — Giới thiệu tổ chức, dự án truyền giáo và báo cáo dịch vụ hàng năm.
+[^2]: [Step30 Cứu giúp bằng giày cũ — Trang web chính thức](https://www.step30.org/) — Giới thiệu về tổ chức, các kế hoạch mục vụ và báo cáo dịch vụ hàng năm.
 
-[^3]: [Hội Chăm Sóc Cơ Đốc Quốc Tế Cứu Mạng Bằng Giày Cũ — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Tiến trình sự kiện poster năm 2014, ghi nhận phân phát container.
+[^3]: [Hiệp hội Quan tâm Cơ đốc Quốc tế Cứu giúp bằng giày cũ — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Diễn biến sự việc về tấm áp phích năm 2014, hồ sơ phân phối container hàng.
 
-[^4]: [Phỏng vấn 104 Chưởng Thưởng — Từ tiểu 혼 đường phố đến Top 10 Thanh Niên Xuất Sắc](https://blog.104.com.tw/104bravo-step30-org-founder/) — Câu chuyện bước ngoặt cuộc đời Dương Hữu Nhiệm, nguồn gốc tên Step30 và giải thích triết lý "không tạo sự phụ thuộc".
+[^4]: [Phỏng vấn đặc biệt của 104 — Từ kẻ lêu lổng đường phố đến Top 10 Thanh niên Kiệt xuất](https://blog.104.com.tw/104bravo-step30-org-founder/) — Câu chuyện về bước ngoặt cuộc đời của Dương Hữu Nhậm, nguồn gốc tên gọi Step30 và giải thích triết lý "không tạo ra sự phụ thuộc".
 
-[^5]: [Trang web Step30 — Giới thiệu dự án](https://www.step30.org/) — Mô tả bốn dự án: Khuyến Học, Nước Sống, Yêu Thương Nữ Hài, Tự Lập Nông Nghiệp.
+[^5]: [Trang web chính thức Step30 — Giới thiệu dự án](https://www.step30.org/) — Giải thích về bốn dự án: Hưng Học, Hoạt Thủy, Ái · Cô gái và Nông nghiệp tự lực.
 
-[^6]: [Hội Liên Hữu Top 10 Thanh Niên Xuất Sắc](https://www.youth.org.tw/) — Xác nhận Dương Hữu Nhiệm được chọn Top 10 Thanh Niên Xuất Sắc năm 2017.
+[^6]: [Hiệp hội Giao lưu Mười Thanh niên Kiệt xuất](https://www.youth.org.tw/) — Xác nhận Dương Hữu Nhậm được bầu chọn là một trong mười Thanh niên Kiệt xuất năm 2017.
 
-[^7]: ["Tặng Bạn 5 Vạn Đôi Ước Mơ" — Books.com.tw](https://www.books.com.tw/products/0010806227) — Tác phẩm của Dương Hữu Nhiệm (Nhà Sách Trường Học, 2018), ghi lại lịch sử sáng lập Cứu Mạng Bằng Giày Cũ và hành trình tâm đường truyền giáo tại Phi Châu.
+[^7]: [《Trao cho bạn 50.000 đôi chúc phúc》— Books.com.tw](https://www.books.com.tw/products/0010806227) — Tác phẩm của Dương Hữu Nhậm (Nhà sách Học đường, 2018), ghi lại quá trình thành lập tổ chức Cứu giúp bằng giày cũ và tâm thế thực hiện mục vụ tại Châu Phi.
 
 ## Đọc thêm
 

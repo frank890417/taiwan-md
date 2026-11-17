@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-09T15:34:32+08:00'
+translatedAt: '2026-11-05T07:24:28.270001+00:00'
 ---
 
 > **30초 요약:** 타이둥현 둥허향 두란촌의 '물 위로 흐르기'는 너비가 반 미터도 채 되지 않는 관개 수로이지만, 타이완 전역에서 가장 유명한 '반직관적 명소' 중 하나다. 지상 측량 결과 이 수로는 실제로 약 0.5~0.6도 아래로 경사져 있으며, 옆 도로의 경사각은 더 커서 두 경사선을 함께 볼 때 뇌는 경사가 더 큰 도로를 기준 수평면으로 간주하여 경사가 작은 수로를 '위로 흐르는 것'으로 읽는다. 이는 중력이나 자기장의 실패가 아닌 시각 시스템의 참조계 착시 현상이다. 이 수로는 원래 현지 아미족이 파놓은 관개 수로였으나, 1980년대에 국내 관광 열풍 이후 공식적으로 기념비를 세워 기적으로 포장되었고, 최근에는 '전국에서 가장 쓸모없는 명소'라는 인터넷 평가로 인해 새로운 논의가 일고 있다.

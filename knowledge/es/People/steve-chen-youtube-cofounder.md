@@ -1,16 +1,16 @@
 ---
-title: 'Steve Chen (陳士駿)'
-description: 'Dejó Taiwán a los ocho años, a los veintisiete construyó en Estados Unidos un lugar donde cualquiera podía subir vídeos, veinte meses después lo vendió por 1650 millones de dólares, luego le creció un tumor en la cabeza y finalmente regresó con su mujer e hijos.'
+title: 'Steve Chen'
+description: 'Dejó Taiwán a los ocho años, a los veintisiete construyó en Estados Unidos un lugar donde cualquiera podía subir vídeos, veinte meses después lo vendió por 16.500 millones de dólares, luego le creció un tumor en el cerebro y entonces regresó con su esposa e hijos.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
     'Steve Chen',
     'YouTube',
-    'Silicon Valley',
-    'startup',
-    'tarjeta de empleo dorada',
-    'tumor cerebral',
+    'Valle del Silicio',
+    'startups',
+    'Tarjeta Dorada de Empleo',
+    'Tumor cerebral',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '5478954ba'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-09-18T00:53:02+08:00'
+translatedAt: '2026-11-06T16:00:27.055468+00:00'
 ---
 
 # Steve Chen (陳士駿)

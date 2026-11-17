@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 35
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/維基百科.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T17:19:36.419058+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

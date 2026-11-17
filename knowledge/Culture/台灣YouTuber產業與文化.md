@@ -9,6 +9,8 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** 2024年3月，台灣魔術YouTuber「Chi Hsuan Tricking」成為全台首位千萬訂閱創作者，標誌著台灣YouTube文化從2008年蔡阿嘎的愛台灣時事影片，進化為具國際競爭力的內容輸出平台。YouTube在台灣觸及率超過95%的網路使用者，短影音（Shorts）觀看時間佔比已突破75%，創作者正從純影音生產轉向品牌化與多元變現的轉型期。
@@ -73,6 +75,7 @@ YouTube在台灣的影響力極高。根據最新報告，YouTube在台灣能觸
 - [阿神](/people/阿神) — 從本人自述十一年日更、兩次不同停更宣告到 2026 年復更，具體呈現創作者如何改寫固定發布承諾。
 - [泛科學](/society/泛科學) — 從科普文章走向短影音、YouTube MCN 與知識創作者服務，補上知識型創作者如何面對演算法與商業化的案例。
 - [無名小站](/culture/無名小站) — 台灣第一代素人創作者（彎彎、九把刀、正妹相簿）的搖籃，YouTuber 出現之前的創作者經濟就是從這裡長出來的。
+- [這群人](/people/這群人) — 2017 年台灣第一組破兩百萬訂閱的 YouTuber，七個成員十三年沒有人退團，2024 年停更但沒有解散。
 
 ## 參考資料
 

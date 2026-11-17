@@ -1,20 +1,30 @@
 ---
-title: 'Chu Tien-wen: 1956 Taipei, from *San San Journal* to *A City of Sadness* and the Golden Lion at Venice'
-description: 'Born in Taipei in 1956, daughter of novelist Chu Hsi-ning. In 1977, co-founded *San San Journal* with Hu Lan-cheng and others. Longtime screenwriter for Hou Hsiao-hsien; her landmark work *A City of Sadness* won the Golden Lion at the Venice Film Festival in 1989. In 1994, her novel *Notes of a Desolate Man* won the top prize in the novel category of the China Times Literary Award. Screenwriting credits include *Good Men, Good Women* and *Goodbye South, Goodbye*.'
+title: "Chu Tien-wen: 1956 Taipei, from 'San San Chi Kan' to 'A City of Sadness' Venice Golden Lion"
+description: "Born in Taipei in 1956, daughter of Chu Hsi-ning. In 1977, co-founded 'San San Chi Kan' with Hu Lan-cheng and others. Long-time screenwriter for Hou Hsiao-hsien; her representative work 'A City of Sadness' won the Venice Golden Lion in 1989. In 1994, 'Notes of a Desolate Man' won the China Times Literature Award first prize. Screenwriting credits include 'Good Men, Good Women' and 'Goodbye South, Goodbye.'"
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Literature',
+    'Film Screenwriter',
+    'Hou Hsiao-hsien',
+    'Chu Hsi-ning',
+    'San San Literature',
+    'Notes of a Desolate Man',
+  ]
 subcategory: '文學'
-tags: ['文學', '電影編劇', '侯孝賢', '朱西甯', '三三文學', '荒人手記']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-05-25T21:06:51Z'
+translatedAt: '2026-11-04T21:40:05.217672+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipei, from _San San Journal_ to _A City of Sadness_ and the Golden Lion at Venice

@@ -2,21 +2,21 @@
 title: '伍佰：六脚郷蒜頭村から出発、台湾語ロック三十年の不退転'
 description: '本名呉俊霖、1968年に嘉義県六脚郷蒜頭村で生まれる。1992年に「伍佰&China Blue」を結成し、1995年『ノルウェーの森』で台湾語ロックの路線を確立。2016年に『釘子花』を発表し、2017年に金曲賞最優秀台湾語アルバムを獲得。2025年に新アルバム『純白の起点』を発表、ROCK STAR 2 ツアーは両岸を横断する。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags: ['音楽', 'ロック', '台湾語歌曲', '嘉義', 'ローカルロック', 'ギター']
-readingTime: 7
-#   whats_excluded: "各アルバムの年ごとの収録曲；China Blueメンバーの変動の詳細；商業収益とコンサートの興行収入"
-#   where_it_hedges: "2025年の『純白の起点』および2026年の詩集はTODOマークとして記載、詳細は天機星の確認待ち"'
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: People/伍佰.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:2dda34fc81c78056
-sourceBodyHash: sha256:fb05d9869b96635c
-translatedAt: 2026-05-22T05:08:46+08:00
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/伍佰.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2dda34fc81c78056'
+sourceBodyHash: 'sha256:fb05d9869b96635c'
+translatedAt: '2026-11-04T21:39:45.285411+00:00'
 ---
 
 # 伍佰：六脚郷蒜頭村から出発、台湾語ロック三十年の不退転

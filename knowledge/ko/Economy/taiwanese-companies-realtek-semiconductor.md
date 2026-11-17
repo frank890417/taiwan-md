@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:42+08:00'
+translatedAt: '2026-11-04T16:17:03.108613+00:00'
 ---
 
 > **30초 요약:** 1987년 7명의 엔지니어가 200만 신타이완 달러를 들여 신주 과학단지에 리얼텍 세미컨덕터(Realtek Semiconductor)를 설립하고 게를 상징으로 삼았습니다. 1991년 타이완 최초의 자체 개발 네트워크 칩을 출시했으며, 2024년 연결 매출액은 약 NT$1,134억(전년 대비 19.1% 증가)에 달하는 타이완 제3위 IC 설계 기업입니다. 전 세계 거의 모든 컴퓨터에는 '리얼텍 게'가 숨어 있을 가능성이 높습니다.
@@ -98,17 +100,17 @@ translatedAt: '2026-10-15T12:42:42+08:00'
 
 ## 참고 자료
 
-[^1]: [리얼텍 세미컨덕터 2024년도 보고서｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — 2024년 전체 연결 매출액 약 NT$1,134억(전년 대비 19.1% 증가) 확인; 7명의 창업자가 1987년 10월 21일 설립.
-
-[^2]: [공개정보관측스테이션: 리얼텍 세미컨덕터](https://mops.twse.com.tw/) — 2379 상장 기본 정보, 연도별 재무 보고서.
-
-[^3]: [타이완 증권거래소: 2379 리얼텍](https://www.twse.com.tw/) — 종목 코드 2379 확인, 1998년 상장, 치우순젠 현 이사장 확인.
-
-[^4]: [리얼텍 공식 홈페이지 제품 라인](https://www.realtek.com/) — WiFi 6/7 칩 제품군 설명.
-
-[^5]: [테크놀로지 뉴스: 리얼텍 세미컨덕터의 여정](https://technews.tw/) — 네트워크 칩으로 시작해 멀티미디어 IC로 확장한 리얼텍 세미컨덕터의 산업 배경 보도.
-
 **연관 읽기**
 
-- [테크놀로지 뉴스: 리얼텍 세미컨덕터 발전 과정](https://technews.tw/)
-- [전자시보: 타이완 IC 설계 산업 보고서](https://www.digitimes.com.tw/)
+- [TechNews: 리얼텍 세미컨덕터(Realtek) 발전 과정](https://technews.tw/)
+- [Digitimes: 대만 IC 설계 산업 보고서](https://www.digitimes.com.tw/)
+
+[^1]: [리얼텍 세미컨덕터 2024년도 보고서｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — 2024년 전체 연결 매출액 약 NT$1,134억(전년 대비 19.1% 증가) 확인; 7인의 창업자가 1987년 10월 21일 설립.
+
+[^2]: [공시정보관측스테이션: 리얼텍 세미컨덕터](https://mops.twse.com.tw/) — 종목코드 2379 상장 기본 정보 및 연도별 재무 보고서.
+
+[^3]: [대만증권거래소: 2379 리얼텍](https://www.twse.com.tw/) — 주식 종목코드 2379 확인, 1998년 상장, 구순젠(邱順建) 현 이사장.
+
+[^4]: [리얼텍 공식 홈페이지 제품 라인업](https://www.realtek.com/) — WiFi 6/7 칩셋 제품군 설명.
+
+[^5]: [TechNews: 리얼텍 세미컨덕터의 역사](https://technews.tw/) — 네트워크 칩셋으로 시작하여 멀티미디어 IC로 확장한 리얼텍 세미컨덕터의 산업 배경 보도.

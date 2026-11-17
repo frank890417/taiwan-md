@@ -18,10 +18,10 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 10
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-11-02T01:01:38.613433+00:00'
 ---
 
 > **30 giây tóm tắt:** Trương Chỉ Kỳ (Zhang Zhiqu, sinh năm 1991) là một trong những YouTuber có ảnh hưởng nhất Đài Loan, kênh "Chỉ Kỳ Thất Thất" nổi tiếng với phong cách cập nhật hàng ngày và trình bày nhiều quan điểm. Anh bắt đầu từ lĩnh vực thiết kế, nỗ lực "dịch thuật" những vấn đề nghiêm túc vào không gian truyền thống rộng lớn, đồng thời liên tục tìm kiếm không gian đối thoại trong xã hội cực hóa. Bài viết khám phá cách anh biến "cải tổ xã hội" thành một mô hình kinh doanh thành công và hành trình xây dựng niềm tin cùng ảnh hưởng trong môi trường phức tạp.
@@ -68,9 +68,9 @@ Trước sóng gió của AI và video ngắn, Trương Chỉ Kỳ cho thấy s�
 
 ## Đọc thêm
 
-- **[A-Ti (Adi)](/vi/people/ray-du-english-youtuber/)**：Đồng sáng lập viên Hội đồng Sáng tạo Phương tiện Truyền thông mới Đài Loan, cùng Trương Chỉ Kỳ đều là YouTuber trí tuệ thuộc thế hệ "Chú hai"
-- **[Bát Tương (Batu)](/vi/people/pa-chiung-political-youtuber/)**：Một chiến lược tự truyền thống khác, tập trung vào bình luận thời sự nhưng đi theo hướng "châm biếm chiến tranh"
-- **[Cách mạng Dân chủ Đài Loan](/vi/history/taiwan-democratization/)**：Bối cảnh phát triển của công chúng Đài Loan sau phía sau phong cách "trình bày nhiều quan điểm" của Trương Chỉ Kỳ
+- **[A-Dī (阿滴)](/vi/people/ray-du-english-youtuber)**: Đồng sáng lập Hiệp hội Nhà sáng tạo Video Truyền thông mới Đài Loan, cả hai đều là những YouTuber thuộc thế hệ kiến thức kiểu "Lý Trưởng Bá" (Lǐzhăng bó).
+- **[Bát Quỳnh (八炯)](/vi/people/pa-chiung-political-youtuber)**: Cũng lấy bình luận thời sự làm trọng tâm, nhưng đi theo một chiến lược truyền thông tự thân khác theo hướng "châm biếm thống nhất".
+- **[Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization)**: Bối cảnh tiến hóa của thảo luận công cộng tại Đài Loan đằng sau phong cách giám tuyển "đa dạng quan điểm" của Trương Chí Kỳ (Chang Chih-chi).
 
 ---
 

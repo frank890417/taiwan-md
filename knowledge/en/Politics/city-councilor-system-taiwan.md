@@ -1,16 +1,16 @@
 ---
-title: "Councilor System: Why It Differs from Legislators, SNTV's 30 Years in Local Politics"
-description: "In 2008, legislators switched to a single-member district two-vote system, yet that same year's county and city councilor elections still used the 1980s SNTV system — same country, same voters, different offices on the same ballot, but two completely different rule sets. This isn't a bug; it's the biggest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and transition costs. A dissection of how the two systems operate, why one reformed while the other didn't, and what it means for small parties and diverse representation — a map of the systems."
+title: 'Councilor System: How It Differs from Legislators, Why Local Elections Still Use the Old SNTV System'
+description: 'Legislators enter the Legislative Yuan, with 113 seats nationwide. Since 2008, each district elects only one person, and voters cast a separate party-list ballot; county and city councilors enter 22 county/city councils, which to this day still elect multiple seats per district, voters can only vote for one candidate, and there is no party-list ballot. This old system is called SNTV. The 2005 constitutional amendment changed the legislator election system, but the councilor election system has not caught up for eighteen years. Behind this are local factions, party interests, and the costs of redistricting, which also determine that small parties find it easier to win seats in local councils than in the national legislature.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Councilors',
-    'Electoral system',
+    'Councilor',
+    'Election System',
     'SNTV',
-    'Single-member district two-vote system',
-    'Legislators',
-    '2026 election',
+    'Single-Member District Two-Vote System',
+    'Legislator',
+    '2026 Election',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -18,16 +18,20 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T00:49:06.010910+00:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-05T22:54:33.869561+00:00'
 ---
 
-# Councilor System: Why It Differs from Legislators, and SNTV's 30 Years in Local Politics
+# Councilor System: How It Differs from Legislators, and Why Local Elections Still Use the Old SNTV System
 
-> **30-Second Overview:** On January 12, 2008, Taiwan's 7th Legislative Yuan election adopted the "single-member district two-vote system" for the first time — one vote for a candidate, one vote for a party. Legislator seats were cut from 225 to 113, and the electoral method was completely rewritten. In the 16th county and city councilor elections held before December of the same year, the "Single Non-Transferable Vote in multi-member districts" (SNTV) — carried over from the 1980s — remained in use: each district elects five to ten seats, voters can only select one candidate, and surplus votes cannot be transferred to party colleagues. In the same year, with the same voters, and two positions on the same election gazette, two completely different sets of game rules were running. This is not a technical bug, but the result of institutional reform deliberately stopping halfway. Behind it lie local factions and the two major parties' lock-in to the SNTV structure, the high cost of complementary reforms, the failure to forge cross-party consensus — and it remains one of the most underestimated unfinished tasks on Taiwan's 30-year path of democratic deepening.
+> **30-Second Overview:** On January 12, 2008, Taiwan's 7th Legislative Yuan election adopted the "single-member district two-vote system" for the first time — one ballot for the candidate, one for the party. Legislative seats were slashed from 225 to 113, and the electoral method was completely rewritten. Yet the 16th County and City Councilor elections held before December of that same year still used the "Single Non-Transferable Vote in Multi-member Districts" (SNTV) that had been carried over from the 1980s — each district elects five to ten seats, voters can only select one person, and surplus votes cannot be transferred to same-party candidates. In the same year, with the same voters, and two positions on the same election gazette, two completely different sets of game rules were running. This is not a technical bug; it is the result of systemic reform deliberately stopping halfway. Behind it lie the binding of local factions and the two major parties to the SNTV structure, the high cost of complementary reforms, the failure to forge cross-party consensus — and it remains one of the most underestimated pieces of unfinished business on Taiwan's 30-year path of democratic deepening.
 
 ## Same Year, Two Systems
 

@@ -2,26 +2,30 @@
 title: 'Экологическая мудрость и охрана окружающей среды у коренных народов Тайваня'
 description: 'Рассматривается традиционная экологическая знания, накопленные коренными народами Тайваня за тысячелетия, а также их важное значение и способы применения в современной охране окружающей среды'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '原住民生態智慧'
 tags:
-  - 'коренные народы'
-  - 'экологическая мудрость'
-  - 'охрана окружающей среды'
-  - 'традиционные знания'
-  - 'инициатива Сатояма'
-  - 'культура охоты'
-  - 'устойчивое развитие'
-readingTime: 9
+  [
+    'коренные народы',
+    'экологическая мудрость',
+    'охрана окружающей среды',
+    'традиционные знания',
+    'инициатива Сатояма',
+    'культура охоты',
+    'устойчивое развитие',
+  ]
+subcategory: '原住民生態智慧'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-07-25T19:27:08+08:00'
+translatedAt: '2026-11-04T20:21:04.162028+00:00'
 ---
 
 # Экологическая мудрость и охрана окружающей среды у коренных народов Тайваня

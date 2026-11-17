@@ -2,9 +2,7 @@
 title: 'Chuang Chu Yu-nu: da mesa gratuita dos estivadores à marmita de dez dólares taiwaneses que custou sete imóveis'
 description: "Em 1951, Chuang Chu Yu-nu montou um fogão à beira do porto de Kaohsiung para oferecer refeições gratuitas a estivadores necessitados. Conhecida como a 'guardiã dos pobres', esta avó manteve, durante as cinco décadas seguintes, um bufê livre por apenas dez dólares taiwaneses, chegando a vender sete imóveis para cobrir os custos, transformando o 'fazer com que as pessoas comam até se fartar' na sua fé de uma vida."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
     'filantropa',
@@ -14,15 +12,19 @@ tags:
     'bem-estar social',
     'Penghu',
   ]
-readingTime: 10
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-05T00:15:53.848724+00:00'
 ---
 
 > **Resumo em 30 segundos:** Chuang Chu Yu-nu (1920-2015) foi uma filantropa famosa de Taiwan, que durante longos anos operou um "bufê de dez dólares taiwaneses" sob o viaduto do Parque em Kaohsiung. Inicialmente, ela oferecia refeições gratuitas para cuidar de compatriotas estivadores; mais tarde, devido aos custos elevados, passou a cobrar dez dólares, mas sempre insistiu no "coma à vontade" sem calcular o lucro. Ao longo da vida, vendeu sete imóveis para fazer o bem; seu funeral atraiu mais de três mil pessoas, e seu espírito permanece até hoje como símbolo do calor humano na sociedade taiwanesa.

@@ -1,14 +1,14 @@
 ---
-title: 'Huang Chen-nan (黃震南)'
-description: 'Huang Chen-nan adalah pekerja sejarah dan budaya Taiwan, kolektor buku, dan penulis yang berbagi sejarah Taiwan serta budaya buku lama melalui halaman "Huo Shui Lai Ce Fang" (活水來冊房), penulis buku "Sejarah Taiwan Paling Kaya Meme" (《台灣史上最有梗的台灣史》) dan karya lainnya.'
+title: 'Huang Zhenan'
+description: 'Huang Zhenan adalah seorang peneliti sejarah dan budaya Taiwan, kolektor buku, dan penulis, yang melalui halaman "Huo Shui Lai Ce Fang" berbagi sejarah Taiwan dan budaya buku bekas, serta menulis buku seperti "Sejarah Taiwan Paling Lucu dalam Sejarah Taiwan" dan lain-lain.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Sejarah dan budaya Taiwan',
-    'kolektor buku',
-    'Huang Chen-nan',
-    'sejarah Taiwan',
+    'Sejarah dan Budaya Taiwan',
+    'Kolektor Buku',
+    'Huang Zhenan',
+    'Sejarah Taiwan',
     'Huo Shui Lai Ce Fang',
   ]
 subcategory: '文學'
@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-09-15T19:45:29+08:00'
+translatedAt: '2026-11-05T15:00:11.174351+00:00'
 ---
 
 # Huang Chen-nan: Keluarga Pencinta Buku dan Sumber Sejarah-Budaya Taiwan
@@ -61,15 +63,15 @@ Model koleksi buku keluarganya juga memantulkan kekuatan akar rumput pelestarian
 
 ## Referensi
 
-[^1]: [Huang Chen-nan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Riwayat hidup utama, latar belakang pendidikan, dan detail mengoleksi buku.
+[^1]: [Huang Zhen-nan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Riwayat hidup utama, latar belakang pendidikan, dan detail koleksi buku.
 
-[^2]: [Halaman Facebook Huo Shui Lai Ce Fang](https://www.facebook.com/ngtsinlam) — Catatan berbagi dan dinamika mengoleksi sejak didirikan 2009 hingga kini.
+[^2]: [Halaman Facebook 活水來冊房](https://www.facebook.com/ngtsinlam) — Catatan berbagi dan dinamika koleksi buku sejak didirikan pada 2009 hingga kini.
 
-[^3]: [Halaman buku _Sejarah Taiwan Paling Kaya Meme_](https://www.books.com.tw/products/0010722013) — Halaman katalog Books.com.tw, berisi info penerbitan dan ulasan pembaca.
+[^3]: [Halaman Buku "Sejarah Taiwan Paling Kaya Meme dalam Sejarah Taiwan"](https://www.books.com.tw/products/0010722013) — Halaman bibliografi Books.com.tw, berisi informasi penerbitan dan ulasan pembaca.
 
-[^4]: [Wawancara kolektor buku Huang Chen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Kisah mengoleksi buku keluarga dan penjelasan koleksi terkait Nishikawa Mitsuru, Tsai Pei-huo.
+[^4]: [Wawancara Kolektor Buku Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Kisah koleksi buku keluarga serta penjelasan koleksi terkait Nishikawa Mitsuru dan Cai Pei-huo.
 
-[^5]: [Liputan rekomendasi daftar buku Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Pandangan Huang Chen-nan tentang promosi membaca sejarah Taiwan dan saran daftar buku.
+[^5]: [Laporan Rekomendasi Daftar Buku Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Pandangan Huang Zhen-nan mengenai promosi membaca sejarah Taiwan serta saran daftar bacaannya.
 
 ## Bacaan Lanjutan
 

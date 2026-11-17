@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-08-04T14:12:35+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:32:13.339133+00:00'
 ---
 
 # Sejarah Gerakan Lingkungan Taiwan
@@ -92,22 +92,23 @@ Masuk abad 21, gerakan lingkungan Taiwan menampilkan beberapa ciri baru:
 
 ## Tantangan dan Prospek
 
-Gerakan lingkungan Taiwan hadapi beberapa tantangan berkelanjutan:
+Gerakan lingkungan di Taiwan menghadapi beberapa tantangan berkelanjutan:
 
-**Tekanan pembangunan ekonomi**: Dalam kompetisi global, keseimbangan perlindungan lingkungan dan pertumbuhan ekonomi tetap sulit. Transisi energi, transisi industri butuh perencanaan jangka panjang dan konsensus sosial.
+**Tekanan Pembangunan Ekonomi**: Dalam kompetisi global, menyeimbangkan perlindungan lingkungan dengan pertumbuhan ekonomi tetap menjadi hal yang sulit. Transisi energi dan transformasi industri memerlukan perencanaan jangka panjang serta konsensus sosial.
 
-**Risiko politisasi**: Isu lingkungan mudah dipolitisasi, mempengaruhi keberlanjutan kebijakan. Kebijakan nuklir contoh nyata, partai berbeda saat memerintah punya sikap berbeda.
+**Risiko Politisasi**: Isu lingkungan mudah dipolitisasi, yang dapat memengaruhi keberlanjutan kebijakan. Kebijakan energi nuklir adalah contoh nyata, di mana partai politik yang berbeda memiliki posisi yang berbeda saat berkuasa.
 
-**Perbedaan pandangan generasi**: Generasi berbeda punya pengertian berbeda soal nilai lingkungan, mempengaruhi basis sosial pendorongan kebijakan.
+**Perbedaan Konsep Antargenerasi**: Terdapat perbedaan persepsi mengenai nilai-nilai lingkungan di antara generasi yang berbeda, yang memengaruhi basis sosial dalam mendorong kebijakan.
 
-**Keterbatasan sumber daya**: Relatif pada perusahaan dan pemerintah, sumber daya organisasi lingkungan terbatas, mempengaruhi skala dan keberlanjutan aksi.
+**Keterbatasan Sumber Daya**: Dibandingkan dengan perusahaan dan pemerintah, sumber daya organisasi lingkungan sangat terbatas, sehingga memengaruhi skala dan keberlanjutan aksi mereka.
 
-Gerakan lingkungan Taiwan lewat empat dekab perkembangan, dari perlawanan anti-polusi, evolusi jadi aksi beragam mengejar pembangunan berkelanjutan. Proses ini memantau perubahan nilai masyarakat Taiwan: dari mengejar pertumbuhan cepat, ke menghargai kualitas hidup; dari kepentingan pribadi, ke tanggung jawab antargenerasi. Langkah selanjutnya gerakan lingkungan, adalah bagaimana dalam sistem demokrasi, membangun mekanisme tata kelola lingkungan lebih efektif.
+Gerakan lingkungan di Taiwan telah mengalami perkembangan selama empat dekade, berevolusi dari protes menentang polusi menjadi tindakan beragam yang mengejar pembangunan berkelanjutan. Proses ini mencerminkan pergeseran nilai-nilai sosial di Taiwan: dari mengejar pertumbuhan cepat menuju penekanan pada kualitas hidup; dari kepentingan pribadi menuju tanggung jawab antargenerasi. Langkah selanjutnya bagi gerakan lingkungan adalah bagaimana membangun mekanisme tata kelola lingkungan yang lebih efektif di dalam sistem demokrasi.
 
 **Bacaan Lanjutan**:
 
-- [Taiwan dan Diskusi Nuklir](/id/society/taiwan-nuclear-debate) — Bagaimana gerakan anti-nuklir tumbuh dari gerakan lingkungan, lalu di era generasi iklim diacak ulang: sejarah debat lengkap empat puluh tahun tiga referendum
-- [Krisis Iklim Taiwan dan Transisi Net Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Bagaimana kesadaran lingkungan berubah jadi kebijakan transisi net zero tingkat negara dan restruktur struktur energi
+- [Diskusi mengenai Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Bagaimana gerakan anti-nuklir tumbuh dari gerakan lingkungan, dan kemudian disusun ulang oleh generasi iklim: sejarah lengkap debat tiga referendum selama empat puluh tahun
+- [Krisis Iklim Taiwan dan Transisi Net Zero](/id/nature/taiwan-climate-change-net-zero-transition) — Bagaimana kesadaran lingkungan bertransformasi menjadi kebijakan transisi net zero tingkat nasional dan restrukturisasi struktur energi
+- [Zebra](/id/people/chi-po-lin) — Film 《Melihat Taiwan》 tahun 2013 membuat seluruh Taiwan melihat bersama di bioskop mengenai harga dari sebuah pembangunan; setelah itu, sengketa lahan dan sedimen sungai dilanjutkan oleh masyarakat setempat
 
 ## Referensi
 

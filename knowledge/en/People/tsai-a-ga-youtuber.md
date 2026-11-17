@@ -1,7 +1,8 @@
 ---
 title: 'Tsai A-Ga: From Pioneering Influencer to Social Work Mission — The Man Who Used 18 Years of Traffic to Transform Lives'
 description: "In 2022, Taiwan's first million-subscriber influencer Tsai A-Ga sold his house to establish the 'Home Sweet Home Social Welfare Association,' converting 18 years of accumulated influence into social mission. From a 2008 flag-burning video to his son Tsai Tao-gui setting a 'youngest million-subscriber' record in 2022, Tsai A-Ga has navigated traffic, controversy, and betrayal — while always holding onto the social worker soul that wants to light hope for disadvantaged children."
-category: People
+date: 2026-04-23
+category: 'People'
 tags:
   [
     'Tsai A-Ga',
@@ -11,17 +12,19 @@ tags:
     'social welfare',
     'Taiwanese culture',
   ]
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
-date: 2026-04-23
-readingTime: 12
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蔡阿嘎.md'
-sourceCommitSha: 'f5975a22'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: '2026-05-01T12:21:52+08:00'
-featured: false
+translatedAt: '2026-11-04T22:12:02.753098+00:00'
 ---
 
 > **30-second overview:**

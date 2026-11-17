@@ -1,25 +1,23 @@
 ---
 title: "Earthquakes in Taiwan: An Island's Memory of Dancing with the Earth Dragon"
 description: "Why are foreigners terrified while Taiwanese people only worry about whether their instant noodles have gone soggy? From the Qing-era legend of 'earth grows hair' to the 102 seconds of the 921 earthquake, see how this island has internalized disaster into daily life."
-category: 'Society'
-subcategory: '社會韌性'
-tags:
-  - Culture
-  - 'Daily Life'
-  - History
-  - 'Disaster Memory'
-  - 'Earth Dragon Legend'
-author: 'Taiwan.md'
 date: 2026-04-17
-readingTime: 6
+category: 'Society'
+tags:
+  ['Culture', 'Daily Life', 'History', 'Disaster Memory', 'Earth Dragon Legend']
+subcategory: '社會韌性'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-05-01T12:53:58+08:00'
-featured: false
+translatedAt: '2026-11-04T18:56:01.299893+00:00'
 ---
 
 > **30-second overview:** Taiwan sits at the intersection of tectonic plates; earthquakes are this island's destiny. This article begins with the locally-born legend of the "earth dragon turning over," spans from earthquake records of the Qing administration to the institutional turning point of the 921 earthquake, and explores how Taiwanese people have moved from fear toward "calmness" — and built world-class disaster resilience while the ground shook beneath them.

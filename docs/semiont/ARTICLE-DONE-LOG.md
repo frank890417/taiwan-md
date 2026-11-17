@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-10-14
-last_session: '2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-11-04
+last_session: '2026-11-04-twmd-desk（全面進化歸檔）  # 前：2026-11-02-twmd-desk（中華職棒 PR #1948 歸檔；沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,77 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 楊維哲 — 2026-11-10 20261110-evolve-yang-weizhe 完成（EVOLVE，投稿初稿深化重寫）
+
+- **Article**: [knowledge/People/楊維哲.md](../../knowledge/People/楊維哲.md)
+- **Pipeline**: REWRITE-PIPELINE-SINGLE v6.8.3 — Evolution 模式（全站普查 A1 thin），多 agent 編排：主 session（Opus）觀點＋立法院公報原件對讀＋媒體 → 四條 Sonnet 研究 lane → fresh Opus 寫手（不讀舊稿）→ 兩席 Sonnet 查證（231 原子，0 ❌ 留存）→ 主 session 修訂
+- **組織主軸**：一個做得出來的例子，勝過一百個「不可能」的理由（立體群像；1997 違憲質詢是其中一面）
+- **Hook**：1996 年秋天課程表上的「台語授課」，教務長批「上課不宜用方言」，他照開
+- **新一手材料**：立法院公報第 86 卷第 39 期（1997-10-06 教育委員會，傅崐成質詢、吳京答覆全文，含傅崐成自述親自打電話勸說）；第 107 卷第 55 期（2018 國家語言發展法審查，林福來、管碧玲、柯志恩三人以他為例）；校史館口述整理稿三場（存檔）；〈引潮力三講〉（2025）
+- **品質**：5,930 CJK ／ 37 腳註／ 5 圖＋2 官方影片＋1 tw-timeline；rewrite-stage-3-5、rewrite-stage-4、ci-deploy、pre-commit、prose-health、opening-readability 全 hard=0 warn=0；`lastHumanReview: false`，拿掉 `curation: incubating`／`curationReason: thin`
+- **舊稿稽核**：42 原子，✅ 25／⚠️ 9／❌ 7／🚫 1，另 5 句無出處詮釋句；明細在 [reports/research/2026-11/楊維哲-errata.md](../../reports/research/2026-11/楊維哲-errata.md)（IMO 教官、出版社文案當本人話、「不屑」時間錯置、蜂巢場景、報導標題當口頭禪等）
+- **Research**: [reports/research/2026-11/楊維哲.md](../../reports/research/2026-11/楊維哲.md)
+- **Cross-link**：反向連結補進〈社區大學黃武雄〉；〈語言多樣性與母語文化〉沒有延伸閱讀區塊，未補
+- **待人補**：普林斯頓博士論文題目與指導教授、1997 年報紙原件與他當時的回應、2023-12-01 台語金曜講座實況
+
+### 全面進化 2026-11-04 — twmd-desk 完成（GA／SC 資料驅動：5 篇 EVOLVE、1 篇 NEW、SEO 與頁面、全站與網站健檢）
+
+- **規劃與資料**：[reports/evolve-plan-2026-11-04.md](../../reports/evolve-plan-2026-11-04.md)、[reports/evolve-2026-11-04.md](../../reports/evolve-2026-11-04.md)（扣自動流量後真人 6.2 萬／28 天；搜尋真實點擊率 1.29%）
+- **EVOLVE（REWRITE-PIPELINE-SINGLE，分席審稿＋分段查證）**：
+  - 〈鐵牛杰哥〉腳註 18→44，刪重複與查無來源段落，改正頑GAME 解散日、台詞歸屬、「你爸爸是杰哥」無出處等
+  - 〈鱔魚意麵〉1,460→4,681 字、腳註 0→24；「27 秒」改成沙卡里巴老牌一家的招牌，刪「以鱔仿鰻」「日本官員折服」「米其林」；姊妹篇〈台南中西區美食小吃文化〉同步止血
+  - 〈地瓜球〉1,518→4,723 字、腳註 14→24、圖 0→7
+  - 〈這群人〉腳註 9→56，開場回答「解散了沒」，七人成員表
+  - 〈齊柏林〉3,532→6,686 字、腳註 0→41；墜機段照飛安會最終報告措辭
+- **NEW**：〈奇拿富〉4,889 字、24 腳註（主 session 補分席：Sonnet 查證 ❌2 ⚠️18、Opus 2.5-R 7 必改，已修；學名用 _Trichodesma calycosum_）
+- **SEO**：中英文 20 篇 title／description（美麗島事件英文補 Kaohsiung Incident 等）；全聯十語錯品牌名、尼克星阿文音譯
+- **頁面與模板**：用語詞條 306 頁標題改答字義、選舉時程、企業、台灣形狀／地圖分工、時間軸、分類頁、預算、用語首頁、探索數字
+- **健檢**：[全站文章普查](../../reports/article-health-census-2026-11-04.md)（167 篇標進化中、說明條拆待查證／待擴寫、封面升格與分類封面署名、article-census.py＋curation-gap）；[網站健檢](../../reports/site-health-2026-11-04.md)（11 項修正，7 項待決）
+- **待補**：INBOX〈台灣迷因〉P2；網站健檢 7 項與重開每日重寫排程待哲宇決定
+
+### 中華職棒 — 2026-11-02 twmd-desk 歸檔（貢獻者 tboydar 以 PR #1948 交稿，當日 merge＋heal）
+
+- **Article**: [knowledge/Culture/中華職棒.md](../../knowledge/Culture/中華職棒.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1948 merge commit `84ffb9721`），對應 INBOX 2026-10-25 news-lens 探測器 P1 NEW 條目
+- **Heal**：Sonnet 逐條查證 62 個事實（3 ❌、24 ⚠️、35 ✅）。三個錯：黑鷹事件寫成 1997 年（應為 1996 年爆發、1997 年檢調大舉逮捕）；description 與概覽把中信鯨解散放在黑象事件之後（實際早一年）；「場均與營收都是全世界棒球聯盟第四高」只是維基編者自己的比較，營收部分不成立。另把「1997 年觀眾破千萬」改成累計、「31 億」標明是自由時報估算的六隊總營收、黑米案改寫成檢調懷疑並補二審結果、黑象段拿掉可交叉辨識被告的描述；原本兩條腳註（一條撐起全文）拆成 31 條
+- **待補**：INBOX 已轉 EVOLVE P2（封王那一晚開場、人物、圖、早期沿革第二來源）
+
+### 沈伯洋＋蔣萬安 — 2026-11-02 twmd-desk 完成（EVOLVE 一對，台北市長選舉投票前上線）
+
+- **Article**: [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md)、[knowledge/People/蔣萬安.md](../../knowledge/People/蔣萬安.md)（commit `79742de3b`）
+- **Pipeline**: REWRITE-PIPELINE-SINGLE — EVOLVE，兩篇並排編排（各一位 Opus 研究＋寫手 → 沈四段、蔣三段 Sonnet 查證 → 一個乾淨脈絡的並排編輯室 2.5-R → 原寫手各改一輪）
+- **哲宇原話**：舊文寫得不錯，大幅增補後上線／辯論、民調和選戰攻防全部都要寫／兩邊一起進化／辯論完整轉錄當研究材料／不用一直問
+- **對稱處理**：兩篇共用同一張十一列查核表、同一組七件攻防的事實與原話、同一張民調表；背書每篇最多兩則、選戰段不放策展人筆記；description 選戰句同一個骨架；篇幅 16,006 與 17,444 CJK（差 9%）
+- **民調**：選罷法第 53 條要八項齊備，十二份裡查得到八項的只有東森 10-27、11-02 與韜略 11-02，其餘不引述；表頭標明「截至 11 月 2 日」，11/18 起到投票截止凍結不改、babel 窗內不重翻（哲宇拍板不撤，INBOX P0）。同日把線上〈沈伯洋〉十三語舊版裡五份八項不齊的民調撤掉（`bad1eae00`）
+- **辯論**：10/31 三立官方完整版本機轉錄（faster-whisper 分段重跑、OpenCC 轉繁）只當定位材料，進正文的引語對已發表逐字稿或影音時間戳；台灣事實查核中心十一份報告逐條列進查核表
+- **查證與修正**：沈約 16 ❌ 127 ⚠️、蔣 4 ❌ 81 ⚠️，全數處理；舊版〈沈伯洋〉開場有杜撰細節、多處記者轉述被寫成直接引語，都改回有出處的版本。編輯室判初稿「讀者會覺得偏沈（中等）」，修訂刪掉敘事者評價與策展人筆記、lifeTree 只留事實節點
+- **品質**：沈 185 腳註／7 張圖、蔣 197 腳註／8 張圖；stage-3-5／stage-4／prose-health／opening-readability 四道 gate hard=0；〈蔣萬安〉拿掉 `curation: incubating`
+- **Research**: [reports/research/2026-11/沈伯洋.md](../../reports/research/2026-11/沈伯洋.md)、[reports/research/2026-11/蔣萬安.md](../../reports/research/2026-11/蔣萬安.md)
+- **待補**：11/28 開票後兩篇同一天補結果（INBOX 已開 P0，期限 12/5）
+
+### 台灣與核能的討論 — 2026-11-02 twmd-desk 完成（EVOLVE，接 11/28 公投第 22 案，開票前上線）
+
+- **Article**: [knowledge/Society/台灣與核能的討論.md](../../knowledge/Society/台灣與核能的討論.md)
+- **Pipeline**: REWRITE-PIPELINE-SINGLE v6.8.3 — EVOLVE（時間觸發，非 callout），多 agent 編排：Opus 觀點＋研究 → fresh Opus 寫手（不讀舊文 prose）→ 三位 Sonnet 分段查證 298 原子＋Opus 編輯室 2.5-R（加開「對稱與立場」席）→ 寫手修訂一輪 → 主 session 補修 2014 那句
+- **核心矛盾**：重啟核電三個條件裡，「社會有共識」怎樣才算達到，核管法與審核辦法都沒有寫；第 22 案的票數會被各方當成那把尺
+- **政治立場處理**：哲宇在 A 量尺版與 B 兩條路並陳版之間拍板 A（2026-11-02）。編輯室判初稿「會被讀成評論執政黨」，修訂把論點主詞從政府換成法規、刪掉替環團背書的旁白、補挺重啟在地聲音、敘述者扣分細節兩邊清掉
+- **Hook**：2026-04-28 恆春鎮公所核三換照說明會，江國樑、尤史經、龍昶維、江進教對同一張去年的票讀出不同意思
+- **品質**：約 7,400 字正文 ／ 71 腳註 ／ 7 圖＋2 支公視官方影片；三道 gate hard=0
+- **查證與修正**：初稿 4 錯 57 處偏離全部處理；最重要的幾處是詹順貴與許永輝的轉述被寫成直接引語、34 團體聲明被截掉條件、「三大原則」對象寫錯、論點裡「第一次和縣市長選票同日」（2018 以核養綠就同日）
+- **Research**: [reports/research/2026-11/台灣與核能的討論.md](../../reports/research/2026-11/台灣與核能的討論.md)（§10、§11 是兩輪查證紀錄）
+- **待補**：12/4 結果公告後補段，INBOX 已開 EVOLVE（期限 12/11）
+
+### 金馬獎 — 2026-11-02 twmd-desk 完成（NEW，頒獎前上線）
+
+- **Article**: [knowledge/Art/金馬獎.md](../../knowledge/Art/金馬獎.md)
+- **Pipeline**: REWRITE-PIPELINE-SINGLE v6.8.3 — NEW，多 agent 編排（Opus 觀點＋研究 → fresh Opus 寫手 → 三位 Sonnet 分段查證 369 原子＋乾淨脈絡 Opus 編輯室 2.5-R → 寫手修訂一輪）
+- **組織主軸**：立體群像。金馬的門檻一屆一屆往外推，從配合國策的國語片推到不問國籍的華語電影；台灣片常在自家輸，門沒有關回去
+- **Hook**：1963 年凌波反串梁山伯來台領獎，規則裝不下她，評審另開一個「最佳演技特別獎」
+- **品質**：6,190 CJK ／ 92 腳註（逐年、逐片可點開）／ 5 張 CC 圖 ／ 2 支官方頻道影片；三道 gate hard=0
+- **查證與修正**：初稿 1 錯 31 處偏離全部處理；最大一處是「1962 辦法只收台灣片」的錯前提（辦法本來就收華僑廠商），以及楊英風 1963 年是去羅馬不是回台
+- **Research**: [reports/research/2026-11/金馬獎.md](../../reports/research/2026-11/金馬獎.md)
+- **待補**：11/22 頒獎後補第 63 屆得獎（INBOX 已開 EVOLVE 條目，期限 11/30）
 
 ### 台灣公投制度 — 2026-11-02 twmd-desk 補歸檔（貢獻者 tboydar 於 2026-10-17 以 PR #1865 交稿，2026-10-19 merge，非走產線）
 

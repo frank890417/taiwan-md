@@ -26,11 +26,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-08T00:42:55+08:00'
+translatedAt: '2026-11-05T07:05:32.925040+00:00'
 ---
 
 > **30 सेकंड का अवलोकन**: 1979 में, ताइवान राष्ट्रीय विश्वविद्यालय (NTU) के अस्पताल ने 36 से अधिक विभागों की टीम द्वारा चांग झोंग-रेन और चांग झोंग-यी का 12 घंटे का पृथक्करण ऑपरेशन किया। यह ताइवान के चिकित्सा इतिहास में एक महत्वपूर्ण सफलता थी, लेकिन यह दोनों भाइयों की कहानी का अंत नहीं था। सर्जरी के बाद की बीमारी, पुनर्वास, काम, परिवार और मीडिया की निगरानी ने ही "दो व्यक्तियों में विभाजित" होना जीवन भर चलने वाला रास्ता बनाया।

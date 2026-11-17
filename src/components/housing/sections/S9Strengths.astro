@@ -1,0 +1,223 @@
+---
+/**
+ * S9Strengths — 第 9 節：這套體系做對的事（與第 10 節困境篇幅相當）。
+ * 四張數字卡：住宅自有率（含各所得組小柱）、實價登錄、青安逾放比、社宅完工戶數。
+ * 圖 A：TrendLine，內政部住宅價格指數（全國＋六都，序列 price-index / hpi-*）。
+ * 圖 B：StackedProgress，社宅進度（六都＋其他縣市，資料表 social-housing / social-housing-progress）。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import StackedProgress from '../charts/StackedProgress.astro';
+import RelatedChips from './RelatedChips.astro';
+import SrcLine from './SrcLine.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { relatedList } from '../../../utils/housing/related';
+import {
+  DATA,
+  annualQ4,
+  countyName,
+  fmtPeriod,
+  fmtPeriodShort,
+  fmtXq,
+  getSeries,
+  getTable,
+  grp,
+  latest,
+  qinganSrc,
+  srcOf,
+  srcOfTable,
+  uniqSrc,
+  xOfT,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s9;
+const zh = lang === 'zh-TW';
+const q: any = DATA.qingan;
+
+// 自有率
+const own = getTable('stock', 'homeownership-by-income-quintile-2025');
+const ownRow = own.rows[0];
+const ownYear = (own.period ?? '2025').slice(0, 4);
+const quint = ['q1', 'q2', 'q3', 'q4', 'q5'].map((k, i) => ({
+  k,
+  label: S.own.q[i],
+  v: ownRow[k] as number,
+}));
+// 實價登錄
+const rr = (DATA.timeline as any).events.find((e: any) =>
+  /實價登錄上路/.test(e.title.zh),
+);
+const rrYear = rr ? rr.date.slice(0, 4) : '';
+const hpiIds: [string, string, string][] = [
+  ['hpi-national', S.hpiNational, 'c0'],
+  ['hpi-taipei', '', 'c1'],
+  ['hpi-new-taipei', '', 'c2'],
+  ['hpi-taoyuan', '', 'c3'],
+  ['hpi-taichung', '', 'c4'],
+  ['hpi-tainan', '', 'c5'],
+  ['hpi-kaohsiung', '', 'mute'],
+];
+const hpiCity: Record<string, string> = {
+  'hpi-taipei': '臺北市',
+  'hpi-new-taipei': '新北市',
+  'hpi-taoyuan': '桃園市',
+  'hpi-taichung': '臺中市',
+  'hpi-tainan': '臺南市',
+  'hpi-kaohsiung': '高雄市',
+};
+const hpiSeries = hpiIds.map(([id, label, cls]) => {
+  const s = getSeries('price-index', id);
+  return { s, label: label || countyName(hpiCity[id], lang), cls, id };
+});
+const hpiNat = hpiSeries[0].s;
+const hpiBase = (hpiNat.unit.match(/(\d{4})\s*=\s*100/) ?? [, ''])[1];
+const hpiFirst = hpiNat.points[0];
+const hpiLast = latest(hpiNat);
+// 逾放
+const npl = q.scale.nplPct;
+// 社宅
+const prog = getTable('social-housing', 'social-housing-progress');
+const natRow = prog.rows.find((r: any) => r.key === '全國合計／小計');
+const cityRows = prog.rows.filter(
+  (r: any) => r.body === '小計' && r.region !== '全國合計',
+);
+const seg = (r: any) => [
+  r.existing,
+  r.newlyCompleted,
+  r.underConstruction,
+  r.planned,
+];
+const sumCity = cityRows.reduce(
+  (a: number[], r: any) => a.map((x, i) => x + seg(r)[i]),
+  [0, 0, 0, 0],
+);
+const otherVals = seg(natRow).map((x: number, i: number) => x - sumCity[i]);
+const stackRows = [
+  ...cityRows.map((r: any) => ({
+    id: r.region,
+    label: countyName(r.region, lang),
+    values: seg(r),
+  })),
+  { id: 'others', label: S.others, values: otherVals, note: T.ui.derived },
+];
+const done = natRow.existing + natRow.newlyCompleted;
+const rent = getTable('social-housing', 'rental-management-matches');
+const eff = rent.rows.find(
+  (r: any) => r.key === 'cumulative',
+).effectiveContracts;
+
+const vars = {
+  n: ownRow.all.toFixed(2),
+  year: ownYear,
+  q1: quint[0].v.toFixed(2),
+  q5: quint[4].v.toFixed(2),
+  all: npl.allMortgage,
+  asOf: fmtPeriod(npl.asOf, lang),
+  a: hpiFirst.v.toFixed(2),
+  b: hpiLast.v.toFixed(2),
+  p0: fmtPeriod(hpiFirst.t, lang),
+  p1: fmtPeriod(hpiLast.t, lang),
+  base: hpiBase,
+  uc: grp(natRow.underConstruction),
+  eff: grp(eff),
+  done: grp(done),
+  pl: grp(natRow.planned),
+};
+const rel = await relatedList(lang, [['Society', '居住正義']]);
+---
+
+<section class="hs-section" id="strengths">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <div class="hs-bigcards">
+      <article class="hs-big">
+        <div class="hs-big-v">{fill(S.own.big, vars)}</div>
+        <p class="hs-big-t">{S.own.title}</p>
+        <div class="hs-minibars" role="img" aria-label={fill(S.own.sub, vars)}>
+          {
+            quint.map((x) => (
+              <div class="hs-minibar">
+                <span class="hs-minibar-v">{x.v.toFixed(0)}</span>
+                <span
+                  class="hs-minibar-b"
+                  style={`height:${(x.v / 100) * 56}px`}
+                />
+                <span class="hs-minibar-l">{x.label}</span>
+              </div>
+            ))
+          }
+        </div>
+        <p class="hs-big-s">{fill(S.own.sub, vars)}</p>
+        <SrcLine
+          lang={lang}
+          sources={[srcOfTable(own, ownRow ? own.period : '')]}
+        />
+      </article>
+      <article class="hs-big">
+        <div class="hs-big-v">{rrYear}</div>
+        <p class="hs-big-t">{S.open.title}</p>
+        <p class="hs-big-s">{fill(S.open.sub, vars)}</p>
+        <SrcLine lang={lang} sources={[srcOf(hpiNat)]} />
+      </article>
+      <article class="hs-big">
+        <div class="hs-big-v">{npl.qingan}%</div>
+        <p class="hs-big-t">{fill(S.npl.title, vars)}</p>
+        <p class="hs-big-s">{fill(S.npl.sub, vars)}</p>
+        <SrcLine lang={lang} sources={[qinganSrc(q.scale.source, npl.asOf)]} />
+      </article>
+      <article class="hs-big">
+        <div class="hs-big-v">{grp(done)}</div>
+        <p class="hs-big-t">{S.social.title}</p>
+        <p class="hs-big-s">{fill(S.social.sub, vars)}</p>
+        <SrcLine lang={lang} sources={[srcOfTable(prog)]} />
+      </article>
+    </div>
+    <TrendLine
+      title={fill(S.hpiTitle, vars)}
+      subtitle={fill(S.hpiSub, vars)}
+      lang={lang}
+      lines={hpiSeries.map((h, i) => ({
+        id: h.id,
+        label: h.label,
+        points: h.s.points.map((p) => ({ x: xOfT(p.t), v: p.v })),
+        cls: h.cls,
+        strong: i === 0,
+      }))}
+      sources={uniqSrc(hpiSeries.map((h) => srcOf(h.s)))}
+      unit=""
+      digits={2}
+      yMin={60}
+      xTickStep={2}
+      tableRows={annualQ4(hpiNat.points).map((p) => ({
+        x: xOfT(p.t),
+        label: fmtPeriodShort(p.t, lang),
+      }))}
+      tableXHeader={T.ui.period}
+      xFormat={(x) => String(Math.floor(x + 1e-6))}
+      tipX={fmtXq}
+    />
+    <StackedProgress
+      title={fill(S.socTitle, vars)}
+      subtitle={S.socSub}
+      lang={lang}
+      segments={[
+        { id: 'existing', label: S.segExisting },
+        { id: 'new', label: S.segNew },
+        { id: 'under', label: S.segUnder },
+        { id: 'planned', label: S.segPlanned },
+      ]}
+      rows={stackRows}
+      sources={[srcOfTable(prog)]}
+      note={S.socNote}
+      achievedLabel={S.achieved}
+      itemHeader={S.region}
+    />
+    <RelatedChips lang={lang} cards={rel} />
+  </div>
+</section>

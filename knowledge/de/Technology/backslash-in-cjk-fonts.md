@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: 'Großes Zeichen „Gong“ mit seinen Big5-Bytes A5 und 5C; das Feld 5C zeigt mit einem Pfeil auf den ASCII-Rückwärtsstrich 0x5C; darunter die tatsächliche Python-Ausgabe, wobei der zweite Byte von „Xu Gong Gai“ ein Rückwärtsstrich ist'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:14+08:00'
+translatedAt: '2026-11-05T13:29:39.889591+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Ich führte das Statusskript aus und sah 4546 in `root`. Auf GitHub war der Linux CI grün. Später erkannte ich zwei Dinge: Der Rückwärtsstrich in Windows-Pfaden konnte vom Skript nicht getrennt werden; die zweite Hälfte des Big5-Zeichens „Gong“ ist selbst der ASCII-Rückwärtsstrich. Die Mechanismen sind unterschiedlich, treten aber oft auf demselben traditionell chinesischen Windows auf.

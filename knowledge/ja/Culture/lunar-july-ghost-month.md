@@ -1,29 +1,32 @@
 ---
-title: '農暦七月：「鬼門が開く」の集団的恐怖から、島嶼の優しき和解へ'
-description: '2026年の盛夏、台湾の街角には依然として長机が並ぶ。基隆望海巷の火光から頭城の孤棚の汗、新竹城隍廟の「虎門開き」から民雄の火葬される大士爺の壮烈さまで、農暦七月は単なる禁忌の話ではなく、共存、記憶、そして陰陽の境界を越える島嶼の物語である。'
+title: '旧暦七月：「鬼門開き」の集団的恐怖から、一島の優しい和解へ'
+description: '2026年の盛夏、台湾の街頭には依然として長机が並んでいます。基隆・望海巷の灯火から頭城・孤棚の汗まで、新竹城隍廟の「開虎門」から民雄・火化大士爺の壮烈まで、旧暦七月は単なる禁忌ではなく、共存と記憶、そして陰陽の境界を越える島の物語です。'
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
-    '農暦七月',
+    '旧暦七月',
     '鬼月',
     '中元普渡',
     '基隆中元祭',
-    '頭城搶孤',
+    '頭城孤搶',
     '民雄大士爺',
     '新竹城隍廟',
   ]
-readingTime: 25
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 25
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-05T06:24:52.116898+00:00'
 ---
 
 > **30秒で概要：** 農暦七月、台湾で俗に言う「鬼月」の核心は、単なる霊的な恐怖ではなく、数百年にわたる「共存の練習」である。新竹都城隍廟の深夜に開かれる「虎門」から、宜蘭頭城で鬼門が閉じる前に繰り広げられる「搶孤（きょうこ）」の競技まで、台湾はこの信仰を極めて地域的な色彩を持つ文化へと転換させた。本記事は、望海巷の火光、孤棚上の汗、そしてDNAに刻まれた飲食や服装の禁忌へとあなたを案内する。明朝皇室に由来する可能性のあるこの「政治的プロモーション」の真実を解き明かし、この島嶼が「心を持って接待し、心を持たずに客を留めない」という優しき知恵によって、時空を越えた社会的和解をどのように達成したかを理解するだろう。

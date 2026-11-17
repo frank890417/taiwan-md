@@ -227,7 +227,7 @@ Den Valentinstag (14. Februar) verbrachte er im Flugzeug. Nach der Rückkehr sch
 
 ## Von der Zielscheibe zum Kandidaten
 
-Anfang April 2026 tagte der Auswahlausschuss der DPP. Die Politikseite der [United Daily News](https://udn.com/) berichtete, Eingeweihten zufolge wolle die Partei Puma Shen als Kandidaten für das Bürgermeisteramt von Taipeh aufstellen.[^62] Im Lauf des April wurde das nahezu beschlossene Sache. Der frühere Innenminister Hsu Kuo-yung unterstützte ihn öffentlich.[^63] Eine TVBS-Umfrage vom Dezember 2025 zeigte für den amtierenden Bürgermeister von Taipeh, Chiang Wan-an, Zustimmung von rund 64 Prozent, für Puma Shen rund 22 Prozent.[^64] Ein deutlicher Rückstand – aber ob die Wahl gewonnen wird, liegt außerhalb des Rahmens dieses Artikels.
+Anfang April 2026 tagte der Auswahlausschuss der DPP. Die Politikseite der [United Daily News](https://udn.com/) berichtete, Eingeweihten zufolge wolle die Partei Puma Shen als Kandidaten für das Bürgermeisteramt von Taipeh aufstellen.[^62] Im Lauf des April wurde das nahezu beschlossene Sache. Der frühere Innenminister Hsu Kuo-yung unterstützte ihn öffentlich.[^63]
 
 Am 25. April schnitt er sich den über zehn Jahre getragenen Afrolook ab und stand erstmals mit Chiang Wan-an auf einer gemeinsamen Bühne beim Mazu-Fest der Songshan-Cihuitang.[^65] Yang Guo hat sich die Haare kurz schneiden lassen.
 
@@ -236,15 +236,6 @@ Am 13. Mai 2026 wurde aus dem Gerücht Wirklichkeit. Das Zentralexekutivkomitee 
 ![Puma Shen in schwarzem T-Shirt, mit Brille, Mikrofon in der Hand auf der Bühne, um die Brust ein Band mit der Aufschrift „United-Front-Arbeit ablehnen“](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _Am 19. April 2025 nahm Puma Shen an der Kundgebung „United-Front-Arbeit ablehnen, Taiwan schützen“ teil. Wer mit Koordinaten markiert wurde, wählt weiterhin die öffentliche Bühne. Photo: KOKUYO. CC BY-SA 4.0 über Wikimedia Commons。_
-
-Das Rennen bleibt unausgeglichen. Eine Umfrage des TVBS-Umfragezentrums vom 27. Mai ergab für Chiang Wan-an 58 Prozent und für Puma Shen 30 Prozent – eine Differenz von 28 Prozentpunkten; selbst bei den jungen Wählern von 20 bis 29 Jahren lag Puma Shen mit 37 Prozent unter Chiang Wan-ans 60 Prozent.[^69] Internationale Medien beschrieben das Duell als eine Herausforderung mit geringen Aussichten.
-
-```tw-bars
-2026 Umfrage Bürgermeisteramt Taipeh: Chiang Wan-an führt vor Puma Shen mit 28 Prozentpunkten
-Chiang Wan-an | 58 | Amtsinhaber KMT, strebt Wiederwahl an
-*Puma Shen | 30 | von der DPP nominiert
-Quelle: TVBS-Umfragezentrum, 2026-05-27
-```
 
 Von der Verbeugung der wischenden Jungen bis zum Fake-Dokumentarfilm des Zentralfernsehens, von der Forschung an einem Schreibtisch bis zu den Koordinaten auf der Satellitenkarte, vom „darf nicht Verantwortlicher der Kuma Academy sein“ bis zur „offiziellen Kandidatur für das Bürgermeisteramt von Taipeh“ hat Puma Shen mehrfach seine Position gewechselt. Jede Veränderung kommentierte er mit demselben Satz: „Ich bin die Zielscheibe.“ Dieses Wort ist zugleich Selbstironie und nüchterne akademische Beobachtung. In Chinas Erzählung über Taiwan ist er tatsächlich der, der ins Visier genommen werden soll. Ein Gelehrter, der das Etikett des von ihm selbst erforschten Objekts übernimmt, es auf sich klebt und weiterarbeitet – das schaffen nur wenige.
 
@@ -408,8 +399,6 @@ Video-Einbettungen: [Puma Shen erklärt im Bundestag Taiwans Desinformationsangr
 
 [^63]: [UDN: Hsu Kuo-yung unterstützt Puma Shen für Taipeh](https://udn.com/news/story/124652/9442093) — UDN-Bericht über die öffentliche Unterstützung des früheren Innenministers Hsu Kuo-yung für Puma Shens Kandidatur um das Bürgermeisteramt von Taipeh.
 
-[^64]: [TVBS-Umfragezentrum: Umfrage zum Bürgermeisteramt Taipeh 12/2025](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Volltext-PDF der Umfrage des TVBS-Umfragezentrums vom Dezember 2025 zum Bürgermeisteramt Taipeh: Chiang Wan-an 64 Prozent, Puma Shen 22 Prozent.
-
 [^65]: [UDN: Puma Shen wechselt den Look und steht erstmals mit Chiang Wan-an auf einer Bühne](https://udn.com/news/story/124652/9463754) — UDN-Bericht vom 25.04.2026 über Puma Shens Abschied vom Afrolook, den ersten gemeinsamen Auftritt mit Chiang Wan-an beim Mazu-Fest der Songshan-Cihuitang und die in den Medien gezogenen Vergleiche mit Kimura Takuya, Chang Hsiao-chuan, Bae Yong-joon und anderen.
 
 [^66]: [UDN: Offiziell! DPP beschließt, Puma Shen für das Bürgermeisteramt von Taipeh antreten zu lassen](https://udn.com/news/story/124652/9499591) — UDN-Bericht vom 13.05.2026 über den Beschluss des Zentralexekutivkomitees der DPP, Puma Shen für das Bürgermeisteramt von Taipeh zu nominieren, wobei der zugleich als Parteivorsitzender amtierende Präsident Lai Ching-te persönlich das Wahlkampfband umlegte und beide Hand in Hand „Dung-suan“ riefen.
@@ -417,5 +406,3 @@ Video-Einbettungen: [Puma Shen erklärt im Bundestag Taiwans Desinformationsangr
 [^67]: [Yahoo News: Puma Shen tritt offiziell gegen Chiang Wan-an an – Lai Ching-te lobt ihn als einzigen Kandidaten für das Bürgermeisteramt Taipeh](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — direkte Zitate von der Pressekonferenz vom 13.05.2026, einschließlich Lai Ching-tes Aussagen, Puma Shen besitze „die Höhe internationaler Perspektive, die Breite sektorübergreifender Regierungsführung und die Wärme der Fürsorge für die Bürger“ und sei der „einzige Kandidat für das Bürgermeisteramt von Taipeh“, sowie Puma Shens Annahmeerklärung „Ich habe mich entschieden, für das Bürgermeisteramt von Taipeh zu kandidieren – lasst mich euer Bürgermeister werden.“
 
 [^68]: [Focus Taiwan: DPP nominiert Puma Shen für die Bürgermeisterwahl in Taipeh](https://focustaiwan.tw/politics/202605130025) — Meldung der englischsprachigen CNA-Ausgabe Focus Taiwan vom 13.05.2026; bestätigt den Wahltag 28.11.2026 und Chiang Wan-an (KMT, Amtsinhaber) als Gegner und zitiert Lai Ching-tes Würdigung von Puma Shens NGO-Erfahrung bei der Kuma Academy und dem Taiwan Democracy Lab sowie seiner interdisziplinären Ausbildung in Kriminologie, Recht und öffentlicher Politik.
-
-[^69]: [UDN: Neueste Umfrage zu Taipeh – Chiang Wan-an liegt 28 Prozentpunkte vor Puma Shen](https://udn.com/news/story/124652/9529403) — UDN-Bericht über die am 27.05.2026 veröffentlichte Umfrage des TVBS-Umfragezentrums zum Bürgermeisteramt Taipeh: Chiang Wan-an 58 Prozent, Puma Shen 30 Prozent, Differenz 28 Prozentpunkte; bei den jungen Wählern von 20 bis 29 Jahren lag Puma Shen mit 37 Prozent ebenfalls unter Chiang Wan-ans 60 Prozent.

@@ -1,21 +1,22 @@
 ---
-title: 'Pasar Kehidupan: Platform E-commerce yang Menjual dari Sepuluh Ribu hingga Dua Puluh Ribu Produk Pilihan'
-description: 'Didirikan pada tahun 2013, Pasar Kehidupan (生活市集) memulai sebagai e-commerce vertikal kebutuhan sehari-hari. Awalnya fokus pada kurasi dan harga, kemudian berekspansi ke makanan, elektronik konsumen (3C), dan pengiriman internasional. Tantangan terbesarnya adalah bagaimana mempertahankan kesan "kurasi" setelah menjadi platform umum.'
+title: 'Design Hall: Dari 10.000 hingga 20.000 Produk Pilihan, Menuju Platform E-commerce yang Menjual Segalanya'
+description: 'Design Hall, didirikan pada 2013, bermula dari e-commerce vertikal produk kehidupan sehari-hari, pernah memasuki pasar dengan strategi kurasi dan harga, kemudian meluas ke makanan, 3C, dan pengiriman langsung dari luar negeri. Tantangan sebenarnya adalah, setelah platform berkembang besar, bagaimana agar "kurasi" tetap terasa oleh konsumen.'
 date: 2026-08-15
 category: 'Economy'
-tags:
-  ['Pasar Kehidupan', 'E-commerce', 'Wirausahawan Digital', 'Belanja Online']
+tags: ['Design Hall', 'E-commerce', 'Wirausaha Digital', 'Belanja Online']
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-14T00:53:31+08:00'
+translatedAt: '2026-11-05T15:30:35.130465+00:00'
 ---
 
 Pada tahun 2013, Pasar Kehidupan (生活市集) didirikan sebagai platform e-commerce di bawah perusahaan wirausaha digital. Pada tahun 2020, produk yang ditawarkan tidak hanya terbatas pada kebutuhan sehari-hari, tetapi juga mencakup kategori non-inti seperti elektronik konsumen dan makanan, yang menyumbang sekitar tiga hingga empat puluh persen dari total pendapatan. Pada tanggal 12 Oktober 2023, mereka juga memperluas rak jualan ke luar negeri dengan meluncurkan layanan pengiriman internasional. [^1] [^2] [^7]

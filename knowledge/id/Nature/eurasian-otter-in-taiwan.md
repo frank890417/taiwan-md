@@ -2,9 +2,7 @@
 title: 'Berang-berang Taiwan: Catatan Hidup Terasing Berang-berang Eurasia di Kinmen dan Kehilangan Diam di Pulau Utama'
 description: 'Berang-berang Eurasia di pulau utama Taiwan tidak memiliki catatan pasti di alam liar sejak 1980-an, kondisi populasi tidak diketahui dan sangat tidak menguntungkan. Saat ini hanya tersisa di Kinmen "berang-berang medan perang" yang menghadapi ancaman ganda: habitat terpecah, kecelakaan jalan, dan pencemaran mikroplastik.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'Berang-berang Eurasia',
@@ -15,15 +13,19 @@ tags:
     'Kecelakaan Jalan',
     'Habitat Terpecah',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-07-26T03:58:07+08:00'
+translatedAt: '2026-11-04T18:25:47.281786+00:00'
 ---
 
 # Berang-berang Taiwan: Catatan Hidup Terasing Berang-berang Eurasia di Kinmen dan Kehilangan Diam di Pulau Utama

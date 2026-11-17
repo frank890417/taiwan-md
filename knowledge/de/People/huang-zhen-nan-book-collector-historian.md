@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-04T19:19:35.183856+00:00'
 ---
 
 # Huang Zhennan: Ein lebendiger Quell der taiwanesischen Kulturgeschichte und Buchsammlung
@@ -61,15 +63,15 @@ Sein familiäres Sammelmodell spiegelt auch die Graswurzelkraft der Bewahrung de
 
 ## Referenzen
 
-[^1]: [Huang Zhennan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Hauptbiografie, Ausbildungshintergrund und Sammlungsdetails.
+[^1]: [Huang Zhen-nan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Hauptlebenslauf, Bildungshintergrund und Details zur Buchsammlung.
 
-[^2]: [Huo Shui Lai Ce Fang Facebook Seite](https://www.facebook.com/ngtsinlam) — Aufzeichnungen der Veröffentlichungen und Sammlungsaktivitäten seit 2009.
+[^2]: [Facebook-Seite von Huoshui Lai cefang](https://www.facebook.com/ngtsinlam) — Teilungsaufzeichnungen und Buchsammelaktualisierungen seit der Gründung 2009 bis heute.
 
-[^3]: [Buchseite „Die witzigste Geschichte Taiwans“](https://www.books.com.tw/products/0010722013) — Buchkatalogseite, enthält Publikationsinformationen und Leserrezensionen.
+[^3]: [Buchseite zu „Die meme-reichste Geschichte Taiwans“](https://www.books.com.tw/products/0010722013) — Books.com.tw-Bibliografieseite mit Verlagsinformationen und Leserbewertungen.
 
-[^4]: [Interview mit dem Sammler Huang Zhennan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Familiengeschichten und Erklärungen zu Nishikawa Man und Tsai Pei-huo.
+[^4]: [Interview mit dem Buchsammler Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Geschichten der familiären Buchsammlung und Erläuterungen zu Sammlungsstücken im Zusammenhang mit Nishikawa Mitsuru und Cai Peihuo.
 
-[^5]: [Newtalk Buchempfehlungsbericht](https://newtalk.tw/news/view/2026-02-18/1020552) — Ansichten von Huang Zhennan zur Förderung des Lesens der Geschichte Taiwans und Buchvorschläge.
+[^5]: [Newtalk-Bericht über Buchempfehlungsliste](https://newtalk.tw/news/view/2026-02-18/1020552) — Huang Zhen-nans Ansichten zur Förderung der Lektüre taiwanesischer Geschichte und Buchempfehlungen.
 
 ## Weiterführende Lektüre
 

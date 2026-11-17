@@ -2,27 +2,31 @@
 title: '黄光雄：嘉義の田野に教育学部を築き上げた人物'
 description: '1996年、黄光雄は師範大学（国立台湾師範大学）から嘉義へ南下し、国立中正大学に教育学研究所を創設、後にこれを拡充して教育学部としました。彼は半世紀をかけて西洋のカリキュラム理論を台湾に導入し、質的研究の古典教科書を翻訳、九年一貫課程綱要の研究企画を主催し、さらに多くの学者と共に3年をかけて「尊重と関懷」を核心とする道徳教育プログラムを設計しました。2021年に逝去、享年84歳。'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - '教育'
-  - 'カリキュラム理論'
-  - '教育学'
-  - '学者'
-  - '国立中正大学'
-  - '師範大学'
-  - '質的研究'
-  - '道徳教育'
-readingTime: 7
+  [
+    '教育',
+    'カリキュラム理論',
+    '教育学',
+    '学者',
+    '国立中正大学',
+    '師範大学',
+    '質的研究',
+    '道徳教育',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-05-01T18:09:43+08:00'
+translatedAt: '2026-11-04T20:39:33.063321+00:00'
 ---
 
 > **30秒概覽：** 黄光雄（1937-2021）は、台湾カリキュラム学の奠基者です。国立台湾師範大学教育学博士、英国ロンドン大学教育研究院にて研究を行いました。師範大学教育学部長、新竹師範専科学校校長、国立中正大学教育学研究所創設所長兼教育学部創設学部長を歴任しました。西洋のカリキュラム理論を体系的に台湾に導入し、『教育概論』『教学原理』などの教員養成教科書を主編、『質的教育研究』を主訳し、さらに教育部九年一貫課程綱要の研究企画に直接参画しました。2021年2月4日に逝去、享年84歳。

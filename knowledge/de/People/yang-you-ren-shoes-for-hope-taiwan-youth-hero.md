@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-04T19:21:27.742275+00:00'
 ---
 
 # Yang Yu-ren: Vom Schulabbrecher zum „Old Shoes for Life“ in Afrika
@@ -58,19 +60,19 @@ Yang Yu-ren veröffentlichte „Blessing for 50,000 Pairs: How a Small Action Ch
 
 ## Referenzen
 
-[^1]: [Yang Yu-ren – Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Hauptbiografische Daten, einschließlich der Geburt in Taoyuan, des Studiums in Australien und des religiösen Wandels.
+[^1]: [Yang You-ren — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Hauptlebensdaten, einschließlich Geburt in Taoyuan, Studium in Australien und Glaubenswende.
 
-[^2]: [Step30 Old Shoes for Life – Offizielle Website](https://www.step30.org/) — Organisationseinführung, Projektplan und Jahresbericht.
+[^2]: [Step30 Alte Schuhe retten Leben — offizielle Website](https://www.step30.org/) — Organisationsvorstellung, Projektpläne und Jahresdienstberichte.
 
-[^3]: [Old Shoes for Life International Christian Care Association – Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Die Geschichte der Plakataktion von 2014 und die Containerverteilung.
+[^3]: [Internationaler christlicher Verein Alte Schuhe retten Leben — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Hintergrund des Plakatvorfalls 2014, Aufzeichnungen zur Containerverteilung.
 
-[^4]: [104 Applause Interview – Vom Straßenräuber zum zehn Herausragenden Jungen](https://blog.104.com.tw/104bravo-step30-org-founder/) — Yang Yu-rens Lebenswende, der Namensgeber für Step30 und die Philosophie „keine Abhängigkeit schaffen“.
+[^4]: [104 Applaus-Interview — Vom Straßenrowdy zu den zehn herausragenden Jugendlichen](https://blog.104.com.tw/104bravo-step30-org-founder/) — Yang You-rens Lebenswende, die Namensherkunft von Step30 und die Erklärung der Philosophie ‚Keine Abhängigkeit schaffen‘.
 
-[^5]: [Step30 Offizielle Website – Projektvorstellung](https://www.step30.org/) — Beschreibung der vier Projekte: Bildung, Wasserleben, Liebe für Mädchen und landwirtschaftliche Selbstständigkeit.
+[^5]: [Step30 offizielle Website — Projektvorstellung](https://www.step30.org/) — Erläuterung der vier Projekte: Bildung fördern, lebendiges Wasser, Liebe·Mädchen, landwirtschaftliche Selbstständigkeit.
 
-[^6]: [Vereinigung der Zehn Herausragenden Jungen](https://www.youth.org.tw/) — Bestätigt die Auszeichnung von Yang Yu-ren als eine der zehn herausragenden jungen Persönlichkeiten im Jahr 2017.
+[^6]: [Vereinigung der zehn herausragenden jungen Menschen](https://www.youth.org.tw/) — Bestätigung, dass Yang You-ren 2017 zu den zehn herausragenden Jugendlichen gewählt wurde.
 
-[^7]: [„Blessing for 50,000 Pairs“ – Bloggle](https://www.books.com.tw/products/0010806227) — Werk von Yang Yu-ren (Campus Books, 2018), das den Gründungsprozess von Old Shoes for Life und ihre Erfahrungen im Dienst in Afrika dokumentiert.
+[^7]: [„50.000 Paar Segnungen für dich“ — Books.com.tw](https://www.books.com.tw/products/0010806227) — Yang You-rens Werk (Campus Bookroom, 2018), dokumentiert die Gründungsgeschichte von Alte Schuhe retten Leben und den inneren Weg der Afrika-Mission.
 
 ## Weiterführende Lektüre
 

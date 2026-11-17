@@ -18,11 +18,13 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
 terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T21:36:41.065495+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Warum spricht man in Taiwan dieses Chinesisch? Es ist kein Ergebnis politischer Planung, sondern eine natürliche Sprachentwicklung, die sich über vierhundert Jahre auf dieser Insel abgelagert hat. Von den Ortsnamen der Holländer, der fünfzigjährigen Durchdringung durch japanische Lehnwörter, der Worttrennung von 1949 bis zum sprachlichen Ringen im Internetzeitalter – jede Schicht ist ein Spurenschatz des realen Lebens, nicht einer politischen Haltung.

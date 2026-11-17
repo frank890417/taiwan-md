@@ -1,6 +1,7 @@
 ---
 title: 'Taiwan New Media Art'
 description: 'Sixteen key artists and forty years of digital art revolution — from 1980s video art pioneers to a Venice VR Grand Prize. How Taiwan wrote poetry in code and carved its name into the international art map.'
+date: 2026-03-28
 category: 'Art'
 tags:
   [
@@ -17,16 +18,15 @@ tags:
     'C-LAB',
   ]
 subcategory: '新媒體與數位藝術'
-date: 2026-03-28
-lastVerified: 2026-04-04
 author: 'Taiwan.md'
-lastHumanReview: true
 featured: true
-translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: 'ef8fab38'
-sourceContentHash: 'sha256:d196b7664449f36f'
-sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: '2026-06-12T16:39:07Z'
+lastVerified: 2026-04-04
+lastHumanReview: true
+translatedFrom: 'Art/台灣新媒體藝術.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:322922074ebc6f22'
+sourceBodyHash: 'sha256:532e9b8210a860d0'
+translatedAt: '2026-11-02T15:25:13.522852+00:00'
 ---
 
 # Taiwan New Media Art
@@ -131,32 +131,34 @@ Taiwan covers 36,000 square kilometers with a population of 23 million, and hold
 
 ## Challenges
 
-Taiwan new media art's achievements should not obscure the structural difficulties it faces.
+The achievements of Taiwan's new media art should not obscure the structural dilemmas it faces.
 
-The collection market problem is most fundamental: interactive installations are difficult to display in private spaces; VR works require specialized equipment to experience; digital works face the risk of technical obsolescence in preservation. Most Taiwanese new media artists remain highly dependent on public-sector subsidies and museum commissions — an ecosystem that functions when policy is stable but is very fragile when policy shifts.
+The problems within the collector market are most fundamental: interactive installations are difficult to display in private spaces, VR works require specialized equipment for viewing, and digital works face the risk of technical obsolescence regarding preservation. Most Taiwanese new media artists still rely heavily on public sector subsidies and museum commissions—an ecosystem that functions when policies are stable but becomes extremely fragile during policy shifts.
 
-In 2023, the copyright dispute triggered by author Wu Dan-ru's (吳淡如) use of Midjourney to generate images exposed ambiguity in Taiwanese society's understanding of AI-generated work. Taiwan's Intellectual Property Office's current guidelines hold that "machine-generated intellectual products in principle do not enjoy copyright," but in the increasingly complex reality of human-machine collaboration, this line is rapidly dissolving. Artists including Hsu Chia-wei and Ku Kuang-yi have spent extended periods abroad; how to keep talent connected to the Taiwanese ecosystem while circulating internationally is an unresolved question.
+In 2023, a copyright controversy triggered by author Wu Tan-ju using Midjourney to generate images exposed the ambiguity in Taiwanese society regarding the definition of AI creation. Current guidelines from the Taiwan Intellectual Property Office state that "intellectual achievements produced by machines do not, in principle, enjoy copyright," but as human-machine collaboration becomes increasingly complex, this boundary is rapidly dissolving. Artists such as Hsu Chia-wei and Ku Koang-yi have long experiences living abroad; how to keep talent connected to the Taiwanese ecosystem amidst international mobility remains an unsolved challenge.
 
-Facing China's rapidly expanding digital art industry driven by capital, and Korea's large-scale government investment in metaverse infrastructure, Taiwan's strategy is clear: not competing on scale — competing on depth. The question has never been whether Taiwan can do it. The question is whether this ecosystem can keep supporting artists in attempting the most difficult experiments.
+Facing the rapid expansion of the digital art industry in mainland China driven by capital, and the South Korean government's massive investments in metaverse infrastructure, Taiwan's strategy is clear: do not compete on scale, compete on depth. The issue has never been whether Taiwan is capable, but whether this ecosystem can continuously support artists in conducting more difficult experiments.
 
-When Yu Shien Yang's name appeared on the 2025 Ars Electronica Linz jury list, no one was particularly surprised — Taiwanese artists are there every year. That "of course" is the accumulated result of forty years: from the borrowed video camera Yuan Goang-Ming picked up, to the fingers flying through Hsin-Chien Huang's virtual void, to the breathing of LuxuryLogico's 697 mechanical petals. Taiwan has never had the most resources. But in new media art, it achieved something rare: it gave machines a soul.
+When Yang Yu-hsien's name appeared on the jury list for the 2025 Ars Electronica Festival, no one was particularly surprised; Taiwanese artists are there every year. This sense of "matter-of-factness" is the result of forty years of accumulation: from the video camera borrowed by Yuan Goang-Ming, to Hsin-Chien Huang's fingers flying through virtual space, to the breathing of Holo-Graphic Machine's 697 mechanical petals. Taiwan has never been the most resource-rich, but in the field of new media art, it has achieved something rare: giving machines a soul.
 
 ---
 
-**Further Reading:**
+**Further Reading**:
 
-- [Contemporary Taiwanese Literature](/art/台灣當代文學發展) — The contemporary creative ecosystem that emerged alongside new media art; for understanding the broader cultural context
-- [Taiwanese Theater and Performing Arts](/en/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi; where body and technology intersect
-- [Taiwanese Cinema](/en/art/taiwanese-cinema) — Another track for Taiwanese image art, sharing film festival stages with new media art
-- [Open Source Communities and g0v](/en/technology/open-source-and-g0v) — Another dimension of Taiwan's tech culture; the intersection of open-source spirit and the art world
-- [謝德慶 (Tehching Hsieh)](/en/art/tehching-hsieh-performance-artist) — Before new media, the body was the medium: Taiwan's performance art pioneer and international master of the five Year Performances
-- [Wang Xin-ren (Aluan)](/en/art/wang-hsin-jen-artist) — The first Taiwanese generative artist to feature on Art Blocks; core figure of akaSwap and FAB DAO's Hundred Peaks initiative
-- [Wang Lien-sheng (Xiababa)](/en/art/wang-lien-cheng-artist) — 2017 Lumen Prize Sculpture first-place winner; i/O Lab member and Lost and Found Festival organizer; Taiwanese sound installation art representative
-- [Wu Che-yu](/en/people/che-yu-wu) — New media artist who calls himself an "ancient clockmaker"; Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project initiator
-- [The Reporter](/en/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities; shows a different path to building public goods after 2015
-- [justfont and Taiwan Typography](/en/technology/justfont-and-taiwan-typography/) — Typography as cultural infrastructure; another dimension of Taiwanese visual sovereignty
-- [Submarine Cables](/en/technology/submarine-cables-taiwan-lifeline) — 99% of cross-border new media art exhibitions and curatorial collaborations run over submarine cables; this piece reveals the invisible digital cultural infrastructure beneath
-- [Aaron Nieh (聶永真)](/en/people/nieh-yung-jen) — Taiwan's first AGI (Alliance Graphique Internationale) member; the curatorial position of his Eternal Design Studio (永真急制) in contemporary Taiwanese visual culture
+- [Contemporary Literature Development in Taiwan](/en/art/contemporary-taiwanese-literature) — The contemporary creative ecosystem that emerged alongside new media art; understanding the overall context of the cultural sphere.
+- [Taiwanese Theater and Performing Arts](/en/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi, at the intersection of body and technology.
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — Another lineage of Taiwanese visual art that shares film festival stages with new media art.
+- [Open Source Community and g0v](/en/technology/open-source-and-g0v) — Another facet of Taiwan's tech culture, where the open-source spirit intersects with the art scene.
+- [History of the Taiwan Television Industry](/en/technology/taiwan-television-industry-history) — The evolution of media from broadcasting to OTT, providing the institutional context for visual technology.
+- [justfont and the Development of Taiwanese Typefaces](/en/technology/justfont-and-taiwan-typography) — Another group of creators at the intersection of design, technology, and cultural identity: those who "nurtured" Taiwan's characters back, stroke by stroke.
+- [Tehching Hsieh](/en/art/tehching-hsieh-performance-artist) — The bodily medium prior to new media; a pioneer of Taiwanese performance art and an international master of the "One Year Performance."
+- [Wang Shin-jen (A-Luan)](/en/art/wang-hsin-jen-artist) — The first Taiwanese generative artist to appear on Art Blocks, and a core figure in akaSwap and the FAB DAO Mt. Paiyue project.
+- [Wang Lien-sheng (Shrimp Dad)](/en/art/wang-lien-cheng-artist) — Winner of the 2017 Lumen Prize for Sculpture; member of i/O Lab and organizer of the Lost and Found Festival; a representative of Taiwanese sound installation art.
+- [Wu Che-yu](/en/people/che-yu-wu) — A new media artist who calls himself an "ancient watchmaker"; initiator of the Venice Biennale _Personal Structures_ × Art Basel Miami × Taiwan.md open-source project.
+- [The Reporter: Ten Years of Saving Investigative Journalism from a Business Item to a Public Good](/en/society/the-reporter-investigative-journalism) — Another case of "Taiwan DNA" driven by civic communities and cross-disciplinary growth, demonstrating another path for civil society to construct public goods after 2015.
+- [justfont and the Development of Taiwanese Typefaces: A Small History of Typefaces from Huashan Year 25 to Jinquan 76 Minutes](/en/technology/justfont-and-taiwan-typography) — Typefaces as cultural infrastructure, another dimension that shares new media art's focus on Taiwanese visual subjectivity.
+- [Submarine Cables: Visible atop the Silicon Shield, Invisible beneath its Lifeline](/en/technology/submarine-cables-taiwan-lifeline) — 99% of transnational new media art performances and curatorial collaborations rely on submarine cables; this article reveals this invisible digital cultural infrastructure.
+- [Nie Yung-chen](/en/people/nieh-yung-jen) — The first Taiwanese member of the AGI (Association of Grand International) graphic design alliance, and the curatorial position of Yen-Chen Studio within Taiwan's contemporary visual culture.
 
 ## References
 

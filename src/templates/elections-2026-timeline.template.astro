@@ -97,9 +97,10 @@ const EN_MONTHS = [
 // 只有 zh-TW / en / ja 有完整文案，其他語言退回 en（鍵是語言代碼）
 const copyAll: Record<string, PageCopy> = {
   'zh-TW': {
-    metaTitle: '2026 九合一選舉完整選務時程：從選舉公告到新任就職',
+    // {vote} {draw} {voteLong} {drawLong} {drawNote} {inaugLong} 由 metaVars() 從時程資料填入
+    metaTitle: '2026 九合一選舉日期：{vote} 投票，號次抽籤 {draw}',
     metaDescription:
-      '2026 九合一選舉從中選會決定投票日、選舉公告、候選人登記、號次抽籤、名冊公告閱覽、公報送達、11 月 28 日投票開票，到 12 月 25 日新任就職，加上同日公投第 22 案的程序，每一筆都附中選會或法規出處。',
+      '2026 九合一選舉 {voteLong}投票，上午 8 點到下午 4 點。候選人號次抽籤{drawNote}從選舉公告、候選人登記、名冊公告閱覽到 {inaugLong}新任就職，加上同日公投第 22 案，每一步都附中選會或法規出處。',
     breadcrumbHome: '2026 九合一選舉',
     breadcrumbHere: '完整選務時程',
     hero: {
@@ -229,9 +230,9 @@ const copyAll: Record<string, PageCopy> = {
     ],
   },
   en: {
-    metaTitle: '2026 Taiwan Local Elections: Full Official Timeline',
+    metaTitle: '2026 Taiwan Election Timeline: Vote {vote}, Ballot Draw {draw}',
     metaDescription:
-      'Every legal step of Taiwan’s November 28, 2026 local elections and the same-day Referendum Case No. 22: election notices, candidate registration, ballot numbers, voter roll inspection, bulletins, voting, counting, results and the December 25 inauguration, each with an official source.',
+      'Taiwan votes on {voteLong}, 2026, 8 a.m. to 4 p.m.; ballot-number draw {drawLong}. Every legal step of the nine local races and Referendum Case No. 22, up to the {inaugLong} inauguration, with official sources.',
     breadcrumbHome: '2026 Local Elections',
     breadcrumbHere: 'Full timeline',
     hero: {
@@ -363,9 +364,9 @@ const copyAll: Record<string, PageCopy> = {
     ],
   },
   ja: {
-    metaTitle: '2026年台湾統一地方選挙：選挙日程のすべて',
+    metaTitle: '2026年台湾統一地方選挙の日程：{vote}投票、番号抽選{draw}',
     metaDescription:
-      '2026年11月28日の台湾統一地方選挙と同日の公民投票第22案について、選挙公告、候補者登録、番号抽選、名簿縦覧、公報の配達、投票・開票、結果公告、12月25日の就任まで、法定の手順を日付順に整理。すべて公式の出典付き。',
+      '2026年の台湾統一地方選挙は{voteLong}に投票（午前8時〜午後4時）、候補者番号の抽選は{drawLong}。同日の公民投票第22案を含め、選挙公告から{inaugLong}の就任まで法定の手順を日付順に整理。すべて公式の出典付き。',
     breadcrumbHome: '2026年統一地方選挙',
     breadcrumbHere: '選挙日程',
     hero: {
@@ -505,6 +506,72 @@ const fill = (tpl: string, vars: Record<string, string | number>) =>
 
 const textOf = (item: TimelineItem): ItemText =>
   (item[cl] ?? item.en) as ItemText;
+
+// ── meta title / description 的日期：從時程資料取，不在文案裡寫死 ────────
+// 搜尋查詢是「選舉抽號碼時間」「2026選舉日期」，標題與描述第一句直接給投票日
+// 與號次抽籤日期（2026-11-04 evolve）。中文描述的 drawNote 是 ballot-draw 說明
+// 第一句之後的原文（例如颱風延期），沒有就只寫日期。
+const itemById = (id: string) => data.items.find((i) => i.id === id);
+const parts = (iso: string) => iso.split('-').map(Number);
+const shortDate = (iso: string) => {
+  const [, m, d] = parts(iso);
+  if (cl === 'zh-TW') return `${m}/${d}`;
+  if (cl === 'ja') return `${m}月${d}日`;
+  return `${EN_MONTHS[m - 1].slice(0, 3)} ${d}`;
+};
+const longDate = (iso: string) => {
+  const [, m, d] = parts(iso);
+  if (cl === 'zh-TW') return `${m} 月 ${d} 日`;
+  if (cl === 'ja') return `${m}月${d}日`;
+  return `${EN_MONTHS[m - 1]} ${d}`;
+};
+const shortRange = (i: TimelineItem) => {
+  if (i.start === i.end) return shortDate(i.start);
+  const [, m1] = parts(i.start);
+  const [, m2, d2] = parts(i.end);
+  const endPart =
+    m1 !== m2
+      ? shortDate(i.end)
+      : cl === 'ja'
+        ? `${d2}日`
+        : cl === 'zh-TW'
+          ? `${m2}/${d2}`
+          : `${d2}`;
+  return `${shortDate(i.start)}${cl === 'ja' ? '〜' : '–'}${endPart}`;
+};
+const longRange = (i: TimelineItem) => {
+  if (cl === 'zh-TW' || cl === 'ja' || i.start === i.end) {
+    return i.start === i.end ? longDate(i.start) : shortRange(i);
+  }
+  const [, m1] = parts(i.start);
+  const [, m2, d2] = parts(i.end);
+  return `${longDate(i.start)}–${m1 === m2 ? d2 : longDate(i.end)}`;
+};
+const metaVars = (): Record<string, string> => {
+  const vote = itemById('voting-day');
+  const draw = itemById('ballot-draw');
+  const inaug = itemById('inauguration');
+  if (!vote || !draw || !inaug) {
+    throw new Error(
+      'elections-2026-timeline.json 缺 voting-day / ballot-draw / inauguration',
+    );
+  }
+  // 中文描述用：說明第一句之後的原文（颱風延期那句），沒有就只寫日期。
+  const rest = textOf(draw)
+    .detail.split(/(?<=。)/)
+    .slice(1)
+    .join('');
+  const drawNote = rest || `在 ${longDate(draw.start)}。`;
+  return {
+    vote: shortDate(vote.start),
+    voteLong: longDate(vote.start),
+    draw: shortRange(draw),
+    drawLong: longRange(draw),
+    drawNote,
+    inaugLong: longDate(inaug.start),
+  };
+};
+const mv = metaVars();
 const sourceOf = (key: string) => {
   const s = data.sources[key];
   if (!s) return null;
@@ -610,8 +677,8 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
 
 <Layout
   lang={lang}
-  title={c.metaTitle}
-  description={c.metaDescription}
+  title={fill(c.metaTitle, mv)}
+  description={fill(c.metaDescription, mv)}
   readerSettings
 >
   <div class="elections-timeline">

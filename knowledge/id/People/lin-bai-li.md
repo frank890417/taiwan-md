@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T19:20:10.340105+00:00'
 ---
 
 # Lin Pai-li: Lahir di Shanghai 1949, Pendiri Quanta Computer dan Raja ODM Laptop yang Bertarung Melawan Kanker Selama 20 Tahun

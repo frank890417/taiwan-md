@@ -18,17 +18,17 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-07-29T02:35:12+08:00'
+translatedAt: '2026-11-04T16:56:23.822445+00:00'
 ---
 
-> **Ringkasan 30 Detik:**
-> "SOFA Studio" yang didirikan 2004 pernah menjadi bintang industri animasi Taiwan, dibekali dana Kuo T'ai-ch'iang (郭台強) dan mimpi karya asli, menaklukkan 80 negara lewat "MuMuHug". Namun, biaya R&D animasi yang mahal dan periode pengembalian modal yang panjang membuat taruhan besar ini berakhir dengan perubahan arah. Cerita tak berakhir di sana — anggota inti Ch'iu Li-wei (邱立偉) yang mendirikan studio2 di Tainan meneruskan obor, dari "Kucing Kecil Bakri" ke "Bajie", mereka di bangunan tua Tainan menghabiskan dua puluh tahun kesepian untuk meraih estetika animasi milik Taiwan.
-
----
+**Ringkasan 30 Detik:**
+SOFA Studio yang didirikan pada 2004 pernah menjadi bintang industri animasi Taiwan, membawa dana dan mimpi karya asli Kuo Tai-chiang, menaklukkan 80 negara lewat MuMuHug. Namun, biaya tinggi dan jangka pengembalian panjang dalam R&D animasi memaksa taruhan besar ini berubah arah. Cerita belum berakhir; studio2 yang didirikan anggota inti Chiu Li-wei di Tainan mengambil alih tongkat estafet, dari Little Cat Bakri hingga Bajie, mereka di bangunan tua Tainan, mengubah dua puluh tahun kesepian menjadi estetika animasi milik Taiwan.
 
 ## Fajar yang Hilang: Ketika Anak Orang Terkaya Bertemu Mimpi Animasi
 

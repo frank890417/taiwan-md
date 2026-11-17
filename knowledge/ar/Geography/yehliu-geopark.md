@@ -2,19 +2,21 @@
 title: 'ييلو: على رأس الشيطان، تتويج ووداع «الملكة» في سباق مع الزمن'
 description: 'في عام 1962، أدى انهيار صخري عرضي إلى «تتويج» رأس ملكة ييلو، لكن هذا المنظر الطبيعي العالمي يتلاشى بسرعة سنتيمترين سنويًا. من «رأس الشيطان» في عيون الإسبان إلى معلم ثقافي يحميه الجميع، قصة ييلو ليست مجرد معجزة جيولوجية، بل هي عملية تعلم فيها التايوانيون كيف يتخلون عن الأشياء بين قوانين الطبيعة وشوق المشاعر.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '地形與地質'
 tags: ['ييلو', 'رأس الملكة', 'الحديقة الجيولوجية', 'وانلي', 'لين تيان-تشين']
-readingTime: 8
+subcategory: '地形與地質'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-07-25T07:56:03+08:00'
+translatedAt: '2026-11-05T05:10:10.334978+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

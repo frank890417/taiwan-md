@@ -2,24 +2,27 @@
 title: 'Divisiones administrativas de Taiwán: el mapa de poder desde las "asambleas locales" hasta las "cinco metrópolis"'
 description: 'Las divisiones administrativas de Taiwán no son meras líneas en un mapa, sino un experimento de poder que abarca cuatrocientos años. Desde los consejos tribales del período holandés y español, pasando por el movimiento de "refinamiento toponímico" de las "cinco prefecturas y tres oficinas" en la era colonial japonesa, hasta la casi creada "Ciudad Shuangwen" de la posguerra, cada frontera esconde una tensión entre la voluntad de dominio y la identidad local.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
-category: Geography
+category: 'Geography'
 tags:
   [
-    divisiones administrativas,
-    historia de Taiwán,
-    planificación territorial,
-    autonomía local,
+    'divisiones administrativas',
+    'historia de Taiwán',
+    'planificación territorial',
+    'autonomía local',
   ]
-readingTime: 15
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: Geography/台灣行政區劃.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Geography/台灣行政區劃.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-05T06:04:06.695956+00:00'
 ---
 
 > **Panorama en 30 segundos:** Las actuales "seis metrópolis y dieciséis condados/ciudades" de Taiwán son el resultado de múltiples cirugías políticas a lo largo de cuatro siglos. En el siglo XVII, los holandeses utilizaron las "asambleas locales" (Landdag) para vigilar a las tribus; durante los períodos de la dinastía Ming-Zheng y la administración Qing, se instauró el sistema chino de prefecturas y condados; y en la era colonial japonesa, las "cinco prefecturas y tres oficinas" junto con el refinamiento toponímico sentaron las estructuras del mapa administrativo moderno. Este experimento casi produjo en 1945 una "Ciudad Shuangwen" nombrada por una persona, y en 2010, mediante la reestructuración de las cinco metrópolis, más del 60 % de la población nacional quedó incorporada a municipios bajo jurisdicción central, dejando como herencia contemporánea el desafío del desequilibrio de recursos.

@@ -2,9 +2,7 @@
 title: 'Explosión de polvo de Formosa Fun Coast: la noche en que una fiesta de colores quemó una herida en Taiwán'
 description: 'El 27 de junio de 2015, una fiesta de colores en Formosa Fun Coast provocó una explosión de polvo por ignición súbita que conmocionó al mundo. El accidente, el episodio con víctimas masivas más grave en la historia de Taiwán después del terremoto del 21 de septiembre de 1999, causó 499 personas con quemaduras y escaldaduras y 15 muertes; transformó por completo el sistema de emergencias médicas de Taiwán e impulsó la reforma de las normas de seguridad para eventos multitudinarios.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'explosión de polvo de Formosa Fun Coast',
@@ -13,15 +11,19 @@ tags:
     'responsabilidad legal',
     'historia de Taiwán',
   ]
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T05:19:58.053017+00:00'
 ---
 
 > **Panorama en 30 segundos:** La noche del 27 de junio de 2015, a las 20:32, en la “fiesta de colores” de Formosa Fun Coast, en Bali, Nuevo Taipéi, el polvo de almidón de maíz se inflamó súbitamente y convirtió el lugar en un mar de fuego. El accidente causó 499 personas con quemaduras y escaldaduras y 15 muertes; fue el accidente individual de seguridad pública con más víctimas en Taiwán desde el terremoto del 21 de septiembre de 1999. Ante una gran cantidad de pacientes con quemaduras graves, el personal médico de Taiwán “movilizó la fuerza de todo el país” y creó un “milagro médico” con una tasa de mortalidad de apenas 3%. Sin embargo, diez años después, los litigios siguen en curso; para las personas heridas, el camino de rehabilitación y convivencia con las cicatrices ha sido largo y arduo, y Formosa Fun Coast quedó abandonado desde entonces. Esa herida sigue recordando profundamente a la sociedad taiwanesa la importancia de la seguridad pública.

@@ -2,9 +2,7 @@
 title: 'Walking on the Filled-in Harbor: Five Street Foods of Tainan’s Central-West District'
 description: "Beneath Guohua Street and Hai'an Road lie the riverbed ruins of the Qing Dynasty’s Five Ports; beef soup, milkfish porridge, eel noodles, and pig heart glass noodles—each dish’s timing, location, and ingredients are fossils of the survival logic left by four centuries of dockworkers."
 date: 2026-06-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tainan',
@@ -15,20 +13,24 @@ tags:
     'Milkfish',
     'Eel Noodles',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-24T16:23:46+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T13:21:53.080042+00:00'
 ---
 
-At 4:30 a.m., Guohua Street is still dark. A few people walk over from Tainan Railway Station, their phone screens illuminating the path toward the sign of Liuqian Beef Soup, which is still shrouded in darkness. They are not the first: people are already waiting at the door. The cattle from the Shanhua Meat Market were slaughtered the previous night; refrigerated trucks arrived before dawn, and the first pot of soup began boiling at 5:00 a.m. Those who arrive early know one thing: **the sweetness of the first pot is different from that of the evening batch.**
+At 4:30 a.m., the lights are not yet on in Guohua Street. A few people walk over from Tainan Station, their phone screens illuminating the path as they head toward Liu Qian Beef Soup, whose signage remains shrouded in darkness. They are not the first: someone is already waiting at the entrance. The cattle from the Shanhua Meat Market begin slaughtering the previous night, arriving via refrigerated truck before dawn, and the first pot of soup begins to boil at five o'clock. Those who arrive early know one thing: **the sweetness of the first pot is different from that of the evening.**
 
-This is not about ritual. It is about logistics.
+This is not about a sense of ritual. This is logistics.
 
 ## The Five Ports: The Reason for Disappearance
 
@@ -72,17 +74,17 @@ The texture of warm-body beef is "crunchy-crunchy"—the muscle fibers are intac
 
 📝 Curator’s Note: In college, I gathered friends for our first trip to Tainan. At 4:00 a.m., someone woke me up by slapping my shoulder: "Hey, get up, we’re going to drink beef soup." Half-asleep, my first thought was: What time is this? Who sells beef soup at this hour? And even if they do, why get up now? But my friend was insistent. Reluctantly, we went out. On Hai'an Road, before we could even see which shop it was, we saw a row of people under the market awning, illuminated by streetlights—twenty or thirty people already waiting. The shop opened at 5:00 a.m., securing the first pot. That sweetness—not added sugar, but the natural sweetness seeping into the soup from muscle fibers in their freshest state—the evening beef soup is equally charming, but the freshness of the first pot is a spiritual enjoyment on another level. It is a satisfaction that feels almost unfair. At that moment, my friend reminded me: "How is it? Worth it? I’m telling you, don’t come on Mondays. Mondays are closed." It turns out that Tainan beef soup shops are usually closed on Mondays because the Shanhua Meat Market does not slaughter cattle on Mondays.
 
-## Eel Noodles: The Physics of 27 Seconds
+## Eel Yi-mian: High-Heat Stir-Frying, a Shop with Time Written on Its Walls
 
-Eel noodles exist in other parts of Taiwan, but outside Tainan, almost no one makes them correctly, because the core technique requires extreme precision: from the eel hitting the wok to taking it out, no more than 27 seconds. Exceed that, and the meat becomes tough, the fishy smell emerges, and the whole pot is ruined.
+The skill in _shàn-yú yì-mián_ (eel thin noodles) lies in the heat control: eel slices must be stir-fried over high heat; if overcooked, the meat becomes tough. An old establishment in Sakariba uses "27 seconds" as its own signature brand—this is that specific shop's method, not a universal rule for the dish.
 
-The origin of this dish is in You’ai Street Market (Shakariba). During the Japanese colonial period, Tainan had no eels, but wild eels of similar size were easily caught from ponds, yet no one knew how to cook them. Brothers Liao Bingnan and Liao Huotu learned the "knife" (to-tsì) cooking method from a Fuzhou master, developing a stir-fry technique that mimicked eel. The salty-sour-sweet Tainan flavor even convinced Japanese officials, establishing its reputation at Shakariba. Liao Bingnan was later known as "Eel Nan"; the Liao family’s techniques were passed down, and today, the Liao family’s stir-fried eel at Shakariba, A-Yuan on Chenggong Road, and A-Jiang on Minzu Road all stem from the same lineage.
+The origins of this dish trace back to Youai Street Market (Sakariba). The brothers Liao Bing-nan and Liao Huo-tu learned the art of _to-tsì_ (knife skills) from a Fuzhou master, stir-frying the salty, sour, and sweet flavors characteristic of Tainan to make a name for themselves in Sakariba. Liao Bing-nan was later known as "Eel Nan"; the Liao family's techniques have been passed down through generations, with the Liao family in Sakariba, A-Yuan on Chenggong Road, and A-Jiang on Minzu Road all stemming from the same lineage. For the full story, see "[Eel Yi-mian](/en/food/eel-noodles)".
 
-Garlic is fragrant, eel segments hit the wok, scallions, onions, chili, seasonings, thickening, five-spice vinegar, take out, pour over the prepared noodles. The sound of the wok hei rising is how the old master judges the heat with his ears, not his eyes.
+Sauté the garlic until fragrant, add the eel segments to the wok along with scallions, onions, chilies, seasonings, and starch slurry; add Five-Seal Vinegar, then toss it all onto a prepared bowl of _yi-mian_. That sound of rising _huò-qì_ (breath of the wok) is how master chefs judge the heat with their ears rather than their eyes.
 
-The noodles are a local Tainan variety, fried in a half-cooked state to set their shape, absorbing the sauce fully. The texture is completely different from standard noodles. Five-spice vinegar is essential—the sweet-sour finish resets the palate, allowing you to continue eating the next stall after the oil and protein.
+The _yi-mian_ used is a local Tainan noodle variety that is deep-fried to set its shape while still semi-raw, then placed into the sauce to soak up the flavors; its texture is completely different from standard noodles. Five-Seal Vinegar is essential—the sour and sweet finish resets the palate, allowing one to keep eating even after all that fat and protein.
 
-📝 Curator’s Note: "Shakariba" is the Taiwanese transliteration of the Japanese word "盛り場" (sakariba), meaning a bustling market. This name itself explains the origin of eel noodles: a worker gathering place during the Japanese colonial period.
+📝 Curator's Note: "Sakariba" is the Taiwanese transliteration of the Japanese word _sakariba_ (盛り場), meaning a bustling marketplace or lively spot. The name itself speaks to the origins of eel _yi-mian_: a gathering place for workers during the Japanese colonial period.
 
 ## A-Ming Pig Heart Glass Noodles: The Philosophy of Two-Hour Waiting
 

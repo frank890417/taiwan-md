@@ -1,10 +1,10 @@
 ---
-title: 'From "Dog Killing Island" to Zero Culling: Forty Years of Redemption in Taiwan''s Animal Protection'
-description: 'In the 1990s, Taiwan was internationally known as the "Dog Killing Island" due to cruel treatment of stray dogs, leading even Japanese airports to display boycott signs. From the enactment of the Animal Protection Act in 1998 to comprehensive zero culling in 2017, this is a social movement redefining the value of life.'
+title: 'From "Island of Dog Killing" to Zero Slaughter: Taiwan''s Forty-Year Journey of Redemption in Animal Protection'
+description: 'In the 1990s, Taiwan was internationally branded as the "Island of Dog Killing" due to its cruel treatment of stray dogs. From the 1998 Animal Protection Act to the achievement of full zero slaughter in 2017, this is a social movement about redefining the value of life.'
 date: 2026-07-28
 category: 'History'
 tags:
-  ['Animal Protection', 'Social Movement', 'Legal Evolution', 'Taiwan History']
+  ['Animal protection', 'Social movements', 'Legal evolution', 'Taiwan history']
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,84 +13,82 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'History/動保.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:7522efdf3a40c32a'
-sourceBodyHash: 'sha256:1acff297b5650550'
-translatedAt: '2026-09-19T01:37:15+08:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:7976b50994d50f0d'
+sourceBodyHash: 'sha256:43d507c619cbc518'
+translatedAt: '2026-11-02T05:44:46+08:00'
 ---
 
-> **30-Second Overview:** The history of animal protection in Taiwan is a dramatic transition from "waste disposal" to "respect for life." In the 1980s and 1990s, Taiwan gained a notorious international reputation due to large-scale and cruel culling of stray dogs, even provoking boycotts by Europe, the US, and Japan. However, through three decades of relentless effort by civil society groups, Taiwan promulgated the Animal Protection Act in 1998 and officially became the second country in Asia to implement "zero culling" in 2017. Today, quarantine dogs at airports are national heroes, witnessing the ascent of Taiwanese societal civilization.
+> **30-Second Overview:** The history of animal protection in Taiwan is a dramatic shift from "clearing waste" to "respecting life." In the 1980s and 90s, Taiwan gained international notoriety for the large-scale and cruel killing of stray dogs, even triggering tourism boycotts from Europe, the United States, and Japan. However, through thirty years of tireless effort by civil society groups, Taiwan promulgated the _Animal Protection Act_ in 1998 and officially became the second country in Asia to implement a "zero slaughter" policy in 2017. Today, quarantine dogs at airports are national heroes; this history witnesses a leap in the level of civilization within Taiwanese society.
 
-### The Era of Shame: "Dog Killing Island" Signs at Japanese Airports
+### The Era of Shame: The "Island of Dog Killing" Signage at Japanese Airports
 
-In the early 1990s, Taiwan's international image was at an extremely contradictory crossroads. While the economic miracle propelled Taiwan onto the world stage, tens of thousands of stray dogs on the streets represented the darkest corner of the nation. At the time, the Taiwanese government treated strays as a "sanitation issue," and cleanup was managed by sanitation teams from the Environmental Protection Administration, not animal welfare units[^1].
+In the early 1990s, Taiwan's international image stood at an extremely contradictory crossroads. While the economic miracle propelled Taiwan onto the world stage, tens of thousands of stray dogs on the streets became a dark corner of the nation. At that time, the Taiwanese government viewed stray dogs as an "environmental sanitation issue," with authority over their handling belonging to the cleaning teams of the Environmental Protection Administration, rather than animal welfare units[^1].
 
-Between 1993 and 1994, international animal protection groups such as the World Society for the Protection of Animals (WSPA) launched intense campaigns against Taiwan. Large signs appeared at international gateways like Narita Airport in Japan and Heathrow Airport in London, titled "Taiwan: Land of Dog Killing," urging international travelers not to visit this cruel country toward animals[^2]. The signs featured shocking images of stray dogs being electrocuted, drowned, or mass-buried—a major diplomatic and image blow to the Taiwanese government, which was actively seeking international standing at the time.
+Between 1993 and 1994, international animal protection groups such as the World Animal Protection (WSPA) launched intense boycott movements against Taiwan. Large billboards appeared at international gateways like Narita Airport in Japan and London Heathrow Airport, with headlines reading "Taiwan: Land of Dog Killing," calling on international travelers not to visit this country that was cruel to animals[^2]. The signs featured horrific images of stray dogs being electrocuted, drowned, or even mass-buried. For the Taiwanese government, which was actively striving for international status at the time, this was a massive diplomatic and reputational blow.
 
-📝 Curator's Note: The "dog catching teams" of that era were essentially cleanup crews; dogs were treated as "waste," reflecting a collective disregard for the value of life in their disposal logic.
+📝 Curator's Note: The "dog catching squads" of that era were actually cleaning teams; dogs were treated as "waste" just like garbage. Behind this logic of handling was a collective indifference within society toward the value of life.
 
-### Awakening Born from Tragedy: From Dog Bites to the Birth of the Animal Protection Act
+### Awakening Born of Tragedy: From Biting Incidents to the Birth of the _Animal Protection Act_
 
-While international pressure was a driving force, the true awakening came from bloody lessons within Taiwan itself. In 1992, three tragedies occurred consecutively in Hualien, Hsinchu, and Taipei where stray dogs bit and killed young children, sparking public panic over "the proliferation of wild dogs"[^3]. However, this panic did not lead to more brutal slaughter; instead, it galvanized civil society organizations. In 1993, the Life Care Association was established, beginning efforts to promote Taiwan's first specialized law for animal protection[^4].
+While international pressure was a driving force, the true awakening came from bloody lessons within Taiwan. In 1992, three successive tragedies occurred in Hualien, Hsinchu, and Taipei where stray dogs bit and killed young children, triggering social panic over "stray dog infestations"[^3]. However, this panic did not turn into even more cruel slaughter; instead, it stimulated the organization of civil society groups. In 1993, the _Care for Life Association_ was established, beginning to push for Taiwan's first specialized law to protect animals[^4].
 
-On November 4, 1998, the Animal Protection Act was officially promulgated and enforced. This law stipulated that animals must not be arbitrarily killed. Although it retained a clause allowing "humane disposition if no one claims them after seven days," it ended the dark period of arbitrary electrocution and drowning of strays by cleanup crews, elevating animal management from an environmental issue to a legal matter[^5].
+On November 4, 1998, the _Animal Protection Act_ was officially promulgated and implemented. This law wrote "no arbitrary slaughter of animals" into its provisions. Although it retained a clause at the time stating that "animals unclaimed for more than seven days shall be handled humanely," it ended the extrajudicial dark period where cleaning teams could arbitrarily electrocute or drown stray dogs, elevating animal management from an environmental issue to a legal level[^5].
 
-### The Power of Images: The Social Tsunami Triggered by the Film _Twelve Nights_
+### The Power of Imagery: The Social Tsunami Triggered by the Documentary _12th Night_
 
-Even with the Animal Protection Act in place, public shelters in Taiwan long suffered from overcapacity and high euthanasia rates. Before 2012, the culling rate in shelters across Taiwan was consistently above 50%, reaching as high as eighty percent in some areas[^6].
+Even with the _Animal Protection Act_, Taiwan's public shelters remained in a state of overcrowding and high slaughter rates for a long time. Before 2012, the slaughter rate in shelters across Taiwan was maintained at over 50% annually, with some areas reaching as high as 80%[^6].
 
-In 2013, the documentary _Twelve Nights_ premiered, truthfully documenting the cruel reality of stray dogs facing their last twelve days in shelters. The desperate eyes and cramped, filthy environment shown in the film triggered a massive emotional tsunami in Taiwanese society[^7]. This movie not only grossed sixty million viewers but also directly translated into political pressure. In 2015, the Legislative Yuan passed an amendment to the Animal Protection Act in a very short period, announcing the complete abolition of euthanasia in public shelters two years later—the so-called "zero culling" policy[^8].
+In 2013, the documentary _12th Night_ (_Shi Er Ye_) was released, truthfully recording the cruel reality of stray dogs counting down their final twelve days of life in shelters. The desperate eyes of the dogs and the crowded, filthy environments in the film triggered a massive emotional tsunami in Taiwanese society[^10]. This film not only earned NT$60 million at the box office but also directly translated into political pressure. In 2015, the Legislative Yuan passed amendments to the _Animal Protection Act_ in a very short period, announcing the total abolition of euthanasia in public shelters two years later—the so-called "zero slaughter" policy[^11].
 
-### The End of Twelve Nights: Milestones and Challenges of Zero Culling
+### The End of _12th Night_: Milestones and Challenges of the Zero Slaughter Policy
 
-In February 2017, Taiwan officially implemented the zero culling policy, becoming the second country in Asia to legally prohibit killing healthy animals in shelters due to space or time constraints[^9]. However, zero culling was not the end; it was the beginning of another test.
+In February 2017, Taiwan officially implemented the full "zero slaughter" policy, becoming the second country in Asia where the law stipulates that shelters may not kill healthy animals due to space or time constraints[^7]. However, zero slaughter was not the finish line, but the beginning of another test.
 
-After the policy's implementation, shelters quickly became overwhelmed. Because they were "inflow-only," shelters transformed from temporary stops into "final resting places," with many dogs staying in cramped kennels for over a thousand days[^9]. This led to declining shelter quality and immense pressure on veterinarians, eventually leading to a policy shift toward "precision catching" and Trap-Neuter-Return (TNVR), attempting to reduce the intake pressure at the source.
+After the policy's implementation, shelter populations exploded. Because of the "only incoming, no outgoing" situation, shelters turned from halfway houses into "final destinations," with many dogs staying in cramped cages for over a thousand days[^7]. This led to a decline in shelter quality and extreme pressure on veterinarians, even leading to policy shifts toward "precision dog catching" and "Trap-Neuter-Vaccinate-Return (TNVR)" in an attempt to alleviate pressure at the source.
 
-📝 Curator's Note: While zero culling demonstrated civil advancement in law, it exposed the bitter consequences of long-term failures in source management (such as penalties for abandonment or owner registration) in its execution.
+📝 Curator's Note: The zero slaughter policy demonstrated civilizational progress legally, but in terms of execution, it revealed the bitter fruits of long-term deficiencies in source management (such as penalties for abandonment and owner registration).
 
-### Ecological Conflict: The Survival Battle Between Stray Dogs and Native Wildlife
+### Ecological Conflict: The Survival Battle Between Roaming Dogs and Native Wildlife
 
-As stray dog populations persisted in the wild, Taiwan's animal protection issues entered a new controversial area: conflicts between strays and native wildlife. In recent years, cases of macaques on Yangmingshan, civets in Nantou, and pangolins across various locations being killed by stray dogs have frequently been reported, an issue academics refer to as "dog killing"[^10].
+As the number of roaming dogs persists in the wild, Taiwan's animal protection issues have entered a new controversial arena: the conflict between roaming dogs and native wildlife. In recent years, frequent cases of animals like the Formosan serow on Yangmingshan, the marbled cat on Nantou, and pangolins in various regions being attacked and killed by roaming dogs have been reported, a phenomenon referred to by academia as the "dog-kill" problem[^12].
 
-Research shows that over half of the pangolins brought to emergency centers were bitten by dogs; and one-third of wild leopards also died from dog attacks[^11]. This has sparked intense debates between animal protection groups (focused on individual lives) and conservation groups (focused on species survival). How to protect rare native animals within the framework of "zero culling" is Taiwan's most difficult current environmental ethical problem[^12].
+Research shows that more than half of the pangolins sent to rescue centers were injured by dogs; meanwhile, one-third of released marbled cats also died due to dog attacks[^13]. This has sparked intense debate between animal protection groups (focusing on individual lives) and conservation groups (focusing on species survival). How to protect rare native animals within the framework of "zero slaughter" has become Taiwan's most thorny environmental ethics dilemma[^14].
 
 ### Today's Taiwan: From National Burden to Guardian Dogs
 
-Having passed through a period of shame, the attitude of Taiwanese people toward animals today is vastly different. In 2026, a set of promotional posters from Taoyuan Airport sparked heated discussion on Japanese social media, featuring two sharp-eyed Mirdog quarantine dogs with the pun slogan "I absorb YOU," showcasing Taiwan's professionalism and humor in safeguarding agriculture[^13].
+Having moved past that era of shame, Taiwanese attitudes toward animals are vastly different today. In 2026, a set of promotional posters at Taoyuan Airport went viral on Japanese social media; the protagonists were two Beagles with sharp eyes, accompanied by a punny slogan "I 吸 YOU" (a play on "I love you" using the sound of "sucking/inhaling"), showcasing Taiwan's professionalism and sense of humor in guarding agricultural security[^8].
 
-From the shameful boycott signs at Japanese airports in the 1990s to the "super cool quarantine dogs" that went viral among Japanese netizens in the 2020s, this forty-year arc records not just the fate of animals, but the civilized journey of Taiwanese people learning to coexist with other life forms. Although new challenges such as shelter saturation and ecological conflicts still exist, "life should not be arbitrarily erased" has become a firm belief for this island[^14].
+From the shameful boycott billboards at Japanese airports in the 1990s to the "super cool quarantine dogs" shared by Japanese netizens in the 2020s, this forty-year arc records not just the fate of animals, but the civilizational process of how Taiwanese people have learned to coexist with other forms of life. Although challenges such as shelter saturation and ecological conflicts remain, the belief that "life should not be arbitrarily erased" has become a firm conviction on this island[^9].
 
 ---
 
 ### References
 
-## Footnotes
+[^1]: [Stray Dog Incident Log in Taiwan from 1950 to 2022](https://animal-friendly.co/pet/39823/) — See supplementary data within the original link.
 
-[^1]: [Book of Stray Dog Incidents in Taiwan from 1950 to 2022](https://animal-friendly.co/pet/39823/) — Animal Friendly's chronicle of Taiwan's stray dog incidents from 1950 to 2022
+[^2]: [Reports by foreign groups on Taiwan's stray dog problem](https://h2friends.com/board/hstr/4959.html) — See supplementary data within the original link.
 
-[^2]: [Reports on the Stray Dog Problem in Taiwan by Foreign Groups](https://h2friends.com/board/hstr/4959.html) — H2 Friends' 1998 report on international groups covering Taiwan's stray dog problem
+[^3]: [On the Administrative Management of Stray Dogs and Cats in Our Country](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Ministry of Agriculture Knowledge Portal.
 
-[^3]: [Administrative Management of Our Country's Stray Dogs and Cats](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Ministry of Agriculture Animal Protection Information Network paper on the administrative management of stray dogs and cats
+[^4]: [The founding background of the Care for Life Association and animal protection development in 1990s Taiwan](https://www.lca.org.tw/article/3651) — See supplementary data within the original link.
 
-[^4]: [The Foundation and 1990s Development of Animal Protection in Taiwan by Life Care Association](https://www.lca.org.tw/article/3651) — Life Care Association's account of its founding and 1990s animal protection work in Taiwan
+[^5]: [The Past and Present of the Animal Protection Act in Taiwan!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — See supplementary data within the original link.
 
-[^5]: [Past and Present of the Animal Protection Act in Taiwan!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — National Taichung University of Education study on the past and present of Taiwan's Animal Protection Act
+[^6]: [Don't Let Me Wander - Our Island](https://ourisland.pts.org.tw/content/968) — PTS _Our Island_ Special Feature.
 
-[^6]: [Don't Let Me Be a Stray - Our Island](https://ourisland.pts.org.tw/content/968) — Public Television Service's Our Island feature on the problem of stray animals
+[^10]: [12th Night (Taiwanese Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Wikipedia entry.
 
-[^10]: [Twelve Nights (Taiwan Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Wikipedia entry on the 2013 Taiwanese film Twelve Nights
+[^11]: [Interview: Returning to Day Zero with "12th Night"](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — See supplementary data within the original link.
 
-[^11]: [Interviewing Twelve Nights on Day Zero](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Annie News interview with the crew of Twelve Nights on the film's release day
+[^7]: [When a halfway house becomes a final destination: A direct look at the truth of public shelters after the end of 12th Night](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — See supplementary data within the original link.
 
-[^7]: [From Temporary Shelter to Final Resting Place: The Truth of Public Shelters After the End of Twelve …](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — The Reporter on the state of public shelters six years after the zero-culling policy took effect
+[^12]: [Whose home is the wild habitat? Frequent dog-kills: Ecological and public health crises under conflicts between roaming dogs and wildlife](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — See supplementary data within the original link.
 
-[^12]: [Who Owns the Habitat in the Wild—Ecological and Public Health Crisis Amid Dog Killing](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — The Reporter on the ecological and public health crisis from conflict between stray dogs and wildlife
+[^13]: [Over half of rescued pangolins and 1/3 of released marbled cats killed by dogs; TARI expresses pain over arbitrary feeding](https://www.agriharvest.tw/archives/102801/) — Agricultural Media Feature.
 
-[^13]: [Over Half of Rescued Pangolins, 1/3 of Wild Leopards Killed by Dogs: Special Center Accuses Arbitrar…](https://www.agriharvest.tw/archives/102801/) — AgriHarvest report on dog attacks on pangolins and leopards and the alleged arbitrary feeding of wildlife
+[^14]: [Taiwan Marbled Cat Conservation Association: More proactive management should be taken toward roaming dogs and cats](https://www.twlcat.org/2025/07/4830/) — See supplementary data within the original link.
 
-[^14]: [Taiwan Leopard Conservation Association: More Active Management Needed for Stray Dogs and Cats](https://www.twlcat.org/2025/07/4830/) — Taiwan Leopard Conservation Association calling for more active management of stray dogs and cats
+[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — See supplementary data within the original link.
 
-[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Taipei Times report on the Taoyuan airport posters featuring quarantine dogs going viral
-
-[^9]: [Animal Protection Act - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia entry on Taiwan's Animal Protection Act
+[^9]: [Animal Protection Act - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia entry.

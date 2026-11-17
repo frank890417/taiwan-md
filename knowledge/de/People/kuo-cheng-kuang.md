@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T20:39:21.197760+00:00'
 ---
 
 # Mike Kuo (Guo Zheng-guang)

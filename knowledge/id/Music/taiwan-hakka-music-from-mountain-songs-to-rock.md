@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T14:59:20.720137+00:00'
 ---
 
 # Musik Hakka Taiwan: Dari Lagu Gunung ke Politik Bahasa Penolakan Penghargaan Lin Sheng-xiang
@@ -96,18 +98,18 @@ Era digital sisi lain juga membawa peluang baru: platform streaming membiarkan m
 
 ## Referensi
 
-[^1]: [Musik Tanpa Batas Lin Sheng-xiang: Paling Tidak Mau Penghargaan Bahasa Hakka｜Coolloud](https://www.coolloud.org.tw/node/3817) — Konfirmasi motivasi dan pernyataan Lin Sheng-xiang menolak penghargaan.
+[^1]: [Musik Tanpa Batas Lin Sheng-hsiang: Hal yang Paling Tidak Ingin Diterima sebagai Penghargaan Bahasa Hakka | Kulau Net](https://www.coolloud.org.tw/node/3817) — Mengonfirmasi motivasi penolakan penghargaan dan pernyataan dari Lin Sheng-hsiang.
 
-[^2]: [Pusat Seni Tradisional Nasional: Materi Pewarisan Delapan Nada Hakka](https://www.ncfta.gov.tw/) — Penjelasan praktik delapan nada Hakka dengan suona sebagai pemimpin.
+[^2]: [Pusat Seni Tradisional Nasional: Data Pelestarian Hakka Bayin](https://www.ncfta.gov.tw/) — Penjelasan praktik Hakka Bayin yang menggunakan suona sebagai instrumen utama.
 
-[^3]: [Biro Industri Film dan Musik Populer Kementerian Kebudayaan: Daftar Pemenang dan Nominasi Setiap Tahun](https://www.bamid.gov.tw/information_176_64106.html) — Konfirmasi _Kami Datang Menyanyikan Lagu Gunung_ Golden Melody Award ke-11 meraih Komposer Terbaik dan Produser Terbaik (bukan Band Terbaik).
+[^3]: [Biro Industri Film, Televisi, dan Musik Populer Kementerian Kebudayaan: Daftar Pemenang dan Nominasi dari Tahun ke Tahun](https://www.bamid.gov.tw/information_176_64106.html) — Mengonfirmasi bahwa "Kita Akan Menyanyikan Lagu Gunung" memenangkan Penghargaan Komposer Terbaik dan Produser Terbaik pada Golden Melody Awards ke-11 (bukan Penghargaan Grup Terbaik).
 
-[^4]: [Golden Melody Award ke-14 — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Konfirmasi 2003 Golden Melody Award ke-14 pertama menetapkan Penyanyi Bahasa Hakka Terbaik; 2007 Golden Melody Award ke-18 berganti nama Penyanyi Bahasa Hakka Terbaik.
+[^4]: [Golden Melody Awards ke-14 — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Mengonfirmasi penetapan kategori Penyanyi Hakka Terbaik untuk pertama kalinya pada Golden Melody Awards ke-14 tahun 2003; kemudian berganti nama menjadi Penyanyi Hakka Terbaik pada Golden Melody Awards ke-18 tahun 2007.
 
-[^5]: [Xie Yu-wei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Konfirmasi 2004 Golden Melody Award ke-15 Penyanyi Bahasa Hakka Terbaik pemenang; karya representatif _Satu Generasi, Di Bawah Pohon Bunga_.
+[^5]: [Hsieh Yu-wei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Mengonfirmasi pemenang Penghargaan Penyanyi Hakka Terbaik pada Golden Melody Awards ke-15 tahun 2004; karya representatifnya adalah "Yī Jǐ, Huā Shù Xià".
 
-[^6]: [Golden Melody 18 Pertama... Lin Sheng-xiang Melempar Bom Waktu Menolak Penghargaan｜Liberty Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Proses dan objek sumbangan uang penghargaan Lin Sheng-xiang menolak di Golden Melody Award ke-18 (2007).
+[^6]: [Pertama Kali dalam 18 Tahun Golden Melody... Lin Sheng-hsiang Memberikan Kejutan dengan Menolak Menerima Penghargaan | Freedom Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Proses penolakan penghargaan oleh Lin Sheng-hsiang pada Golden Melody Awards ke-18 (2007) dan tujuan donasi hadiah uangnya.
 
-[^7]: [Penghargaan Album Bahasa Hakka Terbaik (Golden Melody Award) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Konfirmasi _Pergi Memetik Bunga_ Luo Si-rong meraih Golden Melody Award ke-23 Penyanyi Bahasa Hakka Terbaik dan Album Bahasa Hakka Terbaik.
+[^7]: [Penghargaan Album Hakka Terbaik (Golden Melody Awards) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Mengonfirmasi bahwa Luo Siyong memenangkan Penghargaan Penyanyi Hakka Terbaik dan Penghargaan Album Hakka Terbaik pada Golden Melody Awards ke-23.
 
-[^8]: [Situs Resmi TV Hakka](https://www.hakkatv.org.tw/) — Konfirmasi 2003 mulai siaran, saluran TV bahasa Hakka 24 jam penuh pertama di dunia.
+[^8]: [Situs Resmi Hakka TV](https://www.hakkatv.org.tw/) — Mengonfirmasi bahwa saluran televisi bahasa Hakka 24 jam pertama di dunia mulai mengudara pada tahun 2003.

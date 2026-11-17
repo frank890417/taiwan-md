@@ -1,9 +1,9 @@
 ---
-title: '張忠仁と張忠義：身体を分けた後、人生がようやく始まった'
-description: '1976年高雄生まれの張忠仁（ちょう・ちゅうじん）、張忠義（ちょう・ちゅうぎ）は、3歳までを中山医学院附設病院で過ごしました。1979年、台大医院の36人の多科チームが12時間の分離手術を完成させました。真の長い物語は手術台から降りた後に始まります。病痛、義肢、仕事、家族、そしてメディアの注視が、40年の間に二つの名前を各自の人生へと変え、台湾に医療の突破と個人の自主性の距離を改めて考えさせました。'
+title: '張忠仁と張忠義：身体が分離されてから、人生はようやく始まります。'
+description: '1976年、高雄で生まれた張忠仁さんと張忠義さんは、3歳まで中山医院で過ごしました。1979年、台湾大学病院の36人からなるチームが12時間にわたる分離手術を行いました。本当の長い物語は、手術台を降りてから始まりました。病気の苦しみ、義肢、仕事、家庭、メディアの注目が、二人の名前を40年の歳月の中でそれぞれの人生へと変えていき、台湾社会に医療のブレイクスルーと個人の自立の距離を改めて考えさせました。'
 date: 2026-08-20
 category: 'People'
-tags: ['張忠仁', '張忠義', '連体嬰児', '分離手術', '台大医院']
+tags: ['張忠仁', '張忠義', '連体児', '分離手術', '台湾大学病院']
 subcategory: '社會與公益'
 rationale:
   why_this_hook: '以 1979 年 9 月 10 日的 12 小時手術為入口，將醫療突破與兩兄弟後來 40 年的生活並置，讓讀者看見「身體分開」與「人生獨立」不是同一件事。'
@@ -19,11 +19,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-26T10:22:46+08:00'
+translatedAt: '2026-11-07T02:57:56.709556+00:00'
 ---
 
 > **30秒概覧**：1979年、台大医院は36人の多科チームにより張忠仁、張忠義の12時間の分離手術を完成させました。これは台湾医療史の重要な突破でしたが、兄弟の物語の終わりではありません。手術後の病痛、リハビリ、仕事、家族、そしてメディアの注視が、「二人に分かれること」を一生歩む道へと変えました。

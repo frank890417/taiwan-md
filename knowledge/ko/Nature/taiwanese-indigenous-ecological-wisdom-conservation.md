@@ -2,28 +2,30 @@
 title: '대만 원주민의 생태 지혜와 환경 보전'
 description: '수천 년에 걸쳐 축적된 대만 원주민족의 전통 생태 지식과 현대 환경 보전에서의 중요한 가치 및 실천 방식을 살펴본다'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
-    원주민족,
-    생태 지혜,
-    환경 보전,
-    전통 지식,
-    사토야마 이니셔티브,
-    수렵 문화,
-    지속 가능한 발전,
+    '원주민족',
+    '생태 지혜',
+    '환경 보전',
+    '전통 지식',
+    '사토야마 이니셔티브',
+    '수렵 문화',
+    '지속 가능한 발전',
   ]
 subcategory: '原住民生態智慧'
-category: 'Nature'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d162c579da0f2b9c'
-sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-04-14T10:34:15+08:00'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:d162c579da0f2b9c'
+sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
+translatedAt: '2026-11-04T20:20:03.922157+00:00'
 ---
 
 # 대만 원주민의 생태 지혜와 환경 보전

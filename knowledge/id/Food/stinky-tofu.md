@@ -3,7 +3,6 @@ title: 'Stinky tofu: Olahraga sensorik di antara menyatu rasa dan mencari aroma 
 description: "Dari ilmuwan jalanan tahun 1950-an hingga 'shrine stinky tofu' yang menjadi bagian dari menu makanan tamu negara, stinky tofu ini membawa riwayat fermentasi 50 tahun Taiwan. Artikel ini menganalisis strategi mikroba di dalam larutan stinky tofu, serta rahasia rasa di Keang yang berbau karamel dan tiga tahap suhu minyak di Yili."
 date: 2026-04-26
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'stinky tofu',
@@ -13,16 +12,19 @@ tags:
     'Jembatan Yili',
     'Rumah Tiga Tak Pedas Khas Dai Ji',
   ]
+subcategory: '經典小吃'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/臭豆腐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-04T23:14:39.658481+00:00'
 ---
 
 > **Ringkasan 30 detik:** Stinky tofu adalah makanan jalanan yang paling kontroversial dan paling representatif di Taiwan. Ia berasal dari kebetulan ilmuwan Qing, tetapi berkembang menjadi teknik fermentasi mikroba khusus di Taiwan. Dari stinky tofu garam yang berbau karamel di jalanan lama Keang, hingga kejuapan renyah tiga tahap suhu minyak di Yili, artikel ini akan menjelaskan mengapa aroma yang menyengat ini dapat menarik ahli fermentasi Jepang untuk menyusul, bahkan menjadi simbol ketahanan budaya Taiwan.

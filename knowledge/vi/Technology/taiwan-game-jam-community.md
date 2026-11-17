@@ -1,21 +1,23 @@
 ---
 title: 'Cộng đồng Game Jam Đài Loan'
 description: 'Từ khi Global Game Jam đặt chân tại Đài Loan, đến KUSO GAME JAM lấy tác phẩm kém chất lượng làm triết lý — Cộng đồng Game Jam Đài Loan trong thập kỷ qua đã trở thành lò ấp ủ và thử nghiệm cho hệ sinh thái trò chơi độc lập như thế nào'
-date: '2026-04-27'
-author: 'tppr2046'
+date: 2026-04-27
 category: 'Technology'
-subcategory: '遊戲產業'
 tags:
   ['Trò chơi', 'Trò chơi độc lập', 'Game Jam', 'Cộng đồng', 'KUSO', 'Sáng tạo']
-readingTime: '8'
-lastVerified: '2026-04-27'
-lastHumanReview: 'true'
+subcategory: '遊戲產業'
+readingTime: 8
+author: 'tppr2046'
 featured: false
+lastVerified: 2026-04-27
+lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-07-25T03:42:36+08:00'
+translatedAt: '2026-11-04T17:30:43.221748+00:00'
 ---
 
 # Cộng đồng Game Jam Đài Loan

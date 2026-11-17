@@ -2,9 +2,7 @@
 title: '양웨이저: 미적분에서 모어까지, 수학계의 공연예술가'
 description: '국립타이완대학교 수학과 명예교수 양웨이저는 반바지, 자전거, 타이완어 강의로 잘 알려져 있다. 유명 화가 양치둥의 아들인 그는 부친의 뜻을 거슬러 의학을 버리고 수학을 택했으며, 1997년에는 타이완어 수업으로 인해 “위헌” 논란을 일으켰다. 그는 수학 올림피아드의 추진자였을 뿐 아니라 천원청 사건에서 단호한 저항자였고, 평생 논리와 문화적 주체성 사이에서 “공연예술”을 실천했다.'
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與學術'
 tags:
   [
     '수학',
@@ -15,15 +13,19 @@ tags:
     '천원청',
     '양치둥',
   ]
+subcategory: '科學與學術'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-04T20:57:37.260625+00:00'
 ---
 
 > **30초 개관:**
@@ -77,30 +79,30 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 ---
 
-## 참고 자료
+## 참고 문헌
 
-[^1]: [台大台語授課的 legend 及其後續（舊題：1997年楊維哲教授台語授課，立委指為「違憲」！）](https://www.telltaiwan.org/5057) — 저우완야오 교수가 양웨이저 교수의 타이완어 강의가 지닌 역사적 맥락과 입법원 논란을 상세히 설명한다.
+[^1]: [대만대 대만어 강의의 전설과 그 후속 (구 제목: 1997년 양웨이저 교수의 대만어 강의, 국회의원은 '위헌'이라 지적!)](https://www.telltaiwan.org/5057) — 저우완야오 교수가 양웨이저 교수의 대만어 강의에 관한 역사적 맥락과 입법원 논쟁을 상세히 기술함.
 
-[^2]: [楊維哲- 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — 양웨이저 교수의 기본 생애와 교수 특징 개관.
+[^2]: [양웨이저 - 위키백과, 자유로운 백과사전](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — 양웨이저 교수의 기본 생애와 교육적 특징 개요.
 
-[^3]: [楊維哲：我後悔沒一開始 就以台語教數學](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — 『신타이완신문주간』 인터뷰로, 양웨이저 교수가 타이완어 강의를 보급해 온 내면의 여정을 기록한다.
+[^3]: [양웨이저: 처음부터 대만어로 수학을 가르치지 않은 것이 후회된다](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — 《신대만신문주간》 인터뷰, 양웨이저 교수가 대만어 교육을 추진해 온 심경을 기록함.
 
-[^4]: [楊維哲教授的數學講堂─基礎坐標幾何](http://www.wunan.com.tw/bookdetail.asp?no=16462) — 우난출판사가 소개하는 양웨이저 교수의 교육 이념과 수학 전문서.
+[^4]: [양웨이저 교수의 수학 강의 — 기초 좌표 기하학](http://www.wunan.com.tw/bookdetail.asp?no=16462) — 우난 출판사에서 소개하는 양웨이저 교수의 교육 이념과 수학 전문 서적.
 
-[^5]: [【台語金曜講座】楊維哲教授演講：以數學的觀點談論](https://www.instagram.com/p/Czgc1tJPeAK/) — 2023년 양웨이저 교수가 국립타이완대학교 문학원에서 진행한 강연 행사 정보.
+[^5]: [【대만어 금요 강좌】 양웨이저 교수 강연: 수학적 관점에서 논하다](https://www.instagram.com/p/Czgc1tJPeAK/) — 2023년 양웨이저 교수가 대만대학교 문학대학에서 진행한 강연 정보.
 
-[^6]: [感覺像遇見牛頓（下）](https://blog.udn.com/Carole777/45605455) — 양웨이저 교수와 국립타이완대학교 수학과 선배 및 동료들 사이의 교류와 우정을 기록한다.
+[^6]: [뉴턴을 만난 듯한 기분 (하)](https://blog.udn.com/Carole777/45605455) — 양웨이저 교수와 대만대학교 수학과 선배 및 동료들 간의 교류와 우정을 기술함.
 
-[^7]: [從高中看我長大的數學系老師](https://www.instagram.com/p/C8Zkg9-PC4w/) — 예빙청 교수가 양웨이저 교수가 영재교육과 학생들에게 끼친 영향을 회고한다.
+[^7]: [고등학교 시절 바라본 나의 성장기, 수학과 선생님](https://www.instagram.com/p/C8Zkg9-PC4w/) — 예빙청 교수가 회상하는 영재 교육과 학생들에게 미친 양웨이저 교수의 영향.
 
-[^8]: [數學傳播- 楊維哲](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — 중앙연구원 수학연구소 『수학전파』 학술지에 실린 양웨이저 교수의 저작 목록.
+[^8]: [수학 커뮤니케이션 - 양웨이저](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — 중앙연구원 수학연구소 《수학 커뮤니케이션》 학술지에 게재된 양웨이저 교수의 저작 목록.
 
-[^9]: [六・勇者精進，畫壇長青- 楊啟東與楊維哲](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — 국립타이완미술관 자료로, 양치둥과 양웨이저 부자 사이의 의학 포기와 수학 선택 이야기를 상세히 다룬다.
+[^9]: [6. 용기 있는 정진, 화단의 장생 - 양치둥과 양웨이저](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — 국립대만미술관 아카이브, 양치둥과 양웨이저 부자 간의 의학을 포기하고 수학을 택한 이야기를 상세히 기술함.
 
-[^10]: [台灣首位「三級跳」資優生！楊柏因18歲台大畢業](https://time.udn.com/udntime/story/122833/8798116) — 연합보 보시광 기사로, 양웨이저의 아들 양보인의 천재적 성장 과정을 기록한다.
+[^10]: [대만 최초의 '삼단 점프' 영재! 양바이인, 18세에 대만대 졸업](https://time.udn.com/udntime/story/122833/8798116) — 유니언 뉴스(聯合報) 타임머신, 양웨이저의 아들 양바이인의 천재적인 성장 과정을 기록함.
 
-[^11]: [陳文成事件與台大數學系](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — 천원청 사건에서 양웨이저 교수의 입장을 다룬 위키백과 기록.
+[^11]: [천원청 사건과 대만대학교 수학과](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — 천원청 사건 당시 양웨이저 교수의 입장에 관한 위키백과의 기록.
 
-[^12]: [楊維哲 20081223：從大學生活到陳文成事件](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — 국립타이완대학교 교사관 구술사 인터뷰 기록.
+[^12]: [양웨이저 20081223: 대학 생활부터 천원청 사건까지](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — 국립대만대학교 교사관 구술 역사 인터뷰 기록.
 
-[^13]: [陳文成事件41周年：紀念一位堅決抵抗國家暴力的勇者](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — 야후뉴스 보도로, 양웨이저가 천원청 기념비 문안을 제안한 일을 언급한다.
+[^13]: [천원청 사건 41주년: 국가 폭력에 단호히 저항한 용사를 기리며](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — 야후 뉴스 보도, 양웨이저가 천원청 기념비의 글귀를 썼음을 언급함.

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: '2026-09-15T19:45:27+08:00'
+translatedAt: '2026-11-06T04:45:54.629599+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Trong những năm 1950, cứ 100 Đài tệ ngoại tệ của Đài Loan thì có 74 Đài tệ đến từ đường của Taishang. Ngày nay, mảng kinh doanh đường của Taishang thua lỗ hàng năm, nhưng lại đạt mức lợi nhuận kỷ lục 7,468 tỷ Đài tệ vào năm 2025 nhờ các sản phẩm dầu mỏ, lan hồ điệp và phát triển đất đai. Vị chủ đất lớn nhất toàn Đài này đang chuyển đổi từ một "công ty đường" thành người dẫn đầu về "kinh tế tuần hoàn".

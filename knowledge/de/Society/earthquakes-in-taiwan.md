@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:29:22.783431+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwan liegt an der Berührungstelle von Platten, und Erdbeben sind das Schicksal dieser Insel. Der Artikel beginnt mit dem einheimischen Mythos vom „drehenden Rind“ (Shaking Cow), schließt die merkwürdigen Phänomene der Qing-Zeit („Haar vom Boden“) und endet beim 921-Erdbeben als institutionelle Wende. Er erkundet, wie Taiwanesen Angst in Gelassenheit verwandelten und dabei eine weltweit führende Resilienz aufbauten.

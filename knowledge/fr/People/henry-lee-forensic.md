@@ -1,21 +1,28 @@
 ---
-title: 'Henry Lee (李昌鈺)'
-description: "Un homme qui bâtit sa légende à partir de fragments d'os — et que la justice finit par rattraper à cause d'une serviette tachée"
+title: 'Lee Chang-yu'
+description: "Un légende de la criminalistique bâtie sur l'analyse des fragments d'os, mais dont une « trace de sang » sur une serviette a conduit deux personnes à passer trente ans en prison injustement"
 date: 2026-03-29
 category: 'People'
-subcategory: '科學與學術'
 tags:
-  ['personnalité', 'criminalistique', "Taïwanais d'Amérique", 'enquête pénale']
+  [
+    'Personnalité',
+    'Sciences forensiques',
+    'Taï-Américain',
+    'Enquête criminelle',
+  ]
+subcategory: '科學與學術'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
-lastVerified: 2026-03-29
-author: 'Taiwan.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-04-14T19:15:26+08:00'
+translatedAt: '2026-11-04T20:54:09.218569+00:00'
 ---
 
 # Henry Lee (李昌鈺)

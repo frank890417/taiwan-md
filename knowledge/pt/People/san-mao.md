@@ -1,17 +1,17 @@
 ---
-title: 'San Mao: a mulher que transformou a fuga em liberdade'
-description: 'Nome real Chen Ping, nascida em 1943 em Chongqing, mudou-se para Taiwan em 1948. Desistiu dos estudos no ensino fundamental após ser humilhada publicamente por uma professora de matemática, parou de escrever por sete anos e retomou a escrita com orientação do pintor Gu Fusheng. Casou-se com José María Quero y Ruiz, oito anos mais novo, na Argélia Espanhola em 1973. Suas crônicas de deserto tornaram-na a janela pelas quais os taiwaneses imaginavam o mundo durante a era da censura. José faleceu em um acidente de mergulho em 1979. Em 1990, seu único roteiro, "Rede Ardente", venceu oito prêmios no Festival de Cinema de Macau. Morreu por suicídio no Hospital Militar de Taipei em 4 de janeiro de 1991, aos 47 anos.'
+title: 'Sanmao: quem transformou a fuga em liberdade'
+description: 'Sanmao, nome verdadeiro Chen Ping, foi uma escritora taiwanesa que escreveu sobre a vida no Deserto do Saara; suas obras venderam mais de 15 milhões de exemplares. No segundo ano do ensino fundamental, o professor de matemática usou um pincel para desenhar dois zeros ao redor dos olhos dela; ela abandonou os estudos a partir de então e não obteve diploma de ensino médio. Sete anos depois, sob a orientação do pintor Kuo Fu-sheng, voltou a escrever. Em 1973, casou-se com José no Saara Espanhol, abrindo uma janela para o mundo distante para os taiwaneses da era da lei marcial. José morreu afogado em 1979; ela transformou sua vida de fugas em liberdade.'
 date: 2026-05-17
 category: 'People'
 tags:
   [
-    'San Mao',
-    'crônicas',
-    'Saara Ocidental',
-    'José María Quero y Ruiz',
-    'oliveira',
-    'Rede Ardente',
-    'literatura de viagem',
+    'Sanmao',
+    'ensaios',
+    'Saara',
+    'José',
+    'Oliveira',
+    'Turbilhão Vermelho',
+    'literatura de errância',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -19,11 +19,15 @@ featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T12:07:02+08:00'
+translatedAt: '2026-11-05T23:45:19.967241+00:00'
 ---
 
 # San Mao: a mulher que transformou a fuga em liberdade
@@ -144,50 +148,50 @@ Uma pessoa que passou a vida inteira fugindo acabou se tornando o caminho de out
 
 ## Referências
 
-[^1]: [Wikipédia: San Mao (escritora)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — biografia básica, cronologia de criações, avaliações literárias
+[^1]: [Wikipédia: Sanmao (escritora)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Biografia básica, cronologia de obras, avaliação literária
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — ano de nascimento de José: 1951, diferença etária de 8 anos, noivo alemão solteiro
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Ano de nascimento de José 1951, diferença de idade 8 anos, noivo alemão
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — local do acidente de José: La Palma, Barlovento, data e detalhes do resgate
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Local do afogamento de José La Palma Barlovento, data, detalhes do resgate
 
-[^4]: [Wikipédia: Rede Ardente (filme)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — lista completa de oito prêmios do Festival de Cinema de Macau 27
+[^4]: [Wikipédia: Red Dust (filme)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Lista completa dos 8 prêmios do 27º Golden Horse Awards
 
-[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — vendas de 15 milhões de cópias, avaliações internacionais
+[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Vendas de 15 milhões de cópias, avaliação internacional
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — tradução inglesa da Bloomsbury, tradutor Mike Fu, indicação ao Prêmio Nacional de Tradução
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Edição inglesa da Bloomsbury, tradutor Mike Fu, indicado ao Prêmio Nacional de Tradução
 
-[^7]: [ARThochwertig](https://artouch.com/art-views/content-2727.html) — endereço do ateliê de Gu Fusheng na Rua Taian, dez meses de aula de pintura, indicação a Bai Xiaoxiang
+[^7]: [Coleção ARTouch](https://artouch.com/art-views/content-2727.html) — Endereço do ateliê de Kuo Fu-sheng na Rua Taian, ensinou pintura por dez meses, recomendou Bai Xianyong
 
-[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — noivo alemão morreu de ataque cardíaco, convites de casamento, toma de remédio para dormir
+[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Morte súbita do noivo alemão por doença cardíaca, cartão de casamento, tomada de soníferos
 
-[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — letra original de "Oliveira": "jumento Sanmao", "olhos grandes da moça espanhola", reescrita de Yang Zujun, reação original de San Mao
+[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Letra original de 'Olive Tree' 'pequeno burro', 'moça espanhola de olhos grandes', alteração de letra por Yang Tzu-chun, reação original de Sanmao
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — proibição da canção "Oliveira" pela emissora de Taiwan, análise cultural
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Proibição de 'Olive Tree' pela Administração de Radiodifusão de Taiwan, análise de contexto cultural
 
-[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — memórias de Chen Tienxin sobre a morte de José, San Mao cavando a cova com as próprias mãos
+[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Chen Tianxin recorda a morte de José, Sanmao cava a sepultura com as próprias mãos
 
-[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — relação entre Wang Luobin e San Mao, 121 dias, canção "Esperando"
+[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Início e fim do relacionamento com Wang Luobin, 121 dias, 'Espera'
 
-[^13]: [Zhujiaojie](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao lembra 40 noites de conversas
+[^13]: [Mestres da Visão Aguda](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao recorda 40 noites de conversas
 
-[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia: "Sem San Mao, eu não teria ganhado esse prêmio"
+[^14]: [Yahoo Notícias](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Brigitte Lin: 'Sem Sanmao, não teria ganho este prêmio'
 
-[^15]: [Min Bao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — circunstâncias da morte, quatro versões, perspectiva médica
+[^15]: [Min Bao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Circunstâncias da morte, quatro versões, opinião médica
 
-[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — posicionamento popular vs. literário, falta de mestre canônico
+[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Posicionamento entre literatura popular vs. literatura pura, falta de mestres canonizados
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — rota Ruta Sanmao, estatísticas do livro de visitas no túmulo de José (61% chinês simplificado / 10% chinês tradicional / 21% espanhol)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Rota Sanmao, estatísticas do livro de visitas do túmulo de José (61% chinês simplificado / 10% chinês tradicional / 21% espanhol)
 
-[^18]: [Instituto de História de Taiwan](https://women.nmth.gov.tw/?p=19358) — lançamento de "A História do Saara" em 1976 gerou onda de leitura nas duas margens do estreito
+[^18]: [Museu Nacional de História de Taiwan](https://women.nmth.gov.tw/?p=19358) — Publicação de 'Histórias do Saara' em 1976 desencadeia febre de leitura nos dois lados do Estreito
 
-[^19]: [Instituto Nacional de Literatura de Taiwan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — avaliação: "San Mao pode ser a escritora mais vendida e influente de Taiwan"
+[^19]: [Museu Nacional de Literatura de Taiwan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Avaliação como 'o escritor mais vendido e influente de Taiwan'
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle comemorativo do 76º aniversário de San Mao em 2019, instituição do Prêmio Literário San Mao em 1992, fenômeno do nome Echo
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle do 76º aniversário póstumo de Sanmao em 2019, criação do Prêmio Literário Sanmao em 1992, fenômeno do nome Echo
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — documentário espanhol San Mao: La novia del desierto (2020)
+[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Documentário espanhol Sanmao: La novia del desierto (2020)
 
-[^22]: [Sanli News](https://www.setn.com/News.aspx?NewsID=1408845) — Si Ma Zhongyuan faleceu em 2024-01-04, mesmo mês e dia de San Mao, pacto de morte
+[^22]: [SET News](https://www.setn.com/News.aspx?NewsID=1408845) — Sima Zhongyuan falece em 2024-01-04, mesmo mês e dia de Sanmao, pacto de vida e morte
 
-[^23]: [Universidade de Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — artigo acadêmico sobre a linha entre fato e ficção em San Mao
+[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Artigo acadêmico discute a fronteira entre relato factual e ficção em Sanmao
 
-[^24]: [Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Ma Zhongxin, "O Verdadeiro San Mao", publicado em 1996, controvérsias e críticas
+[^24]: [The Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Publicação de 'A Verdade sobre Sanmao' de Ma Zhongxin em 1996, controvérsias e críticas

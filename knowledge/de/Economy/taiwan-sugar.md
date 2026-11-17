@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T05:44:44.292001+00:00'
 ---
 
 > **30-Sekunden-Überblick:** In den 1950er Jahren stammten 74 TWD von Taishin pro 100 TWD Devisen aus Taiwan. Heute verzeichnet die Zuckergeschäftsstelle von Taishin jedes Jahr Verluste, doch im Jahr 2025 erreichte das Unternehmen mit Ölprodukten, Orchideen und Landentwicklung einen Gewinn von 7,468 Milliarden TWD. Der größte Großgrundbesitzer Taiwans wandelt sich von einer „Zuckerverarbeitungsfirma“ zum Vorreiter der „Kreislaufwirtschaft“.

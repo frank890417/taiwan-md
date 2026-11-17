@@ -1,19 +1,22 @@
 ---
 title: '저어새: 300마리에서 7,000마리로, 이 국제적 복원 기적이 맞이한 "성공의 대가"'
 description: '2026년 세계 동시 조사에 따르면 저어새의 총수가 7,746마리에 달했으며, 대만에서는 4,719마리가 관찰되어 역사적 기록을 경신했다. 한때 멸종 위기에 처했던 이 "검은 얼굴의 무용수"들은 2025년에 보호 등급이 조정되었지만, 월동지인 대만에서 태양광 발전 개발, 보툴리눔균, 유견(遊蕩犬) 공격 등 새로운 생존 도전에 직면해 있다.'
-category: Nature
-tags: [저어새, 생태 보전, 서식지 도전, 어광(漁電) 공생, 대만 자연]
-author: 'Taiwan.md Contributors'
 date: 2026-04-30
-readingTime: 8
+category: 'Nature'
+tags: ['저어새', '생태 보전', '서식지 도전', '어광(漁電) 공생', '대만 자연']
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: Nature/黑面琵鷺.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/黑面琵鷺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T20:16:04.860391+00:00'
 ---
 
 > **30초 개요:** 저어새는 한때 전 세계에 300마리도 남지 않은 멸종위기종이었으나, 30년간의 국제적 노력 끝에 현재 수가 7,000마리를 돌파했으며, 그중 60% 이상이 대만에서 월동을 선택하고 있다. 이는 보전의 성공 사례이나, 개체 수 증가에 따라 이 귀한 손님들은 핵심 보호구역을 떠나 태양광 패널, 유견, 치명적인 보툴리눔균의 틈바구니 속에서 다음 안전한 서식지를 찾아야 하는 상황에 놓였다.

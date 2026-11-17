@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-07-26T00:16:59+08:00'
+translatedAt: '2026-11-04T17:59:13.313424+00:00'
 ---
 
 # التعاونيات: التجربة الديمقراطية ورائحة خبز اللحم التي اختفت من بوابة المدرسة

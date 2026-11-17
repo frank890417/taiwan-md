@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T21:35:23.719771+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Das Phänomen der „Fremdsprachen“ (外來語), das die Menschen in Taiwan am häufigsten kritisieren, ist tatsächlich ein weltweit erfolgreiches Labor für sprachliche Mischung.

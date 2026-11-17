@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:46+08:00'
+translatedAt: '2026-11-04T16:44:29.269050+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1987, siete ingenieros fundaron Realtek Semiconductor en el Parque Científico de Hsinchu con NT$2 millones. Utilizando un cangrejo como logotipo, lanzaron en 1991 el primer chip de red desarrollado de forma autónoma en Taiwán. Con unos ingresos consolidados de aproximadamente NT$113.400 millones en 2024, es la tercera mayor empresa de diseño de IC de Taiwán; es probable que haya un "cangrejo Realtek" oculto en cada ordenador del mundo.
@@ -98,17 +100,17 @@ Fundada por siete ingenieros en 1987, 37 años después los chips de Realtek se 
 
 ## Referencias
 
-[^1]: [Informe Anual 2024 de Realtek Semiconductor｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirma ingresos consolidados de aproximadamente NT$113.400 millones en 2024 (aumento anual del 19,1%); los 7 fundadores la establecieron el 21 de octubre de 1987.
-
-[^2]: [Observatorio de Información Pública: Realtek Semiconductor](https://mops.twse.com.tw/) — Datos básicos de cotización de 2379, informes financieros históricos.
-
-[^3]: [Bolsa de Valores de Taiwán: 2379 Realtek](https://www.twse.com.tw/) — Confirma el código bursátil 2379, salida a bolsa en 1998, Chiu Shun-chien como actual presidente.
-
-[^4]: [Líneas de productos del sitio oficial de Realtek](https://www.realtek.com/) — Descripción de la línea de productos de chips WiFi 6/7.
-
-[^5]: [TechNews: Trayectoria de Realtek Semiconductor](https://technews.tw/) — Reportaje sobre el contexto industrial de Realtek, desde sus inicios en chips de red hasta su expansión en IC multimedia.
-
 **Lectura adicional**
 
-- [TechNews: Historia del desarrollo de Realtek Semiconductor](https://technews.tw/)
-- [Electronic Times: Informe de la industria de diseño de IC en Taiwán](https://www.digitimes.com.tw/)
+- [Technews: Historia del desarrollo de Realtek Semiconductor](https://technews.tw/)
+- [Digitimes: Informe sobre la industria de diseño de circuitos integrados en Taiwán](https://www.digitimes.com.tw/)
+
+[^1]: [Informe anual 2024 de Realtek Semiconductor | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Se confirma que los ingresos consolidados para todo el año 2024 fueron de aproximadamente NT$113,400 millones (un aumento interanual del 19.1%); la empresa fue fundada por 7 fundadores el 21 de octubre de 1987.
+
+[^2]: [Market Observation Post: Realtek Semiconductor](https://mops.twse.com.tw/) — Información básica de cotización (código 2379) e informes financieros históricos.
+
+[^3]: [Bolsa de Valores de Taiwán: 2379 Realtek](https://www.twse.com.tw/) — Confirma el código de acciones 2379, salió a bolsa en 1998 y Chiu Shun-chien es el actual presidente del consejo de administración.
+
+[^4]: [Línea de productos oficial de Realtek](https://www.realtek.com/) — Descripción de la línea de productos de chips WiFi 6/7.
+
+[^5]: [Technews: Trayectoria de Realtek Semiconductor](https://technews.tw/) — Reportaje sobre el contexto industrial de Realtek Semiconductor, desde sus inicios con chips de red hasta su expansión hacia los circuitos integrados (IC) multimedia.

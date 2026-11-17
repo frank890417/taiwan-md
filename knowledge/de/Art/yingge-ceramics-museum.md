@@ -18,11 +18,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T05:32:05.605239+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Am 26. November 2000 eröffnete das Städtische Yingge-Keramikmuseum in Neu-Taipeh als Taiwans erstes spezialisiertes Keramikmuseum. Die Architektur stammt von Jian Xueyi, das Designkonzept basiert auf den vier Elementen „Erde, Wasser, Feuer, Wind“. Die Sichtbetonfassaden und großflächigen Glasvorhangfassaden fügen sich in die Landschaft Yingges ein. Das Museum wandelte Yingge vom als „Taiwans Jingdezhen“ bekannten Ofenindustrie-Großhandelsort zu einem auf Kuratierung, Bildung und internationalen Austausch ausgerichteten Keramikkunst-Tempel um. Die ab 2004 veranstaltete „Taiwan International Ceramics Biennale“ verknüpfte das lokale Handwerk mit dem globalen zeitgenössischen Keramikkontext.

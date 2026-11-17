@@ -2,19 +2,21 @@
 title: '蕭煌奇：二度の失明を経て、「目中無人」のユーモアで金曲歌王の逆境アークを描く'
 description: '1976年生まれ、台湾の創作歌手・蕭煌奇（しょう・こうき）は、先天性白内障により二度にわたって失明を経験した。四度の金曲最優秀台湾語男歌手賞受賞者であると同時に、アジアパラリンピック柔道銅メダリストでもある。彼は「全方位（ライフライン）バンド」を結成し、視覚障害のある音楽家の職業化の道を切り開き、「地獄ネタ」と呼ばれる自虐的ユーモアで社会の障害者に対する固定観念を覆し、中国語音楽界の伝説的人物となった。'
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags: ['蕭煌奇', '全方位バンド', '金曲賞', '柔道国手', '地獄ネタ']
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-06-12T00:53:02+08:00'
+translatedAt: '2026-11-04T21:27:23.782082+00:00'
 ---
 
 > 1976年、蕭煌奇（しょう・こうき）は板橋に生まれ、先天性白内障により二度にわたって失明を経験した。しかし、この「見えない」という経験は、彼の音楽と人生の糧となった。彼は金曲賞最優秀台湾語男歌手賞を四度受賞した台湾初の記録保持者であると同時に、パラリンピックに台湾代表として出場し柔道銅メダルを獲得した経歴を持つ。1995年には「全方位（ライフライン）バンド」を結成し、視覚障害のある音楽家の職業化の道を切り開いた。近年では、独自の「地獄ネタ」的ユーモアで社会の障害者に対する悲劇的イメージを覆し、歌声と闊達な人生態度をもって、暗闇の中でも最も精彩に生きられることを証明してきた。

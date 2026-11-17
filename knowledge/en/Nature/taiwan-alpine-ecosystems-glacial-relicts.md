@@ -2,6 +2,7 @@
 title: 'Taiwan Alpine Ecosystems and Glacial Relicts'
 description: "Exploring the unique ecosystems of Taiwan's mountains above 3,000 meters, from Taiwan red cypress and Yushan rhododendron to precious biodiversity of glacial relict species"
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
     'alpine ecology',
@@ -11,17 +12,19 @@ tags:
     'biodiversity',
     'climate change',
   ]
+subcategory: '生態系統'
 author: 'Taiwan.md Contributors'
-readingTime: 11
 featured: false
-category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-11-04T20:26:51.754091+00:00'
 ---
 
 # Taiwan Alpine Ecosystems and Glacial Relicts

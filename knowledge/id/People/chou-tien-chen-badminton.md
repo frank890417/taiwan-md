@@ -18,17 +18,21 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
 readingTime: 14
 rationale:
-  why_this_hook: 'Membuka dengan prestasi positif (juara badminton Taiwan, peringkat dua dunia, mengalahkan Lin Dan), kemudian menghadirkan kepercayaan diri dan tantangan kesehatan 2023—ketahanan adalah tulang punggung artikel ini, tanpa mengandalkan headline yang menyembunyikan kontras untuk melodrama, sesuai dengan pedoman pengamat untuk membuka dengan positif.'
-  whats_excluded: 'Tidak menulis detail kehidupan pribadi yang tidak terverifikasi (pernikahan, angka penghasilan); skor ranking mingguan BWF hanya mengambil peringkat bukan skor tepat, menghindari keusangan; hasil pertandingan spesifik dengan Lin Dan / Li Zongwei / Chen Long berasal dari forum penggemar sulit diverifikasi, hanya mempertahankan laporan dapat diandalkan tentang „mengalahkan Lin Dan orang pertama" dan hasil pertandingan tunggal dengan sumber perbandingan.'
-  where_it_hedges: 'Peringkat dunia ke-6 ditandai dengan stempel waktu „hingga Juni 2026"; „juara Super 1000 keempat tertua sepanjang masa seri tur dunia" berdasarkan narasi sumber tunggal Today Weekly; data tiga Olimpiade dan karir menggunakan Wikipedia Tiongkok dan Inggris sebagai sumber utama; detail kepercayaan, radang usus buntu, menjadi pelatih sendiri menggunakan Wikipedia + Mirror Weekly + ETtoday sebagai cross-check.'
-  whos_pushing_back: 'Pengamat badminton yang percaya dia adalah „pemain yang berkembang lambat, kekurangan medali Olimpiade"; suara yang menanyakan apakah dia pada usia 34 tahun masih seharusnya menempati tempat pemain nasional—artikel menyajangkan fakta tiga kesuksesan perempat final dan hasil comeback berdampingan, tanpa memberi segel untuk kedua belah pihak.'
+  why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
+  whats_excluded: '不寫未經證實的私人生活細節（婚姻、收入數字）；BWF 每週浮動積分只取名次不寫精確分數，避免過時；對林丹/李宗偉/諶龍的精確勝負場次來自球迷論壇難以查證，只保留有可靠報導的「打敗林丹第一人」與有比分來源的單場結果。'
+  where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
+  whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-05T13:23:09.201980+00:00'
 ---
 
 > **Ringkasan 30 detik:** Chou Tien-chen, lahir 1990 di Taipei, adalah pemain tunggal putra badminton Taiwan terkemuka. Pada 2014 memenangkan Kejuaraan Terbuka Perancis, menjadi pemain Taiwan pertama yang meraih juara Super Series badminton dunia.[^2] Agustus 2019 peringkat dunia naik ke posisi kedua, menciptakan rekor terbaik sepanjang masa untuk pemain tunggal putra Taiwan asli.[^1] Dia adalah pemain Taiwan pertama yang mengalahkan „Raja Badminton" Lin Dan dalam pertandingan internasional.[^13] Mewakili tim Taiwan berturut-turut tiga Olimpiade, ketiga kalinya maju ke perempat final.[^2] Awal tahun 2023, pemeriksaan usus besar rutin mendeteksi kanker usus besar stadium awal, dia menjalani operasi pengangkatan, beberapa hari setelah operasi terbang keluar negeri untuk bertanding, dengan susah payah bertahan hampir satu tahun menghadapi tantangan serius,[^3] setahun kemudian pada usia 34 tahun maju ke perempat final Olimpiade Paris.[^10] Hingga usia 36 tahun, dia masih menjadi peserta tetap di segmen atas peringkat dunia.[^12]

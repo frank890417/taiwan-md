@@ -1,19 +1,22 @@
 ---
 title: '台湾の行政区画：「地方会議」から「五都」への権力のパズル'
 description: '台湾の行政区画は単なる地図上の線ではなく、四百年にわたる権力の実験である。オランダ・スペイン時代の部落会議から、日本統治時代の「五州三庁」という雅化運動、そして戦後に実現しそうだった「爽文市」に至るまで、その一つひとつの境界線の背後には、統治の意志とアイデンティテイの葛藤が潜んでいる。'
-category: Geography
-tags: ['行政区画', '台湾歴史', '国土計画', '地方自治']
-author: 'Taiwan.md Contributors'
 date: 2026-04-17
-readingTime: 15
+category: 'Geography'
+tags: ['行政区画', '台湾歴史', '国土計画', '地方自治']
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: Geography/台灣行政區劃.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Geography/台灣行政區劃.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: 2026-05-02T01:17:14+08:00
+translatedAt: '2026-11-05T04:50:06.914459+00:00'
 ---
 
 > **30秒でわかる概要：** 台湾現行の「六都十六県市」は、四百年にわたる何度もの政治的手術の結果である。17世紀、オランダ人は「地方会議」を通じて部落を監視した。鄭氏・清朝統治時代には漢人の郡県制が導入され、日本統治時代には「五州三庁」と地名の雅化によって現代行政区画の骨格が築かれた。この実験は1945年に人名を冠する「爽文市」が誕生しかけ、2010年の五都改制によって台湾の総人口の60%が直轄市に組み入れられるに至り、資源の不均衡という現代の課題を残した。

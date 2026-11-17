@@ -2,9 +2,7 @@
 title: 'A-Han: o rapaz de Hualien que sozinho representou uma rua inteira e foi xingado de volta pelos moradores da rua'
 description: 'O rapaz de Hualien Tseng Wen-han, formado em Animação pela Universidade Nacional das Artes de Taipé (TNUA), interpretou sozinho uma rua inteira de Taiwan com as personagens Nguyen Nguyet Kieu, Liao Li-fang e Liao Li-chu. Até que, no Festival dos Fantasmas de 2022, um anúncio foi retirado do ar — a esposa vietnamita que ele interpretava foi alvo de protestos de verdadeiras esposas vietnamitas.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Internet'
 tags:
   [
     'A-Han',
@@ -18,20 +16,24 @@ tags:
     'TNUA',
     'Prémios Golden Bell',
   ]
-readingTime: 12
+subcategory: 'Internet'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-07-25T17:25:36+08:00'
+translatedAt: '2026-11-04T20:50:25.974470+00:00'
 ---
 
-> **Resumo em 30 segundos:** Tseng Wen-han, nascido em 1994 em Hualien, estudou na turma de artes da Escola Secundária Feminina de Hualien e formou-se no Departamento de Animação da Universidade Nacional das Artes de Taipé (TNUA). Em 2015, começou a gerir o canal do YouTube "A-Han po vídeos"[^1]. Ele interpreta sozinho Liao Li-fang, Nguyen Nguyet Kieu, Liao Li-chu, a tia do bufê, a aluna cega do ensino médio, o instrutor de motos, o monitor Ah-Wei — todos os personagens de uma rua típica de Taiwan. O seu trabalho representativo 〈Tia Adivinha: a Deusa dos Nove Céus espalha flores〉 acumulou mais de 13 milhões de visualizações no YouTube[^2]. Mas, no anúncio do Festival dos Fantasmas de 2022, a personagem de esposa vietnamita que ele interpretava foi alvo de protestos de verdadeiras esposas vietnamitas, levando à retirada do anúncio — um rapaz de Hualien que usou a imitação para sustentar uma rua de Taiwan, viu-se questionado pelos moradores dessa rua: «Por que este lugar não sou eu?».
+> **Resumo em 30 segundos:** Tseng Wen-han, nascido em Hualien em 1994, estudou no curso de artes da Escola Secundária Feminina de Hualien e graduou-se no departamento de animação da Universidade Nacional de Artes de Taipé. Em 2015, começou a gerir o canal de YouTube 「A-Han po vídeos」[^1]. Sozinho, ele interpreta Liao Li-fang, Nguyen Nguyet Kieu, Liao Li-chu, a tia do buffet — todos os personagens de uma típica rua taiwanesa. Sua obra representativa, 〈A tia adivinha: a Deusa dos Nove Céus espalha flores〉, acumulou mais de 13 milhões de visualizações[^2]. No entanto, em um comercial para o Festival de Zhongyuan em 2022, o personagem da esposa vietnamita que ele interpretava foi alvo de protestos de esposas vietnamitas reais, resultando na remoção do vídeo — um rapaz de Hualien que usou a imitação para sustentar uma rua taiwanesa, apenas para ser questionado pelas pessoas que vivem nela: "Por que este lugar não é meu?".
 
-O talento de A-Han não está em quão parecida é uma única personagem, mas no facto de ele ter representado quase uma rua inteira de Taiwan. Tia adivinha, esposa vietnamita, tia senhoria, tia do bufê, aluna cega do ensino médio, instrutor de motos, monitor Ah-Wei — a mesma pessoa, o mesmo rosto, trocando de sotaque, de linguagem corporal, de fase da vida. Mas a retirada de 2022 disse-lhe: imitar esta rua e viver nesta rua nunca foram a mesma coisa.
+O talento de A-Han não reside no quão parecido ele é com um personagem específico, mas no fato de que ele praticamente interpretou uma rua inteira de Taiwan. A tia adivinha, a esposa vietnamita, a tia senhoria, a tia do buffet, a estudante de ensino fundamental, a professora de moto, o monitor de classe A-wei — a mesma pessoa, o mesmo rosto, mudando apenas o sotaque, a linguagem corporal e as fases da vida. Mas aquele episódio de remoção em 2022 lhe ensinou: imitar essa rua e viver nela nunca foram a mesma coisa.
 
 ## Uma pessoa representa uma rua inteira
 

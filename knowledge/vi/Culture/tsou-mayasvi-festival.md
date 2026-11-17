@@ -1,140 +1,142 @@
 ---
-title: 'Lễ hội Mayasvi của người Tsou: Ngọn lửa của kuba không chuyển bản thân chiến tranh trở lại'
-description: 'Hàng năm giữa Đài Bắc và Tùng Fú Núi, người Tsou tổ chức Mayasvi để đón tiếp thần linh, hát ca và đi lễ tại các ngôi nhà, biến ký ức chiến tranh thành trật tự sống chung của bộ lạc. Lễ hội không phải là trò biểu diễn du lịch cho miền núi: lõi thực sự nằm ở kuba — một nơi hội tụ vẫn do cộng đồng duy trì, sử dụng và quy định cách vào.'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['Người Tsou', 'Dân tộc bản địa', 'Mayasvi', 'kuba', 'Nghi lễ']
-author: 'Taiwan.md Contributors'
+title: 'Lễ hội chiến tranh Mayasvi của người Tsou: Lửa của Kuba, không tái diễn chiến tranh'
+description: 'Mỗi năm ở giữa Dabang và Tefuye của núi Ali, người Tsou tổ chức Mayasvi để đón thần, hát và đi quanh nhà thờ, biến ký ức chiến tranh thành trật tự sống chung của bộ lạc. Lễ hội chiến tranh không phải là chương trình du lịch ở vùng núi: cốt lõi thực sự nằm ở kuba, một ngôi nhà hội vẫn do người bộ lạc duy trì, sử dụng và quy định cách vào.'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['Người Tsou', 'Dân tộc bản địa', 'Mayasvi', 'kuba', 'Lễ nghi']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-05T17:39:25.254673+00:00'
 ---
 
-> **Tóm tắt 30 giây:** Mayasvi thường được dịch là "lễ hội chiến tranh", nhưng hôm nay nghi lễ không phải là việc tái hiện trận chiến hay đầu người săn. Nó xoay quanh kuba — nơi hội tụ nam giới của người Tsou — nơi các dòng dõi tái khẳng định trách nhiệm lẫn nhau thông qua việc đón tiếp thần linh, múa hát, lễ tại nhà và đưa linh về. Điểm đối lập đáng nhớ nhất là: lễ hội không bảo quản bạo lực, mà là cách người Tsou tổ chức cộng đồng sau khi bạo lực đã rời khỏi cuộc sống hàng ngày.
+## Tóm tắt 30 giây:
 
-![Biểu diễn múa truyền thống của người Tsou, ngày 2 tháng 4 năm 2008. Nhiếp ảnh gia: Xiaoca, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+Mayasvi thường được dịch là 「Lễ tế chiến tranh」, nhưng lễ nghi ngày nay không phải là việc tái diễn lại việc săn đầu người hay chiến tranh. Nó lấy **kuba**——hội sở nam giới của người Tsou——làm trung tâm, để các gia tộc trong việc đón thần, hát múa, tế nhà và tiễn thần xác nhận lại trách nhiệm lẫn nhau. Điều đáng nhớ nhất là sự tương phản: Lễ tế chiến tranh bảo tồn không phải là bạo lực, mà là cách người Tsou tiếp tục tổ chức cộng đồng sau khi bạo lực đã rời khỏi đời sống hàng ngày.
 
-_Nguồn ảnh: Trang tệp tin Wikimedia Commons, Nhiếp ảnh gia: Xiaoca, Giấy phép: CC BY 2.0. Hình ảnh trình bày múa truyền thống của người Tsou, không nhận dạng như một sự kiện cụ thể của Mayasvi hay nghi lễ nội bộ của kuba.[^9]_
+![Biểu diễn nhảy truyền thống của người Tsou, ngày 2 tháng 4 năm 2008. Nhiếp ảnh: Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-## Ngọn lửa ở Đài Bắc trước tiên không phải để du khách xem
+_Nguồn ảnh: [Trang tập tin Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), nhiếp ảnh: Xiao Ka, cấp phép: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Hình ảnh thể hiện nhảy truyền thống của người Tsou, không tuyên bố là phiên Mayasvi cụ thể hay nghi thức nội bộ kuba.[^9]_
 
-Ở khu vực Đài Bắc của Alishan, đài dựng nghi lễ của Mayasvi không phải là sân khấu tạm thời. Nó bắt nguồn từ kuba: một nơi hội tụ được xây bằng cột tre và tre, mái lá, có khu vực lễ ngoài trước và những cây thần như cây đại thọ và cây thần được trồng bên cạnh. Tòa nhà không chỉ là một hiển thị phong cách truyền thống — nó là trung tâm chính trị, tôn giáo, giáo dục và đối thoại công cộng của cộng đồng lớn của người Tsou.[^1] [^2]
+## Lửa của Dabang, trước hết không phải để cho du khách xem
 
-Thời gian tổ chức lễ hội hàng năm không có một ngày cố định duy nhất cho toàn bộ người Tsou. Tài liệu tiếng Anh chính thức ghi nhận rằng Đài Bắc và Tùng Fú Núi từng thay phiên nhau tổ chức lễ hội, và lịch cũng từng được điều chỉnh giữa cách truyền thống và lịch cố định. Gần đây, việc quyết định lại do cộng đồng chủ trì. Việc viết Mayasvi như một lễ hội cố định hàng năm diễn ra đồng thời trên toàn đảo sẽ làm xóa bỏ sự khác biệt giữa các bộ lạc.[^3]
+Tại Dabang trên núi A-li, nơi tổ chức lễ Mayasvi không phải là sân khấu dựng lên tạm bợ. Nó bắt đầu từ kuba: ngôi hội sở cao tầng có mái phủ rơm, được xây bằng cột gỗ và tre nứa, phía trước có quảng trường lễ nghi, bên cạnh trồng những loài lan hồ điệp (dendrobium) và cây sung đỏ (ficus microcarpa) được người dân tộc coi là hoa thần và cây thần. Cái kiến trúc này không chỉ là vật trưng bày «phong cách truyền thống», mà là trung tâm chính trị, tôn giáo, giáo dục và thương lượng công cộng của đại xã người Tsou.[^1] [^2]
 
-Người Tsou chủ yếu sinh sống ở khu vực Alishan thuộc Chiayi, cùng với một số cộng đồng ở Tân Sơn, Nantou và Náxī, Kaohsiung. Liên quan đến lễ hội thờ gạo của người Tsou trong tài liệu của Ủy ban Dân tộc Bản địa, được chia thành hai loại: lễ hội mùa màng gạo nhỏ homeyaya tập trung vào lòng biết ơn với thần gạo và việc gắn kết gia đình. Mayasvi thì liên quan đến chiến thắng, thần chiến, tổ tiên, sự đoàn kết và ký ức cộng đồng bộ lạc.[^1]
+Mỗi năm kỳ lễ không chỉ có một ngày thống nhất cho toàn bộ người Tsou. Tài liệu tiếng Anh chính thức ghi nhận, Dabang và Tefuye từng luân phiên gánh vác lễ hội, ngày tổ chức cũng từng được điều chỉnh giữa cách làm truyền thống và ngày cố định. Gần đây thì quay trở về cách để bộ lạc chủ辦 quyết định. Viết Mayasvi thành một lễ hội diễn ra vào ngày cố định hàng năm, toàn thể người Tsou Đài Loan cùng lúc tổ chức, sẽ xóa bỏ sự khác biệt giữa các bộ lạc.[^3]
 
-**Ghi chú của nhà soạn trưng:** Khó khăn của Mayasvi không phải là chọn bản dịch tiếng Trung nào, mà là công nhận rằng "lễ hội chiến tranh" chỉ là cánh cửa vào, chứ không phải câu trả lời.
+Người Tsou phân bố chủ yếu ở vùng núi A-li thuộc Chiayi,另有 đồng bào sinh sống tại Xinyi của Nantou và Namaxia của Kaohsiung. Ủy ban Dân tộc Nguyên gốc trong tài liệu về các nhóm dân tộc tách biệt giải thích các lễ hội theo mùa của người Tsou: Lễ hội thu hoạch lúa mạch homeyaya lấy cốt lõi là tạ ơn thần lúa mạch và凝聚 gia tộc. Còn mayasvi thì liên quan đến凯旋、戰神、祖靈、團結 và ký ức bộ lạc.[^1]
 
-## Tên gọi "lễ hội chiến tranh" để lại điều gì
+**Ghi chú của người phụ trách triển lãm (curator):** Khó khăn của Mayasvi không nằm ở việc dịch nó thành tên tiếng Trung nào, mà nằm ở việc thừa nhận «lễ tế chiến tranh» chỉ là lối vào, không phải là câu trả lời.
 
-Trong xã hội Tsou trước đây, mayasvi liên quan đến truyền thống săn đầu người, chiến tranh và lễ nghi đón nhận chiến binh trở về. Tài liệu dân tộc bản địa dẫn chứng hồ sơ điều tra Nhật Bản năm 1915, chỉ ra rằng trong các nghi lễ cũ có phần dẫn dắt bằng lễ tế đầu người. Nhưng cùng một nghiên cứu cũng rõ ràng chỉ ra rằng phong tục săn đầu của các bộ lạc đã biến mất, trong khi lễ hội chiến tranh vẫn tiếp tục ở Tùng Fú Núi và Đài Bắc.[^4]
+Trong xã hội người Tsou thời kỳ sớm, mayasvi gắn liền với bối cảnh lễ nghi săn đầu, chiến tranh và đón chiến sĩ trở về. Văn헌 dân tộc nguyên gốc trích dẫn bản ghi điều tra năm 1915 của người Nhật, chỉ ra rằng lễ nghi sơ kỳ có đoạn cốt lõi là tế người đầu. Nhưng cùng một nghiên cứu cũng nêu rõ: phong tục săn đầu giữa các bộ lạc đã biến mất, mà chiến tế vẫn tiếp tục được tổ chức tại Tevungya (特富野) và Dabang (達邦). [^4]
 
-Có một khoảng thời gian không thể bỏ qua ở đây: nghi lễ không sống sót nguyên vẹn đến ngày nay. Nó đã thay đổi về nội dung, người tham gia, cách nhìn nhận và cách cộng đồng dùng nó để nói về chính mình. Nghiên cứu viên Pù Chung-yùng xem lễ hội chiến tranh hiện đại như một hoạt động tôn giáo tập thể và không gian nhận diện dân tộc. Một luận án sau thuộc địa khác lại chỉ ra rằng nghi lễ liên tục bị gỡ bỏ bối cảnh và tái tạo trong cuộc sống hiện đại, tạo ra những cách hiểu khác nhau như hoài niệm, giải phóng và hòa trộn văn hóa.[^4] [^5]
+Ở đây có một khoảng thời gian không thể bỏ qua: lễ nghi không nguyên vẹn sống sót đến ngày nay. Nó thay đổi nội dung, người tham gia, cách quan sát, cũng thay đổi ngôn ngữ mà bộ lạc dùng để nói về chính mình. Nhà nghiên cứu Bổ Trung Dũng (浦忠勇) coi chiến tế đương đại là một hoạt động tôn giáo tập thể và lĩnh vực nhận diện dân tộc. Một nghiên cứu hậu thực dân khác指出, lễ tế trong đời sống hiện đại liên tục bị giải ngữ cảnh, tái ngữ cảnh, sinh ra những hiểu lầm khác nhau như hoài cổ, giải thực dân và hỗn hợp văn hóa. [^4] [^5]
 
-Do đó, "lễ hội chiến tranh" không thể được đơn giản hóa thành hai cực đoan: một là coi đó là một di sản cổ xưa xa hẵng và hoàn hảo chưa từng thay đổi. Một là vì nó từng liên quan đến bạo lực, nên chỉ xem đó là một sự tồn tại không phù hợp thời đại. Ý nghĩa thực sự của Mayasvi ngày nay nằm ở sự đàm phán liên tục giữa ký ức lịch sử và cuộc sống hiện tại.
+Vì vậy, «chiến tế» không thể đơn giản hóa thành hai cực đoan: một là coi nó như di tích cổ xưa xa xôi, thuần khiết, không bao giờ thay đổi. Cái kia là vì nó từng gắn liền với bạo lực, nên chỉ coi nó là di sản không hợp thời. Ý nghĩa đương đại của Mayasvi, chính là sự thương lượng liên tục giữa ký ức lịch sử và cuộc sống hôm nay.
 
-Trong tiếng Trung, "lễ hội chiến tranh", "lễ hội đoàn kết" và "lễ hội chiến thắng" mỗi từ nắm bắt một phần ý nghĩa, nhưng không có từ nào có thể bao hàm toàn bộ nghi lễ. Nhà nghiên cứu nhìn thấy trong poster của lễ hội chiến tranh năm 1999 ở Tùng Fú Núi một cách gọi khác: người dân dùng cụm "ngọn lửa của kuba" để mô tả cách họ đặt trí tuệ của tổ tiên, cộng đồng hiện tại và thế giới tương lai vào cùng một câu. Sự chuyển đổi trong đặt tên này rất quan trọng, vì nó dời trọng tâm từ "trước đây chúng ta đã chiến đấu như thế nào" sang "hôm nay chúng ta phải giữ cho bộ lạc có ngọn lửa".[^4]
+Trong tiếng Trung, «chiến tế» (戰祭), «tế đoàn kết» (團結祭), «tế khải tuyến» (凱旋祭) mỗi từ nắm bắt một phần ý nghĩa, nhưng không từ nào bao quát được toàn bộ lễ nghi. Nhà nghiên cứu trong poster chiến tế Tevungya năm 1999 thấy một cách diễn đạt khác: đồng bào dùng «lửa của Kubá» (庫巴之火) giải thích làm sao đặt trí tuệ tổ tiên, bộ lạc hôm nay và thế giới tương lai trong cùng một câu. Chuyển hướng đặt tên này rất quan trọng, vì nó chuyển trọng tâm từ «xưa kia đã đánh những仗 gì» sang «hôm nay làm sao để bộ lạc vẫn còn lửa». [^4]
 
-Vì vậy, bài viết này giữ lại tên gọi bản địa mayasvi thay vì đưa bản dịch tiếng Trung làm câu trả lời duy nhất. Sự tồn tại đồng thời của tên gọi không phải là sự lẫn nhau, mà là sự chồng lấn của các tầng thời gian khác nhau trong nghi lễ: ký ức chiến thắng, sự đoàn kết dân tộc, trật tự thần linh, sự trở về và di sản văn hóa cùng tồn tại, tạo nên Mayasvi ngày nay.
+Cũng vì thế, bài viết này giữ nguyên tên gọi Tsou là mayasvi, không coi bản dịch tiếng Trung là câu trả lời duy nhất đúng. Sự đồng tồn của các tên gọi không phải là hỗn loạn, mà là những tầng lịch sử khác nhau cùng lưu giữ trong lễ tế: ký ức chiến công, đoàn kết dân tộc, trật tự thần linh, về quê và truyền thừa văn hóa chồng chất lên nhau, mới hình thành nên Mayasvi ngày nay.
 
-## kuba không phải là nền tảng, mà là một hệ thống
+## kuba không phải là bối cảnh, là thể chế
 
-Nơi hội tụ của người Tsou thường bị dịch là "nhà nam giới". Bản dịch này chỉ ra quy tắc nhập cửa, nhưng cũng dễ khiến người đọc bên ngoài hiểu lầm rằng đó chỉ là một nơi các thanh niên nam tụ họp. Tài liệu ghi nhận trí tuệ sáng tạo truyền thống của cộng đồng Đài Bắc mô tả kuba như là trung tâm của chính trị, tôn giáo, xã hội hoạt động và đạo đức văn hóa. Khi có sự kiện quan trọng, các phe pháp chủ, trưởng làng và chiến binh vẫn tụ họp tại đây để thảo luận và giải quyết vấn đề.[^2]
+Kuba của người Tsou thường được dịch là «hội sở nam giới». Tên dịch này chỉ ra quy định vào hội, nhưng cũng dễ khiến người đọc bên ngoài hiểu lầm rằng nó chỉ là một ngôi nhà để đàn ông tụ tập. Hồ sơ đăng ký sáng tạo trí tuệ truyền thống của kuba xã Đạt Bàng mô tả nó là trọng tâm của hoạt động chính trị, tôn giáo, xã hội và đạo đức văn hóa. Khi xảy ra sự kiện trọng đại, thủ lĩnh, trưởng lão họ và dũng sĩ vẫn tụ tập tại đây để bàn bạc và xử lý vấn đề.[^2]
 
-Chi tiết kiến trúc cũng không chỉ là danh sách trang trí. Cửa chính của nơi hội tụ hướng về phía đông nơi mặt trời mọc, mái nhà và khu vực cửa được trồng cây thần. Cây đại thọ bên cạnh sân khấu được cắt tỉa, chỉ để lại ba nhánh chỉ về phía nơi hội tụ và nơi lễ tại nhà, biểu tượng cho hành trình của thần linh từ thiên giới xuống đất. Những gì trong nơi hội tụ — bếp lửa, dụng cụ lửa, sàn nhà và cột cũ được giữ lại — đều liên quan đến nghi lễ, quyền lực dòng dõi, chức năng trốn tránh và ký ức xây dựng lại qua các thế hệ.[^2] [^3]
+Các chi tiết kiến trúc của nó cũng không phải là danh sách trang trí. Cánh cửa chính của hội sở hướng về phía đông nơi mặt trời mọc, mái nhà và lối vào gần đó trồng hoa hòe. Cây sung đỏ bên quảng trường trong lễ tế được tỉa tỉa, chỉ để lại ba nhánh cành, tượng trưng cho con đường để thần linh xuống đến nơi lễ tế. Lò lửa, lồng đồ đánh lửa, sàn nhà và những cột cũ được giữ lại trong hội sở lần lượt liên hệ với lễ nghi, quyền lực của họ, chức năng trú ẩn và ký ức về việc tái xây dựng qua các thế hệ.[^2] [^3]
 
-"Giữ lại cây cột cổ nhất" là một trong những chi tiết tốt nhất để minh chứng cho quan niệm thời gian của người Tsou trong kuba. Tài liệu ghi nhận của cộng đồng Đài Bắc cho biết, khi nơi hội tụ được xây dựng lại, cây cột cổ nhất sẽ được giữ lại và buộc vào cột mới bằng dây mây. Nơi hội tụ mới có thể được xây dựng lại, vật liệu có thể được cập nhật, nhưng cột cũ vẫn được buộc vào cột mới. Điều này không phải là đóng băng kiến trúc thành bảo tàng, mà là để cho sự cập nhật mang theo trục của tổ tiên.[^2]
+«Giữ lại một cột trụ cổ xưa nhất» là một trong những chi tiết giải thích rõ nhất quan niệm thời gian của người Tsou trong kuba. Hồ sơ của xã Đạt Bàng ghi chép rằng khi tái xây hội sở, người ta giữ lại một cột trụ cổ xưa nhất, sau đó dùng vỏ rattan trói nó bên cạnh cột trụ mới. Hội sở mới có thể được xây lại, vật liệu có thể được thay mới, nhưng cột cũ vẫn được trói bên cạnh cột mới. Điều này không phải biến kiến trúc thành bảo tàng, mà là để sự cập nhật bản thân mang theo điểm tựa mà tổ tiên để lại.[^2]
 
-Tài liệu chính thức của người Tsou cũng đặt kuba ở giao điểm của giáo dục nam giới, họp bộ lạc, sự chuẩn bị cho chiến tranh, luyện tập lễ hội, xã hội săn tranh và công việc công cộng. Sự kết hợp giữa nơi hội tụ và lễ hội hàng năm cho thấy nó không chỉ là địa điểm "mượn" cho lễ hội. Ngược lại, lễ hội là cách mà nơi hội tụ như một cơ cấu công cộng tiếp tục hoạt động.[^1]
+Tài liệu chính thức về dân tộc Tsou cũng đặt kuba ở giao điểm của giáo dục nam giới, hội nghị bộ lạc, tập kết chinh chiến, tập luyện lễ hội, giao lưu săn bắn và sự vụ công cộng. Sự kết hợp giữa hội sở và lễ tế hàng năm cho thấy nó không phải là nơi «vay mượn dùng» cho lễ hội. Ngược lại, lễ hội là một cách mà hội sở, trong vai trò là một thể chế công cộng, vận hành liên tục.[^1]
 
-## Từ đón tiếp thần linh đến đưa linh về: Một nghi lễ không phải là một bản múa duy nhất
+## Từ đón thần đến tiễn thần: Một nghi lễ không phải là một điệu múa đơn lẻ
 
-Tài liệu lễ hội theo mùa của mayasvi chia thành nhiều phần: xây dựng nơi hội tụ, khai mạc lễ hội, đón tiếp thần linh, đoàn kết, lễ nhập môn đầu tiên, lễ trưởng thành, báo cáo chiến tích, lễ trên đường, lễ múa hát và lễ kết thúc. Các quy trình và cách gọi có thể khác nhau giữa các bộ lạc, và dữ liệu không nên được xem như một bảng quy trình mẫu mực cho toàn bộ người Tsou.[^6]
+Tài liệu nghi lễ theo mùa chia mayasvi thành nhiều đoạn: tu bổ hội sở, khai mạc lễ hội, đón thần, đoàn kết, lần đầu lên hội sở, lễ thành niên, báo chiến công, tế đường, hát múa tế lễ và lễ kết thúc. Thứ tự và tên gọi có thể khác nhau giữa các bộ lạc, tài liệu không nên được xem như một bảng trình tự hoàn toàn giống nhau cho mọi người Tsou. [^6]
 
-Khi đón tiếp thần linh, cộng đồng mang ngọn lửa từ kuba vào đài lễ, dâng lễ vật và cắt tỉa cây đại thọ, để lại ba nhánh chỉ về phía nơi hội tụ và nơi lễ tại nhà. Bản đồ văn hóa tiếng Anh của Bộ Nội các giải thích những nhánh này như cầu thang của thần chiến xuống từ thiên giới. Hành động này đồng thời kết nối thần thoại, thực vật, kiến trúc và không gian dòng dõi lại với nhau.[^3]
+Khi đón thần, người dân mang lửa từ kuba vào nơi tế lễ, dâng lên của lễ, và tỉa cây sung đỏ, để lại ba cành nhánh chỉ về phía hội sở và nhà tế. Bản đồ văn hóa tiếng Anh chính thức giải thích các cành nhánh này là bậc thang để thần chiến từ thiên giới xuống凡. Hành động này đồng thời gắn kết thần thoại, thực vật, kiến trúc và không gian gia tộc lại với nhau. [^3]
 
-Tiếp theo là những bản múa. Nhạc chiến tranh được biểu diễn bằng hát hợp âm, nhịp độ chậm và giọng trầm trĩ, với lời ca lưu giữ thần thoại, câu chuyện tổ tiên và lịch sử bộ lạc. Nghiên cứu chỉ ra rằng những bản múa này vừa mang thẩm mỹ dân tộc, vừa vì dễ bị quan sát nên trở thành giao thoa giữa nghệ thuật hiện đại và sự chú ý du lịch tham quan.[^4]
+Tiếp theo là hát múa. Ca khúc tế chiến được cấu thành từ hợp xướng đa thanh, nhịp độ chậm rãi và hòa thanh đậm đà, lời bài hát lưu giữ thần thoại, sự tích tổ tiên và lịch sử bộ lạc. Nghiên cứu chỉ ra rằng những điệu múa hát này vừa gánh vác thẩm mỹ dân tộc, vừa vì dễ được quan sát mà trở thành ranh giới giữa bảo tồn nghệ thuật đương đại và cái nhìn du lịch. [^4]
 
-Sau phần lễ chính, không phải ai cũng bị loại trừ. Các báo cáo tiếng Anh và tài liệu chính thức đều ghi nhận rằng trong lễ múa hát, cộng đồng do người lớn dẫn dắt, nối tay nhau và hát ca, tôn vinh những câu công trình anh hùng của thần chiến và tổ tiên. Sự bố trí này giúp Mayasvi lan tỏa từ không gian thiêng liêng dành cho thanh niên nam sang ký ức chung của toàn bộ bộ lạc.[^3] [^7]
+Sau đoạn tế lễ chính, không phải ai cũng bị loại ra bên ngoài. Báo cáo tiếng Anh và tài liệu chính thức đều ghi nhận, trong lễ hát múa, người dân do trưởng lão dẫn dắt, nắm tay nhau hát ca ngợi sự hào hùng của thần chiến và tổ tiên. An排 này khiến Mayasvi từ không gian thiêng liêng cốt lõi là nam giới thành niên, mở rộng thành ký ức chung của cả bộ lạc. [^3] [^7]
 
-Lễ kết thúc cuối cùng phải hoàn thành trước nửa đêm. Những chiến binh sẽ hát những bài đón tiếp, đưa linh về và bài ca chiến tranh, ngọn lửa trung tâm sẽ được tắt và lễ hội mới chính thức kết thúc. Ngọn lửa không chỉ là hiệu ứng của hoạt động, mà là ranh giới thời gian của nghi lễ: nó được đưa vào, được gìn giữ và được chính thức đưa ra ngoài.[^3]
+Lễ kết thúc cuối cùng phải hoàn tất trước nửa đêm, dũng sĩ hát ca đón thần, tiễn thần và ca chiến, bếp lửa trung tâm tắt đi, lễ hội mới được coi là kết thúc. Lửa không phải là hiệu ứng hoạt động, mà là ranh giới thời gian của nghi lễ: nó được đón vào, được gìn giữ, và cũng được chính thức tiễn đi. [^3]
 
-**Ghi chú của nhà soạn trưng:** Một nơi hội tụ không bảo quản "dáng vẻ cũ", mà là ai có thể vào vào lúc nào, ai chịu trách nhiệm gì, và ký ức nào phải được hát bởi ai.
+**Ghi chú của người bảo tàng:** Một ngôi hội sở bảo tồn không phải là "hình dáng cổ đại", mà là ai có thể vào lúc nào, ai chịu trách nhiệm gì, và ký ức nào phải do ai hát ra.
 
-## Không gian thiêng liêng và khoảng cách của người quan sát bên ngoài
+## Khoảng cách giữa không gian thiêng liêng và cái nhìn từ bên ngoài
 
-Mayasvi đã được nhà nước đưa vào bối cảnh bảo tồn phong tục văn hóa quan trọng. Báo cáo chứng nhận năm 2011 ghi nhận rằng lễ hội chiến tranh xoay quanh kuba, chịu trách nhiệm hoài niệm tổ tiên, truyền lại văn hóa, gắn kết cộng đồng và duy trì đạo đức bộ lạc. Danh tính di sản văn hóa này giúp nghi lễ nhận được nguồn lực và sự quan tâm công cộng, đồng thời dễ dàng khiến bên ngoài coi đó như một "chương trình đáng tham quan".[^8]
+Mayasvi đã được nhà nước đưa vào bối cảnh bảo tồn dân俗 quan trọng. Báo cáo cấp chứng nhận năm 2011 ghi nhận rằng lễ tế chiến tranh lấy kuba làm trung tâm, đảm nhận chức năng tưởng nhớ tổ tiên, truyền thừa văn hóa, gắn kết đồng bào và duy trì đạo lý bộ lạc. Danh tính tài sản văn hóa quốc gia này giúp lễ儀获得 nguồn lực và độ hiển thị công cộng, cũng khiến bên ngoài dễ dàng coi nó là một 「chương trình đáng để tham quan」. [^8]
 
-Hai điều phải đồng thời tồn tại. Sự bảo tồn di sản văn hóa là điều cần thiết. Cộng đồng cũng có quyền quyết định cách thức nghi lễ được nhìn thấy, thời gian mở cửa và những nơi không được phép vào. Thông tin khách tham quan chính thức rõ ràng nêu rõ rằng các nghi lễ vào buổi sáng không mở cửa cho công chúng tham gia, khách tham quan không được phép vào đài lễ hay làm phiền đến nghi lễ. Dù có lễ hội hay không, phụ nữ cũng không được phép vào kuba. Những quy tắc này không phải là lời khuyên du lịch, mà là ranh giới chủ quyền của không gian thiêng liêng theo nhìn nhận của người Tsou.[^3]
+Hai việc phải đồng thời thành lập. Việc bảo tồn tài sản văn hóa có tầm quan trọng của nó. Bộ lạc cũng có quyền quyết định lễ儀 được nhìn thấy như thế nào, khi nào mở cửa, nơi nào không được phép bước vào. Thông tin khách du lịch chính thức nêu rõ rằng nghi thức buổi sáng không mở cho công chúng tham gia, du khách không được vào nơi lễ tế hoặc làm gián đoạn nghi thức. Dù có舉行 lễ hội hay không, phụ nữ cũng không được phép vào kuba. Những quy định này không phải là mẹo du lịch, mà là đường ranh chủ quyền của người Tsou đối với không gian thiêng liêng. [^3]
 
-Báo cáo dân tộc bản địa năm 2014 mô tả một cách sắc bén hơn về vấn đề du hóa: khách tham quan nước ngoài và những bức tường TV lớn đã biến nghi lễ thành một buổi biểu diễn được quan sát, và tính tập thể ban đầu có thể bị rách nứt, mờ nhạt và mất kết nối. Những bài ca cũng có thể pha trộn với nhạc rock và nhạc thánh giáo phương Tây, tạo thành hình thức hòa trộn mới.[^4]
+Tài liệu dân tộc nguyên gốc năm 2014 lại mô tả sắc bén hơn vấn đề do du lịch hóa mang lại: khách đến từ ngoài và màn hình TV lớn biến lễ儀 thành buổi trình diễn bị quan sát, tính tập thể ban đầu có thể do đó trở nên đứt gãy, mờ nhạt, không liên tục. Ca khúc lễ tế cũng có thể lẫn vào nhạc rock và âm nhạc tôn giáo phương Tây, hình thành hình thức hỗn hợp mới. [^4]
 
-Điều này không có nghĩa là mọi thay đổi đều là "sai lệch", cũng không có nghĩa là bất kỳ thay đổi nào cũng đương nghĩa là tiến bộ. Những nghiên cứu sau thuộc địa nhắc nhở chúng ta rằng người Tsou đang sử dụng, điều chỉnh và cách giải thích Mayasvi trong xã hội hiện đại. Điều thực sự cần được tôn trọng là quá trình đàm phán do chính cộng đồng thực hiện, chứ không phải do người quan sát bên ngoài quyết định điều gì là "chuẩn xác".[^5]
+Điều này không có nghĩa là mọi thay đổi đều là 「mất đi bản chất」, cũng không có nghĩa là thay đổi là tiến bộ. Nghiên cứu hậu thực dân nhắc nhở chúng ta rằng người Tsou đang ở trong xã hội hiện đại sử dụng, điều chỉnh, giải thích lại Mayasvi. Điều thực sự cần được tôn trọng là quá trình thương lượng này do chính người trong tộc tiến hành, chứ không phải do khán giả bên ngoài quyết định cái gì mới được tính là thuần khiết. [^5]
 
-Một lớp người quan sát dễ bị bỏ qua khác là: người ta không chỉ nhìn thấy múa hát, mà còn phân tích "nơi hội tụ nam giới", "trang phục chiến binh" và "cây thần" thành những biểu tượng văn hóa có thể mang đi. Tuy nhiên đối với cộng đồng, những vật này thuộc về trách nhiệm và lệnh cấm khác nhau, không thể bị tách rời tùy tiện từ bối cảnh nghi lễ. Tài liệu chính thức nhắc nhở khách tham quan không được vào đài lễ, không được làm phiền đến nghi lễ. Ranh giới này tương đương với việc nói với người quan sát rằng sự hiểu biết không cần phải thông qua việc tiếp cận hoặc chụp ảnh.[^3]
+Cái nhìn từ bên ngoài còn có một tầng dễ bị bỏ qua: khán giả không chỉ xem nhảy múa, còn把 「hội sở nam giới」 「trang phục chiến sĩ」 「thần thụ」 拆解 thành những ký hiệu văn hóa có thể mang đi. Nhưng đối với người trong tộc, những vật này thuộc về các trách nhiệm và cấm kỵ khác nhau, không thể tùy tiện tách ra khỏi bối cảnh lễ儀. Tài liệu chính thức nhắc nhở khách không được vào nơi lễ tế, không được làm gián đoạn nghi thức. Đường ranh này tương đương với việc nói cho khán giả biết rằng sự hiểu biết không nhất thiết phải trả giá bằng sự tiếp cận hay quay chụp. [^3]
 
-Đối với Taiwan.md, đây cũng là ranh giới trong viết chữ: có thể mô tả quy trình nghi lễ và thông tin công cộng, nhưng không được viết lại nghi lễ kín đắk như "mình sẽ tiết lộ bí mật cho bạn", cũng không nên đóng gói lệnh cấm của cộng đồng thành hướng dẫn du lịch. Những gì bài viết có thể làm là đưa độc giả tới chân ranh giới, để họ hiểu tại sao phải dừng lại ở đó.
+Đối với Taiwan.md, đây cũng là ranh giới trong viết: có thể giải trình trình tự lễ儀 và tài liệu công khai, không viết nghi thức kín thành 「tôi giúp bạn bật mí」, càng không gói gọn cấm kỵ của người tộc thành hướng dẫn du lịch. Bài viết có thể làm được là đưa người đọc đến trước ranh giới, để họ biết tại sao phải dừng lại ở đó.
 
-Quy tắc giới tính của nơi hội tụ cũng không nên bị tách thành một đoạn kể lạ. Tài liệu chính thức ghi nhận đồng thời rằng phụ nữ tham gia vào một số giai đoạn của nghi lễ bằng cách cầm đèn, và lễ múa hát được dẫn dắt bởi người lớn để toàn bộ cộng đồng tham gia. Nói cách khác, "không được vào kuba" và "không tham gia lễ hội" không phải là một sự kiện. Trước tiên là quy tắc không gian thiêng liêng, sau đó là kết luận dễ bị nhầm lẫn của người đọc bên ngoài.[^1] [^3]
+Quy định giới tính của hội sở cũng không thể bị tách riêng thành một đoạn tò mò. Tài liệu chính thức đồng thời ghi nhận rằng phụ nữ ở một số đoạn lễ儀 tham gia bằng cách cầm đuốc, còn lễ hội hát múa thì do trưởng lão dẫn dắt toàn thể người tộc tham gia. Nói cách khác, 「không được vào kuba」 và 「không tham gia lễ hội」 không phải là một việc. Thứ nhất là quy định của không gian thiêng liêng, thứ hai là kết luận mà người đọc bên ngoài dễ nhầm lẫn. [^1] [^3]
 
-Cũng không thể bỏ qua yếu tố tuổi tác. Tài liệu của cộng đồng Đài Bắc ghi nhận rằng trẻ em trai của người Tsou từ nhỏ đã có mối quan hệ với kuba: lễ nhập môn đầu tiên, học cách săn tranh và chiến thuật, lắng nghe lịch sử bộ lạc — tất cả đều là quá trình đưa cá nhân vào dòng dõi và cộng đồng lớn. Ngay cả hôm nay, khi chiến tranh và săn tranh không còn là trung tâm của cuộc sống, nơi hội tụ vẫn giữ vai trò của "cách trở thành thành viên của bộ lạc".[^2]
+Tương tự không thể bỏ qua là độ tuổi. Tài liệu hội sở Dabang ghi nhận rằng nam giới Tsou từ nhỏ đã có mối quan hệ với kuba: lần đầu lên hội sở, học săn bắn và kỹ thuật chiến đấu, lắng nghe lịch sử bộ lạc, tất cả đều là quá trình giáo dục đặt cá nhân vào gia tộc và đại xã. Dù ngày nay chinh chiến và săn bắn không còn là trung tâm cuộc sống, hội sở vẫn gánh vác ký ức 「làm thế nào để trở thành thành viên bộ lạc」. [^2]
 
-Điều này cho Mayasvi một hình dạng cụ thể cho sự tập thể. Đó không chỉ là một câu nói trừu tượng "mọi người đoàn kết", mà là các dòng dõi mang theo lịch sử, ngôi nhà và trách nhiệm riêng, theo một quy trình có thể được nhận diện đi vào cùng một thời gian chung. Lễ hội có thể gắn kết cộng đồng không phải vì nó xóa bỏ sự khác biệt, mà vì nó để sự khác biệt tìm được chỗ đứng cho nhau trong nơi hội tụ và đài lễ.
+Điều này cho tính tập thể của Mayasvi một hình thức cụ thể. Nó không phải nói suông rằng 「mọi người đoàn kết」, mà là các gia tộc khác nhau mang theo lịch sử, nhà thờ tế và trách nhiệm của mình, theo một trình tự có thể nhận diện bước vào thời gian chung. Lễ hội có thể gắn kết đồng bào, chính vì nó không xóa bỏ sự khác biệt, mà để sự khác biệt trong hội sở và nơi lễ tế tìm thấy vị trí của nhau.
 
-## Sau khi chiến tranh rời đi, lễ hội để lại cách sống chung
+## Sau khi chiến tranh rời đi, nghi lễ để lại cuộc sống chung
 
-Ngày nay, Mayasvi không còn dựa trên chiến tranh hay săn tranh như trung tâm của cuộc sống hàng ngày của người Tsou. Nó vẫn giữ lại thần chiến, tổ tiên, chiến binh, lửa và bài ca, cũng như quy tắc nhập cửa và trật tự nghi lễ của nơi hội tụ. Nhưng những yếu tố này được đưa vào một câu hỏi mới: khi cộng đồng bị phân tán đến thành phố, khi ngôn ngữ và lối sống chịu áp lực hòa hóa, bộ lạc phải nhớ mình là ai?
+Mayasvi ngày nay không còn lấy chinh chiến hay săn bắn làm trung tâm của đời sống hàng ngày người Tsou. Nó giữ lại thần chiến tranh, tổ tiên, dũng sĩ, lửa và ca hát, cũng như quy chuẩn vào hội sở (kuba) và trật tự nghi lễ. Nhưng các yếu tố này được đặt vào một vấn đề mới: khi người dân tản mát đến thành phố, khi ngôn ngữ và lối sống chịu áp lực đồng hóa, bộ lạc phải làm sao để nhớ mình là ai?
 
-Câu trả lời không phải là quay lại một quá khứ không có hiện đại. Câu trả lời giống như mỗi năm trở lại kuba, thắp lại ngọn lửa, để các dòng dõi gặp nhau trong cùng một thời gian, để thế hệ trẻ biết những bài ca nào không thể chỉ được lưu giữ bằng văn bản, để các phe trưởng, chiến binh, phụ nữ, trẻ em và người trở về đều tìm được vị trí tham gia. Báo cáo tiếng Anh mô tả hiệu quả này như sự tái sinh của xã hội. Nhà nghiên cứu gọi đó là không gian để danh tính dân tộc được liên tục xây dựng.[^5] [^7]
+Câu trả lời không phải là quay về một quá khứ không có hiện đại性. Câu trả lời giống hơn với việc mỗi năm trở về kuba, thắp lại lửa, để các họ khác nhau gặp nhau trong cùng một khung thời gian, để giới trẻ biết những bài hát nào không thể chỉ bảo tồn bằng chữ viết, để trưởng lão, dũng sĩ, phụ nữ, trẻ em và người về quê mỗi người tìm thấy vị trí tham gia của mình. Báo cáo tiếng Anh gọi vai trò này là sự tái sinh của xã hội. Nhà nghiên cứu lại gọi nó là lĩnh vực nơi chủ thể tính dân tộc liên tục được xây dựng.[^5] [^7]
 
-Vì vậy, điều quan trọng nhất của Mayasvi không phải là "người Tsou vẫn giữ lại một lễ hội cổ xưa". Đích thực hơn, đó là người Tsou biến một nghi lễ mang ký ức chiến tranh thành một hệ thống luyện tập sống chung lại. Khi ngọn lửa của kuba tắt, không có nghĩa là câu chuyện kết thúc. Nó chỉ là việc giao cho bộ lạc trách nhiệm của lần tụ họp tiếp theo.
+Vì vậy, điều quan trọng nhất của Mayasvi không phải là 「người Tsou vẫn giữ lại một nghi lễ cổ xưa」. Cách nói chính xác hơn là: người Tsou biến một nghi lễ mang ký ức chiến tranh thành một thể chế lặp lại thực hành cuộc sống chung. Lửa kuba tắt không có nghĩa là câu chuyện kết thúc. Nó chỉ trao lại cho bộ lạc trách nhiệm tụ tập lại lần sau.
 
-Sự chuyển đổi này cũng giải thích tại sao Mayasvi không thể chỉ được đưa vào phân loại "lễ hội". Lễ hội thường gợi lên hình ảnh của một điểm thời gian trong năm. Mayasvi thì kết nối các mối quan hệ dòng dõi trong suốt năm, học tập bài ca, sửa chữa nơi hội tụ, không gian thiêng liêng và đối thoại công cộng. Lễ hội là những ngày có thể nhìn thấy, trong khi kuba và đạo đức bộ lạc là những gì vẫn đang hoạt động trong những ngày còại lại.
+Sự chuyển hóa này cũng giải thích tại sao Mayasvi không thể chỉ bị归 vào phân loại 「lễ hội」. Lễ hội thường gợi lên một mốc thời gian một năm một lần. Mayasvi lại xâu chuỗi lại quan hệ họ, học ca hát, tu sửa hội sở, không gian thiêng liêng và thương lượng công cộng trong cả năm. Nghi lễ là những ngày nhìn thấy được, còn kuba và đạo đức bộ lạc mới là phần vẫn vận hành trong những ngày còn lại.
 
-Khi ngọn lửa tiếp theo được đưa vào nơi hội tụ ở Alishan, người Tsou không chỉ đón tiếp thần linh, cũng không phải là một "bản trình diễn truyền thống" có thể sao chép. Họ đang đón tiếp một câu hỏi: trong cuộc sống mới, ai sẵn sàng trở lại, ai nhớ cách hát, và ai chịu trách nhiệm giữ cột cùng nhau. Mayasvi không bao bình diệt câu trả lời. Nó mỗi năm lại đặt ra câu hỏi.
+Khi lần sau lửa được đón vào hội sở trên núi A-li, người Tsou đón chào không chỉ thần linh, cũng không phải một đoạn 「biểu diễn truyền thống」 có thể sao chép. Họ đón chào một câu hỏi: trong cuộc sống mới, ai nguyện quay về, ai nhớ cách hát, ai chịu trách nhiệm buộc cột vào nhau. Mayasvi không phong bế câu trả lời. Nó mỗi năm đặt lại câu hỏi.
 
-Điều này cũng cho "bảo tồn" một nghĩa khác biệt so với trưng bày tĩnh lặng. Bảo tồn không phải là đóng băng nghi lễ tại một năm cụ thể, mà là bảo tồn quyền lực của cộng đồng quyết định ngày tháng, sửa chữa nơi hội tụ, phân công vai trò, hạn chế cách nhìn và giải thích những thay đổi. Chừng nào những quyết định này vẫn quay trở lại cho bộ lạc, Mayasvi không phải là bóng đổ của quá khứ, mà là cuộc sống công cộng hiện tại.
+Điều này cũng khiến 「bảo tồn」 mang ý nghĩa khác với trưng bày tĩnh. Bảo tồn không phải đóng băng nghi lễ ở một năm nào đó, mà là bảo tồn quyền của người dân quyết định ngày lễ, tu sửa hội sở, sắp xếp vai trò, hạn chế quan sát và giải thích sự thay đổi. Miễn là các quyết định này vẫn quay về bộ lạc, Mayasvi không phải là bóng ma của quá khứ, mà là đời sống công cộng ở hiện tại.
 
-Đối với những người lần đầu nghe tới tên gọi này, cánh cửa tốt nhất không phải là nhớ một loạt tên gọi nghi lễ, mà là nhớ ba vật liên quan: ngọn lửa được mang vào đài lễ, cây đại thọ để lại ba nhánh, và cây cột cũ được buộc vào cột mới. Ngọn lửa chỉ về thời gian chung, cây đại thọ chỉ về con đường thiêng liêng, cây cột cũ chỉ về mối quan hệ thế hệ không bị cắt đứt. Ba vật này gần với "cổ xưa" và "bí ẩn" hơn là trọng lượng thực sự của Mayasvi.
+Đối với người lần đầu nghe tên này, lối vào tốt nhất có lẽ không phải ghi nhớ một danh sách dài tên nghi lễ, mà là ghi nhớ ba vật liên kết: một đống lửa được đón vào nơi thờ, một cây sung đỏ để lại ba nhánh, một cột cũ buộc bên cạnh cột mới. Lửa chỉ về thời gian chung, sung đỏ chỉ về con đường thiêng liêng, cột cũ chỉ về mối quan hệ thế hệ không bị cắt đứt. Ba vật này gần với trọng lượng thực tế của Mayasvi hơn là 「cổ xưa」 「thần bí」.
 
-Chúng cũng nhắc nhở người đọc rằng lõi của nghi lễ không chỉ nằm ở khoảnh khắc múa hát sôi động nhất. Công việc bền bỉ nhất xảy ra vào những khoảnh khắc ngọn lửa được chuẩn bị, cây được cắt tỉa, cột được giữ lại, và cộng đồng học cách tiếp cận và rút lui.
+Chúng cũng nhắc nhở người đọc, cốt lõi của nghi lễ không chỉ ở khoảnh khắc hát múa sôi động nhất. Công việc thực sự bền vững xảy ra khi lửa được chuẩn bị, cây được tỉa, cột được giữ lại, cũng như trong mỗi quyết định của người dân học cách khi nào tiến gần, khi nào lùi lại.
 
-Những công việc này không nhất thiết phải được máy quay ghi lại, nhưng chúng là điều kiện để nghi lễ kéo dài.
+Những công việc này không nhất thiết đều được quay bởi ống kính, nhưng là điều kiện để nghi lễ được duy trì.
 
-Chúng giúp ngọn lửa của Mayasvi không chỉ chiếu sáng một đêm, mà còn chiếu sáng cách mà bộ lạc truyền ký ức cho thế hệ kế tiếp.
+Chúng để lửa Mayasvi không chỉ rọi sáng một đêm, mà cũng rọi sáng cách bộ lạc trao ký ức cho thế hệ sau.
 
 ## Đọc thêm
 
-- [Ủy ban Dân tộc Bản địa: Giới thiệu dân tộc Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65)
-- [Dân tộc Bản địa: Lễ hội chiến tranh của người Tsou Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151)
-- [Mạng lưới bảo vệ trí tuệ sáng tạo truyền thống dân tộc bản địa: Nơi hội tụ nam giới của cộng đồng Đài Bắc của người Tsou](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005)
-- [Taiwan News: Khi tháng Hai mang lại một Năm Mới khác biệt: Khám phá thế giới dân tộc bản địa của Đài Loan và Mayasvi của người Tsou](https://www.tcn.tw/news/6784674)
+- [Ủy ban Dân tộc Nguyên gốc: Giới thiệu về nhóm dân tộc Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65)
+- [Văn헌 Dân tộc Nguyên gốc: Lễ tế chiến tranh Mayasvi của người Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151)
+- [Mạng lưới Thông tin Bảo vệ Sáng tạo Trí tuệ Truyền thống của Dân tộc Nguyên gốc: Hội sở nam giới xã Dabang của người Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005)
+- [Taiwan News: Khi tháng Hai mang lại một năm mới khác biệt: Bên trong thế giới người bản địa Đài Loan và Mayasvi của người Tsou](https://www.tcn.tw/news/6784674)
 
 ## Tài liệu tham khảo
 
-[^1]: [Ủy ban Dân tộc Bản địa: Giới thiệu dân tộc Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Tài liệu chính thức của dân tộc giải thích phân phối của người Tsou, lễ hội theo mùa, kiến trúc kuba, tổ chức gia đình và chức năng công cộng của bộ lạc.
+[^1]: [Ủy ban Dân tộc Nguyên gốc: Giới thiệu về nhóm dân tộc Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Tài liệu chính thức về nhóm dân tộc giải thích về phân bố, lễ hội theo mùa, kiến trúc kuba, tổ chức họ hàng và chức năng công cộng của bộ lạc.
 
-[^2]: [Mạng lưới bảo vệ trí tuệ sáng tạo truyền thống dân tộc bản địa: Nơi hội tụ nam giới của cộng đồng Đài Bắc của người Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Hồ sơ sáng tạo trí tuệ truyền thống của cộng đồng Đài Bắc, ghi nhận kỹ thuật xây dựng, kích thước, vật phẩm biểu tượng, cây thần và ý nghĩa xã hội văn hóa.
+[^2]: [Mạng lưới Thông tin Bảo vệ Sáng tạo Trí tuệ Truyền thống của Dân tộc Nguyên gốc: Hội sở nam giới xã Dabang của người Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Vụ án sáng tạo trí tuệ truyền thống do xã Dabang đề xuất, ghi chép phương pháp xây dựng, kích thước, vật phẩm tượng trưng, cây thần hoa thần và ý nghĩa xã hội văn hóa.
 
-[^3]: [Bản đồ văn hóa tôn giáo Đài Loan: Lễ hội Mayasvi của bộ lạc Tsou, Alishan](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Bản đồ văn hóa tiếng Anh của Bộ Nội các giới thiệu về việc điều chỉnh lịch lễ hội, đón tiếp thần linh, múa hát, lễ kết thúc, kuba và lệnh cấm cho khách tham quan.
+[^3]: [Bản đồ Văn hóa Tôn giáo Đài Loan: Lễ hội Mayasvi của bộ lạc Tsou, núi A-li](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Bản đồ văn hóa tiếng Anh của Bộ Nội vụ giới thiệu quy trình cụ thể về điều chỉnh ngày lễ hội, đón thần, hát múa, lễ kết thúc, kuba và các điều kiêng kỵ cho khách du lịch.
 
-[^4]: [Dân tộc Bản địa: Lễ hội chiến tranh của người Tsou Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pù Chung-yùng tổng hợp bối cảnh lịch sử của lễ hội chiến tranh, tính tập thể, đặc điểm bài ca, sự chú ý du lịch và vấn đề hòa trộn văn hóa hiện đại.
+[^4]: [Văn헌 Dân tộc Nguyên gốc: Lễ tế chiến tranh Mayasvi của người Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Phổ Trung Dũng biên soạn bối cảnh lịch sử, tính tập thể, đặc điểm bài hát tế lễ, cái nhìn du lịch và vấn đề hỗn hợp văn hóa đương đại của lễ tế chiến tranh.
 
-[^5]: [Airiti: Ý nghĩa của lễ hội chiến tranh Tsou hiện đại — Một cách giải đáp sau thuộc địa](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Bài luận học thuật phân tích cách lễ hội chiến tranh được tái cấu trúc liên tục trong bối cảnh hoài niệm, giải phóng, cuộc sống hiện đại và danh tính dân tộc.
+[^5]: [Airiti: Ý nghĩa của lễ tế chiến tranh Tsou đương đại – Một giải đọc hậu thực dân](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Luận văn học thuật dùng lý thuyết hậu thực dân phân tích cách lễ tế chiến tranh liên tục tái cấu trúc giữa hoài cổ, giải thực dân, đời sống hiện đại và chủ thể tính dân tộc.
 
-[^6]: [Lễ hội theo mùa của dân tộc bản địa: Lễ hội chiến tranh của người Tsou Mayasvi (trang 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Sản phẩm xuất bản của dân tộc bản địa sắp xếp các giai đoạn nghi lễ của lễ hội chiến tranh theo lịch âm lịch, bao gồm cả việc xây dựng nơi hội tụ, đón tiếp thần linh, múa hát và hạn chế cho khách tham quan.
+[^6]: [Lễ nghi theo mùa của dân tộc nguyên gốc: Lễ tế chiến tranh Mayasvi của người Tsou (trang 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Sản phẩm xuất bản văn hóa dân tộc nguyên gốc dùng lịch theo mùa 정리 các nghi thức nhiều giai đoạn, xây dựng hội sở, đón thần, hát múa và hạn chế du khách của lễ tế chiến tranh.
 
-[^7]: [Taiwan News: Khi tháng Hai mang lại một Năm Mới khác biệt: Khám phá thế giới dân tộc bản địa của Đài Loan và Mayasvi của người Tsou](https://www.tcn.tw/news/6784674) — Báo cáo tiếng Anh năm 2026 giải thích Mayasvi từ hiện trường lễ hội và bối cảnh của người Tsou, bao gồm cộng đồng hiện đại, ký ức tổ tiên và danh tính văn hóa.
+[^7]: [Taiwan News: Khi tháng Hai mang lại một năm mới khác biệt: Bên trong thế giới người bản địa Đài Loan và Mayasvi của người Tsou](https://www.tcn.tw/news/6784674) — Báo cáo tiếng Anh năm 2026 từ hiện trường lễ hội và bối cảnh người Tsou giải thích về cộng đồng đương đại, ký ức tổ tiên và chủ thể tính văn hóa của Mayasvi.
 
-[^8]: [Báo cáo Quan hệ Hải ngoại: Chứng nhận lễ hội chiến tranh của người Tsou như một phong tục quan trọng của nhà nước](https://ocacnews.net/article/133098) — Tin tức của Trung tâm Tin báo Hải ngoại năm 2011 ghi nhận lễ hội chiến tranh được chỉ định là một phong tục quan trọng của nhà nước, cùng với mô tả về kuba, đạo đức bộ lạc và di sản văn hóa trong báo cáo chứng nhận.
+[^8]: [Tin tức Kiều vụ: Lễ tế chiến tranh của người Tsou được công nhận là Di sản dân俗 quan trọng quốc gia](https://ocacnews.net/article/133098) — Tin tức năm 2011 của Trung ương xã ghi nhận lễ tế chiến tranh được chỉ định là di sản dân俗 quan trọng quốc gia, cũng như mô tả trong báo cáo cấp chứng nhận về kuba, đạo đức bộ lạc và truyền thừa văn hóa.
 
-[^9]: [Wikimedia Commons: Ảnh múa truyền thống của người Tsou ngày 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Ảnh múa truyền thống của người Tsou, nhiếp ảnh gia là người dùng Flickr Xiaoca, theo giấy phép CC BY 2.0, bài viết chỉ nhúng URL gốc.
+[^9]: [Wikimedia Commons: Biểu diễn nhảy truyền thống của người Tsou 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Ảnh chụp nhảy truyền thống của người Tsou, người chụp là người dùng Flickr Xiao Ka, cấp phép CC BY 2.0, bài viết chỉ nhúng URL gốc.

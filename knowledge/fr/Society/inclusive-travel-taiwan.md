@@ -1,13 +1,13 @@
 ---
-title: "Tourisme et culture vies quotidiennes en Taïwan à tous les âges : quand la chaleur humaine devient le meilleur équipement d'accessibilité"
-description: 'Observer, depuis le point de vue familial, comment la société taïwanaise fait évoluer le sens du « voyage en famille » vers une société vieillissante grâce à la bienveillance humaine et aux infrastructures de co-intégration.'
+title: "Tourisme inclusif et culture de vie intergénérationnelle à Taïwan : quand la chaleur humaine devient une infrastructure d'accessibilité"
+description: "Une observation sous l'angle familial de la manière dont la société taïwanaise, grâce à sa chaleur humaine et ses installations inclusives, redéfinit le sens du « voyage en famille » sur la voie vers une société super-âgée."
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Vie à tous les âges et co-intégration',
+    'inclusion intergénérationnelle',
     'tourisme accessible',
-    'société vieillissante',
+    'société super-âgée',
     'culture familiale',
     'résilience sociale',
   ]
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:30+08:00'
+translatedAt: '2026-11-02T15:59:57.821661+00:00'
 ---
 
 > **Résumé en 30 secondes :**

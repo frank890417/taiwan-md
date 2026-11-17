@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-07-29T12:59:27+08:00'
+translatedAt: '2026-11-05T00:31:39.424322+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -48,18 +50,18 @@ O título de "Rei de Hualien" reflete tanto a dependência dos hualienenses em r
 
 ## Referências
 
-[^1]: [O Fu Kun-chi de duas faces — perscrutando o fenômeno do Rei de Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - The Reporter
+[^1]: [Fu Kun-chi de Duas Caras — Perscrutando o Fenômeno do Rei de Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - The Reporter
 
-[^2]: [Nomeia esposa como vice — Fu Kun-chi condenado a 6 meses por divórcio fictício](https://news.tvbs.com.tw/politics/53325) — TVBS News: Tribunal Distrital de Hualien condena Fu Kun-chi a 6 meses e Hsu Chen-wei a 4 meses por falsificação de documentos (Tribunal Distrital de Hualien, processo criminal n.º 358 de 2010)
+[^2]: [Nomeia Esposa como Vice; Fu Kun-chi Condenado a 6 Meses por Divórcio Falso](https://news.tvbs.com.tw/politics/53325) — TVBS News: Tribunal Distrital de Hualien condena Fu Kun-chi a 6 meses e Hsu Chen-wei a 4 meses por falsificação de documentos (Sentença Criminal nº 358 de 2010 do Tribunal Distrital de Hualien)
 
-[^3]: [Caso de manipulação de ações de Fu Kun-chi confirmado em última instância: por que foi destituído como magistrado mas pôde entrar na prisão mantendo o cargo de deputado?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang: reportagem da United Daily News
+[^3]: [Caso de Manipulação de Ações de Fu Kun-chi Transitado em Julgado: Por que foi Destituído como Magistrado do Condado, mas Pode Cumprir Pena como Legislador?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang: Reportagem da United Daily News
 
-[^4]: [Caso de manipulação da Kaiju por Fu Kun-chi: sentença de 2 anos e 10 meses confirmada em última instância, deve entrar na prisão](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Agência Central de Notícias: Supremo Tribunal rejeita recurso em 14 de maio de 2020, confirmando a sentença
+[^4]: [Caso de Manipulação da Kaiju por Fu Kun-chi: Condenação de 2 Anos e 10 Meses Transitada em Julgado, Deve Cumprir Pena](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency: Supremo Tribunal rejeita recurso em 14 de maio de 2020, confirmando a condenação
 
-[^5]: [Do Rei de Hualien ao tirano do parlamento: analisando o mito do poder de Fu Kun-chi e a crise de complacência do KMT!](https://newcongress.tw/?p=32791) — Nova Assembleia Cidadã, autor Chin Ching (o termo "tirano do parlamento" provém do título deste artigo)
+[^5]: [Do Rei de Hualien ao Tirano do Parlamento: Análise do Mito do Poder de Fu Kun-chi e da Crise de Complacência do KMT!](https://newcongress.tw/?p=32791) — Nova Assembleia de Cidadãos, autor Qin Jing (o termo 'Tirano do Parlamento' origina-se do título deste artigo)
 
-[^6]: [Visita à China em meio a controvérsia sobre o sismo: Fu Kun-chi — reconstrução pós-desastre é tarefa prioritária](https://www.cna.com.tw/news/acn/202404270082.aspx) — Agência Central de Notícias: em abril de 2024, durante réplicas contínuas em Hualien, lidera delegação a Pequim; vice-diretor do Escritório de Assuntos de Taiwan, Pan Hsien-chang, recebe no aeroporto e acompanha durante toda a visita
+[^6]: [Visita à China em Meio a Controvérsia de Terremoto: Fu Kun-chi: Reconstrução e Revitalização Pós-Desastre são Tarefas Importantes](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency: Em abril de 2024, durante réplicas contínuas em Hualien, lidera delegação a Pequim; vice-diretor do Escritório de Assuntos de Taiwan, Pan Xianzhang, recebe no aeroporto e acompanha durante toda a visita
 
-[^7]: [[Fu Kun-chi novamente na tempestade] Família domina Hualien há mais de 30 anos: controvérsias de Fu Kun-chi num relance](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo Notícias (Mirror Media)
+[^7]: [[Fu Kun-chi Novamente no Olho do Furacão] Família Domina Hualien há Mais de 30 Anos: Controvérsias de Fu Kun-chi de Uma Só Vez](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Mirror Weekly)
 
-[^8]: [Magistrado de cinco estrelas VS Rei de Hualien: qual é o verdadeiro Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter, série "O Fu Kun-chi de duas faces", edição de perfil
+[^8]: [Magistrado de Cinco Estrelas VS Rei de Hualien: Qual é o Verdadeiro Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter: Episódio de Perfil da Série 'Fu Kun-chi de Duas Caras'

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-08-04T06:18:10+08:00'
+translatedAt: '2026-11-04T21:53:44.652362+00:00'
 ---
 
 # चेंग चाओ-त्सुन: 2017 विश्व विश्वविद्यालय खेलों में अंतिम थ्रो 91.36 मीटर, एशियाई भाला फेंक तब से अलग

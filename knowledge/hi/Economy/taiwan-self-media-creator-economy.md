@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-16T19:20:56+08:00'
+translatedAt: '2026-11-06T14:36:56.413734+00:00'
 ---
 
 > ताइवान का इन्फ्लुएंसर विज्ञापन बाजार लगभग 210 मिलियन अमेरिकी डॉलर का है, जो अमेरिका के 1% से भी कम है। लेकिन ताइवान का एक मध्यम स्तर का क्रिएटर अक्सर 5-7 प्लेटफॉर्म्स—YouTube, IG, Facebook, Threads, Podcast, ब्लॉग और LINE—एक साथ चलाता है, जो अमेरिका के समान स्तर के क्रिएटर्स की तुलना में लगभग दोगुना है। बाजार छोटा है, प्लेटफॉर्म बिखरे हुए हैं, और कमाई सब्सक्रिप्शन के बजाय एफिलिएट मार्केटिंग पर निर्भर है; यह पूरी तरह से अलग नियमों वाला खेल है।

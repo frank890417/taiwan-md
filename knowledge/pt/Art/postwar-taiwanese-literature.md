@@ -2,27 +2,30 @@
 title: 'Literatura taiwanesa do pós-guerra: do que não se podia dizer, aprender a como dizer (1945-1987)'
 description: 'Em agosto de 1945, Yeh Shih-tao, aos 20 anos, desmobilizou-se do Exército Imperial Japonês e regressou a Tainan; abriu o papel de manuscrito e não conseguiu escrever um único caractere chinês. Essa folha em branco haveria de esperar 42 anos. Pelo meio: afasia, prisão, polémicas, aprender a contornar. Em fevereiro de 1987, publicou um livro de 232 páginas cujo título continha apenas as duas caracteres "Taiwan".'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '文學'
 tags:
-  - 'Literatura do pós-guerra'
-  - 'Polémica da literatura nativista'
-  - 'Modernismo'
-  - 'Yeh Shih-tao'
-  - 'Pai Hsien-yung'
-  - 'Wang Wen-hsing'
-  - 'Li Ang'
-  - 'Ruptura linguística'
-  - 'Período da lei marcial'
+  [
+    'Literatura do pós-guerra',
+    'Polémica da literatura nativista',
+    'Modernismo',
+    'Yeh Shih-tao',
+    'Pai Hsien-yung',
+    'Wang Wen-hsing',
+    'Li Ang',
+    'Ruptura linguística',
+    'Período da lei marcial',
+  ]
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ccb549fdb85f9bc6'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-07-25T15:39:18+08:00'
+translatedAt: '2026-11-02T14:03:08.752402+00:00'
 ---
 
 > **Visão geral em 30 segundos**: Durante 42 anos de pós-guerra (1945-1987), o meio literário de Taiwan viveu sob condições de "não se poder dizer": não se podia dizer em japonês, não se podia dizer 228, não se podia dizer que Taiwan era algo fora da China, não se podia dizer nativista. Mas cada geração de escritores usou diferentes contornos para aprender "como dizer". Yeh Shih-tao, da folha em branco de 1945 até ao _Esboço da História da Literatura de Taiwan_ de 232 páginas em 1987, passou por afasia, três anos de prisão, silêncio de mais de dez anos, o ensaio de 1965 "A literatura nativista de Taiwan", a frase de 1985 "Sem terra, como haver literatura?". Pai Hsien-yung lia Kafka num abrigo antiaéreo. Wang Wen-hsing gastou sete anos a escrever _Transformação Familiar_, que foi vilipendiado. Lin Hai-yin demitiu-se de editora-chefe adjunta por causa de um poema. Yu Kwang-chung gritou "o lobo vem aí" para atacar a literatura nativista. Li Ang, em 1983, fez Lin Shih empunhar a faca de matar porcos e retalhar o marido. O que esses 42 anos deixaram foi todo um sistema linguístico de contorno.
@@ -155,16 +158,16 @@ Os próximos 42 anos serão escritos por outros.
 
 ---
 
-## Leituras complementares
+## Leitura Complementar
 
-- [Literatura taiwanesa após o fim da lei marcial](/pt/art/post-martial-law-taiwanese-literature) — 1987 fim da lei marcial até 2000: explosão de nativização, género, pluralidade de línguas maternas
-- [Literatura taiwanesa contemporânea](/pt/art/contemporary-taiwanese-literature) — Século XXI: internacionalização de Wu Ming-yi, Lin Yi-han, vaga digital
-- [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Do período holandês, Ming-Qing, japonês, pós-guerra ao contemporâneo: o fio condutor global
-- [Literatura do período japonês](/pt/art/taiwanese-literature-during-japanese-rule) — Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kui: o ponto de partida do período japonês, a outra ponta da afasia do pós-guerra
-- [Lin Hai-yin](/pt/people/lin-liang-childrens-literature) — Editora de suplemento do pós-guerra, promotora da segunda geração _benshengren_
-- [Terror Branco](/history/白色恐怖) — Contexto político da prisão de Yeh Shih-tao, Ilha Verde de Yang Kui, Monte Lukut de Lu Ho-jo
-- [Incidente 228](/pt/history/228-incident) — Impacto de 1947 no meio literário (Wang Teng-teng, Yang Kui, Ye Tao)
-- [Período da lei marcial](/pt/history/martial-law-era) — Condições políticas da atividade literária 1949-1987
+- [Literatura de Taiwan após o fim da lei marcial](/pt/art/post-martial-law-taiwanese-literature) — A explosão de diversidade local, de gênero e de línguas nativas entre o fim da lei marcial em 1987 e o ano 2000.
+- [Literatura contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — O século XXI, a internacionalização de Wu Ming-yi, Lin Yi-han e a onda digital.
+- [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — O contexto geral desde o período holandês, as dinastias Ming e Qing, o período do domínio japonês, o pós-guerra até a contemporaneidade.
+- [Literatura durante o período do domínio japonês](/pt/art/taiwanese-literature-during-japanese-rule) — O ponto de partida de Lai Ho, Lu Ho-jo, Chang Wen-huan e Yang Kui sob o domínio japonês; o outro extremo da mudez literária do pós-guerra.
+- [Lai Ho](/pt/people/lin-liang-childrens-literature) — Fundador da literatura infantil que atravessou o mar para Taiwan no pós-guerra; com uma carreira de 57 anos no _Guoyu Ribao_, a sua "arte da linguagem simples" definiu o ponto de partida literário de várias gerações de crianças taiwanesas no pós-guerra.
+- [Terror Branco](/pt/history/taiwan-white-terror) — O contexto político por trás da prisão de Yeh Shih-tao, do exílio de Yang Kui em Green Island e de Lu Ho-jo em Lukeng.
+- [Incidente 228](/pt/history/228-incident) — O impacto de 1947 no mundo literário (Wang Tien-tung, Yang Kui, Yeh Tao).
+- [Período da lei marcial](/pt/history/martial-law-era) — As condições políticas das atividades literárias entre 1949 e 1987.
 
 ---
 

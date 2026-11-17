@@ -2,12 +2,15 @@ id: 出圈
 category: slang
 fork_type: E
 display:
-  taiwan: 爆紅 / 破圈 / 打入主流
-  china: 出圈
+  taiwan: 爆紅 / 打入主流
+  china: 出圈 / 破圈
 etymology:
   origin: 源自中國「飯圈」（追星社群）用語，指原本只在小眾同好圈子（圈）內流行的人事物擴散到主流大眾視野，隨陸劇、中國選秀節目與短影音文化傳入台灣年輕世代的日常用語。台灣傳統說法是「爆紅」「翻紅」「打入主流」。
-notes: 用法脈絡明確源自中國飯圈文化，屬長期穩定使用的中國網路用語（非本輪新造詞），誤判風險低。
+notes: 用法脈絡明確源自中國飯圈文化，屬長期穩定使用的中國網路用語（非本輪新造詞），誤判風險低。2026-11-05 修正：破圈原本列在台灣欄，但它是由出圈演化的同組中國網路用語，移到中國欄。台灣媒體已直接使用破圈（自由時報 2026-10-05、udn 2023-11-27），查不到取代說法，算已收編。
 sources:
   - https://dailyview.tw/popular/detail/24074
+  - https://woman.udn.com/woman/story/123165/7600963
+  - https://news.ltn.com.tw/news/politics/breakingnews/5595594
+  - https://cssn.cn/skgz/bwyc/202610/t20261009_6072108.shtml
 added: '2026-08-05'
-updated: '2026-08-05'
+updated: '2026-11-05'

@@ -1,20 +1,22 @@
 ---
-title: '地震：地牛と踊る島の記憶'
-description: 'なぜ外国人はパニックになるのに、台湾人はラーメンが煮えたかどうかだけ気にするのか？清代の「地生毛」から921の102秒まで、この島がいかに災害を日常に内面化してきたかを辿ります。'
+title: '地震：地牛と共に踊る島の記憶'
+description: 'なぜ外国人はひどく怯えるのに、台湾人はカップ麺が伸びていないかばかりを気にするのでしょうか？清朝統治時代の「地生毛」から921大地震の102秒まで、この島がいかにして災厄を日常へと内面化してきたのかを紐解きます。'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'Society'
+tags: ['文化', '日常', '歴史', '災害の記憶', '地牛の伝説']
 subcategory: '社會韌性'
-tags: ['文化', '日常', '歷史', '災難記憶', '地牛傳說']
-readingTime: 6
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-05-01T18:02:56+08:00'
-featured: false
+translatedAt: '2026-11-04T17:28:40.443516+00:00'
 ---
 
 > **30秒概要：** 台湾はプレートの境界に位置しており、地震はこの島の宿命です。本記事は、台湾独自に生まれた「地牛翻身」の伝説に始まり、清代の異象記録から921大地震の制度的転換までを辿り、台湾人が恐怖から「泰然自若」へと至る過程、そして揺れの中でいかに世界レベルの防災レジリエンスを築き上げたかを考察します。

@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T07:05:49.951186+00:00'
 ---
 
 > **30 Sekunden Überblick:** Huang Guangxiong (1937–2021), Begründer der taiwanesischen Curriculierungstheorie. Promotion in Bildungswissenschaften an der Taiwan Normaluniversität, Forschungsaufenthalt am Institute of Education der Londoner Universität (heute UCL IOE). War Dekan der Fakultät für Bildungswissenschaften an der Normaluniversität, Direktor der Staatlichen Schulausbildung in Hsinchu und Gründungsleiter des Instituts für Bildungswissenschaften sowie der Fakultät für Bildungswissenschaften an der Nationalen Chung Cheng University. Er brachte westliche Curriculierungstheorien systematisch nach Taiwan, redigierte Lehrbücher wie „Einführung in die Bildung“ und „Unterrichtsprinzipien“, übersetzte „Qualitative Bildungsforschung“ und beteiligte sich direkt an der Planung des K-12-Lehrplans des Bildungsministeriums. Starb am 4. Februar 2021, im Alter von 84 Jahren.

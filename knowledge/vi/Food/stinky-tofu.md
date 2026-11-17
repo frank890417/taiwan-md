@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/臭豆腐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: '2026-07-26T08:50:49+08:00'
+translatedAt: '2026-11-05T01:52:54.824209+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Đậu phụ thối là món ăn vặt phổ biến nhất của Đài Loan, đồng thời là một trong những món có tính tranh cãi và đại diện nhất. Nguồn gốc từ sự không may của học sinh năm xưa, nó đã phát triển thành công nghệ lên men sinh sống độc đáo ở Đài Loan. Từ đậu phụ thối ngọt thanh và thơm lạ trong phố cổ Đài Bắc, đến kỷ nghệ cứu hộ ba nhiệt độ dầu ở Cầu đầu Đài Trung, bài viết sẽ giải thích tại sao mùi hôi khiến người ta thở khó chịu lại có thể thu hút chuyên gia lên men của Nhật Bản đổ xuống, thậm chí trở thành biểu tượng của sức mạnh văn hóa tại Đài Loan.

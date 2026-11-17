@@ -2,19 +2,21 @@
 title: '劉銘伝：台湾初の電灯をともし、権力と論争の中を駆け抜けた近代化の先駆者'
 description: '塩の密売者の子から台湾初代巡撫へ。劉銘伝は台湾での六年間に鉄道と郵政を推進しただけでなく、台北城内に大清帝国初の電灯をともしました。しかし、その「基隆撤退・滬尾支援」という戦略判断と、性急な理蕃・清賦政策もまた、歴史の流れの中に深い論争と影を残しました。'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags: ['劉銘伝', '台湾史', '台北城', '近代化', '清仏戦争', '電力建設']
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T20:57:00.065950+00:00'
 ---
 
 > **30秒概観：** 1884年の清仏戦争の砲火は、劉銘伝（りゅう・めいでん／リウ・ミンチュアン）を台湾史の転換点へと押し上げました。彼は外敵の侵攻を防いだだけでなく、その後、巡撫を務めた六年間で、台北を大清帝国で最も先進的な都市の一つへとつくり上げました。そこには最初の旅客鉄道、最初の電灯、そして最初期の西洋式学校がありました。しかし、この「近代化の第一人者」の施政は順風満帆ではありませんでした。戦場での撤退判断と内政における高圧的な政策は、今日に至るまで史学界で議論が続く焦点となっています。
@@ -56,24 +58,24 @@ translatedAt: '2026-06-17T00:36:20+08:00'
 
 ## 参考資料
 
-[^1]: 曾沅芷. (2024, July 6). 【台湾通史】先見の明に富む先駆者だったのか、それとも混乱をもたらした野心家だったのか？劉銘伝の台湾における六年の風雲. 故事. [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan)
+[^1]: [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan) — 曾沅芷. (2024, July 6). 【台湾通史】先見の明に富む先駆者だったのか、それとも混乱をもたらした野心家だったのか？劉銘伝の台湾における六年の風雲. 故事
 
-[^2]: 黃暐婷. (n.d.). 劉銘伝. 国家文化記憶庫. [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191)
+[^2]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191) — 黃暐婷. (n.d.). 劉銘伝. 国家文化記憶庫
 
-[^3]: 郵政博物館. (n.d.). 龍馬切手. [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63)
+[^3]: [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63) — 郵政博物館. (n.d.). 龍馬切手
 
-[^4]: 一刻鯨選. (2023, September 22). 台湾を本気で愛した最初の人物！劉銘伝と彼の「劉伯の大きな夢」. 琅琅悦読. [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846)
+[^4]: [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846) — 一刻鯨選. (2023, September 22). 台湾を本気で愛した最初の人物！劉銘伝と彼の「劉伯の大きな夢」. 琅琅悦読
 
-[^5]: Podcasts. (2022, July 21). EP58 劉銘伝──台湾近代化の第一人者. Apple Podcasts. [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731)
+[^5]: [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731) — Podcasts. (2022, July 21). EP58 劉銘伝──台湾近代化の第一人者. Apple Podcasts
 
-[^6]: 台湾初代巡撫・劉銘伝が近代化の基礎を築く. (2015, July 23). 大紀元. [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm)
+[^6]: [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm) — 台湾初代巡撫・劉銘伝が近代化の基礎を築く. (2015, July 23). 大紀元
 
-[^7]: 李藝. (2019, September 30). 【コラム】清仏戦争 歴史再現 シリーズ特集（八） 基隆撤退・滬尾支援 劉銘伝が台北城を守る. 新北市立淡水古蹟博物館. [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304)
+[^7]: [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304) — 李藝. (2019, September 30). 【コラム】清仏戦争 歴史再現 シリーズ特集（八） 基隆撤退・滬尾支援 劉銘伝が台北城を守る. 新北市立淡水古蹟博物館
 
-[^8]: 台湾電力公司. (2025, August 25). 台湾に現存する最古の発電機は、この学校の中にあります！. 電力故事館. [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost)
+[^8]: [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost) — 台湾電力公司. (2025, August 25). 台湾に現存する最古の発電機は、この学校の中にあります！. 電力故事館
 
-[^9]: 台北城の変遷. (n.d.). 台湾科技大学建築系. [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm)
+[^9]: [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm) — 台北城の変遷. (n.d.). 台湾科技大学建築系
 
-[^10]: 歴史教科書が書かなかった真実：フランス軍を撃退したのは実は劉銘伝ではなかった. (2025, December 11). Threads. [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/)
+[^10]: [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/) — 歴史教科書が書かなかった真実：フランス軍を撃退したのは実は劉銘伝ではなかった. (2025, December 11). Threads
 
-[^11]: 台北城線. (n.d.). 台北市教師研習中心. [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm)
+[^11]: [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm) — 台北城線. (n.d.). 台北市教師研習中心

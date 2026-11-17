@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-09-10T10:26:29+08:00'
+translatedAt: '2026-11-07T10:50:09.834246+00:00'
 ---
 
 # Lin Yi-hsiung: Dari Anggota Dewan Provinsi Taiwan hingga Simbol Moral Anti-Nuklir
@@ -75,19 +77,19 @@ Penilaian terhadapnya hingga hari ini terpecah: pendukung melihatnya sebagai sim
 
 ## Referensi
 
-[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — ikhtisar biografis, anggota dewan provinsi 1977, ketua DPP ke-8 pertama dipilih langsung, catatan MPA Harvard 1987. Lihat juga[Pusat Verifikasi Fakta Taiwan: Klarifikasi pengunduran diri Lin Yi-hsiung 2006](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
+[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Ringkasan kehidupan, anggota Dewan Perwakilan Rakyat Provinsi Taiwan 1977, ketua ke-8 DPP 1998 pertama dipilih langsung, catatan MPA Harvard 1987. Lihat juga [Pusat Pemeriksa Fakta Taiwan: Lin Yi-hsiung 2006 Penjelasan Keluar Partai](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Peristiwa Formosa — Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/) — perjalanan Peristiwa Formosa 1979, daftar orang-orang yang ditangkap dan data pengadilan militer.
+[^2]: [Insiden Kaohsiung — Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/) — Kronologi Insiden Kaohsiung 1979, daftar tertangkap, dan data pengadilan militer.
 
-[^3]: [Tragedi Keluarga Lin — Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/w/nhrm/home) — arsip kejadian tragedi keluarga Lin dan keterangan keadaan tidak terpecahkan hingga sekarang.
+[^3]: [Kasus Pembunuhan Keluarga Lin — Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/w/nhrm/home) — Arsip kasus pembunuhan keluarga Lin dan penjelasan status belum terungkap.
 
-[^4]: [Sejarah Partai Progresif Demokratik — Situs Resmi DPP](https://www.dpp.org.tw/) — proses pembentukan dan catatan organisasi partai periode Lin Yi-hsiung sebagai ketua 1998–2000. Lihat juga[Taipei Times: Mantan ketua DPP meninggalkan partai (25 Januari 2006)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) mencatat proses pengunduran diri pada 24 Januari 2006.
+[^4]: [Sejarah Partai Demokrasi Progresif — Situs Resmi DPP](https://www.dpp.org.tw/) — Proses pembentukan partai dan catatan kepartai'an selama masa jabatan Lin Yi-hsiung sebagai ketua DPP 1998-2000. Lihat juga [Taipei Times: Mantan Ketua DPP Keluar dari Partai (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) mencatat proses keluar partai 2006/1/24.
 
-[^5]: [Situs Resmi Dana Pendidikan Tzu Lin](https://www.tzlin.org.tw/) — tujuan dana pendidikan, pengenalan kompleks Tzu Lin dan informasi kegiatan.
+[^5]: [Situs Resmi Yayasan Pendidikan Cilin](https://www.tzlin.org.tw/) — Tujuan yayasan, pengenalan area Cilin, dan informasi kegiatan.
 
-[^6]: [Laporan Aksi Anti-Reaktor Empat 2014 — Liberty Times](https://news.ltn.com.tw/) — konfirmasi perjalanan aksi puasa Lin Yi-hsiung April 2014 dan keputusan penghentian operasi Reaktor Empat.
+[^6]: [Laporan Puasa Menentang Nuklir Ke-4 Tahun 2014 — Liberty Times](https://news.ltn.com.tw/) — Konfirmasi rincian aksi puasa Lin Yi-hsiung April 2014 dan keputusan penghentian pembangunan serta pengurungan PLTN Nuklir Ke-4.
 
-[^7]: [Sejarah Gerakan Anti-Nuklir — Green Citizens' Action Alliance](https://gcaa.org.tw/) — konteks sejarah gerakan anti-nuklir Taiwan dan pencatatan peran Lin Yi-hsiung.
+[^7]: [Sejarah Gerakan Anti Nuklir — Aliansi Aksi Warga Hijau](https://gcaa.org.tw/) — Konteks sejarah gerakan anti nuklir di Taiwan dan catatan peran Lin Yi-hsiung.
 
 ## Bacaan Lanjutan
 

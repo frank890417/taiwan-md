@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: 'c8d8d3ad4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-10-15T17:27:50.608596+00:00'
+translatedAt: '2026-11-04T21:20:07.789662+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

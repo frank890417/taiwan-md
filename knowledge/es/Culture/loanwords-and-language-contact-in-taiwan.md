@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 terminology_exempt: true
-translatedFrom: Culture/台灣外來語與語言接觸.md
-sourceCommitSha: '4b6d28c54'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/台灣外來語與語言接觸.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-09-27T23:29:50+08:00'
+translatedAt: '2026-11-05T07:01:51.371510+00:00'
 ---
 
 > **Resumen en 30 segundos:** El fenómeno de los préstamos lingüísticos que los taiwaneses suelen criticar con mayor frecuencia es, en realidad, un reflejo de que Taiwán mismo es el laboratorio más exitoso del mundo para la integración de palabras prestadas.

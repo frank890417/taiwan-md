@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: 'The large character "gong" shows its Big5 codes A5 and 5C, where the 5C slot points to the ASCII backslash (0x5C); below is Python''s actual output showing that the second byte of *Xu Gong Gai* are all backslashes.'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:13+08:00'
+translatedAt: '2026-11-06T15:53:30.443405+00:00'
 ---
 
 > **30-Second Overview:** I ran the translation status script, and the screen showed 4546 paths, all in `root`. The Linux CI on GitHub was green. Only later did I see two things. Windows path backslashes couldn't be separated by the script using forward slashes. The latter half of "gong"'s Big5 code is itself the ASCII `\`. These two mechanisms are different but often appear together on a Traditional Chinese Windows machine.

@@ -2,9 +2,7 @@
 title: '台湾の海洋生態系とサンゴ礁保全'
 description: '台湾は四方を海に囲まれ、豊かな海洋生態系を有しています。サンゴ礁の白化危機からクジラ・イルカの保全まで、海洋国立公園の保護成果と今後の課題を探ります。'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '國家公園與步道'
 tags:
   [
     '海洋生態系',
@@ -14,15 +12,19 @@ tags:
     '海洋保護区',
     '生物多様性',
   ]
-readingTime: 13
+subcategory: '國家公園與步道'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-05-01T18:02:56+08:00'
+translatedAt: '2026-11-04T18:56:07.659122+00:00'
 ---
 
 # 台湾の海洋生態系とサンゴ礁保全

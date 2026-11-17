@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-04T17:57:24.005460+00:00'
 ---
 
 # Hợp tác xã: Thí nghiệm dân chủ biến mất ở cổng trường và hương thơm bánh nướng

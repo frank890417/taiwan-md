@@ -10,6 +10,8 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: incubating
+curationReason: unverified
 ---
 
 # AI島國的崛起：台灣人工智慧發展與未來策略

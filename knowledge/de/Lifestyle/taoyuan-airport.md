@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 5
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:47:33.409347+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Der Taoyuan Flughafen ist die einzige starke Verbindung Taiwans zur Welt und das ehrgeizigste Projekt der Großprojekte. Er trug einst den autoritären Schatten des politischen Namenswechsels vor seiner Inbetriebnahme im Jahr 1979 und wurde durch einen Gewittersturm im Jahr 2016 zu einem „Wasserflughafen“ in Frage gestellt. Nach acht Jahren Verzögerung beim dritten Terminal und einer Budgeterhöhung auf 128,3 Milliarden Dollar signalisierte die Eröffnung des Nord-Abflugkorridors Ende 2025 und die starke Erholung mit über zehn Millionen Passagieren Anfang 2026 einen beschleunigten Anschluss an die asiatische Führungsgruppe. Dies ist nicht nur ein Flughafenausbau, sondern ein Verteidigungskampf Taiwans um seinen Status als Drehkreuz zwischen Nordamerika und Südostasien im geopolitischen Wandel nach der Pandemie.

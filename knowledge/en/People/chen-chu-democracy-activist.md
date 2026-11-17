@@ -2,18 +2,20 @@
 title: 'Chen Chu'
 description: "From death-row prisoner at Meilidao to the South's all-powerful 'Mama Mayor' — she is the most vivid witness to Taiwan's democratic transition."
 date: 2026-04-17
-tags: ['politics', 'democracy movement', 'Kaohsiung', 'human rights']
 category: 'People'
+tags: ['politics', 'democracy movement', 'Kaohsiung', 'human rights']
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-05-01T12:53:58+08:00'
+translatedAt: '2026-11-04T23:24:27.651699+00:00'
 ---
 
 > **30-second overview:**

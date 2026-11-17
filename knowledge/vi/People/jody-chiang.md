@@ -1,13 +1,13 @@
 ---
-title: 'Giang Huệ: Thiên hậu nhạc Đài ngữ xuất thân từ Nakasi Beitou'
-description: 'Giang Huệ (tên thật Giang Thục Huệ, sinh năm 1961 tại Cao Hùng) đã cùng gia đình chuyển đến Đài Bắc vào năm 9 tuổi và bắt đầu hát rong tại các quán Nakasi ở Beitou. Năm 1992, album "Tiếng lòng sau cơn say" đạt doanh số 1,16 triệu bản tại Đài Loan, là album nhạc Đài ngữ duy nhất vượt mốc triệu bản theo ghi chép chính thức. Bà giành giải Nữ ca sĩ xuất sắc nhất tại Giải Kim Khúc bốn năm liên tiếp từ 2000 đến 2003, tuyên bố ngừng hát vào năm 2015 và tái xuất trong đêm nhạc Quốc khánh tại Đại Cự Đàm năm 2024.'
+title: 'Giang Huệ: Nữ ca sĩ nhạc Đài Loan xuất thân từ Nakasi Beitou'
+description: 'Giang Huệ (tên thật là Giang Thục Huệ, sinh năm 1961 tại Cao Hùng) đã cùng gia đình chuyển đến Đài Bắc vào ban đêm khi mới 9 tuổi và bắt đầu hát rong tại các quán Nakasi ở Beitou. Năm 1992, album "Tiếng lòng sau cơn say" đã bán được 1,16 triệu bản tại Đài Loan, là album nhạc Đài Loan duy nhất phá mốc triệu bản theo ghi chép chính thức. Bà đã liên tiếp giành giải Nữ ca sĩ xuất sắc nhất dòng nhạc Đài Loan tại Giải thưởng Âm nhạc Golden Melody trong bốn kỳ từ năm 2000 đến 2003. Sau khi ngừng hát vào năm 2015, bà đã tái xuất tại đêm hội Quốc khánh ở sân vận động Đại Cự Đàm vào năm 2024.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
     'Giang Huệ',
-    'Nhạc Pop Đài ngữ',
-    'Giải Kim Khúc',
+    'Nhạc Pop Đài Loan',
+    'Giải thưởng Golden Melody',
     'Nakasi Beitou',
     'Văn hóa Đài Loan',
   ]
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T10:28:50+08:00'
+translatedAt: '2026-11-02T03:31:51.663177+00:00'
 ---
 
 # Giang Huệ: Xuất thân từ Nakasi, sở hữu album nhạc Đài ngữ duy nhất vượt mốc triệu bản

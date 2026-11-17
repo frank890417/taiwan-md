@@ -5,16 +5,16 @@ date: 2026-04-29
 category: 'Culture'
 tags:
   [
-    Kristen,
-    Sejarah Taiwan,
-    Gereja Presbyterian,
-    George Leslie Mackay,
-    James Laidlaw Maxwell,
-    Frank Dennis,
-    Bjarne Gislefoss,
-    Bantuan AS,
-    Masa Penjajahan Jepang,
-    Mormon,
+    'Kristen',
+    'Sejarah Taiwan',
+    'Gereja Presbyterian',
+    'George Leslie Mackay',
+    'James Laidlaw Maxwell',
+    'Frank Dennis',
+    'Bjarne Gislefoss',
+    'Bantuan AS',
+    'Masa Penjajahan Jepang',
+    'Mormon',
   ]
 subcategory: '宗教與民俗'
 author: 'idlccp1984'
@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-07-25T03:42:40+08:00'
+translatedAt: '2026-11-05T05:25:36.722011+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Perkembangan Kristen di Taiwan adalah marathon panjang dari "kesalahpahaman" menuju "simbiosis". Misionaris abad ke-19 membuka pintu masyarakat dengan "satu tangan Alkitab, satu tangan tang pencabut gigi", dan George Leslie Mackay sendirian mencabut lebih dari 20.000 gigi. Setelah melewati tekanan sembahyang kuil Shinto masa penjajahan Jepang dan era bantuan AS "agama tepung terigu" pasca perang, kekuatan ini pada era hukum darurat beralih ke politik, dengan Gereja Presbyterian mempertaruhkan nyawa menerbitkan _Deklarasi Hak Asasi Manusia_, menjadi suara yang tak terabaikan dalam proses demokratisasi Taiwan. Sementara kini, misionaris Mormon berjas putih hitam yang bersepeda menjadi pemandangan khas lain di jalanan Taiwan.

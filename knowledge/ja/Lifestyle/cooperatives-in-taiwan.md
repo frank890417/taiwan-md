@@ -1,21 +1,23 @@
 ---
 title: '生活協同組合：校門口から消えた民主主義の実験と肉まんの香り'
 description: '1989年、台湾大学の学生会長・羅文嘉（ルオ・ウェンジア）は福利社（購買部）を包囲して教職員・学生の共同出資による生活協同組合への転換を要求した。翌年、教育部が政策を布告し、台湾全土の校内「員生消費合作社（教職員・生徒の消費生活協同組合）」はピーク時に5000社を超えた。30年後、建国高校や景美女子高校などの名門校の生協が次々と閉店し、デリバリープラットフォーム、食品規制、少子化の三重苦に追い込まれて退場している。本稿が問うのは——10元の出資金が消えるとき、台湾が失ったのは肉まんの香りだけでなく、未完の公民教育・労働教育の授業だったのではないかということだ。'
+date: 2026-04-30
 category: 'Lifestyle'
-subcategory: '教育'
 tags:
   ['校园文化', '生活協同組合', '台湾の歴史', '労働教育', '民主経済', '少子化']
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
-date: 2026-04-30
-readingTime: 12
-translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0fc2fc46b99c9535'
-sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-05-01T14:48:26+08:00'
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Lifestyle/合作社.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:0fc2fc46b99c9535'
+sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
+translatedAt: '2026-11-04T17:21:15.875584+00:00'
 ---
 
 # 生活協同組合：校門口から消えた民主主義の実験と肉まんの香り

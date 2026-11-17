@@ -2,9 +2,7 @@
 title: "Séismes : la mémoire d'une île qui danse avec le Bœuf de Terre"
 description: 'Pourquoi les étrangers sont-ils terrifiés alors que les Taïwanais se demandent seulement si leur soupe instantanée a trop cuit ? Des « poils poussant du sol » sous la dynastie Qing aux 102 secondes du séisme du 21 septembre 1999, découvrez comment cette île a intégré la catastrophe dans son quotidien.'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '社會韌性'
 tags:
   [
     'culture',
@@ -13,15 +11,19 @@ tags:
     'mémoire des catastrophes',
     'légende du Bœuf de Terre',
   ]
-readingTime: 6
+subcategory: '社會韌性'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-05-02T01:17:16+08:00'
-featured: false
+translatedAt: '2026-11-04T18:56:25.458957+00:00'
 ---
 
 > **En 30 secondes :** Taïwan se situe à la frontière de plaques tectoniques : les séismes font partie du destin de cet archipel. Cet article part de la légende autochtone du « Bœuf de Terre qui se retourne », traverse les chroniques de phénomènes étranges sous la dynastie Qing jusqu'au tournant institutionnel du séisme du 21 septembre 1999, pour examiner comment les Taïwanais sont passés de la peur à la « sérénité » et ont bâti, dans les secousses, une résilience antisismique de classe mondiale.

@@ -9,6 +9,8 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
+curation: incubating
+curationReason: thin
 ---
 
 > **30 秒概覽：** 噗浪（Plurk）是 2008 年由馬來西亞華裔雲惟彬共同創辦的微網誌平台，在台灣找到了全球最大的使用者基底[^1]。它最獨特的設計是橫向捲動的「河道」時間軸，以及完全不靠演算法推播的社交環境——你看到什麼，取決於你追蹤了誰，不是平台想讓你看什麼。2016 年因平台上的成人內容被 Google 廣告聯播網永久封鎖後，噗浪推出「噗幣」付費會員制，在使用者的支持下轉虧為盈[^2]。到了 2026 年，當 Threads 等新平台掀起微網誌熱潮時，很多人驚訝地發現——噗浪不只還在，而且活得比以往健康。

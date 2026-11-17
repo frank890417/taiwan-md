@@ -1,19 +1,27 @@
 ---
-title: "Taiwan Cement: The Green Transformation Legend of Taiwan's First Listed Company"
-description: "In 1962, the Taiwan Stock Exchange was established for it, and stock code 1101 symbolizes the origin of the Taiwan stock market. Led by three generations of the Koo family over 76 years, Taiwan Cement witnessed Taiwan's construction miracles through its cement kilns, and has now transformed into a green enterprise to meet the carbon neutrality era."
+title: "TCC: The Green Transformation of Taiwan's First Listed Company"
+description: "The Taiwan Stock Exchange was born because of it in 1962, with stock code 1101 symbolizing the origins of the Taiwan stock market. Managed by three generations of the Ku family for 76 years, TCC has witnessed Taiwan's construction miracle through its cement kilns; today, it is transforming into a green enterprise to meet the era of carbon neutrality."
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
+tags:
+  [
+    'Economy',
+    'Enterprise',
+    'Cement Industry',
+    'Building Materials',
+    'Privatization',
+    'Green Transformation',
+  ]
 subcategory: '企業列傳'
-tags: ['Economy', '企業', '水泥業', '建材', '國營民營化', '綠色轉型']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-05-15T15:39:39+08:00'
+translatedAt: '2026-11-02T01:23:41.596421+00:00'
 ---
 
 > **30-Second Overview**
@@ -100,16 +108,16 @@ The global cement industry accounts for approximately 7-8% of carbon emissions (
 
 ## References
 
-[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Complete history of Taiwan Cement, including records of its 1946 founding, 1954 privatization, and 1962 listing.
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Complete history of TCC, including records of its founding in 1946, privatization in 1954, and listing in 1962.
 
-[^2]: [Taiwan Cement Corporation 2024 Annual Report](https://www.taiwancement.com/) — Latest financial and business data for the Taiwan Cement Group.
+[^2]: [Taiwan Cement Corporation 2024 Annual Report](https://www.taiwancement.com/) — Latest financial and business data of the TCC Group.
 
-[^3]: [CommonWealth Magazine: Taiwan's Oldest Listed Company—Taiwan Cement Spans 13 Countries with 27 Subsidiaries, Revitalizing Through "De-Cementing"](https://www.cw.com.tw/article/5130723) — Report on Taiwan Cement's green transformation strategy and diversification layout.
+[^3]: [CommonWealth Magazine: Taiwan's Oldest Listed Company, TCC, Spans 13 Countries and Manages 27 Subsidiaries, Turning Its Tide Through "De-cementation"](https://www.cw.com.tw/article/5130723) — Report on TCC's green transformation strategy and diversification layout.
 
-[^4]: [Mirror Media: Remembering Koo Chen-fu on Taiwan Cement Innovation—Chang An-ping: Full Commitment to Green Enterprise Transformation](https://www.mirrormedia.mg/story/20210209fin001) — Interview on Taiwan Cement's green transformation direction after Chang An-ping took office.
+[^4]: [Mirror Media: Remembering Ku Chen-fu and Discussing TCC Innovation; Chang An-ping: All Out to Transform into a Green Enterprise](https://www.mirrormedia.mg/story/20210209fin001) — Interview regarding the direction of TCC's green transformation after Chang An-ping took over.
 
-[^5]: [TEJ Taiwan Economic Journal: Building the Taiwan Cement Kingdom—The Growth Journey of the Koo Family and Taiwan Cement Group](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Complete record of the Koo family's three generations and Taiwan Cement's management trajectory.
+[^5]: [TEJ Taiwan Economic Journal: Building a Taiwan Cement Kingdom, The Growth Journey of the Ku Family and the TCC Group](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — A complete record of three generations of the Ku family and the management context of TCC.
 
-[^6]: [Koo Yen-chiu-yun and Koo Chen-fu's Family Alliance Built the Taiwan Cement Kingdom, Now Spanning Green Energy — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Complete record of Taiwan Cement's 1954 privatization, Lin Bo-shou as first chairman, Koo Chen-fu's associate manager position, and family alliance networks.
+[^6]: [The Marriage Between the Ku Yen-tzu-yun and Ku Chen-fu Families Established a Taiwan Cement Kingdom Spanning Green Energy — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Complete records of TCC's privatization in 1954, Lin Po-shou as the first chairman, Ku Chen-fu's position as assistant manager, and the family marriage network.
 
-[^7]: [Koo Cheng-yun's Sudden Passing—Brother-in-law Chang An-ping Takes Over Taiwan Cement Group — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirms the circumstances of Koo Cheng-yun's death on 2017/1/23 and Chang An-ping's identity as "brother-in-law" (Koo Huai-ju is Koo Chen-fu's youngest daughter). See also [Mirror Media: Inside Story of Koo Cheng-yun's Sudden Passing](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Sudden Death of Ku Cheng-yun; Brother-in-law Chang An-ping Takes Over TCC Group — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirms the circumstances of Ku Cheng-yun's passing on 2017/1/23 and Chang An-ping's status as "brother-in-law" (Ku Huai-ju is the youngest daughter of Ku Chen-fu). Also see [Mirror Media: Inside the Sudden Death of Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

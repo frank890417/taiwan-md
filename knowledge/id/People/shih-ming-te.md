@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T20:54:19.600543+00:00'
 ---
 
 # Shih Ming-teh: Dua Puluh Lima Tahun di Balik Jeruji Besi, Akhirnya Mengibarkan Bendera Melawan Partainya Sendiri

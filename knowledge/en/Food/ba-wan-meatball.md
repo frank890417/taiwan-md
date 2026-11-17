@@ -1,7 +1,8 @@
 ---
 title: 'Ba-wan: From Flood Survival Food to the Craft of Three Fingerprints'
 description: "A devastating flood in 1898 accidentally gave birth to Taiwan's beloved street snack, the ba-wan meatball. From the survival flour balls made by temple scribe Fan Wan-chu of Beidou under divine guidance, to the north-fried-south-steamed taste divide, this is not just a delicious evolution — it is a resilience memory of Taiwanese people surviving amid scarcity."
-category: Food
+date: 2026-04-26
+category: 'Food'
 tags:
   [
     'ba-wan',
@@ -10,17 +11,19 @@ tags:
     'Taiwanese street food',
     'Wuxu Great Flood',
   ]
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
-date: 2026-04-26
-readingTime: 12
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-05-16T22:19:17Z'
-featured: false
+translatedAt: '2026-11-05T05:03:29.994018+00:00'
 ---
 
 > **30-second overview:**

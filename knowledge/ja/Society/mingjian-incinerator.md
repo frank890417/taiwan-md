@@ -1,20 +1,22 @@
 ---
 title: '名間焚化炉の戦い：三十万トン「ゴミの負債」が百億茶郷の生存線に衝突する時'
 description: '南投県の堆積ゴミは2024年末に31万トンを突破し、「ゴミ囲城」の危機を引き起こした。許淑華県長が名間郷新民村に日量500トン処理能力の焚化炉を設置する計画を発表し、250人以上の学者が連座して抗議した。これは特定農業区、柴棺亀の生息地、そして全台最大のタピオカティー（手搖飲）茶葉サプライチェーンをめぐる生存をかけた防衛戦である。'
-category: Society
-subcategory: '社區與日常'
-tags: ['南投', '名間', '焚化炉', '茶産業', '生態保育', 'ゴミ問題', '許淑華']
-author: 'Taiwan.md Contributors'
 date: 2026-04-25
-readingTime: 15
+category: 'Society'
+tags: ['南投', '名間', '焚化炉', '茶産業', '生態保育', 'ゴミ問題', '許淑華']
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-05-01T18:02:56+08:00'
-featured: false
+translatedAt: '2026-11-04T17:33:07.163458+00:00'
 ---
 
 > **30秒でわかる概要：**

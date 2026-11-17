@@ -1,0 +1,874 @@
+{
+  "task": "timeline",
+  "generated": "2026-11-10",
+  "events": [
+    {
+      "id": "ev01-first-4yr-plan",
+      "date": "1953",
+      "title": "第一期四年經濟建設計畫（民國42年起）",
+      "fact": "行政院頁面載明政府自民國42年起推動國家發展（建設）中期計畫，至105年共16期；財政部史料陳列室載明經濟安定委員會擬定「第一期」四年經濟建設計畫並據此向美方申請美援。本查證未取得該計畫的官方公文、公布日或起訖月日。",
+      "source": {
+        "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/355d4b3b-ef8c-4194-bf3b-2ae346140063",
+        "title": "國家發展四年計畫（106-109年）",
+        "publisher": "行政院（資料來源：國發會）",
+        "period": "106-02-20 發布",
+        "accessed": "2026-11-10",
+        "quote": "政府自民國42年迄105年，共推動了16期的國家發展中期計畫，以揭示國家發展藍圖。"
+      },
+      "confidence": "medium",
+      "note": "只能支持「民國42年（1953）起有編列中期經建計畫」；『第一期四年計畫確切開始日』與『1953-1956 起訖』沒有官方來源，站上請寫「1953 年起」，不要寫月日或結束年。國發會網站（ndc.gov.tw）對 curl／WebFetch 回 403（Cloudflare），未能取得其原文。",
+      "extra_sources": [
+        {
+          "url": "https://museum.mof.gov.tw/singlehtml/deda18ab361044e09ded1a6b632adac9?cntId=8890a31aab1f45eea32de08a44fcb60b",
+          "title": "尹仲容相關史料",
+          "publisher": "財政部財政史料陳列室",
+          "period": "未標示（頁面無發布日）",
+          "accessed": "2026-11-10",
+          "quote": "四年經濟建設計劃，據此向美方申請美援，並且協助國內企業申請融資貸款。"
+        }
+      ]
+    },
+    {
+      "id": "ev02-incentive-investment-act",
+      "date": "1960-09-10",
+      "title": "《獎勵投資條例》制定公布；施行期間至1990-12-31；1991-01-30 公告廢止",
+      "fact": "全國法規資料庫沿革：民國49年9月10日總統令制定全文35條；現行最後版（69年全文修正）第89條規定施行期間自民國70年1月1日至79年12月31日；行政院於80年1月30日公告廢止。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040010",
+        "title": "獎勵投資條例（沿革）",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "民國49年公布～80年廢止；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "1.中華民國四十九年九月十日總統令制定全文 35 條；17. 中華民國八十年一月三十日行政院（80）台經字第 4207 號公告廢止"
+      },
+      "confidence": "high",
+      "note": "『1960 公布施行』：沿革只記制定公布日 1960-09-10，沒有獨立的『施行日』欄；『1990 年底廢止』精確說法是『施行期間屆滿於 1990-12-31』，正式廢止公告在 1991-01-30。若要寫 1960 年條文的原始施行期間，本次未查（現存版本是 69 年全文修正版）。",
+      "extra_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040010",
+          "title": "獎勵投資條例（第89條）",
+          "publisher": "全國法規資料庫（法務部）",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "第 89 條 本條例施行期間，自中華民國七十年一月一日起，至中華民國七十九年十二月三十一日止。"
+        }
+      ]
+    },
+    {
+      "id": "ev03-twse-opening",
+      "date": "1962-02-09",
+      "title": "臺灣證券交易所正式開業",
+      "fact": "證交所歷史介紹載明：50年10月23日臺灣證券交易所成立，51年2月9日正式開業。",
+      "source": {
+        "url": "https://www.twse.com.tw/zh/about/company/history.html",
+        "title": "歷史介紹",
+        "publisher": "臺灣證券交易所",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "50年 10.23 臺灣證券交易所成立；51年 02.09 臺灣證券交易所正式開業"
+      },
+      "confidence": "high",
+      "note": "與提示 1962-02-09 一致。"
+    },
+    {
+      "id": "ev04-kaohsiung-epz",
+      "date": "1966-12-03",
+      "title": "高雄加工出口區創建（臺灣第一個加工出口區）",
+      "fact": "國家檔案資料載明：民國55年12月3日，政府於高雄設立臺灣第一個加工出口區。",
+      "source": {
+        "url": "https://www.archives.gov.tw/tw/arctw/336-8939.html",
+        "title": "檔案瑰寶－繁榮經濟的高雄加工出口區",
+        "publisher": "國家發展委員會檔案管理局（資料來源：經濟部加工出口區管理處高雄分處）",
+        "period": "2016-10-17（第112期）",
+        "accessed": "2026-11-10",
+        "quote": "民國55年12月3日，政府於高雄設立臺灣第一個加工出口區，成功促使產業升級，穩定經濟發展，引導開設其他加工區"
+      },
+      "confidence": "high",
+      "note": "與提示一致。『世界第一個加工出口區』是行政院長 2021-03-28 揭牌致詞的說法（見 extra），檔案管理局本文只寫『臺灣第一個』，站上若要寫『世界第一』請當作官方致詞用語而非查證事實。經濟部加工處 epza.gov.tw 創設沿革頁 curl 未取得。",
+      "extra_sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5a824485-37ed-42c4-916c-ff9b3c6773b5",
+          "title": "順應新時代 加工出口區更名為「科技產業園區」 蘇揆：臺灣有遠見 美好未來被看見",
+          "publisher": "行政院",
+          "period": "110-03-28",
+          "accessed": "2026-11-10",
+          "quote": "55年前全世界第一個加工出口區在高雄前鎮成立"
+        }
+      ]
+    },
+    {
+      "id": "ev05-itri-founded",
+      "date": "1973-07-05",
+      "title": "工業技術研究院正式成立",
+      "fact": "工研院50周年網站：1973年1月25日立法院三讀通過《工業技術研究院設置條例》，同年7月5日工業技術研究院正式成立。",
+      "source": {
+        "url": "https://50th.itri.org.tw/history/origin/46/",
+        "title": "臺灣產業發展的推手 工研院的誕生",
+        "publisher": "工業技術研究院（50周年專站）",
+        "period": "1972-1973 史事；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "終於1973年1月25日立法院三讀通過，同年7月5日工業技術研究院正式成立。"
+      },
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "ev06-ten-major-projects",
+      "date": "1974",
+      "title": "十大建設開始推動（完成年：無單一官方完成日）",
+      "fact": "總統府公報頁面載明『民國六十三年開始的「十大建設」』；檔案管理局載明蔣經國原先列「九項建設」，後來加入核能發電廠成為十大建設；其中北迴鐵路於1980年2月1日才全線完工。",
+      "source": {
+        "url": "https://www.president.gov.tw/Page/294/39935",
+        "title": "中樞紀念蔣故總統經國先生百年誕辰典禮（公報內容）",
+        "publisher": "中華民國總統府",
+        "period": "99年（2010）典禮公報；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "民國六十三年開始的「十大建設」、民國六十六年開始的「十二項建設」、民國六十七年經國先生當選中華民國第六任總統之後所推動的「十四項重要建設」"
+      },
+      "confidence": "medium",
+      "note": "完成年：沒有找到官方對『十大建設全部完成』的單一日期或年份（各項完工年不同：北迴鐵路 1980-02-01 全線完工為有來源的一例，見 extra）。不要寫『1979 年完工』，除非另有來源。『宣布日』也有歧見（有說 1973-12-16、1973-12-24、1974-09-20），本次未取得官方原文可定案，因此日期只收『1974 開始』。行政院史料展示英文頁亦載 'In 1974, the government launched the Ten Major Construction Projects'。",
+      "extra_sources": [
+        {
+          "url": "https://www.archives.gov.tw/tw/arctw/336-8856.html",
+          "title": "檔案瑰寶－從開發到保育：走過臺灣的建設時代",
+          "publisher": "國家發展委員會檔案管理局",
+          "period": "未標示（頁面無發布日）",
+          "accessed": "2026-11-10",
+          "quote": "後來加入核能發電廠，成為大家耳熟能詳的「十大建設」。…直到1980年2月1日才全線完工。"
+        },
+        {
+          "url": "https://history.ey.gov.tw/en/Items/ten-major-construction-projects-underway/",
+          "title": "Ten Major Construction Projects underway",
+          "publisher": "行政院珍貴史料展示（英文頁）",
+          "period": "照片日期 1978-04-26",
+          "accessed": "2026-11-10",
+          "quote": "In 1974, the government launched the Ten Major Construction Projects for transportation and heavy industries."
+        }
+      ]
+    },
+    {
+      "id": "ev07-itri-rca",
+      "date": "1976-03-05",
+      "title": "工研院與美國RCA簽訂積體電路技術移轉授權合約",
+      "fact": "潘文淵博士生平年表載明：1976年3月5日與RCA簽訂「積體電路技術移轉授權合約」；1975年11月說服RCA以350萬美金技術移轉。工研院50周年網站亦載1976年簽約。",
+      "source": {
+        "url": "https://pan.itri.org.tw/datadetail?SiteID=1&MmmID=1310651427173376245",
+        "title": "潘文淵博士生平",
+        "publisher": "潘文淵文教基金會（工研院託管網站 pan.itri.org.tw）",
+        "period": "1912-1989 生平年表；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "一九七六年 三月五日與RCA簽訂「積體電路技術移轉授權合約」"
+      },
+      "confidence": "high",
+      "note": "日期只在潘文淵基金會年表出現；工研院50周年頁只寫『1976年…簽訂』未寫月日。350萬美元是年表『一九七五年十一月說服RCA以350萬美金較低的價錢技術移轉』，未見合約全文，不要寫成『授權金已付350萬』。",
+      "extra_sources": [
+        {
+          "url": "https://50th.itri.org.tw/history/semiconductors/1/",
+          "title": "向RCA取經 發展臺灣積體電路",
+          "publisher": "工業技術研究院（50周年專站）",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "1976 與美國RCA簽訂「積體電路技術移轉授權合約」，成功引進三吋晶圓並發展半導體製程技術。"
+        }
+      ]
+    },
+    {
+      "id": "ev08-science-park-act",
+      "date": "1979-07-27",
+      "title": "《科學工業園區設置管理條例》制定公布（2018年更名《科學園區設置管理條例》）",
+      "fact": "全國法規資料庫沿革：民國68年7月27日總統令制定公布全文36條；107年6月6日修正公布名稱及全文37條（原名稱科學工業園區設置管理條例，新名稱科學園區設置管理條例）。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=H0160004",
+        "title": "科學園區設置管理條例（沿革）",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "民國68年公布～107年修正；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "1.中華民國六十八年七月二十七日總統（68）台統（一）義字第 3769 號令制定公布全文 36 條"
+      },
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "ev09a-hsip-opened",
+      "date": "1980-12-15",
+      "title": "新竹科學工業園區正式成立",
+      "fact": "竹科管理局簡介：民國69年12月15日新竹科學園區經國家政策推動正式成立。",
+      "source": {
+        "url": "https://www.sipa.gov.tw/home.jsp?serno=201001210024&mserno=201001210023&menudata=ChineseMenu&contlink=content/about_1.jsp",
+        "title": "管理局簡介",
+        "publisher": "國家科學及技術委員會新竹科學園區管理局",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "民國69年12月15日新竹科學園區經國家政策推動正式成立"
+      },
+      "confidence": "high",
+      "note": "與提示 1980-12-15 一致；官方措辭是『正式成立』，不是『啟用』。"
+    },
+    {
+      "id": "ev09b-umc-founded",
+      "date": "1980-05-22",
+      "title": "聯華電子成立",
+      "fact": "證交所開放資料（上市公司基本資料）載：聯華電子（2303）成立日期 19800522，上市日期 19850716。",
+      "source": {
+        "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+        "title": "上市公司基本資料（t187ap03_L）",
+        "publisher": "臺灣證券交易所（OpenAPI）",
+        "period": "出表日期 1151109",
+        "accessed": "2026-11-10",
+        "quote": "{\"公司代號\": \"2303\", \"公司名稱\": \"聯華電子股份有限公司\", \"成立日期\": \"19800522\", \"上市日期\": \"19850716\"}"
+      },
+      "confidence": "high",
+      "note": "原始檔：raw/twse-openapi-t187ap03_L-20261110.json（由其他子代下載，本次直接讀取）。聯電自家『公司沿革』頁 umc.com 對 curl／WebFetch 回 403，沒取得；工研院50周年頁說1980年衍生成立聯電。成立日在竹科成立（1980-12-15）之前，別寫成『園區成立後』。"
+    },
+    {
+      "id": "ev10-surplus-and-nt-appreciation",
+      "date": "1984/1985/1986",
+      "title": "1984–1986 貿易順差擴大與新臺幣升值",
+      "fact": "經建會《Taiwan Statistical Data Book 2010》：海關統計商品貿易餘額（百萬美元）1983年4,891、1984年8,586、1985年10,678、1986年15,736；年底新臺幣兌美元匯率1984年39.47、1985年39.85、1986年35.50、1987年28.55；央行外匯存底（年底，百萬美元）1984年15,664、1985年22,556、1986年46,310。",
+      "source": {
+        "url": "https://www.ndc.gov.tw/ （Taiwan Statistical Data Book 2010 PDF；本機 raw/cepd-taiwan-statistical-data-book-2010.pdf）",
+        "title": "Taiwan Statistical Data Book 2010, Table 1-1b Indicators of the Taiwan Economy (Continued)",
+        "publisher": "行政院經濟建設委員會（Council for Economic Planning and Development，今國發會）",
+        "period": "1952-2009 年資料；2010 年出版（印刷頁 p.19-20）",
+        "accessed": "2026-11-10",
+        "quote": "1984 562.2 23.0 100.0 … 30,580 21,994 8,586 | 1985 … 30,819 20,141 10,678 | 1986 … 39,931 24,195 15,736 | 匯率欄 1984 39.47 | 1985 39.85 | 1986 35.50 | 1987 28.55（Merchandise Trade in US$ Million, customs statistics, Exports f.o.b./Imports c.i.f./Balance；Foreign Exchange Rate NT$ per US Dollar end of year）"
+      },
+      "confidence": "high",
+      "note": "PDF 為其他子代下載的官方版本，URL 未留紀錄，故 url 欄只能寫到 ndc.gov.tw；檔案在 raw 目錄可重驗。以年底匯率計算（本子代自算，非來源直接給）：1985→1986 年底，39.85→35.50，新臺幣對美元升值約12.3%（39.85/35.50-1）；1985→1987 年底 39.85→28.55，約39.6%。順差單位為百萬美元，是『商品貿易（海關統計）』口徑，不是經常帳。央行／主計總處的原始表本次沒另取。"
+    },
+    {
+      "id": "ev11-tsmc-founded",
+      "date": "1987-02-21",
+      "title": "台灣積體電路製造公司設立",
+      "fact": "台積電財報附註一『公司沿革』：台積公司設立於76年2月21日；證交所開放資料載成立日期 19870221、上市日期 19940905。",
+      "source": {
+        "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q2%20Consolidated%20Financial%20Statements_C_1.pdf",
+        "title": "TSMC 2025Q2 Consolidated Financial Statements（中文）附註一 公司沿革",
+        "publisher": "台灣積體電路製造股份有限公司",
+        "period": "2025Q2 合併財務報告",
+        "accessed": "2026-11-10",
+        "quote": "台灣積體電路製造股份有限公司（以下簡稱台積公司）設立於76年2月21日。"
+      },
+      "confidence": "high",
+      "note": "與提示 1987-02-21 一致。台積電官網 tsmc.com 的公司簡介只寫『由張忠謀博士於1987年成立』。PDF 以 curl 被 403，是用 WebFetch 取得，副本 raw/tsmc_fs_2025Q2_C_2026-11-10.pdf。",
+      "extra_sources": [
+        {
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+          "title": "上市公司基本資料（t187ap03_L）",
+          "publisher": "臺灣證券交易所（OpenAPI）",
+          "period": "出表日期 1151109",
+          "accessed": "2026-11-10",
+          "quote": "{\"公司代號\": \"2330\", \"成立日期\": \"19870221\", \"上市日期\": \"19940905\"}"
+        }
+      ]
+    },
+    {
+      "id": "ev12-industrial-upgrade-act",
+      "date": "1990-12-29",
+      "title": "《促進產業升級條例》公布（1991-01-01施行；租稅減免章落日2009-12-31）",
+      "fact": "全國法規資料庫：79年12月29日制定公布全文44條；第72條『本條例自中華民國八十年一月一日施行』，『第二章…施行至中華民國九十八年十二月三十一日止』；99年5月12日總統令公布廢止（產業創新條例同日公布）。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040016",
+        "title": "促進產業升級條例（第72條）",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "本條例自中華民國八十年一月一日施行。本條例中華民國八十八年十二月三十一日修正條文，自中華民國八十九年一月一日施行；中華民國八十九年一月一日以後修正條文，自公布日施行。但第二章及第七十條之一施行至中華民國九十八年十二月三十一日止。"
+      },
+      "confidence": "high",
+      "note": "『2009 年底落日』精確指第二章（租稅減免）及第70條之1（營運總部）；條例本身在 2010-05-12 廢止。",
+      "extra_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040016",
+          "title": "促進產業升級條例（沿革）",
+          "publisher": "全國法規資料庫（法務部）",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "1.中華民國七十九年十二月二十九日總統（79）華總（一）義字第 7468號令制定公布全文 44 條；12. 中華民國九十九年五月十二日總統華總一義字第 09900112321 號令公布廢止"
+        }
+      ]
+    },
+    {
+      "id": "ev13-tpex-founded",
+      "date": "1994-11-01",
+      "title": "證券櫃檯買賣中心設立",
+      "fact": "櫃買中心官網：歷經年餘籌備，櫃買中心於83年11月1日依證券交易法設立，正式接辦櫃檯買賣市場業務。",
+      "source": {
+        "url": "https://www.tpex.org.tw/zh-tw/about/company/history.html",
+        "title": "認識櫃買",
+        "publisher": "證券櫃檯買賣中心",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "櫃買中心於83年11月1日依證券交易法設立，正式接辦櫃檯買賣市場業務。"
+      },
+      "confidence": "high",
+      "note": "櫃檯買賣業務更早（民國77年2月由證券商業同業公會籌辦），中心本身為83年設立。"
+    },
+    {
+      "id": "ev14a-stsp-approved",
+      "date": "1995-05",
+      "title": "南部科學工業園區核定籌設（提示1996有誤，來源為1995）",
+      "fact": "南科管理局：國科會於1995年02月奉行政院決議設置南部科學工業園區，並於1995年05月核定籌設計畫；2003年01月25日升格成立南部科學工業園區管理局。",
+      "source": {
+        "url": "https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=DEFAULT&thisRootID=195",
+        "title": "設立沿革",
+        "publisher": "國家科學及技術委員會南部科學園區管理局",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "國科會於1995年02月奉　行政院決議設置「南部科學工業園區」(計畫範圍即目前南科臺南園區一期基地)，並於1995年05月核定籌設計畫，正式展開南臺灣邁向高科技產業發展的發軔。"
+      },
+      "confidence": "high",
+      "note": "提示『1996』與官方不符：官方是 1995-02 院決議、1995-05 核定籌設計畫；1997-07-08 才籌設開發籌備處。"
+    },
+    {
+      "id": "ev14b-ctsp-approved",
+      "date": "2002-09-23",
+      "title": "中部科學工業園區籌設計畫核定（提示2003為開放進駐年）",
+      "fact": "中科99年年報：91年9月23日行政院核定中部科學工業園區籌設計畫，92年7月28日開放廠商進駐；中科官網：自91年9月奉行政院核定成立。",
+      "source": {
+        "url": "https://www.ctsp.gov.tw/files/475b146d-e78e-4028-9baa-d968bc0faca9.pdf",
+        "title": "中部科學工業園區99年年報",
+        "publisher": "行政院國家科學委員會中部科學工業園區管理局",
+        "period": "民國99年（2010）年報",
+        "accessed": "2026-11-10",
+        "quote": "91年9月23日行政院核定行政院國家科 學委員會中部科學工業園區籌設計畫，採公共工程與廠商同步建廠、同步施工方式，從計畫核定至工程開工僅10個月零5天，於92 年7月28日開放廠商進駐"
+      },
+      "confidence": "high",
+      "note": "提示『2003 核定』與官方不符：核定為 2002-09-23（民國91年），2003-07-28 是開放廠商進駐。PDF 引文中的換行空格為原檔排版。",
+      "extra_sources": [
+        {
+          "url": "https://www.ctsp.gov.tw/chinese/03-Intro/02-map.aspx?v=1&fr=1028&no=1030",
+          "title": "園區簡介",
+          "publisher": "國家科學及技術委員會中部科學園區管理局",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "中部科學園區自91年9月奉行政院核定成立"
+        }
+      ]
+    },
+    {
+      "id": "ev15-wto",
+      "date": "2002-01-01",
+      "title": "臺灣成為WTO第144個會員",
+      "fact": "經濟部國貿署：2001年11月12日簽署入會議定書，12月2日致函WTO秘書長，經30天等待期後於2002年1月1日成為WTO第144個會員；WTO官網同。",
+      "source": {
+        "url": "https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=354&pid=312950&dl_DateRange=all&txt_SD=&txt_ED=&txt_Keyword=&Pageid=0",
+        "title": "我國申請加入GATT/WTO之歷史紀要",
+        "publisher": "經濟部國際貿易署",
+        "period": "擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "經過30天之等待期後，我國於2002年1月1日成為WTO第144個會員。"
+      },
+      "confidence": "high",
+      "note": "",
+      "extra_sources": [
+        {
+          "url": "https://www.wto.org/english/thewto_e/acc_e/a1_taipei_chinois_e.htm",
+          "title": "Chinese Taipei accession",
+          "publisher": "World Trade Organization",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "Chinese Taipei became the 144th WTO Member on 1 January 2002."
+        }
+      ]
+    },
+    {
+      "id": "ev16a-industrial-innovation-act",
+      "date": "2010-05-12",
+      "title": "《產業創新條例》制定公布",
+      "fact": "全國法規資料庫沿革：99年5月12日總統令制定公布全文72條，並自公布日施行，但第10條施行期間自99年1月1日至108年12月31日。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040051",
+        "title": "產業創新條例（沿革）",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "民國99年公布～115年9月30日最近修正；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "1.中華民國九十九年五月十二日總統華總一義字第 09900112301 號令制定公布全文 72 條；並自公布日施行，但第 10 條施行期間自九十九年一月一日起至一百零八年十二月三十一日止"
+      },
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "ev16b-ecfa",
+      "date": "2010-06-29",
+      "title": "ECFA 簽署（2010-06-29）、生效（2010-09-12）",
+      "fact": "全國法規資料庫（兩岸協議）：99年6月29日簽署；99年9月11日海基會與海協會書面相互通知完成法定程序，依生效條款自9月12日起生效。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=Q0070022",
+        "title": "海峽兩岸經濟合作架構協議",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "民國99年簽訂；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "簽訂日期： 民國 99 年 06 月 29 日；中華民國九十九年九月十一日財團法人海峽交流基金會與大陸海峽兩岸關係協會以書面相互通知雙方業已完成相關法定程序及配套準備作業，依雙方協議生效條款規定自九月十二日起生效"
+      },
+      "confidence": "high",
+      "note": "簽署主體是海基會與海協會（非政府機關直接簽署）。2010-07-01 行政院院會核定、2010-08-17 立法院通過。本次未查後續中國方面暫停 ECFA 優惠之官方文件，站上若要寫現況需另查。"
+    },
+    {
+      "id": "ev17a-5plus2",
+      "date": "2016-05（上任後推動）",
+      "title": "「5+2 產業創新」",
+      "fact": "行政院長林全2016-11-26表示：行政團隊520上任以來即推動「5+2產業新創方案」，包括智慧機械、綠能科技、亞洲矽谷、生技醫藥、國防科技、新農業及數位經濟。",
+      "source": {
+        "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/8aea3f96-67a0-47a7-a023-cfb50fe14261",
+        "title": "林揆肯定雲科大辦學有成 期許技職生帶領產業往前邁進",
+        "publisher": "行政院",
+        "period": "105-11-26",
+        "accessed": "2026-11-10",
+        "quote": "行政團隊520上任以來，即推動「5+2產業新創方案」。其中包括「智慧機械」、「綠能科技」、「亞洲‧矽谷」、「生技醫藥」、「國防科技」、「新農業」及「數位經濟」"
+      },
+      "confidence": "low",
+      "note": "沒有找到『5+2 產業創新計畫』的官方正式核定／公布日，只有院長談話。名稱不統一：此稿稱『5+2產業新創方案』且第七項為『數位經濟』；其他來源常寫『循環經濟』。站上寫『2016 年（520 後）推動』即可，別寫具體日。NDC 官網被 Cloudflare 擋，未能核對國發會原文。"
+    },
+    {
+      "id": "ev17b-six-core",
+      "date": "2020-12-10",
+      "title": "「六大核心戰略產業推動方案」（2020-05-20 就職演說宣示；2020-12-10 行政院院會報告）",
+      "fact": "行政院院會109-12-10由國發會報告「六大核心戰略產業推動方案」整體規劃；六大產業是當年520總統就職演說宣示推動。",
+      "source": {
+        "url": "https://www.ey.gov.tw/Page/448DE008087A1971/1236c5fe-c03e-46b0-b2bb-904660cd0f2b",
+        "title": "六大核心戰略產業推動方案",
+        "publisher": "行政院（資料來源：經濟能源農業處）",
+        "period": "109-12-10",
+        "accessed": "2026-11-10",
+        "quote": "六大核心戰略產業是今(109)年520總統在就職演說時宣示推動，包含：資訊及數位、資安卓越、臺灣精準健康、綠電及再生能源、國防及戰略、民生及戰備等六大產業，將以過去推動5+2產業創新為基礎"
+      },
+      "confidence": "high",
+      "note": "提示『2020』成立；宣示日 2020-05-20 由行政院稿間接支持（『今年520』），總統府原文未另取。"
+    },
+    {
+      "id": "ev18-welcome-taishang",
+      "date": "2019-01-01",
+      "title": "「歡迎台商回台投資行動方案」啟動；投資臺灣三大方案2019-07-01實施",
+      "fact": "行政院院會107-11-29：本方案自108年1月1日啟動，實施期程3年。投資臺灣事務所：108年7月1日實施「投資臺灣三大方案」（含原方案更新版）。截至115年11月5日，歡迎臺商回臺投資行動方案372家通過審核、總投資金額約新臺幣1兆6,975億元、預估創造本國就業約100,962人。",
+      "source": {
+        "url": "https://investtaiwan.nat.gov.tw/showPagecht1135?lang=cht&search=1135",
+        "title": "投資臺灣三大方案（辦理成效）",
+        "publisher": "經濟部投資臺灣事務所（投資臺灣入口網）",
+        "period": "截至115年11月5日",
+        "accessed": "2026-11-10",
+        "quote": "歡迎臺商回臺投資行動方案 截至115年11月5日 372 家通過審核 總投資金額約新臺幣約 1 兆 6,975 億元 預估創造本國就業約 100,962 人"
+      },
+      "confidence": "high",
+      "note": "數字是『通過審核』家數與『預估』投資額、就業，不是實際到位。三大方案合計：1,840家、約2兆9,982億元、預估174,628人（同頁）。方案期程後來展延，本次未查展延公告，故不寫截止日。",
+      "extra_sources": [
+        {
+          "url": "https://www.ey.gov.tw/Page/448DE008087A1971/88f4bc48-f4fc-4a4d-bcfa-583d1c22c922",
+          "title": "歡迎台商回台投資行動方案",
+          "publisher": "行政院（資料來源：經濟能源農業處）",
+          "period": "107-11-29",
+          "accessed": "2026-11-10",
+          "quote": "本方案整合各部會資源，自108年1月1日啟動，實施期程3年"
+        },
+        {
+          "url": "https://investtaiwan.nat.gov.tw/showPagecht1135?lang=cht&search=1135",
+          "title": "投資臺灣三大方案（簡介）",
+          "publisher": "經濟部投資臺灣事務所",
+          "period": "截至115年11月5日",
+          "accessed": "2026-11-10",
+          "quote": "108年7月1日實施之「投資臺灣三大方案」包含原「歡迎臺商回臺投資行動方案」更新版本，以及全新的「根留臺灣企業加速投資行動方案」及「中小企業加速投資行動方案」"
+        }
+      ]
+    },
+    {
+      "id": "ev19a-tsmc-arizona-2020",
+      "date": "2020-05-15",
+      "title": "台積電宣布赴美國亞利桑那設廠（約120億美元）",
+      "fact": "台積電新聞稿（發布 2020/05/15）：總支出（含資本支出）2021至2029年約120億美元；採5奈米技術。",
+      "source": {
+        "url": "https://pr.tsmc.com/english/news/2033",
+        "title": "TSMC Announces Intention to Build and Operate an Advanced Semiconductor Fab in the United States",
+        "publisher": "台灣積體電路製造股份有限公司",
+        "period": "2020-05-15",
+        "accessed": "2026-11-10",
+        "quote": "TSMC's total spending on this project, including capital expenditure, will be approximately US$12 billion from 2021 to 2029."
+      },
+      "confidence": "high",
+      "note": "英文新聞稿原文（TSMC 無中文原稿可引）。金額為公司『預計』數。"
+    },
+    {
+      "id": "ev19b-tsmc-arizona-65b",
+      "date": "2024-04-08",
+      "title": "台積電亞利桑那總資本支出提高至逾650億美元（第三廠）",
+      "fact": "台積電新聞稿（發布 2024/04/08）：第三廠使鳳凰城廠址總資本支出超過650億美元；美國商務部與台積電簽非約束性初步備忘錄，擬給最高66億美元直接補助。",
+      "source": {
+        "url": "https://pr.tsmc.com/english/news/3122",
+        "title": "TSMC Arizona, U.S. Department of Commerce Announce up to US$6.6 Billion in Proposed CHIPS Act Direct Funding（及第三廠宣布）",
+        "publisher": "台灣積體電路製造股份有限公司",
+        "period": "2024-04-08",
+        "accessed": "2026-11-10",
+        "quote": "the third fab brings TSMC’s total capital expenditure for the Phoenix, Arizona site to more than US$65 billion"
+      },
+      "confidence": "high",
+      "note": "補助為『擬議』（preliminary memorandum of terms），非最終撥款。"
+    },
+    {
+      "id": "ev19c-tsmc-us-165b",
+      "date": "2025-03-04",
+      "title": "台積電宣布擴大美國投資至1,650億美元（再加1,000億）",
+      "fact": "台積電新聞稿（發布欄 2025/03/04，dateline Mar. 4, 2025 Hsinchu）：在美國總投資預期達1,650億美元，額外增加1,000億美元。",
+      "source": {
+        "url": "https://pr.tsmc.com/english/news/3210",
+        "title": "TSMC Intends to Expand Its Investment in the United States to US$165 Billion to Power the Future of AI",
+        "publisher": "台灣積體電路製造股份有限公司",
+        "period": "2025-03-04",
+        "accessed": "2026-11-10",
+        "quote": "TSMC's total investment in the U.S. is expected to reach US$165 billion."
+      },
+      "confidence": "high",
+      "note": "官方新聞稿標示 2025-03-04（臺灣時間）；美東為 3 月 3 日，媒體常寫 3/3，採官方標示的 3/4。措辭是 'intends'（意向），且依附於亞利桑那第一廠成功等條件。"
+    },
+    {
+      "id": "ev20-jasm",
+      "date": "2021-11-09",
+      "title": "台積電董事會核准在日本設立多數持股子公司（JASM）；2024-02-24 熊本開幕典禮",
+      "fact": "台積電董事會決議（發布 2021/11/09）：核准不超過21.234億美元股權投資，在日本設立台積電多數持股子公司提供晶圓代工服務；2024-02-24 台積電新聞稿：在熊本舉行JASM開幕典禮，JASM於2021年成立、2022年4月動工，整體投資將超過200億美元（含第二廠）。",
+      "source": {
+        "url": "https://pr.tsmc.com/english/news/2881",
+        "title": "TSMC Board of Directors Meeting Resolutions",
+        "publisher": "台灣積體電路製造股份有限公司",
+        "period": "2021-11-09",
+        "accessed": "2026-11-10",
+        "quote": "Approved an equity investment of no more than US$2,123.40 million to establish a TSMC-majority-owned subsidiary in Japan"
+      },
+      "confidence": "high",
+      "note": "2021-11-09 為董事會決議日（對外宣布日）；『JASM』一名不在該決議條文，是同日與索尼的聯合發布（索尼 6-K 未另取）。2021-10-14 法說會是否首度提及日本設廠，本次沒有取得官方逐字稿，不採。開幕日 2024-02-24 見 extra。",
+      "extra_sources": [
+        {
+          "url": "https://pr.tsmc.com/english/news/3113",
+          "title": "TSMC Celebrates the Opening of JASM in Kumamoto, Japan",
+          "publisher": "台灣積體電路製造股份有限公司",
+          "period": "2024-02-24",
+          "accessed": "2026-11-10",
+          "quote": "KUMAMOTO, Japan, Feb. 24, 2024 –；…which was established in 2021 and started construction in April 2022…；The overall investment in JASM will exceed US$20 billion with strong support from the Japanese government."
+        }
+      ]
+    },
+    {
+      "id": "ev21-sec10-2",
+      "date": "2023-01-19",
+      "title": "《產業創新條例》增訂第10條之2（前瞻創新研發25%抵減等）",
+      "fact": "沿革：112年1月19日總統令修正公布第72條、增訂第10-2條；第10-2條施行期間自112年1月1日至118年12月31日。條文：投資於前瞻創新研究發展支出金額25%，抵減當年度應納營利事業所得稅額，以不超過當年度應納稅額30%為限；購置先進製程全新機器設備支出5%抵減；有效稅率門檻112年度12%、113年度起15%。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
+        "title": "產業創新條例第10條之2",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "擷取 2026-11-10（現行條文）",
+        "accessed": "2026-11-10",
+        "quote": "為強化產業國際競爭優勢，並鞏固我國產業全球供應鏈之地位，於我國境內進行技術創新且居國際供應鏈關鍵地位之公司，符合下列各款條件者，得就當年度投資於前瞻創新研究發展支出金額百分之二十五，抵減當年度應納營利事業所得稅額，並以不超過其當年度應納營利事業所得稅額百分之三十為限"
+      },
+      "confidence": "high",
+      "note": "不是『修正』而是『增訂』：2023-01-19 公布增訂。第二項『購置自行使用於先進製程之全新機器或設備…於支出金額百分之五』；第五項『所定一定比率，一百十二年度為百分之十二，自一百十三年度起為百分之十五，但一百十三年度之一定比率，得由中央主管機關會同財政部審酌…調整為百分之十二』。同年度合計抵減上限『不超過當年度應納營利事業所得稅額百分之五十』（第四項）。",
+      "extra_sources": [
+        {
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040051",
+          "title": "產業創新條例（沿革）",
+          "publisher": "全國法規資料庫（法務部）",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "9.中華民國一百十二年一月十九日總統華總一經字第 11200005101  號令修正公布第 72 條條文；增訂第 10-2 條條文；第 10-2 條條文施行期間，自一百十二年一月一日起至一百十八年十二月三十一日止"
+        }
+      ]
+    },
+    {
+      "id": "ev22a-chips-act",
+      "date": "2022-08-09",
+      "title": "美國《晶片與科學法》（CHIPS and Science Act，H.R.4346，Public Law 117-167）簽署",
+      "fact": "govinfo 公法文本標註 Aug. 9, 2022 – H.R. 4346；Division A 為 CHIPS Act of 2022。",
+      "source": {
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ167/html/PLAW-117publ167.htm",
+        "title": "Public Law 117-167 (CHIPS and Science Act)",
+        "publisher": "U.S. Government Publishing Office",
+        "period": "2022-08-09",
+        "accessed": "2026-11-10",
+        "quote": "Public Law 117-167 117th Congress An Act Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes. <<NOTE: Aug. 9, 2022 - [H.R. 4346]>>；DIVISION A--CHIPS ACT OF 2022"
+      },
+      "confidence": "high",
+      "note": "公法頁面標註的是 Aug. 9, 2022（通過日／簽署日標記），『總統簽署』一詞本頁未逐字出現；日期用法同白宮公告慣例。"
+    },
+    {
+      "id": "ev22b-reciprocal-tariff",
+      "date": "2025-04-02",
+      "title": "美國對等關稅：對臺稅率 32%（2025-04 公布）→20%（2025-08）→15%不疊加（2026-02-12 簽ART）；2026-02-20 最高法院裁定IEEPA關稅逾權",
+      "fact": "行政院經貿談判辦公室：我國對等關稅稅率從去年4月公布的「32%+MFN」（平均關稅35.78%），去年8月先調降至「20%+MFN」，再調降至「15%且不疊加」。美國2025年4月2日行政命令 No.14257、2025年7月31日 No.14326。2026年2月20日美國聯邦最高法院裁定IEEPA不授權課徵對等關稅，美方改援引1974年貿易法第122條自2月24日起課150天10%+MFN暫時性關稅，已於7月24日屆期；7月24日美方公布「強迫勞動301調查」新稅率，我國獲10%且不疊加MFN。",
+      "source": {
+        "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+        "title": "臺美簽署「對等貿易協定」確立對等關稅15%且不疊加 我輸美2072項產品豁免對等關稅",
+        "publisher": "行政院經貿談判辦公室",
+        "period": "2026-02-13",
+        "accessed": "2026-11-10",
+        "quote": "我國對等關稅稅率，從原先去年4月公布的「32%+MFN」（平均關稅35.78%），在歷經第一階段談判，去年8月先調降至「20%+MFN」（平均關稅23.78%）…之後歷經去年8月至今的第二階段談判，「20%+MFN」再調降至談判後的「15%且不疊加」"
+      },
+      "confidence": "high",
+      "note": "2025-04-02 為 EO 14257 發布日（名單見 twustariff.ey.gov.tw/page/tariff/usa-order）；20%生效日（2025-08-07）本次未取得官方逐字，故不寫。目前（2026-11-10）適用稅率狀態複雜：IEEPA 關稅已被裁定無效，ART 15% 的執行方式，行政院2026-02-21稿稱『美國政府尚待確定如何執行與各國已簽署之「對等貿易協定」』（見下一筆），122條已屆期，7/24 起 301 關稅對臺 10%（行政院稿）。站上不要只寫「15%」。",
+      "extra_sources": [
+        {
+          "url": "https://twustariff.ey.gov.tw/page/news/71",
+          "title": "美最高法院裁定緊急關稅逾權 我政府嚴密關注並持續爭取國家及產業最大利益",
+          "publisher": "行政院（臺美關稅談判及產業支持方案專站）",
+          "period": "2026-02-21",
+          "accessed": "2026-11-10",
+          "quote": "針對美國聯邦最高法院於2月20日裁定川普總統援引《國際緊急經濟權力法》（IEEPA）課徵之「對等關稅」及「芬太尼關稅」因逾越授權而無效…面對美方隨即改採《1974年貿易法》第 122 條徵收 10% 臨時關稅作法，初判對我國衝擊影響有限"
+        },
+        {
+          "url": "https://twustariff.ey.gov.tw/page/news/81",
+          "title": "美國針對60國「強迫勞動301調查」公布新稅率 政院：我國獲10%且不疊加MFN相對優惠待遇",
+          "publisher": "行政院（臺美關稅談判及產業支持方案專站）",
+          "period": "2026-07-24",
+          "accessed": "2026-11-10",
+          "quote": "美方目前援引《1974年貿易法》第122條款自2月24日起對全球課徵150天的10%+MFN暫時性關稅，該條款已於7月24日屆期。"
+        }
+      ]
+    },
+    {
+      "id": "ev22c-art-signed",
+      "date": "2026-02-12",
+      "title": "臺美簽署「對等貿易協定」（ART）與投資MOU（1/15）",
+      "fact": "美東時間2月12日在華府完成簽署（我方行政院副院長鄭麗君率團）；1月15日已與美國商務部簽署臺美投資MOU。確立對等關稅15%且不疊加原MFN稅率；2,072項輸美產品豁免對等關稅；取得232關稅最優惠待遇。行政院表示將依《條約締結法》函請立法院審議。",
+      "source": {
+        "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+        "title": "臺美簽署「對等貿易協定」確立對等關稅15%且不疊加 我輸美2072項產品豁免對等關稅",
+        "publisher": "行政院經貿談判辦公室",
+        "period": "2026-02-13",
+        "accessed": "2026-11-10",
+        "quote": "在美東時間2月12日於美國華府…就「臺美對等貿易協定（Agreement on Reciprocal Trade，簡稱ART）」達成共識，並與葛里爾大使、美國商務部長盧特尼克（Howard Lutnick）共同見證駐美國台北經濟文化代表處（TECRO）俞大㵢大使、美國在台協會（AIT）華盛頓總部藍鶯執行理事完成「臺美對等貿易協定」之簽署"
+      },
+      "confidence": "high",
+      "note": "簽署≠生效。查證到的最新官方狀態：2026-02-21 行政院稿稱『尚待確定如何執行…包括是否將「對等貿易協定」送交立法院審議等，政府也都會適時因應』；本次沒有找到立法院審議結果或協定生效公告，所以『是否生效』寫 null（未查到），不要寫成已生效。"
+    },
+    {
+      "id": "ev23-sec232-semis",
+      "date": "2025-04-01",
+      "title": "美國商務部啟動232條款半導體調查（2025-04-01）；2026-01-14 第一階段公告（25%，窄範圍）",
+      "fact": "聯邦公報：2025年4月1日商務部長依232條款啟動半導體、半導體製造設備及其衍生產品調查（公告於2025-04-16）。總統公告11002（2026-01-14）：商務部長於2025-12-22提交報告；對特定先進運算晶片及衍生產品課25%從價稅，自2026-01-15美東00:01生效；第二階段需待貿易談判完成後再考慮更廣泛稅率，行政院稱第二階段調查報告尚待商務部發布。",
+      "source": {
+        "url": "https://www.federalregister.gov/documents/full_text/xml/2025/04/16/2025-06591.xml",
+        "title": "Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Semiconductors and Semiconductor Manufacturing Equipment（2025-06591, 90 FR 15950）",
+        "publisher": "U.S. Department of Commerce, BIS（Federal Register）",
+        "period": "2025-04-16 刊登",
+        "accessed": "2026-11-10",
+        "quote": "April 1, 2025, the Secretary of Commerce initiated an investigation under section 232 of the Trade Expansion Act (19 U.S.C. 1862) to determine the effects on national security of imports of semiconductors, semiconductor manufacturing equipment, and their derivative products."
+      },
+      "confidence": "high",
+      "note": "截至 2026-11-10 的『官方結果』：已查到的只有第一階段（Proclamation 11002，2026-01-14）。行政院臺美關稅專站的行政命令清單到 2026-08（多晶矽 8/6、無人機 8/13 為另案232）未列出半導體第二階段公告；網路上有『40–50%』的預測性文章，無官方依據，不採。本次無法確認 2026-08 之後有無新公告，結論是『未查到第二階段官方公告』，並非『確定沒有』。臺灣側：ART/MOU 載明對未來半導體232措施取得最優惠待遇（行政院稿：『取得未來可能之半導體及半導體衍生品…最優惠待遇』），具體稅率尚未公告。",
+      "extra_sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/full_text/text/2026/01/20/2026-01052.txt",
+          "title": "Proclamation 11002 of January 14, 2026: Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States",
+          "publisher": "The White House（Federal Register, 91 FR 2443）",
+          "period": "2026-01-14 簽署；2026-01-20 刊登",
+          "accessed": "2026-11-10",
+          "quote": "I have also determined that it is necessary and appropriate to impose an immediate 25 percent ad valorem duty rate on the import of certain advanced computing chips and certain derivative products described in the Annex to this proclamation (Covered Products)；In the second phase--after trade negotiations have concluded--the Secretary recommended broader tariffs on semiconductors, at a rate of duty that is significant."
+        },
+        {
+          "url": "https://twustariff.ey.gov.tw/page/tariff/usa-order/13",
+          "title": "2026年1月14日美國對進口半導體、半導體製造設備及其衍生產品徵收232條款關稅措施相關要點整理(Proclamation 11002)",
+          "publisher": "行政院經貿談判辦公室（臺美關稅談判及產業支持方案專站）",
+          "period": "2026-01",
+          "accessed": "2026-11-10",
+          "quote": "生效時間： 自2026年1月15日美東時間凌晨00:01起生效。…第二階段調查報告尚待商務部發布。"
+        }
+      ]
+    },
+    {
+      "id": "ev24a-nvidia-constellation-2025",
+      "date": "2025-05-19",
+      "title": "輝達在 Computex 2025 主題演講揭曉臺灣新辦公室「Constellation」",
+      "fact": "NVIDIA 官方部落格（發布 2025-05-19 UTC）：黃仁勳揭曉 NVIDIA Constellation，為輝達在臺灣的全新辦公室；Computex 2025 新聞包亦列『NVIDIA CEO Jensen Huang Announces Constellation』。",
+      "source": {
+        "url": "https://blogs.nvidia.com/blog/computex-2025-jensen-huang/",
+        "title": "NVIDIA CEO Envisions AI Infrastructure Industry Worth ‘Trillions of Dollars’",
+        "publisher": "NVIDIA",
+        "period": "2025-05-19（published_time 2025-05-19T05:34Z）",
+        "accessed": "2026-11-10",
+        "quote": "The big reveal: NVIDIA Constellation, a brand new Taiwan office for NVIDIA’s growing Taiwan workforce."
+      },
+      "confidence": "medium",
+      "note": "此官方稿只說『Taiwan office』，未提北士科（地點）；『北士科』的官方說法見 ev24b 市府新聞稿。官方用語是 'Constellation' 與 'office'，不是『總部』。"
+    },
+    {
+      "id": "ev24b-nvidia-taipei-contract",
+      "date": "2026-02-11",
+      "title": "臺北市政府與輝達完成北投士林科技園區（北士科）T17、T18地上權簽約",
+      "fact": "市府新聞稿：臺北市長宣布臺北市政府已正式與輝達完成地上權簽約；地上權期間50年加20年，權利金新臺幣122億元，簽約雙方為臺北市政府與台灣輝達經典股份有限公司；輝達提出的投資營運計畫，從興建到營運總投資金額將超過400億元，可創造超過1萬個工作機會；市府期盼2026年6、7月動工。",
+      "source": {
+        "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A777DD3DF2EFF93F",
+        "title": "北市府與輝達完成簽約 蔣萬安：臺北就是輝達的家",
+        "publisher": "臺北市政府秘書處媒體事務組",
+        "period": "115-02-11",
+        "accessed": "2026-11-10",
+        "quote": "依據簽約內容，本案地上權期間為50年加20年，權利金新臺幣122億元，簽約雙方為臺北市政府與台灣輝達經典股份有限公司。蔣萬安強調，很高興輝達第一個海外總部順利落腳北投士林科技園區，「臺北，就是輝達的家」。"
+      },
+      "confidence": "high",
+      "note": "官方用語：『輝達第一個海外總部』『北投士林科技園區』『台灣輝達經典股份有限公司』。投資額與就業數是輝達『投資營運計畫』的預估（市府轉述）。動工與完工是否如期，本次未查。",
+      "extra_sources": [
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+          "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI（Constellation 段）",
+          "publisher": "NVIDIA",
+          "period": "直播部落格，Constellation 段時間標記 Tuesday, May 26, 8:30 p.m. PT（2026）；文章 published_time 2026-05-21",
+          "accessed": "2026-11-10",
+          "quote": "The new building, designed to house roughly 4,000 employees, will be based in the Beitou-Shilin Technology Park in northern Taipei on a site spanning nearly 4 hectares."
+        }
+      ]
+    },
+    {
+      "id": "ev25-taiex-milestones",
+      "date": "2000-02-09",
+      "title": "加權指數首次收盤站上 10,000／20,000／30,000／40,000 點（TWSE 歷史資料可查範圍）",
+      "fact": "以證交所『發行量加權股價指數歷史資料』API逐日計算：收盤首次≥10,000為2000-02-09（API自1999年起，1990年資料不在其中）；≥20,000為2024-03-21（盤中首破20,000為2024-03-08）；≥30,000為2026-01-05（盤中同日）；≥40,000為2026-05-04（盤中首破為2026-04-27）。",
+      "source": {
+        "url": "https://www.twse.com.tw/rwd/zh/TAIEX/MI_5MINS_HIST?date=YYYYMM01&response=json",
+        "title": "發行量加權股價指數歷史資料",
+        "publisher": "臺灣證券交易所",
+        "period": "1999-01～2026-11-09（掃描區間見紀錄）",
+        "accessed": "2026-11-10",
+        "quote": "首次收盤≥10000：89/02/09 收盤 10008.88（前一交易日 89/02/01 9856.39，區間內無更早）；≥20000：113/03/21 收盤 20199.09；≥30000：115/01/05 收盤 30105.04；≥40000：115/05/04 收盤 40705.14"
+      },
+      "confidence": "high",
+      "note": "程式：data/industry/research/_timeline_taiex_scan.py（主要區間輸出 raw/twse_taiex_daily_selected_20261110.csv；參數 gap 補掃 2001-01～2023-05，輸出 raw/twse_taiex_daily_gap2001_2023_20261110.csv，該期間最高盤中點未達20,000，故20,000以上門檻無更早日期；萬點則 2015-04-27 起又有盤中站上，皆晚於2000-02-09）。TWSE此API無1999年以前資料，故『1990 年首次站上 10,000』為 null（見 first_10000_1990）：證交所年報頁被 WAF 擋，新聞對1990高點日期又在 2/13 與 2/16 之間互相矛盾。『站上』口徑：本表同時給首次收盤與首次盤中。",
+      "first_10000_1990": {
+        "value": null,
+        "reason": "證交所歷史資料 API 僅有 1999 年起；1990 年（高點 12,682 點）的逐日資料與首次突破萬點日期，沒有取得證交所或證交所新聞稿的原始來源；新聞稿說法互相矛盾。"
+      },
+      "thresholds": {
+        "10000": {
+          "first_close": "2000-02-09",
+          "first_intraday": "2000-02-09",
+          "scope": "TWSE API 1999 起；非史上第一次"
+        },
+        "20000": {
+          "first_close": "2024-03-21",
+          "first_intraday": "2024-03-08"
+        },
+        "30000": {
+          "first_close": "2026-01-05",
+          "first_intraday": "2026-01-05"
+        },
+        "40000": {
+          "first_close": "2026-05-04",
+          "first_intraday": "2026-04-27"
+        }
+      }
+    }
+  ],
+  "institutions": {
+    "a_industrial_innovation_act_tax_incentives": {
+      "fact": "《產業創新條例》現行最後修正為民國115年9月30日（沿革）。第72條：第10條（研發支出抵減，15%當年或10%三年）施行期間自106年11月24日至118年12月31日；112年1月19日修正公布條文（含第10-2條）施行期間自112年1月1日至118年12月31日；第10-1條（智慧機械、5G、資安、AI、節能減碳投資抵減）條文本身載明114年1月1日起至118年12月31日止；第12-1、12-2條自109年1月1日至118年12月31日；第23-3條（未分配盈餘減除）自公布生效日至118年12月31日；第23-2條（天使投資）自114年1月1日至118年12月31日（115年修正版：自公布生效日至118年12月31日）；第19-1條（員工獎酬股票）115年修正版自116年1月1日至118年12月31日（舊版109-01-01至115-12-31）。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
+        "title": "產業創新條例（第72條、第10條、第10-1條、第19-1條）",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "現行；法規整編資料截止日 民國115年10月30日",
+        "accessed": "2026-11-10",
+        "quote": "本條例中華民國一百十二年一月十九日修正公布條文施行期間，自一百十二年一月一日起至一百十八年十二月三十一日止。本條例中華民國一百十五年八月二十七日修正之第十九條之一施行期間，自一百十六年一月一日起至一百十八年十二月三十一日止；第二十三條之二施行期間，自公布生效日起至一百十八年十二月三十一日止。"
+      },
+      "confidence": "high",
+      "note": "資料庫頁首標示『本法規部分或全部條文尚未生效』（114年修正之第22、67-3條施行日由行政院定之）。第72條內文寫『一百十五年八月二十七日修正』，沿革寫『一百十五年九月三十日公布』，兩個日期同一輪修正（通過日 vs 公布日推測，未驗證）。各優惠的詳細比率不在本段範圍。"
+    },
+    "b_science_parks": {
+      "fact": "《科學園區設置管理條例》：園區業務由主管機關所屬各管理局辦理（第6條）；條文仍寫主管機關為科技部（第2條），沿革載明科技部權責已於111年7月27日起改由國家科學及技術委員會管轄。園區事業自國外輸入自用機器、設備，免徵進口稅捐、貨物稅及營業稅（第23條第1項）；輸入原料、物料、燃料、半製品、樣品及供貿易用之成品免徵進口稅捐、貨物稅及營業稅（第2項）；以產品或勞務外銷者營業稅稅率為零並免徵貨物稅（第3項）；可劃定保稅範圍（第22條）；經管理局認定科學技術對產業發展有特殊貢獻者，得減免承租土地五年以內之租金（第24條）。三座科學園區管理局：新竹（竹科）、南部（南科）、中部（中科）。",
+      "source": {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160004",
+        "title": "科學園區設置管理條例（第2、6、22、23、24條）及沿革",
+        "publisher": "全國法規資料庫（法務部）",
+        "period": "現行；107年6月6日全文修正；擷取 2026-11-10",
+        "accessed": "2026-11-10",
+        "quote": "園區業務由主管機關所屬各管理局辦理…；園區事業自國外輸入自用機器、設備，免徵進口稅捐、貨物稅及營業稅。但於輸入後五年內輸往課稅區者，應依進口貨品之規定，課徵進口稅捐、貨物稅及營業稅。"
+      },
+      "confidence": "high",
+      "note": "本條例未規定所得稅減免；歷史上的所得稅獎勵（五年免稅）在促進產業升級條例時代，本次未逐條查現況，不寫。管理局簡介見 ev09a（竹科）、ev14a（南科）、ev14b（中科）。"
+    },
+    "c_listing_boards": {
+      "fact": "上市（TWSE一般事業）：設立登記滿三年；實收資本額6億元以上且普通股3,000萬股以上；稅前淨利占股本比率最近二年均達6%，或最近二年平均達6%且較前年佳，或最近五年均達3%，且最近年度無累積虧損；記名股東1,000人以上，內部人及持股逾50%法人以外者不少於500人且持股占20%以上或滿1,000萬股。另有市值50億（營收＞50億等）及60億元替代標準。上櫃：設立滿2完整會計年度；實收資本額5千萬元以上；稅前淨利占股本最近一年達4%、或最近二年均3%以上等（且最近年度稅前淨利不低於400萬元、無累積虧損），或淨值6億元＋營收20億元且成長＋營業現金流量淨流入；記名股東不少於300人；須興櫃交易滿6個月。興櫃：公司規模、設立年限、獲利、股權分散皆無限制，須與證券商簽輔導契約、設薪酬委員會、獨立董事不少於2席。創新板（TIB）：設立滿2年以上、發行1,000萬股以上；不設獲利門檻，市值標準分三類：10億元（且最近四季營收1億元）、20億元（限生技醫療，新藥核心產品通過第一期臨床）、40億元；記名股東50人以上；須輔導或興櫃滿6個月；申請公司需有關鍵核心技術及創新能力或創新經營模式。",
+      "sources": {
+        "main_board": {
+          "url": "https://www.twse.com.tw/zh/listed/method/standars.html",
+          "title": "國內公司申請標準",
+          "publisher": "臺灣證券交易所",
+          "period": "擷取 2026-11-10（頁面無日期）",
+          "accessed": "2026-11-10",
+          "quote": "設立年限：申請上市時已依公司法設立登記屆滿三年以上。…資本額：申請上市時之實收資本額達新台幣六億元以上且募集發行普通股股數達三千萬股以上。"
+        },
+        "otc_and_emerging": {
+          "url": "https://www.tpex.org.tw/web/regular_emerging/apply_way/standard/standard.php?l=zh-tw",
+          "title": "上(興)櫃申請標準及流程",
+          "publisher": "證券櫃檯買賣中心",
+          "period": "擷取 2026-11-10（頁面無日期）",
+          "accessed": "2026-11-10",
+          "quote": "公司規模 本國企業須實收資本額新臺幣5千萬元以上。… 設立年限 設立登記滿2完整會計年度。… 興櫃股票 … 無限制"
+        },
+        "tib": {
+          "url": "https://www.twse.com.tw/TIB/zh/requirement.html",
+          "title": "上市條件（臺灣創新板）",
+          "publisher": "臺灣證券交易所",
+          "period": "擷取 2026-11-10（頁面無日期）",
+          "accessed": "2026-11-10",
+          "quote": "第一類： 市值：不低於新臺幣10億元 營業收入：最近四季合計不低於1億元… 第三類： 市值：不低於新臺幣40億元"
+        }
+      },
+      "confidence": "high",
+      "note": "各頁面均無『更新日期』，以擷取日 2026-11-10 當日網頁為準。創新板2025-01-06已取消合格投資人限制（證交所歷史介紹）。上櫃獲利標準有多款，這裡只列主要幾款；科技事業、文創事業另有放寬。證交所歷史介紹：創新板 2021-07-20 開板。TWSE『上市審查準則』法規知識庫頁面未另取（WAF）。"
+    },
+    "d_national_development_fund": {
+      "fact": "國家發展基金依《產業創新條例》第29條由行政院設置，目的『加速產業創新加值，促進經濟轉型及國家發展』；第30條用途含投資產業創新、高科技發展、能資源再生、綠能產業等重要事業或計畫，融貸資金於產業永續發展、防治污染、節約能源等輔導計畫，及協助各中央目的事業主管機關辦理投融資、技術合作與推動計畫支出。規模：2024年年報載，113年12月底資產總額新臺幣2兆985.13億元、負債18.26億元、淨值2兆966.87億元；國庫歷年撥交309.32億元。",
+      "sources": {
+        "law": {
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
+          "title": "產業創新條例第29、30條",
+          "publisher": "全國法規資料庫（法務部）",
+          "period": "擷取 2026-11-10",
+          "accessed": "2026-11-10",
+          "quote": "為加速產業創新加值，促進經濟轉型及國家發展，行政院應設置國家發展基金。"
+        },
+        "size": {
+          "url": "https://ws.ndc.gov.tw/001/administrator/32/relfile/7030/38979/56744b3f-02c8-4dc2-8ade-e4f6de111aca.pdf",
+          "title": "行政院國家發展基金管理會2024年年報（參、財務及繳庫情形）",
+          "publisher": "行政院國家發展基金管理會",
+          "period": "113年12月底",
+          "accessed": "2026-11-10",
+          "quote": "國發基金113年12月底資產總額新臺幣…2兆985.13億元，負債總額18.26億元，淨值總額2兆966.87億元；國庫歷年來撥交國發基金309.32億元"
+        }
+      },
+      "confidence": "high",
+      "note": "2024年報同表：資產 109年11,212.92、110年13,353.42、111年10,258.94、112年12,810.29、113年20,985.13（億元），長期投資占絕大部分（113年19,986.32億元）；數字隨持股評價變動，不是『投入資金』，請勿寫成『基金規模』當作預算。114年年報、115年季報本次未取得（國發會官網 Cloudflare 403，搜尋亦未出現），最新可引為 113 年底。國發基金 2006 年由中美基金與開發基金合併（來自搜尋摘要，未取得原文，不引）。"
+    }
+  },
+  "not_obtained": [
+    {
+      "item": "1990 年加權指數首次站上 10,000 點",
+      "value": null,
+      "reason": "證交所 API 僅 1999 起；無 1990 逐日原始資料；新聞稿說法矛盾"
+    },
+    {
+      "item": "十大建設全部完成年",
+      "value": null,
+      "reason": "無官方單一完成日；僅北迴鐵路 1980-02-01 全線完工有來源"
+    },
+    {
+      "item": "5+2 產業創新計畫正式核定日",
+      "value": null,
+      "reason": "只有院長談話，未找到公布文件"
+    },
+    {
+      "item": "ART 立法院審議／生效結果",
+      "value": null,
+      "reason": "未找到立法院表決或生效公告；最新官方狀態是 2026-02 簽署、尚待處理"
+    },
+    {
+      "item": "232 半導體第二階段官方結果",
+      "value": null,
+      "reason": "至 2026-11-10 未查到第二階段公告；第一階段為 Proclamation 11002（2026-01-14）"
+    },
+    {
+      "item": "國發基金 114 年底／115 年規模",
+      "value": null,
+      "reason": "國發會官網擋爬；僅取得 113 年底年報"
+    },
+    {
+      "item": "聯電、台積電官網『公司沿革』頁",
+      "value": null,
+      "reason": "umc.com 與 tsmc.com 對 curl 回 403；改採證交所開放資料與台積電財報附註"
+    }
+  ]
+}

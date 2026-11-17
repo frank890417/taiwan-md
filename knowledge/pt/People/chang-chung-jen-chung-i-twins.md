@@ -26,11 +26,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-08T00:42:54+08:00'
+translatedAt: '2026-11-05T08:56:24.484362+00:00'
 ---
 
 > **Resumo em 30 segundos**: Em 1979, o Hospital Nacional de Taiwan realizou a cirurgia de separação de 12 horas de Chang Chung-jen e Chang Chung-yi com uma equipe multidisciplinar de 36 pessoas. Este foi um marco importante na história médica de Taiwan, mas não foi o fim da história dos dois irmãos. A dor pós-operatória, a reabilitação, o trabalho, a família e o escrutínio da mídia formaram a vida longa que eles tiveram como "duas pessoas".

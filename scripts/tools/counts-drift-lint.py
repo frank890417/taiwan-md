@@ -193,6 +193,8 @@ def check_outward_articles():
         ("README.md", r"\*\*(\d+) curated articles\*\*"),
         ("src/components/SEO.astro", r"(\d+)\+ 篇深度策展文章"),
         ("src/i18n/home.ts", r"(\d+)\+? ?(?:pages of in-depth|以上の深掘り|\+ 심층|頁深度內容|páginas de contenido|pages de contenu)"),
+        # /explore/ 描述（2026-11-04 evolve 接管；zh 與 en 兩處當代表，其餘 11 語同一支 patch 一起改）
+        ("src/i18n/explore.ts", r"(\d+)\+ (?:篇台灣策展文章|curated articles)"),
     ]
     for path, pat in sites:
         t = rd(path)

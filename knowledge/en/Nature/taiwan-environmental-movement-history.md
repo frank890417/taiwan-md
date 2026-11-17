@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-08-04T13:18:18+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:25:23.693194+00:00'
 ---
 
 # A History of Environmental Movements in Taiwan
@@ -94,20 +94,21 @@ Entering the 21st century, Taiwan's environmental movement exhibits several new 
 
 Taiwan's environmental movement faces several ongoing challenges:
 
-**Economic Development Pressure**: In the context of global competition, balancing environmental protection with economic growth remains difficult. Energy transition and industrial restructuring both require long-term planning and social consensus.
+**Economic Development Pressures**: In the midst of global competition, balancing environmental protection with economic growth remains difficult. Energy transition and industrial transformation both require long-term planning and social consensus.
 
-**Risk of Politicization**: Environmental issues are susceptible to politicization, which affects policy continuity. Nuclear energy policy is a clear example, as political stances shift depending on which party is in power.
+**Risk of Politicization**: Environmental issues are easily politicized, which affects policy continuity. Nuclear energy policy is a clear example, with different political parties holding different stances when in power.
 
-**Generational Differences in Values**: Differing perceptions of environmental values across generations affect the social foundation for promoting policies.
+**Generational Differences in Values**: Different generations have varying perceptions of environmental values, affecting the social foundation for policy implementation.
 
-**Resource Constraints**: Compared to corporations and the government, environmental groups have limited resources, affecting the scale and sustainability of their actions.
+**Resource Constraints**: Compared to corporations and the government, environmental groups have limited resources, which impacts the scale and sustainability of their actions.
 
-Over forty years of development, Taiwan's environmental movement has evolved from protests against pollution into diverse actions seeking sustainable development. This process reflects a shift in Taiwanese societal values: from pursuing rapid growth to valuing quality of life; from individual interest to intergenerational responsibility. The next step for the environmental movement will be how to establish more effective environmental governance mechanisms within a democratic system.
+Over forty years of development, Taiwan's environmental movement has evolved from protests against pollution into diverse actions pursuing sustainable development. This process reflects a shift in Taiwan's societal values: from pursuing rapid growth to valuing quality of life; from individual interests to intergenerational responsibility. The next step for the environmental movement will be how to establish more effective environmental governance mechanisms within a democratic system.
 
 **Further Reading**:
 
-- [Discussions on Taiwan and Nuclear Energy](/en/society/taiwan-nuclear-debate) — How the anti-nuclear movement grew out of the environmental movement and was reshuffled by the climate generation: A complete debate history of forty years and three referendums.
-- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — How environmental awareness transforms into national-level net-zero transition policies and energy structure restructuring.
+- [Discussions on Taiwan and Nuclear Energy](/en/society/taiwan-nuclear-debate) — How the anti-nuclear movement grew out of the environmental movement, and how it was reshuffled by the climate generation: A complete history of debates across three referendums over forty years.
+- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — How environmental awareness has transformed into national-level net-zero transition policies and energy structure restructuring.
+- [Formosa Express](/en/people/chi-po-lin) — The 2013 film _Formosa Express_ (看見台灣) allowed all of Taiwan to witness the cost of development together in cinemas; since then, disputes over land use and siltation have been taken up by people across the country.
 
 ## References
 

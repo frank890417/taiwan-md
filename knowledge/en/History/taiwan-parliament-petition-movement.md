@@ -3,7 +3,6 @@ title: 'The Taiwan Parliament Establishment Petition Movement: A Single Petition
 description: "From 1921 to 1934, Lin Hsien-tang and others challenged the Governor-General's colonial governance through fifteen petitions. Though the movement failed to secure a Taiwan Parliament, it transformed legal reasoning, periodicals, and organizational structures into public technologies for Taiwanese self-governance."
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'History',
@@ -15,16 +14,19 @@ tags:
     'Taiwan Minpao',
     'Local Self-Government',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-11T06:03:21+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T19:54:32.673623+00:00'
 ---
 
 On January 30, 1921, Lin Hsien-tang, Yeh Rung-chung, and 178 Taiwanese students in Tokyo submitted the first petition for the establishment of a Taiwan Parliament to the Imperial Diet of Japan. [^1] This document was subsequently submitted fifteen times, and the movement continued until a decision was made to cease operations on September 2, 1934. [^2] It did not secure a Taiwan Parliament, but it brought the question of "who can represent the Taiwanese" from study rooms and student dormitories directly into the institutional center of the Empire.
@@ -49,21 +51,21 @@ _Image: Taiwan Parliament Establishment Petition. Wikimedia Commons, Public doma
 
 > 📝 **Curator's Note:** The sharpest aspect of the petition movement was not that it positioned "Japan" and "Taiwan" as two abstract enemies, but that it used the constitutional principles claimed by the Empire to question back. If the law was only effective in the homeland, who exactly was the Empire's "unity" unifying?
 
-## A Document, First Passing Through the Hands of Legislators
+## One Document, First Through a Legislator's Hands
 
-The first petition on January 30, 1921, was not complete simply by delivering the document to the gates of the Diet. According to Article 62 of the then-current _Diet Law_, a petition required introduction by members of the Imperial Diet. After being introduced by Pastor Masahisa Uemura, House of Peers member Genzoku Ezu and House of Representatives member Kichijiro Tagawa agreed to serve as introducing legislators, allowing the petition to enter the review process. [^1]
+The first petition on January 30, 1921 was not completed by simply delivering the document to the Diet's doorstep. Under Article 62 of the Diet Law at the time, a petition required introduction by a member of the Imperial Diet. Through the introduction of Rev. Masahisa Uemura, House of Peers member Soroku Emoto and House of Representatives member Daijiro Tagawa agreed to serve as introducing legislators, and only then did the petition enter the examination process.[^1]
 
-This detail meant that the petition movement was no longer an abstract "knocking on the door of Tokyo." It was political work that required finding intermediaries, preparing legal texts, obtaining signatures, and waiting for the Diet's procedural handling. The first petition had 178 signatories. For each subsequent petition, participants had to repeatedly find viable paths between colonial police, censorship systems, and the cold responses of the Imperial Diet. [^1] [^2]
+This detail makes the petition movement no longer seem like an abstract "petitioning Tokyo." It was a political task requiring finding intermediaries, preparing legal texts, obtaining signatures, and then waiting for the Diet's procedural handling. The first petition had 178 signatories. In each subsequent round, participants had to find viable paths anew among the colonial police, the censorship system, and the Imperial Diet's indifferent responses.[^1] [^2]
 
-In March 1921, the Imperial Diet of Japan passed Ordinance No. 3, retaining the Governor-General's delegated legislative power. The route originally demanding the abolition of the Sixty-Three Law thus lost its leverage, and the establishment of a Taiwan Parliament became more concentrated as the goal of the Taiwanese political movement. [^2]
+In March 1921, the Imperial Diet of Japan passed Law No. 3, and the Governor-General of Taiwan's delegated legislative authority was retained. The original line of demanding the abolition of Law 63 thus lost its leverage, and establishing a Taiwan Parliament became the concentrated goal of Taiwan's political movement.[^2]
 
-| Time              | Milestone in the Petition Movement                                                    | Political Significance                                                                      |
-| ----------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| December 1920     | Lin Cheng-lu publishes "The Destination of the Sixty-Three Problem" in _Taiwan Youth_ | Shifts the controversy of abolishing the Sixty-Three Law toward a representative parliament |
-| January 30, 1921  | 178 people submit the first petition                                                  | The petition gains an entry point in the Imperial Diet's procedures                         |
-| October 17, 1921  | Establishment of the Taiwan Cultural Association                                      | Places political demands within networks of culture, education, and lectures                |
-| December 16, 1923 | Island-wide crackdown of the Political Crimes Incident                                | Colonial police directly suppress political associations                                    |
-| September 2, 1934 | Resolution to cease after the fifteenth petition                                      | The fourteen-year petition movement comes to a close                                        |
+| Time              | Milestone in Petition Movement                                                       | Political Significance                                                          |
+| ----------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| December 1920     | Lin Hsien-tang publishes "The Destination of the Article 63 Issue" in _Taiwan Youth_ | Turns the controversy over abolishing Law 63 toward a representative parliament |
+| January 30, 1921  | 178 people submit first petition                                                     | Petition gains procedural entry into Imperial Diet                              |
+| October 17, 1921  | Taiwan Cultural Association established                                              | Places political demands into cultural, educational, and lecture networks       |
+| December 16, 1923 | Political Crimes Incident island-wide crackdown                                      | Colonial police directly suppress political associations                        |
+| September 2, 1934 | Resolution to stop after 15th petition                                               | Fourteen-year petition movement reaches a close                                 |
 
 ## Fifteen Submissions Are Not Fifteen Repetitive Filings
 
@@ -155,30 +157,30 @@ Reading that document today, what is most worth pausing for is not its failure, 
 
 ## References
 
-[^1]: [Taipei Municipal Taiwan New Culture Movement Memorial Hall: January 30, 1921 First Taiwan Parliament Establishment Petition](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Records the date of the first petition, the 178 signatories, the legislator introduction procedure, and the Governor-General's Office's opposition to the establishment of a Taiwan Parliament.
+[^1]: [Taipei City Taiwan New Cultural Movement Memorial Hall: First Petition for the Establishment of a Taiwanese Parliament on January 30, 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Records the date of the first petition, 178 signatories, the legislator introduction procedure, and the Governor-General's opposition to the establishment of a Taiwanese parliament.
 
-[^2]: [Legislative Yuan Democratic Parliamentary Park: Taiwan Parliament Establishment Petition Movement 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Organizes the institutional context of Lin Cheng-lu's "The Destination of the Sixty-Three Problem," the fifteen petitions, the Cultural Association split, the dissolution of the Taiwan People's Party, and the cessation of the movement.
+[^2]: [Legislative Yuan Democracy Park: Petition Movement for the Establishment of a Taiwanese Parliament 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Compiles Lin Cheng-lu's 'The Resolution of the Article 63 Problem,' the fifteen petitions, the split of the Cultural Association, the dissolution of the Taiwanese People's Party, and the institutional context of the movement's cessation.
 
-[^3]: [Taipei Municipal Taiwan New Culture Movement Memorial Hall: September 2, 1934 Taiwan Parliament Establishment Petition Movement Ceased](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Records the resolution to cease after the fifteenth petition, the Taichung meeting, the Governor-General's audience, and the end process of the fourteen-year movement.
+[^3]: [Taipei City Taiwan New Cultural Movement Memorial Hall: Suspension of the Petition Movement for the Establishment of a Taiwanese Parliament on September 2, 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Records the resolution to suspend after the fifteenth petition, the Taichung Conference, the audience with the Governor-General, and the process ending the fourteen-year movement.
 
-[^4]: [Taipei Municipal Taiwan New Culture Movement Memorial Hall: October 17, 1921 Establishment of the Taiwan Cultural Association](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Collects the location of the Cultural Association's establishment, attendance scale, purpose, and enlightenment activities such as reading clubs, lectures, activity photography, and summer schools.
+[^4]: [Taipei City Taiwan New Cultural Movement Memorial Hall: Establishment of the Taiwan Cultural Association on October 17, 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Includes the founding location, attendance scale, purpose of the Cultural Association, as well as enlightenment activities such as reading rooms, lectures, event photographs, and summer schools.
 
-[^5]: [Taipei Municipal Taiwan New Culture Movement Memorial Hall: December 16, 1923 Political Crimes Incident Island-Wide Crackdown](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explains the political background of the Taiwan Parliament Association being banned, the Governor-General's Office's island-wide crackdown, and the detention of nearly thirty people.
+[^5]: [Taipei City Taiwan New Cultural Movement Memorial Hall: Island-wide Arrests in the Political Police Incident on December 16, 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explains the banning of the Taiwan Parliament Formation Alliance, the Governor-General's island-wide arrests, and the political background of nearly thirty people being detained.
 
-[^6]: [Taipei Municipal Taiwan New Culture Movement Memorial Hall: April 15, 1923 Founding of _Taiwan Minpao_](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Records the founding of _Taiwan Minpao_, the review system, the 1925 circulation, and media historical materials on its 1927 relocation to Taiwan for publication.
+[^6]: [Taipei City Taiwan New Cultural Movement Memorial Hall: Launch of The Taiwan Minpao on April 15, 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Records the launch of The Taiwan Minpao, the censorship system, its 1925 circulation, and the 1927 relocation of publication to Taiwan.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — An introduction written by James Gerien-Chen of the University of Florida and an整理 of the 1923 petition reasons, providing English colonial legal theory, the Sixty-Three Law, and petition text context.
+[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Written with an introduction by James Gerien-Chen of the University of Florida, compiling the 1923 petition reasons, providing English context on colonial legal theory, Article 63, and the petition texts.
 
-[^8]: [Academia Sinica Institute of Taiwan History: Taiwan's First Local Elections: Institutional Operations of the Japanese Colonial Government](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Uses academic research to analyze the 1935 local system reform, half-elected seats, and voting qualification limits, avoiding the miswriting of limited self-governance as universal democracy.
+[^8]: [Institute of Taiwan History, Academia Sinica: Taiwan's First Local Elections: Institutional Manipulation by the Japanese Colonial Government](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Uses academic research to analyze the 1935 local system reform, half-elected seats, and electoral qualification restrictions, avoiding mischaracterizing limited self-governance as universal democracy.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — An English academic chapter abstract views the political and cultural movements of Taiwanese gentry and intellectuals from 1920 to 1940 as the first wave of Taiwan's civil society development.
+[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — English academic chapter abstract regards the political and cultural movements of Taiwanese gentry and intellectuals from 1920 to 1940 as the first wave of Taiwan's civil society development.
 
-[^10]: [Wikimedia Commons: 1924 Taiwan Parliament Petition Delegation in Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Archive page of the 1924 petition delegation arriving in Tokyo and posing with Taiwanese students, authorized as Public domain.
+[^10]: [Wikimedia Commons: 1924 Taiwanese Parliament Petition Delegation in Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Archive page of the petition delegation's arrival in Tokyo and group photo with Taiwanese students in 1924, licensed as Public domain.
 
-[^11]: [Wikimedia Commons: 1925 Taiwan Cultural Association Lecture Group](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Group photo of the 1925 Cultural Association Lecture Group at the _Taiwan Minpao_ wholesale office of the Hsinchu Prefecture branch, authorized as Public domain.
+[^11]: [Wikimedia Commons: 1925 Taiwan Cultural Association Lecture Tour Group](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Group photo of the Cultural Association lecture tour group at the Hsinchu Prefecture branch of The Taiwan Minpao wholesale office in 1925, licensed as Public domain.
 
-[^12]: [Wikimedia Commons: _Taiwan Minpao_ Front Page, January 1, 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Image of the _Taiwan Minpao_ front page, January 1, 1926, archive page marked as Public domain according to Japanese copyright rules.
+[^12]: [Wikimedia Commons: Front Page of The Taiwan Minpao, January 1, 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Front page image of The Taiwan Minpao, January 1, 1926, archive page marked as Public domain under Japanese copyright rules.
 
-[^13]: [Wikimedia Commons: Taiwan Parliament Establishment Petition](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Archive page of the Taiwan Parliament Establishment Petition image, authorized as Public domain.
+[^13]: [Wikimedia Commons: Petition for the Establishment of a Taiwanese Parliament](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Archive page of the petition for the establishment of a Taiwanese parliament image, licensed as Public domain.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Archive page of Lin Hsien-tang's portrait, authorized as Public domain.
+[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Archive page of Lin Hsien-tang's portrait, licensed as Public domain.

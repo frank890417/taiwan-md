@@ -1,19 +1,29 @@
 ---
 title: 'Taiwan and Lithuania: A Partnership Negotiating Between Democratic Values and Geopolitical Realities'
-description: 'From the breakthrough of establishing a representative office in 2021 to the Lithuanian new government''s 2026 reflection on a "strategic mistake," Taiwan–Lithuania relations have shifted from a warm value-based alliance to pragmatic interest-based negotiation. A "disunity between the presidency and the cabinet" has emerged in Lithuania over the renaming dispute, while Taiwan, through deepening semiconductor and laser cooperation, seeks to sustain this landmark international friendship amid political pressure and economic commitments.'
+description: 'From the breakthrough of establishing a representative office in 2021 to the reflection on "strategic errors" by Lithuania''s new government in 2026, Taiwan-Lithuania relations are shifting from an enthusiastic value-based alliance toward pragmatic interest-based negotiation. While internal disputes over name changes have emerged within Lithuania, Taiwan is attempting to maintain this landmark international friendship amidst political pressure and economic commitments by deepening cooperation in semiconductors and lasers.'
 date: 2026-05-05
-author: 'Taiwan.md'
 category: 'Society'
+tags:
+  [
+    'Diplomacy',
+    'International Relations',
+    'Democracy',
+    'Economic Cooperation',
+    'Lithuania',
+    'Geopolitics',
+  ]
 subcategory: '國際關係'
-tags: ['外交', '國際關係', '民主', '經濟合作', '立陶宛', '地緣政治']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T20:13:07.364743+00:00'
 ---
 
 > **30-second overview:** Taiwan–Lithuania relations peaked in 2021 with the establishment of a representative office bearing the name "Taiwan," but immediately faced severe economic coercion from China. Entering 2026, political changes in Lithuania have triggered a profound strategic review: the new prime minister has questioned the name as a "strategic mistake" and floated the possibility of renaming it, while the president has insisted on the existing position, creating a rift between the presidency and the cabinet. At the same time, bilateral trade has grown逆势 despite sanctions, and Taiwan, through the "Action Plan for Economic Cooperation with Taiwan" and substantive investment, continues to deepen this democracy-named partnership under realist scrutiny.

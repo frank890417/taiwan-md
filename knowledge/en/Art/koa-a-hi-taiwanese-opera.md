@@ -1,137 +1,139 @@
 ---
-title: 'Opera Xianxi: From Yilan Temple Courtyards to Television, and Back to the People'
-description: 'How the street performances of late 19th-century Yilan temple courtyards entered theaters in the 1920s, survived the Japanese colonial era and the golden age of television, and returned to the stage, digital preservation, and the next generation of audiences.'
-category: 'Art'
-subcategory: '表演藝術'
-tags:
-  ['Opera Xianxi', 'Local Opera Xianxi', 'Yilan', 'Traditional Performing Arts']
-author: 'Taiwan.md Contributors'
+title: 'Taiwanese Opera: From Yilan Temple Courtyards into Television, and Back to the People'
+description: 'How the luodi sao (ground-sweeping performances) in Yilan temple courtyards at the end of the 19th century entered commercial theaters in the 1920s, passed through the Kominka period and the television golden age, and finally returned to the theater, digital preservation, and the next generation of audiences.'
 date: 2026-08-20
-readingTime: 9
+category: 'Art'
+tags:
+  ['Taiwanese Opera', 'Local Gezaixi', 'Yilan', 'Traditional Performing Arts']
+subcategory: '表演藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/歌仔戲.md'
-sourceCommitSha: 'a277bd5fa'
-sourceContentHash: 'sha256:ec862a3b3d59ce03'
-sourceBodyHash: 'sha256:9c9e15016b2f347e'
-translatedAt: '2026-09-11T06:46:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:2040ccc7373956b8'
+sourceBodyHash: 'sha256:d6f56dc6ecb9a820'
+translatedAt: '2026-11-05T19:45:57+08:00'
 ---
 
-> **30-Second Overview:** Opera Xianxi did not begin in a theater, but in the street performances of late 19th-century Yilan temple courtyards. It entered commercial theaters in the 1920s, then survived by constantly changing stages through the radio, film, and television eras. Today, preserving it requires more than just saving play titles; it requires preserving the actors’ singing, recitation, physical movements, and the audience’s ability to respond in real time.
+> **30-Second Overview:** Taiwanese Opera did not begin in a theater, but with the luodi sao in Yilan temple courtyards at the end of the 19th century. It entered commercial theaters in the 1920s, then passed through radio, film, and television, surviving by constantly changing stages. Preserving it today cannot mean only preserving play titles; it must also preserve the performers' singing and recitation, spoken lines, footwork and hand gestures, and the ability to respond instantly to the audience below the stage.
 
-![Performance by the Xiuwenhua Opera Troupe at the Shanshui Shangdi Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg/960px-%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg)
+![Performance by the New Culture Taiwanese Opera Troupe at the Shanshui Shangdi Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg/960px-%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg)
 
-_Image: Performance by the Xiuwenhua Opera Troupe at the Shanshui Shangdi Temple. Author: Boattoad. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant). Embedded from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg). Not downloaded or modified.\_
+_Image: Performance by the New Culture Taiwanese Opera Troupe at the Shanshui Shangdi Temple, by Boattoad, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), embedded via [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg), not downloaded or modified.\_
 
-In the late 19th century, in Yilan’s temple courtyards, under trees, and alongside street processions, there was a performance without a stage. The actors were mostly amateur rural men; they wore no costumes and applied no makeup, singing songs while performing movements from the Chegu (car drum) style. This was the early form of what would become Opera Xianxi, known as "Local Opera Xianxi" (Bendi Gezai).[^1] In the 1920s, it entered commercial theaters, absorbing movements, repertoires, and stage techniques from Luan Tan, Waijiang, Jiu Jia Xi, and other opera genres.[^4]
+At the end of the 19th century, in Yilan's temple courtyards, under trees, and beside street procession troupes, there was a kind of performance that had no stage yet. The performers were mostly rural male amateurs who wore no costumes and no makeup, singing songs and executing chegu drum dance movements — this was the early form of Taiwanese Opera later called "local gezaixi." [^1] In the 1920s, it entered commercial theaters, absorbing the movements, repertoires, and stage techniques of luanxian, waijiang, jiukuaixi, and other theater genres. [^4]
 
-What is most memorable about Opera Xianxi is that it never locked "tradition" into a fixed version. In temple courtyards, it relied on improvisation; in theaters, it learned to sell tickets; in radio, it replaced physical movements with sound; in television, it dismantled the stage into camera shots. Each change of venue moved it slightly away from its original form, yet also extended its lifespan.[^1] [^2]
+What is most worth remembering about Taiwanese Opera lies precisely in the fact that it never locked "tradition" into a single fixed version. On the temple grounds it relied on improvisation; in the playhouse it learned to sell tickets; in radio it turned movement into sound; on television it broke the stage into camera shots. Every change of venue made it leave a bit of its original form behind, and every change let it live a little longer. [^1] [^2]
 
 ## A Play Without a Stage
 
-The performance of Local Opera Xianxi in Yilan initially required no scenery and lacked the heavy costumes familiar today. The National Center for Traditional Arts summarizes this form as "no stage" and "no makeup": rural youth performed in temple courtyards, squares, or under trees, with singing and acting driven by the atmosphere of the moment. This was called "Luodi Sao" (sweeping the ground) or "Tu Jiao Qiu" (walking on dirt floors).[^5]
+The performance of Yilan local gezaixi originally required no scenery, nor the heavy costumes familiar today. The National Center for Traditional Arts summarizes this mode as "no stage" and "no makeup": rural youths performed in temple courtyards, plazas, or under trees, with singing and acting following the on-site atmosphere, called luodi sao or thô-kha tshiat (ground-crawling). [^5]
 
-"Gezai" itself is related to the storytelling arts of Zhangzhou, Fujian, while Chegu provided the movements for song-and-dance mini-plays. In Yilan, where Zhangzhou immigrants were numerous, these melodies met local life, gradually forming their own performance style. This origin is not suitable to be described as simple transplantation, nor as a pure creation free from external influence. It is more like a group of people rearranging old materials into a play in a new place.[^1] [^5]
+"Gezaixi" itself is related to the shuochang (story-singing) art of Zhangzhou, Fujian, while the chegu drum provided the movements for song-and-dance skits. Yilan, with its larger Zhangzhou immigrant population, let these melodies encounter local life, gradually forming its own performance style. This origin is not suited to being described as a simple transplant, nor as a pure creation without external influence. It is more like a group of people in a new place rearranging old materials into a play. [^1] [^5]
 
-Early Local Opera Xianxi was often described as performed by amateur male actors, with relatively simple repertoires and melodies. The performance venue was part of daily life; the audience might be watching a temple fair, passing through a square, or simply sitting down next to an acquaintance. This close-distance performance later became the foundation of Opera Xianxi’s "improvised plays" (Huo Xi): actors knew when the audience laughed and knew which lines needed a pause.[^1] [^2]
+Early local gezaixi is often described as performed by amateur male actors, with relatively simple repertoires and melodies. Performance venues were part of daily life; the audience might be watching a temple fair, passing through a plaza, or simply sitting down beside acquaintances to listen. This close-distance performance later became the foundation of Taiwanese Opera's huoxi (living theater): actors knew when the people below were laughing, and knew which line needed an extra pause. [^1] [^2]
 
-Opera Xianxi later developed roles such as Sheng (male), Dan (female), Jing (painted face), and Chou (clown). Actors had to remember not only the identity of their characters but also learn their respective footwork, gestures, vocal styles, and blocking. The Huamian (painted face) role was originally introduced from large-scale operas like Beiguan and Peking Opera, illustrating how Opera Xianxi transformed external stage vocabulary into its own performance system.[^1]
+Taiwanese Opera later developed role types such as sheng, dan, jing, chou. Actors not only had to remember their character's identity, but also learn each role's distinctive footsteps, gestures, singing styles, and stage positions. The huamian (painted face) was originally introduced as the jing role from beiguan and jingju (Peking Opera) and other major theater forms, aptly illustrating how Taiwanese Opera converted foreign stage vocabulary into its own performance system. [^1]
 
-![The Huamian (Painted Face) Role in Opera Xianxi](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg/960px-%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg)
+![Taiwanese Opera Huamian (Painted Face) Role Type](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg/960px-%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg)
 
-_Image: The Huamian (Painted Face) Role in Opera Xianxi. Author: Sean Chiu. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant). Embedded from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg). Not downloaded or modified._
+_Image: Taiwanese Opera Huamian (Painted Face) Role Type, by Sean Chiu, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), embedded via [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg), not downloaded or modified._
 
-📝 **Curator’s Note:** The first stage of Opera Xianxi was not a building, but a small space left between people.
+📝 Curator's Note: Taiwanese Opera's first stage was not a building, but the small patch of open ground left between people.
 
-## Why It Quickly Became a Grand Opera
+## Why It Quickly Became Major Theater
 
-As Opera Xianxi spread from Yilan, relying solely on its original song-and-dance mini-plays was no longer sufficient to meet new competition. In the 1920s, with the rise of commercial theaters, Opera Xianxi entered "inner stages" (indoor theaters), beginning to use lighting, sound, scenery, and newly written scripts. It also extensively absorbed repertoires, character roles, and movements from other opera genres.[^2] [^4]
+As Taiwanese Opera spread outward from Yilan, the original song-and-dance skits alone were no longer enough to meet new competition. In the 1920s commercial theaters arose, and Taiwanese Opera entered the neitai (indoor theater), beginning to use lighting, sound, scenery, and newly written scripts, while also absorbing large quantities of other theater genres' repertoires, role types, and movements. [^2] [^4]
 
-This absorption was not mere decoration; it was the way the genre took shape. Opera Xianxi’s singing and recitation used Hokkien, which most audiences could understand, and its melodies and stories easily entered daily life. On the other hand, it incorporated elements from Beiguan, Nanguan, Peking Opera, and folk songs into its own body.[^1] [^2]
+This absorption was not decorative embellishment; it was the way the genre took shape. Taiwanese Opera's singing and recitation used Taiwanese Hokkien, which most audiences understood, and its melodies and stories easily entered daily life. On the other hand, it placed elements of beiguan, nanguan, jingju, and folk songs into its own body. [^1] [^2]
 
-Cultural heritage records divide its development into several successive scenes: Luodi Sao Opera Xianxi processions, outdoor stage Opera Xianxi, inner stage Opera Xianxi, radio, film, television, and theater. This route is less like a straight line that eliminates old forms and more like a troupe constantly adding new outlets to find its audience.[^4]
+Cultural heritage materials divide its development into several consecutive scenes: luodi sao gezaixi troupes, yetai (wild stage) Taiwanese Opera, neitai Taiwanese Opera, radio, film, television, and theater. This trajectory is not a straight line that eliminates old forms, but more like a troupe constantly adding new exits in order to find audiences. [^4]
 
-Outdoor stage performances remained connected to temple fairs, deity birthdays, Jiao rituals, and vow fulfillments. The main play often began with "Ban Xian" (dressing as immortals) to congratulate deities and pray for believers. Daytime plays could feature history and legends, while nighttime plays might add popular songs and new stories. Thus, Opera Xianxi simultaneously retained ritual time while bearing the market’s demand for novelty.[^1]
+Yetai performances remained connected to temple fairs, deity birthdays, jiao rituals, and vow fulfillments. Before the main play there was often a "xian" (immortal portrayal), first congratulating the gods and blessing believers. Daytime plays could perform history and legend; nighttime plays might incorporate current popular songs and newly written stories. Thus Taiwanese Opera simultaneously retained ritual time and bore the market's demand for novelty. [^1]
 
-## War Pushed the Hokkien Language into the Shadows
+## War Pushed Taiwanese Into the Shadows
 
-After the outbreak of the Second Sino-Japanese War in 1937, the Japanese colonial government implemented the "Imperialization" (Kōminka) policy, strictly restricting Opera Xianxi. Troupes were required to change names, rewrite content, and even wear kimonos, carry swords, and sing Japanese songs. Some performers preserved traditional content when police were absent, hastily switching to compliant performances when inspections approached.[^2]
+After the Second Sino-Japanese War broke out in 1937, the Japanese colonial government implemented the Kominka (imperial subject) policy, and Taiwanese Opera was severely restricted. Troupes were required to change names, rewrite content, even wear kimonos, carry samurai swords, and sing Japanese songs. Some performers preserved traditional content when police were absent, then hurriedly switched to compliant performances when inspections approached. [^2]
 
-This history gave "adaptation" an uncomfortable weight. Opera Xianxi indeed survived by changing its appearance, but this was not free innovation; it was a survival tactic forced by power. In the post-war 1950s, troupes rapidly revived, and inner stage Opera Xianxi reached a new peak. Subsequently, radio, film, and television took over its transformation.[^2]
+This history gives "adaptation" an uncomfortable weight. Taiwanese Opera did continue by changing its appearance, but that was not free innovation — it was a survival technique forced by power. In the 1950s after the war, troupes rapidly revived, and neitai Taiwanese Opera again reached a peak. Thereafter radio, film, and television took turns transforming it. [^2]
 
-A memory from Hong Mingxue makes that era more than just dates. She said, "In the past, fans had to save money and buy tickets just to see me." That was the distance between inner stage stars and their audiences, established by a ticket. Later, television moved this distance directly into homes; actors no longer waited for audiences to enter the theater, and audiences could wait for the play to start while eating dinner.[^2]
+A recollection by Hong Ming-xue makes that era more than just dates. She said: "Before, fans had to save money and buy tickets to see me; only by entering the playhouse could they see me." That was the distance that indoor-theater stars and audiences had to establish with a single ticket. Later television moved that distance directly into the home; actors no longer had to wait for audiences to enter the playhouse, and audiences could wait for the curtain to rise at mealtime. [^2]
 
-## Yang Lihua and the Xiaosheng on Television
+## Yang Li-hua and the Xiaosheng on Television
 
-One of the most recognizable figures after Opera Xianxi entered television was Yang Lihua. Data from the Taipei City Government Bureau of Cultural Affairs indicates that she performed over a hundred television Opera Xianxi plays between 1966 and 1980, and established an Opera Xianxi training class in 1981 to cultivate subsequent actors.[^7]
+After Taiwanese Opera entered television, one of the most recognizable figures was Yang Li-hua. Taipei City Department of Cultural Affairs materials note that between 1966 and 1980 she performed in over a hundred television Taiwanese Opera productions, and in 1981 she opened a Taiwanese Opera training class, cultivating later generations of actors. [^7]
 
-Yang Lihua’s significance lies not only in the quantity of her performances. She brought the appearance, singing style, and character charm of the Xiaosheng (young male role) into households, allowing Opera Xianxi to cross the geographical boundaries of temple entrances and theaters. Television Opera Xianxi thus became a shared memory for a generation, yet it simultaneously faced a problem: when audiences understood Opera Xianxi as a television image, could they still recognize the improvisation and physical movements of the temple courtyard live performance?[^6] [^9]
+Yang Li-hua's significance lies not only in the number of performances. She brought the xiaosheng (young male role) makeup, singing style, and character charm into households, and let Taiwanese Opera cross the original geographic boundaries of temple entrances and playhouses. Television Taiwanese Opera thereby became a generation's shared memory, yet simultaneously faced a problem: when audiences understand Taiwanese Opera as a television image, can they still recognize the improvisation and movements of the live temple courtyard? [^6] [^9]
 
-When _The Reporter_ compiled Yang Lihua and her era, it presented an imperfect answer. Scholar Su Shuo-bin recalled that around the time of Martial Law lifting, cultural evaluations viewed television Opera Xianxi as a side tolerated by politics and capital. However, he later pointed out that if Opera Xianxi had not made compromises in different eras, it might have disappeared long ago.[^6]
+When _The Reporter_ organized Yang Li-hua and her era, it presented a not-so-neat answer. Scholar Su Shuo-bin recalled that cultural evaluations around the lifting of martial law had viewed television Taiwanese Opera as the side accommodated by politics and capital. But he later also pointed out that if Taiwanese Opera had not compromised in different eras, it might have disappeared long ago. [^6]
 
-This contradiction is important: those who preserve tradition do not necessarily reject change. Those who change forms do not necessarily betray tradition. Yang Lihua’s path from radio, film, and television to national-level theaters illustrates that Opera Xianxi’s vitality lies not in remaining exactly the same, but in its ability to turn new media into its own stage.[^7] [^9]
+The contradiction here is important: those who preserve tradition do not necessarily reject change. Those who change the form do not necessarily betray tradition. Yang Li-hua's path from radio, film, television to the national-level theater illustrates that Taiwanese Opera's vitality lies not in staying forever the same, but in its ability to turn new media into its own stage. [^7] [^9]
 
-![Performance by the Xinchuan Opera Troupe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg/960px-%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg)
+![Performance by the Xin Chuan Taiwanese Opera Troupe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg/960px-%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg)
 
-_Image: Performance by the Xinchuan Opera Troupe. Author: Miwang de Rensheng. Licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant). Embedded from [Wikimedia Commons file page](<https://commons.wikimedia.org/wiki/File:%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_(49115283087).jpg>). Not downloaded or modified.\_
+_Image: Performance by the Xin Chuan Taiwanese Opera Troupe, by Miwang de Rensheng (迷惘的人生), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant), embedded via [Wikimedia Commons file page](<https://commons.wikimedia.org/wiki/File:%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_(49115283087).jpg>), not downloaded or modified.\_
 
-This photo of a troupe performance makes "entering the theater" no longer just an abstract cultural policy. The actors, lighting, and audience distance on stage are not two mutually exclusive worlds from the outdoor temple stage; they are two spaces Opera Xianxi learned to use in different eras.
+This troupe performance photo makes "entering the theater" no longer just an abstract cultural policy. The actors, lighting, and audience distance on stage are not two mutually exclusive worlds with the yetai at the temple entrance, but two kinds of space that Taiwanese Opera learned to use in different eras.
 
-📝 **Curator’s Note:** True preservation sometimes means not putting the play back in its original place, but asking where it will meet its audience next.
+📝 Curator's Note: True preservation is sometimes not putting the play back in its original place, but asking where it will meet the audience next time.
 
-## "Improvised Plays" Meet the City
+## "Living Theater" Meets the City
 
-Another keyword for Opera Xianxi is "Huo Xi" (improvised play). Most private troupes in Taiwan must face temple fair invitations, performance fees, venue conditions, and audience reactions, preserving the tradition of interacting with the live scene and making temporary adjustments. In contrast, modern theaters demand scripts, directors, music design, stage design, and rehearsals.[^2]
+Another key term for Taiwanese Opera is huoxi (living theater). Taiwan's private troupes mostly face temple fair invitations, performance fees, venues, and audience reactions, and actors retain the tradition of interacting with the live site and adjusting on the spot. By contrast, modern theater demands scripts, directors, music design, stage design, and rehearsals. [^2]
 
-Neither is inherently more orthodox. The freedom at the temple entrance may bring intimacy, but it may not have sufficient sound systems or subtitles. The detailed production of the theater can allow more people to understand, but it may fix a play that was meant to respond to the audience into the same version every night. Opera Xianxi’s current dilemma is allowing these two strengths to meet.
+Neither is inherently more orthodox. The temple entrance's freedom may bring intimacy, yet not necessarily sufficient sound systems and subtitles. The theater's meticulous production can let more people understand, but may also fix a play that originally responded to the audience into an identical version every night. Taiwanese Opera's difficulty today is giving both advantages a chance to meet.
 
-Urbanization makes this dilemma concrete. Temple courtyards in metropolitan areas where tents can be erected are becoming fewer; noise controls and performance costs are increasing; and young audiences may not understand Hokkien folk plays without subtitles. The National Center for Traditional Arts’ report lists "developing audiences and actors" as an urgent task, recording troupes’ attempts to use subtitles and "outer stage cultural fields" to shorten the distance between the theater and the temple entrance.[^2]
+Urbanization makes this difficulty concrete. In metropolitan areas, temple courtyards where stages can be erected have decreased; noise control and performance costs have increased; young audiences may not understand Taiwanese folk theater without subtitles. The National Center for Traditional Arts' report lists "developing audiences and actors" as an urgent task, and records troupes attempting to shorten the distance between theater and temple entrance through subtitles and "wai tai cultural venues." [^2]
 
-Therefore, the inheritance of Opera Xianxi cannot rely solely on re-performing classic repertoires. It also requires learners to engage with singing styles, recitation, physical movements, and backstage music, understanding which parts can be improvised and which require years of accumulation. Inheritance is actually a system of bodily knowledge, not just copying play titles into a catalog.
+Therefore, Taiwanese Opera's transmission cannot rely only on performing classic repertoires once more. It also needs to let learners encounter singing and recitation, spoken lines, footwork and hand gestures, and backstage music, understanding which places can be improvised and which must be accumulated over years. Transmission is actually a system of embodied knowledge, not copying play titles into a catalog.
 
-## Preserving a Moving Art
+## Preserving a Living Art
 
-The cultural heritage system has already established a registry of preservers and preservation groups for Opera Xianxi. In 2024, the Taipei City Government Bureau of Cultural Affairs announced the registration of Yang Lihua as an Opera Xianxi preserver, recording her long-term commitment to teaching, promotion, and various performance forms.[^7]
+The cultural heritage system has already established a roster of preservers and preservation groups for Taiwanese Opera. In 2024 the Taipei City Department of Cultural Affairs announced the registration of Yang Li-hua as a Taiwanese Opera preserver, with the materials simultaneously recording her long-term dedication to teaching promotion and experience in different performance modes. [^7]
 
-Preservation is also beginning to use digital tools. In 2026, the National Center for Traditional Arts announced the second phase of Opera Xianxi Artist Skill Preservation, inviting Lin Meixiang, Chen Zhaoxiang, and Zhang Xiuqin to demonstrate signature repertoires. They deconstruct singing, recitation, physical movements, and character postures, providing a visible, researchable, and teachable path for knowledge that previously flowed only between masters and apprentices on stage.[^8]
+Preservation has also begun using digital tools. In 2026 the National Center for Traditional Arts announced the second phase of Taiwanese Opera Master Artists' Skills Preservation, inviting Lin Mei-xiang, Chen Zhao-xiang, and Zhang Xiu-qin to demonstrate signature repertoires, dissecting singing and recitation, spoken lines, footwork and hand gestures, and role movements, giving the knowledge that originally flowed only in master-disciple relationships and on stage one more viewable, researchable, and teachable path. [^8]
 
-![Rehearsal by the Zhuang San Xinliang Orchestra in Yilan, Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92%28%E4%BA%8C%29.jpg?width=960)
+![Rehearsal of the Zhuang San Xin Liang Music Troupe in Yilan, Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92%28%E4%BA%8C%29.jpg?width=960)
 
-_Image: Rehearsal by the Zhuang San Xinliang Orchestra in Yilan, Taiwan. Author: Dov, photographed in 2020. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant). Embedded from [Wikimedia Commons file page](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92(%E4%BA%8C).jpg>). Not downloaded or modified._
+_Image: Rehearsal of the Zhuang San Xin Liang Music Troupe in Yilan, Taiwan, by Dov, photographed 2020, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), embedded via [Wikimedia Commons file page](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92(%E4%BA%8C).jpg>), not downloaded or modified._
 
-The rehearsal photo pulls inheritance back to the moment before the stage. The 2020 rehearsal in Yilan was not a completed performance, but actors polishing movements, rhythm, and mutual rapport through repetition.[^5]
+The rehearsal photo pulls transmission back to the moment before going on stage. The 2020 rehearsal captured in Yilan is not a finished performance, but actors grinding out movements, rhythm, and mutual默契 (tacit understanding) through repetition after repetition. [^5]
 
-But digital records cannot replace the risk of the body on stage. A camera can preserve a water-sleeve movement, but it cannot bear the weight that learners only understand after long hours of practice. Subtitles can help the audience follow the plot, but they cannot automatically generate the rhythm of mutual testing between the actor and the audience. The value of preservation lies in clarifying these limitations, rather than claiming a video equals the completion of inheritance.[^8]
+But digital records cannot substitute for the body's risk on stage. The lens can preserve a water-sleeve movement, but cannot bear for the learner the weight known only after long hours of practice. Subtitles can let audiences follow the plot, but cannot automatically generate the probing rhythm between actor and audience. The value of preservation lies precisely in making these limits clear, not in claiming that a video clip equals completed transmission. [^8]
 
-Local Opera Xianxi in Yilan was registered as an Important Traditional Performing Art in 2012, with the Zhuang San Xinliang Orchestra designated as the preservation group. This decision preserved not a fixed "old version," but allowed people to see where Opera Xianxi grew from: a song-and-dance mini-play without a stage, without makeup, performed by amateurs in villages and temple courtyards.[^5]
+Yilan local gezaixi was registered in 2012 as an important traditional performing art, with the Zhuang San Xin Liang Music Troupe designated as the preservation group. This decision preserves not a fixed "old version," but lets people see where Taiwanese Opera grew from: no stage, no makeup, song-and-dance skits performed by amateur disciples in villages and temple courtyards. [^5]
 
 ## Where Is the Next Temple Courtyard?
 
-The history of Opera Xianxi has never been as simple as "tradition declines, modernity saves." It was once criticized as vulgar; it was once restricted by the state. It moved from temple courtyards to theaters, from radios to television, and from television to national theaters. Each new position brought new audiences, and new trade-offs.[^2] [^3] [^6]
+Taiwanese Opera's history was never as simple as "tradition declines, modernity saves." It was once criticized as vulgar, and once restricted by the state. It went from temple courtyard to playhouse, from radio to television, then from television into the national theater. Every new position brought new audiences, and also new trade-offs. [^2] [^3] [^6]
 
-Thus, the most counter-intuitive aspect of Opera Xianxi is: it preserves itself through change. It did not become Taiwan’s opera by rejecting external elements, but by mixing Zhangzhou Gezai, Chegu, local folk songs, other opera genres, Hokkien vernacular, and modern media in Yilan, slowly growing a voice recognizable to Taiwanese people.[^1] [^4]
+So, Taiwanese Opera's most counterintuitive aspect is: it preserves itself by changing. It did not become Taiwan's theater genre because it rejected foreign elements, but because in Yilan it mixed Zhangzhou gezaixi, chegu drum, local folk songs, other theater genres, Taiwanese vernacular, and modern media, slowly growing a sound recognizable to Taiwanese people. [^1] [^4]
 
-The next time you encounter Opera Xianxi at a temple entrance, in a theater, or in online video, notice one small thing: after the actor finishes a line, is there a response from the audience? That response might be laughter, silence, or someone finally understanding a line of Hokkien. Whether Opera Xianxi can continue depends ultimately on whether there is still a place for such responses to occur.
+The next time you encounter Taiwanese Opera at a temple entrance, in a theater, or in online video, notice one small thing first: after the actor finishes a line, does the audience below respond? That response may be laughter, silence, or someone finally understanding a sentence of Taiwanese. Whether Taiwanese Opera can continue to walk forward ultimately still depends on whether it still has a place where such responses can happen.
 
-📝 **Curator’s Note:** Preserving an improvised play is not just about leaving behind images, but ensuring the next actor can still make choices in front of the audience.
+📝 Curator's Note: Preserving a living play is not just leaving behind images, but letting the next actor still be able to make choices in front of an audience.
 
 ## References
 
-[^1]: [Opera Xianxi — Ministry of Culture, Cultural Heritage Bureau](https://twh.boch.gov.tw/non_material/intro.aspx?id=746) — Introduces the formation of Opera Xianxi in Yilan, Luodi Sao, outdoor and inner stage development, character roles, and inheritance methods.
+[^1]: [Taiwanese Opera — Ministry of Culture Cultural Heritage Bureau Intangible Cultural Heritage](https://twh.boch.gov.tw/non_material/intro.aspx?id=746) — Introduces the formation of Taiwanese Opera in Yilan, luodi sao, wild stage and indoor theater development, role types, and transmission methods.
 
-[^2]: [The Unfinished Road of a Century of Opera Xianxi: Shortening Distance, Shaping Attractiveness — National Center for Traditional Arts](https://magazine.ncfta.gov.tw/news_content2.aspx?n=1934&sms=11546&s=82171) — Uses interviews with Hong Mingxue and Cai Xinxin to explain theatricalization, wartime restrictions, media transformation, and contemporary audience dilemmas.
+[^2]: [The Unfinished Road of a Century of Taiwanese Opera: Shortening Distance, Shaping Appeal — National Center for Traditional Arts](https://magazine.ncfta.gov.tw/news_content2.aspx?n=1934&sms=11546&s=82171) — Uses interviews with Hong Ming-xue and Cai Xin-xin to explain theaterization, wartime restrictions, media transformation, and contemporary audience dilemmas.
 
-[^3]: [Taiwan in Time: A century of Taiwanese opera — Taipei Times](https://www.taipeitimes.com/News/feat/archives/2023/05/07/2003799303) — Uses the history of Ming Hwa Yuan and Chen Mingji to explain the development of Opera Xianxi, wartime controls, and the impact of television.
+[^3]: [Taiwan in Time: A century of Taiwanese opera — Taipei Times](https://www.taipeitimes.com/News/feat/archives/2023/05/07/2003799303) — Uses the history of Ming Hwa Yuan and Chen Ming-chi to explain Taiwanese Opera's development, wartime controls, and television impact.
 
-[^4]: [Opera Xianxi — National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=BOCH_CountryCulture_41&id=20190124000001) — Explains the 1920s inner-stage transformation, absorption of other opera genres, and the evolution chain from Luodi Sao to the theater.
+[^4]: [Taiwanese Opera — National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=BOCH_CountryCulture_41&id=20190124000001) — Explains the 1920s move to indoor theaters, absorption of other theater genres, and the evolutionary chain from luodi sao to the theater.
 
-[^5]: [Local Opera Xianxi Luodi Sao — Taiwan Opera Center](https://tttc.ncfta.gov.tw/home/zh-tw/activities/12428) — Introduces the Local Opera Xianxi formed by Gezai and Chegu in Yilan, the Luodi Sao form, and the 2012 cultural heritage registration.
+[^5]: [Local Gezaixi Luodi Sao — Taiwan Theater Center](https://tttc.ncfta.gov.tw/home/zh-tw/activities/12428) — Introduces the local gezaixi and luodi sao forms formed by gezaixi and chegu in Yilan, and the 2012 cultural asset registration.
 
-[^6]: [The True Meaning of Yang Lihua as a Figure of Her Times — The Reporter](https://www.twreporter.org/a/bookreview-yang-li-hua) — Contains excerpts from dialogues by scholars Su Shuo-bin and Wang Junqi on Yang Lihua, television Opera Xianxi, politics, and gender viewing.
+[^6]: [The True Meaning of Yang Li-hua as a Figure of Her Era — The Reporter](https://www.twreporter.org/a/bookreview-yang-li-hua) — Contains excerpts from dialogues between scholars Su Shuo-bin and Wang Jun-qi on Yang Li-hua, television Taiwanese Opera, politics, and gender perspectives.
 
-[^7]: [Senior Xiaosheng Yang Lihua Registered as Taipei City Intangible Cultural Asset Preserver — Taipei City Government Bureau of Cultural Affairs](https://culture.gov.taipei/News_Content.aspx?n=621F0409A1ABDD34&sms=72544237BBE4C5F6&s=4F00434052FBBAAA) — Records Yang Lihua’s performances, teaching and promotion, media and theater experiences, and her 2024 registration as a preserver.
+[^7]: [Senior Xiaosheng of Taiwanese Opera Yang Li-hua Registered as Taipei City Intangible Cultural Asset Preserver — Taipei City Government Department of Cultural Affairs](https://culture.gov.taipei/News_Content.aspx?n=621F0409A1ABDD34&sms=72544237BBE4C5F6&s=4F00434052FBBAAA) — Records Yang Li-hua's performances, teaching promotion, media and theater experience, and 2024 preserver registration.
 
-[^8]: ["Art Together to Protect, Generations to Inherit": Opera Xianxi Artist Skill Preservation and Audio-Video Teaching Announced Online — National Center for Traditional Arts](https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692) — Explains the skill demonstrations by Lin Meixiang, Chen Zhaoxiang, and Zhang Xiuqin, digital preservation, and teaching content.
+[^8]: ["Arts Together Protect, Generational Transmission": Taiwanese Opera Master Artists' Skills Preservation and Audiovisual Teaching Launched Online — National Center for Traditional Arts](https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692) — Explains the skill demonstrations by Lin Mei-xiang, Chen Zhao-xiang, and Zhang Xiu-qin, digital preservation, and teaching content.
 
-[^9]: [A Study of Yang Lihua and Her Opera Xianxi Art — Taiwan Master’s and Doctoral Dissertation Knowledge Plus System](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22085THU00045014%22.&searchmode=basic) — Provides abstracts of Yang Lihua research, covering the formation of Opera Xianxi, television Opera Xianxi forms, artistic style, and influence.
+[^9]: [Research on Yang Li-hua and Her Taiwanese Opera Art — Taiwan Thesis and Dissertation Knowledge Value-Added System](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22085THU00045014%22.&searchmode=basic) — Provides thesis abstracts on Yang Li-hua research, covering Taiwanese Opera formation, television Taiwanese Opera forms, artistic style, and influence.

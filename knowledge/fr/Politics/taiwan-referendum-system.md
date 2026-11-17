@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:51:02+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:13:49.014014+00:00'
 ---
 
 # Le système référendaire de Taïwan : inscrit dans la Constitution en 1947, il a fallu attendre 56 ans pour une loi
@@ -99,19 +99,20 @@ Le balancier bascule à nouveau en novembre 2025 : le Yuan législatif adopte un
 
 D'où la configuration 2026 : le 28 novembre, élections locales et référendum n° 22 simultanés. Lorsque le président de la CEC avance son estimation sur l'heure du dépouillement, c'est la nuit de 2018 qui en fournit le référent chiffré. [^4]
 
-## Pourquoi cette trajectoire mérite d'être retenue
+## Pourquoi cette ligne mérite d'être retenue
 
-En déployant chaque controverse, on voit que le système référendaire de Taïwan oscille en réalité sur trois axes seulement.
+En examinant chaque débat, on s'aperçoit que le système de référendum à Taïwan ne pèse réellement que trois éléments en balance.
 
-Premier plateau de la balance : les seuils. Les six référendums de 2004 et 2008 butaient sur des seuils trop hauts — les bulletins sortaient mais ne franchissaient pas la barre ; la réforme de 2017 instaure le quart du corps électoral, mais le problème se déplace : faible participation + forte proportion de oui peut encore échouer, comme l'illustre le n° 21 de 2025. Deuxième plateau : la capacité logistique. La soirée des dix référendums a saturé les bureaux, d'où le découplage de 2019 ; mais le découplage a fait craindre une perte de visibilité du débat référendaire, d'où le recouplage de 2025. Troisième axe : « quelle opinion accède au bulletin » — cela dépend de l'exigence de signature papier et de la faisabilité du vote hors circonscription, deux points toujours en attente de leur loi d'application. [^6]
+À l'un des plateaux de la balance se trouve le seuil : le problème des six propositions de 2004 et 2008 était un seuil trop strict, où la mobilisation des électeurs n'a pas suffi à atteindre les quotas ; après le passage au système du quart en 2017, le problème s'est déplacé de l'autre côté, car une faible participation combinée à un taux d'approbation élevé peut tout de même mener à l'échec, comme ce fut le cas pour la proposition n° 21 en 2025. L'autre plateau concerne la capacité logistique électorale : l'année où dix propositions ont eu lieu le même jour a poussé la capacité d'accueil des bureaux de vote à ses limites, entraînant ainsi le découplage de 2019 ; après ce découplage, l'intérêt médiatique pour les référendums ayant été remis en question, on assiste au réattachement de 2025. Le troisième élément est la question de savoir « quelle opinion peut effectivement se traduire par un bulletin de vote », ce qui dépend de l'obligation ou non d'utiliser du papier pour les pétitions et de la possibilité de voter hors de sa circonscription, deux points qui attendent toujours des lois précisant leurs modalités d'application. [^6]
 
-Aucun de ces trois points n'est purement technique ; chacun est renégocié sur la scène politique à chaque étape. Les traces laissées par le système sont lisibles : quelle année, quel article modifié, quel taux de participation, quel seuil — quart ou moitié. Alignés chronologiquement, ces chiffres racontent comment cette île apprend à user de ses droits civiques directs tout en ajustant le contenant qui les porte.
+Ces trois éléments ne sont jamais de simples questions techniques ; ils sont recalculés à chaque fois sur l'échiquier politique. Les traces laissées par le système sont faciles à identifier : l'année de la réforme, l'article modifié, le taux de participation, et si le seuil est d'un quart ou d'un demi. En alignant ces chiffres par année, on voit le processus par lequel cette île apprend à utiliser la démocratie directe tout en ajustant son propre contenant.
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Institution de la CEC](/fr/politics/central-election-commission) — L'organe qui fait cheminer une proposition référendaire de l'initiative au scrutin
-- [Historique des seuils du droit de vote](/fr/politics/voting-rights-threshold-history) — La ligne qui décide qui entre dans le bureau de vote, elle aussi façonnée par étapes
-- [Élections neuf-en-un 2026](/politics/2026 九合一選舉) — L'autre moitié du bulletin du 28 novembre
+- [Le système de la CEC](/fr/politics/central-election-commission) — L'organisme qui gère le parcours des propositions de référendum, de la soumission et de la pétition jusqu'au vote.
+- [Histoire du seuil du droit de vote](/fr/politics/voting-rights-threshold-history) — La ligne qui détermine qui est qualifié pour entrer dans un bureau de vote a elle aussi été modifiée au fil du temps.
+- [Élections neuf-en-un 2026](/politics/2026 九合一選舉) — L'autre moitié du scrutin du 28 novembre.
+- [Débats sur Taïwan et l'énergie nucléaire](/fr/society/taiwan-nuclear-debate) — La question de la proposition n° 22 elle-même : le sort de la centrale nucléaire de troisième génération est examiné étape par étape, et la condition d'un « consensus social » a été intégrée au vote référendaire du même jour.
 
 ## Références
 

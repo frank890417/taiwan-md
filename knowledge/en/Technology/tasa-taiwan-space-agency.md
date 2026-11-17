@@ -1,23 +1,28 @@
 ---
-title: 'Taiwan Space Agency: Spending Thirty-Two Years to Assemble a Space Agency for a Country Still Assembling Its Own Name'
-description: 'In 1991 it was called a preparatory office: no name, no rocket, no land of its own. Thirty-two years later, it put Taiwan back into its name. Today, its control center in Hsinchu tracks the heartbeat of nine satellites around the clock; on the day of the April 3 Hualien earthquake, it reset its mission six minutes after the quake and acquired imagery within three hours. It is now filling in the final missing parts: an orbital rocket of its own, and an approved lunar mission that could launch as early as 2028.'
+title: "National Space Center: Thirty-two years to assemble a space agency for a country that hasn't even settled on a name"
+description: "In 1991 it was called the 'Preparatory Office,' with no name, no rockets, and no land of its own. Thirty-two years later it put 'Taiwan' back into its name; now the Hsinchu mission control center tracks the heartbeat of nine satellites 24/7. On the day of the April 3 Hualien earthquake, it reset its mission within six minutes and acquired imagery within three hours. It is now filling in the final piece — its own orbital launch vehicle — and a lunar mission that has already been approved, slated to launch as early as 2028."
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '太空與前沿'
 tags:
   [
-    'Taiwan Space Agency',
+    'National Space Center',
     'TASA',
-    'space technology',
-    'Jong-Shinn Wu',
-    'FORMOSAT',
-    'space sovereignty',
+    'Space Technology',
+    'Wu Tsung-hsin',
+    'FormoSat',
+    'Space Sovereignty',
   ]
-readingTime: 28
+subcategory: '太空與前沿'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-featured: true
+image: '/article-images/technology/formosat8-tasa-banner.webp'
+imageAlt: "Official visual of the National Space Center's FormoSat-8 optical remote sensing satellite galaxy"
+imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
+imageLicense: 'Fair use editorial commentary（©TASA）'
+imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+readingTime: 28
 sporeLinks:
   - id: 122
     platform: 'threads'
@@ -28,14 +33,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T16:48:28.184951+00:00'
-image: '/article-images/technology/formosat8-tasa-banner.webp'
-imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
-imageLicense: 'Fair use editorial commentary（©TASA）'
-imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+translatedAt: '2026-11-06T21:52:13.720747+00:00'
 ---
 
 In 2016, Mayday's music video for "Stubborn" featured a middle-aged man building a rocket in a wasteland. He was treated as a daydreaming eccentric, and at the end he strapped on a homemade rocket and flew into the sky. Most Taiwanese people first came to know Jong-Shinn Wu not through any state institution, but through that music video: the "Rocket Uncle."[^1]
@@ -269,12 +270,13 @@ The man who was treated as a joke in the wasteland, who wanted to leave Earth, i
 
 Chi Po-lin saw Taiwan from a helicopter and did not finish seeing it the year he died in the crash. Eight years later, a satellite named after him finished seeing this country for him from 561 kilometers up. In the process, it also revealed the true form of an institution that had spent thirty years saying it was watching the weather: a place that proves, satellite by satellite, "self-reliance" for an unrecognized country. Its next stop is the Moon.
 
-## Further reading
+## Further Reading
 
-- [Taiwan's Space Industry](/en/technology/taiwan-space-industry-development) — This article is about how the institution itself grew up; that one is about the supply chain behind it: which companies built satellite components, how semiconductors entered space, and how the startup ecosystem formed.
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — A large part of the industrial foundation of Taiwan's space "self-reliance" is built on the country's existing semiconductor and precision manufacturing capabilities.
-- [Chinese Taipei](/en/society/chinese-taipei) — The sovereignty line of "putting Taiwan back into the name," seen from the other side of the sports field.
-- [Chi Erh Lin](/en/people/lin-chi-er-astronaut) — Another profile of someone working for Taiwan at the site of science.
+- [Taiwan Space Industry Development](/en/technology/taiwan-space-industry-development) — This article covers how the institution itself grew; that one covers the supply chain behind it: which manufacturers produce satellite components, how semiconductors enter the space sector, and how the startup ecosystem took shape.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — A large part of the industrial foundation for Taiwan's space "self-reliance" is built on the island's existing semiconductor and precision manufacturing capabilities.
+- [Chinese Taipei](/en/society/chinese-taipei) — The other side of the sovereignty thread of "putting Taiwan back in the name," on the playing field.
+- [Lin Chi-erh](/en/people/lin-chi-er-astronaut) — A profile of another figure doing work for Taiwan on the scientific front lines.
+- [Chi Po-lin](/en/people/chi-po-lin) — The first satellite of FORMOSAT-8 is named after him: a former aerial photography civil servant at the National Airborne Service Corps, director of _Beyond Beauty: Taiwan from Above_, who perished in 2017 while scouting locations for the sequel.
 
 ## Video sources
 

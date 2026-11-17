@@ -22,7 +22,7 @@ import de from '../../data/budget/i18n/de.json';
 export const budgetUI = {
   en: {
     'budget.meta.title':
-      'Budget Decade — Taiwan’s central government budget, 2016–2026',
+      'Taiwan’s 2026 Central Government Budget — a decade of spending, 2016–2026',
     'budget.meta.description':
       'Ten years of Taiwan’s central government budget in one page: how NT$3 trillion is split, which ministries grew, what the Legislative Yuan cut in 2025 and 2026, and how much of it actually gets spent. Inline SVG, source-linked, machine-readable.',
     'budget.hero.eyebrow': 'Data · Budget Decade',
@@ -350,8 +350,9 @@ export const budgetUI = {
     'budget.tip.close': 'Close',
   },
   'zh-TW': {
+    // 查詢是「2026總預算」「台灣總預算2026」：年份與「中央政府總預算」前置（2026-11-04 evolve）
     'budget.meta.title':
-      '總預算十年 — 中央政府總預算 2016–2026 的分配、增減與執行',
+      '2026 中央政府總預算：2016–2026 十年的分配、增減與執行',
     'budget.meta.description':
       '一頁讀懂中央政府總預算十年：三兆元怎麼分、哪些部會在長、立法院 2025 與 2026 年砍在哪、錢最後有沒有真的花掉。inline SVG、逐筆帶來源、機器可讀。',
     'budget.hero.eyebrow': '資料 · 總預算十年',

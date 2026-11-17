@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T03:03:39.342565+00:00'
+translatedAt: '2026-11-04T21:21:34.819486+00:00'
 ---
 
 # Bạch Tiên Dũng: 《Đài Bắc Nhân》 1971, đến phiên bản Thanh Xuân 《Mẫu Đan Đình》 hai mươi năm lưu diễn

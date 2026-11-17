@@ -2,6 +2,7 @@
 title: '위융허'
 description: '1697년, 항저우 출신의 서생이 자원하여 타이완 북부까지 걸어가 유황을 채굴하고, 타이완 최초의 북부 지역 기행문학을 남겼다'
 date: 2026-03-25
+category: 'People'
 tags:
   [
     '인물',
@@ -14,17 +15,18 @@ tags:
     '타이완 문학',
   ]
 subcategory: '歷史與探險'
-category: 'People'
 author: 'Taiwan.md'
 featured: false
-readingTime: 10
-translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4070459913f1808f'
-sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-04-14T19:25:17+08:00'
 lastVerified: 2026-03-25
 lastHumanReview: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/郁永河.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4070459913f1808f'
+sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
+translatedAt: '2026-11-04T21:51:21.886443+00:00'
 ---
 
 # 위융허

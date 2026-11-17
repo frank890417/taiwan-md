@@ -3,7 +3,6 @@ title: 'Postwar Taiwanese Literature: Learning to Speak the Unspeakable (1945–
 description: "In August 1945, Yeh Shih-tao was twenty years old, freshly discharged from the Japanese Imperial Army, back in Tainan, staring at a blank sheet of paper — unable to write a single character of Chinese. That blank page would wait forty-two years. In between: aphasia, imprisonment, polemic, and the slow mastery of indirection. In February 1987, he published a 232-page book whose title contained only two words: 'Taiwan.'"
 date: 2026-04-26
 category: 'Art'
-subcategory: '文學'
 tags:
   [
     'postwar literature',
@@ -16,16 +15,17 @@ tags:
     'linguistic rupture',
     'martial law era',
   ]
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ccb549fdb85f9bc6'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-04-30T22:50:13+08:00'
+translatedAt: '2026-11-02T14:22:14.798808+00:00'
 ---
 
 > **30-second overview:** For forty-two years (1945–1987), Taiwan's literary world lived under a regime of the unspeakable: no Japanese, no February 28, no suggestion that Taiwan might be something other than China, no "local" literature. But each generation of writers found their own mode of indirection and learned, somehow, to speak. Yeh Shih-tao traveled from that blank page in 1945 to a 232-page _Outline History of Taiwanese Literature_ in 1987 — via aphasia, three years of imprisonment, over a decade of silence, a 1965 essay called "Taiwan's Nativist Literature," and his 1985 declaration "Without land, there is no literature." Pai Hsien-yung read Kafka in an air-raid shelter. Wang Wen-hsing spent seven years writing a novel that was roundly condemned. Lin Hai-yin resigned her editorial post over a single poem. Yu Kwang-chung cried "wolf" to attack nativist literature. Li Ang put a cleaver in Lin Shih's hand in 1983. What these forty-two years left behind is an entire grammar of obliquity.
@@ -160,12 +160,14 @@ The next forty-two years were for someone else to write.
 
 ## Further Reading
 
-- [Post-Martial-Law Taiwanese Literature](/en/art/post-martial-law-taiwanese-literature/) — The explosion of 1987-2000: nativization, gender, mother-tongue pluralism
-- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature/) — 21st century: Wu Ming-yi's internationalization, Lin Yi-han, and the digital wave
-- [Taiwanese Literature during Japanese Rule](/en/art/taiwanese-literature-during-japanese-rule/) — Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kuei: the Japanese-era starting point that is the other end of postwar aphasia
-- [White Terror](/en/history/taiwan-white-terror/) — Political context for Yeh Shih-tao's imprisonment, Yang Kuei on Green Island, Lu Ho-jo at Luku
-
----
+- [Post-Martial Law Taiwan Literature](/en/art/post-martial-law-taiwanese-literature) — The explosion of nativization, gender, and mother-tongue diversity from the lifting of martial law in 1987 to 2000
+- [Contemporary Taiwan Literature](/en/art/contemporary-taiwanese-literature) — 21st century: Wu Ming-yi's internationalization, Lin Yi-han, the digital wave
+- [History of Taiwan Literature](/en/art/history-of-taiwanese-literature) — The overall trajectory from the Dutch period, Ming-Qing, Japanese rule, postwar to contemporary
+- [Japanese Colonial Period Literature](/en/art/taiwanese-literature-during-japanese-rule) — The Japanese-era starting point of Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kuei is the other end of postwar silence
+- [Lin Liang](/en/people/lin-liang-childrens-literature) — Founder of children's literature who crossed the sea to Taiwan after the war, 57-year career at _Mandarin Daily News_, "The Art of Simple Language" defined the literary starting point for several generations of postwar Taiwan children
+- [White Terror](/en/history/taiwan-white-terror) — The political background of Yeh Shih-tao's imprisonment, Yang Kuei on Green Island, Lu Ho-jo at Luku Mountain
+- [February 28 Incident](/en/history/228-incident) — The 1947 impact on the literary world (Wang Tien-teng, Yang Kuei, Yeh Tao)
+- [Martial Law Period](/en/history/martial-law-era) — The political conditions for literary activities from 1949–1987
 
 ## References
 

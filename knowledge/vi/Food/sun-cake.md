@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: '2026-07-26T13:02:55+08:00'
+translatedAt: '2026-11-05T04:27:53.562876+00:00'
 ---
 
 > **30 giây tóm tắt:** Bánh Mặt Trời không phải là tên gọi ban đầu của nó. Nó xuất phát từ “bánh mì sô cô la” thời cuối chín, đầu thế kỷ, và chỉ khi Văn Tinh Hải (nhân dân thường gọi là “ông A Minh”) cải tiến mới thành dạng bánh mỏng, ngọt lành ngày nay. Vào năm 1964, bức tranh mozaics “Cây Đường Hạt” do nghệ sĩ Thân Tường Thạch dựng cho “Thánh Đường”, dùng hàng chục tháng hoạt họa, gốc gác niềm vui và sức sống. Tuy nhiên, trong thời kỳ Giáp Hạn huyền bí, cây đường hạt rực rỡ ấy lại bị cơ quan điều tra tâm lý phát hiện ra, cho rằng “trái tim hướng về Mặt Trời (Mao Tệ Đông)”, nghi ngờ phát xuất cho phản quốc. Để tránh thù hại, chủ quán Lâm Tào Tông không còn lựa chọn khác, ép ép dùng tấm gỗ che kín bức tranh đó, và chân tay đóng lại cả 25 năm.[^1]

@@ -2,7 +2,6 @@
 title: 'A Lenda do Mortal: Duas Pessoas, 30% de Avaliações Positivas, 700 Mil Cópias Vendidas'
 description: 'Em junho de 2024, dois taiwaneses sem experiência na indústria de jogos lançaram um RPG de wuxia. Uma semana após o lançamento, a taxa de avaliações positivas caiu para 30%, com jogadores chineses inundando o jogo com milhares de avaliações negativas. Doze dias depois, subiu para 70%, e um mês depois, atingiu 94%. Após seis meses, as vendas ultrapassaram 700 mil cópias, e jogadores da Coreia do Sul e de Taiwan formaram grupos para traduzir a versão em japonês. A premissa do protagonista é a de um "discípulo de linhagem externa sem o halo do protagonista", e a equipe de desenvolvimento também se enquadra nessa descrição.'
 date: 2026-04-25
-author: 'zaious'
 category: 'Technology'
 tags:
   [
@@ -14,15 +13,18 @@ tags:
     'Jogos de Taiwan',
   ]
 subcategory: '社群與數位文化'
-readingTime: 9
+author: 'zaious'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-07-25T21:33:45+08:00'
+translatedAt: '2026-11-04T16:49:20.218708+00:00'
 ---
 
 > Em 14 de junho de 2024, um RPG de wuxia chamado _A Lenda do Mortal_ (Legend of Mortal) foi lançado na Steam. A equipe de desenvolvimento, "Obb Studio", é composta por apenas duas pessoas: Bird (programação) e Bear (roteiro e ilustrações). Nenhum deles tem formação na indústria de jogos; esta é a primeira obra de ambos. Na primeira semana de lançamento, a taxa de avaliações positivas na Steam caiu abaixo de 30%. Doze dias depois, subiu para 70%. Um mês depois, atingiu 94%. Após seis meses, as vendas ultrapassaram 700 mil cópias, e a avaliação final na Steam é de 9/10. Fãs coreanos realizaram espontaneamente a tradução comunitária para o coreano, e jogadores de Taiwan e da Coreia do Sul formaram grupos para traduzir o jogo para o japonês. A premissa do protagonista desta história é a de um "discípulo insignificante sem o halo do protagonista", e as pessoas que fizeram este jogo também se enquadram nessa descrição.

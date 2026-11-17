@@ -15,11 +15,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/噗浪Plurk.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T22:31:14.943768+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Plurk ist eine Microblogging-Plattform, die 2008 gemeinsam von dem malaysisch-chinesischen Gründer Yun Wei-bin ins Leben gerufen wurde und in Taiwan die größte Nutzerbasis weltweit findet[^1]。Ihr einzigartiges Design ist die horizontale „Fluss"-Zeitleiste sowie ein vollkommen algorithmusfreies soziales Umfeld — was du siehst, hängt davon ab, wem du folgst, nicht davon, was die Plattform dir zeigen will. Nachdem 2016 die auf der Plattform veröffentlichten Inhalte wegen unrechtmäßiger Erwachseneninhalte dazu führten, dass Google Adsense Plurk dauerhaft blockierte, führte Plurk das kostenpflichtige „Plurk-Coins"-Modell ein und wurde mit Unterstützung der Nutzer von Rot nach Schwarz — im Jahr 2026, als neue Plattformen wie Threads für einen Microblogging-Hype sorgten, war es für viele eine Überraschung: Plurk ist nicht nur noch am Leben, sondern lebhafter denn je.

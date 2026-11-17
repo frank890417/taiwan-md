@@ -2,18 +2,21 @@
 title: '尪仔標（ワンアビャウ）：選挙チラシから子供たちの戦場へ、台湾記憶の戦闘カード'
 description: '1950年代、台湾の学童の手の中で布袋戲（ポテヒ）や漫画の人物が印刷された円形の紙カードが、学校で激しい対戦を繰り広げていた。日本の「面子（メンコ）」ゲームからの啓発、プラスチック産業が盛んになってからの素材の変遷まで、尪仔標は世代を超えた集合的な記憶を担い、台湾社会の文化的変遷を映し出している。'
 date: 2026-04-27
-category: Lifestyle
+category: 'Lifestyle'
 tags: ['子供のおもちゃ', '尪仔標', '台湾文化', 'ノスタルジー', 'ゲーム', '選挙']
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
-readingTime: 10
-lastVerified: 2026-04-27
 featured: false
+lastVerified: 2026-04-27
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-05-16T22:35:34Z'
+translatedAt: '2026-11-04T17:29:34.875128+00:00'
 ---
 
 > **30秒概覧：** 1950年代から、台湾の「尪仔標（ワンアビャウ）」は子供たちの手の中のゲームであり、仲間内での地位の物差しでもありました——集める枚数が多いほど、放課後の学校でより存在感がありました。中国の「葉子戲（ようしぎ）」を源流とし、日本の子供のおもちゃから影響を受けたこの紙カードは、金属からプラスチックへ、図案は布袋戲から漫画へと変化し、多彩な遊び方があり、何世代にもわたる台湾人の集合的な記憶を担っています。さらに特別なのは、台湾では選挙チラシさえ子供たちに「尪仔標」へと改造され、子供時代の戦場でのまた別の武器となったことです。

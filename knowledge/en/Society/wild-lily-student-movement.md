@@ -2,6 +2,7 @@
 title: 'Wild Lily Student Movement'
 description: 'A group of university students sat in at Chiang Kai-shek Memorial Hall for seven days and ultimately forced a political system that had dragged on for more than forty years to begin loosening. What the Wild Lily movement truly changed was not just the National Affairs Conference — it was the first time Taiwanese people clearly saw that students could directly rewrite the timeline of constitutional reform.'
 date: 2026-03-23
+category: 'Society'
 tags:
   [
     'society',
@@ -15,12 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-05-25T21:06:51Z'
-category: Society
+translatedAt: '2026-11-04T19:33:55.212654+00:00'
 ---
 
 # Wild Lily Student Movement

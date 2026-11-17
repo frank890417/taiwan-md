@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-18T00:53:05+08:00'
+translatedAt: '2026-11-02T15:52:01.428807+00:00'
 ---
 
 # Hội nông dân không chỉ bán phân bón: Tổ chức công chúng nông thôn Đài Loan từ chế độ thuộc địa đến cải cách ngân hàng tín dụng
@@ -128,9 +128,9 @@ Vị trí lịch sử của hội nông dân nằm ở đây. Chính sách nông
 
 ## Đọc thêm
 
-- [Cải cách ruộng đất Đài Loan](/vi/history/taiwan-land-reform) — Bối cảnh thể chế của việc cải tiến hội nông dân và tái cơ cấu quyền lực nông thôn sau chiến tranh
-- [Phát triển hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Một tuyến khác về khuyến nông, kỹ thuật nông nghiệp và chuyển đổi ngành công nghiệp của hội nông dân
-- [Lịch sử nước máy Đài Loan](/history/台灣自來水史) — Đọc so sánh từ tổ chức nông thôn sang thể chế cơ sở hạ tầng công cộng
+- [Cải cách ruộng đất tại Đài Loan](/vi/history/taiwan-land-reform) — Bối cảnh thể chế của việc cải tiến hội nông dân và tái cấu trúc quyền lực nông thôn sau chiến tranh
+- [Sự phát triển hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Một manh mối khác về hoạt động quảng bá của hội nông dân, kỹ thuật nông nghiệp và chuyển đổi ngành nghề
+- [Lịch sử nước máy Đài Loan](/vi/geography/taiwan-tap-water) — Đọc so sánh về sự chuyển dịch từ các tổ chức nông thôn sang các thể chế cơ sở hạ tầng công cộng
 
 ## Tài liệu tham khảo
 

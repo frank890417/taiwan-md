@@ -15,13 +15,15 @@ subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
-translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0a'
-sourceContentHash: 'sha256:c7a690e21bd72631'
-sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-05-25T21:06:51Z'
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/施明德.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:c7a690e21bd72631'
+sourceBodyHash: 'sha256:f379180b5e8bcecc'
+translatedAt: '2026-11-04T21:51:11.934597+00:00'
 ---
 
 # Shih Ming-te: Twenty-Five Years Behind Bars, He Finally Raised a Flag Against His Own Party

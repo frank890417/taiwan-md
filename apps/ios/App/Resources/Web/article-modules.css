@@ -1,0 +1,1567 @@
+/**
+ * article-modules.css — Taiwan.md 文章內共用視覺模組
+ *
+ * 「呈現關鍵對比與數據，給讀者好的視覺化感受。」
+ * 作者用極簡 fenced-code 語法叫用（見 docs/editorial/graph.md）；marked 的 code
+ * renderer（article.template.astro renderTwModule）把 tw-* 區塊轉成下列 HTML。
+ *
+ * 設計哲學（參考 The Pudding，長出自己的器官，per reports/article-visualization-design-2026-06-06.md）：
+ *   靜態 + semantic HTML + 標註優先 → 同時對人、螢幕閱讀器、Google、AI 爬蟲可讀。
+ *   「讓 LLM 讀得懂的視覺化 = 主權的視覺化」。資料文字進 DOM，babel 翻譯天然能處理。
+ *
+ * 模組清單（數量以 docs/editorial/graph.md §四 為準）：
+ *   .tw-figure   數據大字   single big number / before→after          [編輯]
+ *   .tw-stat     數據組     2-4 key stats in a row                    [編輯]
+ *   .tw-versus   對比卡     two systems side by side                  [編輯]
+ *   .tw-bars     比例條     horizontal bars (排名/比較/分歧±)         [編輯]
+ *   .tw-waffle   方格圖     part-to-whole, 100 cells                  [編輯]
+ *   .tw-timeline 政策軸     annotated node timeline                   [編輯]
+ *   .tw-quote    引語卡     pull quote                                [編輯]
+ *   .tw-source   來源條     source / method chip                      [編輯]
+ *   .tw-note     說明盒     【說明】方法論 / (註) 更正                [編輯]
+ *   .tw-line     折線圖     trend over time (inline SVG + table)      [圖表]
+ *   .tw-slope    斜率圖     two-point change (inline SVG + table)     [圖表]
+ *   .tw-dot      點圖       dot strip / range (共用軸分布)            [圖表]
+ *   .tw-stack    堆疊條     100% composition across rows              [圖表]
+ *   .tw-pyramid  金字塔     back-to-back bars (左右對照)              [圖表]
+ *   .tw-heatmap  熱力圖     intensity matrix (HTML table)             [圖表]
+ *   .tw-tiles    縣市磚圖   Taiwan 22 縣市 tile cartogram             [圖表]
+ *   .tw-iso      單位圖     isotype, 1 符號 = N（數得出來的大數字）   [圖表]
+ *   .tw-arc      席次弧     parliament seat arc（半圓點陣＋過半線）   [圖表 v3.0]
+ *   .tw-multiples 小倍數    shared-axis mini line grid                [圖表 v3.0]
+ *
+ * 全部讀 tokens.css 設計變數 → dark mode / RWD / 字體自動跟著走。
+ * ⚠️ 不在這裡新增散落色號；module 專屬色集中在下方 --tw-* 區塊。
+ */
+
+:root {
+  --tw-warm: #c2410c; /* 暖（問題／before／序列1）orange-700 */
+  --tw-cool: #0e7490; /* 冷（對照／after／序列2）cyan-700 */
+  --tw-green: #2a7d52; /* 序列3（色盲友善）*/
+  --tw-fill: var(--color-accent);
+  --tw-mute: #94a3b8; /* 中性／其他 */
+  --tw-track: rgba(15, 23, 42, 0.06);
+  --tw-grid: rgba(15, 23, 42, 0.12);
+  --tw-mod-radius: 14px;
+  /* 連續色階（heatmap / tiles）：單色相淺→深。
+     雙色相 cool→warm 中段會混成泥色（2026-06-12 視覺檢查），sequential 一律單色相。 */
+  --tw-heat-lo: #faf3ea;
+  --tw-heat-hi: #9a3412; /* orange-800，深到撐得起白字 */
+  --tw-seg-text: #fff; /* 飽和段落（stack/heatmap 深格）上的文字 */
+}
+:root[data-theme='dark'] {
+  --tw-warm: #fb923c;
+  --tw-cool: #22d3ee;
+  --tw-green: #4ade80;
+  --tw-mute: #64748b;
+  --tw-track: rgba(241, 245, 249, 0.1);
+  --tw-grid: rgba(241, 245, 249, 0.18);
+  --tw-heat-lo: #1d232c;
+  --tw-heat-hi: #b45309; /* amber-700，dark 下仍能撐白字 */
+  --tw-seg-text: #0b1220; /* dark 模式類別色是亮色（400 階）→ 段上文字改深 */
+}
+
+/* 共用容器外距 + 卡片底 */
+.tw-figure,
+.tw-article,
+.tw-stat,
+.tw-stat-wrap,
+.tw-versus,
+.tw-bars,
+.tw-waffle,
+.tw-timeline,
+.tw-quote,
+.tw-source,
+.tw-note,
+.tw-line,
+.tw-slope,
+.tw-dot,
+.tw-stack,
+.tw-pyramid,
+.tw-heatmap,
+.tw-tiles,
+.tw-iso,
+.tw-arc,
+.tw-multiples {
+  margin: var(--space-5) 0;
+  font-family: var(--font-interface);
+  color: var(--color-ink);
+}
+.tw-stat-wrap .tw-stat {
+  margin: 0.6em 0 0;
+}
+.tw-tiles--fallback .tw-bars {
+  margin: 0.6em 0 0;
+  border: 0;
+  box-shadow: none;
+  background: none;
+  padding: 0;
+}
+.tw-figure,
+.tw-versus,
+.tw-bars,
+.tw-waffle,
+.tw-timeline,
+.tw-line,
+.tw-slope,
+.tw-dot,
+.tw-stack,
+.tw-pyramid,
+.tw-heatmap,
+.tw-tiles,
+.tw-iso,
+.tw-arc,
+.tw-multiples {
+  border: 1px solid var(--color-border);
+  border-radius: var(--tw-mod-radius);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-soft);
+}
+
+/* 模組標題（圖表類用）+ 來源列共用 */
+.tw-mod-title {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  color: var(--color-ink);
+  margin-bottom: 0.5em;
+}
+/* 來源列：放在模組「外面」當 caption（sibling），避免跟容器 padding 打架 */
+.tw-mod-src {
+  margin: -0.3em 0 var(--space-5);
+  padding-inline-start: 0.2em;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--color-ink-soft);
+  opacity: 0.85;
+}
+.tw-mod-src b {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.tw-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+/* 給螢幕閱讀器與 AI 讀的資料表：表格不吃 width: 1px，寬度至少等於 <caption> 的最小寬度，
+   上面那條 nowrap 讓整句標題不能換行，表格就被撐到幾百 px。視覺上被 clip 掉，但仍算進
+   頁面的可捲動範圍：LTR 頁面手機上往右撐出橫向捲動，阿拉伯文 RTL 頁面桌機也往左撐
+  （2026-10-23 /data 實測：手機 390px 寬撐到 419–704px，/ar/data 桌機 1493／1009）。
+   表格改成可以換行、固定表格版面，寬度就縮回一個字左右；螢幕閱讀器讀表格不受換行影響。 */
+table.tw-sr-only,
+table.tw-sr-only * {
+  white-space: normal;
+}
+table.tw-sr-only {
+  table-layout: fixed;
+}
+
+/* ════════════════════════════ 1. 數據大字 .tw-figure ════════════════════════════ */
+.tw-figure {
+  text-align: center;
+  padding: var(--space-5) var(--space-4);
+}
+.tw-figure-nums {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.4em 0.5em;
+  font-family: var(--font-title);
+  font-weight: 700;
+  line-height: 1.05;
+}
+.tw-figure-num {
+  font-size: clamp(2rem, 7vw, 3.4rem);
+  color: var(--tw-warm);
+  letter-spacing: -0.01em;
+}
+.tw-figure-nums .tw-figure-num:last-child:not(:first-child) {
+  color: var(--tw-cool);
+}
+.tw-figure-num--solo {
+  color: var(--color-accent);
+}
+.tw-figure-arrow {
+  font-size: clamp(1.4rem, 4vw, 2.2rem);
+  color: var(--color-ink-soft);
+  opacity: 0.7;
+  transform: translateY(-0.05em);
+}
+.tw-figure-cap {
+  margin: 0.7em auto 0;
+  font-family: var(--font-reading);
+  font-size: 1rem;
+  line-height: 1.55;
+  color: var(--color-ink-soft);
+  max-width: 36ch;
+}
+.tw-figure-src {
+  margin-top: 0.9em;
+  padding-top: 0.7em;
+  border-top: 1px dashed var(--color-border);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--color-ink-soft);
+  opacity: 0.85;
+}
+
+/* ════════════════════════════ 2. 數據組 .tw-stat ════════════════════════════ */
+.tw-stat {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
+  gap: 0.8em;
+}
+.tw-stat-card {
+  padding: var(--space-4) 1em;
+  border: 1px solid var(--color-border);
+  border-radius: var(--tw-mod-radius);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-soft);
+  text-align: center;
+}
+.tw-stat-val {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: clamp(1.5rem, 4.5vw, 2.1rem);
+  line-height: 1.1;
+  color: var(--color-accent);
+}
+.tw-stat-label {
+  margin-top: 0.4em;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: var(--color-ink-soft);
+}
+.tw-stat-note {
+  margin-top: 0.2em;
+  font-size: 0.74rem;
+  color: var(--color-ink-soft);
+  opacity: 0.8;
+}
+
+/* ════════════════════════════ 3. 對比卡 .tw-versus ════════════════════════════ */
+.tw-versus {
+  overflow: hidden;
+}
+.tw-versus-title {
+  padding: 0.85em var(--space-4) 0;
+  margin-bottom: 0;
+}
+.tw-versus-heads {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.9em var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-bg-soft);
+}
+.tw-versus-head {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+.tw-versus-head--a {
+  color: var(--tw-warm);
+}
+.tw-versus-head--b {
+  color: var(--tw-cool);
+  text-align: right;
+}
+.tw-versus-vs {
+  font-family: var(--font-title);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--color-ink-soft);
+  padding: 0.1em 0.55em;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+}
+.tw-versus-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--color-border);
+}
+.tw-versus-row:nth-child(even) .tw-versus-cell {
+  background: var(--color-bg-soft);
+}
+.tw-versus-cell {
+  background: var(--color-surface);
+  padding: 0.75em var(--space-4);
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+.tw-versus-cell:first-child {
+  box-shadow: inset 3px 0 0 -1px var(--tw-warm);
+}
+.tw-versus-cell:last-child {
+  box-shadow: inset -3px 0 0 -1px var(--tw-cool);
+}
+/* 側別標籤：桌機隱藏（表頭已標欄位），手機顯示（見 RWD 收摺） */
+.tw-versus-tag {
+  display: none;
+}
+
+/* ════════════════════════════ 4. 比例條 .tw-bars ════════════════════════════ */
+.tw-bars {
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7em;
+}
+.tw-bars-row {
+  display: grid;
+  grid-template-columns: minmax(5.5em, 9em) 1fr auto;
+  align-items: center;
+  gap: 0.8em;
+}
+.tw-bars-label {
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+  text-align: right;
+}
+.tw-bars-track {
+  position: relative;
+  height: 0.85em;
+  background: var(--tw-track);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.tw-bars-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--tw-cool), var(--tw-fill));
+  min-width: 0.85em;
+}
+.tw-bars-val {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--color-ink);
+  white-space: nowrap;
+}
+.tw-bars-note {
+  font-family: var(--font-interface);
+  font-weight: 400;
+  font-size: 0.78rem;
+  color: var(--color-ink-soft);
+}
+/* 分歧條（含負值）：0 在中線，負值往左（冷）、正值往右（暖） */
+.tw-bars-track--div {
+  overflow: visible;
+}
+.tw-bars-zero {
+  position: absolute;
+  left: 50%;
+  top: -0.15em;
+  bottom: -0.15em;
+  width: 1.5px;
+  background: var(--tw-grid);
+}
+.tw-bars-fill--pos {
+  background: var(--tw-warm);
+  border-radius: 0 999px 999px 0;
+  min-width: 2px;
+}
+.tw-bars-fill--neg {
+  background: var(--tw-cool);
+  border-radius: 999px 0 0 999px;
+  min-width: 2px;
+}
+/* 強調列（標籤開頭 `*`）：有任何強調列時，其餘列退灰當脈絡（Datawrapper pattern） */
+.tw-bars--focus .tw-bars-row:not(.tw-bars-row--hi) .tw-bars-fill {
+  background: var(--tw-mute);
+  opacity: 0.55;
+}
+.tw-bars--focus .tw-bars-row:not(.tw-bars-row--hi) .tw-bars-val {
+  color: var(--color-ink-soft);
+  font-weight: 600;
+}
+.tw-bars-row--hi .tw-bars-fill {
+  background: var(--tw-warm);
+}
+.tw-bars-row--hi .tw-bars-label {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+
+/* ════════════════════════════ 5. 方格圖 .tw-waffle ════════════════════════════ */
+.tw-waffle {
+  padding: var(--space-4);
+}
+.tw-waffle-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 3px;
+  max-width: 22em;
+  margin: 0 auto;
+  aspect-ratio: 1;
+}
+.tw-waffle-cell {
+  border-radius: 3px;
+  background: var(--tw-track);
+}
+.tw-waffle-cell[data-cat='0'] {
+  background: var(--tw-warm);
+}
+.tw-waffle-cell[data-cat='1'] {
+  background: var(--tw-cool);
+}
+.tw-waffle-cell[data-cat='2'] {
+  background: var(--tw-green);
+}
+.tw-waffle-cell[data-cat='3'] {
+  background: var(--color-accent);
+}
+.tw-waffle-cell[data-cat='4'] {
+  background: var(--tw-mute);
+}
+.tw-waffle-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5em 1.1em;
+  margin-top: var(--space-4);
+}
+.tw-waffle-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.88rem;
+  color: var(--color-ink-soft);
+}
+.tw-waffle-swatch {
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 3px;
+  flex: none;
+}
+.tw-waffle-key b {
+  color: var(--color-ink);
+  font-family: var(--font-title);
+}
+
+/* ════════════════════════════ 6. 政策軸 .tw-timeline ════════════════════════════ */
+.tw-timeline {
+  padding: var(--space-4) var(--space-4) 0.4em;
+}
+.tw-timeline-item {
+  display: grid;
+  grid-template-columns: 3.6em 1.2em 1fr;
+  gap: 0.9em;
+  align-items: start;
+  padding-bottom: var(--space-4);
+}
+.tw-timeline-year {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--tw-warm);
+  text-align: right;
+  padding-top: 0.05em;
+}
+.tw-timeline-node {
+  position: relative;
+  justify-self: center;
+  width: 0.7em;
+  height: 0.7em;
+  margin-top: 0.35em;
+  border-radius: 999px;
+  background: var(--color-accent);
+  box-shadow:
+    0 0 0 3px var(--color-surface),
+    0 0 0 4px var(--color-border);
+}
+.tw-timeline-item:not(:last-child) .tw-timeline-node::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 1em;
+  transform: translateX(-50%);
+  width: 2px;
+  height: calc(100% + var(--space-4));
+  background: var(--color-border);
+}
+.tw-timeline-title {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 1.02rem;
+  color: var(--color-ink);
+}
+.tw-timeline-desc {
+  margin-top: 0.2em;
+  font-family: var(--font-reading);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-ink-soft);
+}
+
+/* ════════════════════════════ 7. 引語卡 .tw-quote ════════════════════════════ */
+.tw-quote {
+  position: relative;
+  padding-block: 0.2em;
+  padding-inline: 1.1em 0;
+  border-inline-start: 4px solid var(--color-accent);
+  margin: var(--space-5) 0;
+}
+.tw-quote-text {
+  /* 顯式歸零：曾被 .prose blockquote 的灰底框 + 斜體蓋走 pull-quote 樣式
+     （cascade leak，2026-06-12 視覺檢查抓到）。模板已加 :not()，這裡 belt-and-braces。 */
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  font-style: normal;
+  font-family: var(--font-quote);
+  font-size: clamp(1.2rem, 3.2vw, 1.6rem);
+  line-height: 1.5;
+  color: var(--color-ink);
+}
+.tw-quote-text::before {
+  content: '「';
+  color: var(--color-accent);
+  opacity: 0.6;
+}
+.tw-quote-text::after {
+  content: '」';
+  color: var(--color-accent);
+  opacity: 0.6;
+}
+.tw-quote-by {
+  margin-top: 0.6em;
+  font-family: var(--font-interface);
+  font-size: 0.92rem;
+  color: var(--color-ink-soft);
+}
+.tw-quote-by::before {
+  content: '— ';
+}
+.tw-quote-by b {
+  color: var(--color-ink);
+}
+
+/* ════════════════════════════ 8. 來源條 .tw-source ════════════════════════════ */
+.tw-source {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5em;
+  padding: 0.6em 0.9em;
+  background: var(--color-bg-soft);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--color-ink-soft);
+  width: fit-content;
+  max-width: 100%;
+}
+.tw-source-icon {
+  flex: none;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+.tw-source b {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+
+/* ════════════════════════════ 9. 折線圖 .tw-line ════════════════════════════ */
+.tw-line {
+  padding: var(--space-4);
+}
+.tw-line-plot {
+  display: block;
+  width: 100%;
+  /* 桌機上限：viewBox 400 無限放大會讓 SVG 字級跟著膨脹（2026-06-12 視覺檢查：
+     320 viewBox 放到 720px 時軸標籤脹成 ~25px）。520px 上限 → 字級最多 ~1.3x。 */
+  max-width: 520px;
+  margin-inline: auto;
+  height: auto;
+  box-sizing: border-box;
+  overflow: visible;
+}
+/* 基準／參考線：虛線、無端點、單一標籤（graph.md §八 反例 gallery 的正解） */
+.tw-line-ref {
+  stroke: var(--color-ink-soft);
+  stroke-width: 1;
+  stroke-dasharray: 5 4;
+  opacity: 0.65;
+  vector-effect: non-scaling-stroke;
+}
+.tw-line-reflab {
+  font-family: var(--font-interface);
+  font-size: 10px;
+  fill: var(--color-ink-soft);
+}
+.tw-line-area {
+  opacity: 0.12;
+  stroke: none;
+}
+.tw-line-path {
+  fill: none;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+.tw-line-dot {
+  stroke: var(--color-surface);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+.tw-line-axis {
+  stroke: var(--tw-grid);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+.tw-line-xlab,
+.tw-line-ylab {
+  font-family: var(--font-interface);
+  font-size: 11px;
+  fill: var(--color-ink-soft);
+}
+.tw-line-slab {
+  font-family: var(--font-title);
+  font-size: 12px;
+  font-weight: 700;
+}
+/* 序列配色：path 只吃 stroke（fill:none 不能被蓋掉，否則 polyline 自己填成色塊 —
+   2026-06-12 視覺驗證抓到），dot / 終點標籤 / 面積吃 fill */
+.tw-line-path.tw-line-s0 {
+  stroke: var(--tw-warm);
+}
+.tw-line-path.tw-line-s1 {
+  stroke: var(--tw-cool);
+}
+.tw-line-path.tw-line-s2 {
+  stroke: var(--tw-green);
+}
+.tw-line-dot.tw-line-s0,
+.tw-line-slab.tw-line-s0,
+.tw-line-area.tw-line-s0 {
+  fill: var(--tw-warm);
+}
+.tw-line-dot.tw-line-s1,
+.tw-line-slab.tw-line-s1,
+.tw-line-area.tw-line-s1 {
+  fill: var(--tw-cool);
+}
+.tw-line-dot.tw-line-s2,
+.tw-line-slab.tw-line-s2,
+.tw-line-area.tw-line-s2 {
+  fill: var(--tw-green);
+}
+
+/* ════════════════════════════ 10. 熱力圖 .tw-heatmap ════════════════════════════ */
+.tw-heatmap {
+  padding: var(--space-4);
+  overflow-x: auto;
+}
+.tw-heatmap table {
+  border-collapse: separate;
+  border-spacing: 3px;
+  width: 100%;
+  font-size: 0.86rem;
+}
+.tw-heatmap th {
+  font-family: var(--font-interface);
+  font-weight: 600;
+  color: var(--color-ink-soft);
+  padding: 0.3em 0.5em;
+  text-align: center;
+}
+.tw-heatmap th[scope='row'] {
+  text-align: right;
+  white-space: nowrap;
+}
+.tw-heatmap td {
+  text-align: center;
+  padding: 0.55em 0.5em;
+  border-radius: 5px;
+  font-family: var(--font-title);
+  font-weight: 700;
+  /* --i (0-1) 注入 → 單色相淺到深（原 cool→warm 雙色相中段混成泥色，
+     且字色被 .prose td 蓋掉，深格不可讀 — 2026-06-12 視覺檢查修復） */
+  background: color-mix(
+    in srgb,
+    var(--tw-heat-hi) calc(var(--i, 0) * 92% + 4%),
+    var(--tw-heat-lo)
+  );
+  color: var(--color-ink);
+  border-bottom: 0;
+}
+.tw-heatmap td.tw-hm-hi {
+  color: #fff;
+}
+.tw-heatmap td.tw-hm-na {
+  background: var(--tw-track);
+  color: var(--color-ink-soft);
+  font-weight: 400;
+}
+@supports not (background: color-mix(in srgb, red, blue)) {
+  .tw-heatmap td {
+    background: var(--tw-fill);
+    opacity: calc(0.35 + var(--i, 0) * 0.65);
+  }
+}
+
+/* ════════════════════════════ 11. 斜率圖 .tw-slope ════════════════════════════ */
+.tw-slope {
+  padding: var(--space-4);
+}
+.tw-slope-plot {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  margin-inline: auto;
+  height: auto;
+  overflow: visible;
+}
+.tw-slope-time {
+  font-family: var(--font-interface);
+  font-size: 11px;
+  font-weight: 600;
+  fill: var(--color-ink-soft);
+}
+.tw-slope-line {
+  stroke: var(--tw-cool);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+.tw-slope-dot {
+  fill: var(--tw-cool);
+  stroke: var(--color-surface);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+.tw-slope-lab {
+  font-family: var(--font-interface);
+  font-size: 12px;
+  fill: var(--color-ink);
+}
+.tw-slope-v {
+  font-family: var(--font-title);
+  font-weight: 700;
+}
+/* 強調列：其餘退灰 */
+.tw-slope--focus .tw-slope-line:not(.tw-slope-row--hi),
+.tw-slope--focus .tw-slope-dot:not(.tw-slope-row--hi) {
+  stroke: var(--tw-mute);
+  opacity: 0.6;
+}
+.tw-slope--focus .tw-slope-dot:not(.tw-slope-row--hi) {
+  fill: var(--tw-mute);
+  stroke: var(--color-surface);
+}
+.tw-slope--focus .tw-slope-lab:not(.tw-slope-row--hi) {
+  fill: var(--color-ink-soft);
+}
+.tw-slope-line.tw-slope-row--hi {
+  stroke: var(--tw-warm);
+  stroke-width: 2.6;
+}
+.tw-slope-dot.tw-slope-row--hi {
+  fill: var(--tw-warm);
+}
+.tw-slope-lab.tw-slope-row--hi {
+  fill: var(--color-ink);
+  font-weight: 600;
+}
+
+/* ════════════════════════════ 12. 點圖 .tw-dot ════════════════════════════ */
+.tw-dot {
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65em;
+}
+.tw-dot-row {
+  display: grid;
+  grid-template-columns: minmax(5.5em, 9em) 1fr auto;
+  align-items: center;
+  gap: 0.8em;
+}
+.tw-dot-label {
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+  text-align: right;
+}
+.tw-dot-track {
+  position: relative;
+  height: 1.1em;
+  border-bottom: 1px dashed var(--tw-grid);
+}
+.tw-dot-track--axis {
+  border-bottom: 0;
+  height: 1em;
+}
+.tw-dot-axislab {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 0.72rem;
+  color: var(--color-ink-soft);
+  white-space: nowrap;
+}
+.tw-dot-pt {
+  position: absolute;
+  top: 50%;
+  width: 0.72em;
+  height: 0.72em;
+  border-radius: 999px;
+  background: var(--color-accent);
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 2px var(--color-surface);
+}
+.tw-dot-pt--start {
+  background: var(--color-surface);
+  border: 2px solid var(--tw-cool);
+}
+.tw-dot-pt--end {
+  background: var(--tw-warm);
+}
+.tw-dot-seg {
+  position: absolute;
+  top: 50%;
+  height: 2.5px;
+  transform: translateY(-50%);
+  background: var(--tw-grid);
+}
+/* 三值列（點估＋區間，v3.0）：區間帶比 range 線粗而淡——它是「不確定的範圍」
+   不是「從 A 到 B 的移動」，視覺重量要低於主點 */
+.tw-dot-seg--range {
+  height: 9px;
+  border-radius: 4.5px;
+  background: color-mix(in srgb, var(--tw-warm) 22%, transparent);
+}
+.tw-dot-range {
+  font-weight: 400;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+}
+.tw-dot-val {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+.tw-dot-arrow {
+  color: var(--color-ink-soft);
+  font-family: var(--font-interface);
+  font-weight: 400;
+}
+.tw-dot--focus .tw-dot-row:not(.tw-dot-row--hi) .tw-dot-pt {
+  background: var(--tw-mute);
+  opacity: 0.65;
+}
+.tw-dot--focus .tw-dot-row:not(.tw-dot-row--hi) .tw-dot-val {
+  color: var(--color-ink-soft);
+  font-weight: 600;
+}
+.tw-dot-row--hi .tw-dot-pt {
+  background: var(--tw-warm);
+}
+.tw-dot-row--hi .tw-dot-label {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+
+/* ════════════════════════════ 13. 堆疊條 .tw-stack ════════════════════════════ */
+.tw-stack {
+  padding: var(--space-4);
+}
+.tw-stack-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em 1.1em;
+  margin-bottom: 0.8em;
+}
+.tw-stack-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.85rem;
+  color: var(--color-ink-soft);
+}
+.tw-stack-swatch {
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 3px;
+  flex: none;
+}
+.tw-stack-row {
+  display: grid;
+  grid-template-columns: minmax(5.5em, 9em) 1fr;
+  align-items: center;
+  gap: 0.8em;
+  margin-bottom: 0.55em;
+}
+.tw-stack-label {
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+  text-align: right;
+}
+.tw-stack-bar {
+  display: flex;
+  height: 1.7em;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.tw-stack-seg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+.tw-stack-seg span {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.82rem;
+  color: var(--tw-seg-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+}
+.tw-stack-seg[data-cat='0'],
+.tw-stack-swatch[data-cat='0'] {
+  background: var(--tw-warm);
+}
+.tw-stack-seg[data-cat='1'],
+.tw-stack-swatch[data-cat='1'] {
+  background: var(--tw-cool);
+}
+.tw-stack-seg[data-cat='2'],
+.tw-stack-swatch[data-cat='2'] {
+  background: var(--tw-green);
+}
+.tw-stack-seg[data-cat='3'],
+.tw-stack-swatch[data-cat='3'] {
+  background: var(--color-accent);
+}
+.tw-stack-seg[data-cat='4'],
+.tw-stack-swatch[data-cat='4'] {
+  background: var(--tw-mute);
+}
+
+/* ════════════════════════════ 14. 金字塔 .tw-pyramid ════════════════════════════ */
+.tw-pyramid {
+  padding: var(--space-4);
+}
+.tw-pyramid-row {
+  display: grid;
+  grid-template-columns: 1fr minmax(3.6em, auto) 1fr;
+  align-items: center;
+  gap: 0.6em;
+  margin-bottom: 0.45em;
+}
+.tw-pyramid-heads {
+  margin-bottom: 0.7em;
+}
+.tw-pyramid-head {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.92rem;
+}
+.tw-pyramid-side {
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+  min-width: 0;
+}
+.tw-pyramid-side--l {
+  flex-direction: row;
+  justify-content: flex-end;
+  color: var(--tw-cool);
+}
+.tw-pyramid-side--r {
+  color: var(--tw-warm);
+}
+.tw-pyramid-mid {
+  font-size: 0.86rem;
+  color: var(--color-ink-soft);
+  text-align: center;
+  white-space: nowrap;
+}
+.tw-pyramid-bar {
+  height: 0.95em;
+  border-radius: 4px;
+  min-width: 2px;
+}
+.tw-pyramid-side--l .tw-pyramid-bar {
+  background: var(--tw-cool);
+}
+.tw-pyramid-side--r .tw-pyramid-bar {
+  background: var(--tw-warm);
+}
+.tw-pyramid-v {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--color-ink);
+  flex: none;
+}
+
+/* ════════════════════════════ 15. 縣市磚圖 .tw-tiles ════════════════════════════ */
+.tw-tiles {
+  padding: var(--space-4);
+}
+/* 磚陣與色階是地理與數線，不是文字：ar（dir=rtl）頁面曾整陣左右鏡像——連江跑到
+   最右、台東在最左，色階淺色端標成最大值。兩者鎖 LTR，標題與警示照頁面方向走。 */
+.tw-tiles-grid,
+.tw-tiles-scale {
+  direction: ltr;
+}
+.tw-tiles-grid {
+  display: grid;
+  /* minmax(0, …)：磚有 aspect-ratio，內容的最小高度會經由比例換算成最小寬度，
+     譯名一高（ko／en 兩行字）整排就被撐寬、手機上第五欄掉出模組外。鎖死欄寬。 */
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 4px;
+  max-width: 24em;
+  margin: 0 auto;
+}
+.tw-tiles-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1em;
+  aspect-ratio: 1.18;
+  border-radius: 6px;
+  padding: 0.2em;
+  background: color-mix(
+    in srgb,
+    var(--tw-heat-hi) calc(var(--i, 0) * 92% + 4%),
+    var(--tw-heat-lo)
+  );
+  text-align: center;
+}
+.tw-tiles-cell--empty {
+  background: var(--tw-track);
+}
+.tw-tiles-name {
+  font-size: 0.72rem;
+  line-height: 1.15;
+  color: var(--color-ink-soft);
+}
+/* 譯名超過 8 個字元（Lienchiang、Condado de Hsinchu）：准許折行斷字，手機再縮
+   一級（見 RWD）。中文短名最多三字，不會帶這兩個 class。 */
+.tw-tiles-name--long {
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+/* 折成兩三行的格子會比別格高：整陣每列拉到最高那格，磚維持等大。
+   兩個方向都要明寫 stretch——只拉高度的話，aspect-ratio 會從拉高後的高度
+   反推出更寬的寬度，格子又長出欄外。 */
+.tw-tiles-grid--long {
+  grid-auto-rows: 1fr;
+}
+.tw-tiles-grid--long .tw-tiles-cell {
+  place-self: stretch;
+}
+.tw-tiles-val {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.82rem;
+  color: var(--color-ink);
+}
+.tw-tiles-cell.tw-hm-hi .tw-tiles-name,
+.tw-tiles-cell.tw-hm-hi .tw-tiles-val {
+  color: #fff;
+}
+.tw-tiles-gap {
+  aspect-ratio: 1.18;
+}
+.tw-tiles-scale {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6em;
+  margin-top: 0.9em;
+  font-size: 0.78rem;
+  color: var(--color-ink-soft);
+}
+.tw-tiles-grad {
+  width: 7em;
+  height: 0.55em;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--tw-heat-hi) 4%, var(--tw-heat-lo)),
+    color-mix(in srgb, var(--tw-heat-hi) 96%, var(--tw-heat-lo))
+  );
+}
+.tw-tiles-warn {
+  margin: 0.7em 0 0;
+  font-size: 0.78rem;
+  color: var(--tw-warm);
+}
+
+/* ════════════════════════════ 16. 單位圖 .tw-iso ════════════════════════════ */
+.tw-iso {
+  padding: var(--space-4);
+}
+.tw-iso-row {
+  display: grid;
+  grid-template-columns: minmax(5.5em, 9em) 1fr auto;
+  align-items: center;
+  gap: 0.8em;
+  margin-bottom: 0.55em;
+}
+.tw-iso-label {
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+  text-align: right;
+}
+.tw-iso-units {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.22em;
+  line-height: 1;
+}
+.tw-iso-unit {
+  font-size: 0.92em;
+  line-height: 1;
+  flex: none;
+}
+/* 單位圖符號用文字色（自訂 glyph 如 👤 也能渲染，不是被蓋成色塊）。
+   2026-07-16 從 13. tw-stack 段搬回本段（copy-paste 殘留造成 iso 樣式拆兩處）。 */
+.tw-iso-unit[data-cat='0'] {
+  color: var(--tw-warm);
+}
+.tw-iso-unit[data-cat='1'] {
+  color: var(--tw-cool);
+}
+.tw-iso-unit[data-cat='2'] {
+  color: var(--tw-green);
+}
+.tw-iso-unit[data-cat='3'] {
+  color: var(--color-accent);
+}
+.tw-iso-unit[data-cat='4'] {
+  color: var(--tw-mute);
+}
+.tw-iso-val {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+.tw-iso-key {
+  margin: 0.6em 0 0;
+  font-size: 0.78rem;
+  color: var(--color-ink-soft);
+}
+
+/* ════════════════════════════ 17. 說明盒 .tw-note ════════════════════════════ */
+.tw-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7em;
+  padding: 0.85em 1em;
+  border: 1px solid var(--color-border);
+  border-inline-start: 3px solid var(--color-accent);
+  border-radius: 8px;
+  background: var(--color-bg-soft);
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--color-ink-soft);
+}
+.tw-note--warn {
+  border-inline-start-color: var(--tw-warm);
+}
+.tw-note-chip {
+  flex: none;
+  font-family: var(--font-interface);
+  font-weight: 700;
+  font-size: 0.82rem;
+  color: var(--color-ink);
+  padding-top: 0.1em;
+}
+.tw-note--warn .tw-note-chip {
+  color: var(--tw-warm);
+}
+.tw-note-body p {
+  margin: 0 0 0.45em;
+}
+.tw-note-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* ════════════════════════════ 18. 席次弧 .tw-arc ════════════════════════════ */
+.tw-arc {
+  padding: var(--space-4);
+  margin: 0;
+}
+.tw-arc-plot {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  height: auto;
+}
+.tw-arc-dot[data-cat='0'] {
+  fill: var(--tw-warm);
+}
+.tw-arc-dot[data-cat='1'] {
+  fill: var(--tw-cool);
+}
+.tw-arc-dot[data-cat='2'] {
+  fill: var(--tw-green);
+}
+.tw-arc-dot[data-cat='3'] {
+  fill: var(--color-accent);
+}
+.tw-arc-dot[data-cat='4'] {
+  fill: var(--tw-mute);
+}
+.tw-arc-majority {
+  stroke: var(--color-ink-soft);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 3;
+}
+.tw-arc-majlab {
+  font-family: var(--font-interface);
+  font-size: 11px;
+  fill: var(--color-ink-soft);
+}
+.tw-arc-total {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 30px;
+  fill: var(--color-ink);
+}
+.tw-arc-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4em 1.1em;
+  margin-top: 0.6em;
+}
+.tw-arc-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.85rem;
+  color: var(--color-ink-soft);
+}
+.tw-arc-key b {
+  font-family: var(--font-title);
+  color: var(--color-ink);
+}
+.tw-arc-swatch {
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 50%;
+  flex: none;
+}
+.tw-arc-swatch[data-cat='0'] {
+  background: var(--tw-warm);
+}
+.tw-arc-swatch[data-cat='1'] {
+  background: var(--tw-cool);
+}
+.tw-arc-swatch[data-cat='2'] {
+  background: var(--tw-green);
+}
+.tw-arc-swatch[data-cat='3'] {
+  background: var(--color-accent);
+}
+.tw-arc-swatch[data-cat='4'] {
+  background: var(--tw-mute);
+}
+
+/* ════════════════════════ 19. 小倍數網格 .tw-multiples ════════════════════════ */
+.tw-multiples {
+  padding: var(--space-4);
+}
+.tw-mult-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.9em 1.1em;
+}
+.tw-mult-cell {
+  margin: 0;
+}
+.tw-mult-name {
+  font-family: var(--font-interface);
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+  margin-bottom: 0.25em;
+}
+.tw-mult-cell--hi .tw-mult-name {
+  color: var(--color-ink);
+}
+.tw-mult-plot {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.tw-mult-path {
+  fill: none;
+  stroke: var(--tw-warm);
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+.tw-mult-area {
+  fill: var(--tw-warm);
+  opacity: 0.08;
+}
+.tw-mult-dot {
+  fill: var(--tw-warm);
+}
+.tw-mult-lab {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 11px;
+  fill: var(--color-ink);
+}
+.tw-mult-xlab {
+  font-family: var(--font-interface);
+  font-size: 10px;
+  fill: var(--color-ink-soft);
+}
+/* 有強調群組時，其餘群組線退灰當脈絡（同 bars/slope/dot 的灰色脈絡 pattern） */
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-path {
+  stroke: var(--tw-mute);
+}
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-area {
+  fill: var(--tw-mute);
+}
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-dot {
+  fill: var(--tw-mute);
+}
+
+/* ════════════════════════════ RWD ════════════════════════════ */
+@media (max-width: 560px) {
+  /* 對比卡：手機收摺成「成對小卡」——每組左右各自帶標籤、卡片邊框框住配對，
+     避免兩欄壓成單欄後變成一串看不出誰對誰的清單 */
+  .tw-versus-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.65em;
+    padding: 0.7em var(--space-4) 0.9em;
+  }
+  .tw-versus-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--color-border);
+  }
+  /* 取消桌機隔列上色，手機改用卡片邊框分組 */
+  .tw-versus-row:nth-child(even) .tw-versus-cell {
+    background: var(--color-surface);
+  }
+  .tw-versus-cell {
+    padding: 0.6em 0.85em;
+  }
+  .tw-versus-cell:first-child {
+    box-shadow: inset 3px 0 0 -1px var(--tw-warm);
+    background: var(--color-bg-soft);
+  }
+  .tw-versus-cell:last-child {
+    box-shadow: inset 3px 0 0 -1px var(--tw-cool);
+  }
+  .tw-versus-tag {
+    display: block;
+    font-family: var(--font-title);
+    font-size: 0.72rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 0.2em;
+  }
+  .tw-versus-cell:first-child .tw-versus-tag {
+    color: var(--tw-warm);
+  }
+  .tw-versus-cell:last-child .tw-versus-tag {
+    color: var(--tw-cool);
+  }
+  .tw-bars-row {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      'label val'
+      'track track';
+  }
+  .tw-bars-label {
+    grid-area: label;
+    text-align: left;
+  }
+  .tw-bars-val {
+    grid-area: val;
+  }
+  .tw-bars-track {
+    grid-area: track;
+  }
+  /* 新模組同款手機收摺：標籤上、值右上、軌道滿版下 */
+  .tw-dot-row,
+  .tw-iso-row {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      'label val'
+      'track track';
+  }
+  .tw-dot-label,
+  .tw-iso-label {
+    grid-area: label;
+    text-align: left;
+  }
+  .tw-dot-val,
+  .tw-iso-val {
+    grid-area: val;
+  }
+  .tw-dot-track,
+  .tw-iso-units {
+    grid-area: track;
+  }
+  .tw-stack-row {
+    grid-template-columns: 1fr;
+    gap: 0.25em;
+  }
+  .tw-stack-label {
+    text-align: left;
+  }
+  .tw-pyramid-mid {
+    font-size: 0.78rem;
+  }
+  /* 手機一格約 52px 寬、扣掉內距只剩 45px：Lienchiang、Цзиньмэнь 這類十個字母
+     上下的單字要縮到 0.56rem、內距收到 1px 才排得進一行，不會被拆成「Lienchian／g」
+    （瀏覽器對專有名詞多半找不到斷字點，hyphens 靠不住）。量測值見 2026-10-24 commit。 */
+  .tw-tiles-grid--long .tw-tiles-cell {
+    padding: 1px;
+  }
+  .tw-tiles-name--long {
+    font-size: 0.56rem;
+    line-height: 1.1;
+  }
+}
+
+/* ═══════════════════ scroll-reveal 漸進增強（v3.0，graph.md §三.14） ═══════════════════
+   設計約束：內容可見性絕不依賴捲動動畫——AI 爬蟲不捲動、Firefox stable 的
+   animation-timeline 仍在 flag 後（2026-07）、舊 Safari 無支援。@supports 之外的
+   世界（含 reduced-motion 使用者與所有爬蟲）拿到的就是完全可見的終態；動畫只是
+   進場飾品，拿掉零語意損失。 */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    :where(
+      .tw-figure,
+      .tw-stat,
+      .tw-stat-wrap,
+      .tw-versus,
+      .tw-bars,
+      .tw-waffle,
+      .tw-timeline,
+      .tw-quote,
+      .tw-note,
+      .tw-line,
+      .tw-slope,
+      .tw-dot,
+      .tw-stack,
+      .tw-pyramid,
+      .tw-tiles,
+      .tw-iso,
+      .tw-heatmap,
+      .tw-arc,
+      .tw-multiples
+    ) {
+      animation: tw-mod-rise 0.55s ease-out both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 40%;
+    }
+  }
+}
+@keyframes tw-mod-rise {
+  from {
+    opacity: 0.15;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ── tw-article 文內嵌入卡（2026-08-19）────────────────────────────────────
+   容器只管在正文裡的外距與多卡堆疊間距；卡片本體是共用 ArticleCard（.is-embed），
+   樣式住在 ArticleCard.astro。renderer 的 fallback（沒走 Astro 後處理時，例如
+   RSS 讀者）是 .tw-article-slot 裡一條純連結，給它最低限度的可讀樣式。 */
+.tw-article {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.prose .tw-article .article-card.is-embed {
+  margin: 0;
+}
+/* 卡片內元素不吃 .prose 的段落／標題排版（h4 標題、p 摘要都在卡片自己的節奏裡） */
+.prose .tw-article .article-card-title,
+.prose .tw-article .article-card-desc {
+  margin: 0;
+}
+/* .prose :global(a) 給正文連結上色＋底線；卡片是整張 <a>，這兩樣都要拿掉，
+   標題／摘要顏色回到卡片自己的 token（詳細規則見 ArticleCard.astro .is-embed）。
+   選擇器多疊一層 .prose 是為了贏過 template scoped 規則的 specificity。 */
+.prose .tw-article a.article-card,
+.prose .tw-article a.article-card:hover {
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 12px;
+}
+@media (max-width: 640px) {
+  .prose .tw-article a.article-card,
+  .prose .tw-article a.article-card:hover {
+    padding-bottom: 10px;
+  }
+}
+.prose .tw-article .article-card-title {
+  color: var(--color-ink);
+}
+.prose .tw-article .article-card:hover .article-card-title {
+  color: var(--color-accent);
+}
+.prose .tw-article .article-card-desc {
+  color: var(--color-ink-soft);
+}
+/* dark-polish 有一條廣域規則 `[class*='card']` 給所有 class 含 card 的元素上 6% 白底
+   ——.article-card-body／-toprow／-title／-desc 全中，四層疊起來文字欄會浮出一塊
+   淺色方框（2026-08-19 深色截圖抓到）。卡片本體吃那 6% 沒問題（跟站上其他深色
+   卡一致），後代全部歸零。選擇器疊到 (0,6,0) 才贏得過那條 (0,5,0)。 */
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-body,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-toprow,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-toprow-left,
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-title,
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-desc,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-updated {
+  background: transparent;
+}
+.tw-article-slot a {
+  display: inline-block;
+  padding: 0.35em 0.75em;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-family: var(--font-interface);
+  font-size: 0.9em;
+  text-decoration: none;
+}

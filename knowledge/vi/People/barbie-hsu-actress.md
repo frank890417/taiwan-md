@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/徐熙媛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: '2026-07-26T14:17:51+08:00'
+translatedAt: '2026-11-05T00:42:44.360881+00:00'
 ---
 
 > **30 giây tóm tắt:** Hồ Tế Hoàn (tên đương ngữ Đại S), sinh năm 1976, người Hoa nước Đài Loan, diễn viên, ca sĩ, người dẫn chương trình. Năm 1994 cùng em gái Hồ Tế Nhi xuất hiện với nhóm "S.O.S", năm 2001 nhờ vai "Cám Già" trong Tia Hoa Vườn nổi tiếng khắp châu Á, năm 2005 với Hoàng Hậu Thẩm Mỹ dẫn dắt xu hướng thẩm mỹ. Hai cuộc hôn nhân sau đó, năm 2024 công bố bằng lời khẳng định "mười năm hôn nhân hai chết một thương tích" khiến các báo chí bất ngờ, năm 2025 tháng 2 ngày 2 từ chứng vì nhiễm trùng hạch mạch kèm theo nhiễm trùng phổi, qua đời tại độ tuổi 48.

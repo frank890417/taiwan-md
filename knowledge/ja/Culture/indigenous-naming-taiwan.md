@@ -132,6 +132,8 @@ _図：原住民族委員会「原住民族回復伝統名字資訊網」の賽�
 
 ## 延伸閲読
 
+- [台湾人の名前（特集）](/ja/names/) — 姓、世代、四つのローマ字方式、原住民族の名前を図解。氏名ローマ字変換ツール付き。
+
 **延伸閲読：** [原住民族回復伝統名字資訊網](https://taiwan-indigenous-name.info/zh-tw/index.html)、[台湾原住民族取用伝統姓名指引](https://glrs.moi.gov.tw/LawContent.aspx?id=GL001686)、[原住民族回復伝統姓名及更正姓名作業要点](https://glrs.moi.gov.tw/LawContent.aspx?id=FL002349)。
 
 ## 画像出典

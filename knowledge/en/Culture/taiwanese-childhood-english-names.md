@@ -281,6 +281,7 @@ The act of being assigned a name was never abolished. Only the person handing ou
 
 ## Further Reading
 
+- [Taiwanese Names (feature)](/en/names/) — surnames, generations, the four official spellings and Indigenous names in charts, with a name romanization tool.
 - [Loanwords and Language Contact in Taiwan](/en/culture/loanwords-and-language-contact-in-taiwan) — From borrowings among Japanese, English, and Taiwanese, see how Taiwan’s multilingual layers stack up
 - [Taiwan’s Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement) — Another line in the recovery of naming authority, from Indigenous-language revitalization through the 2024 Name Act amendment
 - [Chiung Wi-vun](/en/people/chiung-wi-vun) — A parallel extension of the “de-Sinicization” logic in the Tâi-gí writing movement, and another side of naming and script sovereignty

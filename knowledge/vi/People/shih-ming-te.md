@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-08-09T12:06:28+08:00'
-# design_rationale:
-#   why_this_hook: "選擇軍法庭上『請判我死刑』的場景——這個時刻最能定義施明德：不是英雄主義的表演，而是對整個審判邏輯的拒絕。以這個場景作為 anchor，讀者從一開始就站在『他到底在堅持什麼』的問題上。"
-#   whats_excluded: "中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控"
-#   where_it_hedges: "坐牢確切年數（各來源介於25-26年，採較保守的二十五年以上表述）；1962年被捕的政治組織確切名稱（史料略有出入）"
+translatedAt: '2026-11-04T21:36:05.905872+00:00'
 ---
 
 # Thích Minh Đức: Hai mươi lăm năm bên trong ngục tù, cuối cùng nâng biểu hiệu chống lại chính đảng mình

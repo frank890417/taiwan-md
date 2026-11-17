@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T20:14:55.994827+00:00'
 ---
 
 > Im Jahr 1976 wurde Xiao Huang-chi in Banqiao geboren, wobei Katarakt ihn zweimal blinde machte. Doch diese Erfahrung des „Nichtsehens“ wurde zum Nährboden für seine Musik und sein Leben. Er ist nicht nur der erste in Taiwan, der viermal den Golden Melody Award als bester Taigi-Sänger gewonnen hat, sondern war auch ein Judo-Nationalheld, der Taiwan bei den Paralympics vertrat. 1995 gründete er die „Allround-Band“ (Life Line Band) und ebnete damit einen professionellen Weg für blinde Musiker. In jüngerer Zeit drehte er durch seinen einzigartigen Humor des „Höllen-Gags“ das tragische Bild von Menschen mit Behinderungen um und bewies mit seinem Gesang und seiner gelassenen Lebenseinstellung, dass selbst im Dunkeln ein wunderbares Leben gelebt werden kann.

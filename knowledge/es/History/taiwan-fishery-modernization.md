@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-11T22:00:23+08:00'
+translatedAt: '2026-11-02T15:17:07.314878+00:00'
 ---
 
 # La modernización de la pesca en Taiwán: cómo una red conecta a Qianzhen, los tres océanos y la mesa de una isla
@@ -166,6 +166,6 @@ Hoy, cuando las personas compran un pez en el mercado, ven peso, precio y origen
 
 ## Lecturas adicionales
 
-- [El Origen de la Pesca en Taiwán](/es/history/taiwan-fishery-origins) — La primera mitad del mismo mar: investigación acuícola colonial japonesa, mercado de pescado y recepción técnica de posguerra
-- [Historia del Comercio Marítimo en Taiwán](/es/history/taiwan-maritime-trade-history)
-- [Historia de la Industria Azucarera en Taiwán](/history/台灣糖業史)
+- [El origen de la pesca en Taiwán](/es/history/taiwan-fishery-origins) — La primera mitad del mismo periodo: experimentos acuícolas durante el dominio japonés, mercados de pescado y recepción de tecnología tras la guerra.
+- [Historia del comercio marítimo en Taiwán](/es/history/taiwan-maritime-trade-history)
+- [Historia de la industria azucarera de Taiwán](/es/economy/taiwan-sugar-industry)

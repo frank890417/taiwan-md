@@ -3,19 +3,22 @@ title: '国立故宮博物院'
 description: 'それはこの島で最も重い「荷物」であり、最も軽やかな「デジタル幻境」でもあります。戦火の木箱からAI演算能力下のピクセルまで、故宮は台北外双渓と嘉義太保の間で、「台湾の故宮」とは何かを定義しようとしています。'
 date: 2026-04-19
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
   ['博物館', '歴史', '芸術', '台北', '嘉義', '翠玉白菜', 'デジタル芸術', '転型']
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-05-01T18:09:43+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T06:38:51.373063+00:00'
 ---
 
 # 国立故宮博物院：戦火の木箱からAI幻境までの百年長征

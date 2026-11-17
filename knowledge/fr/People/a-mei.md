@@ -1,25 +1,22 @@
 ---
-title: 'A-mei : chanteuse Puyuma, de *Sisters* (1996) à cinq concerts au Taipei Dome (2024)'
-description: "Née le 9 août 1972 dans le village de Kavulungan (卑南鄉), district de Taitung, A-mei (張惠妹) est une chanteuse taiwanaise d'origine Puyuma et l'une des artistes féminines les plus populaires de l'histoire de la musique pop sinophone. En 1996, son premier album *Sisters* (姊妹) s'est vendu à 1,21 million d'exemplaires à Taïwan et 4 millions en Asie. En 2015, sa tournée « Utopia » a donné lieu à 10 concerts consécutifs au Taipei Arena. En décembre 2024, sa série de 5 concerts ASMeiR MAXXX au Taipei Dome a mobilisé un budget de production de 200 millions de dollars taïwanais, avec un lâcher de montgolfières en direct. Ses ventes cumulées dépassent les 50 millions d'exemplaires."
+title: "A-Mei : chanteuse puyuma, de l'album « Sœurs » (1996) aux cinq concerts au Taipei Dome (2024)"
+description: "Née le 9 août 1972 dans le township de Beinan, comté de Taitung, A-Mei est une chanteuse puyuma de Taïwan, l'une des chanteuses les plus réussies de l'histoire de la musique pop mandarine. Son premier album « Sœurs » (1996) s'est vendu à 1,21 million d'exemplaires à Taïwan et 4 millions en Asie. En 2015, la tournée « Utopia » a donné 10 concerts consécutifs au Taipei Arena. En décembre 2024, cinq concerts « ASMeiR MAXXX » au Taipei Dome, avec un budget de production de NT$200 millions et des ballons à air chaud lancés sur place. Ventes cumulées en carrière dépassant 50 millions d'exemplaires."
 date: 2026-03-19
 category: 'People'
-tags:
-  ['Musique', 'Peuples autochtones', 'Puyuma', 'Diva', 'Droits LGBTQ+', 'Pop']
+tags: ['Musique', 'Autochtones', 'Puyuma', 'Diva', 'Droits LGBT', 'Pop']
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從1996到2024的數字對比——121萬張首專到大巨蛋5場，數字本身說明了她的跨度。"
-#   whats_excluded: "各張專輯完整歌曲列表；商業代言清單；各演唱會場次細目"
-#   where_it_hedges: "張雨生發掘細節：各方說法略有出入，以維基百科為準；2023北京彩虹旗爭議另案記錄"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T21:44:28.485034+00:00'
 ---
 
 # A-mei : diva Puyuma, de _Sisters_ (1996) à cinq concerts au Taipei Dome (2024)

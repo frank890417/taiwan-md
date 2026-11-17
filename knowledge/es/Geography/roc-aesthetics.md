@@ -1,8 +1,8 @@
 ---
 title: 'Estética de la República de China: Desde banderas municipales hasta letreros de esquina, cómo una isla convierte la vida en un rompecabezas visual'
 description: 'Desde el paisaje urbano, la arquitectura, las banderas municipales, los letreros hasta el diseño del sector público, cuestionamos cómo se formó la estética de la República de China y por qué no se puede resumir a Taiwán simplemente como "feo".'
+date: 2026-08-20
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'paisaje urbano',
@@ -14,17 +14,19 @@ tags:
     'Distrito Beida',
     'estética de la República de China',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 14
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/中華民國美學.md'
-sourceCommitSha: 'ba877ac2b'
-sourceContentHash: 'sha256:c8f833e6836a370f'
-sourceBodyHash: 'sha256:26c6e79fd91efe41'
-translatedAt: '2026-09-11T06:15:03+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:d44f393287c030ea'
+sourceBodyHash: 'sha256:764a5128969f3793'
+translatedAt: '2026-11-05T15:24:03.769876+00:00'
 ---
 
 El 15 de octubre de 2024, el Ministerio de Economía anunció los resultados de la renovación de letreros en el área comercial You'ai de Guohua en Tainan, renovando un total de 41 letreros comerciales. [^1] En 2016, se demolió el acceso al puente Zhongxiao en Taipéi, permitiendo que la Puerta Norte reapareciera finalmente bajo el puente elevado; los alrededores también comenzaron a reorganizar las calles y los letreros. [^2] El 29 de febrero de 2024, el Gobierno Municipal de Nueve Taipei aprobó la segunda revisión integral del plan detallado de la zona específica de la comunidad de la Universidad de Taipéi. [^3]
@@ -41,24 +43,24 @@ El punto común de estos videos es tratar el paisaje urbano como una historia so
 
 📝 **Nota del curador:** Decir que un lugar es "feo" genera resonancia rápidamente. Desmontarlo en instituciones, objetos y las elecciones de las personas es cuando realmente se comienza a entender.
 
-## Lo que realmente dice este término
+## Qué significa realmente este término
 
-La "estética de la República de China" no es un estilo nacional con un manual de diseño explícito. Es más bien un marco de observación formado a posteriori, que ensambla las elecciones visuales de diferentes épocas, agencias e industrias en una composición sintética con un tono irónico.
+La «estética de la República de China (Taiwán)» no es un estilo nacional con un manual de diseño claro. Es más bien un marco de observación formado a posteriori, que une las elecciones visuales de diferentes épocas, organismos e industrias en una composición sintética con un tono irónico.
 
-En esta composición sintética hay los tejados rojos, columnas verdes y composiciones simétricas de los edificios conmemorativos nacionales, así como los letreros de lona en las paredes exteriores de los mercados, los letreros corredizos de las academias de preparación, los caracteres dorados en rojo brillante de los templos, los mascotas de las actividades locales, los emblemas y banderas de los gobiernos municipales y de condado. Incluye simultáneamente "el orden que el Estado quiere que se vea" y "las cosas que los residentes agregaron por sí mismos para vivir".
+En esta composición conviven las tejas rojas, columnas verdes y composiciones simétricas de la arquitectura conmemorativa nacional, junto con los toldos de lona en las fachadas de los mercados, los letreros luminosos de las academias de refuerzo, los caracteres dorados sobre rojo vivo de los templos, las mascotas de los eventos locales, los escudos y banderas de los gobiernos municipales. A la vez engloba «el orden que el Estado quiere que se vea» y «lo que los residentes añaden por su cuenta para vivir».
 
-Por lo tanto, este término tiene al menos ocho dimensiones. Es la dimensión de la arquitectura y también la de los letreros. Es la de las instalaciones públicas y las banderas municipales, y también la de las construcciones ilegales, los cables, el estacionamiento y el mantenimiento. También incluye las licitaciones y la propaganda del sector público, si se ha enseñado a observar en las escuelas, y cómo una sociedad decide qué estilos locales merecen ser preservados.
+Por tanto, este término tiene al menos ocho dimensiones. Es la dimensión de la arquitectura, y también la de los letreros. Es la de las instalaciones públicas y las banderas municipales, y también la de las construcciones ilegales, el tendido eléctrico, el aparcamiento y el mantenimiento. Incluye asimismo los concursos y la propaganda del sector público, si en la escuela se ha aprendido a observar, y cómo una sociedad decide qué estilos locales merecen conservarse.
 
-| Dimensión                 | Lo que se ve en la calle                                                              | La pregunta subyacente                                                      |
-| ------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Historia y régimen        | Edificios conmemorativos, símbolos nacionales, banderas                               | Quién se pone en el campo visual público y quién se esconde                 |
-| Arquitectura y vivienda   | Azulejos, apartamentos, rejas de hierro, proyección de balcones, adiciones en azoteas | Cómo se tensan las necesidades de vivienda y las normas urbanas             |
-| Comercio y letreros       | Lonas, luces de neón, tipografía, letreros corredizos                                 | Cómo los comercios compiten por la atención en fachadas limitadas           |
-| Infraestructura básica    | Cables, aires acondicionados, cajas de transformación, estacionamiento en la acera    | Cómo se superponen los sistemas públicos y las necesidades privadas         |
-| Identidad local           | Banderas municipales, emblemas, mascotas, visualidad de eventos                       | Qué imágenes debe usar un lugar para presentarse a sí mismo                 |
-| Diseño del sector público | Videos de propaganda, carteles, resultados de licitaciones                            | Cómo chocan la profesionalidad, el presupuesto y las expectativas políticas |
-| Educación y mantenimiento | Escuelas, limpieza de calles, renovación de letreros                                  | Si la sensibilidad estética puede convertirse en una capacidad cotidiana    |
-| Excepciones y gobernanza  | Distrito Beida, Puerta Norte, renovación comercial                                    | Si las reglas pueden permitir que los lugares formen su propio orden        |
+| Dimensión                 | Lo que se ve en la calle                                                       | La cuestión de fondo                                                        |
+| ------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Historia y poder          | Arquitectura conmemorativa, símbolos nacionales, banderas                      | Quién entra en el espacio público y quién queda oculto                      |
+| Arquitectura y vivienda   | Azulejos, apartamentos, rejas, voladizos, ampliaciones en azotea               | Cómo tironean la necesidad de vivienda y las normas urbanas                 |
+| Comercio y letreros       | Lona, neones, tipografía, letreros corredizos                                  | Cómo los comerciantes compiten por la atención en fachadas limitadas        |
+| Infraestructura           | Cableado, aires acondicionados, cajas de transformación, aparcamiento en calle | Cómo se superponen los sistemas públicos y las necesidades privadas         |
+| Identidad local           | Banderas municipales, escudos, mascotas, imagen de eventos                     | Qué imágenes usa un lugar para presentarse                                  |
+| Diseño del sector público | Vídeos promocionales, carteles, resultados de concursos                        | Cómo chocan la profesionalidad, el presupuesto y las expectativas políticas |
+| Educación y mantenimiento | Campus, limpieza viaria, renovación de letreros                                | Si el sentido estético puede ser una capacidad cotidiana                    |
+| Excepciones y gobernanza  | Distrito especial de Beida, Puerta Norte, remodelación de zonas comerciales    | Si las normas pueden permitir que un lugar genere su propio orden           |
 
 ## La arquitectura no es el fondo, es el gesto dejado por la vida
 
@@ -90,27 +92,27 @@ Un letrero puede tener simultáneamente el nombre de la tienda, el teléfono, lo
 
 Sin embargo, el problema de Taiwán no está solo en "demasiado". Los carteles comerciales y los anuncios de licor de la era japonesa también utilizaron imágenes vívidas, personajes, texto e imaginación exótica. Ese material histórico nos recuerda que la visualidad comercial siempre absorberá la tecnología, la industria y las modas de la época. La verdadera pregunta a hacer es si el diseño de hoy sabe qué está citando y si puede hacer que los nuevos elementos y el viejo barrio se expliquen mutuamente. [^13]
 
-## Banderas municipales: la visualidad pública más ignorada
+## Banderas de condados y ciudades: la identidad visual pública más fácil de pasar por alto
 
-Si los letreros representan el comercio privado, las banderas municipales son el método mediante el cual los gobiernos locales se colocan en el paisaje urbano. Aparecen frecuentemente en los edificios del gobierno municipal, oficinas de distrito, escuelas, estadios de deportes, escenarios de festivales y entradas a las carreteras. El emblema, el texto, el nombre en inglés, el color y la proporción de la bandera, junto con la arquitectura, los paneles traseros de eventos, los uniformes y los vehículos de propaganda, forman la identidad local.
+Si los letreros representan el comercio privado, las banderas de condados y ciudades son la forma en que los gobiernos locales se insertan en el paisaje urbano. Suelen aparecer en ayuntamientos, oficinas de distrito, escuelas, estadios, escenarios de ceremonias y entradas de carreteras. Los emblemas, textos, nombres en inglés, colores y proporciones de las banderas, junto con la arquitectura, los fondos de escenario, los uniformes y los vehículos promocionales, conforman juntos la identidad local.
 
-Esta capa a menudo se ignora porque las personas están acostumbradas a ver la bandera como fondo. En realidad, la bandera es muy honesta. No puede explicar lentamente como un sitio web, ni puede补充 historias como un texto largo. Debe permitir que las personas reconozcan dónde están desde la distancia, en el viento, plegada y en una mirada rápida.
+Esta capa suele pasarse por alto porque la gente está acostumbrada a tratar las banderas como fondo. En realidad, las banderas son muy honestas. No pueden explicarse despacio como un sitio web, ni completar la historia como un texto largo. Deben permitir que uno reconozca dónde está en el viento, a lo lejos, plegadas o bajo una mirada rápida al pasar.
 
-Las banderas de la ciudad de Taoyuan y del condado de Yilan se pueden encontrar en Wikimedia Commons en archivos de dominio público directamente incrustables. El valor de estas imágenes no reside en demostrar cuál bandera se ve mejor, sino en permitir que el lector vea que la identidad local también es parte del diseño urbano. [^8] [^9]
+Las banderas de la ciudad de Taoyuan y del condado de Yilan se pueden encontrar en Wikimedia Commons como archivos de dominio público listos para incrustar. El valor de estas imágenes no está en probar qué bandera es más bonita, sino en mostrar al lector que la identidad local también es parte del diseño urbano. [^8] [^9]
 
 ![Bandera de la ciudad de Taoyuan](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
 
-_Imagen: Bandera de la ciudad de Taoyuan, Wikimedia Commons, Dominio público / Exento de PD-ROC. Página del archivo: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Aquí solo se incrusta la URL en caliente, sin descargar la imagen._
+_Imagen: Bandera de la ciudad de Taoyuan, Wikimedia Commons, dominio público / PD-ROC-exempt. Página del archivo: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Aquí solo se incrusta la URL directa, no se descarga la imagen._
 
-El dilema de las banderas municipales es similar al de los letreros. Demasiado texto, y desde la distancia solo queda un montón. El emblema está lleno de demasiadas montañas, mares, espigas de arroz, carreteras, símbolos tecnológicos e históricos, haciendo que la historia local pierda capas. Cuando no hay normas de uso de color, la bandera municipal, la bandera de eventos, el mascota y el panel trasero de propaganda hablan por separado; colgados en una fila, aparece una sensación visual de "todos representan el lugar, pero nadie diseñó juntos".
+El problema de las banderas de condados y ciudades es muy parecido al de los letreros. Demasiado texto y a lo lejos solo se ve una mancha. Los emblemas meten demasiadas montañas, mares, espigas de arroz, carreteras, símbolos de tecnología e historia, y la historia local pierde matices. Cuando no hay normas de uso del color, la bandera de la ciudad, la bandera de eventos, la mascota y el fondo promocional hablan cada uno por su cuenta, y al colgarlos todos juntos surge una sensación visual de «todos representan al lugar, pero nadie los diseñó juntos».
 
-Esta es la versión pública de la "estética de la República de China". No es la responsabilidad de una sola bandera, sino el resultado de que los gobiernos locales pongan la identidad, el eslogan político, la imagen turística y la función administrativa en la misma imagen. Las banderas pueden ser animadas, pero animado no es igual a reconocible. La cultura local tampoco necesita ser comprimida en una forma de montaña, una flor o cinco colores para ser representada.
+Esta es precisamente la versión pública de la «estética de la República de China». No es culpa de una bandera en particular, sino el resultado de que los gobiernos locales metan identidad, eslóganes políticos, imágenes turísticas y funciones administrativas en una sola imagen. Las banderas pueden ser muy vistosas, pero lo vistoso no equivale a reconocibilidad. La cultura local tampoco tiene por qué comprimirse en una forma de montaña, una flor o cinco colores para considerarse representada.
 
 ![Bandera del condado de Yilan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
 
-_Imagen: Bandera del condado de Yilan, Wikimedia Commons, Dominio público / Exento de PD-ROC. Página del archivo: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Aquí solo se incrusta la URL en caliente, sin descargar la imagen._
+_Imagen: Bandera del condado de Yilan, Wikimedia Commons, dominio público / PD-ROC-exempt. Página del archivo: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Aquí solo se incrusta la URL directa, no se descarga la imagen._
 
-📝 **Nota del curador:** Una bandera no es todo el lugar, pero expone si el gobierno local sabe qué dejar y qué soltar.
+📝 **Nota del curador:** Una bandera no es todo el lugar, pero revela si el gobierno local sabe qué conservar y qué soltar.
 
 ## Cables, aires acondicionados y estacionamiento: la infraestructura de la ciudad también tiene estética
 
@@ -184,40 +186,40 @@ El momento más útil de la "estética de la República de China" no es cuando s
 
 ## Referencias
 
-[^1]: [Ministerio de Economía: Integrando el diseño estético con la cultura local, renovando el nuevo aspecto comercial](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — La Oficina de Desarrollo Comercial del Ministerio de Economía explica la renovación de 41 letreros en el área comercial You'ai de Guohua en Tainan, y los casos de valor agregado de diseño en los comercios de Changhua y Kaohsiung.
+![Letreros chinos en una esquina de Taipéi](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
 
-[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Caso de paisaje urbano en inglés que registra la demolición del acceso elevado de la Puerta Norte en Taipéi, la renovación de letreros y el proceso de discusión conjunta entre residentes, comerciantes y diseñadores.
+_Imagen: letreros chinos en una esquina de Taipéi, Wikimedia Commons, CC0/Dominio público. Página del archivo: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Aquí solo se incrusta la URL directa, no se descarga la imagen._
 
-[^3]: [Gobierno Municipal de Nueve Taipei, Oficina de Desarrollo Urbano y Rural: Anuncio de cambio del plan detallado de la zona específica de la comunidad de la Universidad de Taipéi](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — El gobierno municipal anuncia la segunda revisión integral del plan detallado del Distrito Beida, entrando en vigor el 29 de febrero de 2024.
+[^1]: [Ministerio de Asuntos Económicos: Integrando diseño estético y cultura local, rediseñando la nueva imagen de distritos comerciales](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — La Agencia de Desarrollo Comercial del Ministerio de Asuntos Económicos explica la renovación de 41 letreros en el distrito comercial Guohua-You'ai de Tainan, así como casos de valor añadido de diseño en los distritos comerciales de Changhua y Kaohsiung.
 
-[^4]: [Ministerio del Interior: Reglamento de Gestión de Letreros y Publicidad Vertical](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Página de regulaciones del Ministerio del Interior que define letreros y publicidad vertical, estableciendo dimensiones, permisos, seguridad y la capacidad de los gobiernos locales de formular normas de forma, color y tipografía.
+[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — El caso de estudio en inglés documenta la demolición del viaducto de la Puerta Norte de Taipéi, la actualización de letreros callejeros y el proceso de discusión conjunta entre residentes, comerciantes y diseñadores.
 
-[^5]: [The City at Eye Level: Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Caso en inglés que explica la competencia de letreros en distritos mixtos de residencia y comercio de Taiwán, las normas de letreros de 1996 en Taipéi y la renovación participativa comunitaria de la Puerta Norte.
+[^3]: [Gobierno de la Ciudad de Nuevo Taipéi, Departamento de Desarrollo Urbano y Rural: Anuncio de cambio del plan detallado de la zona especial de la comunidad de la Universidad de Taipéi](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — El Gobierno de la Ciudad de Nuevo Taipéi anuncia la segunda revisión integral del plan detallado de la Zona Especial de la Universidad de Taipéi, efectiva a partir del 29 de febrero de 2024.
 
-[^6]: [Ministerio de Educación de Taiwán: La renovación estética de los campus de Taiwán brilla en el escenario global](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Página en inglés del Ministerio de Educación que introduce cómo el proyecto de diseño escolar ha mejorado los entornos de aprendizaje mediante el pensamiento de diseño desde 2019, registrando premios internacionales y atención mediática.
+[^4]: [Ministerio del Interior: Reglamento de gestión de anuncios en letreros y anuncios independientes](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — La página de regulaciones del Ministerio del Interior define letreros y anuncios independientes, estableciendo dimensiones, permisos, seguridad y la facultad de los gobiernos locales para establecer normas de forma, color y tipografía.
 
-[^7]: [Ministerio de Educación: Plan a medio y largo plazo de la educación estética, tercera etapa, plan quinquenal](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Documento de política del Ministerio de Educación que explica el presupuesto, objetivos, áreas de promoción y dirección de práctica local de la educación estética de 2024 a 2028.
+[^5]: [The City at Eye Level: Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — El caso en inglés explica la competencia de letreros en barrios mixtos residenciales-comerciales de Taiwán, la normativa de letreros de Taipéi de 1996 y la transformación participativa de la comunidad de la Puerta Norte.
 
-[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Página del archivo de Wikimedia Commons que registra la imagen de la bandera de la ciudad de Taoyuan, marcada como Dominio público / Exento de PD-ROC, adecuada para incrustar con URL en caliente.
+[^6]: [Taiwan Ministry of Education: Taiwan's Campus Aesthetic Revamp Shines on the Global Stage](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — La página en inglés del Ministerio de Educación presenta el plan de diseño de campus que desde 2019 utiliza el pensamiento de diseño para mejorar los entornos de aprendizaje, y registra premios internacionales y atención mediática.
 
-[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Página del archivo de Wikimedia Commons que registra la imagen de la bandera del condado de Yilan, marcada como Dominio público / Exento de PD-ROC, adecuada para incrustar con URL en caliente.
+[^7]: [Ministerio de Educación: Tercer plan quinquenal del programa a mediano y largo plazo de educación estética](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — El documento de política del Ministerio de Educación detalla el presupuesto, objetivos, ámbitos de impulso y direcciones de implementación local de la educación estética para 2024-2028.
 
-[^10]: [Taiwan.md: Distrito Beida: Treinta años de planificación urbana y experimentos de vida en una ciudad universitaria](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Artículo existente completo de Taiwan.md que aborda en detalle la historia, planificación urbana, calle Xueqin, arquitectura, población, transporte, gentrificación y justicia territorial del Distrito Beida.
+[^8]: [Wikimedia Commons: Bandera de la ciudad de Taoyuan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — La página de archivo de Wikimedia Commons registra la imagen de la bandera de la ciudad de Taoyuan, marcada como dominio público/PD-ROC-exempt, adecuada para incrustar mediante enlace directo.
 
-[^11]: [YouTube: Hablemos sobre esas cosas de la estética](https://www.youtube.com/watch?v=m_NTelUFF8I) — Video de Landon que discute la formación de la "estética de la República de China" a través del paisaje urbano de Taiwán, letreros, rejas de hierro, adiciones en azoteas y visualidad pública.
+[^9]: [Wikimedia Commons: Bandera del condado de Yilan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — La página de archivo de Wikimedia Commons registra la imagen de la bandera del condado de Yilan, marcada como dominio público/PD-ROC-exempt, adecuada para incrustar mediante enlace directo.
 
-[^12]: [YouTube: La estética de Huaguo y su lugar de fracaso](https://www.youtube.com/watch?v=0ltZtVaHV84) — Video de 甲YEET's Noodle Shop que discute el contexto crítico de la "estética de Huaguo" desde la arquitectura, color, letreros y mantenimiento.
+[^10]: [Taiwan.md: Zona Especial de la Universidad de Taipéi: Treinta años de planificación urbana y experimento de vida en ciudad universitaria](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — La entrada existente de Taiwan.md aborda exhaustivamente la historia, planificación urbana, calle Xueqin, arquitectura, población, transporte, gentrificación y justicia territorial de la Zona Especial de la Universidad de Taipéi.
 
-[^13]: [YouTube: Imágenes veraces: Carteles comerciales de la era japonesa](https://www.youtube.com/watch?v=fMR-z-lcols) — Video de Sato荣 Shashinkan que complementa la prehistoria de la cultura visual de Taiwán con carteles comerciales de la era japonesa, anuncios de licor y paisajes urbanos históricos.
+[^11]: [YouTube: Hablemos sobre esas cosas de la estética](https://www.youtube.com/watch?v=m_NTelUFF8I) — El video de Landon discute la formación de la 'estética de la República de China' a través de paisajes callejeros taiwaneses, letreros, ventanas de hierro, construcciones en azoteas y visuales públicos.
 
-[^14]: [YouTube: Observaciones callejeras del viaje a Osaka, Episodio 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Video de Landon que compara los letreros, tipografía, color, orden callejero de Osaka y Taiwán, y la renovación de diseño del Mercado Yongle en Tainan.
+[^12]: [YouTube: La estética huaguo y sus fracasos](https://www.youtube.com/watch?v=0ltZtVaHV84) — El video de Jia YEET's Instant Noodle Shop discute el contexto crítico de la 'estética huaguo' desde la arquitectura, el color, los letreros y el mantenimiento.
 
-[^15]: [YouTube: ¿Qué problemas tiene la estética del sector público en Taiwán?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Video de Freedom Chasing News que discute la calidad de la visualidad pública a través de videos de propaganda del sector público, licitaciones, división profesional del trabajo y educación estética.
+[^13]: [YouTube: Con imágenes y verdad: Carteles comerciales de la era japonesa](https://www.youtube.com/watch?v=fMR-z-lcols) — El video del Estudio Fotográfico Zuorong complementa la prehistoria de la cultura visual taiwanesa con carteles comerciales de la era japonesa, anuncios de alcohol y paisajes callejeros históricos.
 
-[^16]: [YouTube: ¿Por qué el paisaje urbano de Taiwán es tan feo? El origen de la estética de la República de China](https://www.youtube.com/watch?v=CA-EpOj72d4) — Video de cheap que propone el marco crítico de la "estética de la República de China" desde el paisaje urbano, construcciones ilegales, instalaciones públicas, regulaciones y mentalidad histórica.
+[^14]: [YouTube: Observación callejera del viaje a Osaka, segundo episodio](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — El video de Landon compara letreros, tipografía, colores, orden callejero de Osaka y Taiwán, y la renovación de diseño del mercado Yongle de Tainan.
 
-[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Página del archivo de Wikimedia Commons que registra la foto de letreros chinos en la esquina de Taipéi, marcada como CC0 / Dominio público, usable con URL directa en caliente para incrustar.
+[^15]: [YouTube: ¿Qué problemas tiene la estética del sector público taiwanés?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — El video de Liberty Times News discute la calidad visual pública a través de videos promocionales del sector público, licitaciones, división profesional del trabajo y educación estética.
 
-![Letreros chinos en la esquina de Taipéi](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
+[^16]: [YouTube: ¿Por qué los paisajes callejeros de Taiwán son tan feos? El origen de la estética de la República de China](https://www.youtube.com/watch?v=CA-EpOj72d4) — El video de cheap propone un marco de comentario sobre la 'estética de la República de China' a partir de paisajes callejeros, construcciones ilegales, instalaciones públicas, regulaciones y mentalidad histórica.
 
-_Imagen: Letreros chinos en la esquina de Taipéi, Wikimedia Commons, CC0 / Dominio público. Página del archivo: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Aquí solo se incrusta la URL en caliente, sin descargar la imagen._
+[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — La página de archivo de Wikimedia Commons registra la foto de letreros chinos en calles de Taipéi, marcada como CC0/Dominio público, usable para incrustar mediante enlace directo.

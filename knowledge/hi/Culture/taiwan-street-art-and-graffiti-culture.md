@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:53+08:00'
+translatedAt: '2026-11-02T01:43:03.405063+00:00'
 ---
 
 # ताइवान की स्ट्रीट आर्ट और ग्रैफिटी संस्कृति
@@ -85,5 +85,5 @@ translatedAt: '2026-10-15T15:59:53+08:00'
 
 ## आगे पढ़ें
 
-- [ताइवान समकालीन कला](/culture/台灣當代藝術) — ताइवान की स्ट्रीट आर्ट और समकालीन कला पारिस्थितिकी तंत्र का संगम
-- [ताइवान इलेक्ट्रॉनिक संगीत और पार्टी संस्कृति](/hi/music/taiwan-electronic-music-and-party-culture) — स्ट्रीट आर्ट के साथ साझा उपसंस्कृति जड़ों वाला इलेक्ट्रॉनिक संगीत परिदृश्य
+- [ताइवान समकालीन कला](/hi/art/contemporary-art) — ताइवान की स्ट्रीट आर्ट और समकालीन कला पारिस्थितिकी तंत्र का संगम
+- [ताइवान इलेक्ट्रॉनिक संगीत और पार्टी संस्कृति](/hi/music/taiwan-electronic-music-and-party-culture) — इलेक्ट्रॉनिक संगीत परिदृश्य, जिसकी उपसंस्कृति की जड़ें स्ट्रीट आर्ट के समान हैं

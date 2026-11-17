@@ -21,11 +21,11 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 11
-translatedFrom: Art/台灣漫畫.md
-sourceCommitSha: 85926aa3b
-sourceContentHash: sha256:5275019358614716
-sourceBodyHash: sha256:dd1128570e96c06e
-translatedAt: 2026-05-24T05:06:33+08:00
+translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
+sourceBodyHash: 'sha256:dd1128570e96c06e'
+translatedAt: '2026-11-02T16:07:27.494730+00:00'
 ---
 
 # El cómic taiwanés
@@ -113,11 +113,11 @@ La estética oriental de Cheng Wen, los cómics filosóficos de Chi Chih-chung, 
 
 El renacimiento del cómic taiwanés es simultáneamente un asunto industrial y una cuestión de identidad cultural. Cuando los dibujantes taiwaneses comienzan a retratar las historias de Taiwán con su propio trazo, cuando los lectores comienzan a identificarse con las obras locales, lo que vemos es la reconstrucción de la confianza cultural. Esta confianza pertenece a una autoconciencia cultural abierta: apreciar las virtudes de la cultura externa al mismo tiempo que se valoran las características de la propia cultura.
 
-## Lectura complementaria
+## Lectura adicional
 
-- [Cultura del anime y manga taiwanés](/es/culture/taiwan-anime-culture) — La cultura de consumo de anime y manga desde la perspectiva del lector: cosplay, doujinshi, convenciones de anime, memoria generacional
-- [Cine taiwanés](/es/art/taiwanese-cinema) — Otro eje de la narrativa visual taiwanesa
-- [Desarrollo de la literatura contemporánea taiwanesa](/art/台灣當代文學發展) — La capa escrita de la evolución de la autoconciencia creativa taiwanesa
+- [Cultura del anime y manga en Taiwán](/es/culture/taiwan-anime-culture) — La cultura de consumo desde la perspectiva del lector: cosplay, fanzines (_doujinshi_), exposiciones de anime y recuerdos generacionales.
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Otra línea narrativa de la visualidad en Taiwán.
+- [Desarrollo de la literatura contemporánea de Taiwán](/es/art/contemporary-taiwanese-literature) — La capa textual de la evolución de la autoconciencia creativa en Taiwán.
 
 ## Referencias
 

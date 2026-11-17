@@ -2,9 +2,7 @@
 title: 'Explosion de poussière de Ba Xian : cette nuit-là, la fête colorée qui brûla une cicatrice dans Taïwan'
 description: "Le 27 juin 2015, la Color Party du parc aquatique Formosa Fun Coast provoqua un accident d'explosion de poussière qui stupéfia le monde, à la suite de l'embrasement éclair de poudres en suspension. Cet événement, le plus grave accident collectif de l'histoire de Taïwan après le séisme du 21 septembre 1999, fit 499 brûlés et 15 morts, transforma en profondeur le système taïwanais de médecine d'urgence et accéléra la réforme des règles de sécurité applicables aux grands rassemblements."
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'Explosion de poussière de Ba Xian',
@@ -13,15 +11,19 @@ tags:
     'responsabilité juridique',
     'histoire de Taïwan',
   ]
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T06:04:12.587155+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :** Le 27 juin 2015 à 20 h 32, sur le site de la « Color Party » du parc Formosa Fun Coast, à Bali, dans le Nouveau Taipei, de la poudre d'amidon de maïs s'embrasa brutalement et transforma instantanément les lieux en mer de feu. L'accident fit 499 brûlés et 15 morts : il s'agit de l'accident de sécurité publique isolé le plus meurtrier qu'ait connu Taïwan depuis le séisme du 21 septembre 1999. Face à un afflux massif de grands brûlés, les soignants taïwanais mobilisèrent « toutes les forces du pays » et réalisèrent un « miracle médical » : un taux de mortalité limité à 3 %. Pourtant, dix ans plus tard, les procédures judiciaires se poursuivent encore ; pour les blessés, le long chemin de la rééducation et de la vie avec les cicatrices demeure ardu, et Formosa Fun Coast est depuis lors à l'abandon. Cette cicatrice continue, aujourd'hui encore, de rappeler profondément à la société taïwanaise l'importance de la sécurité publique.

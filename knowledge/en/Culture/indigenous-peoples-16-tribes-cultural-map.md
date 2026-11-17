@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-09-28T02:52:33+08:00'
+translatedAt: '2026-11-05T08:00:12.107209+00:00'
 ---
 
 # Taiwan's 16 Indigenous Peoples: A Cultural Map

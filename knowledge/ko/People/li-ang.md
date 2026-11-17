@@ -2,19 +2,21 @@
 title: '이앙: 루강 1952, <살부>로 타이완 여성주의 문학의 개척자'
 description: '1952년 장화 루강 출생, 본명 시서단. 1983년 <살부>가 연합보에 연재되며 가정폭력 소재로 타이완 문단을 충격에 빠뜨림. 1991년 <미원>. 2004년 프랑스 예술문학훈장 기사 작위 수훈. 작품이 영어, 프랑스어, 독일어, 일본어 등 다국어로 번역되어 타이완에서 가장 국제적 주목을 받는 여성 작가 중 한 명.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學'
 tags: ['문학', '여성주의 문학', '살부', '미원', '루강', '젠더 이슈']
-readingTime: 7
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: People/李昂.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:047f29e16ec14ac9
-sourceBodyHash: sha256:0a0f9bd1ab3db88b
-translatedAt: 2026-05-24T05:06:32+08:00
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/李昂.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:047f29e16ec14ac9'
+sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
+translatedAt: '2026-11-04T20:42:15.534064+00:00'
 ---
 
 # 이앙: 루강 1952, <살부>로 타이완 여성주의 문학의 개척자

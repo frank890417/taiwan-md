@@ -11,20 +11,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-11T07:27:12+08:00'
+translatedAt: '2026-11-05T19:24:45.836011+00:00'
 ---
 
-> **Resumen en 30 segundos:** La ceremonia del mijo de los Bunun no es una festividad que aparece solo después de la cosecha, sino que está organizada según el ciclo de crecimiento del mijo: siembra, deshierbe, cosecha, almacenamiento y canto. La siembra de mijo se vio interrumpida debido a la gestión territorial, el cambio de cultivos y cambios religiosos. La revitalización actual reconecta el cultivo, las familias y la memoria desde las semillas, las escuelas y los campos de la aldea.
+**Resumen en 30 segundos:** Los rituales del mijo del pueblo Bunun no son una fiesta que aparece solo tras la cosecha, sino que se organizan siguiendo el ciclo de crecimiento del mijo: siembra, deshierbe, cosecha, almacenamiento y canto. El cultivo del mijo se interrumpió debido a la gestión de la tierra, el cambio de cultivos y la transformación religiosa. Hoy, su revitalización vuelve a conectar el cultivo, las familias y la memoria a partir de las semillas, las escuelas y los campos comunales.
 
-En el Bosque Experimental de Xinyi, en Nantou, había un pequeño campo de mijo cubierto con mallas contra los pájaros. En 2022, se plantaron allí 28 variedades locales de Nantou traídas desde el Centro de Recursos Genéticos de Estados Unidos. No se trataba de una simple prueba agrícola, sino de la puerta de entrada para que los jóvenes y los ancianos de los Bunun volvieran a hablar del mijo. [^1]
+En el bosque experimental del municipio de Hsinyi, en Nantou, hubo una pequeña parcela de mijo protegida con redes antipájaros. En 2022, se sembraron allí 28 variedades locales de Nantou traídas de vuelta a Taiwán desde el centro de recursos genéticos de EE. UU. No fue un simple ensayo agrícola, sino la puerta de entrada para que los jóvenes y los mayores Bunun volvieran a hablar del mijo.[^1]
 
-La misma planta tiene en la vida de los Bunun más de nueve nombres correspondientes a diferentes etapas de su crecimiento. Es tanto alimento como coordenada de riqueza familiar, relaciones sociales y orden ceremonial. [^2] Lo contraintuitivo es que la interrupción de la cultura del mijo no fue solo la pérdida de un grano, sino también la pérdida de un punto de apoyo para un modo de vida que usaba el cultivo para marcar el tiempo.
+Una misma planta tiene, en la vida Bunun, más de nueve nombres que corresponden a distintas etapas de crecimiento. Es alimento, pero también el eje de la riqueza familiar, las relaciones sociales y el orden ritual.[^2] Lo contraintuitivo es que la interrupción de la cultura del mijo no solo supuso la pérdida de un grano, sino que hizo que un modo de vida que usaba el cultivo para marcar el tiempo perdiera su punto de anclaje.
 
-Hoy, quienes están rescatando el cultivo del mijo no solo buscan recuperar un cultivo antiguo. Están preguntando: si la ceremonia seguía originalmente el crecimiento del mijo, cuando el mijo deja de cultivarse, ¿pueden los miembros de la etnia recuperar ese tiempo solo con las canciones en el escenario?
+Hoy, quienes retoman el cultivo del mijo no solo buscan recuperar un cultivo ancestral. Se preguntan: si los rituales seguían originalmente el crecimiento del mijo, cuando ya no se siembra mijo, ¿podrá la gente volver a cantar ese tiempo valiéndose solo de las canciones en el escenario?
 
 ## El año no comienza con el calendario
 
@@ -146,20 +148,20 @@ Por eso, entender esta ceremonia no debe preguntar solo «cuánto queda de ella 
 
 ## Referencias
 
-[^1]: [Universidad Nacional de Taiwán: La NTU y la Tribu Bunun se unen para Revivir el Mijo](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — El boletín en inglés de la NTU registra el contexto de los recursos genéticos locales de 1977, su reintroducción en Taiwán en 2011 y la colaboración de 2022 con la aldea de Xinyi para la restauración.
+[^1]: [Universidad Nacional de Taiwán: NTU y la tribu Bunun unen fuerzas para revivir el mijo](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — El boletín en inglés de la NTU registra el contexto de las semillas locales de mijo en 1977, su reintroducción en Taiwán en 2011 y la colaboración de 2022 con la tribu Xinyi para su restauración.
 
-[^2]: [Hsu Ya-hui: Investigación de la Ecología Cultural del Mijo de los Bukan — Tomando la Aldea de Wangxiang, Condado de Nantou, como Ejemplo](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — El resumen de la tesis doctoral analiza, mediante ecología cultural e investigación de campo, los nombres del mijo de los Bukan, sus métodos de cultivo y su significado social y espiritual.
+[^2]: [Xu Yahui: Estudio de ecología cultural del mijo del pueblo Bunun —el caso de la tribu Wangxiang en el condado de Nantou](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — El resumen de la tesis analiza, mediante ecología cultural y trabajo de campo, los nombres, métodos de cultivo y el significado social y espiritual del mijo entre los Bunun.
 
-[^3]: [Archivo de Memoria Cultural Nacional: Pabellón Haiduan - 2021 Comida Ritual X Temporada - Texto de curaduría de la Exposición Especial de Industria Cultural de los Bukan del Condado de Haiduan - Ceremonia de Siembra](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Texto de curaduría de la ceremonia de siembra de los Bukan de Haiduan, registrando逐项 (paso a paso) las peticiones de bendición, siembra de prueba, expulsión de demonios, bendición de herramientas agrícolas, canciones ceremoniales y flujo de siembra.
+[^3]: [Banco Nacional de Memoria Cultural: Pabellón Haiduan - 2021 Festival de Alimentos X Estaciones - Texto curatorial de la exposición especial de la industria cultural Bunun del municipio de Haiduan - Festival de Siembra](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — El texto curatorial del festival de siembra Bunun del municipio de Haiduan registra detalladamente la bendición, la siembra de prueba, la expulsión de espíritus malignos, la bendición de herramientas agrícolas, las canciones rituales y el proceso de siembra.
 
-[^4]: [Archivo de Conocimientos Culturales de los Bukan del Condado de Yening: Hu Qin-fu — Mi Conocimiento de la Cultura del Mijo](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Datos en primera persona del transmisor cultural de los Bukan, explicando el flujo ceremonial, los tabúes de los sueños, la división familiar, el trabajo mutuo y las variedades de mijo.
+[^4]: [Repositorio de Conocimiento Cultural Bunun del municipio de Yanping: Hu Qinfu — Mi entendimiento de la cultura del mijo](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Datos en primera persona de un transmitidor de la cultura Bunun, que explican la secuencia ritual, los tabúes oníricos, la división del trabajo familiar, el intercambio de labor y las variedades de mijo.
 
-[^5]: [Red de Patrimonio Cultural Nacional: El canto _pasibutbut_ de los Bukan para pedir una buena cosecha de mijo](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Página de registro de patrimonio cultural con datos del canto polifónico tradicional de los Bukan, proporcionando el nombre de la canción, las comunidades de transmisión y el contexto de preservación histórica.
+[^5]: [Red Nacional de Patrimonio Cultural: Pasibutbut del pueblo Bunun, canción de oración por la cosecha de mijo](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — La página de registro del patrimonio cultural ofrece datos sobre la canción polifónica tradicional Bunun, incluyendo el título, las comunidades de transmisión y el contexto de preservación histórica.
 
-[^6]: [Bureau de Cultura del Condado de Hualien: Música de los Bukan _pasibutbut_ (Canto de la Buena Cosecha de Mijo)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Datos de patrimonio cultural del condado de Hualien explicando el estilo de liderazgo y armonía de la aldea de Gufeng, las comunidades de transmisión y el trabajo de revitalización desde la década de 1980.
+[^6]: [Oficina de Cultura del Condado de Hualien: Música Bunun pasibutbut (canción de la cosecha de mijo)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Los datos del patrimonio cultural del condado de Hualien explican el estilo de canto principal y armonía de la tribu de estilo antiguo, las comunidades de transmisión y los esfuerzos de revitalización desde la década de 1980.
 
-[^7]: [Ministerio de Cultura: El pueblo de los Bukan de Taiwán es invitado a actuar en París](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Artículo en inglés del Ministerio de Cultura registrando la actuación en París de 2022, el significado ceremonial del _pasibutbut_, el coro de seis a doce personas y los registros de grabación de Takahashi Kurosawa.
+[^7]: [Ministerio de Cultura: El pueblo Bunun de Taiwán invitado a actuar en París](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — El artículo en inglés del Ministerio de Cultura registra la actuación de 2022 en París, el significado ritual del pasibutbut, el coro de seis a doce personas y el registro de grabación de Takashi Kurosawa.
 
-[^8]: [Taiwan Panorama: Renacimiento de la Cultura del Mijo de los Bukan — Cultivando Variedades Nativas Bajo el Programa de Jardines](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Informe en profundidad en inglés de 2023, rastreando la revitalización del mijo en Xinyi, el currículo de la Escuela Primaria Jiumei, la reanudación de las ceremonias y la participación de los que regresaron al Programa de Jardines.
+[^8]: [Taiwan Panorama: Renacimiento de la cultura del mijo Bunun — Cultivo de variedades nativas bajo el Programa Garden](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Reportaje en profundidad en inglés de 2023 que sigue la revitalización del mijo en el municipio de Xinyi, el currículo de la Escuela Primaria Jiumei, la restauración ritual y los participantes que regresan a su tierra natal bajo el Programa Garden.
 
-[^9]: [Universidad Nacional de Taitung: El Sonido Original de los Bukan de Zhuoxi y la Imaginación Contemporánea](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Datos de actividades universitarias explicando el significado de identidad étnica del _pasibutbut_ y la reinterpretación de la música tradicional de los Bukan de Zhuoxi en las representaciones contemporáneas.
+[^9]: [Universidad Nacional de Taitung: Reproducción de los sonidos originales y reimaginación contemporánea de los Bunun de Zhuoxi](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Los materiales de la actividad universitaria explican el significado del pasibutbut para la identidad étnica y la reinterpretación de la música tradicional de los Bunun de Zhuoxi en las presentaciones contemporáneas.

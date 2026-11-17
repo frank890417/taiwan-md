@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-08-01T23:08:40+08:00'
+translatedAt: '2026-11-04T17:23:51.930907+00:00'
 ---
 
 # تطور مئة عام من الرسم المائي في تايوان

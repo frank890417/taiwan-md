@@ -2,9 +2,7 @@
 title: '邵友濂：劉銘伝の光の後にいた守成者と、台北省会を真に定着させた人物'
 description: '彼は歴史に「新政を終わらせた」罪人として記されるべき人物なのでしょうか。それとも、清代台湾で最も現実的な財政の番人だったのでしょうか。劉銘伝の大規模建設の後を受け、邵友濂は極度に逼迫した財政のなかで台北から新竹までの鉄道を完成させ、台湾の省会を正式に台北へ定着させました。そして後世に、守成とは退歩なのか、それとも現実により即した別種の統治なのかという、解きにくい問いを残しました。'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     '清朝統治期',
@@ -16,15 +14,19 @@ tags:
     'イリ条約',
     '李鴻章',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:20:26.860686+00:00'
 ---
 
 > **30秒で読む概要：** 1891年、初代台湾巡撫の劉銘伝（りゅう・めいでん／リウ・ミンチュアン）は病のため職を退き、近代化の夢に満ちていながら財政赤字を抱えた台湾を残しました。後任の邵友濂（しょう・ゆうれん／シャオ・ヨウリエン）は、しばしば「新政をすべて廃した」保守派として描かれます。しかし実際には、福建からの協餉が途絶えるという限界状況のなかで、台北（タイペイ）から新竹（シンチュー）までの鉄道運営を実現し、1894年には省会を正式に台北へ移しました。『イリ条約』交渉に参加し、李鴻章（りこうしょう）家と姻戚関係をもつ外交官でもあったこの人物は、現実主義的な官僚手腕によって、台湾の政治・経済の重心にその後百年の基調を定めました。
@@ -79,44 +81,44 @@ translatedAt: '2026-06-17T00:36:20+08:00'
 
 ### 参考資料
 
-[^1]: 連横『台湾通史・度支志』、[台湾銀行経済研究室編](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711)。
+[^1]: [台湾銀行経済研究室編](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — 連横『台湾通史・度支志』、。
 
-[^2]: 謝紀康「邵友濂對臺灣防務探討（1891 年－1894 年） －以洋務建設等為例」『南開學報』、[第8巻第2号、2011年](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf)。
+[^2]: [第8巻第2号、2011年](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — 謝紀康「邵友濂對臺灣防務探討（1891 年－1894 年） －以洋務建設等為例」『南開學報』、。
 
-[^3]: 許雪姫「邵友濂與自強新政」、『清季自強運動研討會論文』所収、[中央研究院近代史研究所](https://www.mh.sinica.edu.tw/Default.aspx)。
+[^3]: [中央研究院近代史研究所](https://www.mh.sinica.edu.tw/Default.aspx) — 許雪姫「邵友濂與自強新政」、『清季自強運動研討會論文』所収、。
 
-[^4]: 国家図書館『臺灣記憶』システム、[「邵友濂」項目](https://tm.ncl.edu.tw/)。
+[^4]: [「邵友濂」項目](https://tm.ncl.edu.tw/) — 国家図書館『臺灣記憶』システム、。
 
-[^5]: 郭廷以『臺灣史事概說』、[正中書局、1984年](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ)。
+[^5]: [正中書局、1984年](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — 郭廷以『臺灣史事概說』、。
 
-[^6]: 全知識「台北府」、[歴史文献資料より引用](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735)。
+[^6]: [歴史文献資料より引用](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — 全知識「台北府」、。
 
-[^7]: 翰林雲端学院「國中歷史：邵友濂」、[キーワード学習](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html)。
+[^7]: [キーワード学習](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — 翰林雲端学院「國中歷史：邵友濂」、。
 
-[^8]: 楊鵬飛「談清代台灣火車站」『観察雑誌』、[第22号、2015年6月](http://www.observer-taipei.com/article.php?id=712)。
+[^8]: [第22号、2015年6月](http://www.observer-taipei.com/article.php?id=712) — 楊鵬飛「談清代台灣火車站」『観察雑誌』、。
 
-[^9]: 清季台湾洋務史料「台灣巡撫邵友濂奏報台灣鐵路俟至新竹暫作停頓片」、[光緒18年](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99)。
+[^9]: [光緒18年](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — 清季台湾洋務史料「台灣巡撫邵友濂奏報台灣鐵路俟至新竹暫作停頓片」、。
 
-[^10]: 渡部慶之進『臺灣鐵道讀本』、黄得峰訳、[国史館台湾文献館](https://www.th.gov.tw/)。
+[^10]: [国史館台湾文献館](https://www.th.gov.tw/) — 渡部慶之進『臺灣鐵道讀本』、黄得峰訳、。
 
-[^11]: 汪毅夫「末任台灣巡撫」『China Daily』、[2023年2月2日](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html)。
+[^11]: [2023年2月2日](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — 汪毅夫「末任台灣巡撫」『China Daily』、。
 
-[^12]: ウィキペディア、[「邵友濂」項目](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82)。
+[^12]: [「邵友濂」項目](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — ウィキペディア、。（詳細はリンク先の原文を参照）
 
-[^13]: ウィキペディア、[「邵燦」項目](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF)。
+[^13]: [「邵燦」項目](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — ウィキペディア、。（詳細はリンク先の原文を参照）
 
-[^14]: 梅璽閣之幸福生活、[「夢斷斜橋——斜橋邵府五代傳奇」](https://www.yuleshow.com/?p=448)。
+[^14]: [「夢斷斜橋——斜橋邵府五代傳奇」](https://www.yuleshow.com/?p=448) — 梅璽閣之幸福生活、。
 
-[^15]: 故宮博物院、[「邵洵美」人物紹介](https://www.dpm.org.cn/lemmas/241167.html)。
+[^15]: [「邵洵美」人物紹介](https://www.dpm.org.cn/lemmas/241167.html) — 故宮博物院、。（詳細はリンク先の原文を参照）
 
-[^16]: ウィキペディア、[「伊犁條約」項目](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84)。
+[^16]: [「伊犁條約」項目](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — ウィキペディア、。（詳細はリンク先の原文を参照）
 
-[^17]: 李揚帆「曾紀澤：始信昆崙別有山」、『世界知識』所収、[2006年](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf)。
+[^17]: [2006年](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — 李揚帆「曾紀澤：始信昆崙別有山」、『世界知識』所収、。
 
-[^18]: 台北市文化局、[「台北城與邵友濂」](https://culture.gov.taipei/)。
+[^18]: [「台北城與邵友濂」](https://culture.gov.taipei/) — 台北市文化局、。（詳細はリンク先の原文を参照）
 
-[^19]: ウィキペディア、[「台北機器局」項目](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80)。
+[^19]: [「台北機器局」項目](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — ウィキペディア、。（詳細はリンク先の原文を参照）
 
-[^20]: 招商局資料庫、[「廣島會談與全權不足」](http://1872.cmhk.com/ziliaoku/5110.html)。
+[^20]: [「廣島會談與全權不足」](http://1872.cmhk.com/ziliaoku/5110.html) — 招商局資料庫、。（詳細はリンク先の原文を参照）
 
-[^21]: 騰訊新聞、[「廣島拒使——甲午戰雲下天朝幻夢的真正破碎」](https://view.inews.qq.com/k/20260508A01P7U00)。
+[^21]: [「廣島拒使——甲午戰雲下天朝幻夢的真正破碎」](https://view.inews.qq.com/k/20260508A01P7U00) — 詳細はリンク先の原文を参照。

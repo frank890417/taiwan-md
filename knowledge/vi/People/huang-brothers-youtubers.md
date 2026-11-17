@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-04T21:05:30.224570+00:00'
 ---
 
 > **Tổng quan 30 giây:**
@@ -82,28 +84,28 @@ Trong xã hội đầy nhãn mác như Đài Loan, anh em họ Hoàng đã dùng
 
 ## Tài liệu tham khảo
 
-[^1]: [Phỏng vấn YouTuber anh em họ Hoàng: Hành trình sáng tạo cùng khán giả](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (Tham khảo bổ sung tài liệu trong liên kết gốc)
+[^1]: [Phỏng vấn YouTuber Hoàng Thị Huynh đệ: Hành trình sáng tạo cùng sự trưởng thành của khán giả](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (Xem thêm thông tin bổ sung trong liên kết gốc)
 
-[^2]: [Không nghỉ 20 tháng! Anh em họ Hoàng hồi tưởng lại lịch sử gian khổ của việc sáng tạo](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [Suốt 20 tháng không một ngày nghỉ! Hoàng Thị Huynh đệ hồi tưởng về những gian truân trong sáng tạo](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【Anh em làm từ thiện】Trọn ngày thuê trường tiểu học vùng nông thôn](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Kênh YouTube anh em họ Hoàng
+[^3]: [【Anh em làm từ thiện】 Bao trọn một ngày tại trường tiểu học vùng sâu vùng xa](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Kênh YouTube Hoàng Thị Huynh đệ
 
-[^4]: [Phải làm tốt nhất! YouTuber anh em họ Hoàng thử nghiệm nhiều phương pháp, theo đuổi sự hoàn hảo](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Đã làm là phải làm tốt nhất! YouTuber Hoàng Thị Huynh đệ thử sức nhiều lĩnh vực, theo đuổi sự hoàn mỹ](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Làm thế nào để triệu view? Phỏng vấn anh em họ Hoàng](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Làm thế nào để trở thành YouTuber triệu view? Phỏng vấn Hoàng Thị Huynh đệ](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Học khả năng thực thi từ anh em họ Hoàng | Định vị bản thân chính xác đằng sau sự bay bổng](https://premium.parenting.com.tw/article/5087793) — 親子天下 (Tham khảo bổ sung tài liệu trong liên kết gốc)
+[^6]: [Học hỏi khả năng thực thi từ Hoàng Thị Huynh đệ | Đằng sau sự bay bổng là định vị bản thân chính xác](https://premium.parenting.com.tw/article/5087793) — Parenting (Xem thêm thông tin bổ sung trong liên kết gốc)
 
-[^7]: [Vĩ Vĩ bị buộc công khai cậu tức giận: Hoàn toàn là phơi bày cưỡng bức](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo Tin tức
+[^7]: [Vĩ Vĩ bị ép công khai xu hướng tính dục, anh phẫn nộ: Đây chẳng khác nào một sự cưỡng bức công khai](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [Về vụ báo chí, tôi muốn nói với gia đình【Anh em họ Hoàng】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Video YouTube anh em họ Hoàng
+[^8]: [Về các báo cáo truyền thông, tôi muốn nói với gia đình rằng 【Hoàng Thị Huynh đệ】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Video YouTube của Hoàng Thị Huynh đệ
 
-[^9]: [Vĩ Vĩ của anh em họ Hoàng "bị công khai" Bạn không cần xin lỗi](https://newslab.pts.org.tw/news/216) — Công thị Đồ phát Tân văn
+[^9]: [Vĩ Vĩ của Hoàng Thị Huynh đệ 'bị công khai xu hướng tính dục', bạn không cần phải xin lỗi](https://newslab.pts.org.tw/news/216) — Tin tức PTS
 
-[^10]: [YouTuber 2 triệu người Vĩ Vĩ Hoàng Đình Vĩ trở thành "ca sĩ sáng tạo" với EP cá nhân đầu tay](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Đài Loan
+[^10]: [YouTuber 2 triệu người theo dõi Vĩ Vĩ - Hoàng Đĩnh Vĩ trở thành 'ca sĩ sáng tác' với EP cá nhân đầu tay](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Anh em họ Hoàng kêu gọi người dân cổ vũ trẻ em yếu thế, làm đại sứ từ thiện cho Hội Hồng Tâm Tự](https://money.udn.com/money/story/5723/8957929) — Kinh tế Nhật báo (Báo cáo của Kinh tế Nhật báo)
+[^11]: [Hoàng Thị Huynh đệ kêu gọi người dân ủng hộ học sinh yếu thế, đảm nhận vai trò Đại sứ từ thiện của Hội Hồng Tâm](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (Báo cáo bởi Economic Daily News)
 
-[^12]: [【KOL đang kinh doanh】Anh em họ Hoàng tự thú nhận đã vượt giới hạn trong nội dung tổng thể](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo Tin tức
+[^12]: [【KOL đang làm việc】 Hoàng Thị Huynh đệ tự thú từng vượt quá giới hạn khi chơi khăm người khác](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Không chỉ quay video hài, YouTuber còn phát huy ảnh hưởng và thực hiện trách nhiệm xã hội](https://csr.cw.com.tw/article/41369) — Thiên Hạ CSR
+[^13]: [Không chỉ quay video hài hước, YouTuber còn phát huy sức ảnh hưởng để thực hiện trách nhiệm xã hội](https://csr.cw.com.tw/article/41369) — 天下 CSR

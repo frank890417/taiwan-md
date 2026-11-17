@@ -1,8 +1,8 @@
 ---
 title: 'Taiwans Trinkwasser: Das hundertjährige Ingenieurswerk hinter dem Wasserhahn und die Sorge vor Dürre'
 description: '1885 bohrten Menschen in Taipeh Brunnen, filterten und desinfizierten Wasser; 2026 nehmen wir den Wasserhahn noch immer als Hintergrundgeräusch hin. Von den Wasserleitungen der japanischen Kolonialzeit über die Gründung der Taiwan Water Corporation 1974 bis zu Dürre, Wasserverlusten und Verschmutzung der Rohwasserquellen fragt dieser Artikel nach einer alltäglichen, doch nicht selbstverständlichen Sache: Wie viel öffentliche Ingenieursleistung muss ein Wassertropfen durchlaufen, damit er pünktlich erscheint, wenn man den Hahn aufdreht.'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'Trinkwasser',
@@ -11,17 +11,19 @@ tags:
     'Dürre',
     'Leitungswasser',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-11-05T00:17:01.746431+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Zwischen 1885 und 1890 gab es in Taipeh bereits Versuche einer öffentlichen Wasserversorgung mit Brunnenbohrung, Filtration und Desinfektion. Das 1907 begonnene Wasserquellenprojekt am Xindian-Fluss brachte modernes Leitungswasser in die Stadt. Nach dem Krieg stieg die landesweite Versorgungsrate von etwa 10 % auf 93,1 % im Jahr 2013, doch Wasser wurde dadurch nicht zu etwas, das „von selbst da ist“. Hinter dem heutigen Wasserhahn stehen weiterhin Wasserentnahmestellen, Wasseraufbereitungsanlagen, Zehntausende Kilometer Leitungen, überregionale Steuerung und jedes Mal bei Dürre schwierige Abwägungen.
@@ -129,26 +131,26 @@ Dieser Artikel verwendet zwei frei lizenzierte Bilder von Wikimedia Commons, bei
 - [Xindian-Wasserrohrbrücke](https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E7%AE%A1%E6%A9%8B%EF%BC%88%E6%96%B0%E5%BA%97%EF%BC%89.JPG), Urheber Ianbu. Bild-Hotlink: [Originaldatei](https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%B0%B4%E7%AE%A1%E6%A9%8B%EF%BC%88%E6%96%B0%E5%BA%97%EF%BC%89.JPG). Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - [Brücke über die Zeit](https://commons.wikimedia.org/wiki/File:%E8%B7%A8%E8%B6%8A%E6%99%82%E5%85%89%E7%9A%84%E6%B0%B4%E9%81%93%E6%A9%8B.jpg), Urheber Deepblue5042. Bild-Hotlink: [Originaldatei](https://upload.wikimedia.org/wikipedia/commons/5/59/%E8%B7%A8%E8%B6%8A%E6%99%82%E5%85%89%E7%9A%84%E6%B0%B4%E9%81%93%E6%A9%8B.jpg). Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Quellen
+## Referenzen
 
-[^1]: [Taipeh Water Department: Historische Entwicklung](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Offizielle Wasserversorgungsbehörde der Stadt Taipeh fasst den zeitlichen Ablauf von der öffentlichen Wasserversorgung 1885, der Xindian-Quelle 1907 bis zur Feitsui-Rohrleitung und jüngster Versorgungsresilienz zusammen.
+[^1]: [Taipei Water Department: Historische Entwicklung](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Die offizielle Wasserversorgungsbehörde der Stadt Taipei fasst den zeitlichen Ablauf von der öffentlichen Wasserversorgung 1885, der Wasserquelle Xindian-Fluss 1907 bis zur Feitsui-Rohwasserleitung und der jüngsten Versorgungsresilienz zusammen.
 
-[^2]: [Wasserbehörde des Wirtschaftsministeriums: Überblick über die Entwicklung der Wasserversorgung in unserem Land (Teil 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Elektronischer Bericht der Wasserbehörde erläutert Veränderungen der Nachkriegsversorgungsrate, landesweite Zusammenlegung der Wasserwerke und institutionellen Hintergrund der Gründung der Taiwan Water Corporation.
+[^2]: [Wasserressourcenagentur des Wirtschaftsministeriums: Überblick über die Entwicklung der Wasserversorgung in unserem Land (Teil 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Der elektronische Newsletter der Wasserressourcenagentur erläutert die Veränderungen der Versorgungsabdeckung nach dem Krieg, die Konsolidierung der Wasserwerke in der ganzen Provinz und den institutionellen Hintergrund der Gründung der Taiwan Water Corporation.
 
-[^3]: [Taiwan Water Corporation: Statistischer Jahresbericht der taiwanesischen Wasserversorgung](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Jährlicher Statistikzugang des staatlichen Wasserversorgungsunternehmens, listet Wasserquelle, Ausstoß, versorgte Bevölkerung, Versorgungsrate, Aufbereitungseinrichtungen und Leitungen auf.
+[^3]: [Taiwan Water Corporation: Statistischer Jahresbericht der taiwanesischen Wasserversorgung](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Der öffentlich zugängliche jährliche Statistikzugang des staatlichen Wasserversorgungsunternehmens listet Tabellen zu Wasserquellen, Wasserproduktion, versorgter Bevölkerung, Versorgungsrate, Aufbereitungsanlagen und Leitungen auf.
 
-[^4]: [Taiwan Water Corporation: Wasserressourcenmanagement der Taiwan Water Corporation](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Nachhaltigkeitsseite der Taiwan Water Corporation erläutert 141 Versorgungssysteme, 486 Aufbereitungsanlagen, Modernisierung der Aufbereitungsanlagen, Leckageverbesserung und Wasserqualitätsindikatoren.
+[^4]: [Taiwan Water Corporation: Wasserressourcenmanagement der Taiwan Water Corporation](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Die Nachhaltigkeitsseite der Taiwan Water Corporation erläutert 141 Wasserversorgungssysteme, 486 Wasseraufbereitungsanlagen, Modernisierung der Aufbereitungsanlagen, Leckageverbesserung und Wasserqualitätsmanagementindikatoren.
 
-[^5]: [Regeneriertes Wasser in Taiwan: aktueller Stand und zukünftige Perspektiven](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Englische Facharbeitレビュー zu Taiwans Regeneriertwasser-Technologie, Industriebeispielen, Dürrehintergrund und 2031er Versorgungsziel für Regeneriertes Wasser.
+[^5]: [Wiederaufbereitetes Wasser in Taiwan: aktueller Stand und zukünftige Perspektiven](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Eine englischsprachige wissenschaftliche Arbeit gibt einen Überblick über Taiwans Wiederaufbereitungstechnologie, Industriebeispiele, den Hintergrund von Dürre und Wassermangel sowie das Ziel der Wiederaufbereitungswasserversorgung für 2031.
 
-[^6]: [Unsere Insel: Wenn die hundertjährige Dürre zur Normalität wird? Unausweichliche Wasserprobleme](https://ourisland.pts.org.tw/content/9997) — PTS-Tiefebericht dokumentiert südtaiwanesische Dürre, Druckreduzierung, Regeneriertes Wasser, Untergrundwasser, Dürrebrunnen und Leckagerate im öffentlichen Politikzusammenhang.
+[^6]: [Unsere Insel: Wenn die Jahrhundertdürre zur Normalität wird? Unvermeidbare Wasserprobleme](https://ourisland.pts.org.tw/content/9997) — Ein Tiefenbericht des öffentlichen Fernsehens dokumentiert die Dürre in Südtaiwan, Druckreduzierung bei der Wasserversorgung, Wiederaufbereitetes Wasser, Untergrundwasser, Dürrebewältigungsbrunnen und den politischen Kontext der Leckagerate.
 
-[^7]: [Taiwan Science and Technology Media Center: Expertenmeinungen zu möglichen Ursachen der Stauseedürre 2021 in Taiwan und Steuerungsmechanismen](https://smctw.tw/9462/) — Versammelt Wasserbau-, Umwelt- und Kulturressourcen-Experten zur Unterscheidung von Dürre und Wassermangel, diskutiert Stauseen, Flüsse, Grundwasser, Leitungswartung und Wasserpreisteuerung.
+[^7]: [Taiwan Science Media Center: Expertenmeinungen zu möglichen Ursachen des Wassermangels in Taiwans Stauseen 2021 und Anpassungsmechanismen](https://smctw.tw/9462/) — Es wurden Experten für Wasserwirtschaft, Umwelt und kulturelle Ressourcen eingeladen, um zwischen Dürre und Wassermangel zu unterscheiden und über Stauseen, Flüsse, Grundwasser, Leitungswartung und Wasserpreisanpassung zu diskutieren.
 
-[^8]: [The Reporter: Data Reporter: Interaktive Karte deckt 10 Risikoeinzugsgebiete auf](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Untersuchung zu Entnahmestellen, Schutzgebieten und Umweltsanktionsdaten deckt Rohwasserverschmutzungsrisiken auf, zeigt Konflikt zwischen Versorgungsicherheit und Oberlauf-Landnutzungssteuerung.
+[^8]: [The Reporter: Data Reporter: Interaktive Karte deckt 10 Risikogebiete auf](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Anhand von Daten zu Wasserentnahmestellen, Schutzgebieten und Umweltstrafen wird das Risiko der Rohwasserverschmutzung untersucht und der Konflikt zwischen Wasserversorgungssicherheit und Landnutzungsmanagement im Oberlauf dargestellt.
 
-[^9]: [Taiwan Water Corporation: Botschaft des Vorsitzenden](https://www.water.gov.tw/en/Contents?nodeId=4875) — Offizielle englische Seite der Taiwan Water Corporation blickt auf 50 Jahre Unternehmensgeschichte: Versorgungsrate, Leitungsausbau, Katastrophenreaktion und Klimaresilienzstrategien.
+[^9]: [Taiwan Water Corporation: Grußwort des Vorsitzenden](https://www.water.gov.tw/en/Contents?nodeId=4875) — Die englische offizielle Seite der Taiwan Water Corporation blickt auf 50 Jahre Unternehmensgeschichte zurück: Versorgungsausweitung, Leitungsausbau, Katastrophenreaktion und Klimaresilienzstrategien.
 
-[^10]: [Wasserbehörde: Überblick über die Entwicklung der Wasserversorgung in unserem Land (Teil 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Wasserbehörde erläutert Kriegsschäden an Versorgungsystemen sowie Wiederaufbauphase mit Instandsetzung von 77 ländlichen Wasserversorgungssystemen unter US-Hilfe nach dem Krieg.
+[^10]: [Wasserressourcenagentur: Überblick über die Entwicklung der Wasserversorgung in unserem Land (Teil 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Die Wasserressourcenagentur erläutert die Schäden an den Wasserversorgungssystemen durch den Krieg sowie die Wiederaufbauphase nach dem Krieg, in der unter US-Hilfe 77 ländliche Wasserversorgungssysteme repariert wurden.
 
-[^11]: [Wasserbehörde: Januar 1952 – Gründung des Ingenieurkorps im Bauamt der Provinzregierung und Entwicklung der taiwanesischen Wasserversorgung](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Wasserbehörde fasst 1946 bis 1974: Einrichtungssanierung, ländliche Wasserversorgungssubventionen, Ingenieurkorps, Amt für öffentliche Arbeiten und Integration der 128 Wasserwerke zusammen.
+[^11]: [Wasserressourcenagentur: Januar 1952 – Gründung des Ingenieurkorps des Bauamts der Provinzregierung und Entwicklung der taiwanesischen Wasserversorgung](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Die Wasserressourcenagentur fasst die Jahre 1946 bis 1974 zusammen: Gerätewartung, Subventionen für ländliche Wasserversorgung, Ingenieurkorps, Öffentliches Bauamt und Integration von 128 Wasserwerken.

@@ -2,6 +2,7 @@
 title: "Chang Chih-chi : de SimpleInfo à shasha77, un « curateur d'informations » en quête de dialogue à l'ère de la polarisation"
 description: "Designer d'informations connu pour sa chaîne « shasha77 », mise à jour quotidiennement depuis sept ans et forte de 1,65 million d'abonnés, il traduit les enjeux sociaux complexes en synthèses accessibles. À l'ère de la polarisation, il explore sans relâche les possibilités de dialogue au sein de la société taïwanaise."
 date: 2026-04-20
+category: 'People'
 tags:
   [
     'Chang Chih-chi',
@@ -10,18 +11,17 @@ tags:
     'YouTuber',
     'enjeux sociaux',
   ]
-category: 'People'
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 10
 lastVerified: 2026-04-20
 lastHumanReview: true
-translatedFrom: People/張志祺.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+readingTime: 10
+translatedFrom: 'People/張志祺.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: 2026-05-01T20:54:17+08:00
+translatedAt: '2026-11-02T00:49:08.931165+00:00'
 ---
 
 > **En 30 secondes :** Chang Chih-chi est l'un des YouTuber d'actualité les plus influents de Taïwan. Sa chaîne « shasha77 » se distingue par sa mise à jour quotidienne et son style de synthèses présentant plusieurs points de parti. Issu du design d'informations, il tente, par la « traduction », de rendre les sujets sérieux accessibles au grand public et de maintenir un espace de dialogue dans une société polarisée. Cet article examine comment il a fait de la transformation sociale une activité viable, ainsi que sa manière de cultiver confiance et influence dans un environnement complexe.
@@ -66,11 +66,11 @@ Face à la vague de l'intelligence artificielle et à l'essor des vidéos courte
 
 Pour Chang Chih-chi, entreprendre et gérer une chaîne est un processus d'essais et d'erreurs constants. Il se décrit comme menant une vie simple, avec un menu fixe enregistré dans son application de commande, consacrant toute son énergie à « refaire des choses ennuyeuses mais justes ».[^1] À une époque où la polarisation semble irréversible, il ne cherche pas l'approbation de tous, mais tente d'atteindre, au sein de la société taïwanaise, cette catégorie de personnes qui « n'aiment pas discuter de manière agitée », poursuivant un marathon de la compréhension.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- **[Ray Du](/fr/people/ray-du-english-youtuber/)** : Cofondateur de l'Association taïwanaise des créateurs de contenus audiovisuels, tous deux appartiennent à la génération des YouTuber éducatifs dits « chefs de quartier ».
-- **[Pa Chiung](/fr/people/pa-chiung-political-youtuber/)** : Un autre créateur d'actualité, mais adoptant une stratégie de « satire de la propagande d'unification ».
-- **[Transition démocratique de Taïwan](/fr/history/taiwan-democratization/)** : Le contexte de l'évolution du débat public taïwanais derrière le style curatorial de « pluralité des points de vue » de Chang Chih-chi.
+- **[A-Di](/fr/people/ray-du-english-youtuber)** : cofondateur de l'Association des créateurs de médias numériques de Taïwan ; tous deux appartiennent à la génération des YouTubers de type « connaissance » de l'ère _Lǐzhǎng bó_ (le doyen du quartier).
+- **[Ba Jiong](/fr/people/pa-chiung-political-youtuber)** : une autre stratégie de média indépendant, centrée également sur le commentaire de l'actualité, mais adoptant une approche de « satire de la propagande ».
+- **[La transition démocratique à Taïwan](/fr/history/taiwan-democratization)** : le contexte de l'évolution du débat public à Taïwan derrière le style de commissariat d'exposition « présentation de points de vue multiples » de Chang Chih-chi.
 
 ---
 

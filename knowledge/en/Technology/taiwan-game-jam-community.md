@@ -1,26 +1,22 @@
 ---
-title: 'Taiwan Game Jam Community'
-description: "From Global Game Jam landing in Taiwan to KUSO GAME JAM adopting '废作' (junk-work) as philosophy — how Taiwan's Game Jam community became an incubator and testing ground for the independent game ecosystem over a decade"
+title: 'Taiwanese Game Jam Community'
+description: "From the arrival of Global Game Jam in Taiwan to KUSO GAME JAM's philosophy of embracing absurdity—how the Taiwanese Game Jam community has become an incubator and testing ground for the indie game ecosystem over the past decade."
 date: 2026-04-27
 category: 'Technology'
-tags:
-  - 'games'
-  - 'indie games'
-  - 'Game Jam'
-  - 'community'
-  - 'KUSO'
-  - 'creation'
+tags: ['Games', 'Indie Games', 'Game Jam', 'Community', 'KUSO', 'Creation']
 subcategory: '遊戲產業'
 readingTime: 8
 author: 'tppr2046'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-05-01T01:46:13+08:00'
+translatedAt: '2026-11-04T17:33:01.415639+00:00'
 ---
 
 # Taiwan Game Jam Community

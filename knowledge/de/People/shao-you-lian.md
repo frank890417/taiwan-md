@@ -20,11 +20,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-04T19:33:49.921468+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Jahr 1891 trat der erste Gouverneur von Taiwan, Liu Mingchuan, aufgrund von Krankheit zurück und hinterließ ein Taiwan mit modernen Träumen, aber fiskalischen Defiziten. Sein Nachfolger, Shao Youlian, wird oft als Konservativer beschrieben, der „alle Neuereien beendete“, doch er vollendete tatsächlich den Eisenbahnbetrieb zwischen Taipeh und Hsinchu unter extrem knappen Bedingungen, da die Subventionen aus Fujian wegfielen, und verlegte die Provinzhauptstadt 1894 offiziell nach Taipeh. Dieser Diplomat, der an den Verhandlungen des Ili-Vertrags teilnahm und dessen Schwager Li Hongzhang war, legte mit seinem pragmatischen bürokratischen Geschick den Ton für das politische und wirtschaftliche Zentrum Taiwans für die nächsten hundert Jahre fest.

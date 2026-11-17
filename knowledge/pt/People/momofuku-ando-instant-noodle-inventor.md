@@ -1,18 +1,18 @@
 ---
-title: 'Momofuku Ando (Wu Pai-fu): De Puzih, Chiayi, às Mesas do Mundo, a Lenda Global de Genes Taiwaneses e Embalagem Japonesa'
-description: 'Em 1961, Momofuku Ando pagou 23 milhões de ienes pelos direitos de patente do macarrão instantâneo de Chang Kuo-wen. Não foi apenas uma transação comercial, mas uma disputa transfronteiriça sobre o direito de definir a invenção. Este empresário nascido em Puzih, Chiayi, transformou a alma do tradicional macarrão de frango desfiado taiwanês em um alimento nacional japonês e, através do Cup Noodles, mudou radicalmente os hábitos alimentares globais. Este artigo explora profundamente seus começos empreendedores no Taiwan sob domínio japonês, suas reflexões na prisão do pós-guerra, e os emaranhados de identidade e família entre os dois países.'
+title: 'Momofuku Ando: De Puzi, Chiayi, para as mesas do mundo — Genes taiwaneses e embalagem japonesa'
+description: 'Em 1961, Momofuku Ando comprou os direitos de patente dos macarrão instantâneo de Chang Kuo-wen por 23 milhões de ienes. Isso não foi apenas uma transação comercial, mas um embate transnacional sobre quem detém o direito de definir uma invenção. Este empreendedor, originário de Puzi, em Chiayi, transformou a essência do macarrão tradicional com frango desfiado de Taiwan no alimento nacional do Japão e mudou radicalmente os hábitos alimentares globais através do cup noodle "Cup Noodles". Este artigo explora profundamente o seu início empreendedor durante o período de ocupação japonesa em Taiwan, as reflexões após sua prisão no pós-guerra e os dilemas de identidade e família entre os dois países.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Wu Pai-fu',
     'Momofuku Ando',
-    'macarrão instantâneo',
-    'história de Taiwan',
-    'cultura alimentar',
+    'Ando Momofuku',
+    'Macarrão instantâneo',
+    'História de Taiwan',
+    'Cultura alimentar',
     'Nissin Foods',
-    'cup noodles',
-    'história do pós-guerra',
+    'Cup noodles',
+    'História do pós-guerra',
     'Dadaocheng',
   ]
 subcategory: '歷史人物'
@@ -22,10 +22,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-02T00:36:15.356644+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

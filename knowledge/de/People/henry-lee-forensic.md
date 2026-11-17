@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-09-23T20:30:38+08:00'
+translatedAt: '2026-11-05T17:28:46.573952+00:00'
 ---
 
 # Li Chang-yu

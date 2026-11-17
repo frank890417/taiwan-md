@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:05+08:00'
+translatedAt: '2026-11-04T19:51:36.734026+00:00'
 ---
 
 > Les jeunes Taïwanais âgés de 25 à 35 ans traversent une expérience de survie qui n'a jamais été officiellement annoncée. Le salaire médian stagne à 38 000 NT$, tandis que le loyer d'un studio à Taipei commence à 14 000 NT$. Un seul emploi à temps plein ne suffit pas, d'où les livraisons nocturnes, les projets week-end et les montagnes de vidéos à monter en dehors des heures de bureau. Ce n'est pas une « vague du multi-emploi », c'est une stratégie de survie née de l'impasse structurelle.

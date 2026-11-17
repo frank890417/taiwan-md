@@ -2,9 +2,7 @@
 title: 'Гуань Шэнь Ди Цзюнь: как побежденный полководец стал всесильным богом Тайваня'
 description: 'Воин Трех царств Гуань Юй был разбит и обезглавлен, но на Тайване развилась уникальная в мире система веры в «Эньчжугуна» — а в самом загруженном храме Гуаньди на острове даже не позволяют зажечь одну палочку благовоний.'
 date: 2026-03-26
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Гуань Шэнь Ди Цзюнь',
@@ -13,15 +11,19 @@ tags:
     'народная вера',
     'храмовская культура',
   ]
-readingTime: 10
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-26
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-25T05:00:16+08:00'
+translatedAt: '2026-11-05T07:41:27.790941+00:00'
 ---
 
 # Гуань Шэнь Ди Цзюнь: как побежденный полководец стал всесильным богом Тайваня

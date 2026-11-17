@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/台灣火鍋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-09-26T23:27:07+08:00'
+translatedAt: '2026-11-06T08:28:35.409257+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwans Hotpot-Markt erzielt ein jährliches Marktvolumen von mehreren zehn Milliarden NT-Dollar und ist nicht nur ein winterliches Wohlfühlgericht der ganzen Nation, sondern eine Esskultur, die zu jeder Jahreszeit passt. Von der „Sukiyaki"-Küche (鋤燒) der japanischen Kolonialzeit über die vielfältigen Eintopfgerichte, welche die Nachkriegseinwanderer aus den verschiedenen chinesischen Provinzen mitbrachten, bis hin zu den heutigen individuellen Mini-Hotpots und Premium-Töpfen: Die Evolutionsgeschichte des taiwanischen Hotpots spiegelt den gesellschaftlichen Wandel und die ethnische Verschmelzung dieser Insel wider und köchelt am Ende zu einem einzigartigen „taiwanischen Geschmack" (台味) zusammen.

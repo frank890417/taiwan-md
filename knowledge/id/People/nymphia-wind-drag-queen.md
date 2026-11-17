@@ -17,11 +17,13 @@ author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-07-26T07:02:05+08:00'
+translatedAt: '2026-11-04T18:56:37.004195+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 2024, ratu drag Taiwan Nymphia Wind meraih juara acara paling ditunggu dunia, _RuPaul's Drag Race_, menjadi orang Taiwan pertama yang meraih keghairahan tersebut. Keberhasilannya tidak hanya mendorong seni drag Taiwan ke kancah internasional, tetapi juga bertepatan dengan "Hari Pendidikan Kesetaraan Gender", memperlihatkan semangat keberagaman dan inklusifitas Taiwan kepada dunia. Dari pesta bawah tanah ke Istana Presiden, kisah Nymphia Wind adalah cerminan sejarah pemberdayaan diri komunitas minoritas seksual Taiwan selama hampir 30 tahun. Ia menjadikan "pisang" sebagai simbol, memadukan pengalaman hidup pribadi dengan budaya Taiwan secara mendalam, dan dengan nyaring mengumumkan keberadaan dan kepercayaan diri Taiwan kepada dunia.

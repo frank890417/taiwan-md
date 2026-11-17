@@ -2,19 +2,21 @@
 title: "푸쿤치: 후산의 '화롄왕'에서 국회의 '총소집인'으로 이어진 권력의 나선"
 description: "1990년대 주식시장의 거물 '카이쥐 샤오푸'에서 2001년 국회 진출, 2009년 화롄 장악에 이르기까지, 푸쿤치는 후산에서 중앙정부조차 흔들기 어려운 20년에 걸친 '푸가 왕조'를 구축했다. 주가조작 사건으로 직을 유지한 채 수감되고, 위장 이혼 뒤 아내를 부현장으로 임명한 일, 2024년 입법원에 복귀해 국민당 원내 총소집인을 맡고 방중단을 이끈 일까지, 그는 대만 정계에서 가장 극단적인 권력의 탄력성과 논란을 보여 주었다."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['화롄', '정치인', '국민당', '입법원']
-readingTime: 12
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-05T02:35:09.428278+00:00'
 ---
 
 > **30초 개요:**
@@ -48,18 +50,18 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 ## 참고 자료
 
-[^1]: [雙面傅崐萁──透視花蓮王現象](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - The Reporter 보도
+[^1]: [양면의 푸쿤치──화롄 왕 현상 분석](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - 보도자 The Reporter
 
-[^2]: [任妻當副手 傅崐萁假離婚判刑6月](https://news.tvbs.com.tw/politics/53325) — TVBS 뉴스: 화롄지방법원은 문서위조죄에 따라 푸쿤치에게 6개월, 쉬전웨이에게 4개월을 선고했다. 화롄지방법원 99년도 이자 제358호 형사판결
+[^2]: [아내를 부지사로 임명, 푸쿤치 위장 이혼으로 징역 6개월 선고](https://news.tvbs.com.tw/politics/53325) — TVBS 뉴스넷: 화롄 지법, 위조문서죄로 푸쿤치 6개월, 쉬전웨이 4개월 선고 (화롄 지방법원 99년도 이자 제358호 형사판결)
 
-[^3]: [傅崐萁炒股案定讞：為什麼當縣長被解職，當立委卻能帶職入監？](https://opinion.udn.com/opinion/story/12322/4572559) — 명인당: 연합신문망 보도
+[^3]: [푸쿤치 주식 투기 사건 확정: 왜 현직 현장은 해직되고, 현직 입법위원은 직을 유지한 채 수감될 수 있는가?](https://opinion.udn.com/opinion/story/12322/4572559) — 명인당: 연합신문망 보도
 
-[^4]: [傅崐萁炒作凱聚案 判刑2年10月定讞須入獄](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — 중앙통신 보도: 대법원은 2020년 5월 14일 상고를 기각해 판결을 확정했다
+[^4]: [푸쿤치 카이쥐 사건 조작, 징역 2년 10개월 확정 수감](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — 중앙사 보도: 최고법원 2020년 5월 14일 상고 기각 확정
 
-[^5]: [從花蓮王到國會暴君，解析傅崐萁的權力迷思與國民黨的縱容危機！](https://newcongress.tw/?p=32791) — 신공민의회, 저자 친징. 논평 용어 “국회 폭군”은 이 글의 제목에서 나온 것이다
+[^5]: [화롄 왕에서 국회 폭군으로, 푸쿤치의 권력 신화와 국민당의 방조 위기 분석!](https://newcongress.tw/?p=32791) — 신공민의회, 저자 진징(평론 용어 '국회 폭군'은 이 글 제목에서 유래)
 
-[^6]: [地震爭議下訪中 傅崐萁：災後重建振興是重要課題](https://www.cna.com.tw/news/acn/202404270082.aspx) — 중앙통신 보도: 2024년 4월 화롄의 여진이 계속되던 시기에 대표단을 이끌고 베이징을 방문했으며, 국무원 대만사무판공실 부주임 판셴장이 공항 영접과 전 일정 동행을 맡았다
+[^6]: [지진 논란 속 방중, 푸쿤치: 재해 후 재건 진흥은 중요한 과제](https://www.cna.com.tw/news/acn/202404270082.aspx) — 중앙사 보도: 2024년 4월 화롄 여진이 끊이지 않는 가운데 대표단 이끌고 베이징 방문, 국대판 부주임 판셴장 영접 및 전 과정 동행
 
-[^7]: [【傅崐萁再陷風暴】家族縱橫花蓮逾 30 年 傅崐萁爭議一次看](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo 뉴스(鏡週刊)
+[^7]: [[푸쿤치 다시 폭풍 속으로] 가문 화롄 30년 넘게 횡행, 푸쿤치 논란 한눈에](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - 야후 뉴스(경주간)
 
-[^8]: [五星縣長 VS 花蓮王，那個才是傅崐萁？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter “양면의 푸쿤치” 시리즈 이미지 편
+[^8]: [오성 현장 VS 화롄 왕, 누가 진짜 푸쿤치인가?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — 보도자 The Reporter '양면의 푸쿤치' 시리즈 이미지 편

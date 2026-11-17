@@ -2,9 +2,7 @@
 title: 'Islam di Taiwan: Mosaik Keimanan dari Leluhur Bermarga Kuo di Quanzhou hingga 300.000 Pekerja Migran'
 description: 'Pada 2025, populasi Muslim di Taiwan melampaui 300.000 jiwa, sementara jejak Islam di negara ini membentang selama empat abad. Dari pantangan dalam pemujaan leluhur keluarga Kuo di Lukang hingga perayaan Idulfitri di aula berlantai kotak-kotak hitam putih Stasiun Utama Taipei, Taiwan tengah mengalami rekonstruksi keimanan dari “asal-usul yang tersembunyi” menjadi “kampung halaman di tanah rantau”.'
 date: 2026-04-28
-author: 'idlccp1984'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Islam',
@@ -14,15 +12,19 @@ tags:
     'keluarga bermarga Ting di Taisi',
     'sejarah Taiwan',
   ]
-readingTime: 8
+subcategory: '宗教與民俗'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-05T05:04:29.185597+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Islam di Taiwan bukanlah kebudayaan asing yang datang dari luar, melainkan ingatan purba yang tertanam jauh dalam garis keturunan negara ini. Dari keturunan “Hui bermarga Ting” asal Quanzhou yang datang ke Taiwan bersama Koxinga pada peralihan akhir Dinasti Ming dan awal Dinasti Qing, hingga 260.000 pekerja migran Muslim Indonesia yang kini menopang layanan perawatan jangka panjang dan industri perikanan Taiwan, keimanan ini telah menempuh perjalanan luar biasa—dari menghilang akibat asimilasi hingga berkembang dalam keberagaman.

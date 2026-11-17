@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T05:19:33.546409+00:00'
 ---
 
 # Genossenschaften: Das demokratische Experiment und der Geruch von Fleischbrot

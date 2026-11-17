@@ -2,6 +2,7 @@
 title: "Chang Chih-chi: The 'Information Curator' Seeking Dialogue in a Polarized Age — from Simpleinfo to Shasha77, Seven Years of Daily Updates"
 description: "Known for seven years of daily updates and 1.65 million subscribers on 'Shasha77,' this information designer translates complex social issues into accessible explainers. He continues searching for the possibility of dialogue in a polarized Taiwanese society."
 date: 2026-04-20
+category: 'People'
 tags:
   [
     'Chang Chih-chi',
@@ -10,18 +11,17 @@ tags:
     'YouTuber',
     'social issues',
   ]
-category: 'People'
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 10
 lastVerified: 2026-04-20
 lastHumanReview: true
+readingTime: 10
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: '2026-05-01T12:53:58+08:00'
+translatedAt: '2026-11-02T00:56:21.138449+00:00'
 ---
 
 > **30-second overview:** Chang Chih-chi is one of Taiwan's most influential current-events YouTubers. His channel "Shasha77" is known for daily updates and an explainer style that presents multiple viewpoints. Starting from information design, he has tried to translate serious issues into something accessible to mass audiences, and in a polarized society he continues to seek space for dialogue. This article explores how he turned reforming society into a good business, and the journey of building trust and influence in a complex environment.
@@ -68,9 +68,9 @@ For Chang Chih-chi, entrepreneurship and running the channel is a process of con
 
 ## Further Reading
 
-- **[Adi](/en/people/ray-du-english-youtuber)** (zh only: 阿滴): Co-founder of the Taiwan New Media Video Creators Association; both are "neighborhood captain generation" knowledge YouTubers
-- **[Ba-jiong](/en/people/pa-chiung-political-youtuber)** (zh only: 八炯): Another self-media strategy, with current-events commentary as the main focus, but taking the "mocking united front propaganda" route
-- **[Taiwan Democratic Transition](/en/history/taiwan-democratization)** (zh only: 台灣民主轉型): The evolution of Taiwan's public discussion that underlies Chang Chih-chi's "presenting multiple viewpoints" curatorial style
+- **[A-Dī](/en/people/ray-du-english-youtuber)**: Co-founder of the Taiwan New Media Video Creators Association; both are knowledge-based YouTubers from the "Lǐzhǎng-bó" (village chief) generation.
+- **[Bā-Jiǒng](/en/people/pa-chiung-political-youtuber)**: Also focuses on current affairs commentary, but employs a different self-media strategy centered on "satirical anti-unification" tactics.
+- **[Taiwan's Democratic Transition](/en/history/taiwan-democratization)**: The evolution of public discourse in Taiwan behind the "multiple perspectives" curatorial style of Chang Chih-chi.
 
 ---
 

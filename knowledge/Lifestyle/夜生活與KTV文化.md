@@ -9,6 +9,8 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: incubating
+curationReason: unverified
 ---
 
 # 夜生活與KTV文化

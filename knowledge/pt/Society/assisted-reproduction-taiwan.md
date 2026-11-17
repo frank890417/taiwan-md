@@ -1,8 +1,8 @@
 ---
 title: 'Taiwan e a reprodução assistida: um embrião cruza fronteiras, mas a família não consegue atravessar a lei automaticamente'
 description: 'Em 2020, o casal lésbico Mota e City foi ao Camboja para fazer FIV, gastando cerca de NT$ 2 milhões em quatro anos. Taiwan já tinha a Lei de Reprodução Assistida desde 2007, expandiu o subsídio de fertilização in vitro em 2021, e só o projeto de emenda de 2025 incluiu mulheres solteiras e casais lésbicos casados. A tecnologia já está madura há tempos; o que a lei demorou a alcançar não é apenas o modo de gerar filhos, mas quem tem o direito de formar uma família.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'reprodução assistida',
@@ -11,17 +11,19 @@ tags:
     'casamento homoafetivo',
     'baixa natalidade',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-11T17:03:15+08:00'
+translatedAt: '2026-11-05T11:25:09.666901+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2020, o casal lésbico Mota e City foi ao Camboja para fazer FIV, gastando cerca de NT$ 2 milhões em quatro anos. A tecnologia médica de Taiwan já está madura há tempos, mas a lei por muito tempo só permitiu que casais heterossexuais casados a usassem. Da Lei de Reprodução Assistida de 2007 ao projeto de emenda de 2025, este artigo não olha para o «consegue ou não gerar», mas para quem pode entrar na sala de tratamento, quem é reconhecido após o nascimento da criança e os dilemas deixados pela gestação de substituição.[^1]

@@ -2,21 +2,21 @@
 title: '張惠妹：卑南族の歌手、1996年『姊妹』から2024年大巨蛋5公演へ'
 description: '1972年8月9日、台東県卑南郷に生まれた張惠妹は、台湾の卑南族の歌手であり、中華圏ポップミュージック史上最も成功した女性歌手の一人です。1996年のデビューアルバム『姊妹』は台湾で121万枚、アジア全体で400万枚を売り上げました。2015年には「ウートピア」ツアーで台北・タイペイアリーナ（小巨蛋）にて10公演を連続開催しました。2024年12月には台北・タイペイドーム（大巨蛋）にてASMeiR MAXXXを5公演開催、制作費は2億台湾ドル、会場では熱気球が打ち上げられました。キャリア累計売上枚数は5000万枚を超えています。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags: ['音楽', '先住民族', '卑南族', '天后', 'LGBTQ+平等', 'ポップミュージック']
-readingTime: 7
-#   whats_excluded: "各アルバムの全曲リスト；商業タイアップ一覧；各コンサートの公演詳細"
-#   where_it_hedges: "張雨生による発掘の詳細：各方面で説が若干異なるため、ウィキペディアを基準とする；2023年北京レインボーフラッグ問題は別途記録"'
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
-translatedFrom: People/張惠妹.md
-sourceCommitSha: '0f8fae0a'
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/張惠妹.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:31:24.301416+00:00'
 ---
 
 # 張惠妹：卑南族の天后、1996年『姊妹』から2024年大巨蛋5公演へ

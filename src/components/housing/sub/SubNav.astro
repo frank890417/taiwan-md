@@ -1,0 +1,22 @@
+---
+/**
+ * SubNav：頁內錨點列（章節跳轉）。手機橫向捲動，樣式沿用主頁的 hs-jump。
+ */
+interface Props {
+  label: string;
+  items: { id: string; label: string }[];
+}
+const { label, items } = Astro.props;
+---
+
+<nav class="hs-jump" aria-label={label}>
+  <ul class="hs-jump-list">
+    {
+      items.map((it) => (
+        <li>
+          <a href={`#${it.id}`}>{it.label}</a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>

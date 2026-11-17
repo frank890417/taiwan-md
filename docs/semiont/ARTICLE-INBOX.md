@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
-last_updated: 2026-10-14
-last_session: '2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-11-04
+last_session: '2026-11-04-twmd-desk（全面進化：五篇 EVOLVE 與 SEO 條目補記、台灣迷因 P2 入列）  # 前：2026-11-04-health-census（全站普查：census D 級 umbrella 入列 P2，7/16 的 69 篇單薄 batch 整條併入）  # 前：2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -177,23 +177,125 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### 中華職棒 NEW — 37 年的聯盟差點死掉兩次，站上沒有它自己的條目
+### 台灣迷因 EVOLVE — 〈鐵牛杰哥〉研究推翻了三處事實
 
-- **Type**: `NEW`
+- **Type**: `EVOLVE`
 - **Category**: Culture
-- **Priority**: `P1`
+- **Path**: knowledge/Culture/台灣迷因.md（以實際檔名為準，grep「台灣迷因」）
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-10-25 by twmd-news-lens-weekly (probe)
-- **Angle-expires**: evergreen（條目本身常青；「封王那一晚」開場在 2027 開季前都成立）
+- **Requested**: 2026-11-04 by twmd-desk（全面進化，〈鐵牛杰哥〉重寫的查證附帶發現）
+- **Angle-expires**: evergreen
 - **Notes**:
-  - **時效**：2026 台灣大賽 10/17 開打、全在大巨蛋，例行賽勝率第一味全龍對下半季冠軍中信兄弟，媒體稱中職史上首度「龍象大戰」；第五戰因颱風薔琵兩度延到 10/25；**10/26 第六戰味全龍 6:0 完封、4 勝 2 敗封王、隊史第 6 冠**（2026-11-02 盤點與本班搜尋摘要一致，均未開原文，寫稿前回聯盟官方 cpbl.com.tw 驗比分、場次與 MVP）
-  - **缺口確認**：`find knowledge -maxdepth 2 -path "knowledge/[A-Z]*" -name "*職棒*"` = 0、`*中華職棒*` = 0、`*台灣大賽*` = 0；內容層 `中華職棒` 15 檔全是順帶（郭泓志 5、台灣棒球文化 5、台灣體育發展與奧運 3、朴星垠 2⋯），`台灣大賽` 0 檔；〈台灣棒球文化〉只有「職業棒球的誕生」一節三段，寫到簽賭案就跳去國際賽；DONE-LOG `grep 職棒` = 0
-  - **這題裡的人在哪**：職棒元年四隊的老球員與球迷；幾次簽賭案裡被找上門的選手；1999 年味全解散與 2019 年重建的兩批人；外野的韓籍與台灣啦啦隊（李珠珢、朴星垠、邊荷律已有條目，可互連）；大巨蛋買不到票的球迷
-  - **建議切角**（2026-11-02 改寫，系列賽已結束）：從封王那一晚開場，1999 年解散的味全龍在重建第 7 年於大巨蛋拿下隊史第 6 冠，往回拉到味全宣布解散那一年；主脊「一個聯盟怎麼差點死掉兩次又活過來」，立體群像，簽賭案寫清楚但不當全文脊椎；收在大巨蛋時代
-  - **必驗事實**：「首度龍象大戰」的定義（兄弟象與中信兄弟算不算同一隊）；總冠軍結果與 MVP；聯盟成立日與元年首戰（回聯盟官方）；歷次簽賭案年份與判決；味全解散與重建年份；大巨蛋啟用年與票房
-  - **敏感度**：低。簽賭案只寫判決與公開紀錄，不點名未定罪者
-  - 適合開放給貢獻者接
-- **Reference**: [reports/probe/2026-10-25.md §T1-A](../../reports/probe/2026-10-25.md) / [Focus Taiwan 10/24](https://focustaiwan.tw/society/202610240003) / [2026 CPBL season](https://en.wikipedia.org/wiki/2026_Chinese_Professional_Baseball_season) / [運動視界賽前分析](https://www.sportsv.net/articles/129051)
+  - 與〈鐵牛杰哥〉2026-11-04 研究不一致的三處：杰哥影片的拍攝年份（寫 2013）、2,700 萬觀看數、Steam 遊戲；以 `reports/research/2026-11/鐵牛杰哥.md` 的查證紀錄為準逐條對
+  - 〈校園順口溜〉引了片中誘騙情節的台詞，〈鐵牛杰哥〉刻意不收；兩篇互連前先看這一點
+  - 〈鐵牛杰哥〉倫理審稿建議補 113 保護專線（找到官方頁再補）
+- **Reference**: [reports/research/2026-11/鐵牛杰哥.md](../../reports/research/2026-11/鐵牛杰哥.md)
+
+
+### 國中會考＋台南鐵路地下化 EVOLVE — 補 30 秒概覽、媒體與中段篇幅（tboydar 兩篇新稿）
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/國中會考.md、knowledge/Society/台南鐵路地下化.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-11-04 by twmd-maintainer-daily（PR #1955／#1954 merge 後的 follow-up，已在 PR #1954 留言向 tboydar 說明這三件留給作者）
+- **Notes**:
+  - 三件都是**作者的聲音與素材決定**，不在格式 heal 範圍，本班刻意沒代寫（LESSONS `gate-triggers-content-degradation-incentive`：為了讓計數器變綠去改寫投稿者的散文是禁區）
+  - (1) 兩篇都缺 `> **30 秒概覽**:` blockquote — 讀者點進來的第一個落點
+  - (2) 兩篇都 0 張圖（`media-richness` image ≥ 3 是 spore-publish 的 hard gate，所以這兩篇目前發不了孢子）。〈台南鐵路〉的素材缺口特別具體：報導者楊子磊那組照片（最後一夜的月台、黃春香窗邊的區間車、陳秌沛起家厝的空地）正是這篇缺的那一層，但**不在該文 CC 授權範圍內**，要另找台南市政府或鐵道局的通車素材
+  - (3) 篇幅：〈台南鐵路〉1,901 字、〈國中會考〉3,543 字（depth 門檻 4,500）。〈台南鐵路〉骨架好，缺的是中段——2017–2020 分段開工那幾年、以及安置宅住進去之後的生活，現在各只有一句
+  - **先問作者再派工**：已在 PR 留言請 tboydar 若想自己接就留言，所以巡邏班接手前先看那則 PR 有沒有回應
+- **Reference**: [PR #1954](https://github.com/frank890417/taiwan-md/pull/1954) / [PR #1955](https://github.com/frank890417/taiwan-md/pull/1955)
+
+### 選前十日民調禁止期 EVOLVE — 11/18 00:00 至 11/28 16:00〈沈伯洋〉〈蔣萬安〉〈陳致中〉凍結不改
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/沈伯洋.md、knowledge/People/蔣萬安.md、knowledge/People/陳致中.md（含各自十二語譯本）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-11-02 by twmd-desk（選罷法第 53 條第 3 項：投票日前十日起至投票截止前，不得以任何方式發布、報導、散布、評論或引述民調）
+- **Angle-expires**: 2026-11-28（16:00 投票截止後本條歸檔）
+- **Notes**:
+  - 哲宇 2026-11-02 拍板：**不撤，明確標注時間**。兩篇民調表標題寫「截至 11 月 2 日」，說明寫三份都在 11/2 以前發布、11/18 起到投票截止不更新也不增補
+  - 依據：法條沒有明文要求撤下禁止期前已發布的內容；中選會 99.01.12 中選法字第0980007819號函釋（禁止期前立的民調看板）說個案審酌、作為與不作為都算，所以期間的重點是「不再發布」
+  - 凍結窗內不做的事：不改這三篇 zh（含錯字、補段，有急事先問哲宇）；不新增任何 2026 候選人或選情的民調引述（含孢子、選舉專頁、新文章）；不把這三篇重翻成新語言（`config/babel-hold.tsv` 已讓 babel-dispatch 在窗內自動跳過，所有機器 git pull 即生效）
+  - 11/17 前若 babel 把兩篇新版翻出來，譯本帶著民調表在禁止期前上線，可以；之後凍結
+  - 〈陳致中〉那份台中民調八項不齊，數字已在 2026-11-02 拿掉（zh＋十二語），不放回
+  - 工具：`python3 scripts/tools/election-poll-blackout.py --check` 看三篇與譯本的標記；`--strip` 保留給日後真的需要撤下時用
+- **Reference**: [scripts/tools/election-poll-blackout.py](../../scripts/tools/election-poll-blackout.py) / [config/babel-hold.tsv](../../config/babel-hold.tsv)
+
+### 沈伯洋＋蔣萬安 EVOLVE — 11/28 開票後補結果，兩篇同一天同一把尺
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/沈伯洋.md、knowledge/People/蔣萬安.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-11-02 by twmd-desk（兩篇選舉年對稱 EVOLVE 開票前上線，結構預留開票後補段）
+- **Angle-expires**: 2026-12-05（中選會公告當選後一週內補完）
+- **Notes**:
+  - 兩篇同一個 commit 補，不要一篇先上：結果以中選會 `db.cec.gov.tw` 一手為準
+  - 〈沈伯洋〉照研究報告 §6.3：30 秒概覽最後一句與 description、民調段後加開票結果（民調表留作選前紀錄）、結尾兩段依結果重寫但首尾呼應不變、lifeTree 加 11-28 節點、若當選補立委職務異動
+  - 〈蔣萬安〉同位置對稱補：30 秒概覽、description、選戰二末段、lifeTree
+  - 11/13–11/17 若有第二場辯論或公辦政見發表會：兩篇選戰節末各補一句（場次、日期、主辦）；11/18 以後舉行的，等開票後補段時一起寫（凍結窗內不改這兩篇）
+  - 共用區塊（查核表、攻防核心、民調表）兩篇必須一字相同，改完 diff 一次
+  - 年份寫法兩篇不一致（〈沈伯洋〉正文用國字「四月二十五日」，〈蔣萬安〉用「2026 年 4 月 25 日」），開票後補段時一起統一成阿拉伯數字
+  - 回連卡片已判定不加：〈蔣萬安〉tw-\* 已滿 4 個（四張時間軸），回連靠第 276 行行內連結與延伸閱讀，兩篇都連得到對方
+- **Reference**: [reports/research/2026-11/沈伯洋.md](../../reports/research/2026-11/沈伯洋.md) §6.3 / [reports/research/2026-11/蔣萬安.md](../../reports/research/2026-11/蔣萬安.md) §6.2
+
+### 台灣與核能的討論 EVOLVE — 12/4 第 22 案結果公告後補段，並壓短第二節
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/台灣與核能的討論.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-11-02 by twmd-desk（開票前上線的 A 量尺版，哲宇 2026-11-02 選定；結構預留開票後補段）
+- **Angle-expires**: 2026-12-11（中選會 12/4 公告結果後一週內補完）
+- **Notes**:
+  - 只改四處：〈開票之前，各方先說了這張票算什麼〉最後一段換成結果與各方開票夜說法、30 秒概覽最後一句、description 最後一句、`lastVerified`；tw-heatmap 可加 2026 案 22 一列
+  - 結果以中選會公告為準，各方說法只收逐字可查的；政治立場題，對稱護欄照研究報告 §5
+  - 編輯室 2.5-R 還有一條沒做：第二節〈非核第一年，近五成的電靠燃氣〉偏面向巡禮，壓到三段以內、燈號對照搬到節首（見研究報告 §11 與審稿紀錄）
+  - 研究者另發現〈台灣氣候危機與淨零轉型〉案 21 同意票數與核三 1 號機日期有誤，不在本條範圍，另修
+- **Reference**: [reports/research/2026-11/台灣與核能的討論.md](../../reports/research/2026-11/台灣與核能的討論.md)
+
+### 金馬獎 EVOLVE — 11/22 第 63 屆頒獎後補得獎結果
+
+- **Type**: `EVOLVE`
+- **Category**: Art
+- **Path**: knowledge/Art/金馬獎.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-11-02 by twmd-desk（〈金馬獎〉NEW 頒獎前上線，結構預留補段位置）
+- **Angle-expires**: 2026-11-30（頒獎後一週內補完，晚了就成舊聞）
+- **Notes**:
+  - 只改四處：H2「第 63 屆入圍最多的，是日本導演 SABU 的片」那一節（主要是最後一段）、30 秒概覽最後一句、description 最後一句、`lastVerified`。其餘段落不動
+  - tw-stack 那列 2019–2025 改成 2019–2026，2026 最佳劇情片的國別取官網影片頁「國家/地區」欄
+  - 以官網得獎頁 `goldenhorse.org.tw/awards/nw/?search_regist_year=2026` 的得獎列為準，中央社交叉；感言引語要對官方影片或兩家以上逐字一致
+  - 有政治新聞就照一手記一句，沒有就不寫；不預先揣測
+  - 設計細節：研究報告 [reports/research/2026-11/金馬獎.md](../../reports/research/2026-11/金馬獎.md) §6.6
+- **Reference**: [knowledge/Art/金馬獎.md](../../knowledge/Art/金馬獎.md)
+
+### 中華職棒 EVOLVE — 貢獻者初稿已上線（PR #1948），還差開場人物、深度與圖
+
+- **Type**: `EVOLVE`
+- **Category**: Culture
+- **Path**: knowledge/Culture/中華職棒.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-11-02 by twmd-desk（原 NEW 條目由貢獻者 tboydar 以 PR #1948 交稿並 merge，依完成歸檔鐵律移到 DONE-LOG；未兌現的部分轉成本條）
+- **Angle-expires**: evergreen
+- **Notes**:
+  - 現況 1,700 字左右、六節照年份排，31 條腳註，零張圖；merge 後已修三個錯（黑鷹事件年份、中信鯨解散時序、「全世界第四高」查無出處）並把同一條維基腳註拆成各自可開的來源
+  - 原條目建議的開場還沒做：從 2026 年 10 月 26 日味全龍封王那一晚開場，往回拉到 1999 年味全宣布解散；目前開場是 1987 年推動委員會
+  - 原條目「這題裡的人在哪」那一欄（元年老球員與球迷、被找上門的選手、味全解散與重建的兩批人、啦啦隊、買不到票的球迷）幾乎沒進文章，全文只有制度與數字
+  - 早期沿革仍是維基單一來源：1987-12-31 推動委員會、1988-01-18 宣布、1997 年七隊、2001 徵召 15 人、2003-03-01 天母開幕戰；要升級得查聯盟年報或舊報紙
+  - 2026 年例行賽數字（全年人次、場均）與 MVP 還沒寫；蔡其昌會長任期到 2027 年 3 月前後，屆時要改
+  - 查證表：[reports/research/2026-11/中華職棒.md](../../reports/research/2026-11/中華職棒.md)（62 原子，含未解的單源項與建議來源）
+- **Reference**: [knowledge/Culture/中華職棒.md](../../knowledge/Culture/中華職棒.md) / [PR #1948](https://github.com/frank890417/taiwan-md/pull/1948)
 
 ### 台灣鐵路地下化 NEW — 城市被縫合了，代價落在沿線那幾百戶
 
@@ -1523,6 +1625,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **必查**：實際搜「台灣藍鵲」看 SERP 長相（是否有 image pack / knowledge panel 卡在我們上面）→ 對症下藥（補 structured data / 改 description / 強化 SERP 縮圖），不要盲目改文章本體。
   - **源信心**：SC 單源強訊號（position+impressions 確定）；per-article GA 在本次 cached export 只有首頁級彙總、無法交叉確認站內行為。DNA #4 雙源未滿足，標記為 SC-primary。
 - **Reference**: public/api/dashboard-analytics.json `searchConsole7d.opportunities[0]`
+- **2026-11-04 by twmd-desk（全面進化）**：description 已照本條改寫（`evolve/2026-11-04`）；結果頁實況與結構化資料兩項還沒做，留本條。
 
 ### 日治時期 EVOLVE — 種站第一天出生的裸標題 hub，SC 28d 曝光 1.7 萬次只拿 0.25% CTR
 
@@ -1556,6 +1659,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: public/api/dashboard-analytics.json searchConsole7d.topQueries
 
 <!-- watch-signal（未升 candidate，下次 scan 覆核）：`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list（沿上輪）。`周智宣` 100 impr 無專文 = 潛在 NEW，人物 niche 待哲宇判斷敏感度（沿上輪）。2026-07-18 本輪新增：`台灣的道德課去哪了` GA7d 37 views / health 50 / lv 04-25，進化分數 ~50 未過 60 gate（單源 GA、無 SC 訊號）；`退出聯合國` GA7d 37 views / health 57 / lv 05-02，~49 同未過；`MTV包廂` GA7d 27 views / health 41 / lv 05-10，~48——KTV EVOLVE 已在 pending，未來可同波處理包廂娛樂史；`曾博恩` SC7d 972 impr / CTR 0.93% / pos 10.09 — 低 CTR 主因是排名第 10 不是呈現層，health 44 但 9,267 字 51 腳註（分數疑受 lastVerified 05-13 與格式扣分拖累），先觀察。 -->
+- **2026-11-04 by twmd-desk（全面進化）**：title 與 description 已改（新標題〈彎彎：胡家瑋替 MSN 世代畫的光頭人，和讓它「變成歷史人物」的決定〉），正文 H1 同步；結果頁實況未看，留本條觀察 CTR。
 
 ### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
 
@@ -1613,104 +1717,59 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- ═══ 🟡 P1 — 本月 ═══ -->
 
-### 🩻 早期/貢獻者單薄文章 深度重建 batch — 69 篇低於近期品質基準（2026-07-16 全站審核）
+### 🩻 census D 級 umbrella — 內文簡陋的 225 篇排隊重寫（2026-11-04 全站普查；併入 7/16 的 69 篇單薄 batch）
 
-- **Type**: `EVOLVE` batch（umbrella，每篇獨立走 REWRITE-PIPELINE Evolution depth）
+- **Type**: `EVOLVE` batch（umbrella，每篇獨立走 REWRITE-PIPELINE Evolution 深度模式）
 - **Category**: 跨 category
-- **Priority**: `P1`（batch 整體；⭐ 洪醒夫單篇視同 P0 — SC 全站 #1 query ~2,654 imp/週 落在 697 字 0 腳註 stub 上，SPORE-INBOX 兩條 entry 在等它）
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-16 by 哲宇 directive（審核早期 >2 個月 / 貢獻者提供、嚴重不符近期品質基準的文章，完整放入 inbox 讓 routine 慢慢消化）— session 2026-07-16-205022-inbox-audit
-- **審核基準**: 近期文章（date ≥ 6/01）中位 6,556 字／22 腳註；嚴重門檻 = 字數 < 2,500 且腳註 < 5。完整方法與次一級名單（+185 篇）見 [reports/article-quality-audit-2026-07-16.md](../../reports/article-quality-audit-2026-07-16.md)
+- **Requested**: 2026-11-04 by 哲宇（全站文章健檢：「哪些內文很簡陋，設計未來的制度」）— session 2026-11-04-health-census。同條併入 2026-07-16 inbox-audit 的「🩻 早期/貢獻者單薄文章 深度重建 batch」（69 篇；原條目整段併進本條，未完成所以不進 DONE-LOG，洪醒夫那篇早已歸檔）
+- **名單 SSOT**: [reports/article-census/2026-11-04-tier-D.txt](../../reports/article-census/2026-11-04-tier-D.txt)（`python3 scripts/tools/article-census.py --tier D` 重算；dashboard 讀 `public/api/dashboard-census.json`，prebuild 每次 build 重產）。**本條不維護逐篇 checklist**：重寫完下次普查自然從 D 級消失
+- **判準**: D 級＝五條軸弱 ≥ 3：字數 < 2,500／腳註 < 8／正文章節 < 3／零媒體（含無封面）／段落中位 < 55 字或散文段 < 8。規則與分位數校準見 [reports/article-health-census-2026-11-04.md](../../reports/article-health-census-2026-11-04.md) §三
 - **消化規則**:
-  1. 每 session 挑 1-3 篇（Tier A 優先、由上往下），走 REWRITE-PIPELINE Evolution 深度模式（Stage 0 素材萃取起）
-  2. Music/People 歸屬密集題先過 attribution audit（cross-ref 上方「早期批次歸屬密集」batch — 那條查歸屬錯，本條補深度）
-  3. ship 後：勾掉該行（下次 distill 清除）+ DONE-LOG append per 完成歸檔鐵律
-  4. 貢獻者批（C2）保留貢獻者視角與在地細節，可循 #574 素材共創模式回請一手材料
-  5. Tier C1 動工前需哲宇拍板（逐篇深化 vs 合併「中職啦啦隊韓援現象」總覽）
+  1. 每 session 挑 1-3 篇，從下方「流量前 20、還沒排隊」由上往下，走 REWRITE-PIPELINE Evolution 深度模式（Stage 0 素材萃取起）
+  2. 已有獨立 EVOLVE 條目的 D 級文章（普查時 80 篇，例：陳樹菊、日治時期、鱔魚意麵）照原條目走，不在本條重複登
+  3. Music／People 歸屬密集題先過上方「早期批次歸屬密集」attribution audit batch：那條查歸屬錯，本條補深度
+  4. ship 後照完成歸檔鐵律 append DONE-LOG；本條不用勾，普查重算會把它移出 D 級
+  5. 投稿者批保留貢獻者視角與在地細節，可循 #574 素材共創模式回請一手材料
+  6. 原 Tier C1（2026-05-13 在台韓籍啦啦隊員人物 stub 11 篇）動工前仍需哲宇拍板：逐篇深化 vs 合併「中職啦啦隊韓援現象」總覽
+- **Notes**:
+  - 消費者：`twmd-rewrite-daily` 自 2026-07-25 兩台皆停（算力考量，ROUTINE 註 ²¹）。7/16 那 69 篇 110 天只動 4 篇；要不要重開、每天幾篇，是普查報告 §八 #8 待哲宇決定
+  - D 級裡 95 篇其實走過 REWRITE 但仍單薄（四、五月早期產物，例：蕭上農），84 篇已標 🌱。D 級寫的是「內容不夠」，跟 A 級的「沒人查過」分開：重寫時就會查
+  - 譯本數是放大係數（本檔 §優先序判準）：D 級幾乎都已有 12 語譯本
+- **Reference**: [reports/article-health-census-2026-11-04.md](../../reports/article-health-census-2026-11-04.md) §二 D 級、§五.4；[reports/article-quality-audit-2026-07-16.md](../../reports/article-quality-audit-2026-07-16.md)
 
-**Tier A — 高知名度 × 嚴重單薄（12 篇，優先）**:
+**流量前 20、還沒排隊**（依本機 GA 28 天快取排序，條目不列流量數字）：
 
-- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,077 字／11 腳註／2026-09-12 深度重寫完成，2026-09-13 事實查核 heal（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
-- [ ] [何飛鵬](../../knowledge/People/何飛鵬.md) — 1023 字／0 腳註／2026-03-26
-- [ ] [葉丙成](../../knowledge/People/葉丙成.md) — 889 字／3 腳註／2026-03-20
-- [ ] [江蕙](../../knowledge/People/江蕙.md) — 1592 字／0 腳註／2026-03-28／首作者 idlccp02
-- [ ] [陳偉殷](../../knowledge/People/陳偉殷.md) — 1790 字／0 腳註／2026-03-22
-- [ ] [李梅樹](../../knowledge/People/李梅樹.md) — 1844 字／0 腳註／2026-03-23
-- [ ] [李遠哲](../../knowledge/People/李遠哲.md) — 1892 字／0 腳註／2026-03-21
-- [ ] [馬偕](../../knowledge/People/馬偕.md) — 1924 字／0 腳註／2026-03-31／首作者 idlccp1984
-- [ ] [PTT批踢踢](../../knowledge/Technology/PTT批踢踢.md) — 1974 字／0 腳註／2026-03-21／首作者 pingu
-- [ ] [呂秀蓮](../../knowledge/People/呂秀蓮.md) — 2226 字／0 腳註／2026-03-22
-- [ ] [蔡依林](../../knowledge/People/蔡依林.md) — 2258 字／0 腳註／2026-03-24
-- [ ] [林懷民](../../knowledge/People/林懷民.md) — 2454 字／0 腳註／2026-03-23
+- [ ] [蕭上農](../../knowledge/People/蕭上農.md) — 字數 1788、零媒體、段落 28 段／中位 33 字
+- [ ] [特有種](../../knowledge/Nature/特有種.md) — 字數 2240、腳註 5、零媒體
+- [ ] [魏哲家](../../knowledge/People/魏哲家.md) — 字數 1322、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [菜市場名](../../knowledge/Culture/菜市場名.md) — 字數 1168、零媒體、段落 17 段／中位 52 字（2026-11-04 補標 🌱）
+- [ ] [台灣都市發展與城鄉差距](../../knowledge/Geography/台灣都市發展與城鄉差距.md) — 腳註 0、零媒體、段落 59 段／中位 31 字（2026-11-04 補標 🌱）
+- [ ] [Hello-Nico](../../knowledge/People/Hello-Nico.md) — 字數 1028、零媒體、段落 20 段／中位 22 字
+- [ ] [外省人](../../knowledge/Society/外省人.md) — 字數 1363、零媒體、段落 11 段／中位 50 字（2026-11-04 補標 🌱）
+- [ ] [台灣企業：和碩聯合](../../knowledge/Economy/台灣企業：和碩聯合.md) — 腳註 5、零媒體、段落 50 段／中位 42 字
+- [ ] [濁水溪公社](../../knowledge/Music/濁水溪公社.md) — 字數 1832、零媒體、段落 33 段／中位 44 字
+- [ ] [林青霞](../../knowledge/People/林青霞.md) — 字數 2399、腳註 5、零媒體、段落 40 段／中位 52 字
+- [ ] [史前時代與原住民](../../knowledge/History/史前時代與原住民.md) — 字數 1484、腳註 5、零媒體（精選，未標 🌱）
+- [ ] [國民政府遷台與戰後重建](../../knowledge/History/國民政府遷台與戰後重建.md) — 字數 2423、零媒體、段落 34 段／中位 52 字
+- [ ] [魚條](../../knowledge/People/魚條.md) — 字數 1253、正文章節 1、零媒體、段落 22 段／中位 25 字
+- [ ] [台灣企業：瑞昱半導體](../../knowledge/Economy/台灣企業：瑞昱半導體.md) — 字數 1940、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [豬哥亮](../../knowledge/People/豬哥亮.md) — 字數 1828、腳註 1、零媒體
+- [ ] [清治時期](../../knowledge/History/清治時期.md) — 字數 2042、腳註 5、零媒體
+- [ ] [台灣企業：中鋼](../../knowledge/Economy/台灣企業：中鋼.md) — 字數 1480、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [賴聲川](../../knowledge/People/賴聲川.md) — 字數 2098、腳註 7、零媒體
+- [ ] [台灣廟會與陣頭文化](../../knowledge/Culture/台灣廟會與陣頭文化.md) — 字數 2488、腳註 6、零媒體
+- [ ] [鄧雨賢](../../knowledge/People/鄧雨賢.md) — 字數 1945、腳註 5、零媒體（2026-11-04 補標 🌱）
 
-**Tier B — 早期批次單薄（38 篇）**:
+**併入：7/16 batch 剩下的 68 篇**（依原 Tier 分組；數字以 census 現值為準，原條目的 7/16 字數用的是 dashboard 字數尺，比 word-count plugin 中位多 663 字，不再沿用）：
 
-- [ ] [黃國珍](../../knowledge/People/黃國珍.md) — 532 字／0 腳註／2026-03-20
-- [ ] [朱一貴](../../knowledge/People/朱一貴.md) — 792 字／0 腳註／2026-03-24
-- [ ] [湖口營區與勝利路記憶](../../knowledge/History/湖口營區與勝利路記憶.md) — 855 字／0 腳註／2026-03-24
-- [ ] [漯底山](../../knowledge/Geography/漯底山.md) — 927 字／0 腳註／2026-03-23
-- [ ] [Ray](../../knowledge/People/Ray.md) — 1075 字／0 腳註／2026-03-23
-- [ ] [巧固球](../../knowledge/Culture/巧固球.md) — 1260 字／0 腳註／2026-03-27／首作者 idlccp02
-- [ ] [台灣鳥類窗殺議題](../../knowledge/Nature/台灣鳥類窗殺議題.md) — 1333 字／0 腳註／2026-03-23
-- [ ] [台灣乖乖文化](../../knowledge/Culture/台灣乖乖文化.md) — 1367 字／0 腳註／2026-03-21
-- [ ] [台灣動畫代工](../../knowledge/Economy/台灣動畫代工.md) — 1388 字／0 腳註／2026-03-24
-- [ ] [擲筊](../../knowledge/Culture/擲筊.md) — 1491 字／0 腳註／2026-03-27／首作者 idlccp02
-- [ ] [台灣島嶼博物學](../../knowledge/Nature/台灣島嶼博物學.md) — 1599 字／0 腳註／2026-03-25／首作者 YiChengLu
-- [ ] [台灣諧音禁忌文化](../../knowledge/Culture/台灣諧音禁忌文化.md) — 1612 字／0 腳註／2026-03-21
-- [ ] [媽祖與大道公的傳說](../../knowledge/Culture/媽祖與大道公的傳說.md) — 1620 字／0 腳註／2026-03-21
-- [ ] [台灣醬料與調味](../../knowledge/Food/台灣醬料與調味.md) — 1630 字／0 腳註／2026-03-20
-- [ ] [自助餐阿姨的謎之目測精算能力](../../knowledge/Society/自助餐阿姨的謎之目測精算能力.md) — 1727 字／0 腳註／2026-03-22／首作者 So͘ Bîn-hiân
-- [ ] [蘭嶼生態系](../../knowledge/Nature/蘭嶼生態系.md) — 1819 字／0 腳註／2026-04-01／首作者 YiChengLu
-- [ ] [小綠人](../../knowledge/Lifestyle/小綠人.md) — 1848 字／0 腳註／2026-03-24
-- [ ] [生態多樣性](../../knowledge/Nature/生態多樣性.md) — 1851 字／0 腳註／2026-03-21
-- [ ] [台灣海鮮文化](../../knowledge/Food/台灣海鮮文化.md) — 1870 字／0 腳註／2026-03-20
-- [ ] [台灣現代詩](../../knowledge/Art/台灣現代詩.md) — 1991 字／0 腳註／2026-03-23
-- [ ] [林義傑](../../knowledge/People/林義傑.md) — 2005 字／0 腳註／2026-03-22
-- [ ] [茶文化](../../knowledge/Food/茶文化.md) — 2090 字／0 腳註／2026-03-23
-- [ ] [台灣海洋貿易史](../../knowledge/History/台灣海洋貿易史.md) — 2109 字／0 腳註／2026-03-20
-- [ ] [蔣為文](../../knowledge/People/蔣為文.md) — 2131 字／0 腳註／2026-03-23
-- [ ] [台灣海岸地形與海洋地景](../../knowledge/Geography/台灣海岸地形與海洋地景.md) — 2139 字／0 腳註／2026-03-24
-- [ ] [台灣森林開發史](../../knowledge/History/台灣森林開發史.md) — 2148 字／0 腳註／2026-03-25／首作者 YiChengLu
-- [ ] [台灣回收與資源循環文化](../../knowledge/Lifestyle/台灣回收與資源循環文化.md) — 2148 字／0 腳註／2026-03-23
-- [ ] [台灣騎樓文化與街景](../../knowledge/Lifestyle/台灣騎樓文化與街景.md) — 2175 字／0 腳註／2026-03-20
-- [ ] [台灣數位影像與動畫產業](../../knowledge/Technology/台灣數位影像與動畫產業.md) — 2222 字／0 腳註／2026-03-20
-- [ ] [AI人工智慧產業](../../knowledge/Technology/AI人工智慧產業.md) — 2263 字／0 腳註／2026-03-20
-- [ ] [台灣中小企業與隱形冠軍](../../knowledge/Economy/台灣中小企業與隱形冠軍.md) — 2314 字／0 腳註／2026-03-24
-- [ ] [台灣志工文化與公益參與](../../knowledge/Society/台灣志工文化與公益參與.md) — 2336 字／0 腳註／2026-03-28
-- [ ] [台灣環境運動史](../../knowledge/Nature/台灣環境運動史.md) — 2337 字／0 腳註／2026-03-20
-- [ ] [台灣迷因](../../knowledge/Culture/台灣迷因.md) — 2382 字／0 腳註／2026-03-24
-- [ ] [台灣全齡共融旅遊與生活文化](../../knowledge/Society/台灣全齡共融旅遊與生活文化.md) — 2409 字／0 腳註／2026-03-23（2026-10-09 巡邏止血後 13 腳註，重寫條目見上方 EVOLVE）
-- [ ] [台灣垃圾車音樂](../../knowledge/Lifestyle/台灣垃圾車音樂.md) — 2456 字／0 腳註／2026-03-24
-- [ ] [FAB DAO與百岳計畫](../../knowledge/Art/FAB%20DAO與百岳計畫.md) — 2463 字／0 腳註／2026-03-24
-- [ ] [台灣素食文化](../../knowledge/Food/台灣素食文化.md) — 2487 字／3 腳註／2026-03-19
-
-**Tier C1 — 2026-05-13 人物 stub 批（11 篇，⏸️ 需哲宇拍板方向）**:
-
-- [ ] [肌肉山山](../../knowledge/People/肌肉山山.md) — 526 字／0 腳註／2026-05-13
-- [ ] [朴旻曙](../../knowledge/People/朴旻曙.md) — 578 字／1 腳註／2026-05-13
-- [ ] [邊荷律](../../knowledge/People/邊荷律.md) — 769 字／1 腳註／2026-05-13
-- [ ] [南珉貞](../../knowledge/People/南珉貞.md) — 815 字／1 腳註／2026-05-13
-- [ ] [安芝儇](../../knowledge/People/安芝儇.md) — 696 字／2 腳註／2026-05-13
-- [ ] [李雅英](../../knowledge/People/李雅英.md) — 895 字／1 腳註／2026-05-13
-- [ ] [李珠珢](../../knowledge/People/李珠珢.md) — 962 字／1 腳註／2026-05-13
-- [ ] [李晧禎](../../knowledge/People/李晧禎.md) — 874 字／2 腳註／2026-05-13
-- [ ] [李多慧](../../knowledge/People/李多慧.md) — 1278 字／1 腳註／2026-05-13
-- [ ] [金針菇](../../knowledge/People/金針菇.md) — 1009 字／3 腳註／2026-05-13
-- [ ] [朴星垠](../../knowledge/People/朴星垠.md) — 866 字／4 腳註／2026-05-13
-
-**Tier C2 — 台南小吃貢獻者批（jinnshuchang 7/02，4 篇，素材共創候選）**:
-
-- [ ] [豬心冬粉](../../knowledge/Food/豬心冬粉.md) — 1309 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [虱目魚粥](../../knowledge/Food/虱目魚粥.md) — 1402 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [牛肉湯](../../knowledge/Food/牛肉湯.md) — 1468 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [鱔魚意麵](../../knowledge/Food/鱔魚意麵.md) — 1473 字／0 腳註／2026-07-02／首作者 jinnshuchang
-
-**Tier C3 — 台灣企業早期薄檔（4 篇，併 series 深化節奏）**:
-
-- [ ] [台灣企業：日月光半導體](../../knowledge/Economy/台灣企業：日月光半導體.md) — 2179 字／0 腳註／2026-03-21／首作者 ?
-- [ ] [台灣企業：長榮海運](../../knowledge/Economy/台灣企業：長榮海運.md) — 2219 字／0 腳註／2026-03-24／首作者 ?
-- [ ] [台灣企業：廣達電腦](../../knowledge/Economy/台灣企業：廣達電腦.md) — 2311 字／0 腳註／2026-03-21／首作者 ?
-- [ ] [台灣企業：聯發科技](../../knowledge/Economy/台灣企業：聯發科技.md) — 2486 字／0 腳註／2026-03-25／首作者 ?
+- **Tier A — 高知名度 × 嚴重單薄（原 12 篇，洪醒夫已完成，剩 11）**：[何飛鵬](../../knowledge/People/何飛鵬.md)、[葉丙成](../../knowledge/People/葉丙成.md)、[江蕙](../../knowledge/People/江蕙.md)、[陳偉殷](../../knowledge/People/陳偉殷.md)、[李梅樹](../../knowledge/People/李梅樹.md)、[李遠哲](../../knowledge/People/李遠哲.md)、[馬偕](../../knowledge/People/馬偕.md)、[PTT批踢踢](../../knowledge/Technology/PTT批踢踢.md)、[呂秀蓮](../../knowledge/People/呂秀蓮.md)、[蔡依林](../../knowledge/People/蔡依林.md)、[林懷民](../../knowledge/People/林懷民.md)
+- **Tier B — 早期批次單薄（38 篇）**：[黃國珍](../../knowledge/People/黃國珍.md)、[朱一貴](../../knowledge/People/朱一貴.md)、[湖口營區與勝利路記憶](../../knowledge/History/湖口營區與勝利路記憶.md)、[漯底山](../../knowledge/Geography/漯底山.md)、[Ray](../../knowledge/People/Ray.md)、[巧固球](../../knowledge/Culture/巧固球.md)、[台灣鳥類窗殺議題](../../knowledge/Nature/台灣鳥類窗殺議題.md)、[台灣乖乖文化](../../knowledge/Culture/台灣乖乖文化.md)、[台灣動畫代工](../../knowledge/Economy/台灣動畫代工.md)、[擲筊](../../knowledge/Culture/擲筊.md)、[台灣島嶼博物學](../../knowledge/Nature/台灣島嶼博物學.md)、[台灣諧音禁忌文化](../../knowledge/Culture/台灣諧音禁忌文化.md)、[媽祖與大道公的傳說](../../knowledge/Culture/媽祖與大道公的傳說.md)、[台灣醬料與調味](../../knowledge/Food/台灣醬料與調味.md)、[自助餐阿姨的謎之目測精算能力](../../knowledge/Society/自助餐阿姨的謎之目測精算能力.md)、[蘭嶼生態系](../../knowledge/Nature/蘭嶼生態系.md)、[小綠人](../../knowledge/Lifestyle/小綠人.md)、[生態多樣性](../../knowledge/Nature/生態多樣性.md)、[台灣海鮮文化](../../knowledge/Food/台灣海鮮文化.md)、[台灣現代詩](../../knowledge/Art/台灣現代詩.md)、[林義傑](../../knowledge/People/林義傑.md)、[茶文化](../../knowledge/Food/茶文化.md)、[台灣海洋貿易史](../../knowledge/History/台灣海洋貿易史.md)、[蔣為文](../../knowledge/People/蔣為文.md)、[台灣海岸地形與海洋地景](../../knowledge/Geography/台灣海岸地形與海洋地景.md)、[台灣森林開發史](../../knowledge/History/台灣森林開發史.md)、[台灣回收與資源循環文化](../../knowledge/Lifestyle/台灣回收與資源循環文化.md)、[台灣騎樓文化與街景](../../knowledge/Lifestyle/台灣騎樓文化與街景.md)、[台灣數位影像與動畫產業](../../knowledge/Technology/台灣數位影像與動畫產業.md)、[AI人工智慧產業](../../knowledge/Technology/AI人工智慧產業.md)、[台灣中小企業與隱形冠軍](../../knowledge/Economy/台灣中小企業與隱形冠軍.md)、[台灣志工文化與公益參與](../../knowledge/Society/台灣志工文化與公益參與.md)、[台灣環境運動史](../../knowledge/Nature/台灣環境運動史.md)、[台灣迷因](../../knowledge/Culture/台灣迷因.md)、[台灣全齡共融旅遊與生活文化](../../knowledge/Society/台灣全齡共融旅遊與生活文化.md)、[台灣垃圾車音樂](../../knowledge/Lifestyle/台灣垃圾車音樂.md)、[FAB DAO與百岳計畫](../../knowledge/Art/FAB%20DAO與百岳計畫.md)、[台灣素食文化](../../knowledge/Food/台灣素食文化.md)
+- **Tier C1 — 2026-05-13 人物 stub 批（11 篇，⏸️ 需哲宇拍板方向）**：[肌肉山山](../../knowledge/People/肌肉山山.md)、[朴旻曙](../../knowledge/People/朴旻曙.md)、[邊荷律](../../knowledge/People/邊荷律.md)、[南珉貞](../../knowledge/People/南珉貞.md)、[安芝儇](../../knowledge/People/安芝儇.md)、[李雅英](../../knowledge/People/李雅英.md)、[李珠珢](../../knowledge/People/李珠珢.md)、[李晧禎](../../knowledge/People/李晧禎.md)、[李多慧](../../knowledge/People/李多慧.md)、[金針菇](../../knowledge/People/金針菇.md)、[朴星垠](../../knowledge/People/朴星垠.md)
+- **Tier C2 — 台南小吃貢獻者批（jinnshuchang 7/02，4 篇，素材共創候選）**：[豬心冬粉](../../knowledge/Food/豬心冬粉.md)、[虱目魚粥](../../knowledge/Food/虱目魚粥.md)、[牛肉湯](../../knowledge/Food/牛肉湯.md)、[鱔魚意麵](../../knowledge/Food/鱔魚意麵.md)
+- **Tier C3 — 台灣企業早期薄檔（4 篇，併 series 深化節奏）**：[台灣企業：日月光半導體](../../knowledge/Economy/台灣企業：日月光半導體.md)、[台灣企業：長榮海運](../../knowledge/Economy/台灣企業：長榮海運.md)、[台灣企業：廣達電腦](../../knowledge/Economy/台灣企業：廣達電腦.md)、[台灣企業：聯發科技](../../knowledge/Economy/台灣企業：聯發科技.md)
+- **2026-11-04 by twmd-desk（全面進化）**：〈鐵牛杰哥〉〈鱔魚意麵〉〈地瓜球〉〈這群人〉〈齊柏林〉五篇依 GA／SC 資料走完 REWRITE EVOLVE（分席審稿＋分段查證）並上線，下次重算 census 會自動移出 D 級。
 
 ### 台灣各大技術 Conference NEW — 從 COSCUP 到 g0v，開源島嶼的年度遷徙
 
@@ -2735,6 +2794,22 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 專題頁屬 UI/資料頁工程（Mode 4 設計報告先行），非單純 REWRITE；國中會考條目走一般 REWRITE
   - **2026-10-08 心跳收窄**：專題頁那半已由 PR #1453 的 `/exams/` 頁實現（2026-09-10 上線），後續缺件（十二語、入口、一手來源）併在「/exams/ 學測專題 feature」那條；本條只剩國中會考單篇，寫好後掛進 `/exams/`
 - **Reference**: Discussion #104 留言、同 Society 分類的〈學測〉、src/templates/budget（專題頁先例）
+
+### 戰鬥陀螺 EVOLVE — 十二條來源的網址在投稿途中遺失，逐句腳註還沒接回去
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/戰鬥陀螺.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-11-03 by twmd-maintainer-daily（讀者菜國人回報格式錯誤，[issue #1951](https://github.com/frank890417/taiwan-md/issues/1951)）
+- **Notes**:
+  - 2026-08-19 投稿時貼的是渲染後的文字，Markdown 整個沒進檔案。11-03 已還原標題階層、引言卡、兩個資料模組與兩張 Commons 圖（commit `a63cd7340`），**但十二條來源的網址與正文的 `[^N]` 標記救不回來**：原始 commit 裡就沒有
+  - 要做的兩件：(a) 十二條來源逐條找回網址並 fetch 驗證（REFLEXES #75，不可憑標題猜網址）(b) 依來源說明把 `[^N]` 接回對應句子，接的時候要驗「這個來源真的支持這一句」（REFLEXES #102）
+  - 文末目前有一段但書告訴讀者網址待補，腳註補回後那段要拿掉
+  - 順便：正文站內連結 0 條、沒有 iframe 影片素材、字數 3,181 低於 4,500 門檻
+  - 十二語譯文帶著同樣的無結構母稿翻過一次，母稿改動後轉 stale，由翻譯產線重跑；重跑完回頭確認 `heading-presence` 那十二筆 WARN 歸零
+- **Reference**: issue #1951 / commit `a63cd7340` / scripts/tools/lib/article_health/checks/heading_presence.py
 
 ## 🚧 In-Progress
 

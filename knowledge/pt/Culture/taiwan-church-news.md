@@ -2,27 +2,31 @@
 title: 'Taiwan Church News: um jornal que viveu cento e quarenta anos, e o dia em que foi confiscado'
 description: 'Em 1885, o missionário britânico Thomas Barclay imprimiu o primeiro jornal de Taiwan em Tainan usando pe̍h-ōe-jī. Este jornal foi suspenso pelo governo japonês, proibido de usar a língua materna pelo KMT, e em 1987 teve toda a sua tiragem apreendida pelo Comando de Guarda por reportar o incidente 228. Cada vez que foi suprimido, ele voltou à vida. Em 2025, completou 140 anos, e seu suplemento discute IA generativa.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '媒體與出版'
 tags:
-  - 'Mídia'
-  - 'Taiwan Church News'
-  - 'Pe̍h-ōe-jī'
-  - 'Igreja Presbiteriana'
-  - 'Liberdade de expressão'
-  - 'Incidente 228'
-  - 'Taiwanês'
-  - 'Política linguística'
-readingTime: '10'
-lastVerified: '2026-04-29'
-lastHumanReview: 'false'
+  [
+    'Mídia',
+    'Taiwan Church News',
+    'Pe̍h-ōe-jī',
+    'Igreja Presbiteriana',
+    'Liberdade de expressão',
+    'Incidente 228',
+    'Taiwanês',
+    'Política linguística',
+  ]
+subcategory: '媒體與出版'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-29
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/台灣教會公報.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3439ffa9774025fa'
 sourceBodyHash: 'sha256:2e121ca67feccc95'
-translatedAt: '2026-07-25T01:31:54+08:00'
+translatedAt: '2026-11-05T06:27:26.998647+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 12 de junho de 1885 (11.º ano de Guangxu da dinastia Qing), o missionário da Igreja Presbiteriana Britânica Thomas Barclay lançou em Tainan o _Taiwan-fu City Church News_ (《台灣府城教會報》), impresso em romanização da igreja (pe̍h-ōe-jī) — o primeiro jornal da história de Taiwan[^1].

@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從1987年1月那個溫度數字切入——93K不只是一個物理數字，是超導體史上跨越液氮門檻的那一天。"
-#   whats_excluded: "BCS理論細節；歷年學術論文清單；超導應用工程規格"
-#   where_it_hedges: "諾貝爾候選資格為外界推測而非官方確認；2026 Tc=151K 以中時報導為準"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T23:14:09.677029+00:00'
 ---
 
 # Chu Ching-wu : co-découvreur en 1987 de la supraconductivité à haute température critique Tc = 93 K, franchissant le seuil de l'azote liquide

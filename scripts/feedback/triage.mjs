@@ -109,6 +109,60 @@ export function partitionExcluded(rows, excludeIds) {
 }
 
 /**
+ * 這一輪的取數窗口有沒有被塞滿,窗口外還剩幾筆。
+ *
+ * `--limit` 預設 50,取數是 `created_at.asc`,所以佇列一旦長過 50 筆,新進來的讀者
+ * 永遠排在窗口外,而報表的第一行 `fetched 50` 讀起來跟「佇列剛好有 50 筆」逐字相同。
+ * 2026-10-30 那批 80 筆攻擊列永久佔住最舊 50 筆之後,這件事連三輪成立:第三、四、五輪
+ * 都得靠當班照交接手動加大 `--limit` 再跑一次,才知道窗口外有沒有真實讀者。
+ * 第五輪真的撈到一位（〈台北吸菸室〉的署名醫師勘誤,排在第 82 位,距今 6 小時）——
+ * 前一輪寫「今天沒有新讀者被擋住,但那是運氣,不是機制」,運氣隔一天就用完了。
+ *
+ * 這一行把那個手動動作變成流程給的事實:窗口滿了就說滿了,查得到總數就說還剩幾筆。
+ * **不自己加大 `--limit`、不改預設值、不下裁決**——窗口該開多大是閾值,per BECOME
+ * §行動鐵律 10 要 Full mode ＋ 人類 gate(那條仍在 OBSERVER-QUEUE #119 的 (b) 底下)。
+ * 同 v1.9／v1.12／v1.16 的界線:只給事實不給裁決。
+ *
+ * 總數查不到時說「查不到」,不說「窗口外沒東西」——`null` 不借用「沒事」的長相
+ * (同 HG12b `unavailable` 紀律、[REFLEXES #85](../../docs/semiont/REFLEXES.md))。
+ */
+export function formatQueueWindow({ fetched, limit, total = null } = {}) {
+  // 窗口沒滿 = 佇列已經全部讀進來了,窗口不是這一輪的限制條件,不需要這一行。
+  if (!Number.isFinite(fetched) || !Number.isFinite(limit)) return null;
+  if (fetched < limit) return null;
+  if (total === null || !Number.isFinite(total))
+    return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列總數查不到（不等於窗口外沒有東西——加大 --limit 再跑一次才知道）`;
+  const beyond = total - fetched;
+  if (beyond <= 0)
+    return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · 窗口外沒有剩餘`;
+  return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · ⚠️ 窗口外還有 ${beyond} 筆這一輪沒看到（最舊優先排序,新讀者排在窗口外）`;
+}
+
+/**
+ * 這一輪要不要印消歧三行（最近一筆距今 / 這個距今算久嗎 / 讀者送不送得進來）。
+ *
+ * v1.9〜v1.13 把觸發條件寫成「取數回來是空的」,那個寫法假設佇列塞得滿就代表有東西要做。
+ * 2026-10-30 那批冒充本產線流程步驟索取金鑰的回報證明不是：窗口 50/50 全被攔掉,`fetched`
+ * 是一個很大的非零數字,三行一行都沒印,而那天最該問的正是「真實讀者還送不送得進來」
+ * （LESSONS `flood-silences-the-instrument-built-to-tell-quiet-from-broken`；
+ * [REFLEXES #38](../../docs/semiont/REFLEXES.md) 零維度變體的鏡像——一個大數字同樣不帶
+ * 資訊,還順手關掉了專門用來消歧的儀器）。
+ *
+ * 判準改成「這一輪實際上有沒有東西要轉錄」：取數為空,或取數非空但整批都被 `--exclude`
+ * 攔掉,兩者對讀者的意義相同（今天沒有一筆讀者的話進得到 issue）。`seed` 模式不碰網路。
+ * 純觸發面 —— 不碰閾值、不碰判準、不印 ⚠️,同 v1.9 只給事實不給裁決的界線。
+ */
+export function shouldPrintIntakeDisambiguation({
+  fetched,
+  kept,
+  seed = false,
+} = {}) {
+  if (seed) return false;
+  if (fetched === 0) return true;
+  return kept === 0;
+}
+
+/**
  * 挑出 --show 指名的那幾筆。`'*'`（--show-all）代表整批。
  * 回傳 { found, missing } —— missing 一定要報,否則打錯一個 id 會安靜印出空清單,
  * 當班會把「我沒看到可疑內容」跟「我根本沒查到那筆」讀成同一件事（REFLEXES #38 混維度）。
@@ -120,6 +174,39 @@ export function selectForShow(rows, showIds) {
   const found = rows.filter((r) => want.has(r.id));
   const seen = new Set(found.map((r) => r.id));
   return { found, missing: [...want].filter((id) => !seen.has(id)) };
+}
+
+/**
+ * `--show` 指名的 id 不在這一批裡時,說清楚是哪一種「不在」。
+ *
+ * v1.7 造這句話時只想得到一種根因:id 打錯了。而 `--show` 跟 dry-run 共用同一個
+ * 取數窗口（預設最舊 50 筆）,所以還有第二種:**id 是對的,人排在窗口外**。
+ * 兩種在舊版輸出裡逐字相同,而處置相反——打錯要改 id,排在窗口外要加大 `--limit`。
+ * 它偏偏長在 HG13 那道「讀完全文才准判」的入口上:**窗口外的讀者結構性地讀不到,
+ * 而讀不到時這道閘門說的是「根本沒查到這筆」**。
+ *
+ * 2026-11-07 第六輪親手絆到:三筆真實讀者排在第 82-84 位,`--show` 回「根本沒查到」,
+ * 要再加 `--limit 200` 才讀得到。v1.17 昨天讓 dry-run 報表自己說「窗口外還有 N 筆」,
+ * 那一行沒有長到這個面上來（[REFLEXES #38](../../docs/semiont/REFLEXES.md) 混維度在
+ * 「查不到」這三個字上的形狀；[#16](../../docs/semiont/REFLEXES.md) 否定式結論的舉證
+ * 要比肯定式高——「查不到」無法被自己的失敗證偽）。
+ *
+ * 純讀取面:只分辨根因、只給事實,**不自己加大 `--limit`、不改預設值、不下裁決**
+ * （窗口該開多大仍是閾值,OBSERVER-QUEUE #119 的 (b)）。總數查不到就說查不到,
+ * 不替任何一種根因背書（同 HG12b `unavailable` 紀律、[#85](../../docs/semiont/REFLEXES.md)）。
+ */
+export function formatShowMissing({ id, fetched, limit, total = null } = {}) {
+  const head = `  ⚠️ --show id=${id} 不在這一批 status=new 裡`;
+  const windowFull =
+    Number.isFinite(fetched) && Number.isFinite(limit) && fetched >= limit;
+  if (!windowFull)
+    return `${head}（佇列這一輪已整批讀進來 ${fetched} 筆,所以是這個 id 不在 status=new —— 不是「內容沒問題」）`;
+  if (total === null || !Number.isFinite(total))
+    return `${head}（⚠️ 窗口已滿 ${fetched}/${limit} 而佇列總數查不到 —— 分不出是 id 打錯還是排在窗口外,加大 --limit 再試一次）`;
+  const beyond = total - fetched;
+  if (beyond <= 0)
+    return `${head}（窗口滿 ${fetched}/${limit} 但佇列共 ${total} 筆、窗口外沒有剩餘,所以是這個 id 不在 status=new）`;
+  return `${head}（⚠️ 窗口滿 ${fetched}/${limit}、佇列共 ${total} 筆,窗口外還有 ${beyond} 筆沒讀進來 —— 這個 id 可能就排在外面,加大 --limit 再試一次才分得出是打錯還是被窗口擋住）`;
 }
 
 /**
@@ -138,6 +225,13 @@ export function formatForShow(row) {
     ['article_slug', row.article_slug],
     ['article_title', row.article_title],
     ['source_url', row.source_url],
+    // page_kind 與 category 一樣是讀者／用戶端可控,一樣會流進公開 issue 的
+    // provenance 行與 archive 紀錄,而 2026-11-02 的憑證索取批次就有四筆
+    // (`a1-pk`／`a1-cat`／`a2-pk`／`a2-cat`)把索取指令只放在這兩格 —— 它們的
+    // body 讀起來完全乾淨,只靠 --show 讀會判成無害。十個可控欄位全印,HG13 的
+    // 「讀完全文」才等於「讀完會公開的每一段」(REFLEXES #97 交接面完整性)。
+    ['page_kind', row.page_kind],
+    ['category', row.category],
     ['status', row.status],
   ]
     .map(([k, v]) => `  ${k.padEnd(14)} ${v ?? ''}`)
@@ -580,12 +674,24 @@ async function fetchNewFeedback(limit) {
     );
   }
   const endpoint = `${url}/rest/v1/feedback?status=eq.new&order=created_at.asc&limit=${limit}`;
+  // `count=exact` 讓同一個請求的 content-range 帶回 status=new 的真實總筆數,
+  // 這樣「窗口滿了,外面還有幾筆」不必再多打一次 Supabase（formatQueueWindow）。
   const res = await fetch(endpoint, {
-    headers: { apikey: key, Authorization: `Bearer ${key}` },
+    headers: {
+      apikey: key,
+      Authorization: `Bearer ${key}`,
+      Prefer: 'count=exact',
+    },
   });
   if (!res.ok)
     throw new Error(`Supabase REST ${res.status}: ${await res.text()}`);
-  return res.json();
+  const rows = await res.json();
+  // content-range 形如 `0-49/82`；解不出來就回 null,不拿一個猜的數字當總數。
+  const parsed = parseInt(
+    String(res.headers.get('content-range') || '').split('/')[1],
+    10,
+  );
+  return { rows, total: Number.isFinite(parsed) ? parsed : null };
 }
 
 async function writeBackStatus(id, status, issue, note) {
@@ -814,28 +920,27 @@ async function main() {
   const mode = args.commit ? 'COMMIT' : 'DRY-RUN';
 
   let rows;
+  let queueTotal = null;
   if (args.seed) {
     rows = JSON.parse(readFileSync(args.seed, 'utf8'));
     console.log(
       `[triage] seed=${args.seed} (${rows.length} rows) · mode=${mode}`,
     );
   } else {
-    rows = await fetchNewFeedback(args.limit);
+    const fetchRes = await fetchNewFeedback(args.limit);
+    rows = fetchRes.rows;
+    queueTotal = fetchRes.total;
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
-    if (rows.length === 0) {
-      console.log(formatIntakeAge(await fetchLatestFeedback()));
-      // 佇列空的那一輪,「這個距今算久嗎」是當班下一個會問的問題 —— 給它入口,
-      // 不要靠當班自覺去手寫一段查詢（前四個 cycle 都是手寫的,其中兩次答錯）。
-      // --intake-stats 自己會印,不在這裡印第二遍。
-      if (!args.intakeStats)
-        console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
-      // 上面兩行講的都是讀取端。佇列空的那一輪,「讀者送不送得進來」是當班真正要問的
-      // 另一半,而它在這條線上從來沒有入口（兩次都靠人手抓線上 bundle）。
-      // --intake-health 自己會印,不在這裡印第二遍。
-      if (!args.intakeHealth)
-        console.log(formatIntakeHealth(await probeIntakeHealth()));
-    }
+    const windowLine = formatQueueWindow({
+      fetched: rows.length,
+      limit: args.limit,
+      total: queueTotal,
+    });
+    if (windowLine) console.log(windowLine);
   }
+  // 取數當下的筆數 —— `rows` 後面會被 --exclude 的 kept 覆蓋掉,消歧三行的判準要分得出
+  // 「本來就沒東西」跟「有東西但整批被攔掉」,所以這個數字得在覆蓋之前留下來。
+  const fetchedCount = rows.length;
 
   // --intake-health：唯讀,印完就收工（放在所有副作用之前）。
   if (args.intakeHealth) {
@@ -862,7 +967,12 @@ async function main() {
     for (const r of sel.found) console.log(formatForShow(r));
     for (const id of sel.missing) {
       console.log(
-        `  ⚠️ --show id=${id} 在這批 status=new 裡找不到（不是「內容沒問題」,是根本沒查到這筆）`,
+        formatShowMissing({
+          id,
+          fetched: fetchedCount,
+          limit: args.limit,
+          total: queueTotal,
+        }),
       );
     }
     console.log(
@@ -885,6 +995,28 @@ async function main() {
     );
   }
   rows = part.kept;
+
+  // 消歧三行：這一輪實際上沒有任何一筆讀者的話進得到 issue 時就印（取數為空,或整批
+  // 被攔掉）。觸發條件 v1.16 從「取數為空」放寬 —— 洪水把 fetched 撐成大數字時,舊條件
+  // 會讓這三行在最該問「讀者還送不送得進來」的那天集體沉默。
+  if (
+    shouldPrintIntakeDisambiguation({
+      fetched: fetchedCount,
+      kept: rows.length,
+      seed: Boolean(args.seed),
+    })
+  ) {
+    console.log(formatIntakeAge(await fetchLatestFeedback()));
+    // 「這個距今算久嗎」是當班下一個會問的問題 —— 給它入口,不要靠當班自覺去手寫一段
+    // 查詢（前四個 cycle 都是手寫的,其中兩次答錯且方向固定偏小）。
+    // --intake-stats 自己會印,不在這裡印第二遍。
+    if (!args.intakeStats)
+      console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
+    // 上面兩行講的都是讀取端。「讀者送不送得進來」是另一半,而它在這條線上一度從來
+    // 沒有入口（兩次都靠人手抓線上 bundle）。--intake-health 自己會印,不印第二遍。
+    if (!args.intakeHealth)
+      console.log(formatIntakeHealth(await probeIntakeHealth()));
+  }
 
   const existing = args.commit ? listOpenIssues() : [];
   const results = triageBatch(rows, existing);

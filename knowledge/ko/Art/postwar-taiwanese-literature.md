@@ -2,6 +2,7 @@
 title: '전후 대만 문학: 말할 수 없는 것에서, 어떻게 말하는지를 배우기까지 (1945-1987)'
 description: "1945년 8월, 예스타오는 스무 살에 일본 육군에서 제대해 타이난으로 돌아왔다. 원고지를 펼쳤지만 한자 한 글자도 쓸 수 없었다. 이 백지는 그를 42년 기다리게 된다. 그 사이에는 실어, 투옥, 논쟁, 우회를 배우는 시간이 있었다. 1987년 2월, 그는 232쪽짜리 책을 펴냈다. 책 제목은 '대만' 두 글자뿐이었다."
 date: 2026-04-26
+category: 'Art'
 tags:
   [
     '전후문학',
@@ -16,16 +17,15 @@ tags:
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
-category: 'Art'
-readingTime: 18
+featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
+researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ccb549fdb85f9bc6'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-05-02T08:51:00+08:00'
-featured: true
+translatedAt: '2026-11-02T12:31:48.014980+00:00'
 ---
 
 > **30초 개요**: 전후 42년(1945-1987), 대만 문단은 '말할 수 없는' 조건 속에 살았습니다. 일본어로 말할 수 없고, 2·28을 말할 수 없고, 대만이 중국 외의 무엇이라고 말할 수 없으며, 향토를 말할 수 없었습니다. 그러나 모든 세대의 작가들은 서로 다른 우회로 '어떻게 말할지'를 배웠습니다. 예스타오는 1945년의 그 백지에서, 1987년 232쪽짜리 《대만 문학사 강(綱)》까지 가는 동안 실어, 3년의 투옥, 십여 년의 침묵, 1965년 〈대만의 향토문학〉, 1985년 "땅이 없는데 어떻게 문학이 있겠는가"를 거쳤습니다. 바이셴융은 방공호에서 카프카를 읽었습니다. 왕원싱은 7년에 걸쳐 욕먹은 《가변(家變)》을 썼습니다. 린하이인은 시 한 편 때문에 《연합보》 부간 주편직을 사임했습니다. 위광중은 "이리가 왔다"라고 외치며 향토문학 논쟁을 일으켰습니다. 리앙은 1983년 린스에게 돼지 잡는 칼을 들고 남편을 토막내게 만들었습니다. 이 42년이 남긴 것은 한 세트의 우회 언어학입니다.
@@ -158,18 +158,16 @@ featured: true
 
 ---
 
-## 더 읽어보기
+## 연장 독서
 
-- [계엄 해제 후 대만 문학](/ko/art/post-martial-law-taiwanese-literature) — 1987년 계엄 해제 이후 2000년까지의 본토화, 젠더, 모어 다원의 분출
-- [동시대 대만 문학](/ko/art/contemporary-taiwanese-literature) — 21세기 우밍이의 국제화, 린이한, 디지털 물결
-- [대만 문학사](/ko/art/history-of-taiwanese-literature) — 네덜란드 통치, 명청, 일제, 전후, 동시대까지 전체 맥락
-- [일제 시기 문학](/ko/art/taiwanese-literature-during-japanese-rule) — 라이허, 뤼허뤄, 장원환, 양쿠이의 일제 출발점, 전후 실어의 반대편
-- [린량](/ko/people/lin-liang-childrens-literature) — 전후 도해해 대만에 온 아동 문학의 정초자, 국어일보 57년 경력, '얕은 말의 예술'이 전후 여러 세대 대만 아이들의 문학 출발점을 정의
-- [백색 테러](/history/白色恐怖) — 예스타오 투옥, 양쿠이 뤼다오, 뤼허뤄 루쿠의 정치적 배경
-- [2·28 사건](/ko/history/228-incident) — 1947년 문단에 미친 충격(왕톈덩, 양쿠이, 예타오)
-- [계엄 시기](/ko/history/martial-law-era) — 1949-1987년 문단 활동의 정치적 조건
-
----
+- [계엄 해제 후 타이완 문학](/ko/art/post-martial-law-taiwanese-literature) — 1987년 계엄 해제 이후부터 2000년까지의 토착화, 성별, 모어(母語)의 다원성 폭발
+- [현대 타이완 문학](/ko/art/contemporary-taiwanese-literature) — 21세기 우밍이(吳明益)의 국제화, 린이한(林奕含), 디지털 물결
+- [타이완 문학사](/ko/art/history-of-taiwanese-literature) — 네덜란드 통치기, 명청 시대, 일제 강점기, 전후부터 현대에 이르는 전체 맥락
+- [일제 강점기 문학](/ko/art/taiwanese-literature-during-japanese-rule) — 라이허(賴和), 뤼허뤄(呂赫若), 장원환(張文環), 양쿠이(楊逵)의 일제 강점기 시작점은 전후 실어(失語) 상태의 또 다른 이면이다
+- [린량(林良)](/ko/people/lin-liang-childrens-literature) — 전후 바다를 건너 타이완으로 온 아동 문학의 기틀을 마련한 인물, 《궈위르 리바오(國語日報)》 57년 경력, 「쉬운 언어의 예술」은 전후 몇 세대 타이완 아이들의 문학적 시작점을 정의했다
+- [백색 테러](/ko/history/taiwan-white-terror) — 예스타오(葉石濤)의 투옥, 양쿠이의 뤼다오 유배, 뤼허뤄의 루쿠 사건 등 정치적 배경
+- [2·28 사건](/ko/history/228-incident) — 1947년 문단에 가해진 충격 (왕톈덩, 양쿠이, 예스타오)
+- [계엄 시기](/ko/history/martial-law-era) — 1949~1987년 문단 활동의 정치적 조건
 
 ## 참고 자료
 

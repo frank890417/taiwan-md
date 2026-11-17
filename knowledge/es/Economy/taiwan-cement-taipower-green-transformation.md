@@ -1,27 +1,27 @@
 ---
-title: 'Taiwan Cement: La leyenda de la transformación verde de la primera empresa cotizada de Taiwán'
-description: 'En 1962, la Bolsa de Valores de Taiwán nació para ella; el código bursátil 1101 simboliza el origen del mercado de valores taiwanés. Tras 76 años bajo tres generaciones de la familia Koo, Taiwan Cement ha sido testigo con sus hornos de cemento de los milagros de la construcción en Taiwán, y hoy se transforma en empresa verde para enfrentar la era de la neutralidad de carbono.'
+title: 'TCC: La transformación verde de la primera empresa que cotizó en bolsa en Taiwán'
+description: 'La Bolsa de Valores de Taiwán nació en 1962 gracias a ella, y su código de acciones 1101 simboliza el origen del mercado de valores taiwanés. Tras 76 años de gestión por tres generaciones de la familia Ku, TCC ha sido testigo del milagro de la construcción en Taiwán a través de sus hornos de cemento; hoy se transforma en una empresa verde para enfrentar la era de la neutralidad de carbono.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
-    'Economy',
-    'Empresas',
+    'Economía',
+    'Empresa',
     'Industria del cemento',
     'Materiales de construcción',
-    'Privatización de empresas estatales',
+    'Privatización',
     'Transformación verde',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-05-15T15:39:40+08:00'
+translatedAt: '2026-11-02T01:10:15.389444+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -108,16 +108,16 @@ La industria cementera representa aproximadamente el 7-8% de las emisiones globa
 
 ## Referencias
 
-[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Historia completa de Taiwan Cement, incluyendo su fundación en 1946, privatización en 1954 y salida a bolsa en 1962.
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Historia completa de TCC, que incluye su fundación en 1946, la privatización en 1954 y su salida a bolsa en 1962.
 
-[^2]: [Informe anual 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/) — Datos financieros y de negocio más recientes del grupo Taiwan Cement.
+[^2]: [Informe Anual 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/) — Datos financieros y operativos más recientes del Grupo TCC.
 
-[^3]: [CommonWealth Magazine: La empresa cotizada más antigua de Taiwán, Taiwan Cement opera en 13 países con 27 filiales y se reinventa "dejando el cemento"](https://www.cw.com.tw/article/5130723) — Reportaje sobre la estrategia de transformación verde y diversificación de Taiwan Cement.
+[^3]: [天下雜誌: La empresa que cotiza en bolsa más antigua de Taiwán, TCC, opera en 13 países con 27 filiales y se reinventa mediante la «descementificación»](https://www.cw.com.tw/article/5130723) — Reportaje sobre la estrategia de transformación verde y la diversificación de TCC.
 
-[^4]: [Mirror Media: Recordando a Koo Chen-fu y la innovación en Taiwan Cement — Chang An-ping: transformación total hacia empresa verde](https://www.mirrormedia.mg/story/20210209fin001) — Entrevista sobre la dirección de la transformación verde de Taiwan Cement tras la asunción de Chang An-ping.
+[^4]: [鏡週刊: Recordando a Ku Jen-fu y la innovación en TCC; Chang An-ping: Transformación total hacia una empresa verde](https://www.mirrormedia.mg/story/20210209fin001) — Entrevista sobre el rumbo de la transformación ecológica de TCC tras la sucesión de Chang An-ping.
 
-[^5]: [TEJ (Taiwan Economic Journal): Construyendo el reino del cemento de Taiwán — el viaje de crecimiento de la familia Koo y el grupo Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Registro completo de las tres generaciones de la familia Koo y la trayectoria de gestión de Taiwan Cement.
+[^5]: [TEJ Taiwan Economic Journal: Construyendo el reino del cemento en Taiwán, el viaje de crecimiento de la familia Ku y el Grupo TCC](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Registro completo del contexto empresarial de tres generaciones de la familia Ku y el Grupo TCC.
 
-[^6]: [La unión matrimonial de la familia Koo y la construcción del reino del cemento de Taiwán, expandiéndose a la energía verde — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Registro completo de la privatización de Taiwan Cement en 1954, Lin Bo-shou como primer presidente, Koo Chen-fu como gerente adjunto, y la red de uniones matrimoniales familiares.
+[^6]: [La alianza entre las familias Ku Yen-tzu y Ku Jen-fu estableció el reino del cemento en Taiwán y se expandió hacia la energía verde — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Registro completo de la privatización de TCC en 1954, Lin Po-shou como primer presidente, el cargo de asistente de Ku Jen-fu y las redes de alianzas familiares.
 
-[^7]: [Fallecimiento repentino de Koo Cheng-yun — su cuñado Chang An-ping asume el control del grupo Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirma el fallecimiento de Koo Cheng-yun el 23/1/2017 y la identidad de Chang An-ping como "cuñado" (Koo Huai-ju es la hija menor de Koo Chen-fu). Véase también [Mirror Media: El detrás de escenas del fallecimiento de Koo Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Fallecimiento repentino de Ku Cheng-yun; su cuñado Chang An-ping asume el mando del Grupo TCC — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirmación del fallecimiento de Ku Cheng-yun el 23/01/2017 y la identidad de Chang An-ping como «cuñado» (Ku Huai-ju es la hija menor de Ku Jen-fu). Ver también [鏡週刊: Los detalles tras la muerte repentina de Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

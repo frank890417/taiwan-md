@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-07-26T23:43:24+08:00'
+translatedAt: '2026-11-04T21:35:11.620893+00:00'
 ---
 
 # شيه مينغ ديه: خمسة وعشرون عاماً خلف القضبان، ورفع العلم أخيراً ضد حزبه

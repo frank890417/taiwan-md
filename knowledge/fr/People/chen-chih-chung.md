@@ -182,21 +182,11 @@ Sa propre déclaration date de 2023. Pendant son incarcération, il a publié un
 
 ## Les personnes inéligibles lisent maintenant les bulletins d'autrui
 
+<!-- poll-blackout:start -->
+
 Le 17 août 2026 au matin, il était assis à la table principale d'une conférence de presse où il présentait un sondage sur la course à la mairie de Taïchung.
 
-Le taux de soutien au candidat du Kuomintang Chiang Chi-chen s'élevait à 42,8 %, celui de la candidate du Parti démocrate progressiste Ho Hsin-chun à 36,1 %, soit un écart de 6,7 points de pourcentage. Pour les perspectives d'élection, Chiang Chi-chen obtenait 48,2 % contre 23,6 % pour Ho Hsin-chun. Son commentaire fut : « L'écart entre les deux candidats se réduit, ce qui montre que l'affaire de l'huile toxique a endommagé la position du camp bleu dans la course taïchungaise », et il ajouta : « Taïchung pourrait très bien changer de couleur politique, les perspectives sont prometteuses »[^49].
-
-```tw-dot
-Soutien à la mairie de Taïchung en 2026 (%, intervalle de confiance à 95 %)
-Chiang Chi-chen | 42,8 | 39,9 | 45,7
-Ho Hsin-chun | 36,1 | 33,2 | 39,0
-Source : Nouveau sondage stratégique taïwanais, commanditaire : Fondation Ketagalan, enquête téléphonique du 11 au 13 août 2026
-```
-
-```tw-note
-Remarques
-Le tableau ci-dessus présente l'estimation ponctuelle du soutien et l'intervalle d'erreur d'échantillonnage au niveau de confiance de 95 % (± 2,88 points de pourcentage). L'échantillon valide complété compte 1 159 répondants, l'enquête portant sur les résidents domiciliés à Taïchung, âgés de 20 ans ou plus. L'intervalle a été calculé à partir de la marge d'erreur publiée, dans le but de rappeler que l'estimation ponctuelle n'est pas une valeur certaine.
-```
+<!-- poll-blackout:end -->
 
 L'institut de sondage Nouveau sondage stratégique taïwanais qui a publié ce sondage a été fondé par Koo Kwang-ming en janvier 2010. Le 1er septembre 2016, Koo Kwang-ming a fait don de l'institut à la Fondation Ketagalan, et Chen Chih-chung en a été directeur général depuis lors, jusqu'en août 2026[^50]. Le représentant légal de la Fondation Ketagalan selon l'enregistrement est la députée Chen Ting-fei ; son titre au sein de la fondation est directeur général, ce qui constitue deux positions distinctes[^51].
 

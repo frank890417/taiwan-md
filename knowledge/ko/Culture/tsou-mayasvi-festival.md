@@ -1,28 +1,30 @@
 ---
 title: '鄒族戰祭 Mayasvi：庫巴的火, 전쟁을 되돌려 놓지 않다'
 description: '매년 아리산 다방과 테푸야 사이에서, 쯔오족은 Mayasvi를 통해 신을 맞이하고 노래하며 제례관을 돌며 전쟁의 기억을 부족 공동체의 질서로 전환한다. 전제(戰祭)는 산간 지역의 관광 프로그램이 아니다: 진정한 핵심은 kuba에 있으며, 이는 여전히 족인들이 유지·사용하고 출입 방식을 규정하는 회소이다.'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['쯔오족', '원주민', 'Mayasvi', 'kuba', '제례']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['쯔오족', '원주민', 'Mayasvi', 'kuba', '제례']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-13T20:06:44+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-06T20:59:27.918717+00:00'
 ---
 
-> **30초 요약:** Mayasvi는 보통 '전제(戰祭)'로 번역되지만, 오늘날의 제례는 사수(獵首)나 전쟁을 다시 연기하는 것이 아니다. 이는 kuba——쯔오족의 남성 회소——를 중심으로 각 성씨가 신을 맞이하는 노래·춤·제례관·신을 보내는 과정 사이에서 서로의 책임을 다시 확인하게 한다. 가장 기억할 만한 대조는: 전제가 보존하는 것은 폭력이 아니라, 폭력이 일상생활에서 떠난 후에도 공동체를 어떻게 조직해 왔는가이다.
+**30초 개요:** 마야스비는 보통 '전제(戰祭)'로 번역되지만, 오늘날의 제의는 사냥한 머리를 걸거나 전쟁을 재연하는 것이 아니다. 그것은 쿠바——쯔오족의 남성 회소——를 중심으로, 각 씨족이 영신, 가무, 제옥, 송신 사이에서 서로의 책임을 재확인하게 한다. 가장 기억할 만한 대조는: 전제가 보존하는 것은 폭력이 아니라, 폭력이 이미 일상생활에서 떠난 뒤에 쯔오족이 어떻게 계속해서 공동체를 조직해 나가는가이다.
 
-![쯔오족 전통 춤 공연, 2008년 4월 2일. 사진: 샤오카, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![쯔오족 전통 춤 공연, 2008년 4월 2일. 촬영: 샤오카, CC BY 2.0, 위키미디어 공용](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_사진 출처: [Wikimedia Commons 파일 페이지](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), 사진: 샤오카, 라이선스: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). 이미지는 쯔오족 전통 춤을 보여주며, Mayasvi의 특정 회차나 kuba 내부 의식을 주장하지 않는다. [^9]_
+_이미지 출처: [위키미디어 공용 파일 페이지](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), 촬영: 샤오카, 라이선스: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). 이미지는 쯔오족 전통 춤을 보여주며, 마야스비 특정 회차나 쿠바 내부 의례를 지칭하지 않음.[^9]_
 
 ## 다방의 불, 먼저 관광객을 위한 것이 아니다
 
@@ -121,20 +123,20 @@ Taiwan.md에게 있어, 이는 또한 글쓰기의 경계이다: 제례 절차�
 
 ## 참고 자료
 
-[^1]: [원주민위원회: 쯔오족 민족 소개](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 공식 민족 자료는 쯔오족 분포, 세시 제례, kuba 건축, 친족 조직 및 부족 공공 기능을 설명한다.
+[^1]: [원주민족위원회: 초우족 족군 소개](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 공식 족군 자료는 초우족의 분포, 세시 제의, 쿠바 건축, 친족 조직 및 부락 공공 기능을 설명한다.
 
-[^2]: [원주민 전통 지혜 창작 보호 정보망: 쯔오족 다방 사 남성 회소 (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — 다방 사가 제출한 전통 지혜 창작 사건으로, 회소 공법, 치수, 상징 사물, 신목 신화 및 사회 문화적 의미를 기록한다.
+[^2]: [원주민족 전통 지혜 창작 보호 정보망: 초우족 다방사 남성 회관(쿠바)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — 다방사가 제출한 전통 지혜 창작 안건으로, 회소 공법, 크기, 상징 물건, 신수 신화 및 사회문화적 의의를 기록한다.
 
-[^3]: [대만 종교 문화 지도: Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — 내무부 영어 문화 지도는 제례 날짜 조정, 신 맞이, 노래·춤, 종료 제례, kuba 및 방문객 금기 등 구체적 절차를 소개한다.
+[^3]: [대만 종교 문화 지도: 초우족 마야스비 축제, 아리산](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — 내정부 영문 문화 지도는 축제 날짜 조정, 영신, 노래와 춤, 종료 제의, 쿠바 및 방문객 금기 등 구체적 절차를 소개한다.
 
-[^4]: [원주민문헌: 쯔오족 전제 mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — 푸중융이 전제의 역사적 맥락, 집단성, 제가 특징, 관광적 응시 및 현대 문화 혼종 문제를 정리한다.
+[^4]: [원주민족 문헌: 초우족 전제 마야스비](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — 포충용이 전제의 역사적 맥락, 집단성, 제가 특색, 관광 응시 및 당대 문화 혼재 문제를 정리했다.
 
-[^5]: [Airiti: 當代鄒族戰祭的意義－一個後殖民的解讀](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — 학술 논문은 포스트콜로니얼 이론을 사용하여 전제가 향수, 탈식민, 현대 생활 및 민족 주체성 사이에서 어떻게 지속적으로 재구성되는지 분석한다.
+[^5]: [에어리티: 당대 초우족 전제의 의의 - 하나의 후식민적 해석](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — 학술 논문은 후식민 이론으로 전제가 향수, 탈식민, 현대 생활 및 족군 주체성 사이에서 어떻게 지속적으로 재조합되는지 분석한다.
 
-[^6]: [원주민 세시 제례: 쯔오족 전제 Mayasvi (제 48 페이지)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — 원주민 문화 출판물은 세시 달력을 사용하여 전제의 다중 제례, 회소 수리, 신 맞이, 노래·춤 및 관광객 제한을 정리한다.
+[^6]: [원주민족 세시 제의: 초우족 전제 마야스비(제48쪽)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — 원주민족 문화 출판물은 세시 달력으로 전제의 다단계 의식, 회소 수건, 영신, 노래와 춤 및 관광객 제한을 정리한다.
 
-[^7]: [Taiwan News: When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — 2026년 영어 보도는 제례 현장과 쯔오족 배경을 통해 Mayasvi의 현대적 공동체, 조상 기억 및 문화 주체성을 설명한다.
+[^7]: [타이완 뉴스: 2월이 다른 새해를 가져올 때: 대만 원주민 세계와 초우족 마야스비 속으로](https://www.tcn.tw/news/6784674) — 2026년 영문 보도는 축제 현장과 초우족 배경에서 마야스비의 당대 공동체, 조상 기억 및 문화 주체성을 설명한다.
 
-[^8]: [僑務新聞: 鄒族戰祭國家重要民俗授證](https://ocacnews.net/article/133098) — 2011년 중신사 소식은 전제가 국가 중요 민속으로 지정되었고, 인증 보도에서 kuba, 부족 윤리 및 문화 전승에 대한 묘사를 기록한다.
+[^8]: [교무 뉴스: 초우족 전제 국가 중요 민속 인증](https://ocacnews.net/article/133098) — 2011년 중앙사 소식은 전제가 국가 중요 민속으로 지정되었음을 기록하며, 인증 보도에서의 쿠바, 부락 윤리 및 문화 전승에 대한 묘사를 담고 있다.
 
-[^9]: [Wikimedia Commons: Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — 쯔오족 전통 춤 사진, 사진자는 Flickr 사용자 샤오카이며, CC BY 2.0 라이선스를 따르고, 글은 원본 핫 링크만 임베드한다.
+[^9]: [위키미디어 공용: 초우족 전통 춤 공연 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — 초우족 전통 춤 사진으로, 촬영자는 플리커 사용자 샤오카이며, CC BY 2.0 라이선스를 채택했고, 글에는 원본 핫링크만 삽입되어 있다.

@@ -2,19 +2,21 @@
 title: 'Mitologi Suku Asli Taiwan: Dari Banjir Besar hingga Epik Lisan Penciptaan'
 description: 'Mitologi suku asli Taiwan bukan sekadar cerita kuno, melainkan fosil hidup kenangan etnis dan warisan budaya, yang memuat kebijaksanaan dan pandangan hidup berdampingan dengan alam.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '族群文化'
 tags: ['suku asli', 'mitologi', 'sastra lisan', 'budaya Taiwan']
-readingTime: 8
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-07-25T12:49:29+08:00'
+translatedAt: '2026-11-05T05:00:03.169655+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pulau Taiwan ini tidak hanya beragam secara geografis, tetapi juga merupakan permata mitologi budaya. Mulai dari penciptaan dari batu pecah suku Atayal, hingga legenda menembak matahari suku Bunun, serta banjir besar dan pernikahan saudara suku Amis, epik lisan ini tidak hanya membentuk pandangan semesta setiap suku, tetapi juga mencerminkan interaksi mendalam dan kebijaksanaan adaptasi mereka dengan alam lingkungan. Mitologi ini adalah kunci tak tergantikan untuk memahami budaya suku asli Taiwan.

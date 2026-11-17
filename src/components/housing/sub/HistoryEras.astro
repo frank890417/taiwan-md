@@ -1,0 +1,158 @@
+---
+/**
+ * HistoryEras：/housing/history/ 的六個時期。
+ * 每期：kicker（年份與時期名）、H2（lede 的第一句，斷言）、lede 其餘句子、該期事件的 HousingTimeline 完整版
+ * （日期、標題、內文、數字、來源連結並標官方或媒體、站內文章 chips）。
+ * 上方有時期錨點列與依類別篩選的按鈕；按鈕在沒有 JS 時不顯示，事件全部可見。
+ */
+import HousingTimeline from '../charts/HousingTimeline.astro';
+import SubNav from './SubNav.astro';
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { housingHome } from '../../../i18n/housing-home';
+import {
+  eventArticleCards,
+  historyFacts,
+  isZh,
+  loc,
+} from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const H = T.hist;
+const kindLabels = housingHome(lang).timeline.kinds as Record<string, string>;
+const f = historyFacts();
+const articles = await eventArticleCards(lang);
+const zh = isZh(lang);
+
+/** lede 的第一句（遇到分號就在分號斷開）當 H2，其餘留作段落。 */
+function splitLede(text: string): { head: string; rest: string } {
+  const m = zh
+    ? text.match(/^(.+?[。！？；])\s*(.*)$/s)
+    : text.match(/^(.+?[.!?;])\s+(.*)$/s);
+  if (!m) return { head: text.replace(/[。.]$/, ''), rest: '' };
+  return { head: m[1].replace(/[。.；;]$/, ''), rest: m[2] };
+}
+const eras = f.eras.map((e: any) => {
+  const { head, rest } = splitLede(loc(e.lede, lang));
+  return {
+    id: e.id,
+    from: e.from,
+    to: e.to,
+    title: loc(e.title, lang),
+    head,
+    rest,
+    events: f.events.filter((ev: any) => ev.era === e.id),
+    ...f.eraCounts[e.id],
+  };
+});
+const total = f.n;
+const labels = {
+  primary: T.ui.primary,
+  reported: T.ui.reported,
+  related: T.ui.related,
+  zhOnly: T.ui.zhOnly,
+};
+---
+
+<section class="hs-section hs-eras-head" id="eras">
+  <div class="hs-wrap">
+    <SubNav
+      label={H.erasNav}
+      items={eras.map((e) => ({
+        id: `era-${e.id}`,
+        label: `${e.from}–${e.to} ${e.title}`,
+      }))}
+    />
+    <div
+      class="hs-filter"
+      data-hs-filter
+      data-count-tpl={H.filter.count}
+      hidden
+    >
+      <span class="hs-filter-k" id="hs-filter-k">{H.filter.label}</span>
+      <div class="hs-filter-btns" role="group" aria-labelledby="hs-filter-k">
+        <button type="button" data-kind-btn="all" aria-pressed="true">
+          {H.filter.all}
+        </button>
+        {
+          f.kinds.map((k) => (
+            <button type="button" data-kind-btn={k} aria-pressed="false">
+              {kindLabels[k] ?? k}
+            </button>
+          ))
+        }
+      </div>
+      <p class="hs-filter-n" data-count role="status" aria-live="polite">
+        {fill(H.filter.count, { shown: total, total })}
+      </p>
+    </div>
+  </div>
+</section>
+{
+  eras.map((e) => (
+    <section class="hs-section hs-era" id={`era-${e.id}`} data-era-section>
+      <div class="hs-wrap">
+        <p class="hs-kicker">
+          {e.from}–{e.to} · {e.title}
+        </p>
+        <h2 class="hs-h2">{e.head}</h2>
+        {e.rest && <p class="hs-lede2">{e.rest}</p>}
+        <p class="hs-fine">
+          {fill(H.eraNote, { n: e.n, p: e.p })} {H.eraSrcLine}
+        </p>
+        <HousingTimeline
+          events={e.events}
+          eras={[]}
+          compact={false}
+          lang={lang}
+          articles={articles}
+          labels={labels}
+        />
+      </div>
+    </section>
+  ))
+}
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-hs-filter]');
+  if (root) {
+    const btns = Array.from(
+      root.querySelectorAll<HTMLButtonElement>('[data-kind-btn]'),
+    );
+    const evs = Array.from(
+      document.querySelectorAll<HTMLElement>('.hs-tl-ev[data-kind]'),
+    );
+    const sections = Array.from(
+      document.querySelectorAll<HTMLElement>('[data-era-section]'),
+    );
+    const out = root.querySelector<HTMLElement>('[data-count]');
+    const tpl = root.dataset.countTpl ?? '{shown} / {total}';
+    const apply = (kind: string) => {
+      let shown = 0;
+      evs.forEach((li) => {
+        const ok = kind === 'all' || li.dataset.kind === kind;
+        li.hidden = !ok;
+        if (ok) shown += 1;
+      });
+      sections.forEach((s) => {
+        const any = s.querySelector('.hs-tl-ev:not([hidden])');
+        s.classList.toggle('is-empty', !any);
+      });
+      btns.forEach((b) =>
+        b.setAttribute('aria-pressed', String(b.dataset.kindBtn === kind)),
+      );
+      if (out)
+        out.textContent = tpl
+          .replace('{shown}', String(shown))
+          .replace('{total}', String(evs.length));
+    };
+    btns.forEach((b) =>
+      b.addEventListener('click', () => apply(b.dataset.kindBtn ?? 'all')),
+    );
+    root.hidden = false;
+  }
+</script>

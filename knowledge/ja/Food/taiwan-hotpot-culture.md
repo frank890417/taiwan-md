@@ -1,19 +1,22 @@
 ---
 title: '台湾火鍋：一鍋に魂を込めた島の味覚進化史'
 description: '植民地時代の文明の象徴から今日の国民的美食へ、台湾火鍋は味覚の変遷にとどまらず、社会の変遷と民族融合の縮図でもあります。'
+date: 2026-04-18
 category: 'Food'
 tags: ['鍋物', '台湾グルメ', '沙茶醤', '食文化']
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
-date: 2026-04-18
-readingTime: 8
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/台灣火鍋.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-05-01T18:09:43+08:00'
-featured: false
+translatedAt: '2026-11-05T01:50:49.221440+00:00'
 ---
 
 > **30秒概覽：** 台湾火鍋市場の年産値は数百億台湾ドルに上り、冬季の体を温める国民的美食であるだけでなく、一年中楽しめる食文化です。日治時代の「鋤焼（すき焼き）」から戦後の各省移民がもたらした多様な鍋物、さらに今日の個人用小火鍋や高級鍋まで、台湾火鍋の進化の歴史はこの島の社会変遷と民族融合を映し出し、独自の「台湾らしさ」を醸し出してきました。
@@ -62,20 +65,20 @@ featured: false
 
 ## 参考資料
 
-[^1]: CParty. (2025). 「経典宵夜図鑑｜台湾百年火鍋進化」. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^1]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). 「経典宵夜図鑑｜台湾百年火鍋進化」
 
-[^2]: orstyle.net. (2025). 「この鍋はいかにして『台式』になったのか？鍋の島のじっくり煮込む軌跡」. [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/)
+[^2]: [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/) — orstyle.net. (2025). 「この鍋はいかにして『台式』になったのか？鍋の島のじっくり煮込む軌跡」
 
-[^3]: VERSE. (2022). 「魚夫：圍爐して火鍋を語ろう！」. [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu)
+[^3]: [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu) — VERSE. (2022). 「魚夫：圍爐して火鍋を語ろう！」
 
-[^4]: 鳴人堂. (2020). 「沙茶醤は元々『舶来品』？台湾沙茶醤のルーツと今」. [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
+[^4]: [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026) — 鳴人堂. (2020). 「沙茶醤は元々『舶来品』？台湾沙茶醤のルーツと今」
 
-[^5]: 台湾光華雑誌. (不明). 「台湾沙茶醤：移民の軌跡を記録する多彩な味わい」. [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
+[^5]: [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2) — 台湾光華雑誌. (不明). 「台湾沙茶醤：移民の軌跡を記録する多彩な味わい」
 
-[^6]: 上報 Up Media. (2021). 「半世紀以上営業した『帝一火鍋』が歴史に幕を下ろす！」. [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
+[^6]: [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834) — 上報 Up Media. (2021). 「半世紀以上営業した『帝一火鍋』が歴史に幕を下ろす！」
 
-[^7]: Every Little D. (不明). 「民国68年、台北初の麻辣鍋店『寧記』」. [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
+[^7]: [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/) — Every Little D. (不明). 「民国68年、台北初の麻辣鍋店『寧記』」
 
-[^8]: 楊桃美食網. (不明). 「四川発の平民的特産品─麻辣鍋」. [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
+[^8]: [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl) — 楊桃美食網. (不明). 「四川発の平民的特産品─麻辣鍋」
 
-[^9]: CParty. (2025). 「経典宵夜図鑑｜台湾百年火鍋進化」. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^9]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). 「経典宵夜図鑑｜台湾百年火鍋進化」

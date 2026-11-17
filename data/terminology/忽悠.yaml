@@ -1,0 +1,30 @@
+id: 忽悠
+category: slang
+subcategory: 口語
+fork_type: A
+auto_convert: false
+display:
+  taiwan: 唬弄
+  china: 忽悠
+etymology:
+  origin: 《兩岸常用詞典》給「忽悠」兩個義項：「晃動；搖擺」沒有地區標記，「說謊話蒙騙」標「陸」。《重編國語辭典修訂本》查無此詞。一般說法是東北官話，因 2001 年春晚趙本山的小品帶紅，這段本輪只看到摘要，沒有讀到方言辭典。
+  fork_cause: 北方口語經春晚小品走紅全中國，台灣的欺騙義另有「唬弄」這類說法。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: stable
+notes: |
+  屬中國方言源，不是網路新造詞；分歧只在欺騙義，「晃動」義不算。
+  誠信標註：「唬弄」《重編》無詞條，兩岸常用詞典有（亦作「糊弄」）。
+  台灣欄目前缺台灣網友原話，下方欠條記著。
+pending_verification:
+  question: 台灣口語對應「忽悠」的實際說法是什麼？「唬弄」目前只有辭典，「晃點」「唬爛」只有網路文章摘要。
+  needs: 補台灣網友或媒體的原話，以及東北方言來源的辭書出處。
+  opened: '2026-11-05'
+sources:
+  - https://www.moedict.tw/c/%E5%BF%BD%E6%82%A0.json
+  - https://dict.revised.moe.edu.tw/search.jsp?word=忽悠&md=1
+  - https://www.moedict.tw/c/%E5%94%AC%E5%BC%84.json
+  - https://en.wikipedia.org/wiki/Huyou_skits
+added: '2026-11-05'
+updated: '2026-11-05'

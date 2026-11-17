@@ -2,9 +2,7 @@
 title: 'Terremotos: la memoria de una isla que baila con el buey subterráneo'
 description: '¿Por qué los extraterrenos se aterrorizan mientras a los taiwaneses solo les importa si los fideos instantáneos se han pasado? Desde el fenómeno de "la tierra que brota pelo" en la era Qing hasta los 102 segundos del 921, esta isla ha interiorizado el desastre como parte de la vida cotidiana.'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '社會韌性'
 tags:
   [
     'cultura',
@@ -13,15 +11,19 @@ tags:
     'memoria del desastre',
     'leyenda del buey subterráneo',
   ]
-readingTime: 6
+subcategory: '社會韌性'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-04T18:56:19.624607+00:00'
 ---
 
 > **Resumen en 30 segundos:** Taiwán se encuentra en el límite entre placas tectónicas; los terremotos son el destino de esta isla. Este artículo parte de la leyenda autóctona del "buey subterráneo que se da la vuelta", recorre desde los registros de anomalías en la era Qing hasta el punto de inflexión institucional del gran terremoto del 921, y explora cómo los taiwaneses pasaron del miedo a la "serenidad", construyendo una resiliencia ante desastres de clase mundial en medio del temblor.

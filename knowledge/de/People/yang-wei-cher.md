@@ -19,11 +19,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-04T19:06:04.959725+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
@@ -77,30 +79,30 @@ Das bloße Existieren von Yang Wei-chen stellt eine tiefe Frage an die kulturell
 
 ---
 
-## Quellen
+## Referenzen
 
-[^1]: [Die Legende des taiwanesischen Unterrichts an der Nationaluniversität Taiwan und ihre Folgen (alter Titel: 1997 Yang Wei-chen unterrichtet in Taiwanesisch, Politiker kritisiert als „Verfassungsverletzung“!)](https://www.telltaiwan.org/5057) — Professor Zhou Wan-yao erläutert den historischen Kontext und die parlamentarische Debatte.
+[^1]: [Die Legende der taiwanischen Vorlesungen an der NTU und deren Folgen (Alter Titel: Professor Yang Wei-ches Vorlesungen auf Taiwanisch im Jahr 1997 – Abgeordnete bezeichneten dies als „verfassungswidrig“!)](https://www.telltaiwan.org/5057) — Professor Chou Wan-yao erläutert den historischen Kontext und die Kontroversen im Legislativ-Yuan bezüglich der taiwanischen Vorlesungen von Professor Yang Wei-che.
 
-[^2]: [Yang Wei-chen – Wikipedia, die freie Enzyklopädie](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Überblick über das Lebenslauf und die Unterrichtsmerkmale von Professor Yang Wei-chen.
+[^2]: [Yang Wei-che – Wikipedia, die freie Enzyklopädie](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Ein Überblick über den Lebenslauf und die pädagogischen Besonderheiten von Professor Yang Wei-che.
 
-[^3]: [Yang Wei-chen: Ich bereue, dass ich nicht von Anfang an in Taiwanesisch Mathematik gelehrt habe](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Interview mit „New Taiwan News Weekly“, das Yang Wei-chens Weg in die taiwanesische Unterrichtssprache dokumentiert.
+[^3]: [Yang Wei-che: Ich bereue es, Mathematik nicht von Anfang an auf Taiwanisch unterrichtet zu haben](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Ein Interview mit der „New Taiwan News Weekly“, das den mentalen Prozess von Professor Yang Wei-che bei der Förderung des taiwanischen Unterrichts dokumentiert.
 
-[^4]: [Yang Wei-chens Mathematik-Vorlesungen – Grundlegende analytische Geometrie](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Nanhai Verlag stellt die Bildungsphilosophie und das Mathematikbuch von Professor Yang Wei-chen vor.
+[^4]: [Professor Yang Wei-ches Mathematikkurs – Grundlegende analytische Geometrie](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Wunan Publishing stellt die Bildungsphilosophie und das mathematische Fachbuch von Professor Yang Wei-che vor.
 
-[^5]: [【Vortrag in Taiwanesisch】Yang Wei-chen: Eine Perspektive aus der Mathematik](https://www.instagram.com/p/Czgc1tJPeAK/) — Veranstaltungsinformationen zum Vortrag von Professor Yang Wei-chen an der Literarischen Fakultät im Jahr 2023.
+[^5]: [[Taiwanisch-Sprach-Freitagsvortrag] Vortrag von Professor Yang Wei-che: Über die Perspektive der Mathematik](https://www.instagram.com/p/Czgc1tJPeAK/) — Informationen zur Veranstaltung im Jahr 2023, bei der Professor Yang Wei-che am College of Liberal Arts der NTU sprach.
 
-[^6]: [Gefühl, dem Newton begegnet zu sein (Teil 2)](https://blog.udn.com/Carole777/45605455) — Beschreibung der Interaktionen und Freundschaften von Professor Yang Wei-chen mit Kollegen und Vorgängern in der Mathematikabteilung.
+[^6]: [Es fühlte sich an wie eine Begegnung mit Newton (Teil 2)](https://blog.udn.com/Carole777/45605455) — Beschreibt die Interaktionen und die Freundschaft zwischen Professor Yang Wei-che und seinen Vorgängern sowie Kollegen am Institut für Mathematik der NTU.
 
-[^7]: [Von der High School in die Mathematikabteilung](https://www.instagram.com/p/C8Zkg9-PC4w/) — Professor Ye Bing-cheng erinnert sich an die Auswirkungen von Yang Wei-chens auf Begabtenförderung und Studenten.
+[^7]: [Der Mathematiklehrer, mit dem ich aufgewachsen bin, aus der Sicht der High School](https://www.instagram.com/p/C8Zkg9-PC4w/) — Professor Yeh Bing-cheng erinnert sich an den Einfluss von Professor Yang Wei-che auf die Begabtenförderung und seine Schüler.
 
-[^8]: [Mathematische Kommunikation – Yang Wei-chen](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Veröffentlichungsliste von Professor Yang Wei-chen im Journal der Mathematischen Kommunikation des Instituts für Angewandte Mathematik der Akademie der Wissenschaften Chinas.
+[^8]: [Mathematische Kommunikation – Yang Wei-che](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Liste der Werke von Professor Yang Wei-che in der Fachzeitschrift „Mathematical Communication“ des Mathematischen Forschungsinstituts der Academia Sinica.
 
-[^9]: [Held des 6. Juli, ewige Blüte auf der Malerei – Yang Chi-t’ung und Yang Wei-chen](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Archiv des Nationalen Museums für Moderne Kunst, das die Geschichte des Widerspruchs zwischen Yang Chi-t’ung und Yang Wei-chen dokumentiert.
+[^9]: [VI. Mutige Perfektion, Beständigkeit in der Kunst – Yang Qi-dong und Yang Wei-che](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Archiv des National Taiwan Art Museum, das die Geschichte von Vater und Sohn, Yang Qi-dong und Yang Wei-che, detailliert beschreibt, wie sie die Medizin aufgaben, um sich der Mathematik zu widmen.
 
-[^10]: [Taiwans erster „Dreistufig-Begabter“! Yang Pei absolviert mit 18 Jahren die Nationaluniversität Taiwan](https://time.udn.com/udntime/story/122833/8798116) — United Daily News Zeitungsarchiv, das die Entwicklung des wunderbaren Yang Pei dokumentiert.
+[^10]: [Taiwans erster „Triple Jump“-Begabter! Yang Po-yin schloss die NTU mit 18 Jahren ab](https://time.udn.com/udntime/story/122833/8798116) — Ein Rückblick der United Daily News, der den genialen Entwicklungsprozess von Yang Wei-ches Sohn, Yang Po-yin, dokumentiert.
 
-[^11]: [Der Chen Wen-chen-Fall und die Mathematikabteilung der Nationaluniversität Taiwan](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Wikipedia-Eintrag über die Position von Professor Yang Wei-chen im Chen Wen-chen-Fall.
+[^11]: [Der Chen Wen-cheng Vorfall und das Institut für Mathematik der NTU](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Wikipedia-Eintrag über die Position von Professor Yang Wei-che im Zusammenhang mit dem Chen Wen-cheng Vorfall.
 
-[^12]: [Yang Wei-chen 20081223: Vom studentischen Leben bis zum Chen Wen-chen-Fall](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Interviewaufzeichnung des Museums für Universitätsgeschichte der Nationaluniversität Taiwan.
+[^12]: [Yang Wei-che 23.12.2008: Vom Universitätsleben bis zum Chen Wen-cheng Vorfall](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Aufzeichnung eines Oral-History-Interviews aus dem Archiv der National Taiwan University.
 
-[^13]: [41. Jahrestag des Chen Wen-chen-Falls: Gedenken an einen Helden, der standhaft gegen staatliche Gewalt widerstand](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahoo News Bericht, der erwähnt, dass Yang Wei-chen den Inschriftenentwurf für das Gedenkdenkmal vorschlug.
+[^13]: [41. Jahrestag des Chen Wen-cheng Vorfalls: Gedenken an einen Mutigen, der entschlossen gegen staatliche Gewalt Widerstand leistete](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Ein Bericht von Yahoo News, der erwähnt, dass Yang Wei-che die Inschrift für das Chen Wen-cheng Denkmal verfasste.

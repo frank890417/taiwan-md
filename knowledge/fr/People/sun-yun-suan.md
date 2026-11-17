@@ -2,8 +2,7 @@
 title: "Sun Yun-suan : l'ingénieur-président qui illumina Taïwan depuis les ténèbres"
 description: "Du miracle de la restauration de l'électricité en cinq mois dans les ruines de l'après-guerre à la vision audacieuse du pari sur l'industrie des semi-conducteurs, Sun Yun-suan a posé les fondations de la modernisation de Taïwan avec le pragmatisme et l'intégrité d'un ingénieur."
 date: 2026-04-30
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Sun Yun-suan',
@@ -12,15 +11,19 @@ tags:
     'ITRI',
     'Dix Grands Projets',
   ]
-readingTime: 8
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: People/孫運璿.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/孫運璿.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-05-16T22:35:54Z'
-featured: false
+translatedAt: '2026-11-04T22:12:26.265265+00:00'
 ---
 
 > **En 30 secondes :** Dans le processus de modernisation de Taïwan, **Sun Yun-suan** (1913-2006) est un nom incontournable. Surnommé « le Premier ministre de toujours », son image publique mêlait la professionnalité d'un technocrate, une intégrité personnelle irréprochable et une détermination audacieuse aux moments charnières de la transition nationale. De la réparation des infrastructures électriques dans les ruines de l'après-guerre à la promotion de l'industrie des semi-conducteurs dans les années 1970 en dépit des oppositions, la vie de Sun Yun-suan constitue presque un récit entrepreneurial de la transformation de Taïwan, de la désolation à la prospérité [^1][^2].

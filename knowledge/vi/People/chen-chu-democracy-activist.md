@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-11-04T22:15:20.482909+00:00'
 ---
 
 > **Tổng quan 30 giây:**

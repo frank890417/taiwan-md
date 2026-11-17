@@ -1,16 +1,16 @@
 ---
-title: 'San Mao: Orang yang Menulis Pengasingan sebagai Kebebasan'
-description: 'Nama aslinya Chen Ping, lahir 1943 di Chongqing, pindah ke Taiwan 1948. Berhenti sekolah menengah karena diganggu guru matematik, tujuh tahun terisolasi sebelum kembali menulis. Menikah dengan Jose Maria Quero y Ruiz di wilayah sempadan Maroko Spanyol 1973, terkenal karena karya sastra, menjadi jendela bagi orang Taiwan berimajinasi pada masa otoriter. Jose Maria meninggal karena kecelamatan selam 1979. Menulis skenario tunggalnya "Red Sorghum" memenangkan delapan penghargaan Golden Horse 1990. Bunuh diri di Rumah Sakit Militer Taipei 4 Januari 1991, usia empat puluh tujuh tahun.'
+title: 'Sanmao: Orang yang Menuangkan Pelarian Menjadi Kebeasan'
+description: 'Sanmao, nama aslinya Chen Ping, adalah penulis Taiwan yang menulis tentang kehidupan di Gurun Sahara, karyanya terjual lebih dari 15 juta eksemplar. Saat kelas 2 SMP, guru matematika menggunakan kuas cat di sekitar matanya menggambar dua nilai nol, sejak itu ia putus sekolah, tidak memiliki ijazah SMA, tujuh tahun kemudian di bawah bimbingan pelukis Gu Fusheng ia mulai menulis lagi. Pada 1973 ia menikah dengan Jose di Sahara Barat, membuka jendela melihat ke jauh bagi orang Taiwan di era hukum darurat. Jose meninggal dunia pada 1979 karena selam, ia menuangkan seumur hidup pelarisan menjadi kebebasan.'
 date: 2026-05-17
 category: 'People'
 tags:
   [
-    'San Mao',
-    'sastra',
+    'Sanmao',
+    'esai',
     'Sahara',
-    'Jose Maria',
-    'zaitun',
-    'Red Sorghum',
+    'Jose',
+    'Pohon Zaitun',
+    'Debu Merah',
     'sastra pengembara',
   ]
 subcategory: '文學'
@@ -19,11 +19,15 @@ featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T09:17:01+08:00'
+translatedAt: '2026-11-05T07:50:55.835677+00:00'
 ---
 
 # San Mao: Orang yang Menulis Pengasingan sebagai Kebebasan
@@ -210,54 +214,50 @@ Seorang yang hidupnya penuh dengan melarikan diri, pada akhirnya menjadi jalan b
 
 ## Referensi
 
-[^1]: [Wikipedia: San Mao (penulis)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Informasi dasar, kronologi karya, penilaian sastra
+[^1]: [Wikipedia: Sanmao (penulis)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Riwayat hidup dasar, kronologi karya, penilaian sastra
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Tahun kelahiran Jose Maria 1951, selisih usia 8 tahun, mantan suami asal Jerman
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Tahun lahir Jose 1951, perbedaan usia 8 tahun, tunangan Jerman
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Lokasi kecelamatan Jose Maria di La Palma Barlovento, tanggal, detail evakuasi
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Lokasi Jose tenggelam La Palma Barlovento, tanggal, detail penyelaman
 
-[^4]: [Wikipedia: Red Sorghum (film)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Daftar lengkap 8 penghargaan Golden Horse ke-27
+[^4]: [Wikipedia: Red Dust (film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Daftar lengkap 8 penghargaan Festival Film Kuda Emas ke-27
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Penjualan 15 juta eksemplar, penilaian internasional
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Buku terjemahan Bloomsbury, penerjemah Mike Fu, nominasi Penghargaan Penerjemahan Nasional
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Terjemahan Inggris Bloomsbury, penerjemah Mike Fu, nominasi Hadiah Terjemahan Nasional
 
-[^7]: [ARTouch Arsip](https://artouch.com/art-views/content-2727.html) — Alamat studio Gu Fusheng di Jalan Taian, sepuluh bulan mengajarkan menggambar, mendorong Bai Xiaoyong
+[^7]: [典藏 ARTouch](https://artouch.com/art-views/content-2727.html) — Alamat studio lukis Gu Fusheng di Jalan Taian, mengajar lukis sepuluh bulan, merekomendasikan Bai Xianyong
 
-[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Mantan suami asal Jerman meninggal karena serangan jantung, kartu nama pernikahan, minum obat tidur
+[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Tunangan Jerman meninggal mendadak karena penyakit jantung, kartu nama pernikahan, minum obat tidur
 
-[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Lirik asli "Zaitun" tentang "anak anjing kecil" dan "mata gadis Spanyol yang lebar", revisi oleh Yang Zujun, reaksi asli San Mao
+[^9]: [放言 Fount Media](https://www.fountmedia.io/article/81860) — Lirik asli 'Pohon Zaitun' 'Keledai Kecil', 'Gadis Spanyol Mata Besar', Yang Zujun mengubah lirik, respons asli Sanmao
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Larangan penyiaran Taiwan terhadap lagu "Zaitun", analisis latar belakang budaya
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Larangan siaran 'Pohon Zaitun' oleh Biro Penyiaran Taiwan, analisis latar belakang budaya
 
-[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Kenangan Chen Tianshen tentang kematian Jose Maria, San Mao menggali kubur sendiri
+[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Chen Tianxin mengingat kematian Jose, Sanmao menggali kubur dengan tangannya sendiri
 
-[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Hubungan Wang Luobin, 121 hari, lagu "Menunggu"
+[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Awal mula hubungan Wang Luobin, 121 hari, 'Menunggu'
 
-[^13]: [Zhujian Mingjia](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Kenangan Yan Hao tentang 40 malam diskusi
+[^13]: [灼見名家](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao mengingat 40 malam percakapan
 
-[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia: "Tanpa San Mao, aku tidak akan memenangkan penghargaan ini"
+[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Brigitte Lin: 'Tanpa Sanmao, saya tidak akan mendapatkan penghargaan ini'
 
-[^15]: [Min Bao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Proses kematian, empat teori berbeda, perspektif dokter
+[^15]: [民報](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Kronologi kematian, empat versi, pandangan dokter
 
-[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Populer vs sastra murni, kurangnya ahli klasik untuk memperjualkan posisinya
+[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Posisi sastra populer vs sastra murni, kekurangan master kanonisasi
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Rute San Mao, statistik buku tamu di kuburan Jose Maria (61% Mandarin sederhana / 10% Mandarin tradisional / 21% Spanyol)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Rute Sanmao, statistik buku tamu makam Jose (61% Tiongkok Disederhanakan / 10% Tiongkok Tradisional / 21% Spanyol)
 
-[^18]: [Museum Sejarah Nasional Taiwan](https://women.nmth.gov.tw/?p=19358) — "Cerita di Gurun" diterbitkan 1976, menciptakan gelombang membaca di sepanjang Selat Taiwan
+[^18]: [Museum Sejarah Nasional Taiwan](https://women.nmth.gov.tw/?p=19358) — Penerbitan 'Cerita Sahara' 1976 memicu gelombang membaca di kedua sisi selat
 
-[^19]: [Taman Sastra Nasional Taiwan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Penilaian "penulis paling berjualan dan berpengaruh di Taiwan"
+[^19]: [Museum Sastra Nasional Taiwan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Penilaian 'Penulis paling laris dan paling berpengaruh di Taiwan'
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle ulang tahun ke-76 San Mao 2019, Penghargaan Sastra San Mao didirikan 1992, fenomena nama Echo
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle ulang tahun ke-76 Sanmao 2019, Hadiah Sastra Sanmao didirikan 1992, fenomena nama Echo
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Dokumenter Spanyol San Mao: La novia del desierto (2020)
+[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Film dokumenter Spanyol Sanmao: La novia del desierto (2020)
 
-[^22]: [Sanli News](https://www.setn.com/News.aspx?NewsID=1408845) — Sima Zhongyuan meninggal 2024-01-04, bersamaan dengan San Mao, kontrak hidup-mati
+[^22]: [SET News](https://www.setn.com/News.aspx?NewsID=1408845) — Sima Zhongyuan meninggal 2024-01-04, tanggal dan bulan yang sama dengan Sanmao, janji hidup mati
 
-[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Makalah akademik tentang batas antara fakta dan fiksi dalam karya San Mao
+[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Makalah akademis membahas batas antara non-fiksi dan fiksi Sanmao
 
-[^24]: [Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Ma Zhongxin "Fakta Sejati San Mao" diterbitkan 1996, kontroversi dan kritik
-
----
-
-Catatan: Beberapa nama tokoh dan istilah budaya telah disesuaikan dengan pedoman transliterasi dan register bahasa Indonesia. Nama "San Mao" tetap digunakan sesuai dengan penggunaan aslinya, dan nama aslinya Chen Ping juga dipertahankan. Lokasi geografis seperti Chongqing, Taipei, Madrid, Sahara, Gran Canaria, La Palma, dll., tetap menggunakan ejaan aslinya. Nama orang asing seperti Bai Xiaoyong, Lin Qingxia, Zhang Ailing, Hu Lancun, Luo Da You, Sima Zhongyuan, Wang Luobin, dan lainnya disesuaikan dengan sistem romanisasi yang diterima umum.
+[^24]: [The Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Ma Zhongxin 'Kebenaran Sanmao' diterbitkan 1996, kontroversi dan kritik

@@ -1,27 +1,31 @@
 ---
-title: 'Saída das Nações Unidas: aqueles 17 minutos de 1971, como Taiwan passou de "China" a órfão internacional'
-description: 'Em 25 de outubro de 1971, no momento em que Chou Shu-kai desceu do pódio da Assembleia Geral, a República da China (Taiwan) passou de membro fundador das Nações Unidas a observadora ainda hoje barrada à porta. Meio século depois, essa decisão de "não coexistência entre Han e bandidos" continua a fermentar — os EUA aprovaram em 2025 uma lei reafirmando: a Resolução 2758 nunca tratou da representação de Taiwan.'
+title: 'A saída de Taiwan da ONU: os 17 minutos de 1971 em que um membro fundador se tornou um outsider'
+description: 'Em 25 de outubro de 1971, Chow Shu-kai desceu do pódio na Assembleia Geral, e a República da China passou de membro fundador da ONU a um outsider barrado do lado de fora. Em aparência, foi uma saída trágica sob o lema "os Han e os bandidos não podem coexistir", mas Chiang Kai-shek já havia aceitado, no início de 1971, o compromisso de "duas Chinas"; a verdadeira chave foi a visita secreta de Kissinger a Pequim em julho do mesmo ano. Meio século depois, a Câmara dos Representantes dos EUA aprovou, em 2025, uma lei reafirmando que a Resolução 2758 nunca tratou da representação de Taiwan.'
 date: 2026-05-02
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Diplomacia',
     'História',
-    'Nações Unidas',
+    'ONU',
     'Guerra Fria',
-    'Relações Cross-Strait',
-    'Direito Internacional',
+    'relações cross-strait',
+    'Direito internacional',
   ]
+subcategory: '民主與治理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-06T04:31:12.488239+00:00'
 ---
 
 Na madrugada de 25 de outubro de 1971, no plenário da Assembleia Geral das Nações Unidas em Nova York. O ministro das Relações Exteriores da República da China, Chou Shu-kai, terminou de ler a declaração, virou as costas e desceu do pódio de mármore verde; toda a delegação retirou-se em fila. Da entrada à saída, menos de 20 minutos[^1]. Meia hora depois, a Resolução 2758 foi aprovada por 76 votos a 35, os "representantes de Chiang Kai-shek" foram expulsos e a República Popular da China assumiu oficialmente o assento da China. Taiwan, que era membro fundador das Nações Unidas (em 24 de agosto de 1945, Chiang Kai-shek assinou a ratificação da Carta das Nações Unidas em Chongqing[^2]), tornou-se da noite para o dia um pária das organizações internacionais.

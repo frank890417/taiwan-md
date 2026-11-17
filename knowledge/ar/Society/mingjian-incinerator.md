@@ -3,7 +3,6 @@ title: 'حرب محمّن مصنع النفايات: عندما تصطدم 3.1 �
 description: 'تجاوزت كمية النفايات المخزنة في مقاطعة نجوب 310 ألف طن بنهاية عام 2024، مما أدى إلى أزمة «الحصار النفايات». خطط اللوجستية لوضع محمّن يومي بسعة 500 طن في قرية نوايا الجديدة بقرية مين جيان، مما أثار احتجاجات أكثر من 250 عالماً. هذة حرب حماية البقاء تتعلق بمنطقة زراعية محددة، ومنطقة مأوى للسلحفاة البحرية، وسلسلة توريد أوراق الشاي الكبيرة في جميع جزر تايوان.'
 date: 2026-04-25
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'نجوب',
@@ -14,16 +13,19 @@ tags:
     'مشكلة النفايات',
     'لويتشي هواي',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-07-26T00:16:59+08:00'
+translatedAt: '2026-11-04T18:06:21.618976+00:00'
 ---
 
 > **نظرة سريعة بسرعة 30 ثانية:**

@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:47+08:00'
+translatedAt: '2026-11-02T01:33:59.507399+00:00'
 ---
 
 # Arte callejero y cultura del graffiti en Taiwán
@@ -83,7 +83,7 @@ La tecnología digital también está abriendo nuevas posibilidades. Proyeccione
 
 [^6]: [Sitio web oficial de Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros de actividades anuales del Festival Internacional de Arte Callejero de Taiwán.
 
-## Lectura complementaria
+## Lectura adicional
 
-- [Arte contemporáneo de Taiwán](/culture/台灣當代藝術) — El punto de encuentro entre el arte callejero y el ecosistema del arte contemporáneo en Taiwán.
-- [Música electrónica y cultura de fiesta en Taiwán](/es/music/taiwan-electronic-music-and-party-culture) — La escena de la música electrónica que comparte raíces subculturales con el arte callejero.
+- [Arte contemporáneo en Taiwán](/es/art/contemporary-art) — El punto de encuentro entre el arte callejero y el ecosistema del arte contemporáneo en Taiwán.
+- [Música electrónica y cultura de fiesta en Taiwán](/es/music/taiwan-electronic-music-and-party-culture) — La escena de la música electrónica, que comparte las mismas raíces subculturales que el arte callejero.

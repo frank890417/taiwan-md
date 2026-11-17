@@ -1,32 +1,34 @@
 ---
-title: "Psychological Warfare: From Kinmen's Broadcasting Walls to the Paradigm Shift of AI Cognitive Operations"
-description: "From the 1960s' Deng Lijun appeals and 'surrender food' dropped by balloons on Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material incentives to digital semantic offense and defense. This article thoroughly梳理s the historical context of Taiwan's psychological warfare against China, specific material lists, and contrasts the challenges of the current AI industrialization stage."
+title: "Psychological Warfare: From Kinmen's Broadcast Wall to the Paradigm Shift of AI Cognitive Warfare"
+description: 'From Teresa Teng''s loudspeaker broadcasts and airdropped "defection food packages" at the Kinmen broadcast wall in the 1960s, to information penetration and AI cognitive manipulation in the digital era of 2026, cross-strait psychological warfare has evolved from physical material inducements into digital semantic warfare. This article comprehensively reviews the historical context of Taiwan''s psychological warfare against China, specific material inventories, and contrasts the challenges of the current AI industrialization stage.'
 date: 2026-05-03
+category: 'History'
 tags:
   [
-    'psychological warfare',
-    'cognitive warfare',
+    'Psychological Warfare',
+    'Cognitive Warfare',
     'Kinmen',
-    'Deng Lijun',
-    'dropped items',
-    'surrender food',
-    'AI deepfake',
-    'information warfare',
-    'cross-strait relations',
-    'Voice of Free China',
+    'Teresa Teng',
+    'Airdropped Items',
+    'Defection Food Packages',
+    'AI Deepfakes',
+    'Information Warfare',
+    'Cross-Strait Relations',
+    'Central Broadcasting System',
   ]
 subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
-category: 'History'
-readingTime: 8
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-05-03T21:35:48+08:00'
-featured: false
+translatedAt: '2026-11-05T05:22:41.820666+00:00'
 ---
 
 > **30-Second Overview:**

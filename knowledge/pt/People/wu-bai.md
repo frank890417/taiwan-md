@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-11-04T22:13:17.059560+00:00'
 ---
 
 # Wu Bai: de Lioujiao, Suantou, trinta anos de rock em taiwanês sem concessões

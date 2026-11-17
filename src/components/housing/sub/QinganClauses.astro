@@ -1,0 +1,80 @@
+---
+/**
+ * QinganClauses：5.4 資格條文。clauses 逐條顯示原文與來源，其下內嵌 QinganEligibility 工具（ToolFrame inline）。
+ * 條文是財政部國庫署公布文件的中文原文，英文版保留原文並標明；條文標籤是本站加的短名。
+ */
+import ToolFrame from '../../tools/ToolFrame.astro';
+import QinganEligibility from '../tools/QinganEligibility.astro';
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { DATA, qinganSrc, stripBrand } from '../../../utils/housing/data';
+import { isZh } from '../../../utils/housing/sub-data';
+import {
+  getTopic,
+  localizePath,
+  pickText,
+} from '../../../utils/topics/registry';
+
+interface Props {
+  lang: any;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.clauses;
+const q: any = DATA.qingan;
+const clauses = q.clauses as { id: string; quote: string; source: string }[];
+const topic = getTopic('housing')!;
+const tool = topic.tools.find((x) => x.slug === 'qingan-eligibility')!;
+const label = (id: string) => (S.labels as Record<string, string>)[id] ?? id;
+const srcs = [...new Set(clauses.map((c) => c.source))].map((k) =>
+  qinganSrc(k),
+);
+const toolsPath = localizePath('/housing/tools/', lang);
+---
+
+<section class="hs-section" id="clauses">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, { n: clauses.length })}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <ol class="hs-clauses">
+      {
+        clauses.map((c) => {
+          const s = qinganSrc(c.source);
+          return (
+            <li class="hs-clause">
+              <p class="hs-clause-k">{label(c.id)}</p>
+              <blockquote lang="zh-TW">{c.quote}</blockquote>
+              <p class="hs-clause-src">
+                {!isZh(lang) && <span class="hs-tag">{S.origin}</span>}
+                <a
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener"
+                  class="no-external-icon"
+                  title={s.title}
+                >
+                  {s.title}
+                </a>
+              </p>
+            </li>
+          );
+        })
+      }
+    </ol>
+    <SrcLine lang={lang} sources={srcs} />
+    <h3 class="hs-h3">{S.toolK}</h3>
+    <p class="hs-lede2">{S.toolNote}</p>
+    <ToolFrame
+      title={stripBrand(pickText(tool.title, lang))}
+      description={pickText(tool.description, lang)}
+      variant="inline"
+      lang={lang}
+      standaloneHref={tool.path}
+      embedHref={tool.embedPath}
+    >
+      <QinganEligibility lang={lang} variant="inline" toolsPath={toolsPath} />
+    </ToolFrame>
+  </div>
+</section>

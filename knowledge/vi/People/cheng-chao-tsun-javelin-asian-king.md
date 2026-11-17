@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-04T22:40:05.793950+00:00'
 ---
 
 # Trịnh Triệu Thôn: Ném tiêu 91.36m lần cuối cùng tại Đại hội thế giới 2017, tiêu chuẩn châu Á thay đổi mãi mãi

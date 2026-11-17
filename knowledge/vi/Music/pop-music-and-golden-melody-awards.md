@@ -28,10 +28,10 @@ rationale:
   whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
 relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '7701a4867'
-sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-09-19T14:19:59.109302+00:00'
+translatedAt: '2026-11-03T03:58:11.529663+00:00'
 ---
 
 # Giải Âm nhạc Vàng: Đài Loan tự trao giải cho âm nhạc của mình, và những khoảnh khắc đáng nhớ suốt ba mươi lăm năm
@@ -258,12 +258,13 @@ Ba mươi vài năm rồi, Giải Âm nhạc Vàng thực ra không phải đang
 
 ## Đọc thêm
 
-- [Nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại truyền phát trực tuyến, toàn bộ lịch sử lên xuống của ngành, Giải Âm nhạc Vàng là con quy tắc chính thức trên đường này
-- [Sự tiến hóa của nhạc ca Tiếng Đài](/vi/music/taiwanese-hokkien-song-evolution) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
-- [Truyền thống nhạc dân tộc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ những bài ca bản đồng xã đến Chen Jiannian và Apo, nguồn gốc và hiện đại của nhạc bản địa
-- [Nghệ sĩ sáng tạo bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Tiếng nói và hoàn cảnh của Ji Hsiao-chun, Bana và Apo trong dòng dõi này
-- [Không gian nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách thế hệ Cao Đông và đường phố vượt qua công nghiệp đĩa để lên tới đỉnh cao của Giải Âm nhạc Vàng
-- [Giải Kim La Mã](/vi/culture/golden-bell-awards) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
+- [Nhạc đại chúng Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại phát trực tuyến, toàn bộ sử sự trỗi dậy và suy tàn của ngành, Giải Âm nhạc Vàng là thước đo chính thức trên đường線 này
+- [Sự演進 của bài hát tiếng Đài Loan](/vi/music/taiwanese-hokkien-song-evolution) — Từ ca khúc bi thương đến bước chuyển hướng rock của Lâm Cường "Đi Về Phía Trước", bài hát tiếng Đài Loan làm sao bước vào dòng chính
+- [Truyền thống âm nhạc người bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ ca dao bộ lạc đến Trần Kiến Năm, A Bốc, gốc rễ và đương đại của âm nhạc người bản địa
+- [Ca sĩ sáng tác người bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Giọng nói và hoàn cảnh của dòng sáng tác này: Kỷ Hiếu Quân, Ba Nai, A Bốc
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Thế hệ Cảo Đông, StreetVoice làm sao vòng qua công nghiệp đĩa, lên đến đỉnh cao Giải Âm nhạc Vàng
+- [Giải Chuông Vàng](/vi/culture/golden-bell-awards) — Cổ nhất trong "Tam Kim": năm 1965 đúc chuông cho phát thanh, sáu mươi mốt năm danh sách得獎 ghi lại truyền hình Đài Loan ở tay ai
+- [Giải Mã Vàng](/art/金馬獎) — Giải phim trong "Tam Kim": từng屆 mở rộng đối tượng báo danh, từ chỉ nhận phim tiếng Quốc ngữ đến không hỏi quốc tịch
 
 ## Nguồn ảnh
 

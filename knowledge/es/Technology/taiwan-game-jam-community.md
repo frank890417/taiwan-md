@@ -2,9 +2,7 @@
 title: 'La comunidad taiwanesa de Game Jam'
 description: 'Desde la llegada de Global Game Jam a Taiwán hasta KUSO GAME JAM y su filosofía del juego malo: cómo la comunidad taiwanesa de Game Jam se convirtió en una incubadora y campo de pruebas para el ecosistema de juegos independientes en una década'
 date: 2026-04-27
-author: 'tppr2046'
 category: 'Technology'
-subcategory: '遊戲產業'
 tags:
   [
     'juegos',
@@ -14,15 +12,19 @@ tags:
     'KUSO',
     'creación',
   ]
+subcategory: '遊戲產業'
 readingTime: 8
+author: 'tppr2046'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-06-12T00:53:04+08:00'
+translatedAt: '2026-11-04T17:29:46.008640+00:00'
 ---
 
 # La comunidad taiwanesa de Game Jam

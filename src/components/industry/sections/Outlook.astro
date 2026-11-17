@@ -1,0 +1,56 @@
+---
+/**
+ * §8 Outlook — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const { OL, ti } = await industryPageData(lang);
+---
+
+<!-- §8 手上的牌、卡住的地方、已經排定的事 -->
+<section class="bp-section" id="s8">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s8.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s8.h2')}</h2>
+    <p class="bp-lede">{ti('s8.lede')}</p>
+    <div class="ind-cards">
+      {
+        (
+          [
+            ['strengths', 'is-a'],
+            ['constraints', 'is-b'],
+            ['scheduled', 'is-c'],
+          ] as const
+        ).map(([k, cls]) => (
+          <div class={`ind-card ${cls}`}>
+            <h4>{ti(`s8.${k}.h`)}</h4>
+            <ul>
+              {OL[k].map((it: any) => (
+                <li>
+                  {ti(`outlook.${k}.${it.id}.t`)}
+                  {it.url && (
+                    <a
+                      class="bp-src no-external-icon"
+                      aria-label={ti('label.source')}
+                      href={it.url}
+                      target={it.url.startsWith('#') ? undefined : '_blank'}
+                      rel="noopener"
+                    >
+                      {it.url.startsWith('#') ? '↑' : '↗'}
+                    </a>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <p class="bp-note">{ti('s8.note')}</p>
+  </div>
+</section>

@@ -1,22 +1,30 @@
 ---
-title: 'Wu Bai : parti du village de Suantou, canton de Liujiao, trente ans de rock taïwanais sans compromis'
-description: 'De son vrai nom Wu Junlin, il naît en 1968 dans le village de Suantou, canton de Liujiao, comté de Chiayi. En 1992, il forme le groupe « Wu Bai & China Blue ». En 1995, *La Forêt de Norvège* consolide son orientation rock en taïwanais. En 2016, il publie *Dingzi Hua* (*Fleur de clou*), qui remporte le meilleur album en taïwanais aux Golden Melody Awards en 2017. En 2025, il sort le nouvel album *Un Départ Blanc Pur* et entreprend la tournée ROCK STAR 2 à travers les deux rives du détroit.'
+title: 'Wu Bai : depuis le village de Suantou dans le canton de Lioujiao, 30 ans de rock en taïwanais sans compromis'
+description: "Son vrai nom est Wu Chun-lin, né en 1968 dans le village de Suantou, canton de Lioujiao, comté de Chiayi. Il forme « Wu Bai & China Blue » en 1992. En 1995, l'album « Norwegian Wood » pose les bases du rock en taïwanais. En 2016, il sort l'album « Dingzi Flower », et remporte en 2017 le Golden Melody Award du meilleur album en taïwanais. En 2025, il publie un nouvel album « Le Point de départ pur blanc », et la tournée ROCK STAR 2 traverse les deux rives du détroit de Taïwan."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Musique',
+    'Rock',
+    'Chansons en taïwanais',
+    'Chiayi',
+    'Rock local',
+    'Guitare',
+  ]
 subcategory: '音樂'
-tags: ['音樂', '搖滾', '台語歌曲', '嘉義', '本土搖滾', '吉他']
-readingTime: 7
-#   whats_excluded: "各張專輯逐年曲目；China Blue成員變動細節；商業收益與演唱會票房"
-#   where_it_hedges: "2025年《純白的起點》和2026年詩詞集以TODO標記，待天機星確認細節"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-04T23:27:30.690748+00:00'
 ---
 
 # Wu Bai : parti du village de Suantou, canton de Liujiao, trente ans de rock taïwanais sans compromis

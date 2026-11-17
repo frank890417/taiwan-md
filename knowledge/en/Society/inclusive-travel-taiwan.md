@@ -1,15 +1,15 @@
 ---
-title: "Taiwan's Age-Inclusive Travel and Living Culture: When Human Warmth Becomes the Strongest Barrier-Free Facility"
-description: 'Observing Taiwanese society from a family perspective, how it redefines the meaning of "traveling together as one family" on the path to an ultra-aged society through human warmth and inclusive facilities.'
+title: "Taiwan's All-Ages Inclusive Travel and Living Culture: When Human Warmth Becomes Accessible Facilities"
+description: 'Observing from a family perspective how Taiwanese society, through human warmth and inclusive facilities, redefines the meaning of "family traveling together" on the path toward a super-aged society.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Age-inclusive',
-    'barrier-free travel',
-    'ultra-aged society',
-    'family culture',
-    'social resilience',
+    'All-Ages Inclusion',
+    'Accessible Tourism',
+    'Super-Aged Society',
+    'Family Culture',
+    'Social Resilience',
   ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:29+08:00'
+translatedAt: '2026-11-02T16:20:06.549576+00:00'
 ---
 
 > **30-Second Overview:**

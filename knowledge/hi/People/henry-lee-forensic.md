@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
-translatedFrom: People/李昌鈺.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:d64c72cf7c6361d3
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/李昌鈺.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: 2026-09-10T10:26:30+08:00
+translatedAt: '2026-11-04T20:26:05.632903+00:00'
 ---
 
 # हेनरी ली

@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T05:26:04.640753+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:**

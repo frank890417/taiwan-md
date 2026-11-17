@@ -18,17 +18,17 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-09-12T04:55:06+08:00'
+translatedAt: '2026-11-04T16:59:00.858867+00:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:**
-> Die 2004 gegründete „Premiere Creation“ (SOFA Studio) war einst ein Star der taiwanesischen Animationsszene und trug die Finanzierung sowie den Originaltraum von Terry Gou, indem sie mit „MumuHug“ weltweit in 80 Ländern erfolgreich wurde. Doch die hohen Kosten für die Anwendungsentwicklung und die langen Amortisationszeiten führten dazu, dass dieses große Wagnis schließlich scheiterte. Die Geschichte endete nicht; das Kernteam unter Chiu Li-wei übernahm die Flamme bei studio2 in Tainan und tauschte zwanzig Jahre der Einsamkeit in alten Gebäuden von Tainan gegen eine eigene taiwanesische Animationsästhetik ein, beginnend mit „Kitten Barkley“ bis hin zu „Bajie“.
-
----
+> **30-Sekunden-Überblick:**
+> Das 2004 gegründete „Premiere Creation SOFA Studio“ war einst ein Star der taiwanesischen Animationsszene, getragen von den finanziellen Mitteln und dem Traum auf Originalität des Unternehmers Kuo Tai-chiang. Mit „MumuHug“ eroberte es die Herzen in 80 Ländern weltweit. Doch die enormen Forschungs- und Entwicklungskosten sowie die langen Amortisationszeiten führten dazu, dass sich das Blatt dieser riskanten Wette letztlich wendete. Die Geschichte endet jedoch nicht hier: Das Kernmitglied Chiu Li-wei hat mit der Gründung von studio2 in Tainan das Feuer weitergetragen. Von „Little Cat Barkly“ bis hin zu „Bajie“ – in den alten Gebäuden von Tainan haben sie zwanzig Jahre der Einsamkeit investiert, um eine ganz eigene taiwanesische Animationsästhetik zu erschaffen.
 
 ## Der verschwundene Hoffnungsschimmer: Als der Sohn des reichsten Mannes auf den Animationstraum traf
 

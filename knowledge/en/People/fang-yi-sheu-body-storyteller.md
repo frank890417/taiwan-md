@@ -1,25 +1,34 @@
 ---
-title: "Fang-Yi Sheu: Yilan 1971, from Martha Graham Dance Company Principal to 2024 Golden Horse Film Festival Visual Dance Designer"
-description: "Born in Yilan in 1971. Graduated from the Dance Department of Taipei National University of the Arts. Went to the United States in 1995, joined the Martha Graham Dance Company, and was promoted to principal dancer in 1999. Returned to Taiwan in 2007 to found LAFA (ended in 2010). Documentary 'Salute' released in 2020. Designed the visual dance for the 2024 Golden Horse Film Festival. Interviewed in 2025 on the topic of bodily aging."
+title: 'Hsu Fang-yi: Born in Yilan, 1971; From Martha Graham Dance Company Principal to 2024 Golden Horse Film Festival Visual Identity Dancer'
+description: 'Born in Yilan in 1971. Studied at the Department of Dance, Taipei National University of the Arts. Moved to the United States in 1995 and joined the Martha Graham Dance Company, rising to Principal in 1999. Returned to Taiwan in 2007 to found LAFA (ended in 2010). Featured in the documentary "My Body, My Mind" (2020). Designed the dance performance for the 2024 Golden Horse Film Festival''s visual identity. Interviewed in 2025 regarding the topic of physical aging.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "藝術與設計"
-tags: ["藝術與設計", "舞蹈", "表演藝術", "現代舞", "葛蘭姆舞蹈團"]
-readingTime: 7
+category: 'People'
+tags:
+  [
+    'Art & Design',
+    'Dance',
+    'Performing Arts',
+    'Modern Dance',
+    'Martha Graham Dance Company',
+  ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: "People/許芳宜.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:a31b5339a894147e"
-sourceBodyHash: "sha256:e2e71f85bef4ed48"
-translatedAt: "2026-05-20T05:08:27+08:00"
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/許芳宜.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a31b5339a894147e'
+sourceBodyHash: 'sha256:e2e71f85bef4ed48'
+translatedAt: '2026-11-04T21:35:39.993823+00:00'
 ---
 
 # Fang-Yi Sheu: Yilan 1971, from Martha Graham Dance Company Principal to 2024 Golden Horse Film Festival Visual Dance Designer
 
-> **30-second overview:** Fang-Yi Sheu was born in Yilan in 1971 and went to the United States after graduating from the Dance Department of Taipei National University of the Arts.[^1] In 1995, she auditioned and joined the Martha Graham Dance Company in New York,[^1] and was promoted to principal dancer in 1999.[^1] She received praise from *The New York Times* in 2005. She returned to Taiwan in 2007 to found LAFA, which ended in 2010.[^2] The documentary *Salute* was released in 2020. In 2024, she designed the visual dance for the Golden Horse Film Festival.[^3]
+> **30-second overview:** Fang-Yi Sheu was born in Yilan in 1971 and went to the United States after graduating from the Dance Department of Taipei National University of the Arts.[^1] In 1995, she auditioned and joined the Martha Graham Dance Company in New York,[^1] and was promoted to principal dancer in 1999.[^1] She received praise from _The New York Times_ in 2005. She returned to Taiwan in 2007 to found LAFA, which ended in 2010.[^2] The documentary _Salute_ was released in 2020. In 2024, she designed the visual dance for the Golden Horse Film Festival.[^3]
 
 ## 1971, Yilan
 
@@ -35,7 +44,7 @@ In 1995, Fang-Yi Sheu passed her audition and joined the Martha Graham Dance Com
 
 The Graham Company's audition process is itself a first filter: dancers from around the world compete for these positions. When Sheu passed her audition, she was one of the very few Asian dancers to enter this殿堂 in the 1990s. In the New York modern dance world, her presence broke an unspoken geographical bias: high-level physical language training does not happen only in Europe and America.
 
-During her time with the company, Sheu performed Graham's classic works including *Diversion of Angels* and *Night Journey*, earning praise from New York dance critics. In 2005, *The New York Times* called her "one of the most compelling dancers" (exact wording pending further verification).[^1]
+During her time with the company, Sheu performed Graham's classic works including _Diversion of Angels_ and _Night Journey_, earning praise from New York dance critics. In 2005, _The New York Times_ called her "one of the most compelling dancers" (exact wording pending further verification).[^1]
 
 The core of Graham technique is "contraction and release"—a movement language centered on the spine, emphasizing emotional tension expressed through shifts in the body's center of gravity. Sheu rose from company member to principal within this system, which means she was able to tell her own stories in Graham's vocabulary. Technical mastery was the entry ticket; that is the standard for a principal.
 
@@ -47,11 +56,11 @@ In 2007, Fang-Yi Sheu returned to Taiwan and founded "LAFA" (Life Art For All).[
 
 The decision to return to Taiwan and found LAFA was a deliberate pivot she made after having already secured her position as a principal dancer with the Martha Graham Dance Company. This choice reflects a sense of responsibility toward dance that went beyond performing on the highest stage—it included bringing what she had learned in New York back to Taiwan and finding corresponding ground there. LAFA ended in 2010, but its three years left behind a model of cross-disciplinary collaboration and dance education practice.
 
-## Documentary *Salute*: The Body as Knowledge
+## Documentary _Salute_: The Body as Knowledge
 
-In 2020, the documentary *Salute* was released, chronicling Fang-Yi Sheu's dance career. The title *Salute* is itself a statement of position: the things she chose to do were not necessarily what others thought she should do. This attitude runs through her entire trajectory—from Yilan to New York, from Graham to LAFA. Every choice she made was a concrete practice of "salute."
+In 2020, the documentary _Salute_ was released, chronicling Fang-Yi Sheu's dance career. The title _Salute_ is itself a statement of position: the things she chose to do were not necessarily what others thought she should do. This attitude runs through her entire trajectory—from Yilan to New York, from Graham to LAFA. Every choice she made was a concrete practice of "salute."
 
-In the 2020 documentary *Salute* and in a 2025 interview, Sheu repeatedly discussed the limitations of the body as a tool for dance and the question of how to coexist with aging. Her position is this: a dancer's life does not end with stage performances. Understanding the body is itself a form of knowledge. Regardless of what the body can do, this knowledge can be taught, transmitted, and put to continued use. This attitude is the core proposition of her transition from a technically trained dancer with the Martha Graham Company to an educator and public speaker.
+In the 2020 documentary _Salute_ and in a 2025 interview, Sheu repeatedly discussed the limitations of the body as a tool for dance and the question of how to coexist with aging. Her position is this: a dancer's life does not end with stage performances. Understanding the body is itself a form of knowledge. Regardless of what the body can do, this knowledge can be taught, transmitted, and put to continued use. This attitude is the core proposition of her transition from a technically trained dancer with the Martha Graham Company to an educator and public speaker.
 
 ## Golden Horse Film Festival Visual Design and the Topic of Bodily Aging
 
@@ -83,7 +92,7 @@ This proposition has extended her influence beyond the boundaries of the dance p
 
 ## References
 
-[^1]: [Wikipedia: Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirms birth in Yilan in 1971, Taipei National University of the Arts, joined the Martha Graham Dance Company in 1995 (not promoted to principal in 1995), promoted to principal in 1999, praised by *The New York Times* in 2005.
+[^1]: [Wikipedia: Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirms birth in Yilan in 1971, Taipei National University of the Arts, joined the Martha Graham Dance Company in 1995 (not promoted to principal in 1995), promoted to principal in 1999, praised by _The New York Times_ in 2005.
 
 [^2]: [LAFA-related reports](https://www.ncaf.org.tw/) — Confirms LAFA founded in 2007 (not 2008), ended in 2010.
 
@@ -91,4 +100,4 @@ This proposition has extended her influence beyond the boundaries of the dance p
 
 [^4]: [CommonWealth Magazine: Fang-Yi Sheu 2025 interview](https://www.cw.com.tw/article/5093568) — Includes Sheu's recent interview on bodily aging and dancer career transition.
 
-[^5]: [Documentary *Salute* (2020)](https://www.pts.org.tw/) — Materials related to the documentary on Sheu's dance career.
+[^5]: [Documentary _Salute_ (2020)](https://www.pts.org.tw/) — Materials related to the documentary on Sheu's dance career.

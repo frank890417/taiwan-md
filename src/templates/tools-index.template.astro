@@ -1,0 +1,295 @@
+---
+/**
+ * tools-index.template.astro — /tools/ 工具總覽（13 語共用）。
+ *
+ * 資料：各專題登記檔的 tools（src/utils/topics/registry.ts 的 getAllTools()）。
+ * 文案：src/i18n/topics.ts（zh-TW、en、ja 完整，其他語言退到 en 並標 noindex）。
+ * 一個工具都沒有時：noindex，照實顯示「工具陸續上線」。
+ * 結構化資料：ItemList（src/utils/tools/jsonld.ts 的 buildItemListLd）。
+ */
+import '../styles/topics-foundation.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { topicsUiLang, useTopicsT } from '../i18n/topics';
+import {
+  getTopics,
+  latestUpdated,
+  localizePath,
+  pickText,
+} from '../utils/topics/registry';
+import { buildItemListLd, serializeJsonLd } from '../utils/tools/jsonld';
+import { resolveStaticHref } from '../utils/staticRoutes';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTopicsT(lang);
+
+interface ToolListing {
+  href: string;
+  title: string;
+  description: string;
+}
+interface ToolGroup {
+  id: string;
+  title: string;
+  /** 群組標題連到哪裡（專題主頁）。站上既有工具那一組沒有。 */
+  href?: string;
+  emoji?: string;
+  tools: ToolListing[];
+}
+
+const topicGroups: ToolGroup[] = getTopics()
+  .filter((topic) => topic.tools.length > 0)
+  .map((topic) => ({
+    id: topic.id,
+    title: pickText(topic.title, lang),
+    href: localizePath(topic.path, lang),
+    emoji: topic.emoji,
+    tools: topic.tools.map((tool) => ({
+      href: localizePath(tool.path, lang),
+      title: pickText(tool.title, lang),
+      description: pickText(tool.description, lang),
+    })),
+  }));
+
+// 站上已經存在、不屬於任何專題的工具（協調者 2026-11-10 決定列入）。
+// /companies/ 已由 industry 專題登記，不重複。用語轉換器只有中文版，其他語言不列
+// （跟 Header 對 /exams 的作法一樣）。href 用 resolveStaticHref：該語言沒有那一頁
+// 就退回中文路徑，不產生死鏈。文案在 src/i18n/topics.ts 的 tools.site.*。
+const siteToolDefs = [
+  ...(lang === 'zh-TW'
+    ? [{ id: 'converter', path: '/terminology/converter/' } as const]
+    : []),
+  { id: 'data', path: '/data/' },
+  { id: 'map', path: '/map/' },
+  { id: 'timeline', path: '/timeline/' },
+  { id: 'elections', path: '/elections/2026/' },
+  { id: 'budget', path: '/budget/' },
+] as const;
+const siteGroups: ToolGroup[] = [
+  {
+    id: 'site',
+    title: t('tools.site.title'),
+    tools: siteToolDefs.map((def) => ({
+      href: resolveStaticHref(lang, def.path),
+      title: t(`tools.site.${def.id}.title`),
+      description: t(`tools.site.${def.id}.desc`),
+    })),
+  },
+];
+
+const groups: ToolGroup[] = [...topicGroups, ...siteGroups];
+const allTools = groups.flatMap((g) => g.tools);
+const isEmpty = allTools.length === 0;
+// 介面字串沒有該語言版本（zh-TW、en、ja 以外）的總覽頁只是英文重複頁，不收錄。
+const uiTranslated = topicsUiLang(lang) === lang;
+const updated = latestUpdated(getTopics());
+const year = updated ? updated.slice(0, 4) : '';
+
+const title = isEmpty
+  ? t('tools.meta.title.empty')
+  : t('tools.meta.title', { year }).replace(/\s+([:：])/, '$1');
+const description = isEmpty
+  ? t('tools.meta.description.empty')
+  : t('tools.meta.description', { n: allTools.length, m: groups.length });
+
+const itemListLd = buildItemListLd({
+  name: title,
+  url: localizePath('/tools/', lang),
+  items: allTools.map((tool) => ({
+    name: tool.title,
+    url: tool.href,
+    description: tool.description,
+  })),
+});
+---
+
+<Layout
+  lang={lang}
+  title={title}
+  description={description}
+  noindex={isEmpty || !uiTranslated}
+  dateModified={updated || undefined}
+  readerSettings={true}
+>
+  <div class="tf-surface tf-index" data-tf-index="tools">
+    <PageHero
+      title={t('tools.hero.title')}
+      subtitle={t('tools.hero.subtitle')}
+      titleSize="clamp"
+      padding="compact"
+    />
+
+    <div class="tf-wrap">
+      {
+        isEmpty ? (
+          <div class="tf-empty" data-tf-empty>
+            <h2 class="tf-empty-title">{t('tools.empty.title')}</h2>
+            <p class="tf-empty-body">{t('tools.empty.body')}</p>
+          </div>
+        ) : (
+          groups.map((group) => (
+            <section class="tf-group" data-tf-group={group.id}>
+              <header class="tf-group-head">
+                <h2 class="tf-group-title">
+                  {group.emoji && (
+                    <span class="tf-group-emoji" aria-hidden="true">
+                      {group.emoji}
+                    </span>
+                  )}
+                  {group.href ? (
+                    <a href={group.href}>{group.title}</a>
+                  ) : (
+                    group.title
+                  )}
+                </h2>
+                <p class="tf-group-count">
+                  {t('tools.group.count', { n: group.tools.length })}
+                </p>
+              </header>
+              <ul class="tf-tool-list">
+                {group.tools.map((tool) => (
+                  <li>
+                    <a class="tf-tool-card" href={tool.href}>
+                      <h3 class="tf-tool-title">{tool.title}</h3>
+                      <p class="tf-tool-desc">{tool.description}</p>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        )
+      }
+
+      {
+        !isEmpty && (
+          <p class="tf-index-more">
+            <a href={localizePath('/topics/', lang)}>{t('tools.topicsLink')}</a>
+          </p>
+        )
+      }
+    </div>
+
+    {
+      itemListLd && (
+        <script
+          type="application/ld+json"
+          set:html={serializeJsonLd(itemListLd)}
+        />
+      )
+    }
+  </div>
+</Layout>
+
+<style>
+  .tf-group {
+    margin-top: var(--space-6);
+  }
+  .tf-group:first-child {
+    margin-top: 0;
+  }
+  .tf-group-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.2rem 1rem;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .tf-group-title {
+    margin: 0;
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
+    line-height: 1.32;
+    color: var(--color-ink);
+  }
+  .tf-group-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .tf-group-title a:hover,
+  .tf-group-title a:focus-visible {
+    color: var(--color-accent);
+  }
+  .tf-group-emoji {
+    margin-inline-end: 0.4em;
+  }
+  .tf-group-count {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    color: var(--color-ink-soft);
+  }
+  .tf-tool-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: 0.9rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tf-tool-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1.1rem 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    color: var(--color-ink);
+    text-decoration: none;
+    box-shadow: var(--shadow-soft);
+  }
+  .tf-tool-card:hover,
+  .tf-tool-card:focus-visible {
+    border-color: var(--color-accent);
+  }
+  .tf-tool-title {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 1.05rem;
+    font-weight: 800;
+    line-height: 1.4;
+    letter-spacing: 0;
+  }
+  .tf-tool-desc {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .tf-empty {
+    max-width: 36rem;
+    margin: 0 auto;
+    padding: var(--space-6) 1.25rem;
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius-chip);
+    text-align: center;
+  }
+  .tf-empty-title {
+    margin: 0 0 0.4rem;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--color-ink);
+  }
+  .tf-empty-body {
+    margin: 0;
+    color: var(--color-ink-soft);
+    line-height: 1.75;
+  }
+  .tf-index-more {
+    margin: var(--space-5) 0 0;
+    text-align: center;
+    font-size: 0.92rem;
+  }
+  .tf-index-more a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+</style>

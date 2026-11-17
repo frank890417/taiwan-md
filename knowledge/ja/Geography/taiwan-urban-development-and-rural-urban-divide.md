@@ -2,20 +2,22 @@
 title: '台湾の都市発展と都市・農村格差'
 description: '70年間で農業の島から都市の島へ、六都に7割の人口と税収が集中する光と影：繁栄する台中と衰退する雲林の残酷な対比'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags: ['都市発展', '都市・農村格差', '六都', '人口移動', '地域発展']
-readingTime: 12
+subcategory: '城市與人文地理'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: false
+difficulty: 'beginner'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: 'f45a1933'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bfa78a33fd163a9a'
 sourceBodyHash: 'sha256:aa0440f383f174b1'
-translatedAt: '2026-05-01T19:52:32+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-05T04:45:59.173506+00:00'
 ---
 
 # 台湾の都市発展と都市・農村格差

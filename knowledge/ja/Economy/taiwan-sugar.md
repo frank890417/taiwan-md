@@ -1,19 +1,22 @@
 ---
 title: '台糖：外貨収入の74%を支えた甘味帝国から、2025年に利益新高を記録する「本業離れ」の大地主へ'
 description: '2025年、台糖の税引後純利益は74億元の新高を記録しましたが、この百年企業はすでに砂糖販売で稼ぐ時代を過ぎています。日本統治時代の植民地経済の支柱から戦後の経済の生命線へ、砂糖から蘭花・バイオテクノロジー・循環型建築へと転身した台糖が「甘味」を再定義する軌跡を辿ります。'
-category: Economy
-tags: [台糖, 製糖業の歴史, 事業転換, 循環経済, 胡蝶蘭]
-author: 'Taiwan.md Contributors'
 date: 2026-05-03
-readingTime: 8
+category: 'Economy'
+tags: ['台糖', '製糖業の歴史', '事業転換', '循環経済', '胡蝶蘭']
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: Economy/台糖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Economy/台糖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: 2026-05-03T20:53:43+08:00
+translatedAt: '2026-11-04T16:21:53.221910+00:00'
 ---
 
 > **30秒でわかる：** 1950年代、台湾の外貨収入100元のうち74元は台糖の砂糖によるものでした。現在、台糖の砂糖事業は毎年赤字を抱えていますが、2025年には食用油・胡蝶蘭・土地開発により74.68億元の過去最高益を記録しました。台湾最大の地主である同社は、「製糖会社」から「循環経済」のリーダーへと変貌を遂げています。
@@ -62,7 +65,7 @@ translatedAt: 2026-05-03T20:53:43+08:00
 
 [^3]: [台湾光華雑誌：世紀を越えて、台糖の転換が甘味を探す](https://www.taiwan-panorama.com/Articles/Details?Guid=8ece1ddb-8ea5-4806-ad4e-8a1ef0e91495&CatId=9&postname=%E4%B8%96%E7%B4%80%E8%B5%B0%E9%81%8E%EF%BC%8C%E5%8F%B0%E7%B3%96%E8%BD%89%E5%9E%8B%E6%89%BE%E7%94%9C%E9%A0%AD) — 台湾光華雑誌特集記事
 
-[^4]: [我們的島：【製糖歴史】台湾蔗糖の晩年の記録](https://ourisland.pts.org.tw/content/1084) — 公視新聞網
+[^4]: [我們的島：【製糖歴史】台湾蔗糖の晩年の記録](https://ourisland.pts.org.tw/content/1084) — 公視新聞網：詳細はリンク先の原文を参照
 
 [^5]: [台糖公式サイト：事業規模](https://www.taisugar.com.tw/chinese/CP2.aspx?n=10007) — 台糖公式サイト
 

@@ -2,25 +2,29 @@
 title: '趙自強：蘭陵劇坊での啓蒙から、フルーツおばあちゃんのエプロンの下にある不屈の魂'
 description: '1984年、趙自強は「年間無料」の広告をきっかけに蘭陵劇坊に参加し、劇場・映像・子ども芸術を横断する伝説的なキャリアをスタートさせました。彼は「フルーツおばあちゃん」で無数の子どもの童年を温めましたが、現実では「もし子ども劇団」を創設し数千万円の負債を抱え、パンデミックと財務危機の中で「絶対に降参しない」硬骨を示しました。これは、30年にわたる歳月で台湾の子どもたちの夢を守る深い実践です。'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - '趙自強'
-  - 'フルーツおばあちゃん'
-  - 'もし子ども劇団'
-  - '蘭陵劇坊'
-  - '子ども芸術'
-  - '台湾文化'
-readingTime: 12
+  [
+    '趙自強',
+    'フルーツおばあちゃん',
+    'もし子ども劇団',
+    '蘭陵劇坊',
+    '子ども芸術',
+    '台湾文化',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-06-12T00:53:40+08:00'
+translatedAt: '2026-11-04T20:21:24.259808+00:00'
 ---
 
 > **30 秒概覽：**  

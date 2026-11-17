@@ -1,15 +1,15 @@
 ---
-title: '台湾の全年齢共生旅行と生活文化：人情味が最強のバリアフリー設備となる時'
-description: '家庭の視点から観察する、台湾社会が「人情味」と共生的な施設を通じて、超高齢化社会への道のりで「家族で旅行すること」の意味を再定義している過程。'
+title: '台湾の全世代共生型観光と生活文化：人の温かみがバリアフリーになる時'
+description: '家族の視点から、台湾社会がどのように人情味と共生施設を通じて、超高齢社会へと向かう道のりの中で「家族全員での旅行」の意味を再定義しているのかを考察します。'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    '全年齢共生',
-    'バリアフリー旅行',
-    '超高齢化社会',
-    '家庭文化',
-    '社会的レジリエンス',
+    '全世代共生',
+    'バリアフリー観光',
+    '超高齢社会',
+    '家族文化',
+    '社会のレジリエンス',
   ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:29+08:00'
+translatedAt: '2026-11-02T16:16:40.630823+00:00'
 ---
 
 > **30秒の概観：**

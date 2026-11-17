@@ -2,9 +2,7 @@
 title: 'Tiết Trung Nguyên: Từ nỗi sợ an ủi cô hồn đến sự hòa giải tập thể của một hòn đảo'
 description: 'Tiết Trung Nguyên tại Đài Loan không chỉ là sự kính trọng đối với ma quỷ, mà còn là một bản ghi chép sinh tồn về quá trình khai phá, xung đột và hòa hợp sắc tộc. Từ sự hòa giải đầy nước mắt ở Keelung đến cuộc đua cướp cô cực hạn chế ở Tou-Cheng, lễ hội này tiết lộ cách người Đài Loan chuyển hóa nỗi sợ hãi thành điều ước hòa bình xã hội.'
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Trung Nguyên Phổ Độ',
@@ -13,15 +11,20 @@ tags:
     'Phong tục Đài Loan',
     'Lịch sử',
   ]
-readingTime: 8
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-25T21:33:45+08:00'
+translatedAt: '2026-11-05T08:26:08.809974+00:00'
 ---
 
 > **30 giây xem nhanh:** Tiết Trung Nguyên tại Đài Loan không phải là một nghi thức tôn giáo đơn thuần, mà là một "điều ước hòa bình xã hội" kéo dài hàng thế kỷ. Sự gian khổ trong giai đoạn khai phá sớm và những cuộc giao tranh đẫm máu giữa các sắc tộc đã thúc đẩy các tiền nhân thiết lập cơ chế cạnh tranh như "Lễ hội Keelung Trung Nguyên" — thay thế việc "đánh nhau đến vỡ đầu" bằng việc "cạnh tranh qua các nghi lễ". Lễ hội này xem những "người ngoài" chết nơi đất khách là "anh em tốt" (Hảo Huynh Đệ), thể hiện lòng trắc ẩn đặc thù của xã hội di dân và sức mạnh gắn kết cộng đồng.

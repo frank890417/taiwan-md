@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-11T03:20:22+08:00'
+translatedAt: '2026-11-02T15:56:30.847286+00:00'
 ---
 
 # Beyond Setting Sail: How Taiwan’s Fisheries Were Rebuilt by Research Vessels, Fish Markets, and a Community of Technical Experts
@@ -142,10 +142,10 @@ Similarly, the roads, ice-making, electricity, and warehousing brought by port m
 
 ## Further Reading
 
-- [The Modernization of Taiwan’s Fisheries](/en/history/taiwan-fishery-modernization) — The second half of the same sea: distant-water fleets, exclusive economic zones, and flag state responsibilities
-- [The History of Taiwan’s Agricultural Associations](/en/history/taiwan-farmers-association-history) — Institutional changes in rural organizations, finance, and local public windows
-- [The History of Taiwan Post](/history/台灣郵政史) — Another public infrastructure connecting localities, logistics, and state administration
-- [The History of Taiwan Water](/history/台灣自來水史) — How engineering, hygiene, and urban daily life jointly formed institutions
+- [The Modernization of Taiwan's Fisheries](/en/history/taiwan-fishery-modernization) — The second half of the same sea: distant-water fleets, Exclusive Economic Zones (EEZ), and flag state responsibilities
+- [History of Taiwan's Farmers' Associations](/en/history/taiwan-farmers-association-history) — Institutional changes in rural organizations, finance, and local public service windows
+- [History of Taiwan Post](/en/lifestyle/taiwan-postal-service-history) — Another set of public infrastructure connecting localities, logistics, and national administration
+- [History of Taiwan's Waterworks](/en/geography/taiwan-tap-water) — How engineering, sanitation, and urban daily life jointly formed institutions
 
 ## References
 

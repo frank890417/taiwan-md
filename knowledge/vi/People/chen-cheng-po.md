@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b8c1fe63b179aa944f1b71e0f5372482bbd9c512d7f71f11c19092f1754bf9c2'
-sourceBodyHash: 'sha256:3b3ecccc38a481b76da39e931219bc8fe9bc4450eada65f0a41ff85f34f749ea'
-translatedAt: '2026-07-31T09:00:00Z'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:485587af49d56815'
+sourceBodyHash: 'sha256:433a66ecaa1d5d52'
+translatedAt: '2026-11-04T22:35:22.876965+00:00'
 ---
 
 > **Tổng quan 30 giây:** Ngày 25 tháng 3 năm 1947, trước ga Chiayi, một người cầm cây bút vẽ bị cột tay bằng dây sắt, bị bắn giết giữa phố. Anh tên là Trần澄Ba, người Đài Loan đầu tiên đưa tranh sơn dầu vào Triển lãm Đế Quốc của Nhật Bản, cũng là những người đi đàm phán trong Sự kiện 228 nhưng không bao giờ quay lại.

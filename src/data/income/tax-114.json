@@ -1,0 +1,119 @@
+{
+  "_meta": {
+    "fiscalYear": 114,
+    "filingPeriod": "2026 年 5 月",
+    "asOf": "2026-11-10",
+    "notes": [
+      "114 年度金額與 113 年度相同（CPI 累計漲幅 2.29% 未達 3%，未調整）。",
+      "儲蓄投資、教育學費、幼兒學前、長照、房租為法條固定金額，不隨 CPI 調整；長照 114 年度起由 12 萬調為 18 萬（2025-12-26 公布）。",
+      "未成年子女免稅額加成自 115 年度起施行，114 年度為 null（一律用一般免稅額）。",
+      "教育學費實際發生數不足 25,000 元者以實際為限：本資料檔沒有逐人金額，工具以每人 25,000 元計。",
+      "savings／education／dividend／exclusion 的公告日研究檔沒有單獨日期，填 null（法條固定金額）。"
+    ]
+  },
+  "exemption": {
+    "general": 97000,
+    "elderly70": 145500,
+    "minorChild": null,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg030223/ch04/type3/gov30/num16/Eg.htm",
+    "announced": "2024-11-28",
+    "minorChildSource": null,
+    "minorChildAnnounced": null
+  },
+  "standardDeduction": {
+    "single": 131000,
+    "married": 262000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg030223/ch04/type3/gov30/num16/Eg.htm",
+    "announced": "2024-11-28"
+  },
+  "salaryDeduction": {
+    "cap": 218000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg030223/ch04/type3/gov30/num16/Eg.htm",
+    "announced": "2024-11-28"
+  },
+  "disabledDeduction": {
+    "amount": 218000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg030223/ch04/type3/gov30/num16/Eg.htm",
+    "announced": "2024-11-28"
+  },
+  "savingsDeduction": {
+    "cap": 270000,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  },
+  "educationDeduction": {
+    "perStudent": 25000,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  },
+  "preschoolDeduction": {
+    "first": 150000,
+    "second": 225000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=643fcb01a1c04ff49c4e3008cdba4eea",
+    "announced": "2023-12-19"
+  },
+  "longTermCareDeduction": {
+    "perPerson": 180000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=ac9ee8a563c24db9ad0ad3fdc6c4046f",
+    "announced": "2025-12-09"
+  },
+  "rentDeduction": {
+    "cap": 180000,
+    "source": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=643fcb01a1c04ff49c4e3008cdba4eea",
+    "announced": "2023-12-19"
+  },
+  "brackets": {
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg030223/ch04/type3/gov30/num16/Eg.htm",
+    "speedFormulaSource": "https://www.dot.gov.tw/download/5ed91bbeb60642e583fadb9263e29e51",
+    "announced": "2024-11-28",
+    "rows": [
+      {
+        "upTo": 590000,
+        "rate": 0.05,
+        "differential": 0
+      },
+      {
+        "upTo": 1330000,
+        "rate": 0.12,
+        "differential": 41300
+      },
+      {
+        "upTo": 2660000,
+        "rate": 0.2,
+        "differential": 147700
+      },
+      {
+        "upTo": 4980000,
+        "rate": 0.3,
+        "differential": 413700
+      },
+      {
+        "upTo": null,
+        "rate": 0.4,
+        "differential": 911700
+      }
+    ]
+  },
+  "basicLiving": {
+    "perPerson": 213000,
+    "source": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num11/Eg.htm",
+    "announced": "2025-11-27"
+  },
+  "dividend": {
+    "creditRate": 0.085,
+    "creditCap": 80000,
+    "separateRate": 0.28,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=15",
+    "announced": null
+  },
+  "amt": {
+    "threshold": 7500000,
+    "source": "https://www.dot.gov.tw/download/46adf1bdce914c288986c7fb6c188c63",
+    "announced": "2024-11-26"
+  },
+  "exclusion": {
+    "rate": 0.2,
+    "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17",
+    "announced": null
+  }
+}

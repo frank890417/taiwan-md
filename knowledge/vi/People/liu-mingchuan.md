@@ -18,11 +18,13 @@ featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-04T21:23:51.001249+00:00'
 ---
 
 > **30 giây tổng quan:** Năm 1884, pháo binh Chiến tranh Thanh-Pháp đã đẩy Lưu Minh Truyền đến một điểm gập của lịch sử Đài Loan. Ông không chỉ thành công chống lại sự xâm lược ngoại lai, mà còn trong sáu năm sau khi nắm chức quan chức đầu tiên, đã biến Đài Bắc thành một trong những thành phố tiên tiến nhất của đế quốc Thanh — nơi đây có tuyến đường sắt hành khách đầu tiên, ngọn đèn điện đầu tiên, và các lớp học phương Tây sớm nhất. Tuy nhiên, "tiên phong hiện đại hoá" này không hoàn toàn suôn sẻ — quyết định rút lui chiến trường của ông và chính sách nhà nước áp lực cao, cho đến nay vẫn là tâm điểm của các cuộc tranh luận trong lịch sử học.

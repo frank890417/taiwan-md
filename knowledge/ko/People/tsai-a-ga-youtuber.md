@@ -1,20 +1,23 @@
 ---
 title: '차이아거: 인플루언서 시조에서 사회복지 사명까지, 18년의 트래픽으로 운명을 뒤집은 남자'
 description: "2022년 대만 첫 백만 인플루언서 차이아거가 집을 팔아 '하오리자 사회복지 협회'를 설립했다. 18년간 쌓은 영향력을 사회 사명으로 전환한 것이다. 2008년 국기 소각 영상부터 2022년 차이타오궤이가 '최연소 백만 인플루언서' 기록을 세우기까지, 차이아거는 트래픽, 논란, 배신 속에서 약자 아이들에게 희망을 비추고자 하는 사회복지사의 영혼을 시종 지켰다."
+date: 2026-04-23
 category: 'People'
 tags:
   ['차이아거', '차이타오궤이', 'YouTuber', '사회복지사', '사회복지', '대만문화']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
-date: 2026-04-23
-readingTime: 12
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蔡阿嘎.md'
-sourceCommitSha: 'f5975a22'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: '2026-05-02T09:03:00+08:00'
-featured: false
+translatedAt: '2026-11-04T22:07:14.550356+00:00'
 ---
 
 > **30초 개요:**

@@ -2,9 +2,7 @@
 title: 'Liao Hung-chi: Do Barco de Pesca de Agulhão à Deriva da Kuroshio, o Escritor do Mar que Mediu os Mares de Taiwan com a Própria Vida'
 description: "Em 1992, Liao Hung-chi virou a vida para se tornar um homem do mar, fundou a Fundação Cultural e Educacional Kuroshio e, com o 'Kuroshio 101' e o 'Projeto Cachalote π', redefiniu a perspectiva oceânica dos taiwaneses, sendo uma figura-chave na literatura oceânica contemporânea e na conservação ecológica."
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'Literatura Oceânica',
@@ -13,15 +11,19 @@ tags:
     'Hualien',
     'Cachalote',
   ]
-readingTime: 12
+subcategory: '文學'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-05T00:03:51.305387+00:00'
 ---
 
 # Liao Hung-chi

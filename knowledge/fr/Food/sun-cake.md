@@ -1,27 +1,30 @@
 ---
 title: "Le gâteau soleil : de l'interdiction du « tournesol » sous la loi martiale aux cent fleuves en concurrence sur la route de la Liberté à Taichung"
 description: "En 1964, la pâtisserie « Tangen Tang » ouvrit ses portes sur la route de la Liberté à Taichung. La mosaïque de tournesols créée par l'artiste Yan Shui-long fut scellée pendant 25 ans en raison d'interdictions politiques. Ce gâteau rond, hérité des galettes au maltose de la fin de la dynastie Qing et perfectionné par Wei Qing-hai, est passé du statut d'accompagnement dans les bentō ferroviaires à celui de symbole culturel le plus emblématique de Taichung. Comment cette transformation s'est-elle accomplie ?"
-category: Food
+date: 2026-04-26
+category: 'Food'
 tags:
   [
-    gâteau-soleil,
-    gastronomie-de-taichung,
-    Wei Qing-hai,
-    Yan Shui-long,
-    Tangen Tang,
-    maltose,
+    'gâteau-soleil',
+    'gastronomie-de-taichung',
+    'Wei Qing-hai',
+    'Yan Shui-long',
+    'Tangen Tang',
+    'maltose',
   ]
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md'
-date: 2026-04-26
-readingTime: 8
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/太陽餅.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/太陽餅.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-05T05:08:27.875723+00:00'
 ---
 
 > **En bref (30 secondes) :** Le gâteau soleil ne porte pas ce nom depuis toujours. Il trouve son origine dans la « galette au maltose » (麥芽酥餅) de la fin de la dynastie Qing et du début de la République, avant d''évoluer vers sa forme actuelle — croûte fine et feuilletée — grâce aux perfectionnements apportés par le maître pâtissier Wei Qing-hai du district de Beitun à Taichung. En 1964, la mosaïque de tournesols conçue par l''artiste Yan Shui-long pour « Tangen Tang » fut scellée pendant 25 ans, soupçonnée de « propagande en faveur de l''ennemi ». Cet épisode politique a paradoxalement ajouté une dimension légendaire à ce gâteau.

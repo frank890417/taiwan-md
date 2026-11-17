@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:01:32+08:00'
+translatedAt: '2026-11-04T20:04:42.500505+00:00'
 ---
 
 > **30초 요약:** 2026년 대만에서 26명 중 1명은 국제 이주노동자이다. 총 인원은 87.3만 명으로 상승했으며, 약 9.4만 명의 실종 이주노동자를 포함하면 이 이방인들은 대만 상주 인구의 5% 이상을 차지한다. 타이베이 역전 광장의 라이브 방송 문화부터 이주노동자 대규모 시위에서 '근로年限 폐지'를 고수하는 모습, 그리고 2026년 4월 서명 인원이 4만 명을 돌파한 '인도 이주노동자 반대' 물결에 이르기까지, 대만은 노동력 극도의 부족과 사회 통합에 대한 불안이라는 교차로에 서 있다. 이는 단순한 노동 정책이 아니라, 대만이 '우리'를 어떻게 정의할 것인지에 대한 집단적 시련이다.

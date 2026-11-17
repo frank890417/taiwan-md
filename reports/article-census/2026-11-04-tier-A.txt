@@ -1,0 +1,184 @@
+# article-census 2026-11-04 — A 級：應標 🌱 進化中（目前沒標）
+# 產生：python3 scripts/tools/article-census.py --tier A（規則見 lib/article_health/census.py）
+# 167 篇；排序＝流量高到低
+# 套用請用分批檔（各帶自己的 --reason）：-tier-A2.txt／-tier-A1-unverified.txt／-tier-A1-thin.txt
+# 排除 12 篇 featured（標了會失去精選＝動首頁，等哲宇決定）：
+#   knowledge/Food/台灣滷肉飯.md
+#   knowledge/History/史前時代與原住民.md
+#   knowledge/People/杜奕瑾.md
+#   knowledge/Music/台灣音樂祭文化.md
+#   knowledge/Music/八部合音.md
+#   knowledge/Culture/注音符號.md
+#   knowledge/Food/台灣麵食文化.md
+#   knowledge/Art/台灣策展人與藝術文化建構.md
+#   knowledge/Food/珍珠奶茶.md
+#   knowledge/Food/粽子.md
+#   knowledge/Food/糖蔥.md
+#   knowledge/People/有感筆電.md
+knowledge/People/魏哲家.md
+knowledge/Culture/菜市場名.md
+knowledge/Economy/萊爾富.md
+knowledge/Geography/台灣都市發展與城鄉差距.md
+knowledge/History/十大建設.md
+knowledge/Culture/關聖帝君信仰.md
+knowledge/Society/外省人.md
+knowledge/People/阿翰.md
+knowledge/Food/鳳梨酥.md
+knowledge/Food/蚵仔煎.md
+knowledge/History/林爽文事件.md
+knowledge/Economy/台灣企業：瑞昱半導體.md
+knowledge/History/婦女運動.md
+knowledge/People/黃氏兄弟.md
+knowledge/People/傅崐萁.md
+knowledge/People/鄭成功.md
+knowledge/Economy/新台幣.md
+knowledge/Economy/台灣企業：中鋼.md
+knowledge/Society/台灣電視分級制度.md
+knowledge/Lifestyle/尪仔標.md
+knowledge/People/陳菊.md
+knowledge/History/823砲戰.md
+knowledge/Culture/台灣口語特色.md
+knowledge/People/鄧雨賢.md
+knowledge/Nature/台灣原住民生態智慧與環境保育.md
+knowledge/History/消失的遊樂園.md
+knowledge/Culture/伊斯蘭教在台灣.md
+knowledge/Nature/台灣高山生態系與冰河孑遺.md
+knowledge/Nature/黑面琵鷺.md
+knowledge/Economy/台灣自媒體創作者經濟.md
+knowledge/History/八仙塵爆.md
+knowledge/People/楊致遠.md
+knowledge/Food/竹筒飯.md
+knowledge/Culture/台灣原住民族16族文化地圖.md
+knowledge/Music/茄子蛋.md
+knowledge/Culture/台灣原住民語言復振運動.md
+knowledge/People/伍佰.md
+knowledge/People/朱天文.md
+knowledge/Food/油飯.md
+knowledge/Technology/活俠傳.md
+knowledge/People/施明德.md
+knowledge/History/臺灣議會設置請願運動.md
+knowledge/People/李昌鈺.md
+knowledge/People/林義雄.md
+knowledge/People/陳士駿.md
+knowledge/People/廖添丁.md
+knowledge/People/波特王.md
+knowledge/Geography/台灣行政區劃.md
+knowledge/People/尼克星.md
+knowledge/Food/棺材板.md
+knowledge/Society/民主制度.md
+knowledge/Geography/台灣水庫與水資源管理.md
+knowledge/People/林百里.md
+knowledge/Food/肉圓.md
+knowledge/Culture/原住民神話.md
+knowledge/Culture/台灣華語的演化.md
+knowledge/Food/黑松.md
+knowledge/People/莊朱玉女.md
+knowledge/Culture/噗浪Plurk.md
+knowledge/People/張忠仁與張忠義.md
+knowledge/People/邵友濂.md
+knowledge/History/台灣原住民族歷史與正名運動.md
+knowledge/Economy/中華菱利.md
+knowledge/Food/台灣火鍋.md
+knowledge/Culture/台灣外來語與語言接觸.md
+knowledge/Food/太陽餅.md
+knowledge/Society/台灣省籍矛盾.md
+knowledge/Lifestyle/桃園機場.md
+knowledge/People/楊維哲.md
+knowledge/Food/蘿蔔糕.md
+knowledge/Nature/Palakaw.md
+knowledge/People/郭金發.md
+knowledge/Culture/布農族小米歲時祭儀.md
+knowledge/Culture/四秀仔.md
+knowledge/Economy/紡織業.md
+knowledge/Culture/台灣教會公報.md
+knowledge/Society/台灣斜槓世代.md
+knowledge/Culture/國立故宮博物院.md
+knowledge/Society/移工.md
+knowledge/Society/台灣原住民族土地正義與傳統領域.md
+knowledge/Art/台灣水彩畫的百年流變.md
+knowledge/Art/歌仔戲.md
+knowledge/Art/金馬賓館當代美術館.md
+knowledge/Art/首映創意.md
+knowledge/Art/鶯歌陶瓷博物館.md
+knowledge/Culture/Dcard.md
+knowledge/Culture/中元節.md
+knowledge/Culture/基督教在台灣.md
+knowledge/Culture/巴哈姆特.md
+knowledge/Culture/農曆七月.md
+knowledge/Culture/鄒族戰祭.md
+knowledge/Culture/長輩圖.md
+knowledge/Economy/台灣造船業.md
+knowledge/Economy/台糖.md
+knowledge/Economy/生活市集.md
+knowledge/Economy/螺絲.md
+knowledge/Food/台南中西區美食小吃文化.md
+knowledge/Food/名間埔中茶.md
+knowledge/Food/臭豆腐.md
+knowledge/Food/蘋果麵包.md
+knowledge/Food/金牛角.md
+knowledge/Geography/中華民國美學.md
+knowledge/Geography/水往上流.md
+knowledge/Geography/自來水.md
+knowledge/Geography/野柳.md
+knowledge/Geography/阿里山林業鐵路.md
+knowledge/History/中正紀念堂.md
+knowledge/History/台灣廣播史.md
+knowledge/History/嘉義農林.md
+knowledge/History/國家鐵道博物館.md
+knowledge/History/心戰.md
+knowledge/History/源興牛與牛肉湯的歷史.md
+knowledge/History/牡丹社事件.md
+knowledge/Lifestyle/台灣YouBike文化與城市微交通革命.md
+knowledge/Lifestyle/合作社.md
+knowledge/Music/台灣客家音樂.md
+knowledge/Nature/台灣海洋生態與珊瑚礁保育.md
+knowledge/Nature/水獺.md
+knowledge/People/六指淵.md
+knowledge/People/劉銘傳.md
+knowledge/People/妮妃雅.md
+knowledge/People/孫運璿.md
+knowledge/People/廖鴻基.md
+knowledge/People/張惠妹.md
+knowledge/People/徐熙媛.md
+knowledge/People/朱經武.md
+knowledge/People/李昂.md
+knowledge/People/楊右任.md
+knowledge/People/楊深坑.md
+knowledge/People/沈文程.md
+knowledge/People/沈聖博.md
+knowledge/People/理科太太.md
+knowledge/People/白先勇.md
+knowledge/People/蔡阿嘎.md
+knowledge/People/蕭煌奇.md
+knowledge/People/許文龍.md
+knowledge/People/許淑淨.md
+knowledge/People/許芳宜.md
+knowledge/People/趙自強.md
+knowledge/People/郁永河.md
+knowledge/People/郭正光.md
+knowledge/People/鄭兆村.md
+knowledge/People/鍾理和.md
+knowledge/People/阿滴.md
+knowledge/People/陳俊良.md
+knowledge/People/陳澄波.md
+knowledge/People/陽岱鋼.md
+knowledge/People/黃光雄.md
+knowledge/People/黃春明.md
+knowledge/People/黃震南.md
+knowledge/Politics/選舉過程.md
+knowledge/Society/TikTok.md
+knowledge/Society/台灣人工生殖.md
+knowledge/Society/台灣有哪些動物園.md
+knowledge/Society/台灣與立陶宛.md
+knowledge/Society/名間焚化爐.md
+knowledge/Society/地震.md
+knowledge/Society/當兵.md
+knowledge/Society/社區大學黃武雄.md
+knowledge/Society/野百合學運.md
+knowledge/Technology/功字裡的那根反斜線.md
+knowledge/Technology/台灣Game-Jam社群.md
+knowledge/Technology/台灣災難醫療體系.md
+knowledge/Technology/台灣開源精神.md
+knowledge/Technology/國家文化記憶庫.md
+knowledge/Technology/淡江大橋.md
+knowledge/Technology/維基百科.md

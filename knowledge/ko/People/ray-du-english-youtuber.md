@@ -2,19 +2,21 @@
 title: '아디: 영어를 거부하던 어린 유학생에서 대만 유튜브계의 "이장"으로'
 description: '2020년, 유튜버 아디가 뉴욕타임스 광고 모금을 주도하여 세계에 대만을 알렸다. 2021년에는 우울증 진단 사실을 공개하며 인생의 나락을 당당히 마주했다. 싱가포르에서의 영어 입문부터 크리에이터 협회 설립까지, 아디는 단순한 지식형 인플루언서를 넘어 대만 신미디어 생태계의 선구자로 자리매김했다.'
 date: 2026-04-20
-tags: ['YouTuber', '아디', '대만 신미디어', '우울증', '뉴욕타임스 광고']
 category: 'People'
+tags: ['YouTuber', '아디', '대만 신미디어', '우울증', '뉴욕타임스 광고']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
-readingTime: 9
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
-translatedFrom: People/阿滴.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/阿滴.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T21:24:26.022106+00:00'
 ---
 
 > **30초 개요:** 2020년, 유튜버 아두서이(都省瑞, 아디)가 "ThisAttackComesFromTaiwan" 모금 프로젝트를 시작하여 불과 수 시간 만에 400만 타이완 달러 목표를 달성했으며, 최종적으로 약 1,900만 타이완 달러를 모금하여 《뉴욕타임스》에 전면 광고를 게재하고 세계에 대만의 목소리를 높였다. 이듬해인 2021년에는 약 1년간 우울증을 앓아온 심정의 변화를 공개했으며, 지치치(志祺七七) 등과 함께 대만 신미디어 영상 크리에이터 협회를 공동 설립하고 이사장에 就任하여 대만 크리에이터들의 상호 지원 생태계를 구축했다. 싱가포르 유학 시절 영어를 거부하던 소년에서 대만 유튜브계의 "이장(里長伯)"이 되기까지, 아디의 이야기는 개인의 변화를 넘어 대만 신미디어가 개인 창작에서 산업 공동 발전으로 나아가는 생생한 축소판이다.

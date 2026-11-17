@@ -2,28 +2,30 @@
 title: "Loutres de Taïwan : survie insulaire de la loutre d'Eurasie à Kinmen et disparition silencieuse sur l'île principale"
 description: "La loutre d''Eurasie (_Lutra lutra_) sur l''île principale de Taïwan n''a pas fait l''objet d''observations fiables en milieu naturel depuis les années 1980, et l''état de sa population reste incertain et très préoccupant. Celle de l''archipel de Kinmen, surnommée « loutre de zone de guerre », fait face à une pression multiple : fragmentation de l''habitat, mortalité routière et pollution par les microplastiques."
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Nature
-subcategory: '保育與環境'
+category: 'Nature'
 tags:
   [
-    Loutre d''Eurasie,
-    Kinmen,
-    Île principale de Taïwan,
-    Conservation,
-    Microplastiques,
-    Mortalité routière,
-    Fragmentation de l''habitat,
+    "Loutre d''Eurasie",
+    'Kinmen',
+    'Île principale de Taïwan',
+    'Conservation',
+    'Microplastiques',
+    'Mortalité routière',
+    "Fragmentation de l''habitat",
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Nature/水獺.md
-sourceCommitSha: 4b6d28c54
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/水獺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: 2026-05-16T22:36:25Z
-featured: false
+translatedAt: '2026-11-04T20:13:30.267006+00:00'
 ---
 
 # Loutres de Taïwan : survie insulaire de la loutre d'Eurasie à Kinmen et disparition silencieuse sur l'île principale

@@ -2,18 +2,20 @@
 title: 'Chen Chu'
 description: 'De condenada a muerte en el Incidente de Formosa a la "Mamá Flor" del sur, ella es el testigo más emblemático de la transición democrática de Taiwán.'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['política', 'movimiento democrático', 'Kaohsiung', 'derechos humanos']
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-04T22:14:48.578786+00:00'
 ---
 
 > **Resumen en 30 segundos:**

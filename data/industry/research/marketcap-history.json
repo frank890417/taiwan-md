@@ -1,0 +1,2118 @@
+{
+  "name": "marketcap-history",
+  "accessed": "2026-11-10",
+  "top10ByYear": {
+    "years": {
+      "2005": {
+        "date": "20051230",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 15453,
+            "shares": 24724589514,
+            "closePrice": 62.5
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 7257,
+            "shares": 4031932460,
+            "closePrice": 180.0
+          },
+          {
+            "rank": 3,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 5480,
+            "shares": 9647724900,
+            "closePrice": 56.8
+          },
+          {
+            "rank": 4,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 5215,
+            "shares": 8960729041,
+            "closePrice": 58.2
+          },
+          {
+            "rank": 5,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 5043,
+            "shares": 8474933486,
+            "closePrice": 59.5
+          },
+          {
+            "rank": 6,
+            "code": "2303",
+            "name": "聯電",
+            "marketCapTwd100M": 3671,
+            "shares": 19735453324,
+            "closePrice": 18.6
+          },
+          {
+            "rank": 7,
+            "code": "1303",
+            "name": "南亞",
+            "marketCapTwd100M": 3345,
+            "shares": 7401544541,
+            "closePrice": 45.2
+          },
+          {
+            "rank": 8,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 3344,
+            "shares": 864050580,
+            "closePrice": 387.0
+          },
+          {
+            "rank": 9,
+            "code": "2357",
+            "name": "華碩",
+            "marketCapTwd100M": 2892,
+            "shares": 2863305966,
+            "closePrice": 101.0
+          },
+          {
+            "rank": 10,
+            "code": "2409",
+            "name": "友達",
+            "marketCapTwd100M": 2857,
+            "shares": 5830547132,
+            "closePrice": 49.0
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 156339,
+        "totalCommonStockCapComputedTwd100M": 155609,
+        "top10SumTwd100M": 54557,
+        "top10ShareOfComputedTotalPct": 35.06,
+        "top10ShareOfOfficialTotalPct": 34.9,
+        "tsmcShareOfComputedTotalPct": 9.93,
+        "tsmcShareOfOfficialTotalPct": 9.88,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20051230&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20051230&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20051230",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20051230.json、MI_INDEX_20051230.json"
+        }
+      },
+      "2010": {
+        "date": "20101231",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 18393,
+            "shares": 25905017151,
+            "closePrice": 71.0
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 11352,
+            "shares": 9661248203,
+            "closePrice": 117.5
+          },
+          {
+            "rank": 3,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 9421,
+            "shares": 9525959652,
+            "closePrice": 98.9
+          },
+          {
+            "rank": 4,
+            "code": "2498",
+            "name": "宏達電",
+            "marketCapTwd100M": 7359,
+            "shares": 817653285,
+            "closePrice": 900.0
+          },
+          {
+            "rank": 5,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 7185,
+            "shares": 9696808181,
+            "closePrice": 74.1
+          },
+          {
+            "rank": 6,
+            "code": "1301",
+            "name": "台塑",
+            "marketCapTwd100M": 5968,
+            "shares": 6120904597,
+            "closePrice": 97.5
+          },
+          {
+            "rank": 7,
+            "code": "1303",
+            "name": "南亞",
+            "marketCapTwd100M": 5709,
+            "shares": 7852298603,
+            "closePrice": 72.7
+          },
+          {
+            "rank": 8,
+            "code": "1326",
+            "name": "台化",
+            "marketCapTwd100M": 5588,
+            "shares": 5690472128,
+            "closePrice": 98.2
+          },
+          {
+            "rank": 9,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 5250,
+            "shares": 10154421170,
+            "closePrice": 51.7
+          },
+          {
+            "rank": 10,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 4592,
+            "shares": 1099871602,
+            "closePrice": 417.5
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 238114,
+        "totalCommonStockCapComputedTwd100M": 239095,
+        "top10SumTwd100M": 80816,
+        "top10ShareOfComputedTotalPct": 33.8,
+        "top10ShareOfOfficialTotalPct": 33.94,
+        "tsmcShareOfComputedTotalPct": 7.69,
+        "tsmcShareOfOfficialTotalPct": 7.72,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20101231&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20101231&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20101231",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20101231.json、MI_INDEX_20101231.json"
+        }
+      },
+      "2015": {
+        "date": "20151231",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 37080,
+            "shares": 25930380458,
+            "closePrice": 143.0
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 12636,
+            "shares": 15638288228,
+            "closePrice": 80.8
+          },
+          {
+            "rank": 3,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 7688,
+            "shares": 7757446545,
+            "closePrice": 99.1
+          },
+          {
+            "rank": 4,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 7506,
+            "shares": 9525959652,
+            "closePrice": 78.8
+          },
+          {
+            "rank": 5,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 5817,
+            "shares": 12563210128,
+            "closePrice": 46.3
+          },
+          {
+            "rank": 6,
+            "code": "1301",
+            "name": "台塑",
+            "marketCapTwd100M": 4902,
+            "shares": 6365740781,
+            "closePrice": 77.0
+          },
+          {
+            "rank": 7,
+            "code": "1303",
+            "name": "南亞",
+            "marketCapTwd100M": 4838,
+            "shares": 7930821589,
+            "closePrice": 61.0
+          },
+          {
+            "rank": 8,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 4605,
+            "shares": 10233603995,
+            "closePrice": 45.0
+          },
+          {
+            "rank": 9,
+            "code": "1326",
+            "name": "台化",
+            "marketCapTwd100M": 4337,
+            "shares": 5861186291,
+            "closePrice": 74.0
+          },
+          {
+            "rank": 10,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 4039,
+            "shares": 2597543329,
+            "closePrice": 155.5
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 245130,
+        "totalCommonStockCapComputedTwd100M": 245646,
+        "top10SumTwd100M": 93448,
+        "top10ShareOfComputedTotalPct": 38.04,
+        "top10ShareOfOfficialTotalPct": 38.12,
+        "tsmcShareOfComputedTotalPct": 15.1,
+        "tsmcShareOfOfficialTotalPct": 15.13,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20151231&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20151231&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20151231",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20151231.json、MI_INDEX_20151231.json"
+        }
+      },
+      "2020": {
+        "date": "20201231",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 137431,
+            "shares": 25930380458,
+            "closePrice": 530.0
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 12754,
+            "shares": 13862990609,
+            "closePrice": 92.0
+          },
+          {
+            "rank": 3,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 11878,
+            "shares": 1590062183,
+            "closePrice": 747.0
+          },
+          {
+            "rank": 4,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 9507,
+            "shares": 9525959652,
+            "closePrice": 99.8
+          },
+          {
+            "rank": 5,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 8456,
+            "shares": 7757446545,
+            "closePrice": 109.0
+          },
+          {
+            "rank": 6,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 6832,
+            "shares": 2597543329,
+            "closePrice": 263.0
+          },
+          {
+            "rank": 7,
+            "code": "1301",
+            "name": "台塑",
+            "marketCapTwd100M": 6137,
+            "shares": 6365740781,
+            "closePrice": 96.4
+          },
+          {
+            "rank": 8,
+            "code": "2303",
+            "name": "聯電",
+            "marketCapTwd100M": 5857,
+            "shares": 12422401493,
+            "closePrice": 47.15
+          },
+          {
+            "rank": 9,
+            "code": "1303",
+            "name": "南亞",
+            "marketCapTwd100M": 5702,
+            "shares": 7930821589,
+            "closePrice": 71.9
+          },
+          {
+            "rank": 10,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 5564,
+            "shares": 13169210128,
+            "closePrice": 42.25
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 449000,
+        "totalCommonStockCapComputedTwd100M": 446660,
+        "top10SumTwd100M": 210117,
+        "top10ShareOfComputedTotalPct": 47.04,
+        "top10ShareOfOfficialTotalPct": 46.8,
+        "tsmcShareOfComputedTotalPct": 30.77,
+        "tsmcShareOfOfficialTotalPct": 30.61,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20201231&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20201231&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20201231",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20201231.json、MI_INDEX_20201231.json"
+        }
+      },
+      "2021": {
+        "date": "20211230",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 159472,
+            "shares": 25930380458,
+            "closePrice": 615.0
+          },
+          {
+            "rank": 2,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 19026,
+            "shares": 1598841998,
+            "closePrice": 1190.0
+          },
+          {
+            "rank": 3,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 14418,
+            "shares": 13862990609,
+            "closePrice": 104.0
+          },
+          {
+            "rank": 4,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 9135,
+            "shares": 9525959652,
+            "closePrice": 95.9
+          },
+          {
+            "rank": 5,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 9037,
+            "shares": 7757446545,
+            "closePrice": 116.5
+          },
+          {
+            "rank": 6,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 9007,
+            "shares": 11804964394,
+            "closePrice": 76.3
+          },
+          {
+            "rank": 7,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 8231,
+            "shares": 13169210128,
+            "closePrice": 62.5
+          },
+          {
+            "rank": 8,
+            "code": "2303",
+            "name": "聯電",
+            "marketCapTwd100M": 8114,
+            "shares": 12483247566,
+            "closePrice": 65.0
+          },
+          {
+            "rank": 9,
+            "code": "2603",
+            "name": "長榮",
+            "marketCapTwd100M": 7539,
+            "shares": 5290847369,
+            "closePrice": 142.5
+          },
+          {
+            "rank": 10,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 7143,
+            "shares": 2597543329,
+            "closePrice": 275.0
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 562800,
+        "totalCommonStockCapComputedTwd100M": 560651,
+        "top10SumTwd100M": 251123,
+        "top10ShareOfComputedTotalPct": 44.79,
+        "top10ShareOfOfficialTotalPct": 44.62,
+        "tsmcShareOfComputedTotalPct": 28.44,
+        "tsmcShareOfOfficialTotalPct": 28.34,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20211230&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20211230&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20211230",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20211230.json、MI_INDEX_20211230.json"
+        }
+      },
+      "2022": {
+        "date": "20221230",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 116298,
+            "shares": 25930380458,
+            "closePrice": 448.5
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 13849,
+            "shares": 13862990609,
+            "closePrice": 99.9
+          },
+          {
+            "rank": 3,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 9996,
+            "shares": 1599435327,
+            "closePrice": 625.0
+          },
+          {
+            "rank": 4,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 8766,
+            "shares": 7757446545,
+            "closePrice": 113.0
+          },
+          {
+            "rank": 5,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 7649,
+            "shares": 9525959652,
+            "closePrice": 80.3
+          },
+          {
+            "rank": 6,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 7442,
+            "shares": 2597543329,
+            "closePrice": 286.5
+          },
+          {
+            "rank": 7,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 6979,
+            "shares": 12395212613,
+            "closePrice": 56.3
+          },
+          {
+            "rank": 8,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 5868,
+            "shares": 14669210128,
+            "closePrice": 40.0
+          },
+          {
+            "rank": 9,
+            "code": "1303",
+            "name": "南亞",
+            "marketCapTwd100M": 5631,
+            "shares": 7930821589,
+            "closePrice": 71.0
+          },
+          {
+            "rank": 10,
+            "code": "1301",
+            "name": "台塑",
+            "marketCapTwd100M": 5525,
+            "shares": 6365740781,
+            "closePrice": 86.8
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 442700,
+        "totalCommonStockCapComputedTwd100M": 440926,
+        "top10SumTwd100M": 188003,
+        "top10ShareOfComputedTotalPct": 42.64,
+        "top10ShareOfOfficialTotalPct": 42.47,
+        "tsmcShareOfComputedTotalPct": 26.38,
+        "tsmcShareOfOfficialTotalPct": 26.27,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20221230&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20221230&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20221230",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20221230.json、MI_INDEX_20221230.json"
+        }
+      },
+      "2023": {
+        "date": "20231229",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 153777,
+            "shares": 25932070992,
+            "closePrice": 593.0
+          },
+          {
+            "rank": 2,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 16236,
+            "shares": 1599647517,
+            "closePrice": 1015.0
+          },
+          {
+            "rank": 3,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 14487,
+            "shares": 13862990609,
+            "closePrice": 104.5
+          },
+          {
+            "rank": 4,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 9309,
+            "shares": 7757446545,
+            "closePrice": 120.0
+          },
+          {
+            "rank": 5,
+            "code": "2382",
+            "name": "廣達",
+            "marketCapTwd100M": 8672,
+            "shares": 3862627432,
+            "closePrice": 224.5
+          },
+          {
+            "rank": 6,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 8434,
+            "shares": 13014973243,
+            "closePrice": 64.8
+          },
+          {
+            "rank": 7,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 8143,
+            "shares": 2597543329,
+            "closePrice": 313.5
+          },
+          {
+            "rank": 8,
+            "code": "6505",
+            "name": "台塑化",
+            "marketCapTwd100M": 7687,
+            "shares": 9525959652,
+            "closePrice": 80.7
+          },
+          {
+            "rank": 9,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 6711,
+            "shares": 14669210128,
+            "closePrice": 45.75
+          },
+          {
+            "rank": 10,
+            "code": "2303",
+            "name": "聯電",
+            "marketCapTwd100M": 6591,
+            "shares": 12529822160,
+            "closePrice": 52.6
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 568400,
+        "totalCommonStockCapComputedTwd100M": 566559,
+        "top10SumTwd100M": 240047,
+        "top10ShareOfComputedTotalPct": 42.37,
+        "top10ShareOfOfficialTotalPct": 42.23,
+        "tsmcShareOfComputedTotalPct": 27.14,
+        "tsmcShareOfOfficialTotalPct": 27.05,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20231229&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20231229&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20231229",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20231229.json、MI_INDEX_20231229.json"
+        }
+      },
+      "2024": {
+        "date": "20241231",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 278777,
+            "shares": 25932733242,
+            "closePrice": 1075.0
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 25508,
+            "shares": 13862990609,
+            "closePrice": 184.0
+          },
+          {
+            "rank": 3,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 22664,
+            "shares": 1601687990,
+            "closePrice": 1415.0
+          },
+          {
+            "rank": 4,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 12340,
+            "shares": 13665721905,
+            "closePrice": 90.3
+          },
+          {
+            "rank": 5,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 11182,
+            "shares": 2597543329,
+            "closePrice": 430.5
+          },
+          {
+            "rank": 6,
+            "code": "2382",
+            "name": "廣達",
+            "marketCapTwd100M": 11086,
+            "shares": 3862627432,
+            "closePrice": 287.0
+          },
+          {
+            "rank": 7,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 10019,
+            "shares": 14669210128,
+            "closePrice": 68.3
+          },
+          {
+            "rank": 8,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 9580,
+            "shares": 7757446545,
+            "closePrice": 123.5
+          },
+          {
+            "rank": 9,
+            "code": "2891",
+            "name": "中信金",
+            "marketCapTwd100M": 7672,
+            "shares": 19620315863,
+            "closePrice": 39.1
+          },
+          {
+            "rank": 10,
+            "code": "3711",
+            "name": "日月光投控",
+            "marketCapTwd100M": 7139,
+            "shares": 4406678137,
+            "closePrice": 162.0
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 739000,
+        "totalCommonStockCapComputedTwd100M": 737249,
+        "top10SumTwd100M": 395967,
+        "top10ShareOfComputedTotalPct": 53.71,
+        "top10ShareOfOfficialTotalPct": 53.58,
+        "tsmcShareOfComputedTotalPct": 37.81,
+        "tsmcShareOfOfficialTotalPct": 37.72,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20241231&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20241231&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20241231",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20241231.json、MI_INDEX_20241231.json"
+        }
+      },
+      "2025": {
+        "date": "20251231",
+        "top10": [
+          {
+            "rank": 1,
+            "code": "2330",
+            "name": "台積電",
+            "marketCapTwd100M": 401954,
+            "shares": 25932524521,
+            "closePrice": 1550.0
+          },
+          {
+            "rank": 2,
+            "code": "2317",
+            "name": "鴻海",
+            "marketCapTwd100M": 32188,
+            "shares": 13964222294,
+            "closePrice": 230.5
+          },
+          {
+            "rank": 3,
+            "code": "2308",
+            "name": "台達電",
+            "marketCapTwd100M": 25014,
+            "shares": 2597543329,
+            "closePrice": 963.0
+          },
+          {
+            "rank": 4,
+            "code": "2454",
+            "name": "聯發科",
+            "marketCapTwd100M": 22936,
+            "shares": 1603912182,
+            "closePrice": 1430.0
+          },
+          {
+            "rank": 5,
+            "code": "2881",
+            "name": "富邦金",
+            "marketCapTwd100M": 13461,
+            "shares": 14007364952,
+            "closePrice": 96.1
+          },
+          {
+            "rank": 6,
+            "code": "2882",
+            "name": "國泰金",
+            "marketCapTwd100M": 11119,
+            "shares": 14669210128,
+            "closePrice": 75.8
+          },
+          {
+            "rank": 7,
+            "code": "3711",
+            "name": "日月光投控",
+            "marketCapTwd100M": 11078,
+            "shares": 4422175232,
+            "closePrice": 250.5
+          },
+          {
+            "rank": 8,
+            "code": "2382",
+            "name": "廣達",
+            "marketCapTwd100M": 10506,
+            "shares": 3862627432,
+            "closePrice": 272.0
+          },
+          {
+            "rank": 9,
+            "code": "2412",
+            "name": "中華電",
+            "marketCapTwd100M": 10123,
+            "shares": 7757446545,
+            "closePrice": 130.5
+          },
+          {
+            "rank": 10,
+            "code": "2891",
+            "name": "中信金",
+            "marketCapTwd100M": 9864,
+            "shares": 19649766114,
+            "closePrice": 50.2
+          }
+        ],
+        "totalListedMarketCapOfficialTwd100M": 943589,
+        "totalCommonStockCapComputedTwd100M": 940812,
+        "top10SumTwd100M": 548244,
+        "top10ShareOfComputedTotalPct": 58.27,
+        "top10ShareOfOfficialTotalPct": 58.1,
+        "tsmcShareOfComputedTotalPct": 42.72,
+        "tsmcShareOfOfficialTotalPct": 42.6,
+        "method": "computed",
+        "source": {
+          "url": "https://www.twse.com.tw/rwd/zh/fund/MI_QFIIS?response=json&date=20251231&selectType=ALLBUT0999 + https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?response=json&date=20251231&type=ALLBUT0999",
+          "title": "外資及陸資投資持股統計（發行股數）＋每日收盤行情",
+          "publisher": "臺灣證券交易所",
+          "period": "20251231",
+          "accessed": "2026-11-10",
+          "quote": "發行股數×收盤價；原始 JSON 存 data/industry/raw/marketcap-history/MI_QFIIS_20251231.json、MI_INDEX_20251231.json"
+        }
+      },
+      "2000": null
+    },
+    "nullYears": {
+      "2000": "證交所新 API（MI_INDEX／MI_QFIIS）只回應 2004-02-11 以後（stat=『查詢日期小於93年2月11日』）；2000 年底各股發行股數與收盤價未取得官方結構化來源，不內插"
+    },
+    "verification": "2023、2024、2025 年底前十名與證交所月訊『12 月底上市公司發行市值排名前十名』比對：名單與順序完全一致，台積電及前九名金額完全相等（月訊 2025：台積電 401,954、鴻海 32,188…；差異僅日月光投控 2024 計算 7,139 對月訊 7,148、2025 計算 11,078 對月訊 11,113，來源為年底股數異動時點）",
+    "verificationSource": [
+      {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000106.pdf",
+        "title": "集中市場月訊 114年12月",
+        "publisher": "臺灣證券交易所",
+        "period": "2025年12月底",
+        "accessed": "2026-11-10",
+        "quote": "12 月底上市公司發行市值排名前十名 1 2330 台積電 401,954 2 2317 鴻海 32,188 3 2308 台達電 25,014 4 2454 聯發科 22,936 5 2881 富邦金 13,461 6 2882 國泰金 11,119 7 3711 日月光投控 11,113 8 2382 廣達 10,506 9 2412 中華電 10,123 10 2891 中信金 9,864"
+      },
+      {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000094.pdf",
+        "title": "集中市場月訊 113年12月",
+        "publisher": "臺灣證券交易所",
+        "period": "2024年12月底",
+        "accessed": "2026-11-10",
+        "quote": "12 月底上市公司發行市值排名前十名 1 2330 台積電 278,777 2 2317 鴻海 25,508 3 2454 聯發科 22,664 …10 3711 日月光投控 7,148"
+      },
+      {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000082.pdf",
+        "title": "集中市場月訊 112年12月",
+        "publisher": "臺灣證券交易所",
+        "period": "2023年12月底",
+        "accessed": "2026-11-10",
+        "quote": "12 月底上市公司發行市值排名前十名 1 2330 台積電 153,777 2 2454 聯發科 16,236 3 2317 鴻海 14,487 …10 2303 聯電 6,591"
+      }
+    ],
+    "officialLatest": {
+      "period": "2026年9月底",
+      "top10": [
+        {
+          "rank": 1,
+          "code": "2330",
+          "name": "台積電",
+          "issuedMarketCapTwd100M": 643123
+        },
+        {
+          "rank": 2,
+          "code": "2454",
+          "name": "聯發科",
+          "issuedMarketCapTwd100M": 78964
+        },
+        {
+          "rank": 3,
+          "code": "2308",
+          "name": "台達電",
+          "issuedMarketCapTwd100M": 49094
+        },
+        {
+          "rank": 4,
+          "code": "2317",
+          "name": "鴻海",
+          "issuedMarketCapTwd100M": 35282
+        },
+        {
+          "rank": 5,
+          "code": "3711",
+          "name": "日月光投控",
+          "issuedMarketCapTwd100M": 31428
+        },
+        {
+          "rank": 6,
+          "code": "2881",
+          "name": "富邦金",
+          "issuedMarketCapTwd100M": 21151
+        },
+        {
+          "rank": 7,
+          "code": "1303",
+          "name": "南亞",
+          "issuedMarketCapTwd100M": 20263
+        },
+        {
+          "rank": 8,
+          "code": "2303",
+          "name": "聯電",
+          "issuedMarketCapTwd100M": 19421
+        },
+        {
+          "rank": 9,
+          "code": "3037",
+          "name": "欣興",
+          "issuedMarketCapTwd100M": 19257
+        },
+        {
+          "rank": 10,
+          "code": "2383",
+          "name": "台光電",
+          "issuedMarketCapTwd100M": 17683
+        }
+      ],
+      "totalTwdTrillion": 156.81,
+      "source": {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000115.pdf",
+        "title": "集中市場月訊 115年9月",
+        "publisher": "臺灣證券交易所",
+        "period": "2026年9月底",
+        "accessed": "2026-11-10",
+        "quote": "9 月底上市公司總市值 156.81 兆元，較上月底增加 6.02 兆元，較去年底增加 62.45 兆元；9 月底上市公司發行市值排名前十名 1 2330 台積電 643,123"
+      }
+    },
+    "notes": "前十名排除 ETF（00 開頭）、含英文字母之特別股／ETN／權證、TDR；僅納入 4 碼（1000–9999）普通股；市值＝證交所當日公布之全體外資持股統計表『發行股數』×當日收盤價。收盤價缺值（當日未成交）的個股被略過，各年略過者皆為小股本公司，不影響前十名。"
+  },
+  "marketTotals": [
+    {
+      "year": 2000,
+      "yearEndTradingDate": "89/12/30",
+      "taiexClose": 4739.09,
+      "listedMarketCapTwd100M": 81915,
+      "listedMarketCapNote": null,
+      "listedCompanies": 531,
+      "computedCommonStockCapTwd100M": null,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_90.pdf",
+        "title": "證券交易所90年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2000年底",
+        "accessed": "2026-11-10",
+        "quote": "上市股份市值 * 10,247,598,754 8,191,474,986；股票上市公司家數 * 584 531（單位千元；左欄2001、右欄2000）"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20001201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "89/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 4,739.09（89/12/30）"
+      }
+    },
+    {
+      "year": 2001,
+      "yearEndTradingDate": "90/12/31",
+      "taiexClose": 5551.24,
+      "listedMarketCapTwd100M": 102476,
+      "listedMarketCapNote": null,
+      "listedCompanies": 584,
+      "computedCommonStockCapTwd100M": null,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_90.pdf",
+        "title": "證券交易所90年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2001年底",
+        "accessed": "2026-11-10",
+        "quote": "市值達 102,476 億元；股票上市公司家數 * 584"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20011201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "90/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 5,551.24（90/12/31）"
+      }
+    },
+    {
+      "year": 2002,
+      "yearEndTradingDate": "91/12/31",
+      "taiexClose": 4452.45,
+      "listedMarketCapTwd100M": 90949,
+      "listedMarketCapNote": null,
+      "listedCompanies": 638,
+      "computedCommonStockCapTwd100M": null,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_91.pdf",
+        "title": "證券交易所91年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2002年底",
+        "accessed": "2026-11-10",
+        "quote": "合計股數為 4,410 億股，市值達 90,949 億元；股票上市公司家數 * 638"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20021201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "91/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 4,452.45（91/12/31）"
+      }
+    },
+    {
+      "year": 2003,
+      "yearEndTradingDate": "92/12/31",
+      "taiexClose": 5890.69,
+      "listedMarketCapTwd100M": 128691,
+      "listedMarketCapNote": null,
+      "listedCompanies": 669,
+      "computedCommonStockCapTwd100M": null,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_92.pdf",
+        "title": "證券交易所92年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2003年底",
+        "accessed": "2026-11-10",
+        "quote": "上市股份市值 * 12,869,100,832 9,094,936,285；股票上市公司家數 * 669"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20031201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "92/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 5,890.69（92/12/31）"
+      }
+    },
+    {
+      "year": 2004,
+      "yearEndTradingDate": "93/12/31",
+      "taiexClose": 6139.69,
+      "listedMarketCapTwd100M": 140405,
+      "listedMarketCapNote": null,
+      "listedCompanies": 697,
+      "computedCommonStockCapTwd100M": 139563,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_94.pdf",
+        "title": "證券交易所94年年報（前一年欄）",
+        "publisher": "臺灣證券交易所",
+        "period": "2004年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司發行市值 ＊ 15,633,857,549 14,040,528,663；股票上市公司家數 ＊ 691 697"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20041201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "93/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 6,139.69（93/12/31）"
+      }
+    },
+    {
+      "year": 2005,
+      "yearEndTradingDate": "94/12/30",
+      "taiexClose": 6548.34,
+      "listedMarketCapTwd100M": 156339,
+      "listedMarketCapNote": null,
+      "listedCompanies": 691,
+      "computedCommonStockCapTwd100M": 155609,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_94.pdf",
+        "title": "證券交易所94年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2005年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司總市值15.63兆元，較前一年底增加1.59兆元；上市公司家數共計691家"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20051201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "94/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 6,548.34（94/12/30）"
+      }
+    },
+    {
+      "year": 2006,
+      "yearEndTradingDate": "95/12/29",
+      "taiexClose": 7823.72,
+      "listedMarketCapTwd100M": 193770,
+      "listedMarketCapNote": null,
+      "listedCompanies": 688,
+      "computedCommonStockCapTwd100M": 193233,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_96.pdf",
+        "title": "證券交易所96年年報（前一年欄）",
+        "publisher": "臺灣證券交易所",
+        "period": "2006年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司發行市值 ＊ 21,527,297,624 19,376,974,779；股票上市公司家數 ＊ 698 688"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20061201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "95/12/29",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 7,823.72（95/12/29）"
+      }
+    },
+    {
+      "year": 2007,
+      "yearEndTradingDate": "96/12/31",
+      "taiexClose": 8506.28,
+      "listedMarketCapTwd100M": 215273,
+      "listedMarketCapNote": null,
+      "listedCompanies": 698,
+      "computedCommonStockCapTwd100M": 213614,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_96.pdf",
+        "title": "證券交易所96年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2007年底",
+        "accessed": "2026-11-10",
+        "quote": "年底上市公司家數共計698家；上市公司發行市值 ＊ 21,527,297,624"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20071201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "96/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 8,506.28（96/12/31）"
+      }
+    },
+    {
+      "year": 2008,
+      "yearEndTradingDate": "97/12/31",
+      "taiexClose": 4591.22,
+      "listedMarketCapTwd100M": 117065,
+      "listedMarketCapNote": null,
+      "listedCompanies": 718,
+      "computedCommonStockCapTwd100M": 117130,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_97.pdf",
+        "title": "證券交易所97年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2008年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司發行市值* 11,706,526,934 21,527,297,624；股票上市公司家數* 718 698"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20081201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "97/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 4,591.22（97/12/31）"
+      }
+    },
+    {
+      "year": 2009,
+      "yearEndTradingDate": "98/12/31",
+      "taiexClose": 8188.11,
+      "listedMarketCapTwd100M": 210336,
+      "listedMarketCapNote": "OCR 讀值，非文字層；與 TWSE 年報「2009年底 21 兆元」敘述一致，仍建議人工目視 99 年年報 PDF 第 4 頁複核",
+      "listedCompanies": 741,
+      "computedCommonStockCapTwd100M": 211223,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_99.pdf",
+        "title": "證券交易所99年年報（前一年欄；PDF 為影像檔，以 tesseract 英數 OCR 讀出）",
+        "publisher": "臺灣證券交易所",
+        "period": "2009年底",
+        "accessed": "2026-11-10",
+        "quote": "OCR 讀出：8,188.11 / 741 / 21,033,640,073（中文標籤無法 OCR，數值對位依表格版型）"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20091201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "98/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 8,188.11（98/12/31）"
+      }
+    },
+    {
+      "year": 2010,
+      "yearEndTradingDate": "99/12/31",
+      "taiexClose": 8972.5,
+      "listedMarketCapTwd100M": 238114,
+      "listedMarketCapNote": null,
+      "listedCompanies": 758,
+      "computedCommonStockCapTwd100M": 239095,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_100.pdf",
+        "title": "證券交易所100年年報（前一年欄）",
+        "publisher": "臺灣證券交易所",
+        "period": "2010年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司發行市值* 19,216,183,278 23,811,416,303；股票上市公司家數* 790 758"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20101201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "99/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 8,972.50（99/12/31）"
+      }
+    },
+    {
+      "year": 2011,
+      "yearEndTradingDate": "100/12/30",
+      "taiexClose": 7072.08,
+      "listedMarketCapTwd100M": 192162,
+      "listedMarketCapNote": null,
+      "listedCompanies": 790,
+      "computedCommonStockCapTwd100M": 192349,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_100.pdf",
+        "title": "證券交易所100年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2011年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司發行市值* 19,216,183,278；股票上市公司家數* 790"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20111201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "100/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 7,072.08（100/12/30）"
+      }
+    },
+    {
+      "year": 2012,
+      "yearEndTradingDate": "101/12/28",
+      "taiexClose": 7699.5,
+      "listedMarketCapTwd100M": 213500,
+      "listedMarketCapNote": "億元值由「21.35 兆元」換算，原文只到百億位",
+      "listedCompanies": 809,
+      "computedCommonStockCapTwd100M": 214085,
+      "otcMarketCapTwd100M": 17400,
+      "otcCompanies": 638,
+      "otcReason": null,
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_101.pdf",
+        "title": "證券交易所101年年報",
+        "publisher": "臺灣證券交易所",
+        "period": "2012年底",
+        "accessed": "2026-11-10",
+        "quote": "至 2012 年底止，上市公司有 809家，資本額6.38兆元，總市值 21.35兆元；上櫃公司有 638家，資本額 0.67兆元，總市值 1.74 兆元"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20121201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "101/12/28",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 7,699.50（101/12/28）"
+      }
+    },
+    {
+      "year": 2013,
+      "yearEndTradingDate": "102/12/31",
+      "taiexClose": 8611.51,
+      "listedMarketCapTwd100M": 245340,
+      "listedMarketCapNote": "含 TDR；與不含 TDR 的 2013 年「國內上市 23.74 兆」口徑不同（annual_102）",
+      "listedCompanies": 866,
+      "computedCommonStockCapTwd100M": 246438,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_104.pdf",
+        "title": "證券交易所104年年報 統計表",
+        "publisher": "臺灣證券交易所",
+        "period": "2013年底（含TDR）",
+        "accessed": "2026-11-10",
+        "quote": "上市公司總市值*（年底） 24,534 26,904 24,513（單位新臺幣10億元）；*註：含TDR；家數 866 880 896"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20131201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "102/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 8,611.51（102/12/31）"
+      }
+    },
+    {
+      "year": 2014,
+      "yearEndTradingDate": "103/12/31",
+      "taiexClose": 9307.26,
+      "listedMarketCapTwd100M": 269040,
+      "listedMarketCapNote": "含 TDR",
+      "listedCompanies": 880,
+      "computedCommonStockCapTwd100M": 269801,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_104.pdf",
+        "title": "證券交易所104年年報 統計表",
+        "publisher": "臺灣證券交易所",
+        "period": "2014年底（含TDR）",
+        "accessed": "2026-11-10",
+        "quote": "上市公司總市值*（年底） 24,534 26,904 24,513；*註：含TDR"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20141201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "103/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 9,307.26（103/12/31）"
+      }
+    },
+    {
+      "year": 2015,
+      "yearEndTradingDate": "104/12/31",
+      "taiexClose": 8338.06,
+      "listedMarketCapTwd100M": 245130,
+      "listedMarketCapNote": "含 TDR；108年年報圖表記為 24.50 兆（口徑不同）",
+      "listedCompanies": 896,
+      "computedCommonStockCapTwd100M": 245646,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_104.pdf",
+        "title": "證券交易所104年年報 統計表",
+        "publisher": "臺灣證券交易所",
+        "period": "2015年底（含TDR）",
+        "accessed": "2026-11-10",
+        "quote": "上市公司總市值*（年底） 24,534 26,904 24,513；*註：含TDR"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20151201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "104/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 8,338.06（104/12/31）"
+      }
+    },
+    {
+      "year": 2016,
+      "yearEndTradingDate": "105/12/30",
+      "taiexClose": 9253.5,
+      "listedMarketCapTwd100M": 272550,
+      "listedMarketCapNote": "105年報記 27,248（億=272,480），106年報修正為 27,255；取較新者",
+      "listedCompanies": 911,
+      "computedCommonStockCapTwd100M": 272798,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/106/P2.pdf",
+        "title": "證券交易所106年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2016年底",
+        "accessed": "2026-11-10",
+        "quote": "上市公司總市值 *（年底） 24,513 27,255 31,839；上市公司掛牌家數 896 911 924"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20161201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "105/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 9,253.50（105/12/30）"
+      }
+    },
+    {
+      "year": 2017,
+      "yearEndTradingDate": "106/12/29",
+      "taiexClose": 10642.86,
+      "listedMarketCapTwd100M": 318390,
+      "listedMarketCapNote": null,
+      "listedCompanies": 924,
+      "computedCommonStockCapTwd100M": 317627,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/106/P2.pdf",
+        "title": "證券交易所106年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2017年底",
+        "accessed": "2026-11-10",
+        "quote": "總市值 2017 年底為 31.84 兆元；上市公司總市值 *（年底） 31,839"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20171201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "106/12/29",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 10,642.86（106/12/29）"
+      }
+    },
+    {
+      "year": 2018,
+      "yearEndTradingDate": "107/12/28",
+      "taiexClose": 9727.41,
+      "listedMarketCapTwd100M": 293200,
+      "listedMarketCapNote": "圖表值，精度到百億；家數為 本國+外國 一般板普通股加總",
+      "listedCompanies": 928,
+      "computedCommonStockCapTwd100M": 291669,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/108/P2.pdf",
+        "title": "證券交易所108年營業報告書 圖表「上市公司市值 單位：兆元」",
+        "publisher": "臺灣證券交易所",
+        "period": "2018年底",
+        "accessed": "2026-11-10",
+        "quote": "圖表數列 24.50 27.25 31.83 29.32 36.41（2015–2019）；本國855家+外國73家"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20181201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "107/12/28",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 9,727.41（107/12/28）"
+      }
+    },
+    {
+      "year": 2019,
+      "yearEndTradingDate": "108/12/31",
+      "taiexClose": 11997.14,
+      "listedMarketCapTwd100M": 364100,
+      "listedMarketCapNote": "家數為本國867+外國75加總",
+      "listedCompanies": 942,
+      "computedCommonStockCapTwd100M": 362840,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/108/P2.pdf",
+        "title": "證券交易所108年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2019年底",
+        "accessed": "2026-11-10",
+        "quote": "上市股票總市值 36.41兆元，創歷史新高"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20191201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "108/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 11,997.14（108/12/31）"
+      }
+    },
+    {
+      "year": 2020,
+      "yearEndTradingDate": "109/12/31",
+      "taiexClose": 14732.53,
+      "listedMarketCapTwd100M": 449000,
+      "listedMarketCapNote": "家數為本國871+外國77",
+      "listedCompanies": 948,
+      "computedCommonStockCapTwd100M": 446660,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/109/P2.pdf",
+        "title": "證券交易所109年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2020年底",
+        "accessed": "2026-11-10",
+        "quote": "上市股票總市值 44.90 兆元，較前年底 36.41 兆元"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20201201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "109/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 14,732.53（109/12/31）"
+      }
+    },
+    {
+      "year": 2021,
+      "yearEndTradingDate": "110/12/30",
+      "taiexClose": 18218.84,
+      "listedMarketCapTwd100M": 562800,
+      "listedMarketCapNote": "家數為本國881+外國78",
+      "listedCompanies": 959,
+      "computedCommonStockCapTwd100M": 560651,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/110/P2.pdf",
+        "title": "證券交易所110年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2021年底",
+        "accessed": "2026-11-10",
+        "quote": "上市股票總市值 56.28 兆元，較前年底 44.90 兆元，增加 25.34%"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20211201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "110/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 18,218.84（110/12/30）"
+      }
+    },
+    {
+      "year": 2022,
+      "yearEndTradingDate": "111/12/30",
+      "taiexClose": 14137.69,
+      "listedMarketCapTwd100M": 442700,
+      "listedMarketCapNote": "家數為本國895+外國75+創新板1（依112年報 2022 年底欄）",
+      "listedCompanies": 971,
+      "computedCommonStockCapTwd100M": 440926,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/111/P2.pdf",
+        "title": "證券交易所111年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2022年底",
+        "accessed": "2026-11-10",
+        "quote": "分別降至 44.27 兆元及 56.08 兆元"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20221201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "111/12/30",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 14,137.69（111/12/30）"
+      }
+    },
+    {
+      "year": 2023,
+      "yearEndTradingDate": "112/12/29",
+      "taiexClose": 17930.81,
+      "listedMarketCapTwd100M": 568400,
+      "listedMarketCapNote": "家數為 909+78+10",
+      "listedCompanies": 997,
+      "computedCommonStockCapTwd100M": 566559,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/112/P2.pdf",
+        "title": "證券交易所112年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2023年底",
+        "accessed": "2026-11-10",
+        "quote": "使上市股票總市值達到 56.84 兆元"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20231201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "112/12/29",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 17,930.81（112/12/29）"
+      }
+    },
+    {
+      "year": 2024,
+      "yearEndTradingDate": "113/12/31",
+      "taiexClose": 23035.1,
+      "listedMarketCapTwd100M": 739000,
+      "listedMarketCapNote": null,
+      "listedCompanies": 1031,
+      "computedCommonStockCapTwd100M": 737249,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000094.pdf",
+        "title": "集中市場月訊 113年12月",
+        "publisher": "臺灣證券交易所",
+        "period": "2024年12月底",
+        "accessed": "2026-11-10",
+        "quote": "12 月底上市公司總市值 73.90 兆元；2024 年 12 月底上市公司總計 1,031 家"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20241201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "113/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 23,035.10（113/12/31）"
+      }
+    },
+    {
+      "year": 2025,
+      "yearEndTradingDate": "114/12/31",
+      "taiexClose": 28963.6,
+      "listedMarketCapTwd100M": 943589,
+      "listedMarketCapNote": "94兆3,589.26億元 見二手新聞（聯合新聞網）；官方文件只到 94.36 兆",
+      "listedCompanies": 1063,
+      "computedCommonStockCapTwd100M": 940812,
+      "otcMarketCapTwd100M": null,
+      "otcCompanies": null,
+      "otcReason": "本輪未取得櫃買中心歷年年底總市值（只在 2012 年證交所年報敘述中出現）",
+      "source": {
+        "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000106.pdf",
+        "title": "集中市場月訊 114年12月 + 114年營業報告書",
+        "publisher": "臺灣證券交易所",
+        "period": "2025年12月底",
+        "accessed": "2026-11-10",
+        "quote": "2025 年 12 月底上市公司總計 1,063 家；114年報：上市公司總市值擴增至 94.36 兆元"
+      },
+      "taiexSource": {
+        "url": "https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?response=json&date=20251201",
+        "title": "集中市場每日市場成交資訊 FMTQIK",
+        "publisher": "臺灣證券交易所",
+        "period": "114/12/31",
+        "accessed": "2026-11-10",
+        "quote": "發行量加權股價指數 28,963.60（114/12/31）"
+      }
+    }
+  ],
+  "marketTotalsNotes": "listedMarketCapTwd100M 為證交所年報／月訊公布值，口徑隨年度變動：2013–2015（年報 104）含 TDR；2004–2007 為『發行市值』；2018、2022 取自年報圖表或敘述（精度 0.01 兆）。computedCommonStockCapTwd100M 為本研究以 4 碼普通股自算，與官方差異約 0.1–0.5%（官方含特別股、TDR、外國第一上市股）；2000–2003 無自算值。上櫃總市值與家數僅 2012 年取得（年報 101：638 家、1.74 兆）。",
+  "tsmcWeight": {
+    "byYear": [
+      {
+        "year": 2004,
+        "tsmcCapTwd100M": 11742,
+        "shareOfComputedCommonStockTotalPct": 8.41,
+        "shareOfOfficialTotalPct": 8.36
+      },
+      {
+        "year": 2005,
+        "tsmcCapTwd100M": 15453,
+        "shareOfComputedCommonStockTotalPct": 9.93,
+        "shareOfOfficialTotalPct": 9.88
+      },
+      {
+        "year": 2006,
+        "tsmcCapTwd100M": 17431,
+        "shareOfComputedCommonStockTotalPct": 9.02,
+        "shareOfOfficialTotalPct": 9.0
+      },
+      {
+        "year": 2007,
+        "tsmcCapTwd100M": 16381,
+        "shareOfComputedCommonStockTotalPct": 7.67,
+        "shareOfOfficialTotalPct": 7.61
+      },
+      {
+        "year": 2008,
+        "tsmcCapTwd100M": 11378,
+        "shareOfComputedCommonStockTotalPct": 9.71,
+        "shareOfOfficialTotalPct": 9.72
+      },
+      {
+        "year": 2009,
+        "tsmcCapTwd100M": 16703,
+        "shareOfComputedCommonStockTotalPct": 7.91,
+        "shareOfOfficialTotalPct": 7.94
+      },
+      {
+        "year": 2010,
+        "tsmcCapTwd100M": 18393,
+        "shareOfComputedCommonStockTotalPct": 7.69,
+        "shareOfOfficialTotalPct": 7.72
+      },
+      {
+        "year": 2011,
+        "tsmcCapTwd100M": 19642,
+        "shareOfComputedCommonStockTotalPct": 10.21,
+        "shareOfOfficialTotalPct": 10.22
+      },
+      {
+        "year": 2012,
+        "tsmcCapTwd100M": 25143,
+        "shareOfComputedCommonStockTotalPct": 11.74,
+        "shareOfOfficialTotalPct": 11.78
+      },
+      {
+        "year": 2013,
+        "tsmcCapTwd100M": 27354,
+        "shareOfComputedCommonStockTotalPct": 11.1,
+        "shareOfOfficialTotalPct": 11.15
+      },
+      {
+        "year": 2014,
+        "tsmcCapTwd100M": 36560,
+        "shareOfComputedCommonStockTotalPct": 13.55,
+        "shareOfOfficialTotalPct": 13.59
+      },
+      {
+        "year": 2015,
+        "tsmcCapTwd100M": 37080,
+        "shareOfComputedCommonStockTotalPct": 15.1,
+        "shareOfOfficialTotalPct": 15.13
+      },
+      {
+        "year": 2016,
+        "tsmcCapTwd100M": 47064,
+        "shareOfComputedCommonStockTotalPct": 17.25,
+        "shareOfOfficialTotalPct": 17.27
+      },
+      {
+        "year": 2017,
+        "tsmcCapTwd100M": 59510,
+        "shareOfComputedCommonStockTotalPct": 18.74,
+        "shareOfOfficialTotalPct": 18.69
+      },
+      {
+        "year": 2018,
+        "tsmcCapTwd100M": 58473,
+        "shareOfComputedCommonStockTotalPct": 20.05,
+        "shareOfOfficialTotalPct": 19.94
+      },
+      {
+        "year": 2019,
+        "tsmcCapTwd100M": 85830,
+        "shareOfComputedCommonStockTotalPct": 23.65,
+        "shareOfOfficialTotalPct": 23.57
+      },
+      {
+        "year": 2020,
+        "tsmcCapTwd100M": 137431,
+        "shareOfComputedCommonStockTotalPct": 30.77,
+        "shareOfOfficialTotalPct": 30.61
+      },
+      {
+        "year": 2021,
+        "tsmcCapTwd100M": 159472,
+        "shareOfComputedCommonStockTotalPct": 28.44,
+        "shareOfOfficialTotalPct": 28.34
+      },
+      {
+        "year": 2022,
+        "tsmcCapTwd100M": 116298,
+        "shareOfComputedCommonStockTotalPct": 26.38,
+        "shareOfOfficialTotalPct": 26.27
+      },
+      {
+        "year": 2023,
+        "tsmcCapTwd100M": 153777,
+        "shareOfComputedCommonStockTotalPct": 27.14,
+        "shareOfOfficialTotalPct": 27.05
+      },
+      {
+        "year": 2024,
+        "tsmcCapTwd100M": 278777,
+        "shareOfComputedCommonStockTotalPct": 37.81,
+        "shareOfOfficialTotalPct": 37.72
+      },
+      {
+        "year": 2025,
+        "tsmcCapTwd100M": 401954,
+        "shareOfComputedCommonStockTotalPct": 42.72,
+        "shareOfOfficialTotalPct": 42.6
+      }
+    ],
+    "byYearNote": "shareOfComputedCommonStockTotalPct＝台積電發行市值／4碼普通股合計；shareOfOfficialTotalPct＝除以證交所官方上市總市值（分母含特別股、TDR 時偏低 0.1–0.5 pt）。這是『占上市總市值』的比重，不是指數權重；2000–2003 因無歷史股數而為 null。",
+    "null2000to2003": "證交所新 API 不提供 2004-02-11 前資料；年報只印前五大成交股，不印市值前十與台積電市值",
+    "latestOfficialIndexWeight": {
+      "tsmcWeightPct": 41.6361,
+      "dataDate": "2026-10-30",
+      "rank": 1,
+      "source": {
+        "url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+        "title": "臺灣證券交易所發行量加權股價指數成分股暨市值比重（期交所轉載證交所資料）",
+        "publisher": "臺灣期貨交易所（資料來源證交所）",
+        "period": "資料日期 2026/10/30（資料每月月底更新一次）",
+        "accessed": "2026-11-10",
+        "quote": "1|2330|台積電|41.6361%；資料日期：2026/10/30；資料每月月底更新一次，僅供參考"
+      }
+    },
+    "latestIssuedMarketCapShare": {
+      "period": "2026年9月底",
+      "tsmcCapTwd100M": 643123,
+      "totalTwdTrillion": 156.81,
+      "derivedPct": 41.01,
+      "formula": "643,123億 ÷ 1,568,100億（156.81兆）",
+      "source": "證交所月訊 115年9月 https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000115.pdf"
+    }
+  },
+  "investors": {
+    "foreignHoldingShareOfMarketCap": {
+      "official": [
+        {
+          "year": 2014,
+          "pct": 38.3,
+          "source": {
+            "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_103.pdf",
+            "title": "證券交易所103年年報",
+            "publisher": "臺灣證券交易所",
+            "period": "2014年底",
+            "accessed": "2026-11-10",
+            "quote": "外資 2014 年底持股比重達 38.3%，再創新高"
+          }
+        },
+        {
+          "year": 2015,
+          "pct": 38.6,
+          "source": {
+            "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_104.pdf",
+            "title": "證券交易所104年年報",
+            "publisher": "臺灣證券交易所",
+            "period": "2015年底",
+            "accessed": "2026-11-10",
+            "quote": "外資2015年底持股比重達38.6%，再創新高"
+          }
+        },
+        {
+          "year": 2024,
+          "pct": 45.41,
+          "source": {
+            "url": "https://www.twse.com.tw/market_insights/zh/detail/8a8216d69517ec0c0195279fdb6c0060",
+            "title": "從2024年里程碑啟航，2025年資本市場再進化",
+            "publisher": "臺灣證券交易所",
+            "period": "2024年底（發布 2025-02-21）",
+            "accessed": "2026-11-10",
+            "quote": "持股占比在2024年底增加至45.41%，持股市值更已突破33兆元，相較於2014年約10兆元呈現倍數成長"
+          }
+        },
+        {
+          "year": 2025,
+          "pct": 47.4,
+          "source": {
+            "url": "https://www.twse.com.tw/downloads/zh/about/company/Annual/114/P2.pdf",
+            "title": "證券交易所114年營業報告書",
+            "publisher": "臺灣證券交易所",
+            "period": "2025年底",
+            "accessed": "2026-11-10",
+            "quote": "外資持股市值占比提升至 47.4%"
+          }
+        }
+      ],
+      "computedByYear": [
+        {
+          "year": 2004,
+          "pct": 23.2
+        },
+        {
+          "year": 2005,
+          "pct": 31.9
+        },
+        {
+          "year": 2006,
+          "pct": 34.0
+        },
+        {
+          "year": 2007,
+          "pct": 32.0
+        },
+        {
+          "year": 2008,
+          "pct": 30.3
+        },
+        {
+          "year": 2009,
+          "pct": 31.5
+        },
+        {
+          "year": 2010,
+          "pct": 32.6
+        },
+        {
+          "year": 2011,
+          "pct": 32.1
+        },
+        {
+          "year": 2012,
+          "pct": 33.8
+        },
+        {
+          "year": 2013,
+          "pct": 34.3
+        },
+        {
+          "year": 2014,
+          "pct": 37.8
+        },
+        {
+          "year": 2015,
+          "pct": 38.2
+        },
+        {
+          "year": 2016,
+          "pct": 39.8
+        },
+        {
+          "year": 2017,
+          "pct": 41.2
+        },
+        {
+          "year": 2018,
+          "pct": 40.0
+        },
+        {
+          "year": 2019,
+          "pct": 43.1
+        },
+        {
+          "year": 2020,
+          "pct": 45.1
+        },
+        {
+          "year": 2021,
+          "pct": 43.6
+        },
+        {
+          "year": 2022,
+          "pct": 39.7
+        },
+        {
+          "year": 2023,
+          "pct": 40.7
+        },
+        {
+          "year": 2024,
+          "pct": 45.5
+        },
+        {
+          "year": 2025,
+          "pct": 47.5
+        }
+      ],
+      "computedNote": "自算＝Σ(全體外資及陸資持有股數×收盤價)/Σ(發行股數×收盤價)，僅 4 碼普通股；2015 自算 38.2 對官方 38.6、2024 自算 45.5 對官方 45.41、2025 自算 47.5 對官方 47.4，誤差 ≤0.4 pt。"
+    },
+    "tradingShareByInvestorType": {
+      "tenYearsAgo": {
+        "year": 2015,
+        "note": "全年值",
+        "foreignPct": 28.4,
+        "domesticInstitutionsIncludingTrustAndDealersPct": 18.3,
+        "domesticIndividualsPct": 53.3,
+        "source": {
+          "url": "https://www.twse.com.tw/downloads/zh/about/company/annual_104.pdf",
+          "title": "證券交易所104年年報",
+          "publisher": "臺灣證券交易所",
+          "period": "2015全年",
+          "accessed": "2026-11-10",
+          "quote": "交易人類別方面，國內法人（含投信及自營商）、外資及國內自然人之交易比重分別為18.3%、28.4%及53.3%"
+        }
+      },
+      "latestFullYear": null,
+      "latestFullYearReason": "證交所年報／月訊只給單月餅圖比重，未見 2025 全年投資人別成交比重的官方單一數字；不以月比重自行加權。",
+      "latestMonthly": [
+        {
+          "period": "2025年12月",
+          "foreignInstitutionPct": 33.54,
+          "domesticIndividualPct": 53.37,
+          "foreignIndividualPct": 0.05,
+          "domesticInstitutionPct": 13.04,
+          "source": {
+            "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000106.pdf",
+            "title": "集中市場月訊 114年12月",
+            "publisher": "臺灣證券交易所",
+            "period": "2025年12月",
+            "accessed": "2026-11-10",
+            "quote": "12 月份投資人類別交易比重中，集中市場的外國法人由上月的 37.55%，減少至本月的 33.54%，及本國自然人由上月的 51.24%，增加至本月的 53.37%"
+          }
+        },
+        {
+          "period": "2026年9月（目前可得最新月份）",
+          "foreignInstitutionPct": 38.35,
+          "domesticIndividualPct": 51.11,
+          "foreignIndividualPct": 0.05,
+          "domesticInstitutionPct": 10.49,
+          "source": {
+            "url": "https://www.twse.com.tw/rwd/staticFiles/product/publication/0005000115.pdf",
+            "title": "集中市場月訊 115年9月",
+            "publisher": "臺灣證券交易所",
+            "period": "2026年9月",
+            "accessed": "2026-11-10",
+            "quote": "9 月份投資人類別交易比重中，集中市場的本國法人由上月的 10.24%，增加至本月的 10.49%，及外國法人由上月的 38.79%，減少至本月的 38.35%"
+          }
+        }
+      ],
+      "caveat": "2015 全年值與 2025 單月值非同口徑，並列比較須註明；2015 原文『國內法人』含投信與自營商，月訊分『本國法人』『外國法人』『本國自然人』『外國自然人』。"
+    }
+  },
+  "notes": {
+    "marketCapVsIndexWeight": "『占上市總市值』＝個股發行市值／全體上市股票發行市值；『指數權重』＝證交所發行量加權指數成分股市值比重（期交所轉載，2026/10/30 台積電 41.6361%）。兩者分母不同（指數成分不含 ETF、TDR 等且以普通股為主），數值接近但不相等；本檔 byYear 為前者。",
+    "preferredShares": "證交所官方上市總市值與發行市值前十名含特別股／外國第一上市；自算數排除英文字母代碼特別股（如 2882A），前十名不受影響，總數低 0.1–0.5%。",
+    "issuedVsFloat": "全為『發行市值』（發行股數×收盤價），非流通市值。",
+    "foreignHoldingDefinition": "外資持股比重＝全體外資及陸資持有股數市值／上市股票市值。",
+    "dataStartLimit": "證交所新版 API 之 MI_INDEX 與 MI_QFIIS 只回應 2004-02-11 以後；2000–2003 僅有年報層級資料。",
+    "unitCaveats": "年報統計表單位在 104 年報為『新臺幣10億元』，其餘為千元或兆元，已統一換算為億元。"
+  }
+}

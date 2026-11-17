@@ -1,5 +1,6 @@
 ---
 title: 'Chen Chun-liang: Der Dichter der Gestaltung und Übersetzer der östlichen Ästhetik'
+description: 'Chen Chun-liang, 1958 in Tainan geboren, gründete mit 29 Jahren „Freeimage Design“ und gilt als „Dichter der Gestaltung“. Er interpretiert moderne Design-Sprache durch Calligraphie, Leerraum und östliche Symbolik. Seine Arbeiten erstrecken sich von Buchcovergestaltung über Corporate Identity bis hin zu Staatsbankett-Essgeschirr. 2005 erhielt die Serie „Tianyuan Diyu“ (Kaiserliches Bankett-Essgeschirr) den Preis der Macao International Design Biennale. Er engagiert sich seit langem in Design-Bildung und zählt zu den einflussreichsten flachen Designern Taiwans nach den 1980er Jahren.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -12,15 +13,16 @@ tags:
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
-description: 'Chen Chun-liang, 1958 in Tainan geboren, gründete mit 29 Jahren „Freeimage Design“ und gilt als „Dichter der Gestaltung“. Er interpretiert moderne Design-Sprache durch Calligraphie, Leerraum und östliche Symbolik. Seine Arbeiten erstrecken sich von Buchcovergestaltung über Corporate Identity bis hin zu Staatsbankett-Essgeschirr. 2005 erhielt die Serie „Tianyuan Diyu“ (Kaiserliches Bankett-Essgeschirr) den Preis der Macao International Design Biennale. Er engagiert sich seit langem in Design-Bildung und zählt zu den einflussreichsten flachen Designern Taiwans nach den 1980er Jahren.'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-11-05T07:28:19.101527+00:00'
 ---
 
 # Chen Chun-liang: Mit poetischer Ästhetik Taiwan-Design neu definiert
@@ -55,21 +57,21 @@ Ab den 2010er Jahren trat Chen Chun-liang vermehrt in der Design-Bildung auf, hi
 
 Er sammelte auch seine kreative Erfahrung, schrieb Design-Theorien und erforschte, wie östliche Ästhetik in modernem Design angewendet werden kann, und bot der taiwanesischen Design-Szene eine praktikerorientierte Perspektive für theoretische Diskussionen.[^7]
 
-## Referenzen
+## Quellen
 
-[^1]: [Chen Chun-liang — Niche Art Network](https://artemperor.tw/knowledge/1191) — Überblick über Chen Chun-liangs Design-Karriere, Herkunft seines Beinamens „Dichter der Gestaltung“ und repräsentative Werke.
+[^1]: [Chen Junliang — Feichizhong Art Network](https://artemperor.tw/knowledge/1191) — Übersicht über Chen Junliangs Designkarriere, Herkunft der Bezeichnung „Designpoet“, repräsentative Werke.
 
-[^2]: [Freeimage Design — Offizielle Facebook-Seite](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Offizielle Informationen und Portfolio des Freeimage Design-Studio.
+[^2]: [Freefall Design Freeimage Design — Offizielle Facebook-Seite](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Offizielle Informationen und Portfolio des Freefall Design Studios.
 
-[^3]: [Freeimage Design / Chen Chun-liang: Das Wichtigste im visuellen Design ist ‚es gibt nichts, was nicht möglich ist, nur etwas, das nicht gedacht wird‘ — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Tiefergehendes Interview über Chen Chun-liangs Design-Philosophie und Arbeitsweise.
+[^3]: [Freefall Design / Chen Junliang: Das Wichtigste im visuellen Design ist „Es gibt nichts, was nicht gemacht werden kann, nur Dinge, die man sich nicht vorstellen kann“ — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Tiefgehendes Interview über Chen Junliangs Designphilosophie und Arbeitsmethoden.
 
-[^4]: [Es ist gut, bring mich zu den Orten, die ich besuchen möchte — Interview mit dem Design-Pionier Chen Chun-liang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Chen Chun-liangs Karriereverlauf, Gründungsgeschichte im Alter von 29 Jahren und Design-Sichtweise der östlichen Ästhetik.
+[^4]: [Güte führt mich dorthin, wo ich hinwill — Exklusives Interview mit Design-Pate Chen Junliang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Chen Junliangs Karriereverlauf, Gründungsgeschichte mit 29 Jahren und seine Sicht auf östliche Ästhetik im Design.
 
-[^5]: [Chen Chun-liang: Die beste Werbung ist das Werk selbst — La Vie](https://www.wowlavie.com/article/ae1400597) — Bericht über Chen Chun-liangs Preisgewinn der Serie „Tianyuan Diyu“ (Kaiserliches Bankett-Essgeschirr) bei der Macao International Design Biennale.
+[^5]: [Chen Junliang: Die beste Vermarktung ist das Werk selbst — La Vie](https://www.wowlavie.com/article/ae1400597) — Aufzeichnung von Chen Junliangs „Himmel rund, Erde quadratisch“-Staatsbankett-Geschirrserie, die den Jurypreis der Macao Design Biennale gewann.
 
-[^6]: [Chen Chun-liang: 38 Jahre Design-Weg, wagt, was andere nicht wagen — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — Rückblick auf Chen Chun-liangs Karriere und Engagement in Design-Bildung.
+[^6]: [Chen Junliang: 38 Jahre Designweg — Dinge tun, die andere nicht wagen — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — Rückblick auf Chen Junliangs Karriere und sein Engagement in der Designausbildung.
 
-[^7]: [Chen Chun-liangs Design-Philosophie von Freeimage Design: ‚Die Entfernung zwischen i und F‘ — DesignWant](https://www.designwant.com/article/7826) — Chen Chun-liangs Theorien zur östlichen Ästhetik und calligraphischer visueller Sprache.
+[^7]: [Freefall Design Chen Junliangs Designphilosophie: „Die Distanz zwischen i und F“ — DesignWant](https://www.designwant.com/article/7826) — Chen Junliangs Abhandlung über östliche Ästhetik im Design und kalligrafische visuelle Sprache.
 
 ## Weiterführende Literatur
 

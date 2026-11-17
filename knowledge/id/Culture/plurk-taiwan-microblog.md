@@ -3,17 +3,19 @@ title: 'Plurk'
 description: "Platform microblogging Plurk yang diluncurkan pada tahun 2008, menggunakan sumbu waktu kanal secara horizontal dan tidak mengandalkan algoritma untuk mendistribusikan konten, berhasil bertahan selama sepuluh tahun melawan Facebook dan Twitter yang dominan. Setelah diblokir oleh jaringan iklan Google pada tahun 2016, Plurk berbalik menjadi mengandalkan sistem keanggotaan berbayar 'Plurk Coins', yang didukung oleh vote pengguna Taiwan dengan uang Tunggal Baru untuk melanjutkan alir kanal yang tidak terikat algoritma."
 date: 2026-04-01
 category: 'Culture'
-subcategory: '數位生活'
 tags: ['media sosial', 'budaya otak', 'sejarah internet Taiwan', 'Plurk Coins']
+subcategory: '數位生活'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/噗浪Plurk.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-05T05:34:06.756127+00:00'
 ---
 
 > **30 detik ringkasan:** Plurk adalah platform microblogging yang didirikan bersama oleh Cloud Weibin (云惟彬), seorang warga Malaysia China, pada tahun 2008. Platform ini menemukan basis pengguna terbesar di Taiwan[^1]. Desain paling uniknya adalah sumbu waktu kanal secara horizontal yang dapat digulir, serta lingkungan sosial yang tidak mengandalkan algoritma untuk mendistribusikan konten — apa yang Anda lihat tergantung pada orang yang Anda ikuti, bukan platform yang ingin Anda lihat. Setelah jaringan iklan Google ditutup secara permanen pada tahun 2016 karena banyaknya konten dewasa yang tidak terkontrol di platformnya, Plurk meluncurkan sistem keanggotaan berbayar 'Plurk Coins', yang berhasil mengubah posisi defisit menjadi profit berkat dukungan pengguna[^2]. Pada tahun 2026, ketika platform baru seperti Threads memicu kegunciran microblogging, banyak orang terkejut menyadari — Plurk tidak hanya masih berjalan, tetapi juga hidup lebih sehat daripada sebelumnya.

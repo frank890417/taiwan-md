@@ -1,0 +1,147 @@
+---
+/**
+ * Guide — /names 專題主頁的一組段落（英文名與中文名、使用指引與來源）。資料全部來自 src/utils/names/model.ts 的模型，
+ * 這裡只有版面。樣式沿用 src/styles/budget.css 與 src/styles/names.css。
+ */
+import HBars from '../HBars.astro';
+import TrendLine from '../TrendLine.astro';
+import NameRomanization from '../tools/NameRomanization.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import { useTranslatedPath } from '../../../i18n/utils';
+import { pickText } from '../../../utils/topics/registry';
+import { localDate } from '../../../utils/names/page';
+import type { NamesModel } from '../../../utils/names/model';
+
+interface Props {
+  m: NamesModel;
+}
+const M = Astro.props.m;
+const {
+  pick3,
+  SOURCES,
+  IMMIGRANT_VOICES,
+  surnameReadings,
+  L,
+  t,
+  r,
+  related,
+  REL,
+  voices,
+} = M;
+const translatePath = useTranslatedPath(M.lang);
+---
+
+<!-- §7 英文名與新住民的中文名 -->
+<section class="bp-section" id="s7">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s7.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s7.h2')}</h2>
+    <p class="bp-lede" set:html={r('s7.lede')} />
+    <div class="bp-guide">
+      {
+        [1, 2, 3, 4].map((n) => (
+          <div class="bp-guide-card">
+            <h4>{t(`s7.c${n}.h`)}</h4>
+            <p set:html={r(`s7.c${n}.p`)} />
+          </div>
+        ))
+      }
+    </div>
+    <h3 class="bp-h3">{t('s7.voices.h')}</h3>
+    <div class="bp-versus">
+      {
+        voices(IMMIGRANT_VOICES).map((v) => (
+          <div class={`bp-side ${v.cls}`}>
+            <h4>{v.title}</h4>
+            <ul>
+              {v.items.map((it) => (
+                <li set:html={it.html} />
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <p class="bp-note" set:html={r('s7.voices.note')} />
+    {
+      REL.s7.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s7.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<!-- §8 怎麼用這一頁 -->
+<section class="bp-section" id="s8">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s8.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s8.h2')}</h2>
+    <div class="bp-guide">
+      {
+        [1, 2, 3, 4, 5, 6].map((n) => (
+          <div class="bp-guide-card">
+            <h4>{t(`s8.g${n}.h`)}</h4>
+            <p>{t(`s8.g${n}.p`)}</p>
+          </div>
+        ))
+      }
+    </div>
+    <div class="np-cta">
+      <a href={translatePath('/names/name-romanization')}>{t('s8.tool')} →</a>
+      <a
+        class="is-ghost"
+        href="https://github.com/frank890417/taiwan-md/tree/main/src/data/names"
+        target="_blank"
+        rel="noopener">⬇︎ {t('s8.data')}</a
+      >
+      <a
+        class="is-ghost"
+        href="https://github.com/frank890417/taiwan-md/issues/new"
+        target="_blank"
+        rel="noopener">✎ {t('s8.corrections')}</a
+      >
+    </div>
+
+    {
+      REL.people.length > 0 && (
+        <>
+          <h3 class="bp-h3">{t('rel.people')}</h3>
+          <div class="bp-related">
+            {REL.people.map((x) => (
+              <a href={x.href} title={x.desc}>
+                {x.title}
+              </a>
+            ))}
+          </div>
+        </>
+      )
+    }
+
+    <h3 class="bp-h3" id="sources">{t('s8.sources.h')}</h3>
+    <div class="bp-prose">
+      <p>{t('s8.sources.p')}</p>
+    </div>
+    <ol class="np-srclist">
+      {
+        SOURCES.map((sc) => (
+          <li id={`src-${sc.id}`}>
+            <a href={sc.url} target="_blank" rel="noopener">
+              {pick3(sc.title, L)}
+            </a>
+            <span> · {localDate(sc.date, L, t)}</span>
+          </li>
+        ))
+      }
+    </ol>
+    <p class="bg-chart-src">
+      {t('s8.updated')}{(surnameReadings as any).meta.retrieved}
+    </p>
+  </div>
+</section>

@@ -75,6 +75,7 @@ function fmtDate(iso: string): string | undefined {
               date={fmtDate(c.shipDate)}
               coverImage={c.article.image || undefined}
               curation={c.article.curation}
+              curationReason={c.article.curationReason}
               openIn="same-tab"
               dataAttrs={{
                 'data-ga-section': 'article_embed',

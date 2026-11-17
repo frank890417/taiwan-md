@@ -2,9 +2,7 @@
 title: 'قندس تايوان: قصة بقاء قندس أوراسيا في جزيرة كينمن المنعزلة واختفاؤه الصامت في الجزيرة الرئيسية'
 description: 'لم يعد هناك سجلات برية مؤكدة لقندس أوراسيا في الجزيرة الرئيسية لتايوان منذ ثمانينيات القرن العشرين، ووضع السكان غير معروف وغير متفائل على الإطلاق. إن "قندس ساحات المعارك" الباقي فقط في كينمن يواجه حاليًا تهديدات متعددة من تجزؤ الموائل، والوفيات على الطرق، وتلوث البلاستيك الدقيق.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'قندس أوراسيا',
@@ -15,15 +13,19 @@ tags:
     'الوفيات على الطرق',
     'تجزؤ الموائل',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-07-25T19:27:06+08:00'
+translatedAt: '2026-11-04T20:14:44.685950+00:00'
 ---
 
 # قندس تايوان: قصة بقاء قندس أوراسيا في جزيرة كينمن المنعزلة واختفاؤه الصامت في الجزيرة الرئيسية

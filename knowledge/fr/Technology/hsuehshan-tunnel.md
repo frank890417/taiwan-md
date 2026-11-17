@@ -1,26 +1,30 @@
 ---
-title: "Tunnel de Hsuehshan : de la « mission impossible » au miracle d'ingénierie taïwanais fait de larmes et de sang"
-description: "Le 15 décembre 1997, une irruption d'eau faillit coûter la vie à trois cents personnes et transforma en ferraille le TBM, engin de forage à un milliard de dollars taïwanais. Classé par l'Encyclopaedia Britannica parmi les chantiers les plus difficiles au monde, ce tunnel n'est pas seulement une artère de transport : c'est un miracle d'ingénierie creusé dans un grès de Szeleng plus dur que l'acier, au prix de 25 morts en service et des efforts d'innombrables héros anonymes."
+title: "Tunnel de Xueshan : de la « mission impossible » au miracle d'ingénierie taïwanais de sang et de larmes"
+description: "Le tunnel de Xueshan s'étend sur environ 12,9 km, c'est le plus long tunnel routier de Taïwan. Après son ouverture en 2006, le trajet entre Taipei et Yilan a été réduit de deux heures à environ quarante minutes. Son creusement a duré quinze ans : le 15 décembre 1997, une inondation a enseveli le tunnelier (TBM) d'une valeur de NT$ 1 milliard, le transformant en ferraille. Le grès quadrilatère, plus dur que l'acier, ne permettait d'avancer que d'un peu plus d'un mètre par jour. Les experts internationaux ont déclaré qu'il s'agissait d'une mission impossible. La construction de l'autoroute Taipei-Yilan a coûté la vie à 25 personnes, leurs noms sont gravés sur le monument commémoratif de l'aire de service de Shiding."
 date: 2026-04-29
 category: 'Technology'
 tags:
   [
-    'Tunnel de Hsuehshan',
-    'infrastructures de transport',
+    'Tunnel de Xueshan',
+    'Infrastructures de transport',
     'Yilan',
-    "miracle d'ingénierie",
-    'esprit taïwanais',
+    "Miracle d'ingénierie",
+    'Esprit taïwanais',
   ]
 subcategory: '科技園區'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 12,078 曝光 124 點擊（1.03%），長度問句「雪隧長度」1,032、「雪山隧道有多長」509、「台灣最長的隧道」249 曝光，description 沒給長度；首句放內文的 12.9 公里與台灣最長公路隧道，並把「25 位殉職者」改回內文口徑（北宜高速公路工程全線）'
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:bafa69de0246ccbe'
 sourceBodyHash: 'sha256:d9ab34ee59f266bc'
-translatedAt: '2026-09-07T19:32:14.141007+00:00'
+translatedAt: '2026-11-05T23:43:30.957664+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :**

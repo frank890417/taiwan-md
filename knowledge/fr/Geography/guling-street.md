@@ -1,10 +1,8 @@
 ---
-title: 'Guling Street : la rue des livres laissée par les Japonais, l’adolescent d’Edward Yang, le palais du gouvernement nationaliste'
-description: 'Un samedi après-midi, des étudiants font la queue devant le théâtre de briques rouges au bout de la ruelle 5 de Guling Street ; à côté se trouvent le Musée national d’histoire, construit en 1955, et l’étang de lotus du Jardin botanique de Taipei, réorganisé en 1921. Cette rue de 1,2 kilomètre s’appelait Sakuma-chō en 1922 ; en 1947, elle fut renommée Guling Street, d’après le mont Lu, au Jiangxi. Après 1945, les livres laissés par les Japonais évacués furent disposés au bord de la route et devinrent la première rue du livre d’occasion de Taïwan ; à son apogée, dans les années 1960, elle comptait plus de 200 étals. Après l’ouverture du pont Guanghua en avril 1973, les vendeurs furent réorganisés et déplacés sous le viaduc de Guanghua. Le 15 juin 1961, dans cette rue, Mao Wu, 16 ans, tua Liu Min, 15 ans, avec un couteau scout ; en 1991, Edward Yang en fit un film de 237 minutes. La rue du livre a été démantelée, les bouquinistes ont déménagé, les étudiants achètent désormais leurs livres ailleurs ; restent l’ancien commissariat de briques rouges de l’époque japonaise, le musée de style palatial chinois de l’après-guerre, et l’étang de lotus demeuré au même endroit depuis 1921.'
+title: "Rue Guling : la rue des livres laissée par les Japonais, l'adolescent d'Edward Yang, le palais du gouvernement nationaliste"
+description: "La rue Guling est une rue de 1,2 km à Taipei. En 1922, elle s'appelait Sakuma-chō, et en 1947, elle a été renommée d'après le Guling du mont Lu au Jiangxi. Après la guerre, les livres laissés par les Japonais ont été installés le long de la rue, en faisant la première rue de livres d'occasion de Taïwan ; à son apogée, elle comptait plus de deux cents étals de livres. En 1961, Mao Wu, âgé de 16 ans, a poignardé à mort Liu Min, âgée de 15 ans, dans cette rue ; Edward Yang en a fait un film. Les étals de livres ont déménagé, mais le musée d'histoire de style palais et l'étang de lotus de 1921 sont toujours là."
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區 / 台北市中正區'
 tags:
   [
     'Rue Guling',
@@ -12,31 +10,39 @@ tags:
     'Taipei',
     'District de Zhongzheng',
     'Quartier historique',
-    'Rue du livre d’occasion',
+    "Rue des livres d'occasion",
     'Edward Yang',
-    'Affaire du meurtre adolescent de Guling Street',
-    'Musée national d’histoire',
+    "Affaire du meurtre d'adolescent de la rue Guling",
+    "Musée national d'histoire",
     'Jardin botanique de Taipei',
-    'Théâtre de Guling Street',
+    'Petit théâtre de la rue Guling',
     'Sakuma-chō',
     'Kodama-chō',
-    'Marché Guanghua',
+    'Centre commercial Guanghua',
     'Librairie Songlin',
-    'Série des quartiers historiques',
+    'Série quartiers historiques',
   ]
-readingTime: 18
+subcategory: '歷史街區 / 台北市中正區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+translatedAt: '2026-11-06T00:25:37.709071+00:00'
 ---
 
 # Guling Street : la rue des livres laissée par les Japonais, l’adolescent d’Edward Yang, le palais du gouvernement nationaliste

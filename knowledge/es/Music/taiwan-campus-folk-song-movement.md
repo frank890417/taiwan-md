@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T12:07:01+08:00'
+translatedAt: '2026-11-02T00:34:52.829501+00:00'
 ---
 
 # El movimiento de canción popular taiwanés
@@ -145,12 +145,12 @@ En la era de la globalización, quizás necesitemos más que nunca pensar en est
 
 El movimiento de canción popular taiwanés nos da la respuesta: no temamos crear con nuestro propio idioma y nuestras propias historias. Porque solo así podremos dejar en este mundo una voz que realmente nos pertenece.
 
-## Lecturas relacionadas
+## Lecturas adicionales
 
-- [Desarrollo de la música popular taiwanesa](/music/台灣流行音樂發展) — Después de la canción popular, el eje principal de la música popular china desde Lu Daoyou hasta Chen Qizhen y Zhang Xuan
-- [Literatura taiwanesa tras el levantamiento de la censura](/es/art/post-martial-law-taiwanese-literature) — Otra corriente de conciencia cultural surgida después de 1987, con raíces comunes con el espíritu de "cantar nuestras propias canciones" de la canción popular
-- [Cine taiwanés](/es/art/taiwanese-cinema) — Otra corriente del despertar cultural taiwanés local durante los años 70 y 80
-- [San Mao](/es/people/san-mao) — Poeta de la letra original de "Olivo", cuya letra fue reescrita y difundida por toda el mundo de habla china
+- [El desarrollo de la música popular en Taiwán](/es/music/golden-melodies-legacy-taiwan-pop-music) — El eje principal de la música pop en chino, desde la era del _Minyu_ (canción popular) pasando por Lo Ta-yu hasta llegar a Cheer Chen y Sandee Chan.
+- [La literatura taiwanesa tras el levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — Otro movimiento de conciencia cultural tras el fin de la ley marcial en 1987, con la misma esencia que el espíritu de «cantar nuestras propias canciones» del _Minyu_.
+- [El cine taiwanés](/es/art/taiwanese-cinema) — El Movimiento del Nuevo Cine de Taiwán, desarrollado en la misma época y representando otro eje del despertar cultural local en las décadas de 1970 y 1980.
+- [San Mao](/es/people/san-mao) — La autora original de la letra de 〈El olivo〉, cuya canción se volvió mundialmente conocida tras ser adaptada.
 
 ---
 

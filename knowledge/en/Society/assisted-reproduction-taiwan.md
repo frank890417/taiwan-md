@@ -1,8 +1,8 @@
 ---
 title: 'Taiwan’s Assisted Reproduction: An Embryo Crosses Borders, But a Family Cannot Automatically Cross the Law'
 description: 'In 2020, female partners Mota and City traveled to Cambodia for IVF, spending approximately NT$2 million over four years. Taiwan enacted an Assisted Reproduction Act in 2007 and expanded IVF subsidies in 2021, but it was not until the 2025 legislative draft that unmarried women and married female same-sex couples were included. The technology is mature; the law is catching up not just to reproductive methods, but to who qualifies as a family.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'Assisted Reproduction',
@@ -11,17 +11,19 @@ tags:
     'Same-Sex Marriage',
     'Low Birth Rate',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-11T06:37:10+08:00'
+translatedAt: '2026-11-05T17:28:52.525851+00:00'
 ---
 
 > **30-Second Overview:** In 2020, female partners Mota and City traveled to Cambodia for IVF, spending approximately NT$2 million over four years. Taiwan’s medical technology is already mature, but the law has long only allowed heterosexual married couples to use it. From the 2007 Assisted Reproduction Act to the 2025 legislative draft, this article looks not at “whether one can give birth,” but at who is allowed into the clinic, who is recognized as a parent after the child’s birth, and the dilemmas left by surrogacy. [^1]

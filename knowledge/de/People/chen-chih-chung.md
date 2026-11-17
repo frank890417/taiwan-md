@@ -184,21 +184,11 @@ Seine eigene Stellungnahme stammt aus dem Jahr 2023. Während der Haft veröffen
 
 ## Wer nicht mehr registriert werden kann, liest heute fremde Stimmzettel
 
+<!-- poll-blackout:start -->
+
 Am Morgen des 17. August 2026 saß er am Kopfende einer Pressekonferenz und stellte eine Umfrage zur Bürgermeisterwahl von Taichung vor.
 
-Der KMT-Kandidat Chiang Chi-chen erhielt 42,8 % Zustimmung, der DPP-Kandidat Ho Hsin-chun 36,1 % – ein Abstand von 6,7 Prozentpunkten. Bei der Einschätzung der Wahlchancen lagen Chiang Chi-chen mit 48,2 % gegen Ho Hsin-chun mit 23,6 %. Sein Kommentar: „Der Rückgang des Abstands zeigt, dass der Giftöl-Skandal der Blauen in der Taichung-Wahl geschadet hat“ und „Taichung könnte sehr wohl die Seiten wechseln, viel ist möglich“.[^49]
-
-```tw-dot
-Zustimmung Bürgermeisterwahl Taichung 2026 (%, mit 95-%-Konfidenzintervall)
-Chiang Chi-chen | 42,8 | 39,9 | 45,7
-Ho Hsin-chun | 36,1 | 33,2 | 39,0
-Quelle: New Taiwan National Policy Think Tank, Auftraggeber Ketagalan-Stiftung, Festnetz-Umfrage 11.–13.08.2026
-```
-
-```tw-note
-Anmerkung
-Die obige Tabelle zeigt Punktschätzungen der Zustimmung und das Stichprobenfehlerintervall bei 95 % Konfidenzniveau (±2,88 Prozentpunkte), umgesetzt auf die effektive Stichprobe von 1.159 vollständigen Interviews mit in Taichung gemeldeten Personen ab 20 Jahren. Das Intervall wurde aus dem veröffentlichten Fehlerwert abgeleitet; es soll daran erinnern, dass eine Punktschätzung kein sicherer Wert ist.
-```
+<!-- poll-blackout:end -->
 
 Der New Taiwan National Policy Think Tank, der diese Umfrage veröffentlichte, wurde im Januar 2010 von Ku Kuan-min gegründet. Am 1. September 2016 schenkte Ku Kuan-min den Think Tank der Ketagalan-Stiftung; Chen Chih-chung ist seitdem Geschäftsführer und war es auch im August 2026 noch.[^50] Der gesetzliche Vertreter der Ketagalan-Stiftung in der Körperschaftsregistrierung ist die Abgeordnete Chen Ting-fei; seine Position in der Stiftung ist Geschäftsführer – zwei verschiedene Positionen.[^51]
 

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-11-04T23:55:24.397087+00:00'
 ---
 
 # Liêu Hong Cơ (廖鴻基)

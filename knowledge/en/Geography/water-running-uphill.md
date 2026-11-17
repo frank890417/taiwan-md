@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-09T15:34:31+08:00'
+translatedAt: '2026-11-05T07:21:07.414352+00:00'
 ---
 
 > **30-Second Overview:** "Water Flows Upstream" in Duduan Village, Donghe Township, Taitung County, is an irrigation ditch less than half a meter wide, yet it is one of Taiwan's most famous "counter-intuitive attractions." Ground measurements show the ditch actually slopes downward by approximately 0.5 to 0.6 degrees; however, the adjacent road has a steeper angle of inclination. When these two slope lines are viewed together, the brain adopts the more steeply inclined road as the horizontal reference plane, thus perceiving the less inclined ditch as "flowing upward"—this is an illusion of the visual system's reference frame, not a failure of gravity or magnetic fields. This irrigation channel was originally excavated by local Amis people; it was only after the domestic tourism boom of the 1980s that officials installed a stone monument to package it as a spectacle. In recent years, it has sparked a new wave of discussion due to online reviews calling it "Taiwan's most useless attraction."

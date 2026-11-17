@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-07-30T03:55:56+08:00'
+translatedAt: '2026-11-04T20:30:21.397178+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -82,28 +84,28 @@ Em Taiwan, esta sociedade cheia de rótulos, os Irmãos Huang usaram dez anos pa
 
 ## Referências
 
-[^1]: [Entrevista com YouTuber Irmãos Huang: jornada criativa de crescimento junto ao público](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (ver dados suplementares no link original)
+[^1]: [Entrevista com os YouTubers Huang Brothers: A jornada de criação crescendo junto com o público](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T-Koba (ver detalhes no conteúdo do link original)
 
-[^2]: [20 meses sem folga! Irmãos Huang relembram história árdua da criação](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [Sem folga nos últimos 20 meses! Os Huang Brothers relembram os desafios da criação de conteúdo](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【Irmãos fazem filantropia】 Alugam escola rural por um dia inteiro](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Canal YouTube Irmãos Huang
+[^3]: [[Irmãos fazendo caridade] Alugando uma escola primária rural por um dia inteiro](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Canal do YouTube dos Huang Brothers
 
-[^4]: [Se for para fazer, faça da melhor forma! YouTubers Irmãos Huang tentam múltiplas vias, buscam a perfeição](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Se for para fazer, que seja o melhor! O YouTuber Huang Brothers experimenta diversas áreas em busca da perfeição](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Como se forja YouTuber de milhões? Entrevista com Irmãos Huang](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Como se torna um YouTuber com milhões de seguidores? Entrevista com os Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Aprenda execução com Irmãos Huang: por trás da imaginação solta esconde-se posicionamento preciso](https://premium.parenting.com.tw/article/5087793) — Parenting World (ver dados suplementares no link original)
+[^6]: [Aprendendo a capacidade de execução com os Huang Brothers | Por trás da imaginação desenfreada, há um posicionamento pessoal preciso](https://premium.parenting.com.tw/article/5087793) — Parenting (ver detalhes no conteúdo do link original)
 
-[^7]: [Weiwei forçado a sair do armário, ele se revolta: é divulgação estilo estupro](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo Notícias
+[^7]: [Wei-wei foi forçado a sair do armário e ele reagiu com raiva: Foi uma exposição violenta](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [Sobre a reportagem, quero falar com a família【Irmãos Huang】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Vídeo YouTube Irmãos Huang
+[^8]: [Sobre as reportagens, eu quero dizer à minha família [Huang Brothers]](https://www.youtube.com/watch?v=jo7ggR1f54s) — Vídeo do YouTube dos Huang Brothers
 
-[^9]: [Weiwei dos Irmãos Huang "tirado do armário à força" — você não precisa pedir desculpas](https://newslab.pts.org.tw/news/216) — PTS News
+[^9]: [Wei-wei dos Huang Brothers 'foi tirado do armário': Você não precisa pedir desculpas](https://newslab.pts.org.tw/news/216) — Notícia da PTS (Public Television Service)
 
-[^10]: [YouTuber de 2 milhões Weiwei Huang Ting-wei vira "cantor compositor" lança primeiro EP solo](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [O YouTuber com 2 milhões de inscritos, Wei-wei Huang, torna-se 'cantor de composição própria' com seu primeiro EP individual](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Irmãos Huang mobilizam público para animar estudantes vulneráveis, servem como embaixadores da Cruz Vermelha](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (reportagem do Economic Daily News)
+[^11]: [Huang Brothers convocam o público para apoiar crianças carentes ao atuarem como embaixadores de caridade da Red Heart Society](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (reportagem do Economic Daily News)
 
-[^12]: [【KOL nos bastidores】 Irmãos Huang admitem pegadinha que cruzou a linha](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo Notícias
+[^12]: [[KOL em atividade] Huang Brothers revelam que pegadinhas já cruzaram limites](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Não só fazem vídeos engraçados: YouTubers exercem influência e cumprem responsabilidade social](https://csr.cw.com.tw/article/41369) — CommonWealth CSR
+[^13]: [Além de gravar vídeos engraçados: YouTubers exercem sua influência e cumprem responsabilidade social](https://csr.cw.com.tw/article/41369) — 天下 CSR (Tianxia CSR)

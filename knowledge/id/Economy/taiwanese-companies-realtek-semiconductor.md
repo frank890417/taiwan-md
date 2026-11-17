@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:56+08:00'
+translatedAt: '2026-11-04T15:22:16.407030+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada tahun 1987, tujuh insinyur mendirikan Realtek Semiconductor di Kawasan Sains Hsinchu dengan modal NT$2 juta. Menggunakan kepiting sebagai logo, mereka meluncurkan chip jaringan pertama hasil riset mandiri Taiwan pada tahun 1991. Pada tahun 2024, pendapatan gabungannya mencapai sekitar NT$113,4 miliar, menjadikannya perusahaan desain IC terbesar ketiga di Taiwan. Di setiap komputer di seluruh dunia, kemungkinan besar terdapat "kepiting Realtek" yang tersembunyi di dalamnya.
@@ -98,17 +100,17 @@ Didirikan oleh tujuh insinyur pada tahun 1987, setelah 37 tahun, chip Realtek te
 
 ## Referensi
 
-[^1]: [Laporan Tahunan Realtek Semiconductor 2024 | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Mengonfirmasi pendapatan gabungan tahun penuh 2024 sekitar NT$113,4 miliar (naik 19,1%); 7 pendiri mendirikan perusahaan pada 21 Oktober 1987.
+**Bacaan Lanjutan**
 
-[^2]: [Market Observation Post: Realtek Semiconductor](https://mops.twse.com.tw/) — Data dasar listing 2379, laporan keuangan tahunan.
+- [TechNews: Perkembangan Realtek Semiconductor](https://technews.tw/)
+- [DigiTimes: Laporan Industri Desain IC Taiwan](https://www.digitimes.com.tw/)
 
-[^3]: [Bursa Efek Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Mengonfirmasi kode saham 2379, listing tahun 1998, Chiu Shun-chien sebagai Ketua Dewan Komisaris saat ini.
+[^1]: [Laporan Tahunan 2024 Realtek Semiconductor｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Mengonfirmasi pendapatan konsolidasi tahun 2024 sebesar sekitar NT$113,4 miliar (pertumbuhan tahunan 19,1%); didirikan oleh 7 pendiri pada 21 Oktober 1987.
+
+[^2]: [Sistem Observasi Pasar (MOPS): Realtek Semiconductor](https://mops.twse.com.tw/) — Informasi dasar pemasaran 2379, laporan keuangan tahun-tahun sebelumnya.
+
+[^3]: [Bursa Efek Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Mengonfirmasi kode saham 2379, tercatat pada 1998, Chiu Shun-chien sebagai komisaris utama saat ini.
 
 [^4]: [Lini Produk Situs Resmi Realtek](https://www.realtek.com/) — Penjelasan lini produk chip WiFi 6/7.
 
-[^5]: [TechNews: Sejarah Realtek Semiconductor](https://technews.tw/) — Laporan latar belakang industri mengenai perkembangan Realtek dari chip jaringan hingga ekspansi IC multimedia.
-
-**Bacaan Lanjutan**
-
-- [TechNews: Proses Perkembangan Realtek Semiconductor](https://technews.tw/)
-- [Electronic Times: Laporan Industri Desain IC Taiwan](https://www.digitimes.com.tw/)
+[^5]: [TechNews: Perkembangan Realtek Semiconductor](https://technews.tw/) — Laporan latar belakang industri tentang Realtek Semiconductor yang bermula dari chip jaringan hingga ekspansi IC multimedia.

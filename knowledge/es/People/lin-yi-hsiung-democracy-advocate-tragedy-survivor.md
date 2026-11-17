@@ -4,21 +4,25 @@ description: 'Lin Yih-hsiung, nacido en 1941 en Yilan, se graduó en Derecho en 
 date: 2026-03-19
 category: 'People'
 tags:
-  - 'Movimiento democrático'
-  - 'Caso Lin Home'
-  - 'Movimiento antinuclear'
-  - 'Persecutado político'
-  - 'Fundación educativa Cilin'
+  [
+    'Movimiento democrático',
+    'Caso Lin Home',
+    'Movimiento antinuclear',
+    'Persecutado político',
+    'Fundación educativa Cilin',
+  ]
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-05T00:01:48.177877+00:00'
 ---
 
 # Lin Yih-hsiung: De legislador provincial a símbolo moral contra el cuarto reactor nuclear
@@ -73,19 +77,19 @@ Las evaluaciones sobre su figura siguen divididas: sus partidarios lo ven como u
 
 ## Referencias
 
-[^1]: [Lin Yih-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — visión general de su vida, legislador provincial de 1977, presidente del DPP en 1998 (primer presidente electo directamente), registro de Harvard MPA 1987. Ver también [Taiwan FactCheck Center: Lin Yih-hsiung 2006 left DPP rumor debunked](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
+[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Resumen biográfico, diputado provincial de Taiwán en 1977, primer presidente electo directamente del octavo mandato del PDP en 1998, registro de MPA en Harvard en 1987. Véase también [Centro de Verificación de Hechos de Taiwán: Lin Yi-hsiung 2006 desmentido de salida del partido](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Incidente de Beautiful Island — Museo Nacional de Derechos Humanos](https://www.nhrm.gov.tw/) — cronología del incidente de 1979, lista de detenidos y documentación del juicio militar.
+[^2]: [Incidente de Formosa — Museo Nacional de Derechos Humanos](https://www.nhrm.gov.tw/) — Detalles del incidente de Formosa de 1979, lista de detenidos y datos del juicio militar.
 
-[^3]: [Caso Lin Home — Museo Nacional de Derechos Humanos](https://www.nhrm.gov.tw/w/nhrm/home) — archivos del caso y estado de no resolución.
+[^3]: [Caso de la masacre en la residencia Lin — Museo Nacional de Derechos Humanos](https://www.nhrm.gov.tw/w/nhrm/home) — Archivos del caso de la masacre en la residencia Lin y explicación del estado actual sin resolver.
 
-[^4]: [Historia del Partido Democrático Progresista — sitio oficial del DPP](https://www.dpp.org.tw/) — trayectoria fundacional y registros de la gestión de Lin Yih-hsiung como presidente (1998‑2000). Ver también [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) — detalles del proceso de salida del partido el 24/1/2006.
+[^4]: [Historia del Partido Democrático Progresista — Sitio web oficial del PDP](https://www.dpp.org.tw/) — Proceso de fundación del partido y registros de asuntos del partido durante la presidencia de Lin Yi-hsiung (1998-2000). Véase también [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) que registra el proceso de salida del partido el 2006/1/24.
 
-[^5]: [Sitio web de la Fundación educativa Cilin](https://www.tzlin.org.tw/) — misión, presentación del Parque Cilin y actividades.
+[^5]: [Sitio web oficial de la Fundación Educativa Cilin](https://www.tzlin.org.tw/) — Propósitos de la fundación, presentación del parque Cilin e información de actividades.
 
-[^6]: [Reportaje sobre la huelga de hambre contra el cuarto reactor nuclear 2014 — Liberty Times](https://news.ltn.com.tw/) — confirmación de la acción de huelga de hambre de abril de 2014 y la decisión de paralizar y archivar el cuarto reactor.
+[^6]: [Informe sobre la huelga de hambre contra la cuarta central nuclear en 2014 — Liberty Times](https://news.ltn.com.tw/) — Confirma los detalles de la huelga de hambre de Lin Yi-hsiung en abril de 2014 y la decisión de detener la construcción y sellar la cuarta central nuclear.
 
-[^7]: [Historia del movimiento antinuclear — Alianza de Ciudadanos Verdes](https://gcaa.org.tw/) — contexto histórico del movimiento antinuclear en Taiwán y el papel de Lin Yih-hsiung.
+[^7]: [Materiales históricos del movimiento antinuclear — Alianza de Acción Ciudadana Verde](https://gcaa.org.tw/) — Contexto histórico del movimiento antinuclear en Taiwán y registro del papel de Lin Yi-hsiung.
 
 ## Lecturas adicionales
 

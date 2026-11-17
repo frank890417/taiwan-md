@@ -2,9 +2,7 @@
 title: 'Đi trên cảng đã được lấp: Năm món ăn đường phố của khu Trung Tây, Đài Nam'
 description: 'Dưới lòng phố Quốc Hoa và đường Hải An là di tích các dòng sông của Ngũ Điều Cảng thời Thanh; canh bò, cháo cá phụng, mì ý cá chình, bột khoai môn tim heo, thời gian, vị trí và nguyên liệu của mỗi món ăn nhỏ đều là hóa thạch do logic sinh tồn của công nhân bến cảng bốn trăm năm trước để lại.'
 date: 2026-06-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Đài Nam',
@@ -15,20 +13,24 @@ tags:
     'cá phụng',
     'mì ý cá chình',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-25T21:33:45+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T13:32:32.197069+00:00'
 ---
 
-Bốn giờ rưỡi sáng, phố Quốc Hoa vẫn chưa bật đèn. Vài người từ ga Đài Nam đi bộ tới, màn hình điện thoại soi sáng lối đi, hướng về quán canh bò Lục Thiên với biển hiệu vẫn còn chìm trong bóng tối. Họ không phải là những người đầu tiên: đã có người chờ ở cửa. Bò từ chợ thịt Thiện Hóa được giết từ tối hôm trước, xe lạnh chuyển giao trước khi trời sáng, nồi canh đầu tiên bắt đầu sôi lúc năm giờ. Người đến sớm biết một điều: **độ ngọt của nồi đầu tiên khác với nồi buổi chiều.**
+4 giờ 30 phút sáng, phố Quốc Hoa vẫn chưa lên đèn. Vài người đi bộ từ ga tàu hỏa Đài Nam tới, ánh sáng từ màn hình điện thoại soi rọi lối đi, hướng về phía tiệm canh bò Lục Thiên (Liùqiān Niúròu Tāng) mà những tấm biển hiệu vẫn còn chìm trong bóng tối. Họ không phải là những người đầu tiên: trước cửa đã có người đứng đợi sẵn. Những con bò từ chợ thịt Thiện Hóa (Shànhuà) bắt đầu được giết mổ từ đêm hôm trước, xe đông lạnh sẽ giao hàng tới trước lúc bình minh, và nồi canh đầu tiên sẽ bắt đầu sôi vào lúc 5 giờ sáng. Những người đến sớm đều biết một điều: **độ ngọt của nồi canh đầu tiên khác hẳn với nồi canh lúc chiều tà.**
 
-Đây không phải là cảm giác nghi thức. Đây là logistics.
+Đây không phải là tạo ra cảm giác nghi thức. Đây là logistics.
 
 ## Ngũ Điều Cảng: Lý do biến mất
 
@@ -72,17 +74,17 @@ Khẩu vị thịt bò tươi là "cạp cạp cạp cạp" — sợi cơ còn n
 
 📝 Ghi chú của người trưng bày: Khi đại học, cùng bạn bè tụ tập, lần đầu tiên đi Đài Nam, nửa đêm bốn giờ, bị vỗ tỉnh: "Này, dậy đi, đi uống canh bò." Mắt còn ngái ngủ, ý nghĩ đầu tiên trong đầu là: giờ này là gì, ai bán canh bò lúc này, dù có, sao phải dậy bây giờ? Nhưng bạn bè rất kiên quyết, nửa đẩy nửa kéo ra cửa. Đến đường Hải An, chưa nhìn rõ quán nào, đã thấy dưới mái hiên chợ, đèn đường chiếu một hàng bóng người — hai ba mươi người, đã chờ ở đó. Quán mở cửa lúc năm giờ,抢到 nồi đầu tiên. Vị ngọt đó — không phải đường thêm vào, là độ ngọt tự nhiên thấm vào nước dùng từ sợi cơ ở trạng thái tươi nhất — canh bò buổi chiều cũng quyến rũ, nhưng độ tươi của nồi đầu tiên là một tầng hưởng thụ tinh thần khác. Đó là một sự thỏa mãn gần như bất công. Lúc này, bạn bè còn nhắc tôi: "Thế nào? Đáng chứ! Nói với bạn, thứ Hai đừng đến, thứ Hai không mở." Hóa ra, quán canh bò Đài Nam thường thứ Hai nghỉ, vì chợ thịt Thiện Hóa thứ Hai không giết bò.
 
-## Mì ý cá chình: Vật lý học 27 giây
+## Mì Ý lươn: Xào lửa lớn, một cửa hàng viết cả thời gian lên tường
 
-Mì ý cá chình ở các nơi khác của Đài Loan cũng có, nhưng ngoài Đài Nam hầu như không ai làm đúng, vì kỹ thuật cốt lõi yêu cầu cực kỳ nghiêm ngặt: từ khi cá chình vào nồi đến khi出锅, không quá 27 giây. Quá, thịt biến khô, vị tanh xuất hiện, cả nồi hỏng.
+Bí quyết của món mì ý lươn nằm ở hỏa hầu: những lát lươn khi cho vào chảo phải được xào nhanh với lửa lớn, nếu xào quá tay, thịt sẽ bị khô. Một tiệm ăn lâu đời tại Sakariba đã lấy con số "27 giây" làm thương hiệu riêng của mình, nhưng đây là cách nói của riêng cửa hàng đó, không phải quy tắc chung cho món ăn này.
 
-Nguồn gốc món ăn này ở chợ Hữu Ái Giới (Sa Ka Lý Ba). Thời kỳ Nhật thuộc, Đài Nam không có cá chình, nhưng trong ao có thể bắt cá chình hoang dã kích thước tương đương, nhưng không ai biết cách chế biến. Anh em Liêu Bính Nam, Liêu Hỏa Thổ học được đạo lý nấu "dao" (to-tsì) với đầu bếp Phúc Kiến, nghiên ra cách xào cá chình giả cá chình, vị mặn ngọt chua của Đài Nam khiến quan chức Nhật Bản cũng phục, từ đó ở Sa Ka Lý Ba打出 danh tiếng. Liêu Bính Nam sau này được gọi là "Cá chình Nam"; kỹ thuật nhà Liêu truyền lửa, ngày nay xào cá chình nhà Liêu ở Sa Ka Lý Ba, A Nguyên ở đường Thành Công, A Giang ở đường Dân Tộc, đều cùng hệ phổ.
+Nguồn gốc của món ăn này bắt nguồn từ chợ phố Hữu Ái (Sakariba). Hai anh em Liêu Bính Nam (Liao Bingnan) và Liêu Hỏa Thổ (Liao Huotu) đã học được kỹ thuật "dao kéo" (to-tsì) từ một đầu bếp Phúc Châu, xào ra hương vị mặn - chua - ngọt đặc trưng của Đài Nam, từ đó tạo dựng danh tiếng tại Sakariba. Sau này, Liêu Bính Nam được người đời gọi là "Lươn Nam"; kỹ thuật của nhà họ Liêu được truyền thừa qua nhiều thế hệ, các tiệm như nhà họ Liêu ở Sakariba, A Nguyên ở đường Thành Công, hay A Giang ở đường Dân Tộc đều xuất thân từ cùng một dòng tộc. Câu chuyện đầy đủ xem tại 〈[Mì Ý lươn](/vi/food/eel-noodles)〉.
 
-Tỏi phi thơm, đoạn cá chình vào nồi, hành lá, hành tây, ớt, gia vị, hồ tiêu, giấm Ngũ Ấn,出锅, đổ lên mì ý đã sẵn. Âm thanh bốc lên củawok hei, là đầu bếp lão luyện dùng tai判断 lửa, không phải mắt.
+Tỏi phi thơm, cho các đoạn lươn vào chảo, thêm hành lá, hành tây, ớt, gia vị, rồi đến bước tạo độ sánh (勾芡), thêm giấm Ngũ Ấn, sau đó trút ra đĩa mì ý đã chuẩn bị sẵn. Tiếng xèo xèo đầy "hơi thở của chảo" (wok hei) bốc lên chính là cách mà các bậc thầy dùng tai để cảm nhận hỏa hầu thay vì dùng mắt.
 
-Mì ý là loại mì địa phương Đài Nam, ở trạng thái bán sống chiên định hình, cho vào nước sốt hút no nước sốt, khẩu vị hoàn toàn khác mì thường. Giấm Ngũ Ấn là cần thiết — kết thúc ngọt chua reset vị giác, khiến người ta sau dầu và protein, còn có thể tiếp tục ăn quầy tiếp theo.
+Mì ý là loại sợi mì bản địa của Đài Nam, được chiên sơ trong trạng thái chưa chín hẳn để định hình, sau đó thả vào nước sốt để thấm đẫm gia vị, tạo nên kết cấu hoàn toàn khác biệt so với các loại mì thông thường. Giấm Ngũ Ấn là thành phần không thể thiếu — vị chua ngọt ở hậu vị giúp cân bằng lại vị giác, khiến thực khách dù đã ăn nhiều dầu mỡ và protein vẫn có thể tiếp tục thưởng thức gian hàng tiếp theo.
 
-📝 Ghi chú của người trưng bày: "Sa Ka Lý Ba" là âm Hán Việt của tiếng Nhật "盛り場" (sakariba), nghĩa là chợ nhộn nhịp. Tên này tự nói lên nguồn gốc của mì ý cá chình: một nơi tụ tập công nhân thời Nhật thuộc.
+📝 Ghi chú của người biên soạn: "Sakariba" là âm phiên dịch tiếng Đài từ tiếng Nhật 「盛り場」(sakariba), nghĩa là một nơi họp chợ náo nhiệt. Bản thân cái tên này đã nói lên nguồn gốc của món mì ý lươn: một nơi tập trung đông đảo công nhân vào thời kỳ Nhật thuộc.
 
 ## A Minh tim heo bột khoai môn: Chờ hai giờ triết lý cách thủy
 

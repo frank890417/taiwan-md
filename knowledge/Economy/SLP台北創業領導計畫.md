@@ -14,6 +14,8 @@ image: '/article-images/economy/slp-taipei-annual-party-2023.webp'
 imageCredit: 'SLP台北創業領導計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://slptaipei.com/'
+curation: incubating
+curationReason: unverified
 ---
 
 # SLP台北創業領導計畫：六千元起家的一堂課，漲到五萬八還是一位難求

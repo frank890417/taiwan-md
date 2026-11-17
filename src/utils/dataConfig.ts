@@ -71,6 +71,10 @@ export const sectorColors: Record<Sector, string> = {
   biotech: '#f43f5e',
 };
 
+// 市值快照日期：下面這張表的收盤日。/companies 標題的「（2026/10 快照）」從這裡取，
+// 換新快照時改這一行，標題跟著變（2026-11-04 evolve）。
+export const COMPANIES_SNAPSHOT_DATE = '2026-10-22';
+
 // 台灣前 50 大上市櫃企業（依 2026/10/22 收盤市值排序）
 // 市值：2026-10-22 收盤價 × 已發行普通股數（TWSE／TPEx OpenAPI），可重現腳本：
 //   scripts/tools/companies-marketcap-snapshot.py；中間檔 reports/research/2026-10/companies-snapshot-20261022.json

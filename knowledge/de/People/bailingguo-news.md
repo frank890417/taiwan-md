@@ -2,34 +2,38 @@
 title: 'Bailingguo News: Die Welt in die Ohrung Taiwanesischer'
 description: 'Wie Kylie und Ken mit Zweisprachigkeit, Lachen und unaufgeregelten Gesprächen fremde internationale Nachrichten zu einem hörenden Taiwanesen machen, der sie nicht nur bis zum Schluss hört, sondern neu denkt.'
 date: 2026-08-17
-subcategory: '數位與媒體'
 category: 'People'
 tags:
   ['Bailingguo News', 'Podcast', 'Kylie', 'Ken', 'internationale Nachrichten']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/people/bailingguo-news-podcast-headphones.webp'
+imageCredit: 'Zephyris'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
-sourceCommitSha: 'cf406dedd'
-sourceContentHash: 'sha256:2e4b0f96f5527220'
-sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:6178ccc8d8afac3a'
+sourceBodyHash: 'sha256:d66f8844359d3f83'
+translatedAt: '2026-11-04T15:26:41.322275+00:00'
 ---
 
-2014 war Kylie und Ken noch nicht die Moderatoren von Bailingguo News. Sie waren nur zwei junge Menschen, die beobachteten, wie taiwanesische Nachrichten von der Welt entfernt waren, und es versuchten, das zu ändern. 2020 organisierten sie eine physische Veranstaltung mit dem Thema „Internationale Verbindung“ in Tainan, wo sich die Zuhörer versammelten und das Programm von den Kopfhörern in die Stadt trug. 2022 investierten sie 2,5 Millionen taiwanesische Dollar in ein rein englisches Format, um Taiwan in die internationale Gemeinschaft zu bringen.[^1] [^2] [^3]
+2014 waren Kylie und Ken noch nicht die Moderatoren von „Bailingguo News“. Sie waren lediglich zwei junge Menschen, die die Kluft zwischen taiwanesischen Nachrichten und der Welt beobachteten und versuchten, dies zu ändern. 2020 veranstalteten sie in Tainan eine physische Veranstaltung zum Thema „International Connection“, bei der sich Zuhörer vor Ort versammelten und das Programm aus den Kopfhörern in die Stadt hinausging. 2022 investierten sie, damit Taiwan international gehört wird, 2,5 Millionen New Taiwan Dollar in die Produktion einer rein englischsprachigen Sendung.[^1] [^2] [^3]
 
-Diese drei Zeitpunkte zusammen zeigen den Kontrast von Bailingguo: Es spricht die schwersten Themen mit der Leichtigkeit eines Freundesgesprächs. Bailingguo macht die internationalen Nachrichten nicht einfacher, sondern zuerst willkommen. Nach der Annäherung entdecken die Zuhörer, dass sie gezwungen sind, die Beziehung zwischen Taiwan und der Welt zu verstehen.
+Erst wenn man diese drei Zeitpunkte zusammen betrachtet, wird der Kontrast von Bailingguo sichtbar: Es behandelt die unpassendsten Themen für Smalltalk auf die Art, wie Freunde herumalbern. Bailingguo macht internationale Nachrichten nicht einfach, sondern bringt die Menschen zunächst dazu, sich ihnen anzunähern. Erst nach dieser Annäherung merken die Zuhörer, dass sie dazu gebracht werden, die Beziehung zwischen Taiwan und der Welt zu verstehen.
 
-> **Gegenintuitiver Kern:** Bailingguo macht Nachrichten wie ein Gespräch, und doch stellt es die Frage „Wer hat das Recht, über die Welt zu sprechen?“ in jeden taiwanesischen Ohr.
+> **Kernsatz gegen die Intuition:** Bailingguo macht Nachrichten wie ein Plaudern, bringt dadurch aber die Frage „Wer ist qualifiziert, über die Welt zu sprechen?“ in die Kopfhörer jedes Taiwaners.
 
-![Kopfhörer mit Mikrofon, symbolisch für Bailingguo, das internationale Nachrichten in den Alltag bringt](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![Kopfhörer mit Mikrofon, symbolisiert Bailingguo, das internationale Nachrichten in den täglichen Höralltag bringt](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_Grafik: `Headphones with Microphone.jpg`, Autor Zephyris; [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Hier wird die Original-URL direkt verwendet, kein Bild heruntergeladen._
+_Bild: `Headphones with Microphone.jpg`, Autor Zephyris; [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Hier wird die Original-Datei-URL direkt eingebettet, die Datei wurde nicht heruntergeladen._
 
-_Grafik: Tatler Asia Interview-Begleitbild, von [Bailingguo News Moderator-Interview](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Dies ist ein nicht frei lizenziertes Bild, nur als Original-URL eingebettet als Artikelkontext und Quellenhinweis, keine Weitergabe, Download, Reproduktion oder kommerzielle Nutzung beansprucht._
+_Bild: Tatler Asia Interview-Illustration, entnommen dem [Bailingguo News Moderatoren-Interview](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Dieses Bild unterliegt nicht-freien Urheberrechten und wird lediglich über die Original-URL eingebettet, um den Artikelkontext und die Quellenangabe zu liefern; es wird keine Weiterlizenzierung, kein Download, keine Vervielfältigung oder kommerzielle Nutzung beansprucht._
 
 ## Vom „Medien internationalisieren“ begonnen
 
@@ -115,26 +119,26 @@ Alle Grafiken in diesem Artikel verwenden nur Remote-Markdown-URLs, keine Grafik
 
 Bei der Kuratierung ist die erste Grafik kein Porträt der Beteiligten von Bailingguo, sondern das Objekt eines Kopfhörers mit Mikrofon. Dadurch wird der zentrale Einsicht des Artikels von „die Moderatoren vorstellen“ zu „wie Sound zu einem öffentlichen Raum wird“; die zweite Grafik bewahrt den ursprünglichen Kontext von Tatler Asia, aber sie wird nicht fälschlicherweise als Material von Taiwan.md dargestellt.
 
-## Referenzen
+## Quellen
 
-[^1]: [Music Farm: Bailingguo – Die neue Welle der Kopfhörer in Taiwans Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Langer englischer Artikel vor Ort, der den Entwicklungskontext von Kylie und Ken von 2014 Medieninternationalisierung, frühen Formaten bis zur Veranstaltung in Tainan 2020 zusammenfasst.
+[^1]: [Music Farm: Bailingguo – Zeuge der neuen Welle der Kopfhörer in Taiwans Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Englischer Langform-Live-Bericht, der den Entwicklungsverlauf von Kelly und Ken von den Versuchen der Medieninternationalisierung 2014, frühen Sendungen bis zur Tainan-Veranstaltung 2020 zusammenfasst.
 
-[^2]: [Taipei Times: Bailingguo News startet englische Sketch-Comedy ‚Tough Bobas: Taiwan Uncensored‘](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Konkrete Berichte von Taipei Times und Central News Agency, die das reine englische Format, die Anzahl der Episoden, die Einladung von Schauspielern und die Produktionskosten dokumentieren.
+[^2]: [Taipei Times: Bailingguo News startet englische Sketch-Comedy ‚Tough Bobas: Taiwan Uncensored‘](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Konkreter Bericht, der von Taipei Times und der Zentralen Nachrichtenagentur (CNA) übernommen wurde, dokumentiert die rein englischsprachige Sendung, Produktionsfolgen, Schauspielerengagements und Produktionskosten usw. als überprüfbare Informationen.
 
-[^3]: [Taipei Times: Bailingguo News startet englische Sketch-Comedy ‚Tough Bobas: Taiwan Uncensored‘](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Vergleichender Artikel in Englisch und Chinesisch, der den Platz von Bailingguo in Taiwans Podcasts, die internationalen Zielen und die Produktionsschwierigkeiten politischer Themen erklärt.
+[^3]: [Taipei Times: Bailingguo News startet englische Sketch-Comedy ‚Tough Bobas: Taiwan Uncensored‘](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Nachrichtenartikel mit englisch-chinesischem Gegenüberstellung, der das Ranking von Bailingguo in Taiwans Podcasts, Internationalisierungsziele und Produktionsschwierigkeiten sensibler Themen erläutert.
 
-[^4]: [Music Farm: Bailingguo – Die neue Welle der Kopfhörer in Taiwans Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Langer Artikel über Personen und Branche, der die nicht-traditionelle Stimme der Moderatoren, ihre zweisprachigen Fähigkeiten, das Format und die Position im Podcast-Ökosystem beschreibt.
+[^4]: [Music Farm: Bailingguo – Zeuge der neuen Welle der Kopfhörer in Taiwans Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Englischer Personen- und Branchenbeobachtungsartikel, der den unkonventionellen Moderationston der beiden Hosts, ihre Zweisprachigkeit, das Sendungsformat und die Position im Podcast-Ökosystem beschreibt.
 
-[^5]: [Tatler Asia: 2021 ‚Bailingguo News‘ – Hast du es schon gehört?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Interview mit den Moderatoren 2021, das die Herkunft des Formats, das Ziel internationaler Nachrichten, das Begleitgefühl von Podcasts, Live-Streaming und physische Veranstaltungen sowie direkte Zitate von Kylie und Ken liefert.
+[^5]: [Tatler Asia: 2021 der heißeste Podcast ‚Bailingguo News‘ – hast du ihn gehört?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Moderatoren-Interview 2021, das den Ursprung der Sendung, internationale Nachrichten­ziele, das Begleitgefühl des Podcasts, Livestreams und physische Veranstaltungen sowie direkte Zitate von Kelly und Ken liefert.
 
-[^6]: [Bailingguo News offizielle Website](https://www.bailingguonews.com/) — Selbstveröffentlichte Positionierung des Schöpfers, zweisprachige Werbung, feste Upload-Zeit und die Methode der internationalen Nachrichtenproduktion, als Quelle für die erste Selbstbeschreibung.
+[^6]: [Offizielle Website von Bailingguo News](https://www.bailingguonews.com/) — Vom Ersteller selbst veröffentlichte Sendungspositionierung, zweisprachiger Slogan, fester Upload-Zeitplan und internationale Nachrichtenproduktionsweise; Quelle zur Überprüfung der ersten Partei Selbstbeschreibung.
 
-[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Detailseite des offiziellen Formats auf Apple Podcasts, die Moderatoren, zweisprachige Dialoge, Formatbeschreibung und Schöpferinformationen als erste Quelle für die Verbreitung bewahrt.
+[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Offizielle Sendungsdetailseite auf Apple Podcasts, die Moderatoren, zweisprachige Dialoge, Sendungsbeschreibung und Erstellerinformationen als Erstvertriebsdaten speichert.
 
-[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Detailseite des offiziellen Formats auf Spotify, die Formatbeschreibung und konkrete Episoden mit eingeladenen Schöpfern auflistet, als Quelle für den Inhalt des Formats.
+[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Offizielle Sendungsdetailseite auf Spotify, die Sendungsbeschreibung und mehrere konkrete Episoden mit interviewten Erstellern auflistet, zur Überprüfung des Sendungsumfangs.
 
-[^9]: [Spotify: The KK Show – 008 Internationale Nachrichten-Boss: Fan Qi-fei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Konkrete Episoden-Seite im Januar 2020, die das Episoden-Datum, die Dauer, den Gast und die frühe Formatbeschreibung bewahrt, um die frühe Form von Bailingguo nachzuvollziehen.
+[^9]: [Spotify: The KK Show — 008 Internationale Nachrichten-Boss: Fan Chifei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Konkrete Episodenseite vom Januar 2020, die Episodendatum, -länge, Interviewpartner und frühe Sendungsbeschreibung beibehält, um die frühe Form von Bailingguo nachzuverfolgen.
 
-[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Detailseite des Formats auf der SoundOn-Plattform, die die zweisprachige Formatbeschreibung und die Positionierung der Moderatoren bewahrt, als Quelle für die Überprüfung der Selbstvorstellung.
+[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Konkrete Sendungsdetailseite auf der Podcast-Plattform, die Bailingguos zweisprachige Sendungsbeschreibung und Moderatorenpositionierung speichert, zur Kreuzüberprüfung der offiziellen Selbstvorstellung.
 
-[^11]: [BIOS Monthly: Die politisch unkorrekteste Interviews (mit) lauten Meinungen – Podcast](https://www.biosmonthly.com/article/10325) — Interview mit Kylie und Ken im Jahr 2020, das die beruflichen Hintergründe der beiden, die Entstehung des Formats und ihre Selbstverständnis der politischen Unkorrektheit dokumentiert.
+[^11]: [BIOS Monthly: Das politisch unkorrekteste Interview aller Zeiten (Schütteln) – Podcast, das Meinungen hervorruft](https://www.biosmonthly.com/article/10325) — Persönlichkeitsinterview 2020 mit Kelly und Ken, das ihren beruflichen Hintergrund, die Entstehung der Sendung und ihr Selbstverständnis politisch unkorrekter Äußerungen dokumentiert.

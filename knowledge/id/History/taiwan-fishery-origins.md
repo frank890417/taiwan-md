@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-11T05:40:13+08:00'
+translatedAt: '2026-11-02T15:53:04.937840+00:00'
 ---
 
 # Pelabuhan Ikan Bukan Hanya Tempat Berlayar: Bagaimana Perikanan Taiwan Dibangun Ulang oleh Kapal Uji Coba, Pasar Ikan, dan Sejumlah Tenaga Teknis
@@ -142,10 +142,10 @@ Sama seperti itu, jalan, pembuatan es, listrik, dan pergudangan yang dibawa mode
 
 ## Bacaan Lanjutan
 
-- [Modernisasi Perikanan Taiwan](/id/history/taiwan-fishery-modernization) — Babak kedua laut yang sama: armada samudra jauh, zona ekonomi eksklusif, dan tanggung jawab negara bendera
-- [Sejarah Persatuan Petani Taiwan](/id/history/taiwan-farmers-association-history) — Organisasi pedesaan, keuangan, dan perubahan institusi jendela pelayanan publik lokal
-- [Sejarah Pos Taiwan](/history/台灣郵政史) — Infrastruktur publik lain yang menghubungkan lokal, logistik, dan administrasi negara
-- [Sejarah Air Minum Taiwan](/history/台灣自來水史) — Teknik, kesehatan, dan kehidupan sehari-hari kota bersama membentuk sistem
+- [Modernisasi Perikanan Taiwan](/id/history/taiwan-fishery-modernization) — Babak kedua di laut yang sama: armada laut dalam, Zona Ekonomi Eksklusif, dan tanggung jawab negara bendera.
+- [Sejarah Asosiasi Pertanian Taiwan](/id/history/taiwan-farmers-association-history) — Organisasi pedesaan, keuangan, dan perubahan institusional pada jendela layanan publik lokal.
+- [Sejarah Pos Taiwan](/id/lifestyle/taiwan-postal-service-history) — Infrastruktur publik lain yang menghubungkan daerah, logistik, dan administrasi negara.
+- [Sejarah Air Bersih Taiwan](/id/geography/taiwan-tap-water) — Bagaimana teknik, sanitasi, dan kehidupan sehari-hari perkotaan bersama-sama membentuk sebuah sistem.
 
 ## Referensi
 

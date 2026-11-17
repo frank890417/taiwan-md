@@ -1,23 +1,22 @@
 ---
-translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:0b51fe43b7a1bf00'
-sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-08-09T12:06:28+08:00'
-title: 'Một trăm năm biến đổi của tranh nước Đài Loan: Từ Ishikawa Kinichiro đến Tiễn Trung Uy'
-description: 'Năm 1907, Ishikawa Kinichiro đến Đài Loan giảng dạy, bắt đầu trăm năm tranh nước Đài Loan. Học sinh Lâm Ấm Đỉnh vào Hội Hoàng gia Tranh nước Anh năm 1929, năm 1934 các họa sĩ bản địa tự thành lập Hiệp hội Mỹ thuật Đài Dương, sau chiến tranh Mã Bạch Thủy kết hợp mực Trung Quốc với tranh nước, Tích Đức Tiến ghi lại các tòa nhà cũ Đài Loan, những năm 1990 ba hiệp hội lớn kết nối với mạng lưới Hội Tranh nước Quốc tế IWS. Hôm nay, Tiễn Trung Uy nổi tiếng quốc tế với tư cách thành viên đôi của AWS và NWS. Con đường trăm năm này từ giáo dục sư phạm thời thực dân đến sân khấu cuộc thi quốc tế, kết nối truyền thống họa sinh, hệ thống sư phạm và cộng đồng tranh nước toàn cầu; sức sống của tranh nước Đài Loan chính là sự tích lũy của căng thẳng giữa chính thức và phi chính thức, bản địa và nước ngoài, truyền thống và cuộc thi.'
+title: "Sự biến đổi trăm năm của tranh màu nước Đài Loan: Từ Ishikawa Kin'ichirō đến Giản Trung Uy"
+description: "Năm 1907, Ishikawa Kin'ichirō đến Đài Loan giảng dạy, đặt nền móng cho sự phát triển của tranh màu nước tại đây suốt một thế kỷ. Học trò của ông là Lam Ấm Đỉnh đã gia nhập Hiệp hội Màu nước Hoàng gia Anh vào năm 1929; đến năm 1934, các họa sĩ bản địa đã tự thành lập Hiệp hội Mỹ thuật Đài Dương. Sau chiến tranh, Mã Bạch Thủy đã kết hợp giữa mực tàu và màu nước, trong khi Tịch Đức Tiến ghi lại những kiến trúc cổ của Đài Loan. Vào thập niên 1990, ba hiệp hội lớn cùng tồn tại và kết nối với mạng lưới màu nước quốc tế IWS. Ngày nay, Giản Trung Uy đã vang danh quốc tế với tư cách là hội viên kép của AWS và NWS. Hành trình trăm năm từ giáo dục sư phạm thời thuộc địa đến đấu trường thi đấu quốc tế này đã kết nối truyền thống ký họa, hệ thống sư phạm và cộng đồng màu nước toàn cầu; sức sống của tranh màu nước Đài Loan chính là sự tích lũy đầy nội lực giữa các yếu tố do nhà nước quản lý và tư nhân, giữa bản địa và quốc tế, giữa truyền thống và thi đấu."
 date: 2026-03-19
 category: 'Art'
-tags: ['Art', 'watercolor', 'painting', 'tranh nước', 'lịch sử mỹ thuật']
+tags:
+  ['Nghệ thuật', 'màu nước', 'hội họa', 'tranh màu nước', 'lịch sử mỹ thuật']
 subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-# design_rationale:
-#   why_this_hook: "Ishikawa 1907 → Tiễn Trung Uy AWS đôi thành viên: một cung đường từ lớp học khai sáng đến sân khấu cuộc thi quốc tế trong trăm năm"
-#   whats_excluded: "Chi tiết năm báo hiệp hội; thế hệ mới sau 2024; lịch sử tổ chức chi nhánh Đài Loan IWS; chương trình giáo dục thẩm mỹ lớp 108"
-#   where_it_hedges: "Lâm Ấm Đỉnh năm 1971 mười tranh nước hàng đầu: trích dẫn tên là 'Hiệp hội Đánh giá Nghệ thuật Âu Mỹ', tên tổ chức chính xác có thể tham khảo hồ sơ gốc của Quỹ Hồng Hy"
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Art/台灣水彩畫的百年流變.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:0b51fe43b7a1bf00'
+sourceBodyHash: 'sha256:de90bfe09eb0461c'
+translatedAt: '2026-11-04T17:23:40.130265+00:00'
 ---
 
 # Một trăm năm biến đổi của tranh nước Đài Loan

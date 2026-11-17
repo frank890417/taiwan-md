@@ -19,13 +19,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/people/joeman-portrait-desk-2017.webp'
+imageCredit: 'Joeman翁雋明'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '36aaa72e1'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-10-02T07:53:56+08:00'
+translatedAt: '2026-11-05T15:34:11.203622+00:00'
 ---
 
 # जोमैन: ई-स्पोर्ट्स समीक्षक से लाखों सब्सक्राइबर चैनल तक, कैमरे के सामने एक दीर्घकालिक निर्माता

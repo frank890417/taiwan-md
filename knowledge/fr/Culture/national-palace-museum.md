@@ -2,6 +2,7 @@
 title: "Musée national du Palais : la longue marche centenaire, des caisses sous les bombes aux mirages de l'IA"
 description: "C'est le « bagage » le plus lourd de cette île, et aussi le « mirage numérique » le plus léger. Des caisses de bois échappant aux flammes de la guerre aux pixels animés par la puissance de l'IA, le Musée du Palais cherche à définir, entre Waishuangxi à Taipei et Taibao à Chiayi, ce qu'est « le Musée du Palais de Taïwan »."
 date: 2026-04-19
+category: 'Culture'
 tags:
   [
     'Musée',
@@ -15,16 +16,18 @@ tags:
   ]
 subcategory: '藝術園區'
 author: 'Taiwan.md'
-category: 'Culture'
-readingTime: 10
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-05-02T08:50:00+08:00'
-featured: false
+translatedAt: '2026-11-05T09:55:59.283792+00:00'
 ---
 
 # Musée national du Palais : la longue marche centenaire, des caisses sous les bombes aux mirages de l'IA

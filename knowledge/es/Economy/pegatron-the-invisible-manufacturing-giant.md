@@ -1,27 +1,31 @@
 ---
-title: 'Pegatron Corporation (Pegatron) - el campeón oculto de la fabricación electrónica por contrato'
-description: 'Nacido como una escisión de ASUS, este gigante de la manufactura por contrato es el fabricante invisible detrás del iPhone, las consolas de videojuegos y las laptops, y uno de los “cinco grandes de la electrónica”'
+title: 'Pegatron: fábrica por contrato que ensambla iPhone para Apple y Switch para Nintendo'
+description: 'Pegatron es una fábrica por contrato electrónica de Taiwán que no produce su propia marca, sino que se especializa en ensamblar productos para otras empresas: iPhone y MacBook de Apple, Switch de Nintendo, PlayStation de Sony, Xbox de Microsoft; todos tienen modelos que salen de sus líneas de producción. En 2008 se separó de ASUS de forma independiente, con T.H. Tung como presidente, y en 2024 sus ingresos alcanzaron aproximadamente NT$1.3 billones. Junto con Quanta, Wistron, Inventec y Compal, se les conoce como los «cinco grandes de la electrónica». Apple representa casi la mitad de sus ingresos, siendo su mayor cliente y también su mayor riesgo.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economía',
-    'Empresas',
-    'Fabricación electrónica por contrato',
-    'Manufactura',
+    'Empresa',
+    'Fabricación por contrato electrónica',
+    'Industria manufacturera',
     'ODM',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-05-15T13:52:06+08:00'
+translatedAt: '2026-11-06T00:09:58.327407+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -228,12 +232,12 @@ La posición de Pegatron como campeón oculto nos dice que, en una era de divisi
 
 ## Referencias
 
-[^1]: [Sitio web oficial de Pegatron Corporation](https://www.pegatroncorp.com/) — Perfil corporativo de Pegatron, ámbitos de negocio y distribución global de manufactura
+[^1]: [Sitio web oficial de Pegatron](https://www.pegatroncorp.com/) — Introducción corporativa de Pegatron, alcance de negocios y distribución global de manufactura
 
-[^2]: [Cnyes — Ranking global de fabricantes EMS de 2025](https://www.cnyes.com/) — Según los datos más recientes de 2025, el ranking global de EMS se ha ajustado, y Wistron ascendió al segundo mayor fabricante EMS del mundo
+[^2]: [Cnyes.com — Ranking global de fabricantes EMS 2025](https://www.cnyes.com/) — Según los datos más recientes de 2025, el ranking global de EMS ha sufrido ajustes; Wistron ha ascendido al segundo mayor fabricante EMS a nivel mundial
 
-[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — El iPhone 5c fue presentado oficialmente el 10 de septiembre de 2013, no en 2012; Pegatron fue su principal fabricante por contrato
+[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — El iPhone 5c se anunció oficialmente el 10 de septiembre de 2013, no en 2012; Pegatron fue el principal fabricante por contrato
 
-[^4]: [Yuan Ejecutivo — Oficina Nacional de Energía y Reducción de Carbono](https://www.ey.gov.tw/) — Tung Tzu-hsien asumió en 2024 como director del Comité de la Oficina Nacional de Energía y Reducción de Carbono del Yuan Ejecutivo, mientras continúa desempeñándose como presidente de Pegatron
+[^4]: [Yuan Ejecutivo — Oficina Nacional de Energía y Reducción de Carbono](https://www.ey.gov.tw/) — Tong Zixian asumió en 2024 como presidente de la Oficina Nacional de Energía y Reducción de Carbono del Yuan Ejecutivo, mientras continúa como presidente de Pegatron
 
-[^5]: [Wikipedia — Pegatron Corporation](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron fue fundada en 2008 tras escindirse de ASUS; historia corporativa y principales clientes
+[^5]: [Wikipedia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron se escindió de Asus en 2008, historia de la empresa y descripción de sus principales clientes

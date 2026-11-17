@@ -2,26 +2,30 @@
 title: 'Barbie Hsu: da "menina excêntrica e bela" à "rainha feroz das ''duas mortes e um ferimento grave''"'
 description: "Em 1994, estreou com S.O.S; em 2001, tornou-se famosa pela Ásia com 'Meteor Garden'; em 2005, estabeleceu sua marca de beleza com 'O Rei da Beleza'; em fevereiro de 2025, faleceu aos 48 anos. Ela usou sua busca extrema pela beleza para combater a perda de controle na vida e, na tempestade do casamento, deixou o corte mais profundo do dilema das mulheres contemporâneas com sua declaração de 'duas mortes e um ferimento grave'."
 date: 2026-04-28
-author: 'idlccp1984'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
-  - 'Barbie Hsu'
-  - 'Da S'
-  - 'Wang Xiaofei'
-  - 'Koo Jun-yup'
-  - 'Meteor Garden'
-  - 'O Rei da Beleza'
-  - '100% Entertainment'
-readingTime: 8
+  [
+    'Barbie Hsu',
+    'Da S',
+    'Wang Xiaofei',
+    'Koo Jun-yup',
+    'Meteor Garden',
+    'O Rei da Beleza',
+    '100% Entertainment',
+  ]
+subcategory: '電影與戲劇'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/徐熙媛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-05T00:42:55.114242+00:00'
 ---
 
 > **Resumo em 30 segundos:** Barbie Hsu (nome artístico Da S), nascida em 1976, atriz, cantora e apresentadora de Taiwan. Em 1994, estreou com a irmã Dee Hsu (徐熙娣) como dupla S.O.S; em 2001, tornou-se famosa pela Ásia com o papel de "Shancai" (杉菜) em _Meteor Garden_; em 2005, _O Rei da Beleza_ ditou tendências de beleza. Após dois casamentos, em 2024 chocou a todos com a declaração "dez anos de casamento, duas mortes e um ferimento grave"; em 2 de fevereiro de 2025, faleceu aos 48 anos devido a pneumonia decorrente de gripe.

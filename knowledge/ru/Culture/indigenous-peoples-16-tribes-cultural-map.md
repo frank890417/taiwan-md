@@ -2,9 +2,7 @@
 title: 'Культурная карта 16 народов коренных жителей Тайваня'
 description: '"16" — это не естественно возникшее число, а результат переговоров. От 210 тысяч ами до 441 представителя канаканабу — культурная глубина коренных народов Тайваня далеко превышает любой официальный реестр.'
 date: 2026-03-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '族群文化'
 tags:
   [
     'коренные народы',
@@ -13,15 +11,19 @@ tags:
     'язык',
     'современное творчество',
   ]
-readingTime: 9
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-05T05:51:15.924003+00:00'
 ---
 
 # Культурная карта 16 народов коренных жителей Тайваня

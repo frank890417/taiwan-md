@@ -17,11 +17,13 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: 'a17bb572e'
-sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:496f4a9f790f5602'
 sourceBodyHash: 'sha256:c70ae774b0edc421'
-translatedAt: '2026-09-20T22:02:52.072142+00:00'
+translatedAt: '2026-11-04T16:37:33.567000+00:00'
 ---
 
 ## Prologue : une décision de vie ou de mort en 8 minutes
@@ -185,21 +187,21 @@ Le système fait néanmoins face à des défis persistants :
 - Les capacités de médecine de catastrophe restent relativement faibles dans les zones rurales
 - La mobilisation des effectifs pourrait être insuffisante face à une catastrophe de grande ampleur
 
-## Conclusion : l'évolution continue de la résilience systémique
+## Conclusion : l'évolution continue de la résilience institutionnelle
 
-La véritable valeur du système de médecine de catastrophe à Taïwan ne réside pas dans la possession des équipements les plus avancés ou du plus grand nombre de personnel, mais dans le mécanisme institutionnel capable d'**établir rapidement un ordre au milieu du chaos**.
+La véritable valeur du système médical de catastrophe de Taïwan ne réside pas dans la possession des équipements les plus avancés ou du plus grand nombre de personnel, mais dans l'établissement d'un mécanisme institutionnel capable **d'établir rapidement l'ordre dans le chaos**.
 
-Des enseignements douloureux du tremblement de terre de 921 aux opérations matures lors du séisme de Hualien, Taïwan a prouvé en 25 ans qu'un petit pays pouvait construire un système de médecine de catastrophe de calibre mondial. Le point clé est d'avoir reconnu que le défi fondamental de la médecine de catastrophe n'est pas technique, mais systémique : qui est de garde, qui commande, qui coordonne, qui décide.
+Des leçons douloureuses du séisme du 21 septembre à l'opération mature du séisme de Hualien, Taïwan a prouvé pendant 25 ans qu'un petit pays peut également construire un système médical de catastrophe de classe mondiale. La clé réside dans la reconnaissance que le défi central de la médecine de catastrophe n'est pas un problème technique, mais un problème institutionnel : qui est de garde, qui commande, qui coordonne, qui décide.
 
-Lors de la prochaine catastrophe, ce ne seront pas les équipements les plus coûteux à sauver des vies, mais les médecins urgentistes en service 24 heures sur 24 et le code institutionnel éprouvé par des dizaines d'exercices réels derrière eux.
+Lorsque la prochaine catastrophe surviendra, ce qui sauvera des vies ne sera pas l'équipement le plus coûteux, mais ces médecins urgentistes de garde 24 heures sur 24, et derrière eux ce code institutionnel éprouvé par des dizaines de tests en situation réelle.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Loi sur la médecine](/fr/society/medical-care-act) — La source légale de la médecine de catastrophe est ancrée dans l'article 1 de la Loi sur la médecine, concernant la « distribution rationnelle des ressources médicales » et les normes de classification institutionnelle ; le scénario de catastrophe abordé ici représente le fonctionnement réel de cette loi dans des conditions extrêmes.
-- [Controverse sur les médicaments pour animaux à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Les humains ont un système de soins d'urgence, le 119, la sécurité sociale et les DMAT ; les urgences animales nécessitent un enregistrement détaillé pour chaque besoin d'oxygène. L'écart des ressources entre ces deux systèmes est un miroir de la hiérarchisation des valeurs sur cette île.
-- [COVID à Taïwan et vaccins](/fr/society/taiwan-covid-pandemic-and-vaccines) — La saturation des chambres dédiées et des urgences en mai 2021 fut l'une des périodes où ce système de médecine de catastrophe a été le plus testé de manière continue.
+- [Loi médicale](/fr/society/medical-care-act) — La base légale de la médecine de catastrophe est ancrée dans l'article 1 de la Loi médicale « répartition raisonnable des ressources médicales » et les normes de classification des institutions ; le scénario de catastrophe du présent article est l'opération concrète de la Loi médicale dans des conditions extrêmes
+- [Controverse sur les médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Les humains disposent d'un système médical d'urgence, du 119, de l'assurance maladie, des DMAT ; les urgences vétérinaires nécessitent un enregistrement détaillé même pour l'oxygène. Le fossé de ressources entre les deux systèmes est un miroir de la hiérarchie des valeurs de cette île
+- [Pandémie de COVID-19 et vaccins à Taïwan](/fr/society/taiwan-covid-pandemic-and-vaccines) — En mai 2021, les services dédiés et l'engorgement des urgences ont constitué le test continu le plus long pour ce système médical de catastrophe
 
 ## Références
 

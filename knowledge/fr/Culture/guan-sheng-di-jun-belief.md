@@ -2,26 +2,28 @@
 title: 'Guan Yu : comment un général vaincu est devenu le dieu universel de Taïwan'
 description: 'Guan Yu, général des Trois Royaumes mort décapité après une défaite militaire, a engendré à Taïwan un système de croyance unique au monde autour du "Seigneur Bienfaiteur" — et le temple dédié à son culte le plus fréquenté de l''île interdit depuis 2014 jusqu''au moindre bâton d''encens.'
 date: 2026-03-26
+category: 'Culture'
 tags:
   [
-    Guan Sheng Dijun,
-    Seigneur Bienfaiteur,
-    Xingtian Temple,
-    croyances populaires,
-    culture des temples,
+    'Guan Sheng Dijun',
+    'Seigneur Bienfaiteur',
+    'Xingtian Temple',
+    'croyances populaires',
+    'culture des temples',
   ]
 subcategory: '宗教與民俗'
-category: 'Culture'
 author: 'Taiwan.md Contributors'
-readingTime: 10
 featured: false
-translatedFrom: 'Culture/關聖帝君信仰.md'
 lastVerified: 2026-03-26
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/關聖帝君信仰.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-04-14T19:13:14+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-05T08:55:01.442807+00:00'
 ---
 
 # Guan Yu : comment un général vaincu est devenu le dieu universel de Taïwan

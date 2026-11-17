@@ -17,20 +17,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-11T07:19:37+08:00'
+translatedAt: '2026-11-05T23:56:45.596389+00:00'
 ---
 
-> **30-Second Overview:** The Bunun millet rituals are not festivals staged only after harvest; they are arranged along the millet’s growth cycle, encompassing sowing, weeding, harvesting, storage, and singing. Millet cultivation was once interrupted by land management policies, crop shifts, and religious changes. Today’s revitalization reconnects crops, families, and memory by starting from seeds, schools, and village fields.
+> **30-Second Overview:** The Bunun millet rituals are not festivals that appear only after harvest; they are arranged along the millet growth cycle — sowing, weeding, harvesting, storage, and singing. Millet cultivation was once interrupted by land governance, crop conversion, and religious change. Today's revival reconnects the crop, families, and memory starting from seeds, campuses, and tribal fields.
 
-In the experimental forests of Xinyi Township, Nantou, there once was a small millet field covered with bird netting. In 2022, 28 local Nantou varieties were planted there, brought back to Taiwan from the US National Plant Germplasm System. This was not merely an agricultural experiment, but an entry point for Bunun youth and elders to reconnect with millet. [^1]
+In the experimental forest of Xinyi Township, Nantou, there was once a small millet field covered with bird netting. In 2022, 28 Nantou local varieties brought back from the U.S. germplasm center were planted here. This was not merely an agricultural trial, but the entry point for Bunun youth and elders to speak of millet again.[^1]
 
-The same crop has more than nine corresponding names in Bunun life, each marking a different stage of growth. It serves as food, family wealth, a coordinate for social relations, and a marker of ritual order. [^2] Paradoxically, the interruption of millet culture meant not just the loss of a grain, but the loss of a way of life that used crops to mark time.
+The same crop has nine or more names in Bunun life corresponding to different growth stages. It is both food and the coordinate of family wealth, social relations, and ritual order.[^2] The counterintuitive part: the interruption of millet culture meant not just the loss of a grain, but the loss of the foothold for a way of life that used crops to mark time.
 
-Today, those who replant millet are not just recovering an ancient crop. They are asking: If rituals originally followed the growth of millet, when millet is no longer grown, can the people still sing that time back into existence using only songs on stage?
+Today, those reviving millet cultivation are not just seeking to recover an ancient crop. They are asking: if rituals originally followed the millet's growth, when millet is no longer planted, can the people still sing that time back relying only on songs on stage?
 
 ## The Year Does Not Begin with a Calendar
 
@@ -152,20 +154,20 @@ Therefore, understanding this ritual cannot only ask "how much is left now." The
 
 ## References
 
-[^1]: [National Taiwan University: NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — NTU English school news records the context of local millet germplasm in 1977, reintroduction to Taiwan in 2011, and collaboration with Xinyi village for restoration in 2022.
+[^1]: [National Taiwan University: NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — The NTU English newsletter documents the 1977 local millet germplasm, its 2011 reintroduction to Taiwan, and the 2022 collaboration with the Xinyi Tribe for restoration.
 
-[^2]: [Hsu Ya-hui: Research on the Cultural Ecology of Bunun Millet Culture—Taking Wangxiang Village, Nantou County as an Example](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Thesis abstract analyzes Bunun millet names, planting methods, and their social and spiritual significance using cultural ecology and fieldwork.
+[^2]: [Hsu Ya-hui: Cultural Ecological Study of Bunun Millet Culture—A Case Study of Wangxiang Tribe, Nantou County](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — The thesis abstract uses cultural ecology and fieldwork to analyze Bunun millet names, cultivation methods, and their social and spiritual significance.
 
-[^3]: [National Palace Museum Online: Haiduan Hall - 2021 Festival Food X Seasonal - Haiduan Township Bunun Cultural Industry Special Exhibition Curatorial Copy - Sowing Ritual](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Haiduan Township Bunun sowing ritual curatorial copy, itemizing prayer, trial sowing, exorcism, tool blessing, ritual songs, and sowing process.
+[^3]: [National Cultural Memory Bank: Haiduan Hall—2021 Food Offering X Season—Haiduan Township Bunun Cultural Industry Special Exhibition Curatorial Text—Sowing Festival](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — The curatorial text for the Haiduan Township Bunun Sowing Festival records step-by-step the blessings, trial sowing, exorcism, farm tool blessings, ritual songs, and sowing procedures.
 
-[^4]: [Yenping Township Bunun Cultural Knowledge Preservation Database: Hu Chin-fu—My Understanding of Millet Culture](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — First-person data from a Bunun cultural inheritor, explaining ritual timing, dream taboos, family division of labor, labor exchange, and millet varieties.
+[^4]: [Yanping Township Bunun Cultural Knowledge Repository: Hu Chin-fu—My Understanding of Millet Culture](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — First-person account from a Bunun cultural bearer, explaining ritual sequence, dream taboos, family division of labor, labor exchange, and millet varieties.
 
-[^5]: [National Cultural Heritage Network: Bunun _pasibutbut_ Prayer Song for Millet Harvest](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Cultural asset registration page data on the traditional Bunun polyphonic song, providing song name, transmitting communities, and historical preservation context.
+[^5]: [National Cultural Heritage Website: Bunun Pasibutbut—Prayer for Millet Harvest Song](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — The cultural asset registration page provides data on the Bunun traditional polyphonic song, including song name, transmission community, and historical preservation context.
 
-[^6]: [Hualien County Culture Bureau: Bunun Music _pasibutbut_ (Millet Harvest Song)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Hualien County cultural asset data explaining Gufeng Village’s lead singing and harmony methods, transmitting communities, and revitalization work since the 1980s.
+[^6]: [Hualien County Cultural Affairs Bureau: Bunun Music Pasibutbut (Millet Harvest Song)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Hualien County cultural asset data explains the lead singing and harmony methods of the Gufeng Tribe, transmission community, and revitalization efforts since the 1980s.
 
-[^7]: [Ministry of Culture: Taiwan’s Bunun people invited to perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Ministry of Culture English article recording the 2022 Paris performance, the ritual significance of _pasibutbut_, six to twelve-person choir, and Takachika Kurosawa’s recording records.
+[^7]: [Ministry of Culture: Taiwan’s Bunun people invited to perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — The Ministry of Culture English article records the 2022 Paris performance, the ritual significance of pasibutbut, the six-to-twelve-person chorus, and the recording records of Kurosawa Takashi.
 
-[^8]: [Taiwan Panorama: Renaissance of Bunun Millet Culture—Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — 2023 English in-depth report tracking Xinyi Township millet revitalization, Jiumei Elementary School curriculum, ritual restoration, and Garden Program returning youth participation.
+[^8]: [Taiwan Panorama: Renaissance of Bunun Millet Culture—Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — 2023 English in-depth report tracking Xinyi Township millet revitalization, Jiumei Elementary School curriculum, ritual restoration, and Garden Program returnee participants.
 
-[^9]: [National Taitung University: Zhuoxi Bunun’s Original Sound Reappears and Contemporary Imagination](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — University activity data explaining the ethnic identity significance of _pasibutbut_, and the reinterpretation of Zhuoxi Bunun traditional music in contemporary performances.
+[^9]: [National Taitung University: Reproduction of Original Sounds and Contemporary Imagination of the Zhuoxi Bunun](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — University event materials explain the ethnic identity significance of pasibutbut, and the reinterpretation of Zhuoxi Bunun traditional music in contemporary performances.

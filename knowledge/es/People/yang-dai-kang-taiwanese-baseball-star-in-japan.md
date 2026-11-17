@@ -2,9 +2,7 @@
 title: 'Yang Dai-kang: Taitung 1987, el jardinero amiguero de diez años con guante de oro en Fighters hasta su traspaso a Giants vía FA'
 description: 'Nacido el 17/1/1987 en la ciudad de Taitung, de etnia amiguera, antiguo nombre Yang Zhongshu. Graduado en la escuela secundaria adjunta a la Universidad Nacional de Taitung, viajó a Japón para estudiar en la Fukuoka Daiichi High School. En el draft de la NPB de 2005 fue seleccionado como primera elección tanto por los Fighters como por los Hawks, y los Fighters obtuvieron los derechos. En 2012 ganó el Guante de Oro como jardinero en la Pacific League (primer jugador de campo de nacionalidad taiwanesa en lograrlo). En 2016 ejerció su agencia libre para unirse a los Yomiuri Giants. En su carrera en la NPB: 1322 partidos, 105 jonrones, 482 carreras impulsadas, promedio de bateo .270. A finales de 2021 dejó a los Giants y pasó a ligas independientes.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Deportes',
@@ -14,15 +12,19 @@ tags:
     'Pueblos indígenas',
     'Jardinero',
   ]
-readingTime: 7
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-05T00:25:08.374467+00:00'
 ---
 
 # Yang Dai-kang: Taitung 1987, el jardinero amiguero de diez años con guante de oro en Fighters hasta su traspaso a Giants vía FA

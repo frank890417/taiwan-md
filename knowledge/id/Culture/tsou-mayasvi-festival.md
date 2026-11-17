@@ -1,28 +1,30 @@
 ---
 title: 'Mayasvi Suku Tsou: Api Kuba, Bukan Rekonstruksi Perang di Kuba'
 description: 'Setiap tahun antara Dapong dan Tufino di Gunung Alishan, suku Tsou menyelenggarakan Mayasvi dengan menyambut dewa, bernyanyi, dan mengelilingi rumah ritual (kuba), mengubah memori perang menjadi tatanan kehidupan komunal. Ritual ini bukan pertunjukan wisata pegunungan: inti sebenarnya terletak pada kuba, sebuah pertemuan yang masih dipelihara, digunakan, dan diatur aksesnya oleh anggota suku.'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['suku Tsou', 'masyarakat adat', 'Mayasvi', 'kuba', 'ritual']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['suku Tsou', 'masyarakat adat', 'Mayasvi', 'kuba', 'ritual']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-15T06:51:29+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-06T14:36:46.952896+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Mayasvi sering diterjemahkan sebagai "ritual perang," tetapi ritual hari ini bukanlah pementasan ulang pemenggalan kepala atau peperangan. Ritual ini berpusat pada _kuba_—pertemuan laki-laki suku Tsou—di mana setiap klan menegaskan kembali tanggung jawab mereka dalam menyambut dewa, menari, di rumah ritual, dan mengantar dewa. Kontras yang paling patut diingat adalah: Mayasvi melestarikan bukan kekerasan, melainkan bagaimana suku Tsou terus mengorganisasi komunitas setelah kekerasan meninggalkan kehidupan sehari-hari.
+**Ringkasan 30 Detik:** Mayasvi biasanya diterjemahkan sebagai "Ritual Perang", tetapi upacara hari ini bukanlah penayangan ulang pemburuan kepala atau perang. Ia berpusat pada _kuba_——balai pertemuan pria Suku Tsou——memungkinkan setiap klan saling mengonfirmasi tanggung jawab di antara menyambut dewa, tarian dan nyanyian, upacara rumah, dan mengantarkan dewa pulang. Kontras paling patut diingat adalah: Ritual Perang yang diwariskan bukanlah kekerasan, melainkan bagaimana Suku Tsou terus mengorganisasikan komunitas mereka setelah kekerasan sudah meninggalkan kehidupan sehari-hari.
 
-![Pertunjukan Tari Tradisional Suku Tsou, 2 April 2008. Foto oleh Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![Pertunjukan tari tradisional Suku Tsou, 2 April 2008. Foto: Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_Sumber Gambar: Halaman File Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), Foto oleh Xiao Ka, Lisensi: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Gambar ini menampilkan tarian tradisional suku Tsou, dan tidak diklaim sebagai acara spesifik Mayasvi atau ritual internal kuba.[^9]_
+_Sumber gambar: [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), foto: Xiao Ka, lisensi: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Gambar menampilkan tari tradisional Suku Tsou, tidak diklaim sebagai sesi Mayasvi tertentu atau ritual internal *kuba*.[^9]_
 
 ## Api Dapong, Bukan untuk Turis
 
@@ -121,20 +123,20 @@ Mereka membuat api Mayasvi tidak hanya menerangi satu malam, tetapi juga bagaima
 
 ## Referensi
 
-[^1]: [Komisi Masyarakat Adat: Pengenalan Etnis Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Data etnis resmi menjelaskan distribusi suku Tsou, ritual tahunan, arsitektur _kuba_, organisasi kekerabatan, dan fungsi publik klan.
+[^1]: [Komite Masyarakat Adat: Pengenalan Etnis Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Data etnis resmi menjelaskan sebaran Tsou, upacara musiman, arsitektur kuba, organisasi kekerabatan, dan fungsi publik desa.
 
-[^2]: [Sistem Perlindungan Kreasi Pengetahuan Tradisional: Pertemuan Laki-laki Dapong Suku Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Kasus kreasi pengetahuan tradisional yang diajukan oleh komunitas Dapong, mencatat metode konstruksi _kuba_, dimensi, objek simbolis, pohon suci dan bunga dewa, serta makna sosial budaya.
+[^2]: [Jaringan Informasi Perlindungan Cipta Tradisional Masyarakat Adat: Balai Laki-laki Masyarakat Dabang Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Kasus cipta tradisional yang diajukan Masyarakat Dabang, mencatat teknik bangunan, ukuran, benda simbolis, pohon dan bunga suci, serta makna sosial budaya.
 
-[^3]: [Peta Budaya Agama Taiwan: Festival Mayasvi Suku Tsou, Gunung Alishan](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Peta budaya bahasa Inggris Kementerian Dalam Negeri memperkenalkan penyesuaian tanggal festival, menyambut dewa, tarian dan nyanyian, ritual penutup, _kuba_, dan larangan pengunjung.
+[^3]: [Peta Budaya Agama Taiwan: Festival Mayasvi Suku Tsou, Gunung Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Peta budaya bahasa Inggris Kementerian Dalam Negeri memperkenalkan penyesuaian tanggal festival, sambut dewa, nyanyian dan tarian, upacara penutup, kuba, serta larangan pengunjung secara rinci.
 
-[^4]: [Dokumen Etnografi: Ritual Perang Suku Tsou Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhong-yong mengorganisir konteks sejarah ritual perang, sifat kolektif, karakteristik lagu ritual, tatapan pariwisata, dan masalah percampuran budaya kontemporer.
+[^4]: [Pustaka Masyarakat Adat: Perang Upacara Mayasvi Suku Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhongyong menyusun konteks historis, sifat kolektif, ciri lagu upacara, tatapan pariwisata, dan masalah percampuran budaya kontemporer perang upacara.
 
-[^5]: [Airiti: Makna Ritual Perang Tsou Kontemporer—Sebuah Interpretasi Pascakolonial](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Tesis akademis menganalisis bagaimana ritual perang terus disusun ulang antara nostalgia, dekolonisasi, kehidupan modern, dan subjek etnis melalui teori pascakolonial.
+[^5]: [Airiti: Makna Perang Upacara Tsou Kontemporer — Sebuah Tafsir Pascakolonial](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Makalah akademis dengan teori pascakolonial menganalisis bagaimana perang upacara terus mereorganisasi diri di antara nostalgia, dekolonisasi, kehidupan modern, dan subjektivitas etnis.
 
-[^6]: [Ritual Tahunan Masyarakat Adat: Ritual Perang Suku Tsou Mayasvi (halaman 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Publikasi budaya masyarakat adat menyusun ritual perang dalam kalender tahunan, mencakup pembangunan _kuba_, penyambutan dewa, tarian dan nyanyian, dan batasan pengunjung.
+[^6]: [Upacara Musiman Masyarakat Adat: Perang Upacara Mayasvi Suku Tsou (Halaman 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Publikasi budaya masyarakat adat mengatur ritual multi-tahap, pembangunan balai, sambut dewa, nyanyian tarian, dan batasan wisatawan perang upacara berdasarkan kalender musiman.
 
-[^7]: [Taiwan News: Ketika Februari Membawa Tahun Baru yang Berbeda: Dunia Adat Taiwan dan Mayasvi Tsou](https://www.tcn.tw/news/6784674) — Laporan bahasa Inggris tahun 2026 menjelaskan komunitas kontemporer, memori leluhur, dan subjek budaya Mayasvi dari lokasi festival dan latar belakang suku Tsou.
+[^7]: [Taiwan News: Ketika Februari Menghadirkan Tahun Baru Berbeda: Di Dunia Masyarakat Adat Taiwan dan Mayasvi Tsou](https://www.tcn.tw/news/6784674) — Laporan bahasa Inggris 2026 dari lokasi festival dan latar belakang Tsou menjelaskan komunitas kontemporer, kenangan leluhur, dan subjektivitas budaya Mayasvi.
 
-[^8]: [Berita Urusan Diaspora: Sertifikasi Nasional Ritual Perang Suku Tsou](https://ocacnews.net/article/133098) — Berita agensi pusat tahun 2011 mencatat pengakuan ritual perang sebagai warisan budaya nasional, serta deskripsi _kuba_, etika klan, dan transmisi budaya dalam laporan sertifikasi.
+[^8]: [Berita Urusan Orang Tionghoa Luar Negeri: Perang Upacara Tsou Ditetapkan sebagai Warisan Budaya Nasional Penting](https://ocacnews.net/article/133098) — Berita CNA 2011 mencatat perang upacara ditetapkan sebagai warisan budaya nasional penting, serta deskripsi kuba, etika desa, dan pewarisan budaya dalam laporan penetapan.
 
-[^9]: [Wikimedia Commons: Pertunjukan Tari Tradisional Suku Tsou 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Foto tarian tradisional suku Tsou, difoto oleh pengguna Flickr Xiao Ka, berlisensi CC BY 2.0; artikel hanya menyematkan URL asli.
+[^9]: [Wikimedia Commons: Pertunjukan Tarian Tradisional Orang Tsou 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Foto tarian tradisional Tsou, fotografer adalah pengguna Flickr Xiao Ka, lisensi CC BY 2.0, artikel hanya menyematkan URL asli.

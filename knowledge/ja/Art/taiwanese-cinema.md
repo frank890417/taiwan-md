@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T20:44:08.993153+00:00'
+translatedAt: '2026-11-03T18:06:56.730132+00:00'
 ---
 
 # 台湾国産映画：銀幕の傍らで語る人、そして死んでまた生きた映画史
@@ -287,15 +287,16 @@ _『返校』4K予告編。白色テロをゲームにし、さらにヒット�
 - [侯孝賢（こう・こうけん／ホウ・シャオシェン） 1989年ヴェネツィア金獅賞授賞式現場](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Photo: Gorup de Besanez、CC BY-SA 4.0
 - [李安（り・あん／アン・リー） 2009年ヴェネツィア映画祭](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Photo: nicolas genin、CC BY-SA 2.0
 
-## 参考文献
+## 関連記事
 
-- [侯孝賢（こう・こうけん／ホウ・シャオシェン）](/ja/people/hou-hsiao-hsien)：ヴェネツィア金獅賞を獲得、『悲情城市』で二二八事件を銀幕に描いた長回しの巨匠
-- [楊徳昌（よう・とくしょう／ヤン・デチャン）](/ja/people/yang-dechang)：『Sight & Sound』誌「映画史上ベスト100」に2作品が選出された都市の観察者
-- [蔡明亮（さい・めいりょう／ツァイ・ミンリャン）](/ja/people/tsai-ming-liang)：ヴェネツィア金獅賞受賞者、スロー・シネマをルーヴル美術館へ持ち込んだ監督
-- [李安（り・あん／アン・リー）](/ja/people/ang-lee)：台湾からハリウッドへ、アカデミー賞最優秀監督賞を2度受賞
-- [魏徳聖（ぎ・とくせい／ウェイ・ダーシェン）](/ja/people/wei-te-sheng-taiwanese-epic-filmmaker)：5つの言語で『海角七号／ケープ・ノー・セブン』を撮り、台湾映画を蘇らせた人物
-- [『見えない国』（原題：看不見的國家）](/ja/art/invisible-nation)：葛静文（かつ・せいぶん／コー・チンウェン）のドキュメンタリーに映る、台湾のもう一つの姿
-- [台湾の感性：わたしたちは韓国人が先に「いいね」を押してからでないと、自分たちの古民家が美しいと言えないのか？](/ja/culture/taiwanese-sensibility)：『悲情城市』が1989年に金獅賞と台北興行収入を同年に獲得した事実——国際的評価とローカルな共鳴は必ずしも二者択一ではない
+- [侯孝賢（こう・こうけん／ホウ・シャオシェン）](/ja/people/hou-hsiao-hsien)：ヴェネツィア国際映画祭金獅子賞を受賞し、「二・二八事件」を銀幕に描き出した長回しの巨匠
+- [楊徳昌（よう・とくしょう／ヤン・デチャン）](/ja/people/yang-dechang)：2つの作品が『Sight & Sound』誌の映画史上ベスト100入りを果たした、都市の観察者
+- [蔡明亮（さい・めいりょう／ツァイ・ミンリャン）](/ja/people/tsai-ming-liang)：ヴェネツィア金獅子賞受賞者であり、「スロー・シネマ」をルーヴル美術館へと押し上げた人物
+- [李安（り・あん／アン・リー）](/ja/people/ang-lee)：台湾からハリウッドへ渡り、2度のアカデミー監督賞を受賞
+- [魏德聖（ぎ・とくせい／ウェイ・ダーシェン）](/ja/people/wei-te-sheng-taiwanese-epic-filmmaker)：5つの言語を用いて『海角七号』を撮影し、台湾映画の復活をもたらした人物
+- [金馬獎（きんましょう）](/ja/art/golden-horse-awards)：国語映画のみを対象とする賞から、国籍を問わない華語映画の祭典へ。その結果、台湾映画が自国の賞で敗れることも珍しくなくなったが、門戸が閉ざされることはなかった
+- [看不見的國家（見えない国家）](/ja/art/invisible-nation)：葛静文（カツ・セイブン／コー・チンウェン）のドキュメンタリーに映し出された、台湾のもう一つの姿
+- [台湾感性：韓国人に先に「いいね」を押してもらわないと、自分の古い家が美しいと言えないのか？](/ja/culture/taiwanese-sensibility)：『悲情城市』が1989年に金獅子賞を受賞した年は、台北での興行成績が上がった年と同じであった。国際的な評価と本土での共鳴は、必ずしも二者択一ではない
 
 [^1]: [映画弁士 - ウィキペディア](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — 1930年に台湾には日本人弁士41名、台湾人弁士19名の計約60名がおり、開業には州警察課の試験に合格して免許を取得する必要があった。
 

@@ -1,6 +1,6 @@
 ---
-title: 'The Formosa Incident'
-description: "A military trial that was supposed to completely collapse the opposition movement unexpectedly became the most powerful propaganda film for Taiwan's democracy due to its broadcast."
+title: 'The Kaohsiung Incident (Formosa Incident), 1979: The Military Trial That Backfired'
+description: "On December 10, 1979, a Human Rights Day rally in Kaohsiung organized by Formosa Magazine ended in clashes and more than 150 arrests. The 1980 military trial was meant to crush the opposition, but press coverage carried the defendants' words across Taiwan. Seven of the eight defendants later led the DPP, and their lawyers went on to become a president and premiers."
 date: 2026-03-31
 tags:
   [
@@ -22,6 +22,10 @@ sourceContentHash: 'sha256:b6388def07095d7a'
 sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: '2026-06-12T16:39:07Z'
 featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 8,270 曝光 1 點擊；查詢「kaohsiung incident」8,113 曝光排 4.5、0 點擊，title 只寫 The Formosa Incident，沒有英文世界最常用的 Kaohsiung Incident。title 改成兩個名字並列加 1979，description 首句給日期、地點與逮捕人數。另：正文 9 個 wikilink 指向不存在的英文名（wikilink-target hard），改指 zh slug、顯示文字不變'
 ---
 
 On February 28, 1980, Lin Yi-hsiung waited for his trial at the Taipei Chingmei Military Detention Center. That day, Taipei police and intelligence personnel guarded the front door of his home on Xinyi Road all day, but no one entered. It was not until dusk that someone discovered: his 60-year-old mother, Lin You-a-mei, had been stabbed 13 times and lay dead in the basement. His 7-year-old twin daughters, Lin Liang-chun and Lin Ting-chun, each suffered a gunshot wound through the chest and back, dying on the spot. His 9-year-old eldest daughter, Lin Huan-chun, was shot six times; she miraculously survived with a backpack on her back. [^12]
@@ -98,10 +102,10 @@ The house located on Xinyi Road in Taipei was under surveillance by intelligence
 
 This detail gives the words "unsolved to this day" an unspeakable weight.
 
-Lin Yi-hsiung did not know his family was dead while in prison; he was only informed two days later. He could not go back to mourn at that time. His eldest daughter, Lin Huan-chun, later lived with her mother, Fang Su-min, in the US. The Lin Family Mansion Massacre became the deepest imprint on [[Lin Yi-hsiung]]'s political life and remains one of the heaviest unresolved cases in Taiwan's [[Taiwan Transitional Justice|Transitional Justice]] process. [^12]
+Lin Yi-hsiung did not know his family was dead while in prison; he was only informed two days later. He could not go back to mourn at that time. His eldest daughter, Lin Huan-chun, later lived with her mother, Fang Su-min, in the US. The Lin Family Mansion Massacre became the deepest imprint on [[林義雄|Lin Yi-hsiung]]'s political life and remains one of the heaviest unresolved cases in Taiwan's [[台灣轉型正義|Transitional Justice]] process. [^12]
 
 > **📝 Curator's Note**
-> Why the Lin Family Mansion Massacre occurred on February 28 remains a mystery. Some believe it was a deliberate choice of date, others think it was a coincidence. During Taiwan's [[Taiwan White Terror|White Terror]] period, how many things happened "coincidentally"? The answer has never been found in court verdicts.
+> Why the Lin Family Mansion Massacre occurred on February 28 remains a mystery. Some believe it was a deliberate choice of date, others think it was a coincidence. During Taiwan's [[台灣白色恐怖|White Terror]] period, how many things happened "coincidentally"? The answer has never been found in court verdicts.
 
 ## A Defense Bench That Produced a President and Three Premiers
 
@@ -115,16 +119,16 @@ These people later:
 2. **1990/5/20** — Lee Teng-hui granted amnesty to Formosa political prisoners.
 3. **2000/3/18** — Chen Shui-bian was elected President of the Republic of China, the first non-KMT president.
 4. **2000–2008** — Chang Chun-hsiung, Hsieh Chang-ting, and Su Tseng-chang served as Premier in succession.
-5. **2019–2023** — Su Tseng-chang served as Premier again during President [[Tsai Ing-wen]]'s term.
+5. **2019–2023** — Su Tseng-chang served as Premier again during President [[蔡英文|Tsai Ing-wen]]'s term.
 
 Chen Shui-bian took on the defense of Huang Hsin-chieh. The person he defended later became the third chairman of the DPP.
 
-At the same time, of the eight defendants, all seven except Lin Hung-hsuan served as Chairman or Acting Chairman of the DPP after their release. Lu Hsiu-lien later served two terms as Vice President, [[Chen Chu]] served as Mayor of Kaohsiung for 12 years before becoming President of the Control Yuan, and Yao Chia-wen served as President of the Examination Yuan. [^3]
+At the same time, of the eight defendants, all seven except Lin Hung-hsuan served as Chairman or Acting Chairman of the DPP after their release. Lu Hsiu-lien later served two terms as Vice President, [[陳菊|Chen Chu]] served as Mayor of Kaohsiung for 12 years before becoming President of the Control Yuan, and Yao Chia-wen served as President of the Examination Yuan. [^3]
 
 Academician Wu Nai-te of the Academia Sinica analyzed: "In the years following the 'Formosa Incident,' the KMT's authoritarian regime was at its most fragile. Leaving the UN and establishing diplomatic relations with the US deprived the KMT's authoritarian system of legitimacy; since recovering the mainland was impossible, according to the Constitution and its Three Principles of the People, the parliament must be fully re-elected, and martial law must be lifted." (Quote from BBC Chinese, 2019) [^3]
 
 > **📝 Curator's Note**
-> Taiwan's [[Taiwan Democratic Transition|Democratic Transition]] has a peculiar path: the one who finally pushed for the lifting of martial law was Chiang Ching-kuo himself, rather than street pressure forcing him to fall. The Formosa Incident initiated a contradictory process—it imprisoned almost all non-KMT elites, yet simultaneously brought Taiwanese people into public discussion for the first time about "I want to vote, I want to publish newspapers freely, I want real elections."
+> Taiwan's [[台灣民主轉型|Democratic Transition]] has a peculiar path: the one who finally pushed for the lifting of martial law was Chiang Ching-kuo himself, rather than street pressure forcing him to fall. The Formosa Incident initiated a contradictory process—it imprisoned almost all non-KMT elites, yet simultaneously brought Taiwanese people into public discussion for the first time about "I want to vote, I want to publish newspapers freely, I want real elections."
 
 ## Ripples of Democratization: Echoes of the 1980s
 
@@ -133,8 +137,8 @@ After the Formosa Incident, the families of the convicts and defense lawyers fil
 This path ultimately led to:
 
 - September 28, 1986: The Democratic Progressive Party announced its establishment at the Taipei Grand Hotel in Taipei while martial law was still in effect.
-- July 1987: [[Taiwan under Martial Law|Taiwan lifted martial law]] that had lasted for 38 years.
-- 1988: The press ban was lifted; [[Lee Teng-hui]] succeeded as President.
+- July 1987: [[戒嚴時期|Taiwan lifted martial law]] that had lasted for 38 years.
+- 1988: The press ban was lifted; [[李登輝|Lee Teng-hui]] succeeded as President.
 - 1990: Formosa political prisoners were granted amnesty.
 - 1996: The first direct presidential election.
 
@@ -159,7 +163,7 @@ The Kaohsiung MRT Orange Line intersection station, built on the site of the for
 
 About 18,000 passengers walk under that dome every day, most just transferring lines. [^11]
 
-Students in the [[Sunflower Student Movement]] who occupied the Legislative Yuan in 2014 cited "the right of the people to resist injustice." That lineage traces back to the night of December 10, 1979, when a group of people at the large roundabout said "lift martial law, lift the party ban," only to receive tear gas and over ten years of imprisonment.
+Students in the [[太陽花學運|Sunflower Student Movement]] who occupied the Legislative Yuan in 2014 cited "the right of the people to resist injustice." That lineage traces back to the night of December 10, 1979, when a group of people at the large roundabout said "lift martial law, lift the party ban," only to receive tear gas and over ten years of imprisonment.
 
 The killer in the 1980 Lin Family Mansion Massacre was never found.
 

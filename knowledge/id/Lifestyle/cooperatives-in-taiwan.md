@@ -1,16 +1,16 @@
 ---
-title: 'Koperasi: Eksperimen Demokrasi dan Aroma Bakpao yang Hilang di Gerbang Sekolah'
-description: 'Tahun 1989, ketua asosiasi mahasiswa Universitas Nasional Taiwan (國立臺灣大學 / 台大) Lo Wen-chia (羅文嘉) memimpin aksi mengepung toko kesejahteraan, menuntut transformasi menjadi koperasi yang dimiliki bersama guru dan siswa; tahun berikutnya Kementerian Pendidikan menerbitkan kebijakan, dan koperasi konsumsi guru-siswa di seluruh Taiwan mencapai puncaknya lebih dari 5.000 unit. Tiga puluh tahun kemudian, koperasi di sekolah-sekolah unggulan seperti Jianzhong (建國中學) dan Jingmei (景美女子高中) bergantian tutup, tertekan oleh platform pengiriman makanan, larangan makanan, dan lahirnya anak yang menurun. Artikel ini menanyakan: ketika setoran saham keanggotaan 10 dolar hilang, Taiwan tidak hanya kehilangan aroma bakpao, tetapi juga satu pelajaran pendidikan kewarganegaraan dan tenaga kerja yang belum selesai.'
+title: 'Koperasi: Eksperimen Demokrasi dan Aroma Roti Daging yang Hilang di Depan Gerbang Sekolah'
+description: 'Pada tahun 1989, ketua organisasi mahasiswa Universitas Taiwan Luo Wen-jia memulai aksi mengepung koperasi kesejahteraan, menuntut reformasi menjadi koperasi dengan kepemilikan saham bersama guru dan siswa; tahun berikutnya Kementerian Pendidikan mengeluarkan kebijakan, dan koperasi konsumsi karyawan-siswa di seluruh kampus Taiwan mencapai puncaknya dengan lebih dari 5.000 unit. Tiga puluh tahun kemudian, koperasi di sekolah-sekolah unggulan seperti Jianzhong dan Jingmei satu per satu tutup, tertekan oleh platform pengiriman makanan, larangan makanan, dan penurunan lahir. Artikel ini menanyakan: ketika modal saham masuk koperasi NT$10 hilang, Taiwan kehilangan tidak hanya aroma roti daging, tetapi juga sebuah pelajaran pendidikan kewarganegaraan dan ketenagakerjaan yang belum selesai.'
 date: 2026-04-30
 category: 'Lifestyle'
 tags:
   [
-    'Budaya Kampus',
-    'Koperasi',
-    'Sejarah Taiwan',
-    'Pendidikan Tenaga Kerja',
-    'Ekonomi Demokrasi',
-    'Lahirnya Anak yang Menurun',
+    'budaya kampus',
+    'koperasi',
+    'sejarah Taiwan',
+    'pendidikan ketenagakerjaan',
+    'ekonomi demokrasi',
+    'penurunan lahir',
   ]
 subcategory: '教育'
 author: 'Taiwan.md Contributors'
@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-07-26T10:36:35+08:00'
+translatedAt: '2026-11-04T16:38:45.235295+00:00'
 ---
 
 # Koperasi: Eksperimen Demokrasi dan Aroma Bakpao yang Hilang di Gerbang Sekolah

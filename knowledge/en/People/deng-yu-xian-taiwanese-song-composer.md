@@ -1,31 +1,39 @@
 ---
-title: "Deng Yuxian: Hakka 1906, Four Songs of the Four Months — Thirty-Nine Years of the Father of Taiwanese Ballads"
-description: "Born July 21, 1906, into a Hakka family in Longtan, Taoyuan; original name Deng Bingyan. Graduated from normal school and was recruited by Columbia Records in 1933. His four masterworks — 'Four Seasons Red,' 'Moonlit Night Sorrow,' 'Longing for Spring Breeze,' and 'Flowers in the Rainy Night' — are still sung today. In 1939, he took a teaching position at Qionglin Public School in Hsinchu. He died June 11, 1944, at Zhudong Hospital, aged 39."
+title: 'Deng Yuxian: Hakka 1906, April Longing for Rain — 39 Years of the Father of Taiwanese Popular Songs'
+description: 'Born on July 21, 1906, in a Hakka family in Longtan, Taoyuan; his birth name was Deng Bingyan. After graduating from normal school, he was recruited by Columbia Records in 1933. His four major representative works — "April Longing for Rain" (Four Seasons Red / Moonlit Night Sorrow / Longing for Spring Breeze / Rainy Night Flower) — are still sung today. In 1939 he went to teach at Qionglin Public School in Hsinchu; he died on June 11, 1944 at Zhudong Hospital, aged 39.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "音樂"
-tags: ["音樂", "台語歌謠", "作曲家", "日治時期", "桃園", "客家"]
-readingTime: 7
-#   whats_excluded: "各歌曲音樂理論分析；與詞人合作細節的逐條梳理；桃園紀念活動清單"
-#   where_it_hedges: "《雨夜花》原曲名「春之雨」需更多史料佐證（P0⚠️）；已移除「台北病逝」幻覺，以竹東醫院為準"'
+category: 'People'
+tags:
+  [
+    'Music',
+    'Taiwanese Songs',
+    'Composer',
+    'Japanese Colonial Period',
+    'Taoyuan',
+    'Hakka',
+  ]
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: "People/鄧雨賢.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:03f4c1611aa95a6c"
-sourceBodyHash: "sha256:0d86dfd69dceab10"
-translatedAt: "2026-05-20T05:08:27+08:00"
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/鄧雨賢.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:03f4c1611aa95a6c'
+sourceBodyHash: 'sha256:0d86dfd69dceab10'
+translatedAt: '2026-11-04T22:38:19.515951+00:00'
 ---
 
 # Deng Yuxian: Hakka 1906, Four Songs of the Four Months — Thirty-Nine Years of the Father of Taiwanese Ballads
 
-> **30-second overview:** Deng Yuxian was born July 21, 1906, into a Hakka family in Longtan, Taoyuan; original name Deng Bingyan.[^1] After graduating from normal school (predecessor of National Taiwan Normal University), he worked as an elementary school teacher. In 1933, he was recruited by Columbia Records as an exclusive composer.[^2] That same year he composed "Longing for Spring Breeze" (lyrics by Li Linqiu). His four masterworks are collectively known as the "Four Songs of the Four Months": *Four Seasons Red*, *Moonlit Night Sorrow*, *Longing for Spring Breeze*, and *Flowers in the Rainy Night*.[^1] In 1939, he took a teaching position at Qionglin Public School in Hsinchu.[^3] He died June 11, 1944, at Zhudong Hospital, aged 39.[^3]
+> **30-second overview:** Deng Yuxian was born July 21, 1906, into a Hakka family in Longtan, Taoyuan; original name Deng Bingyan.[^1] After graduating from normal school (predecessor of National Taiwan Normal University), he worked as an elementary school teacher. In 1933, he was recruited by Columbia Records as an exclusive composer.[^2] That same year he composed "Longing for Spring Breeze" (lyrics by Li Linqiu). His four masterworks are collectively known as the "Four Songs of the Four Months": _Four Seasons Red_, _Moonlit Night Sorrow_, _Longing for Spring Breeze_, and _Flowers in the Rainy Night_.[^1] In 1939, he took a teaching position at Qionglin Public School in Hsinchu.[^3] He died June 11, 1944, at Zhudong Hospital, aged 39.[^3]
 
 ## 1906, Longtan, Taoyuan — A Hakka Family
 
-Deng Yuxian was born July 21, 1906, in Longtan, Taoyuan, original name Deng Bingyan, into a Hakka scholarly family. His father, Deng Teng, was a *xiucai* (imperial degree holder).[^1] He showed musical talent from an early age and was admitted to the Taiwan Governor-General's Normal School (predecessor of National Taiwan Normal University), where he received formal Western music education in piano and violin.[^1]
+Deng Yuxian was born July 21, 1906, in Longtan, Taoyuan, original name Deng Bingyan, into a Hakka scholarly family. His father, Deng Teng, was a _xiucai_ (imperial degree holder).[^1] He showed musical talent from an early age and was admitted to the Taiwan Governor-General's Normal School (predecessor of National Taiwan Normal University), where he received formal Western music education in piano and violin.[^1]
 
 After graduating from normal school in 1925, he worked briefly as an elementary school teacher before devoting himself to music composition.
 
@@ -41,9 +49,9 @@ The first recording of "Longing for Spring Breeze" was performed by Chun Chun (L
 
 ## Four Songs of the Four Months: The Four Masterworks
 
-Deng Yuxian's four best-known works are collectively called the "Four Songs of the Four Months," taking the first character of each title.[^1] All were composed between 1933 and 1934: *Four Seasons Red* (1933, lyrics by Zhou Tianwang, yearning across the seasons), *Moonlit Night Sorrow* (1933, lyrics by Zhou Tianwang, solitude under moonlight), *Longing for Spring Breeze* (1933, lyrics by Li Linqiu, a young woman's anticipation), and *Flowers in the Rainy Night* (1934, lyrics by Zhou Tianwang, lament for fallen blossoms).
+Deng Yuxian's four best-known works are collectively called the "Four Songs of the Four Months," taking the first character of each title.[^1] All were composed between 1933 and 1934: _Four Seasons Red_ (1933, lyrics by Zhou Tianwang, yearning across the seasons), _Moonlit Night Sorrow_ (1933, lyrics by Zhou Tianwang, solitude under moonlight), _Longing for Spring Breeze_ (1933, lyrics by Li Linqiu, a young woman's anticipation), and _Flowers in the Rainy Night_ (1934, lyrics by Zhou Tianwang, lament for fallen blossoms).
 
-*Flowers in the Rainy Night* is said to have originated from a Japanese-language melody (the original title "Spring Rain" is one theory), later given Taiwanese Hokkien lyrics by Zhou Tianwang (P0⚠️ this claim requires further documentary evidence).[^1]
+_Flowers in the Rainy Night_ is said to have originated from a Japanese-language melody (the original title "Spring Rain" is one theory), later given Taiwanese Hokkien lyrics by Zhou Tianwang (P0⚠️ this claim requires further documentary evidence).[^1]
 
 The four songs share a common trait: simple yet profound emotional structures — longing, solitude, waiting, loss — emotional registers that resonate across any era. Deng Yuxian did not dress them in elaborate musical language; instead, he let the melody follow the meaning of the words closely. This closeness is why the Four Songs can still be reinterpreted by singers of different generations decades later without losing their power.
 
@@ -85,7 +93,7 @@ This fact alone is one of the simplest and most powerful arguments in the histor
 
 ## References
 
-[^1]: [Wikipedia: Deng Yuxian](https://zh.wikipedia.org/zh-tw/鄧雨賢) — Confirms birth July 21, 1906, in Longtan, Taoyuan; original name Deng Bingyan; normal school education; Four Songs of the Four Months (*Four Seasons Red* / *Moonlit Night Sorrow* / *Longing for Spring Breeze* / *Flowers in the Rainy Night*) as four masterworks; "Father of Taiwanese Ballads" title.
+[^1]: [Wikipedia: Deng Yuxian](https://zh.wikipedia.org/zh-tw/鄧雨賢) — Confirms birth July 21, 1906, in Longtan, Taoyuan; original name Deng Bingyan; normal school education; Four Songs of the Four Months (_Four Seasons Red_ / _Moonlit Night Sorrow_ / _Longing for Spring Breeze_ / _Flowers in the Rainy Night_) as four masterworks; "Father of Taiwanese Ballads" title.
 
 [^2]: [Storm.mg: Deng Yuxian and Columbia Records](https://www.storm.mg/lifestyle/237234) — Confirms recruitment by Columbia Records as exclusive composer in 1933.
 

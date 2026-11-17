@@ -2,9 +2,7 @@
 title: 'Mainlanders in Taiwan: From Kidnapped Youths to Taiwanese Identified with the Land Beneath Their Feet'
 description: 'In 1949, more than one million people carrying trauma and homesickness crossed the sea to Taiwan. They were both a high-risk group for being treated as “political prisoners” by an authoritarian government that distrusted them, and “war refugees” who had been forcibly seized and cut off from their homelands. This article reveals how the mainlander community, through four psychological traumas, completed a spiritual migration from “exiles” to “settlers.”'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     'mainlanders in Taiwan',
@@ -16,15 +14,19 @@ tags:
     'military dependents’ village literature',
     'Dachen compatriots',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-05-20T05:08:27+08:00'
+translatedAt: '2026-11-04T19:49:22.365564+00:00'
 ---
 
 > **30-second overview:**

@@ -2,7 +2,7 @@
 title: "L'art des nouveaux médias à Taïwan"
 description: "Des pionniers de la vidéo dans les années 1980 au prix VR de Venise, seize artistes clés et quarante ans de révolution numérique. Comment Taïwan écrit de la poésie avec du code et grave son nom sur la carte mondiale de l'art."
 date: 2026-03-28
-category: Art
+category: 'Art'
 tags:
   [
     'art des nouveaux médias',
@@ -18,15 +18,15 @@ tags:
     'C-LAB',
   ]
 subcategory: '新媒體與數位藝術'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
-featured: true
-translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: 'ef8fab38'
-sourceContentHash: 'sha256:d196b7664449f36f'
-sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: 2026-06-13T00:00:00Z
-author: 'Taiwan.md'
+translatedFrom: 'Art/台灣新媒體藝術.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:322922074ebc6f22'
+sourceBodyHash: 'sha256:532e9b8210a860d0'
+translatedAt: '2026-11-02T14:26:03.948173+00:00'
 ---
 
 # L'art des nouveaux médias à Taïwan
@@ -131,34 +131,34 @@ Taïwan couvre 36 000 km², compte 23 millions d'habitants et n'a pas de siège 
 
 ## Défis
 
-Les réalisations de l'art des nouveaux médias taïwanais ne doivent pas masquer les difficultés structurelles auxquelles il fait face.
+Les réussites de l'art nouveau média à Taïwan ne doivent pas occulter les dilemmes structurels auxquels il est confronté.
 
-Le problème du marché des collections est le plus fondamental : les installations interactives sont difficiles à présenter dans un espace privé, les œuvres VR nécessitent un équipement spécifique pour être expérimentées, et la conservation des œuvres numériques est menacée par l'obsolescence technologique. La plupart des artistes taïwanais des nouveaux médias dépendent encore fortement des subventions publiques et des commandes de musées. Cet écosystème fonctionne lorsque les politiques sont stables, mais reste très vulnérable en cas de changement d'orientation.
+Le problème le plus fondamental réside dans le marché de la collection : les installations interactives sont difficiles à exposer dans des espaces privés, les œuvres de VR nécessitent des équipements spécialisés pour être expérimentées, et la conservation des œuvres numériques fait face au risque d'obsolescence technologique. La plupart des artistes de nouveaux médias taïwanais dépendent encore fortement des subventions du secteur public et des commandes de musées ; cet écosystème fonctionne lorsque les politiques sont stables, mais s'avère très fragile lors des changements d'orientation politique.
 
-En 2023, la controverse sur le droit d'auteur déclenchée par l'utilisation de Midjourney par l'écrivaine Wu Dan-Ru pour générer des images a mis en lumière la floueur de la société taïwanaise quant à la définition de la création par IA. Les directives actuelles de l'Office de la propriété intellectuelle de Taïwan stipulent que « les résultats générés par des machines ne bénéficient en principe pas du droit d'auteur », mais face à la réalité de plus en plus complexe de la collaboration homme-machine, cette frontière s'estompe rapidement. Des artistes comme Jia-Wei Hsu et Kuang-Yi Gu ont tous connu de longs séjours à l'étranger ; maintenir le lien entre les talents en circulation internationale et l'écosystème taïwanais reste une question non résolue.
+En 2023, la controverse sur le droit d'auteur provoquée par l'utilisation de Midjourney pour générer des images par l'écrivaine Wu Tan-ju a révélé le flou de la société taïwanaise concernant la définition de la création par IA. Les principes directeurs actuels du Bureau de la propriété intellectuelle de Taïwan stipulent que « les résultats intellectuels générés par des machines ne bénéficient en principe pas du droit d'auteur », mais face à la réalité de plus en plus complexe de la collaboration homme-machine, cette frontière s'estompe rapidement. Des artistes tels que Hsu Chia-wei et Ku Guang-yi ont tous une expérience de longue durée à l'étranger ; comment permettre aux talents de maintenir un lien avec l'écosystème taïwanais tout en circulant à l'échelle internationale demeure une question sans réponse.
 
-Face à l'industrie de l'art numérique chinoise en expansion rapide portée par le capital et aux infrastructures métavers massivement investies par le gouvernement sud-coréen, la stratégie de Taïwan est claire : pas de compétition sur l'échelle, mais sur la profondeur. La question n'est jamais de savoir si Taïwan en est capable, mais si cet écosystème pourra continuer à soutenir les artistes dans des expérimentations toujours plus exigeantes.
+Face à l'industrie de l'art numérique en expansion rapide sous l'impulsion des capitaux en Chine continentale, et aux infrastructures du métavers massivement investies par le gouvernement sud-coréen, la stratégie de Taïwan est claire : ne pas rivaliser sur l'échelle, mais sur la profondeur. La question n'est jamais de savoir si Taïwan en est capable, mais si cet écosystème peut continuer à soutenir les artistes dans leurs expérimentations les plus ardues.
 
-Lorsque le nom de Yu Shien Yang apparaît sur la liste des lauréats de l'Ars Electronica 2025, personne n'est particulièrement surpris — les artistes taïwanais y sont chaque année. Cette « normalité » est le résultat de quarante ans d'accumulation : de la caméra vidéo empruntée par Kuang-Yu Yuan aux doigts de Hsin-Chien Huang volant dans le vide, en passant par la respiration des 697 pétales mécaniques de LuxuryLogico. Taïwan n'a jamais été le mieux doté en ressources, mais dans le domaine de l'art des nouveaux médias, il a accompli quelque chose de rare : donner une âme aux machines.
+Lorsque le nom de Yang Yu-hsien est apparu sur la liste des jurés du Ars Electronica Festival en 2025, personne n'a été particulièrement surpris ; les artistes taïwanais sont présents chaque année. Cette « évidence » est le résultat de quarante ans d'accumulation : de la caméra vidéo empruntée par Yuan Guang-ming, aux doigts volant dans le vide de Huang Hsin-chien, jusqu'au souffle des 697 pétales mécaniques de la machine de Huang Hsin-chien. Taïwan n'a jamais été le pays doté des ressources les plus abondantes, mais dans le domaine des nouveaux médias, elle a accompli une chose rare : donner une âme aux machines.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Le développement de la littérature contemporaine taïwanaise](/art/台灣當代文學發展) — L'écosystème créatif taïwanais contemporain, émergé en parallèle de l'art des nouveaux médias, pour comprendre le contexte culturel global
-- [Le théâtre et les arts de la scène à Taïwan](/fr/art/taiwanese-theater-and-performing-arts) — Le parcours en arts de la scène d'artistes interdisciplinaires comme Huang Yi, à la croisée du corps et de la technologie
-- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre fil de l'art visuel taïwanais, partageant les mêmes scènes de festivals que l'art des nouveaux médias
-- [La communauté open source et g0v](/fr/technology/open-source-and-g0v) — Une autre facette de la culture technologique taïwanaise, à l'intersection de l'esprit du code ouvert et du monde de l'art
-- [L'histoire de l'industrie télévisuelle taïwanaise](/fr/technology/taiwan-television-industry-history) — L'évolution médiatique de la radio-télévision à l'OTT, le contexte institutionnel de la technologie visuelle
-- [justfont et le développement de la typographie taïwanaise](/fr/technology/justfont-and-taiwan-typography) — Un autre collectif de créateurs à la croisée du design, de la technologie et de l'identité culturelle : ceux qui réapprennent les caractères taïwanais, trait par trait
-- [Tehching Hsieh](/fr/art/tehching-hsieh-performance-artist) — Le médium du corps avant les nouveaux médias, pionnier de l'art de la performance taïwanaise et maître international des cinq œuvres d'un an
-- [Wang Xin-Ren (A-Luan)](/fr/art/wang-hsin-jen-artist) — Premier artiste génératif taïwanais à exposer sur Art Blocks, figure centrale des projets akaSwap FAB DAO et Hundred Peaks
-- [Wang Lian-Cheng (Shiba)](/fr/art/wang-lien-cheng-artist) — Lauréat du premier prix de la catégorie sculpture aux Lumen Awards 2017, membre de l'i/O Lab et directeur du Lacking Sound Festival, figure majeure de l'art sonore d'installation à Taïwan
-- [Wu Zhe-Yu](/fr/people/che-yu-wu) — Artiste des nouveaux médias se décrivant comme un « vieil horloger », présent à la Biennale de Venise Personal Structures × Art Basel Miami × initiateur du projet open source Taiwan.md
-- [Le Reporter : dix ans pour sauver le journalisme d'investigation du registre commercial et en faire un bien public](/fr/society/the-reporter-investigative-journalism) — Un autre cas de Taiwan-DNA porté par une communauté citoyenne et une croissance transdisciplinaire, illustrant une autre voie de construction de biens publics par la société civile après 2015
-- [justfont et le développement de la typographie taïwanaise : vingt-cinq ans chez Dynatype à soixante-sept minutes pour Jin-Xuan](/fr/technology/justfont-and-taiwan-typography) — La typographie comme infrastructure culturelle, une autre dimension de la souveraineté visuelle taïwanaise, au même titre que l'art des nouveaux médias
-- [Les câbles sous-marins : visibles au sommet du Bouclier de silicium, invisibles sous la ligne de vie](/fr/technology/submarine-cables-taiwan-lifeline) — 99 % des collaborations de commissariat et de présentation d'art des nouveaux médias transnationaux transitent par les câbles sous-marins ; cet article révèle cette infrastructure culturelle numérique invisible
-- [Nieh Yung-chen](/fr/people/nieh-yung-jen) — Premier membre taïwanais de l'Alliance graphique internationale (AGI), son studio Forever Studio et sa position curatrice au sein de la culture visuelle contemporaine taïwanaise
+- [Le développement de la littérature contemporaine taïwanaise](/fr/art/contemporary-taiwanese-literature) — L'écosystème de création contemporaine à Taïwan ayant émergé en même temps que les nouveaux médias, pour comprendre le contexte culturel global.
+- [Théâtre et arts de la scène à Taïwan](/fr/art/taiwanese-theater-and-performing-arts) — Le parcours dans les arts de la scène de créateurs transdisciplinaires comme Huang Yi, au point de rencontre entre le corps et la technologie.
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre courant de l'art visuel taïwanais, partageant les mêmes scènes de festivals que les nouveaux médias.
+- [Communauté open source et g0v](/fr/technology/open-source-and-g0v) — Une autre facette de la culture technologique taïwanaise, à l'intersection de l'esprit open source et du milieu artistique.
+- [Histoire de l'industrie de la télévision taïwanaise](/fr/technology/taiwan-television-industry-history) — L'évolution des médias, de la radiodiffusion aux services OTT, et le contexte institutionnel des technologies de l'image.
+- [justfont et le développement des polices de caractères à Taïwan](/fr/technology/justfont-and-taiwan-typography) — Un autre groupe de créateurs à la croisée du design, de la technologie et de l'identité culturelle : ceux qui redonnent vie aux caractères taïwanais trait par trait.
+- [Tehching Hsieh](/fr/art/tehching-hsieh-performance-artist) — Le médium corporel avant les nouveaux médias, pionnier de l'art de la performance à Taïwan et maître international des « One Year Performances ».
+- [Wang Shin-jen (A-Luan)](/fr/art/wang-hsin-jen-artist) — Premier artiste d'art génératif taïwanais à figurer sur Art Blocks, figure centrale du projet Peak DAO et d'akaSwap.
+- [Wang Lien-sheng (Xia-ba)](/fr/art/wang-lien-cheng-artist) — Lauréat du premier prix de la catégorie sculpture au Lumen Prize 2017, membre de l'i/O Lab et organisateur du Lacking Sound Festival, représentant de l'art sonore par installation à Taïwan.
+- [Wu Che-yu](/fr/people/che-yu-wu) — Artiste de nouveaux médias se présentant comme un « vieil horloger », initiateur du projet open source Taiwan.md pour la Biennale de Venise Personal Structures × Art Basel Miami.
+- [The Reporter : Dix ans pour sauver le journalisme d'investigation des activités commerciales et en faire un bien public](/fr/society/the-reporter-investigative-journalism) — Un autre exemple de l'« ADN de Taïwan », porté par la communauté citoyenne et évoluant de manière transdisciplinaire, illustrant une autre voie de construction du bien public par la société civile après 2015.
+- [justfont et le développement des polices de caractères à Taïwan : une petite histoire typographique, de l'année 25 de HuaChang aux 76 minutes de JinXuan](/fr/technology/justfont-and-taiwan-typography) — La typographie comme infrastructure culturelle, un autre aspect qui, comme les nouveaux médias, se concentre sur la subjectivité visuelle taïwanaise.
+- [Câbles sous-marins : visibles au sommet du bouclier de silicium, invisibles sous les artères vitales](/fr/technology/submarine-cables-taiwan-lifeline) — 99 % des performances et collaborations curatoriales d'art nouveau média transnationaux passent par les câbles sous-marins ; cet article révèle cette infrastructure culturelle numérique invisible.
+- [Nie Yung-chen](/fr/people/nieh-yung-jen) — Premier membre taïwanais de l'International Federation of Graphic Design (AGI), studio Yongzhen Jizhi et position curatoriale dans la culture visuelle contemporaine de Taïwan.
 
 ## Références
 

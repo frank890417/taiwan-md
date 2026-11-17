@@ -2,25 +2,29 @@
 title: 'ताइवान का समुद्री पारिस्थितिकी तंत्र और प्रवाल भित्ति संरक्षण'
 description: 'ताइवान चारों ओर से समुद्र से घिरा हुआ है और समृद्ध समुद्री पारिस्थितिकी तंत्र रखता है, प्रवाल भित्ति विरंजन संकट से लेकर व्हेल-डॉल्फिन संरक्षण तक, समुद्री राष्ट्रीय उद्यानों की सुरक्षा प्रभावशीलता और भविष्य की चुनौतियों की खोज करता है'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '國家公園與步道'
 tags:
-  - 'समुद्री पारिस्थितिकी'
-  - 'प्रवाल भित्ति संरक्षण'
-  - 'व्हेल-डॉल्फिन संरक्षण'
-  - 'समुद्री राष्ट्रीय उद्यान'
-  - 'समुद्री संरक्षित क्षेत्र'
-  - 'जैव विविधता'
-readingTime: 13
+  [
+    'समुद्री पारिस्थितिकी',
+    'प्रवाल भित्ति संरक्षण',
+    'व्हेल-डॉल्फिन संरक्षण',
+    'समुद्री राष्ट्रीय उद्यान',
+    'समुद्री संरक्षित क्षेत्र',
+    'जैव विविधता',
+  ]
+subcategory: '國家公園與步道'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-07-25T15:46:07+08:00'
+translatedAt: '2026-11-04T19:25:57.348127+00:00'
 ---
 
 # ताइवान का समुद्री पारिस्थितिकी तंत्र और प्रवाल भित्ति संरक्षण

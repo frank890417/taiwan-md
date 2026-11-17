@@ -19,14 +19,16 @@ featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-24T21:09:07+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T13:46:32.530867+00:00'
 ---
 
-Às quatro e meia da manhã, a rua Guohua ainda não acendeu suas luzes. Algumas pessoas caminham vindas da estação de trem de Tainan, usando as telas dos celulares para iluminar o caminho em direção ao restaurante _Liu Qian Beef Soup_, cujas placas ainda permanecem na escuridão. Eles não são os primeiros: já há gente esperando na porta. O gado do mercado de carne de Shanhua começa a ser abatido na noite anterior; os caminhões refrigerados chegam antes do amanhecer, e a primeira panela de caldo começa a ferver às cinco. Quem chega cedo sabe de uma coisa: **a doçura da primeira panela é diferente da do entardecer.**
+Às quatro e meia da manhã, as luzes da rua Guohua ainda não foram acesas. Algumas pessoas caminham vindas da estação de trem de Tainan, com as telas dos celulares iluminando o caminho, em direção ao Liuqian Beef Soup, cujo letreiro ainda permanece na escuridão. Eles não são os primeiros: já há gente esperando na porta. O gado do mercado de carne de Shanhua começa a ser abatido na noite anterior e chega em caminhões refrigerados antes do amanhecer; a primeira panela de caldo começa a ferver às cinco horas. Quem chega cedo sabe de uma coisa: **a doçura da primeira panela é diferente daquela do final da tarde.**
 
 Isso não é um ritual. É logística.
 
@@ -72,17 +74,17 @@ A textura da carne bovina fresca é "crocante" (_ka-zi ka-zi_) — as fibras mus
 
 📝 **Nota do Curador:** Na universidade, eu me juntei a um grupo de colegas para ir a Tainan. Às quatro da manhã, fui acordado por um soco no ombro: "Ei, levanta! Vamos tomar sopa de carne bovina". Com sono e confusão, meu primeiro pensamento foi: "Que hora é essa? Quem vende sopa de carne a essa hora? E mesmo que venda, por que levantar agora?". Mas meus colegas insistiram. Ao chegar na rua Haian, antes mesmo de identificar a loja, vi sob as coberturas do mercado um grupo de vinte ou trinta pessoas esperando sob a luz dos postes. A loja abre às cinco; quem chega cedo pega a primeira panela. Aquele sabor doce — não é açúcar adicionado, mas a doçura natural das fibras musculares infundidas no caldo em seu estado mais fresco — é uma experiência espiritual de outro nível. É uma satisfação quase injusta. Naquela hora, meu colega ainda me lembrou: "E aí? Valeu a pena, né? Mas não venha na segunda-feira, porque não abre". Descobri que as lojas de sopa de carne em Tainan costam fechar às segundas, pois o mercado de Shanhua não abate gado nesse dia.
 
-## Macarrão com enguia: A física dos 27 segundos
+## E-fu Noodles com Enguia: Fogo alto e rapidez, uma loja que escreve o tempo na parede
 
-O macarrão com enguia (_shàn-yú yì-miàn_) existe em outras partes de Taiwan, mas quase ninguém fora de Tainan consegue fazê-lo corretamente, pois a técnica central é extremamente rigorosa: do momento em que a enguia entra na panela até o prato pronto, não podem passar mais de 27 segundos. Se passar disso, a carne fica seca e o cheiro de peixe aparece, arruinando tudo.
+O segredo do _E-fu noodles_ com enguia está no controle do fogo: as fatias de enguia devem ser salteadas em fogo alto; se passarem do ponto, a carne fica borrachuda. Uma loja tradicional em Sakariba exibe "27 segundos" como sua marca registrada — esta é uma afirmação específica daquela loja, não uma regra geral para o prato.
 
-A origem deste prato remonta ao mercado Youai (Sakariba). Durante o período japonês, não havia anguias em Tainan, mas nos tanques era possível encontrar enguias selvagens de tamanho semelhante; porém, ninguém sabia como cozinhá-las. Os irmãos Liao Bing-nan e Liao Huo-tu aprenderam a técnica de corte (_to-tsì_) com um mestre de Fuzhou e desenvolveram um método de refogado que imitava a anguia, criando o sabor agridoce típico de Tainan que até os oficiais japoneses admiravam. O mestre Liao Bing-nan ficou conhecido como "Liao da Enguia"; a técnica da família Liao foi passada por gerações, e hoje as lojas de Sakariba, como a de Liao, a de Ah-yuan na rua Chenggong e a de Ah-jiang na rua Minzu, pertencem à mesma linhagem.
+A origem deste prato remonta ao Mercado da Rua Youai (Sakariba). Os irmãos Liao Bing-nan e Liao Huo-tu aprenderam a técnica de corte (_to-tsì_) com um mestre de Fuzhou, criando o sabor salgado, azedo e adocicado típico de Tainan e tornando-se famosos em Sakariba. Liao Bing-nan passou a ser conhecido posteriormente como "Eel Nan" (Enguia Nan); a técnica da família Liao foi transmitida através das gerações, e as famílias Liao de Sakariba, o Ah-yuan da Rua Chenggong e o Ah-jiang da Rua Minzu pertencem à mesma linhagem. Para a história completa, veja 「[E-fu noodles com enguia](/pt/food/eel-noodles)」.
 
-Alho para aromatizar, pedaços de enguia na panela, cebolinha, cebola, pimenta, temperos, espessamento com amido, vinagre de cinco marcas, finalização e despejado sobre o macarrão. O som do "fogo da panela" (_wok hei_) é discernido pelos mestres pelo ouvido, não pelos olhos.
+O alho é frito para liberar o aroma, os pedaços de enguia entram na panela, seguidos por cebolinha, cebola, pimenta, temperos, o espessamento com amido e o vinagre de cinco selos (_Wu Yin Cu_). Ao finalizar, tudo é despejado sobre o _E-fu noodles_ já servido. O som do _wok hei_ (o aroma do fogo) subindo é como os mestres julgam o ponto do cozimento: usando os ouvidos, não os olhos.
 
-O macarramente usado é um tipo local de Tainan, pré-frito para ganhar forma; ao ser colocado no caldo, ele absorve todo o molho, com uma textura completamente diferente do macarrão comum. O vinagre de cinco marcas é essencial — o toque ácido e doce reseta o paladar, permitindo que você continue para a próxima barraca após a gordura e as proteínas.
+O _E-fu noodles_ é um tipo de massa local de Tainan, frita para ganhar forma enquanto ainda está parcialmente crua; ao ser colocada no caldo, ela absorve todo o molho, resultando em uma textura completamente diferente dos macarrões comuns. O vinagre de cinco selos é essencial — o toque agridoce final renova o paladar, permitindo que você continue comendo mesmo após a ingestão de gordura e proteína.
 
-📝 **Nota do Curador:** "Sakariba" é a transliteração do japonês _sakariba_ (local movimentado), significando um mercado agitado. O próprio nome revela a origem do prato: um ponto de encontro de trabalhadores durante o período japonês.
+📝 Nota do Curador: "Sakariba" é a transliteração para o taiwanês da palavra japonesa 「盛り場」(sakariba), que significa um lugar movimentado ou um mercado agitado. O próprio nome já indica a origem do prato: um local de concentração de trabalhadores durante o período de ocupação japonesa.
 
 ## Vermicelli com coração de porco do Ah-ming: A filosofia do banho-maria
 

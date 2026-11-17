@@ -2,9 +2,7 @@
 title: 'La bande dessinée taïwanaise'
 description: "Des années 1970, ère du « royaume de la BD » avec Liu Xingqin et Aoxiang, à la conquête du Japon par Zheng Wen en 1991 — sacré « trésor de l'Asie » —, en passant par la philosophie classique mise en images par Cai Zhizhong dans *Zhuangzi*, puis le Golden Comic Award en 2010 et la plateforme CCC en 2017 : la bande dessinée taïwanaise a traversé une longue traversée du désert face à la déferlante manga, et retrouve aujourd'hui sa voix créatrice."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
     'bande dessinée',
@@ -16,16 +14,18 @@ tags:
     'CCC',
     'Ruan Guangmin',
   ]
-readingTime: 11
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
-translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
-sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-05-24T05:06:33+08:00'
 difficulty: 'beginner'
+readingTime: 11
+translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
+sourceBodyHash: 'sha256:dd1128570e96c06e'
+translatedAt: '2026-11-02T16:07:49.499283+00:00'
 ---
 
 # La bande dessinée taïwanaise
@@ -113,11 +113,11 @@ L'esthétique orientale de Zheng Wen, la philosophie en images de Cai Zhizhong, 
 
 La renaissance de la BD taïwanaise est à la fois une question industrielle et une question d'identité culturelle. Quand les dessinateurs taïwanais commencent à raconter les histoires de Taïwan avec leur propre trait, quand les lecteurs s'identifient aux œuvres locales, c'est une reconstruction de la confiance culturelle à l'œuvre. Cette confiance relève d'une conscience culturelle ouverte : apprécier les qualités des cultures étrangères tout en chérissant les siennes.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Culture anime et manga à Taïwan](/fr/culture/taiwan-anime-culture) — La culture de consommation du point de vue du lecteur : cosplay, _doujinshi_, conventions, mémoire générationnelle
-- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre axe de la narration visuelle taïwanaise
-- [L'évolution de la littérature contemporaine taïwanaise](/art/台灣當代文學發展) — La dimension textuelle de la conscience créatrice taïwanaise
+- [Culture de l'animation et des mangas à Taïwan](/fr/culture/taiwan-anime-culture) — La culture de consommation sous l'angle du lecteur : cosplay, _doujinshi_, conventions d'animation et mémoire générationnelle.
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre axe de la narration visuelle à Taïwan.
+- [Développement de la littérature contemporaine taïwanaise](/fr/art/contemporary-taiwanese-literature) — La strate textuelle de l'évolution de la conscience créative à Taïwan.
 
 ## Références
 

@@ -22,13 +22,15 @@ imageAlt: 'मूली केक'
 imageCredit: 'Rick888chen / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%98%BF%E8%94%94%E7%B3%95.jpg'
-translatedFrom: 'Food/蘿蔔糕.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:bfc99220dad6565a'
-sourceBodyHash: 'sha256:a28947ebbfc382fe'
-translatedAt: '2026-09-09T15:32:21+08:00'
 difficulty: 'beginner'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/蘿蔔糕.md'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:bfc99220dad6565a'
+sourceBodyHash: 'sha256:a28947ebbfc382fe'
+translatedAt: '2026-11-06T21:10:47.893220+00:00'
 ---
 
 # मूली केक: स्पष्ट राज्य पूजा से पेड़ के नीचे नाश्ते का चावल स्मृति

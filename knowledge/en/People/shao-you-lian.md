@@ -2,9 +2,7 @@
 title: "Shao You-lian: The Conservator in Liu Ming-chuan's Shadow, and the True Anchoring of Taipei as Provincial Capital"
 description: "Was he the culprit whom history marked as having “ended the New Policies,” or the most pragmatic fiscal gatekeeper of Qing-era Taiwan? Taking over after Liu Ming-chuan's ambitious building program, Shao You-lian completed the railway from Taipei to Hsinchu amid extreme fiscal constraint, formally anchored Taiwan's provincial capital in Taipei, and left later generations with a difficult debate: is consolidation a step backward, or another form of governance closer to reality?"
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Qing Rule',
@@ -16,15 +14,19 @@ tags:
     'Treaty of Ili',
     'Li Hongzhang',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T22:06:25.252883+00:00'
 ---
 
 > **30-second overview:** In 1891, Taiwan’s first governor, Liu Ming-chuan, left office because of illness, leaving behind a Taiwan filled with dreams of modernization but burdened by fiscal deficits. His successor, Shao You-lian, is often described as the conservative who “abolished all the New Policies,” but in the extreme circumstances created by the cutoff of fiscal transfers from Fujian, he in fact completed and opened the Taipei-Hsinchu section of railway, and in 1894 formally moved the provincial capital to Taipei. This diplomat, who had participated in the negotiations for the Treaty of Ili and was connected by marriage to Li Hongzhang, used pragmatic bureaucratic methods to set the tone for Taiwan’s political and economic center of gravity over the next century.
@@ -79,44 +81,44 @@ For a long time, Shao You-lian has played the foil to Liu Ming-chuan in Taiwan h
 
 ### References
 
-[^1]: Lien Heng, _The General History of Taiwan: Treatise on Finance_, [edited by the Economic Research Office of the Bank of Taiwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711).
+[^1]: [edited by the Economic Research Office of the Bank of Taiwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — Lien Heng, _The General History of Taiwan: Treatise on Finance_.
 
-[^2]: Hsieh Chi-kang, “A Study of Shao You-lian’s Approach to Taiwan’s Defense Affairs (1891-1894): Taking Self-Strengthening Construction and Other Measures as Examples,” _Nankai Journal_, [Vol. 8, No. 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf).
+[^2]: [Vol. 8, No. 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — Hsieh Chi-kang, “A Study of Shao You-lian’s Approach to Taiwan’s Defense Affairs (1891-1894): Taking Self-Strengthening Construction and Other Measures as Examples,” _Nankai Journal_.
 
-[^3]: Hsu Hsueh-chi, “Shao You-lian and the Self-Strengthening New Policies,” included in _Proceedings of the Conference on the Late-Qing Self-Strengthening Movement_, [Institute of Modern History, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx).
+[^3]: [Institute of Modern History, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx) — Hsu Hsueh-chi, “Shao You-lian and the Self-Strengthening New Policies,” included in _Proceedings of the Conference on the Late-Qing Self-Strengthening Movement_.
 
-[^4]: National Central Library, _Taiwan Memory_ system, [“Shao You-lian” entry](https://tm.ncl.edu.tw/).
+[^4]: [“Shao You-lian” entry](https://tm.ncl.edu.tw/) — National Central Library, _Taiwan Memory_ system.
 
-[^5]: Kuo Ting-yee, _A Brief Account of Taiwan Historical Affairs_, [Cheng Chung Book Co., 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ).
+[^5]: [Cheng Chung Book Co., 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — Kuo Ting-yee, _A Brief Account of Taiwan Historical Affairs_.
 
-[^6]: Allhistory, “Taipei Prefecture,” [citing historical documentary materials](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735).
+[^6]: [citing historical documentary materials](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — Allhistory, “Taipei Prefecture,”.
 
-[^7]: Hanlin Cloud Academy, “Junior High School History: Shao You-lian,” [keyword learning](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html).
+[^7]: [keyword learning](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — Hanlin Cloud Academy, “Junior High School History: Shao You-lian,”.
 
-[^8]: Yang Peng-fei, “On Qing-era Taiwan Railway Stations,” _The Observer_, [Issue 22, June 2015](http://www.observer-taipei.com/article.php?id=712).
+[^8]: [Issue 22, June 2015](http://www.observer-taipei.com/article.php?id=712) — Yang Peng-fei, “On Qing-era Taiwan Railway Stations,” _The Observer_.
 
-[^9]: _Historical Materials on Late-Qing Taiwan’s Foreign Affairs and Self-Strengthening_, “Memorial by Taiwan Governor Shao You-lian Reporting That the Taiwan Railway Should Temporarily Halt After Reaching Hsinchu,” [18th year of the Guangxu reign](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99).
+[^9]: [18th year of the Guangxu reign](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — _Historical Materials on Late-Qing Taiwan’s Foreign Affairs and Self-Strengthening_, “Memorial by Taiwan Governor Shao You-lian Reporting That the Taiwan Railway Should Temporarily Halt After Reaching Hsinchu,”.
 
-[^10]: Watanabe Keinoshin, _Taiwan Railway Reader_, translated by Huang Te-feng, [Taiwan Historica](https://www.th.gov.tw/).
+[^10]: [Taiwan Historica](https://www.th.gov.tw/) — Watanabe Keinoshin, _Taiwan Railway Reader_, translated by Huang Te-feng.
 
-[^11]: Wang Yifu, “The Last Taiwan Governor,” _China Daily_, [February 2, 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html).
+[^11]: [February 2, 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — Wang Yifu, “The Last Taiwan Governor,” _China Daily_.
 
-[^12]: Wikipedia, [“Shao You-lian” entry](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82).
+[^12]: [“Shao You-lian” entry](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — Wikipedia.
 
-[^13]: Wikipedia, [“Shao Can” entry](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF).
+[^13]: [“Shao Can” entry](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — Wikipedia.
 
-[^14]: Meixige’s Happy Life, [“A Dream Broken at Xieqiao: The Five-Generation Legend of the Shao Mansion at Xieqiao”](https://www.yuleshow.com/?p=448).
+[^14]: [“A Dream Broken at Xieqiao: The Five-Generation Legend of the Shao Mansion at Xieqiao”](https://www.yuleshow.com/?p=448) — Meixige’s Happy Life.
 
-[^15]: Palace Museum, [“Shao Xunmei” biographical introduction](https://www.dpm.org.cn/lemmas/241167.html).
+[^15]: [“Shao Xunmei” biographical introduction](https://www.dpm.org.cn/lemmas/241167.html) — Palace Museum.
 
-[^16]: Wikipedia, [“Treaty of Ili” entry](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84).
+[^16]: [“Treaty of Ili” entry](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — Wikipedia.
 
-[^17]: Li Yangfan, “Zeng Jize: Only Then Did I Believe Kunlun Had Other Mountains,” included in _World Affairs_, [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf).
+[^17]: [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — Li Yangfan, “Zeng Jize: Only Then Did I Believe Kunlun Had Other Mountains,” included in _World Affairs_.
 
-[^18]: Taipei City Department of Cultural Affairs, [“Taipei City and Shao You-lian”](https://culture.gov.taipei/).
+[^18]: [“Taipei City and Shao You-lian”](https://culture.gov.taipei/) — Taipei City Department of Cultural Affairs.
 
-[^19]: Wikipedia, [“Taipei Machinery Bureau” entry](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80).
+[^19]: [“Taipei Machinery Bureau” entry](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — Wikipedia.
 
-[^20]: China Merchants Group database, [“The Hiroshima Talks and Insufficient Plenipotentiary Authority”](http://1872.cmhk.com/ziliaoku/5110.html).
+[^20]: [“The Hiroshima Talks and Insufficient Plenipotentiary Authority”](http://1872.cmhk.com/ziliaoku/5110.html) — China Merchants Group database.
 
-[^21]: Tencent News, [“The Hiroshima Rejection of the Envoys: The True Shattering of the Celestial Empire’s Dream Under the Clouds of the First Sino-Japanese War”](https://view.inews.qq.com/k/20260508A01P7U00).
+[^21]: [“The Hiroshima Rejection of the Envoys: The True Shattering of the Celestial Empire’s Dream Under the Clouds of the First Sino-Japanese War”](https://view.inews.qq.com/k/20260508A01P7U00) — Tencent News.

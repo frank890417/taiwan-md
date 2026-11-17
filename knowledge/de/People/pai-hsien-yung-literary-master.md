@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T12:07:03+08:00'
+translatedAt: '2026-11-04T20:17:19.049957+00:00'
 ---
 
 # Bai Hsiao-yong: „Taiwan People“ 1971, bis zur Jugend-Version der Peach Blossom Festival 20. Jahresrunde

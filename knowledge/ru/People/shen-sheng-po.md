@@ -2,9 +2,7 @@
 title: 'Шэнь Шэньбо'
 description: 'Основная специальность — информатика, но он привёл языки программирования в современную художественную сцену Тайваня. За свою короткую тридцатичетырёхлетнюю жизнь Шэнь Шэньбо оставил не только работы цифрового искусства, но и экспериментальный дух, рассматривающий программирование как образ жизни, а свободное ПО — как творческую этику.'
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'личности',
@@ -14,15 +12,19 @@ tags:
     'OpenLab.Taipei',
     'Тайвань',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-04T21:35:17.758088+00:00'
 ---
 
 # Шэнь Шэньбо
