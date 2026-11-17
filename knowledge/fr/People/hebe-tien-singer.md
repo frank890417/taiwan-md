@@ -72,7 +72,7 @@ Mais elle n'a pas perdu. Après le concours, la maison de disques la met en duo 
 
 En 2010, les choses changent. Le 22 octobre, Selina est gravement brûlée lors d'une scène d'explosion sur le tournage de _I Have a Date with Spring_ à Shanghai : 54 % de son corps, dont près de 80 % au troisième degré[^5]. Les activités de S.H.E sont complètement suspendues.
 
-Ce même automne, le 3 septembre, Tian Fuzhen sort son premier album studio solo _To Hebe_, avec pour slogan : « **super nouvelle artiste après dix ans de carrière** »[^6]. Mi-août, la maison de disques publie sur YouTube le single phare _[Lonely, Lonely is Fine](https://www.youtube.com/watch?v=DyFIzKYQQYE)_, uniquement la voix, sans montrer son visage[^6.
+Ce même automne, le 3 septembre, Tian Fuzhen sort son premier album studio solo _To Hebe_, avec pour slogan : « **super nouvelle artiste après dix ans de carrière** »[^6]. Mi-août, la maison de disques publie sur YouTube le single phare _[Lonely, Lonely is Fine](https://www.youtube.com/watch?v=DyFIzKYQQYE)_, uniquement la voix, sans montrer son visage[^6].
 
 La stratégie « d'abord la voix, puis le visage » est en soi un acte de déconstruction volontaire du « visage » par une idole issue de S.H.E. Dix ans de carrière, mais elle fait ses débuts non pas en tant qu'« idole », mais en tant que « chanteuse ».
 

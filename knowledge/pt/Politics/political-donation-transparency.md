@@ -116,7 +116,7 @@ A lei escrita até aqui — o esqueleto está pronto. Mas esqueleto não é órg
 
 A eleição presidencial de 2008, a décima segunda — Ma Ying-jeou contra Hsieh Chang-ting — foi a primeira eleição presidencial de Taiwan com "aplicação integral da Lei de Financiamento Político e declaração obrigatória"[^7] [NEEDS-VERIFY].
 
-Naquele ano, a plataforma de consulta pública de financiamento político da Controladoria entrou oficialmente no ar. Endereço: `https://ardata.cy.gov.tw/`[^1`.
+Naquele ano, a plataforma de consulta pública de financiamento político da Controladoria entrou oficialmente no ar. Endereço: `https://ardata.cy.gov.tw/`[^1].
 
 O objetivo da primeira versão da plataforma era simples: digitalizar os dados em papel declarados pelos candidatos, colocá-los na rede, abrir para consulta. Qualquer pessoa podia digitar nome de candidato / nome de partido / nome de associação política, consultar o detalhamento de receitas e despesas das declarações históricas — incluindo doador, valor, categoria de uso, para cada transação.
 

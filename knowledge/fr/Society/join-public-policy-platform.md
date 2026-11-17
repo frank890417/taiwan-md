@@ -71,7 +71,7 @@ Permet aux citoyens de participer directement à l'élaboration du budget gouver
 
 ### 5. Contacter les responsables (Boîte à idées)
 
-Regroupe les adresses électroniques des chefs de chaque ministère du Conseil exécutif, créant un canal numérique de contact direct entre les citoyens et les décideurs [^1
+Regroupe les adresses électroniques des chefs de chaque ministère du Conseil exécutif, créant un canal numérique de contact direct entre les citoyens et les décideurs [^18]
 
 ### 6. Audit participatif
 
@@ -128,7 +128,7 @@ Chaque fois qu'une proposition est validée, le PO organise une « réunion coll
 
 ## Évaluation internationale et défis : l'exportation du modèle taïwanais
 
-Le modèle de participation numérique de Taïwan a été largement salué lors des évaluations de l'Alliance pour le gouvernement ouvert (OGP) et de l'OCDE, étant considéré comme un modèle de « gouvernance numérique face à l'autoritarisme » [^13][^rob]. Cependant, la plateforme fait toujours face à des défis tels que un « faible taux de validation finale », des « réponses types » et la « fracture numérique » [^8][^17].
+Le modèle de participation numérique de Taïwan a été largement salué lors des évaluations de l'Alliance pour le gouvernement ouvert (OGP) et de l'OCDE, étant considéré comme un modèle de « gouvernance numérique face à l'autoritarisme » [^13][^16]. Cependant, la plateforme fait toujours face à des défis tels que un « faible taux de validation finale », des « réponses types » et la « fracture numérique » [^8][^17].
 
 ---
 

@@ -93,7 +93,7 @@ Em 2017, o _Journal of Communication and Society_ (傳播與社會學刊) public
 
 Essa comparação situa o PanSci dentro das diferenças de sociedade civil dos dois lados do estreito: sendo ambos plataformas de divulgação, como se escreve o artigo, como se arranjam as fontes, como se desenha a interação — tudo reflete o ambiente político e social.
 
-Em 2020, o capítulo sobre Taiwan no _Communicating Science: A Global Perspective_ da ANU Press inscreveu o projeto de blogs científicos PanSci, iniciado em 2011, na história da comunicação científica de Taiwan. O capítulo chama o PanSci de uma das maiores e mais importantes comunidades de conhecimento de comunicadores científicos de Taiwan, e coloca a transformação da PanMedia em empresa lucrativa no contexto de "construção de ecossistema de conhecimento".[^anu>
+Em 2020, o capítulo sobre Taiwan no _Communicating Science: A Global Perspective_ da ANU Press inscreveu o projeto de blogs científicos PanSci, iniciado em 2011, na história da comunicação científica de Taiwan. O capítulo chama o PanSci de uma das maiores e mais importantes comunidades de conhecimento de comunicadores científicos de Taiwan, e coloca a transformação da PanMedia em empresa lucrativa no contexto de "construção de ecossistema de conhecimento".[^anu]
 
 > **Juntas, essas três perspectivas de pesquisa tornam nítida a posição do PanSci: quando Taiwan foi do "especialista ensina o público" para "cidadãos discutem ciência juntos", o PanSci se comercializou cedo e cedo foi observado por pesquisadores.**
 

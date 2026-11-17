@@ -53,7 +53,7 @@ El 12 de julio de 1957 es el aniversario del establecimiento de relaciones entre
 
 Tras el establecimiento de vínculos, ambos países firmaron progresivamente acuerdos en cultura, tecnología, inversión y turismo. En julio de䣵 2017, la presidenta Tsai Ing-wen y el entonces presidente de Paraguay, Horacio Cartes, presenciaron la firma del Acuerdo de Cooperación Económica (ECA) entre Taiwán y Paraguay; el acuerdo entró en vigor el 28 de febrero de 2018, convirtiéndose en la base institucional fundamental para que productos agropecuarios como la carne de cerdo y de vacuno accedieran al mercado taiwanés. [^5]
 
-Hay un detalle que suele escribirse erróneamente: Paraguay tiene una superficie de aproximadamente 407,000 km², siendo el aliado con mayor extensión territorial de Taiwán; su población ronda los 7 millones, menos que algunos aliados centroamericanos. Confundir «el más extenso» con «el más grande en superficie y población» convierte un hecho sólido en un error factual. [^
+Hay un detalle que suele escribirse erróneamente: Paraguay tiene una superficie de aproximadamente 407,000 km², siendo el aliado con mayor extensión territorial de Taiwán; su población ronda los 7 millones, menos que algunos aliados centroamericanos. Confundir «el más extenso» con «el más grande en superficie y población» convierte un hecho sólido en un error factual. [^6]
 
 ## Carne de cerdo, carne de vacuno y tecnología agrícola
 

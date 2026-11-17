@@ -87,7 +87,7 @@ L''affaire Liao Wanchen est une histoire judiciaire longue, mais pour Foxconn, e
 
 Mi-2015, en plus du département juridique et du département d''audit, [Terry Gou](/fr/people/terry-gou) a créé un département indépendant : le **département de prévention des irrégularités**[^6].
 
-Le magazine CommonWealth l''a qualifié de « bureau anti-corruption de Foxconn »[^6]. Terry Gou a simultanément mis en place une prime de dénonciation pouvant atteindre 50 millions de dollars taïwanais par affaire, afin d''encourager les employés à signaler les irrégularités internes[^6.
+Le magazine CommonWealth l''a qualifié de « bureau anti-corruption de Foxconn »[^6]. Terry Gou a simultanément mis en place une prime de dénonciation pouvant atteindre 50 millions de dollars taïwanais par affaire, afin d''encourager les employés à signaler les irrégularités internes[^6].
 
 C''est une conception inhabituelle dans l''histoire de la gouvernance des entreprises chinoises. La plupart des entreprises familiales s''appuient sur un triangle composé de proches du dirigeant, de cabinets d''experts-comptables et du directeur juridique ; Foxconn a externalisé ce dispositif à un groupe d''audit interne composé d''anciens responsables gouvernementaux de la lutte anti-corruption, leur conférant un pouvoir d''enquête indépendant et des primes de dénonciation élevées. La logique est la suivante : quand une entreprise atteint 24 pays et 900 000 employés[^11], les proches du dirigeant ne peuvent pas voir tous les bons de commande, les experts-comptables ne peuvent pas voir les comptes à l''étranger, et le directeur juridique intervient trop tard. Il faut une équipe interne qui maîtrise les outils du Bureau d''enquête.
 

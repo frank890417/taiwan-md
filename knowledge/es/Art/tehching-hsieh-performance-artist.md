@@ -55,7 +55,7 @@ El 31 de diciembre de 1950, Tehching Hsieh nació en una familia común del muni
 
 No fue un suicidio. Fue su primera obra de arte de la performance: _Jump Piece_[^6]. Grabó el antes y el después del salto con una cámara Super 8 y dejó seis fotografías. Se fracturó ambos tobillos y no pudo caminar durante los siguientes cuatro meses.
 
-Esa caída no causó demasiada repercusión en el círculo artístico taiwanés. En la década de 1970, Taiwán todavía no disponía del vocabulario para "arte de la performance", y el sistema de galerías no sabía cómo acoger este tipo de obra. El propio Hsieh destruyó después la película original de Super 8; solo quedaron las fotografías[^6>.
+Esa caída no causó demasiada repercusión en el círculo artístico taiwanés. En la década de 1970, Taiwán todavía no disponía del vocabulario para "arte de la performance", y el sistema de galerías no sabía cómo acoger este tipo de obra. El propio Hsieh destruyó después la película original de Super 8; solo quedaron las fotografías[^6].
 
 > Visto en retrospectiva, esta decisión ya contenía el ADN de todas las obras posteriores de Hsieh: **asumir conceptos mediante estados extremos del cuerpo**, sin depender de ningún medio artístico preexistente.
 

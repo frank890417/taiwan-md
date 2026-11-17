@@ -66,7 +66,7 @@ Sur le papier, c'est séduisant, mais en pratique, l'exécution est plus conserv
 
 Joinvest est l'un des rares cas de réussite ayant « gradué » du bac à sable — cette entreprise propose une plateforme d'achat groupé d'obligations, permettant aux particuliers d'investir conjointement dans des obligations normalement réservées aux professionnels. Entrée en expérimentation en 2021, elle a obtenu l'approbation de la FSC, qui a jugé le projet « innovant et favorisant l'inclusion financière », entraînant une modification des _Normes d'établissement des courtiers en valeurs mobilières_. [^8]
 
-Mais les chiffres de l'autre côté sont moins reluisants. Sept ans après le lancement du bac à sable, le nombre d'expérimentations approuvées reste faible, et celles ayant réellement abouti à une modification réglementaire sont encore plus rares. Les critiques affirment que le seuil d'entrée est trop élevé, l'examen trop lent et la période d'essai trop courte, transformant ce système en un dispositif « qui semble ouvert, mais qui est en réalité conservateur ». [^］
+Mais les chiffres de l'autre côté sont moins reluisants. Sept ans après le lancement du bac à sable, le nombre d'expérimentations approuvées reste faible, et celles ayant réellement abouti à une modification réglementaire sont encore plus rares. Les critiques affirment que le seuil d'entrée est trop élevé, l'examen trop lent et la période d'essai trop courte, transformant ce système en un dispositif « qui semble ouvert, mais qui est en réalité conservateur ». [^9]
 
 > « Le bac à sable réglementaire de Taïwan est l'un des cadres juridiques les plus complets au monde, mais le problème ne réside pas dans le cadre, mais dans la vitesse d'exécution. »
 > — Chambers and Partners, _Fintech 2025: Taiwan_ [^9]
