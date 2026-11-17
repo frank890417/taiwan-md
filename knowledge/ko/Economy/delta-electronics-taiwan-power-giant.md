@@ -10,11 +10,13 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台達電子.md'
-sourceCommitSha: 'bf0ce371e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0c0aec93dc48d894'
 sourceBodyHash: 'sha256:85c567c76ec730ad'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-11-17T17:28:42.646430+00:00'
 ---
 
 > **30초 개요:** 1971년, 13세에 푸젠의 부모를 떠나 외삼촌을 따라 타이완으로 온 망명 학생이 30만 위안을 조달해 신좡에 델타를 설립했다.

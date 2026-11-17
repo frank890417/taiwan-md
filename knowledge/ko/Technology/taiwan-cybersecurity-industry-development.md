@@ -11,11 +11,13 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: 'b0b668075'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b8cab3d7189be94d'
 sourceBodyHash: 'sha256:a74e3ddc66982d98'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-11-17T16:53:09.552435+00:00'
 ---
 
 # 타이완 자산산업 발전

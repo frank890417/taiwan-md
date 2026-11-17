@@ -12,11 +12,13 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 12
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣傳統藝術.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'
-translatedAt: '2026-09-08T00:42:47+08:00'
+translatedAt: '2026-11-17T18:10:12.994427+00:00'
 ---
 
 # 타이완 전통 예술: 시골 소극에서 문화 제국으로의 기적적 역습

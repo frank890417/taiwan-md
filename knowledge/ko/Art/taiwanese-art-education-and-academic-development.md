@@ -11,11 +11,13 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: '93810378e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:16f5e80078ec8c03'
 sourceBodyHash: 'sha256:d51a922d651f3747'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-11-17T16:53:05.654803+00:00'
 ---
 
 # 타이완의 예술 교육과 학원 발전사

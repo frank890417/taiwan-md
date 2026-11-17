@@ -11,11 +11,13 @@ readingTime: 13
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
-sourceCommitSha: '5b89f1761'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:8ae63a433505bef3'
 sourceBodyHash: 'sha256:07f01705cabacd50'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-11-17T17:56:50.887680+00:00'
 ---
 
 # 타이완 5G 네트워크 구축과 디지털 전환

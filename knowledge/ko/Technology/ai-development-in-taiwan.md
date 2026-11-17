@@ -10,11 +10,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-11-17T18:03:38.752201+00:00'
 ---
 
 # AI 섬나라의 부상: 대만 인공지능 발전과 미래 전략
