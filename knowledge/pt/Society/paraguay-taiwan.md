@@ -30,11 +30,13 @@ image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'
 imageLicense: '政府公開資訊（OGDL — Open Government Data License）'
 imageSource: 'https://www.president.gov.tw/NEWS/20543'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '72a8b4432'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:01affe2533530c02'
 sourceBodyHash: 'sha256:21c703a5d9235d48'
-translatedAt: '2026-07-27T01:41:51+08:00'
+translatedAt: '2026-11-17T19:33:53.139850+00:00'
 ---
 
 > **Resumo em 30 segundos:** O Paraguai e a República da China estabeleceram relações diplomáticas em 1957; em 2026 completam 69 anos. É o único aliado diplomático de Taiwan na América do Sul e o maior em área entre os atuais aliados; a população, porém, é inferior à de alguns aliados da América Central. De 7 a 10 de maio de 2026, o presidente paraguaio Santiago Peña fará sua primeira visita de Estado a Taiwan; o Ministério das Relações Exteriores anunciou que o presidente Lai Ching-te o receberá em 8 de maio com honras militares, banquete de Estado e a Grande Ordem de Jade Brilhante. Esta aliança resiste à pressão chinesa graças ao reconhecimento diplomático, acesso ao mercado de produtos agropecuários, à Universidade Politécnica Taiwan-Paraguai, ao parque tecnológico inteligente e à cooperação técnica de longo prazo. [^1][^2]

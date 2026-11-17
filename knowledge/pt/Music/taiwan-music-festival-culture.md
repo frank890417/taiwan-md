@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
-translatedAt: '2026-07-26T08:50:55+08:00'
+translatedAt: '2026-11-17T18:31:12.971270+00:00'
 ---
 
 **A cultura dos festivais de música de Taiwan começou em 1995, quando dois americanos ergueram um palco improvisado em Kenting. Em três décadas, evoluiu para espécies distintas como Spring Scream, Festival de Música Oceânica e Megaport Festival. Na década de 2020, esta ilha menor que os Países Baixos realiza mais de 50 festivais por ano. Não é uma escala explicável pela demanda de mercado; assemelha-se mais a um ritual coletivo: a forma como uma geração inteira encontrou sua própria voz ao ar livre.**
