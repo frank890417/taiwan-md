@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-17T17:49:53.392236+00:00'
 ---
 
 > **30 Second Overview:** In 1981, there were 48 university re-examination classes in the Nanyang Street and Roosevelt Road area of Taipei, with over 100,000 students; by 2023, only 3 remained, with about 2,500 people. Taiwan spent 30 years reforming education to break the "one test determines a lifetime" mold, and the re-examination classes truly disappeared, but tutoring centers did not: in five years after the new curriculum was implemented, the number of private tutoring centers nationwide increased by 960. Behind this cycle is an island's repeated dialectic on the definition of "fairness."

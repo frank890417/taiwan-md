@@ -1,142 +1,167 @@
 ---
-title: "Su Chiao-hui: Stitching New Taipei Together with Law and Detail — A Curator Working Under the Shadow of 'Charge Ahead'"
-description: "From the daughter of a Formosa Incident defense attorney to a legislator rated Outstanding sixteen times, Su Chiao-hui has worked to shed the 'daddy's girl' label by using the Cancer Prevention Act and the Sports Industry Development Act to give legislation a human temperature — while on the local level, using MRT funds, water supply lines, and campus improvements to piece together her own political map."
-category: People
+title: 'Su Chiao-hui: From Beyond Expert and Parliament to Otter Mama'
+description: 'In 2009, lawyer Su Chiao-hui joined the Beyond Foundation to help children in rural and urban areas discover different professions; in 2016, she entered Parliament as the legislator for New Taipei City''s 5th constituency, winning re-election in 2020 and 2024. By day, she reviews budgets and promotes legislation; by night, she tells stories through her "Otter Mama" persona. Her challenge has never been just her father Su Tseng-chang''s name, but how to grow her inherited political starting point into her own public path.'
+date: 2026-11-06
+category: 'People'
 tags:
   [
+    'People',
     'Su Chiao-hui',
-    'New Taipei City',
-    'legislator',
-    'legislative scorecard',
-    'local infrastructure',
-    'legal professional',
-    'childcare policy',
-    'parliamentary diplomacy',
-    'gender equality',
-    'political family history',
+    'Politics',
+    'New Taipei',
+    'Education',
+    'Children and Youth',
+    'Public Service',
   ]
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 12
-lastVerified: 2026-04-28
-lastHumanReview: false
-translatedFrom: People/蘇巧慧.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:eb7e3bede251836b'
-sourceBodyHash: 'sha256:8ae89739a53e0a1f'
-translatedAt: '2026-04-30T22:50:13+08:00'
 featured: false
+lastVerified: 2026-11-17
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+researchReport: 'reports/factcheck/2026-11/pr1963-蘇巧慧.md'
+rationale:
+  why_this_hook: '蘇巧慧的政治家族身分無法被抹去，但公開經歷也顯示她在法律、教育、國會與親子媒體之間建立了自己的工作路徑。'
+  whats_excluded: '不把競選網站自述直接當成政績，也不寫選戰攻防與政見；只保留能說明她公共角色如何變化的事件。'
+  where_it_hedges: '學歷依不同時期立法院資料各自呈現，不把第9屆資料所列的 SJD 候選人寫成博士；辦公室網站的建設成果標明為自述。'
+  whos_pushing_back: '批評者以「政二代」稱呼她；民眾黨質疑胞妹相關公司獲政府補助與投資涉及利益迴避，國民黨質疑她在地方建設中的參與程度，本文列出指控與回應。'
+translatedFrom: 'People/蘇巧慧.md'
+sourceCommitSha: 'a3153ed16'
+sourceContentHash: 'sha256:c8915f917f9448a9'
+sourceBodyHash: 'sha256:e4d35852f02ecd0f'
+translatedAt: '2026-11-18T00:48:16+08:00'
 ---
 
-# Su Chiao-hui: Stitching New Taipei Together with Law and Detail — A Curator Working Under the Shadow of "Charge Ahead"
+# Su Chiao-hui: From Beyond Expert and Parliament to Otter Mama
 
-> ### ⚠️ Pre-election editorial note (2026-04-28)
->
-> Su Chiao-hui is the Democratic Progressive Party's nominated candidate for New Taipei City Mayor in 2026. The factual density in this article is still undergoing a polish phase — several specific project figures from February to April 2026 (e.g., NT$77 billion MRT budget, NT$30 million water supply line, NT$345 million campus construction) were provided in an initial contributor draft, and Taiwan.md maintainers are progressively cross-checking each figure against primary sources (Citizens' Congress Watch website / Executive Yuan official documents / New Taipei City budget records). During an election cycle, readers should rely on official sources and should not read this entry as an endorsement of any candidate. Taiwan.md stands on the two axes of "Taiwan island-centered historical perspective + sovereign independence," but does not endorse any candidate (per [MANIFESTO §Autonomy Boundaries](docs/semiont/MANIFESTO.md#自主權邊界)).
->
-> ### ⚡ 30-second overview
->
-> **"Su Chiao-hui's most successful political asset is not her family name — it's her obsession with 'details.' She is stitching together the gaps left by her father's charging style, one Cold Legal Amendment and one mundane water pipe at a time."**
->
-> | Key Dimension               | Core Facts                                                                                                                                                                                                      |
-> | :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | **Legislative Performance** | Rated "Outstanding Legislator" by Citizens' Congress Watch (公督盟) for 16 consecutive terms across 13 sessions; legislative output and interpellation depth place her in the top tier of the legislature [^2]. |
-> | **Local Infrastructure**    | Coordinated Executive Yuan approval of NT$77 billion for the MRT Wanda-Shulin Line; secured NT$9.8 billion for a Highway 65 on-ramp to be fully funded by the central government [^9][^11].                     |
-> | **Governance Style**        | From the _Cancer Prevention Act_'s mental-health provisions to the "Otter Mama" podcast, she attempts to build a warm, maternal image within hard-edged political combat [^7][^21].                             |
->
-> **💡 So what does this mean?**
-> This is not simply the succession story of a political dynasty. It is a deep experiment in how a legal professional uses "micro-level governance" to carve out a personal map amid the weight of history — and challenges for the right to govern Taiwan's largest city.
+> **Election Year Note**: Su Chiao-hui is a registered candidate for the 2026 New Taipei City mayoral election. This page is contributed by the community and is still undergoing verification; it does not constitute an endorsement of any candidate. For election-related information, please refer to official data from the Central Election Commission and other authorities. See [2026 Nine-in-One Elections](/elections/2026) for details on various candidates.
 
-On the streets of New Taipei City in 2026, the billboards showing Su Chiao-hui no longer frame her as simply "Su Chen-chang's daughter." This legislator — holder of dual law master's degrees from the University of Pennsylvania and Boston University — is attempting to challenge the mayoral seat of Taiwan's most populous municipality through a political experiment built on "details." Her political career is not merely the continuation of a family's halo; it is an expression of personal will and professional competence, seeking to open a path of "deliberate governance" (慧慧慧, lit. "wise-wise-wise") alongside the traditional "charge-ahead" (衝衝衝) style.
+> **30-Second Overview:** In 2016, Su Chiao-hui entered Parliament as the legislator for New Taipei City's 5th constituency, subsequently winning re-election through the 11th term. Her public resume includes roles as a lawyer, CEO of an education NGO, legislator, and parent-child podcast host. She is the daughter of former Premier [Su Tseng-chang](/en/people/su-tseng-chang); while her political starting point certainly carries her family name, her subsequent work has been to transplant "helping children find their way" into educational programs, legislation, and a persona known as "Otter Mama."[^1] [^2] [^3]
 
-### The Legal Professional's Contrarian Choice: A "Detail Obsessive" from the Courtroom to the Construction Site
+When podcasts began gaining popularity in 2020, Su Chiao-hui did not follow other politicians in hosting current affairs programs. She recalled her reaction when staff suggested it during an interview: "Huh! But I don't want to keep talking about politics after work."[^4] Consequently, another version of her emerged outside the Legislative Yuan: picking up a microphone to tell stories to children and teach _Tâi-gí_ (Taiwanese).
 
-Su Chiao-hui's political starting point looks smooth from the outside but is full of contrast within. As the eldest daughter of Su Chen-chang — a defense attorney in the Formosa Incident — she inherited a lawyer's rigor and commitment to justice, yet chose the most "ground-level" path of legislation and local infrastructure. During her time as a lawyer at the Wankuo Law Office, she handled cold legal provisions and commercial disputes; upon entering the legislature, she converted that expertise into a tool for solving everyday problems, demonstrating the precision and care characteristic of a legal professional [^1].
+She did not leave politics; instead, she extended public service from legal codes and committees to the bedtime hours that children hear every day. Her tension lies here: a lawyer raised in a political family must simultaneously bear the "second-generation politician" label while proving her name is more than just a surname on a ballot.
 
-> 📝 Curator's Note: Law should not be only the text of a statute — it should be the tool that solves the problem of remote communities having no clean water to drink, and commuters having no road to travel. Su Chiao-hui's legal background gives her an almost obsessive attention to detail when handling local infrastructure, which has become her most distinctive contrast with conventional politicians.
+## First Seeing the Pace of Politics Through Children
 
-In the Legislative Yuan, Su Chiao-hui is known not for aggressive political slogans but for "legislative density" and "interpellation depth." She has been rated Outstanding Legislator by Citizens' Congress Watch (公督盟) for 16 consecutive terms across 13 sessions, and has placed first in the citizen evaluation multiple times — a record that demonstrates her substantive contributions to the legislative chamber [^2][^3]. The legislation she has advanced spans the comprehensive revision of the _Cancer Prevention Act_, the codification of the _New Resident Rights Protection Act_, and amendments to the _Sports Industry Development Act_, all aimed at using the force of law to provide stronger protections for socially vulnerable groups and specific communities [^4][^5][^6].
+Su Chiao-hui originally studied Social Work at National Taiwan University before transferring to the Department of Law. After qualifying as a lawyer, she worked at Wan Kuo Law Firm and also took trains to Ruifang to serve as a volunteer lawyer in rural areas.[^4] In 2006, she went to the United States for further studies, obtaining Master of Laws degrees from Boston University and the University of Pennsylvania.[^19] Official records for the 11th Legislative Yuan list her education as two Master of Laws degrees and a judicial track degree from NTU Law; records for the 9th term separately listed her as a "Doctor of Juridical Science (SJD) candidate at the University of Pennsylvania, USA."[^1] [^2]
 
-She has argued that the _Cancer Prevention Act_ should incorporate a mental health support system and improve medical communication training — this focus on the human dimension reflects her concern for medical human rights [^7]. In the amendments to the _Sports Industry Development Act_, she focused on establishing investment channels for the sports industry, channeling private capital into the sector and ensuring that the National Development Fund allocates a specified proportion to sports industry investment — injecting new energy into Taiwan's sports development [^8].
+After passing the lawyer examination in 2002, she joined Wan Kuo Law Firm as a litigation lawyer. In 2004, she served as the chief liaison for the lawyer support group of Chen Shui-bian's campaign headquarters and joined the legal team for Chen Shui-bian's "lawsuit to invalidate election results." In 2005, she served as a volunteer legal consultant for rural areas in Taipei County.[^2] [^17]
 
-### The "Detail Experiment" of Stitching Together the City: The Puzzle of Shulin, Yingge, and South Xinzhuang
+A 2004 Democratic Progressive Party (DPP) official press release discussed the points of contention in Chen Shui-bian and Lu Hsiu-lien's lawsuit to invalidate their election, including the scope of vote counting, procedures, and the burden of costs.[^18]
 
-For residents of Shulin, Yingge, and South Xinzhuang, Su Chiao-hui's accomplishments often manifest in "gaps" that have long been ignored. She does not pursue the moment of a ribbon-cutting; she cares about whether the "last mile" of a project can be completed, and how those projects genuinely improve residents' quality of life.
+Upon returning to Taiwan, she did not remain in law firms; in 2009, she transitioned to become the CEO of the Beyond Foundation.[^4] [^19] According to Beyond Foundation records, she launched the "Beyond Expert" project in 2012, inviting people from all walks of life to help children understand various professions and the world, having accompanied over 190,000 children. The foundation's introduction notes that she realized social change cannot rely solely on saving individual cases, leading her to enter the NGO sector to promote progressive ideas through education.[^5]
 
-#### 1. "Suturing" Rail Transit
+An interview in the October 2026 issue of _CommonWealth Magazine_ noted that she believes "saving people one by one is not enough; what Taiwan needs to change is politics," which led her to officially enter politics in 2016.[^4] One activity can accompany a group of children, but one law can potentially change the rules everyone must face.
 
-The MRT Wanda-Zhonghe-Shulin Line was once a phantom that local residents had heard about but never seen materialize. After taking office, Su Chiao-hui not only actively coordinated the Executive Yuan's approval of NT$77 billion in total funding, but also secured supplemental budget approval late in 2025, ensuring the full-line groundbreaking — including Executive Yuan approval of a financial revision plan for the Tucheng elevated section, enabling the New Taipei City government to successfully put the project out for tender [^9][^10]. Her demands regarding the MRT were not simply "complete it" but "suture it" — through optimization of elevated deck construction to reduce impact on local commercial areas, and by securing a NT$9.8 billion central government-fully-funded new southbound Highway 65 on-ramp at Xinzhuang to benefit more than 400,000 commuters in the South Xinzhuang and Shulin areas [^11].
+## In 2016, She Brought the Family Name into the 5th Constituency
 
-#### 2. The Disappearing Water Lines
+In 2016, Su Chiao-hui ran for legislator in New Taipei City's 5th constituency. Media reports stated she defeated an incumbent KMT legislator with a 56.11% vote share to officially enter Parliament; she was re-elected in 2020 and is listed as a candidate in the election bulletin for the 11th term of New Taipei City's 5th constituency in 2024.[^4] [^6] [^19]
 
-In remote mountain communities of Shulin, there were still residents who had long needed to trek out to collect spring water, facing chronic water access difficulties. Su Chiao-hui secured over NT$30 million to complete a long-overdue water supply connection project, resolving the basic livelihood needs of local residents [^12]. For her, this was "basic law" for civil rights — a concrete expression of the "protection of rights" dimension of her legal personality; she emphasizes that every citizen should have access to basic drinking water.
+The constituency includes Shulin, Yingge, and nine other villages such as Min'an Village in Xinzhuang District. This geographic scope is significant because when she discusses New Taipei later, she often breaks down abstract urban governance into school playgrounds, roads, commuting, and local culture. Data from the 11th Legislative Yuan shows she took office on February 1, 2024, serving on the Internal Affairs Committee, whereas in the 9th term, she served on the Education and Culture Committee.[^1] [^2] [^6]
 
-#### 3. "Micro-renovations" for Campuses
+Her father, Su Tseng-chang, is a former Premier and a highly recognizable figure in Taiwan's politics; therefore, "relying on her father" would not automatically disappear just because she was elected.[^4] Su Chiao-hui has not denied this background, nor can she deny it: growing up, she saw her father standing on streets handing out flyers; politics was a part of daily family life.[^4]
 
-She secured improvements for 38 schools across 186 projects, totaling NT$345 million [^13]. From old toilet renovations and running track resurfacing to the addition of barrier-free facilities — these "micro-renovation" projects are not as eye-catching as large landmarks, but they are the accomplishments that parents feel most directly, improving the learning environment and safety for students.
+However, the family provides an entrance, not the answer to every interpellation. She must establish a verifiable record of her expertise and working methods in the Legislative Yuan, which is why she has long discussed education, children and youth, culture, and local construction together, rather than merely using her father's political slogans to define herself.
 
-### Parliamentary Diplomacy and Gender Policy: Multi-Dimensional Political Management
+## Blue and Green Stand at Different Hoops, but the Education Committee Still Fixes Bills First
 
-Su Chiao-hui's political map does not end at New Taipei. On the international stage, she has actively participated in the Council of Asian Liberals and Democrats (CALD), promoting party-based diplomacy, and has led a next-generation staff delegation to the United States to strengthen cross-party Taiwan-US support [^14][^15]. She is acutely aware of Taiwan's particular international position, and uses parliamentary diplomacy to win greater visibility and support for Taiwan.
+In 2017, Su Chiao-hui served alongside KMT legislator Ko Chih-en on the Legislative Yuan's Education and Culture Committee. A report reprinted by the Citizens' Coalition for Legislative Watchdog (caucuses/watchdogs) recorded that the two discussed committee work in a friendly manner on radio programs; Su praised members of different parties for their respective expertise and noted that while the Education and Culture Committee engaged in fierce debates when opinions differed, they did not resort to voting at that time, instead forming consensus through communication.[^14]
 
-On gender and childcare policy, she is an active advocate. She was one of the first legislators to propose "additional subsidies for premature infants" and "childcare subsidies of NT$13,000 per month," and emphasizes that childcare policy should encompass four dimensions — knowledge, funding, space, and mental health — rather than stopping at cash transfers [^16][^17]. She also addresses gender equality issues, working through legislation and advocacy to build a more female- and family-friendly social environment.
+This record is not proof of "cross-party cooperation without conflict." The report also mentioned that the ruling and opposition parties still engaged in boycotts and physical confrontations during the deliberation of other bills; Su's own metaphor was that two teams on a court must stand on their respective sides and cannot shoot into the wrong hoop. The cooperation she described is more akin to acknowledging that opponents may also possess expertise in legislative amendment, even while political stances remain unchanged.[^14]
 
-### Controversies and Challenges: The Weight of History and the "Daddy's Girl" Label
+This interaction helps in understanding her parliamentary style, but it does not directly imply that every bill she proposes is successful. The value of parliamentary collaboration often lies not in eliminating differences, but in ensuring those differences can still be placed within the process of clause-by-clause discussion and amendment.
 
-Yet Su Chiao-hui's political path has not been without shadows. As a member of a political family, the "daddy's girl" label has followed her persistently. During the 2026 campaign, smear content appeared online again claiming her great-grandfather Su Yun-ying had been a "traitor" (漢奸) — attacks of this kind targeting ancestors have been repeatedly debunked as fabricated and have been categorically rejected by Su Chiao-hui herself [^18][^19]. In addition, as a ruling party legislator, her positions on legislative reform bills often become the focus of opposition attacks; she must balance maintaining the party line with responding to public opinion.
+## Committees Change, but Issues Still Center on Living Safety
 
-> 📝 Curator's Note: The halo of a political family is both an asset and a liability. Su Chiao-hui must find her own balance between the weight of history and the vision of the future. She once responded to external challenges with high emotional intelligence: "The past was 'charge-charge-charge' (衝衝衝) — now we need to add 'wise-wise-wise' (慧慧慧).'" The implication: beyond momentum, governance also requires wisdom and attention to detail. This has become her distinctive signature when facing challenges [^20].
+Su Chiao-hui's parliamentary work has not remained solely within the Education and Culture Committee. Official data from the 9th Legislative Yuan shows she served eight terms on the Education and Culture Committee; her official parliamentary reports state that in the first session of the 10th term, she moved to the Social Welfare and Environmental Hygiene Committee, overseeing epidemic prevention and major bills during the pandemic. In the first session of the 11th term, she entered the Internal Affairs Committee.[^1] [^2] [^16]
 
-She has even taken the form of the "Otter Mama" character in a podcast channel, using storytelling to interact with children and share parenting experiences and daily life, attempting to establish a warm, rational, maternal image outside the hard-edged political combat [^21]. This multidimensional management reflects her effort to open up a new kind of "symbiotic" political style beyond the traditional political framework — letting voters see a more three-dimensional, more human political figure.
+This transition expanded her issue scope from schools and culture to healthcare, social welfare, housing, local governance, and public safety. While she indeed established recognition through education and children's issues, a legislator's daily routine also includes budgets, bills, and administrative oversight across various committees.[^16]
 
-### Conclusion: More Than "Su Chen-chang 2.0"
+The bills she has spearheaded also span these fields. In the 10th term, she proposed an amendment to add Article 12-1 to the _Sports Industry Development Act_, which was reviewed alongside versions from the Executive Yuan and several other legislators; the proposal page listed it as "Review Completed (Third Reading)."[^24] In the 11th term, she proposed the _Draft Basic Law for New Residents_, which was reviewed alongside other new resident bills, with the proposal page also listing it as "Review Completed (Third Reading)." Her proposed _Amendment to the Cancer Prevention Act_ is listed as "Submitted for Review."[^25] [^26] She was also one of the proposers of the amendments to Articles 8 and 89 of the _Shipping Act_, which is listed in Legislative Yuan records as "Review Completed (Third Reading)."[^7]
 
-An article on Su Chiao-hui should not end with her academic credentials or family background, but with her attempt to "suture" the city of New Taipei. Starting from a lawyer's rigor, she applies professional knowledge to legislative lawmaking and local infrastructure, and through her insistence on details, gradually pieces together her own political map. Whether she can convert from "outstanding legislator" to "outstanding mayor" depends on whether she can demonstrate that those legal amendments pushed through in the legislature and those water supply lines fought for in the field can genuinely stitch together a more livable, more resilient New Taipei.
+Her office's "About Chiao-hui" page lists her roles as President of the Legislative Yuan Welfare Association, Chief Vice President of the Sustainable Development Goals Promotion Committee, and member of the DPP Central Standing Committee, Central Executive Committee, and Deputy Secretary-General of the Legislative Yuan Party Caucus; however, Legislative Yuan records list her position in the Welfare Association as Secretary-General.[^1] [^15]
 
-Her political path is a microcosm of Taiwan's democratic development process, showing how a new generation of political figures finds its own position and values between inheritance and innovation. In an era of "charge-ahead," Su Chiao-hui has chosen "wise-ahead" — using intelligence and detail to curate the future of Taiwan.
+## "Otter Mama" Brings Politics to Bedtime
 
----
+_Otter Mama's Chiao-Chiao Talk_ (水獺媽媽巧巧話) is the name by which Su Chiao-hui is most easily recognized by children. Her official introduction states: "When I am at work, I work hard, reviewing government budgets and formulating national laws... when I finish work, I transform into Otter Mama, telling stories to the little otters."[^3]
 
-### References
+The program began with her habit of telling stories to her two daughters and later developed into a podcast. Official data states the program has lasted six years, focusing on Taiwanese picture books, history, land, ecology, human rights, and _Tâi-gí_ instruction; the Taiwan Media Watchdog (Education Foundation) evaluation page listed it as the 24th "Quality Children and Youth Program" in 2024, with comments mentioning parent-child connection and mother-tongue education.[^3] [^10]
 
-[^1]: [Su Chiao-hui — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%98%87%E5%B7%A7%E6%85%A7) — Wikipedia entry.
+The program translates public issues into contexts children can understand: Taiwan's land can be told through stories, ecology through characters, and human rights can start from a single picture book. In an interview with _CommonWealth Magazine_, Su said: "Those children don't know he is Su Tseng-chang; they only know he is Grandpa Otter."[^4]
 
-[^2]: [Rated Outstanding Legislator by Citizens' Congress Watch for the 16th Time — Liberty Times](https://news.ltn.com.tw/news/politics/paper/1750950) — Liberty Times news report (2026-04-15).
+## Sixteen Evaluations and Candidacies
 
-[^3]: [Outstanding Legislator Must Be an Outstanding Mayor — Threads](https://www.threads.com/@yuehchin_lin/post/DXJQiEvGaUD/) — Threads social post (2026-04-15).
+Su Chiao-hui's official campaign website claims she has been evaluated as an "Excellent Legislator" 16 times across three terms by the Citizens' Coalition for Legislative Watchdog. A _Liberty Times_ report on the Watchdog's 2026 announcement of the previous term's evaluations noted she received recognition for the 16th time and took first place in citizen evaluations. These are public claims from evaluation results and candidate websites, which do not necessarily equate to the overall assessment of all voters.[^11] [^15]
 
-[^4]: [Review of the Dietitian Act and Cancer Prevention Act Amendments — Twreporter Congress Watch](https://lawmaker.twreporter.org/congress/a/144154) — The Reporter's Legislative Yuan platform.
+The same report also summarized her proposed bills and local work, including amendments to the Shipping Act, advocacy for the Cancer Prevention Fund, and securing funding for New Taipei transportation and campus construction. This content can be used to understand how she describes her political path, but it cannot alone prove the actual effectiveness of every policy.[^11]
 
-[^5]: [Final Day of the Legislature's First Session: New Resident Rights Codified! — Su Chiao-hui Facebook](https://www.facebook.com/chiaohui.su/posts/1049114779903691/) — Su Chiao-hui official Facebook page.
+Su Chiao-hui is running as a Democratic Progressive Party candidate for the 2026 New Taipei City mayoral election; basic information and entries for all candidates can be found in the [2026 Nine-in-One Elections](/elections/2026).
 
-[^6]: [Sports Industry Development Act Amendment: Establishing Investment Channels — Executive Yuan](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Executive Yuan website news (2026-04-12).
+## TPP Questions Sister's Company Subsidies, KMT Questions Construction Involvement
 
-[^7]: [Su Chiao-hui: Review of the Dietitian Act and Cancer Prevention Act Amendments — Twreporter](https://lawmaker.twreporter.org/congress/a/144154) — The Reporter's Legislative Yuan platform.
+In 2026, the Taiwan People's Party (TPP) alleged that the team related to Su Chiao-hui's younger sister, Su Chiao-chun, received government subsidies and investments during Su Tseng-chang's tenure as Premier, questioning a failure to avoid conflicts of interest. Su Chiao-hui called this political smearing, stating her sister shines through her own professional merit; the TPP filed a complaint with the Taipei District Prosecutors Office requesting an investigation.[^19]
 
-[^8]: [Sports Industry Development Act Amendment: Establishing Investment Channels — Executive Yuan](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Executive Yuan website news (2026-04-12).
+One such case involved subsidies for Weiru Technology: the TPP caucus questioned that after Su Chiao-chun became CEO of akaSwap under Weiru Technology, the company successively received subsidies from the Ministry of Culture, the Ministry of Economic Affairs, etc., without disclosing her relationship with Su Chiao-hui during applications. On June 22, 2026, the Ministry of Economic Affairs stated that during the subsidy program's execution, neither the person in charge, shareholder, nor director of Weiru Technology or its co-proposing firms was Su Chiao-chun; the subsidy recipient was Weiru Technology rather than the akaSwap platform, and based on current data, it is not possible to conclude a violation of the _Act on Recusal of Public Servants Due to Conflicts of Interest_.[^21] [^22]
 
-[^9]: [Shulin MRT Elevated Deck Construction Begins; NT$77 Billion Total Budget Approved — Threads](https://www.threads.com/@fa.writing/post/DXf2gMogfTG/) — Threads platform report (2026-04-24).
+The KMT questioned her level of involvement in local construction projects such as the MRT Sanxia Line and Fengming Station, alleging she was taking credit for local government achievements.[^19]
 
-[^10]: [Su Chiao-hui Secures Hundreds of Millions for New Taipei; 9 Bills Amended — UDN](https://udn.com/news/story/7323/9402130) — United Daily News (2026-03-25).
+## Local Construction and Political Reports on Office Website
 
-[^11]: [Su Chiao-hui Secures Budget and Coordinates Underground Power Lines to Advance New Taipei MRT — Yahoo News](https://tw.news.yahoo.com/%E8%98%87%E5%B7%A7%E6%85%A7%E7%88%AD%E5%8F%96%E9%A0%90%E7%AE%97-%E5%8D%94%E8%AA%BF%E9%9B%BB%E5%8A%9B%E5%9C%B0%E4%B8%8B%E5%8C%96-%E6%88%90%E5%8A%9F%E6%8E%A8%E5%8B%95%E6%96%B0%E5%8C%97%E6%8D%B7%E9%81%8B-052500907.html) — Yahoo News compilation (2026-02-21).
+Su Chiao-hui's office website once listed local construction projects including the commencement of the MRT Shulin Line, completion of the Taiwan Provincial Highway 65 Fuzhou Bridge ramp, the Xin-Shuying embankment path, the addition of the Fengming simple station, and the replacement of Xinzhuang water pipes; it also noted improvements to 38 schools, 186 construction items in Shulin, Yingge, and Xinzhuang, totaling NT$745 million.[^23]
 
-[^12]: [Resolving Shulin Mountain Communities' Long-Term Water Access Problems — Newtalk](https://newtalk.tw/news/view/2026-02-27/1021737) — Newtalk News (2026-02-27).
+Her successive "Chiao-hui Reports" (巧會報) adopt a similar reporting format: the page for the first session of the 11th term in 2024 specified her move to the Internal Affairs Committee, while the 2025 page organized parliamentary work around issues such as housing, animal protection, fraud prevention, childcare, and pensions.[^16]
 
-[^13]: [About Chiao-hui — School Construction Improvements — Su Chiao-hui Official Website](https://chiao.tw/about/) — Official legislator website.
+## Walking from "Su Tseng-chang's Daughter" to Her Own Name
 
-[^14]: [Su Chiao-hui Legislative Office Staff Emily's Experience at the 2025 Diplomatic Capacity-Building Camp — DPP International Threads](https://www.threads.com/@dpp_international/post/DXHDascEXfO/) — DPP International Department Threads (2026-04-14).
+Su Chiao-hui's story does not have a clean "tearing off the label" moment. Her family background is both a real resource and a long-term shadow; her legal and educational experiences are real accumulations, but they cannot automatically erase political questions regarding interests and power. A more factual description is that she has been constantly adding new content to the same name.
 
-[^15]: [Strong Party Diplomacy Results! Wu Yi-rou Elected CALD Youth Vice-Chair — DPP](https://www.dpp.org.tw/content_print/media/11513) — DPP official press release (2026-03-31).
+In 2012, she brought professional imagination to children's lives; in 2016, she brought educational issues into Parliament; in 2020, she turned the thought of "not wanting to talk politics after work" into Otter Mama. With each transition, her previous identity did not disappear, but rather continued to follow her.
 
-[^16]: [Childcare Platforms Clash: Su Chiao-hui Was First to Propose Additional Premature Infant Subsidies of NT$30,000 — Yahoo News](https://tw.news.yahoo.com/%E8%82%B2%E5%85%92%E6%94%BF%E8%A6%8B%E9%96%8B%E6%88%B0-%E7%B6%A0%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E8%98%87%E5%B7%A7%E6%85%A7-%E6%9C%80%E6%97%A9%E6%8F%90%E5%87%BA%E5%8A%A0%E7%A2%BC%E6%97%A9%E7%94%A2%E5%85%92%E8%A3%9C%E8%B2%BC3%E8%90%AC-041402244.html) — Yahoo News compilation (2026-03-27).
+That opening line about "not wanting to keep talking about politics after work" did not ultimately shut politics out of the door. She simply changed the way she spoke: from legal codes to stories, from interpellations to companionship, and from "saving people one by one is not enough" to attempting to make the system more proactive and widespread.
 
-[^17]: ["I Was First to Propose Childcare Policy" — Su Chiao-hui: Caring for Both Children and Elders — UDN](https://udn.com/news/story/124652/9408380) — United Daily News (2026-03-28).
+## References
 
-[^18]: [Great-Grandfather Smeared Again as 'Traitor' — Su Chiao-hui: Original Author Already Clarified 'All Fabricated' — Yahoo News](https://tw.news.yahoo.com/%E6%9B%BE%E7%A5%96%E7%88%B6%E5%86%8D%E9%81%AD%E6%8A%B9%E9%BB%91%E7%82%BA-%E6%BC%A2%E5%A5%B8-%E8%98%87%E5%B7%A7%E6%85%A7-%E5%8E%9F%E4%BD%9C%E8%80%85%E6%97%A9%E5%B7%B2%E9%97%A2%E8%AC%A0-%E5%85%A8%E6%8E%8F%E9%80%A0-012117959.html) — Yahoo News compilation (2026-03-15).
+[^1]: [Legislative Yuan Global Information Network: Legislator Su Chiao-hui (11th Term)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46860) — Data for 11th term legislator, listing education, start of term on Feb 1, 2024, Internal Affairs Committee, and Secretary-General of the Welfare Association.
 
-[^19]: [Campaign Ancestor Smears Again? Tsai Cheng-yuan Claims Su Chiao-hui's Great-Grandfather Caused Massacre — Fount Media](https://www.fountmedia.io/article/361190) — Fount Media (2026-03-16).
+[^2]: [Legislative Yuan Global Information Network: Legislator Su Chiao-hui (9th Term)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=1917) — Data for 9th term legislator, listing SJD candidate at UPenn, eight terms on Education and Culture Committee, and 2004 lawyer support group experience.
 
-[^20]: [Yeh Yuan-chih Calls Her a Coattail Rider; Su Chiao-hui High-EQ Reply: 'The Past Was Charge-Ahead, Now Add Wise-Ahead' — Facebook](https://www.facebook.com/story.php?story_fbid=1160754182085901&id=100044539895059) — Facebook news video record.
+[^3]: [Su Chiao-hui 2026: Otter Mama's Chiao-Chiao Talk](https://chiao.tw/ottermama) — Program introduction from Su Chiao-hui's campaign website, including her "at work/off work" self-description and program scope.
 
-[^21]: [Su Chiao-hui Official Facebook — Otter Mama's Chiao-Chiao Talk](https://www.facebook.com/chiaohui.su/) — Su Chiao-hui official Facebook fan page.
+[^4]: [CommonWealth Magazine: Interview with Su Chiao-hui / After-work life without politics creates the "Otter Mama" universe](https://www.businesstoday.com.tw/article/category/183027/post/202610240006/) — October 2026 interview, recording her transition from social work to law, becoming CEO of Beyond Foundation in 2009, her election in 2016, and starting the podcast.
+
+[^5]: [Beyond Foundation: Founder of Beyond Expert Project—Su Chiao-hui](https://eball.tw/node/100020) — Beyond Foundation introduction regarding the 2012 launch of the Beyond Expert project and accompanying over 190,000 children.
+
+[^6]: [Central Election Commission: 11th Legislative Yuan Election New Taipei City 5th Constituency Bulletin](https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/03%E6%96%B0%E5%8C%97%E5%B8%82/%E7%AC%AC05%E9%81%B8%E8%88%89%E5%8D%80/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E7%AC%AC5%E9%81%B8%E8%88%89%E5%8D%80.pdf) — 2024 election bulletin, specifying the 5th constituency range (Shulin, Yingge, and nine villages in Xinzhuang District) and candidate information.
+
+[^7]: [Legislative Yuan Proceedings and Gazette Information Network: Amendment to Articles 8 and 89 of the Shipping Act](https://ppg.ly.gov.tw/ppg/bills/202110164380000/details) — Legislative proposal page; proposers include Su Chiao-hui and 17 others; status is "Review Completed (Third Reading)."
+
+[^10]: [Taiwan Media Watchdog Education Foundation: Otter Mama's Chiao-Chiao Talk](https://www.mediawatch.org.tw/fine-program/10504) — 2024 24th Quality Children and Youth Program evaluation page, with comments on parent-child connection and mother-tongue education.
+
+[^11]: [Liberty Times: 16th Time Recognized as Excellent Legislator by Watchdog](https://news.ltn.com.tw/news/politics/paper/1750950) — April 2026 report, recording her 16th recognition as an excellent legislator by the Watchdog and taking first place in citizen evaluations.
+
+[^14]: [Reprinted by Citizens' Coalition for Legislative Watchdog: Good relations between Blue and Green in Education Committee; Green legislator discusses new vision for Parliament](https://ccw.org.tw/news/-604) — Watchdog reprint of a 2017 Taiwan Awakening report, recording her discussion with Ko Chih-en on committee operations and the "wrong hoop" metaphor.
+
+[^15]: [Su Chiao-hui Official Website: About Chiao-hui](https://chiao.tw/about/) — Experience self-description from Su Chiao-hui's campaign website, listing 16 times as an excellent legislator and roles such as President of the Welfare Association.
+
+[^16]: [Su Chiao-hui Official Website: Chiao-hui Report / Political Achievements](https://chiao.tw/chiao-report/) — Successive term reports from Su Chiao-hui's office, recording committee transitions and annual political issues.
+
+[^17]: [NOWnews: Today's Youngest / Shedding the "relying on dad" label, she wins hearts with professionalism](https://today.line.me/tw/v3/article/GglWBjQ) — 2023 NOWnews profile, listing 2002 lawyer exam, 2004 lawyer support group, and 2005 rural volunteer lawyer experience.
+
+[^18]: [Democratic Progressive Party: Press Release for Presidential/Vice Presidential Lawyer Team](https://www.dpp.org.tw/media/contents/1563) — 2004 DPP press release explaining points of contention in the lawsuit to invalidate election results regarding vote counting scope, procedures, and costs.
+
+[^19]: [BBC News Chinese: New Taipei Mayoral Race: "Second-generation politician" Su Chiao-hui vs. "Professional Deputy" Lee Sichuan](https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad) — October 2026 BBC Chinese report, summarizing her studies, 2009 role at Beyond Foundation, 2020 re-election, and questioning by TPP and KMT.
+
+[^21]: [United Daily News: TPP alleges Weiru Technology case involves conflict of interest; MOEA: Cannot determine illegality yet](https://udn.com/news/story/7238/9581704) — June 22, 2026 report, recording the TPP caucus's questioning of the Weiru Technology subsidy and the Ministry of Economic Affairs' response.
+
+[^22]: [Liberty Times: MOEA: All entities in Weiru Technology subsidy case are not Su Chiao-chun; cannot determine violation of conflict of interest rules](https://ec.ltn.com.tw/article/breakingnews/5480412) — June 22, 2026 Liberty Financial report, recording the Ministry of Economic Affairs' explanation regarding subsidies to Weiru Technology from the SME Administration and Business Administration.
+
+[^23]: [Su Chiao-hui Official Website: About Chiao-hui (Archived June 12, 2026)](http://web.archive.org/web/20260612144430/https://chiao.tw/about/) — Old version of campaign website page, listing self-reported achievements including MRT Shulin Line, Fuzhou Bridge ramp, Fengming simple station, and 186 construction items across 38 schools totaling NT$745 million.
+
+[^24]: [Legislative Yuan Proceedings and Gazette Information Network: Amendment to add Article 12-1 to the Sports Industry Development Act](https://ppg.ly.gov.tw/ppg/bills/202103145180000/details) — 10th term legislative proposal page; proposers include Su Chiao-hui and 19 others; status after joint review is "Review Completed (Third Reading)."
+
+[^25]: [Legislative Yuan Proceedings and Gazette Information Network: Draft Basic Law for New Residents](https://ppg.ly.gov.tw/ppg/bills/202110037370000/details) — 11th term legislative proposal page; proposers include Su Chiao-hui and 25 others, reviewed alongside the Draft Act for the Protection of the Rights of New Residents.
+
+[^26]: [Legislative Yuan Proceedings and Gazette Information Network: Amendment to the Cancer Prevention Act](https://ppg.ly.gov.tw/ppg/bills/202110067670000/details) — 11th term legislative proposal page; proposers include Su Chiao-hui and 29 others; status is "Submitted for Review."

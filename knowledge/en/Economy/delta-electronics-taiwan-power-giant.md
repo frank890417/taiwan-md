@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台達電子.md'
-sourceCommitSha: 'bf0ce371e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0c0aec93dc48d894'
 sourceBodyHash: 'sha256:85c567c76ec730ad'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-11-17T17:53:34.654462+00:00'
 ---
 
 > **30-second overview:** In 1971, a refugee student who had left his parents in Fujian at age 13 and come to Taiwan with his uncle raised NT$300,000 to found Delta Electronics in Xinzhuang.
