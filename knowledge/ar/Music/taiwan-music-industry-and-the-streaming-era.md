@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
-sourceCommitSha: '10c444b35'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f83026c30713b729'
 sourceBodyHash: 'sha256:15454291ed0f5b85'
-translatedAt: '2026-10-03T04:11:36+08:00'
+translatedAt: '2026-11-17T19:25:05.353628+00:00'
 ---
 
 # صناعة الموسيقى في تايوان والعصر البثّي: من متاجر الأسطوانات إلى المنصات الرقمية — رحلة التحوّل
