@@ -73,7 +73,7 @@ The issuance of the GGM label looks not only at quality but also controls quanti
 
 For many Taiwanese people, memories of goat milk begin with a crisp sound at five in the morning—the sound of the milkman placing glass bottles into the green "fresh delivery boxes" hanging on the door.
 
-This bottle of goat milk was once the start of the morning for many families. Netizens recall that in winter, the goat milk bottles always felt "warm to the touch," and even carried a unique milky scent; it was the smell that meant "as soon as the milk aroma appears, it's time to go to school" [^11]. The way the glass cap was opened was also a ritual: tearing off the outer plastic film and then piercing the inner seal with a small plastic needle. Even if some children initially resisted due to the taste, under their parents' insistence on "nutritional supplementation," drinking goat milk became a collective daily routine for Taiwanese students [^_12].
+This bottle of goat milk was once the start of the morning for many families. Netizens recall that in winter, the goat milk bottles always felt "warm to the touch," and even carried a unique milky scent; it was the smell that meant "as soon as the milk aroma appears, it's time to go to school" [^11]. The way the glass cap was opened was also a ritual: tearing off the outer plastic film and then piercing the inner seal with a small plastic needle. Even if some children initially resisted due to the taste, under their parents' insistence on "nutritional supplementation," drinking goat milk became a collective daily routine for Taiwanese students [^12].
 
 This "daily subscription service," practiced even earlier than Netflix or Spotify, reached its peak during Taiwan's economic takeoff in the 1980s.
 

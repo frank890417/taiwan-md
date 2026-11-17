@@ -160,7 +160,7 @@ The "**Taiwan Shield**" consists of Tiangong missiles, various air defense, anti
 
 But the bill's fate in the Legislative Yuan was highly unfavorable.
 
-From its submission in November 2025 through December 23, 2025, the Legislative Yuan's Procedure Committee, with blue-white legislators leveraging their majority, **blocked** the NT$1.25 trillion defense special act from being placed on the legislative agenda for the **fourth time**.[^14] KMT Legislator Lo Chih-chiang's argument was: "The one truly blocking the bill is President Lai Ching-te, because President Lai proposed this special act but dares not come to the Legislative Yuan to report and take questions — President Lai himself is blocking the arms procurement."[^^14]
+From its submission in November 2025 through December 23, 2025, the Legislative Yuan's Procedure Committee, with blue-white legislators leveraging their majority, **blocked** the NT$1.25 trillion defense special act from being placed on the legislative agenda for the **fourth time**.[^14] KMT Legislator Lo Chih-chiang's argument was: "The one truly blocking the bill is President Lai Ching-te, because President Lai proposed this special act but dares not come to the Legislative Yuan to report and take questions — President Lai himself is blocking the arms procurement."[^14]
 
 DPP Legislator Wang I-chuan responded: "The KMT says it wants to strengthen the Republic of China's defense, but in reality it dares not schedule the bill — it's laughable."[^14]
 

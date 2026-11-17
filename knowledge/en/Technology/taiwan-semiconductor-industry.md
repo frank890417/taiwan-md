@@ -75,7 +75,7 @@ The core of the foundry model is trust. Customers must believe that TSMC will no
 
 ## Burn J. Lin and ASML: Two "Small Players" Betting on Water Immersion
 
-Foundry is not just about TSMC. Reader [@malathrone_21k_running](https://www.threads.com/@malathrone_21k_running) added this crucial historical thread in the comments: sharing the same Philips lineage as TSMC is ASML—a lithography company spun off from Dutch Philips in 1984, which today is the world's sole supplier of EUV (extreme ultraviolet) machines. Thirty years ago, both companies were "small players" overlooked by industry giants[^asml-philcept].
+Foundry is not just about TSMC. Reader [@malathrone_21k_running](https://www.threads.com/@malathrone_21k_running) added this crucial historical thread in the comments: sharing the same Philips lineage as TSMC is ASML—a lithography company spun off from Dutch Philips in 1984, which today is the world's sole supplier of EUV (extreme ultraviolet) machines. Thirty years ago, both companies were "small players" overlooked by industry giants[^asml-philips].
 
 The key to the story is a Taiwanese engineer named Burn J. Lin (林本堅). In 1992, he worked on lithography technology at IBM Watson Research Center, and in 2000, he returned to Taiwan to join TSMC as R&D Director[^lin-bio]. At that time, the next step for lithography was 157nm deep ultraviolet; Nikon and Intel bet on this path, but 157nm faced continuous issues: birefringence problems with calcium fluoride lenses, excessive absorption of this wavelength by thin films, and difficult process integration[^157nm-fail].
 
@@ -83,7 +83,7 @@ In 2002, at an SPIE optical conference, Burn J. Lin proposed a radical idea: "Ke
 
 Nikon did not believe it and continued to bet on 157nm. ASML was willing to take the gamble—it was also a "small player," much like TSMC, searching for physical leverage to flip the script. In 2003, ASML began developing the 193nm immersion (193i) lithography machine, achieving mass production in 2007, and sustaining the industry through **six generations** up to today's EUV[^immersion-litho][^cw-lin-interview].
 
-"Nikon was afraid of the heat and didn't dare do immersion; ASML and we simply had to figure it out ourselves." This technological path pushed Nikon off its lithography throne[^cw-lan-interview]. Thirty years ago, two small players each made a bet; today, one is the world's only EUV machine manufacturer, and the other is the world's only 2nm foundry. The two seeds planted by Dutch Philips have met on the same stage in the 21st century.
+"Nikon was afraid of the heat and didn't dare do immersion; ASML and we simply had to figure it out ourselves." This technological path pushed Nikon off its lithography throne[^cw-lin-interview]. Thirty years ago, two small players each made a bet; today, one is the world's only EUV machine manufacturer, and the other is the world's only 2nm foundry. The two seeds planted by Dutch Philips have met on the same stage in the 21st century.
 
 ## A 50-Year Materials Lineage: From Silicon to GaN to Topological Superconductors
 

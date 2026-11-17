@@ -70,7 +70,7 @@ At the 15th Awards in 2004, Hsieh Yu-wei won the inaugural Best Hakka Vocalist a
 
 ### 2007: Lin Sheng-xiang's Refusal — The Most Powerful Policy Statement
 
-At the 18th Golden Melody Awards in 2007, Lin Sheng-xiang won both "Best Hakka Singer" and "Best Hakka Album" with _Planting Trees_. He refused both awards on stage, donated the prize money, and issued a public statement: **music should be classified by genre; classification by language puts the cart before the horse.** He challenged the system: "Why can Best Producer cross language boundaries, but albums cannot?"[^^6]
+At the 18th Golden Melody Awards in 2007, Lin Sheng-xiang won both "Best Hakka Singer" and "Best Hakka Album" with _Planting Trees_. He refused both awards on stage, donated the prize money, and issued a public statement: **music should be classified by genre; classification by language puts the cart before the horse.** He challenged the system: "Why can Best Producer cross language boundaries, but albums cannot?"[^6]
 
 This incident ignited a public debate over the Golden Melody Awards' language-based classification system and directly led to the Ministry of Culture establishing the **Golden Indie Music Awards** in 2010, which replaced language categories with genre-based ones—rock, folk, hip-hop, electronic, jazz, and others. In 2017, the Golden Melody Awards added a language-neutral Album of the Year award, which can be seen as a partial response to Lin Sheng-xiang's declaration.
 

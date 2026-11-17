@@ -29,7 +29,7 @@ translatedAt: '2026-08-09T10:51:39+08:00'
 
 In 1891 (the 17th year of the Guangxu reign of the Qing Dynasty), Lu Qitou, a vendor from Jiangcuodian, Minxiong Township, Chiayi, was fretting over a pile of damp peanut candy. Continuous rain had rendered the originally crispy peanut candy soft and unsellable. To avoid wasting precious ingredients, he attempted to place the candy in a pot, adding maltose, white sugar, and flour to re-boil and stir the mixture, then kneading it into blocks after cooling. This soft candy, born from a spirit of thrift, accidentally solved the moisture sensitivity of peanut candy; its chewy, non-stick texture became the prototype for today's Xinggang candy [^1][^3].
 
-Lu Qitou initially sold his wares along the streets of Minxiong and Xinggang. Because the candy pieces, when pulled and broken, left behind thin, long tails resembling small mice, locals jokingly called it "Bird-Mouse Candy." Later, the Lu family moved to the east side of Xinggang Fengtian Temple. Because the candy contained two whole peanuts, they refined the name to _Shuangrenrun_ (Double-Kernel Moistness), symbolizing completeness and harmony [^2][^ 5].
+Lu Qitou initially sold his wares along the streets of Minxiong and Xinggang. Because the candy pieces, when pulled and broken, left behind thin, long tails resembling small mice, locals jokingly called it "Bird-Mouse Candy." Later, the Lu family moved to the east side of Xinggang Fengtian Temple. Because the candy contained two whole peanuts, they refined the name to _Shuangrenrun_ (Double-Kernel Moistness), symbolizing completeness and harmony [^2][^5].
 
 ### From the Temple Entrance to the Exhibition: "Divine Confectionery"
 

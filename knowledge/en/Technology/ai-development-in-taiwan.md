@@ -209,13 +209,13 @@ The number of AI startups in Taiwan has grown significantly since 2016:
 **Representative AI Startups:**
 
 1. **Appier (Peixing Interactive Technology)**
-   - Often referred to as "Taiwan's first unicorn"[^\9]
-   - Listed on the Tokyo Stock Exchange Mothers Board in March 2021[^\10]
+   - Often referred to as "Taiwan's first unicorn"[^9]
+   - Listed on the Tokyo Stock Exchange Mothers Board in March 2021[^10]
    - Business scope covers artificial intelligence and data analysis
 
 2. **CloudMinds**
    - Digital pathology and medical imaging AI
-   - Digital pathology image management system obtained EU IVDR and US FDA certification[^\7]
+   - Digital pathology image management system obtained EU IVDR and US FDA certification[^7]
 
 ### Large Enterprise AI Transformation
 
@@ -269,7 +269,7 @@ The generative AI wave has opened up new space for vertical field applications. 
 
 ### "AI Taiwan" Strategic Goals
 
-The official quantitative goals have two levels: the AI Action Plan 2.0 aims to achieve industry introduction of AI benefits and software and hardware output value increase of more than NT$250 billion before 2026[^\1]; in 2025, the Executive Yuan will put forward the "AI New Ten Major Constructions," with a goal of creating NT$15 trillion in output value by 2040[^\11]. The qualitative direction focuses on becoming the Asia-Pacific AI application center, establishing global quality standards for AI + manufacturing, and enhancing sustainable development capabilities through AI resilience society goals.
+The official quantitative goals have two levels: the AI Action Plan 2.0 aims to achieve industry introduction of AI benefits and software and hardware output value increase of more than NT$250 billion before 2026[^1]; in 2025, the Executive Yuan will put forward the "AI New Ten Major Constructions," with a goal of creating NT$15 trillion in output value by 2040[^11]. The qualitative direction focuses on becoming the Asia-Pacific AI application center, establishing global quality standards for AI + manufacturing, and enhancing sustainable development capabilities through AI resilience society goals.
 
 ### Key Strategic Actions
 
@@ -278,7 +278,7 @@ The official quantitative goals have two levels: the AI Action Plan 2.0 aims to 
    - Ensure the autonomy of key AI services
 
 2. **AI Legal Perfection**
-   - The Artificial Intelligence Basic Law was passed on December 23, 2025, with the National Science and Technology Council as the competent authority[^\12]
+   - The Artificial Intelligence Basic Law was passed on December 23, 2025, with the National Science and Technology Council as the competent authority[^12]
    - Cross-departmental AI governance mechanism
 
 3. **International AI Alliance**
