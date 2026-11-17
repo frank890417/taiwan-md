@@ -35,9 +35,9 @@ Mùng Hai Tết âm lịch, nhà bà ngoài. Mọi người ăn cơm xong, bát 
 
 Bốn người ngồi vào, bài được trút ra trên bàn, tiếng rửa bài vang lớn hơn cả bài hát cụng trên tivi. Đứa trẻ bị đuổi vào phòng khách xem hoạt hình, nhưng bạn nhìn trộm qua khe cửa: bà rút một lá bài, không cần nhìn đã ném ra, ba giây sau kêu "hàng", ba người còn lại bắt đầu tính tiền.
 
-Bạn hỏi bà thắng bao nhiêu, bà nói "ba đáy sáu điểm". Bạn hỏi đó là bao nhiêu, bà nói "bé con có tai mà không có miệng".[^1]
+Bạn hỏi bà thắng bao nhiêu, bà nói "ba đáy sáu điểm". Bạn hỏi đó là bao nhiêu, bà nói "bé con có tai mà không có miệng".
 
-Đây là hiện trường khởi mộng mahjong của hầu hết người Đài Loan. Không có sách giáo khoa, không có hướng dẫn quy tắc. Kiến thức về mahjong mười sáu lá Đài Loan trong hàng chục năm được truyền thừa bằng một cách rất sơ khai: ngồi bên cạnh xem, xem cho tới khi nào biết thì thôi. Hỏi quá nhiều sẽ bị chê phiền.[^2]
+Đây là hiện trường khởi mộng mahjong của hầu hết người Đài Loan. Không có sách giáo khoa, không có hướng dẫn quy tắc. Kiến thức về mahjong mười sáu lá Đài Loan trong hàng chục năm được truyền thừa bằng một cách rất sơ khai: ngồi bên cạnh xem, xem cho tới khi nào biết thì thôi. Hỏi quá nhiều sẽ bị chê phiền.[^1]
 
 ---
 
@@ -45,13 +45,13 @@ Bạn hỏi bà thắng bao nhiêu, bà nói "ba đáy sáu điểm". Bạn hỏ
 
 Đài Loan chơi mười sáu lá, khác hẳn với tất cả các loại mahjong chính thống khác trên thế giới.
 
-Mahjong Nhật dùng mười ba lá, có hệ thống "立直" (Richi), quy tắc là "không cách nào thắng nếu không có tay chắc", cấu trúc sạch sẽ. Mahjong quốc tế của Trung Quốc thống nhất quy tắc chính thức, có 81 cách thắng khác nhau, giống như một cuốn sách tham khảo để thi cử. Mahjong Hong Kong cũng dùng mười ba lá, tính điểm đơn giản, tốc độ nhanh.[^3]
+Mahjong Nhật dùng mười ba lá, có hệ thống "立直" (Richi), quy tắc là "không cách nào thắng nếu không có tay chắc", cấu trúc sạch sẽ. Mahjong quốc tế của Trung Quốc thống nhất quy tắc chính thức, có 81 cách thắng khác nhau, giống như một cuốn sách tham khảo để thi cử. Mahjong Hong Kong cũng dùng mười ba lá, tính điểm đơn giản, tốc độ nhanh.[^2]
 
-Mahjong mười sáu lá của Đài Loan? Có ba lá bài thêm trong tay, số tổ hợp tăng bùng nổ. 144 lá bài gồm các loại vạn, bông, tưởng, tự đại (từ), cộng thêm 8 lá hoa (xuân hạ thu đông, mai lan trúc cúc). Lá hoa được cộng điểm trực tiếp, khi tập hợp được các lá đặc biệt còn có thể thắng ngay lập tức. "Bát tiên qua hải" (tập hợp cả 8 lá hoa) được tính 8 điểm, tương đương mở chai champagne ngay.[^4]
+Mahjong mười sáu lá của Đài Loan? Có ba lá bài thêm trong tay, số tổ hợp tăng bùng nổ. 144 lá bài gồm các loại vạn, bông, tưởng, tự đại (từ), cộng thêm 8 lá hoa (xuân hạ thu đông, mai lan trúc cúc). Lá hoa được cộng điểm trực tiếp, khi tập hợp được các lá đặc biệt còn có thể thắng ngay lập tức. "Bát tiên qua hải" (tập hợp cả 8 lá hoa) được tính 8 điểm, tương đương mở chai champagne ngay.[^3]
 
 Nhưng điều thực sự khiến người ngoài suy sụp là **điểm số**.
 
-Đơn vị tính điểm của mahjong Đài Loan là "điểm", công thức tính tiền của mỗi ván bài là: (đáy + số điểm) × 3. Nguồn gốc của điểm số có nhiều dạng: rút bài tự thắng thêm điểm, tay sạch thêm điểm, bài hoa thêm điểm, hình dáng bài đặc biệt thêm điểm. Một ván tay sạch tự thắng tối thiểu 3 đáy 10 điểm, là bài lớn truyền thống nhất.[^5] Mỗi bàn còn có thể tự thêm bớt "quy tắc nhà", chẳng hạn như tiếp zhuang thêm điểm, kéo zhuang thêm điểm, vớt mặt nước tính mấy điểm, tất cả đều là quy ước miệng, không được ghi ở đâu cả.
+Đơn vị tính điểm của mahjong Đài Loan là "điểm", công thức tính tiền của mỗi ván bài là: (đáy + số điểm) × 3. Nguồn gốc của điểm số có nhiều dạng: rút bài tự thắng thêm điểm, tay sạch thêm điểm, bài hoa thêm điểm, hình dáng bài đặc biệt thêm điểm. Một ván tay sạch tự thắng tối thiểu 3 đáy 10 điểm, là bài lớn truyền thống nhất.[^4] Mỗi bàn còn có thể tự thêm bớt "quy tắc nhà", chẳng hạn như tiếp zhuang thêm điểm, kéo zhuang thêm điểm, vớt mặt nước tính mấy điểm, tất cả đều là quy ước miệng, không được ghi ở đâu cả.
 
 > **📝 Ghi chú của người cố gắng tìm hiểu**
 > Quy tắc mahjong Đài Loan chưa bao giờ được thống nhất. Nhật Bản có "Liên đoàn Mahjong Nhật Bản" thống nhất quy tắc, Trung Quốc có "Mahjong quốc tế", nhưng "quy tắc chính thức" của mười sáu lá Đài Loan chính là "quy tắc của nhà mình". Cách tính điểm của mỗi gia đình đều có những khác biệt tinh tế, điều này chính nó là một phần của văn hoá: quy tắc nói chung đó là sự tồn tại cụ thể của ký ức gia đình.
@@ -62,9 +62,9 @@ Nhưng điều thực sự khiến người ngoài suy sụp là **điểm số*
 
 Những người làm ra Sao Ba Thiếu Một của IGS, câu chuyện khởi nghiệp chính nó cũng giống như một ván bài.
 
-Năm 1989, ba sinh viên từng học chung tại Viện Công nghệ Công nghiệp Đài Loan (nay là Đại học Khoa học và Công nghệ Đài Loan) quyết định khởi nghiệp cùng nhau. Chủ tịch Lý Kha Chu, Tổng giám đốc Giang Thuận Thành, Tổng giám đốc Bộ phận Máy chơi Thương mại Trần A Kiến, những ngày sinh viên đã là bạn đánh banh lẫn chơi bài. Giang Thuận Thành ban đầu làm kỹ sư phần cứng tại Philips, Trần A Kiến làm lập trình ở Saba, hai người đều là những tân quý tộc công nghệ với mức lương cao. Lý Kha Chu mời họ tham gia, hai người tự nguyện giảm lương.[^6]
+Năm 1989, ba sinh viên từng học chung tại Viện Công nghệ Công nghiệp Đài Loan (nay là Đại học Khoa học và Công nghệ Đài Loan) quyết định khởi nghiệp cùng nhau. Chủ tịch Lý Kha Chu, Tổng giám đốc Giang Thuận Thành, Tổng giám đốc Bộ phận Máy chơi Thương mại Trần A Kiến, những ngày sinh viên đã là bạn đánh banh lẫn chơi bài. Giang Thuận Thành ban đầu làm kỹ sư phần cứng tại Philips, Trần A Kiến làm lập trình ở Saba, hai người đều là những tân quý tộc công nghệ với mức lương cao. Lý Kha Chu mời họ tham gia, hai người tự nguyện giảm lương.[^5]
 
-Giai đoạn khởi nghiệp, mùa bán hàng mạnh buộc phải thức đêm để sửa máy, mùa yên tĩnh ba người chỉ đánh mahjong và đánh bàn. Nền tảng của IGS là làm máy chơi game thương mại, năm 1996 phát triển máy chơi game 2D của riêng mình PGM (PolyGame Master), trở thành nhà sản xuất duy nhất ở châu Á ngoài Nhật Bản có máy chơi game riêng.[^7]
+Giai đoạn khởi nghiệp, mùa bán hàng mạnh buộc phải thức đêm để sửa máy, mùa yên tĩnh ba người chỉ đánh mahjong và đánh bàn. Nền tảng của IGS là làm máy chơi game thương mại, năm 1996 phát triển máy chơi game 2D của riêng mình PGM (PolyGame Master), trở thành nhà sản xuất duy nhất ở châu Á ngoài Nhật Bản có máy chơi game riêng.[^6]
 
 Nhưng điều khiến IGS thực sự từ nhà sản xuất máy chơi game trở thành "vua cổ phiếu trò chơi" là một quyết định rất Đài Loan: chuyển mahjong thành trò chơi máy tính.
 
@@ -72,11 +72,11 @@ Nhưng điều khiến IGS thực sự từ nhà sản xuất máy chơi game tr
 
 ## Năm 2001: Vũ Tông Hiến dạy bạn đánh bài
 
-Năm 2001, IGS phát hành phiên bản PC của Sao Ba Thiếu Một. Khái niệm đơn giản tới mức gần như thiên tài: tìm những nghệ sĩ Đài Loan để lồng tiếng, khiến bạn cảm thấy như đang đánh bài với các ngôi sao.[^8]
+Năm 2001, IGS phát hành phiên bản PC của Sao Ba Thiếu Một. Khái niệm đơn giản tới mức gần như thiên tài: tìm những nghệ sĩ Đài Loan để lồng tiếng, khiến bạn cảm thấy như đang đánh bài với các ngôi sao.[^7]
 
-Vũ Tông Hiến, Đường Từ Thánh, Vương Thái Hoa, Trịnh Vũ Linh, hai thế hệ phiên bản cộng lại hơn 14 nghệ sĩ tham gia lồng tiếng. Mỗi nhân vật đều có gói tiếng thoại riêng của mình: khi bao bài toàn bộ bài ngoài tay có lời chế nhạo, khi thắng có lời hống hách, khi phóng bài có tiếng than khóc. Tiếng cười của Vương Thái Hoa và lời bắt chước của Đường Từ Thánh, khiến việc đánh bài từ "tính toán toán học yên tĩnh" trở thành "một bàn người tranh luận nhau".[^9]
+Vũ Tông Hiến, Đường Từ Thánh, Vương Thái Hoa, Trịnh Vũ Linh, hai thế hệ phiên bản cộng lại hơn 14 nghệ sĩ tham gia lồng tiếng. Mỗi nhân vật đều có gói tiếng thoại riêng của mình: khi bao bài toàn bộ bài ngoài tay có lời chế nhạo, khi thắng có lời hống hách, khi phóng bài có tiếng than khóc. Tiếng cười của Vương Thái Hoa và lời bắt chước của Đường Từ Thánh, khiến việc đánh bài từ "tính toán toán học yên tĩnh" trở thành "một bàn người tranh luận nhau".[^8]
 
-Năm 2002 phát hành phiên bản thứ hai, được phát hành bởi Bảo Minh Công nghệ, phân phối khắp hai bờ ba vùng 120.000 bộ, Đài Loan lô hàng đầu tiên 35.000 bộ. Trong thời kỳ vàng của quán net, Sao Ba Thiếu Một cùng với CS, StarCraft chiếm giữ màn hình.[^10]
+Năm 2002 phát hành phiên bản thứ hai, được phát hành bởi Bảo Minh Công nghệ, phân phối khắp hai bờ ba vùng 120.000 bộ, Đài Loan lô hàng đầu tiên 35.000 bộ. Trong thời kỳ vàng của quán net, Sao Ba Thiếu Một cùng với CS, StarCraft chiếm giữ màn hình.[^9]
 
 Nhưng Sao Ba Thiếu Một đã làm được một điều mà những trò chơi khác làm không được: nó khiến những người không biết đánh bài học được cách đánh bài.
 
@@ -90,15 +90,15 @@ Trò chơi có sẵn toàn bộ quy tắc mahjong mười sáu lá Đài Loan, m
 
 Trong lịch sử của IGS có hai lần gần như chết.
 
-Lần thứ nhất là năm 2000, Trung Quốc tổng thể về ngành công nghiệp trò chơi, đơn đặt hàng máy chơi game thương mại giảm đột ngột, IGS đón lần lỗ đầu tiên kể từ khi thành lập. Lần thứ hai là năm 2013, trò chơi di động nổi lên, thị trường trò chơi PC co lại, lợi nhuận trên cổ phiếu của IGS chỉ còn 1,7 đồng.[^11]
+Lần thứ nhất là năm 2000, Trung Quốc tổng thể về ngành công nghiệp trò chơi, đơn đặt hàng máy chơi game thương mại giảm đột ngột, IGS đón lần lỗ đầu tiên kể từ khi thành lập. Lần thứ hai là năm 2013, trò chơi di động nổi lên, thị trường trò chơi PC co lại, lợi nhuận trên cổ phiếu của IGS chỉ còn 1,7 đồng.[^10]
 
-Cả hai lần đều sống sót nhờ chuyển đổi hướng. Năm 2000 quay sang trò chơi trực tuyến PC, thành lập bộ phận sự nghiệp trực tuyến. Năm 2013 điều động năm phần hai lực lượng người vào phát triển trò chơi di động, giai đoạn đầu thử các loại hình khác nhau đều thất bại, cuối cùng lại tập trung lại vào sản phẩm loại bàn cờ bài và loại đánh bạc, tìm lại được lợi thế cốt lõi của mình.[^12]
+Cả hai lần đều sống sót nhờ chuyển đổi hướng. Năm 2000 quay sang trò chơi trực tuyến PC, thành lập bộ phận sự nghiệp trực tuyến. Năm 2013 điều động năm phần hai lực lượng người vào phát triển trò chơi di động, giai đoạn đầu thử các loại hình khác nhau đều thất bại, cuối cùng lại tập trung lại vào sản phẩm loại bàn cờ bài và loại đánh bạc, tìm lại được lợi thế cốt lõi của mình.[^11]
 
-Sao Ba Thiếu Một chuyển theo. Từ phiên bản đơn lẻ tới phiên bản trực tuyến tới phiên bản web, rồi đến phiên bản điện thoại di động năm 2017. Phiên bản di động trong năm 2017 và 2018 hai năm liên tiếp được Apple App Store xếp vào top 10 trò chơi tại Đài Loan.[^13]
+Sao Ba Thiếu Một chuyển theo. Từ phiên bản đơn lẻ tới phiên bản trực tuyến tới phiên bản web, rồi đến phiên bản điện thoại di động năm 2017. Phiên bản di động trong năm 2017 và 2018 hai năm liên tiếp được Apple App Store xếp vào top 10 trò chơi tại Đài Loan.[^12]
 
-Tới năm 2024, doanh thu toàn năm của IGS đạt kỷ lục, doanh thu toàn năm và doanh thu tháng đơn lẻ liên tục phá kỷ lục, tiền thưởng nhân viên khá lớn. Mã sàn chứng khoán 3293, được gọi là "vua cổ phiếu trò chơi" Đài Loan.[^14]
+Tới năm 2024, doanh thu toàn năm của IGS đạt kỷ lục, doanh thu toàn năm và doanh thu tháng đơn lẻ liên tục phá kỷ lục, tiền thưởng nhân viên khá lớn. Mã sàn chứng khoán 3293, được gọi là "vua cổ phiếu trò chơi" Đài Loan.[^13]
 
-Tỷ lệ thanh toán của Sao Ba Thiếu Một tại Đài Loan đã gần tới giới hạn cao nhất. Nhưng IGS lại mở được thị trường mới thông qua giấy phép Đông Nam Á và nền tảng nước ngoài.[^15] Một công ty bắt đầu từ ván bài của ba người chơi bài, đã chơi thành một đế chế với doanh thu hàng năm vượt chục tỷ.
+Tỷ lệ thanh toán của Sao Ba Thiếu Một tại Đài Loan đã gần tới giới hạn cao nhất. Nhưng IGS lại mở được thị trường mới thông qua giấy phép Đông Nam Á và nền tảng nước ngoài.[^14] Một công ty bắt đầu từ ván bài của ba người chơi bài, đã chơi thành một đế chế với doanh thu hàng năm vượt chục tỷ.
 
 > **💡 Bạn có biết không**
 > Doanh thu quý một năm 2025 của IGS là 5.359 tỷ đồng, tăng năm-năm 28,3%. Tháng Ba lần đầu tiên vượt qua 1,8 tỷ đồng. Vốn hoá của công ty này đã vượt quá nhiều nhà sản xuất công nghệ truyền thống.
@@ -111,7 +111,7 @@ Thị trường trò chơi di động Đài Loan cạnh tranh rất khốc liệ
 
 Bởi vì mahjong thỏa mãn một nhu cầu cụ thể: muốn đánh bài, nhưng không tập hợp được bốn người.
 
-Nhu cầu này luôn tồn tại. Tối thứ sáu sau 10 giờ muốn lấy hai ván, bạn không thể gọi điện cho ba người bạn để họ tới. Trước Tết muốn luyện tập một chút để tránh bị bà chửi ngày Mùng Hai, bạn cần một bàn bài có thể mở bất kỳ lúc nào. Sao Ba Thiếu Một lấp đầy khoảng trống này: nó không phải cạnh tranh với các trò chơi khác, nó đang cạnh tranh với "không tập hợp được người" là vấn đề vĩnh cửu này.[^16]
+Nhu cầu này luôn tồn tại. Tối thứ sáu sau 10 giờ muốn lấy hai ván, bạn không thể gọi điện cho ba người bạn để họ tới. Trước Tết muốn luyện tập một chút để tránh bị bà chửi ngày Mùng Hai, bạn cần một bàn bài có thể mở bất kỳ lúc nào. Sao Ba Thiếu Một lấp đầy khoảng trống này: nó không phải cạnh tranh với các trò chơi khác, nó đang cạnh tranh với "không tập hợp được người" là vấn đề vĩnh cửu này.[^15]
 
 Và tính độc đáo của mahjong mười sáu lá Đài Loan khiến thị trường này gần như không thể bị những kẻ đến từ ngoài cướp mất. Trò chơi mahjong Nhật chơi mười ba lá, quy tắc khác. Ứng dụng Mahjong của Trung Quốc chơi quốc tế hoặc quy tắc địa phương, người Đài Loan không quen sử dụng. Để làm một trò chơi mahjong mà người Đài Loan sẵn sàng sử dụng, bạn phải hiểu mười sáu lá, hiểu số điểm, hiểu bài hoa, hiểu "quy tắc nhà của mỗi bàn đều khác nhau" điều này.
 
@@ -133,7 +133,7 @@ Một người Đài Loan chưa bao giờ đánh bài cũng nói "bị phóng b�
 
 Mahjong Đài Loan chưa bao giờ có một cuốn sách quy tắc chính thức. Quy tắc của nó phân tán trên hàng triệu bàn bài, mỗi bàn đều có phiên bản riêng của mình.
 
-Làm zhuang tiếp (庄连) được tính sao? Có người chơi "庄连 N" mỗi lần tiếp thêm hai điểm, có người chơi cộng thêm một điểm cố định. Vớt mặt nước (海底撈月) được tính mấy điểm? Có người tính một điểm, có người tính hai điểm, có người nói phải tùy vào là tự thắng hay phóng bài. Sau khi bao bài ngoài tay phải còn để bài không? Có người bao một cái để một lá, có người bao một cái để một đôi (hai lá), có người nói chơi đến hết bài mới kết thúc.[^17] Phóng bài có phải chịu chi phí ba gia hay không? Phía bắc rất nhiều bàn chịu, phía nam rất nhiều bàn không chịu.
+Làm zhuang tiếp (庄连) được tính sao? Có người chơi "庄连 N" mỗi lần tiếp thêm hai điểm, có người chơi cộng thêm một điểm cố định. Vớt mặt nước (海底撈月) được tính mấy điểm? Có người tính một điểm, có người tính hai điểm, có người nói phải tùy vào là tự thắng hay phóng bài. Sau khi bao bài ngoài tay phải còn để bài không? Có người bao một cái để một lá, có người bao một cái để một đôi (hai lá), có người nói chơi đến hết bài mới kết thúc.[^16] Phóng bài có phải chịu chi phí ba gia hay không? Phía bắc rất nhiều bàn chịu, phía nam rất nhiều bàn không chịu.
 
 Những khác biệt này chưa bao giờ được thống nhất, vì không ai có quyền lực để thống nhất chúng. Quy tắc của mỗi bàn bài là sự đồng ý của bốn người trên bàn đó, nguồn gốc của sự đồng ý là "anh tôi dạy tôi lúc bé là chơi như thế này".
 

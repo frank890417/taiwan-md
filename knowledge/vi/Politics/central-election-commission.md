@@ -30,7 +30,7 @@ Sau bầu cử toàn quốc năm 2024, Đài Loan rơi vào tình trạng phe đ
 
 Đáng kỳ lạ là, tình trạng bế tắc này không phải là hệ thống thất bại, mà là hệ thống hoạt động đúng theo cách mà nó được thiết kế ban đầu.
 
-Cách thành viên Ủy ban Bầu cử Trung ương được bổ nhiệm là: Viện Trưởng Hành pháp đề cử, Viện Lập pháp đồng ý — thiết kế này từ khi Ủy ban Bầu cử Trung ương hình thành vào năm 1980, cho đến khi Luật Tổ chức Ủy ban Bầu cử Trung ương được đưa vào thực thi năm 2009[^1], liên tục bị giới học thuật chỉ trích là "dễ bế tắc" và "dễ làm trì hoãn bầu cử", nhưng chưa bao giờ được thay thế bằng một phiên bản "hiệu quả hơn"[^2]...
+Cách thành viên Ủy ban Bầu cử Trung ương được bổ nhiệm là: Viện Trưởng Hành pháp đề cử, Viện Lập pháp đồng ý — thiết kế này từ khi Ủy ban Bầu cử Trung ương hình thành vào năm 1980, cho đến khi Luật Tổ chức Ủy ban Bầu cử Trung ương được đưa vào thực thi năm 2009[^1], liên tục bị giới học thuật chỉ trích là "dễ bế tắc" và "dễ làm trì hoãn bầu cử", nhưng chưa bao giờ được thay thế bằng một phiên bản "hiệu quả hơn"...
 
 Bởi vì đó chính là bảo hiểm cấu trúc cuối cùng cho chất lượng dân chủ. Toàn bộ công bằng bầu cử được xây dựng trên cơ sở của "kiểm soát kép hành chính–lập pháp, không để bất kỳ đảng nào chiếm độc quyền" — một thiết kế chống trực giác — là nên chọn bế tắc hơn là để cho bất kỳ một bộ máy chính trị nào độc quyền các cơ quan tổ chức bầu cử.
 
@@ -60,7 +60,7 @@ Tuy nhiên khi hoạt động thực tế, căng thẳng chính trị của quy 
 
 **Khi phe cầm quyền lớn, phe đối lập nhỏ** (phe cầm quyền kiểm soát cả Viện Hành pháp lẫn Viện Lập pháp): việc đề cử dễ dàng được thông qua, nhưng phe cầm quyền sẽ bị công chúng giám sát "có hay không là đã đề cử quá nhiều thành viên cùng đảng" — lúc này "không quá một phần ba từ cùng đảng" trở thành một ràng buộc quan trọng. Trong lịch sử, trong thời kỳ chính phủ Mã Anh Cửu (2008) và Thái Anh Văn (2016), cả hai đều từng có danh sách đề cử bị chất vấn về "tính đại diện đa đảng không đủ"[^5].
 
-**Khi phe cầm quyền nhỏ, phe đối lập lớn** (Viện Hành pháp và Viện Lập pháp do các đảng khác nhau nắm giữ): bế tắc đề cử trở thành tiêu chuẩn. Viện Trưởng Hành pháp đề cử những người mà Viện Lập pháp không đồng ý, Viện Lập pháp hy vọng những người mà Viện Trưởng Hành pháp không đề cử, việc đề cử / từ chối / đề cử lại có thể kéo dài nhiều tháng. Sau bầu cử 2024, Đài Loan rơi vào tình huống này, sự tranh cãi chính trị chậm chạp Viện Lập pháp không thông qua những thành viên mới là một ví dụ điển hình[^6].
+**Khi phe cầm quyền nhỏ, phe đối lập lớn** (Viện Hành pháp và Viện Lập pháp do các đảng khác nhau nắm giữ): bế tắc đề cử trở thành tiêu chuẩn. Viện Trưởng Hành pháp đề cử những người mà Viện Lập pháp không đồng ý, Viện Lập pháp hy vọng những người mà Viện Trưởng Hành pháp không đề cử, việc đề cử / từ chối / đề cử lại có thể kéo dài nhiều tháng. Sau bầu cử 2024, Đài Loan rơi vào tình huống này, sự tranh cãi chính trị chậm chạp Viện Lập pháp không thông qua những thành viên mới là một ví dụ điển hình.
 
 Công chúng dễ dàng mô tả tình trạng bế tắc Ủy ban Bầu cử Trung ương khi phe đối lập chiếm đa số lập pháp là "một đảng tẩy chay / một đảng ép buộc" — nhưng từ góc độ thiết kế hệ thống, chính tình trạng bế tắc này là một phần của thiết kế. Nếu Viện Trưởng Hành pháp một mình có thể quyết định thành viên Ủy ban Bầu cử Trung ương, với Viện Lập pháp chỉ có vai trò xác nhận, thì Ủy ban Bầu cử Trung ương sẽ trở thành công cụ của phe cầm quyền; ngược lại nếu đa số Viện Lập pháp có thể quyết định một chiều, Ủy ban Bầu cử Trung ương sẽ trở thành công cụ của đa số Viện Lập pháp. Để hai bộ máy chính trị phải thỏa hiệp thành một danh sách, đó mới là lõi của thiết kế này.
 
@@ -74,9 +74,9 @@ Giá cả là "có thể bế tắc" — và Đài Loan chọn chịu đựng gi
 
 **Năm 1980**: Ủy ban Bầu cử Trung ương được chính thức thành lập, nhưng vẫn còn thuộc về Bộ Nội vụ, những thành viên phần lớn được bổ nhiệm bởi hệ thống của phe cầm quyền. Phiên bản của Ủy ban Bầu cử Trung ương này giống như một "cơ quan phối hợp hành chính bầu cử" hơn là "cơ quan bầu cử độc lập" theo ý nghĩa hiện nay.
 
-**Những năm 1990**: Sau bãi bỏ thiết quân luật (1987), sửa đổi Hiến pháp (1991–2000), tổng thống được bầu chọn trực tiếp (1996) và một loạt quy trình dân chủ hóa khác, cơ cấu của Ủy ban Bầu cử Trung ương bị buộc phải điều chỉnh từng bước[^7]. Từ những năm 1990 trở đi, cách bổ nhiệm những thành viên bắt đầu đưa vào yêu cầu "đa đảng", nhưng vẫn thiếu cơ sở pháp lý rõ ràng.
+**Những năm 1990**: Sau bãi bỏ thiết quân luật (1987), sửa đổi Hiến pháp (1991–2000), tổng thống được bầu chọn trực tiếp (1996) và một loạt quy trình dân chủ hóa khác, cơ cấu của Ủy ban Bầu cử Trung ương bị buộc phải điều chỉnh từng bước[^5]. Từ những năm 1990 trở đi, cách bổ nhiệm những thành viên bắt đầu đưa vào yêu cầu "đa đảng", nhưng vẫn thiếu cơ sở pháp lý rõ ràng.
 
-**Năm 2009**: Luật Tổ chức Ủy ban Bầu cử Trung ương được thực thi[^8]. Ủy ban Bầu cử Trung ương từ "cơ quan phối hợp ở cấp độ sắc lệnh hành chính" được nâng cấp thành "cơ quan độc lập được định nghĩa rõ ràng bằng luật", thành viên phải được Viện Lập pháp đồng ý, thiết lập điều khoản "cùng đảng không quá 1/3", không được tái nhiệm kỳ. Đây là Ủy ban Bầu cử Trung ương mà chúng ta nhận ra ngày hôm nay.
+**Năm 2009**: Luật Tổ chức Ủy ban Bầu cử Trung ương được thực thi[^6]. Ủy ban Bầu cử Trung ương từ "cơ quan phối hợp ở cấp độ sắc lệnh hành chính" được nâng cấp thành "cơ quan độc lập được định nghĩa rõ ràng bằng luật", thành viên phải được Viện Lập pháp đồng ý, thiết lập điều khoản "cùng đảng không quá 1/3", không được tái nhiệm kỳ. Đây là Ủy ban Bầu cử Trung ương mà chúng ta nhận ra ngày hôm nay.
 
 Quá trình tiến hoá từ Quốc Dân Đảng–nhà nước cơng quản tới kiểm soát kép này đã mất gần ba mươi năm.
 
@@ -84,7 +84,7 @@ Quá trình tiến hoá từ Quốc Dân Đảng–nhà nước cơng quản t�
 
 Công việc thực tế của Ủy ban Bầu cử Trung ương là phần lớn **kỹ thuật** và **pháp luật**, chỉ có một phần nhỏ là phán đoán chính trị. Nếu bạn không nghe nói đến Ủy ban Bầu cử Trung ương đang làm gì bên ngoài đêm mở thùng phiếu, đó là vì công việc của nó không nên thường xuyên xuất hiện trong tin tức.
 
-Các quyền lực chính bao gồm[^9]:
+Các quyền lực chính bao gồm[^7]:
 
 - **Công bố ngày bầu cử**: Theo quy định của Luật Bầu cử và Miễn nhiệm Công chức, Ủy ban Bầu cử Trung ương phát hành công bố bầu cử một số ngày trước bầu cử
 - **Xác định tư cách của ứng cử viên**: Xem xét theo pháp luật xem người đăng ký có đủ điều kiện (tuổi, nơi cư trú, trình độ học vấn, có bị tước quyền chính trị hay không)
@@ -98,7 +98,7 @@ Mỗi công việc này đều có những quy định pháp lý và kỹ thuậ
 
 ## Sự Phân Công của Ủy ban Bầu cử Trung ương với các Đơn vị Khác
 
-Ủy ban Bầu cử Trung ương không phải tổ chức bầu cử một mình. Toàn bộ hệ thống bầu cử là một mạng lưới phối hợp liên bộ[^10]:
+Ủy ban Bầu cử Trung ương không phải tổ chức bầu cử một mình. Toàn bộ hệ thống bầu cử là một mạng lưới phối hợp liên bộ[^8]:
 
 - **Bộ Nội vụ Cục Hộ tịch**: Danh sách cử tri (ai có thể bỏ phiếu, ở đâu bỏ phiếu)
 - **Bộ Nội vụ Cục Cảnh sát**: An ninh địa điểm bỏ phiếu (bố trí lực lượng cảnh sát vào ngày bầu cử, xử lý tranh chấp bầu cử)
@@ -120,11 +120,11 @@ Mặc dù thành viên không thể vượt quá 1/3 cùng đảng, nhưng khuyn
 
 Thời kỳ Mã Anh Cửu (2008) lệch về lực lượng Xanh, thời kỳ Thái Anh Văn (2016) lệch về lực lượng Xanh, sau năm 2024 khi phe đối lập chiếm đa số thì bế tắc đề cử — mô hình này không phải là sự trùng hợp của một kỳ nào đó, mà là bằng chứng của việc cơ cấu chế độ nhạy cảm với cơ cấu chính trị.
 
-Khi bế tắc xảy ra, nếu các thành viên bị thiếu vượt quá một tỷ lệ nhất định, Ủy ban Bầu cử Trung ương vẫn có thể hoạt động dưới các thành viên còn lại (Luật Tổ chức có quy định số thành viên tối thiểu như một phương án dự phòng), nhưng tính hợp pháp của các quyết định sẽ bị chất vấn. Trong những trường hợp cực đoan, nếu bế tắc kéo dài tới thời điểm nên phát hành công bố bầu cử, lý thuyết có khả năng ảnh hưởng tới lịch trình bầu cử. Lịch sử Đài Loan chưa bao giờ đi tới mức cực đoan này, nhưng rủi ro này luôn tồn tại[^11].
+Khi bế tắc xảy ra, nếu các thành viên bị thiếu vượt quá một tỷ lệ nhất định, Ủy ban Bầu cử Trung ương vẫn có thể hoạt động dưới các thành viên còn lại (Luật Tổ chức có quy định số thành viên tối thiểu như một phương án dự phòng), nhưng tính hợp pháp của các quyết định sẽ bị chất vấn. Trong những trường hợp cực đoan, nếu bế tắc kéo dài tới thời điểm nên phát hành công bố bầu cử, lý thuyết có khả năng ảnh hưởng tới lịch trình bầu cử. Lịch sử Đài Loan chưa bao giờ đi tới mức cực đoan này, nhưng rủi ro này luôn tồn tại.
 
 **3. Ranh giới "chủ động" của Ủy ban Bầu cử Trung ương ở đâu?**
 
-Khi tranh cãi bầu cử xảy ra (ví dụ như giả tin tức, AI deepfake, can thiệp từ bên ngoài), Ủy ban Bầu cử Trung ương nên "can thiệp chủ động" hay "chuyển tiếp một cách bị động tới các đơn vị liên quan"? Thực tế hiện tại lệch về phía sau — Ủy ban Bầu cử Trung ương phát hiện vấn đề sẽ chuyển tiếp cho kiểm sát viên, NCC, Bộ Tư pháp và các đơn vị khác xử lý, bản thân không giữ vai trò là "người phán xét sự thật". Con đường bảo thủ này làm giảm rủi ro chính trị hóa Ủy ban Bầu cử Trung ương, nhưng cũng có nghĩa là khi đối mặt với kiểu can thiệp bầu cử mới, tốc độ phản ứng có thể chậm hơn so với kỳ vọng của công chúng[^12].
+Khi tranh cãi bầu cử xảy ra (ví dụ như giả tin tức, AI deepfake, can thiệp từ bên ngoài), Ủy ban Bầu cử Trung ương nên "can thiệp chủ động" hay "chuyển tiếp một cách bị động tới các đơn vị liên quan"? Thực tế hiện tại lệch về phía sau — Ủy ban Bầu cử Trung ương phát hiện vấn đề sẽ chuyển tiếp cho kiểm sát viên, NCC, Bộ Tư pháp và các đơn vị khác xử lý, bản thân không giữ vai trò là "người phán xét sự thật". Con đường bảo thủ này làm giảm rủi ro chính trị hóa Ủy ban Bầu cử Trung ương, nhưng cũng có nghĩa là khi đối mặt với kiểu can thiệp bầu cử mới, tốc độ phản ứng có thể chậm hơn so với kỳ vọng của công chúng[^9].
 
 **4. Không được tái nhiệm kỳ: Cái Giá của Kinh Nghiệm Chế độ**
 
@@ -134,19 +134,19 @@ Khi tranh cãi bầu cử xảy ra (ví dụ như giả tin tức, AI deepfake, 
 
 Khi đặt Ủy ban Bầu cử Trung ương Đài Loan trong tầm nhìn quốc tế, bạn sẽ phát hiện thiết kế của nó tương đối tinh vi so với các cơ quan bầu cử châu Á.
 
-**FEC của Hoa Kỳ (Uỷ ban Bầu cử Liên bang)**: 6 thành viên, theo quy định hai đảng lớn mỗi đảng 3 người, Tổng thống đề cử, Thượng viện đồng ý. Vấn đề là thiết kế "mỗi đảng 3" làm cho các quyết định quan trọng cần 4 phiếu bầu để đạt được → thường bị mắc kẹt trong tình trạng 3-3, bị chỉ trích là "thiết kế có chủ đích làm cho bị tê liệt"[^13]. FEC trong hơn mười năm qua, nhiều lần vì thành viên bị thiếu, bế tắc chưa giải quyết, dẫn tới những vụ gây quỹ bầu cử quan trọng không thể được xử phạt — đây là hậu quả của thiết kế "cân bằng đối xứng" đi tới cực đoan. Ủy ban Bầu cử Trung ương Đài Loan chọn con đường "đề cử hành chính + đồng ý lập pháp" không đối xứng này, chính là muốn tránh khỏi kiểu bế tắc đối xứng.
+**FEC của Hoa Kỳ (Uỷ ban Bầu cử Liên bang)**: 6 thành viên, theo quy định hai đảng lớn mỗi đảng 3 người, Tổng thống đề cử, Thượng viện đồng ý. Vấn đề là thiết kế "mỗi đảng 3" làm cho các quyết định quan trọng cần 4 phiếu bầu để đạt được → thường bị mắc kẹt trong tình trạng 3-3, bị chỉ trích là "thiết kế có chủ đích làm cho bị tê liệt"[^10]. FEC trong hơn mười năm qua, nhiều lần vì thành viên bị thiếu, bế tắc chưa giải quyết, dẫn tới những vụ gây quỹ bầu cử quan trọng không thể được xử phạt — đây là hậu quả của thiết kế "cân bằng đối xứng" đi tới cực đoan. Ủy ban Bầu cử Trung ương Đài Loan chọn con đường "đề cử hành chính + đồng ý lập pháp" không đối xứng này, chính là muốn tránh khỏi kiểu bế tắc đối xứng.
 
-**Nhật Bản**: **Không có Ủy ban Bầu cử Trung ương**. Bầu cử quốc gia được phối hợp bởi "Phòng Bầu cử" dưới Bộ Quản lý Nội bộ, công việc bầu cử thực tế do các Ủy ban Quản lý Bầu cử của từng tỉnh (都道府県選挙管理委員会) phụ trách[^14]. Những thành viên Ủy ban Quản lý Bầu cử Nhật Bản được bầu chọn bởi hội đồng tỉnh, chế độ này bị phân quyền hơn so với Đài Loan. Ưu điểm là phân quyền, giảm nguy hiểm khi một cơ quan đơn lẻ bị chính trị hóa; nhược điểm là khó phối hợp liên tỉnh, thống nhất quy định toàn quốc thấp, mỗi lần bầu cử quốc gia, Bộ Quản lý Nội bộ phải làm rất nhiều công việc phối hợp ngang hàng.
+**Nhật Bản**: **Không có Ủy ban Bầu cử Trung ương**. Bầu cử quốc gia được phối hợp bởi "Phòng Bầu cử" dưới Bộ Quản lý Nội bộ, công việc bầu cử thực tế do các Ủy ban Quản lý Bầu cử của từng tỉnh (都道府県選挙管理委員会) phụ trách[^11]. Những thành viên Ủy ban Quản lý Bầu cử Nhật Bản được bầu chọn bởi hội đồng tỉnh, chế độ này bị phân quyền hơn so với Đài Loan. Ưu điểm là phân quyền, giảm nguy hiểm khi một cơ quan đơn lẻ bị chính trị hóa; nhược điểm là khó phối hợp liên tỉnh, thống nhất quy định toàn quốc thấp, mỗi lần bầu cử quốc gia, Bộ Quản lý Nội bộ phải làm rất nhiều công việc phối hợp ngang hàng.
 
-**Hàn Quốc**: Ủy ban Quản lý Bầu cử Trung ương (중앙선거관리위원회) 9 thành viên, **Tổng thống, Trưởng Tòa Án Tối cao, Quốc hội mỗi bên đề cử 3 người**[^15]. Thiết kế "ba quyền hạn mỗi quyền chiếm ba phần một" này tinh vi hơn trong kiểm soát — ba nguồn từ hành chính, lập pháp, tư pháp đảm bảo không có bất kỳ một bộ máy chính trị nào có thể chiếm độc quyền. Nhưng trong hoạt động thực tế, việc đề cử từ hệ thống Tòa Án Tối cao cũng thường bị chất vấn "liệu có thực sự trung lập chính trị không", vì bản thân Trưởng Tòa Án Tối cao được Tổng thống đề cử và Quốc hội đồng ý, gián tiếp chịu ảnh hưởng chính trị.
+**Hàn Quốc**: Ủy ban Quản lý Bầu cử Trung ương (중앙선거관리위원회) 9 thành viên, **Tổng thống, Trưởng Tòa Án Tối cao, Quốc hội mỗi bên đề cử 3 người**[^12]. Thiết kế "ba quyền hạn mỗi quyền chiếm ba phần một" này tinh vi hơn trong kiểm soát — ba nguồn từ hành chính, lập pháp, tư pháp đảm bảo không có bất kỳ một bộ máy chính trị nào có thể chiếm độc quyền. Nhưng trong hoạt động thực tế, việc đề cử từ hệ thống Tòa Án Tối cao cũng thường bị chất vấn "liệu có thực sự trung lập chính trị không", vì bản thân Trưởng Tòa Án Tối cao được Tổng thống đề cử và Quốc hội đồng ý, gián tiếp chịu ảnh hưởng chính trị.
 
-**Ấn Độ**: Ủy ban Bầu cử (Election Commission of India) độc lập rất cao, ngân sách tự chủ, nhân sự độc lập tới mức "ngay cả Tổng thống cũng không quản được hoạt động hàng ngày"[^16]. Ủy ban Bầu cử Ấn Độ từ những năm 1990 trở đi dần dần mở rộng quyền hạn, thậm chí có thể vào thời kỳ bầu cử lệnh tạm dừng quyền hạn của các bộ phông, điều động công chức, là một trong những cơ quan bầu cử mạnh nhất thế giới. Ưu điểm là chặn đứt can thiệp chính trị; nhược điểm là độc lập quá cao lại mang lại tranh cãi về "quyền hạn của chính ủy ban quá lớn, thiếu trách nhiệm giải trình" — bạn có thể kiểm soát một cơ quan mà nó kiểm soát tất cả mọi người không?
+**Ấn Độ**: Ủy ban Bầu cử (Election Commission of India) độc lập rất cao, ngân sách tự chủ, nhân sự độc lập tới mức "ngay cả Tổng thống cũng không quản được hoạt động hàng ngày"[^13]. Ủy ban Bầu cử Ấn Độ từ những năm 1990 trở đi dần dần mở rộng quyền hạn, thậm chí có thể vào thời kỳ bầu cử lệnh tạm dừng quyền hạn của các bộ phông, điều động công chức, là một trong những cơ quan bầu cử mạnh nhất thế giới. Ưu điểm là chặn đứt can thiệp chính trị; nhược điểm là độc lập quá cao lại mang lại tranh cãi về "quyền hạn của chính ủy ban quá lớn, thiếu trách nhiệm giải trình" — bạn có thể kiểm soát một cơ quan mà nó kiểm soát tất cả mọi người không?
 
 Ủy ban Bầu cử Trung ương Đài Loan với "đề cử hành chính + đồng ý lập pháp + điều khoản tỷ lệ đảng + không được tái nhiệm kỳ", là con đường giữa FEC của Mỹ dễ bế tắc và Ấn Độ quá độc lập. Nó không hoàn hảo, nhưng trong các thể chế dân chủ Châu Á, nó là một thiết kế đã được cân nhắc lặp lại — vừa có độc lập tương đối, lại để lại quyền nhân sự cho hai bộ máy chính trị có tính hợp pháp dân chủ cùng quyết định.
 
 ## 2026 Bầu cử: Lịch Trình Công việc của Ủy ban Bầu cử Trung ương
 
-Năm 2026, ngày bầu cử địa phương toàn diện là 28 tháng 11. Lịch trình công việc của Ủy ban Bầu cử Trung ương đại loại như sau[^17]:
+Năm 2026, ngày bầu cử địa phương toàn diện là 28 tháng 11. Lịch trình công việc của Ủy ban Bầu cử Trung ương đại loại như sau[^14]:
 
 - **2026/08/20**: Phát hành công bố bầu cử
 - **2026/08/29–09/04**: Thời gian đăng ký ứng cử viên (có sự khác biệt chi tiết tùy theo loại công chức)
@@ -161,7 +161,7 @@ Lịch trình này trông có vẻ tuân tự đến nỗi chán chường — v
 
 ## AI Deepfake và Thời Đại Giả tin trong Bầu cử
 
-Trong cuộc bầu cử năm 2024, lần đầu tiên, video deepfake do AI tạo ra trở thành một vấn đề trong bầu cử[^18]. Chiến lược phản ứng hiện tại của Ủy ban Bầu cử Trung ương vẫn chủ yếu dựa vào "chuyển tiếp các đơn vị liên quan": phát hiện deepfake báo cho NCC và cơ quan kiểm sát, phát hiện can thiệp nước ngoài báo cho Bộ Tư pháp Cục Điều tra, bản thân không trực tiếp thực hiện kiểm tra sự thật hoặc gỡ bỏ nội dung.
+Trong cuộc bầu cử năm 2024, lần đầu tiên, video deepfake do AI tạo ra trở thành một vấn đề trong bầu cử[^15]. Chiến lược phản ứng hiện tại của Ủy ban Bầu cử Trung ương vẫn chủ yếu dựa vào "chuyển tiếp các đơn vị liên quan": phát hiện deepfake báo cho NCC và cơ quan kiểm sát, phát hiện can thiệp nước ngoài báo cho Bộ Tư pháp Cục Điều tra, bản thân không trực tiếp thực hiện kiểm tra sự thật hoặc gỡ bỏ nội dung.
 
 Con đường bảo thủ này có logic chế độ — khi Ủy ban Bầu cử Trung ương bước vào để phán xét "thông tin giả là gì", nó sẽ bị cuốn vào cuộc tấn công chính trị "Ủy ban Bầu cử Trung ương có đang thay cho một đảng đàn áp ngôn luận của đảng khác không". Nhưng cái giá là tốc độ phản ứng chậm, và để lại trách nhiệm phán xét cho các đơn vị khác.
 

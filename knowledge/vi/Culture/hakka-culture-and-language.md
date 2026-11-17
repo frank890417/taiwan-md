@@ -75,9 +75,9 @@ Nhưng khảo sát năm 2021 cũng che chứa một hạt giọt đảo ngược
 
 ## Linh sinh học Wild 125: Khi tiếng Hakka trở thành rock
 
-Năm 1994, một thanh niên Mỹ Nông lái xe máy Wild 125, mang theo nhóm nhạc tự tạo "Rạp âm nhạc Linh sinh học" đề nghị quyên góp 100.000 đồng cho chiến dịch phản đối chương trình bảo tồn hồ thủy điện[^9]. Người học sinh sinh sống Linh sinh học sau đó tự ấn tượng: "Cậu ấy là một người trẻ có một loại nhiệt huyết và trách nhiệm nhất đối với quê hương của mình"[^10].
+Năm 1994, một thanh niên Mỹ Nông lái xe máy Wild 125, mang theo nhóm nhạc tự tạo "Rạp âm nhạc Linh sinh học" đề nghị quyên góp 100.000 đồng cho chiến dịch phản đối chương trình bảo tồn hồ thủy điện[^9]. Người học sinh sinh sống Linh sinh học sau đó tự ấn tượng: "Cậu ấy là một người trẻ có một loại nhiệt huyết và trách nhiệm nhất đối với quê hương của mình"[^9].
 
-Người trẻ này tên là Linh Sinh Học. Bốn năm sau, cậu và nhà văn Linh Sinh Học chính thức hợp tác, viết album đầu tiên mang tên "Tôi chờ đợi để hát ca núi" với chủ đề phản đối chương trình bảo tồn hồ thủy điện tại Mỹ Nông, bất ngờ giành hai giải Nhạc sĩ quốc gia. Năm 2001, ban nhạc Công nghiệp hợp tác xã của "Đoàn kịch bản ca bước" dùng câu chuyện một người trẻ trở về quê hương "A Hành" để kể về thực tế nông thôn các năm 90 — đối tác ngoại quốc, sử dụng hoá chất nông nghiệp, mất đất, biến thể xã hội — được xã hội hóa thành thơ ca bằng tiếng Hakka[^11].
+Người trẻ này tên là Linh Sinh Học. Bốn năm sau, cậu và nhà văn Linh Sinh Học chính thức hợp tác, viết album đầu tiên mang tên "Tôi chờ đợi để hát ca núi" với chủ đề phản đối chương trình bảo tồn hồ thủy điện tại Mỹ Nông, bất ngờ giành hai giải Nhạc sĩ quốc gia. Năm 2001, ban nhạc Công nghiệp hợp tác xã của "Đoàn kịch bản ca bước" dùng câu chuyện một người trẻ trở về quê hương "A Hành" để kể về thực tế nông thôn các năm 90 — đối tác ngoại quốc, sử dụng hoá chất nông nghiệp, mất đất, biến thể xã hội — được xã hội hóa thành thơ ca bằng tiếng Hakka[^10].
 
 Phương pháp của Linh Sinh Học viết lời rất đơn giản: "Viết lời như việc làm nông nghiệp, phải chuẩn bị đất, quan sát thời tiết và thị trường. Dựa vào cảm tính là cách tệ nhất." Câu nói này giải thích tại sao các bài hát của họ không phải là nhớ lũy, mà là quan sát thực. Mỗi từ được khoan thành từ thăm dò đồng bằng, không phải được ép thành từ hình ảnh trào ngâm.
 

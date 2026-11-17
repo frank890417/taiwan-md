@@ -60,7 +60,7 @@ Sự phân chia công việc này rất quan trọng. Nếu trung ương bầu c
 
 **Đoạn thứ tư: in ấn và chứng thực.** Trung ương bầu cử tổng hợp dữ liệu tất cả ứng cử viên thành bố cục, gửi đến nhà máy in ấn. Số lượng in ấn được tính toán dựa trên số cử tri (mỗi cử tri một bản) + bản dùng cho công tác mở và kiểm phiếu + bản lưu trữ, các cuộc bầu cử toàn quốc thường in ấn hơn 20 triệu bản[^6]. Chứng thực được thực hiện bởi nhân viên chuyên trách của trung ương bầu cử và nhà máy in ấn kiểm tra đôi lần — thậm chí một ký tự in sai có thể gây ra tranh cãi.
 
-**Đoạn thứ năm: gửi đi.** Pháp luật yêu cầu phải gửi đến mỗi hộ trong khu vực bầu cử trước ngày bỏ phiếu **hai ngày**. Trên thực tế, trung ương bầu cử hợp tác với bộ phận bưu điện, huy động một lượng lớn nhân viên bưu điện gửi hàng loạt trong tuần trước cuộc bầu cử. Nghĩa vụ pháp luật "gửi đến các hộ" là gửi theo địa chỉ cư trú, do đó cử tri có cư trú khác với nơi ở thực tế có thể không nhận được — đây là một điểm mù về cơ cấu của chế độ[^7].
+**Đoạn thứ năm: gửi đi.** Pháp luật yêu cầu phải gửi đến mỗi hộ trong khu vực bầu cử trước ngày bỏ phiếu **hai ngày**. Trên thực tế, trung ương bầu cử hợp tác với bộ phận bưu điện, huy động một lượng lớn nhân viên bưu điện gửi hàng loạt trong tuần trước cuộc bầu cử. Nghĩa vụ pháp luật "gửi đến các hộ" là gửi theo địa chỉ cư trú, do đó cử tri có cư trú khác với nơi ở thực tế có thể không nhận được — đây là một điểm mù về cơ cấu của chế độ.
 
 **Đoạn thứ sáu: công bố cuối cùng ngày bỏ phiếu.** Ở hiện trường phòng bỏ phiếu cũng sẽ dán bản công bố bầu cử phóng đại, để cho cử tri chưa đọc công bố, hoặc công bố chưa nhận được, vẫn có thể xem thông tin ứng cử viên tại thời điểm cuối cùng trước khi bỏ phiếu.
 
@@ -74,9 +74,9 @@ Thiết kế này thoạt nhìn sẽ làm người dùng bất an: mới điều
 
 Câu trả lời là: **Pháp luật + truyền thông + tổ chức công dân + truy tố sau bầu cử**.
 
-Ứng cử viên điền trình độ học vấn sai trong công bố, có thể vi phạm Điều 214 Bộ luật Hình sự — tội khiến công chức đăng tải sai lệch, vì công bố là tài liệu chính thức được trung ương bầu cử phê chuẩn và phát hành, điền sai lệch tương đương với khiến cơ quan công chức trung ương bầu cử này đăng tải nội dung sai lệch. Trong lịch sử có những ứng cử viên bị truy tố và thậm chí bị kết tội vì trình độ học vấn sai trong công bố[^8].
+Ứng cử viên điền trình độ học vấn sai trong công bố, có thể vi phạm Điều 214 Bộ luật Hình sự — tội khiến công chức đăng tải sai lệch, vì công bố là tài liệu chính thức được trung ương bầu cử phê chuẩn và phát hành, điền sai lệch tương đương với khiến cơ quan công chức trung ương bầu cử này đăng tải nội dung sai lệch. Trong lịch sử có những ứng cử viên bị truy tố và thậm chí bị kết tội vì trình độ học vấn sai trong công bố[^7].
 
-Nhưng cơ chế kiểm tra này là **sau đó**. Trước bầu cử, truyền thông, tổ chức công dân, phe đối thủ sẽ theo dõi nội dung công bố để kiểm tra, phát hiện điểm nghi vấn sẽ công bố; sau bầu cử nếu phát hiện sai lệch lớn, có thể khởi kiện vô hiệu kết quả bầu cử. Kiểm tra trước được ứng cử viên tự chịu trách nhiệm về tính thực, kiểm tra sau được xã hội và tư pháp tiếp nhận. Sự phân chia công việc này phù hợp với cách tạo ra thành viên trung ương bầu cử (không dễ bị một thế lực chính trị nào độc chiếm việc tổ chức bầu cử) — triết lý thiết kế là cơ quan nhà nước không đảm nhận vai trò "trọng tài của sự thật", mà phân tán trách nhiệm phán quyết cho các tác nhân khác nhau: ứng cử viên tự chịu trách nhiệm, truyền thông và tổ chức công dân kiểm tra sau, tư pháp truy tố sau. Trung ương bầu cử chỉ giữ gìn đáy nước hình thức[^9].
+Nhưng cơ chế kiểm tra này là **sau đó**. Trước bầu cử, truyền thông, tổ chức công dân, phe đối thủ sẽ theo dõi nội dung công bố để kiểm tra, phát hiện điểm nghi vấn sẽ công bố; sau bầu cử nếu phát hiện sai lệch lớn, có thể khởi kiện vô hiệu kết quả bầu cử. Kiểm tra trước được ứng cử viên tự chịu trách nhiệm về tính thực, kiểm tra sau được xã hội và tư pháp tiếp nhận. Sự phân chia công việc này phù hợp với cách tạo ra thành viên trung ương bầu cử (không dễ bị một thế lực chính trị nào độc chiếm việc tổ chức bầu cử) — triết lý thiết kế là cơ quan nhà nước không đảm nhận vai trò "trọng tài của sự thật", mà phân tán trách nhiệm phán quyết cho các tác nhân khác nhau: ứng cử viên tự chịu trách nhiệm, truyền thông và tổ chức công dân kiểm tra sau, tư pháp truy tố sau. Trung ương bầu cử chỉ giữ gìn đáy nước hình thức[^8].
 
 ## Công bố vs Tờ rơi tranh cử: hai bể tài chính phân lưỡng
 
@@ -84,7 +84,7 @@ Nhưng cơ chế kiểm tra này là **sau đó**. Trước bầu cử, truyền
 
 Chi phí in ấn công bố bầu cử, gửi đi được nhà nước lập vào ngân sách, ứng cử viên không phải trả một đồng nào. Bố cục trình độ học vấn, quá trình công tác, quan điểm chính sách hoàn toàn bình đẳng giữa tất cả ứng cử viên — dù bạn là đại biểu quốc hội tái tuyển bốn lần hay người không có kinh nghiệm tham gia lần đầu, bố cục trong công bố hoàn toàn giống hệt.
 
-Tờ rơi tranh cử (truyền đơn, biển quảng cáo, xe tuyên truyền, quảng cáo) hoàn toàn tự trả của ứng cử viên, tuân theo Điều 38 Luật bầu cử công chức về giới hạn chi phí tranh cử[^10], tuân theo Luật tài chính chính trị về quy định nguồn tiền[^11]. Ứng cử viên giàu có có thể chi nhiều tiền hơn cho tờ rơi tranh cử, nhưng dù chi bao nhiêu, bố cục của họ trong công bố bầu cử so với đối thủ nghèo nhất cũng hoàn toàn giống hệt nhau.
+Tờ rơi tranh cử (truyền đơn, biển quảng cáo, xe tuyên truyền, quảng cáo) hoàn toàn tự trả của ứng cử viên, tuân theo Điều 38 Luật bầu cử công chức về giới hạn chi phí tranh cử[^9], tuân theo Luật tài chính chính trị về quy định nguồn tiền[^10]. Ứng cử viên giàu có có thể chi nhiều tiền hơn cho tờ rơi tranh cử, nhưng dù chi bao nhiêu, bố cục của họ trong công bố bầu cử so với đối thủ nghèo nhất cũng hoàn toàn giống hệt nhau.
 
 Tinh thần thiết kế hai đường ngang này là: **nhà nước bảo đảm mỗi ứng cử viên được nghe thấy ở mức tối thiểu (công bố), thị trường quyết định âm lượng bổ sung (tờ rơi tự trả)**. Nó không phải "bình đẳng chủ nghĩa" (yêu cầu tất cả ứng cử viên chi tiêu bằng nhau), cũng không phải "thả nổi" (để ứng cử viên chi bao nhiêu cũng được), mà là thiết kế "bảo đảm tối thiểu + cạnh tranh tự do".
 
@@ -92,7 +92,7 @@ Tinh thần thiết kế hai đường ngang này là: **nhà nước bảo đ�
 
 ## Từ năm 1980 tới 2026: tiến hóa thiết kế của công bố bầu cử
 
-Pháp lý công bố bầu cử có thể truy ngược về năm 1980 Luật bầu cử công chức thời kỳ động viên Kháng chiến[^12]. Phiên bản lúc bấy giờ tương đối thô: in đen trắng, bố cục hẹp, giới hạn ký tự quan điểm chính sách chặt chẽ hơn, độ phân giải ảnh ứng cử viên cực kỳ thấp.
+Pháp lý công bố bầu cử có thể truy ngược về năm 1980 Luật bầu cử công chức thời kỳ động viên Kháng chiến[^11]. Phiên bản lúc bấy giờ tương đối thô: in đen trắng, bố cục hẹp, giới hạn ký tự quan điểm chính sách chặt chẽ hơn, độ phân giải ảnh ứng cử viên cực kỳ thấp.
 
 Hơn bốn mươi năm, công bố bầu cử trải qua một số tiến hóa quan trọng:
 
@@ -104,7 +104,7 @@ Hơn bốn mươi năm, công bố bầu cử trải qua một số tiến hóa 
 
 **Những năm 2010**: Sau khi điện thoại thông minh phổ biến, "gửi thực thể" công bố bầu cử bắt đầu bị phản bác liệu có cần thiết không. Nhưng trung ương bầu cử và đa số nghiên cứu học thuật kết luận: **công bố thực thể vẫn là tài liệu gửi pháp định và không thể được thay thế** — vì nó bảo đảm rằng thậm chí cử tri sử dụng điện thoại thông minh ít nhất, cử tri ít chủ động tìm kiếm thông tin ứng cử viên nhất, vẫn có thể tiếp xúc với quan điểm chính sách của ứng cử viên.
 
-**Những năm 2020**: Công bố điện tử trở thành cấu hình tiêu chuẩn. Trang web trung ương bầu cử cung cấp tải PDF đầy đủ, một số trường hợp công bố được thay đổi thành chủ yếu điện tử, phụ trợ giấy (đặc biệt là năm 2018 công bố kết hợp với bầu cử lớn khi công bố trở nên cực kỳ dày, chi phí in ấn giấy bùng nổ)[^13]. Nhưng nghĩa vụ pháp định gửi công bố thực thể vẫn chưa được hủy bỏ.
+**Những năm 2020**: Công bố điện tử trở thành cấu hình tiêu chuẩn. Trang web trung ương bầu cử cung cấp tải PDF đầy đủ, một số trường hợp công bố được thay đổi thành chủ yếu điện tử, phụ trợ giấy (đặc biệt là năm 2018 công bố kết hợp với bầu cử lớn khi công bố trở nên cực kỳ dày, chi phí in ấn giấy bùng nổ)[^12]. Nhưng nghĩa vụ pháp định gửi công bố thực thể vẫn chưa được hủy bỏ.
 
 Bốn mươi sáu năm tiến hóa, logic không thay đổi: cấp phát nhà nước, ứng cử viên tự điền, định dạng thống nhất, kiểm tra hình thức. Nền tảng kỹ thuật thay đổi, thẩm mỹ thiết kế thay đổi, giới hạn ký tự thay đổi, liệu có điện tử hóa hay không thay đổi, nhưng lựa chọn thiết kế lõi chưa bao giờ bị lật đổ.
 
@@ -112,13 +112,13 @@ Bốn mươi sáu năm tiến hóa, logic không thay đổi: cấp phát nhà n
 
 Chế độ công bố bầu cử này không phổ biến trên thế giới.
 
-**Nhật Bản**: Chế độ "選挙公報" (senkyo koho) rất tương tự Đài Loan — cấp phát nhà nước, ứng cử viên tự điền, định dạng thống nhất, gửi đến hộ[^14]. Lịch sử công bố bầu cử Nhật Bản có thể truy ngược tới năm 1925 Luật bầu cử phổ thông, sớm hơn Đài Loan. Phiên bản Nhật của nội dung gọn gàng hơn Đài Loan, ảnh nhỏ hơn, giới hạn ký tự chặt chẽ hơn, gần như như một tài liệu hành chính chính phủ lạnh lùng.
+**Nhật Bản**: Chế độ "選挙公報" (senkyo koho) rất tương tự Đài Loan — cấp phát nhà nước, ứng cử viên tự điền, định dạng thống nhất, gửi đến hộ[^13]. Lịch sử công bố bầu cử Nhật Bản có thể truy ngược tới năm 1925 Luật bầu cử phổ thông, sớm hơn Đài Loan. Phiên bản Nhật của nội dung gọn gàng hơn Đài Loan, ảnh nhỏ hơn, giới hạn ký tự chặt chẽ hơn, gần như như một tài liệu hành chính chính phủ lạnh lùng.
 
-**Hàn Quốc**: Công bố bầu cử (선거공보) được cấp phát nhà nước + ủy ban bầu cử trung ương Hàn Quốc công bố điện tử đầy đủ trên trang web[^15]. Thiết kế công bố Hàn Quốc giống tạp chí hiện đại hơn Nhật Bản và Đài Loan, ứng cử viên có thể trình bày theo phương thức gần giống quảng cáo trong quy định.
+**Hàn Quốc**: Công bố bầu cử (선거공보) được cấp phát nhà nước + ủy ban bầu cử trung ương Hàn Quốc công bố điện tử đầy đủ trên trang web[^14]. Thiết kế công bố Hàn Quốc giống tạp chí hiện đại hơn Nhật Bản và Đài Loan, ứng cử viên có thể trình bày theo phương thức gần giống quảng cáo trong quy định.
 
-**Hoa Kỳ**: **Không có khái niệm "công bố" cấp quốc gia**. Mỗi tiểu bang tự quyết định cấp phát hay không voter guide (hướng dẫn cử tri), California, Oregon, Washington có voter guide tiểu bang tương đối hoàn chỉnh, nhưng Texas, Florida và hầu hết các tiểu bang khác không có[^16]. Bầu cử liên bang (tổng thống, đại biểu quốc hội) hoàn toàn không có công bố chính thức cấp quốc gia — thông tin ứng cử viên hoàn toàn dựa vào báo chí, trang web tranh cử, quảng cáo tự trả.
+**Hoa Kỳ**: **Không có khái niệm "công bố" cấp quốc gia**. Mỗi tiểu bang tự quyết định cấp phát hay không voter guide (hướng dẫn cử tri), California, Oregon, Washington có voter guide tiểu bang tương đối hoàn chỉnh, nhưng Texas, Florida và hầu hết các tiểu bang khác không có[^15]. Bầu cử liên bang (tổng thống, đại biểu quốc hội) hoàn toàn không có công bố chính thức cấp quốc gia — thông tin ứng cử viên hoàn toàn dựa vào báo chí, trang web tranh cử, quảng cáo tự trả.
 
-**Anh**: Ứng cử viên "election address" (tuyên bố bầu cử) tự trả chi phí in ấn, tự trả chi phí gửi, nhà nước không can thiệp nội dung, không chịu chi phí[^17]. Quốc hội thông qua trợ cấp từ công ty bưu điện hoàng gia để ứng cử viên có thể gửi chi phí thấp hơn (mỗi cử tri một bản), nhưng nội dung hoàn toàn quyết định của ứng cử viên. Thiết kế này hoàn toàn loại bỏ ranh giới giữa "công bố" và "tờ rơi tự trả" — tất cả những gì ứng cử viên gửi đến hộ dân là "tờ rơi tự trả".
+**Anh**: Ứng cử viên "election address" (tuyên bố bầu cử) tự trả chi phí in ấn, tự trả chi phí gửi, nhà nước không can thiệp nội dung, không chịu chi phí[^16]. Quốc hội thông qua trợ cấp từ công ty bưu điện hoàng gia để ứng cử viên có thể gửi chi phí thấp hơn (mỗi cử tri một bản), nhưng nội dung hoàn toàn quyết định của ứng cử viên. Thiết kế này hoàn toàn loại bỏ ranh giới giữa "công bố" và "tờ rơi tự trả" — tất cả những gì ứng cử viên gửi đến hộ dân là "tờ rơi tự trả".
 
 Khi xếp bốn cái này song song, vị trí công bố bầu cử của Đài Loan rất rõ ràng: **nó hơn Hoa Kỳ vì có công bố (Hoa Kỳ không có), công bằng hơn Anh (Anh ứng cử viên tự trả), phong phú hơn Nhật Bản (Nhật giới hạn ký tự chặt chẽ hơn), gần giống Hàn Quốc nhưng nhấn mạnh gửi giấy hơn**.
 
@@ -130,7 +130,7 @@ Chế độ công bố bầu cử không phải không có vấn đề. Từ nă
 
 **1. Tỷ lệ gửi: chênh lệch giữa cư trú và nơi cư trú thực tế**
 
-Công bố gửi theo địa chỉ cư trú. Nhưng Đài Loan có rất nhiều "người ở bên ngoài, cư trú ở quê hương" cử tri — học sinh ngoài tỉnh, nhân viên được cử ngoài, người chuyển đến thành phố nhưng chưa chuyển cư trú. Những người này không nhận được công bố thực thể, phải chủ động lên trang web trung ương bầu cử xem phiên bản điện tử để có được thông tin[^18].
+Công bố gửi theo địa chỉ cư trú. Nhưng Đài Loan có rất nhiều "người ở bên ngoài, cư trú ở quê hương" cử tri — học sinh ngoài tỉnh, nhân viên được cử ngoài, người chuyển đến thành phố nhưng chưa chuyển cư trú. Những người này không nhận được công bố thực thể, phải chủ động lên trang web trung ương bầu cử xem phiên bản điện tử để có được thông tin[^17].
 
 Dữ liệu của trung ương bầu cử cho thấy, mỗi lần bầu cử đều có tỷ lệ khá lớn công bào vì "không ai nhận", "địa chỉ sai" bị trả lại. Chênh lệch này là giải pháp trong ngắn hạn — trừ khi sửa pháp luật thành "gửi theo nơi cư trú thực tế", nhưng nó lại liên quan đến thay đổi lớn hơn của luật cư trú.
 
@@ -146,17 +146,17 @@ Tất cả ứng cử viên có định dạng giống hệt nhau — nhưng b�
 
 **4. Ngôn ngữ công bảo: điểm mù của xã hội đa ngôn ngữ Đài Loan**
 
-Công bảo bầu cử của Đài Loan chủ yếu bằng tiếng Trung Quốc. Khi dân số người nhập cư tăng, phong trào phục hồi ngôn ngữ bản địa phát triển, "công bảo có nên cung cấp phiên bản đa ngôn ngữ không" bắt đầu trở thành vấn đề[^19]. Hiện tại một số khu vực sẽ cung cấp phiên bản ngôn ngữ bản địa hoặc tóm tắt ngôn ngữ Đông Nam Á, nhưng đa ngôn ngữ hóa toàn diện còn chi phí cao và ngưỡng kỹ thuật cao.
+Công bảo bầu cử của Đài Loan chủ yếu bằng tiếng Trung Quốc. Khi dân số người nhập cư tăng, phong trào phục hồi ngôn ngữ bản địa phát triển, "công bảo có nên cung cấp phiên bản đa ngôn ngữ không" bắt đầu trở thành vấn đề[^18]. Hiện tại một số khu vực sẽ cung cấp phiên bản ngôn ngữ bản địa hoặc tóm tắt ngôn ngữ Đông Nam Á, nhưng đa ngôn ngữ hóa toàn diện còn chi phí cao và ngưỡng kỹ thuật cao.
 
 ## Công bảo trường hợp công bố: logic nhất quán nhưng bố cục tăng vọt
 
-Công bảo trường hợp công bó của công bảo cử viên logic giống nhau — cấp phát nhà nước, bên đề xuất tự điền, định dạng thống nhất, kiểm tra hình thức — nhưng cấu trúc hơi khác[^20]:
+Công bảo trường hợp công bó của công bảo cử viên logic giống nhau — cấp phát nhà nước, bên đề xuất tự điền, định dạng thống nhất, kiểm tra hình thức — nhưng cấu trúc hơi khác[^19]:
 
 - **Ý kiến phía ủng hộ**: được viết bởi người đứng đầu bên đề xuất công bảo
 - **Ý kiến phía phản đối**: theo quy định Luật công bảo dân cư tập hợp ý kiến phía phản đối (nếu có bên phản đối đưa ra)
 - **Giải thích lập trường của trung ương bầu cử**: bổ sung giải thích phạm vi ảnh hưởng pháp luật của trường hợp công bảo, điều kiện triển khai
 
-Năm 2018 công bảo kết hợp bầu cử lớn, tổng cộng có mười trường hợp công bảo (hôn nhân cùng giới tính, đổi tên Đông Á Olympia, ô nhiễm không khí, năng lượng hạt nhân, v.v.) cùng bỏ phiếu. Công bảo bầu cử cộng với công bảo trường hợp công bảo sau đó trở nên cực kỳ dày, một số cử tri phản ánh "chưa đọc hết đã bỏ phiếu". Sau sự kiện này, Luật công bảo dân cư sửa đổi, công bảo và bầu cử lớn tách biệt (chuyển thành cuộc bỏ phiếu công bảo mỗi hai năm một lần), một phần lý do là để tránh quá tải thông tin công bảo[^21].
+Năm 2018 công bảo kết hợp bầu cử lớn, tổng cộng có mười trường hợp công bảo (hôn nhân cùng giới tính, đổi tên Đông Á Olympia, ô nhiễm không khí, năng lượng hạt nhân, v.v.) cùng bỏ phiếu. Công bảo bầu cử cộng với công bảo trường hợp công bảo sau đó trở nên cực kỳ dày, một số cử tri phản ánh "chưa đọc hết đã bỏ phiếu". Sau sự kiện này, Luật công bảo dân cư sửa đổi, công bảo và bầu cử lớn tách biệt (chuyển thành cuộc bỏ phiếu công bảo mỗi hai năm một lần), một phần lý do là để tránh quá tải thông tin công bảo[^20].
 
 ## Điểm quan sát công bảo bầu cử 2026
 
@@ -172,7 +172,7 @@ Bầu cử chín hợp nhất ngày 28 tháng 11 năm 2026, công bảo bầu c�
 
 **3. Kiểm tra trình độ học vấn kinh lịch**
 
-Truyền thông và tổ chức công dân (chẳng hạn như Watchout, READr, PNN) thường kiểm tra nội dung công bảo trước bầu cử, đặc biệt là trình độ học vấn và kinh lịch quan trọng[^22]. Nếu phát hiện sai lệch, sẽ công khai tiết lộ. Bầu cử 2026 cũng nên có hoạt động kiểm tra tương tự, công bảo là nguồn tài liệu gốc của những cuộc kiểm tra này.
+Truyền thông và tổ chức công dân (chẳng hạn như Watchout, READr, PNN) thường kiểm tra nội dung công bảo trước bầu cử, đặc biệt là trình độ học vấn và kinh lịch quan trọng[^21]. Nếu phát hiện sai lệch, sẽ công khai tiết lộ. Bầu cử 2026 cũng nên có hoạt động kiểm tra tương tự, công bảo là nguồn tài liệu gốc của những cuộc kiểm tra này.
 
 **4. Lưu lượng phiên bản số**
 
