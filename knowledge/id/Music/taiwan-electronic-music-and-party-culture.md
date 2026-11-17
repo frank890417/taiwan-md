@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
-sourceCommitSha: 'afcfabc33'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f8d93a4a9320d691'
 sourceBodyHash: 'sha256:2195da25b78144be'
-translatedAt: '2026-10-03T04:11:36+08:00'
+translatedAt: '2026-11-17T23:16:30.766283+00:00'
 ---
 
 # Musik Elektronik dan Budaya Pesta di Taiwan: Dari Rave Bawah Tanah hingga Panggung Internasional
