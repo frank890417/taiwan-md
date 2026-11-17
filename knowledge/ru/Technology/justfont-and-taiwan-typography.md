@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-07-28T03:07:49+08:00'
+translatedAt: '2026-11-17T21:51:04.459429+00:00'
 ---
 
 > **30 секунд обзора:** 8 сентября 2015 года шрифт Цзиньсюань компании justfont вышел на краудфандинге flyingV, за 76 минут преодолел порог в 1,5 млн новтайваньских долларов, в итоге 7667 человек вложили 25 930 099 долларов. Эта статья начинается с 1987 года, когда была основана Хуакан, и показывает, как рухнула отрасль, которую читает весь Тайвань каждый день, и как выросли читатели; она также рассказывает о мастерах шрифтов: Линь Ся, пришедшей из рисования буддийских икон, Чжань Цзегуане, отливавшем свинцовые шрифты на улице Тайюань полвека, Ване Шуйхэ, вышедшем в ремесло в 14 лет, а также об открытых шрифтах, вышедших после Цзиньсюань — Ланьян минти и экосистеме независимых дизайнеров.
