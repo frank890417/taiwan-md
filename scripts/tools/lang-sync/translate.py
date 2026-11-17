@@ -1179,7 +1179,11 @@ def main():
             print(f"→ ok via {backend_used} ({dt}s)")
         else:
             fail += 1
-            print(f"❌ {err[:120] if err else 'unknown'} ({dt}s)")
+            # 2026-11-18：曾截 120 字。cascade 前綴就吃掉約 85 字，OpenRouter 402 的
+            # 「requires more credits」落在截斷點之後，babel-dispatch 的 CREDIT_OUT_MARKERS
+            # 從此看不到餘額用盡，三個 Haiku worker 每輪照搶 P0 缺檔、各撞一次 402。
+            # dispatcher 只靠這行 stdout 判斷失敗類別，所以留足 400 字。
+            print(f"❌ {err[:400] if err else 'unknown'} ({dt}s)")
 
     elapsed = int(time.time() - start)
     print()
