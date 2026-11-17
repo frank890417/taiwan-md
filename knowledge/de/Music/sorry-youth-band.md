@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/拍謝少年.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-17T23:18:38.066749+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Jahr 2005 beschlossen drei junge Männer aus Tainan nach einem Schrei im Frühling, eine vollständig in der Dialektsprache gespielte Rockband zu gründen. Das Problem: Nur Jiangjiang sprach ursprünglich den Dialekt. „Hai Kowei“ (2012) zeigt einen Hai; „Brothers Should Not Be Without Dreams“ (2017) gewann den Golden Melody Award für bestes Artwork und den Golden Melody Award für beste Rockmusik; „Daisai Hao Shi“ (2021) sammelte über 3,1 Millionen NTD durch Crowdfunding ein; „Noise Apartment“ (2024) brach erneut seinen eigenen Fundraising-Rekord und gewann dreimal den Golden Melody Award für beste Rockmusik. Von einer Band von Büroangestellten zu Vollzeitmusikern – der Konsens von Winnie, Jiangjiang und Zonghan über zwanzig Jahre war immer nur ein Satz: „Man muss zuerst sein eigenes Leben gut leben, dann funktioniert die Musik.“

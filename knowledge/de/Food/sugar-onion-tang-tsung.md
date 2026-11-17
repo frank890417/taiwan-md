@@ -19,11 +19,13 @@ featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-17T23:05:52.567517+00:00'
 ---
 
 # Zangcong: Der „Widerstandszucker“ in weißen Löchern versteckt
