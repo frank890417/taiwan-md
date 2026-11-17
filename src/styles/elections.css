@@ -43,6 +43,11 @@
   --el-map-4: #7c2d12;
   --el-map-stroke: #faf7f0;
   --el-map-hover: #1c1917;
+  /* 石板灰（主頁公投卡「另一張票」的冷灰字與線） */
+  --el-slate-ink: #334155;
+  --el-slate-ink-2: #475569;
+  --el-slate-line: #dfe2e7;
+  --el-slate-mark: #64748b;
   /* 字體 */
   --el-serif: 'jf-lanyangming', var(--font-title, 'Noto Serif TC'), serif;
   --el-sans: var(--font-interface, 'Noto Sans TC'), sans-serif;
@@ -78,5 +83,9 @@
   --el-map-4: #f2a77f;
   --el-map-stroke: #0e0d0b;
   --el-map-hover: #f3efe7;
+  --el-slate-ink: #d5dce6;
+  --el-slate-ink-2: #aab4c2;
+  --el-slate-line: rgba(203, 213, 225, 0.18);
+  --el-slate-mark: #8b9ab0;
   color-scheme: dark;
 }

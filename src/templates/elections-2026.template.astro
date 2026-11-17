@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import '../styles/elections.css';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsDataRaw from '../data/elections-2026.json';
 import { existsSync } from 'node:fs';
@@ -3340,7 +3341,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
   description={pageDescription}
   readerSettings
 >
-  <div class="elections-2026">
+  <div class="elections-2026 el-surface">
     <!-- 00 開場：投票日三件事＋倒數與選務進度 -->
     <section class="el-hero" aria-labelledby="el-title">
       <div class="el-wrap el-hero-grid">
@@ -4155,22 +4156,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
    * 每種連結都自己寫 color／border-bottom。字體：標題用襯線（字重 600／700，
    * 不用 light），介面字用 --font-interface；全頁沒有斜體。 */
   .elections-2026 {
-    --el-bg: #faf7f0;
-    --el-card: #fff;
-    --el-border: #e7dfcc;
-    --el-rule: #efe8d8;
-    --el-ink: #1c1917;
-    --el-ink-2: #57534e;
-    /* 規格的淡色 #78716c 在 #faf7f0 上只有 4.48:1，微調到 4.97:1 */
-    --el-ink-3: #716a65;
-    --el-accent: #7c2d12;
-    --el-accent-soft: #fbefe6;
-    --el-done: #3f6212;
-    --el-slate: #f1f2f4;
-    --el-about: #f3ecdc;
-    --el-serif: 'jf-lanyangming', var(--font-title, 'Noto Serif TC'), serif;
-    --el-sans: var(--font-interface, 'Noto Sans TC'), sans-serif;
-    --el-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+    /* 顏色 token 在 src/styles/elections.css（.el-surface，淺深兩組） */
     background: var(--el-bg);
     color: var(--el-ink);
     font-size: 16px;
@@ -4224,7 +4210,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
   .elections-2026 :global(.el-inline-link) {
     color: var(--el-accent);
     text-decoration: none;
-    border-bottom: 1px solid rgba(124, 45, 18, 0.3);
+    border-bottom: 1px solid
+      color-mix(in srgb, var(--el-accent) 30%, transparent);
     padding-bottom: 0;
   }
   .elections-2026 :global(.el-inline-link:hover) {
@@ -4232,12 +4219,16 @@ import { icons } from '../icons/taiwan-icons.mjs';
     border-bottom-color: var(--el-accent);
   }
   .elections-2026 :global(.el-inline-link--slate) {
-    color: #334155;
-    border-bottom-color: rgba(51, 65, 85, 0.35);
+    color: var(--el-slate-ink);
+    border-bottom-color: color-mix(
+      in srgb,
+      var(--el-slate-ink) 35%,
+      transparent
+    );
   }
   .elections-2026 :global(.el-inline-link--slate:hover) {
-    color: #1e293b;
-    border-bottom-color: #1e293b;
+    color: var(--el-ink);
+    border-bottom-color: var(--el-ink);
   }
 
   /* ── 00 開場 ── */
@@ -4253,12 +4244,12 @@ import { icons } from '../icons/taiwan-icons.mjs';
     background-image:
       radial-gradient(
         circle at 15% 25%,
-        rgba(124, 45, 18, 0.05) 0%,
+        color-mix(in srgb, var(--el-accent) 5%, transparent) 0%,
         transparent 45%
       ),
       radial-gradient(
         circle at 85% 75%,
-        rgba(146, 64, 14, 0.04) 0%,
+        color-mix(in srgb, var(--el-accent-2) 4%, transparent) 0%,
         transparent 45%
       );
   }
@@ -4333,8 +4324,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
     border: 1px solid var(--el-border);
     border-radius: 16px;
     box-shadow:
-      0 1px 2px rgba(28, 25, 23, 0.04),
-      0 10px 28px rgba(124, 45, 18, 0.06);
+      0 1px 2px color-mix(in srgb, var(--el-ink) 4%, transparent),
+      0 10px 28px color-mix(in srgb, var(--el-accent) 6%, transparent);
   }
   .el-count-label {
     margin: 0;
@@ -4452,7 +4443,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     position: sticky;
     top: var(--el-nav-top, var(--header-h, 56px));
     z-index: 30;
-    background: rgba(250, 247, 240, 0.92);
+    background: color-mix(in srgb, var(--el-bg) 92%, transparent);
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
     border-top: 1px solid var(--el-rule);
@@ -4514,7 +4505,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-section--slate {
     background: var(--el-slate);
-    border-top-color: #e2e5ea;
+    border-top-color: var(--el-slate-line);
   }
   .el-section--about {
     background: var(--el-about);
@@ -4539,7 +4530,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     background: var(--el-border);
   }
   .el-section--slate .el-sec-no::after {
-    background: #d9dde3;
+    background: var(--el-slate-line);
   }
   .el-sec-head {
     margin-bottom: 28px;
@@ -4597,7 +4588,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     font-size: 12px;
     line-height: 1.6;
     color: var(--el-ink-2);
-    border: 1px solid #d6cdb8;
+    border: 1px solid var(--el-border-strong);
     border-radius: 4px;
     white-space: nowrap;
   }
@@ -4628,19 +4619,19 @@ import { icons } from '../icons/taiwan-icons.mjs';
       color 0.15s;
   }
   .el-btn-primary {
-    color: #fff;
+    color: var(--el-card);
     background: var(--el-accent);
     border: 1px solid var(--el-accent);
   }
   .el-btn-primary:hover {
-    color: #fff;
-    background: #67250e;
-    border-color: #67250e;
+    color: var(--el-card);
+    background: color-mix(in srgb, var(--el-accent) 85%, var(--el-ink));
+    border-color: color-mix(in srgb, var(--el-accent) 85%, var(--el-ink));
   }
   .el-btn-ghost {
     color: var(--el-ink);
     background: var(--el-card);
-    border: 1px solid #d6cdb8;
+    border: 1px solid var(--el-border-strong);
   }
   .el-btn-ghost:hover {
     color: var(--el-accent);
@@ -4662,7 +4653,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     align-self: flex-start;
     gap: 2px;
     padding: 3px;
-    background: #f1ebde;
+    background: var(--el-about);
     border: 1px solid var(--el-border);
     border-radius: 10px;
   }
@@ -4689,7 +4680,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     background: var(--el-card);
     box-shadow:
       0 0 0 1px var(--el-border),
-      0 1px 2px rgba(28, 25, 23, 0.08);
+      0 1px 2px color-mix(in srgb, var(--el-ink) 8%, transparent);
   }
   .el-jump {
     display: flex;
@@ -4736,7 +4727,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-jump-link:hover {
     color: var(--el-accent);
-    border-color: rgba(124, 45, 18, 0.45);
+    border-color: color-mix(in srgb, var(--el-accent) 45%, transparent);
   }
   .el-group + .el-group {
     margin-top: 40px;
@@ -4859,7 +4850,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-cand-act.is-article {
     color: var(--el-accent);
-    border-bottom: 1px solid rgba(124, 45, 18, 0.35);
+    border-bottom: 1px solid
+      color-mix(in srgb, var(--el-accent) 35%, transparent);
   }
   .el-cand-act.is-article:hover {
     color: var(--el-accent);
@@ -4867,7 +4859,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-cand-act.is-contribute {
     color: var(--el-ink-2);
-    border-bottom: 1px dashed #a8a29e;
+    border-bottom: 1px dashed
+      color-mix(in srgb, var(--el-ink-3) 60%, var(--el-bg));
   }
   .el-cand-act.is-contribute:hover {
     color: var(--el-accent);
@@ -4877,7 +4870,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     margin-top: 24px;
     padding: 24px;
     background: var(--el-card);
-    border: 1.5px dashed rgba(124, 45, 18, 0.45);
+    border: 1.5px dashed color-mix(in srgb, var(--el-accent) 45%, transparent);
     border-radius: 14px;
   }
   .el-invite-title {
@@ -4932,7 +4925,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     margin: 8px 0 0;
     font-size: 15px;
     line-height: 1.8;
-    color: #44403c;
+    color: color-mix(in srgb, var(--el-ink-2) 70%, var(--el-ink));
   }
   .el-faq-src {
     margin: auto 0 0;
@@ -4953,14 +4946,14 @@ import { icons } from '../icons/taiwan-icons.mjs';
     font-weight: 600;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #475569;
+    color: var(--el-slate-ink-2);
   }
   .el-ref-q {
     margin: 24px 0 0;
     padding: 20px 22px;
-    background: #fff;
-    border: 1px solid #dfe2e7;
-    border-left: 3px solid #64748b;
+    background: var(--el-card);
+    border: 1px solid var(--el-slate-line);
+    border-left: 3px solid var(--el-slate-mark);
     border-radius: 4px 12px 12px 4px;
   }
   .el-ref-q-label,
@@ -4968,7 +4961,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     margin: 0;
     font-size: 13px;
     line-height: 1.6;
-    color: #5b6472;
+    color: var(--el-slate-ink-2);
   }
   .el-ref-text {
     margin: 8px 0 0;
@@ -4981,33 +4974,33 @@ import { icons } from '../icons/taiwan-icons.mjs';
   .el-ref-tr {
     margin-top: 14px;
     padding-top: 12px;
-    border-top: 1px solid #eceef1;
+    border-top: 1px solid var(--el-slate-line);
   }
   .el-ref-tr-text {
     margin: 4px 0 0;
     font-size: 15px;
     line-height: 1.7;
-    color: #374151;
+    color: var(--el-slate-ink);
   }
   .el-ref-facts {
     margin: 0;
     padding: 4px 20px;
-    background: #fff;
-    border: 1px solid #dfe2e7;
+    background: var(--el-card);
+    border: 1px solid var(--el-slate-line);
     border-radius: 12px;
   }
   .el-ref-fact {
     padding: 14px 0;
   }
   .el-ref-fact + .el-ref-fact {
-    border-top: 1px solid #eceef1;
+    border-top: 1px solid var(--el-slate-line);
   }
   .el-ref-fact dt {
     margin: 0;
     font-size: 13px;
     font-weight: 600;
     line-height: 1.5;
-    color: #475569;
+    color: var(--el-slate-ink-2);
   }
   .el-ref-fact dd {
     margin: 4px 0 0;
@@ -5018,10 +5011,10 @@ import { icons } from '../icons/taiwan-icons.mjs';
   .el-ref-foot {
     margin-top: 32px;
     padding-top: 18px;
-    border-top: 1px solid #d9dde3;
+    border-top: 1px solid var(--el-slate-line);
     font-size: 13px;
     line-height: 1.7;
-    color: #4b5563;
+    color: var(--el-slate-ink-2);
   }
   .el-ref-foot p {
     margin: 0;
@@ -5065,7 +5058,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     width: 14px;
     height: 14px;
     box-sizing: border-box;
-    border: 2px solid #cfc6b3;
+    border: 2px solid var(--el-border-strong);
     border-radius: 50%;
     background: var(--el-bg);
   }
@@ -5126,7 +5119,8 @@ import { icons } from '../icons/taiwan-icons.mjs';
     font-weight: 600;
     line-height: 1.5;
     color: var(--el-accent);
-    border-bottom: 1px solid rgba(124, 45, 18, 0.3);
+    border-bottom: 1px solid
+      color-mix(in srgb, var(--el-accent) 30%, transparent);
     padding-bottom: 1px;
   }
   .el-more-link:hover {
@@ -5229,11 +5223,11 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   a.el-page:hover {
     color: var(--el-ink);
-    border-color: rgba(124, 45, 18, 0.45);
-    box-shadow: 0 8px 24px rgba(124, 45, 18, 0.07);
+    border-color: color-mix(in srgb, var(--el-accent) 45%, transparent);
+    box-shadow: 0 8px 24px color-mix(in srgb, var(--el-accent) 7%, transparent);
   }
   .el-page.is-wip {
-    background: rgba(255, 255, 255, 0.55);
+    background: color-mix(in srgb, var(--el-card) 55%, transparent);
   }
   .el-page-top {
     display: flex;
@@ -5256,11 +5250,11 @@ import { icons } from '../icons/taiwan-icons.mjs';
   }
   .el-status.is-live {
     color: var(--el-done);
-    background: #eef3e2;
+    background: color-mix(in srgb, var(--el-done) 10%, var(--el-card));
   }
   .el-status.is-wip {
     color: var(--el-ink-2);
-    background: #f1ebde;
+    background: var(--el-about);
   }
   .el-page-title {
     display: block;
@@ -5357,12 +5351,12 @@ import { icons } from '../icons/taiwan-icons.mjs';
     margin: 14px 0 0;
     font-size: 16px;
     line-height: 1.85;
-    color: #44403c;
+    color: color-mix(in srgb, var(--el-ink-2) 70%, var(--el-ink));
   }
   .el-verify {
     align-self: start;
     padding: 22px 24px;
-    background: rgba(255, 255, 255, 0.6);
+    background: color-mix(in srgb, var(--el-card) 60%, transparent);
     border: 1px solid var(--el-border);
     border-radius: 12px;
   }
@@ -5375,7 +5369,7 @@ import { icons } from '../icons/taiwan-icons.mjs';
     padding-left: 18px;
     font-size: 15px;
     line-height: 1.75;
-    color: #44403c;
+    color: color-mix(in srgb, var(--el-ink-2) 70%, var(--el-ink));
   }
   .el-checks > li::before {
     content: '';
