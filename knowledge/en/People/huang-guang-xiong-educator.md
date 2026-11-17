@@ -2,27 +2,31 @@
 title: 'Huang Guang-xiong: The Man Who Built a College of Education on a Chiayi Field'
 description: "In 1996, Huang Guang-xiong traveled south from NTNU to Chiayi, founding the Graduate Institute of Education at National Chung Cheng University — which he later expanded into the College of Education. He spent half a century translating Western curriculum theory into Taiwan, co-translated a landmark qualitative research textbook, led the research and planning for the nine-year integrated curriculum guidelines, and coordinated a three-year interdisciplinary team to design a moral education program centered on 'respect and care.' He passed away in 2021 at age 84."
 date: 2026-04-25
-tags:
-  - 'education'
-  - 'curriculum theory'
-  - 'education studies'
-  - 'scholar'
-  - 'National Chung Cheng University'
-  - 'National Taiwan Normal University'
-  - 'qualitative research'
-  - 'moral education'
-subcategory: '教育與社會'
 category: 'People'
+tags:
+  [
+    'education',
+    'curriculum theory',
+    'education studies',
+    'scholar',
+    'National Chung Cheng University',
+    'National Taiwan Normal University',
+    'qualitative research',
+    'moral education',
+  ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 7
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-05-01T12:21:52+08:00'
+translatedAt: '2026-11-04T21:24:18.322438+00:00'
 ---
 
 > **30-Second Overview:** Huang Guang-xiong (1937–2021), the founding figure of curriculum studies in Taiwan. He earned his doctorate in education from National Taiwan Normal University and conducted research at the Institute of Education, University of London. He served as Dean of the College of Education at NTNU, President of National Hsinchu Teachers College, and founding director of the Graduate Institute of Education and the College of Education at National Chung Cheng University. He systematically introduced Western curriculum theory to Taiwan, edited foundational teacher-training textbooks including _Introduction to Education_ and _Principles of Teaching_, co-translated _Qualitative Research for Education_, and directly participated in the Ministry of Education's research planning for the nine-year integrated curriculum guidelines. He passed away on February 4, 2021, at age 84.

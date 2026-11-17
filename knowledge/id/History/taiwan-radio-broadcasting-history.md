@@ -22,11 +22,13 @@ rationale:
   whats_excluded: '不寫成電台名錄或技術百科，不逐一整理所有頻率、機器規格與主持人年表。文章聚焦制度、語言、收聽日常與公共空間的變化。'
   where_it_hedges: '1925年試播、1928年臺北放送局、1931年臺灣放送協會、1946年臺灣廣播電台與《臺灣之聲》分段處理，不把日治廣播直接寫成戰後制度的單一路線。'
   whos_pushing_back: '承認廣播長期被政府、政黨與軍事體系控制，也保留收聽者、民營電台、台語節目與地下電台如何挪用同一媒介的歷史。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣廣播史.md'
-sourceCommitSha: '174a83b65'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:83934ab33e775cb3'
 sourceBodyHash: 'sha256:9b5ab13cba09c99e'
-translatedAt: '2026-09-10T00:04:26.508350+00:00'
+translatedAt: '2026-11-05T22:17:18.660628+00:00'
 ---
 
 # Suara Tanpa Alamat: Bagaimana Penyiaran Taiwan Berubah dari Pengeras Suara Negara menjadi Ruang Publik Lokal

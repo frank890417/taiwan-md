@@ -2,9 +2,7 @@
 title: "L'islam à Taïwan : des ancêtres Guo de Quanzhou à la mosaïque spirituelle de trois cent mille travailleurs migrants"
 description: "En 2025, la population musulmane de Taïwan dépasse les 300 000 personnes. L'empreinte islamique sur cette île s'étend sur quatre siècles. Des tabous ancestraux liés au sacrifice au porc dans le village de Guo à Lukang, aux célébrations de l'iftah dans le hall à damier noir et blanc de la gare de Taipei, Taïwan traverse une reconstruction spirituelle allant de « l'origine cachée » à « la patrie retrouvée au loin »."
 date: 2026-04-28
-author: 'idlccp1984'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'islam',
@@ -14,15 +12,19 @@ tags:
     'clan Ding de Taixi',
     'histoire de Taïwan',
   ]
-readingTime: 8
+subcategory: '宗教與民俗'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-06-12T00:53:05+08:00'
+translatedAt: '2026-11-05T08:35:11.860284+00:00'
 ---
 
 > **En 30 secondes :** L'islam à Taïwan n'est pas une culture étrangère importée, mais une mémoire ancienne enfouie dans les veines de l'île. Des descendants des « Hui Ding » (回民丁) de Quanzhou arrivés avec Zheng Chenggong à la fin de la dynastie Ming, aux 260 000 travailleurs migrants indonésiens musulmans qui soutiennent aujourd'hui les secteurs de la pêche et de la dépendance à Taïwan, cette foi a connu un voyage extraordinaire sur l'île, passant de l'assimilation et de la disparition à l'épanouissement dans la diversité.

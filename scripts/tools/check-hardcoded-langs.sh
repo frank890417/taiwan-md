@@ -137,6 +137,7 @@ DEBT=(
   "scripts/tools/lang-sync/cjk-leak-check.py:71|2026-09-27|B 類：非漢字文字的語言集合，是語言屬性分類，新語言出生時要人判斷歸屬，不能從註冊表 derive"
   "scripts/tools/lang-sync/cjk-residue-check.py:43|2026-09-27|B 類：同上，非漢字語系集合"
   "scripts/tools/lang-sync/numeral-conversion-check.py:112|2026-09-27|B 類：小數點用逗號的語言集合，是語言屬性，同上"
+  "scripts/tools/lang-sync/numeral-magnitude-check.py:145|2026-11-02|B 類：DECIMAL_COMMA 小數點用逗號的語言集合，跟 numeral-conversion-check.py:112 同一份語言屬性，新語言出生時要人判斷歸屬；兩支各寫一份，日後該抽成共用表"
   # ── 2026-10-01 semiont-heartbeat：A 類感知層四支（fetch-cloudflare／refresh-llms-txt／
   #    weekly-report-prep／generate-dashboard-immune）改吃 langs.py，掛號撤掉。fetch-cloudflare
   #    那行其實 09-27 self-evolve 已修，留下的命中是「讀不到註冊表就退回五語」的退路，同班一併拿掉。

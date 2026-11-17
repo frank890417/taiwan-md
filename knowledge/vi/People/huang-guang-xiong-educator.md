@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-11-04T21:07:20.574422+00:00'
 ---
 
 > **30 giây tóm tắt:** Huang Kuang-hsiung (1937-2021), người sáng lập giáo dục chương trình học tại Đài Loan. Tiến sĩ Giáo dục học tại Đại học Thạnh Đô, nghiên cứu tại Viện Nghiên cứu Giáo dục, Đại học London (nay là UCL IOE). Từng là Trưởng khoa Giáo dục học, Hiệu trưởng Trường Trung Cấp Thạnh Đô Hsinchu, và người sáng lập và điều hành Viện Nghiên cứu Giáo dục tại Đại học Trung Chính. Ông mang hệ thống lý thuyết chương trình giảng dạy phương Tây vào Đài Loan, biên soạn sách giáo khoa "Giới thiệu Giáo dục học" và "Nguyên lý Dạy học", dịch thuật "Nghiên cứu Giáo dục Định tính", và trực tiếp tham gia kế hoạch nghiên cứu chương trình giảng dạy K-12 của Bộ Giáo dục. Ông mất vào ngày 4 tháng 2 năm 2021, hưởng thọ 84 tuổi.

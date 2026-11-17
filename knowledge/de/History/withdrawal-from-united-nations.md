@@ -1,15 +1,15 @@
 ---
-title: 'Der Austritt aus den Vereinten Nationen: Die 17 Minuten von 1971, in denen Taiwan von „China“ zum internationalen Waisenkind wurde'
-description: 'Am 25. Oktober 1971 trat der taiwanesische Außenminister Chou Shou-kuai vom Podium der UN-Generalversammlung ab. Mit diesem Schritt verwandelte sich die Republik China von einem der Gründungsmitglieder der Vereinten Nationen in einen Beobachterstatus, der bis heute andauert. Fünfzig Jahre später ist diese Entscheidung, die als „die Chinesen können nicht zusammenexistieren“ bezeichnet wird, weiterhin umstritten – ein US-Gesetz von 2025 erinnert erneut daran, dass Resolution 2758 niemals die Vertretungsbefugnis Taiwans behandelt hat.'
+title: 'Taiwans Austritt aus den Vereinten Nationen: jene 17 Minuten 1971, als ein Gründungsmitglied zum Aussenseiter wurde'
+description: 'Am 25. Oktober 1971 stieg Chou Shu-kai im Saal der UN-Generalversammlung vom Rednerpult herab, und die Republik China wandelte sich von einem Gründungsmitglied der Vereinten Nationen zu einem Aussenseiter, der vor der Tür blieb. Was nach aussen wie ein tragischer Abgang unter dem Motto „Han und Banditen können nicht nebeneinander bestehen“ wirkte, war in Wirklichkeit: Chiang Kai-shek hatte bereits Anfang 1971 einen Kompromiss von „zwei Chinas“ akzeptiert; der eigentliche Wendepunkt war Henry Kissingers geheimer Besuch in Peking im Juli desselben Jahres. Ein halbes Jahrhundert später bekräftigte das US-Repräsentantenhaus 2025 in einem Gesetz: Resolution 2758 habe nie die Vertretungsrechte Taiwans geregelt.'
 date: 2026-05-02
 category: 'History'
 tags:
   [
-    'Diplomatie',
+    'Außenpolitik',
     'Geschichte',
     'Vereinte Nationen',
     'Kalter Krieg',
-    'Beziehungen zwischen den beiden Seiten des Taiwan-Strait',
+    'Cross-Strait-Beziehungen',
     'Völkerrecht',
   ]
 subcategory: '民主與治理'
@@ -17,11 +17,15 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-09-10T18:19:25+08:00'
+translatedAt: '2026-11-05T04:17:43.162369+00:00'
 ---
 
 Am 25. Oktober 1971 in der Nacht, im Saal der Vereinten Nationen in New York. Der taiwanesische Außenminister Chou Shou-kuai las seine Erklärung vor, verabschiedete sich vom grünen Marmorpodium und das gesamte Delegation verließ den Saal. Von der Eingabe bis zum Austritt dauerte nicht einmal 20 Minuten[^1]. Eine halbe Stunde später wurde Resolution 2758 mit 76 zu 35 Stimmen angenommen, „Chiang Kai-shek“ wurde vertrieben und die Volksrepublik China trat offiziell in den Platz der „China“-Vertretung ein. Taiwan, ein Gründungsmitglied der Vereinten Nationen (am 24. August 1945 unterschrieb Chiang Chung-cheng in Chongqing die Genehmigung des UN-Charta-Aktes[^2]), wurde innerhalb einer Nacht zur Außenseiterin internationaler Organisationen.

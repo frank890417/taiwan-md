@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-07-26T13:02:55+08:00'
+translatedAt: '2026-11-05T02:37:47.902099+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

@@ -47,6 +47,8 @@ sporeLinks:
     platform: 'x'
     date: '2026-08-04'
     url: 'https://x.com/taiwandotmd/status/2084520918441951650'
+curation: incubating
+curationReason: unverified
 ---
 
 # 台灣海關報關與 EZ WAY：按下「申報相符」的那一下，你委任了誰

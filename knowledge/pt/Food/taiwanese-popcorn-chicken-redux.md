@@ -1,17 +1,17 @@
 ---
-title: 'Frango Frito com Sal e Pimenta de Taiwan'
-description: 'Em 1975, Chen Ting-chih (陳廷智), um tainanense cujo restaurante havia falido, montou uma banca de carrinho em Ximending, fritando pedaços de frango com um molho de marinada familiar. Cinquenta anos depois, o frango frito com sal e pimenta tornou-se um dos poucos petiscos de Taiwan que sobrevivem sem precisar de noite de mercado nem de loja física — bastam um carrinho e uma panela de óleo. A CNN incluiu-o duas vezes na sua lista de comidas imperdíveis de Taiwan, mas a sua forma mais autêntica de comer continua a ser esperar à beira da estrada, de madrugada, por aquele saco de papel.'
+title: 'Frango Frito Taiwanese (Yan Su Ji)'
+description: 'Em 1975, Chen Ting-chih, um residente de Tainan cujo restaurante havia falhado, começou a operar um carrinho em Ximending usando uma receita de marinada de família para fritar pedaços de frango. Cinquenta anos depois, o Yan Su Ji tornou-se um dos poucos lanches de Taiwan que não precisa de mercados noturnos ou de uma loja física, sobrevivendo apenas com um carrinho e uma panela de óleo — a CNN o incluiu duas vezes na lista de comidas imperdíveis de Taiwan, mas a maneira mais autêntica de comê-lo é sempre esperando por aquele saco de papel à beira da estrada no meio da noite.'
 date: 2026-04-01
 category: 'Food'
 tags:
   [
-    'Frango frito com sal e pimenta',
-    'Frango frito salgado',
-    'Petisco',
+    'Yan Su Ji',
+    'Frango frito temperado',
+    'Lanche local',
     'Mercado noturno',
-    'Fritura',
-    'Cultura de ceia noturna',
-    'Manjericão tailandês',
+    'Frituras',
+    'Cultura da ceia',
+    'Manjericão taiwanês',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-06-26
 lastHumanReview: true
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a5'
-sourceContentHash: 'sha256:ff821213812f38cb'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
 sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-07-28T17:22:19+08:00'
+translatedAt: '2026-11-04T14:17:13.887544+00:00'
 ---
 
 > **Resumo em 30 segundos:** O frango frito com sal e pimenta é o petisco frito mais representativo da comida de rua taiwanesa. Em 1975, Chen Ting-chih montou a primeira banca em Ximending, Taipé, fritando pedaços de frango com um tempero especial, salpicando sal e pimenta e manjericão tailandês, e fez sucesso imediato[^1]. Cinquenta anos depois, as bancas de frango frito com sal e pimenta espalham-se por cada esquina, mercado noturno e bairro residencial de Taiwan. A CNN incluiu-o duas vezes na lista das «comidas sem as quais Taiwan não pode viver»[^2], mas o seu traço mais único não é o sabor — é a sua existência como uma «infraestrutura noturna»: não precisa de loja, não precisa de letreiro, basta um carrinho, uma panela de óleo e um punhado de manjericão tailandês para abrir o negócio.
@@ -89,11 +89,12 @@ A edição internacional em inglês do The News Lens oferece outra pista: o nome
 
 Cinquenta anos atrás, Chen Ting-chih mal imaginaria que o seu carrinho de dono de restaurante falido se tornaria o consolo mais fiável das noites de uma ilha inteira. O frango frito com sal e pimenta não é nenhuma cozinha refinada; o seu sentido de existir é simplesmente este — não importa quão tarde, não importa onde você esteja, a panela de óleo na esquina está sempre à sua espera.
 
-## Leitura complementar
+## Leitura Complementar
 
-- [Cultura de mercado noturno](/pt/food/night-market-culture) — Principal canal de circulação do frango frito com sal e pimenta, palco central do ecossistema de ceia noturna taiwanesa
-- [Cultura de pequeno-almoço de Taiwan](/pt/food/taiwan-breakfast-culture) — Do amanhecer à madrugada, contraponto dos dois grandes momentos alimentares de Taiwan
-- [Cultura de lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — As bancas de frango frito com sal e pimenta e as lojas de conveniência compõem juntas a paisagem alimentar das 24 horas de Taiwan
+- [Cultura dos mercados noturnos](/pt/food/night-market-culture) — O principal local de circulação do _yansuji_, o palco central do ecossistema de lanches noturnos ao estilo taiwanês.
+- [Cultura do café da manhã em Taiwan](/pt/food/taiwan-breakfast-culture) — Uma comparação entre dois períodos alimentares importantes em Taiwan, do amanhecer até o fim da noite.
+- [Cultura das lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — As barracas de _yansuji_ e as lojas de conveniência compõem, juntas, a paisagem alimentar de 24 horas de Taiwan.
+- [Bolinhos de batata-doce (Di-gua qiu)](/pt/food/sweet-potato-balls) — Outra panela de óleo na mesma rua de um mercado noturno: o interior oco dos bolinhos de batata-doce é moldado lote por lote pelos vendedores com uma escumadeira.
 
 ## Referências
 

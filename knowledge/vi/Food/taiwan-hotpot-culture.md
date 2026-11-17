@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/台灣火鍋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-07-26T13:02:55+08:00'
+translatedAt: '2026-11-05T04:15:51.608929+00:00'
 ---
 
 > **30 giây tóm tắt:** Thị trường nồi hấp của Đài Loan có giá trị sản xuất hàng năm lên tới hàng chục tỷ Đài tệ, không chỉ là món ăn nổi bật vào mùa đông để ấm lòng, mà còn là văn hóa ăn uống phù hợp trong bốn mùa. Từ "cày nồi" thời kỳ nhật ảnh hưởng đến các loại nồi mang theo di sản di cư sau chiến tranh, đến ngày nay với nồi hấp cá nhân và nồi hấp sang trọng, lịch sử biến đổi của nồi hấp tại Đài Loan phản ánh sự thay đổi xã hội và giao nhập dân tộc của hòn đảo, cuối cùng đã nấu nướng nên hương vị độc đáo của "Đài Loan".

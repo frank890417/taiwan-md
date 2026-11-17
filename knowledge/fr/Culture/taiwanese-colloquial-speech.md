@@ -1,8 +1,8 @@
 ---
 title: "Taïwan oral code : De « désolé » à « D prononcé Zhu », comment quatre expressions quotidiennes forgent l'identité"
 description: "À Taïwan, « désolé » peut précéder une véritable excuse ; « hein ? » semble indiquer une incompréhension, mais constitue une réparation conversationnelle translinguistique. Le @ est surnommé « petite souris », et le D devient « Zhu » lors de l'échange des copies. Ces quatre expressions intègrent politesse, malentendus, e-mail et phonétique taïwanaise dans le quotidien, nous rappelant que l'accent taïwanais n'est pas qu'une question de prononciation, mais une méthode d'identification laissée par ceux qui vivent ensemble."
+date: 2026-08-20
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'mandarin taïwanais',
@@ -11,17 +11,19 @@ tags:
     'e-mail',
     'culture scolaire',
   ]
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-12T06:32:13+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-06T15:18:51.236038+00:00'
 ---
 
 > **Aperçu en 30 secondes :** À Taïwan, une phrase « désolé » ne signifie pas nécessairement une erreur majeure ; il peut s'agir simplement de demander à passer, d'ouvrir la parole ou de rapprocher la conversation. Une étude de 2022 menée auprès de 90 étudiants de l'Université nationale de Taïwan a révélé qu'elle apparaît plus fréquemment que « je suis vraiment désolé » dans des situations de gravité générale ou faible. [^1] Un « hein ? » n'est pas non plus une exclusivité taïwanaise, mais une brève phrase de réparation activée par les humains lorsque l'audition est insuffisante. Taïwan appelle également le @ « petite souris » et prononce le D « Zhu » lors de l'échange des copies d'examen. [^2] [^3] [^4] Ces quatre expressions pointent vers une même réalité : la langue ne transmet pas seulement du contenu, elle gère également la distance entre les personnes, identifie les pairs et réduit le temps d'explication.
@@ -58,25 +60,25 @@ Cette découverte rend « hein ? » encore plus intéressant. Ce n'est pas un mo
 
 « Hein ? » nous rappelle également que la culture orale ne peut pas chercher ses réponses uniquement dans les dictionnaires. Les dictionnaires enregistrent le son standard et le sens lexical des caractères, mais l'interaction fait qu'un caractère acquiert un nouveau travail. Lorsque « hein ? » apparaît en début de phrase, ce qu'il fait peut être plus proche d'un bouton qu'un entrée de dictionnaire : on appuie dessus, et l'autre doit réassembler ce qu'il a dit précédemment.
 
-## Le @ devient « petite souris », le symbole technique entre en classe
+## @ devient « petit souris », le symbole technique entre en classe
 
-![SVG du symbole @ dans le domaine public, symbolisant comment le symbole technique acquiert le nom de « petite souris » à Taïwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![SVG du symbole @ dans le domaine public, symbolisant comment les symboles techniques ont fait pousser le nom « petit souris » à Taïwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-_Source de l'image : [Wikimedia Commons : At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Domaine public. L'image est intégrée via une URL externe chaude._
+_Source de l'image : [Wikimedia Commons : At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), domaine public. L'image est uniquement intégrée via une URL externe._
 
-Dans le format de messagerie électronique RFC 5322, le travail du @ est précis. Il sépare la _local-part_ (partie locale) du domaine Internet, la partie avant étant un compte, la partie arrière un domaine. Le document standard le nomme _at-sign_ et le définit comme la valeur ASCII 64. [^4]
+Dans le format de courriel de la RFC 5322, le rôle de @ est très précis. Il sépare le local-part du domain Internet, la partie précédente appartenant au nom d'utilisateur, la partie suivante au domaine. Le document standard le nomme at-sign et le définit comme la valeur ASCII 64.[^4]
 
-Les ingénieurs ont besoin d'un séparateur. Les enfants à l'école ont besoin de quelque chose de mémorable. BBC Chinese, dans un rapport sur les différentes appellations du @ selon les langues, liste la « petite souris » taïwanaise, le « cercle A » continental chinois, ainsi que les appellations italiennes d'escargot, grecques de petit canard, etc. La fonction technique du symbole est la même, mais la mémoire culturelle lui donne à chaque fois une forme différente. [^5]
+Les ingénieurs ont besoin d'un séparateur. Les enfants à l'école ont besoin de quelque chose qu'ils peuvent retenir. Lorsque BBC Chinese a recensé les appellations de @ dans différentes langues, il a listé le « petit souris » de Taïwan, le « A dans un cercle » de Chine continentale, ainsi que l'escargot en Italie, le petit canard en Grèce, etc. La fonction technique du symbole est identique, mais la mémoire culturelle lui a chacune trouvé une forme.[^5]
 
-Ray Tomlinson a intégré le @ dans le format des adresses e-mail sur Internet en 1971, faisant de ce symbole, auparavant rare dans le texte ordinaire, un pont entre le compte et le domaine. [^5] [^6] Les Taïwanais l'ont ensuite appelé « petite souris », non pas pour modifier le RFC, ni pour ajouter une norme officielle au symbole. C'est une méthode pédagogique qui transforme un outil abstrait en un animal familier.
+En 1971, Ray Tomlinson a intégré @ dans le format d'adresse de courriel en réseau, faisant de ce symbole, autrefois rare dans les textes courants, un pont entre le nom d'utilisateur et le domaine.[^5] [^6] Les Taïwanais l'ont ensuite appelé « petit souris », non pas pour modifier la RFC, ni pour ajouter un standard formel au symbole. C'est une méthode pédagogique qui traduit un outil abstrait en un animal familier.
 
-![Configuration des caractères Zhuyin et des lettres anglaises sur le clavier taïwanais](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+![Disposition du bopomofo et des lettres latines sur un clavier taïwanais](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-_Source de l'image : [Wikimedia Commons : Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), auteur Zhengzhong Beilu 711, sous licence CC BY-SA 3.0. L'image est intégrée via une URL externe chaude ; la mention d'auteur et le lien de licence doivent être conservés lors de l'utilisation._
+_Source de l'image : [Wikimedia Commons : Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), auteur Chung-cheng Pei-lu 711, sous licence CC BY-SA 3.0. L'image est uniquement intégrée via une URL externe ; lors de l'utilisation, l'attribution et le lien de licence doivent être conservés._
 
-L'intérêt de « petite souris » réside dans la conservation de la sensation de l'éducation informatique précoce. Les enfants n'ont pas besoin de comprendre les domaines, les comptes et les protocoles réseau ; ils se souviennent simplement du cercle ressemblant à une souris pour le trouver sur le clavier. La première étape de l'entrée de la technologie dans la vie n'est souvent pas la compréhension du système entier, mais la recherche d'un nom reconnaissable pour un symbole étranger.
+L'intérêt du « petit souris » réside dans le fait qu'il conserve le toucher de l'éducation informatique précoce. Les enfants n'ont pas besoin de comprendre d'abord les domaines, les comptes et les protocoles réseau ; il leur suffit de se souvenir de ce cercle qui ressemble à une souris pour le trouver sur le clavier. La première étape de l'entrée de la technologie dans la vie n'est souvent pas la compréhension de tout le système, mais de trouver un nom identifiable pour un symbole étranger.
 
-Ce nom laisse également des différences générationnelles. Les personnes familières avec les premiers cours d'email disent « envoyez à la petite souris » pour que les camarades trouvent immédiatement le @. Les personnes ayant接触é Internet plus tard utilisent plus souvent _at_, ou lisent simplement toute la chaîne d'adresse. Les deux façons de faire accomplissent la tâche, mais la première ajoute une mémoire des cours d'informatique scolaires et familiaux taïwanais.
+Ce nom laisse aussi une différence générationnelle. Ceux qui connaissent l'enseignement précoce de l'email, en disant « envoyez-le au petit souris », permettent à leurs camarades de trouver @ immédiatement. Ceux qui ont découvert Internet plus tard disent peut-être plus souvent at, ou récitent directement toute l'adresse. Les deux façons accomplissent la tâche, mais la première porte en plus un souvenir des cours d'informatique dans les écoles et foyers taïwanais.
 
 ## Pourquoi le D devient « Zhu » ou « Zhu »
 
@@ -108,26 +110,26 @@ L'identité de l'oral taïwanais ne vient pas seulement de vocabulaire unique. E
 
 ## Références
 
-[^1]: [Étude sur l'utilisation des excuses courantes et la perception de la gravité à Taïwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Thèse de master 2022 de l'Université nationale de Taïwan, analysant les choix de « je suis vraiment désolé », « désolé » et « désolé » (bu hao yi si) dans différentes situations sociales à partir de 90 questionnaires d'étudiants de l'Université nationale de Taïwan.
+[^1]: [Étude sur l'utilisation et la perception de la gravité des excuses courantes à Taïwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Mémoire de master de l'Université nationale de Taïwan 2022, utilisant 90 questionnaires d'étudiants de l'NTU pour analyser les choix entre «對不起», «抱歉» et «不好意思» dans différents contextes sociaux.
 
-[^2]: [Ministère de l'Éducation _Xiubian Guoyu Cidian_ : Hei](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Page de dictionnaire officielle du Ministère de l'Éducation, enregistrant les notes ㄍㄜˊ, ㄏㄚˊ de « hein » et les sens standards comme palourdes, clams, crapauds, permettant de distinguer la forme écrite et l'usage oral dans cet article.
+[^2]: [Ministère de l'Éducation «Dictionnaire révisé de la langue nationale» : 蛤](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Page officielle du dictionnaire du Ministère de l'Éducation, incluant le bopomofo ㄍㄜˊ、ㄏㄚˊ de «蛤» ainsi que les sens standards comme 蛤蜊, 文蛤, 蛤蟆, servant à distinguer la forme écrite et l'usage oral dans cet article.
 
-[^3]: [« Huh? » est-il un mot universel ?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Étude interlangue de PLOS ONE, analysant la forme et la fonction de _huh?_ comme initiateur de réparation conversationnelle, rappelant au lecteur de ne pas considérer « hein ? » comme un phénomène exclusif à Taïwan.
+[^3]: [«Huh?» est-il un mot universel ?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Étude translinguistique de PLOS ONE, analysant la forme et la fonction de huh? comme initiateur de réparation conversationnelle, rappelant aux lecteurs de ne pas considérer «蛤» comme un phénomène propre à Taïwan.
 
-[^4]: [RFC 5322 : Format de message Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Standard IETF de format de messagerie électronique, la section 3.4.1 définit le rôle technique de @ séparant la _local-part_ et le domaine Internet dans _addr-spec_.
+[^4]: [RFC 5322 : Format de message Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Standard de format de courriel de l'IETF, la section 3.4.1 définit le rôle technique de @ dans addr-spec pour séparer le local-part du domaine Internet.
 
-[^5]: [BBC Chinese : Comment les différentes langues appellent-elles le symbole « @ » ?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Rapport BBC Future Chinese, synthétisant l'appellation taïwanaise de « petite souris » et les différences culturelles mondiales appelant @ par des animaux ou des formes, présentant également l'histoire de l'entrée du symbole dans les e-mails.
+[^5]: [BBC Chinese : Comment les différentes langues appellent-elles le symbole «@» ?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Reportage de BBC Future en chinois, répertoriant l'appellation taïwanaise «小老鼠» et les différences culturelles d'appellation de @ par des animaux ou des formes à travers le monde, ainsi que l'histoire de l'entrée du symbole dans le courriel.
 
-[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Fiche officielle de l'Internet Hall of Fame, documentant la contribution de Ray Tomlinson aux e-mails sur Internet et aux premiers standards de messagerie.
+[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Profil officiel de l'Internet Hall of Fame, relatant les contributions de Ray Tomlinson au courriel en réseau et aux premiers standards de messagerie.
 
-[^7]: [Ministère de l'Éducation _Taibian Taoyu Changyong Ci Cidian_ : Zhu](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Dictionnaire officiel taïwanais du Ministère de l'Éducation, listant « Zhu » comme ti/tu, fournissant la base linguistique de la relation phonétique proche entre D et le taïwanais.
+[^7]: [Ministère de l'Éducation Dictionnaire des mots courants du taïwanais : 豬](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Dictionnaire officiel du taïwanais du Ministère de l'Éducation, répertoriant «豬» sous ti/tu, fournissant la base linguistique de la proximité phonétique entre D et le taïwanais.
 
-[^8]: [Sanlih E-Te News : Comment les étrangers prononcent-ils D pour vérifier les réponses ? Absolument pas « Zhu »](https://www.setn.com/news/868195) — Rapport de 2020 synthétisant les discussions PTT et en ligne sur l'échange de copies corrigées dans les écoles, utilisé ici uniquement pour soutenir une partie de l'utilisation et de la circulation, sans l'étendre à une norme uniforme à Taïwan.
+[^8]: [SETN : Comment les étrangers prononcent-ils D pour les réponses ? Certainement pas «豬»](https://www.setn.com/news/868195) — Article de 2020 compilant les discussions en ligne sur PTT et les échanges sur la correction d'examens dans les campus, utilisé ici uniquement pour étayer un usage et une diffusion partiels, sans le généraliser en une norme unanime à Taïwan.
 
-[^9]: [Global Chinese Network : ABC le chien mord le porc](https://biweekly.huayuworld.org/Material/372/Text) — Matériel classique de comptine du Bureau des Affaires des Chinois d'outre-mer du ROC, enregistrant le texte complet de la comptine taïwanaise et marquant le taïwanais, fournissant le contexte matériel original de la transmission scolaire.
+[^9]: [Global Chinese Network : ABC 狗咬豬](https://biweekly.huayuworld.org/Material/372/Text) — Matériel pédagogique classique de comptines du Comité des affaires des Chinois d'outre-mer de la République de Chine, incluant le texte complet de la version taïwanaise avec annotation en taïwanais, fournissant le contexte du matériel source de la transmission orale dans les écoles.
 
-[^10]: [Taiwan.md : Comptines de la cour de récréation taïwanaise](https://taiwan.md/en/culture/schoolyard-rhymes/) — Article existant de Taiwan.md sur les comptines scolaires, ayant synthétisé « ABC Dog Bites Pig » et la transmission intergénérationnelle ; cet article évite la répétition en se concentrant sur la fonction d'identification des réponses de D.
+[^10]: [Taiwan.md : Comptines de cour d'école à Taïwan](https://taiwan.md/en/culture/schoolyard-rhymes/) — Article existant de Taiwan.md sur les comptines de cour d'école, ayant déjà compilé «ABC Dog Bites Pig» et la transmission intergénérationnelle, cet article évite les répétitions en se concentrant sur la fonction d'identification des réponses par D.
 
-[^11]: [Wikimedia Commons : At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Page du fichier SVG du symbole @ dans le domaine public, l'article intègre l'image via une URL chaude `upload.wikimedia.org`, sans télécharger l'image.
+[^11]: [Wikimedia Commons : At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Page de fichier SVG du symbole @ dans le domaine public, l'article l'intègre via une URL chaude `upload.wikimedia.org` sans télécharger l'image.
 
-[^12]: [Wikimedia Commons : Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Page du fichier image du clavier taïwanais, fourni par Zhengzhong Beilu 711, sous Creative Commons Attribution-ShareAlike 3.0 ; la mention d'auteur et le lien de licence doivent être conservés lors de l'utilisation.
+[^12]: [Wikimedia Commons : Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Page de fichier image d'un clavier taïwanais, fourni par 中正北路711, sous licence Creative Commons Attribution-ShareAlike 3.0, l'utilisation nécessite de conserver l'attribution et le lien de licence.

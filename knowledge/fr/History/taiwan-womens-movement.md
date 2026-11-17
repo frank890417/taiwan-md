@@ -26,11 +26,13 @@ rationale:
   whats_excluded: '不把台灣女性史壓縮成個別偉人傳記，也不逐一書寫所有婦女團體與法案。慰安婦、性工作、同志運動與原住民族女性另有專題脈絡，本文只在婦運組織與法制轉折必要處交代。'
   where_it_hedges: '部分早期婦運事件主要依賴國立臺灣歷史博物館與婦女團體保存的回顧資料，本文將組織自述與政府沿革分開標示，不把單一團體的記憶當成唯一版本。葉永鋕事件、彭婉如事件與家庭暴力法制的因果關係，僅採用官方與博物館頁面明確支持的範圍。'
   whos_pushing_back: '認為婦運過度介入家庭與教育者，認為保障名額不符合形式平等者，以及批評早期婦運以中產階級女性經驗為中心的學者與行動者。這些爭議本身也是理解運動組織與法制選擇的重要材料。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/婦女運動.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:1b50bc175ecf61ab'
 sourceBodyHash: 'sha256:e725ecac1936b5cf'
-translatedAt: '2026-09-09T16:46:11+08:00'
+translatedAt: '2026-11-06T09:54:34.460855+00:00'
 ---
 
 1982, Li Yuanzhen, Cao Ailan, Zheng Zhihui, Liu Xiuxiu et You Meinv, entre autres, fondent la rédaction du magazine _Femmes Nouvelles_ (Fùnǚ Xīnzhī) à Taipei, alors que la loi martiale n'est pas encore levée. Le 10 janvier 1987, _Femmes Nouvelles_ s'unit aux groupes autochtones, aux défenseurs des droits humains et aux organisations religieuses pour lancer une marche contre la traite des êtres humains et en soutien aux prostituées mineures, partant de la rue Huajie. Le 30 novembre 1996, l'activiste du mouvement des femmes Peng Wanru est assassinée à Kaohsiung ; un mois plus tard, les groupes de femmes organisent une marche nocturne pour exiger que la sécurité publique des femmes ne soit plus considérée comme un risque que les individus doivent assumer seules. [^1]

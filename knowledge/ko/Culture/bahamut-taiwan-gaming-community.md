@@ -2,20 +2,22 @@
 title: '바하무트'
 description: '대만 최대 ACG 커뮤니티의 탄생, 생존, 그리고 페이스북과 틱톡이 모든 것을 휩쓸던 시대에도 왜 더욱 왕성하게 살아남았는가.'
 date: 2026-04-05
+category: 'Culture'
 tags:
   ['ACG', '게임', '애니메이션', '커뮤니티', '대만 인터넷', '서브컬처', '포럼']
 subcategory: '網路與數位文化'
-category: 'Culture'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/巴哈姆特.md'
-sourceCommitSha: 'f5975a22'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-04-14T07:55:26+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-05T07:06:34.123217+00:00'
 ---
 
 # 바하무트

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-07-30T12:38:22+08:00'
+translatedAt: '2026-11-04T20:31:41.626395+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**
@@ -82,28 +84,28 @@ translatedAt: '2026-07-30T12:38:22+08:00'
 
 ## المراجع
 
-[^1]: [مقابلة يوتيوبر الأخوين هوانغ: رحلة إبداعية للنمو المشترك مع الجمهور](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (انظر التفاصيل في الرابط الأصلي)
+[^1]: [مقابلة مع صانعي المحتوى على يوتيوب الأخوة هوانغ: مسيرة إبداعية للنمو مع الجمهور](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T-Koba (راجع التفاصيل الإضافية في الرابط الأصلي)
 
-[^2]: [20 شهرًا دون إجازة! الأخوان هوانغ يستذكران تاريخ الإبداع المرير](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [لم نأخذ عطلة لمدة 20 شهرًا! الأخوة هوانغ يستذكرون مشقة عملية الإبداع](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【الأخوان يصنعان الخير】 استئجار مدرسة ابتدائية نائية ليوم كامل](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — قناة الأخوين هوانغ على يوتيوب
+[^3]: [[الأخوة يقومون بأعمال خيرية] استئجار مدرسة ابتدائية في منطقة نائية ليوم كامل](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — قناة الأخوة هوانغ على يوتيوب
 
-[^4]: [إذا فعلت فافعل بأفضل شكل! يوتيوبر الأخوان هوانغ يجربان اتجاهات متعددة ويسعيان للكمال](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [إذا قررت القيام بشيء، فافعل الأفضل! صانع المحتوى هوانغ يحاول في مجالات متعددة ويسعى للكمال](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [كيف صُقل يوتيوبر المليون مشترك؟ مقابلة مع الأخوين هوانغ](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [كيف أصبح صانع محتوى مشهورًا بملايين المتابعين؟ مقابلة مع الأخوة هوانغ](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [تعلم قوة التنفيذ من الأخوين هوانغ | خلف الخيال الواسع يكمن تموضع ذاتي دقيق](https://premium.parenting.com.tw/article/5087793) — عالم الأبوة والأمومة (انظر التفاصيل في الرابط الأصلي)
+[^6]: [تعلم قوة التنفيذ من الأخوة هوانغ | وراء الخيال الواسع يكمن تحديد دقيق للذات](https://premium.parenting.com.tw/article/5087793) — Parenting China (راجع التفاصيل الإضافية في الرابط الأصلي)
 
-[^7]: [ويوي أُجبر على الخروج من الخزانة وهو غاضب: إنه إفصاح قسري بحت](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — ياهو نيوز
+[^7]: [وي وي أُجبر على الإفصاح عن ميوله، وهو غاضب: لقد كان كأنه اعتداء علني](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [بشأن التقرير، أريد أن أخبر عائلتي【الأخوان هوانغ】](https://www.youtube.com/watch?v=jo7ggR1f54s) — فيديو الأخوين هوانغ على يوتيوب
+[^8]: [بخصوص التقارير، أريد أن أقول لعائلتي [الأخوة هوانغ]](https://www.youtube.com/watch?v=jo7ggR1f54s) — فيديو الأخوة هوانغ على يوتيوب
 
-[^9]: [ويوي الأخوين هوانغ "أُخرج من الخزانة" لا تحتاج للاعتذار](https://newslab.pts.org.tw/news/216) — أخبار بي تي إس المصورة
+[^9]: [وي وي من الأخوة هوانغ «أُجبر على الإفصاح عن ميوله»، أنت لست بحاجة للاعتذار](https://newslab.pts.org.tw/news/216) — تقرير إخباري من PTS
 
-[^10]: [يوتيوبر المليونين ويوي هوانغ تينغ وي يصبح "مغنيًا مبدعًا" أول EP شخصي](https://www.mtv.com.tw/news/newsdetail/10063) — إم تي في تايوان
+[^10]: [صانع المحتوى وي وي، صاحب المليوني متابع، يطلق أول أسطوانة EP له كـ «مغنٍ مبدع»](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [الأخوان هوانغ يدعوان الجمهور لتشجيع التلاميذ المحرومين كسفيرين للنوايا الحسنة للصليب الأحمر](https://money.udn.com/money/story/5723/8957929) — الصحيفة الاقتصادية (تقرير الصحيفة الاقتصادية)
+[^11]: [الأخوة هوانغ يحشدون الجمهور لدعم الطلاب المحتاجين ويشغلون منصب سفراء خيريين لجمعية Red Heart](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (تقرير Economic Daily News)
 
-[^12]: [【KOL في العمل】 الأخوان هوانغ يعترفان: المزاح سبق أن تجاوز الخط الأحمر](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — ياهو نيوز
+[^12]: [[KOL في العمل] الأخوة هوانغ يعترفون بأن مقالبهم تجاوزت الحدود أحيانًا](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [ليس فقط تصوير فيديوهات مضحكة، يوتيوبرز يطلقون نفوذهم ويؤدون المسؤولية الاجتماعية](https://csr.cw.com.tw/article/41369) — سي إس آر天下
+[^13]: [ليس مجرد تصوير فيديوهات مضحكة؛ صانعو المحتوى يمارسون تأثيرهم للوفاء بمسؤوليتهم الاجتماعية](https://csr.cw.com.tw/article/41369) — 天下 CSR

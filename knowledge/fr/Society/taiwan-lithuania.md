@@ -2,9 +2,7 @@
 title: 'Taïwan et Lituanie : un partenariat en négociation entre valeurs démocratiques et réalités géopolitiques'
 description: "De la percée de 2021 avec l'établissement d'un bureau de représentation portant le nom de « Taïwan », au réexamen en 2026 par le nouveau gouvernement lituanien qualifiant cette décision d'« erreur stratégique », les relations taïano-lituaniennes passent d'une alliance de valeurs enthousiaste à une négociation pragmatique d'intérêts. Un désaccord entre la présidence et le gouvernement sur la question du renommage du bureau a émergé en Lituanie, tandis que Taïwan, en approfondissant la coopération dans les semi-conducteurs et la technologie laser, tente de maintenir cette amitié internationale emblématique entre pressions politiques et engagements économiques."
 date: 2026-05-05
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '國際關係'
 tags:
   [
     'diplomatie',
@@ -14,14 +12,18 @@ tags:
     'Lituanie',
     'géopolitique',
   ]
+subcategory: '國際關係'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-05-09T11:09:58+08:00'
+translatedAt: '2026-11-04T19:06:33.445510+00:00'
 ---
 
 > **En bref (30 secondes) :** Les relations entre Taïwan et Taïwan ont atteint leur apogée en 2021 avec la création d'un bureau de représentation portant le nom de « Taïwan », mais ont immédiatement fait face à de sévères coercitions économiques de la part de la Chine. En 2026, les changements politiques en Lituanie ont suscité un profond réexamen stratégique : le nouveau Premier ministre a qualifié le nom choisi d'« erreur stratégique » et envisagé un renommage, tandis que le président a maintenu la position existante, créant une divergence entre l'exécutif et la présidence. Parallèlement, le bilan commercial bilatéral a connu une croissance en dépit des sanctions, et Taïwan, à travers un « Plan d'action pour la coopération économique avec Taïwan » et des investissements concrets, continue d'approfondir ce partenariat fondé sur la démocratie à l'épreuve du réalisme.

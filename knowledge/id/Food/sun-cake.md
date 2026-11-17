@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-04T23:31:22.272408+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Kue Matahari tidak begitu saja bernama Kue Matahari sejak lahir; ia bermula dari «kue lapis maltase» (麥芽酥餅) akhir Dinasti Qing hingga awal era Republik, dan baru berubah menjadi kue bulat tipis renyah hari ini usai disempurnakan oleh guru Taichung Bei-tun, Wei Qing-hai. Pada 1964, mozaik bunga matahari karya seniman Yen Shui-long untuk «Taiyang Tang» sempat tersegel 25 tahun karena diduga «propaganda bagi pemberontak» — episode politik ini justru menambah warna legendaris pada sepotong kue ini.

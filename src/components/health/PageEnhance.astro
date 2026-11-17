@@ -1,0 +1,157 @@
+---
+/**
+ * PageEnhance — /health 各頁共用的漸進增強（無 JS 時：原生 <title>、資料表、anchor 目錄照舊）。
+ * 行為跟 /budget 頁尾那段 script 相同（折線圖交叉線讀數、其他圖 tooltip、黏頂子導覽 scroll-spy），
+ * 抽成元件是因為這個專題有四頁共用；/budget 的版本沒有動。
+ */
+---
+
+<script>
+  const setTip = (tip: HTMLElement, lines: string[]) => {
+    tip.replaceChildren(
+      ...lines.map((s) =>
+        Object.assign(document.createElement('div'), { textContent: s }),
+      ),
+    );
+  };
+  document
+    .querySelectorAll<HTMLElement>('.bg-chart[data-chart]')
+    .forEach((fig) => {
+      const kind = fig.dataset.chart;
+      const tip = document.createElement('div');
+      tip.className = 'bg-tip';
+      tip.setAttribute('aria-hidden', 'true');
+      fig.appendChild(tip);
+      const hide = () => tip.classList.remove('is-on');
+      fig.querySelectorAll<SVGSVGElement>('svg.bg-svg').forEach((svg) => {
+        if (kind === 'line') {
+          const dots = Array.from(
+            svg.querySelectorAll<SVGCircleElement>('circle.bg-dot'),
+          );
+          if (!dots.length) return;
+          const vb = svg.viewBox.baseVal;
+          const line = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'line',
+          );
+          line.setAttribute('class', 'bg-hover-line');
+          line.setAttribute('y1', '0');
+          line.setAttribute('y2', String(vb.height));
+          line.style.display = 'none';
+          svg.appendChild(line);
+          const xs = Array.from(
+            new Set(dots.map((d) => +d.getAttribute('cx')!)),
+          ).sort((a, b) => a - b);
+          const onMove = (ev: PointerEvent) => {
+            const r = svg.getBoundingClientRect();
+            if (!r.width) return;
+            const px = ((ev.clientX - r.left) / r.width) * vb.width;
+            let best = xs[0];
+            for (const x of xs)
+              if (Math.abs(x - px) < Math.abs(best - px)) best = x;
+            line.setAttribute('x1', String(best));
+            line.setAttribute('x2', String(best));
+            line.style.display = '';
+            setTip(
+              tip,
+              dots
+                .filter((d) => +d.getAttribute('cx')! === best)
+                .map((d) => d.querySelector('title')?.textContent || '')
+                .filter(Boolean),
+            );
+            const fr = fig.getBoundingClientRect();
+            const left = (best / vb.width) * r.width + (r.left - fr.left);
+            tip.style.left = `${Math.min(Math.max(8, left + 12), Math.max(8, fr.width - 270))}px`;
+            tip.style.top = `${r.top - fr.top + 8}px`;
+            tip.classList.add('is-on');
+          };
+          svg.addEventListener('pointermove', onMove);
+          svg.addEventListener('pointerdown', onMove);
+          svg.addEventListener('pointerleave', () => {
+            line.style.display = 'none';
+            hide();
+          });
+          return;
+        }
+        const show = (ev: PointerEvent) => {
+          const el = (ev.target as Element | null)?.closest(
+            'rect, path, circle',
+          );
+          const title =
+            el?.querySelector(':scope > title')?.textContent ||
+            el?.closest('g')?.querySelector(':scope > title')?.textContent;
+          if (!title) return hide();
+          setTip(tip, [title]);
+          const fr = fig.getBoundingClientRect();
+          tip.style.left = `${Math.min(Math.max(8, ev.clientX - fr.left + 12), Math.max(8, fr.width - 270))}px`;
+          tip.style.top = `${Math.max(0, ev.clientY - fr.top - 44)}px`;
+          tip.classList.add('is-on');
+        };
+        svg.addEventListener('pointermove', show);
+        svg.addEventListener('pointerdown', show);
+        svg.addEventListener('pointerleave', hide);
+      });
+    });
+  document.addEventListener('pointerdown', (ev) => {
+    if (!(ev.target as Element).closest('.bg-chart svg'))
+      document
+        .querySelectorAll('.bg-tip.is-on')
+        .forEach((t) => t.classList.remove('is-on'));
+  });
+
+  const subnav = document.getElementById('bp-subnav');
+  if (subnav) {
+    const measure = () => {
+      const hc = document.getElementById('header-container');
+      const b = hc ? hc.getBoundingClientRect().bottom : 56;
+      document.documentElement.style.setProperty(
+        '--bp-sticky-top',
+        `${Math.max(0, Math.round(b))}px`,
+      );
+    };
+    measure();
+    window.addEventListener('resize', measure, { passive: true });
+    setTimeout(measure, 800);
+    const links = Array.from(
+      subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+    );
+    const sections = links
+      .map((a) => document.getElementById(a.dataset.target!))
+      .filter((s): s is HTMLElement => !!s);
+    if ('IntersectionObserver' in window && sections.length) {
+      const visible = new Map<string, number>();
+      const io = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) =>
+            visible.set(
+              (e.target as HTMLElement).id,
+              e.isIntersecting ? e.intersectionRatio : 0,
+            ),
+          );
+          let bestId = '';
+          let best = 0;
+          for (const s of sections) {
+            const v = visible.get(s.id) || 0;
+            if (v > best) {
+              best = v;
+              bestId = s.id;
+            }
+          }
+          if (!bestId) return;
+          links.forEach((a) =>
+            a.classList.toggle('is-active', a.dataset.target === bestId),
+          );
+          const a = links.find((l) => l.dataset.target === bestId);
+          if (a && subnav.scrollWidth > subnav.clientWidth)
+            a.scrollIntoView({
+              block: 'nearest',
+              inline: 'center',
+              behavior: 'smooth',
+            });
+        },
+        { rootMargin: '-40% 0px -50% 0px', threshold: [0, 0.01, 0.1, 0.25] },
+      );
+      sections.forEach((s) => io.observe(s));
+    }
+  }
+</script>

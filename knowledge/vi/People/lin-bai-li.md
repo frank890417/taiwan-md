@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:b074716a2141d65ae78f7c291ed1ebaa5b58a68f28460e6fb3ee6c1096af3a08'
-sourceBodyHash: 'sha256:b074716a2141d65ae78f7c291ed1ebaa5b58a68f28460e6fb3ee6c1096af3a08'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4e6831b8d5040b1f'
+sourceBodyHash: 'sha256:98f02f5d889ec6c6'
+translatedAt: '2026-11-04T20:41:21.981713+00:00'
 ---
 
 # Lâm Bách Lý: Thượng Hải 1949, Nhà sáng lập Quanta Computer và Cuộc chiến chống ung thư 20 năm của Vua máy tính xách tay ODM

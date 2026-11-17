@@ -2,9 +2,7 @@
 title: 'Arroz no tubo de bambu: o jogo do caçador com o ponto de ignição na fogueira'
 description: "O arroz no tubo de bambu não é meramente uma 'culinária de recipiente', mas um preciso 'jogo entre água e fogo'. Aproveitando a propriedade física da água ferver a 100°C, o tubo de bambu inflamável suporta duas horas na fogueira sem virar cinzas — uma sabedoria nascida da cultura de caça que hoje representa a gastronomia dos povos indígenas de Taiwan."
 date: 2026-04-27
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '族群飲食'
 tags:
   [
     'povos indígenas',
@@ -13,15 +11,19 @@ tags:
     'gastronomia sustentável',
     'comparação internacional',
   ]
-readingTime: 8
+subcategory: '族群飲食'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-07-25T03:42:45+08:00'
+translatedAt: '2026-11-04T23:47:49.228666+00:00'
 ---
 
 > **Visão geral de 30 segundos:** O arroz no tubo de bambu é um dos pratos de arroz mais representativos dos povos indígenas de Taiwan, originado na engenhosidade dos caçadores que, nas montanhas, careciam de utensílios de cozinha. Ele aproveita a umidade natural e o aroma da membrana interna do bambu makino de um ano, assado diretamente sobre brasas, para que o arroz se mantenha úmido e adquira um perfume especial. Não é apenas uma iguaria, mas todo um sistema de gestão de recursos florestais e ciência física posto em prática.

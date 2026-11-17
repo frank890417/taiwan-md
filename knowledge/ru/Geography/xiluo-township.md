@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T10:33:08+08:00'
+translatedAt: '2026-11-04T16:05:48.830942+00:00'
 ---
 
 > **30 секунд — обзор:** Силуо находится в юньлиньском хсёне, на южном берегу реки Чжоушуйси — городок с населением более 40 тысяч человек. Приезжие прежде всего запоминают красный большой мост Силуо, но повседневность местных — это совсем другое: соевый соус из чёрных бобов должен ферментироваться 180 дней, барочные шоп-хаусы на старой улице Яньпин стоят с 1920-х годов, Тайпинма в Фусиньгуне управляет местными делами уже триста лет, а уцзянь «Цыцзянь» цинских переселенцев превратилось в телесериал. Эта статья не делает из Силуо придаток моста, а возвращает мост в временную линию городка. [^1] [^2] [^3] [^4]

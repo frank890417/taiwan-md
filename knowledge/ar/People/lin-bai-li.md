@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-08-02T13:22:35+08:00'
+translatedAt: '2026-11-04T20:41:49.225478+00:00'
 ---
 
 # لين باي لي: شنغهاي 1949، مؤسس كوانتا كمبيوتر وملك تصنيع الحواسيب المحمولة التعاقدي الذي حارب السرطان عشرين عاماً

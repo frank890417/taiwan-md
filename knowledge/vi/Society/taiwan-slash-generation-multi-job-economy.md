@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:06+08:00'
+translatedAt: '2026-11-04T20:04:59.608085+00:00'
 ---
 
 > Thanh niên Đài Loan trong độ tuổi 25-35 đang trải qua một cuộc thử nghiệm sinh tồn chưa ai công bố. Mức lương trung bình chững lại ở mức 38.000 Tệ, nhưng tiền thuê căn hộ tại Đài Bắc lại bắt đầu từ 14.000 Tệ. Một công việc toàn thời gian là không đủ, vì vậy sau giờ làm, họ mở ứng dụng giao đồ ăn (外送 App), nhận dự án cuối tuần, và dựng video vào đêm khuya. Đây không phải là "xu hướng đa năng", mà là chiến lược sinh tồn bị buộc ra bởi tình cảnh cấu trúc.

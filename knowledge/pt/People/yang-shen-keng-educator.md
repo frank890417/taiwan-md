@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-04T20:38:48.743883+00:00'
 ---
 
 > **Resumo em 30 segundos:** Yang Shen-keng (1946-2021), construtor da filosofia da educação em Taiwan. Doutor em filosofia pela Universidade de Atenas, primeiro professor catedrático vitalício do Ministério da Educação, vencedor por quatro vezes do Prêmio de Pesquisa Distinta do Conselho Nacional de Ciência, ganhador do Prêmio Golden Tripod. Fundou o Instituto de Pesquisa em Educação Comparada da Universidade Chi Nan, foi decano da Faculdade de Educação e vice-reitor da Universidade Chung Cheng, e conduziu os seminários acadêmicos da "Escola Yang" na Universidade Normal de Taiwan por quase quarenta anos. Orientou mais de cem mestrandos e doutorandos. Faleceu em 29 de agosto de 2021 no Hospital da Universidade Nacional de Taiwan, aos 76 anos.

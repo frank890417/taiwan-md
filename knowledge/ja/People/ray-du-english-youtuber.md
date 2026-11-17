@@ -2,9 +2,7 @@
 title: '阿滴：英語を嫌っていた小留学生から台湾YouTube界の「里長伯（地域の世話役）」へ'
 description: '2020年、YouTuberの阿滴は『ニューヨーク・タイムズ』への広告掲載に向けたクラウドファンディングを立ち上げ、台湾の存在を世界に知らしめました。2021年にはうつ病を患っていることを公表し、人生の低迷期を素直に受け入れました。シンガポールでの英語との出会いからクリエイター協会の設立まで、阿滴は知識系インフルエンサーであるだけでなく、台湾の新メディアエコシステムを牽引する推進者です。'
 date: 2026-04-20
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'ユーチューバー',
@@ -13,15 +11,19 @@ tags:
     'うつ病',
     'ニューヨーク・タイムズ広告',
   ]
-readingTime: 9
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-05-01T18:09:43+08:00'
-featured: false
+translatedAt: '2026-11-04T21:06:56.805565+00:00'
 ---
 
 > **30秒概覽：** 2020年、YouTuberの阿滴（アディ、本名：都省瑞）は「ThisAttackComesFromTaiwan」クラウドファンディングを立ち上げ、わずか数時間で400万台湾ドルの目標を達成し、最終的に約1900万台湾ドルを調達して『ニューヨーク・タイムズ』に全頁広告を掲載し、「Taiwan Can Help」を世界に発信しました。翌年、彼は約1年にわたりうつ病を患っていた心境を公表し、志祺七七（シーチー・チーチー）らと共に「台湾新メディア映像クリエイター協会」を設立、理事長に就任し、台湾のクリエイター相互支援エコシステムを構築しました。シンガポールへの小留学生時代に英語を嫌っていた阿滴が、台湾YouTube界の「里長伯（地域の世話役）」にまで成長した軌跡は、個人の変革にとどまらず、台湾の新メディアが個人の創作から産業全体の共栄へと向かう過程を映し出す貴重な記録です。

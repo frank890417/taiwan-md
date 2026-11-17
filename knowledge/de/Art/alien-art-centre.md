@@ -13,11 +13,13 @@ image: '/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp'
 imageCredit: 'Adece033090 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/金馬賓館當代美術館.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d009712e64112e84'
 sourceBodyHash: 'sha256:29bdbac4c38d6b83'
-translatedAt: '2026-09-08T00:42:59+08:00'
+translatedAt: '2026-11-04T16:40:30.374789+00:00'
 ---
 
 # Golden Horse Hotel Contemporary Art Museum – Vom Abschiedsstützpunkt zum künstlerischen Paradies

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-04T21:34:22.275224+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Sanxias Goldene Ochsenhörner, dieses landesweit bekannte Mitbringsel, haben eine weitaus geschichtenreichere Herkunft, als man vermutet. Sie sind keine Abwandlung des französischen Croissants, sondern entstanden, als der Han-Bing-Meister **Luo Fu-ching** auf einer Reise im Flugzeug von „philippinischem Brot“ inspiriert wurde und nach seiner Rückkehr taiwanesische Backtraditionen mit dieser Anregung verband. Ihre einzigartige „harte“ Textur resultiert aus mehrfachem Walzen des Teigs zum Entlüften und dem Backen mit grossen Mengen Butter – ein Spiegel des frühen taiwanesischen Strebens nach nahrhafter, sättigender Kost. Vom Gassen-Snack zum Wahrzeichen der Altstadt: Goldene Ochsenhörner sind nicht nur Gaumenerinnerung, sondern auch Abbild der lokalen Kultur und kommerziellen Entwicklung Sanxias und stiften den einzigartigen olfaktorischen Orientierungspunkt dieser Kleinstadt.

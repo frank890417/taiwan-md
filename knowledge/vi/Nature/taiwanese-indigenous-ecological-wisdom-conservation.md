@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: 2026-07-31T00:00:00Z
+translatedAt: '2026-11-04T20:20:21.643332+00:00'
 ---
 
 # Trí tuệ sinh thái và bảo vệ môi trường của các dân tộc bản địa Đài Loan

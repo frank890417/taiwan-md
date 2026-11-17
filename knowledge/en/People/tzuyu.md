@@ -1,6 +1,6 @@
 ---
-title: 'Tzuyu'
-description: "A Tainan girl who never talked politics. An 8-second flag on Korean TV. An election-eve apology video. And ten years later, she stood at the Dome and read from a handwritten letter: 'I didn't leave — not because I was obedient, but because I truly wanted and longed to stay.'"
+title: 'Tzuyu and the 2016 Flag Incident: A TWICE Member From Tainan and Ten Years of Silence'
+description: "Tzuyu (Chou Tzu-yu) of TWICE was born in Tainan, Taiwan, in 1999. In November 2015 she held a Republic of China flag on Korean TV for 8 seconds; in January 2016, on the eve of Taiwan's presidential election, JYP released her 90-second apology video. She never said a word about those 90 seconds. Ten years later, in Kaohsiung, she read 55,000 fans a handwritten letter about why she stayed."
 date: 2026-04-14
 tags:
   - 'Tzuyu'
@@ -22,6 +22,10 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
 translatedAt: '2026-05-01T13:19:11+08:00'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 5,927 曝光 0 點擊；查詢「tzuyu incident」5,479、「where is tzuyu from」25 曝光，title 只有裸名 Tzuyu。title 帶出 2016 國旗事件與台南，description 首句講出身；舊描述說信是在 the Dome 念的，內文記載是高雄世運，一併更正'
 ---
 
 > **30-second overview:** Tzuyu (周子瑜) was born in Tainan in 1999 and left home at 13 to become a JYP trainee. Forty-seven days after her debut, she held a Republic of China flag on Korean TV for 8 seconds — the moment was screencapped by Chinese netizens. Two months later, a 90-second apology video was released on the eve of Taiwan's presidential election. Scholars estimated that video influenced the voting decisions of 1.34 million young voters[^8]. From that point forward she never said a single word about those 90 seconds — she just kept dancing, kept releasing albums, kept serving as lead dancer and maknae in TWICE. Ten years later she finally came back to Kaohsiung and, before 55,000 people, read aloud from a handwritten letter: "I didn't leave — not because I was obedient or compliant, but because I truly wanted and longed to stay." The whole arena wept with her.

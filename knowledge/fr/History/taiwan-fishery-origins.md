@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-11T05:56:38+08:00'
+translatedAt: '2026-11-02T15:27:24.344918+00:00'
 ---
 
 # Le port de pêche n'est pas seulement une voie vers la mer : comment la pêche taïwanaise a été reconstruite par des navires d'expérimentation, des marchés aux poissons et une communauté de techniciens
@@ -140,12 +140,12 @@ Il existe une autre dimension souvent négligée : le travail des femmes et des 
 
 De même, les routes, la production de glace, l'électricité et l'entreposage apportés par la modernisation portuaire connectent les villages de pêche aux chaînes d'approvisionnement urbaines, mais rendent également les lieux plus dépendants des prix du carburant, des acheteurs externes et de l'ordre des constructions gouvernementales. Lorsque le marché aux poissons décline, ce qui reste n'est pas un problème architectural isolé, mais une perturbation de tout un rythme de vie. C'est pourquoi l'histoire de la pêche mérite d'être relue au-delà des volumes de production : la pêche en mer n'est que le début ; l'histoire véritablement durable se produit après que les navires ont accosté.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [La modernisation de la pêche taïwanaise](/fr/history/taiwan-fishery-modernization) — La seconde moitié de la même mer : flottes lointaines, zones économiques exclusives et responsabilités des États du pavillon
-- [L'histoire des associations agricoles et halieutiques de Taïwan](/fr/history/taiwan-farmers-association-history) — Changements institutionnels dans les organisations rurales, la finance et les guichets publics locaux
-- [L'histoire de la poste taïwanaise](/history/台灣郵政史) — Un autre système d'infrastructure publique reliant les lieux, la logistique et l'administration nationale
-- [L'histoire de l'eau potable taïwanaise](/history/台灣自來水史) — Comment l'ingénierie, l'hygiène et le quotidien urbain forment ensemble des institutions
+- [La modernisation de la pêche à Taïwan](/fr/history/taiwan-fishery-modernization) — La seconde moitié du match sur la même mer : flottes hauturières, zone économique exclusive et responsabilité de l'État du pavillon
+- [Histoire des associations agricoles de Taïwan](/fr/history/taiwan-farmers-association-history) — Évolution institutionnelle des organisations rurales, de la finance et des guichets publics locaux
+- [Histoire de la Poste taïwanaise](/fr/lifestyle/taiwan-postal-service-history) — Un autre système d'infrastructures publiques reliant les localités, la logistique et l'administration nationale
+- [Histoire de l'eau courante à Taïwan](/fr/geography/taiwan-tap-water) — Comment l'ingénierie, l'hygiène et le quotidien urbain ont conjointement façonné les institutions
 
 ## Sources
 

@@ -27,10 +27,10 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:22fc95c656db9409'
-sourceBodyHash: 'sha256:645f8f42e79639a7'
-translatedAt: '2026-07-29T01:32:44+08:00'
+sourceCommitSha: '515c092b1'
+sourceContentHash: 'sha256:3b7bdefbf92969dd'
+sourceBodyHash: 'sha256:3f33446cf2ef1d05'
+translatedAt: '2026-11-02T13:32:04.898935+00:00'
 ---
 
 > **Resumo em 30 segundos:** No fechamento de 19 de maio de 2026, a TSMC valia 57,18 trilhões de NTD, uma única empresa respondendo por 31,51% do índice ponderado de Taiwan, cerca de 40% do valor de mercado total da bolsa e 71% da fundição global de wafers. Atrás dela, 49 posições são divididas entre 12 holdings financeiras, 11 de semicondutores, 6 de manufatura eletrônica por contrato e 5 veteranos da indústria tradicional. O tripé "eletro-financo-tradicional" na verdade se apoia em uma perna só da eletrônica; a onda de IA a partir de 2024 puxou Quanta, Wistron, Wiwynn e Hon Hai Precision do pelotão intermediário para o topo, empilhando ainda mais a concentração. Ler a lista das 50 maiores equivale a ler um diagrama da anatomia econômica de Taiwan: onde está a coluna, onde está o ponto único de falha, onde estão as vísceras escondidas fora da tabela.
@@ -42,33 +42,33 @@ Os nomes naquele mapa são quase um resumo da lista das 50 maiores empresas de T
 > **📝 Nota do curador**
 > Ler a tabela das 50 maiores equivale a ler um mapa. Percorrendo de cima para baixo, quantos assentos ocupam semicondutores, manufatura eletrônica por contrato, financeiro, tradicional, telecom — isso reflete o esqueleto industrial desta nação-ilha. O leitor pode enxergar três coisas nesse esqueleto: qual é a vértebra principal, qual é o flanco mole, se o coração bate ritmado ou não.
 
-## Um mapa prega um país na parede
+## Um mapa que fixa uma nação
 
-A lista de 19 de maio de 2026, após o fechamento, era assim[^4]: 1º TSMC, 57,18 trilhões ([2330](/pt/economy/tsmc)); 2º MediaTek, 5,06 trilhões (2454); 3º Delta Electronics, 4,97 trilhões ([2308](/pt/economy/delta-electronics-taiwan-power-giant)); 4º Foxconn (Hon Hai), 3,43 trilhões ([2317](/pt/economy/foxconn-precision-industry)); 5º ASE Holdings, 2,11 trilhões (3711). Só essas cinco somam 7,2 trilhões, mais da metade do valor de mercado total da bolsa taiwanesa.
+O ranking de fechamento do dia 19 de maio de 2026 era assim[^4]: em primeiro lugar, TSMC com valor de mercado de NT$ 57,18 trilhões ([2330](/pt/economy/tsmc)); em segundo, MediaTek com NT$ 5,06 trilhões (2454); em terceiro, Delta Electronics com NT$ 4,97 trilhões ([2308](/pt/economy/delta-electronics-taiwan-power-giant)); em quarto, Hon Hai com NT$ 3,43 trilhões ([2317](/pt/economy/foxconn-precision-industry)); e em quinto, ASE Technology com NT$ 2,11 trilhões (3711). Somente essas cinco empresas já somam um valor de mercado de NT$ 7,2 trilhões, o que representa mais da metade do valor total da bolsa de Taiwan.
 
-Do 6º ao 30º, aparecem três camadas. No bloco de semicondutores: UMC ([2303](/pt/economy/mediatek)), Global Unichip (3443), Winbond (2344), Nanya Tech (2408), ChipMOS (2360). No financeiro: Fubon Financial ([2881](/pt/economy/taiwan-enterprise-fubon-financial)), Cathay Financial ([2882](/pt/economy/taiwan-enterprise-cathay-financial)), CTBC Financial, Yuanta Financial, Mega Financial, Taishin Financial, E.SUN Financial ([2884](/pt/economy/esun-financial-holding-digital-banking-pioneer)). Em manufatura eletrônica e periféricos de IA: Quanta ([2382](/pt/economy/taiwanese-companies-quanta-computer)), Advantech (2345), Wiwynn (6669), Auras (3017), Hon Hai Precision (7769), Tripod (3037), Taiyo Yuden (2383), Yageo ([2327](/pt/economy/taiwan-enterprise-ase-semiconductor)). Tradicional e telecom só com Chunghwa Telecom (2412) e Nan Ya Plastics ([1303](/pt/economy/formosa-plastics-group)) no top 30[^5].
+Do sexto ao trigésimo lugar, é possível observar mais três camadas. O bloco de semicondutores conta com UMC ([2303](/pt/economy/united-microelectronics-corporation)), Alchip (3443), Winbond (2344), Nanya Technology (2408) e Chihmac (2360). O setor financeiro inclui Fubon Financial ([2881](/pt/economy/taiwan-enterprise-fubon-financial)), Cathay Financial ([2882](/pt/economy/taiwan-enterprise-cathay-financial)), CTBC Financial, Yuanta Financial, Mega Financial, Taishin Shin Kong Financial e E.SUN Financial ([2884](/pt/economy/esun-financial-holding-digital-banking-pioneer)). A fabricação eletrônica (EMS) e periféricos de IA incluem Quanta ([2382](/pt/economy/taiwanese-companies-quanta-computer)), Wiwynn (2345), Wistron (6669), AVC (3017), Hong Jeng (7769), Unimicron (3037), Formosa Advanced Materials (2383) e Kyocera AVX (2327). As indúras tradicionais e telecomunicações restaram apenas com Chunghwa Telecom (2412) e Nan Ya ([1303](/pt/economy/formosa-plastics-group)) conseguindo entrar no top 30[^5].
 
-Da 31ª à 50ª posição, o aperto aumenta. China Steel ([2002](/pt/economy/taiwan-companies-china-steel)), Formosa Plastics (6505), Evergreen Marine ([2603](/pt/economy/evergreen-marine)), Uni-President ([1216](/pt/economy/taiwan-enterprise-uni-president)) — veteranos do milagre econômico dos anos 1970-80 guardando a retaguarda. Wistron ([3231](/pt/economy/wistron-global-manufacturing-transformation-pioneer)), ASUS ([2357](/pt/economy/asus-computer)), Lite-On, Advantech (2395), Alchip-KY (3661) — essa turma de eletrônicas e holdings financeiras rodando as cadeiras, todas na faixa de 400-500 bilhões, um ponto percentual muda a ordem[^6].
+As posições de 31 a 50 são ainda mais disputadas. Empresas veteranas que sustentaram o milagre econômico das décadas de 1970 e 1980, como China Steel ([2002](/pt/economy/taiwan-companies-china-steel)), Formosa Plastics ([6505]), Evergreen Marine ([2603](/pt/economy/evergreen-marine)) e Uni-President ([1216](/pt/economy/taiwan-enterprise-uni-president)), ocupam a parte final da lista. Fabricantes de eletrônicos e holdings financeiras como Wistron ([3231](/pt/economy/wistron-global-manufacturing-transformation-pioneer)), ASUS ([2357](/pt/economy/asus-computer)), Lite-On, Advantech (2395) e Alchip-KY (3661) alternam posições, com valores de mercado situados na faixa de NT$ 400 a 500 bilhões, mudando de lugar por apenas um ponto percentual de diferença[^6].
 
-![Fachada do Taipei 101, sede da Bolsa de Valores de Taiwan instalada neste marco de 508 metros onde soa o sino de abertura do pregão das 50 maiores](/article-images/economy/taipei-101-twse-2023.webp)
+![Exterior do edifício Taipei 101. A sede da Bolsa de Valores de Taiwan está localizada neste marco de 508 metros de altura, onde soa o sino de abertura das 50 maiores empresas de Taiwan](/article-images/economy/taipei-101-twse-2023.webp)
 
-_Taipé, distrito de Xinyi, Taipei 101. A Bolsa de Valores de Taiwan fica dentro deste marco de 508 metros; é daqui que soa o sino de abertura todos os dias. Foto: Anas1712, 11/05/2023. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg)._
+_Edifício 101 no distrito de Xinyi, Taipé. A sede da Bolsa de Valores de Taiwan está situada neste marco de 508 metros de altura; é daqui que o sino de abertura diária do mercado de Taiwan ressoa. Photo: Anas1712, 2023-05-11. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg)._
 
-Cortando as 50 maiores por setor (excluindo os dois ETFs Yuanta Taiwan 50 e Yuanta High Dividend):
+Fatiando as 50 maiores por setor (excluindo os dois ETFs Yuanta Taiwan 50 e Yuanta High Dividend):
 
-| Setor                                                                      | Assentos      | Participação |
-| -------------------------------------------------------------------------- | ------------- | ------------ |
-| Semicondutores (fundição/IC design/embalagem e teste/memória/equipamentos) | 11            | 23%          |
-| Financeiro (holdings financeiras)                                          | 12            | 25%          |
-| Manufatura eletrônica por contrato (incl. servidores IA, PC de marca)      | 6             | 13%          |
-| PCB / substrato ABF / dissipação térmica                                   | 5             | 10%          |
-| Tradicional (petroquímica/aço/transporte marítimo/alimentos)               | 5             | 10%          |
-| Telecom                                                                    | 3             | 6%           |
-| Rede/PC industrial/componentes passivos/óptica/teste                       | 7             | 15%          |
-| Outros (concessionárias de automóveis)                                     | 1 (limítrofe) | 2%           |
+| Categoria de Indústria                                                        | Vagas           | Participação |
+| ----------------------------------------------------------------------------- | --------------- | ------------ |
+| Semicondutores (Fundição/Design IC/Empacotamento/Memória/Equipamentos)        | 11 vagas        | 23%          |
+| Financeiro (Holdings financeiras)                                             | 12 vagas        | 25%          |
+| Fabricação Eletrônica (inclui servidores de IA e PCs de marca)                | 6 vagas         | 13%          |
+| PCB / Substratos ABF / Resfriamento                                           | 5 vagas         | 10%          |
+| Indústria Tradicional (Petroquímica/Siderurgia/Transporte Marítimo/Alimentos) | 5 vagas         | 10%          |
+| Comunicação (Telecomunicações)                                                | 3 vagas         | 6%           |
+| Rede/Computação Industrial/Componentes Passivos/Óptica/Testes                 | 7 vagas         | 15%          |
+| Outros (Concessionárias de veículos)                                          | 1 vaga (limite) | 2%           |
 
-> **💡 Você sabia**
-> O mercado usa há décadas o mnemônico "eletro-financo-tradicional" para descrever o tripé da bolsa taiwanesa. Mas abrindo as 50 maiores de 2026, eletrônicos mais semicondutores já somam 36% dos assentos, financeiro 25%, tradicional cai a 10%. O tripé na verdade é uma perna só sustentando metade do corpo, a outra perna (financeiro) sustentando um quarto, e os dedos dos pés divididos entre tradicional, telecom e componentes passivos.
+> **💡 Você sabia?**
+> No meio de investimentos, usa-se há anos o termo "Eletrônico, Financeiro e Tradicional" para descrever o tripé do mercado de Taiwan. Mas ao analisar as 50 maiores de 2026, os setores de eletrônicos e semicondutores já ocupam 36% das vagas, o financeiro 25%, enquanto a indústria tradicional foi reduzida a 10%. Esse "tripé" é, na verdade, uma perna sustentando metade do corpo, outra perna (financeira) sustentando um quarto, e os dedos restantes divididos entre as indústrias tradicionais, comunicações e componentes passivos.
 
 ## As duas faces da montanha sagrada
 
@@ -130,22 +130,22 @@ O núcleo da Topnew (Ting Hsin) está listado na China (Master Kong), lado Taiwa
 > **💡 Você sabia**
 > Empresas listadas têm obrigação de divulgação, por isso a lista aparece, valor de mercado se calcula, conselho tem independentes. Não listadas não precisam divulgar — como comparar tamanho da Wei Chuan com o da Uni-President? Resposta: não dá direto, porque a estrutura das demonstrações financeiras é diferente. Mas se o critério for número de funcionários, impacto na alimentação das famílias taiwanesas, emprego local, a Wei Chuan tem distribuidores e fábricas em todos os condados, mesmo nível dos gigantes de alimentos das 50 — só que invisíveis.
 
-## O PM2.5 da Rua Kaixuan 3
+## O PM2.5 da Kaixuan 3rd Road
 
-Enquanto as 50 maiores sustentam um PIB, deixam na ilha outras contas a pagar.
+Ao mesmo tempo em que as 50 maiores empresas sustentam um PIB, elas também deixam outras contas a serem pagas nesta ilha de Taiwan.
 
-Da noite de 31 de julho de 2014 à madrugada de 1º de agosto, a Rua Kaixuan 3, distrito de Qianzhen, Kaohsiung, virou uma vala[^29]. 32 mortos, 321 feridos. Causa: vazamento de uma tubulação de 4 polegadas de propileno dentro de uma caixa de drenagem por corrosão externa. **A tubulação pertencia à Lee Chang Yung Chemical**; entre os 12 réus, altos executivos da Lee Chang Yung, da Hua Yun Warehousing e do Departamento de Obras Públicas da Prefeitura de Kaohsiung. Sentença transitada em julgado 8 anos depois. O asfalto foi refeito, na superfície mal se veem as marcas. Mas para os moradores de Qianzhen, "indústria petroquímica no quintal" — desde aquela noite — nunca mais desvanece.
+Na madrugada de 31 de julho de 2014 até o início de 1º de agosto, a Kaixuan 3rd Road, no distrito de Qianzhen, em Kaohsiung, foi transformada em uma trincheira[^29]. Foram 32 mortos e 321 feridos. O acidente originou-se de um vazamento por corrosão em uma tubulação de propileno de 4 polegadas dentro e fora de um duto de drenagem. **Esta tubulação pertencia à Lee Chang Yung Chemical**, e entre os 12 réus estavam executivos da Lee Chang Yung Chemical, a Huayun Warehousing e o Departamento de Obras Públicas da Prefeitura de Kaohsiung. Quando a sentença entrou em vigor, haviam se passado 8 anos desde a explosão. O trecho da Kaixuan 3rd Road foi posteriormente repavimentado, tornando difícil notar os vestígios daquele dia na superfície da estrada. Mas para os residentes do distrito de Qianzhen, o fato de que "a indústria petroquímica está logo atrás da porta de casa" nunca mais perderá a força desde aquela noite.
 
-O Complexo Naphtha Cracker nº 6 da Formosa em Mailiao, Yunlin, opera desde 1998. Estudo de 2012 do prof. Chan Chang-chuan, Saúde Pública da NTU: metabólitos de metais pesados na urina de moradores num raio de 10 km, 5,5 vezes o dos de fora[^30]; 132 substâncias tóxicas e cancerígenas emitidas, PM2.5 na casa de 140 mil toneladas/ano. 2015, 75 moradores de Yunlin processam pedindo 70 milhões; Tribunal Distrital de Yunlin rejeita por "dificuldade em estabelecer nexo causal". No mesmo ano, jan-set, Yunlin foi o condado com ar mais sujo de Taiwan.
+A Formosa Plastics Sixth Naphtha Cracker, em Mailiao, Yunlin, opera desde 1998. Um estudo de 2012 do professor Chan Chang-chuan, do Departamento de Saúde Pública da Universidade Nacional Taiwan (NTU), indicou que a concentração de metabólitos de metais pesados na urina dos residentes num raio de 10 km é 5,5 vezes maior do que a dos residentes a 10 km de distância; a área da planta emite 132 substâncias tóxicas e cancerígenas, com emissões anuais de PM2.5 atingindo o nível de 140 mil toneladas[^30]. Em 2015, 75 residentes de Yunlin entraram com uma ação conjunta pedindo NT$7 milhões em indenização, mas o Tribunal Distrital de Yunlin rejeitou o pedido por ser "difícil estabelecer o nexo de causalidade". Entre janeiro e setembro do mesmo ano, Yunlin foi a cidade/condado com o ar mais poluído de todo Taiwan.
 
-![Vista aérea do Complexo Industrial Mailiao da Formosa Plastics em Yunlin, estendendo-se por toda a costa, maior aglomerado petroquímico de Taiwan e um dos livros-razão ambientais deixados pelo bloco tradicional das 50 maiores](/article-images/economy/mailiao-formosa-complex-2014.webp)
+![Vista aérea do complexo industrial Formosa Plastics Sixth Naphtha Cracker em Mailiao, Yunlin. A planta estende-se por toda a linha costeira, sendo o maior aglomerado petroquímico de Taiwan e um dos registros ambientais deixados pelo setor tradicional entre as 50 maiores empresas.](/article-images/economy/mailiao-formosa-complex-2014.webp)
 
-_Vista aérea do Complexo Industrial Mailiao da Formosa Plastics em Yunlin. Operando desde 1998, ocupa mais de 2.600 hectares, maior aglomerado petroquímico de Taiwan, e um dos livros-razão ambientais deixados pelo bloco tradicional das 50 maiores. Foto: Malcolm Koo (Mk2010), 15/03/2014. [CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg).\_
+_Vista aérea do complexo industrial Formosa Plastics Sixth Naphtha Cracker em Mailao, Yunlin. Operando desde 1998, a planta ocupa mais de 2.600 hectares, sendo o maior aglomerado petroquímico de Taiwan e um dos registros ambientais deixados pelo setor tradicional entre as 50 maiores empresas. Photo: Mk2010 (Malcolm Koo), 2015-03-15. [CC BY-SA 3.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>).\_
 
-O distrito de Xiaogang, Kaohsiung, com a China Steel também carrega sua fatura. Dados da Citizen of the Earth: 80-90% da poluição do ar da siderurgia de Kaohsiung vem da China Steel; 36% de PM e 32% de SOx das fontes fixas de Kaohsiung são da siderurgia[^31]. China Steel investiu 4,756 bilhões em melhorias 2017-2020, PM -15,6%, SOx -18,9%, NOx -11,3%. Números melhoraram, mas a estrutura "siderurgia como um todo impacta a qualidade do ar de Kaohsiung" não foi substituída.
+A China Steel, em Siaogang, Kaohsiung, também sustenta uma conta pesada. Dados da Earth Citizen Foundation indicam que 80-90% da poluição do ar causada pela indústria siderúrgica em Kaohsiung provém da China Steel; entre as fontes de poluição fixa de Kaohsiung, a indústria siderúrgica é responsável por 36% das emissões de PM e 32% das emissões de SOx[^31]. Entre 2017 e 2020, a China Steel investiu NT$4,756 bilhões para melhorar seus equipamentos, reduzindo o PM em 15,6%, o SOx em 18,9% e o NOx em 11,3%. Os números melhoraram, mas a estrutura de que "a indústria siderúrgica impacta o ar de Kaohsiung como um todo" não mudou.
 
-> **📝 Nota do curador**
-> O outro lado das 50 maiores são 50 livros-razão de custos externalizados. O PIB conta o valor de produção da fábrica; não conta os gastos médicos das famílias no entorno, a carga de cuidado de longo prazo dos idosos de Yunlin na fila, os custos de realocação dos moradores de Qianzhen. Economia chama de "internalização de externalidades": quando a sociedade obriga a empresa a trazer de volta para dentro os custos que antes vazavam para fora — esse é o verdadeiro sentido de ESG. Nas 50 maiores de Taiwan, semicondutores e holdings financeiras lideram nos scores ESG; tradicional e petroquímica são os alvos do escrutínio. Essa reordenação de notas, nos próximos dez anos, vai mudar os rankings mais profundamente que qualquer balanço trimestral.
+> **📝 Nota do Curador**
+> O outro lado das 50 maiores são 50 livros de custos externos. O que entra no cálculo do PIB é o valor da produção das fábricas; o que fica de fora são os gastos médicos das famílias ao redor, a carga de cuidados de longa duração para os residentes de Yunlin e os custos de mudança dos moradores de Qianzhen, em Kaohsiung. Na economia, isso se chama "internalização de externalidades": quando a sociedade força as empresas a assumirem os custos que antes eram despejados para fora, esse é o verdadeiro significado do ESG. Entre as 50 maiores de Taiwan, os setores de semicondutores e de holdings financeiras geralmente lideram nas pontuações de ESG; já as indústrias tradicionais e petroquímicas são os alvos de escrutínio. Essa reordenação de notas mudará o ranking nos próximos dez anos de forma mais profunda do que qualquer relatório trimestral de resultados.
 
 ## Ningxia e Kaixuan 3
 

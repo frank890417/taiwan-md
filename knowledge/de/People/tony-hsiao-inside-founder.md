@@ -1,15 +1,15 @@
 ---
-title: 'Xiao Shang-nong: Vom Gaming-PM zum INSIDE-Gründer – Der Dorfvorsteher der taiwanesischen Internetszene'
-description: 'Im Jahr 2009 starteten sechs Internetpersönlichkeiten einen gemeinsamen Blog, aus dem die Trendbeobachtungen von INSIDE entstanden. Xiao Shang-nong (fOx) war Mitbegründer zweier bekannter taiwanesischer Plattformen – beide wurden an dasselbe Unternehmen verkauft. Er berät Taiwan weiterhin als Beobachter: Keine Angst vor der Technologie.'
+title: 'Hsiao Shang-nung: Vom Game PM zum INSIDE-Gründer, der „Vorsteher“ der taiwanesischen Online-Szene'
+description: '2009 starteten sechs Internet-Pioniere einen kollaborativen Blog; so entstand die Trendbeobachtung von INSIDE. Hsiao Shang-nung (fOx) ist zudem Mitgründer von iCook. Beide bekannten Plattformen wurden an dasselbe Unternehmen verkauft. Heute mahnt er als Beobachter: Keine Angst vor der Technologie.'
 date: 2026-04-27
 category: 'People'
 tags:
   [
     'INSIDE',
     'iCook',
-    'Internetmedien',
-    'Tech-Gründung',
-    'taiwanisches Internet',
+    'Online-Medien',
+    'Tech-Entrepreneurship',
+    'Taiwan Internet',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -20,119 +20,119 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0c7501412dac27dc'
-sourceBodyHash: 'sha256:9108cdc7ca125f4b'
-translatedAt: '2026-09-11T07:09:36+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:cf3dd21873bec862'
+sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
+translatedAt: '2026-11-02T05:46:08+08:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Xiao Shang-nong (Internet-Pseudonym fOx) ist Mitbegründer von INSIDE und iCook. 2009 gründete er mit fünf Freunden eines der frühesten kritischen Tech-Medien Taiwans, und 2011 starteten sie die größte Rezeptplattform Taiwans. Die beiden Unternehmen wurden jeweils im Jahr 2018 bzw. 2022 an denselben Käufer verkauft: die Key Opinion Media Group (關鍵評論網媒體集團). Er ist heute als Internetbeobachter in großen Podcasts und Medienbeiträgen aktiv und zählt zu den Stimmen, die in der taiwanesischen Tech-Szene am häufigsten Trends diskutieren.
+> **30-Sekunden-Überblick:** Hsiao Shang-nung (Internet-Nickname fOx) ist Mitgründer von INSIDE (Trendbeobachtung im Internet) und iCook. Im Jahr 2009 startete er mit fünf Freunden eines der frühesten kommentierenden Tech-Medien Taiwans; 2011 brachte er die größte Rezeptplattform des Landes auf den Markt. Beide Unternehmen wurden 2018 bzw. 2022 an denselben Käufer verkauft: die TNL Media Group. Heute ist er als Internet-Beobachter in zahlreichen Podcasts und Medienprogrammen aktiv und gehört zu den am häufigsten eingeladenen Stimmen, wenn es um technologische Trends in Taiwan geht.
 
-## Der gemeinsame Blog von 2009
+## Der kollaborative Blog von 2009
 
-Am 26. November 2009 beschlossen sechs Internetpersönlichkeiten mit unterschiedlichem Hintergrund, einen Blog zu schreiben, da Facebook im Jahr des Durchbruchs von Happy Farm in Taiwan gerade populär wurde.[^inside-wiki]
+Am 26. November 2009 – in dem Jahr, als Facebook durch „Happy Farm“ in Taiwan explodierte – beschlossen sechs Internet-Experten mit unterschiedlichen beruflichen Hintergründen, gemeinsam einen Blog zu schreiben. [^inside-wiki]
 
-Sie nannten ihn „INSIDE: Kritische Trendbeobachtung“. Die sechs Gründer waren: Xiao Shang-nong, Li Zhiwei (Richard), Tao Yunzhi (Sting), Lin Yiru (Lawrence), Wang Youzhe und Li Quanxing. Ohne Büro, ohne Investoren, nur mit einem gemeinsamen Schreibwerkzeug und einer Übereinkunft: **Sie wollten nicht nur ausländische Technologie-Nachrichten übersetzen; die Artikel mussten eigene Meinungen und Perspektiven haben**.[^inside-article]
+Sie nannten ihn „INSIDE: Trendbeobachtung im Internet“. Die sechs Gründer waren: Hsiao Shang-nung, Li Chih-wei (Richard), Tao Yun-chih (Sting), Lin Yi-ju (Lawrence), Wang You-che und Li Chuan-hsing. Es gab kein Büro, keine Investoren, nur ein kollaboratives Tool und einen Konsens: **Man wollte nicht bloß ausländische Tech-News übersetzen; die Artikel sollten eigene Meinungen und Perspektiven enthalten.** [^inside-article]
 
-Xiao Shang-nong (fOx) war einer von ihnen.
+Hsiao Shang-nung (fOx) war einer von ihnen.
 
-Im Oktober 2011 wurde INSIDE offiziell als Unternehmen gegründet. Taiwan hatte nun ein Tech-Medium mit einem kritischen Blickwinkel.[^inside-wiki]
+Im Oktober 2011 wurde INSIDE offiziell als Unternehmen gegründet. Taiwan gewann damit ein Tech-Medium, das eine klare kommentierende Haltung einnahm. [^inside-wiki]
 
-> **📝 Kuratorische Notiz**
-> Vor 2009 wurden die meisten Technologie-Nachrichten in Taiwan noch direkt aus ausländischen Medien übersetzt. Das Auftauchen von INSIDE war einer der wenigen Versuche, Lesern Taiwans „analytische Technologieberichterstattung mit Meinung“ zugänglich zu machen – was heute selbstverständlich erscheint, aber damals nicht der Fall war.
+> **📝 Anmerkung der Kuratoren**
+> Vor 2009 wurden die meisten Tech-News in Taiwan direkt aus ausländischen Medien übersetzt. Das Erscheinen von INSIDE war einer der wenigen Versuche jener Zeit, dem taiwanesischen Publikum „meinungsstarke Technologieanalysen“ zugänglich zu machen – was heute selbstverständlich erscheint, war damals eine Besonderheit.
 
-## Vom Game-PM zum Beobachterinstinkt
+## Vom Game PM zum geborenen Beobachter
 
-Der berufliche Start von Xiao Shang-nong ähnelte dem vieler früher taiwanesischer Internetpersönlichkeiten: Er begann in der Spieleindustrie.
+Hsiao Shang-nungs Karriere begann, wie bei vielen frühen Internet-Pionieren in Taiwan, in der Gaming-Branche.
 
-Zuerst arbeitete er bei Songgang Technology als Game Product Manager und war für mehrere Blizzard-Spiele wie „StarCraft: Brood War“ verantwortlich. Später wechselte er zu Yam (蕃薯藤), von der Spieleindustrie zum Internetportal, wobei er verschiedene Bereiche wie Spiele, Aktienfinanzen und Horoskope verwaltete. Danach arbeitete er bei NHN Taiwan im Bereich Wörterbuchdienste.[^inside-article]
+Zuerst arbeitete er als Product Manager für Spiele bei Songgang Technology, wo er Titel wie _StarCraft: Brood War_ und andere Blizzard-Spiele betreute. Später wechselte er zu Yam (蕃薯藤), einem Internet-Portal, und verantwortete dort neben Spielen auch Kanäle für Aktienmarkt, Finanzen sowie Astrologie und Horoskope. Danach war er bei NHN Taiwan für einen Wörterbuchdienst zuständig. [^inside-article]
 
-Dieser Werdegang gab ihm eine bestimmte Arbeitsweise: interdisziplinäre Tätigkeiten, aber stets mit der Beobachtung, „wo sich Menschen online versammeln“.
+Dieser Weg prägte seine Arbeitsweise: Er agierte interdisziplinär, blieb aber stets dabei zu beobachten, „wo sich Menschen im Internet sammeln“.
 
-In einem Zehnjahresrückblick von INSIDE sagte er: „Man muss nicht unbedingt gut oder schlecht zu jemandem sein; das Leben hat immer Höhen und Tiefen. Man soll einfach mình sein. Die meisten Leute können zusammenarbeiten.“[^inside-article] Dieser Satz klingt wie eine Lebensphilosophie, aber im Kontext seiner Karriere ist es eher die Erfahrung eines Menschen, der in der Branche tätig war und jeden Wechsel ohne Peinlichkeit gemeistert hatte.
+In einem Rückblick zum zehnjährigen Bestehen von INSIDE sagte er später: „Es ist nicht notwendig, absichtlich mit jemandem gut oder schlecht befreundet zu sein; das Leben hat seine Höhen und Tiefen, man sollte einfach sein Bestes geben. Die meisten Menschen können zusammenarbeiten.“ [^inside-article] Dieser Satz klingt nach Lebensphilosophie, spiegelt aber in seinem beruflichen Kontext die Erfahrung eines Mannes wider, der seit langem in der Branche tätig ist und jeden Wechsel souverän gemeistert hat.
 
-## Gleichzeitig betrieb er eine Rezeptseite
+## Gleichzeitig baute er eine Rezept-Website auf
 
-In der Zeit, als INSIDE gegründet wurde, bemerkten Xiao Shang-nong und Lin Yiru (Lawrence) sowie Li Zhiwei (Richard) Cookpad aus Japan.[^gvm][^cookpad-correction]
+Zur gleichen Zeit, als INSIDE gegründet wurde, bemerkten Hsiao Shang-nung, Lin Yi-ju (Lawrence) und Li Chih-wei (Richard) das japanische Vorbild Cookpad.
 
-„Cookpad ging 2008 an die Börse mit einem Jahresumsatz von 2 Milliarden TWD; vielleicht können wir das auch versuchen.“[^gvm][^cookpad-correction]
+„Cookpad ging 2008 an die Börse und machte in einem Jahr einen Umsatz von 2 Milliarden NT$. Vielleicht können wir das auch versuchen.“ [^gvm][^cookpad-correction]
 
-Dieser Satz wurde zum Ausgangspunkt für iCook (愛料理).
+Dieser Satz wurde zum Startpunkt für iCook (愛料理).
 
-Im August 2010 gründeten die drei die Baoli Shi Company. Im November 2011 ging iCook offiziell online.[^gvm] Die Aufgabenverteilung war klar: Lin Yiru und Li Zhiwei kümmerten sich um die Softwareentwicklung, während Xiao Shang-nong alle nicht-technischen Bereiche wie Finanzen, Vertrieb und Steuern übernahm.[^gvm]
+Im August 2010 gründeten die drei die Bauoli-Gesellschaft. Im November 2011 ging iCook offiziell online. [^gvm] Die Aufgabenverteilung war klar: Lin Yi-ju und Li Chih-wei waren für die Softwareentwicklung zuständig, während Hsiao Shang-nung alle nicht-technischen Bereiche wie Finanzen, Vertrieb und Steuern übernahm. [^gvm]
 
-Er beschrieb das Gefühl dieser Zeit: „Wir haben uns nie wegen des Geldes Sorgen gemacht.“[^gvm]
+Er beschrieb das Gefühl jener Zeit so: „Seit der Gründung haben wir uns nie um Geld sorgen müssen.“ [^gvm]
 
-> **✦** „Wir haben uns nie wegen des Geldes Sorgen gemacht.“ — Xiao Shang-nong (aus einem Interview mit _Yuanjian Magazine_)
+> **✦** „Seit der Gründung haben wir uns nie um Geld sorgen müssen.“ — Hsiao Shang-nung (aus einem Interview mit dem _Business Weekly_ Magazin)
 
-Diese Aussage war in der taiwanesischen Startup-Szene ungewöhnlich. Von 2011 bis in die 2020er Jahre entwickelte sich iCook zur größten Rezeptplattform Taiwans – zwei Personen, die auf der technologischen Grundlage von NHN aufgebaut hatten und durch das Management des Geschäftsbetriebs durch Xiao Shang-nong eine solide Größe erreichten.
+Diese Aussage ist in der taiwanesischen Startup-Szene ungewöhnlich. Von 2011 bis in die 2020er Jahre entwickelte sich iCook zur größten Rezeptplattform Taiwans – basierend auf der technischen Grundlage, die während der NHN-Ära aufgebaut wurde, und Hsiao Shang-nungs Management des geschäftlichen Teils, erreichte das Unternehmen eine solide Größe.
 
-## Ein Käufer für beide Male
+## Derselbe Käufer, zweimal zugeschlagen
 
-| 2009 → 2018                                           | 2011 → 2022                                                         |
-| :---------------------------------------------------- | :------------------------------------------------------------------ |
-| INSIDE von Blog zu Key Opinion Media Group übernommen | iCook vom Start bis zur Übernahme durch die Key Opinion Media Group |
+| 2009 → 2018                                              | 2011 → 2022                                               |
+| :------------------------------------------------------- | :-------------------------------------------------------- |
+| INSIDE entwickelte sich vom Blog zur Übernahme durch TNL | iCook entwickelte sich vom Launch zur Übernahme durch TNL |
 
-Im Januar 2018 wurde INSIDE (Kritische Trendbeobachtung) von der Key Opinion Media Group (關鍵評論網媒體集團) übernommen. Dies war der erste dokumentierte formelle Medienübernahme in Taiwan.[^buzzorange]
+Im Januar 2018 wurde „INSIDE: Trendbeobachtung im Internet“ von der TNL Media Group übernommen. Dies war die erste dokumentierte offizielle Fusion eines Online-Mediums in Taiwan. [^buzzorange]
 
-Im September 2022 kündigte die Key Opinion Media Group die Übernahme von iCook an.[^bnext]
+Im September 2022 gab die TNL Media Group die Übernahme von iCook bekannt. [^bnext]
 
-Die beiden Unternehmen, derselbe Käufer, vier Jahre auseinander. Xiao Shang-nong und Li Zhiwei waren beide an diesen Transaktionen beteiligt. Bei dem zweiten Verkauf schrieb Xiao Shang-nong: „Dies war unser zweiter Verkauf eines selbst gegründeten Internetunternehmens nach über vier Jahren.“[^inside-icook]
+Zwei Unternehmen, derselbe Käufer, vier Jahre dazwischen. Sowohl Hsiao Shang-nung als auch Li Chih-wei waren an beiden Transaktionen beteiligt. Bei der zweiten Veräußerung schrieb Hsiao: „Dies ist das zweite Mal nach über vier Jahren, dass wir ein von uns selbst gegründetes Internetunternehmen an ein anderes Unternehmen verkaufen.“ [^inside-icook]
 
-> **📝 Kuratorische Notiz**
-> Die Laufbahn unabhängiger taiwanesischer Internetmedien und -plattformen führte zwischen 2018 und 2022 zunehmend zur „Integration in größere Gruppen“. Die Verkäufe von INSIDE und iCook können als persönliche Entscheidungen oder als ein kollektives Bild der taiwanesischen Internetgründerschaft gelesen werden – die unabhängige Größe war unter dem Druck des Werbe- und Abonnementwettbewerbs immer schwieriger zu halten; nur das größere Ökosystem konnte weitergehen.
+> **📝 Anmerkung der Kuratoren**
+> Die Wege für unabhängige Online-Medien und Plattformen in Taiwan haben sich zwischen 2018 und 2022 zunehmend dahingehend verengt, „in größere Konzerne integriert zu werden“. Die beiden Verkäufe von INSIDE und iCook können sowohl als individuelle Entscheidung als auch als kollektive Struktur einer Generation taiwanesischer Internet-Entrepreneure gelesen werden – angesichts des Wettbewerbs um Werbung und Abonnements wird es für unabhängige Betriebe immer schwieriger, allein zu bestehen; nur größere Ökosysteme ermöglichen weiteres Wachstum.
 
-## Der Dorfvorsteher (里長伯)
+## Der „Vorsteher“ (Li-Zhang-Bo)
 
-Der Spitzname „Dorfvorsteher“ (里長伯) kursierte viele Jahre in der taiwanesischen Internetszene.
+Der Titel „Li-Zhang-Bo“ (里長伯 – ein respektvoller Begriff für einen Dorfvorsteher) kursiert seit vielen Jahren in der taiwanesischen Online-Szene.
 
-Er beschrieb die Rolle von fOx in der Branche: Ein Netzwerk, das so groß war, dass „jeder ihn kannte und er jeden kannte“. Wenn man jemanden kennenlernen oder eine Vermittlung benötigt, konnte er zufällig helfen. Diese Rolle ist in der Internetwelt nicht üblich – jemand mit technischem Hintergrund, aber kein Ingenieur; jemand mit medialem Blickwinkel, aber kein reiner Journalist; jemand mit Geschäftssinn, der aber auch das gesamte Industrieumfeld beobachtet.
+Er beschreibt fOx's Rolle in der Branche: Sein Netzwerk ist so weit verzweigt, dass „jeder ihn kennt und er jeden kennt“. Wenn man jemanden kennenlernen muss oder eine Vermittlung benötigt, kann er oft behilflich sein. Eine solche Rolle ist in der Internetbranche selten – jemand mit technischem Hintergrund, aber kein Ingenieur; jemand mit medialem Blickwinkel, aber kein reiner Journalist; jemand mit geschäftlichem Gespür, der gleichzeitig die gesamte Branche beobachtet.
 
-Was der Dorfvorsteher tat, war Menschen miteinander zu verbinden. Das tat Xiao Shang-nong auch.
+Die Aufgabe eines „Vorstehers“ ist es, Menschen miteinander zu verbinden. Das ist auch das, was Hsiao Shang-nung tut.
 
-Dieses Netzwerk erklärt teilweise, warum er INSIDE und iCook gleichzeitig leiten konnte und nach dem Verkauf weiterhin als Beobachter aktiv blieb – mit anderen Worten: Die Tatsache, dass „die taiwanesische Internetwelt ihn kannte“, verschwand nicht, nur weil seine Unternehmen übernommen wurden.
+Dieses Netzwerk erklärt teilweise, warum er gleichzeitig INSIDE und iCook betreiben konnte und auch nach dem Verkauf weiterhin als Beobachter aktiv blieb – mit anderen Worten: Dass die „taiwanesische Online-Szene ihn kennt“, verschwand nicht mit der Übernahme seiner Unternehmen.
 
-## Angesicht der KI: Derjenige, der sagt „Keine Sorge“
+## Angesichts von KI: Der Mann, der sagt „Keine Panik“
 
-Im Mai 2023, sechs Monate nach der Einführung von ChatGPT, führte iCook eine KI-Rezeptassistenz ein.[^wazaiii] Gleichzeitig veröffentlichte Xiao Shang-nong über ein App-Store-Scannen mit KI-Tools eine Visitenkarten-App und verdiente monatlich stabil mehr als zehntausend [TWD].[^tnl]
+Im Mai 2023, sechs Monate nach dem Start von ChatGPT, führte iCook eine KI-gestützte Rezeptfunktion ein. [^wazaiii] Zur gleichen Zeit brachte Hsiao Shang-nung mithilfe von KI-Tools eine Visitenkarten-Scan-App auf den Markt, die ihm ein stabiles monatliches Einkommen von über NT$10.000 einbrachte. [^tnl]
 
-Er sagte: „Ich bin ein Technologieoptimist; natürlich finde ich, dass die Technologie unser Leben reicher und bequemer macht.“[^wazaiii]
+Er sagt: „Ich bin ein Technologie-Optimist und glaube natürlich daran, dass Technologie unser Leben reicher und bequemer macht.“ [^wazaiii]
 
-Er fügte hinzu: „Die Steuerung liegt nicht ganz in unseren Händen, daher neige ich dazu, keine Sorgen zu machen, wenn es nutzlos ist.“[^wazaiii]
+Er fügt hinzu: „Die Regler liegen nicht in unserer Hand, daher ist Sorge nutzlos; ich neige dazu, mir keine Sorgen zu machen.“ [^wazaiii]
 
-Dies war seine konsistente Haltung gegenüber jeder technologischen Welle: Beobachten, versuchen und dann allen sagen, sie sollen sich keine Sorgen machen. Von der Kryptowährungsära bis zur KI-Ära blieb er dieser Einstellung treu.
+Dies ist seine konsequente Haltung gegenüber jeder technologischen Welle: Beobachten, ausprobieren und dann den Leuten sagen, dass sie sich keine zu großen Sorgen machen müssen. Von der Ära der Kryptowährungen bis hin zum KI-Zeitalter bleibt diese Haltung bestehen.
 
-Er erscheint regelmäßig in der Rubrik „Lesetrends“ von C-News (中廣) mit Lan Xuan und moderiert den Podcast „Secha Side Chat“, um weiterhin Trends für die taiwanesische Tech-Szene zu übersetzen.
+Er tritt regelmäßig in der Rubrik „Trend-Lesen“ bei der Sendung „Lan-Xuan Time“ im Radio (BCC) auf, moderiert den Podcast „Side Chat“ und fungiert weiterhin als regelmäßiger Übersetzer von Trends für die taiwanesische Tech-Szene.
 
 ---
 
-Der gemeinsame Blog von 2009 gehört jetzt jemand anderem. Auch die Rezeptplattform von 2011.
+Der kollaborative Blog von 2009 gehört heute jemand anderem. Die Rezeptplattform von 2011 ebenfalls.
 
-Xiao Shang-nong ist noch da. Die Beobachtung geht weiter. Er hat das „Weiterbeobachten“ selbst zu seiner nächsten Sache gemacht.
+Hsiao Shang-nung ist noch da. Die Beobachtung geht weiter. Er hat das „Weiterbeobachten“ selbst zu seinem nächsten Projekt gemacht.
 
-**Vertiefte Lektüre**:
+**Weiterführende Literatur:**
 
-- [INSIDE: Kritische Trendbeobachtung](https://www.inside.com.tw/) — Das von Xiao Shang-nong mitbegründete Tech-Medium, das nun zur Key Opinion Media Group gehört und weiterhin über Taiwan und die globale Technologiebranche berichtet.
-- [iCook (愛料理)](https://icook.tw/) — Die größte Rezeptplattform Taiwans, die von Xiao Shang-nong mitbegründet wurde und nun zur Key Opinion Media Group gehört.
-- [Audry Tang (唐鳳)](/de/people/audrey-tang) — Die erste Ministerin des taiwanesischen Ministeriums für digitale Entwicklung, die ihre Karriere ebenfalls als „interdisziplinär“ definiert hat.
-- [taiwanisches Startup-Ökosystem](/technology/台灣新創生態系) — Der gesamte Entwicklungsverlauf der taiwanesischen Internetgründerschaft; INSIDE und iCook sind repräsentative Beispiele dafür.
+- [INSIDE: Trendbeobachtung im Internet](https://www.inside.com.tw/) — Das von Hsiao Shang-nung mitgegründete Tech-Medium, heute Teil der TNL Media Group, berichtet kontinuierlich über die Tech-Industrie in Taiwan und weltweit.
+- [iCook (愛料理)](https://icook.tw/) — Taiwans größte Rezeptplattform, Mitgründung durch Hsiao Shang-nung, heute Teil der TNL Media Group.
+- [Audrey Tang (唐鳳)](/de/people/audrey-tang) — Die erste Ministerin des taiwanesischen Ministeriums für digitale Entwicklung, die ihre Karriere ebenfalls durch das „Überschreiten mehrerer Disziplinen“ definiert.
+- [Das taiwanesische Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview) — Der allgemeine Kontext der Internet-Unternehmertum in Taiwan; INSIDE und iCook sind repräsentative Beispiele dafür.
 
-## Quellenangaben
+## Referenzen
 
-[^inside-wiki]: [INSIDE: Kritische Trendbeobachtung — Wikipedia](https://zh.wikipedia.org/zh-tw/INSIDE_%E7%A1%AC%E5%A1%9E%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%B6%A8%E5%8B%A2%E8%A7%80%E5%AF%9F) — Eintrag in der chinesischen Wikipedia, der den Gründungszeitpunkt von INSIDE (26. November 2009), die Liste der sechs Gründer, die offizielle Gründung als Unternehmen (Oktober 2011) und die Übernahme durch die Key Opinion Media Group (Januar 2018) beschreibt.
+[^inside-wiki]: [INSIDE: Trendbeobachtung im Internet — Wikipedia](https://zh.wikipedia.org/zh-tw/INSIDE_%E7%A1%AC%E5%A1%9E%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%B6%A8%E5%8B%A2%E8%A7%80%E5%AF%9F) — Chinesischsprachiger Wikipedia-Eintrag über die Gründung von INSIDE (26. November 2009), die Liste der sechs Gründer, die offizielle Firmengründung (Oktober 2011) und die Übernahme durch TNL (Januar 2018).
 
-[^inside-article]: [【Zehn Jahre kritische Beobachtung】fOx Xiao Shang-nong: Zwei Lektionen aus zehn Jahren im Internetgründerschafts-Kreis — INSIDE](https://www.inside.com.tw/article/18177-fox-hsiao) — Ein Rückblick, der in einer eigenen Publikation von INSIDE veröffentlicht wurde und den Karriereweg von Xiao Shang-nong (Songgang Technology → Yam → NHN → Mitbegründung von INSIDE) sowie die Herkunft des Spitznamens „Dorfvorsteher“ dokumentiert.
+[^inside-article]: [【Zehn Jahre INSIDE】fOx Hsiao Shang-nung: Zwei Lektionen, die der „Vorsteher“ der Internet-Startup-Szene in den letzten zehn Jahren gelernt hat — INSIDE](https://www.inside.com.tw/article/18177-fox-hsiao) — Ein zum zehnjährigen Jubiläum von INSIDE veröffentlichtes Rückblick-Interview über Hsiao Shang-nungs Karriereweg (Songgang Technology → Yam → NHN → Mitgründer von INSIDE) und die Herkunft seines Titels „Vorsteher“.
 
-[^gvm]: [300 Millionen Dollar wertende Website mit 300.000 Investitionen — Yuanjian Magazine](https://www.gvm.com.tw/article/18219) — Die frühe Gründungsgeschichte von iCook (愛料理), die das Arbeitsmodell der drei Gründer, die Inspiration für iCook (Cookpad) und den Startzeitpunkt (August 2010 Firma gegründet, November 2011 Online-Start) dokumentiert.
+[^gvm]: [Mit 300.000 NT$ investiert, eine Website im Wert von 3 Millionen US$ geschaffen — Business Weekly](https://www.gvm.com.tw/article/18219) — Die frühe Gründungsgeschichte von iCook, die Aufgabenverteilung der drei Gründer, die Inspiration (Cookpad) und die Gründung (Unternehmen gegründet im August 2010, Online-Gang im November 2011).
 
-[^buzzorange]: [Der erste Medienübernahmefall in Taiwan im Jahr 2018: Key Opinion Media Group übernimmt INSIDE — TechOrange](https://buzzorange.com/techorange/2018/01/03/inside-married-news-lens/) — Berichtet über die Übernahme von INSIDE durch die Key Opinion Media Group und vermerkt, dass dies der „erste formelle Medienübernahmefall in Taiwan“ war.
+[^buzzorange]: [Taiwans erster Medienkauf im Internetbereich 2018: TNL kündigt Übernahme von INSIDE an — TechOrange](https://buzzorange.com/techorange/2018/01/03/inside-married-news-lens/) — Bericht über die Übernahme von INSIDE durch TNL und die Einordnung als „erste offizielle Fusion eines Online-Mediums in Taiwan“.
 
-[^bnext]: [Key Opinion Media Group kündigt Übernahme der größten Rezeptplattform iCook an — Digital Age BusinessNext](https://www.bnext.com.tw/article/71676/tnl-media-group-bought-icook) — Der offizielle Bericht über die Übernahme von iCook durch die Key Opinion Media Group im September 2022, der die strategischen Absichten und die Geschäftsintegration beschreibt.
+[^bnext]: [TNL Media Group kündigt Übernahme der größten Rezeptplattform iCook an — BusinessNext](https://www.bnext.com.tw/article/71676/tnl-media-group-bought-icook) — Offizieller Bericht über die Übernahme von iCook im September 2022, einschließlich strategischer Absichten und der Richtung der Geschäftsintegration.
 
-[^wazaiii]: [Die „KI-Reise“ des Internetgründers Xiao Shang-nong fOx — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Ein Interview mit Xiao Shang-nong bei Wazaiii, in dem er seine Haltung als Technologieoptimist, die Einführung der KI-Rezepte von iCook (Mai 2023) und seine praktische Anwendung gegenüber der KI-Welle diskutiert.
+[^wazaiii]: [Die „KI-Reise“ des Internet-Unternehmers Hsiao Shang-nung (Fox) — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Ein Interview mit Wazaiii über seine technologieoptimistische Haltung, die Einführung der KI-Rezepte bei iCook (Mai 2023) und seinen Umgang mit der KI-Welle.
 
-[^tnl]: [„Angstmaschine“ fOx Xiao Shang-nong: Wie man im Krypto- und KI-Trend navigiert und stets neugierig auf Neues bleibt? — Key Opinion Media Group](https://www.thenewslens.com/article/254336) — Dokumentiert den Versuch von Xiao Shang-nong, eine Visitenkarten-Scanner-App mit KI zu entwickeln und zu verkaufen, sowie seine persönliche Strategie im Umgang mit der schnellen technologischen Entwicklung.
+[^tnl]: [„Angstmaschine“ Fox Hsiao Shang-nung: Zwischen Krypto und KI – Wie bewahrt man die Neugier auf Neues? — TNL](https://www.thenewslens.com/article/254336) — Bericht über Hsiao Shang-nungs Experiment, eine Visitenkarten-Scan-App mithilfe von KI-Tools selbst zu entwickeln und zu vermarkten, sowie seine persönliche Strategie im Umgang mit schnellen technologischen Iterationen.
 
-[^inside-icook]: [Xiao Shang-nong und Li Zhiwei gestehen selbst: Warum iCook dieses Mal die Key Opinion Media Group wählte? — INSIDE](https://www.inside.com.tw/article/29087-tnl-icook) — Ein eigener Beitrag der beiden Mitbegründer von iCook zum Zeitpunkt des Verkaufs, in dem sie ihre Entscheidungslogik bezüglich der Wahl der Key Opinion Media Group und ihre Selbstinterpretation der beiden Verkäufe darlegen.
+[^inside-icook]: [Hsiao Shang-nung und Li Chih-wei gestehen: Warum iCook sich erneut für TNL entschieden hat — INSIDE](https://www.inside.com.tw/article/29087-tnl-icook) — Ein persönlicher Text der beiden Mitgründer zum Zeitpunkt der Übernahme, der die Entscheidung für TNL und ihre Interpretation der beiden Verkäufe erläutert.
 
-[^cookpad-correction]: [Cookpad TSE Mothers IPO official record — TechCrunch 2009-06-12](https://techcrunch.com/2009/06/12/a-recipe-site-goes-ipo-in-japan-cookpad/) — Faktencheck: Der tatsächliche Börsengang von Cookpad war am 17. Juli 2009 (Mothers Board der Tokyo Stock Exchange), nicht im Jahr 2008, wie in Xiao Shang-nongs Zitat angegeben. Das Zitat wird beibehalten, da es die ursprüngliche Aussage von Xiao Shang-nong darstellt; der Jahresfehler beeinflusst die These des „IPO als Inspiration“ nicht.
+[^cookpad-correction]: [Cookpad TSE Mothers IPO official record — TechCrunch 2009-06-12](https://techcrunch.com/2009/06/12/a-recipe-site-goes-ipo-in-japan-cookpad/) — Faktencheck: Der tatsächliche Börsengang von Cookpad fand am 17. Juli 2009 statt (Tokyo Stock Exchange Mothers), nicht im Jahr 2008 wie im Zitat von Hsiao Shang-nung angegeben. Das Zitat wird unverändert beibehalten, um die ursprüngliche Aussage widerzuspiegeln; der Jahresfehler ändert nichts an der Argumentation bezüglich der Inspiration durch den Börsengang.

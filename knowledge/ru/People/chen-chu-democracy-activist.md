@@ -2,18 +2,20 @@
 title: 'Чэнь Цзю'
 description: 'От узника под приговором к смерти в случае «Мэйлидао» до «южной бастионной цветочной мамы» — она самая яркая свидетельница демократической трансформации Тайваня.'
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['политика', 'демократическое движение', 'Каосюн', 'права человека']
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-07-25T12:49:35+08:00'
+translatedAt: '2026-11-04T22:20:04.161921+00:00'
 ---
 
 > **Обзор за 30 секунд:**

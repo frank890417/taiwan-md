@@ -2,9 +2,7 @@
 title: 'Shen Sheng-po'
 description: 'Memajurkan ilmu komputer, namun membawa bahasa pemrograman ke ranah seni kontemporer Taiwan. Dalam hidupnya yang singkat berusia tiga puluh empat tahun, Shen Sheng-po meninggalkan tidak hanya karya seni digital, melainkan semangat eksperimen yang memandang pemrograman sebagai kehidupan dan perangkat lunak bebas sebagai etika kreatif.'
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'tokoh',
@@ -14,15 +12,19 @@ tags:
     'OpenLab.Taipei',
     'Taiwan',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-24T23:02:15+08:00'
+translatedAt: '2026-11-04T20:49:52.695569+00:00'
 ---
 
 # Shen Sheng-po

@@ -17,77 +17,77 @@ featured: false
 readingTime: 8
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/people/chen-wen-yu-1.webp'
+imageCredit: 'Uiuc1028'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '9062be977'
-sourceContentHash: 'sha256:a830e3b88da8731a'
-sourceBodyHash: 'sha256:d47891ab6b5fa242'
-translatedAt: '2026-09-14T00:53:30+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:3facf31822b994ad'
+sourceBodyHash: 'sha256:93a5825f5b11a6f9'
+translatedAt: '2026-11-04T15:47:43.725977+00:00'
 ---
 
 ![Trần Văn Úc cùng đồng nghiệp và dưa hấu](/article-images/people/chen-wen-yu-1.webp)
 
-_Ảnh: Trần Văn Úc và đồng nghiệp trưng bày dưa hấu. Nguồn: Wikimedia Commons, tác giả Uiuc1028, CC BY-SA 3.0; ảnh không được chỉnh sửa bởi bài viết này._[^10]
+_Ảnh: Trần Văn Úc cùng đồng nghiệp trình diễn dưa hấu. Nguồn: Wikimedia Commons, tác giả Uiuc1028, CC BY-SA 3.0; ảnh không được sửa đổi bởi bài viết này._[^10]
 
-> **Tóm tắt trong 30 giây**: Bắt đầu từ Viện Thử nghiệm Nhiệt đới Phượng Sơn, Trần Văn Úc đã lai tạo ra dưa hấu không hạt "Số 1 Phượng Sơn" và thành lập Cây giống cho nông dân. Điểm đặc biệt của ông không chỉ nằm ở số lượng giống mà còn ở việc định nghĩa sự thành công của công tác lai tạo là khả năng người nông dân đổi lấy một cuộc sống ổn định hơn bằng những hạt giống tốt hơn.
+> **Tóm tắt 30 giây**: Trần Văn Úc xuất phát từ Thử nghiệm viên Nhiệt đới Phụng Sơn, lai tạo dưa hấu không hạt "Phụng Sơn 1" và thành lập Nông Hữu Chủng Miao. Đặc biệt của ông không chỉ nằm ở số lượng giống cây, mà ở việc định nghĩa thành công của lai tạo giống là nông dân có thể nhờ hạt giống tốt hơn mà đổi lấy cuộc sống ổn định hơn.
 
-Năm 1925, Trần Văn Úc sinh ra trong một gia đình nông dân tại Vĩnh Khang, Đài Nam. Năm 1962, ông đã lai tạo ra dưa hấu không hạt "Số 1 Phượng Sơn". Năm 1968, ông cùng bạn bè thành lập Cây giống cho nông dân. Ba năm này vừa chia cuộc đời một người thành ba quy mô: những khó khăn nhìn thấy trên đồng ruộng, kỹ thuật được giải quyết trong phòng thí nghiệm, và con đường mà công ty sau này vượt qua biên giới.[^1] [^2]
+Năm 1925, Trần Văn Úc sinh ra trong một gia đình nông dân tại Vĩnh Khang, Đài Nam. Năm 1962, ông lai tạo ra dưa hấu không hạt "Phụng Sơn 1". Năm 1968, ông cùng bạn bè thành lập Nông Hữu Chủng Miao. Ba năm này vô tình chia cuộc đời một người thành ba giai đoạn: khó khăn thấy được trong ruộng, kỹ thuật giải quyết trong phòng thí nghiệm, và con đường một công ty sau này vượt qua biên giới. [^1] [^2]
 
-Nhưng điều thực sự còn lại của Trần Văn Úc không chỉ là danh hiệu "Vua Dưa Hấu". Điều đáng để tìm hiểu hơn là: **Tại sao một nhà lai tạo lại đặt việc "giúp người nông dân kiếm tiền trước" lên trên lợi nhuận doanh nghiệp?** Hạt giống thường quá nhỏ nên không xuất hiện trong ảnh báo chí, nhưng Trần Văn Úc đã coi nó như một lời cam kết công chúng—giống phải được đưa ra đồng ruộng, và cuối cùng phải trở thành sản lượng mà người nông dân có thể nhìn thấy.
+Nhưng những gì Trần Văn Úc thực sự để lại, không chỉ là danh hiệu "Vua Dưa Hấu". Điều đáng để suy ngẫm hơn là: **Tại sao một nhà lai tạo giống lại đặt "cho nông dân kiếm tiền trước" lên trên lợi nhuận doanh nghiệp?** Hạt giống thường nhỏ đến mức không xuất hiện trong ảnh báo chí, nhưng Trần Văn Úc lại coi nó như một cam kết công cộng — giống cây phải đi vào ruộng, cuối cùng chuyển thành vụ mùa mà nông dân có thể thấy được.
 
-## Bắt đầu từ tiếng thở dài của đồng ruộng
+## Từ những tiếng thở dài trong ruộng nương
 
-![Trần Văn Úc lai tạo dưa ngọt phương Đông](/article-images/people/chen-wen-yu-melon.webp)
+![Trần Văn Úc ở giữa ruộng lai tạo dưa leo phương Đông](/article-images/people/chen-wen-yu-melon.webp)
 
-_Ảnh: Trang hồ sơ Wikimedia Commons mô tả ảnh này là Trần Văn Úc lai tạo dưa ngọt phương Đông; tác giả Uiuc1028, CC BY-SA 3.0. Ảnh không được chỉnh sửa bởi bài viết này._[^11]
+_Ảnh: Trang hồ sơ Wikimedia Commons mô tả ảnh này là Trần Văn Úc lai tạo dưa leo phương Đông; tác giả Uiuc1028, CC BY-SA 3.0. Ảnh không được chỉnh sửa bởi bài viết này._[^11]
 
-Khi còn trẻ, Trần Văn Úc đã phụ giúp trên đồng ruộng và chứng kiến sự bất lực của cha mẹ khi đối mặt với thiên tai và thu hoạch bấp bênh. Sau khi tốt nghiệp Khoa Nghiên cứu Nông nghiệp Tân Phong, ông vào Viện Thử nghiệm Nhiệt đới Phượng Sơn, ban đầu làm công tác lai tạo rau củ, sau đó tập trung sự chú ý vào dưa hấu. Theo ghi chép của _Taiwan Guanghua_, ông đã khảo sát thổ nhưỡng, độ ẩm, khí hậu và tính phù hợp của cây trồng từ Nam ra Bắc, vừa quan sát trên đồng ruộng ban ngày, vừa tổng hợp báo cáo trong phòng thí nghiệm vào buổi tối.[^1]
+Khi còn trẻ, Trần Văn Úc giúp việc trong ruộng, chứng kiến sự bất lực của cha mẹ trước thiên tai và vụ mùa không ổn định. Sau khi tốt nghiệp khoa nghiên cứu Trường Nông nghiệp Tân Phùng, ông vào làm tại Trạm Thử nghiệm Rau quả nhiệt đới Phượng Sơn, trước làm lai tạo rau củ, sau tập trung vào dưa hấu. Theo ghi chép của Tạp chí Taiwan Guanghua, ông từng đi điều tra từ nam đến bắc về chất đất, độ ẩm, khí hậu và sự thích nghi của cây trồng, ban ngày quan sát ở ruộng, tối về phòng thí nghiệm 정리 báo cáo.[^1]
 
-Giai đoạn này rất quan trọng, bởi vì Trần Văn Úc không bắt đầu tưởng tượng giống cây dựa trên "thị trường thiếu gì", mà trước hết hỏi xem đất đai của người nông dân có thể chịu đựng được gì. Đối với ông, lai tạo không phải là thêm một màu mới cho trái cây trên giấy. Nó phải đồng thời đối mặt với sâu bệnh, khí hậu, vận chuyển và việc người nông dân có mua được hạt giống hay không.
+Kinh nghiệm này rất quan trọng, vì Trần Văn Úc không bắt đầu từ việc "thị trường thiếu gì" để tưởng tượng giống cây, mà trước hết hỏi đất của nông dân có thể chịu đựng được gì. Với ông, lai tạo giống không phải là trên giấy tờ thêm một màu sắc mới cho trái cây. Nó phải đồng thời đối mặt với bệnh hại, khí hậu, vận chuyển và việc nông dân có mua được hạt giống hay không.
 
-📝 **Ghi chú biên tập viên: Điểm xuất phát của Trần Văn Úc không phải là làm cho nông nghiệp Đài Loan đẹp hơn, mà là giúp người nông dân giảm bớt rủi ro "gieo xuống mà không biết có thu hoạch được không".**
+📝 **Ghi chú người biên soạn: Điểm xuất phát của Trần Văn Úc không phải là làm cho nông nghiệp Đài Loan đẹp hơn, mà là giảm bớt rủi ro "gieo xuống mà không biết có thu hoạch hay không" mà nông dân phải gánh chịu.**
 
-## Số 1 Phượng Sơn: Công nghệ không phải là điểm kết thúc
+## Phụng Sơn Nhất号: Kỹ thuật không phải đích đến
 
-![Ảnh cắt ngang dưa hấu không hạt trong phạm vi công cộng](/article-images/people/watermelon-seedless.webp)
+![Ảnh cắt dưa hấu không hạt thuộc công hữu](/article-images/people/watermelon-seedless.webp)
 
-_Ảnh: Trang hồ sơ Wikimedia Commons ghi rõ là "Seedless watermelon", mô tả gốc là mua tại Atlanta, Hoa Kỳ năm 2005, sản phẩm từ Nicaragua; tác giả SCEhardt, phạm vi công cộng. Đây là ảnh minh họa dưa hấu không hạt, không phải Số 1 Phượng Sơn, cũng không phải ảnh thực tế về Trần Văn Úc ở Đài Loan._[^17]
+_Ảnh: Trang tệp Wikimedia Commons ghi rõ là "Seedless watermelon" (dưa hấu không hạt), chú thích gốc là mua năm 2005 tại Atlanta, Mỹ, sản phẩm từ Nicaragua; tác giả SCEhardt, công hữu. Đây là ảnh minh họa dưa hấu không hạt, không phải Phụng Sơn Nhất号, cũng không phải ảnh lịch sử Trần Văn Úc tại Đài Loan._ [^17]
 
-Vào những năm 1950, một số giống dưa hấu mà nông dân Đài Loan sử dụng gặp vấn đề về khả năng kháng bệnh và sinh sản. Vì lý do này, Trần Văn Úc đã tham gia nghiên cứu dưa hấu không hạt. Điều này cũng cho thấy tại sao "không hạt" không chỉ là thành quả của phòng thí nghiệm đơn lẻ, mà là một quy trình công nghiệp bao gồm chọn tạo cây bố mẹ, nhân đôi nhiễm sắc thể, lai tạo, thụ phấn trên đồng và phân loại thu hoạch. Tài liệu lai tạo dưa của Đại học Bang Bắc Carolina chỉ ra rằng người trồng thường phải sắp xếp các cây lưỡng bội và tam bội trên đồng ruộng, và phân biệt quả có hạt và không hạt khi thu hoạch và bán.[^13] Sau khoảng ba năm nỗ lực, vào năm 1962, ông đã lai tạo ra "Số 1 Phượng Sơn". Báo _Taiwan Guanghua_ mô tả rằng ông đã sử dụng sự nhân đôi nhiễm sắc thể và giao phối để tạo ra dưa hấu không hạt vô sinh. Các báo cáo tiếng Anh thì khái quát thành tựu này là "quả dưa hấu không hạt đầu tiên trên thế giới".[^1] [^3]
+Niến 1950, một phần hạt giống dưa hấu mà nông dân Đài Loan sử dụng gặp vấn đề về kháng bệnh và sinh sản. Trần Văn Úc do đó tập trung nghiên cứu dưa hấu không hạt. Điều này cũng giải thích tại sao "không hạt" không phải là kết quả của một thử nghiệm phòng thí nghiệm đơn lẻ, mà là quy trình công nghiệp kết hợp từ lựa chọn giống mẹ/cha, nhân đôi nhiễm sắc thể, lai tạo, phấn hoa trong đồng và phân luồng thu hoạch. Tài liệu lai tạo dưa của Đại học Bang Bắc Carolina chỉ ra rằng, người trồng thường phải bố trí cây hai bộ thể và ba bộ thể trong đồng, và phân biệt quả có hạt và không hạt khi thu hoạch và bán hàng. [^13] Sau khoảng ba năm nỗ lực, năm 1962 ông đã tạo ra "Phụng Sơn Nhất号". Báo Taiwan Guanghua mô tả, ông sử dụng nhân đôi nhiễm sắc thể và lai tạo để dòng con hình thành dưa hấu không hạt không có khả năng sinh sản. Báo tiếng Anh thì tóm gọn thành "quả dưa hấu không hạt đầu tiên trên thế giới" để khái quát thành tựu này. [^1] [^3]
 
-Ở đây có một khác biệt về kiểm chứng mà không thể gạt bỏ: các nguồn khác nhau mô tả sự địa lý và thứ hạng thế giới của từ "đầu tiên" khác nhau. Bài viết này sử dụng cách diễn đạt thận trọng nhất, có thể được đối chiếu trực tiếp với báo chí tiếng Trung, gọi nó là **dưa hấu không hạt đầu tiên của Đài Loan "Số 1 Phượng Sơn"**. Còn về "thế giới đầu tiên", chỉ giữ lại trong ngữ cảnh trích dẫn các báo cáo tiếng Anh để tránh nhầm lẫn sự giản lược của truyền thông thành một định luận lịch sử khoa học không có tranh cãi.[^1] [^3]
+Ở đây có một sự khác biệt trong việc kiểm chứng không thể xóa bỏ tùy tiện: các nguồn khác nhau có biểu述 khác nhau về vị trí "đầu tiên" trên thế giới và thứ hạng toàn cầu. Bài viết này áp dụng cách nói bảo thủ nhất, có thể kiểm chứng trực tiếp từ báo cáo tiếng Trung, gọi nó là **quả dưa hấu không hạt đầu tiên của Đài Loan "Phụng Sơn Nhất号"**. Còn "đầu tiên trên thế giới" chỉ được giữ lại trong ngữ cảnh trích dẫn báo cáo tiếng Anh, tránh việc viết nhầm tóm tắt của truyền thông thành kết luận lịch sử khoa học không có tranh
 
-Câu chuyện về dưa hấu không hạt cũng không nên chỉ được viết như "một phát minh". Từ góc độ di truyền học, giống không hạt hiện đại thường không phải là phép thuật "không có hạt", mà là kết quả của sự lai tạo tam bội: cây mẹ tứ bội (2n=4x=44) giao phối với cây bố hai bội (2n=2x=22), tạo ra tam bội (2n=3x=33). Ba bộ nhiễm sắc thể khó phân chia đều trong quá trình giảm phân, khiến giao tử đực và cái mất chức năng bình thường, do đó quả thường không hình thành hạt trưởng thành. Bản thân tam bội không cung cấp phấn hoa hiệu quả, nên đồng ruộng vẫn cần sắp xếp các cây lưỡng bội để kích thích kết quả.[^13] Bước ngoặt thực sự diễn ra tại Nhị Luân, Vân Lâm. Dựa trên khảo sát đất đai, Trần Văn Úc nhận định cánh đồng cát hoang dưới cầu Tây La đã phù hợp để trồng loại dưa sợ lạnh này, nên ông lái xe từ Phượng Sơn đi về phía Bắc, phối hợp với Vương Lương Hùng, cán bộ hội nông dân, hướng dẫn người nông dân trồng. Người nông dân làm việc trên ruộng ban ngày, chỉ có thể học vào buổi tối. Trần Văn Úc hồi tưởng: "Vì người nông dân phải xuống đồng ban ngày nên chỉ có thể học vào buổi tối, tôi cũng thường xuyên phải ở lại phòng trực của hội nông dân qua đêm, nhưng muỗi quá nhiều đến mức không tài nào ngủ được."[^1]
-
-Cánh đồng cát sau đó đã cho ra dưa hấu và được xuất khẩu sang Hồng Kông với sự hỗ trợ của các cơ quan nông nghiệp lúc bấy giờ. Người nông dân nhận thấy thu nhập tốt hơn lúa, nên mới gọi ông là "Vua Dưa Hấu". Nếu danh hiệu này chỉ đặt ở cuối câu chuyện thành công, nó sẽ giống như một chiếc cúp. Khi đặt lại vào cánh đồng cát khô cằn đó, nó thực chất giống như một thẻ làm việc: Trần Văn Úc phải đích thân có mặt, cùng người nông dân biến kỹ thuật thành sản lượng.[^1]
-
-## Một công ty, học cách đưa hạt giống ra đồng trước
+## Một công ty, trước hết học cách đưa hạt giống vào ruộng
 
 ![Dưa hấu tại trang trại hữu cơ quy mô nhỏ ở Đài Nam](/article-images/people/tainan-organic-farm-watermelon.webp)
 
-_Ảnh: Dưa hấu tại trang trại hữu cơ quy mô nhỏ ở Thành phố Đài Nam, Đài Loan, tháng 11 năm 2009; tác giả Fred Hsu, CC BY-SA 3.0. Đây là bối cảnh nông nghiệp Đài Loan, không phải ảnh thực tế về công việc của Trần Văn Úc._[^12]
+_Ảnh: Dưa hấu tại trang trại hữu cơ quy mô nhỏ ở thành phố Đài Nam, Đài Loan, chụp tháng 11 năm 2009; tác giả Fred Hsu, CC BY-SA 3.0. Đây là cảnh quan nông nghiệp Đài Loan, không phải ảnh tư liệu lịch sử về công việc của Trần Văn Úc._[^12]
 
-Năm 1968, ở tuổi 43, Trần Văn Úc rời viện nghiên cứu và cùng bạn bè hợp tác thành lập Cây giống cho nông dân. Tài liệu chính thức định vị ông là người tiên phong trong việc lai tạo các giống rau củ của Đài Loan, ghi nhận ông đã xuất bản tạp chí làm vườn và cây giống, thành lập Quỹ phúc lợi xã hội cho nông dân, và mở bệnh viện cho nông dân tại Myanmar để cung cấp dịch vụ y tế miễn phí.[^4]
+Năm 1968, Trần Văn Úc 43 tuổi rời Viện Thử nghiệm, cùng bạn bè hợp vốn thành lập Công ty Cây giống Nông hữu. Tài liệu chính thức định vị ông là người tiên phong trong việc chọn tạo các giống lai rau tại Đài Loan, và ghi nhận ông xuất bản các ấn phẩm về nghệ thuật vườn và cây giống, thành lập Quỹ Phúc lợi Xã hội Nông hữu, cũng như thành lập Bệnh viện Nông dân tại Myanmar, cung cấp dịch vụ y tế miễn phí.[^4]
 
-Trang giải thưởng chính thức sau này của Cây giống cho nông dân lại ghi giá trị cốt lõi của công ty là "một hạt giống, một trách nhiệm", liệt kê các thành tích như Huân chương Sao cảnh hạng ba quốc gia do Trần Văn Úc nhận, Giải thưởng Đóng góp Cây giống Quốc gia của Hiệp hội Hạt giống Châu Á Thái Bình Dương, và Huân điển của Phủ Tổng thống. Những giải thưởng này chứng minh ông được sự công nhận về thể chế, nhưng không thể tự mình chứng minh mọi con số ngành nghề. Các con số vẫn cần được đối chiếu với nguồn tương ứng.[^5]
+Trang giải thưởng chính thức sau này của Nông hữu ghi giá trị cốt lõi của công ty là 「Một hạt giống, một trách nhiệm」, và liệt kê các ghi nhận Trần Văn Úc được trao Huân chương Cảnh tinh cấp ba của Nhà nước, Giải thưởng Đóng góp Cây giống Quốc gia của Hiệp hội Cây giống Châu Á - Thái Bình Dương, serta Lệnh khen ngợi của Phủ Tổng thống. Những giải thưởng này có thể chứng minh ông được công nhận bởi thể chế, nhưng không thể đơn lẻ chứng minh từng con số ngành. Các con số vẫn phải đối chiếu trở lại các nguồn gốc tương ứng.[^5]
 
-Tài liệu phỏng vấn _Trần Văn Úc và Lâm Tuấn Nghĩa_ do Viện Lịch sử Quốc gia xuất bản cung cấp một manh mối quan trọng khác: cuốn sách giới thiệu chính thức đặt Trần Văn Úc trong bối cảnh công tác lai tạo cây giống nông nghiệp Đài Loan vươn ra quốc tế, đặc biệt đề cập đến dưa hấu da vàng "Diana" và giải thưởng AAS, cũng nhắc đến các cơ sở nghiên cứu, bệnh viện nông dân và quỹ phúc lợi của Cây giống cho nông dân trên toàn cầu. Đây không phải là một bản tóm tắt có thể thay thế cuộc phỏng vấn từng chữ trong sách, nhưng nó chứng minh câu chuyện của Trần Văn Úc không chỉ được dựng nên từ những bài viết truyền kỳ sau này.[^6]
+Viện Sử quốc gia xuất bản《Phỏng vấn Trần Văn Úc, Lâm Tuấn Nghĩa》cung cấp một manh mối quan trọng khác: giới thiệu sách chính thức đặt Trần Văn Úc trong bối cảnh ngành cây giống nông nghiệp Đài Loan đi ra quốc tế, đặc biệt nhắc đến dưa hấu vàng vỏ 「Diana」 và giải thưởng AAS, cũng nhắc đến các cơ sở nghiên cứu phát triển toàn cầu của Nông hữu, Bệnh viện Nông dân và Quỹ Phúc lợi Xã hội. Đây không phải là tóm tắt có thể thay thế cho phỏng vấn nguyên văn trong sách, nhưng nó chứng minh câu chuyện của Trần Văn Úc không chỉ được ghép từ các bài viết truyền kỳ sau này.[^6]
 
-📝 **Ghi chú biên tập viên: Sức mạnh mềm nông nghiệp Đài Loan đôi khi không phải là một lá cờ, mà là một gói hạt giống có thể nảy mầm trong một khí hậu khác.**
+📝 **Ghi chú người bảo tàng: Sức mạnh mềm nông nghiệp của Đài Loan, đôi khi không phải là một lá cờ, mà là một gói hạt giống có thể nảy mầm trong một khí hậu khác.**
 
-## Quan điểm doanh nghiệp "Giúp người nông dân kiếm tiền trước"
+## Quan điểm doanh nghiệp: 「Để nông dân kiếm tiền trước」
 
-![Ảnh dưa hấu chín trên Wikimedia Commons](/article-images/people/watermelons.webp)
+![成熟西瓜的 Wikimedia Commons 照片](/article-images/people/watermelons.webp)
 
-_Ảnh: Dưa hấu chín, tác giả Steve Evans, Wikimedia Commons, CC BY 2.0; ảnh này được dùng để thể hiện chính cây trồng dưa hấu, không phải ảnh thực tế về Trần Văn Úc hay trang trại Đài Loan._[^14]
+_Hình ảnh: Quả dưa hấu chín, tác giả Steve Evans, Wikimedia Commons, CC BY 2.0; hình này dùng để minh họa chính cây dưa hấu, không phải ảnh lịch sử của Trần Văn Úc hay nông trại Đài Loan._ [^14]
 
-Tạp chí _Smile Taiwan_ ghi lại cuộc phỏng vấn của Trần Văn Úc khi về già. Ông phân biệt hạt giống với các mặt hàng tiêu dùng thông thường, nói rằng "trách nhiệm của một hạt giống" là "giống được nghiên cứu và mang lại lợi ích tốt cho người nông dân". Trong cùng một bài báo, ông cũng đề cập đến việc lai tạo dưa hấu da vàng thịt đỏ "Diana", khi liên tục đối mặt với các cá thể vỏ xanh, cuối cùng mô tả sự kiên quyết không chịu nhượng bộ là: "Chỉ muốn khác biệt với người khác mà thôi!"[^7]
+Tạp chí «Nụ cười Đài Loan» ghi lại phỏng vấn cuối đời của Trần Văn Úc. Ông phân biệt hạt giống với hàng tiêu dùng thông thường, nói rằng «trách nhiệm của một hạt giống» là «nghiên cứu phát triển giống tốt, mang lại thu nhập tốt cho nông dân». Trong cùng bài báo, ông cũng nói về việc lai tạo giống dưa hấu «Diana» vỏ vàng ruột đỏ, khi liên tục gặp phải các cá thể vỏ xanh, cuối cùng vẫn mô tả sự kiên trì không nhượng bộ đó bằng câu: «Chỉ muốn khác biệt với người khác thôi!» [^7]
 
-Tạp chí _Upstream/Downstream_ lại đặt triết lý kinh doanh này trong một quy mô địa lý lớn hơn: Cây giống cho nông dân đã quảng bá cây giống và kỹ thuật canh tác ở miền Bắc Thái Lan, Trung Quốc và Ấn Độ, đồng thời mở bệnh viện cho nông dân tại Myanmar. Bài báo cũng giữ lại những phần không mấy đẹp đẽ của toàn cầu hóa nông nghiệp, ví dụ như vấn đề hàng giả trên thị trường Trung Quốc và rủi ro kinh doanh xuyên biên giới. Những khó khăn này không nên bị cắt bỏ, bởi vì "giúp đỡ người nông dân" không phải là một khẩu hiệu doanh nghiệp hoa mỹ, mà là việc gánh chịu chi phí trong các hệ thống lạ lẫm, giao thông và thị trường.[^8]
+Tạp chí «Thượng du/Hạ du» (Upstream/Downstream) đặt triết lý kinh doanh này vào quy mô địa lý rộng hơn: Nông hữu từng推廣 hạt giống và kỹ thuật trồng trọt tại Bắc Thái Lan, Trung Quốc và Ấn Độ, và thiết lập bệnh viện cho nông dân tại Myanmar. Bài báo cũng giữ lại những mặt không đẹp của nông nghiệp toàn cầu hóa, ví dụ như vấn đề hàng giả ở thị trường Trung Quốc và rủi ro kinh doanh xuyên biên giới. Những khó khăn này không nên bị cắt bỏ, vì «giúp đỡ nông dân» không phải là một khẩu hiệu doanh nghiệp đẹp mắt, mà là phải gánh chịu chi phí trong những thể chế, giao thông và thị trường lạ lẫm. [^8]
 
-Tờ _Taipei Times_ bằng tiếng Anh, trong bài báo về sự qua đời của Trần Văn Úc, đã trích dẫn ông nói: "Mục tiêu của tôi là tạo ra quả dưa hấu ngon nhất thế giới." Bài báo đó cũng ghi lại một câu gần với đạo đức công việc của ông hơn: "Cần có cây giống tốt để sản xuất các giống tốt. Chúng tôi cung cấp hạt giống tốt cho nông dân để giúp họ thu hoạch bội thu."[^3]
+Báo 《Taipei Times》 bản tiếng Anh trong bài báo tử của Trần Văn Úc trích dẫn ông nói: «My goal is to create the world's most delicious watermelon.» Cùng bài báo cũng ghi lại một câu nói khác gần gũi hơn với đạo đức nghề nghiệp của ông: «It takes good seedlings to produce good varieties. We provide farmers with good seeds to help them reap better harvests.» [^3]
 
-Nhìn hai câu này cùng nhau, ta thấy mục tiêu của ông không hề mâu thuẫn: dưa hấu ngon nhất là trí tưởng tượng của nhà lai tạo, nhưng người nông dân có thể có thu hoạch tốt hơn mới là lý do cho sự tưởng tượng đó được tồn tại.
+Đặt hai câu nói này cạnh nhau, ta thấy mục tiêu của ông không mâu thuẫn: Quả dưa hấu ngon nhất là tưởng tượng của nhà lai tạo, nhưng nông dân có được thu hoạch tốt hơn mới là lý do cho phép sự tưởng tượng đó tồn tại.
 
 ## Hạt giống đi ra ngoài cũng mang theo những giới hạn
 
@@ -143,15 +143,15 @@ Sự hiểu biết đáng tin cậy hơn là: ông đã làm một phương phá
 
 Lần tới khi chúng ta cắt một miếng dưa hấu không hạt, có lẽ không cần nghĩ nó là đài tưởng niệm của một thiên tài nào đó. Cách đọc gần gũi hơn với Trần Văn Úc là hình dung ra những bảng biểu bị loại bỏ phía sau phần thịt quả, những mảnh đất không phù hợp, và một người vẫn sẵn lòng mang kỹ thuật trở lại đồng ruộng. Hạt giống rất nhỏ. Nhưng trách nhiệm mà nó đòi hỏi thì chưa bao giờ nhỏ. Và chính vì thế, câu chuyện của Trần Văn Úc không chỉ thuộc về lịch sử nông nghiệp, mà còn thuộc về những người đã chịu khó kiểm chứng thêm một lần trước khi giao phó một kỹ thuật cho người khác. Sự kiên nhẫn này là công việc ít được nhìn thấy nhất, nhưng lại không thể bỏ qua, trước khi hạt giống thực sự vượt qua biên giới. Nó nhắc nhở chúng ta rằng sự đổi mới thực sự đáng tin cậy, thường bắt đầu bằng sự chờ đợi lâu dài trong các chi tiết, và do đó xứng đáng được người nông dân qua nhiều thế hệ kiểm chứng, cũng như được mỗi mảnh đất cần thích ứng lại nhắc nhở chúng ta, và nhắc nhở những người sau này.
 
-## Cây giống không phải là phụ phẩm của sản phẩm nông nghiệp
+## Giống cây trồng không phải là phụ phẩm của sản phẩm nông nghiệp
 
-![Dưa hấu đang phát triển trên đồng ruộng](/article-images/people/growing-watermelon.webp)
+![Dưa hấu đang phát triển trong ruộng](/article-images/people/growing-watermelon.webp)
 
-_Ảnh: Dưa hấu đang phát triển trên đồng ruộng, tác giả Mihaib21, Wikimedia Commons, CC BY-SA 3.0; ảnh này được dùng để thể hiện giai đoạn sinh trưởng của cây trồng, không phải ảnh thực tế về công việc của Trần Văn Úc._[^16]
+_Ảnh: Dưa hấu đang phát triển trong ruộng, tác giả Mihaib21, Wikimedia Commons, CC BY-SA 3.0; ảnh này dùng để minh họa giai đoạn phát triển của cây trồng, không phải là ảnh thực tế hiện trường làm việc của Trần Văn Úc._[^16]
 
-Trường hợp của Trần Văn Úc cũng giúp chúng ta hiểu lại từ "chuỗi ngành nông nghiệp" thường bị nói một cách chung chung. Người nông dân nhìn thấy mầm, lá, hoa và quả trên đồng ruộng. Còn công ty cây giống phải xử lý cây bố mẹ, thụ phấn, cách ly, độ tinh khiết, tỷ lệ nảy mầm, đóng gói và bảo quản sớm hơn. Chỉ cần một khâu nào không chính xác, sản phẩm người nông dân nhận được có thể không phải là giống như mong đợi. Các trường hợp tích hợp liên ngành trong nông nghiệp chỉ ra rằng Cây giống cho nông dân sau này thậm chí còn cần cải thiện vị trí lưu trữ và quy trình thông tin của kho nguồn gen, bởi vì quản lý hạt giống không thể chỉ dựa vào trí nhớ và giấy tờ.[^9]
+Trường hợp của Trần Văn Úc còn giúp chúng ta hiểu lại từ «chuỗi giá trị nông nghiệp» — một từ thường được nói đến một cách trừu tượng. Nông dân trong ruộng thấy là cây non, lá, hoa và quả. Công ty giống cây trồng thì phải xử lý từ sớm hơn nhiều các việc: dòng cha mẹ, thụ phấn, cách ly, độ tinh khiết, tỷ lệ nảy mầm, bao bì và bảo quản. Chỉ cần một trong các khâu đó bị lệch, nông dân nhận được có thể không phải giống mong đợi. Các ví dụ về tích hợp liên ngành nông nghiệp chỉ ra rằng, sau này nông dân thậm chí cần cải thiện vị trí lưu trữ và quy trình thông tin của kho gene, chính vì quản lý hạt giống không thể chỉ dựa vào trí nhớ và giấy tờ.[^9]
 
-"Cơ sở hạ tầng vô hình" này cũng là một khía cạnh ít được thảo luận trong câu chuyện của Trần Văn Úc. Đài Loan thường đặt thành tựu nông nghiệp trên sản lượng, xuất khẩu hoặc các giống đoạt giải, nhưng điều thực sự giúp một công ty lai tạo lâu dài là khả năng bảo quản cây bố mẹ thất bại, ghi lại mỗi lần giao phối, phân biệt các thế hệ và vẫn tìm thấy vật liệu đó sau nhiều năm. Đối với ngành lai tạo, dữ liệu không phải là gánh nặng hành chính, mà là điểm khởi đầu cho thành công tiếp theo.
+Loại «cơ sở hạ tầng vô hình» này cũng là một khía ít được bàn luận trong câu chuyện của Trần Văn Úc. Đài Loan thường đặt thành tựu nông nghiệp ở sản lượng, xuất khẩu hoặc giống đoạt giải, nhưng điều thực sự khiến một công ty có thể chọn tạo giống lâu dài là khả năng bảo quản dòng cha mẹ thất bại, ghi chép mỗi lần lai tạo, phân biệt các thế hệ khác nhau, và sau nhiều năm vẫn tìm được những vật liệu đó. Đối với chọn tạo giống, dữ liệu không phải là gánh nặng hành chính, mà là điểm khởi đầu cho lần thành công tiếp theo.
 
 ## Từ Số 1 Phượng Sơn đến kỹ thuật tam bội ngày nay
 

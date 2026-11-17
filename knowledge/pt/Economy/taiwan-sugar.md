@@ -2,9 +2,7 @@
 title: 'Taiwan Sugar: do império doce que sustentava 74% das divisas, ao maior lucro de 2025 como "grande proprietário que não cuida do negócio principal"'
 description: 'Em 2025, o lucro líquido após impostos da Taiwan Sugar atingiu um novo recorde de 7,4 bilhões, mas esta empresa centenária já não ganha dinheiro vendendo açúcar. Do pilar colonial da era japonesa à veia econômica do pós-guerra, veja como a Taiwan Sugar se transformou a partir do açúcar, redefinindo o "doce proveito" em orquídeas, biotecnologia e construção circular.'
 date: 2026-05-03
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Taiwan Sugar',
@@ -13,15 +11,19 @@ tags:
     'economia circular',
     'orquídea borboleta',
   ]
-readingTime: 8
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: '2026-07-25T15:46:05+08:00'
+translatedAt: '2026-11-04T17:14:28.145919+00:00'
 ---
 
 > **Visão geral em 30 segundos:** nos anos 1950, de cada 100 unidades de divisas de Taiwan, 74 vinham do açúcar da Taiwan Sugar. Hoje, o negócio do açúcar dá prejuízo ano após ano, mas em 2025 a empresa bateu recorde de lucro — 7,468 bilhões — graças a petróleo, orquídeas e desenvolvimento imobiliário. O maior proprietário de terras da ilha está deixando de ser uma "fábrica de açúcar" para virar líder em "economia circular".

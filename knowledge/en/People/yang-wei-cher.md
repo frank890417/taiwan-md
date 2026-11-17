@@ -2,9 +2,7 @@
 title: 'Yang Wei-cher: From Calculus to the Mother Tongue, the Performing Artist of the Mathematics World'
 description: "Yang Wei-cher, professor emeritus in National Taiwan University's Department of Mathematics, is known for teaching in shorts, riding a bicycle, and lecturing in Taiwanese. The son of renowned painter Yang Chi-tung, he once defied his father's wishes by abandoning medicine for mathematics, and in 1997 sparked a controversy over whether teaching in Taiwanese was 'unconstitutional.' He was not only a driving force behind the Mathematical Olympiad, but also a steadfast resister in the Chen Wen-chen Incident, practicing 'performance art' throughout his life between logic and cultural subjectivity."
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與學術'
 tags:
   [
     'Mathematics',
@@ -15,15 +13,19 @@ tags:
     'Chen Wen-chen',
     'Yang Chi-tung',
   ]
+subcategory: '科學與學術'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-04T20:56:54.220496+00:00'
 ---
 
 > **30-Second Overview:**
@@ -79,28 +81,28 @@ Yang Wei-cher’s very existence poses a profound question to Taiwan’s cultura
 
 ## References
 
-[^1]: [The legend of Taiwanese-language instruction at NTU and its aftermath (old title: In 1997, Professor Yang Wei-cher taught in Taiwanese, and a legislator called it “unconstitutional”!)](https://www.telltaiwan.org/5057) — Professor Chou Wan-yao details the historical context of Professor Yang Wei-cher’s Taiwanese-language teaching and the Legislative Yuan controversy.
+[^1]: [The legend of NTU's Taiwanese-taught classes and its aftermath (Old title: Professor Yang Wei-che teaching in Taiwanese in 1997, legislators called it 'unconstitutional'!)](https://www.telltaiwan.org/5057) — Professor Chou Wan-yao details the historical context and Legislative Yuan controversies regarding Professor Yang Wei-che's use of Taiwanese for instruction.
 
-[^2]: [Yang Wei-cher - Wikipedia, the Free Encyclopedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — An overview of Professor Yang Wei-cher’s basic biography and teaching characteristics.
+[^2]: [Yang Wei-che - Wikipedia, the free encyclopedia](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — An overview of Professor Yang Wei-che's basic biography and teaching characteristics.
 
-[^3]: [Yang Wei-cher: I Regret That I Did Not Teach Mathematics in Taiwanese from the Very Beginning](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — An interview in _New Taiwan Weekly_ documenting Professor Yang Wei-cher’s inner journey in promoting Taiwanese-language instruction.
+[^3]: [Yang Wei-che: I regret not teaching mathematics in Taiwanese from the very beginning](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — An interview with New Taiwan News Weekly, recording Professor Yang Wei-che's psychological journey in promoting Taiwanese language instruction.
 
-[^4]: [Professor Yang Wei-cher’s Mathematics Lecture Hall: Basic Coordinate Geometry](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Wu-Nan Book’s introduction to Professor Yang Wei-cher’s educational philosophy and mathematics books.
+[^4]: [Professor Yang Wei-che's Mathematics Lecture Hall — Basic Coordinate Geometry](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Wunan Publishing Company introduces Professor Yang Wei-che's educational philosophy and mathematics books.
 
-[^5]: [[Taiwanese Friday Lecture] Professor Yang Wei-cher’s Lecture: Discussion from a Mathematical Perspective](https://www.instagram.com/p/Czgc1tJPeAK/) — Event information for Professor Yang Wei-cher’s 2023 lecture at NTU’s College of Liberal Arts.
+[^5]: [[Taiwanese Language Friday Lecture] Professor Yang Wei-che's Speech: Discussing from a Mathematical Perspective](https://www.instagram.com/p/Czgc1tJPeAK/) — Event information regarding Professor Yang Wei-che's 2023 lecture at the NTU College of Liberal Arts.
 
-[^6]: [It Felt Like Meeting Newton (Part 2)](https://blog.udn.com/Carole777/45605455) — An account of Professor Yang Wei-cher’s interactions and friendships with senior figures and colleagues in NTU’s Department of Mathematics.
+[^6]: [Feeling Like Meeting Newton (Part II)](https://blog.udn.com/Carole777/45605455) — A description of the interactions and friendships between Professor Yang Wei-che and his seniors and colleagues in the NTU Department of Mathematics.
 
-[^7]: [The Mathematics Professor Who Watched Me Grow Up Since High School](https://www.instagram.com/p/C8Zkg9-PC4w/) — Professor Yeh Ping-cheng recalls Professor Yang Wei-cher’s influence on gifted education and students.
+[^7]: [Looking at the Math Teacher Who Raised Me Through High School](https://www.instagram.com/p/C8Zkg9-PC4w/) — Professor Yeh Bing-cheng recalls Professor Yang Wei-che's influence on gifted education and students.
 
-[^8]: [Mathematical Communications - Yang Wei-cher](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — A list of Professor Yang Wei-cher’s writings in _Mathematical Communications_, a journal of the Institute of Mathematics, Academia Sinica.
+[^8]: [Mathematics Communication — Yang Wei-che](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — A list of works by Professor Yang Wei-che in the journal 'Mathematics Communication' from the Institute of Mathematical Sciences, Academia Sinica.
 
-[^9]: [VI. The Brave Advance, Evergreen in the Art World - Yang Chi-tung and Yang Wei-cher](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — National Taiwan Museum of Fine Arts archives detailing the father-son story of Yang Chi-tung and Yang Wei-cher, and Yang’s abandonment of medicine for mathematics.
+[^9]: [VI. Brave Diligence, Everlasting in Art — Yang Chi-tung and Yang Wei-che](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — National Taiwan Museum of Fine Arts archives, detailing the story of father and son Yang Chi-tung and Yang Wei-che abandoning medicine for mathematics.
 
-[^10]: [Taiwan’s First “Triple Jump” Gifted Student! Yang Bo-yin Graduated from NTU at 18](https://time.udn.com/udntime/story/122833/8798116) — _United Daily News Time_ records the prodigious growth of Yang Wei-cher’s son Yang Bo-yin.
+[^10]: [Taiwan's First 'Triple Jump' Gifted Student! Yang Po-yin Graduated from NTU at 18](https://time.udn.com/udntime/story/122833/8798116) — United Daily News archives, recording the genius growth process of Yang Wei-che's son, Yang Po-yin.
 
-[^11]: [The Chen Wen-chen Incident and NTU’s Department of Mathematics](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Wikipedia’s account of Professor Yang Wei-cher’s position in the Chen Wen-chen Incident.
+[^11]: [The Chen Wen-cheng Incident and the NTU Department of Mathematics](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Wikipedia records regarding Professor Yang Wei-che's stance during the Chen Wen-cheng incident.
 
-[^12]: [Yang Wei-cher, 20081223: From University Life to the Chen Wen-chen Incident](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Oral history interview record from the National Taiwan University History Gallery.
+[^12]: [Yang Wei-che 20081223: From University Life to the Chen Wen-cheng Incident](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Oral history interview records from the National Taiwan University Archives.
 
-[^13]: [41st Anniversary of the Chen Wen-chen Incident: In Memory of a Brave Man Who Firmly Resisted State Violence](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahoo News report mentioning Yang Wei-cher’s inscription for the Chen Wen-chen memorial.
+[^13]: [41st Anniversary of the Chen Wen-cheng Incident: Commemorating a Brave Soul Who Resisted State Violence](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahoo News report, mentioning that Yang Wei-che provided the calligraphy for the Chen Wen-cheng memorial monument.

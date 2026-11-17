@@ -1,6 +1,6 @@
 ---
-title: 'A-mei: Penyanyi Suku Puyuma, dari《姊妹》1996 hingga Lima Konser di Dome 2024'
-description: 'Lahir 9 Agustus 1972 di Kecamatan Puyuma, Kabupaten Taitung, A-mei adalah penyanyi suku Puyuma dari Taiwan, salah satu penyanyi wanita paling sukses dalam sejarah musik pop Mandarin. Album debut 1996《姊妹》terjual 1,21 juta kopi di Taiwan, 4 juta di Asia. 2015 "Utopia" 10 konser berturut-turut di Taipei Arena. Desember 2024 ASMeiR MAXXX 5 konser di Dome, biaya produksi 2 miliar, peluncuran balon udara panas. Total penjualan karir melebihi 50 juta kopi.'
+title: "A-Mei: Penyanyi Suku Puyuma, dari Album Perdana 1996 'Jie Mei' hingga Lima Konser di Taipei Dome 2024"
+description: "Lahir pada 9 Agustus 1972 di Kecamatan Beinan, Kabupaten Taitung, A-Mei adalah penyanyi suku Puyuma dari Taiwan, salah satu penyanyi wanita paling sukses dalam sejarah musik pop Mandarin. Album pertamanya pada 1996 'Jie Mei' terjual 1,21 juta kopi di Taiwan dan 4 juta kopi di Asia. Pada 2015, tur 'Utopia' di Taipei Arena berlangsung 10 kali berturut-turut. Pada Desember 2024, lima konser ASMeiR MAXXX di Taipei Dome, dengan biaya produksi NT$200 juta, dan peluncuran balon udara panas di lokasi. Total penjualan karirnya melebihi 50 juta kopi."
 date: 2026-03-19
 category: 'People'
 tags: ['Musik', 'Orang Asli', 'Puyuma', 'Diva', 'Kesetaraan LGBT', 'Musik Pop']
@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T21:13:29.372694+00:00'
 ---
 
 # A-mei: Diva Suku Puyuma, dari《姊妹》1996 hingga Lima Konser di Dome 2024

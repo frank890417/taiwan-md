@@ -144,7 +144,7 @@ Ini juga alasan sistem mesti terus diperbarui, bukan cuma menambal lubang pasca-
 
 Di foto demo buruh 2021 itu, kurir bukan „tenaga platform” abstrak. Mereka pakai baju sendiri, berdiri di jalan mereka, menuntut kota ini mengakui: yang sampai di pintu rumah, bukan cuma sepiring makanan, tapi juga waktu yang ditinggal seseorang setelah menembus kota.
 
-### 參考資料
+### Referensi
 
 [^1]: [The Reporter: Risiko kecelakaan kerja kurir platform lebih tinggi pasca-kebijakan baru, saat standar internasional semakin proaktif, apakah Kementerian Tenaga Kerja bisa bertindak?](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — Lihat tautan asli untuk data lengkap
 

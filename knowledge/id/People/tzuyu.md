@@ -1,29 +1,33 @@
 ---
 title: 'Tzuyu'
-description: 'Seorang gadis Tainan yang tidak pernah berbicara tentang politik menjadi titik balik nasib Taiwan akibat sebuah bendera nasional yang tampil selama 8 detik. Sepuluh tahun kemudian, di Taipei Dome, ia membacakan surat tulisan tangannya sendiri: “Saya tidak pergi, bukan karena saya penurut, melainkan karena saya benar-benar menginginkan dan mendambakannya.”'
+description: 'Seorang gadis Tainan yang tidak pernah membicarakan politik, diubah oleh bendera 8 detik menjadi titik balik nasib Taiwan. Sepuluh tahun kemudian dia membacakan surat tulisan tangannya di Kaohsiung: "Saya tidak pergi, bukan karena taat, melainkan karena saya benar-benar merindukannya".'
 date: 2026-04-14
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Tzuyu',
     'TWICE',
     'Korea Selatan',
     'K-POP',
-    'insiden bendera nasional',
-    'identitas Taiwan',
-    'musik pop',
+    'Insiden Bendera',
+    'Identitas Taiwan',
+    'Musik Pop',
   ]
-readingTime: 16
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-14
 lastHumanReview: true
-featured: true
+readingTime: 16
+evolveHistory:
+  - date: 2026-11-04
+    action: 'fix'
+    reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-05T07:37:00.251218+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Tzuyu lahir di Tainan pada 1999 dan meninggalkan rumah pada usia 13 tahun untuk menjadi peserta pelatihan JYP. Pada hari ke-47 setelah debut, ia memegang bendera Republik Tiongkok (Taiwan) dalam sebuah acara varietas Korea Selatan. Tayangan selama 8 detik itu ditangkap layar oleh warganet Tiongkok. Dua bulan kemudian, video permintaan maaf berdurasi 90 detik dirilis pada malam menjelang pemilihan presiden Taiwan. Para akademisi memperkirakan bahwa video tersebut memengaruhi keputusan 1,34 juta pemilih muda[^8]. Sejak itu, ia tidak pernah mengucapkan sepatah kata pun mengenai 90 detik tersebut. Ia hanya terus menari, terus merilis album, serta tetap menjadi penari utama dan anggota termuda TWICE. Sepuluh tahun kemudian, ia akhirnya kembali ke Kaohsiung dan membacakan surat tulisan tangannya sendiri di hadapan 55.000 orang: “Saya tidak pergi, bukan karena saya penurut atau patuh, melainkan karena saya benar-benar menginginkan dan mendambakannya.” Seluruh stadion menangis bersamanya.

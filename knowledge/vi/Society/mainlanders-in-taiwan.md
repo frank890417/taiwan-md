@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-07-26T23:26:49+08:00'
+translatedAt: '2026-11-04T18:49:03.831116+00:00'
 ---
 
 > **30 giây tóm tắt:**

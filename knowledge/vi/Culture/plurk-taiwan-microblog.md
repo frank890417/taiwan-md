@@ -3,7 +3,6 @@ title: 'Plurk'
 description: 'Nền tảng microblogging ra đời vào năm 2008, Plurk sử dụng trục thời gian "sông ngòi" cuộn ngang và không có thuật toán đề xuất, tồn tại suốt mười năm trước khi bị Google Adsense chặn vào năm 2016. Sau đó, nhờ vào hệ thống phí thành viên "Plurk Cash", nền tảng chuyển đổi từ thua lỗ sang lợi nhuận — người dùng Đài Loan bỏ tiền vào để bầu phiếu, giúp "sông ngòi" không bị thuật toán kiểm duyệt tiếp tục chảy.'
 date: 2026-04-01
 category: 'Culture'
-subcategory: '數位生活'
 tags:
   [
     'Truyền thông xã hội',
@@ -11,15 +10,18 @@ tags:
     'Lịch sử mạng xã hội Đài Loan',
     'Plurk Cash',
   ]
+subcategory: '數位生活'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/噗浪Plurk.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'
-translatedAt: '2026-07-25T06:34:13+08:00'
+translatedAt: '2026-11-05T07:24:44.866916+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Plurk (噗浪) là nền tảng microblogging do Người Hàn Quốc tại Malaysia, Người Khắc Văn Bình (云惟彬), cùng đồng sáng lập vào năm 2008, với lớp người dùng lớn nhất tại Đài Loan[^1]. Thiết kế độc đáo nhất của nó là trục thời gian "sông ngòi" cuộn ngang, cùng môi trường xã hội không dùng thuật toán đề xuất — bạn thấy gì phụ thuộc vào những người bạn theo dõi, không phải nền tảng muốn bạn nhìn gì. Sau khi bị Google Adsense chặn vĩnh viễn vì nội dung người lớn trên nền tảng vào năm 2016, Plurk ra mắt gói thành viên trả phí "Plurk Cash", chuyển đổi từ thua lỗ sang lợi nhuận nhờ hỗ trợ của người dùng[^2]. Đến năm 2026, khi các nền tảng mới như Threads gây xu hướng microblogging, nhiều người bất ngờ khi phát hiện — Plurk không chỉ còn sống mà còn mạnh hơn bao giờ hết.

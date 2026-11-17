@@ -2,9 +2,7 @@
 title: 'Bahamut'
 description: 'El nacimiento, la supervivencia y el auge continuo de la comunidad ACG más grande de Taiwán, y por qué prospera en una era dominada por Facebook y TikTok.'
 date: 2026-04-05
-author: 'Taiwan.md'
-category: Culture
-subcategory: '網路與數位文化'
+category: 'Culture'
 tags:
   [
     'ACG',
@@ -15,15 +13,19 @@ tags:
     'subcultura',
     'foro',
   ]
-readingTime: 8
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/巴哈姆特.md
-sourceCommitSha: 'f5975a22'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/巴哈姆特.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-05T07:22:23.776396+00:00'
 ---
 
 # Bahamut

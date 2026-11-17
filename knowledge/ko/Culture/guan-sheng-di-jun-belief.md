@@ -2,19 +2,21 @@
 title: '관성제군(關聖帝君): 패장이 어떻게 대만의 만능신이 되었는가'
 description: '삼국지 장수 관우는 전쟁에 패해 참수되었지만, 대만에서는 전 세계 유일의 "은주공(恩主公)" 신앙 체계로 진화했다. 그리고 대만에서 가장 붐비는 관제묘는 향 한 개도 피우지 못하게 한다.'
 date: 2026-03-26
-tags: [관성제군, 은주공, 행천궁, 민간신앙, 사원문화]
-subcategory: '宗教與民俗'
 category: 'Culture'
+tags: ['관성제군', '은주공', '행천궁', '민간신앙', '사원문화']
+subcategory: '宗教與民俗'
 author: 'Taiwan.md Contributors'
-readingTime: 10
+featured: false
 lastVerified: 2026-03-26
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-04-14T08:05:20+08:00'
-featured: false
-lastHumanReview: false
+translatedAt: '2026-11-05T08:50:10.137950+00:00'
 ---
 
 # 관성제군(關聖帝君): 패장이 어떻게 대만의 만능신이 되었는가

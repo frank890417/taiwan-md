@@ -2,9 +2,7 @@
 title: 'صور كبار السن: اللوتس والبوذا وراء اللطف الرقمي وساحة معركة المعلومات'
 description: 'صور كبار السن ليست مجرد دليل على تجاوز كبار السن في تايوان للفجوة الرقمية، بل هي أيضًا وسيلة لتبادل المشاعر على منصات التواصل الاجتماعي، إلا أن شكلها الفريد أصبح بيئة خصبة لنشر المعلومات المضللة، وتطورت إلى ثقافة ميمية فريدة بين الأجيال الشابة.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     'صور كبار السن',
@@ -15,15 +13,19 @@ tags:
     'المعلومات المضللة',
     'الميمز',
   ]
-readingTime: 10
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-07-25T07:56:03+08:00'
+translatedAt: '2026-11-05T05:34:23.669558+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

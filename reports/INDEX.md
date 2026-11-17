@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-10-26 06:07
+last_generated: 2026-11-07 06:31
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,27 +12,28 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-10-26 06:07** · 頂層 \*.md 共 **307** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-11-07 06:31** · 頂層 \*.md 共 **315** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   713 | 37.2 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   739 | 40.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `evaluation/`                    |   173 | 4.9 MB   | —                                                    |
-| `editorial-room/`                |   104 | 818.6 KB | —                                                    |
+| `editorial-room/`                |   116 | 1.0 MB   | —                                                    |
+| `article-projection/`            |    46 | 821.8 KB | —                                                    |
 | `weekly/`                        |    46 | 9.6 MB   | Self-evolve weekly digest                            |
-| `article-evolve/`                |    41 | 1.6 MB   | —                                                    |
-| `article-projection/`            |    40 | 732.3 KB | —                                                    |
+| `article-evolve/`                |    43 | 1.7 MB   | —                                                    |
 | `routine-prompt-drift/`          |    35 | 110.6 KB | —                                                    |
 | `rewrite-guide/`                 |    32 | 408.8 KB | —                                                    |
 | `archive/`                       |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
-| `babel/`                         |    16 | 9.1 MB   | —                                                    |
+| `babel/`                         |    18 | 9.2 MB   | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
 | `news-lens/`                     |    13 | 256.7 KB | —                                                    |
 | `probe/`                         |    11 | 218.3 KB | BECOME §Step 7 探測器報告                            |
+| `article-census/`                |     9 | 3.3 MB   | —                                                    |
 | `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
 | `ab-tests/`                      |     8 | 182.9 KB | Editorial v6 A/B test                                |
 | `babel-tier4/`                   |     8 | 5.5 KB   | —                                                    |
@@ -42,14 +43,14 @@ type: auto-index
 | `terminology-review/`            |     5 | 1.8 MB   | —                                                    |
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
+| `terminology-trends/`            |     3 | 36.2 KB  | —                                                    |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 210.5 KB | —                                                    |
+| `404-monitor/`                   |     2 | 224.1 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
-| `fork-census/`                   |     2 | 40.1 KB  | —                                                    |
+| `audit/`                         |     2 | 50.6 KB  | —                                                    |
+| `fork-census/`                   |     2 | 39.8 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 126.0 KB | —                                                    |
-| `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
-| `audit/`                         |     1 | 20.7 KB  | —                                                    |
+| `newsroom/`                      |     2 | 133.2 KB | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
 | `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -88,8 +89,10 @@ type: auto-index
 - `2026-04-14` [memory-distillation-design-2026-04-14](memory-distillation-design-2026-04-14.md)
 - `2026-04-05` [organ-lifecycle-design-2026-04-05](organ-lifecycle-design-2026-04-05.md)
 
-### plan (17)
+### plan (19)
 
+- `2026-11-04` [evolve-plan-2026-11-04](evolve-plan-2026-11-04.md) — 全面進化規劃 2026-11-04：文章、頁面與網站
+- `2026-11-02` [ios-app-implementation-plan-2026-11-02](ios-app-implementation-plan-2026-11-02.md)
 - `2026-07-10` [elections-2026-refresh-plan-2026-07-10](elections-2026-refresh-plan-2026-07-10.md) — 2026 選舉關聯頁面：七月刷新實錄 + 選前四個半月進化計畫
 - `2026-06-07` [seo-optimization-plan-2026-06-07](seo-optimization-plan-2026-06-07.md) — SEO 優化計畫 — 五項深度研究與裁決
 - `2026-06-05` [mcp-page-plan-2026-06-05](mcp-page-plan-2026-06-05.md) — taiwan.md/mcp 頁面 — 規劃
@@ -257,8 +260,14 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (134)
+### ops (140)
 
+- `2026-11-04` [article-health-census-2026-11-04](article-health-census-2026-11-04.md) — 全站文章健檢普查：該標進化中的、可以轉正的、沒封面的、太單薄的
+- `2026-11-04` [evolve-2026-11-04-pages-before-after](evolve-2026-11-04-pages-before-after.md)
+- `2026-11-04` [evolve-2026-11-04](evolve-2026-11-04.md) — 全面進化 2026-11-04：數據收集與交叉分析（EVOLVE Phase 1–2）
+- `2026-11-04` [site-health-2026-11-04](site-health-2026-11-04.md)
+- `2026-11-02` [feedback-injection-campaign-2026-11-02](feedback-injection-campaign-2026-11-02.md) — 讀者回報管道的憑證索取批次：HG10 對 92 筆漏接 74 筆
+- `2026-11-02` [ios-app-research-2026-11-02](ios-app-research-2026-11-02.md)
 - `2026-10-22` [design-identity-system-2026-10-22](design-identity-system-2026-10-22.md) — Taiwan.md 識別系統 v2：研究、發散、定案
 - `2026-10-18` [design-outcome-graded-generation-2026-10-18](design-outcome-graded-generation-2026-10-18.md) — 從流程規格到成果驗收：文章生產與維運的第三代
 - `2026-10-18` [evaluation-grader-pilot-2026-10-18](evaluation-grader-pilot-2026-10-18.md) — 閱卷小實驗：冷讀分身選不出哲宇選的那一版
@@ -401,6 +410,18 @@ type: auto-index
 - Type breakdown: ops: 2
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
+
+### 2026-11 (8 files)
+
+- Type breakdown: ops: 6 / plan: 2
+  - `2026-11-04` [article-health-census-2026-11-04](article-health-census-2026-11-04.md)
+  - `2026-11-04` [evolve-2026-11-04-pages-before-after](evolve-2026-11-04-pages-before-after.md)
+  - `2026-11-04` [evolve-2026-11-04](evolve-2026-11-04.md)
+  - `2026-11-04` [evolve-plan-2026-11-04](evolve-plan-2026-11-04.md)
+  - `2026-11-04` [site-health-2026-11-04](site-health-2026-11-04.md)
+  - `2026-11-02` [feedback-injection-campaign-2026-11-02](feedback-injection-campaign-2026-11-02.md)
+  - `2026-11-02` [ios-app-implementation-plan-2026-11-02](ios-app-implementation-plan-2026-11-02.md)
+  - `2026-11-02` [ios-app-research-2026-11-02](ios-app-research-2026-11-02.md)
 
 ### 2026-10 (10 files)
 

@@ -2,9 +2,7 @@
 title: 'Yu Yung-ho'
 description: 'Em 1697, um estudioso de Hangzhou voluntariou-se para ir à terra miasmática de Taiwan extrair enxofre, caminhando a pé de Tainan até Beitou, escrevendo a primeira literatura documental do norte de Taiwan'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史與探險'
 tags:
   [
     'Figuras',
@@ -16,15 +14,19 @@ tags:
     'Enxofre',
     'Literatura de Taiwan',
   ]
-readingTime: 10
+subcategory: '歷史與探險'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-04T21:36:17.810371+00:00'
 ---
 
 # Yu Yung-ho

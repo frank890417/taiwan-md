@@ -2,19 +2,21 @@
 title: 'Yehliu: Di Tanjung Setan, Sebuah "Ratu" yang Berlari Melawan Waktu untuk Ditahtakan dan Berpamitan'
 description: 'Pada 1962, sebuah kecelakaan patahnya batu membuat "Ratu Kepala Yehliu" "ditahtakan", namun lanskap berkelas dunia ini kini menyusut 2 cm per tahun. Dari "Tanjung Setan" dalam mata pelaut Spanyol hingga menjadi landmark budaya yang dijaga seluruh rakyat, kisah Yehliu bukan sekadar keajaiban geologi, melainkan proses orang Taiwan belajar melepaskan di antara hukum alam dan rasa rindu emosional.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '地形與地質'
 tags: ['Yehliu', 'Ratu Kepala', 'Taman Geologi', 'Wanli', 'Lin Tien-chen']
-readingTime: 8
+subcategory: '地形與地質'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-07-25T06:34:15+08:00'
+translatedAt: '2026-11-05T02:49:40.819477+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

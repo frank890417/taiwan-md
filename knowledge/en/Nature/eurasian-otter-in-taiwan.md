@@ -1,27 +1,31 @@
 ---
 title: "Taiwan's Eurasian Otters: Kinmen's Lonely Island Survival and the Silent Disappearance on the Main Island"
 description: "Taiwan's main island has had no confirmed wild Eurasian otter records since the 1980s, and the population's current status is uncertain and deeply unpromising. The 'battlefield otters' surviving only on Kinmen face simultaneous threats from habitat fragmentation, roadkill, and microplastic pollution."
-category: 'Nature'
-subcategory: '保育與環境'
-tags:
-  - 'Eurasian Otter'
-  - 'Kinmen'
-  - 'Taiwan Main Island'
-  - 'Conservation'
-  - 'Microplastics'
-  - 'Roadkill'
-  - 'Habitat Fragmentation'
-author: 'Taiwan.md Contributors'
 date: 2026-04-25
+category: 'Nature'
+tags:
+  [
+    'Eurasian Otter',
+    'Kinmen',
+    'Taiwan Main Island',
+    'Conservation',
+    'Microplastics',
+    'Roadkill',
+    'Habitat Fragmentation',
+  ]
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-05-16T22:19:17Z'
+translatedAt: '2026-11-04T20:39:27.235485+00:00'
 ---
 
 # Taiwan's Eurasian Otters: Kinmen's Lonely Island Survival and the Silent Disappearance on the Main Island

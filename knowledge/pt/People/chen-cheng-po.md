@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-04T22:35:34.474589+00:00'
 ---
 
 > **Resumo em 30 segundos:** A 25 de março de 1947, diante da estação ferroviária de Chiayi, um homem que empunhava pincéis teve as mãos atadas com arame farpado e foi fuzilado em plena rua. Chamava-se Chen Cheng-po, o primeiro taiwanês a entrar na Exposição Imperial de Arte do Japão (Teiten) com uma pintura a óleo, e também o negociador do Incidente 228 que partiu para conversar e nunca regressou.

@@ -1,22 +1,29 @@
 ---
-title: "Lin Bai-Li : Shanghai 1949, fondateur de Quanta Computer et roi de l'ordinateur portable ODM, vingt ans contre le cancer"
-description: "Né le 24 avril 1949 à Shanghai. Cofondateur de Quanta Computer en 1988 avec Liang Ci-Zhen et d'autres. Diagnostic d'adénocarcinome pulmonaire en 2005 (plus de 20 ans de lutte contre le cancer). Chiffre d'affaires de Quanta dépassant 2 000 milliards de TWD en 2025, partenaire serveur important de NVIDIA, classé au Fortune 500. La question de la succession par son fils attire l'attention. Toujours président en 2026."
+title: "Lin Po-lun : Né à Shanghai en 1949, fondateur de Quanta Computer et roi de la fabrication d'ordinateurs portables luttant contre le cancer depuis vingt ans"
+description: "Né à Shanghai le 24 avril 1949. A cofondé Quanta Computer avec Liang Tsze-chen et d'autres en 1988. Diagnostiqué avec un adénocarcinome pulmonaire en 2005 (combat le cancer depuis plus de 20 ans). Le chiffre d'affaires de Quanta a dépassé les 2 billions NT$ en 2025 ; partenaire important de NVIDIA pour les serveurs, membre du Fortune 500. La question de la succession par son fils suscite l'attention. Il restera président du conseil d'administration en 2026."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technologie et entreprise',
+    'Quanta Computer',
+    'Fabrication ODM',
+    'Intelligence artificielle',
+    'Adénocarcinome pulmonaire',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '廣達電腦', 'ODM代工', '人工智慧', '肺腺癌']
-readingTime: 7
-#   whats_excluded: "廣達與各大廠代工合約細節；AI伺服器具體規格；兒子接班爭議細節（待確認）"
-#   where_it_hedges: "廣達筆電市占率「超過30%」無原始source（P0⚠️）；兒子接班時程待確認"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
-translatedFrom: People/林百里.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:4e6831b8d5040b1f
-sourceBodyHash: sha256:98f02f5d889ec6c6
-translatedAt: 2026-05-22T05:08:47+08:00
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/林百里.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4e6831b8d5040b1f'
+sourceBodyHash: 'sha256:98f02f5d889ec6c6'
+translatedAt: '2026-11-04T20:43:21.099087+00:00'
 ---
 
 # Lin Bai-Li : Shanghai 1949, fondateur de Quanta Computer et roi de l'ordinateur portable ODM, vingt ans contre le cancer

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:42ad61e0b893570f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-07-25T07:35:37.428595+00:00'
+translatedAt: '2026-11-04T20:55:29.084660+00:00'
 ---
 
 **Обзор за 30 секунд:**

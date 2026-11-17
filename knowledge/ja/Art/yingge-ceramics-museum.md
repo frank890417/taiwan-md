@@ -2,19 +2,21 @@
 title: '鶯歌陶磁博物館：コンクリート打放しの中の百年窯業'
 description: '2000年11月、台湾初の陶磁専門博物館が新北市鶯歌区に開館しました。簡学義（ジェン・シュエイイー）による設計で、「土・水・火・風」の四元素をコンセプトとしています。このコンクリート打放しの建築は、鶯歌を窯業の町から陶芸の殿堂へと再定義し、2004年より開催されている台湾国際陶藝双年展によって、地元の工芸が世界とつながりました。'
 date: 2026-05-07
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '策展與教育'
 tags: ['陶磁', '鶯歌', '博物館', '建築', '簡学義', '台湾国際陶藝双年展']
+subcategory: '策展與教育'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T16:43:54.952429+00:00'
 ---
 
 > **30秒概要：** 2000年11月26日、新北市立鶯歌陶磁博物館が開館しました。これは台湾初の陶磁専門博物館です。建築は簡学義（ジェン・シュエイイー）による設計で、「土・水・火・風」をコンセプトとし、コンクリート打放しの外壁と大面積のガラスカーテンウォールが鶯歌の景観に溶け込んでいます。同館は、かつて「台湾の景徳鎮」として知られた窯業の卸売集散地であった鶯歌を、キュレーション・教育・国際交流を主軸とする陶芸の殿堂へと再定義しました。2004年より開催されている「台湾国際陶藝双年展」は、地元の工芸を世界の現代陶芸の文脈につなげています。

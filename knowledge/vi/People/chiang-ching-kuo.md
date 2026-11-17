@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-09T15:01:50+08:00'
+translatedAt: '2026-11-04T15:21:54.994419+00:00'
 ---
 
-> **Tóm tắt 30 giây:** Tưởng Kinh Quốc trở thành tổng thống năm 1978, và vào ngày 15 tháng 7 năm 1987, ông tuyên bố bãi bỏ thiết quân luật 38 năm của Đài Loan — hai sự kiện này làm cho ông đồng thời là người chỉ huy hệ thống độc tài lẫn người quyết định mở cửa chính trị. Bài viết này không mô tả dân chủ hóa như là tặng phẩm từ một người, mà đặt các cải cách, bạo lực nhà nước của ông, cũng như những hoạt động không ngừng của xã hội sau sự kiện Đảo Đẹp trong cùng một dây chuyền nhân quả.
+> **Tóm tắt trong 30 giây:** Tưởng Kinh Quốc (Chiang Ching-kuo) trở thành Tổng thống vào năm 1978 và tuyên bố bãi bỏ thiết quân luật kéo dài 38 năm tại Đài Loan vào ngày 15 tháng 7 năm 1987. Hai sự kiện này khiến ông vừa là người chèo lái thể chế độc tài, vừa là nhà quyết sách cho sự mở cửa chính trị. Bài viết này không xem quá trình dân chủ hóa như một đặc ân của cá nhân, mà đặt những cải cách của ông, bạo lực nhà nước, cùng các phong trào xã hội tiếp diễn sau Sự kiện Mỹ Lệ Đảo (Formosa Incident) vào cùng một chuỗi quan hệ nhân quả.
 
-Ngày 20 tháng 5 năm 1978, Tưởng Kinh Quốc tuyên thệ nhậm chức tổng thống Trung Hoa Dân Quốc (Đài Loan) tại Đài Bắc; ngày 15 tháng 7 năm 1987, Đài Loan bãi bỏ thiết quân luật kéo dài 38 năm; ngày 13 tháng 1 năm 1988, ông qua đời trong nhiệm kỳ tổng thống.[^1] Ba ngày tháng này xếp cạnh nhau, trông giống như một dòng thời gian tiến bộ gọn gàng. Nhưng Tưởng Kinh Quốc không phải người đứng ngoài hệ thống thiết quân luật, mở cửa cho Đài Loan — chính ông là một trong những người gác cửa của chính tấm cửa đó.
+Ngày 20 tháng 5 năm 1978, Tưởng Kinh Quốc tuyên thệ nhậm chức Tổng thống Trung Hoa Dân Quốc (Đài Loan) tại Đài Bắc; ngày 15 tháng 7 năm 1987, Đài Loan bãi bỏ thiết quân luật kéo dài suốt 38 năm; và vào ngày 13 tháng 1 năm 1988, ông qua đời khi đang tại chức. [^1] Ba mốc thời gian này đặt cạnh nhau trông giống như một dòng thời gian tiến bộ đầy ngăn nắp. Thế nhưng, Tưởng Kinh Quốc không phải là người đứng ngoài hệ thống thiết quân luật để mở cửa cho Đài Loan; bản thân ông chính là một trong những người canh giữ cánh cửa đó.
 
-Vì vậy, khó khăn lịch sử mà ông để lại cũng không phải là câu hỏi bình chọn kiểu «Tưởng Kinh Quốc tốt không», mà là: tại sao một người từng sử dụng quyền lực của nhà nước độc tài, lại bắt đầu dỡ bỏ những cột trụ mà chính ông dựa vào để cai trị vào những năm cuối đời? Còn khó khăn hơn nữa là quá trình dỡ bỏ này không bắt đầu từ tờ trắng. Khe hở cửa là do ông đẩy mở, nhưng những người đẩy cơ thể vào cửa, làm cho nó không bao giờ có thể đóng lại được, chính là những người liên tục dám chỉ trích trong những năm thiết quân luật — từng nhóm lại từng nhóm.
+Vì vậy, bài toán lịch sử mà ông để lại không phải là một câu hỏi lựa chọn kiểu "Tưởng Kinh Quốc tốt hay xấu", mà là: Tại sao một người từng vận hành một quốc gia độc tài, trong những năm cuối đời, lại bắt đầu dỡ bỏ chính những cột trụ giúp mình duy trì quyền lực? Điều hóc búa hơn là quá trình tháo dỡ này không bắt đầu từ con số không. Ông là người đẩy hé cánh cửa, nhưng chính những nhóm người dám mạo hiểm lên tiếng hết lớp này đến lớp khác trong thời kỳ thiết quân luật mới là những người đã lách mình qua khe cửa và khiến nó không thể đóng lại được nữa.
 
-![Tưởng Kinh Quốc trong những năm 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Hình ảnh: Ảo Đạo / Wikimedia Commons, CC BY-SA 4.0._
+![Chân dung Tưởng Kinh Quốc vào thập niên 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Ảnh: A-đạo (阿道)／Wikimedia Commons, CC BY-SA 4.0._
 
-> **📝 Ghi chú Cộng tác viên**
-> Bãi bỏ thiết quân luật xứng đáng được ghi nhớ, không phải vì một người mạnh mẽ bỗng dưng trở nên tốt bụng, mà vì ngay cả những người mạnh mẽ cũng phải đối mặt với một xã hội đã lớn lên.
+> **📝 Ghi chú của người biên soạn**
+> Việc bãi bỏ thiết quân luật đáng để ghi nhớ không phải vì một kẻ mạnh đột nhiên trở nên lương thiện, mà bởi vì ngay cả một kẻ mạnh cũng buộc phải đối mặt với một xã hội đã trưởng thành.
 
 ## Người tiếp bộc trong khủng hoảng
 

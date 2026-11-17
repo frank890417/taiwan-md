@@ -28,10 +28,10 @@ rationale:
   whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
 relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '7701a4867'
-sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-09-21T09:36:50.040407+00:00'
+translatedAt: '2026-11-03T03:57:41.590800+00:00'
 ---
 
 # Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables
@@ -258,14 +258,15 @@ Après trois décennies, les Golden Melody Awards ne décernent pas vraiment des
 
 ---
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [La musique pop de Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De l'industrie du disque à l'ère du streaming, toute l'histoire des hauts et des bas de l'industrie ; les Golden Melody Awards en sont la mesure officielle
-- [L'évolution de la chanson en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — De la complainte sentimentale au tournant rock de « Marche en avant » de Lin Qiang, comment la chanson en taïwanais a conquis le grand public
-- [Les traditions musicales des peuples autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants tribaux à Chen Chien-nien et ABAO, les racines et le contemporain de la musique autochtone
-- [Les auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — La voix et la situation des créateurs de cette lignée : Chi Hsiao-chun, Panai, ABAO
-- [La musique indépendante de Taïwan](/fr/music/indie-music-scene) — Comment la génération No Party for Cao Dong et StreetVoice a contourné l'industrie du disque pour atteindre le sommet des Golden Melody Awards
-- [Les Golden Bell Awards](/fr/culture/golden-bell-awards) — La plus ancienne des « trois ors » : forgée en 1965 pour la radio, soixante et un ans de palmarès qui racontent qui tient la télévision à Taïwan
+- [La musique populaire de Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De l'industrie du disque à l'ère du streaming, toute l'histoire des hauts et des bas de l'industrie ; les Golden Melody Awards en sont la mesure officielle sur cette ligne temporelle
+- [L'évolution de la chanson en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — Des chansons sentimentales douloureuses au virage rock de « Marching Forward » de Lim Giong, comment la chanson en taïwanais est entrée dans le mainstream
+- [La tradition musicale des Autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants tribaux à Chen Chien-nien et Abao, les racines et le contemporain de la musique autochtone
+- [Les chanteurs-auteurs-compositeurs autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — Les voix et situations des créateurs de cette lignée : Chi Hsiao-chun, Panai, Abao
+- [La musique indépendante de Taïwan](/fr/music/indie-music-scene) — Comment la génération No Party for Cao Dong / StreetVoice a contourné l'industrie du disque pour atteindre la plus haute marche des Golden Melody Awards
+- [Golden Bell Awards](/fr/culture/golden-bell-awards) — La plus ancienne des Trois Prix d'Or : le prix forgé pour la radio en 1965, soixante-et-un ans de lauréats qui consignent qui tient la télévision de Taïwan
+- [Golden Horse Awards](/art/金馬獎) — Le prix du cinéma parmi les Trois Prix d'Or : édition après édition, l'élargissement des critères d'éligibilité, du film en mandarin uniquement à l'absence de restriction de nationalité
 
 ## Sources des images
 

@@ -2,9 +2,7 @@
 title: '단장대교: 하구의 지평선 위에 ‘투명성’을 위해 존재하는 거대한 랜드마크'
 description: '단장대교는 2026년 5월 12일 개통될 예정이다. 건축계의 여제 자하 하디드 팀이 설계한 이 단일 주탑 비대칭 사장교는 30년에 걸친 계획 끝에, 단수이의 석양을 지키는 일과 교통을 완화하는 일 사이의 긴장 속에서 유동적인 선으로 타이완의 하구 경관을 새롭게 정의한다.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     '단장대교',
@@ -15,15 +13,19 @@ tags:
     '환경 보호',
     '공학 기술',
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T16:44:00.630194+00:00'
 ---
 
 > **30초 개관:**

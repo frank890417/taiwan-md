@@ -14,16 +14,19 @@ tags:
     '信義計画区',
   ]
 subcategory: '戰後與威權'
-readingTime: 9
-lastVerified: 2026-04-10
-lastHumanReview: false
-translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:69baf41d38c3c7aa'
-sourceBodyHash: 'sha256:3ae76649f6776188'
-translatedAt: '2026-06-13T01:49:53+08:00'
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-10
+lastHumanReview: false
+slug: 'cks-memorial-hall'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'History/中正紀念堂.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:69baf41d38c3c7aa'
+sourceBodyHash: 'sha256:3ae76649f6776188'
+translatedAt: '2026-11-05T04:06:08.629755+00:00'
 ---
 
 # 中正記念堂
@@ -124,7 +127,7 @@ featured: false
 
 [^5]: 李登輝、『台湾の主張』、台北：遠流、1999年。
 
-[^6]: [「中正記念堂が国立台湾民主紀念館に改名」、中央社、2007年5月19日](https://www.cna.com.tw/news/firstnews/200705190001.aspx) — 中央社報道
+[^6]: [「中正記念堂が国立台湾民主紀念館に改名」、中央社、2007年5月19日](https://www.cna.com.tw/news/firstnews/200705190001.aspx) — 中央社報道：詳細はリンク先の原文を参照
 
 [^7]: 呉乃徳、『台湾最良の時代：1977-1987』、台北：春山出版、2020年。
 

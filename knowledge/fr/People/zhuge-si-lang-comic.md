@@ -15,22 +15,26 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp'
+imageCredit: 'Ralff Nestor Nacor'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/諸葛四郎.md'
-sourceCommitSha: 'e38376ee4'
-sourceContentHash: 'sha256:e3fbaeedac9c6f10'
-sourceBodyHash: 'sha256:1b0f00900854455d'
-translatedAt: '2026-09-12T09:19:46+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:b2501899e99db9e7'
+sourceBodyHash: 'sha256:1b666fa0ae47a4ce'
+translatedAt: '2026-11-06T08:53:46.149378+00:00'
 ---
 
-> **En 30 secondes :** Ye Hongjia a mélangé la peur d'après la Terreur Blanche, la loyauté des romans en chapitres, les mécanismes du détective japonais et le terrain de l'édition taïwanaise pour créer un garçon nommé Zhuge Siliang. Ses œuvres ont autrefois conquis tout le pays, mais ont également disparu à cause de la censure et des changements du marché. Aujourd'hui, le regarder à nouveau, ce n'est pas seulement retrouver un personnage, c'est voir comment la bande dessinée taïwanaise a su développer sa propre grammaire.
+> **Aperçu en 30 secondes :** Ye Hongjia a pétri la peur d'après la Terreur blanche, la loyauté des romans en chapitres, les mécanismes du polar japonais et la scène éditoriale taïwanaise pour en faire un adolescent nommé Zhuge Siliang. L'œuvre a autrefois fait fureur sur toute l'île, avant de disparaître sous l'effet de la censure et des mutations du marché. Le relire aujourd'hui, ce n'est pas seulement retrouver un personnage, c'est voir comment la bande dessinée taïwanaise a jadis fait naître sa propre grammaire.
 
-En 1958, Ye Hongjia commence la série _Zhuge Siliang bat le Parti Diable_ (Mogu Dang) dans le magazine hebdomadaire _Manga Da Wang_ à Taipei. À cette époque, il a 34 ans, et il s'est écoulé plus de dix ans depuis son incarcération pour ses dessins politiques. Les lecteurs ont envoyé plus de 10 000 lettres avec des hypothèses pour découvrir l'identité réelle du chef du Parti Diable. Zhuge Siliang n'était à l'origine qu'un projet de série d'une dizaine de chapitres, mais il a été maintenu par les lettres et la demande du marché. [^1] [^2]
+En 1958, Ye Hongjia commence la publication en série de « Zhuge Siliang contre le Parti du Diable » dans l'hebdomadaire _Roi de la bande dessinée_ de Taipei. Cette année-là, il a 34 ans, et cela fait déjà plus de dix ans qu'il a été emprisonné pour ses bandes dessinées politiques. Les lecteurs envoient plus de 10 000 hypothèses pour deviner la véritable identité du chef du Parti du Diable. Zhuge Siliang n'était au départ prévu que pour une dizaine de chapitres, mais les courriers et le marché l'ont maintenu en vie.[^1] [^2]
 
-Ce point de départ présente une caractéristique contre-intuitive : Zhuge Siliang ressemble à un héros des temps anciens venu de la Chine antique, mais il s'agit en réalité d'un produit taïwanais forgé dans le contexte de l'édition d'après-guerre, mêlant mangas japonais, cinéma, librairies de location et imprimerie locale. Il ne s'agit pas d'un simple « héros traditionnel », mais d'une création née d'une culture hybride.
+Ce point de départ recèle quelque chose de contre-intuitif : Zhuge Siliang a l'air d'un chevalier errant venu de la Chine ancienne, mais c'est un personnage forgé par la scène éditoriale taïwanaise d'après-guerre, au creuset du manga japonais, du cinéma, des bibliothèques de location et de l'imprimerie locale. Ce n'est pas un simple « héros traditionnel », mais un produit taïwanais né d'une culture métissée.
 
-📝 **Note du conservateur :** Ce qui rend Zhuge Siliang particulièrement intéressant à redécouvrir, ce n'est pas sa capacité de combat, mais le fait qu'il nous montre comment une île a déconstruit des formes extérieures pour recomposer son propre héros.
+📝 **Note du commissaire :** Ce qui mérite le plus d'être relu chez Zhuge Siliang, ce n'est pas sa force de frappe, mais le fait qu'il nous montre comment une île a déconstruit des formes venues d'ailleurs pour recomposer son propre héros.
 
 ## Ye Hongjia n'a pas d'abord dessiné un héros
 
@@ -80,17 +84,17 @@ Les manuscrits sont tout aussi importants. L'exposition commémorative du centen
 
 Ye Jialong déclare : « Les personnes ordinaires peuvent aussi accomplir des choses extraordinaires. » [^1] Si cette phrase est prise uniquement comme un slogan motivant, elle serait trop légère. Placée dans le contexte de l'exposition, elle fait référence à un créateur étouffé par son époque, dont l'œuvre a pu être à nouveau portée dans la sphère publique grâce à la préservation par sa famille, la conservation muséale, le travail de recherche et les adaptations par une nouvelle génération.
 
-## Du souvenir au bien public
+## De la mémoire à la culture publique
 
-Zhuge Siliang a été adapté en film dans les années 1970, en série télévisée dans les années 1980, et un film d'animation 3D intitulé _Zhuge Siliang : Le Héros des Héros_ a été lancé en 2022. [^1] En 2024, le Musée national de la bande dessinée a organisé trois expositions intitulées _Zhuge Siliang 100_, _Devenir Zhuge Siliang_ et _L'Âme du Héros_, plaçant les manuscrits originaux, l'animation, la mémoire des lecteurs et l'histoire de la bande dessinée dans le même parc. [^1] [^7]
+Zhuge Siliang a été adapté en films dans les années 1970, en séries télévisées dans les années 1980, et un film d'animation 3D intitulé 《Zhuge Siliang : le héros des héros》 est sorti en 2022.[^1] En 2024, le Musée national de la bande dessinée a présenté trois expositions — 《Zhuge Siliang 100》, 《Devenir Zhuge Siliang》 et 《L'âme du héros》 — réunissant manuscrits originaux, animations, souvenirs de lecteurs et histoire de la bande dessinée dans un même parc.[^1] [^7]
 
-Ces adaptations ne signifient pas que l'œuvre originale a été intégralement préservée. Chaque nouvelle colorisation, adaptation, exposition ou commercialisation redéfinit quels personnages, tonalités et valeurs doivent être conservés. Les « loyauté et piété filiale, justice, intelligence et courage » mentionnés dans la recherche académique constituent la structure éthique importante de l'œuvre, mais ne représentent pas l'ensemble. Zhuge Siliang inclut également les masques, les méprises, les emprunts interculturels, le travail éditorial et les lacunes laissées par la censure. [^5]
+Ces adaptations ne signifient pas que l'œuvre originale a été préservée dans son intégralité. Chaque recolorisation, adaptation, exposition ou commercialisation implique de nouveaux choix quant aux personnages, aux tons et aux valeurs à conserver. Les « loyauté filiale, sens de la justice, ingéniosité et courage » identifiés par la recherche académique constituent l'ossature éthique importante de l'œuvre, mais pas sa totalité. Zhuge Siliang englobe aussi les masques, les méprises, les emprunts interculturels, le travail d'édition et les lacunes laissées par la censure.[^5]
 
-Les photos du Musée national de la bande dessinée sur Wikimedia Commons montrent un bâtiment de l'époque coloniale japonaise qui a été préservé. Il ne s'agit pas du manuscrit original de Zhuge Siliang, et ne peut prétendre être une preuve historique de l'œuvre. Dans l'article, il sert uniquement à pointer une chose : la préservation de la bande dessinée nécessite un espace, et cet espace réorganise également la manière dont on regarde l'œuvre. [^8]
+La photo du Musée national de la bande dessinée sur Wikimedia Commons montre un bâtiment de l'époque coloniale japonaise qui a été préservé. Ce n'est pas un manuscrit original de Zhuge Siliang, et elle ne saurait passer pour une preuve historique de l'œuvre. Dans cet article, elle ne sert qu'à indiquer une chose : la préservation de la bande dessinée nécessite un espace, et cet espace réorganise à son tour la manière dont l'œuvre est regardée.[^8]
 
-![Le bâtiment du parc du Musée national de la bande dessinée, en tant que scène moderne de conservation et de re-présentation de Zhuge Siliang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
+![Bâtiment du parc du Musée national de la bande dessinée, servant de scène moderne pour la conservation et la re-présentation de Zhuge Siliang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
 
-_Légende : Photographiée par Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. L'image sert uniquement d'illustration de la scène du Musée national de la bande dessinée, sans confondre l'architecture avec l'œuvre originale de Zhuge Siliang. Source : [Page de l'image sur Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
+_Légende : Photo de Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. L'image ne sert qu'à illustrer le cadre du Musée national de la bande dessinée, sans présenter le bâtiment comme l'œuvre originale de Zhuge Siliang. Source : [page de l'image Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
 
 ## Il ne s'agit pas de sceller l'enfance dans le temps
 

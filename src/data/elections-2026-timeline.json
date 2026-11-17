@@ -277,6 +277,24 @@
       "zh-TW": "地方制度法第 33、55、56、57、59 條",
       "en": "Local Government Act, Arts. 33, 55, 56, 57, 59",
       "ja": "地方制度法第33・55・56・57・59条"
+    },
+    "kmec-65457": {
+      "url": "https://www.cec.gov.tw/kmec/article/65457",
+      "zh-TW": "金門縣選委會 縣長候選人號次抽籤結果（2026/10/23 製表）",
+      "en": "Kinmen County Election Commission, ballot-number draw result (tabulated 2026/10/23)",
+      "ja": "金門県選挙委員会 候補者番号抽選結果（2026/10/23 作成）"
+    },
+    "mect-65401": {
+      "url": "https://www.cec.gov.tw/mect/article/65401",
+      "zh-TW": "臺北市選委會 市長候選人號次抽籤結果（2026/10/27 製表）",
+      "en": "Taipei City Election Commission, ballot-number draw result (tabulated 2026/10/27)",
+      "ja": "台北市選挙委員会 候補者番号抽選結果（2026/10/27 作成）"
+    },
+    "ntec-65345": {
+      "url": "https://www.cec.gov.tw/ntec/article/65345",
+      "zh-TW": "南投縣選委會公告 2026/10/22（颱風停班，抽籤改 10/27）",
+      "en": "Nantou County Election Commission notice, 2026/10/22 (draw moved to 10/27 over typhoon closure)",
+      "ja": "南投県選挙委員会公告 2026/10/22（台風による休業で抽選を10/27に変更）"
     }
   },
   "items": [
@@ -529,21 +547,27 @@
     {
       "id": "ballot-draw",
       "start": "2026-10-23",
-      "end": "2026-10-23",
+      "end": "2026-10-27",
       "cats": ["candidates"],
       "owner": "localCommissions",
-      "sources": ["cec-61722", "cec-65213"],
+      "sources": [
+        "cec-61722",
+        "cec-65213",
+        "kmec-65457",
+        "ntec-65345",
+        "mect-65401"
+      ],
       "zh-TW": {
         "title": "抽籤決定候選人號次",
-        "detail": "號次就是印在選票上的候選人編號，由各直轄市、縣（市）選委會辦理抽籤。"
+        "detail": "號次就是印在選票上的候選人編號，由各直轄市、縣（市）選委會辦理抽籤。原訂 10 月 23 日，只有金門縣照常抽出；其他 21 個縣市因颱風薔琵停班，延到 10 月 27 日。"
       },
       "en": {
         "title": "Ballot numbers are drawn",
-        "detail": "Each candidate's number on the ballot is decided by lot, run by the municipal and county commissions."
+        "detail": "Each candidate's number on the ballot is decided by lot, run by the municipal and county commissions. The draw was set for October 23, but only Kinmen held it that day; the other 21 cities and counties moved it to October 27 after typhoon-related office closures."
       },
       "ja": {
         "title": "抽選で候補者の番号を決定",
-        "detail": "投票用紙に印刷される候補者番号を、各直轄市・県（市）の選挙委員会が抽選で決めます。"
+        "detail": "投票用紙に印刷される候補者番号を、各直轄市・県（市）の選挙委員会が抽選で決めます。予定日は10月23日でしたが、当日実施したのは金門県のみで、ほかの21県市は台風による休業のため10月27日に延期しました。"
       }
     },
     {

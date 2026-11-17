@@ -10,10 +10,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:52+08:00'
+translatedAt: '2026-11-02T01:42:42.195756+00:00'
 ---
 
 # Arte de Rua e Cultura de Grafite em Taiwan
@@ -82,7 +82,7 @@ O **Pow! Wow! Taiwan**, realizado desde 2016, é o maior festival internacional 
 
 [^6]: [Site Oficial do Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros de atividades de anos anteriores do Festival Internacional de Arte de Rua de Taiwan.
 
-## Leitura Adicional
+## Leitura Complementar
 
-- [Arte Contemporânea de Taiwan](/culture/台灣當代藝術) — O cruzamento entre a arte de rua e o ecossistema da arte contemporânea em Taiwan.
-- [Música Eletrônica e Cultura de Festas em Taiwan](/pt/music/taiwan-electronic-music-and-party-culture) — A cena da música eletrônica que compartilha as mesmas raízes subculturais da arte de rua.
+- [Arte Contemporânea de Taiwan](/pt/art/contemporary-art) — O cruzamento entre a arte de rua e o ecossistema da arte contemporânea em Taiwan.
+- [Música Eletrônica e Cultura de Festas em Taiwan](/pt/music/taiwan-electronic-music-and-party-culture) — A cena da música eletrônica, que compartilha as mesmas raízes subculturais da arte de rua.

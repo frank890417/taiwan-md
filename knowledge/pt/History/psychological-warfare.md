@@ -2,9 +2,7 @@
 title: 'Guerra psicológica: da parede de alto-falantes de Kinmen à mudança de paradigma da guerra cognitiva com IA'
 description: 'Desde os apelos de Teresa Teng na parede de alto-falantes de Kinmen nos anos 1960 e os «alimentos para deserção» lançados do ar, até à penetração de informação e manipulação cognitiva com IA na era digital de 2026, a guerra psicológica cross-strait evoluiu da atração por bens físicos para o confronto semântico digital. Este artigo traça exaustivamente o contexto histórico da guerra psicológica de Taiwan contra a China, listas concretas de materiais, e contrasta com os desafios atuais da fase industrializada de IA.'
 date: 2026-05-03
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '媒體與言論'
 tags:
   [
     'Guerra psicológica',
@@ -18,15 +16,19 @@ tags:
     'Relações cross-strait',
     'Rádio Central de Radiodifusão',
   ]
-readingTime: 8
+subcategory: '媒體與言論'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-07-25T01:31:54+08:00'
+translatedAt: '2026-11-05T05:05:03.326450+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

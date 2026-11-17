@@ -2,8 +2,7 @@
 title: "Images de lotus et de Bouddha : tendresse numérique et champ de l'information derrière les « images de seniors »"
 description: "Les « images de seniors » ne sont pas seulement la preuve que les aînés taïwanais franchissent la fracture numérique, mais aussi un vecteur d'échange émotionnel sur les plateformes sociales. Cependant, leur forme particulière est devenue un terreau fertile pour la désinformation et s'est transformée, chez les jeunes générations, en une culture de mèmes à part entière."
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: Culture
+category: 'Culture'
 tags:
   [
     'images de seniors',
@@ -14,15 +13,19 @@ tags:
     'désinformation',
     'mèmes',
   ]
-readingTime: 10
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Culture/長輩圖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/長輩圖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-06-11T16:39:06Z'
-featured: false
+translatedAt: '2026-11-05T07:22:29.368144+00:00'
 ---
 
 > **En 30 secondes :**

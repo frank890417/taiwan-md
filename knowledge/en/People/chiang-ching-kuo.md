@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-11T02:13:56+08:00'
+translatedAt: '2026-11-04T14:56:57.252486+00:00'
 ---
 
-> **30-Second Overview:** Chiang Ching-kuo became President in 1978 and announced the lifting of Taiwan’s 38-year martial law on July 15, 1987. These two events make him simultaneously the helmsman of an authoritarian regime and the decision-maker for political opening. This article does not write democratization as the gift of a single individual, but places his reforms, state violence, and the social movements that continued after the Formosa Incident on the same causal chain.
+> **30-Second Overview:** Chiang Ching-kuo became president in 1978 and announced the lifting of Taiwan's 38-year martial law on July 15, 1987. These two acts made him simultaneously the helmsman of the authoritarian system and the decision-maker of political opening. This article does not frame democratization as a single person's gift, but places his reforms, state violence, and the society that continued to act after the Formosa Incident on the same causal chain.
 
-On May 20, 1978, Chiang Ching-kuo took the oath of office as President of the Republic of China in Taipei; on July 15, 1987, Taiwan lifted its 38-year martial law; on January 13, 1988, he passed away while in the presidency. [^1] These three dates, lined up, look like a neat timeline of progress. But Chiang Ching-kuo was not someone standing outside the martial law regime, opening a door for Taiwan; he was one of the gatekeepers of that very door.
+On May 20, 1978, Chiang Ching-kuo was sworn in as President of the Republic of China (ROC) in Taipei; on July 15, 1987, Taiwan lifted 38 years of martial law; on January 13, 1988, he died in office.[^1] These three dates lined up look like a neat timeline of progress. But Chiang Ching-kuo was not someone standing outside the martial law system opening the door for Taiwan; he himself was one of the gatekeepers of that door.
 
-The historical puzzle he leaves behind is therefore not a voting question of "Was Chiang Ching-kuo good or bad?" but rather: Why did a person who once wielded an authoritarian state begin to dismantle several of the pillars he relied upon for rule in the last few years of his life? More vexingly, this dismantling did not start from a blank slate. He pushed the door open, but it was a succession of risk-taking voices during the martial law era who squeezed their bodies into the room, ensuring it could never be closed again.
+The historical puzzle he left behind is therefore not a popularity contest of "was Chiang Ching-kuo good or bad," but rather: why did a man who once wielded the authoritarian state begin, in his final years, to dismantle the very pillars on which his rule rested? Even thornier, this demolition did not start from a blank slate. He pushed the door ajar, but it was wave after wave of people who risked speaking out during the martial law era who shoved their bodies into the gap and prevented it from ever closing again.
 
 ![Portrait of Chiang Ching-kuo in the 1970s](/article-images/people/chiang-ching-kuo-portrait.webp)
 _Image: Ado / Wikimedia Commons, CC BY-SA 4.0._
 
-> **📝 Curator’s Note**
-> The lifting of martial law is worth remembering not because a strongman suddenly became kind, but because even strongmen had to face a society that had already grown up.
+> **📝 Curator's Note**
+> The lifting of martial law is worth remembering not because a strongman suddenly became benevolent, but because even a strongman had no choice but to face a society that had already grown up.
 
 ## A Successor in Crisis
 

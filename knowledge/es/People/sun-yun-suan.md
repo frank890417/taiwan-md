@@ -2,25 +2,28 @@
 title: 'Sun Yun-suan: El ingeniero que iluminó Taiwán desde la oscuridad'
 description: 'Desde el milagro de restaurar la electricidad en cinco meses entre las ruinas de la posguerra hasta la visión de apostar por la industria de semiconductores, Sun Yun-suan sentó los cimientos de la modernización de Taiwán con la pragmatismo y la integridad de un ingeniero.'
 date: 2026-04-30
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
-    Sun Yun-suan,
-    Taiwan Power Company,
-    Semiconductores,
-    ITRI,
-    Diez Grandes Proyectos de Construcción,
+    'Sun Yun-suan',
+    'Taiwan Power Company',
+    'Semiconductores',
+    'ITRI',
+    'Diez Grandes Proyectos de Construcción',
   ]
-readingTime: 8
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: People/孫運璿.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/孫運璿.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-05-16T22:35:47Z'
-featured: false
+translatedAt: '2026-11-04T22:12:19.617835+00:00'
 ---
 
 > **Panorama en 30 segundos:** En el proceso de modernización de Taiwán, **Sun Yun-suan** (1913-2006) es un nombre ineludible. Es conocido como el "Primer Ministro eterno", y su imagen pública fusiona la profesionalidad del tecnócrata, una personalidad íntegra y autodisciplinada, y la toma de decisiones audaces en los momentos clave de la transición nacional. Desde la reparación urgente de las redes eléctricas entre las ruinas de la posguerra hasta la promoción de la industria de semiconductores en la década de 1970, la vida de Sun Yun-suan es prácticamente la historia fundacional del paso de Taiwán de la desolación a la prosperidad [^1][^2].

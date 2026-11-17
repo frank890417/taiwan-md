@@ -1,0 +1,190 @@
+---
+/**
+ * EmbedSnippet — 「嵌入這個工具」的可複製 iframe 程式碼。
+ *
+ * 程式碼由 src/utils/tools/embed.ts 的 buildEmbedSnippet() 產生：一個 iframe，
+ * 加一小段收 'twmd-embed-height' 訊息、把 iframe 調成工具高度的 script。
+ *
+ * 複製按鈕是原生 <button>，鍵盤（Tab、Enter、空白鍵）可操作；程式碼區是唯讀
+ * textarea，點進去或 Tab 進去會全選，剪貼簿 API 不能用時可以手動複製。
+ * 同一頁可以放多個：不寫死 id，腳本從按鈕往上找自己的根節點。
+ */
+import type { Lang } from '../../config/languages';
+import { useTopicsT } from '../../i18n/topics';
+import { localizePath } from '../../utils/topics/registry-core';
+import { uiDir } from '../../utils/topics/ui-dir';
+import { absoluteUrl } from '../../utils/tools/jsonld';
+import { buildEmbedSnippet } from '../../utils/tools/embed';
+
+export interface Props {
+  /** 內嵌板路徑或完整網址（中文版路徑即可，會自動加語言前綴）。 */
+  embedPath: string;
+  /** 工具名稱，寫進 iframe 的 title。 */
+  title: string;
+  lang: Lang;
+  /** 還沒收到高度訊息前的初始高度（px），預設 640。 */
+  height?: number;
+}
+
+const { embedPath, title, lang, height = 640 } = Astro.props;
+const t = useTopicsT(lang);
+const ui = uiDir(lang);
+const src = absoluteUrl(localizePath(embedPath, lang));
+const code = buildEmbedSnippet({ src, title, height });
+const rows = code.split('\n').length + 1;
+---
+
+<div
+  class="tf-snippet"
+  data-tf-snippet
+  data-copied={t('embed.copied')}
+  data-failed={t('embed.copyFailed')}
+  dir={ui.dir}
+  lang={ui.lang}
+>
+  <p class="tf-snippet-intro">{t('embed.intro')}</p>
+  <label class="tf-snippet-field">
+    <span class="tf-snippet-label">{t('embed.codeLabel')}</span>
+    <textarea
+      class="tf-snippet-code"
+      data-tf-snippet-code
+      readonly
+      rows={rows}
+      spellcheck="false"
+      wrap="off"
+      dir="ltr"
+      set:text={code}
+    />
+  </label>
+  <div class="tf-snippet-actions">
+    <button type="button" class="tf-snippet-copy" data-tf-snippet-copy>
+      {t('embed.copy')}
+    </button>
+    <span class="tf-snippet-status" data-tf-snippet-status aria-live="polite"
+    ></span>
+  </div>
+  <p class="tf-snippet-hint">{t('embed.themeHint')}</p>
+</div>
+
+<script>
+  function fallbackCopy(field: HTMLTextAreaElement): boolean {
+    field.focus();
+    field.select();
+    try {
+      return document.execCommand('copy');
+    } catch {
+      return false;
+    }
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-tf-snippet]')
+    .forEach((root) => {
+      const field = root.querySelector<HTMLTextAreaElement>(
+        '[data-tf-snippet-code]',
+      );
+      const button = root.querySelector<HTMLButtonElement>(
+        '[data-tf-snippet-copy]',
+      );
+      const status = root.querySelector<HTMLElement>(
+        '[data-tf-snippet-status]',
+      );
+      if (!field || !button || !status) return;
+
+      field.addEventListener('focus', () => field.select());
+
+      button.addEventListener('click', async () => {
+        let ok = false;
+        try {
+          if (navigator.clipboard && window.isSecureContext) {
+            await navigator.clipboard.writeText(field.value);
+            ok = true;
+          } else {
+            ok = fallbackCopy(field);
+          }
+        } catch {
+          ok = fallbackCopy(field);
+        }
+        status.textContent = ok
+          ? root.dataset.copied || ''
+          : root.dataset.failed || '';
+        status.dataset.state = ok ? 'ok' : 'fail';
+      });
+    });
+</script>
+
+<style>
+  .tf-snippet {
+    min-width: 0;
+    color: var(--color-ink);
+  }
+  .tf-snippet-intro,
+  .tf-snippet-hint {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .tf-snippet-hint {
+    margin-top: 0.6rem;
+    font-size: 0.82rem;
+  }
+  .tf-snippet-field {
+    display: block;
+    margin-top: 0.75rem;
+  }
+  .tf-snippet-label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-ink-soft);
+  }
+  .tf-snippet-code {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    padding: 0.75rem 0.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    background: var(--color-bg-soft);
+    color: var(--color-ink);
+    font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+    font-size: 0.74rem;
+    line-height: 1.6;
+    resize: vertical;
+    overflow: auto;
+    white-space: pre;
+    text-align: left;
+  }
+  .tf-snippet-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.9rem;
+    margin-top: 0.6rem;
+  }
+  .tf-snippet-copy {
+    padding: 0.45rem 1rem;
+    border: 1px solid var(--color-ink);
+    border-radius: 999px;
+    background: var(--color-ink);
+    color: var(--color-bg);
+    font-family: var(--font-interface);
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.4;
+    cursor: pointer;
+  }
+  .tf-snippet-copy:hover {
+    opacity: 0.86;
+  }
+  .tf-snippet-status {
+    font-size: 0.82rem;
+    color: var(--color-ink-soft);
+  }
+</style>

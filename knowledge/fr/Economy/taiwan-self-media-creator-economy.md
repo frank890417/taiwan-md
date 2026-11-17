@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T15:59:48+08:00'
+translatedAt: '2026-11-04T15:43:55.209815+00:00'
 ---
 
 > Le marché publicitaire des influenceurs à Taïwan s'élève à environ 210 millions de dollars US, soit moins de 1 % de celui des États-Unis. Pourtant, un créateur moyen taïwanais gère souvent entre 5 et 7 plateformes simultanément — YouTube, IG, Facebook, Threads, Podcast, blog, LINE — soit près du double d'un créateur de même envergure aux États-Unis. Avec un marché restreint, des plateformes fragmentées et une monétisation reposant sur l'affiliation plutôt que sur l'abonnement, il s'agit d'un jeu aux règles totalement différentes.

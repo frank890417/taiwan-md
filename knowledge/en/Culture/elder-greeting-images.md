@@ -1,28 +1,31 @@
 ---
-title: 'Elder Greeting Images: The Digital Tenderness and Information Battlefield Behind Lotus Flowers and Buddha Statues'
-description: "Elder greeting images (長輩圖) are not only proof that Taiwan's silver generation crossed the digital divide — they are carriers of emotional exchange on social media. Yet their unique form has also become fertile ground for the spread of misinformation, and among younger generations they have evolved into a distinctive meme culture."
-category: Culture
+title: 'Elderly memes: Digital tenderness and information battlefield behind lotus and Buddha'
+description: "Elderly memes are not only proof of Taiwan's silver-haired generation bridging the digital divide, but also a vehicle for emotional exchange on social platforms; however, their unique format has also become a breeding ground for misinformation, and has evolved into a unique meme culture among the younger generation."
+date: 2026-04-18
+category: 'Culture'
 tags:
   [
-    'elder greeting images',
-    'digital divide',
+    'Elderly memes',
+    'Digital divide',
     'Taiwanese culture',
-    'silver generation',
-    'social media',
-    'misinformation',
-    'memes',
+    'Silver-haired generation',
+    'Social platforms',
+    'Misinformation',
+    'Memes',
   ]
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
-date: 2026-04-18
-readingTime: 10
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Culture/長輩圖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/長輩圖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-06-11T16:38:12Z'
-featured: false
+translatedAt: '2026-11-05T07:14:34.630485+00:00'
 ---
 
 > **30-second overview:**

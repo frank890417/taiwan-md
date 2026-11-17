@@ -2,7 +2,7 @@
 title: 'Mapa cultural dos 16 povos indígenas de Taiwan'
 description: '“16” não é um número que surgiu naturalmente, mas o resultado de negociações. Dos 210 mil amis aos 441 kanakanavu, a riqueza cultural dos povos indígenas de Taiwan ultrapassa em muito qualquer lista oficial.'
 date: 2026-03-29
-category: 'pt'
+category: 'Culture'
 tags:
   [
     'povos indígenas',
@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-05T05:49:24.230949+00:00'
 ---
 
 # Mapa cultural dos 16 povos indígenas de Taiwan

@@ -11,12 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Lý Thao Ngọc, nhà khoa học pháp y nổi tiếng'
+translatedAt: '2026-11-04T21:01:00.677591+00:00'
 ---
 
 # Lý Thao Ngọc

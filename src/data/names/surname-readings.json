@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "retrieved": "2026-11-10",
+    "taigi": {
+      "name": "教育部《臺灣台語常用詞辭典》附錄「百家姓」",
+      "url": "https://sutian.moe.edu.tw/zh-hant/huliok/105/",
+      "entry": "https://sutian.moe.edu.tw/zh-hant/su/{id}/",
+      "license": "創用 CC 姓名標示-禁止改作 3.0 臺灣",
+      "note": "音讀以高雄腔為主，辭典以「/」並列第二優勢腔。拼寫為臺灣台語羅馬字拼音方案（臺羅）。"
+    },
+    "hakka": {
+      "name": "教育部《臺灣客語辭典》附錄「百家姓表」",
+      "url": "https://hakkadict.moe.edu.tw/appendix/%E7%99%BE%E5%AE%B6%E5%A7%93%E8%A1%A8",
+      "license": "創用 CC 姓名標示-禁止改作 3.0 臺灣",
+      "note": "拼寫為臺灣客語拼音方案，音節後的數字是調值。"
+    }
+  },
+  "rows": [
+    {
+      "surname": "陳",
+      "taigi": "Tân",
+      "sutianId": "21987",
+      "hakkaSixian": "ciin11",
+      "hakkaHailu": "chin55"
+    },
+    {
+      "surname": "林",
+      "taigi": "Lîm",
+      "sutianId": "21888",
+      "hakkaSixian": "lim11",
+      "hakkaHailu": "lim55"
+    },
+    {
+      "surname": "黃",
+      "taigi": "N̂g",
+      "sutianId": "22012",
+      "hakkaSixian": "vong11",
+      "hakkaHailu": "vong55"
+    },
+    {
+      "surname": "張",
+      "taigi": "Tiunn",
+      "sutianId": "21967",
+      "hakkaSixian": "zong24",
+      "hakkaHailu": "zhong53"
+    },
+    {
+      "surname": "李",
+      "taigi": "Lí",
+      "sutianId": "21867",
+      "hakkaSixian": "li31",
+      "hakkaHailu": "li24"
+    },
+    {
+      "surname": "王",
+      "taigi": "Ông",
+      "sutianId": "21827",
+      "hakkaSixian": "vong11",
+      "hakkaHailu": "vong55"
+    },
+    {
+      "surname": "吳",
+      "taigi": "Ngôo",
+      "sutianId": "21863",
+      "hakkaSixian": "ng11",
+      "hakkaHailu": "ng55"
+    },
+    {
+      "surname": "劉",
+      "taigi": "Lâu",
+      "sutianId": "22037",
+      "hakkaSixian": "liu11",
+      "hakkaHailu": "liu55"
+    },
+    {
+      "surname": "蔡",
+      "taigi": "Tshuà",
+      "sutianId": "22047",
+      "hakkaSixian": "cai55",
+      "hakkaHailu": "cai11"
+    },
+    {
+      "surname": "楊",
+      "taigi": "Iûnn",
+      "sutianId": "22013",
+      "hakkaSixian": "iong11",
+      "hakkaHailu": "rhong55"
+    },
+    {
+      "surname": "許",
+      "taigi": "Khóo",
+      "sutianId": "21983",
+      "hakkaSixian": "hi31",
+      "hakkaHailu": "hi24"
+    },
+    {
+      "surname": "鄭",
+      "taigi": "Tēnn/Tīnn",
+      "sutianId": "22052",
+      "hakkaSixian": "cang55",
+      "hakkaHailu": "chang33"
+    },
+    {
+      "surname": "謝",
+      "taigi": "Tsiā",
+      "sutianId": "22072",
+      "hakkaSixian": "qia55",
+      "hakkaHailu": "cia33"
+    },
+    {
+      "surname": "洪",
+      "taigi": "Âng",
+      "sutianId": "21914",
+      "hakkaSixian": "fung11",
+      "hakkaHailu": "fung55"
+    },
+    {
+      "surname": "郭",
+      "taigi": "Kueh/Keh",
+      "sutianId": "21986",
+      "hakkaSixian": "gog2",
+      "hakkaHailu": "gog5"
+    },
+    {
+      "surname": "邱",
+      "taigi": "Khu",
+      "sutianId": "21896",
+      "hakkaSixian": "hiu24",
+      "hakkaHailu": "hiu53"
+    },
+    {
+      "surname": "曾",
+      "taigi": "Tsan",
+      "sutianId": "21998",
+      "hakkaSixian": "zen24",
+      "hakkaHailu": "zen53"
+    },
+    {
+      "surname": "廖",
+      "taigi": "Liāu",
+      "sutianId": "22027",
+      "hakkaSixian": "liau55",
+      "hakkaHailu": "liau33"
+    },
+    {
+      "surname": "賴",
+      "taigi": "Luā",
+      "sutianId": "22059",
+      "hakkaSixian": "lai55",
+      "hakkaHailu": "lai33"
+    },
+    {
+      "surname": "徐",
+      "taigi": "Tshî",
+      "sutianId": "21936",
+      "hakkaSixian": "qi11",
+      "hakkaHailu": "ci55"
+    },
+    {
+      "surname": "周",
+      "taigi": "Tsiu",
+      "sutianId": "21880",
+      "hakkaSixian": "zu24",
+      "hakkaHailu": "zhiu53"
+    },
+    {
+      "surname": "葉",
+      "taigi": "Ia̍p",
+      "sutianId": "22017",
+      "hakkaSixian": "iab5",
+      "hakkaHailu": "rhab2"
+    },
+    {
+      "surname": "蘇",
+      "taigi": "Soo",
+      "sutianId": "22090",
+      "hakkaSixian": "su24",
+      "hakkaHailu": "su53"
+    },
+    {
+      "surname": "莊",
+      "taigi": "Tsng",
+      "sutianId": "21981",
+      "hakkaSixian": "zong24",
+      "hakkaHailu": "zong53"
+    },
+    {
+      "surname": "江",
+      "taigi": "Kang",
+      "sutianId": "21853",
+      "hakkaSixian": "gong24",
+      "hakkaHailu": "gong53"
+    },
+    {
+      "surname": "呂",
+      "taigi": "Lī/Lū",
+      "sutianId": "21864",
+      "hakkaSixian": "li24",
+      "hakkaHailu": "li53"
+    },
+    {
+      "surname": "何",
+      "taigi": "Hô",
+      "sutianId": "21858",
+      "hakkaSixian": "ho11",
+      "hakkaHailu": "ho55"
+    },
+    {
+      "surname": "蕭",
+      "taigi": "Siau",
+      "sutianId": "22058",
+      "hakkaSixian": "seu24",
+      "hakkaHailu": "siau53"
+    },
+    {
+      "surname": "羅",
+      "taigi": "Lô",
+      "sutianId": "22083",
+      "hakkaSixian": "lo11",
+      "hakkaHailu": "lo55"
+    },
+    {
+      "surname": "高",
+      "taigi": "Ko",
+      "sutianId": "21955",
+      "hakkaSixian": "go24",
+      "hakkaHailu": "go53"
+    }
+  ]
+}

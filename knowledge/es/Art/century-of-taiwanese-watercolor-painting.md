@@ -1,23 +1,21 @@
 ---
-title: 'Un siglo de acuarela taiwanesa: de Ishikawa Kinichiro a Jian Zhongwei'
-description: 'En 1907, Ishikawa Kinichiro llegó a Taiwán como profesor y sembró la raíz de un siglo de acuarela en la isla. Su alumno Lan Yinding ingresó en la Royal Watercolour Society de Gran Bretaña en 1929; en 1934, los pintores locales fundaron de forma autónoma la Asociación Artística Taiyang. Tras la guerra, Ma Baishui fusionó la tinta china con la acuarela y Xi Dejin documentó la arquitectura tradicional taiwanesa. En la década de 1990, tres grandes asociaciones coexistían y se conectaban con la red internacional IWS. Hoy, Jian Zhongwei se ha ganado reconocimiento internacional como miembro con doble firma de la AWS y la NWS. Este camino de un siglo, desde la educación normal colonial hasta los escenarios de competición internacional, entrelaza la tradición del *plein air*, el sistema de escuelas normales y la comunidad global de acuarela; la vitalidad de la acuarela taiwanesa reside precisamente en la tensión acumulada entre lo oficial y lo independiente, lo local y lo foráneo, la tradición y la competición.'
+title: 'La evolución centenaria de la acuarela en Taiwán: desde Kinichiro Ishikawa hasta Zhong-Wei Chien, un siglo de acumulación'
+description: 'En 1907, Kinichiro Ishikawa llegó a Taiwán para enseñar, sembrando las raíces de un siglo de acuarela en Taiwán. Su estudiante Lan Yin-ding ingresó en la Royal Watercolour Society británica en 1929; en 1934, pintores locales fundaron la Asociación de Arte Taiyang. Tras la guerra, Ma Pai-shui fusionó la tinta china con la acuarela; Hsi Te-chin registró la arquitectura antigua de Taiwán. En la década de 1990, tres grandes asociaciones coexistieron y se conectaron con la red internacional de acuarela IWS. Hoy, Zhong-Wei Chien destaca internacionalmente como miembro con doble firma de la AWS y la NWS. Este camino de un siglo, desde la educación normalista colonial hasta el escenario principal de competiciones internacionales, vincula la tradición del plein air, el sistema normalista y la comunidad global de acuarelistas; la vitalidad de la acuarela taiwanesa reside precisamente en la tensión acumulada por la coexistencia de lo oficial y lo independiente, lo local y lo foráneo, lo tradicional y lo competitivo.'
 date: 2026-03-19
 category: 'Art'
-tags: ['Art', 'watercolor', 'painting', 'acuarela', 'historia del arte']
+tags: ['Arte', 'acuarela', 'pintura', 'acuarela', 'historia del arte']
 subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-# design_rationale:
-#   why_this_hook: "石川1907→簡忠威AWS雙會員：一個教室啟蒙到國際賽場的百年弧線"
-#   whats_excluded: "各協會年報細節；2024後新生代；IWS台灣分會組織史；美術教育108課綱"
-#   where_it_hedges: "藍蔭鼎1971十大水彩：引述名稱為『歐美藝術評論學會』，確切組織名可參閱鴻禧基金會原始記錄"
-translatedFrom: Art/台灣水彩畫的百年流變.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:0b51fe43b7a1bf00
-sourceBodyHash: sha256:de90bfe09eb0461c
-translatedAt: 2026-05-26T05:10:57+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Art/台灣水彩畫的百年流變.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:0b51fe43b7a1bf00'
+sourceBodyHash: 'sha256:de90bfe09eb0461c'
+translatedAt: '2026-11-04T17:23:36.071004+00:00'
 ---
 
 # Un siglo de acuarela taiwanesa
@@ -68,7 +66,7 @@ Este resultado es fruto del entrelazamiento prolongado de varios factores. Los c
 
 ## Referencias
 
-[^1]: [Ishikawa Kinichiro — Wikipedia](https://zh.wikipedia.org/wiki/石川欽一郎) + [Shiotsuki Tōhō — Wikipedia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirmación de que cuatro artistas japoneses impulsaron conjuntamente la _Ten_ en 1927; Shiotsuki Tōhō (1886–1954), profesor de arte en la Escuela Superior de Taipéi.
+[^1]: [Ishikawa Kinichiro — Wikipedia](https://zh.wikipedia.org/wiki/石川欽一郎) — + [Shiotsuki Tōhō — Wikipedia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirmación de que cuatro artistas japoneses impulsaron conjuntamente la _Ten_ en 1927; Shiotsuki Tōhō (1886–1954), profesor de arte en la Escuela Superior de Taipéi
 
 [^2]: [Asociación Artística Taiyang — Wikipedia](https://zh.wikipedia.org/zh-tw/臺陽美術協會) — Confirmación de la fundación el 12 de noviembre de 1934 por ocho pintores locales: Liao Ji-chun, Chen Cheng-po, Yang Sanlang y otros; primer grupo artístico independiente de artistas locales en Taiwán.
 

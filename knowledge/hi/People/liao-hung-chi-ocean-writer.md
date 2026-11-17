@@ -3,23 +3,27 @@ title: 'लियाओ होंग-ची: मछली पकड़ने क
 description: "लियाओ होंग-ची ने 1992 में समुद्री खोजकर्ता बने, काला प्रवाह समुद्री शिक्षा फाउंडेशन की स्थापना की, और 'काला प्रवाह 101' व 'मस्क व्हेल π योजना' के माध्यम से ताइवान के समुद्री दृष्टिकोण को पुनः परिभाषित किया, जो समकालीन समुद्री साहित्य और पारिस्थितिक संरक्षण के प्रमुख प्रेरक हैं।"
 date: 2026-04-29
 category: 'People'
-subcategory: '文學'
 tags:
-  - 'समुद्री साहित्य'
-  - 'काला प्रवाह'
-  - 'व्हेल और डॉल्फिन संरक्षण'
-  - 'हूलियन'
-  - 'मस्क व्हेल'
+  [
+    'समुद्री साहित्य',
+    'काला प्रवाह',
+    'व्हेल और डॉल्फिन संरक्षण',
+    'हूलियन',
+    'मस्क व्हेल',
+  ]
+subcategory: '文學'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-07-25T06:34:20+08:00'
+translatedAt: '2026-11-04T23:21:20.091142+00:00'
 ---
 
 # लियाओ होंग-ची

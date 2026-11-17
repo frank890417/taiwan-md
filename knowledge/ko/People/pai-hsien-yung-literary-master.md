@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T08:09:02.706164+00:00'
+translatedAt: '2026-11-04T21:20:31.851066+00:00'
 ---
 
 # 파이셩용(白先勇): 1971년 《타이베이런(台北人)》에서 청춘판 《목단정(牡丹亭)》 20주년 투어까지

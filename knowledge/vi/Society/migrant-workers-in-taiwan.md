@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-09-19T01:37:22+08:00'
+translatedAt: '2026-11-04T18:56:31.279336+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Năm 2026, cứ 26 người dân Đài Loan thì có một người là lao động quốc tế. Tổng số đã tăng lên 873.347 người; nếu tính cả khoảng 94.000 người mất liên lạc, nhóm người nước ngoài này chiếm hơn 5% dân số thường trú của Đài Loan. Từ văn hóa phát sóng trực tiếp tại sảnh ga Đài Bắc đến sự kiên trì đòi "bãi bỏ giới hạn thời gian làm việc" trong các cuộc biểu tình lớn, và làn sóng phản đối lao động Ấn Độ với hơn 40.000 chữ ký vào tháng 4 năm 2026, Đài Loan đang đứng trước ngã ba đường của sự thiếu hụt lao động nghiêm trọng và lo lắng về hòa nhập xã hội. Đây không chỉ là chính sách lao động, mà còn là một thử nghiệm tập thể về cách Đài Loan định nghĩa "chúng ta".

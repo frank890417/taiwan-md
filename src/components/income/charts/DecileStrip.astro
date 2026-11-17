@@ -1,0 +1,304 @@
+---
+/**
+ * DecileStrip — 分位數刻度條（SSR inline SVG + 資料表）。
+ *
+ * 橫軸是金額（線性）。相鄰兩個分界點之間畫一格等高色帶，每一格代表同樣比例的人
+ * （十分位就是一成）。格子越窄代表人越集中，所以顏色深淺依「最窄那格 ÷ 這一格的寬」給：
+ * 越窄越深。兩端（最低與最高一組）官方沒有邊界，畫成虛線框，右端加箭頭表示還會延伸。
+ * markers（中位數、平均數）畫成垂直線，標籤各占一行，不跟刻度標籤搶位置。
+ *
+ * 數值由呼叫端先換成顯示單位（中文頁萬元、英文頁千元），元件只負責畫與加千分位；
+ * `unit` 是印在圖左下角的單位說明。寬 760／窄 380 兩套幾何，做法同 budget/RankBars。
+ */
+import { scaleLinear, estTextW, CHART_WIDTHS } from '../../../utils/budgetViz';
+import { useIncomeT } from '../../../i18n/income';
+import type { Lang } from '../../../config/languages';
+
+export interface Point {
+  label: string;
+  value: number;
+}
+export interface Marker {
+  label: string;
+  value: number;
+  /** 'is-alt' 換成第二色虛線（例：平均數） */
+  cls?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  source?: string;
+  lang: Lang;
+  /** 由低到高的分界點（D1…D9） */
+  points: Point[];
+  markers?: Marker[];
+  unit?: string;
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  source,
+  lang,
+  points,
+  markers = [],
+  unit,
+  id,
+} = Astro.props;
+const t = useIncomeT(lang);
+const uid =
+  id ||
+  `ds-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+
+const pts = [...points].sort((a, b) => a.value - b.value);
+const first = pts[0].value;
+const last = pts[pts.length - 1].value;
+const span = last - first || 1;
+// 兩端各留一段畫「沒有邊界的那一組」
+const d0 = first - span * 0.07;
+const d1 = last + span * 0.1;
+const fmt = (v: number) =>
+  v.toLocaleString('en-US', { maximumFractionDigits: 1 });
+const gaps = pts.slice(1).map((p, i) => p.value - pts[i].value);
+const minGap = Math.min(...gaps);
+
+function layout(W: number, narrow: boolean) {
+  const M = { l: narrow ? 10 : 18, r: narrow ? 12 : 20 };
+  const x = scaleLinear(d0, d1, M.l, W - M.r);
+  const mkH = 18;
+  const stripY = 10 + markers.length * mkH;
+  const stripH = narrow ? 40 : 46;
+  const rowH = narrow ? 34 : 31;
+  const labY = stripY + stripH;
+  const bands = gaps.map((g, i) => ({
+    x0: x(pts[i].value),
+    x1: x(pts[i + 1].value),
+    op: +(0.2 + 0.65 * (minGap / g)).toFixed(3),
+    tip: `${pts[i].label}–${pts[i + 1].label}: ${fmt(pts[i].value)}–${fmt(pts[i + 1].value)}`,
+  }));
+  const ticks = pts.map((p, i) => ({
+    ...p,
+    x: x(p.value),
+    y: labY + (i % 2) * rowH,
+  }));
+  const mk = markers.map((m, i) => {
+    const mx = x(m.value);
+    const w = narrow
+      ? estTextW(m.label, 12.5, 7.2)
+      : estTextW(m.label, 11.5, 6.6);
+    const right = mx + 6 + w <= W - M.r;
+    return {
+      ...m,
+      x: mx,
+      y: 10 + i * mkH + 6,
+      anchor: right ? 'start' : 'end',
+      tx: right ? mx + 6 : mx - 6,
+    };
+  });
+  const H = labY + rowH * 2 + 4 + (unit ? 18 : 0);
+  return {
+    W,
+    H,
+    M,
+    x,
+    stripY,
+    stripH,
+    labY,
+    bands,
+    ticks,
+    mk,
+    narrow,
+    xl: x(d0),
+    xf: x(first),
+    xt: x(last),
+    xr: x(d1),
+  };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart inc-ds" data-chart="decile-strip" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {/* 兩端：沒有邊界的最低與最高一組 */}
+        <rect
+          class="inc-ds-tail"
+          x={L.xl}
+          y={L.stripY}
+          width={L.xf - L.xl}
+          height={L.stripH}
+        />
+        <rect
+          class="inc-ds-tail"
+          x={L.xt}
+          y={L.stripY}
+          width={L.xr - L.xt - 7}
+          height={L.stripH}
+        />
+        <polygon
+          class="inc-ds-arrow"
+          points={`${L.xr - 7},${L.stripY} ${L.xr + 4},${L.stripY + L.stripH / 2} ${L.xr - 7},${L.stripY + L.stripH}`}
+        />
+        {/* 色帶：每一格同樣比例的人 */}
+        {L.bands.map((b) => (
+          <rect
+            class="inc-ds-band"
+            x={b.x0}
+            y={L.stripY}
+            width={Math.max(0, b.x1 - b.x0)}
+            height={L.stripH}
+            fill-opacity={b.op}
+          >
+            <title>{b.tip}</title>
+          </rect>
+        ))}
+        {/* 分界點：刻度線＋兩行標籤（數值、名稱），奇偶錯開兩排 */}
+        {L.ticks.map((k) => (
+          <g class="inc-ds-tick">
+            <line
+              class="inc-ds-sep"
+              x1={k.x}
+              x2={k.x}
+              y1={L.stripY}
+              y2={L.stripY + L.stripH}
+            />
+            <line
+              class="inc-ds-lead"
+              x1={k.x}
+              x2={k.x}
+              y1={L.labY}
+              y2={k.y + 4}
+            />
+            <text x={k.x} y={k.y + 15} text-anchor="middle" class="bg-val">
+              {fmt(k.value)}
+            </text>
+            <text
+              x={k.x}
+              y={k.y + (L.narrow ? 30 : 27)}
+              text-anchor="middle"
+              class="bg-tick"
+            >
+              {k.label}
+            </text>
+          </g>
+        ))}
+        {/* markers：垂直線＋各占一行的標籤 */}
+        {L.mk.map((m) => (
+          <g class={`inc-ds-marker ${m.cls || ''}`}>
+            <line x1={m.x} x2={m.x} y1={m.y - 9} y2={L.stripY + L.stripH + 3} />
+            <text x={m.tx} y={m.y} text-anchor={m.anchor}>
+              {m.label}
+            </text>
+          </g>
+        ))}
+        {unit && (
+          <text x={L.M.l} y={L.H - 4} class="bg-tick">
+            {unit}
+          </text>
+        )}
+      </svg>
+    ))
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {t('income.common.source')}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{t('income.common.datatable')}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{t('income.common.table.item')}</th>
+            <th class="num">{unit || t('income.common.table.value')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            pts.map((p) => (
+              <tr>
+                <td>{p.label}</td>
+                <td class="num">{fmt(p.value)}</td>
+              </tr>
+            ))
+          }
+          {
+            markers.map((m) => (
+              <tr>
+                <td>{m.label}</td>
+                <td class="num">{fmt(m.value)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  .inc-ds-band {
+    fill: var(--bg-cat-0);
+  }
+  .inc-ds-tail {
+    fill: var(--bg-cat-0);
+    fill-opacity: 0.07;
+    stroke: var(--bg-cat-0);
+    stroke-opacity: 0.55;
+    stroke-dasharray: 3 3;
+  }
+  .inc-ds-arrow {
+    fill: var(--bg-cat-0);
+    fill-opacity: 0.4;
+  }
+  .inc-ds-sep {
+    stroke: var(--bg-surface);
+    stroke-width: 1.5;
+  }
+  .inc-ds-lead {
+    stroke: var(--bg-axis);
+    stroke-width: 1;
+  }
+  .inc-ds-marker line {
+    stroke: var(--bg-ink);
+    stroke-width: 1.8;
+  }
+  .inc-ds-marker text {
+    font-size: 11.5px;
+    font-weight: 700;
+    fill: var(--bg-ink);
+    paint-order: stroke;
+    stroke: var(--bg-surface);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+  }
+  .inc-ds-marker.is-alt line {
+    stroke: var(--bg-cat-1);
+    stroke-dasharray: 5 3;
+  }
+  .inc-ds-marker.is-alt text {
+    fill: var(--bg-cat-1);
+  }
+  /* 窄版 viewBox 380 在手機上約縮成 0.89 倍，字級拉高讓實際大小不低於 11px */
+  .bg-svg.is-narrow .bg-tick,
+  .bg-svg.is-narrow .bg-val,
+  .bg-svg.is-narrow .inc-ds-marker text {
+    font-size: 12.5px;
+  }
+</style>

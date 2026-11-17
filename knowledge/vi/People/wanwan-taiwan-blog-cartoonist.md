@@ -1,16 +1,16 @@
 ---
-title: 'Cái đầu sáng chói trắng và người vẽ nó: Cô nàng Cuốn Cuốn (Hồ Gia Vị) — gương mặt của một thế hệ nhân viên văn phòng'
-description: 'Thời kỳ văn phòng vẫn dùng MSN để trò chuyện, những nhân viên không dám nói với sếp "em muốn tan làm ngay", lại lấy một cái đầu trắng nhẳng, không mặc quần áo, chỉ có một sợi tóc xoăn lơ lửng ở đỉnh làm avatar, để nó nói thay: "Em muốn tan làm". Từ một trợ lý thiết kế với lương 9,000 nghìn, cô nàng Hồ Gia Vị lại vô tình trở thành cha đẻ của dòng truyện tranh web, blog cá nhân của cô thành blog đầu tiên ở Đài Loan vượt mười triệu lượt xem. Nhân vật cô vẽ không bao giờ già, nhưng người vẽ nó lại ngày càng lớn; vì thế, cô quyết định cho nhân vật "trở thành nhân vật lịch sử".'
+title: 'Wan Wan: Nhân vật đầu trọc mà Hồ Gia Vĩ vẽ cho thế hệ MSN, và quyết định để nó "trở thành nhân vật lịch sử"'
+description: 'Wan Wan tên thật là Hồ Gia Vĩ, là người tiên phong trong lĩnh vực sáng tạo đồ họa trên mạng tại Đài Loan. Vào đầu những năm 2000, nhân vật đầu trọc do cô vẽ đã được giới nhân viên văn phòng dùng làm ảnh đại diện MSN để thay họ nói lên câu "Tôi muốn tan làm"; năm 2007, blog của cô trở thành blog đầu tiên tại Đài Loan đạt mốc 100 triệu lượt xem, sau đó cô tiếp tục lấn sân sang LINE sticker và WEBTOON. Sau khi trở thành mẹ, các sáng tạo của cô chuyển hướng sang đời thường của cha mẹ và con cái, đồng thời cô cũng quyết định để nhân vật đầu trọc không bao giờ già đi cùng mình rời khỏi sân khấu, "trở thành một nhân vật lịch sử".'
 date: 2026-06-29
 category: 'People'
 tags:
   [
-    'Cuốn Cuốn',
-    'Hồ Gia Vị',
-    'Tranh minh họa',
-    'Truyện tranh Web',
-    'Thời MSN',
-    'Văn hóa Internet',
+    'Wan Wan',
+    'Hồ Gia Vĩ',
+    'minh họa',
+    'sáng tạo đồ họa',
+    'thời đại MSN',
+    'văn hóa mạng',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T01:47:26.720735+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-04T14:38:43.088743+00:00'
 ---
 
-# Cái đầu sáng chói trắng và người vẽ nó: Cô nàng Cuốn Cuốn (Hồ Gia Vị) — gương mặt của một thế hệ nhân viên văn phòng
+# Wan Wan: Nhân vật đầu trọc mà Hồ Gia Vị (Hu Jiawei) vẽ cho thế hệ MSN, và quyết định để nhân vật ấy "trở thành nhân vật lịch sử"
 
-Đầu những năm 2000, một nhân viên văn phòng ở Đài Bắc mở máy tính, đăng nhập vào MSN Messenger. Cô thay đổi ảnh đại diện của mình thành một cái đầu nhỏ: không mặc quần áo, tròn xoe, tóc trắng nhẳng, chỉ có một sợi tóc xoăn ở trên đỉnh, khuôn mặt tỏ vẻ chán chường, bên cạnh là ba chữ: "Em muốn tan làm".
+Đầu những năm 2000, một nhân viên văn phòng tại Đài Bắc mở máy tính và đăng nhập vào MSN Messenger. Anh ta thay ảnh đại diện của mình bằng một hình người nhỏ bé: không mặc quần áo, đầu trọc lóc tròn xoe, trên đỉnh đầu chỉ có duy nhất một sợi tóc xoăn vểnh lên, khuôn mặt mang biểu cảm nửa sống nửa chết, kèm theo ba chữ bên cạnh: "Muốn tan làm".
 
-Cô không dám nói thực sự với sếp câu đó. Nhưng cái đầu nhỏ đã nói thay cho cô.
+Anh ta không dám thực sự nói câu này với sếp. Nhưng nhân vật đầu trọc đó đã nói thay anh ta.
 
-Đó là thời mà điện thoại di động chỉ có thể gọi điện và gửi tin nhắn. Không có sticker LINE, không có story, tất cả cảm xúc ở văn phòng đều bị nhồi nhét vào một cửa sổ MSN chưa được tắt đi. Và cái đầu nhỏ đó (sau này mọi người gọi nó là "Cuốn Cuốn") lại thay toàn bộ nhân viên văn phòng Đài Loan nói ra những điều bận rộn, buồn ngủ, buồn, mệt mỏi, khó chịu, rảnh rỗi[^1].
+Đó là thời đại mà điện thoại di động chỉ có thể gọi điện và nhắn tin. Không có sticker LINE, không có tin tức cập nhật (stories), mọi cảm xúc trong văn phòng đều bị nén chặt trong một cửa sổ MSN chưa tan làm và không thể đóng lại. Và nhân vật đầu trọc đó (sau này mọi người đều gọi là "Wan Wan") đã nằm gọn trong khung nhỏ của cửa sổ ấy, thay mặt toàn bộ dân văn phòng Đài Loan để hét lên những nỗi niềm: bận, buồn ngủ, bi ai, mệt mỏi, phiền phức và rảnh rỗi[^1].
 
-![Triển lãm Sách Quốc tế Đài Bắc 2008, Cuốn Cuốn tại gian hàng UDN (Liên Hợp Trực Tuyến)](/article-images/people/wanwan-2008-book-fair.webp)
-_Triển lãm Sách Quốc tế Đài Bắc 2008, Cuốn Cuốn tại gian hàng UDN (Liên Hợp Trực Tuyến). — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![Tại Triển lãm Sách Quốc tế Đài Bắc năm 2008, Wan Wan có mặt tại gian hàng của United Online](/article-images/people/wanwan-2008-book-fair.webp)
+_Tại Triển lãm Sách Quốc tế Đài Bắc năm 2008, Wan Wan tại gian hàng của United Online (UDN). — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Tóm tắt 30 giây:** Cuốn Cuốn, tên thật là Hồ Gia Vị, là cha đẻ của truyện tranh Web Đài Loan. Từ trợ lý thiết kế với lương 9,000 nghìn, cô nàng vô tình tạo ra một số hình ảnh nhỏ phù hợp với tâm trạng trên MSN, rồi bất ngờ nổi tiếng khắp Đài Loan. Blog cá nhân của cô năm 2007 trở thành blog đầu tiên ở Đài Loan vượt mười triệu lượt xem; cô đã chứng minh được "vẽ tranh có thể kiếm sống", và một thế hệ các họa sĩ truyện tranh Web theo sau cô. Điều tuyệt vời nhất ở cô là cách cô đối xử với nhân vật do cô tạo ra: cái đầu nhỏ sẽ không bao giờ già, nhưng người vẽ nó lại sẽ lớn, sẽ mệt mỏi; vì thế, Hồ Gia Vị quyết định cho nhân vật "trở thành nhân vật lịch sử".
+> **Tóm tắt trong 30 giây:** Wan Wan, tên thật là Hồ Gia Vị (Hu Jiawei), là người tiên phong trong lĩnh vực sáng tạo hình ảnh và văn bản trên mạng tại Đài Loan. Xuất phát điểm là một trợ lý thiết kế với mức lương tháng NT$9,000 và "ngày ngày lăn lộn nơi công trường", cô đã vô tình nổi tiếng khắp Đài Loan nhờ vẽ vài bức hình nhỏ phù hợp với tâm trạng trên MSN vì cảm thấy buồn chán. Blog cá nhân của cô đã trở thành blog đầu tiên tại Đài Loan đạt mốc một trăm triệu lượt xem vào năm 2007; cô đã chứng minh rằng "vẽ tranh có thể nuôi sống bản thân", mở đường cho cả một thế hệ nhà sáng tạo nội dung hình ảnh và văn bản sau này. Và điều cảm động nhất ở cô chính là sự lựa chọn đối với nhân vật dưới ngòi bút của mình: nhân vật đầu trọc sẽ mãi ngây thơ không già đi, nhưng người vẽ ra nó thì sẽ lớn lên và biết mệt mỏi; vì vậy Hồ Gia Vị nói rằng, cô muốn để nhân vật cùng rút lui với bản thân mình, "trở thành một nhân vật lịch sử".
 
 ## Một sợi tóc xoăn và cái đầu nhỏ không mặc quần áo
 

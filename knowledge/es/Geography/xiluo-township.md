@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T11:16:04+08:00'
+translatedAt: '2026-11-04T15:57:52.071878+00:00'
 ---
 
 > **Resumen en 30 segundos:** Xiluo está en Yunlin, en la orilla sur del río Zhuoshui, un pueblo de más de cuarenta mil habitantes. Los forasteros recuerdan primero el rojo Gran Puente de Xiluo, pero la cotidianidad de los lugareños es otra cosa: la salsa de soja de soja negra requiere 180 días de fermentación, las casas comerciales barrocas de la calle Yanping se mantienen en pie desde los años 1920, la Mazu Taiping del templo Fuxing ha gestionado los asuntos locales durante trescientos años, y el salón marcial Qikeng de los inmigrantes de la dinastía Qing convirtió una organización de autodefensa en una serie de televisión. Este artículo no trata a Xiluo como un accesorio del puente, sino que devuelve el puente a la línea temporal del pueblo.[^1] [^2] [^3] [^4]

@@ -2,28 +2,32 @@
 title: 'Омлет с устрицами: история вкусовой эволюции от бедности до национального блюда'
 description: 'Как тайваньский закусочный, возникший из-за нехватки продуктов, из «чжэньчуй» эпохи Чэнь Чэньгуна превратился в современное национальное блюдо, покорившее мир, и какие тайны вкуса скрывают его тесто и соус.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
-  - 'омлет с устрицами'
-  - 'тайваньские закуски'
-  - 'история'
-  - 'гастрономия'
-  - 'культура'
-  - 'Чэнь Чэньгун'
-  - 'клейстер'
-  - 'соус'
-  - 'чипсы Hua Yuan со вкусом омлета с устрицами'
-readingTime: 12
+  [
+    'омлет с устрицами',
+    'тайваньские закуски',
+    'история',
+    'гастрономия',
+    'культура',
+    'Чэнь Чэньгун',
+    'клейстер',
+    'соус',
+    'чипсы Hua Yuan со вкусом омлета с устрицами',
+  ]
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-07-25T09:23:19+08:00'
+translatedAt: '2026-11-05T00:56:28.957045+00:00'
 ---
 
 > **Обзор за 30 секунд**

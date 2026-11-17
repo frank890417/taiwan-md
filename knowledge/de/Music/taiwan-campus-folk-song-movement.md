@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-11T00:56:55+08:00'
+translatedAt: '2026-11-02T16:05:59.771121+00:00'
 ---
 
 # Die taiwanische Folk-Bewegung
@@ -147,10 +147,10 @@ Die Antwort der taiwanischen Folk-Bewegung lautet: Haben Sie keine Angst davor, 
 
 ## Weiterführende Literatur
 
-- [Entwicklung der taiwanischen Popmusik](/music/台灣流行音樂發展) — Die Hauptachse der chinesischsprachigen Popmusik nach dem Folk, von Lo Ta-yu bis hin zu Cheer Chen und LaLa Hsu.
-- [Taiwanische Literatur nach dem Ende des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Eine weitere kulturelle Selbstbewusstseinsbewegung nach 1987, die denselben Ursprung wie der Geist des „Singens der eigenen Lieder“ hat.
-- [Taiwanese Film](/de/art/taiwanese-cinema) — Die zeitgenössische Taiwan New Cinema Bewegung, eine weitere Achse des kulturellen Erwachens in Taiwan in den 1970er und 80er Jahren.
-- [San Mao (三毛)](/de/people/san-mao) — Die ursprüngliche Lyrikerin von „Olivenbaum“, deren Texte nach der Vertonung die gesamte chinesischsprachige Welt eroberten.
+- [Entwicklung der taiwanischen Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) — Die Hauptachse der Mandopop-Musik nach dem Folk-Zeitalter, von Lo Ta-yu bis hin zu Cheer Chen und Amit.
+- [Taiwanische Literatur nach der Aufhebung des Kriegsrechts](/de/art/post-martial-law-taiwanese-literature) — Eine weitere kulturelle Selbstbewusstseinsbewegung nach der Entspannung 1987, die denselben Geist wie das „Singen eigener Lieder“ im Folk-Genre teilt.
+- [Taiwanese Cinema](/de/art/taiwanese-cinema) — Die zeitgenössische Taiwan New Cinema-Bewegung, eine weitere Achse des kulturellen Erwachens in Taiwan in den 1970er und 1980er Jahren.
+- [San Mao](/de/people/san-mao) — Die ursprüngliche Texterin von „Olivenbaum“; ihre Texte verbreiteten sich nach verschiedenen Adaptionen in der gesamten chinesischsprachigen Welt.
 
 ---
 

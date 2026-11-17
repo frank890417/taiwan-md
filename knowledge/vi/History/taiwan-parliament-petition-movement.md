@@ -3,7 +3,6 @@ title: 'Phong trào xin lập Hội đồng lập pháp Đài Loan: Một tờ c
 description: 'Từ năm 1921 đến 1934, Lín Hiên Đường và những người khác nộp tờ cầu nguyện mười lăm lần để thách thức chính quyền thuộc địa thuộc Đế quốc Nhật. Mặc dù phong trào không đạt được Hội đồng lập pháp Đài Loan, nhưng nó đã biến pháp lý, báo chí và tổ chức thành những kỹ năng công cộng mà người Đài Loan dùng để đòi tự trị.'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Lịch sử',
@@ -15,16 +14,19 @@ tags:
     'Báo Đài Loan',
     'Tự trị địa phương',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T13:46:44.892639+00:00'
 ---
 
 Năm 1921, ngày 30 tháng 1, Lín Hiên Đường, Yếp Vĩnh Chung và 178 sinh viên Đài Loan du học tại Tokyo đã nộp tờ cầu nguyện lần thứ nhất tới Nhật Bản Quốc hội đề nghị lập Hội đồng lập pháp Đài Loan.[^1] Tài liệu này sau đó được gửi đi mười lăm lần, và phong trào kéo dài cho đến ngày 2 tháng 9 năm 1934 mới quyết định dừng lại.[^2] Dù không đạt được một Hội đồng lập pháp Đài Loan, nhưng câu hỏi "Ai có thể đại diện cho người Đài Loan" đã đi từ phòng nghiên cứu đến ký túc xá sinh viên, rồi vào trung tâm các cơ quan của Đế quốc.
@@ -49,21 +51,21 @@ _Ảnh: Tài liệu xin lập Hội đồng lập pháp Đài Loan. Wikimedia Co
 
 > 📝 **Ghi chú biên tập:** Những gì sắc bén nhất ở phong trào cầu nguyện không phải là nó đặt "Nhật Bản" và "Đài Loan" như hai kẻ thù trừu tượng, mà là nó dùng lại những nguyên tắc hiến pháp mà Đế quốc tự hào tuyên bố. Nếu luật pháp chỉ có hiệu lực ở địa phương, thì sự "đồng nhất" của Đế quốc thì đồng nhất với ai?
 
-## Một tài liệu, trước tiên phải đi qua tay các nghị sĩ
+## Một văn kiện, trước hết phải qua tay nghị sĩ
 
-Tờ cầu nguyện lần thứ nhất vào ngày 30 tháng 1 năm 1921 không chỉ là giao tài liệu ở cửa nhà Quốc hội. Theo Điều 62 của "Luật Nghị viện" vào thời đó, tờ cầu nguyện cần được giới thiệu bởi các nghị sĩ Quốc hội. Sau khi được giới thiệu bởi linh mục Trúc Thủy, các nghị sĩ từ Hội đồng Tượng gia (Kōshaku-in) là Nghiêm Nguyên Lục và từ Hạ viện (Shūgiin) là Thái Quốc Đại Dũng đồng ý làm giới thiệu, tài liệu mới bước vào quy trình xem xét.[^1]
+Ngày 30 tháng 1 năm 1921, lần cầu nguyện đầu tiên không phải là nộp văn kiện tại cổng nghị viện là xong. Theo 《Nghị viện pháp》 (議會法) điều 62 lúc bấy giờ, cầu nguyện cần nghị sĩ Đế quốc Nghị viện giới thiệu. Nhờ mục sư Uemura Masahisa (植村正久) dẫn giới, nghị sĩ Quý tộc viện Giang Nguyên Tố Lục (江元素六) và nghị sĩ Trung nghĩa viện Điền Xuyên Đại Cát Lang (田川大吉郎) đồng ý làm người giới thiệu, đơn cầu nguyện mới được đưa vào thủ tục thẩm định.[^1]
 
-Chi tiết này khiến phong trào cầu nguyện không còn giống như một cuộc "đến cửa Tokyo" trừu tượng. Đó là một công việc chính trị cần tìm người trung gian, chuẩn bị văn bản pháp lý, thu thập chữ ký, rồi chờ đợi quy trình của Quốc hội. Tờ cầu nguyện lần thứ nhất có 178 người ký tên. Sau này, mỗi lần các tham gia viên phải tìm lại con đường khả thi giữa sự bất ản tâm của cảnh quan pháp lý, hệ thống kiểm duyệt và phản hồi lạnh lùng từ Quốc hội.
+Chi tiết này khiến phong trào cầu nguyện không còn giống như một cuộc "gõ cửa Tokyo" trừu tượng. Đó là một công việc chính trị cần tìm trung gian, soạn thảo văn bản pháp lý, thu thập chữ ký, rồi chờ đợi quy trình nghị viện xử lý. Lần cầu nguyện đầu tiên có 178 người liên署. Mỗi lần sau đó, người tham gia đều phải tự tìm đường đi khả thi giữa cảnh sát thuộc địa, chế độ thẩm định và sự phản ứng lạnh nhạt của Đế quốc Nghị viện.[^1] [^2]
 
-Năm 1921, tháng 3, Nhật Bản Quốc hội thông qua "Pháp lệ 3", vẫn giữ lại quyền lập pháp cho Tổng độc Đài Loan. Đường lối ban đầu yêu cầu sửa đổi Luật 63 do đó mất đi mục tiêu, và việc lập Hội đồng lập pháp Đài Loan trở thành mục tiêu chính của phong trào chính trị Đài Loan.
+Tháng 3 năm 1921, Đế quốc Nghị viện Nhật Bản thông qua Pháp tam hào (法三號), quyền lập pháp uỷ thác của Toàn quyền Thống đốc Đài Loan vẫn được giữ lại. Tuyến đường ban đầu yêu cầu bãi bỏ Lục tam pháp (六三法) do đó mất điểm tựa, việc thành lập Hội nghị Đài Loan (臺灣議會) càng trở thành mục tiêu tập trung của phong trào chính trị Đài Loan.[^2]
 
-| Thời gian                 | Các cột mốc trong phong trào cầu nguyện                                        | Ý nghĩa chính trị                                                            |
-| ------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Tháng 12 năm 1920         | Lín Thành Lợi đăng bài "Kết quả của vấn đề Luật 63" trên "Thanh niên Đài Loan" | Biến tranh cãi về sửa đổi Luật 63 thành vấn đề về Hội đồng lập pháp đại diện |
-| Ngày 30 tháng 1 năm 1921  | 178 người nộp tờ cầu nguyện lần thứ nhất                                       | Tờ cầu nguyện có được vào quy trình của Quốc hội                             |
-| Ngày 17 tháng 10 năm 1921 | Thành lập Hội Văn hóa Đài Loan                                                 | Đưa yêu cầu chính trị vào mạng lưới văn hóa, giáo dục và báo chí             |
-| Ngày 16 tháng 12 năm 1923 | Sự kiện trấn trở toàn đảo                                                      | Cảnh quan pháp lý trực tiếp đàn áp các tổ chức chính trị                     |
-| Ngày 2 tháng 9 năm 1934   | Quyết định dừng lại sau tờ cầu nguyện lần thứ 15                               | Mười bốn năm phong trào cầu nguyện kết thúc                                  |
+| Thời gian            | Mốc trong phong trào cầu nguyện                                                                                                       | Ý nghĩa chính trị                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Tháng 12 năm 1920    | Lâm Trình Lộc (林呈祿) trên 《Thanh niên Đài Loan》 (《臺灣青年》) đăng bài 〈Điểm quy tụ của vấn đề Lục tam〉 (〈六三問題の歸著點〉) | Chuyển tranh chấp bãi bỏ Lục tam pháp về phía nghị viện đại diện     |
+| 30 tháng 1 năm 1921  | 178 người nộp đơn cầu nguyện lần thứ nhất                                                                                             | Cầu nguyện giành được cửa vào thủ tục Đế quốc Nghị viện              |
+| 17 tháng 10 năm 1921 | Hội Văn hóa Đài Loan (臺灣文化協會) thành lập                                                                                         | Đưa yêu cầu chính trị vào mạng lưới văn hóa, giáo dục và diễn thuyết |
+| 16 tháng 12 năm 1923 | Sự kiện Trị cảnh (治警事件) toàn đảo đại kiểm cử                                                                                      | Cảnh sát thuộc địa trực tiếp đàn áp hội đảng chính trị               |
+| 2 tháng 9 năm 1934   | Sau lần cầu nguyện thứ mười lăm quyết nghị dừng lại                                                                                   | Phong trào cầu nguyện mười bốn năm tạm kết                           |
 
 ## Mười lăm lần không phải là mười lăm lần gửi lại
 
@@ -161,30 +163,30 @@ Hôm nay, khi đọc lại tờ cầu nguyện, điều đáng dừng lại khô
 
 ## Tài liệu tham khảo
 
-[^1]: [Bảo tàng Văn hóa mới Đài Loan, Đài Bắc: Ngày 30 tháng 1 năm 1921, tờ cầu nguyện lần thứ nhất xin lập Hội đồng lập pháp Đài Loan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Ghi nhận ngày nộp tờ cầu nguyện lần thứ nhất, 178 người ký tên, quy trình giới thiệu của các nghị sĩ, và quan điểm đối lập của Tổng độc về việc lập Hội đồng lập pháp Đài Loan.
+[^1]: [Bảo tàng Kỷ niệm Phong trào Văn hóa Mới tại Đài Bắc: Ngày 30 tháng 1 năm 1921 - Lần thứ nhất khiếu nại yêu cầu thành lập Nghị viện Đài Loan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Ghi lại ngày khiếu nại lần thứ nhất, 178 người liên danh, thủ tục giới thiệu bởi nghị sĩ và lập trường phản đối của Toàn quyền phủ đối với việc thành lập Nghị viện Đài Loan.
 
-[^2]: [Khu vườn lý luận dân chủ của Nghị viện: Phong trào xin lập Hội đồng lập pháp Đài Loan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Tổng hợp luận điệp của Lín Thành Lợi về "Kết quả của vấn đề Luật 63", mười lăm lần cầu nguyện, sự chia rẽ của Hội Văn hóa, sự giải thể của Đả Đoàn kết Đài Loan và bối cảnh thể chế của phong trào.
+[^2]: [Khu di tích Dân chủ Nghị chính Viện Lập pháp: Phong trào khiếu nại yêu cầu thành lập Nghị viện Đài Loan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Tổng hợp bài viết 'Điểm kết của vấn đề 6-3' của Lâm Trình Lộc, 15 lần khiếu nại, sự phân rã của Văn hóa Hiệp hội, sự giải tán Đảng Dân chúng Đài Loan và bối cảnh thể chế của việc phong trào chấm dứt.
 
-[^3]: [Bảo tàng Văn hóa mới Đài Loan, Đài Bắc: Ngày 2 tháng 9 năm 1934, phong trào xin lập Hội đồng lập pháp Đài Loan ngừng lại](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Ghi nhận quyết định ngừng lại sau tờ cầu nguyện lần thứ 15, cuộc họp tại Đài Trung, sự tiếp xúc của Tổng độc và quá trình kết thúc của phong trào trong mười bốn năm.
+[^3]: [Bảo tàng Kỷ niệm Phong trào Văn hóa Mới tại Đài Bắc: Ngày 2 tháng 9 năm 1934 - Phong trào khiếu nại yêu cầu thành lập Nghị viện Đài Loan chấm dứt](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Ghi lại nghị quyết chấm dứt sau lần khiếu nại thứ 15, hội nghị tại Trung Dương, tiếp kiến Toàn quyền và quá trình kết thúc 14 năm phong trào.
 
-[^4]: [Bảo tàng Văn hóa mới Đài Loan, Đài Bắc: Ngày 17 tháng 10 năm 1921, thành lập Hội Văn hóa Đài Loan](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Thu thập địa điểm thành lập, quy mô tham dự, mụt tiêu, cùng với các hoạt động như đọc báo, thuyết trình, phim hoạt hình và trường hè mùa hè.
+[^4]: [Bảo tàng Kỷ niệm Phong trào Văn hóa Mới tại Đài Bắc: Ngày 17 tháng 10 năm 1921 - Văn hóa Hiệp hội Đài Loan thành lập](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Thu thập địa điểm thành lập Văn hóa Hiệp hội, quy mô người tham dự, mục đích, cũng như các hoạt động khai sáng như xã đọc báo, diễn thuyết, ảnh hoạt động và trường học mùa hè.
 
-[^5]: [Bảo tàng Văn hóa mới Đài Loan, Đài Bắc: Ngày 16 tháng 12 năm 1923, sự kiện trấn trở toàn đảo](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Giải thích việc cấm Liên hiệp xin lập Hội đồng lập pháp Đài Loan, sự truy quét toàn đảo của Tổng độc và nền tảng chính trị của việc bắt giữ khoảng ba mươi người.
+[^5]: [Bảo tàng Kỷ niệm Phong trào Văn hóa Mới tại Đài Bắc: Ngày 16 tháng 12 năm 1923 - Sự kiện Trị cảnh: Toàn đảo đại kiểm cử](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Giải thích Hội liên minh thành lập Nghị viện Đài Loan bị cấm, Toàn quyền phủ tiến hành kiểm cử toàn đảo và bối cảnh chính trị của việc gần 30 người bị giam cầm.
 
-[^6]: [Bảo tàng Văn hóa mới Đài Loan, Đài Bắc: Ngày 15 tháng 4 năm 1923, ra mắt "Báo Đài Loan"](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Ghi nhận sự ra mắt của "Báo Đài Loan", hệ thống kiểm duyệt, lượng phát hành năm 1925 và tài liệu lịch sử về việc chuyển hành về Đài Loan năm 1927.
+[^6]: [Bảo tàng Kỷ niệm Phong trào Văn hóa Mới tại Đài Bắc: Ngày 15 tháng 4 năm 1923 - 《Báo Dân Đài Loan》 xuất bản](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Ghi lại việc 《Báo Dân Đài Loan》 xuất bản, chế độ kiểm duyệt, lượng phát hành năm 1925 và tư liệu truyền thông về việc chuyển sang xuất bản tại Đài Loan năm 1927.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Do James Gerien-Chen của Đại học Florida viết giới thiệu và tổng hợp lý do năm 1923, cung cấp bối cảnh pháp lý thuộc địa, Luật 63 và tài liệu cầu nguyện bằng tiếng Anh.
+[^7]: [Thông tin Đế quốc Nhật Bản: Lý do yêu cầu thành lập Nghị viện Đài Loan](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Được viết lời mở đầu và biên soạn bởi James Gerien-Chen từ Đại học Florida, tổng hợp lý do khiếu nại năm 1923, cung cấp bối cảnh pháp lý thuộc địa, Luật 6-3 và ngữ cảnh văn bản khiếu nại bằng tiếng Anh.
 
-[^8]: [Viện Nghiên cứu Lịch sử Đài Loan, Academia Sinica: Cuộc bầu cử địa phương đầu tiên của Đài Loan: Thao tác thể chế của chính phủ thuộc địa Nhật Bản](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Phân tích học thuật về cải cách cơ chế địa phương năm 1935, số ghế bầu được bầu trực tiếp và hạn chế về điều kiện bầu cử, tránh viết lại sự tự trị hạn chế như dân chủ chung rộng lớn.
+[^8]: [Viện Nghiên cứu Sử học Đài Loan, Viện Hàn lâm Trung ương: Cuộc bầu cử địa phương đầu tiên tại Đài Loan: Thao túng thể chế của chính phủ thuộc địa Nhật Bản](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Phân tích bằng nghiên cứu học thuật về cải cách thể chế địa phương năm 1935, ghế dân cử chiếm một nửa và hạn chế điều kiện bầu cử, tránh việc ghi nhầm tự trị hạn hẹp thành dân chủ phổ cập.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Tóm tắt chương học tiếng Anh đặt hoạt động chính trị, văn hóa của thương gia và trí thức Đài Loan từ năm 1920 đến 1940 như là sóng đầu tiên của xã hội dân sự Đài Loan.
+[^9]: [Elgar Online: Sự trỗi dậy và suy tàn của các phong trào xã hội dân sự tại Đài Loan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Tóm tắt chương học thuật bằng tiếng Anh coi các phong trào chính trị, văn hóa của giai cấp sĩ phu và trí thức tại Đài Loan từ 1920 đến 1940 là làn sóng đầu tiên của sự phát triển xã hội dân sự tại Đài Loan.
 
-[^10]: [Wikimedia Commons: 1924 đoàn kết trào cầu nguyện Đài Loan tại Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Trang tài liệu của đoàn kết trào cầu nguyện năm 1924 tới Tokyo và chụp ảnh cùng sinh viên Đài Loan đang đón chờ, giấy phép ghi nhận là Public domain.
+[^10]: [Wikimedia Commons: Đoàn khiếu nại Nghị viện Đài Loan năm 1924 tại Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Trang lưu trữ hình ảnh đoàn khiếu nại đến Tokyo năm 1924 và chụp ảnh chung với du học sinh Đài Loan, được cấp phép dưới Public domain.
 
-[^11]: [Wikimedia Commons: 1925 đoàn diễn thuyết của Hội Văn hóa Đài Loan](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Ảnh chụp đoàn diễn thuyết của Hội Văn hóa Đài Loan năm 1925 tại cửa hàng bán báo chi nhánh tỉnh Hsinchu của "Báo Đài Loan", giấy phép ghi nhận là Public domain.
+[^11]: [Wikimedia Commons: Đoàn diễn thuyết Văn hóa Hiệp hội Đài Loan năm 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Ảnh chụp đoàn diễn thuyết Văn hóa Hiệp hội tại chi nhánh Đại lý phân phối Báo Dân Đài Loan của châu Tân Trúc năm 1925, được cấp phép dưới Public domain.
 
-[^12]: [Wikimedia Commons: Trang bìa của "Báo Đài Loan" ngày 1 tháng 1 năm 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Hình ảnh trang bìa của "Báo Đài Loan" ngày 1 tháng 1 năm 1926, trang tài liệu ghi nhận theo quy tắc bản quyền Nhật Bản là Public domain.
+[^12]: [Wikimedia Commons: Trang nhất 《Báo Dân Đài Loan》 ngày 1 tháng 1 năm 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Hình ảnh trang nhất 《Báo Dân Đài Loan》 ngày 1 tháng 1 năm 1926, trang lưu trữ được cấp phép dưới Public domain theo quy tắc bản quyền Nhật Bản.
 
-[^13]: [Wikimedia Commons: Tài liệu xin lập Hội đồng lập pháp Đài Loan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Trang tài liệu của hình ảnh tài liệu xin lập Hội đồng lập pháp Đài Loan, giấy phép ghi nhận là Public domain.
+[^13]: [Wikimedia Commons: Thư khiếu nại thành lập Nghị viện Đài Loan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Trang lưu trữ hình ảnh thư khiếu nại thành lập Nghị viện Đài Loan, được cấp phép dưới Public domain.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Trang tài liệu ảnh chân dung của Lín Hiên Đường, giấy phép ghi nhận là Public domain.
+[^14]: [Wikimedia Commons: Lâm Hiến Đường](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Trang lưu trữ hình ảnh chân dung Lâm Hiến Đường, được cấp phép dưới Public domain.

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-04T21:19:51.029751+00:00'
 ---
 
 # Hứa Phương Nghi: Giê Lan 1971, từ vũ công chính Đoàn nhảy Martha Graham đến vũ công thiết kế hình ảnh chính Liên hoan phim Kim Mã 2024

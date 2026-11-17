@@ -1,32 +1,32 @@
 ---
-title: 'Yoichi Hatta: From Hydraulic Legend to the "Biting Canal," the Colonial Imprint of a Technocrat'
-description: "In the 1920s, Japanese engineer Yoichi Hatta built the Wushantou Reservoir and the Chianan Canal on Taiwan's Chianan Plain. While this world-class project brought agricultural abundance, its colonial-exploitative nature and heavy burdens on farmers also led some farmers to call it the “biting canal.” This article examines Hatta's achievements and faults, the two sides of his management philosophy, and the complex imprint this history left on Taiwanese society."
+title: 'Yoichi Hatta: From Hydraulic Engineering to the "Man-Eating Canal," The Colonial Imprint of a Technocrat'
+description: 'In the 1920s, Japanese engineer Yoichi Hatta constructed the Wushentou Reservoir and the Chianan Irrigation System in Taiwan''s Chianan Plain. While this world-class engineering project brought agricultural abundance, it was also dubbed the "Man-Eating Canal" by some farmers due to its colonial exploitative nature and the heavy burden placed on them. This article explores the merits and faults of Yoichi Hatta, the duality of his management philosophy, and the complex historical imprint left on Taiwanese society.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Yoichi Hatta',
-    'Chianan Canal',
-    'Wushantou Reservoir',
+    'Chianan Irrigation System',
+    'Wushentou Reservoir',
     'Japanese Colonial Period',
     'Colonial Exploitation',
     'Taiwanese Agriculture',
-    'Historical Appraisal',
+    'Historical Evaluation',
   ]
-readingTime: 15
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 15
 translatedFrom: 'People/八田與一.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:6b0f80761ab45ab9'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:9f1665215c6b5da8'
 sourceBodyHash: 'sha256:2885ebb0691722a3'
-translatedAt: '2026-05-12T21:49:54+08:00'
+translatedAt: '2026-11-02T16:16:31.533301+00:00'
 ---
 
-> **30-second overview:** In 1920, Japanese engineer Yoichi Hatta directed the construction of the Wushantou Reservoir and the Chianan Canal on Taiwan's Chianan Plain. This hydraulic project, celebrated as an "engineering miracle," transformed barren land into Taiwan's rice granary. Yet behind it lay the Japanese colonial government's extraction of Taiwanese resources, as well as the hardship and suffering of farmers forced into a "three-year crop rotation system"; some even called it the "biting canal." Hatta's decision during layoffs to "dismiss outstanding employees first" has been interpreted as humanitarian concern, but it also provoked management controversy. This history, from the postwar despair and drowning suicide of Hatta's wife, Sotoki, to the contemporary beheading of his bronze statue, continually reminds us that the evaluation of a colonial builder's achievements and faults is never one-dimensional, but full of contradiction and tension.
+> **30-Second Overview:** In 1920, Japanese engineer Yoichi Hatta led the construction of the Wusantou Reservoir and the Chianan Irrigation System across Taiwan's Chianan Plain. This hydraulic project, hailed as an "engineering miracle," transformed barren lands into Taiwan's granary. However, behind this achievement lay the colonial government's exploitation of Taiwan's resources and the suffering of farmers forced to implement a "three-year crop rotation system," earning it the nickname "the irrigation system that bites people." While Hatta's decision to "prioritize laying off excellent employees" during downsizing has been interpreted as an act of humanitarian care, it also sparked management controversies. This history—reflected in the post-war despair and subsequent suicide of Hatta's Japanese wife, and the contemporary decapitation of his statue—serves as a constant reminder that the legacy of a colonial builder is never one-dimensional; rather, it is filled with contradiction and tension.
 
 ## A Vision Across Eras: The Birth of the Chianan Canal and Its Colonial Context
 

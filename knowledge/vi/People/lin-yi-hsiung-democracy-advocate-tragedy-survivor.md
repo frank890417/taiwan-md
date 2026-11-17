@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T23:14:33.826786+00:00'
 ---
 
 # Lâm Nghĩa Hùng: Từ Nghị viên tỉnh Đài Loan đến Biểu tượng đạo đức của phong trào phản hạt nhân
@@ -75,19 +77,19 @@ Lâm Nghĩa Hùng là một tín đồ sùng đạo của Hội Thánh Lão Lâm
 
 ## Tài liệu tham khảo
 
-[^1]: [Lâm Nghĩa Hùng — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Tổng quan tiểu sử, Nghị viên tỉnh năm 1977, Chủ tịch nhiệm kỳ thứ tám của Đảng Dân Tiến được bầu trực tiếp đầu tiên, hồ sơ MPA Harvard năm 1987. Xem thêm [Trung tâm Kiểm chứng Sự thật Đài Loan: Lâm Nghĩa Hùng rời Đảng năm 2006](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
+[^1]: [Lâm Nghĩa Hùng — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Tổng quan cuộc đời, nghị sĩ tỉnh Đài Loan năm 1977, chủ tịch lần thứ tám của Đảng Dân chủ Tiến bộ năm 1998 là người đầu tiên được bầu trực tiếp, hồ sơ MPA Harvard năm 1987. Xem thêm [Trung tâm Kiểm chứng sự thật Đài Loan: Lâm Nghĩa Hùng 2006 rút khỏi đảng phán rõ tin giả](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Sự kiện Bỉ Lệ Đảo — Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/) — Tóm tắt sự kiện Bỉ Lệ Đảo năm 1979, danh sách bị bắt và tài liệu xét xử quân sự.
+[^2]: [Sự kiện Mỹ Lệ Đảo — Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/) — Quá trình sự kiện Mỹ Lệ Đảo năm 1979, danh sách bị bắt và tư liệu xét xử quân pháp.
 
-[^3]: [Vụ án máu nhà Lâm — Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/w/nhrm/home) — Hồ sơ vụ án máu nhà Lâm và giải thích tình trạng chưa được phá án.
+[^3]: [Vụ án máu tại nhà Lâm — Bảo tàng Nhân quyền Quốc gia](https://www.nhrm.gov.tw/w/nhrm/home) — Hồ sơ vụ án máu tại nhà Lâm và giải thích tình trạng chưa được phá án.
 
-[^4]: [Lịch sử Đảng Dân Tiến — Trang web chính thức của Đảng Dân Tiến](https://www.dpp.org.tw/) — Quá trình thành lập đảng và hồ sơ hoạt động của Lâm Nghĩa Hùng trong nhiệm kỳ chủ tịch 1998-2000. Xem thêm [Taipei Times: Cựu Chủ tịch DPP rời đảng (25/01/2006)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) về quá trình từ chức ngày 24/01/2006.
+[^4]: [Lịch sử Đảng Dân chủ Tiến bộ — Trang web chính thức Đảng Dân chủ Tiến bộ](https://www.dpp.org.tw/) — Quá trình thành lập đảng và hồ sơ công tác đảng trong thời gian Lâm Nghĩa Hùng làm chủ tịch đảng năm 1998-2000. Xem thêm [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) ghi lại quá trình rút khỏi đảng ngày 24/1/2006.
 
-[^5]: [Trang web chính thức Quỹ Giáo dục Từ Lâm](https://www.tzlin.org.tw/) — Mục đích của quỹ, giới thiệu Khu Từ Lâm và thông tin hoạt động.
+[^5]: [Trang web chính thức Quỹ Giáo dục Từ Lâm](https://www.tzlin.org.tw/) — Mục đích quỹ, giới thiệu khu vực Từ Lâm và thông tin hoạt động.
 
-[^6]: [Báo cáo nhịn ăn phản hạt nhân 4 năm 2014 — Liberty Times](https://news.ltn.com.tw/) — Xác nhận sự kiện nhịn ăn của Lâm Nghĩa Hùng vào tháng 4 năm 2014 và quyết định ngừng hoạt động Nhà máy hạt nhân số 4.
+[^6]: [Báo đạo năm 2014 về tuyệt thực chống Điện hạt nhân số 4 — Tự do Thời báo](https://news.ltn.com.tw/) — Xác nhận quá trình hành động tuyệt thực tháng 4 năm 2014 của Lâm Nghĩa Hùng và quyết định đình công phong tỏa Điện hạt nhân số 4.
 
-[^7]: [Tài liệu lịch sử phong trào phản hạt nhân — Liên minh Hành động Công dân Xanh](https://gcaa.org.tw/) — Bối cảnh lịch sử của phong trào phản hạt nhân Đài Loan và hồ sơ về vai trò của Lâm Nghĩa Hùng.
+[^7]: [Tài liệu lịch sử phong trào chống hạt nhân — Liên minh Hành động Công dân Xanh](https://gcaa.org.tw/) — Bối cảnh lịch sử phong trào chống hạt nhân tại Đài Loan và ghi chép vai trò của Lâm Nghĩa Hùng.
 
 ## Đọc thêm
 

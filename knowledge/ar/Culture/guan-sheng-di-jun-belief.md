@@ -2,9 +2,7 @@
 title: 'القديس الإمبراطور غوان: كيف أصبح جنرال مهزوم الإله الشامل في تايوان'
 description: 'الجنرال غوان يو من حقبة الممالك الثلاث هُزم وقُطع رأسه، لكنه تطور في تايوان إلى نظام إيمان فريد عالميًا باسم «السيد المُنعم» — بينما أكثر معابد الإمبراطور غوان ازدحامًا في تايوان كلها لا يسمح لك حتى بإحراق عود بخور واحد.'
 date: 2026-03-26
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'القديس الإمبراطور غوان',
@@ -13,15 +11,19 @@ tags:
     'المعتقدات الشعبية',
     'ثقافة المعابد',
   ]
-readingTime: 10
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-26
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-25T05:00:14+08:00'
+translatedAt: '2026-11-05T07:02:33.220102+00:00'
 ---
 
 # القديس الإمبراطور غوان: كيف أصبح جنرال مهزوم الإله الشامل في تايوان

@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-18T00:53:05+08:00'
+translatedAt: '2026-11-06T19:02:08.976316+00:00'
 ---
 
 Năm 2013, Chợ Sinh Hoạt (生活市集) được thành lập, trở thành một nền tảng thương mại điện tử thuộc Công ty Cổ phần Doanh Nhân Kỹ Thuật Số (創業家數位股份有限公司). Đến năm 2020, các mặt hàng mà nó cung cấp không chỉ giới hạn ở đồ dùng sinh hoạt mà còn bao gồm các hạng mục ngoài cốt lõi như 3C và thực phẩm, chiếm khoảng ba đến bốn phần trăm tổng doanh thu. Vào ngày 12 tháng 10 năm 2023, nền tảng này đã mở rộng kệ hàng ra thị trường quốc tế với dịch vụ giao hàng trực tiếp xuyên biên giới[^1] [^2] [^7].

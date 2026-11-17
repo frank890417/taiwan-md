@@ -15,11 +15,13 @@ rationale:
   whats_excluded: '不寫成電台名錄或技術百科，不逐一整理所有頻率、機器規格與主持人年表。文章聚焦制度、語言、收聽日常與公共空間的變化。'
   where_it_hedges: '1925年試播、1928年臺北放送局、1931年臺灣放送協會、1946年臺灣廣播電台與《臺灣之聲》分段處理，不把日治廣播直接寫成戰後制度的單一路線。'
   whos_pushing_back: '承認廣播長期被政府、政黨與軍事體系控制，也保留收聽者、民營電台、台語節目與地下電台如何挪用同一媒介的歷史。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣廣播史.md'
-sourceCommitSha: '174a83b65'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:83934ab33e775cb3'
 sourceBodyHash: 'sha256:9b5ab13cba09c99e'
-translatedAt: '2026-09-10T05:34:24+08:00'
+translatedAt: '2026-11-05T17:30:28.431122+00:00'
 ---
 
 # 주소 없는 소리: 대만 라디오는 어떻게 국가의 확성기에서 지역의 공공 공간으로 변했는가
@@ -118,7 +120,7 @@ translatedAt: '2026-09-10T05:34:24+08:00'
 
 대만 라디오사가 남길最值得(가장 가치 있는) 것은 "라디오가 중요했다"는 결론이 아니라, 그것이 통제된 조건 하에서 어떻게 지속적으로 사용되었는가이다. 누군가는 그것을 통해 정치 명령을 전달했고, 누군가는 노래와 광고를 팔았으며, 누군가는 언어를 가르쳤고, 누군가는 가자시 한 편을 기다렸으며, 누군가는 Call-in을 통해 자신의 정치적 판단을 공공 공간에 보냈다. 소리에는 주소가 없지만, 언제나 어느 곳에서나 착지한다.
 
-##延伸阅读
+## 더 읽을거리
 
 - [대만 여성운동사](/ko/society/awakening-foundation) — 제도적 통제에서 공공 발언으로 나아가는 또 다른 사회사
 - [대만 우편사](/ko/lifestyle/taiwan-postal-service-history) — 통신 기반 시설이 어떻게 지역 일상에 들어왔는가

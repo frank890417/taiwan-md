@@ -1,27 +1,27 @@
 ---
-title: 'Taiwan Cement : la légende de la transition verte de la première société cotée de Taïwan'
-description: "En 1962, la Bourse de Taïwan a été créée en partie pour elle, et le code boursier 1101 symbolise l'origine du marché taïwanais. Dirigée pendant 76 ans par trois générations de la famille Ku, Taiwan Cement a été témoin, four après four, des miracles de la construction taïwanienne, avant de se transformer en entreprise verte pour relever le défi de l'ère de la neutralité carbone."
+title: 'TCC : La transition verte de la première société cotée de Taïwan'
+description: "La Bourse de Taïwan est née en 1962 grâce à elle, et son code boursier 1101 symbolise les origines du marché taïwanais. Après 76 ans de gestion par trois générations de la famille Ku, TCC a vu le miracle de la construction de Taïwan à travers ses nombreux fours à ciment ; aujourd'hui, l'entreprise se transforme en une entité verte pour relever les défis de l'ère de la neutralité carbone."
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
-    'Economy',
+    'Économie',
     'Entreprise',
-    'Industrie cimentière',
+    'Industrie du ciment',
     'Matériaux de construction',
-    "Privatisation d'entreprises publiques",
+    'Privatisation',
     'Transition verte',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-05-15T15:39:40+08:00'
+translatedAt: '2026-11-02T01:11:00.756990+00:00'
 ---
 
 > **Aperçu en 30 secondes**
@@ -108,16 +108,16 @@ L'industrie cimentière mondiale représente environ 7 à 8 % des émissions de 
 
 ## Références
 
-[^1]: [Taiwan Cement — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Chronologie complète de Taiwan Cement, incluant sa fondation en 1946, sa privatisation en 1954 et son introduction en bourse en 1962.
+[^1]: [Taiwan Cement — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Historique complet de Taiwan Cement, incluant sa création en 1946, sa privatisation en 1954 et son introduction en bourse en 1962.
 
-[^2]: [Rapport annuel 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/) — Données financières et opérationnelles les plus récentes du groupe Taiwan Cement.
+[^2]: [Rapport annuel 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/) — Dernières données financières et opérationnelles du groupe Taiwan Cement.
 
-[^3]: [CommonWealth Magazine : La plus ancienne société cotée de Taïwan, Taiwan Cement opère dans 13 pays avec 27 filiales et se réinvente en « dé-cimentant »](https://www.cw.com.tw/article/5130723) — Reportage sur la stratégie de transition verte et la diversification de Taiwan Cement.
+[^3]: [Commonwealth Magazine : La plus ancienne société cotée de Taïwan, Taiwan Cement, s'étend sur 13 pays avec 27 filiales et se transforme en abandonnant le ciment](https://www.cw.com.tw/article/5130723) — Reportage sur la stratégie de transition verte et la diversification de Taiwan Cement.
 
-[^4]: [Mirror Media : Se souvenir de Ku Chen-fu et de l'innovation chez Taiwan Cement — Chang An-ping : une transformation totale vers l'entreprise verte](https://www.mirrormedia.mg/story/20210209fin001) — Entretien sur la direction de la transition verte de Taiwan Cement après l'arrivée de Chang An-ping.
+[^4]: [Mirror Media : Se souvenir de Ku Jen-fu et parler de l'innovation de Taiwan Cement ; Chang An-ping : Pleine puissance pour la transformation en entreprise verte](https://www.mirrormedia.mg/story/20210209fin001) — Entretien sur la direction de la transition verte de Taiwan Cement après la reprise par Chang An-ping.
 
-[^5]: [TEJ (Taiwan Economic Journal) : Construire un empire cimentier taïwanien — le parcours de croissance de la famille Ku et du groupe Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Chronique complète de la direction de Taiwan Cement par trois générations de la famille Ku.
+[^5]: [TEJ Taiwan Economic Journal : Construire un royaume du ciment à Taïwan, le voyage de croissance de la famille Ku et du groupe Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Enregistrement complet du contexte de gestion de la famille Ku sur trois générations et du groupe Taiwan Cement.
 
-[^6]: [Le mariage des familles Ku Yen-zhuo-yun et Ku Chen-fu — fondation d'un empire cimentier taïwanien s'étendant aux énergies vertes — Central News Agency](https://www.cna.com.tw/news/afe/202502050178.aspx) — Chronique complète de la privatisation de Taiwan Cement en 1954, de la nomination de Lin Bo-shou comme premier président, du poste de directeur général adjoint de Ku Chen-fu, et du réseau d'alliances matrimoniales familiales.
+[^6]: [L'alliance entre les familles Ku, Yen, Zhuo, Yun et Ku Jen-fu pour établir un royaume du ciment à Taïwan et s'étendre vers l'énergie verte — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Enregistrement complet de la privatisation de Taiwan Cement en 1954, de Lin Po-shou comme premier président, du poste d'assistant de Ku Jen-fu et des réseaux d'alliances familiales.
 
-[^7]: [Mort soudaine de Ku Cheng-yun — son beau-frère Chang An-ping prend la tête du groupe Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirme les circonstances du décès de Ku Cheng-yun le 23 janvier 2017 et l'identité de « beau-frère » de Chang An-ping (Ku Huai-ru étant la plus jeune fille de Ku Chen-fu). Voir aussi [Mirror Media : les coulisses de la mort soudaine de Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Le décès soudain de Ku Cheng-yun, son beau-frère Chang An-ping reprend la direction du groupe Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirmation des circonstances du décès de Ku Cheng-yun le 23/01/2017 et du statut de « beau-frère » de Chang An-ping (Ku Huai-ju étant la fille cadette de Ku Jen-fu). Voir aussi [Mirror Media : Les coulisses du décès soudain de Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

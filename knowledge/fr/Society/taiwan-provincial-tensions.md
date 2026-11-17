@@ -2,19 +2,20 @@
 title: 'Les tensions provinciales à Taïwan'
 description: "Ces tensions ne sont pas simplement l'histoire de deux communautés qui se détestent, mais une lutte pour le pouvoir de définir qui est vraiment Taïwanais — ressuscitée à chaque élection, dissoute dans la démolition des quartiers militaires, jamais véritablement résolue."
 date: 2026-03-31
-tags: [société, ethnicité, politique, histoire, identité]
-subcategory: '族群與身份'
 category: 'Society'
+tags: ['société', 'ethnicité', 'politique', 'histoire', 'identité']
+subcategory: '族群與身份'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
-translatedFrom: 'Society/台灣省籍矛盾.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
-sourceCommitSha: '4b6d28c5'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣省籍矛盾.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-04-14T12:32:34+08:00'
+translatedAt: '2026-11-04T19:24:48.261294+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :** En 1949, environ 1,2 million de militaires et civils se replièrent sur Taïwan avec le gouvernement nationaliste, formant une nouvelle strate démographique dite des « provinciaux extérieurs » face aux « provinciaux locaux ». Les inégalités institutionnelles de l'ère martiale, conjuguées au traumatisme collectif de l'Incident du 28 février, firent de l'appartenance provinciale la faille politique la plus profonde de l'île. Après la démocratisation, cette faille fut instrumentalisée par les politiciens, jusqu'à ce qu'elle soit progressivement absorbée par une identité taïwanaise unifiante au tournant des années 2000 — mais les chercheurs s'accordent à dire qu'elle n'a jamais disparu, seulement changé de forme.

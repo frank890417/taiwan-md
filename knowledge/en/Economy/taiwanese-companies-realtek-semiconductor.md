@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:34+08:00'
+translatedAt: '2026-11-04T16:43:49.053477+00:00'
 ---
 
 > **30-Second Overview:** In 1987, seven engineers founded Realtek Semiconductor in the Hsinchu Science Park with NT$2 million. Using a crab as their logo, they launched Taiwan's first independently developed network chip in 1991. With consolidated revenue of approximately NT$113.4 billion in 2024, it is Taiwan's third-largest IC design company; a "Realtek crab" may be hidden inside almost every computer in the world.
@@ -98,17 +100,17 @@ Founded by seven engineers in 1987, 37 years later, Realtek's chips are integrat
 
 ## References
 
-[^1]: [Realtek Semiconductor 2024 Annual Report | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirms 2024 full-year consolidated revenue of approximately NT$113.4 billion (up 19.1%); established by 7 founders on October 21, 1987.
+**Further Reading**
 
-[^2]: [Market Observation Post: Realtek Semiconductor](https://mops.twse.com.tw/) — Basic listing information for 2379 and historical financial reports.
+- [Technews: Realtek Semiconductor Development History](https://technews.tw/)
+- [Digitimes: Taiwan IC Design Industry Report](https://www.digitimes.com.tw/)
 
-[^3]: [Taiwan Stock Exchange: 2379 Realtek](https://www.twse.com.tw/) — Confirms stock code 2379, listed in 1998, Chiu Shun-chien is the current Chairman.
+[^1]: [Realtek Semiconductor 2024 Annual Report | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirmed full-year 2024 consolidated revenue of approximately NT$113.4 billion (a year-on-year increase of 19.1%); founded by seven founders on October 21, 1987.
+
+[^2]: [Market Observation Post System: Realtek Semiconductor](https://mops.twse.com.tw/) — Basic information for listed company 2379 and historical financial reports.
+
+[^3]: [Taiwan Stock Exchange: 2379 Realtek](https://www.twse.com.tw/) — Confirmed stock code 2379, listed in 1998; Chun-Chien Chiu is the current Chairman.
 
 [^4]: [Realtek Official Website Product Lines](https://www.realtek.com/) — Description of WiFi 6/7 chip product lines.
 
-[^5]: [TechNews: Realtek Semiconductor History](https://technews.tw/) — Industry background report on Realtek's expansion from network chips to multimedia ICs.
-
-**Further Reading**
-
-- [TechNews: Development History of Realtek Semiconductor](https://technews.tw/)
-- [Electronic Times: Taiwan IC Design Industry Report](https://www.digitimes.com.tw/)
+[^5]: [Technews: Realtek Semiconductor History](https://technews.tw/) — Industry background report on Realtek Semiconductor's expansion from network chips to multimedia ICs.

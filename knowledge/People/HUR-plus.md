@@ -22,6 +22,8 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 14
+curation: incubating
+curationReason: unverified
 ---
 
 > **30 秒概覽：** HUR+（原 HUR），2020 年《菱格世代 DD52》亞軍「風暴黑桃」六人出道，製作人斐立普（Felipe.Z）成立 AOA Entertainment Lab 星鏈艾歐亞。冠軍賽輸了 2.5 分，但冠軍團 G.O.F 聲量在一年內斷崖式下滑，同期出道的 PINK FUN 遭遇退團風波。六年後，HUR+ 是三個出道團體中唯一還在發專輯的。三張專輯（《REVELATION》《Crimzon》《9OF9 ARCANA》）、集資十分鐘衝破 150 萬赴韓打歌、成員國籍橫跨蒙古英國印尼越南。斐立普說：「假如跟韓國用同樣的配方招數，台灣怎麼可能打得贏？」

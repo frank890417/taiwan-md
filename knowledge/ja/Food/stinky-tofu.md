@@ -3,24 +3,20 @@ title: '臭豆腐：においを追い求め香りを探す間、台湾人の感
 description: '1950年代の街頭ベテランの技から国宴に登場した「臭豆腐神殿」まで、この発酵豆腐は台湾半世紀の韌性を担っています。本稿では臭い漬け汁の背後にある活菌キュレーションと、深坑の焦げ香と玉里の三段階油温の風味の秘密を解析します。'
 date: 2026-04-26
 category: 'Food'
-tags:
-  - '臭豆腐'
-  - '台湾小吃'
-  - '発酵食品'
-  - '深坑'
-  - '玉里橋頭'
-  - '戴記独臭之家'
+tags: ['臭豆腐', '台湾小吃', '発酵食品', '深坑', '玉里橋頭', '戴記独臭之家']
 subcategory: '經典小吃'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/臭豆腐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: '2026-06-12T00:53:40+08:00'
+translatedAt: '2026-11-05T00:08:18.417359+00:00'
 ---
 
 > **30秒概览：** 臭豆腐は台湾で最も議論を呼び、かつ最も代表的な庶民料理です。その起源は清代の書生の偶然の失敗にありますが、台湾では独自の「活菌発酵」技術へと進化しました。深坑老街の焦げ香の塩漬け豆腐から、花蓮玉里が堅持する「三段階油温」のサクサク奇跡まで、本記事はなぜこの鼻をつんざく匂いが日本の発酵学権威をも引き寄せ、さらには台湾文化の韌性の象徴となったのかを理解へと導きます。

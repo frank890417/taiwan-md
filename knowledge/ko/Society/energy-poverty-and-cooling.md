@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-19T11:59:03+08:00'
+translatedAt: '2026-11-06T03:51:44.068964+00:00'
 ---
 
 > **30초 요약**: 에너지 빈곤은 단순히 '전기를 너무 많이 쓰는 것'이나 '절약을 못 하는 것'이 아니라, 가구가 안전하고 감당 가능하며 효율적인 에너지 서비스를 확보할 충분한 자원이 없는 상태를 의미한다. 낡은 아파트, 옥상 증축 주택, 환기가 잘 안 되는 방에 살거나 중고 고전력 에어컨을 사용하는 가정에게 에어컨 사용은 청구서 압박을 줄 수 있고, 에어컨을 켜지 않으면 열 손상 위험이 높아진다. 타이완에는 아직 전국적으로 통일된 에너지 빈곤 정의가 부족하지만, 민간 조사에서는 지원 대상 취약 가구가 가처분 소득에서 차지하는 에너지 지출 비율이 현저히 높다는 사실이 발견되었다[^1]. 정부가 고온을 부처 간 위험으로 인식하기 때문에, 에너지 빈곤은 더 이상 절전 캠페인만으로는 해결할 수 없으며 주거, 사회 복지, 위생 및 기후 적응이 공동으로 다루어야 할 공공 문제로 전환되어야 한다[^2].

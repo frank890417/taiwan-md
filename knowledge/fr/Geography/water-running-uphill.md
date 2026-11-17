@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-10T01:58:13+08:00'
+translatedAt: '2026-11-05T07:24:39.338280+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le site « L'eau coule vers le haut » (_Shui wang shang liu_), situé dans le village de Dudulan (commune de Donghe, comté de Taitung), est un canal d'irrigation de moins de cinquante centimètres de large, pourtant l'un des sites les plus célèbres de Taïwan pour son caractère « contre-intuitif ». Les mesures au sol indiquent que le fossé penche en réalité vers le bas d'environ 0,5 à 0,6 degré ; cependant, la route adjacente présente une pente plus importante (entre 3 et 5 degrés). En observant les deux lignes de pente simultanément, le cerveau utilise la route, plus inclinée, comme niveau de référence horizontal, interprétant ainsi le fossé, moins incliné, comme « montant vers le haut ». Il s'agit d'une illusion de référentiel du système visuel, et non d'une défaillance de la gravité ou du champ magnétique. Ce canal était à l'origine un ouvrage d'irrigation creusé par les populations locales Amis ; il n'a été officialisé comme merveille touristique qu'en 1980, lors de l'essor du tourisme national, et fait l'objet de nouveaux débats récemment suite à des critiques sur Internet le qualifiant de « site le plus inutile de Taïwan ».

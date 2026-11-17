@@ -2,6 +2,7 @@
 title: '대만에는 어떤 동물원이 있나: 가장 오래된 곳은 무자가 아니고, 가장 큰 곳도 단순한 동물원이 아니다'
 description: '위안쯔에서 해수관 숙박까지, 대만의 동물원은 단순한 가족 관광지 목록이 아니라 도시, 관광, 해양 교육이 함께 성장해 온 섬 안의 여정이다.'
 date: 2026-04-25
+category: 'Society'
 tags:
   [
     '동물원',
@@ -16,16 +17,17 @@ tags:
   ]
 subcategory: '動物與倫理'
 author: 'p3nchan'
-readingTime: 8
-category: 'Society'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Society/台灣有哪些動物園.md
-sourceCommitSha: '287389ec'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣有哪些動物園.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:39eab6090a3c571e'
 sourceBodyHash: 'sha256:831b02af043591c7'
-translatedAt: '2026-05-16T22:35:46Z'
-featured: false
+translatedAt: '2026-11-04T19:24:35.817154+00:00'
 ---
 
 # 대만에는 어떤 동물원이 있나: 가장 오래된 곳은 무자가 아니고, 가장 큰 곳도 단순한 동물원이 아니다

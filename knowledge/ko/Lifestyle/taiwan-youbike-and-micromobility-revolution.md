@@ -2,19 +2,21 @@
 title: '타이완 YouBike 문화와 도시 마이크로모빌리티 혁명'
 description: '「마지막 1마일」에서 일상 인프라까지, YouBike는 어떻게 소액 요금, 밀집 스테이션, 실시간 배차를 통해 타이완 도시의 이동 습관과 시간 감각을 바꾸었는가.'
 date: 2026-04-14
-author: 'Wilson Chen'
-category: Lifestyle
-subcategory: '交通與移動'
+category: 'Lifestyle'
 tags: ['YouBike', '도시교통', '녹색교통', '마이크로모빌리티']
-readingTime: 8
+subcategory: '交通與移動'
+author: 'Wilson Chen'
+featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
-translatedFrom: Lifestyle/台灣YouBike文化與城市微交通革命.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T18:10:45.186407+00:00'
 ---
 
 > **30초 개요:**

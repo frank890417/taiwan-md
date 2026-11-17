@@ -24,9 +24,9 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 featured: true
 translatedFrom: People/吳哲宇.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-06-12T16:39:07Z'
 ---
 
@@ -239,8 +239,6 @@ It's not like he had no contact with music in between. In high school he hung ar
 Twenty years later, his name appeared on Spotify. Six piano pieces: _Blue Horizon_, _Stars_, _StarTrack_, _The Other Shore of Dreams_, _The Bull and the Sudden Rain_, _Summer Migration_[^34].
 
 He didn't re-learn the piano. Those things had always been in his body, just covered in dust for twenty years. When he sat back down at the keys, what his fingers remembered wasn't technique — it was the six-year-old who first touched the notes.
-
-**Code becomes obsolete. The piano doesn't.**
 
 In June 2025, in the immersive space of Huashan 1914 Creative Park, _Algorithmic Poetry: The Boundary of Dreams and Solitude_ premiered. He sat at the piano; code bloomed behind him[^36].
 

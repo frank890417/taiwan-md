@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
-translatedFrom: Food/竹筒飯.md
-sourceCommitSha: '4b6d28c54'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/竹筒飯.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-05-09T14:31:08Z'
+translatedAt: '2026-11-05T00:52:38.588064+00:00'
 ---
 
 > **30초 개요:** 통죽밥은 대만 원주민을 대표하는 쌀 음식 중 하나로, 사냥꾼들이 산속에서 조리 도구가 부족했을 때의 절약적 지혜에서 비롯되었다. 1년생 계죽의 천연 수분과 죽막(竹膜)의 향을 활용하여 숯불에 직접 구우면 밥이 촉촉하게 유지되면서 특유의 은은한 풍미를 띤다. 이는 단순한 음식이 아니라 산림 자원 관리와 물리 과학의 실천이기도 하다.

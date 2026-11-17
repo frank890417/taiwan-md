@@ -1,0 +1,147 @@
+---
+/**
+ * housing-mortgage-calculator.template.astro：mortgage-calculator 單獨網址頁（13 語共用 template）
+ *
+ * 外殼是共用的 ToolPage（H1、結果怎麼讀、計算方式、資料來源、常見問題、相關頁面、
+ * 嵌入程式碼、WebApplication／FAQPage／BreadcrumbList）。工具本體是 MortgageCalculator.astro。
+ * 文案在 src/i18n/housing-toolpages.ts；常見問題裡的每個數字都由
+ * src/utils/housing/toolpage-facts.ts 在建置時從 src/data/housing/*.json 與
+ * mortgage.ts 算出再填入，這裡沒有寫死的字串或數字。
+ * 免責聲明由工具外框（ToolShell）放在工具下方，同一頁只出現一次。
+ */
+import ToolPage from '../components/tools/ToolPage.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import MortgageCalculator from '../components/housing/tools/MortgageCalculator.astro';
+import { labelsFor } from '../components/housing/tools/labels';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import type { TranslationKey } from '../i18n/utils';
+import { housingToolPages } from '../i18n/housing-toolpages';
+import { fill } from '../utils/housing/format';
+import {
+  articleHref,
+  fillStrict,
+  makeCtx,
+  toolFacts,
+  toolLabelKey,
+  toolSources,
+} from '../utils/housing/toolpage-facts';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const pages = housingToolPages(lang);
+const text = pages.mortgage;
+const topic = getTopic('housing')!;
+const tool = topic.tools.find((x) => x.slug === 'mortgage-calculator')!;
+const siblings = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
+
+const ctx = makeCtx(lang, labelsFor(lang, ['']));
+const facts = toolFacts('mortgage', ctx, pages);
+const sources = toolSources('mortgage');
+const asOf = sources.map((s) => s.date).sort()[sources.length - 1];
+const metaTitle = fillStrict(
+  text.metaTitle,
+  facts,
+  'mortgage-calculator metaTitle',
+);
+const metaDescription = fillStrict(
+  text.metaDescription,
+  facts,
+  'mortgage-calculator metaDescription',
+);
+const faq = text.faq.map((f, i) => ({
+  q: fillStrict(f.q, facts, `mortgage-calculator faq[${i}].q`),
+  a: fillStrict(f.a, facts, `mortgage-calculator faq[${i}].a`),
+}));
+const reading = text.reading.map((p, i) =>
+  fillStrict(p, facts, `mortgage-calculator reading[${i}]`),
+);
+const howItWorks = fillStrict(
+  text.howItWorks,
+  facts,
+  'mortgage-calculator howItWorks',
+);
+const method = fill(tt('mortgage.assump'), {
+  period: String(facts.period ?? ''),
+});
+
+const related = [
+  {
+    href: localizePath('/housing/tools/', lang),
+    label: pages.common.relatedTools,
+  },
+  {
+    href: localizePath('/housing/qingan/', lang),
+    label: pages.common.relatedQingan,
+  },
+  ...['qingan-eligibility', 'affordability-check'].map((slug) => ({
+    href: localizePath(siblings(slug).path, lang),
+    label: fill(pages.common.relatedOtherTool, {
+      title: tt(`${toolLabelKey(slug)}.title`),
+    }),
+  })),
+  {
+    href: articleHref(lang, 'justice'),
+    label: pages.common.relatedArticleJustice,
+  },
+  {
+    href: articleHref(lang, 'national'),
+    label: pages.common.relatedArticleNational,
+  },
+];
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={{
+    ...tool,
+    title: text.h1,
+    description: pickText(tool.description, lang),
+    applicationCategory: 'FinanceApplication',
+  }}
+  metaTitle={metaTitle}
+  metaDescription={metaDescription}
+  howItWorks={howItWorks}
+  faq={faq}
+  related={related}
+  updated={topic.updated}
+  embedPath={tool.embedPath}
+>
+  <ToolFrame
+    title={pickText(tool.title, lang)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    <MortgageCalculator
+      lang={lang}
+      variant="page"
+      toolsPath={localizePath(siblings('mortgage-calculator').path, lang)}
+    />
+  </ToolFrame>
+  <Fragment slot="reading">
+    {reading.map((p) => <p>{p}</p>)}
+  </Fragment>
+  <Fragment slot="method">
+    <p>{method}</p>
+  </Fragment>
+  <Fragment slot="sources">
+    <ul>
+      {
+        sources.map((s) => (
+          <li>
+            <a href={s.url} target="_blank" rel="noopener noreferrer">
+              {fill(tt('common.sourceLine'), {
+                agency: s.agency,
+                title: s.title,
+                date: s.date,
+              })}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </Fragment>
+</ToolPage>

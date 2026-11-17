@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-14T14:50:02+08:00'
+translatedAt: '2026-11-02T16:03:00.420457+00:00'
 ---
 
 # Bukan Hanya Jual Pupuk: Bagaimana Organisasi Publik Pedesaan Taiwan dari Sistem Kolonial ke Reformasi Kredit
@@ -128,9 +128,9 @@ Posisi sejarah koperasi pertanian terletak di sini. Kebijakan pertanian negara m
 
 ## Bacaan Lanjutan
 
-- [Reformasi Tanah Taiwan](/id/history/taiwan-land-reform) — Latar belakang institusional reformasi koperasi pertanian dan reorganisasi kekuasaan desa pasca perang
-- [Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Jejak lain dari promosi koperasi pertanian, teknologi pertanian, dan transformasi industri
-- [Sejarah Air Tanpa Penggunaan Taiwan](/history/台灣自來水史) — Membaca perbandingan dari organisasi desa ke institusi infrastruktur publik
+- [Reformasi Agraria Taiwan](/id/history/taiwan-land-reform) — Latar belakang institusional dari perbaikan asosiasi pertanian dan restrukturisasi kekuasaan pedesaan pascaperang
+- [Perkembangan Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Alur lain mengenai promosi oleh asosiasi pertanian, teknologi pertanian, dan transformasi industri
+- [Sejarah Air Bersih Taiwan](/id/geography/taiwan-tap-water) — Bacaan perbandingan dari transisi organisasi pedesaan menuju sistem infrastruktur publik
 
 ## Referensi
 

@@ -1,26 +1,31 @@
 ---
 title: '菜市場名'
 description: '台湾の街頭で「淑芬」や「家豪」と一声叫ぶと、何人が振り返るでしょうか。これらの名前は台湾社会の縮図であり、世代ごとの「素晴らしい人生」への集団的想像を記録しています。'
-category: 'Culture'
-subcategory: '節慶與禮俗'
-tags: ['社会文化', '内政部', '命名文化', '鮭の乱', '淑芬', '家豪', '雅婷']
 date: 2026-04-19
-readingTime: 6
+category: 'Culture'
+tags: ['社会文化', '内政部', '命名文化', '鮭の乱', '淑芬', '家豪', '雅婷']
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-06-11T16:38:27Z'
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T07:24:22.760302+00:00'
 ---
 
 # 菜市場名
 
 > **30秒概覧：**
 > 「菜市場名」とは、青果市場で一声叫べば無数の人が同時に振り返るような名前のことです。これは冗談ではありません。内政部2024年の最新統計によると、「淑芬」は台湾全土で3万人以上、「家豪」は1万4千人以上おり、それぞれ男女の菜市場名の冠・亜軍を10年以上連続で維持しています[^1]。これらの名前は親の怠慢を反映しているのではなく、台湾社会が年代ごとに「良い名前とは何か」について持つ集団的合意を反映しています。
+
+> **全体像を知りたい方へ** 姓はどちらか、同じ姓になぜ綴りが四つあるのか、原住民族の名前はどう書くのかは、特集[「台湾人の名前」](/ja/names/)にまとめています。中国語の氏名をパスポートの綴りに直すには[氏名ローマ字変換ツール](/ja/names/name-romanization/)をどうぞ。
 
 ---
 
@@ -87,6 +92,7 @@ author: 'Taiwan.md'
 
 ## 関連資料
 
+- [台湾人の名前（特集）](/ja/names/) — 姓、世代、四つのローマ字方式、原住民族の名前を図解。氏名ローマ字変換ツール付き。
 - [内政部全国姓名統計分析（2023年最新版）](https://www.ris.gov.tw) — 台湾公式の最も権威ある姓名ビッグデータ。
 - [「承恩」が首位、「怡君」が人気下降：菜市場名の文字学（Readmoo）](https://news.readmoo.com/2017/12/07/taiwanese-names/) — 年代ごとの選字の文化的意義を詳しく分析。
 - [鮭の乱：台湾改名現象研究（ウィキペディア）](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — 2021年の世界的に注目された改名ブームを記録。

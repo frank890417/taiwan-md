@@ -182,21 +182,11 @@ Pernyataannya tetap tersimpan pada 2023. Selama masa penjajannya, ia pernah meng
 
 ## Yang Tidak Boleh Mendaftar, Kini Membaca Suara Orang Lain
 
+<!-- poll-blackout:start -->
+
 Pada pagi hari 17 Agustus 2026, ia duduk di meja utama konferensi pers dan merilis hasil survei dukungan untuk gubernur kota Taichung.
 
-Dukungan untuk Jiang Qichen dari Partai Kebangsaan adalah 42,8%, sementara dukungan untuk Ho Hsin-chun dari Partai Progres adalah 36,1%, dengan selisih 6,7 poin persentase. Tingkat kepastian kemenangan memilih Jiang Qichen sebesar 48,2% dibandingkan Ho Hsin-chun sebesar 23,6%. Komentarnya adalah "perbedaan antara keduanya semakin kecil, menunjukkan kasus minyak beracun memberikan dampak negatif bagi Partai Kebangsaan di Taichung", dan juga mengatakan "Taichung sangat mungkin berubah, peluangnya ada"[^49].
-
-```tw-dot
-Dukungan Gubernur Kota Taichung 2026 (%) (termasuk interval kepercayaan 95%)
-Jiang Qichen | 42,8 | 39,9 | 45,7
-Ho Hsin-chun | 36,1 | 33,2 | 39,0
-Sumber: Think Tank Taiwan Baru, kontraktor Yayasan Dapeng, survei telepon selama 11–13 Agustus 2026
-```
-
-```tw-note
-Penjelasan
-Tabel di atas menunjukkan estimasi dukungan dan interval kesalahan sampel pada tingkat kepercayaan 95% (±2,88 poin persentase), dengan jumlah sampel valid sebanyak 1.159 orang, dan subjek survei adalah warga Taiwan yang berusia 20 tahun ke atas. Interval dihitung dari nilai kesalahan yang diterbitkan, untuk mengingatkan bahwa estimasi bukanlah nilai pasti.
-```
+<!-- poll-blackout:end -->
 
 Think Tank Taiwan Baru yang merilis survei ini didirikan oleh Gu Wenchao pada Januari 2010. Pada 1 September 2016, Gu Wenchao menyumbangkan think tank ini ke Yayasan Dapeng, dan sejak saat itu Chen Chih-chung menjabat sebagai direktur eksekutif, masih berjaga sampai Agustus 2026[^50]. Yang terdaftar sebagai perwakilan badan hukum Yayasan Dapeng adalah anggota dewan legislatif Chen Ting-fei, yang di Yayasan Dapeng memiliki gelar direktur eksekutif, ini adalah dua posisi yang berbeda[^51].
 

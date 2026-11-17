@@ -2,9 +2,7 @@
 title: 'Puente del Río Tamsui: en el horizonte de la desembocadura, un monumento colosal diseñado para la "transparencia"'
 description: 'El Puente del Río Tamsui está previsto para inaugurarse el 12 de mayo de 2026. Este puente atirantado asimétrico de torre única, diseñado por el equipo de la arquitecta Zaha Hadid, requirió treinta años de planificación y, en la tensión entre preservar el atardecer de Tamsui y aliviar el tráfico, redefine el paisaje estuarino de Taiwán con líneas fluidas.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     'Puente del Río Tamsui',
@@ -15,15 +13,19 @@ tags:
     'Protección ambiental',
     'Ingeniería técnica',
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-04T17:27:41.106315+00:00'
 ---
 
 > **Panorama en 30 segundos:**

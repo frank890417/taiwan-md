@@ -2,9 +2,7 @@
 title: 'Масланый рис: от липкого риса для «показа богатства» до подарка на случай полного месяца, несущего вес жизни'
 description: 'На улицах Тайваня 2026 года чаша масляного риса по-прежнему является первым выбором многих для празднования рождения ребёнка. Это блюдо, восходящее к традициям ханьских переселенцев и развившееся на Тайване с уникальным «пропорциями гурмана», переплетающими сладкое и солёное, сочетает липкий рис и жареный лук в самое плотное благословение тайваньских семей на поворотных моментах жизни.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'масланый рис',
@@ -14,15 +12,19 @@ tags:
     'липкий рис',
     'культура банкетов',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-07-25T10:53:30+08:00'
+translatedAt: '2026-11-05T04:01:57.953998+00:00'
 ---
 
 > **Обзор за 30 секунд:**

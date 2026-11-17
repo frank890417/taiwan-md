@@ -330,7 +330,7 @@ Olhando de meados de julho de 2026, faltam quatro meses e meio para o dia da vot
 
 ### Já ocorrido: mapa de nomeação grosso modo definido
 
-Trabalho de nomeação dos três grandes partidos em julho entra na reta final: DPP já nomeou em 19 de 22 condados/municípios, KMT nomeação em condados/municípios difíceis e de sucessão já concluída, nomeação de incumbentes governistas prevista para fim de julho de uma vez[^38], TPP nomeou três, dois viraram cabo eleitoral após pesquisa de integração KMT-TPP[^38]. Nos 22 condados/municípios, 13 têm incumbentes que por limite de mandato ou restrição legal não estarão na cédula — é eleição de grande renovação. Registro operacional do mecanismo KMT-TPP, ver [quarta seção](#四內部結構性議題朝小野大藍白協作第三勢力).
+Trabalho de nomeação dos três grandes partidos em julho entra na reta final: DPP já nomeou em 19 de 22 condados/municípios, KMT nomeação em condados/municípios difíceis e de sucessão já concluída, nomeação de incumbentes governistas prevista para fim de julho de uma vez[^38], TPP nomeou três, dois viraram cabo eleitoral após pesquisa de integração KMT-TPP[^38]. Nos 22 condados/municípios, 13 têm incumbentes que por limite de mandato ou restrição legal não estarão na cédula — é eleição de grande renovação. Registro operacional do mecanismo KMT-TPP, ver [quarta seção](#quatroquestões-estruturais-internas-minoria-governistamaiori).
 
 Taiwan.md por princípio da simetria não lista nomes de candidatos aqui — lista completa per edital da Comissão Eleitoral Central em novembro, dinâmica de nomeação pré-eleição veja compilações da mídia principal e [edital da Comissão Eleitoral Central](https://web.cec.gov.tw/).
 

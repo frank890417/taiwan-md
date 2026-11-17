@@ -2,8 +2,7 @@
 title: '名間埔中茶：台湾の手搖飲（手作りシェイク飲料）業界の8割を支える「無名の英雄」'
 description: '2025年の名間焚化爐（ごみ焼却炉）論争により、台湾の手搖飲（手作りシェイク飲料）で使用される基底茶の80％が南投県名間郷産であることが明らかになりました。清代の「三埔中」の美称から1975年の「松柏長青茶」への名称変更を経て、標高わずか400メートルの低山であるこの地域は、現在、ごみ焼却炉の立地をめぐり、茶産地の生存権を守る激しい闘いに直面しています。'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     '名間郷',
@@ -12,15 +11,19 @@ tags:
     '松柏長青茶',
     '焚化爐抗爭（ごみ焼却炉建設反対運動）',
   ]
-readingTime: 10
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-05-01T18:09:43+08:00'
-featured: false
+translatedAt: '2026-11-05T00:41:52.434205+00:00'
 ---
 
 > **30秒概覽：**

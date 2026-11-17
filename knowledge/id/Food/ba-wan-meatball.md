@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-07-26T08:50:52+08:00'
+translatedAt: '2026-11-04T23:20:39.182563+00:00'
 ---
 
 > **30 detik Ringkasan:**  

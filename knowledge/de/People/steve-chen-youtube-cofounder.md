@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '5478954ba'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-09-08T15:54:57+08:00'
+translatedAt: '2026-11-04T20:21:09.981022+00:00'
 ---
 
 # Steve Chen

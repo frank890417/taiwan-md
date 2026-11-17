@@ -1,20 +1,22 @@
 ---
 title: 'ताइवान Game Jam समुदाय'
 description: 'ग्लोबल गेम जैम के ताइवान में उतरने से लेकर KUSO GAME JAM के "कचरा कृति" को दर्शन बनाने तक—ताइवान Game Jam समुदाय ने दस वर्षों में कैसे स्वतंत्र खेल पारिस्थितिकी का इनक्यूबेटर और प्रयोगशाला बना लिया'
-date: '2026-04-27'
+date: 2026-04-27
 category: 'Technology'
 tags: ['खेल', 'स्वतंत्र खेल', 'Game Jam', 'समुदाय', 'KUSO', 'सृजन']
 subcategory: '遊戲產業'
 readingTime: 8
 author: 'tppr2046'
 featured: false
-lastVerified: '2026-04-27'
-lastHumanReview: 'true'
+lastVerified: 2026-04-27
+lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-07-24T20:15:21+08:00'
+translatedAt: '2026-11-04T17:29:05.593908+00:00'
 ---
 
 # ताइवान Game Jam समुदाय

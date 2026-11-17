@@ -1,0 +1,229 @@
+---
+/**
+ * RankBands — /housing/ 排序橫條，可疊「官方分級」底帶與一條參考線（例：全國值）。
+ * 用在 22 縣市房貸負擔率（底帶 30／40／50%）與各縣市低度使用住宅比率（無底帶）。
+ *
+ * 介面照 budget/RankBars（title、subtitle、rows、unit、source、lang），多了 bands 與 refLine，
+ * 值的單位與位數可自訂（budget 版只認億與 %）。伺服端 inline SVG，寬 760／窄 380 兩套幾何。
+ */
+import FigureShell from './FigureShell.astro';
+import {
+  scaleLinear,
+  niceTicks,
+  estTextW,
+  fitText,
+  CHART_WIDTHS,
+} from '../../../utils/budgetViz';
+import type { SourceRef } from '../../../utils/housing/data';
+
+export interface RankRow {
+  id: string;
+  label: string;
+  v: number;
+  highlight?: boolean;
+  /** 標籤後面的小記號（例：＊ 樣本少） */
+  flag?: string;
+  /** 資料表備註 */
+  note?: string;
+}
+export interface RankBand {
+  from: number;
+  to: number | null;
+  label: string;
+  /** 色階 0（最淺）到 3（最深） */
+  level: number;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  lang: string;
+  rows: RankRow[];
+  sources: SourceRef[];
+  note?: string;
+  unit?: string;
+  digits?: number;
+  bands?: RankBand[];
+  refLine?: { v: number; label: string };
+  xMax?: number;
+  valueHeader: string;
+  itemHeader: string;
+  rowH?: number;
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  lang,
+  rows,
+  sources,
+  note,
+  unit = '',
+  digits = 1,
+  bands = [],
+  refLine,
+  xMax: xMaxP,
+  valueHeader,
+  itemHeader,
+  rowH = 24,
+  id,
+} = Astro.props;
+
+const maxV = Math.max(...rows.map((r) => r.v), refLine?.v ?? 0);
+const ticks = niceTicks(Math.max(xMaxP ?? maxV, 1), 4);
+const top = Math.max(ticks[ticks.length - 1], xMaxP ?? 0);
+const colon = lang === 'zh-TW' ? '：' : ': ';
+const fmtV = (v: number) => `${v.toFixed(digits)}${unit}`;
+
+function layout(W: number, narrow: boolean) {
+  const longestLab = Math.max(
+    0,
+    ...rows.map((r) => estTextW(r.label + (r.flag ?? ''), 12, 6.5)),
+  );
+  const maxL = narrow ? 92 : 150;
+  const lw = Math.min(maxL, longestLab + 20);
+  const M = {
+    l: lw,
+    r: narrow ? 56 : 72,
+    t: bands.length ? 58 : refLine ? 46 : 30,
+    b: 8,
+  };
+  const iw = W - M.l - M.r;
+  const H = M.t + rows.length * rowH + M.b;
+  const x = scaleLinear(0, top, M.l, M.l + iw);
+  const bd = bands.map((b) => {
+    const x0 = x(b.from);
+    const x1 = x(Math.min(top, b.to ?? top));
+    return { ...b, x0, x1, w: x1 - x0 };
+  });
+  return { W, H, M, iw, x, bd, narrow, lw };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<FigureShell
+  title={title}
+  subtitle={subtitle}
+  lang={lang}
+  sources={sources}
+  note={note}
+  id={id}
+  kind="rank"
+>
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-label={title}
+        class={`hs-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {L.bd.map((b) => {
+          const f = fitText(b.label, Math.max(0, b.w - 8), 11, 9);
+          return (
+            <g class={`hs-rband l${b.level}`}>
+              <rect
+                x={b.x0}
+                y={L.M.t - 6}
+                width={Math.max(0, b.w)}
+                height={rows.length * rowH + 6}
+              />
+              {b.w >= 44 && (
+                <text
+                  x={b.x0 + b.w / 2}
+                  y={L.M.t - 40}
+                  text-anchor="middle"
+                  class="hs-rband-lab"
+                  style={`font-size:${f.size}px`}
+                >
+                  {f.text}
+                </text>
+              )}
+            </g>
+          );
+        })}
+        {ticks.map((t) => (
+          <g class="hs-grid">
+            <line
+              x1={L.x(t)}
+              x2={L.x(t)}
+              y1={L.M.t - 6}
+              y2={L.M.t + rows.length * rowH}
+            />
+            <text x={L.x(t)} y={L.M.t - 9} text-anchor="middle" class="hs-tick">
+              {t}
+              {unit}
+            </text>
+          </g>
+        ))}
+        {rows.map((r, i) => {
+          const cy = L.M.t + i * rowH + rowH / 2;
+          const f = fitText(r.label, L.lw - 14, 12, 10);
+          return (
+            <g class={`hs-row ${r.highlight ? 'is-hi' : ''}`} data-id={r.id}>
+              <text
+                x={L.M.l - 8}
+                y={cy + 4}
+                text-anchor="end"
+                class="hs-rowlab"
+                style={`font-size:${f.size}px`}
+              >
+                {f.text}
+                {r.flag ?? ''}
+              </text>
+              <rect
+                x={L.x(0)}
+                y={cy - (rowH - 9) / 2}
+                width={Math.max(1, L.x(r.v) - L.x(0))}
+                height={rowH - 9}
+                rx={3}
+                class="hs-bar"
+              >
+                <title>{`${r.label}${colon}${fmtV(r.v)}`}</title>
+              </rect>
+              <text x={L.x(r.v) + 6} y={cy + 4} class="hs-val">
+                {fmtV(r.v)}
+              </text>
+            </g>
+          );
+        })}
+        {refLine && (
+          <g class="hs-ref">
+            <line
+              x1={L.x(refLine.v)}
+              x2={L.x(refLine.v)}
+              y1={L.M.t - 6}
+              y2={L.M.t + rows.length * rowH}
+            />
+            <text x={L.x(refLine.v) + 4} y={L.M.t - 23} class="hs-ref-lab">
+              {refLine.label} {fmtV(refLine.v)}
+            </text>
+          </g>
+        )}
+      </svg>
+    ))
+  }
+  <table slot="table">
+    <thead>
+      <tr>
+        <th>{itemHeader}</th>
+        <th class="num">{valueHeader}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((r) => (
+          <tr>
+            <td>
+              {r.label}
+              {r.flag ?? ''}
+              {r.note && <small class="hs-note"> {r.note}</small>}
+            </td>
+            <td class="num">{fmtV(r.v)}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</FigureShell>

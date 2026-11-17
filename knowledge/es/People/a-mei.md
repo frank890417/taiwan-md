@@ -4,27 +4,27 @@ description: 'Nacida el 9 de agosto de 1972 en el pueblo Daba 69 de la localidad
 date: 2026-03-19
 category: 'People'
 tags:
-  - 'Música'
-  - 'Pueblos indígenas'
-  - 'Beinan'
-  - 'Reina'
-  - 'Derechos LGTBQ'
-  - 'Música pop'
+  [
+    'Música',
+    'Pueblos indígenas',
+    'Beinan',
+    'Reina',
+    'Derechos LGTBQ',
+    'Música pop',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從1996到2024的數字對比——121萬張首專到大巨蛋5場，數字本身說明了她的跨度。"
-#   whats_excluded: "各張專輯完整歌曲列表；商業代言清單；各演唱會場次細目"
-#   where_it_hedges: "張雨生發掘細節：各方說法略有出入，以維基百科為準；2023北京彩虹旗爭議另案記錄"
-translatedFrom: People/張惠妹.md
-sourceCommitSha: 0f8fae0a
-sourceContentHash: sha256:aebfe56ef8181ee0
-sourceBodyHash: sha256:2548692a01191648
-translatedAt: 2026-05-26T21:07:27Z
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/張惠妹.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:aebfe56ef8181ee0'
+sourceBodyHash: 'sha256:2548692a01191648'
+translatedAt: '2026-11-04T21:43:57.722126+00:00'
 ---
 
 # A-mei: Reina de la tribu Beinan, del álbum «Sisters» de 1996 a cinco conciertos en el Gran Estadio de 2024

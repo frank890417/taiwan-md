@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "1996년부터 2024년까지의 숫자 대비——121만 장 데뷔 앨범에서 타이베이 돔 5회 공연까지, 숫자 자체가 그녀의 스팬을 보여준다."
-#   whats_excluded: "각 앨범의 전체 곡 목록; 상업 광고 목록; 각 콘서트 회차 상세 내역"
-#   where_it_hedges: "장우생 발굴 세부 사항: 각 측의 설명에 약간의 차이가 있으며, 위키피디아를 기준으로 함; 2023년 베이징 무지개 깃발 논란은 별도 기록"
-translatedFrom: People/張惠妹.md
-sourceCommitSha: '0f8fae0a'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/張惠妹.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T21:39:51.379358+00:00'
 ---
 
 # 장혜미: 베이난족의 여왕, 1996년 《자매》에서 2024년 타이베이 돔 5회 공연까지

@@ -1,25 +1,26 @@
 ---
-title: 'Hsinchu: Die Bambusstadt von 1733, die Wiege von TSMC aus dem Jahr 1980'
-description: 'Im Jahr 1733 errichtete Xu Zhimin (徐治民) eine runde Erdburg in Zhuxian durch das Pflanzen von Bambus. Am 15. Dezember 1980 schnitt Chiang Ching-kuo (蔣經國) den roten Schleier für das erste Wissenschaftszentrum Taiwans.'
+title: 'Hsinchu Stadt: Von der 1733 mit Bambus befestigten Stadt Zhūqiàn zur Wiege von TSMC im Jahr 1980'
+description: 'Im Jahr 1733, im elften Jahr der Regierungszeit von Kaiser Yongzheng, pflanzte Xu Zhimin, der Beamte von Danshui, Bambus in der Umgebung und errichtete so eine kreisförmige Erdbefestigung mit einem Umfang von 1408 Metern. Im Jahr 1829 wurde die Steinmauer fertiggestellt; das Osttor, das Yingxi-Tor, steht noch heute am Stadtgraben. 247 Jahre später, am 15. Dezember 1980, schnitt Chiang Ching-kuo in nur fünf Kilometern Entfernung vom Yingxi-Tor das rote Band für Taiwans ersten Wissenschaftspark durch. Zwischen 1953 und 1974 starteten 148 Mitglieder der Black Bat Squadron von dieser „Stadt des Windes“ aus zu Aufklärungsflügen über dem chinesischen Festland und kehrten nie zurück. Diese Provinzhauptstadt mit 450.000 Einwohnern bildet das Rückgrat der Kalten Krieg-Frontlinie, beherbergt die älteste Stadtgründung im Norden, zwei Spitzenuniversitäten und ist der Ursprung von 90 % der weltweiten High-End-Halbleiterchips. Der Spitzname „Stadt des Windes“ klingt literarisch, doch tatsächlich sind alle Industrien in dieser Stadt mit dem Wind verbunden.'
 date: 2026-05-18
 category: 'Geography'
 tags:
   [
     'Hsinchu',
-    'Nordregion',
-    'Bambusstadt',
-    'Zhuxian',
+    'Hsinchu Stadt',
+    'Norden',
+    'Stadt des Windes',
+    'Zhūqiàn-Stadt',
     'Yingxi-Tor',
-    'Schwarze Fledermäuse',
+    'Black Bat Squadron',
     'Hsinchu Science Park',
     'TSMC',
-    'Stadtgods-Tempel',
-    'Mifen',
-    'Gongyuan',
-    'Glasherstellung',
-    'Tsinghua Universität',
-    'National Taiwan University',
-    '22 Bezirke',
+    'Chenghuang-Tempel',
+    'Reisnudeln',
+    'Kongwan-Bällchen',
+    'Glaskunst',
+    'Nationale Tsing Hua Universität',
+    'National Yang Ming Chiao Tung Universität',
+    'Serie der 22 Landkreise und Städte',
   ]
 subcategory: '縣市'
 author: 'Taiwan.md Contributors'
@@ -34,10 +35,10 @@ imageCredit: 'Jiang / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-08T00:42:59+08:00'
+translatedAt: '2026-11-03T17:51:29.345345+00:00'
 ---
 
 # Hsinchu: Die Bambusstadt von 1733, die Wiege von TSMC aus dem Jahr 1980
@@ -201,19 +202,19 @@ Aus Sicht des Zentralmassivs ist Hsinchu die letzte Rampe, auf der der Nordostmo
 
 Wenn Sie das nächste Mal nach Hsinchu kommen, schauen Sie nicht nur in den Park auf die Chipfabriken. Stehen Sie morgens um sechs Uhr vor dem Yingxi-Tor und spüren Sie den Wind. Dann werden Sie sich an eine Sache erinnern: **Die Schichten, die diese Stadt trägt, gehen weit über das Wort „Technostadt“ hinaus.** Es ist eine im Jahr 1733 gepflanzte Stadt, die durch den Wind 293 Jahre lang lebte und immer noch vom Wind getrieben wird.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Keelung City](/de/geography/keelung-city) — Pilot der Serie „22 Bezirke“: Die Erinnerung an die Hafenstadt von 1626, als Spanier die Flagge hissten, bis zum größten Containerhafen der Welt im Jahr 1984, hat wie Hsinchu auch eine Basis des Kalten Krieges (Keelung Peace Island vs. Hsinchu Air Force) und ein Schicksal als Kreisstadt.
-- [Chiayi City](/de/geography/chiayi-city) — Serie „22 Bezirke“: Eine Kreisstadt, die ebenfalls durch die Verlagerung der Verwaltung von der Provinz getrennt wurde (Verlagerung des Chiayi County nach Taibao im Jahr 1991 vs. Verlagerung des Hsinchu County nach Zhubei im Jahr 1989), ein Vergleich der Folgen der Kreis- und Bezirksaufteilung.
-- [Miaoli County](/de/geography/miaoli-county) — Serie „22 Bezirke“: Ein Nachbarbezirk, der 1887 vom Hsinchu County abgetrennt wurde; die Parks von Zhuke Long und Dongla liegen in Miaoli, was zu einem industriellen Überlauf aus Hsinchu führte.
-- [Nantou County](/de/geography/nantou-county) — Serie „22 Bezirke“: Der einzige Bezirk ohne Zugang zum Meer, mit einer ähnlichen geografischen Struktur wie Hsinchu („Größe $\neq$ Bedeutung“; Nantou stützt das gesamte Gebirgsmassiv / Hsinchu stützt das gesamte Halbleiterzentrum).
-- [Taoyuan City](/de/geography/taoyuan-city) — Der Nachbar von Hsinchu im Norden, der ursprünglich 1973 bei der Gründung des Industrial Research Institute in Longtan, Taoyuan, berücksichtigt wurde; der Park Zhuke Long liegt zwischen Taoyuan und Hsinchu.
-- [Hsinchu County](/de/geography/hsinchu-county) — Die Nachbarstadt von Baoshan, die 1982 vom Hsinchu City getrennt wurde und im Jahr 1989 das Zentrum nach Zhubei verlegte.
-- [Taiwanesische Halbleiterindustrie](/technology/台灣半導體產業) — Die vollständige Industriegeschichte von 1973 (Industrial Research Institute) bis 2025 (TSMC 2 nm), wobei Hsinchu der physische Koordinatenpunkt aller Zeitachsen ist.
-- [TSMC](/companies/台積電) — Gegründet im Hsinchu Science Park 1987, begann die Massenproduktion des 2-nm-Prozesses in Baoshan im vierten Quartal 2025.
-- [Taiwan im Kalten Krieg](/history/冷戰時期的台灣) — Die Geschichte der Aufklärungsmissionen der Schwarzen und Schwarzer Fledermäuse; das Hsinchu Air Force Base ist der Mittelpunkt dieser Geschichte.
-- [Taiwanesischer Wissenschaftspark](/geography/台灣科學園區) — Die vollständige Geschichte des Science Parks von 1980 (Hsinchu), 1996 (Nan Kho), 2003 (Medintech) und 2025 (Kaohsiung Mega Park).
-- [Ji'long Zhongyuan Festival](/culture/雞籠中元祭) — Gehört zum lokalen Glaubenssystem der Qing-Dynastie wie der Stadtgods-Tempel von Hsinchu; ein Vergleich der Zeremonien zur „Aufnahme der Toten“ (Keelung nimmt 1884 französische Tote auf / Stadtgods-Tempel von Hsinchu verwaltet alle Geister auf Taiwan).
+- [Keelung](/de/geography/keelung-city) — Pilotprojekt der Serie „22 Landkreise und Städte“: Erinnerungen an eine Hafenstadt, deren Geschichte von der spanischen Flaggenbesteckung im Jahr 1626 bis zum siebtgrößten Containerhafen der Welt im Jahr 1984 reicht; ähnlich wie Hsinchu besaß sie eine Bedeutung als Vorposten des Kalten Krieges (Keelung Paomaohu vs. Hsinchu Air Force Base) und teilte das Schicksal einer unter der Provinzverwaltung stehenden Stadt.
+- [Chiayi](/de/geography/chiayi-city) — Serie „22 Landkreise und Städte“: Ebenfalls eine ehemals unter Provinzverwaltung stehende Stadt, die durch die Verlegung des Verwaltungssitzes geteilt wurde (Verlegung des Sitzes des Landkreises Chiayi nach Taibao im Jahr 1991 vs. Verlegung des Sitzes des Landkreises Hsinchu nach Zhubei im Jahr 1989); ein Vergleich der Folgen einer administrativen Teilung von Landkreisen und Städten.
+- [Miaoli](/de/geography/miaoli-county) — Serie „22 Landkreise und Städte“: Ein Nachbarlandkreis, der 1887 aus dem Landkreis Hsinchu ausgegliedert wurde; die Hsinchu Science Park Zonen Houlong und Tongluo befinden sich in Miaoli – ein Beispiel für das industrielle Überlaufen aus Hsinchu.
+- [Nantou](/de/geography/nantou-county) — Serie „22 Landkreise und Städte“: Der einzige Landkreis ohne Meereszugang; ähnlich wie Hsinchu weist er eine geografische Struktur auf, bei der „Größe ≠ Bedeutung“ gilt (Nantou stützt das gesamte Gebirgssystem Zentraltaiwans / Hsinchu stützt das gesamte Halbleiter-Cluster).
+- [Taoyuan](/de/geography/taoyuan-city) — Der nördliche Nachbar von Hsinchu; als das ITRI 1973 gegründet wurde, war Taoyuan Longtan ursprünglich als Standort in Betracht gezogen worden, bevor man sich für Hsinchu entschied; die Hsinchu Science Park Zone Longtan erstreckt sich über die Grenze zwischen Taoyuan und Hsinchu.
+- [Landkreis Hsinchu](/de/geography/hsinchu-county) — 1982 als eigenständiger Landkreis von der Stadt Hsinchu abgespalten, mit Verlegung des Verwaltungssitzes nach Zhubei im Jahr 1989; der Nachbarlandkreis, in dessen Nähe sich die TSMC 2-nm-Fabrik in Baoshan befindet.
+- [Taiwans Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die vollständige Industriegeschichte vom ITRI (1973) bis zum TSMC 2-nm-Prozess (2025); Hsinchu bildet dabei den physischen Koordinatenpunkt für alle Zeitachsen.
+- [TSMC](/de/economy/tsmc) — 1987 im Hsinchu Science Park gegründet; die Massenproduktion des 2-nm-Prozesses wird im vierten Quartal 2025 in der Fabrik in Baoshan aufgenommen.
+- [Taiwan während des Kalten Krieges](/history/冷戰時期的台灣) — Die Geschichte der Aufklärungsmissionen der „Black Bat Squadron“ und der „Black Cat Squadron“; der Luftwaffenstützpunkt Hsinchu war das Zentrum dieser Ära.
+- [Science Parks in Taiwan](/de/technology/science-park-development) — Die vollständige Geschichte der Science Parks: von Hsinchu (1980) über den Southern Taiwan Science Park (1996) und den Central Taiwan Science Park (2003) bis hin zum riesigen Industriepark in Kaohsiung (2025).
+- [Keelung Zhongyuan-Fest](/culture/雞籠中元祭) — Gehört, genau wie der Stadtgott-Tempel von Hsinchu, zum lokalen Glaubenssystem der Qing-Dynastie; ein Vergleich zweier Rituale zur „Beherbergung der Toten“ (Keelung empfing die Seelen der französischen Truppen von 1884 / der Hsinchu Stadtgott-Tempel verwaltet die Geister in ganz Taiwan).
 
 ## Bildquellen
 

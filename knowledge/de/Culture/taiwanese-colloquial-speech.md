@@ -1,133 +1,127 @@
 ---
-title: 'Taiwanischer Alltagsjargon: Von „nicht schlimm“ bis „D klingt wie Schwein“ – Wie Alltagssprache Identität formt'
-description: 'In Taiwan kann „nicht schlimm“ schon vor einer echten Entschuldigung stehen; „haha“ (蛤) mag wie Missverständnis klingen, ist aber ein universelles Reparaturmittel im Gespräch; @ wird als „kleine Maus“ (小老鼠) bezeichnet, und D wird beim Austausch von Prüfungszetteln als „Schwein/ Zhu“ (豬/朱) ausgesprochen. Diese vier Alltagsausdrücke verpacken Höflichkeit, Missverständnisse, E-Mail-Kultur und taiwanesische Phonologie in den Alltag – und zeigen: Taiwanesische Aussprache ist nicht nur ein Dialekt, sondern eine soziale Erkennungsmethode.'
-category: 'Culture'
-subcategory: '語言與文字'
-tags:
-  [
-    'Taiwanesisches Chinesisch',
-    'Sprachgebrauch',
-    'Taiwanesisch',
-    'E-Mail',
-    'Campus-Kultur',
-  ]
-author: 'Taiwan.md Contributors'
+title: 'Taiwans gesprochene Codes: Von „Bùhǎoyìsi“ bis „D als Schwein gelesen“ – wie vier Alltagsausdrücke Identität wachsen lassen'
+description: 'In Taiwan kann „Bùhǎoyìsi“ einer echten Entschuldigung vorausgehen; „Há“ wirkt wie Nicht-Verstehen, ist aber ein sprachübergreifender Reparaturmechanismus im Gespräch; @ heisst „kleine Maus“, und D wird beim Austauschen von Prüfungsbögen als „Schwein/Zhu“ ausgesprochen. Vier Ausdrücke verstecken Höflichkeit, Missverständnis, E-Mail und taiwanesische Phonologie im Alltag und erinnern daran: Der sogenannte Taiwan-Akzent ist nicht nur ein Aussprachesystem, sondern eine Erkennungsmethode, die Menschen hinterlassen, die zusammen leben.'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags:
+  ['Taiwan-Mandarin', 'Pragmatik', 'Taiwanesisch', 'E-Mail', 'Campus-Kultur']
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-05T08:50:56+08:00'
 ---
 
-> **30-Sekunden-Überblick:** In Taiwan bedeutet ein „nicht schlimm“ nicht unbedingt, dass etwas Schlimmes passiert ist – es kann einfach nur ein Höflichkeitsflüstern sein, ein Hindurchlassen, eine Anfrage oder eine Möglichkeit, das Gespräch zu öffnen. Eine 2022er Studie mit 90 Studenten der Nationalen Taiwan University fand heraus, dass „nicht schlimm“ häufiger in alltäglichen oder nur geringfügig beleidigenden Situationen verwendet wird als „entschuldige“ (對不起).[^1] Auch ein lautes „haha“ (蛤) ist nicht typisch taiwanisch, sondern ein universelles menschliches Mittel, um Missverständnisse zu reparieren. In Taiwan wird @ als „kleine Maus“ (小老鼠) bezeichnet, und D wird beim Prüfungszettelaustausch als „Schwein/Zhu“ (豬/朱) ausgesprochen.[^2] [^3] [^4] Diese vier Phänomene zeigen gemeinsam: Sprache dient nicht nur der Informationsübertragung, sondern auch der sozialen Distanzregulation, der Gruppenzugehörigkeit und der schnellen Klärung von Missverständnissen.
+> **30-Sekunden-Überblick:** In Taiwan bedeutet ein Satz „Bùhǎoyìsi“ (不好意思) nicht unbedingt, dass ein grosser Fehler begangen wurde; es kann einfach darum gehen, vorbeizukommen, das Wort zu ergreifen oder das Gespräch anzunähern. Eine 2022 durchgeführte Studie mit 90 Studierenden der Nationalen Taiwan-Universität (NTU) ergab, dass es häufiger in Situationen allgemeinen oder eher geringen Schweregrads vorkommt als „Duìbuqǐ“ (對不起). [^1] Ein „Há“ (蛤) ist auch kein exklusiv taiwanesischer Laut, sondern ein kurzer Satz, den Menschen aktivieren, um eine Reparatur einzuleiten, wenn sie etwas nicht deutlich gehört haben. Taiwan nennt @ auch „kleine Maus“ (小老鼠) und spricht D beim Austauschen von Prüfungsbögen als „Schwein/Zhu“ (豬/朱) aus. [^2] [^3] [^4] Diese vier Ausdrucksweisen weisen gemeinsam auf eine Sache hin: Sprache übermittelt nicht nur Inhalte, sondern hilft Menschen auch, Distanz zu managen, Gefährten zu erkennen und Erklärungszeit zu verkürzen.
 
-2022 untersuchte die taiwanesische Sprachwissenschaftlerin Chiu Chi-erh (邱吉兒) von der Nationalen Taiwan University, wie 90 Studenten in verschiedenen Situationen zwischen „entsschuldige“ (對不起), „es tut mir leid“ (抱歉) und „nicht schlimm“ (不好意思) wählen. Das Ergebnis war alltäglich, aber nicht intuitiv: „nicht schlimm“ ist selten die stärkste Entschuldigung, sondern erscheint oft in Situationen mit geringerer Beleidigung oder gar keiner. [^1]
+2022 legte die NTU-Forscherin für Chinesischunterricht, Qiu Jier, 90 Fragebögen zusammen und fragte die Probanden, ob sie in verschiedenen Situationen „Duìbuqǐ“ (對不起), „Bàoqiàn“ (抱歉) oder „Bùhǎoyìsi“ (不好意思) wählen würden. Sie erhielt ein Ergebnis, das dem Alltag sehr ähnelt, aber nicht ganz der Intuition entspricht: „Bùhǎoyìsi“ ist meist nicht die schwerste Entschuldigung, sondern tritt häufiger in Situationen allgemeinen oder eher geringen Schweregrads auf. [^1]
 
-Du sagst „nicht schlimm“ vor der U-Bahn-Tür, antwortest mit einem „haha“ (蛤) im Telefonat, schreibst „kleine Maus“ in eine E-Mail und sprichst D beim Prüfungszettelaustausch als „Schwein“ aus. Diese Ausdrücke scheinen keine gemeinsame Geschichte zu teilen. Einer klingt wie eine Entschuldigung, einer wie ein Missverständnis, einer ist ein Symbol-Spitzname und einer klingt wie ein Ausspruchsfehler. Wenn man sie jedoch zusammenbetrachtet, erkennt man: Taiwanesische Alltagssprache tut ständig dasselbe – mit dem kürzesten Laut regelt sie soziale Distanz, Missverständnisse und Identität.
+Wenn Sie vor der MRT-Tür „Bùhǎoyìsi“ sagen, am Telefon ein „Há“ erwidern, beim Ausfüllen einer E-Mail „kleine Maus“ sagen und beim Austauschen von Prüfungsbögen D als „Schwein“ aussprechen – diese Äusserungen scheinen keine gemeinsame Geschichte zu haben. Eine wirkt wie eine Entschuldigung, eine wie ein Missverständnis, eine ist ein Spitzname für ein Symbol, eine wie ein Aussprachefehler. Betrachtet man sie zusammen, stellt man fest, dass taiwanesische Umgangssprache oft dasselbe tut: mit den kürzesten Lauten Distanz, Missverständnisse und Identität zwischen Menschen zu regeln.
 
-## „Nicht schlimm“ reguliert zuerst die Distanz, dann die Entschuldigung
+## „Bùhǎoyìsi“ regelt zuerst Distanz, dann Entschuldigung
 
-„Entschuldige“ (對不起) legt die Verantwortung beim Sprecher. „Es tut mir leid“ (抱歉) räumt ein, dass etwas schiefgelaufen ist. „Nicht schlimm“ (不好意思) hingegen ist wie ein Puffer zwischen zwei Personen. Es kann auftreten, wenn man jemandem wirklich im Weg ist, aber auch vor „könnten Sie mich bitte fragen“, „entschuldigen Sie“ oder „könnten Sie mir helfen?“.
+„Duìbuqǐ“ legt die Verantwortung meist auf den Sprechenden. „Bàoqiàn“ räumt ein, dass etwas Unannehmlichkeiten verursacht hat. „Bùhǎoyìsi“ wirkt eher so, als ob man zuerst für beide Seiten einen kleinen Pufferbereich schafft. Es kann vorkommen, wenn man wirklich jemanden angerempelt hat, aber auch vor „Entschuldigen Sie“, „Darf ich vorbeikommen?“ oder „Könnten Sie mir einen Gefallen tun?“.
 
-Chius Studie richtete sich an Studenten im Alter von 18 bis 25 Jahren, sammelte 90 Fragebögen und untersuchte, wie Geschlecht, Nähe, gesellschaftlicher Status, Schwere des Vergehens und Art des Vergehens die Wahl der Entschuldigung beeinflussen. Die Ergebnisse zeigen, dass diese drei Begriffe nicht einfach austauschbar sind. Nähe und Schwere des Vergehens verändern die Situation: „Entschuldige“ erscheint oft in schwersten Fällen, „es tut mir leid“ eher in mittleren oder schwereren Situationen, während „nicht schlimm“ häufiger in mittleren oder leichten Situationen verwendet wird.[^1]
+Qiu Jiers Studie nahm Studierende der NTU im Alter von 18 bis 25 Jahren zum Gegenstand, sammelte 90 Fragebögen und beobachtete, wie Geschlecht, Vertrautheitsgrad, sozialer Status, Schweregrad der Beleidigung und Art der Beleidigung die Wahl der Entschuldigung beeinflussen. Die Ergebnisse zeigten, dass die Verwendung der drei Wörter nicht bloss ein Austausch von Synonymen ist. Vertrautheitsgrad und Schweregrad der Beleidigung veränderten die Beurteilung der Situation durch die Menschen: „Duìbuqǐ“ trat häufiger bei höchstem Schweregrad auf, „Bàoqiàn“ tendenziell bei allgemeinem oder eher hohem, „Bùhǎoyìsi“ hingegen bei allgemeinem oder eher niedrigem Schweregrad. [^1]
 
-Dieses Muster erklärt, warum „nicht schlimm“ vom eigentlichen Entschuldigungssatz zum Gesprächseinstieg werden kann. Der Sprecher muss nicht unbedingt etwas falsch gemacht haben, aber er erkennt an, dass seine Anwesenheit möglicherweise die Zeit des Gegenübers stört. Dieser Satz verpackt eine Bitte in Höflichkeit und verteilt den Druck der Ablehnung. Wenn der Gegenparte zustimmt, geht es weiter. Wenn nicht, muss er keine schwere Entschuldigung aussprechen.
+> 📝 **Kuratorennotiz:** Taiwaner entschuldigen sich nicht nur häufiger, sondern haben Entschuldigungswörter zu einer Art drehbarem Türgriff umgeformt. Er kann Menschen in ein Gespräch hineinziehen, aber auch aus einer peinlichen Situation herausführen.
 
-> 📝 **Hinweis des Redakteurs:** Taiwanesen entschuldigen sich nicht nur häufiger – sie verwandeln Entschuldigungen in eine drehbare Tür. Sie kann jemanden hereinführen oder ihn aus peinlicher Situation herausführen.
+Das ist auch der Grund, warum die Übersetzung von „Bùhǎoyìsi“ als einziges „sorry“ einen Teil der Bedeutung verliert. Die Studie weist darauf hin, dass taiwanesische Probanden es in Situationen geringeren oder allgemeinen Schweregrads einsetzten, was nicht bedeutet, dass dieser Satz unhöflich wäre. Im Gegenteil, seine Kraft liegt gerade darin, dass nicht jede kleine Störung zu einem grossen Ereignis aufgewertet werden muss. [^1]
 
-Das ist auch der Grund, warum eine Übersetzung von „nicht schlimm“ durch ein einfaches „sorry“ im Deutschen einen Teil seiner Bedeutung verliert. Studien zeigen, dass taiwanesische Probanden diesen Ausdruck oft in Situationen mit niedrigerer oder mittlerer Schwere verwenden – nicht, weil er weniger höflich wäre. Im Gegenteil: Seine Stärke liegt gerade darin, dass nicht jede kleine Störung zu einem großen Ereignis hochgestochen werden muss.[^1]
+Wenn eine Gesellschaft „Bùhǎoyìsi“ an die Grenzen von Vorbeikommen, Wegfragen, Bitten, Ablehnen und Danken stellt, hört dieses Wort auf, nur Emotionen zu beschreiben. Es beginnt, die Distanz von Beziehungen zu managen. Wer es ausspricht, setzt sich selbst ein wenig herab; wer es hört, erhält einen Einstieg, um zu antworten.
 
-Wenn eine Gesellschaft „nicht schlimm“ an die Grenzen von Durchgehen, Fragen, Bitten, Absagen und Dankbarkeit stellt, wird dieses Wort nicht mehr nur eine Emotion beschreiben. Es beginnt, soziale Distanz zu regulieren. Derjenige, der es sagt, macht sich selbst klein; derjenige, der es hört, bekommt eine Türöffnung für eine Antwort.
+## „Há“ ist kein taiwanesisches Patent, aber Taiwans vertrauteste Reparaturtaste
 
-## „Haha“ (蛤) ist kein taiwanisches Geheimnis – aber das geläufigste Reparaturmittel
+Das vom Bildungsministerium herausgegebene „Überarbeitete Mandarin-Chinesisch-Wörterbuch“ (重編國語辭典修訂本) führt für „Há“ (蛤) die Aussprachen ㄍㄜˊ und ㄏㄚˊ auf; die Definitionen verweisen hauptsächlich auf Venusmuscheln (蛤蜊), Venusmuscheln (文蛤) und Kröten (蛤蟆). Es als „Há?“ zu schreiben, den Laut zu dehnen oder mit überraschtem Ton „Há!“ zu sagen, ist ein weiterer lebendiger Pfad in der mündlichen Interaktion. [^2]
 
-Das amtliche Wörterbuch der Ministerium des Bildungswesens (《重編國語辭典修訂本》) listet die Aussprache von „haha“ (蛤) als ㄍㄜˊ und ㄏㄚˊ auf, wobei der Hauptbedeutung auf Klafter, Venusmuschel und Frosch zeigt. Wenn man es als „haha?“ schreibt, die Stimme streckt oder es mit einem Ausdruck der Überraschung sagt: „haha!“, dann ist es ein lebendiger Teil der mündlichen Interaktion.[^2]
+2013 setzte eine sprachübergreifende Studie das englische „huh?“ in die Konversationsanalyse ein. Die Forschenden nannten solche Kurzlaute „repair initiator“, also „Reparaturinitiatoren“. Wenn Zuhörende etwas nicht deutlich gehört, nicht verstanden haben oder benötigen, dass die Gegenüber den vorherigen Satz neu strukturieren, müssen sie nicht erst eine vollständige Frage stellen. Ein kurzes „huh?“ genügt, um den Ball zurückzuspielen und den Sprechenden aufzufordern, diesen Gesprächsteil zu reparieren. Die Studie beobachtete in mehreren Sprachen ähnliche Formen und Funktionen. [^3]
 
-2013 veröffentlichte eine interdisziplinäre Studie eine Analyse des englischen „huh?“ im Gespräch. Die Forscher nannten solche kurzen Laute „repair initiators“ – also Reparaturstarter. Wenn ein Zuhörer etwas nicht verstanden hat, eine Frage stellen möchte oder den Sprecher bittet, etwas umzuformulieren, braucht er keine vollständige Frage. Ein einfaches „huh?“ reicht aus, um den Ball zurückzuspielen und den Sprecher zu bitten, die Aussage zu korrigieren. Ähnliche Formen und Funktionen wurden in vielen Sprachen beobachtet.[^3]
+Diese Entdeckung macht „Há“ erst recht interessant. Es ist kein exklusiver geheimer Code der Taiwaner. Sobald Menschen gemeinsam sprechen, brauchen sie einen kostengünstigen Laut, der anzeigt: „Der eben ist nicht erfolgreich angekommen.“ Der taiwanesische Alltag hat diesen Laut in eine feste Schriftform gebracht, sodass er in Chatnachrichten, Memes, Untertiteln und mündlichem Unterricht auftauchen kann.
 
-Dieses Erkenntnis macht „haha“ (蛤) noch interessanter. Es ist kein geheimes taiwanisches Rätsel. Jeder, der spricht, braucht irgendwann einen geringen Aufwand, um zu sagen: „Das letzte hat nicht funktioniert.“ Taiwanesische Alltagssprache schreibt diesen Laut einfach als feste Schreibweise, sodass er in Chats, Memes, Untertiteln und Sprachunterricht erscheinen kann.
+„Há?“ kann echtes Nicht-Verstanden-Haben sein. „Há!“ kann Überraschung ausdrücken. „Há……“ kann Unverständnis in ein wenig Ratlosigkeit verwandeln. Das Zeichen wechselt nicht, aber Tonlage, Länge und Interpunktion justieren die Beziehung neu. Es ist nicht wie ein vollständiges „Bitte sagen Sie das noch einmal“, auch nicht wie ein direkter Widerspruch. Es setzt das Verstehen erst einmal aus und lässt die Gegenüber entscheiden, ob sie wiederholen, erklären oder zugeben, dass sie eben undeutlich gesprochen haben.
 
-„Haha?“ (蛤?) kann bedeuten, dass man etwas nicht gehört hat. „Haha!“ (蛤!) drückt Überraschung aus. „Haha...“ (蛤……) kann Unverständnis in Resignation verwandeln. Das Wort bleibt gleich, aber Ton, Länge und Interpunktion justieren die Bedeutung neu. Es ist weder so klar wie „können Sie das nochmal wiederholen?“ noch so direkt wie ein Widerspruch. Es pausiert das Verständnis, und der Gegenüber entscheidet, ob er wiederholt, erklärt oder zugibt, dass er unklar war.
+> 📝 **Kuratorennotiz:** Das am meisten „taiwanesische“ an „Há“ liegt nicht darin, dass es nur Taiwan gehört, sondern darin, dass Taiwaner den von der ganzen Menschheit benötigten Reparaturlaut zu einem Zeichen geschliffen haben, bei dem jeder beim Hören sofort weiss, wie er darauf reagieren soll.
 
-> 📝 **Hinweis des Redakteurs:** Das typisch taiwanische an „haha“ (蛤) liegt nicht darin, dass es nur in Taiwan verwendet wird, sondern dass Taiwanesen dieses universelle Reparaturgeräusch in ein Wort verpacken, das jeder sofort versteht.
+„Há“ erinnert auch daran, dass man mündliche Kultur nicht nur im Wörterbuch suchen kann. Wörterbücher verzeichnen Standardaussprache und Wortbedeutung; Interaktion lässt ein Zeichen neue Arbeit wachsen. Wenn „Há“ am Satzanfang steht, tut es etwas, das eher einem Knopf ähnelt als einem Wörterbucheintrag: man drückt ihn, und die Gegenüber muss das eben Gesagte neu zusammenbauen.
 
-„Haha“ (蛤) erinnert uns auch daran, dass mündliche Kultur nicht nur im Wörterbuch zu finden ist. Wörterbücher dokumentieren Standardaussprache und Bedeutungen, aber Interaktionen lassen ein Wort neue Aufgaben übernehmen. Wenn „haha“ (蛤) am Satzanfang erscheint, tut es vielleicht mehr als nur das, was im Wörterbuch steht – es ist eher wie eine Schaltfläche: Drücke sie, und der Gegenüber muss die letzte Aussage neu zusammenstellen.
+## @ wird zur „kleinen Maus“, damit das technische Zeichen ins Klassenzimmer kommt
 
-## @ wird zur „kleinen Maus“ – Wie Technik in den Klassenraum kommt
+![Öffentliches-Domain-SVG des @-Zeichens, symbolisiert, wie technische Zeichen in Taiwan den Namen „kleine Maus“ erhalten](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-![Öffentliches Domain-SVG des @-Zeichens, Symbol für Technik, die in Taiwan einen Namen bekommt](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+_Bildquelle: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Public Domain. Das Bild wird nur per externer Hotlink-URL eingebettet._
 
-_Quelle: Wikimedia Commons: At sign.svg, Public Domain. Bild nur über externen Link eingebettet._
+Im E-Mail-Format von RFC 5322 hat @ eine sehr präzise Aufgabe. Es trennt den local-part vom Internet domain; davor liegt ein Teil des Benutzernamens, dahinter ein Teil der Domain. Das Standarddokument bezeichnet es als at-sign und definiert es als ASCII-Wert 64. [^4]
 
-Im RFC 5322-Format für E-Mails hat @ eine klare Rolle. Es trennt den lokalen Teil (local-part) vom Internet-Domänenname (domain). Der lokale Teil ist der Benutzername, der Domänenname ist die E-Mail-Adresse. Die Norm nennt es „at-sign“ und definiert es als ASCII-Wert 64.[^4]
+Ingenieure brauchen ein Trennzeichen. Kinder in der Schule brauchen etwas, das sie sich merken können. Als die BBC Chinese zusammenstellte, wie verschiedene Sprachen @ nennen, führte sie Taiwans „kleine Maus“, Chinas Festlands „Kreis A“ sowie Italiens Schnecke, Griechenlands kleine Ente und weitere Bezeichnungen auf. Die technische Funktion des Zeichens ist dieselbe, doch das kulturelle Gedächtnis hat ihm jeweils eine eigene Form gegeben. [^5]
 
-Ingenieuren braucht ein Trennzeichen. In Schulen brauchen Kinder etwas, das sie sich merken können. BBC Chinese hat bei der Sammlung verschiedener Bezeichnungen für @ in verschiedenen Sprachen Taiwan als „kleine Maus“ (小老鼠), China als „Kreis A“ (圈 A) und Italien als Schnecke, Griechenland als Entchen usw. aufgeführt. Das Symbol hat dieselbe technische Funktion, aber jede Kultur hat ihm eine Form gegeben.[^5]
+Ray Tomlinson fügte 1971 @ in das Format von Netzwerk-E-Mail-Adressen ein und machte dieses ursprünglich in allgemeinen Texten selten vorkommende Zeichen zur Brücke zwischen Benutzername und Domain. [^5] [^6] Taiwaner nannten es später „kleine Maus“ – nicht um den RFC zu ändern, noch um dem Zeichen einen formalen Standard hinzuzufügen. Es ist eine pädagogische Methode, ein abstraktes Werkzeug in ein vertrautes Tier zu übersetzen.
 
-Ray Tomlinson brachte @ 1971 in das Format von E-Mail-Adressen ein, wodurch dieses Zeichen, das zuvor selten in Texten vorkam, zur Brücke zwischen Benutzername und Domäne wurde.[^5] [^6] Taiwanesen nannten es später „kleine Maus“ (小老鼠) – nicht, um den RFC zu ändern oder dem Symbol eine offizielle Definition hinzuzufügen. Es ist eine Methode, ein abstraktes Werkzeug in ein vertrautes Tier zu übersetzen.
+![Bopomofo- und lateinische Buchstabenbelegung auf taiwanesischer Tastatur](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-![Taiwanesische Tastatur mit Zhuyin- und lateinischen Buchstaben](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+_Bildquelle: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), Autor Zhongzheng North Road 711, unter CC BY-SA 3.0. Das Bild wird nur per externer Hotlink-URL eingebettet; bei Verwendung sind Namensnennung und Lizenzlink beizubehalten._
 
-_Quelle: Wikimedia Commons: Taiwan keyboard.png, Autor: Zhongzheng Road 711, lizenziert unter CC BY-SA 3.0. Bild nur über externen Link eingebettet, Namensnennung und Lizenzlink beibehalten._
+Das Interessante an „kleiner Maus“ ist, dass es das haptische Erlebnis früher Computerausbildung bewahrt. Kinder müssen nicht erst Domain, Benutzername und Netzwerkprotokolle verstehen; sobald sie sich den mausähnlichen Kreis merken, finden sie ihn auf der Tastatur. Der erste Schritt, mit dem Technik in den Alltag eintritt, ist oft nicht das Verstehen des ganzen Systems, sondern das Finden eines benennbaren Namens für ein fremdes Zeichen.
 
-Das Besondere an „kleiner Maus“ (小老鼠) ist, dass es das Gefühl der frühen Computerbildung bewahrt. Kinder müssen nicht zuerst Domänen, Benutzernamen und Netzprotokolle verstehen – sie müssen sich nur an das mausähnliche Kreiszeichen erinnern, um es auf der Tastatur zu finden. Der erste Schritt, Technik in den Alltag zu integrieren, ist selten das Verständnis des gesamten Systems, sondern das Finden eines vertrauten Namens für ein fremdes Symbol.
+Dieser Name hinterlässt auch Generationsunterschiede. Wer mit frühem E-Mail-Unterricht vertraut ist, sagt „Bitte schicken an kleine Maus“, und Mitschüler finden @ sofort. Wer das Netz später kennengelernt hat, sagt vielleicht häufiger „at“ oder liest die ganze Adresse vor. Beide Arten erledigen die Aufgabe, aber die erste trägt ein Stück taiwanesischer Schul- und häuslicher Computerunterrichts-Erinnerung mit sich.
 
-Dieser Name erzeugt auch generationelle Unterschiede. Diejenigen, die früh mit E-Mail aufwuchsen, sagen „schicke es an die kleine Maus“ (小老鼠), und ihre Kommilitonen wissen sofort, wo @ ist. Diejenigen, die später mit dem Internet in Kontakt kamen, sagen eher „at“ oder lesen die ganze Adresse vor. Beide Methoden funktionieren, aber die erste trägt die Erinnerung an taiwanesische Klassenzimmer und Familiencomputerunterricht in sich.
+## Warum D zu „Schwein“ oder „Zhu“ wird
 
-## Warum D als „Schwein“ oder „Zhu“ (豬) ausgesprochen wird
+Das vom Bildungsministerium herausgegebene „Wörterbuch häufig verwendeter taiwanesischer Wörter“ (臺灣台語常用詞辭典) führt „Schwein“ (豬) als ti/tu auf. Dieses ti in der taiwanesischen Lesung lässt die Aussprache des englischen Buchstabens D in Teilen der taiwanesischen Campus-Umgangssprache einen nahen chinesischen Anknüpfungspunkt finden. [^7]
 
-Das amtliche Wörterbuch der taiwanesischen Alltagssprache des Ministeriums des Bildungswesens listet „Schwein“ (豬) unter ti/tu auf. Diese taiwanesische Lautschrift ti passt zur Aussprache des lateinischen Buchstaben D in einigen taiwanesischen Dialekten.[^7]
+Ein 2020er Bericht von SETN (三立新聞), der PTT-Diskussionen zusammenfasste, erwähnte, dass beim Austauschen und Korrigieren von Prüfungsbögen nach Oberschulprüfungen manche D als „Schwein“ aussprachen, um B und D leichter zu unterscheiden. Derselbe Bericht führte auch die formelle englische Aussprache, „Delta“ sowie weitere Unterscheidungsweisen für B und D auf. Das zeigt, dass es sich um eine in Teilen von Campus und Netzwerkdiskussionen zirkulierende Erkennungstechnik handelt, nicht um die Standardaussprache des Englischunterrichts, und man nicht schliessen kann, alle Taiwaner sprächen so. [^8]
 
-Ein 2020er Artikel von Sanli News aggregierte Diskussionen auf PTT und erwähnte, dass nach Prüfungen, wenn Zettel ausgetauscht wurden, manche Schüler D als „Schwein“ (豬) aussprachen, um es von B besser unterscheiden zu können. Derselbe Artikel listete auch die formelle englische Aussprache Delta sowie andere Methoden zur Unterscheidung von B und D auf. Das zeigt, dass es sich um eine in bestimmten Schulen und Online-Diskussionen verbreitete Erkennungstechnik handelt – nicht um die offizielle englische Aussprache, und man kann nicht ableiten, dass alle Taiwanesen das so machen.[^8]
+„Zhu“ (朱) wirkt eher wie eine bequeme Schreibweise, mit der Zuhörende diesen Laut in Mandarin-Chinesischen Schriftzeichen festhalten. Will man es präziser formulieren: In der taiwanesischen Umgangssprache sprechen manche D als dem taiwanesischen „Schwein“ (豬) ähnlichen Laut aus und notieren ihn dann mit „Schwein“ oder „Zhu“. Dieser Unterschied ist klein, zeigt aber gerade, dass Mündlichkeit und Schrift nicht immer synchron sind. Der Laut zirkuliert zuerst im Klassenzimmer; die chinesischen Zeichen liefern nachträglich eine lesbare Hülle.
 
-„Zhu“ (朱) ist eher eine bequeme Schreibweise, mit der Zuhörer diesen Laut im Nationalchinesischen festhalten. Um es genauer zu sagen: In der taiwanesischen Alltagssprache gibt es Menschen, die D wie das taiwanesische „Schwein“ (豬) aussprechen, und notieren es dann als „Schwein“ oder „Zhu“. Dieser Unterschied ist klein, aber er zeigt, dass mündliche Sprache und schriftliche Sprache nicht immer synchron sind. Der Laut verbreitet sich zuerst im Klassenraum, und die Schriftzeichen folgen später als Umschlag.
+Hier muss man auch von „ABC Hund beisst Schwein“ (ABC 狗咬豬) unterscheiden. Das „Global Chinese Network“ (全球華文網) des Overseas Community Affairs Council (僑務委員會) der Republik China führt dieses taiwanesische Kinderreim auf, dessen vollständiger Text von „ABC Hund beisst Schwein“ bis „Grossvater sitzt im Flugzeug“ und „Arzt rufen“ reicht. [^9] Taiwan.md hat bereits einen Artikel, der Campus-Reime und ihre generationenübergreifende mündliche Überlieferung zusammenstellt. [^10] Dass D als „Schwein“ gelesen wird, kann Phonetik und Campus-Erinnerung mit diesem Kinderreim teilen, aber der vorliegende Text behandelt die Erkennungsfunktion beim Austauschen von Prüfungsbögen, nicht die erneute Vorstellung jenes Kinderreims.
 
-Man muss dies auch von „ABC Dog Bites Pig“ (ABC 狗咬豬) trennen. Die globale chinesische Website der Republic of China’s Overseas Compatriots Affairs Commission (中華民國僑務委員會) sammelt dieses klassische taiwanesische Lied, von „ABC Dog Bites Pig“ bis zu „Opa fliegt mit dem Flugzeug“ und „Arzt, komm her“. [^9] Taiwan.md hat bereits einen Artikel über die Übertragung von Schulreimen in verschiedene Generationen.[^10] D als „Schwein“ kann mit diesem Lied teilen, aber der Fokus dieses Artikels liegt auf der Erkennungsfunktion beim Prüfungszettelaustausch, nicht auf der Wiederbelebung des Liedes.
+> 📝 **Kuratorennotiz:** „D als Schwein gelesen“ ist kein Witz über einen Aussprachefehler, sondern ein kleiner Arbeitsablauf. Wenn eine Gruppe schnell Antworten austauschen und Verwechslungen von B und D vermeiden muss, wird der Akzent vorübergehend zum Werkzeug.
 
-> 📝 **Hinweis des Redakteurs:** D als „Schwein“ ist kein lustiger Fehler, sondern ein kleiner Arbeitsablauf. Wenn eine Gruppe schnell Antworten austauschen muss und B und D nicht verwechseln darf, wird der Dialekt kurzzeitig zum Werkzeug.
+Daher muss diese Ausdrucksweise nicht als Mythos mit einem einzigen Ursprung verpackt werden. Die vorhandenen Belege unterstützen: Sie zirkuliert in Teilen taiwanesischer Campus- und Netzwerkdiskussionen und nutzt die Lautähnlichkeit zum taiwanesischen „Schwein“. Welche Schule zuerst damit begann, welche Lehrer-Generation es zuerst lehrte – mangels Schulchroniken, Interviews oder vollständigerer Korpora sollte der Text bei dem verifizierbaren Rahmen bleiben.
 
-Deshalb braucht diese Redewendung nicht als mythische Herkunftsgeschichte verpackt zu werden. Was die Daten zeigen, ist: Es verbreitet sich in bestimmten taiwanesischen Schulen und Online-Diskussionen und nutzt die Lautähnlichkeit des taiwanesischen „Schweins“ (豬). Wer genau als erster angefangen hat, in welcher Schule oder von welchem Lehrer – ohne Schulchronik, Interviews oder vollständigere Daten – sollte der Artikel bei den faktisch belegbaren Grenzen bleiben.
+## Der gemeinsame Nenner der vier Wörter: Unbestimmtes in teilbare Reflexe verwandeln
 
-## Gemeinsamkeit der vier Begriffe: Unsicherheit wird zu nutzbarem Feedback
+„Bùhǎoyìsi“ rückt die zwischenmenschliche Distanz ein Stück näher. „Há“ schickt das gescheiterte Verstehen zurück ins Gespräch. „Kleine Maus“ verwandelt Netzwerktechnik in ein Tier, das Kinder sehen können. „D als Schwein gelesen“ wandelt den phonologischen Unterschied in einen Erkennungscode um, den Mitschüler sofort nutzen können.
 
-„Nicht schlimm“ (不好意思) bringt Menschen näher zusammen. „Haha“ (蛤) sendet ein unverstandenes Statement zurück ins Gespräch. „Kleine Maus“ (小老鼠) macht Technik zu einem Tier, das Kinder sehen können. D als „Schwein“ (豬) verwandelt phonologische Unterschiede in einen sofort nutzbaren Code für Schüler.
+Sie sind alle klein. Keines dieser Wörter ändert allein das System, und kein Laut repräsentiert alle Taiwaner. Sie sind der Schrift wert, weil Kultur oft nicht in Zeremonien oder Erklärungen hinterlassen wird, sondern in dem Moment, in dem es darum geht, ob man jemanden stört, ob man die Gegenüber bittet, zu wiederholen, wie man ein Zeichen ausspricht, wie man die Antwort dem Mitschüler gibt – dann wird die Wahl, die der Körper zuerst trifft.
 
-Alle sind klein. Keines dieser Wörter ändert ein System allein, und kein Laut repräsentiert alle Taiwanesen. Dennoch sind sie wert, geschrieben zu werden – denn Kultur bleibt selten in Zeremonien oder Erklärungen, sondern in dem Moment, in dem wir uns fragen: Soll ich jemanden stören? Soll ich ihn bitten, nochmal zu wiederholen? Wie nennt man ein Symbol? Wie gibt man die Antwort an einen Kommilitoen weiter? In diesen Situationen treffen die Menschen automatisch Entscheidungen.
-
-Taiwanesische Aussprache ist auch nicht nur auf einzigartige Wörter zurückzuführen. Sie kommt von Menschen, die wissen, wann sie „nicht schlimm“ sagen sollen, wie lang die Stimme von „haha“ (蛤) sein kann, dass @ keine Maus ist, aber „kleine Maus“ heißen kann, und dass D als „Schwein“ (豬) nicht als Standardantwort in Englekursen verwendet werden darf. Diese gemeinsamen Regeln machen die Sprache zum leichtesten und festesten Code im Alltag.
+Das Identitätsgefühl der taiwanesischen Umgangssprache stammt auch nicht nur aus einzigartigem Vokabular. Es kommt von einer Gruppe Menschen, die wissen, wann man „Bùhǎoyìsi“ sagen soll, wie lang der Endlaut von „Há“ sein kann, dass @ keine Maus ist, aber „kleine Maus“ heissen kann, und dass Ds „Schwein“ nicht in den Englischunterricht als Standardantwort gehört. Diese geteilten Grenzen machen Sprache zum leichtesten und doch festesten Erkennungszeichen im Alltag.
 
 ## Weiterführende Literatur
 
-[Ministerium des Bildungswesens: Wörterbuch der taiwanesischen Alltagssprache](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) listet die Lautschrift und Bedeutung von „Schwein“ (豬) auf.  
-[Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) stellt das verwendete @-Zeichen als Public-Domain-Grafik zur Verfügung.  
-[Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) stellt das Bild der taiwanesischen Tastatur und die CC BY-SA 3.0-Lizenzinformationen zur Verfügung.
+[Bildungsministerium: Wörterbuch häufig verwendeter taiwanesischer Wörter](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) führt die taiwanesische Romanisierung (Tâi-lô) und Bedeutung von „Schwein“ auf.  
+[Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) stellt das in diesem Text verwendete Public-Domain-Bild des @-Zeichens bereit.  
+[Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) stellt das taiwanesische Tastaturbild und die CC-BY-SA-3.0-Lizenzinformation bereit.
 
-## Referenzen
+## Quellen
 
-[^1]: [Nutzung und Wahrnehmung von alltäglichen Entschuldigungen in Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — – Masterarbeit der Nationalen Taiwan University, 2022, basierend auf 90 Fragebögen von Studenten, die „entschuldige“ (對不起), „es tut mir leid“ (抱歉) und „nicht schlimm“ (不好意spect) in verschiedenen sozialen Situationen verglichen
+[^1]: [Untersuchung zur Verwendung und Schweregradeinschätzung gängiger taiwanesischer Entschuldigungsausdrücke](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Masterarbeit der Nationalen Taiwan-Universität 2022, analysiert anhand von 90 Fragebögen von NTU-Studierenden die Wahl zwischen „Duìbuqǐ“, „Bàoqiàn“ und „Bùhǎoyìsi“ in verschiedenen sozialen Situationen.
 
-[^2]: [Ministerium des Bildungswesens: Neu überarbeitetes Wörterbuch der Nationalsprache: haha (蛤)](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — – Offizielle Wörterbuchseite des Ministeriums des Bildungswesens, listet die Zhuyin-Aussprache ㄍㄜˊ, ㄏㄇˊ sowie die Bedeutungen wie Klafter, Venusmuschel und Frosch auf, dient als Referenz für die Unterscheidung zwischen Schreibweise und mündlicher Verwendung
+[^2]: [Bildungsministerium „Überarbeitetes Mandarin-Chinesisch-Wörterbuch“: Há](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Offizielle Wörterbuchseite des Bildungsministeriums, verzeichnet die Bopomofo-Lesungen ㄍㄜˊ, ㄏㄚˊ von „Há“ sowie Standardbedeutungen wie Venusmuschel, Venusmuschel, Kröte, um in diesem Text Schriftform und mündliche Verwendung zu unterscheiden.
 
-[^3]: [Ist „huh?“ ein universelles Wort?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — – Studie in PLOS ONE über die Form und Funktion von „huh?“ als Reparaturstarter im Gespräch, warnt davor, „haha“ (蛤) fälschlicherweise als nur taiwanisches Phänomen zu betrachten
+[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Sprachübergreifende Studie in PLOS ONE, analysiert Form und Funktion von „huh?“ als Konversationsreparatur-Initiator, mahnt Leser, „Há“ nicht als rein taiwanesisches Phänomen zu missverstehen.
 
-[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — – IETF-Standard für E-Mail-Formate, Abschnitt 3.4.1 definiert die technische Rolle von @ als Trennzeichen zwischen local-part und Internet-Domäne in addr-spec
+[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — IETF-Standard für E-Mail-Format, Abschnitt 3.4.1 definiert die technische Rolle von @ bei der Trennung von local-part und Internet domain im addr-spec.
 
-[^5]: [BBC Chinese: Wie verschiedene Sprachen das @-Zeichen nennen?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — – BBC Future Chinese-Bericht, der die Bezeichnung „kleine Maus“ (小老鼠) in Taiwan und andere tierischen oder formellen Bezeichnungen für @ weltweit zusammenfasst, sowie die Geschichte der Einführung von @ in E-Mails
+[^5]: [BBC Chinese: Wie verschiedene Sprachen das „@“-Zeichen nennen](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — BBC Future Chinese-Bericht, fasst Taiwans „kleine Maus“ und weltweit tier- oder formbasierte Bezeichnungen für @ zusammen, schildert auch die Geschichte des Zeichens im E-Mail-Verkehr.
 
-[^6]: [Raymond Tomlinson – Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — – Offizielle Profilseite des Internet Hall of Fame, dokumentiert Ray Tomlinsons Beitrag zu E-Mail und frühen E-Mail-Standards
+[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Offizielles Personenprofil der Internet Hall of Fame, verzeichnet Ray Tomlinsons Beiträge zu Netzwerk-E-Mail und frühen Mail-Standards.
 
-[^7]: [Ministerium des Bildungswesens: Wörterbuch der taiwanesischen Alltagssprache: Schwein (豬)](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — – Offizielles taiwanesisches Wörterbuch des Ministeriums des Bildungswesens, listet „Schwein“ (豬) unter ti/tu auf, als sprachliche Grundlage für die Beziehung zwischen D und taiwanesischen Lauten
+[^7]: [Bildungsministerium: Wörterbuch häufig verwendeter taiwanesischer Wörter: Schwein](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Offizielles taiwanesisches Wörterbuch des Bildungsministeriums, führt „Schwein“ als ti/tu auf, liefert linguistische Grundlage für die Lautähnlichkeit zwischen D und dem Taiwanesischen.
 
-[^8]: [Sanli News: Wie sollte man D aussprechen?](https://www.setn.com/news/868195) — – 2020er Nachrichtenbericht, der Diskussionen auf PTT und im Schulalltag über den Austausch von Prüfungszetteln aggregiert; dient hier nur zur Unterstützung der regionalen Verbreitung und Verwendung, nicht als Beleg für eine landesweite Standardisierung
+[^8]: [SETN: Wie sprechen Ausländer D bei Antworten aus? Auf keinen Fall „Schwein“](https://www.setn.com/news/868195) — 2020er Nachrichtenartikel, fasst PTT- und Campus-Diskussionen zum Austauschen und Korrigieren von Prüfungsbögen zusammen; hier nur zur Stützung teilweiser Verwendung und Zirkulation, nicht als gesamttaiwanesischer Standard ausgeweitet.
 
-[^9]: [Globale chinesische Website: ABC Dog Bites Pig (ABC 狗咬豬)](https://biweekly.huayuworld.org/Material/372/Text) — – Klassisches Liedmaterial der Republic of China’s Overseas Compatriots Affairs Commission, enthält den vollständigen Text des taiwanesischen Liedes und Kennzeichnung der taiwanesischen Laute, als Referenz für die Herkunft von Schulliedern
+[^9]: [Global Chinese Network: ABC Hund beisst Schwein](https://biweekly.huayuworld.org/Material/372/Text) — Klassisches Kinderreim-Lehrmaterial des Overseas Community Affairs Council der Republik China, enthält vollständigen Text des taiwanesischen Kinderreims mit Taiwanesisch-Markierung, liefert Quellkontext der mündlichen Campus-Überlieferung.
 
-[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — – Bestehender Artikel von Taiwan.md über die Übertragung von Schulreimen in verschiedene Generationen, der „ABC Dog Bites Pig“ und die mündliche Überlieferung zusammenfasst; dieser Artikel vermeidet Wiederholungen und konzentriert sich auf die Erkennungsfunktion von D
+[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — Bestehender Taiwan.md-Artikel zu Campus-Reimen, hat „ABC Dog Bites Pig“ und generationenübergreifende mündliche Überlieferung bereits zusammengestellt; dieser Text vermeidet Doppelung durch Fokus auf Ds Antwort-Erkennungsfunktion.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — – Public-Domain-SVG-Datei des @-Zeichens, in diesem Artikel über `upload.wikimedia.org` eingebettet, keine lokale Speicherung
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Public-Domain-Dateiseite des @-Zeichens als SVG; Artikel bettet per `upload.wikimedia.org` Hotlink ein, lädt Bild nicht herunter.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — – Bild der taiwanesischen Tastatur, zur Verfügung gestellt von Zhongzheng Road 711, lizenziert unter Creative Commons Attribution-ShareAlike 3.0, Namensnennung und Lizenzlink bei Verwendung beibehalten
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Dateiseite des taiwanesischen Tastaturbilds, bereitgestellt von Zhongzheng North Road 711, unter Creative Commons Attribution-ShareAlike 3.0; bei Verwendung sind Namensnennung und Lizenzlink beizubehalten.

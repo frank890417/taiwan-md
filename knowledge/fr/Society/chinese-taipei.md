@@ -212,7 +212,7 @@ Et ce laissez-passer ne permet toujours à Taïwan d’entrer sur la scène que 
 
 - **Hero / « UNDER PROTEST » à Rome 1960** : [Olympische Spelen te Rome — Formosa liep onder protest](https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg), photo Harry Pot / Archives nationales des Pays-Bas (Nationaal Archief), CC0 1.0.
 - **Yang Ch’uan-kuang** : [C. K. Yang — UCLA Southern Campus 1960](https://commons.wikimedia.org/wiki/File:C_K_Yang_-_Southern_Campus_1960_crop.jpg), Domaine public (PD-US, droits d’auteur non renouvelés).
-- **Samaranch** : [Juan Antonio Samaranch](<https://commons.wikimedia.org/wiki/File:Juan_Antonio_Samaranch_(3x4_cropped).jpg), photo Leo Medvedev, CC BY-SA 4.0.
+- **Samaranch** : [Juan Antonio Samaranch](<https://commons.wikimedia.org/wiki/File:Juan_Antonio_Samaranch_(3x4_cropped).jpg>), photo Leo Medvedev, CC BY-SA 4.0.
 - **Drapeau (Drapeau à la fleur de prunier)** : [Drapeau du Comité olympique de Taïwan chinois](https://commons.wikimedia.org/wiki/File:Flag_of_Chinese_Taipei_for_Olympic_Games.svg), Wikimedia Commons, Domaine public. Anneau extérieur bleu, blanc et rouge tiré du drapeau de la République de Chine, emblème du ciel bleu et du soleil blanc au centre, anneaux olympiques en dessous, entré en vigueur après l’Accord de Lausanne de 1981.
 - **Emblème** : [Emblème du Comité olympique de Taïwan chinois](https://commons.wikimedia.org/wiki/File:Emblem_of_Chinese_Taipei_for_Olympic_games.svg), Wikimedia Commons, Domaine public (auteur Denelson83).
 

@@ -2,9 +2,7 @@
 title: "Huang Chun-ming : Luodong 1935, de Jours à regarder la mer à La grande poupée de son fils, l'écrivain des petites gens"
 description: "Né le 13 février 1935 à Luodong, Yilan. Jours à regarder la mer en 1967 et La grande poupée de son fils en 1969 incarnent l'attention portée aux petites gens au coeur de la littérature nativiste taïwanaise. Débat sur la littérature nativiste en 1977. Lauréat du prix littéraire Wu San-lien et du Prix national des arts. Son deuxième fils Huang Kuo-chun (écrivain) se suicide le 20 juin 2003. Hou Hsiao-hsien porte son oeuvre à l'écran en 1983. Toujours en vie en 2026."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'littérature',
@@ -14,15 +12,19 @@ tags:
     'La grande poupée de son fils',
     'Jours à regarder la mer',
   ]
-readingTime: 7
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:fa94afa39f837939'
 sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-05T01:46:57.603288+00:00'
 ---
 
 # Huang Chun-ming : Luodong 1935, de Jours à regarder la mer à La grande poupée de son fils, l'écrivain des petites gens

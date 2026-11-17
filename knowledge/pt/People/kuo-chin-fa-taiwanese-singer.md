@@ -2,9 +2,7 @@
 title: 'Kuo Chin-fa: A Alma Grave por Trás do Bak Chang'
 description: 'De aprendiz de sapataria em Dadaocheng a Rei do Grave da Ilha Formosa, Kuo Chin-fa cantou, com uma única música — «Bak Chang» —, a amargura e a resiliência do povo comum de Taiwan no pós-guerra, consumindo-se por completo no palco.'
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Música',
@@ -13,15 +11,19 @@ tags:
     'Rei do Grave',
     'Canções Proibidas na Lei Marcial',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-04T22:30:54.708509+00:00'
 ---
 
 > **📝 Nota do Curador**

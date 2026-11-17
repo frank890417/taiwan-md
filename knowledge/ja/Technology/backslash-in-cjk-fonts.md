@@ -12,11 +12,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: '大きな文字「功」の横にそのBig5コードA5と5Cの2マスがあり、5Cのマスが矢印でASCII 0x5Cバックスラッシュを指している。下部にはPythonの実際の出力が表示されており、「許功蓋」という3文字目の第二バイトはすべてバックスラッシュである。'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:13+08:00'
+translatedAt: '2026-11-05T18:11:36.037057+00:00'
 ---
 
 > **30秒概要：** 私が翻訳ステータススクリプトを実行したところ、画面に4546と表示され、すべて`root`に入っていました。GitHub上のLinux CIは緑色でした。後になって二つの事柄を明確に理解しました。Windowsのパスにおけるバックスラッシュは、スクリプトではスラッシュで区切れない。「功」のBig5コードの後半部分は、それ自体がASCIIの`\`です。これら二つのメカニズムは異なりますが、同じ繁体中国語版Windows上で同時に発生することがあります。

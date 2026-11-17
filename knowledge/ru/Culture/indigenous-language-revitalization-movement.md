@@ -3,8 +3,6 @@ title: 'Движение по восстановлению языков коре
 description: 'У племени сао осталось всего 4 носителя языка, но именно здесь родился один из самых интенсивных в мире экспериментов по восстановлению языка. От «Закона о развитии языков коренных народов» 2017 года до цифровых платформ — тихая операция по спасению набирает обороты.'
 date: 2026-03-29
 category: 'Culture'
-subcategory: '語言與文字'
-author: 'Taiwan.md Contributors'
 tags:
   [
     'Коренные народы',
@@ -13,15 +11,19 @@ tags:
     'Языковая политика',
     'Культурное наследие',
   ]
-readingTime: 8
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-05T07:13:48.322322+00:00'
 ---
 
 # Движение по восстановлению языков коренных народов Тайваня

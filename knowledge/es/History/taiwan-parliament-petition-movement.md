@@ -3,7 +3,6 @@ title: 'El movimiento de petición para la creación de una asamblea legislativa
 description: 'Entre 1921 y 1934, Lin Hsien-tang y otros presentaron la petición quince veces, desafiando la gobernanza colonial del Gobierno General. Aunque el movimiento no logró obtener una Asamblea Legislativa en Taiwán, transformó la jurisprudencia, la prensa y las organizaciones en herramientas públicas para la lucha por la autonomía de los taiwaneses.'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Historia',
@@ -15,16 +14,19 @@ tags:
     'Periódico Minbao de Taiwán',
     'Autonomía local',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-11T06:15:03+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T15:58:33.902411+00:00'
 ---
 
 El 30 de enero de 1921, Lin Hsien-tang, Ye Rongzhong y 178 estudiantes taiwaneses en Tokio presentaron la primera petición para la creación de una asamblea legislativa en Taiwán ante la Dieta del Imperio Japonés. [^1] Este documento sería presentado quince veces en total, y el movimiento se mantuvo activo hasta que se decidió su cese el 2 de septiembre de 1934. [^2] Aunque no logró establecer una Asamblea Legislativa en Taiwán, hizo que la cuestión de «quién puede representar a los taiwaneses» pasara de los estudios privados y los dormitorios de estudiantes a entrar en el centro institucional del imperio.
@@ -49,21 +51,21 @@ _Imagen: Petición para la creación de una asamblea legislativa en Taiwán. Wik
 
 > 📝 **Nota del curador:** Lo más agudo del movimiento de petición no es que ponga a «Japón» y a «Taiwán» como dos enemigos abstractos, sino que utiliza los principios constitucionales que el propio imperio proclamaba para cuestionarlo. Si la ley solo es válida en el territorio metropolitano, ¿a quién unifica exactamente la «unidad» del imperio?
 
-## Un documento que primero pasa por las manos de los legisladores
+## Un documento, primero pasa por manos de los diputados
 
-La primera petición del 30 de enero de 1921 no se consideraba completada simplemente con entregar el documento a la puerta de la Dieta. Según el artículo 62 de la _Ley de la Dieta_ de la época, la petición requería la presentación por parte de un legislador de la Dieta Imperial. Tras la recomendación del pastor Murakami Masahisa, el legislador de la Cámara de Pares, Enomoto Eikoku, y el legislador de la Cámara de Representantes, Tagawa Kichijirō, aceptaron actuar como legisladores presentadores, permitiendo que la petición entrara en el procedimiento de revisión. [^1]
+La primera petición del 30 de enero de 1921 no se completaba con solo entregar el documento a la puerta del parlamento. Según el artículo 62 de la _Ley del Parlamento Imperial_ de la época, la petición requería la presentación de un miembro de la Dieta Imperial. Tras ser recomendados por el pastor Masahisa Uemura, el miembro de la Cámara de Pares Sozo Ezaki y el miembro de la Cámara de Representantes Daijiro Tagawa aceptaron actuar como presentadores, y la petición entró en el proceso de revisión.[^1]
 
-Este detalle hace que el movimiento de petición deje de parecer una abstracta «petición a Tokio». Se convierte en un trabajo político que requiere encontrar intermediarios, preparar textos jurídicos, obtener firmas y esperar a que el procedimiento parlamentario lo procese. La primera petición contó con la firma de 178 personas. En cada una de las siguientes, los participantes debían, entre la policía colonial, el sistema de censura y la fría respuesta de la Dieta Imperial, volver a buscar caminos viables. [^1] [^2]
+Este detalle hace que el movimiento de petición ya no parezca una abstracta «llamada a la puerta de Tokio». Es un trabajo político que requiere encontrar intermediarios, preparar textos legales, obtener firmas y luego esperar a que el proceso parlamentario los tramite. La primera petición contó con 178 firmantes. En cada petición posterior, los participantes tuvieron que buscar nuevamente caminos viables entre la policía colonial, el sistema de censura y las frías respuestas de la Dieta Imperial.[^1] [^2]
 
-En marzo de 1921, la Dieta del Imperio Japonés aprobó la Ley n.º 3, manteniendo el poder legislativo delegado del Gobernador General de Taiwán. La línea que originalmente buscaba la abolición de la Ley Seisan perdió así su punto de apoyo, y la creación de una Asamblea Legislativa en Taiwán se convirtió más concentradamente en el objetivo del movimiento político taiwanés. [^2]
+En marzo de 1921, la Dieta Imperial japonesa aprobó la Ley No. 3, manteniendo el poder legislativo delegado del Gobernador General de Taiwán. La ruta original que exigía la abolición de la Ley 63 perdió así su punto de apoyo, y el establecimiento de un parlamento taiwanés se convirtió más concentradamente en el objetivo del movimiento político taiwanés.[^2]
 
-| Fecha                   | Hitos en el movimiento de petición                                                            | Significado político                                                                      |
-| ----------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Diciembre de 1920       | Lin Chenglu publica en _Taiwan Youth_ _El punto final del problema de la Ley Seisan_          | Desvía la controversia de la abolición de la Ley Seisan hacia una asamblea representativa |
-| 30 de enero de 1921     | 178 personas presentan la primera petición                                                    | La petición obtiene una entrada en el procedimiento de la Dieta Imperial                  |
-| 17 de octubre de 1921   | Creación de la Asociación Cultural de Taiwán                                                  | Inserta la exigencia política en una red de cultura, educación y conferencias             |
-| 16 de diciembre de 1923 | Gran redada de la policía colonial en toda la isla (Incidente de la Ley de Seguridad Pública) | La policía colonial reprime directamente las asociaciones políticas                       |
-| 2 de septiembre de 1934 | Tras la decimoquinta petición, se decide detener el movimiento                                | El movimiento de petición de catorce años llega a un punto de inflexión                   |
+| Tiempo                  | Hitos del movimiento de petición                                                     | Significado político                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Diciembre de 1920       | Lin Hsien-tang publica «El punto de llegada del problema 63» en _Juventud Taiwanesa_ | Convierte la controversia sobre la abolición de la Ley 63 hacia un parlamento representativo |
+| 30 de enero de 1921     | 178 personas presentan la primera petición                                           | La petición obtiene entrada procesal en la Dieta Imperial                                    |
+| 17 de octubre de 1921   | Se funda la Asociación Cultural de Taiwán                                            | Introduce las demandas políticas en redes culturales, educativas y de conferencias           |
+| 16 de diciembre de 1923 | Gran redada policial en toda la isla por el Incidente de la Ley de Seguridad Pública | La policía colonial suprime directamente las asociaciones políticas                          |
+| 2 de septiembre de 1934 | Resolución de detener tras la decimoquinta petición                                  | Catorce años de movimiento de petición llegan a su fin                                       |
 
 ## Quince peticiones no son quince envíos repetidos
 
@@ -155,30 +157,30 @@ Hoy, al leer ese documento, lo más digno de detenerse no es que no tuvo éxito,
 
 ## Referencias
 
-[^1]: [Museo del Recuerdo del Movimiento de Nueva Cultura de Taiwán de la Ciudad de Taipéi: la primera petición para la creación de una asamblea legislativa en Taiwán el 30 de enero de 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — registra la fecha de la primera petición, las 178 firmas, el procedimiento de presentación por parte de los legisladores y la postura de oposición del Gobierno General a la creación de una asamblea legislativa en Taiwán.
+[^1]: [Museo Conmemorativo del Nuevo Movimiento Cultural de Taiwán de la Ciudad de Taipéi: Primera petición para el establecimiento de un Parlamento de Taiwán, 30 de enero de 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Registra la fecha de la primera petición, las 178 firmas, el procedimiento de presentación por legisladores y la postura de oposición de la Oficina del Gobernador General ante el establecimiento de un Parlamento de Taiwán.
 
-[^2]: [Parque de la Democracia y el Parlamento del Yuan Legislativo: el movimiento de petición para la creación de una asamblea legislativa en Taiwán (1921-1934)](https://daap.ly.gov.tw/tw/daap/125-3993.html) — organiza el contexto institucional de _El punto final del problema de la Ley Seisan_ de Lin Chenglu, las quince peticiones, la división de la Asociación Cultural, la disolución del Partido Popular de Taiwán y el cese del movimiento.
+[^2]: [Parque de la Política Democrática del Yuan Legislativo: Movimiento de petición para el establecimiento de un Parlamento de Taiwán, 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Compila el 'Punto de llegada del problema 6-3' de Lin Cheng-lu, las quince peticiones, la división de la Asociación Cultural, la disolución del Partido Popular de Taiwán y el contexto institucional del cese del movimiento.
 
-[^3]: [Museo del Recuerdo del Movimiento de Nueva Cultura de Taiwán de la Ciudad de Taipéi: cese del movimiento de petición para la creación de una asamblea legislativa en Taiwán el 2 de septiembre de 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — registra la decisión de cese tras la decimoquinta petición, la reunión en Taichung, el encuentro con el gobernador y el proceso de finalización del movimiento de catorce años.
+[^3]: [Museo Conmemorativo del Nuevo Movimiento Cultural de Taiwán de la Ciudad de Taipéi: Cese del movimiento de petición para el establecimiento de un Parlamento de Taiwán, 2 de septiembre de 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Registra la resolución de cese tras la decimoquinta petición, la conferencia en Taichung, la audiencia con el Gobernador General y el proceso de finalización del movimiento de catorce años.
 
-[^4]: [Museo del Recuerdo del Movimiento de Nueva Cultura de Taiwán de la Ciudad de Taipéi: creación de la Asociación Cultural de Taiwán el 17 de octubre de 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — recoge el lugar de fundación de la Asociación Cultural, la escala de asistencia, el propósito, y las actividades de iluminación como clubes de lectura, conferencias, fotografía de actividades y escuelas de verano.
+[^4]: [Museo Conmemorativo del Nuevo Movimiento Cultural de Taiwán de la Ciudad de Taipéi: Fundación de la Asociación Cultural de Taiwán, 17 de octubre de 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Incluye el lugar de fundación, la escala de asistencia, los objetivos, así como actividades de ilustración como sociedades de lectura, conferencias, fotografías de actividades y escuelas de verano.
 
-[^5]: [Museo del Recuerdo del Movimiento de Nueva Cultura de Taiwán de la Ciudad de Taipéi: gran redada de la policía colonial en toda la isla por el Incidente de la Ley de Seguridad Pública el 16 de diciembre de 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — explica el contexto político de la prohibición de la Asociación de Promoción de la Asamblea Legislativa en Taiwán, la gran redada del Gobierno General en toda la isla y la detención de cerca de treinta personas.
+[^5]: [Museo Conmemorativo del Nuevo Movimiento Cultural de Taiwán de la Ciudad de Taipéi: Gran redada en toda la isla por el incidente de seguridad policial, 16 de diciembre de 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explica el contexto político de la prohibición de la Alianza para el Establecimiento de un Parlamento de Taiwán, la gran redada en toda la isla por la Oficina del Gobernador General y la detención de cerca de treinta personas.
 
-[^6]: [Museo del Recuerdo del Movimiento de Nueva Cultura de Taiwán de la Ciudad de Taipéi: fundación del _Periódico Minbao de Taiwán_ el 15 de abril de 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — registra la fundación del _Periódico Minbao de Taiwán_, el sistema de censura, la tirada de 1925 y la historia de los medios sobre su traslado a Taiwán en 1927.
+[^6]: [Museo Conmemorativo del Nuevo Movimiento Cultural de Taiwán de la Ciudad de Taipéi: Fundación del 'Periódico Popular de Taiwán', 15 de abril de 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Registra la fundación del 'Periódico Popular de Taiwán', el sistema de censura, la tirada de 1925 y los materiales históricos sobre su traslado a Taiwán para su publicación en 1927.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — introducción escrita por James Gerien-Chen de la Universidad de Florida y recopilación de los motivos de la petición de 1923, proporcionando el contexto de la jurisprudencia colonial en inglés, la Ley Seisan y los textos de la petición.
+[^7]: [Japanese Empire Info: Razones para solicitar el establecimiento de un Parlamento taiwanés](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Escrito por James Gerien-Chen de la Universidad de Florida, quien redacta la introducción y compila las razones de la petición de 1923, proporcionando en inglés el contexto de la teoría jurídica colonial, la Ley 63 y el texto de la petición.
 
-[^8]: [Instituto de Historia de Taiwán de la Academia Sinica: la primera elección local en Taiwán: una operación institucional del gobierno colonial japonés](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — analiza mediante investigación académica la reforma del sistema local de 1935, el número de escaños semi-electivos y las limitaciones de la calificación electoral, evitando escribir erróneamente la autonomía limitada como democracia universal.
+[^8]: [Instituto de Historia de Taiwán de la Academia Sinica: Primera elección local en Taiwán: Manipulación institucional del gobierno colonial japonés](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Mediante investigación académica analiza la reforma del sistema local de 1935, la mitad de escaños electos y las restricciones de elegibilidad, evitando confundir la autonomía limitada con la democracia universal.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — el resumen del capítulo académico en inglés considera los movimientos políticos y culturales de los eruditos e intelectuales de Taiwán entre 1920 y 1940 como la primera ola del desarrollo de la sociedad civil en Taiwán.
+[^9]: [Elgar Online: El ascenso y caída de los movimientos de la sociedad civil en Taiwán: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — El resumen del capítulo académico en inglés considera los movimientos políticos y culturales de la gentry y los intelectuales taiwaneses de 1920 a 1940 como la primera ola del desarrollo de la sociedad civil en Taiwán.
 
-[^10]: [Wikimedia Commons: el grupo de peticionarios para la creación de una asamblea legislativa en Taiwán en Tokio en 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — página de archivo del grupo de peticionarios que llega a Tokio en 1924 y se fotografía con los estudiantes taiwaneses, con la licencia marcada como dominio público.
+[^10]: [Wikimedia Commons: Delegación de petición para el Parlamento de Taiwán en Tokio, 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Página de archivo de la llegada de la delegación de petición a Tokio en 1924 y su foto grupal con estudiantes taiwaneses en Japón, con licencia de dominio público.
 
-[^11]: [Wikimedia Commons: grupo de conferencias de la Asociación Cultural de Taiwán en 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — fotografía del grupo de conferencias de la Asociación Cultural de Taiwán en 1925 en el punto de distribución del _Periódico Minbao de Taiwán_ de la sucursal de la prefectura de Hsinchu, con la licencia marcada como dominio público.
+[^11]: [Wikimedia Commons: Grupo de conferencias de la Asociación Cultural de Taiwán, 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Foto grupal del grupo de conferencias de la Asociación Cultural en la sucursal de distribución del 'Periódico Popular de Taiwán' en la prefectura de Shinchiku, 1925, con licencia de dominio público.
 
-[^12]: [Wikimedia Commons: portada del _Periódico Minbao de Taiwán_ del 1 de enero de 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — imagen de la portada del _Periódico Minbao de Taiwán_ del 1 de enero de 1926, página de archivo marcada como dominio público según las reglas de derechos de autor de Japón.
+[^12]: [Wikimedia Commons: Portada del 'Periódico Popular de Taiwán', 1 de enero de 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Imagen de la portada del 'Periódico Popular de Taiwán' del 1 de enero de 1926, página de archivo marcada como dominio público según las reglas de derechos de autor japonesas.
 
-[^13]: [Wikimedia Commons: petición para la creación de una asamblea legislativa en Taiwán](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — página de archivo de la imagen de la petición para la creación de una asamblea legislativa en Taiwán, con la licencia marcada como dominio público.
+[^13]: [Wikimedia Commons: Escrito de petición para el establecimiento de un Parlamento de Taiwán](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Página de archivo con la imagen del escrito de petición para el establecimiento de un Parlamento de Taiwán, con licencia de dominio público.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — página de archivo del retrato de Lin Hsien-tang, con la licencia marcada como dominio público.
+[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Página de archivo con el retrato de Lin Hsien-tang, con licencia de dominio público.

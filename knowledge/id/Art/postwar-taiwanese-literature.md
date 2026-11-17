@@ -22,10 +22,10 @@ lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:688354040345de96'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-09-23T04:20:52.728617+00:00'
+translatedAt: '2026-11-02T14:02:38.058286+00:00'
 ---
 
 > **Ringkasan 30 Detik**: Selama 42 tahun pasca-perang (1945-1987), dunia sastra Taiwan hidup di bawah kondisi "tidak boleh berkata": tidak boleh berkata bahasa Jepang, tidak boleh berkata Kejadian 228, tidak boleh berkata Taiwan adalah sesuatu di luar Tiongkok, tidak boleh berkata sastra tanah air. Tetapi setiap generasi penulis belajar "bagaimana berkata" melalui cara yang berbelit-belit yang berbeda. Yeh Shih-tao dari kertas putih tahun 1945, hingga buku 232 halaman _Sejarah Singkat Sastra Taiwan_ tahun 1987, di tengahnya mengalami kelumpuhan bicara, dipenjara tiga tahun, diam lebih dari sepuluh tahun, 1965 _Sastra Tanah Air Taiwan_, 1985 "Tanpa Tanah, Tak Ada Sastra". Pai Hsien-yung membaca Kafka di dalam bunker anti-pesawat. Wang Wen-hsing menghabiskan tujuh tahun menulis _Perubahan Keluarga_ yang dicaci maki. Lin Hai-yin mundur dari jabatan wakil ketua redaksi demi sebuah puisi. Yu Kwang-chung berteriak "Serigala Datang" memicu perang argumen sastra tanah air. Li Ang pada 1983 membuat Lin Shi memegang pisau menyembelih babi memotong suaminya. 42 tahun ini meninggalkan satu sistem linguistik yang berbelit-belit.
@@ -156,16 +156,16 @@ Hal-hal yang ditinggalkan 42 tahun ini tidak akan lenyap bersama pencabutan itu.
 
 42 tahun depan, akan ditulis oleh orang lain.
 
-## Bacaan Lebih Lanjut
+## Bacaan Lanjutan
 
-- [Sastra Taiwan Pascapembebasan Hukum Darurat](/id/art/post-martial-law-taiwanese-literature) — 1987 pencabutan hukum darurat hingga 2000-an: meledaknya pelokalan, gender, keberagaman bahasa ibu
-- [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — abad ke-21: internasionalisasi Wu Ming-yi, Lin Yi-han, gelombang digital
-- [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — alur utuh dari masa Belanda, Ming-Qing, pendudukan Jepang, pascaperang hingga kontemporer
-- [Sastra Masa Pendudukan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Lai He, Lu Heruo, Zhang Wenhuan, Yang Kui: titik awal pendudukan Jepang, sisi lain kebisuan pascaperang
-- [Lin Liang](/id/people/lin-liang-childrens-literature) — pendiri sastra anak pascaperang yang menyeberang ke Taiwan, karir 57 tahun di _Guoyu Ribao_, "seni bahasa sederhana" menentukan titik awal sastra beberapa generasi anak Taiwan
-- [Teror Putih](/history/白色恐怖) — latar politik: Yeh Shih-tao dipenjara, Yang Kui di Green Island, Lu Heruo di Lukang
-- [Kejadian 228](/id/history/228-incident) — dampak 1947 ke dunia sastra (Wang Deng-ding, Yang Kui, Yeh Tao)
-- [Masa Hukum Darurat](/id/history/martial-law-era) — kondisi politik aktivitas sastra 1949-1987
+- [Sastra Taiwan pasca pencabutan darurat militer](/id/art/post-martial-law-taiwanese-literature) — Ledakan lokalisasi, gender, dan keberagaman bahasa ibu dari tahun 1987 hingga 2000 setelah pencabutan darurat militer.
+- [Sastra Taiwan kontemporer](/id/art/contemporary-taiwanese-literature) — Internasionalisasi Wu Ming-yi di abad ke-21, Lin Yi-han, dan gelombang digital.
+- [Sejarah sastra Taiwan](/id/art/history-of-taiwanese-literature) — Konteks menyeluruh dari era kolonial Belanda, Dinasti Ming dan Qing, pendudukan Jepang, pascaperang, hingga kontemporer.
+- [Sastra masa pendudukan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Titik awal Lai He, Lu Heruo, Zhang Wenhuan, dan Yang Kuei di masa pendudukan Jepang, yang merupakan sisi lain dari hilangnya suara pada masa pascaperang.
+- [Lin Haiyin](/id/people/lin-liang-childrens-literature) — Peletak dasar sastra anak yang menyeberangi laut ke Taiwan setelah perang; berkarier selama 57 tahun di _Guoyu Daily_; "seni bahasa sederhana" miliknya mendefinisikan titik awal sastra bagi beberapa generasi anak-anak Taiwan pascaperang.
+- [Teror Putih](/id/history/taiwan-white-terror) — Latar belakang politik dari dipenjaranya Yeh Shih-tao, pengasingan Yang Kuei ke Green Island, dan kasus Lu Heruo di Lukut.
+- [Kejadian 228](/id/history/228-incident) — Dampak terhadap dunia sastra pada tahun 1947 (Wang Tien-tung, Yang Kuei, Yeh Tao).
+- [Masa darurat militer](/id/history/martial-law-era) — Kondisi politik kegiatan dunia sastra antara tahun 1949–1987.
 
 ---
 

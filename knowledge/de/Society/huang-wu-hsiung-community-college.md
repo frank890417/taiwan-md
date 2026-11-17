@@ -17,24 +17,26 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: '097c838b2'
-sourceContentHash: 'sha256:ee2c6b428739de29'
-sourceBodyHash: 'sha256:56a4506a2e90295b'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
+translatedAt: '2026-11-04T23:47:07.206272+00:00'
 ---
 
-# Huang Wu-hsiung und die Gemeinschafts-Universitäten: Demokratie jenseits der Stimmen in den Klassenraum
+# Huang Wu-hsiung und Taiwans Gemeinschafts-Universitäten: Demokratie jenseits des Wahlzettels ins Klassenzimmer bringen
 
-> **30-Sekunden-Überblick:** 1994 stellte Huang Wu-hsiung (Huang Wu-hsiung) das Konzept einer gemeinnützigen Gemeinschafts-Universität vor. 1998 wurde die erste Gemeinschafts-Universität Taiwans im Bezirk Wenshan der Stadt Taipeh gegründet. Dieser Artikel verfolgt einen Bildungsbewegung, die ursprünglich Erwachsenenbildung ins öffentliche Leben bringen wollte, und zeigt, wie sie durch Lehrpläne, Vereine, lokale Forschung und rechtliche Institutionen zu einer Routine in der taiwanesischen Zivilgesellschaft wurde.
+> **30-Sekunden-Überblick:** 1994 schlug Huang Wu-hsiung das Konzept einer bürgernahen Gemeinschafts-Universität vor. 1998 wurde Taiwans erste Gemeinschafts-Universität im Wenshan-Distrikt von Taipeh gegründet. Dieser Artikel verfolgt eine Bildungsbewegung, die ursprünglich Erwachsenenbildung in das öffentliche Leben tragen wollte, und wie sie durch Kurse, Vereine, Lokalforschung und rechtliche Rahmenbedingungen zu einer täglichen Übung der taiwanesischen Zivilgesellschaft wurde.
 
-1994 stellte der Mathematikprofessor an der Nationaluniversität Taiwans, Huang Wu-hsiung (Huang Wu-hsiung), das Konzept einer gemeinnützigen Gemeinschafts-Universität vor. 1998 wurde die erste Gemeinschafts-Universität Taiwans im Bezirk Wenshan der Stadt Taipeh gegründet. Am 20. September 1999 fand an der Wenhua-Mittelschule in Yonghe die Gründungsfeier der Yonghe-Gemeinschafts-Universität statt, wobei Huang Wu-hsiung (Huang Wu-hsiung) als Gründungsleiter tätig war.[^1] [^2]
+1994 schlug Huang Wu-hsiung, Professor am Mathematikdepartement der Nationaluniversität Taiwan, das Konzept einer bürgernahen Gemeinschafts-Universität vor. 1998 wurde Taiwans erste Gemeinschafts-Universität im Wenshan-Distrikt von Taipeh gegründet. Am 20. September 1999 fand die Gründungsfeier der Yonghe-Gemeinschafts-Universität an der Fuhe-Mittelschule statt, wobei Huang Wu-hsiung als Gründungsdirektor fungierte.[^1] [^2]
 
-Diese drei Jahreszahlen sehen aus wie ein Bildungskalender, doch die eigentliche Frage liegt nicht darin, wie viele Gemeinschafts-Universitäten es in Taiwan gibt. Die Frage ist: Warum bringt eine Schule ohne Bildungsvoraussetze und ohne Hauptziel die Hochschulreife in Flüsse, alte Gassen, Gemeindeblattungen und lokale Themen?
+Diese drei Jahreszahlen lesen sich wie eine Chronik des Bildungssystems, doch die eigentliche Frage lautet nicht: „Wie viele Gemeinschafts-Universitäten gibt es in Taiwan?“. Die Frage ist: Warum bringt eine Schule, die weder Zugangsvoraussetzungen in Form von Bildungsabschlüssen kennt noch die Hochschulreife als Hauptziel verfolgt, ihre Kurse an Flüsse, in alte Gassen, in Gemeinschaftszeitungen und in lokale Themen?
 
-Huang Wu-hsiungs Antwort ist klar. Er dachte nicht an eine Gemeinschafts-Universität als günstigere Hochschule, noch als Türöffner zu einer normalen Universität. Er wollte eine andere Lücke füllen, die nach der Aufhebung des Ausnahmezustands entstand: Die Menschen hatten das Wahlrecht, aber nicht unbedingt die Erfahrung, gemeinsam über die Probleme ihres Lebens zu diskutieren.[^3]
+Huang Wu-hsiungs Antwort ist direkt. Er sah die Gemeinschafts-Universität nicht als billigere Universität, auch nicht als Sprungbrett für eine reguläre Universität. Er wollte eine Lücke schließen, die nach der Aufhebung des Kriegsrechts bestand: Das Volk hatte nun Wahlrecht, verfügte aber nicht unbedingt über ausreichend Erfahrung in öffentlicher Diskussion, um die Probleme des täglichen Lebens gemeinsam zu lösen.[^3]
 
-> **📝 Redaktionsnotiz:** Das Intuitivste an der Gemeinschafts-Universität ist, dass sie wie eine Schule aussieht, aber in Wirklichkeit die Frage stellt: „Muss eine Schule nur unterrichten?“ – und das zur einer Demokratiefrage macht.
+> **📝 Kuratorennotiz:** Das Gegenintuitive an Gemeinschafts-Universitäten ist, dass sie wie Schulen aussehen, tatsächlich aber die Frage „Sollen Schulen nur unterrichten?“ zu einer Demokratiefrage machen.
 
 ## Eine Schule beginnt mit „nicht was“
 
@@ -60,26 +62,26 @@ Ein konkretes Beispiel liefert die Selbstbeschreibung der Yonghe-Gemeinschafts-U
 
 > **📝 Redaktionsnotiz:** Wenn eine Stunde beginnt, Flüsse zu vermessen, lokale Chroniken zu lesen und Einwohner zu fragen, wie sie leben, dann ist die Schule nicht länger nur ein „Dienstleistungsgebäude“, sondern ein Werkzeug für gemeinsames Nachdenken in der Gemeinschaft.
 
-## Huang Wu-hsiungs größte Sorge ist nicht, dass niemand kommt
+## Was Huang Wu-xiong wirklich sorgt, ist nicht leere Klassenzimmer
 
-In einem Aufsatz, den Huang Wu-hsiung in der Wenshan-Gemeinschafts-Universität veröffentlichte, stellte er die Gemeinschafts-Universität in den Kontext der Gesellschaft nach der Aufhebung des Ausnahmezustands 1987. Er argumentierte, dass die Demokratisierung Freiheit und Vereinigungsrecht brachte, aber auch Probleme, die unter langjähriger autoritärer Herrschaft angesammelt worden waren, sichtbar wurden. Für ihn müssen gesellschaftliches Lernen und Demokratisierung Hand in Hand gehen, sonst verwandert das Wahlrecht nicht automatisch in öffentliches Urteilsvermögen.[^3]
+In einem Artikel für die Wenshan-Gemeinschafts-Universität stellt Huang Wu-xiong die Gemeinschafts-Universitäten in den gesellschaftlichen Kontext nach der Aufhebung des Kriegsrechts 1987. Seiner Ansicht nach brachte die Demokratisierung Freiheit und Versammlungsraum, doch die Probleme, die jahrzehntelange autoritäre Herrschaft hinterlassen hat, treten nun nach und nach zutage. Für ihn müssen gesellschaftliches Lernen und Demokratisierung Hand in Hand gehen, andernfalls verwandeln sich Stimmzettel nicht automatisch in öffentliches Urteilsvermögen.[^3]
 
-Dies ist eine stark positionierte Aussage, die nicht jeder als historische Schlussfolgerung akzeptieren muss. Ihr Wert liegt darin, „Bildung“ aus der Sprache des individuellen Aufstiegs zurück ins bürgerschaftliche Leben zu holen: Wie versteht man ein öffentliches Thema? Wie diskutiert man mit Menschen anderer Meinung? Wie organisiert man sich, wenn keine politischen Vertreter für einen spricht?
+Das ist eine stark positionierte These, keine geschichtliche Schlussfolgerung, der alle zustimmen müssen. Ihr Wert liegt darin, „Bildung“ aus der Sprache des individuellen Aufstiegs zurück in das bürgerliche Leben zu holen: Wie verstehen Menschen öffentliche Fragen, wie diskutieren sie mit Andersdenkenden, wie organisieren sie sich, wenn keine Politiker für sie sprechen.
 
-Ein 2006 veröffentlichter wissenschaftlicher Aufsatz von Tsai Hong-zheng fasste dieses Konzept als „Befreiung des Wissens, Erzeugung der Zivilgesellschaft“ zusammen. Der Aufsatz weist darauf hin, dass die Philosophie der Gemeinschafts-Universität auf der Unterscheidung zwischen „Paketwissen“ und „Erfahrungswissen“ basiert und diese Unterscheidung durch implizites Wissen weiter verfeinert wird, wobei er die praktischen Herausforderungen einer kulturellen Aufklärungsbewegung diskutiert. Dies ist eine Analyse der Forschenden, nicht ein Zitat von Huang Wu-hsiung.[^7]
+Eine wissenschaftliche Arbeit von Tsai Hong-zheng aus dem Jahr 2006 fasst diese Idee unter dem Titel „Wissen befreien, Zivilgesellschaft hervorbringen“ zusammen. Die Arbeit nennt als philosophische Grundlagen der Gemeinschafts-Universitäten die Unterscheidung zwischen „vorgefertigtem Wissen“ und „Erfahrungswissen“ und präzisiert dieses Paar mithilfe des „impliziten Wissens“, um die praktischen Probleme zu diskutieren, denen sich Gemeinschafts-Universitäten als kulturelle Aufklärungsbewegung gegenübersehen. Dies ist eine Forscheranalyse, kein wörtliches Zitat von Huang Wu-xiong.[^7]
 
-Diese Erinnerung ist wichtig. Die Geschichte der Gemeinschafts-Universität darf nicht nur als Siegesgeschichte des Idealismus geschrieben werden. Ein Lehrplan muss öffentlich bleiben und erfordert die langfristige Zusammenarbeit von Lehrenden, Verwaltung, Lernenden und lokalen Organisationen. Ressourcen, organisatorische Aufgaben, staatliche Aufträge und pädagogische Konzepte bestimmen, was eine Gemeinschafts-Universität leisten kann.
+Dieser Hinweis ist wichtig. Die Geschichte der Gemeinschafts-Universitäten darf nicht nur als Siegesgeschichte des Idealismus geschrieben werden. Damit Lehrangebote ihren öffentlichen Charakter bewahren, braucht es langfristige Zusammenarbeit von Lehrenden, Verwaltungsmitarbeitenden, Teilnehmenden und lokalen Organisationen. Ressourcenausstattung, Organisationsstruktur, Art der staatlichen Beauftragung und das schulische Leitbild – all das verändert, was eine Gemeinschafts-Universität leisten kann.
 
-Eine 2013 durchgeführte Studie untersuchte drei Gemeinschafts-Universitäten, die vom Nationalverband der Gemeinschafts-Universitäten für „Schulmanagement und öffentliche Teilhmen“ zertifiziert wurden, und identifizierte drei Modelle: fachlich aufgeschlüsselt, bewusstseinsstiftend und strategisch vereinigt mit NPOs. Die Studie listete verschiedene Methoden auf: Verwaltungsschulungen, Lehrpläne, Vereinsunterstützung, Stadtschöpfung und strategische Allianzen.[^8]
+Eine Studie von 2013 untersuchte drei Gemeinschafts-Universitäten, die die Zertifizierung „Schulmanagement und öffentliche Teilhabe“ des nationalen Förderverbands erhalten hatten, und leitete drei Modelltypen ab: professionelle Arbeitsteilung, Bewusstseinsbildung und NPO-Strategieallianz. Gleichzeitig listete die Studie verschiedene Methoden auf: Verwaltungskapazitätsaufbau, Lehrplanbegleitung, Vereinsbegleitung, Gemeinschaftsaufbau und Strategieallianz.[^8]
 
-| Zeit | Wendepunkt                                                                                              | Was hat sich dadurch geändert                                                                                                         |
-| ---- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1994 | Huang Wu-hsiung (Huang Wu-hsiung) stellt das Konzept einer gemeinnützigen Gemeinschafts-Universität vor | Gemeinschaftliches Lernen wird in Fragen von Demokratie und Sozialreform eingebettet                                                  |
-| 1998 | Gründung der Wenshan-Gemeinschafts-Universität                                                          | Das erste Projekt einer taiwanesischen Gemeinschafts-Universität setzt Ideale in den Alltag um                                        |
-| 1999 | Gemeinschafts-Universitäten in Yonghe und anderen Orten eröffnen                                        | Eigeninitiative und Zusammenarbeit mit lokalen Regierungen ermöglichen die Verbreitung des Modells                                    |
-| 2018 | Verabschiedung des „Gesetzes zur Förderung der Gemeinschafts-Universitäten“                             | Die Gemeinschafts-Universität erhält einen klareren rechtlichen Status, muss sich aber an neue institutionelle Anforderungen anpassen |
+| Zeit | Wendepunkt                                                                      | Was dieser Wendepunkt veränderte                                                                                                  |
+| ---- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1994 | Huang Wu-xiong schlägt das Konzept der volksnahen Gemeinschafts-Universität vor | Gemeinschaftliches Lernen wird in die Fragen von Demokratie und Sozialreform gestellt                                             |
+| 1998 | Gründung der Wenshan-Gemeinschafts-Universität                                  | Die erste taiwanische Gemeinschafts-Universität beginnt, Ideale in den täglichen Schulbetrieb zu übersetzen                       |
+| 1999 | In Yonghe und anderswo eröffnen weitere Gemeinschafts-Universitäten             | Zivile Vorbereitung und Zusammenarbeit mit Lokalregierungen lassen das Modell sich ausbreiten                                     |
+| 2018 | Erlass des „Gesetzes zur Förderung der Gemeinschafts-Universitäten“             | Gemeinschafts-Universitäten erhalten klarere Rechtsstellung, stehen aber auch neuen institutionalisierten Anforderungen gegenüber |
 
-> **📝 Redaktionsnotiz:** Die Herausforderung der Gemeinschafts-Universität besteht nicht darin, „ob Ideal oder Realität gewinnt“, sondern dass Idealismus, sobald er in Budget, Räume und Bewertung eintrifft, jeden Tag neu verhandelt werden muss.
+> **📝 Kuratorische Anmerkung:** Die Schwierigkeit der Gemeinschafts-Universitäten ist nicht die Frage „wer gewinnt – Ideal oder Realität“, sondern dass Ideale, sobald sie in Budgets, Räume und Evaluationen eintreten, jeden Tag neu verhandelt werden müssen.
 
 ## Vom Bewegungswesen zum Gesetzestext
 

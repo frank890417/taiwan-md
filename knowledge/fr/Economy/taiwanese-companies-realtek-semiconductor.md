@@ -15,11 +15,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:49+08:00'
+translatedAt: '2026-11-04T16:45:46.183332+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1987, sept ingénieurs ont fondé Realtek Semiconductor dans le parc scientifique de Hsinchu avec un capital de NT$2 millions. Utilisant un crabe comme logo, ils ont lancé en 1991 le premier contrôleur réseau conçu de manière autonome à Taïwan. Avec un chiffre d'affaires consolidé d'environ NT$113,4 milliards en 2024, l'entreprise est la troisième plus grande société de conception de circuits intégrés (IC) de Taïwan. Dans presque chaque ordinateur du monde, il est possible qu'un « crabe Realtek » soit caché.
@@ -104,17 +106,17 @@ Fondée par sept ingénieurs en 1987, 37 ans plus tard, les puces de Realtek son
 
 ## Références
 
-[^1]: [Rapport annuel 2024 de Realtek Semiconductor | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirmation du chiffre d'affaires consolidé de 2024 d'environ NT$113,4 milliards (hausse de 19,1 %) ; fondation par les 7 fondateurs le 21 octobre 1987.
-
-[^2]: [Market Observation Post : Realtek Semiconductor](https://mops.twse.com.tw/) — Informations de base sur la cotation 2379, rapports financiers annuels.
-
-[^3]: [Bourse de Taïwan : 2379 Realtek](https://www.twse.com.tw/) — Confirmation du code boursier 2379, cotation en 1998, Hsiu Shun-chien est l'actuel président du conseil d'administration.
-
-[^4]: [Lignes de produits sur le site officiel de Realtek](https://www.realtek.com/) — Description des lignes de produits puces WiFi 6/7.
-
-[^5]: [TechNews : Historique de Realtek Semiconductor](https://technews.tw/) — Reportage sur le contexte industriel du passage de Realtek des puces réseau à l'expansion dans les IC multimédias.
-
 **Lectures complémentaires**
 
-- [TechNews : Parcours de développement de Realtek Semiconductor](https://technews.tw/)
-- [Electronic Times : Rapport sur l'industrie taïwanaise de la conception d'IC](https://www.digitimes.com.tw/)
+- [Technews : Historique du développement de Realtek Semiconductor](https://technews.tw/)
+- [Digitimes : Rapport sur l'industrie taïwanaise de la conception de circuits intégrés (IC)](https://www.digitimes.com.tw/)
+
+[^1]: [Rapport annuel 2024 de Realtek Semiconductor | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirme un chiffre d'affaires consolidé pour l'ensemble de l'année 2024 d'environ NT$ 113,4 milliards (augmentation annuelle de 19,1 %) ; fondé le 21 octobre 1987 par sept fondateurs.
+
+[^2]: [Market Observation Post : Realtek Semiconductor](https://mops.twse.com.tw/) — Informations de base sur la société cotée (code 2379) et rapports financiers annuels.
+
+[^3]: [Taiwan Stock Exchange : 2379 Realtek](https://www.twse.com.tw/) — Confirme le code boursier 2379, coté en bourse depuis 1998, avec Chung Shun-chien comme président actuel.
+
+[^4]: [Gamme de produits du site officiel de Realtek](https://www.realtek.com/) — Description de la gamme de produits de puces WiFi 6/7.
+
+[^5]: [Technews : Historique de Realtek Semiconductor](https://technews.tw/) — Reportage sur le contexte industriel de l'expansion de Realtek Semiconductor, passant des puces réseau aux circuits intégrés multimédias.

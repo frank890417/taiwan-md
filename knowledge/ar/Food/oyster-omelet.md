@@ -2,9 +2,7 @@
 title: 'أوميليت المحار: تاريخ تطور براعم التذوق من الفقر إلى الطعام الوطني'
 description: 'كيف تحولت وجبة خفيفة تايوانية نشأت من شح الغذاء، من «الزلابية المقلية» في عصر تشنغ تشنغ قونغ إلى طعام وطني يجتاح الداخل والخارج اليوم، ويخفي وراءه أسرار براعم التذوق في خليط الدقيق والصلصة.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'أوميليت المحار',
@@ -17,15 +15,19 @@ tags:
     'صلصة',
     'رقائق بطاطس هوا يوان',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-07-25T09:23:16+08:00'
+translatedAt: '2026-11-05T00:56:24.716947+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية**

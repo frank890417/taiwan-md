@@ -33,10 +33,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d72'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T14:51:14.558769+00:00'
+translatedAt: '2026-11-06T04:55:52.816905+00:00'
 ---
 
 En el videoclip de 〈頑固〉 de Mayday en 2016, hay un hombre de mediana edad construyendo cohetes en una tierra baldía. Es tratado como un loco soñador y, al final, vuela hacia el cielo con un cohete hecho por él mismo. La mayoría de los taiwaneses conocieron a Wu Zongxin por primera vez no a través de ninguna institución nacional, sino a través de este videoclip: ese tío del cohete [^1].
@@ -270,12 +270,13 @@ El hombre que fue objeto de burla en tierras desoladas, aquel que quería abando
 
 Zeppelin vio Taiwán desde un helicóptero; no terminó de verla el año del accidente. Ocho años después, un satélite con su nombre completó la visión de esta isla desde 561 kilómetros de altura, y además mostró la verdadera cara de esta institución que durante treinta años decía que miraba el clima: un lugar donde se demostró la "autonomía" satélite por satélite para un país no reconocido. La próxima parada es la Luna.
 
-## Lectura extendida
+## Lecturas complementarias
 
-- [Desarrollo de la industria espacial de Taiwán](/es/technology/taiwan-space-industry-development) — Este artículo trata sobre cómo creció la institución en sí, mientras que el otro aborda la cadena de suministro detrás: qué empresas fabrican componentes satelitales, cómo los semiconductores entran al espacio y cómo se forma el ecosistema de startups.
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La base industrial para la "autonomía" espacial de Taiwán; una gran parte se construye sobre la capacidad existente de fabricación de semiconductores y precisión de esta isla.
-- [Taipéi Chino](/es/society/chinese-taipei) — La línea soberana de "poner a Taiwán en el nombre", vista desde otra perspectiva en los estadios deportivos.
-- [Li Jinyi](/es/people/lin-chi-er-astronaut) — Un perfil de una persona que también trabaja por Taiwán en el campo científico.
+- [Desarrollo de la industria espacial de Taiwán](/es/technology/taiwan-space-industry-development) — Este artículo trata sobre cómo creció la propia institución; aquél describe la cadena de suministro detrás de ella: qué fabricantes producen los componentes de los satélites, cómo la industria de semiconductores entra en el espacio, cómo se forma el ecosistema de startups.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Gran parte de la base industrial de la «autonomía» espacial de Taiwán se asienta sobre la existente capacidad de semiconductores y manufactura de precisión de la isla.
+- [Taipéi Chino](/es/society/chinese-taipei) — La otra cara de esa línea de soberanía que «devuelve Taiwán al nombre», en el terreno deportivo.
+- [Lin Chi-erh](/es/people/lin-chi-er-astronaut) — Un perfil de otra figura que trabaja por Taiwán en el ámbito científico.
+- [Chi Po-lin](/es/people/chi-po-lin) — El primer satélite del Fuwei 8 lleva su nombre: funcionario de fotografía aérea del Instituto Nacional de Investigación, director de 《看見台灣》, falleció en 2017 durante el reconocimiento de locaciones para la secuela.
 
 ## Fuentes de video
 

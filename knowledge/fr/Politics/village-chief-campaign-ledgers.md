@@ -1,17 +1,17 @@
 ---
-title: "Les 309 cahiers de comptes des maires de quartier : un taux de victoire d'environ 30 %, qu'on dépense 30 000 ou 120 000 dollars"
-description: "Un candidat novice, fraîchement diplômé d'une université à Changhua, a obtenu 732 voix en 2022 et a financé lui-même ses dépenses à hauteur de 3 275 dollars. Parmi les 13 988 candidats à des postes de maire de quartier dans toute l'île, seuls 309 ont tenu à déposer leurs comptes de financement auprès du Bureau des Enquêteurs (Control Yuan). En croisant ces 309 cahiers de comptes avec les résultats du scrutin, on constate une chose contre-intuitive : parmi les candidats sans mandat en cours, ceux qui dépensent le moins et ceux qui dépensent le plus remportent une victoire dans les mêmes proportions."
+title: '309 registres de chefs de village : pour les challengers, dépenser 30 000 ou 120 000 NT$, le taux de réussite reste à 30 %'
+description: "Un novice de Taïfeng, dans la ville de Changhua, a obtenu 732 voix en 2022 tout en finançant lui-même 3 275 NT$ de sa poche. Sur les 13 988 candidats aux élections locales cette année-là, seuls 309 ont déposé un registre de contributions politiques auprès du Conseil de contrôle. En croisant ces données avec les résultats, on constate que pour les challengers sans mandat actuel, le taux d'élection est d'environ 30 %, qu'ils dépensent moins de 30 000 NT$ ou plus de 120 000 NT$."
 date: 2026-09-28
 category: 'Politics'
 tags:
   [
-    'Maire de quartier',
-    'Financement électoral',
-    'Coût électoral',
-    'Candidature de novice',
-    'Bureau des Enquêteurs',
-    'Élections 2022',
-    'Élections 2026',
+    'chefs de village',
+    'contributions politiques',
+    'coût électoral',
+    'candidature de novice',
+    'Conseil de contrôle',
+    'élections 2022',
+    'élections 2026',
   ]
 subcategory: '選舉制度'
 author: 'bblawyer918'
@@ -22,139 +22,139 @@ difficulty: 'intermediate'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'Politics/309本里長帳簿.md'
-sourceCommitSha: '5a9cd9398'
-sourceContentHash: 'sha256:9ce152768ea44921'
-sourceBodyHash: 'sha256:60bb46f6e4722d51'
-translatedAt: '2026-09-30T09:01:27+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:9da6ac74278aa12e'
+sourceBodyHash: 'sha256:f6dc7e3946b055ef'
+translatedAt: '2026-11-03T00:30:02+08:00'
 ---
 
-# Les 309 cahiers de comptes des maires de quartier : un taux de victoire d'environ 30 %, qu'on dépense 30 000 ou 120 000 dollars
+# 309 registres de chefs de village : pour les challengers, dépenser 30 000 ou 120 000 NT$, le taux de réussite reste à 30 %
 
-> **Résumé en 30 secondes :** Le 26 novembre 2022, un novice, tout juste diplômé à l'université dans le quartier de Taifong à Changhua, a obtenu 732 voix, terminant deuxième sur trois. Son rapport déposé au Bureau des Enquêteurs indique : revenus de 46 977 dollars, dépenses de 50 252 dollars, financé lui-même à hauteur de 3 275 dollars. Cette année-là, 13 988 personnes se sont inscrites pour des postes de maire de quartier à travers toute l'île ; seuls 309 d'entre eux ont ouvert un compte dédié aux dons politiques et ont déclaré chaque dépense. En croisant ces 309 rapports avec les résultats du vote, on découvre un phénomène contre-intuitif : parmi les candidats sans mandat en cours, ceux qui dépensent le moins et ceux qui dépensent le plus remportent leur élection à peu près dans les mêmes proportions.
+> **Aperçu en 30 secondes :** Le 26 novembre 2022, un novice fraîchement diplômé de l'université dans le village de Taïfeng (台鳳里), ville de Changhua, a obtenu 732 voix, se classant deuxième sur trois candidats. Son registre déposé auprès du Conseil de contrôle indique : 46 977 NT$ de revenus et 50 252 NT$ de dépenses, soit un déficit personnel de 3 275 NT$. Cette année-là, sur les 13 988 personnes inscrites pour les élections de chefs de village à Taïwan, seuls 309 ont ouvert un compte dédié aux contributions politiques et déclaré chaque centime de manière transparente. En comparant ces 309 registres aux résultats du scrutin, on observe un fait contre-intuitif : parmi les challengers sans mandat actuel, le taux d'élection du quart ayant dépensé le moins est presque identique à celui du quart ayant dépensé le plus.
 
 ---
 
-## Le cri de l'élection du premier bureau de vote
+## Le son du dépouillement dans le premier bureau de vote
 
-Ce soir-là, il était présent au premier bureau de vote du quartier. Les employés ont déroulé chaque bulletin de vote un par un, annonçant les noms des candidats : tel candidat un vote, tel autre un vote.
+Le soir du dépouillement, il attendait dans le premier bureau de vote du village. Les agents dépliaient les bulletins un par un, annonçant le nom des candidats : « Un pour tel candidat, un pour tel candidat... »
 
-Cette voix avait son propre rythme. Plus tard, il s'est souvenu que dès qu'il connaissait le nombre approximatif de bulletins que chaque urne pouvait contenir, et qu'il entendait la fréquence à laquelle son propre nom était mentionné lors du dépouillement, il pouvait déjà se faire une idée globale. C'était le signal le plus objectif.
+Ce son possède son propre rythme. Il se souvient plus tard qu'en connaissant approximativement la proportion de voix par urne et en écoutant la fréquence à laquelle son nom était prononcé, il pouvait avoir une idée précise du résultat. C'était le signal le plus objectif.
 
-Un signal plus précoce s'était manifesté la veille. Selon la _Loi sur les élections et les référendums des fonctionnaires publics_, après 22 heures pendant la période électorale, il est interdit de mener des activités de campagne publiques ; le jour du vote, toute la journée est interdite[^3]。Les dernières heures avant 22 heures, la nuit précédant l'élection, étaient les dernières opportunités pour les candidats de faire pression, et selon lui, c'était à ce moment-là que l'on pouvait sentir comment les gens dans la rue réagissaient.
+Un signal plus précoce est apparu la veille. La _Loi sur les élections et les révocations des fonctionnaires publics_ stipule que les activités de campagne publique sont interdites après 22 heures chaque soir, et totalement proscrites le jour du vote[^3]. Les quelques heures précédant 22 heures, la dernière nuit avant l'élection, constituent la dernière lutte des candidats. Il dit que l'on peut déjà ressentir à ce moment-là comment les gens dans la rue réagissent à votre présence.
 
-Le résultat final était : le candidat élu a obtenu 1 339 voix, lui a obtenu 732 voix, un autre candidat soutenu par un parti politique a obtenu 532 voix, avec un taux de participation de 63,3 %[^4]。
+Le résultat final fut : 1 339 voix pour l'élu, 732 pour lui, et 532 pour un autre candidat recommandé par un parti politique, avec un taux de participation de 63,3 %[^4].
 
-## Un cahier de comptes où l'on a personnellement mis 3 275 dollars
+## Un registre avec un déficit de 3 275 NT$
 
-Sa raison pour se présenter était simple : il imaginait la localité différemment, et s'il n'avait pas été entendu, il voulait simplement essayer lui-même.
+Sa raison de se présenter était directe : il avait une vision différente du développement local et s'est dit que si les choses n'avançaient pas, il tenterait sa chance lui-même.
 
-Il y avait aussi une curiosité supplémentaire. Il voulait comprendre ce que faisait concrètement un maire de quartier. Il avait aussi entendu dire que l'organisation communiste chinoise chargée de l'unité de Taïwan (Association pour le réunifier Taïwan, ou "Comité central de l'Association pour l'unité de Taïwan") considérait les temples et les maires de quartier comme des cibles prioritaires pour son action. Il voulait voir cela de ses propres yeux. Plus tard, l'équipe de recherche dirigée par le professeur adjoint à l'Institut d'études sociales de l'Université Tsinghua, Gu Mingjun, a confirmé d'après les rapports officiels chinois que les temples, les coopératives agricoles et maritimes, ainsi que les maires de quartier figuraient parmi les cibles principales[^13]。Il voulait aussi créer une entreprise dans le quartier, pensant que si le poste de maire de quartier pouvait devenir une source de revenus, il pourrait faire ce qu'il aimait tout en gagnant sa vie.
+Il y avait aussi une curiosité sous-jacente. Il voulait savoir ce qu'un chef de village fait réellement au quotidien. Il avait également entendu dire que la Chine, dans sa stratégie d'unification contre Taïwan, ciblait les temples et les chefs de village comme acteurs de base pour ses opérations d'influence. Il voulait vérifier par lui-même. Plus tard, l'équipe de recherche de la professeure associée Gu Ming-jun (古明君) de l'Université Tsing Hua a confirmé que, selon les rapports officiels chinois, le réseau d'influence cible effectivement les temples, les associations agricoles et de pêche, ainsi que les chefs de village[^13]. Il souhaitait également entreprendre dans sa communauté, pensant que si le poste de chef de village était une profession, il pourrait allier passion et revenus.
 
-La conception légale ne correspondait pas à son imagination. L'article 61 de la _Loi sur l'administration locale_ stipule que les maires de quartier sont **sans rémunération** ; les bureaux municipaux allouent une "subvention pour les frais de fonction"[^5]，qui s'élevait à 45 000 dollars par mois en 2022, augmentée à 50 000 dollars en 2024 après modification de la loi[^6]。Cet argent est utilisé pour couvrir les frais de fonction du bureau du quartier, et juridiquement ne constitue pas un salaire.
+La conception légale diffère de son imagination. L'article 61 de la _Loi sur le système local_ précise que les chefs de village occupent des fonctions **bénévoles** ; les fonds alloués par le bureau sont des « indemnités de gestion des affaires »[^5]. Une réforme en 2022 a porté cette somme de 45 000 NT$ à 50 000 NT$ par mois, entrée en vigueur le 25 décembre de la même année. Le ministère de l'Intérieur a annoncé qu'elle passerait à 54 000 NT$ en juillet 2026 (et 64 800 NT$ dans les zones autochtones)[^6]. Cet argent sert à couvrir les frais de gestion du bureau du village et n'est pas considéré juridiquement comme un salaire.
 
-Il a ouvert un compte bancaire dédié, et a reçu dix dons personnels. Parmi les donateurs figuraient sa tante et son beau-frère vivant dans une autre région, des camarades d'université et du lycée, ainsi que quelques habitants du quartier. Ces derniers avaient déjà tenté de débattre le maire en cours, et considéraient ce jeune homme comme leur successeur naturel, indépendamment de ses chances de succès. Ajouté à cela, un don anonyme de 6 000 dollars, pour un total de revenus de 46 977 dollars[^1]。
+Il a ouvert un compte spécial et a reçu dix dons personnels. Parmi les donateurs figuraient sa cousine et son beau-frère résidant dans une autre région, des camarades d'université et de lycée, ainsi que deux ou trois résidents du village. Ces derniers, ayant déjà contesté le chef de village sortant par le passé, voyaient en ce jeune homme un successeur potentiel et voulaient marquer leur soutien, peu importait les chances de victoire. En ajoutant un don anonyme de 6 000 NT$, son revenu total s'est élevé à 46 977 NT$[^1].
 
-Parmi les 50 252 dollars de dépenses déclarées, 49 252 dollars ont été consacrés à la publicité électorale, et les 1 000 dollars restants ont couvert les frais de carburant[^1]。La plus grande dépense était un microphone d'enregistrement et une interface audio coûtant 17 000 dollars, suivie de ballons gonflables portatifs pour 10 763 dollars, puis des panneaux, des haut-parleurs portatifs et des photos officielles. Il y avait également une plaque de gravure pour 2 820 dollars, qu'il a utilisée pour imprimer lui-même des t-shirts électoraux.
+Sur les 50 252 NT$ de dépenses déclarées, les frais de promotion représentaient 49 252 NT$, le reste (1 000 NT$) étant consacré au carburant[^1]. La dépense la plus importante fut l'achat d'un microphone et d'une interface d'enregistrement pour 17 000 NT$, suivie d'un ballon à dos de sac à 10 763 NT$, puis des panneaux, de mégaphones sans fil portatifs et de photos officielles. Il y eut aussi une dépense de 2 820 NT$ pour un écran de sérigraphie, qu'il a utilisé pour imprimer lui-même ses T-shirts de campagne.
 
-En 2022, les frais d'inscription pour un poste de maire de quartier exigeaient un dépôt de garantie de 50 000 dollars, et si le nombre de voix obtenues ne dépassait pas 10 % du corps électoral, la garantie était perdue[^3]。Avec 4 195 électeurs dans le quartier de Taifong, le seuil était d'environ 420 voix. Il a obtenu 732 voix, et sa garantie lui a été rendue. Sur le plan comptable, l'argent qu'il a personnellement mis en jeu était de 3 275 dollars.
+En 2022, la caution pour l'inscription des chefs de village était de 50 000 NT$, et elle était confisquée si le candidat obtenait moins de 10 % des voix[^3]. À Taïfeng, il y avait 4 195 électeurs, soit un seuil d'environ 420 voix. Avec 732 voix, il a récupéré sa caution. Sur le plan comptable, son investissement personnel fut de 3 275 NT$.
 
-## Parmi 13 988 candidats, seuls 309 ont déclaré leurs comptes
+## 13 988 candidats, mais seulement 309 registres
 
-Son rapport a pu être retrouvé parce qu'il avait ouvert un compte bancaire.
+Si son registre est consultable, c'est parce qu'il a ouvert un compte spécial.
 
-Selon l'article 10 de la _Loi sur les dons politiques_, tout candidat potentiel doit d'abord ouvrir un compte bancaire au sein d'une institution financière, obtenir l'autorisation du Bureau des Enquêteurs, et ne peut alors accepter des dons politiques[^2]。Inversement, si un candidat finance lui-même toutes ses dépenses sans demander d'argent à personne, il n'a pas besoin d'ouvrir de compte, et il n'y aura donc aucun rapport à déposer.
+L'article 10 de la _Loi sur les contributions politiques_ stipule que les candidats potentiels doivent d'abord ouvrir un compte dans une institution financière et obtenir l'autorisation du Conseil de contrôle pour recevoir des contributions politiques[^2]. À l'inverse, si un candidat finance tout lui-même sans accepter d'argent d'autrui, il n'a pas besoin d'ouvrir de compte et ne laisse aucun registre.
 
-Parmi les 7 731 quartiers et les 13 988 candidats à travers toute l'île en 2022[^4]，seuls 309 ont laissé leurs rapports électoraux sur la plateforme de consultation publique des dons politiques du Bureau des Enquêteurs, soit environ 2,2 %[^1]。Les 97,8 % restants ont dépensé une certaine somme d'argent, mais où et comment, cela ne figure nulle part dans les données publiques.
+En 2022, sur les 7 731 villages et 13 988 candidats à Taïwan[^4], seuls 309 (environ 2,2 %) ont laissé un registre électoral sur la plateforme de consultation publique des contributions politiques du Conseil de contrôle[^1]. Pour les 97,8 % restants, il est impossible de savoir combien ils ont dépensé ni comment.
 
-Cette même année, 3 058 quartiers ne comptaient qu'un seul candidat inscrit, ce qui représente 40 % de tous les quartiers[^4]。
+Cette année-là, 3 058 villages n'avaient qu'un seul candidat inscrit, soit 40 % de l'ensemble des villages[^4].
 
-Parmi ces 309 rapports, 10 provenaient du même programme civil. L'entreprise sociale "Shi Ji Hui She" (Société pour la réalisation) a lancé en octobre 2021 une "Académie indépendante des maires de quartier", publiant un manuel complet sur le poste, organisant six ateliers à travers toute l'île, encourageant plus de 30 personnes à se présenter, et aidant 10 d'entre elles à collecter des dons politiques[^8][^9]。Le candidat de Taifong à Changhua était l'un de ces 10 représentants.
+Parmi ces 309 registres, 10 proviennent d'un même projet civil. L'entreprise sociale « Shixian Hu She » (實現會社) a lancé en octobre 2021 l'« Académie des chefs de village indépendants », proposant un manuel complet pour la fonction, organisant 6 ateliers à Taïwan, encourageant plus de 30 personnes à se présenter et aidant 10 d'entre elles à collecter des fonds[^8][^9]. Le jeune homme de Taïfeng est le représentant de Changhua parmi ces 10 personnes.
 
-> 📝 **Note de l'éditeur :** Le système de transparence des dons politiques est conçu autour du concept de "recevoir de l'argent". Il permet aux électeurs de voir à qui le candidat doit une faveur, mais un candidat qui finance lui-même toutes ses dépenses sans demander d'argent à personne ne laisse aucune trace dans ce système. En conséquence, ce sont souvent les candidats les plus pauvres et les plus dépendants de leur entourage qui sont les plus enclins à publier leurs comptes.
+> 📝 **Note du commissaire :** Le système de transparence des contributions politiques est conçu autour de la notion de « recevoir de l'argent ». Il permet aux électeurs de voir à qui un candidat est redevable, mais un candidat finançant sa campagne uniquement sur ses propres fonds ne laisse aucune trace dans ce système. Résultat : ceux qui sont les plus enclins à ouvrir leurs comptes sont souvent les novices les plus démunis, contraints de solliciter leurs proches.
 
-## Où est allé l'argent ?
+## Où va l'argent ?
 
-En regroupant les dépenses des 309 rapports selon leur catégorie[^10]，on obtient un total d'environ 28,46 millions de dollars, répartis comme suit : repas et invitations 20,5 %, impression de documents de propagande 16,5 %, location de salles pour les bureaux et les événements 15,9 %, affichage et drapeaux 15,0 %. Les cadeaux représentent 11,8 %, et les frais de personnel 5,7 %.
+En reclassant les dépenses des 309 registres par usage[^10], le total s'élève à environ 28,46 millions NT$. Les quatre premiers postes sont : restauration et réception (20,5 %), impression de matériel promotionnel (16,5 %), bureaux et lieux d'activités (15,9 %), panneaux et bannières (15,0 %). Les cadeaux représentent 11,8 % et les frais de personnel 5,7 %.
 
-Les dépenses liées aux vidéos, aux publicités Facebook et aux photos officielles, qui relèvent du numérique, ne représentent que 1,2 %, et seuls 21 candidats sur les 309 ont consacré de l'argent à ces postes.
+Les dépenses numériques (vidéos, publicités Facebook, photos officielles) ne représentent que 1,2 %, et seuls 21 des 309 candidats ont utilisé ce poste.
 
-Les écarts entre les chiffres de chaque candidat sont importants. La médiane des collectes est de 45 314 dollars, et la médiane des dépenses est de 54 500 dollars. Parmi les 309 candidats, 237 (77 %) ont dépensé plus qu'ils n'ont collecté, l'écart étant comblé personnellement[^1]。En moyenne, chaque voix obtenue a coûté 62 dollars à la médiane.
+Les écarts entre les individus sont considérables. La médiane des fonds collectés est de 45 314 NT$, et la médiane des dépenses est de 54 500 NT$. Sur les 309 personnes, 237 (77 %) ont dépensé plus qu'ils n'ont reçu, devant combler le déficit eux-mêmes[^1]. En moyenne, pour chaque voix obtenue, le coût médian est de 62 NT$.
 
-À ce niveau de la hiérarchie, le coût d'une campagne électorale reste lié à des repas partagés et à des drapeaux brandis un par un.
+Au niveau des chefs de village, une campagne électorale se résume encore à des tables de repas et des rangées de drapeaux.
 
-## Que l'on dépense peu ou beaucoup, le taux de victoire reste d'environ 30 %
+## Dépenser plus ou moins : le taux de réussite reste à 30 %
 
-L'aspect le plus intéressant de ces données apparaît lorsque l'on croise les rapports comptables avec les résultats du vote[^4]。
+L'aspect le plus intéressant de ces données apparaît lorsque l'on croise les registres avec les résultats du scrutin[^4].
 
-Commençons par regarder l'ensemble : la médiane des dépenses des candidats élus est de 82 765 dollars, contre 45 787 dollars pour les candidats non élus. À première vue, cela semble indiquer que plus on dépense, plus on a de chances de gagner.
+Regardons d'abord l'ensemble : la médiane des dépenses des élus est de 82 765 NT$, contre 45 787 NT$ pour les perdants. À première vue, on pourrait penser que dépenser plus facilite la victoire.
 
-Mais en séparant les maires en poste et les nouveaux candidats, le tableau change. Parmi les 73 maires de quartier élus en 2018, 61 ont été réélus en 2022, soit un taux de réussite de 84 %, avec une médiane de dépenses de 106 842 dollars. Parmi les 229 nouveaux candidats sans mandat en cours, le taux de victoire n'était que de 27 %.
+Mais en distinguant les sortants des challengers, la situation change. Sur les 73 chefs de village déjà en poste en 2018, 61 ont été réélus en 2022, soit un taux de réussite de 84 %, avec une médiane de dépenses de 106 842 NT$. Pour les 229 challengers sans mandat actuel, le taux de réussite n'est que de 27 %.
 
-En divisant ces 229 candidats en quatre groupes selon leur niveau de dépenses :
+Si l'on divise ces 229 challengers en quatre groupes selon leurs dépenses :
 
-| Fourchette de dépenses (dollars) | Élus / Nombre total | Taux de victoire |
-| :------------------------------- | :------------------ | :--------------- |
-| 1 233 – 32 000                   | 13 / 46             | 28%              |
-| 32 349 – 63 000                  | 14 / 47             | 30%              |
-| 64 444 – 122 665                 | 13 / 47             | 28%              |
-| 123 600 – 869 890                | 14 / 47             | 30%              |
+| Tranche de dépenses (NT$) | Élus / Total | Taux de réussite |
+| :------------------------ | :----------- | :--------------- |
+| 1 233 – 32 000            | 13 / 46      | 28 %             |
+| 32 349 – 63 000           | 14 / 47      | 30 %             |
+| 64 444 – 122 665          | 13 / 47      | 28 %             |
+| 123 600 – 869 890         | 14 / 47      | 30 %             |
 
-Un candidat dépensant 1 200 dollars et un autre dépensant près de 900 000 dollars figurent dans le même tableau, avec des taux de victoire similaires. L'impression générale selon laquelle "les gagnants dépensent davantage" provient principalement des maires en poste : ils étaient déjà plus susceptibles de gagner, et ils étaient également plus enclins à dépenser abondamment.
+Ceux qui dépensent un peu plus de mille NT$ et ceux qui dépensent plus de huit cent mille NT$ se retrouvent dans le même tableau avec des taux de réussite quasi identiques. L'impression générale que « les gagnants dépensent plus » provient principalement des chefs de village sortants : ils ont déjà une base solide pour gagner et sont donc plus enclins à investir.
 
-Parmi les 21 candidats ayant consacré des fonds aux dépenses numériques, 11 ont été élus. Cependant, l'échantillon est trop petit, et il mélange des maires en poste et de nouveaux candidats, rendant difficile l'établissement d'une corrélation causale.
+Parmi les 21 candidats ayant eu des dépenses numériques, 11 ont été élus. L'échantillon est trop petit et mélange sortants et challengers pour établir un lien de causalité.
 
-> 📝 **Note de l'éditeur :** L'idée que "les élections sont des affaires d'argent" doit être reformulée à ce niveau. L'argent ressemble davantage à un thermomètre : il mesure combien un candidat a été actif dans le quartier et combien de gens sont prêts à lui soutenir financièrement, mais il ne transforme pas directement un nouveau candidat en maire de quartier. Dans un système où chaque mandat dure quatre ans et où les postes sont à pourvoir à parts égales, ce qui manque vraiment, c'est du temps.
+> 📝 **Note du commissaire :** L'expression « l'élection est une guerre d'argent » doit être reformulée au niveau des chefs de village. L'argent ressemble davantage à un thermomètre : il mesure depuis combien de temps un candidat est implanté dans le village et combien de personnes sont prêtes à financer ses actions, mais il ne transforme pas directement un challenger en chef de village. Dans ces élections locales où les mandats sont de quatre ans et où 40 % des scrutins sont sans opposition directe, la véritable ressource rare est le temps.
 
 ## Les 97,8 % invisibles
 
-Cette analyse comporte une limitation incontournable : les 309 personnes sont celles qui ont choisi d'ouvrir un compte bancaire.
+Cette analyse comporte une limite incontournable : les 309 personnes font partie d'une minorité ayant choisi d'ouvrir un compte.
 
-Celles qui ouvrent un compte peuvent déjà être plus soucieées de la transparence, ou peuvent bénéficier de l'aide d'un programme organisé, ou avoir réellement besoin de solliciter des dons. Les 13 679 autres candidats sans rapport comptable peuvent avoir dépensé davantage ou moins, mais nous ne le savons pas. Ainsi, les conclusions ci-dessus ne s'appliquent qu'aux candidats ayant déclaré leurs comptes, et ne peuvent pas être généralisées à l'ensemble des candidats.
+Ceux qui acceptent d'ouvrir un compte sont peut-être déjà plus sensibles à la transparence, ou bénéficient d'un accompagnement, ou ont réellement besoin de collecter des fonds. Les 13 679 autres candidats pourraient avoir dépensé beaucoup plus, ou beaucoup moins. Par conséquent, les conclusions ci-dessus ne s'appliquent qu'« aux personnes ayant laissé un registre » et ne peuvent être généralisées à l'ensemble des candidats.
 
-Une autre limite réside dans la législation elle-même. La _Loi sur les dons politiques_ place dans une catégorie relativement floue les prêts que le candidat contracte auprès de lui-même ou de ses proches. Comme le souligne l'article de Taiwan.md sur la transparence des dons politiques (/fr/politics/political-donation-transparency/), l'argent que le candidat a mis dans le compte n'est pas forcément le coût total d'une campagne électorale.
+Une autre limite réside dans la loi elle-même. La _Loi sur les contributions politiques_ traite de manière relativement floue le cas où un candidat emprunte de l'argent à lui-même ou à sa famille ; l'article de Taiwan.md sur la [transparence des contributions politiques](/fr/politics/political-donation-transparency/) a déjà analysé cette faille. Le « financement personnel » indiqué dans les registres ne reflète pas nécessairement le coût total d'une campagne.
 
-Le système législatif est également en évolution. En juillet 2026, la Commission électorale nationale (CEC) a réduit le dépôt de garantie des candidats aux postes de maire de quartier et de maire de ville de 50 000 dollars à 30 000 dollars[^7]。Pour un candidat dont les dépenses se situent autour de la médiane de 50 000 dollars, cela réduit le seuil initial d'accès à la course électorale de 20 000 dollars.
+Le système évolue également. En juillet 2026, la Commission électorale centrale abaissera la caution des candidats chefs de village de 50 000 NT$ à 30 000 NT$[^7]. Pour un candidat dont la dépense médiane est d'environ 50 000 NT$, cela réduit le seuil d'entrée initial de 20 000 NT$.
 
-## En 2026, les prochains rapports arriveront
+## 2026 : la prochaine série de registres
 
-Parmi les 10 candidats de l'Académie indépendante des maires de quartier, 4 ont remporté leur élection, dont un était déjà maire de quartier et cofondateur de l'académie. Selon le relevé d'inscription des candidats pour les élections locales de 2026 publié par la CEC en septembre 2026, 3 de ces 10 personnes se sont de nouveau inscrites comme candidats, dont 2 étaient des électeurs en 2022[^11]。
+Parmi les 10 candidats de l'Académie des chefs de village indépendants de l'époque, 4 ont finalement été élus, dont l'un était déjà chef de village et l'un des fondateurs de l'académie. Selon le tableau récapitulatif des inscriptions de la Commission électorale centrale de septembre 2026, 3 de ces 10 personnes se sont représentées, dont deux parmi les élus de 2022[^11].
 
-Le candidat de Taifong à Changhua n'est pas sur cette liste.
+Le jeune homme de Taïfeng ne figure pas sur la liste.
 
-Les personnes s'inscrivant pour les élections locales de 2026 peuvent commencer à accepter des dons politiques à partir du 20 août 2026[^12]。Selon la loi, les candidats doivent déposer leur rapport dans les trois mois suivant le jour du vote, et la Commission des Enquêteurs (Control Yuan) doit le publier dans les six mois suivant la date limite[^2]。Après le vote du 28 novembre, les prochains rapports de maires de quartier apparaîtront sur la plateforme au plus tard en août 2027. À cette occasion, on pourra refaire les comptes : les candidats dépensant 30 000 dollars et ceux dépensant 120 000 dollars auront-ils toujours le même taux de victoire ?
+Les candidats potentiels pour les élections de chefs de village de 2026 pourront commencer à recevoir des contributions politiques dès le 20 août[^12]. Selon la loi, ils doivent déclarer leurs comptes dans les trois mois suivant le jour du vote, et le Conseil de contrôle les rendra publics dans les six mois suivant l'échéance[^2]. Après le vote du 28 novembre, la prochaine série de registres apparaîtra sur la plateforme au plus tard fin août 2027. À ce moment-là, nous pourrons recalculer : ceux qui dépensent 30 000 ou 120 000 NT$ auront-ils toujours le même taux de réussite ?
 
 ---
 
 ## Lectures complémentaires
 
-- [Système des maires de quartier](/fr/politics/village-chief-system) — 7 748 chefs municipaux élus, comment fonctionne l'unité politique la plus basique de Taïwan
-- [Transparence des dons politiques](/fr/politics/political-donation-transparency) — Conception du système de déclaration et la faille du "prêt à soi-même"
-- [Élections unies de 2026](/fr/politics/2026-local-elections-taiwan) — Les prochains rapports proviendront de cette élection
+- [Le système des chefs de village](/fr/politics/village-chief-system) — 7 748 élus locaux, comment fonctionne l'unité politique la plus élémentaire de Taïwan
+- [Transparence des contributions politiques](/fr/politics/political-donation-transparency) — Conception du système de déclaration et la faille de « l'emprunt à soi-même »
+- [Élections locales de 2026](/fr/politics/2026-local-elections-taiwan) — La prochaine série de registres proviendra de ces élections
 
-## Sources
+## Références
 
-[^1]: [Plateforme de consultation publique des dons politiques du Bureau des Enquêteurs](https://ardata.cy.gov.tw/) — Rapports comptables des candidats aux élections de maires de quartier en 2022 (année 111). Les statistiques de cet article sont basées sur le téléchargement via l'API de la plateforme des 309 premiers rapports déclarés, non compris les déclarations tardives.
+[^1]: [Plateforme de consultation publique des contributions politiques du Conseil de contrôle](https://ardata.cy.gov.tw/) — Rapports comptables des candidats aux élections de chefs de village (année 111). Les statistiques de cet article sont basées sur les 309 versions corrigées les plus récentes téléchargées via l'API de la plateforme, excluant les déclarations de reliquat.
 
-[^2]: [Loi sur les dons politiques](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Base nationale de lois, article 10 (compte dédié), article 12 (période de collecte), article 21 (déclaration et publication).
+[^2]: [Loi sur les contributions politiques](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Base de données législative nationale, Article 10 (compte spécial), Article 12 (période de réception), Article 21 (déclaration et publication).
 
-[^3]: [Loi sur les élections et les référendums des fonctionnaires publics](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Base nationale de lois, article 32 (dépôt de garantie et seuil de remboursement), article 56 (limitations horaires des activités de campagne).
+[^3]: [Loi sur les élections et les révocations des fonctionnaires publics](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Base de données législative nationale, Article 32 (caution et seuil de restitution), Article 56 (limitation du temps de campagne quotidienne).
 
-[^4]: [Base de données électorale de la Commission électorale nationale](https://db.cec.gov.tw/) — Résultats du scrutin pour les élections de maires de quartier en 2022. Le nombre de candidats, le nombre de quartiers avec égalité de postes et le taux de victoire des nouveaux candidats sont calculés par l'auteur en additionnant les résultats de chaque quartier et en les croisant avec les 309 rapports comptables (302 paires correspondent).
+[^4]: [Base de données électorale de la Commission électorale centrale](https://db.cec.gov.tw/) — Résultats des votes par village pour les élections de chefs de village de 2022. Le nombre de candidats, le nombre de villages avec élection sans opposition et le taux de réussite des challengers ont été calculés par l'auteur en agrégeant les résultats par village et en les comparant aux 309 registres (302 correspondances réussies).
 
-[^5]: [Loi sur l'administration locale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Base nationale de lois, article 61 : les maires de quartier sont sans rémunération.
+[^5]: [Loi sur le système local](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Base de données législative nationale, Article 61 : Les chefs de village occupent des fonctions bénévoles.
 
-[^6]: [Décret relatif aux allocations des représentants locaux et aux subventions pour les frais de fonction des maires de quartier](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Base nationale de lois, article 7, montant actuel de 50 000 dollars par mois (modifié en juin 2024).
+[^6]: [Règlement sur les indemnités des représentants locaux et les indemnités de gestion des affaires des chefs de village](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Base de données législative nationale, Article 7 : l'indemnité mensuelle est de 50 000 NT$, avec une augmentation de 20 % pour les zones autochtones. Les ajustements proportionnels sont annoncés par le ministère de l'Intérieur. Le montant de 50 000 NT$ provient de la version modifiée le 4 mai de l'année 111, entrée en vigueur le 25 décembre de la même année ; les 54 000 NT$ à partir de juillet 2026 sont un ajustement annoncé par le ministère de l'Intérieur conformément à cet article.
 
-[^7]: [Réduction du dépôt de garantie pour les candidats aux postes de maire de ville et de quartier à un minimum de 30 000 dollars](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Agence centrale de presse, 22 juillet 2026.
+[^7]: [La Commission électorale centrale baisse la caution des candidats maires et chefs de village à un minimum de 30 000 NT$](https://www.cna.com.tw/news/aipl/202607220329.aspx) — CNA, 2026-07-22.
 
-[^8]: [La vague de candidatures de la génération post-318 s'essouffle-t-elle ? Les défis et les espoirs des jeunes maires de quartier](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — Reporters, Kong De-lian, 5 septembre 2022.
+[^8]: [« La vague de candidatures de la génération du mouvement étudiant du 318 s'estompe-t-elle ? » Dilemmes et percées des jeunes chefs de village](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Kong De-lian, 2022-09-05.
 
-[^9]: [Atelier d'une journée pour commencer directement en tant que maire de quartier](https://captain-village.a-sociate.tw/2022-workshop/) — Académie indépendante des maires de quartier, Shi Ji Hui She.
+[^9]: [【Ma première élection de chef de village réussie】Atelier d'une journée](https://captain-village.a-sociate.tw/2022-workshop/) — Shixian Hu She ・ Académie des chefs de village indépendants.
 
-[^10]: Méthode de classification : selon les champs "objet de dépense" et "catégorie de dépense" du rapport comptable, les détails sont classés en huit catégories : repas, propagande, affichage, cadeaux, salles, personnel, médias numériques et autres. Les dépenses numériques ne comprennent que celles explicitement mentionnant des vidéos, des publicités ou des services de marketing numérique, ou dont le destinataire est Meta, Google ou une entreprise de marketing numérique. Cette classification est personnalisée par l'auteur, et diffère des catégories légales définies par l'article 20 de la _Loi sur les dons politiques_.
+[^10]: Méthode de classification : selon les champs « usage de la dépense » et « bénéficiaire de la dépense » des rapports comptables, les détails ont été regroupés en huit catégories : restauration, promotion, panneaux, cadeaux, lieux, personnel, numérique/audiovisuel et autres. La catégorie numérique ne comprend que les dépenses explicitement mentionnées comme vidéos, publicités ou photographie, ou dont le bénéficiaire est Meta, Google ou une agence de marketing numérique. Cette classification est propre à l'auteur et diffère des rubriques légales de l'article 20 de la _Loi sur les contributions politiques_.
 
-[^11]: [Relevé d'inscription des candidats aux élections des fonctionnaires publics locaux en 2026](https://web.cec.gov.tw/central/article/64709) — Liste des candidats aux postes de maire de quartier, date de compilation : 7 septembre 2026, 14 039 entrées au total.
+[^11]: [Tableau récapitulatif des inscriptions des candidats aux élections locales de l'année 115 par la Commission électorale centrale](https://web.cec.gov.tw/central/article/64709) — Registre des chefs de village, date d'établissement : 7 septembre de l'année 115, total de 14 039 entrées.
 
-[^12]: [Les élections locales de 2026 approchent ! Le ministère de l'Intérieur révèle quatre astuces pour les dons politiques](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Ministère de l'Intérieur, rappel des périodes de collecte et de déclaration des dons politiques pour les candidats aux élections locales de 2026.
+[^12]: [Les élections locales de l'année 115 approchent ! Le ministère de l'Intérieur révèle « 4 conseils » pour les contributions politiques](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Ministère de l'Intérieur, rappels sur la période de réception et la déclaration des contributions pour les candidats aux élections locales de 2026.
 
-[^13]: [L'Universitaire de l'Académie chinoise (CAU) révèle le vaste réseau de manipulation politique de la Chine continentale envers Taïwan : couvrant temples, commerçants, coopératives agricoles et maritimes, maires de quartier, écoles, médias et tribus](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Wo Cǎo, Zhu Naiying, 22 janvier 2024.
+[^13]: [L'universelle stratégie d'influence du PCC contre Taïwan révélée par l'universitaire Gu Ming-jun : temples, commerçants, associations agricoles, chefs de village, écoles, médias et tribus](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Wacuo, Zhu Nai-ying, 2024-01-22.

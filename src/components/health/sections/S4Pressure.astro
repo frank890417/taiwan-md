@@ -1,0 +1,128 @@
+---
+/** §4 困境：急診留置、護理人力、各縣市醫師數。 */
+import TrendChart from '../charts/TrendChart.astro';
+import { healthCtx } from '../../../utils/health/pageContext';
+import RelatedChips from '../RelatedChips.astro';
+import type { RelItem } from '../../../utils/health/related';
+interface Props {
+  lang: string;
+  related: RelItem[];
+}
+const { lang, related } = Astro.props;
+const { t, r, p, zh, topic } = healthCtx(lang);
+const er = topic.erStay.rows;
+const wf = topic.workforce.rows;
+const national = topic.counties.rows.find((c) => c.name === '全國')!;
+const counties = topic.counties.rows
+  .filter((c) => c.name !== '全國')
+  .sort((a, b) => b.doctorsPer10k - a.doctorsPer10k);
+const max = counties[0].doctorsPer10k;
+const avgIdx = counties.findIndex(
+  (c) => c.doctorsPer10k < national.doctorsPer10k,
+);
+const rows = [
+  ...counties.slice(0, avgIdx).map((c) => ({ ...c, cls: 'is-hi' })),
+  { ...national, name: t('s4.c3.avg'), cls: 'is-avg' },
+  ...counties.slice(avgIdx).map((c) => ({ ...c, cls: 'is-low' })),
+];
+---
+
+<section class="bp-section" id="s4">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s4.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s4.h2')}</h2>
+    <p class="bp-lede" set:html={r('s4.lede')} />
+    <TrendChart
+      id="c-er"
+      title={p('s4.c1.title')}
+      subtitle={p('s4.c1.sub')}
+      years={er.map((x) => x.year)}
+      unit="%"
+      decimals={2}
+      yMax={10}
+      height={310}
+      series={[
+        {
+          id: 'mc',
+          label: t('s4.series.erMc'),
+          values: er.map((x) => x.medicalCenter),
+          cls: 'bg-s2',
+        },
+        {
+          id: 'all',
+          label: t('s4.series.erAll'),
+          values: er.map((x) => x.all),
+          cls: 'bg-s0',
+        },
+      ]}
+      source={zh
+        ? '健保會《113 年全民健康保險監理指標監測結果報告》指標 1.2（2025 年 11 月）；2016 到 2019 年為健保署《監理架構與指標》'
+        : 'NHI Committee, 2024 Monitoring Indicators Report, indicator 1.2 (November 2025); 2016–2019 from NHIA monitoring framework documents'}
+    />
+    <div class="bp-prose">
+      <p set:html={r('s4.p1')} />
+    </div>
+    <div class="bp-two bp-two-charts">
+      <TrendChart
+        id="c-nurses"
+        title={p('s4.c2.title')}
+        subtitle={p('s4.c2.sub')}
+        years={wf.map((x) => x.year)}
+        unit={zh ? '萬人' : '×10,000'}
+        decimals={1}
+        yMax={25}
+        height={320}
+        series={[
+          {
+            id: 'nurses',
+            label: t('s4.series.nurses'),
+            values: wf.map((x) => x.nurses / 1e4),
+            cls: 'bg-s0',
+            area: true,
+          },
+        ]}
+        source={zh
+          ? '衛福部統計處「衛生福利統計指標」表 4-3（機構執業，年底）'
+          : 'MOHW Department of Statistics, health indicators Table 4-3 (practising in facilities, year-end)'}
+      />
+      <figure class="bg-chart" id="c-doctors">
+        <h4 class="bg-chart-title">{p('s4.c3.title')}</h4>
+        <p class="bg-chart-sub">{p('s4.c3.sub')}</p>
+        <ol class="hea-bars">
+          {
+            rows.map((c) => (
+              <li class={c.cls}>
+                <span>{c.name}</span>
+                <span class="hea-bar-track">
+                  <i
+                    class="hea-bar-fill"
+                    style={`width:${(c.doctorsPer10k / max) * 100}%`}
+                  />
+                </span>
+                <span class="num">{c.doctorsPer10k.toFixed(2)}</span>
+              </li>
+            ))
+          }
+        </ol>
+        <figcaption class="bg-chart-src">
+          {zh ? '來源：' : 'Source: '}
+          {
+            zh
+              ? '衛福部統計處公務統計 1.7「機構執業醫事人員數及每萬人口執業醫事人員數」，2025 年底'
+              : 'MOHW official statistics 1.7, practising medical personnel per 10,000 people, end-2025'
+          }
+        </figcaption>
+      </figure>
+    </div>
+    <div class="bp-prose">
+      <p set:html={r('s4.p2')} />
+      <p set:html={r('s4.p2b')} />
+      <p set:html={r('s4.p3')} />
+    </div>
+    <RelatedChips
+      items={related}
+      label={t('related.h')}
+      pendingLabel={t('pending')}
+    />
+  </div>
+</section>

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-11-05T07:41:33.516873+00:00'
 ---
 
 # Cheng Chao-tsun: 91,36 Meter im letzten Wurf bei den Universitätsspielen 2017 – Die Asiatische Speerwurfgeschichte verändert sich

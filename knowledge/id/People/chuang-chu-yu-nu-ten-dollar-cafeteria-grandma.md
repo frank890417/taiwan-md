@@ -2,9 +2,7 @@
 title: 'Chuang Chu Yu-nu: Dari Meja Makan Gratis Buruh Dermaga hingga Nasi Bungkus Sepuluh Yuan yang Dibeli dengan Menjual Tujuh Rumah'
 description: "Pada tahun 1951, Chuang Chu Yu-nu mendirikan dapur di pinggir Pelabuhan Kaohsiung, menyediakan makanan gratis bagi buruh dermaga yang miskin. Nenek yang dijuluki 'Dewi Penjaga Orang Miskin' ini, selama lima puluh tahun ke depan, bertekad menyediakan nasi campur makan secukupnya dengan harga sepuluh yuan, bahkan tidak segan menjual tujuh properti rumahnya untuk menutupi biaya operasional, menjadikan 'membiarkan orang makan kenyang' sebagai keyakinan seumur hidup."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
     'filantrop',
@@ -14,15 +12,19 @@ tags:
     'kebaikan sosial',
     'Penghu',
   ]
-readingTime: 10
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-07-25T10:53:16+08:00'
+translatedAt: '2026-11-04T21:37:21.995756+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Chuang Chu Yu-nu (1920-2015) adalah filantrop ternama Taiwan, yang bertahun-tahun mengelola "Nasi Campur Sepuluh Yuan" di bawah jembatan flyover Taman Kaohsiung. Awalnya ia menyediakan makanan gratis untuk menolong buruh dermaga sekampungnya, kemudian karena biaya yang membengkak mulai memungut sepuluh yuan, namun tetap mempertahankan "makan secukupnya" tanpa menghitung biaya. Sepanjang hidupnya ia menjual tujuh properti rumah untuk berbuat baik, dan upacara peringatannya dihadiri lebih dari tiga ribu orang, semangatnya hingga kini tetap menjadi simbol kehangatan masyarakat Taiwan.

@@ -175,9 +175,9 @@ Quando ela deixou o Palácio Presidencial, os 8,17 milhões de votos já eram ap
 
 ## Fontes das imagens
 
-- [Campanha presidencial de Tsai Ing-wen, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150) — MiNe (sfmine79), CC BY 2.0.
-- [Cerimônia de inauguração do Museu Nacional dos Direitos Humanos](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457) — Gabinete da Presidência da República da China, CC BY 2.0.
-- [Presidente participa no centenário de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862) — Gabinete da Presidência da República da China, CC BY 2.0.
+- [Campanha presidencial de Tsai Ing-wen, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — MiNe (sfmine79), CC BY 2.0.
+- [Cerimônia de inauguração do Museu Nacional dos Direitos Humanos](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Gabinete da Presidência da República da China, CC BY 2.0.
+- [Presidente participa no centenário de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg>) — Gabinete da Presidência da República da China, CC BY 2.0.
 - Fotos oficiais do documentário «Invisible Nation» — Uso editorial _fair use_ sobre Invisible Nation (2023).
 
 ## Referências

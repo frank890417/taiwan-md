@@ -27,6 +27,7 @@ const FALLBACK_URL_LANG_PREFIXES = new Set([
   'hi',
   'ar',
   'ru',
+  'de',
 ]);
 
 // In-memory cache for remote article list
@@ -159,10 +160,29 @@ function fallbackSearch(articles, query, limit) {
   return scored.map((a) => ({
     title: a.title,
     slug: a.slug || '',
-    category: a.category || '',
+    category: articleCategory(a),
     description: a.description || '',
     score: a.score,
   }));
+}
+
+/**
+ * Category slug (lowercase, matches render.js labels) of an article row.
+ *
+ * Rows come from two files: dashboard-articles.json (zh-TW only, `category`
+ * already a lowercase slug) and the remote articles.json. Before 2026-11-04 a
+ * translation's `category` in articles.json was its language code ("vi"); the
+ * file now has `categorySlug`, and `category` is scheduled to become the real
+ * category. So: `categorySlug` first, then the category folder in `path`, and
+ * `category` only as the last resort — correct for old and new files alike.
+ */
+function articleCategory(a) {
+  if (a.categorySlug) return a.categorySlug;
+  if (a.path) {
+    const parts = a.path.split('/');
+    if (parts.length >= 2) return parts[parts.length - 2].toLowerCase();
+  }
+  return (a.category || '').toLowerCase();
 }
 
 /**

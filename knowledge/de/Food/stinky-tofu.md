@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/臭豆腐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T08:17:16.099512+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Stinktofu ist das umstrittenste und repräsentativste Volksgericht Taiwans. Er entstand aus dem unbewussten Schaffen von Gelehrten der Qing-Dynastie, entwickelte sich aber in Taiwan zu einem einzigartigen „lebendigen Fermentations“-Handwerk. Von dem gerösteten Salztofu der alten Straßen von Shenkeng bis zum knusprigen Wunder mit den „drei Öltemperaturen“ in Yuli in Hualien – dieser Artikel zeigt Ihnen, warum dieser stinkende Geruch selbst japanische Fermentations-Autoritäten überqueren lässt und zu einem Symbol für die kulturelle Widerstandsfähigkeit Taiwans geworden ist.

@@ -1,22 +1,22 @@
 ---
-title: '린바이리: 상하이 1949, 콴타 컴퓨터 창립자이자 20년 항암의 노트북 ODM 왕'
-description: '1949년 4월 24일 상하이 출생. 1988년 량츠충(梁次震) 등과 함께 콴타 컴퓨터 창립. 2005년 폐선암 진단(20년 이상 항암 중). 콴타 2025년 매출 2조 돌파, NVIDIA 주요 서버 파트너, Fortune 500 선정. 아들의 경영 승계 문제 주목받아. 2026년 현재 회장직 유지 중.'
+title: '임백리: 상하이 1949, 콴타 컴퓨터 창업자이자 항암 20년의 노트북 OEM 왕'
+description: '1949년 4월 24일 상하이에서 태어났다. 1988년 량츠전(梁次震) 등과 함께 콴타 컴퓨터를 설립했다. 2005년 폐선암 진단을 받았다(이미 항암 20년 이상). 콴타는 2025년 매출 NT$2조를 돌파했으며, 엔비디아의 중요 서버 파트너이자 포춘 500 기업이다. 아들 승계 문제가 주목받고 있다. 2026년에도 회장직을 맡고 있다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['기술과 기업', '콴타 컴퓨터', 'ODM 위탁생산', '인공지능', '폐선암']
 subcategory: '科技與企業'
-tags: ['科技與企業', '廣達電腦', 'ODM代工', '人工智慧', '肺腺癌']
-readingTime: 7
-#   whats_excluded: "콴타와 주요 업체 간 ODM 계약 세부사항; AI 서버 구체 스펙; 아들 경영 승계 논란 세부사항(확인 대기)"
-#   where_it_hedges: "콴타 노트북 시장점유율「30% 초과」원본 소스 없음(P0⚠️); 아들 경영 승계 시기 확인 대기"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T21:08:59.507624+00:00'
 ---
 
 # 린바이리: 상하이 1949, 콴타 컴퓨터 창립자이자 20년 항암의 노트북 ODM 왕

@@ -16,11 +16,14 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-07-25T01:31:54+08:00'
+translatedAt: '2026-11-05T07:02:07.284443+00:00'
 ---
 
 > **Resumo em 30 segundos:** O fenômeno de "empréstimos linguísticos" que os taiwaneses mais criticam, na verdade, faz do próprio Taiwan o laboratório de fusão de empréstimos linguísticos mais bem-sucedido do mundo.

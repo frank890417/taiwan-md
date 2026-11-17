@@ -1,24 +1,22 @@
 ---
 title: 'Taiwan YouBike Culture and the Urban Micromobility Revolution'
 description: "From 'last mile' to daily infrastructure: how YouBike used small pricing, dense station networks, and real-time dispatch to reshape Taiwan's urban movement habits and relationship with time."
-category: 'Lifestyle'
-subcategory: '交通與移動'
-tags:
-  - 'YouBike'
-  - 'urban transport'
-  - 'green mobility'
-  - 'micromobility'
-author: 'Wilson Chen'
 date: 2026-04-14
-readingTime: 8
+category: 'Lifestyle'
+tags: ['YouBike', 'urban transport', 'green mobility', 'micromobility']
+subcategory: '交通與移動'
+author: 'Wilson Chen'
+featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
-translatedAt: '2026-05-01T13:19:11+08:00'
-featured: false
+translatedAt: '2026-11-04T18:10:33.846621+00:00'
 ---
 
 > **30-second overview:**

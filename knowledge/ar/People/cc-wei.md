@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/魏哲家.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-08-02T13:22:35+08:00'
+translatedAt: '2026-11-04T22:31:05.556488+00:00'
 ---
 
 # وي تشي-جيا: 1953، من قسم الإلكترونيات في جامعة تشياو تونغ إلى دكتوراه ييل إلى رئيس مجلس إدارة ورئيس تنفيذي لـ TSMC

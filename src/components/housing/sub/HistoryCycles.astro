@@ -1,0 +1,175 @@
+---
+/**
+ * HistoryCycles：五次房價循環比較表，加一張國泰指數（民間指數）長序列折線。
+ * 漲幅 value 為 null 的格子寫 note（例：沒有資料）。資料檔的漲幅口徑只有中文，英文版用 EN_DATA 的對照翻譯。
+ * 手機上表格每列改成堆疊，不橫向溢出。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import {
+  fmtPeriod,
+  fmtXq,
+  latest,
+  srcOf,
+  xOfT,
+} from '../../../utils/housing/data';
+import {
+  cathaySeries,
+  historyFacts,
+  isZh,
+  loc,
+} from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.hist.cycles;
+const zh = isZh(lang);
+const f = historyFacts();
+const labels = { primary: T.ui.primary, reported: T.ui.reported };
+
+/** 多個口徑並列的漲幅字串拆成清單；其餘當一段。 */
+function parts(id: string, c: any): string[] {
+  const text: string = zh
+    ? (c.rise.value ?? c.rise.note ?? '')
+    : (EN_DATA.cycleRise[id] ?? c.rise.value ?? c.rise.note ?? '');
+  if (zh && text.includes('①')) return text.split(/；(?=[②-⑩])/);
+  if (!zh && text.includes('\n')) return text.split('\n');
+  return [text];
+}
+const noteOf = (id: string, c: any): string =>
+  c.rise.value === null
+    ? ''
+    : zh
+      ? (c.rise.note ?? '')
+      : (EN_DATA.cycleNote[id] ?? '');
+
+const rows = f.cycles.map((c: any) => ({
+  id: c.id,
+  label: loc(c.label, lang),
+  noRise: c.rise.value === null,
+  rise: parts(c.id, c),
+  note: noteOf(c.id, c),
+  drivers: loc(c.drivers, lang),
+  turning: c.turning ? loc(c.turning, lang) : '',
+  sources: (c.sources ?? []) as any[],
+}));
+
+const cat = cathaySeries();
+const first = cat.points[0];
+const last = latest(cat);
+const pts = cat.points.map((p) => ({ x: xOfT(p.t), v: p.v }));
+const vars = {
+  a: first.v.toFixed(2),
+  b: last.v.toFixed(2),
+  p0: fmtPeriod(first.t, lang),
+  p1: fmtPeriod(last.t, lang),
+};
+---
+
+<section class="hs-section" id="cycles">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">
+      {fill(S.h2, { n: f.cycles.length, k: f.cycleWithRise })}
+    </h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-rt-wrap">
+      <table class="hs-rt">
+        <thead>
+          <tr>
+            <th scope="col">{S.cols.wave}</th>
+            <th scope="col">{S.cols.rise}</th>
+            <th scope="col">{S.cols.drivers}</th>
+            <th scope="col">{S.cols.turning}</th>
+            <th scope="col">{S.cols.sources}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <th scope="row" data-label={S.cols.wave}>
+                  {r.label}
+                </th>
+                <td data-label={S.cols.rise} class={r.noRise ? 'is-none' : ''}>
+                  {r.rise.length > 1 ? (
+                    <ul class="hs-rt-list">
+                      {r.rise.map((x) => (
+                        <li lang={zh ? undefined : 'en'}>{x}</li>
+                      ))}
+                    </ul>
+                  ) : (
+                    <p class="hs-rt-p">{r.rise[0]}</p>
+                  )}
+                  {r.note && <p class="hs-rt-note">{r.note}</p>}
+                </td>
+                <td data-label={S.cols.drivers}>{r.drivers}</td>
+                <td data-label={S.cols.turning}>{r.turning || '—'}</td>
+                <td data-label={S.cols.sources}>
+                  <ul class="hs-rt-src">
+                    {r.sources.map((s) => (
+                      <li>
+                        <a
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener"
+                          class="no-external-icon"
+                          title={s.title}
+                        >
+                          {s.publisher}
+                        </a>
+                        <span class="hs-tag">
+                          {s.kind === 'primary'
+                            ? labels.primary
+                            : labels.reported}
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <TrendLine
+      title={fill(S.indexTitle, vars)}
+      subtitle={S.indexSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'cathay',
+          label: S.indexLine,
+          name: S.indexLine,
+          points: pts,
+          cls: 'c3',
+          area: true,
+          strong: true,
+        },
+      ]}
+      sources={[srcOf(cat)]}
+      note={S.indexNote}
+      unit=""
+      digits={2}
+      yMin={0}
+      xTickStep={4}
+      yFormat={(v) => String(v)}
+      tipX={fmtXq}
+      annots={[
+        { x: pts[0].x, lineId: 'cathay', text: vars.a, dir: 'down' },
+        { x: pts[pts.length - 1].x, lineId: 'cathay', text: vars.b, dir: 'up' },
+      ]}
+      tableXHeader={S.indexTableX}
+      tableRows={cat.points
+        .filter(
+          (p) => p.t.endsWith('Q4') || p === cat.points[cat.points.length - 1],
+        )
+        .map((p) => ({ x: xOfT(p.t), label: p.t }))}
+    />
+  </div>
+</section>

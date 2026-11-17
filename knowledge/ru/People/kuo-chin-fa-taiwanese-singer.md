@@ -2,9 +2,7 @@
 title: 'Го Цзиньфа: низкий бас за «Шао жоу цзы»'
 description: 'От ученика в обувном магазине в Дадаочэн до «короля низкого баса Острова сокровищ», Го Цзиньфа одной песней «Шао жоу цзы» спел боль и стойкость тайваньских простых людей после войны и сгорел на сцене до последней искры жизни.'
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Музыка',
@@ -13,15 +11,19 @@ tags:
     'Король низкого баса',
     'Запрещённые песни при военном положении',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-07-25T12:13:37+08:00'
+translatedAt: '2026-11-04T22:31:10.954560+00:00'
 ---
 
 > **📝 Примечание куратора**

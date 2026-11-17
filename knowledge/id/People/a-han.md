@@ -22,16 +22,18 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-04T19:25:47.237903+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Zeng Wenhan, lahir di Hualien tahun 1994, lulus dari Kelas Seni Lukis Hualien Girls' Senior High School dan Departemen Animasi National Taipei University of Arts. Ia mulai mengelola saluran YouTube "Ah Han Po Video" pada tahun 2015[^1]. Ia memerankan Liao Lifang, Ruan Yuejiao, Liao Lizhu, dan bibi bufet—karakter di seluruh jalur Taiwan. Karya terkenalnya, "Bibi Peramal Dewi Xuan Tian 9: Dewi Langit Menyebar Bunga", telah mengumpulkan lebih dari 13 juta kali tayang[^2]. Namun, dalam iklan Festival Uga (Zhongyuan) tahun 2022, peran menantu Vietnam yang ia bawakan diprotes oleh para istri Vietnam yang sesungguhnya dan iklan tersebut ditarik—seorang bocah Hualien yang menopang jalur Taiwan melalui parodi, ditanya oleh penduduk jalur tersebut: "Mengapa posisi ini bukan milikku".
+> **Ringkasan 30 Detik:** Zeng Wenhan yang lahir di Hualien pada 1994, lulus dari Jurusan Animasi Universitas Seni Nasional Taipei setelah belajar di Kelas Seni SMA Perempuan Hualien, mulai mengelola saluran YouTube "Ah Han Po Video" pada 2015[^1]. Ia memerankan Liao Lifang, Ruan Yuejiao, Liao Lizhu, Bibi Bufet—seluruh karakter di lorong Taiwan—sendirian. Karyanya yang mewakili, 〈Bibi Peramal Dewi Xuan Tian 9: Dewi Langit Menyebar Bunga〉, telah mengumpulkan lebih dari 13 juta penayangan[^2]. Namun pada iklan Festival Tengah Bulan 2022, perannya sebagai menantu Vietnam ditarik turun setelah protes dari menantu Vietnam asli—seorang anak laki-laki Hualien yang membangun lorong Taiwan dengan tiranannya, ditanya oleh orang-orang di lorong itu: "Mengapa posisi ini bukan aku?"
 
-Kehebatan Ah Han bukan terletak pada seberapa mirip satu karakternya, melainkan ia hampir memainkan seluruh jalur Taiwan. Bibi peramal, menantu Vietnam, bibi pemilik rumah, bibi bufet, siswi SMP yang buta huruf, guru motor,班长 (ketua kelas) Awei—semua diperankan oleh satu orang, satu wajah, dengan aksen berbeda, bahasa tubuh berbeda, dan tahap kehidupan berbeda. Namun, penarikan iklan tahun 2022 mengajarkannya: memparodikan jalur ini, dan tinggal di jalur ini, bukanlah hal yang sama.
+Kehebatannya bukan pada kesamaan satu pun karakter, melainkan ia hampir memerankan seluruh lorong Taiwan. Bibi Peramal, Menantu Vietnam, Bibi Pemilik Rumah, Bibi Bufet, Siswi SMP Tunanetra, Guru Supir Motor, Ketua Kelas A-Wei—orang yang sama, wajah yang sama, berganti aksen, gerak tubuh, dan fase kehidupan yang berbeda. Namun insiden pencabutan 2022 memberitahunya: meniru lorong ini dan tinggal di lorong ini, tidak pernah menjadi hal yang sama.
 
 ## Memainkan Seluruh Jalur Sendirian
 

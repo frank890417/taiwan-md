@@ -518,7 +518,7 @@ Todas as imagens deste texto estão em cache em `public/article-images/about/` (
 
 [^66]: Che-Yu Wu, registro literal da entrevista à Revista CommonWealth de 4 de junho de 2026 [34:43]–[36:42]. Tanto o detalhe de que o comportamento de rejeição do Google Analytics dispara uma reescrita, quanto o de que temas do Search Console com impressões mas sem cliques entram na fila de escrita, são explicações de mecanismo dadas verbalmente na hora.
 
-[^67]: Che-Yu Wu, registro literal da entrevista à Revista CommonWealth de 4 de junho de 2026 [47:38]–[48:33]. Os três nomes Spore Harvest / Feedback Triangle / Rewrite Daily foram dados verbalmente na hora; a transcrição registra uma translitera­ção fonética, e a grafia formal não foi confirmada contra uma segunda fonte.
+[^67]: Che-Yu Wu, registro literal da entrevista à Revista CommonWealth de 4 de junho de 2026 [47:38]–[48:33]. Os três nomes Spore Harvest / Feedback Triangle / Rewrite Daily foram dados verbalmente na hora; a transcrição registra uma transliteração fonética, e a grafia formal não foi confirmada contra uma segunda fonte.
 
 [^68]: Che-Yu Wu, registro literal da entrevista à Revista CommonWealth de 4 de junho de 2026 [23:57]–[26:25]. A correção de leitor sobre compositores sendo confundidos com as obras erradas, sua resposta nos comentários, e o subsequente ajuste de mecanismo ("descartar o contexto e as premissas anteriores, deixar só o feedback entrar no relatório") vêm todos da mesma declaração contínua.
 

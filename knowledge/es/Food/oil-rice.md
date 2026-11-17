@@ -2,9 +2,7 @@
 title: 'El arroz con aceite: del arroz glutinoso como símbolo de riqueza al regalo de plenitud que carga el peso de la vida'
 description: 'En las calles de Taiwán en 2026, un cuenco de arroz con aceite sigue siendo la opción preferida de muchos para celebrar un nacimiento. Este platillo, originario de la tradición de los inmigrantes hokkien y evolucionado en Taiwán hasta alcanzar la «proporción del gourmet» —una mezcla de salado y dulce—, combina arroz glutinoso y chalote frito en la bendición más sólida que las familias taiwanesas ofrecen en los momentos cruciales de la vida.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'arroz con aceite',
@@ -14,15 +12,19 @@ tags:
     'arroz glutinoso',
     'cultura del banquete al aire libre',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
-translatedFrom: Food/油飯.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:9645370116faf0ce
-sourceBodyHash: sha256:e335b1f6c8cbb675
-translatedAt: 2026-06-12T00:53:04+08:00
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/油飯.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:9645370116faf0ce'
+sourceBodyHash: 'sha256:e335b1f6c8cbb675'
+translatedAt: '2026-11-05T04:50:16.389840+00:00'
 ---
 
 > **Panorama en 30 segundos:**

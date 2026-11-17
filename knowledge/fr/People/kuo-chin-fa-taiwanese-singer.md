@@ -2,25 +2,28 @@
 title: "Kuo Chin-fa : l'âme grave derrière « Les Brochets de viande grillée »"
 description: "De cordonnier à Dadaocheng au Roi de la voix grave de Formose, Kuo Chin-fa a chanté la résilience et les souffrances du peuple taïwanais d'après-guerre à travers sa chanson « Les Brochets de viande grillée », avant de s'éteindre sur scène, consumé jusqu'à la dernière étincelle de vie."
 date: 2026-04-19
-author: Taiwan.md Contributors
-category: People
+category: 'People'
 tags:
   [
-    Musique,
-    Chanson taïwanaise,
-    Brochets de viande grillée,
-    Roi de la voix grave,
-    Chansons interdites sous la loi martiale,
+    'Musique',
+    'Chanson taïwanaise',
+    'Brochets de viande grillée',
+    'Roi de la voix grave',
+    'Chansons interdites sous la loi martiale',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-translatedFrom: People/郭金發.md
-sourceCommitSha: 4b6d28c54
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/郭金發.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: 2026-05-16T22:36:25Z
-featured: false
+translatedAt: '2026-11-04T22:30:34.544265+00:00'
 ---
 
 > **📝 Note du curateur**

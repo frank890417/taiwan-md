@@ -1,8 +1,8 @@
 ---
 title: 'Batalha de Artilharia de 23 de Agosto: quarenta e quatro dias de fogo de artilharia, deixando vinte anos de quotidiano em Kinmen'
 description: 'Em 23 de agosto de 1958, Kinmen recebeu mais de trinta mil projéteis em 85 minutos. Quarenta e quatro dias depois, o fogo de artilharia não partiu verdadeiramente, e o padrão "um dia sim, dois dias não" prolongou-se até 1979. Esta guerra não apenas alterou a estratégia do Estreito de Taiwan, como também deixou residentes, estudantes e famílias deslocadas na memória do campo de batalha. Entre projéteis e evacuações, Kinmen tornou-se uma ilha que suportava a insegurança com regularidade, deixando a pergunta mais difícil da preservação do campo de batalha: lembrar a vitória significa também lembrar o preço pago pelos civis?'
+date: 2026-08-20
 category: 'History'
-subcategory: '軍事歷史'
 tags:
   [
     'Batalha de Artilharia de 23 de Agosto',
@@ -11,28 +11,30 @@ tags:
     'Administração de Campo de Batalha',
     'Guerra Fria',
   ]
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 12
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/823砲戰.md'
-sourceCommitSha: '7b73ad150'
-sourceContentHash: 'sha256:94a0eed6d2a30bd2'
-sourceBodyHash: 'sha256:438d4ba6b831a508'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:ce4c525b32d53370'
+sourceBodyHash: 'sha256:d4d1f058fca35e5e'
+translatedAt: '2026-11-05T14:20:14.952398+00:00'
 ---
 
-> **Visão geral em 30 segundos:** Em 23 de agosto de 1958, à tarde, centenas de peças de artilharia abriram fogo simultaneamente contra Kinmen; a primeira vaga, de 85 minutos, fez cair mais de trinta mil projéteis. Após quarenta e quatro dias de bombardeamento de alta intensidade, Kinmen não regressou a um quotidiano de paz, mas entrou num regime de bombardeamento intermitente "um dia sim, dois dias não", que só cessou em 1979. Compreender o 23 de Agosto não se resume a ver quem segurou a ilha. É preciso ver como uma ilha de menos de 150 quilómetros quadrados fez confluir no mesmo espaço vital a estratégia militar, a deslocação de residentes e a posterior preservação do campo de batalha.
+**Visão geral em 30 segundos:** Na tarde de 23 de agosto de 1958, centenas de peças de artilharia abriram fogo simultaneamente contra Kinmen; só na primeira onda, de 85 minutos, caíram mais de trinta mil projéteis. Após quarenta e quatro dias de combate de artilharia de alta intensidade, Kinmen não voltou à rotina de paz, mas entrou num regime de bombardeio intermitente de «um dia sim, outro não», que só cessou em 1979. Compreender o 23 de Agosto não se resume a ver qual lado segurou a ilha; é preciso ver como uma ilha de menos de 150 km² fez convergir no mesmo espaço vital a estratégia militar, o deslocamento de moradores e, depois, a preservação da memória de guerra.
 
-Em 23 de agosto de 1958, às 17h30, Kinmen maior, Kinmen menor e as ilhas Dadan e Erdan foram alvo simultâneo de denso bombardeamento. A primeira vaga durou 85 minutos, com mais de trinta mil projéteis. O vice-comandante da Guarda de Kinmen, tenente-general Chi Hsing-wen (吉星文), entre outros, tombou nesse dia. Não foi uma "crise" que ocorresse apenas no mapa, mas uma tarde em que um posto de comando, aldeias, um hospital e um porto foram interrompidos ao mesmo tempo.[^1]
+Às 17h30 de 23 de agosto de 1958, as ilhas de Kinmen Maior, Kinmen Menor, Tateng e Erteng foram atingidas simultaneamente por intenso bombardeio. A primeira onda durou 85 minutos, com mais de trinta mil projéteis. O vice-comandante da Área de Defesa de Kinmen, tenente-general Chi Hsing-wen, entre outros, tombou naquele dia. Não foi uma «crise» que só existia no mapa, mas uma tarde em que postos de comando, vilarejos, hospitais e portos foram interrompidos ao mesmo tempo.[^1]
 
 ![Museu da Guerra de 23 de Agosto, 2005.](https://upload.wikimedia.org/wikipedia/commons/5/5b/Aug.23_Artillery_Battle_Museum_20050707.jpg)
 
-_Imagem: Seasurfer, CC BY-SA 3.0. Imagem proveniente da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20050707.jpg)._
+_Imagem: Seasurfer, CC BY-SA 3.0. Imagem da [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20050707.jpg)._
 
-Este conflito ficou conhecido como "Batalha de Artilharia de 23 de Agosto"; na investigação americana e internacional costuma chamar-se "Segunda Crise do Estreito de Taiwan". A diferença de nomes lembra-nos que o mesmo bombardeamento é simultaneamente uma catástrofe local de Kinmen e um nó da ordem da Guerra Fria capaz de arrastar os Estados Unidos, a China e os aliados americanos.[^2]
+Este conflito ficou conhecido como «Batalha de Artilharia de 23 de Agosto»; na literatura americana e internacional também é frequente a designação «Segunda Crise do Estreito de Taiwan». A diferença de nomes lembra-nos que o mesmo bombardeio foi, ao mesmo tempo, uma catástrofe local em Kinmen e um nó da ordem da Guerra Fria capaz de arrastar os Estados Unidos, a China e os aliados americanos para o mesmo redemoinho.[^2]
 
 ## Não foi um dia de batalha
 
@@ -104,54 +106,54 @@ Os números de baixas e projéteis do 23 de Agosto não podem ser colados numa t
 
 Esta diferença não é um erro que se despache com "qual é o verdadeiro". Denominadores, intervalos temporais e objetos estatísticos diferentes mudam a nossa compreensão da guerra. A responsabilidade de verificação não é escolher o número mais espetacular, mas escrever o critério estatístico ao lado do número. Por isso o 23 de Agosto precisa que fontes locais, textos comemorativos oficiais e análises académicas se leiam em contraponto, e não se dependa de uma só voz.
 
-## Preservação do campo de batalha: o que fica não é só memorial de vitória
+## Preservação do campo de batalha: o que fica não é só a memória da vitória
 
-Após a Batalha de 23 de Agosto, Kinmen conservou grande quantidade de instalações militares e paisagens de campo de batalha.
+Após o fim da Batalha de Artilharia de 23 de Agosto, Kinmen manteve um grande número de instalações militares e paisagens de campo de batalha.
 
 ![Museu da Guerra de 23 de Agosto, 2016.](https://upload.wikimedia.org/wikipedia/commons/8/84/Aug.23_Artillery_Battle_Museum_20160620.jpg)
 
-_Imagem: Wei-Te Wong (翁維德), CC BY-SA 2.0. Imagem proveniente da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20160620.jpg)._
+_Imagem: Wei-Te Wong, CC BY-SA 2.0. Imagem da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20160620.jpg)._
 
-Estas instalações são, por um lado, vestígios do sistema de defesa; por outro, podem ocupar terrenos civis, dificultar o uso da terra ou enfrentar demolição por custos de gestão e segurança. Em 2018, quando se discutiu em Kinmen a demolição do Forte das Três Montanhas, a controvérsia concentrou-se numa pergunta aguda: após a desativação militar, quem tem o direito de decidir o que merece ficar?[^6]
+Por um lado, estas instalações são vestígios do sistema de defesa nacional; por outro, podem situar-se em terrenos privados, dificultar o uso da terra, ou enfrentar demolição devido a custos de gestão e segurança. Em 2018, quando se discutiu em Kinmen a demolição da bateria de Sanshishan, a controvérsia centrou-se numa questão aguda: depois que as instalações militares saem de cena, quem tem o direito de decidir o que vale a pena preservar?[^6]
 
-Não se resolve guardando todos os bunkers. A preservação exige inventário, classificação, tratamento de sensibilidade militar, e coordenação entre governo local, unidades de defesa, autoridades de património cultural e residentes. Se se embalam os vestígios só como atrativo turístico, o bunker vira cenário de foto. Se se veem só como ónus, a vida de guerra que os kinmenenses suportaram por décadas apaga-se junto com a limpeza do terreno.[^6]
+Não é um problema que se resolva simplesmente selando todos os búnqueres. A preservação requer inventário, classificação, tratamento de sensibilidade militar, e também coordenação entre o governo local, unidades de defesa nacional, autoridades de património cultural e residentes. Se os sítios de campo de batalha forem apenas embalados como atrações turísticas, as baterias viram cenário de fotos. Se forem vistas apenas como um fardo, a vida de guerra que o povo de Kinmen suportou por longo tempo será apagada junto com a limpeza da terra.[^6]
 
-O Museu da Guerra de 23 de Agosto, reaberto em 2025, começou a colocar na mesma narrativa oficiais da linha da frente, residentes, viúvas de militares e jornalistas, usando audiovisual e objetos para mostrar a vida no campo de batalha, famílias partidas e traumas individuais. O sentido desta direção museológica não é tornar a guerra mais emocionante, mas impedir que a "vitória militar" continue a ser a única memória visível.[^7]
+O Museu da Guerra de 23 de Agosto, reaberto em 2025, começou a integrar na mesma narrativa expositiva oficiais e soldados da linha da frente, residentes, viúvas de militares e jornalistas, apresentando através de áudio, vídeo e objetos a vida no campo de batalha, famílias destroçadas e traumas individuais. O significado desta direção expositiva não está em tornar a guerra mais emocionante, mas em fazer com que a «vitória militar» deixe de ser a única memória visível.[^7]
 
-A preservação cultural do campo de batalha pelo Parque Nacional de Kinmen enfrenta assim duas responsabilidades: preservar as obras concretas, túneis e bunkers, e preservar a sua relação com aldeias, deslocação, defesa civil, espera das mulheres e separação familiar. Objetos sem histórias humanas são apenas betão. Histórias sem vestígios tangíveis tornam-se facilmente slogans na geração seguinte.[^6] [^7]
+A preservação da cultura de campo de batalha do Parque Nacional de Kinmen enfrenta assim duas responsabilidades: preservar as fortificações concretas, túneis e baterias, e também preservar a sua relação com aldeias, migrações, defesa civil, a espera das mulheres e a separação familiar. Se os objetos não tiverem histórias humanas, restam apenas concreto. Se as histórias não tiverem sítios tangíveis, facilmente se tornam slogans na geração seguinte.[^6] [^7]
 
 ## Relendo o 23 de Agosto hoje
 
-A importância do 23 de Agosto para Taiwan não reside apenas em ter sido um evento militar de 1958. Fez a divisão do Estreito passar de um estado provisório do pós-guerra para um impasse mais estável, porém mais longo, sob a Guerra Fria. Obligou a ambiguidade estratégica americana sobre Kinmen e Matsu, a política de ilhas exteriores de Taipé e a política de Pequim para o Estreito a serem postas simultaneamente na mesa. Transformou também Kinmen numa geografia política que só se entende a partir da vida dos seus residentes.[^2] [^5]
+A importância da Batalha de Artilharia de 23 de Agosto para Taiwan não reside apenas no facto de ter sido um evento militar de 1958. Ela fez com que a divisão do Estreito de Taiwan, a partir de um estado temporário do pós-guerra, entrasse gradualmente num confronto mais estável, porém também mais longo, sob a Guerra Fria. Ela forçou a ambiguidade estratégica dos EUA em relação a Kinmen e Matsu, a política de ilhas exteriores de Taipé e a política do Estreito de Taiwan de Pequim a serem expostas simultaneamente. Também transformou Kinmen numa geografia política que só pode ser compreendida através da vida dos seus residentes.[^2] [^5]
 
-Se se escrever o 23 de Agosto apenas como "o Exército Nacional defendeu Kinmen e repeliu o ataque", o leitor obtém uma conclusão, mas não vê o custo. Se se escrever apenas como jogo de grandes potências, os 6.509 evacuados, as crianças no subsolo, o hospital sem medicamentos e as pessoas à espera do regresso da família voltam a ser silenciadas.[^5]
+Se o 23 de Agosto for descrito apenas como «as Forças Armadas defenderam Kinmen e repeliram o ataque», o leitor obtém uma conclusão, mas não vê o custo. Se for descrito apenas como um jogo de grandes potências, faz-se silenciar novamente os 6.509 residentes que se mudaram para Taiwan, as crianças que viveram em espaços subterrâneos, os hospitais com falta de medicamentos e as pessoas que esperavam o regresso dos seus familiares.[^5]
 
-![Monumento à Vitória de 23 de Agosto.](https://upload.wikimedia.org/wikipedia/commons/0/0a/%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)
+![Monumento Comemorativo da Vitória do 23 de Agosto.](https://upload.wikimedia.org/wikipedia/commons/0/0a/%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)
 
-_Imagem: Foxy Who, CC BY-SA 3.0. Imagem proveniente da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)._
+_Imagem: Foxy Who, CC BY-SA 3.0. Imagem da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)._
 
-Uma formulação mais próxima da experiência de Kinmen é: o fogo de artilharia mudou a posição estratégica da ilha, e mudou o sentido do tempo de cada pessoa na ilha. Quando os projéteis caíam, Kinmen era a frente. Quando caíam por dias alternados, Kinmen tornou-se instituição. Quando o bombardeamento parou, Kinmen teve de decidir como preservar uma história que não quer ser romantizada, mas também não pode ser apagada.
+Uma descrição mais próxima da experiência de Kinmen seria: o fogo de artilharia alterou a posição estratégica da ilha, mas também alterou a percepção do tempo de cada pessoa na ilha. Quando os projéteis caíam, Kinmen era a linha da frente. Quando os projéteis caíam dia após dia, Kinmen tornou-se uma instituição. Após o cessar do bombardeamento, Kinmen teve novamente de decidir como preservar uma história que não se quer romantizada, mas que também não pode ser apagada.
 
-> A última pergunta que o 23 de Agosto deixa não é "quem vencerá da próxima vez", mas sim: quando a guerra é escrita como memória nacional, conseguimos reinscrever nela aqueles que não escolheram a guerra, mas foram forçados a aprender a viver dentro dela.
+> A última questão deixada pelo 23 de Agosto não é «quem vencerá da próxima vez», mas sim se, quando a guerra é escrita como memória nacional, se consegue escrever de volta também aquelas pessoas que não escolheram a guerra, mas foram forçadas a aprender a viver dentro dela.
 
 ## Fontes
 
-[^1]: [Significado histórico da Batalha de Artilharia de 23 de Agosto](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — Artigo do professor Hsu Hua-yuan (薛化元), Departamento de História da Universidade Nacional Chengchi, sobre antecedentes, cronologia, escala, impacto internacional e contexto político em Taiwan.
+[^1]: [A Batalha de Artilharia de 23 de Agosto e o seu Significado Histórico](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — Escrito pelo professor Xue Huayuan do Departamento de História da Universidade Nacional Chengchi, abrangendo o contexto do conflito, horários dos bombardeios, escala, impacto internacional e o contexto político de Taiwan.
 
-[^2]: [Significado histórico da Batalha de Artilharia de 23 de Agosto](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — Artigo de análise histórica que explica a Segunda Crise do Estreito de Taiwan, a intervenção americana e o impasse posterior no Estreito.
+[^2]: [A Batalha de Artilharia de 23 de Agosto e o seu Significado Histórico](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — Artigo de análise histórica, explicando a Segunda Crise do Estreito de Taiwan, a intervenção dos EUA e o confronto pós-guerra no Estreito de Taiwan.
 
-[^3]: [Por que a Batalha de 23 de Agosto permanece alerta](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=7F6ED3D8C7C8A381&Create=1) — Artigo do Governo do Condado de Kinmen, compilando o bombardeamento de 1958, os 44 dias de combate, o padrão "um dia sim, dois dias não" e a cessação de 1979.
+[^3]: [Por que a Batalha de 23 de Agosto é Temida?](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=7F6ED3D8C7C8A381&Create=1) — Artigo do Governo do Condado de Kinmen, compilando o bombardeio de 1958, a situação de 44 dias de combate, a tática de 'disparar em dias alternados' e a cessação dos bombardeios em 1979.
 
-[^4]: [Discurso do Presidente Ma Ying-jeou na "Cerimónia Comemorativa do 50.º Aniversário da Batalha de 23 de Agosto"](https://www.president.gov.tw/NEWS/12527) — Comunicado da Presidência, registando os 44 dias de bombardeamento, área de Kinmen, escala de projéteis e baixas militares e civis na narrativa comemorativa oficial.
+[^4]: [O Presidente Ma Ying-jeou Discursou Hoje de Manhã na 'Cerimônia Comemorativa do 50º Aniversário da Batalha de 823'](https://www.president.gov.tw/NEWS/12527) — Comunicado de imprensa da Presidência, registrando a batalha de artilharia de 44 dias, a área de Kinmen, a escala de projéteis e as baixas militares e civis, entre outras narrativas oficiais de comemoração.
 
-[^5]: [Crise do Estreito de 23 de Agosto — O processo de evacuação dos civis de Kinmen para Taiwan](https://www.kmdn.gov.tw/1117/1271/1276/199967/) — Página de arquivo do Kinmen Daily News, compilando população, militarização, situação médica dos residentes, evacuação de estudantes e civis e processo de instalação.
+[^5]: [Crise do Estreito de Taiwan de 823: O Processo de Evacuação dos Civis de Kinmen para Taiwan](https://www.kmdn.gov.tw/1117/1271/1276/199967/) — Página de dados do Kinmen Daily, compilando população, militarização, situação médica dos residentes, evacuação e processo de reassentamento de estudantes e civis.
 
-[^6]: [Preservar o património militar para adensar recursos culturais](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=5AD508629B265AF9) — Artigo do Governo do Condado de Kinmen, registando a controvérsia do Forte das Três Montanhas e os problemas de preservação, inventário e coordenação interinstitucional dos vestígios de campo de batalha.
+[^6]: [Preservar o Patrimônio Militar para Fortalecer Recursos Culturais](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=5AD508629B265AF9) — Artigo do Governo do Condado de Kinmen, registrando a controvérsia do Forte da Montanha dos Três Leões, a preservação e inventário de sítios históricos de batalha e problemas de coordenação interagências.
 
-[^7]: [Entrar na história, sentir a memória — Museu da Guerra de 23 de Agosto cria experiência imersiva de histórias de campo de batalha](https://www.ey.gov.tw/eykm/E075F0ABB8632E5A/b16450e6-3bd1-4351-be2d-c8e41a77f04a) — Centro de Serviços Conjuntos Kinmen-Matsu do Yuan Executivo, reproduzindo reportagem do Kinmen Daily News sobre a renovação de 2025 do Museu e a direção expositiva de integrar memórias militares e civis.
+[^7]: [Entrar na História, Sentir a Memória: O Museu da Batalha de 823 Cria Histórias de Batalha Imersivas](https://www.ey.gov.tw/eykm/E075F0ABB8632E5A/b16450e6-3bd1-4351-be2d-c8e41a77f04a) — O Centro de Serviços Conjuntos Kinmen-Matsu do Yuan Executivo republicou reportagem do Kinmen Daily, apresentando a atualização de 2025 do Museu da Batalha de 823 e a direção de exposição que incorpora memórias diversas de militares e civis.
 
-[^8]: [Reflexões sobre a Batalha de Artilharia de 23 de Agosto — A história deve ser escrita por nós mesmos](https://www.mnd.gov.tw/File/6868) — Artigo histórico publicado pelo Ministério da Defesa, fornecendo hora da primeira vaga, quantidade de peças de artilharia e dados de reflexão sobre a campanha.
+[^8]: [Reflexões sobre a Batalha de Artilharia de 823: A História Deve Ser Escrita por Nós Mesmos](https://www.mnd.gov.tw/File/6868) — Artigo histórico publicado pelo Ministério da Defesa Nacional, fornecendo o horário da primeira onda de bombardeio, quantidade de peças de artilharia e dados de reflexão sobre a batalha.
 
-[^9]: [Comando de Reserva — Negócios de Guarda — Monumento Comemorativo da Batalha de 23 de Agosto](https://afrc.mnd.gov.tw/AFRCWeb/Unit.aspx?MenuID=15&ListID=1303) — Página do Comando de Reserva do Ministério da Defesa, fornecendo origem do nome, escala de projéteis e contexto comemorativo oficial.
+[^9]: [Comando de Reserva - Negócios de Guarda - Monumento da Batalha de Artilharia de 823](https://afrc.mnd.gov.tw/AFRCWeb/Unit.aspx?MenuID=15&ListID=1303) — Página do Comando de Reserva do Ministério da Defesa Nacional, fornecendo a origem do nome da Batalha de Artilharia de 823, a escala de projéteis e o contexto oficial de comemoração.
 
-[^10]: [Início e fim da Batalha de Artilharia de Kinmen de 23 de Agosto](https://www.kmdn.gov.tw/1117/1271/1274/171518) — Página de arquivo do Kinmen Daily News, compilando o início do bombardeamento, decurso da guerra e materiais de memória relacionados.
+[^10]: [O Início e o Fim da Batalha de Artilharia de Kinmen de 823](https://www.kmdn.gov.tw/1117/1271/1274/171518) — Página de dados do Kinmen Daily, compilando o início da batalha de artilharia, o desenrolar do conflito e materiais históricos de memórias relacionadas.

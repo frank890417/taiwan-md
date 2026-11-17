@@ -3,7 +3,6 @@ title: 'Sun Yun-suan: Insinur yang Menyalakan Taiwan dari Kegelapan'
 description: 'Dari keajaiban pemulihan listrik dalam lima bulan di buhara pasiklas, hingga visi memasangkan pada industri semikonduktor, Sun Yun-suan dengan praktikal dan luhur sebagai insinur, menjadi fondasi modernisasi Taiwan.'
 date: 2026-04-30
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'Sun Yun-suan',
@@ -12,16 +11,19 @@ tags:
     'Lembaga R&D Industri',
     'Sepuluh Proyek Besar',
   ]
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-07-25T12:13:32+08:00'
+translatedAt: '2026-11-04T21:10:16.869956+00:00'
 ---
 
 > **30 Detik Ringkasan:** Dalam proses modernisasi Taiwan, **Sun Yun-suan** (1913–2006) adalah nama yang tidak dapat diabaikan. Dikenal sebagai "Bupati Raya yang Sejati", citra publiknya menggabungkan profesionalisme sebagai pejabat teknis, kepribadian luhur, serta keputusan yang berani pada titik krusimal transformasi negara. Dari pemulihan listrik di kehancuran pasiklas, hingga memasangkan pada industri semikonduktor pada 1970-an, hidup Sun Yun-suan hampir adalah sebuah sejarah perusahaan Taiwan yang berjalan dari kehutan ke kemakmuran [^1][^2].

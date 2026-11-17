@@ -20,17 +20,17 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: '63fb967a1'
-sourceContentHash: 'sha256:e5ed54a3ae12d0e6'
-sourceBodyHash: 'sha256:f9ade260f241a953'
-translatedAt: '2026-09-25T16:58:32+08:00'
+sourceCommitSha: 'ff8ab4d4d'
+sourceContentHash: 'sha256:38a4067994051318'
+sourceBodyHash: 'sha256:14e97ff0df91ded4'
+translatedAt: '2026-11-04T13:54:34.285179+00:00'
 ---
 
-> **30-Sekunden-Überblick:** 1997 begannen die taiwanesischen Schmetterlingsschwertlilien, erste Exportdaten zu verbuchen; bis 2011 stieg der offizielle Exportwert von 3,533 Millionen US-Dollar auf 98,474 Millionen US-Dollar an – doch dieser Weg war nicht einfach, die Blumen abzupflücken und zu verschicken. Taiwan verband Züchtung, Tissue-Kultur, Gewächshausmanagement, Zucht- und Transportverfahren sowie Sortenrechte zu einer Lieferantenkette, wodurch eine pflegebedürftige Pflanze zu einem grenzüberschreitbaren Agrarprodukt wurde.
+> **30-Sekunden-Überblick:** 1997 verzeichneten taiwanesische Schmetterlingsschwertlilien erstmals Exporterlöse; bis 2011 war der offizielle Exportwert von 3,533 Millionen US-Dollar auf 98,474 Millionen US-Dollar gestiegen, doch dieser Weg war nicht so einfach, wie Blumen zu pflücken und zu versenden. Taiwan verknüpfte Züchtung, Gewebekultur, Gewächshausmanagement, Quarantäne, Seetransport, ausländische Blüteninduktion und Sortenschutz zu einer Lieferkette, wodurch eine pflegebedürftige Pflanze zu einem grenzüberschreitend handelbaren Agrarprodukt wurde.
 
 ![Schmetterlingsschwertlilie Phalaenopsis Taisuco Kobold, Tainan International Orchid Show](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-- Bild: A-Qiao HQ / [Wikimedia Commons Dateiseite](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Bild per Hotlink eingebettet, nicht heruntergeladen.\*
+_Bild: Ahq HQ / [Wikimedia Commons Dateiseite](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD%5FPhalaenopsis%5FTaisuco%5FKobold%5F-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95%5FTaiwan%5FInternational%5FOrchid%5FShow-%5F(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Bild per Hotlink eingebettet, nicht heruntergeladen._
 
 ## Die Blume fliegt nicht direkt vom Gewächshaus in den Blumenladen
 
@@ -110,20 +110,20 @@ Wenn die nächste Blütezeit kommt, könnte man die Frage anders stellen: Nicht 
 
 ## Quellenangaben
 
-[^1]: [Landwirtschaftsministerium: Globale Landwirtschaftsstrategie – Eine Analyse des Aufstiegs der taiwanesischen Schwertlilienindustrie](https://www.moa.gov.tw/ws.php?id=2446099) — Offizieller Artikel des Ministeriums, der Exportdaten, das Programm für den Transport mit Anzuchtmedium in die USA, Seetransport- und Konservierungstechnologien sowie die Verteilung von Gewächshäusern dokumentiert.
+[^1]: [Landwirtschaftsministerium: Globale Ausrichtung des Agrarhandels, Brückenschlag über die Taiwanstraße – Eine kurze Analyse des Aufstiegs der taiwanesischen Phalaenopsis-Industrie](https://www.moa.gov.tw/ws.php?id=2446099) — Offizieller Artikel des Landwirtschaftsministeriums, der Exportdaten von Phalaenopsis, das Projekt zum Export in die USA mit Substrat, Seetransport-Frischhaltetechnologie und die Verteilung der Industriegewächshäuser dokumentiert.
 
-[^2]: [Landwirtschaftswissenschaftliches Portal / Fengshen-Magazin: Von „ausländischen Orchideen“ zum „taiwanischen Licht“: Ein Jahrhundert der Schwertlilienindustrie](https://www.agriharvest.tw/archives/126282/) — Fachartikel in landwirtschaftlichen Medien, der einheimische Sorten, Zuchtkultur, Züchtung, das Engagement der Taiwan Sugar Corporation, internationale Orchideenausstellungen und Naturschutzsysteme historisch zusammenfasst.
+[^2]: [Landwirtschaftswissensportal / Fengnian-Magazin: Von ‚Westlichen Orchideen‘ zum Stolz Taiwans: Hundertjährige Entwicklung der Phalaenopsis-Industrie](https://www.agriharvest.tw/archives/126282/) — Fachartikel eines landwirtschaftlichen Mediums, der den historischen Kontext von Wildarten, Orchideenkultur, Züchtung, Engagement der Taiwan Sugar Corporation, internationalen Orchideenausstellungen und Wildschutzsystemen zusammenfasst.
 
-[^3]: [Taiwan Sugar Corporation: Cover Story – Die stärksten Schwertlilien auf dem Markt – Legende](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Offizieller Artikel der Firma, der die Umstrukturierung des Unternehmens, die Testzucht in Xi’hu, niederländische Gewächshäuser und die Gründung der Gartenbaureinheit erklärt.
+[^3]: [Taiwan Sugar Corporation: Titelgeschichte – Marktführende Orchideen: Die Legende](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Artikel der offiziellen Publikation der Taiwan Sugar Corporation, der den Institutionalisierungsprozess des Phalaenopsis-Geschäfts anhand von Unternehmensumwandlung, Versuchsanbau in Xihu, niederländischen Gewächshäusern und der Einrichtung gärtnerischer Abteilungen erläutert.
 
-[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — Offizielle Mitteilung des europäischen Sortenamts im Jahr 2026, die die Zusammenarbeit zwischen Taiwan und der EU bei Schwertlilien- und Oncidium-DUS-Prüfungen sowie Sortenschutz erläutert.
+[^4]: [CPVO: CPVO und Taiwan erweitern Sortenschutz auf Oncidium-Orchideen](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — Offizielle Bekanntmachung des Gemeinschaftlichen Sortenamts (CPVO) 2026, die die gegenseitige Anerkennung von DUS-Prüfberichten für Phalaenopsis und Oncidium zwischen Taiwan und der EU sowie den Fortschritt der Sortenschutzkooperation darlegt.
 
-[^5]: [Landwirtschaftsministerium: Pflanzensortenschutz im Überblick – Pflanzensortenschutz und globale Expansion der Industrie – am Beispiel der Schwertlilie](https://www.moa.gov.tw/ws.php?id=2445491) — Systemanalyse des Ministeriums, das die nationale Zuständigkeit, die Zuchtzyklen der Schwertlilien, die globale Zusammenarbeit und die Struktur der Wertschöpfungskette erklärt.
+[^5]: [Landwirtschaftsministerium: Rundumblick auf Sortenrechte – Sortenrechte und globale Ausrichtung der Industrie am Beispiel der Phalaenopsis](https://www.moa.gov.tw/ws.php?id=2445491) — Institutionsanalytischer Artikel des Landwirtschaftsministeriums, der das Territorialitätsprinzip von Sortenrechten, den Züchtungszyklus der Phalaenopsis, die globale Arbeitsteilung in der Züchtung und die Struktur der Wertschöpfungskette erläutert.
 
-[^6]: [Zhao Xinyan: Studium der Produktionsformen der taiwanesischen Schwertlilienindustrie – dargestellt am Beispiel von Tainen](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Masterarbeit an der Nationalen Taiwan Lehrergewährleistungsuniversität, die von Airiti indexiert wird, mit Zusammenfassungen zu Produktionsregionen, Landwirtschaftliche Industrialisierung, Kern- und Satellitengärtnereien sowie sozialen Netzwerken.
+[^6]: [Zhao Xinyan: Studie zu den Produktionsmodellen der taiwanesischen Phalaenopsis-Industrie – am Beispiel der Region Tainan](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Seite der Masterarbeit der Nationalen Normaluniversität Taiwan, erfasst in Airiti, die eine Zusammenfassung zu den Anbaugebieten Tainans, der landwirtschaftlichen Industrialisierung, Kern- und Satellitenorchideengärten sowie der Forschung zu sozialen Netzwerken bietet.
 
-[^7]: [S. Wei et al.: Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — Englischsprachiger Fachartikel in Acta Horticulturae, der tiefgehende Interviews zur Analyse von kleinen Unternehmen, Wertschöpfungsketten, technischen Vorteilen und nachhaltigen Entwicklungsproblemen der taiwanesischen Schwertlilienindustrie liefert.
+[^7]: [S. Wei u. a.: Wertschöpfungskettendynamik in der taiwanesischen Orchideenindustrie](https://www.actahort.org/books/878/878_56.htm) — Seite des englischsprachigen Fachartikels in Acta Horticulturae, der mittels Tiefeninterviews kleine und mittlere Unternehmen der taiwanesischen Orchideenindustrie, Wertschöpfungsketten, technologische Vorteile und langfristige Nachhaltigkeitsfragen analysiert.
 
-[^8]: [Landwirtschaftsministerium: Taiwan und Japan unterzeichnen Erinnerungsprotokoll zur Anerkennung von Pflanzensortenberichten – Ein neues Kapitel der Zusammenarbeit](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — Offizielle Nachricht des Landwirtschaftsministeriums im Jahr 2024, die die gegenseitige Anerkennung von Pflanzensortenberichten, Prüfungszeiten für Sortenschutz, 17 erfolgreiche ausländische Sortenrechte und die Kosten für internationale Anträge erläutert.
+[^8]: [Landwirtschaftsministerium: Taiwan und Japan unterzeichnen Kooperationsmemorandum zur gegenseitigen Anerkennung von Sortenprüfberichten – Eröffnung eines neuen Kooperationskapitels](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — Offizielle Nachricht der Landwirtschafts- und Ernährungsverwaltung 2024, die die gegenseitige Anerkennung von Sortenprüfberichten zwischen Taiwan und Japan, die Dauer der Sortenrechtsprüfung, 17 erzielte ausländische Sortenrechte und die Kosten ausländischer Anträge darlegt.
 
-[^9]: [Wikimedia Commons: Schmetterlingsschwertlilie Phal. Taisuco Kobold – Tainen International Orchid Show](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — Siehe Originalverbindung für detaillierte Informationen
+[^9]: [Wikimedia Commons: Phalaenopsis Taisuco Kobold – Tainan International Orchid Show](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — Details siehe Originalverweis für ergänzende Informationen

@@ -1,26 +1,28 @@
 ---
 title: 'Huang Zhen-nan'
-description: "Huang Zhen-nan est un spécialiste de la culture et de l'histoire taïwanaises, bibliophile et écrivain. À travers sa page Facebook « Huo Shui Lai Ce Fang » (活水來冊房), il partage l'histoire de Taïwan et la culture du livre ancien. Il est l'auteur de titres tels que « L'histoire de Taïwan la plus déjantée de l'histoire taïwanaise »."
+description: "Huang Zhen-nan est un travailleur de l'histoire et de la culture taïwanaises, un bibliophile et un écrivain, qui partage l'histoire de Taïwan et la culture des livres anciens via sa page « Living Water Bookroom », et a écrit des ouvrages tels que « L'histoire de Taïwan la plus riche en mèmes de l'histoire de Taïwan »."
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Culture et histoire taïwanaises',
+    'Histoire et culture taïwanaises',
     'Bibliophile',
     'Huang Zhen-nan',
     'Histoire de Taïwan',
-    'Huo Shui Lai Ce Fang',
+    'Living Water Bookroom',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-04T21:34:09.803445+00:00'
 ---
 
 # Huang Zhen-nan : une famille de lettrés et la source vive de la culture taïwanaise
@@ -61,15 +63,15 @@ Son modèle de collection familiale illustre également la force populaire de la
 
 ## Références
 
-[^1]: [Huang Zhen-nan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Biographie principale, parcours éducatif et détails sur la collection.
+[^1]: [Huang Zhen-nan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Principaux événements de sa vie, formation et détails de sa collection de livres.
 
-[^2]: [Page Facebook Huo Shui Lai Ce Fang](https://www.facebook.com/ngtsinlam) — Archives des partages et actualités de la collection depuis la création en 2009.
+[^2]: [Page Facebook de la librairie Huoshui Lai](https://www.facebook.com/ngtsinlam) — Archives de partage et actualités de la collection depuis sa fondation en 2009.
 
-[^3]: [Fiche du livre _L'histoire de Taïwan la plus déjantée de l'histoire taïwanaise_](https://www.books.com.tw/products/0010722013) — Page du catalogue Books.com.tw, comprenant les informations de publication et les commentaires des lecteurs.
+[^3]: [Page du livre « L'histoire de Taïwan la plus drôle de l'histoire de Taïwan »](https://www.books.com.tw/products/0010722013) — Page bibliographique de Books.com.tw, avec informations de publication et commentaires des lecteurs.
 
-[^4]: [Entretien avec le bibliophile Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Histoire de la collection familiale et description des pièces liées à Shigematsu Mitsuru et Cai Pei-huo.
+[^4]: [Interview du collectionneur Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Histoire de la collection familiale et description des objets liés à Mitsuru Nishikawa et Cai Peihuo.
 
-[^5]: [Article de recommandation de Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Points de vue de Huang Zhen-nan sur la promotion de la lecture de l'histoire taïwanaise et suggestions de lectures.
+[^5]: [Reportage de Newtalk sur les recommandations de lecture](https://newtalk.tw/news/view/2026-02-18/1020552) — Points de vue de Huang Zhen-nan sur la promotion de la lecture de l'histoire de Taïwan et ses suggestions de livres.
 
 ## Pour aller plus loin
 

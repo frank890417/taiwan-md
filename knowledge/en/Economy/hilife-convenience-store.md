@@ -2,9 +2,7 @@
 title: "Hi-Life: From Guangquan Red to United Green—The Soul of Taiwan's 'Third Superstore' Rises Up"
 description: "How did Hi-Life, as Taiwan's sole superstore with purely local roots, carve out its identity amidst the pressure from 7-ELEVEN and FamilyMart through pioneering 'New Year's Eve meal pre-orders' and 'digital transformation'? How will this major ownership shift in 2023 change the DNA of this 35-year-old establishment?"
 date: 2026-07-21
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Hi-Life',
@@ -15,15 +13,20 @@ tags:
     'Ownership Change',
     'Retail Finance',
   ]
-readingTime: 12
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-21
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-04T16:32:49.948367+00:00'
 ---
 
 > **30 Second Overview:** Established in 1989 on Dihua Street, Hi-Life is Taiwan's first and the only among the four major convenience store chains with purely local roots. It was not a product of foreign investment licensing but the fruit of the Wang family of Guangquan, born from the philosophy of "local sentiment and global outlook." Although its store count has always placed it third or fourth in scale, Hi-Life was an innovator, pioneering 'pre-order New Year's Eve meals' and 'multi-media service machines.' In 2023, ownership transitioned from the Wang family to the United Group. This long-standing "red-based" chain is gradually donning a new "blue-green" guise, transforming into an outpost for finance and digital payments. This transaction is not merely capital flow; it is an experiment in how the spirit of "local retail" can survive in the modern era.

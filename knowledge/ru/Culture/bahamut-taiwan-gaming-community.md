@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/巴哈姆特.md'
-sourceCommitSha: 'f5975a224'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-07-28T17:22:23+08:00'
+translatedAt: '2026-11-05T06:19:04.314220+00:00'
 ---
 
 # Бахамут

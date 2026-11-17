@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-11-04T19:24:53.983518+00:00'
 ---
 
 > **30 giây tóm tắt:** Vào năm 1949, khoảng 1,2 triệu quân dân cùng chính phủ KMT tị nạn từ đại lục Trung Quốc về Đài Loan, tạo nên cấu trúc dân số người ngoại tỉnh và người bản tỉnh. Bất công hệ thống trong thời kỳ kiểm duyên, cộng với [[二二八事件]] để lại các vết thương tập thể, khiến thành phố tư khách trở thành nền tảng logic nhạy cảm nhất của chính trị Đài Loan. Sau quá trình dân chủ hóa, tranh chấp thành phố tư khách được các nhân vật chính trị tái đoàn kết, cho đến thập niên 2000 mới dần bị "tự nhận thức người Đài Loan" làm tan biến — nhưng các nhà nghiên cứu cho rằng nó chưa bao giờ từ bỏ, chỉ đổi hình thức.

@@ -98,16 +98,16 @@ _Fuente de la imagen: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/Fi
 
 ## Lectura Adicional
 
-- [[Levantamiento de la Ley Marcial]]​: Punto de inflexión clave de la democratización de Taiwán
-- [[Movimiento Lirio Silvestre]]​: Modelo democrático del movimiento estudiantil taiwanés
-- [[Movimiento Girasol]]​: Manifestación de la fuerza de la sociedad civil
-- [[Matrimonio entre Personas del Mismo Sexo]]​: Logro de igualdad, el primero en Asia
-- [[Justicia Transicional]]​: Coraje para enfrentar la historia autoritaria
-- [[Democracia Digital]]​: Combinación innovadora de tecnología y democracia
-- [[g0v Gobierno Cero]]​: Espíritu de código abierto de la tecnología cívica
-- [[Comisión para Promover la Justicia Transicional]]​: La búsqueda de la verdad histórica
-- [[228-incident]]​: Rehabilitación y reconciliación de la memoria histórica
-- [[Terror Blanco]]​: Persecución política bajo el gobierno autoritario
+- [[Levantamiento de la Ley Marcial]]: Punto de inflexión clave de la democratización de Taiwán
+- [[Movimiento Lirio Silvestre]]: Modelo democrático del movimiento estudiantil taiwanés
+- [[Movimiento Girasol]]: Manifestación de la fuerza de la sociedad civil
+- [[Matrimonio entre Personas del Mismo Sexo]]: Logro de igualdad, el primero en Asia
+- [[Justicia Transicional]]: Coraje para enfrentar la historia autoritaria
+- [[Democracia Digital]]: Combinación innovadora de tecnología y democracia
+- [[g0v Gobierno Cero]]: Espíritu de código abierto de la tecnología cívica
+- [[Comisión para Promover la Justicia Transicional]]: La búsqueda de la verdad histórica
+- [[228-incident]]: Rehabilitación y reconciliación de la memoria histórica
+- [[Terror Blanco]]: Persecución política bajo el gobierno autoritario
 
 ---
 

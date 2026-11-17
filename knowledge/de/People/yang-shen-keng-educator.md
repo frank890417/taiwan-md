@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T07:14:09.642787+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Yang Shen-keng (1946–2021), Gestalter der taiwanesischen Bildungstheorie. Philosophische Doktorin der Universität Athen, erste lebenslange Professorin des Bildungsministeriums, vierfacher Preisträger des National Science Council und Gewinner des Jin Ding Awards. Er gründete das Institut für Vergleichende Pädagogik an der National Sun Yat-sen University, war Dekan und stellvertretender Rektor der Fakultät für Bildung an der National Taiwan University und leitete fast vierzig Jahre lang die „Yangmen“-Wissenschaftskonferenz an der Taiwan Normal University. Er betreute über hundert Master- und Doktoranden. Am 29. August 2021 starb er im Taihuan University Hospital im Alter von 76 Jahren.

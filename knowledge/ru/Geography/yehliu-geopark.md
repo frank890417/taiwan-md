@@ -2,19 +2,21 @@
 title: 'Елиу: на Мысе Дьявола — коронация и уход «Королевы», бегущей со временем'
 description: 'В 1962 году случайный облом скалы придал «Голове Королевы» в Елиу её королевский профиль, но этот мировой геолого-ландшафт исчезает со скоростью 2 см в год. От «Мыса Дьявола» в глазах испанцев до национального культурного ориентира — история Елиу — это не просто геологическое чудо, но и процесс, в котором тайваньцы учатся отпускать, зажатые между законами природы и эмоциональной привязанностью.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '地形與地質'
 tags: ['Елиу', 'Голова Королевы', 'Геопарк', 'Ваньли', 'Линь Тяньчжэнь']
-readingTime: 8
+subcategory: '地形與地質'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-05T05:44:38.921477+00:00'
 ---
 
 > **Обзор за 30 секунд:**

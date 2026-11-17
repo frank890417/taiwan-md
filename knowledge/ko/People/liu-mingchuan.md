@@ -2,20 +2,22 @@
 title: '류명전: 타이완 최초의 전등을 밝힌, 권력과 논쟁 속을 달린 근대화 선구자'
 description: '염전 밀매업자의 아들에서 타이완 초대 순무에 이르기까지, 류명전은 타이완에서 보낸 6년 동안 철도와 우편 제도를 추진했을 뿐 아니라 타이베이 성 안에 대청제국 최초의 전등을 밝혔다. 그러나 그의 ‘기륭 철수와 호미 지원’이라는 전략적 결정, 그리고 조급했던 원주민 통치와 토지세 정비 정책 역시 역사의 긴 흐름 속에 깊은 논쟁과 그림자를 남겼다.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   ['류명전', '타이완 역사', '타이베이 성', '근대화', '청불전쟁', '전력 건설']
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:43:51.887927+00:00'
 ---
 
 > **30초 개관:** 1884년 청불전쟁의 포화는 류명전을 타이완 역사의 전환점 위로 밀어 올렸다. 그는 외침을 성공적으로 막아냈을 뿐 아니라, 이후 순무로 재임한 6년 동안 타이베이를 대청제국에서 가장 선진적인 도시 가운데 하나로 만들었다. 이곳에는 최초의 여객 철도, 최초의 전등, 그리고 가장 이른 시기의 서양식 학당이 있었다. 그러나 이 “근대화 제1인자”의 시정은 순탄하지만은 않았다. 전장에서의 철수 결정과 내부를 향한 고압 정책은 오늘날까지도 역사학계에서 끊임없이 논쟁되는 쟁점이다.
@@ -57,24 +59,24 @@ translatedAt: '2026-06-17T00:36:20+08:00'
 
 ## 참고 자료
 
-[^1]: 쩡위안즈. (2024, July 6). 【타이완 통사】탁월한 식견을 지닌 선구자였는가, 혼란을 불러온 야심가였는가? 류명전이 타이완에서 보낸 6년의 풍운. 스토리. [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan)
+[^1]: [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan) — 쩡위안즈. (2024, July 6). 【타이완 통사】탁월한 식견을 지닌 선구자였는가, 혼란을 불러온 야심가였는가? 류명전이 타이완에서 보낸 6년의 풍운. 스토리
 
-[^2]: 황웨이팅. (n.d.). 류명전. 국가문화기억고. [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191)
+[^2]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191) — 황웨이팅. (n.d.). 류명전. 국가문화기억고
 
-[^3]: 우정박물관. (n.d.). 용마 우표. [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63)
+[^3]: [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63) — 우정박물관. (n.d.). 용마 우표
 
-[^4]: 이커징쉬안. (2023, September 22). 타이완을 진심으로 사랑한 첫 사람! 류명전과 그의 “류보 대몽”. 랑랑웨두. [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846)
+[^4]: [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846) — 이커징쉬안. (2023, September 22). 타이완을 진심으로 사랑한 첫 사람! 류명전과 그의 “류보 대몽”. 랑랑웨두
 
-[^5]: Podcasts. (2022, July 21). EP58 류명전──타이완 근대화 제1인자. Apple Podcasts. [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731)
+[^5]: [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731) — Podcasts. (2022, July 21). EP58 류명전──타이완 근대화 제1인자. Apple Podcasts
 
-[^6]: 타이완 초대 순무 류명전, 근대화의 기초를 놓다. (2015, July 23). 대기원. [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm)
+[^6]: [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm) — 타이완 초대 순무 류명전, 근대화의 기초를 놓다. (2015, July 23). 대기원
 
-[^7]: 리이. (2019, September 30). 【칼럼】청불전쟁 역사 재현 시리즈 특집(8) 기륭 철수와 호미 지원, 류명전이 타이베이 성을 지켜내다. 신베이시립 단수이 고적박물관. [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304)
+[^7]: [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304) — 리이. (2019, September 30). 【칼럼】청불전쟁 역사 재현 시리즈 특집(8) 기륭 철수와 호미 지원, 류명전이 타이베이 성을 지켜내다. 신베이시립 단수이 고적박물관
 
-[^8]: 타이완전력공사. (2025, August 25). 타이완에 현존하는 가장 오래된 발전기, 바로 이 학교 안에 있다! 전력 이야기관. [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost)
+[^8]: [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost) — 타이완전력공사. (2025, August 25). 타이완에 현존하는 가장 오래된 발전기, 바로 이 학교 안에 있다! 전력 이야기관
 
-[^9]: 타이베이 성의 변천. (n.d.). 국립타이완과학기술대학교 건축학과. [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm)
+[^9]: [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm) — 타이베이 성의 변천. (n.d.). 국립타이완과학기술대학교 건축학과
 
-[^10]: 역사 교과서가 쓰지 않은 진실: 프랑스군을 물리친 것은 사실 류명전이 아니었다. (2025, December 11). Threads. [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/)
+[^10]: [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/) — 역사 교과서가 쓰지 않은 진실: 프랑스군을 물리친 것은 사실 류명전이 아니었다. (2025, December 11). Threads
 
-[^11]: 타이베이 성 선. (n.d.). 타이베이시 교사연수센터. [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm)
+[^11]: [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm) — 타이베이 성 선. (n.d.). 타이베이시 교사연수센터

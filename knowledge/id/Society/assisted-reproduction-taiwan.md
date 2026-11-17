@@ -1,8 +1,8 @@
 ---
 title: 'Reproduksi Buatan Taiwan: Satu Embrio Bisa Melintasi Batas Negara, Keluarga Tak Bisa Otomatis Melintasi Hukum'
 description: 'Pada 2020, pasangan lesbi Mota dan City pergi ke Kamboja untuk IVF, menghabiskan sekitar 2 juta dolar Taiwan baru dalam empat tahun. Taiwan sudah memiliki Undang-Undang Reproduksi Buatan sejak 2007, memperluas subsidi bayi tabung pada 2021, dan baru pada 2025 rancangan revisi memasukkan perempuan belum menikah dan pasangan lesbi yang sudah menikah. Teknologi sudah matang, yang tertinggal hukum bukan hanya cara melahirkan, tapi siapa yang berhak menjadi keluarga.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'reproduksi buatan',
@@ -11,17 +11,19 @@ tags:
     'pernikahan sejenis',
     'lahir rendah',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-11T17:03:13+08:00'
+translatedAt: '2026-11-05T06:26:54.440956+00:00'
 ---
 
 > **Ringkasan 30 detik:** Pada 2020, pasangan lesbi Mota dan City menerima IVF di Kamboja, menghabiskan sekitar 2 juta dolar Taiwan baru dalam empat tahun. Teknologi medis Taiwan sudah matang, namun hukum lama hanya mengizinkan pasangan suami-istri heteroseksual menggunakannya. Dari Undang-Undang Reproduksi Buatan 2007 hingga rancangan revisi 2025, artikel ini bukan soal "bisa atau tidak bisa melahirkan", tapi siapa yang bisa masuk ruang rawat, siapa yang diakui sebagai orang tua setelah bayi lahir, dan persoalan yang ditinggalkan ibu surrogat. [^1]

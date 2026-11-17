@@ -2,9 +2,7 @@
 title: 'الأرز بالزيت: من الأرز اللزج "للاستعراض" إلى هدية الشهر الأول التي تحمل ثقل الحياة'
 description: 'في شوارع تايوان عام 2026، لا يزال طبق الأرز بالزيت الخيار الأول للكثيرين للاحتفال بقدوم مولود جديد. هذا الطبق المنحدر من تقاليد المهاجرين الهان، والذي تطور في تايوان ليخرج "نسبة الذواقة" المتشابكة بين المالح والحلو، يجمع بين الأرز اللزج والبصل الأحمر المقلّي ليشكّل أسمى بركات العائلات التايوانية في منعطفات الحياة.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'الأرز بالزيت',
@@ -14,15 +12,19 @@ tags:
     'الأرز اللزج',
     'ثقافة الولائم',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
-sourceBodyHash: 'sha256:e335b16f6c8cbb675'
-translatedAt: '2026-07-25T09:23:16+08:00'
+sourceBodyHash: 'sha256:e335b1f6c8cbb675'
+translatedAt: '2026-11-05T01:45:26.794499+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**

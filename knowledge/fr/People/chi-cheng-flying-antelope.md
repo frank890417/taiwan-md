@@ -1,6 +1,6 @@
 ---
-title: 'Chi Cheng : 10 records du monde, cinquante ans de course pour la reconnaissance de Taïwan'
-description: "Née le 15 mars 1944 à Hsinchu, Chi Cheng, surnommée « l'Antilope volante », est l'athlète féminine la plus brillante de l'histoire de l'athlétisme taïwanais. Aux Jeux olympiques de Mexico en 1968, elle décroche le bronze sur 80 mètres haies en 10 s 51, première médaille olympique féminine en athlétisme pour Taïwan ; elle bat au total 10 records du monde au cours de sa carrière. Après sa retraite, elle se consacre à la promotion du running. À plus de 80 ans, elle reste active sur le front du mouvement pour la reconnaissance du nom « Taïwan »."
+title: 'Chi Cheng : 10 records du monde, cinquante ans plus tard elle court encore pour la reconnaissance de Taïwan'
+description: "Chi Cheng, née en 1944 à Hsinchu, surnommée « l'antilope bondissante ». Aux Jeux olympiques de Mexico en 1968, elle a remporté le bronze au 80 mètres haies en 10,51 secondes, devenant la première femme taïwanaise à décrocher une médaille olympique en athlétisme, et a établi 10 records du monde au cours de sa carrière. Après sa retraite, elle a promu des courses sur route à Taïwan, et en 2024, elle a été nommée conseillère nationale à la présidence ; à plus de 80 ans, elle continue de militer pour la reconnaissance de Taïwan, préconisant que Taïwan participe aux Jeux olympiques de Los Angeles 2028 sous le nom de « Taïwan »."
 date: 2026-03-19
 category: 'People'
 tags: ['Sport', 'Athlétisme', 'Jeux olympiques', 'Haies', 'Records du monde']
@@ -10,15 +10,15 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從1968年墨西哥奧運決賽那個瞬間切入——10秒51、一面銅牌、台灣第一。這個時刻是她奔跑生涯的定義點，也讓讀者在第一段就知道她跑出了什麼。"
-#   whats_excluded: "體育行政的詳細爭論；各項世界紀錄的完整技術細節；1966年100公尺世界紀錄的爭議史料（文中已適度標注）"
-#   where_it_hedges: "1966年100公尺世界紀錄（各來源說法不一，賽事地點與成績仍有歧異）；200公尺慕尼黑紀錄的確切年份；本名紀正平（未獲中文史料確認）"
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-06T00:17:01.618712+00:00'
 ---
 
 # Chi Cheng : 10 records du monde, cinquante ans de course pour la reconnaissance de Taïwan

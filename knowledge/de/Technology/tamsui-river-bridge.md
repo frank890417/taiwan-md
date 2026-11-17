@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T16:43:21.856184+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

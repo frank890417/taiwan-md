@@ -1,21 +1,21 @@
 ---
-title: 'Avetoro de Taiwán: La banda azul de la selva urbana y una batalla genética de más de un siglo'
-description: 'Tras ganar el título de ave nacional con 180,000 votos en 2007, esta joya de las montañas es en realidad un clan feroz capaz de pelear en grupo. Es una especie endémica de Taiwán; desde su primer espécimen recolectado por Swinhoe en 1862 hasta hoy, cuando compite por comida para gatos en los parques urbanos, su éxito se debe a un sistema de ayuda cooperativa en el nido de hasta el 97% para ganar la competencia. Durante estos más de cien años, también han mantenido una frontera genética con el ave de pico rojo de China. Esta es una historia de la isla sobre la supervivencia, la cohesión familiar, la defensa genética y la sabiduría de la coexistencia entre humanos y aves.'
+title: 'El urraca azul de Taiwán: la banda azul en la selva urbana y una batalla genética centenaria'
+description: 'El urraca azul de Taiwán es una especie endémica de Taiwán, que ganó la selección del ave nacional en 2007. Su población es estable, la Lista Roja de la UICN la clasifica como «Preocupación menor», y Taiwán la lista como especie protegida de tercer nivel, principalmente por ser endémica; en años recientes ha aumentado también en zonas de baja altitud y parques urbanos. Viven en grupos, y el 97 % de los grupos familiares cuentan con ayudantes que colaboran en la crianza de los polluelos; atacan colectivamente a los intrusos. La amenaza más preocupante es la hibridación y la contaminación genética provocada por la especie invasora, el urraca azul de pico rojo.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'Especie endémica',
-    'Especie protegida',
-    'Aves',
-    'Ecología',
-    'Long-tailed mountain lady',
-    'Reproducción cooperativa',
-    'Pueblo Tsou',
-    'Pueblo Bunun',
-    'Avetoro de pico rojo',
-    'Ciencia ciudadana',
-    'Cambio climático',
+    'especie endémica',
+    'especie protegida',
+    'aves',
+    'ecología',
+    'urraca azul de cola larga',
+    'reproducción cooperativa',
+    'Tsou',
+    'Bunun',
+    'urraca azul de pico rojo',
+    'ciencia ciudadana',
+    'cambio climático',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,11 +23,15 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T02:41:15.183642+00:00'
+translatedAt: '2026-11-05T23:43:14.553169+00:00'
 ---
 
 > **Resumen en 30 segundos:**

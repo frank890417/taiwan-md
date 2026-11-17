@@ -24,9 +24,9 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/吳哲宇.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ebee89e5e92900ff'
-sourceBodyHash: 'sha256:80855056570f3a2e'
+sourceCommitSha: '22108ed2'
+sourceContentHash: 'sha256:0e292f506d0cb8f2'
+sourceBodyHash: 'sha256:d5006d749a563353'
 translatedAt: '2026-06-13T01:49:53+08:00'
 ---
 
@@ -239,8 +239,6 @@ PTS 보도자료는 이 공연을 “리저이가 이끄는 OneSong Orchestra와
 20년 뒤, Spotify에 그의 이름이 나타났다. 여섯 곡의 피아노곡이었다. Blue Horizon, Stars, StarTrack, The Other Shore of Dreams, The Bull and the Sudden Rain, Summer Migration[^34].
 
 그는 피아노를 다시 “배운” 것이 아니었다. 그것들은 늘 몸속에 있었고, 다만 20년 동안 먼지에 덮여 있었을 뿐이다. 그가 다시 건반 앞에 앉았을 때 손가락이 기억한 것은 기교가 아니라, 여섯 살부터 음표를 만지기 시작한 그 아이였다.
-
-**코드는 낡지만, 피아노는 낡지 않는다.**
 
 2025년 6월, 화산1914문화창의산업단지의 몰입 공간에서 《알고리즘 시편: 꿈과 고독의 경계》가 공연되었다. 그는 피아노 앞에 앉았고, 코드는 그의 뒤에서 꽃을 피웠다[^36].
 

@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:11+08:00'
+translatedAt: '2026-11-04T19:49:09.928473+00:00'
 ---
 
 > Молодые люди Тайваня в возрасте 25–35 лет переживают эксперимент по выживанию, начало которого никто не объявлял. Медианная зарплата застряла на 38 тысячах, а аренда студии в Тайбэе начинается от 14 тысяч. Одной основной работы не хватает — поэтому после смены включают приложение доставки, в выходные берут фриланс, ночами монтируют видео. Это не «тренд на слеш-карьеры», а стратегия выживания, вынужденная структурным тупиком.

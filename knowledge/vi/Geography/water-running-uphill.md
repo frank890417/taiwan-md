@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-09T08:07:25+08:00'
+translatedAt: '2026-11-05T05:34:01.271470+00:00'
 ---
 
 > **Tổng quan 30 giây:** "Nước chảy ngược" ở thôn Đô Lan, huyện Đông Hà, tỉnh Đài Đông là một rãnh tưới tiêu rộng chưa đến nửa mét, nhưng lại là một trong những "điểm tham quan phản trực giác" nổi tiếng nhất toàn Đài Loan. Đo đạc mặt đất cho thấy rãnh nước thực sự có độ dốc xuống khoảng 0,5~0,6 độ, con đường bên cạnh có độ dốc lớn hơn nhiều, khi nhìn hai đường dốc cùng một lúc, não bộ sẽ coi con đường có độ dốc lớn hơn là mặt phẳng tham chiếu, từ đó cảm nhận rãnh nước có độ dốc nhỏ hơn như "chảy ngược" — đây là ảo giác hệ thống tham chiếu của thị giác, không phải do trọng lực hay từ trường thất hiệu. Rạch nước này ban đầu là một công trình tưới tiêu do người Amis địa phương đào khai, sau những năm 1980 khi du lịch nội địa phát triển mạnh mẽ mới được chính quyền lập bia và bao gói thành kỳ quan, gần đây lại nổi lên cuộc thảo luận mới sau khi được gọi là "điểm tham quan vô dụng nhất Đài Loan".

@@ -2,9 +2,7 @@
 title: 'Dcard'
 description: 'موقع إلكتروني كتبه شاب من تاينان في سكن جامعة تايوان الوطنية لتسهيل تكوين صداقات، أصبح أكثر منصات التواصل الاجتماعي تأثيراً بين الشباب التايواني، ثم واصل النمو بينما يواجه سؤال: «هل بدأ Dcard بالتراجع؟»'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '網路與數位文化'
 tags:
   [
     'وسائل التواصل الاجتماعي',
@@ -15,15 +13,19 @@ tags:
     'الجامعة',
     'التكنولوجيا',
   ]
-readingTime: 8
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-07-25T06:34:23+08:00'
+translatedAt: '2026-11-05T05:21:51.483479+00:00'
 ---
 
 # Dcard

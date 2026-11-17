@@ -2,9 +2,7 @@
 title: 'Guān Shèng Dìjūn: Cómo un general derrotado se convirtió en el dios omnipotente de Taiwán'
 description: 'El general de los Tres Reinos Guānyǔ fue derrotado y decapitado, pero en Taiwán evolucionó hacia un sistema de creencias único en el mundo dedicado al «Enzhǔgōng» (Señor de la Gracia) — y el templo de Guandi más concurrido de toda la isla ni siquiera te permite quemar un incienso.'
 date: 2026-03-26
-author: 'Taiwan.md Contributors'
-category: Culture
-subcategory: '宗教與民俗'
+category: 'Culture'
 tags:
   [
     'Guān Shèng Dìjūn',
@@ -13,15 +11,19 @@ tags:
     'creencias populares',
     'cultura de templos',
   ]
-readingTime: 10
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-26
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-05T09:55:53.624705+00:00'
 ---
 
 # Guān Shèng Dìjūn: Cómo un general derrotado se convirtió en el dios omnipotente de Taiwán

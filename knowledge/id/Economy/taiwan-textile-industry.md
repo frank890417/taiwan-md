@@ -1,10 +1,8 @@
 ---
 title: 'Industri Tekstil Taiwan: Dari Industri Senja Menjadi Juara Tersembunyi Pakaian Olahraga Olimpiade'
 description: "Bagaimana sebuah industri tradisional yang pernah dianggap sebagai 'industri senja', kini mampu mengandalkan daur ulang botol plastik, jaring ikan bekas, bahkan menangkap emisi gas pabrik untuk menciptakan pakaian tempur teknologi tinggi bagi tim-tim global di Olimpiade Paris 2024, mengubah narasi ketangguhan industri tradisional Taiwan."
-date: '2026-07-20'
-author: 'Taiwan.md Contributors'
+date: 2026-07-20
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'Industri Tekstil',
@@ -15,15 +13,20 @@ tags:
     'Eclat',
     'Juyang',
   ]
-readingTime: '10'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-07-20
+lastHumanReview: false
+readingTime: 10
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-07-24T15:52:20+08:00'
+translatedAt: '2026-11-04T16:18:11.555088+00:00'
 ---
 
 > Ringkasan 30 Detik: Industri tekstil Taiwan pernah menjadi penggerak utama devisa pada tahun 1960-an, namun dilabeli sebagai "industri senja" pada tahun 1990-an karena tekanan biaya. Namun, melalui transformasi teknologi selama 30 tahun, Taiwan kini memasok lebih dari 70% kain teknis olahraga ke seluruh dunia[^1]. Dari pakaian berbahan "gas buang" untuk tim Taiwan di Olimpiade Paris 2024[^2] hingga 23 dari 48 tim yang menggunakan benang dari Taiwan pada Piala Dunia 2026[^3], pulau ini sedang mendefinisikan ulang standar mode berkelanjutan global dengan limbah dan teknologi tinggi.

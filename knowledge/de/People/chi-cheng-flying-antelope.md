@@ -1,20 +1,25 @@
 ---
-title: 'Chi Cheng: Zehn Weltrekorde, fünfzig Jahre lang weiter für Taiwan gelaufen'
-description: 'Geboren am 15. März 1944 in Hsinchu, wurde Chi Cheng mit dem Spitznamen „der springende Hirsch“ zur herausragendsten weiblichen Läuferin in der taiwanesischen Leichtathletik-Geschichte. Bei den Olympischen Spielen 1968 in Mexiko gewann sie im 80-Meter-Hürdenlauf in 10 Sekunden 51 mit der Bronzemedaille – das erste olympische Leichtathletik-Medaille Taiwans überhaupt. Ihr Karriere-Rekord: zehn Weltbestzeiten. Nach ihrem Karriereende setzte sie sich für den Laufsport ein und ist heute, im Alter von über achtzig Jahren, weiterhin aktiv im taiwanesischen Namensrechtsgehorsam-Bewegung.'
+title: 'Chi Cheng: Sie stellte 10 Weltrekorde auf, fünfzig Jahre später läuft sie immer noch für Taiwans Anerkennung'
+description: 'Chi Cheng, geboren 1944 in Hsinchu, bekannt als „Fliegende Antilope“. Bei den Olympischen Spielen 1968 in Mexiko-Stadt gewann sie im 80-Meter-Hürdenlauf mit 10,51 Sekunden die Bronzemedaille und wurde damit die erste Taiwanesin, die eine olympische Leichtathletik-Medaille gewann. In ihrer Karriere stellte sie 10 Weltrekorde auf. Nach ihrem Rücktritt förderte sie in Taiwan Straßenlaufveranstaltungen. 2024 wurde sie zur Nationalen Politikberaterin des Präsidialamts ernannt; auch mit über 80 Jahren setzt sie sich weiterhin für die Anerkennung Taiwans ein und fordert, dass Taiwan unter dem Namen „Taiwan“ an den Olympischen Spielen 2028 in Los Angeles teilnimmt.'
 date: 2026-03-19
 category: 'People'
-tags: ['Sport', 'Leichtathletik', 'Olympia', 'Hürdenlauf', 'Weltrekord']
+tags:
+  ['Sport', 'Leichtathletik', 'Olympische Spiele', 'Hürdenlauf', 'Weltrekord']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-09-23T19:25:25+08:00'
+translatedAt: '2026-11-05T22:20:27.781511+00:00'
 ---
 
 # Chi Cheng: Zehn Weltrekorde, fünfzig Jahre lang weiter für Taiwan gelaufen

@@ -1,19 +1,22 @@
 ---
 title: '태양과: 계엄 시대의 「해바라기」 금기에서 타이중 자유로의 백가쟁명까지'
 description: '1964년, 타이중 자유로 「태양당」 제과점이 개업했고, 예술가 옌수이룡(顏水龍)이 제작한 해바라기 모자벽화가 정치적 금기로 인해 25년간 봉인되었다. 청나라 말기 엿빵에서 시작하여 웨이칭하이(魏清海)가 개량한 이 원형 과자가 어떻게 철도 도시락의 부재료에서 타이중을 대표하는 문화 상징이 되었는가?'
-category: Food
-tags: ['태양과', '타이중 미식', '웨이칭하이', '옌수이룡', '태양당', '엿']
-author: 'Taiwan.md'
 date: 2026-04-26
-readingTime: 8
+category: 'Food'
+tags: ['태양과', '타이중 미식', '웨이칭하이', '옌수이룡', '태양당', '엿']
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/太陽餅.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/太陽餅.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: 2026-05-02T01:17:15+08:00
-featured: false
+translatedAt: '2026-11-05T05:07:21.303500+00:00'
 ---
 
 > **30초 개요:** 태양과는 처음부터 태양과라고 불리지 않았다. 이 과자는 청나라 말기와 중화민국 초기의 「엿빵」에서 기원했으며, 타이중 베이툰(北屯)의 명장 웨이칭하이(阿明師)의 개량을 거쳐 오늘날의 얇고 바삭한 형태로 발전했다. 1964년, 예술가 옌수이룡이 「태양당」을 위해 디자인한 해바라기 모자벽화는 「적을 위한 선전」이라는 혐의로 인해 25년간 봉인되었고, 이 정치적 에피소드는 오히려 이 과자에 전설적인 색채를 더했다.

@@ -2,9 +2,7 @@
 title: 'Dcard'
 description: 'Un sitio web creado por un chico de Tainan en una residencia de la Universidad Nacional de Taiwán para hacer más fácil conocer amigos, que se convirtió en la plataforma social más influyente entre los jóvenes taiwaneses, y que ahora sigue creciendo mientras enfrenta la pregunta de si Dcard está en declive.'
 date: 2026-04-05
-author: 'Taiwan.md'
-category: Culture
-subcategory: '網路與數位文化'
+category: 'Culture'
 tags:
   [
     'Redes sociales',
@@ -15,15 +13,19 @@ tags:
     'Universidad',
     'Tecnología',
   ]
-readingTime: 8
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/Dcard.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/Dcard.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-06-16T17:10:37Z'
+translatedAt: '2026-11-05T07:06:39.816661+00:00'
 ---
 
 # Dcard

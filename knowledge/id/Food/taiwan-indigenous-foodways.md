@@ -1,19 +1,19 @@
 ---
-title: 'Kuliner Masyarakat Adat Taiwan'
-description: 'Dari api AKAME hingga alam semesta sayuran Amis — bagaimana kuliner masyarakat adat Taiwan menyalakan kembali perhatian dunia setelah tiga ribu tahun'
+title: 'Budaya Kuliner Masyarakat Adat Taiwan'
+description: 'Dari Api AKAME ke Semesta Sayuran Liar Suku Amis—Bagaimana Kuliner Masyarakat Adat Taiwan Kembali Menarik Perhatian Dunia Setelah Tiga Ribu Tahun'
 date: 2026-03-29
 category: 'Food'
 tags:
   [
-    'Masyarakat adat',
-    'Budaya kuliner',
-    'Padi-padian kecil',
-    'Sayuran liar',
-    'Paiwan',
-    'Amis',
-    'Tao',
-    'Dapur komunitas',
-    'Kebangkitan kuliner',
+    'Masyarakat Adat',
+    'Budaya Kuliner',
+    'Jagung Sorgum',
+    'Sayuran Liar',
+    'Suku Paiwan',
+    'Suku Amis',
+    'Suku Tao',
+    'Dapur Desa',
+    'Revitalisasi Kuliner',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -23,124 +23,124 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 image: '/article-images/food/amis-music-festival-dancers-2016.webp'
-imageAlt: 'Penari masyarakat adat di Festival Musik Amis 2016'
+imageAlt: 'Penari Masyarakat Adat Suku Amis di Festival Musik 2016'
 imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '7636b625c'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-07T05:50:21+08:00'
 ---
 
-# Kuliner Masyarakat Adat Taiwan
+# Budaya Kuliner Masyarakat Adat Taiwan
 
-Pada 2023, sebuah restoran kecil dengan hanya dua puluh tempat duduk di Distrik Sandimen, Kabupaten Pingtung, masuk daftar Asia's 50 Best Restaurants, menduduki peringkat ke-39. Restoran bernama **AKAME** — berarti "api" dalam bahasa Paiwan. Chef Peng Tian-en adalah orang Paiwan, dan menu tidak berisi foie gras atau truffle, hanya tumbuhan dari gunung seperti daun semboja (tsiaah), lada gunung (magau), daun kesam palsu, dan cinavu yang nenek moyangnya pelajari dari nenek moyangnya. Media menulis "masakan asli Taiwan pertama kali naik panggung internasional" — padahal yang naik panggung adalah perhatian media internasional terhadapnya. Kuliner masyarakat adat Taiwan telah terendapkan di hutan dan pantai pulau ini selama tiga ribu tahun.
+2023, sebuah restoran kecil berkapasitas hanya dua puluhan kursi di Kecamatan Sandimen, Kabupaten Pingtung, masuk daftar "Asia's 50 Best Restaurants" di peringkat 39. Restoran itu bernama **AKAME**, yang dalam bahasa Paiwan berarti "api". Koki utama Peng Tien-en (彭天恩) adalah orang Paiwan; daftar menunya tidak ada hati angsa maupun truffle, hanya bawang gunung (刺蔥)、 lada gunung (山胡椒)、 daun Physalis palsu (假酸漿葉), serta resep Cinavu yang diwariskan neneknya dari nenek buyutnya. Media menulis "kuliner masyarakat adat Taiwan debut di panggung internasional"—sebenarnya yang debut hanyalah pandangan media internasional. Kuliner masyarakat adat Taiwan telah mengendap di pegunungan dan pantai pulau ini selama tiga ribu tahun.
 
-## 30 Detik Ringkasan
+## Ringkasan 30 Detik
 
-Taiwan memiliki 16 kelompok masyarakat adat yang diakui secara resmi, dan setiap kelompok memiliki bahasa kuliner independen: cinavu milik Paiwan, pengetahuan sayuran liar milik Amis, budaya terbang-ikan milik Tao, dan festival padi-padian kecil milik Bunun. Kuliner ini bukan sekadar makanan, tetapi suatu perjanjian dengan tanah, percakapan dengan arwah leluhur, dan epistemologi paling dalam dari sebuah kelompok masyarakat.
+16 suku masyarakat adat Taiwan yang diakui resmi, masing-masing memiliki bahasa kuliner independen: Cinavu suku Paiwan, pengetahuan sayuran liar suku Amis, budaya ikan terbang suku Tao, festival jagung sorgum suku Bunun. Kuliner-kuliner ini bukan sekadar makanan, melainkan perjanjian dengan tanah, dialog dengan leluhur, serta epistemologi terdalam suatu kelompok etnis.
 
-Memasuki abad ke-21, setelah tertindas oleh kolonialisme Jepang dan kebijakan asimilasi ganda, sekelompok chef muda dan tetua komunitas sedang membangun kembali tali pusatnya melalui kuliner. Chef Peng Tian-en (Paiwan), chef AKAME, dan Yáng Báiyáng (Amis), chef Sinasera 24, adalah tokoh perwakilan gerakan kebangkitan ini dan pendorong kunci yang memungkinkan kuliner masyarakat adat Taiwan memasuki peta kuliner internasional.
+Masuk abad ke-21, setelah tekanan ganda kolonialisasi Jepang dan politik asimilasi, sejumlah koki muda dan tetua desa kini memanfaatkan kuliner sebagai medium untuk membangun kembali pusar budaya yang pernah terputus. Koki utama AKAME Peng Tien-en (Paiwan) dan koki utama Sinasera 24 Yang Bo-wei (楊柏偉, Amis) adalah tokoh representatif gerakan revitalisasi ini, sekaligus dorongan kunci agar kuliner masyarakat adat Taiwan memasuki peta kuliner internasional.
 
-Kata kunci: festival padi-padian kecil, cinavu, mata air lelaki (raindrop), magau (lada gunung), AKAME, Sinasera 24
+Kata kunci: Festival Jagung Sorgum, Cinavu (吉拿富), Air Mata Kekasih, Magau (馬告), AKAME, Sinasera 24
 
 ---
 
 ## Penamaan Api: AKAME dan Bahasa Makanan yang Hilang
 
-Peng Tian-en bekerja di restoran Prancis di Taipei sebelum membuka restoran di Sandimen. Dalam wawancara media, dia berkata: "Saya belajar banyak teknik di Taipei, tapi selalu merasa kurang sesuatu. Barulah kemudian saya menyadari, apa yang saya kehilangan adalah bahasa saya sendiri — bahasa makanan."
+Sebelum membuka restoran di Sandimen, Peng Tien-en pernah bekerja di restoran Prancis di Taipei. Saat wawancara dengan media ia berkata: "Di Taipei saya belajar banyak teknik, tapi selalu merasa kekurangan sesuatu. Baru kemudian saya sadar, yang hilang adalah bahasa saya sendiri—bahasa makanan."
 
-"Bahasa" yang dia maksudkan ada di beberapa jenis tumbuhan secara konkret. Daun semboja (tsiaah dalam bahasa Paiwan) baunya tajam seperti pisau, simbol batas makanan milik Paiwan; daun kesam palsu membungkus cinavu dengan lipatan berlapis-lapis, memungkinkan padi-padian kecil dan daging babi menyatu perlahan dalam perebusan; lada gunung (magau, magau dalam bahasa Bunun dan Atayal) adalah rempah arwah milik kelompok Bunun dan Atayal, membawa tiga aromatik sekaligus — jahe, rumput lemon, dan lada — siapa pun yang mencium sekali tidak akan lupa.
+"Bahasa" yang ia sebut ada secara konkret dalam beberapa tanaman. Bau bawang gunung (bahasa Paiwan: _tsiaah_) tajam seperti pisau, merupakan simbol bagi Paiwan untuk mengidentifikasi batas makanan; lipatan-lipatan daun Physalis palsu yang membungkus Cinavu membuat jagung sorgum dan daging babi menyatu perlahan saat dikukus; lada gunung (Magau, 馬告) adalah bumbu jiwa suku Bunun dan Atayal, membawa tiga lapis aroma jahe, sereh, dan lada—siapapun menciumnya sekali tidak akan lupa.
 
-Menu AKAME berubah setiap musim, karena bahasa gunung berubah setiap musim. Peng Tian-en mengatakan pekerjaan dia adalah "menerjemahkan", menerjemahkan ingatan tetua komunitas ke piring hari ini, membuat tata bahasa hutan berubah menjadi narasi yang orang lain pahami.
+Menu AKAME berganti setiap musim, karena bahasa gunung berbeda tiap musim. Peng Tien-en berkata tugasnya adalah "menerjemahkan", menerjemahkan kenangan tetua desa ke piring hari ini, mengubah tata bahasa hutan menjadi narasi yang bisa dipahami siapapun.
 
-Sinasera 24 di Changbin, Taitung, mengambil jalur serupa. Chef Yáng Báiyáng berfokus pada bahan makanan sayuran liar Amis, setiap hari membawa staf ke hutan untuk mengumpulkan, membuat menu hari itu dari tumbuhan yang ditemukan hari itu. "Sinasera" berarti "tempat matahari terbit" dalam bahasa Amis; Yáng Báiyáng berkata: "Banyak sayuran liar di mata orang Han adalah gulma, tapi orang Amis sejak kecil tahu itu makanan, obat-obatan, bahkan hadiah. Pengetahuan ini tidak ditulis jadi buku, hidup di kaki orang tua, hidup di gerakan mereka membungkuk saat melintas rumput."
+Sinasera 24 di Changbin, Taitung, menempuh jalur serupa. Koki utama Yang Bo-wei menjadikan bahan sayuran liar suku Amis sebagai inti, setiap hari mengajak karyawan masuk hutan mengumpulkan, mengolah tanaman yang ditemukan hari itu menjadi menu hari itu. "Sinasera" dalam bahasa Amis berarti "tempat matahari terbit". Yang Bo-wei berkata: "Banyak sayuran liar di mata orang Han dianggap rumput liar, tapi orang Amis sejak kecil tahu itu makanan, obat, bahkan hadiah. Pengetahuan ini tidak tertulis dalam buku, hidup di langkah kaki orang tua, hidup di gerakan membungkuk mereka menembus semak belukar."
 
 > 📝 **Penamaan AKAME**
-> Akame dalam bahasa Paiwan berarti "api", dan juga tersirat "titik awal" — arti. Api adalah salah satu memori bahasa Paiwan paling kuno: itu memasak makanan, juga menghubungkan manusia dengan arwah leluhur. Di rumah Paiwan tradisional, tempat api (adju) adalah pusat spiritual, juga tempat berbagi makanan. Peng Tian-en memberi nama restoran "api" bukanlah pilihan romantisisme.
+> _Akame_ dalam bahasa Paiwan berarti "api", juga mengandung makna "titik awal". Api adalah salah satu kenangan bahasa suku tertua Paiwan: ia memasak makanan, juga menghubungkan manusia dengan leluhur. Di rumah adat tradisional Paiwan, dapur api (_adju_) adalah pusat spiritual, sekaligus tempat berbagi makanan. Peng Tien-en menamai restorannya "Api" bukan pilihan romantis.
 
 ---
 
-## Padi-padian Kecil: Bukan Hanya Makanan Pokok, Tapi Pandangan Alam Semesta
+## Jagung Sorgum: Bukan Hanya Makanan Pokok, Melainkan Suatu Kosmologi
 
-Dalam konteks masyarakat adat Taiwan, status padi-padian kecil (glutinosa) hampir tidak ada makanan pokok Han yang dapat dibandingkan. Beras adalah dimakan, padi-padian kecil adalah "hidup".
+Dalam konteks masyarakat adat Taiwan, kedudukan jagung sorgum (粟) hampir tidak memiliki padanan di antara makanan pokok orang Han. Beras dimakan, jagung sorgum "hidup".
 
-Paiwan menyebut padi-padian kecil sebagai djulis, memandangnya sebagai benih dengan jiwa. Setiap siklus hidup padi-padian kecil dalam setahun, dari menanam, mencabut rumput, memanen hingga menyimpan di gudang, semuanya memiliki ritual dan tabu yang sesuai. Setelah dipanen, padi-padian kecil tidak bisa disentuh sembarangan, perlu dibuka setelah ritual tertentu. Amis menyebut padi-padian kecil sebagai hafay. Bunun mengembangkan kalender festival yang kompleks di sekitar padi-padian kecil, termasuk "Lagu Doa Panen Padi-padian Kecil" (pasibutbut) yang direkam oleh UNESCO sebagai contoh musik polifoni dunia.
+Suku Paiwan menyebut jagung sorgum _djulis_, memandangnya sebagai benih berjiwa. Setiap tahun siklus hidup jagung sorgum, dari menabur, mencabut rumput, memanen hingga memasukkan lumbung, semuanya memiliki ritual dan pantangan masing-masing. Jagung sorgum hasil panen tidak boleh disentuh sembarangan, harus menunggu ritual tertentu baru dibuka dan dimakan. Suku Amis menyebut jagung sorgum _hafay_. Suku Bunun mengembangkan kalender festival rumit di sekitar jagung sorgum, di antaranya "Nyanyian Doa Panen Jagung Sorgum" (_pasibutbut_) dicatat UNESCO sebagai kasus representatif musik polifoni dunia.
 
-Linguist dan arkeolog telah mengkonfirmasi bahwa Taiwan adalah tempat asal seluruh keluarga bahasa Austronesia. Dari Taiwan, para navigator dalam beberapa ribu tahun menyebarkan diri hingga Madagaskar, Hawaii, Selandia Baru, Filipina, tersebar di Samudera Pasifik dan Samudra Hindia. Budaya kuliner kelompok-kelompok ini menemukan prototipe paling kuno di Taiwan.
+Ahli linguistik dan arkeologi mengonfirmasi, Taiwan adalah tempat asal seluruh keluarga bahasa Austronesia. Pelaut yang berangkat dari Taiwan, dalam beberapa ribu tahun menyebar ke Madagaskar, Hawaii, Selandia Baru, Filipina, melintasi Pasifik dan Samudra Hindia. Budaya kuliner kelompok-kelompok ini, prototip tertuanya bisa ditemukan di Taiwan.
 
-Kompetisi padi-padian kecil dengan beras dimulai pada abad ke-17 ketika imigran Han membawa beras. Beras menghasilkan lebih banyak, menyimpan lebih mudah, secara bertahap menggantikan padi-padian kecil dengan dukungan kebijakan resmi. Kebijakan pertanian kolektif pada masa pendudukan Jepang (1895-1945) mempercepat proses ini. Kebijakan perataan setelah perang mendorong lebih jauh. Pada 1970-an, banyak komunitas hampir berhenti menanam padi-padian kecil; hari ini, sebagian besar padi-padian kecil asli yang dapat dibeli di pasaran adalah hasil pemulihan selama dua puluh tahun terakhir.
-
----
-
-## Sayuran Liar Amis: Lebih dari Dua Ratus Spesies Pengetahuan Ekologi
-
-Taiwan adalah kelompok masyarakat adat terbesar, Amis (total penduduk sekitar 236.939 orang), memiliki lebih dari 200 spesies sayuran liar yang dapat diidentifikasi, diberi nama, dan dimakan, banyak di antaranya tidak memiliki nama yang sesuai dalam budaya kuliner Han.
-
-Ini bukan "makan sembarangan", tetapi sistem pengetahuan ekologi yang presisi. Setiap sayuran liar memiliki musim, lokasi pengumpulan, metode persiapan, dan tabu lisan yang ketat: bulan apa tidak boleh dipanen, bagian mana yang harus dimasak terlebih dahulu untuk menghilangkan asam oksalat, kombinasi apa yang membuat rasa menjadi sepat. Pengetahuan ini tidak ditulis di buku, tinggal di memori orang tua.
-
-> **Daftar Parsial Sayuran Liar Amis**
-> Mata lelaki hujan (raindrop): dingin, muncul hanya setelah hujan, teksturnya di antara aspic dan bulu babi laut
-> Paku sarang burung (lonot): digoreng, tingkatan pengumpulan, hati muda dan daun matang punya kegunaan berbeda
-> Tumbuhan abad Showa (rumput pesawat): pahit dengan manisan, sayuran harian paling akrab bagi perempuan komunitas
-> Tumbuhan menembus alur (faro): tekstur lembut seperti mentega, disebut bayam gunung
-> Akar bunga liar: aroma khusus, sering digunakan untuk penyedap rasa
-
-"Mata lelaki" menjelaskan bagaimana masyarakat adat melihat kelangkaan makanan. Alga hitam transparan ini hanya muncul setelah hujan, jendela pengumpulan hanya beberapa jam, setelah dikeringkan volumenya menyusut dua puluh kali lipat. Orang Amis tidak mensakralkannya, juga tidak mengatakan itu berharga, hanya memberinya nama yang membuat orang mengingat hari hujan, kemudian memakannya dengan baik.
+Persaingan jagung sorgum dengan beras dimulai saat imigran Han membawa beras abad ke-17. Beras hasil panen lebih tinggi, penyimpanan lebih mudah, di bawah dorongan kebijakan resmi bertahap menggantikan jagung sorgum. Masa pendudukan Jepang (1895-1945) dengan kebijakan pertanian kolektif mempercepat proses ini. Kebijakan daratan rendah pasca-perang mendorong sekali lagi. Hingga 1970-an, banyak desa hampir meninggalkan penanaman jagung sorgum; jagung sorgum masyarakat adat yang tersedia di pasaran hari ini, mayoritas hasil revitalisasi dua puluh tahun terakhir.
 
 ---
 
-## Cinavu, Daging Panggang Batu, Terbang-ikan: Tiga Contoh Tipikal
+## Sayuran Liar Suku Amis: Lebih dari Dua Ratus Jenis Pengetahuan Ekologi
 
-Teknik memasak masyarakat adat Taiwan tidak banyak, tapi setiap satu presisi. Presisi berarti: korespondensi antara bahan makanan, alat, dan musim adalah hasil coba-coba selama beberapa ratus tahun, bukan kebetulan. Tiga contoh ini berasal dari bentang lahan dan kelompok yang berbeda, tapi memiliki satu kesamaan: tindakan memasak bukan hanya membuat makanan, tetapi pertunjukan pengetahuan yang lengkap.
+Suku masyarakat adat terbesar Taiwan, suku Amis (total populasi kira-kira 236.939 jiwa), memiliki lebih dari 200 jenis sayuran liar yang dikenali, dinamai, dan dikonsumsi, di antaranya banyak yang tidak memiliki nama padanan dalam budaya kuliner Han.
 
-Cinavu adalah makanan hari raya yang dibuat Paiwan dan Rukai untuk pernikahan dan festival. Daun kesam palsu membungkus daging babi dan padi-padian kecil yang diasinkan, dibungkus lagi dengan daun bulan, dikukus dalam keranjang bambu. Pada saat membuka, tiga aroma tumbuhan naik seperti gelombang. Membuat cinavu memerlukan kerja sama seluruh keluarga, teknik membungkus daun harus dipelajari dari orang tua, cara melipat daun sedikit berbeda menurut keluarga. Peneliti budaya mencatat bahwa bisa membungkus cinavu berarti belajar warisan makanan keluarga, adalah indikator budaya apakah sudah siap menanggung tanggung jawab dewasa.
+Ini bukan "makan sembarangan", melainkan sistem pengetahuan ekologi yang presisi. Setiap sayuran liar memiliki musim, lokasi pengambilan, metode pengolahan, serta pantangan lisan yang ketat: bulan mana tidak boleh memetik, bagian mana harus direbus sebentar untuk menghilangkan asam oksalat, padanan mana membuat rasa jadi sepat. Pengetahuan ini tidak tertulis di buku, tinggal di ingatan orang tua.
 
-Daging panggang batu adalah produk langsung kehidupan gunung Paiwan dan Rukai. Batu granit di Pegunungan Tengah panas secara merata, tidak retak, adalah pelat besi alami. Daging babi gunung dan rusa gunung berburu, dipanggang lambat di atas batu, disedapkan dengan daun semboja dan lada gunung, tidak perlu bumbu lain. Hubungan antara makanan, geologi, dan rempah-rempah adalah hasil percakapan dengan pegunungan ini selama beberapa generasi orang lokal.
+> **Daftar Bagian Sayuran Liar Suku Amis**
+> Jamur Hujan (Air Mata Kekasih): disegarkan, muncul setelah hujan, tekstur antara es krim dan uni
+> _Lonot_ (山蘇, Paku Sarang Burung): ditumis, memiliki tingkatan pengambilan, pucuk muda dan daun dewasa masing-masing punya kegunaan
+> Rumput Showa (Rumput Pesawat): pahit tapi manis, sayuran liar sehari-hari paling dikenal ibu-ibu desa
+> _Faro_ (過溝菜蕨): tekstur licin lembut, disebut bayam gunung
+> Akar Bunga Kecombrang Liar: memiliki aroma khas, sering dipakai sebagai bumbu
 
-Terbang-ikan milik Tao adalah filosofi laut yang lengkap. Lanyu setiap tahun dari Maret hingga Juni adalah musim terbang-ikan, hanya setelah festival mengundang ikan (Mavanuo) boleh berlayar, tidak bisa mengambil lebih banyak. Tao mengembangkan rangkaian lengkap metode menyimpan terbang-ikan kering dan asin, dan memiliki aturan makanan jenis kelamin untuk terbang-ikan ukuran berbeda: dimakan laki-laki, dimakan perempuan, dimakan orang tua, dimakan anak-anak, terbang-ikan dialokasikan menurut urutan sosial. Ahli ekologi menganalisis, aturan ini memiliki logika manajemen sumber daya ketat, di pulau kecil dengan sumber daya terbatas menjaga keseimbangan ekologi. Orang Tao tidak akan mendeskripsikan cara mereka dengan kata "berkelanjutan", mereka hanya melakukan apa yang nenek moyang katakan.
+"Air Mata Kekasih" menggambarkan bagaimana masyarakat adat memandang kelangkaan makanan. Alga hitam transparan ini hanya muncul setelah hujan, jendela pengambilan hanya beberapa jam, setelah dikeringkan volume menyusut dua puluh kali lipat. Orang Amis tidak menyakralkannya, juga tidak berkata ia mahal, hanya memberinya nama yang mengingatkan pada hari hujan, lalu menikmatinya dengan penuh rasa syukur.
 
 ---
 
-## Dua Jalan Kebangkitan: Dapur Komunitas dan Restoran Halus
+## Cinavu, Panggang Batu, Ikan Terbang: Tiga Contoh Tipikal
 
-Sejak 2014, Komisi Urusan Masyarakat Adat telah mempromosikan rencana upgrade industri komunitas; hingga 2022 telah mengakumulasi investasi lebih dari 4 miliar yuan, diperkirakan menciptakan nilai 20 miliar yuan, melibatkan ribuan kali kerja. Ini adalah angka administratif, di baliknya adalah peristiwa budaya yang lebih sulit dikuantifikasi: ingatan kuliner yang terputus puluhan tahun sedang mencoba menyambung kembali.
+Teknik memasak masyarakat adat Taiwan tidak banyak, tapi masing-masing presisi. Presisi berarti: hubungan korespondensi antara bahan, alat, dan musim, adalah hasil ratusan tahun uji coba, bukan kebetulan. Tiga contoh ini masing-masing berasal dari topografi dan suku berbeda, tapi memiliki satu kesamaan: tindakan memasak bukan sekadar masak, melainkan pertunjukan lengkap suatu sistem pengetahuan.
 
-Rekonstruksi ini memiliki dua jalur paralel. Jalan pertama dimulai dari dapur orang tua. Sekolah Sayuran Liar di Guangfu, Hualien memungkinkan perempuan Amis belajar teratur di ruang komunitas, bukan mengajar berkebun, adalah identifikasi. Dari lereng gunung mana panen paku jenis apa, musim mana panen tunas mana, pengetahuan ditransfer antara mulut orang tua dan buku catatan pemuda. Rencana dapur komunitas di Taitung memungkinkan resep tetua direkam organisasi, diajarkan di kelas. Ruang ini kadang proyek formal, kadang hanya seorang senior memutuskan setiap minggu mengajar memasak tradisional tetap.
+Cinavu (吉拿富) adalah makanan hari raya yang dibuat suku Paiwan dan Rukai saat pernikahan dan festival. Daging babi yang dikeringkan dan jagung sorgum dibungkus daun Physalis palsu, dilapisi lagi daun _getah_ (月桃葉), dikukus di keranjang bambu. Saat dibuka, tiga lapis aroma tanaman bergelombang keluar. Membuat Cinavu butuh kolaborasi seluruh keluarga, teknik bungkus daun harus dipelajari dari orang tua, cara melipat daun berbeda tipis antar keluarga. Peneliti budaya mencatat, bisa membuat Cinavu berarti telah mewarisi warisan kuliner keluarga, merupakan indikator budaya apakah seseorang siap menanggung tanggung jawab dewasa.
 
-Jalan kedua dimulai dari restoran halus. AKAME (Peng Tian-en) dan Sinasera 24 (Yáng Báiyáng) mewakili jalur penyempurnaan, memicu suara berbeda di dalam komunitas: ada yang merasa itu membuat makanan keluar dari konteks sosial asli, ada yang merasa itu cara paling efektif membuat pemuda suku bangga lagi terhadap kuliner. Perdebatan ini tidak punya jawaban standar, tapi dua jalur sama-sama melakukan satu hal: meninggalkan pengetahuan makanan yang hampir punah.
+Rincian daun apa yang dipakai Cinavu, nama di tiap suku dan desa, lihat 〈[Cinavu (奇拿富)](/food/奇拿富)〉.
+
+Panggang batu adalah hasil langsung kehidupan pegunungan suku Paiwan dan Rukai. Batuan gneis (片麻岩) Pegunungan Tengah memanaskan merata, tidak pecah, adalah plat besi alami. Daging babi hutan dan rusa hasil buruan dipanggang perlahan di atas batu, bawang gunung dan magau menambah rasa, tidak butuh bumbu lain. Hubungan antara makanan, geologi, dan rempah, adalah hasil dialog beberapa generasi penduduk setempat dengan rangkaian gunung ini.
+
+Ikan terbang suku Tao adalah filsafat laut yang lain. Setiap tahun Maret hingga Juni di Pulau Lan-yu adalah musim ikan terbang, baru setelah festival panggil ikan (_Mavanuo_) boleh melaut, tidak boleh mengambil berlebihan. Suku Tao mengembangkan seluruh metode pengawetan mengeringkan dan mengasinkan ikan terbang, serta memiliki aturan konsumsi berbasis gender dan usia untuk ikan terbang ukuran berbeda: yang dimakan pria, wanita, lansia, anak-anak, ikan terbang dialokasikan sesuai tatanan sosial. Ahli ekologi menganalisis, aturan ini memiliki logika pengelolaan sumber daya yang ketat, menjaga keseimbangan ekologi di pulau kecil dengan sumber daya terbatas. Orang Tao tidak akan memakai kata "berkelanjutan" menggambarkan praktik mereka, mereka hanya mengikuti apa yang dikatakan nenek moyang.
+
+---
+
+## Dua Jalur Revitalisasi: Dapur Desa dan Restoran Mewah
+
+Mulai 2014, Komisi Masyarakat Adat (原住民族委員會) mendorong program peningkatan industri desa, hingga 2022 telah menginvestasikan lebih dari 4 miliar NT$, diperkirakan menciptakan nilai produksi hampir 20 miliar NT$, melibatkan kesempatan kerja hampir 5.000 orang. Ini angka administrasi, di baliknya peristiwa budaya yang lebih sulit diukur: memori kuliner yang terputus puluhan tahun, sedang mencoba disambung kembali.
+
+Pembangunan ini memiliki dua jalur berjalan beriringan. Jalur pertama bermula dari dapur orang tua. Sekolah Sayuran Liar di Guangfu, Hualien, memungkinkan wanita Amis belajar berkala di lapangan desa, yang diajarkan bukan menanam, melainkan mengidentifikasi. Dari lereng bukit mana memetik paku jenis mana, musim mana memetik tunas muda mana, pengetahuan berpindah antara mulut orang tua dan catatan anak muda. Program dapur desa di Taitung memungkinkan resep tetua memiliki lembaga yang mencatat, ruang kelas yang mewariskan. Ruang-ruang ini kadang program formal, kadang hanya keputusan seorang tetua mengajar masak tradisional setiap minggu.
+
+Jalur kedua bermula dari restoran mewah. Jalur mewah yang diwakili AKAME (Peng Tien-en) dan Sinasera 24 (Yang Bo-wei), di dalam desa memicu suara berbeda: ada yang menganggap ia memisahkan makanan dari konteks komunitas asalnya, ada yang menganggap ia cara paling efektif agar anak muda bangga kembali dengan kuliner mereka. Debat ini tidak memiliki jawaban baku, tapi dua jalur sama-sama melakukan satu hal: menyimpan pengetahuan makanan yang terancam punah.
 
 > 📝 **Sayuran Liar Bukan Tanda Kemiskinan**
-> Masyarakat Taiwan lama menghubungkan konsumsi sayuran liar dengan kekurangan sumber daya, percaya orang adat makan sayuran liar karena tidak ada pilihan lebih baik. Pemahaman ini membalikkan kausalitas. Pengetahuan sayuran liar Amis adalah kebijaksanaan ekologi yang terakumulasi selama ribuan tahun secara aktif: musim apa, ketinggian berapa, kondisi tanah apa panen rasa terbaik; bagian mana dapat dimakan, mana beracun; bagaimana kombinasikan untuk melengkapi protein dan mineral. Ini adalah sistem pengetahuan lebih kompleks daripada pasar sayur, hanya disimpan di tubuh dan bahasa, bukan database.
+> Masyarakat Taiwan lama mengaitkan kuliner sayuran liar dengan kelangkaan material, menganggap masyarakat adat makan sayuran liar karena tidak punya pilihan lebih baik. Pemahaman ini membalik sebab-akibat. Pengetahuan sayuran liar suku Amis adalah kecerdasan ekologi yang dikumpulkan secara aktif ribuan tahun: musim mana, ketinggian mana, kondisi tanah mana pengambilan menghasilkan tekstur terbaik; bagian mana bisa dimakan, mana beracun; padanan apa yang melengkapi protein dan mineral. Ini sistem pengetahuan lebih kompleks dari pasar sayur, hanya disimpan di tubuh dan bahasa, bukan basis data.
 
 ---
 
-## Kesimpulan: Masalah Kecepatan
+## Penutur: Masalah Kecepatan
 
-Peng Tian-en pernah berkata, hal tersulit tentang AKAME bukan teknik, tetapi meyakinkan orang tua komunitas mengeluarkan apa yang ada di kepala mereka. Orang tua itu tidak merasa memiliki pengetahuan yang patut direkam, itu hanya "cara kami makan".
+Peng Tien-en pernah berkata, hal tersulit AKAME bukan teknik, melainkan meyakinkan tetua desa mengeluarkan isi kepala mereka. Orang-orang tua itu tidak merasa memiliki pengetahuan yang layak dicatat, itu hanya "cara kami makan".
 
-Ini adalah situasi paling nyata dari kuliner masyarakat adat Taiwan: resep paling bagus tidak pernah ditulis, tinggal di tubuh orang, tinggal di persepsi musiman, tinggal di akrab dengan hutan gunung ini selama puluhan tahun. Suatu hari orang itu pergi, resep juga pergi.
+Inilah kenyataan paling asli kuliner masyarakat adat Taiwan: resep paling hebat tidak pernah ditulis, ia tinggal di tubuh manusia, tinggal di persepsi musim, tinggal di kekenalannya puluhan tahun dengan hutan ini. Suatu hari orang itu pergi, resep pun pergi.
 
-AKAME masuk daftar Asia's 50 Best Restaurants peringkat 39 tahun 2023, adalah sinyal, bilang resep itu patut dikembalikan. Media senang membingkai ini sebagai "pengakuan internasional", tapi pertanyaan lebih inti bukan di internasional: setiap tetua komunitas masih hidup, berapa banyak pengetahuan kuliner yang dibawa pergi oleh setiap tetua? Angka itu adalah hitung mundur sejati. Pertanyaan yang tinggal, adalah kecepatan.
-
----
+AKAME masuk "Asia's 50 Best Restaurants" peringkat 39 tahun 2023, adalah sebuah sinyal, menunjukkan resep-resep itu layak dicari kembali. Media suka membingkai hal ini dengan "pengakuan internasional", tapi masalah inti bukan di internasional: selama tetua desa masih ada, pengetahuan makanan yang dibawa tiap tetua berapa banyak? Angka itulah mundur hitung yang sesungguhnya. Sisa soalnya, adalah kecepatan.
 
 ## Sumber Gambar
 
-- Gambar utama: Penari masyarakat adat di Festival Musik Amis 2016, fotografi oleh HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0.
+- Hero: Penari Masyarakat Adat Suku Amis di Festival Musik 2016, foto HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0。
 
 ## Referensi
 
 1. [Daftar Resmi Asia's 50 Best Restaurants](https://www.theworlds50best.com/asia/en/)
-2. [Agriharvest (2021) Ingatan Keluarga yang Berlalu - Resep Pribadi Padi-padian Kecil Paiwan Vuvu](https://www.agriharvest.tw/archives/60175)
-3. [Komisi Urusan Masyarakat Adat: Pengenalan 16 Kelompok Suku](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
-4. [Proyek Digitalisasi Perlindungan Pengetahuan Tradisional Masyarakat Adat (Museum Sejarah Alam)](https://ethnobotany.biodiv.tw/)
+2. [Agri Media (2021)《流傳著家族的記憶 排灣族 vuvu 小米私房料理》](https://www.agriharvest.tw/archives/60175)
+3. [Komisi Masyarakat Adat Yuan: Profil 16 Suku](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
+4. [Proyek Arsip Digital Perlindungan Pengetahuan Tradisional Masyarakat Adat (Museum Sains Alam)](https://ethnobotany.biodiv.tw/)
 5. [Undang-Undang Pengembangan Bahasa Masyarakat Adat Taiwan (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
-6. [Taiwan Review: Kebangkitan Kuliner Asli](https://taiwanreview.nat.gov.tw/)
-7. [Catatan Musik Polifoni Pasibutbut Bunun UNESCO](https://ich.unesco.org/)
+6. [Taiwan Review: Revitalisasi Kuliner Masyarakat Adat](https://taiwanreview.nat.gov.tw/)
+7. [Catatan UNESCO Polifoni Pasibutbut Suku Bunun](https://ich.unesco.org/)
 
 ---
 
-_Bacaan Lanjutan: [Sejarah dan Gerakan Penamaan Kembali Masyarakat Adat Taiwan](/id/history/indigenous-peoples-history-and-naming-movement/) · [Keadilan Tanah Adat Taiwan dan Wilayah Tradisional](/id/society/indigenous-land-justice-and-traditional-territories/) · [Peta Budaya 16 Suku Masyarakat Adat Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map/) · [Gerakan Pemulihan Bahasa Masyarakat Adat Taiwan](/id/culture/indigenous-language-revitalization-movement/) · Kebijaksanaan Ekologi Masyarakat Adat Taiwan dan Konservasi Lingkungan (台灣原住民生態智慧與環境保育) · Seni Kontemporer Masyarakat Adat Taiwan (台灣原住民當代藝術)_
+_Bacaan Lanjutan: [Sejarah dan Gerakan Normalisasi Nama Masyarakat Adat Taiwan](/id/history/indigenous-peoples-history-and-naming-movement/) · [Keadilan Tanah dan Wilayah Tradisional Masyarakat Adat Taiwan](/id/society/indigenous-land-justice-and-traditional-territories/) · [Peta Budaya 16 Suku Masyarakat Adat Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map/) · [Gerakan Revitalisasi Bahasa Masyarakat Adat Taiwan](/id/culture/indigenous-language-revitalization-movement/) · [Kecerdasan Ekologi dan Konservasi Lingkungan Masyarakat Adat Taiwan](/id/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Seni Kontemporer Masyarakat Adat Taiwan](/id/art/contemporary-indigenous-art-taiwan/)_

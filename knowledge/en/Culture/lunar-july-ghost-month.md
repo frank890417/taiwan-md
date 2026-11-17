@@ -2,9 +2,7 @@
 title: "Lunar July: From Collective Dread of 'The Gates of Hell Opening' to the Gentle Reconciliation of an Island"
 description: "In the midsummer of 2026, long tables are still set up on Taiwan streets. From the firelight in Wanghai Lane to the sweat on the lonely scaffold, from the 'Tiger Gate Opening' at Xinzhu City God Temple to the might of Minxiong Fire Cremation Shrine—Lunar July is more than a matter of taboo; it is a narrative of coexistence, memory, and an island crossing the boundary between Yin and Yang."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Lunar July',
@@ -15,15 +13,20 @@ tags:
     'Minxiong Fire Cremation Shrine',
     'Xinzhu City God Temple',
   ]
-readingTime: 25
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 25
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-05T09:52:23.205181+00:00'
 ---
 
 > **30-Second Overview:** Lunar July, the "Ghost Month" in Taiwanese vernacular, is not merely a fear of spirits; it is a centuries-old "practice of coexistence." From the 'Tiger Gate' opened late at night at Xinzhu City God Temple to the "Ghost Scramble" (搶孤) competition in Toucheng before the gates close—Taiwan transforms this belief into deeply localized culture. This article will take you through the firelight of Wanghai Lane, the sweat on the lonely scaffold, and the dietary and dress taboos etched into our DNA. We will uncover what might be a "political marketing" campaign originating from the Ming Dynasty royalty, and understand how this island achieves social reconciliation across time through the gentle wisdom of "hospitality with intention, yet without expectation."

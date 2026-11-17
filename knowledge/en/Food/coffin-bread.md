@@ -1,77 +1,79 @@
 ---
-title: "Coffin Bread: From an Inauspicious Name to Tainan's Japanese-Western Hybrid Delicacy"
-description: 'In the late 1940s, a snack called "chicken liver toast" appeared in Tainan''s Shakariba. Because of its distinctive shape, it was jokingly called "coffin bread." Invented by Hsu Liu-yi, the dish wraps chicken liver and cream batter in deep-fried toast. It was not only a nutritional supplement amid postwar material scarcity, but also later featured by CNN, becoming an international calling card for Tainan''s Japanese-Western hybrid food culture.'
+title: 'Coffin Bread: From an Ominous Name to a Tainan East-West Fusion Delicacy'
+description: 'In the late 1940s, a snack called "Chicken Liver Board" appeared in Tainan''s Sakariba, jokingly dubbed "Coffin Bread" for its unique shape. Invented by Mr. Hsu Liu-i, this dish wraps chicken liver and cream batter in crispy fried toast — not only a nutritional supplement during postwar scarcity but also featured by CNN, becoming an international calling card for Tainan''s "East-West fusion" food culture.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tainan snacks',
-    'coffin bread',
-    'Hsu Liu-yi',
-    'Shakariba',
-    'chicken liver toast',
+    'Coffin Bread',
+    'Hsu Liu-i',
+    'Sakariba',
+    'Chicken Liver Board',
     'CNN report',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/棺材板.md'
-sourceCommitSha: 'b7f6ebf9b'
-sourceContentHash: 'sha256:2019e39a8477f086'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:c1a6f8a2f2e30ae7'
 sourceBodyHash: 'sha256:d70608d1aa149287'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T12:30:11+08:00'
 ---
 
-> **30-second overview:** In the late 1940s, Hsu Liu-yi of Tainan's Shakariba renamed his original "chicken liver toast" after a professor joked that its shape resembled a stone coffin. This dish, seemingly inauspicious yet full of invention, wraps a rich filling in crisp deep-fried toast. It is not only a miniature portrait of postwar Taiwan's Japanese-Western hybrid food culture, but has also been covered by international media including CNN. From its original chicken-liver filling to today's seafood white sauce, it has risen from a local snack to one of Tainan's most representative international culinary calling cards.
+> **30-second overview:** In the late 1940s, Mr. Hsu Liu-i of Tainan's Sakariba saw his original "Chicken Liver Board" jokingly renamed "Coffin Bread" by a professor because its shape resembled a stone coffin. This seemingly inauspicious yet creative dish, with crispy fried toast enveloping a rich filling, is not only a microcosm of Taiwan's postwar "East-West fusion" food culture but has also garnered international media coverage from outlets like CNN. From its original chicken liver filling to today's seafood white sauce, it has risen from a local snack to Tainan's most representative international culinary calling card.
 
-In the late 1940s, as Taiwan was slowly recovering from postwar material scarcity, a novel snack quietly emerged in Tainan's bustling "Shakariba" (today's Kangle Market) [^1]. It used a thick slice of deep-fried toast as its vessel and was filled generously, yet became widely known because of its bold name: "coffin bread." This Tainan snack, whose name sounds unlucky but whose taste is enticing, in fact carries the distinctive evolution of Taiwan's postwar food culture, as well as one chef's creativity and persistence.
+In the late 1940s, Taiwan was slowly recovering from postwar material shortages. In Tainan's bustling "Sakariba" (today's Kangle Market), a novel snack quietly came into being [^1]. Using thick-sliced toast fried to a crisp as its vessel, generously filled, it became widely known by its bold name — "Coffin Bread." This seemingly ominous yet mouthwatering Tainan snack in fact carries the unique evolution of Taiwan's postwar food culture, and the creativity and persistence of one chef.
 
-### The Birth of Chicken Liver Toast and the Name "Coffin"
+### The Birth of Chicken Liver Board and the "Coffin" Name
 
-The inventor of "coffin bread" was Hsu Liu-yi, founder of Chikan Eatery (originally called "Chikan Snack Shop" or "Shengchang Old Chikan") [^2]. As early as around 1935, he had opened a snack stall in Shakariba (Shengchang). During the Japanese colonial period, he was conscripted to serve as a military laborer in Southeast Asia, where he learned techniques from Japanese cuisine and Western cooking [^3]. After Taiwan's postwar transfer, Hsu Liu-yi returned to Tainan, incorporated Western culinary techniques into local Taiwanese ingredients, and created the original "chicken liver toast." He also promoted "Lunch" (Western-style fast food), with both becoming representative examples of postwar hybrid cuisine at the time.
+The inventor of "Coffin Bread" was Mr. Hsu Liu-i, founder of Chihkan Restaurant (originally "Chihkan Dim Sum Shop" or "Shengchang Old Chihkan") [^2]. As early as around 1935, he had opened a dim sum stall in Sakariba (Shengchang). During the Japanese colonial period, he was conscripted as a military laborer to the South Seas (Nanyang), where he acquired Japanese and Western culinary techniques [^3]. After the Retrocession, Hsu returned to Tainan, fusing Western cooking techniques with local Taiwanese ingredients to create the original "Chicken Liver Board," while also promoting "Lunch" (Western-style fast meals) — both representative of the era's postwar fusion cuisine.
 
-As for the origin of the name, the most widely circulated version says that in the late 1950s (around 1959), a professor from a National Taiwan University archaeological team (some accounts say a National Cheng Kung University professor, or a professor friend of Hsu's) came to the shop to try it. Seeing the shape of the toast after its lid had been opened, he thought it closely resembled an excavated stone coffin and casually joked: "This chicken liver toast looks just like the stone coffins we excavate!" [^1] [^5]. After Hsu Liu-yi heard this, he felt the name was both distinctive and easy to remember, so he officially renamed the dish "coffin bread." The shop sign soon followed, and the dish became an immediate hit [^2].
+As for the naming origin, the most widely circulated version holds that in the late 1950s (circa 1959), a professor from a National Taiwan University archaeological team (some say a National Cheng Kung University professor or a professor friend of Hsu's) visited the shop to sample the dish. Seeing the shape of the opened toast lid, which resembled an excavated stone coffin, he jokingly remarked: "This Chicken Liver Board looks just like the stone coffins we excavate!" [^1] [^5]. Upon hearing this, Mr. Hsu Liu-i felt the name was both distinctive and memorable, and formally renamed it "Coffin Bread," putting up a new sign — and it took off from there [^2].
 
-📝 Curator's note: A seemingly unlucky name became broadly popular because of its distinctiveness. This may reflect the resilience with which Taiwanese people have often transformed life's challenges through humor and creativity.
+📝 Curator's note: A seemingly inauspicious name that won widespread popularity precisely because of its distinctiveness — perhaps reflecting the resilience of Taiwanese people in transforming life's challenges with humor and creativity.
 
-### From Chicken Liver to Seafood: The Evolution of the Filling and International Exposure
+### From Chicken Liver to Seafood: Filling Evolution and International Exposure
 
-The earliest coffin bread used chicken liver as its main filling, paired with sausage, cream batter, peas, and carrots. Under conditions of material scarcity, it was an exceptionally valuable nutritional supplement [^4]. In the early days, cuttlefish was also added to the filling to create more layers of flavor. As times changed, however, and in order to suit popular tastes, the filling gradually evolved into the seafood-and-chicken white-sauce version commonly seen today.
+The original Coffin Bread used chicken liver as the main filling, paired with Chinese sausage, cream batter, peas, and carrots — a precious nutritional supplement in an era of scarcity [^4]. Early on, cuttlefish was also added for texture. However, as times changed, to suit popular taste the filling gradually evolved into the now-common seafood and chicken white sauce version.
 
-This distinctive Taiwanese flavor also attracted international attention. CNN once produced a feature on the snack under the name "Coffin Bread," making it an internationally recognized symbol of Tainan cuisine [^6]. Yet with the rise of tourism, some seasoned food lovers have lamented that modern fillings tend to be thinner and lighter in texture, no longer as thick and substantial as in earlier days, describing this as the challenge of "form outweighing soul."
+This unique Taiwanese flavor also attracted international attention; CNN ran a feature on the snack under the name "Coffin Bread," making it an internationally recognized Tainan culinary landmark [^6]. Yet with touristification, some connoisseurs lament that modern fillings have become diluted and lighter in flavor, lacking the rich, substantial texture of the early days — a challenge of "form over substance."
 
-### The Proper Way to Eat It and Tips for Home DIY
+### Proper Eating Method and Home DIY Tips
 
-The proper way to eat coffin bread at Chikan Eatery is quite particular: first use a knife and fork to cut open the crisp toast lid, then spoon the rich white sauce onto the toast and eat them together, allowing the crisp exterior and smooth filling to form a strong contrast in the mouth [^3]. At present, one serving of coffin bread costs around NT$70.
+The proper way to eat at the original Chihkan Restaurant is quite particular: one must first use knife and fork to cut open the crispy toast lid, then pour the rich white sauce over the toast and enjoy together, letting the crisp crust and silky filling create a strong contrast in the mouth [^3]. Currently, a portion of Coffin Bread costs around NT$70.
 
-For those who want to try making it at home, prepare thick-sliced toast (milk bread is recommended) and deep-fry it to a golden color at a precise oil temperature. For a simplified home version, the toast can be baked in an oven or pan-fried to reduce the amount of oil. For the filling, sauté onion, chicken, seafood, and vegetables in butter, then add milk and thicken lightly with cornstarch. It is especially comforting in winter, though its calorie content is relatively high, so it is best enjoyed in moderation.
+For those wanting to try at home, prepare thick-sliced toast (milk toast recommended) and fry at precise oil temperature until golden. A simpler home version can use an oven or pan-fry the toast to reduce oil; for the filling, sauté onion, chicken, seafood, and vegetables in butter, then add milk and cornstarch to thicken into a light sauce. Especially comforting in winter, but note the higher calorie count — best enjoyed in moderation.
 
-### Inheritance and Cultural Memory: Recommended Shops
+### Heritage and Cultural Memory: Recommended Shops
 
-Chikan Eatery has now been passed down to its third generation and has consistently maintained its reputation as the "No. 1 Toast Under Heaven" [^2] [^8]. In addition to the place of origin at Kangle Market, Tainan has several other long-running shops worth trying:
+Chihkan Restaurant has now passed to its third generation, maintaining its reputation as "The World's Number One Board" [^2] [^8]. Beyond its birthplace at Kangle Market, Tainan has several other noteworthy long-established shops:
 
-- **Wangcheng Coffin Bread**: Located on Anping Old Street, it offers a miniature version of coffin bread, suitable for travelers who want to sample several kinds of snacks.
-- **Stalls around Chihkan Tower**: These offer more affordable and localized options, serving as everyday snacks for many Tainan residents.
+- **Wangcheng Coffin Bread**: Located on Anping Old Street, offers mini-sized Coffin Bread, suitable for travelers wanting to sample multiple snacks.
+- **Stalls around Chihkan Tower**: Provide more affordable, localized options, a daily snack for many Tainan residents.
 
-This snack has evolved from the invention of a single shop into a collective memory of Tainan's food culture, representing Tainan people's passion and creativity toward cuisine.
+This snack has evolved from a single shop's invention into a collective memory of Tainan food culture, representing Tainan people's passion and creativity for cuisine.
 
 ### References
 
-[^1]: Taiwan Cultural Memory Bank. (n.d.). Coffin Bread. Retrieved from [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048)
+[^1]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048) — National Cultural Memory Bank. (n.d.). Coffin Bread. Retrieved from
 
-[^2]: Agriharvest. (December 8, 2022). [Eating the Market] Chikan Eatery: The Shop That Invented Coffin Bread, Fashionably Mixing Japanese and Western Food for Eighty Years. Retrieved from [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/)
+[^2]: AgriHarvest. (December 8, 2022). [Eat the Market] Chihkan Restaurant — Birthplace of Coffin Bread, Eighty Years of Trendy East-West Fusion Cuisine. Retrieved from [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/)
 
-[^3]: Overseas Community Affairs Council. (January 4, 2026). Tenafly Chinese School TCML Spring Semester Opens with an Analysis of the Name "Coffin Bread" and a Discussion of Taiwan's Food History. Retrieved from [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652)
+[^3]: [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652) — Overseas Community Affairs Council. (January 4, 2026). Tenbai Chinese School TCML Spring Semester Opens: Analyzing the Name "Coffin Bread" to Discuss Taiwan's Food History. Retrieved from
 
-[^4]: Kindom Living. (December 6, 2021). [Cooking] Homemade Snack Coffin Bread, Golden and Crisp. Retrieved from [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754)
+[^4]: Kindom Living. (December 6, 2021). [Cooking] Homemade Snack: Golden Crispy Coffin Bread. Retrieved from [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754)
 
-[^5]: Taiwan Rotary Publishing. (n.d.). Strange Tales of Gluttony: Tainan's Signature Snack, Coffin Bread. Retrieved from [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225)
+[^5]: [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225) — Taiwan Rotary Publishing. (n.d.). Gourmet Tales: Tainan's Signature Snack — Coffin Bread. Retrieved from
 
-[^6]: Lai Hao. (April 23, 2026). From Postwar Hybrid Cuisine to a Classic Tainan Snack: Coffin Bread's Filling Holds 80 Years of Taiwan Food History. Retrieved from [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread)
+[^6]: [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread) — Laihao. (April 23, 2026). From Postwar Fusion Cuisine to Tainan Classic Snack: 80 Years of Taiwan Food History Hidden in Coffin Bread Filling. Retrieved from
 
-[^7]: Instagram, Hao Yu. (December 24, 2025). Chicken liver was used as a nutritious ingredient to strengthen the body, forming the prototype of this dish. Retrieved from [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/)
+[^7]: [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/) — Instagram Haoyu. (December 24, 2025). Using chicken liver as a stamina-boosting nutritional ingredient gave birth to this dish's prototype. Retrieved from
 
-[^8]: YouTube, Taiwan 1001 Stories. (July 27, 2016). Old-Fashioned Coffin Bread That Gets You Hooked: A 76-Year-Old Shop and Returning Tainan Children Relive the Flavor, Episode 178 part 5 [Taiwan 1001 Stories]. Retrieved from [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA)
+[^8]: YouTube Taiwan 1001 Stories. (July 27, 2016). Old-Flavor Coffin Bread Addictive at First Bite: 76-Year-Old Shop, Returnees' Nostalgia, Episode 178 Part 5 [Taiwan 1001 Stories]. Retrieved from [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA)

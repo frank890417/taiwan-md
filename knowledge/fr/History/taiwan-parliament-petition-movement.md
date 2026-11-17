@@ -3,7 +3,6 @@ title: "Le mouvement de pétition pour l'établissement d'une assemblée taïwan
 description: "De 1921 à 1934, Lin Hsien-tang et d'autres ont soumis quinze pétitions au gouvernement colonial du gouverneur général. Si le mouvement n'a pas abouti à la création d'une assemblée taïwanaise, il a transformé le droit, la presse et les organisations en techniques publiques pour la revendication de l'autonomie."
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Histoire',
@@ -15,16 +14,19 @@ tags:
     'Taïwan Minbao (Journal de Taïwan)',
     'Autonomie locale',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-11T12:15:07+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T16:01:28.758287+00:00'
 ---
 
 Le 30 janvier 1921, Lin Hsien-tang, Ye Rongzhong et 178 étudiants taïwanais résidant à Tokyo ont soumis la première pétition pour l'établissement d'une assemblée taïwanaise à la Diète impériale du Japon. [^1] Ce document fut par la suite soumis à quinze reprises ; le mouvement ne cessa qu'après la décision d'arrêt prise le 2 septembre 1934. [^2] S'il n'a pas permis l'instauration d'une assemblée taïwanaise, il a fait entrer la question de « qui peut représenter les Taïwanais » du salon des études et des dortoirs d'étudiants jusqu'au cœur institutionnel de l'Empire.
@@ -49,21 +51,21 @@ _Légende : La pétition pour l'établissement d'une assemblée taïwanaise. Wik
 
 > 📝 **Note du conservateur :** La chose la plus acérée du mouvement de pétition n'est pas qu'il oppose « le Japon » et « Taïwan » comme deux ennemis abstraits, mais qu'il utilise les principes constitutionnels proclamés par l'Empire pour les interroger rétroactivement. Si la loi n'est valable que sur le territoire métropolitain, qui exactement l'Empire a-t-il « unifié » ?
 
-## Un document qui passe d'abord par les mains des députés
+## Un document, d'abord passé par les mains d'un parlementaire
 
-La première pétition du 30 janvier 1921 ne se limitait pas à remettre le document à la porte de la Diète. Conformément à l'article 62 du « Règlement de la Diète » en vigueur à l'époque, une pétition nécessitait la présentation par un député de la Diète impériale. Après l'introduction du pasteur Uemura Masahisa, le député de la Chambre des pairs, Ezo Etsu, et le député de la Chambre des représentants, Daikichirō Tagawa, acceptèrent d'être les députés présentateurs, permettant à la pétition d'entrer dans la procédure d'examen. [^1]
+La première pétition du 30 janvier 1921 ne consistait pas simplement à déposer un document à l'entrée de la Diète. Conformément à l'article 62 de la Loi sur la Diète en vigueur à l'époque, une pétition nécessitait l'introduction par un parlementaire de la Diète impériale. Sur présentation du pasteur Uemura Masahisa, le membre de la Chambre des pairs Ezamoto Suroku et le membre de la Chambre des représentants Tagawa Daijirō acceptèrent d'agir comme parlementaires introducteurs, permettant ainsi à la pétition d'entrer en procédure d'examen.[^1]
 
-Ce détail fait du mouvement de pétition autre chose qu'une abstraction de « frapper à la porte de Tokyo ». C'est un travail politique qui exigeait de trouver des intermédiaires, de préparer des textes juridiques, d'obtenir des signatures et d'attendre le traitement par les procédures de la Diète. La première pétition comptait 178 signataires. À chaque pétition suivante, les participants devaient, entre la répression de la police coloniale, le système de censure et la réponse froide de la Diète impériale, redécouvrir des voies possibles. [^1] [^2]
+Ce détail fait sortir le mouvement de pétition de l'abstraction d'un « appel à Tokyo ». C'est un travail politique qui exige de trouver des intermédiaires, de préparer des textes juridiques, de recueillir des signatures, puis d'attendre le traitement par la procédure parlementaire. La première pétition rassemblait 178 signataires. Pour chacune des suivantes, les participants durent, entre la police coloniale, le système de censure et les réponses froides de la Diète impériale, rechercher à nouveau des voies praticables.[^1] [^2]
 
-En mars 1921, la Diète impériale du Japon adopta la Loi n° 3, préservant le pouvoir législatif délégué du gouverneur général de Taïwan. La ligne visant initialement l'abrogation de la « Loi de six articles » perdit ainsi son point d'appui ; l'établissement d'une assemblée taïwanaise devint plus concentrée comme objectif du mouvement politique taïwanais. [^2]
+En mars 1921, la Diète impériale adopta la Loi n° 3, maintenant le pouvoir législatif délégué du gouverneur-général de Taïwan. La voie réclamant l'abrogation de l'article 63 perdit ainsi son point d'appui, et l'établissement d'un parlement taïwanais devint l'objectif central du mouvement politique taïwanais.[^2]
 
-| Date             | Jalon du mouvement de pétition                                                                           | Signification politique                                                                                        |
-| ---------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Décembre 1920    | Lin Xianlu publie _Le point d'aboutissement de la question des six articles_ dans le _Taïwan Qingnian_   | Déplacement de la controverse sur l'abrogation de la « Loi de six articles » vers une assemblée représentative |
-| 30 janvier 1921  | 178 personnes soumettent la première pétition                                                            | La pétition obtient une entrée dans la procédure de la Diète impériale                                         |
-| 17 octobre 1921  | Création de l'Association culturelle de Taïwan                                                           | Intégration des exigences politiques dans les réseaux culturels, éducatifs et de conférences                   |
-| 16 décembre 1923 | Grande perquisition à l'échelle de l'île lors de l'« Incident de la police sur les affaires politiques » | Répression directe de la police coloniale contre les associations politiques                                   |
-| 2 septembre 1934 | Décision d'arrêt après la quinzième pétition                                                             | Le mouvement de pétition de quatorze ans atteint une pause                                                     |
+| Temps            | Jalons du mouvement de pétition                                                                          | Signification politique                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Décembre 1920    | Lin Cheng-lu publie « Le point d'aboutissement de la question de l'article 63 » dans _Taiwan Youth_      | Transforme la controverse sur l'abrogation de l'article 63 vers un parlement représentatif    |
+| 30 janvier 1921  | 178 personnes déposent la première pétition                                                              | La pétition obtient une entrée procédurale à la Diète impériale                               |
+| 17 octobre 1921  | Fondation de l'Association culturelle de Taïwan                                                          | Intègre les revendications politiques dans les réseaux culturels, éducatifs et de conférences |
+| 16 décembre 1923 | Grande perquisition à l'échelle de l'île lors de l'« Incident de la police sur les affaires politiques » | La police coloniale réprime directement les associations politiques                           |
+| 2 septembre 1934 | Décision d'arrêter après la quinzième pétition                                                           | Quatorze ans de mouvement de pétition prennent fin                                            |
 
 ## Quinze pétitions ne sont pas quinze soumissions identiques
 
@@ -155,30 +157,30 @@ Aujourd'hui, en lisant ce document, ce qui mérite le plus de s'arrêter n'est p
 
 ## Références
 
-[^1]: [Musée commémoratif du mouvement nouveau de la culture de Taipei : La première pétition pour l'établissement d'une assemblée taïwanaise le 30 janvier 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Enregistre la date de la première pétition, les 178 signatures, la procédure de présentation par les députés et la position d'opposition du bureau du gouverneur général à l'établissement d'une assemblée taïwanaise.
+[^1]: [Musée commémoratif du Mouvement de la nouvelle culture taïwanaise de la ville de Taipei : Première pétition pour l'établissement d'un parlement taïwanais du 30 janvier 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Enregistre la date de la première pétition, les 178 signataires, la procédure de présentation par les parlementaires et la position d'opposition du Gouvernement général à l'établissement d'un parlement taïwanais.
 
-[^2]: [Parc national de la démocratie et de la délibération législative : Mouvement de pétition pour l'établissement d'une assemblée taïwanaise 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Synthétise le contexte institutionnel de _Le point d'aboutissement de la question des six articles_ de Lin Xianlu, les quinze pétitions, la scission de l'Association culturelle, la dissolution du Parti populaire de Taïwan et l'arrêt du mouvement.
+[^2]: [Parc de la politique démocratique du Yuan législatif : Mouvement de pétition pour l'établissement d'un parlement taïwanais 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Compile le « Point d'aboutissement du problème 6-3 » de Lin Cheng-lu, les quinze pétitions, la scission de l'Association culturelle, la dissolution du Parti populaire taïwanais et le contexte institutionnel de l'arrêt du mouvement.
 
-[^3]: [Musée commémoratif du mouvement nouveau de la culture de Taipei : Arrêt du mouvement de pétition pour l'établissement d'une assemblée taïwanaise le 2 septembre 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Enregistre la décision d'arrêt après la quinzième pétition, la réunion de Taichung, la rencontre avec le gouverneur et le processus de fin du mouvement de quatorze ans.
+[^3]: [Musée commémoratif du Mouvement de la nouvelle culture taïwanaise de la ville de Taipei : Arrêt du mouvement de pétition pour l'établissement d'un parlement taïwanais le 2 septembre 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Enregistre la résolution d'arrêt après la quinzième pétition, la conférence de Taichung, l'audience du Gouverneur général et le processus de fin du mouvement de quatorze ans.
 
-[^4]: [Musée commémoratif du mouvement nouveau de la culture de Taipei : Création de l'Association culturelle de Taïwan le 17 octobre 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Recense le lieu de création de l'Association culturelle, l'ampleur de la participation, la vocation, ainsi que les activités d'éveil telles que les clubs de lecture, les conférences, les photographies d'activités et les écoles d'été.
+[^4]: [Musée commémoratif du Mouvement de la nouvelle culture taïwanaise de la ville de Taipei : Fondation de l'Association culturelle taïwanaise le 17 octobre 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Inclut le lieu de fondation de l'Association culturelle, l'ampleur de la participation, son objectif, ainsi que les activités d'éveil telles que les sociétés de lecture, les conférences, les photos d'activités et les écoles d'été.
 
-[^5]: [Musée commémoratif du mouvement nouveau de la culture de Taipei : Grande perquisition à l'échelle de l'île lors de l'« Incident de la police sur les affaires politiques » le 16 décembre 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explique le contexte politique de l'interdiction de l'Association pour la réalisation de l'assemblée taïwanaise, la grande perquisition du bureau du gouverneur général et la détention de près de trente personnes.
+[^5]: [Musée commémoratif du Mouvement de la nouvelle culture taïwanaise de la ville de Taipei : Grande arrestation à l'échelle de l'île lors de l'incident de la police de sécurité du 16 décembre 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explique le contexte politique de l'interdiction de la Ligue pour la réalisation d'un parlement taïwanais, de la grande arrestation à l'échelle de l'île par le Gouvernement général et de la détention d'une trentaine de personnes.
 
-[^6]: [Musée commémoratif du mouvement nouveau de la culture de Taipei : Fondation du _Taïwan Minbao_ le 15 avril 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Enregistre les données médiatiques sur la fondation du _Taïwan Minbao_, le système de censure, le tirage de 1925 et le transfert de l'impression à Taïwan en 1927.
+[^6]: [Musée commémoratif du Mouvement de la nouvelle culture taïwanaise de la ville de Taipei : Lancement du « Taiwan Minpao » le 15 avril 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Enregistre le lancement du « Taiwan Minpao », le système de censure, le tirage de 1925 et les documents médiatiques sur son transfert de publication à Taïwan en 1927.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Préface rédigée et synthétisée par James Gerien-Chen de l'Université de Floride, présentant les raisons de la pétition de 1923, offrant le contexte juridique colonial, la « Loi de six articles » et le texte de la pétition en anglais.
+[^7]: [Japanese Empire Info : Raisons de la demande d'établissement d'un parlement taïwanais](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Rédigé par James Gerien-Chen de l'Université de Floride, qui a écrit l'introduction et compilé les raisons de la pétition de 1923, fournissant en anglais le contexte du droit colonial, de la loi 6-3 et du texte de la pétition.
 
-[^8]: [Institut de recherche en histoire de Taïwan, Academia Sinica : La première élection locale à Taïwan : Opération institutionnelle du gouvernement colonial japonais](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analyse académique de la réforme du système local de 1935, des sièges semi-élus et des limites des qualifications électorales, évitant d'écrire une autonomie limitée comme une démocratie universelle.
+[^8]: [Institut d'histoire de Taïwan de l'Académie sinique : Les premières élections locales à Taïwan : Manipulation institutionnelle du gouvernement colonial japonais](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analyse par la recherche académique la réforme du système local de 1935, la moitié des sièges élus au suffrage universel et les restrictions de qualification électorale, afin d'éviter de confondre l'autonomie limitée avec la démocratie universelle.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Le résumé du chapitre académique en anglais considère les mouvements politiques et culturels des lettrés et intellectuels taïwanais de 1920 à 1940 comme la première vague du développement de la société civile à Taïwan.
+[^9]: [Elgar Online : L'essor et le déclin des mouvements de la société civile à Taïwan : 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Le résumé du chapitre académique en anglais considère les mouvements politiques et culturels des lettrés et intellectuels taïwanais de 1920 à 1940 comme la première vague du développement de la société civile à Taïwan.
 
-[^10]: [Wikimedia Commons : Le groupe de pétitionnaires pour l'établissement d'une assemblée taïwanaise à Tokyo en 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Page d'archive du groupe de pétitionnaires arrivant à Tokyo en 1924 et se photographiant avec les étudiants taïwanais, indiquée comme Domaine public.
+[^10]: [Wikimedia Commons : Délégation de pétition pour le parlement taïwanais à Tokyo en 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Page d'archive de l'arrivée de la délégation de pétition à Tokyo en 1924 et de sa photo de groupe avec des étudiants taïwanais, sous licence Public domain.
 
-[^11]: [Wikimedia Commons : Le groupe de conférenciers de l'Association culturelle de Taïwan en 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Photo de groupe du groupe de conférenciers de l'Association culturelle en 1925 devant le point de vente en gros du _Taïwan Minbao_ de la succursale de la préfecture de Hsinchu, indiquée comme Domaine public.
+[^11]: [Wikimedia Commons : Tournée de conférences de l'Association culturelle taïwanaise en 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Photo de groupe de la tournée de conférences de l'Association culturelle en 1925 au bureau de distribution du Taiwan Minpao de la branche de la préfecture de Shinchiku, sous licence Public domain.
 
-[^12]: [Wikimedia Commons : La une du _Taïwan Minbao_ du 1er janvier 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Image de la une du _Taïwan Minbao_ du 1er janvier 1926, page d'archive indiquée comme Domaine public selon les règles de droit d'auteur japonaises.
+[^12]: [Wikimedia Commons : Une du « Taiwan Minpao » du 1er janvier 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Image de la une du « Taiwan Minpao » du 1er janvier 1926, page d'archive sous licence Public domain selon les règles japonaises du droit d'auteur.
 
-[^13]: [Wikimedia Commons : La pétition pour l'établissement d'une assemblée taïwanaise](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Page d'archive de l'image de la pétition pour l'établissement d'une assemblée taïwanaise, indiquée comme Domaine public.
+[^13]: [Wikimedia Commons : Pétition pour l'établissement d'un parlement taïwanais](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Page d'archive de l'image de la pétition pour l'établissement d'un parlement taïwanais, sous licence Public domain.
 
-[^14]: [Wikimedia Commons : Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Page d'archive du portrait de Lin Hsien-tang, indiquée comme Domaine public.
+[^14]: [Wikimedia Commons : Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Page d'archive du portrait de Lin Hsien-tang, sous licence Public domain.

@@ -116,7 +116,7 @@ Esta distribución ofrece tres ventajas principales:
 
 1. **Servicio de proximidad**: Donde esté el cliente, estará la fábrica.
 2. **Optimización de costes**: La tecnología avanzada se mantiene en Taiwán y la producción masiva se realiza en China.
-   ⁠3. **Diversificación de riesgos**: Si surge un problema en una ubicación, las otras plantas pueden dar soporte.
+3. **Diversificación de riesgos**: Si surge un problema en una ubicación, las otras plantas pueden dar soporte.
 
 Durante la pandemia de COVID-19, mientras otros proveedores debían detener su producción debido a los confinamientos, la distribución descentralizada de ASE demostró una gran resuminencia, e incluso sus pedidos aumentaron.
 

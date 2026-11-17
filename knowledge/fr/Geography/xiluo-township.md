@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T11:16:05+08:00'
+translatedAt: '2026-11-04T15:57:56.735505+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Xiluo est une petite ville de plus de 40 000 habitants située sur la rive sud de la rivière Zhuoshui, dans le comté de Yunlin. Si les visiteurs retiennent d'abord le pont rouge de Xiluo, le quotidien des habitants repose sur d'autres piliers : la sauce soja aux haricots noirs nécessite 180 jours de fermentation, les maisons baroques de la rue ancienne de Yanping traversent les époques depuis les années 1920, la déesse Taiping Ma du temple Fuxing protège la région depuis trois siècles, et le dojo Qikan des immigrants de l'époque Qing a inspiré une série télévisée. Cet article ne considère pas Xiluo comme un simple accessoire du pont, mais replace ce dernier dans la chronologie de la ville. [^1] [^2] [^3] [^4]

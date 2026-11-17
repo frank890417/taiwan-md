@@ -1,0 +1,320 @@
+---
+/**
+ * S8 接下來會變的事（/income/ 第 8 區，全頁收尾）
+ *
+ * 資料：shared/population-projection-2026-2075.json（國發會 2026–2075 推估，官方只給六個年份）、
+ * labor-2026.json、minimum-wage.json、tax-115.json、labor-insurance-finance.json。
+ * 「每年固定會變的日子」每一項只寫資料檔或研究檔有依據的，並寫出已公告的下一個數字；
+ * 還沒公告的照實寫尚未公告。資料檔沒有、取自研究檔的項目集中在 R。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, fmtNT } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import { localizePath } from '../../../utils/topics/registry-core';
+import LineChart from '../../budget/LineChart.astro';
+import pop from '../../../data/shared/population-projection-2026-2075.json';
+import labor from '../../../data/income/labor-2026.json';
+import mw from '../../../data/income/minimum-wage.json';
+import tax from '../../../data/income/tax-115.json';
+import lif from '../../../data/income/labor-insurance-finance.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const pctv = (v: number) => `${v}%`;
+
+// ── 資料檔沒有、取自研究檔的項目 ─────────────────────────────────────
+const R = {
+  // 研究檔 02 §6 B-1（勞保條例第 13 條）、B-3（勞保局 2026-10-21 公告）
+  liRate: {
+    stepPt: 0.5,
+    cap: 13,
+    nextYear: 2027,
+    next: 13,
+    announced: '2026-10-21',
+    url: 'https://www.bli.gov.tw/0110278.html',
+  },
+  // 研究檔 04 §B5(d) 第 1 條：財政部賦稅署 2025-11-27 新聞稿（物價累計上漲達 3% 才調整）
+  cpi: {
+    threshold: 3,
+    url: 'https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=34b463dc8f1b49f29d440d92a6fd5139',
+  },
+};
+const asOf = labor._meta.asOf;
+// 釋憲聲請的查詢日（timeline.json 的 _meta.courtStatus；檔案不存在時退回資料截止日）
+const tlMods = import.meta.glob('../../../data/income/timeline.json', {
+  eager: true,
+}) as Record<
+  string,
+  { default?: { _meta?: { courtStatus?: { date: string } } } }
+>;
+const courtDate =
+  Object.values(tlMods)[0]?.default?._meta?.courtStatus?.date ?? asOf;
+
+// ── 人口推估 ─────────────────────────────────────────────────────────
+const years = pop.years;
+const share65 = pop.table1.sharePct.age65plus;
+const psr = pop.table2.potentialSupportRatio;
+const oadr = pop.table2.oldAgeDependencyRatio;
+// 官方只公布六個年份：寫出潛在支持比低於 1 的第一個公布年份，以及它前一個公布年份的值
+const below1I = psr.findIndex((v) => v < 1);
+const below1 = below1I >= 0 ? years[below1I] : undefined;
+const beforeI = below1I > 0 ? below1I - 1 : 0;
+const lastI = years.length - 1;
+const popSrc = pop._meta.source[0];
+
+// ── 行事曆 ───────────────────────────────────────────────────────────
+const li = labor.laborInsurance;
+const curRate = +(li.ordinaryAccidentRateTotal * 100).toFixed(2);
+const dec = mw.latestDecision;
+const mwYear = dec.effective.slice(0, 4);
+const fy = tax._meta.fiscalYear;
+const fyCe = fy + 1911;
+const reps = lif.actuarialReports;
+const repLast = reps[reps.length - 1];
+const basic = tax.basicLiving;
+
+type Card = { id: string; what: string; next: string; url: string };
+const cards: Card[] = [
+  {
+    id: 'jan',
+    what: t('income.s8.cal.jan.what', {
+      step: R.liRate.stepPt,
+      cap: pctv(R.liRate.cap),
+      capYear: R.liRate.nextYear,
+    }),
+    next: t('income.s8.cal.jan.next', {
+      ny: R.liRate.nextYear,
+      cur: pctv(curRate),
+      next: pctv(R.liRate.next),
+      ann: R.liRate.announced,
+      mwy: mwYear,
+      m: fmtNT(dec.monthly, lang),
+      h: fmtNT(dec.hourly, lang),
+      pub: dec.publishedDate,
+      asOf,
+    }),
+    url: R.liRate.url,
+  },
+  {
+    id: 'may',
+    what: t('income.s8.cal.may.what'),
+    next: t('income.s8.cal.may.next', {
+      fyear: fyCe + 1,
+      fy,
+      ce: fyCe,
+      ex: fmtNT(tax.exemption.general, lang),
+      sd: fmtNT(tax.standardDeduction.single, lang),
+      sal: fmtNT(tax.salaryDeduction.cap, lang),
+    }),
+    url: tax.exemption.source,
+  },
+  {
+    id: 'sep',
+    what: t('income.s8.cal.sep.what', { eff: mw.law.effective }),
+    next: t('income.s8.cal.sep.next', {
+      d: dec.councilDate,
+      pm: fmtNT(dec.previousMonthly, lang),
+      m: fmtNT(dec.monthly, lang),
+      inc: dec.increasePct,
+      after: Number(mwYear) + 1,
+    }),
+    url: mw._meta.source[2].url,
+  },
+  {
+    id: 'nov',
+    what: t('income.s8.cal.nov.what', { th: pctv(R.cpi.threshold) }),
+    next: t('income.s8.cal.nov.next', {
+      ann: tax.exemption.announced,
+      fy,
+      ce: fyCe,
+      nfy: fy + 1,
+      nce: fyCe + 1,
+      asOf,
+    }),
+    url: R.cpi.url,
+  },
+  {
+    id: 'dec',
+    what: t('income.s8.cal.dec.what'),
+    next:
+      basic.perPerson == null
+        ? t('income.s8.cal.dec.pending', { fy, ce: fyCe, asOf })
+        : t('income.s8.cal.dec.done', {
+            fy,
+            ce: fyCe,
+            v: fmtNT(basic.perPerson, lang),
+          }),
+    url: basic.source,
+  },
+  {
+    id: 'tri',
+    what: t('income.s8.cal.tri.what', { date: lif.subsidyLaw.promulgated }),
+    next: t('income.s8.cal.tri.next', {
+      b: repLast.baseDate,
+      pub: repLast.published ?? t('income.commonb.nodata'),
+    }),
+    url: repLast.source,
+  },
+];
+
+const tools = [
+  { href: '#s0', key: 'takehome' },
+  { href: '#s1', key: 'percentile' },
+  { href: '#s4', key: 'tax' },
+  { href: '#s5', key: 'pension' },
+];
+
+const REL = await relatedList(lang, [
+  ['Society', '台灣少子化危機'],
+  ['Geography', '用數據看台灣22縣市'],
+  ['Society', '台灣長期照顧制度發展'],
+]);
+---
+
+<section class="bp-section" id="s8">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s8.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('income.s8.h2')}</h2>
+    <p class="bp-lede">
+      {
+        t('income.s8.lede', {
+          y0: years[0],
+          p0: psr[0],
+          pub: pop._meta.published,
+          y1: years[1],
+          p1: psr[1],
+          ya: years[beforeI],
+          pa: psr[beforeI],
+          yb: below1 ?? '',
+          pb: below1I >= 0 ? psr[below1I] : '',
+          n: years.length,
+        })
+      }
+    </p>
+
+    <LineChart
+      id="c-inc-aging"
+      title={t('income.s8.chart.title', {
+        y0: years[0],
+        p0: psr[0],
+        y1: years[1],
+        p1: psr[1],
+        yb: below1 ?? '',
+        pb: below1I >= 0 ? psr[below1I] : '',
+      })}
+      subtitle={t('income.s8.chart.sub')}
+      years={years}
+      lang={lang}
+      unit="%"
+      series={[
+        {
+          id: 'oadr',
+          label: t('income.s8.series.oadr'),
+          values: oadr,
+          cls: 'bg-s1',
+        },
+        {
+          id: 'share65',
+          label: t('income.s8.series.share65'),
+          values: share65,
+          cls: 'bg-s0',
+        },
+      ]}
+      source={t('income.s8.chart.src', {
+        pub: pop._meta.published,
+        y0: years[0],
+        yl: years[lastI],
+      })}
+    />
+    <p class="bp-note">
+      {
+        t('income.s8.chart.note', {
+          n: years.length,
+          y0: years[0],
+          s0: pctv(share65[0]),
+          yl: years[lastI],
+          sl: pctv(share65[lastI]),
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        title={popSrc.name}
+        href={popSrc.url}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    <h3 class="bp-h3">{t('income.s8.cal.h')}</h3>
+    <div class="bp-guide">
+      {
+        cards.map((c) => (
+          <div class="bp-guide-card inc-cal">
+            <h4>{t(`income.s8.cal.${c.id}.when`)}</h4>
+            <p>{c.what}</p>
+            <p class="inc-cal-next">
+              <span class="bp-tag">{t('income.s8.cal.nextk')}</span>
+              {c.next}
+              <a
+                class="bp-src no-external-icon"
+                aria-label={t('income.commonb.source')}
+                href={c.url}
+                target="_blank"
+                rel="noopener"
+              >
+                ↗
+              </a>
+            </p>
+          </div>
+        ))
+      }
+    </div>
+
+    <div class="bp-prose">
+      <p>{t('income.s8.p1', { asOf, court: courtDate })}</p>
+      <p>{t('income.s8.p2')}</p>
+    </div>
+    <div class="bp-related is-inline">
+      <span class="bp-related-k">{t('income.s8.act.k')}</span>
+      {tools.map((x) => <a href={x.href}>{t(`income.s8.act.${x.key}`)}</a>)}
+    </div>
+    <p class="bp-note">
+      {t('income.s8.cross.lead')}
+      <a href={localizePath('/health/', lang)}>{t('income.s8.cross.health')}</a>
+      {t('income.commonb.listsep')}
+      <a href={localizePath('/housing/', lang)}>
+        {t('income.s8.cross.housing')}
+      </a>
+    </p>
+    {
+      REL.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.commonb.related')}</span>
+          {REL.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-cal {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .inc-cal .inc-cal-next {
+    color: var(--bg-ink);
+    margin-top: auto;
+    padding-top: 0.5rem;
+    border-top: 1px dashed var(--color-border);
+  }
+</style>

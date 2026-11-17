@@ -18,7 +18,7 @@ sourceBodyHash: 'sha256:6e4c77ec70105e99'
 translatedAt: '2026-09-13T00:44:08+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Die Su'ao Cold Spring liegt in der Stadt Su'ao im County Ilan, die Quelle hält das ganze Jahr über etwa 22 °C warm, und das Wasser enthält große Mengen Kohlenstoffdioxid, weshalb an ihrem Grund feine Bläschen entstehen. Es ist sowohl ein geologisches Phänomen als auch eine Lebensstätte der Hafenstadt: Früher wurde an der Quelle Wäsche gewaschen, gebadet und Softdrinks hergestellt; heute trägt der Cold-Spring-Park und die Ali Shi Cold Spring dieses lokale Gedächtnis weiter. [↩︎](#參考資料)
+> **30-Sekunden-Überblick:** Die Su'ao Cold Spring liegt in der Stadt Su'ao im County Ilan, die Quelle hält das ganze Jahr über etwa 22 °C warm, und das Wasser enthält große Mengen Kohlenstoffdioxid, weshalb an ihrem Grund feine Bläschen entstehen. Es ist sowohl ein geologisches Phänomen als auch eine Lebensstätte der Hafenstadt: Früher wurde an der Quelle Wäsche gewaschen, gebadet und Softdrinks hergestellt; heute trägt der Cold-Spring-Park und die Ali Shi Cold Spring dieses lokale Gedächtnis weiter. [↩︎](#quellen)
 
 Die Su'ao Cold Spring liegt nicht tief in den Bergen, sondern etwa 300 Meter nördlich des Bahnhofs Su'ao in der Stadtmitte. Das Tourismusamt des Verkehrsministeriums führt sie auf das Jahr 1928 als Entdeckungsdatum zurück; die lokale kulturelle Erinnerung bewahrt jedoch die Geschichte von Zhu Zhongxin, der 1895 die Quelle entdeckte, untersuchte und erschloss. Beide Daten finden sich in offiziellen Materialien wieder — man darf sie nicht plump zu einem einzigen, umstrittenen Jahr zusammenlegen. [^1] [^2]
 

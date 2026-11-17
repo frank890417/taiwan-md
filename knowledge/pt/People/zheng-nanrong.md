@@ -105,7 +105,7 @@ O percurso desta família tornou-se um raro caso de "transformação de dor priv
 > **⚖️ Perspetiva de controvérsia**
 > A escolha de Cheng Nan-jung continua a ter diferentes interpretações. Apoiadores veem a autoimolação como declaração de convicção calculada com precisão, considerando que ele pagou o preço máximo para garantir que a questão da liberdade de expressão não pudesse ser ignorada. Críticos consideram a autoimolação uma escolha pessoal extrema, que ao perseguir o objetivo por meios extremos obscurece os possíveis caminhos de reforma através de luta institucional; Hou Yu-ih cumpria um mandado de detenção legal, não se podendo reduzir a "agressor". Estes dois quadros interpretativos coexistem nas discussões da história democrática de Taiwan; o leitor poderá julgar por si.
 
-A 22 de dezembro de 2016, o Yuan Executivo instituiu oficialmente o dia 7 de abril como "[Dia da Liberdade de Expressão](<https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E6%97%A5_(%E8%87%BA%E7%81%A3)". [^6] O [Museu Memorial Cheng Nan-jung](https://www.nfreedommemorialfoundation.org/) em Taipé (antiga sede da revista) preserva o seu último gabinete, nas paredes ainda permanecem marcas do incêndio.
+A 22 de dezembro de 2016, o Yuan Executivo instituiu oficialmente o dia 7 de abril como "[Dia da Liberdade de Expressão](<https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E6%97%A5_(%E8%87%BA%E7%81%A3)>)". [^6] O [Museu Memorial Cheng Nan-jung](https://www.nfreedommemorialfoundation.org/) em Taipé (antiga sede da revista) preserva o seu último gabinete, nas paredes ainda permanecem marcas do incêndio.
 
 ## O legado de um pensador da ação
 

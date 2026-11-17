@@ -3,6 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # iOS App 原始碼不影響網站，只改 App 時不重建（同一個 push 碰到網站檔就照常建）
+    paths-ignore:
+      - 'apps/**'
   workflow_dispatch:
 
 permissions:
@@ -250,6 +253,8 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
+          # 放行 public/.well-known/（iOS Universal Links 的 apple-app-site-association）
+          include-hidden-files: true
 
   deploy:
     environment:
@@ -261,6 +266,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          # 2026-11-10：部署包同步常貼著預設 10 分鐘上限逾時（當天 12:59、14:41、15:04 連三次）。
+          # 站體大是根因，另案處理；這裡先把等待上限放寬到 30 分鐘，讓部署走得完。
+          timeout: 1800000
 
   # 2026-09-04 (#1666)：站上是不是空白頁，只有站上答得出來。
   # Layout.astro 把整頁的 visibility 綁在字型事件上；那道閘門曾經一個逾時
@@ -270,7 +279,11 @@ jobs:
   # visibility。它不讀程式碼、不信任何中間指標。
   font-gate:
     name: Font visibility gate (live)
-    runs-on: ubuntu-latest
+    # 2026-11-01: ubuntu-latest 換成 26.04 後，playwright 1.59.1 沒有對應的
+    # chromium build（"Playwright does not support chromium on ubuntu26.04-x64"），
+    # 閘門在 install 階段就死、正式站的字型檢查等於沒跑。build job 用
+    # ubuntu-24.04-arm + 同版本 playwright 是綠的（run 41281536831），這裡跟著釘。
+    runs-on: ubuntu-24.04
     needs: deploy
     timeout-minutes: 10
     steps:

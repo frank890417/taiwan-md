@@ -18,11 +18,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-07-25T01:31:52+08:00'
+translatedAt: '2026-11-04T16:07:24.447498+00:00'
 ---
 
 > **Ringkasan 30 Detik:** 26 November 2000, Museum Keramik Yingge Kota Baru Taipei resmi dibuka, menjadi museum keramik profesional pertama Taiwan. Arsitekturnya didesain oleh Chien Hsueh-yi dengan konsep "tanah, air, api, angin", dinding cetakan bersih dan kaca tirai luas menyatu dengan lanskap Yingge. Ia mengubah Yingge dari kota grosir industri tungku yang dikenal sebagai "Jingdezhen Taiwan", menjadi pusaka seni berpusat pada kurasi, pendidikan, dan pertukaran internasional. Biennale Keramik Internasional Taiwan sejak 2004 menghubungkan kerajinan lokal dengan alur seni keramik kontemporer global.

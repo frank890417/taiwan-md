@@ -2,9 +2,7 @@
 title: "Shao You-lian : le gestionnaire de consolidation après l'aura de Liu Ming-chuan, et le véritable ancrage de Taipei comme capitale provinciale"
 description: "Fut-il le coupable que l'histoire a marqué comme celui qui mit fin aux « nouvelles politiques », ou le gardien des finances le plus pragmatique du Taïwan des Qing ? Après les grands chantiers lancés par Liu Ming-chuan, Shao You-lian acheva, dans un contexte budgétaire extrêmement contraint, la voie ferrée de Taipei à Hsinchu, ancra officiellement la capitale provinciale de Taïwan à Taipei, et laissa à la postérité un débat difficile à trancher : consolider l'existant relève-t-il du recul, ou d'une autre forme de gouvernement plus proche du réel ?"
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'période de gouvernement Qing',
@@ -16,15 +14,19 @@ tags:
     "traité d'Ili",
     'Li Hongzhang',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:35:59.938774+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1891, le premier gouverneur de Taïwan, Liu Ming-chuan, quitta ses fonctions pour raisons de santé, laissant derrière lui un Taïwan rempli de rêves de modernisation mais grevé par un déficit budgétaire. Son successeur, Shao You-lian, est souvent décrit comme le conservateur qui « abolit toutes les nouvelles politiques ». En réalité, dans un contexte extrême où les subventions du Fujian furent interrompues, il mena à bien l'exploitation de la ligne ferroviaire entre Taipei et Hsinchu et, en 1894, transféra officiellement la capitale provinciale à Taipei. Ce diplomate qui avait participé aux négociations du traité d'Ili et était lié par alliance à Li Hongzhang fixa, par son savoir-faire bureaucratique pragmatique, les grandes lignes du centre politique et économique de Taïwan pour le siècle suivant.
@@ -79,44 +81,44 @@ Pendant longtemps, Shao You-lian a joué dans l'histoire de Taïwan le rôle de 
 
 ### Références
 
-[^1]: Lien Heng, Histoire générale de Taïwan, « Traité des finances publiques », [édition du Bureau de recherche économique de la Banque de Taïwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711).
+[^1]: [édition du Bureau de recherche économique de la Banque de Taïwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — Lien Heng, Histoire générale de Taïwan, « Traité des finances publiques ».
 
-[^2]: Hsieh Chi-kang, « Étude sur la défense de Taïwan par Shao You-lian (1891-1894) : l'exemple des constructions liées au mouvement d'auto-renforcement », Nankai Journal, [vol. 8, no 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf).
+[^2]: [vol. 8, no 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — Hsieh Chi-kang, « Étude sur la défense de Taïwan par Shao You-lian (1891-1894) : l'exemple des constructions liées au mouvement d'auto-renforcement », Nankai Journal.
 
-[^3]: Hsu Hsueh-chi, « Shao You-lian et les nouvelles politiques d'auto-renforcement », dans Actes du colloque sur le mouvement d'auto-renforcement à la fin des Qing, [Institut d'histoire moderne, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx).
+[^3]: [Institut d'histoire moderne, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx) — Hsu Hsueh-chi, « Shao You-lian et les nouvelles politiques d'auto-renforcement », dans Actes du colloque sur le mouvement d'auto-renforcement à la fin des Qing.
 
-[^4]: Bibliothèque nationale centrale, système Taiwan Memory, [entrée « Shao You-lian »](https://tm.ncl.edu.tw/).
+[^4]: [entrée « Shao You-lian »](https://tm.ncl.edu.tw/) — Bibliothèque nationale centrale, système Taiwan Memory.
 
-[^5]: Kuo Ting-yee, Aperçu des faits historiques de Taïwan, [Zhengzhong Bookstore, 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ).
+[^5]: [Zhengzhong Bookstore, 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — Kuo Ting-yee, Aperçu des faits historiques de Taïwan.
 
-[^6]: Allhistory, « Préfecture de Taipei », [d'après des documents historiques](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735).
+[^6]: [d'après des documents historiques](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — Allhistory, « Préfecture de Taipei ».
 
-[^7]: Hanlin Cloud Academy, « Histoire au collège : Shao You-lian », [apprentissage par mots-clés](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html).
+[^7]: [apprentissage par mots-clés](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — Hanlin Cloud Academy, « Histoire au collège : Shao You-lian ».
 
-[^8]: Yang Peng-fei, « À propos des gares ferroviaires du Taïwan des Qing », The Observer, [no 22, juin 2015](http://www.observer-taipei.com/article.php?id=712).
+[^8]: [no 22, juin 2015](http://www.observer-taipei.com/article.php?id=712) — Yang Peng-fei, « À propos des gares ferroviaires du Taïwan des Qing », The Observer.
 
-[^9]: Sources historiques sur le mouvement d'occidentalisation à Taïwan à la fin des Qing, « Mémoire du gouverneur de Taïwan Shao You-lian signalant que le chemin de fer de Taïwan serait provisoirement interrompu après Hsinchu », [18e année de Guangxu](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99).
+[^9]: [18e année de Guangxu](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — Sources historiques sur le mouvement d'occidentalisation à Taïwan à la fin des Qing, « Mémoire du gouverneur de Taïwan Shao You-lian signalant que le chemin de fer de Taïwan serait provisoirement interrompu après Hsinchu ».
 
-[^10]: Watanabe Keinoshin, Manuel des chemins de fer de Taïwan, traduction de Huang De-feng, [Archives nationales, Institut des documents historiques de Taïwan](https://www.th.gov.tw/).
+[^10]: [Archives nationales, Institut des documents historiques de Taïwan](https://www.th.gov.tw/) — Watanabe Keinoshin, Manuel des chemins de fer de Taïwan, traduction de Huang De-feng.
 
-[^11]: Wang Yifu, « Le dernier gouverneur de Taïwan », China Daily, [2 février 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html).
+[^11]: [2 février 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — Wang Yifu, « Le dernier gouverneur de Taïwan », China Daily.
 
-[^12]: Wikipédia, [entrée « Shao You-lian »](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82).
+[^12]: [entrée « Shao You-lian »](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — Wikipédia.
 
-[^13]: Wikipédia, [entrée « Shao Can »](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF).
+[^13]: [entrée « Shao Can »](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — Wikipédia.
 
-[^14]: Le bonheur quotidien de Meixige, [« Rêve brisé au pont oblique : légende de cinq générations de la résidence Shao de Xieqiao »](https://www.yuleshow.com/?p=448).
+[^14]: [« Rêve brisé au pont oblique : légende de cinq générations de la résidence Shao de Xieqiao »](https://www.yuleshow.com/?p=448) — Le bonheur quotidien de Meixige.
 
-[^15]: Musée du Palais, [présentation biographique de Shao Xunmei](https://www.dpm.org.cn/lemmas/241167.html).
+[^15]: [présentation biographique de Shao Xunmei](https://www.dpm.org.cn/lemmas/241167.html) — Musée du Palais.
 
-[^16]: Wikipédia, [entrée « Traité d'Ili »](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84).
+[^16]: [entrée « Traité d'Ili »](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — Wikipédia.
 
-[^17]: Li Yangfan, « Zeng Jize : commencer à croire qu'il existe d'autres montagnes que le Kunlun », dans World Affairs, [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf).
+[^17]: [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — Li Yangfan, « Zeng Jize : commencer à croire qu'il existe d'autres montagnes que le Kunlun », dans World Affairs.
 
-[^18]: Département des affaires culturelles de la ville de Taipei, [« La ville de Taipei et Shao You-lian »](https://culture.gov.taipei/).
+[^18]: [« La ville de Taipei et Shao You-lian »](https://culture.gov.taipei/) — Département des affaires culturelles de la ville de Taipei.
 
-[^19]: Wikipédia, [entrée « Bureau des machines de Taipei »](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80).
+[^19]: [entrée « Bureau des machines de Taipei »](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — Wikipédia.
 
-[^20]: Base de données de China Merchants, [« Les pourparlers de Hiroshima et l'insuffisance des pleins pouvoirs »](http://1872.cmhk.com/ziliaoku/5110.html).
+[^20]: [« Les pourparlers de Hiroshima et l'insuffisance des pleins pouvoirs »](http://1872.cmhk.com/ziliaoku/5110.html) — Base de données de China Merchants.
 
-[^21]: Tencent News, [« Le refus des envoyés à Hiroshima : le véritable effondrement du rêve impérial sous les nuages de guerre de Jiawu »](https://view.inews.qq.com/k/20260508A01P7U00).
+[^21]: [« Le refus des envoyés à Hiroshima : le véritable effondrement du rêve impérial sous les nuages de guerre de Jiawu »](https://view.inews.qq.com/k/20260508A01P7U00) — Tencent News.

@@ -2,6 +2,7 @@
 title: '台湾のオープンソース精神——愛で動かすエンジニアたち'
 description: '台湾で最も影響力のあるオープンソースプロジェクトは一つのソフトウェアではなく、ハッカソンで政府に対して「あなたたちができないなら、私たちがやる」と言ったエンジニアたちの集団である。'
 date: 2026-03-29
+category: 'Technology'
 tags:
   [
     'オープンソース',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '社群與數位文化'
 author: 'p3nchan'
-readingTime: 8
-category: 'Technology'
-lastVerified: 2026-03-29
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
-translatedFrom: Technology/台灣開源精神.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/台灣開源精神.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: 2026-05-01T18:02:56+08:00
+translatedAt: '2026-11-04T15:34:42.019482+00:00'
 ---
 
 > 台湾のソフトウェア産業の規模は世界トップクラスとは言えないが、GitHub で Taiwan と登録しているユーザーは44,000人以上、コミュニティハッカソンは累計70回以上、数千名のコントリビューターが参加している——そのほぼ全員が、仕事終わりに自費で参加する個人開発者である。本記事は g0v だけを語るのではなく、人、コミュニティ、教育、産業の四つの視点から、台湾のオープンソース文化の全体像を描く。

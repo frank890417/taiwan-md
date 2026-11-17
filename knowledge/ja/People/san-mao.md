@@ -1,21 +1,24 @@
 ---
 title: '三毛：逃避を自由として書いた人'
-description: '本名は陳平（ちん・へい／チェン・ピン）、1943年重慶生まれ、1948年に家族とともに台湾へ移住。中学時代に教師から公開的に辱めを受け中退、7年間の引きこもりを経て再び執筆を始める。1973年、荷西（ホセ）とスペイン領サハラで結婚、エッセイが大ヒットし、戒厳令下の台湾人にとって遠方を想像する窓口となる。1979年、荷西がダイビング事故で死去。1990年、唯一の脚本作品『滾滾紅塵（紅塵の恋）』で金馬奨8部門受賞。1991年1月4日、台北栄民総医院で自死、享年47歳。'
+description: '三毛の本名は陳平で、サハラ砂漠での生活を描いた台湾の作家であり、作品は1500万部以上を売り上げました。中学2年生の年、数学の先生が筆で彼女の目の周りに2つの「0点」を描き、それ以来彼女は中退し、中学の学歴を持たなくなりました。7年後、画家の顧福生の導きで再び筆を取りました。1973年、スペイン領サハラでホセと結婚し、戒厳令時代の台湾人に遠くを見る窓を開きました。ホセが1979年にダイビング事故で亡くなり、彼女は一生の逃避を自由として書き綴りました。'
 date: 2026-05-17
 category: 'People'
-tags:
-  ['三毛', 'エッセイ', 'サハラ', 'ホセ', 'オリーブの木', '滾滾紅塵', '放浪文学']
+tags: ['三毛', '散文', 'サハラ', 'ホセ', 'オリーブの木', '紅塵', '放浪文学']
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T16:54:46+08:00'
+translatedAt: '2026-11-05T23:57:54.305160+00:00'
 ---
 
 # 三毛：逃避を自由として書いた人
@@ -134,52 +137,52 @@ translatedAt: '2026-10-10T16:54:46+08:00'
 - [台湾エッセイ](/ja/art/taiwanese-prose)：三毛が占めた文類の版図
 - [席慕蓉](/ja/people/ximurong)：同時代に異郷を台湾人の心に書き込んだもう一人の女性作家
 
-## 参考資料
+## 参考文献
 
-[^1]: [ウィキペディア：三毛 (作家)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — 基本経歴、創作年表、文学的評価
+[^1]: [ウィキペディア：三毛 (作家)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — 基本経歴、創作年表、文学評価
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — 荷西の生年1951、年齢差8歳、ドイツ人の婚約者
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — ホセの生年 1951、年齢差 8 歳、ドイツ人婚約者
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — 荷西溺死場所ラ・パルマ島バーロベント、日付、引き揚げ詳細
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — ホセの溺死場所 La Palma Barlovento、日付、遺体引き揚げの詳細
 
-[^4]: [ウィキペディア：滾滾紅塵 (映画)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — 金馬奨第27回8賞完全リスト
+[^4]: [ウィキペディア：『滾滾紅塵』 (映画)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — 第27回金馬奨 8部門受賞の完全リスト
 
-[^5]: [ニューヨーク・タイムズ Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1500万部発行部数、国際的評価
+[^5]: [ニューヨーク・タイムズ Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1500万部の売上、国際的評価
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bloomsbury英訳版、マイク・フー翻訳者、全米翻訳賞ノミネート
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — ブルームズベリー英訳版、マイク・フー訳者、国家翻訳賞ノミネート
 
-[^7]: [典蔵 ARTouch](https://artouch.com/art-views/content-2727.html) — 顧福生泰安街画室住所、絵を教えた10ヶ月、白先勇への推薦
+[^7]: [典蔵 ARTouch](https://artouch.com/art-views/content-2727.html) — 顧福生の泰安街画室住所、絵画指導10ヶ月、白先勇を推薦
 
-[^8]: [騰訊新聞](https://news.qq.com/rain/a/20240103A07USZ00) — ドイツ人婚約者心臓発作急死、結婚はがき、睡眠薬服用
+[^8]: [テンセントニュース](https://news.qq.com/rain/a/20240103A07USZ00) — ドイツ人婚約者が心臓病で急死、結婚名刺、安眠薬を服用
 
-[^9]: [放言 Fount Media](https://www.fountmedia.io/article/81860) — 『オリーブの木』原詞「小さなロバ」「スペイン娘の大きな瞳」、楊祖珺改詞、三毛の反応原話
+[^9]: [放言 Fount Media](https://www.fountmedia.io/article/81860) — 『オリーブの木』原詞「小ロバ」「スペインの娘大きな目」、楊祖珺が改詞、三毛の反応原文
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 台湾広電処『オリーブの木』放送禁止、文化的背景分析
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 台湾広電処が『オリーブの木』を放送禁止、文化的背景分析
 
-[^11]: [騰訊新聞](https://news.qq.com/rain/a/20210917A0GH4S00) — 陳田心回想荷西死去、三毛自ら墓を掘る
+[^11]: [テンセントニュース](https://news.qq.com/rain/a/20210917A0GH4S00) — 陳田心がホセの死を回想、三毛が自ら墓を掘る
 
-[^12]: [中国時報](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 王洛賓との関係始末、121日、『待ち続けて』
+[^12]: [中国時報](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 王洛賓との関係の顛末、121日間、『待つ』
 
-[^13]: [灼見名家](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 厳浩回想40晩の対談
+[^13]: [灼見名家](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 嚴浩が回想する40夜の対談
 
-[^14]: [Yahooニュース](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 林青霞「三毛がいなければ、私はこの賞を取れなかった」
+[^14]: [Yahooニュース](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 林青霞「三毛がいなければ、私はこの賞を得られなかった」
 
 [^15]: [民報](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — 死の経緯、4つの説、医師の見解
 
-[^16]: [聯合文學 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 通俗vs純文学の位置づけ、正典化の巨匠不在
+[^16]: [聯合文學 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 大衆文学 vs 純文学の位置づけ、正典化された巨匠の不在
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Ruta Sanmaoルート、荷西墓記帳統計（簡体字61%／繁体字10%／スペイン語21%）
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Ruta Sanmao ルート、ホセの墓訪問者名簿統計（簡体字 61% / 繁体字 10% / スペイン語 21%）
 
-[^18]: [国立台湾歴史博物館](https://women.nmth.gov.tw/?p=19358) — 『サハラの物語』1976年刊行、両岸で読書ブーム
+[^18]: [国立台湾歴史博物館](https://women.nmth.gov.tw/?p=19358) — 『サハラの物語』1976年出版が両岸読書ブームを引き起こす
 
-[^19]: [国立台湾文学館](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — 「台湾で最も売れ、影響力が最大の文人」評価
+[^19]: [国立台湾文学館](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — 「台湾で最も売れ、影響力の大きい文人」との評価
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019年三毛76歳冥誕ドゥードル、三毛文学賞1992年設立、Echo名現象
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019年三毛76歳冥誕ドゥードル、三毛文学賞1992年設立、Echo名前現象
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — スペインドキュメンタリー Sanmao: La novia del desierto (2020)
+[^21]: [IMDb](https://www.imdb.com/title/tt13199754/) — スペインのドキュメンタリー『Sanmao: La novia del desierto』(2020年)
 
-[^22]: [三立新聞](https://www.setn.com/News.aspx?NewsID=1408845) — 司馬中原2024-01-04逝去、三毛と同月同日、生死の約束
+[^22]: [三立新聞](https://www.setn.com/News.aspx?NewsID=1408845) — 司馬中原 2024年1月4日逝世、三毛と同じ月同じ日、生死の約束
 
-[^23]: [ピッツバーグ大学](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 学術論文、三毛の紀実と虚構の境界線を論じる
+[^23]: [ピッツバーグ大学](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 三毛の紀実と虚構の境界線を論じた学術論文
 
-[^24]: [大紀元](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 馬中欣『三毛真相』1996年刊行、論争と批評
+[^24]: [大紀元](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 馬中欣『三毛真相』1996年出版、論争と批評

@@ -17,11 +17,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-07-28T22:24:23+08:00'
+translatedAt: '2026-11-05T05:25:42.268748+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Às 20h32 de 27 de junho de 2015, no «Color Play Asia — Festa Colorida» do Formosa Fun Coast (Pa-hsien) em Pa-li, Nova Taipé, a ignição de poeira de amido de milho transformou o local num mar de fogo num instante. Este acidente causou 499 queimados e 15 mortes, sendo o mais grave acidente de segurança pública com vítimas em massa em Taiwan desde o terramoto de 921. Perante a avalancha de vítimas com queimaduras graves, os profissionais de saúde de Taiwan «mobilizaram todo o país» e criaram um «milagre médico» com uma taxa de mortalidade de apenas 3%. No entanto, uma década depois, os processos judiciais ainda se arrastam, o caminho de reabilitação dos feridos a conviver com as cicatrizes é longo e penoso, e o Formosa Fun Coast permanece abandonado desde então. Esta cicatriz continua a lembrar profundamente a sociedade taiwanesa da importância da segurança pública.

@@ -88,16 +88,16 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[Oso Negro Taiwanés]]​: Desafío de conservación de animal de nivel tesoro nacional
-- [[Salmón Formosan Landlocked Salmon]]​: Milagro de vida remanente de la Edad de Hielo
-- [[Parque Nacional del Monte Jade]]​: Templo ecológico del pico más alto del noreste de Asia
-- [[Parque Nacional Taroko]]​: Espectáculo geológico del desfiladero de mármol
-- [[Parque Nacional de Kenting]]​: Tesoro ecológico de la costa tropical
-- [[Especies Endémicas de Taiwán]]​: Testimonio biológico de la evolución insular
-- [[Zonas de Vegetación Vertical]]​: Zonas climáticas completas en una pequeña isla
-- [[Ecosistema de Arrecifes de Coral]]​: Cuna de la biodiversidad marina
-- [[Adaptación al Cambio Climático]]​: Estrategia de conservación frente al calentamiento
-- [[Ciencia Ciudadana]]​: Movimiento de conservación natural con participación de todos
+- [[Oso Negro Taiwanés]]: Desafío de conservación de animal de nivel tesoro nacional
+- [[Salmón Formosan Landlocked Salmon]]: Milagro de vida remanente de la Edad de Hielo
+- [[Parque Nacional del Monte Jade]]: Templo ecológico del pico más alto del noreste de Asia
+- [[Parque Nacional Taroko]]: Espectáculo geológico del desfiladero de mármol
+- [[Parque Nacional de Kenting]]: Tesoro ecológico de la costa tropical
+- [[Especies Endémicas de Taiwán]]: Testimonio biológico de la evolución insular
+- [[Zonas de Vegetación Vertical]]: Zonas climáticas completas en una pequeña isla
+- [[Ecosistema de Arrecifes de Coral]]: Cuna de la biodiversidad marina
+- [[Adaptación al Cambio Climático]]: Estrategia de conservación frente al calentamiento
+- [[Ciencia Ciudadana]]: Movimiento de conservación natural con participación de todos
 
 ---
 

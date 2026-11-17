@@ -2,18 +2,20 @@
 title: '野百合学生運動'
 description: '大学生たちが中正紀念堂で七日間座り込み、四十年以上先送りされてきた政治体制をついに動かし始めました。野百合学生運動が本当に変えたのは、国是会議だけではありません。台湾の人々が初めて、学生が憲政改革の時間表を直接書き換えられるのだとはっきり目にしたことでした。 '
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '民主與政治'
 tags: ['社会', '歴史', '学生運動', '民主化', '市民運動']
+subcategory: '民主與政治'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-05-26T05:10:57+08:00'
+translatedAt: '2026-11-04T17:54:02.539122+00:00'
 ---
 
 # 野百合学生運動

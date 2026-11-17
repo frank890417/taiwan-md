@@ -109,7 +109,7 @@ export const dataUI = {
 
     // Standalone /companies page
     'data.companies.meta.title':
-      "Taiwan's Top 50 Companies — The AI-Era Reshuffle",
+      "Taiwan's Top 50 Companies by Market Cap ({monthShortEn} {year}): The AI Reshuffle",
     'data.companies.meta.description':
       "An interactive bubble chart of Taiwan's 50 largest listed companies by market cap, revenue and headcount — and how the AI supply chain keeps rewriting the rankings (2026/10/22 snapshot).",
     'data.companies.hero.title': "Taiwan's Top 50 Companies",
@@ -5297,7 +5297,9 @@ export const dataUI = {
     'data.fellOff.winway': '股價從 6 月底的 8,085 元回落約四成，至 4,795 元',
 
     // Standalone /companies page
-    'data.companies.meta.title': '台灣前 50 大企業 — AI 時代的洗牌',
+    // {year} {month} {monthShortEn} 由 companies.template.astro 從 COMPANIES_SNAPSHOT_DATE 填入
+    'data.companies.meta.title':
+      '台灣市值前 50 大企業排名（{year}/{month} 快照）：AI 時代的洗牌',
     'data.companies.meta.description':
       '用互動泡泡圖看台灣市值前 50 大上市櫃企業的市值、營收與員工數，以及 AI 供應鏈如何持續重寫排行榜（2026/10/22 快照）。',
     'data.companies.hero.title': '台灣前 50 大企業',

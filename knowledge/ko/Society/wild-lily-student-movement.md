@@ -2,19 +2,20 @@
 title: '야생 백합 학생운동'
 description: '대학생들이 중정기념당에서 7일간 농성하며 40년 넘게 굳어있던 정치 체제를 흔들었다. 야생 백합이 진정으로 바꾼 것은 국시회의가 아니라, 학생이 헌정 개혁의 시간표를 직접 다시 쓸 수 있다는 사실을 대만인이 처음으로 똑똑히 목격한 순간이었다.'
 date: 2026-03-23
+category: 'Society'
 tags: ['사회', '역사', '학생운동', '민주화', '시민운동']
 subcategory: '民主與政治'
-category: 'Society'
 author: 'Taiwan.md'
-readingTime: 15
 featured: false
-translatedFrom: 'Society/野百合學運.md'
 lastVerified: 2026-03-23
-sourceCommitSha: 'f99a9959'
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/野百合學運.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-05-25T21:07:07Z'
-lastHumanReview: false
+translatedAt: '2026-11-04T18:45:04.849977+00:00'
 ---
 
 # 야생 백합 학생운동

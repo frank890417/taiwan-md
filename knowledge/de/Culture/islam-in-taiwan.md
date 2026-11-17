@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T14:52:31.563035+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Der Islam in Taiwan ist keine fremde Kultur, sondern ein alter Gedanke, der tief im Blut dieser Insel verwurzelt ist. Von den Nachfahren aus Quanzhou, die mit Zheng Chenggong am Ende der Ming-Dynastie nach Taiwan kamen, bis zu den 260.000 indonesischen muslimischen Arbeitskräften, die heute das langfristige Pflegedienst und die Fischerei in Taiwan stützen – dieser Glaube hat eine fantastische Reise vom Verschwinden durch Assimilation zur vielfältigen Entfaltung hinter sich.

@@ -21,11 +21,13 @@ lastVerified: 2026-04-19
 lastHumanReview: true
 slug: 'national-palace-museum'
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-07-26T11:16:39+08:00'
+translatedAt: '2026-11-05T07:22:32.642358+00:00'
 ---
 
 # Bảo tàng Học viện Kinh thành Quốc lập: Từ chiến tranh gỗ xuống đất đai đến hành trình trên 100 năm

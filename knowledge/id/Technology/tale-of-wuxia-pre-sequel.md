@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-07-26T21:33:21+08:00'
+translatedAt: '2026-11-04T16:03:27.607126+00:00'
 ---
 
 > 14 Juni 2024, sebuah RPG wuxia bernama _Tales of the Living Hero_ dirilis di Steam. Tim pengembang "Obb Studio" hanya berdua orang — Bird menulis kode, Bear menulis narasi dan menggambar. Keduanya bukan dari industri game, ini adalah karya pertama mereka. Minggu pertama rilis, tingkat ulasan positif Steam turun di bawah 30%. Dua belas hari kemudian naik ke 70%. Sebulan kemudian 94%. Setengah tahun kemudian penjualan 700.000 kopi, ulasan akhir Steam 9/10. Penggemar Korea Selatan secara sukarela menyelesaikan terjemahan bahasa Korea komunitas, pemain Taiwan-Korea pun berkelompok sendiri menerjemahkan game ke bahasa Jepang. Latar belakang protagonis cerita ini diatur sebagai "murid kacau tanpa aura protagonis", orang-orang yang membuat game ini juga demikian.

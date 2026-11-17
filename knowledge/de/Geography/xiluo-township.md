@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T11:16:09+08:00'
+translatedAt: '2026-11-04T16:01:55.859938+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Xiluo liegt in Yunlin am Südufer des Zhuoshui-Flusses, einer Kleinstadt mit über 40.000 Einwohnern. Außenstehende erinnern sich zuerst an die rote Xiluo-Brücke, doch der Alltag der Einheimischen folgt anderen Rhythmen: Schwarze Sojasauce muss 180 Tage reifen, die Barockbauten in der Yanping Old Street stehen seit den 1920er Jahren, die Taiping-Mutter im Fuxing-Palast wacht seit 300 Jahren über die Region, und das Qikan-Kampfkunstinstitut der Migranten aus der Qing-Dynastie wurde zur Grundlage einer Fernsehserie. Dieser Artikel betrachtet Xiluo nicht als bloßes Anhängsel der Brücke, sondern bettet die Brücke in die Zeitlinie der Stadt ein. [^1] [^2] [^3] [^4]

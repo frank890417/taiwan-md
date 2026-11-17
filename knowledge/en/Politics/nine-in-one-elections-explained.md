@@ -1,207 +1,207 @@
 ---
-title: 'What Are the Nine-in-One Elections? Nine Offices, Four Upgrades, and Three Decades of Local Self-Governance Evolution'
-description: "The term 'Nine-in-One' was first widely used in 2014, built on four waves of municipal restructuring — the 1967 upgrade of Taipei and Kaohsiung, the 1979 Kaohsiung upgrade, the 2010 Five Municipalities upgrade, and the 2014 Taoyuan upgrade — alongside three institutional milestones: the first direct election of special municipality mayors in 1994, the consolidation under the Local Government Act in 1999, and the creation of mountain indigenous district mayors in 2014. Nine offices voted on a single day — special municipality mayors / special municipality councilors / county and city mayors / county and city councilors / township and city mayors / township and city councilors / mountain indigenous district mayors / mountain indigenous district councilors / village and borough wardens — represent the accumulated crystallization of three decades of Taiwan's local self-governance evolution."
+title: 'What Are the Nine-in-One Elections? Nine Positions, Four Upgrades, Thirty Years of Local Self-Governance Evolution'
+description: 'The term "Nine-in-One" first saw widespread use in 2014, reflecting four waves of urban restructuring (1967 Taipei/Kaohsiung upgrades, 1979 Kaohsiung upgrade, 2010 Five Special Municipalities upgrade, 2014 Taoyuan upgrade) and three institutional milestones (1994 first direct election of special municipality mayors, 1999 Local Government Act consolidation, 2014 creation of mountain indigenous district chiefs). Same-day voting for nine positions — special municipality mayors, special municipality councilors, county/city mayors, county/city councilors, township/city mayors, township/city council representatives, mountain indigenous district chiefs, mountain indigenous district council representatives, and village/neighborhood chiefs — is the cumulative crystallization of Taiwan''s thirty years of local self-governance evolution.'
 date: 2026-05-27
-author: 'Taiwan.md'
 category: 'Politics'
-subcategory: '選舉制度'
 tags:
   [
-    '九合一選舉',
-    '地方公職人員',
-    '直轄市長',
-    '縣市長',
-    '議員',
-    '村里長',
-    '地方制度法',
-    '2026選舉',
+    'Nine-in-One Elections',
+    'Local Public Officials',
+    'Special Municipality Mayors',
+    'County/City Mayors',
+    'Councilors',
+    'Village/Neighborhood Chiefs',
+    'Local Government Act',
+    '2026 Election',
   ]
-readingTime: 13
+subcategory: '選舉制度'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: false
-translatedFrom: Politics/九合一選舉是什麼.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:8130ad5ab40eae13
-sourceBodyHash: sha256:f699c0cd2ccbe17d
-translatedAt: 2026-05-28T05:08:33+08:00
+readingTime: 13
+translatedFrom: 'Politics/九合一選舉是什麼.md'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-03T20:21:46+08:00'
 ---
 
 # What Are the Nine-in-One Elections?
 
-> **30-second overview:** The term "Nine-in-One" only entered widespread use in 2014 — the year Taiwan held its first single-day election for nine categories of local public office. But this configuration did not appear suddenly in 2014. It is the cumulative result of six milestones: the 1967 upgrade of Taipei City, the 1979 upgrade of Kaohsiung, the first direct election of special municipality mayors in 1994, the 2010 Five Municipalities upgrade, the 2014 upgrade of Taoyuan, and the 2014 creation of mountain indigenous district mayors. Behind a single ballot with nine offices lies the complete evolution of Taiwan's local self-governance system over three decades. This article is not about "how to vote in 2026" — it is about why the Nine-in-One framework is worth cherishing.
+> **30-second overview:** The term "Nine-in-One" only began seeing widespread use in 2014 — the first time Taiwan held "nine types of local public official elections" on the same day. But this configuration did not appear suddenly in 2014; it is the cumulative result of six milestones: Taipei's upgrade in 1967, Kaohsiung's upgrade in 1979, the first direct election of special municipality mayors in 1994, the Five Special Municipalities upgrade in 2010, Taoyuan's upgrade in 2014, and the creation of mountain indigenous district chiefs in 2014. Behind a single ballot with nine positions lies the complete evolution of Taiwan's thirty years of local self-governance institutions. This article is not about "how to vote in 2026," but "why the Nine-in-One configuration is worth cherishing."
 
 ---
 
-## Where the Term "Nine-in-One" Comes From
+## Origin of the Term "Nine-in-One"
 
-November 29, 2014, was the first day Taiwan held a single-day election for nine categories of local public office. The media began widely using the term "Nine-in-One Elections" — prior elections had also featured multiple offices on the same day, but the combinations were different [^1].
+November 29, 2014 was the first day Taiwan held same-day voting for nine types of local public officials. Media began universally using the term "Nine-in-One Elections" — previous elections also had multiple positions voted on the same day, but the combinations differed [^1].
 
-The term "Nine-in-One" is straightforward: nine types of office combined into one day of voting. But behind this simple framework lies the most complete history of local self-governance evolution since the 1947 Constitution. Before 2014, the most complex local elections were "Seven-in-One" or "Five-in-One," with the number of offices increasing incrementally as cities were upgraded [^2].
+The composition of the term "Nine-in-One" is colloquial: nine positions combined into one day of voting. But behind this simple configuration lies the most complete history of local self-governance evolution in Taiwan since the 1947 Constitution. Before 2014, the most complex local elections were "Seven-in-One" or "Five-in-One," with the number of positions increasing gradually as cities upgraded [^2].
 
-| Year | Local Election Name                        | Offices on Same Day           | Key Institutional Milestone                                                                                          |
-| ---- | ------------------------------------------ | ----------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1994 | First Special Municipality Mayors Election | Taipei and Kaohsiung separate | First direct election of special municipality mayors                                                                 |
-| 2002 | Five-in-One                                | 5 types                       | County/city mayors + county/city councilors + township/city mayors + township/city councilors + village/ward wardens |
-| 2009 | Five-in-One                                | 5 types                       | Continuation of pre-Five-Municipalities structure                                                                    |
-| 2010 | Five Municipalities Election               | 4 types                       | First special municipality mayor elections after Five Municipalities upgrade                                         |
-| 2014 | **Nine-in-One**                            | 9 types                       | Taoyuan upgrade + creation of mountain indigenous district mayors                                                    |
-| 2018 | Nine-in-One                                | 9 types                       | Referendums held alongside elections for the first time (later separated by law)                                     |
-| 2022 | Nine-in-One                                | 9 types                       | Referendums no longer held alongside elections                                                                       |
-| 2026 | Nine-in-One                                | 9 types                       | CEC sets November 28 as Election Day [^3]                                                                            |
+| Year | Local Election Name                  | Same-Day Positions        | Major Institutional Milestones                                                                                                           |
+| ---- | ------------------------------------ | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1994 | First Special Municipality Mayors    | Taipei/Kaohsiung separate | First direct election of special municipality mayors                                                                                     |
+| 2002 | Five-in-One                          | 5 types                   | County/city mayors + county/city councilors + township/city mayors + township/city council representatives + village/neighborhood chiefs |
+| 2009 | Five-in-One                          | 5 types                   | Pre-Five Special Municipalities upgrade configuration continued                                                                          |
+| 2010 | Five Special Municipalities Election | 4 types                   | First special municipality mayor election after Five Special Municipalities upgrade                                                      |
+| 2014 | **Nine-in-One**                      | 9 types                   | Taoyuan upgrade + creation of mountain indigenous district chiefs                                                                        |
+| 2018 | Nine-in-One                          | 9 types                   | First referendum bundled with general election (later separated by amendment)                                                            |
+| 2022 | Nine-in-One                          | 9 types                   | Referendum no longer bundled with general election                                                                                       |
+| 2026 | Nine-in-One                          | 9 types                   | CEC voting date 11/28 [^3]                                                                                                               |
 
 ---
 
-## What Are the Nine Offices
+## The Nine Positions
 
-Under the Civil Servants Election and Recall Act and the Local Government Act, the nine categories of public office voted on the same day in 2026 are [^4]:
+Under the _Public Officials Election and Recall Act_ and the _Local Government Act_, the nine public officials voted on the same day in 2026 are [^4]:
 
 ### 1. Special Municipality Mayors (6 seats)
 
-The chiefs of the six special municipalities: Taipei, New Taipei, Taoyuan, Taichung, Tainan, and Kaohsiung. Four-year term, eligible for one consecutive re-election. Responsible for municipal administration, education, social welfare, policing, and other affairs.
+The chiefs of the six special municipalities: Taipei, New Taipei, Taoyuan, Taichung, Tainan, and Kaohsiung. Four-year term, may serve one consecutive term. Responsible for special municipality administration, education, social welfare, police affairs, etc.
 
-The history of this office traces back to 1967 (Taipei's upgrade) and 1979 (Kaohsiung's upgrade), but from 1967 to 1994 these were appointed positions; direct elections began only in 1994. For detailed history and institutional evolution, see 2026 九合一選舉 (2026 Nine-in-One Elections).
+The history of the special municipality mayor position traces back to 1967 (Taipei upgrade) and 1979 (Kaohsiung upgrade), but from 1967–1994 these were appointed positions; the first direct election was in 1994. For detailed history and institutional evolution, see [2026 Nine-in-One Elections](/en/politics/2026-local-elections-taiwan/).
 
-### 2. Special Municipality Councilors (approx. 380 seats, subject to council size)
+### 2. Special Municipality Councilors (~380 seats, depending on council seats)
 
-Representatives of the six special municipality councils. Four-year term, no term limits. Responsible for budget review, municipal oversight, and legislation.
+Representatives of the six special municipality councils. Four-year term, no term limits. Responsible for budget review, municipal oversight, legislation.
 
-Councilor elections use the "Single Non-Transferable Vote (SNTV) in multi-member districts" system designed in the 19800s — a completely different direction from the Legislative Yuan's 2008 shift to a single-district two-vote system. For details, see 議員制度 (Councilor System).
+Councilor elections continue to use the "Single Non-Transferable Vote in Multi-Member Districts (SNTV)" system designed in the 1980s — a completely different direction from the legislators' shift to a single-member district two-vote system in 2008. Details at [Councilor System](/en/politics/city-councilor-system-taiwan/).
 
-### 3. County and City Mayors (16 seats)
+### 3. County (City) Mayors (16 seats)
 
-The chiefs of the 16 counties and cities that are not special municipalities — the three county-administered cities of Keelung, Hsinchu, and Chiayi, plus the thirteen counties of Yilan, Hsinchu, Miaoli, Changhua, Nantou, Yunlin, Chiayi, Pingtung, Hualien, Taitung, Penghu, Kinmen, and Lienchiang [^5]. Four-year term, eligible for one consecutive re-election.
+Chiefs of the 16 non-special-municipality counties and cities — the three county-administered cities of Keelung, Hsinchu, and Chiayi, plus the thirteen counties of Yilan, Hsinchu, Miaoli, Changhua, Nantou, Yunlin, Chiayi, Pingtung, Hualien, Taitung, Penghu, Kinmen, and Lienchiang [^5]. Four-year term, may serve one consecutive term.
 
-### 4. County and City Councilors (approx. 532 seats)
+### 4. County (City) Councilors (~532 seats)
 
-Council representatives of non-special-municipality counties and cities. Four-year term, no term limits. Also uses the SNTV system.
+Representatives of non-special-municipality county/city councils. Four-year term, no term limits. Also use the SNTV system.
 
-### 5. Township and City Mayors (approx. 198 seats)
+### 5. Township (Town, County-Administered City) Mayors (~198 seats)
 
-Chiefs of townships, towns, and county-administered cities within non-special-municipality areas. Four-year term, eligible for one consecutive re-election. Township and city mayors are Taiwan's grassroots elected chiefs — closer to the community than county/city mayors, with more substantive administrative power than village/ward wardens.
+Chiefs of townships, towns, and county-administered cities within non-special-municipalities. Four-year term, may serve one consecutive term. Township/city mayors are Taiwan's grassroots directly elected chiefs — closer to communities than county/city mayors, with more substantive administrative authority than village/neighborhood chiefs.
 
-### 6. Township and City Councilors (approx. 2,148 seats)
+### 6. Township (Town, County-Administered City) Council Representatives (~2,148 seats)
 
-Representatives of township and city representative councils. Four-year term, no term limits.
+Representatives of township/city councils. Four-year term, no term limits.
 
-### 7. Mountain Indigenous District Mayors (6 seats)
+### 7. Special Municipality Mountain Indigenous District Chiefs (6 seats)
 
-Wulai (New Taipei), Fuxing (Taoyuan), Heping (Taichung), Namaxia (Kaohsiung), Taoyuan (Kaohsiung), and Maolin (Kaohsiung). Four-year term.
+New Taipei's Wulai, Taoyuan's Fuxing, Taichung's Heping, Kaohsiung's Namasia, Taoyuan, and Maolin. Four-year term.
 
-This office was newly created when Taoyuan was upgraded in 2014 — to prevent the technical act of "upgrading" from stripping indigenous communities of their right to self-governance. For details, see 直轄市山地原住民區長 (Special Municipality Mountain Indigenous District Mayors).
+This position was newly created in 2014 when Taoyuan upgraded — to prevent the technical act of "upgrading" from stripping indigenous tribes of their self-governance rights. Details at [Special Municipality Mountain Indigenous District Chiefs](/en/politics/indigenous-district-chief-system/).
 
-### 8. Mountain Indigenous District Councilors (approx. 50 seats)
+### 8. Special Municipality Mountain Indigenous District Council Representatives (~50 seats)
 
-Representatives of the six mountain indigenous district councils.
+Council representatives for the six mountain indigenous districts.
 
-### 9. Village and Borough Wardens (7,748 seats)
+### 9. Village (Neighborhood) Chiefs (7,748 seats)
 
-Taiwan's most grassroots elected chiefs. A "li" (borough) in a special municipality, or a "cun" (village) or "li" in a non-special-municipality township or city — 7,748 in total across Taiwan. Four-year term, no term limits.
+Taiwan's most grassroots directly elected chiefs. A special municipality's "neighborhoods" (里), a non-special-municipality township/city's "villages" (村) or "neighborhoods" (里) — 7,748 total nationwide. Four-year term, no term limits.
 
-Village and borough wardens are the only office in Taiwan's elections where independents dominate — the scale is too small (an average borough has 2,000–5,000 residents), and knowing every household matters more than party affiliation. For details, see 村里長制度 (Village and Borough Warden System).
+Village/neighborhood chiefs are the only position in Taiwan elections that is "independent-dominant" — the scale is too small (average 2,000–5,000 people per neighborhood), so knowing every household matters more than party platform. Details at [Village/Neighborhood Chief System](/en/politics/village-chief-system/).
 
 ---
 
-## Why "Nine" Offices, Not Eight or Ten
+## Why "Nine" Types, Not "Eight" or "Ten"
 
-Each office has its own historical story. But the number "nine" was not determined at the time of the 1947 Constitution — it accumulated continuously over 65 years from 1949 to 2014:
+Each position has its own historical story. But the number "nine" was not determined at the 1947 Constitution; it accumulated over sixty-five continuous years from 1949–2014:
 
-**1967** — Taipei City upgraded to a special municipality. Taiwan had its first "special municipality mayor" position (though it was appointed at the time). But local elected offices such as township mayors and village wardens had already been established in the 1950s.
+**1967** — Taipei upgraded to a special municipality. Taiwan's first "special municipality mayor" position (though appointed at the time). But township/city mayors, village/neighborhood chiefs and other local elected positions had already begun in the 1950s.
 
-**1979** — Kaohsiung City upgraded to a special municipality. Taipei and Kaohsiung became co-equal special municipalities, but both mayors remained appointed [^6].
+**1979** — Kaohsiung upgraded to a special municipality. Taipei and Kaohsiung stood as dual special municipalities, but both mayors remained appointed [^6].
 
-**November 26, 1994** — After the passage of the Province-County Self-Governance Act and the Special Municipality Self-Governance Act, the mayors of Taipei and Kaohsiung were directly elected for the first time. Chen Shui-bian was elected mayor of Taipei, and Wu Den-yih was elected mayor of Kaohsiung. This was a pivotal milestone in Taiwan's local self-governance history [^7].
+**November 26, 1994** — After passage of the _Provincial and County Self-Governance Act_ and _Special Municipality Self-Governance Act_, Taipei and Kaohsiung mayors were directly elected for the first time. Chen Shui-bian won Taipei, Wu Den-yih won Kaohsiung. A key milestone in Taiwan's local self-governance history [^7].
 
-**1999** — The Local Government Act replaced the separate Province-County Self-Governance Act and Special Municipality Self-Governance Act, consolidating the legal framework for local self-governance nationwide. The legal foundation for the Nine-in-One structure was established here.
+**1999** — The _Local Government Act_ replaced the separate _Provincial and County Self-Governance Act_ and _Special Municipality Self-Governance Act_, unifying the legal basis for national local self-governance. The legal foundation for the Nine-in-One structure was laid here.
 
-**December 25, 2010** — The Five Municipalities upgrade: New Taipei, Taichung, Tainan, Kaohsiung (merged with the county), and Taipei simultaneously began operating as special municipalities. Taiwan's urban geography was restructured into the "Five Municipalities" configuration [^8]. At the same time, the elected status of "mountain indigenous township" chiefs in the original five counties was lost (upgraded to appointed district mayors), sparking controversy over indigenous self-governance rights.
+**December 25, 2010** — Five Special Municipalities upgrade: New Taipei, Taichung, Tainan, Kaohsiung (merged with county), and Taipei simultaneously operated as special municipalities. Taiwan's urban geography reorganized into the "Five Special Municipalities" configuration [^8]. Simultaneously, the "mountain indigenous townships" (山地鄉) under the original five counties/cities lost their elected township chief status (became appointed district chiefs after upgrade), sparking indigenous self-governance rights disputes.
 
-**2014** — Taoyuan upgraded to a special municipality, ushering Taiwan into the "Six Municipalities" era. Simultaneously, the Legislative Yuan passed amendments to the Local Government Act creating the new offices of "mountial indigenous district mayor / district councilor" — partially restoring the indigenous elected self-governance rights lost during the 2010 upgrade [^9].
+**2014** — Taoyuan upgraded to a special municipality, Taiwan entered the "Six Special Municipalities" era. Simultaneously the Legislative Yuan passed a _Local Government Act_ amendment, creating the "Special Municipality Mountain Indigenous District Chief / District Council Representative" positions — partially restoring the indigenous elected self-governance rights lost in the 2010 upgrade [^9].
 
-**November 29, 2014** — The first "Nine-in-One Election" held on a single day. The nine-office configuration has remained fixed ever since.
+**November 29, 2014** — First "Nine-in-One Election" same-day voting. The nine-position configuration has been fixed since.
 
 ---
 
 ## Structural Tensions in Institutional Design
 
-The Nine-in-One framework may seem natural, but it is underpinned by several structural tensions, each of which continues to evolve:
+The Nine-in-One configuration appears natural, but behind it lie many structural tensions, each still evolving:
 
 ### Upgrading vs. Local Self-Governance
 
-"Upgrading" is a core concept in Taiwan's urban governance — moving from a province-administered city to a special municipality changes budget scale, staffing, and administrative hierarchy. But upgrading also carries the side effect of "losing elected chiefs": the elected status of a county-administered city mayor disappears upon upgrade (replaced by an appointed district mayor).
+"Upgrading" is the core concept of Taiwan's urban governance — from provincial city to special municipality, budget scale, personnel establishment, and administrative level all change. But upgrading brings the side effect of "losing elected chiefs": originally county-administered "city mayors" lost their elected status upon upgrade (becoming appointed district chiefs).
 
-This side effect occurred on a large scale during the 2010 Five Municipalities upgrade, particularly stripping the elected status of the chiefs of Kaohsiung County's three mountain indigenous townships (Namaxia / Taoyuan / Maolin). The same controversy was triggered again during the 2014 Taoyuan upgrade (Fuxing Township). The Legislative Yuan addressed this in 2014 through amendments to the Local Government Act, creating the "mountain indigenous district mayor" office as a remedy.
+This side effect occurred at scale for the first time in the 2010 Five Special Municipalities upgrade, especially Kaohsiung County's three mountain indigenous townships (Namasia, Taoyuan, Maolin) losing their elected township chiefs. In 2014, Taoyuan's upgrade triggered the same dispute (Fuxing Township). The Legislative Yuan in 2014 created the "Special Municipality Mountain Indigenous District Chief" position via _Local Government Act_ amendment as remedy.
 
-But the elected status of plainland township and city mayors continues to be lost due to upgrading — this structural issue has not yet been broadly remedied [^10].
+But the loss of elected township/city chief status in plains areas due to upgrading remains unresolved to this day [^10].
 
-### Divergence Between Special Municipality Councilors and Legislators
+### Special Municipality Councilors vs. Legislators: Institutional Divergence
 
-In 2008, legislators shifted to a "single-district two-vote system" (constituency + party list), while county and city councilors still use the 1980s-designed "Single Non-Transferable Vote (SNTV) in multi-member districts" — both are elected representatives, but the institutional designs are completely different.
+Legislators shifted to a "single-member district two-vote system" (constituency + party list) in 2008, while county/city councilors to this day remain on the 1980s-designed "SNTV" system — both are elected representatives, but institutional design is completely different.
 
-This divergence has persisted for 18 years. It is rooted in the entrenchment of local factions and party interests — but SNTV's impact on small parties / third forces / pluralistic representation is far deeper at the councilor level than at the legislator level. For details, see 議員制度 (Councilor System).
+This divergence has persisted for 18 years. Behind it lies the binding of local factions and party interests — but SNTV's impact on small parties / third forces / diverse representation is far deeper at the councilor level than for legislators. Details at [Councilor System](/en/politics/city-councilor-system-taiwan/).
 
-### The Scale Paradox of Village and Borough Wardens
+### The Village/Neighborhood Chief Scale Paradox
 
-Taiwan has 7,748 village and borough wardens — more than the 6,600+ 7-Eleven stores. Every four years, 7,748 small-scale elections take place simultaneously. But the average electorate per village or borough is only 2,000–5,000 people, making the political economy of this office fundamentally different from the other eight — independents dominate, re-election rates exceed 80%, the monthly subsidy of NT$45,000 is not classified as a salary, and factional and personal relationships matter more than party affiliation [^11].
+7,748 village/neighborhood chiefs nationwide — more than 7-Eleven's 6,600+ stores. Every four years, 7,748 small elections run simultaneously. But each village/neighborhood averages only 2,000–5,000 voters; this position's political economy differs completely from the other eight — independent-dominant, reelection rate over 80%, monthly allowance NT$54,000 (not a salary), faction and personal connections matter more than party affiliation [^11].
 
-For a detailed discussion, see 村里長制度 (Village and Borough Warden System).
+Detailed discussion at [Village/Neighborhood Chief System](/en/politics/village-chief-system/).
 
-### The Dual Identity of Indigenous Districts
+### Dual Identity of Indigenous Districts
 
-Mountain indigenous district mayors are legally both "special municipality districts" and "indigenous self-governance units" — a dual identity that creates multiple tensions in resource allocation, cultural policy, and land management. District mayors must coordinate across three layers: the special municipality government, the central Council of Indigenous Peoples, and tribal councils — a role entirely different from that of an ordinary "district mayor."
+Special municipality mountain indigenous districts are legally both "special municipality districts" + "indigenous self-governance units" — dual identity creating multi-layered tensions in resource allocation, cultural policy, land management. District chiefs must coordinate among the special municipality government, the central Council of Indigenous Peoples, and tribal councils — completely different from ordinary "district chiefs."
 
-For details, see 直轄市山地原住民區長 (Special Municipality Mountain Indigenous District Mayors).
-
----
-
-## The Concrete Scenario: Nine Offices on One Ballot
-
-On Saturday, November 28, 2026, at 8:00 AM, polling stations across all 22 counties and cities open simultaneously [^12]. A voter entering a polling station goes through the following process:
-
-1. **Check-in** — Present national ID and seal. Staff verify against the voter registry.
-2. **Receive ballots** — Depending on household registration location, receive the corresponding ballots. Special municipality voters receive: special municipality mayor / special municipality councilor / borough warden — three ballots (six special municipality population = approx. 15 million voters). Non-special-municipality voters receive: county/city mayor / county/city councilor / township/city mayor / township/city councilor / village warden or borough warden — five ballots (other counties and cities = approx. 8 million voters).
-3. **Enter the voting booth** — Mark one candidate on each ballot. Village warden candidates may number 3–10; councilor candidates may number 30–50 (multi-member districts). Average ballot-reading time is 5–15 minutes.
-4. **Cast votes** — Deposit each ballot into its corresponding ballot box.
-
-Of the nine offices, each voter actually receives 3–5 ballots (depending on whether their household registration is in a special municipality, a mountain indigenous district, or an outlying island). Indigenous voters additionally receive indigenous councilor / district mayor / district councilor ballots.
-
-Actual ballot colors: special municipality mayor (red) / county/city mayor (red) / special municipality councilor (yellow) / county/city councilor (yellow) / township/city mayor (white) / township/city councilor (white) / village/borough warden (green) / mountain indigenous district mayor (blue) / mountain indigenous district councilor (blue) — color coding prevents depositing ballots in the wrong box [^13].
+Details at [Special Municipality Mountain Indigenous District Chiefs](/en/politics/indigenous-district-chief-system/).
 
 ---
 
-## International Comparison: Is "Nine-in-One" Unique to Taiwan?
+## Concrete Scenario: One Ballot, Nine Positions
 
-Democratic countries around the world design "same-day voting" differently. Taiwan's "Nine-in-One" is relatively complex but not unique:
+On Saturday, November 28, 2026 at 8:00 AM, polling stations across all 22 counties/cities open simultaneously [^12]. A voter entering a polling station experiences the following flow:
 
-**United States:** Federal / state / local elections are often spread across different years. But on certain election days (the first Tuesday in November), voters may cast ballots for president + Congress + governor + local referendums + local councilors + mayors + judges (some states elect judges) — in Texas, a single day may feature more than 20 items on the ballot [^14].
+1. **Check-in** — Present ID card and seal. Staff verify against electoral roll
+2. **Receive ballots** — Receive corresponding ballots based on registered residence. Special municipality voters receive: special municipality mayor / special municipality councilor / neighborhood chief — three ballots (six special municipalities = ~15 million voters). Non-special-municipality voters receive: county/city mayor / county/city councilor / township/city mayor / township/city council representative / village or neighborhood chief — five ballots (other counties/cities = ~8 million voters)
+3. **Enter voting booth** — Mark one candidate on each ballot. Village/neighborhood chief candidates may number 3–10, councilor candidates 30–50 (multi-member districts), average reading/voting time 5–15 minutes
+4. **Cast ballots** — Deposit each ballot into the corresponding ballot box for the nine positions
 
-**Japan:** Unified local elections are held every four years, with same-day voting for governors / prefectural assembly members / municipal mayors / municipal assembly members. But these four categories of elections are not on a uniform national date — each prefecture can choose a different voting day. The degree of "unification" is lower than in Taiwan [^15].
+Among the nine positions, each voter actually receives 3–5 ballots (depending on whether registered in a special municipality, mountain indigenous district, offshore islands, etc.). Indigenous voters additionally receive indigenous legislator / district chief / district council representative ballots.
 
-**South Korea:** "전국동시지방선거" (Nationwide Simultaneous Local Elections) are held every four years, with same-day voting for metropolitan city/province governors / superintendents of education / metropolitan city/province councilors / district/city/county chiefs / district/city/county councilors / school board members / proportional representative councilors / education committee members — similar in logic to Taiwan's Nine-in-One, but with an independent superintendent of education election (the education chief is independent of the executive chief) [^16].
-
-**United Kingdom:** Local elections are spread out, with city council / county council / police commissioner elections often on different dates. The number of offices voted on the same day is usually fewer than three.
-
-**Germany:** Under federalism, the dates of state-level local elections are determined by each state. The number of offices voted on the same day varies by state (usually 1–3).
-
-From an international perspective, Taiwan's Nine-in-One framework is closest to the South Korean model — same-day voting for multiple offices on a uniform national date. The difference is Taiwan's independent "mountain indigenous district" offices — a concrete institutional response to indigenous self-governance rights that most countries lack.
+Actual ballot colors: Special municipality mayor (red) / County/city mayor (red) / Special municipality councilor (yellow) / County/city councilor (yellow) / Township/city mayor (white) / Township/city council representative (white) / Village/neighborhood chief (green) / Mountain indigenous district chief (blue) / Mountain indigenous district council representative (blue) — color coding prevents miscasting [^13].
 
 ---
 
-## Why This Framework Is Worth Cherishing
+## Cross-National Comparison: Is "Nine-in-One" Unique to Taiwan?
 
-The Nine-in-One was not a final design planned in 1947 at the time of constitutional drafting — it is the result of 65 years of gradual accumulation from 1950 to 2014. Each office has its own historical story, and each institutional milestone corresponds to a choice made in its era.
+Democracies worldwide design "same-day voting" differently. Taiwan's "Nine-in-One" is relatively complex but not unique:
 
-**For voters**, this framework means that behind a single ballot lies a complete local self-governance system — from village wardens to special municipality mayors, from township councilors to county/city councilors, every four years the people can simultaneously re-elect all local chiefs and representatives. This is rare in the world.
+**United States**: Federal / state / local elections often scattered across different years. But some Election Days (first Tuesday in November) may see same-day voting for president + Congress + governor + local referendums + local councilors + mayor + judges (some states elect judges) — in Texas a single day may have over 20 items [^14].
 
-**For candidates**, this framework means diverse campaign logics — special municipality mayors rely on policy debates, councilors rely on SNTV vote management, village wardens rely on local relationship-building, and indigenous district chiefs rely on tribal networks. The political economy of each office is entirely different, but same-day voting means all candidates share the same election cycle.
+**Japan**: Unified local elections every 4 years, same-day voting for governors / prefectural assembly members / municipal mayors / municipal assembly members. But these four positions' elections are not nationally unified in date — each prefecture may choose different voting days. "Unified" degree lower than Taiwan [^15].
 
-**For democratic infrastructure**, this framework means that the CEC, county and city election commissions, the Household Registration Administration, the National Police Agency, the Investigation Bureau, the Control Yuan, media outlets, civil society groups, g0v engineers, and fact-checking centers — an entire ecosystem of institutions stress-tests its capabilities in a single-day exercise every four years.
+**South Korea**: "전국동시지방선거" (Nationwide Simultaneous Local Elections) every 4 years, same-day voting for metropolitan governors / superintendents of education / metropolitan councilors / district/county chiefs / district/county councilors / school board members / proportional representatives / education committee members, etc. — logic similar to Taiwan's Nine-in-One, but with independent superintendent of education elections (education chief independent of administrative chief) [^16].
 
-The November 28, 2026 election will be Taiwan's sixth Nine-in-One same-day vote. Each one is a stress test of this infrastructure. For detailed 2026 election context and external pressure analysis, see 2026 九合一選舉 (2026 Nine-in-One Elections).
+**United Kingdom**: Local elections scattered; city councils / county councils / police and crime commissioner elections often on different dates. Same-day voting positions usually fewer than 3 types.
 
-Complete set of related institutional articles: 投票權門檻歷史 (Voting Rights Threshold History) · 政治獻金透明度 (Political Donation Transparency) · 中選會制度 (CEC System) · 議員制度 (Councilor System) · 村里長制度 (Village and Borough Warden System) · 直轄市山地原住民區長 (Special Municipality Mountain Indigenous District Mayors) · 選舉公報 (Election Bulletins)
+**Germany**: Under federalism, each state determines its own local election dates. Same-day voting positions vary by state (usually 1–3 types).
 
-Curated hub for democratic infrastructure: [Politics Hub](/politics)
+From a cross-national view, Taiwan's Nine-in-One configuration resembles the South Korean model — same-day voting for multiple positions with nationally unified date. The difference is Taiwan's independent "Special Municipality Mountain Indigenous District" positions — a concrete institutional response to indigenous self-governance rights that most countries lack.
+
+---
+
+## Why This Configuration Is Worth Cherishing
+
+The Nine-in-One was not a final design planned at the 1947 Constitution; it is the cumulative result of sixty-five continuous years from 1950–2014. Each position has its own historical story; each institutional milestone corresponds to an era's choices.
+
+**For voters**, this configuration means a single ballot backs a complete local self-governance system — from village/neighborhood chief to special municipality mayor, from township/city council representative to county/city councilor, every four years the people can simultaneously recombine all local elected chiefs and representatives. This is rare globally.
+
+**For candidates**, this configuration means diverse campaign logic — special municipality mayors rely on policy debates, councilors on SNTV vote allocation, village/neighborhood chiefs on local cultivation, indigenous district chiefs on tribal networks. Each position's political economy is completely different, but same-day voting lets all candidates share a single election cycle.
+
+**For democratic infrastructure**, this configuration means the CEC, county/city election commissions, household registration offices, police agencies, Investigation Bureau, Control Yuan, media, civic groups, g0v engineers, fact-check centers — an entire institutional suite stress-tests its capabilities every four years in the same-day pressure test.
+
+The November 28, 2026 election is Taiwan's sixth Nine-in-One same-day vote. Each is a stress test of this infrastructure. For detailed 2026 election context and external pressure analysis, see [2026 Nine-in-One Elections](/en/politics/2026-local-elections-taiwan/).
+
+Full institutional-layer related articles: [Voting Rights Threshold History](/en/politics/voting-rights-threshold-history/) · [Political Donation Transparency](/en/politics/political-donation-transparency/) · [CEC System](/en/politics/central-election-commission/) · [Councilor System](/en/politics/city-councilor-system-taiwan/) · [Village/Neighborhood Chief System](/en/politics/village-chief-system/) · [Special Municipality Mountain Indigenous District Chiefs](/en/politics/indigenous-district-chief-system/) · [Election Gazette](/en/politics/election-bulletin-system/)
+
+Democratic infrastructure curation main entry: [Politics Hub](/politics)
 
 🧬
 
@@ -209,38 +209,38 @@ Curated hub for democratic infrastructure: [Politics Hub](/politics)
 
 ## References
 
-[^1]: [2014 Republic of China Local Public Office Elections — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — 2014 Nine-in-One Elections entry, the first complete nine-office same-day vote
+[^1]: [14th Republic of China Local Public Officials Election — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — 2014 Nine-in-One Election entry, first complete same-day voting for nine positions
 
-[^2]: [Republic of China Local Public Office Elections — Wikipedia Overview](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Republic of China Local Public Office Elections — Wikipedia Overview entry, official data source
+[^2]: [Republic of China Local Public Officials Elections — Wikipedia Overview](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Republic of China Local Public Officials Elections — Wikipedia Overview official data source
 
-[^3]: [2026 Republic of China Local Public Office Elections — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — CEC 2026 election schedule
+[^3]: [2026 Republic of China Local Public Officials Election — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — CEC 2026 election schedule
 
-[^4]: [Civil Servants Election and Recall Act — National Repository of Laws and Regulations](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Civil Servants Election and Recall Act — National Repository of Laws and Regulations, official data source
+[^4]: [Public Officials Election and Recall Act — National Law Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Public Officials Election and Recall Act — National Law Database official data source
 
-[^5]: [Republic of China Counties and Cities — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Republic of China Counties and Cities — Wikipedia, official data source
+[^5]: [Republic of China Counties and Cities — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Republic of China Counties and Cities — Wikipedia official data source
 
-[^6]: [Taipei City Administrative History — Taipei City Department of Civil Affairs](https://ca.gov.taipei/) — Taipei City Administrative History — Taipei City Department of Civil Affairs, official data source
+[^6]: [Taipei Administrative History — Taipei City Government Department of Civil Affairs](https://ca.gov.taipei/) — Taipei Administrative History — Taipei City Government Department of Civil Affairs official data source
 
-[^7]: [1994 Republic of China Special Municipality Mayor Elections — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — 1994 Republic of China Special Municipality Mayor Elections — Wikipedia, official data source
+[^7]: [1994 Republic of China Special Municipality Mayors Election — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — 1994 Republic of China Special Municipality Mayors Election — Wikipedia official data source
 
-[^8]: [2010 Republic of China Special Municipality Restructuring — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — 2010 Republic of China Special Municipality Restructuring — Wikipedia, official data source
+[^8]: [2010 Republic of China Special Municipality Restructuring — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — 2010 Republic of China Special Municipality Restructuring — Wikipedia official data source
 
-[^9]: [Local Government Act — National Repository of Laws and Regulations](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Articles 83-1 to 83-12 (Mountain Indigenous Districts of Special Municipalities)
+[^9]: [Local Government Act — National Law Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Articles 83-1 to 83-12 (Special Municipality Mountain Indigenous Districts)
 
-[^10]: [The Reporter — Lost Elected Offices After Upgrading](https://www.twreporter.org/) — Analysis of upgrading side effects (specific article link pending)
+[^10]: [The Reporter — Lost Elections After Upgrading](https://www.twreporter.org/) — Upgrade side effects analysis (specific report link pending)
 
-[^11]: [Ministry of the Interior Department of Civil Affairs — Village and Borough Warden Basic Data](https://www.moi.gov.tw/) — Ministry of the Interior Department of Civil Affairs — Village and Borough Warden Basic Data, official data source
+[^11]: [In Line with Military/Public/Teaching Pay Raise! MOI Increases Councilor Assistants and Village/Neighborhood Chief Allowances Effective 7/1, Additional 4% Increase Next New Year's Day — MOI](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — MOI Department of Civil Affairs July 16, 2026 press release: village/neighborhood chief affairs allowance raised from NT$50,000 to NT$54,000 monthly effective July 1, 2026; indigenous areas from NT$60,000 to NT$64,800.
 
-[^12]: [Central Election Commission — 2026 Election Schedule](https://web.cec.gov.tw/) — Central Election Commission — 2026 Election Schedule, official data source
+[^12]: [Central Election Commission — 2026 Election Schedule](https://web.cec.gov.tw/) — Central Election Commission — 2026 Election Schedule official data source
 
-[^13]: CEC Election Bulletin — Ballot color design
+[^13]: CEC Election Gazette — Ballot Color Design
 
-[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Federal Election Commission — Election Day, official data source
+[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Federal Election Commission — Election Day official data source
 
-[^15]: [統一地方選挙 — Wikipedia (Japanese)](https://ja.wikipedia.org/wiki/統一地方選挙) — 統一地方選挙 — Wikipedia (Japanese), official data source
+[^15]: [Unified Local Elections — Japanese Wikipedia](https://ja.wikipedia.org/wiki/統一地方選挙) — Unified Local Elections — Japanese Wikipedia official data source
 
-[^16]: [전국동시지방선거 — Wikipedia (Korean)](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipedia (Korean), official data source
+[^16]: [Nationwide Simultaneous Local Elections — Korean Wikipedia](https://ko.wikipedia.org/wiki/전국동시지방선거) — Nationwide Simultaneous Local Elections — Korean Wikipedia official data source
 
 ---
 
-_v1.0 | 2026-05-27 | Born from Zheyu's directive "help me place all article-type pieces one by one into article-inbox" + Option D decision, Tier 1.1 #1 anchor article._
+_v1.0 | 2026-05-27 | Born from Zheyu directive "put all article-type content into article-inbox one by one" + Option D sign-off Tier 1.1 #1 anchor article._

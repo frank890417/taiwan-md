@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-07-26T11:16:39+08:00'
+translatedAt: '2026-11-05T06:34:42.755047+00:00'
 ---
 
 > **30 giây tóm tắt:** Đảo này không chỉ đa dạng về thế giới tự nhiên, mà còn là kho báu về thần thoại văn hóa. Từ truyền thuyết sáng tạo của tộc Thái Dương với viên đá nứt, đến truyền thuyết bắn mặt trời của tộc Bụ Ngôn, rồi đến truyền thuyết lũ lụt và hôn nhân anh em của tộc A Mi, những câu chuyện truyền miệng này không chỉ xây dựng quan niệm vũ trụ của từng tộc đồng bọc, mà còn phản ánh trí tuệ sâu sắc về sự tương tác và thích nghi với môi trường tự nhiên. Những thần thoại này chính là chìa khóa không thể thiếu để hiểu văn hóa nguyên dân Tây Ban Nha.

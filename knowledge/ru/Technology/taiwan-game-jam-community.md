@@ -2,19 +2,21 @@
 title: 'Сообщество Game Jam Тайваня'
 description: 'От появления Global Game Jam на Тайване до KUSO GAME JAM с философией «плохой работы» — как сообщество Game Jam Тайваня за десять лет стало инкубатором и полигоном для инди-игр'
 date: 2026-04-27
-author: 'tppr2046'
 category: 'Technology'
-subcategory: '遊戲產業'
 tags: ['Игры', 'Инди-игры', 'Game Jam', 'Сообщество', 'KUSO', 'Творчество']
+subcategory: '遊戲產業'
 readingTime: 8
+author: 'tppr2046'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-07-25T05:00:16+08:00'
+translatedAt: '2026-11-04T17:32:45.178523+00:00'
 ---
 
 # Сообщество Game Jam Тайваня

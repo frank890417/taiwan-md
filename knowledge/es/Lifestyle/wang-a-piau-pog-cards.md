@@ -1,27 +1,30 @@
 ---
-title: 'Wang-a-piao: de los panfletos electorales al campo de batalla infantil, las cartas de combate de la memoria taiwanesa'
-description: 'En la década de 1950, los escolares taiwaneses sostenían entre sus manos cartas circulares impresas con personajes de títeres de bolsa (布袋戲) y de cómics, que protagonizaban intensos duelos en los patios escolares. Inspirado en el juego japonés "menko" (面子), y tras el cambio de material impulsado por el auge de la industria del plástico, el wang-a-piao alberga la memoria colectiva de varias generaciones y refleja la transformación sociocultural de Taiwán.'
+title: 'Wāng-á-biāu: De folletos electorales a campos de batalla infantiles, las cartas de combate en la memoria de Taiwán'
+description: 'En la década de 1950, los estudiantes taiwaneses utilizaban cartas circulares con imágenes de personajes de ópera de títeres y cómics para librar intensas batallas en los patios escolares. Desde su inspiración en el juego japonés "Menko" hasta el cambio de materiales tras el auge de la industria del plástico, las Wāng-á-biāu portan una memoria colectiva que atraviesa generaciones y refleja la evolución sociocultural de Taiwán.'
 date: 2026-04-27
-author: 'Taiwan.md Contributors'
-category: Lifestyle
+category: 'Lifestyle'
 tags:
   [
-    juguetes infantiles,
-    wang-a-piao,
-    cultura taiwanesa,
-    nostalgia,
-    juegos,
-    elecciones,
+    'juegos infantiles',
+    'Wāng-á-biāu',
+    'cultura taiwanesa',
+    'nostalgia',
+    'juego',
+    'elecciones',
   ]
-readingTime: 10
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-featured: false
-translatedFrom: Lifestyle/尪仔標.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Lifestyle/尪仔標.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-05-16T22:35:47Z'
+translatedAt: '2026-11-04T18:03:56.182682+00:00'
 ---
 
 > **Panorama en 30 segundos:** Desde la década de 1950, el "wang-a-piao" (尪仔標) en Taiwán era el juego de los niños y también una medida de estatus entre compañeros: cuantas más cartas se coleccionaban, mayor peso social se tenía en el patio escolar después de clase. Estas cartas de papel, originarias del juego de hojas chino (葉子戲) e inspiradas en los juguetes infantiles japoneses, pasaron de fabricarse en metal a plástico, con patrones que iban desde títeres de bolsa hasta cómics, y con diversas formas de juego, albergando la memoria colectiva de varias generaciones de taiwaneses. Lo más singular es que, en Taiwán, incluso los panfletos electorales podían ser transformados por los niños en "wang-a-piao", convirtiéndose en armas alternativas en el campo de batalla infantil.

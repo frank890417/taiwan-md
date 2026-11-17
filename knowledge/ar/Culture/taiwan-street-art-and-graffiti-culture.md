@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T19:27:01.004244+00:00'
+translatedAt: '2026-11-02T01:43:29.003009+00:00'
 ---
 
 # الفن الشارعي وثقافة الغرافيتي في تايوان
@@ -83,7 +83,7 @@ translatedAt: '2026-10-15T19:27:01.004244+00:00'
 
 [^6]: [الموقع الرسمي لـ باو! واو! تايوان](https://powwowtaiwan.com/) — سجل أنشطة مهرجان تايوان الدولي للفن الشارعي عبر السنين.
 
-## قراءات مقترحة
+## قراءة إضافية
 
-- [الفن المعاصر في تايوان](/culture/台灣當代藝術) — تقاطع الفن الشارعي التايواني مع منظومة الفن المعاصر
-- [الموسيقى الإلكترونية وثقافة الحفلات في تايوان](/ar/music/taiwan-electronic-music-and-party-culture) — مشهد الموسيقى الإلكترونية الذي يشارك الجذور الفرعية مع الفن الشارعي
+- [الفن المعاصر في تايوان](/ar/art/contemporary-art) — التقاطع بين فن الشارع والنظام البيئي للفن المعاصر في تايوان.
+- [الموسيقى الإلكترونية وثقافة الحفلات في تايوان](/ar/music/taiwan-electronic-music-and-party-culture) — مشهد الموسيقى الإلكترونية الذي يتشارك مع فن الشارع في الجذور الثقافية الفرعية.

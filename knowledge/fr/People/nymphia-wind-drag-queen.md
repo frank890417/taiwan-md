@@ -2,6 +2,7 @@
 title: "Du sous-sol au palais présidentiel : l'histoire d'autonomisation de Nymphia Wind et des drag queens taïwanaises"
 description: "Un garçon taïwanais autrefois harcelé pour son expression de genre a porté l'art du drag, longtemps considéré comme une sous-culture, sur la scène internationale. En faisant de la « banane » son symbole, il a permis au monde de découvrir la diversité et la confiance en soi de Taïwan."
 date: 2026-04-18
+category: 'People'
 tags:
   [
     'Nymphia Wind',
@@ -11,16 +12,18 @@ tags:
     'culture taïwanaise',
     "RuPaul's Drag Race",
   ]
-category: 'People'
+subcategory: '音樂與表演'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: People/妮妃雅.md
-sourceCommitSha: '4b6d28c5'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/妮妃雅.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-04T20:28:15.750721+00:00'
 ---
 
 > **En bref (30 secondes) :** En 2024, la drag queen taïwanaise Nymphia Wind a remporté la saison 16 de _RuPaul's Drag Race_, l'émission de téléréalité la plus regardée au monde dans le domaine du drag, devenant ainsi la première personne originaire de Taïwan à obtenir cet honneur. Sa victoire a non seulement propulsé l'art du drag taïwanais sur la scène internationale, mais coïncidait également avec la « Journée de l'éducation à l'égalité des genres » à Taïwan, conférant à cet accomplissement une portée symbolique profonde. Des fêtes clandestines au palais présidentiel, le parcours de Nymphia Wind incarne près de 30 ans d'autonomisation des minorités de genre à Taïwan. En faisant de la « banane » son emblème, elle a intimement mêlé son expérience personnelle à la culture taïwanaise, proclamant haut et fort l'existence et la confiance de Taïwan au monde entier.

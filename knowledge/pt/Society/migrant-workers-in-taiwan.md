@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:01:32+08:00'
+translatedAt: '2026-11-04T19:01:06.544879+00:00'
 ---
 
 > **Visão geral em 30 segundos:** No Taiwan de 2026, uma em cada 26 pessoas é um trabalhador migrante internacional. O total já subiu para 873 mil; se contarmos os cerca de 94 mil migrantes desaparecidos, esse grupo de forasteiros já ultrapassa 5% da população residente de Taiwan. Do cultura de transmissões ao vivo no saguão da Estação de Taipé, à insistência da Grande Marcha dos Migrantes pela "abolição do limite de anos de trabalho", até a onda de "oposição aos trabalhadores migrantes indianos" cuja petição superou 40 mil assinaturas em abril de 2026, Taiwan encontra-se no cruzamento entre uma escassez extrema de mão de obra e a ansiedade pela inclusão social. Não é apenas política trabalhista; é uma prova coletiva sobre como Taiwan define "nós".

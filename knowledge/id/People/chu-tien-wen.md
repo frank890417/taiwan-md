@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T20:38:43.137249+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipei, dari "San San Jikan" ke "Beiqing Chengshi" Golden Lion Venice

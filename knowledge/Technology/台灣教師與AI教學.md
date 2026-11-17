@@ -19,6 +19,8 @@ rationale:
   whats_excluded: '不列舉各家生成式 AI 產品功能，也不把私人 Notion 研究筆記當成公開證據。'
   where_it_hedges: '兩份台灣問卷與 OECD TALIS 標明不同樣本，僅作並置觀察，不作直接因果推論。'
   whos_pushing_back: '回應「多買工具就能推動 AI 教育」的想像，也保留教師工作量、資安與學生主體性的反方。'
+curation: incubating
+curationReason: unverified
 ---
 
 # AI 走進教室：三百支代理人，接住培訓後孤單的老師
@@ -151,10 +153,10 @@ _教育部把 2026 至 2029 年計畫濃縮成三個方向：學習環境、跨�
 
 ## 圖片來源
 
-| 檔案                                                    | 描述                                             | 來源                                                                                                                                                                     | 授權      |
-| ------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| `taiwan-students-digital-learning-2019.webp`（hero）    | 雲林縣褒忠國中學生使用均一教育平台，2019 年     | [褒忠國中 雲端網，via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg)                              | CC BY 2.0 |
-| `taiwan-moe-ai-talent-ark-2026.webp`                    | 教育部 AI 人才方舟計畫三大方向政策圖，2026 年   | [教育部 AI 人才方舟計畫](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                                                      | 官方政策圖編輯引用 |
+| 檔案                                                 | 描述                                          | 來源                                                                                                                                           | 授權               |
+| ---------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| `taiwan-students-digital-learning-2019.webp`（hero） | 雲林縣褒忠國中學生使用均一教育平台，2019 年   | [褒忠國中 雲端網，via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0          |
+| `taiwan-moe-ai-talent-ark-2026.webp`                 | 教育部 AI 人才方舟計畫三大方向政策圖，2026 年 | [教育部 AI 人才方舟計畫](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                           | 官方政策圖編輯引用 |
 
 ## 參考資料
 

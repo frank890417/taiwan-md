@@ -1,14 +1,14 @@
 ---
-title: 'Wanwan: el calvo que dio rostro a una generación de oficinistas, y Hu Chia-wei, quien lo hizo “convertirse en personaje histórico”'
-description: 'En la época en que las oficinas todavía se comunicaban por MSN, los oficinistas que no se atrevían a decírselo al jefe cambiaban su avatar por un calvo sin ropa, con un solo rizo en la cabeza, para que gritara por ellos: “quiero salir del trabajo”. Hu Chia-wei, quien lo dibujó, pasó de ser una asistente de diseño con sueldo mensual de 9.000 dólares taiwaneses a convertirse, por accidente, en autora del primer blog de Taiwán en superar los cien millones de visitas y en pionera de la creación gráfica-textual. El calvo será siempre ingenuo y no envejecerá; la persona que lo dibuja, en cambio, sí crece. Por eso ella decidió que el personaje se retirara junto con ella y “se convirtiera en personaje histórico”.'
+title: 'Wan Wan: El hombre calvo que Hu Jia-wei dibujó para la generación MSN y la decisión de convertirlo en un «personaje histórico»'
+description: 'Wan Wan, cuyo nombre real es Hu Jia-wei, es una pionera de la creación de contenido gráfico en internet en Taiwán. A principios de la década de 2000, su personaje del hombre calvo fue adoptado por los trabajadores de oficina como foto de perfil en MSN para expresar su deseo de «querer salir del trabajo»; en 2007, su blog se convirtió en el primero en Taiwán en superar los cien millones de visitas, y más tarde se expandió a los stickers de LINE y WEBTOON. Tras convertirse en madre, su creación se ha centrado en la vida cotidiana de padres e hijos, y ha decidido dejar que el hombre calvo, que nunca envejece, se retire junto con ella para «convertirse en un personaje histórico».'
 date: 2026-06-29
 category: 'People'
 tags:
   [
-    'Wanwan',
-    'Hu Chia-wei',
+    'Wan Wan',
+    'Hu Jia-wei',
     'ilustración',
-    'creación gráfica-textual',
+    'creación de contenido gráfico',
     'era MSN',
     'cultura de internet',
   ]
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T01:40:15.380595+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-04T14:37:45.008491+00:00'
 ---
 
-# Wanwan: el calvo que dio rostro a una generación de oficinistas, y Hu Chia-wei, quien lo hizo “convertirse en personaje histórico”
+# Wanwan: el hombre calvo que Hu Chia-wei dibujó para la generación de MSN y su decisión de convertirlo en un «personaje histórico»
 
-A comienzos de la década de 2000, un oficinista de Taipéi encendía la computadora e iniciaba sesión en MSN Messenger. Cambiaba su avatar por un muñequito: sin ropa, con la cabeza redonda y calva, apenas un rizo bobo en la coronilla, una expresión medio muerta en la cara y, al lado, tres caracteres: “quiero salir del trabajo”.
+A principios de la década de 2000, un empleado de oficina en Taipéi encendió su ordenador e inició sesión en MSN Messenger. Cambió su foto de perfil por la de un personajito: sin ropa, con una cabeza calva y redonda, un único pelo rizado en la coronilla y una expresión de desgano en el rostro; junto a él, tres palabras: «Quiero irme a casa».
 
-Él no se atrevía a decirle eso al jefe. Pero aquel calvo lo decía por él.
+No se atrevía a decirle eso directamente a su jefe. Pero ese hombre calvo lo hizo por él.
 
-Era una época en que los teléfonos móviles todavía servían solo para llamar y enviar SMS. No había stickers de LINE ni historias efímeras; todas las emociones de la oficina quedaban comprimidas en una ventana de MSN que aún no podía cerrarse porque la jornada no había terminado. Y ese calvo —al que más tarde todos llamarían “Wanwan”—, desde el pequeño recuadro de aquella ventana, gritó por todas las oficinas de Taiwán: ocupado, somnoliento, triste, cansado, harto, ocioso[^1].
+Era la época en la que los teléfonos móviles solo servían para llamar y enviar SMS. No había stickers de LINE ni historias de Instagram; todas las emociones de la oficina se concentraban en una ventana de MSN que aún no se había cerrado porque la jornada laboral no había terminado. Y ese hombre calvo (al que más tarde todos llamarían «Wanwan») estaba allí, en el pequeño recuadro de esa ventana, gritando por todos los trabajadores de las oficinas de Taiwán su cansancio, su sueño, su tristeza, su agotamiento, su fastidio y su aburrimiento[^1].
 
-![Wanwan en el puesto de United Online durante la Feria Internacional del Libro de Taipéi de 2008](/article-images/people/wanwan-2008-book-fair.webp)
-_Wanwan en el puesto de United Online (UDN) durante la Feria Internacional del Libro de Taipéi de 2008. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![2008 年台北國際書展，彎彎在聯合線上攤位](/article-images/people/wanwan-2008-book-fair.webp)
+_Wanwan en el stand de United Daily News (UDN) durante la Feria Internacional del Libro de Taipéi de 2008. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Panorama en 30 segundos:** Wanwan, cuyo nombre real es Hu Chia-wei, es la pionera de la creación gráfica-textual en internet en Taiwán. Comenzó como asistente de diseño con un sueldo mensual de 9.000 dólares taiwaneses, “revolcándose todos los días en obras de construcción”; por aburrimiento dibujó en MSN algunas pequeñas imágenes que encajaban con su estado de ánimo y, de manera inesperada, se hizo famosa en todo Taiwán. En 2007, su blog personal se convirtió en el primer blog taiwanés en superar los cien millones de visitas; demostró que “se puede vivir de dibujar”, y detrás de ella llegó toda una generación de creadores gráficos-textuales. Lo más conmovedor de su historia está en la decisión que tomó respecto del personaje creado por su pluma: el calvo será siempre ingenuo y no envejecerá, pero la persona que lo dibuja sí crece y se cansa. Por eso Hu Chia-wei dijo que quería que el personaje se retirara junto con ella y “se convirtiera en personaje histórico”.
+> **Resumen en 30 segundos:** Wanwan, cuyo nombre real es Hu Chia-wei, es la pionera de la creación de contenido gráfico y textual en la red en Taiwán. Comenzó como una asistente de diseño con un sueldo mensual de NT$9,000 que «se las veía negras cada día», y por puro aburrimiento dibujó unos cuantos pequeños gráficos en MSN que reflejaban su estado de ánimo, volviéndose inesperadamente famosa en todo el país. Su blog personal se convirtió en 2007 en el primer blog de Taiwán en superar los cien millones de visitas; ella demostró que «dibujar puede dar de comer», abriendo el camino para toda una generación de creadores de contenido. Lo más conmovedor de su historia reside en la elección que hizo sobre sus personajes: el hombre calvo siempre sería ingenuo y eterno, pero la persona que lo dibujaba crecería y se cansaría; por ello, Hu Chia-wei decidió que el personaje se retiraría junto con ella, para «convertirse en un personaje histórico».
 
 ## Un rizo bobo y un muñequito sin ropa
 

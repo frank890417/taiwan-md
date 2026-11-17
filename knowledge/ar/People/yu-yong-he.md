@@ -2,9 +2,7 @@
 title: 'يو يونغ خه'
 description: 'في عام 1697، تطوّع عالم من هانغتشو للذهاب إلى تايوان أرض الوباء لاستخراج الكبريت، ومشى سيرًا على الأقدام من تاينان إلى بيتو، وكتب أول أدب توثيقي عن شمال تايوان'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史與探險'
 tags:
   [
     'شخصيات',
@@ -16,15 +14,19 @@ tags:
     'كبريت',
     'أدب تايوان',
   ]
-readingTime: 10
+subcategory: '歷史與探險'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-07-25T15:39:23+08:00'
+translatedAt: '2026-11-04T21:36:29.474805+00:00'
 ---
 
 # يو يونغ خه

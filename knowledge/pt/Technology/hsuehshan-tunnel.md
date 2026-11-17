@@ -1,26 +1,30 @@
 ---
-title: 'Túnel Hsuehshan: da "missão impossível" ao milagre de engenharia de Taiwan'
-description: 'Em 15 de dezembro de 1997, um acidente de inrush de água quase ceifou trezentas vidas e transformou a TBM, máquina de escavação que custou bilhões, em sucata. Este túnel, listado pela Encyclopædia Britannica como uma das obras mais árduas do mundo, não é apenas uma artéria de transporte, mas um milagre forjado no quartzo-arenito tetraédrico — mais duro que o aço — por 25 vítimas fatais e incontáveis heróis anônimos.'
+title: 'Túnel Xueshan: da "missão impossível" ao milagre de sangue e lágrimas da engenharia de Taiwan'
+description: 'O Túnel Xueshan tem cerca de 12,9 km de extensão, sendo o túnel rodoviário mais longo de Taiwan. Após sua inauguração em 2006, o trajeto entre Taipei e Yilan foi reduzido de duas horas para cerca de quarenta minutos. Sua escavação levou quinze anos: em 15 de dezembro de 1997, um vazamento de água enterrou uma TBM (máquina de escavação) que custou 1 bilhão, transformando-a em sucata; o quartzo arenito de quatro faces, mais duro que o aço, permitia avançar apenas pouco mais de um metro por dia, levando especialistas internacionais a declararem que era uma missão impossível. A obra da Autoestrada Norte-Yilan teve 25 trabalhadores mortos, cujos nomes estão gravados no memorial na área de serviço de Shiding.'
 date: 2026-04-29
 category: 'Technology'
 tags:
   [
-    'Túnel Hsuehshan',
-    'infraestrutura de transporte',
+    'Túnel Xueshan',
+    'Infraestrutura de transporte',
     'Yilan',
-    'milagre de engenharia',
-    'espírito de Taiwan',
+    'Milagre de engenharia',
+    'Espírito de Taiwan',
   ]
 subcategory: '科技園區'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 12,078 曝光 124 點擊（1.03%），長度問句「雪隧長度」1,032、「雪山隧道有多長」509、「台灣最長的隧道」249 曝光，description 沒給長度；首句放內文的 12.9 公里與台灣最長公路隧道，並把「25 位殉職者」改回內文口徑（北宜高速公路工程全線）'
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:bafa69de0246ccbe'
 sourceBodyHash: 'sha256:d9ab34ee59f266bc'
-translatedAt: '2026-09-07T19:20:47.923245+00:00'
+translatedAt: '2026-11-05T22:17:57.262201+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

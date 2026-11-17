@@ -2,6 +2,7 @@
 title: 'Shen Sheng-Bo'
 description: "Formé en informatique, il a introduit la programmation dans la scène de l'art contemporain à Taïwan. En trente-quatre ans d'existence, Shen Sheng-Bo a laissé bien plus que des œuvres d'art numérique : il a incarné un esprit expérimental qui traite le code comme un mode de vie et le logiciel libre comme une éthique créative."
 date: 2026-03-23
+category: 'People'
 tags:
   [
     'Personnalité',
@@ -12,17 +13,18 @@ tags:
     'Taïwan',
   ]
 subcategory: '藝術與設計'
-category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: 2026-05-16T22:21:10Z
-lastHumanReview: false
+translatedAt: '2026-11-04T21:34:47.774162+00:00'
 ---
 
 # Shen Sheng-Bo

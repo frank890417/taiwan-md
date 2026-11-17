@@ -1,16 +1,16 @@
 ---
-title: 'Pertempuran Pembakar Sampah Mingjian: Ketika Hutang Sampah 300 Ribu Ton Mengancam Industri Teh Terbesar Taiwan'
-description: 'Sampah tertumpuk di Nantou melampaui 310.000 ton pada akhir 2024, memicu krisis "pengepungan sampah". Kepala Daerah Hsu Shu-hua (許淑華) merencanakan pembangunan pembakar sampah berkapasitas 500 ton per hari di Desa Xinmin, Mingjian, yang memicu protes dengan penandatanganan lebih dari 250 akademisi. Ini adalah pertempuran untuk kelangsungan hidup yang melibatkan zona pertanian khusus, habitat kura-kura kunci, dan rantai pasokan daun teh minuman tangan terbesar Taiwan.'
+title: "Pertempuran Insinerator Mingjian: Ketika 300.000 Ton 'Utang Sampah' Menabrak Garis Pertahanan Desa Teh Bernilai Miliaran"
+description: "Timbunan sampah di Kabupaten Nantou melampaui 310.000 ton pada akhir tahun 2024, memicu krisis 'pengepungan sampah'. Bupati Hsu Shu-hua berencana membangun insinerator dengan kapasitas pemrosesan 500 ton per hari di Desa Xinmin, Kota Mingjian, yang memicu petisi protes dari lebih dari 250 akademisi. Ini adalah perang pertahanan hidup yang melibatkan zona pertanian khusus, habitat kura-kura Chai-guan, dan rantai pasokan daun teh minuman boba terbesar di Taiwan."
 date: 2026-04-25
 category: 'Society'
 tags:
   [
     'Nantou',
     'Mingjian',
-    'pembakar sampah',
-    'industri teh',
-    'konservasi ekologi',
-    'masalah sampah',
+    'Insinerator',
+    'Industri Teh',
+    'Konservasi Ekologi',
+    'Masalah Sampah',
     'Hsu Shu-hua',
   ]
 subcategory: '社區與日常'
@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-09-10T10:26:29+08:00'
+translatedAt: '2026-11-04T17:28:54.498351+00:00'
 ---
 
 > **Pandangan 30 detik:**

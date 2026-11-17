@@ -18,11 +18,13 @@ lastVerified: 2026-01-01
 lastHumanReview: true
 summary: '台灣網路創作者。1990 年生於高雄，隔代教養背景。早期以「撩妹語錄」走紅，2019 年因拒絕中資經紀公司審查「總統」稱謂而觸發兩岸脫鉤。2022 年起與前東家爆發長達數年的法律戰，2026 年二審判決出現財務逆轉，揭露了網紅合約分潤的灰色地帶。他是解構認知作戰的「粉紅特報」觀察者，也是台灣首位將「拒絕數位跪下」標籤化的指標人物。'
 coverImage: ''
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/波特王.md'
-sourceCommitSha: '5edf34bcb'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f218c0f6edac6f55'
 sourceBodyHash: 'sha256:bd885df97c7fe1fa'
-translatedAt: '2026-09-22T17:40:24+08:00'
+translatedAt: '2026-11-05T07:02:44.796025+00:00'
 ---
 
 ## 30-Sekunden-Überblick

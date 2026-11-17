@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:fa94afa39f837939'
 sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-07-26T21:33:30+08:00'
+translatedAt: '2026-11-04T23:48:06.239092+00:00'
 ---
 
 # Хуань Чуньмин: 1935 год, Луодун, «День, когда я смотрел на море» и «Кукла в большом плаще сына» — писатель мелкого человека

@@ -2,28 +2,30 @@
 title: 'La batalla de la incineradora de Mingjian: cuando 300.000 toneladas de "deuda de basura" chocan con la línea de supervivencia de un valle del té de diez mil millones'
 description: 'A finales de 2024, los residuos acumulados en el condado de Nantou superaron las 310.000 toneladas, desencadenando una crisis de "asedio de basura". La magistrada Xu Shuhua planeó instalar una incineradora con capacidad de 500 toneladas diarias en la aldea de Xinmin, municipio de Mingjian, lo que provocó una protesta suscrita por más de 250 académicos. Esta es una batalla por la supervivencia de una zona agrícola especial, el hábitat de la tortuga caja de Mauremys mutica y la cadena de suministro de té más grande de Taiwán para la industria de bebidas de té preparado.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Society
-subcategory: '社區與日常'
+category: 'Society'
 tags:
   [
-    Nantou,
-    Mingjian,
-    Incineradora,
-    Industria del té,
-    Conservación ecológica,
-    Problema de residuos,
-    Xu Shuhua,
+    'Nantou',
+    'Mingjian',
+    'Incineradora',
+    'Industria del té',
+    'Conservación ecológica',
+    'Problema de residuos',
+    'Xu Shuhua',
   ]
-readingTime: 15
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Society/名間焚化爐.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Society/名間焚化爐.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: 2026-05-02T01:17:17+08:00
-featured: false
+translatedAt: '2026-11-04T18:05:48.129769+00:00'
 ---
 
 > **Panorama en 30 segundos:**

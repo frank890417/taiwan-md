@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T20:51:12.310162+00:00'
 ---
 
 > **30-Sekunden-Überblick**

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/魏哲家.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-07-26T12:49:16+08:00'
+translatedAt: '2026-11-04T23:20:43.522204+00:00'
 ---
 
 # C.C. Wei: 1953, de Engenharia Eletrônica da Chiao Tung ao Doutorado em Yale à Presidência e CEO da TSMC

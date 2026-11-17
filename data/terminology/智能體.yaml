@@ -1,0 +1,23 @@
+id: 智能體
+category: tech
+subcategory: 人工智慧
+fork_type: C
+display:
+  taiwan: AI 代理
+  china: 智能體
+etymology:
+  origin: 英文 AI agent 的兩種中文譯法。2026 年 OpenClaw（俗稱「養龍蝦」）爆紅時，兩邊的寫法並排可見：中國榜單文寫「OpenClaw开源AI智能体框架」，TVBS 寫「AI代理（AI Agent）工具」，數位時代報導深圳福田區的同一件事，也寫「AI 代理」，全文沒有「智能體」。它跟「智能手機／智慧型手機」是同一條 intelligent 譯法分歧的延伸。
+  fork_cause: 中國沿用「智能」系列譯法，台灣科技媒體把 agent 譯作「代理」。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+status: emerging
+notes: |
+  中國側本輪只有一篇榜單文作為用例，日源與港澳用法未查。
+  「養龍蝦」本身兩岸同形，不是分歧詞，所以不另開條目。
+sources:
+  - https://www.digitaling.com/articles/1561293.html
+  - https://news.tvbs.com.tw/life/3160524
+  - https://www.bnext.com.tw/article/90366/openclaw-ai-agent-security-risk
+added: '2026-11-05'
+updated: '2026-11-05'

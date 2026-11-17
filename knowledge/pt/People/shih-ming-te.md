@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-07-26T14:23:27+08:00'
+translatedAt: '2026-11-04T21:34:59.556719+00:00'
 ---
 
 # Shih Ming-teh: Vinte e cinco anos atrás das grades, afinal ergueu a bandeira contra o próprio partido

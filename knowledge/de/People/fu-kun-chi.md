@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-04T21:15:27.599583+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
@@ -46,20 +48,20 @@ Fujien-kueis Machtbasis beruht auf seiner präzisen Reaktion auf die Bedürfniss
 
 Der Titel „König von Hualien“ ist sowohl das Vertrauen der Hualiener in ihn als auch die Sorge der Außenwelt über die Qualität der lokalen Demokratie Taiwans. Die Geschichte von Fujien-kuei ist nicht nur die Karriere eines einzelnen Politikers, sondern auch ein Spiegelbild der komplexen Wechselwirkungen zwischen lokaler Politik, justizieller Gerechtigkeit und Parteiensystem in Taiwan.
 
-## Quellenangaben
+## Referenzen
 
-[^1]: [Zwei Seiten von Fujien-kuei – Perspektiven auf den König von Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - Reporter The Reporter
+[^1]: [Das zweigesichtige Fu Kun-chi – Eine Perspektive auf das Phänomen des „Königs von Hualien“](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - Berichterstattung durch The Reporter
 
-[^2]: [Ehefrau als Stellvertreterin ernannt: Fujien-kuei wegen Scheidung zu Haftstrafe verurteilt](https://news.tvbs.com.tw/politics/53325) — TVBS Nachrichtennetz: Hualiener Bezirksgericht verurteilt Fujien-kuei wegen gefälschter Dokumente zu sechs Monaten und Xu Zhenwei zu vier Monaten (Hualiener Bezirksgericht 99. Jahr, Fallnummer: 358)
+[^2]: [Ehefrau als Stellvertreterin: Fu Kun-chi wegen vorgetäuschter Scheidung zu 6 Monaten Haft verurteilt](https://news.tvbs.com.tw/politics/53325) — TVBS News: Das Bezirksgericht Hualien verurteilte Fu Kun-chi zu 6 Monaten und Xu Zhen-wei zu 4 Monaten wegen Urkundenfälschung (Strafurteil des Bezirksgerichts Hualien, Fall Nr. 99-Yi-358)
 
-[^3]: [Fujien-kueis Börsenhandelsfall endgültig: Warum als Bürgermeister abgesetzt, als Abgeordneter aber in Haft genommen werden kann?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingrentang: Bericht der United Daily News
+[^3]: [Urteil im Aktienmanipulationsfall von Fu Kun-chi gefällt: Warum führt die Amtsenthebung als Landrat, aber der Gang ins Gefängnis als Legislator mit Mandat?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang: Bericht von United Daily News
 
-[^4]: [Fujien-kueis Börsenhandelsfall mit Kai-Ju-Aktien endgültig: 2 Jahr 10 Monat Haftstrafe](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Bericht der Central News Agency: Bundesgerichtshof, 14. Mai 2020, Berufung abgelehnt
+[^4]: [Fu Kun-chis Manipulation im Kaiju-Fall: Urteil über 2 Jahre und 10 Monate Haft rechtskräftig, Inhaftierung erforderlich](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Bericht der Central News Agency: Der Oberste Gerichtshof wies am 14. Mai 2020 die Berufung zurück, womit das Urteil rechtskräftig wurde
 
-[^5]: [Vom König von Hualien zum Tyrannen des Parlaments: Analyse der Machtmythen und der Kompetenzen der Kuomintang!](https://newcongress.tw/?p=32791) — Neues Bürgertum, Autor: Qin Jing (Kommentarterminologie „Tyrann des Parlaments“ stammt aus diesem Titel)
+[^5]: [Vom König von Hualien zum ParlamentsTyrannen: Eine Analyse von Fu Kun-chis Machtmythos und der Krise der Duldung durch die KMT!](https://newcongress.tw/?p=32791) — New Citizen Assembly, Autor Qin Jing (Der Begriff „Parlamentstyrann“ stammt aus dem Titel dieses Artikels)
 
-[^6]: [Bei Erdbebenbesuchen in China: Fujien-kuei: Wiederaufbau und Erholung sind wichtige Themen](https://www.cna.com.tw/news/acn/202404270082.aspx) — Bericht der Central News Agency: Im April 2024 während anhaltender Nachbeben in Hualien, führte Fujien-kuei eine Delegation nach Peking, wo ihn der stellvertretende Leiter der Kontakt- und Dialogkommission, Pan Xianzhang, empfing und begleitete
+[^6]: [Besuch in China inmitten der Erdbebenkontroverse: Fu Kun-chi erklärt, dass der Wiederaufbau und die Belebung nach der Katastrophe wichtige Aufgaben seien](https://www.cna.com.tw/news/acn/202404270082.aspx) — Bericht der Central News Agency: Während der anhaltenden Nachbeben in Hualien im April 2024 leitete er eine Delegation nach Peking; Pan Xianzhang, stellvertretender Direktor der Taiwan-Affären-Büros, empfing die Gruppe und begleitete sie während des gesamten Aufenthalts
 
-[^7]: [【Fujien-kuei erneut in der Krise】Die Fujia-Familie dominiert Hualien seit über 30 Jahren – Ein Überblick über alle Skandale](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo Nachrichten (Spiegel Woche)
+[^7]: [[Fu Kun-chi erneut im Sturm] Die Familie dominiert Hualien seit über 30 Jahren – Alle Kontroversen um Fu Kun-chi auf einen Blick](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Mirror Media)
 
-[^8]: [Fünf-Sterne-Bürgermeister vs. König von Hualien – wer ist wirklich Fujien-kuei?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Reporter The Reporter, Serie ‚Zwei Seiten von Fujien-kuei‘, Bildband
+[^8]: [Fünf-Sterne-Landrat vs. König von Hualien: Wer ist der wahre Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter, Serie „Das zweigesichtige Fu Kun-chi“, Kapitel über das Image

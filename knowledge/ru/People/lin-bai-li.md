@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-08-02T13:22:35+08:00'
+translatedAt: '2026-11-04T20:46:55.240285+00:00'
 ---
 
 # Линь Байли: Шанхай 1949, основатель Quanta Computer и «король ноутбук-одм», боревшийся с раком 20 лет

@@ -2,9 +2,7 @@
 title: 'A-Han : le garçon de Hualien qui interprète à lui seul toute une ruelle, puis se fait reprendre par ses habitants'
 description: "Tseng Wen-han, garçon de Hualien diplômé du département d'animation de l'Université nationale des arts de Taipei, incarne à lui seul, avec Ruan Yuejiao, Liao Lifang et Liao Lizhu, toute une ruelle taïwanaise. Jusqu'au retrait d'une publicité de la fête de Zhongyuan en 2022 : la belle-fille vietnamienne qu'il y jouait a été contestée par de véritables belles-filles vietnamiennes."
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Internet'
 tags:
   [
     'A-Han',
@@ -18,20 +16,24 @@ tags:
     'Université nationale des arts de Taipei',
     'Golden Bell Awards',
   ]
-readingTime: 12
+subcategory: 'Internet'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-04T20:50:03.268436+00:00'
 ---
 
-> **Aperçu en 30 secondes :** Né à Hualien en 1994, Tseng Wen-han a étudié dans la classe d’arts plastiques du lycée de jeunes filles de Hualien avant d’obtenir son diplôme du département d’animation de l’Université nationale des arts de Taipei. En 2015, il a lancé la chaîne YouTube « A-Han po shipin »[^1]. Il y interprète seul Liao Lifang, Ruan Yuejiao, Liao Lizhu, la tante du buffet en libre-service : tous les personnages d’une ruelle taïwanaise. Son œuvre représentative, « La tante voyante, la déesse des Neuf Cieux répand les fleurs célestes », a cumulé plus de 13 millions de vues[^2]. Mais dans une publicité de la fête de Zhongyuan en 2022, le personnage de belle-fille vietnamienne qu’il incarnait a suscité les protestations de véritables belles-filles vietnamiennes et la publicité a été retirée : la ruelle taïwanaise qu’un garçon de Hualien avait bâtie par l’imitation lui demandait alors, par la voix de ses propres habitants : « Pourquoi cette place n’est-elle pas la mienne ? »
+**Aperçu en 30 secondes :** Né en 1994 à Hualien, Tseng Wen-han a suivi la section arts du lycée féminin de Hualien avant d'être diplômé du département d'animation de l'Université nationale des arts de Taipei. En 2015, il lance la chaîne YouTube « A-Han po shipin »[^1]. Il incarne à lui seul Liao Li-fang, Ruan Yue-jiao, Liao Li-zhu, la tante du buffet — tous les personnages d'une ruelle taïwanaise. Son œuvre phare « La tante voyante, la déesse des Neuf Cieux répand les fleurs célestes » cumule plus de 13 millions de vues[^2]. Mais dans la publicité du Festival des fantômes 2022, son rôle de belle-fille vietnamienne est contesté par de véritables belles-filles vietnamiennes et retiré — un garçon de Hualien qui a soutenu une ruelle taïwanaise par l'imitation se voit demander par les habitants de cette ruelle : « Pourquoi cette place n'est-elle pas la mienne ? »
 
-La force d’A-Han ne tient pas seulement à la ressemblance de tel ou tel personnage : il a presque joué toute une ruelle taïwanaise. Tante voyante, belle-fille vietnamienne, propriétaire, tante du buffet en libre-service, collégienne superficielle, enseignante pénible, chef de classe A-Wei : une seule personne, un seul visage, mais des accents différents, des corps différents, des étapes de vie différentes. L’épisode du retrait en 2022 lui a toutefois rappelé ceci : imiter cette ruelle et y habiter n’ont jamais été la même chose.
+Le talent d'A-Han ne réside pas dans la ressemblance de tel ou tel personnage, mais dans le fait qu'il a presque joué toute une ruelle taïwanaise. La tante voyante, la belle-fille vietnamienne, la tante propriétaire, la tante du buffet, la collégienne malvoyante, le prof de scooter, le délégué A-wei — un seul homme, un seul visage, qui change d'accent, de corps, de stade de vie. Mais le retrait de 2022 lui a appris une chose : imiter cette ruelle et y habiter n'ont jamais été la même chose.
 
 ## Interpréter seul toute une ruelle
 

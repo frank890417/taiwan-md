@@ -2,33 +2,37 @@
 title: '百靈果 News：世界中のニュースを台湾人のイヤホンに届ける'
 description: 'ケイリーとケンが、バイリンガルな会話、ユーモア、そして立場を避けないトークを通じて、未知の国際ニュースを台湾人が聴き進めたいと感じ、再考せざるを得ない日常へと変えていく過程。'
 date: 2026-08-17
-subcategory: '數位與媒體'
 category: 'People'
 tags: ['百靈果 News', 'ポッドキャスト', 'ケイリー', 'ケン', '国際ニュース']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/people/bailingguo-news-podcast-headphones.webp'
+imageCredit: 'Zephyris'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
-sourceCommitSha: 'cf406dedd'
-sourceContentHash: 'sha256:2e4b0f96f5527220'
-sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-17T06:43:35+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:6178ccc8d8afac3a'
+sourceBodyHash: 'sha256:d66f8844359d3f83'
+translatedAt: '2026-11-06T03:51:38.223284+00:00'
 ---
 
-2014年、ケイリーとケンは「百靈果 News」のホストではありませんでした。彼らは単に、台湾のニュースと世界の流れが乖離していることに気づき、それを変えようと試みた若者たちでした。2020年には、彼らは台南で「国際接続」をテーマにした対面イベントを開催し、聴衆は会場に集まり、番組はイヤホンから街へと広がりました。2022年には、台湾に世界に聞いてもらうため、新台幣250万元を投じて全英語の番組を制作しました[^1] [^2] [^3]。
+2014年、凱莉（かいり／ケリー）とKen（ケン）はまだ「百靈果 News」のホストではありませんでした。彼らはただ、台湾のニュースが世界から切り離されているのを見て、それを変えようとした二人の若者でした。2020年、彼らは台南で「国際接駁」をテーマにしたリアルイベントを開催し、リスナーが会場に集まり、番組もイヤホンから街へと飛び出しました。2022年、彼らは台湾を国際社会に聞かせるため、新台湾ドル250万円を投じて全英語番組を制作しました。[^1] [^2] [^3]
 
-これら三つの時点を並べることで、「百靈果」の対比が見えてきます。それは、最も友達のようなふざけたやり方で、最も「おしゃべりではない」ようなことを語ることです。「百靈果」は国際ニュースを単純化するのではなく、まず人々がそれに近づきたくなるように仕向けます。近づいた後、聴衆は自分たちが台湾と世界の関係性を理解することを強いられていることに気づくのです。
+この3つの時点を並べて初めて、百靈果のコントラストが見えてきます。友達とふざけ合うような最もカジュアルな語り口で、最も雑談らしくないテーマを語る。百靈果は国際ニュースを単純化したのではなく、まず人々が寄り添いたくなるようにしたのです。寄り添った先で、リスナーは自分が台湾と世界の関係を理解せざるを得なくなっていることに気づきます。
 
-> **逆説的な核心メッセージ：** 「百靈果」はニュースをおしゃべりのように語りますが、それによって「世界を語る資格が誰にあるのか」という問題を、すべての台湾人のイヤホンに持ち込んでいるのです。
+> **直感に反する核心文：** 百靈果はニュースをおしゃべりのように作ったが、それゆえに「誰に世界を語る資格があるのか」という問いを、台湾の人々のイヤホン一つひとつに届けた。
 
-![イヤホンとマイク。国際ニュースを日常のリスニングシーンに持ち込んだ「百靈果」を象徴する画像](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![ヘッドホンマイク、百靈果が国際ニュースを日常のリスニングシーンへ持ち込むことを象徴](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_画像：`Headphones with Microphone.jpg`、作者 Zephyris；[Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg)，CC BY-SA 3.0。ここでは元のファイルURLを使用しており、画像をダウンロードしていません。_
+_画像：`Headphones with Microphone.jpg`、撮影 Zephyris；[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg)、CC BY-SA 3.0。ここでは元ファイルのホットリンクを使用し、画像はダウンロードしていません。_
 
-_画像：Tatler Asiaによるインタビュー写真。[百靈果 News ホストへのインタビュー](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news)より引用。これは自由な著作権のない画像であり、文章の文脈と情報源としての参照のみに使用し、転載、ダウンロード、複製、商業利用は主張いたしません。_
+_画像：Tatler Asia インタビュー配布画像、[百靈果 News ホストインタビュー](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news)より。これはフリーではない版権画像であり、元のホットリンクを埋め込み、記事の文脈と出典案内としてのみ使用しています。再ライセンス、ダウンロード、複製、商業利用を主張するものではありません。_
 
 ## 「メディアの国際化」から始まった経緯
 
@@ -114,26 +118,26 @@ Tatlerのインタビューは別の側面を示しています。「百靈果�
 
 キュレーションにおいて、最初の画像は「百靈果」の人々の肖像ではなく、イヤホンとマイクというオブジェクトそのものです。これは記事の中心的な洞察を「二人のホストを紹介する」ことから「音声がいかにして公共空間になるか」へと移行させることを可能にしました。2番目の画像はTatler Asiaの元の報道文脈を保持していますが、それをTaiwan.mdが持つ素材として誤って記述することはありません。
 
-## 参考文献
+## 参考資料
 
-[^1]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英語の長編現場記録であり、ケイリーとケンが2014年のメディア国際化の試みから初期番組、そして2020年の台南イベントに至るまでの発展過程を整理したものです。
+[^1]: [Music Farm：Bailingguo──台湾のポッドキャストにおける新たなイヤホンの波を目撃する 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英文の長編現場記録で、ケリーとケンが2014年のメディア国際化の試み、初期の番組から2020年の台南での活動に至る発展の経緯を整理しています。
 
-[^2]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Taipei Timesと中央社による転載された具体的な報道であり、全英語番組、制作エピソード数、俳優の招待、制作費などの検証可能な情報が含まれています。
+[^2]: [Taipei Times：Bailingguo Newsが英語スケッチコメディ『Tough Bobas: Taiwan Uncensored』を開始](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Taipei Timesと中央社が転載した具体的な報道で、全英語番組、制作エピソード数、キャストのオファー、制作費などの検証可能な情報を記録しています。
 
-[^3]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 英語と中国語で対照されたニュース記事であり、「百靈果」が台湾のポッドキャストでランク付けしたこと、国際化目標、デリケートな題材の制作難しさについて説明しています。
+[^3]: [Taipei Times：Bailingguo Newsが英語スケッチコメディ『Tough Bobas: Taiwan Uncensored』を開始](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 英語と中国語が対照されたニュース記事で、百靈果が台湾のポッドキャストでのランキング、国際化目標、敏感な題材の制作の難しさについて説明しています。
 
-[^4]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英語での人物と産業に関する観察記事であり、二人のホストの非伝統的な報道口調、バイリンガル能力、番組形式、ポッドキャストのエコシステム上の位置づけを描写しています。
+[^4]: [Music Farm：Bailingguo──台湾のポッドキャストにおける新たなイヤホンの波を目撃する 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英語の人物・産業観察記事で、二人のホストの非伝統的な放送トーン、バイリンガル能力、番組形式、ポッドキャスト生態系での位置づけを描写しています。
 
-[^5]: [Tatler Asia：2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021年のホストへのインタビューであり、番組の起源、国際ニュース目標、ポッドキャストによる伴走感、ライブ配信と対面イベント、そしてケイリーとケンの直接的な引用を提供しています。
+[^5]: [Tatler Asia：2021年最もホットなポッドキャスト『百靈果News』を聴きましたか？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021年のホストへのインタビューで、番組の起源、国際ニュースの目標、ポッドキャストの伴走感、ライブ配信と実体イベント、そしてケリーとケンの直接の引用が提供されています。
 
-[^6]: [百靈果 News 公式ウェブサイト](https://www.bailingguonews.com/) — クリエイター自身が公開した番組の位置づけ、バイリンガルなスローガン、固定のアップロード時間、国際ニュース制作方法であり、一次情報としての自己記述を照合する資料です。
+[^6]: [百靈果News公式サイト](https://www.bailingguonews.com/) — クリエイター自らが公表した番組のポジショニング、バイリンガルのスローガン、固定のアップロード時間、国際ニュースの制作方法などであり、第一者の自己記述を照合するための情報源となっています。
 
-[^7]: [Apple Podcasts：百靈果 News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Apple Podcasts上の公式番組の詳細ページであり、ホスト、バイリンガル対話、番組説明、クリエイター情報などの一次配信データを保持しています。
+[^7]: [Apple Podcasts：百靈果News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Apple Podcasts上の公式番組の詳細ページで、ホスト、バイリンガル対話、番組説明、クリエイター情報などの第一者配信データが保存されています。
 
-[^8]: [Spotify：百靈果 News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Spotify上の公式番組の詳細ページであり、番組の説明と複数の具体的なエピソードおよびゲストクリエイターを列挙しており、番組の範囲を照合するために利用されています。
+[^8]: [Spotify：百靈果News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Spotify上の公式番組の詳細ページで、番組説明と複数の具体的なエピソードおよびインタビューを受けたクリエイターが列挙されており、番組内容の範囲を照合するために利用できます。
 
-[^9]: [Spotify：The KK Show — 008 国際ニュース扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — 2020年1月の特定の回のエピソードページであり、エピソードの日付、尺、ゲスト、初期番組の説明を保持しており、「百靈果」の初期形態を追跡できます。
+[^9]: [Spotify：The KK Show — 008 国際ニュースのボス：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — 2020年1月の具体的なエピソードページで、エピソードの日付、長さ、インタビュー対象者、初期の番組説明が保持されており、百靈果の初期の形式を追跡できます。
 
-[^10]: [SoundOn：百靈果 News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — ポッドキャストプラットフォーム上の具体的な詳細ページであり、「百靈果」のバイリンガルな番組説明とホストの位置づけを保持しており、公式の自己紹介と相互検証が可能です。
+[^10]: [SoundOn：百靈果News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — ポッドキャストプラットフォーム上の具体的な番組詳細ページで、百靈果のバイリンガル番組説明とホストのポジショニングが保存されており、公式の自己紹介を相互に照合できます。
 
-[^11]: [BIOS Monthly：史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — 2020年のケイリーとケンの人物インタビューであり、二人の仕事の背景、番組の形成、そして「政治的に正しくない」という表現に対する彼ら自身の理解を記録しています。
+[^11]: [BIOS Monthly：史上最も政治的に不正確なインタビュー（抖）で意見を言わせたポッドキャスト](https://www.biosmonthly.com/article/10325) — 2020年のケリーとケンの人物インタビューで、二人の仕事の背景、番組の形成、政治的に不正確な表現に対する自己理解が記録されています。

@@ -2,19 +2,21 @@
 title: '천준량: 시적 디자이너, 동양 미학의 현대적 번역자'
 description: '천준량은 1958년 타이난에서 태어나 29세에 「프리이미지 디자인」(Freeimage Design)을 설립하였으며, 업계에서 「시적 디자이너」로 불린다. 그는 서예, 여백, 동양적 이미지를 통해 현대 디자인 언어를 재해석하였으며, 작품 영역은 출판 제본, 기업 아이덴티티, 국가 행사에 이른다. 2005년 「천원지방」 국만 식기 시리즈가 마카오 디자인 비엔날레 심사위원 대상을 수상하였다. 오랫동안 디자인 교육에 헌신해 온 그는 1980년대 이후 대만에서 가장 영향력 있는 그래픽 디자이너 중 한 명이다.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   ['디자이너', '그래픽 디자인', '디자인 교육', '프리이미지', '시적 디자이너']
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-04T21:28:05.426293+00:00'
 ---
 
 # 천준량: 시적 감성으로 대만 디자인을 새롭게 정의하다
@@ -49,21 +51,21 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 그는 또한 창작 소정을 정리하고 디자인 논술을 집필하여 동양 미학의 현대 디자인에서의 적용 경로를 탐구함으로써, 대만 디자인계의 이론적 담론에 실무자의 시각을 제공하고 있다.[^7]
 
-## 참고 문헌
+## 참고 자료
 
-[^1]: [천준량 — 비지중예술망(非池中藝術網)](https://artemperor.tw/knowledge/1191) — 천준량 디자인 커리어 개요, 시적 디자이너 호칭 유래, 대표 작품.
+[^1]: [천쥔량 — 비지중예술망](https://artemperor.tw/knowledge/1191) — 천쥔량의 디자인 경력 개요, '디자인 시인' 칭호의 유래, 대표 작품.
 
-[^2]: [프리이미지 디자인 Freeimage Design — Facebook 공식 페이지](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — 프리이미지 디자인 스튜디오 공식 정보 및 작품집.
+[^2]: [자유낙체 디자인 Freeimage Design — 페이스북 공식 페이지](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — 자유낙체 디자인 스튜디오의 공식 정보 및 포트폴리오.
 
-[^3]: [프리이미지 디자인/천준량: 시각 디자인에서 가장 중요한 것은 「할 수 없는 일은 없고, 상상하지 못하는 일만 있을 뿐이다」 — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — 천준량 디자인 철학과 작업 방식에 대한 심층 인터뷰.
+[^3]: [자유낙체 디자인／천쥔량: 시각 디자인에서 가장 중요한 것은 '할 수 없는 일이 없는 것이 아니라, 상상하지 못한 일이 있을 뿐이다' — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — 천쥔량의 디자인 철학과 작업 방식에 대한 심층 인터뷰.
 
-[^4]: [선함이 나를 가고 싶은 곳으로 이끌었다 — 디자인 대부 천준량 인터뷰 — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — 천준량 경력 궤적, 29세 창업 이야기 및 동양 미학 디자인관.
+[^4]: [착한 마음이 나를 내가 가고 싶은 곳으로 이끈다 — 디자인 대부 천쥔량 단독 인터뷰 — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — 천쥔량의 경력 궤적, 29세 창업 이야기, 동양 미학 디자인관.
 
-[^5]: [천준량 최고의 마케팅은 작품 자체 — La Vie](https://www.wowlavie.com/article/ae1400597) — 천준량 「천원지방」 국만 식기 시리즈 마카오 디자인 비엔날레 심사위원 대상 수상 기록.
+[^5]: [천쥔량 최고의 마케팅은 작품 자체다 — La Vie](https://www.wowlavie.com/article/ae1400597) — 천쥔량의 '천원지방(天圓地方)' 국빈 만찬 식기 시리즈, 마카오 디자인 비엔날레 심사위원 대상 수상 기록.
 
-[^6]: [천준량 38년 디자인 길, 남이 하지 못하는 일에 도전하다 — 중국시보(中國時報)](https://www.chinatimes.com/newspapers/20180701000609-260102) — 천준량 경력 회고 및 디자인 교육 헌신.
+[^6]: [천쥔량 38년 디자인 길, 남들이 하지 못하는 일을 감행하다 — 중국시보](https://www.chinatimes.com/newspapers/20180701000609-260102) — 천쥔량의 경력 회고와 디자인 교육 투자.
 
-[^7]: [프리이미지 디자인 천준량의 디자인 사유: 「i에서 F까지의 거리」 — 디자인왕 DesignWant](https://www.designwant.com/article/7826) — 천준량 동양 미학 디자인 논술 및 서예 시각 언어.
+[^7]: [자유낙체 디자인 천쥔량의 디자인 철학: 'i에서 F까지의 거리' — 디자인왕 DesignWant](https://www.designwant.com/article/7826) — 천쥔량의 동양 미학 디자인 논술과 서예 시각 언어.
 
 ## 더 읽기
 

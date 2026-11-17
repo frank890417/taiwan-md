@@ -1,19 +1,19 @@
 ---
-title: 'Magpie Taiwan: Geng Biru di Hutan Kota dan Perang Pertahanan Genetik Selama Seabad'
-description: 'Memenangkan gelar burung nasional dengan 180.000 suara pada tahun 2007, permata hutan ini ternyata adalah keluarga tangguh yang pandai berkelahi kelompok. Sebagai spesies endemik Taiwan, mulai dari spesimen pertama yang dikumpulkan oleh Sclater pada tahun 1862 hingga hari ini saat mereka berebut makanan kucing di taman kota, mereka berhasil menang dalam kompetisi berkat sistem bantuan sarang yang mencapai 97%; selama lebih dari seratus tahun ini, mereka juga terus menjaga batas genetik dengan Magpie Cina (Red-billed Blue Magpie). Ini adalah kisah tentang pulau mengenai kelangsungan hidup, kohesi keluarga, perang pertahanan genetik, serta kebijaksanaan koeksistensi antara manusia dan burung.'
+title: 'Kekawai Taiwan: Geng Biru di Hutan Beton Perkotaan, dan Perang Pembelaan Genetik Sepanjang Abad'
+description: 'Kekawai Taiwan adalah spesies endemik Taiwan, pada 2007 memenangkan pemilihan burung nasional. Populasinya stabil, Daftar Merah IUCN mencatatkannya sebagai "Tidak Terancam" (Least Concern), Taiwan mengkategorikannya sebagai kategori pelestarian tingkat tiga, terutama karena status endemiknya, dan belakangan ini jumlahnya meningkat di dataran rendah dan taman kota. Mereka hidup berkelompok, 97% kelompok keluarga memiliki pembantu untuk merawat anak, dan akan menyerang secara kolektif para penyerbu; ancaman paling diperhatikan adalah persilangan dan pencemaran genetik yang dibawa oleh spesies asing Kekawai Paruh Merah.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
     'Spesies Endemik',
-    'Spesies Dilindungi',
+    'Kategori Pelestarian',
     'Burung',
     'Ekologi',
-    'Changwei Shannyang',
-    'Reproduksi Kooperatif',
+    'Kekawai Ekor Panjang Taiwan',
+    'Pembiakan Kooperatif',
     'Suku Tsou',
     'Suku Bunun',
-    'Red-billed Blue Magpie',
+    'Kekawai Paruh Merah',
     'Sains Warga',
     'Perubahan Iklim',
   ]
@@ -23,11 +23,15 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T03:12:43.835856+00:00'
+translatedAt: '2026-11-05T07:02:27.515849+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

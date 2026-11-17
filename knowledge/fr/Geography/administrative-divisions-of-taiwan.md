@@ -2,24 +2,27 @@
 title: 'Les divisions administratives de Taïwan : une mosaïque de pouvoir, des « assemblées locales » aux « cinq métropoles »'
 description: "Les divisions administratives de Taïwan ne sont pas de simples lignes tracées sur une carte : ellent constituent une expérience de pouvoir s'étalant sur quatre siècles. Des assemblages tribaux de la période hollando-espagnole au mouvement d'embellissement toponymique des « cinq préfectures et trois départements » sous l'ère japonaise, en passant par la quasi-création de la « municipalité de Shuangwen » après-guerre, chaque frontière recèle une tension entre volonté de domination et identité locale."
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
-category: Geography
+category: 'Geography'
 tags:
   [
-    divisions administratives,
-    histoire de Taïwan,
-    aménagement du territoire,
-    autonomie locale,
+    'divisions administratives',
+    'histoire de Taïwan',
+    'aménagement du territoire',
+    'autonomie locale',
   ]
-readingTime: 15
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: Geography/台灣行政區劃.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Geography/台灣行政區劃.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-05T06:25:30.966276+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le découpage actuel de Taïwan en « six métropoles et seize comtés-municipalités » est le résultat de multiples interventions politiques menées en quatre cents ans. Au XVIIᵉ siècle, les Néerlandais utilisaient les « assemblées locales » (Landdag) pour surveiller les tribus ; les périodes Zheng et Qing instaurèrent le système des commanderies et districts chinois ; l'ère japonaise posa les fondations des divisions administratives modernes à travers le découpage en « cinq préfectures et trois départements » et l'embellissement des toponymes. En 1945, une « municipalité de Shuangwen », nommée d'après une personnalité historique, faillit voir le jour, et en 2010, la réforme des cinq métropoles plaça soixante pour cent de la population nationale sous le régime des municipalités spéciales, laissant dans son sillage les défis contemporains d'asymétrie des ressources.

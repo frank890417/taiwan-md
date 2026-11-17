@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-07-26T19:42:09+08:00'
+translatedAt: '2026-11-04T22:09:50.851374+00:00'
 ---
 
 > **30 giây tóm tắt:** Trong quá trình hiện đại hóa của Đài Loan, **Thôn Ưn Quyết** (1913–2006) là tên không thể tránh khỏi. Ngài được khen ngợi là "Thủ tướng mãi mãi", với hình ảnh công khai hòa quyện của chuyên môn kỹ sư, tính trong sạch, và quyết đoán tại các khoảnh khắc chuyển đổi quốc gia. Từ đầu năm chiến tranh, giúp phục hồi điện từ các tảng đá, đến thời kỳ 1970s đầu tư vào ngành bán dẫn, cuộc đời Thôn Ưn Quyết gần như là một cuốn sử ký của hành trình từ hoang vắng đến thịnh vượng của Đài Loan [^1][^2].

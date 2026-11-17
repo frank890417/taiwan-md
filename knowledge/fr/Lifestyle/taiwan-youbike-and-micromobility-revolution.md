@@ -2,19 +2,21 @@
 title: 'La culture YouBike à Taïwan et la révolution de la micromobilité urbaine'
 description: "Du « dernier kilomètre » à l'infrastructure du quotidien, comment YouBike a transformé les habitudes de déplacement et la perception du temps dans les villes taïwanaises grâce à des tarifs modiques, des stations denses et une redistribution en temps réel."
 date: 2026-04-14
-author: 'Wilson Chen'
-category: Lifestyle
-subcategory: '交通與移動'
+category: 'Lifestyle'
 tags: ['YouBike', 'transport urbain', 'mobilité douce', 'micromobilité']
-readingTime: 8
+subcategory: '交通與移動'
+author: 'Wilson Chen'
+featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
-translatedFrom: Lifestyle/台灣YouBike文化與城市微交通革命.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-04T18:10:57.960217+00:00'
 ---
 
 > **Vue d''ensemble en 30 secondes :**

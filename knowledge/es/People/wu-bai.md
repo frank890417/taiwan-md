@@ -2,9 +2,7 @@
 title: 'Wu Bai: desde la aldea Suantou del municipio de Liujiao, treinta años de rock en taiwanés sin rebajas'
 description: 'Su nombre real es Wu Junlin, nacido en 1968 en la aldea Suantou, municipio de Liujiao, condado de Chiayi. En 1992 formó «Wu Bai & China Blue»; en 1995, «El bosque de Noruega» consolidó su línea de rock en taiwanés. En 2016 lanzó «Dingzi Hua», y en 2017 ganó el premio al mejor álbum en taiwanés en los Premios Golden Melody. En 2025 publicó el nuevo álbum «Punto de partida en blanco puro», y la gira ROCK STAR 2 cruzó ambos lados del estrecho.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags:
   [
     'Música',
@@ -14,17 +12,19 @@ tags:
     'Rock local',
     'Guitarra',
   ]
-readingTime: 7
-#   whats_excluded: "各張專輯逐年曲目；China Blue成員變動細節；商業收益與演唱會票房"
-#   where_it_hedges: "2025年《純白的起點》和2026年詩詞集以TODO標記，待天機星確認細節"'
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: People/伍佰.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:2dda34fc81c78056
-sourceBodyHash: sha256:fb05d9869b96635c
-translatedAt: 2026-05-22T05:08:47+08:00
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/伍佰.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2dda34fc81c78056'
+sourceBodyHash: 'sha256:fb05d9869b96635c'
+translatedAt: '2026-11-04T23:20:20.998262+00:00'
 ---
 
 # Wu Bai: desde la aldea Suantou del municipio de Liujiao, treinta años de rock en taiwanés sin rebajas

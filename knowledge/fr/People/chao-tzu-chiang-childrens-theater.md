@@ -2,8 +2,7 @@
 title: "Chao Tzu-chiang : de l'initiation au Lan Ling Theatre Troupe à l'âme inflexible sous le tablier de Mamie Fruits"
 description: "En 1984, Chao Tzu-chiang rejoint le Lan Ling Theatre Troupe grâce à une annonce « gratuit toute l'année », entamant une carrière légendantaire à travers le théâtre, l'audiovisuel et l'art pour enfants. Sous les traits chaleureux de « Mamie Fruits », il a bercé l'enfance de milliers d'enfants, mais dans la réalité, la fondation de la troupe « If Children's Theatre » l'a conduit à s'endetter de plusieurs millions de dollars taïwanais, révélant une intransigeance farouche face à la pandémie et aux crises financières. Voici le récit d'un artiste qui, en trente ans, a consacré sa vie à préserver les rêves des enfants de Taïwan."
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Chao Tzu-chiang',
@@ -13,15 +12,19 @@ tags:
     'art pour enfants',
     'culture taïwanaise',
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: People/趙自強.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/趙自強.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-04T21:18:10.124238+00:00'
 ---
 
 > **En 30 secondes :**

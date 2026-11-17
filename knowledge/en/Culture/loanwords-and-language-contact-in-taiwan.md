@@ -2,6 +2,7 @@
 title: 'Loanwords and Language Contact in Taiwan'
 description: "From Bento to Video: The island's linguistic contact history reveals how Taiwan became the world's most successful experiment in foreign language integration"
 date: 2026-03-23
+category: 'Culture'
 tags:
   [
     'linguistics',
@@ -10,16 +11,19 @@ tags:
     'language-contact',
     'loanwords',
   ]
-category: 'Culture'
+subcategory: '語言與文字'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-11-05T07:29:29.749479+00:00'
 ---
 
 > **30-second overview:** Taiwan's most criticized phenomenon of "foreign language invasion" reveals an ironic truth: Taiwan itself is the world's most successful laboratory for integrating foreign languages.

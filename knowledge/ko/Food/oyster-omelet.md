@@ -4,26 +4,30 @@ description: '식량 부족에서 시작된 타이완 길거리 음식이 정성
 date: 2026-04-26
 category: 'Food'
 tags:
-  - '굴전'
-  - '타이완 길거리 음식'
-  - '역사'
-  - '음식'
-  - '문화'
-  - '정성공'
-  - '전분물'
-  - '소스'
-  - '화원 굴전 감자칩'
+  [
+    '굴전',
+    '타이완 길거리 음식',
+    '역사',
+    '음식',
+    '문화',
+    '정성공',
+    '전분물',
+    '소스',
+    '화원 굴전 감자칩',
+  ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-05T03:58:06.165022+00:00'
 ---
 
 > **30초 개요**  

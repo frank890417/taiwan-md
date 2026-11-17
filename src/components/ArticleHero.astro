@@ -1,6 +1,6 @@
 ---
 /**
- * ArticleHero — Premium hero with cover photo, dark overlay gradient,
+ * ArticleHero — Premium hero on a solid dark ground, dark overlay gradient,
  * breadcrumb, large title + subtitle, TTS button.
  * Fully i18n-aware: breadcrumb labels and URLs adapt to lang.
  */
@@ -17,7 +17,6 @@ interface Props {
   categoryColor: string;
   subcategory?: string;
   status?: string;
-  coverImage?: string;
   slug: string;
   lang?: Locale;
 }
@@ -30,7 +29,6 @@ const {
   categoryColor,
   subcategory,
   status,
-  coverImage,
   lang = 'zh-TW',
 } = Astro.props;
 
@@ -55,13 +53,11 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
       [&_#tts-play]:... [&_#tts-stop]:...
     These apply ONLY to elements inside .hero-tts-wrap, not to TTS
     buttons anywhere else on the site.
-  - The --hero-bg CSS variable is still passed via inline style so
-    the cover image URL works per-article.
+  - 2026-11-10: no background photo. Category default covers made a
+    stranger's face sit behind person articles (李安 behind 楊維哲);
+    articles with their own image show it as the first figure in body.
 -->
-<section
-  class="relative flex min-h-[52vh] items-end bg-[#1a3c34] bg-cover bg-[center_30%] [background-image:var(--hero-bg,none)]"
-  style={coverImage ? `--hero-bg: url('${coverImage}')` : ''}
->
+<section class="relative flex min-h-[52vh] items-end bg-[#1a3c34]">
   <!-- Dark gradient overlay -->
   <div
     class="absolute inset-0 bg-[image:var(--hero-overlay-dark)]"

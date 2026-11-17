@@ -2,9 +2,7 @@
 title: 'Industrie et culture des YouTubeurs taïwanais : de Tsai A-ga à Chi Hsuan, histoire de l’évolution numérique d’une île'
 description: 'Comment un créateur parti de la magie est-il devenu le premier YouTubeur taïwanais à atteindre dix millions d’abonnés ? Derrière cette trajectoire se trouve l’histoire complète de l’évolution de la culture vidéo en ligne de Taïwan, passée du divertissement local à l’exportation internationale'
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     'culture',
@@ -13,14 +11,16 @@ tags:
     'vidéo en ligne',
     'impact social',
   ]
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
-sourceCommitSha: 'd40e5042'
-sourceContentHash: 'sha256:d4ca70756fc2b68a'
-sourceBodyHash: 'sha256:631049e094973d93'
-translatedAt: '2026-07-16T00:48:07+08:00'
+sourceCommitSha: 'ee350db4f'
+sourceContentHash: 'sha256:122a6c2001807860'
+sourceBodyHash: 'sha256:eba63aa2d26b3e9a'
+translatedAt: '2026-11-04T14:03:54.994622+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En mars 2024, le YouTubeur magicien taïwanais « Chi Hsuan Tricking » est devenu le premier créateur de Taïwan à atteindre dix millions d’abonnés, marquant l’évolution de la culture YouTube taïwanaise depuis les vidéos d’actualité pro-Taïwan de Tsai A-ga en 2008 vers une plateforme de contenus capable de rivaliser à l’international. À Taïwan, YouTube touche plus de 95 % des internautes, la part du temps de visionnage consacrée aux vidéos courtes (Shorts) a dépassé 75 %, et les créateurs traversent une phase de transition, passant de la simple production audiovisuelle à la construction de marques et à la diversification des revenus.
@@ -74,17 +74,18 @@ L’évolution la plus inattendue est l’essor rapide des VTubers, ou YouTubeur
 
 Une autre caractéristique de la culture YouTube taïwanaise est son fort engagement social. Shasha77 et « Simpleinfo Design » visualisent des sujets complexes ; Eye Central Television, qui a cessé ses mises à jour en juin 2023[^15], a longtemps discuté de politique avec humour ; The Night Night Show with Brian Tseng a introduit le talk-show à l’américaine dans le paysage taïwanais grand public. Ce modèle de « discussion douce de sujets durs » a profondément influencé la participation publique de la jeune génération taïwanaise[^9].
 
-## Perspectives : les défis de l’ère de l’IA
+## Perspectives d'avenir : les défis de l'ère de l'IA
 
-À mesure que les technologies d’IA abaissent les barrières à la création, les créateurs taïwanais font face au double défi de « l’anxiété algorithmique » et de la « saturation des contenus ». De nombreux créateurs établis se transforment ou annoncent des pauses. Au cours de la prochaine décennie, la culture YouTube taïwanaise devrait évoluer vers une intégration plus poussée du réel et du virtuel, vers la coopération internationale et vers une exportation culturelle plus profonde.
+Alors que la technologie de l'IA abaisse les barrières à la création, les créateurs taïwanais sont confrontés au double défi de « l'anxiété algorithmique » et de la « saturation des contenus ». De nombreux créateurs établis entament une transition ou annoncent une pause dans leur activité. Au cours de la prochaine décennie, la culture YouTube à Taïwan évoluera vers une intégration du réel et du virtuel, une coopération internationale et une exportation culturelle plus profonde.
 
-De la première vidéo de Tsai A-ga aux dix millions d’abonnés de Chi Hsuan, la culture YouTube taïwanaise a accompli en moins de vingt ans une évolution spectaculaire. Ce n’est pas seulement une victoire technique, mais aussi l’histoire de la manière dont une île redéfinit son identité à l’ère numérique.
+Du premier clip de Tsai A-ga aux dix millions d'abonnés de Chi Hsuan Tricking, la culture YouTube taïwanaise a connu une évolution fulgurante en moins de vingt ans. Ce n'est pas seulement une victoire technologique, c'est aussi l'histoire de la manière dont une île redéfinit son identité à l'ère du numérique.
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [A Shen](/fr/people/red-shin-minecraft-youtuber) — De son propre récit de onze années de mise à jour quotidienne, en passant par deux annonces distinctes d’arrêt, jusqu’à son retour en 2026, un exemple concret de la manière dont les créateurs réécrivent leurs engagements de publication fixes.
-- [PanSci](/fr/society/pansci) — De la vulgarisation scientifique écrite aux vidéos courtes, aux MCN YouTube et aux services destinés aux créateurs de savoir, ce cas complète l’analyse de la manière dont les créateurs de contenus éducatifs affrontent l’algorithme et la commercialisation.
-- [Wretch (Wuming Xiaozhan)](/fr/culture/wretch) — Berceau de la première génération de créateurs amateurs taïwanais (Wanwan, Giddens Ko, les albums de jolies filles) ; l’économie des créateurs taïwanais existait déjà ici, avant que les YouTubeurs n’apparaissent.
+- [A-Shen](/fr/people/red-shin-minecraft-youtuber) — À travers ses propres récits sur onze années de publications quotidiennes et deux annonces de pause distinctes jusqu'à sa reprise en 2026, il illustre concrètement comment un créateur peut renégocier ses engagements de publication régulière.
+- [PanScience](/fr/society/pansci) — De la rédaction d'articles de vulgarisation scientifique vers les vidéos courtes, les réseaux MCN YouTube et les services aux créateurs de contenu éducatif ; un cas d'étude sur la manière dont les créateurs de savoir font face aux algorithmes et à la monétisation.
+- [Wuming Xiaozhan](/fr/culture/wretch) — Le berceau de la première génération de créateurs amateurs à Taïwan (Wan Wan, Jiu Ba Dao, albums de jolies filles), c'est ici que l'économie des créateurs a pris racine avant même l'émergence des YouTubeurs.
+- [This Group of People](/fr/people/tgop) — Le premier groupe de YouTubeurs taïwanais à avoir franchi la barre des deux millions d'abonnés en 2017 ; sept membres qui n'ont connu aucun départ pendant treize ans, et qui ont suspendu leurs activités en 2024 sans pour autant se dissoudre.
 
 ## Références
 

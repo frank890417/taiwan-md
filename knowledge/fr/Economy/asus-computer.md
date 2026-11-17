@@ -1,34 +1,38 @@
 ---
-title: 'ASUSTeK Computer (ASUS) - le géant technologique issu des cartes mères'
-description: 'La trajectoire inspirante d’un petit fabricant de cartes mères parti de Hsinchu, à Taïwan, devenu la cinquième marque mondiale d’ordinateurs personnels'
+title: 'ASUS : né dans un appartement de Taipei, devenu la première marque mondiale de cartes mères, une marque taïwanaise'
+description: "ASUS est une marque taïwanaise, fondée en 1989 par quatre anciens ingénieurs d'Acer dans un appartement de la rue Minsheng Est à Taipei, avec un capital de seulement NT$10 millions. Elle a débuté avec les cartes mères, détenant plus de 40 % du marché mondial des cartes mères et étant numéro un pendant 15 années consécutives, et se classant cinquième mondial pour les expéditions de PC. Contrairement à de nombreuses entreprises technologiques taïwanaises, ASUS a décidé très tôt de développer sa propre marque et de ne pas faire de la pure sous-traitance ; en 2008, elle a scindé son activité de sous-traitance en créant Pegatron, se concentrant dès lors sur sa marque."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
-  ['Économie', 'Entreprises', 'Matériel informatique', 'Marque', 'Technologie']
+  ['Économie', 'Entreprise', 'Matériel informatique', 'Marque', 'Technologie']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078e'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-07-06T16:37:48Z'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-05T22:39:04.040927+00:00'
 ---
 
 > **Aperçu en 30 secondes**
 >
 > ASUSTeK Computer (ASUS) est le cinquième fournisseur mondial d’ordinateurs personnels. Partie en 1989 d’une entreprise de cartes mères fondée à Taipei par quatre ingénieurs, elle est devenue un géant technologique dont le chiffre d’affaires annuel approche 600 milliards de dollars taïwanais. Connue dans le monde entier pour sa promesse de qualité « Rock Solid » (« solide comme le roc »), sa gamme couvre les cartes mères, les ordinateurs portables, les téléphones, les équipements de jeu vidéo compétitif et bien d’autres produits. Elle constitue l’un des meilleurs exemples de la transformation de l’industrie IT taïwanaise, passée de l’OEM à la marque.
 
-## Pourquoi ASUS est-elle importante ?
+## Pourquoi ASUS est-il important ?
 
-Imaginez que vous vouliez assembler un ordinateur : quelle marque de carte mère vous inspirerait le plus confiance ? La réponse serait très probablement ASUS. Cette marque venue de Taïwan est devenue, pour les joueurs PC du monde entier, les compétiteurs d’e-sport et les créateurs, un synonyme de « qualité » et d’« innovation ».
+Imaginez que vous vouliez assembler un ordinateur : quelle marque de carte mère inspire le plus confiance ? La réponse sera très probablement ASUS. Cette marque venue de Taïwan est devenue, dans l'esprit des joueurs PC, des sportifs de l'esport et des créateurs du monde entier, le synonyme de « qualité » et d'« innovation ».
 
-Mais l’histoire d’ASUS est bien plus remarquable que celle d’un simple fabricant de cartes mères. L’entreprise a été l’une des pionnières de la transformation du secteur technologique taïwanais, passé de la sous-traitance à la marque, et elle fait partie des rares entreprises taïwanaises capables d’affronter directement Apple, Samsung, Lenovo et d’autres géants internationaux sur le marché très concurrentiel de l’électronique grand public.
+Mais l'histoire d'ASUS est bien plus riche que celle d'un simple fabricant de cartes mères. C'est un pionnier de la transition de l'industrie technologique taïwanaise, de la sous-traitance vers la marque propre, et l'une des rares entreprises taïwanaises capables de rivaliser frontalement avec des géants internationaux comme Apple, Samsung ou Lenovo sur le marché féroce de l'électronique grand public.
 
-Du petit groupe de quatre fondateurs installé dans un appartement de Hsinchu à l’empire technologique présent aujourd’hui dans 68 pays, la trajectoire d’ASUS reflète la mutation de l’industrie technologique taïwanaise au cours des trente dernières années. Alors que « Taiwan No.1 » est devenu un mème dans l’univers du jeu vidéo, ASUS a apporté une réponse différente par ses performances concrètes sur le marché.
+D'une équipe de quatre fondateurs dans un appartement de la rue Minsheng Est à Taipei, jusqu'à l'empire technologique présent aujourd'hui dans 68 pays, la trajectoire d'ASUS reflète la métamorphose de l'industrie technologique taïwanaise depuis plus de trente ans. Alors que « Taiwan No.1 » est devenu un mème de jeu vidéo, ASUS a apporté une tout autre réponse par ses performances réelles sur le marché.
 
 ## Présentation de l’entreprise : du roi de la carte mère à une marque technologique complète
 

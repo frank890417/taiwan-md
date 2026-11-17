@@ -1,26 +1,31 @@
 ---
 title: "Barbie Hsu: From Quirky Teenage Girl to the Fierce Queen of 'Two Deaths, One Critical Injury'"
 description: "Debuted in 1994 with S.O.S, rose to pan-Asian stardom in 2001 via Meteor Garden, established her beauty icon status with My Beauty Diary in 2005, passed away in February 2025 at age 48. She used the relentless pursuit of beauty to push back against a life that kept slipping out of control, and in the storm of her marriage left behind — through her declaration of 'two deaths and one critical injury' — the most incisive portrait of modern womanhood's predicament."
-category: People
-tags:
-  - 'Barbie Hsu'
-  - 'Big S'
-  - 'Wang Xiaofei'
-  - 'Gu Jun-pyo'
-  - 'Meteor Garden'
-  - 'My Beauty Diary'
-  - 'Variety 100%'
-author: 'idlccp1984'
 date: 2026-04-28
+category: 'People'
+tags:
+  [
+    'Barbie Hsu',
+    'Big S',
+    'Wang Xiaofei',
+    'Gu Jun-pyo',
+    'Meteor Garden',
+    'My Beauty Diary',
+    'Variety 100%',
+  ]
+subcategory: '電影與戲劇'
+author: 'idlccp1984'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/徐熙媛.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: '2026-05-01T01:46:13+08:00'
+translatedAt: '2026-11-05T02:42:29.283789+00:00'
 ---
 
 > **30-second overview:** Barbie Hsu (stage name Da S / Big S; Chinese: 徐熙媛), born 1976, Taiwanese actress, singer, and host. In 1994 she debuted alongside her younger sister Dee Hsu (小S) as the group S.O.S. Her role as "Shan Cai" in _Meteor Garden_ (2001) made her a household name across Asia. _My Beauty Diary_ (2005) set a beauty trend that shaped a generation. After two marriages, her 2024 statement of "ten years of marriage — two deaths, one critical injury" shocked the public. She passed away on February 2, 2025, from influenza complications leading to pneumonia, at 48.

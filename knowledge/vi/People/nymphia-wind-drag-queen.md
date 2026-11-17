@@ -17,11 +17,13 @@ author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-04T20:25:30.010108+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 2024, Nymphia Wind, nữ hoàng kéo từ Đài Loan, giành chiến thắng tại chương trình truyền hình thực tế quốc tế nổi tiếng nhất _RuPaul's Drag Race_, trở thành người đầu tiên từ Đài Loan đạt được vinh dự này. Thành công của cô không chỉ đưa nghệ thuật kéo Đài Loan ra tầm quốc tế, mà còn tình cờ trùng với "Ngày Giáo dục Bình đẳng Giới" của Đài Loan, cô để thế giới thấy tinh thần đa dạng và hòa nhập của đất nước. Từ bữa tiệc ngầm tới Phủ Tổng thống, câu chuyện của Nymphia Wind là tóm tắt của gần 30 năm lịch sử tự chủ của cộng đồng LGBT Đài Loan, với "chuối" như biểu tượng, cô kết nối kinh nghiệm sống cá nhân với văn hóa Đài Loan sâu sắc, nói lớn với thế giới rằng Đài Loan tồn tại và tự tin.

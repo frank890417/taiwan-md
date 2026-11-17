@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-11-05T08:00:06.636624+00:00'
 ---
 
 # Hsu Wen-lung: Geboren in Tainan 1928, Gründer des Museums mit der weltweit größten Sammlung von Violinen seit 1959

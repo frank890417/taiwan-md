@@ -237,9 +237,10 @@
           }
         }
       ],
-      "anchors": ["History/荷西明鄭時期"],
+      "anchors": ["History/荷西明鄭時期", "History/熱蘭遮城"],
       "articles": [
         "History/台灣海洋貿易史",
+        "History/西班牙北台灣十六年",
         "Geography/台南市",
         "Geography/澎湖縣",
         "Geography/基隆市"
@@ -315,16 +316,13 @@
           "link": "History/荷西明鄭時期"
         }
       ],
-      "desertNote": {
-        "zh-TW": "這一段在站上還很薄：東寧王國的制度、陳永華、施琅，都還沒有自己的條目。你也是寫歷史的人——這段空白等你來補。",
-        "en": "This chapter is still thin on this site: the institutions of Tungning, Chen Yonghua and Shi Lang have no entries of their own yet. You, too, are a writer of history — this blank is waiting for you.",
-        "ja": "この時代の記事はまだ薄い。東寧王国の制度も、陳永華も施琅も、まだ独立した項目がない。あなたも歴史を書く人——この空白はあなたを待っている。",
-        "ko": "이 시대의 글은 아직 얇다. 둥닝 왕국의 제도도, 천융화도, 시랑도 아직 독립된 항목이 없다. 당신도 역사를 쓰는 사람이다. 이 공백이 당신을 기다린다.",
-        "es": "Este capítulo aún es escaso en el sitio: las instituciones de Tungning, Chen Yonghua y Shi Lang no tienen entradas propias. Tú también escribes la historia: este vacío te espera.",
-        "fr": "Ce chapitre reste mince sur ce site : les institutions de Tungning, Chen Yonghua et Shi Lang n'ont pas encore leurs propres entrées. Vous aussi écrivez l'histoire — ce blanc vous attend."
-      },
-      "anchors": ["People/鄭成功"],
-      "articles": ["History/荷西明鄭時期", "Food/虱目魚粥", "Food/蚵仔煎"]
+      "anchors": ["People/鄭成功", "History/東寧王國"],
+      "articles": [
+        "History/荷西明鄭時期",
+        "History/熱蘭遮城",
+        "Food/虱目魚粥",
+        "Food/蚵仔煎"
+      ]
     },
     {
       "id": "qing",

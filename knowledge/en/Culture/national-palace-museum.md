@@ -1,29 +1,33 @@
 ---
 title: 'National Palace Museum'
-category: Culture
-subcategory: '藝術園區'
-slug: national-palace-museum
 description: "It is the heaviest 'baggage' on this island, and also the most ethereal 'digital dreamscape.' From wooden crates amid the flames of war to pixels under AI computing power, the museum is trying to define what 'Taiwan's Palace Museum' means — between Taipei's Waishuangxi and Chiayi's Taibao."
-tags:
-  - Museum
-  - History
-  - Art
-  - Taipei
-  - Chiayi
-  - 'Jadeite Cabbage'
-  - 'Digital Art'
-  - Transformation
 date: 2026-04-19
-readingTime: 10
+category: 'Culture'
+tags:
+  [
+    'Museum',
+    'History',
+    'Art',
+    'Taipei',
+    'Chiayi',
+    'Jadeite Cabbage',
+    'Digital Art',
+    'Transformation',
+  ]
+subcategory: '藝術園區'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-05-01T12:53:58+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T11:03:58.290717+00:00'
 ---
 
 # National Palace Museum: A Century-Long March from Wartime Crates to AI Dreamscapes

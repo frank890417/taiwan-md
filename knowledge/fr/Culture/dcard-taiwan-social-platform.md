@@ -2,28 +2,30 @@
 title: 'Dcard'
 description: "Un étudiant de Tainan, installé dans un dortoir de l'Université nationale de Taïwan, crée un site pour se faire plus facilement des amis. Ce site devient la plateforme sociale la plus influente pour les jeunes Taïwanais — tout en continuant de grandir face à la question récurrente : « Dcard est-il en train de décliner ? »"
 date: 2026-04-05
+category: 'Culture'
 tags:
   [
-    médias sociaux,
-    start-up taïwanaise,
-    jeune génération,
-    forum,
-    anonymat,
-    université,
-    technologie,
+    'médias sociaux',
+    'start-up taïwanaise',
+    'jeune génération',
+    'forum',
+    'anonymat',
+    'université',
+    'technologie',
   ]
 subcategory: '網路與數位文化'
-category: Culture
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
 lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-06-16T17:13:36Z'
-lastHumanReview: false
+translatedAt: '2026-11-05T07:03:33.820447+00:00'
 ---
 
 # Dcard

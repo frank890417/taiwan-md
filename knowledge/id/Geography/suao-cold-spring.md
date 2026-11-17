@@ -18,7 +18,7 @@ sourceBodyHash: 'sha256:6e4c77ec70105e99'
 translatedAt: '2026-09-10T20:24:57+08:00'
 ---
 
-> **Ringkasan 30 detik:** Su'ao Cold Spring berlokasi di Kecamatan Su'ao, Kabupaten Yilan, dengan suhu air sekitar 22°C sepanjang tahun. Airnya mengandung karbon dioksida dalam jumlah besar, sehingga membentuk gelembung halus di dasar kolam. Ia sekaligus fenomena geologi dan fasilitas kehidupan kota pelabuhan: dulu orang mencuci pakaian, mandi, dan membuat minuman bersoda di tepi mata air; hari ini Taman Cold Spring dan Alishi Cold Spring melanjutkan kenangan lokal tersebut.[↩︎](#參考資料)
+> **Ringkasan 30 detik:** Su'ao Cold Spring berlokasi di Kecamatan Su'ao, Kabupaten Yilan, dengan suhu air sekitar 22°C sepanjang tahun. Airnya mengandung karbon dioksida dalam jumlah besar, sehingga membentuk gelembung halus di dasar kolam. Ia sekaligus fenomena geologi dan fasilitas kehidupan kota pelabuhan: dulu orang mencuci pakaian, mandi, dan membuat minuman bersoda di tepi mata air; hari ini Taman Cold Spring dan Alishi Cold Spring melanjutkan kenangan lokal tersebut.[↩︎](#referensi)
 
 Su'ao Cold Spring tidak terletak di pegunungan jauh, melainkan sekitar tiga ratus meter di depan Stasiun Su'ao di area perkotaan. Kementerian Transportasi dan Komunikasi, Biro Pariwisata mencatatnya sebagai mata air mineral suhu rendah yang ditemukan pada 1928; kenangan budaya lokal lalu menyimpan kisah Takenaka Nobukage (竹中信景) yang meminum air mata air dan meneliti serta mengembangkannya pada 1895. Kedua tanggal tersebut sama-sama ada dalam data resmi, dan tidak boleh digabung kasar menjadi satu tahun tanpa kontroversi.[^1] [^2]
 

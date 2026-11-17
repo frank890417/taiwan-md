@@ -10,10 +10,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:50+08:00'
+translatedAt: '2026-11-02T01:42:18.360944+00:00'
 ---
 
 # Seni Jalanan dan Budaya Grafiti di Taiwan
@@ -84,5 +84,5 @@ Teknologi digital juga membuka kemungkinan baru. Proyeksi dinamis pada dinding b
 
 ## Bacaan Lanjutan
 
-- [Seni Kontemporer Taiwan](/culture/台灣當代藝術) — Persimpangan antara seni jalanan Taiwan dan ekosistem seni kontemporer
-- [Musik Elektronik dan Budaya Party Taiwan](/id/music/taiwan-electronic-music-and-party-culture) — Skena musik elektronik yang berbagi akar subkultur dengan seni jalanan
+- [Seni Kontemporer Taiwan](/id/art/contemporary-art) — Persimpangan antara seni jalanan Taiwan dan ekosistem seni kontemporer
+- [Musik Elektronik dan Budaya Pesta di Taiwan](/id/music/taiwan-electronic-music-and-party-culture) — Skena musik elektronik yang berbagi akar subkultur dengan seni jalanan

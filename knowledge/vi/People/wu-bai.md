@@ -1,21 +1,30 @@
 ---
-title: 'Ngũ Bạch: Khởi hành từ thôn Toán Đầu, xã Lục Cước; Ba mươi năm rock Đài ngữ không giảm giá'
-description: 'Tên thật là Ngô Tuấn Lâm, sinh năm 1968 tại làng Toán Đầu, xã Lục Cước, huyện Gia Nghĩa. Năm 1992 thành lập "Ngũ Bạch & China Blue", và album *Rừng Tây Ban Nha* (挪威的森林) đã xác lập con đường rock Đài ngữ vào năm 1995. Album *Hoa Đinh Ba* (釘子花) được phát hành năm 2016, và đạt giải Album Đài ngữ xuất sắc nhất tại Giải thưởng Kim Khúc năm 2017. Năm 2025 ra mắt album mới *Điểm Khởi Đầu Thuần Bạch* (純白的起點), tour diễn ROCK STAR 2 vượt qua hai bờ eo biển.'
+title: 'Wu Bai: Xuất phát từ thôn Toàn Đầu, xã Lục Giác, rock tiếng Đài Loan ba mươi năm không pha trộn'
+description: 'Tên thật là Ngô Tuấn Lâm, sinh năm 1968 tại thôn Toàn Đầu, xã Lục Giác, huyện Gia Nghĩa. Năm 1992 thành lập ban nhạc "Wu Bai & China Blue", năm 1995 album "Rừng Na Uy" khẳng định con đường rock tiếng Đài Loan. Năm 2016 phát hành album "Hoa Đinh", năm 2017 giành Giải Kim Đinh cho album tiếng Đài Loan xuất sắc nhất. Năm 2025 phát hành album mới "Khởi Đầu Trắng Thuần", tour ROCK STAR 2 diễn ra khắp hai bên eo biển.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Âm nhạc', 'Rock', 'Bài hát Đài ngữ', 'Gia Nghĩa', 'Rock bản địa', 'Guitar']
+  [
+    'Âm nhạc',
+    'Rock',
+    'Ca khúc tiếng Đài Loan',
+    'Gia Nghĩa',
+    'Rock bản địa',
+    'Guitar',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T22:13:05.490035+00:00'
 ---
 
 # Ngũ Bạch: Khởi hành từ thôn Toán Đầu, xã Lục Cước; Ba mươi năm rock Đài ngữ không giảm giá

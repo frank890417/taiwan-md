@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-07-26T10:36:35+08:00'
+translatedAt: '2026-11-04T16:49:15.328018+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Sejak dekade 1950, "wang-zi-biao" Taiwan adalah permainan di tangan anak-anak, sekaligus tolok ukur status di kalangan sebaya — semakin banyak dikumpulkan, semakin berat posisinya di halaman sekolah setelah jam pelajaran. Kartu kertas yang bermula dari "yezi xi" Tiongkok, terinspirasi dari permainan anak-anak Jepang, bermaterial dari logam ke plastik, bergambar dari wayang potehi ke komik, dengan beragam cara main, mengangkut kenangan kolektif beberapa generasi orang Taiwan. Lebih khusus lagi, di Taiwan, bahkan brosur pemilu pun bisa diubah anak-anak menjadi "wang-zi-biao", menjadikan senjata lain di medan pertarungan masa kanak-kanak.

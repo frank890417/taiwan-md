@@ -2,26 +2,31 @@
 title: 'Мемориальный зал Чан Кайши'
 description: 'Это самый грандиозный политический тотем в центре Тайбэя и одновременно самая демократичная танцевальная площадка. От авторитарного святилища до глаза шторма переходной справедливости — это здание зафиксировало самые сильные erschütterungen души Тайваня.'
 date: 2026-04-10
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
-  - 'переходная справедливость'
-  - 'ориентир Тайбэя'
-  - 'Ян Чжочэн'
-  - 'студенческое движение «Дикий лилейник»'
-  - 'авторитарный ландшафт'
-  - 'туризм'
-  - 'район планирования Синьи'
-readingTime: 9
+  [
+    'переходная справедливость',
+    'ориентир Тайбэя',
+    'Ян Чжочэн',
+    'студенческое движение «Дикий лилейник»',
+    'авторитарный ландшафт',
+    'туризм',
+    'район планирования Синьи',
+  ]
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-10
 lastHumanReview: false
-featured: false
+slug: 'cks-memorial-hall'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
-translatedAt: '2026-07-25T07:56:05+08:00'
+translatedAt: '2026-11-05T04:56:18.395279+00:00'
 ---
 
 # Мемориальный зал Чан Кайши

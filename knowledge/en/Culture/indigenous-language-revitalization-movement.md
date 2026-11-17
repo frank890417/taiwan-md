@@ -1,7 +1,8 @@
 ---
 title: "Taiwan's Indigenous Language Revitalization Movement"
+description: "The Thao people of Taiwan have only 4 remaining fluent speakers, yet Taiwan has become one of the world's most intensive language revitalization laboratories. From the 2017 Indigenous Languages Development Act to digital language platforms, a quiet rescue operation is accelerating."
+date: 2026-03-29
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'indigenous peoples',
@@ -10,18 +11,19 @@ tags:
     'language policy',
     'cultural transmission',
   ]
-featured: false
-lastHumanReview: false
-description: "The Thao people of Taiwan have only 4 remaining fluent speakers, yet Taiwan has become one of the world's most intensive language revitalization laboratories. From the 2017 Indigenous Languages Development Act to digital language platforms, a quiet rescue operation is accelerating."
-date: 2026-03-29
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+featured: false
 lastVerified: 2026-03-29
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-11-05T07:41:39.020335+00:00'
 ---
 
 # Taiwan's Indigenous Language Revitalization Movement

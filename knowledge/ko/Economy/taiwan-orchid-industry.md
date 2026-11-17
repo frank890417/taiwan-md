@@ -12,17 +12,17 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: '63fb967a1'
-sourceContentHash: 'sha256:e5ed54a3ae12d0e6'
-sourceBodyHash: 'sha256:f9ade260f241a953'
-translatedAt: '2026-09-12T21:48:55+08:00'
+sourceCommitSha: 'ff8ab4d4d'
+sourceContentHash: 'sha256:38a4067994051318'
+sourceBodyHash: 'sha256:14e97ff0df91ded4'
+translatedAt: '2026-11-04T15:13:26.590788+00:00'
 ---
 
-> **30초 요약:** 1997년, 타이완 화분란의 해외 수출 실적이 처음으로 기록되기 시작했다. 2011년까지 공식 통계상 수출액은 353만 3천 달러에서 9,847만 4천 달러로 증가했다. 그러나 이 길은 단순히 꽃을 꺾어 보내는 과정이 아니었다. 타이완은 육종, 조직 배양, 온실 관리, 검역, 해상 운송, 해외 촉화 및 품종권을 하나의 공급망으로 연결하여, 세심한 관리가 필요한 식물을 국경을 넘어 인계할 수 있는 농업 제품으로 만들었다.
+> **30초 요약:** 1997년, 타이완 화분란의 해외 수출 실적이 처음으로 기록되었다. 2011년에 이르러 공식 통계상의 수출액은 353만 3천 달러에서 9,847만 4천 달러로 증가했으나, 이 과정은 단순히 꽃을 꺾어 보내는 것처럼 간단한 일이 아니었다. 타이완은 육종, 조직 배양, 온실 관리, 검역, 해상 운송, 해외 개화 촉진 및 품종권을 하나의 공급망으로 연결하여, 세심한 관리가 필요한 식물을 국가 간 거래가 가능한 농산물로 탈바꿈시켰다.
 
 ![화분란 Phalaenopsis Taisuco Kobold, 타이난 국제 난전](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-사진: 아차오 HQ / [위키미디어 커먼즈 파일 페이지](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). 이미지 열 주소 임베딩 사용, 다운로드 안됨.
+_사진: 阿橋 HQ／[Wikimedia Commons 파일 페이지](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD%5FPhalaenopsis%5FTaisuco%5FKobold%5F-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95%5FTaiwan%5FInternational%5FOrchid%5FShow-%5F(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). 사진은 웹 링크를 임베드하였으며, 다운로드하지 않음._
 
 ## 꽃은 온실에서 직접 꽃집으로 날아가지 않는다
 
@@ -102,20 +102,20 @@ DUS는 차별성·균일성·안정성을 의미한다. 이러한 기술 용어�
 
 ## 참고 자료
 
-[^1]: [농업부: 농산물 무역 글로벌 배치, 양안 초월 - 타이완 화분란 산업의 부각을 논하다](https://www.moa.gov.tw/ws.php?id=2446099) — 농업부 공식 기사, 화분란 해외 수출 데이터, 미국 수출 재배 기질 계획, 해상 보존 기술 및 산업 온실 분포 기록.
+[^1]: [농업부: 농산물 무역의 글로벌 배치 및 양안 초월 - 대만 호접란 산업의 부상에 관한 고찰](https://www.moa.gov.tw/ws.php?id=2446099) — 농업부 공식 기사로, 호접란 수출 데이터, 미국 수출 매개체 계획, 해상 운송 신선도 유지 기술 및 산업 온실 분포를 기록함.
 
-[^2]: [농업 지식 포털 / 풍년 잡지: '양란'에서 타이완의 빛으로: 화분란 100년 산업 발전](https://www.agriharvest.tw/archives/126282/) — 전문 농업 매체 기사, 원종, 난예 문화, 육종, 타이완 당국 참여, 국제 난전 및 야생 보호 제도의 역사적 맥락 정리.
+[^2]: [농업지식 입구망 / 풍년잡지: '양란'에서 대만의 빛으로: 호접란 100년 산업 발전사](https://www.agriharvest.tw/archives/126282/) — 전문 농업 미디어 기사로, 자생종, 난초 문화, 육종, 타이완 설탕(台糖)의 투자, 국제 난초 전시회 및 야생 보존 제도의 역사적 맥락을 정리함.
 
-[^3]: [타이완 당국: 표지 이야기 - 시판 난초 내가最强- 전설편](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — 타이완 당국 공식 간행물 기사, 기업 전환, 시후 시험 재배, 네덜란드 온실 및 원예과 설치를 통해 화분란 사업의 제도화 과정 설명.
+[^3]: [타이완 설탕(台糖): 커버 스토리 — 시중 판매 난초가 최고다 - 전설 편](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — 타이완 설탕 공식 간행물 기사로, 기업 전환, 계호(溪湖) 시험 재배, 네덜란드식 온실 및 원예학과 설치를 통해 호접란 사업의 제도화 과정을 설명함.
 
-[^4]: [CPVO: CPVO와 타이완, 오시디움 난초로 식물 품종 보호 확대](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — 유럽연합 식물品种국 2026년 공식 발표, 타이만-유럽 화분란 및 오시디움 DUS 테스트 보고서 상호 인정 및 품종권 협력 진전 설명.
+[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — 유럽연합 식물품종보호국(CPVO)의 2026년 공식 공고로, 대만과 EU 간 호접란 및 온시디움 난초의 DUS 검정 보고서 상호 인정 및 품종권 협력 진전 사항을 설명함.
 
-[^5]: [농업부: 식물 품종권面面觀(전면적 관점) - 식물 품종권과 산업 글로벌 배치 - 화분란 사례로](https://www.moa.gov.tw/ws.php?id=2445491) — 농업부 제도 분석 기사, 품종권 속지주의, 화분란 육종 주기, 글로벌 육종 분업 및 산업 체인 배치 설명.
+[^5]: [농업부: 식물 품종권의 다각적 관점 — 식물 품종권과 산업의 글로벌 배치 — 호접란을 중심으로](https://www.moa.gov.tw/ws.php?id=2445491) — 농업부 제도 분석 기사로, 품종권 속지주의, 호접란 육종 주기, 글로벌 육종 분업 및 산업 체인 배치를 설명함.
 
-[^6]: [자오신옌: 타이완 화분란 산업 생산 양상 연구 - 타이난 지역 사례](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Airiti收录(수집)한 국립 타이완 사범대학 석사 논문 페이지, 타이난 생산 지역, 농업 산업화, 핵심 및 위성 난원 및 사회 네트워크 연구 요약 제공.
+[^6]: [자오신옌(趙欣燕): 대만 호접란 산업의 생산 형태 연구 — 타이난 지역을 중심으로](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Airiti에 수록된 국립 타이완 사범대학교 석사 학위 논문 페이지로, 타이난 생산 지역, 농업 산업화, 핵심 및 위성 난초원과 사회적 네트워크 연구 요약을 제공함.
 
-[^7]: [S. Wei 등: 타이완 난초 산업의 가치 사슬 역학](https://www.actahort.org/books/878/878_56.htm) — Acta Horticulturae 영어 학술 논문 페이지, 심층 인터뷰 분석을 통해 타이완 난초 중소형 기업, 가치 사슬, 기술 우위 및 장기 지속 가능성 문제 분석.
+[^7]: [S. Wei 외: Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — Acta Horticulturae 영문 학술 논문 페이지로, 심층 인터뷰를 통해 대만 난초 중소기업, 가치 사슬, 기술적 우위 및 장기적 지속 가능성 문제를 분석함.
 
-[^8]: [농업부: 타이만-일본 간 식물 품종 테스트 보고서 협력备忘录(각서) 서명, 협력의 새 장 열다](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 농림성 2024년 공식 뉴스, 타이만-일본 간 식물 품종 테스트 보고서 상호 인정, 품종권 심사 시간, 17건의 해외 품종권 성과 및 해외 신청 비용 설명.
+[^8]: [농업부: 대만-일본 식물 품종 검정 보고서 협력 양해각서 체결로 협력의 새 장을 열다](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 농산물농지국(農糧署)의 2024년 공식 뉴스 보도로, 대만과 일본 간 식물 품종 검정 보고서 상호 인정, 품종권 심사 시간, 17건의 해외 품종권 성과 및 해외 신청 비용에 대해 설명함.
 
-[^9]: [위키미디어 커먼즈: 화분란 Phalaenopsis Taisuco Kobold - 타이난 국제 난전](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 원본 링크 내용 자료 보완 참조
+[^9]: [Wikimedia Commons: 호접란 Phalaenopsis Taisuco Kobold — 타이난 국제 난초 전시회](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 원본 링크 내 본문 자료 보충 참조

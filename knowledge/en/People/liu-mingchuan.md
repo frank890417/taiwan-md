@@ -2,9 +2,7 @@
 title: "Liu Ming-chuan: Lighting Taiwan's First Electric Lamp, a Modernizing Pioneer Running Through Power and Controversy"
 description: "From the son of a salt smuggler to Taiwan's first governor, Liu Ming-chuan spent six years in Taiwan not only promoting railways and postal services, but also lighting the Qing Empire's first electric lamp inside Taipei City. Yet his strategic decision to abandon Keelung and reinforce Huwei, along with his impatient policies toward Indigenous administration and land-tax reform, also left deep debates and shadows in the long course of history."
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Liu Ming-chuan',
@@ -14,15 +12,19 @@ tags:
     'Sino-French War',
     'Electric Power Infrastructure',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:38:31.540235+00:00'
 ---
 
 > **30-Second Overview:** The artillery fire of the 1884 Sino-French War pushed Liu Ming-chuan to a turning point in Taiwan's history. He not only successfully resisted foreign invasion; during his subsequent six years as governor, he also turned Taipei into one of the Qing Empire's most advanced cities, with its first passenger railway, first electric lamp, and earliest Western-style school. Yet this "first modernizer" did not govern without difficulty. His decision to retreat on the battlefield and his high-pressure domestic policies remain focal points of unresolved debate among historians.
@@ -66,22 +68,22 @@ Today, as we walk the streets of Taipei or take the train through northern Taiwa
 
 [^1]: Tseng Yuan-chih. (2024, July 6). [A General History of Taiwan] Was he a visionary pioneer or an ambitious man who brought chaos? Liu Ming-chuan's six turbulent years in Taiwan. StoryStudio. [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan)
 
-[^2]: Huang Wei-ting. (n.d.). Liu Ming-chuan. Taiwan Cultural Memory Bank. [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191)
+[^2]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191) — Huang Wei-ting. (n.d.). Liu Ming-chuan. Taiwan Cultural Memory Bank
 
-[^3]: Postal Museum. (n.d.). Dragon Horse Stamps. [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63)
+[^3]: [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63) — Postal Museum. (n.d.). Dragon Horse Stamps
 
-[^4]: Yike Jingxuan. (2023, September 22). The first person who truly loved Taiwan! Liu Ming-chuan and his "Grand Dream of Uncle Liu." Liangliang Reading. [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846)
+[^4]: [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846) — Yike Jingxuan. (2023, September 22). The first person who truly loved Taiwan! Liu Ming-chuan and his "Grand Dream of Uncle Liu." Liangliang Reading
 
-[^5]: Podcasts. (2022, July 21). EP58 Liu Ming-chuan: Taiwan's First Modernizer. Apple Podcasts. [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731)
+[^5]: [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731) — Podcasts. (2022, July 21). EP58 Liu Ming-chuan: Taiwan's First Modernizer. Apple Podcasts
 
-[^6]: Taiwan's First Governor Liu Ming-chuan Laid the Foundations of Modernization. (2015, July 23). The Epoch Times. [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm)
+[^6]: [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm) — Taiwan's First Governor Liu Ming-chuan Laid the Foundations of Modernization. (2015, July 23). The Epoch Times
 
 [^7]: Li Yi. (2019, September 30). [Column] Historical Reenactment of the Sino-French War Series (VIII): Abandoning Keelung to Reinforce Huwei, Liu Ming-chuan Preserved Taipei City. Tamsui Historical Museum, New Taipei City. [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304)
 
-[^8]: Taiwan Power Company. (2025, August 25). Taiwan's Oldest Existing Generator Is Inside This School! Power Story Museum. [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost)
+[^8]: [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost) — Taiwan Power Company. (2025, August 25). Taiwan's Oldest Existing Generator Is Inside This School! Power Story Museum
 
-[^9]: The Transformation of Taipei City. (n.d.). Department of Architecture, National Taiwan University of Science and Technology. [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm)
+[^9]: [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm) — The Transformation of Taipei City. (n.d.). Department of Architecture, National Taiwan University of Science and Technology
 
-[^10]: The Truth Not Written in History Textbooks: It Was Actually Not Liu Ming-chuan Who Repelled the French Army. (2025, December 11). Threads. [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/)
+[^10]: [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/) — The Truth Not Written in History Textbooks: It Was Actually Not Liu Ming-chuan Who Repelled the French Army. (2025, December 11). Threads
 
-[^11]: Taipei City Line. (n.d.). Taipei Teachers' In-Service Education Center. [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm)
+[^11]: [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm) — Taipei City Line. (n.d.). Taipei Teachers' In-Service Education Center

@@ -2,9 +2,7 @@
 title: '黄氏兄弟：清新というラベルの背後にあった、強制的に広げられた真実と優しさ'
 description: '2017 年の一本のドッキリ動画から始まり、黄氏兄弟は「清新で、ポジティブ」というイメージで YouTube 界に頭角を現しました。しかし 2020 年の強制アウティング報道により、この兄弟はチャンネル登録者数 100 万人超の頂点にいた時期に、カメラの前でプライバシーを解体することを余儀なくされました。それは同時に、台湾社会がジェンダー平等に対して示した、最も優しい集団的応答の一つを思いがけず描き出すことにもなりました。'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -14,15 +12,19 @@ tags:
     'ジェンダー平等',
     '台湾文化',
   ]
-readingTime: 12
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-04T20:37:24.173926+00:00'
 ---
 
 > **30 秒でわかる概要：**
@@ -82,28 +84,28 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 ## 参考資料
 
-[^1]: [YouTuber 黄氏兄弟インタビュー：視聴者とともに成長する創作の歩み](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦（詳細は原リンク本文の補足資料を参照）
+[^1]: [YouTuber 黄氏兄弟インタビュー：視聴者と共に成長した創作の軌跡](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦（詳細は元のリンク本文の資料補充を参照）
 
-[^2]: [20 か月間一度も休暇なし！ 黄氏兄弟が振り返る創作の苦労史](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [20ヶ月間一度も休暇なし！ 黄氏兄弟が創作の苦労を振り返る](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【兄弟で公益活動】地方の小学校を丸一日貸し切り](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — 黄氏兄弟 YouTube チャンネル
+[^3]: [【兄弟で公益活動】僻地の小学校を一日貸し切り](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — 黄氏兄弟 YouTube チャンネル
 
-[^4]: [やるなら最高までやり切る！YouTuber 黄氏兄弟の多方面への挑戦と完璧の追求](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [やるなら徹底的に！YouTuber 黄氏兄弟が多角的に挑戦し、完璧を追求](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [100 万人級人気 YouTuber はいかに鍛えられたのか？ 黄氏兄弟インタビュー](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [登録者数100万人のYouTuberはどう作られたか？黄氏兄弟へのインタビュー](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [黄氏兄弟に学ぶ実行力｜自由な発想の背後にある精確な自己定位](https://premium.parenting.com.tw/article/5087793) — 親子天下（詳細は原リンク本文の補足資料を参照）
+[^6]: [黄氏兄弟に学ぶ実行力｜天馬行空の裏にある精緻な自己定位](https://premium.parenting.com.tw/article/5087793) — 親子天下（詳細は元のリンク本文の資料補充を参照）
 
-[^7]: [ウェイウェイが強制アウティング、彼は怒り「まさに強姦的公開だ」](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo 新聞
+[^7]: [ウェイウェイが強制的にカミングアウトさせられ、彼が激怒：「まさに強姦のような公開」](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo ニュース
 
-[^8]: [報道について、家族に話したいこと【黄氏兄弟】](https://www.youtube.com/watch?v=jo7ggR1f54s) — 黄氏兄弟 YouTube 動画
+[^8]: [報道について、家族に伝えたいこと【黄氏兄弟】](https://www.youtube.com/watch?v=jo7ggR1f54s) — 黄氏兄弟 YouTube 動画
 
-[^9]: [黄氏兄弟ウェイウェイの「アウティング」 あなたは謝る必要はありません](https://newslab.pts.org.tw/news/216) — 公視圖發新聞
+[^9]: [黄氏兄弟ウェイウェイ「強制カミングアウト」 あなたは謝る必要はない](https://newslab.pts.org.tw/news/216) — 公視ニュース
 
-[^10]: [200 万 YouTuber ウェイウェイ黄挺瑋が「シンガーソングライター」に、初のソロ EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [登録者200万人のYouTuberウェイウェイ、黄挺ウェイが「創作歌手」として初の個人EPをリリース](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [黄氏兄弟が市民に支援を必要とする学童への応援を呼びかけ、紅心字会公益大使に就任](https://money.udn.com/money/story/5723/8957929) — 經濟日報（經濟日報報道）
+[^11]: [黄氏兄弟が国民に呼びかけ、弱勢児童を応援し紅心字会の公益大使を務める](https://money.udn.com/money/story/5723/8957929) — 経済日報（経済日報報道）
 
-[^12]: [【KOL 営業中】黄氏兄弟がドッキリで一線を越えた経験を自ら暴露](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo 新聞
+[^12]: [【KOL営業中】黄氏兄弟が自ら暴露：イタズラで一線を越えたことがある](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo ニュース
 
-[^13]: [面白動画だけではない YouTuber が影響力を発揮し社会的責任を果たす](https://csr.cw.com.tw/article/41369) — 天下 CSR
+[^13]: [お笑い動画だけじゃない YouTuberが影響力を発揮し社会的責任を果たす](https://csr.cw.com.tw/article/41369) — 天下 CSR

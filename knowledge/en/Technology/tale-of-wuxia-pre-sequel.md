@@ -2,6 +2,7 @@
 title: 'Legend of Mortal: Two People, 30% Approval, 700,000 Copies'
 description: 'In June 2024, two Taiwanese developers with no game-industry background launched a wuxia RPG. Within a week, the Steam approval rating fell below 30% as Chinese players bombed it with negative reviews. Twelve days later it climbed back to 70%; a month later, 94%. Six months in, sales passed 700,000 copies, and Korean and Taiwanese fans organized themselves to translate it into Japanese. The protagonist is "an outsider disciple with no main-character aura" — and so is the team that built him.'
 date: 2026-04-25
+category: 'Technology'
 tags:
   [
     'Legend of Mortal',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '社群與數位文化'
 author: 'zaious'
-readingTime: 9
-category: 'Technology'
-lastVerified: 2026-04-25
 featured: false
+lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-04-30T22:33:56+08:00'
+translatedAt: '2026-11-04T17:35:12.285050+00:00'
 ---
 
 > On 14 June 2024, a wuxia RPG called _Legend of Mortal_ (活俠傳) launched on Steam. The development team, Obb Studio (原始鳥熊), had only two members — "Bird" wrote the code, "Bear" wrote the story and drew everything. Neither came from the game industry; this was their first title. In its first week, the Steam approval rating dropped below 30%. Twelve days later it was back to 70%. A month later, 94%. Six months in, sales hit 700,000 copies and the Steam rating settled at 9/10. Korean fans completed an unofficial Korean localization on their own, and a Taiwan-Korea collective then organized to translate the game into Japanese. The protagonist is written as "a nobody disciple with no main-character aura," and so are the people who built him.

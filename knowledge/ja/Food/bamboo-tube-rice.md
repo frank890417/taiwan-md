@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-05-09T14:30:48Z'
+translatedAt: '2026-11-04T23:48:41.058605+00:00'
 ---
 
 > **30秒概覧：** 竹筒飯（ジュートンファン）は台湾先住民族を代表する米料理の一つで、山中で調理道具が手に入らないハンターの知恵から生まれました。台湾固有種の桂竹（グイジュー）の天然水分と竹の清々しい香りを利用し、炭火で直接焼くことで、ご飯はしっとりと仕上がり独特の清香が漂います。これは単なる料理ではなく、森の資源管理と物理科学の実践体系です。

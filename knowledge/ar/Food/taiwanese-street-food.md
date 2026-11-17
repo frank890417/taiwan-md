@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-23T01:05:24+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T04:19:14.207520+00:00'
 ---
 
 # المأكولات الشعبية التايوانية (Xiao Chi)
@@ -186,8 +186,9 @@ translatedAt: '2026-09-23T01:05:24+08:00'
 
 ## مواضيع ذات صلة
 
-- [ثقافة الأسواق الليلية](/ar/food/night-market-culture) — تحليل معمق للسوق الليلي كمجال اجتماعي
-- [شاي الفقاعات](/ar/food/bubble-tea) — الهيمنة العالمية للمأكولات السائلة
-- [الأرز المتبل التايواني (Lu Rou Fan)](/ar/food/braised-pork-rice) — الذاكرة العرقية في طبق من الأرز المتبل
-- [الثقافة الغذائية لـ هاككا](/ar/food/hakka-food-culture) — حكمة المجتمع الهاككا الغذائية
-- [اندماج طعام السكان الجدد التايوانيين](/ar/food/taiwanese-new-immigrant-culinary-fusion) — موجة التهجين الغذائي القادمة
+- [ثقافة الأسواق الليلية](/ar/food/night-market-culture) — تحليل متعمق للأسواق الليلية كمجال اجتماعي
+- [شاي الفقاعات](/ar/food/bubble-tea) — الهيمنة العالمية للوجبات الخفيفة السائلة
+- [كرات البطاطا الحلوة](/ar/food/sweet-potato-balls) — قصة المنشأ تحت جسر تشونغتشينغ، والفراغ الذي يضغطه الباعة أمام قدر الزيت
+- [أرز باللحم التايواني](/ar/food/braised-pork-rice) — ذاكرة عرقية في وعاء واحد من اللحم المطهو ببطء
+- [ثقافة الطعام الهاكا](/ar/food/hakka-food-culture) — حكمة الطعام لدى مجموعة الهاكا العرقية
+- [اندماج مطبخ الوافدين الجدد في تايوان](/ar/food/taiwanese-new-immigrant-culinary-fusion) — موجة الاندماج الغذائي القادمة تحدث الآن

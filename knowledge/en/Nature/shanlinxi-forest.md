@@ -17,13 +17,16 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
+image: '/article-images/nature/sun-link-sea-forest-valley.webp'
+imageCredit: 'lienyuan lee'
+imageLicense: 'CC BY 3.0'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Nature/杉林溪.md'
-sourceCommitSha: 'c4c68308d'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:bc1981684ea96389'
 sourceBodyHash: 'sha256:8fca360e2bf80295'
-translatedAt: '2026-09-11T14:44:00+08:00'
+translatedAt: '2026-11-04T14:46:30.854628+00:00'
 ---
 
 ![Shanlinxi Forest and Valley Landscape](/article-images/nature/sun-link-sea-forest-valley.webp)

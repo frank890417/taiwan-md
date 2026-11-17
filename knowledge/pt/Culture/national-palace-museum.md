@@ -2,9 +2,7 @@
 title: 'Museu Nacional do Palácio'
 description: 'É a "bagagem" mais pesada desta ilha, e também o mais leve "reino digital de fantasia". Das caixas de madeira em meio à guerra aos pixels sob poder de computação de IA, o Museu do Palácio tenta definir, entre Wai Shuang-hsi em Taipé e Taibao em Chiayi, o que é o "Museu do Palácio de Taiwan".'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
   [
     'Museu',
@@ -16,15 +14,20 @@ tags:
     'Arte Digital',
     'Transformação',
   ]
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-05T07:25:31.016303+00:00'
 ---
 
 # Museu Nacional do Palácio: da caixa de madeira em guerra ao reino de fantasia de IA — uma longa marcha de cem anos

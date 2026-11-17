@@ -2,6 +2,7 @@
 title: 'Dcard'
 description: "A website built by a kid from Tainan in a National Taiwan University dormitory to make it easier to make friends — it became Taiwan's most influential social platform for young people, and has been growing up while simultaneously facing the question of whether Dcard is dying."
 date: 2026-04-05
+category: 'Culture'
 tags:
   [
     'social media',
@@ -15,15 +16,16 @@ tags:
 subcategory: '網路與數位文化'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
-category: 'Culture'
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-06-16T17:10:15Z'
+translatedAt: '2026-11-05T08:17:49.803283+00:00'
 ---
 
 # Dcard

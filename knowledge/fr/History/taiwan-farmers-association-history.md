@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-11T18:44:55+08:00'
+translatedAt: '2026-11-02T15:37:31.160294+00:00'
 ---
 
 # Les associations agricoles ne vendent pas que des engrais : comment l'organisation publique rurale taïwanaise est passée du système colonial à la réforme des départements de crédit
@@ -126,11 +126,11 @@ Les associations agricoles n'ont pas été conservées telles quelles depuis la 
 
 La position historique des associations agricoles réside ici. Les politiques agricoles de l'État pénètrent dans le quotidien local par leur intermédiaire ; les compétitions pour les ressources locales reviennent au système institutionnel de l'État par leur intermédiaire. Comprendre clairement ce chemin aller-retour permet de saisir comment les associations agricoles offrent des services tout en subissant les pressions du contrôle et de la compétition.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Réforme foncière à Taïwan](/fr/history/taiwan-land-reform) — Le contexte institutionnel de l'amélioration des associations agricoles et de la restructuration du pouvoir rural post-guerre
-- [Développement de la modernisation agricole à Taïwan](/fr/economy/taiwan-agricultural-modernization) — L'autre fil de la promotion par les associations agricoles, de la technique agricole et de la transformation industrielle
-- [Histoire de l'eau potable à Taïwan](/history/台灣自來水史) — Une lecture comparative passant des organisations rurales aux systèmes d'infrastructures publiques
+- [La réforme agraire à Taïwan](/fr/history/taiwan-land-reform) — Le contexte institutionnel de l'amélioration des associations agricoles et de la restructuration du pouvoir rural après la guerre.
+- [Le développement de la modernisation agricole à Taïwan](/fr/economy/taiwan-agricultural-modernization) — Un autre fil conducteur concernant la promotion par les associations agricoles, les technologies agricoles et la transformation industrielle.
+- [Histoire de l'eau courante à Taïwan](/fr/geography/taiwan-tap-water) — Une lecture comparative sur le passage des organisations rurales vers les institutions d'infrastructures publiques.
 
 ## Références
 

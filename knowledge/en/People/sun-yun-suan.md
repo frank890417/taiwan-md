@@ -1,26 +1,29 @@
 ---
 title: 'Sun Yun-suan: The Engineer-Premier Who Lit Up Taiwan from the Dark'
 description: 'From the five-month miracle of restoring electricity in postwar ruins, to the visionary bet on the semiconductor industry, Sun Yun-suan laid the foundations of modern Taiwan with engineering pragmatism and incorruptible character.'
-category: People
+date: 2026-04-30
+category: 'People'
 tags:
   [
-    Sun Yun-suan,
-    Taiwan Power Company,
-    semiconductor,
-    ITRI,
-    Ten Major Construction Projects,
+    'Sun Yun-suan',
+    'Taiwan Power Company',
+    'semiconductor',
+    'ITRI',
+    'Ten Major Construction Projects',
   ]
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
-date: 2026-04-30
-readingTime: 8
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-05-16T22:19:17Z'
-featured: false
+translatedAt: '2026-11-04T23:13:16.265322+00:00'
 ---
 
 > **30-Second Overview:** In the modernization of Taiwan, **Sun Yun-suan** (孫運璿, 1913–2006) is a name you cannot bypass. Hailed as "the eternal Premier," his public image fuses the professionalism of a technocrat, an incorruptible personal character, and decisive courage at pivotal moments of national transformation. From repairing power lines in postwar ruins, to overriding objections in the 1970s to push Taiwan into semiconductors, Sun Yun-suan's life is, in a sense, an entrepreneurial history of Taiwan's journey from desolation to prosperity [^1][^2].

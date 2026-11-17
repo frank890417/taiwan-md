@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-08-03T21:46:31+08:00'
+translatedAt: '2026-11-04T20:54:25.557695+00:00'
 ---
 
 # ह्सु फांग-यी: यीलान 1971, ग्राहम नृत्य मंडल की प्रमुख नर्तकी से 2024 गोल्डन हॉर्स मुख्य दृश्य नर्तकी तक

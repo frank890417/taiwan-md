@@ -3,7 +3,6 @@ title: 'Ray Du: Do estudante internacional que rejeitava o inglês ao líder da 
 description: 'Em 2020, o YouTuber Ray Du iniciou uma campanha de arrecadação de fundos para anúncio no New York Times, mostrando Taiwan ao mundo; em 2021, ele revelou ter sido diagnosticado com depressão, enfrentando uma baixa existencial. De sua infância em Singapura, onde lutou contra o inglês, até fundar uma associação de criadores de conteúdo, Ray Du não é apenas um influenciador de conhecimento, mas também um impulsionador da nova mídia em Taiwan.'
 date: 2026-04-20
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -12,16 +11,19 @@ tags:
     'depressão',
     'anúncio do New York Times',
   ]
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-04T21:07:37.551281+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2020, o YouTuber Ray Du (Ray Du) lançou uma campanha de arrecadação de fundos "ThisAttackComesFromTaiwan", atingindo a meta de US$ 400.000 em algumas horas e, finalmente, arrecadando quase US$ 19 milhões para publicar um anúncio completo no New York Times, respondendo às declarações do secretário-geral da OMS, Tedros Adhanom, sobre Taiwan. No ano seguinte, ele compartilhou publicamente sua jornada de luta contra a depressão há um ano e, juntamente com Ji Qi, fundou a Associação de Criadores de Conteúdo de Nova Mídia de Taiwan, assumindo o papel de líder da associação, criando um ecossistema de apoio mútuo para criadores em Taiwan. De estudante internacional em Singapura que rejeitava o inglês a líder respeitado da comunidade de YouTubers de Taiwan, a história de Ray Du é mais do que uma transformação pessoal; é o reflexo real da evolução da nova mídia de Taiwan, da criação individual para o cuidado coletivo.

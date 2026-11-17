@@ -1,0 +1,208 @@
+---
+/**
+ * RentVsBuy.astro — 買與租比較
+ * 逐年比較買房與租房兩條路的淨資產；房價年變動率與投資報酬率預設 0，結果完全取決於讀者填的假設。
+ * 計算在 src/utils/housing/mortgage.ts 的 compareRentVsBuy。
+ */
+import ToolShell from './ToolShell.astro';
+import Field from './Field.astro';
+import { labelsFor } from './labels';
+import { useTranslations } from '../../../i18n/utils';
+import type { TranslationKey } from '../../../i18n/utils';
+import { nextUid } from '../../../utils/housing/uid';
+import {
+  rentBuyDefaults,
+  rentBuyView,
+  type AffordabilityFixtures,
+  type Ctx,
+  type QinganData,
+} from '../../../utils/housing/tool-models';
+import qingan from '../../../data/housing/qingan.json';
+import fixtures from '../../../data/housing/calc-fixtures.json';
+import type { Lang } from '../../../types';
+
+interface Props {
+  lang?: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+  headingLevel?: 2 | 3 | 4;
+  syncUrl?: boolean;
+  toolsPath?: string;
+}
+const {
+  lang = 'zh-TW',
+  variant = 'inline',
+  headingLevel = 3,
+  syncUrl = true,
+  toolsPath = '',
+} = Astro.props;
+
+const t = useTranslations(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const uid = nextUid('rb');
+const labels = labelsFor(lang, ['common.', 'rentbuy.']);
+const q = qingan as unknown as QinganData;
+const fx = fixtures as unknown as AffordabilityFixtures;
+const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
+const values = rentBuyDefaults(ctx);
+const view = rentBuyView(values, ctx);
+const L = (k: string) => labels[k] ?? k;
+const f = (
+  name: string,
+  label: string,
+  extra: Record<string, any> = {},
+): any => ({
+  name,
+  label,
+  uid,
+  values,
+  ...extra,
+});
+const fxAny = fixtures as any;
+const sources = [
+  {
+    agency: '內政部不動產資訊平台',
+    title: fxAny.officialAffordability.sourceTitle,
+    url: fxAny.officialAffordability.sourceUrl,
+    date: fxAny.asOf,
+  },
+];
+---
+
+<ToolShell
+  lang={lang}
+  tool="rentbuy"
+  variant={variant}
+  title={tt('rentbuy.title')}
+  intro={tt('rentbuy.intro')}
+  headingLevel={headingLevel}
+  asOf={q.asOf}
+  sources={sources}
+  labelsJson={JSON.stringify(labels)}
+  toolsPath={toolsPath}
+  syncUrl={syncUrl}
+>
+  <div class="hst-layout">
+    <form class="hst-form" autocomplete="off" onsubmit="return false">
+      <fieldset class="hst-group">
+        <legend>{L('rentbuy.group.buy')}</legend>
+        <Field
+          {...f('price', L('rentbuy.f.price'), { step: '10', min: '1' })}
+        />
+        <Field {...f('down', L('rentbuy.f.down'), { step: '10', min: '0' })} />
+        <Field
+          {...f('years', L('rentbuy.f.years'), {
+            step: '1',
+            min: '1',
+            max: '50',
+          })}
+        />
+        <Field
+          {...f('rate', L('rentbuy.f.rate'), { step: '0.001', min: '0' })}
+        />
+        <Field
+          {...f('buyCost', L('rentbuy.f.buyCost'), { step: '0.1', min: '0' })}
+        />
+        <Field
+          {...f('holdCost', L('rentbuy.f.holdCost'), { step: '0.1', min: '0' })}
+        />
+        <Field
+          {...f('sellCost', L('rentbuy.f.sellCost'), { step: '0.1', min: '0' })}
+        />
+      </fieldset>
+      <fieldset class="hst-group">
+        <legend>{L('rentbuy.group.rent')}</legend>
+        <Field
+          {...f('rent', L('rentbuy.f.rent'), { step: '1000', min: '0' })}
+        />
+        <Field
+          {...f('rentGrowth', L('rentbuy.f.rentGrowth'), { step: '0.1' })}
+        />
+      </fieldset>
+      <fieldset class="hst-group">
+        <legend>{L('rentbuy.group.assume')}</legend>
+        <Field
+          {...f('horizon', L('rentbuy.f.horizon'), {
+            step: '1',
+            min: '1',
+            max: '50',
+          })}
+        />
+        <Field {...f('growth', L('rentbuy.f.growth'), { step: '0.1' })} />
+        <Field {...f('invest', L('rentbuy.f.invest'), { step: '0.1' })} />
+        <p class="hst-help">{L('rentbuy.defaultNote')}</p>
+      </fieldset>
+      <button type="button" class="hst-btn" data-hs-reset>
+        {L('common.reset')}
+      </button>
+    </form>
+
+    <div class="hst-results">
+      <div class="hst-out" aria-live="polite">
+        <p
+          class="hst-error"
+          data-hs-show="error"
+          data-hs-out="error"
+          hidden={!view.show.error}
+        >
+          {view.text.error}
+        </p>
+        <div
+          class="hst-results"
+          data-hs-show="result"
+          hidden={!view.show.result}
+        >
+          <p class="hst-take" data-hs-out="take">{view.text.take}</p>
+          <p class="hst-note">{L('rentbuy.takeNote')}</p>
+          <dl class="hst-stats">
+            <div class="hst-stat hst-stat-key">
+              <dt>
+                {L('rentbuy.stat.endBuy')}
+                <span data-hs-out="atYear">{view.text.atYear}</span>
+              </dt>
+              <dd data-hs-out="endBuy">{view.text.endBuy}</dd>
+            </div>
+            <div class="hst-stat hst-stat-key">
+              <dt>
+                {L('rentbuy.stat.endRent')}
+                <span data-hs-out="atYear2">{view.text.atYear}</span>
+              </dt>
+              <dd data-hs-out="endRent">{view.text.endRent}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('rentbuy.stat.diff')}</dt>
+              <dd data-hs-out="diff">{view.text.diff}</dd>
+            </div>
+            <div class="hst-stat">
+              <dt>{L('rentbuy.stat.cross')}</dt>
+              <dd data-hs-out="crossYear">{view.text.crossYear}</dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+      <div class="hst-visuals" data-hs-show="result" hidden={!view.show.result}>
+        <div
+          class="hst-chart"
+          data-hs-html="chart"
+          set:html={view.html.chart}
+        />
+        <details class="hst-more">
+          <summary>{L('common.chartData')}</summary>
+          <div
+            class="hst-tablewrap"
+            data-hs-html="table"
+            set:html={view.html.table}
+          />
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <Fragment slot="assump">
+    <p>{L('rentbuy.assump')}</p>
+  </Fragment>
+</ToolShell>
+
+<script>
+  import { bootTool } from '../../../utils/housing/tool-boot';
+  bootTool('rentbuy');
+</script>

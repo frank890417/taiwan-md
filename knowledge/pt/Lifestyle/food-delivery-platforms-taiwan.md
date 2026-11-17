@@ -1,6 +1,6 @@
 ---
 title: 'Plataformas de entrega: um botão leva até casa, quem corre pela cidade?'
-description: 'Após 2019, a entrega deixou de ser um novo serviço para se tornar infraestrutura cotidiana das cidades de Taiwan: restaurantes a usam para alcançar novos clientes, consumidores para encurtar a espera, mas são os entregadores que, entre o celular, a moto e as ruas, assumem o tempo e os riscos invisíveis.'
+description: 'Após 2019, a entrega deixou de ser novidade para virar infraestrutura cotidiana das cidades de Taiwan: restaurantes a usam para alcançar novos clientes, consumidores para encurtar a espera, e entregadores, entre celular, moto e asfalto, assumem o tempo e o risco invisíveis. Em 21 de outubro de 2026, a Comissão de Comércio Justo, com base em quatro motivos centrados na participação de 13,1% da Uber na Grab, votou pela proibição desta aquisição de NT$ 19,3 bilhões; a foodpanda permanece na marca original, o mercado mantém o duopólio, e a Comissão esclareceu que novo pedido poderá ser apresentado no futuro.'
 date: 2026-08-15
 category: 'Lifestyle'
 tags:
@@ -14,162 +14,197 @@ tags:
 subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-08-15
+lastVerified: 2026-11-04
 lastHumanReview: false
-readingTime: 8
+readingTime: 18
 curation: 'incubating'
+rationale:
+  why_this_hook: '從 2021 年凱道那場外送員遊行開場，因為這份工作先以道路風險被社會看見；合併案與專法都是同一條線後來的制度反應。'
+  whats_excluded: '不寫各平台抽成與外送員報酬的具體數字（現有來源沒有公開方案）、不預測公平會是否會因重新申請而改變結論。'
+  where_it_hedges: '2026 年 10 月 21 日的禁止結合引公平會新聞稿與中央社報導；公平會新聞稿頁本文為 JavaScript 產生、無法擷取內文，故理由與表決細節以中央社同口徑報導為據。Grab 的整併時程屬企業規劃，已註明最後未發生。'
+  whos_pushing_back: '認為禁止結合讓市場維持雙占、反而保護既有業者的讀者；以及主張只要附加負擔即可、不必禁止的讀者（委員會中那一票）。'
 translatedFrom: 'Lifestyle/外送平台.md'
-sourceCommitSha: '62194c6e6'
-sourceContentHash: 'sha256:4fcef48a4fb87a46'
-sourceBodyHash: 'sha256:13fc2011ed2fd336'
-translatedAt: '2026-09-12T19:57:16+08:00'
+sourceCommitSha: 'd0d78ae50'
+sourceContentHash: 'sha256:e9fe365d20b93673'
+sourceBodyHash: 'sha256:79a48da3f8317992'
+translatedAt: '2026-11-05T10:53:39+08:00'
 ---
 
-Em 1º de maio de 2021, entregadores marcharam na Avenida Ketagalan junto com a classe trabalhadora. No mesmo horário, as refeições de Taipé continuavam saindo dos estabelecimentos, cruzando as ruas, chegando à porta de quem não podia ou não queria sair. Naquele ano, o número de entregadores de refeições em Taiwan já se aproximava de 88.000 pessoas.[^1]
+Em 1º de maio de 2021, entregadores marcharam junto com a classe trabalhadora até a Avenida Ketagalan. No mesmo momento, as refeições de Taipé continuavam saindo dos estabelecimentos, cruzando as ruas e chegando às casas de quem não podia ou não queria sair. Naquele ano, o número de entregadores de comida em Taiwan já se aproximava de 88.000 pessoas.[^1]
 
-Alguns anos antes, pedir uma refeição era como entregar a vida ao telefone do comércio vizinho. Chegada a pandemia, a proporção de estabelecimentos de alimentação que ofereciam entrega e entrega a domicílio subiu de 43,3% em abril de 2019 para 67,0% em junho de 2021, durante o alerta de nível três. Mesmo com a retomada gradual do consumo no local em maio de 2022, 64,6% dos estabelecimentos de alimentação ainda ofereciam serviço de entrega.[^2]
+Há alguns anos, pedir uma refeição era como confiar o jantar ao telefone do restaurante da vizinhança. Durante a pandemia, a proporção de estabelecimentos de alimentação que ofereciam entrega domiciliar subiu de 43,3% em abril de 2019 para 67,0% em junho de 2021, durante o alerta de nível 3. Mesmo com a retomada gradual do consumo no local em maio de 2022, 64,6% dos estabelecimentos ainda mantinham o serviço de entrega.[^2]
 
-> Legenda: A reportagem da Agência Central de Notícias apontou que, se a Comissão de Comércio Justo aprovar a análise, a Grab planejava concluir a transação no segundo semestre de 2026. A imagem e as informações do evento baseiam-se no artigo da Agência Central de Notícias.[^10]
+> Legenda: O caso de aquisição do negócio da foodpanda em Taiwan pela Grab foi proibido por decisão da Comissão de Comércio Justo em 21 de outubro de 2026; o cronograma originalmente planejado para a transação no segundo semestre de 2026 e a integração em 2027 deixou de vigorar. Imagens e informações do evento baseiam-se em artigos da Agência Central de Notícias.[^10][^16]
 
-A entrega, portanto, não é apenas "alguém busca sua refeição". Ela conecta a cozinha do restaurante, o algoritmo da plataforma, o celular e a moto do entregador, as ruas da cidade e a porta de quem recebe na mesma linha. Essa linha encurta a espera, mas também concentra custos antes dispersos em diferentes lugares sobre uma única pessoa invisível.
+A entrega, portanto, não é apenas "alguém buscar sua comida". Ela conecta em uma mesma linha a cozinha do restaurante, o algoritmo da plataforma, o celular e a moto do entregador, as ruas da cidade e a porta de quem recebe. Essa linha encurta a espera, mas também concentra em uma única pessoa invisível custos que antes estavam dispersos em diferentes lugares.
 
-📝 Nota da curadoria: O mais digno de registro na entrega não é o quão conveniente ela é, mas quem, afinal, completa essa "conveniência".
+📝 Nota do curador: O que mais vale a pena escrever sobre entrega não é o quão conveniente ela é, mas quem, afinal, torna essa conveniência possível.
 
-## A cama no beliche do albergue, acolhendo uma renda de entrega
+## A cama no beliche do hostel, amparada por uma renda de entrega
 
-Em 2021, a Plataforma de Inovação Social entrevistou um jovem sob o pseudônimo de "A-Xiang". Ele trabalhava em tarefas gerais num restaurante de dia e pedalava entregando refeições à noite. Sua moradia não era um apartamento com porta, mas o beliche superior — a cerca de 300 centímetros do chão — de um albergue da juventude no centro de Taipé. A cama custava cerca de 6.000 a 8.000 novos dólares taiwaneses por mês, sem necessidade de caução de aluguel, e ficava perto do centro onde ele aceitava pedidos.[^3]
+Em 2021, a Plataforma de Inovação Social entrevistou um jovem sob o pseudônimo de "A-Xiang". De dia, ele fazia bicos em um restaurante; à noite, pedalava uma bicicleta para entregar refeições. Sua moradia não era um apartamento com porta, mas a cama superior de um beliche, a cerca de 3 metros do chão, em um hostel no centro de Taipé. A cama custava cerca de NT$ 6.000 a 8.000 por mês, sem necessidade de depósito de aluguel, e ficava perto da área central onde ele aceitava pedidos.[^3]
 
-Essa cena traduz o "trabalho flexível" em algo tangível: uma cama, uma bicicleta, um celular, e mais de duas horas seguidas online após o expediente. Para A-Xiang, a renda da entrega já serviu para pagar empréstimo estudantil, poupar, e até vislumbrar a possibilidade de sair do beliche. Quando a plataforma alterou o cálculo do pagamento, ele enfrentou esperas vazias, poucos pedidos e encolhimento da renda; a flexibilidade original também se estreitou.[^3]
+Essa cena traduz o "trabalho flexível" em coisas tangíveis: uma cama, uma bicicleta, um celular e mais de duas horas conectado após o expediente. Para A-Xiang, a renda da entrega já foi a possibilidade de pagar o empréstimo estudantil, poupar dinheiro e até sonhar em sair do beliche. Depois que a plataforma alterou o cálculo do pagamento, ele enfrentou esperas vazias, poucos pedidos e encolhimento da renda; a flexibilidade original também se estreitou.[^3]
 
-O caso individual não representa todos os entregadores, mas nos lembra que a "liberdade" na plataforma nunca é suspensa no vácuo. Ela depende do aluguel, do empréstimo estudantil, do veículo de transporte e do próximo pedido. Quando um desses elos muda, a tal liberdade pode virar obrigação de continuar aceitando pedidos.
+O caso individual não representa todos os entregadores, mas nos lembra que a "liberdade" na plataforma nunca é flutuante. Ela depende do aluguel, do empréstimo estudantil, do veículo e do próximo pedido. Quando um desses elos muda, a tal liberdade pode virar obrigação de continuar aceitando corridas.
 
-## Uma refeição, na verdade, atravessa uma cidade inteira
+## Um único prato atravessa uma cidade inteira
 
-Um estudo sobre entregadores de Taipé publicado em 2023 entrevistou entregadores, comerciantes e pessoal da plataforma, e o próprio pesquisador participou do trabalho de entrega. O estudo descreve a entrega como um arranjo composto em conjunto por plataforma digital, celular, moto, equipamentos de transporte, ruas, edifícios, usuários e comerciantes.[^4]
+Um estudo sobre entregadores de Taipé publicado em 2023 entrevistou entregadores, estabelecimentos e pessoal das plataformas, e contou com a participação direta dos pesquisadores no trabalho de entrega. A pesquisa descreve a entrega como um arranjo composto por plataformas digitais, celulares, motocicletas, equipamentos de transporte, ruas, edifícios, usuários e estabelecimentos.[^4]
 
-Essa observação é importante porque o entregador não trabalha apenas "na plataforma". Ele precisa encontrar a entrada do comércio, julgar se o edifício permite estacionar, identificar endereço e andar, lidar com o atrito entre elevador, chuva, moto e caixa térmica. As frestas que o sistema não processou antecipadamente são frequentemente preenchidas pela pessoa em movimento. O estudo aponta, portanto, que o pagamento por peça e a estrutura de aceleração da cidade motora podem empurrar mais encargos e riscos de volta para o entregador.[^4]
+Essa observação é importante porque o entregador não trabalha apenas "na plataforma". Ele precisa encontrar a entrada do estabelecimento, avaliar se o prédio permite estacionar, identificar endereço e andar, lidar com o atrito entre elevador, chuva, motocicleta e caixa térmica. As frestas que o sistema não resolveu antecipadamente costumam ser preenchidas pela pessoa em movimento. O estudo aponta, portanto, que o pagamento por peça e a estrutura de aceleração da cidade motorizada podem empurrar mais encargos e riscos de volta para o entregador.[^4]
 
-Os comerciantes também são inseridos nesse arranjo. O Departamento de Estatística do Ministério da Economia aponta que a pandemia e a mudança de hábitos de consumo aceleraram a adoção, pelo setor de alimentação, de redes sociais, pagamento móvel e pedidos online. A entrega, então, passou de resposta emergencial a se tornar, gradualmente, um modo operacional de expandir o alcance de vendas.[^2]
+Os estabelecimentos também são inseridos nesse arranjo. O Departamento de Estatística do Ministério da Economia aponta que a pandemia e a mudança de hábitos de consumo levaram o setor de alimentação a acelerar a adoção de redes sociais, pagamentos móveis e pedidos on-line. A entrega, antes uma resposta emergencial, tornou-se progressivamente um modo operacional de expandir o alcance das vendas.[^2]
 
-📝 Nota da curadoria: A plataforma não substituiu o restaurante da esquina; o que ela faz é reconectar o restaurante da esquina à sala de cada pessoa.
+📝 Nota do curador: A plataforma não substituiu o restaurante da esquina; ela fez foi reconectar o restaurante da esquina à sala de cada pessoa.
 
-| Tempo e local | Variação verificável na página                                                             |
-| ------------- | ------------------------------------------------------------------------------------------ |
-| Abril de 2019 | Proporção de estabelecimentos de alimentação com entrega e entrega a domicílio: 43,3%.[^2] |
-| Abril de 2020 | Essa proporção subiu para 56,0%.[^2]                                                       |
-| Junho de 2021 | Durante o alerta de nível três, atingiu 67,0%.[^2]                                         |
-| Maio de 2022  | Após retomada gradual do consumo no local, permaneceu em 64,6%.[^2]                        |
+| Período       | Mudança verificável na página                                                         |
+| ------------- | ------------------------------------------------------------------------------------- |
+| Abril de 2019 | Proporção de estabelecimentos de alimentação com entrega domiciliar era de 43,3%.[^2] |
+| Abril de 2020 | Essa proporção subiu para 56,0%.[^2]                                                  |
+| Junho de 2021 | Durante o alerta de nível 3, atingiu 67,0%.[^2]                                       |
+| Maio de 2022  | Após retomada gradual do consumo no local, permaneceu em 64,6%.[^2]                   |
 
-Esses números não significam que todo mundo pede entrega todo dia, nem permitem deduzir diretamente a participação de mercado das plataformas. Eles apenas dizem uma coisa mais estreita, mas mais confiável: para o setor de alimentação, entregar em casa já não é mais um serviço adicional de uso ocasional.
+Esses números não significam que todo mundo pede entrega todo dia, nem permitem deduzir diretamente a participação de mercado das plataformas. Eles apenas mostram algo mais estreito, mas mais confiável: para o setor de alimentação, entregar em casa já não é mais um serviço extra usado ocasionalmente.
 
 ## As ruas de Taipé viram o risco primeiro
 
-A entrega leva a refeição à porta, mas também leva o trabalho para a rua. Dados de fiscalização interagências divulgados pela Direção-Geral de Estradas do Ministério dos Transportes mostram que, de janeiro a setembro de 2021, Taipé registrou 1.567 acidentes de moto de plataformas de entrega, com 1.212 mortos e feridos. No mesmo período, a polícia autuou 7.113 infrações de motos de plataformas de entrega. Esses números cobrem apenas região e período específicos, não podendo ser generalizados como estatística anual de toda Taiwan, mas bastam para mostrar que a segurança viária não se resolve apenas com a atenção individual do entregador.[^5]
+A entrega leva a refeição à porta, mas também leva o trabalho para as ruas. Dados de fiscalização interagências divulgados pela Direção-Geral de Estradas do Ministério dos Transportes mostram que, em Taipé, de janeiro a setembro de 2021, houve 1.567 acidentes de motocicleta envolvendo plataformas de entrega, com 1.212 vítimas fatais e feridas. No mesmo período, a polícia autuou 7.113 infrações de plataformas de entrega. Esses números cobrem apenas uma região e um período específicos, não podendo ser generalizados como estatísticas anuais de todo Taiwan, mas bastam para mostrar que a segurança viária não se resolve apenas com a prudência individual do entregador.[^5]
 
-A Direção-Geral de Estradas menciona no mesmo comunicado que, como as motos de plataformas de entrega usam as vias para transporte, as empresas devem assumir responsabilidade de supervisão e gestão. Medidas subsequentes incluem treinamento prático de direção segura e exigência de reciclagem para entregadores envolvidos em acidentes. A virada-chave aqui é: a entrega deixa de ser tratada apenas como transação entre plataforma e consumidor, para ser recolocada no contexto de vias públicas e segurança pública.[^5]
+A Direção-Geral de Estradas menciona no mesmo comunicado que, como as motocicletas das plataformas de entrega usam as vias para transportar, as empresas devem assumir a responsabilidade de supervisão e gestão. Medidas subsequentes incluem treinamento prático de direção segura e a exigência de reciclagem para entregadores envolvidos em acidentes. A virada-chave aqui é: a entrega deixa de ser tratada apenas como transação entre plataforma e consumidor e passa a ser situada no contexto das vias públicas e da segurança pública.[^5]
 
-Uma carta de leitor publicada pelo _The Reporter_ em 2021 compilou outro conjunto de dados do local de trabalho: o autor cita uma pesquisa de 2020 com entregadores, indicando que 24% dos entrevistados entregavam 50 horas por semana, e 81,7% temiam sofrer acidente de trânsito. O artigo também aponta que a cobertura real de educação em segurança, equipamentos de proteção e prevenção de riscos por calor e frio não é uniforme. Trata-se de compilação e julgamento de defensores de direitos, devendo ser lida separada das estatísticas oficiais, mas dá contorno à pressão de trabalho por trás do "mais rápido um pouco".[^1]
+Uma carta de leitor publicada no The Reporter em 2021 compilou outro conjunto de dados de campo: o autor cita uma pesquisa de 2020 com entregadores, indicando que 24% dos entrevistados trabalhavam 50 horas por semana em entregas, e 81,7% temiam sofrer acidentes de trânsito. O artigo também aponta que a cobertura real de educação em segurança, equipamentos de proteção e prevenção de riscos de calor e frio não é uniforme. Trata-se de uma compilação e julgamento de defensores de direitos, que deve ser lida separadamente das estatísticas oficiais, mas que dá contorno à pressão de trabalho por trás do "corre mais um pouco".[^1]
 
-## As duas palavras "contratação", não cabem a estrada toda
+## As duas palavras "prestação de serviços" não cabem na estrada toda
 
-Em 2019, artigo da Aliança Trabalhista de Taiwan registrou que a Agência de Segurança e Saúde Ocupacional do Ministério do Trabalho realizou inspeção trabalhista direcionada à foodpanda e à Uber Eats, reconhecendo relação de emprego entre entregadores e plataformas. As plataformas sustentavam que a relação era de contratação ou mera intermediação. O artigo também reuniu como pontos de controvérsia para julgar subordinação e dependência organizacional: uniforme, caixa térmica padronizada, escalas e a impossibilidade de recusar pedidos.[^6]
+Em 2019, um artigo da Frente Trabalhista de Taiwan registrou que o Instituto de Segurança e Saúde no Trabalho do Ministério do Trabalho realizou inspeções direcionadas na foodpanda e na Uber Eats, concluindo que existia relação de emprego entre entregadores e plataformas. As plataformas, por sua vez, sustentam que a relação é de prestação de serviços autônomos ou mera intermediação. O artigo também reuniu como uniformes, caixas térmicas padronizadas, escalas e a impossibilidade de recusar pedidos se tornam pontos de disputa para avaliar direção, supervisão e subordinação organizacional.[^6]
 
-Não é mera disputa de nomenclatura. Se uma pessoa aparentemente pode entrar online por conta própria, mas na prática sofre influência da taxa de aceitação, escalas, algoritmo de remuneração, avaliação de serviço e mecanismo de desativação, então "ser o próprio chefe" e "ter o trabalho controlado pela plataforma" podem coexistir. A Interpretação nº 740 de 2016 dos Grandes Juízes, que tratou do reconhecimento de contrato de trabalho, também enfatizou que não se pode olhar só o nome do contrato, mas observar o modo de prestação de trabalho e o risco do negócio.[^7]
+Não é uma mera disputa de nomenclatura. Se uma pessoa pode, em tese, conectar-se quando quiser, mas na prática é afetada pela taxa de aceitação, escalas, algoritmo de remuneração, avaliação de serviço e mecanismos de desativação, então "ser seu próprio chefe" e "ter o trabalho controlado pela plataforma" podem coexistir. A Interpretação nº 740 dos Grandes Juízes de 2016, que tratou do reconhecimento de contrato de trabalho, também enfatiza que não se deve olhar apenas o nome do contrato, mas observar a forma de prestação do trabalho e os riscos do negócio.[^7]
 
-O estudo de Taipé indexado pela Airiti expressa essa contradição mais perto da rua: o entregador de fato precisa de julgamento em tempo real, deslocamento e preenchimento de lacunas, possuindo assim agência. Mas essa agência pode ser absorvida pelo pagamento por peça e pela cidade acelerada, terminando por fazer o indivíduo arcar com o custo do sistema.[^4]
+O estudo de Taipé indexado pela Airiti descreve essa contradição mais perto da rua: os entregadores de fato precisam de julgamento em tempo real, deslocamento e preenchimento de lacunas, possuindo assim agência. Mas essa agência também pode ser absorvida pelo pagamento por peça e pela cidade acelerada, terminando por fazer o indivíduo arcar com os custos do sistema.[^4]
 
-📝 Nota da curadoria: A verdadeira questão não é se o entregador tem ou não liberdade, mas quando a liberdade falha, quem deve pagar a conta.
+📝 Nota do curador: A verdadeira questão não é se o entregador tem liberdade, mas quem deve pagar a conta quando a liberdade deixa de funcionar.
 
-## Grab compra foodpanda, atrás do botão troca-se a empresa
+## Grab adquire foodpanda: atrás do botão, troca-se a empresa
 
-Em março de 2026, a Grab anunciou a aquisição do negócio da foodpanda em Taiwan por cerca de 600 milhões de dólares, aproximadamente 19,3 bilhões de novos dólares taiwaneses. Em 27 de março do mesmo ano, a Grab protocolou pedido na Comissão de Comércio Justo. A comissão aceitou formalmente o caso em meados de junho, informando que a análise focaria no impacto de mercado após a concentração, suspeitas de monopólio, e na capacidade de entrada de novos concorrentes.[^10]
+Em março de 2026, a Grab anunciou a aquisição do negócio da foodpanda em Taiwan por cerca de 600 milhões de dólares (aprox. NT$ 19,3 bilhões). Em 27 de março do mesmo ano, a Grab protocolou o pedido na Comissão de Comércio Justo. A Comissão aceitou formalmente o caso em meados de junho, informando que a análise focaria no impacto de mercado após a concentração, preocupações de monopólio e a capacidade de entrada de novos concorrentes.[^10]
 
-Essa transação toca o cotidiano não apenas porque os logotipos das duas marcas podem trocar de lugar. A rede de restaurantes parceiros, usuários, entregadores e dados de pedidos que a plataforma detém será consolidada junto com ela. Comerciantes podem enfrentar novas regras de comissão e exposição, entregadores podem enfrentar novo sistema de distribuição de pedidos e remuneração, consumidores podem ter de reescolher num mercado mais concentrado. Esses três últimos pontos são impactos na vida que precisam ser analisados, não resultados já ocorridos; não se pode escrever conjecturas como fatos.
+Essa transação toca o cotidiano não apenas porque os logotipos das duas marcas podem trocar de lugar. Restaurantes parceiros, usuários, entregadores e dados de pedidos — todos sob controle da plataforma — seguiriam a integração. Estabelecimentos poderiam enfrentar novas comissões e regras de visibilidade, entregadores, novos sistemas de despacho e remuneração, e consumidores, um mercado mais concentrado para escolher. Esses três pontos são impactos na vida que carecem de análise, não resultados já ocorridos; não se deve escrever conjecturas como fatos.
 
-Em 22 de julho de 2026, a Comissão de Comércio Justo anunciou formalmente a prorrogação do período de análise em 60 dias úteis até 27 de outubro. A comissão apontou que a estrutura de mercado após a concentração mantém o cenário de "duopólio" anterior. Ao mesmo tempo, a Uber detém 13% das ações e 3,7% dos direitos de voto da Grab; a comissão precisa analisar se esse vínculo acionário afeta os incentivos e a capacidade de concorrência entre Uber Eats e Grab, podendo gerar efeitos unilaterais ou coordenados.[^11] [^14]
+Em 22 de julho de 2026, a Comissão de Comércio Justo anunciou oficialmente a prorrogação do período de análise em 60 dias úteis, até 27 de outubro. A Comissão observou que a estrutura de mercado após a concentração manteria a condição de "duopólio" anterior. Ao mesmo tempo, a Uber detém 13% das ações e 3,7% dos direitos de voto da Grab, e a Comissão precisava analisar se esse vínculo acionário afeta os incentivos e a capacidade de concorrência entre Uber Eats e Grab, podendo gerar efeitos unilaterais ou coordenados.[^11][^14]
 
-A Grab disse à Agência Central de Notícias que, se a transação for aprovada, prevê concluí-la no segundo semestre de 2026 e completar a integração das plataformas no primeiro semestre de 2027, migrando integralmente os usuários originais da foodpanda para o aplicativo da Grab. Isso é um planejamento empresarial, não um cronograma já aprovado pela comissão. Enquanto a análise não terminar, o consumidor não pode tratar a "migração certa" como fato consumado.[^13]
+A Grab disse à Agência Central de Notícias que, se a transação fosse aprovada, esperava concluir o negócio no segundo semestre de 2026 e a integração das plataformas no primeiro semestre de 2027, migrando todos os usuários da foodpanda para o aplicativo da Grab. Trata-se do planejamento da empresa, não de um cronograma aprovado pela Comissão. Enquanto a análise não terminasse, os consumidores não podiam tratar a "migração certa" como fato consumado.[^13] Esse planejamento acabou não se concretizando: em 21 de outubro, a Comissão decidiu proibir a concentração.[^16]
 
-A mesma reportagem da Agência Central de Notícias também compilou as explicações da Grab sobre governança e participação acionária: a sede da Grab fica em Cingapura, com ações listadas na Nasdaq nos EUA. A Uber detém cerca de 13% das ações ordinárias, mas com direito de voto inferior a 4%, não participa da operação diária da Grab, e o diretor indicado pela Uber se abstém de todas as decisões do conselho relacionadas a Taiwan. Essas são declarações públicas da Grab; a comissão ainda deve julgar independentemente com base no controle efetivo e nos efeitos concorrenciais.[^13]
+A mesma reportagem da Agência Central de Notícias compilou as explicações da Grab sobre governança e participação acionária: a Grab tem sede em Cingapura e é listada na Nasdaq nos EUA. A Uber detém cerca de 13% das ações ordinárias, mas com direitos de voto abaixo de 4%; a Uber não participa das operações diárias da Grab, e os diretores indicados pela Uber se abstêm de todas as decisões do conselho relacionadas a Taiwan. Essas são as declarações públicas da Grab; a Comissão ainda deve julgar independentemente com base no controle efetivo e nos efeitos sobre a concorrência.[^13]
 
-Outro ponto-chave da transação não é "de que cor ficará o App", mas como dados, restaurantes parceiros, entregadores e relações com consumidores serão rearranjados. A Agência Central de Notícias apontou que o plano de integração entre Grab e foodpanda envolve a migração dos usuários originais da foodpanda para a Grab. Quanto a como mudarão comissão, distribuição de pedidos, remuneração e contratos com restaurantes, as fontes atuais não trazem direção definida; por isso, este artigo não trata possíveis impactos como fatos consumados.[^13]
+Outro ponto-chave da transação não é "de que cor ficará o app", mas como dados, estabelecimentos parceiros, entregadores e relações com consumidores seriam reorganizados. A reportagem da Agência Central de Notícias indica que o plano de integração entre Grab e foodpanda previa a migração dos usuários da foodpanda para a Grab. Quanto a como comissões, despacho, remuneração e contratos com estabelecimentos mudariam, as fontes atuais não apresentam diretrizes definidas; por isso, este artigo não trata possíveis impactos como fatos consumados.[^13]
 
-> Legenda: Foto ilustrativa da transação anexada à reportagem da Agência Central de Notícias de 30 de março de 2026, correspondendo diretamente ao evento de pedido de aquisição do negócio da foodpanda em Taiwan pela Grab.[^13]
+> Legenda: Foto ilustrativa da transação anexada à reportagem da Agência Central de Notícias de 30 de março de 2026, correspondente direta ao pedido de aquisição do negócio da foodpanda em Taiwan pela Grab.[^13]
 
-Este caso também não pode ser confundido com o de 2024, em que a Uber Eats tentou adquirir diretamente a foodpanda. A Comissão de Comércio Justo declarou, em artigo público de 2024, que os prejuízos à concorrência da concentração entre Uber Eats e foodpanda superavam o benefício econômico geral, proibindo portanto a concentração. O caso Grab estava, em 15 de agosto de 2026, ainda em análise, não podendo-se antecipar resultado idêntico.[^12]
+Este caso não deve ser confundido com a tentativa de aquisição direta da foodpanda pela Uber Eats em 2024. Em artigo público de 2024, a Comissão de Comércio Justo afirmou que os prejuízos à concorrência da concentração entre Uber Eats e foodpanda superavam os benefícios econômicos gerais, proibindo-a portanto. O caso Grab ainda estava em análise em 15 de agosto de 2026; em 21 de outubro, a Comissão decidiu proibir a concentração, mas com fundamentos diferentes dos de 2024 — desta vez, o elemento central foi o vínculo acionário entre Grab e Uber, e não a simples soma de participação de mercado das duas plataformas de entrega em Taiwan.[^12][^16]
 
-📝 Nota da curadoria: A "escolha" do mercado de entrega não aparece apenas na tela do celular do consumidor, mas também em saber se ainda há distância competitiva suficiente entre as plataformas.
+📝 Nota do curador: A "escolha" no mercado de entrega não aparece apenas na tela do celular do consumidor, mas também na distância competitiva que ainda existe entre as plataformas.
 
-## Depois que a plataforma virou rotina, o sistema começou a correr atrás
+```tw-timeline
+Aquisição da foodpanda Taiwan pela Grab: do anúncio à proibição
+2026-03 | Grab anuncia aquisição | Cerca de 600 milhões de dólares (aprox. NT$ 19,3 bilhões)
+2026-03-27 | Protocola pedido na Comissão de Comércio Justo | Inicia processo de análise de concentração
+2026-06-16 | Apresenta documentação completa | Comissão recebe formalmente
+2026-07-22 | Prorroga análise em 60 dias úteis | Prazo final em 27 de outubro
+2026-10-21 | Decide proibir concentração | Votação 3:1, 1 conselheiro se abstém
+Fonte: notas de rodapé 10, 11, 14, 15, 16 deste artigo
+```
 
-O portal do governo em junho de 2026 compilou direitos trabalhistas de entregadores e trabalhadores autônomos, colocando seguro trabalhista e de saúde, seguro de acidentes de trabalho e área especial de direitos de entregadores de plataformas de alimentação no mesmo contexto de serviço. Essa própria compilação revela a mudança do sistema: o entregador não é mais uma identidade nebulosa na indústria de startups, mas um trabalhador que precisa ser incluído nos sistemas de seguro social, acidentes de trabalho e proteção trabalhista.[^8]
+## Vinte e um de outubro: a Comissão diz não
 
-Mas a existência de normas não significa que o risco desapareceu. O artigo do _The Reporter_ menciona que, após 2019, o governo publicou sucessivamente diretrizes de segurança operacional para entrega de alimentos, cobrindo prevenção de acidentes de trânsito, risco de calor, distribuição de pedidos e seguros. O mesmo artigo questiona, com dados de questionário, a lacuna entre educação e proteção reais. Normas, execução e as ruas que o entregador encontra todo dia ainda precisam ser postas juntas para verificação.[^1]
+Em 21 de outubro de 2026, a reunião do conselho da Comissão de Comércio Justo analisou e votou o caso de concentração entre Grab e Fùpàngdá (foodpanda): 3 conselheiros votaram pela proibição, 1 entendeu que deveria ser aprovada com condicionantes, e 1 se absteve de participar. Por fim, a concentração foi proibida com base em quatro motivos, explicados à imprensa na mesma tarde pelo porta-voz Xin Zhi-zhong.[^15][^16]
 
-A compilação pública de temas do Yuan Legislativo também mostra que a governança de plataformas de entrega envolve não só direitos trabalhistas, mas também concorrência de mercado, restaurantes, consumidores e impacto de fusões de plataformas. A página registra questionamentos de legisladores sobre concentração de mercado e influência de plataformas transnacionais, além de propostas de lei específica para entrega. São afirmações públicas de figuras políticas, não equivalem a conclusões judiciais ou econômicas já estabelecidas.[^9]
+A preocupação central da Comissão não era "qual fatia de mercado a Grab teria em Taiwan ao comprar a foodpanda". Ela observou que a Uber, controladora da Uber Eats, detém cerca de 13,1% da Grab; o CEO da Uber já foi diretor da Grab por longo período; as duas empresas mantêm interação próxima e cooperação comercial em outros mercados; embora a Grab adote estrutura de ações duplas, conferindo à Uber apenas cerca de 3,9% dos direitos de voto, esse vínculo acionário alteraria as estratégias de interação das duas companhias, harmonizando seus interesses.[^16]
 
-A plataforma de entrega tornou-se, assim, uma infraestrutura cotidiana bem particular: ao usá-la, vemos apenas o status do pedido mudar de "preparando" para "entregue". Mas entre esses dois status, há a velocidade de saída da cozinha, a lógica de distribuição da plataforma, a rota do entregador, a segurança da rua, e se o sistema realmente permite que a pessoa obtenha proteção após um acidente.
+Os quatro motivos são: redução do incentivo da Uber Eats a competir ativamente; redução do incentivo da Grab a competir ativamente; histórico de condutas e modo de interação que aumentam o risco de coordenação; ausência de contrapesos capazes de desfazer a manutenção de condutas coordenadas. A Comissão citou especialmente o caso de 2018 em que a Grab assumiu os negócios da Uber no Sudeste Asiático, apontando que, na ocasião, ambas as partes, cientes ou devendo estar cientes de possível violação da lei de concorrência, optaram por realizar a transação de forma difícil de reverter.[^16]
+
+A Comissão também avaliou a via da "aprovação condicionada" e discutiu medidas corretivas com os requerentes em várias ocasiões. Os requerentes propuseram diluição de participação, restrição a pessoal da Uber no conselho da Grab e limitação ao intercâmbio de informações sensíveis à concorrência; a Comissão considerou que tais medidas não garantem execução efetiva nem dissipam as preocupações; segundo a Comissão, seria necessário reduzir ainda mais a participação da Uber na Grab, ou até mesmo alienar as ações, para mitigar o risco de coordenação.[^16]
+
+A decisão final, baseada no Art. 13, §1º da Lei de Comércio Justo, proibiu a concentração sob o fundamento de que os prejuízos à concorrência superam os benefícios econômicos gerais, e as medidas propostas não bastam para assegurar que os benefícios gerais superem os prejuízos.[^16]
+
+No mesmo dia, a Grab respondeu por escrito que "se sente decepcionada com o resultado", por não poder levar conforme planejado serviços inovadores, oportunidades justas de renda e padrões de serviço aprimorados aos consumidores, entregadores e comerciantes de Taiwan; e enfatizou que seu negócio principal no Sudeste Asiático continua forte, prosseguindo com seu plano de crescimento traçado.[^17] O mercado de entrega de Taiwan mantém, assim, a estrutura de duopólio original, com a foodpanda continuando a operar sob sua marca atual.
+
+## Só depois que a plataforma virou rotina, o sistema começou a correr atrás
+
+Em junho de 2026, o portal governamental "Meu E-Governo" organizou os direitos trabalhistas de entregadores e trabalhadores autônomos, colocando o seguro trabalhista e de saúde, o seguro de acidentes de trabalho e a área de direitos dos entregadores de plataformas de comida no mesmo fluxo de serviço. Essa própria organização revela a mudança institucional: os entregadores não são mais uma identidade difusa na indústria de startups, mas trabalhadores que precisam ser inseridos nos sistemas de seguro social, acidentes de trabalho e proteção laboral.[^8]
+
+Mas a existência de normas não significa que os riscos tenham desaparecido. O artigo do The Reporter menciona que, desde 2019, o governo publicou sucessivamente diretrizes de segurança operacional para entrega de alimentos, abrangendo prevenção de acidentes de trânsito, riscos de calor, despacho e seguros. O mesmo artigo, com base em dados de questionário, questiona a lacuna entre a educação e a proteção na prática. Normas, execução e as ruas que o entregador encontra todo dia ainda precisam ser examinadas em conjunto.[^1]
+
+A compilação pública de temas do Yuan Legislativo também mostra que a governança de plataformas de entrega envolve não apenas direitos trabalhistas, mas também concorrência de mercado, restaurantes, consumidores e os efeitos de fusões de plataformas. As páginas de temas registram questionamentos de legisladores sobre concentração de mercado e influência de plataformas transnacionais, além de propostas para criar uma lei específica para entregas. São posicionamentos públicos de figuras políticas, não conclusões judiciais ou econômicas já estabelecidas.[^9]
+
+As plataformas de entrega tornaram-se, assim, uma infraestrutura cotidiana bastante particular: ao usá-las, vemos apenas o status do pedido mudar de "preparando" para "entregue". Mas entre esses dois estados estão a velocidade de preparo do estabelecimento, a lógica de despacho da plataforma, a rota do entregador, a segurança das ruas e a questão de se o sistema de fato permite que alguém obtenha proteção após um acidente.
 
 ## Três tipos de espera que a tela do celular não mostra
 
-O consumidor vê uma barra de progresso simples: comércio aceita o pedido, refeição em preparo, entregador retira, prestes a chegar. Mas o estudo da Airiti lembra que por trás desses status não há um fluxo único, e sim a coordenação de muitos objetos e pessoas. Um endereço no celular precisa ser traduzido na entrada do comércio, elevador, escada, portaria e posição real de quem recebe.[^4]
+O consumidor vê uma barra de progresso simples: estabelecimento aceita, refeição preparando, entregador retira, a caminho. Mas o estudo da Airiti lembra que por trás desses status não há um fluxo único, e sim a coordenação de muitos objetos e pessoas. Um endereço no celular precisa ser traduzido na entrada do estabelecimento, no elevador, na escada, na portaria e na localização real de quem recebe.[^4]
 
-A espera que o comércio vê também é diferente. O Departamento de Estatística do Ministério da Economia coloca a proporção de estabelecimentos com entrega junto a pedidos online, pagamento móvel e gestão de redes sociais, mostrando que o setor de alimentação enfrenta não a escolha única de "entrar ou não na plataforma", mas como conectar cozinha, pedidos, pagamento e entrega.[^2]
+A espera que o estabelecimento vê também é diferente. O Departamento de Estatística do Ministério da Economia coloca lado a lado a proporção de estabelecimentos com entrega, pedidos on-line, pagamentos móveis e gestão de redes sociais, mostrando que o setor de alimentação não enfrenta a escolha binária de "entrar ou não na plataforma", mas sim como conectar cozinha, pedidos, pagamentos e entrega.[^2]
 
-O entregador enfrenta então um terceiro tipo de espera: espera a plataforma distribuir o pedido, espera o comércio preparar a refeição, espera o elevador, espera a rua abrir um intervalo seguro para passar. Esses tempos não necessariamente aparecem todos num único pedido, mas afetam quantos pedidos se completam num dia, e afetam renda e cansaço. Na reportagem sobre a pessoa, as esperas vazias e poucos pedidos que A-Xiang encontrou são justamente esse tempo oculto pela interface vindo à tona.[^3]
+O entregador enfrenta um terceiro tipo de espera: espera o despacho da plataforma, espera o preparo do estabelecimento, espera o elevador, espera que a rua abra um intervalo seguro para passar. Esses tempos nem sempre aparecem em um único pedido, mas afetam quantas corridas se completa num dia, e impactam renda e cansaço. Na reportagem, as esperas vazias e a escassez de pedidos que A-Xiang enfrentou são exatamente esse tempo oculto pela interface vindo à tona.[^3]
 
-Portanto, a eficiência da plataforma de entrega não pode ser medida apenas em "quantos minutos do pedido à entrega". Olhando juntos pesquisa, estatísticas e reportagens sobre pessoas, descobre-se que parte da eficiência é, na verdade, completada pelo entregador preenchendo lacunas em tempo real.[^2] [^3] [^4]
+Portanto, a eficiência das plataformas de entrega não pode ser medida apenas em "minutos do pedido à entrega". Olhando pesquisas, estatísticas e reportagens juntas, descobre-se que parte da eficiência é, na verdade, completada pelo entregador preenchendo lacunas em tempo real.[^2][^3][^4]
 
-## A cidade começa a assumir responsabilidade pelo botão
+## A cidade começa a responder pelo botão
 
-A fiscalização da Direção-Geral de Estradas colocou a plataforma de entrega na gestão viária, em vez de culpar apenas quem pilota a moto. O portal do governo colocou o entregador no contexto de serviços de seguro trabalhista/saúde e seguro de acidentes de trabalho. As duas linguagens institucionais, uma lidando com a rua, outra com o trabalho, juntas se aproximam mais da posição real da entrega.[^5] [^8]
+A fiscalização da Direção-Geral de Estradas do Ministério dos Transportes coloca a plataforma de entrega na gestão viária, em vez de culpar apenas quem pilota a moto. O portal governamental coloca o entregador no fluxo de serviços do seguro trabalhista e de saúde e do seguro de acidentes de trabalho. Duas linguagens institucionais — uma cuida das ruas, outra do trabalho — juntas se aproximam mais da posição real da entrega.[^5][^8]
 
-A compilação de temas do Yuan Legislativo sobre fusões e concentração de mercado também mostra que a plataforma não é uma tela neutra. Quando escala da plataforma, algoritmo e relações de dependência de restaurantes, consumidores e entregadores crescem juntos, política de concorrência e política trabalhista se encontram no mesmo serviço de vida. Essas afirmações políticas ainda precisam ser separadas de regulamentos formais e decisões de órgãos competentes, mas apontam a direção que o debate público está perseguindo.[^9]
+A discussão sobre fusões e concentração de mercado apresentada na compilação do Yuan Legislativo também mostra que a plataforma não é uma tela neutra. Quando o tamanho da plataforma, seu algoritmo e as relações de dependência de restaurantes, consumidores e entregadores crescem juntos, política de concorrência e política trabalhista se encontram no mesmo serviço cotidiano. Essas posições de figuras políticas ainda devem ser separadas de regulamentos formais e decisões das autoridades competentes, mas indicam a direção que o debate público está perseguindo.[^9]
 
-O artigo de 2019 da Aliança Trabalhista de Taiwan já condensava o problema num dilema institucional: o trabalhador parece ganhar liberdade de escala, mas pode perder ao mesmo tempo a responsabilidade do empregador e a proteção contra acidentes de trabalho. Essa questão continua valendo a pena ser mantida hoje, porque toda vez que a plataforma muda a distribuição, a remuneração ou o modo de avaliação, rearranja-se quem arca com a incerteza.[^6]
+O artigo de 2019 da Frente Trabalhista de Taiwan condensou a questão em um dilema institucional: o trabalhador parece ganhar liberdade de horário, mas pode perder simultaneamente a responsabilidade do empregador e a proteção contra acidentes de trabalho. Essa questão continua valendo ser mantida hoje, porque toda vez que a plataforma muda o despacho, a remuneração ou a avaliação, reorganiza-se quem arca com a incerteza.[^6]
 
 ## Antes de apertar "enviar" da próxima vez
 
-A vida de entrega em Taiwan não precisa ser escrita como "tecnologia torna tudo melhor", nem simplificada como "plataforma só explora". As estatísticas do Ministério da Economia mostram que o setor de alimentação de fato expandiu serviços através da entrega. Pesquisas e reportagens sobre pessoas mostram que essa conveniência precisa passar por gente concreta, veículos, ruas e moradias para chegar. Os dois lados são verdadeiros; postos juntos, aproximam o panorama completo da vida.[^2] [^3] [^4]
+A vida de entrega em Taiwan não precisa ser escrita como "a tecnologia melhora tudo", nem reduzida a "plataformas só exploram". As estatísticas do Ministério da Economia mostram que o setor de alimentação de fato expandiu seus serviços via entrega. Pesquisas e reportagens mostram, por sua vez, que essa conveniência precisa passar por pessoas, veículos, ruas e moradias concretas para chegar. Os dois lados são verdadeiros; juntos, aproximam-se do panorama completo da vida.[^2][^3][^4]
 
-Isso também explica por que um bom artigo sobre entrega não pode citar só relatórios da própria plataforma. Estatísticas governamentais servem para responder a proporção de estabelecimentos de alimentação que oferecem entrega; órgãos de trânsito servem para responder sobre acidentes e fiscalização; pesquisa acadêmica serve para dissecar o arranjo do trabalho; reportagens sobre pessoas fazem os números do sistema voltarem à cama, à bicicleta e à noite de uma pessoa. Elas não se substituem, mas se limitam mutuamente, impedindo conclusões excessivamente simplificadas.[^2] [^3] [^4] [^5]
+Isso também explica por que um bom artigo sobre entrega não pode citar apenas relatórios da própria plataforma. Estatísticas governamentais servem para responder qual a proporção de estabelecimentos que entregam; órgãos de trânsito, para acidentes e fiscalização; pesquisa acadêmica, para dissecar o arranjo do trabalho; reportagens de pessoas, para devolver os números institucionais a uma cama, uma bicicleta e uma noite de alguém. Elas não se substituem, mas se limitam mutuamente, impedindo conclusões excessivamente simplificadas.[^2][^3][^4][^5]
 
-Portanto, da próxima vez que apertar "enviar pedido", vale lembrar não se deve ou não pedir entrega, mas de onde vem essa conveniência. Quando uma cidade comprime a espera em poucos minutos, ela também deveria ter capacidade de colocar remuneração justa, ruas seguras e responsabilidade exigível de volta na mesma estrada.
+Portanto, da próxima vez que você apertar "enviar pedido", o que vale lembrar não é se deve ou não pedir entrega, mas de onde vem essa conveniência. Quando uma cidade comprime a espera em minutos, ela também deveria ter a capacidade de colocar remuneração justa, ruas seguras e responsabilidade exigível de volta na mesma estrada.
 
-Essa divisão de trabalho também lembra o leitor para não escrever "consumidor, comércio, plataforma, entregador" como quatro papéis independentes. A pesquisa de entrevista já colocava entregador, comércio e pessoal da plataforma no mesmo campo de pesquisa. A fiscalização do Ministério dos Transportes também colocou responsabilidade da empresa e uso da via juntas.[^4] [^5]
+Essa divisão de fontes também lembra o leitor de não tratar "consumidores, estabelecimentos, plataformas, entregadores" como quatro papéis desconexos. As entrevistas da pesquisa já colocavam entregadores, estabelecimentos e pessoal da plataforma no mesmo campo. A fiscalização do Ministério dos Transportes também junta responsabilidade da empresa e uso da via.[^4][^5]
 
-Quando o sistema gerencia a responsabilidade separadamente, mas a vida continua amarrando tudo num mesmo pedido, o problema reaparece nas fronteiras. Ver as fronteiras é o ponto de partida para entender o cotidiano da entrega em Taiwan.[^4] [^6]
+Quando o sistema gerencia as responsabilidades separadamente, mas a vida continua amarrando-as em um único pedido, os problemas reaparecem nas fronteiras. Enxergar as fronteiras é o ponto de partida para entender o cotidiano da entrega em Taiwan.[^4][^6]
 
-É também a razão pela qual o sistema deve se atualizar continuamente, e não apenas remendar buracos após o acidente.[^5] [^8]
+Essa também é a razão pela qual o sistema deve ser atualizado continuamente, e não apenas remendado depois que o acidente ocorre.[^5][^8]
 
-Naquela foto da marcha trabalhista de 2021, os entregadores não são "mão de obra de plataforma" abstrata. Eles vestem suas próprias roupas, estão em suas próprias ruas, exigindo que esta cidade reconheça: o que chega à porta de casa não é apenas uma refeição, mas também o tempo que alguém deixou ao atravessar a cidade.
+Naquela foto da marcha trabalhista de 2021, os entregadores não são "mão de obra de plataforma" abstrata. Eles vestem suas próprias roupas, estão em suas próprias ruas, exigindo que esta cidade reconheça: o que chega à porta de casa não é apenas uma refeição, é também o tempo que alguém deixou para trás ao atravessar a cidade.
 
-### Referências
+## Referências
 
-[^1]: [_The Reporter_: Risco de acidentes de trabalho de entregadores de plataforma aumenta após novo sistema; quando normas internacionais de proteção se tornam mais ativas, o Ministério do Trabalho consegue agir?](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — Ver dados complementares no link original
+[^1]: [The Reporter: Risco de acidentes de trabalho de entregadores de plataforma aumenta sob novo sistema; com normas internacionais de proteção mais ativas, o Ministério do Trabalho consegue agir? ](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — Ver dados complementares no link original
 
-[^2]: [Departamento de Estatística do Ministério da Economia: Receita e taxa de crescimento anual do setor de alimentação em 2022 atingem novos recordes históricos](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=9&html=1&menu_id=18808&bull_id=11322) — Comunicado do Ministério da Economia
+[^2]: [Departamento de Estatística do Ministério da Economia: Receita e taxa de crescimento anual do setor de alimentação em 2022 atingem recordes históricos ](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=9&html=1&menu_id=18808&bull_id=11322) — Comunicado do Ministério da Economia
 
-[^3]: [Plataforma de Inovação Social: A vida nômade do entregador: no beliche do albergue, a casa a 300 centímetros de altura](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — Ver dados complementares no link original
+[^3]: [Plataforma de Inovação Social: A vida nômade do entregador: a casa a 300 cm de altura na cama do hostel ](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — Ver dados complementares no link original
 
-[^4]: [Airiti Library: Ação de preenchimento de lacunas da sociedade acelerada: estudo sobre entregadores de alimentos de Taipé](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — Ver dados complementares no link original
+[^4]: [Airiti Library: Ações de preenchimento de lacunas na sociedade acelerada: estudo sobre entregadores de comida em Taipé ](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — Ver dados complementares no link original
 
-[^5]: [Direção-Geral de Estradas do Ministério dos Transportes: Fiscalização interagências do Ministério dos Transportes sobre plataformas de entrega, zelando pela segurança no trânsito](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — Ver dados complementares no link original
+[^5]: [Direção-Geral de Estradas do Ministério dos Transportes: Fiscalização interagências do Ministério dos Transportes em plataformas de entrega para manter a segurança viária ](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — Ver dados complementares no link original
 
-[^6]: [Aliança Trabalhista de Taiwan: A morte de dois entregadores — a desigualdade da economia de plataforma](https://labor.ngo.tw/articles/labor-views/2019-32) — Ver dados complementares no link original
+[^6]: [Frente Trabalhista de Taiwan: A morte de dois entregadores — a desigualdade da economia de plataforma ](https://labor.ngo.tw/articles/labor-views/2019-32) — Ver dados complementares no link original
 
-[^7]: [Yuan Judicial: Interpretação nº 740](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — Ver dados complementares no link original
+[^7]: [Yuan Judicial: Interpretação nº 740 ](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — Ver dados complementares no link original
 
-[^8]: [Meu E-Governo: Direitos trabalhistas de entregadores e trabalhadores autônomos, para que você trabalhe tranquilo!](https://www.gov.tw/News_Content_26_703909) — Ver dados complementares no link original
+[^8]: [Meu E-Governo: Direitos trabalhistas de entregadores e trabalhadores autônomos — informe-se para trabalhar com tranquilidade! ](https://www.gov.tw/News_Content_26_703909) — Ver dados complementares no link original
 
-[^9]: [Observatório do _The Reporter_: Gestão de plataformas de entrega e direitos de entregadores](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — Ver dados complementares no link original
+[^9]: [Observatório do The Reporter: Gestão de plataformas de entrega e direitos dos entregadores ](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — Ver dados complementares no link original
 
-[^10]: [Agência Central de Notícias: Comissão de Comércio Justo aceita formalmente aquisição da foodpanda Taiwan pela Grab, conclusão esperada para fim de julho](https://www.cna.com.tw/news/afe/202607010226.aspx) — Reportagem da Agência Central de Notícias
+[^10]: [Agência Central de Notícias: Comissão de Comércio Justo aceita formalmente aquisição da foodpanda Taiwan pela Grab; conclusão esperada para fim de julho ](https://www.cna.com.tw/news/afe/202607010226.aspx) — Reportagem da Agência Central de Notícias
 
-[^11]: [Comissão de Comércio Justo: Caso de concentração Grab e foodpanda, comissão prorroga período de análise até 27 de outubro de 2026](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — Ver dados complementares no link original
+[^11]: [Comissão de Comércio Justo: Caso de concentração Grab e foodpanda — Comissão prorroga período de análise até 27 de outubro de 2026 ](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — Ver dados complementares no link original
 
-[^12]: [Comissão de Comércio Justo: Concentração das duas grandes plataformas de entrega, comissão diz não!](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — Ver dados complementares no link original
+[^12]: [Comissão de Comércio Justo: Concentração das duas grandes plataformas de entrega — Comissão diz não! ](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — Ver dados complementares no link original
 
-[^13]: [Agência Central de Notícias: Aquisição da foodpanda Taiwan, Grab: já protocolou pedido na Comissão de Comércio Justo](https://www.cna.com.tw/news/afe/202603300285.aspx) — Reportagem da Agência Central de Notícias
+[^13]: [Agência Central de Notícias: Aquisição da foodpanda Taiwan — Grab: já protocolamos pedido na Comissão de Comércio Justo ](https://www.cna.com.tw/news/afe/202603300285.aspx) — Reportagem da Agência Central de Notícias
 
-[^14]: [Agência Central de Notícias: Grab compra foodpanda, comissão prorroga análise, decisão mais tardar fim de outubro](https://www.cna.com.tw/news/afe/202607220147.aspx) — Reportagem da Agência Central de Notícias
+[^14]: [Agência Central de Notícias: Grab compra foodpanda — Comissão prorroga análise, decisão mais tardar no fim de outubro ](https://www.cna.com.tw/news/afe/202607220147.aspx) — Reportagem da Agência Central de Notícias
+
+[^15]: [Comissão de Comércio Justo proíbe concentração entre Grab e Fùpàngdá Co. Ltd. (foodpanda) (Comunicado da Comissão de Comércio Justo, 2026-10-21) ](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18509) — Página oficial de comunicado da Comissão, cujo título já menciona a decisão de proibição.
+
+[^16]: [Comissão dá 4 motivos para proibir Grab de comprar foodpanda — vínculo acionário é chave (Agência Central de Notícias, 2026-10-21) ](https://www.cna.com.tw/news/afe/202610210181.aspx) — Registra resultado da votação do conselho (3 votos pela proibição, 1 por aprovação com condicionantes, 1 abstenção), Uber detém cerca de 13,1% das ações e 3,9% dos direitos de voto da Grab, registro da transação no Sudeste Asiático em 2018, quatro motivos, três tipos de medidas propostas pelos requerentes e sua rejeição, e a proibição baseada no Art. 13, §1º da Lei de Comércio Justo.
+
+[^17]: [Comissão proíbe aquisição da Fùpàngdá — Grab: decepcionada por não levar inovação a Taiwan (Agência Central de Notícias, 2026-10-21) ](https://www.cna.com.tw/news/afe/202610210215.aspx) — Registra a resposta textual do porta-voz da Grab à decisão de proibição e seu destaque de que o negócio principal no Sudeste Asiático segue em desenvolvimento, com continuidade no plano de crescimento traçado.

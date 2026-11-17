@@ -166,7 +166,7 @@ _غيتار من «لي غيتارز» (Lee Guitars). من يد حملت أسط�
 ## المراجع
 
 - [لي جونغ شنغ - ويكيبيديا](https://zh.wikipedia.org/zh-tw/李宗盛)
-- [Jonathan Lee (musician) - Wikipedia](<https://en.wikipedia.org/wiki/Jonathan_Lee_(musician)
+- [Jonathan Lee (musician) - Wikipedia](<https://en.wikipedia.org/wiki/Jonathan_Lee_(musician)>)
 - [لو دا يو - ويكيبيديا](https://zh.wikipedia.org/zh-tw/羅大佑)
 
 [^1]: [لي جونغ شنغ - ويكيبيديا](https://zh.wikipedia.org/zh-tw/李宗盛) — يسجل لي جونغ شنغ مواليد 19 يوليو 1958 في بيتو، تايبيه، والده لي تشونغ نيان يدير متجر تشانغ تشون للغاز.

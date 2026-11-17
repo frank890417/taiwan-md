@@ -13,15 +13,18 @@ tags:
   ]
 subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-23T23:06:51+08:00'
+translatedAt: '2026-11-05T10:35:01.390245+00:00'
 ---
 
 > **Aperçu de 30 secondes :** Le festival des morts à Taïwan n'est pas une simple cérémonie religieuse, mais un « traité de paix sociale » qui dure depuis des siècles. Les difficultés de l'établissement agricole précoce et les violents conflits inter-groupes ont conduit les premiers habitants à créer un mécanisme compétitif tel que la "rivalité entre le rituel et la destruction" (以賽陣頭代替打破頭) observé lors du festival des morts de Keelung. Cette cérémonie considère les « étrangers » décédés loin de leur patrie comme des « frères bienveillants », illustrant une compassion migratoire et une cohésion communautaire propres à Taïwan.

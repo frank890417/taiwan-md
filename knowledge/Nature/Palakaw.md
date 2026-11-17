@@ -10,6 +10,8 @@ featured: false
 readingTime: 8
 lastVerified: 2026-05-08
 lastHumanReview: false
+curation: incubating
+curationReason: thin
 ---
 
 > **30 秒概覽：** 「巴拉告」（Palakaw）是花蓮馬太鞍部落阿美族人傳承千年的生態捕魚智慧。族人利用竹筒、樹枝與水生植物，在濕地中為魚蝦搭建一座「三層公寓」，模擬自然棲地吸引生物進駐。這種「不捕之捕」的工法是台灣人工魚礁技術的先驅，也是現代學術界眼中傳統生態知識（TEK）的全球典範——一份人與自然共生的永續契約。
@@ -24,11 +26,11 @@ lastHumanReview: false
 
 巴拉告的核心結構是一座嚴謹的三層「公寓」，每一層都針對特定物種的習性進行設計，將廢棄的自然素材轉化為生機盎然的人工魚礁[^3]。這項技術被研究者認為是近代台灣人工魚礁技術的先驅，早在荷蘭人經營台灣之前就已存在[^4]。
 
-| 樓層 | 主要素材 | 居住對象 | 生態特性 |
-| :--- | :--- | :--- | :--- |
-| **底層** | 大型竹筒或空心木段 | 鰻魚、鱔魚、土虱、鯰魚 | 底棲魚類，偏好陰暗且穩固的遮蔽空間。 |
-| **中層** | 成捆的九芎樹枝或細枝條 | 小魚、小蝦 | 茂密的縫隙能躲避天敵，同時滋生生物膜供食。 |
-| **上層** | 細竹筒、水生植物、檳榔葉 | 吳郭魚、苦花、溪魚 | 遮蔽陽光，提供清涼且安穩的浮游空間。 |
+| 樓層     | 主要素材                 | 居住對象               | 生態特性                                   |
+| :------- | :----------------------- | :--------------------- | :----------------------------------------- |
+| **底層** | 大型竹筒或空心木段       | 鰻魚、鱔魚、土虱、鯰魚 | 底棲魚類，偏好陰暗且穩固的遮蔽空間。       |
+| **中層** | 成捆的九芎樹枝或細枝條   | 小魚、小蝦             | 茂密的縫隙能躲避天敵，同時滋生生物膜供食。 |
+| **上層** | 細竹筒、水生植物、檳榔葉 | 吳郭魚、苦花、溪魚     | 遮蔽陽光，提供清涼且安穩的浮游空間。       |
 
 這套系統的運作邏輯極為精巧：最底層的大竹筒提供了無鱗魚類的避難所；中層的九芎樹枝則像是一座天然的育嬰室，讓小魚蝦在細碎的空間中安全成長；最上層覆蓋的檳榔葉與水草則擋住了刺眼的陽光，調節水溫[^5]。更精妙的是，上層魚類的排泄物會層層掉落，成為中層小魚蝦的食物，形成一個微型的食物鏈循環[^6]。
 
@@ -57,19 +59,35 @@ lastHumanReview: false
 ## 參考資料
 
 [^1]: [國家文化記憶庫：巴拉告＿材質說明](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=264809) — 詳細解釋了「Lakaw」一詞從廢棄物到魚類棲所的語意轉變。
+
 [^2]: [Pulima：用身體經驗一條河](https://www.pulima.com.tw/websites/Pulima/xxxx_21111514310733457.aspx) — 記錄了馬太鞍河神伊得（Idek）的傳說與濕地形成的文化脈絡。
+
 [^3]: [水利署電子報第 0582 期：馬太鞍的巴拉告恢復河川生命力](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=8949&n=30173) — 詳細記錄了巴拉告的三層構造、使用素材及對應的魚類物種。
+
 [^4]: [台灣博碩士論文知識加值系統：馬太鞍部落阿美族巴拉告漁法研究](https://ndltd.ncl.edu.tw/handle/94101679425572461386) — 指出巴拉告是台灣人工魚礁技術的先驅。
+
 [^5]: [原住民族傳統智慧獻：當魚菜共生遇見巴拉告](https://library.yabit.org.tw/literature/introduction/161) — 探討巴拉告作為自然智慧在生物學與生態學上的應用。
+
 [^6]: [花蓮區農業改良場：Palakau 魚兒的國民住宅](https://www.hdares.gov.tw/upload/hdares/files/web_structure/6173/121_5.pdf) — 解釋了巴拉告內部的營養循環與食物鏈結構。
+
 [^7]: [原住民族傳統智慧創作保護資訊網：馬太鞍部落巴拉告傳統捕魚技藝](https://www.titic.cip.gov.tw/app/caseDetail?num=1050425000006) — 官方登記資料，確認了巴拉告作為智慧創作受保護的法律地位。
+
 [^8]: [IPCF：生態永續！馬太鞍代代相傳巴拉告環保捕魚法](https://www.ipcf.org.tw/-/News/Detail?newsId=23041020441105872) — 強調巴拉告在不竭澤而漁原則下的環保永續價值。
+
 [^10]: [Vocus：馬太鞍溪的哭泣與希望](https://vocus.cc/article/68d8c50afd8978000179c2c3) — 探討馬太鞍地名在阿美族語中「眼淚匯聚之地」的文化意涵。
+
 [^11]: [NTU Scholars：臺灣原住民的民族植物與傳統生態知識研究文獻回顧](https://scholars.lib.ntu.edu.tw/bitstreams/0f675ea8-4144-45e8-a76c-6cc5b483dc58/download) — 將巴拉告列為台灣原住民傳統生態知識（TEK）的重要案例。
+
 [^12]: [農業部：到欣綠農園體驗巴拉告生態捕魚](https://www.moa.gov.tw/ws.php?id=2506483) — 介紹巴拉告在現代休閒農業與環境教育中的推廣。
+
 [^13]: [Taipei Times: Bureau licensed to use Aboriginal technology](https://www.taipeitimes.com/News/taiwan/archives/2021/08/05/2003762071) — 報導政府機構如何獲得授權使用這項傳統技術。
+
 [^14]: [ISE 2026 Event Info: A Cross-Cultural Fishing Technology Workshop](https://kaigi.eventsair.com/QuickEventWebsitePortal/international-society-of-ethnobiology-congress-2026/ise2026eventinfo/Agenda/AgendaItemDetail?id=451c7199-4805-4984-9e6f-6c18f28faead) — 2026 年國際民族生物學大會將巴拉告列為全球示範案例。
+
 [^15]: [MDPI Sustainability: Sustainable Development in Local Culture Industries](https://www.mdpi.com/2071-1050/14/6/3404) — 以馬太鞍為例探討原住民文化振興與永續發展的模式。
+
 [^16]: [Taiwan Panorama: Organic, Eco-Friendly, and Sustainable Agriculture](https://www.taiwan-panorama.com/en/Articles/Details?Guid=42376353-5d3d-4c9b-b22a-91404bfc66c4) — 介紹台灣有機與永續農業中的原住民智慧貢獻。
+
 [^17]: [內政部國家公園署：馬太鞍重要濕地（國家級）保育利用計畫](https://www.nps.gov.tw/uploads/files/300ecc84dfc2c6a5d476ed7127321bf3.pdf) — 官方保育計畫，將巴拉告納入濕地明智利用的核心。
+
 [^18]: [微笑台灣：到花蓮光復欣綠農園體驗巴拉告傳統捕魚](https://smiletaiwan.cw.com.tw/article/5152) — 介紹巴拉告在現代生態旅遊中的實踐與文化傳承。

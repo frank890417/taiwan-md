@@ -3,7 +3,6 @@ title: 'Tên Chợ Rau'
 description: "Khi người ta hô vang 'Thịnh An' hay 'Gia Hùng' trên đường phố Đài Loan, có bao nhiêu người sẽ quay lại? Những tên này là phản ánh xã hội Đài Loan, ghi lại tưởng tượng chung về 'cuộc sống tốt đẹp' của các thế hệ khác nhau."
 date: 2026-04-19
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Văn hóa xã hội',
@@ -14,16 +13,20 @@ tags:
     'Gia Hùng',
     'Hoa Trang',
   ]
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
+slug: 'popular-names-taiwan'
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T06:34:13+08:00'
+translatedAt: '2026-11-05T08:35:17.501804+00:00'
 ---
 
 # Tên Chợ Rau

@@ -1,133 +1,145 @@
 ---
-title: "L'évolution du mandarin à Taïwan — quatre siècles de stratigraphie linguistique"
-description: "Combien de strates historiques se cachent dans un simple mot ? Suivez le voyage d'un terme à travers quatre siècles pour explorer les sédiments naturels du langage sur cette île."
+title: "L'évolution du mandarin taïwanais — quatre siècles de stratigraphie linguistique"
+description: "Combien d'histoires se cachent dans un bento ? Suivez le voyage de ce mot pour explorer la langue qui a poussé naturellement sur cette île depuis quatre cents ans."
 date: 2026-03-29
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'mandarin taïwanais',
     'évolution linguistique',
-    'emprunts japonais',
-    'divergences sino-taïwanaises',
+    'emprunts au japonais',
+    'terminologie des deux rives',
     'identité linguistique',
   ]
+subcategory: '語言與文字'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
-lastVerified: 2026-03-29
-author: 'Taiwan.md'
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-11-05T15:28:55+08:00'
 ---
 
-> **En 30 secondes :** Pourquoi le chinois parlé à Taïwan a-t-il cette forme particulière ? Ce n'est pas le résultat d'une politique planifiée, mais le produit naturel de quatre siècles de vie insulaire, déposé couche après couche comme des strates géologiques. Des toponymes hérités des colons hollandais aux emprunts japonais infiltrés sur cinquante ans, de la divergence lexicale de 1949 jusqu'aux tensions linguistiques de l'ère numérique — chaque couche porte l'empreinte d'une vie réelle, et non d'une posture politique.
+> **Aperçu en 30 secondes :** Pourquoi le chinois parlé à Taïwan a-t-il cette allure ? Ce n'est pas le résultat d'une conception politique, mais le fruit de quatre cents ans de vie insulaire, naturellement sédimentés en strates linguistiques. Des toponymes laissés par les Néerlandais aux cinquante ans d'infiltration des emprunts japonais, en passant par la divergence lexicale de 1949 jusqu'au bras de fer linguistique de l'ère Internet — chaque strate porte la trace d'une vie réelle, non d'une posture politique.
 
-En 1895, la première année de l'administration japonaise à Taïwan, les écoles de Taipei ouvrent un nouveau cours : le japonais. Les enfants apprennent des mots nouveaux, un à un, incrustant la logique japonaise dans le squelette du minnan. Parmi ces mots, il y en a un : _bento_ (弁当).
+En 1895, la première année de la prise en main de Taïwan par le Japon, les écoles de la ville de Taipei ont commencé à enseigner un nouveau programme : le japonais. Les enfants ont appris de nouveaux vocables, un mot à la fois, incrustant la manière de penser japonaise dans la charpente du minnan. Parmi ces mots, il y en avait un qui s'appelait « _bentō_ » (弁当).
 
-Cinquante ans plus tard, en 1945, ces enfants sont devenus grands-pères et grands-mères. Ils appellent la boîte à repas _biàndāng_ (便當), aussi naturellement qu'ils appellent leur père _bàba_. Cette année-là, une vague de gens parlant un autre chinois arrive du continent. Ils appellent la même chose _héfàn_ (盒飯). Deux groupes, une même île, une même nourriture, deux noms différents.
+Cinquante ans plus tard, en 1945, ces enfants avaient grandi, devenus grands-mères et grands-pères. Ils appelaient la boîte qui contient la nourriture « 便當 » (biàndāng), tout naturellement, comme on appelle son père « papa ». Cette année-là, un groupe de gens parlant un chinois différent est arrivé du continent. Ils appelaient la même chose « 盒飯 » (héfàn). Deux groupes, une même île, une même nourriture, deux noms.
 
-L'histoire du mandarin taïwanais commence précisément dans cet écart.
+L'histoire du mandarin taïwanais commence dans cette fissure.
 
 ## La métaphore géologique
 
-Les linguistes aiment comparer l'histoire d'une langue à des strates géologiques. De même qu'un géologue lit des millions d'années dans les roches, écouter quelqu'un parler permet de percevoir des siècles de sédimentation culturelle.
+Les linguologues aiment utiliser les « strates » pour décrire l'histoire des langues. Tout comme les géologues lisent des milliards d'années d'histoire dans les roches, écouter quelqu'un parler permet de ressentir des centaines d'années de sédimentation culturelle.
 
-Les strates linguistiques de Taïwan en comptent au moins cinq.
+La stratigraphie linguistique de cette île compte au moins cinq couches.
 
-La plus profonde est la couche austronésienne. Avant l'arrivée massive des Chinois Han, Taïwan était habitée par des peuples autochtones parlant des langues austronésiennes. Leur héritage linguistique se loge essentiellement dans les toponymes. Le nom « Taïwan » lui-même est dérivé d'un nom de tribu autochtone ; l'ancien nom de Kaohsiung, « Takao » (打狗), est une translittération d'un terme autochtone que les Hollandais ont consigné dans leurs documents du XVIIe siècle. Cette couche est aujourd'hui en voie de disparition rapide : la grande majorité des langues des peuples autochtones de Taïwan figure sur la liste des langues en danger de l'UNESCO, et certaines ne comptent plus que quelques dizaines de locuteurs natifs.
+La plus profonde est la couche austronésienne. Avant l'arrivée massive de populations han, Taïwan était habitée par des peuples autochtones parlant des langues austronésiennes. L'héritage linguistique qu'ils ont laissé à cette île se trouve principalement dans les toponymes. « Taïwan » lui-même vient d'un nom de tribu autochtone, l'ancien nom de Kaohsiung « 打狗 » (Dǎgǒu) est une transcription phonétique d'une langue autochtone, consignée dans des documents néerlandais du XVIIe siècle. Cette couche linguistique est aujourd'hui en voie de disparition rapide. La plupart des langues des peuples autochtones de Taïwan ont été classées comme langues en danger par l'UNESCO, certaines comptant moins de cent locuteurs maternels. [Mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement/)
 
-La deuxième couche est celle des migrants minnan et hakka. À partir du XVIIe siècle, de nombreux migrants venus du Fujian et du Guangdong traversent le détroit, apportant le minnan (le taïwanais) et le hakka. Ces deux langues ne sont pas de simples dialectes transplantés : en quatre siècles de vie insulaire, elles se sont fondues avec leur environnement pour développer des accents et un vocabulaire proprement taïwanais. Les expressions courantes comme _āshālì_ (franc et direct), _gǔzǎo_ (autrefois) ou _tòuzǎo_ (très tôt le matin) portent toutes les traces du minnan infiltré dans le mandarin quotidien.
+La deuxième couche est celle des migrants minnan et hakka. À partir du XVIIe siècle, de nombreux migrants en provenance du Fujian et du Guangdong ont traversé la mer pour venir à Taïwan, apportant le minnan (taïwanais) et le hakka. Ces deux langues ne sont pas de simples dialectes importés ; en quatre cents ans de vie insulaire, elles se sont mélangées à tout ce qui les entourait, faisant pousser des accents et des vocables qui appartiennent à Taïwan. Aujourd'hui, quand les Taïwanais disent « 阿莎力 » (āshālì, franc et direct), « 古早 » (kózǎo, d'autrefois), « 透早 » (tòuzǎo, dès l'aube), ce sont autant de traces quotidiennes du taïwanais infiltré dans le mandarin. [Culture et langue hakka](/fr/culture/hakka-culture-and-language/)
 
-La troisième couche est la couche japonaise — la plus épaisse et la plus distinctive du mandarin taïwanais.
+La troisième couche est la couche japonaise, et c'est la plus épaisse, la plus caractéristique du mandarin taïwanais.
 
-## Cinquante ans de pénétration linguistique
+## Cinquante ans d'infiltration linguistique
 
-De 1895 à 1945, le Japon administre Taïwan pendant un demi-siècle. L'héritage linguistique de cette période a des effets bien plus durables que n'importe quelle politique planifiée.
+De 1895 à 1945, le Japon a administré Taïwan pendant cinquante ans. L'héritage linguistique laissé par ces cinquante ans a une longévité bien supérieure à celle de n'importe quelle politique planifiée.
 
-Le linguiste Yang Yunping a laissé une formule souvent citée : « Le plus grand accomplissement de la domination japonaise sur Taïwan, c'est d'avoir amené de nombreux enfants et jeunes gens à oublier leur langue maternelle. » Il parlait de l'érosion du minnan sous la pression de l'ère japonaise, mais vu sous un autre angle, cette phrase dit aussi à quelle profondeur le japonais s'est enraciné dans la vie d'une génération entière.
+La linguiste Yang Yun-ping a laissé une phrase que les générations suivantes n'ont cessé de citer : « Le plus grand accomplissement de la domination japonaise à Taïwan, c'est d'avoir fait en sorte que de nombreux enfants et jeunes oublient leur "langue maternelle". » Cette phrase parle de la perte du taïwanais sous la répression de l'époque japonaise, mais sous un autre angle, elle dit aussi comment le japonais s'est immiscé dans la vie d'une génération entière.
 
-Ces locuteurs n'ont pas acquis un japonais au point de penser ou de rêver dans cette langue. Ce qu'ils ont appris, c'est une substitution par couches du vocabulaire quotidien : la boîte à repas devient _biàndāng_ (弁当), la tante _ōbāsāng_ (おばさん), le chauffeur _yùnjiàng_ (運転ちゃん), l'enseigne _kānbǎn_ (看板), le caractère direct et chaleureux _āshālì_ (あっさり).
+Le japonais que ces gens ont fini par apprendre n'était pas celui où l'on pense et rêve en japonais, avec cette aisance-là. Ce qu'ils ont appris, c'est un remplacement par strates du vocabulaire de la vie courante : la boîte à repas s'appelle « 便當 » (_bentō_), la tante « 歐巴桑 » (_obasan_), le chauffeur « 運將 » (_untenshan_), l'enseigne « 看板 » (_kanban_), la franchise directe « 阿莎力 » (_assari_).
 
-La prononciation de ces mots a été remodelée par la phonologie du minnan. _Yùnjiàng_ ne se dit plus à la japonaise _うんてんしゃ_ ; c'est une prononciation proprement taïwanaise, empreinte de familiarité et de chaleur populaire. La langue a été ainsi digérée, assimilée, jusqu'à ce que ses usagers en oublient l'origine.
+La prononciation de ces mots a été refaçonnée dans la racine de la langue minnan. « 運將 » ne se prononce plus comme le japonais « うんてんしゃ » (_untensha_), mais avec la prononciation propre aux Taïwanais, portant de l'affection, la familiarité du voisinage. La langue s'est ainsi digérée, devenue sienne, jusqu'à ce que les locuteurs aient depuis longtemps oublié son origine.
 
-> 📝 **Note du curateur**
+> 📝 **Note de la curatrice**
 >
-> Parmi les emprunts japonais, les plus fascinants sont ceux qui ont été si complètement localisés qu'on ne les perçoit plus comme des mots étrangers. _Pǐnzhì_ (品質, japonais _hinshitsu_), _zhùshè_ (注射, injection), _kānhù_ (看護, infirmière) — tous implantés à Taïwan par le système éducatif de l'ère japonaise. À l'inverse, la Chine continentale utilise _zhìliàng_ (qualité), _dǎzhēn_ (faire une piqûre), _hùshi_ (infirmière). Même concept, mots différents : la divergence remonte à ce demi-siècle de chemins séparés.
+> La catégorie la plus fascinante parmi les emprunts japonais, ce sont ceux qui se sont complètement indigénisés, au point qu'on oublie qu'ils sont des mots d'origine étrangère. « 品質 » (pǐnzhì, qualité — japonais 品質 _hinshitsu_), « 注射 » (zhùshè, injection), « 看護 » (kānhù, soins infirmiers), implantés à Taïwan par le système éducatif de l'époque japonaise. De l'autre côté du détroit, on utilise « 質量 » (zhìliàng), « 打針 » (dǎzhēn), « 護士 » (hùshì). Un même concept, des mots différents, le point de départ de la divergence se trouve dans ces cinquante ans de chemins séparés.
 
-## L'empreinte grammaticale du substrat minnan
+## L'empreinte grammaticale du substrat taïwanais
 
-Ce qu'on oublie le plus facilement, ce ne sont pas les mots empruntés, mais la façon dont le minnan a subtilement réformé la manière dont les Taïwanais parlent le mandarin.
+Ce qui passe le plus inaperçu, ce ne sont pas les mots empruntés, mais la façon dont le taïwanais a silencieusement remodelé la manière dont les Taïwanais parlent le mandarin.
 
-« _Wǒ yǒu chī fàn le._ » (J'ai mangé.)
+« 我有吃飯了 » (Wǒ yǒu chīfàn le).
 
-Toute personne ayant grandi à Taïwan comprend cette phrase, sans même remarquer qu'il y a quelque chose d'inhabituel. Or la structure « _yǒu_ + verbe » n'existe pas en mandarin standard, où l'on dirait simplement « _Wǒ chī fàn le_ ». Utiliser _yǒu_ pour exprimer un accompli est une caractéristique du minnan (où l'on dit « _Goá ū tsia̍h--kuè--à_ »). Ce n'est pas une erreur grammaticale : c'est l'influence profonde du substrat minnan, naturellement infiltrée dans les schémas grammaticaux du mandarin au fil de plusieurs générations.
+N'importe qui ayant grandi à Taïwan comprend cette phrase, sans même la trouver étrange. Mais la structure « 有 + verbe » n'existe pas en mandarin standard. La formulation standard est « 我吃飯了 » (Wǒ chīfàn le). « 有 » + verbe pour indiquer l'accomplissement de l'action est un usage du taïwanais (en taïwanais : « 我有食過矣 » — _guá ū chia̍h kuè ah_). Ce n'est pas une erreur grammaticale, c'est l'influence du substrat de la grammaire taïwanaise, qui s'est naturellement infiltrée dans les modèles grammaticaux du mandarin au fil de plusieurs générations de conversations quotidiennes.
 
-Autre exemple, plus discret. Les Taïwanais disent « _tā gěi wǒ dǎ_ » pour signifier « il m'a frappé ». Ici, _gěi_ reprend la sémantique du mot minnan _kā_ (共), marquant le passif ou le patient de l'action — ce qui est totalement distinct de son sens habituel en mandarin standard, où _gěi_ signifie « donner ». Cet usage apparaît dans de nombreuses conversations ordinaires et dans des essais littéraires taïwanais, et ne s'entend pratiquement jamais en Chine continentale, à l'écrit comme à l'oral.
+Il y a un exemple encore plus subtil. Les Taïwanais disent « 他給我打 » (Tā gěi wǒ dǎ), ce qui veut dire « Il m'a frappé ». Ici, le mot « 給 » (gěi) est une transposition sémantique du « 共 » (kā) taïwanais, marquant la relation passive ou de patient, complètement différente du sens de don du « 給 » en mandarin standard. Cet usage apparaît dans de nombreuses conversations quotidiennes et proses littéraires à Taïwan, alors qu'il est quasi absent des écrits et de l'oral du continent.
 
-Les linguistes appellent ce phénomène l'« influence de substrat » (_substratum influence_). Le minnan est la langue populaire la plus ancienne de Taïwan ; il soutient comme une fondation la façon dont les Taïwanais parlent le mandarin. Même si l'usage du minnan se rétrécit, sa structure continue de vivre discrètement dans la grammaire du mandarin taïwanais.
+Les linguologues appellent ce phénomène « influence de substrat » (substratum influence). Le taïwanais est la plus ancienne langue populaire de ce lieu ; il soutient comme un soubassement la façon dont les Taïwanais parlent le chinois. Même si l'usage du taïwanais lui-même se rétracte, sa structure continue de vivre dans la grammaire du mandarin taïwanais, sans bruit.
 
-## 1949 : deux dictionnaires qui bifurquent
+## 1949 : deux dictionnaires prennent des chemins divergents
 
-En 1949, le gouvernement nationaliste se replie à Taïwan, amenant avec lui une multitude de locuteurs de toutes les provinces de Chine : accents shanghaiiens, pékinois, sichuanais — tous les chinois se rencontrent sur cette petite île. Le gouvernement lance immédiatement le « Mouvement pour la langue nationale », faisant du mandarin standard basé sur le dialecte de Pékin la langue de l'enseignement. Le minnan, le hakka et les langues autochtones sont exclus des salles de classe ; les élèves sont punis pour avoir parlé leur langue maternelle. En 1955, le gouvernement provincial de Taïwan publie une circulaire interdisant même aux Églises d'utiliser les systèmes de romanisation du minnan.
+En 1949, le gouvernement nationaliste se replie sur Taïwan, emmenant avec lui de nombreux locuteurs en provenance de toutes les provinces de Chine : accent de Shanghai, de Pékin, du Sichuan, toutes sortes de chinois se rencontrent sur cette petite île. Le gouvernement lance immédiatement le « Mouvement pour la langue nationale » (國語運動), faisant du chinois standard basé sur la prononciation de Beiping la langue de l'enseignement scolaire. Le taïwanais, le hakka et les langues autochtones sont exclus des salles de classe ; les élèves sont punis pour avoir parlé leur langue maternelle. En 1955, le gouvernement provincial de Taïwan publie un avis interdisant aux églises d'utiliser le système de romanisation du taïwanais, sans exception même pour les lieux religieux.
 
-Cet épisode a laissé non seulement des cicatrices, mais aussi une cristallisation du vocabulaire.
+Cette histoire n'a pas laissé que des cicatrices, elle a aussi provoqué une cristallisation lexicale.
 
-Le mandarin taïwanais suit dès lors sa propre voie. Le _Dictionnaire révisé du mandarin_ du ministère de l'Éducation intègre les usages propres à Taïwan ; la Chine continentale, elle, publie en 1955 le _Dictionnaire du chinois contemporain_ et s'engage vers une normalisation différente. Au fil des décennies, les deux dictionnaires évoluent séparément, accumulant plus de trois cents entrées en divergence notable.
+Dès lors, le chinois de Taïwan a suivi sa propre route. Le _Dictionnaire révisé de la langue nationale_ (重編國語辭典修訂本) du ministère de l'Éducation enregistre les habitudes d'usage des caractères à Taïwan ; le continent, de son côté, publie en 1955 le _Dictionnaire du chinois moderne_ (現代漢語詞典), empruntant une autre voie de normalisation. Après plusieurs décennies de développement parallèle, les vocables courants présentent déjà plus de trois cents entrées nettement divergentes.
 
-_Jìchéngchē_ (taxi) contre _chūzūchē_ ; _ruǎntǐ_ (logiciel) contre _ruǎnjiàn_ ; _yìngdié_ (disque dur) contre _yìngpán_ ; _pǐnzhì_ (qualité) contre _zhìliàng_. Derrière chaque paire de mots, une bifurcation empruntée séparément.
+« 計程車 » (jíchéngchē) et « 出租車 » (chūzūchē), « 軟體 » (ruǎntǐ) et « 軟件 » (ruǎnjiàn), « 硬碟 » (yìngdié) et « 硬盤 » (yìngpán), « 品質 » (pǐnzhì) et « 質量 » (zhìliàng). Derrière chaque paire de mots, il y a un carrefour où chacun a pris sa direction.
 
 > 📊 **Les chiffres parlent**
 >
-> Le _Manuel de référence du vocabulaire continental_ (竺家寧 et al., 1997), publié par le Conseil des affaires continentales de l'exécutif, recense les divergences lexicales majeures entre Taïwan et la Chine continentale dans les domaines de la vie quotidienne, de la technologie, de l'éducation et des médias. Les divergences se répartissent en trois catégories principales : mots hérités du japonais (_biàndāng_ / _héfàn_), stratégies de traduction différentes (_ruǎntǐ_ / _ruǎnjiàn_), et néologismes formés indépendamment de chaque côté (_wǎnglù_ / _hùliánwǎng_).
+> Le _Manuel de recherche des termes du continent_ (大陸用語檢索手冊) publié en 1997 par le Conseil des affaires continentales de l'Yuan exécutif (compilé par Zhu Jia-ning et al.) a répertorié les divergences manifestes du vocabulaire courant entre Taïwan et le continent, couvrant la vie quotidienne, la technologie, l'éducation, la communication. Les types de divergence sont principalement au nombre de trois : mots d'héritage japonais (便當／盒飯), stratégies de traduction divergentes (軟體／軟件), néologismes créés de chaque côté (網路／互聯網).
 
-## La résurgence linguistique après la levée de la loi martiale
+## Les réverbérations linguistiques d'après la levée de la loi martiale
 
-En 1987, Taïwan lève la loi martiale, mettant fin à trente-huit ans de régime politique répressif. Les langues longtemps refoulées commencent lentement à refaire surface.
+En 1987, Taïwan lève la loi martiale, trente-huit ans de compression politique se desserrent. Les langues maintenues sous terre commencent elles aussi à revivre lentement.
 
-Des émissions en minnan apparaissent à la télévision, les programmes scolaires intègrent des « langues locales » — bientôt rendues obligatoires sous le nom de « langues patrimoniales ». L'Institut de linguistique de l'Academia Sinica classe le _Táiwān Guóyǔ_ (la variété du mandarin marquée par le substrat minnan) dans le champ de la recherche sur les langues locales, le considérant comme un phénomène linguistique digne d'étude autonome, et non comme une version dégradée du putonghua.
+Les chaînes de télévision diffusent des émissions en taïwanais, les programmes scolaires intègrent les « langues locales », qui deviennent plus tard le « langues locales » obligatoire. L'Institut de linguistique de l'Academia Sinica inscrit le « mandarin taïwanais » (variété de mandarin à substrat taïwanais) dans le champ de recherche des langues locales, le considérant comme un phénomène linguistique méritant une étude indépendante, et non comme une version dégradée du putonghua.
 
-Le minnan, le hakka et les langues autochtones entrent dans les manuels scolaires. Mais des décennies de répression ne se rattrapent pas avec une réforme des programmes. Nombre de linguistes de cette période font alors un travail qui tient davantage du sauvetage d'urgence que de la recherche pure : enregistrer avec des magnétophones le vocabulaire des anciens, pour conserver les langues avant la disparition de leurs derniers locuteurs natifs.
+Le minnan, le hakka, les langues autochtones entrent dans les manuels, mais des décennies de répression linguistique ne se comblent pas par une simple réforme de programme. Beaucoup de linguologues, à cette époque, font non seulement de la recherche, mais quelque chose qui ressemble à de l'urgence : enregistrer au magnétophone le vocabulaire dans la bouche des aînés, sauver les langues avant que la dernière génération de locuteurs maternels ne s'éteigne. [Diversité linguistique et culture des langues maternelles](/fr/culture/linguistic-diversity-and-mother-tongue-culture/)
 
-Cette époque fait également naître une esthétique linguistique particulière : le mélange du minnan et du mandarin, non par manque de maîtrise, mais par choix délibéré. _Jiū_ (happer, entraîner) porte une intimité que _yuē_ (inviter) n'a pas ; _jiǎh bá bē_ (t'as mangé ?) est plus chaleureux que _nǐ chī le ma ?_. Ceux qui parlent ainsi savent qu'ils font un choix.
+Cette époque a aussi vu naître une esthétique linguistique particulière : le mélange taïwanais-mandarin, non par manque de fluidité, mais par choix. « 揪 » (jiū) a plus d'intimité que « 約 » (yuē), « 呷飽未 » (jiā bāo bē) a plus de chaleur que « 你吃了嗎 » (nǐ chī le ma). Ces gens qui parlent en mélangeant les langues savent qu'ils font un choix.
 
-## Les tensions linguistiques à l'ère numérique
+## Le bras de fer linguistique de l'ère Internet
 
-À partir des années 2000, une nouvelle pression linguistique s'exerce depuis une direction inattendue.
+Après les années 2000, un nouveau type de pression linguistique arrive de directions différentes.
 
-Internet projette dans le même espace des usagers du chinois séparés par le détroit. Sur les forums, les salons de discussion et les réseaux sociaux, les Taïwanais sont exposés à un flot de vocabulaire continental. _Yǐngpiàn_ et _shìpín_ coexistent, _bùluòkè_ et _bówǔ_ se côtoient, _ànzàn_ et _diǎnzàn_ se disputent l'usage. Certains mots s'infiltrent parce qu'ils sont pratiques ; d'autres provoquent un rejet manifeste.
+Internet a poussé les locuteurs séparés par le détroit dans un même espace. Sur les forums, les salons de discussion, les réseaux sociaux, les Taïwanais ont commencé à être exposés à une grande quantité de termes du continent. « 影片 » (yǐngpiàn) et « 視頻 » (shìpín) coexistent, « 部落客 » (bùluòkè) et « 博主 » (bózhǔ) coexistent, « 按讚 » (ànzàn) et « 點贊 » (diǎnzàn) coexistent. Certains mots s'infiltrent par commodité d'usage, d'autres suscitent un rejet évident.
 
-Dans les années 2010, l'essor des vidéos courtes accélère cette infiltration. Insensiblement, les jeunes Taïwanais commencent à utiliser _guīmì_ (meilleure amie) à la place de _sǐdǎng_, _yánzhí_ (beauté du visage) à la place d'_wàibiǎo_, _rénshe_ (image publique) à la place de _xíngxiàng_. Ces mots ne viennent pas d'une influence politique : ils arrivent portés par les contenus de divertissement, par les algorithmes, par les vidéos humoristiques.
+Dans les années 2010, l'essor des plateformes de vidéos courtes accélère cette infiltration. Les jeunes Taïwanais commencent sans s'en rendre compte à utiliser « 閨蜜 » (guīmì) au lieu de « 死黨 » (sǐdǎng), « 顏值 » (yánzhí) au lieu de « 外表 » (wàibiǎo), « 人設 » (rénshè) au lieu de « 形象 » (xíngxiàng). Ces mots ne viennent pas d'une influence politique, ils arrivent avec les contenus de divertissement, avec les algorithmes, avec les vidéos drôles.
 
-C'est dans ce contexte qu'est né le terme _zhī yǔ jǐngchá_ (« police des sinismes »). Apparu d'abord dans les communautés d'anime et de jeux vidéo, il s'est ensuite répandu dans de nombreux forums pour désigner ceux qui restent vigilants face à la « continentalisation » du langage. Certains jugent cette vigilance excessive, d'autres la trouvent justifiée. Mais quelle que soit la position, le phénomène lui-même révèle quelque chose d'important : de nombreux Taïwanais commencent à prendre conscience de la langue qu'ils parlent, et de là où elle vient.
+Le terme « 警察 » (jǐngchá) — « police du _zhīyǔ_ » — est né dans ce contexte. Il est apparu d'abord dans les communautés d'animation et de jeux vidéo, puis s'est diffusé sur divers forums de discussion, désignant ceux qui restent vigilants face à la « continentalisation » de la langue. Certains trouvent cette vigilance excessive, d'autres la trouvent juste. Mais quelle que soit la position, ce phénomène lui-même dit une chose : beaucoup de Taïwanais commencent à prendre conscience activement de ce qu'est la langue qu'ils parlent, et d'où elle vient.
 
-> 📝 **Note du curateur**
+> 📝 **Note de la curatrice**
 >
-> Le système NoteTA de Wikipédia est la solution technique la plus intéressante à ce problème. Ce système permet aux éditeurs de définir des règles de conversion régionale pour un même article : le lecteur en chinois traditionnel taïwanais voit _ruǎntǐ_, tandis que le lecteur en chinois simplifié continental voit automatiquement _ruǎnjiàn_. Une seule base de données, plusieurs vocabulaires — la divergence linguistique transformée en problème d'ingénierie gérable par le code. Non pas une unification, mais une reconnaissance de la légitimité de la divergence.
+> Le système NoteTA de Wikipédia est la solution technique la plus intéressante à ce problème. Ce système permet aux contributeurs de définir des règles de conversion terminologique régionale pour un même article : en lisant en chinois traditionnel de Taïwan, on voit « 軟體 » ; en lisant en chinois simplifié du continent, s'affiche automatiquement « 軟件 ». Une base de données, plusieurs jeux de vocabulaire, transformant la divergence linguistique en un problème d'ingénierie traitable par le code. Ce n'est pas de l'unification, c'est la reconnaissance de la légitimité de la divergence.
 
-## Préserver, ce n'est pas faire du musée
+## Préserver, ce n'est pas une affaire de musée
 
-La « police des sinismes » et la « préservation linguistique » sont deux choses différentes, mais elles procèdent de la même anxiété : la disparition des langues est réelle, les changements linguistiques sont réels, et les deux méritent d'être pris au sérieux.
+La « police du _zhīyǔ_ » et la « préservation des langues » sont deux choses différentes, mais elles naissent de la même angoisse : la disparition des langues est réelle, le changement des langues est réel, tous deux méritent d'être pris au sérieux.
 
-Le linguiste Cao Fengfu, dans ses recherches sur le contact linguistique à Taïwan, écrit : « L'écologie linguistique de Taïwan est un champ de contact complet, où les influences entre langues sont bidirectionnelles et dynamiques. » Il entend par là que traiter n'importe quel phénomène linguistique comme « pur » ou comme « contamination » revient à simplifier un processus bien plus complexe.
+Le linguiste Cao Feng-fu écrit dans ses recherches sur le contact des langues à Taïwan : « L'écologie linguistique de Taïwan est un champ de contact complet, l'influence entre les différentes langues est bidirectionnelle, dynamique. » Ce qu'il veut dire, c'est que traiter n'importe quel phénomène linguistique comme « pur » ou « pollué », c'est simplifier un processus bien plus complexe.
 
-Préserver les usages lexicaux du mandarin taïwanais, ce n'est pas le figer dans un musée pour empêcher son évolution. C'est, au fil de cette évolution, conserver les traces d'une expérience de vie réelle : la mémoire des trains de Taiwan Railways dans le mot _biàndāng_, la chaleur du voisinage dans le mot _ōbāsāng_, le substrat minnan dans la phrase _wǒ yǒu chī fàn le_, et aussi les langues des vieilles grand-mères minnan en voie de disparition, et les langues des anciens des villages autochtones.
+Préserver les habitudes lexicales du mandarin taïwanais, ce n'est pas les mettre sous glace dans un musée pour les empêcher de continuer à évoluer. C'est, dans le processus d'évolution, conserver les traces de ces expériences de vie réelles : le souvenir du train dans le mot « 便當 », la chaleur du voisinage dans « 歐巴桑 », le substrat taïwanais dans la phrase « 我有吃飯了 », et puis ces langues en train de disparaître — le taïwanais des vieilles grand-mères, les langues tribales des anciens chefs de clan.
 
-La langue est vivante. L'archiver ne l'empêche pas de continuer à changer. Mais ce qui est archivé permet aux générations futures de savoir ce que cette île a connu, ce qu'elle a ressenti.
+La langue est vivante. Elle ne s'arrête pas de changer parce qu'on l'a enregistrée. Mais les parties qui ont été enregistrées permettront à ceux qui viendront après de savoir ce qui a existé sur cette île, ce qui s'y est ressenti.
 
-C'est là le sens de la préservation — non pas une raison de s'opposer, mais une raison de se souvenir.
+Voilà le sens de la préservation, pas une raison d'affronter.
 
 ---
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- 竺家寧 et al., _Manuel de référence du vocabulaire continental_, Conseil des affaires continentales de l'exécutif, 1997. https://mac.gov.tw
-- Institut de linguistique de l'Academia Sinica, Base de données de recherche sur le Taïwan Guóyǔ. https://ling.sinica.edu.tw
-- Ministère de l'Éducation, _Dictionnaire révisé du mandarin_ (version en ligne). https://dict.revised.moe.edu.tw
-- Yang Yunping, « Politique linguistique du Japon à Taïwan », in _Taïwan Culture_, 1948.
-- Cao Fengfu, _Où va la politique linguistique de Taïwan ?_, Avanguard Publishing, 1995.
-- Wikipédia, entrée « Taïwān Guóyǔ ». https://zh.wikipedia.org/wiki/臺灣國語
-- Commission de développement national, _Rapport sur la politique linguistique de Taïwan_, 2009. https://www.ndc.gov.tw
+[Emprunts et contact des langues à Taïwan](/fr/culture/loanwords-and-language-contact-in-taiwan/)
+[Mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement/)
+[Diversité linguistique et culture des langues maternelles](/fr/culture/linguistic-diversity-and-mother-tongue-culture/)
+[Culture et langue hakka](/fr/culture/hakka-culture-and-language/)
+
+---
+
+## Lectures complémentaires
+
+- Zhu Jia-ning et al., _Manuel de recherche des termes du continent_, Conseil des affaires continentales de l'Yuan exécutif, 1997. https://mac.gov.tw
+- Institut de linguistique de l'Academia Sinica, Base de données de recherche sur le mandarin taïwanais. https://ling.sinica.edu.tw
+- Ministère de l'Éducation, _Dictionnaire révisé de la langue nationale_ (version en ligne). https://dict.revised.moe.edu.tw
+- Yang Yun-ping, « La politique linguistique du Japon à Taïwan », in _Culture de Taïwan_, 1948.
+- Cao Feng-fu, _Quelle voie pour la politique linguistique de Taïwan ?_, Avant-garde Publishing, 1995.
+- Wikipédia, article « Mandarin taïwanais ». https://zh.wikipedia.org/wiki/臺灣國語
+- Conseil pour la recherche, le développement et l'évaluation de l'Yuan exécutif, _Rapport sur la politique linguistique de Taïwan_, 2009. https://www.ndc.gov.tw

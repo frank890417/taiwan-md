@@ -2,19 +2,21 @@
 title: 'Fu Kun-chi: la espiral de poder desde el «rey de Hualien» de Houshan hasta el «jefe de bancada» en el Parlamento'
 description: 'Desde el magnate bursátil de los años 1990 conocido como «el pequeño Fu de Kaiju», hasta su ingreso al Parlamento en 2001 y su llegada al gobierno de Hualien en 2009, Fu Kun-chi construyó en Houshan una «dinastía Fu» de dos décadas que ni siquiera el poder central ha logrado sacudir fácilmente. Desde ingresar a prisión sin dejar el cargo por un caso de manipulación bursátil, pasando por un divorcio simulado para nombrar a su esposa vicegobernadora, hasta su regreso en 2024 al Yuan Legislativo como jefe de la bancada del Kuomintang y su liderazgo de una delegación a China, ha exhibido una de las formas más extremas de resiliencia del poder y controversia en la política taiwanesa.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['Hualien', 'figuras políticas', 'Kuomintang', 'Yuan Legislativo']
-readingTime: 12
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-05T02:43:23.568635+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -48,18 +50,18 @@ El título de «rey de Hualien» expresa tanto la dependencia que muchos habitan
 
 ## Referencias
 
-[^1]: [El doble rostro de Fu Kun-chi: una mirada al fenómeno del rey de Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - The Reporter
+[^1]: [El doble rostro de Fu Kun-chi: una mirada al fenómeno del 'Rey de Hualien'](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - The Reporter
 
-[^2]: [Nombró a su esposa como vicegobernadora: Fu Kun-chi condenado a seis meses por divorcio simulado](https://news.tvbs.com.tw/politics/53325) — TVBS News: el Tribunal de Distrito de Hualien condenó a Fu Kun-chi a 6 meses y a Hsu Chen-wei a 4 meses por falsificación documental (sentencia penal n.º 358, año 99, del Tribunal de Distrito de Hualien)
+[^2]: [Nombrar a su esposa como suplente: Fu Kun-chi condenado a 6 meses por divorcio falso](https://news.tvbs.com.tw/politics/53325) — TVBS News: El Tribunal de Distrito de Hualien condena a Fu Kun-chi a 6 meses y a Hsu Chen-wei a 4 meses por falsificación de documentos (Sentencia penal No. 358 de 2010 del Tribunal de Distrito de Hualien)
 
-[^3]: [Sentencia firme en el caso de manipulación bursátil de Fu Kun-chi: ¿por qué fue destituido como gobernador, pero como legislador pudo ingresar a prisión sin dejar el cargo?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingrentang: reportaje de United Daily News
+[^3]: [Caso de manipulación bursátil de Fu Kun-chi confirmado: ¿por qué fue destituido como magistrado pero puede entrar a la cárcel manteniendo su cargo de legislador?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang: informe de United Daily News
 
-[^4]: [Caso de manipulación de acciones de Kaiju por Fu Kun-chi: condena firme de 2 años y 10 meses, deberá ingresar a prisión](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Agencia Central de Noticias: la Corte Suprema rechazó la apelación el 14 de mayo de 2020 y la condena quedó firme
+[^4]: [Caso de manipulación de Kaiju por Fu Kun-chi: condenado a 2 años y 10 meses, sentencia firme, debe ingresar en prisión](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency: La Corte Suprema rechazó la apelación el 14 de mayo de 2020, confirmando la sentencia
 
-[^5]: [Del rey de Hualien al tirano parlamentario: análisis del mito de poder de Fu Kun-chi y de la crisis de permisividad del Kuomintang](https://newcongress.tw/?p=32791) — New Congress, autor Qin Jing (la expresión crítica «tirano parlamentario» proviene del título de este artículo)
+[^5]: [Del 'Rey de Hualien' al 'Tirano del Congreso': análisis del mito del poder de Fu Kun-chi y la crisis de complacencia del Kuomintang](https://newcongress.tw/?p=32791) — Nueva Asamblea Ciudadana, autor Qin Jing (el término 'Tirano del Congreso' proviene del título de este artículo)
 
-[^6]: [Visita a China en medio de la controversia por el terremoto; Fu Kun-chi: la reconstrucción y revitalización posemergencia son una cuestión importante](https://www.cna.com.tw/news/acn/202404270082.aspx) — Agencia Central de Noticias: en abril de 2024, mientras continuaban las réplicas en Hualien, encabezó una delegación a Beijing; Pan Xianzhang, subdirector de la Oficina de Asuntos de Taiwán, lo recibió en el aeropuerto y lo acompañó durante todo el trayecto
+[^6]: [Visita a China en medio de controversia por el terremoto: Fu Kun-chi: la reconstrucción y revitalización posdesastre es una tarea importante](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency: En abril de 2024, en medio de réplicas continuas en Hualien, lideró una delegación a Beijing; el subdirector de la Oficina de Asuntos de Taiwán, Pan Xianzhang, lo recibió en el aeropuerto y lo acompañó durante toda la visita
 
-[^7]: [Fu Kun-chi vuelve a quedar en el centro de la tormenta: más de 30 años de influencia familiar en Hualien y un repaso de sus controversias](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo News (Mirror Media)
+[^7]: [[Fu Kun-chi nuevamente en la tormenta] La familia domina Hualien desde hace más de 30 años: repaso a las controversias de Fu Kun-chi](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Mirror Weekly)
 
-[^8]: [Gobernador de cinco estrellas vs. rey de Hualien: ¿cuál es el verdadero Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Serie de imagen «El doble rostro de Fu Kun-chi» de The Reporter
+[^8]: [Magistrado de cinco estrellas vs. Rey de Hualien: ¿cuál es el verdadero Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter: serie 'El doble rostro de Fu Kun-chi', reportaje de perfil

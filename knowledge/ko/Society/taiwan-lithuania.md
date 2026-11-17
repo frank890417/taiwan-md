@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T19:06:22.020807+00:00'
 ---
 
 > **30초 개요:** 대만과 리투아니아의 관계는 2021년 "대만"이라는 명칭의 대표부 설치로 정점에 달했으나, 이후 중국의 극심한 경제 압박에 직면했다. 2026년에 접어들어 리투아니아의 정국 변화는 심도 있는 전략적 성찰을 촉발했다. 새 총리는 명칭이 "전략적 오류"였다고 비판하며 변경을 검토하고, 대통령은 기존 입장을 고수함으로써 부원(府院) 간 이견이 드러났다. 한편, 양국 무역은 제재 속에서도 역성장을 기록했으며, 대만은 "대만 경제협력 행동계획"과 실질적 투자를 통해 현실주의의 시험대 속에서 민주주의라는 이름의 파트너십을 지속 심화하고 있다.

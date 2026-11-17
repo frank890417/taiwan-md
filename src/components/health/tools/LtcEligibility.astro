@@ -1,0 +1,119 @@
+---
+/**
+ * LtcEligibility — 長照資格自查（辦法第 2 條的四種身分＋「因身心失能」前提）。
+ * 判斷邏輯在 src/utils/health/ltcCalc.ts 的 checkEligibility()；這裡只收輸入、顯示結果。
+ * 無 JS 時顯示預設案例（70 歲、需要協助）。
+ * 輸入是個人狀況（年齡、原住民身分、身心障礙、失智、住院），照專題契約 v1.2 規則 1 不寫進網址，
+ * 也不從網址讀回；所有判斷都在瀏覽器裡完成，不送出任何資料。
+ */
+import '../../../styles/budget.css';
+import '../../../styles/health.css';
+import rules from '../../../data/health/ltc-rules.json';
+import { checkEligibility } from '../../../utils/health/ltcCalc';
+import { useHealthT } from '../../../i18n/health';
+
+interface Props {
+  lang?: string;
+  variant?: 'inline' | 'page' | 'embed';
+}
+const { lang = 'zh-TW', variant = 'inline' } = Astro.props;
+const t = useHealthT(lang);
+const uid = `elig-${Math.random().toString(36).slice(2, 8)}`;
+const E = rules.eligibility;
+const groupIds = ['elder', 'indigenous', 'disability', 'dementia', 'pac'];
+const labels = Object.fromEntries(groupIds.map((g) => [g, t(`elig.g.${g}`)]));
+const def = checkEligibility(E, { age: 70, needsHelp: true });
+const sep = lang === 'zh-TW' ? '、' : ', ';
+const checks = [
+  ['help', 'elig.help', true],
+  ['ind', 'elig.indigenous', false],
+  ['dis', 'elig.disability', false],
+  ['dem', 'elig.dementia', false],
+  ['pac', 'elig.pac', false],
+] as const;
+---
+
+<div
+  class={`budget-page health-page hea-tool hea-tool-${variant}`}
+  data-hea-elig
+  data-labels={JSON.stringify(labels)}
+  data-sep={sep}
+  data-yes={t('elig.yes')}
+  data-no-help={t('elig.no.help')}
+  data-no-group={t('elig.no.group')}
+>
+  <div class="hea-calc">
+    <form class="hea-form" onsubmit="return false" aria-label={t('elig.form')}>
+      <h3>{t('elig.form')}</h3>
+      <div class="hea-field">
+        <label for={`${uid}-age`}>{t('elig.age')}</label>
+        <input
+          id={`${uid}-age`}
+          name="age"
+          type="number"
+          inputmode="numeric"
+          min="0"
+          max="120"
+          value="70"
+        />
+      </div>
+      {
+        checks.map(([name, key, on]) => (
+          <label class="hea-check">
+            <input type="checkbox" name={name} checked={on} />
+            <span>{t(key)}</span>
+          </label>
+        ))
+      }
+    </form>
+    <div class="hea-result" aria-live="polite">
+      <h3>{t('elig.result')}</h3>
+      <p class="hea-msg is-ok" data-out="msg">
+        {t('elig.yes', { groups: def.map((g) => labels[g]).join(sep) })}
+      </p>
+      <p class="hea-toolsrc" style="margin-top:0.8rem">
+        {t('elig.src')}
+        <a href={rules.sources.law.url} target="_blank" rel="noopener"
+          >{rules.sources.law.title}</a
+        >。{t('asof')}{rules.asOf}。
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  import rules from '../../../data/health/ltc-rules.json';
+  import { checkEligibility } from '../../../utils/health/ltcCalc';
+
+  document.querySelectorAll<HTMLElement>('[data-hea-elig]').forEach((root) => {
+    const form = root.querySelector('form')!;
+    const f = (n: string) =>
+      form.querySelector<HTMLInputElement>(`[name=${n}]`)!;
+    const out = root.querySelector<HTMLElement>('[data-out=msg]')!;
+    const labels: Record<string, string> = JSON.parse(
+      root.dataset.labels || '{}',
+    );
+    const render = () => {
+      const needsHelp = f('help').checked;
+      const groups = checkEligibility(rules.eligibility, {
+        age: +f('age').value || 0,
+        needsHelp,
+        indigenous: f('ind').checked,
+        disability: f('dis').checked,
+        dementia: f('dem').checked,
+        pac: f('pac').checked,
+      });
+      const ok = groups.length > 0;
+      out.textContent = ok
+        ? (root.dataset.yes || '').replace(
+            '{groups}',
+            groups.map((g) => labels[g]).join(root.dataset.sep || ', '),
+          )
+        : (needsHelp ? root.dataset.noGroup : root.dataset.noHelp) || '';
+      out.classList.toggle('is-ok', ok);
+      out.classList.toggle('is-warn', !ok);
+    };
+    render();
+    form.addEventListener('input', () => render());
+  });
+</script>

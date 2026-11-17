@@ -47,7 +47,7 @@ Obtuvo 6.093.578 votos, quedando 797.561 por detrás de Ma Ying-jeou. Esa noche 
 Esta trayectoria podría escribirse fácilmente como una remontada épica. Sin embargo, los problemas que Tsai Ing-wen realmente dejó son más interesantes: ¿cómo una figura política de perfil académico, que no dependía de discursos apasionados y que alguna vez temió hablar con las personas, logró que la mayor cantidad de votantes le confiaran su voto en la era de la política de masas?
 
 ![Tsai Ing-wen en un mitin de campaña en Taipéi, octubre de 2015; los seguidores agitan banderas bajo las luces del escenario](/article-images/people/tsai-2016-campaign.webp)
-_Octubre de 2015, mitin de campaña de Tsai Ing-wen. Foto: MiNe (sfmine79), [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg).\_
+_Octubre de 2015, mitin de campaña de Tsai Ing-wen. Foto: MiNe (sfmine79), [CC BY 2.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>).\_
 
 ## De once hijos, la que caminaba con la cabeza baja
 
@@ -175,9 +175,9 @@ Cuando dejó la presidencia, los 8.17 millones de votos que obtuvo ya eran un n�
 
 ## Fuentes de las imágenes
 
-- [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg> — MiNe (sfmine79), CC BY 2.0.
-- [Ceremonia de inauguración del Museo Nacional de los Derechos Humanos](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg> — Presidencia de la República de China (Taiwán), CC BY 2.0.
-- [Presidenta asiste a la celebración del centenario de Shi Ming-te](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg> — Presidencia de la República de China (Taiwán), CC BY 2.0.
+- [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — MiNe (sfmine79), CC BY 2.0.
+- [Ceremonia de inauguración del Museo Nacional de los Derechos Humanos](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Presidencia de la República de China (Taiwán), CC BY 2.0.
+- [Presidenta asiste a la celebración del centenario de Shi Ming-te](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg>) — Presidencia de la República de China (Taiwán), CC BY 2.0.
 - Fotograma oficial de _Invisible Nation_ — Uso legítimo para comentario editorial sobre Invisible Nation (2023).
 
 ## Referencias

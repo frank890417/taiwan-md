@@ -19,11 +19,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-07-29T15:46:43+08:00'
+translatedAt: '2026-11-04T20:26:45.866161+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -79,28 +81,28 @@ A existência de Yang Wei-zhe é, por si só, um grande questionamento à subjet
 
 ## Referências
 
-[^1]: [A lenda do ensino em taiwanês na NTU e seus desdobramentos (título antigo: Professor Yang Wei-zhe ensina em taiwanês em 1997, deputado aponta "inconstitucional"!)](https://www.telltaiwan.org/5057) — A professora Chou Wan-yao detalha o contexto histórico do ensino em taiwanês do professor Yang Wei-zhe e a controvérsia na Legislatura.
+[^1]: [A lenda das aulas em taiwanês na NTU e seus desdobramentos (título antigo: 1997, professor Yang Wei-che ministra aulas em taiwanês, deputado aponta como 'inconstitucional'!)](https://www.telltaiwan.org/5057) — A professora Chou Wan-yao detalha o contexto histórico e a controvérsia no Yuan Legislativo sobre as aulas em taiwanês do professor Yang Wei-che.
 
-[^2]: [Yang Wei-zhe - Wikipédia, a enciclopédia livre](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Visão geral da biografia básica e características de ensino do professor Yang Wei-zhe.
+[^2]: [Yang Wei-che - Wikipédia, a enciclopédia livre](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Visão geral da biografia básica e características de ensino do professor Yang Wei-che.
 
-[^3]: [Yang Wei-zhe: Arrependo-me de não ter ensinado matemática em taiwanês desde o início](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Entrevista da _New Taiwan News Weekly_, registra o percurso do professor Yang Wei-zhe na promoção do ensino em taiwanês.
+[^3]: [Yang Wei-che: Arrependo-me de não ter ensinado matemática em taiwanês desde o início](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Entrevista exclusiva da 'New Taiwan News Weekly', registrando a jornada do professor Yang Wei-che na promoção do ensino em taiwanês.
 
-[^4]: [A Sala de Aula de Matemática do Professor Yang Wei-zhe — Geometria Analítica Básica](http://www.wunan.com.tw/bookdetail.asp?no=16462) — A editora Wunan apresenta a filosofia educacional e as obras matemáticas do professor Yang Wei-zhe.
+[^4]: [A Sala de Aula de Matemática do Professor Yang Wei-che — Geometria Analítica Básica](http://www.wunan.com.tw/bookdetail.asp?no=16462) — A editora Wunan apresenta a filosofia educacional e os livros de matemática do professor Yang Wei-che.
 
-[^5]: [Palestra de Sexta-feira em Taiwanês: Professor Yang Wei-zhe palestra: Discutindo sob a ótica da matemática](https://www.instagram.com/p/Czgc1tJPeAK/) — Informações da palestra do professor Yang Wei-zhe na Faculdade de Letras da NTU em 2023.
+[^5]: [[Palestra de Sexta-feira em Taiwanês] Palestra do professor Yang Wei-che: Discutindo a partir da perspectiva da matemática](https://www.instagram.com/p/Czgc1tJPeAK/) — Informações sobre a palestra do professor Yang Wei-che na Faculdade de Letras da NTU em 2023.
 
-[^6]: [Sensação de ter encontrado Newton (parte 2)](https://blog.udn.com/Carole777/45605455) — Relata interações e afetos entre o professor Yang Wei-zhe e先輩 e colegas do Departamento de Matemática da NTU.
+[^6]: [Sensação de ter encontrado Newton (parte 2)](https://blog.udn.com/Carole777/45605455) — Relata as interações e a camaradagem entre o professor Yang Wei-che e seus antecessores e colegas do Departamento de Matemática da NTU.
 
-[^7]: [Do ensino médio vejo crescer meu professor do Departamento de Matemática](https://www.instagram.com/p/C8Zkg9-PC4w/) — O professor Yeh Ping-cheng recorda a influência do professor Yang Wei-zhe na educação para superdotados e nos alunos.
+[^7]: [O professor do Departamento de Matemática que vi crescer desde o ensino médio](https://www.instagram.com/p/C8Zkg9-PC4w/) — O professor Yeh Ping-cheng relembra a influência do professor Yang Wei-che na educação para superdotados e nos alunos.
 
-[^8]: [Divulgação Matemática - Yang Wei-zhe](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Lista de publicações do professor Yang Wei-zhe na revista _Divulgação Matemática_ do Instituto de Matemática da Academia Sinica.
+[^8]: [Divulgação Matemática - Yang Wei-che](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Lista de publicações do professor Yang Wei-che no periódico 'Divulgação Matemática' do Instituto de Matemática da Academia Sinica.
 
-[^9]: [Seis: O bravo avança, o mundo da pintura sempre verde - Yang Chi-tung e Yang Wei-zhe](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Arquivo do Museu Nacional de Belas Artes de Taiwan, detalha a história de pai e filho Yang Chi-tung e Yang Wei-zhe sobre a mudança da medicina para a matemática.
+[^9]: [Seis: O bravo avança, a arte permanece evergreen - Yang Chi-tung e Yang Wei-che](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Arquivos do Museu Nacional de Belas Artes de Taiwan, detalhando a história de pai e filho Yang Chi-tung e Yang Wei-che que abandonaram a medicina pela matemática.
 
-[^10]: [Primeiro "triplo salto" superdotado de Taiwan! Yang Po-yin graduou-se na NTU aos 18 anos](https://time.udn.com/udntime/story/122833/8798116) — Reportagem do _United Daily News_ na época, registra a trajetória de gênio de Yang Po-yin, filho de Yang Wei-zhe.
+[^10]: [Primeiro 'salto triplo' de superdotado em Taiwan! Yang Po-yin se forma na NTU aos 18 anos](https://time.udn.com/udntime/story/122833/8798116) — O United Daily News registra a trajetória de crescimento do gênio Yang Po-yin, filho do professor Yang Wei-che.
 
-[^11]: [Caso Chen Wen-cheng e o Departamento de Matemática da NTU](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Registro da Wikipédia sobre a posição do professor Yang Wei-zhe no caso Chen Wen-cheng.
+[^11]: [O Caso Chen Wen-chen e o Departamento de Matemática da NTU](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Registro da Wikipédia sobre a posição do professor Yang Wei-che no Caso Chen Wen-chen.
 
-[^12]: [Yang Wei-zhe 20081223: Da vida universitária ao caso Chen Wen-cheng](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Registro de entrevista de história oral do Arquivo Histórico da Universidade Nacional de Taiwan.
+[^12]: [Yang Wei-che 20081223: Da vida universitária ao Caso Chen Wen-chen](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Registro de entrevista de história oral do Museu da História da Universidade Nacional de Taiwan.
 
-[^13]: [41 anos do caso Chen Wen-cheng: Em memória de um bravo que resistiu firmemente à violência de Estado](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Reportagem do Yahoo News, menciona que Yang Wei-zhe redigiu o texto para o memorial de Chen Wen-cheng.
+[^13]: [41º aniversário do Caso Chen Wen-chen: Homenagem a um bravo que resistiu firmemente à violência estatal](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Reportagem do Yahoo News, mencionando que Yang Wei-che escreveu a inscrição para o monumento memorial de Chen Wen-chen.

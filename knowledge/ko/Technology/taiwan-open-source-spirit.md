@@ -2,19 +2,21 @@
 title: '대만의 오픈소스 정신——사랑으로 전기를 만드는 엔지니어들'
 description: '대만에서 가장 영향력 있는 오픈소스 프로젝트는 하나의 소프트웨어가 아니라, 해커톤에서 정부에게 "당신이 못 하면 우리가 하겠습니다"라고 말한 한 무리의 엔지니어들이다.'
 date: 2026-03-29
-author: 'p3nchan'
 category: 'Technology'
-subcategory: '社群與數位文化'
 tags: ['오픈소스', 'g0v', 'COSCUP', 'GitHub', '시민기술', '자유소프트웨어']
-readingTime: 8
+subcategory: '社群與數位文化'
+author: 'p3nchan'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-05-01T22:19:01+08:00'
+translatedAt: '2026-11-04T16:27:00.215901+00:00'
 ---
 
 > 대만의 소프트웨어 산업 규모는 글로벌 최상위권이라 하기 어렵지만, GitHub에서 Taiwan으로 표기한 사용자는 44,000명을 넘으며, 커뮤니티 해커톤은 누적 70회 이상, 수천 명의 기여자가 참여했다——거의 대부분이 퇴근 후 사비를 들여 참여하는 개인 개발자들이다. 이 글은 g0v만을 다루는 것이 아니라, 사람, 커뮤니티, 교육, 산업 네 가지 관점에서 대만 오픈소스 문화의 전체 지도를 그려본다.

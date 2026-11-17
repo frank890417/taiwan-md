@@ -7,8 +7,9 @@
 看守三件事：
   1. 取值合法性 — 'verified' / 'incubating' 之外的值 → HARD（template 靜默不渲染，
      打錯字會變成「以為標了其實沒標」的 silent failure）
-  2. incubating 與 featured 互斥 — incubating 不進精選（策展規則 canonical 在
-     MAINTAINER-PIPELINE §1b），首頁精選邏輯不另設 filter，靠這條 lint 守 → HARD
+  2. ~~incubating 與 featured 互斥 → HARD~~ 2026-11-17 哲宇拍板取消（issue #1995 補標舊文時，
+     133 篇「沒人工審過的精選」選「標進化中但保留精選」）：兩者可以並存，精選文章也會顯示
+     🌱 說明條。新進站文章（date ≥ 2026-11-17）帶 incubating＋featured: true 仍判 HARD，守紅旗 6。
   3. verified 應同步 lastHumanReview: true — 轉正 SOP 兩欄一起動
      （dashboard human-reviewed% 靠後者）→ WARN
 
@@ -17,6 +18,12 @@
   5. verifiedVia 只能是 'editorial' / 'community' → HARD（同 1 的 silent failure 理由）
   6. verifiedVia: community 必須有 preReview（社群路徑的判準之一就是查證單存在）→ WARN
   4-6 不以 curation 存在為前提：preReview 在轉正前就會掛上。
+
+說明條種類（2026-11-04 全站普查 §五.5，reports/article-health-census-2026-11-04.md）：
+  7. curationReason 只能是 'unverified'（待查證）/ 'thin'（待擴寫）→ HARD（同 1：模板對
+     非法值會退回預設文案，打錯字＝以為換了說明條其實沒換）
+  8. curationReason 只在 curation: incubating 時有意義 → 其他狀態帶著它 WARN（轉正後
+     忘了拿掉的過期欄位；curation-tag.py --set verified 會自動拿掉）
 """
 
 from __future__ import annotations
@@ -29,11 +36,13 @@ from ..types import FileTarget, Severity, Violation
 CHECK_NAME = "curation-consistency"
 DIMENSION = "frontmatter"
 DEFAULT_SEVERITY = Severity.WARN
-EDITORIAL_REF = "reports/design-curation-tier-2026-08-04.md + MAINTAINER-PIPELINE §1b / §1d"
+EDITORIAL_REF = "reports/design-curation-tier-2026-08-04.md + MAINTAINER-PIPELINE §1b / §1d + reports/article-health-census-2026-11-04.md §五.5"
 APPLIES_TO = ["zh-TW"]
 
 _VALID = {"verified", "incubating"}
 _VALID_VIA = {"editorial", "community"}
+_VALID_REASON = {"unverified", "thin"}
+_NEW_ARTICLE_SINCE = "2026-11-17"
 _REPO_ROOT = Path(__file__).resolve().parents[5]
 
 
@@ -87,9 +96,39 @@ def _check_provenance(target: FileTarget) -> Iterator[Violation]:
             )
 
 
+def _check_reason(target: FileTarget) -> Iterator[Violation]:
+    fm = target.frontmatter
+    reason = fm.get("curationReason")
+    if reason is None:
+        return
+    if reason not in _VALID_REASON:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"curationReason 取值非法：{reason!r}（合法值 unverified / thin；"
+                "模板對非法值退回預設文案 = 以為換了說明條其實沒換）"
+            ),
+            line=_fm_line(target, "curationReason"),
+            editorial_ref=EDITORIAL_REF,
+        )
+    elif fm.get("curation") != "incubating":
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=(
+                f"curationReason: {reason} 只在 curation: incubating 時有意義，"
+                f"目前 curation 是 {fm.get('curation')!r}——轉正後忘了拿掉的過期欄位"
+            ),
+            line=_fm_line(target, "curationReason"),
+            editorial_ref=EDITORIAL_REF,
+        )
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     fm = target.frontmatter
     yield from _check_provenance(target)
+    yield from _check_reason(target)
     cur = fm.get("curation")
     if cur is None:
         return
@@ -107,14 +146,16 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         )
         return
 
+    # 2026-11-17：互斥取消後，紅旗 6「投稿者自己設 featured: true」少了唯一的自動看守。
+    # 只對新進站文章（frontmatter date ≥ 互斥取消日）判 HARD；既有精選補標的 133 篇照哲宇的決定並存。
     featured = fm.get("featured")
-    if cur == "incubating" and featured in (True, "true"):
+    if cur == "incubating" and featured in (True, "true") and str(fm.get("date") or "")[:10] >= _NEW_ARTICLE_SINCE:
         yield Violation(
             check=CHECK_NAME,
             severity=Severity.HARD,
             message=(
-                "curation: incubating 與 featured: true 互斥"
-                "（進化中文章不進精選；首頁精選無另設 filter，靠本條看守）"
+                "新進站的進化中文章不能自己設 featured: true（MAINTAINER §1b、紅旗 6）；"
+                "既有精選補標進化中才可以並存（2026-11-17）"
             ),
             line=_fm_line(target, "featured"),
             editorial_ref=EDITORIAL_REF,

@@ -37,7 +37,9 @@ on:
 
 jobs:
   i18n-smoke-test:
-    runs-on: ubuntu-latest
+    # 與 deploy.yml 的 font-gate 同因：ubuntu-latest 已是 26.04，
+    # playwright 1.59.1 不支援該平台的 chromium；釘 24.04 直到 playwright 升版。
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v5
 

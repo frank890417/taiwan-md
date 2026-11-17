@@ -2,9 +2,7 @@
 title: 'Sabedoria Ecológica dos Povos Indígenas de Taiwan e Conservação Ambiental'
 description: 'Explora o conhecimento ecológico tradicional acumulado pelos povos indígenas de Taiwan ao longo de milhares de anos, bem como o seu valor importante e formas de prática na conservação ambiental moderna'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '原住民生態智慧'
 tags:
   [
     'Povos Indígenas',
@@ -15,15 +13,19 @@ tags:
     'Cultura de Caça',
     'Desenvolvimento Sustentável',
   ]
-readingTime: 9
+subcategory: '原住民生態智慧'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-04T19:25:52.349949+00:00'
 ---
 
 # Sabedoria Ecológica dos Povos Indígenas de Taiwan e Conservação Ambiental

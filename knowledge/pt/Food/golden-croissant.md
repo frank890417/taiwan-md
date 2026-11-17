@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-15T02:46:25+08:00'
+translatedAt: '2026-11-05T04:18:37.657607+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O Golden Horn de San-hsia, esta lembrança famosa em toda Taiwan, tem uma história muito mais rica do que se imagina. Não deriva do croissant europeu, mas foi criado pelo mestre de confeitaria chinesa **Lo Fu-ch'ing** (羅福清) durante uma viagem de avião, inspirado no "pão filipino" [^1] [^2] — há também notícias que apontam uma viagem à Austrália e Nova Zelândia onde provou pãezinhos pequenos que lhe deram a ideia [^9]. De regresso a San-hsia, não copiou a receita, antes fundiu a lógica de "camadas sobre camadas" da confeitaria chinesa tradicional (bolos lunares, pastéis de massa folhada de banha) neste ponto de pastelaria estrangeiro [^3].

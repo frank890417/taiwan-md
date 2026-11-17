@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-07-26T00:16:53+08:00'
+translatedAt: '2026-11-04T20:05:05.171407+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Huang Guang-xiong (1937-2021), pendiri ilmu kurikulum Taiwan. Doktor Pendidikan Universitas Pendidikan Taiwan, peneliti di Institute of Education, University of London. Pernah menjabat Dekan Fakultas Pendidikan Shi-da, Kepala Sekolah Menengah Kejuruan Pendidikan Negeri Hsinchu, Direktur Pendiri Institut Penelitian Pendidikan serta Dekan Pendiri Fakultas Pendidikan Universitas Chung Cheng. Ia secara sistematis memperkenalkan teori kurikulum Barat ke Taiwan, menyunting buku teks pelatihan guru seperti _Pengantar Pendidikan_ dan _Prinsip Pengajaran_, menerjemahkan _Penelitian Pendidikan Kualitatif_, serta langsung terlibat perencanaan penelitian Kerangka Kurikulum Sembilan Tahun Terpadu Kementerian Pendidikan. Meninggal 4 Februari 2021, berusia 84 tahun.

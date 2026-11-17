@@ -35,7 +35,7 @@ sourceBodyHash: 'sha256:b22e5c952fc18259'
 translatedAt: '2026-09-23T23:24:53.301096+00:00'
 ---
 
-## 30秒概覽：
+## 30-Sekunden-Überblick
 
 **Kurzfassung:** Die Uni-Gruppe ist der größte Einzelhandels- und Lebensmittelkonzern in Taiwan, aber sie ist eher wie ein Behälter. Von einem Paket Instantnudeln im Jahr 1970 über den Start von 7-ELEVEN im Jahr 1980 bis zur Übernahme von Carrefour im Jahr 2023 hat der Konzern mehr als ein halbes Jahrhundert gebraucht, um das Leben der Taiwaneser in seine Systeme zu pressen. Allein die Uni-Convenience Stores (Uni-Chao) wies 2025 mit 7248 Filialen und einem Umsatz von 350,73 Milliarden NT$ einen Marktanteil von über der Hälfte auf. Dieser Artikel behandelt nicht die Jahresberichte, sondern wie eine Mehlfabrik in Tainan das „Leben der Taiwaneser“ neu definiert hat und wer hinter dieser Bequemlichkeit bezahlt.
 

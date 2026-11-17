@@ -18,11 +18,13 @@ readingTime: 10
 featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T05:06:37.724758+00:00'
 ---
 
 # EggPlantEgg

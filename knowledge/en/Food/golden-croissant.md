@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-18T00:52:58+08:00'
+translatedAt: '2026-11-05T05:32:11.089737+00:00'
 ---
 
 > **30-second overview:** Sanxia's Golden Horn, this famous Taiwanese souvenir, has a far more storied origin than you might imagine. It did not descend from the European croissant, but was created by Han-pastry master **Luo Fu-ching** during a flight, inspired by "Filipino bread," then refined back in Taiwan by fusing traditional Chinese pastry techniques. Its distinctive "hard-edged" texture comes from repeated dough pressing to remove air and baking with copious butter, reflecting early Taiwanese people's pursuit of substantial, satisfying food. From alleyway snack to Old Street signature product, the Golden Horn is not just a taste memory but a microcosm of Sanxia's local culture and commercial development, propping up this small town's unique olfactory landmark.

@@ -1,16 +1,16 @@
 ---
-title: "Wanwan : le personnage chauve qui a donné un visage à une génération d'employés de bureau, et Hu Chia-wei, qui l'a fait « devenir un personnage historique »"
-description: "À l'époque où les bureaux communiquaient encore par MSN, des employés qui n'osaient pas parler à leur patron remplaçaient leur avatar par un petit personnage chauve, sans vêtements, avec une mèche bouclée sur la tête, pour lui faire crier à leur place : « Je veux quitter le travail ». Hu Chia-wei, qui l'a dessiné, est passée du poste d'assistante designer payée 9 000 dollars taïwanais par mois à celui de créatrice, presque par accident, du premier blog de Taïwan à dépasser les cent millions de vues, et de pionnière de la création graphique et textuelle. Le personnage chauve reste éternellement naïf et jeune ; mais celle qui le dessine, elle, grandit. Elle a donc décidé de faire sortir le personnage de scène avec elle, et de le laisser « devenir un personnage historique »."
+title: "Wanwan : le personnage chauve dessiné par Hu Jiawei pour la génération MSN, et la décision d'en faire « une figure historique »"
+description: "Wanwan, de son vrai nom Hu Jiawei, est la pionnière de la création graphique et textuelle sur Internet à Taïwan. Au début des années 2000, son personnage chauve a été adopté par les employés de bureau comme photo de profil MSN, pour exprimer « Je veux rentrer du travail » ; en 2007, son blog est devenu le premier blog taïwanais à dépasser les 100 millions de visites, avant de s'étendre aux autocollants LINE et à WEBTOON. Après être devenue mère, sa création s'est tournée vers le quotidien parental, et elle a décidé de faire sortir de scène le personnage chauve éternellement jeune avec elle, pour qu'il « devienne une figure historique »."
 date: 2026-06-29
 category: 'People'
 tags:
   [
     'Wanwan',
-    'Hu Chia-wei',
-    'illustration',
-    'création graphique et textuelle',
-    'ère MSN',
-    'culture Internet',
+    'Hu Jiawei',
+    'Illustration',
+    'Création graphique et textuelle',
+    'Ère MSN',
+    'Culture Internet',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T02:09:25.062888+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-04T14:39:00.269706+00:00'
 ---
 
-# Wanwan : le personnage chauve qui a donné un visage à une génération d'employés de bureau, et Hu Chia-wei, qui l'a fait « devenir un personnage historique »
+# Wanwan : le petit chauve dessiné par Hu Chia-wei pour la génération MSN, et la décision d'en faire un « personnage historique »
 
-Au début des années 2000, quelque part à Taipei, un employé de bureau allume son ordinateur et se connecte à MSN Messenger. Il remplace son avatar par un petit personnage : sans vêtements, le crâne rond et chauve, une seule mèche enroulée au sommet de la tête, une expression à moitié morte sur le visage, accompagnée de trois caractères chinois : « Je veux quitter le travail ».
+Au début des années 2000, un employé de bureau taipeiote ouvre son ordinateur, se connecte à MSN Messenger. Il change sa photo de profil pour un petit bonhomme : sans vêtements, tête ronde et chauve, avec une seule mèche rebelle sur le sommet, un air à moitié mort sur le visage, accompagné de trois caractères : « Je veux finir ma journée ».
 
-Il n'ose pas vraiment le dire à son patron. Mais ce personnage chauve le dit à sa place.
+Il n'ose pas dire cette phrase à son patron pour de vrai. Mais ce petit chauve le dit pour lui.
 
-C'était l'époque où les téléphones portables ne servaient encore qu'à appeler et envoyer des SMS. Il n'y avait pas de stickers LINE, pas de stories éphémères ; au bureau, toutes les émotions se retrouvaient comprimées dans une fenêtre MSN qu'on ne pouvait pas fermer avant la fin de la journée. Et ce personnage chauve, que tout le monde appellerait plus tard « Wanwan », se tenait dans le petit cadre de cette fenêtre pour crier à la place de tous les bureaux de Taïwan : occupé, somnolent, triste, épuisé, agacé, désœuvré[^1].
+C'était l'époque où les téléphones ne servaient qu'à appeler et envoyer des SMS. Pas de stickers LINE, pas de stories éphémères, toutes les émotions du bureau étaient coincées dans une fenêtre MSN qu'on ne pouvait pas fermer avant d'avoir fini sa journée. Et ce petit chauve (que tout le monde a fini par appeler « Wanwan ») se trouvait dans le petit cadre de cette fenêtre, pour crier le tumulte, la fatigue, la peine, l'épuisement, l'agacement, l'ennui de tous les bureaux de Taïwan[^1].
 
-![Wanwan au stand UDN lors du Salon international du livre de Taipei 2008](/article-images/people/wanwan-2008-book-fair.webp)
-_Wanwan au stand United Online (UDN) lors du Salon international du livre de Taipei 2008. — Photo : Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![Salon du livre de Taipei 2008, Wanwan au stand de United Daily News (UDN)](/article-images/people/wanwan-2008-book-fair.webp)
+_Salon du livre de Taipei 2008, Wanwan au stand de United Daily News (UDN). — Photo : Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Vue d'ensemble en 30 secondes :** Wanwan, de son vrai nom Hu Chia-wei, est la pionnière de la création graphique et textuelle en ligne à Taïwan. Partie d'un poste d'assistante designer payée 9 000 dollars taïwanais par mois, où elle « traînait tous les jours sur les chantiers », elle s'est mise par ennui à dessiner sur MSN quelques petites images correspondant à son humeur, qui ont connu un succès inattendu dans tout Taïwan. En 2007, son blog personnel est devenu le premier blog taïwanais à dépasser les cent millions de vues ; elle a prouvé qu'« on pouvait vivre du dessin », ouvrant la voie à toute une génération de créateurs graphiques et textuels. Ce qui est le plus touchant chez elle tient à son choix vis-à-vis de son personnage : le personnage chauve reste éternellement naïf et jeune, mais celle qui le dessine grandit et se fatigue ; Hu Chia-wei a donc dit qu'elle voulait faire sortir son personnage de scène avec elle, et le laisser « devenir un personnage historique ».
+> **30 secondes en bref :** Wanwan, de son vrai nom Hu Chia-wei, est la pionnière de la création graphique sur internet à Taïwan. Elle a débuté comme assistante design à NT$9 000 par mois, « roulant dans la boue sur les chantiers chaque jour », et a accidentellement fait le buzz à Taïwan en dessinant sur MSN quelques petites images correspondant à son humeur par ennui. Son blog personnel est devenu en 2007 le premier blog taïwanais à dépasser les 100 millions de visites ; elle a prouvé que « dessiner peut nourrir son homme », ouvrant la voie à toute une génération de créateurs graphiques. Et ce qui la rend la plus touchante, c'est son choix concernant son personnage : le petit chauve reste à jamais innocent et sans âge, tandis que celle qui le dessine grandit et se fatigue ; c'est pourquoi Hu Chia-wei a dit vouloir faire partir son personnage en même temps qu'elle, pour qu'il « devienne un personnage historique ».
 
 ## Une mèche rebelle, un petit personnage sans vêtements
 

@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:51:03+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:01:48.246732+00:00'
 ---
 
 # Sistem Referendum Taiwan: Ditulis dalam Konstitusi sejak 1947, Menunggu 56 Tahun untuk Undang-Undang Pertama
@@ -99,19 +99,20 @@ Bandul berayun kembali pada November 2025: Dewan Legislatif menyetujui amandemen
 
 Dengan demikian ada situasi 2026: pada 28 November hari pemilihan lokal, harus memberikan suara Kasus 22 secara bersamaan. Ketika ketua Komisi Pemilihan Umum menyebutkan estimasi waktu penghitungan suara, gambaran malam 2018 itu sebenarnya adalah asal dari angka itu.[^4]
 
-## Mengapa Garis Ini Layak Diingat
+## Mengapa Garis Ini Patut Diingat
 
-Jika setiap perdebatan diuraikan, sistem referendum Taiwan benar-benar hanya menyeimbangkan tiga hal berulang kali.
+Melihat setiap perdebatan yang terhampar, sistem referendum Taiwan sebenarnya hanya berulang kali menimbang tiga hal.
 
-Di satu ujung timbangan adalah ambang batas: masalah enam kasus pada 2004 dan 2008 terletak pada ambang batas yang terlalu ketat, suara dikumpulkan tetapi tidak lolos; setelah diubah menjadi sistem seperempat pada 2017, masalah bergeser ke sisi lain, tingkat pemungutan suara rendah ditambah proporsi setuju tinggi masih mungkin tidak lolos, Kasus 21 pada 2025 adalah kombinasi ini. Ujung kedua adalah kapasitas administrasi pemilihan, tahun dengan sepuluh kasus pada hari yang sama mendorong daya tahan tempat pemungutan suara ke batas, oleh karena itu ada pemisahan 2019, setelah pemisahan kehangatan diskusi referendum dipertanyakan, oleh karena itu ada penggabungan kembali 2025. Ujung ketiga adalah "pendapat siapa yang bisa masuk ke surat suara itu", yang tergantung pada apakah penandatanganan memerlukan kertas dan apakah pemungutan suara tidak hadir diizinkan, dan kedua hal ini masih menunggu undang-undang untuk metode implementasinya.[^6]
+Di sisi pertama timbangan adalah ambang batas: masalah keenam kasus pada 2004 dan 2008 terletak pada ambang batas yang terlalu ketat, suara terkumpul namun tidak lolos; setelah 2017 diubah menjadi sistem seperempat, masalah bergeser ke sisi lain, partisipasi suara rendah ditambah persetujuan tinggi tetap mungkin tidak lolos, Kasus ke-21 pada 2025 adalah kombinasi ini. Sisi kedua adalah kapasitas penyelenggaraan pemilu, sepuluh kasus pada hari yang sama pada satu tahun mendorong daya tampung tempat pemungutan suara ke batas, sehingga muncul kebijakan pemisahan pada 2019, setelah dipisahkan kehangatan diskusi referendum justru dipertanyakan, sehingga muncul kebijakan pengikatan kembali pada 2025. Sisi ketiga adalah "pendapat siapa yang bisa masuk ke kertas suara itu", hal ini bergantung pada apakah dukungan memerlukan kertas fisik, dan apakah pemilih tidak di domisili bisa memilih, dan kedua hal ini masih menunggu undang-undang pelaksanaannya. [^6]
 
-Tidak ada satu pun dari tiga hal ini yang murni masalah teknis, setiap kali dihitung ulang di arena politik. Dan jejak yang ditinggalkan oleh sistem sangat mudah dikenali: tahun berapa amandemen dilakukan, pasal berapa yang diamandemen, berapa tingkat pemungutan suara, ambang batas adalah seperempat atau setengah. Dengan menyusun angka-angka ini menurut tahun, itulah proses pulau ini belajar menggunakan hak demokrasi langsung sambil menyesuaikan wadahnya sendiri.
+Ketiga hal ini tidak satupun merupakan murni masalah teknis, setiap kali dihitung ulang di arena politik. Dan jejak yang ditinggalkan sistem mudah dikenali: tahun berapa diubah undang-undang, pasal keberapa yang diubah, partisipasi suara berapa, ambang batas seperempat atau separo. Mengurutkan angka-angka ini menurut tahun, itulah proses bagaimana pulau ini belajar menggunakan demokrasi langsung sambil menyesuaikan wadahnya sendiri.
 
 **Bacaan Lanjutan**:
 
-- [Sistem Komisi Pemilihan Umum](/id/politics/central-election-commission) — lembaga yang menyelesaikan jalan dari pengajuan kasus referendum, penandatanganan hingga pemungutan suara
-- [Sejarah Ambang Batas Hak Memilih](/id/politics/voting-rights-threshold-history) — garis siapa yang memiliki hak untuk memasuki tempat pemungutan suara, juga telah diamandemen berkali-kali
-- [Pemilihan Sembilan-dalam-Satu 2026](/politics/2026 九合一選舉) — separuh lain dari surat suara pada 28 November
+- [Sistem Komisi Pemilihan Umum](/id/politics/central-election-commission) — lembaga yang menuntaskan jalan kasus referendum dari usulan, dukungan hingga pemungutan suara
+- [Sejarah Ambang Hak Memilih](/id/politics/voting-rights-threshold-history) — siapa yang berhak masuk ke tempat pemungutan suara, garis itu juga diubah sepanjang jalan
+- [Pemilihan Sembilan-dalam-Satu 2026](/politics/2026 九合一選舉) — separuh kertas suara lain pada 28 November
+- [Diskusi Taiwan dan Tenaga Nuklir](/id/society/taiwan-nuclear-debate) — Kasus ke-22 ini sendiri: Nuklir Tiga satu unit ditutup satu unit dalam tinjauan, "ada konsensus masyarakat" kondisi ini diletakkan ke referendum hari yang sama
 
 ## Referensi
 

@@ -2,25 +2,29 @@
 title: '대만의 해양 생태와 산호초 보전'
 description: '사면이 바다인 대만은 풍부한 해양 생태계를 자랑한다. 산호 백화 위기부터 고래·돌고래 보전까지, 해양 국가공원의 보호 성과와 미래 과제를 살펴본다'
 date: 2026-03-20
-tags:
-  - '해양 생태'
-  - '산호초 보전'
-  - '고래·돌고래 보전'
-  - '해양 국가공원'
-  - '해양보호구역'
-  - '생물다양성'
-subcategory: '國家公園與步道'
 category: 'Nature'
+tags:
+  [
+    '해양 생태',
+    '산호초 보전',
+    '고래·돌고래 보전',
+    '해양 국가공원',
+    '해양보호구역',
+    '생물다양성',
+  ]
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
-readingTime: 13
 featured: false
-translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4e90c463d345a441'
-sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-04-14T10:48:03+08:00'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4e90c463d345a441'
+sourceBodyHash: 'sha256:668d74d853340086'
+translatedAt: '2026-11-04T20:21:30.292388+00:00'
 ---
 
 # 대만의 해양 생태와 산호초 보전

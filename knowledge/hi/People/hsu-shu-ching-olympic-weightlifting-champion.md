@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-07-26T12:49:18+08:00'
+translatedAt: '2026-11-04T20:41:44.076846+00:00'
 ---
 
 # ह्सु शु-चिंग: लुनबेई 1991, ताइवान की पहली ओलंपिक दोहरी स्वर्ण पदक विजेता 53 किलोग्राम भारोत्तोलक

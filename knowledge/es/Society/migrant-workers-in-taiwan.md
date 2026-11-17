@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:01:31+08:00'
+translatedAt: '2026-11-04T20:04:48.192028+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 2026, en Taiwán, uno de cada 26 personas es un trabajador extranjero. La cifra total ya ha ascendido a 873.000 personas; si se incluyen aproximadamente 94.000 trabajadores desaparecidos, este grupo de foráneos ya representa más del 5% de la población residente de Taiwán. Desde la cultura de las transmisiones en directo en el vestíbulo de la estación de Taipéi, hasta la insistencia en la «eliminación del límite de años de trabajo» durante la gran marcha de trabajadores extranjeros, hasta la ola de «oposición a los trabajadores de la India» donde las firmas de la iniciativa superaron las 40.000 en abril de 2026, Taiwán se encuentra en una encrucijada entre la escasez extrema de mano de obra y la ansiedad por la cohesión social. Esto no es solo una política laboral, sino una prueba colectiva sobre cómo define Taiwán «quiénes somos».

@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: choice
       theme: scholar-public
-      scene: 'Komite pemilihan DPP bersidang pada 7 April. Halaman politik United Daily News melaporkan bahwa partai berencana mengusung Shen melawan wali kota Taipei. Mantan Menteri Dalam Negeri Hsu Kuo-yung (徐國勇) mendukung secara terbuka. Jajak pendapat TVBS bulan Desember menunjukkan Chiang Wan-an sekitar 64% dan Shen sekitar 22%. Pada 25 April ia memotong rambut afro yang ia pertahankan lebih dari sepuluh tahun, dan untuk pertama kalinya tampil satu panggung dengan Chiang Wan-an di festival budaya Mazu Kuil Songshan Tzu Hui'
+      scene: 'Komite pemilihan DPP bersidang pada 7 April. Halaman politik United Daily News melaporkan bahwa partai berencana mengusung Shen melawan wali kota Taipei. Mantan Menteri Dalam Negeri Hsu Kuo-yung (徐國勇) mendukung secara terbuka. Pada 25 April ia memotong rambut afro yang ia pertahankan lebih dari sepuluh tahun, dan untuk pertama kalinya tampil satu panggung dengan Chiang Wan-an di festival budaya Mazu Kuil Songshan Tzu Hui'
       chose:
         label: 'Tidak membantah, memotong rambut, bersiap'
-        consequence: 'Dari cendekiawan menjadi legislator, lalu mungkin calon wali kota Taipei, posisi Shen berubah beberapa kali. Namun ia memberi catatan kaki pada setiap perubahan dengan kalimat yang sama: "Saya adalah sasaran panah." Jajak pendapat tertinggal jauh, tetapi artikel ini tidak bertugas menguraikan peta pemilu. Yang layak dicatat: seseorang yang koordinatnya ditandai Partai Komunis Tiongkok di citra satelit bersiap mencalonkan diri sebagai wali kota di kota yang ditandai itu. Pembingkaian ini sendiri sudah merupakan jawaban.'
+        consequence: 'Dari cendekiawan menjadi legislator, lalu mungkin calon wali kota Taipei, posisi Shen berubah beberapa kali. Namun ia memberi catatan kaki pada setiap perubahan dengan kalimat yang sama: "Saya adalah sasaran panah." Yang layak dicatat: seseorang yang koordinatnya ditandai Partai Komunis Tiongkok di citra satelit bersiap mencalonkan diri sebagai wali kota di kota yang ditandai itu. Pembingkaian ini sendiri sudah merupakan jawaban.'
       alternatives:
         - label: 'Menolak pencalonan'
           plausibility: structural
@@ -317,7 +317,7 @@ lifeTree:
         - label: 'Mundur dari jabatan legislator dan berkampanye penuh'
           plausibility: structural
           note: 'Jalur radikal lain. Kebanyakan anggota legislatif yang sedang menjabat tidak akan membakar perahu. Jika ia melakukannya, itu menyimbolkan komitmen tetapi sebenarnya harus menanggung kekosongan politik jika kalah.'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: mayor-nominated-2026
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: event
       theme: scholar-public
       label: 'DPP resmi menugaskan Shen mencalonkan diri sebagai wali kota Taipei'
-      scene: 'Presiden Lai Ching-te (賴清德), yang merangkap ketua partai, sendiri mengalungkan selempang kampanye dan bersama-sama berseru "dong suan" (kemenangan). Ia menyebut Shen "memiliki ketinggian wawasan internasional, keluasan tata kelola lintas bidang, dan kehangatan kepedulian terhadap warga", dan "calon wali kota Taipei yang tak tergantikan". Shen menerima selempang itu: "Saya memutuskan mencalonkan diri sebagai wali kota Taipei, mohon izinkan saya menjadi wali kota Anda." Hari pemungutan suara ditetapkan 28 November, dengan lawan Chiang Wan-an yang mengincar masa jabatan kedua. Jajak pendapat TVBS 27 Mei menunjukkan Chiang Wan-an 58% dan Shen 30%, selisih 28 poin persentase. Seseorang yang koordinat rumahnya ditandai Tiongkok di citra satelit hendak menjadi wali kota kota yang ditandai itu.'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: 'Presiden Lai Ching-te (賴清德), yang merangkap ketua partai, sendiri mengalungkan selempang kampanye dan bersama-sama berseru "dong suan" (kemenangan). Ia menyebut Shen "memiliki ketinggian wawasan internasional, keluasan tata kelola lintas bidang, dan kehangatan kepedulian terhadap warga", dan "calon wali kota Taipei yang tak tergantikan". Shen menerima selempang itu: "Saya memutuskan mencalonkan diri sebagai wali kota Taipei, mohon izinkan saya menjadi wali kota Anda." Hari pemungutan suara ditetapkan 28 November, dengan lawan Chiang Wan-an yang mengincar masa jabatan kedua. Seseorang yang koordinat rumahnya ditandai Tiongkok di citra satelit hendak menjadi wali kota kota yang ditandai itu.'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -530,7 +530,7 @@ Hari Valentine (14 Februari) ia lewatkan di pesawat. Sepulang ke Taiwan ia menul
 
 ## Dari sasaran panah ke calon wali kota
 
-Pada awal April 2026, komite pemilihan DPP mengadakan rapat. Halaman politik [United Daily News](https://udn.com/) melaporkan, mengutip sumber yang mengetahui, bahwa partai berencana mengusung Puma Shen untuk mencalonkan diri sebagai wali kota Taipei.[^62] Pada pertengahan hingga akhir April hal itu hampir pasti. Mantan Menteri Dalam Negeri Hsu Kuo-yung (徐國勇) mendukung secara terbuka.[^63] Jajak pendapat TVBS Desember 2025 menunjukkan dukungan untuk wali kota petahana Taipei, Chiang Wan-an, sekitar 64 persen, dan untuk Puma Shen sekitar 22 persen.[^64] Tertinggal jauh, tetapi menang atau kalahnya pemilu di luar cakupan artikel ini.
+Pada awal April 2026, komite pemilihan DPP mengadakan rapat. Halaman politik [United Daily News](https://udn.com/) melaporkan, mengutip sumber yang mengetahui, bahwa partai berencana mengusung Puma Shen untuk mencalonkan diri sebagai wali kota Taipei.[^62] Pada pertengahan hingga akhir April hal itu hampir pasti. Mantan Menteri Dalam Negeri Hsu Kuo-yung (徐國勇) mendukung secara terbuka.[^63]
 
 Pada 25 April, ia memotong rambut afro yang ia pertahankan lebih dari sepuluh tahun, dan untuk pertama kalinya tampil satu panggung dengan Chiang Wan-an di festival budaya Mazu Kuil Songshan Tzu Hui.[^65] Yang Guo memotong rambutnya.
 
@@ -539,24 +539,6 @@ Pada 13 Mei 2026, hal itu berubah dari kabar angin menjadi resmi. Komite Eksekut
 ![Puma Shen berkaus hitam dan berkacamata, berdiri di panggung sambil memegang mikrofon, dengan selempang bertuliskan "Tolak United Front" tergantung di dadanya](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _Pada 19 April 2025, Puma Shen menghadiri rapat umum "Tolak United Front, Lindungi Taiwan". Orang yang koordinatnya ditandai memilih tetap berdiri di panggung terbuka. Foto: KOKUYO. CC BY-SA 4.0 melalui Wikimedia Commons._
-
-Saat penugasan, peta pemilu timpang. Dalam survei Pusat Survei Opini Publik TVBS pada 27 Mei, Chiang Wan-an 58 persen dan Puma Shen 30 persen, selisih 28 poin persentase; bahkan pada kelompok muda usia 20 hingga 29 tahun, 37 persen untuk Puma Shen masih di bawah 60 persen untuk Chiang Wan-an.[^69] Media internasional menggambarkan duel ini sebagai tantangan dengan peluang menang yang tidak tinggi.
-
-Lima bulan kemudian, selisihnya menyempit, tetapi seberapa jauh bergantung pada siapa yang bertanya. Pada rangkaian survei yang sama yang diumumkan TVBS pada 8 Oktober, Chiang Wan-an 49 persen dan Puma Shen 41 persen; selisih menyempit dari 28 poin persentase menjadi 8, dan pada kelompok usia 20 hingga 29 tahun berbalik menjadi Puma Shen 52 persen dan Chiang Wan-an 44 persen; sementara 11 persen lainnya belum menentukan pilihan.[^70] Survei gelombang kedua yang diumumkan Asosiasi Hsin-min (信民協會) pada 20 Oktober menunjukkan arah yang berlawanan: Puma Shen 50,3 persen dan Chiang Wan-an 33,3 persen, dari tertinggal 1,2 poin persentase pada September menjadi unggul 17 poin persentase.[^71] Sampel dan metode pembobotan kedua lembaga berbeda, dan anggota dewan kota Taipei dari KMT juga secara terbuka mempertanyakan netralitas yang terakhir; selisih antara kedua angka itu lebih besar daripada galat pencuplikan masing-masing, sehingga yang bisa dikatakan saat ini adalah "selisih menyempit", bukan "siapa yang unggul". Hari pemungutan suara adalah 28 November; jadwal penyelenggaraan pemilu yang lengkap dan pintu masuk setiap calon ada di halaman Pemilu Daerah Serentak 2026 (2026 九合一選舉).
-
-```tw-dot
-Dua jajak pendapat wali kota Taipei bulan Oktober, selisihnya lebih besar daripada galat pencuplikan masing-masing (dukungan %, estimasi titik dan rentang galat)
-Chiang Wan-an / TVBS 10-08 | 49 | 46.1 | 51.9 | Petahana, mengincar masa jabatan kedua
-*Puma Shen / TVBS 10-08 | 41 | 38.1 | 43.9 | Calon DPP
-Chiang Wan-an / Hsin-min 10-20 | 33.3 | 30.3 | 36.3 | Orang yang sama, survei yang lain
-*Puma Shen / Hsin-min 10-20 | 50.3 | 47.3 | 53.3 | Orang yang sama, survei yang lain
-Sumber: Pusat Survei Opini Publik TVBS 2026-10-08; Asosiasi Hsin-min 2026-10-20
-```
-
-```tw-note
-Catatan
-Keduanya adalah survei telepon terhadap warga berusia dua puluh tahun ke atas yang terdaftar di Kota Taipei, menanyakan "akan memilih siapa jika memilih sekarang", bukan prediksi hasil 28 November. Survei TVBS dilakukan pada 3 Oktober dan 5-7 Oktober, dengan sampel valid 1.120 orang dan galat pencuplikan ±2,9 poin persentase pada tingkat kepercayaan 95%. Survei Asosiasi Hsin-min dirancang dan dianalisis oleh Tai Li-an (戴立安) serta dijalankan lewat telepon oleh Biken Market Research (畢肯市場研究), dilakukan pada 14-16 Oktober, dengan sampel valid 1.075 orang (753 telepon rumah, 322 telepon seluler) dan galat pencuplikan maksimum ±3,0 poin persentase. Pita rentang adalah estimasi titik ditambah dan dikurangi galat pencuplikan masing-masing, tidak termasuk galat akibat pembobotan dan penolakan wawancara.
-```
 
 Dari bungkukan remaja pengepel lantai hingga dokumenter palsu China Central Television, dari penelitian makalah di balik sebuah meja hingga koordinat di citra satelit, dari "tidak boleh menjadi penanggung jawab Kuma Academy" hingga "resmi mencalonkan diri sebagai wali kota Taipei", posisi Puma Shen berubah beberapa kali. Ia memberi catatan kaki pada setiap perubahan dengan kalimat yang sama: "Saya adalah sasaran panah." Kalimat ini sekaligus kelakar diri dan pengamatan akademik yang tenang. Dalam narasi Partai Komunis Tiongkok tentang Taiwan, ia memang yang harus dibidik. Seorang cendekiawan mengambil label objek penelitiannya, menempelkannya pada diri sendiri, dan terus bekerja; tidak banyak orang yang bisa melakukannya.
 
@@ -720,8 +702,6 @@ Video yang disematkan: [Puma Shen ke parlemen Jerman menjelaskan serangan disinf
 
 [^63]: [聯合新聞網：徐國勇背書沈伯洋戰北市](https://udn.com/news/story/124652/9442093) — Laporan United Daily News tentang isi dukungan terbuka mantan Menteri Dalam Negeri Hsu Kuo-yung bagi Puma Shen untuk bersaing memperebutkan kursi wali kota Taipei.
 
-[^64]: [TVBS 民調中心：2025-12 台北市長民調](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Naskah lengkap PDF jajak pendapat wali kota Taipei yang diumumkan Pusat Survei Opini Publik TVBS pada 2025-12, dengan dukungan Chiang Wan-an 64% dan Puma Shen 22%.
-
 [^65]: [聯合新聞網：沈伯洋變身首度與蔣萬安同台](https://udn.com/news/story/124652/9463754) — Laporan United Daily News 2026-04-25 tentang Puma Shen yang berpisah dengan rambut afro, untuk pertama kalinya satu panggung dengan Chiang Wan-an di festival budaya Mazu Kuil Songshan Tzu Hui, serta bahan perbincangan publik yang membandingkannya dengan Takuya Kimura, Joseph Chang, dan Bae Yong-joon.
 
 [^66]: [聯合新聞網：確定了！民進黨正式拍板 沈伯洋參選台北市長](https://udn.com/news/story/124652/9499591) — Laporan United Daily News 2026-05-13 tentang Komite Eksekutif Pusat DPP yang secara resmi memutuskan menugaskan Puma Shen mencalonkan diri sebagai wali kota Taipei, dengan Presiden Lai Ching-te yang merangkap ketua partai sendiri mengalungkan selempang kampanye dan bergandengan tangan menyerukan "dong suan" (kemenangan).
@@ -729,9 +709,3 @@ Video yang disematkan: [Puma Shen ke parlemen Jerman menjelaskan serangan disinf
 [^67]: [Yahoo新聞：沈伯洋正式參選對戰蔣萬安 賴清德讚台北市長不二人選](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Kutipan langsung konferensi pers 2026-05-13, termasuk Lai Ching-te yang menyebut Puma Shen "memiliki ketinggian wawasan internasional, keluasan tata kelola lintas bidang, dan kehangatan kepedulian terhadap warga" dan "calon wali kota Taipei yang tak tergantikan", serta ucapan Puma Shen saat menerima penugasan, "Saya memutuskan mencalonkan diri sebagai wali kota Taipei, mohon izinkan saya menjadi wali kota Anda".
 
 [^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Laporan Focus Taiwan, edisi bahasa Inggris Central News Agency, 2026-05-13, yang memastikan hari pemungutan suara 28 November 2026 dan lawannya wali kota Taipei petahana dari KMT, Chiang Wan-an, yang mengincar masa jabatan kedua, serta mengutip Lai Ching-te yang mengakui pengalaman LSM Puma Shen di Kuma Academy dan Doublethink Lab serta latar belakang lintas bidang kriminologi, hukum, dan kebijakan publik.
-
-[^69]: [聯合新聞網：北市最新民調曝 蔣萬安大贏沈伯洋28個百分點](https://udn.com/news/story/124652/9529403) — Laporan United Daily News tentang jajak pendapat wali kota Taipei yang diumumkan Pusat Survei Opini Publik TVBS pada 2026-05-27: dukungan Chiang Wan-an 58 persen, Puma Shen 30 persen, selisih 28 poin persentase; pada kelompok usia 20 hingga 29 tahun, 37 persen untuk Puma Shen juga di bawah 60 persen untuk Chiang Wan-an.
-
-[^70]: [自由時報：TVBS最新民調曝！蔣萬安支持度49％、沈伯洋41％ 4個月落差剩個位數](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Laporan Liberty Times 2026-10-08 tentang jajak pendapat wali kota Taipei yang diumumkan Pusat Survei Opini Publik TVBS pada hari itu: Chiang Wan-an 49% dan Puma Shen 41%, selisih menyempit dari 28 poin persentase pada akhir Mei menjadi 8, dan 11% belum menentukan pilihan; pada usia 20-29 tahun Puma Shen 52% berbanding Chiang Wan-an 44%, berbalik dari 37% pada Mei. Wawancara dilakukan 10/3 dan 10/5-7, dengan sampel valid 1.120 orang dan galat pencuplikan ±2,9 poin persentase.
-
-[^71]: [自由時報：大翻盤！北市民調 沈伯洋50.3％反超蔣萬安33.3％ 領先17個百分點](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Laporan Liberty Times 2026-10-20 tentang jajak pendapat wali kota Taipei gelombang kedua Asosiasi Hsin-min (信民協會): Puma Shen 50,3% dan Chiang Wan-an 33,3%, berbalik 17 poin persentase dibandingkan September ketika Chiang 41,7% dan Shen 40,5%. Kuesioner dirancang dan dianalisis oleh Tai Li-an (戴立安), wawancara telepon dijalankan Biken Market Research (畢肯市場研究) pada 10/14-10/16, dengan 1.075 responden berhasil diwawancarai (753 telepon rumah, 322 telepon seluler) dan galat pencuplikan maksimum ±3,0 poin persentase. Laporan itu juga mencatat bahwa sebelum jajak pendapat gelombang sebelumnya diumumkan, sudah ada anggota dewan kota Taipei dari KMT yang mempertanyakan netralitas lembaga itu.

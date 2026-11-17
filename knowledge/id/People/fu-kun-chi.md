@@ -1,20 +1,22 @@
 ---
-title: 'Fu Kun-chi (傅崐萁): Dari "Raja Hualien" Pedesaan hingga Pimpinan Fraksi Parlemen—Spiral Kekuatan Politik'
-description: 'Dari spekulan saham "Fu Kecil Kaiqu" era 1990-an, hingga masuk parlemen pada 2001 dan menguasai Hualien pada 2009, Fu Kun-chi membangun "dinasti Fu" di pedesaan yang bertahan selama dua puluh tahun dan sulit digoyahkan bahkan oleh pemerintah pusat. Dari kasus manipulasi saham sambil menjalani masa pidana, perceraian palsu untuk menunjuk istri sebagai wakil bupati, hingga kembali ke parlemen pada 2024 sebagai pimpinan fraksi Kuomintang dan memimpin rombongan kunjungan ke daratan, ia menunjukkan daya tahan kekuatan dan kontroversi paling ekstrem dalam lanskap politik Taiwan.'
+title: 'Fu Kun-chi: Dari "Raja Hualien" di Pedalaman ke "Ketua Fraksi" Parlemen, Spiral Kekuasaan'
+description: 'Dari magnat pasar saham tahun 1990-an "Fu Kecil dari Kai Ju", hingga masuk Parlemen pada 2001 dan menguasai Hualien pada 2009, Fu Kun-chi di pedalaman mendirikan "dinasti keluarga Fu" yang berlangsung hampir dua puluh tahun dan sulit digoyahkan bahkan oleh pusat. Dari kasus manipulasi saham yang membuatnya masuk penjara sambil menjabat, cerai semu untuk menunjuk istrinya menjadi wakil bupati, hingga kembali ke Legislatif pada 2024 sebagai Ketua Fraksi KMT dan memimpin delegasi berkunjung ke Tiongkok, ia menunjukkan ketahanan kekuasaan dan kontroversi paling ekstrem di arena politik Taiwan.'
 date: 2026-06-01
 category: 'People'
-tags: ['Hualien', 'Tokoh Politik', 'Kuomintang', 'Parlemen']
+tags: ['Hualien', 'tokoh politik', 'KMT', 'Legislatif']
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-05T18:17:55.467377+00:00'
 ---
 
 > **Ringkasan 30 detik:**
@@ -48,18 +50,18 @@ Gelar "Raja Hualien" adalah sekaligus ketergantungan masyarakat Hualien terhadap
 
 ## Referensi
 
-[^1]: [雙面傅崐萁──透視花蓮王現象](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - Reporter (Laporan: Reporter)
+[^1]: [Fu Kun-chi Berwajah Ganda──Mengurai Fenomena Raja Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - The Reporter
 
-[^2]: [任妻當副手 傅崐萁假離婚判刑6月](https://news.tvbs.com.tw/politics/53325) — Jaringan Berita TVBS: Pengadilan Negeri Hualien menjatuhkan pidana enam bulan kepada Fu Kun-chi dan empat bulan kepada Hsu Jen-wei atas dasar kejahatan pemalsuan dokumen (Putusan Pidana Nomor 358 Tahun 99 Pengadilan Negeri Hualien)
+[^2]: [Menjabatkan Isteri Jadi Wakil, Fu Kun-chi Dihukum 6 Bulan atas Kasus Perceraian Palsu](https://news.tvbs.com.tw/politics/53325) — TVBS News: Pengadilan Distrik Hualien menghukum Fu Kun-chi 6 bulan dan Hsu Chen-wei 4 bulan atas kejahatan pemalsuan dokumen (Putusan Pidana Nomor 358 Tahun 2010 Pengadilan Distrik Hualien)
 
-[^3]: [傅崐萁炒股案定讞：為什麼當縣長被解職，當立委卻能帶職入監？](https://opinion.udn.com/opinion/story/12322/4572559) — Forum Suara: Laporan United Daily News
+[^3]: [Kasus Manipulasi Saham Fu Kun-chi Putus Akhir: Mengapa Diberhentikan sebagai Bupati, Tapi Bisa Menjabat Anggota Legislatif Sambil Menjalani Penjara?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang: Dilaporkan oleh United Daily News
 
-[^4]: [傅崐萁炒作凱聚案 判刑2年10月定讞須入獄](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Laporan Central News Agency: Pengadilan Agung menolak kasasi pada tanggal 14 Mei 2020, keputusan menjadi final
+[^4]: [Kasus Manipulasi Kaiju oleh Fu Kun-chi: Dihukum 2 Tahun 10 Bulan, Putus Akhir Harus Masuk Penjara](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency: Mahkamah Agung menolak banding pada 14 Mei 2020, putusan final
 
-[^5]: [從花蓮王到國會暴君，解析傅崐萁的權力迷思與國民黨的縱容危機！](https://newcongress.tw/?p=32791) — Kongres Warga Baru, penulis Qin Jing (istilah komentar "tiran parlemen" berasal dari judul artikel ini)
+[^5]: [Dari Raja Hualien ke Tirani Parlemen, Menganalisis Mitos Kekuasaan Fu Kun-chi dan Krisis Pengcondonan KMT!](https://newcongress.tw/?p=32791) — New Citizens' Assembly, penulis Qin Jing (istilah 'Tirani Parlemen' berasal dari judul artikel ini)
 
-[^6]: [地震爭議下訪中 傅崐萁：災後重建振興是重要課題](https://www.cna.com.tw/news/acn/202404270082.aspx) — Laporan Central News Agency: Di tengah gempa susulan Hualien yang terus-menerus pada April 2024, dia memimpin rombongan kunjungan ke Beijing, dengan wakil direktur Taiwan Affairs Office Pan Xianzhang menyambut dan mendampingi sepanjang waktu
+[^6]: [Kunjungan ke Tiongkok di Tengah Kontroversi Gempa, Fu Kun-chi: Rekonstruksi Pascabencana Adalah Tugas Penting](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency: April 2024, saat gempa susulan di Hualien berlanjut, memimpin delegasi ke Beijing, Wakil Direktur Kantor Urusan Taiwan Pan Xianzhang menyambut di bandara dan menemani sepanjang acaranya
 
-[^7]: [【傅崐萁再陷風暴】家族縱橫花蓮逾 30 年 傅崐萁爭議一次看](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo Berita (Mirror Weekly)
+[^7]: [[Fu Kun-chi Kembali Terjerat Badai] Keluarga Menguasai Hualien Lebih 30 Tahun, Kontroversi Fu Kun-chi Sekali Lihat](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Mirror Media)
 
-[^8]: [五星縣長 VS 花蓮王，那個才是傅崐萁？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Reporter (Laporan: Reporter) seri "Fu Kun-chi Bermuka Dua" bab bentuk citra
+[^8]: [Bupati Berbintang Lima VS Raja Hualien, Mana yang Sebenarnya Fu Kun-chi?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter seri 'Fu Kun-chi Berwajah Ganda' edisi profil

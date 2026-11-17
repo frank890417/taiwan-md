@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-07-25T12:13:37+08:00'
+translatedAt: '2026-11-04T21:37:49.484080+00:00'
 ---
 
 # Ю Юнхэ

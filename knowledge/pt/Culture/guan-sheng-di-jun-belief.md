@@ -2,7 +2,7 @@
 title: 'Guan Sheng Di Jun: como um general derrotado se tornou o deus todo-poderoso de Taiwan'
 description: 'O general Guan Yu, do período dos Três Reinos, foi derrotado e decapitado, mas em Taiwan deu origem ao sistema de crença em Enzhugong, o “Senhor Benfeitor”, único no mundo — e o templo de Guan mais movimentado do país não permite sequer acender uma vareta de incenso.'
 date: 2026-03-26
-category: 'pt'
+category: 'Culture'
 tags:
   [
     'Guan Sheng Di Jun',
@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-05T07:51:01.495423+00:00'
 ---
 
 # Guan Sheng Di Jun: como um general derrotado se tornou o deus todo-poderoso de Taiwan

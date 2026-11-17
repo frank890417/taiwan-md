@@ -2,9 +2,7 @@
 title: 'Yang Wei-cher: del cálculo a la lengua materna, el artista escénico del mundo de las matemáticas'
 description: 'Yang Wei-cher, profesor emérito del Departamento de Matemáticas de la Universidad Nacional de Taiwán, es conocido por dar clases en pantalones cortos, desplazarse en bicicleta y enseñar en taiwanés. Hijo del célebre pintor Yang Chi-tung, desafió la voluntad paterna al abandonar la medicina por las matemáticas y, en 1997, provocó una controversia sobre una supuesta “inconstitucionalidad” por enseñar en taiwanés. No solo fue un impulsor de la Olimpiada Matemática, sino también un resistente firme durante el caso Chen Wen-chen; a lo largo de su vida practicó una forma de “arte escénico” entre la lógica y la subjetividad cultural.'
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與學術'
 tags:
   [
     'matemáticas',
@@ -15,15 +13,19 @@ tags:
     'Chen Wen-chen',
     'Yang Chi-tung',
   ]
+subcategory: '科學與學術'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-04T20:58:20.245849+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -79,28 +81,28 @@ La existencia de Yang Wei-cher es, por sí misma, una enorme interpelación a la
 
 ## Referencias
 
-[^1]: [La leyenda de la enseñanza en taiwanés en la Universidad Nacional de Taiwán y sus secuelas (título anterior: En 1997, el legislador señaló como “inconstitucional” la enseñanza en taiwanés del profesor Yang Wei-cher)](https://www.telltaiwan.org/5057) — La profesora Chou Wan-yao detalla el contexto histórico de la enseñanza en taiwanés del profesor Yang Wei-cher y la controversia en el Yuan Legislativo.
+[^1]: [La leyenda de las clases en taiwanés en la NTU y sus secuelas (Título anterior: ¡Las clases en taiwanés del profesor Yang Wei-che en 1997 fueron señaladas por legisladores como «inconstitucionales»!)](https://www.telltaiwan.org/5057) — La profesora Chou Wan-yao detalla el contexto histórico de las clases impartidas en taiwanés por el profesor Yang Wei-che y la controversia en el Legislativo.
 
-[^2]: [Yang Wei-cher - Wikipedia, la enciclopedia libre](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Panorama de la biografía básica y las características docentes del profesor Yang Wei-cher.
+[^2]: [Yang Wei-che - Wikipedia, la enciclopedia libre](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Resumen de la biografía básica y las características docentes del profesor Yang Wei-che.
 
-[^3]: [Yang Wei-cher: lamento no haber enseñado matemáticas en taiwanés desde el principio](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Entrevista de _New Taiwan Weekly_, que registra el recorrido interior del profesor Yang Wei-cher en la promoción de la enseñanza en taiwanés.
+[^3]: [Yang Wei-che: Me arrepiento de no haber enseñado matemáticas en taiwanés desde el principio](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Entrevista de la revista «New Taiwan News Weekly» que registra el proceso mental del profesor Yang Wei-che en la promoción de la enseñanza en taiwanés.
 
-[^4]: [El aula de matemáticas del profesor Yang Wei-cher: geometría analítica básica](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Presentación de la editorial Wunan sobre la filosofía educativa y las obras matemáticas del profesor Yang Wei-cher.
+[^4]: [El aula de matemáticas del profesor Yang Wei-che: Geometría de coordenadas básicas](http://www.wunan.com.tw/bookdetail.asp?no=16462) — La editorial Wunan presenta la filosofía educativa y los libros especializados en matemáticas del profesor Yang Wei-che.
 
-[^5]: [Conferencia de los viernes en taiwanés: conferencia del profesor Yang Wei-cher, “Hablar desde el punto de vista de las matemáticas”](https://www.instagram.com/p/Czgc1tJPeAK/) — Información del evento de la conferencia dictada por el profesor Yang Wei-cher en 2023 en la Facultad de Letras de la Universidad Nacional de Taiwán.
+[^5]: [[Conferencia de viernes en taiwanés] Conferencia del profesor Yang Wei-che: Hablando desde una perspectiva matemática](https://www.instagram.com/p/Czgc1tJPeAK/) — Información sobre la conferencia impartida por el profesor Yang Wei-che en la Facultad de Humanidades de la NTU en 2023.
 
-[^6]: [Sentirse como si uno se encontrara con Newton (segunda parte)](https://blog.udn.com/Carole777/45605455) — Relato sobre las interacciones y la amistad entre el profesor Yang Wei-cher y sus predecesores y colegas del Departamento de Matemáticas de la Universidad Nacional de Taiwán.
+[^6]: [Como encontrarse con Newton (Parte II)](https://blog.udn.com/Carole777/45605455) — Relato sobre las interacciones y la amistad entre el profesor Yang Wei-che y sus predecesores y colegas del Departamento de Matemáticas de la NTU.
 
-[^7]: [El profesor del Departamento de Matemáticas que me vio crecer desde la secundaria](https://www.instagram.com/p/C8Zkg9-PC4w/) — Recuerdo del profesor Yeh Ping-cheng sobre la influencia del profesor Yang Wei-cher en la educación para superdotados y en los estudiantes.
+[^7]: [Viendo al profesor de matemáticas que me vio crecer desde la secundaria](https://www.instagram.com/p/C8Zkg9-PC4w/) — El profesor Yeh Bing-cheng recuerda la influencia del profesor Yang Wei-che en la educación para superdotados y en sus estudiantes.
 
-[^8]: [Mathematics Media - Yang Wei-cher](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Lista de obras del profesor Yang Wei-cher en la revista _Mathematics Media_ del Instituto de Matemáticas de la Academia Sinica.
+[^8]: [Divulgación matemática - Yang Wei-che](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Lista de obras del profesor Yang Wei-che en la revista «Mathematical Communication» del Instituto de Matemáticas de la Academia Sinica.
 
-[^9]: [VI. Un valiente avanza con dedicación, un maestro longevo de la pintura: Yang Chi-tung y Yang Wei-cher](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Archivo del Museo Nacional de Bellas Artes de Taiwán, que detalla la historia entre padre e hijo, Yang Chi-tung y Yang Wei-cher, sobre el abandono de la medicina por las matemáticas.
+[^9]: [VI. El progreso de los valientes, longevidad en el mundo del arte - Yang Chi-tung y Yang Wei-che](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Archivos del Museo Nacional de Bellas Artes de Taiwán, que detallan la historia de la transición de la medicina a las matemáticas entre padre e hijo, Yang Chi-tung y Yang Wei-che.
 
-[^10]: [¡El primer estudiante superdotado de Taiwán en “saltar tres niveles”! Yang Po-yin se graduó de la Universidad Nacional de Taiwán a los 18 años](https://time.udn.com/udntime/story/122833/8798116) — _United Daily News Time_, registro del desarrollo genial de Yang Po-yin, hijo de Yang Wei-cher.
+[^10]: [¡El primer estudiante superdotado en dar un «triple salto» en Taiwán! Yang Po-yin se graduó de la NTU a los 18 años](https://time.udn.com/udntime/story/122833/8798116) — Archivo del United Daily News que registra el proceso de crecimiento prodigioso del hijo de Yang Wei-che, Yang Po-yin.
 
-[^11]: [El caso Chen Wen-chen y el Departamento de Matemáticas de la Universidad Nacional de Taiwán](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Registro de Wikipedia sobre la postura del profesor Yang Wei-cher en el caso Chen Wen-chen.
+[^11]: [El incidente Chen Wen-cheng y el Departamento de Matemáticas de la NTU](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Registros en Wikipedia sobre la postura del profesor Yang Wei-che durante el incidente Chen Wen-cheng.
 
-[^12]: [Yang Wei-cher, 2008-12-23: de la vida universitaria al caso Chen Wen-chen](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Registro de entrevista de historia oral del Museo de Historia de la Universidad Nacional de Taiwán.
+[^12]: [Yang Wei-che 23/12/2008: De la vida universitaria al incidente Chen Wen-cheng](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Registro de entrevista de historia oral del Museo de Historia de la Universidad Nacional de Taiwán.
 
-[^13]: [41.º aniversario del caso Chen Wen-chen: en memoria de un valiente que resistió con firmeza la violencia del Estado](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Reportaje de Yahoo News que menciona la inscripción propuesta por Yang Wei-cher para el monumento conmemorativo de Chen Wen-chen.
+[^13]: [41.º aniversario del incidente Chen Wen-cheng: Conmemorando a un valiente que resistió firmemente la violencia estatal](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Reportaje de Yahoo News que menciona que Yang Wei-che escribió la caligrafía para el monumento conmemorativo de Chen Wen-cheng.

@@ -2,9 +2,7 @@
 title: 'Paul Ching-Wu Chu: Co-discoverer of High-Temperature Superconductivity at Tc=93K, Breaking Through the Liquid-Nitrogen Temperature in 1987'
 description: 'Born in Hunan in 1941, Paul Ching-Wu Chu is a Taiwanese American physicist. In January 1987, he and Maw-Kuen Wu jointly discovered yttrium barium copper oxide (YBCO) with Tc=93K, crossing the liquid-nitrogen temperature threshold and opening the era of high-temperature superconductivity. From 2001 to 2009 he served as president of the Hong Kong University of Science and Technology. In March 2026, he published a new Tc=151K breakthrough in PNAS and remains active in research at age 85.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科學與學術'
 tags:
   [
     'Science and Academia',
@@ -13,19 +11,19 @@ tags:
     'HKUST',
     'University of Houston',
   ]
-readingTime: 7
+subcategory: '科學與學術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-05-25T21:06:51Z'
-# design_rationale:
-#   why_this_hook: "從1987年1月那個溫度數字切入——93K不只是一個物理數字，是超導體史上跨越液氮門檻的那一天。"
-#   whats_excluded: "BCS理論細節；歷年學術論文清單；超導應用工程規格"
-#   where_it_hedges: "諾貝爾候選資格為外界推測而非官方確認；2026 Tc=151K 以中時報導為準"
+translatedAt: '2026-11-04T22:31:55.623744+00:00'
 ---
 
 # Paul Ching-Wu Chu: Co-discoverer of High-Temperature Superconductivity at Tc=93K, Breaking Through the Liquid-Nitrogen Temperature in 1987

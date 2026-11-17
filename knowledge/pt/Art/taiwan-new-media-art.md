@@ -23,10 +23,10 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ef8fab38e'
-sourceContentHash: 'sha256:d196b7664449f36f'
-sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: '2026-07-26T23:43:20+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:322922074ebc6f22'
+sourceBodyHash: 'sha256:532e9b8210a860d0'
+translatedAt: '2026-11-03T22:57:59.925183+00:00'
 ---
 
 # Arte Nova-Mídia de Taiwan
@@ -131,34 +131,34 @@ Taiwan tem uma área de 36.000 km² e uma população de 23 milhões, sem assent
 
 ## Desafios
 
-Os sucessos da arte nova-mídia de Taiwan não devem obscurecer seus dilemas estruturais.
+As conquistas da arte de novos media de Taiwan não devem encobrir os dilemas estruturais que enfrenta.
 
-O problema do mercado de colecionáveis é o mais fundamental: instalações interativas são difíceis de exibir em espaços privados; obras VR requerem equipamentos especiais para serem experimentadas; a preservação de obras digitais enfrenta o risco de obsolescência tecnológica. A maioria dos artistas de arte nova-mídia de Taiwan ainda depende altamente de subsídios do setor público e comissões de museus; este ecossistema opera quando a política é estável, mas é muito frágil quando a política muda.
+O problema do mercado de colecionismo é o mais fundamental: instalações interativas são difíceis de exibir em espaços privados, obras de VR requerem equipamento especial para serem experienciadas, e a preservação de obras digitais enfrenta o risco de obsolescência tecnológica. A maioria dos artistas de novos media de Taiwan ainda depende fortemente de subsídios do setor público e encomendas de museus; este ecossistema funciona quando a política é estável, mas torna-se muito frágil quando há mudanças de direção política.
 
-Em 2023, a controvérsia de direitos autorais causada pela escritora Wu Tan-ru usando o Midjourney para gerar imagens expôs a ambiguidade da sociedade taiwanesa em relação à definição de criação por IA. As diretrizes atuais da Diretoria Geral de Propriedade Intelectual de Taiwan determinam que "resultados de inteligência gerados por máquinas, em princípio, não享有 direitos autorais", mas sob a realidade de uma colaboração humano-máquina cada vez mais complexa, esta linha está se dissolvendo rapidamente. Artistas como Xu Jia-wei e Gu Guang-yi têm longas experiências de residência no exterior; como fazer com que os talentos mantenham a conexão com o ecossistema de Taiwan enquanto fluem internacionalmente, é sempre um problema não resolvido.
+Em 2023, a controvérsia de direitos autorais suscitada pela escritora Wu Tan-ru ao usar o Midjourney para gerar imagens expôs a nebulosidade da definição de criação por IA na sociedade de Taiwan. Os atuais princípios orientadores do Escritório de Propriedade Intelectual de Taiwan determinam que "resultados intelectuais gerados por máquinas, em princípio, não gozam de direitos autorais", mas na realidade da colaboração humano-máquina cada vez mais complexa, esta linha está se dissolvendo rapidamente. Artistas como Hsu Chia-wei e Ku Kuang-yi têm experiência de longa residência no exterior; como manter os talentos conectados ao ecossistema de Taiwan enquanto circulam internacionalmente continua sendo um enigma não resolvido.
 
-Diante da rápida expansão da indústria de arte digital da China continental impulsionada pelo capital, e da infraestrutura de metaverso investida pesadamente pelo governo da Coreia do Sul, a estratégia de Taiwan é clara: não se compara em escala, compara-se em profundidade. A questão nunca é se Taiwan consegue ou não, mas se este ecossistema pode continuar a apoiar os artistas a fazer experimentos mais difíceis.
+Diante da rápida expansão da indústria de arte digital da China continental impulsionada por capital, e da infraestrutura de metaverso na qual o governo da Coreia do Sul investe pesadamente, a estratégia de Taiwan é clara: não competir em escala, competir em profundidade. A questão nunca foi se Taiwan consegue ou não fazer, mas se este ecossistema consegue sustentar continuamente os artistas na realização de experimentos mais árduos.
 
-Quando o nome de Yang Yu-xian apareceu na lista de júri do Festival Ars Electronica de 2025, ninguém ficou particularmente surpreso; os artistas taiwaneses estão lá todos os anos. Esta "naturalidade" é o resultado de quarenta anos de acumulação: da câmera de vídeo emprestada por Yuan Guangming, aos dedos voando no vazio de Hsin-Chien Huang, à respiração das 697 pétalas mecânicas do LuxuryLogico. Taiwan nunca foi o lugar com mais recursos, mas neste campo da arte nova-mídia, ela conseguiu fazer algo raro: dar alma às máquinas.
+Quando o nome de Yang Yu-hsien apareceu na lista de jurados do Festival Ars Electronica de Linz em 2025, ninguém se surpreendeu particularmente; artistas de Taiwan estão lá todos os anos. Esta "naturalidade" é o resultado de quarenta anos de acumulação: daquela câmera de vídeo emprestada por Yuan Guangming, aos dedos voando no vazio de Huang Hsin-chien, às 697 pétalas mecânicas respirando da LuxuryLogico. Taiwan nunca foi o mais rico em recursos, mas no campo da arte de novos media, conseguiu algo raro: dar alma às máquinas.
 
 ---
 
-**Leitura Recomendada**:
+**Leitura complementar**:
 
-- [Desenvolvimento da Literatura Contemporânea de Taiwan](/art/台灣當代文學發展) — O ecossistema criativo contemporâneo de Taiwan que floresceu simultaneamente com a arte nova-mídia, compreendendo o contexto geral do círculo cultural
-- [Teatro e Artes Cênicas de Taiwan](/pt/art/taiwanese-theater-and-performing-arts) — O background das artes cênicas de criadores interdisciplinares como Huang Yi, na intersecção entre corpo e tecnologia
-- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outra vertente da arte visual de Taiwan, compartilhando o palco dos festivais de cinema com a arte nova-mídia
-- [Comunidades de Código Aberto e g0v](/pt/technology/open-source-and-g0v) — Outro lado da cultura tecnológica de Taiwan, a intersecção do espírito de código aberto com o círculo artístico
-- [História da Indústria de TV de Taiwan](/pt/technology/taiwan-television-industry-history) — A evolução da mídia da radiodifusão à OTT, o contexto institucional da tecnologia de imagem
-- [justfont e o Desenvolvimento de Fontes de Taiwan](/pt/technology/justfont-and-taiwan-typography) — Outro grupo de criadores na fronteira entre design, tecnologia e identidade cultural: aqueles que nutriram letra por letra as fontes de Taiwan
-- [Xie De-qing](/pt/art/tehching-hsieh-performance-artist) — A mídia corporal antes da nova mídia, o pioneiro da arte de performance de Taiwan e mestre internacional dos "Cinco Anos de Comportamento"
-- [Wang Xin-ren (A-Luan)](/pt/art/wang-hsin-jen-artist) — O primeiro artista generativo de Taiwan a subir na Art Blocks, figura central do projeto Baiyue da akaSwap e FAB DAO
-- [Wang Lian-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Vencedor do Primeiro Prêmio de Escultura do Prêmio Lumiere de 2017, membro do i/O Lab e curador do Festival do Som Perdido, representante da arte de instalação sonora de Taiwan
-- [Wu Zhe-yu](/pt/people/che-yu-wu) — Artista de nova-mídia que se autodenomina "Relojoeiro Antigo", iniciador do projeto de código aberto Personal Structures × Art Basel Miami × Taiwan.md da Bienal de Veneza
-- [The Reporter: Dez Anos para Salvar o Jornalismo Investigativo de Ser uma Atividade Comercial para Bem Público](/pt/society/the-reporter-investigative-journalism) — Outro caso de DNA de Taiwan impulsionado por comunidades civis e crescendo de forma interdisciplinar, mostrando outra via de construção de bem público pela sociedade civil após 2015
-- [justfont e o Desenvolvimento de Fontes de Taiwan: Uma Breve História Tipográfica de 25 Anos da Wan Tong a 76 Minutos de Jin Xuan](/pt/technology/justfont-and-taiwan-typography) — Fontes como infraestrutura cultural, outra dimensão que, assim como a arte nova-mídia, se preocupa com a subjetividade visual de Taiwan
-- [Cabos Submarinos: Visíveis do Topo do Escudo de Silício, Invisíveis na Veia da Vida](/pt/technology/submarine-cables-taiwan-lifeline) — 99% das exposições e colaborações curatoriais de arte nova-mídia transnacionais passam por cabos submarinos; este artigo revela esta infraestrutura cultural digital invisível
-- [Nie Yong-zhen](/pt/people/nieh-yung-jen) — Primeiro membro da Aliança Internacional de Design Gráfico AGI de Taiwan, posição curatorial do Studio Yongzhen Jizhi e da cultura visual contemporânea de Taiwan
+- [Desenvolvimento da literatura contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — Ecologia criativa contemporânea de Taiwan surgida no mesmo período da arte de novos media, para compreender o contexto cultural geral
+- [Teatro e artes performáticas de Taiwan](/pt/art/taiwanese-theater-and-performing-arts) — Formação em artes performáticas de criadores transdisciplinares como Huang Yi, o ponto de convergência entre corpo e tecnologia
+- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outra vertente da arte da imagem de Taiwan, compartilhando palcos de festivais com a arte de novos media
+- [Comunidade open source e g0v](/pt/technology/open-source-and-g0v) — Outra faceta da cultura tecnológica de Taiwan, a interseção do espírito open source com o meio artístico
+- [História da indústria televisiva de Taiwan](/pt/technology/taiwan-television-industry-history) — Da radiodifusão ao OTT, a evolução midiática, o contexto institucional da tecnologia da imagem
+- [justfont e o desenvolvimento tipográfico de Taiwan](/pt/technology/justfont-and-taiwan-typography) — Outro grupo de criadores na fronteira entre design, tecnologia e identidade cultural: as pessoas que devolvem os caracteres de Taiwan, traço a traço
+- [Hsieh Te-ching](/pt/art/tehching-hsieh-performance-artist) — Meio corporal antes dos novos media, pioneiro da arte performática de Taiwan e mestre internacional dos cinco "One Year Performances"
+- [Wang Hsin-jen (A-luan)](/pt/art/wang-hsin-jen-artist) — Primeiro artista generativo taiwanês no Art Blocks, figura central do akaSwap e do projeto Baiyue da FAB DAO
+- [Wang Lien-cheng (Pai Camarão)](/pt/art/wang-lien-cheng-artist) — Vencedor do primeiro prêmio de escultura no Lumen Prize 2017, membro do i/O Lab e curador do Lost Sound Festival, representante da arte de instalação sonora de Taiwan
+- [Wu Zhe-yu](/pt/people/che-yu-wu) — Artista de novos media autodenominado "relojoeiro antigo", iniciador do projeto open source Taiwan.md × Personal Structures da Bienal de Veneza × Art Basel Miami
+- [The Reporter: dez anos transformando o jornalismo investigativo de item comercial em bem público](/pt/society/the-reporter-investigative-journalism) — Outro caso Taiwan-DNA impulsionado pela sociedade civil e crescimento transdisciplinar, mostrando outro caminho de construção de bens públicos pela sociedade civil pós-2015
+- [justfont e o desenvolvimento tipográfico de Taiwan: uma pequena história das fontes, dos 25 anos da Hua Kang aos 76 minutos da Jin Xuan](/pt/technology/justfont-and-taiwan-typography) — A tipografia como infraestrutura cultural, outra dimensão que, como a arte de novos media, se preocupa com a subjetividade visual de Taiwan
+- [Cabos submarinos: o escudo de silício visível no topo, a veia vital invisível embaixo](/pt/technology/submarine-cables-taiwan-lifeline) — 99% da exibição e curadoria transfronteiriça de arte de novos media percorre cabos submarinos; este artigo revela esta infraestrutura cultural digital invisível
+- [Nieh Yung-chen](/pt/people/nieh-yung-jen) — Primeiro membro taiwanês da AGI (Aliança Internacional de Design Gráfico), estúdio Nieh Yung-chen e sua posição curatorial na cultura visual contemporânea de Taiwan
 
 ## Referências
 

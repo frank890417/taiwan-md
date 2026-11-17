@@ -2,25 +2,29 @@
 title: 'مكتبة الذاكرة الثقافية الوطنية: تنسيق الذاكرة والإبداع الثقافي المشترك في العصر الرقمي'
 description: 'مكتبة الذاكرة الثقافية الوطنية ليست مجرد منصة أرشيف رقمي، بل هي هندسة اجتماعية في شد حبل مع الزمن، من خلال الترخيص المفتوح والإبداع المشترك، تُحيى ذكريات عامة تايوان وتجدد في العصر الرقمي.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'Technology'
-subcategory: '數位與網路'
 tags:
-  - 'مكتبة الذاكرة الثقافية الوطنية'
-  - 'الأرشيف الرقمي'
-  - 'الإبداع الثقافي المشترك'
-  - 'ذاكرة تايوان'
-  - 'حقوق النشر'
-  - 'ثقافة العامة'
-readingTime: 12
+  [
+    'مكتبة الذاكرة الثقافية الوطنية',
+    'الأرشيف الرقمي',
+    'الإبداع الثقافي المشترك',
+    'ذاكرة تايوان',
+    'حقوق النشر',
+    'ثقافة العامة',
+  ]
+subcategory: '數位與網路'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/國家文化記憶庫.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6f90dbf2e1df699d'
 sourceBodyHash: 'sha256:f903cddb5dedf5bd'
-translatedAt: '2026-07-26T03:58:15+08:00'
+translatedAt: '2026-11-04T17:47:20.602856+00:00'
 ---
 
 > ⚡ نظرة عامة في ثلاثين ثانية

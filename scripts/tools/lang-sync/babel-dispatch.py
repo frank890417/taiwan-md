@@ -1047,6 +1047,38 @@ def load_exclusions(path: Path | None, log: "Logger") -> set:
         return set()
 
 
+HOLD_FILE = REPO / "config" / "babel-hold.tsv"
+
+
+def load_holds(log: "Logger", now: Optional[datetime] = None) -> set:
+    """讀 `config/babel-hold.tsv`：有起訖時間的翻譯凍結（2026-11-02 誕生）。
+
+    選罷法第 53 條：投票日前十日起至投票截止前，不得發布或引述民調。〈沈伯洋〉
+    〈蔣萬安〉的民調表在禁止期前發布、期間凍結不改（哲宇 11-02 拍板「不撤，明確
+    標注時間」）。期間若 babel 把它們重翻成新語言，等於在禁止期內首次發布民調，
+    所以凍結窗內這幾篇一律不翻。跟 `--exclude-file` 不同：本檔進 git，所有機器
+    `git pull` 就生效，不依賴哪台有傳 `--exclude-file`。
+
+    格式（TSV）：`<lang 或 *>\t<zh_path>\t<from ISO>\t<until ISO>\t<理由>`。
+    只回傳 now 落在 [from, until) 內的列；過期列留著當紀錄，不用刪。
+    """
+    if not HOLD_FILE.exists():
+        return set()
+    now = now or datetime.now(timezone.utc)
+    rows = set()
+    for n, line in enumerate(HOLD_FILE.read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip() or line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        try:
+            lang, zh, start, until = parts[0].strip(), parts[1].strip(), parts[2].strip(), parts[3].strip()
+            if datetime.fromisoformat(start) <= now < datetime.fromisoformat(until):
+                rows.add((lang, zh))
+        except (IndexError, ValueError):
+            log(f"  ⚠️ {HOLD_FILE.name}:{n} 格式不對，略過：{line!r}")
+    return rows
+
+
 class ExclusionCache:
     """去重清單的即時視圖，給 claim 時的 hard gate 用（2026-09-20）。
 
@@ -1066,7 +1098,7 @@ class ExclusionCache:
 
     def current(self) -> set:
         if self.path is None:
-            return set()
+            return load_holds(self.log)
         try:
             mtime = self.path.stat().st_mtime
         except OSError:
@@ -1076,7 +1108,7 @@ class ExclusionCache:
                 self._set = load_exclusions(self.path, self.log)
                 self._mtime = mtime
                 self.log(f"  exclude-file 重新載入：{len(self._set)} (lang, zh) pairs（claim 時即時生效）")
-            return self._set
+            return self._set | load_holds(self.log)
 
     def excluded(self, lang: str, zh_path: str) -> bool:
         cur = self.current()
@@ -2507,6 +2539,10 @@ def main() -> None:
 
         refresh_exclusions_if_stale(args.exclude_file, log)
         exclusions = load_exclusions(args.exclude_file, log)
+        holds = load_holds(log)
+        if holds:
+            log(f"  babel-hold: {len(holds)} (lang, zh) pairs 凍結中（config/babel-hold.tsv）")
+            exclusions |= holds
         if args.exclude_file is not None:
             log(f"  exclude-file: {len(exclusions)} (lang, zh) pairs skipped this round")
 

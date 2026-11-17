@@ -2,20 +2,22 @@
 title: '바셴 분진 폭발: 그날 밤, 컬러 파티가 타이완에 남긴 상흔'
 description: '2015년 6월 27일, 바셴 놀이공원의 컬러 파티에서 분진 순간 발화로 국제적 충격을 일으킨 분진 폭발 사고가 발생했다. 타이완 역사상 921 대지진 이후 가장 심각한 집단 사상 사건인 이 사고는 499명의 화상 환자와 15명의 사망자를 낳았고, 타이완의 응급의료 체계를 근본적으로 바꾸었으며 대형 행사 안전 법규의 혁신도 촉진했다.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   ['바셴 분진 폭발', '공공안전 사고', '의료의 기적', '법적 책임', '타이완 역사']
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T06:03:58.486947+00:00'
 ---
 
 > **30초 개요:** 2015년 6월 27일 밤 8시 32분, 신베이시 바리의 바셴 놀이공원에서 열린 「컬러 파티」 현장은 옥수수 전분 분진의 순간 발화로 순식간에 불바다가 되었다. 이 사고로 499명이 화상을 입고 15명이 사망했으며, 타이완에서 921 대지진 이후 인명 피해가 가장 컸던 단일 공공안전 사고였다. 대규모 중증 화상 환자를 마주한 타이완 의료진은 “전국의 힘을 총동원해” 사망률을 3%에 그치게 한 “의료의 기적”을 만들어 냈다. 그러나 10년이 지난 지금도 법적 소송은 계속되고, 부상자들이 흉터와 함께 살아가야 하는 재활의 길은 길고도 험난하며, 바셴 놀이공원 역시 그 뒤로 폐허가 되었다. 이 상흔은 지금도 타이완 사회에 공공안전의 중요성을 깊이 환기하고 있다.

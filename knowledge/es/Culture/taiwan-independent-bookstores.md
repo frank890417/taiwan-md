@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-11T05:48:40+08:00'
+translatedAt: '2026-11-02T14:52:13.466571+00:00'
 ---
 
 > **Resumen en 30 segundos:** La librería independiente en Taiwán no es un tipo de establecimiento fijo, sino una forma de gestión que vincula el juicio de selección de libros, la escala espacial y las relaciones públicas. Puede estar ubicada en el sótano de la ciudad universitaria de Taipéi, o esconderse en la calle antigua de Guanshan, junto a la carretera de Changbin o en los callejones de Penghu. Las librerías venden libros, pero a menudo hacen más: organizan el encuentro para lectores desconocidos y preservan para el lugar un lenguaje que pueda seguir siendo contado. Desde la calle de las librerías de Chongqingnan, las librerías humanistas de Wenluoding, hasta los microespacios de los pueblos pequeños y las islas periféricas, enfrentan diferentes problemas de descuentos, logística, alquiler y población, pero todas responden a lo mismo: cómo un lugar permite que los libros y lectores menos visibles se encuentren. Este valor no puede sustituir al problema de los ingresos, pero explica por qué, después de los descuentos en internet y la lectura digital, aún hay personas dispuestas a apostar el alquiler del local, el tiempo y su vida en una estantería.
@@ -122,11 +122,11 @@ La cultura de las librerías independientes en Taiwán, por lo tanto, no es una 
 
 Cuando un libro se coloca en la estantería, el dueño ya ha hecho una elección por el lector. Después de que el lector entre, puede cambiar la librería con sus propias preguntas. Este vaivén convierte a la librería en la sala de estar de un lugar, no porque sea siempre silenciosa o siempre romántica, sino porque aún está dispuesta a dejar una silla para los extraños.
 
-## Lecturas complementarias
+## Lecturas adicionales
 
-- [Historia de la literatura en Taiwán](/es/art/history-of-taiwanese-literature): Comprender el contexto a largo plazo de la publicidad de la lectura desde los autores, obras y campos literarios.
-- [Cultura de la impresión tipográfica en Taiwán](/culture/台灣活版印刷文化): Rastrear cómo los libros, periódicos y el lenguaje público fueron fabricados específicamente por la tecnología de impresión.
-- [Gaceta Eclesiástica de Taiwán](/es/culture/taiwan-church-news): Comprender cómo la publicación temprana, el lenguaje y las organizaciones religiosas formaron conjuntamente la comunidad de lectores.
+- [Historia de la literatura de Taiwán](/es/art/history-of-taiwanese-literature): para comprender el trasfondo a largo plazo de la lectura como un acto público, a través de sus escritores, obras y entornos literarios.
+- [Cultura de la imprenta en Taiwán](/es/culture/taiwan-letterpress-printing): un seguimiento de cómo los libros, los periódicos y el lenguaje público fueron fabricados físicamente mediante la tecnología de impresión.
+- [Boletín de la Iglesia de Taiwán](/es/culture/taiwan-church-news): para entender cómo las primeras publicaciones, el lenguaje y las organizaciones religiosas formaron conjuntamente comunidades de lectores.
 
 ## Fuentes de referencia
 

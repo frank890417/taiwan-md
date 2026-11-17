@@ -36,7 +36,7 @@ sourceBodyHash: 'sha256:4edf7ea542f945d0'
 translatedAt: '2026-09-26T12:20:07.697790+00:00'
 ---
 
-## 30 秒概覽
+## Ringkasan 30 Detik
 
 **Tinjauan 30 Detik:** Badan Strategi Budaya didirikan pada 2019 sebagai badan hukum administrasi yang khusus menginvestasikan industri konten budaya, dan diamanatkan melaksanakan alokasi investasi sepuluh miliar yuan yang ditetapkan oleh Dana Pengembangan Nasional. Cara memberikan dananya berbeda dari subsidi Kementerian Budaya — investasi harus kembali. Hingga akhir 2024, badan ini telah menginvestasikan 5,737 miliar yuan atas nama Dana Pengembangan Nasional, ditambah dana swasta mencapai total 10,226 miliar yuan, dengan hampir tiga perempat dialokasikan ke penyiaran, televisi, dan film. Dalam tujuh tahun ini, badan ini telah berkembang dalam skala, namun juga meninggalkan empat gesekan yang berbentuk sama — tempat yang seharusnya dicatat tidak tercatat. Di kedua ujung garis ini adalah seorang ketua dewan direksi formal pertama yang mengundurkan diri setelah lima belas bulan, dan anggaran lebih dari seratus juta yuan yang dihapus pada Agustus 2026.
 

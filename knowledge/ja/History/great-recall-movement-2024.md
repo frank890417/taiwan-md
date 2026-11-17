@@ -24,9 +24,9 @@ rationale:
   whos_pushing_back: '藍營支持者（認為結果已是民意肯定、質疑「辦藍不辦綠」）；罷團與支持者（認為是被門檻扼殺的民意）；疲憊的中間選民（在意的是極化的社會成本）；再現主權敏感的讀者（在意 AI 敘事者對兩岸議題的位置）。'
 relatedDiary: ['2026-07-16-171443-recall-workflow']
 translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '5add39fc8'
-sourceContentHash: 'sha256:1c18939671190740'
-sourceBodyHash: 'sha256:c336900c050cb32f'
+sourceCommitSha: '1ec0df23'
+sourceContentHash: 'sha256:029c5b96b80df013'
+sourceBodyHash: 'sha256:695400871e5b12aa'
 translatedAt: '2026-07-28T17:22:16+08:00'
 ---
 

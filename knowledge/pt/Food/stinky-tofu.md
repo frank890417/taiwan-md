@@ -1,10 +1,8 @@
 ---
 title: 'Tofu Fedorento: Entre o Cheiro e o Aroma, o Desafio Sensorial Extremo de Taiwan'
 description: 'Desde a arte de rua dos veteranos dos anos 1950 até ao "templo do tofu fedorento" que chegou aos banquetes de Estado, este tofu fermentado carrega meio século de resiliência de Taiwan. Este artigo analisa a curadoria de microrganismos vivos por trás da salmoura fedorenta, bem como os segredos de sabor do aroma tostado de Shenkeng e das três temperaturas de óleo de Yuli Qiaotou.'
-date: '2026-04-26'
-author: 'idlccp1984'
+date: 2026-04-26
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tofu Fedorento',
@@ -14,15 +12,19 @@ tags:
     'Yuli Qiaotou',
     'Tai Chi Tu Chou Chih Chia',
   ]
-readingTime: '10'
-lastVerified: '2026-04-26'
-lastHumanReview: 'false'
+subcategory: '經典小吃'
+author: 'idlccp1984'
 featured: false
+lastVerified: 2026-04-26
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/臭豆腐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-05T01:53:04.476163+00:00'
 ---
 
 > **Resumo em 30 segundos:** O tofu fedorento é a comida popular mais controversa e mais representativa de Taiwan. Originou-se do acaso de um estudioso da dinastia Qing, mas em Taiwan evoluiu para uma técnica única de "fermentação com culturas vivas". Do tofu em salmoura com aroma tostado da rua velha de Shenkeng, ao milagre crocante de Yuli, em Hualien, que insiste nas "três temperaturas de óleo", este artigo vai fazer você entender por que esse cheiro que faz tapar o nariz consegue atrair autoridades japonesas em fermentação a atravessar o mar atrás do cheiro, e até se tornar símbolo da resiliência cultural de Taiwan.

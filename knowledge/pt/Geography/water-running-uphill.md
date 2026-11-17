@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-09T15:02:43+08:00'
+translatedAt: '2026-11-05T06:52:27.986222+00:00'
 ---
 
 > **Resumo em 30 segundos:** A "água que flui para cima" na aldeia Dulan, township de Donghe, condado de Taitung, é uma vala de irrigação com menos de meio metro de largura, mas é uma das mais famosas atrações "contra-intuitivas" de Taiwan. Medições de campo mostram que a vala na verdade inclina-se para baixo cerca de 0,5–0,6 graus, enquanto a estrada ao lado tem um ângulo de inclinação maior. As duas linhas de inclinação colocadas juntas fazem o cérebro tomar a estrada mais inclinada como plano de referência horizontal, de modo que a vala, menos inclinada, é lida como "fluindo para cima" — trata-se de uma ilusão do referencial visual do sistema visual, não de falha da gravidade ou do campo magnético. Este canal de irrigação foi originalmente escavado pelo povo Amis local; só após o boom do turismo doméstico nos anos 1980 é que foi oficializado com uma estela e empacotado como maravilha; nos últimos anos, ganhou nova rodada de discussão por ser eleito "a pior atração de todo Taiwan".

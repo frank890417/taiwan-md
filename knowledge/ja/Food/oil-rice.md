@@ -1,26 +1,22 @@
 ---
-translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9645370116faf0ce'
-sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-06-11T16:38:27Z'
-title: '油飯（ヨウファン）：「富の誇示」だった餅米が、命の重さを担う満月祝いの礼物になるまで'
-description: '2026年の台湾の街頭でも、一皿の油飯は多くの人が新しい命の誕生を祝う際の定番だ。漢人移民の伝統に根ざし、台湾で独自に甘辛が交差する「老舗の黄金比率」へと進化したこの料理は、餅米と赤玉ねぎ（紅蔥頭）を組み合わせて、台湾の家庭が人生の節目に贈る最も温かな祝福となった。'
-category: Food
-subcategory: '小吃'
-tags:
-  - '油飯'
-  - '彌月'
-  - '台湾小吃'
-  - '飲食文化'
-  - '糯米'
-  - '辦桌文化'
-author: 'Taiwan.md Contributors'
+title: '油飯：富の誇示だったもち米から、命の重みを担う満月祝いへ'
+description: '2026年の台湾の街角で、一杯の油飯は新生を祝う多くの人々の第一の選択肢であり続けています。この料理は漢人移民の伝統に由来し、台湾で塩味と甘味が織りなす「老饕（グルメ）比率」へと進化しました。もち米と紅葱頭（シャロット）を組み合わせ、台湾の家族にとって人生の転機における最も厚い祝福となっています。'
 date: 2026-04-28
-readingTime: 10
+category: 'Food'
+tags: ['油飯', '満月祝い', '台湾の屋台料理', '食文化', 'もち米', '宴席文化']
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/油飯.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:9645370116faf0ce'
+sourceBodyHash: 'sha256:e335b1f6c8cbb675'
+translatedAt: '2026-11-05T01:46:26.378855+00:00'
 ---
 
 > **30秒概覧：**

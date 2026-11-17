@@ -17,11 +17,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-09-23T04:15:47+08:00'
+translatedAt: '2026-11-05T09:52:17.652707+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Am 27. Juni 2015 um 20:32 Uhr verwandelte sich der „Color Play“ im Baxian Leisure Park in 신北市 (New Taipei City), nachdem ein Funkenflug von Maisstärkepulver ausgelöst wurde, augenblicklich in eine Feuerlandschaft. Dieser Unfall forderte 499 Verletzte und 15 Tote und war die schwerste einzelne Unfallsereignis mit Todesopfern in Taiwan seit dem Erdbeben von 921. Angesichts der großen Zahl schwer verbrannter Menschen gelang es den medizinischen Fachkräften Taiwans, durch eine „nationale Anstrengung“ einen „medizinischen Wunder“, bei dem die Sterblichkeitsrate nur 3 % betrug. Zehn Jahre später dauern die Rechtsstreitigkeiten an; der Weg zur Rehabilitation für die Überlebenden und Narben ist lang und mühsam, und der Baxian Leisure Park liegt seitdem verlassen da. Diese Wunde mahnt die taiwanesische Gesellschaft bis heute eindringlich an die Bedeutung der öffentlichen Sicherheit.

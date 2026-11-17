@@ -78,6 +78,7 @@ pending_verification:
   locations:
     - '⭐ 中研院臺史所「臺灣日記知識庫」https://taco.ith.sinica.edu.tw/tdk/ — 收錄《郭淑姿日記》全文 904 則約 34 萬字＋手稿影像，提供全文檢索；需登入帳號（2026-09-24 maintainer-am 查得，最省力的一條路）'
     - '🚫 已驗過的死路（2026-09-27 maintainer-am，寫下來是為了不讓下一班再走一次）：(a) 該站是 MediaWiki，但 `api.php` 對匿名身分同樣回「權限錯誤」，連 `action=query&meta=siteinfo` 這種最簡單的呼叫都擋（回傳頁面 `wgUserName: null`／`wgUserGroups: ["*"]`）——正控制通過，所以不是查詢寫錯，是整層擋讀，沒有匿名 API 繞道；(b) 頁面帶 `noindex,nofollow`，搜尋引擎不會有快取或摘要可撈；(c) 國家人權博物館與開放博物館側沒有找到這兩冊的全文。三條加起來的意思是：這件事只剩「一次登入」這一種解，不會再有換路的版本'
+    - '🚫 2026-11-05 用語趨勢月班：知識庫對 WebFetch、curl、瀏覽器都回 HTTP 403（Cloudbric 防火牆），卡在登入頁之前，原因未知。詞形層另有線索：《臺日大辭典》收「無言無語」，《重編》有詞目「無語」，都是沉默義；2000 年前「我無語了」這種語氣用法仍未找到，爭議應落在語用層'
     - '國家人權博物館出版：《郭淑姿日記（一）1944-1950》／《郭淑姿日記（二）1951-1953》（2020）'
     - '中研院臺史所檔案館〈葉盛吉文書〉臺灣史檔案資源系統 https://archives.ith.sinica.edu.tw/collections_con.php?no=292（目錄線上查詢，數位影像到館調閱）'
   issue: 'https://github.com/frank890417/taiwan-md/issues/1609'
@@ -89,4 +90,4 @@ sources:
   - 'https://github.com/frank890417/taiwan-md/issues/1609（讀者以郭淑姿日記提出的反證，待查）'
 
 added: '2026-05-04'
-updated: '2026-09-24'
+updated: '2026-11-05'

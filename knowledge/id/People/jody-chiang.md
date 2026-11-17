@@ -1,15 +1,15 @@
 ---
-title: 'Jody Chiang: Diva Lagu Taiwan yang Berasal dari Nakasi Beitou'
-description: 'Jody Chiang (nama asli Jiang Shu-hui, lahir tahun 1961 di Kaohsiung) pindah ke Taipei pada usia 9 tahun dan mulai bernyanyi di Nakasi Beitou. Album "Voices After Drinking" (1992) terjual 1,16 juta kopi di Taiwan, satu-satunya album lagu Taiwan yang melampaui angka satu juta dalam catatan resmi. Ia memenangkan Golden Melody Awards untuk Penyanyi Wanita Terbaik kategori bahasa daerah selama empat kali berturut-turut (2000–2003), pensiun pada 2015, dan kembali tampil pada perayaan Hari Nasional di Taipei Dome tahun 2024.'
+title: 'Jody Chiang: Penyanyi Hokkien dari Latar Belakang Nakasi Beitou'
+description: 'Jody Chiang (nama asli Jiang Shu-hui, lahir tahun 1961 di Kaohsiung) pindah ke Taipei bersama keluarganya pada usia 9 tahun dan mulai bernyanyi keliling di Nakasi Beitou. Pada tahun 1992, album "After Drinking" terjual sebanyak 1,16 juta kopi di Taiwan, menjadikannya satu-satunya album bahasa Hokkien yang melampaui angka satu juta dalam catatan resmi. Ia memenangkan penghargaan Penyanyi Wanita Terbaik Bahasa Hokkien di Golden Melody Awards selama empat periode berturut-turut dari tahun 2000 hingga 2003, memutuskan untuk pensiun pada tahun 2015, dan melakukan debut kembali pada perayaan Hari Nasional di Taipei Dome tahun 2024.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
     'Jody Chiang',
-    'musik populer Taiwan',
+    'Musik Pop Hokkien',
     'Golden Melody Awards',
     'Nakasi Beitou',
-    'budaya Taiwan',
+    'Budaya Taiwan',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T08:42:20+08:00'
+translatedAt: '2026-11-02T03:32:05.049168+00:00'
 ---
 
 # Jody Chiang: Berasal dari Nakasi Beitou, Menyanyikan Satu-satunya Album Lagu Taiwan dengan Penjualan Jutaan Kopi

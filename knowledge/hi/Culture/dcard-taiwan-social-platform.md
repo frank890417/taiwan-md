@@ -1,10 +1,8 @@
 ---
 title: 'Dcard'
 description: 'एक ताइनान के लड़के ने ताइपे विश्वविद्यालय के छात्रावास में खुद के लिए दोस्त बनाना आसान बनाने के लिए एक वेबसाइट लिखी, जो ताइवान के युवाओं का सबसे प्रभावशाली सोशल प्लेटफॉर्म बन गई, और फिर एक तरफ बढ़ती रही, दूसरी तरफ "क्या Dcard का पतन होने वाला है" के सवाल का सामना करती रही।'
-date: '2026-04-05'
-author: 'Taiwan.md'
+date: 2026-04-05
 category: 'Culture'
-subcategory: '網路與數位文化'
 tags:
   [
     'सोशल मीडिया',
@@ -15,15 +13,19 @@ tags:
     'विश्वविद्यालय',
     'प्रौद्योगिकी',
   ]
-readingTime: '8'
-lastVerified: '2026-04-05'
-lastHumanReview: 'false'
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-07-25T00:12:07+08:00'
+translatedAt: '2026-11-05T04:46:35.556382+00:00'
 ---
 
 # Dcard

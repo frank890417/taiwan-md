@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:38+08:00'
+translatedAt: '2026-11-04T15:28:01.781336+00:00'
 ---
 
 > **30秒概要：** 1987年、7人のエンジニアが200万台湾ドルを投じて新竹科学園区にRealtek（瑞昱半導体）を設立。カニを商標とし、1991年には台湾初の自主開発ネットワークチップを発表しました。2024年の連結売上高は約1,134億台湾ドルに達し、台湾第3位のIC設計会社として、世界中のあらゆるコンピュータの中に「Realtekのカニ」が潜んでいるといっても過言ではありません。
@@ -96,19 +98,19 @@ Realtekの証券コードは2379で、1998年に台湾証券取引所に上場�
 
 1987年に7人のエンジニアによって設立されたRealtekは、37年を経てそのチップが世界中の数億台もの端末に組み込まれるに至りました。これは、台湾のIC設計産業が受託製造時代から自主開発へと歩んだ道のりを象徴する具体的な事例の一つです。
 
-## 参考文献
-
-[^1]: [Realtek（瑞昱半導体）2024年度年次報告書](https://www.realtek.com/InvestorRelations/AnnualReports) — 2024年の連結売上高が約1,134億台湾ドル（前年比19.1%増）であること、および7人の創設者が1987年10月21日に設立したことを確認。
-
-[^2]: [公開情報観測站：Realtek（瑞昱半導体）](https://mops.twse.com.tw/) — 証券コード2379の上場基本データ、歴年の財務報告。
-
-[^3]: [台湾証券取引所：2379 Realtek](https://www.twse.com.tw/) — 証券コード2379、1998年上場、邱順建氏が現職の董事長であることを確認。
-
-[^4]: [Realtek公式サイト 製品ラインナップ](https://www.realtek.com/) — WiFi 6/7チップ製品ラインナップの説明。
-
-[^5]: [科技新報：Realtek（瑞昱半導体）の歩み](https://technews.tw/) — ネットワークチップからマルチメディアICへと拡大したRealtekの産業的背景に関する報道。
+## 参考資料
 
 **関連記事**
 
-- [科技新報：Realtek（瑞昱半導体）の発展プロセス](https://technews.tw/)
+- [TechNews：瑞昱半導體の発展歴史](https://technews.tw/)
 - [電子時報：台湾IC設計産業レポート](https://www.digitimes.com.tw/)
+
+[^1]: [瑞昱半導體2024年度報告｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — 2024年通期の連結売上高が約NT$1,134億（前年比19.1%増）であることを確認；7人の創業者が1987年10月21日に設立。
+
+[^2]: [公開情報観測站：瑞昱半導體](https://mops.twse.com.tw/) — 2379上場の基本情報、歴年財務報告。
+
+[^3]: [台湾証券取引所：2379瑞昱](https://www.twse.com.tw/) — 証券コード2379、1998年上場、邱順建が現任会長であることを確認。
+
+[^4]: [瑞昱公式サイト製品ライン](https://www.realtek.com/) — Wi-Fi 6/7チップ製品ラインの説明。
+
+[^5]: [TechNews：瑞昱半導體の歴史](https://technews.tw/) — 瑞昱半導體がネットワークチップからスタートし、マルチメディアICへ拡大した産業背景の報道。

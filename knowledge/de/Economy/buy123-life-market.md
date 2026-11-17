@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-14T00:53:36+08:00'
+translatedAt: '2026-11-04T21:51:05.926623+00:00'
 ---
 
 2013 wurde Life Market gegründet und wurde eine E-Commerce-Plattform unter dem Dach von Startup Digital Limited. Bis 2020 hatte das Unternehmen nicht nur Haushaltswaren im Sortiment, sondern auch Elektronik und Lebensmittel, was etwa 30–40 % des Gesamtumsatzes ausmachte. Am 12. Oktober 2023 erweiterte es seine Regale um den internationalen Versand mit der Einführung des „Overseas Direct Send“-Dienstleistungsangebots.[^1] [^2] [^7]

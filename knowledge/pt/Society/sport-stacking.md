@@ -1,28 +1,28 @@
 ---
-title: "Empilhamento Esportivo: dos 1,915 Segundos do 'Hit' Viral às 43 Medalhas de Ouro que Varrem a Ásia"
-description: "Em 2025, a seleção de Taiwan conquistou 43 ouros e quebrou 7 recordes mundiais no Campeonato Asiático de Dalian, transformando um esporte antes ridicularizado como 'empilhar copos com furos' na modalidade mais dominante do país. De Lin Meng-hsin à jovem seediq Sama Basaw, o empilhamento esportivo taiwanês não apenas persegue o limite de 0,001 segundo, mas também empilha novas alturas sociais na reabilitação de educação especial e na educação inclusiva."
+title: 'Sport Stacking: de "item da moda" em leilão online de 1,915 segundos às 43 medalhas de ouro que varreram a Ásia'
+description: 'A equipe de Taiwan conquistou 43 ouros e quebrou 7 recordes mundiais na Copa da Ásia de Dalian em 2025, fazendo com que este esporte, outrora ridicularizado como "empilhar copos com furos", se tornasse o esporte competitivo mais dominante de Taiwan. De Lin Meng-xin à jovem seediq Sama Basaw, o Sport Stacking de Taiwan não busca apenas o limite de 0,001 segundo, mas também alcança novas alturas sociais na reabilitação de educação especial e na educação inclusiva.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
-    'Empilhamento Esportivo',
-    'Lin Meng-hsin',
+    'Sport Stacking',
+    'Lin Meng-xin',
     'Sama Basaw',
     'Recordes Mundiais',
     'Educação Inclusiva',
     'Inclusão Social',
   ]
-readingTime: 10
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-02T02:13:52.949205+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

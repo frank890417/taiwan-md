@@ -3,22 +3,20 @@ title: 'Mitos de los pueblos indígenas de Taiwán: de la inundación a la epope
 description: 'Los mitos de los pueblos indígenas de Taiwán no son solo historias antiguas, sino fósiles vivos de la memoria y la transmisión cultural de los grupos, que cargan la sabiduría y la visión de la vida en coexistencia con la naturaleza.'
 date: 2026-04-17
 category: 'Culture'
-tags:
-  - 'Indígenas'
-  - 'Mitos'
-  - 'Literatura oral'
-  - 'Cultura de Taiwán'
+tags: ['Indígenas', 'Mitos', 'Literatura oral', 'Cultura de Taiwán']
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-05T07:15:54.588050+00:00'
 ---
 
 > **Resumen de 30 segundos:** Taiwán no es solo una isla geográficamente diversa, sino también un tesoro de mitos culturales. Desde la creación de la grieta de piedra de los atayal, pasando por la leyenda del sol disparado de los bunong, hasta la gran inundación y el matrimonio entre hermanos de los amí, estas epopeyas orales no solo moldearon la cosmovisión de cada grupo, sino que también reflejaron su profunda interacción y sabiduría de adaptación al entorno natural. Estos mitos son la clave indispensable para comprender la cultura indígena de Taiwán.

@@ -1,21 +1,23 @@
 ---
 title: 'Códigos da oralidade taiwanesa: de "desculpe" a "D lido como porco", como quatro expressões cotidianas geram identidade'
 description: 'Em Taiwan, "desculpe" pode anteceder um pedido de desculpas genuíno; "hã?" parece não entender, mas é um reparo conversacional presente em várias línguas; @ é chamado de "ratinho", e D, na troca de provas, é lido como "porco/Zhu". Quatro expressões guardam cortesia, mal-entendido, e-mail e fonologia do taiwanês no cotidiano, lembrando-nos: o chamado "sotaque de Taiwan" não é apenas um conjunto de pronúncias, mas um método de reconhecimento deixado por quem vive junto.'
+date: 2026-08-20
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   ['Mandarin de Taiwan', 'pragmática', 'taiwanês', 'e-mail', 'cultura escolar']
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-05T18:02:13.554147+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em Taiwan, uma frase "desculpe" não significa necessariamente um erro grave; pode ser apenas para passar, iniciar uma conversa ou aproximar o diálogo. Um estudo de 2022 com 90 estudantes da NTU descobriu que ela aparece mais que "sinto muito" em situações de gravidade geral ou baixa.[^1] Um "hã?" também não é som exclusivo de Taiwan, mas a frase curta que humanos usam para iniciar reparo quando não ouvem claro. Taiwan ainda chama @ de "ratinho", e D, na troca de provas, de "porco/Zhu".[^2] [^3] [^4] Estas quatro expressões apontam juntas para uma coisa: a linguagem não só transmite conteúdo, também ajuda as pessoas a gerenciar distância, reconhecer companheiros, encurtar o tempo de explicação.
@@ -52,25 +54,27 @@ Esta descoberta torna "蛤" mais interessante. Não é senha misteriosa exclusiv
 
 "蛤" também lembra que cultura oral não se encontra só no dicionário. Dicionários registram som-padrão e sentido da palavra; a interação faz um caractere crescer novo ofício. Quando "蛤" aparece no início da frase, seu fazer pode estar mais perto de um botão: aperta-se, e o outro precisa remontar o que disse.
 
-## @ vira "ratinho", e o símbolo técnico entra na sala de aula
+## @ vira «pequeno rato», e o símbolo técnico entra na sala de aula
 
-![SVG do símbolo @ em domínio público, simbolizando como o símbolo técnico ganhou o nome "ratinho" em Taiwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![SVG do símbolo @ em domínio público, simbolizando como os símbolos técnicos ganharam o nome «pequeno rato» em Taiwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-_Fonte da imagem: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Domínio público. Imagem apenas incorporada via URL externa._
+_Fonte da imagem: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), domínio público. A imagem é incorporada apenas via URL externa._
 
-No formato de e-mail do RFC 5322, o trabalho do @ é preciso. Ele separa o _local-part_ do _Internet domain_; a parte anterior pertence à conta, a posterior ao domínio. O documento padrão chama-o de _at-sign_ e o define como valor ASCII 64.[^4]
+No formato de e-mail do RFC 5322, o trabalho do @ é preciso. Ele separa o local-part do Internet domain; a parte anterior pertence à conta, a posterior ao domínio. O documento padrão chama-o de at-sign e o define como valor ASCII 64.[^4]
 
-Engenheiros precisam de um separador. Crianças na escola precisam de algo memorável. Quando a BBC Chinese compilou como diferentes línguas chamam @, listou o "ratinho" de Taiwan, o "A circulado" (圈 A) da China continental, o caracol da Itália, o patinho da Grécia, entre outros. A função técnica do símbolo é a mesma; a memória cultural deu a cada um uma forma.[^5]
+Engenheiros precisam de um separador. Crianças na escola precisam de algo que possam memorizar. Ao compilar como diferentes línguas chamam o @, a BBC Chinese listou o «pequeno rato» de Taiwan, o «A cercado» da China continental, bem como o caracol da Itália, o patinho da Grécia, entre outros. A função técnica do símbolo é a mesma, mas a memória cultural deu a cada um uma forma própria.[^5]
 
-Ray Tomlinson colocou @ no formato de endereço de e-mail em rede em 1971, tornando este símbolo, antes raro em textos comuns, a ponte entre conta e domínio.[^5] [^6] Taiwaneses depois o chamaram "ratinho", não para alterar o RFC, nem adicionar padrão formal ao símbolo. É um método pedagógico que traduz ferramenta abstrata em animal do cotidiano.
+Em 1971, Ray Tomlinson colocou o @ no formato de endereço de e-mail em rede, fazendo com que este símbolo, antes raro em textos comuns, se tornasse a ponte entre conta e domínio.[^5] [^6]
 
-![Configuração de zhuyin e letras latinas no teclado de Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+Taiwaneses passaram a chamá-lo de «pequeno rato», não para alterar o RFC, nem para adicionar um padrão formal ao símbolo. É um método pedagógico que traduz uma ferramenta abstrata em um animal do cotidiano.
 
-_Fonte da imagem: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), autor Zhongzheng North Road 711 (中正北路711), licença CC BY-SA 3.0. Imagem apenas incorporada via URL externa; uso deve preservar atribuição e link da licença._
+![Disposição do zhuyin e letras latinas no teclado de Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-O interessante do "ratinho" é que preserva o tato da educação computacional inicial. Crianças não precisam primeiro entender domínio, conta e protocolo de rede; basta lembrar daquele círculo que parece rato para achá-lo no teclado. O primeiro passo da técnica na vida costuma não ser entender o sistema todo, mas dar ao símbolo estranho um nome que se possa apontar.
+_Fonte da imagem: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), autor Zhongzheng North Road 711, licença CC BY-SA 3.0. A imagem é incorporada apenas via URL externa; ao usar, deve-se manter a atribuição e o link da licença._
 
-Este nome também marca diferença geracional. Quem conheceu o ensino inicial de e-mail diz "mande pro ratinho" e o colega acha @ na hora. Quem chegou à rede depois costuma dizer _at_, ou ler o endereço inteiro. Ambas cumprem a tarefa, mas a primeira carrega uma memória de aulas de informática em escolas e lares de Taiwan.
+O interessante do «pequeno rato» é que ele preserva a sensação tátil da educação computacional inicial. A criança não precisa entender primeiro domínio, conta e protocolo de rede; basta lembrar daquele círculo que parece um rato para encontrá-lo no teclado. O primeiro passo da tecnologia na vida costuma não ser compreender todo o sistema, mas dar um nome reconhecível a um símbolo estranho.
+
+Esse nome também deixa uma diferença geracional. Quem conheceu o ensino inicial de e-mail diz «mande para o pequeno rato» e o colega encontra o @ na hora. Quem chegou à rede mais tarde costuma dizer at, ou soletrar o endereço inteiro. Ambas as formas cumprem a tarefa, mas a primeira carrega uma memória das aulas de informática nas escolas e lares de Taiwan.
 
 ## Por que D vira "porco" ou "Zhu"
 
@@ -102,26 +106,26 @@ O senso de identidade da oralidade taiwanesa não vem só de vocabulário único
 
 ## Referências
 
-[^1]: [Estudo sobre o uso e percepção de gravidade das expressões de desculpas comuns em Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tese de mestrado da Universidade Nacional de Taiwan 2022, usa 90 questionários de estudantes da NTU para analisar a escolha entre "sinto muito" (對不起), "desculpe" (抱歉) e "desculpe" (不好意思) em diferentes contextos sociais.
+[^1]: [Estudo sobre o uso e a percepção de gravidade de expressões de desculpas comuns em Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tese de mestrado da Universidade Nacional de Taiwan de 2022, que analisa a escolha entre '對不起' (duìbuqǐ), '抱歉' (bàoqiàn) e '不好意思' (bùhǎoyìsi) em diferentes contextos sociais por meio de questionários aplicados a 90 estudantes da NTU.
 
-[^2]: [Dicionário Revisado de Mandarim do Ministério da Educação: 蛤](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Página oficial do dicionário do Ministério, inclui as leituras em zhuyin ㄍㄜˊ, ㄏㄚˊ e sentidos padrão como vôngole, vôngole-japonês, sapo, servindo para distinguir forma gráfica e uso oral neste artigo.
+[^2]: [Ministério da Educação 'Dicionário de Mandarim Revisado': 蛤 (gé/há)](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Página oficial do dicionário do Ministério da Educação, que inclui a pronúncia bopomofo ㄍㄜˊ, ㄏㄚˊ e os significados padrão de 蛤蜊 (géli), 文蛤 (wéngé), 蛤蟆 (hámá) para o caractere 蛤, servindo para distinguir a forma escrita do uso coloquial neste artigo.
 
-[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Estudo translinguístico da PLOS ONE, analisa a forma e função de huh? como iniciador de reparo conversacional, alertando leitores para não tratar "蛤" como fenômeno exclusivo de Taiwan.
+[^3]: [“Huh?” é uma palavra universal?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Estudo translinguístico da PLOS ONE que analisa a forma e a função de 'huh?' como iniciador de reparo conversacional, alertando os leitores para não tratarem '蛤' como um fenômeno exclusivo de Taiwan.
 
-[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — Padrão de formato de e-mail do IETF, seção 3.4.1 define o papel técnico do @ em separar local-part e Internet domain no addr-spec.
+[^4]: [RFC 5322: Formato de Mensagem de Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Padrão de formato de e-mail da IETF, a seção 3.4.1 define o papel técnico do @ em addr-spec na separação do local-part do domínio de Internet.
 
-[^5]: [BBC Chinese: Como diferentes línguas chamam o símbolo "@"?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Reportagem da BBC Future em chinês, compila o "ratinho" de Taiwan e as denominações por animal ou forma mundo afora, também introduz a história da entrada do símbolo no e-mail.
+[^5]: [BBC Chinês: Como diferentes idiomas chamam o símbolo '@'?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Reportagem da BBC Future em chinês que compila as diferenças culturais: Taiwan chama de 'pequeno rato' (小老鼠) e várias partes do mundo usam nomes de animais ou formas para o @, além de apresentar a história da entrada do símbolo no e-mail.
 
-[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Perfil oficial no Internet Hall of Fame, registra a contribuição de Ray Tomlinson ao e-mail em rede e aos padrões iniciais de correio.
+[^6]: [Raymond Tomlinson — Hall da Fama da Internet](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Perfil oficial no Hall da Fama da Internet, registrando as contribuições de Ray Tomlinson para o e-mail em rede e os primeiros padrões de e-mail.
 
-[^7]: [Dicionário de Palavras Comuns do Taiwanês do Ministério da Educação: 豬](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Dicionário oficial taiwanês do Ministério, lista "porco" (豬) como _ti_/_tu_, base linguística para a proximidade fonética com D.
+[^7]: [Ministério da Educação - Dicionário de Palavras Comuns do Taiwanês: 豬 (ti/tu)](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Dicionário oficial de taiwanês do Ministério da Educação, que lista '豬' como ti/tu, fornecendo a base linguística para a proximidade fonética com 'D'.
 
-[^8]: [SETN: Como estrangeiros leem a resposta D? Definitivamente não "porco"](https://www.setn.com/news/868195) — Notícia de 2020 compilando discussões do PTT e trocas de correção em campi, usada aqui apenas para apoiar uso e circulação parciais, não generalizada a padrão de toda Taiwan.
+[^8]: [SETN: Como estrangeiros pronunciam D nas respostas? Definitivamente não é 'porco'](https://www.setn.com/news/868195) — Notícia de 2020 que compila discussões online no PTT e em campi sobre troca e correção de provas; este artigo a utiliza apenas para apoiar o uso e a circulação parciais, não a generalizando como padrão unificado em toda Taiwan.
 
-[^9]: [Rede Chinesa Global: ABC cão morde porco](https://biweekly.huayuworld.org/Material/372/Text) — Material didático de cantiga clássica da Comissão de Assuntos de Chineses no Exterior da República da China (Taiwan), inclui texto completo da cantiga taiwanesa com marcação de taiwanês, fornece contexto de material original da transmissão oral escolar.
+[^9]: [Global Chinese Network: ABC Cachorro Morde Porco](https://biweekly.huayuworld.org/Material/372/Text) — Material didático clássico de cantigas de roda da Comissão de Assuntos de Chineses no Exterior da República da China, contendo o texto completo da cantiga taiwanesa com marcação em taiwanês, fornecendo o contexto do material original transmitido oralmente nas escolas.
 
-[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artigo existente do Taiwan.md sobre rimas escolares, já compilou "ABC Dog Bites Pig" e transmissão transgeracional; este texto evita repetição focando na função de identificação de respostas do D.
+[^10]: [Taiwan.md: Cantigas de Pátio Escolar de Taiwan](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artigo existente do Taiwan.md sobre cantigas de pátio escolar, que já organizou 'ABC Dog Bites Pig' e a transmissão intergeracional; este artigo evita a repetição focando na função de identificação de respostas com 'D'.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Página do arquivo SVG do símbolo @ em domínio público, artigo incorpora via URL direta `upload.wikimedia.org`, sem baixar imagem.
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Página do arquivo SVG do símbolo @ em domínio público; o artigo o incorpora via hotlink de `upload.wikimedia.org`, sem baixar a imagem.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Página do arquivo de imagem do teclado de Taiwan, fornecido por Zhongzheng North Road 711 (中正北路711), sob Creative Commons Attribution-ShareAlike 3.0, uso deve preservar atribuição e link da licença.
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Página do arquivo de imagem do teclado de Taiwan, fornecido por 中正北路711, sob licença Creative Commons Attribution-ShareAlike 3.0; ao usar, deve-se manter a atribuição e o link da licença.

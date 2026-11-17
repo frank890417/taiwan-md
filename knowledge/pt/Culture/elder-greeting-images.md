@@ -1,10 +1,8 @@
 ---
 title: 'Imagens de saudação dos mais velhos: a ternura digital e o campo de batalha da informação por trás do lótus e do Buda'
 description: 'As imagens de saudação dos mais velhos não são apenas a prova de que os idosos de Taiwan superaram a brecha digital, mas também servem como veículo de troca emocional nas plataformas sociais; contudo, seu formato único tornou-se um berço para a disseminação de desinformação e, nas gerações mais jovens, evoluiu para uma cultura de memes única.'
-date: '2026-04-18'
-author: 'Taiwan.md Contributors'
+date: 2026-04-18
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     'imagens de saudação dos mais velhos',
@@ -15,15 +13,19 @@ tags:
     'desinformação',
     'memes',
   ]
-readingTime: '10'
-lastVerified: '2026-04-18'
-lastHumanReview: 'false'
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-18
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-05T06:36:44.323111+00:00'
 ---
 
 > **Resumo em 30 segundos:**

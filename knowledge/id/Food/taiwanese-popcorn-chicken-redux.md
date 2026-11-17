@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-06-26
 lastHumanReview: true
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a5'
-sourceContentHash: 'sha256:ff821213812f38cb'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
 sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-07-28T18:52:01+08:00'
+translatedAt: '2026-11-04T14:16:28.825407+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Ayam goreng garam adalah makanan ringan gorengan rakyat paling representatif Taiwan. Tahun 1975 Chen Ting-chih membuka gerobak pertamanya di Ximending Taipei, menggoreng potongan ayam dengan bumbu khusus lalu menaburi garam lada dan kemangi, langsung laris manis[^1]. Lima puluh tahun kemudian, gerobak ayam goreng garam tersebar di setiap tikungan, pasar malam, dan kompleks perumahan di seluruh Taiwan, CNN dua kali memilihnya masuk daftar "Makanan yang Taiwan Tidak Bisa Tanpanya"[^2], namun keunikan paling menonjolnya bukan rasanya—melainkan keberadaannya sebagai "infrastruktur tengah malam": tidak butuh toko, tidak butuh papan nama, satu gerobak, satu wajan minyak, segenggam kemangi sudah bisa buka usaha.
@@ -91,9 +91,10 @@ Lima puluh tahun lalu, Chen Ting-chih mungkin nggak sangka, gerobak mantan bos r
 
 ## Bacaan Lanjutan
 
-- [Budaya Pasar Malam](/id/food/night-market-culture) — Ruang sirkulasi utama ayam goreng garam, panggung inti ekosistem makan malam khas Taiwan
-- [Budaya Sarapan Taiwan](/id/food/taiwan-breakfast-culture) — Dari pagi buta sampai malam larut, perbandingan dua periode makan penting Taiwan
-- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Gerobak ayam goreng garam bersama minimarket bersama-sama bentuk lanskap makan 24 jam Taiwan
+- [Budaya Pasar Malam](/id/food/night-market-culture) — Tempat utama peredaran ayam goreng garam, panggung inti dari ekosistem camilan malam khas Taiwan
+- [Budaya Sarapan Taiwan](/id/food/taiwan-breakfast-culture) — Perbandingan dua waktu makan penting di Taiwan, dari dini hari hingga larut malam
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Kedai ayam goreng garam dan minimarket bersama-sama membentuk lanskap kuliner 24 jam di Taiwan
+- [Bola Ubi (Di Gua Qiu)](/id/food/sweet-potato-balls) — Wajan minyak lainnya di jalan pasar malam yang sama: tekstur kopong pada bola ubi dibuat oleh pedagang dengan menekan adonan satu per satu menggunakan saringan berlubang
 
 ## Referensi
 

@@ -1,20 +1,31 @@
 ---
 title: '거제목장의 소 19마리: 원흥우에서 타이난 쇠고기탕까지, 한 섬의 육우 돌파 이야기'
 description: '대만의 쇠고기 자급률은 4.6%에 불과하지만, 2024년 전국 최초의 민간 공인 소 품종이 탄생했다. 원흥우의 이야기는 94세 노인과 야생 흑소 19마리, 그리고 새벽에 내오는 온도 높은 국물이 함께 써내려간 산업 돌파의 시나리오다.'
+date: 2026-03-25
 category: 'History'
-tags: [원흥우, 타이난 쇠고기탕, 온체우, 축산업, 대만 농업, 리덩후이, 육우 산업]
+tags:
+  [
+    '원흥우',
+    '타이난 쇠고기탕',
+    '온체우',
+    '축산업',
+    '대만 농업',
+    '리덩후이',
+    '육우 산업',
+  ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
-date: 2026-03-25
-readingTime: 9
 featured: false
 lastVerified: 2026-03-25
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
-translatedAt: '2026-04-14T05:29:27+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-05T05:14:54.099942+00:00'
 ---
 
 > **30초 요약:** 대만의 쇠고기 시장은 95% 이상이 수입산이다. 땅이 좁고 인구가 밀집해 있어 넓은 목초지도 없고 정부의 명확한 육우 정책도 없다. 그런데 2024년, 대만 최초로 민간이 육성하고 정부가 공인한 토종 소 품종 '원흥우'가 탄생했다. 그 출발점은 1933년 일본에서 배를 타고 건너온 다지마 소 한 무리였고, 종착점은 도축 후 6~8시간 안에 상에 올려야 하는 타이난 쇠고기탕 한 그릇이었다. 이것은 산업이 성장한 이야기가 아니라, 구조적 열세 속에서 틈새를 찾아낸 이야기다.

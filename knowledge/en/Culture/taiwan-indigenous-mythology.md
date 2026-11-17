@@ -1,19 +1,22 @@
 ---
 title: 'Taiwan Indigenous Mythology: Oral Epics from the Flood to the Creation'
 description: "Taiwan's indigenous mythology is not merely ancient story — it is a living fossil of ethnic memory and cultural transmission, carrying the wisdom and worldview of peoples living in harmony with nature."
-category: Culture
-tags: ['indigenous peoples', 'mythology', 'oral literature', 'Taiwan culture']
-author: 'Taiwan.md Contributors'
 date: 2026-04-17
-readingTime: 8
+category: 'Culture'
+tags: ['indigenous peoples', 'mythology', 'oral literature', 'Taiwan culture']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: Culture/原住民神話.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/原住民神話.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-06-11T16:38:12Z'
+translatedAt: '2026-11-05T08:23:55.126145+00:00'
 ---
 
 > **30-Second Overview:** Taiwan, an island of geographic diversity, is also a treasury of cultural mythology. From the Atayal's rock-splitting creation to the Bunun's legend of shooting the sun, from the Amis's great flood and sibling marriage to the Atayal's flood sacrifice — these oral epics not only shaped each ethnic group's cosmology but reflect their profound interactions with and adaptive wisdom toward the natural environment. These myths are indispensable keys to understanding Taiwan's indigenous cultures.

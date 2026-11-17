@@ -2,18 +2,21 @@
 title: '타이완 훠궈: 한 냄비에 담긴 섬의 미각 진화사'
 description: '식민지 시대의 문명적 상징에서 오늘날의 국민 음식에 이르기까지, 타이완 훠궈는 단순한 미각의 변화가 아니라 사회 변천과 민족 융합의 축소판이다.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags: ['훠궈', '타이완 요리', '사차 장', '식문화']
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Food/台灣火鍋.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/台灣火鍋.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-05T04:50:12.452167+00:00'
 ---
 
 > **30초 개요:** 타이완 훠궈 시장의 연간 생산액은 수백억에 달하며, 겨울철 몸을 데우는 국민 음식일 뿐 아니라 사계절 내내 즐기는 식문화이기도 하다. 일제강점기의 「스키야키(鋤燒)」에서 전쟁 후 각지 이민자들이 가져온 다양한 훠궈 요리, 그리고 오늘날의 1인용 미니 훠궄와 프리미엄 훠궈에 이르기까지, 타이완 훠궈의 진화사는 이 섬의 사회 변천과 민족 융합을 비추며, 궁극적으로 유무일한 「타이완 맛」을 빚어냈다.
@@ -62,20 +65,20 @@ featured: false
 
 ## 참고 문헌
 
-[^1]: CParty. (2025). 《클래식 야식 도감｜타이완 백년 훠궈 변천》. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^1]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). 《클래식 야식 도감｜타이완 백년 훠궈 변천》
 
-[^2]: orstyle.net. (2025). 《이 냄비는 어떻게 「타이완식」이 되었는가? 훠궈의 섬의 느린 발효 경로》. [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/)
+[^2]: [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/) — orstyle.net. (2025). 《이 냄비는 어떻게 「타이완식」이 되었는가? 훠궈의 섬의 느린 발효 경로》
 
-[^3]: VERSE. (2022). 《어부(魚夫): 웨이루에서 훠궈 이야기를 하자!》. [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu)
+[^3]: [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu) — VERSE. (2022). 《어부(魚夫): 웨이루에서 훠궈 이야기를 하자!》
 
-[^4]: 명인당(鳴人堂). (2020). 《사차 장은 원래 「외래품」? 타이완 사차 장의 전생과 현생》. [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
+[^4]: [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026) — 명인당(鳴人堂). (2020). 《사차 장은 원래 「외래품」? 타이완 사차 장의 전생과 현생》
 
-[^5]: 타이완 광화잡지(台灣光華雜誌). (미상). 《타이완 사차 이민의 궤적을 기록한 다채로운 맛》. [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
+[^5]: [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2) — 타이완 광화잡지(台灣光華雜誌). (미상). 《타이완 사차 이민의 궤적을 기록한 다채로운 맛》
 
-[^6]: 상보 Up Media. (2021). 《반세기 이상 운영된 「제일 훠궈(帝一火鍋)」가 역사 속으로!》. [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
+[^6]: [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834) — 상보 Up Media. (2021). 《반세기 이상 운영된 「제일 훠궈(帝一火鍋)」가 역사 속으로!》
 
-[^7]: Every Little D. (미상). 《민국 68년, 타이베이 최초의 마라 훠궈점 「닝지(寧記)」》. [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
+[^7]: [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/) — Every Little D. (미상). 《민국 68년, 타이베이 최초의 마라 훠궈점 「닝지(寧記)」》
 
-[^8]: 양도 미식망(楊桃美食網). (미상). 《쓰촌(四川)에서 온 서민 특산물─마라 훠궈》. [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
+[^8]: [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl) — 양도 미식망(楊桃美食網). (미상). 《쓰촌(四川)에서 온 서민 특산물─마라 훠궈》
 
-[^9]: CParty. (2025). 《클래식 야식 도감｜타이완 백년 훠궈 변천》. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^9]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). 《클래식 야식 도감｜타이완 백년 훠궈 변천》

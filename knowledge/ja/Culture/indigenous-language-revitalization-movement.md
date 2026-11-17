@@ -2,19 +2,21 @@
 title: '台湾原住民言語の復興運動'
 description: '台湾の邵族（Thao）にはたった4人の母語話者が残されているにもかかわらず、世界でも最も密度の高い言語復興実験の一つが生まれている。2017年の「原住民族語言発展法」からデジタル族語プラットフォームまで、静かなる救出作戦が加速している。'
 date: 2026-03-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '語言與文字'
 tags: ['原住民族', '言語復興', '族語教育', '言語政策', '文化継承']
-readingTime: 8
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/台灣原住民語言復振運動.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/台灣原住民語言復振運動.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-11-05T06:03:52.871684+00:00'
 ---
 
 # 台湾原住民言語の復興運動

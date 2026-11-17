@@ -2,9 +2,7 @@
 title: 'Битва за мусоросжигатель в Миньцзяне: когда 300 тысяч тонн «мусорного долга» сталкивается с линией выживания чайного края стоимостью 100 миллиардов'
 description: 'К концу 2024 года накопленный мусор в округе Наньтоу превысил 310 тысяч тонн, вызвав кризис «осады мусором». Глава округа Сю Шухуа планирует построить в деревне Синьминь сиана Миньцзян мусоросжигатель на 500 тонн в сутки, что вызвало коллективный протест более 250 экспертов. Это битва за выживание, затрагивающая специальный сельскохозяйственный район, место обитания жёлтокрайной коробчатой черепахи и крупнейшую в Тайване цепочку поставок чая для хендшейк-напитков.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'Наньтоу',
@@ -15,15 +13,19 @@ tags:
     'проблема мусора',
     'Сю Шухуа',
   ]
-readingTime: 15
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-07-25T21:33:50+08:00'
+translatedAt: '2026-11-04T18:56:59.151225+00:00'
 ---
 
 > **Обзор за 30 секунд:**

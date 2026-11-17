@@ -2,27 +2,31 @@
 title: 'Continentais: da juventude sequestrada à identificação com a terra sob os pés dos taiwaneses'
 description: 'Em 1949, mais de um milhão de pessoas carregando trauma e saudade cruzaram o mar para Taiwan. Eram simultaneamente um grupo de alto risco de «criminosos políticos» suspeitos pelo governo autoritário, e «refugiados de guerra» capturados à força e privados da sua terra natal. Este artigo revela como o grupo dos continentais, através de quatro traumas psicológicos, completou a migração da alma de «exilados» para «assentados».'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
-  - 'continentais'
-  - 'identidade étnica'
-  - 'refugiados de guerra'
-  - '1949'
-  - 'The Reporter'
-  - 'história de Taiwan'
-  - 'literatura de vilas militares'
-  - 'compatriotas de Dachen'
-readingTime: 8
+  [
+    'continentais',
+    'identidade étnica',
+    'refugiados de guerra',
+    '1949',
+    'The Reporter',
+    'história de Taiwan',
+    'literatura de vilas militares',
+    'compatriotas de Dachen',
+  ]
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-04T18:56:42.640296+00:00'
 ---
 
 > **Resumo em 30 segundos:**

@@ -2,9 +2,7 @@
 title: 'Ricky Hsiao: Duas vezes cego, mas com o humor "de quem não vê ninguém", trilhou a curva de superação de um rei do Golden Melody'
 description: 'Nascido em 1976, o cantor e compositor taiwanês Ricky Hsiao perdeu a visão duas vezes devido a catarata congênita. Ele não é apenas vencedor por quatro vezes do prêmio de Melhor Cantor Masculino em Taiwanês no Golden Melody, mas também foi medalhista de bronze em judô nos Jogos Para-Asiáticos. Com a "Banda Vida Plena", abriu caminho para a profissionalização de músicos com deficiência visual, e com seu "humor negro autodepreciativo" virou de cabeça para baixo os estereótipos da sociedade sobre pessoas com deficiência, tornando-se uma figura lendária no cenário musical sinófono.'
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Ricky Hsiao',
@@ -13,15 +11,19 @@ tags:
     'Judoca da Seleção Nacional',
     'Humor Negro Autodepreciativo',
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-04T21:23:56.757061+00:00'
 ---
 
 > Em 1976, Ricky Hsiao nasceu em Banqiao; a catarata congênita fez com que perdesse a visão duas vezes. No entanto, essa experiência de "não ver" tornou-se o adubo de sua música e de sua vida. Ele não é apenas o primeiro artista de Taiwan a conquistar quatro vezes o prêmio de Melhor Cantor Masculino em Taiwanês no Golden Melody, como também representou Taiwan nos Jogos Paralímpicos, conquistando uma medalha de bronze no judô. Em 1995, fundou a "Banda Vida Plena", abrindo caminho para a profissionalização de músicos com deficiência visual. Nos últimos anos, com seu singular "humor negro autodepreciativo", virou de cabeça para baixo a imaginação pietista da sociedade sobre pessoas com deficiência, provando com sua voz e sua atitude desprendida perante a vida que, mesmo na escuridão, é possível viver a existência mais plena.

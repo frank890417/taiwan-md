@@ -1,14 +1,14 @@
 ---
-title: 'Taiwanische Frauenbewegung: Von einer Zeitschrift im Kriegsrecht bis zur Gesetzesreform von Familie und Schule'
-description: "Die „Neue Weiblichkeit“ wurde 1971 von Lu Hsü-lien ins Leben gerufen, die Zeitschrift *Women's New Knowledge* (婦女新知) wurde 1982 gegründet; der nächtliche Marsch nach dem Tod von Peng Wan-ru im Jahr 1996 führte zu Gesetzen über Geschlechtergleichheit, häusliche Gewalt und Arbeitsgerechtigkeit. Die Geschichte der taiwanischen Frauenbewegung ist nicht nur der Kampf um Frauenquoten, sondern die Transformation von als „Haushalt“ deklarierten Verletzungen, Fürsorge und Arbeit in öffentliche Probleme und die Etablierung einer anfechtbaren institutionellen Sprache für Frauen am Arbeitsplatz, zu Hause und in der Schule."
+title: 'Taiwans Frauenbewegung: Von einer Zeitschrift zur Kriegsrechtszeit bis zur Reform von Gesetzen für Familie und Campus'
+description: '1971 brachte Annette Lu den neuen Feminismus ein, 1982 gründeten Li Yuan-chen und andere die Zeitschrift „Neues Frauenwissen“, und nach der Ermordung Peng Wan-rus 1996 führten nächtliche Märsche schließlich in das Gesetz zur Gleichstellung der Geschlechter im Bildungswesen, das Gesetz zur Prävention und Bekämpfung häuslicher Gewalt sowie das Arbeitsgleichstellungsgesetz. Die Geschichte von Taiwans Frauenbewegung geht nicht nur um das Erringen von Frauenquoten, sondern darum, das, was einst als Hausarbeit – Gewalt, Sorge und Arbeit – galt, Schritt für Schritt zu öffentlichen Problemen zu machen und Frauen am Arbeitsplatz, in der Familie und auf dem Campus eine institutionelle Sprache für Beschwerden an die Hand zu geben.'
 date: 2026-08-20
 category: 'History'
 tags:
   [
     'Frauenbewegung',
-    'Geschlechtergleichheit',
+    'Geschlechtergleichstellung',
     'Feminismus',
-    'Sozialbewegung',
+    'Soziale Bewegung',
     'Rechtsgeschichte',
   ]
 subcategory: '戰後與威權'
@@ -26,11 +26,13 @@ rationale:
   whats_excluded: '不把台灣女性史壓縮成個別偉人傳記，也不逐一書寫所有婦女團體與法案。慰安婦、性工作、同志運動與原住民族女性另有專題脈絡，本文只在婦運組織與法制轉折必要處交代。'
   where_it_hedges: '部分早期婦運事件主要依賴國立臺灣歷史博物館與婦女團體保存的回顧資料，本文將組織自述與政府沿革分開標示，不把單一團體的記憶當成唯一版本。葉永鋕事件、彭婉如事件與家庭暴力法制的因果關係，僅採用官方與博物館頁面明確支持的範圍。'
   whos_pushing_back: '認為婦運過度介入家庭與教育者，認為保障名額不符合形式平等者，以及批評早期婦運以中產階級女性經驗為中心的學者與行動者。這些爭議本身也是理解運動組織與法制選擇的重要材料。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/婦女運動.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:1b50bc175ecf61ab'
 sourceBodyHash: 'sha256:e725ecac1936b5cf'
-translatedAt: '2026-09-08T15:54:57+08:00'
+translatedAt: '2026-11-04T23:48:29.556301+00:00'
 ---
 
 1982 gründeten Li Yuan-ching (李元貞), Tsao Ai-lan (曹愛蘭), Cheng Chi-hui (鄭至慧), Liu Yu-xiu (劉毓秀) und Yu Mei-nu (尤美女) in Taipeh die Zeitschrift _Women's New Knowledge_ (婦女新知). Am 10. Januar 1987 organisierten _Women's New Knowledge_ zusammen mit indigenen Gruppen, Menschenrechtsorganisationen und Kirchengruppen einen Marsch auf der Huaxi-Straße gegen den Menschenhandel und zur Unterstützung von Prostituierten. Am 30. November 1996 wurde die Frauenaktivistin Peng Wan-ru (彭婉如) in Kaohsiung ermordet; ein Monat später organisierten Frauenorganisationen einen nächtlichen Marsch, um zu fordern, dass die öffentliche Sicherheit von Frauen nicht länger als persönliches Risiko getragen werden müsse.[^1]

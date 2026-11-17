@@ -2,9 +2,7 @@
 title: 'EggPlantEgg'
 description: "EggPlantEgg dengan 'rock romantis khas Taiwan' dan narasi 'anak durhaka' yang unik, tidak hanya meraih kesuksesan besar di pasar musik, tetapi juga mendefinisikan ulang wajah kontemporer pop bahasa Taiwan, menjadi bagian penting dari simbol budaya Taiwan."
 date: 2026-04-05
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
     'musik indie',
@@ -14,15 +12,19 @@ tags:
     'budaya Taiwan',
     'rock',
   ]
+subcategory: '流行音樂'
+author: 'Taiwan.md Contributors'
 readingTime: 10
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
-translatedAt: '2026-07-25T05:00:09+08:00'
+translatedAt: '2026-11-04T14:55:42.242001+00:00'
 ---
 
 # EggPlantEgg

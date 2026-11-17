@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-11-04T20:38:37.425983+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Thái Thành Khang (1946–2021), nhà xây dựng triết học giáo dục Đài Loan. Bác sĩ triết học tại Đại học Athen, giáo viên hội trì nguyên sinh của Bộ Giáo dục và Đào tạo Đài Loan đầu tiên, người giành giải thưởng Nghiên cứu xuất sắc của Quốc hội khoa học Đài Loan lần thứ bốn, người giành giải thưởng Kim Đỉnh. Anh thành lập Khoa So sánh giáo dục tại Đại học Nam kinh, giữ chức vụ Chủ tịch và Phó Phòng chủ yếu của Trường Đại học Giáo dục Trung Hoa (Chung-Hwa). Anh đã tổ chức hội thảo học thuật "Yang Men" tại Trường Đại học Sư phạm Đài Loan trong hơn bốn thập kỷ. Đã hướng dẫn hơn trăm sinh viên thạo sĩ và tiến sĩ. Ngày 29 tháng 8 năm 2021, anh qua đời tại Bệnh viện Đại học Đài Loan, chính mình 76 tuổi. Lần trình đo thai kỳ cuối cùng của anh chính là phòng thực hành năm 2020.

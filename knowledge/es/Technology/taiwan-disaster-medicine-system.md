@@ -17,11 +17,13 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: 'a17bb572e'
-sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:496f4a9f790f5602'
 sourceBodyHash: 'sha256:c70ae774b0edc421'
-translatedAt: '2026-09-20T22:27:58.252854+00:00'
+translatedAt: '2026-11-04T16:39:06.784904+00:00'
 ---
 
 ## Apertura: una decisión de vida o muerte en 8 minutos
@@ -187,19 +189,21 @@ Sin embargo, el sistema también enfrenta desafíos:
 
 ## Conclusión: La evolución continua de la resiliencia institucional
 
-El verdadero valor del sistema de atención médica ante desastres de Taiwán no radica en contar con los equipos más avanzados ni con la mayor cantidad de personal, sino en haber establecido un mecanismo institucional capaz de **establecer rápidamente el orden en medio del caos**.
+El verdadero valor del sistema de medicina de desastres de Taiwán no reside en poseer el equipo más avanzado o la mayor cantidad de personal, sino en haber establecido un mecanismo institucional capaz de **establecer orden rápidamente en medio del caos**.
 
-Desde las dolorosas lecciones del terremoto del 921 hasta el funcionamiento maduro del terremoto de Hualien, en 25 años Taiwán ha demostrado que un país pequeño también puede construir un sistema de atención médica ante desastres de clase mundial. La clave reside en reconocer que el desafío central de la medicina de desastres no es de naturaleza técnica, sino institucional: quién está de turno, quién manda, quién coordina y quién decide.
+Desde las dolorosas lecciones del terremoto de 921 hasta el funcionamiento maduro durante el terremoto de Hualien, Taiwán ha demostrado a lo largo de 25 años que un país pequeño también puede construir un sistema de medicina de desastres de clase mundial. La clave reside en reconocer que el desafío central de la medicina de desastres no es un problema técnico, sino un problema institucional: quién está de guardia, quién manda, quién coordina y quién decide.
 
-La próxima vez que ocurra un desastre, lo que salvará vidas no serán los equipos más costosos, sino los médicos de urgencias que están de guardia las 24 horas y el código institucional probado en decenas de situaciones reales que hay detrás de ellos.
+Cuando llegue el próximo desastre, lo que salvará vidas no será el equipo más costoso, sino los médicos de urgencias que están de guardia las 24 horas y el código institucional que respalda su labor, un sistema que ha sido probado en combate decenas de veces.
 
 ---
 
-**Lectura complementaria**:
+**Lecturas adicionales**:
 
-- [Ley de Atención Médica](/es/society/medical-care-act) — La base legal de la medicina de desastres en Taiwán se arraiga en el artículo 1 de la Ley de Atención Médica, que establece la «distribución razonable de los recursos médicos», y en las normas de clasificación de las instituciones; los escenarios de desastre descritos en este artículo representan la operación práctica de esta ley en condiciones extremas.
-- [Controversia sobre los medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Los seres humanos cuentan con un sistema de urgencias, el 119, el seguro médico nacional y los DMAT; en cambio, las urgencias veterinarias requieren registrar cada ítem, incluido el oxígeno. La brecha de recursos entre ambos sistemas es un espejo que refleja la jerarquía de valores de esta isla.
-- [La pandemia de COVID-19 y las vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines) — Las salas de aislamiento dedicadas y la congestión en las salas de urgencias de mayo de 2021 constituyen la prueba más prolongada a la que ha sido sometido este sistema de atención médica ante desastres.
+- [Ley de Medicina](/es/society/medical-care-act) — El fundamento legal de la medicina de desastres se arraiga en el Artículo 1 de la Ley de Medicina sobre la «distribución razonable de los recursos médicos» y las normativas de clasificación de instituciones; los escenarios de desastre descritos en este artículo representan la aplicación práctica de la Ley de Medicina bajo condiciones extremas.
+- [La controversia de los medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Los seres humanos cuentan con un sistema de medicina de urgencias, el 119, el Seguro Nacional de Salud y los DMAT; para las urgencias veterinarias, incluso el suministro de oxígeno debe registrarse detalladamente. La brecha de recursos entre ambos sistemas es un espejo de la jerarquía de valores en esta isla.
+- [COVID-19 y vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines) — Las salas especializadas y la saturación de las urgencias en mayo de 2021 representaron una de las pruebas más prolongadas para este sistema de medicina de desastres.
+
+---
 
 ## Referencias
 

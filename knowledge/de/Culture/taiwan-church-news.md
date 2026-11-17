@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/台灣教會公報.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3439ffa9774025fa'
 sourceBodyHash: 'sha256:2e121ca67feccc95'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T21:45:43.969503+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Am 12. Juni 1885 (im 11. Jahr der Qing-Regierung) veröffentlichte Thomas Barclay, ein Missionar der Presbyterianischen Kirche aus Großbritannien, das _Taiwan Kirchenblatt_ in Tainan. Es war die erste Zeitung Taiwans und wurde mit „Baihua Zi“ (gesprochener Sprache) gedruckt. Diese Zeitung erlebte die Zeit unter Qing-, japanischer und postkolonialer Diktatur; sie wurde zweimal eingestellt, ihre Muttersprache wurde verboten und sie wurde von der Sicherheitsbehörde beschlagnahmt, aber sie wird bis heute veröffentlicht. Im Jahr 2025 feiert sie 140 Jahre und behandelt in ihrem Sonderheft Themen wie generative KI.

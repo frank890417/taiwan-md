@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-07-26T15:32:46+08:00'
+translatedAt: '2026-11-04T17:23:46.238304+00:00'
 ---
 
 # A evolução centenária da pintura em aguarela de Taiwan
@@ -64,7 +66,7 @@ Este resultado tece-se da interação prolongada de vários fatores. Não se pod
 
 ## Referências
 
-[^1]: [Ishikawa Kinichiro — Wikipédia](https://zh.wikipedia.org/wiki/石川欽一郎) + [Shiogetsu Toho — Wikipédia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirma que a Tai-ten de 1927 foi impulsionada por quatro pintores japoneses; Shiogetsu Toho 1886–1954, professor de arte da Escola Secundária de Taipé.
+[^1]: [Ishikawa Kinichiro — Wikipédia](https://zh.wikipedia.org/wiki/石川欽一郎) — + [Shiogetsu Toho — Wikipédia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirma que a Tai-ten de 1927 foi impulsionada por quatro pintores japoneses; Shiogetsu Toho 1886–1954, professor de arte da Escola Secundária de Taipé
 
 [^2]: [Taiyang Art Association — Wikipédia](https://zh.wikipedia.org/zh-tw/臺陽美術協會) — Confirma a fundação a 12 de novembro de 1934 por oito pintores locais, incluindo Liao Chi-chun, Chen Cheng-po, Yang San-lang; primeira associação artística independente local de Taiwan.
 

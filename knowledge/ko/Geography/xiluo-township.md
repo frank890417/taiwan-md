@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T11:16:03+08:00'
+translatedAt: '2026-11-04T15:43:41.689689+00:00'
 ---
 
 > **30초 요약:** 타이완 윤린(雲林) 탁수계 남안에 위치한 인구 4만여 명의 작은 마을 시뤄. 외지인이 먼저 기억하는 것은 붉은색의 시뤄 대교이지만, 현지인의 일상은 전혀 다른 것들로 채워져 있다. 검은콩 간장은 숙성에 180일이 걸리고, 옌핑 노가(延平老街)의 바로크 양식 가옥들은 1920년대부터 지금까지 자리를 지키고 있으며, 푸싱궁(福興宮)의 타이핑마(太平媽)는 300년 동안 지역의 대사를 관장해 왔다. 청대 이주민의 치칸 무관(七崁武館)은 방어 조직을 드라마로 만들어냈다. 이 글은 시뤄를 단순히 다리의 부속물로 보지 않고, 다리를 마을의 시간선 안으로 다시 불러들인다. [^1] [^2] [^3] [^4]

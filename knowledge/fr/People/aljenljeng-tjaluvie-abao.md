@@ -1,251 +1,251 @@
 ---
-title: "Abao (Aljenljeng Tjaluvie) : la chanteuse future pop qui a porté la langue paiwan jusqu'à l'album de l'année des Golden Melody Awards"
-description: "En 2020, lors de la 31e cérémonie des Golden Melody Awards, le prix de l'album de l'année a été décerné à *kinakaian — La langue de ma mère*, un album entièrement en langue paiwan mêlant musique électronique. Abao (Aljenljeng Tjaluvie, née en 1981 à Taitung, Jinfeng) a débuté en duo R&B avec Abao & Brandy, puis exercé le métier d'infirmière pendant dix ans. En 2019, avec le producteur Dizparity, elle a transformé la langue autochtone en future pop, réécrivant l'équation « musique autochtone = préservation »."
+title: 'Abao (Aljenljeng) : la chanteuse future pop qui a fait entrer la langue Paiwan dans les Golden Melody Awards'
+description: "En 2020, l'album de l'année des Golden Melody Awards est décerné à l'album électro entièrement en paiwan 《kinakaian La langue de ma mère》. Abao (Aljenljeng Tjaluvie, née en 1981 à Taitung) a débuté avec le duo R&B Abao & Brandy et a été infirmière pendant dix ans avant de révolutionner la musique autochtone avec Dizparity."
 date: 2026-04-18
+category: 'People'
 tags:
   [
-    Personnalité,
-    Abao,
-    Aljenljeng Tjaluvie,
-    Aljenljeng Tjaluvie,
-    Chang Ching-wen,
-    Paiwan,
-    Musique autochtone,
-    Golden Melody Awards,
-    Album de l'année,
-    kinakaian,
-    La langue de ma mère,
-    Dizparity,
-    future pop,
-    Nanguaq,
-    vavayan,
+    'Personnalité',
+    'Abao',
+    'Aljenljeng Tjaluvie',
+    'Chang Ching-wen',
+    'Paiwan',
+    'Musique autochtone',
+    'Golden Melody Awards',
+    "Album de l'année",
+    'kinakaian',
+    'La langue de ma mère',
+    'Dizparity',
+    'future pop',
+    'Nanguaq',
+    'vavayan',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 18
 lastVerified: 2026-04-18
 lastHumanReview: true
-translatedFrom: People/阿爆.md
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:63b1d4d5c2d7861f'
-sourceBodyHash: 'sha256:97980c1ca1d62fad'
-translatedAt: 2026-05-01T22:19:06+08:00
+researchReport: 'reports/research/2026-04/阿爆.md'
+readingTime: 18
+translatedFrom: 'People/阿爆.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f6ea72608a383b39'
+sourceBodyHash: 'sha256:2b58a1fd273e51fb'
+translatedAt: '2026-11-02T05:45:17+08:00'
 ---
 
-> **En 30 secondes :** Le 3 octobre 2020, lors de la 31e cérémonie des Golden Melody Awards, le prix de l'album de l'année a été attribué à _kinakaian — La langue de ma mère_, un album de musique électronique entièrement en langue paiwan. L'artiste récompensée est Abao (Aljenljeng Tjaluvie, nom en mandarin Chang Ching-wen), chanteuse-compositrice paiwan née en 1981 dans le village de Zhengxing, district de Jialan, canton de Jinfeng, Taitung. Elle a débuté en 2003 avec le duo Abao & Brandy et remporté le prix du meilleur ensemble vocal lors de la 15e cérémonie des Golden Melody Awards. Après la séparation du duo en 2004, elle s'est éloignée de la scène musicale pour exercer près de dix ans comme infirmière, puis est revenue en 2016 avec _vavayan·Femme_, son premier album personnel entièrement en langue paiwan, avant de collaborer en 2019 avec le producteur électro Dizparity pour créer _kinakaian_. En recevant le prix de l'album de l'année, elle a déclaré sur scène : « Je voudrais dire à tous les Autochtones devant leur téléviseur : ne gaspillez pas vos talents, mais ne vous y reposez pas non plus. » Ce moment a marqué un tournant décisif : la musique en langues autochtones de Taïwan passait de la marge à la scène principale.
+> **Aperçu en 30 secondes :** Dans la soirée du 3 octobre 2020, le prix de l'Album de l'année des 31e Golden Melody Awards a été décerné à un album de musique électronique entièrement en langue paiwan, intitulé 《kinakaian La langue de ma mère》. La lauréate est Abao (Aljenljeng Tjaluvie, nom chinois Chang Ching-wen), une auteure-compositrice-interprète paiwan née en 1981 dans le village de Zhengxing, sous-district de Jialan, dans le canton de Jinfeng, à Taitung. Elle a débuté en 2003 avec le duo R&B Abao & Brandy, remportant le prix du meilleur duo lors des 15e Golden Melody Awards. Après la dissolution du groupe en 2004, elle s'est retirée de la scène musicale pour devenir infirmière pendant près de dix ans. Elle est revenue en 2016 avec son premier projet solo entièrement en paiwan 《vavayan·Femme》, puis en 2019, elle a collaboré avec le producteur électro Dizparity pour créer 《kinakaian》. Sur scène, lors de la réception du prix de l'Album de l'année, elle a déclaré : « Je veux dire à tous les Autochtones devant leur téléviseur : ne gaspillez pas votre talent et ne comptez pas uniquement sur lui. » Ce fut un moment charnière marquant le passage de la musique en langues autochtones de Taïwan du _sidebar_ (la marge) à la _main stage_ (la scène principale).
 
-Le 3 octobre 2020, au Taipei Music Center. 31e cérémonie des Golden Melody Awards. Le prix de l'album de l'année, récompense de clôture.
+Le 3 octobre 2020 au soir, au Taipei Pop Music Center. La cérémonie des 31e Golden Melody Awards. Le prix ultime : l'Album de l'année.
 
-Lors de l'annonce du lauréat, le nom prononcé par le présentateur est : **_kinakaian — La langue de ma mère_**.[^1]
+Lors de l'annonce du vainqueur, le présentateur a prononcé : **《kinakaian La langue de ma mère》**.[^1]
 
-C'est un album de musique électronique **entièrement en langue paiwan**. Depuis la création de la catégorie « meilleur album en langue autochtone » aux Golden Melody Awards en 2007, les œuvres en langues autochtones sont restées cantonnées à cette sous-catégorie — reconnues au sein de leur classification ethnique, mais rarement considérées par les jurys des catégories principales telles que l'album de l'année, la chanson de l'année ou le producteur de l'année.[^1]
+Il s'agit d'un album de musique électronique **entièrement en langue paiwan**. Depuis la création de la sous-catégorie « Meilleur album en langue autochtone » aux Golden Melody Awards en 2007, les œuvres en langues autochtones restaient souvent confinées à cette catégorie — recevant une reconnaissance au sein de leur groupe ethnique, mais ayant peu de chances d'intégrer le champ de vision des jurys pour l'Album de l'année, la Chanson de l'année ou le Producteur de l'année (les catégories principales).[^1]
 
-La 31e édition des Golden Melody Awards en 2020 a constitué l'une des rares exceptions. Le même album _kinakaian — La langue de ma mère_ a remporté trois prix cette soirée : album de l'année, meilleur album en langue autochtone et chanson de l'année (_Thank You 感謝_), sur huit nominations.[^1]
+Les 31e Golden Melody Awards de 2020 ont constitué une exception notable. L'album 《kinakaian La langue de ma mère》 a remporté trois prix ce soir-là : Album de l'année, Meilleur album en langue autochtone et Chanson de l'année (pour le titre 〈Thank You〉), avec un total de 8 nominations.[^1]
 
-Celle qui monte sur scène pour recevoir le prix est une femme de 39 ans, les cheveux courts, vêtue d'un habit sombre et ample, qui ressemble davantage à une voisine qu'à la plupart des artistes présents sur scène. Elle s'appelle Abao (Aljenljeng Tjaluvie), nom en mandarin Chang Ching-wen.
+Celle qui est montée sur scène pour recevoir le prix était une femme de 39 ans aux cheveux courts, vêtue de vêtements amples et sombres, paraissant plus proche d'une voisine sympathique que de la plupart des chanteuses de la scène. Elle s'appelle Abao (Aljenljeng Tjaluvie), de son nom chinois Chang Ching-wen.
 
-📝 Note du curateur : La signification du prix de l'album de l'année ne réside pas dans le fait « qu'une chanteuse autochtone a gagné », mais dans le fait que « les critères esthétiques des œuvres en langues autochtones ont été reconnus à égalité par le système de jugement dominant ». Ces deux choses sont très différentes.
+📝 Note du commissaire : La signification du prix de l'Album de l'année ne réside pas dans le fait qu'« une chanteuse autochtone a gagné », mais dans le fait que « les standards esthétiques des œuvres en langues autochtones ont été reconnus par le système de jury principal selon la même échelle ». Ces deux notions sont très différentes.
 
-### Le village de Zhengxing, puis le déménagement à Kaohsiung
+### Du village de Zhengxing à Kaohsiung
 
-Abao est née le 25 août 1981 dans le village de Zhengxing (district de Jialan, canton de Jinfeng, Taitung), en territoire paiwan oriental.[^2] Ses deux parents sont originaires de ce village, et elle a grandi à Kaohsiung après que sa famille s'y soit installée durant son enfance.[^3]
+Abao est née le 25 août 1981 dans le village de Zhengxing, sous-district de Jialan, canton de Jinfeng, comté de Taitung (Paiwan de l'Est).[^2] Ses deux parents sont originaires de ce village, mais elle a déménagé avec sa famille à Kaohsiung durant son enfance.[^3]
 
-Ce parcours migratoire est courant dans l'histoire démographique des peuples autochtones de Taïwan : dans les années 1970-1990, de nombreuses familles autochtones de Taitung et Pingtung se sont déplacées vers les zones urbaines pour le travail, et la maîtrise de la langue ancestrale s'est réduite d'une génération à l'autre. Le travail de « reconquête de la langue » qu'Abao a entrepris repose en grande partie sur le matériau linguistique quotidien de sa mère, Wang Chiou-lan — sa propre maîtrise du paiwan, elle l'a réapprise à l'âge adulte auprès de sa mère.[^4]
+Cette trajectoire migratoire est très courante dans l'histoire démographique des peuples autochtones de Taïwan : entre les années 1970 et 1990, de nombreuses familles autochtones de Taitung et de Pingtung ont migré vers les zones urbaines pour le travail. Les enfants grandissent alors en milieu métropolitain, ce qui entraîne une réduction de la maîtrise de la langue maternelle entre les générations. Abao a par la suite entrepris le travail de « retrouver sa langue », un projet largement construit sur le corpus linguistique quotidien de sa mère, Wang Chiu-lan — ses propres bases en paiwan lui ont été réapprises auprès de sa mère à l'âge adulte.[^4]
 
-### 2003 : les débuts R&B d'Abao & Brandy
+### 2003 : Débuts R&B avec Abao & Brandy
 
-En 2003, Abao forme le duo « Abao & Brandy » avec Brandy Chen (Chen Hai-wen) et sort un album éponyme aux sonorités R&B.[^5]
+En 2003, Abao et Brandy Chen (Chen Hai-wen) forment le duo « Abao & Brandy », publiant un album éponyme de style R&B.[^5]
 
-Cet album est presque entièrement en mandarin. Les deux artistes importent les harmonies et les rythmes du R&B américain sur le marché sinophone, constituant un duo particulièrement singulier parmi les formations R&B des années 2000. En 2004, ils remportent le **prix du meilleur ensemble vocal** lors de la 15e cérémonie des Golden Melody Awards.[^5]
+Cet album est presque entièrement en mandarin. Le duo a introduit les harmonies et les rythmes du R&B américain sur le marché mandrophone, constituant un groupe singulier parmi les duos R&B chinois du début des années 2000. En 2004, ils remportent le prix du **Meilleur duo lors des 15e Golden Melody Awards** grâce à cet album.[^5]
 
-Puis, la même année, le duo se sépare.
+Puis, la même année, le groupe se dissout.
 
-Concernant les raisons de cette séparation, les entretiens ultérieurs d'Abao n'ont pas fourni de justification dramatique. L'explication générale est : « La musique n'était pas le centre de ma vie à ce moment-là. »[^6] Elle est retournée sur une voie plus concrète — sa formation de cinq ans à l'infirmerie de Chang Gung lui offrait une sortie claire : devenir infirmière.
+Concernant les raisons de cette séparation, elle n'a pas donné de raisons dramatiques dans ses interviews ultérieures. Elle a simplement déclaré : « La musique n'était pas le centre de ma vie à l'époque. »[^6] Elle est retournée vers une trajectoire plus concrète — son parcours initial dans un institut de soins infirmiers de cinq ans lui offrait une issue claire : devenir infirmière.
 
-📝 Note du curateur : Le prix du meilleur ensemble vocal de la 15e cérémonie des Golden Melody Awards était considéré comme celui de la nouvelle génération. La séparation un an plus tard, suivie de cinq ans d'absence, constituait une décision profondément contre-intuitive pour une chanteuse de 22 ans tout juste récompensée.
+📝 Note du commissaire : Le prix du meilleur duo des 15e Golden Melody Awards était considéré comme une représentation de la nouvelle génération cette année-là. Se dissoudre un an plus tard et disparaître pendant plus de cinq ans est une décision extrêmement contre-intuitive pour une chanteuse de 22 ans venant d'être primée.
 
-### 2004-2014 : dix ans comme infirmière
+### 2004-2014 : Dix ans en tant qu'infirmière
 
-Pendant ces dix ans, ce qu'elle a fait n'avait presque rien à voir avec la musique.[^6]
+Pendant cette décennie, ses activités n'avaient presque rien à voir avec la musique.[^6]
 
-Pour une lauréate des Golden Melody Awards de 2004 qui disparaît de la scène musicale pendant dix ans, selon les règles de l'industrie de la musique pop sinophone, cela équivaut à « disparaître ». Mais ce qu'elle a fait n'est pas une « disparition » — elle est retournée à un **emploi ayant un poids réel**, puis a attendu d'avoir clarifié la relation qu'elle voulait entretenir avec la musique avant de revenir.
+Pour une lauréate des Golden Melody Awards de 2004, quitter la scène pendant dix ans équivaut à une « disparition » selon les règles de l'industrie de la pop mandrophone. Mais elle ne s'est pas contentée de « disparaître » — elle a rejoint un poste de travail doté d'un **poids réel**, attendant de savoir quelle relation elle souhaitait entretenir avec la musique avant de revenir.
 
-L'importance de cette période ne s'est révélée qu'après son retour en 2016 : **elle n'avait plus besoin de la musique pour vivre** ; le métier d'infirmière lui avait donné une base économique indépendante du marché du disque. C'est en grande partie grâce à cette liberté de choix, acquise durant ces années, qu'elle a pu réaliser un album entièrement en langue ancestrale, expérimenter l'électro, refuser les collaborations commerciales et choisir de travailler avec un producteur indépendant comme Dizparity.
+L'importance de cette période n'est apparue qu'après son retour en 2016 : **elle n'avait plus besoin de vivre de la musique** ; son métier d'infirmière lui avait offert une assise économique indépendante du marché du disque. Cela lui a permis, par la suite, de réaliser des albums entièrement en langue autochtone, de faire des expérimentations électro, de refuser les compilations commerciales et de choisir de collaborer avec des producteurs électro indépendants comme Dizparity — une liberté de choix largement acquise durant cette période.
 
-### 2014 : _Les trois générations de l'Est paiwan_, chants anciens paiwan à travers trois générations
+### 2014 : 《東排三聲代》, trois générations de chants anciens Paiwan
 
-En 2014, Abao fait officiellement son retour musical en langue autochtone. Sa première démarche n'est pas un album personnel, mais **l'enregistrement avec sa mère Wang Chiou-lan et sa grand-mère Liang Chiu-mei de _Les trois générations de l'Est paiwan_**.[^7]
+En 2014, Abao revient officiellement à la musique via sa langue maternelle. Sa première démarche n'est pas un album solo, mais l'**enregistrement conjoint avec sa mère Wang Chiu-lan et sa grand-mère Liang Chiu-mei pour 《東排三聲代》 (Trois générations de Paiwan)**.[^7]
 
-Sur cet album, trois générations chantent des chants anciens paiwan. Grand-mère, mère et elle-même — trois générations réunies simultanément en studio pour enregistrer des chansons tribales de la région de l'Est paiwan menacées de disparition. Dans cet album, la position d'Abao se rapproche davantage de celle d'**une sage-femme** : elle préserve ce que sa mère et sa grand-mère savaient chanter sans jamais l'avoir enregistré, tout en plaçant sa propre voix dans le même espace sonore que celles de ses aînées.
+Les trois générations de cet album chantent des chants anciens paiwan. La grand-mère, la mère et elle-même se retrouvent simultanément en studio pour enregistrer des chants tribaux de la région du Paiwan de l'Est qui étaient sur le point de disparaître. Dans cet album, la position d'Abao est proche de celle d'une **sage-femme** : elle préserve ce que sa mère et sa grand-mère savaient chanter mais n'avaient jamais enregistré, tout en plaçant sa propre voix dans le même espace sonore que celles des deux aînées.
 
-_Les trois générations de l'Est paiwan_ n'est pas une œuvre commerciale, mais le sésame qui lui a rouvert les mondes de la langue ancestrale. À partir de ce projet, l'ensemble de son travail musical s'est articulé autour de cette notion de « la langue de ma mère ».
+《東排三聲代》n'est pas une œuvre commerciale, c'est son billet d'entrée pour réintégrer le monde de la langue autochtone. À partir de là, son travail musical gravitera autour du concept de « la langue de ma mère ».
 
-### 2016 : _vavayan·Femme_, premier album personnel entièrement en langue ancestrale
+### 2016 : 《vavayan·Femme》, premier album solo entièrement en langue autochtone
 
-En août 2016, elle sort son premier album de création personnelle, _vavayan·Femme_ (« femme » en paiwan).[^8] Le producteur est荒井十一 (Arai Kazuji), un producteur né au Japon, actif en Chine, collaborant régulièrement avec des musiciens indépendants asiatiques.[^8]
+En août 2016, elle publie son premier album de création personnelle, 《vavayan·Femme》 (_vavayan_ signifiant « femme » en paiwan).[^8] Le producteur est Arai Juuichi, un producteur né au Japon qui travaille dans la musique en Chine et collabore de longue durée avec des musiciens indépendants d'Asie.[^8]
 
-_vavayan·Femme_ est entièrement en paiwan, mais les styles musicaux intègrent rock, soul, reggae et R&B. Cet album présente deux caractéristiques :
+Bien que 《vavayan·Femme》 soit entièrement en paiwan, le style fusionne rock, soul, reggae et R&B. L'album présente deux caractéristiques :
 
-1. **La langue ancestrale n'est pas synonyme de nostalgie**. Les styles sont contemporains, voire transculturels (le reggae vient de la Jamaïque, le R&B de la musique noire américaine).
-2. **Une perspective féminine**. Le titre de l'album, « vavayan », signifie « femme » en paiwan, et l'ensemble de l'album s'articule autour de l'expérience féminine — non pas la femme telle que racontée dans les récits tribaux traditionnels, mais la femme contemporaine qui sort dans la rue, qui réfléchit, qui se met en colère, qui se fatigue.
+1. **La langue autochtone n'est pas synonyme de nostalgie**. Le style est contemporain, voire transculturel (le reggae vient de Jamaïque, le R&B de la musique afro-américaine).
+2. **Un regard féminin**. Le titre « vavayan » signifie « femme » en paiwan, et l'album entier s'articule autour de l'expérience féminine — non pas la femme des récits tribaux traditionnels, mais la femme contemporaine qui sort dans la rue, qui réfléchit, qui s'indigne et qui fatigue.
 
-Arai Kazuji a décrit plus tard son expérience de production de cet album :
+Arai Juuichi a décrit plus tard son ressenti lors de la production de cet album :
 
-> « En produisant l'album d'Abao, j'ai ressenti son humour d'animatrice, et la combinaison de sa mission envers sa langue maternelle avec l'expérience R&B acquise dans le duo Abao & Brandy a permis de réaliser le style up-tempo de _vavayan·Femme_. »[^9]
+> « En produisant l'album d'Abao, j'ai ressenti son humour d'animatrice, ajouté à son sens de la mission envers sa langue maternelle et au style R&B qu'elle avait pratiqué avec le groupe "Abao & Brandy" ; cette combinaison a permis de parachever le style plutôt _up-tempo_ de 《vavayan·Femme》. »[^9]
 
-Lors de la 28e cérémonie des Golden Melody Awards en 2016, _vavayan·Femme_ a remporté le prix du meilleur album en langue autochtone, et Arai Kazuji a également reçu le prix du meilleur producteur d'album.[^8]
+Lors des 28e Golden Melody Awards en 2016, 《vavayan·Femme》 remporte le prix du Meilleur album en langue autochtone, et Arai Juuichi remporte simultanément celui du Meilleur producteur d'album.[^8]
 
-### 2019 : _kinakaian — La langue de ma mère_, électro en langue ancestrale
+### 2019 : 《kinakaian La langue de ma mère》, l'électro en langue autochtone
 
-Le deuxième album personnel, _kinakaian — La langue de ma mère_, sorti le 30 décembre 2019, pousse l'expérience encore plus loin : **entièrement en paiwan + entièrement électro**.[^10]
+Publié le 30 décembre 2019, son deuxième album solo, 《kinakaian La langue de ma mère》, va plus loin dans l'extrême : **entièrement en paiwan + entièrement électro**.[^10]
 
-L'arrangement est signé Dizparity (Yeh Po-chien), producteur taïwanais indépendant de musique électronique. Leur collaboration a débuté en 2018 au festival CMW au Canada, où Dizparity avait donné un set électro complet sans voix ; Abao était dans l'assistance.[^11] De retour à Taïwan, les deux ont commencé à échanger en ligne — Dizparity envoyait des beats, Abao répondait par des fredonnements sans paroles, et une complicité s'est progressivement construite.
+L'arrangement est signé Dizparity (Yeh Po-chien), un producteur électro indépendant taïwanais. Leur collaboration a débuté en 2018 lors du festival CMW au Canada ; à l'époque, Dizparity avait donné une performance électro complète sans voix, que Abao avait regardée depuis le public.[^11] De retour à Taïwan, les deux ont communiqué via Internet : Dizparity envoyait des _beats_, Abao fredonnait librement sans paroles (_wordless humming_), et une complicité s'est progressivement installée.
 
-> « Dizparity avait fait un set complet sans voix. Après leur retour à Taïwan, ils ont échangé par messages : Dizparity envoyait des beats pour qu'Abao puisse fredonner librement selon l'ambiance, et à partir de ces essais, une complicité de collaboration s'est développée. »[^11]
+> « Dizparity a fait une performance entièrement sans voix ; après leur retour à Taïwan, ils ont échangé par messages, Dizparity envoyant des beats sur lesquels Abao fredonnait de manière atmosphérique et libre, développant ainsi une complicité de collaboration à partir de petits fragments d'essais. »[^11]
 
-Ce mode de collaboration ne correspond pas au schéma habituel de production de la musique pop sinophone (« chanteur + arrangeur ») : c'est un dialogue entre deux musiciens indépendants qui répondent l'un à l'autre par la texture et la sensibilité linguistique. L'électro de Dizparity n'est pas un enrobage destiné à rendre la langue paiwan « plus accessible » : la langue ancestrale est traitée comme un matériau sonore à part égale, au même titre que les sonorités de synthétiseur, les patterns rythmiques et les drops d'ambiance.
+Ce mode de collaboration n'est pas la norme de production de la pop mandrophone où « le chanteur est accompagné par l'arrangeur », mais une réponse mutuelle entre deux musiciens indépendants utilisant les textures et la sensibilité linguistique. L'électro de Dizparity n'est pas un enrobage conçu pour rendre la langue d'Abao « plus facile à accepter », mais traite la langue comme une matière sonore à part entière : au même niveau que le timbre des synthétiseurs, les motifs rythmiques ou les _drops_ atmosphériques.
 
-Le vocabulaire de l'album provient de sa mère Wang Chiou-lan. Abao décrit leur mode de collaboration :
+Le vocabulaire de l'album provient de sa mère, Wang Chiu-lan. Abao décrit leur méthode de travail :
 
-> « Ma mère et moi, on écrit nos chansons un peu comme si on discutait. Le vocabulaire que ma mère m'a fourni pour le deuxième album _kinakaian — La langue de ma mère_ était encore plus riche et plus difficile, c'est le retour le plus concret. »[^12]
+> « Avec ma mère, c'est un peu comme si nous écrivions les paroles que nous voulions en discutant simplement. Le volume de vocabulaire fourni par ma mère était encore plus important et plus complexe pour ce deuxième album 《kinakaian La langue de ma mère》, ce qui est le retour le plus concret. »[^12]
 
-Pas de dictionnaire, pas d'enquête de terrain — juste **des conversations entre mère et fille enregistrées à la maison**. Le langage du quotidien devient la matière première des paroles.
+Il ne s'agit pas de consulter un dictionnaire ou de mener des enquêtes, mais d'**enregistrer les conversations entre mère et fille à la maison**. Le langage de la vie quotidienne devient la matière première des paroles.
 
-### « Puisqu'on a sa propre langue, pourquoi ne pas l'utiliser ? »
+### « Puisque nous avons notre propre langue, pourquoi ne pas l'utiliser ? »
 
-Dans les entretiens qui ont entouré cet album, Abao a répété une phrase qui est devenue le cœur de sa philosophie musicale :
+Dans ses interviews avant et après cet album, Abao répète une phrase qui est devenue le cœur de sa philosophie musicale :
 
-> « Faire de la musique en langue maternelle, c'est une libération. Par exemple, si je veux essayer des chansons plus rythmées, du style de ce que le grand public considère comme des chansons de Beyoncé, c'est vraiment difficile en mandarin. Le mandarin a sa beauté, mais quand on veut faire de la musique très rythmique, l'anglais n'est pas notre langue non plus. Alors puisqu'on a sa propre langue, pourquoi ne pas l'utiliser ? »[^13]
+> « En fait, faire de la musique en langue maternelle est une libération. Par exemple, si je veux essayer des chansons au rythme plus rapide, comme les morceaux dansants que le public associe à Beyoncé, c'est très difficile à réaliser en chinois. Le chinois a sa propre beauté, mais pour faire de la musique avec un groove puissant, l'anglais n'est pas non plus notre langue. Alors, puisque nous avons notre propre langue à disposition, pourquoi ne pas l'utiliser ? »[^13]
 
-Cette phrase renverse le cadre dans lequel la musique autochtone de Taïwan a longtemps été enfermée : **musique en langue ancestrale ≠ préservation culturelle ≠ muséification**. Pour elle, la langue ancestrale est une condition technique pour faire du future pop — les syllabes, les tons, les accents, les coupures syntaxiques sont différents du mandarin et de l'anglais, et certains grooves ne peuvent être chantés qu'en langue ancestrale.
+Cette phrase renverse le cadre dans lequel la musique des peuples autochtones de Taïwan a longtemps été enfermée : **Musique en langue autochtone ≠ Préservation culturelle ≠ Muséification**. Pour elle, la langue est une condition technique pour faire de la _future pop_ — les syllabes, les tons, l'accentuation et les pauses diffèrent du chinois ou de l'anglais ; certains _grooves_ ne peuvent être chantés qu'en paiwan.
 
-Elle formule cette logique encore plus directement :
+Elle exprime cette logique encore plus directement :
 
-> « Je pense que l'ancien et le nouveau doivent absolument fusionner. Les jeunes n'ont peut-être pas loccasion d'apprendre ces chansons. Si on intègre des mélodies anciennes dans la musique pop, au moins les jeunes peuvent entendre ces chants d'autrefois à travers des chansons qu'ils écoutent. »[^13]
+> « Je pense que le nouveau et l'ancien doivent impérativement fusionner. Les jeunes n'ont peut-être pas l'occasion d'apprendre ces chants ; si l'on insère les mélodies anciennes dans la musique populaire, au moins les jeunes pourront entendre les vieux chants à travers les chansons populaires. »[^13]
 
-« Les mélodies anciennes dans la musique pop » n'est pas de la préservation, c'est de la traduction : permettre aux jeunes des années 2020 d'entendre l'ADN des chansons tribales des années 1950-1980 à travers des formes musicales qu'ils écoutent.
+L'insertion des « mélodies anciennes dans la pop » n'est pas de la _preservation_, c'est de la _translation_ (traduction/transposition) : permettre aux jeunes des années 2020 d'entrer en contact avec le patrimoine des chants tribaux des années 1950-1980 via les formes musicales qu'ils écoutent.
 
-### Golden Melody Awards 2020 (31e édition) : la signification du prix de l'album de l'année
+### Golden Melody Awards 2020 : La signification du prix de l'Album de l'année
 
-Le 3 octobre 2020, 31e cérémonie des Golden Melody Awards.
+Le 3 octobre 2020, lors de la cérémonie des 31e Golden Melody Awards.
 
-Cette édition était particulière en raison de la pandémie : la cérémonie avait été reportée de deux mois, et le processus de délibération avait bénéficié d'un temps ajusté. Le président du jury, Chen Chen-chuan, a déclaré dans un entretien ultérieur :
+Cette édition était particulière en raison de la pandémie : la cérémonie a été reportée de deux mois et le processus de jury a bénéficié d'un temps d'ajustement. Le président du jury, Chen Chen-chuan, a déclaré par la suite :
 
-> « En raison de la pandémie, le jury a eu plus de temps pour examiner attentivement les œuvres non mandarines. Ils ont spécifiquement invité des enseignants en langues autochtones à expliquer le sens des paroles phrase par phrase aux jurés, de sorte qu'au premier tour de vote, pour le prix du meilleur parolier, presque chaque langue était représentée parmi les nominations. »[^14]
+> « En raison de l'épidémie, le jury a disposé de plus de temps pour lire attentivement les œuvres non mandrophones. Ils ont spécialement invité des enseignants de langues autochtones pour expliquer au jury la signification des paroles phrase par phrase, ce qui a permis que lors du premier tour de vote, "presque chaque langue ait des candidats pour le prix du meilleur parolier". »[^14]
 
-Le jury a **invité des enseignants en langues autochtones à traduire les paroles phrase par phrase** — une première dans l'histoire des Golden Melody Awards. Et le résultat ? Le prix de l'album de l'année a été attribué à une œuvre entièrement en langue paiwan.
+Le fait que le jury **ait invité des enseignants de langues autochtones pour traduire les paroles phrase par phrase** est une première dans l'histoire des Golden Melody Awards. Quel en a été le résultat ? Le prix de l'Album de l'année a été décerné à une œuvre entièrement en langue autochtone.
 
-Cette différence de mécanisme est cruciale : **même dans un contexte où une traduction était nécessaire pour juger**, l'œuvre en langue ancestrale a été reconnue comme la meilleure. La musique pop sinophone dominante et l'œuvre en langue ancestrale ont été évaluées sur la même grille de notation, sans « bonus ethnique ».
+Cette différence de mécanisme est cruciale : **même sous la condition qu'une traduction soit nécessaire pour l'évaluation, les œuvres en langues autochtones ont pu être reconnues comme les meilleures**. La pop mandrophone dominante et les œuvres en langues autochtones ont été placées sur la même grille d'évaluation, sans bénéficier de « points bonus ethniques ».
 
-Son discours de réception du prix de l'album de l'année a été largement cité par les médias :
+Son discours de réception a été cité par de nombreux médias :
 
-> « Je voudrais dire à tous les Autochtones devant leur téléviseur : ne gaspillez pas vos talents, mais ne vous y reposez pas non plus. »
+> « Je veux dire à tous les Autochtones devant leur téléviseur : ne gaspillez pas votre talent et ne comptez pas uniquement sur lui. »
 >
-> « Un peu plus de compréhension, un peu moins de malentendus. Si vous ne comprenez toujours pas, réécoutez cet album ; si ça ne vous plaît toujours pas, alors écoutez-le une deuxième fois. »[^15]
+> « Un peu plus de compréhension, un peu moins de malentendus. Si vous ne comprenez toujours pas, écoutez cet album une nouvelle fois ; si vous n'aimez toujours pas, alors écoutez-le une deuxième fois. »[^15]
 
-La phrase « ne gaspillez pas vos talents, mais ne vous y reposez pas non plus » a un double sens : en interne (envers la communauté autochtone), elle dit de ne pas tenir pour acquis le don artistique que la communauté vous a transmis et de ne pas rester dans sa zone de confort ; en externe (envers le public non autochtone), elle recule également face à l'étiquette que la société sinophone a l'habitude de coller — « le don artistique des Autochtones » : **mon travail est le résultat d'un effort, pas d'un bonus racial**.
+La phrase « ne gaspillez pas votre talent et ne comptez pas uniquement sur lui » possède deux dimensions : en interne (au sein des communautés autochtones), elle dit de ne pas considérer les capacités artistiques données par le groupe comme acquises et de ne pas rester dans sa zone de confort ; en externe (envers le public non autochtone), elle recule d'un pas face à l'étiquette que la société mandrophone a l'habitude de coller sur le « talent artistique autochtone » : **mon œuvre est le résultat d'un travail, et non un bonus racial**.
 
-📝 Note du curateur : La phrase « ne vous reposez pas sur vos talents » est extrêmement rare dans l'industrie de la musique pop sinophone. La plupart des lauréats remercient leur talent, Dieu ou leurs parents. Elle présente le talent comme quelque chose dont il faut « ne pas dépendre » — une déclaration d'éthique professionnelle peu commune.
+📝 Note du commissaire : On entend très rarement « ne comptez pas uniquement sur votre talent » dans l'industrie de la pop mandrophone. La plupart des lauréats remercient leur talent, Dieu ou leurs parents. En présentant le talent comme quelque chose dont il ne faut pas dépendre, elle fait une déclaration d'éthique professionnelle rare.
 
-### « Sans l'écrit, les autres sens sont amplifiés »
+### « Puisqu'il n'y a pas d'écriture, les autres sens sont amplifiés »
 
-Le paiwan est une langue sans système d'écriture. La réflexion d'Abao sur ce sujet est pourtant positive :
+Le paiwan est l'une des langues sans système d'écriture. La réflexion d'Abao sur ce point est positive :
 
-> « Je pense que c'est justement parce qu'il n'y a pas d'écrit que les autres sens sont amplifiés. »
+> « Je pense que c'est précisément parce qu'il n'y a pas d'écriture que les autres sens sont amplifiés. »
 >
-> « En traversant l'ancien et le moderne, en franchissant les barrières linguistiques, nos sensations sont en fait si semblables. »[^13]
+> « Traversant le passé et le présent, dépassant les barrières de la langue, nos ressentis sont en réalité si similaires. »[^13]
 
-Pas d'écrit = transmission orale = mémoire = corps = rythme = la musique électronique contemporaine peut s'y brancher. Cette chaîne logique, qui semble paradoxale, explique pourquoi sa collaboration avec Dizparity a fonctionné aussi naturellement : **la production électronique ne repose pas sur l'écrit ni sur le sens, mais sur la transmission sensorielle du rythme, du timbre et de l'ambiance**.
+Absence d'écriture = tradition orale = mémoire = corps = rythme = une compatibilité naturelle avec l'électro contemporaine. Cette chaîne logique, qui peut sembler paradoxale, explique pourquoi sa collaboration avec Dizparity a été si fluide : **la production électronique ne repose pas sur l'écrit ou la sémantique, mais sur la transmission sensorielle du rythme, du timbre et de l'atmosphère**.
 
-Quand elle chante du electro en paiwan, elle ne « force pas la langue ancestrale dans l'électro » : elle laisse l'électro rencontrer la source sonore qu'il était censé trouver.
+En chantant de l'électro en paiwan, elle ne cherche pas à « forcer la langue dans l'électro », mais permet à l'électro de rencontrer une source sonore qui lui est intrinsèquement destinée.
 
-### Le label Nanguaq : de l'individu au mécanisme
+### Le label Nanguaq : de l'individuel au mécanisme
 
-Après 2020, Abao ne se contente plus de faire de la musique pour elle-même. Elle dirige « Nanguaq Music » (那屋瓦), un label et une structure de production centrés sur la musique autochtone.[^16]
+Après 2020, Abao ne se contente plus de faire sa propre musique. Elle dirige « Nanguaq » (Nanguaq Music), un label et une structure de production centrés sur la musique autochtone.[^16]
 
-Nanguaq ne suit pas la voie déjà tracée de « l'industrialisation de la musique autochtone », mais joue un rôle de facilitateur permettant aux jeunes musiciens autochtones de faire la musique qu'ils souhaitent. L'album _免緊張 tlupupia_ en 2024 et la performance _886 Waves_ au Central Park de New York en 2025 sont des réalisations issues de l'écosystème Nanguaq.[^17]
+Nanguaq ne suit pas la voie déjà tracée de l'« industrialisation de la musique autochtone », mais joue un rôle d'**enabler (facilitateur) permettant aux jeunes musiciens autochtones de faire la musique qu'ils souhaitent**. Les projets 《免緊張 tlupupia》 en 2024 ou la performance à Central Park de New York pour 《886 Waves》 en 2025 sont des œuvres issues de la structure Nanguaq.[^17]
 
-La signification de cette institutionnalisation est la suivante : **ce n'est pas une seule artiste star qui porte la représentativité de tout un peuple**. Abao permet aux membres des Nanguaq少女隊 et aux autres musiciens collaborateurs de Nanguaq de ne pas avoir à refaire le chemin qu'elle a parcouru seule — « porter à elle seule la pop en langue ancestrale » — parce que le label existe déjà.
+La signification de ce passage à un mécanisme est la suivante : **il ne s'agit pas de compter sur une seule star pour porter la représentativité d'un groupe**. Abao permet aux futures « filles de Nanguaq » et aux autres musiciens collaborateurs de ne pas avoir à répéter son parcours de « porter seule la pop en langue autochtone », car le label est désormais là.
 
-### La famille : la langue de ma mère, la voix de ma grand-mère
+### Famille : la langue de la mère, la voix de la grand-mère
 
-Le titre de l'album _kinakaian — La langue de ma mère_ est en lui-même un récit familial. Sa mère Wang Chiou-lan fournit le vocabulaire, sa grand-mère Liang Chiu-mei prête sa voix sur _Les trois générations de l'Est paiwan_ — trois générations ont été enregistrées.
+Le titre de l'album 《kinakaian La langue de ma mère》 est en soi un récit familial. Sa mère Wang Chiu-lan fournit le vocabulaire, et sa grand-mère Liang Chiu-mei prête sa voix dans 《東排三聲代》 — trois générations ont ainsi enregistré.
 
-Sa mère Wang Chiou-lan est décédée en février 2021, à l'âge de 66 ans.[^18] _kinakaian_ est sorti en décembre 2019, et le prix des Golden Melody a été remporté en octobre 2020 — sa mère a vu tout cela.
+Sa mère, Wang Chiu-lan, est décédée en février 2021 à l'âge de 66 ans.[^18] L'album 《kinakaian》 est sorti en décembre 2019 et a été primé aux Golden Melody Awards en octobre 2020 — sa mère a donc pu voir tout ce processus.
 
-Abao décrit l'influence de sa mère de manière très concrète : sa mère avait été jeune missionnaire tribale et chanteuse, puis femme au foyer tout en animant des banquets et en chantant lors de cérémonies. Elle n'était pas une universitaire spécialiste des langues autochtones ; elle était **une personne qui vivait dans la langue ancestrale**. Leur collaboration était un échange de matériau linguistique quotidien entre deux générations, et non une transmission unidirectionnelle « des anciens aux jeunes ».[^12]
+Abao décrit l'influence de sa mère de manière très concrète : sa mère était une missionnaire et chanteuse dans le village durant sa jeunesse, puis gestionnaire du foyer et animatrice/chanteuse lors des banquets communautaires après son mariage. Elle n'était pas une chercheuse académique en linguistique ; elle **était une personne vivant au cœur de la langue**. La collaboration d'Abao avec elle est un échange de corpus linguistiques entre deux générations, et non un enseignement unidirectionnel de « l'ancienne génération vers la nouvelle ».[^12]
 
-### Conclusion : « J'espère que la playlist de chacun contiendra un jour une chanson pop en langue autochtone »
+### Conclusion : « J'espère que chaque playlist contiendra une chanson pop en langue autochtone »
 
-Après la 31e cérémonie des Golden Melody Awards, lors d'un entretien avec ELLE Taiwan, Abao a déclaré :
+Après les 31e Golden Melody Awards en 2020, Abao a déclaré lors d'une interview pour Marie Claire :
 
-> « J'espère qu'à l'avenir, la playlist de chacun contiendra une chanson pop en langue autochtone. »[^19]
+> « J'espère qu'à l'avenir, il y aura une chanson pop en langue autochtone dans la playlist de chacun. »[^19]
 
-Décomposée, cette phrase exprime un objectif concret : **les chansons pop en langues autochtones, dans les listes de lecture quotidiennes, seraient sur un pied d'égalité avec les chansons pop en mandarin, en anglais et en japonais**. Pas un moment rituel où l'on « écoute spécifiquement de la musique autochtone », mais le quotidien où « la chanson suivante dans la playlist Spotify est en paiwan, en puyuma ou en amis ».
+Décomposé, cet objectif est concret : **que les chansons pop en langues autochtones occupent la même place que le mandarin, l'anglais ou le japonais dans les listes d'écoute quotidiennes**. Il ne s'agit pas d'un moment cérémoniel de « diffusion spéciale de musique autochtone », mais d'une normalité où, en faisant défiler Spotify, la chanson suivante est par hasard en paiwan, en bunun ou en amish.
 
-Cet objectif n'est pas encore atteint. En 2026, sur les plateformes de streaming de musique pop sinophone, la grande majorité des utilisateurs taïwanais n'ont pas de chansons en langues autochtones dans leurs playlists quotidiennes. Mais Abao, avec _kinakaian — La langue de ma mère_ sorti en 2019, a relevé d'un cran le plafond des possibés.
+Cet objectif n'est pas encore atteint. En 2026, sur les plateformes de streaming mandrophones, la grande majorité des utilisateurs taïwanais n'ont toujours pas de chansons en langues autochtones dans leurs playlists quotidiennes. Mais avec son album 《kinakaian La langue de ma mère》 de 2019, Abao a élevé le plafond des possibles d'un niveau entier.
 
-Comment résumerait-elle tout cela elle-même ? Probablement par ces deux phrases prononcées lors de la remise du prix de la 31e cérémonie des Golden Melody Awards :
+Comment résumerait-elle tout cela ? Probablement par ces deux phrases prononcées lors de sa réception du prix aux Golden Melody Awards :
 
-**« Ne gaspillez pas vos talents, mais ne vous y reposez pas non plus. »**
+**« Ne gaspillez pas votre talent et ne comptez pas uniquement sur lui. »**
 
-C'est valable pour elle-même, c'est valable pour la prochaine génération de musiciens autochtones, et c'est valable pour l'ensemble de l'industrie de la musique pop sinophone : le talent est un point de départ, pas une réponse.
+C'est vrai pour elle-même, pour la prochaine génération de musiciens autochtones, et pour l'ensemble de l'industrie de la pop mandrophone : le talent est un point de départ, pas une réponse finale.
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [魏如萱](/fr/people/waa-wei-singer) — Une autre voie, dans la même génération de la pop sinophone, pour « rendre audible ce qui ne correspond pas aux normes » (la voix de娃娃 de魏如萱 × l'électro en langue ancestrale d'Abao : deux approches linguistiques pour repousser les frontières du son)
-- [陳建騏](/fr/people/chen-chien-chi-music-producer) — Un contrepoint à la figure de « l'auteur absent » dans la production musicale pop sinophone (陳建騏 travaille les frontières sonores du mainstream mandarin, Abao fait du future pop en langue ancestrale)
-- [周子瑜](/fr/people/tzuyu) — L'autre extrémité des stratégies identitaires des femmes musiciennes taïwanaises de la même génération (周子瑜 dans l'industrie K-pop vs Abao : identité autochtone × production locale)
-- [流行音樂與金曲獎](/fr/music/pop-music-and-golden-melody-awards) — La signification structurelle du fait que le prix de l'album de l'année des Golden Melody Awards 2020 (31e édition) ait été remporté pour la première fois par une œuvre en langue ancestrale
-- [台灣流行音樂](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Le tournant de 2020 : la musique en langues autochtones passe de la marge à la scène principale
-- [台灣原住民族16族文化地圖](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Le portrait contemporain de la langue, des tribus et des formes artistiques du peuple paiwan
-- [原住民族語言政策](/society/原住民族語言政策) — Le contexte politique de la revitalisation des langues autochtones et sa complémentarité avec la pratique musicale d'Abao
-- [黃少雍](/fr/people/huang-shao-yong-musician) — Co-producteur de _kinakaian — La langue de ma mère_ ; le cours « MINETJUS 電音製作解密 » sur la production électro en langues autochtones, qu'il dirige avec Abao, en est à sa cinquième édition
+- [Hsueh Chia-ying](/fr/people/waa-wei-singer) — Une autre voie de la pop mandrophone de sa génération pour « faire entendre des voix non standard » (la voix enfantine de Hsueh Chia-ying × l'électro paiwan d'Abao, deux langages étendant les frontières sonores).
+- [Chen Chien-chi](/fr/people/chen-chien-chi-music-producer) — Un contraste avec l'identité d'« auteur absent » du producteur pop mandrophone (Chen Chien-chi explorant les frontières de la pop mainstream vs Abao explorant la _future pop_ autochtone).
+- [Chou Tzu-yu](/fr/people/tzuyu) — L'autre extrémité des stratégies d'identité des musiciennes taïwanaises de sa génération (l'industrie K-pop de Chou Tzu-yu vs l'identité ethnique et la production locale d'Abao).
+- [Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — La signification structurelle du premier prix de l'Album de l'année remporté par une œuvre en langue autochtone en 2020.
+- [Musique Pop Taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'année charnière 2020, quand la musique autochtone est passée du _sidebar_ à la _main stage_.
+- [Carte culturelle des 16 groupes autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Les visages contemporains des langues, tribus et formes d'art paiwan.
+- [Politique linguistique autochtone](/fr/society/taiwan-indigenous-education-and-language-revival) — Le contexte des politiques de revitalisation linguistique et sa complémentarité avec la pratique musicale d'Abao.
+- [Huang Shao-yong](/fr/people/huang-shao-yong-musician) — Co-producteur de 《kinakaian La langue de ma mère》 ; les cours de production électro autochtone « Décryptage de la production MINETJUS » qu'ils dirigent en sont à leur cinquième édition.
 
 ## Références
 
-[^1]: [第 31 屆金曲獎得獎名單 — 文化部影視及流行音樂產業局](https://www.bamid.gov.tw/news_10_148170.html) — 2020 年 10 月 3 日第 31 屆金曲獎，《kinakaian 母親的舌頭》拿下年度專輯獎、最佳原住民語專輯獎；〈Thank You 感謝〉拿下年度歌曲獎；共 8 項入圍 3 項得獎；年度專輯獎首次由全原住民族語作品拿下。
+[^1]: [Liste des lauréats des 31e Golden Melody Awards — Bureau de l'industrie cinématographique, audiovisuelle et musicale du Ministère de la Culture](https://www.bamid.gov.tw/news_10_148170.html) — Le 3 octobre 2020, lors des 31e Golden Melody Awards, 《kinakaian La langue de ma mère》 a remporté l'Album de l'année et le Meilleur album en langue autochtone ; 〈Thank You〉 a remporté la Chanson de l'année ; 3 prix remportés sur 8 nominations ; premier Album de l'année pour une œuvre entièrement en langue autochtone.
 
-[^2]: [阿爆 (Aljenljeng Tjaluvie) — 維基百科](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E7%88%86) — 排灣語名 Aljenljeng Tjaluvie，漢名張靜雯，1981 年 8 月 25 日生於臺東縣金峰鄉嘉蘭村正興部落（東排灣），排灣族。
+[^2]: [Abao (Aljenljeng Tjaluvie) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E7%88%86) — Nom paiwan Aljenljeng Tjaluvie, nom chinois Chang Ching-wen, née le 25 août 1981 dans le village de Zhengxing, sous-district de Jialan, canton de Jinfeng, comté de Taitung, peuple Paiwan.
 
-[^3]: [阿爆與母親的舌頭 — 鏡週刊 2020 專訪](https://www.mirrormedia.mg/story/20201008ent001) — 父母都來自正興部落，阿爆幼年隨家人搬到高雄長大；家族語言能力在代間縮減；成年後靠母親王秋蘭重新學回排灣語。
+[^3]: [Abao et la langue de sa mère — Interview de Mirror Media 2020](https://www.mirrormedia.mg/story/20201008ent001) — Ses parents sont originaires du village de Zhengxing ; Abao a grandi à Kaohsiung avec sa famille ; la maîtrise de la langue familiale s'est réduite entre les générations ; elle a réappris le paiwan auprès de sa mère Wang Chiu-lan à l'âge adulte.
 
-[^4]: [阿爆《kinakaian》深度專訪 — 報導者 The Reporter](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — 「在她的歌裡，誰都能跳舞」；談阿爆與母親 / Dizparity 合作的詳細過程；排灣語詞彙透過日常聊天採集。
+[^4]: [Interview approfondie d'Abao sur 《kinakaian》 — The Reporter](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — « Dans ses chansons, tout le monde peut danser » ; discussion sur le processus détaillé de collaboration entre Abao, sa mère et Dizparity ; collecte du vocabulaire paiwan via les conversations quotidiennes.
 
-[^5]: [阿爆 & Brandy — 第 15 屆金曲獎最佳重唱組合紀錄](https://www.goldenmelody.tw/award/15) — 2003 年 Abao & Brandy R&B 雙人組出道，以同名專輯於 2004 年第 15 屆金曲獎拿下最佳重唱組合；同年解散。
+[^5]: [Abao & Brandy — Registre du Meilleur duo des 15e Golden Melody Awards](https://www.goldenmelody.tw/award/15) — Début du duo R&B Abao & Brandy en 2003, remportant le prix du meilleur duo lors des 15e Golden Melody Awards en 2004 avec leur album éponyme ; dissolution la même année.
 
-[^6]: [阿爆 10 年護理師生涯 — 鏡週刊人物專訪](https://www.mirrormedia.mg/story/20201008ent001) — Abao & Brandy 解散後阿爆暫別音樂約 10 年，以長庚護專五年制護理背景任護理師，直到 2014 年才正式回歸。
+[^6]: [La carrière d'infirmière de 10 ans d'Abao — Interview de Mirror Media](https://www.mirrormedia.mg/story/20201008ent001) — Après la dissolution d'Abao & Brandy, Abao s'est retirée de la musique pendant environ 10 ans pour travailler comme infirmière grâce à sa formation en soins infirmiers ; elle n'est revenue officiellement qu'en 2014.
 
-[^7]: [《東排三聲代》三代排灣古謠 — 那屋瓦官方資料](https://www.nanguaq.com/discography) — 2014 年《東排三聲代》由阿爆、母親王秋蘭、外婆梁秋妹共同錄製，收錄東排灣部落古謠，是阿爆正式以族語回歸音樂的起點。
+[^7]: [《東排三聲代》 Trois générations de chants anciens Paiwan — Données officielles de Nanguaq](https://www.nanguaq.com/discography) — En 2014, 《東排三聲代》 a été enregistré conjointement par Abao, sa mère Wang Chiu-lan et sa grand-mère Liang Chiu-mei, incluant des chants tribaux du Paiwan de l'Est ; point de départ de son retour officiel à la musique en langue autochtone.
 
-[^8]: [阿爆《vavayan·女人》首張個人創作 — 第 28 屆金曲最佳原住民語專輯](https://www.goldenmelody.tw/award/28) — 2016 年 8 月首張個人全排灣語創作專輯《vavayan·女人》由荒井十一製作；第 28 屆金曲獎最佳原住民語專輯獎；荒井十一同場拿下最佳專輯製作人獎。
+[^8]: [Premier album solo d'Abao 《vavayan·Femme》 — Meilleur album en langue autochtone aux 28e Golden Melody Awards](https://www.goldenmelody.tw/award/28) — En août 2016, premier album de création personnelle entièrement en paiwan 《vavayan·Femme》 produit par Arai Juuichi ; prix du Meilleur album en langue autochtone aux 28e Golden Melody Awards ; Arai Juuichi remporte également le prix du Meilleur producteur d'album.
 
-[^9]: [荒井十一談阿爆《vavayan·女人》製作 — BIOS monthly](https://www.biosmonthly.com/article/9864) — 荒井十一自述製作阿爆專輯時感受到她「主持人的幽默 + 母語使命感 + 過往 R&B 經驗」的三重組合，塑造出《vavayan·女人》up-tempo 風格。
+[^9]: [Arai Juuichi parle de la production de 《vavayan·Femme》 d'Abao — BIOS monthly](https://www.biosmonthly.com/article/9864) — Arai Juuichi décrit comment la combinaison de « l'humour d'animatrice + le sens de la mission linguistique + l'expérience R&B passée » d'Abao a façonné le style _up-tempo_ de 《vavayan·Femme》.
 
-[^10]: [阿爆《kinakaian 母親的舌頭》專輯資訊 — 那屋瓦](https://www.nanguaq.com/kinakaian) — 2019 年 12 月 30 日發行，全排灣族語、全電音；編曲 Dizparity、製作 黃少雍+阿爆、監製 荒井十一；專輯名「kinakaian」為排灣語「母親的舌頭」。
+[^10]: [Informations sur l'album 《kinakaian La langue de ma mère》 d'Abao — Nanguaq](https://www.nanguaq.com/kinakaian) — Sorti le 30 décembre 2019, entièrement en paiwan et électro ; arrangement par Dizparity, production par Huang Shao-yong + Abao, supervision par Arai Juuichi ; le titre « kinakaian » signifie « la langue de ma mère » en paiwan.
 
-[^11]: [阿爆 × Dizparity 合作起點 — 報導者專訪](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — 2018 年加拿大 CMW 音樂節兩人相識；Dizparity 做了沒有人聲的完整電音演出；回台後透過訊息往來，Dizparity 寄 beat、阿爆 wordless humming，從小試片段養出合作默契。
+[^11]: [Début de la collaboration Abao × Dizparity — Interview du Reporter](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — Rencontre au festival CMW au Canada en 2018 ; Dizparity a fait une performance électro sans voix ; après le retour à Taïwan, ils ont échangé par messages (beats de Dizparity et fredonnements d'Abao), développant leur complicité.
 
-[^12]: [阿爆母女合作詞彙採集方式 — VERSE 專訪](https://www.verse.com.tw/article/abao-aljenljeng-mother-tongue) — 阿爆自述與母親王秋蘭的合作模式：「我跟我媽媽比較像是用聊天的方式去寫我們要的歌詞。媽媽給的詞彙量在第二張《kinakaian 母親的舌頭》又更多、更難了，這是最實際的回饋。」
+[^12]: [Méthode de collecte du vocabulaire entre Abao et sa mère — Interview de VERSE](https://www.verse.com.tw/article/abao-aljenljeng-mother-tongue) — Abao décrit son mode de collaboration avec Wang Chiu-lan : « C'est un peu comme si nous écrivions les paroles en discutant simplement. Le volume de vocabulaire fourni par ma mère était encore plus important et complexe pour le deuxième album 《kinakaian La langue de ma mère》. »
 
-[^13]: [阿爆談母語音樂的解放與新舊融合 — 關鍵評論網 TNL](https://www.thenewslens.com/article/143710) — 阿爆完整論述「做母語音樂是一個解放」「新舊一定要融在一起」「因為沒有文字所以其他感官被放大」三組核心哲學引語。
+[^13]: [Abao parle de la libération par la langue maternelle et de la fusion ancien/nouveau — TNL](https://www.thenewslens.com/article/143710) — Citations clés d'Abao sur « faire de la musique en langue maternelle est une libération », « le nouveau et l'ancien doivent fusionner » et « l'absence d'écriture amplifie les autres sens ».
 
-[^14]: [金曲 31 評審團主席陳鎮川談評審流程 — Blow 吹音樂](https://blow.streetvoice.com/54821/) — 陳鎮川自述：疫情下評審有更充裕時間、邀請原住民族語教師逐句向評審說明歌詞意涵；第一輪投票最佳作詞人幾乎每一種語言皆有入圍；點名阿爆與李英宏〈Tjakudain 無奈〉台語+排灣語融合。
+[^14]: [Chen Chen-chuan, président du jury des 31e Golden Melody Awards, parle du processus — Blow Music](https://blow.streetvoice.com/54821/) — Chen Chen-chuan explique : grâce à la pandémie, le jury a eu plus de temps et a invité des enseignants de langues autochtones pour traduire les paroles ; cela a permis une diversité linguistique accrue lors du premier tour de vote.
 
-[^15]: [阿爆金曲 31 年度專輯獎得獎感言 — JUKSY 街星](https://www.juksy.com/articles/abao-gma-31) — 阿爆完整得獎感言：「我想跟電視前面所有原住民說，不要浪費天賦也不要依賴天賦。」「多一點理解，少一點誤解。如果你還不理解，請再聽一次這張專輯；還是不喜歡，那請你聽第二次。」
+[^15]: [Discours d'Abao pour l'Album de l'année aux 31e Golden Melody Awards — JUKSY](https://www.juksy.com/articles/abao-gma-31) — Discours complet : « Je veux dire à tous les Autochtones devant leur téléviseur : ne gaspillez pas votre talent et ne comptez pas uniquement sur lui. » « Un peu plus de compréhension, un peu moins de malentendus... »
 
-[^16]: [那屋瓦 Nanguaq Music 廠牌介紹](https://www.nanguaq.com/about) — 阿爆領軍的原住民族音樂廠牌，成立於 2020 年前後；旗下藝人包括那屋瓦少女隊、Arase、HengJones、R.fu 等；定位為「讓原住民族年輕音樂人做自己想做的音樂」的 enabler。
+[^16]: [Présentation du label Nanguaq Music](https://www.nanguaq.com/about) — Label de musique autochtone dirigé par Abao, fondé autour de 2020 ; inclut des artistes comme Nanguaq Girls, Arase, HengJones, R.fu ; positionné comme un facilitateur pour les jeunes musiciens autochtones.
 
-[^17]: [阿爆 2024《免緊張 tlupupia》+ 2025《886 Waves》紐約中央公園演出 — 那屋瓦作品年表](https://www.nanguaq.com/discography) — 2024 年《免緊張 tlupupia》與 Arase、HengJones、R.fu、那屋瓦少女隊合作；2025 年《886 Waves》紐約中央公園演出，那屋瓦品牌的國際延伸。
+[^17]: [Chronologie des œuvres de Nanguaq (2024 《免緊張 tlupupia》 et 2025 《886 Waves》 à Central Park) — Chronologie Nanguaq](https://www.nanguaq.com/discography) — 2024 : collaboration sur 《免緊張 tlupupia》 avec Arase, HengJones, R.fu et Nanguaq Girls ; 2025 : performance de 《886 Waves》 à Central Park, New York, marquant l'expansion internationale de la marque.
 
-[^18]: [王秋蘭（阿爆母親）2021-02 過世 — 鏡週刊](https://www.mirrormedia.mg/story/20210225ent001) — 阿爆母親王秋蘭於 2021 年 2 月過世，享壽 66 歲；《kinakaian 母親的舌頭》發行於 2019 年 12 月、金曲 31 得獎於 2020 年 10 月——母親見證了這張專輯完整的誕生、發行、獲獎歷程。
+[^18]: [Décès de Wang Chiu-lan (mère d'Abao) en février 2021 — Mirror Media](https://www.mirrormedia.mg/story/20210225ent001) — La mère d'Abao est décédée à 66 ans ; elle a pu voir l'album 《kinakaian》 être publié et primé.
 
-[^19]: [阿爆談未來期待 — 瑪麗克萊爾 ELLE Taiwan 訪問](https://www.elle.com/tw/entertainment/music/a33965123/abao-aljenljeng) — 阿爆談金曲 31 後的期待：「希望未來大家的歌單裡，都有一首原住民語流行歌。」拆解之後是具體目標：原住民族語流行歌在日常播放清單裡跟華語、英語平起平坐。
+[^19]: [Abao parle de ses attentes futures — Interview ELLE Taiwan](https://www.elle.com/tw/entertainment/music/a33965123/abao-aljenljeng) — Abao exprime son souhait que les chansons pop en langues autochtones fassent partie intégrante des playlists quotidiennes, au même titre que le mandarin ou l'anglais.
 
-[^20]: [阿爆生活即歌謠的族群音樂觀 — 報導者完整論述](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — 阿爆自述：「原民的歌謠都是在講生活，你去看古謠的歌詞，其實也是在描述這些生活的細節，只要不脫離生活，那對我來說就是原民的歌謠了。」族語音樂 = 當代生活的延續。
+[^20]: [La vision musicale d'Abao : la vie est une chanson — The Reporter](https://www.twreporter.org/a/waiting-lab-abao-aljenljeng) — Abao explique que les chants autochtones décrivent les détails de la vie ; tant qu'on ne s'en détache pas, c'est de la musique autochtone. La langue est le prolongement de la vie contemporaine.
 
-[^21]: [徐佳瑩 × 阿爆 × Brandy〈切歌〉2021 合作 — KKBOX](https://www.kkbox.com/tw/tc/song/切歌) — 2021 年徐佳瑩邀阿爆與 Brandy 合作〈切歌〉；三人合唱版本重新啟動 2003 Abao & Brandy 時期的連結；歌詞寫給女孩、女人。
+[^21]: [Collaboration 2021 Hsu Chia-ying × Abao × Brandy 〈切歌〉 — KKBOX](https://www.kkbox.com/tw/tc/song/切歌) — En 2021, Hsu Chia-ying a invité Abao et Brandy pour le titre 〈切歌〉, reconnectant les liens de l'époque Abao & Brandy.
 
-[^22]: [阿爆 × 李英宏〈Tjakudain 無奈〉台語+排灣語融合 — 金曲 31 入圍紀錄](https://www.goldenmelody.tw/news/31-nomination) — 2020 年阿爆與李英宏合作〈Tjakudain 無奈〉，陳鎮川評「將台語跟排灣族語融合的非常好」；金曲 31 多項入圍。
+[^22]: [Abao × Li Ying-hung 〈Tjakudain 無奈〉 fusion Taïwanais + Paiwan — Records des 31e Golden Melody Awards](https://www.goldenmelody.tw/news/31-nomination) — En 2020, collaboration sur 〈Tjakudain 無奈〉, saluée par le jury pour sa fusion réussie du taïwanais et du paiwan.

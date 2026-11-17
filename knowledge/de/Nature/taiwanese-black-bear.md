@@ -19,12 +19,16 @@ readingTime: 12
 featured: false
 lastVerified: 2026-08-22
 lastHumanReview: false
+image: '/article-images/nature/naan-visitor-center-black-bear-display.webp'
+imageCredit: '舟集 Toadboat'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg'
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '68d051008'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:b5101d8e52c2d3e9'
 sourceBodyHash: 'sha256:4f99620b588681ad'
-translatedAt: '2026-09-21T14:13:34.624927+00:00'
+translatedAt: '2026-11-04T14:40:56.790123+00:00'
 ---
 
 # Taiwan-Schwarzer Bär

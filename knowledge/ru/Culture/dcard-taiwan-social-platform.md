@@ -2,9 +2,7 @@
 title: 'Dcard'
 description: 'Веб-сайт, созданный парнем из Тайняня в общежитии НТУ, чтобы ему было легче заводить друзья, стал самым влиятельным социальным платформой для тайваньской молодежи, а затем продолжал расти, сталкиваясь с вопросом: «Не угасает ли Dcard?».'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '網路與數位文化'
 tags:
   [
     'Социальные медиа',
@@ -15,15 +13,19 @@ tags:
     'Университет',
     'Технологии',
   ]
-readingTime: 8
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-05T06:03:36.104772+00:00'
 ---
 
 # Dcard

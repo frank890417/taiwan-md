@@ -2,26 +2,31 @@
 title: 'चियांग काई-शेक मेमोरियल हॉल'
 description: 'यह ताइपे शहर के केंद्र में सबसे विशाल राजनीतिक टोटेम है, और सबसे लोकतांत्रिक नृत्य अभ्यास स्थल भी। सत्तावादी मंदिर से संक्रमणकालीन न्याय के तूफान की आँख तक, यह इमारत ताइवान की आत्मा के सबसे तीव्र कंपन को दर्ज करती है।'
 date: 2026-04-10
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
-  - 'संक्रमणकालीन न्याय'
-  - 'ताइपे स्थलचिह्न'
-  - 'यांग चुओ-चेंग'
-  - 'वाइल्ड लिली छात्र आंदोलन'
-  - 'सत्तावादी परिदृश्य'
-  - 'पर्यटन'
-  - 'शिनयी योजना क्षेत्र'
-readingTime: 9
+  [
+    'संक्रमणकालीन न्याय',
+    'ताइपे स्थलचिह्न',
+    'यांग चुओ-चेंग',
+    'वाइल्ड लिली छात्र आंदोलन',
+    'सत्तावादी परिदृश्य',
+    'पर्यटन',
+    'शिनयी योजना क्षेत्र',
+  ]
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-10
 lastHumanReview: false
-featured: false
+slug: 'cks-memorial-hall'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
-translatedAt: '2026-07-25T01:31:56+08:00'
+translatedAt: '2026-11-05T01:48:21.073658+00:00'
 ---
 
 # चियांग काई-शेक मेमोरियल हॉल

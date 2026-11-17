@@ -1,166 +1,106 @@
 {
-  "totalArticles": 15002,
-  "totalCategories": 27,
+  "totalArticles": 15053,
+  "totalCategories": 15,
   "estimatedContributors": 80,
-  "totalTags": 9005,
+  "totalTags": 8984,
   "categories": [
     {
-      "name": "vi",
-      "count": 1154
+      "name": "people",
+      "count": 3848
     },
     {
-      "name": "es",
-      "count": 1154
+      "name": "society",
+      "count": 1589
     },
     {
-      "name": "ko",
-      "count": 1154
+      "name": "culture",
+      "count": 1532
     },
     {
-      "name": "hi",
-      "count": 1154
+      "name": "history",
+      "count": 1196
     },
     {
-      "name": "fr",
-      "count": 1154
+      "name": "food",
+      "count": 1158
     },
     {
-      "name": "en",
-      "count": 1154
+      "name": "geography",
+      "count": 1092
     },
     {
-      "name": "ja",
-      "count": 1154
+      "name": "economy",
+      "count": 1040
     },
     {
-      "name": "de",
-      "count": 1154
+      "name": "technology",
+      "count": 897
     },
     {
-      "name": "ru",
-      "count": 1154
+      "name": "art",
+      "count": 673
     },
     {
-      "name": "Technology",
-      "count": 69
+      "name": "lifestyle",
+      "count": 598
     },
     {
-      "name": "History",
-      "count": 92
+      "name": "nature",
+      "count": 533
     },
     {
-      "name": "id",
-      "count": 1154
+      "name": "music",
+      "count": 481
     },
     {
-      "name": "ar",
-      "count": 1154
+      "name": "politics",
+      "count": 273
     },
     {
-      "name": "pt",
-      "count": 1154
-    },
-    {
-      "name": "Politics",
-      "count": 21
-    },
-    {
-      "name": "Society",
-      "count": 122
-    },
-    {
-      "name": "Food",
-      "count": 89
-    },
-    {
-      "name": "Lifestyle",
-      "count": 46
-    },
-    {
-      "name": "Culture",
+      "name": "about",
       "count": 117
     },
     {
-      "name": "About",
-      "count": 9
-    },
-    {
-      "name": "People",
-      "count": 296
-    },
-    {
-      "name": "Geography",
-      "count": 82
-    },
-    {
-      "name": "Music",
-      "count": 37
-    },
-    {
-      "name": "Economy",
-      "count": 80
-    },
-    {
-      "name": "Nature",
-      "count": 41
-    },
-    {
-      "name": "Art",
-      "count": 51
-    },
-    {
       "name": "resources",
-      "count": 2
+      "count": 26
     }
   ],
   "topTags": [
     {
-      "name": "Economy",
-      "count": 61
+      "name": "人物",
+      "count": 58
     },
     {
-      "name": "人物",
-      "count": 59
+      "name": "Economy",
+      "count": 56
     },
     {
       "name": "企業",
-      "count": 53
+      "count": 52
     },
     {
       "name": "YouTuber",
-      "count": 48
+      "count": 45
     },
     {
       "name": "ODM",
-      "count": 36
-    },
-    {
-      "name": "科技與企業",
-      "count": 33
+      "count": 38
     },
     {
       "name": "民主化",
-      "count": 31
-    },
-    {
-      "name": "原住民族",
       "count": 30
     },
     {
-      "name": "政治",
-      "count": 28
+      "name": "原住民族",
+      "count": 29
     },
     {
-      "name": "台南",
+      "name": "政治",
       "count": 27
     },
     {
       "name": "AI",
       "count": 26
-    },
-    {
-      "name": "原住民",
-      "count": 25
     },
     {
       "name": "飲食文化",
@@ -171,53 +111,76 @@
       "count": 25
     },
     {
+      "name": "台南",
+      "count": 25
+    },
+    {
       "name": "建築",
       "count": 25
     },
     {
-      "name": "文學",
+      "name": "원주민",
+      "count": 25
+    },
+    {
+      "name": "科技與企業",
       "count": 24
     },
     {
-      "name": "원주민",
-      "count": 24
+      "name": "原住民",
+      "count": 23
     },
     {
       "name": "기업",
       "count": 23
     },
     {
-      "name": "奧運",
+      "name": "台灣文化",
       "count": 22
     },
     {
-      "name": "歷史",
-      "count": 22
+      "name": "教育",
+      "count": 21
+    },
+    {
+      "name": "體育",
+      "count": 20
     }
   ],
   "languageDistribution": {
-    "zh-TW": 15002,
-    "en": 0
+    "vi": 1156,
+    "es": 1156,
+    "ko": 1158,
+    "hi": 1158,
+    "fr": 1158,
+    "en": 1158,
+    "ja": 1158,
+    "de": 1158,
+    "ru": 1158,
+    "zh-TW": 1162,
+    "id": 1157,
+    "ar": 1158,
+    "pt": 1158
   },
-  "lastUpdated": "2026-10-25T22:06:32.289Z",
-  "stars": 1231,
-  "forks": 187,
-  "zhPages": 1152,
+  "lastUpdated": "2026-11-06T22:29:04.943Z",
+  "stars": 1239,
+  "forks": 188,
+  "zhPages": 1160,
   "languagePages": {
-    "zh-TW": 1152,
-    "en": 1154,
-    "ja": 1154,
-    "ko": 1154,
-    "es": 1154,
-    "fr": 1154,
-    "vi": 1154,
-    "id": 1154,
-    "pt": 1154,
-    "hi": 1154,
-    "ar": 1154,
-    "ru": 1154,
-    "de": 1154
+    "zh-TW": 1160,
+    "en": 1158,
+    "ja": 1158,
+    "ko": 1158,
+    "es": 1156,
+    "fr": 1158,
+    "vi": 1156,
+    "id": 1157,
+    "pt": 1158,
+    "hi": 1158,
+    "ar": 1158,
+    "ru": 1158,
+    "de": 1158
   },
-  "enPages": 1154,
-  "totalPages": 1152
+  "enPages": 1158,
+  "totalPages": 1160
 }

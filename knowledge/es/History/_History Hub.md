@@ -58,16 +58,16 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[prehistoric-era-and-indigenous-peoples]]​: Pueblos austronesios y cultura indígena de Taiwán
-- [[Período Holandés-Español]]​: Taiwán en la era de los grandes descubrimientos
-- [[Período Ming-Zheng]]​: Zheng Chenggong y la resistencia anti-Qing
-- [[qing-dynasty-rule]]​: Desarrollo en la periferia del imperio
-- [[japanese-colonial-era]]​: Modernización y dominio colonial
-- [[martial-law-era]]​: Gobierno autoritario y Terror Blanco
-- [[democratization]]​: Revolución silenciosa y transición política
-- [[228-incident]]​: Trauma histórico y justicia transicional
-- [[Terror Blanco]]​: Persecución política bajo el gobierno autoritario
-- [[Movimiento Democrático de Taiwán]]​: Del movimiento Dangwai a la política de partidos
+- [[prehistoric-era-and-indigenous-peoples]]: Pueblos austronesios y cultura indígena de Taiwán
+- [[Período Holandés-Español]]: Taiwán en la era de los grandes descubrimientos
+- [[Período Ming-Zheng]]: Zheng Chenggong y la resistencia anti-Qing
+- [[qing-dynasty-rule]]: Desarrollo en la periferia del imperio
+- [[japanese-colonial-era]]: Modernización y dominio colonial
+- [[martial-law-era]]: Gobierno autoritario y Terror Blanco
+- [[democratization]]: Revolución silenciosa y transición política
+- [[228-incident]]: Trauma histórico y justicia transicional
+- [[Terror Blanco]]: Persecución política bajo el gobierno autoritario
+- [[Movimiento Democrático de Taiwán]]: Del movimiento Dangwai a la política de partidos
 
 ---
 

@@ -1,27 +1,31 @@
 ---
-title: 'Pegatron Corporation - The Invisible Champion of Electronics Manufacturing Services'
-description: 'Spun off from ASUS, this contract-manufacturing giant is the invisible maker behind iPhones, game consoles, and laptops, and one of Taiwan’s “Big Five” electronics manufacturers'
+title: 'Pegatron: Contract Manufacturer Assembling iPhones for Apple and Switch Consoles for Nintendo'
+description: 'Pegatron is a Taiwanese electronics contract manufacturer that does not produce its own brand, specializing in assembling products for others: Apple''s iPhones and MacBooks, Nintendo Switch, Sony PlayStation, and Microsoft Xbox all have models that come from its production lines. Spun off from ASUS in 2008 with T.H. Tung serving as chairman, its 2024 revenue reached approximately NT$1.3 trillion, and it is known alongside Quanta, Wistron, Inventec, and Compal as the "Electronics Five Brothers." Apple accounts for nearly half of its revenue, making it both the largest customer and the biggest risk.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economy',
-    'Business',
-    'electronics contract manufacturing',
-    'manufacturing',
+    'Enterprise',
+    'Electronics Contract Manufacturing',
+    'Manufacturing',
     'ODM',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-05-15T13:52:05+08:00'
+translatedAt: '2026-11-06T03:49:23.994146+00:00'
 ---
 
 > **30-Second Overview**
@@ -228,12 +232,12 @@ Pegatron’s status as an invisible champion tells us that in an era of global d
 
 ## References
 
-[^1]: [Pegatron Corporation official website](https://www.pegatroncorp.com/) — Pegatron company profile, business scope, and global manufacturing layout
+[^1]: [Pegatron Official Website](https://www.pegatroncorp.com/) — Pegatron corporate profile, business scope, and global manufacturing layout
 
-[^2]: [Cnyes — 2025 global EMS manufacturer ranking](https://www.cnyes.com/) — According to the latest 2025 data, the global EMS ranking has changed, with Wistron rising to become the world’s second-largest EMS manufacturer
+[^2]: [Cnyes.com — 2025 Global EMS Vendor Rankings](https://www.cnyes.com/) — According to the latest 2025 data, global EMS rankings have been adjusted; Wistron has risen to become the world's second-largest EMS vendor
 
-[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — The iPhone 5c was officially announced on September 10, 2013, not in 2012; Pegatron was its main contract manufacturer
+[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c was officially announced on September 10, 2013, not 2012; Pegatron was the primary contract manufacturer
 
-[^4]: [Executive Yuan — National Energy and Carbon Reduction Office](https://www.ey.gov.tw/) — Tung Tzu-hsien became convener of the Executive Yuan’s National Energy and Carbon Reduction Office in 2024, while still serving as Pegatron chairman
+[^4]: [Executive Yuan — National Energy and Carbon Reduction Office](https://www.ey.gov.tw/) — T.H. Tung assumed the post of Minister of the Executive Yuan's National Energy and Carbon Reduction Office in 2024, while continuing to serve as Pegatron Chairman
 
-[^5]: [Wikipedia — Pegatron Corporation](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron was spun off from ASUS in 2008; company history and major customer description
+[^5]: [Wikipedia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron was spun off from ASUS in 2008; company history and major clients described

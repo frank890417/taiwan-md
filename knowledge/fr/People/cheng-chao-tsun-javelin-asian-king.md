@@ -18,15 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
-# design_rationale:
-#   why_this_hook: "從『最後一擲逆轉』切入——91.36米不只是距離，是最後一投的戲劇性，以及亞洲標槍在那一秒改變的事實。"
-#   whats_excluded: "助跑技術細節；各年度比賽逐場成績；訓練設施資訊"
-#   where_it_hedges: "2018雅加達亞運名次以73.86米第5為準（部分早期報導稱獲銀牌實為當年9月洲際盃成績）"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T22:39:29.643647+00:00'
 ---
 
 # Cheng Chao-tsun : le dernier lancer à 91,36 m des Universiades 2017, le javelot asiatique n'a plus jamais été le même

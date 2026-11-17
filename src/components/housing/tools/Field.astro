@@ -1,0 +1,105 @@
+---
+/**
+ * Field.astro — 試算工具的單一輸入欄位（label＋input／select／checkbox）
+ * data-hs-field 是 tool-ui.ts 讀寫的鍵；id 帶伺服端產生的字尾，同頁多實例不重複。
+ */
+import { isShown } from '../../../utils/housing/tool-ui';
+
+interface Option {
+  value: string;
+  label: string;
+}
+interface Props {
+  name: string;
+  label: string;
+  uid: string;
+  /** 該工具目前（預設）的全部欄位值，用來決定初始值與 data-hs-when 的初始顯示 */
+  values: Record<string, string>;
+  kind?: 'number' | 'month' | 'select' | 'checkbox';
+  options?: Option[];
+  step?: string;
+  min?: string;
+  max?: string;
+  help?: string;
+  when?: string;
+  disableWhen?: string;
+  /** 讓 label 文字也能被檢視模型更新（data-hs-out） */
+  labelOut?: string;
+}
+const {
+  name,
+  label,
+  uid,
+  values,
+  kind = 'number',
+  options = [],
+  step = 'any',
+  min,
+  max,
+  help,
+  when,
+  disableWhen,
+  labelOut,
+} = Astro.props;
+const id = `hst-${uid}-${name}`;
+const value = values[name] ?? '';
+const hidden = when ? !isShown(when, values) : false;
+const disabled = disableWhen ? isShown(disableWhen, values) : false;
+---
+
+{
+  kind === 'checkbox' ? (
+    <div class="hst-field hst-field-check" data-hs-when={when} hidden={hidden}>
+      <input
+        type="checkbox"
+        id={id}
+        data-hs-field={name}
+        checked={value === '1'}
+        data-hs-disable-when={disableWhen}
+        disabled={disabled}
+      />
+      <label for={id} data-hs-out={labelOut}>
+        {label}
+      </label>
+    </div>
+  ) : (
+    <div class="hst-field" data-hs-when={when} hidden={hidden}>
+      <label for={id} data-hs-out={labelOut}>
+        {label}
+      </label>
+      {kind === 'select' ? (
+        <select
+          id={id}
+          data-hs-field={name}
+          data-hs-disable-when={disableWhen}
+          disabled={disabled}
+        >
+          {options.map((o) => (
+            <option value={o.value} selected={o.value === value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+      ) : (
+        <input
+          id={id}
+          data-hs-field={name}
+          type={kind}
+          inputmode={kind === 'number' ? 'decimal' : undefined}
+          step={kind === 'number' ? step : undefined}
+          min={min}
+          max={max}
+          value={value}
+          data-hs-disable-when={disableWhen}
+          disabled={disabled}
+          aria-describedby={help ? `${id}-help` : undefined}
+        />
+      )}
+      {help && (
+        <p class="hst-help" id={`${id}-help`}>
+          {help}
+        </p>
+      )}
+    </div>
+  )
+}

@@ -2,19 +2,19 @@
 title: 'Taiwan’s YouTuber Industry and Culture: From Tsai A-ga to Chi Hsuan, the Digital Cultural Evolution of an Island'
 description: "How did a creator who began with magic become Taiwan's first YouTuber with ten million subscribers? Behind this milestone lies the full story of Taiwan's online video culture evolving from local entertainment into international cultural export"
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   ['Culture', 'Digital Culture', 'YouTuber', 'Online Video', 'Social Impact']
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
-sourceCommitSha: 'd40e5042'
-sourceContentHash: 'sha256:d4ca70756fc2b68a'
-sourceBodyHash: 'sha256:631049e094973d93'
-translatedAt: '2026-07-16T00:47:00+08:00'
+sourceCommitSha: 'ee350db4f'
+sourceContentHash: 'sha256:122a6c2001807860'
+sourceBodyHash: 'sha256:eba63aa2d26b3e9a'
+translatedAt: '2026-11-04T13:55:13.930719+00:00'
 ---
 
 > **30-second overview:** In March 2024, the Taiwanese magic YouTuber “Chi Hsuan Tricking” became the first creator in Taiwan to reach ten million subscribers, marking the evolution of Taiwanese YouTube culture from Tsai A-ga’s 2008 pro-Taiwan current-affairs videos into an internationally competitive content-export platform. YouTube reaches more than 95% of internet users in Taiwan, while short-form video, or Shorts, now accounts for more than 75% of viewing time. Creators are entering a period of transition from pure video production toward branding and diversified monetization.
@@ -70,15 +70,16 @@ Another characteristic of Taiwanese YouTube culture is its strong social engagem
 
 ## Future Outlook: Challenges in the AI Era
 
-As AI technology lowers the barriers to content creation, Taiwanese creators are facing the dual challenges of “algorithm anxiety” and “content saturation.” Many established creators have shifted direction or announced breaks from uploading. Over the next decade, Taiwanese YouTube culture will likely develop toward integration of the virtual and the physical, international collaboration, and deeper forms of cultural export.
+As AI technology lowers the barrier to creation, Taiwan's creators face the dual challenges of "algorithm anxiety" and "content saturation." Many veteran creators have either pivoted or announced hiatuses. Over the next decade, Taiwan's YouTube culture will develop toward virtual-real integration, international collaboration, and deeper cultural export.
 
-From Tsai A-ga’s first video to Chi Hsuan’s ten million subscribers, Taiwanese YouTube culture has completed an astonishing evolution in less than two decades. This is not only a victory of technology, but also the story of how an island redefined itself in the digital age.
+From Tsai A-ga's first video to Chi Hsuan's ten million subscribers, Taiwan's YouTube culture has undergone an astonishing evolution in under twenty years. This is not merely a triumph of technology; it is the story of how an island has redefined itself in the digital age.
 
-**Further reading**:
+**Further Reading**:
 
-- [Red Shin (Kouki)](/en/people/red-shin-minecraft-youtuber) — From his own account of eleven years of daily uploads, through two separate hiatus announcements, to a 2026 return, a concrete illustration of how creators rewrite fixed publishing commitments.
-- [PanSci](/en/society/pansci) — From popular-science articles to short-form video, YouTube MCNs, and services for knowledge creators, this case helps explain how knowledge-based creators respond to algorithms and commercialization.
-- [Wretch (無名小站)](/en/culture/wretch) — The cradle of Taiwan's first generation of amateur creators (Wan Wan, Giddens Ko, the Pretty Girls Album). The creator economy that existed before YouTubers grew out of this platform.
+- [A-Shen](/en/people/red-shin-minecraft-youtuber) — From his own account of eleven years of daily uploads, two separate hiatus announcements, to his 2026 return, concretely showing how a creator can rewrite a fixed publishing commitment.
+- [PanSci](/en/society/pansci) — From popular science articles to short-form video, YouTube MCN, and knowledge creator services, filling in the case study of how knowledge-based creators face algorithms and commercialization.
+- [Wretch](/en/culture/wretch) — The cradle of Taiwan's first generation of amateur creators (Wan Wan, Giddens Ko, "Pretty Girl Albums"), the creator economy before YouTubers emerged grew from right here.
+- [This Group of People](/en/people/tgop) — Taiwan's first YouTuber group to surpass two million subscribers in 2017, seven members with no one leaving the group for thirteen years, went on hiatus in 2024 but did not disband.
 
 ## References
 

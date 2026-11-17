@@ -2,19 +2,21 @@
 title: 'Chen Cheng-po'
 description: "Il a conquis la prestigieuse exposition impériale de Tokyo avec ses huiles sur toile, avant d'être fusillé devant la gare de Chiayi — et c'est souvent sa mort, non ses tableaux, qui l'a fait connaître du monde."
 date: 2026-03-31
-tags: [art, peinture, incident du 28 février, Chiayi, période japonaise]
-subcategory: '藝術家'
 category: 'People'
+tags:
+  ['art', 'peinture', 'incident du 28 février', 'Chiayi', 'période japonaise']
+subcategory: '藝術家'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
 lastVerified: 2026-03-31
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: 2026-05-16T22:21:36Z
-lastHumanReview: false
+translatedAt: '2026-11-04T23:49:17.736078+00:00'
 ---
 
 > **En 30 secondes :** Le 25 mars 1947, devant la gare de Chiayi, un homme dont les mains tenaient d'ordinaire un pinceau fut ligoté avec du fil de fer et exécuté en public. Il s'appelait Chen Cheng-po. Premier Taïwanais à avoir intégré la grande exposition impériale japonaise avec une peinture à l'huile, il s'était rendu en délégation pour négocier un cessez-le-feu — et n'en était jamais revenu.

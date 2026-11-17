@@ -2,9 +2,7 @@
 title: "Juillet lunaire : de la peur collective du « portail des esprits ouvert » à la réconciliation douce d'une île"
 description: "En plein été en 2026, les tables communes sont dressées dans les rues de Taïwan. De les flammes de Wanghai Lane à Kaohsiung à la sueur sur les toits solitaires de Toucheng, du « Portail du Tigre ouvert » au temple de Hsinchu à la grandeur des rites funéraires de Da Shi Ye à Minxiong : le septième mois lunaire n'est pas seulement une affaire d'interdits, mais un récit insulaire sur la coexistence, la mémoire et le franchissement des frontières entre le yin et le yang."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Juillet lunaire',
@@ -15,15 +13,20 @@ tags:
     'Da Shi Ye de Minxiong',
     'Temple de Chenghuang de Hsinchu',
   ]
-readingTime: 25
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 25
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-23T23:06:51+08:00'
+translatedAt: '2026-11-05T08:19:14.891844+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le septième mois lunaire, ou « Mois des fantômes » comme on l'appelle dans les coutumes de Taïwan, n'est pas une simple peur surnaturelle, mais un « exercice de coexistence » qui dure depuis des siècles. Du « Portail du Tigre » ouvert tard le soir au temple de Chenghuang de Hsinchu à la compétition de « Course aux fantômes » (Qianggu) à Toucheng avant que les portes ne se ferment, Taïwan a transformé cette foi en une culture profondément locale. Cet article vous mènera dans les flammes de Wanghai Lane, la sueur sur les toits solitaires, ainsi que les interdits alimentaires et vestimentaires gravés dans l'ADN. Nous allons décortiquer ce qui pourrait être un « marketing politique » originaire de la dynastie Ming, pour comprendre comment cette île parvient à une réconciliation sociale au-delà du temps par une sagesse douce : celle d'« accueillir avec cœur sans attendre de retour ».

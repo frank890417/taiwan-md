@@ -1,26 +1,26 @@
 ---
-title: 'Phố Cửu Lĩnh: Phố sách cũ do người Nhật để lại, tuổi thơ của Dương Đức Xương, và điện lâu của chính phủ'
-description: 'Chiều thứ bảy ở cuối ngõ 5 phố Cửu Lĩnh có học sinh xếp hàng trước nhà hát gạch đỏ. Năm 1922 con phố được gọi là phố Trao Khoảng không, năm 1947 được đổi tên Phố Cửu Lĩnh lấy tên từ Cửu Lĩnh Trấn ở Lư Sơn, tỉnh Giang Tây. Năm 1945 sau chiến tranh, người Nhật rút lui để lại sách được bán bên đường, trở thành phố sách cũ đầu tiên của Đài Loan, đạt cao điểm với hơn 200 quần hàng vào những năm 1960. Ngày 15 tháng 6 năm 1961 trên con phố này, Mao Vũ 16 tuổi dùng dao thiếu nhi giết Lưu Mẫn 15 tuổi. 30 năm sau đó Dương Đức Xương chuyển điều này thành bộ phim 237 phút.'
+title: 'Đường Cổ Linh: Phố sách người Nhật để lại, thiếu niên của Dương Đức Xương, cung điện của Quốc phủ'
+description: 'Đường Cổ Linh là một con đường dài 1,2 km tại Đài Bắc, năm 1922 gọi là Trấn Cửu Giang Trấn, năm 1947 mượn tên Cổ Linh của núi Lô Sơn tại Giang Tây để đổi tên. Sau chiến tranh, sách người Nhật để lại được bày bán ven đường, trở thành phố sách cũ đầu tiên của Đài Loan, thời kỳ thịnh vượng nhất có hơn hai trăm quầy sách. Năm 1961, Mao Vũ 16 tuổi đâm chết Lữu Mẫn 15 tuổi trên con đường này, Dương Đức Xương đã quay thành phim. Quầy sách đã dời đi, nhưng bảo tàng lịch sử kiểu cung điện và ao sen năm 1921 vẫn còn đó.'
 date: 2026-05-21
 category: 'Geography'
 tags:
   [
-    'Phố Cửu Lĩnh',
-    'Học viện Nam Hải',
+    'Đường Cổ Linh',
+    'Nam Hải Học Viên',
     'Thành phố Đài Bắc',
     'Quận Trung Chính',
-    'Khu vực lịch sử',
+    'Khu phố lịch sử',
     'Phố sách cũ',
     'Dương Đức Xương',
-    'Sự kiện giết người của tuổi trẻ phố Cửu Lĩnh',
+    'Vụ án giết người thiếu niên đường Cổ Linh',
     'Bảo tàng Lịch sử Quốc gia',
-    'Vườn Thực vật Đài Bắc',
-    'Nhà hát Cửu Lĩnh Phố',
-    'Sakuma-chō',
-    'Kodama-chō',
-    'Trương Quảng Thương Trường',
-    'Thư Viện Tùng Lâm',
-    'Khu vực lịch sử loạt',
+    'Vườn thực vật Đài Bắc',
+    'Nhà hát nhỏ đường Cổ Linh',
+    'Trấn Cửu Giang Trấn',
+    'Nhĩ Ngọc Trấn',
+    'Trung tâm thương mại Quang Hoa',
+    'Tùng Lâm Thư Cục',
+    'Loạt khu phố lịch sử',
   ]
 subcategory: '歷史街區 / 台北市中正區'
 author: 'Taiwan.md Contributors'
@@ -28,17 +28,21 @@ featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
 readingTime: 18
-researchReport: reports/research/2026-05/guling-street.md
-series: 'Loạt khu vực lịch sử（Đài Bắc batch 1, P2-12）'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49d'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-05T23:32:50.678666+00:00'
 ---
 
 # Phố Cửu Lĩnh: Phố sách cũ do người Nhật để lại, tuổi thơ của Dương Đức Xương, và điện lâu của chính phủ

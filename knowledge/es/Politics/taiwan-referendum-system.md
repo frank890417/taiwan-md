@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:51:01+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:13:08.465096+00:00'
 ---
 
 # El sistema de referéndum de Taiwán: escrito en la Constitución en 1947, esperó 56 años para tener una ley
@@ -101,17 +101,18 @@ Así llegamos a la situación de 2026: el 28 de noviembre, día de las eleccione
 
 ## Por qué vale la pena recordar esta línea
 
-Si examinamos cada debate por separado, el sistema de referéndum de Taiwán realmente solo ha estado sopesando tres cosas repetidamente.
+Si analizamos cada debate, el sistema de referéndum en Taiwán realmente ha estado sopesando tres cuestiones de forma recurrente.
 
-En un lado de la balanza está el umbral: el problema de los seis casos de 2004 y 2008 fue que el umbral era demasiado alto, se movilizó el voto pero no se aprobó; después de que 2017 cambió al sistema de un cuarto, el problema se trasladó al otro lado, con baja participación y alta proporción de apoyo aún sin aprobarse, y el caso 21 de 2025 fue esta combinación. En el otro lado está la capacidad electoral: el año con diez casos simultáneos llevó la capacidad de las mesas electorales al límite, de ahí la desvinculación de 2019, pero después de la desvinculación se cuestionó el entusiasmo de la discusión sobre referéndums, de ahí la reconexión de 2025. El tercer lado es «cuya opinión puede entrar en esa papeleta», lo que depende de si el apoyo requiere papel o no, y si se puede votar en ausencia, y estos dos asuntos aún están esperando la ley que especifique el método de implementación.[^6]
+En un extremo de la balanza está el umbral: el problema de los seis casos de 2004 y 2008 fue que el umbral era demasiado estricto, por lo que aunque se movilizó el voto, no lograron aprobarse; tras el cambio al sistema de un cuarto en 2017, el problema pasó al otro extremo, donde una baja participación combinada con un alto porcentaje de votos a favor aún puede resultar en la desaprobación, como ocurrió con el caso n.º 21 de 2025. En el otro extremo está la capacidad de la administración electoral; el año en que diez casos se celebraron el mismo día llevó la resistencia de los centros de votación al límite, lo que dio lugar a la separación de las votaciones en 2019. Tras esa separación, el interés por los referéndums fue cuestionado, lo que llevó a su reintegración en 2025. El tercer extremo es «qué opiniones logran entrar en esa papeleta», lo cual depende de si la recogida de firmas requiere formato en papel o si se permite el voto por correo; ambas cuestiones aún esperan leyes que definan su método de implementación.[^6]
 
-Ninguno de estos tres asuntos es puramente un problema técnico; cada uno ha sido recalculado en la arena política. Y las huellas que deja el sistema son fáciles de identificar: qué año se enmendó, qué artículo se modificó, cuál fue la participación, si el umbral es un cuarto o la mitad. Si alineamos estos números por año, podemos ver cómo esta isla ha estado aprendiendo a usar derechos democráticos directos mientras ajusta su propio contenedor.
+Ninguna de estas tres cuestiones es un problema puramente técnico; cada una ha sido recalculada una y otra vez en el tablero político. Y las huellas que deja el sistema son fáciles de identificar: en qué año se modificó la ley, qué artículo se reformó, cuál fue la participación y si el umbral era de un cuarto o de la mitad. Al ordenar estos datos por años, se observa el proceso de cómo esta isla ha ido aprendiendo a utilizar la democracia directa mientras ajusta su propio contenedor.
 
-**Lecturas relacionadas**:
+**Lecturas adicionales**:
 
-- [Sistema de la Comisión Electoral Central](/es/politics/central-election-commission) — La agencia que guía los casos de referéndum desde la presentación y apoyo hasta la votación
-- [Historia de los umbrales de votación](/es/politics/voting-rights-threshold-history) — La línea de quién tiene derecho a entrar en la mesa electoral también ha sido enmendada repetidamente
-- [Elecciones locales de 2026](/politics/2026 九合一選舉) — La otra mitad de la papeleta del 28 de noviembre
+- [Sistema de la CEC](/es/politics/central-election-commission) — La institución que gestiona todo el proceso del referéndum, desde la propuesta y la recogida de firmas hasta la votación.
+- [Historia de los umbrales del derecho al voto](/es/politics/voting-rights-threshold-history) — La línea que determina quién tiene derecho a entrar en un centro de votación también ha sido objeto de constantes reformas.
+- [Elecciones de las nueve unidades de 2026](/politics/2026 九合一選舉) — La otra mitad de la papeleta del 28 de noviembre.
+- [El debate sobre Taiwán y la energía nuclear](/es/society/taiwan-nuclear-debate) — El caso n.º 22 en sí mismo: el futuro de la central de Nuari es un proceso de revisión etapa por etapa, y la condición de que «exista consenso social» se ha incluido en la votación del mismo día.
 
 ## Referencias
 

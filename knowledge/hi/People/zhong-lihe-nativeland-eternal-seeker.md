@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-08-04T06:18:10+08:00'
+translatedAt: '2026-11-04T21:39:31.922745+00:00'
 ---
 
 # चुंग ली-हो: मेनॉन्ग 1915, खून के तालाब में गिरे कलम के किसान

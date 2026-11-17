@@ -2,9 +2,7 @@
 title: 'Imágenes de saludo para mayores: la ternura digital y el campo de batalla informativo detrás de las flores de loto y Buda'
 description: 'Las "imágenes de saludo para mayores" no solo son la prueba de que los adultos mayores de Taiwán cruzan la brecha digital, sino también un vehículo de intercambio emocional en las plataformas sociales; sin embargo, su formato singular se ha convertido en un caldo de cultivo para la desinformación y ha evolucionado hacia una cultura de memes única entre las generaciones más jóvenes.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     'imágenes de saludo para mayores',
@@ -15,15 +13,19 @@ tags:
     'desinformación',
     'memes',
   ]
-readingTime: 10
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-06-12T00:53:04+08:00'
+translatedAt: '2026-11-05T06:25:01.057956+00:00'
 ---
 
 > **Panorama en 30 segundos:**

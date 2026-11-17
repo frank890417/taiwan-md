@@ -1,16 +1,16 @@
 ---
-title: 'Cạnh tranh trên bàn thời gian: Từ “sóng” mua hàng trên mạng 1.915 giây đến truyền thuyết 43 huy chương vượt qua châu Á'
-description: 'Đội tuyển Đài Loan tại Giải báo châu Á 2025 tại Dalian giành 43 huy chương và lập 7 kỷ lục thế giới, biến môn thể thao từng bị chê là “cốc đựng nước lỗ thông” thành môn thể thao nền tảng nhất của Đài Loan. Từ Lin Mỵ Tân đến thiếu nữ chủng Sặc Sek Mây Bàn, môn đặt chồng cốc Đài Loan không chỉ chinh phục tốc độ 0.001 giây mà còn đưa tinh thần hòa nhập giáo dục đặc biệt và giáo dục hòa nhập vào một tầm cao mới.'
+title: 'Thể thao xếp cốc: Từ món đồ "thời thượng" trên mạng với kỷ lục 1,915 giây đến 43 huy chương vàng quét sạch châu Á'
+description: 'Đội tuyển Đài Loan năm 2025 đã giành được 43 huy chương vàng và phá 7 kỷ lục thế giới tại Cúp Châu Á tổ chức ở Đại Liên, biến môn thể thao từng bị chế giễu là "xếp những chiếc cốc có lỗ" này trở thành nội dung thi đấu có sức thống trị nhất của Đài Loan. Từ Lâm Mạnh Hân đến cô gái người tộc Seediq Shama Basho, bộ môn xếp cốc Đài Loan không chỉ theo đuổi giới hạn 0,001 giây, mà còn tạo nên tầm cao mới cho xã hội thông qua phục hồi chức năng giáo dục đặc biệt và giáo dục hòa nhập.'
 date: 2026-04-28
 category: 'Society'
 tags:
   [
-    'Cạnh tranh trên bàn thời gian',
-    'Lin Mỵ Tân',
-    'Mây Bàn',
-    'kỷ lục thế giới',
-    'giáo dục hòa nhập',
-    'hòa nhập xã hội',
+    'Thể thao xếp cốc',
+    'Lâm Mạnh Hân',
+    'Shama Basho',
+    'Kỷ lục thế giới',
+    'Giáo dục hòa nhập',
+    'Hòa nhập xã hội',
   ]
 subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-02T02:09:37.495675+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

@@ -21,12 +21,14 @@ author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-12
 lastHumanReview: true
-readingTime: 10min
+readingTime: '10min'
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-04T17:53:38.789810+00:00'
 ---
 
 > **Tổng quan 30 giây:** TikTok không chỉ là một nền tảng video ngắn giúp mọi người nổi tiếng, nó còn là một "thí nghiệm nhận thức phi tập trung" tại Đài Loan. Thông qua khả năng hiển thị được cá nhân hóa cực độ, nó để cho người dùng không hay biết, nội tâm hoá chương trình chính trị của những người khác thành thế giới quan của chính họ. Một cuộc khảo sát năm 2025 cho thấy rằng trong số thanh thiếu niên từ 15 đến 18 tuổi tại Đài Loan, hơn 70% dành hơn 2 giờ mỗi ngày trên TikTok, và lòng tốt của họ đối với Trung Quốc đang âm thầm gia tăng khi các ngón tay của họ trượt, đồng thời còn làm sâu sắc thêm cảm nhận tiêu cực của họ về xã hội Đài Loan.

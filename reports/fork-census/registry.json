@@ -2,16 +2,16 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-10-25",
+    "last_census": "2026-11-04",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 808842,
-      "users": 519420
+      "views": 885993,
+      "users": 586498
     },
     "dev_noise": {
-      "views": 12528,
-      "users": 185
+      "views": 12552,
+      "users": 187
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
     "ephemeral_tail_note": "見 forks[] 末尾 id='(ephemeral-experiments)' — demo/在地化測試品牌,低信心,部署短暫"
@@ -44,7 +44,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-08"
     },
     {
@@ -66,15 +66,15 @@
       "health": "semi-active",
       "last_push": "2026-06-04",
       "first_seen": "2026-04",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
-        "views": 623,
+        "views": 628,
         "users": 79
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 453,
+        "views": 440,
         "users": 60
       },
       "confidence": "high",
@@ -99,7 +99,7 @@
       "health": "dormant",
       "last_push": "2026-04-15",
       "first_seen": "2026-03",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
         "views": 154,
@@ -107,44 +107,11 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 409,
+        "views": 383,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
       "notes": "silent copy(沒按 fork 鈕,跟 Sweden.md 同 pattern)。最有主權含金量卻對母體最隱形 — §主權的巴別塔 視角下最值得關注"
-    },
-    {
-      "id": "russia-md",
-      "label": "Russia.md",
-      "hostnames": ["russia-md.ru"],
-      "title_brands": ["Russia.md"],
-      "type": "place / country",
-      "topic": "Russia knowledge base (history/geography/culture/economy)",
-      "language": "en",
-      "github": "denis-gordeev/russia-md",
-      "who": "Denis Gordeev — 俄國 NLP 研究者 (INFERRED high)",
-      "network_fork": true,
-      "credits_upstream": "explicit — README + JSON-LD isBasedOn 雙列 russia-md + frank890417/taiwan-md (最強 credit)",
-      "cognitive_layer": "no docs/semiont — 自建 skills/ 層 (央行 cbr / DaData / openai.yaml)",
-      "ga_leaking": true,
-      "deployment": "GitHub Pages + russia-md.ru",
-      "content_articles": "12 new (russia-knowledge/) + legacy-content/ (~727 total incl legacy)",
-      "health": "active",
-      "last_push": "2026-06-13",
-      "first_seen": "2026-03",
-      "last_seen": "2026-10",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 125,
-        "users": 77
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 87,
-        "users": 71
-      },
-      "confidence": "high",
-      "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
     },
     {
       "id": "portaly.cc",
@@ -165,15 +132,15 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 209,
-        "users": 155
+        "views": 212,
+        "users": 157
       },
       "title_ga": {
         "window": "365daysAgo",
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-07"
     },
     {
@@ -200,11 +167,44 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 205,
-        "users": 152
+        "views": 208,
+        "users": 154
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-07"
+    },
+    {
+      "id": "russia-md",
+      "label": "Russia.md",
+      "hostnames": ["russia-md.ru"],
+      "title_brands": ["Russia.md"],
+      "type": "place / country",
+      "topic": "Russia knowledge base (history/geography/culture/economy)",
+      "language": "en",
+      "github": "denis-gordeev/russia-md",
+      "who": "Denis Gordeev — 俄國 NLP 研究者 (INFERRED high)",
+      "network_fork": true,
+      "credits_upstream": "explicit — README + JSON-LD isBasedOn 雙列 russia-md + frank890417/taiwan-md (最強 credit)",
+      "cognitive_layer": "no docs/semiont — 自建 skills/ 層 (央行 cbr / DaData / openai.yaml)",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages + russia-md.ru",
+      "content_articles": "12 new (russia-knowledge/) + legacy-content/ (~727 total incl legacy)",
+      "health": "active",
+      "last_push": "2026-06-13",
+      "first_seen": "2026-03",
+      "last_seen": "2026-11",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 125,
+        "users": 78
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 79,
+        "users": 72
+      },
+      "confidence": "high",
+      "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
     },
     {
       "id": "su-chiao-hui",
@@ -229,7 +229,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-03",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
         "views": 72,
@@ -262,7 +262,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -303,7 +303,7 @@
         "views": 61,
         "users": 1
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-08"
     },
     {
@@ -325,7 +325,7 @@
       "health": "active",
       "last_push": "2026-06-25",
       "first_seen": "2026-06",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
         "views": 25,
@@ -338,39 +338,6 @@
       },
       "confidence": "high",
       "notes": "最成熟的遷移工程:7-phase + 自寫 MIGRATION.md 方法論(9 rule)。持續 git merge upstream/main + .gitattributes merge=ours。MIGRATION.md 值得吸收回 country-md-starter(弟弟教哥哥)"
-    },
-    {
-      "id": "Malaysia.md",
-      "label": "Malaysia.md",
-      "hostnames": [],
-      "title_brands": ["Malaysia.md"],
-      "type": "place / country (unlocatable)",
-      "topic": "马来西亚知识库 (简体中文)",
-      "language": "zh-Hans",
-      "github": "查無 public repo",
-      "who": "unknown",
-      "network_fork": null,
-      "credits_upstream": "unknown",
-      "cognitive_layer": "unknown",
-      "ga_leaking": true,
-      "deployment": "疑私有 repo / Cloudflare-only — agent 窮盡 GitHub search 無果",
-      "content_articles": "unknown",
-      "health": "unknown",
-      "last_push": "unknown",
-      "first_seen": "2026-06",
-      "last_seen": "2026-10",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 21,
-        "users": 1
-      },
-      "confidence": "low",
-      "notes": "存在確定(GA 漏),其他全 unknown。simplified Chinese = 大馬華人受眾。silent copy pattern"
     },
     {
       "id": "Branding.md",
@@ -399,8 +366,41 @@
         "views": 17,
         "users": 1
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-07"
+    },
+    {
+      "id": "Malaysia.md",
+      "label": "Malaysia.md",
+      "hostnames": [],
+      "title_brands": ["Malaysia.md"],
+      "type": "place / country (unlocatable)",
+      "topic": "马来西亚知识库 (简体中文)",
+      "language": "zh-Hans",
+      "github": "查無 public repo",
+      "who": "unknown",
+      "network_fork": null,
+      "credits_upstream": "unknown",
+      "cognitive_layer": "unknown",
+      "ga_leaking": true,
+      "deployment": "疑私有 repo / Cloudflare-only — agent 窮盡 GitHub search 無果",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-06",
+      "last_seen": "2026-11",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 12,
+        "users": 1
+      },
+      "confidence": "low",
+      "notes": "存在確定(GA 漏),其他全 unknown。simplified Chinese = 大馬華人受眾。silent copy pattern"
     },
     {
       "id": "weilinlai719-taiwan-md",
@@ -421,7 +421,7 @@
       "health": "abandoned",
       "last_push": "2026-03-26",
       "first_seen": "2026-03",
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "ga": {
         "window": "365daysAgo",
         "views": 10,
@@ -462,7 +462,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-10"
     },
     {
@@ -492,7 +492,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-08"
     },
     {
@@ -522,7 +522,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-10",
+      "last_seen": "2026-11",
       "first_seen": "2026-08"
     },
     {

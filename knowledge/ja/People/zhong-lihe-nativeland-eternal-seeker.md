@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "「倒在血泊裡的筆耕者」是他最準確的人生縮影，不是比喻，他真的在修改稿件時咳血去世。"
-#   whats_excluded: "每部小說的逐章情節分析；美濃公學校學籍記錄；東北生活細節"
-#   where_it_hedges: "「台灣鄉土文學之父」稱號有爭議（賴和才是公認的台灣新文學之父）；《原鄉人》為短篇（非長篇），1959年寫成；已修正開頭「45年」幻覺為44歲"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:36:52.790851+00:00'
 ---
 
 # 鍾理和：美濃1915、血のなかで倒れた筆耕者

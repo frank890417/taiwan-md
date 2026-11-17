@@ -1,0 +1,326 @@
+/* reader.css — App 文章頁的基本排版。tw-* 視覺模組的樣式來自網站的 article-modules.css（tools/sync-web-assets.sh 同步）。
+   顏色沿用識別系統 v2（public/brand/taiwanmd-tokens.json）。 */
+:root {
+  --app-scale: 1;
+  --app-paper: #ffffff;
+  --app-paper-2: #f3f6f5;
+  --app-line: #dce3e1;
+  --app-ink: #13222a;
+  --app-ink-2: #435258;
+  --app-ink-3: #5d6c71;
+  --app-brand: #007864;
+  --app-brand-soft: #e0f0eb;
+  --font-reading:
+    -apple-system, 'PingFang TC', 'Hiragino Sans', 'Apple SD Gothic Neo',
+    system-ui, sans-serif;
+  --font-interface:
+    -apple-system, 'PingFang TC', 'Hiragino Sans', system-ui, sans-serif;
+  --font-title:
+    ui-serif, 'Songti TC', 'Hiragino Mincho ProN', 'Noto Serif TC', serif;
+  --color-ink: var(--app-ink);
+  --color-ink-soft: var(--app-ink-2);
+  --color-surface: var(--app-paper);
+  --color-bg-soft: var(--app-paper-2);
+  --color-accent: var(--app-brand);
+  color-scheme: light;
+  -webkit-text-size-adjust: 100%;
+}
+:root[data-theme='dark'] {
+  --app-paper: #0f1b1f;
+  --app-paper-2: #152429;
+  --app-line: #26383e;
+  --app-ink: #e9f0ee;
+  --app-ink-2: #b9c6c5;
+  --app-ink-3: #8d9d9e;
+  --app-brand: #45c2ab;
+  --app-brand-soft: #173a36;
+  --color-ink: var(--app-ink);
+  --color-ink-soft: var(--app-ink-2);
+  --color-surface: var(--app-paper-2);
+  --color-bg-soft: var(--app-paper-2);
+  --color-accent: var(--app-brand);
+  color-scheme: dark;
+}
+:root:lang(ja) {
+  --font-reading: -apple-system, 'Hiragino Sans', system-ui, sans-serif;
+  --font-title: 'Hiragino Mincho ProN', ui-serif, serif;
+}
+:root:lang(ko) {
+  --font-reading: -apple-system, 'Apple SD Gothic Neo', system-ui, sans-serif;
+  --font-title: 'AppleMyungjo', ui-serif, serif;
+}
+:root:lang(ar) {
+  --font-reading: -apple-system, 'Geeza Pro', system-ui, sans-serif;
+  --font-title: 'Geeza Pro', serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--app-paper);
+  color: var(--app-ink);
+}
+body {
+  font-family: var(--font-reading);
+  font-size: calc(17px * var(--app-scale));
+  line-height: 1.8;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  -webkit-tap-highlight-color: transparent;
+}
+.app-article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 8px 20px 48px;
+}
+
+.app-head {
+  padding: 12px 0 8px;
+}
+.app-cat {
+  font-size: 0.78em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--cat, var(--app-brand));
+}
+:root[data-theme='dark'] .app-cat {
+  filter: brightness(1.6) saturate(0.9);
+}
+.app-head h1 {
+  font-family: var(--font-title);
+  font-size: 1.75em;
+  line-height: 1.3;
+  margin: 0.3em 0 0.4em;
+  font-weight: 700;
+}
+.app-desc {
+  color: var(--app-ink-2);
+  font-size: 0.98em;
+  line-height: 1.7;
+  margin: 0 0 0.6em;
+}
+.app-meta {
+  color: var(--app-ink-3);
+  font-size: 0.8em;
+}
+
+.app-hero {
+  margin: 14px -20px 6px;
+}
+.app-hero img {
+  width: 100%;
+  height: auto;
+  max-height: 62vh;
+  object-fit: contain;
+  display: block;
+  background: var(--app-paper-2);
+}
+.app-hero figcaption {
+  font-size: 0.72em;
+  color: var(--app-ink-3);
+  padding: 6px 20px 0;
+}
+
+.article-body h2 {
+  font-family: var(--font-title);
+  font-size: 1.35em;
+  line-height: 1.4;
+  margin: 2em 0 0.6em;
+  padding-top: 0.4em;
+  border-top: 1px solid var(--app-line);
+}
+.article-body h3 {
+  font-size: 1.12em;
+  margin: 1.6em 0 0.5em;
+}
+.article-body h4 {
+  font-size: 1em;
+  margin: 1.4em 0 0.4em;
+}
+.article-body p {
+  margin: 0 0 1.05em;
+}
+.article-body a {
+  color: var(--app-brand);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--app-brand) 35%, transparent);
+}
+.article-body strong {
+  font-weight: 700;
+}
+.article-body ul,
+.article-body ol {
+  padding-inline-start: 1.4em;
+  margin: 0 0 1.1em;
+}
+.article-body li {
+  margin: 0.25em 0;
+}
+.article-body blockquote {
+  margin: 1.4em 0;
+  padding: 0.9em 1.1em;
+  border-inline-start: 4px solid var(--app-brand);
+  background: var(--app-brand-soft);
+  border-radius: 0 12px 12px 0;
+  color: var(--app-ink);
+}
+.article-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+.article-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  background: var(--app-paper-2);
+}
+.article-body figure {
+  margin: 1.4em 0;
+}
+.article-body figcaption,
+.article-body img + em,
+.article-body p > em:only-child {
+  font-size: 0.8em;
+  color: var(--app-ink-3);
+}
+.article-body hr {
+  border: 0;
+  border-top: 1px solid var(--app-line);
+  margin: 2em 0;
+}
+.article-body code {
+  font-size: 0.88em;
+  background: var(--app-paper-2);
+  padding: 0.1em 0.35em;
+  border-radius: 5px;
+}
+.article-body pre {
+  overflow-x: auto;
+  background: var(--app-paper-2);
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 0.85em;
+}
+.article-body table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.86em;
+  display: block;
+  overflow-x: auto;
+  margin: 1.2em 0;
+}
+.article-body th,
+.article-body td {
+  border: 1px solid var(--app-line);
+  padding: 6px 9px;
+  text-align: start;
+  vertical-align: top;
+}
+.article-body th {
+  background: var(--app-paper-2);
+  font-weight: 600;
+}
+
+/* 腳註：正文上標＋頁尾清單；點上標跳出卡片（reader.js） */
+.article-body sup {
+  line-height: 0;
+}
+.article-body a.footnote-ref {
+  font-size: 0.72em;
+  font-weight: 600;
+  border: 0;
+  padding: 0 0.15em;
+}
+.article-body section.footnotes {
+  font-size: 0.82em;
+  color: var(--app-ink-2);
+  border-top: 1px solid var(--app-line);
+  margin-top: 2.4em;
+  padding-top: 1em;
+}
+.article-body section.footnotes li {
+  margin: 0.5em 0;
+}
+.article-body a.footnote-backref {
+  border: 0;
+  margin-inline-start: 0.3em;
+}
+
+/* 影片與嵌入：離線時 iframe 只是一塊空白，產包時換成連結卡 */
+.tw-app-embed {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 1.2em 0;
+  padding: 14px 16px;
+  border: 1px solid var(--app-line);
+  border-radius: 12px;
+  color: var(--app-ink) !important;
+  background: var(--app-paper-2);
+  font-weight: 600;
+  border-bottom: 1px solid var(--app-line) !important;
+}
+.video-embed {
+  position: static !important;
+  padding: 0 !important;
+  height: auto !important;
+}
+.img-missing {
+  display: none !important;
+}
+
+.app-foot {
+  margin-top: 3em;
+  padding-top: 1.2em;
+  border-top: 1px solid var(--app-line);
+  font-size: 0.8em;
+  color: var(--app-ink-3);
+  line-height: 1.7;
+}
+.app-foot a {
+  color: var(--app-brand);
+  text-decoration: none;
+}
+
+#fn-pop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: flex-end;
+  z-index: 50;
+}
+#fn-pop[hidden] {
+  display: none;
+}
+.fn-card {
+  width: 100%;
+  max-height: 60vh;
+  overflow-y: auto;
+  background: var(--app-paper);
+  color: var(--app-ink);
+  border-radius: 18px 18px 0 0;
+  padding: 18px 20px calc(20px + env(safe-area-inset-bottom));
+  font-size: 0.9em;
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.18);
+}
+.fn-card a {
+  color: var(--app-brand);
+  overflow-wrap: anywhere;
+}
+.fn-close {
+  float: inline-end;
+  border: 0;
+  background: var(--app-paper-2);
+  color: var(--app-ink);
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  font-size: 18px;
+  line-height: 30px;
+}

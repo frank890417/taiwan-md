@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-05T00:30:09.266941+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
@@ -48,18 +50,18 @@ Danh xưng "Vua Hoa Lân" là sự phụ thuộc của người dân Hoa Lân v�
 
 ## Tài liệu tham khảo
 
-[^1]: [Phó Mẫn Nghiên hai mặt—Nhìn nhận hiện tượng Vua Hoa Lân](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - Báo cáo viên The Reporter
+[^1]: [Phúc Côn Kỳ hai mặt──Thấu nhìn hiện tượng Hoa Liên Vương](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - Người Báo Đạo (The Reporter)
 
-[^2]: [Vợ làm phó, Phó Mẫn Nghiên bị kết án giả ly hôn 6 tháng](https://news.tvbs.com.tw/politics/53325) — Trang tin TVBS: Tòa án địa phương Hoa Lân kết án Phó Mẫn Nghiên 6 tháng và bà Từ Trân Úy 4 tháng (Bản án hình sự số 358 năm 99 của Tòa án cấp huyện Hoa Lân)
+[^2]: [Chỉ định vợ làm phó: Phúc Côn Kỳ ly hôn giả bị tuyên phạt 6 tháng](https://news.tvbs.com.tw/politics/53325) — TVBS News: Tòa án địa phương Hoa Liên tuyên phạt Phúc Côn Kỳ 6 tháng tù, Từ Trân Vệ 4 tháng tù theo tội giả tạo văn서를 (Tòa án địa phương Hoa Liên, niên hiệu 99, ký tự Dễ số 358, phán quyết hình sự)
 
-[^3]: [Vụ thao túng chứng khoán của Phó Mẫn Nghiên được kết án: Tại sao khi là Huyện trưởng thì bị cách chức, nhưng khi là Nghị viên lại có thể giam giữ trong khi công tác?](https://opinion.udn.com/opinion/story/12322/4572559) — Trang tin Minh Nhân Đường: Báo cáo bởi Liên hợp Tân Văn Võng
+[^3]: [Vụ án chứng khoán Phúc Côn Kỳ định án: Tại sao làm huyện trưởng bị cách chức, làm ủy viên lập pháp lại có thể mang chức nhập ngục?](https://opinion.udn.com/opinion/story/12322/4572559) — Minh Nhân Đường: United Daily News báo導
 
-[^4]: [Vụ thao túng Kế Cự của Phó Mẫn Nghiên bị kết án 2 năm 10 tháng và phải vào tù](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Báo cáo Trung ương Xã: Tòa án tối cao bác bỏ kháng cáo vào ngày 14 tháng 5 năm 2020
+[^4]: [Vụ án Phúc Côn Kỳ thao túng cổ phiếu Kai Ju: Tuyên phạt 2 năm 10 tháng định án phải nhập ngục](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Trung ương社 (CNA) báo導: Tòa án tối cao ngày 14 tháng 5 năm 2020 bác bỏ kháng cáo, định án
 
-[^5]: [Từ Vua Hoa Lân đến bạo quân Quốc hội, phân tích sự mê tín quyền lực của Phó Mẫn Nghiên và cuộc khủng hoảng dung túng của Đảng Quốc dân Đồng Minh!](https://newcongress.tw/?p=32791) — Hội nghị công dân mới, tác giả Tần Tĩnh (Thuật ngữ "bạo quân Quốc hội" được trích dẫn từ tiêu đề bài viết này)
+[^5]: [Từ Hoa Liên Vương đến Quốc hội Bạo chúa: Phân tích ảo tưởng quyền lực của Phúc Côn Kỳ và khủng hoảng chiều chuộng của Quốc dân đảng!](https://newcongress.tw/?p=32791) — Hội nghị Tân Công Dân, tác giả Tần Tĩnh (thuật ngữ bình luận 'Quốc hội Bạo chúa' xuất phát từ tiêu đề bài viết này)
 
-[^6]: [Thăm Trung Quốc trong tranh cãi động đất: Phó Mẫn Nghiên nói rằng tái thiết sau thảm họa là nhiệm vụ quan trọng](https://www.cna.com.tw/news/acn/202404270082.aspx) — Báo cáo Trung ương Xã: Trong bối cảnh dư chấn Hoa Lân liên tục vào tháng 4 năm 2024, đoàn đã thăm Bắc Kinh và Văn phòng Quan hệ Đài Loan-Trung Quốc do Phó Chủ nhiệm Phan Hiền tiếp đón và đồng hành suốt chuyến đi
+[^6]: [Dưới tranh cãi động đất thăm Trung Quốc: Phúc Côn Kỳ: Tái thiết và phát triển sau thiên tai là đề tài quan trọng](https://www.cna.com.tw/news/acn/202404270082.aspx) — Trung ương社 (CNA) báo導: Tháng 4 năm 2024, dư chấn tại Hoa Liên không ngừng, Phúc Côn Kỳ dẫn đoàn thăm Bắc Kinh, Phó chủ nhiệm Quốc Đài Bản Bàn Hiền Chưởng đón tại sân bay và đồng hành toàn trình
 
-[^7]: [【Phó Mẫn Nghiên lại gặp bão tố】Gia tộc thao túng Hoa Lân hơn 30 năm: Xem một lần sự tranh cãi của Phó Mẫn Nghiên](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo Tin tức (Kính Tuần Gian)
+[^7]: [[Phúc Côn Kỳ lại rơi vào bão tố] Gia đình ngang dọc Hoa Liên hơn 30 năm: Nhìn một lần các tranh cãi của Phúc Côn Kỳ](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Kính Tuần Báo)
 
-[^8]: [Huyện trưởng Ngũ Tinh VS Vua Hoa Lân, ai mới là Phó Mẫn Nghiên?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Báo cáo viên The Reporter chuỗi hình ảnh "Phó Mẫn Nghiên hai mặt"
+[^8]: [Huyện trưởng năm sao VS Hoa Liên Vương, người nào mới là Phúc Côn Kỳ?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Người Báo Đạo (The Reporter) serie 'Phúc Côn Kỳ hai mặt' - Phần hình ảnh

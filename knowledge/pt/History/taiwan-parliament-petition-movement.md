@@ -3,7 +3,6 @@ title: 'Movimento de Petição para a Instalação do Parlamento de Taiwan: Uma 
 description: 'De 1921 a 1934, Lin Hsien-tang e outros desafiaram a governação colonial do Governo-Geral com quinze petições. O movimento não obteve um Parlamento de Taiwan, mas transformou a argumentação jurídica, os jornais e as organizações em técnicas públicas de luta pela autonomia pelos taiwaneses.'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'História',
@@ -15,16 +14,19 @@ tags:
     'Taiwan Minpao',
     'Autonomia Local',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T13:25:11.291115+00:00'
 ---
 
 Em 30 de janeiro de 1921, Lin Hsien-tang, Ye Rongzhong e 178 estudantes taiwaneses em Tóquio apresentaram a primeira petição para a instalação do Parlamento de Taiwan no Parlamento Imperial do Japão.[^1] Este documento foi posteriormente submetido quinze vezes, e o movimento continuou até 2 de setembro de 1934, quando foi decidida a sua interrupção.[^2] Ele não trouxe um Parlamento de Taiwan, mas fez com que a questão de "quem pode representar os taiwaneses" saísse dos gabinetes e dos dormitórios de estudantes para entrar no centro institucional do império.
@@ -49,21 +51,21 @@ _Imagem: Petição para a Instalação do Parlamento de Taiwan. Wikimedia Common
 
 > 📝 **Nota do Curador:** O ponto mais agudo do movimento de petição não é que ele tenha colocado "Japão" e "Taiwan" como dois inimigos abstratos, mas que ele pegou os princípios constitucionais proclamados pelo império e os devolveu como pergunta. Se a lei só vale no território metropolitano, a "identidade" do império afinal identificou quem?
 
-## Um Documento, Primeiro Passando pelas Mãos dos Parlamentares
+## Um documento, primeiro passa pelas mãos de um parlamentar
 
-A primeira petição de 30 de janeiro de 1921 não bastava entregar o documento à porta do parlamento. Segundo o Artigo 62 da _Lei do Parlamento_ vigente na época, a petição exigia a apresentação por um parlamentar do Parlamento Imperial. Após indicação do pastor Uemura Masahisa, o membro da Câmara dos Pares Ezomoto Soro e o membro da Câmara dos Representantes Tagawa Daijiro aceitaram atuar como parlamentares apresentadores, e a petição pôde entrar no processo de análise.[^1]
+A primeira petição de 30 de janeiro de 1921 não se completava com a entrega do documento à porta do Parlamento. Conforme o Artigo 62 da então «Lei do Parlamento» (議院法), a petição exigia a apresentação por um parlamentar do Parlamento Imperial. Após indicação do pastor Uemura Masahisa, o membro da Câmara dos Pares Ezamoto Soroku e o membro da Câmara dos Representantes Tagawa Daijiro concordaram em atuar como parlamentares apresentadores, e a petição pôde entrar no processo de análise.[^1]
 
-Este detalhe faz o movimento de petição deixar de parecer uma abstrata "petição a Tóquio". Tratava-se de um trabalho político que exigia encontrar intermediários, preparar textos jurídicos, obter assinaturas, e depois aguardar o processamento pelo procedimento parlamentar. A primeira petição teve 178 signatários. Em cada uma das subsequentes, os participantes tinham de, entre a polícia colonial, o sistema de censura e as respostas frias do Parlamento Imperial, reencontrar um caminho viável.[^1] [^2]
+Este detalhe faz com que o movimento de petição deixe de parecer uma abstrata «batida à porta de Tóquio». Trata-se de um trabalho político que requer encontrar intermediários, preparar textos legais, obter assinaturas e aguardar o processamento dos procedimentos parlamentares. A primeira petição contou com 178 signatários. Em cada rodada subsequente, os participantes tiveram de, entre a polícia colonial, o sistema de censura e as frias respostas do Parlamento Imperial, reencontrar caminhos viáveis.[^1] [^2]
 
-Em março de 1921, o Parlamento Imperial do Japão aprovou a Lei nº 3, mantendo o poder legislativo delegado ao Governador-Geral de Taiwan. A linha que originalmente exigia a revogação da Lei 63 perdeu assim o seu ponto de apoio, e a instalação do Parlamento de Taiwan tornou-se mais concentradamente o objetivo do movimento político taiwanês.[^2]
+Em março de 1921, o Parlamento Imperial Japonês aprovou a Lei nº 3, mantendo o poder legislativo delegado do Governador-Geral de Taiwan. A rota que exigia a revogação da Lei 63 perdeu assim o seu ponto de alavanca, e a instalação do Parlamento de Taiwan tornou-se o objetivo concentrado do movimento político de Taiwan.[^2]
 
-| Data                   | Marco no Movimento de Petição                                             | Significado Político                                                            |
-| ---------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Dezembro de 1920       | Lin Cheng-lu publica "O Ponto de Chegada da Questão 63" no _Taiwan Youth_ | Desloca a controvérsia da revogação da Lei 63 para um parlamento representativo |
-| 30 de janeiro de 1921  | 178 pessoas apresentam a primeira petição                                 | Petição obtém entrada processual no Parlamento Imperial                         |
-| 17 de outubro de 1921  | Fundação da Associação Cultural de Taiwan                                 | Coloca as exigências políticas na rede de cultura, educação e palestras         |
-| 16 de dezembro de 1923 | Incidente de Supressão Policial: grande detenção em toda a ilha           | Polícia colonial suprime diretamente associações políticas                      |
-| 2 de setembro de 1934  | Decisão de parar após a 15ª petição                                       | Catorze anos de movimento de petição chegam a um fecho                          |
+| Tempo                  | Nós do movimento de petição                                                 | Significado político                                                                            |
+| ---------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Dezembro de 1920       | Lin Hsien-tang publica «O ponto de chegada da questão 63» em «Taiwan Youth» | Transforma a controvérsia sobre a revogação da Lei 63 em direção a um parlamento representativo |
+| 30 de janeiro de 1921  | 178 pessoas apresentam a primeira petição                                   | Petição obtém entrada processual no Parlamento Imperial                                         |
+| 17 de outubro de 1921  | Fundação da Associação Cultural de Taiwan                                   | Coloca as exigências políticas na rede cultural, educacional e de palestras                     |
+| 16 de dezembro de 1923 | Incidente de Supressão Policial: grande detenção em toda a ilha             | Polícia colonial suprime diretamente associações políticas                                      |
+| 2 de setembro de 1934  | Resolução de parar após a 15ª petição                                       | Catorze anos de movimento de petição chegam a um encerramento                                   |
 
 ## Quinze Vezes Não São Quinze Reenvios Iguais
 
@@ -155,30 +157,30 @@ Ao ler hoje aquele documento, o que mais merece pausa não é o seu insucesso, m
 
 ## Referências
 
-[^1]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipé: 30 de janeiro de 1921, primeira petição para a instalação do Parlamento de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Regista a data da primeira petição, 178 signatários, procedimento de apresentação parlamentar e a posição contrária do Governo-Geral à instalação do Parlamento de Taiwan.
+[^1]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipei: 30 de janeiro de 1921, primeira petição para a instalação do Parlamento de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Registra a data da primeira petição, 178 signatários, o procedimento de apresentação por parlamentares e a posição contrária do Governo-Geral à instalação do Parlamento de Taiwan.
 
-[^2]: [Jardim da Política Democrática do Yuan Legislativo: Movimento de petição para a instalação do Parlamento de Taiwan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Compila o "Ponto de Chegada da Questão 63" de Lin Cheng-lu, as quinze petições, a cisão da Associação Cultural, a dissolução do Partido Popular de Taiwan e o contexto institucional da paragem do movimento.
+[^2]: [Parque da Política Democrática do Legislativo: Movimento de petição para a instalação do Parlamento de Taiwan (1921-1934)](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Compila o 'Ponto de Conclusão do Problema 6-3' de Lin Cheng-lu, as quinze petições, a divisão da Associação Cultural, a dissolução do Partido Popular de Taiwan e o contexto institucional da interrupção do movimento.
 
-[^3]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipé: 2 de setembro de 1934, interrupção do movimento de petição para a instalação do Parlamento de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Regista a decisão de interrupção após a 15ª petição, a reunião em Taichung, a audiência com o Governador-Geral e o processo de fim dos catorze anos de movimento.
+[^3]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipei: 2 de setembro de 1934, interrupção do movimento de petição para a instalação do Parlamento de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Registra a resolução de interrupção após a décima quinta petição, a conferência de Taichung, a audiência com o Governador-Geral e o processo de encerramento do movimento de catorze anos.
 
-[^4]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipé: 17 de outubro de 1921, fundação da Associação Cultural de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Inclui o local de fundação, a escala de presença, o objetivo, e atividades de iluminação como clubes de leitura, palestras, filmes educativos e escolas de verão.
+[^4]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipei: 17 de outubro de 1921, fundação da Associação Cultural de Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Inclui o local de fundação da Associação Cultural, a escala de participação, seus objetivos, bem como atividades de esclarecimento como sociedades de leitura de jornais, palestras, fotos de atividades e escolas de verão.
 
-[^5]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipé: 16 de dezembro de 1923, Incidente de Supressão Policial, grande detenção em toda a ilha](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explica o contexto político da proibição da Aliança Pró-Parlamento de Taiwan, a grande detenção do Governo-Geral em toda a ilha e a detenção de cerca de trinta pessoas.
+[^5]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipei: 16 de dezembro de 1923, grande repressão em toda a ilha no incidente de repressão policial](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Explica o contexto político da proibição da Aliança Pró-Parlamento de Taiwan, a grande repressão em toda a ilha pelo Governo-Geral e a detenção de cerca de trinta pessoas.
 
-[^6]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipé: 15 de abril de 1923, fundação do Taiwan Minpao](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Regista a fundação do Taiwan Minpao, o sistema de censura, a tiragem de 1925 e a transferência de publicação para Taiwan em 1927.
+[^6]: [Museu Memorial do Novo Movimento Cultural de Taiwan de Taipei: 15 de abril de 1923, lançamento do 'Taiwan Minpao'](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Registra o lançamento do 'Taiwan Minpao', o sistema de censura, a tiragem de 1925 e os materiais históricos da mídia sobre sua transferência para publicação em Taiwan em 1927.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Com introdução escrita e compilação das razões da petição de 1923 por James Gerien-Chen da Universidade da Flórida, fornece em inglês o contexto de direito colonial, Lei 63 e texto da petição.
+[^7]: [Japanese Empire Info: Razões para Solicitar o Estabelecimento de um Parlamento Taiwanês](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Escrito por James Gerien-Chen da Universidade da Flórida, que redigiu a introdução e compilou as razões da petição de 1923, fornecendo em inglês o contexto da teoria jurídica colonial, da Lei 6-3 e do texto da petição.
 
-[^8]: [Instituto de História de Taiwan da Academia Sinica: Primeira eleição local de Taiwan: manipulação institucional do governo colonial japonês](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analisa com investigação académica a reforma do sistema local de 1935, os assentos semi-eleitos e as restrições de elegibilidade, evitando escrever a autonomia limitada como democracia universal.
+[^8]: [Instituto de História de Taiwan da Academia Sinica: Primeira eleição local em Taiwan: manipulação institucional do governo colonial japonês](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analisa por meio de pesquisa acadêmica a reforma do sistema local de 1935, a metade das cadeiras eleitas popularmente e as restrições de elegibilidade, evitando que a autonomia limitada seja erroneamente descrita como democracia universal.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Resumo de capítulo académico em inglês que vê os movimentos políticos e culturais da gentry e intelectuais de Taiwan de 1920 a 1940 como a primeira vaga do desenvolvimento da sociedade civil taiwanesa.
+[^9]: [Elgar Online: A ascensão e queda dos movimentos da sociedade civil em Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Resumo de capítulo acadêmico em inglês considera os movimentos políticos e culturais da gentry e intelectuais de Taiwan de 1920 a 1940 como a primeira onda do desenvolvimento da sociedade civil em Taiwan.
 
-[^10]: [Wikimedia Commons: Grupo de petição pelo Parlamento de Taiwan de 1924 em Tóquio](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Página de arquivo da chegada do grupo de petição a Tóquio em 1924 e foto com estudantes taiwaneses, licença indicada como Domínio público.
+[^10]: [Wikimedia Commons: Delegação de petição pelo Parlamento de Taiwan em Tóquio em 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Página de arquivo da chegada da delegação de petição a Tóquio em 1924 e sua foto com estudantes taiwaneses no exterior, licenciada como domínio público.
 
-[^11]: [Wikimedia Commons: Grupo de Palestras da Associação Cultural de Taiwan de 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Foto de grupo do grupo de palestras da Associação Cultural de Taiwan em 1925 na filial de Shinchiku do distribuidor do Taiwan Minpao, licença indicada como Domínio público.
+[^11]: [Wikimedia Commons: Grupo de palestras da Associação Cultural de Taiwan em 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Foto do grupo de palestras da Associação Cultural na distribuidora do 'Taiwan Minpao' da filial de Shinchiku em 1925, licenciada como domínio público.
 
-[^12]: [Wikimedia Commons: Capa do Taiwan Minpao de 1 de janeiro de 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Imagem da capa do Taiwan Minpao de 1 de janeiro de 1926, página de arquivo indicada como Domínio público segundo regras de direitos de autor do Japão.
+[^12]: [Wikimedia Commons: Capa do 'Taiwan Minpao' de 1º de janeiro de 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Imagem da capa do 'Taiwan Minpao' de 1º de janeiro de 1926, página de arquivo marcada como domínio público segundo regras de direitos autorais do Japão.
 
-[^13]: [Wikimedia Commons: Petição para a Instalação do Parlamento de Taiwan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Página de arquivo da imagem da petição para a instalação do Parlamento de Taiwan, licença indicada como Domínio público.
+[^13]: [Wikimedia Commons: Petição para a instalação do Parlamento de Taiwan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Página de arquivo da imagem da petição para a instalação do Parlamento de Taiwan, licenciada como domínio público.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Página de arquivo do retrato de Lin Hsien-tang, licença indicada como Domínio público.
+[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Página de arquivo do retrato de Lin Hsien-tang, licenciada como domínio público.

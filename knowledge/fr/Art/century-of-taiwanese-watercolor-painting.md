@@ -1,19 +1,21 @@
 ---
-title: "Un siècle d'aquarelle taïwanaise : de Kinichirō Ishikawa à Jian Zhongwei, un héritage séculaire"
-description: "En 1907, Kinichirō Ishikawa arrive à Taïwan pour y enseigner, plantant la racine d'un siècle d'aquarelle sur l'île. Son élève Lan Yin Ding intègre la Royal Watercolour Society britannique en 1929 ; en 1934, des peintres locaux fondent de leur propre initiative l'Association artistique Taiyang. Après la guerre, Ma Baishui fusionne l'encre de Chine et l'aquarelle, tandis que Xi Dejin immortalise l'architecture traditionnelle taïwanaise. Dans les années 1990, trois associations coexistent et se connectent au réseau international IWS. Aujourd'hui, Jian Zhongwei s'illustre sur la scène internationale en tant que membre signataire à la fois de l'AWS et de la NWS. Ce parcours séculaire, de l'éducation coloniale normée aux compétitions internationales, relie la tradition du *plein air*, le système d'écoles normales et la communauté mondiale de l'aquarelle. La vitalité de l'aquarelle taïwanaise naît précisément de la tension entre institutions officielles et initiatives indigènes, entre racines locales et influences extérieures, entre tradition et compétition."
+title: "Cent ans d'évolution de l'aquarelle à Taïwan : de Kinichiro Ishikawa à Jian Zhong-wei"
+description: "En 1907, l'arrivée de Kinichiro Ishikawa pour enseigner à Taïwan a semé les graines de l'aquarelle taïwanaise pour le siècle à venir. Son élève Lan Yin-ting intègre la Royal Watercolour Society en 1929, tandis qu'en 1934, des artistes locaux fondent l'Association d'Art Taiyang. Après la guerre, Ma Bai-shui fusionne l'encre et l'aquarelle, et Si De-jin immortalise les anciens bâtiments de Taïwan. Dans les années 1990, trois grandes associations coexistent et se connectent au réseau international IWS. Aujourd'hui, Jian Zhong-wei s'est fait un nom mondialement en tant que membre double de l'AWS et de la NWS. Ce parcours centenaire, allant de l'éducation normale coloniale aux scènes de compétitions internationales, relie la tradition du plein air, le système pédagogique et la communauté mondiale de l'aquarelle ; la vitalité de l'aquarelle taïwanaise réside précisément dans cette tension accumulée entre les institutions officielles et indépendantes, le local et l'international, ainsi que la tradition et la compétition."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Art'
+tags: ['Art', 'aquarelle', 'peinture', 'aquarelle', "histoire de l'art"]
 subcategory: '視覺藝術'
-tags: ['Art', 'watercolor', 'painting', '水彩', '美術史']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-05-26T05:10:58+08:00'
+translatedAt: '2026-11-04T17:23:22.772881+00:00'
 ---
 
 # Un siècle d'aquarelle taïwanaise
@@ -64,7 +66,7 @@ Ce résultat est le fruit de plusieurs facteurs entrelacés au fil du temps. Les
 
 ## Notes
 
-[^1]: [Kinichirō Ishikawa — Wikipédia](https://zh.wikipedia.org/wiki/石川欽一郎) + [Tōho Shiotsuki — Wikipédia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirmation de la fondation du _Tenrankai_ en 1927 par quatre peintres japonais, dont Shiotsuki (1886–1954), professeur d'art au lycée de Taipei.
+[^1]: [Kinichirō Ishikawa — Wikipédia](https://zh.wikipedia.org/wiki/石川欽一郎) — + [Tōho Shiotsuki — Wikipédia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirmation de la fondation du _Tenrankai_ en 1927 par quatre peintres japonais, dont Shiotsuki (1886–1954), professeur d'art au lycée de Taipei
 
 [^2]: [Association artistique Taiyang — Wikipédia](https://zh.wikipedia.org/zh-tw/臺陽美術協會) — Confirmation de la fondation le 12 novembre 1934 par huit peintres locaux, dont Liao Chi-chun, Chen Cheng-po et Yang San-lang, premier groupe artistique indigène autonome de Taïwan.
 

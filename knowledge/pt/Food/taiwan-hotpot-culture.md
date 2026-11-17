@@ -2,19 +2,21 @@
 title: 'Hot pot de Taiwan: a história evolutiva do paladar insular numa só panela'
 description: 'Do símbolo de civilização do período colonial ao prato nacional de hoje, o hot pot de Taiwan não é apenas uma evolução do paladar, mas um microcosmo das mudanças sociais e da fusão étnica.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags: ['hot pot', 'gastronomia de Taiwan', 'molho shacha', 'cultura alimentar']
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/台灣火鍋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-05T04:11:55.444965+00:00'
 ---
 
 > **Visão geral em 30 segundos:** o mercado de hot pot de Taiwan atinge um valor anual de dezenas de bilhões, não sendo apenas o prato nacional que aquece o inverno, mas uma cultura alimentar adequada às quatro estações. Do «chúshāo» (鋤燒, sukiyaki) do período japonês às diversas panelas trazidas pelos imigrantes de várias províncias no pós-guerra, até aos atuais hot pots individuais e de alta gama, a história evolutiva do hot pot de Taiwan reflete as mudanças sociais e a fusão étnica desta ilha, cozinhando, por fim, o único e inconfundível «sabor de Taiwan».

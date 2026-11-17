@@ -1,29 +1,31 @@
 ---
-title: "Tamsui River Bridge: A Colossal Landmark on the River-Mouth Horizon, Built for 'Transparency'"
-description: "The Tamsui River Bridge is scheduled to open on May 12, 2026. Designed by the team of the late Dame Zaha Hadid, this single-pylon asymmetric cable-stayed bridge took thirty years of planning. Caught between the competing demands of preserving the famous Tamsui sunset and relieving traffic congestion, it redefines Taiwan's river-mouth landscape with fluid, sweeping lines."
+title: 'Tamsui River Bridge: A Massive Landmark on the Estuary Horizon Designed for "Transparency"'
+description: "The Tamsui River Bridge is expected to open to traffic on May 12, 2026. This single-tower asymmetric cable-stayed bridge, designed by Zaha Hadid Architects, took thirty years of planning. Balancing the protection of the Tamsui sunset with the need for traffic relief, it redefines Taiwan's estuary landscape through its fluid lines."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
-    '淡江大橋',
+    'Tamsui River Bridge',
     'Zaha Hadid',
-    '淡水夕照',
-    '交通建設',
-    '建築美學',
-    '環境保護',
-    '工程技術',
+    'Tamsui Sunset',
+    'Transportation Infrastructure',
+    'Architectural Aesthetics',
+    'Environmental Protection',
+    'Engineering Technology',
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-05-20T05:08:27+08:00'
+translatedAt: '2026-11-04T17:32:33.568307+00:00'
 ---
 
 > **30-Second Overview:**

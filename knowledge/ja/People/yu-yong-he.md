@@ -1,20 +1,22 @@
 ---
 title: '郁永河'
-description: '1697年、杭州出身の書生が自ら望んで瘴癘の地・台湾に渡り、硫黄を採集するために台南から北投まで徒歩で縦断した。台湾最古の北部に関する紀実文学を著した人物である。'
+description: '1697年、杭州の書生が自ら志願して瘴癘の地・台湾へ硫黄採取に赴き、台南から北投まで徒歩で歩き、台湾最古の北部紀行文学を著した。'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史與探險'
 tags: ['人物', '郁永河', '裨海紀遊', '清代', '探検', '北投', '硫黄', '台湾文学']
-readingTime: 10
+subcategory: '歷史與探險'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-05-01T18:02:56+08:00'
+translatedAt: '2026-11-04T21:34:53.581941+00:00'
 ---
 
 # 郁永河

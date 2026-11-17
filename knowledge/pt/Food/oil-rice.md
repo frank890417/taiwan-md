@@ -1,10 +1,8 @@
 ---
 title: 'Arroz de óleo: do arroz glutinoso que exibe riqueza ao presente que carrega o peso da vida no mês de um'
 description: "Nas ruas de Taiwan em 2026, um prato de arroz de óleo ainda é a escolha principal de muitas pessoas para celebrar a chegada de um novo bebê. Essa iguaria, originária da tradição dos imigrantes chineses e que evoluiu em Taiwan para uma combinação de salgado e doce na proporção dos 'antigos gourmets', combina arroz glutinoso e cebolinha vermelha para ser a bênção mais sólida das famílias taiwanesas em momentos de transição de vida."
-date: '2026-04-28'
-author: 'Taiwan.md Contributors'
+date: 2026-04-28
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'arroz de óleo',
@@ -14,15 +12,19 @@ tags:
     'arroz glutinoso',
     'cultura de banquetes',
   ]
-readingTime: 10
-lastVerified: '2026-04-28'
-lastHumanReview: true
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-28
+lastHumanReview: true
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-07-25T03:42:45+08:00'
+translatedAt: '2026-11-05T04:01:39.180929+00:00'
 ---
 
 > **30 segundos de visão geral：**  

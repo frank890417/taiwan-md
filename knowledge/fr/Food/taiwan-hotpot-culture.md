@@ -2,18 +2,21 @@
 title: "La fondue taïwanaise : l'évolution gustative d'une île dans un seul chaudron"
 description: "De symbole de civilisation à l'époque coloniale à plat national d'aujourd'hui, la fondue taïwanaise n'est pas seulement une évolution du goût, mais aussi le reflet des mutations sociales et de la fusion des communautés."
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags: ['Fondue', 'Gastronomie taïwanaise', 'Sauce saté', 'Culture culinaire']
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Food/台灣火鍋.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/台灣火鍋.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-05T04:50:21.962458+00:00'
 ---
 
 > **En 30 secondes :** Le marché de la fondue taïwanaise représente un chiffre d'affaires annuel de plusieurs dizaines de milliards de dollars. Bien plus qu'un plat national réchauffant en hiver, c'est une culture culinaire appréciée toute l'année. Du _sukiyaki_ de la période coloniale japonaise aux foyers diversifiés apportés par les immigrants d'après-guerre, en passant par les mini-fondues individuelles et les fondues haut de gamme d'aujourd'hui, l'histoire de la fondue taïwanaise reflète les mutations sociales et la fusion des communautés de cette île, pour finalement mijoter une saveur unique : le « goût taïwanais ».
@@ -62,20 +65,20 @@ La culture de la fondue taïwanaise est une épopée tissée par l'histoire, les
 
 ## Références
 
-[^1]: CParty. (2025). « Guide classique des collations nocturnes | L'évolution centenaire de la fondue taïwanaise ». [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^1]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). « Guide classique des collations nocturnes | L'évolution centenaire de la fondue taïwanaise »
 
-[^2]: orstyle.net. (2025). « Comment cette fondue est-elle devenue "taïwanaise" ? Le parcours lent de l'île de la fondue ». [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/)
+[^2]: [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/) — orstyle.net. (2025). « Comment cette fondue est-elle devenue "taïwanaise" ? Le parcours lent de l'île de la fondue »
 
-[^3]: VERSE. (2022). « Yu Fu : Parlons de fondue autour du feu ! ». [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu)
+[^3]: [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu) — VERSE. (2022). « Yu Fu : Parlons de fondue autour du feu ! »
 
-[^4]: Ming Ren Tang. (2020). « La sauce saté était à l'origine un "produit importé" ? L'histoire passée et présente de la sauce saté taïwanaise ». [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
+[^4]: [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026) — Ming Ren Tang. (2020). « La sauce saté était à l'origine un "produit importé" ? L'histoire passée et présente de la sauce saté taïwanaise »
 
-[^5]: Taiwan Panorama. (date inconnue). « La sauce saté taïwanaise — Les saveurs variées qui retracent les traces de l'immigration ». [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
+[^5]: [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2) — Taiwan Panorama. (date inconnue). « La sauce saté taïwanaise — Les saveurs variées qui retracent les traces de l'immigration »
 
-[^6]: Up Media. (2021). « Le "Di Yi Hot Pot", en activité depuis plus d'un demi-siècle, appartient désormais à l'histoire ! ». [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
+[^6]: [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834) — Up Media. (2021). « Le "Di Yi Hot Pot", en activité depuis plus d'un demi-siècle, appartient désormais à l'histoire ! »
 
-[^7]: Every Little D. (date inconnue). « En 1979, le premier restaurant de fondue épicée de Taipei : "Ning Ji" ». [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
+[^7]: [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/) — Every Little D. (date inconnue). « En 1979, le premier restaurant de fondue épicée de Taipei : "Ning Ji" »
 
-[^8]: Yang Tao Food Network. (date inconnue). « La fondue épicée, un produit populaire originaire du Sichuan ». [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
+[^8]: [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl) — Yang Tao Food Network. (date inconnue). « La fondue épicée, un produit populaire originaire du Sichuan »
 
-[^9]: CParty. (2025). « Guide classique des collations nocturnes | L'évolution centenaire de la fondue taïwanaise ». [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^9]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). « Guide classique des collations nocturnes | L'évolution centenaire de la fondue taïwanaise »

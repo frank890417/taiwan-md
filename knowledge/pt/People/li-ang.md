@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-07-26T15:32:46+08:00'
+translatedAt: '2026-11-04T20:13:47.293779+00:00'
 ---
 
 # Li Ang: Lukang 1952, "The Butcher's Wife" Abre Caminho para a Literatura Feminista de Taiwan
@@ -89,7 +91,7 @@ Li Ang recebeu o United Daily News Literary Award, o China Times Literary Award,
 
 Da cidade antiga conservadora de Lukang, atravessando controvérsias literárias até a condecoração francesa, a trajetória de Li Ang mostra que as vozes mais radicais às vezes nascem justamente do solo mais conservador, porque veem com mais nitidez a forma da opressão.
 
-**Leitura complementar**: [Li Ang — Wikipédia](<https://zh.wikipedia.org/wiki/李昂_(作家) ｜ [Blog de Li Ang](http://li-angnet.blogspot.com/) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/)
+**Leitura complementar**: [Li Ang — Wikipédia](<https://zh.wikipedia.org/wiki/李昂_(作家)>) ｜ [Blog de Li Ang](http://li-angnet.blogspot.com/) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/)
 
 ## Referências
 

@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T18:59:14.858265+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Đài Loan nằm ở giao điểm của các mảng kiến tạo, động đất là định mệnh của hòn đảo này. Bài viết bắt đầu từ truyền thuyết "Địa Ngưu lật mình" do bản địa sáng tạo, trải dài từ các ghi chép dị thường thời Thanh triều đến bước ngoặt hệ thống của trận đại địa chấn năm 921, khám phá cách người Đài Loan chuyển từ sợ hãi sang "bình tĩnh", và xây dựng khả năng chống chịu cấp thế giới trong cơn rung lắc.

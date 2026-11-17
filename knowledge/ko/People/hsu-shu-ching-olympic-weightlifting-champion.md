@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "두 면의 금메달의 정확한 성적에서 출발한다 — 219kg(승격)와 212kg(직접 획득) 모두 구체적인 숫자이지 형용사가 아니다."
-#   whats_excluded: "기술 동작 생체역학 분석; 훈련 프로그램 세부 사항; 상업 광고 목록"
-#   where_it_hedges: "2012년 은메달에서 금메달로 승격된 금메달 수령자 P0가 자오창링(카자흐스탄)임을 확인, 원문에 오류 있음"
-translatedFrom: People/許淑淨.md
-sourceCommitSha: 0ea5d5d42
-sourceContentHash: sha256:81d60bf0143f4da3
-sourceBodyHash: sha256:a8a07476ede69bdb
-translatedAt: 2026-05-17T05:34:52+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/許淑淨.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:81d60bf0143f4da3'
+sourceBodyHash: 'sha256:a8a07476ede69bdb'
+translatedAt: '2026-11-04T21:23:39.492343+00:00'
 ---
 
 # 허슈징: 윈베이 1991, 타이완 최초 올림픽 금메달 2관왕 53kg급 역도 선수

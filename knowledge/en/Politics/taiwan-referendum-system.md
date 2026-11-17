@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:50:57+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:27:29.779815+00:00'
 ---
 
 # Taiwan's Referendum System: Written into the Constitution in 1947, Took 56 Years to Get a Law
@@ -101,17 +101,18 @@ Thus came the 2026 situation: on November 28 local elections day, Case 22 would 
 
 ## Why This Line Is Worth Remembering
 
-Looking at each debate laid out, Taiwan's referendum system has really been repeatedly weighing only three things.
+When you lay out every debate, the Taiwan referendum system is truly weighing only three things over and over again.
 
-On one end of the scale is the threshold: the problem with those six cases in 2004 and 2008 was that the threshold was too strict—votes were mobilized but failed to pass. After 2017 changed to the one-quarter system, the problem shifted to the other side: low turnout plus high approval percentage could still fail to pass, as Case 21 in 2025 demonstrated. The second end is electoral capacity: the year with ten cases on the same day pushed polling stations to their limit, leading to the 2019 separation; after separation, the heat of referendum discussion was questioned, leading to the 2025 rebundling. The third end is "whose opinion gets onto that ballot," which depends on whether signatures require paper and whether absentee voting is allowed, and both of these are still waiting for implementation legislation.[^6]
+On one side of the scale is the threshold: the problem with those six cases in 2004 and 2008 was that the threshold was too strict—voter mobilization succeeded, but they couldn't pass the bar; after switching to the one-quarter system in 2017, the problem shifted to the other side, where low voter turnout combined with a high approval rate could still result in failure, as seen with Case 21 in 2025. On the other side is electoral capacity: the year with ten cases on the same day pushed polling station capacity to its limit, leading to the decoupling in 2019; after decoupling, the level of public discussion regarding referendums was questioned, leading to the re-bundling in 2025. The third side is "whose opinions can make it onto that ballot," which depends on whether signatures require paper forms and whether absentee voting is permitted—both of which are still awaiting implementing regulations. [^6]
 
-None of these three things has ever been purely a technical problem—each time it has been recalculated on the political stage. And the traces left by the system are easy to recognize: which year was amended, which article was amended, what was the turnout, was the threshold one-quarter or one-half. Laying these numbers out by year shows how this island has been learning to use direct democracy while adjusting its own container.
+None of these three things are ever purely technical issues; every single one is recalculated on the political stage. And the traces left by the system are easy to identify: which year the law was amended, which article was changed, what the voter turnout was, and whether the threshold was one-quarter or one-half. Laying these numbers out by year reveals the process of how this island has been learning to use direct democracy while simultaneously adjusting its own container.
 
-**Further Reading:**
+**Further Reading**:
 
-- [Central Election Commission System](/en/politics/central-election-commission) — the agency that guides referendum cases from proposal and signature collection through voting
-- [History of Voting Rights Thresholds](/en/politics/voting-rights-threshold-history) — the line determining who qualifies to enter a polling station has also been amended repeatedly
-- [2026 Nine-in-One Elections](/politics/2026 九合一選舉) — the other half of the ballot on November 28
+- [CEC System](/en/politics/central-election-commission) — The agency that manages the entire path of a referendum from proposal and signature collection to voting
+- [History of Voting Thresholds](/en/politics/voting-rights-threshold-history) — The line determining who is eligible to walk into a polling station has also been amended many times along the way
+- [2026 Nine-in-One Elections](/politics/2026 九合一選舉) — The other half of the ballot on November 28
+- [Taiwan and Nuclear Energy Debates](/en/society/taiwan-nuclear-debate) — Regarding Case 22 itself: the restart of Nuclear Plant No. 3 is being reviewed stage by stage, and the condition of "social consensus" has been placed into the same day's referendum vote
 
 ## References
 

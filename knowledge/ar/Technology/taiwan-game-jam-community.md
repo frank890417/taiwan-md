@@ -2,19 +2,21 @@
 title: 'مجتمع Game Jam في تايوان'
 description: 'من هبوط Global Game Jam في تايوان، إلى KUSO GAME JAM بفلسفة "العمل الرديء" — كيف أصبح مجتمع Game Jam في تايوان خلال عشر سنوات حاضنة ومختبراً للنظام البيئي للألعاب المستقلة'
 date: 2026-04-27
-author: 'tppr2046'
 category: 'Technology'
-subcategory: '遊戲產業'
 tags: ['الألعاب', 'الألعاب المستقلة', 'Game Jam', 'مجتمع', 'KUSO', 'الإبداع']
+subcategory: '遊戲產業'
 readingTime: 8
+author: 'tppr2046'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-07-25T05:00:14+08:00'
+translatedAt: '2026-11-04T17:29:11.348725+00:00'
 ---
 
 # مجتمع Game Jam في تايوان

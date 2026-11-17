@@ -1,20 +1,28 @@
 ---
 title: 'Henry Lee'
-description: "Built a forensic legend from a handful of bone fragments — yet a 'bloodstain' on a towel sent two men to prison for thirty wrongful years"
+description: 'Built a forensic legend with a shattered bone, yet a "bloodstain" on a towel sent two people to thirty years of wrongful imprisonment'
 date: 2026-03-29
 category: 'People'
+tags:
+  [
+    'Figures',
+    'Forensic Science',
+    'Taiwanese American',
+    'Criminal Investigation',
+  ]
 subcategory: '科學與學術'
-tags: ['人物', '鑑識科學', '台裔美國人', '刑事調查']
-readingTime: 8
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-05-02T02:50:54+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-11-04T21:20:20.501177+00:00'
 ---
 
 # Henry Lee

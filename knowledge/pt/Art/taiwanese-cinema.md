@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T21:32:46.842067+00:00'
+translatedAt: '2026-11-03T20:22:08.686350+00:00'
 ---
 
 # Taiwan: quem fala ao lado da tela e uma história de cinema que morre e ressurgi
@@ -287,15 +287,16 @@ Este artigo utiliza 4 imagens, todas armazenadas em cache em `public/article-ima
 - [Hou Hsiao-hsien em 1989, prêmio Leão de Ouro em Veneza](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Foto: Gorup de Besanez, CC BY-SA 4.0
 - [Lee Ang em 2009, Mostra de Veneza](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Foto: nicolas genin, CC BY-SA 2.0
 
-## Leituras complementares
+## Leitura adicional
 
-- [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien)：mestre do longa tomada que conquistou o Leão de Ouro em Veneza e levou o 228 à tela
-- [Yang De-chang](/pt/people/yang-dechang)：dois filmes na lista de 100 anos do Sight & Sound, observador das cidades
-- [Tsai Ming-liang](/pt/people/tsai-ming-liang)：vencedor do Leão de Ouro em Veneza, onde o cinema lento entrou para a Pinacoteca
-- [Lee Ang](/pt/people/ang-lee)：do Taiwan ao Hollywood, duas vezes vencedor do Oscar de Melhor Diretor
-- [Wei De-sheng](/pt/people/wei-te-sheng-taiwanese-epic-filmmaker)：com cinco línguas, fez «A Ilha dos Amores» e ressuscitou o cinema nacional
-- [O País Invisível](/pt/art/invisible-nation)：no documentário de Guei Ching-wen, o Taiwan visto de outra forma
-- [Emoção Taiwan: será que precisamos de um like da Coreia antes de dizer que nossa casa velha é bonita?](/pt/culture/taiwanese-sensibility)：o Leão de Ouro de «Cidade Triste» em 1989 e a bilheteria em Taipei aconteceram no mesmo ano — reconhecimento internacional e ressonância local não precisam ser opções exclusivas
+- [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien): vencedor do Leão de Ouro de Veneza, mestre do plano-sequência que levou o 228 às telas
+- [Yang De-chang](/pt/people/yang-dechang): observador urbano com duas obras no top 100 da _Sight & Sound_
+- [Tsai Ming-liang](/pt/people/tsai-ming-liang): vencedor do Leão de Ouro de Veneza, que levou o _slow cinema_ ao Louvre
+- [Ang Lee](/pt/people/ang-lee): de Taiwan a Hollywood, duas vezes vencedor do Oscar de Melhor Diretor
+- [Wei Te-sheng](/pt/people/wei-te-sheng-taiwanese-epic-filmmaker): quem filmou _Cape No. 7_ em cinco idiomas e reviveu o cinema nacional
+- [Golden Horse Awards](/art/金馬獎): de premiação só de filmes em mandarim a prêmio de cinema sinófono sem restrição de nacionalidade, filmes taiwaneses assim perdem em casa, mas a porta nunca se fechou de volta
+- [O País Invisível](/pt/art/invisible-nation): no documentário de Chloé Gendron, Taiwan visto de outra forma
+- [Sensibilidade Taiwanesa: precisamos que coreanos curtam primeiro para ousar dizer que nossas casas antigas são belas?](/pt/culture/taiwanese-sensibility): _A Cidade Triste_ teve Leão de Ouro de 1989 e bilheteria em Taipé no mesmo ano, reconhecimento internacional e ressonância local não precisam ser mutuamente exclusivos
 
 [^1]: [Filólogo no cinema - Wikipédia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — Em 1930, na Taiwan, havia cerca de 60 intérpretes japoneses (41) e taiwaneses (19), sendo necessário obter licença por meio de exame da polícia estadual.
 

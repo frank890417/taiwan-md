@@ -2,9 +2,7 @@
 title: "Screws: Taiwan's Hidden Champions' Fight for Survival Under 50% Tariffs and Carbon Border Pressures"
 description: 'Once a critical link in the U.S. military''s Vietnam War supply line, Gangshan in Kaohsiung laid the foundation for Taiwan''s "Kingdom of Screws." Today it stands at a historic crossroads. Under the double blow of the United States'' Section 232 tariff of 50% and the European Union''s CBAM carbon border tax, these hidden champions, once dominant in the global market, are trying to write a new chapter of resilient transformation under the halo of the semiconductor industry.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'Screws',
@@ -14,18 +12,22 @@ tags:
     'Industrial Transformation',
     'Hidden Champions',
   ]
-readingTime: 18
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-05-12T21:49:54+08:00'
+translatedAt: '2026-11-04T16:41:12.805055+00:00'
 ---
 
-> **30-second overview:** Taiwan was once a supply hub where "one in every three fasteners used by the United States came from Taiwan," and even played a decisive role during the Vietnam War. Yet with the United States imposing a 50% Section 232 tariff in 2025 and the European Union's CBAM carbon tariff approaching in 2026, this "rice of industry" sector, with annual output exceeding NT$50 billion and sustaining 30,000 households in northern Kaohsiung, is undergoing a life-or-death transformation from "selling by the kilogram" to "selling by the piece."
+> **30-Second Overview:** Taiwan was once the supply hub where "one in every three fasteners in the U.S. came from Taiwan," even playing a decisive role during the Vietnam War. However, with the U.S. imposing 50% Section 232 tariffs in 2025 and the EU CBAM carbon border tax looming in 2026, this industry — with annual output exceeding NT$50 billion, supporting 30,000 families in northern Kaohsiung, and known as the "rice of industry" — is undergoing a do-or-die transformation "from selling by weight to selling by the piece."
 
 ## The Birth of a Vietnam War Hero: How Did Small Screws Fasten the Foundations of Taiwan's "Kingdom of Screws"?
 

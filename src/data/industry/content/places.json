@@ -1,0 +1,95 @@
+{
+  "clusters": [
+    {
+      "id": "hsinchu-ic",
+      "counties": ["新竹市", "新竹縣"],
+      "url": "https://www.nstc.gov.tw/folksonomy/detail/6551f365-d098-4a73-84bf-750623629dd7?l=ch",
+      "h": {
+        "zh": "新竹：積體電路",
+        "en": "Hsinchu: integrated circuits"
+      },
+      "p": {
+        "zh": "新竹科學園區 1980 年成立。國科會的描述是積體電路聚落「上、中、下游產業鏈垂直整合」，是竹科營收成長的主力。",
+        "en": "The Hsinchu Science Park was founded in 1980. The National Science and Technology Council describes its integrated-circuit cluster as “vertically integrated across upstream, midstream and downstream” and the driver of the park’s revenue growth."
+      }
+    },
+    {
+      "id": "tainan-semi",
+      "counties": ["臺南市"],
+      "url": "https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=DEFAULT&thisRootID=376",
+      "h": {
+        "zh": "台南：先進製程與面板",
+        "en": "Tainan: leading-edge chips and display panels"
+      },
+      "p": {
+        "zh": "南科臺南園區。管理局的沿革寫到 2017 年台積電在這裡興建 5 奈米與 3 奈米先進製程廠；光電則以群創、瀚宇彩晶的面板上下游為核心。",
+        "en": "The Tainan base of the Southern Taiwan Science Park. The park bureau’s history records TSMC building its 5-nanometre and 3-nanometre fabs here from 2017; in optoelectronics the core is the panel supply chain around Innolux and HannStar."
+      }
+    },
+    {
+      "id": "kaohsiung-materials",
+      "counties": ["高雄市"],
+      "url": "https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=DEFAULT&thisRootID=377",
+      "h": {
+        "zh": "高雄路竹：半導體材料",
+        "en": "Kaohsiung (Luzhu): semiconductor materials"
+      },
+      "p": {
+        "zh": "南科高雄園區。管理局的說法是先進製程落腳南科之後，半導體材料與零組件聚落在這裡成形，進駐的有默克、英特格、采鈺、華邦電。",
+        "en": "The Kaohsiung base of the Southern Taiwan Science Park. According to the park bureau, once leading-edge processes settled in the Southern park a cluster of semiconductor materials and components formed here, with Merck, Entegris, VisEra and Winbond among those that moved in."
+      }
+    },
+    {
+      "id": "taichung-machinery",
+      "counties": ["臺中市"],
+      "url": "https://www.taichung.gov.tw/media/873030/經濟發展局.pdf",
+      "h": {
+        "zh": "台中大肚山：精密機械",
+        "en": "Taichung (Dadu Mountain): precision machinery"
+      },
+      "p": {
+        "zh": "臺中市政府稱大肚山腳下是「精密機械黃金縱谷」，涵蓋工具機與機械零組件、自行車與零組件、木工機械、手工具、航太等產業。",
+        "en": "The Taichung City Government calls the foot of Dadu Mountain a “golden valley of precision machinery”, covering machine tools and components, bicycles and parts, woodworking machinery, hand tools and aerospace."
+      }
+    },
+    {
+      "id": "changhua-faucet",
+      "counties": ["彰化縣"],
+      "url": "https://www.chcg.gov.tw/ch2/newsdetail.aspx?bull_id=440023",
+      "h": {
+        "zh": "彰化鹿港、和美：水五金",
+        "en": "Changhua (Lukang, Hemei): taps and bathroom hardware"
+      },
+      "p": {
+        "zh": "水龍頭這一類的水五金。彰化縣政府的說法是這個產業在鹿港、和美一帶發展了數十年，從原料、加工、表面處理到成品製造都在這裡。",
+        "en": "Taps and similar plumbing hardware. The Changhua County Government says the industry has grown around Lukang and Hemei for decades, with raw materials, machining, surface treatment and finished goods all made there."
+      }
+    },
+    {
+      "id": "kaohsiung-fastener",
+      "counties": ["高雄市"],
+      "url": "https://takao.kcg.gov.tw/article/654",
+      "h": {
+        "zh": "高雄岡山、路竹：螺絲",
+        "en": "Kaohsiung (Gangshan, Luzhu): screws and fasteners"
+      },
+      "p": {
+        "zh": "高雄市政府引工廠校正及營運調查：2019 年全臺螺絲、螺帽及鉚釘製造業的工廠超過 1,800 家，路竹與岡山就聚集了 700 多家。",
+        "en": "Citing the factory census, the Kaohsiung City Government says Taiwan had more than 1,800 screw, nut and rivet factories in 2019, over 700 of them clustered in Luzhu and Gangshan."
+      }
+    },
+    {
+      "id": "yunlin-petrochem",
+      "counties": ["雲林縣"],
+      "url": "https://www.ey.gov.tw/Page/35A2599DF4457B2B/afeb706e-05ce-4e54-971b-15ffe26e4586",
+      "h": {
+        "zh": "雲林麥寮：石化",
+        "en": "Yunlin (Mailiao): petrochemicals"
+      },
+      "p": {
+        "zh": "台塑六輕。行政院 2008 年的新聞稿提到這個計畫填海造陸 2,603 公頃，已經是一座完整的石化工業園區。",
+        "en": "Formosa Plastics’ Sixth Naphtha Cracker complex. A 2008 Executive Yuan release notes that the project reclaimed 2,603 hectares from the sea and had become a complete petrochemical industrial park."
+      }
+    }
+  ]
+}

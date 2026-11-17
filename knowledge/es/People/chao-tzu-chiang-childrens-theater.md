@@ -2,8 +2,7 @@
 title: 'Chao Tzu-chiang: de la iniciación en el Teatro Lanling a un espíritu que no se rinde bajo el delantal de la Abuela Fruta'
 description: 'En 1984, Chao Tzu-chiang se unió al Teatro Lanling tras ver un anuncio de «matrícula gratuita todo el año», iniciando así una carrera legendaria que abarca el teatro, la televisión, el cine y el arte infantil. Con su personaje de la «Abuela Fruta» calentó la infancia de innumerables niños, pero en la realidad fundó la Compañía de Teatro Infantil Ru Guo y acumuló deudas por decenas de millones, demostrando una entereza de «jamás rendirse» ante la pandemia y las crisis financieras. Esta es la profunda práctica de un artista que ha dedicado treinta años a proteger los sueños de la infancia en Taiwán.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Chao Tzu-chiang',
@@ -13,15 +12,19 @@ tags:
     'Arte infantil',
     'Cultura taiwanesa',
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-04T21:18:04.141763+00:00'
 ---
 
 > **Resumen en 30 segundos:**

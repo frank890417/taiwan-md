@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-23T04:15:45+08:00'
+translatedAt: '2026-11-05T00:42:48.131340+00:00'
 ---
 
 > **30 detik ringkasan:** Golden kerbau di Sanyi, olehan yang terkenal di seluruh Taiwan, sebenarnya memiliki kisah yang jauh lebih menarik dari yang kamu bayangkan. Ia tidak berasal dari kue Prancis, melainkan diciptakan oleh seorang tukang roti Tionghoa bernama **Lo Fu-ch'ing** setelah bertemu secara kebetulan dengan "roti Filipina" di dalam pesawat, lalu kembali ke Taiwan dan menggabungkan teknik pembuatan kue Tionghoa. Tekstur "keras" yang unik ini berasal dari proses pemipatan yang berulang dan pemanggangan dengan banyak mentega, mencerminkan semangat keinginan masyarakat Taiwan awal untuk makanan yang kaya dan mengenyangkan. Dari cemilan di gang sempit hingga olehan khas, golden kerbau bukan hanya kenangan rasa, tetapi juga cerminan budaya dan perkembangan komersial setempat, yang menjadi landmark aroma unik kota kecil ini.

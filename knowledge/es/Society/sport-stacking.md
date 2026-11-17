@@ -1,27 +1,28 @@
 ---
-title: 'Sport Stacking: de un "artículo de moda" de 1,915 segundos en compras online a la leyenda de 43 oros que arrasa en Asia'
-description: 'En 2025, la selección de Taiwán conquistó 43 oros y batió 7 récords mundiales en la Copa Asiática de Dalian, transformando este deporte —antes ridiculizado como "apilar vasos con agujeros"— en la disciplina de mayor dominio de la isla. Desde Lin Mengxin hasta la joven seediq Sama Basaw, el sport stacking taiwanés no solo persigue el límite de 0,001 segundos, sino que también apila nuevas cumbres sociales en la rehabilitación de educación especial y la educación inclusiva.'
-category: Society
+title: 'Sport Stacking: De un objeto de tendencia en subastas online de 1.915 segundos a arrasar Asia con 43 medallas de oro'
+description: 'La selección de Taiwán conquistó 43 medallas de oro y batió 7 récords mundiales en la Copa de Asia 2025 en Dalian, convirtiendo este deporte, que alguna vez fue ridiculizado como «apilar vasos con agujeros», en una de las disciplinas más dominantes de Taiwán. Desde Lin Meng-hsin hasta Sama Basho, una joven de la etnia Tsou, el sport stacking taiwanés no solo busca el límite de los 0.001 segundos, sino que también ha alcanzado nuevas alturas sociales a través de la rehabilitación en educación especial y la integración educativa.'
+date: 2026-04-28
+category: 'Society'
 tags:
   [
-    sport stacking,
-    Lin Mengxin,
-    Sama Basaw,
-    récords mundiales,
-    educación inclusiva,
-    integración social,
+    'Sport Stacking',
+    'Lin Meng-hsin',
+    'Sama Basho',
+    'Récord mundial',
+    'Educación inclusiva',
+    'Inclusión social',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 10
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-02T01:59:00.969547+00:00'
 ---
 
 > **Resumen en 30 segundos:**

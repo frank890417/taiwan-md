@@ -1,8 +1,8 @@
 ---
 title: 'Le dollar taïwanais : après le taux de change de 40 000 pour 1, il devient la monnaie nationale en 2000'
 description: "Le 15 juin 1949, quatre anciens dollars taïwanais ont été échangés contre un nouveau dollar taïwanais. Ce billet utilisé quotidiennement pour acheter le petit-déjeuner n'est devenu la monnaie officielle de la République de Chine que dans les textes juridiques en 2000. Il a traversé l'hyperinflation, les billets à circulation limitée de Kinmen et la reprise en main par la Banque centrale, enfermant dans le portefeuille les montagnes, le Palais présidentiel et la mémoire d'une île. L'histoire du dollar taïwanais est celle d'une crise devenue, lentement, une confiance quotidienne."
+date: 2026-08-17
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'Dollar taïwanais',
@@ -11,17 +11,19 @@ tags:
     'Billets de banque',
     'Banque centrale',
   ]
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/新台幣.md'
-sourceCommitSha: 'a8354bde0'
-sourceContentHash: 'sha256:4d797183a6dc8cc5'
-sourceBodyHash: 'sha256:8d5699b86714ee17'
-translatedAt: '2026-09-11T13:58:23+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:62c8b035ec5c889f'
+sourceBodyHash: 'sha256:f0e09241a66b11bc'
+translatedAt: '2026-11-05T13:43:15.461313+00:00'
 ---
 
 > **En 30 secondes :** Le 15 juin 1949, le Taïwan a échangé 40 000 anciens dollars taïwanais contre un nouveau dollar taïwanais, tentant d'appuyer sur le bouton stop d'une inflation monétaire devenue incontrôlable. Fait étrange, cette monnaie utilisée au quotidien n'est devenue officiellement la monnaie de la République de Chine dans les textes juridiques qu'en 2000. L'histoire du nouveau dollar taïwanais n'est donc pas seulement celle d'un échange de billets, mais aussi celle d'une histoire où la confiance, le nom juridique et la vie quotidienne se rattrapent mutuellement.
@@ -54,25 +56,25 @@ Le lendemain de l'émission du nouveau dollar taïwanais, le gouvernement provin
 
 ## Un billet, deux noms
 
-![Le siège de la Banque du Taïwan, cette banque a géré l'émission du nouveau dollar taïwanais](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
+![Bâtiment principal de la Banque de Taïwan, cette banque a autrefois géré l'émission du nouveau dollar taïwanais](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
 
-_Image : Carpkazu, CC BY-SA 2.5. Voir [Wikimedia Commons page de détails de l'image](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) et [Conditions de licence](https://creativecommons.org/licenses/by-sa/2.5/deed.en)._
+_Image : Carpkazu, CC BY-SA 2.5. Voir [page de détails de l'image sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) et [conditions de licence](https://creativecommons.org/licenses/by-sa/2.5/deed.en)._
 
-Ce bâtiment n'est pas la machine d'émission du nouveau dollar taïwanais, mais c'est une bonne porte d'entrée dans l'histoire institutionnelle. À partir de 1946, la Banque du Taïwan a géré l'émission du dollar taïwanais d'après-guerre, puis du nouveau dollar taïwanais. Le nom de l'institution imprimé sur les billets est entré dans le quotidien des gens avant même leur statut monétaire juridique. [^3]
+Ce bâtiment n'est pas la machine d'émission du nouveau dollar taïwanais, mais il constitue une excellente entrée dans l'histoire institutionnelle. À partir de 1946, la Banque de Taïwan a pris en charge l'émission du dollar taïwanais d'après-guerre et, plus tard, du nouveau dollar taïwanais. Le nom de l'institution imprimé sur les billets est entré dans le quotidien des gens bien avant le statut légal de la monnaie. [^3]
 
-Le nouveau dollar taïwanais a circulé très tôt, mais son statut juridique est resté longtemps ambigu. Après le transfert du gouvernement au Taïwan à la fin de 1949, la Banque centrale a réduit son organisation ; de nombreuses tâches ont été déléguées à la Banque du Taïwan, y compris l'émission de billets. Les billets portaient l'impression de la Banque du Taïwan, tandis que la responsabilité monétaire sous-jacente revenait progressivement à la Banque centrale. [^2]
+Le nouveau dollar taïwanais a circulé très tôt dans la pratique, mais son statut légal est resté ambigu pendant longtemps. Après l'installation du gouvernement à Taïwan à la fin de 1949, la Banque centrale a réduit son organisation et confié de nombreuses opérations à la Banque de Taïwan, dont l'émission de billets. Les billets portaient le nom de la Banque de Taïwan, mais la responsabilité monétaire revenait progressivement à la Banque centrale. [^2]
 
-La Banque centrale a repris ses activités le 1er juillet 1961, continuant de déléguer à la Banque du Taïwan l'agence d'émission de billets. Cet arrangement a fait porter à un même billet deux identités : c'était l'argent utilisé quotidiennement par les Taïwanais, mais aussi un héritage institutionnel dont le nom juridique et la responsabilité centrale n'étaient pas encore entièrement résolus. [^2] [^3]
+La Banque centrale a repris ses activités le 1er juillet 1961, mais a continué à confier à la Banque de Taïwan l'émission déléguée des billets. Cet arrangement a fait en sorte qu'un même billet portait simultanément deux identités : c'était l'argent que les Taïwanais utilisaient chaque jour, et c'était aussi un héritage institutionnel dont le nom légal et la responsabilité centrale n'étaient pas encore pleinement réglés. [^2] [^3]
 
-![Le premier et le deuxième immeuble de la Banque centrale, la Banque centrale a repris ses activités au Taïwan en 1961](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
+![Premier et deuxième bâtiments de la Banque centrale, la Banque centrale a repris ses activités à Taïwan en 1961](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
 
-_Image : Yu tptw, CC BY-SA 4.0. Voir [Wikimedia Commons page de détails de l'image](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) et [Conditions de licence](https://creativecommons.org/licenses/by-sa/4.0/deed.en)._
+_Image : Yu tptw, CC BY-SA 4.0. Voir [page de détails de l'image sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) et [conditions de licence](https://creativecommons.org/licenses/by-sa/4.0/deed.en)._
 
-Ce malaise n'est pas seulement perceptible dans les documents bureaucratiques. Des rapports historiques du _Taipei Times_ en anglais indiquent que le nouveau dollar taïwanais a été considéré comme une « monnaie locale » pendant une longue période, même s'il était déjà l'outil de transaction légal de facto au Taïwan. Après la reprise des activités de la Banque centrale en 1961, l'arrangement des droits d'émission n'a pas immédiatement éliminé cette contradiction de nom. [^5]
+Cette situation inconfortable ne se limitait pas aux documents bureaucratiques. Un reportage historique du _Taipei Times_ en anglais souligne que le nouveau dollar taïwanais a longtemps été considéré comme une « monnaie locale », alors même qu'il était déjà de facto l'instrument légal d'échange à Taïwan. Après la reprise d'activité de la Banque centrale en 1961, l'arrangement des droits d'émission n'a pas immédiatement dissipé cette contradiction nominale. [^5]
 
-En 1991, l'unité monétaire légale en argent a été abolie, et le Taïwan a connu un état où « le nouveau dollar taïwanais était utilisé en pratique, mais le texte juridique ne suivait pas encore complètement ». Ce n'est qu'en janvier 2000 que l'exécutif a publié les dispositions d'émission pertinentes, stipulant explicitement que la monnaie de la République de Chine est le nouveau dollar taïwanais. En juillet de la même année, la Banque centrale a commencé à émettre directement le nouveau dollar taïwanais. [^3] [^5]
+En 1991, le dollar d'argent qui servait de monnaie légale a été aboli, et Taïwan a connu un moment où « l'on utilisait concrètement le nouveau dollar taïwanais, mais les textes légaux n'avaient pas encore pleinement rattrapé ». Ce n'est qu'en janvier 2000 que le Yuan exécutif a publié les règlements d'émission afférents, stipulant que la monnaie de la République de Chine est le nouveau dollar taïwanais. En juillet de la même année, la Banque centrale a commencé à émettre directement le nouveau dollar taïwanais. [^3] [^5]
 
-📝 Note du commissaire : Une société peut d'abord utiliser une certaine monnaie comme monnaie nationale, et la loi ne reconnaîtra que des années plus tard ce que tout le monde savait déjà.
+📝 Note du commissaire : Une société peut faire d'une monnaie la monnaie du pays par l'usage, la loi ne reconnaissant que des années plus tard ce que tout le monde savait déjà.
 
 ## Les billets de Kinmen vous rappellent que la monnaie a aussi une géographie
 
@@ -126,20 +128,20 @@ Le nouveau dollar taïwanais n'a obtenu son nom légal qu'en 2000, mais il a ét
 
 ## Références
 
-[^1]: [Administration des archives nationales du Comité de développement économique : 40 000 pour 1 : Émission et circulation du nouveau dollar taïwanais](https://www.archives.gov.tw/tw/arctw/69-1989.html) — Utilisant les archives de l'exécutif, de la Banque du Taïwan et de la Banque centrale pour expliquer la réforme du système monétaire de 1949, le taux de 40 000 pour 1, les limites d'émission, l'hyperinflation et les billets à circulation limitée de Kinmen et Matsu.
+[^1]: [Administration des archives du Conseil national du développement : 40 000 pour 1 NT$ : émission et circulation du nouveau dollar taïwanais](https://www.archives.gov.tw/tw/arctw/69-1989.html) — À partir des archives de l'Exécutif Yuan, de la Banque de Taiwan et de la Banque centrale, explique la réforme monétaire de 1949, la conversion 40 000 pour 1 NT$, le plafond d'émission, l'hyperinflation et les billets à circulation restreinte pour Kinmen et Matsu.
 
-[^2]: [Administration des archives nationales du Comité de développement économique : De vertical à horizontal : Émission et évolution des billets du nouveau dollar taïwanais](https://www.archives.gov.tw/tw/arctw/69-1766.html) — Suivant les archives nationales pour suivre les billets horizontaux, la reprise de la Banque centrale, l'émission par zone des îles extérieures, la conception du billet de 100 dollars et les changements institutionnels de l'émission directe en 2000.
+[^2]: [Administration des archives du Conseil national du développement : Du format vertical au format horizontal : émission et évolution des billets du nouveau dollar taïwanais](https://www.archives.gov.tw/tw/arctw/69-1766.html) — À partir des archives nationales, suit les billets à format horizontal, la reprise d'activité de la Banque centrale, l'émission régionale pour les îles extérieures, la conception du billet de 100 dollars et les changements institutionnels de l'émission directe en 2000.
 
-[^3]: [Ministère des Finances Musée : La Banque du Taïwan émet un spécimen du Nouveau Dollar Taïwanais](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — Archives anglaises du ministère des Finances résumant l'historique d'émission du dollar taïwanais et du nouveau dollar taïwanais, le système de réserve, les changements de dénomination, la reprise par la Banque centrale et les techniques d'impression de sécurité.
+[^3]: [Musée du Ministère des Finances : La Banque de Taiwan émet un billet spécimen du nouveau dollar taïwanais](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — Les documents historiques en anglais du Ministère des Finances 정리 l'historique d'émission du dollar taïwanais et du nouveau dollar taïwanais, le système de réserves, les changements de dénominations, la prise en charge par la Banque centrale et les technologies d'impression anti-contrefaçon.
 
-[^4]: [Banque centrale : Billets et pièces du Nouveau Dollar Taïwanais](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — La Banque centrale explique la nouvelle série de billets et pièces de 2000, la composition des dénominations, les types de pièces et la proportion des billets de chaque dénomination dans la valeur totale de la circulation en 2014.
+[^4]: [Banque centrale : Billets et pièces du nouveau dollar taïwanais](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — La Banque centrale explique la nouvelle série de billets et pièces de 2000, la composition des dénominations, les types de pièces et la proportion de chaque dénomination dans la valeur totale en circulation en 2014.
 
-[^5]: [Taipei Times : Taiwan in Time : Comment le Nouveau Dollar Taïwanais est devenu la monnaie nationale](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — Rapports historiques en anglais梳理ant la controverse du nom du nouveau dollar taïwanais, passant de monnaie locale à monnaie légale, la reprise de la Banque centrale et la qualification juridique de 2000.
+[^5]: [Taipei Times : Taiwan in Time : Comment le nouveau dollar taïwanais est devenu la monnaie nationale](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — Un reportage historique en anglais retrace la controverse sur le nom du nouveau dollar taïwanais, passant de monnaie locale à monnaie légale, la reprise d'activité de la Banque centrale et sa définition légale en 2000.
 
-[^6]: [G. E. Makinen : L'hyperinflation et la stabilisation taïwanaises de 1945-1952](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — Page de détails de l'article de revue économique enregistré dans RePEc, documentant la bibliographie et le contexte académique de la recherche sur l'inflation et la stabilisation du Taïwan de 1945 à 1952.
+[^6]: [G. E. Makinen : L'hyperinflation taïwanaise et la stabilisation de 1945-1952](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — Page détaillée d'un article de revue économique indexé dans RePEc, recensant la bibliographie et le contexte académique des recherches sur l'inflation et la stabilisation à Taiwan de 1945 à 1952.
 
-[^7]: [Musée des billets de la Banque centrale : Le billet et son design racontent une histoire](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — Le Musée des billets de la Banque centrale explique les montagnes, les bâtiments, les espèces indigènes et les images de sécurité sur les billets en vigueur, et fournit le contexte spécifique de chaque dénomination.
+[^7]: [Musée de la monnaie de la Banque centrale : Le billet et son design racontent une histoire](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — Le musée des billets et monnaies de la Banque centrale explique les montagnes, les bâtiments, les espèces endémiques et les images anti-contrefaçon sur les billets actuels, et fournit le contexte concret des motifs de chaque dénomination.
 
-[^8]: [Institut d'histoire du Taïwan de l'Academia Sinica : L'inflation des prix d'après-guerre au Taïwan (1945-1950)](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — Page bibliographique académique de l'Institut d'histoire du Taïwan de l'Academia Sinica, fournissant le titre officiel, la publication et la plage temporelle de la recherche de Wu Tsung-min sur l'inflation des prix d'après-guerre.
+[^8]: [Institut d'histoire de Taiwan de l'Academia Sinica : L'hyperinflation des prix à Taiwan d'après-guerre (1945-1950)](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — Page bibliographique académique de l'Institut d'histoire de Taiwan de l'Academia Sinica, fournissant le titre officiel, la publication et la période couverte par la recherche de Wu Tsung-min sur l'hyperinflation d'après-guerre.
 
-[^9]: [Banque du Taïwan : Histoire de la Banque](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — La page d'historique en anglais de la Banque du Taïwan explique son contexte institutionnel dans le système financier de la période coloniale japonaise et d'après-guerre, ainsi que dans les tâches du trésor et de l'émission monétaire.
+[^9]: [Banque de Taiwan : Histoire de la banque](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — La page d'historique en anglais de la Banque de Taiwan explique son rôle institutionnel dans le système financier sous la colonisation japonaise et d'après-guerre, au Trésor national et dans l'émission monétaire.

@@ -19,11 +19,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-08T15:54:37+08:00'
+translatedAt: '2026-11-06T11:38:55.644818+00:00'
 ---
 
 > **30초 요약**: 1979년, 타이대병원은 36명 이상의 다학제 팀을 동원하여 장중런과 장충의 12시간 분리 수술을 성공시켰다. 이는 타이완 의료사에서 중요한 돌파구였으나, 두 형제의 이야기는 여기서 끝나지 않았다. 수술 후의 병고, 재활, 직장, 가정 및 언론의 시선이 비로소 '두 사람으로 나뉘는 것'이 평생 걸어갈 길이 되었음을 보여준다.

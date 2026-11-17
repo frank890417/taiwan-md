@@ -1,22 +1,22 @@
 ---
-title: '웨이저자(魏哲家): 1953년, 교통대학 전자공학에서 예일대 박사까지, 그리고 TSMC 회장 겸 사장'
-description: '1953년생. 국립교통대학 전자공학 학사/석사, 예일대학교 전기공학 박사. 텍사스인스트루먼트→ST마이크로일렉트로닉스→싱가포르 차터드 세미컨덕터→1998년 TSMC 입사. 2012년 류더인(劉德音)과 공동으로 TSMC COO(최고운영책임자) 취임. 2018/6/5 부회장 겸 사장 취임. 2024/6/4 류더인 퇴임 후 회장 취임, 현재 TSMC 회장 겸 사장.'
+title: '웨이저자: 1953년생, 교통대 전자공학과 → 예일대 박사 → TSMC 회장 겸 사장'
+description: '1953년생. 교통대 전자공학 학사/석사, 예일대학교 전기공학 박사. 텍사스 인스트루먼트 → ST마이크로일렉트로닉스 → 싱가포르 차터드 세미컨덕터 → 1998년 TSMC 입사. 2012년 류더인과 함께 TSMC 최고운영책임자(COO) 공동 역임. 2018년 6월 5일 부회장 겸 사장 취임. 2024년 6월 4일 류더인 퇴임 후 회장 승계, 현재 TSMC 회장 겸 사장 재임 중.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['기술과 기업', 'TSMC', '반도체', '웨이퍼 파운드리', '공정 기술']
 subcategory: '科技與企業'
-tags: ['科技與企業', '台積電', '半導體', '晶圓代工', '製程技術']
-readingTime: 7
-#   whats_excluded: "各代製程技術細節比較；台積電財報分析；與三星/英特爾競爭細節"
-#   where_it_hedges: "原文章誤植出生年1955→已修正為P0確認的1953；原誤植台大材料+史丹佛→已修正為交大電子+耶魯"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
-translatedFrom: People/魏哲家.md
-sourceCommitSha: '0f8fae0a'
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/魏哲家.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T23:26:14.327641+00:00'
 ---
 
 # 웨이저자(魏哲家): 1953년, 교통대학 전자공학에서 예일대 박사까지, 그리고 TSMC 회장 겸 사장

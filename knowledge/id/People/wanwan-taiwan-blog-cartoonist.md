@@ -1,6 +1,6 @@
 ---
-title: 'Wanwan: Si Kepala Botak yang Memberi Wajah pada Generasi Pekerja Kantoran, dan Hu Jiawei yang "Menjadikannya Tokoh Sejarah"'
-description: 'Di era ketika kantor masih berkomunikasi melalui MSN, seorang pekerja kantoran mengganti foto profilnya dengan sosok kepala botak tanpa busana, yang melambangkan "Saya ingin pulang kerja." Hu Jiawei, pembuat karakter tersebut, awalnya adalah asisten desain bergaji 9.000 Dolar Taiwan per bulan, namun secara tak terduga menjadi pionir blog dan kreasi visual pertama di Taiwan yang mencapai seratus juta tampilan. Sosok botak itu selamanya polos dan abadi, sementara sang seniman terus bertumbuh; oleh karena itu, ia meminta karakter tersebut untuk pensiun bersama dirinya, "menjadikannya tokoh sejarah."'
+title: 'Wanwan: Hu Jiawei menggambar orang botak untuk generasi MSN, dan keputusan membuatnya "menjadi tokoh sejarah"'
+description: 'Wanwan nama aslinya Hu Jiawei, adalah pionir kreasi teks dan gambar internet Taiwan. Awal 2000-an, orang botak yang digambarnya digunakan pekerja kantor sebagai foto profil MSN, mengucapkan "Saya ingin pulang kerja" untuk mereka; pada 2007 blognya menjadi blog pertama di Taiwan yang melebihi 100 juta kunjungan, kemudian melangkah ke stiker LINE dan WEBTOON. Setelah menjadi ibu, karyanya beralih ke keharian orang tua-anak, juga memutuskan agar orang botak yang tak pernah tua itu pensiun bersamanya, "menjadi tokoh sejarah".'
 date: 2026-06-29
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Wanwan',
     'Hu Jiawei',
     'ilustrasi',
-    'kreasi visual',
+    'kreasi teks dan gambar',
     'era MSN',
     'budaya internet',
   ]
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T02:14:49.089324+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-05T08:57:53.176894+00:00'
 ---
 
-# Wanwan: Si Kepala Botak yang Memberi Wajah pada Generasi Pekerja Kantoran, dan Hu Jiawei yang "Menjadikannya Tokoh Sejarah"
+# Wanwan: Hu Chia-wei yang Menggambarkan Orang Gundul untuk Generasi MSN, dan Keputusannya Membiarkannya "Menjadi Tokoh Sejarah"
 
-Pada awal tahun 2000-an, seorang pekerja kantoran di Taipei membuka komputer dan masuk ke MSN Messenger. Ia mengganti foto profilnya dengan sosok kecil: tanpa busana, kepala botak bundar, hanya memiliki satu rambut gimbal di atas kepalanya, dengan ekspresi setengah mati di wajahnya, ditemani tiga kata: "Saya ingin pulang kerja."
+Awal tahun 2000-an, seorang karyawan Taipei membuka komputer, masuk ke MSN Messenger. Dia mengganti foto profilnya dengan sosok kecil: tidak berpakaian, kepala gundul bulat, di puncak kepala hanya sebatang rambut kusut melingkar, wajah memasang ekspresi setengah mati, di sampingnya tiga kata: "Saya ingin pulang kerja".
 
-Ia tidak berani mengucapkan kalimat itu kepada bosnya secara langsung. Tetapi sosok botak itulah yang mengatakannya untuknya.
+Dia tidak berani benar-benar mengucapkan kalimat itu ke atasan. Tapi orang gundul itu mengatakannya untuknya.
 
-Itu adalah era ketika ponsel hanya bisa melakukan panggilan dan mengirim SMS. Tanpa stiker LINE, tanpa status sementara (stories), semua emosi di kantor tertekan dalam jendela MSN yang belum ditutup dan belum selesai bekerja. Dan sosok botak itu (yang kemudian dikenal sebagai "Wanwan") berada di kotak kecil pada jendela tersebut, meneriakkan kesibukan, kelelahan, kesedihan, keletihan, kejengkelan, dan kebosanan bagi seluruh kantor di Taiwan[^1].
+Itu era di mana ponsel hanya bisa menelepon dan mengirim SMS. Belum ada stiker LINE, belum ada Stories, semua emosi di kantor terkurung di jendela MSN yang belum bisa ditutup karena belum pulang kerja. Dan orang gundul itu (kemudian semua memanggilnya "Wanwan") ada di kotak kecil jendela itu, berteriak untuk seluruh kantor di Taiwan: sibuk, ngantuk, sedih, lelah, kesal, bosan[^1].
 
-![Pameran Buku Internasional Taipei 2008, Wanwan di stan United Online](/article-images/people/wanwan-2008-book-fair.webp)
-_Pameran Buku Internasional Taipei 2008, Wanwan di stan UDN. — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![2008 Pameran Buku Internasional Taipei, Wanwan di stand United Daily News (UDN)](/article-images/people/wanwan-2008-book-fair.webp)
+_2008 Pameran Buku Internasional Taipei, Wanwan di stand United Daily News (UDN). — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Ringkasan 30 Detik:** Wanwan, nama asli Hu Jiawei, adalah pionir kreasi visual internet Taiwan. Ia memulai dari asisten desain dengan gaji 9.000 Dolar Taiwan per bulan yang "berguling di lokasi konstruksi," dan karena kebosanan ia menggambar beberapa ilustrasi kecil yang sesuai dengan suasana hatinya di MSN, yang secara tak terduga menjadi populer di seluruh Taiwan. Blog pribadinya pada tahun 2007 menjadi blog pertama di Taiwan yang mencapai seratus juta tampilan; ia membuktikan bahwa "menggambar bisa mencari nafkah," dan kemudian diikuti oleh seluruh generasi kreator visual. Bagian yang paling menyentuh adalah pilihannya terhadap karakter ciptaannya: sosok botak itu selamanya polos dan abadi, sementara sang seniman terus bertumbuh; oleh karena itu, Hu Jiawei meminta karakter tersebut untuk pensiun bersama dirinya, "menjadikannya tokoh sejarah."
+> **Ringkasan 30 Detik:** Wanwan, nama aslinya Hu Chia-wei, adalah pionir kreasi visual daring Taiwan. Dia memulai dari asisten desainer dengan gaji bulanan NT$9.000, "tiap hari berguling di lokasi proyek", karena bosan menggambar beberapa gambar kecil sesuai suasana hati di MSN, tiba-tiba terkenal di seluruh Taiwan. Blog pribadinya pada 2007 menjadi blog pertama di Taiwan yang melampaui 100 juta tampilan; dia membuktikan "menggambar bisa mencari nafkah", diikuti oleh seluruh generasi kreator visual. Dan hal paling menyentuh padanya adalah pilihan terhadap tokoh ciptaannya: orang gundul itu selalu naif dan tidak tua, tapi yang menggambarkannya akan dewasa dan lelah; sehingga Hu Chia-wei berkata, dia ingin tokoh itu pensiun bersamanya, "menjadi tokoh sejarah".
 
 ## Satu Rambut Gimbal, Sosok Kecil Tanpa Busana
 

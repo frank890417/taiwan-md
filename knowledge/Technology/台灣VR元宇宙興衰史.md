@@ -10,6 +10,8 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 10
+curation: incubating
+curationReason: unverified
 ---
 
 > 2016 年，HTC 在巴塞隆納 MWC 發表消費版 Vive，王雪紅宣告「VR 元年」。同年台灣冒出第一個 VR/AR 產業協會、第一間 VR 網咖、第一座 VR 樂園。九年後的 2025 年 1 月，HTC 以 2.5 億美元把 XR 研發團隊賣給 Google。這段期間，台灣藝術家在威尼斯影展兩度拿下最佳 VR 體驗獎，但台灣的 VR 硬體市佔從三成五跌到不足兩趴。這篇文章追蹤的，是一座島嶼對「下一個大事」的押注、膨脹與失溫。

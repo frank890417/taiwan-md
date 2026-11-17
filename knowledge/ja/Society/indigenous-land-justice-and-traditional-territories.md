@@ -2,19 +2,21 @@
 title: '台湾先住民族の土地正義と伝統領域'
 description: '台湾先住民族の土地権利の歴史的背景、法的発展、伝統領域画定の論争、および先住民族転換正義委員会の活動成果を考察する'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
-category: Society
-subcategory: '人權與平等'
+category: 'Society'
 tags: ['先住民族', '土地正義', '伝統領域', '転換正義', '原転会', '土地権利']
-readingTime: 9
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:28b04fa76413100e'
 sourceBodyHash: 'sha256:4f732aefea1fd604'
-translatedAt: '2026-05-01T18:02:56+08:00'
+translatedAt: '2026-11-04T17:49:25.180460+00:00'
 ---
 
 # 台湾先住民族の土地正義と伝統領域

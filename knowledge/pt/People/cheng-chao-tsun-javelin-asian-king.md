@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-11-04T22:47:25.333570+00:00'
 ---
 
 # Cheng Chao-tsun: último arremesso de 91,36 m na Universíada de 2017, o dardo asiático nunca mais foi o mesmo

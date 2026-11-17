@@ -10,6 +10,8 @@ author: 'tppr2046'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
+curation: incubating
+curationReason: thin
 ---
 
 # 台灣 Game Jam 社群

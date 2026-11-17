@@ -1,0 +1,498 @@
+---
+/**
+ * ToolPage — 單獨工具頁版型（/<topic>/<tool-slug>/，專題共用契約 v1 第 4 節 (b)）。
+ *
+ * 頁面順序：
+ *   麵包屑 → H1（工具名）與一句話 → 工具本體（default slot）
+ *   → 結果怎麼讀（slot reading）→ 計算方式（howItWorks 與 slot method）
+ *   → 資料來源（slot sources）→ 常見問題 → 相關頁面（第一條固定連回專題主頁）
+ *   → 嵌入這個工具 → 免責聲明（slot disclaimer）
+ *
+ * 結構化資料三段：WebApplication、FAQPage、BreadcrumbList（首頁 → 專題 → 工具），
+ * 由 src/utils/tools/jsonld.ts 產生。常見問題頁面上的字與 FAQPage 的字是同一份 faq 陣列。
+ *
+ * BreadcrumbList 不在這裡輸出：三層的麵包屑經 Layout 的 breadcrumb prop 交給
+ * SEO.astro，整頁只有一份（2026-11-10 專題整合前是兩份）。
+ *
+ * 用法見 src/data/topics/README.md 的「工具單獨頁薄殼」。
+ * default slot 放工具元件本身；建議包一層 <ToolFrame variant="page">，
+ * 讓單獨頁、專題頁、內嵌板的外框一致。
+ */
+import '../../styles/topics-foundation.css';
+import Layout from '../../layouts/Layout.astro';
+import PageHero from '../PageHero.astro';
+import EmbedSnippet from './EmbedSnippet.astro';
+import type { Lang } from '../../config/languages';
+import { getLanguage } from '../../config/languages';
+import { useTopicsT } from '../../i18n/topics';
+import {
+  localizePath,
+  pickText,
+  type LocalizedText,
+  DEFAULT_TOPIC_LANGUAGES,
+} from '../../utils/topics/registry-core';
+import { uiDir } from '../../utils/topics/ui-dir';
+import {
+  absoluteUrl,
+  buildFaqPageLd,
+  buildWebApplicationLd,
+  serializeJsonLd,
+  type FaqItem,
+} from '../../utils/tools/jsonld';
+
+export interface Props {
+  lang: Lang;
+  /** 所屬專題。可以直接傳 getTopic('<id>') 的結果。path 用中文版路徑。 */
+  topic: {
+    id: string;
+    path: string;
+    title: string | LocalizedText;
+    /** 登記檔的 languages（v1.1）。沒傳 translatedLangs 時拿它當預設。 */
+    languages?: string[];
+  };
+  /** 工具。可以直接傳登記檔裡的那一筆。title 就是頁面的 H1。 */
+  tool: {
+    slug: string;
+    title: string | LocalizedText;
+    description: string | LocalizedText;
+    keywords?: string[];
+    /** schema.org applicationCategory，預設 UtilitiesApplication（試算類可填 FinanceApplication）。 */
+    applicationCategory?: string;
+  };
+  /** <title>。中文 30 字內、英文 60 字元內，搜尋詞放最前面。 */
+  metaTitle: string;
+  /** meta description。中文 70 到 80 字、英文 150 字元內。 */
+  metaDescription: string;
+  /** 計算方式的開頭一段（純文字）。更長的內容放 slot method。 */
+  howItWorks?: string;
+  /** 常見問題 3 到 6 題。a 是純文字。 */
+  faq: FaqItem[];
+  /** 相關頁面。href 請自己給對語言的路徑（文章 slug 各語言不同）。 */
+  related: { href: string; label: string }[];
+  /** 資料或工具最後更新日，YYYY-MM-DD。 */
+  updated: string;
+  /** 內嵌板路徑（中文版路徑，例 /embed/housing/mortgage-calculator/）。 */
+  embedPath: string;
+  /** OG 圖路徑，不給就用站上預設。 */
+  image?: string;
+  /** 內嵌 iframe 的初始高度（px），預設 640。 */
+  embedHeight?: number;
+  /** 覆寫各區塊的 H2（預設是完整問句，見 src/i18n/topics.ts）。 */
+  headings?: {
+    reading?: string;
+    method?: string;
+    sources?: string;
+    faq?: string;
+    related?: string;
+    embed?: string;
+  };
+  /**
+   * 這一頁內容真的翻好了的語言（v1.1）。目前語言不在清單裡時整頁標 noindex，
+   * 避免沒翻譯的語言薄殼變成可索引的重複頁。
+   * 預設：topic.languages（登記檔有寫的話），否則 ['zh-TW', 'en']。
+   */
+  translatedLangs?: string[];
+}
+
+const {
+  lang,
+  topic,
+  tool,
+  metaTitle,
+  metaDescription,
+  howItWorks,
+  faq = [],
+  related = [],
+  updated,
+  embedPath,
+  image,
+  embedHeight,
+  headings = {},
+  translatedLangs,
+} = Astro.props;
+
+const t = useTopicsT(lang);
+const ui = uiDir(lang);
+const indexedLangs: readonly string[] =
+  translatedLangs ??
+  (topic.languages && topic.languages.length > 0
+    ? topic.languages
+    : DEFAULT_TOPIC_LANGUAGES);
+const noindex = !indexedLangs.includes(lang);
+const toolTitle = pickText(tool.title, lang);
+const toolDescription = pickText(tool.description, lang);
+const topicTitle = pickText(topic.title, lang);
+const topicHref = localizePath(topic.path, lang);
+const homeHref = localizePath('/', lang);
+const pathname = Astro.url.pathname.endsWith('/')
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const pageUrl = absoluteUrl(pathname);
+const faqItems = faq.filter((f) => f && f.q && f.a);
+const relatedLinks = [
+  { href: topicHref, label: t('tool.backToTopic', { topic: topicTitle }) },
+  ...related.filter((r) => r && r.href && r.label && r.href !== topicHref),
+];
+
+const hasReading = Astro.slots.has('reading');
+const hasMethod = Astro.slots.has('method') || !!howItWorks;
+const hasSources = Astro.slots.has('sources');
+const hasDisclaimer = Astro.slots.has('disclaimer');
+
+const jsonLd = [
+  buildWebApplicationLd({
+    name: toolTitle,
+    description: metaDescription,
+    url: pageUrl,
+    inLanguage: getLanguage(lang)?.hreflang || lang,
+    keywords: tool.keywords,
+    dateModified: updated,
+    applicationCategory: tool.applicationCategory,
+    partOf: { name: topicTitle, url: topicHref },
+  }),
+  buildFaqPageLd(faqItems),
+].filter(Boolean);
+const breadcrumbTrail = [
+  { name: 'Taiwan.md', url: homeHref },
+  { name: topicTitle, url: topicHref },
+  { name: metaTitle, url: pageUrl },
+];
+---
+
+<Layout
+  lang={lang}
+  title={metaTitle}
+  description={metaDescription}
+  image={image}
+  dateModified={updated}
+  tags={tool.keywords}
+  readerSettings={true}
+  noindex={noindex}
+  breadcrumb={breadcrumbTrail}
+>
+  <div
+    class="tf-surface tf-page"
+    data-tf-page
+    data-topic={topic.id}
+    data-tool={tool.slug}
+  >
+    <nav class="tf-wrap tf-crumbs" aria-label={t('tool.breadcrumb.label')}>
+      <ol>
+        <li>
+          <a href={homeHref} dir={ui.dir} lang={ui.lang}
+            >{t('tool.breadcrumb.home')}</a>
+        </li>
+        <li><a href={topicHref}>{topicTitle}</a></li>
+        <li aria-current="page">{toolTitle}</li>
+      </ol>
+    </nav>
+
+    <PageHero
+      title={toolTitle}
+      subtitle={toolDescription}
+      titleSize="clamp"
+      padding="compact"
+      containerWidth="default"
+    />
+
+    <div class="tf-wrap">
+      {
+        updated && (
+          <p class="tf-updated" dir={ui.dir} lang={ui.lang}>
+            <time datetime={updated}>
+              {t('tool.updated', { date: updated })}
+            </time>
+          </p>
+        )
+      }
+
+      <div class="tf-tool">
+        <slot />
+      </div>
+
+      {
+        hasReading && (
+          <section class="tf-section">
+            <h2
+              class="tf-h2"
+              dir={headings.reading ? undefined : ui.dir}
+              lang={headings.reading ? undefined : ui.lang}
+            >
+              {headings.reading || t('tool.section.reading')}
+            </h2>
+            <div class="tf-prose">
+              <slot name="reading" />
+            </div>
+          </section>
+        )
+      }
+
+      {
+        hasMethod && (
+          <section class="tf-section">
+            <h2
+              class="tf-h2"
+              dir={headings.method ? undefined : ui.dir}
+              lang={headings.method ? undefined : ui.lang}
+            >
+              {headings.method || t('tool.section.method')}
+            </h2>
+            <div class="tf-prose">
+              {howItWorks && <p>{howItWorks}</p>}
+              <slot name="method" />
+            </div>
+          </section>
+        )
+      }
+
+      {
+        hasSources && (
+          <section class="tf-section">
+            <h2
+              class="tf-h2"
+              dir={headings.sources ? undefined : ui.dir}
+              lang={headings.sources ? undefined : ui.lang}
+            >
+              {headings.sources || t('tool.section.sources')}
+            </h2>
+            <div class="tf-prose">
+              <slot name="sources" />
+            </div>
+          </section>
+        )
+      }
+
+      {
+        faqItems.length > 0 && (
+          <section class="tf-section">
+            <h2
+              class="tf-h2"
+              dir={headings.faq ? undefined : ui.dir}
+              lang={headings.faq ? undefined : ui.lang}
+            >
+              {headings.faq || t('tool.section.faq')}
+            </h2>
+            <div class="tf-faq">
+              {faqItems.map((f) => (
+                <details class="tf-faq-item" open>
+                  <summary class="tf-faq-q">{f.q}</summary>
+                  <p class="tf-faq-a">{f.a}</p>
+                </details>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      <section class="tf-section">
+        <h2
+          class="tf-h2"
+          dir={headings.related ? undefined : ui.dir}
+          lang={headings.related ? undefined : ui.lang}
+        >
+          {headings.related || t('tool.section.related')}
+        </h2>
+        <ul class="tf-related">
+          {
+            relatedLinks.map((r, i) => (
+              <li>
+                {/* 第一條是地基自己的「回到專題」，其餘是呼叫者給的字。 */}
+                <a
+                  href={r.href}
+                  dir={i === 0 ? ui.dir : undefined}
+                  lang={i === 0 ? ui.lang : undefined}
+                >
+                  {r.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      {
+        embedPath && (
+          <section class="tf-section" id="tf-embed">
+            <h2
+              class="tf-h2"
+              dir={headings.embed ? undefined : ui.dir}
+              lang={headings.embed ? undefined : ui.lang}
+            >
+              {headings.embed || t('tool.section.embed')}
+            </h2>
+            <EmbedSnippet
+              embedPath={embedPath}
+              title={toolTitle}
+              lang={lang}
+              height={embedHeight}
+            />
+          </section>
+        )
+      }
+
+      {
+        hasDisclaimer && (
+          <aside class="tf-page-disclaimer" role="note">
+            <slot name="disclaimer" />
+          </aside>
+        )
+      }
+    </div>
+
+    {
+      jsonLd.map((ld) => (
+        <script type="application/ld+json" set:html={serializeJsonLd(ld)} />
+      ))
+    }
+  </div>
+</Layout>
+
+<style>
+  .tf-crumbs {
+    padding-top: 1.25rem;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    color: var(--color-ink-soft);
+  }
+  .tf-crumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.15rem 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tf-crumbs li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+  .tf-crumbs li + li::before {
+    content: '/';
+    opacity: 0.5;
+  }
+  .tf-crumbs a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .tf-crumbs a:hover,
+  .tf-crumbs a:focus-visible {
+    color: var(--color-accent);
+  }
+  .tf-crumbs [aria-current='page'] {
+    color: var(--color-ink);
+    font-weight: 600;
+  }
+  .tf-updated {
+    margin: 0 0 var(--space-4);
+    text-align: center;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    color: var(--color-ink-soft);
+  }
+  .tf-tool {
+    min-width: 0;
+  }
+  .tf-section {
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--color-border);
+    scroll-margin-top: 5rem;
+  }
+  .tf-h2 {
+    margin: 0 0 0.9rem;
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
+    line-height: 1.32;
+    letter-spacing: -0.01em;
+    color: var(--color-ink);
+  }
+  .tf-prose {
+    max-width: 44rem;
+    font-size: 1rem;
+    line-height: 1.85;
+    color: var(--color-ink);
+    overflow-wrap: anywhere;
+  }
+  .tf-prose :global(p) {
+    margin: 0 0 1em;
+  }
+  .tf-prose :global(p:last-child) {
+    margin-bottom: 0;
+  }
+  .tf-prose :global(ul),
+  .tf-prose :global(ol) {
+    margin: 0 0 1em;
+    padding-inline-start: 1.4rem;
+  }
+  .tf-prose :global(ul) {
+    list-style: disc;
+  }
+  .tf-prose :global(ol) {
+    list-style: decimal;
+  }
+  .tf-prose :global(a) {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .tf-prose :global(code) {
+    padding: 0.1em 0.35em;
+    border-radius: 4px;
+    background: var(--color-bg-soft);
+    font-size: 0.9em;
+  }
+  .tf-faq {
+    max-width: 44rem;
+  }
+  .tf-faq-item {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .tf-faq-item:first-child {
+    padding-top: 0;
+  }
+  .tf-faq-q {
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1.55;
+    color: var(--color-ink);
+  }
+  .tf-faq-a {
+    margin: 0.45rem 0 0;
+    line-height: 1.8;
+    color: var(--color-ink-soft);
+  }
+  .tf-related {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tf-related a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .tf-page-disclaimer {
+    max-width: 44rem;
+    margin-top: var(--space-7);
+    padding: 0.85rem 1rem;
+    border-inline-start: 3px solid var(--color-border);
+    border-radius: 0 8px 8px 0;
+    background: var(--color-bg-soft);
+    font-size: 0.85rem;
+    line-height: 1.75;
+    color: var(--color-ink-soft);
+  }
+  .tf-page-disclaimer :global(p) {
+    margin: 0;
+  }
+  .tf-page-disclaimer :global(p + p) {
+    margin-top: 0.4rem;
+  }
+</style>

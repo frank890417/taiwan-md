@@ -2,19 +2,21 @@
 title: 'ताइवान की ओपन सोर्स भावना——प्यार से चलने वाले इंजीनियर'
 description: 'ताइवान की सबसे प्रभावशाली ओपन सोर्स परियोजना कोई सॉफ्टवेयर नहीं, बल्कि हैकथॉन पर सरकार से कहने वाले इंजीनियरों का एक समूह है: "तुम अच्छा नहीं कर सकते, हम करेंगे।"'
 date: 2026-03-29
-author: 'p3nchan'
 category: 'Technology'
-subcategory: '社群與數位文化'
 tags: ['ओपन सोर्स', 'g0v', 'COSCUP', 'GitHub', 'सिविक टेक', 'फ्री सॉफ्टवेयर']
-readingTime: 8
+subcategory: '社群與數位文化'
+author: 'p3nchan'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-07-26T02:07:23+08:00'
+translatedAt: '2026-11-04T16:31:43.242225+00:00'
 ---
 
 > ताइवान का सॉफ्टवेयर उद्योग वैश्विक प्रथम श्रेणी का नहीं माना जाता, लेकिन GitHub पर Taiwan लेबल वाले उपयोगकर्ता 44,000 से अधिक हैं, सामुदायिक हैकथॉन संचयी रूप से 70 से अधिक आयोजित हुए हैं, हजारों योगदानकर्ता हैं——लगभग सभी ऑफिस के बाद अपनी जेब से खर्च करने वाले व्यक्तिगत डेवलपर। यह लेख केवल g0v की बात नहीं करता, बल्कि लोगों, समुदाय, शिक्षा, उद्योग इन चार कोणों से ताइवान की ओपन सोर्स संस्कृति का पूरा नक्शा जोड़ता है।
