@@ -63,7 +63,7 @@ Jusqu'au 56e numéro (intitulé 〈Prendre soin du quotidien〉) en mars 2023, _
 
 ## Pourquoi un auteur contributeur de _Art Collection_ a lancé une nouvelle plateforme
 
-Cheng Wen-chi n'a pas commencé à écrire des critiques en 2011. Depuis 2007, il publiait des critiques et des traductions de textes étrangers dans des magazines imprimés comme _Art Today_, _Artist Magazine_ et _Art Outer_[^*9], et il a été rédacteur en chef chinois de la « Plateforme de connaissances et de création en art numérique de Taïwan » du Musée national des beaux-arts de Taïwan. En d'autres termes, lorsqu'il a lancé « No Man's Land » en 2011, il était déjà établi dans le courant dominant depuis quatre ans.
+Cheng Wen-chi n'a pas commencé à écrire des critiques en 2011. Depuis 2007, il publiait des critiques et des traductions de textes étrangers dans des magazines imprimés comme _Art Today_, _Artist Magazine_ et _Art Outer_[^9], et il a été rédacteur en chef chinois de la « Plateforme de connaissances et de création en art numérique de Taïwan » du Musée national des beaux-arts de Taïwan. En d'autres termes, lorsqu'il a lancé « No Man's Land » en 2011, il était déjà établi dans le courant dominant depuis quatre ans.
 
 Ce moment est important. Quiconque est déjà établi dans le courant dominant depuis quatre ans et choisit de quitter cette structure pour écrire ce que le courant dominant ne peut pas écrire — la situation est totalement différente de celle d'un écrivain marginal cherchant une sortie.
 

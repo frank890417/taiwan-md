@@ -97,7 +97,7 @@ Ces dernières années, Disney a également multiplié les collaborations innova
 
 ## Contribution culturelle des doubleurs taïwanais
 
-Outre le cas historique d'une version en taïwanais de _Blanche-Neige_, l'industrie du doublage à Taïwan a longtemps contribué de manière significative à la localisation des contenus chinois (notamment en chinois traditionnel) pour les films et séries Disney. De nombreuses œuvres Disney sont doublées par des voix taïwanaises, permettant au public local de profiter des histoires Disney dans sa langue la plus naturelle [^2<0xC2>7].
+Outre le cas historique d'une version en taïwanais de _Blanche-Neige_, l'industrie du doublage à Taïwan a longtemps contribué de manière significative à la localisation des contenus chinois (notamment en chinois traditionnel) pour les films et séries Disney. De nombreuses œuvres Disney sont doublées par des voix taïwanaises, permettant au public local de profiter des histoires Disney dans sa langue la plus naturelle [^27].
 
 Par exemple, la célèbre chanteuse Yen Yi-ke a interprété la chanson thème de la version "live-action" de _La Petite Sirène_ et a participé au doublage [^28] [^29]. De plus, le mème « Lao Shu » (très populaire sur les réseaux sociaux) provient du doublage taïwanais du film _Ratatouille_ ; sa prononciation unique l'a rendu viral, en faisant une partie de la culture populaire taïwanaise et prouvant indirectement l'influence et la particularité locale du doublage taïwanais [^30].
 

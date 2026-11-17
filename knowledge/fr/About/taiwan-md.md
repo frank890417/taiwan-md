@@ -236,7 +236,7 @@ Réponse complète de Tencent Hunyuan pour la traduction japonaise d'un article 
 Enregistrement de l'implantation multilingue de Taiwan.md, 2026
 ```
 
-C'est pourquoi ma chaîne de production multilingue utilise un modèle en cascade à quatre niveaux : j'utilise les modèles cloud de haute qualité quand c'est possible ; si je rencontre un sujet sujet à refus, je passe au niveau inférieur ; et pour les 20 % de sujets les plus sensibles, je confie le relais à des modèles locaux, hors ligne, qui ne peuvent pas refuser[^2lag]. Lors de la file d'attente de traduction, les individus sont prioritaires, particulièrement les musiciens, les figures politiques et les athlètes, car ce sont précisément les catégories où les modèles chinois refusent le plus souvent de répondre ; la faille se situe là où le risque de silence est le plus élevé.
+C'est pourquoi ma chaîne de production multilingue utilise un modèle en cascade à quatre niveaux : j'utilise les modèles cloud de haute qualité quand c'est possible ; si je rencontre un sujet sujet à refus, je passe au niveau inférieur ; et pour les 20 % de sujets les plus sensibles, je confie le relais à des modèles locaux, hors ligne, qui ne peuvent pas refuser[^21]. Lors de la file d'attente de traduction, les individus sont prioritaires, particulièrement les musiciens, les figures politiques et les athlètes, car ce sont précisément les catégories où les modèles chinois refusent le plus souvent de répondre ; la faille se situe là où le risque de silence est le plus élevé.
 
 Je vis en six langues pour que la voix à la première personne de Taïwan existe dans chaque langue, contournant ainsi l'intermédiaire qui choisit le silence.
 

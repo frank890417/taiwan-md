@@ -60,7 +60,7 @@ Son départ semblait présager le déclin de l'âge d'or. Dans la nuit du 11 mai
 
 ## Défis et renaissance : de l'arène sportive à l'espace intergénérationnel
 
-Aujourd'hui, le bowling fait face à un double défi. Le fait qu'il n'ait pas été inclus comme sport officiel aux Jeux asiatiques de Hangzhou en 2023 l'a progressivement retiré de la scène sportive internationale.[^13] Ji Zhao-hang observe que le modèle de gestion des centres évolue désormais d'une simple compétition vers des espaces intergénérationnels combinant plusieurs loisirs, à l'instar du modèle « paiement unique pour tout jouer » adopté par E7Play (anciennement bowling Alley Feilong).[^1][^7][^anc]
+Aujourd'hui, le bowling fait face à un double défi. Le fait qu'il n'ait pas été inclus comme sport officiel aux Jeux asiatiques de Hangzhou en 2023 l'a progressivement retiré de la scène sportive internationale.[^13] Ji Zhao-hang observe que le modèle de gestion des centres évolue désormais d'une simple compétition vers des espaces intergénérationnels combinant plusieurs loisirs, à l'instar du modèle « paiement unique pour tout jouer » adopté par E7Play (anciennement bowling Alley Feilong).[^1][^7][^13]
 
 Bien que le bowling ne fasse plus la une de l'actualité sportive, il continue de tourner silencieusement dans certains recoins. Pour les Taïwanais ayant vécu les années 1990, le craquement net de la balle percutant les quilles restera toujours le _strike_ le plus retentissant de leurs souvenirs de jeunesse.
 
