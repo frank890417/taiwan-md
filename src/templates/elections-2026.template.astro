@@ -3353,7 +3353,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postNextLabel: 'Next',
       by: 'by {date}',
       range: '{start}–{end}',
-      risLabel: 'Online polling station lookup opens (Household Registration)',
+      risLabel: 'Online polling station lookup open',
     },
     nav: {
       vote: 'How to vote',
@@ -3499,7 +3499,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postNextLabel: 'この先',
       by: '{date}まで',
       range: '{start}〜{end}',
-      risLabel: '戸政司が投票所のオンライン照会を開始',
+      risLabel: '投票所のオンライン照会（戸政司）',
     },
     nav: {
       vote: '投票の仕方',
@@ -3802,8 +3802,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postNextLabel: 'Ensuite',
       by: 'au plus tard le {date}',
       range: '{start} – {end}',
-      risLabel:
-        'Ouverture de la recherche en ligne du bureau de vote (état civil)',
+      risLabel: 'Recherche en ligne du bureau de vote',
     },
     nav: {
       vote: 'Comment voter',
@@ -3976,8 +3975,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       postNextLabel: 'Después',
       by: 'a más tardar el {date}',
       range: '{start}–{end}',
-      risLabel:
-        'Abre la consulta en línea del lugar de votación (registro civil)',
+      risLabel: 'Consulta en línea del lugar de votación',
     },
     nav: {
       vote: 'Cómo votar',
@@ -4563,6 +4561,23 @@ const mapCounties = electionsData.races.map((r, i) => ({
   href: `#race-${i}`,
 }));
 
+// 句子裡的連結先組成 HTML 再 set:html（同 sourceLinks 的理由：JSX 換行會在
+// 中文句子裡變成空格）
+const dayCountHtml =
+  escHtml(ia.status.dayCount + sentenceGap) +
+  sourceLinks([{ url: lookups.cecHome.url, label: ia.status.dayCountLink }]);
+const postResultsHtml =
+  escHtml(ia.status.postResults + sentenceGap) +
+  sourceLinks([
+    { url: lookups.electionDb.url, label: ia.status.postResultsLink },
+  ]) +
+  escHtml(ia.status.postResultsNote);
+const paperHtml =
+  escHtml(fill(ia.vote.paperValue, { date: bulletinDate }) + sentenceGap) +
+  sourceLinks([
+    { url: electionsData.sources.bulletin, label: ia.vote.paperLink },
+  ]);
+
 // 錯誤回報：GitHub 事實更正表單，預填頁面網址
 const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template=fact-correction.yml&title=${encodeURIComponent('[Fact Check] 2026 選舉專頁')}&article=${encodeURIComponent(pageUrl)}`;
 ---
@@ -4614,18 +4629,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
                 <ul class="el-st-facts el-reset">
                   <li>{ia.status.dayHours}</li>
                   <li>{ia.status.dayBring}</li>
-                  <li>
-                    {ia.status.dayCount}
-                    {sentenceGap}
-                    <a
-                      href={lookups.cecHome.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="el-inline-link"
-                    >
-                      {ia.status.dayCountLink}
-                    </a>
-                  </li>
+                  <li set:html={dayCountHtml} />
                 </ul>
               </div>
             )
@@ -4634,19 +4638,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
             phase === 'post' && (
               <div class="el-st-day">
                 <p class="el-st-title">{ia.status.postTitle}</p>
-                <p class="el-st-result">
-                  {ia.status.postResults}
-                  {sentenceGap}
-                  <a
-                    href={lookups.electionDb.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="el-inline-link"
-                  >
-                    {ia.status.postResultsLink}
-                  </a>
-                  {ia.status.postResultsNote}
-                </p>
+                <p class="el-st-result" set:html={postResultsHtml} />
               </div>
             )
           }
@@ -4799,15 +4791,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
               </svg>
               {ia.vote.paperLabel}
             </dt>
-            <dd>
-              {fill(ia.vote.paperValue, { date: bulletinDate })}{sentenceGap}
-              <a
-                href={electionsData.sources.bulletin}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="el-inline-link">{ia.vote.paperLink}</a
-              >
-            </dd>
+            <dd set:html={paperHtml} />
           </div>
         </dl>
 
@@ -5712,6 +5696,8 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     color: var(--el-accent);
   }
   .el-hero-sub {
+    /* 手機不顯示：日期已在狀態列，省下的高度讓三扇門留在第一屏 */
+    display: none;
     margin: 4px 0 0;
     max-width: 36em;
     font-size: 15px;
@@ -5802,7 +5788,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
   }
   .el-st-when {
     flex: none;
-    min-width: 6.5em;
+    min-width: 7.6em;
     font-weight: 600;
     color: var(--el-accent);
     font-variant-numeric: tabular-nums;
@@ -5865,6 +5851,10 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     font-size: 12.5px;
     line-height: 1.45;
     color: var(--el-ink-2);
+    /* 手機一行就好（外語較長），桌機三欄時才完整換行 */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .el-door-arrow {
     flex: none;
@@ -6990,6 +6980,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
       font-size: 52px;
     }
     .el-hero-sub {
+      display: block;
       margin-top: 10px;
       font-size: 18px;
     }
@@ -7018,6 +7009,7 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
     }
     .el-door-hint {
       font-size: 13.5px;
+      white-space: normal;
     }
     .el-state {
       padding: 22px 26px;
