@@ -63,6 +63,8 @@ Taiwan.md 是純靜態網站（Astro SSG + GitHub Pages），沒有：
 
 `moderate` 以下不擋合併，逐案判斷並記錄：沒有上游修補、或只有 breaking change 修得掉的，帶選項與代價進 [OBSERVER-QUEUE](docs/semiont/OBSERVER-QUEUE.md) 等拍板，不靜默放過也不急著降版。
 
+**目前接受的已知風險（2026-11-17 記錄，待決佇列 #105 選項 C）**：`npm audit --omit=dev` 回報 4 個 moderate，全部在同一條鏈 `gray-matter@4.0.3 → js-yaml@3 → argparse@1 → sprintf-js`（[GHSA-hp3w-g68c-fv3c](https://github.com/advisories/GHSA-hp3w-g68c-fv3c)，格式字串精度造成的阻斷服務）。不處理的理由是三個條件同時成立：嚴重度只到 moderate；`gray-matter` 最新版仍是 4.0.3、上游沒有修法，唯一的「修法」是降到 2.0.1 或強制 js-yaml 4，都是會改變 15 個以上檔案 frontmatter 解析行為的破壞性變更；它只在建置時解析本倉庫自己的 Markdown，不進瀏覽器，也不在任何接收請求的伺服器上執行。三個條件任一改變（gray-matter 進了執行期、嚴重度升到 high、或上游發布修法）就重新決定。由投稿者 tboydar 在 [issue #1832](https://github.com/frank890417/taiwan-md/issues/1832) 複驗時提出。
+
 ### HTTP 回應標頭（有意識的取捨）
 
 Taiwan.md 由 Cloudflare 前置、GitHub Pages 作為 origin 提供靜態檔案。GitHub Pages 不接受自訂回應標頭，所以站上**沒有** `Content-Security-Policy`、`X-Frame-Options`、`X-Content-Type-Options`、HSTS，而 `Access-Control-Allow-Origin` 是 `*`。
