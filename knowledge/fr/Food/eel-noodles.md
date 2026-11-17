@@ -1,96 +1,211 @@
 ---
-title: "27 secondes de précision : les origines de l'époque japonaise et l'héritage de la famille Liao dans les nouilles aux anguilles de Tainan"
-description: "La technique centrale des nouilles aux anguilles (*shàn-yú yì-miàn*) de Tainan repose sur un chiffre : 27 secondes. Au-delà de ce délai, la chair devient sèche et l'odeur de vase apparaît. Nées dans le marché de Sakariba à l'époque coloniale japonaise, les frères Liao Bing-nan et Liao Huo-tu ont appris cet art auprès d'un maître de Fuzhou, remplaçant l'anguille japonaise par l'anguille sauvage des étangs de Tainan pour bâtir une renommée centenaire."
+title: 'Les nouilles yi aux anguilles de Tainan : les anguilles des fossés se font rares, le grand feu se transmet de génération en génération devant le wok'
+description: "Un billet de blog de 2013 raconte qu'au « Vieux marque anguilles nouilles yi » de Sakariba à Tainan, le mur affiche « sauté d'anguilles en vingt-sept secondes ». L'écrivain Yu Fu note que les frères Liao ont appris le « couteau » auprès d'un maître de Fuzhou. Le blogueur Mao Daye relate que le cadet A-yuan a commencé à vendre des anguilles sautées à quatorze ans avec son père, et que son neveu A-jiang a appris auprès de son troisième oncle à dix-sept ans. Les anguilles des fossés se font rares, l'intensité du feu, la dose de sauce, l'épaisseur de la liaison restent entre les mains de ceux qui tiennent le wok, au fil des familles."
 date: 2026-07-02
 category: 'Food'
 tags:
   [
     'Tainan',
-    'nouilles aux anguilles',
-    'district de Zhongxi',
+    'nouilles yi aux anguilles',
+    'anguilles sautées',
     'Sakariba',
-    'époque coloniale japonaise',
-    'famille Liao',
-    'cuisine de rue',
+    'district Zhongxi',
+    'anguille jaune',
+    'nouilles yi',
+    'petit plat',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-07-02
+lastVerified: 2026-11-04
 lastHumanReview: false
-readingTime: 7
-curation: 'incubating'
+researchReport: 'reports/research/2026-11/鱔魚意麵.md'
+readingTime: 14
+image: '/article-images/food/eel-noodles-soup-bowl-2016.webp'
+imageAlt: "Un bol de soupe de nouilles yi aux anguilles : dans une liaison brune flottent des tronçons d'anguilles fendus, des lanières d'oignon et des tronçons de ciboule, au fond des nouilles yi bouclées"
+imageCredit: 'bryan... from Taipei, Taiwan / Flickr via Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Food_(27772132115).jpg'
+rationale:
+  why_this_hook: '從沙卡里巴老牌牆上的二十七秒切入，先讓讀者看見鍋前的火，再追這套功夫從福州師傅傳進廖家、一代教一代；田溝裡的鱔魚少了以後，留在攤子上的是火候、醬料與勾芡的分寸。'
+  whats_excluded: '不寫「日治時期以鱔魚仿鰻」與任何確切起源年份，因為只見於店家口述與單一部落格；不寫鱔魚進口量、來源國與食安，因為官方數字本輪未取得、且與本文論點無關；不把二十七秒寫成全體店家的技術門檻；不列店家名單，也不封任何一家為正宗。'
+  where_it_hedges: '廖炳南原本做銀樓、三弟先賣的家史只見於同一位部落客 2015 與 2024 年的文章，文中以「據記載」呈現；處理鱔魚的今昔只把 2007 到 2019 年幾筆記錄並排，不下現況結論；市場上的鱔魚，店家說多靠進口、臺灣魚類資料庫說多為人工養殖，兩說並陳。'
+  whos_pushing_back: '食材派（焦桐 2007「現在的鱔魚多冷凍進口貨，不足為訓」）會認為魚的來處才是根本，文中引他原話並保留新營野生鱔魚的例子；也有人不同意「台南人吃得甜」，文中並陳魏德聖的反駁與台北業者的說法。'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'rewrite'
+    linesBefore: 82
+    linesAfter: 197
+    reason: '2026-11-04 全面進化資料：進化分數最高（65.2），0 腳註、1,460 字、curation incubating；28 天搜尋曝光 8,778、主查詢「台南鱔魚意麵」1,915 排 8.5；屬 ARTICLE-INBOX 69 篇單薄文章 batch（Tier C2 台南小吃貢獻者批）。全文依研究報告重寫，補 24 條腳註、5 張圖與 1 支官方影片'
 translatedFrom: 'Food/鱔魚意麵.md'
-sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:81213e22c8b81c39'
-sourceBodyHash: 'sha256:7eb60f7eb1751d17'
-translatedAt: '2026-08-04T15:04:47+08:00'
+sourceCommitSha: 'febf7a1ba'
+sourceContentHash: 'sha256:45f9e5bf95cb2429'
+sourceBodyHash: 'sha256:6f11b52d6d207203'
+translatedAt: '2026-11-07T12:47:34+08:00'
 ---
 
-À dix heures du soir, dans un stand de nouilles aux anguilles de la rue You'ai, le feu vif brûle depuis plusieurs heures. Le maître saisit un morceau d'anguille et le jette dans le wok bouillant — à cet instant précis, le compte à rebours commence. L'ail parfume, l'anguille entre en scène, suivis des oignons verts, des oignons, du piment, de l'assaisonnement épaissi à la fécule et du vinaigre Wu-yin ; puis, le tout est versé sur les nouilles _yì-miàn_. De la mise en cuisson au retrait du feu, tout doit être accompli en moins de 27 secondes.
+Il est près de neuf heures du soir, la blogueuse « Le parc d'attractions de Bao'er » ne trouve pas où se situe Sakariba à Tainan, elle doit téléphoner à ce « Vieux marque anguilles nouilles » où elle veut aller. Le patron leur dit d'attendre au carrefour de la route Zhongzheng et de la route Hai'an, il sort lui-même pour les guider. Une fois dans la boutique, le mur affiche « sauté d'anguilles en vingt-sept secondes », la blogueuse demande, le patron répond qu'on trouve la vidéo sur le net. Cet article culinaire de 2013 raconte qu'à l'époque, c'est Liao Guo-xiong, troisième génération de la famille Liao, qui tient la spatule.[^1]
 
-Une seconde de trop, et la chair devient sèche, l'odeur de vase s'installe, et tout le plat est gâché.
+Dès 2007, Jiao Tong en a parlé dans _Business Weekly_. Il écrit que Sakariba « Vieux marque anguilles nouilles » « affiche vingt-sept secondes de sauté rapide, ce qui signifie que depuis que l'anguille tombe dans le wok jusqu'à ce qu'elle soit sautée et sortie, il ne faut que vingt-sept secondes, pour préserver la texture de l'anguille. » Juste après, il décrit la personne devant le wok : « Chaque fois que je regarde le maître du wok sauter au grand feu, la fumée d'huile jaillit, je ne peux m'empêcher d'associer cela au caractère violent des premiers immigrants de Taïwan. »[^2]
 
-## Le poids d'un chiffre
+Le plat qui arrive devant le client : au fond, une masse de nouilles yi frites au préalable, par-dessus des tronçons d'anguilles sautés au grand feu, nappés d'une liaison brune aigre-douce. Ceux qui ne veulent pas de liaison peuvent commander le « sauté sec ».[^3][^4][^5] Jiao Tong dit que les nouilles yi aux anguilles sont un petit plat typique du sud de Taïwan, et que Tainan est peut-être la ville où la densité de nouilles yi aux anguilles est la plus élevée de toute l'île.[^2] Wang Hao-yi a consigné une à une les opérations à accomplir en ces vingt-sept secondes.
 
-Les nouilles aux anguilles existent ailleurs à Taïwan, mais en dehors de Tainan, presque personne ne maîtrise la technique. Ce n'est pas un problème d'ingrédients, ni de sauce, c'est une question de ces 27 secondes.
+> **Aperçu en 30 secondes :** Les nouilles yi aux anguilles de Tainan, c'est une masse de nouilles yi frites au préalable, recouverte d'anguilles sautées au grand feu et d'une liaison aigre-douce, on peut aussi commander sans liaison en version sautée sèche. La technique de sauté d'anguilles de la famille Liao est parvenue à la troisième génération, le cadet A-yuan a ouvert boutique sur la route Chenggong, son neveu A-jiang s'est mis à son compte sur la route Minzu, A-hui qui ne porte pas le nom Liao a aussi tenu boutique à Tainan pendant plus de cinquante ans. Ce vieux marque de Sakariba qui affichait vingt-sept secondes au mur a depuis cessé son activité. Les anguilles des fossés se font rares, les vieux magasins disent qu'ils dépendent maintenant surtout des importations. L'intensité du feu, la dose de sauce, l'épaisseur de la liaison, tout reste entre les mains de ceux qui sont devant le wok, s'ajustant au fil de la ville et des époques.
 
-La structure protéique de l'anguille est fragile ; sous une chaleur intense, les fibres musculaires coagulent presque instantanément. Passé le point critique, la texture change radicalement. 27 secondes suffisent pour que la chair soit cuite tout en conservant son élasticité ; après 27 secondes, elle commence à durcir, à sentir le vase et à s'effriter. Les vieux maîtres ne regardent pas de chronomètre — ils écoutent le _wò-qì_ (l'énergie du wok) et ressentent l'état de la cuisson par le mouvement du poignet. Ce savoir-faire ne s'apprend pas en quelques mois.
+## Ail explosé, liaison, vinaigre : chaque maison joue sur le feu
 
-📝 Note du commissaire : Le chiffre « 27 secondes » est une connaissance commune pour les amateurs de nouilles aux anguilles à Tainan, mais il est presque inconnu ailleurs. Ce n'est pas un argument marketing, c'est la description précise du seuil technique de ce plat — chaque seconde dépassant ce délai est un manque de respect envers l'ingrédient.
+Wang Hao-yi a écrit dans _Institut de recherche sur les petits plats_ l'ordre de mise au wok du vieux marque, disant que cette boutique affiche que toute la séquence ne doit pas dépasser vingt-sept secondes. L'ail d'abord explosé pour son parfum, les tronçons d'anguilles jetés dans le wok juste après, oignon, oignon vert, piment et assaisonnements sautés rapidement, on lie, on ajoute un trait de vinaigre cinq impressions, puis on sort du wok pour verser sur les nouilles yi déjà dressées dans l'assiette.[^5] Il classe en quatre critères les conditions d'un bon sauté d'anguilles : fraîcheur, feu, condiments, nouilles. Ce croquant à la première bouchée est la caractéristique la plus importante du sauté d'anguilles, donc il faut grand wok, grand feu, le feu et le temps doivent être maîtrisés avec justesse.[^5]
 
-## Pas d'anguille japonaise à Tainan
+Les nouilles yi qui tapissent le fond de l'assiette, contrairement aux nouilles fraîches utilisées pour les nouilles yi à la viande hachée, sont des mottes de pâte gonflées et aérées, frites à l'huile bouillante dans un grand wok à la grande louche. Dans les boutiques ordinaires de nouilles yi aux anguilles, on empile devant le plan de travail des blocs de nouilles frites de la taille d'un bol, durs et secs, empilés comme une petite montagne.[^5][^6] Jiao Tong écrit que les nouilles yi aux anguilles sautées utilisent souvent une sorte de nouilles appelée « nouilles yi-fu ». Ces nouilles incorporent du liquide d'œuf lors du pétrissage, sont coupées en fines lanières, cuites à sept dixièmes puis frites et séchées, il décrit ainsi leur entrée dans le wok : « Les nouilles yi-fu ressemblent à première vue à des nouilles instantanées, comme si elles étaient à la fois assoiffées et affamées, dès qu'elles tombent dans le wok elles absorbent frénétiquement la liaison, et en un tour de main elles deviennent moelleuses. »[^2] Mao Daye, chez A-yuan sur la route Chenggong, a vu cette pile de nouilles yi frites sur le comptoir et a aussi dit que ça ressemblait un peu à des nouilles instantanées.[^7]
 
-Pour comprendre la naissance de ce plat, il faut d'abord comprendre la carte alimentaire de Tainan durant l'époque coloniale japonaise.
+Le maître A-yuan qui sauté les anguilles sur la route Chenggong a dit à Mao Daye que les ingrédients de ce plat sont juste de la fécule de wok, du sucre, de la sauce de soja, du saindoux, puis on assaisonne avec oignon, ail, piment, poivre, la clé du bon goût réside dans le contrôle du feu.[^10] Quant au vinaigre, Jiao Tong note que ce plat s'assaisonne principalement avec du vinaigre noir, du vin de riz et du sucre, il faut équilibrer l'aigre et le doux, le goût ressemble beaucoup à la sauce « cinq saule », le plus important c'est le vinaigre, certaines boutiques pointilleuses utilisent plusieurs sortes de vinaigre pour l'ajuster, il dit que c'est un secret non transmis.[^2] Les anguilles sautées peuvent être liées pour faire une soupe aigre-douce, ou sautées sèches pour un goût salé, les deux se trouvent à Tainan.[^4]
 
-Les Japonais appréciaient l'anguille (_unagi_), mais Tainan ne disposait pas de production locale ; elle dépendait des importations, coûteuses et rares. Pourtant, autour des étangs, des fossés et des rizières de Tainan, foisonnaient des anguilles sauvages — longues et fines, semblables à l'anguille japonaise, mais dont les habitants ne savaient pas encore comment cuisiner. Les frères Liao Bing-nan et Liao Huo-tu ont saisi cette opportunité.
+Sur la rue Guohua, le petit restaurant Fusheng est ouvert depuis plus de cinquante ans, la silhouette de la patronne sautant les anguilles est devenue virale sur IG par la suite. La journaliste Jiang Ting-yi de _Foodie Player_ écrit que dans cette boutique, quand on saute les anguilles, des flammes jaillissent du wok, la patronne doit esquiver les flammes tout en cuisinant, « ses pas ressemblent à s'y méprendre à une danse cha-cha ».[^14]
 
-Ils ont appris la technique du « _to-tsì_ » (l'art du couteau) auprès d'un maître de Fuzhou — le terme _to-tsì kung-fu_ en Hokkien souligne l'unité entre la maîtrise de la lame et celle du feu. Après avoir élaboré une méthode de cuisson faisant l'analogie entre l'anguille sauvage et l'anguiment japonaise, ils ont conquis les fonctionnaires japonais grâce à ce goût tainaïen mêlant salé, acide et sucré. La famille Liao s'est ainsi fait un nom à Sakariba. Liao Bing-nan fut surnommé « L'Anguille-Liao » (_shàn-yú Lù_), devenant l'emblème de ce plat.
+Yu Fu, à propos de Sakariba, écrit que le « maître anguilles » de Tainan sort en vingt-sept secondes un plat bouillant, ce « maître anguilles » du marché « prend un plaisir particulier à exécuter ce qu'on appelle le sauté d'anguilles en 27 secondes ». Vingt-sept secondes, c'est ce que cette boutique a écrit sur son mur et qu'elle donne en spectacle aux clients.[^4][^1] En 2022, un journaliste de CTS à Tainan filme un patron sautant au grand feu, ajoutant sa sauce maison, la voix off dit qu'en une vingtaine de secondes on peut sortir du wok. Les vingt-sept secondes du mur et les vingt-et-quelques secondes de la voix off mesurent le même feu : laisser l'anguille assez peu de temps dans le wok pour garder ce croquant dont parle Wang Hao-yi. Cette main des frères Liao, Yu Fu dit qu'ils l'ont apprise auprès d'un maître de Fuzhou.
 
-📝 Note du commissaire : Remplacer l'anguille importée par l'anguille sauvage des étangs de Tainan n'est pas qu'un simple remplacement d'ingrédient ; c'est une logique de solution locale face à la rareté des ressources. Cette logique est l'ADN commun de la cuisine de rue de Tainan.
+## Le « couteau » enseigné par le maître de Fuzhou
 
-## Trois générations, une lignée
+Yu Fu a émigré dans la capitale préfectorale il y a dix ans, il a écrit les ruelles de Tainan, leurs bâtiments et leur nourriture dans _Dans les ruelles de Tainan_, dans l'article sur le sauté d'anguilles, il dit : « À Tainan, ceux qui sautent les anguilles sont majoritairement des Liao, les figures légendaires Liao Bing-nan et Liao Huo-tu sont de deux générations au-dessus de la mienne. » Ces deux frères ont appris auprès d'un maître de Fuzhou le « couteau », Yu Fu explique que c'est la voie de la cuisine, et il dit que sauter les anguilles n'est pas si difficile : « La gestuelle pour lier la soupe est à peu près la même, si on parvient à la fusionner et la comprendre, on est diplômé. » Liao Bing-nan a ensuite gagné le surnom de « Sud des anguilles », les frères Liao ont ensuite transmis la technique du sauté d'anguilles de génération en génération.[^4]
 
-La technique de la famille Liao s'est transmise de génération en génération : le fils de Liao Bing-nan, « L'Anguille-Lu », a pris la relève, suivi par la troisième génération avec Liao Guo-xiong, surnommé « L'Anguille-Liao ». Aujourd'un, l'établissement _Liao Ji Old Brand_ à Sakariba est le dépositaire légitime de cette lignée.
+A-hui qui sauté les anguilles sur la route Ximen ne s'appelle pas Liao. _Foodie Player_ écrit que le premier patron d'A-hui, Xu Yin, était un « chef de banquet », c'est-à-dire le maître cuisinier qui officie pour les banquets, qui à l'époque a appris à sauter les anguilles auprès d'un maître de Fuzhou, cette boutique est à Tainan depuis plus de cinquante ans.[^9]
 
-De nombreuses branches se sont également développées. Le stand _A-Yuan_ sur la route Chengcheng est tenu par le fils de « L'Anguille-Liao » ; _A-Jiang_ sur la route Minzu s'est indépendanté d'A-Yuan ; et plus récemment, un autre frère a ouvert son propre établissement. La carte des nouilles aux anguilles dans le centre de Tainan est presque une extension géographique de l'arbre généalogique des Liao.
+Selon la rumeur locale, Liao Bing-nan travaillait à l'origine dans une bijouterie, c'est son troisième frère qui a commencé à vendre des anguilles sautées, lui a alors suivi en se reconvertissant, tenant un petit stand d'anguilles sautées au marché You'ai. Le troisième frère s'est reconverti par la suite, mais Liao Bing-nan a développé une maîtrise remarquable du grand feu rapide, et avec ses petits profits et gros volumes, il s'est fait un nom.[^10]
 
-📝 Note du commissaire : L'établissement _Liao Ji Old Brand_ a été sélectionné pour le Guide Vert Michelin en 2024. Un plat de travailleurs né dans un marché au début du XXe siècle et reconnu par la gastronomie mondiale un siècle plus tard — le temps est parfois le filtre le plus juste.
+Le marché où Liao Bing-nan tenait son stand, c'est justement Sakariba.[^11] Ce nom vient du japonais « 盛り場 » (mori-ba), qui signifie un endroit animé où la foule se rassemble. En 1932, le bureau municipal de Tainan, pour achever les travaux du rond-point de Ximen, a déplacé les plus de cent stands qui tenaient le marché de nuit au petit parc de Ximen-chō vers l'arrière du marché ouest, sur un terrain d'étangs à poissons comblé, le marché de nuit de Denmachi qui s'en est trouvé animé a été appelé « 盛り場 » par les reportages de l'époque. Quelques années plus tard, les stands ont encore déménagé à l'emplacement de l'actuel marché Kang-le, après-guerre on a conservé la prononciation japonaise en l'écrivant en caractères chinois « 沙卡里巴 ». [^12]
 
-## Sakariba : le nom japonais d'un marché
+![Nouilles yi aux anguilles de 2007 dans une boutique de la route Ximen section 2 à Tainan, la liaison brune dans un bol en porcelaine blanche recouvre les nouilles, en arrière-plan sur la table une tasse en fer et une bouteille de sauce vinaigrée](/article-images/food/eel-noodles-tainan-ximen-2007.webp)
+_Nouilles yi aux anguilles de 2007 sur la route Ximen section 2 à Tainan, à l'époque cette adresse portait l'enseigne A-tie anguilles sautées. Photo : Guan-Hwa Huang, CC BY-SA 3.0 via Wikimedia Commons_
 
-« Sakariba » est la transcription taïwanaise du mot japonais _sakariba_ (盛り場), qui signifie un lieu animé ou un marché de foire.
+## A-yuan à quatorze ans avec son père, A-jiang à dix-sept ans avec son troisième oncle
 
-Sous l'administration japonaise, dans le cadre du plan de restructuration urbaine de Tainan, les étals dispersés ont été regroupés autour du marché de la rue You'ai pour une gestion unifiée. Ce marché est devenu un laboratoire pour la cuisine de Tainan : des vendeurs aux origines diverses se pressaient dans le même espace, apportant leurs propres logiques culinaires et ingrédients, s'observant et se stimulant mutuellement, forgeant ainsi l'identité actuelle de la gastronomie tainaïenne.
+Le cadet de Liao Bing-nan porte le nom de sa mère, son vrai nom est Song Song-wei, son surnom « A-yuan » est pourtant plus connu que son vrai nom. Mao Daye l'a écrit en 2015, il a commencé à quatorze ans à suivre son père vendre des anguilles sautées, la boutique était à l'origine sur la route Zhengyi, qui a été renommée plus tard route Xinmei, puis a déménagé sur la route Chenggong.[^10]
 
-C'est dans cet environnement que les nouilles aux anguilles sont nées, ont mûri et ont été consacrées.
+Mao Daye a écrit sur A-jiang de la route Minzu en 2022, disant qu'il est sorti de l'apprentissage auprès d'A-yuan : « Le neveu d'A-yuan, c'est A-jiang, A-jiang à 17 ans a suivi son troisième oncle A-yuan travailler et apprendre le métier, peu après son service militaire il a ouvert sa propre boutique. »[^13] Il rapporte les mots fiers du maître A-jiang : il vend des anguilles depuis longtemps, les gestes doivent être rapides, la sauce doit être dosée avec précision, c'est un vrai kung-fu entraîné.[^13] Yu Fu note aussi que le cadet d'A-jiang a récemment ouvert sa propre boutique, « Deuxième frère anguilles sautées », il met ensemble le Liao de Sakariba, A-yuan, A-jiang et Deuxième frère, et dit que grosso modo ce sont tous de la même famille.[^4]
 
-## Les nouilles _yì-miàn_ : une spécialité de Tainan
+La branche de Sakariba, Wang Hao-yi note dans son livre la transmission : première génération « Sud des anguilles », deuxième « Fortune des anguilles », jusqu'à la troisième génération Liao Guo-xiong.[^5] Ce blogueur de 2013 a mangé et discuté avec le patron, il a noté une louche utilisée depuis l'an 38 de la République (1949) jusqu'à présent.[^1] En comptant à partir de la génération des frères Liao Bing-nan, les woks de la famille Liao se sont répartis entre Sakariba, route Chenggong, route Minzu.
 
-Les nouilles _yì-miàn_ accompagnant l'anguille sont elles-mêmes une spécificité de Tainan.
+Mao Daye, en écrivant sur A-jiang, dit aussi que sauter les anguilles est un travail qui use le corps.[^13] Cette adresse sur la route Ximen section 2 était à l'origine A-tie anguilles sautées, après la retraite du maître A-tie, le local a été repris par A-hui.[^10] L'art du bord du wok se transmet de personne en personne, génération après génération, l'anguille dans le wok, il faut voir comment changent les champs et les fossés.
 
-Fabriquées à partir d'œufs et de farine, leur particularité réside dans le processus : elles sont frites pour prendre forme alors qu'elles sont encore semi-crues, puis mises de côté. Avant le service, elles sont plongées dans la sauce chaude aux anguilles pour s'imprégner du jus — ce processus d'absorption donne aux nouilles une texture unique, bien différente des pâtes classiques : elles sont élastiques, charnues et imprégnées de la profondeur de la sauce.
+![Une bassine d'anguilles jaunes vivantes s'entrelacent dans une bassine en plastique rouge, corps jaune-brun, quelques individus plus clairs](/article-images/food/monopterus-albus-live-usgs-2014.webp)
+_Une bassine d'anguilles jaunes vivantes, l'espèce utilisée pour les anguilles sautées. Publiée par l'USGS en 2014, non photographiée à Taïwan. Photo : U.S. Geological Survey, domaine public via Wikimedia Commons_
 
-Il existe deux styles : le sauté sec (_shēng-chǎo_) et le sauté en sauce (_tāng-chǎo_). Le style sec offre une sauce épaisse et sombre, concentrant intensément l'arôme de l'anguille ; le style en sauce est plus léger et sucré, rendant les nouilles plus tendres, idéal pour ceux qui préfèrent des saveurs moins prononcées. Chaque style possède ses fidèles.
+## Les anguilles des rizières et des fossés sont de plus en plus rares
 
-## Vinaigre Wu-yin : la touche finale
+L'article de Jiao Tong de 2007 écrit que le cinquième au septième mois lunaire est la saison de reproduction des anguilles, c'est aussi le moment où les anguilles grasses appellent les gourmands à la porte.[^2] Le nom officiel de l'anguille est anguille jaune, nom scientifique _Monopterus albus_, on l'appelle aussi anguille des champs.[^15] La base de données des poissons de Taïwan de l'Academia Sinica écrit qu'elle vit dans les rizières, étangs, rivières et fossés à fond vaseux, on la trouve aussi dans les marais et les champs inondés, elle aime creuser des terriers, elle sort la nuit, les plis de sa cavité buccale lui permettent de respirer l'air directement. Arrivent l'hiver et la saison sèche, elle creuse jusqu'à un ou deux mètres sous terre, plusieurs individus cohabitent, elle est répartie dans tous les eaux douces de l'ouest de Taïwan.[^16] Ce poisson qui creuse et respire l'air, sa maison c'est cette couche de boue pourrie au fond des rizières et des fossés.
 
-Avant de retirer le plat du feu, le maître ajoute du vinaigre Wu-yin.
+En mai 1930, le canal Chianan est achevé, après sa mise en eau, les rizières irriguées augmentent, les champs secs diminuent.[^17] Le journaliste senior voyage et gastronomie Chen Zhi-dong décrit ainsi les fossés de l'époque pour _Mirror Media_ : « 1930, achevement du barrage de Wushantou et du canal Chianan, les canaux d'irrigation le long du tracé sont tous des fossés en terre, les anguilles y creusent leurs terriers au bord des rizières et mènent une vie heureuse, molle et pourrie. Les paysans en cultivant attrapaient aussi anguilles et anguilles japonaises pour se nourrir. »[^18] Le même reportage poursuit : plus tard les fossés en terre sont devenus des canaux en béton, les anguilles de Taïwan ont diminué, maintenant on utilise surtout des anguilles importées.[^18] Yu Fu écrit quant à lui qu'autrefois, avec un bambou attaché à une ligne de chanvre et un hameçon, on pouvait pêcher des anguilles sauvages, aujourd'hui « nulle part où pêcher ». [^4]
 
-Le vinaigre Wu-yin est une marque locale de vinaigre noir de Tainan ; son acidité est plus profonde que celle d'un vinaigre blanc classique, avec une légère note caramélisée. L'ajout de vinaigre rééquilibre les proportions de salé, acide et sucré, apportant une fraîcheur finale qui tranche la richesse du gras — vous permettant, après un bol d'anguille, d'avoir encore assez d'appétit pour passer au stand suivant.
+En 2015, le maître A-yuan a dit à Mao Daye qu'autrefois il y avait beaucoup d'anguilles dans les rizières du sud, maintenant il n'y en a plus, tout repose sur les importations, le prix a naturellement monté.[^10] En 2021, ETtoday présente Fusheng de la rue Guohua, écrivant qu'il sélectionne des anguilles sauvages importées.[^19] La base de données des poissons de Taïwan de l'Academia Sinica classe l'anguille jaune comme poisson comestible à valeur économique, celles du marché sont majoritairement d'élevage, le sud en élève plus, à Taïwan on les mange mostly tranchées et sautées à l'huile.[^16] La base de données internationale FishBase la classe aussi comme espèce à pêche commerciale, élevage commercial, et commerce aquariophile.[^20]
 
-📝 Note du commissaire : La logique de conception de la cuisine de rue de Tainan n'est pas de vous rassasier, mais de vous permettre de continuer à manger. Le vinaigre Wu-yin est un outil de réinitialisation du palais, pas un simple assaisonnement. Ce détail illustre l'ingénierie gastronomique de la culture des « tournées culinaires » de Tainan.
+Wang Hao-yi place la fraîcheur en premier des quatre critères du sauté d'anguilles, il veut une chair fine et tendre, une saveur fraîche et douce. Il note le processus : les anguilles capturées sont d'abord « reposées » quelques jours dans l'eau claire pour éliminer le goût de boue, à l'abattage « on perce la tête avec un foret court pour fixer l'anguille sur une planche de bois », puis « d'un coup de lame tranchante on tranche la tête et l'arête centrale », le filet entier encore sanguinolent est aplati en attente du wok.[^5] Jiao Tong en 2007 écrit que l'anguille doit séjourner un ou deux jours dans l'eau claire pour perdre le goût de boue, l'abattage à la minute donne la fraîcheur et la douceur. L'anguille est vive, la peau glissante, le coup de couteau doit être rapide, la profondeur juste, on suit l'élan pour fendre le ventre et retirer l'arête, il dit que c'est la scène habituelle d'abattage sur les stands d'anguilles. Il écrit aussi que beaucoup de boutiques ne traitent pas les anguilles, la chair d'anguille garde un goût de boue et de musc.[^2]
 
----
+Le livre de Yu Fu laisse cette phrase passé-présent : « Abattre l'anguille vivante, au début c'était le magasin qui devait s'en charger, j'ai ouï-dire qu'A-yuan sait encore exécuter ce tour de force, mais de nos jours c'est rarement vu. »[^4] La base de données des poissons de Taïwan note que l'anguille jaune se vend généralement vivante.[^16] Mao Daye en 2015 écrit que comme l'anguille est difficile à traiter, sujette au goût de poisson, les autres boutiques célèbres d'anguilles ne vendent pas de soupe d'anguilles, seul A-yuan qui a sa manière unique de traiter l'anguille en vend.[^10] Une anguille, du poisson vivant à la mise au wok, doit passer par plusieurs mains.
+
+Jiao Tong, qui insiste sur l'abattage à la minute, laisse dans le même article une phrase lourde : « Les anguilles d'aujourd'hui sont mostly des marchandises congelées importées, pas dignes de servir de référence. »[^2] Il donne ensuite une exception de 2007, cette année-là, les nouilles yi aux anguilles Qingxiang du district de Xinying dans le comté de Tainan utilisaient encore des anguilles sauvages, Xinying a beaucoup d'étangs et de ruisseaux, les paysans vont pêcher la nuit, le lendemain ils portent au marché pour vendre. Cette boutique utilise même de la balle de riz grossière pour alimenter le fourneau du sauté d'anguilles, il dit que la balle de riz grossière a un point d'inflammation bas, elle prend feu vite, elle est parfaitement à la hauteur de la scène du grand feu explosif.[^2] Jiao Tong met la provenance du poisson dans les critères d'évaluation d'un plat d'anguilles sautées.
+
+![Sur un lit de glace, des anguilles jaunes fendues alignées, corps désossés aplatis, face interne rouge vif, peau externe jaune-brun tachetée](/article-images/food/swamp-eel-fillets-2024.webp)
+_Anguilles jaunes fendues, désossées, aplaties sur un lit de glace, photographiées en 2024, non à Taïwan. Photo : Fumikas Sagisavas, CC0 via Wikimedia Commons_
+
+La provenance du poisson, ce n'est mostly pas celui qui est devant le wok qui peut la décider seul. Les quelques dizaines de secondes après que l'anguille tombe dans le wok, ce trait de sucre et cette louche de liaison juste avant de sortir du wok, c'est ça la marge qu'ils ajustent chaque jour. Lors de ce reportage de CTS, le patron de Tainan dit que pour les nouilles yi aux anguilles de Tainan, outre le sucre qu'on met vraiment un peu plus, la sauce maison et le degré de liaison sont aussi des subtilités.[^8]
+
+## Les amis qui trouvent la soupe trop sucrée, on les emmène manger du sauté sec
+
+Yu Fu, à Tainan, invite des amis à manger des anguilles sautées, il tombe souvent sur la même réaction, il écrit dans son livre : « Je les invite à manger des anguilles sautées, la plupart trouvent la soupe trop sucrée ! Du coup je les emmène chez A-jiang manger du sauté sec salé, enfin leur bouche est bouchée. »[^4] Le reportage de _Mirror Media_ de 2019 présente aussi les nouilles yi aux anguilles sautées sèches comme le plat signature d'A-jiang.[^21] Yu Fu mentionne encore qu'en plus des nouilles yi, on peut demander spécialement de sauter des nouilles à l'huile qui ont une autre saveur.[^4]
+
+Shi Rui-bin a grandi dans le district Zhongxi de Tainan, son père Shi Hong-yao a fondé Dongfu Electric à Tainan en 1973, faisant de la sous-traitance de petits électroménagers. En 2019, il dit à _Mirror Media_ que son préféré c'est A-jiang de la route Minzu, il parle du sucré de cette maison : « Cette maison est déjà très connue maintenant, leurs nouilles yi ont un goût penchant vers le sucré, ça correspond à ce que nous les gens de Tainan aimons manger sucré, c'est mon plat obligatoire à chaque retour de Shenzhen à Taïwan. »[^21]
+
+Le réalisateur Wei De-sheng, en tant que Tainanais, dit en 2022 dans une émission qu'il adore la soupe de poisson-goujon et les nouilles yi aux anguilles, à Taipei on en trouve aussi, « j'ai mangé à Taipei mais c'est juste pas ça, comment je mange c'est jamais ça ». On lui demande si c'est parce que les Tainanais aiment le sucré, il répond : « C'est un préjugé pas ça pas ça, donc chaque fois que j'entends dire que les Tainanais mangent tout très sucré, je dois débattre et leur expliquer. »[^8][^22]
+
+Deux Tainanais, l'un dit que les gens de sa ville natale aiment le sucré, l'autre entend cette affirmation et veut la réfuter. Même maison A-jiang, Yu Fu emmène ses amis manger son sauté sec salé, Shi Rui-bin dit qu'elle penche vers le sucré, ça correspond au goût des Tainanais. Le journaliste de CTS va demander aux commerçants du nord et du sud, le commerçant de Tainan parle de la différence entre les deux côtés : « La méthode c'est soit un sauté sec soit un lié, le lié c'est le goût plus traditionnel, les gens du nord eux-mêmes ils ne mangent pas si sucré. » Le commerçant de Taipei dit : « Les Taipeiens ne sont pas habitués à manger si sucré, ils mangent un peu plus salé. »[^8]
+
+![Gros plan d'un plat de nouilles yi aux anguilles en soupe, liaison brune avec anguilles fendues, oignon et ciboule, à côté apparaissent les nouilles yi bouclées](/article-images/food/eel-noodles-thick-soup-2010.webp)
+_Nouilles yi aux anguilles en soupe liées, photographiées en 2010, lieu de prise de vue non indiqué. Photo : TACO Huang, CC BY-SA 2.0 via Wikimedia Commons_
+
+ETtoday en 2021 présente Fusheng de la rue Guohua, disant que sa soupe a un goût plus acide, avec plein d'oignons sautés au grand feu, pas trop de sucré de Tainan. _Foodie Player_ écrit que son bouillon est aigre-doux, avec une sensation de liaison, en plus du sauté sec il y a une version braisée.[^19][^14] Près du rond-point Dongmen, Chengbian Zhenwei fondé en 1970 est une boutique simple, répertoriée dans le guide Michelin, la page du guide écrit que ses anguilles sautées sont acides et douces, les nouilles yi aux anguilles sautées comme les anguilles sautées, on peut choisir de lier ou non.[^23][^24]
+
+En remontant vers le nord jusqu'à Tuku dans le Yunlin, _Mirror Media_ écrit sur une vieille boutique ouverte depuis soixante ans, la liaison est abondante, le salé l'emporte sur le sucré, les nouilles choisies sont des nouilles à l'huile, la patronne Yao Li-qiu dit que les paysans qui descendent aux champs, s'ils mangent la soupe liée ils sont plus rassasiés, et c'est plus savoureux. Là-bas en mangeant on ajoute encore du vinaigre cinq impressions et de la poudre de piment, le journaliste appelle ce style de manger « style de la plaine », disant que sa saveur est complètement différente des nouilles yi aux anguilles de Tainan.[^18]
+
+En 2015, le maître A-yuan de la route Chenggong a dit à Mao Daye qu'autrefois les gens mangeaient plus relevé, maintenant le sauté sec a été légèrement ajusté, un peu plus léger.[^10] Le commerçant de Taipei fait reculer le sucré, le maître A-yuan allège le sauté sec, ceux qui ajustent de la main, ce sont tous ceux qui se tiennent devant le wok.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/8btByeERkBg" title="Wei De-sheng soupire sur les nouilles yi aux anguilles de Taipei pas le bon goût « Nord-Sud » décryptage｜CTS News 20221021" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Chaîne officielle CTS News, reportage d'octobre 2022, où est la différence entre les nouilles yi aux anguilles de Tainan et de Taipei._
+
+## Le maître A-yuan et son fils sautent ensemble, le fils tient la spatule
+
+En juillet 2015, Mao Daye publie « A-yuan anguilles sautées : histoire du sauté d'anguilles de Tainan et soupe d'anguilles unique », racontant sa visite chez A-yuan sur la route Chenggong. Petite boutique, peu de places, A-yuan a toujours insisté pour ne vendre que des anguilles sautées, plus tard il a ajouté des vermicelles de riz, les anguilles sautées en version liée et version sèche, plus un bol de soupe d'anguilles. Sur le comptoir de cuisine, une bassine rouge vif d'anguilles traitées, sur le comptoir aussi des nouilles yi frites.[^10]
+
+Jiao Tong à l'époque observait le grand feu et la fumée du maître du wok, Mao Daye ce jour-là sur la route Chenggong a noté qu'A-yuan était en cuisine avec son fils, principalement le fils qui tenait la spatule.[^10]
+
+En 2024, Mao Daye refait une synthèse des nouilles yi aux anguilles de Tainan : le vieux marque de Sakariba qui affichait vingt-sept secondes au mur a déjà cessé son activité, sur la route Chenggong ce A-yuan qui a commencé à quatorze ans à suivre son père vendre des anguilles sautées, sa boutique est déjà passée aux mains de son fils qui tient la spatule.[^11]
+
+**Lectures complémentaires** :
+
+- [Planches de cercueil](/fr/food/coffin-bread) — Autre petit plat de Tainan né des stands de Sakariba, voir comment un autre point cœur de ce même marché s'est fait un nom par une seule personne
+- [Nouilles danzai](/fr/food/tainan-danzai-noodles) — Un autre bol de nouilles de Tainan porté sur l'épaule, peut mettre en parallèle comment deux types de stands de nouilles de Tainan se transmettent génération après génération
+- [Culture gastronomique des petits plats du district Zhongxi de Tainan](/fr/food/tainan-central-west-district-street-food-culture) — Remettre les nouilles yi aux anguilles sur la carte des petits plats du district Zhongxi, à côté du bouillon de bœuf, de la bouillie de mulet et des vermicelles au cœur de porc
+- [Culture des nouilles de Taïwan](/fr/food/taiwanese-noodle-culture) — Carte d'ensemble des nouilles de Taïwan, dont un segment parle des nouilles yi de Tainan et des nouilles yi aux anguilles
+
+## Sources des images
+
+Cet article utilise 5 images du domaine public et sous licence Creative Commons, toutes mises en cache dans `public/article-images/food/`, pour éviter les liens directs vers les serveurs sources, ainsi qu'un extrait vidéo de chaîne officielle.
+
+- [Un bol de nouilles yi aux anguilles en soupe (hero)](<https://commons.wikimedia.org/wiki/File:Food_(27772132115).jpg>) — Photo : bryan... from Taipei, Taiwan (Flickr), 2016-06-17, CC BY-SA 2.0
+- [Nouilles yi aux anguilles en soupe de la route Ximen section 2 à Tainan](https://commons.wikimedia.org/wiki/File:鱔魚意麵.jpg) — Photo : Guan-Hwa Huang, 2007-04-24, CC BY-SA 3.0 (la description d'origine indique prise de vue chez A-tie anguilles sautées, route Ximen section 2, ville de Tainan)
+- [Une bassine d'anguilles jaunes vivantes](<https://commons.wikimedia.org/wiki/File:Asian_Swamp_Eels_(13145567903).jpg>) — Photo : U.S. Geological Survey, publiée le 2014-03-14, domaine public, non photographiée à Taïwan
+- [Anguilles jaunes fendues et désossées](https://commons.wikimedia.org/wiki/File:Swamp_eel_slices.jpg) — Photo : Fumikas Sagisavas, 2024-11-29, CC0, non photographiée à Taïwan
+- [Nouilles yi aux anguilles en soupe liées](<https://commons.wikimedia.org/wiki/File:Thick_Soup_Noodles_with_Eel_-_鱔魚意麵_(4596353688).jpg>) — Photo : TACO Huang (Flickr), 2010-05-10, CC BY-SA 2.0, lieu de prise de vue non indiqué
+- Vidéo : [Wei De-sheng soupire sur les nouilles yi aux anguilles de Taipei pas le bon goût "Nord-Sud" décryptage｜CTS News 20221021](https://www.youtube.com/watch?v=8btByeERkBg) — Chaîne YouTube officielle CTS News CH52, 2022-10-21
 
 ## Références
 
-- [Nouilles aux anguilles — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [Sakariba — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
-- [Comment le sauté d'anguille peut-il être sincère ? — Critique Indépendante @天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Spécialité de Tainan, vieilles nouilles aux anguilles | Sakariba Anguille Liao, une institution transmise sur trois générations — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [L'histoire vivante des anguilles sautées de Tainan ! Une enseigne centenaire délicieuse même à emporter — TVBS Foodie](https://supertaste.tvbs.com.tw/food/330365)
-- [L'histoire des anguilles sautées de Tainan et leur soupe unique — Maître Chat (Mao Da Ye)](https://lordcat.net/archives/1846)
-- [Le parfum centenaire des nouilles aux anguilles de Tainan — ETtoday Travel Cloud](https://travel.ettoday.net/article/416437.htm)
-- [【District de Zhongxi】Anguille sautée spéciale | Nandu Old Brand Anguille Noodles — Nanrenbang](https://lifeintainan.com/062249686/)
-- [Les locaux mangent cela depuis l'enfance ! 6 établissements historiques de nouilles aux anguilles à Tainan — TVBS Foodie](https://supertaste.tvbs.com.tw/pack/336229)
+[^1]: [Bao'er parc d'attractions « Petit plat de Tainan, vieux marque nouilles yi aux anguilles ｜ Sakariba anguilles Liao, vieux magasin fondateur transmis sur trois générations »](https://bobotravel.tw/blog/post/153578723) — Article culinaire de blog publié le 21 mars 2013, raconte l'auteure qui vers neuf heures du soir ne trouve pas Sakariba, le patron va la chercher au carrefour de la route Zhongzheng et de la route Hai'an, le mur de la boutique affiche sauté d'anguilles 27 secondes, c'est la troisième génération « anguilles Liao » Liao Guo-xiong qui tient la spatule, ainsi que la louche que le patron dit utilisée depuis l'an 38 de la République jusqu'à présent.
+
+[^2]: [Jiao Tong « L'appel de l'anguille grasse », Business Weekly](https://www.businesstoday.com.tw/article/category/80730/post/200705240004/) — Article culinaire paru en mai 2007, raconte le « Vieux marque anguilles nouilles » de Sakariba qui affiche vingt-sept secondes de sauté rapide, les nouilles yi aux anguilles sautées utilisent souvent des nouilles yi-fu, assaisonnées au vinaigre noir, vin de riz et sucre, le processus de repos dans l'eau claire et d'abattage de l'anguille, ainsi que la situation de l'époque où les nouilles yi aux anguilles Qingxiang de Xinying utilisaient des anguilles sauvages et un fourneau à balle de riz grossière.
+
+[^3]: [Eel noodles, Wikipedia](https://en.wikipedia.org/wiki/Eel_noodles) — Article Wikipédia en anglais, décrit les nouilles yi aux anguilles comme un plat de nouilles de Taïwan, à base de nouilles à l'œuf avec anguilles, nappées d'une sauce brune aigre-douce ou d'une soupe épaisse.
+
+[^4]: [Yu Fu « 27 secondes et c'est sur la table ! Sucré et salé, nouilles yi et nouilles à l'huile toutes accordées avec le sauté d'anguilles de Tainan », foodNEXT](https://www.foodnext.net/life/culture/paper/5593285070) — Reproduit le 15 février 2019 depuis _Dans les ruelles de Tainan : dix ans d'immigration dans la capitale préfectorale, récits d'architecture et de gastronomie_ (Farseeing Tianxia Culture), raconte les frères Liao Bing-nan et Liao Huo-tu apprenant le « couteau » auprès d'un maître de Fuzhou, les différentes boutiques Liao appartenant à une même famille, les anguilles sauvages introuvables, l'abattage d'anguilles vivantes hier et aujourd'hui, ainsi que les façons de manger : soupe sucrée, sauté sec et sauté de nouilles à l'huile.
+
+[^5]: [Wang Hao-yi « Nouilles yi aux anguilles », Epoch Times](https://www.epochtimes.com/b5/15/12/1/n4585325.htm) — Extrait du 1er décembre 2015 depuis _Institut de recherche sur les petits plats_ de Wang Hao-yi, raconte la transmission du vieux marque de Sakariba du « Sud des anguilles », « Fortune des anguilles » à la troisième génération Liao Guo-xiong, les quatre critères du bon sauté d'anguilles, le vieux marque qui affiche une séquence ne dépassant pas 27 secondes, le processus de repos dans l'eau claire et d'abattage avec foret court pour fixer, ainsi que les nouilles yi frites au préalable.
+
+[^6]: [Nouilles yi aux anguilles, Wikipédia](https://zh.wikipedia.org/zh-tw/鱔魚意麵) — Article Wikipédia en chinois, raconte que les boutiques ordinaires de nouilles yi aux anguilles empilent devant le plan de travail des blocs de nouilles frites de la taille d'un bol environ, durs et secs, empilés comme une montagne, et cite les reportages de CTS 2022 et ETtoday 2021.
+
+[^7]: [Foodie Player « L'histoire vivante du sauté d'anguilles de Tainan ! Centenaire vieux caractère numéro aussi bon à emporter, soupe d'anguilles unique introuvable ailleurs », LINE TODAY](https://today.line.me/tw/v3/article/PvlVko) — Publié le 2 juin 2021, reprise textuelle et visuelle depuis le blog de Mao Daye, raconte les nouilles yi frites sur le comptoir d'A-yuan qui ressemblent un peu à des nouilles instantanées, ainsi qu'A-yuan qui ne vend que des anguilles sautées, plus tard ajout de vermicelles de riz et de soupe d'anguilles.
+
+[^8]: [CTS News « Wei De-sheng soupire sur les nouilles yi aux anguilles de Taipei pas le bon goût "Nord-Sud" décryptage »](https://news.cts.com.tw/cts/life/202210/202210212100841.html) — Reportage du 21 octobre 2022, retranscrit mot à mot Wei De-sheng dans l'émission parlant des nouilles yi aux anguilles de Taipei, les propos des commerçants de Tainan et de Taipei sur le sucré et la liaison, ainsi que la voix off du journaliste décrivant le grand feu rapide, sorti du wok en une vingtaine de secondes.
+
+[^9]: [Foodie Player « Les gens du cru mangent depuis petits ! 6 vieux magasins de nouilles yi aux anguilles de Tainan »](https://supertaste.tvbs.com.tw/pack/336229) — Six vieux magasins de nouilles yi aux anguilles compilés par Zheng Jun-rong de Foodie Player, métadonnées de page date de publication 26 avril 2022 ; le segment sur A-yuan anguilles sautées indique comme recommandateur « Gens du sud », raconte le premier patron Xu Yin comme chef de banquet, ayant appris auprès d'un maître de Fuzhou, déjà 50 ans à Tainan.
+
+[^10]: [Mao Daye « A-yuan anguilles sautées : histoire du sauté d'anguilles de Tainan et soupe d'anguilles unique »](https://lordcat.net/archives/1846) — Article culinaire de blog publié le 2 juillet 2015, raconte Liao Bing-nan à l'origine dans la bijouterie, le troisième frère commence à vendre des anguilles sautées puis il se reconvertit au marché You'ai, le troisième frère se reconvertit plus tard tandis que Liao Bing-nan perce avec son grand feu rapide et ses petits profits gros volumes, les ingrédients et le feu selon le maître A-yuan, le cadet Song Song-wei (A-yuan) quatorze ans suit son père vendre des anguilles sautées, le maître A-yuan parle du changement des anguilles des rizières et du goût, la soupe d'anguilles d'A-yuan, la route Ximen section 2 maître A-tie à la retraite puis reprise par A-hui, ainsi que le père et le fils ensemble en cuisine. Cet article écrit le troisième frère comme Liao Huo-tu, Yu Fu _Dans les ruelles de Tainan_ écrit Liao Huo-tu.
+
+[^11]: [Mao Daye « Spécial nouilles yi aux anguilles de Tainan »](https://lordcat.net/archives/361) — Article de blog publié le 4 février 2024, identifie le marché You'ai où Liao Bing-nan tenait son stand comme Sakariba, note que le vieux marque anguilles Liao de Sakariba a cessé son activité, ainsi que la boutique d'A-yuan déjà passée aux mains de son fils qui tient la spatule.
+
+[^12]: [Sakariba, Wikipédia](https://zh.wikipedia.org/zh-tw/沙卡里巴) — Article Wikipédia en chinois, cite Chen Xiu-lu _Marché ouest de Tainan_ (2021) et _Taiwan Nichinichi Shinpo_ des 3 décembre 1932 et 3 août 1936, raconte qu'en 1932 les stands du petit parc de Ximen-chō sont déplacés par le bureau municipal et le commissariat vers l'arrière du marché ouest à Denmachi, l'origine du nom « 盛り場 », ainsi que le déménagement ultérieur vers l'emplacement actuel.
+
+[^13]: [Mao Daye « A-jiang anguilles sautées »](https://lordcat.net/archives/344) — Article culinaire de blog publié le 13 mars 2022, raconte A-jiang neveu d'A-yuan, dix-sept ans suit son troisième oncle A-yuan apprendre le métier, après l'armée ouvre sa propre boutique, rapporte les mots du maître A-jiang : gestes rapides, sauce dosée avec précision, et note le vieux marque de Sakariba déjà cessé, le maître A-yuan déjà à la retraite passé le relais.
+
+[^14]: [Jiang Ting-yi « Virale sur IG « sauté d'anguilles danse cha-cha » c'est cette maison ! Les Tainanais recommandent à fond le vieux caractère 50 ans, grand feu rapide souffle de wok débordant », Foodie Player](https://supertaste.tvbs.com.tw/food/353007) — Reportage de la journaliste Jiang Ting-yi de Foodie Player présentant Fusheng de la rue Guohua, métadonnées de page date de publication 6 janvier 2025, raconte la boutique ouverte depuis plus de 50 ans, flammes jaillissant lors du sauté d'anguilles, la patronne esquive les flammes tout en cuisinant, ainsi que les deux façons : sauté sec et braisé.
+
+[^15]: [Anguille jaune, Wikipédia](https://zh.wikipedia.org/zh-tw/黃鱔) — Article Wikipédia en chinois, note les noms vulgaires de l'anguille jaune incluant anguille, anguille des champs et anguille des rizières, et 정리 la classification et l'écologie de ce poisson d'eau douce.
+
+[^16]: [Base de données des poissons de Taïwan de l'Academia Sinica : Anguille jaune](https://fishdb.sinica.edu.tw/chi/species.php?science=Monopterus%20albus) — Page d'espèce de l'Academia Sinica (ancien site, en-tête note que le contenu n'est plus mis à jour), raconte l'anguille jaune habitant rizières, étangs et fossés à fond vaseux, respiration aérienne directe, hiver et saison sèche creuse jusqu'à un ou deux mètres sous terre, répartition dans toutes les eaux douces de l'ouest de Taïwan, ainsi que vente généralement vivante, marché majoritairement élevage, sud plus élevé.
+
+[^17]: [Canal Chianan, Wikipédia](https://zh.wikipedia.org/zh-tw/嘉南大圳) — Article Wikipédia en chinois, raconte l'achèvement du canal Chianan en mai 1930 (Showa 5), après mise en eau changement de la structure des terres cultivées, surface de rizières augmentée, champs secs réduits.
+
+[^18]: [« Petits plats de la plaine du Chianan : anguilles sautées, oie à la vapeur, bœuf taïwanais en fondue - les petits plats de Yunlin portent l'élan », Mirror Media](https://www.mirrormedia.mg/story/20190805food001) — Reportage d'août 2019, cite le journaliste senior voyage gastronomie Chen Zhi-dong sur les anguilles dans les fossés en terre après l'achèvement du Chianan en 1930, le journaliste écrit que les fossés en terre devenus canaux en béton ont fait diminuer les anguilles de Taïwan, et présente la méthode de la patronne Yao Li-qiu de la vieille boutique de Tuku dans le Yunlin.
+
+[^19]: [« Cachés des gourmands locaux ! Recherche spéciale des 5 vieux magasins de nouilles yi aux anguilles de Tainan », ETtoday Travel Cloud](https://travel.ettoday.net/article/1897161.htm) — Reportage du 15 janvier 2021, présente Fusheng vendant depuis plus de 50 ans, sélectionne des anguilles sauvages importées, soupe plus acide, plein d'oignons grand feu rapide, pas trop de sucré de Tainan.
+
+[^20]: [Monopterus albus, FishBase](https://www.fishbase.se/summary/Monopterus-albus.html) — Page d'espèce de l'anguille jaune dans la base de données internationale FishBase, raconte ce poisson d'eau douce respirant l'air ayant une utilisation commerciale dans la pêche, l'élevage et l'aquariophilie.
+
+[^21]: [« Patron qui guide : peur que la boutique soit trop rouge… ces listes de gastronomie de Tainan que les patrons ne veulent pas dire », Mirror Media](https://www.mirrormedia.mg/story/20191101bus008) — Reportage du 4 novembre 2019, raconte Shi Rui-bin qui a grandi dans le district Zhongxi de Tainan, patron de Dongfu Electric, son préféré A-jiang de la route Minzu, cite mot à mot son dire : ce goût penchant vers le sucré, chaque retour de Shenzhen à Taïwan plat obligatoire, et en images note les nouilles yi aux anguilles sautées sèches comme plat signature d'A-jiang.
+
+[^22]: [Wei De-sheng soupire sur les nouilles yi aux anguilles de Taipei pas le bon goût "Nord-Sud" décryptage｜CTS News 20221021](https://www.youtube.com/watch?v=8btByeERkBg) — Chaîne YouTube officielle CTS News CH52, vidéo de 113 secondes mise en ligne le 21 octobre 2022, même稿 que le site CTS News du même jour, contient les images du grand feu rapide de la boutique de Tainan et les interviews des commerçants du nord et du sud.
+
+[^23]: [Chengbian Zhenwei expert anguilles sautées, Guide Michelin](https://guide.michelin.com/tw/zh_TW/tainan-region/tainan/restaurant/eastern-castle-noodles) — Page boutique du Guide Michelin Taïwan, raconte cette boutique de la route Dongmen fondée en 1970, signature le sauté d'anguilles au souffle de wok, goût acide et doux, nouilles yi aux anguilles sautées comme anguilles sautées, choix de lier ou non.
+
+[^24]: [Eastern Castle Noodles, Guide MICHELIN](https://guide.michelin.com/tw/en/tainan-region/tainan/restaurant/eastern-castle-noodles) — Page boutique en anglais du Guide Michelin, raconte cette boutique simple près du rond-point Dongmen servant des anguilles sautées depuis 1970, type culinaire listé comme petit plat.

@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-11-02T06:48:07+08:00",
+  "_generated": "2026-11-17T07:49:32+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -4730,17 +4730,17 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k",
       "template": "A2 首尾呼應（2008 街機失敗 → 2026 多場域裂縫 + 美學被看見/跌倒收尾）",
       "metrics": {
-        "views": 28000,
-        "likes": 536,
+        "views": 30932,
+        "likes": 541,
         "reposts": 55,
-        "comments": 52,
-        "shares": 101
+        "comments": 49,
+        "shares": 108
       },
       "metricsAsOf": {
-        "dPlus": 8,
-        "harvestDate": "2026-06-02 06:30",
-        "batch": "batch-2026-06-02-15-spores",
-        "source": "harvest+backfill"
+        "dPlus": 176,
+        "harvestDate": "2026-11-17 07:49",
+        "batch": "batch-2026-11-17-1-spores",
+        "source": "harvest"
       },
       "history": [
         {
@@ -4802,6 +4802,16 @@
           "reposts": 55,
           "comments": 52,
           "shares": 101
+        },
+        {
+          "dPlus": 176,
+          "harvestDate": "2026-11-17 07:49",
+          "batch": "batch-2026-11-17-1-spores",
+          "views": 30932,
+          "likes": 541,
+          "reposts": 55,
+          "comments": 49,
+          "shares": 108
         }
       ]
     },

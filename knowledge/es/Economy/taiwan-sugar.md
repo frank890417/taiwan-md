@@ -1,84 +1,87 @@
 ---
-title: 'Taiwan Sugar Corporation: Del imperio dulce que sustentaba el 74% de las divisas extranjeras al «gran terrateniente que no se dedica a su actividad principal» con beneficios récord en 2025'
-description: 'En 2025, el beneficio neto después de impuestos de Taiwan Sugar Corporation alcanzó un récord de 7400 millones de yuanes, pero esta empresa centenaria ya no obtiene ingresos por la venta de azúcar. Desde ser un pilar colonial durante el periodo de gobierno japonés en Taiwán hasta convertirse en el eje económico de la posguerra, observe cómo Taiwan Sugar Corporation ha dado un giro desde el azúcar para redefinir el «beneficio dulce» en el sector de orquídeas, biotecnología y arquitectura circular.'
-category: Economy
+title: 'Taiwan Sugar: del imperio dulce que sustentaba el 74 % de las divisas, al mayor terrateniente «que no se dedica a su negocio» con beneficios récord en 2025'
+description: 'En 2025, Taiwan Sugar registró un beneficio neto récord de 7400 millones de NT$, pero esta empresa centenaria ya no gana dinero vendiendo azúcar. Desde pilar colonial en la era japonesa hasta arteria económica de la posguerra, veamos cómo Taiwan Sugar se reinventó del azúcar a las orquídeas, la biotecnología y la arquitectura circular para redefinir su «dulce retorno».'
+date: 2026-05-03
+category: 'Economy'
 tags:
   [
-    'Taiwan Sugar Corporation',
-    'Historia de la industria azucarera',
-    'Transformación',
-    'Economía circular',
-    'Orquídea mariposa',
+    'Taiwan Sugar',
+    'historia azucarera',
+    'transformación',
+    'economía circular',
+    'orquídea mariposa',
   ]
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
-date: 2026-05-03
-readingTime: 8
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: '2026-05-03T21:10:09+08:00'
+translatedAt: '2026-11-07T12:47:30+08:00'
 ---
 
-> **Resumen en 30 segundos:** En la década de 1950, 74 de cada 100 yuanes de divisas extranjeras de Taiwán provenían de la venta de azúcar de Taiwan Sugar Corporation. Hoy en día, el negocio azucarero de la corporación registra pérdidas anuales, pero en 2025 alcanzó un récord de beneficios de 7468 millones de yuanes gracias a los combustibles, las orquídeas y el desarrollo de tierras. Este mayor terrateniente de Taiwán está transformando de una «empresa fabricante de azúcar» a un líder en «economía circular».
+> **Resumen en 30 segundos:** En los años 1950, de cada 100 dólares de divisas de Taiwán, 74 provenían del azúcar de Taiwan Sugar. Hoy, el negocio azucarero de Taiwan Sugar pierde dinero año tras año, pero en 2025 alcanzó un beneficio récord de 7468 millones de NT$ gracias a combustibles, orquídeas y desarrollo inmobiliario. El mayor terrateniente de Taiwán está mutando de «compañía azucarera» a líder de la «economía circular».
 
-«¡El tren entra en la estación, retrocedan! Tengan cuidado al subir y bajar del tren». En la estación de Wu-shu-lin, en Tainan, Lin Hai-xi, de 92 años y jefe honorario de la estación, sigue manteniendo la espalda recta mientras agita las banderas roja y verde en su mano [^1]. Entró en Wu-shu-lin a los 16 años y ha pasado sesenta años allí; incluso cuando envió los regalos de compromiso a la casa de su esposa, solicitó el «vehículo de inspección 109» de Taiwan Sugar Corporation para que lo acompañara románticamente [^2]. La vida de Lin Hai-xi está estrechamente ligada a Taiwan Sugar Corporation, y sus banderas roja y verde han presenciado el siglo de trayectoria de la industria azucarera taiwanesa: desde su apogeo hasta su declive, y luego su espléndida transformación.
+«¡El tren entra en la estación, por favor retrocedan, tengan cuidado al subir y bajar!» En la estación de Wushulin en Tainan, el jefe de estación honorario de 92 años, Lin Hai-hsi, sigue erguido ondeando su bandera roja y verde [^1]. Entró a Wushulin a los 16 años y pasó allí sesenta años; incluso cuando llevó los regalos de compromiso a casa de su novia, lo hizo escoltado románticamente por el «coche de inspección 109» de Taiwan Sugar [^2]. La vida de Lin Hai-hsi está íntimamente ligada a Taiwan Sugar, y sus banderas han sido testigo de la trayectoria centenaria de la industria azucarera taiwanesa: de su apogeo a su declive y a su espectacular reinvención.
 
-### El esqueleto dulce: El pilar que sustentaba la mitad de las divisas extranjeras de Taiwán
+### El dulce esqueleto: sosteniendo la mitad del cielo de las divisas de Taiwán
 
-En aquella época de «fomentar la industria a través de la agricultura», Taiwan Sugar Corporation no era solo una empresa, era el tesoro nacional de Taiwán. En la década de 1950, el valor de exportación del azúcar llegó a representar el 74% de los ingresos totales por divisas extranjeras de Taiwán [^3]. En aquel entonces, en la llanura de Chia-nan, una red de vías férreas de «trenes de cinco décimos» conectaba las fincas propias y los campos de caña de azúcar contratados, y enormes fábricas de azúcar se alzaban en los campos: ese fue el apogeo de la economía azucarera taiwanesa [^4].
+En aquella era de «usar la agricultura para sostener la industria», Taiwan Sugar no era solo una empresa: era el tesoro nacional de Taiwán. En los años 1950, el valor de las exportaciones de azúcar llegó a representar el 74 % del total de ingresos en divisas de Taiwán [^3]. En la llanura de Chianan de entonces, una red ferroviaria de «trenes de cinco pulgadas» densa como una telaraña conectaba las plantaciones de gestión directa con los campos de caña bajo contrato, y gigantescas fábricas de azúcar se alzaban en medio de los campos: era la cúspide de la economía azucarera taiwanesa [^4].
 
-Sin embargo, esta dulzura tuvo un costo. Durante el periodo de gobierno japonés en Taiwán, Taiwan Sugar Corporation fue una herramienta al servicio de la metrópoli colonial; después de la guerra, se convirtió en una caja de efectivo para que el gobierno regulara la economía. Para proteger a los cañeros, Taiwan Sugar Corporation compró caña de azúcar a un costo superior al precio internacional del azúcar durante décadas, lo que llevó a su negocio principal a un ciclo de pérdidas inevitables. Con la fluctuación de los precios internacionales del azúcar y el aumento de los costos laborales nacionales, las fábricas de azúcar cerraron una tras otra: de las más de 40 fábricas de azúcar de todo Taiwán, hoy solo unas pocas, como Hu-wei y Shan-hua, siguen en funcionamiento [^5].
+Sin embargo, esa dulzura tenía su precio. En la época colonial japonesa, Taiwan Sugar fue una herramienta al servicio de la metrópoli; en la posguerra, se convirtió en el cajero automático del gobierno para regular la economía. Para proteger a los cañicultores, Taiwan Sugar compró caña durante décadas a precios superiores a los internacionales, condenando su negocio principal a un ciclo de pérdidas inevitable. Con la volatilidad del precio internacional del azúcar y el alza de los costes laborales internos, los ingenios fueron cerrando uno tras otro; de los más de cuarenta que hubo en toda la isla, hoy solo quedan en operación unos pocos, como Huwei y Shanhua [^5].
 
-📝 Nota del curador: La historia de Taiwan Sugar Corporation es un microcosmos de la economía taiwanesa: desde una industria primaria dependiente de la tierra, obligada a buscar supervivencia en los intersticios del mercado internacional.
+📝 Nota del curador: La historia de Taiwan Sugar es un microcosmos de la economía de Taiwán —de una industria primaria dependiente de la tierra, forzada a buscar supervivencia en los intersticios del mercado internacional.
 
-### Orquídeas mariposa y extracto de almeja: Cuando «no dedicarse a la actividad principal» se convierte en el nuevo negocio principal
+### Orquídeas mariposa y esencia de almeja: cuando el «negocio secundario» se vuelve el principal
 
-Cuando el azúcar ya no es dulce, Taiwan Sugar Corporation comenzó a buscar oportunidades en sus «negocios secundarios». Sorprendentemente, esta empresa azucarera se ha convertido en un centro clave de cría de orquídeas mariposa a nivel mundial. En la Exposición Internacional de Orquídeas de Taiwán 2025, Taiwan Sugar Corporation ganó 14 premios de golpe, y su variedad «Taiwan Sugar Grandma» es un clásico perenne en el mundo de la horticultura [^6].
+Cuando el azúcar dejó de ser dulce, Taiwan Sugar empezó a buscar salidas en sus «negocios secundarios». Sorprendentemente, esta empresa azucarera se convirtió en una potencia mundial en la cría de orquídeas mariposa. En la Exposición Internacional de Orquídeas de Taiwán 2025, Taiwan Sugar se llevó 14 premios, y su variedad «Taiwan Sugar Abuela» es ya un clásico perenne de la jardinería [^6].
 
-La biotecnología es otro punto destacado de la transformación. Utilizando las tecnologías centrales de producción de azúcar y cría de cerdos, Taiwan Sugar Corporation ha desarrollado un extracto de almeja que llegó a tener una cuota de mercado superior al 60%, e incluso transforma residuos como escamas de pescado y conchas de ostra en colágeno y productos de alto valor añadido mediante tecnología [^7].
+El negocio biotecnológico es otro punto brillante de la transformación. Aprovechando la tecnología central de la producción de azúcar y la porcicultura, Taiwan Sugar desarrolló una esencia de almeja que llegó a acaparar más del 60 % de cuota de mercado, e incluso transformó residuos como escamas de pescado y conchas de ostras en colágeno y productos de alto valor añadido [^7].
 
-> «No es un problema técnico, es una historia sobre la confianza».
+> «No es un problema técnico, es una historia de confianza.»
 
-Cuando estalló el incidente de ractopamina («Xibuteluo») en 2024, la integridad de la marca Taiwan Sugar Corporation se vio desafiada. Sin embargo, tras dar negativo en las 84 muestras posteriores y que el tribunal determinara que solo una caja de muestras estaba contaminada, este revuelo reforzó la confianza de los consumidores en el cerdo producido localmente por Taiwan Sugar Corporation [^8].
+Cuando en 2024 estalló el caso de la «clenbuterol» (clembuterol), la credibilidad de la marca Taiwan Sugar se vio cuestionada. Sin embargo, tras 84 muestreos posteriores con cero detecciones y el dictamen judicial de que solo una única muestra en caja estaba contaminada, la polémica terminó reforzando la confianza de los consumidores en la carne de cerdo nacional de Taiwan Sugar [^8].
 
-### El mayor terrateniente de Taiwán: Cultivar la «economía circular» en la tierra
+### El mayor terrateniente de Taiwán: sembrando «economía circular» en la tierra
 
-Con aproximadamente 50.000 hectáreas de tierra, Taiwan Sugar Corporation es el «mayor terrateniente» indiscutible de Taiwán. Pero ya no se limita a vender las tierras heredadas para subsistir, sino que está empezando a experimentar con la simbiosis con la tierra.
+Con unas 50 000 hectáreas, Taiwan Sugar es, sin discusión, el «mayor terrateniente» de Taiwán. Pero Taiwan Sugar ya no se limita a vender el patrimonio familiar para subsistir; ha empezado a ensayar la simbiosis con la tierra.
 
-En Sha-lun, Tainan, Taiwan Sugar Corporation ha promovido el primer «parque residencial circular de energía verde inteligente» de Taiwán. Este edificio no se vende de forma tradicional, sino que se ofrece «en régimen de alquiler con opción a compra», todos los materiales de construcción tienen una identificación y se pueden reciclar y reutilizar tras su demolición. Este proyecto incluso se presentó en la Semana del Diseño de Milán (Italia) en 2026, mostrando al mundo la capacidad de la arquitectura sostenible taiwanesa [^9].
+En Shalun, Tainan, Taiwan Sugar impulsó el primer «parque residencial circular inteligente de energía verde» de la isla. Este complejo ya no se vende en propiedad, sino en régimen de «alquiler con opción a compra»; todos los materiales de construcción tienen su «documento de identidad» para que, en una futura demolición, puedan recuperarse y reutilizarse. El proyecto llegó incluso a la Semana del Diseño de Milán 2026 en Italia, mostrando al mundo la nueva fuerza de la arquitectura sostenible de Taiwán [^9].
 
-📝 Nota del curador: De vender azúcar a alquilar viviendas, Taiwan Sugar Corporation está aprendiendo a dejar de «consumir» la tierra y a «circular» el valor.
+📝 Nota del curador: De vender azúcar a alquilar casas, Taiwan Sugar está aprendiendo a no «consumir» más la tierra, sino a «hacer circular» el valor.
 
-### Conclusión: El eco de una empresa centenaria
+### Epílogo: la resonancia de una empresa centenaria
 
-En 2025, el beneficio operativo de Taiwan Sugar Corporation alcanzó los 4698 millones de yuanes, y el beneficio neto después de impuestos alcanzó un récord de 7468 millones de yuanes [^10]. Aunque gran parte de esto proviene de inversiones no operativas y desarrollo de tierras, la presencia de Taiwan Sugar Corporation en biotecnología y energía verde está permitiendo que esta empresa centenaria se deshaga de la etiqueta de «lastre».
+En 2025, el beneficio operativo de Taiwan Sugar alcanzó los 4698 millones de NT$, y el beneficio neto marcó un nuevo récord de 7468 millones de NT$ [^10]. Aunque una gran parte proviene de inversiones no operativas y desarrollo inmobiliario, la apuesta de Taiwan Sugar por la biotecnología y la energía verde está permitiendo a esta empresa centenaria sacudirse la etiqueta de «lastre».
 
-Cuando tomamos el tren de cinco décimos en Wu-shu-lin, con una velocidad máxima de solo 10 km/h, y vemos al jefe de estación Lin Hai-xi agitar la bandera verde, ese ritmo de vida lento nos recuerda que Taiwan Sugar Corporation quizás ya no sea aquel imperio dulce que lo controlaba todo, pero está protegiendo el pasado y el futuro de la tierra de Taiwán de una manera mucho más resiliente.
+Cuando en Wushulin subimos al tren de cinco pulgadas que avanza a apenas 10 km/h, viendo al jefe de estación Lin Hai-hsi ondear su bandera verde, ese ritmo pausado nos recuerda: Taiwan Sugar ya no es el imperio dulce que imponía su voluntad, pero está protegiendo, con una resiliencia renovada, el pasado y el futuro de esta tierra taiwanesa.
 
 ---
 
 ### Referencias
 
-[^1]: [Boletín de Taiwan Sugar Corporation: El jefe de estación feliz de Wu-shu-lin](https://www.taisugar.com.tw/monthly/CPN.aspx?ms=1454&p=1338733&s=13387772) — Fuente: Sitio web oficial de Taiwan Sugar Corporation
+[^1]: [Taiwan Sugar Communications: El feliz jefe de estación de Wushulin](https://www.taisugar.com.tw/monthly/CPN.aspx?ms=1454&p=1338733&s=13387772) — Datos del sitio oficial de Taiwan Sugar: Datos del sitio oficial de Taiwan Sugar
 
-[^2]: [Onelittleday: [Taiwan Sugar Corporation] Paseo por el pasado: Revivir lo maravilloso con artesanos veteranos](https://onelittleday.com.tw/%E6%BC%AB%E9%81%8A%E8%88%8A%E6%99%82%E5%85%89-%E8%B7%9F%E8%91%97%E8%80%81%E8%81%B7%E4%BA%BA%E9%87%8D%E6%BA%AB%E7%B2%BE%E5%BD%A9/) — Columna Onelittleday: Columna Onelittleday
+[^2]: [Pequeños Días: [Taiwan Sugar] Paseo por el viejo tiempo, reviviendo lo maravilloso de la mano de veteranos](https://onelittleday.com.tw/%E6%BC%AB%E9%81%8A%E8%88%8A%E6%99%82%E5%85%89-%E8%B7%9F%E8%91%97%E8%80%81%E8%81%B7%E4%BA%BA%E9%87%8D%E6%BA%AB%E7%B2%BE%E5%BD%A9/) — Columna Pequeños Días: Columna Pequeños Días
 
-[^3]: [Revista Taiwan Panorama: Un siglo de historia: La transformación de Taiwan Sugar Corporation en busca de beneficios dulces](https://www.taiwan-panorama.com/Articles/Details?Guid=8ece1ddb-8ea5-4806-ad4e-8a1ef0e91495&CatId=9&postname=%E4%B8%96%E7%B4%80%E8%B5%B0%E9%81%8E%EF%BC%8C%E5%8F%B0%E7%B3%96%E8%BD%89%E5%9E%8B%E6%89%BE%E7%94%9C%E9%A0%AD) — Artículo especial de la Revista Taiwan Panorama: Artículo especial de la Revista Taiwan Panorama
+[^3]: [Taiwan Panorama: Siglo transcurrido, Taiwan Sugar se transforma y halla su dulce retorno](https://www.taiwan-panorama.com/Articles/Details?Guid=8ece1ddb-8ea5-4806-ad4e-8a1ef0e91495&CatId=9&postname=%E4%B8%96%E7%B4%80%E8%B5%B0%E9%81%8E%EF%BC%8C%E5%8F%B0%E7%B3%96%E8%BD%89%E5%9E%8B%E6%89%BE%E7%94%9C%E9%A0%AD) — Artículo de Taiwan Panorama: Artículo de Taiwan Panorama
 
-[^4]: [Nuestra Isla: [Historia de la fabricación de azúcar] Crónica de la vejez de la caña de azúcar en Taiwán](https://ourisland.pts.org.tw/content/1084) — Sitio web de noticias de PTS: Sitio web de noticias de PTS
+[^4]: [Nuestra Isla: [Historia del azúcar] Crónica del ocaso del azúcar de caña de Taiwán](https://ourisland.pts.org.tw/content/1084) — PTS News: PTS News
 
-[^5]: [Sitio web oficial de Taiwan Sugar Corporation: Escala de negocios](https://www.taisugar.com.tw/chinese/CP2.aspx?n=10007) — Fuente: Sitio web oficial de Taiwan Sugar Corporation
+[^5]: [Sitio oficial de Taiwan Sugar: Escala de negocios](https://www.taisugar.com.tw/chinese/CP2.aspx?n=10007) — Datos del sitio oficial de Taiwan Sugar: Datos del sitio oficial de Taiwan Sugar
 
-[^6]: [Sitio web oficial de Taiwan Sugar Corporation: El talento artístico asombra al mundo: Las orquídeas mariposa de Taiwan Sugar Corporation ganan 14 premios en la exposición de orquídeas](https://www.taisugar.com.tw/business/News_detail.aspx?p=158&n=12693&s=13778) — Fuente: Sitio web oficial de Taiwan Sugar Corporation
+[^6]: [Sitio oficial de Taiwan Sugar: La fuerza estética sorprende al mundo, las orquídeas mariposa de Taiwan Sugar brillan con 14 galardones en la exposición](https://www.taisugar.com.tw/business/News_detail.aspx?p=158&n=12693&s=13778) — Datos del sitio oficial de Taiwan Sugar: Datos del sitio oficial de Taiwan Sugar
 
-[^7]: [Taiwan Sugar Corporation logra excelentes resultados en biotecnología y economía circular](https://news.gbimonthly.com/tw/magazine/article_show.php?num=38430) — Reporte de la Revista de Biotecnología: Reporte de la Revista de Biotecnología
+[^7]: [Taiwan Sugar biotecnología economía circular logra mejor desempeño de empresa estatal](https://news.gbimonthly.com/tw/magazine/article_show.php?num=38430) — Informe de Biotech Monthly: Informe de Biotech Monthly
 
-[^8]: [Liberty Times: Denuncian a Lu Hsiu-yen por «perjudicar a Taiwan Sugar Corporation con ractopamina»; el juez determina que «hay base fáctica» y no impone multa](https://news.ltn.com.tw/news/society/breakingnews/5377549) — Reporte de Liberty Times: Reporte de Liberty Times
+[^8]: [Liberty Times: Acusan a Lu Hsiu-yen de «perjudicar a Taiwan Sugar con clembuterol»; juez reconoce «base fáctica» y no sanciona](https://news.ltn.com.tw/news/society/breakingnews/5377549) — Informe de Liberty Times: Informe de Liberty Times
 
-[^9]: [Comunicado de prensa del Ministerio de Economía: Las viviendas circulares de Taiwan Sugar Corporation se presentan en la Semana del Diseño de Milán; la nueva capacidad de la arquitectura sostenible de Taiwán asombra al mundo](https://www.moea.gov.tw/MNS/Populace/news/News.aspx?kind=1&menu_id=40&news_id=122490) — Comunicado de prensa del Ministerio de Economía: Comunicado de prensa del Ministerio de Economía
+[^9]: [Comunicado del Ministerio de Economía: La vivienda circular de Taiwan Sugar llega a la Semana del Diseño de Milán, la nueva fuerza de la arquitectura sostenible de Taiwán deslumbra al mundo](https://www.moea.gov.tw/MNS/Populace/news/News.aspx?kind=1&menu_id=40&news_id=122490) — Comunicado del Ministerio de Economía: Comunicado del Ministerio de Economía
 
-[^10]: [Economic Daily News: Taiwan Sugar Corporation gana 7400 millones de yuanes en 2025, alcanzando el récord](https://money.udn.com/money/story/5612/9261034) — Reporte de United Daily News: Reporte de United Daily News
+[^10]: [Economic Daily News: Taiwan Sugar gana 7400 millones en 2025 y toca techo](https://money.udn.com/money/story/5612/9261034) — Informe de UDN: Informe de UDN
