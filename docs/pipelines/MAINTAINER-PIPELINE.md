@@ -186,7 +186,8 @@ gh pr view N --json maintainerCanModify -q .maintainerCanModify   # true = 可�
 
 merge-first-then-heal 的 heal 步驟**必含** frontmatter 查證狀態設定（設計 canonical：[reports/design-curation-tier-2026-08-04.md](../../reports/design-curation-tier-2026-08-04.md)）：
 
-- **新 merged 貢獻文章 → `curation: incubating`**（文章頁顯示 🌱 進化中說明條＋讀者參與入口；不進 featured 與首頁精選——`curation-tag.py` 會同時把 `featured: true` 改 false，互斥由 `article-health --check=curation-consistency` 看守）
+- **新 merged 貢獻文章 → `curation: incubating`**（文章頁顯示 🌱 進化中說明條＋讀者參與入口；新進站預設不進 featured 與首頁精選——`curation-tag.py` 預設會同時把 `featured: true` 改 false）
+- **精選文章也可以是「進化中」（2026-11-17 哲宇拍板，issue #1995）**：進化中與 featured 不再互斥，curation-consistency 已拿掉那條 HARD。新進站投稿仍照上一條預設 featured: false；既有精選補標時用 `curation-tag.py --keep-featured`，首頁與分類頁的精選不受影響。
 - **轉正**：文章走完 REWRITE Evolution 深度 / FACTCHECK Full mode 後 → `curation: verified` **同時** `lastHumanReview: true`（兩欄一起動，lint 有 warn 看守）
 - 🔎 徽章只認 `curation: verified` 顯式值，**不從 lastHumanReview 推導**（早期低標準的 true 會變假保證）
 - 工具：`python3 scripts/tools/curation-tag.py --set incubating knowledge/... --apply`

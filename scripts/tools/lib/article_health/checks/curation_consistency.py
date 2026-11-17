@@ -7,8 +7,9 @@
 看守三件事：
   1. 取值合法性 — 'verified' / 'incubating' 之外的值 → HARD（template 靜默不渲染，
      打錯字會變成「以為標了其實沒標」的 silent failure）
-  2. incubating 與 featured 互斥 — incubating 不進精選（策展規則 canonical 在
-     MAINTAINER-PIPELINE §1b），首頁精選邏輯不另設 filter，靠這條 lint 守 → HARD
+  2. ~~incubating 與 featured 互斥 → HARD~~ 2026-11-17 哲宇拍板取消（issue #1995 補標舊文時，
+     133 篇「沒人工審過的精選」選「標進化中但保留精選」）：兩者可以並存，精選文章也會顯示
+     🌱 說明條。新進站的投稿仍預設 featured: false（MAINTAINER §1b），那是收件規則不是互斥。
   3. verified 應同步 lastHumanReview: true — 轉正 SOP 兩欄一起動
      （dashboard human-reviewed% 靠後者）→ WARN
 
@@ -143,19 +144,6 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             editorial_ref=EDITORIAL_REF,
         )
         return
-
-    featured = fm.get("featured")
-    if cur == "incubating" and featured in (True, "true"):
-        yield Violation(
-            check=CHECK_NAME,
-            severity=Severity.HARD,
-            message=(
-                "curation: incubating 與 featured: true 互斥"
-                "（進化中文章不進精選；首頁精選無另設 filter，靠本條看守）"
-            ),
-            line=_fm_line(target, "featured"),
-            editorial_ref=EDITORIAL_REF,
-        )
 
     lhr = fm.get("lastHumanReview")
     if cur == "verified" and lhr not in (True, "true"):
