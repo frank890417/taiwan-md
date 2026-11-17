@@ -4115,24 +4115,9 @@ const iaCopy: Record<UpLang, IaCopy> = {
 };
 
 const lang = getLangFromUrl(Astro.url);
-// roadmap 四張卡依序連到四個子頁（各語言 roadmap.items 順序相同）
+// roadmap 四項依序對應四個子頁（各語言 roadmap.items 順序相同），查證工具區用它連子頁
 const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 const roadmapSlugs = ['timeline', 'candidates', 'donations', 'perspectives'];
-// 已經做好的子頁：卡片整張是連結；不在集合裡的卡片顯示「製作中」、不連結。
-const liveSubpages = new Set([
-  'timeline',
-  'candidates',
-  'donations',
-  'perspectives',
-]);
-const roadmapCta: Record<string, string> = {
-  'zh-TW': '看完整內容',
-  en: 'Open the full page',
-  ja: '詳しく見る',
-  ko: '자세히 보기',
-  fr: 'Voir la page complète',
-  es: 'Ver la página completa',
-};
 const copy = electionCopy[lang as keyof typeof electionCopy] ?? electionCopy.en;
 const pageTitle = copy.meta.title;
 const pageDescription = copy.meta.description;
@@ -4233,24 +4218,6 @@ const tfcName =
   copy.resources.items.find((r) => r.url.includes('tfc-taiwan'))?.name ?? '';
 const cofactsName =
   copy.resources.items.find((r) => r.url.includes('cofacts'))?.name ?? '';
-
-// 線條圖示（24px、stroke 1.75），開場三個事實與專區四張卡共用。
-// 選舉頁的圖示改用行線圖示（/brand#icons）；鍵名沿用，渲染結構不動
-const electionIcons: Record<string, string> = {
-  clock: 'clock',
-  id: 'id',
-  pin: 'pin',
-  timeline: 'calendar',
-  candidates: 'community',
-  donations: 'coins',
-  perspectives: 'comment',
-};
-const iconPaths: Record<string, string[]> = Object.fromEntries(
-  Object.entries(electionIcons).map(([k, n]) => [
-    k,
-    [(icons as Record<string, string>)[n]],
-  ]),
-);
 
 const faqItems = electionsData.votingInfo.map((v) => ({
   id: v.id,
@@ -4461,7 +4428,10 @@ const statusDates = (
         today,
         3,
       )
-    : voterDates(timelineItems, [risItem], today, 3)
+    : voterDates(timelineItems, [risItem], today, 3).filter(
+        // 投票日當天，狀態列本身就在講投票日，不再重複列出
+        (i) => !(phase === 'day' && i.id === 'voting-day'),
+      )
 ).map((i) => ({
   ...i,
   when: fmtSpan(i),
@@ -5166,7 +5136,10 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
                 sourceLinks([
                   ...officeSources.map((url) => ({
                     url,
-                    label: up.links.announcement,
+                    label:
+                      url === electionsData.sources.announcement
+                        ? up.links.announcement
+                        : up.offices.totalSource,
                   })),
                   {
                     url: electionsData.totalElected.source,
