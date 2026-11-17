@@ -29,11 +29,13 @@ image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:85f9d09627902abf'
 sourceBodyHash: 'sha256:c4a7f62bbc68876d'
-translatedAt: '2026-09-08T00:33:58.455880+00:00'
+translatedAt: '2026-11-17T21:51:00.241064+00:00'
 ---
 
 # تايوان BIM وتكنولوجيا البناء: اثنا عشر عامًا من "التعامل حسب الحالة" الحكومية، أعاد كتابتها بروتوكول مدته ثمانية عشر شهرًا
