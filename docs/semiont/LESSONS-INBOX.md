@@ -2059,6 +2059,28 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **verification_count**: 1
 - **severity**: structural（失效方式是閘門轉綠而事實錯誤上站，且兩個方向都驗到：投稿者的與維護者自己的）
 
+### 2026-11-18 twmd-babel-nightly — 判斷靠 stdout 的字樣，印字的那一端把字樣截掉了
+
+- **pattern**: `classifier-marker-cut-by-upstream-print-truncation`
+- **原則**：下游用子程序 stdout 的子字串判斷失敗類別時，上游印錯誤訊息的截斷長度就是判斷器的射程。前綴越長，能看見的字樣越少，而截斷不會叫。
+- **觸發**：2026-11-18 00:50 babel-nightly 新啟動後，三個 Haiku worker 每輪搶 P0 缺檔、2〜4 秒失敗。七把 key 實測都回 402「requires more credits」，`CREDIT_OUT_MARKERS` 早就列了這句，但 `translate.py` 印失敗原因截在 120 字，cascade 前綴約 85 字，字樣落在截斷點之後；較短的容量字樣「all OpenRouter keys rate-limit」剛好擠進去，所以文章的帳沒被記，只有餘額用盡那一段失靈。放寬到 400 字（`7dd6d62da`）。
+- **instances**：（首例）
+- **可能層級**：操作規則
+- **相關**：[REFLEXES #38](REFLEXES.md)（402 用 BackendRateLimited 報出，帳戶沒錢與上游限流共用一個例外類別，是混維度的另一面）；#24（工具在說謊）
+- **verification_count**: 1
+- **severity**: minor（失效方式是浪費輪次，不傷文章帳）
+
+### 2026-11-18 twmd-babel-nightly — Tier 0b 的同步集沒有查證標記
+
+- **pattern**: `metadata-stale-bump-assumes-frontmatter-unchanged`（沿用既有 id，見 REFLEXES #38 metadata-stale 變體）
+- **原則**：`heal-frontmatter-types.SYNC_SCALAR_FIELDS` 只有卡片圖四欄與 featured。11-17 補標 511 篇「🌱 進化中・待查證」（`curation`／`curationReason`）讓十二語各約 480 篇變 metadata-stale；dispatcher 的補丁路徑會把兩欄抄進譯文（驗過 en〈NVIDIA 在台灣〉），但若有人用 `bump-source-sha.py` 整批 Tier 0b，譯文會變 fresh 卻沒有「待查證」標籤，十二語讀者看到的是未審初稿長得像查證過的文章，正好是 issue #1995 要修的事。
+- **為什麼沒當場修**：加進同步集不對稱。抄「incubating」是安全的，日後 zh 升「verified」時抄過去，就是替 body 還停在舊版的譯文蓋章，跟同步集刻意不收 lastVerified 是同一個顧慮。要有方向性規則（只往保守方向抄），是設計決定。
+- **instances**：- 2026-11-18 twmd-babel-nightly 本條（同 pattern 第 2 例：第 1 例是 09-22 卡片圖熱連結）
+- **可能層級**：操作規則
+- **相關**：[REFLEXES #38](REFLEXES.md) metadata-stale 變體；issue #1995
+- **verification_count**: 2
+- **severity**: structural（若觸發，失效方式是信任標記在十二語靜默消失）
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
