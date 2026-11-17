@@ -35,6 +35,7 @@ type Copy = {
   groupCounty: string;
   groupCount: string; // {n}
   candidateCount: string; // {n}
+  candidateCountOne?: string; // 只有 1 人時（英文單複數）
   incumbent: string;
   rosterLink: string;
   qualifiedLink: string;
@@ -194,12 +195,13 @@ const copyAll: Record<string, Copy> = {
     distRaces: '{k} races',
     partyTitle: 'Candidates by nominating party',
     partyNote:
-      'Listed alphabetically by party name, not a ranking. Bar length shows only the number of nominees. Independents are counted as one group.',
+      'Listed by the stroke order of each party’s registered Chinese name, not a ranking. Bar length shows only the number of nominees. Independents are counted as one group.',
     partyRow: '{party}  {n}',
     groupMunicipal: 'Special municipality mayors',
     groupCounty: 'County magistrates and city mayors',
     groupCount: '{n} races',
     candidateCount: '{n} candidates',
+    candidateCountOne: '1 candidate',
     incumbent: 'Incumbent',
     rosterLink: 'CEC registration roster',
     qualifiedLink: 'Oct 16 qualification release',
@@ -415,20 +417,16 @@ for (const r of races) {
 }
 const distRows = [...dist.entries()].sort((a, b) => a[0] - b[0]);
 
-// 各政黨推薦人數：中文與日文依中選會登記的中文黨名筆畫排序，其他語言依顯示名稱
-// 字母排序，都不依人數（長條圖旁的說明照這個規則寫，改排序要一起改說明）。
+// 各政黨推薦人數：每種語言都依中選會登記的中文黨名筆畫排序，不依人數。
+// 不用翻譯名排字母：只有幾個黨有譯名，譯名會全排在前、其餘中文名擠在後面，
+// 看起來像大黨小黨分組。長條圖旁的說明照這個規則寫，改排序要一起改說明。
 const partyCount = new Map<string, number>();
 for (const r of races)
   for (const cand of r.candidates)
     partyCount.set(cand.party, (partyCount.get(cand.party) ?? 0) + 1);
-const strokeSort = isZh || cl === 'ja';
 const partyRows = [...partyCount.entries()]
   .map(([party, n]) => ({ party, n, label: partyLabel(party) }))
-  .sort((a, b) =>
-    strokeSort
-      ? a.party.localeCompare(b.party, 'zh-Hant-u-co-stroke')
-      : a.label.localeCompare(b.label, cl),
-  );
+  .sort((a, b) => a.party.localeCompare(b.party, 'zh-Hant-u-co-stroke'));
 // 長條長度＝人數 ÷ 最多的那一黨（只是比例尺，不是排名）
 const partyMax = Math.max(...partyRows.map((p) => p.n));
 
@@ -634,7 +632,9 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
                       />
                     </span>
                     <span class="party-n tabular-nums text-(--el-chart-label)">
-                      {fill(c.candidateCount, { n: p.n })}
+                      {p.n === 1 && c.candidateCountOne
+                        ? c.candidateCountOne
+                        : fill(c.candidateCount, { n: p.n })}
                     </span>
                   </li>
                 ))
@@ -991,11 +991,17 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
     color: var(--el-ink);
   }
   /* 政黨推薦數長條圖：所有政黨同一個顏色（不用政黨代表色），依筆畫排列 */
-  .party-row {
+  /* 三欄開在 ul 上、每列用 subgrid 對齊：人數欄寬一致，所有長條才在同一把尺上 */
+  .party-bars {
     display: grid;
     grid-template-columns: minmax(5.5rem, 38%) minmax(0, 1fr) auto;
-    align-items: center;
     column-gap: 0.75rem;
+  }
+  .party-row {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-template-columns: subgrid;
+    align-items: center;
     padding: 0.3rem 0;
     line-height: 1.45;
   }
