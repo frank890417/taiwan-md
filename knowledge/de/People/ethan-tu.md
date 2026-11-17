@@ -1,11 +1,11 @@
 ---
-title: 'Ethan Tu (杜奕瑾)'
-description: 'Mit einem 486-Computer baute er Taiwans größtes Forum auf, führte bei Microsoft Cortana ein und verzichtete dann auf ein hohes Gehalt, um nach Taiwan zurückzukehren und gemeinnützige KI zu betreiben — die dreißigjährige Digitalgeschichte des PTT-Schöpfers'
+title: 'Du Yi-chin'
+description: 'Mit einem 486-Computer das größte Forum Taiwans aufbauen, bei Microsoft die Einführung von Cortana leiten und dann ein hohes Gehalt aufgeben, um nach Taiwan zurückzukehren und gemeinnützige KI zu entwickeln – die dreißigjährige digitale Geschichte des PTT-Gründers'
 date: 2026-03-30
 category: 'People'
 tags:
   [
-    'Ethan Tu',
+    'Du Yi-chin',
     'PTT',
     'Taiwan AI Labs',
     'Digitale Demokratie',
@@ -17,11 +17,13 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'ab47ff39c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-17T20:03:01.167531+00:00'
 ---
 
 # Ethan Tu (杜奕瑾)
