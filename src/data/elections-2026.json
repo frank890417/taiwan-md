@@ -1244,6 +1244,43 @@
       }
     },
     {
+      "id": "lookup",
+      "links": [
+        {
+          "kind": "voteSearch",
+          "url": "https://info.cec.gov.tw/vote2026/voteSearch/"
+        },
+        {
+          "kind": "pollingPlaces",
+          "url": "https://web.cec.gov.tw/central/article/64374"
+        }
+      ],
+      "zh-TW": {
+        "q": "去哪裡查我的投票所？",
+        "a": "投票所地點寫在投票通知單上。也可以用中選會的「投開票所查詢」，選縣市和鄉鎮市區就能查到投票所地點。"
+      },
+      "en": {
+        "q": "Where can I look up my polling station?",
+        "a": "Your polling station is printed on your voting notice. You can also use the CEC’s polling station search: choose your city or county and district to see polling station locations."
+      },
+      "ja": {
+        "q": "自分の投票所はどこで調べる？",
+        "a": "投票所の場所は投票通知書に書かれています。中央選挙委員会の「投開票所検索」でも、県市と郷鎮市区を選べば投票所の場所がわかります。"
+      },
+      "ko": {
+        "q": "내 투표소는 어디서 찾나요?",
+        "a": "투표소 위치는 투표 안내문에 적혀 있습니다. 중앙선거위원회의 \"투개표소 검색\"에서 현·시와 향·진·시·구를 고르면 투표소 위치를 볼 수 있습니다."
+      },
+      "fr": {
+        "q": "Où trouver mon bureau de vote ?",
+        "a": "Votre bureau de vote figure sur votre avis de vote. Vous pouvez aussi utiliser la recherche des bureaux de vote de la Commission électorale centrale : choisissez votre ville ou comté et votre district pour voir les adresses des bureaux."
+      },
+      "es": {
+        "q": "¿Dónde busco mi lugar de votación?",
+        "a": "Tu lugar de votación aparece en el aviso de votación. También puedes usar la búsqueda de lugares de votación de la Comisión Electoral Central: elige tu ciudad o condado y distrito para ver dónde están."
+      }
+    },
+    {
       "id": "rules",
       "links": [
         {
@@ -1284,33 +1321,74 @@
           "url": "https://bulletin.cec.gov.tw/"
         },
         {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=47"
+        },
+        {
           "kind": "schedule",
           "url": "https://web.cec.gov.tw/central/article/61722"
         }
       ],
       "zh-TW": {
-        "q": "選舉公報和政見發表會在哪裡看？",
-        "a": "選舉公報最晚在投票日前兩天送到每一戶，也會公開在中選會的選舉公報網站。公辦政見發表會：直轄市長在 11 月 13 日到 27 日，縣市長在 11 月 18 日到 27 日。"
+        "q": "選舉公報什麼時候送到？政見發表會在哪裡看？",
+        "a": "選舉公報要在投票日二日前送到每一戶，依選罷法的期間算法，最晚是 11 月 25 日；公報也會公開在中選會的選舉公報網站。公辦政見發表會：直轄市長在 11 月 13 日到 27 日，縣市長在 11 月 18 日到 27 日。"
       },
       "en": {
-        "q": "Where can I find the election bulletin and platform presentations?",
-        "a": "The election bulletin reaches every household no later than two days before voting day and is also published on the CEC bulletin website. Official platform presentations run November 13 to 27 for special municipality mayors and November 18 to 27 for county and city mayors."
+        "q": "When does the election gazette arrive, and where are the platform presentations?",
+        "a": "The election gazette must reach every household two days before voting day; under the counting rule in the Election and Recall Act, that means by November 25 at the latest. It is also published on the CEC gazette website. Official platform presentations run November 13 to 27 for special municipality mayors and November 18 to 27 for county and city mayors."
       },
       "ja": {
-        "q": "選挙公報と政見発表会は？",
-        "a": "選挙公報は遅くとも投票日の2日前までに各世帯に届き、中央選挙委員会の選挙公報サイトでも公開されます。公営の政見発表会は、直轄市長が11月13日から27日、県市長が11月18日から27日です。"
+        "q": "選挙公報はいつ届く？政見発表会は？",
+        "a": "選挙公報は投票日の2日前までに各世帯へ届けることになっていて、選挙罷免法の期間の数え方では遅くとも11月25日です。中央選挙委員会の選挙公報サイトでも公開されます。公営の政見発表会は、直轄市長が11月13日から27日、県市長が11月18日から27日です。"
       },
       "ko": {
-        "q": "선거 공보와 정견 발표회는 어디서 보나요?",
-        "a": "선거 공보는 늦어도 투표일 이틀 전까지 각 가구에 배달되며, 중앙선거위원회 선거 공보 웹사이트에도 공개됩니다. 공영 정견 발표회는 직할시장이 11월 13일부터 27일까지, 현·시장이 11월 18일부터 27일까지입니다."
+        "q": "선거공보는 언제 도착하고, 정견 발표회는 어디서 보나요?",
+        "a": "선거공보는 투표일 2일 전까지 각 가구에 도착해야 하며, 선거파면법의 기간 계산 방식으로는 늦어도 11월 25일입니다. 중앙선거위원회 선거공보 웹사이트에도 공개됩니다. 공영 정견 발표회는 직할시장이 11월 13일부터 27일까지, 현·시장이 11월 18일부터 27일까지입니다."
       },
       "fr": {
-        "q": "Où consulter le bulletin électoral et les présentations de programmes ?",
-        "a": "Le bulletin électoral arrive dans chaque foyer au plus tard deux jours avant le scrutin et il est aussi publié sur le site des bulletins de la Commission électorale centrale. Les présentations officielles des programmes ont lieu du 13 au 27 novembre pour les maires des municipalités spéciales, et du 18 au 27 novembre pour les chefs de comté et maires de ville."
+        "q": "Quand arrive le bulletin électoral, et où voir les présentations de programmes ?",
+        "a": "Le bulletin électoral doit arriver dans chaque foyer deux jours avant le scrutin ; selon le mode de calcul des délais de la loi électorale, c’est au plus tard le 25 novembre. Il est aussi publié sur le site des bulletins de la Commission électorale centrale. Les présentations officielles des programmes ont lieu du 13 au 27 novembre pour les maires des municipalités spéciales, et du 18 au 27 novembre pour les chefs de comté et maires de ville."
       },
       "es": {
-        "q": "¿Dónde consulto el boletín electoral y las presentaciones de programas?",
-        "a": "El boletín electoral llega a cada hogar a más tardar dos días antes de la votación y también se publica en el sitio de boletines de la Comisión Electoral Central. Las presentaciones oficiales de programas son del 13 al 27 de noviembre para alcaldes de municipios especiales y del 18 al 27 de noviembre para jefes de condado y alcaldes de ciudad."
+        "q": "¿Cuándo llega la gaceta electoral y dónde veo las presentaciones de programas?",
+        "a": "La gaceta electoral debe llegar a cada hogar dos días antes de la votación; según el cómputo de plazos de la ley electoral, a más tardar el 25 de noviembre. También se publica en el sitio de gacetas de la Comisión Electoral Central. Las presentaciones oficiales de programas son del 13 al 27 de noviembre para alcaldes de municipios especiales y del 18 al 27 de noviembre para jefes de condado y alcaldes de ciudad."
+      }
+    },
+    {
+      "id": "notice",
+      "links": [
+        {
+          "kind": "lawRules",
+          "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020011&flno=12"
+        },
+        {
+          "kind": "schedule",
+          "url": "https://web.cec.gov.tw/central/article/61722"
+        }
+      ],
+      "zh-TW": {
+        "q": "投票通知單什麼時候會收到？",
+        "a": "投票通知單由戶政機關依選舉人名冊填好，交給鄉鎮市區公所在投票日二日前分送到每一戶，依法推算最晚是 11 月 25 日。通知單上寫著你的投票所。"
+      },
+      "en": {
+        "q": "When will I get my voting notice?",
+        "a": "Household registration offices fill in voting notices from the electoral roll, and district offices deliver them to every household two days before voting day, which works out to November 25 at the latest. The notice shows your polling station."
+      },
+      "ja": {
+        "q": "投票通知書はいつ届く？",
+        "a": "投票通知書は戸政事務所が選挙人名簿にもとづいて作り、郷鎮市区公所が投票日の2日前までに各世帯へ配ります。法律から計算すると遅くとも11月25日です。通知書には自分の投票所が書かれています。"
+      },
+      "ko": {
+        "q": "투표 안내문은 언제 받나요?",
+        "a": "투표 안내문은 호적 기관이 선거인 명부에 따라 작성하고, 향·진·시·구 공소가 투표일 2일 전까지 각 가구에 나눠 줍니다. 법에 따라 계산하면 늦어도 11월 25일입니다. 안내문에는 본인의 투표소가 적혀 있습니다."
+      },
+      "fr": {
+        "q": "Quand vais-je recevoir mon avis de vote ?",
+        "a": "Les bureaux d’état civil remplissent les avis de vote à partir des listes électorales, et les bureaux de district les distribuent dans chaque foyer deux jours avant le scrutin, soit au plus tard le 25 novembre selon le calcul légal. L’avis indique votre bureau de vote."
+      },
+      "es": {
+        "q": "¿Cuándo recibiré mi aviso de votación?",
+        "a": "Las oficinas de registro civil rellenan los avisos a partir del censo electoral y las oficinas de distrito los reparten en cada hogar dos días antes de la votación, es decir, a más tardar el 25 de noviembre según el cómputo legal. El aviso indica tu lugar de votación."
       }
     },
     {

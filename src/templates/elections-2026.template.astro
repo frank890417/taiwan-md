@@ -137,11 +137,11 @@ const officialResourceUrls = {
 const electionCopy: Record<string, ElectionCopy> = {
   'zh-TW': {
     meta: {
+      // 2026-11-17：標題直接回答三大搜尋意圖（日期、候選人、公報／投票所），前段保留「台灣」對上「台灣選舉 2026」
       title:
-        // 前段補「台灣」對上主查詢「台灣選舉 2026」（2026-11-04 evolve）
-        '台灣 2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票',
+        '台灣 2026 九合一選舉：11/28 投票、各縣市候選人、選舉公報 11/25 前送達、投票所查詢',
       description:
-        '2026 九合一選舉在 11 月 28 日（週六）上午 8 點到下午 4 點投票。這頁整理 22 個縣市長選區、81 位候選人的名單，告訴你投票要帶國民身分證、去哪裡投，也說明同一天舉行的全國性公投第 22 案。每項資料都附中選會或法規來源，不放民調、不背書任何候選人。',
+        '2026 九合一選舉 11 月 28 日（六）上午 8 點到下午 4 點投票。22 縣市長候選人名冊與地圖；選舉公報和投票通知單最晚 11/25 送到；投票所可用中選會「投開票所查詢」，戶政司 11/23 起也開放個人查詢。每項都附官方來源，不放民調、不背書任何候選人。',
     },
     hero: {
       eyebrow: '🗳️ 中華民國 115 年地方公職人員選舉',
@@ -388,9 +388,9 @@ const electionCopy: Record<string, ElectionCopy> = {
   en: {
     meta: {
       title:
-        '2026 Taiwan Local Elections: Nov 28 Voting Day, Mayoral Candidates, How to Vote',
+        'Taiwan 2026 Local Elections: Vote Nov 28, Candidates, Gazette by Nov 25, Polling Stations',
       description:
-        'Taiwan votes Saturday, November 28, 2026, 8 a.m. to 4 p.m. Candidates in 22 mayoral races, what to bring (your National ID card), and the same-day referendum.',
+        'Taiwan votes Saturday, November 28, 2026, 8 a.m. to 4 p.m. Mayoral candidates in all 22 cities and counties on a map, the election gazette and voting notice arriving by November 25, and official polling station lookups. Every fact cites an official source; no polls.',
     },
     hero: {
       eyebrow:
@@ -659,9 +659,10 @@ const electionCopy: Record<string, ElectionCopy> = {
   },
   ja: {
     meta: {
-      title: '2026 台湾統一地方選挙：11/28 投票日・県市長候補者・投票の方法',
+      title:
+        '台湾 2026 統一地方選挙（九合一）：11/28投票・県市別の候補者・公報は11/25までに配達・投票所の調べ方',
       description:
-        '2026年11月28日（土）午前8時から午後4時まで投票。22の県市長選挙区の候補者一覧、投票に持っていくもの（国民身分証）と投票所のルール、同じ日に行われる全国公民投票第22案を、中央選挙委員会の出典つきでまとめました。世論調査は載せていません。',
+        '2026年11月28日（土）午前8時〜午後4時に投票。22県市の首長候補者を地図と名簿で紹介し、選挙公報と投票通知書は11月25日までに配達、投票所は中央選挙委員会の検索で調べられます。すべて公式の出典つきで、世論調査は載せていません。',
     },
     hero: {
       eyebrow: '🗳️ 中華民国 2026年地方公職人員選挙',
@@ -914,9 +915,10 @@ const electionCopy: Record<string, ElectionCopy> = {
   },
   ko: {
     meta: {
-      title: '2026 대만 지방선거: 11/28 투표일, 시장·현장 후보, 투표 방법',
+      title:
+        '2026 대만 지방선거: 11/28 투표, 현·시별 후보, 선거공보 11/25까지 도착, 투표소 찾기',
       description:
-        '2026년 11월 28일(토) 오전 8시~오후 4시, 대만은 아홉 종류의 지방 공직을 같은 날 선출하고 원전 국민투표도 함께 치릅니다. 22개 시·현장 선거구 후보 명단과 투표 방법을 정리했습니다. 여론조사나 후보 지지는 하지 않습니다.',
+        '2026년 11월 28일(토) 오전 8시~오후 4시 투표. 22개 현·시 단체장 후보를 지도와 명부로 정리했고, 선거공보와 투표 안내문은 11월 25일까지 도착하며, 투표소는 중앙선거위원회 검색으로 찾을 수 있습니다. 모든 내용에 공식 출처가 있으며 여론조사는 싣지 않습니다.',
     },
     hero: {
       eyebrow: '🗳️ 중화민국 2026년 지방공직자 선거',
@@ -1171,9 +1173,9 @@ const electionCopy: Record<string, ElectionCopy> = {
   fr: {
     meta: {
       title:
-        'Élections locales 2026 à Taïwan : vote le 28/11, candidats aux mairies, comment voter',
+        'Élections locales 2026 à Taïwan : vote le 28/11, candidats, bulletin avant le 25/11, bureaux de vote',
       description:
-        'Le samedi 28 novembre 2026, de 8 h à 16 h, Taïwan élit neuf catégories de fonctions locales et tient le même jour un référendum sur le nucléaire. Liste des candidats dans les 22 circonscriptions de maires et de magistrats, et mode d’emploi du vote. Ni sondages ni soutien à un candidat.',
+        'Vote le samedi 28 novembre 2026, de 8 h à 16 h. Les candidats des 22 villes et comtés sur une carte, le bulletin officiel et l’avis de vote livrés au plus tard le 25 novembre, et les recherches officielles de bureau de vote. Chaque fait cite une source officielle ; pas de sondages.',
     },
     hero: {
       eyebrow:
@@ -1449,9 +1451,9 @@ const electionCopy: Record<string, ElectionCopy> = {
   es: {
     meta: {
       title:
-        'Elecciones locales 2026 en Taiwán: votación el 28/11, candidatos a alcaldía, cómo votar',
+        'Elecciones locales 2026 en Taiwán: votación el 28/11, candidatos, gaceta antes del 25/11, lugares de votación',
       description:
-        'El sábado 28 de noviembre de 2026, de 8:00 a 16:00, Taiwán elige nueve tipos de cargos locales y celebra el mismo día un referéndum sobre la energía nuclear. Candidatos en las 22 circunscripciones de alcaldes y magistrados, y cómo votar. Sin encuestas ni apoyo a candidatos.',
+        'Se vota el sábado 28 de noviembre de 2026, de 8:00 a 16:00. Los candidatos de las 22 ciudades y condados en un mapa, la gaceta electoral y el aviso de votación a más tardar el 25 de noviembre, y las consultas oficiales del lugar de votación. Cada dato cita una fuente oficial; sin encuestas.',
     },
     hero: {
       eyebrow:
@@ -1736,6 +1738,8 @@ type UpLang = string;
 type LinkKind =
   | 'announcement'
   | 'law'
+  | 'lawRules'
+  | 'voteSearch'
   | 'idRules'
   | 'pollingPlaces'
   | 'bulletin'
@@ -2058,6 +2062,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: '中選會選舉公告',
       law: '公職人員選舉罷免法',
+      lawRules: '公職人員選舉罷免法施行細則',
+      voteSearch: '中選會投開票所查詢',
       idRules: '防範選舉人重複投票或冒領選舉票辦法',
       pollingPlaces: '中選會投票所公告',
       bulletin: '選舉及公民投票公報網站',
@@ -2215,6 +2221,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: 'CEC election announcement',
       law: 'Civil Servants Election and Recall Act',
+      lawRules: 'Enforcement Rules of the Election and Recall Act',
+      voteSearch: 'CEC polling station search',
       idRules: 'CEC rules against duplicate voting and ballot fraud',
       pollingPlaces: 'CEC polling station notice',
       bulletin: 'CEC election and referendum bulletin site',
@@ -2368,6 +2376,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: '中央選挙委員会 選挙公告',
       law: '公職人員選挙罷免法',
+      lawRules: '公職人員選挙罷免法施行細則',
+      voteSearch: '中央選挙委員会 投開票所検索',
       idRules: '重複投票・投票用紙不正受領の防止規則',
       pollingPlaces: '中央選挙委員会 投票所公告',
       bulletin: '選挙・公民投票公報サイト',
@@ -2522,6 +2532,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: '중앙선거위원회 선거 공고',
       law: '공직인원 선거파면법',
+      lawRules: '공직인원 선거파면법 시행세칙',
+      voteSearch: '중앙선거위원회 투개표소 검색',
       idRules: '중복 투표·투표용지 부정 수령 방지 규정',
       pollingPlaces: '중앙선거위원회 투표소 공고',
       bulletin: '선거·국민투표 공보 사이트',
@@ -2681,6 +2693,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: 'annonce électorale de la CEC',
       law: 'loi sur l’élection et la révocation des agents publics',
+      lawRules: 'règlement d’application de la loi électorale',
+      voteSearch: 'recherche des bureaux de vote (CEC)',
       idRules: 'règlement contre le double vote et le retrait frauduleux',
       pollingPlaces: 'avis de la CEC sur les bureaux de vote',
       bulletin: 'site des bulletins électoraux et référendaires',
@@ -2840,6 +2854,8 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     links: {
       announcement: 'anuncio electoral de la CEC',
       law: 'Ley de Elección y Revocación de Funcionarios Públicos',
+      lawRules: 'Reglamento de la Ley de Elección y Revocación',
+      voteSearch: 'búsqueda de lugares de votación (CEC)',
       idRules:
         'reglamento contra el voto duplicado y el retiro fraudulento de papeletas',
       pollingPlaces: 'aviso de la CEC sobre colegios electorales',
