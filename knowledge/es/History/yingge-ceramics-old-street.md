@@ -53,7 +53,7 @@ La línea de metro San-ying de Nuevo Taipéi se inaugurará oficialmente el 30 d
 
 ### Inauguración del Museo de Arte de Nuevo Taipéi: Un nuevo hito artístico
 
-En abril de 2025, se inaugurará oficialmente el Museo de Arte de Nuevo Taipéi (NTCAM), situado en la nueva zona de San-ying, donde convergen los ríos Yingge y Dahan. Diseñado por el reconocido arquitecto Yao Jen-hsi, con el concepto de un «museo de arte moderno entre cañaverales», este edificio se convierte en un nuevo referente artístico para la región de Gran Taipéi. El museo combina exposiciones, espectáculos de mapping y espacios artísticos infantiles, integrándose con el Museo de la Cerámica de Yingge y la calle antigua para formar el «Corredor Cultural de San-ying»[^11]. Aunque al principio hubo debates sobre su apodo de «museo de mosquitos», su potencial se liberará progresivamente con la llegada del metro[^1able].
+En abril de 2025, se inaugurará oficialmente el Museo de Arte de Nuevo Taipéi (NTCAM), situado en la nueva zona de San-ying, donde convergen los ríos Yingge y Dahan. Diseñado por el reconocido arquitecto Yao Jen-hsi, con el concepto de un «museo de arte moderno entre cañaverales», este edificio se convierte en un nuevo referente artístico para la región de Gran Taipéi. El museo combina exposiciones, espectáculos de mapping y espacios artísticos infantiles, integrándose con el Museo de la Cerámica de Yingge y la calle antigua para formar el «Corredor Cultural de San-ying»[^11]. Aunque al principio hubo debates sobre su apodo de «museo de mosquitos», su potencial se liberará progresivamente con la llegada del metro[^12].
 
 ### Día de Puertas Abiertas de la Región: La revolución suave de los herederos
 

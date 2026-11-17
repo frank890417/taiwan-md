@@ -48,7 +48,7 @@ El nombre "Daptoper" combina "Dapt" y "Laptop", simbolizando la relación simbi�
 
 ### El imperio comunitario y el incidente de "Daptoper Shaun"
 
-Además de las plataformas de video, Chih-hsuan Zhou gestiona una enorme comunidad en Discord: el "Ejército de Daptoper" (有感筆電軍團).[^^8] Este espacio funciona como laboratorio para interactuar con su audiencia, probar contenidos nuevos y administrar la comunidad; el chat de fans es solo la función más superficial.
+Además de las plataformas de video, Chih-hsuan Zhou gestiona una enorme comunidad en Discord: el "Ejército de Daptoper" (有感筆電軍團).[^8] Este espacio funciona como laboratorio para interactuar con su audiencia, probar contenidos nuevos y administrar la comunidad; el chat de fans es solo la función más superficial.
 
 Sin embargo, el camino hacia el millón de suscriptores no estuvo exento de turbulencias. Se vio envuelto en el incidente de "Daptoper Shaun" (有感肖恩), un escándalo público por uso no autorizado de imágenes, tras acusar abiertamente a otro creador, Shaun, de haber robado la miniatura de uno de sus videos.[^9] El episodio provocó un enorme terremoto en la comunidad de Roblox y reveló ante el público la sensibilidad de los creadores digitales respecto a la "originalidad" y los "derechos de autor". Aunque la controversia se resolvió tras diversas discusiones, se convirtió en una lección crucial de su carrera sobre comunicación comunitaria y gestión de crisis.
 

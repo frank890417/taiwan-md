@@ -70,7 +70,7 @@ En la 15.ª edición (2004), Xie Yuwei ganó el primer premio a Mejor Cantante e
 
 ### 2007: el rechazo de Lin Shengxiang — la declaración de política más contundente
 
-En la 18.ª edición de los Golden Melody Awards (2007), Lin Shengxiang ganó simultáneamente los premios a "Mejor Cantante en Lengua Hakka" y "Mejor Álbum en Lengua Hakka" con _Zhongshu_ (_Plantar árboles_). En el escenario, rechazó ambos premios, donó el dinero y declaró públicamente: **la música debería clasificarse por género; clasificarla por idioma es invertir el orden de las cosas.** Preguntó: "¿por qué el premio al Mejor Productor puede ser multilingüe, pero el de álbum no?"[^^6]
+En la 18.ª edición de los Golden Melody Awards (2007), Lin Shengxiang ganó simultáneamente los premios a "Mejor Cantante en Lengua Hakka" y "Mejor Álbum en Lengua Hakka" con _Zhongshu_ (_Plantar árboles_). En el escenario, rechazó ambos premios, donó el dinero y declaró públicamente: **la música debería clasificarse por género; clasificarla por idioma es invertir el orden de las cosas.** Preguntó: "¿por qué el premio al Mejor Productor puede ser multilingüe, pero el de álbum no?"[^6]
 
 Este episodio desató un debate abierto sobre el sistema de clasificación lingüística de los Golden Melody Awards y condujo directamente a la creación, en 2010, de los **Golden Indie Music Awards** (Premios Golden Indie de Creación Musical) por parte del Ministerio de Cultura, que sustituyeron la clasificación por idioma por categorías basadas en género: rock, folk, hip-hop, electrónica, jazz, entre otros. En 2017, los Golden Melody Awards añadieron el premio al Álbum del Año, sin distinción de idioma, lo que puede interpretarse como una respuesta parcial a la declaración de Lin Shengxiang.
 

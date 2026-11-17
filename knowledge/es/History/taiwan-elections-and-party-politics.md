@@ -98,7 +98,7 @@ La historia partidista de Taiwán no se reduce a un "sistema bipartidista". Es u
 
 Los conflictos internos de línea dentro del Kuomintang estallaron en la década de 1990. En 1993, la "Nueva Conexión del Kuomintang", descontenta con la dirección de "localización" de Lee Teng-hui, abandonó el partido y fundó el **Nuevo Partido**. En 2000, tras su derrota electoral, Song Chuyu estableció el **Partido Primero el Pueblo**. En 2001, Lee Teng-hui, expulsado del Kuomintang, apoyó la fundación de la **Unión por la Solidaridad de Taiwán**.[^12]
 
-El DPP tampoco estuvo exento de fisuras. En 2015, la energía del Movimiento del Girasol se canalizó en el **Nuevo Poder**, que abogaba por una línea de identidad taiwanesa más radical que la del DPP. En 2019, el alcalde de Taipéi Ko Wen-je fundó por su cuenta el **Partido del Pueblo de Taiwán**, intentando una tercera vía "más allá del azul y el verde".[^^13]
+El DPP tampoco estuvo exento de fisuras. En 2015, la energía del Movimiento del Girasol se canalizó en el **Nuevo Poder**, que abogaba por una línea de identidad taiwanesa más radical que la del DPP. En 2019, el alcalde de Taipéi Ko Wen-je fundó por su cuenta el **Partido del Pueblo de Taiwán**, intentando una tercera vía "más allá del azul y el verde".[^13]
 
 Para 2024, el mapa partidista de Taiwán se había configurado en tres grandes fuerzas: DPP (verde), Kuomintang (azul) y Partido del Pueblo de Taiwán (blanco). Pero la historia nos enseña que este mapa puede volver a fragmentarse en cualquier momento.
 

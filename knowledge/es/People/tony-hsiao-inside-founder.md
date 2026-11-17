@@ -99,7 +99,7 @@ En mayo de 2023, medio año después del lanzamiento de ChatGPT, iCook estrenó 
 
 Dice: «Soy un optimista tecnológico, por supuesto que creo que la tecnología hace nuestra vida más rica y cómoda». [^wazaiii]
 
-También dice: «El mando no está en nuestras manos, así que preocuparse no sirve; yo tiendo a no preocuparme». [^wazaiiii]
+También dice: «El mando no está en nuestras manos, así que preocuparse no sirve; yo tiendo a no preocuparme». [^wazaiii]
 
 Esa es su postura constante ante cada oleada tecnológica: observar, probar y luego decirle a todos que no se angustien demasiado. Desde la era de las criptomonedas hasta la era de la IA, la actitud es la misma.
 

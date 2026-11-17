@@ -98,7 +98,7 @@ Y también:
 
 > «Una persona puede llevar múltiples etiquetas al mismo tiempo; no hace falta que la definan solo una o dos.»[^29]
 
-El 12 de diciembre de 2025, Mavis Fan & 100% Band publicaron _Passerby_ (過客) —16 años después del álbum anterior, octavo álbum de su carrera, y obra conmemorativa de su 30.º aniversario desde el debut[^^30]. Esa misma Nochevieja, en Taitung, se unió a la cantante Chihsiu (持修), 18 años más joven que ella, para interpretar una versión adaptada de «Oxygen» (氧氣) —Chihsiu confesó después en una entrevista que no sabía quién era Mavis Fan hasta poco antes de la colaboración.
+El 12 de diciembre de 2025, Mavis Fan & 100% Band publicaron _Passerby_ (過客) —16 años después del álbum anterior, octavo álbum de su carrera, y obra conmemorativa de su 30.º aniversario desde el debut[^30]. Esa misma Nochevieja, en Taitung, se unió a la cantante Chihsiu (持修), 18 años más joven que ella, para interpretar una versión adaptada de «Oxygen» (氧氣) —Chihsiu confesó después en una entrevista que no sabía quién era Mavis Fan hasta poco antes de la colaboración.
 
 29 años exactos desde aquella pequeña bruja de coleta doble y vestido rojo de «Canción de la salud» en 1996.
 
