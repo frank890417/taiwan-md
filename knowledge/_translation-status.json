@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T02:23:07+08:00",
-    "zhCommitHead": "9bc18543c",
+    "lastUpdated": "2026-11-18T02:23:39+08:00",
+    "zhCommitHead": "311815704",
     "totalZh": 1186,
     "activeLanguages": [
       "en",
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1186,
-        "fresh": 612,
+        "fresh": 613,
         "stale": 67,
-        "metadata_stale": 479,
+        "metadata_stale": 478,
         "missing": 28,
         "orphan": 0
       }
@@ -165697,20 +165697,18 @@
         "de": {
           "path": "de/People/charles-le-gendre.md",
           "translatedFrom": "People/李仙得.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:b35bf2bd112055a5",
           "sourceBodyHash": "sha256:bbb48d4bf913e4a0",
-          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translatedAt": "2026-11-17T18:14:51.057807+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 19974,
+          "bytes": 20578,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

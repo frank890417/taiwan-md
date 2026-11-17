@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:27+08:00'
+translatedAt: '2026-11-17T17:32:52.957696+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Jahr 1981 gab es in der Gegend von Nanpingai und Roosevelt Road in Taipeh 48 Wiederholungsprüfzentren mit über 100.000 Studenten; im Jahr 2023 sind nur noch 3 vorhanden, mit etwa 2.500 Personen. Taiwan hat 30 Jahre Bildungsreform benötigt, um das „Einmal-Prüfung-für-das-Leben“-System zu durchbrechen; die Wiederholungsprüfungen sind verschwunden, aber die Nachhilfestudien nicht: Fünf Jahre nach der Einführung des neuen Lehrplans gab es landesweit 960 mehr private Nachhilfestudien. Hinter diesem Kreislauf steht das wiederholte Ringen einer Insel um die Definition von „Gerechtigkeit“.

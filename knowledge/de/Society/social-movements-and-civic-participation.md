@@ -1,16 +1,16 @@
 ---
-title: 'Soziale Bewegungen und bürgerschaftliches Engagement'
+title: 'Soziale Bewegungen und Bürgerbeteiligung'
 description: 'Von der Bewegung zur Aufhebung des Kriegsrechts über die Wild-Lily-Studentenbewegung bis hin zur Sonnenblumenbewegung und der Legalisierung der gleichgeschlechtlichen Ehe: Die taiwanische Gesellschaft treibt die Demokratisierung durch friedliche, rationale und generationenübergreifende Prozesse voran.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'Soziale Bewegungen',
-    'bürgerschaftliches Engagement',
+    'Bürgerbeteiligung',
     'Demokratie',
     'Wild-Lily-Studentenbewegung',
     'Sonnenblumenbewegung',
-    'soziale Reformen',
+    'Sozialreform',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
@@ -19,20 +19,22 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '2ad8c8cc2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-15T12:43:12+08:00'
+translatedAt: '2026-11-18T00:52:56+08:00'
 ---
 
-# Soziale Bewegungen und bürgerschaftliches Engagement
+# Soziale Bewegungen und Bürgerbeteiligung
 
 ## 30-Sekunden-Überblick
 
-Taiwan ist eine Gesellschaft mit einer aktiven Protestkultur. Von der Bewegung zur Aufhebung des Kriegsrechts in den 1980er Jahren über die Wild-Lily-Studentenbewegung (野百合學運) von 1990 und die Sonnenblumenbewegung (太陽花運動) von 2014 bis hin zur Legalisierung der gleichgeschlechtlichen Ehe im Jahr 2019 – soziale Bewegungen waren stets eine Schlüsselforce für die Demokratisierung und den gesellschaftlichen Fortschritt Taiwans. Die taiwanischen sozialen Bewegungen zeichnen sich durch Friedfertigkeit, Rationalität, Generationenübergreifung und eine breite Themenvielfalt aus, was die Reife und Vitalität der Zivilgesellschaft widerspiegelt.
+Taiwan ist eine Gesellschaft mit einer aktiven sozialen Bewegung. Von der Bewegung zur Aufhebung des Kriegsrechts in den 1980er Jahren über die Wild-Lily-Studentenbewegung (野百合學運) von 1990 und die Sonnenblumenbewegung (太陽花運動) von 2014 bis hin zur Legalisierung der gleichgeschlechtlichen Ehe im Jahr 2019 – soziale Bewegungen waren stets eine Schlüsselkraft bei der Förderung der Demokratisierung und des gesellschaftlichen Fortschritts in Taiwan. Die sozialen Bewegungen Taiwans zeichnen sich durch Friedfertigkeit, Rationalität, Generationenübergreifung und eine breite Themenvielfalt aus, was die Reife und Vitalität der Zivilgesellschaft widerspiegelt.
 
-Diese Bewegungen erstrecken sich über verschiedene Bereiche wie Politik, Umweltschutz, Arbeitnehmerrechte und Geschlechtergerechtigkeit. Sie traten in unterschiedlichen Epochen in verschiedenen Formen auf, hinterließen jedoch alle konkrete institutionelle Spuren im demokratischen Prozess Taiwans.
+Diese Bewegungen erstrecken sich über verschiedene Bereiche wie Politik, Umweltschutz, Arbeitnehmerrechte und Genderfragen. Sie traten in unterschiedlichen Jahrzehnten in verschiedenen Formen auf, hinterließen jedoch alle konkrete institutionelle Spuren im demokratischen Prozess Taiwans.
 
 Die meisten großen sozialen Bewegungen in Taiwan verlaufen friedlich, doch es gibt Ausnahmen: Die Bauernbewegung vom 20. Mai 1988 endete in heftigen Zusammenstößen zwischen Polizei und Bürgern, bei denen über 130 Personen verhaftet wurden[^7].
 
@@ -40,51 +42,51 @@ Die meisten großen sozialen Bewegungen in Taiwan verlaufen friedlich, doch es g
 
 ## Warum dies wichtig ist
 
-Die Erfahrungen der sozialen Bewegungen in Taiwan zeigen die verschiedenen Wege des bürgerschaftlichen politischen Engagements in einer demokratischen Gesellschaft auf. Im Gegensatz zu den etablierten Demokratien des Westens entwickelten sich die sozialen Bewegungen in Taiwan parallel zum Demokratisierungsprozess – sie sind sowohl Produkt als auch Motor einer vertieften Demokratisierung.
+Die Erfahrungen der sozialen Bewegungen in Taiwan zeigen die verschiedenen Wege der politischen Teilhabe in einer demokratischen Gesellschaft auf. Im Gegensatz zu den reifen Demokratien des Westens entwickelten sich die sozialen Bewegungen in Taiwan schrittweise während des Demokratisierungsprozesses; sie sind sowohl ein Produkt der Demokratisierung als auch ein Motor für deren Vertiefung.
 
-Für die internationale Gemeinschaft bieten Taiwans Erfahrungen ein konkretes Fallbeispiel dafür, „wie eine demokratische Transformation im ostasiatischen Kontext realisiert werden kann“. Insbesondere geht es darum, wie politische Reformen vorangetrieben werden können, während gleichzeitig die soziale Stabilität gewahrt bleibt, und wie das Volk durch bürgerschaftliches Engagement die Regierung kontrolliert. Auf diese Frage gibt es keine Lehrbuchantwort; der Suchprozess Taiwans selbst ist das Fallbeispiel.
+Für die internationale Gemeinschaft bieten Taiwans Erfahrungen konkrete Fallstudien dazu, „wie eine demokratische Transformation im ostasiatischen Kontext realisiert werden kann“. Insbesondere geht es darum, wie politische Reformen vorangetrieben werden können, während gleichzeitig die soziale Stabilität gewahrt bleibt, und wie die Regierung durch Bürgerbeteiligung kontrolliert werden kann. Auf diese Frage gibt es keine Lehrbuchantwort; der Suchprozess Taiwans selbst ist das Fallbeispiel.
 
-In einer globalen Welle von Desinformation und demokratischem Rückschritt erfährt auch die Resilienz der taiwanischen Zivilgesellschaft internationale Aufmerksamkeit durch die Forschung.
+In einer globalen Welle von Desinformation und demokratischem Rückschritt erfährt auch die Resilienz der taiwanischen Zivilgesellschaft internationale Aufmerksamkeit in der Forschung.
 
 ## Historischer Kontext und Entwicklungsphasen
 
 ### Oppositionelle Bewegungen während der autoritären Ära (1949–1987)
 
-Obwohl der politische Raum während des Kriegsrechts stark eingeschränkt war, gab es dennoch vereinzelte Proteste:
+Obwohl der politische Raum während des Kriegsrechts eingeschränkt war, gab es dennoch vereinzelte Protestaktivitäten:
 
 **Früher Widerstand:**
 
-- **Zhongli-Ereignis (1977):** Massenproteste infolge von Wahlbetrug.
-- **Meilidao-Ereignis (美麗島事件, 1979):** Am 10. Dezember 1979 wurde eine politische Versammlung von Oppositionellen in Kaohsiung durch Militär und Polizei niedergeschlagen, woraufhin zahlreiche Aktivisten der Demokratiebewegung verhaftet wurden.
-- **Campus-Demokratiebewegung:** Studenten kämpften für Autonomie und Meinungsfreiheit an den Universitäten.
+- **Zhongli-Ereignis (1977):** Massenproteste infolge von Wahlfälschungen.
+- **Meilidao-Ereignis (1979):** Am 10. Dezember 1979 fand in Kaohsiung eine politische Versammlung von Personen außerhalb der Regierungspartei statt, die von Militär und Polizei niedergeschlagen wurde; zahlreiche Aktivisten der Demokratiebewegung wurden daraufhin verhaftet.
+- **Campus-Demokratiebewegung:** Studenten kämpften für Autonomie und Meinungsfreiheit.
 
 Diese Bewegungen sammelten organisatorische Erfahrungen und gesellschaftliche Energie für die spätere Demokratisierung.
 
 ### Ausbruch sozialer Bewegungen um die Zeit der Kriegsrechtsaufhebung (1986–1990)
 
-Nach der Aufhebung des Kriegsrechts entlud sich die unterdrückte gesellschaftliche Energie, und Protestbewegungen zu verschiedenen Themen entstanden nacheinander:
+Um die Zeit der Aufhebung des Kriegsrechts herum entlud sich die unterdrückte gesellschaftliche Energie, und Protestbewegungen zu verschiedenen Themen traten nacheinander auf:
 
 **Umweltschutzbewegung:**
 
-- **Anti-DuPont-Bewegung (1986–1987):** Bewohner von Lukang (彰化鹿港) protestierten gegen die Ansiedlung einer Fabrik des US-Unternehmens DuPont; DuPont gab im März 1987 den Rückzug des Projekts bekannt[^4].
-- **Anti-Atomkraft-Bewegung:** Forderung nach dem Baustopp des Kernkraftwerks Nr. 4.
+- **Anti-DuPont-Bewegung (1986–1987):** Bewohner von Lukang in Changhua protestierten gegen die Ansiedlung einer Fabrik des US-Unternehmens DuPont; DuPont gab im März 1987 den Abbruch des Plans bekannt[^4].
+- **Anti-Atomkraft-Bewegung:** Forderung nach dem Stopp des Baus des Kernkraftwerks Nr. 4.
 
 **Arbeiterbewegung:**
 
-- **Streik beim Taoyuan Busunternehmen (1988):** Ein Streik der Gewerkschaft des Taoyuan Bus-Unternehmens im Februar löste eine Welle von Gewerkschaftsgründungen und Streiks bei Busunternehmen in ganz dem Land aus[^6].
+- **Streik beim Taoyuan Busunternehmen (1988):** Im Februar führte ein Streik der Gewerkschaft des Taoyuan Busunternehmens zu einer Welle von Gewerkschaftsgründungen und Streiks bei Busunternehmen im ganzen Land[^6].
 - **Arbeitnehmerrechte:** Kampf um die drei Grundrechte der Arbeitnehmer und Arbeitsplatzsicherheit.
 
 **Bauernbewegung:**
 
 - **520-Bauernbewegung (1988):** Über 5.000 Bauern aus verschiedenen Regionen protestierten in Taipeh; mehr als 130 Personen wurden verhaftet[^7].
-- **Widerstand gegen die Ausweitung der Importe von US-Agrarprodukten:** Damals forderte die USA die Öffnung des Marktes für Produkte wie Zitrusfrüchte und Puten[^7].
+- **Widerstand gegen die Ausweitung der Importe von US-Agrarprodukten:** Zu dieser Zeit forderte die USA die Öffnung für den Import von Produkten wie Zitrusfrüchten und Puten[^7].
 
 ## Wichtige Fallbeispiele sozialer Bewegungen
 
 ### Wild-Lily-Studentenbewegung (März 1990)
 
-**Hintergrund:** Massive Reformen des Parlaments und des politischen Systems.
-**Ausmaß:** Etwa 5.000 bis 6.000 beteiligte Studenten (Höchststand).
+**Hintergrund:** Großangelegte Reformen des Parlaments und des politischen Systems.
+**Ausmaß:** Etwa 5.000–6.000 beteiligte Studenten (auf dem Höhepunkt).
 **Ort:** Platz des Chiang Kai-shek Memorial Hall (heute Liberty Square).
 
 Die Wild-Lily-Studentenbewegung war der größte studentische Protest seit der Verlegung der Regierung nach Taiwan und hatte einen bedeutenden Einfluss auf die politische Demokratisierung. [^1]
@@ -98,41 +100,41 @@ Die Wild-Lily-Studentenbewegung war der größte studentische Protest seit der V
 
 **Merkmale der Bewegung:**
 
-- **Friedfertigkeit und Rationalität:** Betonung gewaltfreier Proteste und Aufrechterhaltung der Ordnung vor Ort.
+- **Friedfertigkeit und Rationalität:** Betonung des gewaltfreien Widerstands und Aufrechterhaltung der Ordnung vor Ort.
 - **Medienstrategie:** Effektive Nutzung der Medien zur Verbreitung der Forderungen.
 - **Interuniversitäre Allianz:** Gemeinsames Handeln von Studenten landesweit.
-- **Beteiligung von Intellektuellen:** Öffentliche Unterstützung durch Professoren und Wissenschaftler.
+- **Beteiligung von Intellektuellen:** Professoren und Wissenschaftler erklärten öffentlich ihre Unterstützung.
 
 **Historische Bedeutung:**
-Die Bewegung trieb die Reform des politischen Systems direkt voran und beschleunigte den Demokratisierungsprozess Taiwans. Nach Ende der Bewegung versprach die Regierung Reformen, woraufhin großangelegte Parlamentswahlen stattfanden und demokratische Institutionen wie die Direktwahl des Präsidenten etabliert wurden.
+Die Wild-Lily-Bewegung trieb die Reform des politischen Systems direkt voran und beschleunigte den Demokratisierungsprozess Taiwans. Nach Ende der Bewegung versprach die Regierung Reformen, was zu großangelegten Parlamentswahlen sowie zur Etablierung demokratischer Institutionen wie der Direktwahl des Präsidenten führte.
 
 ### Sonnenblumenbewegung (März 2014)
 
-**Hintergrund:** Protest gegen die intransparente Verhandlung des Cross-Strait Service Trade Agreement (CSSTA).
+**Hintergrund:** Protest gegen die Intransparenz des Cross-Strait Service Trade Agreement (CSSTA).
 **Ausmaß:** Versammlung auf der Ketagalan Boulevard am 30. März; Veranstalter schätzten etwa 500.000 Menschen, die Polizei etwa 116.000[^2].
-**Ort:** Sitzungssaal des Legislativ-Yuans, Exekutiv-Yuan und Liberty Square.
+**Ort:** Sitzungssaal des Legislativ-Yuans, Exekutiv-Yuan, Liberty Square.
 
-Die Sonnenblumenbewegung zeigte das Interesse einer neuen Generation an der Qualität der Demokratie und der taiwanischen Identität.
+Die Sonnenblumenbewegung zeigte das Interesse der neuen Generation an der Qualität der Demokratie und der taiwanischen Identität.
 
 **Kernforderungen:**
 
 1. Rücknahme des Handelsabkommens (CSSTA).
 2. Erlass eines Gesetzes zur Überwachung der Beziehungen zwischen beiden Seiten der Taiwanstraße.
-3. Gesetzgebung vor Prüfung (Legislative zuerst, dann Review).
-4. Einberufung einer Bürgerkonferenz über die Verfassung[^8].
+3. Gesetzgebung vor Prüfung (Legislative vor Review).
+4. Einberufung einer zivilgesellschaftlichen Verfassungskonferenz[^8].
 
 **Merkmale der Bewegung:**
 
 - **Besetzung des Legislativ-Yuans:** Die erste Aktion, bei der der Sitzungssaal des Parlaments besetzt wurde.
 - **Online-Mobilisierung:** Intensive Nutzung von sozialen Medien und Livestreams.
 - **Generationenübergreifende Beteiligung:** Studenten als Hauptakteure mit Unterstützung über alle Altersgruppen hinweg.
-- **Internationale Aufmerksamkeit:** Breite Berichterstattung in internationalen Medien.
+- **Internationale Aufmerksamkeit:** Weit verbreitete Berichterstattung in internationalen Medien.
 
 **Gesellschaftliche Auswirkungen:**
 
 - **Politische Auswirkungen:** Beeinflusste die Lokalwahlen 2014 und die Präsidentschaftswahl 2016.
-- **Bürgerbewusstsein:** Steigerung des politischen Engagements der jüngeren Generationen.
-- **Demokratische Vertiefung:** Förderung von Transparenz in der Regierung und Institutionen für Bürgerbeteiligung.
+- **Bürgerbewusstsein:** Steigerung der politischen Teilhabe der jüngeren Generation.
+- **Demokratische Vertiefung:** Förderung von Transparenz in der Regierungsführung und Systemen der Bürgerbeteiligung.
 
 ### Ehegleichstellungsbewegung (2013–2019)
 
@@ -142,7 +144,7 @@ Die Sonnenblumenbewegung zeigte das Interesse einer neuen Generation an der Qual
 Nach jahrelangem Einsatz wurde Taiwan 2019 zur ersten Region in Asien, die die gleichgeschlechtliche Ehe legalisierte.
 
 **Verlauf der Bewegung:**
-Im Jahr 2013 brachten Abgeordnete Gesetzentwürfe zur Ehegleichstellung ein. Im Dezember 2016 schätzten Veranstalter etwa 200.000 bis 250.000 Menschen auf dem Ketagalan Boulevard, um die Ehegleichstellung zu unterstützen[^9], was das Thema ins nationale Rampenlicht rückte. 2017 erklärte das Verfassungsgericht durch Interpretation Nr. 748 die bestehenden Gesetze für verfassungswidrig[^5], was die rechtliche Grundlage für die Gesetzgebung schuf.
+Im Jahr 2013 brachten Abgeordnete Gesetzentwürfe zur Ehegleichstellung ein. Im Dezember 2016 schätzten Veranstalter etwa 200.000 bis 250.000 Menschen, die auf dem Ketagalan Boulevard für die gleichgeschlechtliche Ehe demonstrierten[^9], was das Thema ins nationale Rampenlicht rückte. Im Jahr 2017 erklärte das Verfassungsgericht durch Interpretation Nr. 748 die geltenden Gesetze für verfassungswidrig[^5], was die rechtliche Grundlage für die Gesetzgebung schuf.
 
 - **2018:** Die Befürworter der Ehegleichstellung scheiterten bei einem Referendum.
 - **2019:** Verabschiedung des „Gesetzes zur Durchführung der Interpretation Nr. 748 des Verfassungsgerichts“.
@@ -155,29 +157,29 @@ Im Jahr 2013 brachten Abgeordnete Gesetzentwürfe zur Ehegleichstellung ein. Im 
 - **Vielfalt der Stimmen:** Einbindung von Unterstützern mit unterschiedlichem Hintergrund.
 
 **Historische Bedeutung:**
-Taiwan wurde zur ersten Region in Asien mit legalisierter gleichgeschlechtlicher Ehe, was die progressiven Werte und den Schutz der Menschenrechte in der taiwanischen Gesellschaft demonstrierte.[^3]
+Taiwan wurde zur ersten Region in Asien, die die gleichgeschlechtliche Ehe legalisierte, was die progressiven Werte und den Schutz der Menschenrechte in der taiwanischen Gesellschaft demonstrierte.[^3]
 
 ## Entwicklung der Umweltschutzbewegung
 
-Die taiwanische Umweltschutzbewegung begann in den 1980er Jahren mit dem Widerstand gegen Umweltverschmutzung und weitete sich nach der Aufhebung des Kriegsrechts schnell zu einer zivilgesellschaftlichen Kraft aus, die Naturschutz, Anti-Atomkraft und Klimathemen umfasst.
+Die taiwanische Umweltschutzbewegung begann in den 1980er Jahren mit dem Widerstand gegen Umweltverschmutzung und weitete sich nach der Aufhebung des Kriegsrechts schnell zu einer zivilgesellschaftlichen Kraft aus, die Themen wie Naturschutz, Anti-Atomkraft und Klimaschutz umfasst.
 
-### Frühe Umweltschutzbewegungen (1980er–1990er Jahre)
+### Frühe Umweltschutzbewegung (1980er–1990er Jahre)
 
-Ab Mitte der 1980er Jahre wurden Umweltfragen zu einem der ersten Felder des zivilgesellschaftlichen Widerstands in Taiwan. Die Anti-DuPont-Bewegung der Bewohner von Lukang im Jahr 1986 führte dazu, dass DuPont im März 1987 seine Pläne für eine Fabrik in Lukang absagte – dies war der erste Fall in Taiwan, bei dem Umweltproteste zum Rückzug eines ausländischen Investors führten[^4]. Zeitgleich wurde die Anti-Atomkraft-Bewegung vorangetrieben. Ende der 1990er Jahre brachte die Bewegung zur Rettung der Xilan-Zederwälder mit einer Demonstration im Dezember 1998 den Waldschutz auf die Straße[^10].
+Ab Mitte der 1980er Jahre wurden Umweltfragen zu einem der ersten Felder des zivilgesellschaftlichen Widerstands in Taiwan. 1986 starteten die Bewohner von Lukang in Changhua die Anti-DuPont-Bewegung; DuPont gab im März 1987 den Abbruch des Fabrikplans in Lukang bekannt, was als der erste Fall gilt, in dem Umweltproteste dazu führten, dass ein ausländisches Unternehmen seine Investitionspläne abbrach[^4]. Zeitgleich wurde die Anti-Atomkraft-Bewegung vorangetrieben. Ende der 1990er Jahre brachte die Bewegung zur Rettung des Xilan-Zypressenwaldes mit einer Demonstration im Dezember 1998 den Waldschutz auf die Straße[^10].
 
 ### Moderne Umweltschutzbewegung
 
-Der Schwerpunkt der heutigen Umweltschutzbewegung hat sich von der Bekämpfung von Verschmutzung hin zu Klimawandel, Energiewende und Umweltgerechtigkeit verschoben. Auch die Debatten über erneuerbare Energien und die Energiepolitik im Jahr 2025 tragen die Spuren bürgerschaftlichen Engagements.
+Der Schwerpunkt der zeitgenössischen Umweltschutzbewegung hat sich von der Bekämpfung von Umweltverschmutzung hin zu Klimawandel, Energiewende und Umweltgerechtigkeit verschoben. Auch die Diskussionen über erneuerbare Energien und die Energiepolitik im Jahr 2025 tragen Spuren bürgerschaftlicher Beteiligung.
 
 ## Arbeiterbewegung und soziale Rechte
 
-Arbeitnehmerfragen gehörten zu den ersten Bereichen, in denen die Zivilgesellschaft nach der Aufhebung des Kriegsrechts mobilisierte. Die Forderungen reichten von grundlegenden Organisationsrechten bis hin zu Arbeitszeitregelungen und Mindestlöhnen und deckten die Bedürfnisse verschiedener Generationen ab.
+Arbeitnehmerfragen waren eines der ersten Felder, in denen die Zivilgesellschaft nach dem Ende des Kriegsrechts mobilisierte. Die Forderungen reichten von grundlegenden Organisationsrechten bis hin zu Arbeitszeitregelungen und Mindestlöhnen und deckten die Bedürfnisse verschiedener Generationen ab.
 
 Die praktische Umsetzung von Gewerkschaftsorganisationen und dem Streikrecht erhielt erst nach den Protestwellen der 1980er und 1990er Jahre eine gesetzliche Grundlage.
 
 ### Bewegung für Arbeitnehmerrechte
 
-Die taiwanische Arbeiterbewegung begann mit dem Kampf um grundlegende Organisationsrechte, sammelte ab Ende der 1980er Jahre Energie und führte 1988 durch den Streik beim Taoyuan Bus-Unternehmen dazu, dass Busfahrer in ganz dem Land Gewerkschaften gründeten[^6]. Wichtige Fälle sind Arbeiter in stillgelegten Fabriken, die um Abfindungen und Renten kämpften; der 101-tägige Streik der Hualong-Textilgewerkschaft im Jahr 2012 aufgrund jahrelanger Lohnrückstände[^6] sowie die Streiks von Flugbegleiterinnen nach 2016. Die Reform der Arbeitszeit war ein langwieriger Kampf: Im Dezember 2016 wurde das Arbeitsgesetz reformiert (Einführung des „einen freien Tag und einen reduzierten Arbeitstag“), und im Januar 2018 wurde es erneut angepasst, um die monatliche Überstundenobergrenze und die Pausen zwischen den Schichten zu lockern[^11].
+Die taiwanische Arbeiterbewegung begann mit dem Kampf um grundlegendste Organisationsrechte, sammelte ab Ende der 1980er Jahre Energie, wobei der Streik beim Taoyuan Busunternehmen 1988 die Gründung von Gewerkschaften bei Busunternehmen im ganzen Land auslöste[^6]. Wichtige Fälle sind Arbeiter in stillgelegten Fabriken, die um Abfindungen und Renten kämpften; der 101-tägige Streik der Hualong-Textilgewerkschaft im Jahr 2012 aufgrund jahrelanger Lohnrückstände[^6] sowie die Streiks von Flugbegleiterinnen nach 2016. Die Reform der Arbeitszeiten war ein langwieriger Prozess: Im Dezember 2016 wurde das Arbeitsgesetz reformiert und das System „ein Tag frei pro Woche, ein freier Tag pro zwei Wochen“ eingeführt; im Januar 2018 folgte eine weitere Reform zur Lockerung der monatlichen Überstundenobergrenzen und der Schichtabstände[^11].
 
 ### Wichtige Arbeiterbewegungen
 
@@ -187,138 +189,141 @@ Die taiwanische Arbeiterbewegung begann mit dem Kampf um grundlegende Organisati
 
 ## Merkmale und Modelle sozialer Bewegungen
 
-### Merkmale taiwanischer sozialer Bewegungen
+### Merkmale der taiwanischen sozialen Bewegungen
 
 **1. Friedfertigkeit und Rationalität**
-Taiwanische soziale Bewegungen nutzen meist friedliche Protestformen; heftige gewaltsame Konflikte treten seltener auf. Die Teilnehmer legen Wert auf „rationale Diskurse“ und „friedlichen Ausdruck“, was zur sozialen Stabilität beiträgt.
+Soziale Bewegungen in Taiwan nutzen meist friedliche Protestformen; heftige gewaltsame Konflikte treten seltener auf. Die Teilnehmer legen Wert auf „rationale Diskurse“ und „friedlichen Ausdruck“, was zur Aufrechterhaltung der sozialen Stabilität beiträgt.
 
 **2. Generationenübergreifung**
-Von der Wild-Lily-Generation bis zur Sonnenblumen-Generation zeigen die sozialen Bewegungen in Taiwan ein deutliches Merkmal der Weitergabe von Werten zwischen den Generationen. Die Erfahrungen und Ideale älterer Aktivisten werden an jüngere weitergegeben, was eine Kontinuität der Protestkultur schafft.
+Von der „Wild-Lily-Generation“ bis zur „Sonnenblumen-Generation“ weisen die sozialen Bewegungen in Taiwan ein deutliches Merkmal der generationenübergreifenden Weitergabe auf. Die Erfahrungen und Ideale älterer Aktivisten werden an jüngere Generationen weitergegeben, was zu einer Kontinuität der Bewegungskultur führt.
 
 **3. Vielfalt der Themen**
-Die Bewegungen decken Politik, Umweltschutz, Arbeitnehmerrechte, Geschlecht, Menschenrechte und mehr ab, was die vielfältigen Bedürfnisse der Zivilgesellschaft widerspiegelt.
+Die sozialen Bewegungen decken eine Vielzahl von Themen ab – Politik, Umweltschutz, Arbeitnehmerrechte, Gender, Menschenrechte –, was die vielfältigen Bedürfnisse und Interessen der Zivilgesellschaft widerspiegelt.
 
 **4. Merkmale des digitalen Zeitalters**
-Die neue Generation nutzt das Internet und soziale Medien intensiv für Mobilisierung, Kommunikation und Diskurs, was die Charakteristika der Bewegungen im digitalen Zeitalter unterstreicht.
+Die neue Generation nutzt das Internet und soziale Medien intensiv für Mobilisierung, Kommunikation und Diskurs, was die Charakteristika von Bewegungen im digitalen Zeitalter zeigt.
 
 ### Organisationsmodelle und Mobilisierungsstrategien
 
-**Rolle von NGOs:** Nichtregierungsorganisationen unterstützen Themen durch professionelles Advocacy und langfristige Arbeit.
-**Studentische Organisationen:** Studentenclubs bilden oft das Fundament vieler sozialer Bewegungen.
-**Interdisziplinäre Allianzen:** Verschiedene Gruppen schließen sich für spezifische Themen zusammen.
-**Medienstrategie:** Effektive Nutzung von traditionellen und neuen Medien zur Informationsverbreitung.
+**Rolle der NGOs:** Nichtregierungsorganisationen unterstützen Themen durch professionelles Advocacy und langfristige Arbeit.
+**Studentische Organisationen:** Studentenvereinigungen bilden oft das Fundament vieler sozialer Bewegungen.
+**Interdisziplinäre Allianzen:** Verschiedene Gruppen schließen sich für spezifische Themen zu Allianzen zusammen.
+**Medienstrategie:** Effektive Nutzung traditioneller und neuer Medien zur Informationsverbreitung.
 
-## Verhältnis zwischen sozialen Bewegungen und Politik
+## Beziehung zwischen sozialen Bewegungen und Politik
 
-Zwischen den sozialen Bewegungen in Taiwan und der Wahlpolitik besteht eine subtile symbiotische Beziehung: Bewegungen erzeugen thematischen Druck, Parteien absorbieren Wählerstimmen, und die Institutionen passen sich daraufhin an.
+Zwischen den sozialen Bewegungen in Taiwan und der Wahlpolitik besteht eine subtile symbiotische Beziehung: Bewegungen erzeugen Druck durch Themen, Parteien absorbieren Wählerstimmen, und die Institutionen passen sich daraufhin an.
 
 ### Einfluss auf die Politik
 
-Der Einfluss sozialer Bewegungen auf die taiwanische Politik ist kein kurzfristiges Straßenrauschen, sondern transformiert sich wiederholt in konkrete legislative und elektoralen Ergebnisse. Die Lokalwahlen 2014 nach der Sonnenblumenbewegung sowie die Mobilisierung für und gegen das Referendum zur Ehegleichstellung zeigen deutlich, wie soziale Bewegungen Parteistrategien und Wählerstrukturen beeinflussen.
+Der Einfluss sozialer Bewegungen auf die taiwanische Politik ist kein kurzer Straßenlärm, sondern transformiert sich wiederholt in konkrete Ergebnisse der Gesetzgebung und der Wahlen. Die Lokalwahlen 2014 nach der Sonnenblumenbewegung sowie die Mobilisierung für und gegen das Ehegleichstellungs-Referendum zeigen deutlich, wie soziale Bewegungen Parteistrategien und Wählerstrukturen beeinflussen.
 
 ### Institutionalisierte Beteiligung
 
-Die Bürgerbeteiligung ist zunehmend institutionalisiert worden. Die Regierung veranstaltet öffentliche Anhörungen vor wichtigen politischen Entscheidungen, und das Referendumswesen ermöglicht es den Bürgern, direkt über bestimmte Themen abzustimmen. Obwohl diese Mechanismen nicht perfekt sind, bieten sie einen formalen Kanal für Straßenproteste, um in das System einzudringen.
+Die Bürgerbeteiligung ist zunehmend institutionalisiert worden. Die Regierung veranstaltet öffentliche Anhörungen vor wichtigen politischen Entscheidungen, und das Referendumssystem ermöglicht es den Bürgern, direkt über bestimmte Themen abzustimmen. Obwohl diese Mechanismen nicht perfekt sind, bieten sie sozialen Bewegungen formelle Kanäle zur Teilhabe am System.
 
 ## Reifung der Zivilgesellschaft
 
-### Entwicklung von NGOs
+### Entwicklung der NGOs
 
-Taiwan verfügt über ein aktives Netzwerk von Nichtregierungsorganisationen in den Bereichen Menschenrechte, Umweltschutz, Geschlecht, Arbeitnehmerrechte und mehr. Organisationen wie die Taiwan Association for Human Rights, die Civil Justice Reform Foundation, die Green Citizens' Action League, die Women's Foundation, die Taiwan Alliance to Promote Sexual Rights (TAPS) und die Taiwan Labour Front bauen in ihren jeweiligen Feldern langfristige Advocacy-Kraft auf und bilden das organisatorische Fundament für soziale Bewegungen.
+Taiwan verfügt über ein aktives Netzwerk von Nichtregierungsorganisationen in Bereichen wie Menschenrechten, Umweltschutz, Gender und Arbeitnehmerrechten. Organisationen wie die Taiwan Association for Human Rights (TAHR), die Foundation for Legal Aid and Reform (FLAR), die Green Citizen Action Alliance, die Women's Foundation, die Taiwan Alliance to Promote Sexual Rights (TAPS) und die Taiwan Labour Front bauen in ihren jeweiligen Fachgebieten langfristige Advocacy-Kraft auf und bilden das organisatorische Fundament für soziale Bewegungen.
 
 ### Kultur der Bürgerbeteiligung
 
-Die Formen der Bürgerbeteiligung in Taiwan gehen über Straßenproteste hinaus. Freiwilligenkultur, Sozialunternehmen, Crowdfunding und Online-Plattformen für politische Diskussionen (wie vTaiwan) bilden gemeinsam ein Ökosystem der Bürgerbeteiligung im digitalen Zeitalter, das es mehr Menschen ermöglicht, sowohl innerhalb als auch außerhalb des Systems handlungsfähig zu sein.
+Die Formen der Bürgerbeteiligung in Taiwan gehen über Straßenproteste hinaus. Die Freiwilligenkultur, Sozialunternehmen, Crowdfunding und Online-Plattformen für politische Diskussionen (wie vTaiwan) bilden zusammen ein Ökosystem der Bürgerbeteiligung im digitalen Zeitalter, das es mehr Menschen ermöglicht, sowohl innerhalb als auch außerhalb des formalen Systems handlungsfähig zu sein.
 
 ## Herausforderungen und Reflexion
 
-Die Vitalität der taiwanischen Zivilgesellschaft ist offensichtlich, doch sie steht auch vor strukturellen Problemen, die ernst genommen werden müssen.
+Die Vitalität der taiwanischen Zivilgesellschaft ist unbestreitbar, steht jedoch vor einigen strukturellen Problemen, die ernst genommen werden müssen.
 
 ### Aktuelle Herausforderungen
 
-Die Flut von Desinformation und der „Echo-Kammer-Effekt“ führen zu einer Polarisierung der Debatten. Es gibt deutliche Diskrepanzen zwischen den Generationen darüber, was „die richtige Art der Beteiligung“ ist. Zudem zwingt die politische Blockbildung (Blau vs. Grün) einige soziale Bewegungen dazu, Partei Partei zu ergreifen, was es schwierig macht, eine überparteiliche Position beizubehalten. Die Unabhängigkeit bürgerschaftlicher Bewegungen im Spannungsfeld der Parteienpolitik bleibt eine dauerhafte Herausforderung für die taiwanische Zivilgesellschaft.
+Die Flut an Desinformation und der Effekt von „Echokammern“ führen zu einer Polarisierung der Debatten. Es gibt deutliche Diskrepanzen zwischen den Generationen darüber, was „die richtige Art der Beteiligung“ ist. Zudem zwingt die politische Blockbildung (Blau vs. Grün) einige soziale Bewegungen dazu, Parteirolle zu beziehen, was es schwierig macht, eine überparteiliche Position beizubehalten. Wie man die Unabhängigkeit bürgerschaftlicher Bewegungen im Spannungsfeld der Parteienpolitik bewahrt, bleibt eine fortwährende Herausforderung für die taiwanische Zivilgesellschaft.
 
 ### Zukünftige Entwicklung
 
-Digitale Beteiligungsplattformen, interdisziplinäre Strategieallianzen und die Vernetzung mit der internationalen Zivilgesellschaft sind mögliche Entwicklungsrichtungen. Wie das Gleichgewicht zwischen institutioneller Innovation und Straßenmobilisierung gehalten werden kann, ist noch in der Erprobung.
+Digitale Beteiligungsplattformen, interdisziplinäre strategische Allianzen und die Vernetzung mit der internationalen Zivilgesellschaft sind mögliche Entwicklungsrichtungen für die sozialen Bewegungen in Taiwan. Wie ein Gleichgewicht zwischen institutioneller Innovation und Mobilisierung auf der Straße gefunden werden kann, ist noch Gegenstand laufender Prozesse.
 
 ## Internationaler Vergleich und Besonderheiten
 
 ### Ostasiatischer Kontext
 
-Im Vergleich zu den eher introvertierten sozialen Bewegungen in Japan oder den radikaleren Protesten in Südkorea zeichnen sich die taiwanischen Bewegungen durch einen rationalen, moderaten, aber wirkungsvollen Charakter aus.
+Im Vergleich zu den eher introvertierten sozialen Bewegungen in Japan oder dem radikaleren Protest in Südkorea zeichnen sich die sozialen Bewegungen in Taiwan durch einen rationalen, moderaten, aber effektiven Charakter aus.
 
 ### Erfahrung der Demokratisierung
 
-Taiwans Erfahrungen bieten ein wichtiges Beispiel für eine „graduelle demokratische Transformation“ und zeigen, wie politische Reformen unter Wahrung der sozialen Stabilität realisiert werden können.
+Die Erfahrungen der sozialen Bewegungen in Taiwan bieten ein wichtiges Beispiel für eine „graduelle demokratische Transformation“ und zeigen, wie politische Reformen unter Wahrung der sozialen Stabilität realisiert werden können.
 
 ### Einfluss auf Hongkong
 
-Die Erfahrungen Taiwans hatten einen wichtigen Einfluss auf Bewegungen wie die Besetzung von Central oder die Umbrella-Bewegung in Hongkong und zeigten die Möglichkeiten der Praxis von Demokratie in einer chinesischsprachigen Gesellschaft auf.
+Die Erfahrungen der sozialen Bewegungen in Taiwan hatten einen wichtigen Einfluss auf Bewegungen wie die Besetzung von Central oder die Umbrella-Bewegung in Hongkong und zeigten die Möglichkeiten der Praxis von Demokratie in einer chinesischsprachigen Gesellschaft auf.
 
 ## Kulturelle Bedeutung sozialer Bewegungen
 
 ### Förderung des Bürgerbewusstseins
 
-Soziale Bewegungen sind ein wichtiger Weg der politischen Bildung. Durch die Teilnahme lernen Bürger demokratische Werte, öffentliche Teilhabe und soziale Verantwortung kennen.
+Soziale Bewegungen sind ein wichtiger Weg der politischen Bildung. Durch die Teilnahme an Bewegungen lernen Bürger demokratische Werte, öffentliche Teilhabe und soziale Verantwortung kennen.
 
 ### Debatte über gesellschaftliche Werte
 
-Soziale Bewegungen fördern die Diskussion und Reflexion über verschiedene Wertvorstellungen in der Gesellschaft und treiben so den gesellschaftlichen Fortschritt voran.
+Soziale Bewegungen fördern die Diskussion und Reflexion über unterschiedliche Wertvorstellungen in der Gesellschaft und treiben die Aktualisierung und den Fortschritt gesellschaftlicher Werte voran.
 
 ### Vertiefung der demokratischen Kultur
 
-Durch soziale Bewegungen hat die taiwanische Gesellschaft eine demokratische Kultur der „Vielfalt und des Respekts“, der „rationalen Debatte“ und des „friedlichen Ausdrucks“ geformt.
+Durch soziale Bewegungen hat die taiwanische Gesellschaft eine demokratische Kultur geprägt, die auf „Vielfalt und Respekt“, „rationalem Diskurs“ und „friedlichem Ausdruck“ basiert.
 
-### Impulse für ausländische Beobachter
+## Impulse für ausländische Beobachter
 
-**Vielfalt demokratischer Praxis:**
-Taiwans Erfahrung zeigt, dass demokratische Praxis unterschiedliche Formen und Wege haben kann und nicht zwangsläufig westliche Modelle kopieren muss.
+### Vielfalt demokratischer Praxis
 
-**Positive Funktionen sozialer Bewegungen:**
-In einer reifen Demokratie sind soziale Bewegungen eine gesunde Form der politischen Teilhabe, die es dem demokratischen System ermöglicht, sich selbst zu korrigieren und zu vertiefen.
+Taiwans Erfahrung zeigt, dass demokratische Praxis unterschiedliche Formen und Wege haben kann und nicht zwangsläufig das westliche Modell kopieren muss.
 
-**Bedeutung der Zivilgesellschaft:**
-Eine starke Zivilgesellschaft ist die wesentliche Grundlage für eine gefestigte Demokratie und erfordert langfristige kulturelle Förderung und institutionelle Unterstützung.
+### Positive Funktionen sozialer Bewegungen
+
+In einer reifen demokratischen Gesellschaft sind soziale Bewegungen eine gesunde Form der politischen Teilhabe, die es dem demokratischen System ermöglicht, sich selbst zu korrigieren und zu vertiefen.
+
+### Bedeutung der Zivilgesellschaft
+
+Eine starke Zivilgesellschaft ist eine wesentliche Grundlage für die Konsolidierung der Demokratie; sie erfordert langfristige kulturelle Förderung und institutionelle Unterstützung.
 
 ## Weiterführende Gedanken
 
-Die Erfahrungen Taiwans zeigen, wie eine Gesellschaft durch bürgerschaftliches Engagement Selbstreform und Fortschritt realisieren kann. Diese Erfahrung hat tiefe Referenzwerte für das Verständnis der Funktionsweise moderner demokratischer Gesellschaften und für die Suche nach Konsens in einer pluralistischen Gesellschaft.
+Die Erfahrungen der sozialen Bewegungen in Taiwan zeigen, wie eine Gesellschaft durch Bürgerbeteiligung Selbstreform und Fortschritt realisieren kann. Diese Erfahrung hat tiefe Referenzwerte für das Verständnis der Funktionsweise moderner demokratischer Gesellschaften und für die Suche nach Konsens in einer pluralistischen Gesellschaft.
 
-In Zukunft stehen die sozialen Bewegungen Taiwans vor neuen Herausforderungen wie der Digitalisierung, der Globalisierung und der politischen Polarisierung. Wie sie in einem sich wandelnden Umfeld ihre Überzeugungskraft und Legitimität bewahren können, bleibt eine langfristige Beobachtung wert.
+In Zukunft stehen die sozialen Bewegungen Taiwans vor neuen Herausforderungen wie dem digitalen Zeitalter, der Globalisierung und der politischen Polarisierung. Es bleibt langfristig zu beobachten, wie sie ihre Überzeugungskraft und Legitimität in einem sich wandelnden Umfeld bewahren können.
 
 **Weiterführende Literatur:**
 
-- [Reporter: Zehn Jahre, um investigativen Journalismus von einem kommerziellen Produkt zu einem öffentlichen Gut zu machen](/society/報導者) — Seit 2015 nutzt die taiwanische Zivilgesellschaft monatliche Abbuchungen durch Fremde, um investigativen Journalismus als öffentliches Gut zu sichern.
-- [justfont und die Entwicklung taiwanischer Schriftarten: Eine kleine Geschichte der Typografie von Huakang 25 bis Jinxuan 76](/technology/justfont與台灣字體發展) — Ein weiteres Beispiel für Crowdfunding, das kulturelle Wahrnehmung verändert hat, betrachtet aus der Perspektive der digitalen Infrastruktur der Zivilgesellschaft.
-- [Unterseekabel: Oben auf dem Siliziumschild sichtbar, unter der Lebensader unsichtbar](/technology/海底電纜) — Die Gesetzgebung zum Unterseekabel und die Mobilisierung der Zivilgesellschaft zeigen, wie Druck auf die nationale Sicherheitsinfrastruktur ausgeübt wird.
-- [Große Absetzung (大罷免)](/history/大罷免) — Von „Blue Bird“ bis zu den Absetzungsbewegungen: Das Bild der generationenübergreifenden Mobilisierung und die institutionelle Übersetzung von Straßenenergie im Jahr 2025.
+- [Reporter: Zehn Jahre, um investigativen Journalismus von einem Geschäftsprodukt zu einem öffentlichen Gut zu machen](/society/報導者) — Seit 2015 nutzt die taiwanische Zivilgesellschaft ein Modell monatlicher Abbuchungen durch Fremde, um investigativen Journalismus als öffentliches Gut zu sichern.
+- [justfont und die Entwicklung taiwanischer Schriftarten: Eine kleine Geschichte der Typografie von Huashan 25 bis Jinxuan 76](/technology/justfont與台灣字體發展) — Ein weiteres Beispiel für Crowdfunding, das die kulturelle Wahrnehmung verändert hat, erweitert die Erzählung der Zivilgesellschaft aus der Perspektive der typografischen Infrastruktur.
+- [Unterseekabel: Von oben auf dem „Silicon Shield“ sichtbar, als Lebensader unten unsichtbar](/technology/海底電纜) — Die Gesetzgebung zum Unterseekabel, die Pingtung-Verteidigungsplattform und der erste Rechtsfall von Hongtai Nr. 5 zeigen, wie zivilgesellschaftlicher Druck die Gesetzgebung für die nationale Sicherheitsinfrastruktur vorantreibt.
+- [Große Abberufung (大罷免)](/history/大罷免) — Von „Bluebird“ bis zu den Abberufungsbewegungen: Das Bild der generationenübergreifenden Mobilisierung und der institutionellen Übersetzung von Straßenenergie während der größten Abberufungswelle der Geschichte im Jahr 2025.
 
 [^1]: [Wikipedia: Wild-Lily-Studentenbewegung](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — Vom 16. bis 22. März 1990 saßen fast 6.000 Studenten auf dem Platz der Chiang Kai-shek Memorial Hall (heute Liberty Square); die größte studentische Protestaktion seit der Verlegung der Regierung nach Taiwan.
 
-[^2]: [Wikipedia: 330 Anti-CSSTA Demonstration](https://zh.wikipedia.org/zh-tw/330%E5%8F%8D%E6%9C%8D%E8%B2%BF%E9%81%8A%E8%A1%8C) — Versammlung auf dem Ketagalan Boulevard am 30. März 2014; Veranstalter schätzten 500.000 Menschen, das Innenministerium schätzte 116.000.
+[^2]: [Wikipedia: 30. März Protest gegen das Handelsabkommen](https://zh.wikipedia.org/zh-tw/330%E5%8F%8D%E6%9C%8D%E8%B2%BF%E9%81%8A%E8%A1%8C) — Versammlung auf dem Ketagalan Boulevard am 30. März 2014; Veranstalter schätzten 500.000 Menschen, das Innenministerium schätzte 116.000.
 
-[^3]: [Gesetz zur Durchführung der Interpretation Nr. 748 des Verfassungsgerichts](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008) — Seite der nationalen Rechtsdatenbank.
+[^3]: [Gesetz zur Durchführung der Interpretation Nr. 748 des Verfassungsgerichts](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008) — Seite des nationalen Rechtsdatenbank-Artikels.
 
-[^4]: [Wikipedia: Protest der Lukang-Bewohner gegen DuPont](https://zh.wikipedia.org/zh-tw/%E9%B9%BF%E6%B8%AF%E5%B1%85%E6%B0%91%E5%8F%8D%E6%9D%9C%E9%82%A6%E8%A8%AD%E5%BB%A0%E4%BA%8B%E4%BB%B6) — DuPont gab am 12. März 1987 bekannt, das Fabrikprojekt in Lukang abzusagen; der erste Fall in Taiwan, bei dem Umweltproteste zum Rückzug eines ausländischen Investors führten.
+[^4]: [Wikipedia: Protest der Lukang-Bewohner gegen DuPont](https://zh.wikipedia.org/zh-tw/%E9%B9%BF%E6%B8%AF%E5%B1%85%E6%B0%91%E5%8F%8D%E6%9D%9C%E9%82%A6%E8%A8%AD%E5%BB%A0%E4%BA%8B%E4%BB%B6) — DuPont gab am 12. März 1987 den Abbruch des Fabrikplans in Lukang bekannt; der erste Fall, in dem Umweltproteste zum Rückzug eines ausländischen Investors führten.
 
-[^5]: [Interpretation Nr. 748 des Verfassungsgerichts](https://cons.judicial.gov.tw/docdata.aspx?fid=5297&id=168051) — Volltext der Entscheidung des Verfassungsgerichts, veröffentlicht am 24. Mai 2017.
+[^5]: [Interpretation Nr. 748 des Verfassungsgerichts](https://cons.judicial.gov.tw/docdata.aspx?fid=5297&id=168051) — Volltext der Interpretation des Verfassungsgerichts, veröffentlicht am 24. Mai 2017.
 
-[^6]: [Wikipedia: Arbeiterbewegung in Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95) — Streik der Taoyuan Bus-Gewerkschaft am 14. Februar 1988, der eine Welle von Streiks auslöste; 101-tägiger Streik der Hualong-Textilgewerkschaft im Juni 2012 wegen Lohnrückständen.
+[^6]: [Wikipedia: Arbeiterbewegung in Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95) — Streik der Taoyuan Bus-Gewerkschaft am 14. Februar 1988, der eine Welle von Busgewerkschaften und Streiks auslöste; 101-tägiger Streik der Hualong-Textilgewerkschaft im Juni 2012 wegen Lohnrückständen.
 
-[^7]: [CNA: Dreißig Jahre der 520-Bauernbewegung](https://www.cna.com.tw/news/firstnews/201805180033.aspx) — Bericht von Mai 2018: Proteste von über 5.000 Bauern gegen die Öffnung des Marktes für US-Agrarprodukte wie Zitrusfrüchte und Puten; mehr als 130 Verhaftungen.
+[^7]: [CNA: Dreißig Jahre der 520-Bauernbewegung](https://www.cna.com.tw/news/firstnews/201805180033.aspx) — Bericht aus dem Mai 2018: Protest von über 5.000 Bauern gegen die Öffnung für US-Agrarimporte; mehr als 130 Verhaftungen.
 
-[^8]: [United Daily News: Ein Jahr später – Was hat die Sonnenblumenbewegung verändert?](https://udn.com/upf/newmedia/2015_data/20150318_sunflower_08/) — Die vier Forderungen der Bewegung: Rücknahme des CSSTA, Erlass eines Überwachungsgesetzes, Gesetzgebung vor Prüfung, Einberufung einer Verfassungskonferenz.
+[^8]: [United Daily News: Ein Jahr später – Was hat die Sonnenblumenbewegung verändert?](https://udn.com/upf/newmedia/2015_data/20150318_sunflower_08/) — Die vier Hauptforderungen der Bewegung: Rücknahme des Handelsabkommens, Erlass eines Überwachungsgesetzes für die Beziehungen zwischen beiden Seiten der Taiwanstraße, Gesetzgebung vor Prüfung und Einberufung einer zivilgesellschaftlichen Verfassungskonferenz.
 
-[^9]: [Newtalk: 250.000 Menschen unterstützen Ehegleichstellung auf dem Ketagalan Boulevard](https://newtalk.tw/news/view/2016-12-10/79948) — Ehegleichstellungs-Konzert am 10. Dezember 2016; Veranstalter gaben an, dass 200.000 bis 250.000 Menschen anwesend waren.
+[^9]: [Newtalk: 250.000 Menschen auf dem Ketagalan Boulevard für Ehegleichstellung](https://newtalk.tw/news/view/2016-12-10/79948) — Ehegleichstellungs-Konzert am 10. Dezember 2016; Veranstalter gaben an, dass 200.000 bis 250.000 Menschen anwesend waren.
 
-[^10]: [PTS Our Island: Xilan über die Jahrhunderte](https://ourisland.pts.org.tw/content/4004) — Erste Demonstration zur Rettung der Xilan-Zederwälder am 27. Dezember 1998, gefolgt von weiteren im Dezember 1999 und Dezember 2000.
+[^10]: [PTS Our Island: Xilan über die Jahrhunderte](https://ourisland.pts.org.tw/content/4004) — Die erste Demonstration zur Rettung des Xilan-Zypressenwaldes fand am 27. Dezember 1998 statt, gefolgt von weiteren Demonstrationen im Dezember 1999 und Dezember 2000.
 
-[^11]: [Wikipedia: Ein freier Tag und ein reduzierter Arbeitstag](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E4%BE%8B%E4%B8%80%E4%BC%91) — Reform des Arbeitsgesetzes am 6. Dezember 2016; erneute Änderung am 10. Januar 2018, wobei die monatliche Überstundenobergrenze auf 54 Stunden festgelegt wurde.
+[^11]: [Wikipedia: Ein Tag frei pro Woche, ein freier Tag alle zwei Wochen](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E4%BE%8B%E4%B8%80%E4%BC%91) — Reform des Arbeitsgesetzes am 6. Dezember 2016; weitere Reform am 10. Januar 2018, wobei die monatliche Überstundenobergrenze auf 54 Stunden festgelegt und der Schichtabstand auf 8 Stunden verkürzt wurde.
 
 ## Referenzen
 
 - He, Ming-hsiu: [Einführung in soziale Bewegungen](https://www.books.com.tw/products/0010294565)
 - Hsiao, Hsin-huang & Ku, Chung-hua (Hrsg.): [Soziale Bewegungen in Taiwan – Ein Neuanfang](https://www.books.com.tw/products/0010479654), Jiliu, 2010
-- He, Rong-hsing: [Die Generation der Studentenbewegungen: Von Wild Lily bis Sonnenblume](https://www.books.com.tw/products/0010642379) (Neue erweiterte Ausgabe), Shih Bao Publishing, 2014
-- Offizielle Websites der jeweiligen sozialen Bewegungen und zugehörige Dokumentationen
+- He, Rong-hsing: [Die Generation der Studentenbewegungen: Von Wild-Lily bis Sonnenblume](https://www.books.com.tw/products/0010642379) (Neue erweiterte Ausgabe), Shih Bao Publishing, 2014
+- Offizielle Websites der jeweiligen sozialen Bewegungen und relevante Dokumentationen

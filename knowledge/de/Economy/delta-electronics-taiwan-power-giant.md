@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台達電子.md'
-sourceCommitSha: 'bf0ce371e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0c0aec93dc48d894'
 sourceBodyHash: 'sha256:85c567c76ec730ad'
-translatedAt: '2026-10-04T00:52:00+08:00'
+translatedAt: '2026-11-17T17:46:43.346163+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 1971 gründete ein 13-Jähriger, der seine Eltern in Fujian zurückgelassen hatte und als Flüchtlingsschüler mit seinem Onkel nach Taiwan gekommen war, mit 300.000 NT$ in Hsinchuang Delta Electronics.

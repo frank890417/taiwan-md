@@ -22,15 +22,21 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
-  [
-    "{'id': 24, 'platform': 'threads', 'date': '2026-04-13', 'url': 'https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf'}",
-    "{'id': 26, 'platform': 'x', 'date': '2026-04-13', 'url': 'https://x.com/taiwandotmd/status/2043538858886017091'}",
-  ]
+  - id: 24
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf'
+  - id: 26
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-17T17:22:28.658014+00:00'
 ---
 
 # Han Kuo-yu
