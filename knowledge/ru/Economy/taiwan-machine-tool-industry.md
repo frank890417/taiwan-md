@@ -2,28 +2,32 @@
 title: 'Промышленность станков и инструментов Тайваня'
 description: 'От «золотой долины» Дадушань до TMTS 2026: устойчивость, крах и возрождение тайваньской промышленности станков, а также почему в 2024 году она упала с 5-го на 7-е место в мире — структурная тревога.'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '傳統產業'
 tags:
-  - 'станки'
-  - 'прецизионная механика'
-  - 'Дадушань'
-  - 'Тайчжун'
-  - 'обрабатывающая промышленность'
-  - 'TMTS'
-  - 'промышленный кластер'
-  - '2026'
+  [
+    'станки',
+    'прецизионная механика',
+    'Дадушань',
+    'Тайчжун',
+    'обрабатывающая промышленность',
+    'TMTS',
+    'промышленный кластер',
+    '2026',
+  ]
+subcategory: '傳統產業'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-07-25T12:45:45+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:55:34.822826+00:00'
 ---
 
 # Промышленность станков и инструментов Тайваня
