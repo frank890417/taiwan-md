@@ -2,6 +2,7 @@
 title: 'Submarine Cables: Visible Above the Silicon Shield, the Lifeline Invisible Below'
 description: 'In February 2023, two submarine cables connecting Matsu were severed within six days, plunging Lienchiang County into roughly 50 days of digital darkness. DPP Lienchiang chair Lee Wen described it: "A single LINE text message took 15 to 20 minutes to send." Taiwan''s 99% of outbound internet traffic depends on 14 cables buried deep beneath the seabed, all of them international cables landing at four sites on the main island. TSMC''s clean rooms are the hero shots above the silicon shield; the submarine cables are the engineer''s narrative no one photographs below — they can detach 23 million people from the world without firing a single shot.'
 date: 2026-04-29
+category: 'Technology'
 tags:
   [
     'submarine-cables',
@@ -13,13 +14,12 @@ tags:
     'infrastructure',
     'digital-sovereignty',
   ]
-category: 'Technology'
 subcategory: '通訊與基礎建設'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-29
 lastHumanReview: false
-researchReport: reports/research/2026-04/海底電纜.md
+researchReport: 'reports/research/2026-04/海底電纜.md'
 sporeLinks:
   - id: 55
     platform: 'threads'
@@ -29,11 +29,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049860918641893571'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: '5ff155c1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
-translatedAt: '2026-06-10T16:43:34Z'
+translatedAt: '2026-11-18T10:19:10.530940+00:00'
 ---
 
 > **30-second overview:** On February 2 and February 8, 2023, the two submarine cables connecting Lienchiang County (Matsu) to Taiwan's main island were severed in succession within six days [^1]. Chunghwa Telecom took **roughly 50 days** to repair the first; the second cable, Taiwan-Matsu No. 2, took a total of **4 months and 23 days** to fully repair — Ministry of Digital Affairs Deputy Minister Que Ho-ming said this "**exceeded the international average for cable repair**" because of "**interference from Chinese coast-guard vessels**" [^2]. Taiwan's outbound internet traffic relies on submarine cables for **99%** of its volume; the **14 active international cables** [^3] all land at **four sites** on the main island: Tamsui, Bali, Toucheng, and Fangshan [^4]. In 2024, Chunghwa Telecom quietly opened a fifth landing station in Dawu, Taitung. Locals can only call it the "**Building 506**" by its street number — a knowledgeable source said this is "a backup external-communication safety net for cross-strait wartime contingencies" [^5]. TSMC's clean rooms are the heroic camera angles above the silicon shield; these 14 lines, buried 1,300 meters down, are the lifeline below that no one sees: they can detach 23 million people from the world without firing a single shot.

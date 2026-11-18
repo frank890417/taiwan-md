@@ -2,9 +2,7 @@
 title: "Taiwanese Independent Music: How a Record Store That Could Not Pay Its Staff Opened an Island's Ears"
 description: 'From the gamble of taking over Crystal Records with NT$300,000 in debt to No Party for Cao Dong selling out its first pressing in coffee shops. Thirty-five years of Taiwanese independent music is not an underdog victory story, but a long wager by a group of people determined to let unheard sounds be heard'
 date: 2026-03-29
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'independent music',
@@ -14,16 +12,20 @@ tags:
     'independent labels',
     'music industry',
   ]
-readingTime: 14
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-06-10T16:43:34Z'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T09:30:19.500886+00:00'
 ---
 
 **Thirty-second overview: In 1986, Ren Jiang-da, of Korean-Japanese descent, borrowed NT$300,000 to take over a failing record store and began importing "music nobody wanted to hear" into Taiwan. Forty years later, the ecosystem that grew out of that shop, from live houses and independent labels to StreetVoice and the Golden Indie Music Awards, sent a band selling records in coffee shops to the Golden Melody Awards' Album of the Year, and sent an all-English Taipei band to Coachella. Four decades of Taiwanese independent music has been a relay race with no finish line: every runner is gasping for air, every runner feels close to collapse, but the baton has never fallen.**

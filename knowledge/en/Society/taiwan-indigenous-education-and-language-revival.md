@@ -2,6 +2,7 @@
 title: 'Taiwan Indigenous Education and Language Revival: Elementary Schools Hold the Line, Middle Schools Fail to Catch'
 description: 'In 2012, Paiwan teacher Camake Valaule at Taimali Elementary School in Pingtung used a voice recorder to collect ancient songs from elders and led children to the Golden Melody Awards. In 2017, the Indigenous Peoples Language Development Act elevated indigenous languages to national language status. In 2019, the Indigenous Peoples Education Act inscribed a ten-year target for teacher ratio requirements. The number of indigenous experimental schools at the elementary level grew from 25 to 38. But once students reach middle school, the entire system collapses: there are only 6 indigenous experimental middle schools across Taiwan, the gross enrollment rate for indigenous college students is 56.3%, 35.3 percentage points below the general population. Camake passed away in 2021 at age 42. Elementary schools hold the line; middle schools fail to catch. The gap remains.'
 date: 2026-04-11
+category: 'Society'
 tags:
   [
     'indigenous education',
@@ -15,19 +16,20 @@ tags:
     'Palumayan Tribal School',
     'educational transition gap',
   ]
-category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 15
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
-translatedAt: '2026-05-01T13:19:11+08:00'
+translatedAt: '2026-11-18T10:06:51.174500+00:00'
 ---
 
 > **30-second overview:** In 2012, Paiwan teacher Camake Valaule at Taimali Elementary School in Pingtung led his ancient songs choir to win the Best Traditional Music Performance Award at the 23rd Golden Melody Awards with the album _Where Song Begins_.[^1] In 2017, the Indigenous Peoples Language Development Act passed the Legislative Yuan's third reading, formally elevating 16 indigenous languages to the status of national languages.[^2] In 2019, the amended Indigenous Peoples Education Act wrote into Article 34 a "ten-year target" for the proportion of indigenous teachers at indigenous key schools.[^3] As of the 111th academic year, there were 38 indigenous experimental schools across Taiwan.[^4] But this seemingly dense and comprehensive system suddenly breaks down at the middle school level. A 2024 in-depth investigation by _The Reporter_ pointed out: "Since 2019, the number of indigenous experimental elementary schools has increased by more than 10, while middle schools have nearly stagnated."[^5] There are only 6 indigenous experimental middle schools in all of Taiwan.[^4] In the 112th academic year, the gross enrollment rate for indigenous college students was **56.3%**, compared to **91.6%** for general students — a gap of 35.3 percentage points.[^6] The state spent ten years using law to protect a child's language and culture, then let go of his hand the day he entered middle school. Camake passed away on August 19, 2021, from lymphoma at age 42.[^7] The ancient songs choir he left behind remains, but who will guard this transition now that he is gone?

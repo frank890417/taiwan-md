@@ -25,15 +25,21 @@ imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
 sporeLinks:
-  [
-    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
-    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
-  ]
+  - id: 84
+    platform: 'threads'
+    date: '2026-05-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'
+  - id: 85
+    platform: 'x'
+    date: '2026-05-23'
+    url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d4818d717761979b'
 sourceBodyHash: 'sha256:45ca26bedda5e227'
-translatedAt: '2026-09-17T17:20:26.667676+00:00'
+translatedAt: '2026-11-18T10:46:24.028840+00:00'
 ---
 
 ![Yang Shuang-zi, wearing a dark jacket and standing calmly beside the award trophy at the National Book Awards ceremony in New York on November 20, 2024](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
