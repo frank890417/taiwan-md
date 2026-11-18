@@ -2,9 +2,7 @@
 title: '『天下雑誌』：台湾の「成功」に四十年にわたり順位を付け、資本に最も近い場所に立つ'
 description: '1981 年 6 月、『天下』という経済誌が戒厳令下の孤島で創刊され、初刷 1 万部は 2 日で完売しました。発起人は経済学者の高希均で、魂を吹き込んだのは、かつて United Press International、ニューヨーク・タイムズの記者だった殷允芃でした。四十年後、それは台湾で最も信頼されるメディアの一つとなり、二千大、50 大、幸福城市の「成功の定義者」にもなりました。その信頼性の源泉と、ランキングの権力の源泉は、同じ距離にあります。'
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '媒體與新聞'
 tags:
   [
     'メディア',
@@ -15,9 +13,12 @@ tags:
     '出版',
     'メディアとニュース',
   ]
+subcategory: '媒體與新聞'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/天下雜誌.md'
 image: '/article-images/society/diane-ying-magsaysay.webp'
 imageCredit: 'Ramon Magsaysay Award Foundation'
 imageLicense: 'Fair use editorial commentary'
@@ -31,11 +32,14 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-13'
     url: 'https://x.com/taiwandotmd/status/2065697249041281306'
+relatedDiary: ['2026-06-04-151548-天下雜誌']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'd317f164'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cfcffc0d37076c22'
 sourceBodyHash: 'sha256:a2fb34529fea33ac'
-translatedAt: '2026-06-16T17:15:00Z'
+translatedAt: '2026-11-18T06:06:36.246391+00:00'
 ---
 
 > **30 秒概要：** 1981 年 6 月 1 日、『天下』という経済誌が、戒厳令下にあり、国際舞台を失ったばかりの台湾で創刊され、初刷 1 万部は 2 日で売り切れました[^1]。発起人は経済学者の高希均（こう・ききん／ガオ・シージュン）で、「書生報国」という思いのもと、王力行、張作錦、殷允芃を招いてともに創刊しました[^2]。United Press International、ニューヨーク・タイムズ、アジアン・ウォール・ストリート・ジャーナルで記者を務めた殷允芃（いん・いんほう／イン・ユンポン）は、その編集の魂であり、のちに 1986 年の分裂後、この雑誌を守り抜いた人物でもあります[^3]。四十年のあいだに、それは「経済を誰にでもわかる物語として書く」雑誌から、台湾のビジネスと地方統治のランキングを作る存在へと成長しました。二千大、50 大、標竿企業、幸福城市。これらの順位は、台湾の人びとにとって何が「成功」と呼ばれるのかを、静かに定義してきました。それは Reuters の報告で台湾で最も信頼されるメディアの一つとされ[^4]、マグサイサイ賞、SOPA 終身成就賞も受けています。しかし、それが最も信頼される位置は、まさに資本と権力に最も近い位置でもあります。その信頼性と、他者に順位を付ける権力は、同じ距離から生まれています。
