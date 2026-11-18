@@ -2,9 +2,7 @@
 title: 'Sorry Youth: três rapazes do sul cantam em taiwanês a solidão de quem vive fora de casa e, vinte anos depois, tornam-se a voz de uma geração'
 description: "Em 2005, três rapazes que cresceram a ouvir rock à beira-mar em Tainan decidem escrever canções em taiwanês, com o objetivo de fazer os avós concordarem com a cabeça. A dificuldade: dos três, só Chiang Chiang falava taiwanês desde criança. De 'Hai Kou Wei (Sabor do Mar)' a 'Apartamento Ruidoso', quatro álbuns inteiramente em taiwanês, três Golden Indie Music Awards de melhor rock, dois recordes de crowdfunding no flyingV — o Sorry Youth transformou a solidão dos trabalhadores migrantes na linguagem comum de toda uma geração."
 date: 2026-04-27
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'Música em taiwanês',
@@ -17,15 +15,19 @@ tags:
     'Golden Indie Music Awards',
     'Rock de assalariado',
   ]
-readingTime: '12min'
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-27
 lastHumanReview: false
-featured: true
+readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/拍謝少年.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: '2026-07-25T17:25:36+08:00'
+translatedAt: '2026-11-17T23:40:00.749008+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2005, três rapazes de Tainan decidem formar uma banda de rock inteiramente em taiwanês depois do festival Spring Scream. O problema: só Chiang Chiang falava taiwanês desde a infância. _Hai Kou Wei (Sabor do Mar)_ (2012) traz um sabá na capa; _Irmãos Não Devem Ter Sonhos_ (2017) ganha Golden Melody Award de melhor design gráfico e Golden Indie Music Award de melhor rock; _Situação Ruim, Situação Boa_ (2021) arrecada mais de 3,1 milhões de TWD no flyingV; _Apartamento Ruidoso_ (2024) bate o próprio recorde de crowdfunding e conquista o terceiro Golden Indie Music Award consecutivo de melhor rock. De banda de fim de semana a músicos em tempo integral, ao longo de vinte anos Winnie, Chiang Chiang e Tsung-han mantêm um único acordo: «cada um cuida primeiro da própria vida, a música só existe se a vida estiver bem.»
