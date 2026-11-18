@@ -2,9 +2,7 @@
 title: '台湾インディペンデント音楽：給料を払えない一軒のレコード店は、いかにして島の耳を開いたのか'
 description: '水晶唱片を30万台湾元の負債ごと引き受けた冒険から、草東沒有派對がカフェで初回プレスを売り切るまで。台湾インディペンデント音楽の35年は逆転劇ではなく、「見られてこなかった声を聴かせる」ことにこだわった人々による、長い賭けでした'
 date: 2026-03-29
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'インディペンデント音楽',
@@ -14,16 +12,20 @@ tags:
     'インディペンデント・レーベル',
     '音楽産業',
   ]
-readingTime: 14
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-06-10T16:41:16Z'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:19:14.186640+00:00'
 ---
 
 **30秒概観：1986年、韓国と日本にルーツを持つ任将達は30万台湾元を借り、閉店寸前だった一軒のレコード店を引き受け、台湾に「誰も聴きたがらない音楽」を輸入し始めました。40年後、そのレコード店から育ったエコシステム（ライブハウス、インディペンデント・レーベル、StreetVoice、金音創作獎）は、カフェでレコードを売っていたバンドを金曲奨の年間最優秀アルバムへ送り出し、全編英語で歌う台北のバンドをCoachellaの舞台へ送り出しました。台湾インディペンデント音楽の40年は、終点のないリレーです。どの走者も息を切らし、どの走者も倒れそうだと感じながら、それでもバトンは一度も落ちませんでした。**
