@@ -2,9 +2,7 @@
 title: 'जब महामारी मिटी, आतिशबाज़ी बनी परंपरा: ताइवान की उत्सव संस्कृति का अनपेक्षित विकास'
 description: 'एक छोटे कस्बे का अनुष्ठान जो महामारी से लड़ने के लिए पटाखे जलाकर शुरू हुआ, 140 साल बाद दुनिया के सबसे खतरनाक लोक उत्सवों में से एक बन गया'
 date: 2026-03-24
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'पारंपरिक उत्सव',
@@ -14,16 +12,20 @@ tags:
     'चुनजीए',
     'मध्य-शरद बारबेक्यू',
   ]
+subcategory: '宗教與民俗'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/傳統節慶與慶典.md'
-sourceCommitSha: 'a05d24314'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
-translatedAt: '2026-07-25T04:46:11+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T16:44:38.899131+00:00'
 ---
 
 # जब महामारी मिटी, आतिशबाज़ी बनी परंपरा: ताइवान की उत्सव संस्कृति का अनपेक्षित विकास

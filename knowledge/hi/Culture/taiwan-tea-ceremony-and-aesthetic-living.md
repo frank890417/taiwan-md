@@ -2,9 +2,7 @@
 title: 'ताइवान की चाय परंपरा और जीवन-सौंदर्य'
 description: 'एक कीट के काटने से उपजी शहद जैसी सुगंध, जापानी शैली के एक पुराने मकान में चला लोकतांत्रिक आंदोलन और एक कप बबल टी से जीता गया वैश्विक बाज़ार—औपनिवेशिक विरासत से ताइवान की चाय संस्कृति किस तरह एक विशिष्ट जीवन-सौंदर्य में विकसित हुई'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '工藝與美學'
 tags:
   [
     'चाय संस्कृति',
@@ -13,16 +11,20 @@ tags:
     'ओरिएंटल ब्यूटी चाय',
     'विस्टेरिया टी हाउस',
   ]
+subcategory: '工藝與美學'
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: '2948c945'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
 sourceBodyHash: 'sha256:b5154ba7226ad9d9'
-translatedAt: '2026-07-18T19:14:57+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-18T16:33:13.757512+00:00'
 ---
 
 # ताइवान की चाय परंपरा और जीवन-सौंदर्य

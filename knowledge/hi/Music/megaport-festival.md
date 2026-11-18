@@ -29,11 +29,13 @@ rationale:
   whats_excluded: '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。'
   where_it_hedges: '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。'
   whos_pushing_back: '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/大港開唱.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:ded0e72872765bab'
 sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
-translatedAt: '2026-09-07T21:35:52.481708+00:00'
+translatedAt: '2026-11-18T17:02:00.308270+00:00'
 ---
 
 # दक्षिण केवल सजावट नहीं
