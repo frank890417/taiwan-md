@@ -2,29 +2,33 @@
 title: 'Liu An-ting'
 description: "In 2008 she left Taichung Girls' Senior High School for Princeton. In 2013, at 23, she quit her New York consulting job to return to Taiwan and found TFT — Teach for Taiwan. In 2016 she asked a graduating class at National Cheng Kung University: 'What do you do with your luck?' That line became a collective mantra for an entire generation. But the other line she says most often is: 'Don't believe in me as an individual.' After TFT's tenth anniversary in 2024, she passed the chairmanship to Lin Yen-hsi and became a board director. Her best work is not TFT itself — it is making TFT able to exist without her."
 date: 2026-04-12
-tags:
-  - 'education'
-  - 'rural education'
-  - 'TFT'
-  - 'Teach for Taiwan'
-  - 'Liu An-ting'
-  - 'educational inequality'
-  - 'social enterprise'
-  - 'Princeton'
-  - 'Lin Yeh-sheng Foundation'
 category: 'People'
+tags:
+  [
+    'education',
+    'rural education',
+    'TFT',
+    'Teach for Taiwan',
+    'Liu An-ting',
+    'educational inequality',
+    'social enterprise',
+    'Princeton',
+    'Lin Yeh-sheng Foundation',
+  ]
 subcategory: '教育與社會'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 14
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/劉安婷.md'
-sourceCommitSha: '75479a4e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3dee896f2b15c3b8'
 sourceBodyHash: 'sha256:efca1efad60ae65f'
-translatedAt: '2026-05-01T13:19:11+08:00'
+translatedAt: '2026-11-18T15:53:19.729587+00:00'
 ---
 
 > **30-second overview:** Liu An-ting was born in 1989 in Taipei and grew up in Taichung[^1]. Her father Liu Yi-chung is the founder of the Lin Yeh-sheng Social Welfare Foundation; her mother Lin Yi-rong is a music teacher at the affiliated experimental elementary school of National Taichung University of Education and the chairperson of the Lin Yeh-sheng Charitable Foundation[^2]. In 2008 she graduated from Taichung Girls' Senior High School, having been simultaneously accepted by NTU's Department of Foreign Languages and Literature, NTU's Department of Political Science, and ten American universities; she ultimately chose Princeton University (full scholarship)[^1]. During her four university years she passed through a mud-brick schoolhouse in Ghana, a tent school in Haiti, a youth prison in America, a poor district in Paris, and a Cambodian genocide site[^3]. At 23 she quit her New York management consulting job and returned to Taiwan; in 2013 she founded **Teach For Taiwan (TFT)**, with NT$2,000 in capital, nine people, and eight schools in Tainan and Taitung[^4]. In 2016 at the NCKU commencement ceremony she asked: "**What do you do with your luck?**" The line was shared hundreds of thousands of times and became a collective mantra for an entire generation[^5]. But the line she says most often is: "**Don't believe in me as an individual**"[^6]. After TFT completed its tenth anniversary in 2024, she passed the chairmanship to Lin Yen-hsi (former managing director of DDI Taiwan), stepping back to serve as a board director[^7]. Over eleven years, TFT has cumulatively trained more than 400 program members, entered nine counties and cities and 85 schools, and accompanied more than 7,500 students[^8]. But Liu An-ting's best work may not be TFT itself — it is **that from the first day she was practicing how to leave**.

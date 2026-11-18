@@ -24,11 +24,13 @@ image: '/article-images/people/yaxian-portrait-2012.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e787dc16343b5dd6'
 sourceBodyHash: 'sha256:b6b66329e69543f7'
-translatedAt: '2026-07-28T04:03:49+08:00'
+translatedAt: '2026-11-18T16:25:48.872171+00:00'
 ---
 
 # Ya Hsien: Ceasing Poetry After "The Abyss," Spending His Latter Life as a Pillar of Literary History in the UDN Supplement

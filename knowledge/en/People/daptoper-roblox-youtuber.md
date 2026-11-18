@@ -2,6 +2,7 @@
 title: 'Daptoper: From "Dark Laptop" to One Million Subscribers — The Data Curator Who Defined the Roblox Generation'
 description: 'In 2023, YouTuber "Daptoper" (real name Chou Chih-Hsuan) hit one million YouTube subscribers. From early Minecraft streams to pioneering the Roblox blue ocean in Taiwan, this NTHU dropout turned a self-deprecating "always late" persona and obsessive data analysis into a digital community empire spanning published books and Discord.'
 date: 2026-04-24
+category: 'People'
 tags:
   [
     'YouTuber',
@@ -11,18 +12,17 @@ tags:
     'self-discipline',
   ]
 subcategory: '數位與媒體'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 5
+featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-04-24T09:34:39+08:00'
-translatedFromInferred: false
+translatedAt: '2026-11-18T16:07:00.607426+00:00'
 ---
 
 > **30-second overview:**
