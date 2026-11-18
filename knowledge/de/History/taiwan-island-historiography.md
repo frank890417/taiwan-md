@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-09-12T09:12:49+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T13:01:07.217415+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Wenn man nur fragt, „wer hat Taiwan regiert“, wird die taiwanesische Geschichte zu einer Tabelle der Machtübergänge: Niederlande, Spanien, Zheng, Qing-Reich, japanisches Reich, Republik China folgen einander aufeinander. Die Taiwan-Inselgeschichte stellt die Frage anders: Was ist auf dieser Insel passiert, während diese Herrscher kamen und gingen? Wie haben die Menschen ausgewandert, gehandelt, regiert, sich gewehrt, einander geliebt, von Katastrophen betroffen, wiederaufgebaut und schließlich die fremden Systeme und vielfältigen Erinnerungen in ihr eigenes Leben integriert? 1990 stellte der Historiker Ts'ao Yung-ho (曹永和) das Konzept der „Taiwan-Inselgeschichte“ vor; spätere Gelehrte, Museen, Bildung und Kultur machten daraus eine alltägliche Intuition: Identität kommt nicht nur von Blut oder Heimat, sondern auch von der gemeinsamen Erfahrung, auf einer Insel zu leben und zu überleben.[^1][^2]
@@ -164,11 +166,11 @@ Das ist der nützlichste Aspekt der Inselgeschichte für die breite Öffentlichk
 - [Nationales Museum für taiwanesische Geschichte](/de/society/national-museum-of-taiwan-history) — Wie ein staatliches Museum die Inselgeschichte als öffentliche Ausstellung verwirklichte.
 - [Inseldenken](/de/culture/archipelago-thinking) — Von einer einzelnen Insel nach außen blicken, um das Verhältnis Taiwans zu den umliegenden Inseln und dem Meer zu verstehen.
 
-## Bildnachweise
+## Bildquellen
 
-- Hero: Karte der Insel Formosa von den Niederländern im Jahr 1640, Wikimedia Commons, gemeinfrei. Originaldatei: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- Karte von Taiwan im Jahr 1880: Stanford's／Library of Congress, Wikimedia Commons, gemeinfrei. Originaldatei: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- Außenansicht des Nationalen Museums für taiwanesische Geschichte: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Originaldatei: [Nationales Museum für taiwanesische Geschichte 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Hero: Karte von Formosa, gezeichnet von den Niederländern im Jahr 1640, Wikimedia Commons, gemeinfrei. Originaldatei: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- Karte von Taiwan aus dem Jahr 1880: Stanford's／Library of Congress, Wikimedia Commons, gemeinfrei. Originaldatei: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Außenansicht des Nationalen Museums für taiwanesische Geschichte: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Originaldatei: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## Literaturverzeichnis
 

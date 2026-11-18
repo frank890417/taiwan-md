@@ -18,11 +18,13 @@ featured: true
 lastVerified: 2026-09-20
 lastHumanReview: false
 readingTime: 17
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: '05aa5b7b0'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:8c2c2c2ee5f2b237'
 sourceBodyHash: 'sha256:c2c5a393d951d7c5'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-18T12:23:56.478264+00:00'
 ---
 
 # Taiwans landwirtschaftliche Modernisierung

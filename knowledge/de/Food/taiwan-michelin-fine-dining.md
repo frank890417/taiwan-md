@@ -18,11 +18,13 @@ lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 12
 imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（圖片是香港荃灣如心廣場商場餐廳指示牌，非台灣場景，跟「台灣米其林」主題不符（地點錯誤））'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
-sourceCommitSha: '1256f1c64'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d09fcb3d4fd0c37a'
 sourceBodyHash: 'sha256:2a3a16840af180a4'
-translatedAt: '2026-10-08T14:51:37+08:00'
+translatedAt: '2026-11-18T12:21:55.215861+00:00'
 ---
 
 # Taiwan Michelin: Der Preis unter den Sternen und die Neudefinition
