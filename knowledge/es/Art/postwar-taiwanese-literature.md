@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T13:12:31.999893+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-18T11:51:36.152326+00:00'
 ---
 
 > **Resumen en 30 segundos**: Durante los 42 años de la posguerra (1945-1987), el mundo literario de Taiwán vivió bajo condiciones de «lo que no se podía decir»: no se podía hablar en japonés, no se podía mencionar el Incidente 228, no se podía decir qué era Taiwán más allá de ser parte de China, y no se podía hablar del _xiangtu_ (literatura de la tierra). Sin embargo, cada generación de escritores aprendió «cómo decirlo» mediante diferentes rodeos. Yeh Shih-tao pasó de aquella hoja en blanco en 1945 a su obra de 232 páginas 《台灣文學史綱》 (_Esbozo de la historia de la literatura taiwanesa_) en 1987, atravesando periodos de mutismo, tres años de prisión y más de una década de silencio, hasta llegar a 〈台灣的鄉土文學〉 (_La literatura de la tierra en Taiwán_) en 1965 y a su reflexión de 1985: «Sin tierra, ¿cómo puede haber literatura?». Pai Hsien-yung leía a Kafka en refugios antiaéreos. Wang Wen-hsing dedicó siete años a escribir 《家變》 (_Cambio familiar_), una obra que fue duramente criticada. Lin Hai-yin renunció a su puesto como subeditora de una revista por un poema. Yu Kwang-chung gritó «el lobo ha llegado» para iniciar el debate sobre la literatura de la tierra. Li Ang, en 1983, hizo que Lin Shi matara a su esposo con un cuchillo de carnicero. Lo que estos 42 años han dejado es todo un sistema de lenguaje basado en el rodeo.
@@ -102,29 +104,31 @@ El propio Yeh Shih-tao fue arrestado por la Oficina de Seguridad el 20 de septie
 
 En noviembre de 1965, publicó 〈La literatura regional de Taiwán〉 en el número 97 de 《Wen-hsing》. Esta fue la primera vez, desde que comenzó su carrera desde cero, que presentó una argumentación sistemática sobre el concepto de «literatura taiwanesa». En aquel entonces, ese término aún no podía decirse directamente en público[^23].
 
-## El suplemento literario de «El lobo ha llegado»
+## El suplemento de «El lobo ha llegado»
 
-En abril de 1977, el número 2 de la revista 《仙人掌雜誌》 lanzó un especial titulado «Lo rural y la realidad», editado por Wang Jian-zhuang, que incluyó artículos de Wang Tuo, 〈Es literatura de «realismo», no «literatura rural»〉, Yin Cheng-hsiung y Chu Hsi-ning[^24]. Wang Tuo sostenía que el auge de la literatura rural era un fenómeno positivo y sugería cambiar el nombre a «literatura realista»; Yin Cheng-hsiung criticaba que la literatura rural corría el riesgo de «convertirse en una herramienta para expresar ideologías de odio o rencor»; Chu Hsi-ning, por su parte, criticaba que lo rural derivaba en localismo y que el énfasis excesivo en la conciencia taiwanesa tenía «sospechas de separatismo».
+En abril de 1977, el segundo número de la revista 《仙人掌雜誌》 (Cactus Magazine), editado por Wang Jian-zhuang, presentó un especial titulado «Lo rural y la realidad», en el que se publicaron artículos de Wang Tuo, Yin Cheng-hsiung y Chu Hsi-ning[^24]. Wang Tuo sostenía que el auge de la literatura rural era un fenómeno positivo y sugería cambiar el término a «literatura realista»; Yin Cheng-hsiung criticaba que la literatura rural corría el riesgo de «convertirse en una herramienta para expresar ideologías de odio y rencor»; mientras que Chu Hsi-ning criticaba que lo rural derivaba en localismo, y que el énfasis excesivo en la conciencia taiwanesa tenía «sospechas de separatismo».
 
-La tensión del debate comenzó a acumularse desde este punto.
+A partir de aquí, la tensión del debate comenzó a acumularse.
 
-En junio, Chen Ying-zhen, bajo el seudónimo de 「許南村」, publicó 〈El punto ciego de la «literatura rural»〉 en el segundo número de 《台灣文藝》, criticando que la «conciencia taiwanesa» y la «postura taiwanesa» de Yeh Shih-tao eran «ambiguas y difíciles de descifrar». En julio, Chen Ying-zhen publicó nuevamente 〈La literatura surge de la sociedad para reflejar la sociedad〉 en el número 5 de 《仙人掌》[^25].
+En junio, Chen Ying-zhen publicó bajo el seudónimo de 「許南村」 (Hsu Nan-tsun) el artículo 〈「鄉土文學」的盲點〉 («El punto ciego de la literatura rural») en el segundo número de 《台灣文藝》 (_Artes y Letras de Taiwán_), criticando que la «conciencia taiwanesa» y la «postura taiwanesa» de Yeh Shih-tao eran «ambiguas y difíciles de descifrar». En julio, Chen Ying-zhen publicó nuevamente en el quinto número de 《仙人掌》 el artículo 〈文學來自社會反映社會〉 («La literatura surge de la sociedad y refleja a la sociedad») [^25].
 
-El 20 de agosto de 1977, Yu Kwang-chung publicó 〈El lobo ha llegado〉 en el suplemento literario de la página 12 de 《聯合報》, acusando a la literatura rural de ser «la “literatura de obreros, campesinos y soldados” que ya hay gente en Taiwán promoviendo abiertamente», citando el discurso de Mao Zedong en la Conferencia de Yan'an sobre la literatura y el arte[^26]. La frase de ese texto que más tarde sería la más citada fue: «No ver al lobo y gritar “el lobo ha llegado” es buscarse problemas; ver al lobo y no gritar “el lobo ha llegado” es cobardía»[^26].
+El 20 de agosto de 1977, Yu Kwang-chung publicó 〈狼來了〉 («El lobo ha llegado») en el suplemento literario de la página 12 de _United Daily News_, acusando a la literatura rural de ser «"el arte de los obreros, campesinos y soldados", algo que ya hay gente en Taiwán promoviendo abiertamente», citando las palabras de Mao Zedong en la Conferencia de Yan'an sobre literatura y arte[^26]. La frase de ese texto que más se ha citado posteriormente es: «No ver al lobo y gritar "el lobo ha llegado" es buscarse problemas; ver al lobo y no gritar "el lobo ha llega" es cobardía»[^26].
 
-En el Taiwán de 1977, la etiqueta de «literatura de obreros, campesinos y soldados» era un estigma que podía enviarte a la cárcel.
+En el Taiwán de 1977, la etiqueta de «arte de los obreros, campesinos y soldados» era un estigma que podía llevar a alguien directamente a la cárcel.
 
-El 29 de agosto se celebró la 「Segunda Conferencia Nacional de Literatura y Arte」 del Kuomintang, con Yu Kwang-chung como uno de los presidentes. Wang Jian-zhuang recordó más tarde que el funcionario del Cuartel General de Seguridad encargado de la cultura dijo en la reunión: «Para aquellos que no escuchan los consejos del gobierno, el gobierno no es que no vaya a actuar, es solo que aún no ha llegado el momento»[^27].
+El 29 de agosto se celebró la 「全國第二次文藝會談」 (Segunda Conferencia Nacional de Arte) del Kuomintang, con Yu Kwang-chung como uno de los presidentes. Wang Jian-zhuang recordó más tarde que un oficial del Cuartel General de la Seguridad, encargado de asuntos culturales, dijo en la reunión: «Respecto a aquellos que no escuchan los consejos del gobierno, no es que el gobierno no vaya a actuar, es solo que aún no ha llegado el momento»[^27].
 
-El debate estaba a punto de escalar hacia detenciones.
+El debate estaba a punto de escalar hacia las detenciones.
 
-El 19 de noviembre estalló el Incidente de Zhongli: se sospechó de fraude electoral en la campaña de Hsu Hsin-liang para la magistratura del condado de Taoyuan, y una multitud asaltó la comisaría de Zhongli prendiéndole fuego, lo que supuso un punto de inflexión en la historia del movimiento _Tangwai_. La atención del gobierno se dispersó[^28].
+El 19 de noviembre estalló el Incidente de Zhongli: se sospechó de fraude electoral en la campaña de Hsu Hsin-liang para la alcaldía del condado de Taoyuan, y una multitud irrumpió en la comisaría de Zhongli prendiéndole fuego, lo que supuso un punto de inflexión en la historia del movimiento _Tangwai_. La atención del gobierno se vio dispersa[^28].
 
-El 18 de enero de 1978, Wang Sheng, director del Departamento de Guerra Psicológica del Ministerio de Defensa, hizo un llamado a la 「unidad rural」 durante la clausura de la Conferencia de Literatura y Arte de las Fuerzas Armadas del año 67, poniendo fin al debate[^29]. Chen Fang-ming recopiló posteriormente datos del 《鄉土文學討論集》: un 60% apoyaba la literatura rural, un 30% se oponía y un 10% era neutral[^30].
+El 18 de enero de 1978, Wang Sheng, director del Departamento de Guerra Psicológica del Ministerio de Defensa, hizo un llamamiento a la «unidad rural» durante la clausura de la Conferencia de Arte de las Fuerzas Armadas del año 67 (1978), poniendo fin al debate[^29]. Chen Fang-ming recopiló posteriormente datos de 《鄉土文學討論集》 (_Colección de debates sobre la literatura rural_): un 60% apoyaba la literatura rural, un 30% se oponía y un 10% era neutral[^30].
 
-El debate terminó en empate, pero la literatura rural ganó a los lectores. Obras como 〈El gran muñeco de mi hijo〉 de Huang Chun-ming (escrita en 1968, publicada por primera vez en libro en 1969 por la editorial 仙人掌) y 〈La dote de un carro de bueyes〉 de Wang Chen-ho (publicada en 1967 en 《文學季刊》, mezclando taiwanés y mandarín) ya habían integrado los pueblos de Lanyang y los mercados de Hualien en la literatura[^31]. Tras el debate, la legitimidad de lo rural quedó establecida. Sin embargo, el coste de esta disputa se sintió en un nivel más profundo: cada escritor aprendió mejor cómo escribir para no parecer demasiado «obrero, campesino o soldado», es decir, aprendieron mejor cómo ejercer la autocensura.
+El debate terminó en empate, pero la literatura rural ganó a los lectores. Obras como 〈兒子的大玩偶〉 (_El gran muñeco de mi hijo_, escrito en 1968 y publicado por primera vez en libro en 1969 por la editorial Cactus) de Huang Chun-ming, o 〈嫁妝一牛車〉 (_Un carro de bueyes de dote_, publicado en 1967 en 《文學季刊》 con una mezcla de taiwanés y mandarín) de Wang Chen-ho, ya habían integrado los pueblos de Lanyang y los mercados de Hualien en la literatura[^31]. Tras el debate, la legitimidad de lo rural quedó establecida. Sin embargo, el coste de esta disputa se sintió a un nivel más profundo: cada escritor aprendió mejor cómo escribir para no parecer demasiado «obrero, campesino o soldado», es decir, aprendieron mejor cómo ejercer la autocensura.
 
-Esa frase que presenció Wang Jian-zhuang, 「el gobierno no es que no vaya a actuar, es solo que aún no ha llegado el momento」, fue el ruido de fondo que todos los escritores escucharon durante estos 42 años.
+Esa frase que presenció Wang Jian-zhuang, «no es que el gobierno no vaya a actuar, es solo que aún no ha llegado el momento», fue el ruido de fondo que todos los escritores escucharon durante los siguientes 42 años.
+
+Para consultar la cronología y las posturas de cada parte de todo el [debate sobre la literatura rural](/es/history/nativist-literature-debate/), consulte ese artículo especial.
 
 ## El cuchillo de carnicero de Lin Shi en Lucheng
 

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T20:18:56+08:00",
-    "zhCommitHead": "35c2cc7ee",
+    "lastUpdated": "2026-11-18T20:19:12+08:00",
+    "zhCommitHead": "00e0d1857",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 696,
-        "stale": 49,
+        "fresh": 697,
+        "stale": 48,
         "metadata_stale": 440,
         "missing": 6,
         "orphan": 0
@@ -21020,20 +21020,18 @@
         "es": {
           "path": "es/Economy/taiwan-stock-market.md",
           "translatedFrom": "Economy/台灣股市與資本市場.md",
-          "sourceCommitSha": "9c5ad569a",
-          "sourceContentHash": "sha256:323486e516e428ed",
-          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
-          "translatedAt": "2026-07-27T11:25:46.085715+00:00",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:05af3274e03b254d",
+          "sourceBodyHash": "sha256:c641c2a8bf14fd32",
+          "translatedAt": "2026-11-18T12:17:35.673645+00:00",
           "translationLastCommit": "a664df94",
           "translationLastModified": "2026-07-27T20:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 34136,
+          "bytes": 34783,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-stock-market.md",

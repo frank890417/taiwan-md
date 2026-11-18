@@ -23,11 +23,13 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/學習貧窮.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:849f86ce2f7e41c5'
 sourceBodyHash: 'sha256:605da09515483b90'
-translatedAt: '2026-09-20T00:52:38+08:00'
+translatedAt: '2026-11-18T12:05:20.461346+00:00'
 ---
 
 > **Resumen de 30 segundos:** En 2019, el Banco Mundial y la UNESCO publicaron conjuntamente el nuevo término "Pobreza del Aprendizaje" [^1]. Se define como: un niño de 10 años que no puede leer ni comprender una historia simple acorde a su edad [^1]. La tasa de pobreza del aprendizaje en países de ingresos bajos y medios era del **53%** en 2019; subió al aproximadamente **70%** después de la pandemia en 2022; y el informe actualizado del Banco Mundial de febrero de 2023 indica que, incluso con la tasa actual de mejora, solo descenderá al **43%** para 2030 [^2][^3]. Taiwán no tiene estadísticas oficiales sobre pobreza del aprendizaje, pero PISA 2022 ofreció una respuesta ambigua [^4]: **los estudiantes taiwaneses obtuvieron el puesto global número 3 en matemáticas, número 5 en lectura y número 4 en ciencias**, y la puntuación de matemáticas del **20% más vulnerable alcanzó los 471 puntos, igualando el promedio de la OCDE (472)**, lo que fue calificado por la OCDE como un sistema educativo "resiliente" [^5]. Sin embargo, el mismo informe muestra una diferencia de **54 puntos en matemáticas entre estudiantes urbanos (571) y rurales (517)** (aproximadamente la progresión de medio a dos años) [^6]. Una encuesta realizada por la Fundación Bo-you para 13 escuelas secundarias rurales en el año 108 encontró que **el 70% de los estudiantes de 6 escuelas obtuvieron una C en inglés, y el 70% de los estudiantes de 5 escuelas obtuvieron una C en matemáticas** [^7]. Una observación a largo plazo de PISA 2018 indica que la diferencia en las pruebas de lectura entre el 10% superior y el 10% inferior de los estudiantes taiwaneses es de aproximadamente **6 años de habilidad** [^8]. La pobreza del aprendizaje en Taiwán no reside en el promedio urbano, sino en los resultados de los exámenes escolares rurales; aún no ha sido medida oficialmente.

@@ -2,6 +2,7 @@
 title: 'El nacimiento de un docente: cuarenta años de reforma y colapso del sistema de formación docente en Taiwán'
 description: 'En 1994, el Yuan Legislativo aprobó la Ley de Formación Docente, transformando el sistema monolítico normalista en un modelo abierto y diversificado de formación de maestros, considerado entonces un hito progresista en la historia educativa de Taiwán. Treinta años después, las cifras son elocuentes: las 9 universidades pedagógicas originales se fusionaron hasta quedar solo 3; en el curso académico 109 se registró el mayor déficit histórico de matriculación en las instituciones de formación docente; en los años 112-113 la tasa de aprobación del examen de certificación docente cayó al 52% (mínimo reciente); casi la mitad de los estudiantes de formación docente la trataban como plan B; el 42% abandonó antes de obtener la credencial. Un país dedicó treinta años a reformar su sistema de formación de maestros, y el resultado es: cada vez menos personas quieren ser docentes, y quienes se quedan reciben una formación cada vez más alejada de la realidad del aula.'
 date: 2026-04-12
+category: 'Society'
 tags:
   [
     'formación docente',
@@ -14,19 +15,20 @@ tags:
     'becarios públicos',
     'docencia en zonas rurales',
   ]
-category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md'
-readingTime: 13
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
-sourceCommitSha: 'bb059332'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cc5bd7cfca8af637'
 sourceBodyHash: 'sha256:073e34a439566b72'
-translatedAt: '2026-05-01T20:54:23+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T11:39:02.935859+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 7 de febrero de 1994, el Yuan Legislativo aprobó en tercera lectura la Ley de Formación Docente, poniendo fin al sistema monolítico normalista que había perdurado medio siglo y abriendo la formación de maestros a programas de pedagogía en universidades generales[^1]. El optimismo de entonces era permitir que personas de perfiles más diversos accedieran al aula. Treinta años después, la realidad es más sobria: las 9 universidades pedagógicas originales se redujeron, tras una ola de fusiones, a solo **3** en 2024 (Universidad Nacional de Educación de Taipéi, Universidad Nacional de Tsing Hua —antigua Universidad Pedagógica de Hsinchu, integrada—, y Universidad Nacional de Educación de Taichung); las universidades pedagógicas representaron cerca del 95% de los casos de fusión en la educación superior taiwanesa[^2]. En el curso académico 109, el déficit de matriculación en las instituciones de formación docente alcanzó un máximo histórico de **1,551 personas**[^3]. En febrero de 2018, la Ley de Formación Docente fue reformada nuevamente, cambiando el orden de "prácticas primero, examen después" a "examen primero, prácticas después"[^4]. Tras la implementación del nuevo sistema, la tasa de aprobación del examen de certificación docente en el año 112 (2023) cayó al **51.64%** (9,072 presentados, 4,685 aprobados), la más baja desde la introducción del nuevo formato de examen[^5]; en el año 113 (2024) la tasa fue del **52.2%** (10,377 inscritos, 5,022 aprobados), la segunda más baja en cuatro años[^6]. Entre los estudiantes que ingresaron al sistema de formación docente entre los años 100 y 107, el **42% abandonó antes de completar las prácticas o obtener la credencial docente**[^7]. Una encuesta de la Universidad Normal Nacional de Taiwán reveló que el **47% de los estudiantes de formación docente declaró "no estar seguro de si será maestro en el futuro, pero cursa las asignaturas por si acaso"**[^7]. La reforma de 1994 buscaba resolver el problema de la homogeneidad de perfiles, pero el problema en 2024 no es la homogeneidad: es que **cada vez menos personas quieren ser docentes, y quienes se quedan reciben una formación cada vez más alejada de la realidad del aula**.

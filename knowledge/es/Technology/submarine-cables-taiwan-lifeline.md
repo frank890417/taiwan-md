@@ -2,9 +2,7 @@
 title: 'Cables submarinos: el escudo de silicio se ve arriba, el sustento vital se esconde abajo'
 description: 'En febrero de 2023, dos cables submarinos que conectaban el archipiélago de Matsu con la isla principal de Taiwán se rompieron en un lapso de seis días. El condado de Lianjiang quedó sumido en unos 50 días de oscuridad digital. Li Wen, presidente del comité del Partido Progresista Democrático en el condado de Lianjiang, describió la situación así: "Un simple mensaje de texto en LINE tardaba entre 15 y 20 minutos en enviarse". El 99% del tráfico exterior de red de Taiwán depende de 14 cables enterrados en el lecho marino, y todos los cables submarinos internacionales convergen en cuatro estaciones de aterrizaje en la isla principal. La sala limpia de TSMC es la imagen heroica en la cúspide del escudo de silicio; los cables submarinos son la narrativa de ingenieros abajo, sin cámaras que los fotografíen: pueden desconectar a 23 millones de personas del mundo sin disparar un solo tiro.'
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '通訊與基礎建設'
 tags:
   [
     'cables submarinos',
@@ -16,9 +14,12 @@ tags:
     'infraestructura',
     'soberanía digital',
   ]
+subcategory: '通訊與基礎建設'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-04/海底電纜.md'
 sporeLinks:
   - id: 55
     platform: 'threads'
@@ -28,11 +29,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049860918641893571'
-translatedFrom: Technology/海底電纜.md
-sourceCommitSha: '5ff155c1'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/海底電纜.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
-translatedAt: '2026-06-10T16:45:00+00:00'
+translatedAt: '2026-11-18T10:47:22.289909+00:00'
 ---
 
 > **Panorama en 30 segundos:** El 2 y el 8 de febrero de 2023, los dos cables submarinos que conectaban el condado de Lianjiang (Matsu) con la isla principal de Taiwán se rompieron en un lapso de seis días[^1]. Chunghwa Telecom tardó **aproximadamente 50 días** en reparar uno de ellos, y el segundo cable (Taima No. 2) requirió un total de **4 meses y 23 días** para su restauración completa. Que He-ming, viceministro del Ministerio de Asuntos Digitales, declaró que esto "**superó el tiempo promedio de reparación de cables submarinos internacionales**", debido a "**la interferencia de patrulleras de la guardia costera china**"[^2]. El **99%** del tráfico exterior de red de Taiwán depende de cables submarinos, y los **14 cables internacionales** actualmente en servicio[^3] se concentran en **cuatro estaciones de aterrizaje** en la isla principal: Tamsui, Bali, Toucheng y Fangshan[^4]. En 2024, Chunghwa Telecom inauguró discretamente una quinta estación de aterrizaje en Dawu, Taitung; los residentes locales solo pueden identificarla por su número de puerta: "**edificio 506**" — personas familiarizadas con el asunto revelaron que se trata de "una red de comunicación exterior segura para el caso de un conflicto entre ambas costas"[^5]. La sala limpia de TSMC es la imagen heroica en la cúspide del escudo de silicio; estos 14 cables, enterrados a 1.300 metros de profundidad bajo el mar, son el sustento invisible: pueden desconectar a 23 millones de personas del mundo sin disparar un solo tiro.
