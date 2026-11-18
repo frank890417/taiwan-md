@@ -1,7 +1,7 @@
 ---
 title: 'Hần Quốc Du'
 description: 'Thị trưởng trực thuộc đầu tiên trong lịch sử bị bãi miễn, bốn năm sau trở thành chủ tịch Viện Lập pháp. Đây là một quỹ đạo chính trị như thế nào?'
-date: '2026-04-11'
+date: 2026-04-11
 category: 'People'
 tags:
   [
@@ -19,7 +19,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
-lastVerified: '2026-04-11'
+lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
   - id: 24
@@ -30,11 +30,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-18T13:57:41.376958+00:00'
 ---
 
 # Hần Quốc Du

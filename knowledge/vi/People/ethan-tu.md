@@ -17,12 +17,13 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:a7a1b2d4fee752b18186d6ceacd30092b03fea3c88b57403491e85bfd05269dd'
-sourceBodyHash: 'sha256:7675a7969c450991505061173cd6f722acbd72619039c807b9029def011dc84d'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Đỗ Dịch Cần, sáng lập viên PTT, tại sự kiện Taiwan AI Labs'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:61081ca7c646947e'
+sourceBodyHash: 'sha256:f186e67ce03f9679'
+translatedAt: '2026-11-18T13:25:42.410930+00:00'
 ---
 
 # Đỗ Dịch Cần

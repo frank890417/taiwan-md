@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: 'e53f17151'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-15T19:12:52.100985+00:00'
+translatedAt: '2026-11-18T14:03:24.182488+00:00'
 ---
 
 # Thái Minh Lượng: Nhà thơ của điện ảnh chậm

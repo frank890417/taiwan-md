@@ -25,14 +25,17 @@ imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
 sporeLinks:
-  [
-    "{'id': 86, 'platform': 'threads', 'date': '2026-05-24', 'url': 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'}",
-  ]
+  - id: 86
+    platform: 'threads'
+    date: '2026-05-24'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭愁予.md'
-sourceCommitSha: 'cce7f2522'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05733d2c54bfc625'
 sourceBodyHash: 'sha256:77382e9a08c09f18'
-translatedAt: '2026-07-28T03:02:41+08:00'
+translatedAt: '2026-11-18T13:14:20.831762+00:00'
 ---
 
 # Zheng Chouyu: Người thơ lãng doạn viết "Sai lầm", cuối cùng đặt chân tại Đài Bắc

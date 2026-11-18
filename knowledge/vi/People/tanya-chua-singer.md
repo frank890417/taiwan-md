@@ -22,11 +22,13 @@ featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 22
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡健雅.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:bbe9414090e28df8'
 sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
-translatedAt: '2026-09-21T21:38:55+08:00'
+translatedAt: '2026-11-18T13:47:00.362683+00:00'
 ---
 
 # Thái Kiện Nghệ: Bốn lần bảo tàng ca khúc, người Singapore nào biến Đài Loan thành sân nhà

@@ -18,18 +18,19 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-06
 lastHumanReview: false
-researchReport: Stan Shih
+researchReport: '施振榮'
 image: '/article-images/people/stanshih-taipei-2014.webp'
 imageCredit: 'Tony Tseng'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
+relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '6ffd92f94'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b5ded8b5494f423c'
 sourceBodyHash: 'sha256:fb56cb60a16b87a7'
-translatedAt: '2026-08-09T08:07:25+08:00'
-relatedDiary:
-  - 2026-07-06-133221-施振榮-rewrite
+translatedAt: '2026-11-18T14:11:03.395184+00:00'
 ---
 
 > **30 giây tóm tắt:** Stan Shih (sinh 1944) là con của gia đình làm hương ở Lộc Hải, cha mất vì quá sức lao động khi ông ba tuổi, mẹ nuôi ông bằng cách bán dạo trứng vịt, văn phòng phẩm, vé số độc lập. Ông tốt nghiệp Đại học Giao thông, khoa Kỹ thuật Điện tử rồi tiếp lấy thạc sĩ, sau làm kỹ sư. Năm 1976, ông cùng vợ và bạn hợp tác bỏ vốn một triệu đô la Đài Loan mới sáng lập Acer, đưa nó lên thành một trong năm hãng PC hàng đầu toàn cầu, vẽ ra "đường cong nười cười" được viết vào sách giáo khoa và cả học giới kinh tế quốc tế cũng lấy làm chủ đề nghiên cứu. Ông cũng là một trong những cha đẻ ngành công nghệ Đài Loan sẵn sàng đứng trước camera nói về những thất bại: công ty bán dẫn Đức Kỳ từng tạo kỷ lục mất lỗ lớn nhất của một công ty đơn lẻ ở Đài Loan, Acer năm 2013 lỗ hơn hai trăm tỷ, ông đã tám mươi tuổi, trái tim lắp hơn mười cái khung đỡ, vẫn tiếp tục làm đầu tư mạo hiểm và phát triển AI thân phân. Điều ông quan tâm nhất suốt đời là những thứ vô hình, cần rất lâu để tính toán: nhân tài, thương hiệu, và cái ông gọi là "Vương đạo".
