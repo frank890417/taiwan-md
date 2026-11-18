@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-26T23:53:49+08:00'
+translatedAt: '2026-11-18T21:46:03.591577+00:00'
 ---
 
 # A eletricidade e os semicondutores de Taiwan: a conta de luz da montanha sagrada
@@ -190,10 +192,10 @@ Os semicondutores fazem Taiwan ser necessária ao mundo. A eletricidade lembra a
 
 ## Referências
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Notícia sobre o plano de poupança de energia EUV da TSMC, escala total de consumo e proporção de poupança das ferramentas, útil para ilustrar a coexistência de ganhos de eficiência e pressão total.
+[^1]: [Tom's Hardware: TSMC reduz o consumo de energia de pico de ferramentas EUV em 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Relata o plano de economia de energia EUV da TSMC, a escala total do consumo de eletricidade e a proporção de economia das ferramentas, podendo ser usado para ilustrar a coexistência entre o aumento da eficiência e a pressão sobre o volume total.
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Notícia sobre o alerta da Associação da Indústria de Semicondutores de Taiwan quanto à estabilidade elétrica e fornecimento de renováveis, com enquadramento de RE100, necessidades de eletricidade verde das fábricas e risco de deslocalização.
+[^2]: [Tom's Hardware: Associação de semicondutores liderada pela TSMC alerta sobre a pressão no fornecimento de energia](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Relata o alerta da Associação da Indústria de Semicondutores de Taiwan sobre a estabilidade do fornecimento de energia e o suprimento de energias renováveis, organizando informações sobre RE100, demanda de energia verde em fábricas de wafers e riscos de transferência para o exterior.
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Estudo de 16 fabricantes taiwaneses de componentes eletrónicos 2015-2020, pegada ambiental, aponta aumento de energia, água e carbono com o crescimento da produção e risco de carbon lock-in.
+[^3]: [Roussilhe et al.: Do Escudo de Silício ao Aprisionamento de Carbono?](https://arxiv.org/abs/2209.12523) — Estuda a pegada ambiental de 16 fabricantes de componentes eletrônicos de Taiwan entre 2015 e 2020, apontando o aumento do consumo de energia, água e emissões de carbono conforme o crescimento da produção, além do risco de aprisionamento de carbono (carbon lock-in).
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press noticia resultado do referendo de 2025 sobre extensão da Usina Nuclear Nº 3 em Taiwan, e explica como defensores da nuclear colocam preço da eletricidade e procura de IA no discurso.
+[^4]: [AP: Legisladores de Taiwan sobrevivem a votação de revogação; referendo sobre energia nuclear falha](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — A Associated Press relata o resultado do referendo de 2025 sobre a extensão da vida útil da usina nuclear de Maanshin, explicando como os defensores da energia nuclear integram as tarifas de eletricidade e a demanda de energia da IA em seus argumentos.

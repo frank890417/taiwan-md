@@ -2,9 +2,7 @@
 title: 'Deserto Digital: Como uma plataforma de crítica de arte online sem modelo de negócios sobreviveu por 12 anos'
 description: "Em novembro de 2011, Zheng Wenqi lançou em Taipei, numa antiga instituição de mídia chamada 'ET@T', um projeto de escrita online sem versão impressa, sem anúncios e sem taxas de assinatura. 12 anos depois, acumulou 56 edições temáticas, 384 artigos, 31 episódios de podcast e 10 volumes do 'Arquipélago Database' (Qundao Shuju Ku). Não há nenhum outro caso de sobrevivência contemporânea de uma plataforma chinesa de crítica de arte do mesmo tipo, que reunisse as três condições de 'matriz de mídia sem papel + sem espaço físico + editor-chefe individual'."
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Deserto Digital',
@@ -18,18 +16,23 @@ tags:
     'ET@T',
     'Fundação de Arte Digital',
   ]
+subcategory: '藝評平台 / 媒體研究'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-imageLicense: 'Fair use editorial commentary'
-imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
-translatedFrom: 'Art/數位荒原.md'
-sourceCommitSha: 'a74c440b3'
-sourceContentHash: 'sha256:f8ec8d5fb97942ca'
-sourceBodyHash: 'sha256:7bfa784449cb0cb6'
-translatedAt: '2026-07-26T03:41:22+08:00'
+researchReport: 'reports/research/2026-05/數位荒原.md'
 image: '/article-images/art/nml-trial-issue-hero-2011.webp'
 imageCredit: "數位荒原 No Man's Land 試刊號封面（2011-11）"
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/數位荒原.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:0b0677a39358cf6e'
+sourceBodyHash: 'sha256:34138e3612701ce3'
+translatedAt: '2026-11-18T21:04:58.158820+00:00'
 ---
 
 # Deserto Digital: Como uma plataforma de crítica de arte online sem modelo de negócios sobreviveu por 12 anos
@@ -96,38 +99,38 @@ Esta frase é um pouco confusa. Mas é uma frase que um curador levou seis anos 
 
 Em 2014, o NML fez outra coisa: lançou conjuntamente com a curadora filipina Dayang Yraola o "Project Glocal Fluxo de Cidades Asiáticas", convidando três artistas do Sudeste Asiático (Filipinas, Malásia, Indonésia) a residir em Taipei por um mês, com um fórum em junho em Taipei, onde Zheng Wenqi, o artista filipino Mannet Villariba e Dayang Yraola dialogaram juntos. A organização ficou a cargo do NML + da revista ARTITUDE[^20]. Naquela época, o NML ainda não havia criado o imprint "Arquipélago Database", mas as sementes da residência transnacional já estavam plantadas.
 
-## De 49 para 5: Uma curva de encolhimento
+## De 49 para 5: uma curva de retração
 
-A curva de produção anual de artigos do NML mostra um arco muito claro:
+A partir da curva de produção anual de artigos do NML, é possível observar um arco muito claro:
 
 ```
-2011:   11   ████
-2012:   43   ███████████████       ← Período de lançamento
-2013:   39   ██████████████
-2014:   30   ███████████
-2015:   29   ██████████
-2016:   49   █████████████████     ← Pico de internacionalização do Project Glocal
-2017:   41   ██████████████        ← Início do primeiro ano do Arquipélago Database
-2018:   29   ██████████
-2019:   28   ██████████
-2020:   31   ███████████           ← Início da segunda linha de produção de podcast durante a pandemia
-2021:   28   ██████████
-2022:   21   ██████████              ← 14 artigos fundidos para podcast
-2023:    5   ██                    ← Encolhimento significativo
+2011:  11  ████
+2012:  43  ███████████████      ← Período de lançamento
+2013:  39  ██████████████
+2014:  30  ███████████
+2015:  29  ██████████
+2016:  49  █████████████████    ← Ápice de internacionalização do Project Glocal
+2017:  41  ██████████████       ← Primeiro ano de lançamento do Arquipélago Database
+2018:  29  ██████████
+2019:  28  ██████████
+2020:  31  ███████████          ← Início da segunda linha de produção (podcast) durante a pandemia
+2021:  28  ██████████
+2022:  21  ████████             ← 14 artigos incorporados ao podcast
+2023:   5  ██                   ← Retração acentuada
 ```
 
 [^21]
 
-Esta curva conta três coisas:
+Esta curva nos diz três coisas:
 
-**1. Dois picos correspondem a duas viradas de identidade.** 43 artigos em 2012 são o período de explosão do NML expandindo-se da edição piloto para a edição principal; 49 artigos em 2016 são a maturidade da rede de fluxo transnacional do NML após três anos de acumulação do Project Glocal; 41 artigos em 2017 são a explosão discursiva no início do primeiro ano do Arquipélago Database. Os três picos correspondem à evolução da estrutura interna do NML.
+**1. Dois picos correspondem a duas transições de identidade.** As 43 publicações de 2012 representam o período de explosão em que o NML expandiu da edição piloto para a publicação principal; as 49 de 2016 marcam a maturidade da rede de streaming transnacional do NML após três anos de acumulação do Project Glocal; e as 41 de 2017 foram a explosão discursiva no primeiro ano de lançamento do Arquipélago Database. Todos os três picos correspondem à evolução da própria estrutura do NML.
 
-**2. Os 31 artigos de 2020 têm "água" (inflação).** Naquele ano, durante a pandemia, o NML lançou a segunda linha de produção do podcast "Nanyang Broadcasting Station" (a partir de 2020, o NML acumulou 31 episódios de podcast)[^1] — o foco editorial começou a mudar de artigos para áudio. A queda para 21 artigos em 2022 corresponde exatamente ao sinal de o podcast ter assumido o controle.
+**2. As 31 publicações de 2020 contêm um "excesso".** Naquele ano, durante a pandemia, o NML iniciou sua segunda linha de produção com podcasts na rádio de Nusantara (acumulando 31 episódios de podcast desde 2020) [^1] — o foco editorial começou a migrar dos artigos para o áudio. A queda para 21 artigos em 2022 corresponde exatamente ao sinal de que o podcast assumiu o controle.
 
-**3. Os 5 artigos de 2023 são um sinal, não ruído.** Neste ano, o foco de trabalho do editor-chefe do NML, Zheng Wenqi, mudou para a publicação independente do "Arquipélago Database" — de 2017 a 2024, foram lançados 10 imprints contendo mais de 40 documentos bilíngues em chinês e inglês[^10]. Ao mesmo tempo, ele desenvolveu uma série de palestras sobre "Volume DAO + Blockchain + Global South"[^22]. Ou seja, o encolhimento dos artigos do NML não é porque a plataforma não tem leitores, **mas porque a energia pessoal do editor-chefe foi desviada para o imprint e palestras em plataformas cruzadas.**
+**3. As 5 publicações de 2023 são um sinal, não ruído.** Neste ano, o foco de trabalho do editor-chefe Zheng Wenqi mudou para a publicação independente do 《群島資料庫》 (Arquipélago Database) — de 2017 a 2024, foram lançados 10 volumes sob este imprint, incluindo mais de 40 documentos bilíngues em chinês e inglês [^10]. Simultaneamente, ele desenvolveu uma série de palestras sobre Volume DAO + blockchain + o tema "Global South" [^22]. Ou seja, a retração dos artigos do NML não ocorreu porque ninguém lê a plataforma, **mas porque a energia pessoal do editor-chefe foi dividida entre o imprint e as palestras multiplataforma**.
 
-> **📝 Nota do curador**
-> A concentração editorial de 88% é uma faca de dois gumes. De um lado, acumula-se uma profundidade discursiva extremamente consistente ao longo de 12 anos — os quatro frameworks de Arquipélago, Periferia, Descolonização e Pacífico Sul são estáveis como vetores de base. Do outro lado, há um teto de uma única perspectiva: a voz de curadoras jovens do sexo feminino é escassa, e as questões indígenas estão basicamente ausentes. Quando a filosofia editorial de uma plataforma vem inteiramente de uma pessoa, sua maturidade e seu período de fadiga sincronizam com a maturidade e o período de fadiga dessa pessoa. Quando o NML chega ao 13º ano, a energia pessoal de Zheng Wenqi se desloca para o imprint e novos temas, e a linha de produção de artigos encolhe — esta é a instanciação concreta da "realidade estrutural de uma plataforma curatorial de estilo pessoal sincronizada com o ciclo de vida daquela pessoa".
+> **📝 Notas do Curador**
+> Uma concentração editorial de 88% é uma faca de dois gumes. Por um lado, permitiu acumular em 12 anos uma profundidade discursiva extremamente consistente — os quatro frameworks (arquipélago, periferia, descolonização e Pacífico) funcionam como vetores de base estáveis. Por outro lado, há o teto de uma perspectiva única: as vozes de curadoras da nova geração são escassas e as questões indígenas estão praticamente ausentes. Quando a filosofia editorial de uma plataforma provém inteiramente de uma única pessoa, seu período de maturidade ocorre em sincronia com a maturidade dessa pessoa, mas seu período de fadiga também será simultâneo. Ao chegar ao 13º ano, com o deslocamento da energia pessoal de Zheng Wenqi para o imprint e novos temas, a linha de produção de artigos encolheu — isso é, na verdade, uma instanciação concreta do fato estrutural de que "uma plataforma de curadoria de estilo pessoal sincroniza com o ciclo de vida daquela pessoa".
 
 ## O que o nome "Deserto Digital" está realmente dizendo
 

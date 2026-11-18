@@ -27,11 +27,13 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:de7f4ddf0c4e6168'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:8e26b4c15a1d169a'
 sourceBodyHash: 'sha256:fb0ee951dd4978bf'
-translatedAt: '2026-11-02T05:45:38+08:00'
+translatedAt: '2026-11-18T20:32:58.730188+00:00'
 ---
 
 # Cadeia de suprimentos de hardware de IA: Onde Taiwan transforma a nuvem em máquinas
@@ -178,13 +180,15 @@ Esta é uma das posições mais claras de Taiwan neste momento, e uma que mais p
 
 ## Leitura Adicional
 
-- [Comércio Externo de Taiwan e Cadeia de Suprimentos Global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — O contexto macroeconômico, desde a orientação para exportação e comércio triangular até a reestruturação das cadeias entre EUA e China.
-- [NVIDIA em Taiwan](/pt/technology/nvidia-in-taiwan) — Como a NVIDIA delega profundamente a fabricação de chips, encapsulamento e montagem de servidores em Taiwan.
-- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — O contexto histórico de longo prazo, desde a transferência de tecnologia da RCA até a fabricação pela TSMC e as batalhas de materiais e encapsulamento.
-- [Computex](/pt/technology/computex) — Por que a Computex Taipei se tornou um local de peregrinação para o lado da oferta de hardware global na era da IA.
-- [Eletricidade e Semicondutores em Taiwan](/pt/technology/taiwan-electricity-and-semiconductors) — A conta de energia por trás da cadeia de suprimentos de IA, a pressão pela energia verde e a segurança energética.
-- [Água nos Semicondutores e Recursos Hídricos de Taiwan](/pt/technology/semiconductor-water-use-and-taiwan-water-resources) — Como as fábricas de wafers se conectam a reservatórios, secas, água regenerada e governança local.
-- [Fábricas de IA no Exterior](/pt/technology/ai-supply-chain-overseas-manufacturing) — Como a cadeia de suprimentos de Taiwan está sendo convidada pelo mundo, da TSMC e Foxconn à Delta Electronics.
+- [Mapa da Cadeia de Suprimentos](/industry/supply-chain-map/) — Semicondutores, servidores de IA e tungstênio: uma análise etapa por etapa de quais empresas estão em Taiwan e quais etapas dependem do exterior.
+- [Especial sobre as Indústrias de Taiwan](/industry/) — Utilizando estatísticas oficiais para traçar a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por cidade e o top 10 de valor de mercado ao longo dos anos, além das perspectivas de seis lados em debates públicos.
+- [Comércio Externo de Taiwan e Cadeias de Suprimentos Globais](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — Do modelo orientado para a exportação e comércio triangular ao contexto macroeconômico da reestruturação das cadeias de suprimentos entre EUA e China.
+- [NVIDIA em Taiwan](/pt/technology/nvidia-in-taiwan) — Como a NVIDIA subcontrata profundamente a fabricação de chips, o encapsulamento e a montagem de servidores em Taiwan.
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — O contexto histórico de longo prazo, desde a transferência de tecnologia da RCA e a fundição da TSMC até as batalhas de materiais e encapsulamento.
+- [Computex](/pt/technology/computex) — Por que a Computex tornou-se o local de peregrinação global para o lado da oferta de hardware na era da IA.
+- [Eletricidade em Taiwan e Semicondutores](/pt/technology/taiwan-electricity-and-semiconductors) — A conta de luz por trás da cadeia de suprimentos de IA, a pressão pelas energias renováveis e a segurança energética.
+- [Uso de Água nos Semicondutores e Recursos Hídricos de Taiwan](/pt/technology/semiconductor-water-use-and-taiwan-water-resources) — Como as fábricas de wafers se conectam aos reservatórios, secas, água reciclada e governança local.
+- [Expansão das Cadeias de Suprimentos de IA no Exterior](/pt/technology/ai-supply-chain-overseas-manufacturing) — De TSMC, Hon Hai e Wistron à Delta: como a cadeia de suprimentos de Taiwan está sendo convidada pelo mundo para se expandir.
 
 ## Fontes das Imagens
 

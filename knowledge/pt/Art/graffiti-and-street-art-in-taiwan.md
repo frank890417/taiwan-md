@@ -14,11 +14,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-07-29T12:59:27+08:00'
+translatedAt: '2026-11-18T21:54:20.136959+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -72,16 +74,16 @@ Este artigo usa 3 imagens com licença CC, todas em cache em `public/article-ima
 
 ## Referências
 
-[^1]: [Artistas de grafite taiwaneses Reach e Bleck contra-atacam! Da rua à criação multiforme](https://www.wowlavie.com/article/ae1902012) — WowLavie (Ver a fonte original no link)
+[^1]: [O contra-ataque dos artistas de graffiti taiwaneses Reach e Blake! Do estilo das ruas para a criação diversificada](https://www.wowlavie.com/article/ae1902012) — WowLavie (Ver a fonte original no link)
 
-[^3]: Heaven Raven, [Entrevista exclusiva com artista de grafite Dachang Wang: O interior do intestino é fezes, a arte também.] (https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [Entrevista com o artista de graffiti Dachang Wang: O interior da tripa é fezes, e a arte também.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [A cultura de rua indo para o comércio está errada? Pioneiro do grafite taiwanês Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [A cultura de rua caminhando para o comercial está errada? Reach, pioneiro do graffiti em Taiwan](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [Pássaro Doce Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Banco de Dados de Arte Contemporânea de Taiwan
+[^5]: [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Base de Dados de Arte Contemporânea de Taiwan
 
-[^6]: [Grafite irregular multa máxima de 6000! Lista das 14 paredes legais de grafite em Taipé](https://newtalk.tw/news/view/2019-11-27/332344) — Agência de Proteção Ambiental do Governo da Cidade de Taipé
+[^6]: [Pichação ilegal pode resultar em multa de até NT$6.000! Lista de 14 muros de graffiti legais em Taipei](https://newtalk.tw/news/view/2019-11-27/332344) — Departamento de Proteção Ambiental do Governo Municipal de Taipei
 
-[^8]: [Fusão de patrimônio e arte pós-moderna "Arte sem Fim" leva você a explorar o Parque Temático de Cinema de Taipé](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Departamento de Turismo e Divulgação do Governo da Cidade de Taipé
+[^8]: [A fusão entre monumentos históricos e arte pós-moderna: "Arte Sem Fim" leva você a explorar o Parque Temático de Cinema de Taipei](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Departamento de Turismo e Comunicação do Governo Municipal de Taipei
 
-[^9]: [Tirando o sabor taiwanês concentrado das dobras, o amigo artista da Hatsumimi — Dachang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (初耳)
+[^9]: [Extraindo o forte sabor taiwanês das dobras: O amigo artista da Hatsumimi – Dachang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Ver a fonte original no link)

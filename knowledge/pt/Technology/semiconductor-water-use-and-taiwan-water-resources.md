@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-28T06:15:59+08:00'
+translatedAt: '2026-11-18T21:50:01.263998+00:00'
 ---
 
 # Água para semicondutores e recursos hídricos de Taiwan: o reservatório ao lado da fábrica de wafers
@@ -184,10 +186,10 @@ Ela está ao lado do reservatório, na bacia hidrográfica, nas tubulações de 
 
 ## Referências
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — Reportagem da WIRED de 2023 sobre a demanda de manufatura de semicondutores por água ultra-pura, tratamento de água e recursos hídricos locais, mencionando a tensão entre fabricação de chips e uso agrícola de água durante a seca em Taiwan.
+[^1]: [WIRED: Quer vencer uma guerra de chips? Você vai precisar de muita água](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — A WIRED em 2023 noticiou a demanda da fabricação de semicondutores por água ultrapura, tratamento de água e recursos hídricos locais, e mencionou a tensão entre a fabricação de chips e o uso agrícola de água durante a seca em Taiwan.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Página oficial da TSMC Arizona descreve investimento da fábrica, planejamento de processo avançado, sistema de reciclagem de água e meta de instalações de regeneração de água industrial, servindo como caso de governança hídrica em fábrica no exterior.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — A página oficial da TSMC Arizona explica o investimento da fábrica, o planejamento de processos avançados, o sistema de reciclagem de água e as metas de instalações de reuso de água industrial, podendo servir como caso de gestão de recursos hídricos em fábricas no exterior.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Reportagem sobre expansão do cluster de semicondutores no Arizona trazendo expectativas de emprego, desenvolvimento local, recursos hídricos, meio ambiente e controvérsias de segurança do trabalho, útil para equilibrar a perspectiva social local de fábricas no exterior.
+[^3]: [The Verge: O novo Vale do Silício (literalmente)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — A reportagem aborda as controvérsias sobre emprego, desenvolvimento local, recursos hídricos, meio ambiente e segurança trabalhista trazidas pela expansão do cluster de semicondutores no Arizona, podendo ser usada para equilibrar a perspectiva social local de fábricas no exterior.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Estudo da pegada ambiental de 16 fabricantes taiwaneses de componentes eletrônicos entre 2015-2020, apontando risco de aumento de uso de água, energia e carbono com crescimento da produção.
+[^4]: [Roussilhe et al.: Do Escudo de Silício ao Bloqueio de Carbono?](https://arxiv.org/abs/2209.12523) — O estudo analisa a pegada ambiental de 16 fabricantes taiwaneses de componentes eletrônicos de 2015 a 2020, apontando o risco de aumento do uso de água, energia e emissões de carbono com o crescimento da produção.

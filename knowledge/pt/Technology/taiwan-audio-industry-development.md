@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T06:57:04.331403+00:00'
+translatedAt: '2026-11-18T20:53:03.496681+00:00'
 ---
 
 # Desenvolvimento da indústria de áudio de Taiwan
@@ -153,12 +155,12 @@ A indústria de áudio de Taiwan enfrenta tripla pressão: competição de custo
 
 ## Referências
 
-[^1]: [Agência de Desenvolvimento Industrial do Ministério da Economia](https://www.ida.gov.tw/) — Antigo Bureau Industrial, reestruturado em setembro de 2023, órgão responsável pela política da indústria de áudio de Taiwan.
+[^1]: [Administração de Desenvolvimento Industrial do Ministério da Economia](https://www.ida.gov.tw/) — Antiga Administração de Indústria, reestruturada em setembro de 2023; autoridade responsável pelas políticas da indústria de áudio em Taiwan
 
-[^2]: [Instituto Internacional de Ciência e Tecnologia Industrial do ITRI «Análise de Tendências da Indústria de Áudio»](https://ieknet.iek.org.tw/) — Análise do tamanho e do mercado de fabricação por encomenda da indústria de áudio de Taiwan.
+[^2]: [Instituto de Pesquisa Industrial (ITRI), Instituto Internacional de Tecnologia Industrial - "Análise de Tendências da Indústria de Áudio"](https://ieknet.iek.org.tw/) — Análise do tamanho da indústria de áudio em Taiwan e do mercado de fabricação por contrato (OEM/ODM)
 
-[^3]: [Associação da Indústria Elétrica e Eletrônica de Taiwan (TEEMA)](https://www.teema.org.tw/) — «Anuário da Indústria de Áudio», estatísticas de fabricantes e valor de produção da indústria de áudio de Taiwan.
+[^3]: [Associação de Indústrias Elétricas e Eletrônicas de Taiwan (TEEMA)](https://www.teema.org.tw/) — "Anuário da Indústria de Áudio", estatísticas de fabricantes e valor de produção da indústria de áudio em Taiwan
 
-[^4]: [Site oficial da Merry Electronics](https://www.merry.com.tw/) — Produtos de componentes eletroacústicos e informações corporativas; Creative Technology Ltd. é uma empresa de Singapura, não um fabricante de Taiwan.
+[^4]: [Site oficial da Merry Electronics](https://www.merry.com.tw/) — Produtos de componentes eletroacústicos e informações corporativas; Creative Technology Ltd. é uma empresa de Singapura, não uma fabricante taiwanesa
 
-[^5]: [Documentos técnicos da Seção de Taiwan da Audio Engineering Society (AES)](https://www.aes.org/) — Padrões internacionais de engenharia acústica e resultados de pesquisa.
+[^5]: [Documentação técnica da Audio Engineering Society (AES) Taiwan Section](https://www.aes.org/) — Padrões internacionais de engenharia acústica e resultados de pesquisas
