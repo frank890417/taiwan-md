@@ -2,9 +2,7 @@
 title: '타이완 독립음악: 급여도 지급하지 못한 음반점은 어떻게 한 섬의 귀를 열었는가'
 description: '크리스탈 레코드를 30만 대만달러의 부채와 함께 떠안은 모험에서, 노 파티 포 차오둥이 카페에서 초판을 매진시킨 순간까지. 타이완 독립음악 35년은 역전극이 아니라, “보이지 않던 소리가 들리게” 하려는 사람들이 오래도록 지속해 온 도박이었다'
 date: 2026-03-29
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     '독립음악',
@@ -14,16 +12,20 @@ tags:
     '독립 레이블',
     '음악 산업',
   ]
-readingTime: 14
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-06-10T16:42:09Z'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T09:06:30.448876+00:00'
 ---
 
 **30초 개관: 1986년, 한국·일본 혼혈의 런장다(任將達)는 30만 대만달러를 빌려 문 닫기 직전의 음반점을 인수하고, 타이완에 “아무도 들으려 하지 않는 음악”을 수입하기 시작했다. 40년 뒤, 그 음반점에서 자라난 생태계, 즉 라이브 하우스, 독립 레이블, StreetVoice, 금음창작상은 카페에서 음반을 팔던 한 밴드를 금곡장 올해의 앨범 무대에 올렸고, 영어로만 노래하는 타이베이 밴드를 코첼라에 세웠다. 타이완 독립음악 40년은 끝이 없는 릴레이 경주다. 모든 주자가 숨이 턱까지 차고, 모두가 곧 쓰러질 것 같다고 느끼지만, 바통은 끝내 떨어지지 않았다.**
