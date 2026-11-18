@@ -2,9 +2,7 @@
 title: 'Sejarah Pulau Taiwan: Pulau yang Berulang Kali Dikuasai, Bagaimana Ia Menciptakan Subjekivity Sendiri'
 description: 'Sejarah Pulau Taiwan mengembalikan Taiwan dari tahun-tahun kekuasaan eksternal, mengubah pertanyaan menjadi bagaimana orang-orang di pulau ini hidup, bermigrasi, diperintah, bertahan hidup, dan menyusun ulang memori. Ini bukan menulis Taiwan sebagai pulau yang secara alami istimewa, melainkan mengingatkan kita: identitas juga tumbuh dari kehidupan bersama, luka bersama, dan tanggung jawab bersama; protagonis sejarah Taiwan seharusnya tidak selamanya hanya kekuasaan yang pernah singgah.'
 date: 2026-07-10
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '史觀與方法論'
 tags:
   [
     'Sejarah',
@@ -14,19 +12,28 @@ tags:
     'Lautan',
     'Sejarah Taiwan',
   ]
-readingTime: '22'
+subcategory: '史觀與方法論'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-10
 lastHumanReview: false
-featured: true
-imageLicense: '公有領域 (Public domain)'
-imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
-translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-18T18:59:54+08:00'
+researchReport: 'reports/research/2026-07/台灣島史觀-rewrite-outline.md'
 image: '/article-images/history/formosa-dutch-map-1640.webp'
 imageCredit: '荷蘭人繪 / Wikimedia Commons'
+imageLicense: '公有領域 (Public domain)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
+rationale:
+  why_this_hook: '從「誰統治台灣」轉成「台灣發生了什麼」，讓一般讀者先理解史觀解決的問題，再進入曹永和與學術脈絡。'
+  whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
+  where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
+  whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'History/台灣島史觀.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T13:34:29.721283+00:00'
 ---
 
 > **Ringkasan 30 detik:** Jika hanya bertanya "siapa yang pernah menguasai Taiwan", sejarah Taiwan akan menjadi tabel serah terima kekuasaan: Belanda, Spanyol, Dinasti Zheng, Kekaisaran Qing, Kekaisaran Jepang, dan Republik Tiongkok (Taiwan) muncul secara bergantian. Perspektif Sejarah Pulau Taiwan mengubah pertanyaan menjadi: di antara pergantian kekuasaan ini, apa yang terjadi pada orang-orang di pulau ini? Bagaimana mereka bermigrasi, berdagang, diperintah, melawan, jatuh cinta, mengalami bencana, dan membangun kembali, akhirnya mengubah sistem eksternal dan memori majemuk menjadi kehidupan mereka sendiri? Pada tahun 1990, sejarawan Tsao Yung-ho (曹永和) mengajukan konsep "Sejarah Pulau Taiwan"; kemudian para sarjana, museum, pendidikan, dan budaya publik mengubahnya menjadi intuisi sehari-hari yang lebih umum: identitas tidak hanya berasal dari garis keturunan atau negara asal, tetapi juga dari pengalaman hidup dan bertahan hidup di pulau yang sama. [^1][^2]
@@ -161,9 +168,9 @@ Itulah tempat yang paling berguna bagi pembaca umum dari Perspektif Sejarah Pula
 
 ## Sumber Gambar
 
-- Hero: Peta Formosa yang digambar oleh Belanda tahun 1640, Wikimedia Commons, domain publik. File asli: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- Peta Taiwan tahun 1880: Stanford's / Perpustakaan Kongres, Wikimedia Commons, domain publik. File asli: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- Tampak luar Museum Sejarah Nasional Taiwan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. File asli: [Museum Sejarah Nasional Taiwan 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Hero: Peta Formosa-Taiwan tahun 1640 karya orang Belanda, Wikimedia Commons, domain publik. Berkas asli: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- Peta Taiwan tahun 1880: Stanford's/Library of Congress, Wikimedia Commons, domain publik. Berkas asli: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Tampilan luar Museum Sejarah Nasional Taiwan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Berkas asli: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## Referensi
 

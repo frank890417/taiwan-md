@@ -2,9 +2,7 @@
 title: 'Hsiao Bi-khim'
 description: 'Lahir di Jepang, sekolah dasar di Tainan, besar di New Jersey, lulusan Oberlin "Cat Warrior", bagaimana dia menjadi perwakilan Taiwan ke AS paling sukses dalam sejarah, lalu menduduki jabatan Wakil Presiden?'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治人物'
 tags:
   [
     'Tokoh politik',
@@ -15,16 +13,20 @@ tags:
     'Hualien',
     'Cat Warrior',
   ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-07-25T12:45:41+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T12:43:48.854476+00:00'
 ---
 
 # Hsiao Bi-khim

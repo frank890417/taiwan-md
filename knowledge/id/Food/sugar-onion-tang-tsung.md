@@ -2,9 +2,7 @@
 title: 'Tang-tsung: Gula yang Tersembunyi di dalam Lubang Putih "Gula Perlawanan"'
 description: 'Pada 1940-an, petani Taiwan untuk menghindari monopoli gula tebu oleh polisi Jepang, menarik sirup coklat gelap menjadi tabung putih seperti bawang — "seni penyamaran" petani, kristal kebijakan akar rumput selama seratus tahun. Setiap potong tang-tsung memiliki 16 lubang besar dan 16 lubang kecil yang presisi, menopang perjuangan manis renyah Taiwan selama satu abad.'
 date: 2026-04-23
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Food',
@@ -15,15 +13,19 @@ tags:
     'Sejarah Industri Gula',
     'Budaya Perlawanan',
   ]
-readingTime: 15
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
-featured: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-18T13:25:45.682238+00:00'
 ---
 
 # Tang-tsung: Gula yang Tersembunyi di dalam Lubang Putih "Gula Perlawanan"

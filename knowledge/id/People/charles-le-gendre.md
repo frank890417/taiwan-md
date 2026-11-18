@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李仙得.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: '2026-07-26T19:42:09+08:00'
+translatedAt: '2026-11-18T13:14:24.364097+00:00'
 ---
 
 # Charles Le Gendre: Si Penandatangan Perjanjian dan Si Penjual Informasi Adalah Orang yang Sama

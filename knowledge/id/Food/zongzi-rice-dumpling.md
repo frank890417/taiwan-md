@@ -2,9 +2,7 @@
 title: 'Zongzi'
 description: 'Zongzi Taiwan bukan sekadar satu jenis makanan, melainkan empat kenangan pulau yang berbeda bertumpuk: Hokkien, Hakka, Waisheng, dan Suku Asli Taiwan; setiap gigitan adalah jejak perjalanan leluhur.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
   [
     'Festival Duanwu',
@@ -15,15 +13,19 @@ tags:
     'Suku Asli Taiwan',
     'Makanan Perayaan',
   ]
-readingTime: 7
+subcategory: '節慶飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-07-25T06:34:15+08:00'
+translatedAt: '2026-11-18T13:23:22.358751+00:00'
 ---
 
 # Zongzi

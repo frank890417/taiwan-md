@@ -2,9 +2,7 @@
 title: 'Ang Lee: Di Balik Dua Oscar, Seorang Putra yang Tak Sempat Mengucapkan Selamat Tinggal kepada Ayahnya'
 description: 'Di panggung Oscar 2006, Ang Lee menjadi orang Asia pertama dalam sejarah yang meraih penghargaan Sutradara Terbaik, tetapi ia justru berkata dalam bahasa Mandarin, “Terima kasih atas perhatian kalian.” Dunia mengenangnya sebagai kebanggaan Taiwan dengan dua piala Oscar, tetapi sepanjang hidup ia membuat film tentang represi, ketakutan, dan ayah yang selalu menentang karier filmnya lalu meninggal mendadak dua tahun sebelumnya. Dari menantu pengangguran yang memasak di rumah selama enam tahun hingga dua kali meraih Singa Emas Venesia, lawan sejatinya tidak pernah berada di lokasi syuting, melainkan dirinya sendiri yang tak kunjung mampu ia lampaui.'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Tokoh',
@@ -15,18 +13,22 @@ tags:
     'Lintas budaya',
     'Golden Horse Awards',
   ]
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: true
 image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李安.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:270ebb8ad85e9750'
 sourceBodyHash: 'sha256:1c12395477bc0a4e'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-18T13:00:01.329214+00:00'
 ---
 
 # Ang Lee: Di Balik Dua Oscar, Seorang Putra yang Tak Sempat Mengucapkan Selamat Tinggal kepada Ayahnya
