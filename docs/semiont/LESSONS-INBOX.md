@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-18 twmd-maintainer-daily — 我在格式化器動手之前驗了一次，它說通過；格式化器把那一列變成了標題
+
+- **pattern**: `lint-before-the-formatter-certifies-a-row-the-formatter-will-delete`
+- **事實**：本班把待決項 #129 插進 `OBSERVER-QUEUE.md` §待決 表尾，插入點是 `## 已決` 前的 `---` 分隔線之前。寫完當場跑 `observer-queue-lint.py`，回「§待決 29 列都帶預設選項與 default-action，下一個可用編號 #130」。commit（`d1424e88d`）之後那一列不在表裡：檔案 28 列、最大編號 128、`---` 分隔線也不見了。原因是 Markdown 的 setext 標題語法——**一行文字緊接著一行 `---`，那行文字就是 H2**。我插入時只加了一個換行，於是 `| 129 | ... |` 後面直接接 `---`，prettier（lint-staged 在 pre-commit 跑）把它正規化成 ATX 形式，整列變成 `## | 129 | 2026-11-18 | **Sovereignty-Bench...`。表格少一列，而 commit 訊息講的正是那一列。修復在 `1710a81fb`：剝掉 `## `、補回空行與分隔線，先手跑 `npx prettier --write` 確認回報 unchanged 才 commit，然後**從 HEAD 讀回來**確認 29 列。
+- **形狀**：這不是 prettier 的 bug，它對 setext 的處理完全正確。壞的是我的驗證時刻。`observer-queue-lint` 是誠實的，它量的是**它被呼叫那一刻的檔案**；而那一刻在 `prettier --write` 之前。兩個自動化元件對同一份檔案有不同意見時，**有寫入權的那個先動手**，而我的閘門只有否決權、而且已經先投完票了。既有教訓 `格式化器與檢查器對同一份檔案的判斷相反，順序決定誰先動手`（2026-09-07，神經迴路）講的是同一對元件、症狀是「真封鎖」——閘門正確擋下、推不進去、很吵。本例是**反面**：閘門正確放行、推得進去、很安靜，而內容在中途被改寫掉。會叫的那種比較安全（[REFLEXES #38](REFLEXES.md) 佇列狀態那條的同一句話）。
+- **為什麼它特別安靜**：commit 回報「1 file changed, 2 insertions(+), 2 deletions(-)」，而我預期的就是「#115 改一行 + #129 加一行」，兩個數字看起來剛好對得上。pre-commit 的 lint 輸出印的是「28 列」——那個數字當場就在螢幕上，而我讀成了背景雜訊，因為前一次（改寫前）它印 29。**同一支尺在同一個 commit 裡印了兩個不同的讀數，而我只相信了先印的那個。**
+- **候選機械化**：(a) `observer-queue-lint.py` 進 pre-commit 時，把「§待決 列數」寫進一個 commit 前後可比的地方（或讓它在 staged 內容與工作樹內容列數不一致時 fail），讓「hook 改寫前後列數不同」自己變成紅燈，而不是兩行各自正確的綠燈；(b) 任何以 `|` 開頭的表格列，插入時後面強制接空行——這是純文字操作、零判斷，可以做成插入 helper 或 lint 的一條 WARN。
+- **一般化**：凡是 pre-commit 會改寫檔案的 repo，「我驗過了」要附一個時刻。在 `prettier --write` 之前驗到的綠燈，證明的是我寫的東西合格，不是 commit 進去的東西合格——[REFLEXES #100](REFLEXES.md)「驗證對象要等於落地對象」在文件層的形狀（原文誕生於 lockfile 與 node_modules，這次是 markdown 表格與 setext 標題）。最小成本的修法不是加閘門，是**把驗證搬到 commit 之後**：收官讀一次 `git show HEAD:<file>`。本班第二次 commit 就是這樣做的。
+- **相關**：[REFLEXES #100](REFLEXES.md)（驗證對象要等於落地對象）／[#99](REFLEXES.md)（尺先驗再用——本班同日另一個 instance：`article-health` 對 scratchpad 副本一律回 `hard=1`，因為 category 從路徑推導，六個 PR 全被誤報不過閘；跑一次已知良品的正控制才現形，否則會寫成「兩位投稿者六篇全部不過硬閘」這種對人的指控）／[#83](REFLEXES.md)（兩把尺對同一份檔案不同調）／神經迴路「格式化器與檢查器對同一份檔案的判斷相反」（2026-09-07，真封鎖面）
+- **verification_count**: 1
+- **severity**: structural（任何 canonical 文件的表格列都走這條路徑，而失效模式是安靜的：閘門綠、commit 訊息對、內容沒進去）
+
 ### 2026-11-17 twmd-feedback-triage — 三輪儀器進化都誠實寫著「不代替當班去撈」，於是撈這件事始終沒有閘門
 
 - **pattern**: `three-honest-instruments-leave-the-same-manual-step-ungated`
