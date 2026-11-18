@@ -1,10 +1,8 @@
 ---
 title: "'लोकतंत्रिकरण'"
 description: "'18 मार्च 1980 को, हाओसियुंग सैन्य न्यायालय में, शि मिंगदे ने 60,000 शब्दों के बचाव पत्र को त्याग दिया और न्यायाधीश से मौत की सजा की मांग की। उसी मुकदमे में, अभिवादी के लिए बचाव करने वाले युवा वकील चेन शुई-बियान, शिया चंग-तिंग और सु जेन-चांग, बीस साल बाद सभी राष्ट्रपति या प्रशासन प्रमुख बने। एक मुकदमा जो मुर्गे को काटकर बंदर को चेतावनी देना था, ने अनजाने में ताइवान के अगले पीढ़ी के राजनीतिक नेताओं को जन्म दिया।'"
-date: '2026-03-27'
-author: "'Taiwan.md'"
-category: "'History'"
-subcategory: '戰後與威權'
+date: 2026-03-27
+category: 'History'
 tags:
   [
     'इतिहास',
@@ -13,14 +11,18 @@ tags:
     'सुंदर द्वीप घटना',
     'वनबेगोनिया छात्र आंदोलन',
   ]
-lastVerified: '2026-03-27'
-lastHumanReview: 'false'
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-27
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: 'dbaf28954'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0f572861e1f79f7d'
 sourceBodyHash: 'sha256:b51e57f04bd06fc2'
-translatedAt: '2026-07-18T19:14:58+08:00'
+translatedAt: '2026-11-18T14:28:09.136375+00:00'
 ---
 
 # लोकतंत्रिकरण

@@ -2,9 +2,7 @@
 title: 'ज़ोंगज़ी'
 description: 'ताइवान का ज़ोंगज़ी एक भोजन नहीं है, बल्कि चार अलग-अलग द्वीपीय स्मृतियाँ हैं जो एक-दूसरे पर सटी हुई हैं: मिनन, हक़का, बाह्य प्रांत, और आदिवासी; हर कड़च में, वह रास्ता है जिससे आप आए हैं।'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
   [
     'दुआनवु उत्सव',
@@ -15,15 +13,19 @@ tags:
     'आदिवासी',
     'उत्सव भोजन',
   ]
-readingTime: 7
+subcategory: '節慶飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-07-25T15:19:35+08:00'
+translatedAt: '2026-11-18T14:35:15.711306+00:00'
 ---
 
 # ज़ोंगज़ी

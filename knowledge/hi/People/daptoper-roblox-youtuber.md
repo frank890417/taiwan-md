@@ -17,11 +17,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-07-25T12:49:32+08:00'
+translatedAt: '2026-11-18T13:25:52.034782+00:00'
 ---
 
 > **30 सेकंड अवलोकन：**  

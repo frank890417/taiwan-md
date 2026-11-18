@@ -2,9 +2,7 @@
 title: 'ली अंग: दो ऑस्कर के पीछे, वह बेटा जिसके पिता को अलविदा कहने का मौका ही नहीं मिला'
 description: '2006 में ऑस्कर के मंच पर, ली अंग इतिहास के पहले एशियाई निर्देशक बने जिन्होंने सर्वश्रेष्ठ निर्देशक का पुरस्कार जीता, लेकिन उन्होंने मंदारिन में कहा, "आपकी देखभाल के लिए धन्यवाद।" दुनिया दो छोटे सोने के मूर्तियों के ताइवान के प्रकाश को याद करती है, लेकिन उसने जो पूरे जीवन फिल्माया, वह दमन, भय और वह पिता है जो दो साल पहले अचानक चल बस गया और हमेशा से उसकी फिल्मों का विरोध करता था। छह साल तक घर पर खाना पकाने वाले बेरोजगार दामाद से लेकर वेनिस में दो बार सिंघ लियोन तक, उसका असली प्रतिद्वंद्वी कभी सेट नहीं था, बल्कि वह स्वयं था जो पार नहीं कर पा रहा था।'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'व्यक्ति',
@@ -15,18 +13,22 @@ tags:
     'अंतर-सांस्कृतिक',
     'गोल्डन हॉर्स अवार्ड',
   ]
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: true
 image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李安.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:270ebb8ad85e9750'
 sourceBodyHash: 'sha256:1c12395477bc0a4e'
-translatedAt: '2026-07-18T19:14:57+08:00'
+translatedAt: '2026-11-18T13:52:49.695163+00:00'
 ---
 
 # ली अंग: दो ऑस्कर के पीछे, वह बेटा जिसके पिता को अलविदा कहने का मौका ही नहीं मिला

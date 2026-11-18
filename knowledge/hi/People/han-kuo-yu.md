@@ -22,15 +22,21 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
-  [
-    "{'id': 24, 'platform': 'threads', 'date': '2026-04-13', 'url': 'https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf'}",
-    "{'id': 26, 'platform': 'x', 'date': '2026-04-13', 'url': 'https://x.com/taiwandotmd/status/2043538858886017091'}",
-  ]
+  - id: 24
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf'
+  - id: 26
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-07-30T22:54:34+08:00'
+translatedAt: '2026-11-18T13:14:31.412259+00:00'
 ---
 
 # हान क्वो-यू
