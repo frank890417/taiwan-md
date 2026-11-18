@@ -24,11 +24,13 @@ image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:067149f437c5a573'
 sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-18T03:17:59.578287+00:00'
 ---
 
 ![Katalin Karikó und Drew Weissman erhielten 2022 den Life Science Award; sie posieren vor einem Hintergrund](/article-images/society/kariko-weissman-life-science-2022.webp)
