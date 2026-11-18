@@ -31,11 +31,13 @@ sporeLinks:
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '7e660a586'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:11f4b1d06ffc2776'
 sourceBodyHash: 'sha256:a42a37a855f0ab8b'
-translatedAt: '2026-10-15T01:07:17+08:00'
+translatedAt: '2026-11-18T16:23:55.746728+00:00'
 ---
 
 Alors que le monde entier dépense des centaines de millions de dollars en puissance de calcul pour poursuivre l'IA, un article a changé la manière dont les machines raisonnent pour un coût d'environ 5 000 dollars.

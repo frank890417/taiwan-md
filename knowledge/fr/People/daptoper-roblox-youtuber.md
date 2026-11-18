@@ -2,6 +2,7 @@
 title: "Daptoper : de « Dark Laptop » à un million d'abonnés, le curateur de données qui définit la génération Roblox"
 description: "En 2023, « Daptoper », de son vrai nom Zhou Zhi-Xuan, atteint le million d'abonnés sur YouTube. Du streaming Minecraft à ses débuts à l'exploitation du marché émergent de Roblox, cet étudiant en suspension de l'Université nationale de Tsing Hua a bâti un empire numérique transmédia — livres physiques et Discord — en combinant l'autodérision d'un « retardaire ponctuel du lundi, mercredi et vendredi » et une discipline de données acharnée derrière l'écran."
 date: 2026-04-24
+category: 'People'
 tags:
   [
     'YouTuber',
@@ -11,16 +12,18 @@ tags:
     'natif numérique',
     'autodiscipline',
   ]
-category: 'People'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-05-01T22:19:06+08:00'
+translatedAt: '2026-11-18T16:07:30.883891+00:00'
 ---
 
 > **En 30 secondes :**

@@ -2,9 +2,7 @@
 title: "Cheng Chou-yu : le vagabond qui écrivit « L'Erreur », finit par s'installer à Kinmen"
 description: "En 1955, à 22 ans, Cheng Chou-yu écrivit dans *Sur le pays des rêves* : « Mes sabots au trot galopant sont une belle erreur ». Les lecteurs taïwanais l'ont lu comme un poème d'amour pendant soixante-dix ans. Mais il a clarifié tardivement qu'il s'agissait en réalité d'un poème anti-guerre, évoquant la scène d'une mère en Chine continentale attendant en vain le retour de son père pendant la guerre de Résistance contre le Japon. En 2005, après sa retraite de Yale, il revint à Taïwan et transféra son domicile au sein du foyer d'un parent Cheng dans le comté de Kinmen. Le 13 juin 2025, à 4 h 44 du matin, il s'est éteint aux États-Unis d'une insuffisance cardiaque, à l'âge de 91 ans."
 date: 2026-05-24
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學與詩人'
 tags:
   [
     'Littérature',
@@ -16,23 +14,28 @@ tags:
     'Yale',
     'Ji Xian',
   ]
+subcategory: '文學與詩人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-24
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-05/taiwan-poets-2-postwar-modernism.md'
+image: '/article-images/people/zheng-chouyu-portrait-2017.webp'
+imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
 sporeLinks:
   - id: 86
     platform: 'threads'
     date: '2026-05-24'
     url: 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭愁予.md'
-sourceCommitSha: 'cce7f252'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05733d2c54bfc625'
 sourceBodyHash: 'sha256:77382e9a08c09f18'
-translatedAt: '2026-06-16T17:05:54Z'
-image: '/article-images/people/zheng-chouyu-portrait-2017.webp'
-imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
+translatedAt: '2026-11-18T15:29:15.954256+00:00'
 ---
 
 # Cheng Chou-yu : le vagabond qui écrivit « L'Erreur », finit par s'installer à Kinmen

@@ -4,16 +4,19 @@ description: 'Le premier maire de ville directement administrée de l’histoire
 date: 2026-04-11
 category: 'People'
 tags:
-  - 'personnalité politique'
-  - 'Parti nationaliste chinois'
-  - 'Président de la Chambre législative'
-  - 'Han-liu'
-  - 'Kaohsiung'
-  - '2018'
-  - '2020'
-  - '2024'
+  [
+    'personnalité politique',
+    'Parti nationaliste chinois',
+    'Président de la Chambre législative',
+    'Han-liu',
+    'Kaohsiung',
+    '2018',
+    '2020',
+    '2024',
+  ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-04-11
@@ -27,12 +30,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-06-12T00:53:43+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T16:00:31.342285+00:00'
 ---
 
 # _Han Kuo-yu_
