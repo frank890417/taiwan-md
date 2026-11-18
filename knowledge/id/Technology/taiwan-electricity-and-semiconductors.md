@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-26T23:53:47+08:00'
+translatedAt: '2026-11-18T19:40:36.659143+00:00'
 ---
 
 # Listrik dan Semikonduktor Taiwan: Tagihan Listrik Gunung Penyelamat Negara
@@ -190,10 +192,10 @@ Semikonduktor bikin Taiwan dibutuhkan dunia. Listrik ngingetin Taiwan: dibutuhka
 
 ## Referensi
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Melaporkan rencana hemat energi EUV TSMC, skala total pemakaian listrik, dan proporsi hemat energi alat,可用於說明效率提升與總量壓力並存。
+[^1]: [Tom's Hardware: TSMC mengurangi konsumsi daya puncak alat EUV sebesar 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Melaporkan rencana penghematan energi EUV TSMC, skala total penggunaan listrik, dan proporsi penghematan energi alat, yang dapat digunakan untuk menjelaskan koeksistensi antara peningkatan efisiensi dan tekanan total kebutuhan energi.
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Melaporkan Asosiasi Industri Semikonduktor Taiwan mengeluarkan peringatan soal stabilitas listrik dan pasokan energi terbarukan, serta merangkum RE100, kebutuhan energi hijau pabrik wafer, dan risiko pemindahan ke luar negeri.
+[^2]: [Tom's Hardware: Asosiasi semikonduktor yang dipimpin TSMC memperingatkan tentang tekanan pasokan daya](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Melaporkan peringatan dari asosiasi industri semikonduktor Taiwan mengenai stabilitas listrik dan pasokan energi terbarukan, serta merangkum RE100, permintaan listrik hijau pabrik wafer, dan risiko relokasi ke luar negeri.
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Meneliti jejak lingkungan 16 produsen komponen elektronik Taiwan 2015-2020, mengemukakan energi, air, dan emisi karbon naik seiring pertumbuhan produksi serta risiko carbon lock-in.
+[^3]: [Roussilhe et al.: Dari Perisai Silikon menuju Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Meneliti jejak lingkungan dari 16 produsen komponen elektronik Taiwan selama periode 2015-2020, serta mengemukakan risiko peningkatan energi, air, dan emisi karbon seiring pertumbuhan produksi serta risiko carbon lock-in.
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press melaporkan hasil referendum perpanjangan PLTN Maanshan 2025 Taiwan, serta menjelaskan bagaimana pendukung nuklir memasukkan tarif dan kebutuhan listrik AI ke argumen mereka.
+[^4]: [AP: Anggota legislatif Taiwan selamat dari pemungutan suara penarikan mandat; referendum tenaga nuklir gagal](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press melaporkan hasil referendum perpanjangan masa operasional Nuklir Ketiga di Taiwan tahun 2025, dan menjelaskan bagaimana pendukung tenaga nuklir memasukkan isu harga listrik dan kebutuhan daya AI ke dalam narasi mereka.

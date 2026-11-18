@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2513952bc4eab478'
-sourceBodyHash: 'sha256:96d147de5fc403fe'
-translatedAt: '2026-07-26T17:01:24+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:997d7b4d1eaa5fa3'
+sourceBodyHash: 'sha256:5ca208b092a24109'
+translatedAt: '2026-11-18T20:32:26.624445+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Bangunan ilegal di seluruh Taiwan 716.372 unit, enam kota besar menyumbang delapan puluh persen, New Taipei satu kota saja 186.000 unit[^1]. Taipei 1995 menarik satu garis—bangunan ilegal yang sudah ada sebelum 31 Desember 1994 ditangguh penggedorannya, yang baru setelahnya «dilaporkan langsung digedorkan»[^4]. Garis itu mengubah ilegal menjadi diterima diam-diam, diterima diam-diam menjadi pemandangan kota, dan pemandangan kota menjadi perangkap di tengah kebakaran. Lapisan seng yang sama juga menopang kepadatan minimarket campuran hunian-komersial, menopang mitos keamanan Taiwan «tengah malam keluar rumah tetap nemu lampu»[^9].
@@ -103,21 +105,22 @@ Kementerian Dalam Negeri 2024 tidak mengubah kriteria pengakuan bangunan ilegal 
 
 Sub-judul cerita sampul _Business Weekly_: «Pakai cara yang benar tidak ada bangunan ilegal yang tidak bisa digedorkan.»[^13] Tapi «cara yang benar» saat ini hanya muncul di sedikit titik panas di mana pemerintah mau bayar biaya penataan ulang kota. Bagi mayoritas rumah atap seng tersebar di enam kota besar, garis 1994 itu masih di tempatnya.
 
-## Lapisan Logam Ini Akan Tetap Ada
+## Lapisan logam ini akan terus ada
 
-Andaikah kamu sore hari 2026 terbang dari Pegunungan Tengah, dari landasan pacu memandang ke luar, skyline Taoyuan, New Taipei, Taichung, Kaohsiung akan jadi lautan gelombang atap bergelombang oranye (cat anti karat) dan perak (pelat baja seng). Itu 716.372 keputusan keluarga masing-masing masuk akal, dijumlahkan tak bisa diurus.
+Jika Anda terbang melintasi Pegunungan Central pada suatu sore di tahun 2026 dan melihat ke luar dari landasan pacu, cakrawala Taoyuan, New Taipei, Taichung, dan Kaohsiung akan tampak seperti lautan lembaran gelombang berwarna oranye (cat anti karat) dan perak (pelat baja galvanis). Itu adalah hasil dari keputusan masing-masing dari 716.000 keluarga—keputusan yang masuk akal bagi setiap individu, namun menjadi sesuatu yang tidak terkendali saat digabungkan.
 
-Chen Zhengyi menulis: «Tanda toko besar menonjolkan mentalitas sombong dan membandingkan, rumah atap seng menampakkan efisiensi cepat murah di atas segalanya, tapi keduanya sebenarnya rapuh.»[^11] Zi Yu de Du Suan Zhai menulis kalimat lain: «Banyak kekurangan dan kelebihan memang hasil dua sisi satu kesatuan.»[^9]
+Chen Cheng-yi menulis sebuah kalimat: 「Papan nama toko yang besar menonjolkan mentalitas narsisme dan perbandingan, sementara rumah atap seng menunjukkan efisiensi yang cepat dan murah, tetapi sebenarnya keduanya rapuh.」[^11] Sementara itu, Zi Yu dalam _Du Suan Zhai_ menulis hal lain: 「Banyak kekurangan dan kelebihan pada dasarnya adalah hasil dari dua sisi dari satu koin yang sama.」[^9]
 
-Keduanya benar. Atap seng tambahan keluarga lima orang Lioujia rapuh, minimarket 24 jam di sudut Jalan Dongning yang menyala aman—sepotong logam yang sama, menutupi jalan yang sama, ditentukan oleh garis 1994 yang sama siapa yang harus digedorkan, siapa yang boleh tinggal.
+Keduanya benar. Penambahan atap seng pada keluarga beranggotakan lima orang di Liujia, Tainan, itu memang rapuh; namun minimarket yang lampunya menyala 24 jam di mulut gang Jalan Dongning adalah tempat yang aman—logam yang sama, menutupi jalan yang sama, namun ditentukan oleh garis tahun 1994 yang sama tentang siapa yang harus dibongkar dan siapa yang boleh bertahan.
 
-Kebakaran berikutnya akan mulai di atap bangunan ilegal yang sudah ada yang mana? Tidak ada yang bisa pasti. Selama garis itu ada, kebakaran berikutnya pasti akan datang.
+Di atap bangunan ilegal mana kebakaran berikutnya akan terjadi? Tidak ada yang tahu pasti. Selama garis itu masih ada, kebakaran berikutnya akan tetap ada.
 
 **Bacaan Lanjutan**:
 
-- [Perumahan Sosial dan Keadilan Perumahan](/id/society/social-housing-and-housing-justice) — Kendala promosi perumahan sosial Taiwan dan masalah pasar sewa, struktur perumahan lebih besar yang melingkupi masalah rumah atap seng
-- [Keadilan Lingkungan dan Sengketa Tetangga Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Isu penggunaan lahan dan pencemaran lingkungan di balik penggedoran pabrik atap seng Zengwun
-- [Keadilan Tanah Masyarakat Asli Taiwan dan Wilayah Tradisional](/id/society/indigenous-land-justice-and-traditional-territories) — Memahami kompleksitas penggunaan lahan antara «legal dan ilegal» Taiwan dari sudut pandang berbeda
+- [Harga Rumah, KPR, dan Program Qing'an di Taiwan](/housing/) — Halaman khusus: Angka resmi rasio beban KPR di berbagai kota/kabupaten dan hunian dengan tingkat penggunaan rendah; melihat bagaimana rumah yang tidak terbeli dan rumah kosong dapat eksis secara bersamaan.
+- [Perumahan Sosial dan Keadilan Hunian](/id/society/social-housing-and-housing-justice) — Dilema promosi perumahan sosial di Taiwan dan masalah pasar sewa, struktur perumahan yang lebih besar tempat masalah rumah atap seng berada.
+- [Keadilan Lingkungan dan Kontroversi NIMBY di Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Perluasan isu penggunaan lahan dan polusi lingkungan di balik pembongkaran pabrik atap seng di Wanzaizhen.
+- [Keadilan Lahan Masyarakat Adat Taiwan dan Wilayah Tradisional](/id/society/indigenous-land-justice-and-traditional-territories) — Memahami kompleksitas penggunaan lahan antara "legal dan ilegal" di Taiwan dari berbagai sudut pandang.
 
 ## Referensi
 

@@ -1,8 +1,8 @@
 ---
 title: 'Takeshi Kaneshiro: Dari "Warga" yang Tidak Dikenali, Hingga "Idola Asia" yang Hanya Ingin Dilupakan Dunia'
 description: 'Sebuah berita liputan jalanan tahun 2025 menandainya sebagai "warga", momen yang mungkin paling diinginkan Takeshi Kaneshiro. Dari usia 17 tahun memasak iklan untuk membeli motor, hingga menjadi bintang internasional melintasi Taiwan, Jepang, dan Hong Kong, ia terus berlatih "menghilang" di puncak dunia hiburan.'
+date: 2026-06-19
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',
@@ -13,17 +13,19 @@ tags:
     'Onimusha',
     'The Crossing',
   ]
-date: 2026-06-19
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-07-28T22:24:23+08:00'
+translatedAt: '2026-11-18T20:52:43.143295+00:00'
 ---
 
 > **Ringkasan Tiga Puluh Detik:**

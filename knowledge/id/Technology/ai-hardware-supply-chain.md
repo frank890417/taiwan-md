@@ -27,11 +27,13 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:de7f4ddf0c4e6168'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:8e26b4c15a1d169a'
 sourceBodyHash: 'sha256:fb0ee951dd4978bf'
-translatedAt: '2026-11-02T05:45:30+08:00'
+translatedAt: '2026-11-18T19:34:21.046907+00:00'
 ---
 
 # Rantai Pasok Perangkat Keras AI: Tempat Taiwan Mengubah Cloud Menjadi Mesin
@@ -176,15 +178,17 @@ Taiwan mengubah cloud menjadi mesin. Arti sebenarnya dari kalimat ini adalah: AI
 
 Inilah salah satu posisi Taiwan saat ini yang paling jelas, dan juga yang paling perlu dipahami dengan benar.
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Latar belakang makro dari orientasi ekspor, perdagangan segitiga, hingga restrukturisasi rantai pasok AS-Tiongkok.
-- [NVIDIA di Taiwan](/id/technology/nvidia-in-taiwan) — Bagaimana NVIDIA menempatkan manufaktur chip, pengemasan, dan perakitan server secara mendalam di Taiwan.
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Latar belakang jangka panjang dari transfer teknologi RCA, manufaktur kontrak TSMC, hingga medan tempur material dan pengemasan.
-- [Computex](/id/technology/computex) — Mengapa pameran komputer Taipei menjadi tempat ziarah bagi sisi pasokan perangkat keras global di era AI.
-- [Listrik Taiwan dan Semikonduktor](/id/technology/taiwan-electricity-and-semiconductors) — Tagihan listrik di balik rantai pasok AI, tekanan energi hijau, dan keamanan energi.
-- [Penggunaan Air Semikonduktor dan Sumber Daya Air Taiwan](/id/technology/semiconductor-water-use-and-taiwan-water-resources) — Bagaimana pabrik wafer terhubung dengan waduk, kekeringan, air daur ulang, dan tata kelola lokal.
-- [Pembangunan Pabrik Luar Negeri dalam Rantai Pasok AI](/id/technology/ai-supply-chain-overseas-manufacturing) — Dari TSMC, Hon Hai, Wistron hingga Delta, bagaimana rantai pasok Taiwan "diundang" keluar oleh dunia.
+- [Peta Rantai Pasok](/industry/supply-chain-map/) — Tiga rantai: semikonduktor, server AI, dan tungsten, lihat perusahaan mana di Taiwan dan link mana yang bergantung pada luar negeri
+- [Khusus Industri Taiwan](/industry/) — Menggambar struktur industri dengan statistik resmi: 70 tahun ekspor dan GDP, taman sains, pabrik per kabupaten/kota, 10 besar kapitalisasi pasar tiap tahun, ditambah argumen berbagai pihak dalam enam perdebatan publik
+- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Latar belakang makro dari orientasi ekspor, perdagangan segitiga, hingga reorganisasi rantai pasok AS–Tiongkok
+- [NVIDIA di Taiwan](/id/technology/nvidia-in-taiwan) — Bagaimana NVIDIA menitipkan manufaktur chip, pengemasan, dan perakitan server secara mendalam di Taiwan
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Latar belakang jangka panjang dari transfer teknologi RCA, foundry TSMC, hingga medan pertempuran material dan pengemasan
+- [Computex](/id/technology/computex) — Mengapa pameran komputer Taipei di era AI menjadi tempat ziarah bagi pihak pasokan hardware global
+- [Listrik dan Semikonduktor Taiwan](/id/technology/taiwan-electricity-and-semiconductors) — Tagihan listrik, tekanan energi hijau, dan keamanan energi di balik rantai pasok AI
+- [Air untuk Semikonduktor dan Sumber Daya Air Taiwan](/id/technology/semiconductor-water-use-and-taiwan-water-resources) — Bagaimana pabrik wafer terhubung ke bendungan, kekeringan, air daur ulang, dan tata kelola lokal
+- [Pabrik Rantai Pasok AI di Luar Negeri](/id/technology/ai-supply-chain-overseas-manufacturing) — Dari TSMC, Hon Hai, Wistron, hingga Delta, bagaimana rantai pasok Taiwan diminta dunia untuk membangun pabrik di luar negeri
 
 ## Sumber Gambar
 

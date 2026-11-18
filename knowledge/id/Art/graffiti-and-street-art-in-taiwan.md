@@ -14,11 +14,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-07-29T15:46:41+08:00'
+translatedAt: '2026-11-18T19:51:05.655659+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
@@ -72,16 +74,16 @@ Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/articl
 
 ## Referensi
 
-[^1]: [Seniman Graffiti Taiwan Reach, Balikan! Dari Jalanan Menuju Gaya Ciptaan Multidimensi](https://www.wowlavie.com/article/ae1902012) — WowLavie (Lihat sumber asli pada tautan)
+[^1]: [Seniman Grafiti Taiwan Reach, Kebangkitan Blake! Dari Jalanan Menuju Gaya Kreasi yang Beragam](https://www.wowlavie.com/article/ae1902012) — WowLavie (Lihat sumber asli pada tautan)
 
-[^3]: [Wawancara Khusus Seniman Graffiti Da Chang Wang: Isi Usus Adalah Tinja, Seni Pun Demikian.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [Wawancara Eksklusif dengan Seniman Grafiti Dachang Wang: Bagian Dalam Sosis adalah Kotoran, Begitu Juga Seni.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [Budaya Jalanan Masuk Komersial Salahkah? Pelopor Graffiti Taiwan Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [Apakah Salah Jika Budaya Jalanan Menuju Komersialisasi? Pionir Grafiti Taiwan Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [Burung Permen Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Basis Data Seni Kontemporer Taiwan
+[^5]: [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Database Seni Kontemporer Taiwan
 
-[^6]: [Graffiti Sembarangan Denda Maks 6000! 14 Dinding Graffiti Legal Kota Utara Sekilas](https://newtalk.tw/news/view/2019-11-27/332344) — Badan Lingkungan Hidup Pemerintah Kota Taipei
+[^6]: [Grafiti Liar Dapat Didenda Hingga NT$6.000! Daftar 14 Dinding Grafiti Legal di Taipei](https://newtalk.tw/news/view/2019-11-27/332344) — Biro Perlindungan Lingkungan Pemerintah Kota Taipei
 
-[^8]: [Perpaduan Cagar Budaya dan Seni Pasca-Modern "Seni Jelajah Tak Tuntas" Ajakmu Berkeliling Taman Bertema Film Kota Taipei](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Biro Pariwisata dan Komunikasi Pemerintah Kota Taipei
+[^8]: [Perpaduan Situs Bersejarah dan Seni Postmodern: "Art Tour" Membawa Anda Menjelajahi Taman Bertema Film Kota Taipei](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Biro Pariwisata dan Komunikasi Pemerintah Kota Taipei
 
-[^9]: [Mengeluarkan Rasa Taiwan Kental dari Lipatan Keriput, Teman Seniman Hatsumimi — Da Chang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi Pendengar Pertama
+[^9]: [Mengeluarkan Rasa Taiwan yang Kental dari Lipatan Kerutan, Teman Seniman Hatsumimi — Dachang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Lihat sumber asli pada tautan)

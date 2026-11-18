@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-08-09T06:08:43.416064+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-18T20:43:23.553214+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 2003, SARS di Taiwan menewaskan 73 orang, dan insiden penggelapan Rumah Sakit Heping menjadi trauma kolektif dalam sejarah kesehatan masyarakat. Kemudian Taiwan hampir membangun ulang seluruh sistem pencegahan wabahnya: Badan Pengendalian Penyakit (CDC) ditingkatkan, mekanisme Pusat Komando Epidemiologi Pusat (CECC) dilegalisasi, dan prosedur pengendalian infeksi direvisi menyeluruh. Pada 2020, saat COVID-19 menyebar global, Taiwan mempertahankan transmisi lokal hampir nol selama 18 bulan pertama, yang disebut komunitas internasional sebagai "Model Taiwan". Pada April 2026, Taiwan mencatat kasus pertama penularan flu burung H7N7 dari burung ke manusia secara lokal — sistem pencegahan wabah diuji kembali.
@@ -79,25 +81,26 @@ Inilah warisan SARS beroperasi: ada otoritas khusus (CDC), ada wewenang hukum (_
 | Kekurangan peralatan       | Sistem masker identitas dibangun 72 jam | 40-50 ribu masker langsung dibagikan ke peternak bebek |
 | Informasi tidak transparan | Konferensi pers harian                  | Pengumuman pengurutan genom real-time                  |
 
-## Jaminan Kesehatan Nasional: Infrastruktur Tersembunyi Pencegahan Wabah
+## Jaminan Kesehatan: Infrastruktur Tersembunyi Pencegahan Wabah
 
-Lapisan dasar sistem pencegahan wabah Taiwan, adalah **Jaminan Kesehatan Nasional** yang diluncurkan pada 1995.
+Sistem pencegahan wabah Taiwan berlandaskan [Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance/) yang diluncurkan pada 1995.
 
-23,4 juta orang berbagi satu basis data jaminan kesehatan, satu kartu jaminan kesehatan. Kartu ini selama COVID-19 menjadi infrastruktur pencegahan wabah: pembelian masker _real-name_ mengandalkan kartu jaminan kesehatan, penandaan riwayat perjalanan mengandalkan koneksi kartu jaminan kesehatan, catatan vaksinasi tertulis di kartu jaminan kesehatan. Tanpa basis data penutup seluruh warga ini, model Taiwan tidak mungkin terbentuk[^10]。
+23,4 juta orang berbagi satu basis data Jaminan Kesehatan, satu kartu Jaminan Kesehatan. Kartu ini selama COVID-19 menjadi infrastruktur pencegahan wabah: pembelian masker berbasis nama mengandalkan kartu Jaminan Kesehatan, penandaan riwayat perjalanan terhubung melalui kartu Jaminan Kesehatan, catatan vaksinasi tertulis di kartu Jaminan Kesehatan. Tanpa basis data mencakup seluruh warga ini, model Taiwan tidak mungkin terbentuk[^10].
 
-> **✦** 「SARS adalah pelajaran paling pahit dalam sejarah kesehatan masyarakat Taiwan. Tapi pelajaran paling pahit, mengajar murid terbaik。」
+> **✦** 「SARS adalah pelajaran paling pahit dalam sejarah kesehatan masyarakat Taiwan. Tapi pelajaran paling pahit itu, melahirkan murid terbaik.」
 
-Dua puluh tiga tahun setelah penutupan Rumah Sakit Heping, bangunan itu tetap berdiri di Jalan Zhonghua, Kota Taipei. Beberapa tenaga medis yang masuk ke ruang gawat darurat masih ingat kejadian tahun itu. Ho Sung-jung berkata dia tidak keberatan, tapi luka itu「belum sepenuhnya sembuh」。Mungkin tidak perlu sembuh. Mungkin organ terpenting sebuah sistem pencegahan wabah, justru adalah mengingat rasa sakit。
+Dua puluh tiga tahun setelah penutupan Rumah Sakit Heping, bangunan itu tetap berdiri tegak di Jalan Chung-hua, Taipei. Tenaga medis yang masuk ke ruang gawat darurat, beberapa masih ingat kejadian tahun itu. Ho Sung-jung bilang dia tidak menyalahkan, tapi bekas luka itu "belum sepenuhnya sembuh". Mungkin tidak perlu sembuh. Mungkin organ terpenting sebuah sistem pencegahan wabah, justru adalah mengingat rasa sakit.
 
-**Bacaan Lanjutan**：
+**Baca Lebih Lanjut**:
 
-- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/id/society/taipei-smoking-room) — Bab terbaru ekspedisi empat puluh tahun pengendalian rokok, medan perang bergeser dari ruang tertutup ke luar ruangan
+- [Ruang Merokok Taipei: Di Kota Bebas Rokok, Kotak Kaca yang Bernapas](/id/society/taipei-smoking-room) — Bab terbaru perjalanan panjang empat puluh tahun pencegahan bahaya rokok, medan pertempuran berpindah dari ruang tertutup ke ruang terbuka
 
-- [Kesehatan Taiwan dan Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Infrastruktur dasar sistem pencegahan wabah: basis data jaminan kesehatan 23,4 juta warga
-- [Audrey Tang (唐鳳)](/id/people/audrey-tang) — Menterinya Digital di Balik Peta Masker
+- [Kesehatan Taiwan dan Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Infrastruktur dasar sistem pencegahan wabah: basis data Jaminan Kesehatan 23,4 juta orang
+- [Tang Feng](/id/people/audrey-tang) — Menteri Digital di Balik Peta Masker
 - [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Dari 921 ke SARS, Bagaimana Bencana Mendorong Evolusi Medis
-- [Pandemi COVID-19 Taiwan dan Vaksin](/id/society/taiwan-covid-pandemic-and-vaccines) — Sistem ini yang dibangun pasca-SARS, diuji penuh pada 2020–2023: perbatasan menahan wabah delapan belas bulan, namun vaksin dan dosis ketiga untuk lansia tidak sempat tiba
-- [Dua UU Medis Regeneratif × mRNA 30 Tahun](/id/society/taiwan-regenerative-medicine-laws) — Narasi ganda 2021: pengadaan BNT + legislasi terapi sel, perspektif lanjutan pencegahan wabah COVID 本文
+- [Topik Medis dan Perawatan Jangka Panjang](/health/) — Sistem Jaminan Kesehatan dan Perawatan Jangka Panjang, Sejarah, dan Keuangan, Dilengkapi Subsidi Perawatan Jangka Panjang dan Perhitungan Premi Jaminan Kesehatan
+- [Wabah COVID-19 dan Vaksin Taiwan](/id/society/taiwan-covid-pandemic-and-vaccines) — Sistem ini yang dibangun pasca-SARS, diuji penuh pada 2020-2023: perbatasan menahan selama delapan belas bulan, namun vaksin dan dosis ketiga untuk lansia tidak sempat tepat waktu
+- [Dua Undang-Undang Medis Regeneratif × mRNA 30 Tahun](/id/society/taiwan-regenerative-medicine-laws) — Narasi dua jalur pengadaan BNT 2021 + legislasi terapi sel, perspektif lanjutan pencegahan COVID pada artikel ini
 
 ## Referensi
 

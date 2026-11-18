@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T12:42:56+08:00'
+translatedAt: '2026-11-18T19:45:00.054092+00:00'
 ---
 
 # Perkembangan Industri Audio Taiwan
@@ -153,12 +155,12 @@ Industri audio Taiwan menghadapi tekanan tiga kali lipat dari persaingan biaya, 
 
 ## Referensi
 
-[^1]: [Industrial Development Administration, Ministry of Economic Affairs (經濟部產業發展署)](https://www.ida.gov.tw/) — Sebelumnya Biro Industri, direorganisasi pada September 2023; otoritas utama kebijakan industri audio Taiwan
+[^1]: [Badan Pengembangan Industri Kementerian Ekonomi](https://www.ida.gov.tw/) — Dahulu Biro Industri, direorganisasi pada September 2023, otoritas kebijakan industri audio Taiwan
 
-[^2]: [Analisis Tren Industri Audio oleh ITRI International Institute of Industrial Science (工研院產科國際所)](https://ieknet.iek.org.tw/) — Analisis skala industri audio Taiwan dan pasar manufaktur
+[^2]: [Lembaga Internasional Teknologi Produk ITRI "Analisis Tren Industri Audio"](https://ieknet.iek.org.tw/) — Analisis skala industri audio Taiwan dan pasar OEM
 
-[^3]: [Taiwan Electrical and Electronic Manufacturers' Association (TEEMA/台灣區電機電子工業同業公會)](https://www.teema.org.tw/) — "Tahun Buku Industri Audio", statistik produsen dan nilai produksi industri audio Taiwan
+[^3]: [Persatuan Industri Elektro-Elektronik Wilayah Taiwan (TEEMA)](https://www.teema.org.tw/) — "Buku Tahunan Industri Audio", statistik produsen dan nilai produksi industri audio Taiwan
 
-[^4]: [Situs Resmi Merry Electronics (美律實業)](https://www.merry.com.tw/) — Informasi produk komponen elektroakustik dan profil perusahaan; Creative Technology Ltd. adalah perusahaan Singapura, bukan produsen Taiwan
+[^4]: [Situs Web Resmi Merry Electronics](https://www.merry.com.tw/) — Produk komponen elektroakustik dan informasi perusahaan; Creative Technology Ltd. adalah perusahaan Singapura, bukan produsen Taiwan
 
-[^5]: [Dokumen Teknis Audio Engineering Society (AES) Taiwan Section](https://www.aes.org/) — Standar teknik akustik internasional dan hasil penelitian
+[^5]: [Dokumen Teknis Bagian Taiwan Audio Engineering Society (AES)](https://www.aes.org/) — Standar teknik akustik internasional dan hasil penelitian

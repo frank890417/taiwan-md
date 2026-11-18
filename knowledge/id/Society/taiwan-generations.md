@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T10:04:38.662579+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-18T19:58:54.564884+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Orang Taiwan menggunakan label "generasi ke-N" berdasarkan puluhan tahun Minguo kelahiran: generasi kelima adalah Minguo 50–59 (1961–1970), berurutan hingga generasi kesembilan (2001–2010). "Generasi Stroberi" yang dikata selama tiga puluh tahun, saat pertama kali tercetak pada 1993, menargetkan generasi yang saat itu berusia dua puluhan, kini sudah lima puluhan, yaitu generasi kelima[^1]; kemudian label itu turun ke generasi ketujuh, kedelapan, kesembilan. Orang yang dikata berganti beberapa gelombang, labelnya tidak berubah satu hurupun. Yang benar-benar bergerak di antara kelima generasi adalah tangga berjalan "usaha pasti berbaloi" di bawah kaki: ia melambat sekitar 2002, gaji real dan produktivitas terputus kaitannya[^2]; pintu masuknya dinaikkan oleh harga rumah, rasio harga rumah terhadap pendapatan Taipei dari 6,4 kali (2004) naik jadi 15,41 kali (2025)[^3]; lalu belah jadi dua, jalur murni gaji hampir berhenti, jalur modal orang tua masih bergerak. Tulisan ini ingin membongkar label itu.
@@ -172,23 +174,24 @@ Generasi kesembilan, tegangan baru muncul. Generasi ini dari kecil slide TikTok,
 > 📝 **Catatan Kurator**
 > "Budaya pro-Tiongkok, politik anti-Tiongkok" kombinasi kontradiktif ini, justru tempat Taiwan.md tidak boleh turunin kesimpulan buat pembaca. Seorang generasi kesembilan suka nonton pendek daratan, lagi dukung Taiwan status quo, di mata dia mungkin nggak kontradiktif, karena konsumsi budaya dan identitas negara memang dua hal. Di sini yang bisa dilakukan, taruh tegangan yang lihat Pusat Pemilu Politik, Pew, Shen Wei-chieh, Lab Demokrasi Taiwan jujur buka, biar pembaca lihat generasi ini seberapa kompleks, dan topi "pro-Tiongkok" atau "anti-Tiongkok" simpen dolo. Melabeli generasi bawah, itulah seluruh artikel ini mau bongkar.
 
-## Stroberi Tidak Jadi Lunak, Tanah Yang Jadi Miring
+## Stroberi Tidak Menjadi Lembek, Tapi Tanah yang Menjadi Miring
 
-Tumpang lima akte lahir, lihat hal sunyi. 1963 generasi kelima, 427.212 teman sekaligus datang dunia; 2010 generasi kesembilan, tinggal 166.886, kurang empat puluh persen puncak generasi kelima, kurang dua ratus ribu lebih[^24].
+Jika Anda menumpuk lima akta kelahiran dan melihatnya, Anda akan melihat sebuah kenyataan yang sunyi. Pada tahun 1963, ada 427.212 siswa kelas lima yang masuk ke dunia ini bersama-sama; namun pada kelompok siswa kelas sembilan di tahun 2010, jumlahnya hanya tersisa 166.886 orang, kurang dari empat puluh persen dari puncak jumlah siswa kelas lima, dengan pengurangan sebanyak lebih dari dua ratus ribu orang[^24].
 
-Orang jadi sedikit, kue tidak jadi besar, tapi gedung semakin tinggi. Topografi begini, generasi belakang pakai usaha sama, naik tidak ke tempat generasi depan. Bukan karena stroberi jadi lunak, tapi karena tanah di bawah kaki jadi miring, dan miring tidak rata: Ada orang di bawah kaki masih ada lereng orang tua bikin, ada orang di bawah kaki tinggal dinding hampir vertikal.
+Jumlah manusia berkurang, ukuran "kue" ekonomi tidak membesar, namun gedung-gedung justru dibangun semakin tinggi. Di atas medan seperti ini, generasi berikutnya menggunakan tenaga yang sama, tetapi tidak dapat mencapai posisi yang berhasil dicapai oleh generasi sebelumnya. Ini bukan karena para "stroberi" menjadi lembek, melainkan karena tanah di bawah kaki mereka telah menjadi miring, dan kemiringannya pun tidak merata: ada orang yang memiliki jalan landai yang sudah disiapkan oleh orang tua di bawah kakinya, sementara ada orang yang hanya menyisakan dinding yang hampir vertikal.
 
-"Tingkat" koordinat ini cuma pintu masuk. Ia bagus, karena bantu kita lihat tangga itu tiap tahun semakin curam; Ia bukan titik akhir, karena yang benar tentuin seseorang naik tidak naik, sering kali tangga di bawah kaki dia sambung gaji atau warisan, dan retakan itu, ada di dalam tiap tingkat. Pew Research 2023 bahkan umum, ke depan kurangi pakai label generasi liput, karena banyak perbedaan yang dikasih "generasi", jejak ke karakter populasi sendiri[^25]. Lembaga yang paling awal popularisasi klasifikasi generasi, sekarang mulai rem ini alat.
+Koordinat "tingkat kelas" pada akhirnya hanyalah sebuah pintu masuk. Istilah ini berguna karena membantu kita melihat bagaimana eskalator tersebut menjadi semakin curam dari tahun ke tahun; namun ia tidak seharusnya menjadi titik akhir, karena hal yang benar-benar menentukan apakah seseorang dapat mendaki atau tidak, sering kali adalah apakah eskalator di bawah kakinya terhubung dengan gaji atau warisan, dan celah ini terlukis di dalam setiap tingkatan kelas. Pew Research Center bahkan mengumumkan pada tahun 2023 bahwa mereka akan mengurangi penggunaan label generasi dalam pelaporan, karena banyak perbedaan yang dikategorikan sebagai "generasi" sebenarnya berakar dari karakteristik demografi itu sendiri[^25]. Bahkan lembaga yang paling awal mempopulerkan klasifikasi generasi pun mulai berhenti menggunakan alat ini.
 
-✦ Jadi, lain kali mau bilang "Orang muda sekarang kan Generasi Stroberi", pikir dulu satu hal: Kata ini paling awal ngata, kemungkinan besar kamu dulu dua puluhan. Dan tiga puluh tahun ini yang benar berubah, adalah tangga yang dulu kamu injak, ia masih bergerak, nanti melambat, jadi curam, terakhir belah jadi dua. Kalimat Wretch "Tidak ada lagi yang menemukanku" bikin satu generasi like, karena tiap generasi punya bidik masa muda sendiri, orang lain tidak bisa masuk, dan sewa masa muda itu, satu tingkat lebih mahal dari satu tingkat.
+✦ Jadi, sebelum Anda mengucapkan kalimat "anak muda zaman sekarang itu cuma stroberi," pikirkanlah satu hal: istilah ini kemungkinan besar awalnya digunakan untuk mencaci maki Anda saat Anda berusia dua puluhan dulu. Dan yang benar-benar berubah dalam tiga puluh tahun terakhir adalah eskalator yang Anda pijak saat itu—yang dulunya masih bergerak, namun kemudian melambat, menjadi lebih curam, dan akhirnya terbelah menjadi dua jalur. Alasan mengapa lirik lagu Wuming Xiaozhan (無名小站) "tak ada lagi yang menyadari keberadaanku" mendapatkan banyak _like_ dari seluruh generasi adalah karena setiap generasi memiliki potongan masa muda milik mereka sendiri yang tidak bisa dimasuki orang lain, namun harga sewa untuk potongan masa muda tersebut menjadi semakin mahal dari satu generasi ke generasi berikutnya.
 
-**Baca Lanjutan**：
+**Bacaan Lanjutan**:
 
-- [Generasi Slash Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Generasi ketujuh, kedelapan di struktur gaji rendah, matematika survival satu gaji jadi tiga kerja
-- [Kebingungan Karier Muda Taiwan](/id/society/taiwan-youth-career-confusion) — Belajar enam belas tahun, hari wisuda paling sering tanya "Aku tidak tahu mau apa"
-- [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Kelahiran dari 420 ribu roboh ke 160 ribu, kue gimana tiap tahun lebih kecil
-- [Spektrum Unifikasi-Kemerdekaan Taiwan](/id/society/taiwan-unification-independence-spectrum) — Panorama garis pembagi identitas, dari "Aku siapa" ke "Mau ke mana"
-- [Wretch](/id/culture/wretch) — Server digital masa muda generasi ketujuh, 2013 tutup, 2025 di Threads muncul lagi
+- [Cek Mandiri Kemampuan Membeli Rumah](/housing/affordability-check/) — Masukkan pendapatan dan harga rumah untuk menghitung rasio beban KPR Anda, bandingkan dengan standar empat tingkat dari Kementerian Dalam Negeri serta angka resmi tiap kota/kabupaten.
+- [Generasi Slash Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Matematika bertahan hidup generasi kelas tujuh dan delapan di bawah struktur gaji rendah, membagi satu gaji menjadi tiga pekerjaan.
+- [Kebingungan Karier Pemuda Taiwan](/id/society/taiwan-youth-career-confusion) — Menghabiskan enam belas tahun sekolah, namun pada hari kelulusan pertanyaan yang paling sering muncul adalah "saya tidak tahu ingin melakukan apa."
+- [Krisis Penurunan Angka Kelahiran di Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Jumlah kelahiran merosot dari 420.000 menjadi 160.000, bagaimana ukuran "kue" ekonomi semakin mengecil setiap tahunnya.
+- [Spektrum Unifikasi/Kemerdekaan Taiwan](/id/society/taiwan-unification-independence-spectrum) — Gambaran lengkap garis pemisah identitas, dari "siapa saya" hingga "hendak ke mana".
+- [Wuming Xiaozhan (無名小站)](/id/culture/wretch) — Server digital masa muda generasi kelas tujuh; tutup pada tahun 2013, dan muncul kembali di Threads pada tahun 2025.
 
 ## Sumber Gambar
 
