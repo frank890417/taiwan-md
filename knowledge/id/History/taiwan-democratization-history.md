@@ -2,9 +2,7 @@
 title: 'Demokratisasi'
 description: 'Pada malam hari tanggal 18 Maret 1980, di Pengadilan Militer Kaohsiung, Shi Ming-de meninggalkan naskah keberatan sepanjang 60.000 karakter dan mengubah pernyataannya menjadi tuntutan agar hakim menjatuhkan hukuman mati. Dalam persidangan yang sama, pengacara muda Chen Shui-bian, Hsieh Chang-ting, dan Su Tseng-chang yang membela terdakwa, dua puluh tahun kemudian semuanya menjadi Presiden atau Ketua Eksekutif. Sebuah persidangan yang seharusnya menjadi contoh bagi yang lain (kill the chicken to scare the monkey) secara tidak sengaja melahirkan pemimpin politik generasi berikutnya di Taiwan.'
 date: 2026-03-27
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     'Sejarah',
@@ -13,14 +11,18 @@ tags:
     'Peristiwa Pulau Indah',
     'Protes Bunga Lili Putih',
   ]
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: 'dbaf28954'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0f572861e1f79f7d'
 sourceBodyHash: 'sha256:b51e57f04bd06fc2'
-translatedAt: '2026-07-18T18:59:54+08:00'
+translatedAt: '2026-11-18T14:03:27.573218+00:00'
 ---
 
 # Demokratisasi

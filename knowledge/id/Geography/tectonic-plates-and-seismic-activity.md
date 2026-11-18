@@ -17,11 +17,13 @@ featured: true
 lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
-sourceCommitSha: '426c8cbd1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e5a1373630fd1073'
 sourceBodyHash: 'sha256:6ce2095cf81ca454'
-translatedAt: '2026-09-19T11:59:07+08:00'
+translatedAt: '2026-11-18T14:47:22.658936+00:00'
 ---
 
 # Gerakan Lempeng Tektonik dan Aktivitas Gempa di Taiwan

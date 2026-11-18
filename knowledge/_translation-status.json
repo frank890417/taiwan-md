@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T23:27:59+08:00",
-    "zhCommitHead": "19c07f49e",
+    "lastUpdated": "2026-11-18T23:28:17+08:00",
+    "zhCommitHead": "e998c1340",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 715,
+        "fresh": 716,
         "stale": 47,
-        "metadata_stale": 423,
+        "metadata_stale": 422,
         "missing": 6,
         "orphan": 0
       },
@@ -129405,20 +129405,18 @@
         "es": {
           "path": "es/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "0df538d8c",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:28ebca4abc1527e4",
           "sourceBodyHash": "sha256:2ae685b1d23ee474",
-          "translatedAt": "2026-09-16T17:51:19.082754+00:00",
+          "translatedAt": "2026-11-18T22:56:02+08:00",
           "translationLastCommit": "5b79d8dd",
           "translationLastModified": "2026-09-17T01:51:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 31249,
+          "bytes": 31636,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/jensen-huang.md",

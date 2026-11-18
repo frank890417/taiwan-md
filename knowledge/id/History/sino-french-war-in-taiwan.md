@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清法戰爭.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0d133f631d4db985'
 sourceBodyHash: 'sha256:f135e504997bf040'
-translatedAt: '2026-07-26T15:32:44+08:00'
+translatedAt: '2026-11-18T14:35:08.483461+00:00'
 ---
 
 # Perang Sino-Prancis: Delapan Bulan di Keelung dan Tamsui

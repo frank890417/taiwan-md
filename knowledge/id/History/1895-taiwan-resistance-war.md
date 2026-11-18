@@ -2,28 +2,32 @@
 title: 'Perang Tahun Acar: 148 Hari Republik Demokratik Taiwan'
 description: 'Pada tahun 1895, Dinasti Qing menyerahkan Taiwan ke Jepang. Pejabat di pulau itu mengumumkan pendirian republik pertama di Asia, tetapi presiden lari setelah sepuluh hari, dan penyair pergi setelah empat hari. Yang benar-benar tinggal berperang adalah seorang remaja Hakka berusia 19 tahun dan milisi yang dia kumpulkan dengan mengorbankan seluruh hartanya. 148 hari kemudian, Republik Demokratik hilang, dan pemerintahan Jepang dimulai.'
 date: 2026-04-12
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
-  - 'Perang Tahun Acar'
-  - 'Republik Demokratik Taiwan'
-  - 'Perjanjian Shimonoseki'
-  - 'Masa Pendudukan Jepang'
-  - 'Hakka'
-  - '1895'
-  - 'Liu Yung-fu'
-  - 'Tang Ching-sung'
-  - 'Chiu Feng-chia'
+  [
+    'Perang Tahun Acar',
+    'Republik Demokratik Taiwan',
+    'Perjanjian Shimonoseki',
+    'Masa Pendudukan Jepang',
+    'Hakka',
+    '1895',
+    'Liu Yung-fu',
+    'Tang Ching-sung',
+    'Chiu Feng-chia',
+  ]
+subcategory: '殖民與帝國'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/乙未之役.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:fc7bac7e7a555233'
 sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
-translatedAt: '2026-07-25T05:00:09+08:00'
-image: ''
+translatedAt: '2026-11-18T13:54:33.244504+00:00'
 ---
 
 # Perang Tahun Acar: 148 Hari Republik Demokratik Taiwan
