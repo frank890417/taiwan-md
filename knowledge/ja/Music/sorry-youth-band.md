@@ -1,19 +1,22 @@
 ---
-tags: ['拍謝少年', '台湾音楽']
-translatedFrom: Music/拍謝少年.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:6a2b0dda2e1882cf'
-sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: '2026-05-01T14:48:26+08:00'
-category: Music
-date: 2026-04-27
 title: 'ソーリー・ユース（拍謝少年）：三人の南部っ子が台語で歌う他郷の孤独、二十年後に世代の声となった'
 description: '2005年、台南の海辺でロックを聴いて育った三人の男が台語で作曲を決意した。目標は「祖父母も頷ける台語の名曲」。三人のうち台語育ちはジャンジャン（薑薑）ひとりだけだった。『海口味』から『噪音公寓』まで、全台語アルバム四枚・金音獎最優秀ロック三冠・flyingV募資記録を二度更新した拍謝少年は、他郷の孤独を世代全体の共通言語に変えた。'
+date: 2026-04-27
+category: 'Music'
+tags: ['拍謝少年', '台湾音楽']
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12min
 lastVerified: 2026-04-27
 lastHumanReview: false
+readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Music/拍謝少年.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:6a2b0dda2e1882cf'
+sourceBodyHash: 'sha256:07737a8d590520a4'
+translatedAt: '2026-11-17T23:31:22.495927+00:00'
 ---
 
 # ソーリー・ユース（拍謝少年）：台南の三人が台語で歌う他郷の孤独、二十年後に世代の声となった

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T08:54:00+08:00",
-    "zhCommitHead": "24f563e64",
+    "lastUpdated": "2026-11-18T08:55:40+08:00",
+    "zhCommitHead": "d1424e88d",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 663,
+        "fresh": 664,
         "stale": 49,
         "metadata_stale": 463,
-        "missing": 16,
+        "missing": 15,
         "orphan": 0
       },
       "ko": {
@@ -57153,7 +57153,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:48:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10689,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/tiered-healthcare-and-referral.md",
