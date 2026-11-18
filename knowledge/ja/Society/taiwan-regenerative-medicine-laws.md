@@ -2,9 +2,7 @@
 title: '再生医療二法 × mRNA 30年：二つの救命薬はどのように国家の管理下に置かれたのか'
 description: '2023年に Karikó と Weissman がノーベル賞を受賞した日は、彼女がペンシルベニア大学で降格されてからちょうど28年後でした。2021年9月2日、BNT の第1便93万回分が桃園国際空港に到着した瞬間は、彼女が1997年に Weissman とコピー機の前で出会ってから24年後でもありました。本稿は「再生医療二法 2024」と「mRNA 30年の辛酸」という二つの線を並置し、ハンガリー移民の女性科学者のテディベアから桃園サイエンスパークのクリーンルームまで、国家がまったく異なる二つの救命薬、すなわち細胞と分子をどのように管理下に置いたのかを見ます。'
 date: 2026-05-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     '再生医療二法',
@@ -16,19 +14,23 @@ tags:
     '医療人権',
     'GMP',
   ]
-readingTime: 22
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:067149f437c5a573'
-sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-06-16T17:05:15Z'
+readingTime: 22
 image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:067149f437c5a573'
+sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
+translatedAt: '2026-11-18T13:00:57.094918+00:00'
 ---
 
 ![カタリン・カリコーとドリュー・ワイスマンが2022年に Life Science メダルを共同受賞し、バックパネルの前で撮影された写真。カリコーは赤いスーツ、ワイスマンは濃色のスーツを着用しています](/article-images/society/kariko-weissman-life-science-2022.webp)

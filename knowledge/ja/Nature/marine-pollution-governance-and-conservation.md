@@ -2,20 +2,22 @@
 title: '台湾の海洋汚染対策と保全の課題'
 description: '海洋ごみ、乱獲、気候変動に直面し、台湾の海洋保全の現状、課題、革新的な解決策を探る'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育與環境'
 tags: ['海洋保全', '海洋汚染', '海洋ごみ', '海洋委員会', '持続可能な漁業']
+subcategory: '保育與環境'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
-translatedFrom: Nature/台灣海洋污染治理與保育挑戰.md
-sourceCommitSha: 1d54cbe52
-sourceContentHash: sha256:3725125046bb0302
-sourceBodyHash: sha256:c208c01efc93c70e
-translatedAt: 2026-05-20T05:08:29+08:00
-difficulty: 'intermediate'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
+sourceBodyHash: 'sha256:c208c01efc93c70e'
+translatedAt: '2026-11-18T13:10:15.208516+00:00'
 ---
 
 # 台湾の海洋汚染対策と保全の課題
@@ -581,26 +583,26 @@ difficulty: 'intermediate'
 
 ## 参考文献
 
-[^1]: [海洋ごみ統計データ - 海洋保全ネットワーク](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — 荒野保護協会 2016-2023年ビーチクリーンアップ資料統計。
+[^1]: [海洋廃棄物統計資料 - 海洋保育網](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — 荒野保護協会による2016年から2023年のビーチクリーン活動の統計データ。
 
-[^2]: [台湾海洋マイクロプラスチック調査 - 中央研究院生物多様性研究中心](https://www.oca.gov.tw/) — 台湾周辺海域マイクロプラスチック濃度調査報告。
+[^2]: [台湾海洋マイクロプラスチック調査 - 中央研究院生物多様性研究センター](https://www.oca.gov.tw/) — 台湾周辺海域におけるマイクロプラスチック濃度の調査報告書。
 
-[^3]: [「海洋保全法」三読可決 - グリーンピース台湾](https://www.greenpeace.org/taiwan/update/35872/) — 「海洋保全法」2024年7月12日三読可決の確認。
+[^3]: [《海洋保育法》三読通過 - グリーンピース台湾](https://www.greenpeace.org/taiwan/update/35872/) — 《海洋保育法》が2024年7月12日に三読（最終審議）を通過したことを確認。
 
-[^4]: [海洋委員会海洋保全署](https://www.oca.gov.tw/) — 「台湾海洋保全白書」2024年版。
+[^4]: [海洋委員会 海洋保育署](https://www.oca.gov.tw/) — 《台湾海洋保育白書》2024年版。
 
-[^5]: [「海洋保全法」重要政策 - 行政院](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — 行政院海洋保全法政策説明。
+[^5]: [《海洋保育法》重要政策 - 行政院](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — 行政院による海洋保育法の政策説明。
 
-[^6]: [1年間を費やした海洋ごみクイックスクリーニング調査が台湾海岸の汚染の実態を明らかに - ナショナルジオグラフィック](https://www.natgeomedia.com/environment/article/content-8745.html) — 台湾海岸のごみ密度調査データ。
+[^6]: [1年をかけた海洋廃棄物迅速スクリーニング調査、台湾海岸の汚染の実態を解明 - ナショナルジオグラフィック](https://www.natgeomedia.com/environment/article/content-8745.html) — 台湾の海岸におけるゴミ密度の調査データ。
 
-[^7]: [海洋ごみについて知るべき10のこと - 澄洋環境コンサルティング](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — 澄洋環境コンサルティング 2020年海底ごみ密度調査。
+[^7]: [海洋廃棄物について知っておくべき10のこと - 澄洋環境顧問](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — 澄洋環境顧問による2020年の海底ゴミ密度調査。
 
-[^8]: [「海洋保全法」はこれ以上遅らせられない - グリーンピース台湾](https://www.greenpeace.org/taiwan/update/30154/) — 民間団体による海洋保全立法推進の経緯。
+[^8]: [《海洋保育法》はこれ以上遅らせることはできない - グリーンピース台湾](https://www.greenpeace.org/taiwan/update/30154/) — 民間団体による海洋保育立法推進の経緯。
 
-[^9]: [海洋ごみを知る - オーシャンワールド](https://www.oceanworld.com.tw/load_page/get_education_page/4) — 海洋ごみの種類と発生源分析。
+[^9]: [海洋廃棄物を知る - 海洋世界](https://www.oceanworld.com.tw/load_page/get_education_page/4) — 海洋廃棄物の種類と発生源の分析。
 
-[^10]: [「海に何の『塑』──台湾海岸ごみ総合調査」- グリーンピース](https://www.greenpeace.org/taiwan/update/15198/) — 台湾海岸のごみの種類と分布調査。
+[^10]: [《海にはどんな「プラ」があるか──台湾海岸ゴミ総点検》- グリーンピース](https://www.greenpeace.org/taiwan/update/15198/) — 台湾の海岸におけるゴミの種類と分布の調査。
 
-[^11]: [小琉球ウミガメ保全の成果 - 台湾咾咕嶼協会](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — 小琉球ウミガメ保全モデルと成果。
+[^11]: [小琉球におけるウミガメ保育の成果 - 台湾咾咕嶼協会](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — 小琉球におけるウミガメ保育モデルとその効果。
 
-[^12]: [2024年史上初の全国規模サンゴ白化 - 私たちの島](https://ourisland.pts.org.tw/content/7392) — 2020年台湾サンゴ白化調査報告。
+[^12]: [2024年、史上初の全国規模の大規模サンゴ白化 - 私たちの島](https://ourisland.pts.org.tw/content/7392) — 2020年の台湾におけるサンゴ白化調査報告書。

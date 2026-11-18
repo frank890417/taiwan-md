@@ -10,11 +10,13 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
-sourceCommitSha: 'c24076169'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f5c7b68537fffdbb'
 sourceBodyHash: 'sha256:8a34ab63ff63d541'
-translatedAt: '2026-09-21T21:38:54+08:00'
+translatedAt: '2026-11-18T13:15:20.758850+00:00'
 ---
 
 # 台湾の海洋保護：30年かけて築いた体系でも、珊瑚白化は防げないのか？

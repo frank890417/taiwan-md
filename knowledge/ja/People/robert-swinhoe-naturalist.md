@@ -2,26 +2,30 @@
 title: 'スウィンホー：外交官から博物学者へ'
 description: '1856年、19歳のイギリス人通訳官がフォルモサの西海岸で初めて見た鳥を記録した。4年後、彼は52編の論文によって、世界で初めてこの島にどのような生物が暮らしているかを明らかにした。彼は41歳でロンドンに亡くなったが、彼が命名した種は今日も台湾の山林の中で生き続けている。'
 date: 2026-04-12
-author: Taiwan.md
-category: People
-subcategory: '歷史人物'
+category: 'People'
 tags:
-  - 博物学
-  - イギリス領事
-  - 自然史
-  - 鳥類
-  - 台湾固有種
-  - 開港通商
-  - 19世紀
+  [
+    '博物学',
+    'イギリス領事',
+    '自然史',
+    '鳥類',
+    '台湾固有種',
+    '開港通商',
+    '19世紀',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
-translatedFrom: People/史溫侯.md
-sourceCommitSha: '4b6d28c5'
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/史溫侯.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: 2026-05-01T18:02:56+08:00
-image: ''
+translatedAt: '2026-11-18T13:53:32.804783+00:00'
 ---
 
 # スウィンホー：外交官から博物学者へ

@@ -3,26 +3,21 @@ title: '蕭美琴'
 description: '日本で生まれ、台南の小学校に通い、ニュージャージーで育ち、オーバリン大学を卒業した「戦猫」が、どのように台湾史上最も成功した対米代表となり、副大統領の座に就いたのか？'
 date: 2026-04-11
 category: 'People'
-tags:
-  - '政治人物'
-  - '副大統領'
-  - '民主進歩党'
-  - '外交'
-  - '駐米代表'
-  - '花蓮'
-  - '戦猫'
+tags: ['政治人物', '副大統領', '民主進歩党', '外交', '駐米代表', '花蓮', '戦猫']
 subcategory: '政治人物'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-06-12T00:53:40+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T13:41:26.403870+00:00'
 ---
 
 # 蕭美琴（しょう・びきん／シャオ・ビーピン）
