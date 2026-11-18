@@ -29,11 +29,13 @@ image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:85f9d09627902abf'
 sourceBodyHash: 'sha256:c4a7f62bbc68876d'
-translatedAt: '2026-09-08T02:17:02.923497+00:00'
+translatedAt: '2026-11-18T01:50:38.532023+00:00'
 ---
 
 # BIM et technologie de construction à Taïwan : douze ans de politique gouvernementale au cas par cas, réécrits par un protocole de dix-huit mois

@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-11-02T06:11:07.614868+00:00'
+translatedAt: '2026-11-18T02:06:51.088719+00:00'
 ---
 
 > **Résumé en 30 secondes :** Le matin du 8 septembre 2015, la police de caractères Jin Xuan de justfont a été lancée en financement participatif sur flyingV. En seulement 76 minutes, elle a franchi le seuil des NT$1,5 million, pour finalement récolter NT$25,93 millions auprès de 7 667 contributeurs. Cet article retrace l'histoire depuis la création de HuaChang en 1987, examinant comment une industrie lue quotidiennement par tout le peuple taïwanais s'est effondrée et comment une génération de lecteurs a été formée ; il rend également hommage aux créateurs de caractères : Lin Hsia, issue du dessin de statues de Bouddha ; Chang Chieh-kuan, qui a fondu des caractères en plomb sur la route de Taiyuan pendant un demi-siècle ; Wang Shui-ho, entré dans le métier à quatorze ans en peignant des enseignes ; ainsi que les polices open source, la police Lanyang Mincho et l'écosystème des designers indépendants qui ont émergé après Jin Xuan.

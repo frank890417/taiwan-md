@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '影評光譜兩端與政治攻防：(1) 純影評攻擊（Jay Liu「淪為執政黨宣傳」、Guardian「all over the shop」、Screen Daily 配樂過度煽情、NYC Movie Guru「歌功頌德」）已編入 §「自己掏錢看自己」與 §「框外那個沒有名字的男人」；(2) 親 PRC 倡議（George Koo「台灣不是國家」）僅取其「陳水扁省略」這個跨陣營共識的事實觀察，政治結論不採（research §5）；(3) 匿名藍營社群「稅金拍片」假指控已被製片馮賢賢闢謠，prose 收於 §「自己掏錢看自己」；(4) 綠營內「斷代」批評（周玉蔻）編入 §「框外那個沒有名字的男人」。未深入：呂秀蓮受訪（單源 Taipei Times）、PBS extended cut 片長（未確認）、LSE 抗議放映（無可追溯，rumour）。'
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d85b6c99ab72b318'
 sourceBodyHash: 'sha256:f6ae8560d7e03438'
-translatedAt: '2026-10-13T04:29:52.055272+00:00'
+translatedAt: '2026-11-18T02:33:45.655182+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :** 《看不見的國家》（Invisible Nation） est un documentaire que la réalisatrice américaine Vanessa Hope a mis sept ans à tourner. À travers cinq entretiens au plus près de la présidente de l’époque, Tsai Ing-wen, il place devant la caméra mondiale une île exclue de l’ONU, contrainte de participer aux Jeux olympiques sous le nom de « Taipei chinois », et dont les alliés diplomatiques sont passés de 22 à 12. Présenté en première mondiale au Woodstock Film Festival en 2023[^1], il est sorti en salles à Taïwan en juin 2025 ; ses recettes ont dépassé 37,71 millions de dollars taïwanais, ce qui l’a porté au troisième rang de l’histoire du documentaire taïwanais[^2]. Mais ce film censé rendre Taïwan « visible » possède lui aussi ses angles morts : les critiques ont surtout visé la proximité obtenue en sept ans grâce à la coopération du bureau de Tsai, ainsi que ce nom qui n’est jamais prononcé du début à la fin : Chen Shui-bian.
