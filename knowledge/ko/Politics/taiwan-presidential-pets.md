@@ -2,19 +2,21 @@
 title: '대만 총통의 반려동물: 관저 안 권위주의의 셰퍼드에서 「퍼스트 캣」의 사회적 공명까지'
 description: '1951년, 한 마리 셰퍼드가 스린 관저에 들어와 장제스의 호위견이 되었다. 70년 뒤, 차이잉원은 유기묘 「샹샹」과 함께 관저에 입주했다. 권위주의적 호위를 상징하던 군견에서 사회적 돌봄을 대표하는 유기견과 고양이에 이르기까지, 대만 총통 반려동물의 변화는 이 섬이 강인 정치에서 다원적 평권의 민주주의로 옮겨 간 궤적을 뜻밖에 비추어 보인다.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Politics'
-subcategory: '政治文化'
 tags: ['총통 관저', '반려동물 정치', '동물 보호', '대만 민주주의']
-readingTime: 8
+subcategory: '政治文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-18T22:42:14.960812+00:00'
 ---
 
 > **30초 개관:** 대만 역대 총통의 반려동물은 관저 안의 가족 구성원일 뿐 아니라, 흔히 정치적 이미지와 사회적 가치의 축소판이기도 했다. 장제스 시기의 위엄 있는 셰퍼드, 리덩후이의 골든 리트리버 무리, 천수이볜의 대만견 융거, 마잉주의 마샤오주, 차이잉원의 고양이와 개들, 그리고 라이칭더의 유기견 Luke에 이르기까지. 이 명단은 「퍼스트 펫」이 어떻게 단순한 개인 취향에서 점차 동물 보호를 추진하고 서민적 온기를 드러내는 정치 언어가 되었는지를 비춘다.
@@ -69,24 +71,24 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 📝 큐레이터 노트: 퍼스트 펫은 총통의 가장 부드러운 갑옷이지만, 동시에 가장 쉽게 찔리는 약점이기도 하다.
 
-## 참고 자료
+## 참고 문헌
 
-[^1]: [장제스의 애견 3마리, 주인을 지키는 영험함으로 일기에 이름을 남기며 총애받다](https://www.youtube.com/watch?v=uj0__fZkZlg) — 타이완 텔레비전 뉴스(YouTube 영상 기록)
+[^1]: [장제스의 세 마리 반려견, 주인을 지키는 영험한 기운이 담긴 일기에 이름까지 남을 정도로 큰 사랑을 받다](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV 뉴스(YouTube 영상 기록)
 
-[^2]: [리덩후이를 돌아보다: 개와 고양이, 양까지 길렀던 아후이보의 관저는 색다른 동물원 같았다](https://www.mirrormedia.mg/story/20200227inv009/) — 미러 미디어(리덩후이가 골든 리트리버를 들여와 30마리 넘게 번식시켰고, 일부를 안내견으로 훈련시켰다는 기록)
+[^2]: [이등휘를 되돌아보다: 개와 고양이는 물론 양까지 키워, 아휘백(阿輝伯) 관저는 색다른 동물원 같았다](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media(이등휘가 골든 리트리버를 도입하여 30여 마리를 번식시켰으며, 일부는 안내견으로 훈련했다는 내용 기록)
 
-[^3]: [정치 스타견의 엇갈린 운명, 차이샹샹은 유기묘에서 전 총통의 퍼스트 펫이 되다](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo 뉴스
+[^3]: [정치 스타 반려견들의 각기 다른 운명, 차이잉원의 길고양이 '샹샹'이 전 대통령의 첫 반려동물이 되다](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo 뉴스
 
-[^4]: [마샤오주 위키백과 항목](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — 위키백과(위키백과 항목)
+[^4]: [마샤오지우(馬小九) 위키백과 항목](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — 위키백과(위키백과 항목)
 
-[^5]: [타이베이 시장 재임 중 특별비 사건, 마잉주 불기소 처분](https://news.ltn.com.tw/news/society/breakingnews/2009990) — 자유시보(2017-03-20 타이베이 지방검찰서 불기소, 특별비는 이미 비범죄화되었고 이전 사건도 무죄 확정)
+[^5]: [타이베이 시장 재임 시절 특별비 사건, 마잉주 불기소 처분](https://news.ltn.com.tw/news/society/breakingnews/2009990) — 자유시보(2017-03-20 타이베이 지검 불기소, 특별비는 이미 죄가 되지 않도록 법 개정되었으며 전례가 무죄로 확정됨)
 
-[^6]: [퍼스트 펫 공개, 차이잉원: 샹샹·아차이와 가장 놀아 주고 싶다](https://www.youtube.com/watch?v=jVfgyh2mxVA) — 민시뉴스(YouTube 영상 기록)
+[^6]: [첫 반려동물 차이잉원을 보여주다: '샹샹'과 '아차이'와 함께 놀고 싶어](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV 뉴스(YouTube 영상 기록)
 
-[^7]: [총통: 법에 따라 은퇴 수색구조견 입양 신청, 정치적으로 왜곡할 필요 없다](https://www.cna.com.tw/news/aipl/202104290024.aspx) — 중앙통신사(차이잉원이 2016년 은퇴 안내견 Bella, Bunny, Maru를 입양했고, 정년 은퇴 뒤 규정에 따라 수색구조견 러러를 입양했다는 기록)
+[^7]: [대통령: 법에 따라 은퇴 구조견 입양 신청 가능, 정치적으로 왜곡할 필요 없다](https://www.cna.com.tw/news/aipl/202104290024.aspx) — 중앙통신사(차이잉원이 2016년 은퇴 안내견 Bella, Bunny, Maru를 입양하였으며, 은퇴 연령이 되어 규정에 따라 입양한 구조견 러러에 관한 내용 기록)
 
-[^8]: [라이칭더의 새 애니메이션, 유기견 「Luke」 입양 이야기를 털어놓다](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo 뉴스
+[^8]: [라이칭더의 새로운 애니메이션, 유기견 '루크(Luke)'를 입양한 이야기를 털어놓다](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo 뉴스
 
-[^9]: [애견 Luke 세상 떠나, 라이칭더: 반려동물과 유기동물에 계속 관심 기울이겠다](https://www.cna.com.tw/news/aipl/202309110271.aspx) — 중앙통신사(2023-09-11, 라이칭더 페이스북 “오랜 세월 함께해 준 Luke에게 감사한다”)
+[^9]: [반려견 루크의 별세, 라이칭더: 반려동물과 유기견들에게 지속적인 관심 기울일 것](https://www.cna.com.tw/news/aipl/202309110271.aspx) — 중앙통신사(2023-09-11, 라이칭더 페이스북 '루크, 그동안 함께해 주어 고마워')
 
-[^10]: [덫에 걸리는 것이 아이나 마샤오주라면…](https://news.tvbs.com.tw/life/131330) — TVBS(자세한 내용은 원문 링크의 자료 보충 참조)
+[^10]: [만약 덫이 아이나 마샤오지우를 물었다면...](https://news.tvbs.com.tw/life/131330) — TVBS(원본 링크 내 본문 자료 보충 참조)

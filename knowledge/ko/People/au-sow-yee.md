@@ -2,9 +2,7 @@
 title: '구슈이: ‘군도’를 대만 미술계로 가져온 말레이시아 큐레이터'
 description: '2003년 그는 쿠알라룸푸르에서 타이베이로 와 타이베이예술대학에서 공부했으며, 처음에는 자신을 그저 잠시 머무는 사람이라고 생각했다. 14년 뒤 그는 타이베이에서 냉전기의 명명인 ‘동남아시아’ 대신 ‘군도’(Nusantara)를 사용하기 시작했고, 말레이 세계의 자기 명명을 대만의 큐레이팅 담론 속으로 가져왔다. 가상의 지명 ‘멍커랑’ 3부작, 싱가포르미술관 소장품이 된 Kris Project, 2024년 천요루와 협업해 말레이시아 무국적 아동을 인터뷰한 작업에 이르기까지, 그는 NML 인터뷰에서 이렇게 말한 적이 있다. “바로 나의 ‘부재’ 때문에 이 작품을 만들 수 있었다.”'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '策展與當代藝術'
 tags:
   [
     '구슈이',
@@ -19,18 +17,23 @@ tags:
     'Rumah Attap Library',
     '디지털 황무지',
   ]
+subcategory: '策展與當代藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-06-16T16:55:29Z'
+researchReport: 'reports/research/2026-05/區秀詒.md'
 image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/區秀詒.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-18T23:06:06.115483+00:00'
 ---
 
 # 구슈이: ‘군도’를 대만 미술계로 가져온 말레이시아 큐레이터
@@ -167,19 +170,19 @@ Kris는 말레이인의 전통 단검이다. 그러나 이 연작에서 더 중�
 
 그는 작업을 ‘단일 영상 작품’에서 **매체, 장소, 시제를 가로지르는** 총체적 프로젝트로 펼치기 시작했다.
 
-## STILL ALIVE: 크리스 프로젝트 II와 침묵하는 해양 전사
+## STILL ALIVE: 크리스 프로젝트 II와 침묵의 해양 용사
 
-2019년 11월 28일, 타이베이 류장리의 **더큐브 프로젝트 스페이스**에서 그의 개인전 《STILL ALIVE》가 열렸다[^25]. 전시는 2020년 1월 19일까지 이어졌다.
+2019년 11월 28일, 타이베이 류장리(六張犁)의 **입방계획공간(立方計劃空間, TheCube Project Space)**에서 그녀의 개인전 《STILL ALIVE》가 열렸다[^25]. 전시는 2020년 1월 19일까지 이어졌다.
 
-세 작품이 전시되었다.
+세 작품:
 
-1. 《**크리스 프로젝트 II: 파티가 계속된다면**》(Chris Project II: If the Party Goes On), 2016년 크리스 프로젝트를 이어 가되 한층 더 깊이 파고든 작업
-2. 《**Palaces, Valleys, Islands and Their Lunar Journey**》, 말레이 세계와 달의 신화를 연결한 작업
-3. 《**은색 소음: 해양의 침묵하는 전사가 떠나는 극단적 여정(서곡: 항해의 노래)**》, 바다의 소리 기억술
+1. 《**크리스 프로젝트 II: 파티는 계속된다**》(Chris Project II: If the Party Goes On), 2016년 크리스 프로젝트를 계승하되 한 층 더 깊이 파고들었다.
+2. 《**Palaces, Valleys, Islands and Their Lunar Journey**》, 말레이 세계와 달 신화를 연결했다.
+3. 《**은색 소음: 해양의 침묵하는 용사들의 극단적 여정(서곡: 항해의 노래)**》, 해양의 소리 기억술.
 
-더큐브 프로젝트 스페이스(TheCube Project Space)는 2010년 정후이화와 뤄웨취안이 창립했으며, 타이베이 류장리 골목 안 오래된 아파트에 자리한 대만 동시대 미술계의 가장 중요한 비상업 공간 중 하나이다. 구슈이가 이곳에서 개인전을 연 것은 우연이 아니다. 더큐브는 여러 해 동안 ‘군도’ 관련 큐레이팅을 깊이 지원해 왔으며, NML 밖에서 대만 미술계에 형성된 또 하나의 말레이 세계 거점이다.
+입방계획공간(TheCube Project Space)은 2010년 정후이화(鄭慧華)와 루오위에취안(羅悅全)이 설립했으며, 타이베이 류장리 골목 안 낡은 아파트 건물에 위치한다. 타이완 현대 미술계에서 가장 중요한 비상업 공간 중 하나다. 구슈이(區秀詒)가 이곳에서 개인전을 연 것은 우연이 아니다. 입방계획공간은 수년간 '군도(群島)' 관련 기획을 깊이 지원해 왔는데, 이는 NML 외에 타이완 미술계의 또 다른 말레이 세계 거점이다.
 
-2021년 그는 이 연작의 확장 작업으로 **타이베이 미술상 우수상**을 받았다[^26]. 또한 이 해부터 그는 국제 비엔날레에 연속적으로 초청되기 시작했다. 2022년 부산비엔날레, 2023년 아랍에미리트의 제15회 샤르자 비엔날레 “Thinking Historically in the Present”가 그 예이다[^27].
+2021년 그녀는 이 시리즈의 연장선상 작업으로 **타이베이 미술상 명예상**을 수상했다[^26]. 같은 해 그녀는 연이어 국제 비엔날레에 초청받기 시작했다: 2022년 부산 비엔날레, 2023년 아랍에미리트의 샤르자 비엔날레 15회 'Thinking Historically in the Present'[^27].
 
 ## 무국적 아동과 함께 Si Tanggang을 다시 말하다
 
