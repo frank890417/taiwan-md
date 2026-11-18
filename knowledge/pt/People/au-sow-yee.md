@@ -27,11 +27,13 @@ image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-07-29T06:33:09+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-18T23:17:11.898224+00:00'
 ---
 
 # Au Sow Yee: a curadora malaia que trouxe o "Arquipélago" para o circuito artístico de Taiwan
@@ -168,19 +170,19 @@ A obra tem também versão teatral: **Intercâmbio de Informações do Mar do Su
 
 Começou a expandir a obra de "peça videográfica única" para **projeto integral cross-media, cross-venue, cross-temporal**.
 
-## STILL ALIVE: Kris Project II e os silenciosos guerreiros do oceano
+## STILL ALIVE: The Kris Project II e os guerreiros silenciosos do oceano
 
-A 28 de novembro de 2019, o **TheCube Project Space** em Liuzhangli, Taipé, inaugurou a sua individual _STILL ALIVE_[^25], até 19 de janeiro de 2020.
+Em 28 de novembro de 2019, o **TheCube Project Space**, em Liuzhangli, Taipé, inaugurou sua exposição individual 《STILL ALIVE》[^25], que seguiu até 19 de janeiro de 2020.
 
 Três obras:
 
-1. **Kris Project II: If the Party Goes On** (A festa continua), aprofunda o _Kris Project_ de 2016
-2. **Palaces, Valleys, Islands and Their Lunar Journey** (Palácios, vales, ilhas e a sua viagem lunar), conecta mundo malaio e mitos lunares
-3. **Silver Noise: The Extreme Journey of the Ocean's Silent Warriors (Prelude: Sailing Song)** (Ruído prateado: a viagem extrema dos silenciosos guerreiros do oceano - prelúdio: canção de navegação), mnemónica sonora do oceano
+1. 《**Chris Project II: If the Party Goes On**》, uma continuação do _Chris Project_ de 2016, mas com uma investigação ainda mais profunda;
+2. 《**Palaces, Valleys, Islands and Their Lunar Journey**》, que conecta o mundo malaio à mitologia lunar;
+3. 《**Silver Noise: Extreme Journeys of the Silent Warriors of the Ocean (Overture: Song of Navigation)**》, uma mnemônica dos sons do oceano.
 
-O TheCube Project Space, fundado em 2010 por Cheng Hui-hua e Lo Yue-chuan, fica num velho apartamento num beco de Liuzhangli; é um dos espaços não-comerciais mais importantes do circuito contemporâneo de Taiwan. A individual de Au Sow Yee ali não é acaso: o TheCube apoia há anos curadorias ligadas ao "Arquipélago"; é outro nó do mundo malaio em Taiwan fora do NML.
+O TheCube Project Space foi fundado em 2010 por Cheng Hui-hua e Lo Yue-chuan, localizado em um antigo apartamento nos becos de Liuzhangli, em Taipé, sendo um dos espaços não comerciais mais importantes do circuito de arte contemporânea de Taiwan. Não é coincidência que Au Sow Yee tenha realizado uma exposição individual ali; ao longo de anos, o TheCube tem apoiado profundamente curadorias relacionadas a "arquipélagos", tornando-se outro nó do mundo malaio no cenário artístico de Taiwan, além da NML.
 
-Em 2021, recebeu **Menção Honrosa do Prémio de Arte de Taipé** com a extensão desta série[^26]. Nesse ano começou a ser convidada consecutivamente para bienais internacionais: Bienal de Busan 2022, 15ª Bienal de Sharjah 2023 "Thinking Historically in the Present"[^27].
+Em 2021, ela recebeu o **Prémio de Honra do Taipei Art Award**[^26] por uma criação que expande esta série. Foi também neste ano que ela começou a ser convidada consecutivamente para bienais internacionais: a Bienal de Busan em 2022 e a 15ª Sharjah Biennial, "Thinking Historically in the Present", nos Emirados Árabes Unidos, em 2023[^27].
 
 ## Recontar Si Tanggang com crianças apátridas
 

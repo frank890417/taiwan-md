@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:34+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T23:22:55.146812+00:00'
 ---
 
 # Chen Ying-chen: A Consciência Literária Unificadora de Zhunan a Pequim
@@ -75,13 +77,13 @@ Em 31 de dezembro de 1968, Chen Ying-chen foi condenado a 10 anos de prisão, se
 
 Essa experiência prisional consolidou sua posição de esquerda e seu apoio político à unificação com a China. Ele começou a analisar mais detalhadamente a posição de Taiwan no contexto da Guerra Fria e o destino comum do povo taiwanês com as nações oprimidas da Ásia, África e América Latina. Após sair da prisão em 1975, retornou ao cenário literário com um pensamento mais maduro e um estilo mais nítido. Obras desse período, como "Caminho na Montanha" e a série "Edifício Washington", refletem sua compreensão da realidade social e sua preocupação com o destino do povo.
 
-## Teórico do Movimento de Literatura de Raiz
+## Teórico do Movimento da Literatura Local
 
-Na década de 1970, surgiu em Taiwan o movimento de Literatura de Raiz (_Xiangtu_). Em 1976, Chen Ying-chen atuou como editor da revista _Xia Chao_. Durante as disputas teóricas da Literatura de Raiz em 1977–78, ele publicou artigos como "Estabelecendo o Estilo da Literatura Nacional", "A Literatura Reflete a Sociedade" e "O Ponto Cego da Literatura de Raiz", refutando críticas de figuras como Yu Kwang-chung, que argumentavam que a literatura de raiz tendia a uma literatura puramente operária ou camponesa. Por isso, ele é considerado um dos principais representantes dessa vertente. [^5]
+Na década de 1970, surgiu em Taiwan o movimento da literatura local (_Xiangtu_). Em 1976, Chen Ying-chen atuou como editor da revista 《夏潮》 (_Xia Chao_). Durante a [disputa teórica sobre a literatura local](/pt/history/nativist-literature-debate/) de 1977–78, ele publicou artigos como 〈Estabelecer o estilo da literatura nacional〉, 〈A literatura vem da sociedade e reflete a sociedade〉 e 〈Os pontos cegos da literatura local】, refutando as críticas de autores como Yu Kwang-chung, que argumentavam que a literatura local tendia a se tornar uma "literatura de operários, camponeses e soldados". Por isso, ele é considerado um dos principais representantes da vertente da literatura local. [^5]
 
-"Xu Nan-cun" foi um de seus pseudônimos, usado, por exemplo, no artigo "A Nova Esperança da Arte Realista" publicado em 1978 na terceira edição de _Shi Chao_. Os artigos de debate mencionados acima foram publicados sob o nome real de Chen Ying-chen.
+"Xu Nancun" era um de seus pseudônimos, utilizado, por exemplo, no artigo 〈A nova esperança da arte realista〉, publicado na terceira edição de 《詩潮》 (_Shi Chao_) em 1978. Já os artigos da disputa teórica mencionada acima foram publicados sob o nome de Chen Ying-chen.
 
-Na década de 1980, ele continuou envolvido na edição de _Wen Ji_ e _Xia Chao_, e enfrentou intelectuais da vertente localista taiwanesa, como Chen Fang-ming, nos debates entre os conceitos de "Nó da China" (_Zhongguo Jie_) e "Nó de Taiwan" (_Taiwan Jie_).
+Na década de 1980, ele continuou participando das atividades editoriais das revistas 《文季》 (_Wen Ji_) e 《夏潮》 (_Xia Chao_), e envolveu-se em debates com figuras do campo localista taiwanês durante a disputa entre o "Nó da China" e o "Nó de Taiwan", tendo como oponentes nomes como Chen Fang-ming.
 
 ## Edição de Revistas e Promoção Cultural
 

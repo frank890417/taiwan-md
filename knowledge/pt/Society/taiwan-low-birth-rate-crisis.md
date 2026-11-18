@@ -24,11 +24,13 @@ rationale:
   whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'a266eaa96'
-sourceContentHash: 'sha256:a14a0e12438e6a6a'
-sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
-translatedAt: '2026-10-13T03:42:19.086934+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e3e940750907c36e'
+sourceBodyHash: 'sha256:07db7c5fe478ed74'
+translatedAt: '2026-11-18T22:22:38.053468+00:00'
 ---
 
 # O Último Canto da Ilha: Nem o Ano do Dragão Salvou o 0,695
@@ -210,29 +212,31 @@ Se natalismo está condenado a falhar, falta de mão de obra é real, Taiwan tem
 
 ---
 
-## Viver Bem Numa Ilha Condenada a Encolher
+## Como viver bem em uma ilha destinada a encolher
 
-A demografia tem a coisa mais cruel, e mais honesta: quase não há milagres.
+O fato mais cruel e, ao mesmo tempo, mais honesto da demografia é este: quase não existem milagres.
 
-Dez anos de natalismo, quase 500 mil milhões, nem o Dragão comprou de volta. A parte de "não aguentar o custo" na queda da taxa é bem menor que a parte drenada pelo "não casar"; e o governo dez anos a dar dinheiro para "não ousam ter filhos", deu a quem já casou, não toca no bloco que realmente colapsou. Mesmo pondo o dinheiro cirurgicamente na mão de cada família hesitante, a experiência da lotaria de Yang Zi-ting diz: vale 0,07 filhos. Olhando o mundo, Hungria, Coreia, França, nórdicos, nenhum país comprou de volta a taxa até ao nível de substituição. A população total de Taiwan fez pico em 2019, esta ladeira abaixo nenhuma política a faz virar.
+Foram dez anos de incentivos à natalidade, com um investimento de quase NT$ 500 bilhões, mas nem mesmo o Ano do Dragão foi suficiente para reverter a tendência. A parcela da taxa de fertilidade que foi esmagada pela incapacidade de sustentar os custos é muito menor do que aquela drenada pelo aumento do número de pessoas que não se casam. Nos últimos dez anos, o governo tem focado em distribuir dinheiro para quem "não ousa ter filhos", entregando-o a quem já está casado, mas falhando em alcançar o ponto real do colapso. Mesmo que esse dinheiro fosse colocado precisamente nas mãos de cada família hesitante, o experimento de loteria de Yang Zi-ting mostrou que isso valeria apenas 0,07 criança. Olhando para o mundo inteiro — Hungria, Coreia do Sul, França, países nórdicos —, nenhum país conseguiu "comprar" de volta uma taxa de fertilidade que atingisse o nível de substituição. Após atingir o pico em 2019, a população total de Taiwan entrou em um declínio que nenhuma política atual é capaz de reverter.
 
-Por isso, o que este artigo quer deixar, mais do que mais um "Taiwan precisa de uma sociedade melhor" vazio, é um ajuste de ângulo: talvez tenhamos estado a perguntar errado. "Como fazer os taiwaneses ter mais filhos" — dez anos de resposta: 0,695, pátio da Xinwei vazio. As verdadeiras perguntas são outras duas: como deixar que quem **quer** casar, **quer** ter filhos, não seja amarrado por uma estrutura inteira que não aceita; e como, numa ilha que **vai** encolher, **vai** envelhecer, fazer os dias passarem com dignidade, calor, gente a segurar-se uns aos outros.
+Portanto, o que este artigo quer deixar para você não é apenas mais uma frase vazia dizendo que "Taiwan precisa de uma sociedade melhor", mas sim um ajuste de perspectiva: talvez estejamos fazendo as perguntas erradas. Para a pergunta "como fazer os taiwaneses terem mais filhos", a resposta de dez anos foi 0,695; foi o pátio vazio da Escola Xinwei. As duas coisas que realmente deveriam ser perguntadas são: como permitir que aquelas pessoas que, na verdade, querem se casar e ter filhos, não sejam presas por uma estrutura inteira que elas não conseguem aceitar; e como viver com dignidade, calor humano e apoio mútuo em uma ilha destinada a encolher e envelhecer.
 
-Naquele dia do Dragão de 2024, no pátio da Xinwei, nem um miúdo de farda nova, mochila grande demais nas costas.
+Naquele dia do Ano do Dragão de 2024, no pátio da Escola Xinwei, não havia um único aluno do primeiro ano usando o novo uniforme ou carregando uma mochila grande demais.
 
-É uma imagem muito quieta. Tão quieta que dá vontade de perguntar: esta ilha, quanto tempo mais até parar de gritar para a sala de partos, virar o corpo, e olhar bem para as pessoas que já estão no pátio?
+Foi uma cena muito silenciosa. Tão silenciosa que você não consegue evitar pensar: quanto tempo ainda levará para que esta ilha pare de gritar para as salas de parto e se vire para olhar de verdade para as pessoas que já estão aqui, no pátio?
 
-O canto fica mais baixo, mas enquanto houver quem cante, ainda não chegou a última canção.
+O canto pode diminuir, mas enquanto houver alguém cantando, ainda não chegou a última canção.
 
 ---
 
-**Leitura complementar**:
+**Leitura adicional**:
 
-- [Educação no interior de Taiwan](/pt/society/taiwan-rural-education) — Quando o interior entrou na baixa natalidade quarenta anos antes da cidade, as pequenas escolas rurais foram onde a carta chegou primeiro.
-- [Sistema educativo e cultura de exames](/pt/society/education-system-and-admissions-culture) — Fecho de universidades, abismo de matrículas, indissociável de como a sociedade olha para o "subir na vida".
-- [Desenvolvimento do sistema de cuidados longos de Taiwan](/pt/society/long-term-care-system-development) — Quando >65 anos passa 20%, 215 mil camas sustentadas por cuidadores estrangeiros, cuidados longos são a outra ponta da baixa natalidade.
-- [Indústria robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — Se menos gente é o destino, automação é uma das chaves para "reorganizar a produção com menos gente".
-- [Expansão e fecho do ensino superior em Taiwan](/pt/society/taiwan-higher-education-expansion-and-decline) — O muro da baixa natalidade bate na universidade: de 58 para 148 escolas, como fechar, quem paga a conta.
+- [Salários, impostos e aposentadoria](/income/) — As contas após a diminuição da população: receitas e despesas do Seguro de Saúde Laboral, diferentes visões sobre a reforma das pensões e simulações de pensões laborais.
+- [Educação em áreas rurais de Taiwan](/pt/society/taiwan-rural-education) — Quando as zonas rurais entram na baixa natalidade quarenta anos antes das cidades, as pequenas escolas rurais são o primeiro lugar onde esta mensagem chega.
+- [Sistema educacional e cultura de ascensão acadêmica](/pt/society/education-system-and-admissions-culture) — O fechamento de universidades e o abismo no número de alunos estão intimamente ligados à forma como a sociedade vê o conceito de "ascensão acadêmica".
+- [Desenvolvimento do sistema de cuidados de longa duração em Taiwan](/pt/society/long-term-care-system-development) — Quando a população acima de 65 anos ultrapassa 20% e cuidadoras estrangeiras sustentam 215.000 leitos, os cuidados de longa duração são o outro lado da baixa natalidade.
+- [Especial sobre saúde e cuidados de longa duração](/health/) — Dados reais sobre a proporção de pessoas acima de 65 anos e as projeções do Conselho de Planeamento e Desenvolvimento Económico, além das receitas e despesas do fundo de cuidados de longa duração.
+- [Indústria de robótica em Taiwan](/pt/technology/taiwan-robotics-industry) — Se a diminuição da população é um destino certo, a automação será uma das respostas fundamentais para "reorganizar a produção dentro de uma população menor".
+- [Expansão e declínio do ensino superior em Taiwan](/pt/society/taiwan-higher-education-expansion-and-decline) — A barreira da baixa natalidade colidindo com as universidades: após passarem de 58 para 148 instituições de nível superior, como as escolas fecham e quem arca com o custo.
 
 ## Referências
 

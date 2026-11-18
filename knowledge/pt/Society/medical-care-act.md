@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T18:07:59.681520+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-18T22:08:16.871495+00:00'
 ---
 
 > **Resumo em 30 segundos**: A Lei Médica não regula o médico individualmente (isso é a Lei dos Médicos de 1943), nem os pagamentos do Seguro Nacional de Saúde (isso é a Lei do Seguro Nacional de Saúde de 1994); ela regula como as instituições — **hospitais, clínicas e pessoas jurídicas médicas** — existem, anunciam publicidade e resolvem disputas. Publicada em 1986 com 91 artigos, passou por uma grande reforma em 2004 para 123 artigos, introduzindo o sistema de "pessoas jurídicas médicas"; em 2017, alterou-se o Artigo 82 para mudar a responsabilidade criminal médica para um "sistema de dupla condição"; e em maio de 2026, a proporção enfermeiro-paciente foi incluída na lei. No entanto, ao longo de quarenta anos, a realidade enfrentada pelo Artigo 1º, que declara explicitamente o objetivo de "promover o desenvolvimento saudável da indústria médica", é que 83% dos hospitais e 74% dos leitos pertencem ao setor privado; a taxa de saída de médicos de emergência é duas ou três vezes maior que a dos EUA; e as enfermeiras pediram demissão em massa, chegando ao limite do colapso antes que o Legislativo finalmente incluísse a proporção enfermeiro-paciente na lei.
@@ -342,30 +344,31 @@ Como compensar a carência médica nas áreas remotas? O Ministério da Saúde e
 
 Contudo, a parte que não consegue ser suprida reflete-se na taxa de mortalidade infantil. Uma investigação do _The Reporter_ em 2018 descobriu que Taitung, Pingtung e o sul de Hualien são as três principais zonas de alta mortalidade infantil em Taiwan[^60], mostrando que a insuficiência de recursos médicos impacta diretamente a população mais vulnerável.
 
-## Uma tensão não resolvida após quarenta anos
+## Quarenta anos depois, a tensão permanece por resolver
 
-A Lei Médica não opera de forma isolada. Ela coexiste com outras cinco leis que formam a estrutura da governança médica em Taiwan:
+A Lei Médica não é uma lei que opera isoladamente. Ela compõe, junto com outras cinco leis, o esqueleto da governança médica de Taiwan:
 
-- **Lei dos Médicos** (1943) regula o médico como indivíduo.
+- **Lei dos Médicos** (1943) regula os médicos individuais.
 - **Lei Médica** (1986) regula as instituições médicas.
-- **Lei do Seguro de Saúde Nacional** (promulgada em 1994, implementada em 1995) regula os pagamentos do seguro de saúde.
-- **Lei dos Direitos de Autonomia do Paciente** (aprovada em 2015, implementada em 2019, a primeira da Ásia) [^61] reforça as normas sobre o consentimento do paciente contidas nos artigos 63 e 64 da Lei Médica, estabelecendo explicitamente que o consentimento do paciente tem prioridade.
-- **Lei de Prevenção de Acidentes Médicos e Tratamento de Controvérsias** (aprovada em 2022, regulamentações implementadas em 2024) [^17] estabelece mecanismos de mediação para disputas médicas — as declarações durante processos de comunicação, cuidado e mediação de conflitos, bem como a notificação voluntária pelas instituições médicas e o conteúdo das análises de causa raiz para melhorias, **não podem ser utilizados como evidência em litígios ou como base para julgamentos**.
-- **Lei de Medicina Regenerativa + Regulamento sobre Preparados de Medicina Regenerativa** (aprovados em 2024) são leis especiais que se desprendem da Lei Médica para regular a terapia celular e a terapia genética [^62].
+- **Lei do Seguro Nacional de Saúde** (1994 promulgada, 1995 implementada) regula os pagamentos do Seguro Saúde.
+- **Lei dos Direitos de Autonomia do Paciente** (2015 aprovada, 2019 implementada, a primeira na Ásia)[^61] reforça os Artigos 63 e 64 da Lei Médica sobre o consentimento do paciente, estabelecendo por escrito a prioridade do consentimento do paciente.
+- **Lei de Prevenção de Acidentes Médicos e Tratamento de Controvérsias** (2022 aprovada, 2024 implementada em subleis)[^17] preenche o mecanismo de mediação de disputas médicas — comunicação e cuidado, declarações durante o processo de mediação, bem como relatórios voluntários de instituições médicas e conteúdo de análise de causa raiz e melhoria — **nenhum dos quais pode ser adotado como evidência em litígio ou base para julgamento**.
+- **Lei de Medicina Regenerativa + Regulamento de Preparações de Medicina Regenerativa** (2024 aprovadas) são leis especiais independentes da Lei Médica, regulando terapia celular, terapia gênica[^62].
 
-Essas seis leis compõem o panorama da governança médica em Taiwan, sendo a Lei Médica o pilar do "aspecto institucional". No entanto, cada nova lei surge devido às lacunas que a própria Lei Médica não consegue cobrir: a Lei dos Médicos não regula as instituições; a Lei Médica não regula os pagamentos do seguro de saúde; a Lei Médica não regula as decisões médicas antecipadas de indivíduos; a Lei Médica não regula células regenerativas; e a Lei Médica não regula a mediação de disputas. Cada lacuna torna-se o ponto de entrada para uma nova lei.
+As seis leis compõem o panorama completo da governança médica de Taiwan, sendo a Lei Médica o pilar do "aspecto institucional". Mas cada nova lei surgiu porque a própria Lei Médica tinha lacunas que não conseguia cobrir: a Lei dos Médicos não regula instituições, a Lei Médica não regula pagamentos do Seguro Saúde, a Lei Médica não regula decisões médicas antecipadas pessoais, a Lei Médica não regula células regenerativas, a Lei Médica não regula mediação de disputas. Cada lacuna é a porta de entrada para uma nova lei.
 
-> **✦** A Lei Médica estabelece como objetivo "promover o desenvolvimento saudável das empresas médicas". Ao longo de quarenta anos, os hospitais aumentaram, a tecnologia tornou-se mais forte e a cobertura cresceu; mas houve uma onda de demissões de enfermeiros, a taxa de saída de médicos de emergência é o dobro da média internacional, os hospitais privados expandiram para 83%, os hospitais públicos sobrevivem graças a subsídios, 79% das disputas médicas tornaram-se criminais e, em áreas remotas, cada médico ainda atende dez mil pessoas. O que diz a lei está correto, mas o esgotamento no campo de batalha também é real. A questão que resta é: como a Lei Médica poderá encurtar essa distância nos próximos quarenta anos?
+> **✦** A Lei Médica estabelece "promover o desenvolvimento saudável dos serviços médicos". Quarenta anos depois, há mais hospitais, a tecnologia ficou mais forte, a cobertura aumentou, mas enfermeiros saem em ondas, a taxa de saída de médicos de emergência excede o dobro da internacional, hospitais privados se expandiram para 83%, hospitais públicos sobrevivem de subsídios, a taxa de criminalização de disputas médicas é de 79%, e em áreas remotas cada médico ainda atende dez mil pessoas. As palavras da lei não estão erradas, o esgotamento no local também não está errado. A questão restante é: no segundo período de quarenta anos, como a Lei Médica vai encurtar a distância entre estes dois blocos.
 
-Na madrugada de 8 de maio de 2026, o Legislativo aprovou a proporção enfermeiro-paciente em três turnos. As palavras de Tsai Kuang-chao, as de Lo Hsiang-yun e as de Hsueh Cheng-chun ainda ecoam nos corredores de cada sala de emergência em Taiwan. Quando será a próxima reforma ou qual artigo será alterado, ninguém pode escrever na lei. Mas enfermeiros, médicos de emergência e residentes das cinco principais especialidades continuam expressando sua posição através da "ausência" ou do "pedido de demissão".
+Na madrugada de 8 de maio de 2026, o Yuan Legislativo aprovou a proporção enfermeiro-paciente em três turnos. As palavras de Tsai Kuang-chao, as de Lo Hsiang-yun, as de Hsueh Cheng-chun — ainda ecoam nos corredores de cada sala de emergência de Taiwan. Ninguém pode escrever na lei quando será a próxima emenda, nem qual artigo será alterado. Mas enfermeiros, médicos de emergência e médicos residentes das cinco grandes especialidades continuam a usar "não vêm" e "pedem demissão" para expressar sua posição.
 
-As palavras escritas na lei são lidas pelos cidadãos. As palavras que não foram escritas são registradas pelos pacientes que lotam as paredes e os corredores dos hospitais.
+As palavras escritas na lei serão lidas pelos leitores. As palavras não escritas são registradas pelos pacientes entupindo as paredes e corredores dos hospitais.
 
 **Leitura adicional**:
 
-- [A medicina em Taiwan e o Seguro de Saúde Nacional](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A cobertura e a estrutura de pagamento do sistema de seguro de saúde, mundialmente conhecidas, são a contraparte do "aspecto de pagamento" que acompanha a implementação da Lei Médica.
-- [Evolução das leis de medicina regenerativa em Taiwan: o desabafo dos profissionais](/pt/society/taiwan-regenerative-medicine-laws) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais independentes da Lei Médica, preenchendo as normas para terapia celular.
-- [O sistema de medicina de desastres em Taiwan](/pt/technology/taiwan-disaster-medicine-system) — Como o Artigo 1º da Lei Médica, que trata da "distribuição razoável de recursos médicos", opera na prática em cenários de grandes desastres.
+- [Taiwan e o Seguro Nacional de Saúde](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A cobertura e a estrutura de pagamento mundialmente famosas do sistema de Seguro Saúde são o parceiro do "lado do pagamento" após a implementação da Lei Médica
+- [Confissões de profissionais sobre a evolução das duas leis de medicina regenerativa de Taiwan](/pt/society/taiwan-regenerative-medicine-laws) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais independentes da Lei Médica, preenchendo a regulação de terapia celular
+- [Sistema de medicina de desastre de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — A operação real do Artigo 1 da Lei Médica "distribuição razoável de recursos médicos" em cenários de grandes desastres
+- [Reportagem especial sobre medicina e cuidados de longa duração](/health/) — Transformando em gráficos as receitas e despesas do Seguro Saúde, retenção em emergência, força de trabalho de enfermagem e número de médicos por condado/cidade, e listando as posições de todas as partes sobre a entrada em lei da proporção enfermeiro-paciente
 
 ## Fontes das imagens
 
