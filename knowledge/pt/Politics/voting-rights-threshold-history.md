@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/投票權門檻歷史.md'
-sourceCommitSha: '9cef725c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:eb0a0062b5494500'
 sourceBodyHash: 'sha256:a759a5339dd81f4b'
 translatedAt: '2026-07-31T22:46:19+08:00'

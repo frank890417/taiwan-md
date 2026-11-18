@@ -20,8 +20,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-05/季麟連.md'
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/季麟連.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e096cf547c4b743c'
 sourceBodyHash: 'sha256:94870d211f5fa515'
 translatedAt: '2026-07-31T22:46:19+08:00'

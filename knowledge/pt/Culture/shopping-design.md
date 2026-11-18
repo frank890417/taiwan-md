@@ -33,8 +33,10 @@ rationale:
   whos_pushing_back: '對生活風格媒體最合理的質疑：它是否把消費包裝成理想生活。本文不虛構外部負評（查無可承擔 claim 的公共爭議），只做結構提問＋業界自省（副總編包叔平談廣編倫理）＋產業結構（La Vie 同樣自辦獎、與巨思同源詹宏志），不升級為已發生爭議，也不把布迪厄理論寫成有人用它批評 SD。'
 relatedDiary:
   - 2026-07-13-214351-manual
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-10-26T01:08:13+08:00'

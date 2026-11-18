@@ -17,8 +17,10 @@ featured: true
 lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
-sourceCommitSha: '426c8cbd1'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:e5a1373630fd1073'
 sourceBodyHash: 'sha256:6ce2095cf81ca454'
 translatedAt: '2026-09-20T00:52:44+08:00'

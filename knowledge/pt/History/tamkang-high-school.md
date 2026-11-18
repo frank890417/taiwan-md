@@ -17,8 +17,10 @@ readingTime: 8
 lastVerified: 2026-03-24
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/淡江中學.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6515803df49cd854'
 sourceBodyHash: 'sha256:68be41dd8378b384'
 translatedAt: '2026-07-25T01:31:54+08:00'

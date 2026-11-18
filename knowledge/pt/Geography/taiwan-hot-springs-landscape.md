@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣溫泉地景.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-07-25T05:00:10+08:00'

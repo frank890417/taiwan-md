@@ -20,9 +20,11 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 image: '/article-images/society/du-mali-maine-potato-1940.webp'
 imageAlt: 'Temporada de colheita de batata no Condado de Aroostook, Maine, EUA (1940, fotografia do Serviço de Segurança Agrícola dos EUA; as escolas não abrem antes da conclusão da colheita de batata) — a aparência real das batatas americanas antes de chegarem a Taiwan'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:6f804a54cc46f969'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-26T03:29:00.949648+00:00'
 ---

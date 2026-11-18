@@ -18,8 +18,10 @@ readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
 translatedAt: '2026-07-24T23:02:19+08:00'

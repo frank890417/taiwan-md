@@ -28,9 +28,11 @@ imageCredit: '周永富（提供者）'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
 relatedDiary: ['2026-05-11-161600-twmd-rewrite-daily']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:3745f6b7e84f2ed1'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:711d78906f27f250'
 sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-08-02T18:44:28.240724+00:00'
 ---

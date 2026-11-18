@@ -31,9 +31,11 @@ rationale:
   whos_pushing_back: '支持凍漲：卓榮泰、魏季宏（Taipei Times 7 月社論）、廖惠珠 9 月投書、工會陳嘉麟、賴建信。批評或質疑：梁啟源（全面性補貼未區分對象）、王美花（政治考量可以，但不能讓這家公司虧錢）、張瓊婷、蕭代基、蔣萬安、陳清龍、許宇甄、李彥秀、PTT 群眾、劉鴻樟（要運價不要撒幣）。文章押的主張是「誰用得最多沒人統計」，讀者可以用「凍漲護住的是供應鏈與小店」反駁。'
   where_it_hedges: '中油累計吸收一律寫「官方估計約兩百億」；1,014 億標為年度估計且含不含天然氣兩份官方說法未對齊；2,338 億寫「增資」不寫「補貼」；「專案平穩機制」只寫官方用語與六成→七成五；2008 凍漲「達 7 個月之久」歸屬林茂文，2012 合理化方案的「窮人補貼富人」也歸屬林茂文文章；梁啟源、王美花、蔣萬安、板橋麵攤老闆娘、劉鴻樟 5 月的說法皆為記者轉述不加引號；能源署分項銷量寫「沒有整理成公開的表」；立法院進度停在「已送立院、排審日期還沒有消息」；亞鄰比較表註明各國油品規格不同；經濟部「28.9 漲到 45.4」標估算與三月初基準。'
 relatedDiary: ['2026-09-19-003000-news-radar']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣油價機制與中油.md'
-sourceCommitSha: 'ff39af227'
-sourceContentHash: 'sha256:24e5d0eeeb829e10'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:abb5ee8d06aeeded'
 sourceBodyHash: 'sha256:dba211101379a553'
 translatedAt: '2026-09-25T16:19:14.305894+00:00'
 ---

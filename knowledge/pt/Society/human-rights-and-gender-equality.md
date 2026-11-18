@@ -16,8 +16,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/人權與性別平等.md'
-sourceCommitSha: '426c8cbd1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:154996399630e9d4'
 sourceBodyHash: 'sha256:2e750ef70b22356f'
 translatedAt: '2026-09-19T11:59:08+08:00'

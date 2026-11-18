@@ -27,8 +27,10 @@ sporeLinks:
   [
     "{'id': 78, 'platform': 'threads', 'date': '2026-05-20', 'url': 'https://www.threads.com/@taiwandotmd/post/DYi422_k4Vs'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/泛科學.md'
-sourceCommitSha: '2ed57e086'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:81628aa1fa2a0014'
 sourceBodyHash: 'sha256:004993e686695dd6'
 translatedAt: '2026-08-03T21:46:30+08:00'

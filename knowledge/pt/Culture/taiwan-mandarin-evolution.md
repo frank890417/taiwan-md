@@ -18,8 +18,10 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
 terminology_exempt: true # article subject IS the cross-strait term itself
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
 translatedAt: '2026-09-13T10:45:15+08:00'

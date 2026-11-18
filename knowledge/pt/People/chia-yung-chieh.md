@@ -25,8 +25,10 @@ sporeLinks:
     "{'id': 57, 'platform': 'threads', 'date': '2026-05-02', 'url': 'https://www.threads.com/@taiwandotmd/post/DX13hccE6U6'}",
     "{'id': 58, 'platform': 'x', 'date': '2026-05-02', 'url': 'https://x.com/taiwandotmd/status/2050601653792047479'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賈永婕.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a92f6a6b22257ffa'
 sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-07-26T23:43:20+08:00'

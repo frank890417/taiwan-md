@@ -35,9 +35,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-23'
     url: 'https://x.com/taiwandotmd/status/2058183941593719181'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/許倬雲.md'
-sourceCommitSha: 'ecb3f6520'
-sourceContentHash: 'sha256:61f95f19d1a8b628'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a7dc8d1152c0f436'
 sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-09-26T03:01:09.590359+00:00'
 ---

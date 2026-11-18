@@ -22,8 +22,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/林宥嘉.md'
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林宥嘉.md'
-sourceCommitSha: 'b358c8028'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:81084f8c4d60488a'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: '2026-09-18T00:53:08+08:00'

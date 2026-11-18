@@ -19,8 +19,10 @@ readingTime: 10
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣玩家的瘋狂時刻.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:03ef929d72a03265'
 sourceBodyHash: 'sha256:dd0e3abb83d55e63'
 translatedAt: '2026-07-25T15:46:05+08:00'

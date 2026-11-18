@@ -17,8 +17,10 @@ readingTime: 9
 lastVerified: 2026-04-10
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-07-25T01:31:54+08:00'

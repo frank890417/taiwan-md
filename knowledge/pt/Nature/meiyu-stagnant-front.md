@@ -9,8 +9,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:08c48a6ddad4519e'
 sourceBodyHash: 'sha256:31c92fd7633ce35e'
 translatedAt: '2026-07-25T10:53:20+08:00'

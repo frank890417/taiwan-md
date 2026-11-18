@@ -18,8 +18,10 @@ readingTime: 8
 lastVerified: 2026-04-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/神豬.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:4e7bd6002d83c43b'
 sourceBodyHash: 'sha256:0f6781254171f7ba'
 translatedAt: '2026-07-25T00:12:03+08:00'

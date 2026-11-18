@@ -10,8 +10,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5711dca50c2efd19'
 sourceBodyHash: 'sha256:62cca1f3ce3fb047'
 translatedAt: '2026-10-15T15:59:52+08:00'

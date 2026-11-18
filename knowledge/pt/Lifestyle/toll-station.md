@@ -26,9 +26,11 @@ imageCredit: 'MiNe (Flickr), via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20080818a.jpg'
 relatedArticles: ['Lifestyle/高速公路', 'Lifestyle/台灣交通系統']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '09ffe560f'
-sourceContentHash: 'sha256:cffdc6c150dee65c'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:ef6fab2f2ae48840'
 sourceBodyHash: 'sha256:6af77751f6cfb762'
 translatedAt: '2026-09-24T19:38:31.767929+00:00'
 ---

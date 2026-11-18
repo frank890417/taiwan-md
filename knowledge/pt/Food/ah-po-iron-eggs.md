@@ -21,8 +21,10 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 10
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:bb3833c08618e661'
 sourceBodyHash: 'sha256:f7475d29ab35a9a7'
 translatedAt: '2026-10-10T07:54:39.783923+00:00'

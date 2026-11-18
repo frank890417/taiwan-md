@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/莊智淵.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8f24d65425473ad4'
 sourceBodyHash: 'sha256:1216e697fc7e6c44'
 translatedAt: '2026-07-25T17:25:36+08:00'

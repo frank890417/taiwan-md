@@ -18,8 +18,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴清德.md'
-sourceCommitSha: '43e9e1c7e'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:5933733fa0ffe284'
 sourceBodyHash: 'sha256:759fc6aa29cdf9f0'
 translatedAt: '2026-10-04T05:18:01+08:00'

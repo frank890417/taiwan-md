@@ -18,8 +18,10 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台達電子.md'
-sourceCommitSha: 'bf0ce371e'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0c0aec93dc48d894'
 sourceBodyHash: 'sha256:85c567c76ec730ad'
 translatedAt: '2026-10-04T06:53:10+08:00'
