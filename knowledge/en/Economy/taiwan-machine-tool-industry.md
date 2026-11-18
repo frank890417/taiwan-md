@@ -2,28 +2,32 @@
 title: "Taiwan's Machine Tool Industry"
 description: "From the Golden Corridor of Dadu Mountain to TMTS 2026: the resilience, collapse, and rebirth of Taiwan's machine tool industry, and the structural anxiety behind its 2024 fall from global 5th to 7th place."
 date: 2026-04-11
-tags:
-  - 'machine tools'
-  - 'precision machinery'
-  - 'Dadu Mountain'
-  - 'Taichung'
-  - 'manufacturing'
-  - 'TMTS'
-  - 'industrial cluster'
-  - '2026'
-subcategory: '傳統產業'
 category: 'Economy'
+tags:
+  [
+    'machine tools',
+    'precision machinery',
+    'Dadu Mountain',
+    'Taichung',
+    'manufacturing',
+    'TMTS',
+    'industrial cluster',
+    '2026',
+  ]
+subcategory: '傳統產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-05-01T13:19:11+08:00'
+translatedAt: '2026-11-18T12:40:18.659557+00:00'
 ---
 
 # Taiwan's Machine Tool Industry

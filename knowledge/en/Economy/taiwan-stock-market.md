@@ -20,11 +20,13 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/台灣股市與資本市場.md'
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:323486e516e428ed'
-sourceBodyHash: 'sha256:c34c5e10c2fbc812'
-translatedAt: '2026-07-27T11:17:14.310780+00:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:05af3274e03b254d'
+sourceBodyHash: 'sha256:c641c2a8bf14fd32'
+translatedAt: '2026-11-18T11:49:13.150113+00:00'
 ---
 
 > **30-second overview:** On April 28, 2026, Taiwan’s total stock-market capitalization rose to US$4.47 trillion, overtaking Canada to become the world’s sixth-largest stock market; in mid-April, it had already surpassed the United Kingdom. The force behind it was TSMC — with a market capitalization of US$1.8 trillion and a weight of nearly 45% in the capitalization-weighted index. The 10,000-point crash thirty-six years earlier, which collectively erased 4.6 million accounts, and the Hung Yuan Group, which promised 4% monthly interest and ruined 160,000 people, have not yet dried out of the island’s financial memory. From just over a dozen listed companies in the year the stock exchange was founded to 13.93 million accounts sharing in the world’s sixth-largest capital market today, Taiwan took sixty-four years. But this sixth-place ranking contains a structural paradox: take away TSMC, and the other 1,000-plus stocks combined would probably just squeeze into roughly fifteenth place globally.
@@ -158,33 +160,35 @@ From “stocks are gambling” in the 1990s to “not investing is the real risk
 
 The left side of this table is traumatic memory; the right side is the AI dividend. Thirty-six years lie between them — but the line in between was not a straight climb upward.
 
-## The Same Index, Two Perspectives
+## One Index, Two Perspectives
 
-On February 9, 1962, the Taiwan Stock Exchange opened for business with just over a dozen listed companies[^TWSE]. Sixty-four years later, on April 28, 2026, the TAIEX stood within striking distance of 40,000 points, and total market capitalization had risen to the world's sixth largest.
+On February 9, 1962, the Taiwan Stock Exchange opened for business, with only a dozen or so companies listed[^TWSE]. Sixty-four years later, on April 28, 2026, the TAIEX stood on the doorstep of 40,000 points, and total market capitalization had risen to the world's sixth largest.
 
-Those sixty-four years make for a glowing press release: from the industrial era's cement, paper, agriculture, and mining, to the knowledge economy's wafer foundries, AI cooling, and optical communications. Taiwan's capital market spent a _jiazi_ (sixty-year cycle) growing from a rural mom-and-pop shop into the world's sixth-largest stock exchange.
+Those sixty-four years make for a glowing press release: from the industrial era's cement, paper, agriculture and forestry, and mining, to the knowledge economy's wafer foundry, AI cooling, and optical communications. Taiwan's capital market spent a jiazi (60-year cycle) growing from a country general store into the world's sixth-largest stock exchange.
 
-But the 2026 number-six ranking carries a structural irony.
+But this 2026 sixth-place ranking carries a structural irony.
 
-Of the NT$4.47 trillion in Taiwan stock market value, TSMC alone accounts for nearly 45%. Remove TSMC from the weighted index, and the remaining 1,000-plus issues total roughly US$2.67 trillion — likely dropping to around tenth globally, on par with Saudi Arabia. In the world of capital markets, the relationship between the "world's sixth largest" label and "an island" is thinner than imagined.
+Of the TWSE's US$4.47 trillion in market capitalization, TSMC alone accounts for nearly 45%. Remove TSMC from the TAIEX, and the remaining 1,000-plus issues total roughly US$2.67 trillion — likely dropping to around 10th place globally, on par with Saudi Arabia. In the world of capital markets, the identity of "world's sixth largest" has a thinner relationship to "an island" than one might imagine.
 
-> **✦** "On April 28, 2026, a Bloomberg terminal in New York flashed 'Taiwan Overtakes Canada.' That same night, a Taipei taxi driver sat by his radio waiting for the next financial segment. He wasn't concerned about which G7 country Taiwan had surpassed; he cared whether TSMC would close at 2,300 tomorrow. Bloomberg's headline read 'An Island's Victory'; the driver cared about 'A Single Stock's Standing.' Same event, two perspectives — and the latter may be closer to the truth."
+> **✦** "On April 28, 2026, a Bloomberg terminal in New York flashed 'Taiwan Overtakes Canada.' That same night, a Taipei taxi driver sat by his radio waiting for the next financial segment; he wasn't concerned about which G7 country Taiwan had surpassed, but whether TSMC would close at 2,300 tomorrow. Bloomberg's headline read 'An Island's Victory'; the driver cared about 'A Single Stock's Standing.' Same event, two perspectives — and the latter may be closer to the truth."
 
-The 1990 ten-thousand-point crash destroyed a generation's trust in the stock market. The 2026 bull run that stormed past 40,000 and displaced Canada rebuilt trust among the same people — except this time, the object of trust shifted from "the winning hand I picked myself" to "that one stock the whole world is buying."
+The 1990 ten-thousand-point crash destroyed a generation's trust in the stock market. The 2026 bull run that stormed past 40,000 points and displaced Canada rebuilt that same generation's trust — only this time, the object of trust shifted from "the strong hand I picked myself" to "that TSMC share the whole world is buying."
 
-The summit where 13.93 million accounts stand together has a foundation 45% made of a single rock. The rock is hard, but there is only one.
+This summit where 13.93 million accounts stand together has a foundation that is 45% a single rock. The rock is hard, but there is only one of it.
 
 What will Taiwan's capital market learn in the next thirty years? Ask your neighbor who bottom-fished three times in 1990 — he'll probably tell you: the market is most dangerous precisely when everyone believes it won't fall.
 
 **Further Reading**
 
-- [Taiwan Enterprises: TSMC](/en/economy/tsmc) — The sun commanding 45% of the Taiwan market's weight, and the story behind the term "sacred mountain protecting the country"
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The entire supply-chain ecosystem propping up Taiwan's sixth-place ranking
-- [Taiwan Enterprises: Hon Hai Precision](/en/economy/foxconn-precision-industry) — The other heavyweight on Goldman Sachs' 25-stock buy list, from contract-manufacturing giant to AI server transformer
-- [Taiwan Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The trajectory from 1980s OEM to the 2026 AI dividend
-- [Economic Miracle: From Sweet Potato Vouchers to TSMC, Twenty Million People's Comeback Story](/en/economy/economic-miracle) — The money from the "Taiwan awash in cash" era that eventually flowed into the 1990 stock market and Hung Yuan
-- [Taiwan Fintech Development](/en/economy/taiwan-fintech-development) — From rotary phones to mobile recurring investments, the financial infrastructure behind a single account
-- [Apple Soda](/en/food/apple-cider) — The equity transfer chain of Atlantic Beverages (ticker 1213), listed in 1965, as a microcosm of two capital-history nodes: the 1985 Ten Credit case and the 1990 Hung Yuan case
+- [Taiwan Industry Special Topics](/industry/) — Mapping industrial structure with official statistics: 70 years of exports and GDP, science parks, factories by county/city, historical top-10 market cap rankings, plus six public debates with all sides represented
+- [Top 50 by Market Cap](/companies/) — Interactive ranking filterable and sortable by market cap, revenue, industry, and headquarters county/city
+- [Taiwan Companies: TSMC](/en/economy/tsmc) — The sun commanding 45% of the TWSE's weight, and the story behind the term "sacred mountain protecting the nation"
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The entire supply chain ecosystem upholding the TWSE's sixth-place status
+- [Taiwan Companies: Foxconn](/en/economy/foxconn-precision-industry) — The other heavyweight on Goldman Sachs' 25-stock buy list, from contract manufacturing giant to AI server transformer
+- [Taiwan Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The trajectory from 1980s contract manufacturing to the 2026 AI dividend
+- [Economic Miracle: From Sweet Potato Vouchers to TSMC, the Turnaround Story Built by Twenty Million People](/en/economy/economic-miracle) — The money from the era of "Taiwan awash in cash" ultimately flowed into the 1990 stock market and Hung Yuan
+- [Taiwan Fintech Development](/en/economy/taiwan-fintech-development) — From touchtone phones to mobile dollar-cost averaging, the financial infrastructure behind a single account
+- [Apple Sidra](/en/food/apple-cider) — The equity transfer chain of Atlantic Beverages (ticker 1213), listed in 1965, is a microcosm of two capital-history nodes: the 1985 Ten-Bank Case and the 1990 Hung Yuan Case
 
 ## References
 

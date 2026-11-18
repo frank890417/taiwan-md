@@ -23,11 +23,13 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/學習貧窮.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:849f86ce2f7e41c5'
 sourceBodyHash: 'sha256:605da09515483b90'
-translatedAt: '2026-09-20T00:52:34+08:00'
+translatedAt: '2026-11-18T11:38:52.100628+00:00'
 ---
 
 > **30 Second Overview:** In 2019, the World Bank and UNESCO jointly published the term "Learning Poverty" [^1]. The definition is: a 10-year-old child who cannot read and understand a simple story appropriate for their age [^1]. The learning poverty rate in low-income and lower-middle-income countries was **53%** in 2019; it rose to about **70%** after the pandemic in 2022; the World Bank's February 2023 update shows that even with current improvement rates, it will only drop to **43%** by 2030 [^2][^3]. Taiwan has no official learning poverty rate statistics, but PISA 2022 provided an awkward double answer [^4]: **Taiwanese students ranked 3rd globally in Math, 5th in Reading, and 4th in Science**, with the math scores of the **weakest 20% reaching the OECD average of 472** (rated as having a "resilient" educational system by the OECD) [^5]. However, the same report showed that the **average Math score was 571 in urban areas and 517 in rural areas, a gap of 54 points** (equivalent to about one and a half to two years of learning progress) [^6]. A 2019 survey by the Bo-You Foundation across 13 rural junior high schools found that **70% of students in 6 schools scored C in English, and 70% of students in 5 schools scored C in Math** [^7]. A long-term observation from PISA 2018 showed a reading test performance gap of about **6 years' worth of learning** between the top 10% and bottom 10% of Taiwanese students [^8]. The Taiwanese version of learning poverty is not found in the urban average, but on the standardized test scores of rural areas; it has not yet been officially measured.

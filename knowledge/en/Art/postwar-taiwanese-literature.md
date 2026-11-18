@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T14:22:14.798808+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-18T11:24:13.550207+00:00'
 ---
 
 > **30-second overview:** For forty-two years (1945–1987), Taiwan's literary world lived under a regime of the unspeakable: no Japanese, no February 28, no suggestion that Taiwan might be something other than China, no "local" literature. But each generation of writers found their own mode of indirection and learned, somehow, to speak. Yeh Shih-tao traveled from that blank page in 1945 to a 232-page _Outline History of Taiwanese Literature_ in 1987 — via aphasia, three years of imprisonment, over a decade of silence, a 1965 essay called "Taiwan's Nativist Literature," and his 1985 declaration "Without land, there is no literature." Pai Hsien-yung read Kafka in an air-raid shelter. Wang Wen-hsing spent seven years writing a novel that was roundly condemned. Lin Hai-yin resigned her editorial post over a single poem. Yu Kwang-chung cried "wolf" to attack nativist literature. Li Ang put a cleaver in Lin Shih's hand in 1983. What these forty-two years left behind is an entire grammar of obliquity.
@@ -102,29 +104,31 @@ Yeh Shih-tao himself was arrested by the Bureau of Investigation on September 20
 
 In November 1965, he published "Taiwan's Nativist Literature" in issue 97 of _Wen Hsing_. This was his first systematic argument for "Taiwanese literature" as a category since the blank page. At that time, the phrase still could not be spoken directly in public.[^23]
 
-## The Wolf-Cry Supplement Column
+## The "The Wolf Is Coming" Supplement
 
-In April 1977, issue 2 of _Cactus Magazine_ ran a special "Nativist and Realist" section, edited by Wang Chien-chuang, publishing three-way pieces by Wang To, Yin Cheng-hsiung, and Chu Hsi-ning.[^24] Wang To argued that the flourishing of nativist literature was a welcome development, suggesting it be renamed "realist literature"; Yin Cheng-hsiung criticized nativist literature for risking becoming "a vehicle for expressing hatred and resentment"; Chu Hsi-ning attacked nativist literature's provincialism, suggesting its overemphasis on Taiwanese consciousness showed "separatist tendencies."
+In April 1977, the second issue of _Cactus Magazine_ (_Xianrenzhang zazhi_) released a special series titled "Nativism and Reality," edited by Wang Chien-chuang. It featured articles by Wang Tuo—titled 〈It is "Realist" Literature, Not "Nativist Literature"〉—as well as Yin Cheng-hsiung and Chu Hsi-ning[^24]. Wang Tuo argued that the rise of nativist literature was a welcome phenomenon but suggested it be renamed "realist literature"; Yin Cheng-hsiung criticized nativist literature for having "the risk of becoming a tool for expressing ideologies such as hatred and resentment"; and Chu Hsi-ning criticized nativism for lapsing into provincialism, suggesting that an overemphasis on Taiwan consciousness carried a "suspicion of separatism."
 
-The combustible atmosphere of the debate began to build.
+The tension of this polemic began to build here.
 
-In June, Ch'en Ying-chen (under the pen name Hsu Nan-ts'un) published "The Blind Spots of 'Nativist Literature'" in issue 2 of _Taiwan Literature and Arts_, criticizing the "Taiwanese consciousness" and "Taiwan standpoint" of Yeh Shih-tao as "ambiguous and difficult to untangle." In July, Ch'en again published "Literature Comes from Society and Reflects Society" in issue 5 of _Cactus_.[^25]
+In June, Ch'en Ying-chen published 〈The Blind Spot of "Nativist Literature"〉 in the second issue of _Taiwan Literary Arts_ (_Taiwan wenyi_) under the pseudonym "Hsu Nan-tsun," criticizing Yeh Shih-tao's "Taiwan consciousness" and "Taiwanese standpoint" as "ambiguous and difficult to decipher." In July, Ch'en Ying-chen published 〈Literature Comes from Society and Reflects Society〉 in the fifth issue of _Cactus_[^25].
 
-On August 20, 1977, Yu Kwang-chung published "The Wolf Is Coming" in column 12 of the _United Daily News_ supplement, accusing nativist literature of being "'workers', peasants', and soldiers' literature that someone in Taiwan is now openly advocating," invoking Mao Zedong's Yan'an Forum talks.[^26] The most frequently quoted line from the piece: "To cry 'wolf' when there is no wolf is to alarm oneself; not to cry 'wolf' when there is a wolf is cowardice."[^26]
+On August 20, 1977, Yu Kwang-chung published 〈The Wolf Is Coming〉 in the United Daily News supplement on page 12, accusing nativist literature of being "the 'literature of workers, peasants, and soldiers,' which someone in Taiwan is already openly advocating," citing Mao Zedong's speeches from the Yan'an Forum on Literature and Art[^26]. The sentence from that article that became most frequently quoted was: "To cry 'the wolf is coming' when no wolf is seen is to invite trouble; to see a wolf and not cry 'the wolf is coming' is cowardice"[^26].
 
-"Workers', peasants', and soldiers' literature" was a label that could get a person jailed in Taiwan in 1977.
+In 1977 Taiwan, being labeled as "worker-peasant-soldier literature" was a charge that could send a person to prison.
 
-On August 29, the Nationalist Party convened its "Second National Literary Arts Conference," with Yu Kwang-chung chairing the presidium. Wang Chien-chuang later recalled that the Garrison Command official overseeing cultural affairs said at the meeting: "As for those who do not heed the government's advice, the government is not unwilling to act — it is only a matter of timing."[^27]
+On August 29, the Kuomintang held its "Second National Literary Conference," with Yu Kwang-chung serving on the presidium. Wang Chien-chuang later recalled that an official from the Garrison Command in charge of culture said during the meeting: "As for those who do not heed the government's advice, it is not that the government will not act, it is just that the time has not yet come"[^27].
 
-The debate was about to escalate into arrests.
+The polemic was on the verge of escalating into arrests.
 
-On November 19, the Chungli Incident erupted: voters suspected ballot-rigging in Hsu Hsin-liang's campaign for Taoyuan County magistrate; crowds stormed the Chungli precinct and set it ablaze, a turning point in the dangwai opposition movement. The government's attention was diverted.[^28]
+On November 19, the Chungli Incident broke out when Hsu Hsin-liang's campaign for Taoyuan County Magistrate was suspected of voter fraud, leading citizens to storm the Chungli police station and set it on fire—a turning point in the history of the _dangwai_ movement. The government's attention was diverted[^28].
 
-On January 18, 1978, Wang Sheng, director-general of the General Political Warfare Department, closed the Armed Forces 67th Year Literary Arts Conference by calling for "unity in defense of the local," and the debate ended.[^29] Ch'en Fang-ming later tabulated the _Collected Discussions on Nativist Literature_: 60% supportive, 30% opposed, 10% neutral.[^30]
+On January 18, 1978, Wang Sheng, Director of the General Political Warfare Department of the Ministry of National Defense, called for "unity in the homeland" during the closing of the military's 1978 literary assembly, effectively ending the polemic[^29]. Ch'en Fang-ming later compiled statistics from _The Collection of Nativist Literature Debates_: 60% supported nativist literature, 30% opposed it, and 10% were neutral[^30].
 
-The debate ended in a draw, but nativist literature won its readership. Huang Ch'un-ming's "The Taste of Apples" (written 1968, first published by Cactus Press 1969) and Wang Chen-ho's "An Oxcart for a Dowry" (published 1967 in _Literature Quarterly_, mixing Taiwanese and Mandarin) had already written the Lanyang plain and the Hualien market into literature.[^31] After the debate, nativist literature's legitimacy was established. But the deeper cost of the debate lay elsewhere: every writer came away better versed in how to write in ways that didn't sound too much like "workers', peasants', and soldiers' literature" — in other words, more practiced at self-censorship.
+The debate ended in a draw, but nativist literature won the readers. Huang Chun-ming's 〈Son's Big Doll〉 (written in 1968, first published as a standalone volume by Cactus Publishing in 1969) and Wang Chen-ho's 〈A Cartload of Dowry〉 (published in _Literary Quarterly_ in 1967, mixing Taiwanese and Mandarin) had already written the small towns of Lanyang and the markets of Hualien into literature[^31]. After this debate, the legitimacy of nativism was established. However, the cost of this polemic ran deeper: every writer learned more precisely how to write so as not to sound like "workers, peasants, or soldiers"—in other words, they learned how to practice self-censorship.
 
-Wang Chien-chuang's recollection of "the government is not unwilling to act — it is only a matter of timing" is the background noise every writer in these forty-two years could hear.
+The phrase witnessed by Wang Chien-chuang—"it is not that the government will not act, it is just that the time has not yet come"—became a background noise heard by every writer for the next 42 years.
+
+For the full timeline and the various positions held during the [Nativist Literature Debate](/en/history/nativist-literature-debate/), see the dedicated feature article.
 
 ## Lin Shih's Cleaver in Lucheng
 

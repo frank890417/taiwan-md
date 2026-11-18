@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T20:56:59+08:00",
-    "zhCommitHead": "489c0000b",
+    "lastUpdated": "2026-11-18T20:58:20+08:00",
+    "zhCommitHead": "3dd65f34b",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 685,
-        "stale": 61,
+        "fresh": 686,
+        "stale": 60,
         "metadata_stale": 434,
         "missing": 11,
         "orphan": 0
@@ -147771,20 +147771,18 @@
         "vi": {
           "path": "vi/People/su-chiao-hui.md",
           "translatedFrom": "People/蘇巧慧.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:eb7e3bede251836b",
-          "sourceBodyHash": "sha256:8ae89739a53e0a1f",
-          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "sourceCommitSha": "a3153ed16",
+          "sourceContentHash": "sha256:c8915f917f9448a9",
+          "sourceBodyHash": "sha256:e4d35852f02ecd0f",
+          "translatedAt": "2026-11-18T00:50:30+08:00",
           "translationLastCommit": "a6b4758f",
           "translationLastModified": "2026-07-26T18:00:18+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 22027,
+          "bytes": 31107,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+97 -82"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/su-chiao-hui.md",
