@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-11-02T06:23:19.669999+00:00'
+translatedAt: '2026-11-18T03:23:58.390105+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Sáng ngày 8 tháng 9 năm 2015, phông chữ Kim Xuyên (JinXuan) của justfont đã chính thức lên sàn gọi vốn trên flyingV. Chỉ trong vòng 76 phút, dự án đã vượt ngưỡng NT$1,5 triệu, và cuối cùng thu hút được 7.667 người tham gia với tổng số tiền là NT$25,93 triệu. Bài viết này bắt đầu từ sự thành lập của HuaKang vào năm 1987 để nhìn lại quá trình sụp đổ của một ngành công nghiệp vốn được cả Đài Loan đọc mỗi ngày, và cách mà một thế hệ độc giả đã được hình thành; đồng thời cũng kể về những người làm nghề chữ: Lâm Hà (Lin Xia) xuất thân từ vẽ tượng Phật, Trương Giới Quán (Zhang Jieguan) người đã đúc chữ chì suốt nửa thế kỷ trên đường Thái Nguyên, Vương Thủy Hà (Wang Shuihe) gia nhập nghề vẽ biển hiệu từ năm 14 tuổi, cũng như sự phát triển của các phông chữ mã nguồn mở, Lan Dương Minh Thể (Lanyang Ming) và hệ sinh thái nhà thiết kế độc lập sau sự xuất hiện của Kim Xuyên.

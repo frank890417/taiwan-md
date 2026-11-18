@@ -1,11 +1,6 @@
 ---
 title: 'Hội Thơ Lưỡi: Một nhóm người bị buộc quên tiếng Nhật, vượt qua Đài Loan với tạp chí thơ dài đời nhất'
 description: 'Năm 1958, một người Đài Loan 36 tuổi từng là binh sĩ Nhật phát hành thơ tiếng Trung đầu tiên sau chiến tranh bằng bút danh "Hoàn Phu", cách đó 11 năm kể từ khi dừng viết tiếng Nhật. Sáu năm sau, anh ấy và mười một người khác tại một phòng khách ở miền Trung Đài Loan quyết định thành lập "Lưỡi" - một hội thơ - biến những trải nghiệm mất tiếng lời của thế hệ này thành một tạp chí thơ dài đời nhất Đài Loan trong 60 năm, đưa thơ bản địa vào sách giáo khoa trung học.'
-translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:28d7ec6ba7695699'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-08-09T10:41:15+08:00'
 date: 2026-06-20
 category: 'Art'
 tags:
@@ -32,8 +27,13 @@ imageAlt: 'Nhà thơ Ngô Thành năm 2016 tại Hội Sách Quốc tế Đài B
 imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
-relatedDiary: []
-sporeLinks: []
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/笠詩社.md'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-18T04:32:20.117215+00:00'
 ---
 
 # Hội Thơ Lưỡi: Một nhóm người bị buộc quên tiếng Nhật, vượt qua Đài Loan với tạp chí thơ dài đời nhất
@@ -115,23 +115,23 @@ Sự đối lập này không chỉ là lựa chọn thẩm mỹ, mà là sự k
 
 Vị trí của hội thơ Lưỡi này, miền Nam, bản tỉnh, chất phác, hiện thực: trong giai đoạn từ những năm 1960 đến 1980 là bên lề, bị áp chế. Nhưng họ không dừng lại. Từ 1964 đến 2024, tạp chí "Lưỡi" đã xuất bản hơn 361 kỳ, chưa từng ngừng xuất bản lần nào[^26].
 
-## Khi sói tới, họ không trốn
+## Ngày "Sói đến", họ đã không trốn chạy
 
 Năm 1977 là một bước ngoặt.
 
-Tháng 4 năm đó, Vương Kiến Tráp làm chủ biên của tạp chí "Tiên Nhân Chưởng" đăng ba bài viết của Vương Thác, Ngân Chính Hùng, Chu Tây Ninh, khơi mào "Cuộc tranh luận về văn học quê hương"[^27]. Ngày 17 tháng 8, Bành Ca phát hành bài "Không nói về nhân tính, sao có văn học?" trên "Liên Hợp Báo", chỉ tên chỉ trích Vương Thác, Nhai Thiên Tương, Trần Ánh Chân[^28].
+Vào tháng 4 năm đó, tạp chí 《Xương đào chưởng chí》 (Cactus Magazine) do Vương Kiện Tráng làm tổng biên tập đã đăng tải ba bài viết của Vương Thác, Ngân Chính Hùng và Chu Tây Ninh, làm bùng nổ cuộc tranh luận về văn học quê hương[^27]. Ngày 17 tháng 8, Bành Ca đã đăng bài 〈Không bàn nhân tính, lấy đâu ra văn học?〉 trên tờ 《Liên hợp báo》 (United Daily News), chỉ đích danh phê phán Vương Thác, Uất Thiên Thông và Trần Ánh Chân[^28].
 
-Ba ngày sau, ngày 20 tháng 8 năm 1977, Dư Quang Trung phát hành bài nổi tiếng sau này hay bị thảo luận là "Sói Tới Rồi" trên "Liên Hợp Báo": chỉ trích văn học quê hương của Đài Loan "tình cờ có nét giống với văn học công nông binh của Trung Quốc đại lục nhấn mạnh đấu tranh giai cấp"[^29].
+Ba ngày sau đó, vào ngày 20 tháng 8 năm 1977, Dư Quang Trung đã đăng bài 〈Sói đến rồi〉 trên tờ 《Liên hợp báo》 — bài viết mà sau này đã trở thành chủ đề thảo luận lặp đi lặp lại: ông cáo buộc văn học quê hương của Đài Loan "có những điểm tương đồng kỳ lạ với văn học Công-Nông-Binh nhấn mạnh đấu tranh giai cấp ở Trung Quốc đại lục"[^29].
 
-Trong giai đoạn thiết quân luật, "công nông binh văn học" là chiếc mũ có thể giết chết bất cứ ai. Tờ Tự do nhật báo nhớ lại bầu không khí lúc đó: "Một lát, chiếc nón to "máu giọt" được các báo đem ra đe dọa làm rối loạn văn đàn, toàn bộ bầu không khí hung hăng máu me"[^30].
+Trong thời kỳ thiết quân luật, "văn học Công-Nông-Binh" là một chiếc mũ có thể gây chết người. Tờ 《Tự do báo》 (Liberty Times) hồi tưởng về bầu không khí lúc bấy giờ: "Trong phút chốc, chiếc mũ lớn được ví như 'Huyết đích tử' (kẻ nhỏ máu) đã khiến văn đàn trở nên xôn xao lo sợ, bao trùm một bầu không khí sát khí đẫm máu"[^30].
 
-Chín ngày sau, ngày 29 tháng 8 năm 1977, Quốc Dân Đảng tổ chức "Hội thảo Văn nghệ Lần thứ Hai", các đại biểu từ chính phủ / Đảng / Quân đội gồm Đinh Mao Thời, Lý Nguyên Tổ, Vương Thăng, Lý Hoàn, cộng với Dư Quang Trung, Diễn Tuyết Mạn v.v., triệu tập hơn 270 người[^31]. Cuộc tranh luận cuối cùng kết thúc dưới chiến lược chính sách của chính quyền: "Văn học quê hương" được định nghĩa lại rộng rãi thành "Văn học yêu nước", "Văn học dân tộc"[^32].
+Chín ngày sau, vào ngày 29 tháng 8 năm 1977, Quốc dân đảng đã triệu tập "Hội nghị Văn nghệ lần thứ hai", với sự tham gia của hơn 270 người bao gồm các đại diện chính phủ/đảng/quân đội như Đinh Mậu Thời, Lý Nguyên Túc, Vương Thăng, Lý Hoán, cùng với Dư Quang Trung, Doãn Tuyết Mạn[^31]. Cuối cùng, cuộc tranh luận kết thúc dưới sự thu nạp mang tính chiến lược của chính quyền: "văn học quê hương" được mở rộng và định nghĩa lại thành "văn học yêu nước" và "văn học dân tộc"[^32].
 
-Chiến trường chính của cuộc tranh luận là tiểu thuyết (Trần Ánh Chân, Vương Thác, Hoàng Xuân Minh, Vương Chân Hòa, Diễp Thạch Tao, Dương Thanh Giả). Nhưng thơ đan xen cùng lúc: Hội Thơ Lưỡi (Trần Thiên Vũ, Bạch Hạo, Triệu Thiên Nghi, Lý Mẫn Dũng) toàn bộ đứng về phía phe quê hương[^33]. Cùng khoảng thời gian này, các hội thơ thế hệ mới như Long Tộc, Chủ Lưu, Hậu Lãng có khẩu hiệu "Quay lại thực tế" cũng được hợp lý hóa[^34].
+Chiến trường chính của cuộc tranh luận là tiểu thuyết (Trần Ánh Chân, Vương Thác, Hoàng Xuân Minh, Vương Trinh Hòa, Diệp Thạch Đào, Dương Thanh Xúc). Tuy nhiên, giới thơ ca cũng chuyển động đồng bộ: phe Lạp Thi xã (Trần Thiên Vũ, Bạch Hú, Triệu Thiên Nghi, Lý Mẫn Dũng) đã hoàn toàn đứng về phía phái quê hương[^33]. Yêu cầu "trở về với hiện thực" của các hội thơ thế hệ mới cùng thời như Long Tộc, Chủ Lưu, Hậu Lãng cũng được hợp thức hóa[^34].
 
-Vị trí của hội thơ Lưỡi không còn chỉ là "đối lập Nam-Bắc", mà là "đứng về phía bản địa Đài Loan" cụ thể.
+Vị thế của Lạp Thi xã không còn chỉ là "đối lập Nam - Bắc", mà đã trở thành một sự tồn tại cụ thể theo kiểu "đứng về phía bản địa".
 
-> ⚠️ **Quan điểm gây tranh cãi**: Cuộc tranh luận này lại lại lại lại lại lại để lại một vết thương trong ký ức lâu dài. Khi Dư Quang Trung mất năm 2017, đoạn lịch sử này bị xem xét lại; cho đến nay, các văn đàn Đài Loan có quan điểm khác nhau về "Sói Tới Rồi"[^35]. Cũng có nhân xét chỉ ra rằng cuộc tranh luận không đơn giản là "phe Trung Quốc vs phe Đài Loan" mà là pha trộn "dân tộc chủ nghĩa Trung Quốc cánh phải vs dân tộc chủ nghĩa Trung Quốc cánh trái vs lý thuyết bản địa Đài Loan" ba trục tọa độ[^36]. Vị trí của hội thơ Lưỡi trong cấu trúc tam giác này là rõ ràng: họ đứng về phía lý thuyết bản địa Đài Loan.
+> ⚠️ **Quan điểm tranh cãi**: Cuộc tranh luận này đã để lại một vết thương ký ức kéo dài. Khi Dư Quang Trung qua đời vào năm 2017, giai đoạn lịch sử này đã được xem xét lại; cho đến nay, quan điểm của văn đàn Đài Loan về sự kiện "Sói đến" vẫn còn nhiều chia rẽ[^35]. Cũng có những nhà phê bình chỉ ra rằng, sự đối lập trong cuộc tranh luận không đơn giản là "phái Trung Quốc vs phái Đài Loan", mà là sự đan xen giữa ba trục: "chủ nghĩa dân tộc Trung Quốc cánh hữu vs chủ nghĩa dân tộc Trung Quốc cánh tả vs thuyết bản địa Đài Loan"[^36]. Vị thế của Lạp Thi xã trong cấu trúc tam giác này rất rõ ràng: họ đứng về phía thuyết bản địa Đài Loan.
 
 ## Đứa con mở hộp cơm, không hạt trứng nào
 
