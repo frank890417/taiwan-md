@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-13T01:48:38.697327+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-18T22:18:56.400342+00:00'
 ---
 
 # National Housing and Housing Justice: Whose Asset Ladder Did the Government's Affordable Housing Build?
@@ -272,47 +274,48 @@ The affordable housing ordinance clearly sets out three anti-speculation locks: 
 
 Yet as soon as this path emerged, it collided with the central government.
 
-## Affordable to Buy or Affordable to Rent: The Remote Clash Between Central and Local Governments
+## Affordable to Buy, or Affordable to Rent: The Central-Local War of Words
 
-The Ministry of the Interior's stance was clear: selling is inherently problematic. Deputy Minister Tung Chien-hung directly questioned this direction, stating, "When affordable housing is provided as saleable housing, relatively fewer people can be accommodated," and that "the process of free resale will cause disputes over property rights and subsequent administrative management issues."[^24] He advocated for returning to the spirit of the _Housing Act_, which dictates that social housing should be "rent-only, not for sale." In plain terms, the Ministry of the Interior's position is that once a house is sold, it represents a one-time loss of public stock; rather than trying to figure out "what to do after it is sold," it is better not to sell it at all, keeping it in government hands to be rented indefinitely.
+The Ministry of the Interior's stance was clear: selling itself is the problem. Deputy Minister Tung Chien-hung directly questioned this direction, saying: "When affordable housing takes the form of for-sale housing, relatively fewer people can be served," and "the process of free resale creates disputes over property rights and subsequent administrative management problems."[^24] He advocated returning to the spirit of "rental only, no sales" for social housing under the Housing Act. In plain language, the Ministry of the Interior's meaning is: once a house is sold, it becomes a one-time loss of public stock; rather than racking one's brains to manage "what happens after the sale," it's better not to sell in the first place, keeping it in government hands forever and renting it out continuously.
 
-The two sides are, in fact, discussing two different versions of housing justice.
+What both sides are talking about are actually two different conceptions of housing justice.
 
-Taoyuan's response was an attempt to break this "either-or" binary. Jiang Nan-chih, Director of the Taoyuan City Urban Development Bureau, said: "The promotion of housing justice should not fall into a single 'one or the other' logic."[^25] Mayor Chang San-cheng personally visited the Executive Yuan on June 4, 2026, to lobby for including Taoyuan's affordable housing within central government policy. According to media reports, he described affordable housing and social housing as the "two wings" of housing policy—complementary rather than competitive: some people want to buy, while others can only rent; both needs should be met separately without forcing a choice between the two.[^26]
+Taoyuan's response was to try to dismantle this forced-choice frame. Taoyuan City Department of Urban Development Director-General Chiang Nan-chih said: "The promotion of housing justice should not fall into the single logic of a '2-choose-1' binary."[^25] Mayor Chang San-cheng personally made a trip to the Executive Yuan on June 4, 2026, to fight for the inclusion of Taoyuan's affordable housing in central government policy. According to media reports, he described affordable housing and social housing as the "two wings" of housing policy, complementary rather than competitive: some want to buy, some can only rent, both needs should be met respectively, not forced into a binary choice.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Official program from \_Commonwealth Magazine_: Why the Lai administration's promise of 130,000 social housing units has shrunk significantly, looking at one side of the precarious state of housing justice in Taiwan.\_
+_CommonWealth Magazine official program: Why the Lai administration's promised 130,000 directly built social housing units shrank drastically, viewing Taiwan's difficult housing justice reality from one angle._
 
-The Executive Yuan did not issue an outright rejection this time. Premier Cho Jung-tai's attitude showed visible softening; he did not negate Taoyuan's approach, but merely hoped that "central and local policies can be aligned."[^27] A policy direction that had been abolished for eleven years—with the official reason already written as "the 85% homeownership rate task has been completed"—has actually managed to knock on the central government's door again, thanks to a local government.
+The Executive Yuan did not flatly refuse this time. Premier Cho Jung-tai's attitude visibly softened; he did not veto Taoyuan's approach, only hoping that "central and local policies can align."[^27] A policy line that had been abolished for eleven years, with the official reason written as "homeownership rate 85% mission accomplished," actually reopened the central government's door from the hands of a local government.
 
-![Karl-Marx-Hof social housing, central section, 19th District of Vienna, a kilometer-long row of municipal housing with red and yellow monument-style facades](/article-images/society/vienna-karl-marx-hof.webp)
-_Vienna's Karl-Marx-Hof, completed in 1933 and still held by the city government for rent-only use. By not selling for a hundred years, the stock remains in public hands. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![Vienna's 19th district Karl-Marx-Hof social housing central section, a whole row of memorial-tower-style red and yellow facades, a kilometer-long municipal housing complex](/article-images/society/vienna-karl-marx-hof.webp)
+_Vienna's Karl-Marx-Hof, completed in 1933 and still held by the city government, rental only, no sales. Not selling for a hundred years keeps the stock in public hands. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-This collision between central and local governments is essentially arguing over a question that should have been answered fifty years ago but has been constantly bypassed: Should the government help people "afford to buy," or help them "afford to rent"?
+This central-local collision is fundamentally arguing over a question that should have been answered fifty years ago but has been circumvented all along: should the government help people "afford to buy," or help people "afford to rent"?
 
-## Fifty Years Later, Taiwan Finally Learned to Install That Gate
+## Fifty Years Later, Taiwan Finally Learns to Install That Gate
 
-Return to the address of Chenggong National Housing.
+Let us return to that Chenggong National Housing address.
 
-In 1985, longtime borough chief Shih Chung-sheng and his wife emptied their savings to scrape together a NT$400,000 down payment and buy a home priced at NT$67,000 per ping. At that moment, National Housing was a complete promise of housing justice: the government built cheap homes to help those who could not afford housing get onto the property ladder. Its only oversight was forgetting to install a gate at the exit: nobody specified how the appreciation later generated by public subsidy and location should be divided. Forty years later, the same address is approaching NT$1 million per ping, the original down payment would not buy even one ping, and the ladder was quietly pulled away beneath the feet of the earliest group to board.
+In 1985, former village chief Shih Chung-sheng and his wife scraped together their life savings to put down a NT$400,000 down payment, buying a home at NT$67,000 per ping. At that moment, National Housing represented a complete housing justice promise: the government built affordable homes to help those who couldn't afford to buy get on the property ladder. Its only oversight was forgetting to install a gate at the exit: no one stipulated how the appreciation — that price gap nurtured by public subsidies and location — should be shared when the home gained value in the future. So forty years later, the same address approaches NT$1 million per ping, and that original down payment couldn't even buy one ping; the ladder was quietly pulled up from under the very first group who managed to climb aboard.
 
-Hong Kong calls that gate a premium payment. Britain learned, at the cost of NT$8 trillion in transferred equity, that it cannot be omitted. Singapore installed thresholds and still leaked value. Taiwan circled around the issue for a full fifty years, even personally dismantling the only half-wall it had in 2002. Only in 2026 did a local government finally write the words “resale may not exceed the original purchase price” into an ordinance called “affordable housing.” That is exactly the gate National Housing failed to install, the one Hong Kong calls a premium payment.
+Hong Kong calls that gate "land premium"; the UK learned at the cost of 8 trillion in equity value that it cannot go without one; Singapore set thresholds yet still leaks. Taiwan went a full fifty years detouring around it; in 2002 it even tore down the only half-built wall with its own hands; not until 2026 did a local government finally write the words "resale shall not exceed the original purchase price" into an ordinance called the "Affordable Housing Ordinance." That is precisely the gate National Housing failed to install back then, the one Hong Kong people call "land premium."
 
-So the real question in this story has never been “can the government afford to build homes?” National Housing proved that the government can build them, and Taoyuan is preparing to build again. The real question is: after “helping you afford to buy,” who should receive the appreciation? The earliest person to board, or the next generation still waiting at the door?
+So the real question of this story was never "can the government afford to build housing." National Housing proved the government can afford to build; Taoyuan is preparing to build again. The real question is: after "helping you afford to buy," who does that appreciation belong to — the very first person who got on the ladder, or the next generation still queuing at the door?
 
-The people who pressed the voting buttons on the day the Taoyuan City Council passed the ordinance on third reading may not have realized that they were also filling in the final brick of a wall dismantled fifty years ago. Whether that brick can become an escalator that no longer pulls away the ladder, or whether it will again be trapped in a central-local struggle that cannot align, will be recorded for us by the next address price at Chenggong National Housing.
+Those who pressed the voting button at the Taoyuan City Council's third reading that day may not have realized they were simultaneously laying the final brick for the wall torn down fifty years ago. Whether this brick can be built into an escalator that never pulls up the ladder, or gets stuck once more in the tug-of-war between central and local governments that cannot align — the next price tag on a Chenggong National Housing address will record the answer for us.
 
 ---
 
 **Further Reading**:
 
-- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The “for rent only, not for sale” social housing route after 2016: 200,000 units in eight years, the two-track model of direct construction and rental intermediation and management, and how mixed-residence design seeks to prevent social housing from being stigmatized. This is the sister article to this piece, continuing the story after National Housing exited in 2015.
-- [Taiwan’s Low Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Unaffordable housing and the inability to have children are two ends of the same structural fracture, another facet of generational justice.
-- [Sheet-Metal Rooftop Additions](/en/society/taiwan-tin-shed-houses) — When people cannot afford to buy and cannot rent stably, how Taiwanese people use the most makeshift methods to add a place of shelter for themselves.
-- [Taiwan’s Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Where social housing and unpopular facilities should be built, and the boundary between housing justice and spatial justice.
+- [Taiwan's Housing Prices, Mortgages, and Youth Housing Loans](/housing/) — Special feature: price-to-income ratio, three generations of Youth Housing Loan criteria, and an eighty-year residential policy timeline, with mortgage calculator
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The post-2016 "rent-only, no-sale" social housing path: 200,000 households in eight years, dual-track direct construction and lease-management, how mixed-income design avoids stigmatizing social housing (this article's companion piece, continuing the story after the 2015 National Housing finale)
+- [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Unaffordable housing and inability to have children are two ends of the same structural fracture, another cross-section of intergenerational justice
+- [Tin Shacks](/en/society/taiwan-tin-shed-houses) — When people can neither afford to buy nor rent securely, how Taiwanese use the most makeshift ways to build themselves a place to live
+- [Taiwan's Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Who gets social housing and undesirable facilities next door, the boundary where housing justice meets spatial justice
 
 ## Open Data
 

@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T08:52:45+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-18T22:41:09.072729+00:00'
 ---
 
 > **30-Second Overview:** In Taiwan, people label themselves by "grade level," using the first two digits of their ROC birth year: 5th graders were born between ROC years 50 and 59 (1961–1970), extending through to 9th graders (2001–2010). The term "Strawberry Generation" (_caomei zu_), a slur used for thirty years, was first printed in 1993 to criticize those who were then in their twenties and are now in their fifties[^1]; since then, the target has shifted down to 7th, 8th, and 9th graders. While the people being criticized have changed several times, the label hasn't changed a single word. What has truly moved across these five generations is the "effort equals reward" escalator beneath their feet: it slowed down around 2002 as real wages decoupled from productivity[^2]; simultaneously, the entrance was raised by housing prices, with Taipei's house-price-to-income ratio rising from 6.4x in 2004 to 15.41x in 2025[^3]. The escalator has since split into two tracks: the one relying solely on salary has nearly stopped, while the one fueled by parental capital is still moving. This article seeks to deconstruct this label.
@@ -172,23 +174,24 @@ By the 9th grade, an interesting tension has emerged. This generation grew up sc
 > 📝 **Curator's Note**
 > The seemingly contradictory combination of "culturally pro-China, politically anti-China" is exactly where Taiwan.md should not draw conclusions for the reader. A 9th grader liking mainland short videos while supporting the maintenance of Taiwan's status quo might not seem contradictory to them at all, because cultural consumption and national identity are two different things. What we can do here is honestly lay out the tensions observed by NCCU Election Studies, Pew, Shen Wei-chieh, and Taiwan Democracy Lab, allowing readers to see how complex this generation is, while setting aside labels like "pro-China" or "anti-China." Labeling the next generation is exactly what this article seeks to dismantle.
 
-## The Strawberries Didn't Get Softer; The Ground Got Steeper
+## The Strawberries Didn't Soften; the Ground Just Got Steeper
 
-When you stack five birth certificates together, you see something very quiet. In 1963, there were 427,212 5th graders entering the world together; in 2010, there were only 166,886 9th graders—less than 40% of the 5th-grade peak, a decrease of over 200,000 people[^24].
+If you stack five birth certificates on top of each other, you will see something very quiet. For the fifth graders of 1963, there were 427,212 classmates entering this world together; for the ninth graders of 2010, there were only 166,886—less than forty percent of that fifth-grade peak, a decrease of over 260,000 people[^24].
 
-There are fewer people, the cake hasn't grown larger, but the buildings are getting taller. On this terrain, subsequent generations cannot reach the same positions as previous generations using the same amount of effort. This isn't because the strawberries became softer; it's because the ground beneath them has become steeper, and that steepness is uneven: some have a gentle slope paved by their parents, while others face a nearly vertical wall.
+The population is shrinking, the "pie" isn't getting any bigger, yet buildings are being constructed higher and higher. On this kind of terrain, subsequent generations use the same amount of effort but cannot reach the heights achieved by previous generations. This isn't because the "Strawberries" have become soft; it is because the ground beneath their feet has become steeper—and unevenly so: for some, there is still a gentle slope paved by their parents, while for others, there is only a nearly vertical wall.
 
-"Grade level" is ultimately just an entry point. It is useful because it helps us see how much steeper the escalator becomes every year; but it should not be the destination, because what truly determines whether a person can climb up is often whether their escalator connects to a salary or an inheritance—and this crack is drawn within every single grade level. In 2023, the Pew Research Center even announced it would use generational labels less frequently in reporting, because many differences attributed to "generations" actually stem from demographic characteristics themselves[^25]. Even the institutions that first popularized generational classification are starting to call a halt to this tool.
+The coordinate of "grade level" is ultimately just an entry point. It is useful because it helps us see how the escalator becomes steeper year after year; however, it should not be the destination, because what truly determines whether a person can climb up is often whether the escalator beneath their feet leads to a salary or an inheritance—and this rift is drawn within every grade level. In 2023, the Pew Research Center even announced that it would use generational labels less frequently in its reporting, because many differences attributed to "generations" actually stem from demographic characteristics themselves[^25]. Even the institutions that first popularized generational classification are beginning to call a halt to this tool.
 
-✦ So, before you say "young people these days are just strawberries," think of one thing: the person this term originally insulted was likely you when you were in your twenties. And what has truly changed over these thirty years is that escalator you stepped on—it was moving then, but it has since slowed down, steepened, and finally split into two tracks. The reason a whole generation liked that Wretch post saying "no one has noticed me" is precisely because every generation has a piece of youth that belongs only to them and cannot be accessed by others—and the rent for that youth gets more expensive with every generation.
+✦ So, before you say "young people these days are just Strawberries," think of one thing: the people this term was originally used to insult were likely people in their twenties, just like you once were. What has truly changed over these thirty years is that escalator you stepped onto back then—it was moving, but later it slowed down, grew steeper, and finally split into two separate paths. The reason the line "No one notices me anymore" from _Wuming Xiaozhan_ (無名小站) garnered likes from an entire generation is precisely because every generation has a piece of youth that belongs only to them, which others cannot enter—and the rent for that piece of youth gets more expensive with every passing generation.
 
 **Further Reading**:
 
-- [Taiwan's Slash Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The survival math of 7th and 8th graders splitting one salary into three jobs under a low-wage structure
-- [The Career Disorientation of Taiwanese Youth](/en/society/taiwan-youth-career-confusion) — Spending sixteen years in school, only to most frequently ask "I don't know what I want to do" on graduation day
-- [Taiwan's Declining Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — From 420,000 to 160,000 births: how the cake gets smaller every year
-- [The Taiwan Unification-Independence Spectrum](/en/society/taiwan-unification-independence-spectrum) — The full picture of identity fault lines, from "Who am I" to "Where are we going"
-- [Wretch (無名小站)](/en/culture/wretch) — The digital server of 7th-grade youth; closed in 2013, resurfaced on Threads in 2025
+- [Housing Affordability Self-Check](/housing/affordability-check/) — Enter your income and housing prices to calculate your mortgage burden ratio, compared against the Ministry of the Interior's four-tier standards and official figures from various cities and counties.
+- [Taiwan's Slash Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The survival mathematics of the 7th and 8th generations splitting one salary into three jobs under a low-wage structure.
+- [Career Disorientation Among Taiwanese Youth](/en/society/taiwan-youth-career-confusion) — Spending sixteen years in school, only to have "I don't know what I want to do" be the most common question on graduation day.
+- [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — As births plummet from 420,000 to 160,000, how the pie gets smaller every year.
+- [Taiwan's Unification-Independence Spectrum](/en/society/taiwan-unification-independence-spectrum) — The full picture of the identity watershed, from "Who am I?" to "Where are we going?"
+- [Wuming Xiaozhan](/en/culture/wretch) — The digital server of 7th-generation youth; shut down in 2013, it resurfaced on Threads in 2025.
 
 ## Image Sources
 

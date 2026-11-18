@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T17:21:45.476825+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-18T21:58:19.957331+00:00'
 ---
 
 > **30-Second Overview**: The Medical Care Act does not regulate individual physicians (that is the 1943 Medical Practitioners Act), nor does it regulate health insurance payments (that is the 1994 National Health Insurance Act). It regulates how institutions—hospitals, clinics, and medical legal entities—exist, how they advertise, and how they handle disputes. Promulgated in 1986 with 91 articles in full, it underwent major revision in 2004 to expand to 123 articles and introduce the "medical legal entity" system. In 2017, Article 82 was amended to change physician criminal liability to a "dual-element" standard. In May 2026, the nurse-to-patient ratio was codified into law. Yet over these forty years, the first article’s mandate to "promote the sound development of the medical profession" has met a reality where 83% of hospitals and 74% of hospital beds are privately owned; the attrition rate of emergency physicians is two to three times higher than in the United States; nurses are leaving in droves, collapsing from exhaustion, until the legislature finally codified the nurse-to-patient ratio.
@@ -342,30 +344,31 @@ How is remote medical care being supplemented? The MOHW has promoted the "Improv
 
 However, the gaps that remain unaddressed are evident in infant and child mortality rates. An investigation by _The Reporter_ in 2018 found that Taitung, Pingtung, and southern Hualien are the three highest child mortality areas in Taiwan[^60], showing that insufficient medical resources directly impact the most vulnerable populations.
 
-## The Tension Unresolved After Forty Years
+## Tensions Unresolved After Forty Years
 
-The Medical Care Act is not a law operating alone. It co-constructs the skeleton of Taiwan’s medical governance with five other laws:
+The _Medical Care Act_ does not operate in isolation. It works alongside five other laws to form the framework of Taiwan's medical governance:
 
-- **Medical Practitioners Act** (1943) regulates individual physicians.
+- **Physicians Act** (1943) regulates individual physicians.
 - **Medical Care Act** (1986) regulates medical institutions.
-- **National Health Insurance Act** (enacted 1994, implemented 1995) regulates health insurance payments.
-- **Patient Autonomous Rights Act** (passed 2015, implemented 2019, Asia’s first)[^61] supplements the Medical Care Act’s Articles 63 and 64 regulations on patient consent, explicitly prioritizing patient consent.
-- **Medical Accident Prevention and Dispute Handling Act** (passed 2022, implemented rules 2024)[^17] supplements the medical dispute mediation mechanism—statements in communication care and dispute mediation processes, as well as medical institutions’ self-reporting and root cause analysis improvement content, **shall not be used as litigation evidence or judgment basis**.
-- **Regenerative Medicine Act + Regenerative Medicine Agent Regulations** (passed 2024) are special laws independent from the Medical Care Act, regulating cell therapy, gene therapy[^62].
+- **National Health Insurance Act** (enacted 1994, implemented 1995) regulates NHI payments.
+- **Patient Autonomy Act** (passed 2015, implemented 2019; the first of its kind in Asia) [^61] supplements the regulations on patient consent in Articles 63 and 64 of the _Medical Care Act_, explicitly prioritizing patient consent.
+- **Medical Accident Prevention and Dispute Handling Act** (passed 2022, implementing regulations in 2024) [^17] fills the gap for medical dispute mediation mechanisms—stating that communication, care, statements made during mediation processes, as well as voluntary reporting by medical institutions and root cause analysis/improvement content, **may not be used as litigation evidence or a basis for judicial decisions**.
+- **Regenerative Medicine Act + Regulations Governing Regenerative Medicine Products** (passed 2024) are special laws independent of the _Medical Care Act_ that regulate cell therapy and gene therapy [^62].
 
-Six laws piece together the panorama of Taiwan’s medical governance, with the Medical Care Act as the pillar of the "institutional side." But every time a new law is supplemented, it is because the Medical Care Act itself has gaps it cannot cover: the Medical Practitioners Act cannot regulate institutions; the Medical Care Act cannot regulate National Health Insurance payments; the Medical Care Act cannot regulate personal advance directives; the Medical Care Act cannot regulate regenerative cells; the Medical Care Act cannot regulate dispute mediation. Every gap is an entrance for a new law.
+These six laws form the panorama of Taiwan's medical governance, with the _Medical Care Act_ serving as the pillar for the "institutional side." However, every time a new law is added, it is because of gaps within the _Medical Care Act_ itself: the _Physicians Act_ cannot regulate institutions; the _Medical Care Act_ cannot regulate NHI payments; the _Medical Care Act_ cannot regulate individual advance medical directives; the _Medical Care Act_ cannot regulate regenerative cells; and the _Medical Care Act_ cannot regulate dispute mediation. Every gap serves as an entry point for a new law.
 
-> **✦** The Medical Care Act writes "promote the sound development of the medical profession." Over forty years, hospitals have increased, technology has strengthened, coverage has increased, but nurses are leaving in droves, emergency physician attrition rate is over twice the international average, private hospitals expand to 83%, public hospitals rely on subsidies to survive, medical dispute criminalization proportion is 79%, remote area physicians still serve 10,000 people each. The law’s words are not wrong, the site’s exhaustion is not wrong. The remaining question is: in the second forty years, how should the Medical Care Act shorten the distance between these two blocks.
+> **✦** The _Medical Care Act_ is written to "promote the sound development of the medical industry." Over forty years, hospitals have increased, technology has strengthened, and coverage has expanded; yet, nurses are resigning in waves, the exit rate of emergency physicians is more than twice the international average, private hospitals have expanded to 83%, public hospitals rely on subsidies to survive, 79% of medical disputes involve criminalization, and in remote areas, each physician still serves 10,000 people. The words of the law are not wrong, nor is the exhaustion on the front lines. The remaining question is: in the second forty years, how will the _Medical Care Act_ bridge the distance between these two realities?
 
-In the early hours of May 8, 2026, the Legislative Yuan passed the three-shift nurse-to-patient ratio. Tsai Guangchao’s sentence, Luo Xiangyun’s sentence, Xue Chengjun’s sentence—still echo in the corridors of every emergency room in Taiwan. When the next amendment will be, which article it will amend, no one can write into law. But nurses, emergency physicians, and the five major departments’ resident physicians are still expressing their stance with "not coming," "resigning."
+In the early hours of May 8, 2026, the Legislative Yuan passed the three-shift nurse-to-patient ratio. The words of Tsai Kuang-chao, Luo Xiang-yun, and Hsueh Cheng-chun still echo in the corridors of every emergency room in Taiwan. When the next amendment will happen or which article it will target is something no one can write into law. But nurses, emergency physicians, and residents in the five major specialties continue to express their stance through "not coming" and "resigning."
 
-The words written by law will be read by readers. The words not written are recorded by the hospital’s walls and the patients stuffed in the corridors.
+The words written in law are read by the public. The words left unwritten are recorded by the hospital walls and the patients crowding the corridors.
 
 **Further Reading**:
 
-- [Taiwan Medical Care and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The globally renowned coverage and payment structure of the health insurance system is the "payment side" partner after the Medical Care Act landed
-- [Taiwan Regenerative Medicine Dual Laws Evolution Practitioner Confession](/en/society/taiwan-regenerative-medicine-laws) — The 2024 passed Regenerative Medicine Dual Laws are special laws independent from the Medical Care Act, supplementing cell therapy regulations
-- [Taiwan Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — The actual operation of the Medical Care Act Article 1 "reasonably distribute medical resources" in large disaster scenarios
+- [Taiwan's Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The NHI system's world-renowned coverage and payment structure is the "payment side" partner to the implementation of the _Medical Care Act_.
+- [Evolution of Taiwan's Dual Regenerative Medicine Laws: A Practitioner's Confession](/en/society/taiwan-regenerative-medicine-laws) — The dual regenerative medicine laws passed in 2024 are special laws independent of the _Medical Care Act_, filling the regulatory gap for cell therapy.
+- [Taiwan's Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — How Article 1 of the _Medical Care Act_, "the reasonable distribution of medical resources," operates in large-scale disaster scenarios.
+- [Special Topic on Medical Care and Long-term Care](/health/) — Mapping NHI revenue and expenditure, emergency room boarding, nursing manpower, and physician counts by county/city, alongside various perspectives on codifying the nurse-to-patient ratio into law.
 
 ## Image Sources
 

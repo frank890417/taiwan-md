@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:27+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T23:05:41.332446+00:00'
 ---
 
 # Chen Ying-zhen: The Unificationist Literary Conscience from Zhunan to Beijing
@@ -77,11 +79,11 @@ This imprisonment experience further solidified Chen's leftist stance and his po
 
 ## Theorist of the Nativist Literature Movement
 
-In the 1970s, the Nativist literature movement emerged in Taiwan. In 1976, Chen Ying-zhen served as an editor for _Summer Tide_ magazine. During the Nativist literature debates of 1977–78, he published essays such as "Establishing a Style for National Literature," "Literature Comes from Society and Reflects Society," and "The Blind Spot of Nativist Literature" to rebut criticisms by Yu Kwang-chung and others who argued that Nativist literature tended toward "worker-peasant-soldier" literature. Consequently, he was regarded as one of the primary representatives of the Nativist school. [^5]
+In the 1970s, the Nativist Literature Movement arose in Taiwan. In 1976, Chen Ying-zhen served as an editor for _Xia Chao_ magazine. In the [Nativist Literature Debate](/en/history/nativist-literature-debate/) of 1977–78, he published articles such as "Establishing a National Literature's Style," "Literature Comes from Society, Reflects Society," and "Blind Spots of Nativist Literature," rebutting criticisms from Yu Kwang-chung and others that nativist literature leaned toward worker-peasant-soldier literature, and was thus regarded as one of the leading representatives of the nativist literature camp.[^5]
 
-"Xu Nan-cun" was one of his pseudonyms, used, for example, in "New Hope for Realist Art," published in the third issue of _Poetry Tide_ in 1978. The aforementioned debate essays, however, were published under his real name.
+"Xu Nancun" was one of his pen names, for example, the 1978 article "New Hope for Realist Art" published in the third issue of _Shi Chao_. The aforementioned debate articles, however, were published under the name Chen Ying-zhen.
 
-In the 1980s, he continued to participate in the editorial work of _Wen Ji_ and _Summer Tide_, and engaged in debates with the Taiwan localization faction—including opponents such as Chen Fang-ming—during the "China Knot" vs. "Taiwan Knot" controversies.
+In the 1980s, he continued to participate in the editorial work of _Wen Ji_ and _Xia Chao_, and clashed with Taiwan nativist figures in the "China Knot" versus "Taiwan Knot" debate, with opponents including Chen Fang-ming.
 
 ## Magazine Editing and Cultural Promotion
 

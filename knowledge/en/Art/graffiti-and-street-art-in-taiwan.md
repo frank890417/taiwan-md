@@ -2,23 +2,25 @@
 title: "Taiwan Street Graffiti: From Late-Night Outlaws to Ximending's Urban Light"
 description: "In 1989, Lü Hsueh-yuan sprayed the first line on Minsheng East Road, opening the underground history of graffiti in Taiwan. From the urban legend of Horumon Baby to Candy Bird's social critique, this thirty-year chase with the Department of Environmental Protection is redefining Taiwan's urban aesthetics."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '視覺藝術'
 tags: ['Street Art', 'Horumon Baby', 'Subculture', 'Urban Space']
-readingTime: 8
+subcategory: '視覺藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
-translatedFrom: 'Art/街頭塗鴉.md'
+readingTime: 8
 image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/街頭塗鴉.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T21:52:33.241287+00:00'
 ---
 
 > **30-Second Overview:**
@@ -72,16 +74,16 @@ This article uses 3 CC-licensed images, all cached under `public/article-images/
 
 ## References
 
-[^1]: WowLavie, [The Counterattack of Taiwanese Graffiti Artists Reach and Blake: Styles Moving from the Street toward Diverse Creation](https://www.wowlavie.com/article/ae1902012)
+[^1]: [Taiwanese graffiti artists Reach and Blake's counterattack! From the streets to diverse creative styles](https://www.wowlavie.com/article/ae1902012) — WowLavie (See the linked original source for details)
 
-[^3]: Heaven Raven, [Interview with Graffiti Artist Horumon Baby: The Inside of the Large Intestine Is Feces, and So Is Art.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [Interview with graffiti artist Da Chang Wang: The inside of a large intestine is feces, and so is art.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: BeautyMode, [Is It Wrong for Street Culture to Move toward Commerce? Taiwanese Graffiti Pioneer Reach](https://www.beautimode.com/article/content/86906/)
+[^4]: [Is it wrong for street culture to move toward commercialization? Taiwan's graffiti pioneer Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: Taiwan Contemporary Art Archive, [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b)
+[^5]: [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Taiwan Contemporary Art Database
 
-[^6]: Taipei City Government Department of Environmental Protection, [Unauthorized Graffiti Can Be Fined up to NT$6,000! A List of Taipei's 14 Legal Graffiti Walls](https://newtalk.tw/news/view/2019-11-27/332344)
+[^6]: [Illegal graffiti carries a maximum fine of NT$6,000! A list of 14 legal graffiti walls in Taipei City](https://newtalk.tw/news/view/2019-11-27/332344) — Taipei City Environmental Protection Bureau
 
-[^8]: Taipei City Government Department of Information and Tourism, [Historic Sites and Postmodern Art Intertwine: Endless Art Takes You through Taipei Cinema Park](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001)
+[^8]: [The fusion of historical sites and postmodern art: "Artistic Journey" takes you through the Taipei Movie Park](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Taipei City Department of Information and Tourism
 
-[^9]: Hatsumimi, [Drawing Out the Rich Taiwanese Flavor in the Folds: Hatsumimi's Artist Friend, Horumon Baby](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/)
+[^9]: [Pulling out the rich Taiwanese flavor from within the wrinkles: Hatsumimi's artist friend—Da Chang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (See the linked original source for details)

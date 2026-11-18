@@ -1,20 +1,29 @@
 ---
-title: "Taiwan's Tin Shed Houses: A Skyline Propped Up by 716,000 Illegal Structures"
-description: "In August 2024, a fire at a farm machinery shop in Liujia, Tainan, trapped a family of five on the third-floor tin-roof addition; none survived. As of July 2023, Taiwan had 716,372 illegal structures, with New Taipei City adding 32,000 per year. The government announces demolitions every year—and every year another 10,000 structures appear. That layer of orange and silver metal is simultaneously Taiwan's ugliest streetscape and the most-cited legend of public safety."
-category: Society
-subcategory: 居住環境
-tags: [違章建築, 鐵皮屋, 頂樓加蓋, 都市計畫, 居住正義]
-author: 'Taiwan.md'
+title: "Taiwan's Corrugated Iron Houses: A Skyline Supported by 716,000 Illegal Structures"
+description: "In August 2024, a fire at an agricultural machinery store in Liujia, Tainan, resulted in the deaths of an entire family of five trapped on a third-floor corrugated iron rooftop addition. As of July 2023, there are 716,372 illegal structures across Taiwan, with New Taipei City seeing an annual increase of 32,000 cases. Despite government pledges for demolition every year, the number grows by another 10,000 annually—those layers of orange and silver metal represent both Taiwan's ugliest streetscapes and its most frequently cited urban legends regarding public safety."
 date: 2026-05-02
-readingTime: 9
+category: 'Society'
+tags:
+  [
+    'illegal structures',
+    'corrugated iron houses',
+    'rooftop additions',
+    'urban planning',
+    'housing justice',
+  ]
+subcategory: '居住環境'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2513952bc4eab478'
-sourceBodyHash: 'sha256:96d147de5fc403fe'
-translatedAt: '2026-05-02T13:31:21+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:997d7b4d1eaa5fa3'
+sourceBodyHash: 'sha256:5ca208b092a24109'
+translatedAt: '2026-11-18T22:57:08.234667+00:00'
 ---
 
 > **30-second overview:** Taiwan has 716,000 illegal structures; the six special municipalities account for 80%, with New Taipei City alone at 186,000[^1]. In 1995, Taipei City drew a line—"existing illegal structures" built before December 31, 1984 (Republic of China year 93) would be slated for deferred demolition, while "new illegal structures" built after would be demolished upon report[^4]. That line turned illegality into tacit permission, permission into streetscape, and streetscape into the trap a fire becomes. That same layer of tin also props up the density of mixed-use convenience stores, props up the legend that "you can find a light on at 3 a.m."—Taiwan's public safety myth[^9].
@@ -96,21 +105,22 @@ The Ministry of the Interior did not revise the criteria for existing illegal st
 
 The subheading of the _Business Weekly_ cover story reads: "Use the right method and there's no illegal structure that can't be demolished."[^13] But "the right method" currently only appears in limited hot zones where the government is willing to bear the cost of urban redevelopment. For the vast majority of tin sheds scattered across the six municipalities, that 1994 line remains where it has always been.
 
-## This Layer of Metal Will Continue to Exist
+## This Layer of Metal Will Persist
 
-If you fly in from the Central Mountain Range on some afternoon in 2026 and look out from the approach path, the skylines of Taoyuan, New Taipei, Taichung, and Kaohsiung will be a sea of orange (anti-rust paint) and silver (galvanized steel) corrugated panels. Those are 716,000 families each making a decision that, individually, makes sense—and collectively, cannot be undone.
+If you were to fly over the Central Mountain Range on an afternoon in 2026 and look out from the landing runway, the skylines of Taoyuan, New Taipei, Taichung, and Kaohsiung would appear as a sea of corrugated waves in orange (anti-rust paint) and silver (galvanized steel sheets). That is the result of 716,000 individual households making decisions that were each reasonable on their own, but collectively unmanageable.
 
-Chen Cheng-yi wrote: "The oversized commercial signs highlight a mentality of self-aggrandizement and comparison; the tin shed represents a supremacy of speed and cheapness—but in truth, both are fragile."[^11] Ziyu's Worm-Eaten Study wrote: "Many flaws and virtues are inherently two sides of the same coin."[^9]
+Chen Cheng-yi wrote: "The oversized shop signs of large stores highlight a mindset of ego and comparison; tin sheds present an efficiency-first approach that is fast and cheap, but in reality, both are fragile." [^11] Zi Yu’s _Dusu Zhai_ wrote something else: "Many flaws and merits are simply two sides of the same coin." [^9]
 
-They are both right. The tin-roof addition where the five members of that Tainan family died was fragile. The 24-hour convenience store glowing on Dongning Road is safe—the same metal, on the same street, governed by the same 1994 line that decides who gets demolished and who gets to stay.
+Both are right. The tin roof addition of a family of five in Liujia, Tainan, is fragile; the convenience store at the entrance of an alley on Dongning Road that stays lit 24 hours a day is safe—the same metal, covering the same street, yet determined by that same 1994 line as to who must be demolished and who may remain.
 
-Which existing illegal structure's rooftop will the next fire break out on? No one can say for certain. As long as that line remains, the next fire will too.
+On which existing illegal structure will the next fire break out? No one can say for sure. As long as that line remains, the next fire will come.
 
 **Further Reading**:
 
-- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The broader housing structure to which the tin-shed problem belongs: challenges in social housing policy and the rental market
-- [Taiwan Environmental Justice and NIMBY Controversies](/en/society/taiwan-environmental-justice-nimby-conflicts) — Land use and environmental pollution issues behind the Wen-zi-cun tin-shed factory relocations
-- [Indigenous Land Justice and Traditional Territories in Taiwan](/en/society/indigenous-land-justice-and-traditional-territories) — Understanding the complexity of "legal and illegal" land use in Taiwan from a different perspective
+- [Housing Prices, Mortgages, and Youth Home Loans in Taiwan](/housing/) — Special Feature: Official figures on mortgage burden rates and underutilized housing across cities and counties; seeing how unaffordable and vacant houses coexist.
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The dilemmas of promoting social housing in Taiwan and rental market issues—the larger housing structure to which the tin shed problem belongs.
+- [Environmental Justice and NIMBY Disputes in Taiwan](/en/society/taiwan-environmental-justice-nimby-conflicts) — Extensions of land use and environmental pollution issues behind the relocation of tin factories in Yuanzhai.
+- [Indigenous Land Justice and Traditional Territories in Taiwan](/en/society/indigenous-land-justice-and-traditional-territories) — Understanding the complexity of land use between "legal and illegal" in Taiwan from different perspectives.
 
 ## References
 
