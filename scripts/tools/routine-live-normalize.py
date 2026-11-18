@@ -18,7 +18,7 @@ MCP scheduled-tasks 的 live 狀態存在 server 內部 store（mirror 目錄只
 下游消費者：routine-sync-check.py v3 第三層比對（SSOT ↔ mirror ↔ live）；
 routine-liveness-check.py（沉默死亡對賬）→ generate-dashboard-alerts.mjs。
 
-落檔後順手重生 dashboard-alerts.json（--no-alerts 可關）：refresh-data.sh 的 prebuild
+落檔後順手重生 dashboard-alerts.json 與 dashboard-status.json（--no-alerts 兩個都關）：refresh-data.sh 的 prebuild
 在本工具之前跑，算沉默死亡時讀的是前一天的 dump，前一天傍晚之後才跑的 routine
 （routine-audit 週日 21:00、supporters 週一 01:00）會被印成「fire 後零痕跡」，
 這份告警再跟著 refresh commit 進 git，整天出現在每一班的 groundtruth。
@@ -95,15 +95,22 @@ def main():
         f"+ {out['disabled_count']} disabled（過濾 {dropped} 條私人 routine）"
     )
     if regen_alerts:
-        r = subprocess.run(
-            ["node", "scripts/core/generate-dashboard-alerts.mjs"],
-            cwd=REPO_ROOT,
-            capture_output=True,
-            text=True,
-        )
-        tail = (r.stdout or r.stderr).strip().splitlines()[-1:] or ["(no output)"]
-        mark = "✅" if r.returncode == 0 else "⚠️"
-        print(f"{mark} dashboard-alerts 依新 dump 重生：{tail[0]}")
+        # dashboard-status 也讀 routine-live-state.json（refresh-data.sh Step 6.6
+        # 在本工具之前跑）。2026-11-18 dump 停十一天，狀態頁在刷新後仍印
+        # stale_hours=263.5，要手動重跑才歸零；跟 alerts 同一處一起重生。
+        for name, script in (
+            ("dashboard-alerts", "scripts/core/generate-dashboard-alerts.mjs"),
+            ("dashboard-status", "scripts/core/generate-dashboard-status.mjs"),
+        ):
+            r = subprocess.run(
+                ["node", script],
+                cwd=REPO_ROOT,
+                capture_output=True,
+                text=True,
+            )
+            tail = (r.stdout or r.stderr).strip().splitlines()[-1:] or ["(no output)"]
+            mark = "✅" if r.returncode == 0 else "⚠️"
+            print(f"{mark} {name} 依新 dump 重生：{tail[0]}")
     return 0
 
 

@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1184 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,392 article-versions
+- 📖 **1189 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,457 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 📱 **[iOS App](https://apps.apple.com/us/app/taiwan-md/id6829697941)** — every article on your iPhone, readable and searchable offline in 13 languages; free, no account, no tracking (App Store, since 2026-11-07 · [台灣區](https://apps.apple.com/tw/app/taiwan-md/id6829697941))
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
@@ -96,28 +96,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1184  |
-| 🇹🇼 Chinese (zh-TW)             | 1184  |
-| 🇺🇸 English (en)                | 1164  |
-| 🇯🇵 日本語 (ja)                 | 1161  |
-| 🇰🇷 한국어 (ko)                 | 1163  |
-| 🇪🇸 Español (es)                | 1163  |
-| 🇫🇷 Français (fr)               | 1164  |
-| 🇻🇳 Tiếng Việt (vi)             | 1163  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1163  |
-| 🇵🇹 Português (pt)              | 1162  |
-| 🇮🇳 हिन्दी (hi)                 | 1163  |
-| 🇸🇦 العربية (ar)                | 1164  |
-| 🇷🇺 Русский (ru)                | 1163  |
-| 🌐 Deutsch (de)                | 1163  |
+| 📄 Total articles (zh-TW SSOT) | 1189  |
+| 🇹🇼 Chinese (zh-TW)             | 1189  |
+| 🇺🇸 English (en)                | 1185  |
+| 🇯🇵 日本語 (ja)                 | 1184  |
+| 🇰🇷 한국어 (ko)                 | 1184  |
+| 🇪🇸 Español (es)                | 1185  |
+| 🇫🇷 Français (fr)               | 1183  |
+| 🇻🇳 Tiếng Việt (vi)             | 1180  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1184  |
+| 🇵🇹 Português (pt)              | 1185  |
+| 🇮🇳 हिन्दी (hi)                 | 1177  |
+| 🇸🇦 العربية (ar)                | 1181  |
+| 🇷🇺 Русский (ru)                | 1185  |
+| 🌐 Deutsch (de)                | 1183  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 80    |
 | ⭐ GitHub Stars                | 1248  |
 | 🍴 Forks                       | 189   |
-| 📅 Articles last 7 days        | 30    |
-| 📅 Articles last 30 days       | 128   |
+| 📅 Articles last 7 days        | 32    |
+| 📅 Articles last 30 days       | 126   |
 
 <!-- STATS:END -->
 

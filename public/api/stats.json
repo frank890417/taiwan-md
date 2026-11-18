@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15141,
+  "totalArticles": 15387,
   "totalCategories": 15,
   "estimatedContributors": 80,
-  "totalTags": 9045,
+  "totalTags": 9164,
   "categories": [
     {
       "name": "people",
@@ -10,7 +10,7 @@
     },
     {
       "name": "society",
-      "count": 1596
+      "count": 1656
     },
     {
       "name": "culture",
@@ -18,31 +18,31 @@
     },
     {
       "name": "history",
-      "count": 1197
+      "count": 1206
     },
     {
       "name": "food",
-      "count": 1159
-    },
-    {
-      "name": "geography",
-      "count": 1094
+      "count": 1167
     },
     {
       "name": "economy",
-      "count": 1045
+      "count": 1101
+    },
+    {
+      "name": "geography",
+      "count": 1099
     },
     {
       "name": "technology",
       "count": 897
     },
     {
-      "name": "art",
-      "count": 676
+      "name": "lifestyle",
+      "count": 749
     },
     {
-      "name": "lifestyle",
-      "count": 641
+      "name": "art",
+      "count": 676
     },
     {
       "name": "nature",
@@ -103,8 +103,8 @@
       "count": 26
     },
     {
-      "name": "飲食文化",
-      "count": 25
+      "name": "원주민",
+      "count": 26
     },
     {
       "name": "文化",
@@ -115,8 +115,12 @@
       "count": 25
     },
     {
-      "name": "원주민",
-      "count": 25
+      "name": "教育",
+      "count": 24
+    },
+    {
+      "name": "飲食文化",
+      "count": 24
     },
     {
       "name": "台南",
@@ -124,14 +128,6 @@
     },
     {
       "name": "科技與企業",
-      "count": 24
-    },
-    {
-      "name": "教育",
-      "count": 23
-    },
-    {
-      "name": "原住民",
       "count": 23
     },
     {
@@ -143,44 +139,48 @@
       "count": 22
     },
     {
+      "name": "原住民",
+      "count": 22
+    },
+    {
       "name": "高雄",
-      "count": 21
+      "count": 20
     }
   ],
   "languageDistribution": {
-    "vi": 1163,
-    "es": 1163,
-    "ko": 1163,
-    "hi": 1163,
-    "fr": 1164,
-    "en": 1164,
-    "ja": 1161,
-    "de": 1163,
-    "ru": 1163,
-    "zh-TW": 1186,
-    "id": 1163,
-    "ar": 1163,
-    "pt": 1162
+    "vi": 1180,
+    "es": 1185,
+    "ko": 1184,
+    "hi": 1177,
+    "en": 1185,
+    "ja": 1184,
+    "de": 1183,
+    "fr": 1183,
+    "ru": 1185,
+    "zh-TW": 1191,
+    "id": 1184,
+    "ar": 1181,
+    "pt": 1185
   },
-  "lastUpdated": "2026-11-17T22:07:12.789Z",
+  "lastUpdated": "2026-11-18T22:06:08.176Z",
   "stars": 1248,
   "forks": 189,
-  "zhPages": 1184,
+  "zhPages": 1189,
   "languagePages": {
-    "zh-TW": 1184,
-    "en": 1164,
-    "ja": 1161,
-    "ko": 1163,
-    "es": 1163,
-    "fr": 1164,
-    "vi": 1163,
-    "id": 1163,
-    "pt": 1162,
-    "hi": 1163,
-    "ar": 1164,
-    "ru": 1163,
-    "de": 1163
+    "zh-TW": 1189,
+    "en": 1185,
+    "ja": 1184,
+    "ko": 1184,
+    "es": 1185,
+    "fr": 1183,
+    "vi": 1180,
+    "id": 1184,
+    "pt": 1185,
+    "hi": 1177,
+    "ar": 1181,
+    "ru": 1185,
+    "de": 1183
   },
-  "enPages": 1164,
-  "totalPages": 1184
+  "enPages": 1185,
+  "totalPages": 1189
 }

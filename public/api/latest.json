@@ -1,8 +1,53 @@
 {
-  "_generated": "2026-11-17T22:08:27.101Z",
+  "_generated": "2026-11-18T22:06:55.622Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "兩次登陸：道明會在台灣的 1626 與 1859",
+        "desc": "1626 年 5 月，道明會士隨西班牙艦隊登上基隆和平島，十六年間至少 31 位會士在北部傳教，約四千人受洗；1642 年荷蘭攻下基隆，傳教中止。二百三十三年後，郭德剛與洪保祿在 1859 年 5 月 18 日抵達打狗，從前金的一間茅草傳教所開始，長出玫瑰聖母聖殿與萬金天主堂。這篇寫一個修會兩次登陸之間的空窗、奉旨碑的來歷，以及傳教與帝國條約體系的關係。",
+        "category": "history",
+        "href": "/history/%E9%81%93%E6%98%8E%E6%9C%83%E5%9C%A8%E5%8F%B0%E7%81%A3",
+        "date": "2026-11-17T22:25:53+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
+        "desc": "114 年 12 月，勞保平均投保薪資 36,095 元，投保人數 1,048 萬。同一年主計總處的全體受僱員工每人總薪資平均是每月 63,386 元。兩個數字差 27,291 元，原因有三：投保薪資只算本薪、不含獎金與加班費，45,800 元的上限截斷了右尾，以及勞保的投保人數還包含職業工會與部分工時。這篇拆開兩套薪資統計的口徑，以及行業、縣市與投保身分之間的差距。",
+        "category": "economy",
+        "href": "/economy/%E6%8A%95%E4%BF%9D%E8%96%AA%E8%B3%87%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+        "date": "2026-11-17T21:53:37+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "原住民族語言政策：九成流失之後，家庭成了主戰場",
+        "desc": "文化部 109 年調查顯示，原住民族語言在世代之間的使用率下降約九成，客語約七成、台語近六成。原語會在 2024 年公布的最新調查，訪談超過 2 萬 4 千名族人，發現族語使用場合以家庭為主，遠高於學校與教會，但整體使用率較十年前的調查明顯下滑。這篇拆開流失數字、家庭與學校兩條復振路線，以及 111–115 年的國家語言整體發展方案。",
+        "category": "society",
+        "href": "/society/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%AA%9E%E8%A8%80%E6%94%BF%E7%AD%96",
+        "date": "2026-11-17T21:46:09+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "國債鐘：5.84 兆、每人 25.3 萬，與 2026 年那條先衝高再回落的線",
+        "desc": "截至 115 年 11 月 6 日，中央政府 1 年以上債務未償餘額 5 兆 8,364 億元，未滿 1 年債務 350 億元，平均每人負擔 25.3 萬元。今年 1 到 4 月，1 年以上債務一度衝到 5 兆 9,929 億元、每人 27.3 萬元，之後逐月回落。這篇用財政部國庫署的月序列拆開國債鐘的算法、短期債務的季節性、104 年以來從 5 兆 3,129 億元走來的十年，以及「每人 25 萬」這個數字的誤讀、利息負擔與債限口徑。",
+        "category": "economy",
+        "href": "/economy/%E5%9C%8B%E5%82%B5%E9%90%98",
+        "date": "2026-11-17T16:19:31+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "太陽光電：20GW 的目標，與 14.28GW 的現實",
+        "desc": "行政院原訂 114 年達成太陽光電 20GW、再生能源占比 20%，但截至 113 年底實際設置量只有 14.28GW。漁電共生更慢：114 年目標 4.4GW，113 年底僅 997.2MW，進度約 23%，台南市 112 年案場通過率不到一成。監察院調查指出，卡關因素包括審查程序繁瑣、標準不一、土地取得困難；法務部 110 至 113 年偵辦妨害綠能案件 71 案、起訴 114 人。這篇拆開這 5.72GW 的缺口、23% 的漁電進度與監察院的制度建議。",
+        "category": "economy",
+        "href": "/economy/%E5%A4%AA%E9%99%BD%E5%85%89%E9%9B%BB",
+        "date": "2026-11-17T16:14:05+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
       {
         "title": "蔣萬安：律師出身的台北市長，第一次以現任身分求連任",
         "desc": "2023 年 1 月，剛上任的蔣萬安戴著安全帽走進大巨蛋，說要符合法律規定才給使用執照。四年裡他經手輝達落腳北士科、都更與免費營養午餐，拆了公館圓環，提議遷走松山機場，警方搜索同志酒吧後他也出面道歉。2026 年他代表國民黨爭取連任台北市長，抽到 5 號，10 月 31 日與沈伯洋電視辯論，11 月 28 日投票。",
@@ -226,51 +271,6 @@
         "href": "/lifestyle/%E7%B3%96%E5%B0%BF%E7%97%85",
         "date": "2026-11-16T21:59:55+08:00",
         "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "台灣鐵路地下化：鐵軌下地之後，地面上的帳才開始算",
-        "desc": "台北分四個專案、花二十多年把市區鐵路送進地下，高雄用十二年、近千億元一次施工，台南則在 2026 年 10 月通車。從高雄通車首班車延誤 34 分鐘，到台北車站旁的雙星要等三十多年後才動工，這篇從台北、高雄、台南三座城市的官方資料與報導，看鐵軌下地之後，地面上還留下哪些要算的帳。",
-        "category": "geography",
-        "href": "/geography/%E5%8F%B0%E7%81%A3%E9%90%B5%E8%B7%AF%E5%9C%B0%E4%B8%8B%E5%8C%96",
-        "date": "2026-11-16T21:55:47+08:00",
-        "readingTime": 10,
-        "image": "/article-images/geography/rail-undergrounding-taipei-twins-site-2024.webp"
-      },
-      {
-        "title": "心理健康與自殺防治：三千九百五十一人，與那條回到十大的曲線",
-        "desc": "113 年全國自殺死亡 4,062 人，標準化死亡率每十萬人口 13.4 人，是 109 年以來最高；自殺在 113 年相隔 14 年重回十大死因，114 年仍有 3,951 人、維持第 10 位。15 至 24 歲 113 年死亡 274 人、粗死亡率每十萬 11.9 人，同為 109 年以來新高。這篇用官方統計與立法院預算評估，整理台灣的自殺防治體系、113 年 8 月上路的青壯世代心理健康支持方案，以及可以求助的地方。",
-        "category": "society",
-        "href": "/society/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E8%88%87%E8%87%AA%E6%AE%BA%E9%98%B2%E6%B2%BB",
-        "date": "2026-11-16T21:53:51+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "身心障礙者：一百二十六萬人，與一半是六十五歲以上的結構",
-        "desc": "2026 年 6 月底，台灣領有身心障礙證明的人數是 1,258,972 人，其中 65 歲以上 638,430 人，占了超過一半；類別上以神經系統及精神心智功能 395,924 人最多，極重度者 128,752 人，六都以新北 189,142 人最多。勞動部 113 年調查顯示，15 歲以上身障者的勞動力參與率是 21.9%、失業率 7.1%，非勞動力達 91.2 萬人。這篇用衛福部與勞動部的官方統計，拆開這 126 萬人的年齡、類別、縣市與就業結構。",
-        "category": "society",
-        "href": "/society/%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85",
-        "date": "2026-11-16T21:53:51+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "器官捐贈：一萬一千五百五十人在等，十個月四百零三例",
-        "desc": "截至 2026 年 10 月底，台灣有 11,550 人在等待器官移植，同年前十個月只有 403 例捐贈個案；平均每天有 3.3 人等不到器官而死亡，每年總捐贈人數約 800 到 1,000 人。台灣 1987 年就是亞洲第一個把器官捐贈與移植合法化的國家，器捐率卻只有每百萬人口 4.87 人。這篇用官方月報與第一線訪談，拆開捐贈曲線、家屬同意、活體捐贈與心死捐贈四個環節。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88",
-        "date": "2026-11-16T21:53:51+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "安寧緩和醫療與病人自主：全世界第三的排名，與零點五趴的簽署率",
-        "desc": "2023 年，台灣死亡前一年的安寧緩和利用率是 30.9%，與美國的 30.3% 相當；2025 年全球安寧地圖把台灣評為世界第三、亞洲第一。但截至 2024 年底，預立安寧緩和意願書累計 103 萬筆（18 歲以上 5.2%），預立醫療決定只有約 9.4 萬筆（0.5%），而 2024 年新簽的意願書是 87,835 筆。這篇用官方年報拆開兩部法律、581 家服務機構、279 家諮商機構、871 張安寧病床與六都集中、離島偏低的落差。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%AE%89%E5%AF%A7%E7%B7%A9%E5%92%8C%E9%86%AB%E7%99%82%E8%88%87%E7%97%85%E4%BA%BA%E8%87%AA%E4%B8%BB",
-        "date": "2026-11-16T21:53:51+08:00",
-        "readingTime": 12,
         "image": ""
       }
     ],
@@ -1191,8 +1191,8 @@
         "image": ""
       },
       {
-        "title": "Daptoper: de \"Oscuro\" a un millón, el curador de datos que definió la generación Roblox",
-        "desc": "En 2023, Chih-hsuan Zhou, conocido como \"Daptoper\" (有感筆電), alcanzó el millón de suscriptores en YouTube. Desde sus inicios haciendo transmisiones en vivo de Minecraft hasta consolidarse en el nicho emergente de Roblox, este estudiante que abandonó la Universidad Nacional de Tsing Hua construyó un imperio comunitario digital —que abarca libros físicos y Discord— con la autocrónica de \"llegar puntualmente tarde los lunes, miércoles y viernes\" y una disciplina de datos implícita detrás de la pantalla.",
+        "title": "Yougan Laptop: De lo 'oscuro' al millón, definiendo al curador de datos de la generación Roblox",
+        "desc": "En 2023, 'Yougan Laptop' (nombre real Zhou Zhi-xuan) alcanzó el millón de suscriptores en YouTube. Desde sus inicios con gameplays de Minecraft hasta su especialización en el mercado azul de Roblox, este estudiante de la Universidad Nacional Tsing Hua construyó un imperio de comunidades digitales que abarca desde libros físicos hasta Discord, basándose en su autocrítica de 'llegar tarde puntualmente los lunes, miércoles y viernes' y una disciplina extrema con los datos tras la pantalla.",
         "category": "people",
         "href": "/es/people/daptoper-roblox-youtuber",
         "date": "2026-11-17T10:10:33+08:00",
@@ -1762,8 +1762,8 @@
         "image": "/article-images/people/puma-shen-election-2024.webp"
       },
       {
-        "title": "Jensen Huang",
-        "desc": "Từ trường nội trú Kentucky đến đế chế 5 nghìn tỷ USD — Một cậu bé Đài Nam quét nhà vệ sinh đã đặt cược vào tương lai chỉ đến sau mười năm như thế nào",
+        "title": "Jensen Huang (Hoàng Nhân Huân)",
+        "desc": "Từ trường nội trú Kentucky đến đế chế 5 nghìn tỷ USD — Hành trình của một cậu bé Tainan quét dọn nhà vệ sinh đã đặt cược vào tương lai mười năm sau.",
         "category": "people",
         "href": "/vi/people/jensen-huang",
         "date": "2026-10-31T08:41:39+08:00",
@@ -1853,7 +1853,7 @@
       },
       {
         "title": "Doanh nghiệp Đài Loan: TSMC",
-        "desc": "Với tuổi 54, ông Zhang Zhongmo rời khỏi Texas Instruments, và ở độ 56, ông thành lập TSMC. Trong tám mươi năm đầu, ông vượt qua ba lần nguy hiểm, sống tại sáu thành phố. Tám mươi năm sau, vào ngày 3 tháng 3 năm 2025, Tổng thống Mỹ Trump chỉ vào người kế vị của Zhang Zhongmo là Wei Zegai nói: \"Ông ấy là người quan trọng nhất trong phòng này.\" Vào quý đầu tiên năm 2026, doanh thu của TSMC trong một quý đạt 35,9 tỷ USD. Một hòn đảo thường xuyên bị bão táp, thiếu nước và thiếu điện, lại xây dựng được trái tim của nền văn hóa số nhân loại — nhưng chừng trái tim càng lớn, thì liệu hòn đảo này có thực sự chịu đựng được chi phí của nó?",
+        "desc": "Trương Trung Mưu, người rời Texas Instruments ở tuổi 54 và thành lập TSMC ở tuổi 56, đã vượt qua ba lần hoạn nạn và sống qua sáu thành phố trong mười tám năm đầu tiên. Ba mươi tám năm sau, vào ngày 3 tháng 3 năm 2025, Tổng thống Hoa Kỳ Donald Trump tại Nhà Trắng đã chỉ vào người kế nhiệm của Trương Trung Mưu là Ngụy Triết Gia và nói: \"Ông ấy là người đàn ông quan trọng nhất trong căn phòng này.\" Doanh thu quý I năm 2026 của TSMC đạt 35,9 tỷ USD. Trên một hòn đảo thường xuyên chịu bão lũ, thiếu nước và thiếu điện, họ đã xây dựng nên trái tim của nền văn minh kỹ thuật số nhân loại — nhưng khi trái tim này càng lớn, việc liệu hòn đảo này có thể gánh vác nổi cái giá phải trả hay không lại càng trở nên khó nói.",
         "category": "economy",
         "href": "/vi/economy/tsmc",
         "date": "2026-10-31T08:37:45+08:00",
@@ -2949,8 +2949,8 @@
         "image": ""
       },
       {
-        "title": "تايوان من «الصف الخامس» إلى «الصف التاسع»: مصطلح «جيل الفراولة» طارد ثلاثة أجيال خلال ثلاثين عاماً، وما انكسر هو السلم المتحرك تحت أقدامهم",
-        "desc": "عندما طُبع مصطلح «جيل الفراولة» لأول مرة عام 1993، كان يطال جيل الخمسينيات الذين أصبحوا اليوم في الخمسينيات من عمرهم ويحبون استذكار مشروب «ياقولت» القديم. خلال ثلاثين عاماً، تغيّر المستهدفون بالسب عدة مرات، لكن المصطلح لم يتغير حرفاً واحداً. ما تحرك فعلياً بين الأجيال الخمسة هو ذلك «السلم المتحرك» القائل بأن «الجهد يُكافأ»: فقد تباطأ منذ مطلع الألفية، وارتفع مدخله بفعل أسعار المساكن، ثم انشق إلى مسارين: مسار يعتمد على الراتب فقط وتوقف تقريباً، ومسار يعتمد على رأس مال الآباء وما زال يتحرك.",
+        "title": "طلاب الصف الخامس إلى التاسع في تايوان: \"جيل الفراولة\" الذي تعرض للشتائم ثلاثين عامًا وتغيرت فيه الأجيال، بينما مال السلم المتحرك تحت أقدامهم",
+        "desc": "عندما ظهر مصطلح \"جيل الفراولة\" لأول مرة عام 1993، كان يهاجم طلاب الصف الخامس الذين يعشقون مشروب \"ياكولت\"؛ وعلى مدار ثلاثين عامًا، تغيرت الأجيال المستهدفة بالشتائم لكن الوصف ظل كما هو. الحقيقة هي أن السلم المتحرك لمبدأ \"الجهد يؤدي إلى المكافأة\" هو ما تحرك بين الأجيال: فقد تباطأ حوالي عام 2002، وارتفعت تكلفة الدخول إليه بسبب أسعار العقارات، ثم انقسم إلى مسارين؛ مسار توقف تقريبًا لمن يعتمدون على الرواتب فقط، ومسار لا يزال يتحرك لمن يستندون إلى رأس مال والديهم.",
         "category": "society",
         "href": "/ar/society/taiwan-generations",
         "date": "2026-10-31T08:40:59+08:00",

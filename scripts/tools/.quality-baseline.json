@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-17T22:07:24Z",
-  "total": 1186,
-  "flagged": 739,
+  "timestamp": "2026-11-18T22:06:21Z",
+  "total": 1191,
+  "flagged": 743,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -265,6 +265,11 @@
       "reasons": "未人工審核; 破折號13個; 後段清單堆砌43%; 無腳註"
     },
     {
+      "file": "economy/投保薪資的天花板.md",
+      "score": 7,
+      "reasons": "年份僅0個; 未人工審核; 塑膠句2個; 分號5個; 英式短句開場3處"
+    },
+    {
       "file": "economy/三商.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 破折號12個; 分號6個; 稀薄段落×1"
@@ -283,6 +288,11 @@
       "file": "economy/台灣國際貿易政策.md",
       "score": 4,
       "reasons": "空洞詞6個; 未人工審核; 稀薄段落×7"
+    },
+    {
+      "file": "economy/太陽光電.md",
+      "score": 8,
+      "reasons": "年份僅1個; 僅1個URL; 未人工審核; 英式短句開場4處; 稀薄段落×2"
     },
     {
       "file": "economy/中壢.md",
@@ -1103,6 +1113,11 @@
       "file": "society/心理健康與自殺防治.md",
       "score": 7,
       "reasons": "未人工審核; 塑膠句1個; 分號6個; 後段清單堆砌32%; 稀薄段落×1; 品質衰退前40%後27%"
+    },
+    {
+      "file": "society/原住民族語言政策.md",
+      "score": 4,
+      "reasons": "年份2個; 未人工審核; 塑膠句3個"
     },
     {
       "file": "society/動物園與展演動物倫理.md",
@@ -2858,6 +2873,11 @@
       "file": "history/台灣糖業鐵路.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句7個; 分號12個"
+    },
+    {
+      "file": "history/道明會在台灣.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 分號10個"
     },
     {
       "file": "history/吳鳳傳說.md",

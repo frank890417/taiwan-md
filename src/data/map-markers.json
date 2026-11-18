@@ -1760,6 +1760,17 @@
     "city": "台中"
   },
   {
+    "title": "太陽光電：20GW 的目標，與 14.28GW 的現實",
+    "lat": 23.005731,
+    "lng": 120.219865,
+    "category": "economy",
+    "region": "south",
+    "link": "/economy/%E5%A4%AA%E9%99%BD%E5%85%89%E9%9B%BB",
+    "lang": "zh-TW",
+    "desc": "行政院原訂 114 年達成太陽光電 20GW、再生能源占比 20%，但截至 113 年底實際設置量只有 14.28GW。漁電共生更慢：114 年目標 4.4GW，113 年底僅 997.2MW，進度約 23%，台南市 112 年案場通過率不到一成。監察院調查指出，卡關因素包括審查程序繁瑣、標準不一、土地取得困難；法務部 110 至 113 年偵辦妨害綠能案件 71 案、起訴 114 人。這篇拆開這 5.72GW 的缺口、23% 的漁電進度與監察院的制度建議。",
+    "city": "台南"
+  },
+  {
     "title": "文化內容策進院：一個被要求跑得像企業的政府機構，和它七年來撞的同一面牆",
     "lat": 25.034789,
     "lng": 121.563886,
@@ -4332,6 +4343,17 @@
     "lang": "zh-TW",
     "desc": "1980 年代，新店的宏廣卡通承包了全世界近三分之一的動畫製作量，被叫做「東方迪士尼」。台灣兩度與迪士尼樂園擦身而過，其中 1990 年代的台中月眉案破局在土地開發權與專屬高鐵站等條件；《玩具總動員 3》早期劇本裡，故障的巴斯光年要被送回「原產地」台灣維修。從代工黃金歲月到史迪奇騎機車，這條連結比想像中深。",
     "city": "高雄"
+  },
+  {
+    "title": "兩次登陸：道明會在台灣的 1626 與 1859",
+    "lat": 25.130316,
+    "lng": 121.733119,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E9%81%93%E6%98%8E%E6%9C%83%E5%9C%A8%E5%8F%B0%E7%81%A3",
+    "lang": "zh-TW",
+    "desc": "1626 年 5 月，道明會士隨西班牙艦隊登上基隆和平島，十六年間至少 31 位會士在北部傳教，約四千人受洗；1642 年荷蘭攻下基隆，傳教中止。二百三十三年後，郭德剛與洪保祿在 1859 年 5 月 18 日抵達打狗，從前金的一間茅草傳教所開始，長出玫瑰聖母聖殿與萬金天主堂。這篇寫一個修會兩次登陸之間的空窗、奉旨碑的來歷，以及傳教與帝國條約體系的關係。",
+    "city": "基隆"
   },
   {
     "title": "鄉土文學論戰：1977 年那頂「狼來了」的帽子，以及它後來去了哪裡",
@@ -9152,6 +9174,17 @@
     "city": "台東"
   },
   {
+    "title": "تغليف السكك الحديدية في تايوان تحت الأرض: بعد دفن القضبان، تبدأ الحسابات على السطح",
+    "lat": 22.625869,
+    "lng": 120.295811,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "تنفيذ أربعة مشاريع في تايبيه استغرقت أكثر من عشرين عامًا لنقل السكك الحديدية تحت الأرض، بينما استغرق الأمر في كاوهسيونغ اثني عشر عامًا بتكلفة تقترب من مئة مليار دولار تايواني في مرحلة واحدة، أما تايانان فمن المقرر افتتاحها في أكتوبر 2026. من تأخر أول قطار جنوبي في كاوهسيونغ لمدة 34 دقيقة، إلى مشروع \"تايبيه توين ستارز\" بجوار محطة تايبيه الذي لن يبدأ العمل فيه إلا بعد أكثر من ثلاثين عامًا؛ تستعرض هذه المقالة عبر البيانات والتقارير الرسمية لمدن تايبيه وكاوهسيونغ وتايانان، ما هي الحسابات المتبقية على السطح بعد دفن القضبان.",
+    "city": "高雄"
+  },
+  {
     "title": "شارع يونغكانغ: حيث سكن الأساتذة اليابانيون، ولجأ إليه الوافدون من البر الرئيسي، وهو الآن تايبيه السياح اليابانيين والكوريين",
     "lat": 25.025406,
     "lng": 121.561415,
@@ -9447,6 +9480,17 @@
     "lang": "zh-TW",
     "desc": "Am Neujahrstag 1951 ließ der 38-jährige Finanzdirektor Jen Hsien-chun Lotterienummern auf Kassenbons drucken und machte damit die Gewinngier der Verbraucher zum Wächter darüber, ob Geschäfte ihre Umsätze ehrlich meldeten – die Umsatzsteuereinnahmen stiegen binnen eines Jahres um 75 Prozent. Mehr als siebzig Jahre später hat dieses System seinen Erfinder überlebt und auch die autoritäre Herrschaft, unter der es entstand – bis ein Code-Skandal im Jahr 2024 zum ersten Mal die Frage aufwarf: Womit verdient dieses System eigentlich noch unser Vertrauen?",
     "city": "台北"
+  },
+  {
+    "title": "Cinavu: Die Blätter-Hirse der Paiwan und das Jiasuanjiang-Blatt, das man mitisst",
+    "lat": 25.007816,
+    "lng": 121.464731,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "Im Jahr 2019 brachte der Paiwan-Kinderchor TBT ein Rezept für Cinavu nach Australien; die Zutat Jiasuanjiang wurde nicht übersetzt, sondern in Pinyin belassen.",
+    "city": "新北"
   },
   {
     "title": "Kinmen-Kaoliang: Ein Fläschchen Frontversorgung, die zum kollektiven Gedächtnis einer Region wurde",
@@ -9823,6 +9867,17 @@
     "city": "桃園"
   },
   {
+    "title": "Cinavu: The Paiwan Leaf-Wrapped Millet and the *jiasuanjiang* Leaves Meant to be Eaten",
+    "lat": 25.013233,
+    "lng": 121.467864,
+    "category": "food",
+    "region": "north",
+    "link": "/en/food/cinavu",
+    "lang": "en",
+    "desc": "In 2019, the Taiwu Ancient Ballads Troupe brought a cinavu recipe to Australia; the ingredient *jiasuanjiang* was left in pinyin rather than translated. Cinavu is a Paiwan dish of millet or taro powder wrapping pork, steamed in two layers of leaves. Unlike traditional zongzi, the inner layer of *jiasuanjiang* leaves must be eaten with the rice.",
+    "city": "新北"
+  },
+  {
     "title": "Chiayi County: 490,000 People Lend Their Face to Alishan, and No One Remembers the County Seat Is in Taibao",
     "lat": 23.478422,
     "lng": 120.451507,
@@ -10131,17 +10186,6 @@
     "city": "屏東"
   },
   {
-    "title": "Chiang Hsien-yi: tras huir de Taiwán durante cuarenta y cinco años, solo al volver a casa pudo pintar las mejores obras de su vida",
-    "lat": 22.760999,
-    "lng": 121.150589,
-    "category": "art",
-    "region": "east",
-    "link": "/art/chiang-hsien-yi",
-    "lang": "zh-TW",
-    "desc": "En el invierno de 1967, Chiang Hsien-yi, de veinticinco años, viajó a París para buscar a Giacometti y descubrió que su ídolo había muerto el año anterior. Durante los siguientes cuarenta y cinco años, en el SoHo de Nueva York clausuró las ventanas para buscar la luz interior; en 1975, en la galería Lamagna, no vendió ni una sola pintura. En la década de 1990, el año en que su padre sufrió una caída, volvió al humo del incienso del templo Longshan y pintó «Templo centenario». En 2008 se estableció en Jinzun, Taitung, a los sesenta y cinco años; cuando en 2025 se inauguró el Centro de Arte Paul Chiang, ya tenía ochenta y tres.",
-    "city": "台東"
-  },
-  {
     "title": "Isla Artística de Mazu: Un museo sin galerías que presta toda la isla como exposición",
     "lat": 26.158128,
     "lng": 119.95272,
@@ -10261,6 +10305,17 @@
     "lang": "zh-TW",
     "desc": "Administrativamente, Zhongli es un distrito de la ciudad de Taoyuan, pero en la vida cotidiana suele considerarse el núcleo de otra ciudad en el sur de Taoyuan. Desde Jianzaili, el antiguo Distrito de Zhongli del condado de Taoyuan hasta el actual Distrito de Zhongli de la ciudad de nivel prefectura, comprender su historia, transporte, campus universitarios, industria, grupos étnicos, el río Laojie, la gastronomía y la identidad local permite entender que «Zhongli es diferente a Taoyuan» no es solo una discusión trivial, sino el resultado de la superposición a largo plazo entre el nombre administrativo, el ciclo de vida urbano y la regionalización norte-sur de Taoyuan.",
     "city": "桃園"
+  },
+  {
+    "title": "Cinavu: el mijo envuelto en hojas del pueblo Paiwan, y la capa de hojas de physalis que se come junto",
+    "lat": 25.014223,
+    "lng": 121.468156,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "En 2019, el coro infantil Paiwan Taiwu Ancient Ballads llevó una receta de cinavu a Australia; el physalis de la lista de ingredientes no se tradujo al inglés y se escribió directamente en pinyin como \"jiasuanjiang\". El cinavu (también escrito jinafu) es un plato del pueblo Paiwan que envuelve carne de cerdo con mijo o harina de taro, envuelto en dos capas de hojas y cocido al vapor; cada tribu tiene su propio nombre y método de preparación. A menudo se le llama \"zongzi aborigen\", pero la diferencia con el zongzi radica en que la capa de hojas de physalis pegada al arroz debe comerse junto.",
+    "city": "新北"
   },
   {
     "title": "Sopa de ma‑wai: de los campos de cáñamo amarillo de Nántun a la mesa veraniega de Taichung, una taza de caldo verde amargo‑dulce",
@@ -10635,17 +10690,6 @@
     "lang": "zh-TW",
     "desc": "En septiembre de 2026, la Comisión de Seguridad Nuclear, siguiendo el procedimiento de renovación de licencia bajo la Ley de Regulación de Instalaciones de Reactores Nucleares, presentó 589 opiniones de revisión y aprobó el plan de Taipower para la operación continua de la Central Nuclear No. 3. Entre las tres condiciones para el reinicio, no hay regulación que defina qué cuenta como consenso social. El 28 de noviembre, el Caso No. 22 se votó el mismo día que las elecciones de los nueve en uno; la fundamentación del KMT decía convertir en política el casi 80 % de la opinión pública, el secretario general del grupo parlamentario del DPP dijo que su aprobación reiniciaría «demasiado rápido», y 34 grupos afirmaron que no debería usarse como autorización política para el reinicio.",
     "city": "屏東"
-  },
-  {
-    "title": "Jiang Hsien-yi : après avoir fui Taïwan pendant quarante-cinq ans, ce n'est qu'en rentrant chez lui qu'il a peint les meilleures œuvres de sa vie",
-    "lat": 22.760294,
-    "lng": 121.145509,
-    "category": "art",
-    "region": "east",
-    "link": "/art/chiang-hsien-yi",
-    "lang": "zh-TW",
-    "desc": "À l'hiver 1967, Jiang Hsien-yi, vingt-cinq ans, part pour Paris à la recherche de Giacometti et découvre que son idole est morte l'année précédente. Pendant les quarante-cinq années suivantes, il ferme les fenêtres pour chercher la lumière intérieure dans son atelier de SoHo, à New York ; en 1975, la galerie Lamagna ne vend aucune de ses toiles. Dans les années 1990, l'année où son père tombe, il retourne dans la fumée d'encens du temple Longshan et y peint « Temple centenaire ». En 2008, lorsqu'il s'installe à Jinzun, à Taitung, il a soixante-cinq ans ; en 2025, à l'ouverture du Parc artistique Jiang Hsien-yi, il en a déjà quatre-vingt-trois.",
-    "city": "台東"
   },
   {
     "title": "Île artistique internationale de Mazu : un musée sans galerie qui emprunte l'île entière comme exposition",
@@ -11264,6 +11308,17 @@
     "city": "桃園"
   },
   {
+    "title": "सिनावु (cinavu): पैवान जनजाति का पत्ते में लिपटा बाजरा, और नकली रसभरी के पत्ते की वह परत जिसे साथ खाना होता है",
+    "lat": 25.014151,
+    "lng": 121.465794,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "2019 में, पैवान आदिवासी बच्चों के गायन दल ताइवु प्राचीन गाथा गायन मंडली ने सिनावु (cinavu) की एक रेसिपी ऑस्ट्रेलिया ले गए। सामग्री सूची में 'नकली रसभरी' का अंग्रेजी अनुवाद नहीं किया गया, बल्कि इसे सीधे पिनयिन 'जियासुआनजियांग' (jiasuanjiang) लिख दिया गया। सिनावु (जिनाफू) पैवान जनजाति का एक व्यंजन है जिसमें बाजरा या टैरो (अरबी) के आटे में सूअर का मांस लपेटकर, दो परतों में पत्तों में लपेटकर भाप में पकाया जाता है। विभिन्न कबीले इसे अलग-अलग नामों से बुलाते हैं और बनाने की विधि भी भिन्न होती है। बाहरी लोग इसे अक्सर 'आदिवासी जोंग्जी' (चावल के पत्ते में लिपटे पकवान) कहते हैं, लेकिन यह जोंग्जी से इस मायने में अलग है कि चावल से चिपकी नकली रसभरी के पत्ते की परत को भी साथ खाना होता है।",
+    "city": "新北"
+  },
+  {
     "title": "डा चांग बाओ शाओ चांग (大腸包小腸)： नुओमी चांग (糯米腸) ब्रेड नहीं, फिर भी सॉसेज को ताइवान का हॉट डॉग बना देती है",
     "lat": 23.985105,
     "lng": 121.605577,
@@ -11449,6 +11504,17 @@
     "lang": "zh-TW",
     "desc": "「डायन के सूप」 से विश्व के शीर्ष 15 गर्म झरना साम्राज्य तक, टेक्टोनिक प्लेटों की टक्कर ने कैसे इस द्वीप के उपचार का रहस्य पकाया",
     "city": "台東"
+  },
+  {
+    "title": "ताइवान रेलवे का भूमिगतिकरण: पटरियों के नीचे जाने के बाद, ज़मीनी हिसाब-किताब शुरू होता है",
+    "lat": 22.626144,
+    "lng": 120.306356,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "ताइपे ने चार परियोजनाओं के माध्यम से बीस से अधिक वर्षों में शहरी रेलवे को भूमिगत किया; काऊशुंग ने बारह वर्षों में NT$100 बिलियन के करीब खर्च कर एक बार में निर्माण किया; जबकि ताइनान में 2026 के अक्टूबर में परिचालन शुरू होगा। काऊशुंग में पहली ट्रेन के 34 मिनट देरी से चलने से लेकर ताइपे स्टेशन के पास 'ताइपे ट्विन स्टार्स' के निर्माण में तीस वर्षों से अधिक के इंतज़ार तक, यह लेख ताइपे, काऊशुंग और ताइनान के आधिकारिक आंकड़ों के माध्यम से बताता है कि पटरियों के नीचे जाने के बाद ज़मीन पर अभी कितने हिसाब बाकी हैं।",
+    "city": "高雄"
   },
   {
     "title": "ख़ज़ाना पहाड़ी: 30 साल तक तोड़ी जाती रही अवैध बस्ती, आख़िर में बनी ताइपे का सबसे कूल आर्ट विलेज",
@@ -11966,6 +12032,17 @@
     "lang": "zh-TW",
     "desc": "Wanhua memiliki Longshan Temple dari tahun 1738. Di tiga kilometer jauhnya, pada malam menjelang Tahun Baru Masehi 2004, Taipei 101 selesai dibangun di lahan bekas gudang Matsuyama era Jepang dan pabrik militer pasca-perang. Berjalan ke Datong, teh Oolong yang dibawa oleh Li Chunsheng pada tahun 1860 menjadi pusat perdagangan ekspor Taiwan Utara. Dalam cekungan yang sama, terdapat tiga waktu: 1738, 1885, dan 2004.",
     "city": "台北"
+  },
+  {
+    "title": "Relokasi Jalur Kereta Api Taiwan ke Bawah Tanah: Setelah Rel Terkubur, Perhitungan di Atas Permukaan Baru Dimulai",
+    "lat": 22.629851,
+    "lng": 120.299945,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "Taipei menggunakan empat proyek selama lebih dari dua dekade untuk memindahkan jalur kereta api kota ke bawah tanah; Kaohsiung menghabiskan 12 tahun dengan biaya hampir NT$100 miliar dalam satu kali konstruksi; sementara Tainan akan mulai beroperasi pada Oktober 2026. Dari keterlambatan 34 menit pada kereta pertama di Kaohsiung, hingga proyek \"Taipei Twin Stars\" di samping Stasiun Taipei yang baru akan dimulai tiga puluh tahun kemudian, artikel ini menggunakan data resmi dan laporan dari tiga kota—Taipei, Kaohsiung, dan Tainan—untuk melihat apa saja beban yang masih tersisa di permukaan setelah rel kereta api dipindahkan ke bawah tanah.",
+    "city": "高雄"
   },
   {
     "title": "Kota Taoyuan: impor dan ekspor Taiwan, paling banyak orang Hakka, paling banyak pekerja migran, semuanya di atas dataran tinggi ini",
@@ -12496,14 +12573,14 @@
     "city": "新北"
   },
   {
-    "title": "デジタル荒原：商業モデルなきネット芸術批評プラットフォームが12年間存続した方法",
+    "title": "デジタル荒原：ビジネスモデルなきネット芸評プラットフォームが12年続いた理由",
     "lat": 25.025075,
     "lng": 121.568534,
     "category": "art",
     "region": "north",
     "link": "/ja/art/no-mans-land-art-platform",
     "lang": "ja",
-    "desc": "2011年11月、鄭文琦は台北の旧メディア機関「在地実験」にて、紙媒体なし、広告なし、購読料なしのネット書写プロジェクトを開始した。12年後、56号のテーマ、384篇の論文、31本のポッドキャスト、10冊の『群島データベース』を蓄積した。同時期に「紙媒体母体＋物理的空間なし＋個人編集長駆動」という三条件をすべて満たす中国語芸術批評プラットフォームで、同時に存続した事例はない。その存続を支えたのは、三層の静かなインフラストラクチャの精密な重なりである：機関母体が基本コストを引き受け、公的部門のプロジェクトが単発テーマの内容を補い、編集者の12年間の労働が残りのギャップを埋めた。",
+    "desc": "2011年11月、鄭文琦（てい・ぶんき／ツォン・ウェンチー）が台北の「在地実験（ET@T）」という旧メディア機関で、紙媒体なし、広告なし、購読料なしのネット書き込み計画を始めた。12年後には56期のテーマ企画、384本の記事、31回のポッドキャスト、10冊の『群島資料庫（Nusantara Archive）』を蓄積。同期同タイプの「紙媒体母体なし＋実体空間なし＋個人主導の編集長」という三条件を備えた中国語圏芸評プラットフォームに、同期生存事例はない。それが支えられたのは三層のクワイエット・インフラストラクチャーの精緻な重ね合わせだ：機関母体が基本コストを担い、公的部門のプロジェクト補助が単期コンテンツを補い、編集者個人の12年間の労働が残りのギャップを埋めた。",
     "city": "台北"
   },
   {
@@ -13904,14 +13981,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の機械工具産業",
+    "title": "台湾機械工具産業",
     "lat": 24.155699,
     "lng": 120.675492,
     "category": "economy",
     "region": "central",
     "link": "/ja/economy/taiwan-machine-tool-industry",
     "lang": "ja",
-    "desc": "大肚山黄金縦谷から TMTS 2026 まで、台湾工具機産業のレジリエンス、崩壊、再生、そして2024年に世界第5位から第7位に転落した構造的焦慮について。",
+    "desc": "大肚山黄金縦谷からTMTS 2026まで、台湾工作機械産業のレジリエンス、崩壊、再生、そしてなぜ2024年に世界5位から7位に落ちたのかという構造的不安。",
     "city": "台中"
   },
   {
@@ -14201,6 +14278,17 @@
     "city": "台東"
   },
   {
+    "title": "奇拿富（cinavu）：パイワン族の葉包み小米、そして一緒に食べるあの假酸漿（ぎさんしょう）の葉",
+    "lat": 22.685496,
+    "lng": 120.477095,
+    "category": "food",
+    "region": "south",
+    "link": "/ja/food/cinavu",
+    "lang": "ja",
+    "desc": "2019年、パイワン族の児童合唱団「泰武古謠傳唱」がcinavuのレシピをオーストラリアへ持ち込み、材料表の假酸漿は英訳されずピンインの「jiasuanjiang」のまま記載された。奇拿富（吉拿富）はパイワン族が小米（しょうまい）または芋頭粉で豚肉を包み、二重の葉で巻いて蒸し煮にした料理で、部落ごとに呼び名と作り方が異なる。外部ではしばしば「原住民粽（ぞんぎ）」と呼ばれるが、粽と決定的に違うのは、米に張り付いた假酸漿の葉を一緒に食べる点にある。",
+    "city": "屏東"
+  },
+  {
     "title": "棺材板：縁起の悪い名前から台南の和洋折衷の珍味へ",
     "lat": 22.997846,
     "lng": 120.227468,
@@ -14300,14 +14388,14 @@
     "city": "台中"
   },
   {
-    "title": "刈包：福州の虎咬豬から BAO London のミシュラン記号へ",
+    "title": "グアバオ：福州の虎咬豬からBAO Londonのミシュランのシンボルへ",
     "lat": 25.037556,
     "lng": 121.55736,
     "category": "food",
     "region": "north",
     "link": "/ja/food/gua-bao",
     "lang": "ja",
-    "desc": "1927 年、新竹の郷紳・黄旺成の日記では、「虎咬豬」は尾牙の席で職工をねぎらう点心でした。百年後、ロンドン Soho の Lexington Street にできた行列は、同じ折りたたみ式の麺食を待っています。ミシュランガイドはそれをビブグルマンに書き込みました。この白くふっくらと折りたたまれた軽食には、台湾四百年の福州移民史、土地公の尾牙における労使儀礼、そして台北からロンドンへ渡った一人の芸術家がそれを国際的な食卓へ載せた過程が詰まっています。",
+    "desc": "1927年、新竹の士紳・黄旺成の日記には、「虎咬豬」が尾牙の席で職員を慰労する点心として記されています。百年後、ロンドン・ソーホーのレキシントンストリートには、同じ折りたたみ麺料理を求める行列ができ、ミシュランガイドがビブグルマンに掲載しました。この白くふっくらと折りたたまれた軽食には、台湾四百年の福州移民史、土地公の尾牙における労使の儀式、そして台北からロンドンへ渡った一人のアーティストがいかにしてそれを国際的な食卓へ運んだかが凝縮されています。",
     "city": "台北"
   },
   {
@@ -14542,14 +14630,14 @@
     "city": "花蓮"
   },
   {
-    "title": "糖蔥：白い気孔に隠された「抗争の糖」",
+    "title": "糖蔥：白い穴の中に隠された「抗争の糖」",
     "lat": 24.75845,
     "lng": 121.750361,
     "category": "food",
     "region": "north",
     "link": "/ja/food/sugar-onion-tang-tsung",
     "lang": "ja",
-    "desc": "1940年代、台湾の農民は日本の警察による蔗糖独占を逃れるため、濃褐色の糖液を引き伸ばして葱のように雪白の管状に仕上げました――農民の「偽装術」、百年の草の根知恵の結晶です。1つ1つの糖蔥には精密な16の大孔と16の小孔が備わっており、台湾における一世紀にわたる甘くパリッとした抗争を支えてきました。",
+    "desc": "1940年代、台湾の農民が日本警察による蔗糖の独占を逃れるため、濃褐色の糖蜜を雪のように白いネギ状の管に引き伸ばした——農民の「偽装術」、百年の草の根の知恵の結晶。一片の糖蔥に精密に刻まれた16個の大孔と16個の小孔が、台湾における一世紀にわたる甘く脆い抗争を支えてきた。",
     "city": "宜蘭"
   },
   {
@@ -14562,6 +14650,17 @@
     "lang": "ja",
     "desc": "1964年、台中自由路の「太陽堂」が開業し、芸術家・顏水龍（ガン・スイロン）が創作したひまわりのモザイク壁画は政治的タブーによって25年間封印された。清末の麦芽酥餅（バーガオ・スービン）が起源で魏清海（ウェイ・チンハイ）が改良したこの丸い菓子が、鉄道弁当の脇役から台中を代表する文化的シンボルへとなぜ変わったのか。",
     "city": "台中"
+  },
+  {
+    "title": "さつまいもボールの由来：中正橋の下の物語と、揚げ鍋の前で押し出される空洞",
+    "lat": 25.035429,
+    "lng": 121.571034,
+    "category": "food",
+    "region": "north",
+    "link": "/ja/food/sweet-potato-balls",
+    "lang": "ja",
+    "desc": "さつまいもボールの由来として最も広く伝わるのは、次のような物語です。新北市の中正橋の下で、引退した高齢者のさつまいも畑が重機で掘り返されてしまい、彼は収穫したさつまいもを揚げて夜市で売り始めました。その後、改良を重ねて今のさつまいもボールになったとされています。物語はここで終わりですが、揚げ鍋の前での職人技は今も続いています。2019年頃にこの業界に入った劉在泓（リュウ・ザイホン）さんは、最初は生地を7、8回しか押さなかったものの、代役を務めた際に友人から指摘され、20〜30回押すよう改めました。社子夜市の入口にあるある屋台では、一粒一粒を丁寧に練り上げ、しっかりとした食感に仕上げています。",
+    "city": "台北"
   },
   {
     "title": "埋められた港の上を歩く：台南中西区の5つの小吃",
@@ -14850,14 +14949,14 @@
     "city": "屏東"
   },
   {
-    "title": "粽子",
+    "title": "ちまき（粽子）",
     "lat": 22.993197,
     "lng": 120.222252,
     "category": "food",
     "region": "south",
     "link": "/ja/food/zongzi-rice-dumpling",
     "lang": "ja",
-    "desc": "台湾の粽子は一つの食べ物ではなく、四つの異なる島嶼の記憶が重なり合ったものです。閩南、客家、外省、原住民。一口噛むたびに、そこにはそれぞれの来し方があります。",
+    "desc": "台湾のちまきは単なる食べ物ではありません。それは、閩南、客家、外省、そして先住民族という、4つの異なる島の記憶が重なり合ったものです。一口ごとに、これまでの歩みが感じられます。",
     "city": "台南"
   },
   {
@@ -14989,7 +15088,7 @@
     "region": "south",
     "link": "/ja/geography/climate",
     "lang": "ja",
-    "desc": "年間降雨量は世界平均の2.5倍にもかかわらず、世界の上位20カ国の缺水国に名を連ねる——台湾の気候は、決して想像するようなものではありません",
+    "desc": "年降雨量は世界平均の2.5倍、しかし世界有数の水不足国上位20か国にランクイン——台湾の気候は決してあなたが想像するものではありません",
     "city": "嘉義"
   },
   {
@@ -15499,14 +15598,14 @@
     "city": "南投"
   },
   {
-    "title": "台湾の五大地形と地理的構造：山脈から平原に至る島の景観",
+    "title": "台湾の5大地形と地理構造：山脈から平原まで、島の景観を探る",
     "lat": 23.465153,
     "lng": 120.963692,
     "category": "geography",
     "region": "central",
     "link": "/ja/geography/taiwan-five-major-landforms-and-geographic-structure",
     "lang": "ja",
-    "desc": "中央山脈から西部平原まで、台湾特有の地理的構造を探求し、この島々の地形的多様性を理解します。",
+    "desc": "中央山脈から西部平原まで、台湾独自の地理構造を紐解き、この島の地形の多様性を学びます。",
     "city": "南投"
   },
   {
@@ -15594,7 +15693,7 @@
     "region": "north",
     "link": "/ja/geography/tectonic-plates-and-seismic-activity",
     "lang": "ja",
-    "desc": "台湾がユーラシアプレートとフィリピン海プレートの境界に位置する地質的特性、および頻繁な地震活動の原因を探る",
+    "desc": "ユーラシアプレートとフィリピン海プレートの境界に位置する台湾の地質学的特性と、頻繁な地震活動が起こる原因について探究します。",
     "city": "台北"
   },
   {
@@ -15620,15 +15719,15 @@
     "city": "台北"
   },
   {
-    "title": "都市の特徴と地域文化",
-    "lat": 25.030794,
-    "lng": 121.566373,
+    "title": "都市の特色と地域文化",
+    "lat": 24.147415,
+    "lng": 120.677741,
     "category": "geography",
-    "region": "north",
+    "region": "central",
     "link": "/ja/geography/urban-character-and-regional-culture",
     "lang": "ja",
-    "desc": "台北のような国際大都市から台南の古都の風情まで、台湾の各都市がどのように独自の地方アイデンティティを形成しているか",
-    "city": "台北"
+    "desc": "台北の国際都市から台南の古都の風情まで、台湾の各都市がいかにして独自の地域アイデンティティを形成しているか",
+    "city": "台中"
   },
   {
     "title": "水が上流へ：視覚錯覚の中に読み解くアミ族の開墾史と脳の認知の境界",
@@ -15961,14 +16060,14 @@
     "city": "台北"
   },
   {
-    "title": "大罷免：三十三案全数不成立の史上最大罷免潮、台湾民主のあらゆる目盛りを測った",
+    "title": "大規模罷免：33件案全滅、史上最大規模の罷免の波が測る台湾民主の刻印",
     "lat": 24.800382,
     "lng": 120.962234,
     "category": "history",
     "region": "north",
     "link": "/ja/history/great-recall-movement-2024",
     "lang": "ja",
-    "desc": "2025年7月26日深夜、台湾全土の3分の1の選挙区で同時に開票が行われ、25件の罷免案が全て不成立となりました。青鳥行動から130万人超とされる連署、3波の投票で33案が全敗に終わったこの台湾史上最大規模の罷免潮は、誰一人として罷免できませんでしたが、民主主義の動員力、門檻の高さ、極化の代償を初めて同時に測り出しました。",
+    "desc": "2025年7月26日深夜、台湾全土の3分の1の選挙区で同時に開票が行われ、25件の罷免案はすべて否決されました。「青鳥行動」から130万人を超える署名活動、そして3回の投票を経て計33件がすべて不成立に終わったこの事態は、台湾史上最大規模の罷免の波でありながら、一人も罷免することはありませんでした。しかし、これにより民主主義における動員力、罷免のハードルの高さ、そして政治的分極化の代償が、初めて同時に可視化されることとなりました。",
     "city": "新竹"
   },
   {
@@ -16082,6 +16181,17 @@
     "city": "台北"
   },
   {
+    "title": "郷土文学論争：1977年あの「狼が来た」という帽子、そしてそれが後どこへ行ったか",
+    "lat": 25.025096,
+    "lng": 121.563415,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/nativist-literature-debate",
+    "lang": "ja",
+    "desc": "1977年8月20日、余光中が『聯合報』副刊に「狼が来た」を発表し、毛沢東の延安講話を引用し、その中の若干の見解が国内の一部の「文芸批評」と「まさに暗合するところがある」と述べた。文壇内部の「郷土」論争は、これにより政治的色彩を帯びることとなった。1977年4月から1978年1月まで、9ヶ月余りの論争の中で、7月から11月だけで、公式と二大紙が合わせて58本の郷土文学を攻撃する記事を掲載した。高準の『詩潮』創刊号が発禁処分を受け、最後には国軍文芸大会で王昇が郷土の団結を呼びかけ、郷土への愛を国家への愛へと拡大させた。",
+    "city": "台北"
+  },
+  {
     "title": "蘭嶼の核廃棄物：2002年までに撤去すると約束したのに、四十年残された黄色いドラム缶",
     "lat": 22.027153,
     "lng": 121.555756,
@@ -16181,14 +16291,14 @@
     "city": "桃園"
   },
   {
-    "title": "清仏戦争——基隆と淡水の8か月",
+    "title": "清仏戦争：基隆と淡水の8ヶ月間",
     "lat": 25.164531,
     "lng": 121.442933,
     "category": "history",
     "region": "north",
     "link": "/ja/history/sino-french-war-in-taiwan",
     "lang": "ja",
-    "desc": "1884年秋、フランス艦隊が基隆港を砲撃し、2000名の海兵隊が上陸して港を占領しました。しかし彼らは7か月をかけても基隆の山々を抜け出すことができませんでした。同じ週、600名のフランス軍水兵が淡水に上陸し、2時間で海上に追い返されました。戦争が終わったとき、フランスはベトナムを得て、台湾を放棄しました。清朝はあわや負けるところでしたが、それゆえに台湾は附属から一つの省へと格上げされたのです。",
+    "desc": "1884年の秋、フランス艦隊が基隆港を砲撃し、2,000人の海軍陸戦隊が上陸して港を占領しました。しかし、彼らは7ヶ月間、基隆の山嶺から抜け出すことができませんでした。同じ週、600人のフランス水兵が淡水に上陸しましたが、わずか2時間で海へと押し戻されました。戦争が終わったとき、フランスはベトナムを手に入れ、台湾を放棄しました。清朝は危うく敗北するところでしたが、この経験によって台湾は附属地から一つの省へと昇格することになりました。",
     "city": "新北"
   },
   {
@@ -16353,7 +16463,7 @@
     "region": "central",
     "link": "/ja/history/taiwan-military-dependents-villages-history",
     "lang": "ja",
-    "desc": "国民政府が軍の家族を安置するために建設した眷村。竹垣や泥、トタンで作られたわずか数坪の仮住まいから、桃園の忠貞新村のように、ミャンマー北部から撤退してきた孤軍の家族を受け入れた場所まで、流亡と定住、故郷と他郷の狭間で台湾の多様な文化の遺伝子となった歴史を辿ります。",
+    "desc": "国民政府が軍人とその家族を安置するために眷村を建設し始めたことから、竹垣や泥、トタン板で築かれた1坪にも満たない仮初めの家々が生まれました。桃園市の忠貞新村は、ビルマ北部から台湾へ撤退してきた孤軍の家族を受け入れました。彼らは中緬国境で約4年間にわたりゲリラ戦を繰り広げた末に台湾へと辿り着きました。そこには流亡と定住、故郷と異郷という弁証的な意味が込められており、竹垣の家々から公営住宅へと変遷を遂げながら、台湾の多文化における重要な遺伝子となりました。",
     "city": "台中"
   },
   {
@@ -17952,14 +18062,14 @@
     "city": "台北"
   },
   {
-    "title": "鄭愁予：〈錯誤〉を書いた流浪の詩人、最後に金門へ籍を移す",
+    "title": "鄭愁予（てい・しゅうよ）：〈錯誤〉を書いた放浪児、最後は金門に籍を置く",
     "lat": 24.449669,
     "lng": 118.379349,
     "category": "people",
     "region": "islands",
     "link": "/ja/people/cheng-chou-yu-poet",
     "lang": "ja",
-    "desc": "1955 年、22 歳の鄭愁予は『夢土上』で「我達達的馬蹄是美麗的錯誤」と書き、台湾の読者はそれを七十年にわたって恋愛詩として読んできました。しかし晩年、彼はこれは反戦詩であり、日中戦争期に母が内地で父の帰りを待っても帰ってこなかった場面を書いたものだと明らかにしました。2005 年、彼はイェール大学を退職して台湾へ戻り、戸籍を金門県の鄭氏一族の戸内へ移しました。2025 年 6 月 13 日午前 4 時 44 分、彼は米国で心不全により死去し、享年 91 歳でした。",
+    "desc": "1955年、22歳の鄭愁予（てい・しゅうよ）は『夢土上』で「私のダダと響く蹄の音は美しい間違い」と記した。台湾の読者はこれを70年もの間、恋愛詩として読み続けてきた。しかし晩年、彼はこれが反戦詩であり、抗日戦争時代に母親が内地で帰らぬ父を待ち続ける情景を描いたものであると明かした。2005年にイェール大学を退職して台湾へ戻った彼は、金門県の親族の戸籍に入った。2025年6月13日未明、米国にて心不全のため逝去、享年91歳。",
     "city": "金門"
   },
   {
@@ -18355,7 +18465,7 @@
     "region": "south",
     "link": "/ja/people/han-kuo-yu",
     "lang": "ja",
-    "desc": "史上初の解職された直轄市長から、4年後に立法院長に就任。これはどのような政治的軌跡なのか？",
+    "desc": "史上初めて罷免された直轄市の市長であり、その4年後に立法院長に就任しました。これはどのような政治的軌跡なのでしょうか。",
     "city": "高雄"
   },
   {
@@ -19679,14 +19789,14 @@
     "city": "台北"
   },
   {
-    "title": "鄭南榕：外省人の息子が命と引き換えに言論自由を勝ち取った方程式",
+    "title": "鄭南榕（てい・なんよう）：外省出身の青年が命を懸けて勝ち取った言論の自由という数式",
     "lat": 25.028826,
     "lng": 121.565737,
     "category": "people",
     "region": "north",
     "link": "/ja/people/zheng-nanrong",
     "lang": "ja",
-    "desc": "1947年の二二八事件の際、父鄭木森は台湾人隠れ家に匿われて一命を取り留めた。41年後、その夫妻の長男鄭南榕は自らの雑誌社でガソリンに火を放った。1984年『自由時代』を創刊し、24枚の許可証を手に、18回の発売禁止をものともせず刊行を続けた。1988年に許世楷の『台湾共和国憲法草案』を掲載し、1989年4月7日に自焚した。葉菊蘭はその後、政治家として立法委員、交通部長、客委員会主任委員、行政院副院長、總統府秘書長を歴任した。鄭の選択は今なお議論の的である。支持者は殉道と見なし、批判者は過激な個人の選択とみなす。台湾における言論自由の空気はあまりにも日常的であり、多くの人がそれがかつて命と引き換えに勝ち取られたものであったことを忘れかけている。",
+    "desc": "1947年の二二八事件時、父・鄭木森は台湾人の隣人に匿われて命を繋ぎました。その41年後、その夫婦の長男である鄭南榕が自らの雑誌社でガソリンに火を灯しました。1984年に『自由時代』を創刊し、24枚の免許を手に18回の禁令を乗り越え、1989年4月7日に自焚。妻の葉菊蘭氏はその後、立法委員や行政院副院長などを歴任しました。鄭氏の選択は今も議論の的ですが、彼が命と引き換えに守ろうとした言論の自由は、今日の台湾の日常となっています。",
     "city": "台北"
   },
   {
@@ -19844,14 +19954,14 @@
     "city": "台北"
   },
   {
-    "title": "一人の教師の誕生：台湾の教員養成制度の四十年にわたる改革と崩壊",
+    "title": "一人の教師の誕生：台湾の教員養成制度における40年間の改革と崩壊",
     "lat": 25.035015,
     "lng": 121.566338,
     "category": "society",
     "region": "north",
     "link": "/ja/society/becoming-a-teacher-taiwan-teacher-training",
     "lang": "ja",
-    "desc": "1994年、立法院（国会）は「師資培育法（教員養成法）」を可決し、「師範体系一貫制度」を「開放的多元的養成」へと転換した。当時、これは台湾教育史における進歩の里程碑と見なされた。三十年後の数字は冷静である。もともと9校あった教育大学は統合により3校にまで減少し、109学年度の全台教員養成機関の定員割れは過去最多、112〜113年の教員検定合格率は52%に低下（近年最低）、約半数の養成課程学生が教員養成を「保険」として履修し、42%が教員免許取得前に離脱した。ある国が三十年かけて教員制度改革を進めた結果は、教師志望者が減少し、残った人々の訓練が現場からますます乖離するというものだった。",
+    "desc": "1994年に立法院が「師資培育法」を可決し、「師範体系一条龍」から「開放的・多元的な教員養成」へ転換したことは、当時、台湾教育史の進歩的なマイルストーンと見なされた。しかし30年後の数字は冷徹だ。本来9校あった教育大学が統合されてわずか3校に、109学年度の全台湾教員養成機関の募集定員割れが過去最高、112〜113年度の教員資格検定合格率が52%（近年の新低）に低下、教員養成課程の学生の約半数が「保険」として履修し、42%が教員免許取得前に離脱している。一国家が30年かけて教員制度を改革した結果、教師を志す人が減り、残った人々は現場からますます遠い訓練を受けることになった。",
     "city": "台北"
   },
   {
@@ -20108,6 +20218,17 @@
     "city": "台南"
   },
   {
+    "title": "身心障害者：126万人、うち半数が65歳以上という構造",
+    "lat": 25.010848,
+    "lng": 121.468139,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/people-with-disabilities",
+    "lang": "ja",
+    "desc": "2026年6月末時点で、台湾で障害者手帳を保有する人は1,258,972人であり、そのうち65歳以上が638,430人で半数超を占めます。障害類別では「神経系統構造及び精神・心智機能」が395,924人で最多、最重度は128,752人、六都では新北市の189,142人が最多です。労働部の113年（2024年）調査では、15歳以上障害者の労働力参加率は21.9%、失業率7.1%、非労働力人口は91.2万人でした。本稿は衛生福利部と労働部の公式統計を用い、この126万人の年齢・類別・県市・就業構造を分解します。",
+    "city": "新北"
+  },
+  {
     "title": "毒ジャガイモ：200 ppmの外側にある、30 ppmと14日間と、15年ぶんの食品安全の傷跡",
     "lat": 22.682438,
     "lng": 120.491967,
@@ -20185,15 +20306,26 @@
     "city": "彰化"
   },
   {
-    "title": "台湾の野良動物文化：『十二夜』からベンガルヤマネコの死まで、動物保護と野生動物保全のトロッコ問題",
+    "title": "台湾の流浪動物文化：『十二夜』から石虎の死まで、動保と野保のトロッコ問題",
     "lat": 24.554029,
     "lng": 120.818324,
     "category": "society",
     "region": "central",
     "link": "/ja/society/stray-animal-culture",
     "lang": "ja",
-    "desc": "2013 年の『十二夜』は全島を泣かせ、2017 年 2 月、台湾は東アジアで初めてゼロ殺処分の国となりました。8 年後の 2023 年 5 月 11 日午後 6 時、一匹の幼いベンガルヤマネコが放浪猫に噛まれて死にました。農業部の 2022 年調査では全国の放浪犬は 15 万 9697 匹、台湾ベンガルヤマネコ保育協会の自動カメラではベンガルヤマネコの活動地点の 91% に犬がいることが分かりました。動物保護と野生動物保全は対立ではありません。この島には、なお引き受け手のいない命が百万単位で存在します。本稿はどちらかに立つのではなく、まだ答え切れていない問いについて述べます。",
+    "desc": "2013年『十二夜』が全島を泣かせ、2017年2月台湾が東アジア初の零殺処分国家に。8年後の2023年5月11日夕方6時、一匹の子石虎が遊蕩猫の牙の下で死ぬ。農業部2022年調査で全国遊蕩犬15万9697匹、台湾石虎保育協会の自動撮影カメラで石虎活動点の91%に犬が出現。動保と野保は対立ではなく、この島にまだ数百万匹の引き取り手のいない命があるという事実。この記事はどちらの側にも立たず、まだ答えの出ていない問いを語る。",
     "city": "苗栗"
+  },
+  {
+    "title": "台南鉄道地下化：都市の縫合、その代償を払った340世帯",
+    "lat": 23.001103,
+    "lng": 120.222655,
+    "category": "society",
+    "region": "south",
+    "link": "/ja/society/tainan-underground-railway",
+    "lang": "ja",
+    "desc": "2026年10月、台南鉄道地下化の第1段階が開通し、8.23kmの軌道が地上から地下へと移りました。1991年に計画され、2009年に行政院によって承認されたこの事業は、予算412億元を投じ、「東側永久軌案」の採用により340世帯の立ち退きを余儀なくされました。そのうち323世帯は2012年に自救会を結成して抗議しましたが、2021年に最後の1世帯が強制撤去されるに至りました。開通式典において、頼清徳総統は立ち退きを強いられた住民に対し謝罪しました。",
+    "city": "台南"
   },
   {
     "title": "台北の鼠害：1896年の総督府のペスト令から、2026年の大安区的ハンタウイルスまで",
@@ -20347,6 +20479,17 @@
     "link": "/ja/society/taiwan-indigenous-education-and-language-revival",
     "lang": "ja",
     "desc": "2012年、屏東県泰武小学校のパイワン族教師チャマク・ファラウレは、録音機で長老の口から古謡を採集し、子どもたちを率いて金曲賞（台湾のグラミー賞）に進出させた。2017年「原住民族語言發展法」により、族語は国家言語に昇格した。2019年「原住民族教育法」には「10年で達成」の教師比率条項が盛り込まれた。小学校段階の原住民族実験学校は25校から38校に増加した。しかし中学校に上がると、システム全体が崩壊する：台湾全体の原住民族実験中学校はわずか6校、大学段階の原住民学生の粗就学率は56.3%で、一般学生より35.3ポイント低い。チャマクは2021年に逝去、享年42歳。小学校は守れる、中学校はつなげられない。断層はまだそこにある。",
+    "city": "台北"
+  },
+  {
+    "title": "台湾の平均余命：81.27歳、そして全国平均から9歳離れた県市",
+    "lat": 25.033772,
+    "lng": 121.557831,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/taiwan-life-expectancy",
+    "lang": "ja",
+    "desc": "内政部が2026年8月に公表した114年（2025年）簡易生命表によると、国民の平均寿命は81.27歳（女性84.75歳、男性77.93歳）で、113年比0.50歳増加したが、コロナ禍初期の109年と比べると依然として0.05歳低い。本稿では生命表の算出方法、六都が台北市の83.98歳から高雄市の79.80歳へと北から南へ逓減する理由、台東県の76.49歳が全国平均とどう離れているかを解説し、男女差6.82歳と台東県の男女差9.24歳という二つの数字を分解し、各年齢層の平均余命と国連の国際比較座標を補足する。",
     "city": "台北"
   },
   {
@@ -20680,14 +20823,14 @@
     "city": "台北"
   },
   {
-    "title": "飲料カップシーラー：一杯の大根スープの着想から世界の台湾式ハンドシェイクドリンクを支える技術基盤へ",
+    "title": "飲料封膜機：一碗大根スープからの着想が世界の手作りドリンクを支える技術の柱に",
     "lat": 22.626605,
     "lng": 120.299604,
     "category": "technology",
     "region": "south",
     "link": "/ja/technology/beverage-sealing-machine",
     "lang": "ja",
-    "desc": "1984 年、葉益芳は世界初の卓上型カップシーラーの原型を完成させ、1985 年に益芳を創業しました。自宅の居間を実験室にし、電気アイロン 200 本を焼き切りながら試行錯誤して生まれたこの機械は、カップ素材、フィルム、温度、圧力という 4 つの要素を統合し、テイクアウト飲料の液漏れ問題を終わらせました。さらに台湾の手搖飲、すなわち注文後にその場で調製する台湾式ドリンクが世界 35 カ国へ広がる供給網の基盤を支えた、千億規模の飲料産業を下支えする無名の発明でもあります。",
+    "desc": "1984年、葉益芳氏が世界初の卓上型シール機試作機を完成させ、翌年益芳公司を設立。リビングの実験室で電気アイロン200本を焼き切って試行錯誤の末に生まれたこの機械は、カップ素材・フィルム・温度・圧力の4パラメータを統合し、持ち帰りドリンクの漏れ問題を解決。台湾の手作りドリンクが世界35か国へ広がるサプライチェーンの基盤となり、数千億台湾ドル規模の飲料産業を支える無名の発明となった。",
     "city": "高雄"
   },
   {
@@ -20955,14 +21098,14 @@
     "city": "新竹"
   },
   {
-    "title": "「AIが教室に入り込む：三百の代理人と、研修後に孤立する教師たち」",
+    "title": "AI が教室へ：300 体のエージェント、研修後の孤独な教師を支える",
     "lat": 25.028994,
     "lng": 121.559071,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/taiwan-teachers-and-ai-education",
     "lang": "ja",
-    "desc": "2026年、徐臺屏（シー・タイピン）氏は約80名の教師が設計した300のAI代理人を共有マーケットに投入しました。台湾の二つの調査は異なる側面を示しています。一つは9割の教師がAIに触れていること、もう一つは95.6%が依然として学習ニーズを持っていることです。大佳（ダーチャ）小学校での3時間の研修、内湖高校での「漚客（タンケ）」テスト、そして教育部の人材方舟計画に至るまで、本稿では問いを立てます。ツールは教室に入りましたが、学校に戻った教師を誰が支えるのでしょうか？これはツールの普及後に生じる、より困難な教育工学の問題です。",
+    "desc": "2026 年、徐台屏（ジョ・タイピン／シュー・タイピン）が約 80 名の教師によって設計された 300 体の AI エージェントを共有マーケットプレイスに公開。台湾の 2 つの調査で「9 割の教師が AI に接触」と「95.6% が依然として学習ニーズを持つ」という対照的な結果が示される。大佳（ダージア）国小の 3 時間研修、内湖（ネイフー）高中の「オーケー（難癖客）」テスト、文部省（教育部）の人材方舟計画まで、本稿は問う：ツールはすでに教室に入ったが、学校に戻った教師を誰が支えるのか。これはツール普及の後に待つ、より困難な教育工学である。",
     "city": "台北"
   },
   {
@@ -21030,17 +21173,6 @@
     "lang": "ja",
     "desc": "2007年の台北Wikimania開催から2021年の財団によるグローバルな対応まで、台湾のウィキコミュニティはクラウド上での系統的な浸透と戦うだけでなく、ウィキペディア愛古蹟（Wiki Loves Monuments）・GLAM連携・教育プロジェクトを通じて、台湾の文化遺産・学術的視点・先住民族語を国際社会へ発信し続けている。これは真の姿を守り、文化的レジリエンスを深める長い歩みだ。",
     "city": "台北"
-  },
-  {
-    "title": "장셴얼: 대만을 떠난 지 45년, 집으로 돌아온 뒤에야 생애 최고의 그림을 그릴 수 있었다",
-    "lat": 22.760069,
-    "lng": 121.137692,
-    "category": "art",
-    "region": "east",
-    "link": "/ko/art/chiang-hsien-yi",
-    "lang": "ko",
-    "desc": "1967년 겨울, 스물다섯 살의 장셴얼은 자코메티를 찾아 파리로 달려갔지만, 우상이 이미 전년에 세상을 떠났다는 사실을 알게 되었다. 이후 45년 동안 그는 뉴욕 SoHo에서 창문을 막고 마음속의 빛을 찾았고, 1975년 Lamagna 갤러리에서는 그림 한 점도 팔지 못했다. 1990년대 아버지가 넘어져 다친 그해, 그는 룽산사의 향연 속으로 돌아가 ‘백년묘’를 그렸다. 2008년 예순다섯 살에 타이둥 진쭌에 정착했고, 2025년 장셴얼 예술단지가 개막했을 때 그는 이미 여든세 살이었다.",
-    "city": "台東"
   },
   {
     "title": "금마장: 국어 영화만 받던 것에서 국적을 불문하는 것으로, 자국 영화가 자주 패해도 문을 닫지 않다",
@@ -21217,6 +21349,17 @@
     "lang": "ko",
     "desc": "1947년, 신주 현 쑹린의 판양카이(范揚開)는 하교 후 약 2.5kg의 얼음 통을 등에 업고 얼음을 팔았다. 1950~1970년대, 자전거 노점상은 고무 풍선 호루라기를 이용해 얼음을 골목 안으로 보냈다. 항구에서의 제빙, 전분 특유의 쫄깃한 식감, 아이들이 감당해야 하는 녹는 얼음의 위험까지. '바푸(叭噗)'가 보존한 것은 삼색의 외관이 아니라, 소리와 기구, 노동을 통해 음식이 사람과 만나는 방식이다.",
     "city": "屏東"
+  },
+  {
+    "title": "시나부(cinavu): 파이완족의 잎으로 감싼 조, 그리고 함께 먹어야 하는 지아수안장(假酸漿) 잎",
+    "lat": 25.017348,
+    "lng": 121.466955,
+    "category": "food",
+    "region": "north",
+    "link": "/ko/food/cinavu",
+    "lang": "ko",
+    "desc": "2019년, 파이완족 어린이 합창단 '타이우 고요 전창'이 호주에서 cinavu 레시피를 선보였으나 재료 중 지아수안장이 영어로 번역되지 않고 pinyin인 jiasuanjiang으로 표기되었다. 시나부(또는 지나푸)는 파이완족이 조 또는 토란 가루로 돼지고기를 감싸고 두 겹의 잎으로 싸서 찌는 음식으로, 부족마다 명칭과 조리법이 다르다. 흔히 '원주민 쫑즈(粽子)'라 불리지만, 쌀에 밀착된 지아수안장 잎을 함께 먹어야 한다는 점이 일반적인 쫑즈와 다르다.",
+    "city": "新北"
   },
   {
     "title": "후즈장(鬍鬚張): 명사가들의 비난으로 탄생한 한 그릇의 루러우판(루육반)",
@@ -21494,6 +21637,17 @@
     "city": "台東"
   },
   {
+    "title": "타이완 철도 지하화: 철로가 땅 밑으로 들어간 뒤, 지상의 계산은 이제부터 시작이다",
+    "lat": 22.633303,
+    "lng": 120.29746,
+    "category": "geography",
+    "region": "south",
+    "link": "/ko/geography/taiwan-rail-undergrounding",
+    "lang": "ko",
+    "desc": "타이베이는 4개 프로젝트를 통해 20여 년간 도심 철도를 지하화했고, 가오슝은 12년 동안 약 1,000억 대만 달러를 투입해 일괄 시공했으며, 타이난은 2026년 10월 개통을 앞두고 있다. 가오슝의 첫 열차 연착부터 타이베이역 인근 '타이베이 쌍성' 프로젝트의 지연까지, 세 도시의 사례를 통해 철도 지하화 이후 지상에 남겨진 과제들을 살펴본다.",
+    "city": "高雄"
+  },
+  {
     "title": "우구(烏坵): 섬 중의 섬, 잊힌 군사 고도와 핵폐기물 그림자",
     "lat": 24.443312,
     "lng": 118.372141,
@@ -21769,14 +21923,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "샤오메이친(蕭美琴)",
+    "title": "샤오메이친",
     "lat": 23.998843,
     "lng": 121.607729,
     "category": "people",
     "region": "east",
     "link": "/ko/people/hsiao-bi-khim",
     "lang": "ko",
-    "desc": "일본 출생, 타이난 초등학교, 뉴저지 성장, 오버린 졸업한 '전쟁 고양이(戰貓)'가 어떻게 타이완 역사상 가장 성공적인 대미 대표가 되어 부총통의 자리에 오르게 되었는가?",
+    "desc": "일본에서 태어나 타이난에서 초등학교를 다니고, 뉴저지에서 성장하여 유럽 베를린에서 졸업한 '전묘(戰貓)'가 어떻게 대만 역사상 가장 성공적인 대미 대표가 되어 부통령의 자리에 오르게 되었나?",
     "city": "花蓮"
   },
   {
@@ -22031,6 +22185,17 @@
     "lang": "zh-TW",
     "desc": "Administrativamente, Zhongli é um distrito de Taoyuan, mas no cotidiano funciona como o núcleo urbano do sul de Taoyuan. Da vila de Chianzi-lut à cidade condal de Taoyuan até o distrito de Zhongli do município especial, compreender sua história, transporte, campi, indústria, etnias, rios Laojie e Xinjie, culinária e identidade local explica por que \"Zhongli e Taoyuan são diferentes\" não é apenas uma disputa verbal, mas o resultado da sobreposição prolongada de nomes administrativos, círculos de vida urbana e regionalização norte-sul de Taoyuan.",
     "city": "桃園"
+  },
+  {
+    "title": "Cinavu: o alimento de milho envolto em folhas do povo Paiwan e a folha de jiasuanjiang que deve ser comida junto",
+    "lat": 25.014529,
+    "lng": 121.461257,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "Em 2019, o coral infantil Taiwu Ancient Ballads levou uma receita de cinavu para a Austrália, mas a folha de jiasuanjiang não foi traduzida, apenas escrita em pinyin.",
+    "city": "新北"
   },
   {
     "title": "Vinho de sorgo de Kinmen: como uma garrafa de suprimento de frente de batalha se tornou a memória compartilhada de um lugar",
@@ -22473,6 +22638,17 @@
     "city": "桃園"
   },
   {
+    "title": "cinavu (кинафу): блюдо народа пайвань из проса в листьях, которые нужно съесть вместе с ним",
+    "lat": 25.018392,
+    "lng": 121.459039,
+    "category": "food",
+    "region": "north",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "В 2019 году детский хор Тайву привез рецепт cinavu в Австралию, но название ингредиента «jiasuanjiang» оставили на пиньине. Cinavu — это блюдо пайвань из проса или муки из таро с начинкой из свинины, завернутое в два слоя листьев. В отличие от цзунцзы, внутренний слой листьев съедается вместе с крупой.",
+    "city": "新北"
+  },
+  {
     "title": "Даси дофугань: после упадка речного порта, как чёрный дофугань унёс ностальгию жителей Даси за пределы города",
     "lat": 24.883,
     "lng": 121.29,
@@ -22625,6 +22801,17 @@
     "lang": "zh-TW",
     "desc": "От «ведьмовского раствора» до входа в топ-15 мировых геотермальных держав: как столкновение плит выковало исцеляющий код этого острова",
     "city": "台東"
+  },
+  {
+    "title": "Подземное размещение железных дорог на Тайване: когда рельсы уходят под землю, начинаются настоящие расчеты",
+    "lat": 22.619304,
+    "lng": 120.307034,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "Тайбэй реализовывал четыре проекта более 20 лет; Гаосюн потратил 12 лет и почти 100 млрд NT$; открытие в Тайнане намечено на октябрь 2026 года.",
+    "city": "高雄"
   },
   {
     "title": "Улица Ванькан: где жили японские профессора, прибывали переселенцы с материка, а сегодня останавливаются туристы из Японии и Кореи",
@@ -22844,17 +23031,6 @@
     "link": "/art/chi-po-hao-musician",
     "lang": "zh-TW",
     "desc": "Po-Hao Chi, sinh năm 1989, là nghệ sĩ âm thanh, nhạc sĩ soạn nhạc và người quản lý triển lãm. Tốt nghiệp Khoa Kinh tế Đại học Đài Loan (NTU), sau đó học Thạc sĩ Âm nhạc tại Goldsmiths Luân Đôn; năm 2021 đã giành giải thưởng Harold and Arlene Schnitzer Prize Mỹ thuật hàng đầu với tư cách Thạc sĩ MIT Art, Culture and Technology. Năm 2014 được chọn tham gia Giải thưởng Mỹ thuật Đài Bắc đồng thời, nhận tài trợ từ Bảo tàng Mỹ thuật Quốc gia để lưu trú tại V2 Rotterdam, được chọn tham gia Dự án «Người Lưu Lạc» lần thứ 11 của Nhóm Vũ điệu Vân Môn; năm 2015 traversed hơn một nghìn cây số dọc theo Hẻm Hà Tây. Năm 2017 thành lập Zone Sound Creative. Năm 2025 trình bày «Reciter(s) 2.0» tại C-LAB DIVERSONICS, đồng thời được chọn tham gia Polyphony của Bảo tàng Mỹ thuật Đài Loan tại Ars Electronica 2025 với tác phẩm «Cybernetics of Waterscape»; năm 2026 tham gia Xưởng làm việc IRCAM Forum tại Paris vào tháng 3, năm 2026 tháng 4 trưng bày tác phẩm «Life in Motion» tại The Music Center ở Los Angeles. Anh dùng thuật toán, GPS, giọng nói tổng hợp AI để đo lường thế giới, nhưng luôn đặt câu hỏi cùng một điều: Liệu «lắng nghe» có phải là một hành động có ý chí riêng?",
-    "city": "台北"
-  },
-  {
-    "title": "Tranh tường Đài Loan: Từ kẻ ngoài vòng pháp luật giữa đêm đến ánh sáng thành phố ở Tây Môn Ngoạ",
-    "lat": 25.025917,
-    "lng": 121.559033,
-    "category": "art",
-    "region": "north",
-    "link": "/art/graffiti-and-street-art-in-taiwan",
-    "lang": "zh-TW",
-    "desc": "Năm 1989, Lỗ Học Uyên phun ra dòng kẻ đầu tiên trên đường Dân Sinh Đông, mở ra lịch sử ngầm của tranh tường Đài Loan. Từ truyền thuyết thành thị của Đại Tràng Vương đến lời chỉ trích xã hội của Candy Bird, cuộc chơi trốn tránh với cục quản lý môi trường suốt ba mươi năm này đang định nghĩa lại thẩm mỹ thành phố Đài Loan.",
     "city": "台北"
   },
   {

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "generator": "scripts/tools/article-census.py",
-  "head": "376e7895f",
+  "head": "6640b020b",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1184,
+  "n": 1189,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-21",
-      "end": "2026-11-18",
+      "start": "2026-10-22",
+      "end": "2026-11-19",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,35 +38,35 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 5, "B": 3, "C": 907, "D": 243 },
-  "curation_counts": { "none": 141, "incubating": 1041, "verified": 2 },
-  "curation_reason_counts": { "none": 361, "unverified": 568, "thin": 112 },
-  "cover_counts": { "local": 277, "none": 907 },
-  "c_subtypes": { "C3": 769, "C2": 133, "C1": 5 },
+  "tier_counts": { "A": 5, "B": 3, "C": 912, "D": 248 },
+  "curation_counts": { "none": 141, "incubating": 1046, "verified": 2 },
+  "curation_reason_counts": { "none": 366, "unverified": 568, "thin": 112 },
+  "cover_counts": { "local": 277, "none": 912 },
+  "c_subtypes": { "C3": 774, "C2": 133, "C1": 5 },
   "distribution": {
     "all": {
-      "n": 1175,
+      "n": 1180,
       "cjk": {
-        "p5": 1276,
-        "p10": 1500,
-        "p25": 2030,
-        "p33": 2414,
-        "p50": 3139,
-        "p75": 4625,
-        "p90": 6046,
-        "n": 1175,
-        "mean": 3555.0
+        "p5": 1261,
+        "p10": 1486,
+        "p25": 2018,
+        "p33": 2390,
+        "p50": 3131,
+        "p75": 4624,
+        "p90": 6018,
+        "n": 1180,
+        "mean": 3545.3
       },
       "fn_defs": {
         "p5": 0,
         "p10": 0,
         "p25": 7,
-        "p33": 9,
+        "p33": 8,
         "p50": 11,
         "p75": 20,
         "p90": 36,
-        "n": 1175,
-        "mean": 15.9
+        "n": 1180,
+        "mean": 15.8
       }
     },
     "walked_rewrite": {
@@ -95,17 +95,17 @@
       }
     },
     "no_evidence": {
-      "n": 600,
+      "n": 605,
       "cjk": {
-        "p5": 1245,
-        "p10": 1376,
-        "p25": 1800,
-        "p33": 2008,
-        "p50": 2672,
-        "p75": 3778,
+        "p5": 1216,
+        "p10": 1357,
+        "p25": 1786,
+        "p33": 1986,
+        "p50": 2657,
+        "p75": 3765,
         "p90": 4707,
-        "n": 600,
-        "mean": 2916.3
+        "n": 605,
+        "mean": 2902.8
       },
       "fn_defs": {
         "p5": 0,
@@ -115,22 +115,22 @@
         "p50": 10,
         "p75": 14,
         "p90": 20,
-        "n": 600,
-        "mean": 10.9
+        "n": 605,
+        "mean": 10.8
       }
     },
     "incubating": {
-      "n": 1041,
+      "n": 1046,
       "cjk": {
-        "p5": 1257,
-        "p10": 1462,
-        "p25": 1963,
-        "p33": 2325,
-        "p50": 3134,
+        "p5": 1247,
+        "p10": 1447,
+        "p25": 1948,
+        "p33": 2315,
+        "p50": 3114,
         "p75": 4626,
-        "p90": 6062,
-        "n": 1041,
-        "mean": 3548.5
+        "p90": 6046,
+        "n": 1046,
+        "mean": 3537.6
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 12,
         "p75": 20,
         "p90": 36,
-        "n": 1041,
-        "mean": 16.1
+        "n": 1046,
+        "mean": 16.0
       }
     },
     "recent_45d": {
-      "n": 62,
+      "n": 67,
       "cjk": {
         "p5": 999,
         "p10": 1141,
-        "p25": 1331,
-        "p33": 1535,
-        "p50": 1776,
-        "p75": 2325,
-        "p90": 3140,
-        "n": 62,
-        "mean": 2327.5
+        "p25": 1296,
+        "p33": 1499,
+        "p50": 1685,
+        "p75": 2211,
+        "p90": 3009,
+        "n": 67,
+        "mean": 2249.6
       },
       "fn_defs": {
         "p5": 1,
@@ -165,8 +165,8 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 62,
-        "mean": 11.8
+        "n": 67,
+        "mean": 11.1
       }
     }
   },
@@ -837,6 +837,17 @@
         "fn": 0
       },
       {
+        "path": "knowledge/Economy/國債鐘.md",
+        "title": "國債鐘：5.84 兆、每人 25.3 萬，與 2026 年那條先衝高再回落的線",
+        "category": "Economy",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1059、腳註 3、段落 31 段／中位 27 字",
+        "cover": "none",
+        "cjk": 1059,
+        "fn": 3
+      },
+      {
         "path": "knowledge/Economy/夜市經濟學.md",
         "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
         "category": "Economy",
@@ -857,6 +868,28 @@
         "cover": "none",
         "cjk": 1079,
         "fn": 1
+      },
+      {
+        "path": "knowledge/Economy/太陽光電.md",
+        "title": "太陽光電：20GW 的目標，與 14.28GW 的現實",
+        "category": "Economy",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1171、腳註 1、段落 23 段／中位 41 字",
+        "cover": "none",
+        "cjk": 1171,
+        "fn": 1
+      },
+      {
+        "path": "knowledge/Economy/投保薪資的天花板.md",
+        "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
+        "category": "Economy",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1296、腳註 3、段落 29 段／中位 38 字",
+        "cover": "none",
+        "cjk": 1296,
+        "fn": 3
       },
       {
         "path": "knowledge/Economy/照護連續性.md",
@@ -1297,6 +1330,17 @@
         "cover": "none",
         "cjk": 1667,
         "fn": 1
+      },
+      {
+        "path": "knowledge/History/道明會在台灣.md",
+        "title": "兩次登陸：道明會在台灣的 1626 與 1859",
+        "category": "History",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "4 軸弱：字數 1694、腳註 3、零媒體、段落 34 段／中位 44 字",
+        "cover": "none",
+        "cjk": 1694,
+        "fn": 3
       },
       {
         "path": "knowledge/Lifestyle/偏鄉醫療.md",
@@ -2597,6 +2641,17 @@
         "fn": 5
       },
       {
+        "path": "knowledge/Society/原住民族語言政策.md",
+        "title": "原住民族語言政策：九成流失之後，家庭成了主戰場",
+        "category": "Society",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1195、腳註 3、段落 24 段／中位 44 字",
+        "cover": "none",
+        "cjk": 1195,
+        "fn": 3
+      },
+      {
         "path": "knowledge/Society/台南鐵路地下化.md",
         "title": "台南鐵路地下化：城市縫合了，代價落在三百四十戶身上",
         "category": "Society",
@@ -3084,7 +3139,6 @@
     "knowledge/People/徐巧芯.md",
     "knowledge/People/蕭上農.md",
     "knowledge/People/魏哲家.md",
-    "knowledge/Music/張懸與安溥.md",
     "knowledge/People/三毛.md",
     "knowledge/People/施明德.md",
     "knowledge/Technology/雪山隧道.md",
@@ -3265,8 +3319,11 @@
     "knowledge/Economy/台灣離岸風電.md",
     "knowledge/Economy/台灣電價機制與台電.md",
     "knowledge/Economy/台糖.md",
+    "knowledge/Economy/國債鐘.md",
     "knowledge/Economy/夜市經濟學.md",
     "knowledge/Economy/天然氣.md",
+    "knowledge/Economy/太陽光電.md",
+    "knowledge/Economy/投保薪資的天花板.md",
     "knowledge/Economy/新創生態系.md",
     "knowledge/Economy/旺旺.md",
     "knowledge/Economy/照護連續性.md",
@@ -3410,6 +3467,7 @@
     "knowledge/History/西班牙北台灣十六年.md",
     "knowledge/History/迪士尼.md",
     "knowledge/History/退出聯合國.md",
+    "knowledge/History/道明會在台灣.md",
     "knowledge/History/鄉土文學論戰.md",
     "knowledge/History/阿里山：帝國的林場與高一生的山.md",
     "knowledge/History/鶯歌陶瓷老街.md",
@@ -3468,6 +3526,7 @@
     "knowledge/Music/台灣音樂產業與串流時代.md",
     "knowledge/Music/台灣音樂祭文化.md",
     "knowledge/Music/合唱團.md",
+    "knowledge/Music/張懸與安溥.md",
     "knowledge/Music/拍謝少年.md",
     "knowledge/Music/滅火器樂團.md",
     "knowledge/Music/濁水溪公社.md",
@@ -3732,6 +3791,7 @@
     "knowledge/Society/全社會防衛韌性.md",
     "knowledge/Society/公共政策網路參與平臺.md",
     "knowledge/Society/動物園與展演動物倫理.md",
+    "knowledge/Society/原住民族語言政策.md",
     "knowledge/Society/台北鼠患.md",
     "knowledge/Society/台南鐵路地下化.md",
     "knowledge/Society/台灣偏鄉教育.md",
