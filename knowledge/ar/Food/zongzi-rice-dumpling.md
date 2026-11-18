@@ -3,7 +3,6 @@ title: 'الزونجزي'
 description: 'ليس الزونجزي في تايوان مجرد طعام، بل أربع ذكريات جزيرة متداخلة: مين نان، هكا، منطقة الوطن الخارجي، والسكان الأصليين؛ كل قضمة تذوقها هي رحلة عائلية.'
 date: 2026-04-05
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
   [
     'عيد الخضام',
@@ -14,16 +13,19 @@ tags:
     'السكان الأصليين',
     'طعام المناسبات',
   ]
+subcategory: '節慶飲食'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-07-25T09:23:16+08:00'
+translatedAt: '2026-11-18T16:04:27.115007+00:00'
 ---
 
 # الزونجزي

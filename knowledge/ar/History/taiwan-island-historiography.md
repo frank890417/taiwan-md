@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-27T06:10:23+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T16:33:38.512797+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:** إذا سألنا فقط «من حكم تايوان»، يتحول تاريخ تايوان إلى جدول لتسليم السلطة: الهولنديون، الإسبان، سلالة تشنغ، إمبراطورية تشينغ، الإمبراطورية اليابانية، جمهورية الصين (تايوان) تناوبت على الظهور. يغير منظور تاريخ تايوان الجُزري السؤال إلى: بين مجيء هذه القوى وذهابها، ماذا حدث لسكان هذه الجزيرة؟ كيف هاجروا، وتاجروا، وحُكموا، وقاوموا، وتحابوا، وعانوا الكوارث، وأعادوا البناء، وأخيرًا حولوا المؤسسات الخارجية والذكريات المتعددة إلى حياتهم الخاصة؟ في عام 1990، طرح المؤرخ تساو يونغ-هه مفهوم «تاريخ تايوان الجُزري»؛ ثم حول باحثون ومتاحف وتعليم وثقافة عامة هذا المفهوم إلى حدس يومي أكثر: الهوية لا تأتي فقط من النسب أو الوطن الأم، بل أيضًا من تجربة العيش والنجاة المشتركين على جزيرة واحدة.[^1][^2]
@@ -166,9 +168,9 @@ _المتحف الوطني لتاريخ تايوان. منظور تاريخ تا
 
 ## مصادر الصور
 
-- الصورة الرئيسية: خريطة فورموزا التي رسمها الهولنديون عام 1640، ويكيميديا كومنز، ملكية عامة. الملف الأصلي: [خريطة فورموزا-تايوان 1640 من رسم الهولنديين](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- خريطة تايوان عام 1880: ستانفورد/مكتبة الكونغرس، ويكيميديا كومنز، ملكية عامة. الملف الأصلي: [خريطة تايوان (فورموزا) عام 1880 (مكتبة الكونغرس)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- مظهر المتحف الوطني لتاريخ تايوان: Pbdragonwang، ويكيميديا كومنز، CC BY-SA 3.0. الملف الأصلي: [المتحف الوطني لتاريخ تايوان 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- الصورة الرئيسية: خريطة هولندية لـ «فورموزا» عام 1640، Wikimedia Commons، ملكية عامة. الملف الأصلي: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- خريطة تايوان عام 1880: Stanford's／Library of Congress، Wikimedia Commons، ملكية عامة. الملف الأصلي: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- المظهر الخارجي للمتحف الوطني لتاريخ تايوان: Pbdragonwang، Wikimedia Commons، CC BY-SA 3.0. الملف الأصلي: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## المراجع
 

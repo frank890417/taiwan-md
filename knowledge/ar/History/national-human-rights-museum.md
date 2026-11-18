@@ -29,14 +29,17 @@ imageCredit: '總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg'
 sporeLinks:
-  [
-    "{'id': 93, 'platform': 'threads', 'date': '2026-05-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'}",
-  ]
+  - id: 93
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
-translatedAt: '2026-07-30T03:55:59+08:00'
+translatedAt: '2026-11-18T16:21:45.105079+00:00'
 ---
 
 # متحف تايوان الوطني لحقوق الإنسان: الأسماء التي لم تُكتب على نصب الدموع
