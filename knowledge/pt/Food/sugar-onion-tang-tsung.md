@@ -1,10 +1,8 @@
 ---
 title: 'Tang-tsung: o «açúcar de resistência» escondido nos orifícios brancos'
 description: 'Na década de 1940, agricultores de Taiwan, para escapar ao monopólio do açúcar de cana pela polícia japonesa, puxaram xarope marrom-escuro até formar tubos brancos como a neve, semelhantes a cebolinhas — a «arte do disfarce» dos camponeses, cristalização de uma sabedoria popular centenária. Os precisos 16 orifícios grandes e 16 pequenos em cada pedaço de tang-tsung sustentaram a doce e crocante resistência de Taiwan por um século inteiro.'
-date: '2026-04-23'
-author: 'Taiwan.md'
+date: 2026-04-23
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Comida',
@@ -15,15 +13,19 @@ tags:
     'História-da-indústria-açucareira',
     'Cultura-de-resistência',
   ]
-readingTime: '15'
-lastVerified: '2026-04-23'
-lastHumanReview: 'false'
+subcategory: '飲食場景'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-04-23
+lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-18T17:10:29.773121+00:00'
 ---
 
 # Tang-tsung: o «açúcar de resistência» escondido nos orifícios brancos

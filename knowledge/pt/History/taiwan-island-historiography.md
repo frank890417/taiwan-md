@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-27T05:54:43+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T17:43:15.956543+00:00'
 ---
 
 > **Resumo em 30 segundos:** Se se perguntar apenas «quem governou Taiwan», a história de Taiwan torna-se uma tabela de transição de regimes: holandeses, espanhóis, clã Zheng, império Qing, império japonês, República da China sucedem-se. A visão histórica da ilha de Taiwan muda a pergunta: entre idas e vindas destes regimes, o que aconteceu às pessoas desta ilha? Como migraram, comerciaram, foram governadas, resistiram, amaram, sofreram desastres, reconstruíram, e por fim transformaram instituições externas e memórias múltiplas na sua própria vida? Em 1990, o historiador Cao Yonghe (曹永和) propôs o conceito de «história da ilha de Taiwan»; depois, académicos, museus, educação e cultura pública transformaram-no numa intuição mais quotidiana: a identidade não vem só do sangue ou da pátria-mãe, mas também da experiência de viver e sobreviver juntos na mesma ilha.[^1][^2]
@@ -166,9 +168,9 @@ Quando dizemos «nós nesta ilha», não é mito de sangue, nem história de etn
 
 ## Fontes das imagens
 
-- Imagem principal: Mapa de Formosa desenhado por holandeses em 1640, Wikimedia Commons, domínio público. Ficheiro original: [Mapa de 1640 de Formosa-Taiwan por holandeses](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- Mapa de Taiwan de 1880: Stanford's / Library of Congress, Wikimedia Commons, domínio público. Ficheiro original: [Mapa de Taiwan (Formosa) em 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- Fachada do Museu Nacional de História de Taiwan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Ficheiro original: [Museu Nacional de História de Taiwan 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Hero: mapa de Formosa de 1640 desenhado por holandeses, Wikimedia Commons, domínio público. Arquivo original: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- Mapa de Taiwan de 1880: Stanford's/Biblioteca do Congresso, Wikimedia Commons, domínio público. Arquivo original: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Fachada do Museu Nacional de História de Taiwan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Arquivo original: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## Referências
 

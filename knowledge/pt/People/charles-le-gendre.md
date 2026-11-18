@@ -2,27 +2,31 @@
 title: 'Charles Le Gendre: o signatário e o traidor são a mesma pessoa'
 description: 'Em 1867, o navio comercial americano Rover naufragou na península de Hengchun e 14 pessoas foram mortas pelo povo Paiwan. O cônsul americano Charles Le Gendre veio a Taiwan oito vezes para negociar e assinou um acordo com o líder indígena Tauketok sem a participação do governo Qing. Depois, levando todo o seu conhecimento sobre Formosa, mudou-se para o governo japonês. Cinco anos depois, o Japão usou suas informações para enviar tropas a Taiwan.'
 date: 2026-04-12
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史人物'
 tags:
-  - 'Incidente do Rover'
-  - 'Incidente de Mudan'
-  - 'Diplomacia indígena'
-  - 'Charles Le Gendre'
-  - 'Tauketok'
-  - 'Século XIX'
-  - 'Cônsul americano'
-  - 'Seqalu'
+  [
+    'Incidente do Rover',
+    'Incidente de Mudan',
+    'Diplomacia indígena',
+    'Charles Le Gendre',
+    'Tauketok',
+    'Século XIX',
+    'Cônsul americano',
+    'Seqalu',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李仙得.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: '2026-07-25T05:00:10+08:00'
-image: ''
+translatedAt: '2026-11-18T17:09:48.184150+00:00'
 ---
 
 # Charles Le Gendre: o signatário e o traidor são a mesma pessoa
