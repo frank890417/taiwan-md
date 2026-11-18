@@ -2,9 +2,7 @@
 title: 'Culture des animaux errants à Taïwan : de Douze nuits à la mort du chat-léopard, le dilemme du tramway entre protection animale et conservation de la faune'
 description: "En 2013, Douze nuits a fait pleurer toute l'île ; en février 2017, Taïwan est devenu le premier pays d'Asie de l'Est à appliquer une politique de zéro abattage. Huit ans plus tard, le 11 mai 2023 à six heures du soir, un jeune chat-léopard mourait entre les mâchoires d'un chat errant ; l'enquête 2022 du ministère de l'Agriculture dénombrait 159 697 chiens errants dans tout le pays, et les caméras automatiques de l'Association taïwanaise de conservation du chat-léopard ont constaté que 91 % des sites d'activité du chat-léopard étaient aussi fréquentés par des chiens. Protection animale et conservation de la faune ne sont pas opposées : il reste sur cette île des centaines de milliers de vies dont personne ne prend la responsabilité. Cet article ne prend pas parti ; il raconte une question à laquelle aucune réponse n'a encore été donnée."
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'animaux errants',
@@ -18,19 +16,23 @@ tags:
     'refuge',
     'culture de l’adoption',
   ]
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
 readingTime: 22
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:6b2ce60c50966bdc'
-sourceBodyHash: 'sha256:6f79d66a90a09b62'
-translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
 imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣流浪動物文化.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:d73033c3d023379b'
+sourceBodyHash: 'sha256:452ee75046f1da55'
+translatedAt: '2026-11-18T13:45:23.795979+00:00'
 ---
 
 # Culture des animaux errants à Taïwan : de Douze nuits à la mort du chat-léopard, le dilemme du tramway entre protection animale et conservation de la faune
@@ -96,31 +98,29 @@ Un film, deux ans de mobilisation, une loi. L'histoire des animaux errants à Ta
 
 ---
 
-## L'oreille de Fan Fan : le signe de la rue
+## Les oreilles de Fanfan : les marques de la rue
 
-Si vous voyez dans une rue de Taïwan un chien ou un chat auquel il manque un petit coin d'oreille, c'est la marque d'une histoire : celle du **TNR**, et non d'une blessure.
+Si vous voyez un chien ou un chat dans les rues de Taïwan avec un petit coin d'oreille manquant, ce n'est pas une blessure, mais l'empreinte d'une histoire : c'est la marque laissée par le **TNR**.
 
-TNR est l'abréviation de Trap, Neuter, Return : capturer les animaux errants, les stériliser, leur couper l'oreille comme marque distinctive, puis les relâcher sur place. Plus tard, la version officielle de la plupart des villes et comtés y a ajouté la vaccination, devenant **TNvR** (le v supplémentaire signifiant Vaccinate). La logique est simple : si vous ne pouvez pas tous les tuer, faites en sorte qu'ils ne se reproduisent plus. Une génération, deux générations, trois générations plus tard, les effectifs baissent naturellement.
+Le TNR est l'acronyme de _Trap_ (capturer), _Neuter_ (stériliser) et _Return_ (relâcher) : capturer les animaux errants, les stériliser, leur pratiquer une petite incision à l'oreille pour les marquer, puis les relâcher sur leur lieu d'origine. Par la suite, la version officielle de la plupart des comtés et municipalités a ajouté la vaccination, devenant le **TNvR** (le « v » supplémentaire signifiant _Vaccinate_). La logique est simple : puisque vous ne pouvez pas tous les tuer, faites en sorte qu'ils ne se reproduisent plus. Après une, deux ou trois générations, leur nombre diminue naturellement.
 
-![Gros plan d'un chat errant tigré à l'oreille coupée, le bout de l'oreille gauche ayant été retiré en petit triangle pour signaler sa stérilisation, avec une rue floue en arrière-plan](/article-images/society/tnr-cat-clipped-ear-2016.webp)
-_Les chats errants ayant subi une opération TNR ont le bout d'une oreille coupé pour servir de marque. Cette coupe permet aux bénévoles et aux agents de protection animale de reconnaître à distance qu'« il est déjà stérilisé » et d'éviter une nouvelle capture. Photo : Yu Tae-wook, 2016. [Licence via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
+![Gros plan d'un chat errant tigré dont l'oreille a été marquée ; la pointe de l'oreille gauche a été coupée en forme de petit triangle pour indiquer qu'il est stérilisé, avec un environnement urbain flou en arrière-plan](/article-images/society/tnr-cat-clipped-ear-2016.webp)
+_Les chats errants ayant subi une opération TNR se voient couper la pointe d'une oreille comme marque. Ce signe permet aux bénévoles et aux agents de protection animale de distinguer de loin « celui-ci est déjà stérilisé », évitant ainsi des captures répétées. Photo : Yu Tae-wook, 2016. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
 
-À Taïwan, le TNR a d'abord été lancé spontanément par des organisations civiles de protection animale, dans une zone grise juridique. Après la révision de la Loi sur la protection animale en 2015, le TNR a finalement été intégré officiellement aux outils de politique publique[^4]. Les gouvernements locaux ont commencé à y consacrer des budgets et à coopérer avec les associations de protection animale pour mener des campagnes de TNR à grande échelle.
+À Taïwan, le TNR a d'abord été promu spontanément par des groupes de protection animale civils, évoluant dans une zone grise juridique. Après la révision de la 《Loi sur la protection animale》 en 2015, le TNR a enfin été officiellement intégré comme outil politique[^4]. Les gouvernements locaux ont alors commencé à allouer des budgets et à collaborer avec les associations pour mettre en œuvre des programmes de TNR à grande échelle.
 
-### Les règles informelles des chats et chiens de quartier
+### Les règles tacites des chiens et chats de quartier
 
-Derrière le TNR se trouve toute une gestion écologique communautaire ; l'opération n'est que le point de départ.
+Derrière le TNR se cache tout un système de gestion de l'écosystème communautaire ; la chirurgie n'est que le point de départ.
 
-Dans de nombreux quartiers de Taïwan, il existe des « personnes nourricières », c'est-à-dire des habitants qui nourrissent régulièrement les animaux errants. Elles déposent de la nourriture chaque jour, à heure fixe et au même endroit. Entre ces personnes et les bénévoles qui pratiquent le TNR, un système de coopération informel mais ancien s'est mis en place :
+Dans de nombreux quartiers de Taïwan, il existe ce qu'on appelle des « nourriciers », c'est-à-dire des résidents qui nourrissent régulièrement les animaux errants. Ils déposent de la nourriture chaque jour à heure et endroit fixes. Entre ces nourriciers et les bénévoles effectuant le TNR, il existe un système de coopération informel mais opérationnel depuis longtemps :
 
-- Les personnes nourricières observent et signalent les nouveaux venus
-- Les bénévoles apportent des cages-pièges pour les capturer et les envoyer à la stérilisation
-- Après la stérilisation, les animaux sont relâchés, et les personnes nourricières continuent de s'en occuper
-- Si certains sont adoptables, on les photographie et on cherche une adoption en ligne
+- Les nourriciers sont chargés de l'observation et signalent toute nouvelle présence.
+- Les bénévoles apportent des cages de capture pour les attraper et les emmener pour la stérilisation.
+- Une fois stérilisés, les animaux sont relâchés et les nourriciers continuent de s'en occuper.
+- Si un animal est compatible avec une vie domestique, ils prennent des photos pour chercher une famille d'accueil sur Internet.
 
-Ce système n'a aucun document officiel, mais il fonctionne silencieusement dans d'innombrables quartiers de Taïwan. Sa force motrice vient de l'impossibilité, pour chaque « tante » du voisinage, de détourner le regard.
-
----
+Ce système ne repose sur aucun document officiel, mais il fonctionne silencieusement dans d'innombrables communautés à Taïwan, porté par la force de « la compassion des tantes » (_āyí_).
 
 ## Après le zéro abattage : les problèmes commencent vraiment
 
@@ -453,49 +453,47 @@ Les problèmes complexes n'ont pas de réponse simple. Mais la question est dés
 
 ## Sources des images
 
-Cet article utilise 4 images du domaine public ou sous licence CC, toutes mises en cache dans `public/article-images/society/` afin d'éviter les liens directs vers les serveurs sources :
+Cet article utilise 4 images sous licence domaine public / CC, toutes mises en cache dans `public/article-images/society/` afin d'éviter le hotlinking vers les serveurs sources :
 
-- [Spécimen de chat-léopard chinois](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Photo : 丘崈, 2026-02-15, CC0 1.0 domaine public, spécimen de chat-léopard chinois conservé au Musée national de Taïwan
-- [Chat errant avec oreille coupée après TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Photo : Yu Tae-wook, 2016-11-18 (recadrée le 2021-06-18), CC0 1.0 domaine public
-- [Ours noir de Taïwan de face](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Photo : smartneddy, 2007-08-05, CC BY-SA 3.0
-- [Sommet principal du Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Photo : PirateTseng, 2024-10-29, CC BY-SA 4.0
-
----
+- [Spécimen de chat-léopard chinois](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Photo : Qiu Wei, 2026-02-15, CC0 1.0 domaine public, spécimen de chat-léopard chinois conservé par le Musée national de Taïwan
+- [Chat errant après opération TNR (coupe de l'oreille)](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Photo : Yu Tae-wook, 2016-11-18 (recadrée le 2021-06-18), CC0 1.0 domaine public
+- [Portrait d'un ours noir de Taïwan](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Photo : smartneddy, 2007-08-05, CC BY-SA 3.0
+- [Sommet principal du mont Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Photo : PirateTseng, 2024-10-29, CC BY-SA 4.0
 
 ## Références
 
-[^1]: [Réseau d'information sur la protection animale du ministère de l'Agriculture — Explication de la politique de zéro abattage](https://animal.moa.gov.tw/) — Explication officielle de la politique de zéro abattage mise en oeuvre à Taïwan en 2017, incluant le contexte de la modification de l'article 12 de la Loi sur la protection animale et les mesures d'accompagnement.
+[^1]: [Site d'information sur la protection des animaux du Ministère de l'Agriculture — Explication de la politique de zéro abattage](https://animal.moa.gov.tw/) — Explication officielle de la politique de zéro abattage mise en œuvre à Taïwan en 2017, incluant le contexte de l'amendement de l'article 12 de la Loi sur la protection des animaux et les mesures d'accompagnement.
 
-[^2]: [Ministère de l'Agriculture — Rapport 2022 sur l'enquête nationale relative aux populations de chiens errants](https://www.moa.gov.tw/) — Résultats de l'enquête nationale par échantillonnage de 2022 : environ 159 697 chiens errants à Taïwan, soit la plus récente statistique officielle de grande ampleur sur ce sujet.
+[^2]: [Ministère de l'Agriculture — Rapport d'enquête 2022 sur la population de chiens errants à l'échelle nationale](https://www.moa.gov.tw/) — Résultats de l'enquête nationale par échantillonnage de 2022 : on estime à 159 697 le nombre de chiens errants à Taïwan, constituant la dernière statistique officielle de grande envergure sur ce sujet.
 
-[^3]: [Douze nuits — Wikipédia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Documentaire réalisé en 2013 par Raye et produit par Giddens Ko, relatant le compte à rebours de 12 jours de chiens errants en refuge, qui a directement poussé à la révision de la Loi sur la protection animale en 2015.
+[^3]: [« Twelve Nights » — Wikipédia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Documentaire réalisé par Raye et produit par giddens (Nine Lemons) en 2013, relatant le compte à rebours de 12 jours des chiens errants dans un refuge, ayant directement impulsé l'amendement de la Loi sur la protection des animaux en 2015.
 
-[^4]: [Base nationale des lois et règlements — Loi sur la protection animale (révision de 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Amendement à la Loi sur la protection animale adopté en troisième lecture le 23 janvier 2015 ; l'article 12 prévoit qu'à partir de 2017 les refuges publics cessent le traitement humanitaire.
+[^4]: [Base de données juridiques nationale — Loi sur la protection des animaux (amendement de 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Amendement à la Loi sur la protection des animaux adopté en troisième lecture le 23 janvier 2015, stipulant par l'article 12 que les refuges publics doivent cesser tout traitement inhumain à partir de 2017.
 
-[^5]: [Déclaration de l'Association de soins aux chiens errants du comté de Nantou](https://www.east.org.tw/) — Situation de surcharge chronique du refuge de Nantou et de suspension devenue courante des nouvelles admissions de chiens et chats, citée par l'Environment & Animal Society of Taiwan, révélant les difficultés de capacité après le zéro abattage.
+[^5]: [Déclaration de l'Association de soins pour chiens errants du comté de Nantou](https://www.east.org.tw/) — Citée par l'Animal Social Research Society, cette déclaration expose la situation chronique de surpopulation dans le refuge de Nantou et la normalisation de l'arrêt des nouvelles admissions, révélant les limites de capacité des refuges après la politique de zéro abattage.
 
-[^6]: [Réseau d'information sur la protection animale du ministère de l'Agriculture — Sélection des campus exemplaires pour chiens d'école](https://animal.moa.gov.tw/) — Sélection d'éducation à la vie sur les campus promue conjointement par le ministère de l'Éducation et le Conseil de l'agriculture (aujourd'hui ministère de l'Agriculture) ; environ 700+ écoles de Taïwan ont des chiens ou chats d'école.
+[^6]: [Site d'information sur la protection des animaux du Ministère de l'Agriculture — Sélection des campus exemplaires avec chiens de classe](https://animal.moa.gov.tw/) — Sélection pour l'éducation à la vie en milieu scolaire, promue conjointement par le Ministère de l'Éducation et le Conseil des exploitations agricoles (actuel Ministère de l'Agriculture) ; plus de 700 écoles à Taïwan possèdent des chiens ou chats de classe.
 
-[^7]: [WuoWuo — Menace sous-estimée : dossier sur les chats-léopards tués par des chiens](https://wuo-wuo.com/topics/widlife/dogkill) — Série de reportages approfondis de WuoWuo en 2023, intégrant les données de suivi de l'Institut de recherche sur la biodiversité du ministère de l'Agriculture et des entretiens avec des spécialistes (Lin Yu-hsiu, Chen Chen-chih, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao, etc.), couvrant les cas précis de Qiu-ge, Anbo, Xihu-ge et Yong-ge, ainsi que les capacités d'application de la loi à Miaoli.
+[^7]: [WuoWuo — Une menace sous-estimée : Dossier spécial sur les chiens et les linsangs de Formose](https://wuo-wuo.com/topics/widlife/dogkill) — Série de reportages approfondis de WuoWuo en 2023, intégrant les données de suivi du Bureau de la biodiversité du Ministère de l'Agriculture et des entretiens avec des experts (Lin Yu-hsiu, Chen Zhen-zhi, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao, etc.), couvrant les cas concrets d'Autumn, Amber, Xihu-ge, Yong-ge et la capacité d'application de la loi à Miaoli.
 
-[^8]: [PanSci — En quoi la question des chiens et chats errants est-elle complexe ? Comment sauver à la fois les chiens et chats errants et la faune menacée ?](https://pansci.asia/archives/371491) — Reportage approfondi de 7 114 caractères publié par PanSci le 12 novembre 2023, référence centrale des sections « Mort du chat-léopard », « 91 % des sites d'activité », « Le TNR n'est pas une panacée », « Triangle politique » et « Dilemme du tramway ». Citation utilisée conformément au Taiwan.md × PanSci Content Curation MOU du 2026-05-05, incluant des citations verbatim directes.
+[^8]: [PanSci — Pourquoi la question des chiens et chats errants est-elle si complexe ? Comment sauver les animaux errants et la faune sauvage en danger ?](https://pansci.asia/archives/371491) — Reportage approfondi de 7 114 mots publié par PanSci le 12 novembre 2023. Ce texte sert de référence centrale pour les sections §La mort du linsang, §91 % de points d'activité, §Le TNR n'est pas une solution miracle, §Le triangle des politiques, §Le dilemme du métro, etc. Cette citation est autorisée selon le MOU Taiwan.md × PanSci Content Curation 2026-05-05 et inclut des citations verbatim directes.
 
-[^9]: [Recherches de Chen Chen-chih, Université nationale des sciences et technologies de Pingtung — Évaluation de l'impact des chiens sur les populations de chats-léopards](https://wuo-wuo.com/topics/widlife/dogkill) — Citées dans le dossier de WuoWuo ; les recherches incluent les résultats centraux sur le taux de positivité au parvovirus canin (30,6 % chez les vivants / 59,2 % chez les cadavres), la multiplication par 25 du risque de collision routière après infection, et les 52,9 % d'individus canins disparaissant après une seule période d'observation.
+[^9]: [Recherche de Chen Zhen-zhi (Université de science et technologie de Pingtung) — Évaluation de l'impact des chiens sur la population de linsangs de Formose](https://wuo-wuo.com/topics/widlife/dogkill) — Citée dans le dossier spécial de WuoWuo, cette recherche présente des découvertes clés telles que le taux de positivité au parvovirus canin (30,6 % chez les individus vivants / 59,2 % sur les carcasses), une augmentation de 25 fois du risque de mortalité routière après infection, et la disparition de 52,9 % des individus d'une population lors d'une seule période due à la dynamique des populations canines.
 
-[^10]: [Enquête par caméras automatiques de l'Association taïwanaise de conservation du chat-léopard](https://www.facebook.com/LeopardCatTaiwan/) — Résultat d'une enquête par réseau de caméras automatiques cité dans le dossier de WuoWuo : 91 % des sites où des chats-léopards ont été photographiés montrent aussi des chiens errants, et seuls 9 % sont sûrs.
+[^10]: [Enquête par pièges photographiques de l'Association pour la conservation du linsang de Formose](https://www.facebook.com/LeopardCatTaiwan/) — Résultats de l'enquête par réseau de pièges photographiques cités dans le dossier spécial de WuoWuo : 91 % des points d'activité où un linsang a été filmé montraient également la présence de chiens errants, seuls 9 % étant des points sûrs.
 
-[^11]: [Central News Agency — L'Agence des forêts : la population d'ours noirs de Taïwan augmente et n'est plus menacée d'extinction](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Déclaration de l'Agence des forêts et de la conservation de la nature du ministère de l'Agriculture le 23 avril 2025, indiquant que la population d'ours noirs de Taïwan a « plus que doublé par rapport à il y a 20 ans » et que la fréquence des observations sous 1 200 mètres d'altitude a nettement augmenté.
+[^11]: [CNA — Agence de conservation des forêts et de la nature : La population d'ours noirs de Taïwan augmente, le risque d'extinction est écarté](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Déclaration de l'Agence de conservation des forêts et de la nature du Ministère de l'Agriculture le 23 avril 2025, indiquant que la population d'ours noirs de Taïwan a « augmenté de plusieurs multiples par rapport à il y a 20 ans », avec une fréquence d'apparition nettement accrue en dessous de 1 200 mètres d'altitude.
 
-[^12]: [Academia Sinica — Catalogue des espèces de Taïwan TaiBNET](https://taibnet.sinica.edu.tw/) — Mise à jour de 2022 par l'Academia Sinica, classant officiellement les chiens et les chats non plus comme « espèces exotiques », mais comme « espèces exotiques envahissantes » ; c'est la première fois que le système officiel de classification taïwanais inclut des animaux de compagnie dans la catégorie des espèces envahissantes.
+[^12]: [Academia Sinica — Répertoire des espèces de Taïwan TaiBNET](https://taibnet.sinica.edu.tw/) — Mis à jour par l'Academia Sinica en 2022, classant officiellement les chiens et chats non plus comme « espèces introduites » mais comme « espèces envahissantes introduites », marquant la première fois dans le système de classification officiel de Taïwan que les animaux de compagnie sont inclus dans la catégorie des espèces envahissantes.
 
-[^13]: [Reportages sur l'affaire Chien Chih-cheng — Environment & Animal Society of Taiwan](https://www.east.org.tw/) — Affaire de mai 2016 concernant la vétérinaire Chien Chih-cheng du parc de protection animale de Xinwu, révélant les traumatismes psychologiques subis de longue date par le personnel des refuges et entraînant la mise en place de ressources de soutien psychologique pour les vétérinaires de refuge.
+[^13]: [Reportage sur l'incident de Chien Chih-cheng — Animal Social Research Society](https://www.east.org.tw/) — L'incident de mai 2016 impliquant le vétérinaire Chien Chih-cheng au parc de protection animale de Xinwu a révélé les traumatismes psychologiques subis à long terme par le personnel des refuges, menant à la mise en place de ressources de conseil psychologique pour les vétérinaires de refuge.
 
-[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Article scientifique international original ; les chiens errants sont recensés comme une menace majeure pour au moins 188 espèces menacées dans le monde, source académique primaire citée par PanSci.
+[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Source académique originale d'une revue internationale, indiquant que les chiens errants sont désormais listés comme une menace majeure pour au moins 188 espèces d'animaux menacés dans le monde ; source citée par PanSci dans cet article.
 
-[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Étude publiée dans Scientific Reports par Yen Shih-ching et al. sur l'impact des chiens errants sur la diversité de la faune dans la grande région de Taipei, y compris le parc national de Yangmingshan.
+[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Étude publiée par Yen et al. dans Scientific Reports sur l'impact des chiens errants sur la biodiversité de la faune sauvage dans la région du Grand Taipei (incluant le parc national de Yangmingshan).
 
-[^16]: [Site officiel de l'Environment & Animal Society of Taiwan](https://www.east.org.tw/) — Positions de Chen Yu-min, directrice exécutive adjointe, et d'autres sur le TNR / TNvR et la responsabilité des propriétaires à la source, soutenant que les politiques doivent revenir à la gestion des propriétaires plutôt qu'au retrait des points chauds.
+[^16]: [Site officiel de l'Animal Social Research Society de Taïwan](https://www.east.org.tw/) — Positions et discours de Chen Yu-min (directrice adjointe) et autres sur le TNR / TNvR et la responsabilité des propriétaires, soutenant que les politiques devraient se concentrer sur la gestion des propriétaires plutôt que sur l'élimination des points chauds.
 
-[^17]: [Réseau d'information sur la protection animale — Dossier sur la culture d'adoption des chiens croisés Mix](https://animal.moa.gov.tw/) — Ressources de politique publique et d'éducation sociale relatives à la promotion de l'adoption des chiens croisés / Mix dans la politique de protection animale taïwanaise.
+[^17]: [Site d'information sur la protection des animaux — Dossier spécial sur la culture de l'adoption des chiens métis (Mixes)](https://animal.moa.gov.tw/) — Compilation des ressources d'éducation sociale et de promotion des politiques de Taïwan concernant la culture de l'adoption des chiens croisés/métis.
 
-[^18]: [Ministère de l'Éducation — Programme de protection animale sur les campus](https://animal.moa.gov.tw/) — Base politique des chiens et chats d'école dans environ 700 écoles de Taïwan ; depuis 2019, organisation de la sélection des « campus exemplaires pour chiens d'école ».
+[^18]: [Ministère de l'Éducation — Plan de protection animale en milieu scolaire](https://animal.moa.gov.tw/) — Base politique pour les programmes de chiens et chats de classe dans plus de 700 écoles à Taïwan, avec la sélection des « campus exemplaires avec chiens de classe » organisée depuis 2019.

@@ -38,11 +38,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'da67ec6fe'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c62b916ed21bb09b'
 sourceBodyHash: 'sha256:f87da2052ad611fa'
-translatedAt: '2026-10-03T16:55:21.440758+00:00'
+translatedAt: '2026-11-18T12:59:06.246307+00:00'
 ---
 
 **Aperçu en 30 secondes :** Eswatini (renommé depuis « Swaziland » en 2018) est le seul allié diplomatique qu'il reste à Taïwan en Afrique ; les relations diplomatiques avec la République de Chine ont été établies en septembre 1968, ce qui fait 58 ans en 2026. Le roi Mswati III, né en avril 1968, a vu son pays accéder à l'indépendance et établir des relations avec Taïwan cinq mois plus tard, le même jour ; sa vie coïncide donc presque entièrement avec l'histoire des relations diplomatiques entre Taïwan et Eswatini, et il s'est rendu à Taïwan plus de 17 fois jusqu'en 2024[^1]. Après la rupture des relations diplomatiques du Burkina Faso en mai 2018, Eswatini est devenu l'unique allié de Taïwan en Afrique[^12]. Le 2 mai 2026, Lai Ching-te s'est rendu en visite à Eswatini ; le départ était initialement prévu pour le 22 avril, mais les Seychelles, Maurice et Madagascar ont retiré sans préavis leurs autorisations de survol sous la pression de la Chine ; Mswati a alors dépêché l'Airbus A340 officiel d'Eswatini pour aller chercher personnellement sa vice-Premier ministre Thulisile Dladla à Taipei afin qu'elle accompagne Lai Ching-te, qui a ainsi pu voler directement de Taipei à Mbabane le 2 mai[^3]. Le 1er mai de la même année, la Chine a accordé un traitement de droits de douane nuls sur 98 % des lignes tarifaires à 53 pays africains, en excluant uniquement Eswatini[^4]. La plus grande incertitude qui pèse sur cette bouée de sauvetage diplomatique réside dans la capacité du successeur de Mswati à convaincre une génération confrontée à 56 % de chômage des jeunes de continuer à considérer Taïwan comme un ami (une question plus difficile que « combien d'argent la Chine offre-t-elle »).

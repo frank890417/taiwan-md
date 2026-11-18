@@ -2,9 +2,7 @@
 title: 'Deux lois sur la médecine régénérative × 30 ans d’ARNm : comment l’État encadre deux médicaments qui sauvent des vies'
 description: 'Le jour où Karikó et Weissman ont reçu le prix Nobel en 2023, vingt-huit ans s’étaient écoulés depuis sa rétrogradation à l’Université de Pennsylvanie. Le 2 septembre 2021, lorsque le premier lot de 930 000 doses de BNT a atterri à l’aéroport de Taoyuan, vingt-quatre ans s’étaient déjà écoulés depuis sa rencontre avec Weissman devant un photocopieur en 1997. Cet article met en parallèle deux fils narratifs, « les deux lois sur la médecine régénérative de 2024 » et « trente années d’épreuves de l’ARNm » : de l’ours en peluche d’une scientifique immigrée hongroise aux salles blanches du parc scientifique de Taoyuan, il examine comment l’État encadre deux médicaments qui sauvent des vies et qui sont pourtant radicalement différents : les cellules et les molécules.'
 date: 2026-05-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'Deux lois sur la médecine régénérative',
@@ -16,19 +14,23 @@ tags:
     'droits humains en santé',
     'BPF',
   ]
-readingTime: 22
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:067149f437c5a573'
-sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-06-16T17:05:54Z'
+readingTime: 22
 image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:067149f437c5a573'
+sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
+translatedAt: '2026-11-18T13:32:52.815576+00:00'
 ---
 
 ![Katalin Karikó et Drew Weissman recevant ensemble la médaille Life Science en 2022, posant devant un panneau, Karikó vêtue d’un tailleur rouge et Weissman d’un costume sombre](/article-images/society/kariko-weissman-life-science-2022.webp)

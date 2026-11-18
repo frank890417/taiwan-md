@@ -30,11 +30,13 @@ image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'
 imageLicense: '政府公開資訊（OGDL — Open Government Data License）'
 imageSource: 'https://www.president.gov.tw/NEWS/20543'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '72a8b4432'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:01affe2533530c02'
 sourceBodyHash: 'sha256:21c703a5d9235d48'
-translatedAt: '2026-07-27T05:46:59+08:00'
+translatedAt: '2026-11-18T13:17:04.151764+00:00'
 ---
 
 > **En 30 secondes :** Le Paraguay et la République de Chine ont établi des relations diplomatiques en 1957, atteignant la soixante-neuvième année en 2026. Il s'agit du seul pays d'Amérique du Sud à entretenir des relations diplomatiques avec Taïwan et du plus vaste parmi les partenaires actuels ; sa population est toutefois inférieure à celle de certains pays d'Amérique centrale. Du 7 au 10 mai 2026, le président paraguayen Santiago Peña a effectué une visite d'État à Taïwan, sa première du genre. Le ministère des Affaires étrangères a annoncé que le président Lai Ching-te accueillerait le président Peña le 8 mai avec une salve d'honneur, un banquet d'État et lui décernerait le Grand ordre du Jade impérial. Cette alliance diplomatique résiste aux efforts de séduction de la Chine grâce à un soutien diplomatique conjugué à l'accès aux marchés des produits agro-pastoraux, à l'Université polytechnique Taïwan-Paraguay, au parc technologique intelligent et à une coopération technique de longue date. [^1][^2]
