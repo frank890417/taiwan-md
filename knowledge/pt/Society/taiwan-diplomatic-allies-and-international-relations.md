@@ -27,11 +27,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T03:23:02.961402+00:00'
+translatedAt: '2026-11-18T13:14:27.791865+00:00'
 ---
 
 # Aliados diplomáticos e diplomacia internacional de Taiwan: 12 aliados, 113 representações e acesso sem visto a 177 países

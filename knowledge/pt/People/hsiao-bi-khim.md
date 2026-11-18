@@ -2,9 +2,7 @@
 title: 'Hsiao Bi-khim'
 description: 'Nascida no Japão, escola primária em Tainan, crescida em Nova Jérsia, graduada em Oberlin, a "gata guerreira" — como se tornou a representante mais bem-sucedida de Taiwan perante os EUA e depois chegou à vice-presidência?'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治人物'
 tags:
   [
     'figura política',
@@ -15,16 +13,20 @@ tags:
     'Hualien',
     'gata guerreira',
   ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-07-25T10:53:20+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T13:52:45.795721+00:00'
 ---
 
 # Hsiao Bi-khim

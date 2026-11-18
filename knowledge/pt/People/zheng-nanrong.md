@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭南榕.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:97d9bc4f07653a81'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:8c5f343cec62a07b'
 sourceBodyHash: 'sha256:91b4c7638f35fd2f'
-translatedAt: '2026-07-26T08:50:55+08:00'
+translatedAt: '2026-11-18T13:55:09.846366+00:00'
 ---
 
 # Cheng Nan-jung
@@ -119,23 +121,23 @@ Cheng Nan-jung deixa uma questão que continua aberta ao debate: por que alguém
 
 ## Referências
 
-[^1]: [Semanal Era da Liberdade — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirma data de lançamento 12 de março de 1984, pedido de 24 licenças, registo de 18 proibições.
+**Leitura Adicional**
 
-[^2]: [Fundação e Museu Memorial Cheng Nan-jung](https://www.nfreedommemorialfoundation.org/) — Cronologia de vida: 1987 iniciativa pública de comemoração do 228, 21 de janeiro de 1989 indiciamento por sedição.
+- [Bernard Tseng](/pt/people/bernard-tseng) — Em agosto de 2019, o apresentador do programa "Tseng Show" citou uma piada sobre a autoimolação de Cheng Nan-jung no Open Mic, gerando uma forte reação social e resultando na primeira suspensão de sua colaboração com a Satire News.
+- [Museu Nacional dos Direitos Humanos](https://www.nhrm.gov.tw/) — História oral do Terror Branco e dos movimentos democráticos.
+- Hu Hui-ling, _A Busca de um Século: Histórias do Movimento Democrático de Taiwan_ — Registro detalhado de Cheng Nan-jung e do movimento Tangwai.
+- [Fundação Comemorativa do Incidente 228](https://www.228.org.tw/) — A conexão entre a família de Cheng Nan-jung e o Incidente 228.
+- [Incidente de Ilha Formosa — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Evento crucial que catalisou o envolvimento de Cheng Nan-jung no movimento social.
+- Documentário _Nylon, a Alma da Liberdade_ (Diretor: Tsai Chung-lung, 2009) — Reconstrói a trajetória de vida e a decisão de autoimolação de Cheng Nan-jung por meio de entrevistas com os envolvidos e imagens históricas.
 
-[^3]: [Chan I-kai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Autor do "Projecto de Constituição da República de Taiwan"; processo desencadeado pela publicação no número 254 da "Era da Liberdade".
+[^1]: [Free Times Weekly — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirmação da data de fundação em 12 de março de 1984, com 24 licenças solicitadas e 18 registros de suspensão/proibição.
 
-[^4]: [Cheng Nan-jung — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirma arrombamento de 7 de abril de 1989 liderado por Hou Yu-ih da esquadra de Zhongshan; Chan Yi-hua imolou-se sete dias depois na procissão fúnebre.
+[^2]: [Fundação Cheng Nan-jung • Memorial](https://www.nfreedommemorialfoundation.org/) — Cronologia da vida: lançamento público de atividades comemorativas do 228 em 1987; cronologia do indiciamento por crime de rebelião em 21 de janeiro de 1989.
 
-[^5]: [Yeh Ju-lan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirma cargos públicos sucessivos: deputada legislativa, ministra dos Transportes, presidente da Comissão dos Assuntos Hakka, vice-primeira-ministra do Yuan Executivo, secretária-geral da Presidência (2006–2007).
+[^3]: [Hsu Shih-kai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Contexto do autor da "Proposta de Constituição da República de Taiwan"; detalhes sobre a publicação na 254ª edição da Free Times que levou ao indiciamento.
 
-[^6]: [Dia da Liberdade de Expressão — Yuan Executivo](https://www.ey.gov.tw/) — Anúncio de 22 de dezembro de 2016 a designar 7 de abril como Dia da Liberdade de Expressão.
+[^4]: [Cheng Nan-jung — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirmação de que a operação de invasão em 7 de abril de 1989 foi liderada por Hou Yu-ih, da Delegacia de Zhongshan; Zhan Yi-hua autoimolou-se sete dias depois durante o cortejo fúnebre.
 
-**Leitura adicional**
+[^5]: [Yeh Chu-lan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirmação dos cargos públicos ocupados: Deputada Legislativa, Ministra dos Transportes, Presidente do Conselho para Assuntos dos Hakka, Vice-Premiê do Executivo e Secretária-Geral da Presidência (2006–2007).
 
-- [Tseng Po-en](/pt/people/bernard-tseng) — Em agosto de 2019, o apresentador do "Po-en Night Night Show" citou a autoimolação de Cheng Nan-jung num segmento de Open Mic, provocando forte reação social e a primeira suspensão da colaboração com a Satire.
-- [Museu Nacional dos Direitos Humanos](https://www.nhrm.gov.tw/) — História oral do Terror Branco e do movimento democrático.
-- Hu Hui-ling, _Cem Anos de Busca: A História do Movimento Democrático de Taiwan_ — Registo detalhado de Cheng Nan-jung e do movimento tangwai.
-- [Fundação Memorial do Incidente 228](https://www.228.org.tw/) — A ligação da família Cheng Nan-jung com o 228.
-- [Incidente de Kaohsiung — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Evento-chave que catalisou a entrada de Cheng Nan-jung no ativismo social.
-- Documentário _A Alma Livre Nylon_ (realizador: Tsai Chung-lung, 2009) — Reconstrução da trajectória de vida e da decisão de autoimolação de Cheng Nan-jung através de entrevistas aos protagonistas e imagens de arquivo.
+[^6]: [Dia da Liberdade de Expressão — Executivo](https://www.ey.gov.tw/) — Anúncio aprovado em 22 de dezembro de 2016, designando o dia 7 de abril como o Dia da Liberdade de Expressão.

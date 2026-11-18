@@ -18,11 +18,13 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
-sourceCommitSha: '1d54cbe52'
-sourceContentHash: 'sha256:3725125046bb0302'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
-translatedAt: '2026-07-26T21:33:24+08:00'
+translatedAt: '2026-11-18T13:35:10.717805+00:00'
 ---
 
 # Desafios da Governança e da Conservação Marinha em Taiwan
@@ -587,26 +589,26 @@ O cerne da conservação marinha é a justiça intergeracional: as decisões de 
 
 ## Referências
 
-[^1]: [Dados Estatísticos de Resíduos Marinhos - Site de Conservação Marinha](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Estatísticas de dados de limpeza de praias da Associação Wildland de 2016 a 2023.
+[^1]: [Dados estatísticos de resíduos marinhos - Rede de Conservação Marinha](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Estatísticas de dados de limpeza de praias da Associação de Proteção da Natureza Selvagem 2016-2023.
 
-[^2]: [Inquérito de Microplásticos nos Oceanos de Taiwan - Centro de Pesquisa de Biodiversidade da Academia Sinica](https://www.oca.gov.tw/) — Relatório de inquérito sobre a concentração de microplásticos nas águas circundantes de Taiwan.
+[^2]: [Investigação de microplásticos marinhos em Taiwan - Centro de Pesquisa de Biodiversidade da Academia Sinica](https://www.oca.gov.tw/) — Relatório de investigação da concentração de microplásticos nos mares ao redor de Taiwan.
 
-[^3]: [Lei de Conservação Marinha Aprovada em Terceira Leitura - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirma que a Lei de Conservação Marinha foi aprovada em terceira leitura em 12 de julho de 2024.
+[^3]: [Lei de Conservação Marinha aprovada em terceira leitura - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirma que a Lei de Conservação Marinha foi aprovada em terceira leitura em 12 de julho de 2024.
 
-[^4]: [Subdiretoria de Conservação Marinha da Comissão Marinha](https://www.oca.gov.tw/) — Livro Branco da Conservação Marinha de Taiwan, edição de 2024.
+[^4]: [Agência de Conservação Marinha do Comitê Oceânico](https://www.oca.gov.tw/) — 《Livro Branco da Conservação Marinha de Taiwan》edição de 2024.
 
-[^5]: [Políticas Importantes da Lei de Conservação Marinha - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explicação das políticas da Lei de Conservação Marinha do Executive Yuan.
+[^5]: [Políticas importantes da Lei de Conservação Marinha - Yuan Executivo](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explicação da política da Lei de Conservação Marinha do Yuan Executivo.
 
-[^6]: [Inquérito Rápido de Resíduos Marinhos com Duração de Um Ano Revela a Verdade da Poluição Costeira de Taiwan - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Dados de inquérito sobre a densidade de lixo nas costas de Taiwan.
+[^6]: [Investigação rápida de resíduos marinhos de um ano revela a verdade sobre a poluição da costa de Taiwan - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Dados de investigação da densidade de lixo na costa de Taiwan.
 
-[^7]: [10 Coisas que Você Precisa Saber Sobre Resíduos Marinhos - Chengyang Environmental Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Inquérito de densidade de lixo no fundo do mar da Chengyang Environmental Consulting em 2020.
+[^7]: [10 coisas que você não pode deixar de saber sobre resíduos marinhos - Consultoria Ambiental Chengyang](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Investigação de densidade de lixo no fundo do mar de 2020 da Consultoria Ambiental Chengyang.
 
-[^8]: [A Lei de Conservação Marinha Não Pode Mais Ser Adiada - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Processo de promoção da legislação de conservação marinha por grupos civis.
+[^8]: [A Lei de Conservação Marinha não pode mais esperar - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Histórico do impulso de grupos da sociedade civil para a legislação de conservação marinha.
 
-[^9]: [Conheça os Resíduos Marinhos - Mundo Oceânico](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Análise de tipos e fontes de resíduos marinhos.
+[^9]: [Conhecendo os resíduos marinhos - Mundo Oceânico](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Análise dos tipos e fontes de resíduos marinhos.
 
-[^10]: [O Mar, Qual é o "Plástico" ─── Exame Geral de Lixo Costeiro de Taiwan - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Inquérito sobre tipos e distribuição de lixo costeiro em Taiwan.
+[^10]: [《O que há de 'plástico' no mar? — Exame geral do lixo na costa de Taiwan》- Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Investigação dos tipos e distribuição de lixo na costa de Taiwan.
 
-[^11]: [Resultados da Conservação de Tartarugas em Liouqiu - Associação Taiwan Langku (Taiwan Langku Island Association)](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modelo e resultados da conservação de tartarugas em Liouqiu.
+[^11]: [Resultados da conservação de tartarugas marinhas em Xiao Liuqiu - Associação de Taiwan Kuegueyu](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modelo e eficácia da conservação de tartarugas marinhas em Xiao Liuqiu.
 
-[^12]: [Primeiro Branqueamento de Corais em Massa em Toda a Nação na História de 2024 - Nossa Ilha](https://ourisland.pts.org.tw/content/7392) — Relatório de inquérito de branqueamento de corais em Taiwan em 2020.
+[^12]: [Primeira branqueamento de corais em larga escala a nível nacional na história em 2024 - Nossa Ilha](https://ourisland.pts.org.tw/content/7392) — Relatório de investigação do branqueamento de corais em Taiwan em 2020.

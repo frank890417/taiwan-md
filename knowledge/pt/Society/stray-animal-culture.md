@@ -26,11 +26,13 @@ image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
 imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:6b2ce60c50966bdc'
-sourceBodyHash: 'sha256:6f79d66a90a09b62'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:d73033c3d023379b'
+sourceBodyHash: 'sha256:452ee75046f1da55'
+translatedAt: '2026-11-18T13:07:10.875933+00:00'
 ---
 
 # Cultura dos animais errantes de Taiwan: de "Doze Noites" à morte do leopardo-gato, o dilema do bonde entre proteção animal e conservação da vida selvagem
@@ -96,31 +98,29 @@ Um filme, dois anos de impulso, uma lei. A história dos animais errantes de Tai
 
 ---
 
-## A orelha do Fanfan: a marca da rua
+## As orelhas de Fanfan: marcas nas ruas
 
-Se você vir na rua de Taiwan um cão ou gato com a ponta da orelha cortada num pequeno triângulo, essa é a marca de uma história, o sinal deixado pelo **TNR**, não uma ferida.
+Se você vir um cão ou gato nas ruas de Taiwan com a ponta da orelha cortada, essa é a marca de uma história, é a marca deixada pelo **TNR**, não um ferimento.
 
-TNR é a sigla de Trap (capturar), Neuter (esterilizar), Return (devolver): apanham-se os animais errantes, esterilizam-se, cortam-se a ponta da orelha como marca, e devolvem-se ao local original. Mais tarde, a maioria das versões oficiais dos municípios adicionou vacinação, tornando-se **TNvR** (o v extra é de Vaccinate). A lógica é simples: não se consegue matar todos, então faz-se com que deixem de nascer. Uma geração, duas, três, e o número desce naturalmente.
+**TNR** é a sigla de _Trap_ (capturar), _Neuter_ (esterilizar), _Return_ (devolver): captura-se o animal errante, esteriliza-se, marca-se a orelha e devolve-se ao local original. Posteriormente, a maioria dos governos municipais adicionou a vacinação à versão oficial, tornando-se **TNvR** (o _v_ extra significa _Vaccinate_). A lógica é simples: você não consegue matar todos, então faça com que eles não se reproduzam mais. Após uma, duas, três gerações, a população diminui naturalmente.
 
-![Close-up de um gato errante tigrado já com orelha cortada, a ponta da orelha esquerda com um pequeno triângulo removido como marca de esterilização, fundo desfocado de ambiente urbano](/article-images/society/tnr-cat-clipped-ear-2016.webp)
-_Gato errante após cirurgia TNR tem a ponta de uma orelha cortada como marca, este sinal permite a voluntários e funcionários de proteção animal distinguir à distância «este já foi esterilizado», evitando capturas repetidas. Foto: Yu Tae-wook, 2016. [Licença via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
+![Um gato errante tigrado de perto após cirurgia de TNR, com a ponta da orelha esquerda cortada em um pequeno triângulo como marca de esterilização, fundo de rua desfocado](/article-images/society/tnr-cat-clipped-ear-2016.webp)
+_Gatos errantes que passaram pelo TNR têm a ponta de uma orelha cortada como marca; esse sinal permite que voluntários e agentes de proteção animal identifiquem à distância que «este já foi esterilizado», evitando capturas repetidas. Foto: Yu Tae-wook, 2016. [Licença via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).\_
 
-O TNR de Taiwan começou por impulso de ONGs de proteção animal, operando em zona cinzenta legal. Após a revisão da «Lei de Proteção Animal» em 2015, o TNR foi finalmente integrado nas ferramentas de política[^4]. Os governos municipais começaram a orçamentar, colaborando com ONGs para executar TNR em larga escala.
+O TNR de Taiwan foi inicialmente impulsionado espontaneamente por ONGs de proteção animal, operando em uma zona cinzenta legal. Após a revisão da _Lei de Proteção Animal_ em 2015, o TNR foi finalmente incorporado oficialmente como ferramenta de política[^4]. Os governos municipais começaram a alocar orçamentos e a colaborar com ONGs para executar TNR em larga escala.
 
-### As regras não escritas da comunidade de cães e gatos
+### As regras não escritas dos cães e gatos comunitários
 
-Por trás do TNR há toda uma gestão ecológica comunitária, a cirurgia é só o início.
+Por trás do TNR existe todo um sistema de gestão ecológica comunitária; a cirurgia é apenas o ponto de partida.
 
-Em muitas comunidades de Taiwan, existem os chamados «alimentadores», moradores que alimentam regularmente os animais errantes. Todos os dias, à mesma hora, no mesmo local, põem a ração. Estes alimentadores e os voluntários que fazem TNR têm entre si um sistema de cooperação informal mas antigo:
+Em muitas comunidades de Taiwan, existem os chamados «alimentadores», ou seja, moradores que alimentam animais errantes regularmente. Todos os dias, em horários e locais fixos, eles colocam a ração. Entre esses alimentadores e os voluntários que realizam o TNR, existe um sistema de cooperação informal, mas que funciona há muito tempo:
 
-- Alimentadores observam, ao verem cara nova avisam
-- Voluntários levam gaiolas-armadilha, capturam, levam para esterilizar
-- Após esterilização, devolvem, alimentadores continuam a cuidar
-- Se houver algum adequado, tiram foto, põem na net para adoção
+- Os alimentadores ficam responsáveis pela observação; ao avistarem um novo animal, eles avisam
+- Os voluntários levam armadilhas para capturar e enviam para esterilização
+- Após a esterilização, o animal é devolvido e o alimentador continua cuidando
+- Se houver animais adequados, tiram-se fotos e publicam-se online para buscar adoção
 
-Este sistema não tem nenhum documento oficial, mas funciona silenciosamente em inúmeras comunidades de Taiwan, movido pelo «coração que não aguenta» de cada «tia».
-
----
+Esse sistema não possui nenhum documento oficial, mas opera silenciosamente em inúmeras comunidades de Taiwan, movido pela «incapacidade de cada tia de fechar os olhos».
 
 ## Depois do zero eutanásia: o problema é que começa agora
 
@@ -453,49 +453,49 @@ Problemas complexos não têm respostas simples. Mas o enunciado já está escri
 
 ## Fontes das imagens
 
-Este artigo usa 4 imagens de domínio público / licença CC, todas em cache em `public/article-images/society/` para evitar hotlink nos servidores de origem:
+Este artigo utiliza 4 imagens de domínio público / com licença CC, todas em cache em `public/article-images/society/` para evitar hotlink dos servidores de origem:
 
-- [Espécime de leopardo-gato de Taiwan](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Foto: Chiu Chien, 2026-02-15, CC0 1.0 domínio público, espécime de leopardo-gato de Taiwan na coleção do Museu Nacional de Taiwan
-- [Gato errante com orelha cortada após TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Foto: Yu Tae-wook, 2016-11-18 (recortada 2021-06-18), CC0 1.0 domínio público
+- [Espécime de leopardo-gato chinês](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Foto: 丘崈, 2026-02-15, CC0 1.0 domínio público, espécime de leopardo-gato chinês da coleção do Museu Nacional de Taiwan
+- [Gato errante com orelha marcada após TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Foto: Yu Tae-wook, 2016-11-18 (recortada 2021-06-18), CC0 1.0 domínio público
 - [Foto frontal de urso-negro-de-Taiwan](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Foto: smartneddy, 2007-08-05, CC BY-SA 3.0
-- [Cume principal de Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Foto: PirateTseng, 2024-10-29, CC BY-SA 4.0
+- [Pico principal de Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Foto: PirateTseng, 2024-10-29, CC BY-SA 4.0
 
 ---
 
 ## Referências
 
-[^1]: [Rede de Informação de Proteção Animal do Ministério da Agricultura — Explicação da política de zero eutanásia](https://animal.moa.gov.tw/) — Explicação oficial da política de zero eutanásia de Taiwan em 2017, incluindo contexto da revisão do artigo 12 da Lei de Proteção Animal e medidas de acompanhamento.
+[^1]: [Rede de Informação de Proteção Animal do Ministério da Agricultura — Explicação da Política de Abate Zero](https://animal.moa.gov.tw/) — Explicação oficial da política de abate zero implementada em Taiwan em 2017, incluindo o contexto da revisão do Artigo 12 da Lei de Proteção Animal e medidas complementares.
 
-[^2]: [Ministério da Agricultura — Relatório de inquérito de população de cães errantes 111.º ano](https://www.moa.gov.tw/) — Resultado de inquérito por amostragem nacional 2022: estimativa de 159.697 cães errantes em Taiwan, a mais recente estatística oficial em grande escala deste tema.
+[^2]: [Ministério da Agricultura — Relatório de Investigação da População de Cães Vagabundos em Nível Nacional de 2022](https://www.moa.gov.tw/) — Resultados da investigação por amostragem nacional de 2022: estima-se 159.697 cães vagabundos em Taiwan, sendo a mais recente estatística oficial em grande escala sobre este tema.
 
-[^3]: [«Doze Noites» — Wikipédia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Documentário de 2013 realizado por Raye, produzido por Giddens Ko, regista a história da contagem decrescente de 12 dias de cães errantes em abrigo, impulsionou diretamente a revisão da Lei de Proteção Animal em 2015.
+[^3]: [«Doze Noites» — Wikipédia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Documentário de 2013 dirigido por Raye e produzido por Giddens Ko, que registra a contagem regressiva de 12 dias de cães abandonados em abrigos, impulsionando diretamente a revisão da Lei de Proteção Animal em 2015.
 
-[^4]: [Base de Dados Nacional de Leis — Lei de Proteção Animal (revisão 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Revisão da Lei de Proteção Animal aprovada em terceira leitura a 23 de janeiro de 2015, artigo 12 estipula claramente que a partir de 2017 abrigos públicos cessam tratamento humanitário.
+[^4]: [Banco de Dados de Leis e Regulamentos Nacionais — Lei de Proteção Animal (revisão de 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Emenda à Lei de Proteção Animal aprovada em terceira leitura em 23 de janeiro de 2015; o Artigo 12 estipula que, a partir de 2017, abrigos públicos cessariam a eutanásia humanitária.
 
-[^5]: [Declaração da Associação de Cuidados a Cães Errantes de Nantou](https://www.east.org.tw/) — Citada pela Sociedade de Investigação Animal, expõe a situação de sobrelotação crónica do abrigo de Nantou, anúncio de suspensão de novas entradas de cães e gatos tornado rotina, revela o dilema de capacidade após zero eutanásia.
+[^5]: [Declaração da Associação de Cuidados de Cães Abandonados do Condado de Nantou](https://www.east.org.tw/) — Citada pela Sociedade de Pesquisa Animal, a declaração revela a superlotação crônica do abrigo de Nantou e a interrupção rotineira de novas admissões de cães e gatos, expondo o dilema de capacidade dos abrigos após a política de abate zero.
 
-[^6]: [Rede de Informação de Proteção Animal do Ministério da Agricultura — Seleção de escolas de excelência em cães de escola](https://animal.moa.gov.tw/) — Seleção de educação para a vida em campus promovida conjuntamente pelo Ministério da Educação e pela Comissão de Agricultura (hoje Ministério da Agricultura), cerca de 700+ escolas em Taiwan têm cães ou gatos de escola.
+[^6]: [Rede de Informação de Proteção Animal do Ministério da Agricultura — Seleção de Campi Exemplares com Cães Escolares](https://animal.moa.gov.tw/) — Seleção de educação para a vida no campus promovida conjuntamente pelo Ministério da Educação e pelo Conselho de Agricultura (atual Ministério da Agricultura); cerca de 700+ escolas em Taiwan possuem cães e gatos escolares.
 
-[^7]: [WuoWuo — Ameaça subestimada・Reportagem especial cães matam leopardos-gato](https://wuo-wuo.com/topics/widlife/dogkill) — Série de reportagens de fundo do WuoWuo 2023, integra dados de monitorização do Instituto de Biodiversidade do Ministério da Agricultura, entrevistas a académicos (Lin Yu-hsiu, Chen Chen-chih, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao, etc.), cobre casos concretos de Qiu-ge, An-po, Xi-hu-ge, Yong-ge e capacidade de fiscalização de Miaoli.
+[^7]: [WuoWuo — A Ameaça Subestimada: Série Especial sobre Cães Matando Gatos-do-mato-asiáticos](https://wuo-wuo.com/topics/widlife/dogkill) — Série de reportagens aprofundadas de 2023 da WuoWuo, integrando dados de rastreamento de múltiplas fontes do Ministério da Agricultura e entrevistas com acadêmicos (Lin Yu-hsiu, Chen Chen-chih, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao, etc.), cobrindo casos concretos de Qiu-ge, Amber, Xi-hu-ge, Yong-ge e a capacidade de fiscalização em Miaoli.
 
-[^8]: [PanSci 泛科學 — Onde está a complexidade do tema cães e gatos errantes? Como salvar cães e gatos errantes e vida selvagem ameaçada?](https://pansci.asia/archives/371491) — Reportagem de fundo de 7.114 caracteres da PanSci a 12 de novembro de 2023, referência central deste artigo §morte do leopardo-gato, §91% pontos de atividade, §TNR não é panaceia, §triângulo político, §dilema do bonde, etc. Esta citação autorizada ao abrigo do MOU Taiwan.md × PanSci Content Curation 2026-05-05, inclui citações verbatim diretas.
+[^8]: [PanSci — Onde Reside a Complexidade da Questão de Cães e Gatos Abandonados? Como Podemos Salvar Cães e Gatos Abandonados e Animais Selvagens Ameaçados?](https://pansci.asia/archives/371491) — Reportagem aprofundada de 7.114 palavras publicada pela PanSci em 12 de novembro de 2023; as seções §A Morte do Gato-do-mato-asiático, §91% dos Pontos de Atividade, §TNR Não É Panaceia, §Triângulo Político, §Dilema do Bonde são referências centrais deste artigo. Esta citação é autorizada pelo MOU de Curadoria de Conteúdo Taiwan.md × PanSci de 2026-05-05, incluindo citações textuais diretas.
 
-[^9]: [Investigação de Chen Chen-chih da Universidade de Ciência e Tecnologia de Pingtung — Avaliação de impacto de cães em população de leopardo-gato](https://wuo-wuo.com/topics/widlife/dogkill) — Citada pela reportagem especial do WuoWuo, conteúdo inclui taxa de positividade para parvovirose canina (vivos 30,6% / cadáveres 59,2%), risco de atropelamento após infeção sobe 25 vezes, dinâmica populacional de cães 52,9% indivíduos desaparecem em época única, etc.
+[^9]: [Pesquisa de Chen Chen-chih da Universidade de Ciência e Tecnologia de Pingtung — Avaliação do Impacto de Cães na População de Gatos-do-mato-asiáticos](https://wuo-wuo.com/topics/widlife/dogkill) — Citada na série da WuoWuo, a pesquisa inclui taxa de positividade para parvovírus canino (30,6% em vivos / 59,2% em carcaças), risco de atropelamento 25 vezes maior após infecção, e 52,9% dos indivíduos da população canina desaparecendo em uma única estação, entre outros achados centrais.
 
-[^10]: [Inquérito por câmara automática da Associação de Conservação do Leopardo-gato de Taiwan](https://www.facebook.com/LeopardCatTaiwan/) — Citado pela reportagem especial do WuoWuo, resultado de rede de câmara automática: pontos onde se registou leopardo-gato, 91% registaram simultaneamente cães errantes, apenas 9% pontos seguros.
+[^10]: [Investigação por Câmeras Automáticas da Associação de Conservação do Gato-do-mato-asiático de Taiwan](https://www.facebook.com/LeopardCatTaiwan/) — Resultados da investigação por rede de câmeras automáticas citada na série da WuoWuo: 91% dos pontos de atividade onde gatos-do-mato-asiáticos foram registrados também registraram cães vagabundos; apenas 9% foram pontos seguros.
 
-[^11]: [Agência Central de Notícias — Serviço Florestal: população de urso-negro-de-Taiwan aumenta, já sem risco de extinção iminente](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Declaração de 23 de abril de 2025 do Serviço Florestal e de Conservação da Natureza do Ministério da Agricultura, população de urso-negro-de-Taiwan «em comparação com 20 anos atrás aumentou múltiplas vezes», frequência de aparição abaixo de 1200 metros aumentou claramente.
+[^11]: [Agência Central de Notícias — Escritório de Conservação Florestal: População de Ursos-negros-de-Taiwan Aumenta, Espécie Já Não Corre Risco de Extinção](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Declaração da Agência Florestal e de Conservação da Natureza do Ministério da Agricultura em 23 de abril de 2025: a população de ursos-negros-de-Taiwan «aumentou várias vezes em comparação com 20 anos atrás», com frequência de ocorrência abaixo de 1.200 metros de altitude aumentando significativamente.
 
-[^12]: [Academia Sinica — Catálogo de Espécies de Taiwan TaiBNET](https://taibnet.sinica.edu.tw/) — Atualização 2022 pela Academia Sinica, reclassificou formalmente cães e gatos de «espécies exóticas» para «espécies invasoras exóticas», primeira vez que o sistema oficial de classificação de Taiwan lista animais de companhia como invasores.
+[^12]: [Academia Sinica — Catálogo de Espécies de Taiwan TaiBNET](https://taibnet.sinica.edu.tw/) — Atualizado em 2022 pela Academia Sinica, reclassificou oficialmente cães e gatos de «espécies exóticas» para «espécies exóticas invasoras», sendo a primeira vez que o sistema oficial de classificação de Taiwan incluiu animais de companhia na categoria de espécies invasoras.
 
-[^13]: [Reportagem do caso Chien Chih-ching — Sociedade de Investigação Animal](https://www.east.org.tw/) — Caso de maio de 2016 da veterinária Chien Chih-ching do Parque de Proteção Animal de Xinwu, expõe o trauma psicológico de longo prazo dos funcionários de abrigos, catalisou a criação de recursos de aconselhamento psicológico para veterinários de abrigos.
+[^13]: [Reportagem sobre o Incidente de Chien Chu-cheng — Sociedade de Pesquisa Animal](https://www.east.org.tw/) — Incidente de maio de 2016 envolvendo a veterinária Chien Chu-cheng no Parque de Proteção Animal de Xinwu, que expôs o trauma psicológico crônico dos funcionários de abrigos, levando à criação de um sistema de recursos de aconselhamento psicológico para veterinários de abrigos.
 
-[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Artigo original de revista internacional, cães errantes listados como fonte de ameaça principal para pelo menos 188 espécies ameaçadas globalmente, fonte académica original citada pela PanSci.
+[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Artigo original de periódico internacional; cães vagabundos são listados como principal ameaça para pelo menos 188 espécies de vertebrados ameaçados globalmente; fonte acadêmica original citada pela PanSci neste artigo.
 
-[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Estudo de Yen Shih-ching et al. publicado em Scientific Reports sobre impacto de cães errantes na diversidade de vida selvagem na grande área de Taipé (incluindo Parque Nacional de Yangmingshan).
+[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Estudo de Yen Shih-ching et al. publicado na Scientific Reports sobre o impacto de cães vagabundos na diversidade da vida selvagem na região da Grande Taipé (incluindo o Parque Nacional de Yangmingshan).
 
-[^16]: [Site oficial da Sociedade de Investigação Animal de Taiwan](https://www.east.org.tw/) — Argumentos de Chen Yu-min (subdiretora-executiva) et al. sobre TNR / TNvR e responsabilidade de origem do tutor, defendem que política deve voltar à gestão do tutor e não remoção de pontos quentes.
+[^16]: [Site Oficial da Sociedade de Pesquisa Animal de Taiwan](https://www.east.org.tw/) — Argumentos de Chen Yu-min (vice-diretora executiva) et al. sobre TNR/TNvR e responsabilidade na origem dos tutores, defendendo que a política deve voltar-se para a gestão de tutores em vez de remoção em pontos quentes.
 
-[^17]: [Rede de Informação de Proteção Animal — Reportagem especial cultura de adoção de mestiços](https://animal.moa.gov.tw/) — Recursos de promoção política e educação social da política de proteção animal de Taiwan para cultura de adoção de cães de raça mista / mestiços.
+[^17]: [Rede de Informação de Proteção Animal — Série Especial sobre Cultura de Adoção de Mestiços (Mix)](https://animal.moa.gov.tw/) — Promoção política e compilação de recursos de educação social pela política de proteção animal de Taiwan sobre a cultura de adoção de cães mestiços/mix.
 
-[^18]: [Ministério da Educação — Plano de proteção animal em campus](https://animal.moa.gov.tw/) — Base política de cães e gatos de escola em cerca de 700 escolas em Taiwan, a partir de 2019 organiza seleção «Escolas de Excelência em Cães de Escola».
+[^18]: [Ministério da Educação — Programa de Proteção Animal no Campus](https://animal.moa.gov.tw/) — Base política para cães e gatos escolares em mais de 700 escolas em Taiwan; desde 2019, realiza-se a seleção de «Campus Exemplares com Cães Escolares».

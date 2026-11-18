@@ -2,7 +2,7 @@
 title: 'Wu Pao-chun: uma promessa a uma criança paiwan'
 description: 'Filho de uma família rural de Pingtung, com apenas o ensino fundamental e sem falar francês, ele conquistou em Paris a primeira medalha de ouro mundial do Masters de la Boulangerie com um pão de lichia e rosas — que carregava uma promessa feita dez anos antes a uma criança indígena.'
 date: 2026-04-05
-category: 'pt'
+category: 'People'
 tags:
   [
     'Gastronomia',
@@ -18,12 +18,14 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-readingTime: '7'
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-18T14:03:31.134847+00:00'
 ---
 
 # Wu Pao-chun: uma promessa a uma criança paiwan
