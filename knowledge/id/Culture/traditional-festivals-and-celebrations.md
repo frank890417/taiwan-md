@@ -3,7 +3,6 @@ title: 'Ketika Wabat Menghilang, Kembang Api Menjadi Tradisi: Evolusi Tak Terdug
 description: 'Sebuah ritual kota kecil untuk memerangi wabat dengan mematikankan kembang api, 140 tahun kemudian menjadi salah satu festival folklor paling berbahaya di dunia'
 date: 2026-03-24
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Festival Tradisional',
@@ -13,17 +12,20 @@ tags:
     'Imlek',
     'Barbeku pada Kuartal Chine',
   ]
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/傳統節慶與慶典.md'
-sourceCommitSha: 'a05d24314'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-18T15:46:43.494690+00:00'
 ---
 
 # Ketika Kembang Api Menjadi Tradisi: Evolusi Tak Terduga Budaya Festival Taiwan

@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-18T16:06:47.184563+00:00'
 ---
 
 > **30 Detik Ringkasan:** Pada upacara pembukaan Olimpiade Atlanta 1996, seluruh dunia mendengar nyanyian kuno seorang tetua suku Amis Taiwan, namun Guo Ying-nan baru mengetahui suaranya telah didengar oleh 65 juta orang melalui litigasi pada tahun 1998. Kisah absurd "dicuri lalu didengar dunia" ini adalah cerminan dari nasib folk songs Taiwan selama seratus tahun—dari keajaiban penjualan 80.000 rekaman yang diciptakan Chun Chun pada 1930-an, hingga diadaptasi menjadi lagu militer, dan akhirnya menemukan kembali suaranya sendiri pada 1990-an.

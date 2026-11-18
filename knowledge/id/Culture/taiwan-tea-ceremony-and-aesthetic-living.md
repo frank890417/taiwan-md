@@ -18,11 +18,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: '2948c945c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
 sourceBodyHash: 'sha256:b5154ba7226ad9d9'
-translatedAt: '2026-07-28T18:52:01+08:00'
+translatedAt: '2026-11-18T15:45:40.614508+00:00'
 ---
 
 # Teh Taiwan dan Estetika Kehidupan

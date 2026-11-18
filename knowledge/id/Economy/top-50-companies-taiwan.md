@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T13:20:57.362300+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-18T16:19:55.727511+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Setelah penutupan pasar pada 19 Mei 2026, kapitalisasi pasar TSMC mencapai NT$57,18 triliun; satu perusahaan ini mencakup 31,51% dari indeks TAIEX, sekitar empat puluh persen dari total kapitalisasi pasar saham Taiwan, dan menyumbang 71% dari manufaktur wafer global. 49 posisi berikutnya dibagi oleh 12 grup finansial, 11 perusahaan semikonduktor, 6 perusahaan manufaktur elektronik (EMS), dan 5 veteran industri tradisional. Apa yang disebut sebagai keseimbangan tiga kaki antara sektor keuangan, elektronik, dan industri tradisional, pada kenyataannya ditopang oleh satu kaki industri elektronik yang menyangga setengah tubuh ekonomi; gelombang AI sejak tahun 2024 telah mengangkat perusahaan seperti Quanta, Wistron, Wiwynn, dan Hongjin dari kelas menengah ke jajaran atas, yang semakin meningkatkan tingkat konsentrasi pasar. Membaca tabel 50 besar ini sama dengan membaca peta struktur anatomi ekonomi Taiwan: di mana letak tulang belakangnya, di mana titik kegagalan tunggalnya (_single point of failure_), dan di mana organ dalam yang tersembunyi di luar tabel tersebut.
@@ -147,28 +149,29 @@ China Steel di Siaogang, Kaohsiung, juga menopang sebuah tagihan. Data dari Eart
 > **📝 Catatan Kurator**
 > Sisi lain dari 50 perusahaan besar adalah 50 catatan biaya eksternal. Yang dihitung ke dalam PDB adalah nilai produksi pabrik, namun yang tidak dihitung adalah pengeluaran medis rumah tangga di sekitar pabrik, beban perawatan jangka panjang bagi penduduk Yunlin, serta biaya relokasi penduduk Qianzhen, Kaohsiung. Dalam ekonomi, ini disebut sebagai "internalisasi eksternalitas" (externalities): ketika masyarakat memaksa perusahaan untuk menanggung kembali biaya yang selama ini mereka limpahkan ke luar, itulah makna sebenarnya dari ESG. Di antara 50 perusahaan besar di Taiwan, industri semikonduktor dan grup keuangan umumnya memimpin dalam skor ESG; sementara industri tradisional dan petrokimia menjadi objek pengawasan. Penataan ulang skor ini akan mengubah peringkat secara lebih mendalam dalam sepuluh tahun ke depan dibandingkan laporan keuangan kuartalan mana pun.
 
-## Pasar Malam Ningxia dan Kaixuan San Lu
+## Pasar Malam Ningxia dan Jalan Kaixuan San Lu
 
-Jika menghubungkan bagian awal dan akhir, keduanya adalah dua ekstrem dalam satu sistem koordinat yang sama.
+Jika menghubungkan awal dan akhir cerita, keduanya adalah dua ekstrem dalam satu sistem koordinat yang sama.
 
-Pada malam di Pasar Malam Ningxia, lima orang paling penting di industri semikonduktor minum bir di atas meja dan kursi plastik; keesokan harinya, nilai pasar perusahaan tiga dari mereka meningkat ratusan miliar dalam semalam. Pada malam di Kaixuan San Lu, 32 penduduk Qianzhen terlempar ke langit akibat ledakan dari rumah mereka; kasus tersebut disidangkan selama delapan tahun hingga putusan dijatuhkan, namun tidak ada yang bisa mengembalikan nyawa mereka.
+Pada malam di Pasar Malam Ningxia, lima orang paling penting di industri semikonduktor minum bir di atas meja dan kursi plastik; keesokan harinya, nilai pasar perusahaan tiga dari mereka melonjak ratusan miliar dalam semalam. Pada malam di Jalan Kaixuan San Lu, 32 warga Qianzhen terlempar ke udara akibat ledakan di rumah mereka; kasus tersebut disidangkan selama delapan tahun hingga putusan dijatuhkan, namun tidak ada yang bisa mengembalikan nyawa yang telah hilang.
 
-Di antara kedua pemandangan tersebut, terdapat seluruh rentang dari tabel "50 Besar" ini.
+Di antara kedua pemandangan tersebut, terdapat seluruh rentang cakupan dari tabel "50 Besar" ini.
 
-"Gunung Pelindung Negara" berada di posisi paling atas, menopang seluruh industri dan seluruh negara; di kaki gunung tersebut terdapat PM2.5 di Mailiao, aroma propilena di Qianzhen, serta pengaruh pabrik I-Mei dan ruang pamer Hotai yang tidak tercatat dalam peringkat. 50 perusahaan ini secara kolektif adalah tulang punggung Taiwan, di mana satu perusahaan merupakan ruas tulang belakang yang paling tebal, namun di luar tulang punggung tersebut masih terdapat otot, saraf, dan kulit yang tidak tertangkap oleh GDP.
+"Gunung Pelindung Negara" (TSMC) berada di posisi puncak, menopang seluruh industri dan seluruh negara; namun di kaki gunung tersebut terdapat polusi PM2.5 di Mailiao, aroma propilena di Qianzhen, serta dampak dari pabrik I-Mei dan ruang pamer Hotai yang tidak tercatat dalam peringkat ini. 50 perusahaan ini secara kolektif adalah tulang punggung Taiwan; satu perusahaan adalah ruas tulang belakang yang paling tebal, namun di luar tulang punggung tersebut masih terdapat otot, saraf, dan kulit yang tidak tertangkap oleh GDP.
 
-Setelah membaca tabel ini, hal yang seharusnya dibawa pulang oleh pembaca bukanlah "siapa peringkat keberapa atau berapa nilai pasar mereka". Seharusnya adalah sebuah diagram struktur tubuh: di mana letak tulang belakangnya, di mana titik kegagalan tunggalnya (_single point of failure_), di mana biaya eksternalnya, dan di mana organ dalam yang tersembunyi di luar tabel tersebut. Saat gelombang AI berikutnya menyapu kembali, saat geopolitik AS-Tiongkok bergejolak lagi, atau saat suatu perusahaan menantang posisi TSMC dalam proses manufaktur tertentu, diagram struktur ini akan digambar ulang. Nama-nama di 50 posisi tersebut akan berubah, berkurang, atau bertambah, tetapi tabel ini akan selalu mencatat satu hal: perusahaan mana yang menentukan bagaimana generasi orang Taiwan saat ini makan, bekerja, dan mengkhawatirkan hari esok.
+Setelah membaca tabel ini, hal yang seharusnya dibawa pulang oleh pembaca bukanlah "siapa peringkat keberapa" atau "berapa nilai pasar mereka". Seharusnya adalah sebuah diagram struktur tubuh: di mana letak tulang belakangnya, di mana titik kegagalan tunggalnya (_single point of failure_), di mana biaya eksternalnya, dan di mana organ dalam yang tersembunyi di luar tabel tersebut. Ketika gelombang AI berikutnya menyapu kembali, ketika geopolitik AS-Tiongkok bergejolak lagi, atau ketika suatu perusahaan menantang posisi TSMC dalam proses manufaktur tertentu, diagram struktur ini akan digambar ulang. Nama-nama di 50 posisi tersebut akan berubah, berkurang, atau bertambah, tetapi tabel ini akan selalu mencatat satu hal: perusahaan mana yang menentukan bagaimana generasi orang Taiwan saat ini makan, bekerja, dan mengkhawatirkan hari esok.
 
-> **✦** "Semikonduktor membuat Taiwan berdiri di pusat dunia. Namun, apa yang tidak tertulis dalam tabel 50 Besar ini adalah organ dalam dan kulit dari pulau ini; mereka juga merupakan bagian dari Taiwan, hanya saja tidak terlihat oleh GDP."
+> **✦** "Semikonduktor membuat Taiwan berdiri di pusat dunia. Namun yang tidak tertulis dalam tabel 50 Besar ini adalah organ dalam dan kulit dari pulau ini; mereka juga merupakan bagian dari Taiwan, hanya saja tidak terlihat oleh GDP."
 
 **Bacaan Lanjutan**:
 
-- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Peringkat pertama dari 50 besar, satu perusahaan tunggal yang mencakup 31,51% dari indeks terbobot
-- [UKM dan Juara Tersembunyi Taiwan](/id/economy/taiwan-smes-and-hidden-champions) — Di luar I-Mei dan Hotai, terdapat 30% struktur ekonomi yang tidak terlihat
-- [Industri Semikonduktor Taiwan](/id/technology/taiwan-semiconductor-industry) — Dari ITRI hingga proses 2 nanometer, sumber dari 11 kursi semikonduktor dalam daftar 50 besar
-- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Indeks terbobot, peringkat kapitalisasi pasar, dan struktur investor institusional
-- [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Kaitan geopolitik antara _silicon shield_ dan daftar 50 besar
-- [Taiwan Science Park](/id/technology/science-park-development) — Basis produksi bagi kursi semikonduktor dalam daftar 50 besar, versi spasial dari konsentrasi nilai output di tiga taman sains
+- [Topik Khusus Industri Taiwan](/industry/) — Menggambarkan struktur industri menggunakan statistik resmi: ekspor dan GDP selama tujuh puluh tahun, taman sains, pabrik di berbagai kabupaten/kota, sepuluh besar nilai pasar dari tahun ke tahun, ditambah enam perspektif dari berbagai pihak dalam perdebatan publik.
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Peringkat pertama dari 50 Besar, satu perusahaan tunggal yang mencakup 31,51% dari indeks terbobot.
+- [UKM dan Juara Tersembunyi Taiwan](/id/economy/taiwan-smes-and-hidden-champions) — Selain I-Mei dan Hotai, terdapat 30% struktur ekonomi yang tidak terlihat.
+- [Industri Semikonduktor Taiwan](/id/technology/taiwan-semiconductor-industry) — Dari ITRI hingga teknologi 2nm, sumber dari 11 kursi semikonduktor dalam daftar 50 Besar.
+- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Indeks terbobot, peringkat nilai pasar, dan struktur investor institusional.
+- [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Kaitan geopolitik antara _silicon shield_ dengan daftar 50 Besar.
+- [Taman Sains Taiwan](/id/technology/science-park-development) — Basis produksi bagi kursi semikonduktor dari perusahaan 50 Besar; versi spasial dari konsentrasi nilai produksi di tiga taman sains.
 
 ## Sumber Gambar
 

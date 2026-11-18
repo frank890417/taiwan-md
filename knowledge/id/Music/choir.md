@@ -20,11 +20,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/合唱團.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:7b6afad0e85e9dcf'
 sourceBodyHash: 'sha256:590b2ed87ef9a4d2'
-translatedAt: '2026-07-26T12:49:15+08:00'
+translatedAt: '2026-11-18T16:00:38.532188+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Titik awal paduan suara Taiwan adalah Paduan Suara Anak-anak Rongxing yang didirikan Lu Chuan-sheng pada 1957, tetapi pengembangannya bergantung pada tradisi simfoni **Paduan Suara Taipei Philharmonic** dan promosi ekosistem **Pusat Musik Paduan Suara Taiwan (TCMC)**. Dari alumni seperti Paduan Suara Pria Laqian dan Paduan Suara Mulou yang menyapu gelar juara umum Eropa, hingga **Paduan Suara O-Kai** yang mengejutkan dunia dengan a cappella, Taiwan telah menempati posisi tetap sebagai "Lima Besar Paduan Suara Asia". Di balik suara indah itu, terdapat ekosistem lengkap dari popularisasi di sekolah ke profesional internasional, serta kisah menggerakkan tentang menemukan kembali kepercayaan diri etnis di tengah keterbatasan dana dan kesulitan politik.

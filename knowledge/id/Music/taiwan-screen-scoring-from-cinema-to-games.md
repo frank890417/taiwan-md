@@ -26,11 +26,13 @@ image: '/article-images/music/golden-horse-awards-entrance-2016.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons, CC BY-SA 4.0'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Golden_Horse_Awards_Ceremony_entrance_20161126.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣影視配樂.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:3d345fa4696c5375'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d7854f820ae13e37'
 sourceBodyHash: 'sha256:5340a77820daae23'
-translatedAt: '2026-07-29T04:23:55.260162+00:00'
+translatedAt: '2026-11-18T15:54:16.525909+00:00'
 ---
 
 > **Ringkasan 30 detik:** Musik film Taiwan sering dikatakan "standarnya semakin internasional", seperti Ho Kuo-chieh yang menyeberangi lautan ke Sydney merekrut orkestra simfoni 60 orang untuk merekam _Seediq Bale_[^1], atau _Crouching Tiger, Hidden Dragon_ karya Tan Dun yang memenangkan Oscar[^2]. Namun, hal yang benar-benar menyentuh dari garis ini tidak terletak pada standarnya. Dari sintaks orkestra aliran akademis era 1980-an, hingga Lin Ch'iang membawa ruang hampa elektronik ke film Hou Hsiao-hsien[^3], Lin Sheng-hsiang menggunakan yueqin belanjaan 2.000 dollar untuk mengisi musik film hitam-putih[^4], Ko Chih-hao membawa teater lagu koa-á-hì (歌仔戲) dan nán-běi-guǎn (南北管) di depan kuil Dadaocheng ke layar lebar[^5], Chang Wei-fan menulis "sisomi" musik duka upacara pemakaman Taiwan ke dalam game horor[^6], jalur yang dilalui para komponis film Taiwan, adalah dari sekadar melapisi emosi pada gambar, perlahan berubah menjadi menggali suara milik pulau ini sendiri. Suara memiliki lapisan tanah, dan komponis film adalah orang yang menggali ke bawah.

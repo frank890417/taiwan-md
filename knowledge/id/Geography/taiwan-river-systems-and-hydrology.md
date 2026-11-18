@@ -19,11 +19,13 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: 'ff1ce7d66'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f2ac5aec701df4d2'
 sourceBodyHash: 'sha256:4cdc3e89f08b13d3'
-translatedAt: '2026-09-21T00:58:31+08:00'
+translatedAt: '2026-11-18T15:30:59.460109+00:00'
 ---
 
 # Sistem Sungai dan Karakteristik Hidrologi Taiwan: Geografi Hidrologi Aliran Cepat dan Perubahan Musiman
