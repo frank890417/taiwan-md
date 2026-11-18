@@ -17,8 +17,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/埔里紹興酒.md'
-sourceCommitSha: '58a56e425'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:12079ecc271885a4'
 sourceBodyHash: 'sha256:0805d92de4b036d1'
 translatedAt: '2026-09-12T09:12:49+08:00'

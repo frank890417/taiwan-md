@@ -29,9 +29,11 @@ rationale:
   whats_excluded: '九份茶藝觀光 + 金瓜石黃金博物園 + 平溪天燈節 三個 sibling 礦業遺址轉型只在 meta-thesis 帶過，不展開細節（各自有專文）；田代島 / 青島 / Torre Argentina / Disneyland 四個國際對照只用其結構性差異不細展發展史；瑞三鑛業李建興家族戰前政商網絡（含黨政關係）；猴硐礦工文史館 2019 周朝南等退休礦工自力集資完整故事（值得獨立 People 條目）。'
   where_it_hedges: 'v1 [^1] 寫「1990 年 7 月瑞三鑛業正式停產」實為 1990/5/1 瑞山本坑關閉，內文用「1990 年 5 月 1 日」更正並 footnote 引一手報導。「整煤廠 1920 啟用 / 李建興 1934 創設瑞三」兩個年代並存（前者基隆炭礦株式會社建廠，後者李建興承租改組），內文雙錨呈現避免單一年代誤導。「貓口高峰 200-300 隻」採媒體偏低估算，動保處 2016 公布 240、2017/6 達 274 顯示實際更高，內文用「兩、三百隻」概括。'
   whos_pushing_back: '光復里里長周晉億主張「貓公所應該負責繁殖植晶片管理」（提案被動保社群跟農業部反對）；2026 滅村框架的鏡週刊報導；觀光業者擔心遊客減少；本地人「猴硐從不是貓天堂」立場 — 四方都有 footnote 引用。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/猴硐.md'
-sourceCommitSha: '11b9ab5c8'
-sourceContentHash: 'sha256:4e7a3c516a1c10ae'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:da37ca4aa7f65da7'
 sourceBodyHash: 'sha256:e86f8f550c13eab0'
 translatedAt: '2026-09-22T20:01:03.678334+00:00'
 ---

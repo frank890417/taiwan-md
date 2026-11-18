@@ -19,8 +19,10 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
 translatedAt: '2026-09-16T11:57:45+08:00'

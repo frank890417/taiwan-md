@@ -16,8 +16,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-10-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'e90701b36'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e251e2c4f0adef8b'
 sourceBodyHash: 'sha256:5d6fb52db605d429'
 translatedAt: '2026-10-22T18:32:02+08:00'

@@ -21,9 +21,11 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 readingTime: 25
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ad19e9c6bc8bac80'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-09-23T12:46:21.026525+00:00'
 ---

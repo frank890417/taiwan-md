@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '49728f9d5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fde226895a6b4ce1'
 sourceBodyHash: 'sha256:a1ad7c8705807524'
 translatedAt: '2026-09-12T04:55:06+08:00'

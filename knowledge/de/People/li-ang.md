@@ -18,9 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:b8ca4ead247add8e'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---

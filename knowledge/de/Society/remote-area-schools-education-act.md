@@ -23,8 +23,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/偏遠地區學校教育發展條例全解.md'
-sourceCommitSha: 'd7a109601'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3a5b64aac1eb2c2e'
 sourceBodyHash: 'sha256:1640a85ec53af696'
 translatedAt: '2026-09-12T09:12:49+08:00'

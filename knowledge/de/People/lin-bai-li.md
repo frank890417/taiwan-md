@@ -21,9 +21,11 @@ readingTime: 7
 #   why_this_hook: "„König der Notebook-Auftragsfertigung“ und „zwanzig Jahre Kampf gegen Krebs“ nebeneinander – der zweite ist eine vollständig übersehene öffentliche Tatsache, kein Klatsch, sondern eine von ihm selbst mehrfach öffentlich angesprochene Lebenslinie."
 #   whats_excluded: "Details der Auftragsfertigungsverträge Quantas mit den großen Herstellern; konkrete AI-Serverspezifikationen; Details der Nachfolgedebatte um den Sohn (zu bestätigen)"
 #   where_it_hedges: "Quantas Notebook-Marktanteil „über 30 %“ ohne Primärquelle (P0⚠️); Zeitplan der Sohnes-Nachfolge zu bestätigen"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:b074716a2141d65a'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
 translatedAt: '2026-08-18T01:47:39+08:00'
 ---

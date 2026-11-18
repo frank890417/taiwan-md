@@ -17,8 +17,10 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
-sourceCommitSha: 'c24076169'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:f5c7b68537fffdbb'
 sourceBodyHash: 'sha256:8a34ab63ff63d541'
 translatedAt: '2026-09-22T02:06:17+08:00'

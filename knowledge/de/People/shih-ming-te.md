@@ -18,9 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:4e9fd368937980d6'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
 translatedAt: '2026-08-13T07:45:00+08:00'
 ---

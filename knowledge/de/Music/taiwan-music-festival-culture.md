@@ -18,8 +18,10 @@ featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:05a94f16d833d02e'
 sourceBodyHash: 'sha256:7c772c535d0e1d4c'
 translatedAt: '2026-09-16T11:57:45+08:00'

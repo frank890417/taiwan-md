@@ -17,8 +17,10 @@ readingTime: 11
 featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: 'bfe3c4861'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5226e0cd696e818f'
 sourceBodyHash: 'sha256:3697d708565efd02'
 translatedAt: '2026-10-15T19:53:51.069644+00:00'

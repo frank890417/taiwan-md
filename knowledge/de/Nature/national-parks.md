@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/國家公園.md'
-sourceCommitSha: '426c8cbd1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8fb4efae01fb8f38'
 sourceBodyHash: 'sha256:d14d99364c1c4106'
 translatedAt: '2026-09-19T11:59:12+08:00'

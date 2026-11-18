@@ -19,9 +19,11 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/徐熙媛.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:9423951b41e161b7'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
 translatedAt: '2026-08-13T03:40:00+08:00'
 ---

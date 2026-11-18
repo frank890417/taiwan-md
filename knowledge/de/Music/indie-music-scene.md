@@ -19,8 +19,10 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a4'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
 translatedAt: '2026-09-23T08:41:09+08:00'

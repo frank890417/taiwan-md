@@ -22,9 +22,11 @@ readingTime: 7
 #   why_this_hook: "Mit den vier Zeichen „Aprilregen“ (四月望雨) in die Überschrift zu gehen – diese vier Lieder sind nicht nur Hauptwerke, sie sind die Verdichtung seines gesamten Schaffens."
 #   whats_excluded: "Musiktheoretische Analysen der einzelnen Lieder; lückenlose Rekonstruktion der Zusammenarbeit mit den Textdichtern; Liste der Gedenkveranstaltungen in Taoyuan"
 #   where_it_hedges: "Der ursprüngliche Titel von „Blume in der Regennacht“ – „Frühlingsregen“ (春之雨) – bedarf weiterer Quellenbelege (P0⚠️); die Falschüberlieferung „in Taipeh gestorben“ wurde entfernt, Zhudong-Krankenhaus ist korrekt"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:d5ace46188e8ff6c'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
 translatedAt: '2026-08-18T01:45:41+08:00'
 ---

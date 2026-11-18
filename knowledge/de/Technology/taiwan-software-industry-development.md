@@ -16,8 +16,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: 'a520d024d'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ef6914cecff85dfb'
 sourceBodyHash: 'sha256:6cc55941dd179c34'
 translatedAt: '2026-10-15T20:32:09.429733+00:00'

@@ -29,9 +29,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049860918641893571'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: '5ff155c10'
-sourceContentHash: 'sha256:1867ed080d284a4e'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-09-24T17:13:38.343388+00:00'
 ---

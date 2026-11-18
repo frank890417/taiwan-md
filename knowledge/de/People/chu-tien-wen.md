@@ -18,9 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:70b5f8b7a44361ea'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---

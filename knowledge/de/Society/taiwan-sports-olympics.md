@@ -43,8 +43,10 @@ verification:
       '紅葉少棒冒名頂替案 13 人 5 虛報 9 冒名',
     ]
   unverified: ['黃金計畫 3.0 (2024 巴黎週期) 預算總額']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e7727fb00a4fa3ab'
 sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-10-10T05:45:56.627941+00:00'

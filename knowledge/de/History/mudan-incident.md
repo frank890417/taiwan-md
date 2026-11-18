@@ -18,8 +18,10 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/牡丹社事件.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:91f467d8cc029b74'
 sourceBodyHash: 'sha256:1f92c860af97938e'
 translatedAt: '2026-09-12T12:53:10+08:00'

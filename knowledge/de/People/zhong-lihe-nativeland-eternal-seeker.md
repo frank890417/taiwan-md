@@ -18,9 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:336b96e510e804d3'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
 translatedAt: '2026-08-19T03:44:52+08:00'
 ---

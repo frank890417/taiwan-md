@@ -21,8 +21,10 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/乙未之役.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:fc7bac7e7a555233'
 sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
 translatedAt: '2026-09-23T20:45:09+08:00'

@@ -18,8 +18,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: '93810378e'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:16f5e80078ec8c03'
 sourceBodyHash: 'sha256:d51a922d651f3747'
 translatedAt: '2026-10-03T03:14:54+08:00'

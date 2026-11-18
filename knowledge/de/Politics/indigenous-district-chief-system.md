@@ -17,9 +17,11 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/直轄市山地原住民區長.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:0746c045bf4a4492'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:529adc4e4a8cd340'
 sourceBodyHash: 'sha256:4dad7b27d2c04ae8'
 translatedAt: '2026-09-26T14:12:43.997121+00:00'
 ---

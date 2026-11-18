@@ -18,8 +18,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '2b967f4a1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ee1a4e69f41642bb'
 sourceBodyHash: 'sha256:596d8de828c02fc3'
 translatedAt: '2026-10-21T12:32:50+08:00'

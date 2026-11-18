@@ -33,9 +33,11 @@ rationale:
   whats_excluded: '東部 / 中部其他放天燈地點（清境、菁桐溪南、九份）細節 — 平溪是 anchor，他處留給專文；天燈製作 step-by-step 完整工序（職人專業細節對讀者價值低，只在 林國和 anchor 點提及）；天燈圖樣 / 顏色文化符碼（單色五色十色含義不同，留給文化資產專文）；國際媒體 listicle 完整清單（CNN / Discovery / NHK / National Geographic 已 anchor 代表性 2-3 個）。'
   where_it_hedges: 'Discovery Channel 「世界第二大節慶嘉年華」原始出處不易追溯（多家媒體援引但無 Discovery 原檔），文中用「Discovery 等國際媒體推薦」概括而非引述特定排名。「胡典熾家族 1795 拓墾」一段在 wiki vs havefunday 兩來源年份不一致（1778 vs 1795），文中用「清道光年間」+「胡氏家族」雙錨，不細究具體年份。'
   whos_pushing_back: '在地產業派天燈協會理事長胡民樹（「外來者以環保之名傷害地方」）；受害者派 72 歲胡維銘（「錢是他們賺，苦是我們受」）；環團派基隆河守護聯盟陳建志（「必須總量管制」）；下一代派十分國小學生（「永續天燈也是天燈」）— 四方都有 footnote 引用。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/天燈.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:bd2dad6040cda655'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:f8bd2efe9c0ce5ef'
 sourceBodyHash: 'sha256:1f654961432cc687'
 translatedAt: '2026-09-11T19:52:32.278314+00:00'
 ---

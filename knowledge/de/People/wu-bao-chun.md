@@ -19,9 +19,11 @@ featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:bd5210289cafca48'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
 translatedAt: '2026-08-19T04:30:30+08:00'
 ---

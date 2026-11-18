@@ -20,9 +20,11 @@ readingTime: 7
 #   why_this_hook: "Vom Zahlenvergleich 1996 bis 2024 – vom Debüt mit 1,21 Mio. Exemplaren zu fünf Shows im Taipeh Dome, die Zahlen selbst erklären ihre Spannweite."
 #   whats_excluded: "Vollständige Songlisten der einzelnen Alben; Liste kommerzieller Werbedeals; Detailaufstellung der einzelnen Konzerttermine"
 #   where_it_hedges: "Details der Entdeckung durch Chang Yu-sheng: Die Darstellungen weichen leicht ab, Wikipedia ist maßgeblich; der Peking-Regenbogenflaggen-Streit 2023 wird gesondert dokumentiert"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:ccb03edca388c7b1'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
 translatedAt: '2026-08-13T03:30:00+08:00'
 ---

@@ -3,7 +3,17 @@ title: 'Nationales Palastmuseum'
 description: 'Es ist das schwerste „Gepäck" dieser Insel und zugleich die leichteste „digitale Illusion". Von Kriegskisten bis zu Pixeln aus KI-Rechenleistung versucht das Palastmuseum zwischen Waishuangxi in Taipeh und Taibao in Chiayi zu definieren, was ein „Palastmuseum Taiwans" eigentlich ist.'
 date: 2026-04-19
 category: 'Culture'
-tags: ['Museum', 'Geschichte', 'Kunst', 'Taipeh', 'Chiayi', 'Jadekohl', 'Digitale Kunst', 'Transformation']
+tags:
+  [
+    'Museum',
+    'Geschichte',
+    'Kunst',
+    'Taipeh',
+    'Chiayi',
+    'Jadekohl',
+    'Digitale Kunst',
+    'Transformation',
+  ]
 subcategory: '藝術園區'
 author: 'Taiwan.md'
 featured: false
@@ -11,8 +21,10 @@ lastVerified: 2026-04-19
 lastHumanReview: true
 slug: national-palace-museum
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
 translatedAt: '2026-09-22T05:08:51+08:00'

@@ -14,9 +14,11 @@ readingTime: 7
 #   why_this_hook: "Ham zehn Jahre → Giants FA → unabhängige Liga – das ist der vollständige Bogen eines Profisportlers, wirkungsvoller als „aus dem Amis-Taitung in die NPB“."
 #   whats_excluded: "Jahresweise Schlagstatistik; Vergleich der Vergütungen bei NPB-Teams; Details zur unabhängigen Liga 2024-2025"
 #   where_it_hedges: "Der Originalartikel sagt fälschlich „Vertrag mit den Yomiuri Giants (2005)“ und „Highschool in Hualien“; korrigiert: 2005 wurde er im Draft von Ham gewählt, die Highschool besuchte er in Japan"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:43fe535b07f25e8f'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
 translatedAt: '2026-08-13T04:20:00+08:00'
 ---

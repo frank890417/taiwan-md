@@ -1,6 +1,6 @@
 ---
 title: 'Der Jahrhundertwandel der taiwanischen Aquarellmalerei: Hundert Jahre Akkumulation von Ishikawa Kinichirō bis Chien Chung-wei'
-description: "1907 kam Ishikawa Kinichirō nach Taiwan, um zu unterrichten, und legte damit die Wurzeln für ein Jahrhundert taiwanischer Aquarellmalerei. Sein Schüler Lan Yin-ting wurde 1929 Mitglied der Royal Watercolour Society; 1934 gründeten einheimische Maler eigenständig die Taiyang-Kunstvereinigung. Nach dem Krieg verschmolz Ma Pai-sui Tuschemalerei mit Aquarelltechnik, während Shiy De-jinn Taiwans alte Architektur dokumentierte. In den 1990er-Jahren standen drei große Vereinigungen nebeneinander und schlossen sich an das internationale IWS-Aquarellnetzwerk an. Heute ist Chien Chung-wei als doppelt signaturberechtigtes Mitglied von AWS und NWS international bekannt. Dieser hundertjährige Weg von der kolonialen Lehrerausbildung bis zur internationalen Wettbewerbsbühne verbindet die Freilichtmalerei-Tradition, das Lehrerausbildungssystem und die globale Aquarell-Community; die Vitalität der taiwanischen Aquarellmalerei liegt gerade in der Spannung, die sich aus dem parallelen Nebeneinander von offiziellen und unabhängigen, einheimischen und externen, traditionellen und wettbewerbsorientierten Kräften ergibt."
+description: '1907 kam Ishikawa Kinichirō nach Taiwan, um zu unterrichten, und legte damit die Wurzeln für ein Jahrhundert taiwanischer Aquarellmalerei. Sein Schüler Lan Yin-ting wurde 1929 Mitglied der Royal Watercolour Society; 1934 gründeten einheimische Maler eigenständig die Taiyang-Kunstvereinigung. Nach dem Krieg verschmolz Ma Pai-sui Tuschemalerei mit Aquarelltechnik, während Shiy De-jinn Taiwans alte Architektur dokumentierte. In den 1990er-Jahren standen drei große Vereinigungen nebeneinander und schlossen sich an das internationale IWS-Aquarellnetzwerk an. Heute ist Chien Chung-wei als doppelt signaturberechtigtes Mitglied von AWS und NWS international bekannt. Dieser hundertjährige Weg von der kolonialen Lehrerausbildung bis zur internationalen Wettbewerbsbühne verbindet die Freilichtmalerei-Tradition, das Lehrerausbildungssystem und die globale Aquarell-Community; die Vitalität der taiwanischen Aquarellmalerei liegt gerade in der Spannung, die sich aus dem parallelen Nebeneinander von offiziellen und unabhängigen, einheimischen und externen, traditionellen und wettbewerbsorientierten Kräften ergibt.'
 date: 2026-03-19
 category: 'Art'
 tags: ['Art', 'Aquarell', 'Malerei', 'Aquarell', 'Kunstgeschichte']
@@ -13,8 +13,10 @@ lastHumanReview: true
 #   why_this_hook: "石川1907→簡忠威AWS雙會員：一個教室啟蒙到國際賽場的百年弧線"
 #   whats_excluded: "各協會年報細節；2024後新生代；IWS台灣分會組織史；美術教育108課綱"
 #   where_it_hedges: "藍蔭鼎1971十大水彩：引述名稱為『歐美藝術評論學會』，確切組織名可參閱鴻禧基金會原始記錄"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
 translatedAt: '2026-09-19T05:12:32+08:00'

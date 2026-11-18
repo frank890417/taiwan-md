@@ -22,8 +22,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: '7ad70728d'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3c540cfd32577b2a'
 sourceBodyHash: 'sha256:6adfa5c6ea8f6a2d'
 translatedAt: '2026-10-04T06:53:10+08:00'

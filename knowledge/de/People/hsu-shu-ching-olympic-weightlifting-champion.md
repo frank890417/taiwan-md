@@ -3,15 +3,18 @@ title: 'Hsu Shu-ching: Lunbei 1991, Taiwans erste Doppel-Olympiasiegerin im Gewi
 description: 'Geboren am 9. Mai 1991 in eine Hakka-Familie in der Gemeinde Lunbei im Landkreis Yunlin; 159 cm groß. Bei den Olympischen Spielen 2012 in London in der Frauenklasse bis 53 kg erreichte sie 219 kg (96 + 123) und gewann Silber; nachdem die Goldmedaillengewinnerin Zhao Changling (Kasachstan) die Doping-Nachkontrolle nicht bestand, wurde sie im Dezember 2020 zur Goldmedaillengewinnerin aufgewertet. 2016 in Rio gewann sie mit 212 kg (100 + 112) direkt Gold. Taiwans erste Doppel-Olympiasiegerin. Rücktritt am 3. Juni 2018. 2019 wegen einer Dopingprobe von 2017 für drei Jahre gesperrt (berührt die beiden Olympiasiege nicht).'
 date: 2026-03-19
 category: 'People'
-tags: ['Sport', 'Gewichtheben', 'Olympia', 'Goldmedaille', '53-kg-Klasse', 'Yunlin']
+tags:
+  ['Sport', 'Gewichtheben', 'Olympia', 'Goldmedaille', '53-kg-Klasse', 'Yunlin']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
 translatedAt: '2026-08-23T19:24:19+08:00'

@@ -23,9 +23,11 @@ rationale:
   whats_excluded: '坊間誤算到李宗盛頭上的歌（滾滾紅塵=羅大佑／愛上一個不回家的人=飛碟／味道=姚謙／花心=喜納昌吉／Music Factory=羅大佑廠牌）全部移到「那些其實不是他寫的歌」段澄清，不列為他的作品；New Balance 商業化 critique 無來源不寫；金曲特別貢獻獎從未得不寫。'
   where_it_hedges: '朱衛茵婚年中文維基 1987／英文 1988 分歧，採 1987；2013 中年自述部分簡體重導來源，引用前已核繁體語境；長春瓦斯行原始名稱含「煤氣」，依台灣用語改「瓦斯」。'
   whos_pushing_back: '認為他過譽、唱功被詬病的樂評；罵他「拋家棄子」渣男的網路輿論；認為大白話不如林夕造境的詞評派——三種聲音都在「靠女人吃飯/渣男」與「窺人心白居易」兩段並陳。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李宗盛.md'
-sourceCommitSha: 'db2633671'
-sourceContentHash: 'sha256:cae032d995bba4cf'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:1c035df4dee1c3d3'
 sourceBodyHash: 'sha256:e6fee31313863c50'
 translatedAt: '2026-09-24T22:33:38.137462+00:00'
 ---

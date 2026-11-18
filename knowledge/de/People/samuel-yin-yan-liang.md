@@ -42,9 +42,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-26'
     url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:de14cddb4cd06bf6'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
 translatedAt: '2026-09-22T23:15:20.733734+00:00'
 ---

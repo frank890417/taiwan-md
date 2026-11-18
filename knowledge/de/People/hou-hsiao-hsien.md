@@ -18,9 +18,11 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:64e8c8786128b4a0'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
 translatedAt: '2026-08-13T07:30:00+08:00'
 ---

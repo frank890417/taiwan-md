@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣獼猴.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:cdaa1e14237e0765'
 sourceBodyHash: 'sha256:a5f55aca8739dd3e'
 translatedAt: '2026-09-16T11:57:45+08:00'

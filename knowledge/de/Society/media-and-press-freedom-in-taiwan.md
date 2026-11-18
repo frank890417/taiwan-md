@@ -18,8 +18,10 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
-sourceCommitSha: '78ae80cba'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:582905028c9e4b0e'
 sourceBodyHash: 'sha256:cbd2decd38c4f756'
 translatedAt: '2026-10-02T00:52:49+08:00'

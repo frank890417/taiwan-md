@@ -17,8 +17,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布袋戲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:90bff79aa4402b0e'
 sourceBodyHash: 'sha256:79bbd46fe867d775'
 translatedAt: '2026-09-10T03:36:28+08:00'

@@ -18,9 +18,11 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/孫燕姿.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:d8ef4cf5cb173c45'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:5d0b586f39d87683'
 sourceBodyHash: 'sha256:22d5eb111a89acdd'
 translatedAt: '2026-08-13T05:00:00+08:00'
 ---

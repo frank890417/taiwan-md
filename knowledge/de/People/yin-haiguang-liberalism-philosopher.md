@@ -21,8 +21,10 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/殷海光.md'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/殷海光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:0d8d9acd7b29d4d0'
 sourceBodyHash: 'sha256:51ae38d79a7cc954'
 translatedAt: '2026-09-16T11:57:45+08:00'

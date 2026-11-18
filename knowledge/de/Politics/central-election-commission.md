@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/中選會制度.md'
-sourceCommitSha: 'e957cf7f1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7e5f1972948a38bd'
 sourceBodyHash: 'sha256:a1bf64af5a7a6426'
 translatedAt: '2026-09-25T14:32:57+08:00'

@@ -22,8 +22,10 @@ sporeLinks:
   [
     "{'id': 13, 'platform': 'threads', 'date': '2026-04-08', 'url': 'https://www.threads.com/@taiwandotmd/post/DW2rgufk40S'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台海危機與兩岸關係發展.md'
-sourceCommitSha: '5aa11ee92'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:292f82300f3a8a11'
 sourceBodyHash: 'sha256:dbb56e0c9c904d7c'
 translatedAt: '2026-09-21T21:38:57+08:00'

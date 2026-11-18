@@ -30,9 +30,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-23'
     url: 'https://x.com/taiwandotmd/status/2047213679826149450'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: '7c4a58918'
-sourceContentHash: 'sha256:023994ebb54581de'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:0b5ddca64df69aa6'
 sourceBodyHash: 'sha256:0fcafeba09518f70'
 translatedAt: '2026-09-26T03:33:42.694408+00:00'
 ---

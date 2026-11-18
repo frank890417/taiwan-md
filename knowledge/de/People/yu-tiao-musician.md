@@ -27,8 +27,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/魚條.md'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/魚條.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:bd29d1a24daa64e4'
 sourceBodyHash: 'sha256:e1d78513cc7ffb2f'
 translatedAt: '2026-09-11T07:09:36+08:00'

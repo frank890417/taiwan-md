@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
 translatedAt: '2026-09-19T11:59:12+08:00'

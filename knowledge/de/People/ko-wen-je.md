@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/柯文哲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f3f1641bd9815359'
 sourceBodyHash: 'sha256:639fe26edbc39449'
 translatedAt: '2026-09-16T11:57:45+08:00'

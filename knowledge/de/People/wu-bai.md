@@ -18,9 +18,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:71bb6dc9665fc922'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
 translatedAt: '2026-08-19T03:50:18+08:00'
 ---
