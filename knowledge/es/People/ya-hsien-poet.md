@@ -2,9 +2,7 @@
 title: 'Ya Hsien: escribió 《El abismo》 y dejó la pluma; su segunda mitad de vida en el suplemento literario de United Daily News se volvió una página de la historia poética'
 description: 'En 1968, a los 36 años, Ya Hsien reunió noventa poemas en 《El abismo》 y luego dejó de escribir. De 1977 a 1998 dirigió durante 21 años el suplemento literario de United Daily News, transformando la mesa editorial en el espacio público literario más importante del Taiwán de posguerra. El 11 de octubre de 2024 murió en Vancouver, Canadá, a los 92 años: su silencio de 56 años tras dejar la pluma fue más largo que mil poemarios, y el estribillo «Aleluya, sigo vivo» se convirtió en una marca de la historia poética de la era de la ley marcial, cuya oscuridad logró eludir la censura del Comando General de Guarnición.'
 date: 2026-05-28
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學與詩人'
 tags:
   [
     'literatura',
@@ -16,18 +14,23 @@ tags:
     'Henan',
     'Vancouver',
   ]
+subcategory: '文學與詩人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-28
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:e787dc16343b5dd6'
-sourceBodyHash: 'sha256:b6b66329e69543f7'
-translatedAt: '2026-06-16T17:10:37Z'
+researchReport: 'reports/research/2026-05/taiwan-poets-2-postwar-modernism.md'
 image: '/article-images/people/yaxian-portrait-2012.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/瘂弦.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:e787dc16343b5dd6'
+sourceBodyHash: 'sha256:b6b66329e69543f7'
+translatedAt: '2026-11-18T15:53:31.607700+00:00'
 ---
 
 # Ya Hsien: escribió 《El abismo》 y dejó la pluma; su segunda mitad de vida en el suplemento literario de United Daily News se volvió una página de la historia poética

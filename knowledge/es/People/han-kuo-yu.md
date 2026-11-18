@@ -1,14 +1,14 @@
 ---
-title: 'Han Kuo-yu (韓國瑜)'
-description: 'El primer alcalde de una ciudad especial destituido mediante un referéndum en la historia, que cuatro años después se convirtió en presidente del Legislativo. ¿Cómo es este trayecto político?'
+title: 'Han Kuo-yu'
+description: 'El primer alcalde de una ciudad controlada directamente en la historia que fue destituido, y cuatro años después se convirtió en el Presidente del Legislativo. ¿Cómo es esta trayectoria política?'
 date: 2026-04-11
 category: 'People'
 tags:
   [
     'políticos',
     'Kuomintang',
-    'presidente del Legislativo',
-    'Han-liu',
+    'Presidente del Legislativo',
+    'Fenómeno Han',
     'Kaohsiung',
     '2018',
     '2020',
@@ -30,11 +30,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-10-11T01:05:43+08:00'
+translatedAt: '2026-11-18T16:07:27.373722+00:00'
 ---
 
 # Han Kuo-yu (韓國瑜)

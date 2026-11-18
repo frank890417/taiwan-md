@@ -1,16 +1,16 @@
 ---
 title: 'Jensen Huang'
-description: 'De un internado en Kentucky a un imperio de cinco billones de dólares: cómo un niño de Tainan que barría baños apostó por un futuro que tardaría diez años en llegar'
+description: 'De un internado en Kentucky a un imperio de cinco billones de dólares: cómo un chico de Tainan que limpiaba baños apostó por un futuro que tardaría diez años en llegar.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'Figura',
+    'Personajes',
     'Jensen Huang',
     'NVIDIA',
     'IA',
-    'Semiconductores',
-    'Tecnología',
+    'semiconductores',
+    'tecnología',
     'Tainan',
     'GPU',
   ]
@@ -21,190 +21,192 @@ lastVerified: 2026-06-22
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '0df538d8c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-09-16T17:51:19.082754+00:00'
+translatedAt: '2026-11-18T22:56:02+08:00'
 ---
 
 # Jensen Huang (黃仁勳)
 
-> **Resumen en 30 segundos:** En 1973, el niño de nueve años Jensen Huang fue enviado a un internado en el estado de Kentucky, donde barraba el baño todos los días y compartía habitación con un adolescente de diecisiete años cubierto de cicatrices y tatuajes. Cincuenta y dos años después, la empresa que fundó, NVIDIA, se convirtió en la primera compañía de la historia humana en superar los cinco billones de dólares en capitalización bursátil. Su apuesta clave no fue la GPU, sino CUDA en 2006, una decisión que todos consideraron loca y que tardaría diez años en ser validada por la revolución de la IA.
+> **Resumen en 30 segundos:** En 1973, un Jensen Huang de nueve años fue enviado a un internado en Kentucky, donde limpiaba baños cada día y su compañero de cuarto era un adolescente de diecisiete años cubierto de cicatrices y tatuajes. Cincuenta y dos años después, la empresa que fundó, NVIDIA, se convirtió en la primera compañía en la historia de la humanidad con una capitalización bursátil superior a los cinco billones de dólares. Su apuesta clave no fue la GPU, sino CUDA en 2006, algo que todos consideraron una locura y cuyo valor solo se demostraría tras la revolución de la IA diez años después.
 
-![Jensen Huang dando un discurso en el escenario de Computex Taipei, vistiendo su icónica camisa oscura, con una gran pantalla de proyección detrás y una audiencia sentada frente a él](/article-images/technology/computex-jensen-huang-2016.webp)
-_Jensen Huang dando un discurso en el escenario de Computex Taipei. Desde ese estudiante de internado en Kentucky que barraba el baño hasta el «líder de la IA» con toda la cadena de suministro de semiconductores de Taiwán sentada en la audiencia, han pasado cincuenta años. Foto: NVIDIA Taiwan, CC BY 2.0._
+![Jensen Huang dando un discurso en el escenario de Computex Taipei, vistiendo su característica chaqueta oscura, con una gran pantalla de proyección detrás y una audiencia sentada frente a él](/article-images/technology/computex-jensen-huang-2016.webp)
+_Jensen Huang dando un discurso en el escenario de Computex Taipei. Desde aquel estudiante de internado en Kentucky que limpiaba baños hasta convertirse en el "gurú de la IA" ante toda la cadena de suministro de semiconductores de Taiwán, han pasado cincuenta años. Foto: NVIDIA Taiwan, CC BY 2.0._
 
-En otoño de 1973, un niño taiwanés de nueve años, bajo de estatura y que no hablaba inglés, entró en el Instituto Bautista Oneida (Oneida Baptist Institute) en el condado de Clay, Kentucky. La escuela fue fundada en 1899, inicialmente para educar a niños pobres de las montañas Apalaches, y más tarde también acogió a adolescentes en «situaciones difíciles»[^1]. El tío y la tía de Huang lo confundieron con una prestigiosa escuela privada, y sus padres vendieron casi todas sus posesiones para pagar la matrícula.
+En el otoño de 1973, un pequeño niño taiwanés de nueve años que no hablaba inglés entró en el Oneida Baptist Institute, en el condado de Clay, Kentucky. Esta escuela fue fundada en 1899, inicialmente para educar a niños pobres de la región de los Apalaches, y más tarde acogió a jóvenes en "situaciones difíciles"[^1]. Los tíos de Jensen Huang pensaron erróneamente que era una prestigiosa escuela privada; sus padres vendieron casi todos sus bienes para pagar la matrícula.
 
-Era el interno más joven en la historia de la escuela. La habitación que le asignaron era para un «adolescente de diecisiete años cubierto de cicatrices y tatuajes»[^2]. Allí, Huang barraba los baños del dormitorio masculino después de clases todos los días y era frecuentemente intimidado. Pero llegó a un acuerdo con su compañero de cuarto: él le enseñaba a leer al compañero, y el compañero le enseñaba a levantar pesas.
+Fue el estudiante interno más joven en la historia de la escuela. El compañero de cuarto que le asignaron era un "adolescente de diecisiete años cubierto de cicatrices y tatuajes"[^2]. Allí, Jensen Huang limpiaba los baños de la residencia masculina cada día después de clase y solía ser objeto de acoso. Sin embargo, llegó a un acuerdo con su compañero: el compañero sabía leer y le enseñaba a Jensen Huang, mientras que este último le ayudaba en otras tareas.
 
-El 29 de octubre de 2025, la capitalización bursátil de NVIDIA superó los cinco billones de dólares, convirtiéndose en la empresa más valiosa de la Tierra[^3]. Para mayo de 2026, el patrimonio neto de Huang alcanzó aproximadamente 182.000 millones de dólares, ubicándose en el séptimo lugar mundial[^4].
+El 29 de octubre de 2025, la capitalización bursátil de NVIDIA superó los cinco billones de dólares, convirtiéndose en la empresa más valiosa del planeta[^3]. Para mayo de 2026, el patrimonio neto de Jensen Huang alcanzó aproximadamente NT$6.1 billones (unos 182.000 millones de dólares), situándose en el séptimo lugar mundial[^4].
 
 > **📝 Nota del curador**
-> La historia de Jensen Huang nunca ha sido un caldo de pollo motivacional de «el esfuerzo trae el éxito». Entre barrar el baño y apostar por CUDA, NVIDIA estuvo al borde de la quiebra al menos en tres ocasiones. La verdadera narrativa es otra: debes seguir adelante cuando todos creen que estás loco.
+> La historia de Jensen Huang nunca ha sido un relato motivacional de "el esfuerzo conduce al éxito". Entre limpiar baños y apostar por CUDA, hubo al menos tres momentos en los que NVIDIA estuvo a punto de quebrar. El verdadero hilo conductor es otra frase: debes seguir adelante cuando todo el mundo piensa que estás loco.
 
-## Tainan, Bangkok, Kentucky: una infancia desplazada
+## Tainan, Bangkok y Kentucky: una infancia fuera de lugar
 
-Jensen Huang nació en Taipéi en 1963 y creció en Tainan. Su padre, Huang Hsing-tai, era ingeniero químico en una refinería de petróleo, y su madre, Luo Tsai-hsiu, era maestra. Era una familia de clase media que hablaba taiwanés; su madre elegía diez palabras aleatorias del diccionario cada día para enseñárselas a sus dos hijos. A los cinco años, toda la familia se mudó a Tailandia por el trabajo de su padre, y Huang estudió en la Escuela Internacional Ruamrudee (Ruamrudee International School) en Bangkok.
+Jensen Huang nació en Taipéi en 1963 y creció en Tainan. Su padre, Huang Hsing-tai (黃興泰), era ingeniero químico en una refinería, y su madre, Lo Tsai-hsiu (羅采秀), era profesora. Era una familia de clase media que hablaba taiwanés; cada día, la madre elegía diez palabras al azar de un diccionario para enseñárselas a sus dos hijos. A los cinco años, la familia se mudó a Tailandia siguiendo el trabajo del padre, y Jensen Huang estudió en la Ruamrudee International School en Bangkok.
 
-En 1973, Tailandia sufrió grandes disturbios políticos. Los padres de Huang decidieron enviar a sus dos hijos a Estados Unidos para vivir con su tío y tía, que acababan de inmigrar a Tacoma, Washington. El tío y la tía inscribieron a los hermanos en el Instituto Bautista Oneida. En 2019, un ya exitoso Huang donó dos millones de dólares a la escuela, construyendo un edificio de dormitorios femeninos y aulas con su nombre[^5].
+En 1973, Tailandia sufrió grandes disturbios políticos. Los padres de Jensen Huang decidieron enviar a sus dos hijos a Estados Unidos para reunirse con sus tíos, que acababan de emigrar a Tacoma, Washington. Los tíos inscribieron a los hermanos en el Oneida Baptist Institute. En 2019, un ya exitoso Jensen Huang donó dos millones de dólares a la escuela para construir un edificio de dormitorios y aulas para mujeres que lleva su nombre[^5].
 
-> **💡 ¿Sabías que?**
-> A los catorce años, Huang apareció en la portada de la revista estadounidense _Sports Illustrated_ como jugador de billar[^2]. En ese internado, se unió al equipo de natación, aprendió a jugar al billar y encontró en el deporte una forma de sobrevivir.
+> **💡 ¿Sabías que...?**
+> A los catorce años, Jensen Huang apareció en la revista estadounidense _Sports Illustrated_ como jugador de 탁구 (ping-pong) [en el original: 乒乓/桌球][^2]. En aquel internado, se unió al equipo de natación y aprendió a jugar ping-pong, encontrando en el deporte una forma de sobrevivir.
 
-Dos años después, sus padres finalmente inmigraron a Beaverton, Oregón, y los hermanos se fueron de Kentucky. Huang ingresó a la Escuela Secundaria Aloha (Aloha High School), saltándose dos grados y graduándose a los dieciséis años. En 2002, recordó esta experiencia diciendo: «Mis recuerdos de Kentucky son más vívidos que los de cualquier otra etapa de mi vida».
+Dos años después, sus padres finalmente emigraron a Beaverton, Oregón, y los hermanos pudieron dejar Kentucky. Jensen Huang ingresó en la Aloha High School, saltándose dos grados y graduándose a los dieciséis años. En 2002, recordó esta experiencia diciendo: "Mis recuerdos de Kentucky son más vívidos que cualquier otro período de mi vida".
 
-## El niño que lavaba platos en Denny's, el que emprendió en Denny's
+## El chico que lavaba platos en Denny's, el hombre que fundó su empresa en Denny's
 
-Desde los quince años, Huang trabajó en una cadena de restaurantes Denny's en Oregón, lavando platos, recogiendo mesas y trabajando como camarero, haciendo turnos nocturnos durante cinco años (1978-1983). Más tarde dijo que este trabajo lo ayudó a superar su timidez. Después de graduarse de la secundaria, eligió la Universidad Estatal de Oregón por ser la más barata, estudiando ingeniería eléctrica y se graduó con honores en 1984. En ese momento era el más pequeño de la clase, «parecía un niño».
+Desde los quince años, Jensen Huang trabajó en una cadena de restaurantes Denny's en Oregón, lavando platos, recogiendo mesas y como camarero durante cinco años en el turno de noche (de 1978 a 1983). Más tarde dijo que este trabajo le ayudó a superar su timidez. Tras graduarse en la secundaria, eligió estudiar ingeniería eléctrica en la Universidad Estatal de Oregón por tener las matrículas más económicas, y se graduó con honores en 1984. En aquel entonces era el más joven de su clase y "parecía un niño".
 
-Después de trabajar como diseñador de chips en Silicon Valley, trabajando primero en AMD y luego en LSI Logic, conoció a Chris Malachowsky y Curtis Priem en el proyecto Sun Microsystems de LSI. Los tres colaboraron en el diseño del acelerador gráfico GX, que tuvo un gran éxito, haciendo que los ingresos de Sun pasaran de 262 millones de dólares en 1987 a 656 millones en 1990.
+Tras trabajar unos años como diseñador de chips en Silicon Valley, pasando por AMD y LSI Logic, conoció a Chris Malachowsky y Curtis Priem durante un proyecto para Sun Microsystems en LSI. El acelerador gráfico GX que los tres diseñaron conjuntamente fue un gran éxito, permitiendo que los ingresos de Sun saltaran de 262 millones de dólares en 1987 a 656 millones de dólares en 1990.
 
-En 1992, los tres comenzaron a reunirse en secreto en un restaurante Denny's junto a la carretera en el este de San José para planificar su emprendimiento. Huang eligió Denny's porque «era más silencioso que su casa y el café era barato». El 5 de abril de 1993, fundaron oficialmente NVIDIA[^6]. El nombre de la compañía proviene del latín _invidia_ (envidia), porque Priem quería que sus competidores «se pusieran verdes de envidia». ¿Capital de emprendimiento? Cada uno puso 200 dólares, un total de 600 dólares.
+En 1992, los tres comenzaron a reunirse secretamente en un restaurante Denny's en East San Jose para elaborar su plan de negocios. Jensen Huang eligió Denny's porque "era más tranquilo que casa y el café era más barato". El 5 de abril de 1993, fundaron oficialmente NVIDIA[^6]. El nombre de la empresa proviene del latín _invidia_ (envidia), porque Priem quería que sus competidores "estuvieran verdes de envidia". ¿El capital inicial? Cada uno aportó 200 dólares, sumando un total de 600 dólares.
 
-> **✦** «Jensen Huang lavaba platos en Denny's a los quince años y fundó la empresa más valiosa del mundo en Denny's a los treinta.»
+> **✦** "Jensen Huang lavaba platos en Denny's a los quince años; a los treinta fundó en Denny's la empresa más valiosa del mundo."
 
 ## A solo treinta días de la quiebra
 
-Los primeros años de NVIDIA no fueron una historia de éxito, sino de casi muerte.
+Los primeros años de NVIDIA no fueron una historia de éxito, sino una historia de supervivencia extrema.
 
-Los tres fundadores admitieron más tarde que «no tenían idea de cómo abrir una empresa»[^7]. Huang arruinó su presentación ante el legendario inversor de capital de riesgo de Silicon Valley, Don Valentine, pero el capital de riesgo Sequoia de Valentine invirtió de todos modos, gracias a la recomendación de Wilfred Corrigan, director ejecutivo de LSI Logic.
+Los tres fundadores admitieron más tarde que "no tenían ni idea de cómo dirigir una empresa"[^7]. Jensen Huang cometió errores al presentar su proyecto ante el legendario inversor de Silicon Valley Don Valentine, pero Sequoia Capital terminó invirtiendo gracias al respaldo de Wilfred Corrigan, entonces CEO de LSI Logic.
 
-NVIDIA eligió inicialmente usar cuadriláteros (quadrilateral) para la renderización gráfica, en lugar del estándar de la industria: los triángulos. Esta ruta tecnológica fue casi fatal. Cuando la empresa estaba a punto de no poder sostenerse, el gigante japonés de los videojuegos SEGA invirtió cinco millones de dólares para darle oxígeno, dándoles tiempo para pivotar. En agosto de 1997, cuando se lanzó la tarjeta gráfica RIVA 128, la empresa solo tenía en caja el salario de un mes.
+Inicialmente, NVIDIA optó por usar cuadriláteros (_quadrilaterals_) para el renderizado gráfico en lugar del estándar de la industria, los triángulos. Esta ruta tecnológica fue casi fatal. Cuando la empresa estuvo a punto de colapsar, el gigante japonés SEGA invirtió cinco millones de dólares para mantenerla con vida, dándoles tiempo para pivotar. En agosto de 1997, cuando se lanzó la tarjeta gráfica RIVA 128, la empresa solo tenía fondos para un mes de salarios en su cuenta.
 
-Desde entonces, «nuestra empresa está a solo treinta días de cerrar» se convirtió en el lema no oficial de NVIDIA. Huang comenzaba muchas de sus presentaciones internas en los años siguientes con esta frase.
+Desde entonces, "nuestra empresa está a solo treinta días de la quiebra" se convirtió en el lema no oficial de NVIDIA. Jensen Huang comenzaba sus presentaciones internas con esta frase durante muchos años posteriores.
 
-## En 1999 inventó una palabra, en 2006 apostó por diez años después
+## Inventar un término en 1999 y apostar por una década después en 2006
 
-En 1999, NVIDIA lanzó GeForce 256. Huang le dio un nuevo nombre: GPU (Graphics Processing Unit, Unidad de Procesamiento Gráfico). Esta abreviatura cambió para siempre el lenguaje de toda la industria. NVIDIA salió a bolsa ese mismo año, ofreciendo acciones al público.
+En 1999, NVIDIA lanzó la GeForce 256. Jensen Huang le dio un nuevo nombre: GPU (_Graphics Processing Unit_, unidad de procesamiento gráfico). Este acrónimo cambió para siempre el lenguaje de toda la industria. Ese mismo año, NVIDIA salió a bolsa mediante una oferta pública de acciones.
 
 Pero la decisión que realmente lo cambió todo ocurrió en 2006.
 
-Huang lanzó CUDA (Compute Unified Device Architecture), una plataforma que permitía a las GPU no solo dibujar, sino también realizar cálculos científicos generales. Wall Street no lo compró, los costos de I+D se dispararon y las acciones cayeron. Casi todos los analistas pensaron que era una pérdida de dinero: ¿quién necesita tarjetas gráficas para hacer matemáticas?
+Jensen Huang lanzó CUDA (_Compute Unified Device Architecture_), una plataforma que permitía a las GPU no solo dibujar gráficos, sino también realizar cálculos científicos generales. Wall Street no lo aceptó; los costes de investigación se dispararon y el precio de las acciones cayó. Casi todos los analistas pensaban que era un desperdicio de dinero: ¿quién necesitaba una tarjeta gráfica para hacer matemáticas?
 
 > **📝 Nota del curador**
-> La historia de CUDA es la tensión narrativa central de Huang y NVIDIA. En 2006 hizo una apuesta que no se validaría hasta 2012: el aprendizaje profundo necesitaba grandes cálculos de matrices, y la arquitectura paralela de las GPU encajaba perfectamente. No fue visión de futuro, fue una persona que «hizo lo correcto en el momento equivocado» que esperó a que el tiempo lo alcanzara.
+> La historia de CUDA es la tensión narrativa central de Jensen Huang y NVIDIA. En 2006, hizo una apuesta que solo empezaría a validarse en 2012: el aprendizaje profundo (_deep learning_) requiere un gran volumen de operaciones matriciales, y la arquitectura paralela de las GPU encajaba perfectamente. No fue solo visión; fue la historia de alguien que "hizo lo correcto pero en el momento equivocado" y aguantó hasta que el tiempo lo alcanzó.
 
-Alrededor de 2012, el aprendizaje profundo explotó de repente en la comunidad académica. Los investigadores descubrieron que el hardware más eficiente para entrenar redes neuronales era la GPU de NVIDIA combinada con CUDA. Desde entonces, NVIDIA ya no fue solo una «empresa de tarjetas gráficas», sino el corazón de la potencia de cómputo de IA global. Desde ChatGPT hasta la conducción autónoma, el motor detrás de todo es casi siempre NVIDIA.
+Alrededor de 2012, el aprendizaje profundo explotó repentinamente en el mundo académico. Los investigadores descubrieron que el hardware más eficiente para entrenar redes neuronales era precisamente la GPU de NVIDIA combinada con CUDA. Desde entonces, NVIDIA dejó de ser solo una "empresa de tarjetas gráficas" para convertirse en el corazón del poder de cómputo de la IA mundial. Desde ChatGPT hasta la conducción autónoma, el motor que hay detrás es casi siempre NVIDIA.
 
-![Jensen Huang sosteniendo la GPU RTX Blackwell en su discurso principal del CES 2025](/article-images/technology/jensen-huang-ces-2025-blackwell.webp)
-_Jensen Huang sosteniendo la nueva generación de GPU Blackwell en el CES 2025. La apuesta por CUDA en 2006, burlada por todos, esperó casi veinte años hasta que la revolución de la IA la hizo realidad. Foto: Pronoia, CC0._
+![Jensen Huang sosteniendo una GPU RTX Blackwell durante su discurso principal en el CES 2025](/article-images/technology/jensen-huang-ces-2025-blackwell.webp)
+_Jensen Huang alzando la nueva generación de GPU Blackwell en el CES 2025. La apuesta por CUDA en 2006, que todos se burlaron, tuvo que esperar casi veinte años hasta que la revolución de la IA finalmente la hizo realidad. Foto: Pronoia, CC0._
 
 ## Cuando el tiempo finalmente lo alcanzó
 
-El avance de 2012 fue solo el prólogo. En los diez años siguientes, la apuesta burlada de Huang se materializó a una velocidad que ni él mismo había previsto.
+El avance de 2012 fue solo el prólogo. En la década siguiente, la apuesta de Jensen Huang, por la que tanto se burlaron, dio frutos a una velocidad que ni él mismo habría podido prever.
 
-En 2016, entregó personalmente el primer supercomputador de IA DGX-1 de NVIDIA al pequeño laboratorio OpenAI, entonces desconocido. La capacidad de cómputo de esa máquina fue la que posteriormente entrenó ChatGPT[^17]. A finales de 2022, ChatGPT apareció de la nada, y el mundo entero se dio cuenta de repente de que la IA ya no era algo de películas de ciencia ficción, y que para ejecutar IA, casi solo se podían usar los chips de NVIDIA. La demanda llegó como un tsunami, el negocio de centros de datos de NVIDIA se multiplicó varias veces en solo dos años, y la empresa pasó de ser un fabricante de tarjetas gráficas para videojuegos a convertirse en el proveedor de armamento de toda la industria tecnológica.
+En 2016, él mismo entregó la primera supercomputadora de IA DGX-1 de NVIDIA a un pequeño y desconocido laboratorio llamado OpenAI; la potencia de cómputo de esa máquina sería la base para entrenar ChatGPT en el futuro[^17]. A finales de 2022, con la aparición de ChatGPT, el mundo entero se dio cuenta de la noche a la mañana de que la IA ya no era algo de las películas de ciencia ficción, y que para ejecutarla, casi solo se podían usar los chips de NVIDIA. La demanda llegó como un tsunami; el negocio de centros de datos de NVIDIA se multiplicó varias veces en solo dos años, transformando a la empresa de un fabricante de tarjetas para videojuegos en el proveedor de armamento de toda la industria tecnológica.
 
-Las acciones se dispararon. En 2023, la capitalización bursátil de NVIDIA superó el billón de dólares; en 2024 superó los tres billones; el 29 de octubre de 2025 superó los cinco billones, convirtiéndose en la primera empresa de cinco billones de dólares de la historia humana. Huang mismo pasó de ser un ingeniero reconocido solo por los entusiastas de la tecnología a convertirse en una figura de la lista _Time 100_, un invitado habitual en el Foro de Davos y un objeto de deseo para los jefes de estado de todos los países. Su icónica chaqueta de cuero negra se convirtió casi en un uniforme de la era de la IA.
+Las acciones despegaron. En 2023, la capitalización de NVIDIA superó el billón de dólares; en 2024 rompió los tres billones; y el 29 de octubre de 2025 superó los cinco billones, convirtiéndose en la primera empresa de cinco billones en la historia. El propio Jensen Huang pasó de ser un ingeniero que solo los entusiastas de la tecnología reconocían a ser una de las cien personas más influyentes de _Time_, invitado de honor en el Foro de Davos y un líder con el que los jefes de estado compiten por reunirse. Su característica chaqueta de cuero negra se ha convertido casi en el uniforme de la era de la IA.
 
 > **📝 Nota del curador**
-> Este punto vale la pena detenerse un segundo. Lo que hizo que estos números crecieran tan rápido fue la decisión de 2006, burlada por toda Wall Street, y la misma persona que sostuvo esa decisión durante dieciséis años. No se volvió más inteligente en 2022; simplemente no soltó esa apuesta durante los años en que todos creyeron que estaba loco. Cuando el tiempo lo alcanzó, él seguía allí, esperando.
+> Vale la pena detenerse a pensar en esto un segundo. Lo que hizo que estas cifras crecieran tan rápido fue aquella decisión de 2006, burlada por todo Wall Street, y la persona que sostuvo esa decisión durante dieciséis años. Él no se volvió más inteligente de repente en 2022; simplemente nunca soltó su apuesta durante todos esos años en los que todos pensaban que estaba loco. Cuando el tiempo lo alcanzó, él seguía allí, esperando en el mismo lugar.
 
-## «Jensanity»: el camino de regreso a casa de un niño de Tainan
+## "Jensanity": El camino de vuelta a casa de un chico de Tainan
 
-En junio de 2024, Huang apareció en la Exposición Internacional de Computación de Taipéi (Computex). No estaba en la lista oficial de discursos, pero toda Taipéi se volvió loca por él. Una gran multitud de fans y paparazzi siguieron cada una de sus apariciones públicas, y los medios taiwaneses lo llamaron «Jensanity» (仁來瘋), comparándolo con la «Linsanity» (林來瘋) de Lin Shuhao en 2012.
+En junio de 2024, Jensen Huang apareció en la Computex Taipei. No estaba en la lista oficial de ponentes, pero todo Taipéi se volvió loco por él. Grandes grupos de fans y paparazzi seguían cada una de sus apariciones públicas; los medios taiwaneses lo llamaron "Jensanity" (仁來瘋), haciendo un juego de palabras con el fenómeno "Linsanity" de Jeremy Lin en 2012.
 
-Vistiendo su icónica chaqueta de cuero negra, comió snacks en un mercado nocturno, conversó con los vendedores en taiwanés y se tomó fotos con los transeúntes. Mark Zuckerberg publicó en Instagram una foto de ambos vistiendo la chaqueta icónica del otro, escribiendo «es como el Taylor Swift de la tecnología»[^8].
+Vistiendo su icónica chaqueta de cuero negra, comía comida callejera en los mercados nocturnos, charlaba en taiwanés con los vendedores y se tomaba fotos con transeúntes. Mark Zuckerberg publicó en Instagram una foto de ambos intercambiando sus chaquetas características, escribiendo: "Es como la Taylor Swift del mundo tecnológico"[^8].
 
-![Pabellón de la feria Computex en el Centro de Exposiciones Nangang de Taipéi, con amplios pasillos llenos de stands de empresas de información y multitudes](/article-images/technology/computex-nangang-floor-2015.webp)
-_Pabellón de la feria Computex en el Centro de Exposiciones Nangang de Taipéi. Cada junio, este lugar es el epicentro de la «Jensanity» y la primera parada de Huang en Taiwán cada año. Foto: NVIDIA Taiwan, CC BY 2.0._
+![Centro de Exposiciones Nangang en Computex Taipei, con pasillos amplios flanqueados por puestos de proveedores de información y multitudes](/article-images/technology/computex-nangang-floor-2015.webp)
+_El recinto de Computex en el Centro de Exposiciones Nangang, Taipéi. Cada junio, este es el epicentro de la "Jensanity" y la primera parada de Jensen Huang cada vez que regresa a Taiwán. Foto: NVIDIA Taiwan, CC BY 2.0._
 
-La «Jensanity» se convirtió en un espectáculo anual. Vísperas de su partida de Taiwán en junio de 2026, bajo la lluvia, entró y salió del Mercado Nocturno Ningxia tres veces, comiendo en cinco puestos: salchichas de kaoliang por 50 yuanes, exclamando «barato», sacando un billete de mil yuanes y pidiendo no recibir cambio; la dueña del puesto de frutas quiso invitarlo, y él puso «rápida y firmemente» el billete de mil yuanes en la bandeja, terminando el mangostán de pie. Al probar el helado enrollado con maní, soltó una reseña gastronómica que luego se viralizó: «El cilantro no tiene sentido, el dulce de maní sí»[^13].
+Desde entonces, la "Jensanity" se ha convertido en un espectáculo anual. En junio de 2026, antes de partir de Taiwán, recorrió el mercado nocturno de Ningxia bajo la lluvia, visitando cinco puestos seguidos: compró salchichas de Kaoliang por NT$50 y exclamó que era "barato", sacando un billete de mil para pedir que no le devolvieran el cambio; cuando la dueña de un puesto de frutas quiso invitarle, él puso el billete de mil en la bandeja de forma "rápida y firme" y se comió el mangostán de pie. Al probar un helado de rollo con cacahuete, dejó una crítica que se volvió viral: "El cilantro no tiene sentido, el azúcar de cacahuete sí"[^13].
 
-En el mercado nocturno y en el pabellón también hubo momentos menos perfectos, pero más humanos. En el pabellón de Computex, un fan le pidió que firmara en su billetera; él abrió la billetera y le dio todo el efectivo de 7.700 yuanes que tenía a las chicas de show (Show Girls) que estaban al lado, diciendo mientras lo hacía que el hombre era rico y bueno, y antes de irse volvió para dar otros 10.000 yuanes[^14]. Otra vez, una fan femenina le pidió que firmara billetes de yenes japoneses, su teléfono y otros objetos uno por uno; al final, frunció el ceño y soltó en inglés: «You're too much trouble» (Eres demasiados problemas)[^15]. Una persona que vacía su billetera para dársela a otros, pero que también pierde la paciencia con el acoso: este es el niño de Tainan debajo de la chaqueta de cuero, que se cansa, se molesta, pero también es muy generoso.
+En los mercados y en las ferias también hubo momentos menos perfectos, pero más humanos. En la Computex, un fan le pidió que firmara su cartera; él la abrió y repartió los NT$7.700 en efectivo que había dentro entre las _show girls_ cercanas, diciendo mientras lo hacía que aquel hombre era muy rico y buena persona; antes de irse, regresó para añadir otros NT$10.000[^14]. En otra ocasión, una fan le pidió que firmara billetes de yenes y su móvil uno por uno; al final, frunció el ceño y soltó en inglés: "You're too much trouble" (Eres demasiado problemática)[^15]. Alguien capaz de vaciar su cartera para regalarla, pero también alguien que pierde la paciencia ante la insistencia: ese es el chico de Tainan bajo la chaqueta de cuero, alguien que se cansa y se molesta, pero que también es verdaderamente generoso.
 
-Su significado para Taiwán va mucho más allá del efecto de celebridad. Los chips más avanzados de NVIDIA son fabricados por [[台灣企業：台積電]], y Huang tiene una amistad de más de treinta años con [[張忠謀]]; en su discurso en Computex mostró un mapa marcado con los socios de la cadena de suministro de Taiwán, diciendo «Taiwán es un héroe mundial». Este vínculo que ata el cuerpo de NVIDIA a Taiwán luego dio lugar a un acuerdo de tierras de 4.400 millones, una sede en Taipéi en planificación[^9] y un juego de poder completo sobre «quién no puede vivir sin quién»: esa es la historia de otro artículo (ver [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan)). Para Huang mismo, volver a Taiwán cada trimestre, desplazándose entre los puestos de snacks de Tainan y la cadena de suministro de semiconductores, se parece más a una persona que ha estado lejos de casa por mucho tiempo, regresando a la isla donde nació.
+Su significado para Taiwán va mucho más allá del efecto celebridad. Los chips más avanzados de NVIDIA son fabricados por [la empresa taiwanesa: TSMC](/es/economy/tsmc/), y Jensen Huang tiene una amistad de más de treinta años con [Morris Chang](/es/people/tsmc-morris-chang/). En su discurso en Computex, mostró un mapa lleno de socios de la cadena de suministro de Taiwán y dijo: "Taiwán es un héroe mundial". Este vínculo que ata el cuerpo de NVIDIA a Taiwán ha derivado posteriormente en una transacción de tierras por 4.400 millones, un futuro centro de mando en Taipéi[^9] y una compleja lucha de poder sobre "quién necesita a quién" (ver [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan)). Para el propio Jensen Huang, volver a Taiwán cada trimestre y transitar entre los puestos de comida de Tainan y la cadena de suministro de semiconductores es más como un hombre que ha estado lejos de casa regresando a la isla donde nació.
 
 ## Una familia, dos imperios de chips
 
-Huang tiene otra conexión familiar poco mencionada: Lisa Su (蘇姿丰), directora ejecutiva de AMD, es su pariente. Específicamente, el abuelo materno de Lisa Su es el hermano mayor de la madre de Huang, por lo que Huang es el tío primo de Lisa Su (first cousin once removed)[^10]. Ambos dirigen las dos mayores empresas del mercado global de GPU, y los chips de ambas empresas son fabricados por la misma empresa taiwanesa [[台灣企業：台積電]].
+Jensen Huang tiene otro vínculo familiar del que no se habla a menudo: la CEO de AMD, Lisa Su (蘇姿丰), es su pariente. Para ser exactos, el abuelo materno de Lisa Su era el hermano mayor de la madre de Jensen Huang; Jensen Huang es tío segundo de Lisa Su (_first cousin once removed_)[^10]. Ambos lideran las dos empresas más grandes del mercado mundial de GPUs, y los chips de ambas compañías son fabricados por la misma empresa taiwanesa: [la empresa taiwanesa: TSMC](/es/economy/tsmc/).
 
-Dos personas que salieron de Taiwán y construyeron en Estados Unidos las dos empresas de chips de IA más importantes del mundo, y luego devolvieron la etapa de fabricación más crítica a la isla donde nacieron. Lisa Su describió esta relación como «una especie de lejanía compleja»; los dos nunca se habían visto antes de que ella trabajara en IBM.
+Dos personas que salieron de Taiwán construyeron en Estados Unidos las dos empresas de chips de IA más importantes del mundo, para luego enviar el eslabón de fabricación más crítico de vuelta a la isla donde nacieron. La propia Lisa Su describe esta relación como "un tipo de parentesco lejano muy complejo"; no se habían visto nunca antes de que ella entrara en IBM.
 
-La trayectoria de vida de Lisa Su es casi el espejo de Huang. Nació en Tainan en 1969, inmigró a Estados Unidos a los tres años, obtuvo un doctorado en el MIT, y en 2014 tomó el control de AMD, que entonces declinaba constantemente y se rumoreaba que podría quebrar, sacándola del fondo y convirtiéndola en la segunda empresa de chips de IA más grande del mundo. Dos niños de Tainan, uno dirigiendo NVIDIA y el otro AMD, con sus sedes separadas por solo cinco minutos en coche en Silicon Valley, juntos casi monopolizan el diseño de las GPU más avanzadas del mundo. Y los chips que diseñan terminan siendo fabricados por TSMC: dando la vuelta a medio globo, volviendo a la misma isla donde nacieron.
+La trayectoria de vida de Lisa Su es casi un espejo de la de Jensen Huang. Nació en Tainan en 1969, emigró a EE. UU. con su familia a los tres años, obtuvo un doctorado en el MIT y en 2014 tomó las riendas de AMD, que en aquel entonces estaba en declive y con rumores de posible quiebra, logrando rescatarla y convertirla en la segunda empresa de chips de IA más grande del mundo. Dos hijos de Tainan: uno al mando de NVIDIA, otro de AMD; sus sedes están a unos cinco minutos en coche por Silicon Valley, y juntos casi monopolizan el diseño de los GPUs más avanzados del planeta. Y los chips que diseñan terminan fabricándose en TSMC; tras dar la vuelta al mundo, regresan a la misma isla donde nacieron.
 
-Lo baja que es la probabilidad de esto merece una reflexión: los dos diseñadores más centrales de la potencia de cómputo de IA global provienen de la misma isla, de la misma familia, y sus grados de parentesco incluso se pueden calcular. La forma en que Taiwán alimentó esta revolución de la IA tiene dos capas: primero, criar y enviar a cada uno de las personas que diseñarían los chips; y segundo, usar las líneas de producción de TSMC para fabricar los chips que diseñaron.
+Vale la pena reflexionar sobre lo baja que es la probabilidad de esto: los dos diseñadores centrales de la capacidad de cómputo de IA mundial provienen de la misma isla, de la misma familia e incluso tienen un parentesco generacional definido. La forma en que Taiwán alimenta esta revolución de la IA tiene dos niveles: primero, criando y enviando fuera a quienes diseñarán los chips, y segundo, usando las líneas de producción de TSMC para fabricar uno a uno esos diseños.
 
 ## El CEO que no usa reloj
 
-El estilo de gestión de Huang no se parece al de un CEO típico de Silicon Valley. No tiene una oficina fija, moviéndose entre las salas de reuniones de la sede de NVIDIA. Tiene unos sesenta subordinados directos; en la mayoría de las empresas, este número suele ser de seis a ocho. Su lógica es: «Las personas que reportan directamente a mí deben ser expertos de primer nivel, no necesitan ser mimados».
+El estilo de gestión de Jensen Huang no es el típico de un CEO de Silicon Valley. No tiene una oficina fija; se desplaza entre las diversas salas de reuniones de la sede de NVIDIA. Tiene unos sesenta directivos que le reportan directamente, cuando en la mayoría de las empresas este número suele ser de seis a ocho. Su lógica es: "Quienes me reportan directamente deben ser expertos de élite, no necesitan ser cuidados".
 
-También rara vez lee presentaciones en las reuniones; prefiere discutir problemas frente a todos, argumentando que así «todos pueden aprender de los errores de los demás». No cree mucho en la retroalimentación privada uno a uno, pensando que solo hablando en público todo el equipo se fortalece. Bajo su mando, no hay nada que un CEO no deba tocar: desde los detalles técnicos de la arquitectura de los chips hasta cómo nombrar los productos, él se entera de todo. Algunos dicen que esto es microgestión, pero no le importa: en su imaginación, la empresa es una extensión de sí mismo, y nunca planeó esconderse en la casilla superior del organigrama.
+Tampoco suele mirar presentaciones en las reuniones; prefiere discutir los problemas frente a todos, bajo el argumento de que así "cada uno puede aprender de los errores de los demás". No cree mucho en la retroalimentación privada individual; piensa que hablar con franqueza hace que todo el equipo se fortalezca. Bajo su mando, no hay nada que un CEO no deba tocar: desde los detalles técnicos de la arquitectura de un chip hasta cómo nombrar un producto. Algunos dicen que es microgestión, pero a él no le importa mucho: en su imaginación, la empresa es una extensión de sí mismo y nunca ha pretendido esconderse en el cuadro más alto del organigrama.
 
-No usa reloj. Cuando le preguntaron por qué, dijo: «Porque ahora es el momento más importante»[^11].
+No usa reloj. Cuando le preguntan por qué, responde: "Porque el ahora es el momento más importante"[^11].
 
-Tampoco oculta que el éxito de NVIDIA se compró con el dolor. Dijo una vez: «Si supiéramos desde el principio cuánto dolor, vergüenza y fracaso experimentaríamos... probablemente no lo haríamos». Pero al mismo tiempo, cree que fueron esos años al borde de la quiebra los que lo obligaron a convertirse en un mejor líder.
+Tampoco oculta que el éxito de NVIDIA se ha pagado con dolor. Ha dicho: "Si supiéramos desde el principio cuánto dolor, vergüenza y fracaso experimentaríamos... probablemente no lo habríamos hecho". Pero al mismo tiempo cree que fueron precisamente esos años al borde de la quiebra los que lo obligaron a ser un mejor líder.
 
-Esta «filosofía del dolor» la habla más claramente que nadie. En 2023 en Stanford, frente a una audiencia de estudiantes que ya eran ganadores de la vida, dijo que deseaba sinceramente que experimentaran «grandes dosis de dolor y sufrimiento» (ample doses of pain and suffering) — porque las personas con expectativas demasiado altas suelen tener poca resiliencia, y en su opinión, la resiliencia es la verdadera base del éxito[^16].
+Expresa esta "filosofía del dolor" con más franqueza que nadie. En 2023, en Stanford, dijo a un grupo de estudiantes exitosos que les deseaba sinceramente "dosis abundantes de dolor y sufrimiento" (_ample doses of pain and suffering_), porque quienes tienen expectativas demasiado altas suelen tener poca resiliencia, y para él, la resiliencia es el verdadero fundamento del éxito[^16].
 
-Curtis Priem recuerda: «El primer día ya escuchábamos a Jensen. Le dijimos: tú diriges la empresa, todo lo que Chris y yo no sabíamos cómo hacer»[^7]. Huang tenía entonces treinta años, más joven que los otros dos fundadores.
+Curtis Priem recuerda: "Desde el primer día escuchamos a Jensen. Le dijimos: 'Tú dirige la empresa; todo lo que Chris y yo no sepamos cómo hacer, tú lo harás'"[^7]. Jensen Huang tenía entonces treinta años, era más joven que los otros dos fundadores.
 
-Cuando le preguntaron cómo soportó esos años sin fin, su respuesta fue muy Huang: «Hay mucho sufrimiento en el medio, pero tienes que creer en lo que crees» (There's a lot of suffering in between, but you've gotta believe what you believe)[^18]. Esta frase podría ser casi la nota al pie de toda su carrera profesional: desde barrar el baño, lavar platos, el callejón sin salida del renderizado de cuadriláteros, hasta la espera de dieciséis años de CUDA, lo que lo hace diferente es que, durante los más de diez años antes de que la apuesta se materializara, nunca soltó el control.
+Cuando se le pregunta cómo sobrevivió a aquellos años sin fin, su respuesta es muy propia de él: "Hay mucho sufrimiento en medio, pero tienes que creer en lo que crees" (_There's a lot of suffering in between, but you've gotta believe what you believe_)[^18]. Esta frase casi podría ser el epígrafe de toda su carrera: desde limpiar baños, lavar platos y el callejón sin salida del renderizado de cuadriláteros, hasta la espera de dieciséis años por CUDA; lo que lo hace diferente es que durante esos más de diez años en los que la apuesta aún no se había cumplido, nunca soltó su posición.
 
-## La persona que limpia baños y su tatuaje de NVIDIA
+## El limpiador de baños y su tatuaje de NVIDIA
 
-En 2024, Jensen Huang recibió un doctorado honoris causa de la Universidad de Taiwán, fue elegido CEO del año por _The Economist_ e incluido entre las cien personas más influyentes de _Time_. En 2025, él y Bill Dally, científico jefe de NVIDIA, recibieron el Premio Reina Isabel para la Ingeniería (Queen Elizabeth Prize for Engineering), al lado de pioneros de la IA como Geoffrey Hinton, Yann LeCun y Fei-Fei Li, siendo galardonados personalmente por el rey Carlos III en St. James's Palace [^12].
+En 2024, Jensen Huang fue galardonado con un doctorado honoris causa por la Universidad Nacional de Taiwán, elegido como el mejor CEO del año por _The Economist_ y nombrado una de las cien personas más influyentes por _Time_. En 2025, junto al científico jefe de NVIDIA, Bill Dally, recibió el Premio Queen Elizabeth de Ingeniería, junto a pioneros de la IA como Geoffrey Hinton, Yann LeCun y Fei-Fei Li, entregado personalmente por el Rey Carlos III en el Palacio de St. James[^12].
 
-En 2026, muchos medios lo apodaron directamente "gurú de la IA"; cada una de sus apariciones públicas era considerada un barómetro para toda la industria, y hasta qué chaqueta de cuero usaba o qué puestos del mercado nocturno visitaba en Taiwán aparecían en los titulares. Un estudiante de ingeniería que, a los dieciséis años, había avanzado dos niveles y parecía aún un niño, había llegado al punto en que todo el mundo escuchaba lo que decía. Y la forma en que respondía a todo esto seguía siendo volar cada temporada a Taiwán, meterse en puestos de comida callejera en Tainan y discutir con los dueños en dialecto taiwanés.
+En 2026, muchos medios lo llaman directamente el "gurú de la IA"; cada discurso público se considera un barómetro para toda la industria, e incluso qué chaqueta de cuero lleva o qué comió en un mercado nocturno puede convertirse en noticia de primera plana. Un estudiante de ingeniería que a los dieciséis años saltó dos grados y parecía casi un niño, ha llegado a una posición donde el mundo entero agudiza el oído para escucharlo. Y su forma de responder a todo sigue siendo volar a Taiwán cada trimestre, meterse en los puestos de comida de Tainan y bromear con los dueños en taiwanés.
 
-Pero más allá de todos sus títulos, hay un detalle que quizás mejor explica quién es como persona. Cuando la capitalización bursátil de NVIDIA superó el billón de dólares, cumplió su promesa a los empleados: se tatuó el logotipo de NVIDIA en el brazo.
+Pero más allá de todos los títulos, hay un detalle que quizás explique mejor qué tipo de persona es. Cuando la capitalización de NVIDIA superó el billón de dólares, cumplió su promesa a sus empleados: se tatuó el logo de NVIDIA en el brazo.
 
-El brazo de Jensen Huang ahora lleva un tatuaje con una marca corporativa. Su compañero de cuarto, que tenía tatuajes por todo el cuerpo cuando él tenía diez años, le enseñó a levantar pesas y a leer. Esa transacción tuvo cincuenta años de diferencia; probablemente fue la inversión con mayor retorno (ROI) en su vida.
+Jensen Huang tiene ahora un tatuaje con la marca de su empresa en el brazo. Su compañero de cuarto de cuando tenía diez años estaba cubierto de tatuajes y le enseñó a levantar pesas; su compañero de clase sabía leer. Aquel trato ocurrió cincuenta años después, siendo probablemente la inversión con mayor retorno (ROI) de su vida.
 
 ---
 
-**Lecturas relacionadas**:
+**Lecturas adicionales**:
 
-- [Morris Chang](/es/people/tsmc-morris-chang) — El socio más crucial de NVIDIA, fundador de TSMC, cuya amistad de más de treinta años mantiene viva la cadena de suministro global de IA
-- [TSMC (Taiwán)](/es/economy/tsmc) — La empresa taiwanesa que fabrica los chips más avanzados para NVIDIA, el "héroe mundial" mencionado por Jensen Huang
-- [Industria de semiconductores de Taiwán](/es/technology/taiwan-semiconductor-industry) — Los chips de Jensen Huang y Lisa Su se fabrican en esta isla; es el escudo de silicio de Taiwán
-- [NVIDIA en Taiwán: la compañía más cara del mundo, sin un solo chip propio](/es/technology/nvidia-in-taiwan) — La simbiosis entre su empresa y la industria de la isla: chips, servidores, sede y una propiedad de 4.43400 millones
-- [Chi Huai-hsin](/es/people/chi-huai-hsin) — Otro taiwanés en la vanguardia de la IA; los chips de Jensen Huang hacen que la IA corra rápido, y el _chaining_ (cadena de pensamiento) de Chi Huai-hsin hace que la IA aprenda a razonar paso a paso
-- [Andre Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — Otro taiwanés en la cima internacional, pero siguiendo un camino opuesto: al alcanzar el pináculo, se dio la vuelta y se marchó, negándose a ser definido por un título
-- [Historias tecnológicas de Taiwán: chips con 100 puntos, micrófonos con 60](/es/technology/taiwan-tech-stories) — Poniendo a los que mejor cuentan historias sobre chips en Taiwán junto a la industria que peor lo hace, para medir esa diferencia de 40 puntos
+- [Morris Chang](/es/people/tsmc-morris-chang) — El socio más crítico de NVIDIA, fundador de TSMC; su amistad de más de treinta años con Jensen Huang mantiene unida la cadena de suministro global de IA.
+- [la empresa taiwanesa: TSMC](/es/economy/tsmc) — La empresa taiwanesa que fabrica los chips más avanzados de NVIDIA, el "héroe mundial" según Jensen Huang.
+- [La industria de semiconductores de Taiwán](/es/technology/taiwan-semiconductor-industry) — Los chips de Jensen Huang y Lisa Su se fabrican en esta isla; es el escudo de silicio de Taiwán.
+- [NVIDIA en Taiwán: La empresa más cara del mundo no fabrica ni un solo chip por sí misma](/es/technology/nvidia-in-taiwan) — Su empresa coexiste con la industria de esta isla: chips, servidores, sedes y una transacción de 4.434 millones en tierras.
+- [Ji Huai-hsin: El taiwanés que enseñó a la IA a "pensar paso a paso"](/es/people/chi-huai-hsin) — Otro taiwanés en la vanguardia de la IA; los chips de Jensen Huang hacen que la IA sea rápida, pero la cadena de pensamiento de Ji Huai-hsin hace que aprenda a razonar paso a paso.
+- [Chiang Chen-cheng](/es/people/andre-chiang-taiwanese-culinary-innovator) — Otro taiwanés en la cima internacional, pero con un camino opuesto: decide retirarse voluntariamente desde la cumbre para no ser definido por un título.
+- [Historias tecnológicas de Taiwán: Un chip de 100 puntos, un micrófono de 60](/es/technology/taiwan-tech-storytelling) — Pone al mejor narrador de historias de chips junto a la industria que menos sabe contar historias, midiendo esa brecha de 40 puntos.
 
-## Fuentes de imagen
+## Fuentes de las imágenes
 
-- [Jensen Huang at Computex Taipei](https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20160531c.jpg) — Foto: NVIDIA Taiwan, 2016, CC BY 2.0 (héroe, Huang dando un discurso en el escenario de Computex)
+- [Jensen Huang at Computex Taipei](https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20160531c.jpg) — Foto: NVIDIA Taiwan, 2016, CC BY 2.0 (héroe, Jensen Huang dando un discurso en el escenario de Computex)
 - [Jensen Huang holding RTX Blackwell at CES 2025](<https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(3).jpg>) — Foto: Pronoia, CC0
 - [Computex Taipei at Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20150602.jpg) — Foto: NVIDIA Taiwan, 2015, CC BY 2.0
 
 ## Referencias
 
-[^1]: [Oneida Baptist Institute — History](https://www.oneidaschool.org/about/history.cfm) — Escuela de internado cristiana fundada en 1899 en las montañas Apalaches de Kentucky, inicialmente sirviendo a niños pobres de las montañas, luego ampliando la acogida a adolescentes en «situaciones difíciles».
+[^1]: [Oneida Baptist Institute — History](https://www.oneidaschool.org/about/history.cfm) — Fundada en 1899 en la región de los Apalaches, Kentucky; inicialmente servía a niños pobres de la zona montañosa y luego amplió su acogida a jóvenes en "situaciones difíciles". Escuela cristiana de internado.
 
-[^2]: [Sports Illustrated 回顧報導 de 2002](https://en.wikipedia.org/wiki/Jensen_Huang) — Describe al compañero de cuarto de Huang en Oneida como «cubierto de cicatrices y tatuajes», y su experiencia de aparecer en la revista a los catorce años como jugador de billar. (Indexado por Wikipedia)
+[^2]: [Reportaje retrospectivo de Sports Illustrated de 2002](https://en.wikipedia.org/wiki/Jensen_Huang) — Describe al compañero de cuarto de Jensen Huang en Oneida como alguien "cubierto de cicatrices y tatuajes", y su experiencia apareciendo en la revista a los catorce años como jugador de ping-pong. (Indexado vía Wikipedia).
 
-[^3]: [NVIDIA becomes first public company worth $5 trillion — TechCrunch, 2025/10/29](https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/) — El 29 de octubre de 2025, NVIDIA se convirtió en la primera empresa pública de la historia en superar los cinco billones de dólares en capitalización bursátil, impulsada por la demanda de chips de IA.
+[^3]: [NVIDIA becomes first public company worth $5 trillion — TechCrunch, 2025/10/29](https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/) — El 29 de octubre de 2025, NVIDIA se convirtió en la primera empresa pública en superar los cinco billones de dólares de capitalización bursátil, impulsada por la demanda de chips de IA.
 
-[^4]: [Jensen Huang — Forbes Profile](https://www.forbes.com/profile/jensen-huang/) — Forbes rastrea en tiempo real el patrimonio neto de Huang; en el ranking anual de marzo de 2026 era de aproximadamente 154.000 millones de dólares, y en el ranking dinámico del 22 de mayo subió a aproximadamente 182.000 millones de dólares (aproximadamente 5,7 billones de NTD), ubicándose séptimo en el mundo.
+[^4]: [Jensen Huang — Forbes Profile](https://www.forbes.com/profile/jensen-huang/) — Forbes rastrea en tiempo real el patrimonio de Jensen Huang; en la lista anual de marzo de 2026 era de unos 154.000 millones de dólares; el 22 de mayo subió a unos 182.000 millones de dólares (aprox. NT$5.7 billones), ocupando el séptimo lugar mundial.
 
-[^5]: [Jen-Hsun Huang Hall — Oneida Baptist Institute](https://www.oneidaschool.org/about/huanghall.cfm) — En 2019, Huang donó dos millones de dólares al Instituto Bautista Oneida para construir un edificio de dormitorios femeninos y aulas con su nombre.
+[^5]: [Jen-Hsun Huang Hall — Oneida Baptist Institute](https://www.oneidaschool.org/about/huanghall.cfm) — En 2019, Jensen Huang donó dos millones de dólares al Oneida Baptist Institute para construir un edificio de dormitorios y aulas que lleva su nombre.
 
-[^6]: [NVIDIA Articles of Incorporation, April 5, 1993 — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810) — NVIDIA se fundó oficialmente el 5 de abril de 1993, documento público registrado en la SEC.
+[^6]: [NVIDIA Articles of Incorporation, April 5, 1993 — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810) — NVIDIA se fundó oficialmente el 5 de abril de 1993; documentos registrados públicamente ante la SEC.
 
-[^7]: [Stephen Witt, _The Nvidia Way_ (2025)](https://www.simonandschuster.com/books/The-Nvidia-Way/Stephen-Witt/9781668096048) — Biografía profunda que registra el caos inicial de los tres fundadores «sin saber cómo abrir una empresa», la presentación fallida ante Don Valentine, y el recuerdo de Curtis Priem: «El primer día ya escuchábamos a Jensen».
+[^7]: [Stephen Witt, _The Nvidia Way_ (2025)](https://www.simonandschuster.com/books/The-Nvidia-Way/Stephen-Witt/9781668096048) — Biografía profunda que registra el caos inicial de los tres fundadores sin saber cómo dirigir una empresa, el error en la presentación a Don Valentine y el recuerdo de Curtis Priem: "Desde el primer día escuchamos a Jensen".
 
-[^8]: [Mark Zuckerberg Instagram, March 2024](https://www.instagram.com/zuck/) — Zuckerberg publicó una foto de ambos vistiendo la chaqueta icónica del otro, llamando a Huang «el Taylor Swift de la tecnología».
+[^8]: [Mark Zuckerberg Instagram, March 2024](https://www.instagram.com/zuck/) — Zuckerberg publicó una foto de ambos intercambiando sus chaquetas características, llamando a Jensen Huang "la Taylor Swift del mundo tecnológico".
 
-[^9]: [Jensen Huang signs land-use agreement for NVIDIA Taiwan HQ — Taiwan News, 2026/01/29](https://www.taiwannews.com.tw/news/6277835) — En enero de 2026, Huang vino a Taiwán para firmar el acuerdo de derechos de uso de tierras del Parque Tecnológico Beitou-Shilin, anunciando el plan de la nueva sede de NVIDIA en Taiwán.
+[^9]: [Jensen Huang signs land-use agreement for NVIDIA Taiwan HQ — Taiwan News, 2026/01/29](https://www.taiwannews.com.tw/news/6277835) — En enero de 2026, Jensen Huang visitó Taiwán para firmar el acuerdo de uso de suelo en el Parque Tecnológico de Beitou-Shilin, anunciando el plan para la nueva sede de NVIDIA en Taiwán.
 
-[^10]: [Jensen Huang and Lisa Su family tree — Tom's Hardware](https://www.tomshardware.com/news/jensen-huang-and-lisa-su-family-tree-shows-how-closely-they-are-related) — El abuelo materno de Lisa Su es el hermano mayor de la madre de Huang; la relación exacta es first cousin once removed (tío primo), no simplemente «primo».
+[^10]: [Jensen Huang and Lisa Su family tree — Tom's Hardware](https://www.tomshardware.com/news/jensen-huang-and-lisa-su-family-tree-shows-how-closely-they-are-related) — El abuelo materno de Lisa Su era el hermano mayor de la madre de Jensen Huang; la relación exacta es _first cousin once removed_ (tío segundo), no un simple "primo".
 
-[^11]: [The Wall Street Journal — Jensen Huang Profile, February 2024](https://www.wsj.com/tech/ai/nvidia-ceo-jensen-huang-ai-8a5fd5b0) — Reporta el hábito de Huang de no usar reloj y su filosofía de gestión.
+[^11]: [The Wall Street Journal — Jensen Huang Profile, February 2024](https://www.wsj.com/tech/ai/nvidia-ceo-jensen-huang-ai-8a5fd5b0) — Reportaje sobre el hábito de Jensen Huang de no usar reloj y su filosofía de gestión.
 
-[^12]: [NVIDIA Blog: Jensen Huang & Bill Dally awarded Queen Elizabeth Prize for Engineering](https://blogs.nvidia.com/blog/nvidia-founder-and-ceo-jensen-huang-and-chief-scientist-bill-dally-awarded-prestigious-queen-elizabeth-prize-for-engineering/) — El Premio de Ingeniería Reina Isabel 2025 fue otorgado a contribuyentes en el campo del «aprendizaje moderno de máquinas», premiados personalmente por el rey Carlos III del Reino Unido en el Palacio de St. James.
+[^12]: [NVIDIA Blog: Jensen Huang & Bill Dally awarded Queen Elizabeth Prize for Engineering](https://blogs.nvidia.com/blog/nvidia-founder-and-ceo-jensen-huang-and-chief-scientist-bill-dally-awarded-prestigious-queen-elizabeth-prize-for-engineering/) — En 2025, el Premio Queen Elizabeth de Ingeniería fue otorgado a los contribuyentes al campo del "aprendizaje automático moderno", entregado por el Rey Carlos III en el Palacio de St. James.
 
-[^13]: [黃仁勳冒雨逛寧夏夜市吃 5 攤 — 聯合新聞網, 2026/06/04](https://udn.com/news/story/7270/9547735) — Vísperas de su partida de Taiwán en junio de 2026, Huang entró y salió del Mercado Nocturno Ningxia bajo la lluvia comiendo en cinco puestos: salchichas de kaoliang por 50 yuanes exclamando «barato», sacando un billete de mil yuanes sin pedir cambio, comiendo mangostán de pie en el puesto de frutas, y tras probar el helado enrollado con maní dijo «El cilantro no tiene sentido, el dulce de maní sí».
+[^13]: [Jensen Huang recorre el mercado nocturno de Ningxia bajo la lluvia y visita 5 puestos — United Daily News, 2026/06/04](https://udn.com/news/story/7270/9547735) — Antes de partir de Taiwán en junio de 2026, Jensen Huang visitó cinco puestos en el mercado nocturno de Ningxia bajo la lluvia: compró salchichas de Kaoliang por NT$50 exclamando que era "barato" y usó un billete de mil sin pedir cambio; comió mangostán de pie en un puesto de frutas y, tras probar un helado de rollo con cacahuete, dijo: "El cilantro no tiene sentido, el azúcar de cacahuete sí".
 
-[^14]: [黃仁勳錢包現金全發給 Show Girls — 聯合新聞網, 2026/06](https://udn.com/news/story/7240/9547304) — En la feria Computex 2026, Huang firmó en la billetera de un fan y, de paso, le dio todo el efectivo de 7.700 yuanes de la billetera a las chicas de show, volviendo al final para dar otros 10.000 yuanes.
+[^14]: [Jensen Huang reparte el efectivo de su cartera a las Show Girls — United Daily News, 2026/06](https://udn.com/news/story/7240/9547304) — En la Computex 2026, ante la petición de un fan para que firmara su cartera, Jensen Huang repartió los NT$7.700 en efectivo que había dentro entre las _show girls_ cercanas, y antes de irse regresó para añadir otros NT$10.000.
 
-[^15]: [黃仁勳對糾纏粉絲說「You're too much trouble」 — 中時新聞網, 2026/06/04](https://www.chinatimes.com/realtimenews/20260604002521-260410) — En la feria Computex 2026, una fan femenina le pidió que firmara billetes de yenes japoneses, su teléfono y otros objetos uno por uno; al final, frunció el ceño y soltó en inglés: «You're too much trouble» (Eres demasiados problemas).
+[^15]: [Jensen Huang dice a una fan insistente "You're too much trouble" — China Times, 2026/06/04](https://www.chinatimes.com/realtimenews/20260604002521-260410) — En la Computex 2026, una fan le pidió que firmara varios objetos, incluyendo billetes de yenes y su móvil; al final, Jensen Huang frunció el ceño y dijo en inglés: "You're too much trouble" (Eres demasiado problemática).
 
-[^16]: [Jensen Huang's Stanford advice on pain and resilience — Fortune](https://fortune.com/article/jensen-huang-advice-high-expectations-make-it-hard-to-succeed/) — La cita textual en inglés de Huang en el panel de Stanford: «I wish upon you ample doses of pain and suffering», en el contexto de que «las personas con expectativas demasiado altas tienen poca resiliencia, y la resiliencia es la clave del éxito», citada cruzadamente por múltiples medios.
+[^16]: [Jensen Huang's Stanford advice on pain and resilience — Fortune](https://fortune.com/article/jensen-huang-advice-high-expectations-make-it-hard-to-succeed/) — Cita textual de la charla de Jensen Huang en Stanford: "I wish upon you ample doses of pain and suffering", en el contexto de que quienes tienen expectativas demasiado altas suelen tener poca resiliencia, y para él, la resiliencia es la clave del éxito. Citado por múltiples medios.
 
-[^17]: [NVIDIA delivers first DGX-1 AI supercomputer to OpenAI — NVIDIA Blog, 2016](https://blogs.nvidia.com/blog/2016/08/15/first-deep-learning-supercomputer/) — En 2016, Huang entregó personalmente el primer supercomputador de IA DGX-1 a OpenAI, recién formado; la capacidad de cómputo de esta máquina se convirtió en la base para entrenar modelos como ChatGPT.
+[^17]: [NVIDIA delivers first DGX-1 AI supercomputer to OpenAI — NVIDIA Blog, 2016](https://blogs.nvidia.com/blog/2016/08/15/first-deep-learning-supercomputer/) — En 2016, Jensen Huang entregó personalmente la primera supercomputadora de IA DGX-1 a la entonces recién formada OpenAI; la potencia de esta máquina sería la base para entrenar modelos como ChatGPT.
 
-[^18]: [Jensen Huang — Lex Fridman Podcast #494 transcript](https://lexfridman.com/jensen-huang-transcript/) — Huang habla sobre la realización de visiones en inglés: «There's a lot of suffering in between, but you've gotta believe what you believe».
+[^18]: [Jensen Huang — Lex Fridman Podcast #494 transcript](https://lexfridman.com/jensen-huang-transcript/) — Cita textual de Jensen Huang al hablar sobre alcanzar una visión: "There's a lot of suffering in between, but you've gotta believe what you believe."

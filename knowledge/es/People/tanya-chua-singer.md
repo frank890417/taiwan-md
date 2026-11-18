@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 22
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡健雅.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:bbe9414090e28df8'
 sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
-translatedAt: '2026-09-28T09:06:24+08:00'
+translatedAt: '2026-11-18T16:06:40.212722+00:00'
 ---
 
 # Tanya Chua: Cuatro veces ganadora del Grammy; ¿Cómo hizo una persona de Singapur que Taiwán fuera su escenario principal?

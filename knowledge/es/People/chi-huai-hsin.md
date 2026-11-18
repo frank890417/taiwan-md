@@ -32,11 +32,13 @@ sporeLinks:
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '7e660a586'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:11f4b1d06ffc2776'
 sourceBodyHash: 'sha256:a42a37a855f0ab8b'
-translatedAt: '2026-10-15T01:06:54.852817+00:00'
+translatedAt: '2026-11-18T15:51:08.372095+00:00'
 ---
 
 Cuando el mundo entero perseguía la IA con cientos de millones de dólares en poder de cómputo, hubo un artículo que cambió la forma en que las máquinas razonan. Costó aproximadamente cinco mil dólares.

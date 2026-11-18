@@ -1,26 +1,29 @@
 ---
-title: 'Daptoper: de "Oscuro" a un millón, el curador de datos que definió la generación Roblox'
-description: 'En 2023, Chih-hsuan Zhou, conocido como "Daptoper" (有感筆電), alcanzó el millón de suscriptores en YouTube. Desde sus inicios haciendo transmisiones en vivo de Minecraft hasta consolidarse en el nicho emergente de Roblox, este estudiante que abandonó la Universidad Nacional de Tsing Hua construyó un imperio comunitario digital —que abarca libros físicos y Discord— con la autocrónica de "llegar puntualmente tarde los lunes, miércoles y viernes" y una disciplina de datos implícita detrás de la pantalla.'
+title: "Yougan Laptop: De lo 'oscuro' al millón, definiendo al curador de datos de la generación Roblox"
+description: "En 2023, 'Yougan Laptop' (nombre real Zhou Zhi-xuan) alcanzó el millón de suscriptores en YouTube. Desde sus inicios con gameplays de Minecraft hasta su especialización en el mercado azul de Roblox, este estudiante de la Universidad Nacional Tsing Hua construyó un imperio de comunidades digitales que abarca desde libros físicos hasta Discord, basándose en su autocrítica de 'llegar tarde puntualmente los lunes, miércoles y viernes' y una disciplina extrema con los datos tras la pantalla."
 date: 2026-04-24
+category: 'People'
 tags:
   [
     'YouTuber',
     'Roblox',
-    'Chih-hsuan Zhou',
-    'transmisiones de videojuegos',
-    'nativos digitales',
-    'autodisciplina',
+    'Zhou Zhi-xuan',
+    'Gameplays',
+    'Nativos digitales',
+    'Autodisciplina',
   ]
-category: 'People'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-18T15:46:32.880750+00:00'
 ---
 
 > **Resumen en 30 segundos:**
