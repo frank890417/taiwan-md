@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-07-27T06:18:40+08:00'
+translatedAt: '2026-11-18T04:32:28.290448+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Na manhã de 8 de setembro de 2015, a tipografia Jin Xuan da justfont entrou em crowdfunding no flyingV, rompendo a meta de NT$ 1,5 milhão em 76 minutos, com 7.667 pessoas aportando NT$ 25,93 milhões no final. Este artigo parte de 1987, quando a DynaComware foi fundada, para ver como uma indústria lida diariamente por todo Taiwan desabou, e como um público leitor foi formado; também fala dos criadores de letras: Lin Xia, vinda da pintura de imagens budistas; Chang Chieh-kuan, que fundiu letras de chumbo por meio século na Rua Taiyuan; Wang Shui-ho, que entrou no ofício aos catorze anos pintando letreiros; e o ecossistema de tipografias de código aberto e designers independentes que floresceu depois da Jin Xuan, como a Lanyang Mingti.
