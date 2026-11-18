@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '0471d07ff'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:bea7a776566a0bbd'
 sourceBodyHash: 'sha256:760025faea8ce9a0'
-translatedAt: '2026-10-15T15:59:57+08:00'
+translatedAt: '2026-11-18T16:21:52.347772+00:00'
 ---
 
 # Landwirtschaft und ländliche Revitalisierung in Taiwan

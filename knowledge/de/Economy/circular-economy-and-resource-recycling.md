@@ -19,11 +19,13 @@ readingTime: 14
 featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
-sourceCommitSha: '705fe2539'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:b945d3a9f265b5de'
 sourceBodyHash: 'sha256:9cb708cf066e8c05'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-18T15:54:34.160202+00:00'
 ---
 
 # Die Kreislaufwirtschaft und Ressourcenwiederverwendung in Taiwan

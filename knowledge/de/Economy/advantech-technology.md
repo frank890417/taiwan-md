@@ -10,11 +10,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '890c5095e'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-10-15T20:18:07+08:00'
+translatedAt: '2026-11-18T15:45:57.312316+00:00'
 ---
 
 > **30-Sekunden-Überblick**

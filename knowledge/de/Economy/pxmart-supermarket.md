@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-11-02T01:44:21.462753+00:00'
-evolveHistory:
-  - date: 2026-11-04
-    action: translation-fix
-    reason: '品牌錯譯：全聯 Wanfang → PX Mart（title、tags、正文、腳註），全聯社 → Quanlianshe，全支付 Wanfang Pay／AllPay → PXPay Plus，大潤發 Metro → RT-Mart，2021 併購對象 Carrefour → RT-Mart，全買超市 Wanfang Supermarkt → Quanmai，善美得 Shangyi De → Shanmeide。只改錯名，不重翻'
+translatedAt: '2026-11-18T15:47:01.265202+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 1998 übernahm Immobilienmogul Lin Min-hsiung das milliardenschwere, nur noch 66 Filialen umfassende Militär- und Beamten-Wohlfahrtsgeschäft. Mit der Devise „20 % günstiger, 2 % Gewinn“ kämpfte er sich durch den Druck von Massenvermarktern wie Carrefour und RT-Mart sowie den Convenience-Stores von 7-Eleven. Heute ist PX Mart ein Retail-Riese mit über 2.000 Millionen Jahresumsatz und 1.200 Filialen – doch Monopolvorwürfe und Digitalisierungsschmerzen stellen die Plattform vor die Herausforderung des nächsten Jahrzehnts.

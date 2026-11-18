@@ -20,11 +20,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：巨大機械.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T15:28:38.252039+00:00'
 ---
 
 # Taiwanische Unternehmen: Giant Bicycles

@@ -11,11 +11,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-18T16:08:13.118733+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -145,12 +147,12 @@ Das ist die wertvollste Eigenschaft eines taiwanesischen Unternehmens: in dem in
 
 ## Referenzen
 
-[^1]: [UMC Offizielle Chronik](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC wurde am 22. Mai 1980 vom Elektroniklabor der Academia Sinica gegründet; Wikipedia (chinesisch/englisch) und die offizielle UMC bestätigen dieses Datum
+[^1]: [Offizielle Chronik von United Microelectronics Corporation (UMC)](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC wurde am 22. Mai 1980 aus dem Elektronikforschungsinstitut des ITRI hervorgegangen; dieses Datum wird sowohl von Wikipedia (Chinesisch/Englisch) als auch von der offiziellen UMC-Website bestätigt.
 
-[^2]: [Wikipedia – United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — Im Jahr 1985 wurde UMC zum ersten halbleiterproduzierenden Unternehmen aus der chinesischsprachigen Welt, das börsennotiert war
+[^2]: [Wikipedia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — 1985 wurde UMC zum ersten börsennotierten Halbleiterunternehmen der chinesischsprachigen Welt.
 
-[^3]: [TrendForce – Globale Wafermarktanalyse 2024](https://www.trendforce.com/) — Der globale Marktanteil von UMC beträgt ca. 7,4 %, weltweit auf Platz drei; TSMC mit 62 %, Samsung mit 18 %
+[^3]: [TrendForce — Globale Wafer-Foundry-Marktanalyse 2024](https://www.trendforce.com/) — Der weltweite Marktanteil von UMC bei der Wafer-Foundry liegt bei etwa 7,4 % und ist damit der dritthöchste weltweit; TSMC hält 62 %, Samsung 18 %.
 
-[^4]: [UMC Offizielle Webseite – Investorenbeziehungen](https://www.umc.com/zh-TW/IR/ir_overview) — Umsatz von UMC im Jahr 2025: NT$ 237,6 Milliarden, Bruttomarge 29,0 %, Gewinn pro Aktie 3,34 NTD
+[^4]: [Offizielle Website von United Microelectronics Corporation — Investor Relations](https://www.umc.com/zh-TW/IR/ir_overview) — Der Umsatz von UMC im Jahr 2025 belief sich auf NT$ 237,6 Milliarden, die Bruttomarge lag bei 29,0 % und der Gewinn pro Aktie betrug NT$ 3,34.
 
-[^5]: [UMC ESG Nachhaltigkeitsbericht](https://www.umc.com/) — UMC führte 2022 die Strategie „UMC 2030“ ein und verpflichtete sich zur Kohlenstoffneutralität bis 2030
+[^5]: [UMC ESG-Nachhaltigkeitsbericht](https://www.umc.com/) — UMC hat im Jahr 2022 die „UMC 2030“-Strategie eingeführt und sich verpflichtet, bis zum Jahr 2030 das Ziel der CO2-Neutralität zu erreichen.

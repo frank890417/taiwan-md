@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:43:12+08:00'
+translatedAt: '2026-11-18T15:31:55.219425+00:00'
 ---
 
 # Taiwans Außenhandel und globale Lieferketten
@@ -279,7 +281,9 @@ Die Umstrukturierung der Lieferketten bringt nicht nur Risiken: Die konzentriert
 
 ## Weiterführende Literatur
 
-- [Taiwanesische KMUs und Hidden Champions](/de/economy/taiwan-smes-and-hidden-champions)
+- [Branchenfokus Taiwan](/industry/) — Zeichnet die Industriestruktur anhand offizieller Statistiken nach: Export und BIP über siebzig Jahre, Science Parks, Fabriken in den einzelnen Landkreisen und Städten, die Top 10 der börsennotierten Unternehmen nach Marktwert sowie die verschiedenen Positionen zu sechs öffentlichen Debatten.
+- [Lieferketten-Karte](/industry/supply-chain-map/) — Ein detaillierter Blick auf die drei Ketten Halbleiter, KI-Server und Wolfram: Schritt für Schritt wird analysiert, welche Unternehmen in Taiwan ansässig sind und welche Teile der Kette auf das Ausland angewiesen sind.
+- [Taiwanische KMU und Hidden Champions](/de/economy/taiwan-smes-and-hidden-champions)
 - [Landwirtschaft und ländliche Erneuerung in Taiwan](/de/economy/taiwan-agriculture-and-rural-revitalization)
 - [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview)
-- [Taiwanesische Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Globale Präsenz in 24 Ländern mit 900.000 Mitarbeitern, das größte Experimentierfeld für grenzüberschreitendes Management der taiwanesischen Fertigungsindustrie.
+- [Taiwanische Unternehmen: Hon Hai Precision](/de/economy/foxconn-precision-industry) — Eine globale Präsenz mit 900.000 Mitarbeitern in 24 Ländern; das größte Experimentierfeld für grenzüberschreitendes Management der taiwanischen verarbeitenden Industrie.
