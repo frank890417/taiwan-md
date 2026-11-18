@@ -21,16 +21,18 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-researchReport: reports/research/2026-05/數位荒原.md
+researchReport: 'reports/research/2026-05/數位荒原.md'
 image: '/article-images/art/nml-trial-issue-hero-2011.webp'
 imageCredit: "數位荒原 No Man's Land 試刊號封面（2011-11）"
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
-translatedFrom: Art/數位荒原.md
-sourceCommitSha: a74c440b3
-sourceContentHash: 'sha256:f2c768fcf8a22317'
-sourceBodyHash: 'sha256:7bfa784449cb0cb6'
-translatedAt: 2026-09-09T21:12:14+08:00
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/數位荒原.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:0b0677a39358cf6e'
+sourceBodyHash: 'sha256:34138e3612701ce3'
+translatedAt: '2026-11-18T22:22:18.960784+00:00'
 ---
 
 # Lahan Digital: Bagaimana Platform Kritik Seni Daring Tanpa Model Bisnis Bertahan 12 Tahun
@@ -97,38 +99,38 @@ Kalimat ini agak berbelit-belit. Tetapi ini adalah kalimat yang dibutuhkan strat
 
 Pada 2014 Lahan Digital juga melakukan hal lain: bekerja sama dengan kurator Filipina Dayang Yraola meluncurkan "Project Glocal Asian City Network", mengundang tiga seniman Asia Tenggara dari Filipina, Malaysia, dan Indonesia untuk residency selama satu bulan di Taipei, forum diadakan di Taipei pada Juni, dengan Zheng Wenqi, seniman Filipina Mannet Villariba, dan Dayang Yraola berdiskusi bersama di panggung. Penyelenggara disebut Lahan Digital + ARTITUDE Magazine Yishu Wai[^20]. Pada saat itu Lahan Digital belum menerbitkan imprint "Arsip Nusantara", tetapi benih cross-border residency telah ditanam.
 
-## Dari 49 hingga 5: Kurva Penyusutan yang Jelas
+## Dari 49 ke 5: Sebuah Kurva yang Menyusut
 
-Dari kurva produksi artikel tahunan Lahan Digital dapat dilihat busur yang sangat jelas:
+Dari kurva produksi tahunan artikel NML terlihat sebuah busur yang sangat jelas:
 
 ```
 2011:  11  ████
-2012:  43  ███████████████      ← Periode peluncuran
+2012:  43  ███████████████      ← masa peluncuran
 2013:  39  ██████████████
 2014:  30  ███████████
 2015:  29  ██████████
-2016:  49  █████████████████    ← Puncak internasionalisasi Project Glocal
-2017:  41  ██████████████       ← Peluncuran tahun pertama Arsip Nusantara
+2016:  49  █████████████████    ← puncak internasionalisasi Project Glocal
+2017:  41  ██████████████       ← peluncuran tahun pertama Nusantara Archive
 2018:  29  ██████████
 2019:  28  ██████████
-2020:  31  ███████████          ← Pandemic memulai lini produksi podcast kedua
+2020:  31  ███████████          ← era pandemi meluncurkan lini produksi kedua podcast
 2021:  28  ██████████
 2022:  21  ████████             ← 14 artikel digabung ke podcast
-2023:   5  ██                   ← Penyusutan besar-besaran
+2023:   5  ██                   ← penyusutan drastis
 ```
 
 [^21]
 
-Kurva ini berbicara tiga hal:
+Kurva ini menceritakan tiga hal:
 
-**1. Dua puncak sesuai dengan dua titik balik identitas.** 43 artikel pada 2012 adalah ledakan ekspansi ketika Lahan Digital berkembang dari edisi uji coba menjadi edisi reguler; 49 artikel pada 2016 adalah periode matang jaringan lintas-batas Project Glocal setelah tiga tahun akumulasi Lahan Digital; 41 artikel pada 2017 adalah ledakan wacana ketika Arsip Nusantara diluncurkan pada tahun pertama. Ketiga puncak semuanya sesuai dengan evolusi struktur Lahan Digital itu sendiri.
+**1. Dua puncak sesuai dengan dua titik balik identitas.** 43 artikel pada 2012 adalah masa ledakan NML saat berkembang dari edisi uji coba menjadi majalah utama; 49 artikel pada 2016 adalah masa matang jaringan lintas negara NML setelah tiga tahun akumulasi Project Glocal; 41 artikel pada 2017 adalah ledakan wacana saat peluncuran tahun pertama Nusantara Archive. Ketiga puncak tersebut semua sesuai dengan evolusi struktur NML sendiri.
 
-**2. 31 artikel pada 2020 memiliki air.** Tahun itu selama pandemi Lahan Digital meluncurkan lini produksi podcast kedua "South Sea Radio Station" (sejak 2020 Lahan Digital mengumpulkan 31 episode podcast)[^1]—fokus editorial mulai beralih dari artikel ke suara. Penurunan artikel ke 21 pada 2022 tepatnya sesuai dengan sinyal pengambilalihan podcast.
+**2. 31 artikel pada 2020 tidak sepenuhnya solid.** Pada tahun itu, era pandemi, NML meluncurkan lini produksi kedua podcast Radio Nusantara (sejak 2020 NML mengumpulkan 31 episode podcast)[^1] — fokus editorial mulai bergeser dari artikel ke suara. Artikel 2022 turun ke 21篇 tepat sesuai dengan sinyal pengambilan alih oleh podcast.
 
-**3. 5 artikel pada 2023 adalah sinyal, bukan kebisingan.** Tahun itu fokus pekerjaan editor utama Zheng Wenqi beralih ke penerbitan independen "Arsip Nusantara"—dari 2017 hingga 2024 telah menerbitkan 10 judul imprint yang mencakup lebih dari 40 karya sastra bilingual Mandarin-Inggris[^10]. Pada saat yang sama ia mengembangkan seri ceramah tentang "Global South" + Volume DAO + blockchain[^22]. Dengan kata lain, penyusutan artikel Lahan Digital bukan karena platform tidak dibaca lagi, **tetapi karena energi pribadi editor utama terbagi ke imprint dan ceramah lintas-platform**.
+**3. 5 artikel pada 2023 adalah sinyal, bukan noise.** Tahun ini fokus kerja ketua editor NML Zheng Wenqi beralih ke penerbitan mandiri Nusantara Archive — dari 2017 hingga 2024 terbit kumulatif 10 imprint berisi 40 lebih karya bilingual Tionghoa-Inggris[^10]. Sementara itu ia menggelar seri ceramah bertema Volume DAO + blockchain + "Global South"[^22]. Artinya, penyusutan artikel NML bukan karena platform tidak dibaca, **melainkan karena energi pribadi ketua editor terdistribusi ke imprint dan seri ceramah lintas platform**.
 
 > **📝 Catatan Kurator**
-> Konsentrasi editor 88% adalah pedang bermata dua. Satu sisinya adalah akumulasi 12 tahun dari kedalaman wacana yang sangat konsisten—kepulauan (archipelago), pinggir (margin), dekolonisasi, dan Pasifik sekitar-empat kerangka kerja seperti vektor dasar tetap stabil. Sisi lainnya adalah batas-batas perspektif tunggal: kurangnya suara kurator perempuan generasi muda, hampir tidak ada topik masyarakat adat. Ketika filosofi editorial platform berasal sepenuhnya dari satu orang, periode matang platform akan sesuai dengan periode matang orang itu, tetapi periode kelelahan akan juga sesuai. Memasuki tahun ke-13 Lahan Digital, ketika energi pribadi Zheng Wenqi beralih ke imprint dan topik baru, lini produksi artikel juga menyusut—ini sebenarnya merupakan perwujudan konkret dari fakta struktural "siklus hidup platform strategi kurasi pribadi sesuai dengan siklus hidup orang itu".
+> Konsentrasi editorial 88% adalah pedang bermata dua. Sisi satu: 12 tahun akumulasi menghasilkan kedalaman wacana yang sangat konsisten — empat framework Nusantara, perbatasan, dekolonisasi, dan Pasifik keliling seperti vektor basis yang stabil. Sisi lain: langit-langit perspektif tunggal: suara kurator perempuan generasi muda relatif sedikit, isu orang asli hampir tidak hadir. Ketika falsafah editorial sebuah platform sepenuhnya berasal dari satu orang, masa matangnya akan sinkron dengan masa matang orang itu, tapi masa kelelahan juga akan sinkron. NML memasuki tahun ke-13, energi pribadi Zheng Wenqi berpindah ke imprint dan tema baru, lini produksi artikel ikut menyusut — ini sebenarnya instantiation konkret dari fakta struktural bahwa "platform kurator bergaya pribadi sinkron dengan siklus hidup orang tersebut".
 
 ## Nama "Lahan Digital" Sebenarnya Berbicara Tentang Apa
 

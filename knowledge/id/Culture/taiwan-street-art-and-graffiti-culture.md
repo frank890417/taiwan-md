@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:42:18.360944+00:00'
+translatedAt: '2026-11-18T21:53:59.301760+00:00'
 ---
 
 # Seni Jalanan dan Budaya Grafiti di Taiwan
@@ -70,15 +72,15 @@ Teknologi digital juga membuka kemungkinan baru. Proyeksi dinamis pada dinding b
 
 ## Referensi
 
-[^1]: [Desa Pelangi (Rainbow Village) — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Sejarah Desa Pelangi di distrik Nantun, Taichung, serta catatan mengenai awal mula lukisan Huang Yung-fu dan gerakan pelestariannya.
+[^1]: [Rainbow Village — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Catatan sejarah Rainbow Village di Distrik Nantun, Taichung, proses awal lukisan Huang Yung-fu, serta gerakan pelestariannya.
 
-[^2]: [Pier-2 Art Center — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Sejarah perkembangan dan pengenalan ruang pameran Pier-2 Art Center di Kaohsiung.
+[^2]: [Pusat Seni Pier-2 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Sejarah perkembangan dan pengenalan ruang pameran di Pusat Seni Pier-2, Kaohsiung.
 
-[^3]: [Pelabuhan Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Proyek revitalisasi Pelabuhan Zhengbin, Keelung, dan latar belakang terbentuknya kompleks bangunan berwarna.
+[^3]: [Pelabuhan Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Rencana revitalisasi Pelabuhan Zhengbin di Keelung dan latar belakang terbentuknya gugusan bangunan berwarna-warni.
 
-[^4]: [Peta Seni Jalanan Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Basis data lokasi karya seni jalanan dan informasi seniman di berbagai kota di Taiwan.
+[^4]: [Peta Seni Jalanan Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Basis data yang mencatat lokasi karya seni jalanan dan informasi seniman di berbagai kota di Taiwan.
 
-[^5]: [Diskusi Peraturan Tata Kelola Grafiti Kota Taipei — Pemerintah Kota Taipei](https://www.gov.taipei/) — Evolusi kebijakan manajemen grafiti jalanan di Kota Taipei.
+[^5]: [Diskusi Peraturan Otonomi Pengelolaan Grafiti Kota Taipei — Pemerintah Kota Taipei](https://www.gov.taipei/) — Evolusi kebijakan pengelolaan grafiti jalanan di Kota Taipei.
 
 [^6]: [Situs Resmi Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Catatan kegiatan tahunan Festival Seni Jalanan Internasional Taiwan.
 

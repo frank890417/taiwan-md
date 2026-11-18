@@ -22,11 +22,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 15
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣與北朝鮮關係.md'
-sourceCommitSha: '5af229e1e'
-sourceContentHash: 'sha256:6923220eadde819d'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:710244ec0149acd2'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
-translatedAt: '2026-07-26T17:46:02+08:00'
+translatedAt: '2026-11-18T21:45:43.506364+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Hubungan antara Taiwan dan Korea Utara jauh lebih kompleks daripada yang terlihat. Sebelum embargo total pada tahun 2017, Taiwan adalah tujuan ekspor keempat terbesar Korea Utara di dunia, dengan hubungan perdagangan sipil yang sangat hangat antara kedua belah pihak. Korea Utara sangat bergantung pada produk Taiwan, mulai dari komputer Acer dan ASUS di kantor pemerintah hingga kopi Braun dan puff Yih Mei yang disukai para pejabat tinggi. Merek-merek MIT pernah menembus Pyongyang secara mendalam. Meskipun hubungan resmi saat ini membeku, penyelundupan laut, penetrasi teknologi tinggi, pencucian uang keuangan bawah tanah, dan peristiwa kabel bawah laut menunjukkan bahwa hubungan ini telah masuk ke wilayah abu-abu, terus menyentuh saraf geopolitik Asia Timur. Selain itu, pejabat Partai Buruh Korea Utara pernah secara rahasia melakukan studi banding ke Taiwan di Kawasan Ekspor Olahan, dan kapal nelayan Taiwan juga pernah banyak mempekerjakan nelayan Korea Utara. Koneksi mendalam yang tidak diketahui ini mengungkap jaringan interaksi yang lebih kompleks antara kedua wilayah.
@@ -111,8 +113,8 @@ Pergeseran paradigma Korea Utara menuju "Teori Dua Negara" membuktikan bahwa "em
 
 ## Bacaan Lanjutan
 
-- [Keluar dari PBB](/id/history/withdrawal-from-united-nations) — Titik Balik Struktural Status Internasional Taiwan
-- [Perdagangan Luar Negeri Taiwan dan Rantai Pasokan Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Bagaimana Ekspor Berorientasi Membentuk Perdagangan Wilayah Abu-abu
+- [Keluar dari PBB](/id/history/withdrawal-from-united-nations) — Perubahan Struktural dalam Status Internasional Taiwan
+- [Perdagangan Luar Negeri Taiwan dan Rantai Pasokan Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Bagaimana Orientasi Ekspor Membentuk Perdagangan di Zona Abu-abu
 
 ## Referensi
 

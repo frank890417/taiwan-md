@@ -26,11 +26,13 @@ image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
 imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:6b2ce60c50966bdc'
-sourceBodyHash: 'sha256:6f79d66a90a09b62'
-translatedAt: '2026-09-16T11:57:33+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:d73033c3d023379b'
+sourceBodyHash: 'sha256:452ee75046f1da55'
+translatedAt: '2026-11-18T22:05:22.896508+00:00'
 ---
 
 # Budaya Hewan Jalanan Taiwan: Dari Kisah _Twelve Nights_ hingga Kematian Macan Tutul Asia, Dilema antara Perlindungan Hewan dan Konservasi Satwa Liar
@@ -98,29 +100,27 @@ Sebuah film, didorong selama dua tahun, menghasilkan satu undang-undang. Sejarah
 
 ## Telinga Fanfan: Tanda di Jalanan
 
-Jika Anda melihat seekor anjing atau kucing di jalanan Taiwan dengan telinga yang hilang sedikit, itu adalah tanda sebuah cerita, yaitu tanda **TNR**, bukan karena cedera.
+Jika Anda melihat seekor anjing atau kucing di jalanan Taiwan, dengan ujung telinganya yang hilang segitiga kecil, itu adalah tanda sebuah cerita, yaitu penanda **TNR**, bukan luka.
 
-TNR adalah singkatan dari Trap (Tangkap), Neuter (Sterilkan), Return (Kembalikan): menangkap hewan jalanan, mensterilkannya, menandai telinganya, dan melepaskannya kembali di tempat yang sama. Kemudian, sebagian besar versi resmi kota menambahkan vaksinasi, menjadikannya **TNvR** (dengan 'v' tambahan untuk Vaccinate). Logikanya sederhana: Anda tidak bisa membunuh semuanya, jadi biarkan mereka tidak bereproduksi. Setelah satu, dua, dan tiga generasi, jumlahnya secara alami menurun.
+TNR adalah singkatan dari Trap (menangkap), Neuter (sterilisasi), Return (melepaskan kembali): menangkap hewan liar, mensterilkan, memotong ujung telinga sebagai penanda, lalu melepaskannya kembali ke tempat asal. Kemudian, versi resmi kebanyakan kabupaten/kota menambahkan vaksinasi, menjadi **TNvR** (v tambahan berarti Vaccinate/vaksinasi). Logikanya sederhana: Anda tidak bisa membunuh mereka semua, jadi biarkan mereka tidak berkembang biak lagi. Setelah satu, dua, tiga generasi, jumlahnya akan turun secara alami.
 
-![Foto jarak dekat kucing jalanan belang yang telah ditandai telinganya, ujung telinga kiri dipotong segitiga kecil sebagai tanda sterilisasi, dengan latar belakang lingkungan jalanan yang buram](/article-images/society/tnr-cat-clipped-ear-2016.webp)
-_Kucing jalanan yang menjalani operasi TNR akan memotong ujung salah satu telinganya sebagai tanda; tanda pemotongan telinga ini memungkinkan relawan dan petugas perlindungan hewan untuk mengenali dari jauh "hewan ini sudah disterilkan," sehingga mencegah penangkapan berulang. Foto: Yu Tae-wook, 2016. [Lisensi melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).\_
+![Seekor kucing liar tabby yang sudah dipotong telinganya, ujung telinga kiri dipotong segitiga kecil sebagai tanda sudah disterilkan, latar belakang lingkungan jalanan kabur](/article-images/society/tnr-cat-clipped-ear-2016.webp)
+_Kucing liar yang sudah menjalani operasi TNR akan dipotong ujung telinga satu sisi sebagai penanda, tanda potongan telinga ini memungkinkan relawan dan petugas perlindungan hewan mengidentifikasi "kucing ini sudah disterilisasi" dari jauh, menghindari penangkapan berulang. Foto: Yu Tae-wook, 2016. [Lisensi via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
 
-TNR di Taiwan awalnya didorong secara sukarela oleh kelompok perlindungan hewan swasta dan bergerak di zona abu-abu hukum. Setelah amandemen Undang-Undang Perlindungan Hewan pada tahun 2015, TNR akhirnya dimasukkan ke dalam alat kebijakan secara resmi[^4]. Pemerintah kota dan kabupaten mulai mengalokasikan anggaran untuk bekerja sama dengan kelompok perlindungan hewan dalam melaksanakan TNR skala besar.
+TNR di Taiwan didorong secara swadaya oleh organisasi perlindungan hewan sipil sejak awal, beroperasi di zona abu-abu hukum. Setelah amandemen _Undang-Undang Perlindungan Hewan_ tahun 2015, TNR akhirnya secara resmi dimasukkan ke dalam alat kebijakan[^4]. Pemerintah kabupaten/kota mulai menganggarkan dana, bekerjasama dengan organisasi perlindungan hewan untuk melaksanakan TNR skala besar.
 
-### Aturan Main Komunitas Kucing dan Anjing
+### Aturan Tak Tertulis Kucing dan Anjing Komunitas
 
-Di balik TNR terdapat seluruh sistem manajemen ekologi komunitas; operasi hanyalah permulaan.
+Di balik TNR ada seluruh sistem manajemen ekologi komunitas, operasi hanyalah titik awal.
 
-Di banyak komunitas di Taiwan, ada apa yang disebut "pemberi makan," yaitu penduduk yang secara rutin memberi makan hewan jalanan. Mereka memberikan makanan setiap hari pada waktu dan lokasi yang tetap. Ada sistem kerja sama informal namun sudah lama berjalan antara pemberi makan ini dan relawan TNR:
+Di banyak komunitas di Taiwan, ada yang disebut "pemberi makan", yaitu warga yang secara teratur memberi makan hewan liar. Mereka setiap hari pada waktu dan tempat yang tetap menaruh makanan. Antara pemberi makan ini dan relawan TNR, ada sistem kerja sama non-formal yang sudah lama berjalan:
 
-- Pemberi makan bertanggung jawab mengamati, melaporkan wajah baru jika ditemukan.
-- Relawan membawa perangkap untuk menangkap, dan membawanya untuk distilasi.
-- Setelah disterilkan, hewan dilepaskan kembali, dan pemberi makan terus merawatnya.
-- Jika cocok, mereka memotret dan mengunggahnya secara online untuk mencari adopsi.
+- Pemberi makan bertanggung jawab mengamati, melapor saat ada wajah baru
+- Relawan membawa kandang jerat menangkap, mengirim untuk disterilkan
+- Setelah sterilisasi dilepaskan kembali, pemberi makan terus merawat
+- Jika cocok, difoto dan diunggah ke internet untuk dicari pengasuh
 
-Sistem ini tidak memiliki dokumen resmi, tetapi beroperasi diam-diam di banyak komunitas Taiwan, didorong oleh "ketidakmampuan untuk tega" dari setiap "bibi."
-
----
+Sistem ini tidak memiliki dokumen resmi apa pun, namun diam-diam beroperasi di tak terhitung komunitas di Taiwan, didorong oleh "ketidakmampuan hati setiap bibi" untuk menyaksikan penderitaan.
 
 ## Setelah Eutanasia Nol: Masalah Baru Dimulai
 
@@ -451,49 +451,49 @@ Masalah yang kompleks tidak memiliki jawaban sederhana. Tetapi pertanyaannya sud
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 4 gambar domain publik / berlisensi CC, semuanya dicache di `public/article-images/society/` untuk menghindari sumber tautan panas:
+Artikel ini menggunakan 4 gambar domain publik / berlisensi CC, semuanya di-cache di `public/article-images/society/` untuk menghindari hotlink ke server sumber:
 
-- [Spesimen Macan Tutul Asia](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Foto: Qiu Kuang, 2026-02-15, Domain Publik CC0 1.0, Spesimen Macan Tutul Asia Museum Nasional Taiwan
-- [Kucing Jalanan yang Ditandai Telinganya dengan TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Foto: Yu Tae-wook, 2016-11-18 (dipotong 2021-06-18), Domain Publik CC0 1.0
-- [Foto Depan Beruang Hitam Taiwan](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Foto: smartneddy, 2007-08-05, CC BY-SA 3.0
-- [Puncak Gunung Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Foto: PirateTseng, 2024-10-29, CC BY-SA 4.0
+- [Spesimen Macan Tutul Asia](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Photo: 丘崈, 2026-02-15, CC0 1.0 Domain Publik, Koleksi Museum Nasional Taiwan Spesimen Macan Tutul Asia
+- [Kucing Liar yang Telah Disunting Telinga Pasca-TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Photo: Yu Tae-wook, 2016-11-18 (dipotong 2021-06-18), CC0 1.0 Domain Publik
+- [Foto Depan Beruang Hitam Taiwan](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Photo: smartneddy, 2007-08-05, CC BY-SA 3.0
+- [Puncak Utama Gunung Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Photo: PirateTseng, 2024-10-29, CC BY-SA 4.0
 
 ---
 
 ## Referensi
 
-[^1]: [Situs Informasi Perlindungan Hewan Kementerian Pertanian — Penjelasan Kebijakan Eutanasia Nol](https://animal.moa.gov.tw/) — Penjelasan kebijakan resmi Taiwan yang menerapkan eutanasia nol pada tahun 2017, termasuk konteks amandemen Pasal 12 UU Perlindungan Hewan dan tindakan pendukung.
+[^1]: [Jaringan Informasi Perlindungan Hewan Kementerian Pertanian — Penjelasan Kebijakan Zero Culling](https://animal.moa.gov.tw/) — Penjelasan kebijakan resmi mengenai kebijakan zero culling yang diterapkan Taiwan pada 2017, termasuk konteks revisi Pasal 12 UU Perlindungan Hewan dan langkah pendampingnya.
 
-[^2]: [Kementerian Pertanian — Laporan Survei Populasi Anjing Jalanan Nasional Tahun 111](https://www.moa.gov.tw/) — Hasil survei sampel nasional tahun 2022: diperkirakan ada 159.697 anjing jalanan di seluruh Taiwan, ini adalah statistik resmi skala besar terbaru mengenai isu ini.
+[^2]: [Kementerian Pertanian — Laporan Survei Populasi Anjing Liur Nasional Tahun 111](https://www.moa.gov.tw/) — Hasil survei sampling nasional 2022: diperkirakan anjing liur di seluruh Taiwan berjumlah 159.697 ekor, merupakan statistik resmi skala besar terbaru untuk isu ini.
 
-[^3]: [Wikipedia _Twelve Nights_ (Dua Belas Malam)](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Film dokumenter yang disutradarai Raye dan diproduksi Jiu Ba Dao pada tahun 2013, menceritakan kisah penghitungan mundur 12 hari anjing jalanan di penampungan, secara langsung mendorong amandemen UU Perlindungan Hewan tahun 2015.
+[^3]: [《Dua Belas Malam》— Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Film dokumenter 2013 disutradarai Raye, diproduseri Giddens Ko, mencatat kisah hitungan mundur 12 hari anjing terlantar di penampungan, langsung mendorong revisi UU Perlindungan Hewan 2015.
 
-[^4]: [Basis Data Hukum Nasional — Undang-Undang Perlindungan Hewan (Amandemen 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Amandemen UU Perlindungan Hewan yang disahkan pada 23 Januari 2015, Pasal 12 menetapkan penghentian penanganan manusiawi di penampungan publik mulai tahun 2017.
+[^4]: [Basis Data Regulasi Nasional — Undang-Undang Perlindungan Hewan (Revisi 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Amendemen UU Perlindungan Hewan yang lolos bacaan ketiga pada 23 Januari 2015, Pasal 12 menetapkan penghentian pematangan humanis di penampungan publik mulai 2017.
 
-[^5]: [Pernyataan Asosiasi Perawatan Anjing Jalanan Nantou](https://www.east.org.tw/) — Situasi kelebihan kapasitas jangka panjang dan penghentian penerimaan anjing/kucing baru di penampungan Nantou, yang dikutip oleh Asosiasi Studi Sosial Hewan, mengungkap kesulitan kapasitas penampungan setelah eutanasia nol.
+[^5]: [Pernyataan Asosiasi Perawatan Anjing Terlantar Kabupaten Nantou](https://www.east.org.tw/) — Dikutip dari Asosiasi Penelitian Masyarakat Hewan, mengungkap kondisi penampungan Nantou yang jangka panjang melebihi kapasitas dan penghentian penerimaan anjing/kucing baru yang menjadi hal biasa, mengungkap dilema kapasitas penampungan pasca zero culling.
 
-[^6]: [Situs Informasi Perlindungan Hewan Kementerian Pertanian — Seleksi Sekolah Teladan Anjing Sekolah](https://animal.moa.gov.tw/) — Seleksi pendidikan kehidupan sekolah yang dipromosikan bersama oleh Kementerian Pendidikan dan Kemenko Pertanian (sekarang Kementerian Pertanian), sekitar 700+ sekolah di seluruh Taiwan memiliki anjing/kucing sekolah.
+[^6]: [Jaringan Informasi Perlindungan Hewan Kementerian Pertanian — Pemilihan Sekolah Berprestasi dengan Anjing Sekolah](https://animal.moa.gov.tw/) — Pemilihan pendidikan kehidupan yang digagas bersama Kementerian Pendidikan dan Komisi Pertanian (kini Kementerian Pertanian), sekitar 700+ sekolah di Taiwan memiliki anjing/kucing sekolah.
 
-[^7]: [WuoWuo — Ancaman yang Diremehkan · Kisah Pembunuhan Macan Tutul Asia](https://wuo-wuo.com/topics/widlife/dogkill) — Laporan mendalam seri WuoWuo tahun 2023, mengintegrasikan data pelacakan dari Institut Keanekaragaman Hayati Kementerian Pertanian, wawancara akademisi (Lin Yuxiu, Chen Zhenzhi, Chen Meiting, Zhang Junyi, Zhang Yihao, dll.), mencakup kasus spesifik Qiu Ge, Anbo, Xihu Ge, Yong Ge dan kapasitas penegakan hukum Miaoli.
+[^7]: [WuoWuo — Ancaman yang Diremehkan: Serangan Anjing terhadap Harimau Kumbang](https://wuo-wuo.com/topics/widlife/dogkill) — Seri laporan mendalam WuoWuo 2023, mengintegrasikan data pelacakan dari Balai Konservasi Sumber Daya Hayati Kementerian Pertanian, wawancara sarjana (Lin Yu-hsiu, Chen Chen-chih, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao, dll.), mencakup kasus spesifik Qiu-ge, Amber, Xihu-ge, Yong-ge serta kapasitas penegakan hukum di Miaoli.
 
-[^8]: [PanSci — Apa yang Rumit dari Isu Kucing dan Anjing Jalanan? Bagaimana Kita Menyelamatkan Anjing dan Satwa Liar yang Terancam?](https://pansci.asia/archives/371491) — Laporan mendalam PanSci pada 12 November 2023, referensi utama untuk bagian §Kematian Macan Tutul Asia, §91% Titik Aktivitas, §TNR Bukan Eliksir Ajaib, §Segitiga Kebijakan, dan §Dilema Kereta. Kutipan ini disetujui berdasarkan MOU Kurasi Konten Taiwan.md × PanSci 2026-05-05, termasuk kutipan verbatim langsung.
+[^8]: [PanSci — Di Mana Kerumitan Isu Anjing dan Kucing Terlantar? Bagaimana Kita Menyelamatkan Anjing/Kucing Terlantar dan Satwa Liar Terancam Punah?](https://pansci.asia/archives/371491) — Laporan mendalam 7.114 kata terbitan PanSci 12 November 2023, menjadi referensi inti bagi bagian §Kematian Harimau Kumbang, §91% Titik Aktivitas, §TNR Bukan Ramuan Mujarab, §Segitiga Kebijakan, §Dilema Kereta Api dalam artikel ini. Kutipan ini berdasarkan MOU Kurasi Konten Taiwan.md × PanSci 2026-05-05, termasuk kutipan verbatim langsung.
 
-[^9]: [Penelitian Chen Zhenzhi dari Universitas Sains dan Teknologi Pingtung — Evaluasi Dampak Anjing pada Populasi Macan Tutul](https://wuo-wuo.com/topics/widlife/dogkill) — Dikutip oleh laporan WuoWuo, penelitian ini mencakup temuan inti seperti tingkat positif virus anjing (30,6% hidup / 59,2% bangkai), peningkatan risiko kecelakaan lalu lintas sebesar 25% setelah infeksi, dan dinamika populasi anjing dengan 52,9% individu menghilang dalam satu periode.
+[^9]: [Penelitian Chen Chen-chih Universitas Sains dan Teknologi Pingtung — Evaluasi Dampak Anjing terhadap Populasi Harimau Kumbang](https://wuo-wuo.com/topics/widlife/dogkill) — Dikutip dari seri WuoWuo, penelitian mencakup temuan inti: tingkat positif parvovirus anjing (hidup 30,6% / mayat 59,2%), risiko kebakaran jalan meningkat 25 kali pasca infeksi, 52,9% individu populasi anjing hilang dalam satu periode.
 
-[^10]: [Survei Kamera Otomatis Asosiasi Konservasi Macan Tutul Asia](https://www.facebook.com/LeopardCatTaiwan/) — Hasil survei online yang dikutip oleh laporan WuoWuo, di mana 91% titik aktivitas macan tutul juga menangkap anjing jalanan, hanya 9% yang aman.
+[^10]: [Survei Kamera Otomatis Asosiasi Konservasi Harimau Kumbang Taiwan](https://www.facebook.com/LeopardCatTaiwan/) — Hasil survei jaringan kamera otomatis yang dikutip dari seri WuoWuo, 91% titik aktivitas harimau kumbang terpoto bersama anjing liur, hanya 9% merupakan titik aman.
 
-[^11]: [CNA — Biro Konservasi Satwa Liar: Jumlah Beruang Hitam Taiwan Meningkat, Populasi Tidak Lagi Terancam Kepunahan](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Pernyataan Biro Kehutanan dan Konservasi Alam Kementerian Pertanian pada 23 April 2025, menyatakan bahwa populasi beruang hitam telah "meningkat berkali-kali lipat dibandingkan 20 tahun lalu," dan frekuensi kemunculan di bawah ketinggian 1200 meter meningkat secara signifikan.
+[^11]: [CNA — Balai Kehutanan: Populasi Beruang Hitam Taiwan Meningkat, Tidak Lagi Terancam Punah](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Pernyataan Balai Kehutanan dan Konservasi Alam Kementerian Pertanian tanggal 23 April 2025, populasi beruang hitam Taiwan 'meningkat berlipat ganda dibanding 20 tahun lalu', frekuensi penampakan di ketinggian di bawah 1.200 mdpl meningkat nyata.
 
-[^12]: [Biro Riset Sains Nasional — Daftar Spesies Taiwan TaiBNET](https://taibnet.sinica.edu.tw/) — Diperbarui oleh Biro Riset Sains Nasional pada tahun 2022, secara resmi mengklasifikasikan anjing dan kucing dari "spesies asing" menjadi "**spesies invasif asing**," ini adalah pertama kalinya sistem klasifikasi resmi Taiwan memasukkan hewan peliharaan ke dalam kategori spesies invasif.
+[^12]: [Akademi Sinica — Daftar Spesies Taiwan TaiBNET](https://taibnet.sinica.edu.tw/) — Diperbarui Akademi Sinica 2022, secara resmi mengubah klasifikasi anjing kucing dari 'spesies asing' menjadi 'spesies asing invasif', pertama kali sistem klasifikasi resmi Taiwan memasukkan hewan peliharaan ke kategori invasif.
 
-[^13]: [Laporan Kasus Jian Zhicheng — Asosiasi Studi Sosial Hewan](https://www.east.org.tw/) — Peristiwa dokter hewan Xinyu pada Mei 2016, yang mengungkap trauma psikologis jangka panjang staf penampungan dan memicu sistem konseling psikologis untuk dokter hewan di penampungan.
+[^13]: [Laporan Kasus Chien Chih-cheng — Asosiasi Penelitian Masyarakat Hewan](https://www.east.org.tw/) — Kasus dokter hewan Chien Chih-cheng di Taman Perlindungan Hewan Xinwu Mei 2016, mengungkap trauma psikologis jangka panjang yang dialami staf penampungan, melahirkan sistem sumber konseling psikologis untuk dokter hewan penampungan.
 
-[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Teks jurnal internasional, anjing jalanan telah terdaftar sebagai ancaman utama bagi setidaknya 188 spesies hewan langka di seluruh dunia, sumber akademis asli yang dikutip oleh PanSci.
+[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Teks asli jurnal internasional, anjing liur tercatat sebagai ancaman utama bagi minimal 188 spesies vertebrata terancam punah di dunia, sumber akademis asli yang dikutip PanSci dalam artikel ini.
 
-[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Penelitian Yan Shiqing dkk. yang diterbitkan di Scientific Reports mengenai pengaruh anjing jalanan di wilayah Taipei Raya (termasuk Taman Nasional Yangmingshan) terhadap keanekaragaman satwa liar.
+[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Penelitian Yan Shi-ching dkk. terbit di Scientific Reports mengenai dampak anjing liur di wilayah Greater Taipei (termasuk Taman Nasional Yangmingshan) terhadap keanekaragaman hayati satwa liar.
 
-[^16]: [Situs Web Resmi Asosiasi Studi Sosial Hewan Taiwan](https://www.east.org.tw/) — Argumen Chen Yumin (wakil direktur eksekutif) dan lainnya mengenai TNR/TNvR dan tanggung jawab sumber pemilik, yang berpendapat bahwa kebijakan harus kembali ke manajemen pemilik daripada pemindahan titik panas.
+[^16]: [Situs Web Resmi Asosiasi Penelitian Masyarakat Hewan Taiwan](https://www.east.org.tw/) — Argumen posisi Chen Yu-min (Wakil Direktur Eksekutif) dkk. mengenai TNR/TNvR dan tanggung jawab sumber pemilik, berpendapat kebijakan harus kembali ke pengelolaan pemilik bukan penghapusan hotspot.
 
-[^17]: [Situs Informasi Perlindungan Hewan — Tema Budaya Adopsi Mix](https://animal.moa.gov.tw/) — Kompilasi sumber daya pendidikan sosial dan promosi kebijakan perlindungan hewan Taiwan mengenai budaya adopsi anjing campuran/mix.
+[^17]: [Jaringan Informasi Perlindungan Hewan — Serba Serbi Budaya Adopsi Anjing Campuran (Mix)](https://animal.moa.gov.tw/) — Kompilasi promosi kebijakan dan sumber edukasi sosial kebijakan perlindungan hewan Taiwan mengenai budaya adopsi anjing campuran (mix).
 
-[^18]: [Kementerian Pendidikan — Program Perlindungan Hewan Sekolah](https://animal.moa.gov.tw/) — Dasar kebijakan sekolah memiliki anjing/kucing di seluruh Taiwan, seleksi "Sekolah Teladan Anjing Sekolah" dilakukan sejak tahun 2019.
+[^18]: [Kementerian Pendidikan — Program Perlindungan Hewan di Kampus](https://animal.moa.gov.tw/) — Dasar kebijakan anjing/kucing sekolah di sekitar 700+ sekolah Taiwan, menggelar pemilihan 'Sekolah Berprestasi Anjing Sekolah' sejak 2019.

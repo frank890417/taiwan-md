@@ -1,16 +1,16 @@
 ---
-title: 'Pasar Saham Taiwan dan Pasar Modal: Dari Kebangkrutan 10.000 Poin pada 1990 hingga Peringkat 6 Terbesar Dunia pada 2026, Pulau yang Kekayaannya 44% Tertekan pada Satu Saham'
-description: 'Pada 28 April 2026, Bloomberg melaporkan "Taiwan Overtakes Canada". Pulau yang pernah kehilangan dana pensiun 160.000 orang akibat kebangkrutan 10.000 poin pada 1990, setelah 36 tahun berhasil mencapai peringkat 6 terbesar pasar saham dunia — namun dari total nilai pasar 4,47 triliun dolar AS, hampir setengahnya tertekan pada satu perusahaan setengah konduktor.'
+title: 'Pasar Saham dan Pasar Modal Taiwan: Dari Keterbukaan 10.000 Poin 1990 ke Peringkat 6 Global 2026, 44% Nilai Terpusat pada Satu Saham'
+description: 'Pada 28 April 2026, terminal Bloomberg menampilkan "Taiwan Overtakes Canada". Sebuah pulau yang pernah mengalami keterbukaan 10.000 poin pada 1990 yang menghancurkan dana pensiun 160.000 orang, tiga puluh enam tahun kemudian menduduki peringkat 6 pasar saham global terbesar — namun di dalam nilai pasar 4,47 triliun dolar AS, hampir setengahnya terpusat pada satu perusahaan semikonduktor.'
 date: 2026-05-03
 category: 'Economy'
 tags:
   [
-    'pasar saham Taiwan',
-    'bursa efek',
-    'pasar modal',
+    'Saham Taiwan',
+    'Bursa Efek',
+    'Pasar Modal',
     'ETF',
     'TSMC',
-    'investor ritel',
+    'Investor Ritil',
     'AI',
   ]
 subcategory: 'Economy'
@@ -20,218 +20,222 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/台灣股市與資本市場.md'
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:323486e516e428ed'
-sourceBodyHash: 'sha256:c34c5e10c2fbc812'
-translatedAt: '2026-09-17T06:43:41+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:05af3274e03b254d'
+sourceBodyHash: 'sha256:c641c2a8bf14fd32'
+translatedAt: '2026-11-19T05:01:05+08:00'
 ---
 
-> **30 detik gambaran:** Pada 28 April 2026, nilai pasar saham Taiwan mencapai 4,47 triliun dolar AS, melampaui Kanada dan menjadi pasar saham terbesar ke-6 di dunia; pada pertengahan bulan yang sama, Taiwan juga telah melampaui Inggris. Dukungan utamanya adalah TSMC — dengan nilai pasar 1,8 triliun dolar AS, bobotnya di indeks tertimbang hampir 45%. Tiga puluh enam tahun sebelumnya, kebangkrutan 10.000 poin yang menghilangkan 4,6 juta akun secara kolektif, serta lembaga Hong Yuan yang menghilangkan 160.000 orang dengan bunga bulanan 4%, masih belum terlupakan dalam ingatan keuangan pulau ini. Dari lebih dari sepuluh perusahaan yang terdaftar pada tahun pendirian bursa efek, hingga 13,93 juta akun yang kini membagi beban pasar modal terbesar ke-6 di dunia, Taiwan butuh 64 tahun. Namun, peringkat ke-6 ini memiliki paradoks struktural: jika TSMC dihilangkan, lebih dari 1.000 saham lainnya hanya cukup untuk masuk ke peringkat sekitar 15.
+> **Ringkasan 30 Detik:** Pada 28 April 2026, total nilai pasar saham Taiwan melonjak ke 4,47 triliun dolar AS, melampaui Kanada menjadi pasar saham terbesar keenam di dunia; pertengahan bulan yang sama sudah melampaui Inggris. Tenaga penggerak di baliknya adalah TSMC — nilai pasar 1,8 triliun dolar AS, bobotnya di Indeks Terbobot mendekati 45%. Keterbukaan 10.000 poin tiga puluh enam tahun lalu yang menghapuskan dana 4,6 juta rekening, serta institusi Hongyuan dengan bunga bulanan 4% yang menelan dana 160.000 orang, kenangan keuangan pulau ini belum kering. Dari sedikit lebih dari sepuluh perusahaan tercatat saat didirikan Bursa Efek, hingga hari ini 13,93 juta rekening berbagi satu pasar modal terbesar keenam global, Taiwan membutuhkan enam puluh empat tahun. Namun peringkat keenam ini menyimpan ironi struktural: buang TSMC, 1.000 lebih saham sisanya dijumlahkan kira-kira baru bisa masuk peringkat 15 global.
 
-## 28 April 2026, Terminal Bloomberg New York
+## 2026-04-28, Terminal Bloomberg New York
 
-Pada 28 April 2026, di tengah malam waktu Taipei. Terminal Bloomberg menampilkan judul: "Taiwan Overtakes Canada as World's Sixth-Largest Stock Market"[^bloomberg].
+Itu hari 28 April 2026, tengah malam waktu Taipei. Terminal Bloomberg memunculkan judul: "Taiwan Overtakes Canada as World's Sixth-Largest Stock Market"[^bloomberg].
 
-Angkanya tenang: total nilai pasar saham Taiwan 4,47 triliun dolar AS, Kanada 4,44 triliun, Taiwan melebihi negara anggota G7 ini dengan selisih kurang dari 1%[^biggo].
+Angkanya dingin: total nilai pasar perusahaan tercatat Taiwan 4,47 triliun dolar AS, Kanada 4,44 triliun, saham Taiwan dengan selisih kurang dari 1% secara resmi mendorong negara G7 ini ke bawah[^biggo].
 
-Beberapa jam kemudian, sopir taksi di jalan Xinyi Taipei mengganti stasiun radio ke stasiun keuangan, di mana pembawa berita sedang membaca rekor lain yang baru saja dilampaui tahun ini: pada bulan April, indeks tertimbang naik 7.200 poin, naik 22,7%, dan pada 27 April pagi mencapai 40.194,92 poin, pertama kalinya melewati batas 40.000[^taipeitimes].
+Beberapa jam kemudian, sopir taksi di Jalan Xinyi Taipei mengalihkan radio ke saluran keuangan, pembawa acara sedang membacakan rekor lain yang baru pecah tahun ini: sepanjang bulan April, Indeks Terbobot naik 7.200 poin, kenaikan 22,7%[^biggo2], saat perdagangan 27 April pagi pernah menyentuh 40.194,92 poin, pertama kali dalam sejarah menembus batas 40.000[^taipeitimes].
 
-Sopir tidak menoleh. Ia hanya berkata: "TSMC kali ini bisa mencapai 2.500."
+Sopir tidak mengangkat kepala. Dia hanya berkata satu kalimat: "Kali ini TSMC bisa nembak 2.500 lho."
 
-Ia tidak tahu apa pun tentang judul Bloomberg, dan tidak perlu tahu — baginya, arah pasar saham pulau ini sudah terkonsentrasi dalam satu angka saham.
+Dia tidak tahu Bloomberg memunculkan judul apa, dan tidak perlu tahu — baginya, pasar saham pulau ini dari dulu sudah terkonsentrasi pada angka satu saham.
 
-Dan intuisinya, sebenarnya sama dengan kesimpulan para analis di seluruh dunia yang memegang terminal Bloomberg.
+Dan intuisi dia, sebenarnya sama dengan para analis di seluruh dunia yang memegang terminal Bloomberg.
 
-## Kembang api, Bursa Efek, dan Dana Pensiun 160.000 Orang
+## Petasan, Bursa Efek, dan Dana Pensiun 160.000 Orang
 
-Untuk memahami garis merah April 2026, kita harus kembali ke garis hitam Februari 1990.
+Untuk memahami garis merah April 2026 itu, harus kembali dulu ke garis hitam Februari 1990.
 
-Pada 12 Februari 1990, indeks harga saham tertimbang Taiwan mencapai 12.682 poin, tertinggi dalam sejarah. Di luar gerbang bursa efek ada orang yang meledakkan kembang api[^泡沫]. Pada saat itu, ada sekitar 4,6 juta akun perdagangan aktif di seluruh pulau, hampir setiap keluarga memiliki seseorang yang membeli saham, dan transaksi pedagang ritel mendominasi 90%[^技術新報]. Sopir taksi membahas saham secara terbuka, bibi pasar menggunakan telepon genggam untuk memesan, dan pegawai negeri diam-diam melihat lampu berkelip di kantor.
+12 Februari 1990, Indeks Harga Saham Terbobot Taiwan melonjak ke 12.682 poin, tertinggi sepanjang sejarah. Di depan pintu Bursa Efek ada orang memetik petasan[^泡沫]. Saat itu rekening perdagangan aktif di seluruh Taiwan sekitar 4,6 juta, hampir setiap rumah tangga ada yang beli saham, volume perdagangan investor ritil mencapai sembilan puluh persen[^技術新報]. Sopir taksi membahas "tips bocoran", ibu-ibu pasar menggunakan telepon khusus untuk order, pegawai negeri sipil mencuri-curi melihat layar berjalan di kantor.
 
-Delapan bulan kemudian, indeks jatuh ke 2.485 poin. Turun sebesar 80%[^udn1990].
+Delapan bulan kemudian, indeks anjlok ke 2.485 poin. Turun delapan puluh persen[^udn1990].
 
-> **📝 Catatan kurator**
-> "Uang Taiwan menggenang di kaki" adalah kalimat yang lahir pada masa itu. Uang terlalu banyak dan tempatnya terlalu sedikit, pasar saham dan pasar properti menjadi dua kolam yang tidak memiliki pintu air.
+> **📝 Catatan Kurator**
+> Ungkapan "uang Taiwan banjir sampai lutut" lahir dari era ini. Uang terlalu banyak, tempatnya terlalu sedikit, pasar saham dan properti jadi dua kolam tanpa pintu air.
 
-Lebih parah lagi adalah Hong Yuan Organization. Perusahaan investasi gelap ini mulai pada 1981 dengan bunga bulanan 4% (tingkat pengembalian bulanan 4%) untuk menarik dana swasta, dan pada masa puncaknya mengumpulkan dana sebesar 94 miliar dolar Taiwan. Pada 9 Januari 1990, Hong Yuan mengumumkan berhentinya pencairan, lebih dari 160.000 kreditor kehilangan semua uangnya dalam semalam — kebanyakan adalah pegawai negeri dan militer yang telah mempertaruhkan seluruh dana pensiun dan tabungan hidup mereka[^鴻源].
+Salah tambah bahaya adalah Institusi Hongyuan. Perusahaan investasi bawah tanah ini sejak 1981 menarik dana masyarakat dengan bunga bulanan 4% (suku bunga bulanan 4%), pada puncaknya total dana mencapai 94 miliar dolar Taiwan baru. 9 Januari 1990, Hongyuan mengumumkan berhenti pencairan, lebih dari 160.000 kreditur semalam habis modal — mayoritas pegawai militer, sipil, dan guru yang menabungkan dana pensiun dan tabungan seumur hidup[^鴻源].
 
-> **⚠️ Pendapat kontroversial**
-> Pemimpin Hong Yuan, Shen Changsheng, dihukum 7 tahun penjara dan denda 3 juta yuan, dan dikurung pada 1994[^鴻源wiki]. "160.000 orang kehilangan dana pensiunnya hanya untuk 7 tahun penjara" adalah luka terdalam dalam sejarah pengawasan keuangan Taiwan. Meskipun Shen Changsheng meninggal mendadak di Xiamen pada 2022, orang masih curiga dari mana uang yang digunakan untuk kehidupan mewahnya setelah keluarnya narapidana[^沈長聲].
+> **⚠️ Pandangan Kontroversial**
+> Kepala Hongyuan Shen Chang-sheng (沈長聲) dihukum tujuh tahun penjara dan denda tiga juta, 1994 dibebaskan bersyarat[^鴻源wiki]. "Dana pensiun 160.000 orang ditukar tujuh tahun penjara" adalah luka paling pahit dalam sejarah pengawasan keuangan Taiwan. Hingga Shen Chang-sheng meninggal mendadak di Xiamen 2022, masyarakat masih curiga uang hidup mewahnya setelah bebas sumbernya dari mana[^沈長聲].
 
-Gejala setelah serangan ganda ini bertahan selama satu dekade penuh. Pada tahun 1990-an, "saham" adalah kata kotor dalam banyak rumah tangga Taiwan. Orang tua memperingatkan anak-anaknya: jangan sentuh saham, itu hanya perjudian.
+Dampak ganda ini berlanjut sepuluh tahun penuh. Tahun 1990-an, "saham" di banyak keluarga Taiwan adalah kata kotor. Orang tua menasihati anak: jangan main saham, itu judi.
 
-## Modal asing, ETF, dan Medan Gravitasi TSMC
+## Modal Asing, ETF, dan Medan Gravitasi TSMC
 
-Pasar saham Taiwan pada abad ke-21 ditulis ulang oleh tiga hal.
+Pasar saham Taiwan abad baru, ditulis ulang oleh tiga hal.
 
-Yang pertama adalah modal asing. Pada awal 1990-an, kepemilikan saham asing kurang dari 5%; pada 2000-an, pemerintah melegakan pembatasan dan memperkenalkan sistem QFII, secara bertahap meningkatkan partisipasi institusi, menggantikan peran pedagang ritel, dan mengubah logika perdagangan dari "mendengarkan sinyal" ke "membaca laporan keuangan"[^技術新報].
+Hal pertama adalah modal asing. Awal 1990-an kepemilikan asing kurang dari 5%, 2000-an pemerintah melonggarkan batas, memperkenalkan sistem QFII, bertahap naik, investor institusional menggantikan investor ritil sebagai kekuatan utama, logika perdagangan dari "dengar tips bocoran" beralih ke "baca laporan keuangan"[^技術新報].
 
-Yang kedua adalah ETF. Pada Juni 2003, Yuanta Taiwan 50 (0050) dikeluarkan oleh Yuanta Asset Management, menjadi ETF pertama di Taiwan. Fungsinya sangat sederhana: memungkinkan orang yang tidak mengerti saham individu untuk berpartisipasi dalam pertumbuhan 50 perusahaan terbesar di Taiwan. Dua puluh tahun kemudian, jumlah penerima manfaat 0050 melebihi 2,74 juta, dan bersamaan dengan kelompok saham dividen tinggi, ETF menjadi pilihan default bagi rumah tangga Taiwan dalam mengelola keuangan[^ETF].
+Hal kedua adalah ETF. Juni 2003 Yuanta Securities Investment Trust menerbitkan 0050 (Yuanta Taiwan 50), ETF pertama Taiwan. Tugasnya sederhana: biarkan orang yang tidak paham saham individu juga bisa berpartisipasi dalam pertumbuhan keseluruhan lima puluh perusahaan terbesar Taiwan. Dua puluh tahun kemudian, jumlah penerima manfaat 0050 tembus 2,74 juta, ditambah kelompok high-dividend yang muncul kemudian, ETF jadi pilihan default pengelolaan keuangan rumah tangga Taiwan[^ETF].
 
-Yang ketiga, lebih besar dari kedua hal di atas — TSMC.
+Hal ketiga, lebih besar dari dua hal sebelumnya dijumlahkan — TSMC.
 
-Tidak bisa membahas pasar saham Taiwan 2026 tanpa menyebutkan [Taiwan Enterprise: TSMC](/id/economy/tsmc/). Pasar saham Taiwan seperti tata surya, dan TSMC adalah mata sungainya. **Hingga 10 Maret 2026, bobot TSMC di indeks tertimbang mencapai 45,0041%**[^TWSE權重]. Ketika harga saham berada di sekitar 2.265 yuan, setiap fluktuasi 1 yuan pada saham ini akan menggerakkan indeks sekitar 8 poin[^TWSE權重].
+Membicarakan pasar saham Taiwan 2026, tak bisa lepas dari [Perusahaan Taiwan: TSMC](/id/economy/tsmc/). Pasar saham Taiwan ibukota tata surya, TSMC adalah mataharinya. **Per 10 Maret 2026, bobot TSMC di Indeks Terbobot mencapai 45,0041%**[^TWSE權重]. Saat harga saham di sekitar NT$2.265, setiap perubahan NT$1 pada saham ini, indeks besar ikut bergerak sekitar 8 poin[^TWSE權重].
 
-Menggambarkan proporsi ini sebagai "komponen penting" akan sangat menyesatkan. Ini sudah menjadi bagian dari pasar itu sendiri.
+Menggunakan "saham komponen penting" untuk menggambarkan proporsi ini akan sangat meleset. Ia sudah _adalah_ indeks besar itu sendiri.
 
-## 5 Januari 2026, Uang di Amplop Tahun Baru
+## 5 Januari 2026, Angpau Tahun Baru
 
-Pada 5 Januari 2026, hari perdagangan kedua tahun baru Macan. Indeks tertimbang terbuka dengan lonjakan, mencapai 30.339,32 poin pada sesi tengah hari, dan tutup di 30.105,04 poin, secara resmi memasuki era 30.000 poin[^三萬點]. Pada hari itu, TSMC naik 5,36%, mencapai 1.695 yuan pada sesi tengah hari, dan hanya saham ini yang memberikan kontribusi sekitar 680 poin bagi pasar. Dalam dua hari, nilai pasar saham Taiwan bertambah 3,7 triliun yuan, dan rata-rata setiap investor mendapatkan keuntungan kertas sebesar 268.000 yuan[^三萬點].
+5 Januari 2026, hari perdagangan kedua Tahun Baru Imlek. Indeks Terbobot pagi itu melompat, siang menyentuh 30.339,32 poin, penutupan 30.105,04 poin, resmi memasuki era 30.000 poin[^三萬點]. Hari itu TSMC naik 5,36%, siang menyentuh NT$1.695, hanya satu saham ini sudah menyumbang sekitar 680 poin untuk indeks besar. Dua hari, nilai pasar saham Taiwan bertambah 3,7 triliun dolar Taiwan baru, rata-rata setiap investor keuntungan kertas dua ratus enam puluh delapan ribu[^三萬點].
 
-Di balik 30.000 poin ini tersembunyi garis waktu yang terkompresi: setelah kebangkrutan 10.000 poin pada 1990, pasar saham Taiwan butuh hampir tiga puluh tahun untuk kembali ke 10.000 poin; dari 10.000 ke 20.000 poin butuh tujuh tahun; dari 20.000 ke 30.000 poin hanya butuh dua tahun.
+Di balik 30.000 poin ini tersembunyi garis waktu yang terkompresi: setelah gelembung 10.000 poin 1990, butuh hampir tiga puluh tahun baru kembali sentuh 10.000; dari 10.000 ke 20.000 butuh tujuh tahun; dari 20.000 ke 30.000, hanya butuh dua tahun.
 
-> **✦** "30 tahun yang lalu, 10.000 poin itu adalah gelembung yang dibentuk oleh 4,6 juta akun yang saling bersaing. 36 tahun kemudian, 30.000 poin ini adalah puncak yang didukung oleh 13,93 juta akun yang duduk di atas ETF, ditambah satu saham TSMC. Indeksnya sama-sama angka, namun strukturnya benar-benar berbeda."
+> **✦** "10.000 poin tiga puluh tahun lalu, adalah gelembung yang ditumpuk 4,6 juta rekening buru-buru masuk buru-buru keluar. 10.000 poin tiga puluh enam tahun kemudian, adalah langit-langit yang didukung 13,93 juta rekening duduk di atas ETF, ditambah satu saham TSMC. Indeksnya angka sama, struktur dana benar-benar beda."
 
-Pada April 2026, energi ini belum usai.
+Sampai April 2026, tenaga itu belum berakhir.
 
-## April, Lonjakan 22,7% dalam Sebulan
+## April Itu, Kenaikan 22,7% dalam Sebulan
 
-April adalah bulan yang mengguncangkan bagi pasar saham Taiwan.
+April bagi pasar saham Taiwan adalah bulan yang mengubah segalanya.
 
-Pada sekitar 15 April, nilai pasar saham Taiwan mencapai 4,14 triliun dolar AS, melampaui Inggris (3,99 triliun), dan masuk ke peringkat 7 terbesar pasar saham dunia[^超英]. Pada saat yang sama, KOSPI Korea juga melampaui Inggris dengan 4,04 triliun dolar AS, naik ke peringkat 8 — dalam satu bulan, dua perekonomian setengah konduktor Asia Timur melampaui pasar lama G7[^韓國].
+Sekitar 15 April, total nilai pasar saham Taiwan melonjak ke 4,14 triliun dolar AS, melampaui Inggris (3,99 triliun), masuk peringkat 7 global[^超英]. Periode sama, KOSPI Korea Selatan juga dengan 4,04 triliun melampaui Inggris, naik ke peringkat 8 — dalam sebulan, dua ekonomi semikonduktor Asia Timur bersamaan melampaui satu pasar tua G7[^韓國].
 
-Pada 24 April, Dewan Pengawas Keuangan secara resmi menyetujui "klausul TSMC": batas maksimum kepemilikan saham tunggal oleh dana dinaikkan dari 10% ke 25%. Keesokan harinya, harga saham TSMC melonjak dan mencapai rekor tertinggi[^台積電條款].
+24 April, Otoritas Jasa Keuangan (FSC) resmi menetapkan "Klausul TSMC": batas kepemilikan saham tunggal oleh dana, dari 10% dilonggarkan ke 25%. Keesokan harinya, harga saham TSMC melompat membuka harga tertinggi baru[^台積電條款].
 
-Pada pukul 09.25, 27 April, indeks tertimbang melonjak ke 40.194,92 poin, pertama kalinya melewati batas 40.000. Meskipun pada akhir sesi turun, penutupannya di 39.616,63 poin, namun nilai perdagangan mencapai 1,18 triliun yuan[^taipeitimes]. Analis Moore Capital, Adam Lin, mengatakan kepada Taipei Times: "TSMC adalah penggerak utama kenaikan TAIEX hari ini." Dan ia menambahkan bahwa ia tidak khawatir tidak bisa bertahan — "Saya mengharapkan TSMC akan terus naik berdasarkan fundamental yang kuat." (Kutipan langsung dari [Taipei Times 2026-04-28](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343)).
+27 April pukul 09.25, Indeks Terbobot melonjak ke 40.194,92 poin, pertama kali dalam sejarah menyentuh 40.000. Meski penutupan mengembalikan ke 39.616,63 poin, nilai transaksi melonjak ke 1,18 triliun dolar Taiwan baru[^taipeitimes]. Analis Moor Investment Consulting Adam Lin berkata kepada Taipei Times: "TSMC was the major driver of the Taiex's gains today." Dan menambah dia tidak khawatir tidak bisa bertahan — "I expect TSMC will continue to move higher on its sound fundamentals." (Kutipan dari [Taipei Times 2026-04-28](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343)).
 
-Hari setelahnya (28 April), nilai pasar saham Taiwan naik menjadi 4,47 triliun dolar AS, melampaui Kanada (4,44 triliun), dan naik ke peringkat 6 terbesar dunia[^bloomberg]. Selama bulan April yang seluruhnya, indeks tertimbang naik 22,7%, naik 7.200 poin — salah satu lonjakan bulanan paling kuat dalam sejarah pasar saham Taiwan[^biggo2].
+Keesokan harinya (28 April), total nilai pasar saham Taiwan naik ke 4,47 triliun dolar AS, melampaui Kanada (4,44 triliun), melonjak ke peringkat 6 global[^bloomberg]. Selama April penuh, Indeks Terbobot akumulasi kenaikan 22,7%, sebulan naik 7.200 poin — salah satu rowem bulan paling hebat dalam sejarah saham Taiwan[^biggo2].
 
-| Pasar saham 9 terbesar dunia (penutupan 28 April 2026)[^biggo] | Nilai pasar (triliun dolar AS) |
-| -------------------------------------------------------------- | ------------------------------ |
-| Amerika Serikat                                                | 75,04                          |
-| Tiongkok                                                       | 14,84                          |
-| Jepang                                                         | 8,19                           |
-| Hong Kong                                                      | 7,41                           |
-| India                                                          | 4,97                           |
-| **Taiwan**                                                     | **4,47**                       |
-| Kanada                                                         | 4,44                           |
-| Korea                                                          | 4,04                           |
-| Inggris                                                        | 3,99                           |
+| 9 Pasar Saham Terbesar Global (Penutupan 2026-04-28)[^biggo] | Nilai Pasar (Triliun USD) |
+| ------------------------------------------------------------ | ------------------------- |
+| Amerika Serikat                                              | 75,04                     |
+| Tiongkok                                                     | 14,84                     |
+| Jepang                                                       | 8,19                      |
+| Hong Kong                                                    | 7,41                      |
+| India                                                        | 4,97                      |
+| **Taiwan**                                                   | **4,47**                  |
+| Kanada                                                       | 4,44                      |
+| Korea Selatan                                                | 4,04                      |
+| Inggris                                                      | 3,99                      |
 
-Daftar ini memiliki detail yang layak untuk diberhentikan sejenak dan dilihat: lima teratas adalah ekonomi keuangan tradisional berdaya besar, Taiwan berada di peringkat enam, dan setelah itu ada dua anggota G7. Pulau yang luasnya tiga kali lipat lebih kecil dari Kanada dan populasinya 40% lebih sedikit dari Inggris, pada ukuran pasar modal, bisa bersaing dengan mereka.
+Daftar ini punya detail yang layak dihentikan sejenak: lima besar adalah ekonomi berat keuangan tradisional, Taiwan keenam, di belakangnya dua anggota G7. Sebuah pulau luasnya tiga ratus kali lebih kecil dari Kanada, populasi empat puluh persen lebih sedikit dari Inggris, dalam skala pasar modal justru melampaui keduanya.
 
-Laporan pandangan pasar saham Taiwan 2026 dari J.P. Morgan Asset Management cukup tegas: "Persaingan perlengkapan AI mendorong pengeluaran modal, mendorong ekspor Taiwan dan pertumbuhan setengah konduktor yang kuat," "dalam tiga tahun terakhir, pasar saham Taiwan naik lebih dari 90%", "rasio P/E telah naik dari 12,4x ke 17,7x", "saham teknologi mendominasi nilai pasar saham Taiwan hingga 70%-75%"[^JPM].
+J.P. Morgan Asset Management di Outlook Saham Taiwan 2026 menuliskan dengan lugas: "Perlombaan persenjataan AI mendorong belanja modal, mendorong ekspor Taiwan dan pertumbuhan kuat semikonduktor", "Kenaikan saham Taiwan 3 tahun terakhir melebihi 90%", "PER sudah naik dari 12,4x ke 17,7x", "Saham teknologi menduduki 70%-75% nilai pasar Taiwan"[^JPM].
 
-Kemudian ia menulis satu kalimat yang sangat sederhana: "Konsentrasi industri dan kenaikan valuasi mungkin menambah volatilitas, dan kemampuan memilih saham secara aktif menjadi kunci penting."
+Lalu ditulis satu kalimat sangat terukur: "Konsentrasi industri dan peningkatan valuasi mungkin menambah volatilitas, kemampuan stock picking aktif menjadi kunci penting."
 
-Makna kalimat ini baru akan jelas setelah membaca bagian berikutnya.
+Makna kalimat itu, baru paham di bagian berikutnya.
 
-## Efek Anggur 44%
+## Efek Semangka 44%
 
-Pada 28 April 2026, nilai pasar saham Taiwan 4,47 triliun dolar AS, nilai pasar TSMC 1,8 triliun dolar AS, dan bobot TAIEX hampir 45%[^bloomberg][^TSMC].
+28 April 2026 nilai pasar saham Taiwan 4,47 triliun dolar AS, nilai pasar TSMC 1,8 triliun dolar AS, bobot TAIEX mendekati 45%[^bloomberg][^TSMC].
 
-Menerjemahkan proporsi ini menjadi gambaran yang lebih konkret: dari lebih dari 1.000 perusahaan terdaftar, satu orang saja menguasai 45%; sisanya, lebih dari 1.000 perusahaan, hanya membagi 55% yang tersisa.
+Ubah proporsi ini jadi gambaran konkret: 1.000 lebih perusahaan tercatat, nomor satu sendirian makan 45%; 1.000 lebih sisanya berbagi 55% yang tersisa.
 
-> **📝 Catatan kurator**
-> Seorang akademisi menggambarkan keadaan ini kepada media pada April 2026: "TSMC seperti sebuah anggur besar yang menyerap semua nutrisi dari anggur-anggur lain." (Dikutip dari [Wantong 2026-04-25](https://wantrich.chinatimes.com/news/20260425900045-420101)) Metafora ini memiliki nama resmi dalam ekonomi: "Penyakit Belanda" (Dutch Disease): industri tunggal yang berkembang berlebihan menyerap semua bakat, dana, dan lahan di badan ekonomi, akhirnya mendorong industri manufaktur dan jasa ke pinggir. Semakin mencoloknya manfaat AI Taiwan, semakin kuat pengikat strukturnya.
+> **📝 Catatan Kurator**
+> Seorang akademisi April 2026 mengibarkan metafora ke media: "TSMC seperti semangka raksasa, menyerap semua nutrisi semangka lain." (Kutipan ulang [Want Daily 2026-04-25](https://wantrich.chinatimes.com/news/20260425900045-420101)) Metafora ini di ekonomi punya nama formal "Penyakit Belanda" (Dutch Disease): satu industri terlalu makmur, menarik talenta, dana, lahan seluruh ekonomi, akhirnya industri tradisional dan jasa pun terdorong ke pinggir[^荷蘭病]. Semakin menggiurkan bonus AI Taiwan, semakin kaku struktur ini.
 
-Angka 45% ini disertai beberapa angka lainnya.
+Angka 45% ini, berbarengan dengan beberapa angka lain.
 
-Laporan "2026 Investment Outlook: 10 Key Investment Trends" dari Goldman Sachs pada Januari 2026, dipimpin oleh Zhang Boke, kepala penelitian industri teknologi Cina dan Asia, mengumumkan daftar 25 saham yang disarankan untuk dibeli di pasar saham Taiwan: TSMC (2330), Vanguard International Semiconductor (3711), Foxconn (2317), Weikeng (3231), Weibus (6669), Chihseng (3017), Shuanghong (3324), Delta Electronics (2308), Taiwan Optoelectronics (2383), Largan Precision (3008), Cal-Comp (2059), Chunghwa Telecom (8210), Compal (3706), New Horizon (3376), Unimicron (6274), Powerchip (2368), Nanya (8046), dll[^高盛].
+Goldman Sachs Januari 2026 menerbitkan "Outlook Investasi 2026: 10 Tren Investasi Kunci", dipimpin kepala riset teknologi Greater China Chang Po-kai (張博凱), untuk saham Taiwan menentukan 25 saham beli: TSMC (2330), ASE Technology Holding (3711), Hon Hai (2317), Wistron (3231), Wiwynn (6669), Chicony (3017), Simplo Technology (3324), Delta Electronics (2308), Taiwan Glass (2383), Largan Precision (3008), Chuan Hu (2059), Kinpo Electronics (8210), Compal Electronics (3706), Systex (3376), Tai Yuen (6274), King's Town (2368), Nan Teh (8046), dll[^高盛].
 
-Tema investasi dari seluruh daftar ini sangat konsisten: setengah konduktor, server AI, modul pengirim-anjungan cahaya, modul pendingin, pabrik ODM, PC, perangkat pintar, PCB, kendaraan otonom L4, satelit rendah orbit[^高盛]. Tidak ada satu saham keuangan, tidak ada satu saham konsumsi, tidak ada satu pemimpin industri manufaktur.
+Seluruh daftar temanya sangat konsisten: semikonduktor, server AI, modul optik transceiver, modul pendingin, pabrik ODM, PC, smartphone, PCB, mobil otonom level 4, satelit orbit rendah[^高盛]. Tidak ada satu pun saham keuangan, tidak ada satu pun saham konsumen, tidak ada satu pun blue-chip industri tradisional.
 
-Dengan kata lain, ketika para strategis Goldman Sachs melihat nilai pasar saham Taiwan sebesar 4,47 triliun dolar AS dan bertanya "bagaimana cara bertaruh di masa depan?", jawabannya adalah: taruhan berikutnya, lagi-lagi pada seekor kuda yang sama.
+Artinya, saat strategis Goldman melihat nilai pasar 4,47 triliun dolar AS Taiwan bertanya "mau taruh taruhan ke mana", jawabannya adalah: taruh lagi, taruh di kuda yang sama.
 
-Catatan kinerja ETF aktif juga mengarah ke arah yang sama. Hingga 29 April, return dari Nomura Hongyun Fund sejak awal tahun mencapai 89,58%, Yuanta Duo Duo 77,56%, Tuntun Hitam 75,30%, Franklin Templeton Pertama Kaya 75,09% — semuanya jauh melampaui 36,45% dari indeks tertimbang[^主動]. Ciri khas dari semua dana ini adalah: fokus pada setengah konduktor AI, pendingin, listrik, dan transmisi cepat.
+Kinerja ETF aktif juga menunjuk arah sama. Per 29 April, Nomura Hongyun Fund tahun ini return 89,58%, Yuanta Dodo 77,56%, Fubon Black Horse 75,30%, Franklin Templeton First Fund 75,09% — semuanya melipatgandakan kinerja indeks besar 36,45%[^主動]. Titik temu dana-dana ini: tekan AI semikonduktor, tekan pendingin, tekan catu daya, tekan transmisi kecepatan tinggi.
 
-Selama bulan April yang seluruhnya, belanja modal asing sekali dalam sebulan pernah melebihi 8,9 miliar dolar AS; pada 21 April, belanja bersih tunggal hari mencapai 6,015,3 juta yuan (peringkat ketujuh terbesar dalam sejarah)[^外資]. Uang mengalir dari seluruh dunia ke pulau ini, lalu melalui satu saham TSMC, diperbesar menjadi garis merah pasar.
+Selama April, investor asing sebulan beli bersih saham Taiwan sekali mencapai 8,9 miliar dolar AS; 21 April sehari beli bersih neto 60,153 miliar dolar Taiwan baru, ketujuh terbesar sepanjang sejarah[^外資]. Uang dari seluruh dunia mengalir ke pulau ini, lalu melalui satu saham TSMC diperbesar jadi garis merah indeks besar.
 
-Saatnya paling efisien juga saat yang paling rentan.
+Waktu paling efisien, juga paling rapuh.
 
-## 13,93 Juta Akun dan Satu Lembar ETF
+## 13,93 Juta Rekening dan Satu ETF
 
-Pada akhir Februari 2026, jumlah akun terdaftar pasar saham Taiwan mencapai 13,93 juta, naik sekitar 80.000 dari bulan sebelumnya, dan secara berturut-turut mencatatkan rekor terbaru[^開戶]. Di pulau dengan total populasi 23,4 juta, hampir 60% penduduknya memiliki akun efek.
+Akhir Februari 2026, akumulasi rekening saham Taiwan mencapai 13,93 juta, dibanding Januari bertambah sekitar 80 ribu, terus mencatat tinggi sejarah[^開戶]. Di pulau populasi 23,4 juta, hampir enam puluh persen punya rekening efek.
 
-Yang lebih layak untuk diberhentikan sejenak dan dilihat adalah strukturnya: investor di bawah 30 tahun menyumbang sekitar 60% dari pembukaan akun baru, dan kelompok usia 20-30 tahun melebihi 1,7 juta orang. Spekulasi, saham pecahan, investasi rutin, dan pengajuan ETF adalah alat harian generasi ini, dan mereka hampir tidak pernah mendengar istilah "lampu berkelip".
+Lebih patut dihentikan adalah strukturnya: investor di bawah 30 tahun menduduki proporsi rekening baru sekitar enam puluh persen, kelompok 20-30 tahun melebihi 1,7 juta. Day trading, odd-lot, dollar-cost averaging, subscribe ETF adalah alat sehari-hari generasi ini, mereka sudah tidak kenal kata "layar berjalan".
 
-Dari "saham adalah perjudian" pada 1990-an hingga "tidak berinvestasi adalah risiko" pada 2020-an, sikap masyarakat Taiwan terhadap pasar modal telah berubah selama tiga puluh tahun.
+Dari 1990-an "saham itu judi" ke 2020-an "tidak investasi itu risiko", sikap masyarakat Taiwan terhadap pasar modal, butuh tiga puluh tahun balik arah.
 
-| 1990                                                    | 2026                                      |
-| ------------------------------------------------------- | ----------------------------------------- |
-| 4,6 juta akun aktif                                     | 13,93 juta akun terdaftar                 |
-| Pedagang ritel mendominasi 90% transaksi                | Institusi + ETF berkembang pesat          |
-| Telepon genggam memesan, lampu berkelip                 | Smartphone, investasi rutin               |
-| Hong Yuan mengumpulkan dana dengan bunga bulanan 4%     | 0050 memberikan pengembalian tahunan 5-8% |
-| Satu perusahaan bangkrut, 160.000 orang kehilangan uang | Satu saham menentukan posisi pasar        |
+| 1990                                        | 2026                                      |
+| ------------------------------------------- | ----------------------------------------- |
+| 4,6 juta rekening aktif                     | 13,93 juta akumulasi rekening             |
+| Investor ritil 90% volume                   | Institusional + ETF makin besar           |
+| Telepon khusus, layar berjalan              | Geser HP, dollar-cost averaging           |
+| Hongyuan bunga 4% menarik dana              | 0050 return tahunan 5-8%                  |
+| Satu perusahaan bangkrut hancurkan 160 ribu | Satu saham menentukan posisi indeks besar |
 
-Tabel ini: sisi kiri adalah kenangan luka, sisi kanan adalah manfaat AI. Di antaranya ada 36 tahun — namun garis di tengahnya tidak selalu naik secara lurus.
+Kiri tabel adalah kenangan trauma, kanan bonus AI. Di tengahnya tiga puluh enam tahun — tapi garis tengah itu, bukan garis lurus naik.
 
-## Indeks yang Sama, Dua Perspektif
+## Satu Indeks, Dua Perspektif
 
-Pada 9 Februari 1962, bursa efek Taiwan dibuka, dan hanya ada sekitar sepuluh perusahaan yang terdaftar pada hari pertama[^TWSE]. Enam puluh empat tahun kemudian, pada 28 April 2026, indeks tertimbang berada di ambang 40.000 poin, dan nilai pasar naik menjadi peringkat 6 terbesar dunia.
+9 Februari 1962, Bursa Efek resmi beroperasi, perusahaan tercatat pertama hanya sedikit lebih dari sepuluh[^TWSE]. Enam puluh empat tahun kemudian 28 April 2026, Indeks Terbobot dekat 40.000 poin, total nilai pasar naik ke peringkat 6 global.
 
-Menyusun kisah ini dalam sebuah rilis pers terdengar megah: dari masa industri air, semen, kertas, pertanian, dan pertambangan, hingga era ekonomi pengetahuan, termasuk pemesanan wafer, pendingin AI, dan komunikasi cahaya. Pasar modal Taiwan telah melewati satu abad, berkembang dari sebuah toko kelontong di pinggir jalan menjadi bursa efek terbesar ke-6 di dunia.
+Enam puluh empat tahun ini ditulis jadi press release sangat gemilang: dari era industri semen, kertas, kehutanan, pertambangan, ke era ekonomi pengetahuan foundry kristal, pendingin AI, komunikasi optik. Pasar modal Taiwan habis satu siklus 60 tahun, dari satu toko kelontong pinggiran jadi Bursa Efek terbesar keenam dunia.
 
-Namun, peringkat ke-6 Taiwan pada 2026 ini memiliki paradoks struktural.
+Tapi peringkat keenam 2026 ini punya ironi struktural.
 
-Dari total nilai pasar saham Taiwan 4,47 triliun dolar AS, TSMC sendiri menguasai hampir 45%. Jika TSMC dihilangkan dari indeks tertimbang, lebih dari 1.000 saham lainnya hanya mencapai sekitar 2,67 triliun dolar AS — mungkin akan turun ke peringkat sekitar 10, setara dengan Arab Saudi. Di dunia pasar modal, "peringkat 6 terbesar" ini tidak semestinya berkaitan dengan "pulau" yang kita pikirkan.
+Di nilai pasar 4,47 triliun dolar AS saham Taiwan, TSMC sendirian makan hampir 45%. Kalau TSMC dikeluarkan dari Indeks Terbobot, 1.000 lebih saham sisanya dijumlahkan kira-kira 2,67 triliun dolar AS — kira-kira akan anjur ke peringkat 10-an global, sama level dengan Arab Saudi. Di dunia pasar modal, identitas "terbesar keenam global" dengan "satu pulau" hubungannya, lebih tipis dari bayangan.
 
-> **✦** "Pada 28 April 2026, terminal Bloomberg di New York menampilkan 'Taiwan Overtakes Canada'. Pada malam yang sama, seorang sopir taksi di Taipei sedang menunggu siaran radio keuangan, dan yang ia perhatikan bukanlah Taiwan melampaui negara G7 mana pun, tetapi apakah TSMC akan mencapai 2.300 pada hari berikutnya. Judul Bloomberg menulis 'kemenangan sebuah pulau'; sopir taksi memikirkan 'posisi satu saham'. Dua perspektif tentang hal yang sama — dan yang kedua, mungkin lebih dekat dengan kebenaran."
+> **✦** "28 April 2026, terminal Bloomberg New York memunculkan 'Taiwan Overtakes Canada'. Malam yang sama, sopir taksi Taipei di depan radio menunggu segmen keuangan berikutnya, yang dia pedulikan bukan Taiwan melampaui G7 mana, tapi TSMC besok apakah tutup 2.300. Judul Bloomberg tulis 'Kemenangan Satu Pulau'; sopir peduli 'Posisi Satu Saham'. Satu peristiwa, dua perspektif — dan yang kedua, mungkin lebih dekat dengan kebenaran."
 
-Kebangkrutan 10.000 poin pada 1990 menghancurkan kepercayaan satu generasi pada pasar saham. Bullish pada 2026 yang mendorong indeks ke 40.000 poin dan melebihi Kanada, membangun kembali kepercayaan yang sama — hanya bahwa kali ini, kepercayaan beralih dari "sinyal yang aku pilih sendiri" ke "TSMC yang sedang dibeli oleh seluruh dunia".
+Keterbukaan 10.000 poin 1990 menghancurkan kepercayaan satu generasi ke pasar saham. Pasukan banyak 2026 yang menembus 40.000 poin, mendorong Kanada ke bawah, membangun kembali kepercayaan orang yang sama — cuma kali ini, objek kepercayaan dari "tips bocoran yang sendiri pilih" jadi "saham TSMC yang seluruh dunia beli".
 
-Puncak yang dibangun oleh 13,93 juta akun ini memiliki fondasi 45% dari satu batu yang sama. Batu itu sangat keras, namun hanya ada satu.
+Puncak gunung yang 13,93 juta rekening berdiri bersama ini, 45% landasannya adalah satu batu yang sama. Batu itu keras, tapi cuma satu.
 
-Tiga puluh tahun ke depan, apa yang akan dipelajari pasar modal Taiwan? Tanya saja ke tetangga yang pernah membeli diri tiga kali pada 1990 — ia mungkin akan memberi tahu kamu: saat pasar paling berbahaya adalah ketika semua orang merasa tidak akan pernah turun.
+Tiga puluh tahun depan, pasar modal Taiwan akan belajar apa? Tanya tetangga kamu yang 1990 tiga kali tangkap bottom — dia bakal bilang: saat pasar paling berbahaya, justru saat semua orang rasa nggak bakal turun.
 
-**Bacaan Lanjutan**
+**Baca Lanjutan**
 
-- [Taiwan Enterprise: TSMC](/id/economy/tsmc) — Matahari yang mendominasi 45% pasar saham Taiwan, dan kisah di balik istilah "penjaga nasional"
-- [Industri Setengah Konduktor](/id/technology/taiwan-semiconductor-industry) — Rantai pasokan ekologi yang mendukung posisi peringkat 6 pasar saham Taiwan
-- [Taiwan Enterprise: Foxconn Precision](/id/economy/foxconn-precision-industry) — Pemain lain dalam daftar 25 saham yang disarankan oleh Goldman Sachs, dari raksasa kontraktor hingga pelaku transformasi server AI
-- [Transformasi dan Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Jejak dari kontraktor pada 1980-an hingga manfaat AI pada 2026
-- [Keajaiban Ekonomi: Dari Kue Kentang hingga TSMC, 20 Juta Orang Membangun Kisah Sukses](/id/economy/economic-miracle) — Uang pada masa "air menggenang di kaki" akhirnya mengalir ke pasar saham dan Hong Yuan pada 1990
-- [Pengembangan Fintech Taiwan](/id/economy/taiwan-fintech-development) — Dari telepon genggam hingga smartphone investasi rutin, infrastruktur keuangan di balik satu akun
-- [Apple Soda](/id/food/apple-cider) — Rantai aliran kepemilikan saham Apple Soda (kod saham 1213) pada 1965, kasus kecil dari dua titik penting sejarah modal: kasus 10-X pada 1985 dan kasus Hong Yuan pada 1990
+- [Topik Industri Taiwan](/industry/) — Menggambar struktur industri pakai statistik resmi: ekspor & GDP tujuh puluh tahun, taman sains, pabrik tiap kota, peringkat nilai pasar tahunan, plus enam perdebatan publik dan argumen masing-masing pihak
+- [Peringkat 50 Nilai Pasar Teratas](/companies/) — Bisa urut filter berdasarkan nilai pasar, pendapatan, industri, dan kota markas secara interaktif
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Matahari yang menduduki 45% bobot saham Taiwan, dan cerita di balik istilah "Gunung Penjaga Negara"
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Seluruh ekosistem rantai pasokan yang menopang identitas peringkat 6 saham Taiwan
+- [Perusahaan Taiwan: Hon Hai Precision](/id/economy/foxconn-precision-industry) — Bobot besar lain di daftar beli 25 Goldman, dari raksasa OEM ke pengubah wujud server AI
+- [Transformasi Tingkat Naik Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Jejak dari OEM 1980-an ke bonus AI 2026
+- [Keajaiban Ekonomi: Dari Kontrak Ubi ke TSMC, Dua Puluh Juta Orang Bangkit](/id/economy/economic-miracle) — Uang era "uang Taiwan banjir sampai lutut", akhirnya mengalir ke pasar saham 1990 dan Hongyuan
+- [Pengembangan Fintech Taiwan](/id/economy/taiwan-fintech-development) — Dari telepon khusus ke geser HP dollar-cost averaging, infrastruktur keuangan di balik satu rekening
+- [Atlantic Soda](/id/food/apple-cider) — Rantai perpindahan saham Atlantic Beverages (kode 1213) tercatat 1965, adalah miniatur dua node sejarah modal 1985 Kasus Sepuluh Perusahaan Investasi dan 1990 Kasus Hongyuan
 
 ## Referensi
 
-[^bloomberg]: [Taiwan Overtakes Canada as World's Sixth-Largest Stock Market — Bloomberg via TaiwanPlus](https://www.taiwanplus.com/news/taiwan-news/economy/260429002/taiwan-becomes-worlds-6th-largest-stock-market-riding-ai-boom) — Laporan Bloomberg 2026-04-29, nilai pasar saham Taiwan pada 28 April 2026 mencapai 4,47 triliun dolar AS, melampaui Kanada, TaiwanPlus menyebarkan ulang dan melengkapi latar belakang AI.
+[^bloomberg]: [Taiwan Overtakes Canada as World's Sixth-Largest Stock Market — Bloomberg via TaiwanPlus](https://www.taiwanplus.com/news/taiwan-news/economy/260429002/taiwan-becomes-worlds-6th-largest-stock-market-riding-ai-boom) — Liputan Bloomberg 2026-04-29, penutupan 28 April nilai pasar saham Taiwan 4,47 triliun dolar AS melampaui Kanada, TaiwanPlus ikut tayang plus latar bonus AI.
 
-[^biggo]: [Taiwan Stock Market Surpasses Canada to Rank 6th Globally — BigGo Finance](https://finance.biggo.com/news/SFOp3p0B6tLPsnrZ4Dpo) — Daftar lengkap peringkat 9 pasar saham terbesar dunia pada 28 April 2026 (AS 75,04 / Tiongkok 14,84 / Jepang 8,19 / Hong Kong 7,41 / India 4,97 / Taiwan 4,47 / Kanada 4,44 / Korea 4,04 / Inggris 3,99 triliun dolar AS), dan membandingkan YTD Taiwan +35% / Kanada +5%.
+[^biggo]: [Taiwan Stock Market Surpasses Canada to Rank 6th Globally — BigGo Finance](https://finance.biggo.com/news/SFOp3p0B6tLPsnrZ4Dpo) — Lengkap daftar peringkat 9 besar global 2026-04-28 (AS 75,04 / Tiongkok 14,84 / Jepang 8,19 / Hong Kong 7,41 / India 4,97 / Taiwan 4,47 / Kanada 4,44 / Korea 4,04 / Inggris 3,99 triliun dolar AS) dan bandingkan Taiwan YTD +35% / Kanada +5%.
 
-[^biggo2]: [Taiwan Stocks Test 40,000 Points in Historic Surge — BigGo Finance](https://finance.biggo.com/news/qhzK5Z0BoicNoOgC6d9i) — Lonjakan sejarah April 2026: indeks tertimbang naik 7.200 poin, naik 22,7% dalam sebulan, menganalisis risiko penyakit Belanda dan konsentrasi dana yang berlebihan.
+[^biggo2]: [Taiwan Stocks Test 40,000 Points in Historic Surge — BigGo Finance](https://finance.biggo.com/news/qhzK5Z0BoicNoOgC6d9i) — April 2026 saham Taiwan sebulan naik 7.200 poin, kenaikan 22,7% rowem sejarah, analisis risiko Penyakit Belanda dan fenomena konsentrasi dana berlebihan.
 
-[^taipeitimes]: [TAIEX briefly tops 40,000 for first time — Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343) — Pada 27 April 2026, indeks tertimbang mencapai maksimum 40.194,92 poin, penutupan 39.616,63 poin, nilai perdagangan 1,18 triliun yuan; kutipan langsung analis Adam Lin mengenai pandangan bullish terhadap TSMC.
+[^taipeitimes]: [TAIEX briefly tops 40,000 for first time — Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343) — 2026-04-27 Indeks Terbobot siang tertinggi 40.194,92 poin, tutup 39.616,63 poin, nilai transaksi 1,18 triliun dolar Taiwan baru; kutipan verbal analis Adam Lin soal pandangan bullish TSMC.
 
-[^泡沫]: [Wikipedia: Ekonomi Gelembung Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B3%A1%E6%B2%AB%E7%B6%93%E6%BF%9F) — Rekam jejak lengkap dari 12.682 poin pada 12 Februari 1990 (tertinggi dalam sejarah) hingga 2.485 poin delapan bulan kemudian.
+[^泡沫]: [Wikipedia: Gelembung Ekonomi Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B3%A1%E6%B2%AB%E7%B6%93%E6%BF%9F) — 1990-02-12 Indeks Terbobot 12.682 poin tertinggi sejarah, delapan bulan kemudian anjur ke 2.485 poin, catatan lengkap.
 
-[^技術新報]: [TechNews: 60 Tahun Pasar Saham Taiwan, Dari Era Institusi ke Partisipasi Massal](https://finance.technews.tw/2022/02/06/the-history-of-taiwan-stocks/) — Rekam jejak transformasi struktur pasar dari 90% transaksi pedagang ritel pada 1990-an hingga modal asing secara bertahap menggantikan peran pedagang ritel.
+[^技術新報]: [TechNews: Saham Taiwan 60 Tahun, Lewati Era Institusional ke Partisipasi Rakyat](https://finance.technews.tw/2022/02/06/the-history-of-taiwan-stocks/) — 1990-an investor ritil volume 90%, modal asing bertahap menggantikan ritil jadi kekuatan utama, catatan transformasi struktur pasar.
 
-[^udn1990]: [Udn 1990: Perubahan Pasar! Indeks Saham 1990 dari 12.000 ke 2.000](https://time.udn.com/udntime/story/122833/6390429) — Arsip gambar sejarah Udn mencatat delapan bulan dari 12.682 poin ke 2.485 poin pada 1990, termasuk foto nyata sikap pedagang ritel dan perasaan pasar.
+[^udn1990]: [Laporan Masa: Saham Berubah-Berah! 1990 Indeks dari 12 Ribu Jadi 2 Ribu](https://time.udn.com/udntime/story/122833/6390429) — Arsip gambar sejarah United Daily News catat 1990 Indeks Terbobot dari 12.682 anjur ke 2.485 poin delapan bulan, berisi mentalitas ritil dan foto suasana pasar saat itu.
 
-[^鴻源]: [Komentar Kunci: Organisasi Penipuan Terbesar dalam Sejarah Taiwan "Hong Yuan"](https://www.thenewslens.com/article/161202) — Tinjukan kembali kejadian Hong Yuan yang mengumpulkan dana hampir 10 miliar dengan bunga bulanan 4%, dan kejadian 9 Januari 1990 yang menyebabkan 160.000 orang terdampak (kebanyakan pegawai negeri dan militer).
+[^鴻源]: [The News Lens: Kasus Penipuan Terbesar Sejarah Taiwan "Institusi Hongyuan"](https://www.thenewslens.com/article/161202) — Hongyuan bunga 4% tarik dana hampir seribu miliard, 1990-01-09 bangkrut 160.000 korban (mayoritas militer/sipil/guru) tinjauan ulang.
 
-[^鴻源wiki]: [Wikipedia: Kasus Hong Yuan](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%BA%90%E6%A1%88) — Catatan putusan hukum: pemimpin Hong Yuan Shen Changsheng dihukum 7 tahun penjara dan denda 3 juta yuan, dan dikurung pada 1994.
+[^鴻源wiki]: [Wikipedia: Kasus Hongyuan](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%BA%90%E6%A1%88) — Kepala Hongyuan Shen Chang-sheng dihukum tujuh tahun denda tiga juta, 1994 bebas bersyarat, catatan putusan.
 
-[^沈長聲]: [Ming Pao Weekly: "Pemimpin Hong Yuan Shen Changsheng Meninggal Mendadak" / Mengumpulkan 4% Bunga Bulanan Hampai 10 Miliar, Menyebabkan 160.000 Pegawai Negara dan Militer Kehilangan Uang](https://www.businesstoday.com.tw/article/category/183027/post/202202160009/) — Laporan lanjutan tentang kematian mendadak Shen Changsheng di Xiamen pada 2022, tinjauan kembali tentang skala kasus Hong Yuan dan nasib tiga orang yang bertanggung jawab.
+[^沈長聲]: [Business Weekly: Kepala Hongyuan Shen Chang-sheng Meninggal Mendadak / Bunga 4% Tarik Hampir Seribu Miliard, Binasakan 160 Ribu Militer/Sipil/Guru](https://www.businesstoday.com.tw/article/category/183027/post/202202160009/) — Shen Chang-sheng 2022 meninggal di Xiamen, liputan lanjutan, tinjauan skala kasus Hongyuan dan nasib tiga orang bertanggung jawab.
 
-[^TWSE權重]: [HiStock: Komponen dan Bobot Indeks Tertimbang](https://histock.tw/stock/taiexproportion.aspx) — Bobot resmi komponen indeks tertimbang Taiwan, menunjukkan TSMC sebesar 45,0041% pada 10 Maret 2026, dan standar perhitungan dampak perubahan 1 yuan pada harga saham TSMC terhadap indeks sekitar 7,97 poin.
+[^TWSE權重]: [HiStock: Saham Komponen & Bobot Nilai Pasar Indeks Terbobot](https://histock.tw/stock/taiexproportion.aspx) — Bobot saham komponen Indeks Terbobot resmi Bursa Efek Taiwan, 2026-03-10 menampilkan TSMC 45,0041%, harga TSMC berubah NT$1 mempengaruhi indeks sekitar 7,97 poin dasar perhitungan.
 
-[^ETF]: [StockFeel: 0050 ETF Yuanta Taiwan 50](https://www.stockfeel.com.tw/%E3%80%90-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-%E3%80%910050-%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%88%90%E5%88%86%E8%82%A1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/) — Riwayat lengkap 0050 yang dikeluarkan pada Juni 2003 sebagai ETF pertama Taiwan, AUM mendekati 1,4 triliun yuan, dan jumlah penerima manfaat melebihi 2,74 juta.
+[^ETF]: [StockFeel: 0050 Yuanta Taiwan 50 ETF](https://www.stockfeel.com.tw/%E3%80%90-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-%E3%80%910050-%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%88%90%E5%88%86%E8%82%A1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/) — 0050 Juni 2003 terbit jadi ETF pertama Taiwan, aset mendekati 1,4 triliun dolar Taiwan baru, penerima manfaat tembus 2,74 juta, rincian lengkap.
 
-[^三萬點]: [Caishuo: Rekor Tahun Baru Terkuat dalam Sejarah! Pasar Saham Taiwan Mencatat 5 Rekor, Memasuki Era 30.000 Poin](https://news.cnyes.com/news/id/6298630) — Data detail 5 Januari 2026: indeks tertimbang menutup di 30.105,04 poin, TSMC naik 5,36% ke 1.670 yuan, nilai perdagangan hari itu 80.079,3 juta.
+[^三萬點]: [Cnyes: Angpau Tahun Baru Terhebat! Saham Taiwan Tulis 5 Rekor Masuk Era 30 Ribu](https://news.cnyes.com/news/id/6298630) — 2026-01-05 Indeks Terbobot tutup 30.105,04 poin, TSMC naik 5,36% ke NT$1.670, nilai transaksi sehari 800,793 miliar, data detail.
 
-[^超英]: [Free Finance: Pasar Saham Taiwan Melampaui Inggris, Masuk ke Peringkat 7 Terbesar Dunia](https://ec.ltn.com.tw/article/breakingnews/5405784) — Rekam jejak April 2026: nilai pasar saham Taiwan 4,14 triliun dolar AS melampaui Inggris (3,99 triliun), masuk ke peringkat 7 terbesar dunia.
+[^超英]: [Liberty Finance: Nilai Pasar Saham Taiwan Lampaui Inggris, Jadi Peringkat 7 Global](https://ec.ltn.com.tw/article/breakingnews/5405784) — Tengah April 2026 nilai pasar Taiwan 4,14 triliun dolar AS lampaui Inggris (3,99 triliun), masuk peringkat 7, catatan waktu.
 
-[^韓國]: [Free Finance: Pasar Saham Korea Melampaui Inggris, Masuk ke Peringkat 8 Dunia](https://ec.ltn.com.tw/article/breakingnews/5418477) — Rekam jejak April 2026: KOSPI Korea nilainya 4,04 triliun dolar AS, melampaui Inggris secara bersamaan, naik ke peringkat 8 dunia, dan YTD naik 45%.
+[^韓國]: [Liberty Finance: Nilai Pasar Saham Korea Peringkat 8 Global Lampaui Inggris](https://ec.ltn.com.tw/article/breakingnews/5418477) — 2026 KOSPI Korea 4,04 triliun dolar AS periode sama lampaui Inggris naik ke peringkat 8, YTD +45% catatan banding.
 
-[^台積電條款]: [Fengyun Academy: Dewan Pengawas Keuangan Membuka Kebijakan, "Klausul TSMC" Disetujui Resmi](https://www.sinotrade.com.tw/richclub/hotstock/%E9%87%91%E7%AE%A1%E6%9C%83%E5%A4%A7%E9%AC%86%E7%B6%81--%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%A2%9D%E6%AC%BE-%E6%AD%A3%E5%BC%8F%E6%8B%8D%E6%9D%BF-%E5%9F%BA%E9%87%91%E6%8C%81%E8%82%A1%E4%B8%8A%E9%99%90%E8%AA%BF%E5%8D%87%E8%87%B3-25--%E6%B3%A8%E5%85%A5%E5%B8%82%E5%A0%B4%E5%BC%B7%E5%BF%83%E9%87%9D-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-69eadadd86807e0a532f8ad5) — Penjelasan kebijakan pada April 2026: Dewan Pengawas Keuangan mengubah batas maksimum kepemilikan saham tunggal oleh dana dari 10% ke 25%, dan TSMC adalah subjek utama yang mendapatkan manfaat.
+[^台積電條款]: [Fengyun Academy: FSC Longgar Besar, "Klausul TSMC" Resmi Disetujui](https://www.sinotrade.com.tw/richclub/hotstock/%E9%87%91%E7%AE%A1%E6%9C%83%E5%A4%A7%E9%AC%86%E7%B6%81--%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%A2%9D%E6%AC%BE-%E6%AD%A3%E5%BC%8F%E6%8B%8D%E6%9D%BF-%E5%9F%BA%E9%87%91%E6%8C%81%E8%82%A1%E4%B8%8A%E9%99%90%E8%AA%BF%E5%8D%87%E8%87%B3-25--%E6%B3%A8%E5%85%A5%E5%B8%82%E5%A0%B4%E5%BC%B7%E5%BF%83%E9%87%9D-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-69eadadd86807e0a532f8ad5) — FSC April 2026 longgar batas kepemilikan saham tunggal dana dari 10% ke 25%, TSMC penerima manfaat utama, penjelasan kebijakan.
 
-[^TSMC]: [World News Network: Taiwan Masuk ke Peringkat 6 Terbesar Dunia, Pasar Saham Taiwan Melampaui Inggris dan Kemudian Kanada](https://www.worldjournal.com/wj/story/121347/9471660) — Kutipan data Bloomberg: nilai pasar TSMC 1,8 triliun dolar AS, bobotnya di indeks tertimbang "hampir 45%", termasuk tabel peringkat 9 pasar saham terbesar dunia.
+[^TSMC]: [World Journal: Peringkat 6 Global Nilai Pasar Saham Taiwan Lampaui Inggris Lalu Kejar Kanada](https://www.worldjournal.com/wj/story/121347/9471660) — Nilai pasar TSMC 1,8 triliun dolar AS, bobot Indeks Terbobot "mendekati 45%" data Bloomberg, berisi tabel peringkat 9 besar global.
 
-[^JPM]: [J.P. Morgan Asset Management: Faktor Kunci Bullish Pasar Saham Taiwan 2026](https://am.jpmorgan.com/tw/zh/asset-management/per/insights/market-insights/market-outlook-2026/key-factors-for-the-taiwan-stocks-in-2026/) — Pandangan pasar saham Taiwan 2026 dari J.P. Morgan: rasio P/E naik dari 12,4x ke 17,7x, saham teknologi mendominasi 70-75% nilai pasar, proyeksi laba tahunan naik hampir 20%, dan peringatan tentang volatilitas akibat konsentrasi industri.
+[^JPM]: [J.P. Morgan Asset Management: Kunci Lanjutan Pasaran Bull Saham Taiwan 2026](https://am.jpmorgan.com/tw/zh/asset-management/per/insights/market-insights/market-outlook-2026/key-factors-for-the-taiwan-stocks-in-2026/) — Outlook J.P. Morgan 2026: PER naik dari 12,4x ke 17,7x, saham teknologi 70-75%, estimasi laba tahunan naik hampir 20%, peringatan risiko volatilitas konsentrasi industri.
 
-[^荷蘭病]: [Business Weekly: Apa Itu Penyakit Belanda? Apakah Taiwan Bisa Terkena "Penyakit Belanda"?](https://www.cw.com.tw/article/5123513) — Penjelasan konsep ekonomi penyakit Belanda, diskusi tentang risiko industri tunggal yang menonjolkan bakat dan dana di Taiwan.
+[^荷蘭病]: [CommonWealth Magazine: Apa Itu Penyakit Belanda? Taiwan Bisa Kena "Penyakit Belanda"?](https://www.cw.com.tw/article/5123513) — Analisis konsep ekonomi Penyakit Belanda, diskusi risiko kemakmuran industri tunggal industri elektronik Taiwan menarik talenta dana.
 
-[^高盛]: [Economic Daily News: Lihatlah! 25 Saham yang Disarankan oleh Goldman Sachs untuk Dibeli pada 2026](https://money.udn.com/money/story/5607/9246073) — Laporan "2026 Investment Outlook" dari Goldman Sachs pada 5 Januari 2026, Zhang Boke, kepala penelitian industri teknologi Cina dan Asia, memimpin rekomendasi 25 saham Taiwan, termasuk TSMC / Foxconn / Weikeng / Weibus / Chihseng / Delta Electronics dll.
+[^高盛]: [Economic Daily News: Investor Perhatian! 2026 Tata Letak Goldman Sachs Beli 25 Saham Ini](https://money.udn.com/money/story/5607/9246073) — Goldman 2026-01-05 "Outlook Investasi 2026", kepala riset teknologi Greater China Chang Po-kai pimpin beli 25 perusahaan Taiwan, berisi TSMC / Hon Hai / Wistron / Wiwynn / Chicony / Delta Electronics dll rantai pasokan AI semikonduktor.
 
-[^主動]: [United News Network: Pasar Saham Taiwan Masuk ke Peringkat 6 Terbesar Dunia, Manfaat AI Menyala, Dana Pasar Saham Aktif Dobel Lebih Baik dari Indeks](https://udn.com/news/story/10103/9471924) — Statistik Lipper hingga 29 April 2026: return YTD Nomura Hongyun 89,58% / Yuanta Duo Duo 77,56% / Tuntun Hitam 75,30% / Franklin Templeton Pertama Kaya 75,09%, dibandingkan dengan indeks tertimbang 36,45%.
+[^主動]: [United Daily News: Saham Taiwan Loncat Peringkat 6 Global Bonus AI Menggelegar Dana Aktif Saham Taiwan Kinerja Lipat Ganda Menang Indeks Besar](https://udn.com/news/story/10103/9471924) — Statistik Lipper per 2026-04-29, Nomura Hongyun 89,58% / Yuanta Dodo 77,56% / Fubon Black Horse 75,30% / Franklin Templeton First Fund 75,09% YTD return, banding Indeks Terbobot 36,45%.
 
-[^外資]: [Caishuo: Belanja Modal Asing Meningkat 55,7 Miliar Yuan untuk Mendorong "30.000"](https://m.cnyes.com/news/id/6421775) — Rekam jejak April 2026: belanja modal asing sekali dalam sebulan pernah melebihi 8,9 miliar dolar AS, dan pada 21 April, belanja bersih tunggal hari mencapai 6.015,3 juta yuan (peringkat ketujuh terbesar dalam sejarah).
+[^外資]: [Cnyes: Modal Asing Tambah 55,7 Miliar Bantuan 37 Ribu](https://m.cnyes.com/news/id/6421775) — April 2026 investor asing beli bersih saham Taiwan sebulan sekali 8,9 miliar dolar AS, 21 April sehari neto beli bersih 60,153 miliar dolar Taiwan baru (ketujuh terbesar sejarah) catatan dinamika dana.
 
-[^開戶]: [Central News Agency: Jumlah Pembukaan Akun Pasar Saham Taiwan pada Februari Naik 80.000 Orang, Mencapai 13,93 Juta, Mencatatkan Rekor Terbaru](https://www.cna.com.tw/news/afe/202603020145.aspx) — Pada akhir Februari 2026, jumlah akun terdaftar pasar saham Taiwan mencapai 13.930.000,987 orang, naik 80.800 dari bulan sebelumnya, dan secara berturut-turut mencatatkan rekor terbaru.
+[^開戶]: [CNA: Februari Rekening Saham Taiwan Bulanan Tambah 80 Ribu Capai 13,93 Juta Lagi Rekor Baru](https://www.cna.com.tw/news/afe/202603020145.aspx) — Akhir Februari 2026 akumulasi rekening 13.939.987, dibanding Januari naik 80,8 ribu, terus rekor baru.
 
-[^TWSE]: [TWSE Taiwan Stock Exchange: Sejarah](https://www.twse.com.tw/zh/about/company/history.html) — Taiwan Stock Exchange didirikan pada 23 Oktober 1961, dan secara resmi dibuka pada 9 Februari 1962, dengan riwayat resmi dari pendiri pertama, Gu Chifa.
+[^TWSE]: [TWSE Bursa Efek Taiwan: Sejarah](https://www.twse.com.tw/zh/about/company/history.html) — Bursa Efek Taiwan 1961-10-23 didirikan, 1962-02-09 resmi operasi, ketua pertama Koo Chen-fu (辜振甫) sejarah resmi.

@@ -19,19 +19,20 @@ lastVerified: 2026-07-11
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
 rationale:
-  why_this_hook: 'Menempatkan waduk di samping pabrik wafer, pertanian, pabrik air daur ulang, dan tata kelola lokal bersama-sama, membuat penggunaan air semikonduktor menjadi isu publik yang dapat dipahami.'
-  whats_excluded: 'Tidak menyederhanakan penggunaan air semikonduktor menjadi "TSMC merebut air", juga tidak membuat dokumen teknis lengkap teknik tata air.'
-  where_it_hedges: 'Mengakui bahwa penggunaan air semikonduktor memerlukan infrastruktur publik dalam jumlah besar, sambil menjelaskan fungsi tata kelola air daur ulang, air daur ulang, dan alokasi lokal.'
-  whos_pushing_back: 'Pertanian, kebutuhan hidup, masyarakat lokal, dan lokasi pabrik luar negeri akan bertanya apakah penggunaan air pabrik wafer adil, berkelanjutan, dan dapat diawasi.'
+  why_this_hook: '把晶圓廠旁邊的水庫、農田、再生水廠與地方治理放在一起，讓半導體用水變成可理解的公共議題。'
+  whats_excluded: '不把半導體用水簡化成「台積電搶水」，也不做完整水利工程技術文。'
+  where_it_hedges: '承認半導體用水需要大量公共基礎設施，同時說明回收水、再生水與地方調度的治理功能。'
+  whos_pushing_back: '農業、民生、地方社會與海外設廠地都會追問晶圓廠用水是否公平、可持續、可被監督。'
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-09-09T17:53:33+08:00'
-imageAlt: 'Pabrik TSMC Fab 18 yang terletak di Taman Sains Selatan, kawasan Tainan, dengan ladang yang berdekatan langsung di samping pabrik, menampilkan pemandangan pabrik wafer, lahan, dan kondisi sumber daya air lokal yang terhubung.'
+translatedAt: '2026-11-18T22:34:53.191195+00:00'
 ---
 
 # Penggunaan Air Semikonduktor dan Sumber Daya Air Taiwan: Waduk di Samping Pabrik Wafer
@@ -185,10 +186,10 @@ Inilah tempat penggunaan air semikonduktor paling layak dipahami: memungkinkan k
 
 ## Referensi
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023 melaporkan kebutuhan manufaktur semikonduktor untuk air ultramurni, pemrosesan air, dan sumber daya air lokal, dan menyebutkan ketegangan antara manufaktur chip dan penggunaan air pertanian selama kekeringan Taiwan.
+[^1]: [WIRED: Ingin Menangkan Perang Chip? Anda Akan Butuh Banyak Air](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023 melaporkan kebutuhan manufaktur semikonduktor terhadap air ultra murni, pengolahan air, dan sumber daya air lokal, serta menyebutkan ketegangan antara manufaktur chip dan pertanian selama kekeringan di Taiwan.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Halaman resmi TSMC Arizona menjelaskan investasi kawasan, perencanaan proses canggih, sistem daur ulang air, dan target fasilitas daur ulang air industri, yang dapat berfungsi sebagai kasus tata kelola sumber daya air pabrik luar negeri.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Halaman resmi TSMC Arizona menjelaskan investasi fasilitas tersebut, perencanaan proses canggih, sistem daur ulang air, dan tujuan fasilitas regenerasi air industri, yang dapat dijadikan studi kasus pengelolaan sumber daya air untuk pembangunan pabrik di luar negeri.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Melaporkan pekerjaan yang dibawa oleh ekspansi klaster semikonduktor Arizona, pengembangan lokal, sumber daya air, lingkungan, dan kontroversi keselamatan kerja, dapat digunakan untuk menyeimbangkan perspektif masyarakat lokal dari pabrik luar negeri.
+[^3]: [The Verge: Lembah Silikon Baru (Secara Harfiah)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Melaporkan kontroversi lapangan kerja, pembangunan lokal, sumber daya air, lingkungan, dan keselamatan tenaga kerja yang ditimbulkan oleh ekspansi kluster semikonduktor Arizona, dapat digunakan untuk menyeimbangkan perspektif masyarakat lokal mengenai pembangunan pabrik di luar negeri.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Meneliti jejak lingkungan 16 produsen komponen elektronik Taiwan tahun 2015-2020, mengusulkan risiko bahwa penggunaan air, energi, dan emisi karbon meningkat seiring dengan pertumbuhan volume.
+[^4]: [Roussilhe et al.: Dari Perisai Silikon ke Kunci Karbon?](https://arxiv.org/abs/2209.12523) — Mengkaji jejak lingkungan 16 produsen komponen elektronik Taiwan pada 2015-2020, mengemukakan risiko peningkatan penggunaan air, energi, dan emisi karbon seiring pertumbuhan produksi.
