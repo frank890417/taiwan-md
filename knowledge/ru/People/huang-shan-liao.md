@@ -23,15 +23,21 @@ imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
 readingTime: 12
 sporeLinks:
-  [
-    "{'id': 128, 'platform': 'threads', 'date': '2026-06-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'}",
-    "{'id': 129, 'platform': 'x', 'date': '2026-06-07', 'url': 'https://x.com/taiwandotmd/status/2063604185912987689'}",
-  ]
+  - id: 128
+    platform: 'threads'
+    date: '2026-06-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'
+  - id: 129
+    platform: 'x'
+    date: '2026-06-07'
+    url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce59'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-07-27T22:12:18+08:00'
+translatedAt: '2026-11-18T13:37:58.065165+00:00'
 ---
 
 # Хуан Шаньляо: одежда чемпиона мира никто не смотрел, он стал продавать «утешение в одну фразу»

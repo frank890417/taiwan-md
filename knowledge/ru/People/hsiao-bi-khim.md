@@ -2,9 +2,7 @@
 title: 'Сяо Мэйцинь'
 description: 'Рождённая в Японии, учившаяся в начальной школе в Тайнани, выросшая в Нью-Джерси, окончившая Оберлин — «боевая кошка», как стала самым успешным представителем Тайваня в США в истории и затем заняла пост вице-президента?'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治人物'
 tags:
   [
     'политический деятель',
@@ -15,16 +13,20 @@ tags:
     'Хуалянь',
     'боевая кошка',
   ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-07-25T12:45:45+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T13:55:20.343121+00:00'
 ---
 
 # Сяо Мэйцинь
