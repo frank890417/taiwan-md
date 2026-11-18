@@ -2,9 +2,7 @@
 title: 'justfont and Taiwan’s Type Development: Bringing Type Designers Into the Sunlight With the Name of a Taiwanese Tea'
 description: 'On the morning of September 8, 2015, a typeface named after a Taiwanese tea, Jin Xuan, went live on flyingV, broke through its NT$1.5 million threshold in 76 minutes, and ultimately raised NT$25.93 million from 7,667 backers. Everyone in Taiwan reads its letters every day, yet the market was once too small to sustain even a single type-making company. From DynaComware’s MingLiU, to lead type on Taiyuan Road, to Lin Hsia’s beginnings painting Buddhist images, this is the story of how Taiwan brought type designers into the sunlight.'
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '設計與工藝'
 tags:
   [
     'typefaces',
@@ -18,19 +16,24 @@ tags:
     'open source',
     'crowdfunding',
   ]
+subcategory: '設計與工藝'
+author: 'Taiwan.md'
 readingTime: 18
+featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:4e382a7fba09b7dd'
-sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-06-14T00:35:00+08:00'
+researchReport: 'reports/research/2026-06/justfont與台灣字體發展.md'
 image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/justfont與台灣字體發展.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:4e382a7fba09b7dd'
+sourceBodyHash: 'sha256:83fcd71da8d50603'
+translatedAt: '2026-11-18T03:18:03.518506+00:00'
 ---
 
 > **30-second overview:** On the morning of September 8, 2015, justfont’s Jin Xuan typeface launched a crowdfunding campaign on flyingV, broke through its NT$1.5 million target in 76 minutes, and ultimately drew NT$25.93 million from 7,667 backers. This piece begins with the founding of DynaComware in 1987 and follows how an industry read daily by all of Taiwan collapsed, how a community of readers was taught into being, and how the people who make type came into view: Lin Hsia, who began by painting Buddhist images; Chang Chieh-kuan, who cast lead type on Taiyuan Road for half a century; Wang Shui-he, who entered the trade at fourteen painting signs; and the open-source typefaces, Lanyang Ming, and independent designer ecosystem that grew after Jin Xuan.

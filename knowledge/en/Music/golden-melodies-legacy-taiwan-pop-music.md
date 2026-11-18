@@ -37,11 +37,13 @@ imageAlt: "During the 2014 Sunflower Student Movement, Taipei streets were crowd
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'a266eaa96'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9dd098f7a5a51bd9'
 sourceBodyHash: 'sha256:7e4e331322aaf847'
-translatedAt: '2026-10-13T04:46:16.882712+00:00'
+translatedAt: '2026-11-18T04:25:11.600779+00:00'
 ---
 
 # Taiwanese Pop Music: The Island That Made Wedding Clothes for the World, Left in the End with Songs Others Cannot Sing
