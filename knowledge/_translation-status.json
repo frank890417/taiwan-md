@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T19:45:37+08:00",
-    "zhCommitHead": "f780201c9",
+    "lastUpdated": "2026-11-18T19:50:38+08:00",
+    "zhCommitHead": "53ebd806d",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 686,
-        "stale": 50,
+        "fresh": 687,
+        "stale": 49,
         "metadata_stale": 449,
         "missing": 6,
         "orphan": 0
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 44,
         "metadata_stale": 440,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 669,
+        "fresh": 670,
         "stale": 64,
-        "metadata_stale": 450,
+        "metadata_stale": 449,
         "missing": 8,
         "orphan": 0
       }
@@ -20976,20 +20976,18 @@
         "en": {
           "path": "en/Economy/taiwan-stock-market.md",
           "translatedFrom": "Economy/台灣股市與資本市場.md",
-          "sourceCommitSha": "9c5ad569a",
-          "sourceContentHash": "sha256:323486e516e428ed",
-          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
-          "translatedAt": "2026-07-27T11:17:14.310780+00:00",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:05af3274e03b254d",
+          "sourceBodyHash": "sha256:c641c2a8bf14fd32",
+          "translatedAt": "2026-11-18T11:49:13.150113+00:00",
           "translationLastCommit": "6b22d596",
           "translationLastModified": "2026-07-27T20:10:27+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 30794,
+          "bytes": 31275,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-stock-market.md",
@@ -21016,8 +21014,8 @@
           "sourceContentHash": "sha256:05af3274e03b254d",
           "sourceBodyHash": "sha256:c641c2a8bf14fd32",
           "translatedAt": "2026-11-18T11:25:14.082012+00:00",
-          "translationLastCommit": "064897c0",
-          "translationLastModified": "2026-07-28T09:51:36+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 29499,
@@ -25419,20 +25417,18 @@
         "de": {
           "path": "de/Economy/taiwan-machine-tool-industry.md",
           "translatedFrom": "Economy/台灣機械工具產業.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:74fc634acab51c40",
           "sourceBodyHash": "sha256:f5ecba58cc661bc1",
-          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translatedAt": "2026-11-18T11:47:28.174639+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 29038,
+          "bytes": 29097,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42629,8 +42625,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-11-18T10:13:40.800303+00:00",
-          "translationLastCommit": "e9e2eb7f",
-          "translationLastModified": "2026-09-17T22:25:37+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 41110,
@@ -49125,8 +49121,8 @@
           "sourceContentHash": "sha256:fa0d1b0fa9b12911",
           "sourceBodyHash": "sha256:1ff1fa1158f19022",
           "translatedAt": "2026-11-18T10:47:17.901028+00:00",
-          "translationLastCommit": "49d1c48a",
-          "translationLastModified": "2026-11-02T21:30:20+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 37147,
@@ -57297,8 +57293,8 @@
           "sourceContentHash": "sha256:fa054e970fa0164b",
           "sourceBodyHash": "sha256:8a8a123d1183a1a8",
           "translatedAt": "2026-11-18T11:38:59.225188+00:00",
-          "translationLastCommit": "1d9f779e",
-          "translationLastModified": "2026-10-08T05:28:07+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 30589,
@@ -64608,8 +64604,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-11-18T10:55:44.060653+00:00",
-          "translationLastCommit": "822c2202",
-          "translationLastModified": "2026-10-10T23:14:00+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 34703,
@@ -67580,8 +67576,8 @@
           "sourceContentHash": "sha256:cc5bd7cfca8af637",
           "sourceBodyHash": "sha256:073e34a439566b72",
           "translatedAt": "2026-11-18T00:49:11+08:00",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "translationLastCommit": "53ebd806",
+          "translationLastModified": "2026-11-18T19:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 38601,
@@ -209788,7 +209784,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taiwan-rail-undergrounding.md",
+          "translatedFrom": "Geography/台灣鐵路地下化.md",
+          "sourceCommitSha": "6bbb6641a",
+          "sourceContentHash": "sha256:cecc446cb4be661b",
+          "sourceBodyHash": "sha256:9a992e638062095a",
+          "translatedAt": "2026-11-18T00:52:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 37834,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"

@@ -26,15 +26,21 @@ imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 sporeLinks:
-  [
-    "{'id': 109, 'platform': 'threads', 'date': '2026-05-29', 'url': 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'}",
-    "{'id': 110, 'platform': 'x', 'date': '2026-05-29', 'url': 'https://x.com/taiwandotmd/status/2060247955467325544'}",
-  ]
+  - id: 109
+    platform: 'threads'
+    date: '2026-05-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'
+  - id: 110
+    platform: 'x'
+    date: '2026-05-29'
+    url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c5'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-07-28T03:02:41+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T11:08:29.162936+00:00'
 ---
 
 # Khu Vực Khoa Học Đài Loan: Cây Bạt Rơi, Cá Cược, Đầu Cầu Sống Cho Thế Giới, Và Cầu Mạng Đầu Sống
@@ -130,25 +136,27 @@ Vấn đề cốt lõi, thực sự, là một nguyên tắc gọi là "N trừ 
 
 _Mọi người nhưng một kỹ sư, vừa nói công nghệ không bị xâm hại, lại thừa nhận Khiên Trùng sẽ yếu đi. Đây chính là hoàn cảnh thực sự của Đài Loan lúc này: công nghệ vẫn giữ vững vị thế, nhưng không thể bảo đảm an toàn lâu dài của vị thế đó._
 
-## Dưới lòng đất sạch, có một túi khổ trên 5.000 năm
+## Bên cạnh phòng sạch là những bình gốm từ năm nghìn năm trước
 
-Trong quá trình phát triển của Nam Kinh, các nhà khảo cổ đã khám phá ra nhiều di tích lịch sử cổ đại. Các nhà khảo cổ tìm thấy tại địa điểm này các di tích từ 5.000 năm trước, văn minh người dùng đất ống 3.000 năm trước, và các khu tụ tập của ngòi lai 100 năm trước – toàn bộ phạm vi Nam Kinh đã xác định được 68 điểm khảo cổ, chồng lên sáu giai đoạn văn minh[^22]. Vào tháng 10 năm 2019, Bảo tàng Khảo cổ Cổ đại Đài Loan Nam Kinh chính thức mở cửa, thiết kế bởi kiến trúc sư Yao Ren-xi, các khối màu đen và đường thẳng trắng, nhìn từ trên cao như một miếng đốt kỹ thuật số, bức tường cắt lớp đất sử dụng phong cách khảo cổ được cắt xén từng lớp[^22].
+Trong quá trình phát triển Khu khoa học Nam Khoa (Southern Taiwan Science Park), nhiều di chỉ tiền sử đã được khai quật. Các nhà khảo cổ học đã tìm thấy dưới lòng đất này nền văn hóa Dapenkeng cách đây 5.000 năm, văn hóa Niuchuzi hơn 3.000 năm, cùng các khu định cư của người Siraia từ vài trăm năm trước — tổng cộng có 68 di chỉ được xác định trong phạm vi Nam Khoa, trải dài qua sáu thời kỳ văn hóa. Vào tháng 10 năm 2019, Bảo tàng Văn hóa Tiền sử Quốc gia Đài Loan - Nhà khảo cổ học Nam Khoa chính thức khai trương. Công trình do kiến trúc sư Yao Jen-hsi (Diêu Nhân Hỷ) thiết kế, với những khối vuông màu đen kết hợp cùng các đường kẻ trắng, nhìn từ trên cao giống như một khối Rubik, trong khi vân bề mặt tường được cố ý tạo hình theo các lớp địa tầng khảo cổ đang được bóc tách từng lớp[^22].
 
-Đây chính là kịch bản hư cấu kỳ ảo: bên dưới phòng sạch sản xuất vi chip 3 nanomet, là bảo tàng trưng bày túi khổ 5.000 năm trước. Cùng một mảnh đất, hai thời kỳ xâm phối – một thời gian tính theo lô vòng kính, diễn ra nhanh đến mức đo bằng phút; một thời gian khác tính bằng thế kỷ, chậm đến mức cần carbon 14 để ngày cố định thời gian. Khu vực khoa học Đài Loan không chỉ xâm phối công nghiệp, mà còn xâm phối chính thời gian chính nó.
+Đây có lẽ là khung cảnh siêu thực nhất thế giới: ngay cạnh phòng sạch sản xuất chip 3nm là nhà bảo tàng trưng bày những bình gốm từ năm nghìn năm trước. Trên cùng một mảnh đất, hai dòng thời gian chồng lấp lên nhau — một bên tính bằng lô wafer (wafer lot), nhanh đến mức đo bằng đơn vị phút; một bên tính bằng thiên niên kỷ, chậm đến mức phải dùng phương pháp đồng vị carbon-14 để xác định niên đại. Khu khoa học Đài Loan không chỉ là sự chồng lấp của các ngành công nghiệp, mà còn là sự chồng lấp của chính thời gian.
 
-![Bảo tàng Khảo cổ Cổ đại Đài Loan Nam Kinh. Kiến trúc các khối màu đen và đường thẳng trắng do kiến trúc sư Yao Ren-xi thiết kế, đặt tại Nam Kinh. Ảnh: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)。\_
+![Ngoại quan Nhà khảo cổ học Nam Khoa thuộc Bảo tàng Văn hóa Tiền sử Quốc gia Đài Loan, một kiến trúc khối đen do kiến trúc sư Yao Jen-hsi thiết kế, nằm trong Khu khoa học Nam Khoa](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_Nhà khảo cổ học Nam Khoa, thiết kế bởi Yao Jen-hsi, khai trương năm 2019. Trong quá trình phát triển khu vực này, đã khai quật được 68 di chỉ tiền sử như Dapenkeng, Niuchuzi, Siraia — nhà máy đúc chip và những bình gốm từ năm nghìn năm trước được kết nối bởi cùng một mảnh đất. Photo: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Hãy kéo camera trở lại năm 1979, cánh đồng lúa đã bị đàn bẻ dẹt. Lúc đó, không ai có thể chắc chắn cá cược sẽ thắng. Công nghệ được mượn, mô hình không ai tin vào, địa điểm được xây dựng trên một cánh đồng lúa. 45 năm sau, hòn đảo này đã nuôi dưỡng năng lực sản xuất vi chip tiên tiến nhất thế giới – thị trường của TSMC một lần thậm chúng có thể gần bằng tổng sản phẩm nội địa của cả năm. Thuế từ TSMC tương đương phần lớn ngân sách quốc phòng[^23]. Phương tiện bảo vệ mạnh nhất của Đài Loan đã thành, nhưng cùng một thời gian, nó cũng đã trở thành lá bài mà mọi quốc gia lớn đều muốn nắm giữ.
+Hãy đưa ống kính trở lại cánh đồng lúa bị san phẳng vào năm 1979. Khi đó, không ai có thể đảm bảo ván cược này sẽ thắng: công nghệ là đi mượn, mô hình kinh doanh không được ai kỳ vọng, và địa điểm lựa chọn lại là một vùng đất nông nghiệp. Bốn mươi lăm năm sau, hòn đảo này đã nuôi dưỡng được năng lực sản xuất chip mà cả thế giới phải phụ thuộc nhất — vốn hóa của TSMC có thời điểm tiệm cận tổng sản phẩm quốc nội (GDP) cả năm của toàn Đài Loan, và số thuế mà công ty này đóng góp tương đương với một tỷ trọng đáng kể trong ngân sách quốc phòng[^23]. Lá bùa hộ mệnh mạnh mẽ nhất của Đài Loan đã trưởng thành, nhưng cũng chính sự không thể thay thế đó đã biến nó trở thành quân bài mà bất kỳ ai trên bàn cờ địa chính trị giữa các cường quốc cũng đều muốn giành lấy.
 
-45 năm trước, cánh đồng lúa đặt cược về sinh tồn, chiến thắng khiến hòn đảo này trở thành nguồn cung cấp quan trọng nhất thế giới, và cũng đã trở thành điểm mục tiêu của mọi xung đột. Cá cược tiếp theo – về nước, về điện, về nhân lực, và về tấm khiên đang được xác định lại – đã bắt đầu. Lần này, bàn cá cược không chỉ có người Đài Loan ngồi đóng vai.
+Ván cược tại cánh đồng lúa bốn mươi lăm năm trước là vì sự sinh tồn; sau khi thắng cược, hòn đảo này đã trở thành huyết mạch của thế giới, nhưng cũng đồng thời trở thành tử huyệt. Ván cược tiếp theo — về nước, về điện, về nhân tài, và về chiếc khiên đang được định nghĩa lại — đã bắt đầu, và lần này, những người ngồi quanh bàn cược không chỉ có mỗi Đài Loan.
 
 ---
 
 **Đọc thêm**:
 
-- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ công nghệ chuyển giao từ RCA đến nitride gallium và gói chế lượng trị, năm giai đoạn của khu vực khoa học Đài Loan làm việc thế giới đầu tiên đến tối thiểu
-- [Top 50 doanh nghiệp Đài Loan](/vi/economy/top-50-companies-taiwan) — Các cột mốc của TSMC nuôi dưỡng một bảng chỉ số, đồng thời tạo ra một điểm yếu duy nhất của quốc gia
-- [Tác phẩm – Thế Kỷ Cá Cược](/vi/art/mountain-makers-tsmc-documentary) — Bộ phim tài liệu của đạo diễn Xiao Ji Zhen, năm 2025, phỏng vấn hơn 80 nhà sản xuất bán dẫn cổ, biến cá cược thế kỷ thành hình ảnh
+- [Chuyên đề ngành công nghiệp Đài Loan](/industry/) — Sử dụng thống kê chính thức để phác họa cấu trúc ngành: 70 năm xuất khẩu và GDP, các khu khoa học, nhà máy tại các thành phố, top 10 vốn hóa qua các năm, cùng quan điểm của các bên trong sáu cuộc tranh luận công khai.
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Cuộc cách mạng vật liệu kéo dài 50 năm từ chuyển giao công nghệ RCA đến GaN (Gallium Nitride) và đóng gói lượng tử; hành trình những con chip trong khu khoa học đã vươn tới vị thế tiên tiến nhất toàn cầu như thế nào.
+- [Top 50 doanh nghiệp hàng đầu Đài Loan](/vi/economy/top-50-companies-taiwan) — "Ngọn núi hộ quốc" nâng đỡ cả một bảng xếp hạng, nhưng cũng nâng đỡ một quốc gia với rủi ro điểm lỗi duy nhất (single point of failure), mặt trái của sự tập trung giá trị sản xuất tại các khu khoa học.
+- [Người tạo nên núi: Ván cược thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu năm 2025 của Hsiao Ju-chen (Tiêu Cúc Trinh), thực hiện qua 5 năm phỏng vấn hơn 80 bậc tiền bối trong ngành bán dẫn, tái hiện ván cược thế kỷ này qua những thước phim.
 
 ---
 
