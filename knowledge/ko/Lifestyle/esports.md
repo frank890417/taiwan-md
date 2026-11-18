@@ -2,9 +2,7 @@
 title: '이스포츠: PC방 소년에서 세계 무대까지, 대만의 회복력과 기회의 경기장'
 description: '2012년 TPA의 우승은 한때 대만의 이스포츠 열기를 불붙였지만, 산업 발전은 결코 순탄하지 않았다. 쩡정청의 곤경에서 이스포츠의 법제화에 이르기까지, 대만 이스포츠는 영광과 도전 속에서 자신의 위치를 모색해 왔으며, 글로벌 하드웨어 공급망, 다양한 커뮤니티, AI 물결 속에서 독자적인 회복력과 무한한 기회를 보여주고 있다.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '休閒與娛樂'
 tags:
   [
     '이스포츠',
@@ -20,26 +18,30 @@ tags:
     '정신 건강',
     '전설대결',
   ]
-readingTime: 15
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/電競.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:64c6862f2f2a8e41'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e2d50ea1d51f4c24'
 sourceBodyHash: 'sha256:4fe3e0718f755e56'
-translatedAt: '2026-05-12T21:49:54+08:00'
+translatedAt: '2026-11-18T21:47:44.593772+00:00'
 ---
 
-> **30초 개관:** 2012년, 대만 팀 타이베이 어쌔신스(TPA)는 《리그 오브 레전드》 세계 대회에서 우승하며 수많은 대만인의 이스포츠 열정을 불러일으켰다. 그러나 이 영광의 이면에는 초기 선수들이 홀로 분투하던 시기에서 최근의 정책 지원과 교육 전환에 이르기까지, 대만 이스포츠 산업이 걸어온 험난한 여정이 놓여 있다. 이는 단지 게임에 관한 이야기가 아니라 꿈, 현실, 국가 정체성을 둘러싼 복합적인 이야기이며, 동시에 글로벌 이스포츠 하드웨어 공급망에서 대만이 차지하는 핵심적 위상과 다양한 게임 커뮤니티의 독특한 매력을 보여준다. 빠르게 변화하는 산업 생태계에 직면해 대만 이스포츠는 선수 경력 상담, AI 기술 도입, 지역 기반 시설 구축을 통해 도전을 회복력과 기회로 전환하며, 세계 무대에서 계속 빛을 발하고 있다.
+> **30초 요약:** 2012년, 타이완 팀 Taipei Assassins(TPA)가 《리그 오브 레전드》 월드 챔피언십에서 우승하며 수많은 타이완인의 이스포츠 열정에 불을 지폈다. 그러나 이 영광의 이면에는 초기 선수들의 고군분투부터 최근 정책적 지원과 교육 전환에 이르기까지, 타이완 이스포츠 산업이 겪어온 고난의 여정이 담겨 있다. 이는 단순히 게임에 관한 이야기가 아니라 꿈과 현실, 그리고 국가 정체성에 관한 복잡한 서사이며, 동시에 글로벌 이스포츠 하드웨어 공급망 내에서 타이완이 갖는 핵심적 위치와 다채로운 게임 커뮤니티의 독특한 매력을 보여준다. 급변하는 산업 생태계에 맞서 타이완 이스포츠는 선수 경력 관리, AI 기술 도입, 현지 인프라 구축을 통해 도전을 회복탄력성과 기회로 전환하며 글로벌 무대에서 지속적으로 빛을 발하고 있다.
 
-# 이스포츠: PC방 소년에서 세계 무대까지, 대만의 회복력과 기회의 경기장
+# 이스포츠: PC방 소년에서 세계 무대로, 타이완의 회복탄력성과 기회의 경기장
 
-2012년 10월 14일, 미국 로스앤젤레스. 수백만 쌍의 눈이 《리그 오브 레전드》 시즌 2 월드 챔피언십 결승 무대에 집중되어 있었다. 대만 팀 타이베이 어쌔신스(TPA)가 한국의 강호 Azubu Frost를 3대 1로 꺾고 세계 챔피언에 오른 순간, 대만 전역은 들끓었다. 공항은 열성적인 팬과 언론으로 가득 찼고, 선수들은 우승 트로피를 손에 든 채 국기를 두르고 있었다. 그 순간 그들은 대만의 자부심이었다 [^1]. 이 승리는 TPA를 세계가 주목하는 이스포츠 팀으로 만들었을 뿐 아니라, 대만에서 이스포츠를 하위문화에서 단숨에 주류 의제로 끌어올리며 전례 없는 열풍을 일으켰다.
+2012년 10월 14일 미국 로스앤젤레스, 수백만 명의 시선이 《리그 오브 레전드》 S2 월드 챔피언십 결승 무대에 집중되었다. 타이완 팀 Taipei Assassins(TPA)가 한국의 강적 Azubu Frost를 3대 1로 격파하고 세계 챔피언 자리에 오른 순간, 타이완 전역이 들끓었다. 공항은 열정적인 팬들과 미디어로 가득 찼고, 우승 트로피를 손에 든 선수들이 국기를 어깨에 두른 그 순간, 그들은 타이완의 자랑이었다 [^1]. 이 승리는 TPA를 세계적인 주목을 받는 이스포츠 팀으로 만들었을 뿐만 아니라, 타이완에서 이스포츠가 하위문화에서 주류 화제로 도약하며 전례 없는 열풍을 일으키는 계기가 되었다.
 
-그러나 이 영광이 대만 이스포츠 이야기의 전부는 아니다. 이미 2001년, 쩡정청이라는 이름의 대만 소년은 월드 사이버 게임즈(WCG) 《에이지 오브 엠파이어 II》 종목에서 우승하며 대만 최초의 이스포츠 세계 챔피언이 되었다. 그는 시상대에서 “Taiwan No. 1!”을 외쳤지만, 우승 이후 산업 환경이 제대로 갖춰지지 않은 탓에 한때 월급 2만 대만달러의 운반 노동자로 전락했다 [^5]. 쩡정청의 경험은 개인 운명의 굴곡일 뿐 아니라, 대만 이스포츠 발전 초기 선수들이 영광과 현실 사이에서 겪어야 했던 곤경을 비추는 사례이기도 하다.
+하지만 이 영광이 타이완 이스포츠 이야기의 전부는 아니다. 이미 2001년, 정정청(曾政承)이라는 이름의 타이완 소년이 세계 전자 스포츠 대회(WCG) 《에이지 오브 엠파이어 II》 종목에서 우승하며 타이완 최초의 이스포츠 세계 챔피언이 된 바 있다. 그는 시상대 위에서 “Taiwan No. 1!”을 외쳤으나, 우승 후 미비한 산업 환경 탓에 한때 월급 NT$20,000를 받는 운반 노동자로 전락하기도 했다 [^5]. 정정청의 경험은 개인의 운명이 뒤바뀐 사건일 뿐만 아니라, 타이완 이스포츠 발전 초기 선수들이 영광과 현실 사이에서 겪어야 했던 고충을 투영한다.
 
-📝 큐레이터 노트: 쩡정청의 “Taiwan No. 1!”에서 TPA의 우승 반지에 이르기까지, 대만 이스포츠의 찬란함은 언제나 산업의 성장통과 함께했다. 이 대비야말로 대만 이스포츠 이야기의 핵심적 긴장이며, 대만 이스포츠 회복력의 출발점이다.
+📝 큐레이터 노트: 정정청의 “Taiwan No. 1!”부터 TPA의 우승 반지까지, 타이완 이스포츠의 찬란함은 언제나 산업의 성장통을 동반했다. 이러한 대비야말로 타이완 이스포츠 서사의 핵심적인 긴장감이이자, 타이완 이스포츠가 가진 회복탄력성의 시작점이다.
 
 ## 산업의 성장통과 정책의 전환점: 영웅의 추락에서 제도화로
 
@@ -91,66 +93,66 @@ TPA의 성공은 한때 수많은 젊은 게이머가 이스포츠의 꿈을 좇
 
 ## 참고 자료
 
-[^1]: 보시광: [저우제룬에게 인수되다! 2012년 우승으로 대만 이스포츠 열정을 불붙인 타이베이 어쌔신스](https://time.udn.com/udntime/story/122833/8627122) — TPA의 우승과 이후 발전을 보도하며, Toyz의 마약 판매 사건을 포함한다.
+[^1]: [저우제룬에게 인수되다! 2012년 우승으로 대만 이스포츠 열정을 불붙인 타이베이 어쌔신스](https://time.udn.com/udntime/story/122833/8627122) — 자세한 내용은 링크된 원문 참조
 
-[^2]: 대만광화잡지: [이스포츠 현장 직격, 화려하지만 험난한 모험](https://www.taiwan-panorama.com/Articles/Details?Guid=b0f4f1c8-fcdf-47d3-9a95-3de4ed8ee075) — 대만 이스포츠 선수 천이(Ziv)의 경력과 이스포츠 교육의 발전을 심층 보도한다.
+[^2]: [이스포츠 현장 직격, 화려하지만 험난한 모험](https://www.taiwan-panorama.com/Articles/Details?Guid=b0f4f1c8-fcdf-47d3-9a95-3de4ed8ee075) — 대만광화잡지: (자세한 내용은 링크된 원문 참조)
 
-[^3]: CTESA 중화민국전자경기운동협회: [입법원 3독, 이스포츠를 정식으로 스포츠 산업에 편입](https://www.ctesa.com.tw/News/Detail/20200828101804645) — 이스포츠 법제화의 중요한 이정표를 설명한다.
+[^3]: [입법원 3독, 이스포츠를 정식으로 스포츠 산업에 편입](https://www.ctesa.com.tw/News/Detail/20200828101804645) — CTESA 중화민국전자경기운동협회:
 
-[^4]: Yahoo奇摩 게임 이스포츠: [【인터뷰】대만 이스포츠 교과서 저자를 만나 이스포츠 교육의 미래를 깊이 논하다](https://games.yahoo.com.tw/news/interview-ctesa-104135013.html) — 이스포츠 교육 추진자를 인터뷰하고, 이스포츠 교육의 현황과 미래를 논의한다.
+[^4]: [【인터뷰】대만 이스포츠 교과서 저자를 만나 이스포츠 교육의 미래를 깊이 논하다](https://games.yahoo.com.tw/news/interview-ctesa-104135013.html) — Yahoo奇摩 게임 이스포츠:
 
-[^5]: ETtoday신문운: [팡딩샤몐｜쩡정청은 시대를 잘못 타고났나? 이스포츠 선수가 성공하지 못한 것은 정부 탓인가?](https://www.ettoday.net/dalemon/post/40505) — 쩡정청의 우승 이후 곤경을 보도하며, 초기 이스포츠 환경의 문제를 반영한다.
+[^5]: [팡딩샤몐｜쩡정청은 시대를 잘못 타고났나? 이스포츠 선수가 성공하지 못한 것은 정부 탓인가?](https://www.ettoday.net/dalemon/post/40505) — ETtoday신문운:
 
-[^6]: 금주간: [전 세계 450억 시장을 잡아라, 대만 이스포츠의 3대 핵심 추진자](https://www.businesstoday.com.tw/article/category/80394/post/201707130020/) — 대만 이스포츠 산업의 발전과 도전을 분석하며, 인재 유출 문제를 언급한다.
+[^6]: [전 세계 450억 시장을 잡아라, 대만 이스포츠의 3대 핵심 추진자](https://www.businesstoday.com.tw/article/category/80394/post/201707130020/) — 자세한 내용은 링크된 원문 참조
 
-[^7]: 입법원: [우리나라 전자경기 산업 발전에 관한 분석](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — 입법원의 이스포츠 산업 발전 분석 보고서로, 정책 차원의 관점을 제공한다.
+[^7]: [우리나라 전자경기 산업 발전에 관한 분석](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — 자세한 내용은 링크된 원문 참조
 
-[^8]: Threads: [대만도 메인보드 세계 1위, ASUS·MSI·GIGABYTE·ASRock 네 회사의 점유율을 합치면 전 세계 75%](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — 글로벌 메인보드 시장에서 대만 하드웨어 브랜드의 점유율을 언급한다.
+[^8]: [대만도 메인보드 세계 1위, ASUS·MSI·GIGABYTE·ASRock 네 회사의 점유율을 합치면 전 세계 75%](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads: (자세한 내용은 링크된 원문 참조)
 
-[^9]: LINE TODAY: [이스포츠로 대반전, 대만 업체 고급 NB 세계 점유율 절반에 육박](https://today.line.me/tw/v3/article/xvYRDj) — 고급 게이밍 노트북 시장에서 대만 업체들의 성과를 보도한다.
+[^9]: [이스포츠로 대반전, 대만 업체 고급 NB 세계 점유율 절반에 육박](https://today.line.me/tw/v3/article/xvYRDj) — LINE TODAY:
 
-[^10]: 거형망: [2025년 글로벌 OLED 모니터 출하량 전년 대비 92% 증가, ASUS 선두 고수·MSI 3위](https://news.cnyes.com/news/id/6397507) — OLED 게이밍 모니터 시장에서 ASUS와 MSI의 성과에 관한 기사다.
+[^10]: [2025년 글로벌 OLED 모니터 출하량 전년 대비 92% 증가, ASUS 선두 고수·MSI 3위](https://news.cnyes.com/news/id/6397507) — 자세한 내용은 링크된 원문 참조
 
-[^11]: 경주간: [【GamerBee 전문】미소 살인자 샹위린, 스트리트 파이터계의 보물섬 전설](https://www.mirrormedia.mg/story/20171227game_gamerbee) — 샹위린의 이스포츠 경력과 격투 게임 커뮤니티를 심층 보도한다.
+[^11]: [【GamerBee 전문】미소 살인자 샹위린, 스트리트 파이터계의 보물섬 전설](https://www.mirrormedia.mg/story/20171227game_gamerbee) — 자세한 내용은 링크된 원문 참조
 
-[^12]: 디지털시대: [우구에서 세계로: 격투 이스포츠 왕 린리웨이의 부상](https://www.bnext.com.tw/article/78962/oil-king) — 린리웨이의 이스포츠 여정과 격투 게임 성취를 보도한다.
+[^12]: [우구에서 세계로: 격투 이스포츠 왕 린리웨이의 부상](https://www.bnext.com.tw/article/78962/oil-king) — 디지털시대: (자세한 내용은 링크된 원문 참조)
 
-[^13]: Threads: [당신이 모르는 대만의 영웅 린리웨이(Oil King), 오늘 한국 이스포츠 팀 T1에 합류해 “스트리트 파이터 6” 대표 선수가 되었다고 발표](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — 린리웨이의 T1 합류를 보도한다.
+[^13]: [당신이 모르는 대만의 영웅 린리웨이(Oil King), 오늘 한국 이스포츠 팀 T1에 합류해 “스트리트 파이터 6” 대표 선수가 되었다고 발표](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads: (자세한 내용은 링크된 원문 참조)
 
-[^14]: Medium: [여성은 데이터를 이해하지 못한다? 한 게임 스트리머의 성별 고정관념과 “방송 효과” 성찰](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — 이스포츠 스트리밍에서 여성이 직면하는 성별 고정관념을 논의한다.
+[^14]: [여성은 데이터를 이해하지 못한다? 한 게임 스트리머의 성별 고정관념과 “방송 효과” 성찰](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium: (자세한 내용은 링크된 원문 참조)
 
-[^15]: 문화통계: [게임・이스포츠 산업](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — 대만 이스포츠 팀의 남녀 비율 등 데이터를 제공한다.
+[^15]: [게임・이스포츠 산업](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — 자세한 내용은 링크된 원문 참조
 
-[^16]: 가오슝시정부 운동발전국: [가오슝 이스포츠관](https://sports.kcg.gov.tw/News_Content.aspx?n=6646&s=139091) — 가오슝 이스포츠관 관련 정보를 소개한다.
+[^16]: [가오슝 이스포츠관](https://sports.kcg.gov.tw/News_Content.aspx?n=6646&s=139091) — 가오슝시정부 운동발전국:
 
-[^17]: 신베이시정부: [신베이 이스포츠 기지](https://www.ntpc.gov.tw/ch/home.jsp?id=28&parentpath=0,1,26&mcustomizeid=12026) — 신베이 이스포츠 기지의 기능과 목표를 소개한다.
+[^17]: [신베이 이스포츠 기지](https://www.ntpc.gov.tw/ch/home.jsp?id=28&parentpath=0,1,26&mcustomizeid=12026) — 신베이시정부: (자세한 내용은 링크된 원문 참조)
 
-[^18]: Yahoo뉴스: [전문가 논평》추모성／CFO가 8강 이후 어떻게 다시 빛날 것인가](https://tw.news.yahoo.com/%E5%90%8D%E5%AE%B6%E8%AB%96-%E7%A7%8B%E6%9C%AB%E7%94%9F-cfo%E5%85%AB%E5%BC%B7%E5%BE%8C%E5%A6%82%E4%BD%95%E9%87%8D%E7%B6%BB%E5%85%89%E8%8A%92-095542577.html) — 선수 경력이 짧다는 문제를 언급한다.
+[^18]: [전문가 논평》추모성／CFO가 8강 이후 어떻게 다시 빛날 것인가](https://tw.news.yahoo.com/%E5%90%8D%E5%AE%B6%E8%AB%96-%E7%A7%8B%E6%9C%AB%E7%94%9F-cfo%E5%85%AB%E5%BC%B7%E5%BE%8C%E5%A6%82%E4%BD%95%E9%87%8D%E7%B6%BB%E5%85%89%E8%8A%92-095542577.html) — Yahoo뉴스: (자세한 내용은 링크된 원문 참조)
 
-[^19]: 명전대학교: [왕인국제 “부장사학당”, 이스포츠 전환을 말하다. 바오거 Neal: 선택 전 최악의 상황을 생각해야 한다](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — 은퇴 선수에 대한 왕인국제의 지원 계획을 보도한다.
+[^19]: [왕인국제 “부장사학당”, 이스포츠 전환을 말하다. 바오거 Neal: 선택 전 최악의 상황을 생각해야 한다](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — 명전대학교: (자세한 내용은 링크된 원문 참조)
 
-[^20]: GSbet오락성: [이스포츠 직업 경로 완전 분석: 게임 외 직무에도 새로운 발전 기회가 있다!](https://gsbet188.tw/esports-career-path/) — CTESA가 선수 심리 지원 계획을 제공한다고 언급한다.
+[^20]: [이스포츠 직업 경로 완전 분석: 게임 외 직무에도 새로운 발전 기회가 있다!](https://gsbet188.tw/esports-career-path/) — GSbet오락성: (자세한 내용은 링크된 원문 참조)
 
-[^21]: Instagram: [TEAM TPE NOC](https://www.instagram.com/p/DTS69fFE5a1/) — 스포츠 발전에서 코치, 물리치료사, 심리사의 동행을 언급한다.
+[^21]: [TEAM TPE NOC](https://www.instagram.com/p/DTS69fFE5a1/) — Instagram:
 
-[^22]: Garena 전설대결: [우승까지 단 한 걸음! 《전설대결》 AIC 2025, 플래시 울브즈가 BAC를 꺾고 결승 진출 성공](https://gnn.gamer.com.tw/detail.php?sn=296664) — 2025 AIC 플래시 울브즈의 성적을 보도한다.
+[^22]: [우승까지 단 한 걸음! 《전설대결》 AIC 2025, 플래시 울브즈가 BAC를 꺾고 결승 진출 성공](https://gnn.gamer.com.tw/detail.php?sn=296664) — Garena 전설대결:
 
-[^23]: Yahoo뉴스: [2025 《전설대결》 AIC 국제 대회, 태국 FS가 대만 플래시 울브즈를 꺾고 세계 챔피언 등극](https://tw.news.yahoo.com/2025%E3%80%8A%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA%E3%80%8Baic%E5%9C%8B%E9%9A%9B%E8%B3%BD%E6%B3%B0%E5%9C%8Bfs%E6%93%8A%E6%95%97%E5%8F%B0%E7%81%A3%E9%96%83%E9%9B%BB%E7%8B%BC%E5%A5%AA%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%EF%BC%8C600%E8%90%AC%E7%8D%8E%E9%87%91%E5%B8%B6%E5%9B%9E%E5%AE%B6-092754009.html) — 2025 AIC 우승 결과를 보도한다.
+[^23]: [2025 《전설대결》 AIC 국제 대회, 태국 FS가 대만 플래시 울브즈를 꺾고 세계 챔피언 등극](https://tw.news.yahoo.com/2025%E3%80%8A%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA%E3%80%8Baic%E5%9C%8B%E9%9A%9B%E8%B3%BD%E6%B3%B0%E5%9C%8Bfs%E6%93%8A%E6%95%97%E5%8F%B0%E7%81%A3%E9%96%83%E9%9B%BB%E7%8B%BC%E5%A5%AA%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%EF%BC%8C600%E8%90%AC%E7%8D%8E%E9%87%91%E5%B8%B6%E5%9B%9E%E5%AE%B6-092754009.html) — Yahoo뉴스: (자세한 내용은 링크된 원문 참조)
 
-[^24]: Garena 전설대결: [태국 강호 BACON TIME 완전 제압, 4:0으로 AIC 2024 전설대결 국제 챔피언십 우승 차지](https://moba.garena.tw/news/show/5031) — 2024 AIC 우승 결과를 보도한다.
+[^24]: [태국 강호 BACON TIME 완전 제압, 4:0으로 AIC 2024 전설대결 국제 챔피언십 우승 차지](https://moba.garena.tw/news/show/5031) — Garena 전설대결:
 
-[^25]: 명전대학교: [왕인국제 “부장사학당”, 이스포츠 전환을 말하다. 바오거 Neal: 선택 전 최악의 상황을 생각해야 한다](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — 바오거 Neal의 전환을 언급한다.
+[^25]: [왕인국제 “부장사학당”, 이스포츠 전환을 말하다. 바오거 Neal: 선택 전 최악의 상황을 생각해야 한다](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — 명전대학교: (자세한 내용은 링크된 원문 참조)
 
-[^26]: 대만과학기술대학교: [대만과학기술대학교, NVIDIA·ASUS와 손잡고 학계 최초 AI 디지털 트윈 실험실 구축, AI 인재 양성 가속](https://innc.ntust.edu.tw/p/450-1111-127559,c0.php?Lang=zh-tw) — AI 디지털 트윈 실험실 설립을 보도한다.
+[^26]: [대만과학기술대학교, NVIDIA·ASUS와 손잡고 학계 최초 AI 디지털 트윈 실험실 구축, AI 인재 양성 가속](https://innc.ntust.edu.tw/p/450-1111-127559,c0.php?Lang=zh-tw) — 대만과학기술대학교:
 
-[^27]: Instagram: [AI + 창의 = 미래! 2025 iLink 전국 생성형 AI 창의 응용 대회 결선 성황리에 마무리](https://www.instagram.com/p/DSWFeP0k0OZ/) — 생성형 AI 창의 응용 대회를 언급한다.
+[^27]: [AI + 창의 = 미래! 2025 iLink 전국 생성형 AI 창의 응용 대회 결선 성황리에 마무리](https://www.instagram.com/p/DSWFeP0k0OZ/) — Instagram:
 
-[^28]: 경제부 산업발전서: [2025 전국 스마트 제조 빅데이터 분석 및 응용 경진대회](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=8D33BA1A7B6EB99B) — 제조 현장에서의 AI 응용을 언급하며, 이스포츠 훈련에 유추할 수 있다.
+[^28]: [2025 전국 스마트 제조 빅데이터 분석 및 응용 경진대회](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=8D33BA1A7B6EB99B) — 경제부 산업발전서:
 
-[^29]: 샘 심층연구보고서: [2026 대만 온라인 도박 산업 현황과 미래 발전](https://icasino.tw/taiwan-igaming-industry-development-report/) — 대만 온라인 도박 산업의 법적 위험과 법 개정을 언급한다.
+[^29]: [2026 대만 온라인 도박 산업 현황과 미래 발전](https://icasino.tw/taiwan-igaming-industry-development-report/) — 샘 심층연구보고서:
 
-[^30]: Instagram: [홍광 팰컨스](https://www.instagram.com/p/DXrEvquDseH/) — 선수 위반에 대한 팀의 징계 메커니즘을 언급한다.
+[^30]: [홍광 팰컨스](https://www.instagram.com/p/DXrEvquDseH/) — Instagram:
 
-[^31]: GII: [2026년 글로벌 이스포츠 시장 보고서](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — 글로벌 이스포츠 시장 규모 전망을 제공한다.
+[^31]: [2026년 글로벌 이스포츠 시장 보고서](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — 자세한 내용은 링크된 원문 참조
 
-[^32]: YouTube: [이스포츠 산업의 금전적 가치 매우 높아, 2029년 12억 달러 돌파 전망](https://www.youtube.com/watch?v=uXushQL7uQE) — 이스포츠 산업 생산가치 전망을 제공한다.
+[^32]: [이스포츠 산업의 금전적 가치 매우 높아, 2029년 12억 달러 돌파 전망](https://www.youtube.com/watch?v=uXushQL7uQE) — YouTube: (자세한 내용은 링크된 원문 참조)

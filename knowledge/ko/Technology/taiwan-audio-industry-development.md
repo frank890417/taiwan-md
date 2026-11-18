@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T12:42:42+08:00'
+translatedAt: '2026-11-18T20:41:22.265958+00:00'
 ---
 
 # 타이완 음향 산업 발전
@@ -146,12 +148,12 @@ translatedAt: '2026-10-15T12:42:42+08:00'
 
 ## 참고 자료
 
-[^1]: [경제부 산업발전서(經濟部產業發展署)](https://www.ida.gov.tw/) — 구 공업국, 2023년 9월 개편, 타이완 음향 산업 정책 주관 기관
+[^1]: [경제부 산업발전서](https://www.ida.gov.tw/) — 원래 공업국, 2023년 9월 개편, 대만 음향산업 정책 주관기관
 
-[^2]: [공업기술원 산업과학국제소《음향 산업 추세 분석》(工研院產科國際所《音響產業趨勢分析》)](https://ieknet.iek.org.tw/) — 타이완 음향 산업 규모와 주문자상표부착생산 시장 분석
+[^2]: [공업기술연구원 산업기술국제소 《음향산업 추세 분석》](https://ieknet.iek.org.tw/) — 대만 음향산업 규모 및 위탁생산 시장 분석
 
-[^3]: [타이완구 전기전자 공업 동업공회(TEEMA)](https://www.teema.org.tw/) — 《음향 산업 연감》, 타이완 음향 산업 업체와 생산액 통계
+[^3]: [대만 지구 전기전자 공업 동업공회 (TEEMA)](https://www.teema.org.tw/) — 《음향산업 연감》, 대만 음향산업 업체 및 생산액 통계
 
-[^4]: [메리 일렉트로닉스(美律實業) 공식 웹사이트](https://www.merry.com.tw/) — 전기음향 부품 제품과 기업 자료; 크리에이티브 테크놀로지(Creative Technology Ltd.)는 싱가포르 기업으로 타이완 업체가 아님
+[^4]: [미율실업 (Merry Electronics) 공식 웹사이트](https://www.merry.com.tw/) — 전자음향 부품 제품 및 기업 자료; Creative Technology Ltd.는 싱가포르 회사로, 대만 업체가 아님
 
-[^5]: [오디오 엔지니어링 소사이어티(AES) 타이완 섹션 기술 문헌](https://www.aes.org/) — 국제 음향 공학 표준과 연구 성과
+[^5]: [오디오 엔지니어링 소사이어티 (AES) 대만 지부 기술 문헌](https://www.aes.org/) — 국제 음향 공학 표준 및 연구 성과

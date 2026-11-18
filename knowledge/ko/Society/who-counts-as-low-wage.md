@@ -23,11 +23,13 @@ imageCredit: 'Yu_tptw'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Guangbo_Building_20230306.jpg'
 relatedDiary: ['2026-09-19-003000-news-radar']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/誰算低薪.md'
-sourceCommitSha: 'b10ec653b'
-sourceContentHash: 'sha256:7abbe410b7f9a4d8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:27a706024e76921c'
 sourceBodyHash: 'sha256:3232aa3ffbbe2f4d'
-translatedAt: '2026-09-26T04:05:00.293080+00:00'
+translatedAt: '2026-11-18T21:35:25.629835+00:00'
 ---
 
 # 누가 저임금인가: 최저임금은 기본급을 지켰고, 저임금은 연말상여금 항목으로 옮겨갔다
@@ -166,12 +168,14 @@ _사진: Solomon203, Wikimedia Commons, CC BY-SA 4.0_
 
 누가 저임금인지, 그 답은 급여명세서의 두 번째 칸에 있다. 오늘 문어구이 한 개가 70원, 거기에 손으로 흔드는 음료 한 잔을 더하면, 여전히 그녀 1시간의 임금이다.
 
-## 연장 읽을거리
+## 더 읽어보기
 
-- [외송 전문법](/ko/society/delivery-platform-law) — 법률로 쌓은 또 다른 바닥: 외송원 한 건당 최저 보수, 바닥 이상은 마찬가지로 시장에 맡김
-- [냉방과 에너지 빈곤 문제](/ko/society/energy-poverty-and-cooling) — 빈곤의 또 다른 척도: 수입을 전기료로 바꾸면, 여름에 냉방을 켤 수 있는지 없는지
-- [학습 빈곤](/ko/society/learning-poverty-in-taiwan) — 마찬가지로 정의의 문제: 교실에 앉아 있으면서도 아무것도 배우지 못하는 아이들을 어떻게 계산해낼 것인가
-- [타이완 슬래시 세대](/ko/society/taiwan-slash-generation-multi-job-economy) — 본봉이 부족한 사람들이 퇴근 후 하는 그 일들은 대부분 이 글에서 말하는 척도 밖에 있다
+- [연봉 위치 조회](/income/salary-percentile/) — 자신의 연간 총급여를 주계처의 10분위에 넣어 몇 번째 백분위에 드는지 확인한다; 급여 전체의 행방은 [급여·세금·퇴직 특집](/income/)에 있다
+- [주택가격 부담 능력 자가 진단](/housing/affordability-check/) — 급여 밖의 또 다른 잣대: 같은 소득을 각 현·시의 주택가격에 대입해 주택담보대출 부담률이 몇 등급에 드는지 본다
+- [배달 특례법](/ko/society/delivery-platform-law) — 법으로 쌓은 또 다른 바닥: 배달원 건당 최저 보수, 바닥 이상은 마찬가지로 시장에 맡긴다
+- [냉방과 에너지 빈곤 이슈](/ko/society/energy-poverty-and-cooling) — 빈곤의 또 다른 잣대: 소득을 전기요금으로 환산해 여름에 에어컨을 켤 수 있는지 없는지 가늠한다
+- [학습 빈곤](/ko/society/learning-poverty-in-taiwan) — 역시 정의의 문제다: 교실에 앉아 있는데도 아무것도 배우지 못한 아이들이 어떻게 산출되는가
+- [타이완 슬래시 세대](/ko/society/taiwan-slash-generation-multi-job-economy) — 기본급이 부족한 사람들이 퇴근 후 맡는 그 일들, 대개 이 글에서 말하는 잣대 밖에 있다
 
 ## 이미지 출처
 

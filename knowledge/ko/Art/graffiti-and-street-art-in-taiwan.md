@@ -2,23 +2,25 @@
 title: '타이완 거리 그래피티: 심야의 무법자에서 시먼딩의 도시의 빛으로'
 description: '1989년 뤼쉐위안이 민성둥루에 첫 선을 뿌리며 타이완 그래피티의 지하사가 시작되었다. 대장왕의 도시 전설에서 Candy Bird의 사회 비판에 이르기까지, 환경보호국과 30년간 추격전을 벌여 온 이 게임은 타이완의 도시 미학을 새롭게 정의하고 있다.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '視覺藝術'
 tags: ['거리 예술', '대장왕', '하위문화', '도시 공간']
-readingTime: 8
+subcategory: '視覺藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
 image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: 8a230ddb
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T20:56:16.973139+00:00'
 ---
 
 > **30초 개요:**
@@ -72,16 +74,16 @@ _타이베이시 완화구 융진 국군 문공참 옛터 외벽이 그래피티
 
 ## 참고 자료
 
-[^1]: WowLavie, [타이완 그래피티 예술가 Reach와 블레이크의 역습! 거리에서 다원적 창작의 스타일로](https://www.wowlavie.com/article/ae1902012)
+[^1]: [대만 그래피티 아티스트 Reach, 블레이크의 역습! 거리에서 다양한 창작 스타일로](https://www.wowlavie.com/article/ae1902012) — WowLavie (자세한 내용은 링크된 원문 참조)
 
-[^3]: Heaven Raven, [그래피티 예술가 대장왕 인터뷰: 대장의 속은 똥이고, 예술도 그렇다.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [그래피티 아티스트 대장왕 단독 인터뷰: 대장 안은 똥, 예술도 그렇다.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: BeautyMode, [거리 문화가 상업으로 나아가는 것은 잘못인가? 타이완 그래피티 선구자 Reach](https://www.beautimode.com/article/content/86906/)
+[^4]: [스트리트 문화가 상업화로 가는 것이 잘못인가? 대만 그래피티 선구자 Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: 타이완 현대미술 데이터베이스, [탕궈냐오 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b)
+[^5]: [캔디 버드 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — 대만 현대 미술 데이터베이스
 
-[^6]: 타이베이시 정부 환경보호국, [낙서 최고 6000위안 과태료! 타이베이시 14곳 합법 그래피티 벽 일람](https://newtalk.tw/news/view/2019-11-27/332344)
+[^6]: [무단 그래피티 최고 벌금 NT$6,000! 타이베이시 14곳 합법 그래피티 벽 총정리](https://newtalk.tw/news/view/2019-11-27/332344) — 타이베이시 정부 환경보호국
 
-[^8]: 타이베이시 정부 관광전파국, [고적과 포스트모던 예술의 융합, 《예술 여행은 끝나지 않았다》가 타이베이시 영화 테마공원으로 안내하다](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001)
+[^8]: [고적과 포스트모던 예술의 융합 《예유미진》이 당신을 타이베이시 영화 테마파크로 안내하다](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — 타이베이시 정부 관광홍보국
 
-[^9]: 하쓰미미 Hatsumimi, [주름 속 짙은 타이완스러움을 꺼내다, 하쓰미미의 예술가 친구 - 대장왕](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/)
+[^9]: [주름 속에서 진한 대만 맛을 꺼내다, Hatsumimi의 예술가 친구 - 대장왕](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — 초이 Hatsumimi
