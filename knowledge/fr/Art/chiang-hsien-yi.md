@@ -1,389 +1,398 @@
 ---
-title: "Jiang Hsien-yi : après avoir fui Taïwan pendant quarante-cinq ans, ce n'est qu'en rentrant chez lui qu'il a peint les meilleures œuvres de sa vie"
-description: "À l'hiver 1967, Jiang Hsien-yi, vingt-cinq ans, part pour Paris à la recherche de Giacometti et découvre que son idole est morte l'année précédente. Pendant les quarante-cinq années suivantes, il ferme les fenêtres pour chercher la lumière intérieure dans son atelier de SoHo, à New York ; en 1975, la galerie Lamagna ne vend aucune de ses toiles. Dans les années 1990, l'année où son père tombe, il retourne dans la fumée d'encens du temple Longshan et y peint « Temple centenaire ». En 2008, lorsqu'il s'installe à Jinzun, à Taitung, il a soixante-cinq ans ; en 2025, à l'ouverture du Parc artistique Jiang Hsien-yi, il en a déjà quatre-vingt-trois."
+title: 'Paul Chiang : après avoir fui Taïwan pendant quarante-cinq ans, il a enfin pu peindre ses meilleures œuvres en rentrant chez lui'
+description: "En hiver 1967, à vingt-cinq ans, Paul Chiang s'est précipité à Paris pour retrouver Giacomo, pour découvrir que son idole était décédée l'année précédente. Durant les quarante-cinq années suivantes, il a cherché la lumière intérieure en fermant ses fenêtres dans le SoHo de New York ; en 1975, la galerie Lamagna n'a vendu aucune de ses toiles. En 1990, l'année où son père est tombé, il est revenu peindre « Le Temple Centenaire » au milieu de l'encens du temple Longshan. Il s'est installé à Jīn Zūn, Taitung, à l'âge de soixante-cinq ans en 2008, et aura quatre-vingt-trois ans lors de l'inauguration du Parc Artistique Paul Chiang en 2025."
 date: 2026-05-22
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '當代藝術家'
 tags:
   [
     'peinture abstraite',
     'art contemporain',
-    'Jiang Hsien-yi',
+    'Paul Chiang',
     'Paul Chiang',
     'Taitung',
-    'Jinzun',
-    'Liao Chi-chun',
+    'Jīn Zūn',
+    'Liao Ji-chun',
     'Chen Hui-kun',
-    'Giacometti',
+    'Giacomo',
     'SoHo, New York',
     'Paris',
-    'Lin Youhan',
-    'Stanley Yen',
-    'Parc artistique Jiang Hsien-yi',
-    'Pisirian',
-    'Temple centenaire',
+    'Lin You-han',
+    'Yen Chang-shou',
+    'Parc Artistique Paul Chiang',
+    'Picasso',
+    'Le Temple Centenaire',
     'Bach',
   ]
+subcategory: '當代藝術'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-05/jiang-chien.md'
+image: '/article-images/art/jiang-chien-sanxiantai-coast-2014.webp'
+imageCredit: 'lwtt93 (Flickr)'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Clouds_over_beautiful_blue_sea_at_Sanxiantai_on_4_February_2014.jpg'
 sporeLinks:
   - id: 91
     platform: 'threads'
     date: '2026-05-25'
     url: 'https://www.threads.com/@taiwandotmd/post/DYwhhzFgfe0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/江賢二.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:872c1259e15043c2'
-sourceBodyHash: 'sha256:ae43b98131d02326'
-translatedAt: '2026-06-14T00:35:00+08:00'
-image: '/article-images/art/jiang-chien-sanxiantai-coast-2014.webp'
-imageCredit: 'lwtt93 (Flickr)'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Clouds_over_beautiful_blue_sea_at_Sanxiantai_on_4_February_2014.jpg'
+sourceCommitSha: 'e81a52046'
+sourceContentHash: 'sha256:d0617b9871f95eb3'
+sourceBodyHash: 'sha256:13e0356c3da61611'
+translatedAt: '2026-11-18T05:31:59.012379+00:00'
 ---
 
-# Jiang Hsien-yi : après avoir fui Taïwan pendant quarante-cinq ans, ce n'est qu'en rentrant chez lui qu'il a peint les meilleures œuvres de sa vie
+# Jiang Xian-er : après quarante-cinq ans d'exil de Taïwan, il ne peint ses plus beaux tableaux qu'une fois rentré chez lui
 
-> **Vue d'ensemble en 30 secondes :** Jiang Hsien-yi naît en 1942 à Taichung. Après avoir obtenu son diplôme du département des beaux-arts de la NTNU, il part seul pour Paris à l'hiver 1967, espérant devenir l'élève de Giacometti ; arrivé sur place, il apprend que son idole est morte l'année précédente. Pendant les quarante-cinq années suivantes, à Paris, New York et Taipei, il prend l'habitude de condamner toutes les fenêtres lorsqu'il peint : « Je ne voulais pas voir la lumière naturelle extérieure, je voulais trouver la lumière à l'intérieur de moi. »[^1] En 1975, lors de sa première exposition personnelle à la galerie Lamagna de New York, aucune toile n'est vendue. Au milieu des années 1990, après la chute et la blessure de son père, il revient à Taipei et peint la série « Temple centenaire » dans la fumée d'encens du temple Longshan et du temple Bao'an. En 2007, avec son épouse Fan Xianglan, il conduit jusqu'à Jinzun, à Taitung ; en 2008, il s'y installe et ouvre les fenêtres. Il a alors soixante-cinq ans. Le 15 mars 2025, le Parc artistique Jiang Hsien-yi ouvre officiellement à Jinzun. Il a quatre-vingt-trois ans.
+> **Aperçu en 30 secondes :** Né à Taichung en 1942, Jiang Xian-er a rejoint Paris seul à l'hiver 1967 après avoir obtenu son diplôme du département d'art de l'Université Normale Nationale pour tenter de devenir l'élève de Giacometti ; ce n'est qu'une fois sur place qu'il apprit que son idole était décédée l'année précédente. Durant les quarante-cinq années suivantes, lorsqu'il peignait à Paris, New York ou Taipei, il avait pour habitude de sceller complètement ses fenêtres : « Je ne veux pas voir la lumière naturelle de l'extérieur, je veux trouver la lumière qui est en moi. »[^1] Lors de sa première exposition personnelle à la galerie Lamagna de New York en 1975, aucune œuvre ne fut vendue. Au milieu des années 1990, suite à la chute et à la blessure de son père, il retourna à Taipei et créa la série « Temples centenaires » au milieu de l'encens du temple Longshan et du temple Baoan. En 2007, il et son épouse Fan Xiang-lan se rendirent à Golden Chalice, à Taitung, et s'y installèrent en 2008, ouvrant enfin ses fenêtres : il avait alors soixante-cinq ans. Le 15 mars 2025, le Parc artistique Jiang Xian-er a officiellement ouvert ses portes à Golden Chalice, à l'âge de quatre-vingt-trois ans.
 
-Les œuvres les plus importantes d'un artiste ne sont souvent pas celles qu'il peint lorsqu'il veut devenir un maître. Elles apparaissent après qu'il a renoncé à le devenir.
+Les tableaux les plus importants d'un artiste ne sont souvent pas ceux qu'il peint lorsqu'il aspire à devenir un maître, mais bien ceux qu'il crée après avoir renoncé à cette ambition.
 
-Jiang Hsien-yi a vécu quarante-cinq ans hors de Taïwan. Pendant trente de ces années, chaque fois qu'il arrivait dans un nouvel atelier, la première chose qu'il faisait était de condamner les fenêtres. Le grenier du Quartier latin à Paris, le logement loué à SoHo, New York, la maison vide et perméable à la pluie de la rue Jinzhou à Taipei[^2] : il fermait tout jusqu'à ce qu'aucun rayon de lumière extérieure ne puisse entrer. Puis, dans cette pièce entièrement noire, il cherchait sa propre lumière intérieure.
+Jiang Xian-er a vécu hors de Taïwan pendant quarante-cinq ans. Durant trente de ces années, chaque fois qu'il s'installait dans l'atelier d'une nouvelle ville, sa première action consistait à sceller les fenêtres. Que ce soit dans une mansarde du Quartier latin à Paris, un appartement loué dans le SoHo à New York ou cette maison vide et fuyante de la rue Jinzhou à Taipei[^2], il fermait tout jusqu'à ce qu'aucune lueur extérieure ne puisse pénétrer. C'est alors, dans cette pièce plongée dans l'obscurité totale, qu'il cherchait sa propre lumière intérieure.
 
-Il revient s'installer à Taïwan l'année de ses soixante-cinq ans. Dix-sept ans plus tard, à quatre-vingt-trois ans, le Parc artistique situé au bord du littoral de Jinzun, à Taitung, conçu par lui avec l'architecte Lin Youhan et construit après douze années de collecte de fonds menée par l'équipe de Stanley Yen, président de la Fondation culturelle Alliance, ouvre officiellement le 15 mars 2025[^3].
+Son retour pour s'installer à Taïwan eut lieu à l'âge de soixante-cinq ans. Dix-sept ans plus tard, à quatre-vingt-trois ans, le parc artistique situé le long du littoral de Golden Chalice à Taitung — conçu conjointement avec l'architecte Lin You-han et construit sur douze ans grâce à une collecte de fonds menée par l'équipe dirigée par Yen Chang-shou, président de la Fondation culturelle de plateforme publique (Public Interest Platform Cultural Foundation) — a officiellement ouvert ses portes le 15 mars 2025[^3].
 
-Ce ne sont pas seulement les fenêtres qui s'ouvrent.
+Et ce ne sont pas seulement les fenêtres qu'il a ouvertes.
 
-## À l'hiver 1967, le jour où il arrive à Paris, Giacometti est mort depuis un an
+## L'hiver 1967, le jour où il arriva à Paris, Giacometti était décédé depuis un an
 
-Jiang Hsien-yi naît le 1er février 1942 à Taichung[^4]. Sa mère meurt lorsqu'il est encore enfant, et son père fait longtemps des affaires à l'étranger. Pour cet enfant sensible, la compagnie la plus fréquente vient de la musique classique à la radio[^5]. Il aime tout particulièrement Mahler, ce compositeur qui écrit la mort et la solitude en musique.
+Le 1er février 1942, Jiang Xian-er est né à Taichung[^4]. Sa mère est décédée lorsqu'il était enfant et son père a passé de nombreuses années à l'étranger pour ses affaires. Enfant sensible, il était le plus souvent accompagné par la musique classique diffusée à la radio[^5]. Il aimait tout particulièrement Mahler, ce compositeur qui utilisait la musique pour exprimer la mort et la solitude.
 
-Au lycée affilié à la NTNU, il apprend la peinture auprès de Lee Shih-chiao. En 1960, il entre au département des beaux-arts de l'Université normale provinciale de Taïwan, aujourd'hui département des beaux-arts de l'Université normale nationale de Taïwan[^6]. À l'université, il reçoit l'enseignement de Liao Chi-chun et de Chen Hui-kun. Lors d'un cours de dessin, Chen Hui-kun regarde le plâtre qu'il a dessiné et lui dit : « À l'avenir, tu n'auras plus besoin de dessiner des plâtres ! » Dans un cours de peinture à l'huile, Liao Chi-chun examine son tableau et livre ce commentaire : « C'est l'œuvre d'un génie. »[^7]
+Après avoir étudié le dessin avec Li Shi-chiao au lycée attaché à l'Université Normale de Taïwan (HSNU), il intègre en 1960 le département d'art de l'Université normale provinciale de Taïwan (actuel département des beaux-arts de l'Université Normale de Taïwan)[^6]. Durant ses études universitaires, il est guidé par Liao Ji-chun et Chen Hui-kun. Lors d'un cours de dessin, Chen Hui-kun, en voyant son buste en plâtre, lui dit : « Tu n'auras plus besoin de dessiner de plâtres à l'avenir ! ». Liao Ji-chun, en examinant ses œuvres lors d'un cours de peinture à l'huile, lui fit ce commentaire : « C'est l'œuvre d'un génie »[^7].
 
-En janvier 1965, alors qu'il est en dernière année, Jiang Hsien-yi organise avec ses camarades Yao Qingzhang et Gu Chongguang la première exposition du « Groupe des Années » au Musée provincial de Taïwan, aujourd'hui Musée national de Taïwan. C'est un petit point de départ, dans la phase finale du mouvement de peinture abstraite taïwanaise des années 1960[^8]. Il obtient son diplôme en juin de la même année ; en septembre, son œuvre est sélectionnée pour la Biennale de São Paulo, au Brésil[^8].
+En janvier 1965, alors qu'il est en quatrième année, Jiang Xian-er organise avec ses camarades de classe Yao Ching-chang et Ku Chung-kuang la première exposition du « Groupe de peinture des époques » (_Niandai Huahui_) au Musée provincial de Taïwan (actuel Musée national de Taïwan) ; ce fut un modeste point de départ à la fin du mouvement de la peinture abstraite à Taïwan dans les années 1960[^8]. Il obtient son diplôme en juin de la même année, et en septembre, ses œuvres sont sélectionnées pour la Biennale de São Paulo au Brésil[^8].
 
-C'était le meilleur départ qu'un étudiant en art taïwanais pouvait imaginer.
+C'était le meilleur début possible pour un étudiant en art à Taïwan.
 
-Mais Jiang Hsien-yi porte en lui une obsession plus grande. Il veut aller à Paris chercher Giacometti. Le sculpteur suisse, qui exprimait la solitude, l'angoisse et le désespoir humains à travers de minces figures, était son idole[^9].
+Pourtant, Jiang Xian-er nourrissait une obsession plus grande encore. Il voulait se rendre à Paris pour retrouver Giacometti ; ce sculpteur suisse, qui exprimait la solitude, l'anxiété et le désespoir de la condition humaine à travers des silhouettes humaines filiformes, était son idole[^9].
 
-À l'hiver 1967, il part seul pour Paris. Son épouse Fan Xianglan le rejoint peu après[^10].
+L'hiver 1967, il s'envole seul pour Paris. Son épouse, Fan Xiang-lan, le rejoint peu après[^10].
 
-Peu après son arrivée à Paris, il apprend une nouvelle : Giacometti est mort l'année précédente, en 1966[^9].
+Peu après son arrivée à Paris, il apprend une nouvelle : Giacometti était décédé l'année précédente (1966)[^9].
 
-« J'avais l'impression que mon cœur avait été vidé. »[^11]
+« J'ai eu le cœur vidé »[^11].
 
-Il reste à Paris, mais son idole n'est plus là. Qu'apprendre ? Comment apprendre ? De mai à juin 1968, le mouvement étudiant éclate à Paris, suivi d'une grève générale ; même survivre devient un problème[^12]. Jiang Hsien-yi et Fan Xianglan quittent Paris pour New York.
+Il resta à Paris, mais son idole n'était plus là. Que devait-il apprendre ? Comment ? De mai à juin 1968, les mouvements étudiants éclatent à Paris, suivis d'une grève générale nationale, rendant même la survie difficile[^12]. Jiang Xian-er et Fan Xiang-lan quittèrent Paris pour New York.
 
-Il a alors vingt-six ans. Il ne sait pas encore que ce départ de Taïwan durera quarante-cinq ans.
+Il avait vingt-six ans cette année-là. Il n'aurait jamais imaginé qu'en quittant Taïwan, il ne reviendrait pas avant quarante-cinq ans.
 
-![Détail de la façade occidentale de Notre-Dame de Paris, 2017. À l'été 1982, Jiang Hsien-yi revient de New York à Paris ; dans un atelier mansardé situé au-dessus d'un cinéma du Quartier latin, il condamne les fenêtres et peint la série « Notre-Dame de Paris », tournant décisif de sa carrière de peintre](/article-images/art/jiang-chien-notre-dame-paris-2017.webp)
+![Détail de la façade ouest de Notre-Dame de Paris, 2017. À l'été 1982, Jiang Xian-er est revenu de New York à Paris et a peint dans un atelier sous les toits au-dessus d'un cinéma du Quartier latin, en s'isolant derrière ses fenêtres, créant ainsi la série « Notre-Dame de Paris », le tournant de sa carrière de peintre](/article-images/art/jiang-chien-notre-dame-paris-2017.webp)
 
-_Détail de la façade occidentale de Notre-Dame de Paris, 2017. À l'été 1982, Jiang Hsien-yi revient de New York à Paris ; dans un atelier mansardé situé au-dessus d'un cinéma du Quartier latin, il condamne les fenêtres et peint la série « Notre-Dame de Paris », tournant décisif de sa carrière de peintre. Photo : Fernando Losada Rodríguez, CC BY-SA 4.0 via Wikimedia Commons._
+_Détail de la façade ouest de Notre-Dame de Paris, 2017. À l'été 1982, Jiang Xian-er est revenu de New York à Paris et a peint dans un atelier sous les toits au-dessus d'un cinéma du Quartier latin, en s'isolant derrière ses fenêtres, créant ainsi la série « Notre-Dame de Paris », le tournant de sa carrière de peintre. Photo : Fernando Losada Rodríguez, CC BY-SA 4.0 via Wikimedia Commons._
 
-## Condamner les fenêtres, chercher la lumière intérieure
+## Sceller les fenêtres pour trouver la lumière intérieure
 
-Dans les années 1970, SoHo, à New York, est encore le paradis des artistes avant l'arrivée des boutiques de luxe : entrepôts, usines, loyers de lofts bon marché, peintres expressionnistes abstraits de la même génération dans toute la rue. Andy Warhol installe la Factory dans le quartier voisin ; le pop art est alors dominant. Jiang Hsien-yi s'y installe, mais ce qu'il fait va exactement à l'opposé du courant artistique new-yorkais de l'époque.
+Dans les années 1970, le quartier de SoHo à New York était encore un paradis pour les artistes, avant l'arrivée des boutiques de luxe : entrepôts, usines, loyers d'ateliers bon marché et rues remplies de peintres de l'expressionnisme abstrait de la même génération. Andy Warhol avait ouvert sa « Factory » dans le quartier voisin, et le Pop Art était en pleine ascension. Jiang Xian-er s'y est installé, mais ce qu'il y faisait était à l'opposé total de la tendance artistique new-yorkaise de l'époque.
 
-Il condamne les fenêtres.
+Il scellait ses fenêtres.
 
-Carton, rideaux, journaux : il utilise tout ce qu'il peut. Il faut absolument qu'aucune lumière naturelle ne pénètre. Puis il peint dans cette pièce entièrement noire.
+Cartons, rideaux de tissu, journaux : il utilisait tout ce qu'il trouvait. Il fallait absolument qu'aucune lueur de lumière naturelle ne puisse pénétrer. Ensuite, il peignait dans cette pièce plongée dans le noir complet.
 
-Quarante ans plus tard, il explique lui-même cette habitude : « Pendant plus de trente ans, à Paris, New York, et même Taipei, même si les fenêtres étaient grandes, je les condamnais quand même. La raison est très simple : je ne voulais pas voir la lumière naturelle extérieure, je voulais trouver la lumière à l'intérieur de moi. »[^1]
+Quarante ans plus tard, il expliquait lui-même cette habitude : « Pendant mes trente années passées à Paris, New York ou même Taipei, même si les fenêtres étaient grandes, je les scellais quand même. La raison est simple : je ne voulais pas voir la lumière naturelle de l'extérieur, je voulais trouver la lumière qui est en moi. »[^1]
 
-Les œuvres de cette période sont appelées les « œuvres aux fenêtres condamnées »[^13]. Elles sont sombres, minimales, dominées par les gris et les noirs ; parfois, seule une ligne de lumière blanche émerge de l'obscurité. Plusieurs mots reviennent comme thèmes : « vide silencieux, solitude, désespoir, mort, funérailles au loin »[^13].
+Les œuvres de cette période sont appelées les « œuvres aux fenêtres scellées »[^13]. Sombres, minimalistes, dominées par le gris et le noir, les compositions ne présentent parfois qu'un seul trait de lumière blanche émergeant de l'obscurité. Les thèmes récurrents s'articulent autour de quelques mots : « vide, solitude, désespoir, mort, funérailles lointaines. »[^13]
 
-> **📝 Note de commissariat**
-> Le récit courant dit que les trente années de Jiang Hsien-yi à New York furent une « période de retrait », une « ascèse », une « attente du moment opportun ». Cette formulation fonctionne narrativement, mais elle inverse la réalité. S'il a réellement accepté de passer trente ans en retrait, c'est parce qu'il croyait que l'art ne devait pas regarder vers l'extérieur. Tandis que d'autres peintres représentaient ce monde, lui a passé trente ans à se dire que la lumière extérieure de ce monde n'était pas importante. Ce qui comptait, c'était le faisceau intérieur.
+> **📝 Note du commissaire d'exposition**
+> L'usage veut que l'on dise que les trente années de Jiang Xian-er à New York furent une « période d'immersion », un « entraînement » ou une « attente de l'opportunité ». Cette interprétation est narrativement facile, mais elle inverse la réalité. Il croyait sincèrement que l'art ne devait pas regarder vers l'extérieur, c'est pourquoi il a accepté de s'immerger ainsi pendant trente ans. Tandis que les autres peintres cherchaient à dépeindre ce monde, il a passé trente années entières à se dire que la lumière extérieure n'importait pas. Ce qui compte, c'est celle qui se trouve à l'intérieur.
 
 ## New York, 1975 : aucune toile vendue
 
-En 1975, Jiang Hsien-yi a trente-trois ans et vit déjà à New York depuis sept ans. Ivan Karp, agent d'Andy Warhol et fondateur de la galerie O.K. Harris, le remarque et le recommande à la galerie Lamagna de SoHo pour une exposition personnelle[^14].
+En 1975, Jiang Xian-er avait trente-trois ans et vivait à New York depuis déjà sept ans. Ivan Karp, agent d'Andy Warhol et fondateur de la galerie O.K. Harris, remarqua son travail et le recommanda à la galerie Lamagna, dans le SoHo, pour une exposition personnelle[^14].
 
-C'est sa première exposition personnelle à New York.
+Ce fut sa première exposition solo à New York.
 
-À la fin de toute l'exposition, aucune toile n'est vendue[^14].
+À l'issue de l'exposition, aucune toile ne fut vendue[^14].
 
-Pendant les dix-neuf années suivantes, il n'organise plus d'exposition personnelle à New York. Il faut attendre décembre 1994 pour qu'Ivan Karp le ramène dans la galerie O.K. Harris qu'il a fondée, pour une deuxième exposition personnelle[^15]. De quoi vit-il pendant ces dix-neuf années ? Comment garde-t-il un atelier ? Comment achète-t-il toiles et peintures à l'huile ? Ces détails apparaissent rarement dans ses propres entretiens. Il n'a laissé qu'une phrase : « Il y a tant, tant de gens qui veulent peindre, mais si peu deviennent des peintres professionnels. Il faut de la patience, de la persévérance, et il faut sacrifier énormément de choses pour y parvenir. »[^16]
+Pendant les dix-neuf années suivantes, il n'organisa plus d'exposition personnelle à New York. Ce n'est qu'en décembre 1994 qu'Ivan Karp le ramena dans sa propre galerie, O.K. Harris, pour sa deuxième exposition solo[^15]. Durant ces dix-neuf années intermédiaires, comment a-t-il survécu ? Comment a-t-il entretenu son atelier ? Comment achetait-il ses toiles et ses peintures à l'huile ? Ces détails sont rarement mentionnés dans ses propres entretiens. Il s'est contenté de dire une phrase : « Il y a beaucoup trop de gens qui veulent peindre, mais bien trop peu qui parviennent à devenir des peintres professionnels. Il faut de la patience, de la persévérance et faire énormément de sacrifices pour y parvenir. »[^16]
 
-À l'été 1982, à quarante ans, il revient brièvement de New York à Paris et loue une mansarde au-dessus d'un cinéma du Quartier latin[^17]. Il condamne aussi les fenêtres de cette mansarde et peint une série : « Notre-Dame de Paris ».
+À l'été 1982, à l'âge de quarante ans, il quitta brièvement New York pour retourner à Paris, où il loua une mansarde au-dessus d'un cinéma dans le Quartier latin[^17]. Il scella également les fenêtres de cette mansarde pour peindre une série intitulée « Notre-Dame de Paris ».
 
-Sur des surfaces très sombres, quelques lignes blanches dessinent les colonnes et les arcs ; des empâtements marquent une lumière d'un blanc pur[^17]. Ce que Jiang Hsien-yi cherche à exprimer avec la peinture, c'est « l'air de piété spirituelle » : ce qui subsiste d'un haut lieu touristique lorsqu'on en retire le réel bruyant.
+Des compositions sombres, où quelques lignes blanches esquissaient les colonnes et où des touches épaisses marquaient une lumière d'un blanc pur[^17]. Ce que Jiang Xian-er cherchait à exprimer avec sa peinture était « l'air de la piété spirituelle » : ce qui subsiste d'un site touristique très fréquenté une fois que le tumulte de la réalité a été retiré.
 
-Bien plus tard, revenant sur cette série, il dit : « Ce n'est qu'après avoir peint la série “Notre-Dame de Paris” que j'ai eu le sentiment d'y être parvenu, que l'art était une voie que je pouvais suivre, que j'avais, dans cette vie, la qualification pour être peintre. »[^18]
+Bien plus tard, en revenant sur cette série, il confia : « C'est seulement en peignant la série « Notre-Dame de Paris » que j'ai eu le sentiment d'avoir réussi, que j'ai senti que l'art était une voie possible pour moi et que j'avais, dans cette vie, la légitimité d'être peintre. »[^18]
 
-L'année de ses quarante ans, il estime seulement alors avoir le droit d'être peintre. Avant cela, il a déjà peint quinze ans à Paris et à New York.
+À quarante ans, il a enfin senti qu'il avait la légitimité d'être peintre. Avant cela, il avait déjà peint pendant quinze ans entre Paris et New York.
 
-## L'encens du temple Longshan, les colonnes du temple Bao'an : l'année de la chute de son père
+## L'encens de Longshan, les piliers de Baoan : l'année où mon père est tombé
 
-Un jour du milieu des années 1990, à New York, Jiang Hsien-yi reçoit un appel de sa famille : son père est tombé à Taipei, il s'est blessé et ne peut plus prendre de vol long-courrier jusqu'à New York pour le voir[^19].
+Un jour du milieu des années 1990, Jiang Xian-er reçut un appel de sa famille depuis New York : son père était tombé à Taipei et s'était blessé, ce qui rendait difficile pour lui de reprendre l'avion pour venir le voir à New York[^19].
 
-C'est la distance qui avait toujours existé entre le père et le fils. Son père faisait des affaires et vivait longtemps à l'étranger ; les interactions entre eux étaient rares, le lien ténu. Jiang Hsien-yi a lui aussi choisi une voie qui plaçait sa maison à l'autre bout du monde. Mais son père a vieilli, il est tombé, il ne peut plus voler.
+C'était la distance qui avait toujours existé entre le père et le fils. Le père était homme d'affaires et passait la majeure partie de l'année à l'étranger ; les interactions étaient rares et les liens ténus. Jiang Xian-er avait lui aussi choisi une voie qui plaçait sa maison à l'autre bout du monde. Mais son père vieillissait, il était tombé, et ne pouvait plus voler.
 
-Jiang Hsien-yi commence alors à faire des allers-retours entre Taipei et New York.
+Jiang Xian-er commença alors à faire la navette entre Taipei et New York.
 
-À Taipei, il trouve une vieille maison vide rue Jinzhou, qui fuit quand il pleut, a des moustiques l'été et pas d'eau chaude l'hiver[^2]. En y vivant, il fait une chose : il va dans les temples.
+À Taipei, il trouva une vieille maison vide sur Jinzhou Street (qui fuyait lorsqu'il pleuvait, où les moustiques pullulaient en été et où il n'y avait pas d'eau chaude en hiver)[^2]. En y vivant, ce qu'il faisait, c'était se rendre dans les temples.
 
-Temple Longshan, temple Bao'an, temples de Mazu : il les visite tous[^20]. Il ne vient pas y prier quelque chose. Il vient regarder les temples.
+Le temple Longshan, le temple Baoan, le temple Mazu : il allait dans chacun d'eux[^20]. Il ne s'agissait pas de prier. Il s'agissait d'observer les temples.
 
-Ces colonnes, ces plaques, cette fumée d'encens, ces caractères noirs sur papier rouge écrits depuis plus d'un siècle : des choses qu'il n'avait pas vues en trente ans à Paris et New York entrent alors dans son regard.
+Ces piliers de temple, ces plaques commémoratives, cette fumée d'encens, ces caractères rouges et noirs écrits depuis des centaines d'années — des choses qu'il n'avait pas vues pendant ses trente ans à Paris et à New York — entrèrent enfin dans son regard.
 
-La série « Temple centenaire » naît de cette maison vide et perméable à la pluie de la rue Jinzhou[^20].
+La série 《百年廟》 (_Temples centenaires_) est née de cette maison vide et pluvieuse de Jinzhou Street[^20].
 
-Comme « Notre-Dame de Paris », les tableaux reposent sur un noir sombre, mais quelque chose s'est ajouté à ce noir. Quelques lumières couleur bronze et or émergent des profondeurs de l'image. C'est la couleur qui apparaît lentement lorsque les colonnes d'un temple ont été touchées par d'innombrables mains, enfumées par des siècles d'encens, et obliquement éclairées par la lumière du soleil depuis une cour intérieure[^20].
+À l'instar de « Notre-Dame de Paris », la composition repose sur un fond noir mélancolique, mais ce noir contient quelque chose de plus. Quelques éclats de lumière bronze doré émergent des profondeurs de l'image. C'est la couleur qui naît lentement lorsque les piliers du temple, touchés par d'innombrables mains et imprégnés de siècles de fumée d'encens, sont frappés par la lumière du soleil filtrant obliquement par le puits de lumière[^20].
 
-![Une toile de la série « Temple centenaire » de Jiang Hsien-yi, 1998 — sur un fond noir sombre, quelques lumières couleur bronze et or émergent des profondeurs, la couleur lentement née des colonnes touchées par d'innombrables mains et enfumées par des siècles d'encens](/article-images/art/jiang-chien-baiNianMiao-1998.webp)
-_Une toile de la série « Temple centenaire » de Jiang Hsien-yi, 1998. Source : [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works), collection de la période Notre-Dame de Paris / Temple centenaire. Fair use editorial commentary._
+![Une œuvre de la série 《百年廟》 de Jiang Xian-er, 1998 — Sur un fond noir mélancolique, quelques éclats de lumière bronze doré émergent des profondeurs de l'image ; c'est la couleur qui naît lentement lorsque les piliers du temple, touchés par d'innombrables mains et imprégnés de siècles de fumée d'encens, sont frappés par la lumière du soleil filtrant obliquement par le puits de lumière](/article-images/art/jiang-chien-baiNianMiao-1998.webp)
+_Une œuvre de la série 《百年廟》 de Jiang Xian-er, 1998. Source : [Site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works), collection d'œuvres de la période Notre-Dame de Paris / Temples centenaires. Fair use editorial commentary._
 
-En mars 1997, Jiang Hsien-yi organise une exposition personnelle à la galerie Eslite de Taipei. Le sous-titre de l'exposition indique : « Première exposition personnelle à Taïwan après trente ans d'absence. »[^21]
+En mars 1997, Jiang Xian-er tint une exposition personnelle à la galerie Eslite de Taipei. Le sous-titre de l'exposition indiquait : « Première exposition personnelle après un retour à Taïwan après 30 ans d'absence. »[^21]
 
-Il a quitté Taïwan à vingt-cinq ans et y tient sa première exposition de retour à cinquante-cinq ans. Pendant ces trente années, ses camarades de Taïwan ont perdu le contact avec lui, le milieu artistique taïwanais ne le connaît pas, le public taïwanais n'a jamais vu ses peintures.
+Il avait quitté Taïwan à vingt-cinq ans, et tenait sa première exposition de retour à cinquante-cinq ans. Durant ces trente années intermédiaires, ses anciens camarades de classe taïwanais avaient perdu contact avec lui, le milieu artistique taïwanais ne le connaissait pas, et le public taïwanais n'avait jamais vu ses peintures.
 
-En novembre 1998, il organise une deuxième exposition personnelle chez Eslite et présente officiellement la série « Temple centenaire »[^21].
+En novembre 1998, il organisa sa deuxième exposition personnelle chez Eslite, présentant officiellement la série 《百年廟》[^21].
 
-C'est la première fois qu'il montre au public taïwanais des peintures réalisées à Taïwan.
+C'était la première fois qu'il permettait au public taïwanais de voir les tableaux qu'il peignait à Taïwan.
 
-> **📝 Note de commissariat**
-> Lorsqu'un artiste passe trente ans dehors et revient exposer à Taïwan, comment la critique taïwanaise le regarde-t-elle ? Probablement pas avec l'intérêt accordé à un jeune artiste débutant, ni avec la déférence réservée à un maître célébré internationalement depuis vingt ans. Lorsque Jiang Hsien-yi expose de retour à Taïwan, il se trouve entre deux positions : ni nouveau venu, ni star internationale, seulement un homme d'âge mûr qui a passé trente ans à New York sans y devenir célèbre, et que personne ne reconnaît lorsqu'il revient à Taipei. Lorsque la série « Temple centenaire » est exposée pour la première fois en 1998, elle ne déclenche pas une ovation. Sa véritable reconnaissance par le milieu artistique taïwanais vient en 2020, lors de la rétrospective du Musée des beaux-arts de Taipei. Il a alors soixante-dix-huit ans.
+> **📝 Notes du commissaire d'exposition**
+> Lorsqu'un artiste a passé trente ans à l'étranger et revient organiser une exposition à Taïwan, comment la critique d'art taïwanaise le perçoit-elle ? Probablement pas avec l'intérêt qu'on porterait à un jeune artiste débutant, ni avec la déférence due à un maître déjà célèbre internationalement depuis vingt ans. Lors de son retour, Jiang Xian-er se trouvait dans une position intermédiaire : il n'était ni un nouveau venu, ni une superstar internationale ; il n'était qu'un homme d'âge mûr ayant passé trente ans à New York sans y devenir célèbre, et qui, de retour à Taipei, n'était reconnu par personne.
+>
+> Ce sont d'abord les galeries et les commissaires d'exposition qui l'ont accueilli. Pour l'exposition du 10ème anniversaire de la galerie Eslite en 1999, Wang Chia-chi a sélectionné 《百年廟》 ; entre 1997 et 2005, Jiang Xian-er a tenu un total de six expositions personnelles chez Eslite. En 2008, il a participé à la Biennale d'art taïwanais au Musée des Beaux-Arts de Taïwan, et en 2012, à l'exposition « Formes non figuratives : L'art abstrait taïwanais » au Musée des Beaux-Arts de Taipei[^44]. Ce qui lui a véritablement permis d'être vu par le grand public taïwanais fut l'exposition rétrospective de 2020 au Musée des Beaux-Arts de Taipei, sous la direction du même commissaire, Wang Chia-chi, alors que l'artiste avait soixante-dix-huit ans.
 
-## Un après-midi de 2007, ils montent en voiture jusqu'à Jinzun
+## Un après-midi de 2007, ils ont conduit jusqu'au Golden Chalice
 
-En 2007, Jiang Hsien-yi et son épouse Fan Xianglan longent en voiture la côte est de Taitung. La route provinciale 11 serpente entre montagne et mer ; après Changbin, après Sanxiantai, la voiture arrive dans un petit village du canton de Donghe. Il s'appelle Jinzun, ancien toponyme du peuple amis.
+En 2007, Jiang Xian-er et son épouse Fan Xiang-lan roulaient le long de la côte est de Taïwan. La route provinciale 11 serpente entre les montagnes et la mer ; après avoir passé Changbin et Sanxiantai, ils sont arrivés dans un petit village de la commune de Donghe nommé Jinzun (le « Golden Chalice »), un ancien nom amisk.
 
-Ils arrêtent la voiture et montent sur une petite colline. Devant eux, l'océan Pacifique ; derrière, les derniers contreforts de la chaîne côtière ; par beau temps, on distingue au loin l'île Verte[^22].
+Ils ont garé la voiture et ont gravi une petite colline. Devant eux s'étendait l'océan Pacifique, derrière eux les dernières crêtes de la chaîne de montagnes côtière ; par beau temps, on pouvait apercevoir l'île de Luedao[^22] au loin.
 
-« Mais nous avons senti que c'était ici. » C'est ainsi que Jiang Hsien-yi se souvient de cet après-midi[^23].
+« Mais nous avons senti que c'était ici », se souvient Jiang Xian-er de cet après-midi-là[^23].
 
-Il a soixante-cinq ans.
+Il avait soixante-cinq ans.
 
-Cette année-là, il ouvre un terrain à Jinzun, dans le canton de Donghe, comté de Taitung, et y construit lui-même une résidence et un atelier adossés à la montagne et tournés vers la mer[^24]. L'année suivante, en 2008, l'atelier est achevé ; lui et Fan Xianglan quittent Taipei pour s'y installer officiellement[^24].
+Cette année-là, il a acquis un terrain à Jinzun, dans la commune de Donghe (comté de Taitung), pour construire sa propre résidence et son atelier, adossés à la montagne et face à la mer[^24]. L'année suivante (2008), l'atelier fut achevé, et lui ainsi que Fan Xiang-lan ont quitté Taipei pour s'installer définitivement sur place[^24].
 
-De Paris, New York et Taipei à Jinzun, Taitung : c'est son quatrième atelier.
+De Paris, New York et Taipei jusqu'à Jinzun à Taitung, il s'agissait de son quatrième atelier.
 
-C'est aussi le premier où il ne condamne pas les fenêtres.
+Et le tout premier où il n'avait pas scellé ses fenêtres.
 
-![Vue sur l'océan Pacifique depuis un tronçon de la route provinciale 11 dans le canton de Donghe, comté de Taitung, 2018. En 2007, Jiang Hsien-yi et son épouse trouvent sur le bord de cette route la colline de Jinzun ; ils s'y installent en 2008 et y vivent depuis](/article-images/art/jiang-chien-donghe-coast-2018.webp)
+![Vue sur l'océan Pacifique depuis un tronçon de la route provinciale 11 dans la commune de Donghe, comté de Taitung, en 2018. En 2007, le couple Jiang Xian-er a trouvé cette colline à Jinzun le long de cette route et s'y est installé en 2008](/article-images/art/jiang-chien-donghe-coast-2018.webp)
 
-_Vue sur l'océan Pacifique depuis un tronçon de la route provinciale 11 dans le canton de Donghe, comté de Taitung, 2018. En 2007, Jiang Hsien-yi et son épouse trouvent sur le bord de cette route la colline de Jinzun ; ils s'y installent en 2008 et y vivent depuis. Photo : Aa7778273, CC BY-SA 4.0 via Wikimedia Commons._
+_Vue sur l'océan Pacifique depuis un tronçon de la route provinciale 11 dans la commune de Donghe, comté de Taitung, en 2018. En 2007, le couple Jiang Xian-er a trouvé cette colline à Jinzun le long de cette route et s'y est installé en 2008. Photo : Aa7778273, CC BY-SA 4.0 via Wikimedia Commons._
 
 > **💡 Le saviez-vous ?**
-> La côte voisine de l'atelier de Jinzun s'appelle en langue amis « Pisirian », ce qui signifie « l'endroit où l'on garde les moutons » : pi est le verbe « faire paître », sili signifie « mouton », an signifie « lieu »[^25]. La première série de la période de Taitung de Jiang Hsien-yi s'intitule justement « Le Rêve de Pisirian ». Un peintre new-yorkais qui avait passé trente ans à peindre le noir voit soudain, arrivé au « lieu où l'on garde les moutons », les couleurs exploser dans ses tableaux.
+> La zone côtière adjacente à l'atelier du Golden Chalice se nomme « Pisirian » en langue amisk, ce qui signifie « le lieu où l'on fait paître les moutons » : _pi_ est le verbe « paître », _sili_ signifie « mouton » et _an_ désigne « le lieu »[^25]. La première série de Jiang Xian-er durant sa période à Taitung s'intitule d'ailleurs « Le rêve de Pisirian ». Ce peintre new-yorkais, qui avait passé trente ans à peindre en noir, a vu ses toiles soudainement exploser de couleurs après son arrivée dans ce « lieu où l'on fait paître les moutons ».
 
-## Les « Goldberg » de Gould et la fenêtre ouverte
+## Le « Goldberg » de Gould et la fenêtre ouverte
 
-« Ces couleurs, je ne les avais jamais utilisées ; de toute ma vie, je n'avais jamais pensé pouvoir peindre de telles œuvres. » Après son installation à Taitung, Jiang Hsien-yi décrit ainsi la transformation de sa peinture[^26].
+« Je n'ai jamais utilisé ces couleurs auparavant, et je n'avais jamais pensé pouvoir créer de telles œuvres de ma vie. » Après son installation à Taitung, Jiang Xian-er décrivait ainsi l'évolution de ses compositions[^26].
 
-Après 2008, les séries « Le Rêve de Pisirian », « Sur les ailes du chant », « Jinzun », « Lac d'argent » apparaissent l'une après l'autre[^27]. Les tableaux se remplissent de bleu, de jaune, d'orange, de rose. La mer, le chant, le rêve entrent dans l'image[^27]. « Les couleurs que j'utilise, les dimensions des œuvres et leur degré de liberté, tout cela n'est apparu qu'après mon installation à Taitung. »[^28]
+Les séries telles que _Rêves de Pisirian_, _Portant les ailes du chant_, _Le Calice d'or_ ou encore _Le Lac d'argent_ ont émergé une à une après 2008[^27]. Les tableaux ont commencé à intégrer le bleu, le jaune, l'orange et le rose. Ils ont commencé à intégrer la mer, le chant et le rêve[^27]. « La palette de couleurs que j'utilise, la dimension de mes œuvres et ma liberté de création ne sont apparues qu'après mon installation à Taitung. »[^28]
 
-![Une toile de la série « Le Rêve de Pisirian » de Jiang Hsien-yi, 2010 — des aplats de bleu, de rose et de jaune comme un matin sur le Pacifique, coexistant avec les pentes qu'on appelle « lieu où l'on garde les moutons » en langue amis](/article-images/art/jiang-chien-bisirian-2010.webp)
-_Une toile de la série « Le Rêve de Pisirian » de Jiang Hsien-yi, 2010. Pisirian est le nom amis de la côte voisine de l'atelier de Jinzun. Source : [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works), collection de la période Le Rêve de Pisirian. Fair use editorial commentary._
+![Une œuvre de la série 〈Rêves de Pisirian〉 de Jiang Xian-er, 2010 — Les blocs de bleu, rose et jaune évoquent un matin sur le Pacifique, coexistant avec les pentes de la colline dont le nom en langue Amis signifie « lieu où l'on garde les moutons »](/article-images/art/jiang-chien-bisirian-2010.webp)
+_Une œuvre de la série 〈Rêves de Pisirian〉 de Jiang Xian-er, 2010. Pisirian est l'ancien nom Amis de la côte adjacente au studio Golden Chalice. Source : [Site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works), collection d'œuvres de la période « Rêves de Pisirian ». Fair use editorial commentary._
 
-![Une toile de la série « Lac d'argent » de Jiang Hsien-yi, 2008 — sur fond noir, un halo blanc comme la lumière de la lune sur l'eau d'un lac, comme la première note grave sol au piano de Gould](/article-images/art/jiang-chien-silver-lake-2008.webp)
-_Une toile de la série « Lac d'argent » de Jiang Hsien-yi, 2008. Source : [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works), collection de la période Lac d'argent. Fair use editorial commentary._
+![Une œuvre de la série 〈Le Lac d'argent〉 de Jiang Xian-er, 2008 — Le halo blanc sur fond noir évoque la lumière de la lune frappant la surface du lac, ou la première note de sol basse jouée au clavecin par Gould](/article-images/art/jiang-chien-silver-lake-2008.webp)
+_Une œuvre de la série 〈Le Lac d'argent〉 de Jiang Xian-er, 2008. Source : [Site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works), collection d'œuvres de la période « Le Lac d'argent ». Fair use editorial commentary._
 
-Son quotidien devient le suivant :
+Son quotidien est devenu ainsi :
 
-Il se lève entre quatre et cinq heures du matin, prépare une tasse de café, met les Variations Goldberg de Bach interprétées par Gould, puis attend que le soleil monte lentement derrière l'île Verte et éclaire les pentes de Jinzun et l'océan Pacifique.
+Se lever entre quatre et cinq heures du matin, préparer un café, mettre les _Variations Goldberg_ de Bach interprétées par Gould, puis attendre que le soleil s'élève lentement derrière l'île de Green Island pour illuminer les pentes du Golden Chalice et l'océan Pacifique.
 
-> « Le café est indispensable, et il faut absolument écouter Bach. Je mets toujours les Variations Goldberg interprétées par Gould. D'ici, on voit l'île Verte ; la lumière s'éclaircit lentement, et à côté il y a le piano de Bach. Cet état est vraiment difficile à décrire. »[^29]
+> « Le café est indispensable, et il faut absolument écouter Bach ; je mets toujours les _Variations Goldberg_ jouées par Gould. D'ici, on voit Green Island, la lumière augmente progressivement, avec les pièces pour piano de Bach en fond sonore... cet état d'esprit est vraiment difficile à décrire. »[^29]
 
-> « Après avoir terminé le travail de la journée, je m'assois pour boire une tasse de café, en regardant le soleil sur l'horizon utiliser sa dernière chaleur pour teinter la mer d'orange rouge et d'or. »[^30]
+> « Une fois ma journée de travail terminée, je m'assois pour boire un café en regardant le soleil sur l'horizon utiliser sa dernière chaleur pour teinter la surface de la mer de nuances orange et dorées. »[^30]
 
-Du Bach du matin au soleil de l'après-midi : tel est chacun de ses jours après quatre-vingts ans.
+Du Bach du matin au soleil de l'après-midi, tel est son quotidien depuis ses quatre-vingts ans.
 
-Les fenêtres ouvertes de l'atelier donnent sur l'océan Pacifique.
+La fenêtre de son studio est ouverte sur le Pacifique.
 
-Dans un entretien accordé en 2025 à « U People », il prononce une phrase lourde : « Taitung m'a donné une deuxième vie artistique. »[^31]
+Dans une interview accordée à 《Personnalités inspirantes》 en 2025, il a prononcé ces mots empreints de gravité : « Taitung m'a offert une seconde vie artistique. »[^31]
 
-Deuxième. Cela signifie qu'il y en eut une première.
+Une seconde. Ce qui implique qu'il y en a eu une première.
 
-> **📝 Note de commissariat**
-> La première vie artistique va de 1965 à 2007 : Paris, New York, Taipei. Trente ans de fenêtres condamnées. Trente ans à chercher la lumière intérieure. Trente ans sans célébrité. La deuxième vie artistique commence en 2008, à Taitung, et se poursuit aujourd'hui. Durant ces dix-sept années où il a soixante-dix puis quatre-vingts ans, il peint des œuvres meilleures que les « meilleures œuvres » réunies de ses décennies à vingt, trente, quarante et cinquante ans. Ce fait est en soi contre-intuitif : les artistes atteignent généralement leur sommet vers cinquante ou soixante ans. Celui de Jiang Hsien-yi arrive si tard qu'il s'en étonne lui-même. Ce qui surprend, c'est qu'il sait pourquoi il est arrivé tard. Il emploie lui-même le verbe « donner » : « Taitung m'a donné ». Qu'un peintre puisse reconnaître avoir été nourri par une terre est très rare dans la mythologie traditionnelle de l'artiste construite par lui-même.
+> **📝 Note du commissaire**
+> La première vie artistique s'est étendue sur quarante-deux ans, de 1965 à 2007 : Paris, New York, Taipei. Trente ans de fenêtres closes. Trente ans à chercher la lumière intérieure. Trente ans sans gloire. La seconde vie artistique commence en 2008 à Taitung. Durant ces dix-sept dernières années, alors qu'il a entre soixante-dix et quatre-vingts ans, ses peintures sont plus réussies que ses « meilleures œuvres » des décennies passées (à vingt, trente, quarante ou cinquante ans) réunies. Ce fait est en soi contre-intuitif : un artiste atteint généralement son apogée vers cinquante ou soixante ans ; l'apogée de Jiang Xian-er arrive si tard qu'il en est lui-même surpris. Sa surprise réside dans le fait qu'il sait pourquoi ce retard existe. Il utilise le verbe « donner » : « Taitung m'a donné ». Un peintre qui reconnaît avoir été nourri par une terre est un phénomène très rare dans l'auto-mythologie traditionnelle des artistes.
 
-## D'un atelier à un parc artistique : Lin Youhan, Stanley Yen et douze années
+## D'un atelier à un parc : Lin You-han, Yen Chang-shou et douze années
 
-Au printemps 2020, Jiang Hsien-yi, âgé de soixante-dix-huit ans, tient sa première rétrospective au Musée des beaux-arts de Taipei.
+Au printemps 2020, à l'âge de soixante-dix-huit ans, Jiang Xian-er a tenu sa première exposition rétrospective au Musée d'art de Taipei.
 
-Le critique et chercheur Wang Chia-chi en est le commissaire invité. « Jiang Hsien-yi : rétrospective » présente près de deux cents œuvres, des années 1960 jusqu'à la nouvelle série « Jinzun » de 2020[^32]. L'exposition se tient du 28 mars au 28 juin, en pleine pandémie de COVID-19, alors que de nombreuses galeries et musées suspendent leurs expositions et que le Musée des beaux-arts de Taipei limite aussi les flux. Malgré cela, elle attire environ 125 000 visiteurs et établit un record pour une exposition personnelle d'artiste pendant la pandémie[^32].
+Sous la direction de commissaire invité du critique d'art Wang Chia-chi, l'exposition « Jiang Xian-er : Rétrospective » présentait près de deux cents œuvres, allant des années 1960 jusqu'à la nouvelle série « Golden Chalice » (le Calice d'or) de 2020[^32]. La période d'exposition, du 28 mars au 28 juin, coïncidait avec la pandémie de COVID-19 ; de nombreuses galeries et musées avaient suspendu leurs activités, et le Musée d'art de Taipei limitait également le nombre de visiteurs. Malgré cela, l'exposition a attiré environ 125 000 visiteurs, établissant un record pour une exposition personnelle d'artiste durant la pandémie[^32].
 
-C'est la première fois que le milieu artistique taïwanais le voit dans son ensemble.
+Ce fut la première fois qu'il était pleinement reconnu par le milieu artistique de Taïwan.
 
-La scénographie de Wang Chia-chi adopte un procédé rétrospectif inversé : l'exposition part des couleurs de Jinzun pour remonter vers le noir de New York, puis encore vers le jeune diplômé de la NTNU en 1965[^33]. En parcourant ce trajet, le public ne voit pas « comment un peintre devient plus fort », mais « comment un peintre rentre chez lui ».
+La scénographie de Wang Chia-chi utilisait une technique de récit à rebours : l'exposition partait des couleurs éclatantes du _Golden Chalice_ pour remonter jusqu'au noir de la période new-yorkaise, puis revenait jusqu'au jeune diplômé de l'Université normale nationale de Taïwan en 1965[^33]. En suivant ce parcours, le public ne découvrait pas « comment un peintre est devenu puissant », mais plutôt « comment un peintre est rentré chez lui ».
 
-Après la rétrospective, Stanley Yen, président de la Fondation culturelle Alliance, le contacte[^34].
+Après cette rétrospective, Yen Chang-shou, président de la fondation à but non lucratif Public Culture Foundation, l'a contacté[^34].
 
-Stanley Yen est déjà installé à Taitung depuis plus de dix ans et a accompli plusieurs choses : créer la Fondation Alliance, fonder la Junyi International School, promouvoir l'éducation à Hualien et Taitung, soutenir la musique de chambre avec Taiwan Connection. Il croit que l'art peut transformer les régions éloignées ; il croit que Hualien et Taitung ne doivent pas seulement être des haltes touristiques, mais devenir des repères culturels de niveau international. Jiang Hsien-yi vit déjà à Jinzun depuis douze ans ; il croit que l'art peut purifier les cœurs et qu'un peintre ne doit pas seulement être un peintre, mais peut faire partie d'un parc artistique[^35].
+Yen Chang-shou résidait à Taitung depuis plus d'une décennie et avait accompli de nombreuses choses : la création de la Public Culture Foundation, la gestion de l'école internationale Chün-Yi, la promotion de l'éducation dans l'Est de Taïwan et le soutien au groupe de musique _Taiwan Connection_. Il est convaincu que l'art peut transformer les zones rurales et que l'Est de Taïwan ne doit pas être une simple étape pour les touristes, mais un monument culturel de classe internationale. Jiang Xian-er vivait à _Golden Chalice_ depuis douze ans ; Yen croyait que l'art pouvait purifier les cœurs et qu'un peintre ne devait pas être seulement un peintre, mais pouvait faire partie intégrante d'un parc artistique[^35].
 
-À eux deux, ils ont plus de cent ans.
+À eux deux, ils dépassaient l'âge de cent ans.
 
-Ils commencent alors une entreprise : construire à Jinzun un parc artistique qui exposera les peintures de Jiang Hsien-yi, accueillera de jeunes artistes en résidence et offrira aux enfants de Taitung un lieu où voir de l'art contemporain dès leur plus jeune âge.
+Ils ont commencé un projet : construire un parc artistique à _Golden Chalice_ pour exposer les peintures de Jiang Xian-er, permettre aux créateurs d'y séjourner pour échanger, et offrir aux enfants de Taitung un lieu où contempler l'art contemporain dès leur plus jeune âge.
 
-Pour le parc, Jiang Hsien-yi fait lui-même don de son ancien atelier et des terrains environnants[^36]. L'architecte choisi est Lin Youhan, installé en Allemagne[^37]. Il est moins célèbre, mais partage avec Jiang Hsien-yi une même sensibilité sur un point : l'architecture et la nature ne doivent pas s'écraser mutuellement.
+Le parc a été constitué grâce au don par Jiang Xian-er de son propre atelier et des terrains environnants[^36]. L'architecte choisi fut Lin You-han, qui résidait en Allemagne[^37]. Moins célèbre, il partageait pourtant une grande complicité avec Jiang Xian-er sur l'idée que « l'architecture et la nature ne doivent pas s'opposer ».
 
-Lin Youhan et Jiang Hsien-yi conçoivent le parc ensemble. Ils ne veulent pas d'un grand volume occupant le sommet de la colline ; ils divisent l'espace en cinq petits bâtiments, comme des graviers dispersés dans le paysage[^37] :
+Lin You-han et Jiang Xian-er ont conçu le parc ensemble. Ils ne voulaient pas d'un bâtiment massif dominant la colline, mais préféraient diviser l'espace en cinq petits pavillons, disposés comme des graviers éparpillés sur le paysage[^37] :
 
-- **Centre d'accueil Gongyuan** : l'entrée pour les visiteurs
-- **Pavillon Zhuhong** : hébergement de courte durée pour les artistes en résidence
-- **Pavillon Chenghan** : salle d'exposition principale
-- **Pavillon Xinyi** : deuxième salle d'exposition
-- **Pavillon Qincheng** : transformation de l'ancien atelier de Jiang Hsien-yi
+- **Centre d'accueil Gongyuan** : La première étape du parc, où se font la billetterie et la consigne[^43].
+- **Pavillon Xinyi** (première salle d'exposition) : Avant l'achèvement complet du parc, ce lieu servait d'atelier temporaire à Jiang Xian-er[^43].
+- **Pavillon Qincheng** (deuxième salle d'exposition) : Issu de l'extension de l'ancien atelier de Jiang Xian-er ; l'« espace de méditation » à l'intérieur fait partie de l'exposition permanente du parc[^43].
+- **Pavillon Cheng-han** (troisième salle d'exposition) : Conçu sur le modèle de la sculpture de Jiang Xian-er intitulée 〈13.5 ping〉, il est surnommé « la chapelle »[^43].
+- **Pavillon de réunion Zhuhong** : Lieu de résidence pour le directeur d'honneur et les artistes en résidence ; le premier étage abrite le café Debussy, qui est le seul espace de restauration de tout le parc[^43].
 
-Dans sa conception, Lin Youhan place la « lumière » au premier rang. Dans les salles présentant les œuvres des périodes parisienne et new-yorkaise de Jiang Hsien-yi, la lumière est guidée d'une manière presque sacrée ; dans celles consacrées aux œuvres de la période de Taitung, elle se détend, se déploie, porte les couleurs vives et le rythme de la nature[^37]. La lumière des fenêtres condamnées et celle des fenêtres ouvertes coexistent dans un même parc.
+Lors de la conception, Lin You-han a placé la « lumière » au premier plan. Dans les salles exposant les œuvres des périodes parisienne et new-yorkaise de Jiang Xian-er, la lumière est guidée de manière presque sacrée ; dans celles présentant ses œuvres de la période de Taitung, la lumière est plus décontractée et libre, portant les couleurs vibrantes et le rythme de la nature[^37]. La lumière des fenêtres scellées et la lumière ouverte coexistent au sein du même parc.
 
-Le parc ne demande aucune subvention publique : tous les fonds proviennent de Jiang Hsien-yi lui-même et d'entrepreneurs soutenant les arts[^38]. À l'ouverture, Stanley Yen déclare : « Nous ne voulons pas capter les ressources de la société ; nous espérons plutôt accomplir un rêve par nos propres forces. »[^39]
+Le parc n'a sollicité aucune subvention gouvernementale — l'intégralité des fonds provient de Jiang Xian-er lui-même et d'entrepreneurs soutenant l'art[^38]. Lors de l'inauguration, Yen Chang-shou a déclaré : « Nous ne voulons pas accaparer les ressources de la société, mais plutôt utiliser notre propre force pour accomplir un rêve. »[^39]
 
-De la première conversation à l'ouverture, ils avancent pendant douze ans[^40].
+Des premières discussions à l'inauguration, ils ont parcouru douze années[^40].
 
-Le 15 mars 2025, le Parc artistique Jiang Hsien-yi ouvre officiellement au public[^41]. Son exposition inaugurale s'intitule « Lumière, beauté et purification »[^41].
+Le 15 mars 2025, le Parc artistique Jiang Xian-er a officiellement ouvert ses portes au public[^41]. L'exposition inaugurale s'intitule « Lumière, Beauté et Purification »[^41].
 
-Ce jour-là, Jiang Hsien-yi a quatre-vingt-trois ans.
+Ce jour-là, Jiang Xian-er avait quatre-vingt-trois ans.
 
-![Œuvre d'installation « Nuit de purification » de Jiang Hsien-yi — une structure cubique de barres d'acier entrelacées comme des épines suspendue dans l'obscurité, la lumière tombant d'en haut](/article-images/art/jiang-chien-jinzun-purification-night.webp)
-_Œuvre d'installation « Nuit de purification » de Jiang Hsien-yi. « Purification » et « lumière » sont l'un des thèmes centraux de l'exposition inaugurale « Lumière, beauté et purification » du Parc artistique Jiang Hsien-yi en 2025. Source : [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works), collection Jinzun / Nuit de purification. Fair use editorial commentary._
+![Installation 〈Nuit de la purification〉 de Jiang Xian-er — une structure cubique de tiges d'acier entrelacées comme des épines flotte dans une pièce sombre, éclairée par une lumière venant du haut](/article-images/art/jiang-chien-jinzun-purification-night.webp)
+_Installation 〈Nuit de la purification〉 de Jiang Xian-er. La « purification » et la « lumière » sont l'un des thèmes centraux de l'exposition inaugurale du Parc artistique Jiang Xian-er en 2025, intitulée « Lumière, Beauté et Purification ». Source : [Site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works) Collection d'œuvres Golden Chalice / Nuit de la purification. Usage équitable pour commentaire éditorial._
 
-## À quatre-vingt-trois ans, il n'ouvre pas seulement les fenêtres
+## À quatre-vingt-trois ans, il n'a pas seulement ouvert une fenêtre
 
-Revenons à cet hiver 1967 : il a vingt-cinq ans, a quitté la NTNU deux ans plus tôt, vole vers Paris porté par son admiration pour Giacometti et découvre que son idole est morte l'année précédente.
+Retour en cet hiver 1967 — il a vingt-cinq ans, vient d'être diplômé de l'Université normale de Taïwan depuis deux ans et s'envole pour Paris avec une admiration profonde pour Giacometti, pour découvrir que son idole est décédée l'année précédente.
 
-Ce jour-là, il a l'impression que son cœur a été vidé.
+Ce jour-là, il a eu « le cœur vidé ».
 
-De ce jour jusqu'au 15 mars 2025, date de l'ouverture du parc artistique de Jinzun : cinquante-huit ans.
+De ce jour jusqu'à l'inauguration du Golden Chalice Art Park le 15 mars 2025 — cinquante-huit ans.
 
-Entre-temps :
+Ce qui s'est passé entre-temps :
 
-Il vit quarante-cinq ans à Paris, New York et Taipei ; pendant trente ans, il condamne toutes les fenêtres pour chercher la lumière intérieure. En 1975, sa première exposition personnelle à New York ne vend aucune toile. En 1982, dans une mansarde parisienne, il peint la série « Notre-Dame de Paris », première fois où il estime avoir la qualification pour être peintre. En 1994, il tient sa deuxième exposition personnelle à New York. Au milieu des années 1990, son père tombe ; il revient à Taipei, vit dans la maison vide et perméable à la pluie de la rue Jinzhou, va au temple Longshan regarder les colonnes et peint la série « Temple centenaire ». En 1997, il organise à Taïwan sa première exposition après trente ans d'absence, mais personne à Taïwan ne le reconnaît. En 2008, à soixante-cinq ans, il s'installe à Jinzun, Taitung, et ouvre pour la première fois les fenêtres. En 2020, à soixante-dix-huit ans, il tient une rétrospective au Musée des beaux-arts de Taipei ; Taïwan le voit pour la première fois.
+Il a vécu quarante-cinq ans à Paris, New York et Taipei ; durant trente de ces années, il a scellé toutes ses fenêtres pour chercher la lumière intérieure. Lors de sa première exposition personnelle à New York en 1975, aucune toile ne fut vendue. En 1982, dans une mansarde parisienne, il peint la série « Notre-Dame de Paris », moment où il se sent pour la première fois digne d'être appelé peintre. En 1994, sa deuxième exposition personnelle à New York. Au milieu des années 1990, suite à la chute de son père, il retourne à Taipei et s'installe dans une maison vide et délabrée de la rue Jinzhou ; il va observer les piliers du temple Longshan et peint la série « Temples centenaires ». En 1997, il revient à Taïwan pour sa première exposition après trente ans d'absence, mais personne ne le reconnaît. En 2008, à soixante-cinq ans, il s'installe au Golden Chalice à Taitung et ouvre ses fenêtres pour la première fois. En 2020, à soixante-dix-huit ans, il tient une rétrospective au Musée d'art de Taipei ; c'est la première fois que Taïwan le découvre.
 
-En 2025, à quatre-vingt-trois ans, le parc artistique de Jinzun qu'il a conçu avec Lin Youhan et que Stanley Yen l'a aidé à construire ouvre ses portes.
+En 2025, à quatre-vingt-trois ans, le Golden Chalice Art Park — conçu avec Lin You-han et construit avec l'aide de Yen Chang-shou — est inauguré.
 
-Il lui a fallu cinquante-huit ans pour peindre les meilleures œuvres de sa vie. Il lui a fallu ces mêmes cinquante-huit ans pour devenir quelqu'un qui accepte d'ouvrir les fenêtres.
+Il lui a fallu cinquante-huit ans pour peindre les plus belles œuvres de sa vie. Il lui a fallu ces mêmes cinquante-huit ans pour devenir un homme prêt à ouvrir ses fenêtres.
 
-Dans ses dernières années, on lui demande souvent : que voulez-vous encore faire ?
+À la fin de sa vie, on lui demande souvent : « Que voulez-vous encore faire ? »
 
-« Je ne sais pas combien de temps je pourrai encore peindre, mais ce que je veux faire maintenant, et ce que je trouve le plus important, c'est laisser toute l'expérience de ma vie à la génération suivante. »[^42]
+« Je ne sais pas combien de temps je pourrai encore peindre, mais ce que je veux le plus faire et ce qui me semble le plus important aujourd'hui, c'est de transmettre toute l'expérience de ma vie à la génération suivante. » [^42]
 
-« Je suis prêt à consacrer toute ma vie à la création jusqu'à la fin. Je crois que l'art peut purifier les cœurs. »[^35]
+« Je suis prêt à consacrer toute ma vie à la création jusqu'au bout ; je crois que l'art peut purifier les cœurs. » [^35]
 
 L'art peut purifier les cœurs.
 
-Aucun mot de cette phrase n'est difficile. Ce qui est difficile, c'est que celui qui la prononce ait dû vivre cinquante-huit ans, condamner les fenêtres pendant trente ans, rentrer une fois chez lui, ouvrir les fenêtres, voir un océan Pacifique passer du noir au bleu puis à l'orange, écouter les Goldberg de Bach des milliers de fois.
+Aucun mot de cette phrase n'est difficile. Ce qui est difficile, c'est pour celui qui prononce ces mots d'avoir vécu cinquante-huit ans, d'avoir scellé ses fenêtres pendant trente ans, d'être rentré chez lui une fois, d'avoir ouvert ses fenêtres, d'avoir vu l'océan Pacifique passer du noir au bleu puis à l'orange, et d'avoir écouté les _Goldberg Variations_ de Bach des milliers de fois.
 
-> **✦** « Taitung m'a donné une deuxième vie artistique. »
+> **✦** « Taitung m'a offert une seconde vie artistique. »
 
-Quatre heures et demie du matin, Jinzun. Jiang Hsien-yi prépare une tasse de café et pose l'aiguille : le sol grave qui ouvre les Variations Goldberg interprétées par Gould résonne. L'océan Pacifique est encore noir, les contours de l'île Verte demeurent dans la brume. L'odeur du café et le piano de Bach circulent ensemble au bord de la fenêtre non condamnée.
+Quatre heures et demie du matin, au Golden Chalice. Jiang Xian-er se prépare un café et pose le saphir sur le disque — la note de basse « sol » qui ouvre les _Goldberg Variations_ interprétées par Gould résonne ; l'océan Pacifique est encore noir, et la silhouette de l'île de Green est toujours noyée dans la brume. L'arôme du café et le piano de Bach s'écoulent ensemble près de la fenêtre restée ouverte.
 
 À quatre-vingt-trois ans, il regarde la surface de la mer passer lentement du noir au bleu.
 
-Il faudra encore une heure avant que le soleil monte derrière l'île Verte.
+Il faudra attendre une heure pour que le soleil surgisse de derrière l'île de Green.
 
-**Pour aller plus loin** :
+**Lecture complémentaire** :
 
-- [Le développement de la sculpture contemporaine à Taïwan](/fr/art/development-of-contemporary-taiwanese-sculpture) — De Huang Tu-shui à Yang Ying-feng puis aux installations contemporaines, un siècle de création tridimensionnelle taïwanaise
-- [L'éducation artistique et le développement des académies d'art à Taïwan](/fr/art/taiwanese-art-education-and-academic-development) — Les systèmes de formation du département des beaux-arts de la NTNU, du Collège national des arts et du département des beaux-arts de Tunghai, et le contexte académique de Jiang Hsien-yi
-- [Commissaires d'exposition et construction de la culture artistique à Taïwan](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — De Wang Chia-chi aux pratiques curatoriales contemporaines, comment les rétrospectives reforment l'image publique des artistes
-- [Art contemporain](/fr/art/contemporary-art) — Le contexte général du mouvement de peinture abstraite taïwanais après les années 1960, du Groupe de Mai et du Groupe oriental
+- [Le développement de la sculpture contemporaine à Taïwan](/fr/art/development-of-contemporary-taiwanese-sculpture) — De Huang Tu-shui à Yang Ying-feng jusqu'à l'installation contemporaine, un siècle de création tridimensionnelle à Taïwan
+- [Éducation artistique et développement des académies à Taïwan](/fr/art/taiwanese-art-education-and-academic-development) — Le système de formation du département d'art de l'Université normale, de l'École nationale d'art et de la Faculté des beaux-arts de Tunghai, le parcours académique de Jiang Xian-er
+- [Commissaires d'exposition et construction culturelle artistique à Taïwan](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — De Wang Chia-chi aux pratiques actuelles de commissariat, comment les expositions rétrospectives remodèlent l'image publique des artistes
+- [Art contemporain](/fr/art/contemporary-art) — Le contexte global du mouvement de la peinture abstraite à Taïwan après les années 1960, le May Fifth Art Group et l'Oriental Art Association
 
 ## Sources des images
 
-Cet article utilise 7 images sous licence, toutes mises en cache dans `public/article-images/art/` afin d'éviter les liens directs vers les serveurs sources :
+Cet article utilise 7 images sous licence, toutes mises en cache dans `public/article-images/art/` afin d'éviter le hotlinking vers les serveurs sources :
 
-**Photos d'environnement / contexte (3 images, licence CC)** :
+**Photos d'environnement / de paysage (3 images, licence CC)** :
 
-- « Clouds over beautiful blue sea at Sanxiantai on 4 February 2014 » (hero) — Photo : lwtt93 (Flickr), CC BY 2.0, source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clouds_over_beautiful_blue_sea_at_Sanxiantai_on_4_February_2014.jpg)
-- « Cathédrale Notre-Dame exterior, Paris » — Photo : Fernando Losada Rodríguez, CC BY-SA 4.0, source : [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(exterior).107_-_Paris.jpg>)
-- « Vue sur la baie de Meiliwan depuis le tronçon Dulan de la route provinciale 11 » — Photo : Aa7778273, CC BY-SA 4.0, source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%AA%E5%8F%B011%E7%B7%9A%E9%83%BD%E8%98%AD%E6%AE%B5%E7%9C%BA%E6%9C%9B%E7%BE%8E%E9%BA%97%E7%81%A3.jpg)
+- 〈Clouds over beautiful blue sea at Sanxiantai on 4 February 2014〉 (image principale) — Photo : lwtt93 (Flickr), CC BY 2.0, source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clouds_over_beautiful_blue_sea_at_Sanxiantai_on_4_February_2014.jpg)
+- 〈Cathédrale Notre-Dame exterior, Paris〉 — Photo : Fernando Losada Rodríguez, CC BY-SA 4.0, source : [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(exterior).107_-_Paris.jpg>)
+- 〈Vue de la baie de Beiliwan depuis le tronçon de Doulan de la ligne Taïwan 11〉 — Photo : Aa7778273, CC BY-SA 4.0, source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%AA%E5%8F%B011%E7%B7%9A%E9%83%BD%E8%98%AD%E6%AE%B5%E7%9C%BA%E6%9C%9B%E7%BE%8E%E9%BA%97%E7%81%A3.jpg)
 
-**Œuvres de Jiang Hsien-yi (4 images, site officiel de l'artiste, fair use editorial commentary)** :
+**Œuvres de Jiang Xian-er (4 images, site officiel de l'artiste, usage équitable pour commentaire éditorial)** :
 
-- **jiang-chien-baiNianMiao-1998.jpg** (§L'encens du temple Longshan) — « Temple centenaire », série 1998, d'après le [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works) — Fair use editorial commentary sur la série 百年廟 de Paul Chiang
-- **jiang-chien-bisirian-2010.jpg** (§Les « Goldberg » de Gould) — « Le Rêve de Pisirian », série 2010, d'après le [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works) — Fair use editorial commentary sur la série Le Rêve de Pisirian
-- **jiang-chien-silver-lake-2008.jpg** (§Les « Goldberg » de Gould) — « Lac d'argent », série 2008, d'après le [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works) — Fair use editorial commentary sur la série Lac d'argent
-- **jiang-chien-jinzun-purification-night.jpg** (§D'un atelier à un parc artistique) — « Nuit de purification », installation, d'après le [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/works) — Fair use editorial commentary sur le thème central de l'exposition inaugurale du Parc artistique Jiang Hsien-yi en 2025, « Lumière, beauté et purification »
+- **jiang-chien-baiNianMiao-1998.jpg** (§ L'encens du temple Longshan) — Une œuvre de la série 〈百年廟〉 (_Centenaire des temples_), 1998, provenant du [site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works) — Usage équitable pour commentaire éditorial sur la série 百年廟 de Paul Chiang.
+- **jiang-chien-bisirian-2010.jpg** (§ Le 〈Guodébǎo〉 de Gautier) — Une œuvre de la série 〈比西里岸之夢〉 (_Le rêve de Pisirian_), 2010, provenant du [site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works) — Usage équitable pour commentaire éditorial sur la série 比西里岸之夢.
+- **jiang-chien-silver-lake-2008.jpg** (§ Le 〈Guodébǎo〉 de Gautier) — Une œuvre de la série 〈銀湖〉 (_Lac d'argent_), 2008, provenant du [site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works) — Usage équitable pour commentaire éditorial sur la série 銀湖.
+- **jiang-chien-jinzun-purification-night.jpg** (§ D'un atelier à un parc artistique) — Installation 〈淨化之夜〉 (_Nuit de purification_), provenant du [site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/works) — Usage équitable pour commentaire éditorial sur le thème central « Lumière, beauté et purification » de l'exposition d'ouverture du Parc artistique Jiang Xian-er en 2025.
 
-Pour voir davantage d'œuvres en haute résolution, veuillez consulter le [site officiel de l'artiste Jiang Hsien-yi](https://www.paulchiang.org/), le [Parc artistique Jiang Hsien-yi](https://www.paulchiangartcenter.org/) et la [page de la rétrospective 2020 au Musée des beaux-arts de Taipei](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=665).
+Pour découvrir davantage d'œuvres en haute résolution, veuillez consulter le [site officiel de l'artiste Jiang Xian-er](https://www.paulchiang.org/), le [Parc artistique Jiang Xian-er](https://www.paulchiangartcenter.org/) ou la [page de l'exposition rétrospective de 2020 du Musée d'art de Taipei](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=665).
 
 ## Références
 
-[^1]: [優人物／江賢二：勾勒孤寂裡的豁然、要畫到生命的最後一刻](https://500times.udn.com/wtimes/story/12670/6680774) — Entretien de United Daily News « 500 Times » publié en 2022, dans lequel Jiang Hsien-yi explique le motif de la « peinture aux fenêtres condamnées » et retrace en détail l'évolution de sa conception de la création, de Paris et New York à Taitung.
+[^1]: [Yourenwu / Jiang Xian-er : Tracer la clarté dans la solitude, peindre jusqu'au dernier instant de la vie](https://500times.udn.com/wtimes/story/12670/6680774) — Une interview de l'édition « 500 Collections » du United Daily News en 2022. Jiang Xian-er y explique ses motivations pour peindre « face à une fenêtre scellée » et documente l'évolution de sa vision créative de Paris et New York jusqu'à Taitung.
 
-[^2]: [北美館《江賢二回顧展》 從封窗的租屋到晴朗的海岸線](https://artemperor.tw/focus/3204) — Reportage approfondi d'Artemperor sur la rétrospective du Musée des beaux-arts de Taipei en 2020, décrivant la vie de Jiang Hsien-yi dans la maison vide et perméable à la pluie de la rue Jinzhou à Taipei, ainsi que la genèse de la série « Temple centenaire ».
+[^2]: [Exposition rétrospective de Jiang Xian-er au Musée d'Art de Taipei : De la location avec fenêtres scellées à la ligne de côte ensoleillée](https://artemperor.tw/focus/3204) — Un reportage approfondi de l'art web Po Chi Chung en 2020 sur l'exposition rétrospective du Musée d'Art de Taipei, décrivant la vie de Jiang Xian-er dans une maison vide et pluvieuse de la rue Jinzhou à Taipei et la naissance de sa série « Temples Centenaires ».
 
-[^3]: [江賢二藝術園區官方網站](https://www.paulchiangartcenter.org/) — Page d'information officielle du Parc artistique Jiang Hsien-yi, indiquant la date d'ouverture du 15 mars 2025, la conception menée avec Lin Youhan et la structure en cinq bâtiments.
+[^3]: [Site officiel du Parc Artistique Jiang Xian-er](https://www.paulchiangartcenter.org/) — Page d'information officielle du Parc Artistique Jiang Xian-er, indiquant la date d'ouverture le 15 mars 2025, la co-conception par Lin You-han et la structure des cinq bâtiments.
 
-[^4]: [江賢二藝術家網站 大事年表](https://www.paulchiang.org/timeline) — Chronologie complète du site officiel de Jiang Hsien-yi, mentionnant les moments clés : naissance à Taichung le 1er février 1942, entrée à la NTNU en 1960, diplôme en 1965, Paris en 1967, etc.
+[^4]: [Site officiel de l'artiste Jiang Xian-er : Chronologie des événements majeurs](https://www.paulchiang.org/timeline) — Chronologie complète du site officiel de Jiang Xian-er, mentionnant des moments clés tels que sa naissance à Taichung le 1er février 1942, son entrée à l'Université Normale de Taipei en 1960, son diplôme en 1965 et son arrivée à Paris en 1967.
 
-[^5]: [專訪當代藝術家江賢二：半世紀的生命追索，做人當比藝術更優先](https://www.thenewslens.com/article/135161) — Entretien approfondi de The News Lens, qui relate la mort de sa mère dans l'enfance, les affaires de son père à l'étranger et la consolation trouvée dans la musique classique durant son enfance.
+[^5]: [Interview de l'artiste contemporain Jiang Xian-er : Une quête existentielle d'un demi-siècle, l'humain doit primer sur l'art](https://www.thenewslens.com/article/135161) — Une interview approfondie de l'agence TNL (關鍵評論網), retraçant le parcours familial de Jiang Xian-er : la perte de sa mère durant son enfance, son père faisant des affaires à l'étranger, et le réconfort qu'il trouvait dans la musique classique pendant son jeune âge.
 
-[^6]: [江賢二藝術家網站 簡介](https://www.paulchiang.org/about) — Présentation officielle de l'artiste Jiang Hsien-yi, comprenant son entrée en 1960 au département des beaux-arts de la NTNU, son parcours de formation et les tournants de sa création.
+[^6]: [Site officiel de l'artiste Jiang Xian-er : Biographie](https://www.paulchiang.org/about) — Biographie officielle de l'artiste Jiang Xian-er, incluant son admission au département d'art de l'Université Normale en 1960, son parcours d'apprentissage et les tournants de sa création.
 
-[^7]: [第 25 屆傑出校友：江賢二](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=23690) — Page d'actualité de l'Université normale nationale de Taïwan consacrée en 2024 aux anciens élèves remarquables de la 25e promotion, citant les commentaires de Liao Chi-chun, « C'est l'œuvre d'un génie », et de Chen Hui-kun, « À l'avenir, tu n'auras plus besoin de dessiner des plâtres ! », à propos de Jiang Hsien-yi étudiant.
+[^7]: [25ème Lauréat des Alumni Distingués : Jiang Xian-er](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=23690) — Page de présentation du 25ème lauréat des alumni distingués de l'Université Nationale de Taiwan Normal en 2024, citant les commentaires de ses professeurs durant ses études : Liao Ji-chun disant « C'est l'œuvre d'un génie » et Chen Hui-kun disant « Tu n'auras plus jamais besoin de dessiner des bustes en plâtre ! ».
 
-[^8]: [江賢二 維基百科](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E8%B3%A2%E4%BA%8C) — Article Wikipédia consacré à Jiang Hsien-yi, mentionnant la fondation en janvier 1965 du « Groupe des Années » avec Yao Qingzhang et Gu Chongguang, ainsi que la sélection de ses œuvres en septembre à la Biennale de São Paulo, au Brésil.
+[^8]: [Jiang Xian-er - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E8%B3%A2%E4%BA%8C) — Entrée Wikipédia de Jiang Xian-er, mentionnant la formation du groupe « Era Painting Society » avec Yao Ching-chang et Gu Chung-kuang en janvier 1965, et la sélection de ses œuvres pour la Biennale de São Paulo au Brésil en septembre de la même année.
 
-[^9]: [為賈柯梅蒂奔赴巴黎夢土，因大師殞逝轉往未知紐約](https://www.kaiak.tw/paulchiang/) — Analyse approfondie de Kaiak Travel Asia sur la rétrospective du Musée des beaux-arts de Taipei en 2020, relatant le tournant de 1967, lorsque Jiang Hsien-yi arrive à Paris et découvre que Giacometti (Alberto Giacometti, 1901-1966) est mort depuis un an.
+[^9]: [Partir pour la terre promise de Paris pour Giacometti, puis vers l'inconnu de New York suite au décès du maître](https://www.kaiak.tw/paulchiang/) — Une critique approfondie de Kaiak (Voyageur d'Asie) sur l'exposition rétrospective de 2020 au Musée d'Art de Taipei, décrivant le tournant de la vie de Jiang Xian-er qui, à son arrivée à Paris en 1967, constatait que Giacometti (Alberto Giacometti, 1901-1966) était décédé depuis un an.
 
-[^10]: [江賢二藝術家介紹](https://www.taiwanarttogo.com/pages/%E6%B1%9F%E8%B3%A2%E4%BA%8C-%E8%97%9D%E8%A1%93%E5%AE%B6-%E4%BB%8B%E7%B4%B9) — Présentation officielle de l'artiste sur Taiwan Art Togo, indiquant que Jiang Hsien-yi et son épouse Fan Xianglan partent successivement à Paris, puis, après le mouvement étudiant parisien de 1968, se rendent ensemble à New York.
+[^10]: [Présentation de l'artiste Jiang Xian-er](https://www.taiwanarttogo.com/pages/%E6%B1%9F%E8%B3%A2%E4%BA%8C-%E8%97%9D%E8%A1%93%E5%AE%B6-%E4%BB%8B%E7%B4%B9) — Biographie officielle de Taiwan Art Togo, indiquant que Jiang Xian-er et son épouse Fan Xiang-lan se sont rendus successivement à Paris, puis ont rejoint New York ensemble après les troubles étudiants de Paris en 1968.
 
-[^11]: [江賢二藝術家網站 簡介（同 ^6）](https://www.paulchiang.org/about) — Témoignage de Jiang Hsien-yi sur l'émotion ressentie à son arrivée à Paris lorsqu'il découvre que Giacometti est mort : « J'avais l'impression que mon cœur avait été vidé. »
+[^11]: [Site officiel de l'artiste Jiang Xian-er : Biographie (Idem ^6)](https://www.paulchiang.org/about) — Récit personnel de Jiang Xian-er décrivant son sentiment d'être « vidé intérieurement » lorsqu'il a découvert à Paris que Giacometti était déjà décédé.
 
-[^12]: [江賢二藝術家網站 大事年表（同 ^4）](https://www.paulchiang.org/timeline) — Entrée de 1968 : « De mai à juin, le mouvement étudiant éclate à l'Université de Paris, suivi d'une grève générale nationale ; départ pour New York. »
+[^12]: [Site officiel de l'artiste Jiang Xian-er : Chronologie (Idem ^4)](https://www.paulchiang.org/timeline) — Entrée pour 1968 : « De mai à juin, les mouvements étudiants éclatent à l'Université de Paris, suivis d'une grève nationale ; départ pour New York ».
 
-[^13]: [江賢二 非池中藝術網](https://artemperor.tw/knowledge/2590) — Page encyclopédique d'Artemperor consacrée à l'artiste, décrivant le style des premières « œuvres aux fenêtres condamnées » de Jiang Hsien-yi et les thèmes du « vide silencieux, de la solitude, du désespoir, de la mort, des funérailles au loin ».
+[^13]: [Jiang Xian-er - Po Chi Chung Art Web](https://artemperor.tw/knowledge/2590) — Page encyclopédique de l'artiste sur le site Po Chi Chung, décrivant le style précoce des « œuvres de fenêtres scellées » de Jiang Xian-er et ses thèmes tels que le vide, la solitude, le désespoir, la mort et les funérailles lointaines.
 
-[^14]: [江賢二藝術家網站 大事年表（同 ^4）](https://www.paulchiang.org/timeline) — Entrée de 1975 indiquant qu'Ivan Karp recommande Jiang Hsien-yi pour sa première exposition personnelle new-yorkaise à la Lamagna Gallery.
+[^14]: [Site officiel de l'artiste Jiang Xian-er : Chronologie (Idem ^4)](https://www.paulchiang.org/timeline) — L'entrée pour 1975 mentionne que Ivan Karp a recommandé Jiang Xian-er pour sa première exposition solo à New York à la Lamagna Gallery.
 
-[^15]: [江賢二 非池中藝術網（同 ^13）](https://artemperor.tw/knowledge/2590) — Indique que Jiang Hsien-yi tient en 1994 sa deuxième exposition personnelle à New York dans la galerie O.K. Harris, fondée par Ivan Karp (1969-2014), dix-neuf ans après la première.
+[^15]: [Jiang Xian-er - Po Chi Chung Art Web (Idem ^13)](https://artemperor.tw/knowledge/2590) — Mention de la deuxième exposition solo de Jiang Xian-er à New York en 1994 dans la galerie O.K. Harris fondée par Ivan Karp (1969-2014), soit 19 ans après sa première exposition.
 
-[^16]: [優人物／江賢二（同 ^1）](https://500times.udn.com/wtimes/story/12670/6680774) — Conseils de Jiang Hsien-yi aux jeunes artistes.
+[^16]: [Personnalités inspirantes / Jiang Xian-er (Idem ^1)](https://500times.udn.com/wtimes/story/12670/6680774) — Jiang Xian-er relate ses conseils aux jeunes artistes.
 
-[^17]: [臺北市立美術館「江賢二：回顧展」展覽說明](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=665) — Page officielle de l'exposition « Jiang Hsien-yi : rétrospective » du Musée des beaux-arts de Taipei en 2020, détaillant la création de la série « Notre-Dame de Paris » en 1982 dans un atelier mansardé au-dessus d'un cinéma du Quartier latin.
+[^17]: [Description de l'exposition « Jiang Xian-er : Rétrospective » du Musée d'art de Taipei](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=665) — Page officielle de la rétrospective de 2020 au Musée d'art de Taipei, détaillant les détails de la création de la série « Notre-Dame de Paris » par Jiang Xian-er en 1982 dans son atelier sous les toits du Quartier latin à Paris.
 
-[^18]: [北美館《江賢二回顧展》（同 ^2）](https://artemperor.tw/focus/3204) — Témoignage de Jiang Hsien-yi : « Ce n'est qu'après avoir peint la série “Notre-Dame de Paris” que j'ai eu le sentiment d'y être parvenu, que l'art était une voie que je pouvais suivre, que j'avais, dans cette vie, la qualification pour être peintre. »
+[^18]: [Musée d'art de Taipei « Rétrospective de Jiang Xian-er » (Idem ^2)](https://artemperor.tw/focus/3204) — Jiang Xian-er relate : « Ce n'est qu'en peignant la série "Notre-Dame de Paris" que j'ai eu le sentiment d'avoir réussi, que l'art était une voie possible pour moi et que j'étais digne d'être peintre de ma vie. »
 
-[^19]: [為賈柯梅蒂奔赴巴黎夢土（同 ^9）](https://www.kaiak.tw/paulchiang/) — Entretien de Kaiak Travel Asia relatant le tournant du milieu des années 1990, lorsque Jiang Hsien-yi commence à faire des allers-retours à Taipei après la chute et la blessure de son père.
+[^19]: [Partir pour la terre promise de Paris pour Giacometti (Idem ^9)](https://www.kaiak.tw/paulchiang/) — L'entretien de Kaiak Travel Reading Asia retrace le tournant de la vie de Jiang Xian-er au milieu des années 1990, lorsqu'il a commencé à faire des allers-retours entre Taipei et l'étranger suite à la blessure de son père après une chute.
 
-[^20]: [古典樂、廟宇都是靈感！北美館「江賢二：回顧展」揭幕](https://www.shoppingdesign.com.tw/post/view/5275) — Reportage de ShoppingDesign sur la rétrospective du Musée des beaux-arts de Taipei en 2020, indiquant qu'après son retour à Taïwan en 1998, Jiang Hsien-yi puise son inspiration dans le temple Longshan, le temple Bao'an et les temples de Mazu pour créer la série « Temple centenaire ».
+[^20]: [La musique classique et les temples sont des sources d'inspiration ! Inauguration de la rétrospective « Jiang Xian-er » au Musée d'art de Taipei](https://www.shoppingdesign.com.tw/post/view/5275) — Reportage de ShoppingDesign sur la rétrospective de 2020 au Musée d'art de Taipei, relatant le processus de création de la série « Temples Centenaires » par Jiang Xian-er après son retour à Taïwan en 1998, lorsqu'il est allé puiser l'inspiration dans des temples tels que le temple Longshan, le temple Baoan et le temple Mazu.
 
-[^21]: [江賢二藝術家網站 大事年表（同 ^4）](https://www.paulchiang.org/timeline) — Entrée de 1997 : « En mars, exposition personnelle à la galerie Eslite de Taipei ; première exposition personnelle de retour à Taïwan après trente ans d'absence » ; entrée de 1998 : « En novembre, deuxième exposition personnelle à la galerie Eslite de Taipei. »
+[^21]: [Chronologie du site officiel de l'artiste Jiang Xian-er (Idem ^4)](https://www.paulchiang.org/timeline) — L'entrée de 1997 indique : « Mars, exposition personnelle à la Eslite Gallery de Taipei ; également sa première exposition après un retour à Taïwan après 30 ans d'absence » ; l'entrée de 1998 indique : « Novembre, deuxième exposition personnelle à la Eslite Gallery de Taipei ».
 
-[^22]: [台東金樽的四季──江賢二從黑白到眾彩交響的藝術](https://www.thealliance.org.tw/story/1342) — Reportage approfondi de la Fondation culturelle Alliance en 2020, décrivant la scène où Jiang Hsien-yi et son épouse parcourent la côte est en voiture en 2007 à la recherche de Jinzun, ainsi que l'environnement du lieu, face au Pacifique et offrant une vue lointaine sur l'île Verte.
+[^22]: [Les quatre saisons du Golden Chalice de Taitung — L'art de Jiang Xian-er, de l'ombre et de la lumière à la symphonie des couleurs](https://www.thealliance.org.tw/story/1342) — Reportage approfondi de la Fondation Culturelle de la Plateforme Publique en 2020, décrivant la scène où le couple Jiang Xian-er a parcouru la côte est en voiture en 2007 à la recherche du Golden Chalice, ainsi que l'environnement de ce lieu faisant face au Pacifique avec vue sur l'île de Green Island.
 
-[^23]: [優人物／江賢二（同 ^1）](https://500times.udn.com/wtimes/story/12670/6680774) — Souvenir de Jiang Hsien-yi sur l'intuition décisive du choix de Jinzun : « Mais nous avons senti que c'était ici. »
+[^23]: [Personnalités inspirantes / Jiang Xian-er (Idem ^1)](https://500times.udn.com/wtimes/story/12670/6680774) — Jiang Xian-er relate son intuition cruciale pour le choix de l'emplacement du Golden Chalice : « Mais nous avons senti que c'était ici. »
 
-[^24]: [江賢二藝術家網站 大事年表（同 ^4）](https://www.paulchiang.org/timeline) — Entrée de 2007 : « À Jinzun, canton de Donghe, comté de Taitung, il ouvre un terrain et construit lui-même une résidence et un atelier adossés à la montagne et tournés vers la mer » ; entrée de 2008 : « La résidence et l'atelier de Jinzun, Taitung, sont achevés ; installation officielle et durable sur place. »
+[^24]: [Chronologie du site officiel de l'artiste Jiang Xian-er (Idem ^4)](https://www.paulchiang.org/timeline) — L'entrée de 2007 mentionne : « Construction d'une résidence et d'un atelier adossés à la montagne et face à la mer au Golden Chalice, dans le township de Donghe, comté de Taitung » ; l'entrée de 2008 mentionne : « Achèvement de la résidence et de l'atelier du Golden Chalice à Taitung, installation officielle et résidence permanente sur place ».
 
-[^25]: [比西里岸部落 國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?id=272489&indexCode=Culture_Object) — Page officielle de la Banque nationale de la mémoire culturelle, expliquant que Pisirian signifie en langue amis « lieu où l'on garde les moutons » (pi : verbe « faire paître » ; sili : mouton ; an : lieu), situé à 700 mètres au nord-ouest de Sanxiantai.
+[^25]: [Village de Pisirian — Archives de la Mémoire Culturelle Nationale](https://tcmb.culture.tw/zh-tw/detail?id=272489&indexCode=Culture_Object) — Page officielle des Archives de la Mémoire Culturelle Nationale, expliquant que le terme Amis « Pisirian » signifie « lieu de pâturage des moutons » (pi : verbe paître, sili : mouton, an : lieu), situé à 700 mètres au nord-ouest de Sanxiantai.
 
-[^26]: [江賢二藝術家網站 簡介（同 ^6）](https://www.paulchiang.org/about) — Témoignage de Jiang Hsien-yi sur la transformation de son usage des couleurs après son installation à Taitung : « Ces couleurs, je ne les avais jamais utilisées ; de toute ma vie, je n'avais jamais pensé pouvoir peindre de telles œuvres. »
+[^26]: [Présentation du site officiel de l'artiste Jiang Xian-er (Idem ^6)](https://www.paulchiang.org/about) — Jiang Xian-er relate le changement dans son utilisation des couleurs après avoir déménagé à Taitung : « Je n'avais jamais utilisé ces couleurs auparavant, et je n'avais jamais pensé de ma vie pouvoir peindre de telles œuvres. »
 
-[^27]: [台東時期 作品集](https://www.paulchiang.org/works03) — Portfolio officiel de la période de Taitung sur le site de Jiang Hsien-yi, comprenant les séries postérieures à 2008 telles que « Le Rêve de Pisirian », « Sur les ailes du chant », « Jinzun » et « Lac d'argent ».
+[^27]: [Collection d'œuvres de la période de Taitung](https://www.paulchiang.org/works03) — Collection d'œuvres de la période de Taitung sur le site officiel de l'artiste Jiang Xian-er, comprenant des séries créées après 2008 telles que « Le rêve de Pisirian », « Portant les ailes du chant », « Golden Chalice » et « Lac d'argent ».
 
-[^28]: [台東金樽的四季（同 ^22）](https://www.thealliance.org.tw/story/1342) — Reportage approfondi de la Fondation culturelle Alliance, où Jiang Hsien-yi décrit l'accroissement de la liberté créative après son installation à Taitung.
+[^28]: [Les quatre saisons du Golden Chalice de Taitung (Idem ^22)](https://www.thealliance.org.tw/story/1342) — Reportage approfondi de la Fondation Plateforme Publique, où Jiang Xian-er relate l'augmentation de sa liberté de création après son installation à Taitung.
 
-[^29]: [80 歲的熱血 1：寧做工也不妥協 他希望作品不會在蘇富比被拍賣](https://tw.news.yahoo.com/80%E6%AD%B2%E7%9A%84%E7%86%B1%E8%A1%801-%E5%AF%A7%E5%81%9A%E5%B7%A5%E4%B9%9F%E4%B8%8D%E5%A6%A5%E5%8D%94-%E4%BB%96%E5%B8%8C%E6%9C%9B%E4%BD%9C%E5%93%81%E4%B8%8D%E6%9C%83%E5%9C%A8%E8%98%87%E5%AF%8C%E6%AF%94%E8%A2%AB%E6%8B%8D%E8%B3%A3-062145636.html) — Dossier de Mirror Weekly en 2022 consacré à des personnalités de quatre-vingts ans encore animées d'ardeur, dans lequel Jiang Hsien-yi décrit son quotidien matinal dans l'atelier de Jinzun, Taitung : boire du café et écouter les Variations Goldberg de Bach interprétées par Gould.
+[^29]: [La passion à 80 ans 1 : Préférer le travail au compromis, il espère que ses œuvres ne seront pas vendues aux enchères chez Sotheby's](https://tw.news.yahoo.com/80%E6%AD%B2%E7%9A%84%E7%86%B1%E8%A1%801-%E5%AF%A7%E5%81%9A%E5%B7%A5%E4%B9%9F%E4%B8%8D%E5%A6%A5%E5%8D%94-%E4%BB%96%E5%B8%8C%E6%9C%9B%E4%BD%9C%E5%93%81%E4%B8%8D%E6%9C%83%E5%9C%A8%E8%98%87%E5%AF%8C%E6%AF%94%E8%A2%AB%E6%8B%8D%E8%B3%A3-062145636.html) — Sujet spécial de Mirror Media en 2022 sur les personnalités passionnées de 80 ans, où Jiang Xian-er décrit son quotidien : boire du café dans son atelier du Golden Chalice à Taitung le matin et écouter les Variations Goldberg de Bach interprétées par Gould.
 
-[^30]: [江賢二藝術家網站 簡介（同 ^6）](https://www.paulchiang.org/about) — Témoignage de Jiang Hsien-yi sur ses soirées à Jinzun, lorsqu'il regarde le soleil couchant se refléter sur la mer.
+[^30]: [Présentation du site officiel de l'artiste Jiang Xian-er (Idem ^6)](https://www.paulchiang.org/about) — Jiang Xian-er relate son quotidien contemplant le coucher du soleil sur la mer depuis le Golden Chalice au crépuscule.
 
-[^31]: [江賢二藝術家網站 簡介（同 ^6）](https://www.paulchiang.org/about) — Témoignage de Jiang Hsien-yi : « Taitung m'a donné une deuxième vie artistique. »
+[^31]: [Site web de l'artiste Chiang Hsien-er, introduction (Idem ^6)](https://www.paulchiang.org/about) — Chiang Hsien-er déclare : « Taitung m'a donné une deuxième vie artistique ».
 
-[^32]: [2020 臺北市立美術館 江賢二：回顧展](https://www.thealliance.org.tw/service/1341) — Dossier de la Fondation culturelle Alliance sur la rétrospective de 2020 au Musée des beaux-arts de Taipei, tenue du 28 mars au 28 juin et ayant attiré environ 125 000 visiteurs.
+[^32]: [2020 Musée de Taipei : Chiang Hsien-er, exposition rétrospective](https://www.thealliance.org.tw/service/1341) — La Fondation 公益平台文化基金會 documente l'exposition rétrospective de 2020 au Musée de Taipei, qui s'est tenue du 28 mars au 28 juin et a attiré environ 125 000 visiteurs.
 
-[^33]: [古典樂、廟宇都是靈感（同 ^20）](https://www.shoppingdesign.com.tw/post/view/5275) — Détails sur le dispositif rétrospectif inversé conçu par le commissaire invité Wang Chia-chi.
+[^33]: [La musique classique et les temples sont des sources d'inspiration (Idem ^20)](https://www.shoppingdesign.com.tw/post/view/5275) — Détails sur la conception de la structure narrative inversée utilisée par le commissaire invité Wang Chia-chi.
 
-[^34]: [「江賢二藝術園區」落成臺東金樽，3/15 正式開幕](https://artouch.com/art-views/content-172222.html) — Reportage d'ARTouch en 2025 sur l'ouverture du parc, relatant le parcours de coopération entre Jiang Hsien-yi et Stanley Yen après la rétrospective de 2020 au Musée des beaux-arts de Taipei.
+[^34]: [Le « Parc artistique Chiang Hsien-er » achevé à Jinzun, Taitung, inauguration officielle le 15/03](https://artouch.com/art-views/content-172222.html) — Rapport d'ARTouch sur l'inauguration du parc en 2025, décrivant le processus de collaboration entre Chiang Hsien-er et Yen Chang-shou après l'exposition rétrospective de 2020 au Musée de Taipei.
 
-[^35]: [2020 臺北市立美術館 江賢二：回顧展（同 ^32）](https://www.thealliance.org.tw/service/1341) — Témoignage de Jiang Hsien-yi : « Je suis prêt à consacrer toute ma vie à la création jusqu'à la fin. Je crois que l'art peut purifier les cœurs. »
+[^35]: [2020 Musée de Taipei : Chiang Hsien-er, exposition rétrospective (Idem ^32)](https://www.thealliance.org.tw/service/1341) — Chiang Hsien-er déclare : « Je suis prêt à consacrer toute ma vie à la création jusqu'à la fin ; je crois que l'art peut purifier le cœur humain. »
 
-[^36]: [全台最美！江賢二藝術園區限時開放](https://www.businesstoday.com.tw/article/category/183031/post/202210280015/) — Reportage de Business Today en 2022 sur la période de préouverture du Parc artistique Jiang Hsien-yi, décrivant le don par Jiang Hsien-yi de son ancien atelier et des terrains.
+[^36]: [Le plus beau de Taïwan ! Ouverture temporaire du Parc artistique Chiang Hsien-er](https://www.businesstoday.com.tw/article/category/183031/post/202210280015/) — Reportage de la revue 今周刊 en 2022 sur la phase de pré-ouverture du parc artistique Chiang Hsien-er, relatant le processus par lequel l'artiste a fait don de son ancien atelier et de ses terres.
 
-[^37]: [台東「江賢二藝術園區」建築及展覽亮點](https://www.wowlavie.com/article/250025531) — Reportage de La Vie en 2025 à l'occasion de l'ouverture, détaillant la conception conjointe de Lin Youhan et Jiang Hsien-yi, l'idée des cinq bâtiments ne dominant pas la colline et dispersés dans le paysage comme des graviers, ainsi que le rôle narratif principal de la « lumière ».
+[^37]: [Architecture et points forts des expositions du « Parc artistique Chiang Hsien-er » à Taitung](https://www.wowlavie.com/article/250025531) — Reportage d'inauguration de La Vie en 2025, détaillant le concept architectural conçu conjointement par Lin You-han et Chiang Hsien-er : cinq bâtiments qui ne dominent pas la colline mais ressemblent à des galets dispersés dans le paysage, avec la « lumière » comme protagoniste du récit.
 
-[^38]: [台東也有國際級文化地標！江賢二+嚴長壽花 12 年蓋藝術園區](https://www.cw.com.tw/article/5134384) — Reportage approfondi de CommonWealth Magazine en 2025, indiquant que le Parc artistique Jiang Hsien-yi n'a demandé aucune subvention publique et que ses fonds proviennent de Jiang Hsien-yi et d'entrepreneurs soutenant les arts.
+[^38]: [Taitung possède également un monument culturel de classe internationale ! Chiang Hsien-er et Yen Chang-shou ont mis 12 ans à construire ce parc artistique](https://www.cw.com.tw/article/5134384) — Reportage approfondi de la revue天下雜誌 en 2025, précisant que le parc artistique Chiang Hsien-er n'a pas sollicité de subventions gouvernementales, les fonds provenant de l'artiste lui-même et d'entrepreneurs soutenant l'art.
 
-[^39]: [江賢二藝術園區「全台最美」！嚴長壽讚台東賺到了](https://www.businesstoday.com.tw/article/category/183031/post/202503070045/) — Entretien de Business Today en mars 2025, où Stanley Yen déclare : « Nous ne voulons pas capter les ressources de la société ; nous espérons plutôt accomplir un rêve par nos propres forces. »
+[^39]: [Le Parc artistique Chiang Hsien-er est « le plus beau de Taïwan » ! Yen Chang-shou affirme que Taitung a fait une bonne affaire](https://www.businesstoday.com.tw/article/category/183031/post/202503070045/) — Interview exclusive de la revue 今周刊 en mars 2025, où Yen Chang-shou déclare : « Nous ne voulons pas accaparer les ressources sociales, mais plutôt utiliser notre propre force pour accomplir un rêve. »
 
-[^40]: [台東也有國際級文化地標（同 ^38）](https://www.cw.com.tw/article/5134384) — Chronologie retraçant les douze années écoulées entre les conversations de Jiang Hsien-yi et Stanley Yen et l'achèvement du parc.
+[^40]: [Taitung possède également un monument culturel de classe internationale (Idem ^38)](https://www.cw.com.tw/article/5134384) — Chronologie documentant le parcours de 12 ans entre les premières discussions entre Chiang Hsien-er et Yen Chang-shou et l'achèvement du parc.
 
-[^41]: [光、美與淨化——江賢二藝術園區開幕首展](https://www.thealliance.org.tw/story/2499) — Reportage de la Fondation culturelle Alliance sur l'exposition inaugurale du parc en 2025, tenue du 15 mars au 28 septembre avec entrée sur réservation.
+[^41]: [Lumière, beauté et purification — Première exposition d'inauguration du Parc artistique Chiang Hsien-er](https://www.thealliance.org.tw/story/2499) — Reportage de la Fondation 公益平台基金會 sur la première exposition du parc en 2025, prévue du 15 mars au 28 septembre, avec un système d'entrée sur réservation.
 
-[^42]: [優人物／江賢二（同 ^1）](https://500times.udn.com/wtimes/story/12670/6680774) — Témoignage tardif de Jiang Hsien-yi sur sa vision de la transmission artistique.
+[^42]: [Personnalités inspirantes / Chiang Hsien-er (Idem ^1)](https://500times.udn.com/wtimes/story/12670/6680774) — Chiang Hsien-er exprime sa vision de la transmission artistique à la fin de sa vie.
+
+[^43]: [Architecture du parc et donateurs](https://www.paulchiangartcenter.org/buildings-and-contributors) — Page de présentation des installations sur le site officiel du Parc artistique Chiang Hsien-er, identifiant chaque bâtiment : « Pavillon Xinyi (Première salle d'exposition) », « Pavillon Qincheng (Deuxième salle d'exposition) » et « Pavillon Cheng-han (Troisième salle d'exposition) ». Il est précisé que le Pavillon Xinyi servait d'atelier temporaire à Chiang Hsien-er avant l'achèvement complet du parc, que le Pavillon Qincheng est une extension de son ancien atelier, et que le pavillon Zhuhongting sert de résidence pour le directeur d'honneur et les artistes invités. L'emplacement du café Debussy et la seule réglementation autorisant la consommation de nourriture dans le parc sont disponibles sur les pages [Café Debussy](https://www.paulchiangartcenter.org/debussycafe) et [Informations de visite](https://www.paulchiangartcenter.org/visit) du site officiel.
+
+[^44]: [Chronologie des événements du site web de l'artiste Chiang Hsien-er (Idem ^4)](https://www.paulchiang.org/timeline) — L'entrée de 1999 mentionne l'exposition « Foyer : Exposition commémorative du 10e anniversaire de la galerie Eslite », organisée par Wang Chia-chi, présentant les œuvres 〈La mort de l'éloignement〉 et 〈Le temple centenaire〉 ; les années 1997, 1998, 2000, 2001, 2003 et 2005 enregistrent chacune une exposition personnelle à la galerie Eslite ; l'entrée de 2008 mentionne l'exposition « Foyer : Biennale de l'art taïwanais » au Musée national des beaux-arts de Taïwan, organisée par Wang Chia-chi ; l'entrée de 2012 mentionne l'exposition collective « Formes non-formelles → L'art abstrait taïwanais » au Musée de Taipei.
