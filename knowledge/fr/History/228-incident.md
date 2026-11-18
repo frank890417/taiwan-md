@@ -1,228 +1,227 @@
 ---
-title: "L'Incident du 28 février 1947 — Dix jours qui ont changé Taïwan"
-description: "Comment le stand de cigarettes d'une veuve a allumé trente-huit ans de silence sur une île entière : les dix jours de février 1947 qui ont scellé le destin de Taïwan, et une blessure qui, soixante-dix-huit ans plus tard, n'est toujours pas refermée."
+title: "L'incident du 228"
+description: "Comment le kiosque à cigarettes de contrebande d'une veuve a embrasé le silence de trente-huit ans d'une île — les dix jours de 1947 qui ont changé le destin de Taïwan, et la blessure qui, soixante-dix-huit ans plus tard, continue de guérir."
 date: 2026-03-31
+category: 'History'
 tags:
   [
-    histoire,
-    politique,
-    justice transitionnelle,
-    terreur blanche,
-    démocratisation,
-    loi martiale,
+    'Histoire',
+    'Politique',
+    'Justice transitionnelle',
+    'Terreur blanche',
+    'Démocratisation',
+    'Loi martiale',
     '228',
   ]
 subcategory: '軍事歷史'
-category: 'History'
 author: 'Taiwan.md'
-readingTime: 18
 featured: true
+lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
-lastVerified: 2026-03-31
-lastHumanReview: false
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
-translatedAt: '2026-05-29T00:35:00+08:00'
+translatedAt: '2026-11-19T01:12:14+08:00'
 ---
 
-# L'Incident du 28 Février
+# L'incident du 228
 
-Le 27 février 1947, en fin d'après-midi, une veuve de quarante ans nommée Lin Jiangmai s'agenouillait sur le sol du Yuanhuang, un rond-point de Taipei. Elle suppliait les agents de contrôle de ne pas lui confisquer ses cigarettes de contrebande. Ces quelques paquets représentaient tout ce qu'elle avait pour élever ses deux enfants. L'agent Fu Xuetong la frappa à la tête avec la crosse de son arme. Le sang coula sur son visage — devant des centaines de témoins.
+Le 27 février 1947 au soir, Lin Jiang-mai, veuve de 40 ans, s'agenouille sur le sol du rond-point de Taipei, suppliant les agents de répression de ne pas confisquer ses cigarettes de contrebande. Ces quelques paquets sont son unique moyen de nourrir son fils et sa fille. L'agent Fu Xue-tong la frappe à la tête avec la crosse de son fusil ; le sang coule sur son visage : des centaines de personnes assistent à la scène.
 
-Personne ne savait encore que les dix jours qui suivraient allaient changer le destin d'une île entière. Le sang de cette femme agenouillée venait d'embraser un volcan que deux années de colère avaient patiemment construit.
+Nul ne sait que les dix jours qui suivront changeront le destin de l'île tout entière. L'image de cette femme à genoux met le feu à un volcan de colère accumulé depuis deux ans.
 
-> **✦** Un contrôle de cigarettes de contrebande déclencha le plus grand soulèvement populaire de l'après-guerre à Taïwan, engendra l'une des plus longues lois martiales de l'histoire mondiale, et emporta toute une génération d'intellectuels d'exception. Leurs noms ne purent être prononcés à nouveau qu'après trente-huit ans de silence imposé.
+> **✦** Un conflit né d'une répression contre la contrebande de cigarettes déclenche la plus grande révolte populaire de l'après-guerre à Taïwan, engendre la loi martiale la plus longue au monde, et emporte une génération entière des intellectuels les plus brillants. Leurs noms, après trente-huit ans de silence, ont enfin pu être prononcés à nouveau.
 
-## Une île qui désenchantait
+## Une île en train de perdre ses illusions
 
-Pour comprendre pourquoi le sang d'une femme pouvait, ce soir-là, mettre le feu à une ville entière, il faut d'abord mesurer ce que fut Taïwan entre 1945 et 1947 — deux années de descente vertigineuse, de l'allégresse à la désillusion.
+Pour comprendre pourquoi, ce soir-là, le sang d'une femme a pu embraser une ville entière, il faut d'abord comprendre le Taïwan d'après 1945 : deux ans d'un passage de la joie au désespoir.
 
-Quand le Japon capitula, les Taïwanais accueillirent la nouvelle avec joie. Après cinquante ans de colonisation, ils allaient enfin « rentrer dans la patrie ». Le 25 octobre 1945, le dernier gouverneur général japonais, Ando Rikichi, signa l'acte de capitulation au Zhongshan Hall de Taipei (anciennement le Public Hall). Les pétards claquèrent dans les rues jusqu'au lendemain matin.
+À la reddition du Japon, les Taïwanais sont dans la liesse. Après cinquante ans de colonisation, ils « retrouvent enfin la mère patrie ». Le 25 octobre 1945, le dernier gouverneur général de Taïwan, Ando Rikichi, signe l'acte de reddition au Taipei Public Auditorium (l'actuel Zhongshan Hall) ; les pétards retentissent toute la nuit dans les rues.
 
-Cette joie ne dura que quelques mois.
+Mais la joie ne dure que quelques mois.
 
-Les fonctionnaires que le gouverneur-général Chen Yi amena avec lui depuis le continent révélèrent une réalité radicalement différente de la « patrie » imaginée. Beaucoup d'entre eux étaient analphabètes, mais s'emparèrent pourtant des institutions que les Taïwanais avaient fait prospérer sous la domination japonaise. [Le prix du riz fut multiplié par quatre cents en l'espace d'un an](https://www.228.org.tw/228_overview.html), tandis que le choléra et la peste réapparaissaient. Les rues se remplissaient de soldats démobilisés sans emploi, et la sécurité publique se dégradait à vue d'œil.
+Les fonctionnaires amenés par le gouverneur administratif Chen Yi, chargé de la reprise, offrent aux Taïwanais le spectacle d'une « mère patrie » radicalement différente de celle qu'ils imaginaient. Beaucoup de ces nouveaux fonctionnaires sont illettrés, pourtant ils investissent les institutions que les Taïwanais avaient gérées avec compétence sous l'ère japonaise. [Le prix du riz quadruple en un an](https://www.228.org.tw/228_overview.html) ; choléra, peste et autres épidémies refont surface. Les rues sont pleines de vétérans démobilisés sans emploi ; la sécurité se dégrade dramatiquement.
 
-Plus profonde encore était la blessure de la discrimination. Pour des postes identiques, le salaire d'un fonctionnaire venu du continent était plusieurs fois supérieur à celui d'un Taïwanais. Les habitants de l'île, pleinement instruits sous la période japonaise, se voyaient exclus de la fonction publique au seul motif qu'ils ne parlaient pas le « mandarin ». Quand un médecin s'exprimait en japonais dans un lieu public, on l'accusait d'avoir été « asservi » par l'occupant.
+La blessure plus profonde encore est la discrimination. À poste égal, le salaire des _waishengren_ (venus de Chine continentale) est plusieurs fois supérieur à celui des _benshengren_ (Taïwanais de souche). Les Taïwanais, qui ont reçu une éducation complète sous la colonisation japonaise, sont exclus de la fonction publique parce qu'ils ne parlent pas le « guoyu » (le mandarin). Un médecin qui s'exprime en japonais en public se fait traiter de « sinisé » (esclave assimilé).
 
-C'est sur ce terrain fertile que, le 27 février 1947, un coup de crosse tomba — sur la tête d'une veuve, dans un rond-point, par un soir que personne n'imaginait pouvoir tout changer.
+C'est sur ce terreau que, le 27 février 1947, un coup de crosse s'abat : sur la tête d'une veuve, sur un rond-point, un soir où personne n'imaginait qu'il changerait tout.
 
-> **📝 Note de curateur**
-> La désillusion qui suivit la « Restauration » ne se forma pas en un jour. Elle fut l'accumulation de mille petites humiliations — chaque regard qui disait « les Japonais vous ont asservis », chaque mépris qui signifiait « ne pas parler mandarin, ce n'est pas être chinois » — autant de couches de paille sèche déposées sur l'île. Le sang de Lin Jiangmai ne fut que l'étincelle tombée sur ce combustible.
+> **📝 Note du commissaire d'exposition**
+> La déception d'après la « Retrouvaille » ne s'est pas faite en un jour. C'est l'accumulation de mille petites humiliations — chaque regard qui dit « vous avez été asservis par les Japonais », chaque mépris qui lance « qui ne parle pas le guoyu n'est pas Chinois » — qui ont recouvert l'île d'une couche de paille sèche. Le sang de Lin Jiang-mai, c'est l'étincelle qui tombe sur cette paille.
 
-## Dix jours d'embrasement
+## Dix jours de feu
 
-### 27 février : les coups de feu du rond-point
+### 27 février : les coups de feu au rond-point
 
-À dix-neuf heures trente, des agents du Bureau du monopole patrouillaient près du Tianma Tea House de Taipei, cherchant des vendeurs de cigarettes illicites. Après qu'on eut frappé Lin Jiangmai à la tête et qu'elle se fut effondrée, la foule furieuse encercla les agents. Dans la confusion qui s'ensuivit, l'un d'eux tira sur la foule et blessa un passant, Chen Wenxi, qui mourut de ses blessures le lendemain.
+19 h 30, des agents du Monopole d'État traquent la contrebande de cigarettes près du salon de thé Tianma à Taipei. Après que Lin Jiang-mai a été blessée à la crosse, la foule en colère encercle les agents. Dans la confusion, l'un d'eux tire sur la foule, touchant Chen Wen-xi, un passant qui succombera le lendemain.
 
-La nouvelle se répandit comme un feu de brousse.
+La nouvelle se propage comme un feu de forêt.
 
-### 28 février : de la pétition aux rafales de mitrailleuse
+### 28 février : de la pétition aux balles
 
-Le lendemain matin, des milliers de personnes convergèrent vers la succursale de Taipei du Bureau du monopole, saccageant les bureaux et brûlant le stock de tabac et d'alcool. Dans l'après-midi, un cortège de quelque deux mille personnes se forma en direction du bureau du gouverneur général pour y déposer une pétition. Ces hommes et ces femmes étaient désarmés ; ils réclamaient que les coupables soient punis, que des réparations soient versées, et que des réformes soient engagées.
+Le lendemain matin, la foule afflue vers la succursale de Taipei du Monopole d'État, saccage les bureaux, brûle tabac et alcool. L'après-midi, un cortège d'environ deux mille personnes marche vers le Bureau du gouverneur administratif pour pétitionner. Ils sont désarmés ; ils exigent la sanction du coupable, des réparations, et des réformes.
 
-Les gardes leur répondirent avec des mitrailleuses.
+La garde répond par des tirs de mitrailleuse.
 
-La fusillade devant le bureau du gouverneur fit plusieurs morts et blessés. La nouvelle se propagea à travers toute l'île par téléphone et bouche à oreille, déclenchant des protestations simultanées à Taichung, Chiayi, Kaohsiung, Pingtung, Hualien — l'île tout entière était en flammes.
+La fusillade devant le Bureau fait de nombreux morts et blessés. La nouvelle, relayée par téléphone et bouche-à-oreille, parcourt l'île entière ; partout, les populations se soulèvent. Taichung, Chiayi, Kaohsiung, Pingtung, Hualien : l'île entière s'embrase simultanément.
 
-### 1er au 7 mars : une brève tentative de négociation
+### 1er-7 mars : la brève négociation
 
-Des « Comités de traitement de l'Incident du 28 Février » se constituèrent dans toutes les régions, cherchant à résoudre la crise par des voies institutionnelles. Composés d'élus, d'avocats, de médecins et d'enseignants, ces comités formulèrent [trente-deux revendications de réforme politique](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E8%99%95%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83) : l'élection directe des maires et des gouverneurs de district, la suppression du système de monopole d'État, la garantie des droits fondamentaux.
+Partout se constituent des « Comités de traitement de l'incident du 228 », qui tentent de trouver une issue dans le cadre institutionnel. Composés de représentants élus, avocats, médecins, enseignants, ils formulent [trente-deux revendications de réforme politique](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E8%99%95%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83) : élection des maires de comtés et villes, abolition du système de monopole, garantie des droits humains.
 
-En surface, Chen Yi feignit de négocier. En secret, il envoya des télégrammes à Nankin pour demander des renforts militaires, décrivant les habitants de Taïwan comme désireux « de quitter la Chine pour l'indépendance » et réclamant l'envoi de troupes pour « écraser la rébellion ».
+Chen Yi négocie en surface, mais télégraphie secrètement Nankin pour réclamer des renforts militaires. Dans son télégramme à Chiang Kai-shek, il décrit les foules taïwanaises comme « voulant se séparer de la Chine pour devenir indépendantes », et demande l'envoi de troupes pour « anéantir la rébellion ».
 
-Ces sept jours furent l'ultime naïveté de Taïwan — le moment où l'on croyait encore que le dialogue pouvait changer les choses.
+Ces sept jours sont la dernière innocence de Taïwan : on croit encore que la raison peut changer les choses.
 
-### 8 mars : l'aube sur le port
+### 8 mars : l'aube au port
 
-Au matin du 8 mars, la 21e Division réorganisée de l'armée nationaliste débarquait dans le port de Keelung. Les soldats ouvrirent le feu depuis les navires, tirant directement sur les civils présents sur le quai. Ce même jour, le commandant de la garnison de Kaohsiung, Peng Mengji, ordonna de pilonner la ville au canon et de mitrailler les conseillers municipaux et les représentants civils venus négocier — dont le président du conseil municipal Peng Qingjing et l'avocat Chen Jinneng, tués sur-le-champ ou exécutés après leur arrestation.
+Le 8 mars à l'aube, la 21e division réorganisée de l'Armée nationale débarque au port de Keelung. Les soldats tirent directement depuis les navires sur les civils présents sur le quai. Le même jour, le commandant de la forteresse de Kaohsiung, Peng Meng-ji, ordonne le bombardement du centre-ville de Kaohsiung, et fait mitrailler les sénateurs et représentants civils venus négocier, dont le président du conseil municipal Peng Qing-kao et l'avocat Chen Jin-neng, abattus sur place ou arrêtés puis exécutés.
 
-À partir de ce jour, la négociation prit fin. Il ne resta que les coups de feu.
+À partir de ce jour, la négociation est finie. Il ne reste que les balles.
 
-### Après le 9 mars : les « opérations de pacification »
+### Après le 9 mars : le « nettoyage des campagnes »
 
-L'armée entreprit des « opérations de pacification » (_qingxiang_), fouillant les maisons une à une. Quiconque avait fait des études, exercé le droit, la médecine, l'enseignement, écrit des articles — et surtout quiconque s'était exprimé au sein des comités de traitement — risquait d'être emmené.
+L'armée lance l'opération « Qingxiang » (nettoyage des campagnes), perquisitionnant maison par maison. Quiconque a fait des études, exercé comme avocat, médecin, enseignant, écrit des articles — surtout ceux qui ont pris la parole dans les comités de traitement — peut être emmené.
 
-La logique de ces opérations était celle de la terreur : éliminer les intellectuels capables de s'organiser, réduire les survivants au silence. Ce fut plus difficile à documenter qu'un massacre ouvert, car cela ne nécessitait aucune annonce publique — seulement des coups frappés à une porte au milieu de la nuit, une voiture garée devant l'entrée, puis le vide absolu.
+La logique du _qingxiang_ est l'intimidation : éliminer les intellectuels capables d'organisation, réduire les survivants au silence. C'est plus difficile à documenter qu'un massacre, car cela ne requiert aucune proclamation publique : un coup à la porte en pleine nuit, une voiture garée devant chez soi, puis plus rien.
 
-Beaucoup furent réveillés par des coups à leur porte en pleine nuit, et ne revinrent jamais.
+Beaucoup sont réveillés en pleine nuit par des coups à la porte, et ne reviennent jamais.
 
-## Les personnes effacées
+## Les disparus
 
-L'une des caractéristiques les plus cruelles de l'Incident du 28 Février est qu'il élimina systématiquement l'élite de la société taïwanaise — ceux qui auraient été les mieux à même de témoigner de ces événements devant la communauté internationale furent parmi les premiers à disparaître.
+L'une des caractéristiques les plus cruelles de l'incident du 228 est qu'il a systématiquement emporté l'élite de la société taïwanaise : ceux qui avaient le plus de capacité à porter cette histoire devant la communauté internationale sont souvent les premiers à avoir disparu.
 
-**Lin Maosheng**, premier docteur en philosophie de Taïwan, titulaire d'un doctorat de l'Université Columbia, était l'un des intellectuels les mieux formés à la pensée occidentale que l'île ait jamais produit. Après la guerre, il contribua à reprendre en main l'Université impériale de Taipei, participa à la fondation de l'Université nationale de Taïwan, et créa le journal _Minbao_ pour documenter le chaos de l'après-guerre. Le soir du 11 mars 1947, huit hommes armés arrivèrent en voiture chez lui et l'emmenèrent. Son fils Lin Zongping se souvint plus tard : « Le lendemain matin, la domestique arriva en courant pour nous dire : "On a emmené le vieux maître hier soir. Les choses ont l'air mauvaises. La vieille dame est très inquiète." » Lin Maosheng disparut comme si la terre l'avait avalé ; sa dépouille ne fut jamais retrouvée. Ce n'est qu'en 2025 que le tribunal de district de Taipei prononça officiellement sa déclaration de décès — soixante-dix-huit ans après son enlèvement.
+**Lin Mao-sheng**, premier docteur en philosophie de Taïwan, diplômé de l'Université Columbia, l'un des érudits taïwanais au parcours occidental le plus accompli. Après-guerre, il participe à la reprise de l'Université impériale de Taipei et à la fondation de l'Université nationale de Taïwan, crée le _Minbao_ (Journal du peuple) pour documenter le chaos d'après-guerre. Dans la nuit du 11 mars 1947, huit hommes armés arrivent en voiture à son domicile et l'emmènent. Son fils, Lin Zong-ping, se souvient plus tard : « Le lendemain matin, la domestique est venue nous dire : hier soir, le maître a été emmené, la situation est grave, madame est très inquiète. » Lin Mao-sheng s'évapore dans la nature ; on ignore encore aujourd'hui ce qu'il est devenu. Ce n'est qu'en 2025 que le tribunal de district de Taipei prononce officiellement sa déclaration de décès : soixante-dix-huit ans après son enlèvement.
 
 > **💡 Le saviez-vous ?**
-> Sous l'occupation japonaise, Lin Maosheng écrivait avec amertume : « Chaque fois que je reçois ma feuille de paie, je ressens douloureusement la discrimination dont je suis victime. Les Japonais perçoivent une prime de soixante pour cent, en plus des allocations familiales — le salaire des Japonais est le double de celui des provinciaux. » Toute sa vie, il lutta pour l'égalité — d'abord contre la discrimination japonaise, puis pour bâtir un système éducatif équitable dans le nouvel ordre politique. Ce fut finalement le gouvernement qu'il avait cru être sa « patrie » qui envoya des hommes le chercher. (Source : [Page commémorative de Lin Maosheng, Fondation commémorative du 228](https://www.228.org.tw/228_elites-view.php?ID=26))
+> À l'époque japonaise, Lin Mao-sheng confiait : « Chaque fois que je touche mon enveloppe de paie, je ressens douloureusement la discrimination et la colère. Les Japonais ont 60 % de prime en plus, et des allocations familiales ; leur salaire est le double de celui des provinciaux. » Toute sa vie, il s'est battu pour l'égalité — d'abord contre la discrimination japonaise, puis pour tenter d'instaurer une éducation équitable dans le nouvel ordre national. Ce qui l'a finalement emporté, c'est le gouvernement qu'il croyait être sa « mère patrie ». (Source : [Page commémorative Lin Mao-sheng de la Fondation du 228](https://www.228.org.tw/228_elites-view.php?ID=26))
 
-**Tang Dejang**, avocat à Tainan, né d'un père japonais et d'une mère taïwanaise. Ancien policier, il avait été contraint de démissionner pour avoir dénoncé publiquement un cas de violence d'un Japonais contre un jeune Taïwanais. Il se rendit ensuite au Japon, réussit l'examen de la haute fonction publique japonaise, et devint avocat. Lors de l'incident du 28 Février, il parcourut Tainan pour tenter de dissuader les habitants d'avoir recours à la violence, contribuant ainsi à maintenir un calme relatif dans la ville pendant un temps. Mais à l'arrivée de l'armée, il fut arrêté sous la qualification de « meneur de la rébellion ». Sans aucun procès, il fut exécuté publiquement le 13 mars devant le jardin public de Minsheng à Tainan (aujourd'hui le parc commémoratif Tang Dejang). Il avait quarante ans. La municipalité de Tainan a depuis fait du 13 mars sa « Journée de la justice et du courage ».
+**Tang De-zhang**, avocat de Tainan, père japonais, mère taïwanaise. Ancien policier, il a dû démissionner après avoir courageusement dénoncé une affaire où un Japonais avait écrasé un jeune Taïwanais ; il part au Japon, réussit l'examen supérieur de la fonction publique japonaise, devient avocat. Pendant l'incident du 228, il court Tainan pour dissuader la population d'actions violentes, permettant à la ville de rester relativement calme. Pourtant, à l'arrivée de l'armée, il est arrêté comme « meneur de la rébellion », sans aucun procès, et fusillé publiquement le 13 mars au parc Min-sheng de Tainan (aujourd'hui parc commémoratif Tang De-zhang), exposé en exemple. Il avait 40 ans. La ville de Tainan a depuis institué le 13 mars comme « Journée de la justice et du courage ».
 
-**Wang Tiandeng**, conseiller provincial et rédacteur en chef du _Renmin Daobao_ (journal du Peuple), était l'un des principaux auteurs des trente-deux revendications. Sachant le danger qu'il courait, il refusa de fuir l'île. Des témoins rapportèrent qu'après son arrestation, couvert de sang à la suite des tortures subies, il continua à argumenter avec calme et dignité devant ses geôliers militaires. Il fut finalement aspergé d'essence et brûlé vif. Il avait quarante-cinq ans et laissait cinq enfants mineurs. (D'après les archives de Su Xin, rédacteur au _Renmin Daobao_, et de Zhang Yanxian, citées dans [Storm Media : l'histoire de Wang Tiandeng](https://www.storm.mg/article/83492))
+**Wang Tian-deng**, sénateur provincial, rédacteur en chef du _Renmin Daobao_ (Guide du peuple), l'un des principaux rédacteurs des « trente-deux revendications ». Conscient du danger, il refuse de fuir. Selon des témoins, il subit la torture après son arrestation, le sang lui coule sur le visage, mais il continue d'argumenter avec dignité face aux militaires. On l'asperge d'essence et on le brûle vif. Il meurt à 45 ans, laissant cinq enfants mineurs. (D'après les archives de l'éditeur du _Renmin Daobao_, Su Xin, et l'historien Zhang Yan-huo, source : [Reportage Storm Media sur Wang Tian-deng](https://www.storm.mg/article/83492))
 
-**Chen Chengpo**, conseiller municipal de Chiayi et l'un des peintres à l'huile les plus importants que Taïwan ait jamais produit. Il se rendit à l'aéroport de Shuishang avec l'intention sincère de négocier une résolution pacifique avec l'armée. Arrêté, il fut exécuté publiquement devant la gare de Chiayi. Son œuvre _Rue à l'extérieur de Chiayi_ est conservée au Musée d'art de Taipei — les rues lumineuses de Chiayi représentées sur cette toile forment le contraste le plus cruel avec la dernière rue que ses yeux virent. Pendant des décennies, sa famille conserva secrètement ses peintures ; il fallut attendre la levée de la loi martiale pour que sa mort puisse être évoquée publiquement.
+**Chen Cheng-po**, sénateur de Chiayi, l'un des plus grands peintres à l'huile de Taïwan. Il se rend à l'aérodrome de Shuishang à Chiayi avec la sincère intention de négocier pacifiquement avec l'Armée nationale, mais, une fois arrêté, est fusillé publiquement devant la gare de Chiayi. Son œuvre _Paysage hors de la rue de Chiayi_, conservée au Musée des beaux-arts de Taipei, montre la rue lumineuse de Chiayi — la même qu'il a vue pour la dernière fois —, formant le contraste le plus cruel. Sa famille a préservé ses toiles en silence pendant des décennies, ne pouvant parler de sa mort qu'après la levée de la loi martiale.
 
-Ces quatre destins ne sont que les récits nommés parmi d'innombrables autres similaires. La plupart des victimes n'eurent même pas la chance d'être consignées quelque part.
+Ces quatre histoires sont celles, parmi d'innombrables semblables, qui ont un nom. Bien d'autres n'ont même pas eu la chance d'être enregistrées.
 
-> **⚠️ Débat historique : le nombre de victimes**
-> Le bilan humain de l'Incident du 28 Février est l'une des questions les plus disputées de l'histoire contemporaine de Taïwan, avec des estimations qui varient considérablement selon les sources :
+> **⚠️ Controverses historiques : le nombre de morts**
+> Le bilan des morts et blessés de l'incident du 228 reste l'un des problèmes historiques les plus controversés, les estimations variant énormément selon les sources :
 >
-> - **Estimation académique minimale** : des chercheurs de l'Institut de sociologie de l'Université nationale de Taïwan (2017), en utilisant des méthodes démographiques, estiment le nombre de morts à environ 1 304 à 1 512 personnes.
-> - **Rapport officiel Yang Lianggong** (1947) : pertes civiles et militaires estimées à environ 1 860 personnes, voire plusieurs milliers.
-> - **Rapport officiel d'attribution des responsabilités de 2021** (sous la direction de Chen Yishen et Xue Huayuan) : le total documenté des décès et disparitions s'élève à environ [8 324 à 11 841 personnes](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6).
-> - **Estimations démographiques** : certains chercheurs, en reconstituant les structures d'âge par inversion, estiment le nombre total de morts entre 18 000 et 28 000 personnes.
+> - **Estimation académique la plus basse** : des chercheurs de l'Institut de sociologie de l'Université nationale de Taïwan (2017), par méthode démographique, estiment environ 1 304 à 1 512 personnes
+> - **Rapport officiel de Yang Liang-gong (1947)** : morts et blessés militaires et civils, environ 1 860 à plusieurs milliers
+> - **Rapport officiel 2021 sur l'attribution des responsabilités** (dir. Chen Yi-shen, Xue Hua-yuan) : total des décès et disparitions documentés d'environ [8 324 à 11 841 personnes](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6)
+> - **Estimation démographique** : certains chercheurs, par rétro-projection de la structure par âge, estiment le total des morts entre 18 000 et 28 000
 >
-> L'historien Hou Kunhong, chercheur aux Archives nationales, analyse : « Les chiffres officiels minimisent probablement le bilan, car ils ne comptabilisent pas les personnes tuées sans procès ou par des voies non officielles ; les estimations populaires les plus élevées peuvent, elles, résulter d'amplifications délibérées ou de rumeurs. » Cette controverse sur les chiffres reflète en elle-même le degré de répression systématique qui a pesé sur cette histoire — de nombreuses victimes n'ont laissé aucune trace.
+> Le chercheur de l'Académie d'histoire, Hou Kun-hong, analyse : « Le chiffre bas officiel omet probablement les morts sans procès ni voie normale ; le chiffre haut civil peut relever de l'exagération ou du ouï-dire. » La controverse même sur ce chiffre reflète l'ampleur de la suppression systématique de cette histoire — beaucoup de victimes n'ont jamais laissé de trace.
 
 ## Le calcul de Chen Yi
 
-Dans tout cet épisode, le rôle du gouverneur général Chen Yi mérite un examen séparé — il est à la fois le symbole d'un échec systémique et l'un des décideurs individuels les plus déterminants.
+Dans tout cet événement, le rôle du gouverneur administratif Chen Yi mérite un examen à part : il est à la fois le symbole de l'échec structurel et le décideur individuel le plus critique.
 
-Chen Yi n'était pas un homme corrompu. Connu pour son intégrité personnelle, il jouissait d'une réputation de réformateur dans les provinces du Fujian et du Zhejiang. Mais il était inflexible, coupé des réalités du terrain, et pris en étau dans les luttes de factions — à Taïwan, il dut naviguer entre les réseaux du Juntong, du CC clique et des familles Kong et Song, ce qui rendit ses directives difficiles à appliquer et étouffa toute possibilité de canaliser le mécontentement populaire.
+Chen Yi n'est pas personnellement corrompu. On dit de lui qu'il est d'une intégrité rigoureuse, jouissant d'une réputation de réformateur dans le Fujian et le Zhejiang. Mais il est obstiné, déconnecté du peuple, et pris dans les luttes de factions — une fois à Taïwan, il doit naviguer entre le Bureau d'enquête et de statistique militaire, la clique CC, le clan Kong-Song, et ses ordres peinent à être appliqués ; le mécontentement populaire s'accumule sans issue.
 
-Après l'explosion, Chen Yi révéla une duplicité particulièrement froide : d'un côté, il affirmait à la radio accepter les demandes des citoyens et se déclarait prêt à négocier ; de l'autre, il envoyait secrètement des télégrammes à Tchang Kaï-chek décrivant la situation à Taïwan comme une « rébellion communiste ». Un télégramme daté du 6 mars affirmait que les habitants de l'île voulaient « quitter la Chine pour l'indépendance » et réclamait l'envoi de « troupes anti-insurrectionnelles ».
+Après le déclenchement, Chen Yi fait preuve d'une duplicité cruelle : d'un côté, il proclame à la radio qu'il accepte les doléances populaires et se dit prêt à négocier ; de l'autre, il télégraphie secrètement à Chiang Kai-shek pour réclamer l'armée, décrivant la situation à Taïwan comme une « rébellion de bandits ». Le télégramme du 6 mars affirme que les foules « veulent quitter la Chine pour devenir indépendantes », et demande l'envoi de « troupes d'extermination de bandits ».
 
-En d'autres termes : la négociation ne fut jamais sérieuse. L'ensemble de la semaine pendant laquelle fonctionnèrent les « comités de traitement » ne fut qu'une façon de gagner le temps nécessaire pour que les troupes traversent le détroit.
+En d'autres termes : la négociation n'a jamais été sincère. Toute la semaine des pourparlers des « comités de traitement » n'a servi qu'à gagner le temps de la traversée du détroit par l'armée.
 
-Après la répression, Chen Yi fut relevé de ses fonctions. L'ironie de l'histoire veut qu'il fut fusillé à Taipei en 1950 par Tchang Kaï-chek lui-même — non pas pour le 28 Février, mais pour avoir été soupçonné de soutenir un coup d'État militaire. Les destins du bourreau et de ses victimes se croisent parfois de façon inattendue.
+Après l'apaisement, Chen Yi est révoqué. L'ironie de l'histoire veut qu'il soit plus tard fusillé à Taipei en 1950 par Chiang Kai-shek pour « collaboration avec les communistes et trahison » (sans lien avec le 228), sous l'accusation d'avoir soutenu un coup d'État militaire. Bourreau et victime voient parfois leurs destins se replier l'un sur l'autre de façon inattendue.
 
 ## Trente-huit ans de silence
 
-Le 20 mai 1949, la loi martiale entra officiellement en vigueur à Taïwan.
+Le 20 mai 1949, Taïwan instaure officiellement la [loi martiale](/fr/history/martial-law-era/).
 
-Dès lors, « le 28 Février » devint un nom qu'il était interdit de prononcer. Durant trente-huit ans et cinquante-six jours de loi martiale — l'une des plus longues de l'histoire mondiale — les manuels scolaires ignoraient ces trois chiffres, la presse n'était pas autorisée à y faire allusion, et les familles se protégeaient mutuellement par le silence : « N'en parle pas, je ne veux pas y revenir » devint le pacte tacite d'une génération entière.
+Dès lors, « 228 » devient un nom qu'on ne peut pas prononcer. Pendant trente-huit ans et cinquante-six jours de loi martiale (l'une des plus longues au monde), les manuels scolaires ne contiennent pas ces trois caractères, les journaux n'ont pas le droit d'en parler, les familles se protègent par le silence — « ne demande pas, je ne veux pas dire » devient le pacte tacite d'une génération entière.
 
-Bien que l'Incident du 28 Février et la période de la Terreur blanche qui suivit soient souvent cités ensemble, ils diffèrent en nature. Le chercheur Wu Junyun souligne que le 28 Février fut une période d' « anomie juridique » — des êtres humains furent tués sans aucune procédure judiciaire, lynchés dans l'ombre. La période de Terreur blanche (1949-1991), quant à elle, s'appuyait sur des lois tordues mais maintenait au moins la forme d'un tribunal militaire, laissant des traces documentaires. Cette distinction est capitale : les victimes du 28 Février n'avaient souvent pas même un certificat de décès, et leurs familles ignorèrent pendant des décennies où leurs proches étaient enterrés.
+L'incident du 228 et la [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror/) qui s'ensuit sont souvent mentionnés ensemble, mais leur nature diffère. La chercheuse Wu Jun-ying souligne : le 228 est un « état d'anomie » — pas de procédure judiciaire, les gens sont tués ou jugés sommairement en privé ; alors que pendant la Terreur blanche (1949-1991), si la loi est tordue, il y a au moins la forme de tribunaux militaires qui laisse des archives. Cette différence signifie : les victimes du 228 n'ont souvent même pas d'acte de décès, et des décennies plus tard, leurs familles ignorent encore où reposent leurs proches.
 
-Pendant la Terreur blanche, des dizaines de milliers de personnes furent emprisonnées sous des chefs d'accusation tels que « rébellion » ou « complicité avec les communistes ». Certains écopèrent de quinze ans de prison pour avoir participé à un cercle de lecture ; d'autres disparurent parce qu'ils avaient critiqué le gouvernement dans leur journal intime. La peur s'infiltra dans chaque fissure de la vie quotidienne : on ne parlait pas de politique au téléphone, on n'osait pas employer le taïwanais dans les lieux publics, on craignait même de conserver chez soi des livres datant de la période japonaise.
+Pendant la Terreur blanche, des dizaines de milliers de personnes sont emprisonnées pour « rébellion », « espionnage » et chefs similaires. Certains écopent de quinze ans pour avoir participé à un cercle de lecture ; d'autres disparaissent pour avoir critiqué le pouvoir dans leur journal intime. La peur s'infiltre dans chaque interstice du quotidien : on ne parle pas politique au téléphone, on ne parle pas taïwanais en public, on n'ose même pas garder des livres de l'époque japonaise chez soi.
 
-Ce n'était plus seulement le traumatisme d'un massacre. C'était une ingénierie de l'oubli savamment orchestrée — dans laquelle chaque survivant contraint au silence devenait lui-même un rouage du mécanisme.
+Ce n'est pas seulement l'héritage d'un massacre. C'est tout un système savamment conçu d'ingénierie de l'oubli — dans lequel chaque survivant qui n'ose pas parler devient une pièce de la machine.
 
-> **📝 Note de curateur**
-> Il faut bien saisir une chose : ce qui disparut n'était pas seulement les morts, mais aussi les survivants qui choisirent de se taire toute leur vie par peur. Trente-huit ans, c'est le temps qu'il faut à un enfant pour naître, grandir et fonder une famille — sans jamais savoir pour quelle raison exacte son père est mort. L'oubli ne survient jamais naturellement : c'est une politique, le fruit d'une répression active, génération après génération.
+> **📝 Note du commissaire d'exposition**
+> Une chose mérite qu'on y réfléchisse : ce qui a disparu, ce ne sont pas seulement les morts, mais aussi ceux qui, par peur, ont choisi le silence à vie. Trente-huit ans, c'est le temps qu'un enfant naisse, grandisse, se marie, sans jamais savoir pourquoi son père est mort. L'oubli n'est jamais naturel — c'est une politique, une répression active transmise de génération en génération.
 
 ## Le retour de la mémoire
 
-En 1987, Taïwan leva la loi martiale. Mais il fallut bien plus de courage pour prendre la parole que quiconque ne l'imaginait.
+1987, Taïwan lève la loi martiale. Mais il faut plus de courage qu'on ne l'imagine pour ouvrir la bouche.
 
-L'une des premières personnes à briser le silence fut Cheng Nanrong. En 1987, dans son hebdomadaire _Freedom Era Weekly_, il organisa des commémorations du 28 Février — c'était la première fois en quarante ans que quelqu'un évoquait publiquement cet événement dans la presse. En 1989, accusé de trahison pour avoir publié un projet de constitution de la République de Taïwan, et refusant de capituler au nom de la liberté d'expression, il s'immola par le feu dans les locaux de sa revue. Il avait quarante et un ans. Sa phrase « Je suis Cheng Nanrong, et je défends l'indépendance de Taïwan » devint, après sa mort, une page de l'histoire. Sa disparition bouleversa la société taïwanaise et accéléra le dégel de la mémoire historique.
+Parmi les premiers à briser le silence, Zheng Nan-rong. En 1987, dans son _Libre Époque Hebdomadaire_, il lance des activités commémoratives du 228 : c'est la première fois en quarante ans qu'on en parle dans un média public. En 1989, pour avoir publié un projet de constitution de la République de Taïwan, il est inculpé de rébellion. Pour défendre la liberté d'expression, il s'immole dans les locaux de son magazine, à 41 ans. Il a dit : « Je suis Zheng Nan-rong, j'affirme l'indépendance de Taïwan. » Cette phrase est devenue historique après sa mort. Sa mort secoue la société taïwanaise et accélère le dégel de la mémoire historique.
 
-En 1991, Taïwan abrogeait les « Dispositions provisoires sur les punitions pour rébellion », mettant fin à quatre décennies de persécution politique organisée. La même année, la « Loi sur les infractions de police » fut abrogée. Ces réformes constituèrent des jalons déterminants dans le processus de démocratisation de Taïwan, et rendirent enfin légalement possible une discussion publique ouverte sur le 28 Février.
+1991, Taïwan abolit les « Dispositions pour la répression de la rébellion », mettant fin à plus de quarante ans d'ère des prisonniers politiques. La même année, la « Loi de sanction des infractions à la police » est abrogée. C'est un nœud crucial de la [démocratisation de Taïwan](/fr/history/taiwan-democratization/), et la base juridique qui rend enfin possible la discussion publique de l'histoire du 228.
 
-Dès lors, la mémoire jaillit comme une nappe phréatique trop longtemps comprimée.
+Dès lors, la mémoire jaillit comme une eau souterraine.
 
-**En 1992**, l'Exécutif publia le _Rapport de recherche sur l'Incident du 28 Février_, premier document officiel dans lequel le gouvernement reconnaissait la violence d'État commise lors de l'événement. Son auteur principal, Lai Zehán, affirma que des milliers de morts étaient une estimation plus raisonnable, tout en admettant qu'« il est impossible aujourd'hui de fournir un chiffre précis ».
+**1992**, le Yuan exécutif publie le _Rapport de recherche sur l'incident du 228_ ; le gouvernement reconnaît pour la première fois officiellement la violence d'État dans cet événement. Le rédacteur en chef Lai Ze-han estime que « plusieurs milliers » est une fourchette raisonnable pour le nombre de morts, mais admet que « personne ne peut aujourd'hui avancer un chiffre précis ».
 
-**En 1995**, le président Lee Teng-hui, au nom du gouvernement, présenta ses excuses aux familles des victimes. Lors de la cérémonie d'inauguration du monument commémoratif, il déclara : « Assumer les fautes commises par le gouvernement, et présenter mes sincères excuses. » (Source : [Images d'archives CTS, 28/02/1992](https://news.cts.com.tw/cts/general/202002/202002281992012.html)) Ce fut la première fois qu'un chef d'État en exercice présentait des excuses publiques pour le 28 Février — une étape majeure dans la justice transitionnelle taïwanaise.
+**1995**, le président en exercice Lee Teng-hui présente des excuses aux familles des victimes au nom du gouvernement. Lors de l'inauguration du monument commémoratif, il déclare : « Assumer les fautes commises par le gouvernement, et présenter nos plus profondes excuses. » (Source : [Images d'archives CTV News 1995/02/28](https://news.cts.com.tw/cts/general/202002/202002281992012.html)) C'est le premier chef d'État en exercice à s'excuser publiquement pour le 228, et une étape majeure de la justice transitionnelle à Taïwan.
 
-**En 1997**, le 28 février fut officiellement proclamé « Journée commémorative de la Paix du 28 Février » et déclaré jour férié national.
+**1997**, le 28 février devient officiellement la « Journée commémorative de la paix du 228 », et est institué jour férié national.
 
-**En 2011**, le [Musée national commémoratif du 28 Février](https://www.228.org.tw/) ouvrit ses portes au 54, rue Nanhai, à Taipei. Le bâtiment était autrefois le Pavillon de l'éducation sous l'ère japonaise — et le lieu où le comité de traitement tint sa dernière réunion. Ce choix d'implantation est lui-même un acte de réparation mémorielle. Le musée conserve un vaste fonds d'archives orales et documentaires, et constitue l'une des institutions de mémoire historique les plus importantes de Taïwan.
+**2011**, le [Musée national du 228](https://www.228.org.tw/) ouvre ses portes sur la route Nanhai à Taipei. L'édifice était à l'époque japonaise la Salle de l'Association pour l'éducation, et c'est là qu'a eu lieu la dernière réunion du « Comité de traitement » pendant l'événement — le choix du lieu est en lui-même une réparation de la mémoire. Le musée conserve de vastes archives d'histoire orale et de documents, devenant l'une des institutions les plus importantes pour la mémoire historique à Taïwan.
 
-**En 2018**, la Commission pour la promotion de la justice transitionnelle — créée dans le cadre du processus de démocratisation de Taïwan — commença à annuler systématiquement les condamnations prononcées lors des procès politiques. Jusqu'à la fin de son mandat en 2022, elle avait réhabilité plus de 5 800 victimes politiques, annulé leurs condamnations et restauré leur honneur. Les travaux de la Commission comprenaient : l'ouverture des archives politiques, la reconstruction des faits historiques, le retrait des symboles autoritaires de l'espace public, et la promotion de l'éducation à l'histoire — le chantier systémique le plus vaste jamais entrepris dans la démarche taïwanaise de justice transitionnelle.
+**2018**, dans le cadre de la [démocratisation de Taïwan](/fr/history/taiwan-democratization/), la Commission pour la promotion de la justice transitionnelle commence à révoquer systématiquement les condamnations politiques. À sa dissolution en 2022, elle a déjà réhabilité plus de 5 800 victimes politiques, restaurant leur honneur. Ses travaux incluent : ouverture des archives politiques, reconstruction des faits historiques, démantèlement des symboles autoritaires, promotion de l'éducation historique — c'est le plus vaste chantier systémique de justice transitionnelle dans le processus taïwanais.
 
-## Une blessure ethnique encore ouverte
+## La blessure ethnique, toujours pas guérie
 
-L'Incident du 28 Février ne laissa pas seulement des cicatrices historiques dans la société taïwanaise ; il modela également pour les décennies suivantes les relations entre communautés provinciales.
+L'incident du 228 a laissé à la société taïwanaise bien plus que des cicatrices historiques ; il a façonné les relations entre _benshengren_ et _waishengren_ pour des décennies.
 
-Pendant les événements, une partie des habitants en colère s'en prit physiquement à des personnes originaires du continent, utilisant l'origine provinciale comme critère d'identification de l'ennemi — repérant les accents, frappant ceux qui ne parlaient pas le taïwanais. Cette page de l'histoire ne peut être occultée : la violence ne fut jamais à sens unique. Mais la répression militaire et les « opérations de pacification » visèrent principalement les Taïwanais d'origine locale, avec une ampleur et une systématicité sans commune mesure avec les violences populaires spontanées. Ces deux formes de violence se superposèrent sur la même période et laissèrent entre les Taïwanais de souche et les continentaux une méfiance réciproque que le temps n'effaça pas entièrement.
+Pendant l'événement, une partie de la foule en colère s'en est prise aux _waishengren_, utilisant l'origine provinciale comme critère ami/ennemi — on repérait l'accent, on battait ceux qui ne parlaient pas taïwanais. Cette histoire ne peut être éludée : la violence n'a jamais été à sens unique. Mais la répression et le _qingxiang_ menés par l'Armée nationale visaient principalement les Taïwanais _benshengren_, avec une ampleur et une systématicité bien supérieures aux affrontements spontanés. Les deux violences, superposées dans le même laps de temps, ont laissé entre _benshengren_ et _waishengren_ une méfiance mutuelle tenace.
 
-Cette fracture fut rouverte, suturée, puis rouverte à nouveau dans les luttes politiques qui suivirent. La « contradiction provinciale » devint la structure de fond de la politique taïwanaise : quel parti gouvernait et comment il interprétait le 28 Février influençait directement la capacité de cette blessure à se refermer vraiment.
+Cette faille a été rouverte, recousue, rouverte encore dans la compétition politique ultérieure. La « contradiction provinciale » est devenue la structure profonde de la politique taïwanaise ; quel camp gouverne, comment on interprète le 228, tout cela influence la possibilité d'une véritable cicatrisation.
 
-Les historiens continuent de débattre de la qualification de l'événement : certains y voient un mouvement national de résistance d'un peuple colonisé contre un pouvoir étranger ; d'autres soulignent la complexité des tensions ethniques, qu'il serait réducteur de simplifier à l'excès ; d'autres encore soutiennent qu'il s'agissait d'abord d'un échec de gouvernance, et seulement ensuite d'un conflit ethnique. L'historienne Chen Cuilián, dans son ouvrage _Luttes de factions et politique des intrigues_, souligne que les rivalités internes au gouvernement Chen Yi — notamment la concurrence entre le Juntong et le CC clique — furent un facteur déterminant qui empêcha toute gestion appropriée de la crise.
+Les historiens divergent encore sur la qualification de l'événement : certains y voient un mouvement ethnique de peuple colonisé résistant à une domination extérieure ; d'autres insistent sur la complexité du conflit ethnique qui ne saurait être simplifiée ; d'autres encore estiment qu'il s'agit d'abord d'un échec de la gouvernance, le conflit ethnique n'étant que secondaire. L'historienne Chen Tsui-lien, dans _Luttes de factions et politique de manœuvre_, souligne que les luttes de factions internes au gouvernement Chen Yi, l'affrontement entre le Bureau d'enquête militaire et la clique CC, sont des facteurs majeurs ayant empêché une gestion adéquate de la crise.
 
-Ces différents cadres interprétatifs correspondent à différentes positions politiques dans la société taïwanaise, et reflètent la difficulté qu'éprouve une société confrontée à ses propres pages les plus sombres — chaque interprétation contient une part de vérité, et chacune porte aussi une part de blessure.
+Ces différents cadres d'interprétation correspondent à différents positionnements politiques dans la société taïwanaise, et reflètent la difficulté pour une société à affronter sa propre histoire sombre — chaque interprétation contient une part de vérité, et chaque interprétation laisse une part de blessure.
 
-> **📝 Note de curateur**
-> Ce qui est le plus difficile dans la justice transitionnelle n'est pas d'ériger des monuments ou de présenter des excuses — c'est de permettre à des personnes différentes d'accepter que « cet événement a eu lieu, et c'était mal », sans avoir d'abord à résoudre la question de « qui a commis la plus grande faute ». Le chantier de réconciliation autour du 28 Février à Taïwan dure depuis plus de trente ans et n'est pas terminé.
+> **📝 Note du commissaire d'exposition**
+> La justice transitionnelle, ce n'est pas le plus dur d'élever des stèles ou de présenter des excuses ; le plus dur, c'est de permettre à des gens différents d'accepter que « cela s'est passé, et c'était mal », sans devoir d'abord trancher « qui a plus tort ». Le chantier de réconciliation du 228 à Taïwan avance depuis plus de trente ans, et il est encore en route.
 >
-> Les victimes d'origine continentale (89 personnes documentées dans le rapport officiel) font également partie intégrante de l'histoire du 28 Février — ces civils identifiés à leur accent au milieu du chaos et attaqués pour cela sont, eux aussi, des victimes de cette tragédie historique. Une histoire complète doit pouvoir accueillir la souffrance de tous.
+> L'histoire des victimes _waishengren_ (le rapport officiel en recense 89) fait aussi partie de l'histoire du 228 — ces civils qui, dans le chaos, ont été repérés à leur accent et agressés pour cela, sont eux aussi des victimes de cette tragédie historique. Une histoire complète doit pouvoir accueillir la douleur de tous.
 
-## Une blessure encore en train de se refermer
+## Une blessure encore en cours de guérison
 
-Chaque 28 février, le son d'une cloche commémorative résonne dans le Parc de la Paix du 28 Février à Taipei. Des familles aux cheveux blancs déposent des chrysanthèmes blancs devant le monument. Certains attendent encore une réponse : où mon père est-il enterré ?
+Chaque 28 février, le parc commémoratif de la paix du 228 à Taipei résonne du glas du souvenir. Des familles aux cheveux blancs déposent des chrysanthèmes blancs au pied de la stèle ; certains attendent encore une réponse : où mon père est-il enterré ?
 
-Le dossier de Lin Maosheng n'a reçu sa déclaration de décès qu'en 2025, soixante-dix-huit ans après son enlèvement. Ces huit hommes armés arrivés en voiture ce soir-là, ce coup frappé à la porte dans la nuit, ce corps jamais retrouvé — ces questions resteront peut-être à jamais sans réponse.
+L'affaire Lin Mao-sheng n'a obtenu sa déclaration de décès qu'en 2025, soixante-dix-huit ans après son enlèvement. Ces huit hommes armés venus en voiture, ce coup à la porte dans la nuit, ce corps jamais retrouvé — les réponses à ces questions ne viendront peut-être jamais.
 
-Le jardin public de Minsheng à Tainan, où Tang Dejang fut fusillé, a été rebaptisé « Parc commémoratif Tang Dejang ». Sa statue de bronze fait face à l'endroit même où il fut exécuté. En 2020, les habitants de Tainan réunirent seize millions de nouveaux dollars taïwanais par financement participatif pour racheter sa maison natale et la préserver comme espace historique permanent. Qu'une ville soit prête à faire cela pour une victime disparue depuis soixante-treize ans dit quelque chose d'essentiel : la mémoire n'est pas silencieuse.
+Le parc Min-sheng de Tainan où Tang De-zhang a été fusillé a été rebaptisé « Parc commémoratif Tang De-zhang » ; sa statue de bronze fait face au lieu de son exécution. En 2020, les habitants de Tainan ont collecté 16 millions de NT$ par financement participatif pour racheter sa maison natale et en faire un espace historique permanent. Que dit une ville qui, soixante-treize ans plus tard, fait cela pour une victime ? Que la mémoire n'est pas silencieuse.
 
-Si la « contradiction provinciale » s'atténue avec le renouvellement des générations, l'attitude des responsables politiques envers le 28 Février reste un sujet électoral sensible à Taïwan. La question de « jusqu'à quel point la justice transitionnelle doit-elle aller pour être considérée comme accomplie » ne fait toujours pas consensus. Peut-on un jour refermer le livre de l'histoire ? Et si oui, quelles conditions permettent de dire que ce livre est refermé ? Il n'y a pas de réponse standard à ces questions.
+Si la contradiction provinciale s'estompe avec le renouvellement des générations, l'attitude des hommes politiques face au 228 reste un sujet sensible à chaque élection taïwanaise. « Jusqu'où la justice transitionnelle doit-elle aller pour être considérée comme achevée » demeure une question sans consensus. Peut-on clore les comptes de l'histoire ? Ou plutôt, quelles conditions feraient qu'on puisse dire « c'est clos » ? Ce n'est pas une question à réponse standard.
 
-Mais les Taïwanais ont choisi de se souvenir. Car le prix de l'oubli, ils l'ont déjà payé une fois.
+Mais les Taïwanais ont choisi de se souvenir. Parce que le prix de l'oubli, ils l'ont déjà payé une fois.
 
-Du soir où Lin Jiangmai s'agenouilla sur le bitume d'un rond-point jusqu'au jour où les Taïwanais peuvent librement discuter de cette histoire, se faire photographier devant le musée national, lire ces trois chiffres dans leurs manuels scolaires — ce chemin a pris soixante-dix-huit ans.
+Du soir où Lin Jiang-mai s'est agenouillée sur le rond-point, jusqu'à aujourd'hui où les Taïwanais peuvent librement discuter de cette histoire, se photographier devant le Musée national, lire ces trois caractères dans leurs manuels — ce chemin a pris soixante-dix-huit ans.
 
-La dépouille de Lin Maosheng ne fut jamais retrouvée. Sa famille attendit soixante-dix-huit ans pour recevoir un acte de décès. Ce n'est pas une réponse — c'est la dernière chose que le droit peut offrir là où aucune réponse n'existe.
+Le corps de Lin Mao-sheng n'a jamais été retrouvé. Sa famille a attendu soixante-dix-huit ans pour recevoir un acte de déclaration de décès. Ce n'est pas une réponse ; c'est ce que le droit peut offrir de dernier là où il n'y a pas de réponse.
 
-Peu importe ce que ce papier contenait. Ce qui compte, c'est que quelqu'un, enfin, l'a écrit.
+Peu importe ce qui est écrit sur ce papier. L'important, c'est qu'enfin, quelqu'un l'ait écrit.
 
 ---
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — institutionnalisation de la commémoration des victimes et de la mise en cause des responsables, inauguré en 2018, budget gelé en 2025
-- [La loi martiale à Taïwan](/fr/history/martial-law-era) — contenant juridique de 38 ans depuis 1949, prolongement de la répression de 1947
-- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — les affaires politiques des 38 ans de loi martiale
-- [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — tension entre l'annulation des condamnations et la mise en cause des responsables
-- [Les jours fériés nationaux](/fr/society/national-holidays) — comment le 28 Février est devenu, en 1997, le premier jour férié national de la République de Chine
+- [Musée national des droits humains](/fr/history/national-human-rights-museum) — Institutionnalisation de la commémoration des victimes et de la responsabilisation des bourreaux, inauguré 2018, budget gelé en 2025
+- [Période de la loi martiale](/fr/history/martial-law-era) — 38 ans de cadre légal à partir de 1949, prolongement de la répression de 1947
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Affaires politiques sous les 38 ans de loi martiale
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Tiraillements entre révocation des jugements et responsabilisation des bourreaux
+- [Jours fériés nationaux](/fr/society/national-holidays) — Comment le 228 est devenu en 1997 le premier jour férié légal de la République de Chine
 
 ## Références
 
-- [Fondation commémorative de l'Incident du 28 Février](https://www.228.org.tw/) — présentation officielle de l'événement, liste des victimes, activités commémoratives (source primaire)
-- [Musée national commémoratif du 28 Février](https://www.228.org.tw/) — exposition permanente, archives d'histoire orale (source primaire)
-- [Wikipédia : Bilan humain de l'Incident du 28 Février](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8) — synthèse des estimations et des controverses
-- [Wikipédia : Incident du 28 Février](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6) — référence générale, perspectives multiples
-- Chen Yishen & Xue Huayuan (2021) _Rapport d'attribution des responsabilités de l'Incident du 28 Février_ — données officielles les plus récentes sur les victimes (source primaire, académique)
-- [Page commémorative de Lin Maosheng, Fondation du 28 Février](https://www.228.org.tw/228_elites-view.php?ID=26) — biographie et récit de la persécution de Lin Maosheng (source primaire)
-- [Storm Media : l'histoire de Wang Tiandeng](https://www.storm.mg/article/83492) — biographie et récit du martyre de Wang Tiandeng
-- [The News Lens : l'avocat Tang Dejang](https://www.thenewslens.com/article/115558) — biographie et récit de la persécution de Tang Dejang
-- [Academia Sinica Research : les agents secrets du 28 Février et de la Terreur blanche](https://research.sinica.edu.tw/spy-special-agent-secret-228-transitional-justice/) — recherche académique sur les liens entre le 28 Février et la Terreur blanche (source primaire, académique)
-- [Taiwan Church News : Lee Teng-hui et le 28 Février](https://tcnn.org.tw/archives/73689) — archives des excuses présidentielles de 1995
-- [CTS News : images historiques des excuses de Lee Teng-hui lors de l'inauguration du monument du 228](https://news.cts.com.tw/cts/general/202002/202002281992012.html) — images originales des excuses de Lee Teng-hui (source primaire)
-- [Commission pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/) — statistiques sur la réhabilitation des cas politiques, ouverture des archives (source primaire)
-- [Fondation culturelle Chen Chengpo](https://chenchengpo.dcam.wda.gov.tw/) — biographie et collection de peintures de Chen Chengpo (source primaire)
-- [Liberty Times : déclaration de décès de Lin Maosheng](https://news.ltn.com.tw/news/politics/paper/1713377) — reportage sur la décision judiciaire de 2025
+- [Fondation commémorative de l'incident du 228](https://www.228.org.tw/) — Aperçu officiel de l'événement, registre des victimes, activités commémoratives (source primaire)
+- [Musée national du 228](https://www.228.org.tw/) — Expositions permanentes, archives d'histoire orale (source primaire)
+- [Wikipédia : Bilan des morts de l'incident du 228](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8) — Compilation des estimations et discussion des controverses
+- [Wikipédia : Incident du 228](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6) — Référence synthétique, points de vue multiples
+- Chen Yi-shen, Xue Hua-yuan (2021) _Rapport de recherche sur l'attribution des responsabilités de l'incident du 228_ — Données officielles les plus récentes sur les morts et blessés (source primaire, académique)
+- [Fondation du 228 : Page commémorative Lin Mao-sheng](https://www.228.org.tw/228_elites-view.php?ID=26) — Biographie et circonstances de la disparition de Lin Mao-sheng (source primaire)
+- [Storm Media : L'histoire de Wang Tian-deng](https://www.storm.mg/article/83492) — Biographie et martyre de Wang Tian-deng
+- [Réseau des critiques clés : L'avocat Tang De-zhang](https://www.thenewslens.com/article/115558) — Biographie et histoire de la disparition de Tang De-zhang
+- [Institut de recherche Academia Sinica : Le 228 et les agents de la Terreur blanche](https://research.sinica.edu.tw/spy-special-agent-secret-228-transitional-justice/) — Recherche académique, relations entre 228 et Terreur blanche (source primaire, académique)
+- [Taiwan Church News : Lee Teng-hui et le 228](https://tcnn.org.tw/archives/73689) — Archives historiques des excuses du chef d'État en 1995
+- [CTV News : Images historiques des excuses de Lee Teng-hui à l'inauguration de la stèle du 228](https://news.cts.com.tw/cts/general/202002/202002281992012.html) — Images originales des excuses de Lee Teng-hui
+- [Commission pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/) — Statistiques de réhabilitation des affaires politiques, ouverture des archives (source primaire)
+- [Fondation culturelle Chen Cheng-po](https://chenchengpo.dcam.wda.gov.tw/) — Biographie de Chen Cheng-po et collection de ses œuvres (source primaire)
+- [Liberty Times : Déclaration de décès de Lin Mao-sheng](https://news.ltn.com.tw/news/politics/paper/1713377) — Reportage sur la déclaration de décès prononcée en 2025

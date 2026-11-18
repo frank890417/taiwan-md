@@ -2,9 +2,7 @@
 title: 'Gua bao : du « tigre mord le porc » de Fuzhou au symbole Michelin de BAO London'
 description: 'Dans le journal du notable de Hsinchu Huang Wangcheng, en 1927, le « tigre mord le porc » était une collation servie à la table du weiya pour remercier les employés. Un siècle plus tard, sur Lexington Street, dans le Soho londonien, les files d’attente patientent pour la même pâte repliée, que le Guide Michelin inscrit dans sa sélection Bib Gourmand. Cette petite spécialité blanche, dodue et pliée condense quatre siècles d’histoire migratoire fuzhouienne à Taïwan, le rituel patronal-salarial du weiya consacré au dieu du Sol, et la manière dont une artiste partie de Taipei pour Londres l’a portée sur les tables internationales.'
 date: 2026-05-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'en-cas',
@@ -14,18 +12,22 @@ tags:
     'BAO London',
     'cuisine taïwanaise',
   ]
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
-sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/刈包.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
+sourceBodyHash: 'sha256:6b2255cbc29cf54c'
+translatedAt: '2026-11-18T16:55:23.935933+00:00'
 ---
 
 ![Gua bao de Yuanfang Gua Bao, rue Huaxi : une pâte semi-circulaire repliée qui enveloppe poitrine de porc braisée, chou fermenté, poudre de cacahuète et coriandre, l’un des gua bao traditionnels les plus représentatifs de Taipei](/article-images/food/gua-bao-yuanfang-2023.webp)

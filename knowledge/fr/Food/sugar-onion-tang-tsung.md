@@ -3,25 +3,29 @@ title: 'Sucre‑oignon : le « sucre de la résistance » caché dans des pores 
 description: 'Dans les années 1940, les agriculteurs de Taïwan, pour échapper au monopole policier japonais sur le sucre de canne, ont tiré le sirop brun foncé en tubes blancs comme des oignons – une « technique de camouflage » des agriculteurs, cristallisation d’un siècle de sagesse populaire. Chaque morceau de sucre‑oignon possède 16 grands pores et 16 petits pores, soutenant une résistance croquante et sucrée qui a duré un siècle à Taïwan.'
 date: 2026-04-23
 category: 'Food'
-subcategory: '飲食場景'
 tags:
-  - 'Alimentation'
-  - 'Sucre‑oignon'
-  - 'Saveur traditionnelle'
-  - 'Artisanat folklorique'
-  - 'Art traditionnel d’Ilan'
-  - 'Histoire de l’industrie sucrière'
-  - 'Culture de la résistance'
+  [
+    'Alimentation',
+    'Sucre‑oignon',
+    'Saveur traditionnelle',
+    'Artisanat folklorique',
+    'Art traditionnel d’Ilan',
+    'Histoire de l’industrie sucrière',
+    'Culture de la résistance',
+  ]
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-06-12T00:53:43+08:00'
+translatedAt: '2026-11-18T17:10:19.331547+00:00'
 ---
 
 # Sucre‑oignon : le « sucre de la résistance » caché dans des pores blancs

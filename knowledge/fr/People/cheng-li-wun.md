@@ -23,11 +23,13 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
-translatedAt: '2026-10-11T01:05:45+08:00'
+translatedAt: '2026-11-18T16:43:59.515863+00:00'
 ---
 
 # Cheng Li-wun
