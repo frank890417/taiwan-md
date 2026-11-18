@@ -2,9 +2,7 @@
 title: '尹衍樑：彼が築いた科学賞は、ノーベル賞より高額でした'
 description: '2026 年 5 月 26 日午前 4 時 21 分、潤泰集団総裁の尹衍樑は台北栄民総医院で死去しました。享年 76 歳でした。進徳中学で王金平に傷口を手当てされた喧嘩少年から、1989 年に埃が足首を覆う北京大学に足を踏み入れ、光華管理学院の創設に出資した人物へ、そして 2012 年には 30 億新台湾ドルの信託基金を寄付して唐賞を設立しました。賞金は各部門 5,000 万新台湾ドルで、ノーベル賞を上回ります。亡くなったばかりの一人の台湾商人は、世界にノーベル賞より高額な賞を残しました。'
 date: 2026-05-26
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '企業家'
 tags:
   [
     '尹衍樑',
@@ -24,9 +22,17 @@ tags:
     '主権の保全',
     '2026 年死去',
   ]
+subcategory: '企業家'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-26
 lastHumanReview: false
-featured: true
+viewpoint_formed: true
+researchReport: 'reports/research/2026-05/尹衍樑.md'
+image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
+imageCredit: '中華民國總統府'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
 sporeLinks:
   - id: 95
     platform: 'threads'
@@ -36,15 +42,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-26'
     url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-06-16T17:04:12Z'
-image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
-imageCredit: '中華民國總統府'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
+translatedAt: '2026-11-18T14:10:52.435092+00:00'
 ---
 
 # 尹衍樑：彼が築いた科学賞は、ノーベル賞より高額でした

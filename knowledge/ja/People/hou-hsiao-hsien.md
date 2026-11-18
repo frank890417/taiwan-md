@@ -174,11 +174,13 @@ lifeTree:
         - label: '繼續嘗試小製作'
           plausibility: 'structural'
           note: '同代有導演（如黑澤明、伯格曼）退休後仍嘗試小作品。如果他堅持拍，可能因疾病造成晚節不保，反而傷害遺產。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-09-23T11:47:59+08:00'
+translatedAt: '2026-11-18T14:20:56.424239+00:00'
 ---
 
 # 侯孝賢（ホウ・シャオシェン）

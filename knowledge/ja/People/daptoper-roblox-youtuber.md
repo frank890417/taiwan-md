@@ -1,19 +1,22 @@
 ---
-title: '有感筆電：「ダーク」から百万登録へ、Roblox世代を定義するデータキュレーター'
-description: '2023年、本名・周智宣の「有感筆電（Daptoper）」がYouTube百万登録者を達成した。初期のMinecraft実況からRobloxというブルーオーシャンに深耕し、清大を休学した彼は「週に月・水・金は必ず遅刻する」という自虐的なユーモアと、画面の裏側で徹底したデータ管理を駆使して、書籍とDiscordにまたがるデジタルコミュニティ帝国を築き上げた。'
+title: '有感筆電：「暗黒」から100万へ、Roblox世代のデータキュレーターを定義する'
+description: '2023年、本名・周智宣の「有感筆電」がYouTube登録者数100万人を達成。初期のMinecraft実況からRobloxのブルーオーシャンを深耕し、この清華大学休学生は「毎週月水金に遅刻する」という自虐と画面の裏での極限のデータ自律により、実体本とDiscordを跨ぐデジタルコミュニティ帝国を築き上げた。'
 date: 2026-04-24
+category: 'People'
 tags:
   ['YouTuber', 'Roblox', '周智宣', 'ゲーム実況', 'デジタルネイティブ', '自律']
-category: 'People'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-05-01T19:52:32+08:00'
+translatedAt: '2026-11-18T14:48:15.740475+00:00'
 ---
 
 > **30秒でわかる：**

@@ -1,14 +1,16 @@
 ---
 title: '韓国瑜'
-description: '史上初の解職された直轄市長から、4年後に立法院長に就任。これはどのような政治的軌跡なのか？'
+description: '史上初めて罷免された直轄市の市長であり、その4年後に立法院長に就任しました。これはどのような政治的軌跡なのでしょうか。'
 date: 2026-04-11
-author: 'Taiwan.md'
+category: 'People'
+tags: ['政治家', '国民党', '立法院長', '韓流', '高雄', '2018', '2020', '2024']
 subcategory: '政治人物'
-tags: ['政治人物', '国民党', '立法院長', '韓流', '高雄', '2018', '2020', '2024']
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 24
     platform: 'threads'
@@ -18,13 +20,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-06-10T16:41:16Z'
-category: 'People'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T15:32:14.844299+00:00'
 ---
 
 # 韓国瑜

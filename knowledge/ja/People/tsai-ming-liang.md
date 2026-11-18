@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: 'e53f17151'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-15T22:59:14.080741+00:00'
+translatedAt: '2026-11-18T14:37:31.828775+00:00'
 ---
 
 # 蔡明亮：スロー・シネマの詩人
