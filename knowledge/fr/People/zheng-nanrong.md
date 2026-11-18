@@ -1,10 +1,8 @@
 ---
-title: "Zheng Nanrong : l'équation d'un fils de continent qui échangea sa vie contre la liberté d'expression"
-description: "En 1947, lors du 228, son père Zheng Musen fut caché par des voisins taïwanais pour échapper à la mort ; quarante et un ans plus tard, le fils aîné de ce couple, Zheng Nanrong, s'embrasa dans sa propre rédaction. Il fonda *Free Times Weekly* en 1984, détenant 24 licences et publiant malgré 18 interdictions ; en 1988, il publia le *Projet de constitution de la République de Taïwan* de Xu Shikai, puis s'immola le 7 avril 1989. Ye Julan entra ensuite en politique, successivement députée, ministre des Transports, présidente du Conseil des affaires hakka, vice-première ministre et secrétaire générale de la Présidence. Le choix de Zheng reste controversé : ses partisans y voient un sacrifice suprême, ses détracteurs un geste individuel excessif. L'air de la liberté d'expression à Taïwan est aujourd'hui si quotidien que beaucoup ont oublié qu'il fallut un jour le payer de sa vie."
+title: "Cheng Nan-rong : l'équation d'un enfant de l'extérieur ayant échangé sa vie pour la liberté d'expression"
+description: "Lors de l'incident du 228 en 1947, le père de Cheng Nan-rong fut sauvé par des voisins taïwanais ; quarante et un ans plus tard, son fils mit le feu à sa propre rédaction. Fondateur de « Free Times » en 1984, il a défié la censure malgré 18 interdictions. En 1989, il s'est immolé par le feu pour défendre le droit de parole."
 date: 2026-03-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'Mouvement démocratique',
@@ -14,128 +12,132 @@ tags:
     '228',
     'Indépendance de Taïwan',
   ]
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭南榕.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:97d9bc4f07653a81'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:8c5f343cec62a07b'
 sourceBodyHash: 'sha256:91b4c7638f35fd2f'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-18T21:29:21+08:00'
 ---
 
-# Zheng Nanrong
+# Cheng Nan-rong
 
-En 1947, quand éclata l'incident du 228, une famille de la rue Hankou à Taipei tremblait chez elle. Le père, Zheng Musen, était un « continent » originaire de Fuzhou ; dans la rue, on pourchassait les continentaux. Ce furent les voisins taïwanais d'à côté qui les cachèrent, leur sauvant la vie.
+Lors de l'éclatement de l'incident du 228 en 1947, une famille de la rue Hankou à Taipei tremblait, cachée dans sa maison. Le père, Cheng Mu-sen, était un « _waishēngrén_ » (外省人, personne venue de Chine continentale) originaire de Fuzhou, et les gens dans la rue traquaient les personnes de ce statut. Ce sont des voisins taïwanais qui les ont cachés, sauvant ainsi toute la famille.
 
-Sept mois plus tard, le fils aîné de ce couple naquit. On le nomma Nanrong.
+Sept mois plus tard, le fils aîné du couple naquit et fut nommé Nan-rong.
 
-Quarante et un ans plus tard, ce « fils de continent » sauvé par des Taïwanais embrasa de l'essence dans sa propre rédaction, pour le droit de tous les Taïwanais à s'exprimer.
+Quarante et un ans plus tard, cet « enfant de l'extérieur » qui avait été sauvé par les Taïwanais, afin de défendre le droit de parole de tous les Taïwanais, mit le feu à sa propre rédaction.
 
-> **✦** Sa mort procédait d'un calcul méticuleux : si l'on ne craint même pas la mort, les vivants n'ont aucune raison de se taire.
+> **✦** Sa mort provient d'une conviction mûrement réfléchie : si l'on n'a même pas peur de mourir, ceux qui sont vivants n'ont aucune raison de se taire.
 
-## Un homme en quête de place
+## Une personne sans place assignée
 
-La première moitié de la vie de Zheng Nanrong est celle d'un homme sans cesse en quête de repères.
+La première partie de la vie de Cheng Nan-rong est l'histoire d'une quête constante d'identité.
 
-Il grandit à Luodong, dans le Yilan. Son père tenait un salon de coiffure au magasin social de l'usine Zhongxing Paper. Le premier jour d'école primaire, il fut moqué par ses camarades en raison de son statut de « continent » et se battit. Dès lors, lui et ses frères se considérèrent comme des natifs de Taïwan, adoptèrent le taïwanais comme langue maternelle et rejoignirent le « camp des natifs » pour se battre contre les autres enfants continentaux. L'absurdité des clivages identitaires, il la vécut dès l'âge de six ans.
+Il a grandi à Luodong, dans le comté d'Yilan, où son père gérait un salon de coiffure à la coopérative de l'usine de papier Zhongxing. Dès son premier jour d'école primaire, il fut moqué par ses camarades en raison de son statut de « _waishēngrén_ » et se battit avec eux. Par la suite, lui et ses frères se considéraient comme des locaux (_běnshěngrén_ 本省人), utilisaient le taïwanais comme langue maternelle et rejoignaient le « camp des locaux » pour se battre contre les autres enfants venus de Chine continentale. Il commença à ressentir l'absurdité des distinctions de provenance dès l'âge de six ans.
 
-Il fut reçu premier au collège de Yilan, puis entra au lycée Jianguo. Son père voulait qu'il intègre l'Institut technique de Taipei, dont on sortait diplômé en cinq ans, mais Zheng Nanrong tint à rester au lycée. Au concours d'entrée à l'université, il abandonna les lettres, sa passion, pour la faculté de sciences de l'ingénierie de l'université de Cheng Kung — parce que la famille avait besoin qu'il gagne rapidement de l'argent pour ses frères.
+Il entra au lycée d'Yilan en étant major, puis intégra le lycée Chien-kuo. Son père souhaitait qu'il étudie au collège technique de Taipei pour obtenir un diplôme en cinq ans, mais Cheng Nan-rong insista pour étudier au lycée Chien-kuo. Lors du concours universitaire, il renonça à la faculté de lettres qu'il aimait pour choisir le département de sciences de l'ingénieur de l'université de National Cheng Kung — car sa famille avait besoin qu'il gagne rapidement de l'argent pour subvenir aux besoins de ses frères.
 
-Après un an, il comprit que ce n'était pas sa voie. Il abandonna, repassa le concours et entra à la faculté de philosophie de l'université Fu Jen. Puis il changea à nouveau, pour la faculté de philosophie de l'université nationale de Taïwan. Là, il rendit chaque semaine visite au professeur Yin Haiguang, en résidence surveillée, et lut Hu Shi, Li Ao et le libéralisme classique. Il trouva une conviction : l'histoire chinoise ne pouvait engendrer une société libre et démocratique ; Taïwan devait tracer sa propre voie.
+Après un an, réalisant que ce n'était pas sa voie, il suspendit ses études, repassa le concours et intégra le département de philosophie de l'université Fu Jen. Il changea encore d'établissement pour rejoindre le département de philosophie de l'Université nationale de Taïwan. Là-bas, il rendait visite chaque semaine au professeur [Yin Hai-kuang](https://zh.wikipedia.org/wiki/%E6%AE%B7%E6%B5%B7%E5%85%89), alors en résidence surveillée, et lisait Hu Shih, Li Ao et le libéralisme classique. Il trouva une conviction : l'histoire de la Chine ne pouvait pas produire une société libre et démocratique ; Taïwan devait suivre sa propre voie.
 
-Mais il refusa de suivre le cours obligatoire imposé par le Kuomintang, « Pensée du Père de la Nation », et n'obtint jamais son diplôme.
+Cependant, il refusa de suivre le cours obligatoire « Pensée du Père de la Nation » imposé par le Kuomintang (KMT), ce qui l'empêcha d'obtenir son diplôme.
 
-Après son service militaire, Zheng Nanrong tenta plusieurs activités : exportation textile, vente de chauffe-eau solaires, importation de pastilles suisses pour la gorge, distribution de publications. Tout échoua. Ce n'est qu'à trente-quatre ans qu'il trouva son champ de bataille : le magazine.
+Après son service militaire, Cheng Nan-rong travailla dans l'exportation textile, vendit des chauffe-eau solaires, importa des pastilles pour la gorge suisses et géra un distributeur de livres et revues. Tous ses projets échouèrent. Ce n'est qu'à trente-quatre ans qu'il trouva son véritable champ de bataille : les magazines.
 
-> **📝 Note du commissaire**
-> L'épouse de Zheng Nanrong, Ye Julan, est une Hakka du Miaoli. Son père s'opposa farouchement à ce mariage en raison du clivage identitaire. Zheng Nanrong courtisa Ye Julan par lettres, par intermédiaires, puis par télégramme. Ils finirent par se marier devant un notaire à Taipei, et ne furent reconnus par leurs familles respectives qu'un an plus tard. Un garçon moqué à cause de son origine épousa une fille rejetée pour la même raison — leur vie entière fut un combat contre les cages identitaires.
+> **📝 Note du commissaire d'exposition**
+> L'épouse de Cheng Nan-rong, Yeh Chu-lan, est une Hakka de Miaoli. Son beau-père s'opposa violemment à ce mariage en raison des distinctions de provenance. Cheng Nan-rong courtisa Yeh Chu-lan par lettres, via des intermédiaires et même par télégrammes ; ils finirent par se marier devant un notaire à Taipei, mais ne furent reconnus par leurs familles qu'un an plus tard. Un garçon moqué pour son origine épousa une jeune fille rejetée pour la même raison — leur vie entière fut une lutte contre les cages de l'identité.
 
 ## Vingt-quatre licences
 
-Le 12 mars 1984, _Free Times Weekly_ parut pour la première fois.[^1] Fondateur : Zheng Nanrong ; directeur de la rédaison : Li Ao ; directeur de la publication : Chen Shui-bian ; éditeur : Lin Shiyu. Un seul slogan : « Luttez pour une liberté à cent pour cent. »
+Le 12 mars 1984, le magazine « [Free Times Weekly](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) » fut lancé. [^1] Le fondateur était Cheng Nan-rong, avec Li Ao comme directeur, Chen Shui-bian comme rédacteur en chef et Lin Shih-yu comme éditeur. Leur slogan était unique : « Lutter pour cent pour cent de liberté. »
 
-Mais Zheng Nanrong fit ce à quoi personne ne s'attendait : avant le lancement, il rassembla des diplômes universitaires et demanda **24 licences de presse** auprès du Bureau de l'Information.[^1]
+Mais Cheng Nan-rong fit ce que personne n'avait prévu : avant le lancement, il collecta des diplômes universitaires partout et demanda au Bureau de l'information **24 licences de magazine**. [^1]
 
-Car il savait que le gouvernement interdirait. Quand un numéro serait interdit, le suivant paraîtrait immédiatement sous une nouvelle licence, le nom du magazine conservant toujours le mot « Times ». Il en utilisa plusieurs. Le gouvernement interdit à plusieurs reprises, il changeait de licence et continuait à publier. Chaque licence avait été prévue à l'avance pour cet usage.
+Il savait que le gouvernement tenterait de les interdire. Si un numéro était censuré, le suivant paraissait immédiatement sous une nouvelle licence, tout en conservant le mot « Times » (時代) dans son titre. Il finit par en utiliser plusieurs. À chaque fois que le gouvernement interdisait la publication, il changeait de licence pour continuer. Chaque licence avait été planifiée avant même le lancement.
 
-_Free Times_ publiait, sous la loi martiale, ce que le gouvernement interdisait de dire : réformes politiques, droits de l'homme, égalité des communautés, avenir de Taïwan. Le magazine offrit aussi une tribune aux mouvements environnementaux et aux droits des peuples autochtones, faisant partie des rares médias de l'époque prêts à accueillir des causes sociales diverses. Chaque numéro dansait sur le fil du rasoir. Zheng Nanrong fut poursuivi à plusieurs reprises, mais ne recula jamais. Il disait : « Pour quelqu'un comme moi, doté d'une solide formation intellectuelle, publier un magazine est la manière la plus appropriée de mettre sa foi en pratique. »
+Pendant la période de la loi martiale, _Free Times_ se spécialisa dans la publication de ce que le gouvernement interdisait : réformes politiques, protection des droits de l'homme, égalité ethnique, l'avenir de Taïwan ; il offrait également des espaces pour les mouvements environnementaux et les droits des peuples autochtones, étant l'un des rares médias prêts à traiter ces enjeux sociaux diversifiés. Chaque numéro était une danse sur le fil du rasoir. Cheng Nan-rong fut poursuivi de nombreuses fois, mais il ne recula jamais. Il disait : « Pour quelqu'un comme moi, doté d'une formation intellectuelle profonde, tenir un magazine est la meilleure façon de pratiquer sa foi. »
 
-En 1987, _Free Times_ fit quelque chose d'inédit : organiser publiquement une commémoration de l'incident du 228. C'était la première fois en quarante ans qu'un média osait aborder publiquement le 228.[^2]
+En 1987, _Free Times_ fit quelque chose de sans précédent : lancer publiquement des activités commémoratives pour l'incident du 228. C'était la première fois en quarante ans qu'un média public osait parler du 228. [^2]
 
 ## Ce projet de constitution
 
-En décembre 1988, Zheng Nanrong publia dans le numéro 254 de _Free Times_ le _Projet de constitution de la République de Taïwan_ rédigé par Xu Shikai.[^3]
+En décembre 1988, Cheng Nan-rong publia dans le numéro 254 de _Free Times_ le « Projet de Constitution de la République de Taïwan » rédigé par [Hsu Shih-kai](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7). [^3]
 
-À l'époque, prôner l'indépendance de Taïwan équivalait à un crime de sédition, passible de la peine de mort.
+À l'époque, prôner l'indépendance de Taïwan équivalait à un crime de sédition passible de la peine de mort.
 
-Zheng Nanrong savait parfaitement ce que cela impliquait. Mais il estimait que si les citoyens d'un pays n'avaient même pas le droit de « discuter » de l'avenir de ce pays, alors la liberté d'expression de ce pays était un leurre. Ce qu'il défendait, c'était la légitimité de la **discussion elle-même** — que l'indépendance soit juste ou non, c'était une autre question.
+Cheng Nan-rong savait parfaitement ce que cela impliquait. Mais il estimait que si le peuple d'un pays n'est même pas autorisé à « discuter » de l'avenir de sa nation, alors la liberté d'expression dans ce pays est une illusion. Ce qu'il voulait défendre, c'était la légitimité de la **discussion elle-même** — que l'indépendance soit juste ou non était une autre question.
 
-Le 21 janvier 1989, le parquet inculpa Zheng Nanrong pour sédition et le cita à comparaître.[^2]
+Le 21 janvier 1989, le procureur poursuivit Cheng Nan-rong pour sédition et ordonna sa comparution. [^2]
 
 Il refusa.
 
-Il s'enferma dans la rédaison du magazine, dans le district de Songshan à Taipei, et déclara publiquement :
+Il s'enferma dans la rédaction située dans le district de Songshan à Taipei et annonça au monde :
 
-**« Le Kuomintang ne pourra m'avoir vivant ; il n'aura que mon cadavre. »**
+**« Le Kuomintang ne peut pas attraper mon corps, il ne pourra attraper que mon cadavre. »**
 
 ## Le 7 avril
 
-Soixante et onze jours de réclusion volontaire.
+Soixante et un jours de confinement volontaire.
 
-Le 7 avril 1989, à l'aube, le chef de la brigade criminelle du commissariat de Zhongshan, Hou Youyi, mena l'assaut contre la rédaction.[^4] Zheng Nanrong se retira dans la salle de la rédaction en chef, verrouilla la porte et embrasa l'essence qu'il avait préparée depuis longtemps.
+À l'aube du 7 avril 1989, [Hou Yu-ih](https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%8F%8B%E5%AE%9C), alors chef de la brigade criminelle du sous-district de Zhongshan, mena une unité pour forcer l'entrée de la rédaction. [^4] Cheng Nan-rong se replia dans le bureau du rédacteur en chef, verrouilla la porte et mit le feu à l'essence qu'il avait préparée.
 
-Il mourut à quarante et un ans. Sa fille, Zheng Zhumei, en avait neuf.
+Il avait quarante et un ans à sa mort. Sa fille, Cheng Chu-mei, avait neuf ans.
 
-Sept jours plus tard, un autre militant, Zhan Yihua, s'immola lors du cortège funèbre de Zheng Nanrong, devant la Présidence.[^4]
+Sept jours plus tard, un autre militant, [Chan Yi-hua](https://zh.wikipedia.org/wiki/%E8%A9%B9%E7%9B%8A%E6%A8%BA), s'immola par le feu devant le palais présidentiel en pleine procession funéraire de Cheng Nan-rong. [^4]
 
 > **💡 Le saviez-vous ?**
-> Hou Youyi, qui dirigea l'assaut, devint par la suite maire de la ville de Nouveau Taipei. Ce chapitre d'histoire reste l'un des souvenirs les plus sensibles de la politique taïwanaise — le nom de celui qui exerça la force publique et celui du martyr coexistent dans le quotidien de cette île.
+> Hou Yu-ih, qui dirigeait l'assaut, est devenu plus tard maire de la ville de New Taipei. Cette histoire reste l'un des souvenirs les plus sensibles de la politique taïwanaise — les noms de celui qui exerçait le pouvoir public et du martyr coexistent dans le quotidien de cette île.
 
 ## Après le feu
 
-La mort de Zheng Nanrong envoya une onde de choc à travers la société taïwanaise.
+La mort de Cheng Nan-rong fut un véritable séisme dans la société taïwanaise.
 
-Beaucoup de ceux qui s'étaient tus commencèrent à parler. Intellectuels, avocats, enseignants — ceux qui s'étaient tus pendant des années par peur virent qu'un homme pouvait donner sa vie pour le « droit de parler », et soudain ne se trouvèrent plus aucune raison de se taire.
+Beaucoup de ceux qui restaient silencieux commencèrent à parler. Intellectuels, avocats, enseignants — ceux qui étaient restés calmes par peur pendant des années, voyant qu'un homme pouvait donner sa vie pour le « droit de parole », se sentirent soudain sans raison de se taire.
 
-Son épouse, Ye Julan, ne s'effondra pas. Elle franchit la porte que son mari avait ouverte de sa vie — elle entra en politique, devenant successivement députée, ministre des Transports, présidente du Conseil des affaires hakka, vice-première ministre, puis secrétaire générale de la Présidence entre 2006 et 2007.[^5] Sa fille Zheng Zhumei, une fois adulte, s'investit dans le travail de la fondation, préservant l'héritage spirituel de son père.
+Son épouse, Yeh Chu-lan, ne s'effondra pas. Elle franchit la porte que son mari avait ouverte au prix de sa vie en entrant en politique : elle fut députée, ministre des Transports, présidente du Conseil des populations Hakka, vice-présidente de l'Exécutif, et entre 2006 et 2007, secrétaire générale de la présidence. [^5] Sa fille, Cheng Chu-mei, une fois adulte, s'investit dans le travail de fondation pour préserver l'héritage spirituel de son père.
 
-Le parcours de cette famille constitue un cas rare de « privatisation du deuil, publicisation de l'énergie » dans le mouvement démocratique taïwanais — une perte personnelle transformée en énergie politique pour toute une génération.
+Le parcours de cette famille est devenu un cas rare de « privatisation du deuil pour une cause publique » dans le mouvement démocratique taïwanais — une perte individuelle transformée en énergie politique pour toute une génération.
 
-> **⚖️ Perspective controversée**
-> Le choix de Zheng Nanrong fait encore l'objet d'interprétations divergentes. Ses partisans voient dans l'immolation un acte de foi méticuleusement calculé, par lequel il assura, au prix le plus élevé, que la question de la liberté d'expression ne pourrait être ignorée. Ses détracteurs estiment que l'immolation est un geste individuel excessif, qu'il est possible de poursuivre des objectifs par des moyens extrêmes, et qu'il brouille les voies possibles de réforme par la lutte institutionnelle ; Hou Youyi exétait un mandat d'arrêt légal et ne peut être réduit à un « bourreau ». Ces deux cadres de lecture coexistent dans le débat sur l'histoire démocratique de Taïwan ; au lecteur de juger.
+> **⚖️ Perspectives divergentes**
+> Le choix de Cheng Nan-rong fait encore l'objet d'interprétations différentes. Ses partisans voient son immolation comme un acte de conviction calculé, affirmant qu'il a payé le prix ultime pour garantir que la question de la liberté d'expression ne puisse être ignorée. Ses détracteurs considèrent cela comme un choix personnel excessif, une méthode extrême pour atteindre un but qui brouille les voies possibles de réforme par la lutte institutionnelle ; ils soulignent que Hou Yu-ih exécutait un mandat d'arrestation légal et que l'acte ne peut être réduit à de la « violence ». Ces deux cadres d'interprétation coexistent dans les débats sur l'histoire démocratique de Taïwan.
 
-Le 22 décembre 2016, le Yuan exécutif désigna officiellement le 7 avril comme « Jour de la liberté d'expression ».[^6] Le Mémorial Zheng Nanrong à Taipei (ancien siège du magazine) a conservé son dernier bureau, dont les murs portent encore les traces de la combustion.
+Le 22 décembre 2016, le Conseil exécutif a officiellement décrété le 7 avril comme étant la « [Journée de la liberté d'expression](<https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E6%97%A5_(%E8%87%BA%E7%81%A3)>) ». [^6] Le [Musée commémoratif Cheng Nan-rong](https://www.nfreedommemorialfoundation.org/) à Taipei (situé sur l'ancien site de la rédaction) conserve son dernier bureau, dont les murs portent encore les traces du feu.
 
-## L'héritage d'un penseur en action
+## L'héritage d'un penseur de l'action
 
-Zheng Nanrong aimait se décrire comme un « penseur en action ». Le terme le décrit avec précision : il ne se contentait pas de réfléchir à la liberté, il en faisait une pratique vivante.
+Cheng Nan-rong aimait se définir comme un « penseur de l'action ». Ce terme le décrivait avec précision : il ne se contentait pas de penser la liberté, il vivait la liberté comme une pratique.
 
-Sa conviction fondamentale était d'une simplicité radicale : **toutes les opinions, y compris celles avec lesquelles on n'est pas d'accord, doivent pouvoir être librement discutées.** L'unification ou l'indépendance peuvent être débattues, le système peut être questionné, le gouvernement peut être critiqué. Car « interdire la discussion » est en soi une violence — plus fondamentale que toute censure de contenu spécifique.
+Sa conviction fondamentale était extrêmement simple : **tous les points de vue, y compris ceux avec lesquels vous n'êtes pas d'accord, doivent pouvoir être discutés librement.** L'unification ou l'indépendance peuvent être débattues, le système peut être questionné, le gouvernement peut être critiqué. Car « interdire la discussion » est en soi une forme de violence — plus fondamentale que la répression de n'importe quel contenu spécifique.
 
-Aujourd'hui à Taïwan, on peut critiquer le président sur Internet, manifester avec des pancartes dans la rue, débattre de n'importe quel sujet dans les médias. Cet air de liberté est si quotidien que beaucoup ont oublié qu'il fallut un jour le payer de sa vie.
+Dans le Taïwan d'aujourd'hui, les gens peuvent critiquer le président sur Internet, manifester dans la rue ou débattre de n'importe quel sujet dans les médias. Cette liberté est devenue si banale que beaucoup ont oublié qu'elle a autrefois exigé des vies humaines.
 
-Ce que Zheng Nanrong laisse derrière lui est une question qui peut continuer d'être débattue : pourquoi quelqu'un est-il prêt à donner sa vie pour le droit des autres à s'exprimer ? Quelle que soit votre réponse, le feu qu'il alluma en 1989 changea effectivement le poids que les Taïwanais accordent à la liberté d'expression.
+Ce que Cheng Nan-rong a laissé, c'est une question qui continue d'être débattue : pourquoi quelqu'un serait-il prêt à échanger sa vie pour le droit de parole des autres ? Quelle que soit votre réponse, le feu qu'il a allumé en 1989 a véritablement changé la perception du poids de la liberté d'expression pour les Taïwanais.
 
 ## Références
 
-[^1]: [Free Times Weekly — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirmation de la date de fondation (12 mars 1984), des 24 licences demandées et des 18 interdictions.
+[^1]: [Free Times Weekly — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirmation de la date de lancement (12 mars 1984), des 24 licences demandées et des 18 enregistrements de censure.
 
-[^2]: [Fondation et Mémorial Zheng Nanrong](https://www.nfreedommemorialfoundation.org/) — Chronologie : commémoration publique du 228 en 1987, inculpation pour sédition le 21 janvier 1989.
+[^2]: [Fondation Cheng Nan-rong • Musée](https://www.nfreedommemorialfoundation.org/) — Chronologie biographique : lancement public des commémorations du 228 en 1987, chronologie de l'accusation pour sédition le 21 janvier 1989.
 
-[^3]: [Xu Shikai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Contexte de l'auteur du _Projet de constitution de la République de Taïwan_ ; circonstances de la publication dans le numéro 254 de _Free Times_ et de l'inculpation qui s'ensuivit.
+[^3]: [Hsu Shih-kai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Contexte de l'auteur du « Projet de Constitution de la République de Taïwan » ; détails sur l'accusation suite à sa publication dans _Free Times_ n°254.
 
-[^4]: [Zheng Nanrong — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirmation que l'assaut du 7 avril 1989 fut mené par Hou Youyi du commissariat de Zhongshan ; Zhan Yihua s'immola sept jours plus tard lors du cortège funèbre.
+[^4]: [Cheng Nan-rong — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirmation que l'assaut du 7 avril 1989 était mené par Hou Yu-ih de la brigade de Zhongshan ; immolation de Chan Yi-hua sept jours plus tard lors de la procession funéraire.
 
-[^5]: [Ye Julan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirmation des fonctions occupées : députée, ministre des Transports, présidente du Conseil des affaires hakka, vice-première ministre, secrétaire générale de la Présidence (2006–2007).
+[^5]: [Yeh Chu-lan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirmation des fonctions publiques : députée, ministre des Transports, présidente du Conseil des populations Hakka, vice-présidente de l'Exécutif, secrétaire générale de la présidence (2006–2007).
 
-[^6]: [Jour de la liberté d'expression — Yuan exécutif](https://www.ey.gov.tw/) — Annonce du 22 décembre 2016 désignant le 7 avril comme Jour de la liberté d'expression.
+[^6]: [Journée de la liberté d'expression — Conseil exécutif](https://www.ey.gov.tw/) — Annonce officielle décrétant le 7 avril comme Journée de la liberté d'expression le 22 décembre 2016.
 
-## Pour aller plus loin
+**Lectures complémentaires**
 
-- [Zeng Bo'en](/fr/people/bernard-tseng) — En août 2019, l'animateur de _The Night Night Show with Brian Tseng_ cita l'immolation de Zheng Nanrong lors d'un Open Mic, provoquant une violente réaction sociale et la première suspension de sa collaboration avec Strayer.
-- [Musée national des droits de l'homme](https://www.nhrm.gov.tw/) — Histoires orales de la Terreur blanche et du mouvement démocratique.
-- Hu Huiling, _Cent ans de quête : l'histoire du mouvement démocratique taïwanais_ — Récit détaillé de Zheng Nanrong et du mouvement d'opposition.
-- [Fondation de commémoration de l'incident du 228](https://www.228.org.tw/) — Lien entre la famille Zheng Nanrong et le 228.
-- [Incident de Formose — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — L'événement catalyseur qui poussa Zheng Nanrong à s'engager dans le mouvement social.
-- Documentaire _Nylon, l'âme libre_ (réalisateur : Cai Chonglong, 2009) — Reconstitution de la vie de Zheng Nanrong et de sa décision d'immolation à travers des témoignages et des images d'archives.
+- [Tseng Po-en](/fr/people/bernard-tseng) — En août 2019, l'animateur de _Po-en Night Show_ a cité une blague sur l'immolation de Cheng Nan-rong lors d'un Open Mic, provoquant un violent retour de bâton social et la suspension de sa collaboration avec Satire News.
+- [Musée national des droits de l'homme](https://www.nhrm.gov.tw/) — Histoire orale de la Terreur blanche et du mouvement démocratique.
+- Hu Hui-ling, _La quête d'un siècle : l'histoire du mouvement démocratique à Taïwan_ — Récit détaillé de Cheng Nan-rong et du mouvement Tangwai.
+- [Fondation commémorative de l'incident du 228](https://www.228.org.tw/) — Liens entre la famille de Cheng Nan-rong et le 228.
+- [Incident de Formose (Belle Île) — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Événement clé ayant catalysé l'engagement de Cheng Nan-rong dans le militantisme social.
+- Documentaire _L'âme de la liberté Nylon_ (Réalisé par Tsai Chung-lung, 2009) — Reconstitution du parcours de vie et de la décision d'immolation de Cheng Nan-rong à travers des interviews et des images historiques.

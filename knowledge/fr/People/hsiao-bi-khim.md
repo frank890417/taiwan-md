@@ -4,25 +4,29 @@ description: "Née au Japon, scolarisée à Tainan, élevée dans le New Jersey,
 date: 2026-04-11
 category: 'People'
 tags:
-  - 'politicien'
-  - 'vice-président'
-  - 'Parti démocratique progressiste'
-  - 'affaires étrangères'
-  - 'représentant à Washington'
-  - 'Hualien'
-  - 'chat guerrier'
+  [
+    'politicien',
+    'vice-président',
+    'Parti démocratique progressiste',
+    'affaires étrangères',
+    'représentant à Washington',
+    'Hualien',
+    'chat guerrier',
+  ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-06-12T00:53:43+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T14:21:36.133573+00:00'
 ---
 
 # Hsiao Bi-khim

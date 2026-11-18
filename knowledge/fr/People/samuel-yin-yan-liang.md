@@ -1,32 +1,38 @@
 ---
-title: "Samuel Yin : le prix scientifique qu'il a créé vaut plus que le Nobel"
-description: "Le 26 mai 2026 à quatre heures vingt et une du matin, Samuel Yin, président du groupe Ruentex et fondateur du Tang Prize, s'est éteint à l'hôpital des Vétérans de Taipei (VGH Taipei), à l'âge de 76 ans. Du bagarreur adolescent dont Wang Jin-ping pansait les blessures au collège Jingde, à sa visite en 1989 à l'université de Pékin où la poussière lui montait aux chevilles, en passant par la création de la Guanghua School of Management, jusqu'au don de 3 milliards de dollars taïwanais en 2012 pour fonder le Tang Prize — dont le prix de 50 millions de dollars taïwanais par catégorie dépasse celui du Nobel. Un homme d'affaires taïwanais vient de quitter ce monde, léguant à la planète un prix plus cher que le Nobel."
+title: "Yin Yen-liang : le prix scientifique qu'il a créé, plus cher que le Nobel"
+description: "Le 26 mai 2026 à 4h21 du matin, Yin Yen-liang, président du groupe Ruentex, est décédé à l'hôpital général des vétérans de Taipei, à l'âge de 76 ans. De l'adolescent bagarreur soigné par Wang Jin-ping au lycée Jinde, à son arrivée en 1989 à l'université nationale de Taiwan où la poussière couvrait les chevilles, en passant par le financement de la création de l'École de gestion Guanghua, jusqu'à la donation en 2012 de 3 milliards de nouveaux dollars taïwanais en fonds fiduciaire pour établir le prix Tang. La dotation de chaque prix s'élève à 50 millions de nouveaux dollars taïwanais, surpassant le Nobel. Un homme d'affaires taïwanais vient de nous quitter, laissant au monde un prix plus cher que le Nobel."
 date: 2026-05-26
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '企業家'
 tags:
   [
-    '尹衍樑',
-    '潤泰集團',
-    '唐獎',
-    '南山人壽',
-    '大潤發',
-    '北大光華管理學院',
-    '台灣慈善',
-    '預鑄工法',
-    '王金平',
-    '司徒達賢',
-    '王綺帆',
-    '尹崇堯',
-    '中央研究院',
-    '北榮重粒子癌症中心',
-    'sovereignty preservation',
-    '2026 辭世',
+    'Yin Yen-liang',
+    'Groupe Ruentex',
+    'Prix Tang',
+    'Nan Shan Life Insurance',
+    'RT-Mart',
+    "École de gestion Guanghua de l'Université nationale de Taiwan",
+    'Philanthropie à Taïwan',
+    'Méthode de préfabrication',
+    'Wang Jin-ping',
+    'Szeto Da-yin',
+    'Wang Qi-fan',
+    'Yin Chong-yao',
+    'Academia Sinica',
+    "Centre de cancérologie aux ions lourds de l'hôpital général des vétérans de Taipei",
+    'préservation de la souveraineté',
+    'décès en 2026',
   ]
+subcategory: '企業家'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-26
 lastHumanReview: false
-featured: true
+viewpoint_formed: true
+researchReport: 'reports/research/2026-05/尹衍樑.md'
+image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
+imageCredit: '中華民國總統府'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
 sporeLinks:
   - id: 95
     platform: 'threads'
@@ -36,15 +42,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-26'
     url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-06-16T16:54:51Z'
-image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
-imageCredit: '中華民國總統府'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
+translatedAt: '2026-11-18T15:03:53.328503+00:00'
 ---
 
 # Samuel Yin : le prix scientifique qu'il a créé vaut plus que le Nobel

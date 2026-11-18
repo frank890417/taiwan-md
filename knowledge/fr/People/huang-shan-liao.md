@@ -31,11 +31,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-07'
     url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce59'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-10-10T17:34:37.123693+00:00'
+translatedAt: '2026-11-18T14:11:01.107661+00:00'
 ---
 
 # Huang Shan-liao : personne ne regarde les vêtements d'un champion du monde, il s'est mis à vendre « un réconfort en une phrase »

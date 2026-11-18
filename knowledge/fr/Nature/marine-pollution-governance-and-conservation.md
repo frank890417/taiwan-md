@@ -2,9 +2,7 @@
 title: 'Défis de la gouvernance de la pollution marine et de la conservation à Taïwan'
 description: "Face aux déchets marins, à la surpêche et au changement climatique, cet article examine l'état actuel, les défis et les solutions innovantes de la conservation marine à Taïwan."
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'conservation marine',
@@ -13,16 +11,20 @@ tags:
     'Commission océanique',
     'pêche durable',
   ]
+subcategory: '保育與環境'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
-sourceCommitSha: '1d54cbe52'
-sourceContentHash: 'sha256:3725125046bb0302'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
-translatedAt: '2026-05-20T05:08:34+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T13:54:25.670962+00:00'
 ---
 
 # Défis de la gouvernance de la pollution marine et de la conservation à Taïwan
@@ -588,26 +590,26 @@ Le cœur de la conservation marine est l'équité intergénérationnelle : les d
 
 ## Références
 
-[^1]: [Statistiques sur les déchets marins — Réseau de conservation marine](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Statistiques des données de nettoyage de plages de la Société de protection des espaces sauvages, 2016-2023.
+[^1]: [Statistiques sur les déchets marins - Ocean Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Statistiques des données de nettoyage des plages par la Wilderness Society entre 2016 et 2023.
 
-[^2]: [Enquête sur les microplastiques marins à Taïwan — Centre de recherche sur la biodiversité, Academia Sinica](https://www.oca.gov.tw/) — Rapport d'enquête sur les concentrations de microplastiques dans les eaux autour de Taïwan.
+[^2]: [Enquête sur les microplastiques marins à Taïwan - Centre de recherche sur la biodiversité de l'Academia Sinica](https://www.oca.gov.tw/) — Rapport d'enquête sur la concentration de microplastiques dans les eaux entourant Taïwan.
 
-[^3]: [Adoption en troisième lecture de la _Loi sur la conservation marine_ — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation de l'adoption en troisième lecture de la _Loi sur la conservation marine_ le 12 juillet 2024.
+[^3]: [Troisième lecture de la « Loi sur la conservation marine » adoptée - Green & Peace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation du passage en troisième lecture de la « Loi sur la conservation marine » le 12 juillet 2024.
 
-[^4]: [Agence de conservation marine de la Commission océanique](https://www.oca.gov.tw/) — _Livre blanc sur la conservation marine à Taïwan_, édition 2024.
+[^4]: [Administration de la conservation marine, Commission de l'Océan](https://www.oca.gov.tw/) — Version 2024 du « Livre blanc sur la conservation marine à Taïwan ».
 
-[^5]: [Politique importante de la _Loi sur la conservation marine_ — Yuan exécutif](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explication de la politique de la _Loi sur la conservation marine_ par le Yuan exécutif.
+[^5]: [Politiques importantes de la « Loi sur la conservation marine » - Conseil exécutif](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explications des politiques de la Loi sur la conservation marine par le Conseil exécutif.
 
-[^6]: [Enquête rapide de dépistage des déchets marins après un an de travail, révélant la vérité de la pollution des côtes taïwanaises — National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Données d'enquête sur la densité des déchets sur les côtes taïwanaises.
+[^6]: [Une enquête d'un an sur les déchets marins révèle la vérité sur la pollution des côtes taïwanaises - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Données d'enquête sur la densité des déchets sur les côtes de Taïwan.
 
-[^7]: [10 choses essentielles à savoir sur les déchets marins — Indigo Waters Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Enquête sur la densité des déchets sous-marins par Indigo Waters Consulting, 2020.
+[^7]: [10 choses essentielles à savoir sur les déchets marins - Cheng Yang Environmental Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Enquête de Cheng Yang Environmental Consulting sur la densité des déchets sous-marins en 2020.
 
-[^8]: [La _Loi sur la conservation marine_ ne peut plus attendre — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/30154/) — Processus de plaidoyer des organisations civiles pour la législation sur la conservation marine.
+[^8]: [La « Loi sur la conservation marine » ne peut plus attendre - Green & Peace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Processus de promotion de la législation sur la conservation marine par les organisations civiles.
 
-[^9]: [Comprendre les déchets marins — Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analyse des types et sources de déchets marins.
+[^9]: [Comprendre les déchets marins - Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analyse des types et des sources de déchets marins.
 
-[^10]: [« La mer, c'est quoi ce "plastique" ? — Bilan général des déchets sur les côtes taïwanaises » — Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Enquête sur les types et la distribution des déchets sur les côtes taïwanaises.
+[^10]: [« La mer, quel plastique ? — Examen global des déchets sur les côtes de Taïwan » - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Enquête sur les types et la distribution des déchets sur les côtes de Taïwan.
 
-[^11]: [Résultats de la conservation des tortues marines à Liuqiu — Association Laoguyu de Taïwan](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modèle et résultats de la conservation des tortues marines à Liuqiu.
+[^11]: [Résultats de la conservation des tortues marines à Xiaoliuqiu - Association de l'île de l'alvéole de Taïwan](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modèle et efficacité de la conservation des tortues marines à Xiaoliuqiu.
 
-[^12]: [Premier blanchissement massif des coraux à l'échelle nationale en 2024 — Notre Île](https://ourisland.pts.org.tw/content/7392) — Rapport d'enquête sur le blanchissement des coraux à Taïwan en 2020.
+[^12]: [Le premier blanchissement massif des coraux à l'échelle nationale en 2024 - Our Island](https://ourisland.pts.org.tw/content/7392) — Rapport d'enquête sur le blanchissement des coraux à Taïwan en 2020.
