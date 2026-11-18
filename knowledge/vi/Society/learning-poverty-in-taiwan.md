@@ -23,11 +23,13 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/學習貧窮.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:849f86ce2f7e41c5'
 sourceBodyHash: 'sha256:605da09515483b90'
-translatedAt: '2026-09-19T11:59:06+08:00'
+translatedAt: '2026-11-18T12:19:03.173933+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 2019, Ngân hàng Thế giới và UNESCO cùng công bố thuật ngữ mới "Learning Poverty" (Nghèo đói về Học tập)[^1]. Định nghĩa là: một đứa trẻ 10 tuổi không thể đọc và hiểu được một câu chuyện đơn giản tương xứng với lứa tuổi[^1]. Tỷ lệ nghèo đói về học tập ở các nước thu nhập thấp và trung bình toàn cầu năm 2019 là **53%**; sau đại dịch, con số này tăng lên khoảng **70%** vào năm 2022; báo cáo cập nhật của Ngân hàng Thế giới tháng 2 năm 2023 cho thấy ngay cả với tốc độ cải thiện hiện tại, đến năm 2030 tỷ lệ nghèo đói về học tập toàn cầu cũng chỉ giảm xuống **43%**[^2][^3]. Đài Loan không có số liệu thống kê chính thức về Learning Poverty, nhưng PISA 2022 đã đưa ra một câu trả lời hai mặt đầy trớ trêu[^4]: **học sinh Đài Loan đạt hạng 3 toàn cầu môn Toán, hạng 5 môn Đọc và hạng 4 môn Khoa học**, với **điểm Toán của nhóm yếu thế nhất (20%) là 471 điểm đã bắt kịp mức trung bình OECD là 472 điểm**, được OECD đánh giá là hệ thống giáo dục "có khả năng phục hồi"[^5]. Tuy nhiên, báo cáo cùng đợt này lại chỉ ra **điểm Toán trung bình của học sinh thành thị là 571 điểm, còn khu vực nông thôn là 517 điểm, chênh lệch 54 điểm** (tương đương khoảng một năm rưỡi đến hai năm tiến bộ) [^6]. Một khảo sát của Quỹ Phúc lợi Xã hội Bo You (博幼基金會) tại 13 trường cấp hai ở vùng nông thôn vào năm thứ 108 cho thấy, **70% học sinh của 6 trường đạt C môn Tiếng Anh và 70% học sinh của 5 trường đạt C môn Toán**[^7]. Quan sát dài hạn từ PISA 2018: sự chênh lệch kết quả bài kiểm tra Đọc giữa nhóm 10% khá giỏi và 10% yếu kém của Đài Loan khoảng **6 năm học vấn**[^8]. Learning Poverty phiên bản Đài Loan không nằm ở điểm trung bình thành thị, mà nằm trong bảng điểm thi cấp hai tại nông thôn, nó vẫn chưa được đo lường chính thức.

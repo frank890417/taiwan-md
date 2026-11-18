@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T20:59:55+08:00",
-    "zhCommitHead": "743c6dbc2",
+    "lastUpdated": "2026-11-18T21:00:46+08:00",
+    "zhCommitHead": "76e941bd2",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,49 +20,49 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 692,
+        "fresh": 693,
         "stale": 49,
-        "metadata_stale": 444,
+        "metadata_stale": 443,
         "missing": 6,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 692,
+        "fresh": 693,
         "stale": 46,
-        "metadata_stale": 446,
+        "metadata_stale": 445,
         "missing": 7,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 698,
+        "fresh": 699,
         "stale": 47,
-        "metadata_stale": 439,
+        "metadata_stale": 438,
         "missing": 7,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 702,
+        "fresh": 703,
         "stale": 48,
-        "metadata_stale": 435,
+        "metadata_stale": 434,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 700,
+        "fresh": 701,
         "stale": 44,
-        "metadata_stale": 439,
+        "metadata_stale": 438,
         "missing": 8,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 686,
+        "fresh": 687,
         "stale": 60,
-        "metadata_stale": 434,
+        "metadata_stale": 433,
         "missing": 11,
         "orphan": 0
       },
@@ -73115,20 +73115,18 @@
         "ko": {
           "path": "ko/Society/the-reporter-investigative-journalism.md",
           "translatedFrom": "Society/報導者.md",
-          "sourceCommitSha": "52052ddaa",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:00bd13342bc6cb3c",
           "sourceBodyHash": "sha256:d77e750f6664a705",
-          "translatedAt": "2026-10-13T02:39:22.928158+00:00",
+          "translatedAt": "2026-11-18T12:58:58.624926+00:00",
           "translationLastCommit": "f73ffea6",
           "translationLastModified": "2026-10-13T12:16:50+08:00",
           "inferred": false,
           "footnoteDefs": 60,
-          "bytes": 60358,
+          "bytes": 60410,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/the-reporter-investigative-journalism.md",
@@ -76087,20 +76085,18 @@
         "en": {
           "path": "en/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
           "translatedFrom": "Society/2026鄭習會與國共十年再會.md",
-          "sourceCommitSha": "dd39065b",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:3eecc6e30b4626f7",
           "sourceBodyHash": "sha256:3d0acbeaa8a56355",
-          "translatedAt": "2026-06-10T16:43:34Z",
+          "translatedAt": "2026-11-18T12:58:51.184068+00:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 27702,
+          "bytes": 27782,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
@@ -80384,20 +80380,18 @@
         "fr": {
           "path": "fr/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "da67ec6fe",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:c62b916ed21bb09b",
           "sourceBodyHash": "sha256:f87da2052ad611fa",
-          "translatedAt": "2026-10-03T16:55:21.440758+00:00",
+          "translatedAt": "2026-11-18T12:59:06.246307+00:00",
           "translationLastCommit": "1e85db4c",
           "translationLastModified": "2026-10-04T02:27:11+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 43073,
+          "bytes": 43125,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taiwan-eswatini-relations.md",
@@ -87793,20 +87787,18 @@
         "es": {
           "path": "es/Society/taiwan-diplomatic-allies-and-international-relations.md",
           "translatedFrom": "Society/台灣邦交國與國際外交.md",
-          "sourceCommitSha": "9b91d7a61",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:94f577de93fb7be3",
           "sourceBodyHash": "sha256:355c426f46da113d",
-          "translatedAt": "2026-11-07T03:01:51.388410+00:00",
+          "translatedAt": "2026-11-18T12:59:02.398934+00:00",
           "translationLastCommit": "42e39500",
           "translationLastModified": "2026-11-07T12:32:49+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 43404,
+          "bytes": 43456,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -104111,20 +104103,18 @@
         "ja": {
           "path": "ja/Politics/2026-local-elections-taiwan.md",
           "translatedFrom": "Politics/2026 九合一選舉.md",
-          "sourceCommitSha": "2cbb7955c",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:0598c68f67d9dae4",
           "sourceBodyHash": "sha256:a62248f87fd69728",
-          "translatedAt": "2026-07-30T03:55:54+08:00",
+          "translatedAt": "2026-11-18T12:58:54.756626+00:00",
           "translationLastCommit": "060569b4",
           "translationLastModified": "2026-10-31T08:37:52+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "bytes": 45271,
+          "bytes": 45274,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Politics/2026-local-elections-taiwan.md",
@@ -130289,20 +130279,18 @@
         "vi": {
           "path": "vi/People/samuel-yin-yan-liang.md",
           "translatedFrom": "People/尹衍樑.md",
-          "sourceCommitSha": "31a05c44b",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:ca0ab51cac71e4a7",
           "sourceBodyHash": "sha256:bf303e93b6c06618",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "translatedAt": "2026-11-18T12:59:09.916197+00:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 50689,
+          "bytes": 50748,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/samuel-yin-yan-liang.md",

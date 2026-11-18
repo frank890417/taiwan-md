@@ -18,11 +18,13 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
-sourceCommitSha: '1d54cbe52'
-sourceContentHash: 'sha256:3725125046bb0302'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-18T12:22:42.764570+00:00'
 ---
 
 # Quản lý ô nhiễm biển Đài Loan và thách thức bảo vệ
@@ -565,26 +567,26 @@ Lõi của bảo vệ biển là công lý giữa các thế hệ: quyết đị
 
 ## Tài liệu tham khảo
 
-[^1]: [海洋廢棄物統計資料 - 海洋保育網](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Thống kê dữ liệu làm sạch bờ biển từ năm 2016–2023 của Hiệp hội Bảo vệ Hoang dã.
+[^1]: [Thống kê dữ liệu rác thải biển - Mạng bảo tồn biển](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Thống kê dữ liệu dọn rác bãi biển của Hiệp hội Bảo vệ Thiên nhiên hoang dã năm 2016-2023.
 
-[^2]: [台灣海洋塑膠微粒調查 - 中央研究院生物多樣性研究中心](https://www.oca.gov.tw/) — Báo cáo khảo sát nồng độ hạt nhựa siêu mịn ở vùng biển xung quanh Đài Loan.
+[^2]: [Điều tra vi nhựa biển tại Đài Loan - Trung tâm Nghiên cứu Đa dạng sinh học Viện Nghiên cứu Trung ương](https://www.oca.gov.tw/) — Báo cáo điều tra nồng độ vi nhựa ở các vùng biển xung quanh Đài Loan.
 
-[^3]: [《海洋保育法》三讀通過 - 綠色和平台灣](https://www.greenpeace.org/taiwan/update/35872/) — Xác nhận Luật Bảo vệ Biển được thông qua lần thứ ba vào ngày 12 tháng 7 năm 2024.
+[^3]: [Luật Bảo tồn biển thông qua đọc lần ba - Greenpeace Đài Loan](https://www.greenpeace.org/taiwan/update/35872/) — Xác nhận Luật Bảo tồn biển thông qua đọc lần ba vào ngày 12 tháng 7 năm 2024.
 
-[^4]: [海洋委員會海洋保育署](https://www.oca.gov.tw/) — 《台灣海洋保育白皮書》phiên bản 2024.
+[^4]: [Cục Bảo tồn biển Ủy ban Hải dương](https://www.oca.gov.tw/) — Bản Sách trắng Bảo tồn biển Đài Loan phiên bản năm 2024.
 
-[^5]: [《海洋保育法》重要政策 - 行政院](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Giải thích chính sách Luật Bảo vệ Biển từ Ban Hành chính.
+[^5]: [Chính sách quan trọng của Luật Bảo tồn biển - Viện Hành chính](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Giải thích chính sách Luật Bảo tồn biển của Viện Hành chính.
 
-[^6]: [耗時一年海廢快篩調查，揭露臺灣海岸汙染真相 - 國家地理](https://www.natgeomedia.com/environment/article/content-8745.html) — Dữ liệu khảo sát mật độ rác ở bờ biển Đài Loan.
+[^6]: [Điều tra nhanh rác biển mất một năm, tiết lộ sự thật ô nhiễm bờ biển Đài Loan - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Dữ liệu điều tra mật độ rác bờ biển Đài Loan.
 
-[^7]: [關於海洋廢棄物不可不知的10件事 - 澄洋環境顧問](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Khảo sát mật độ rác ở đáy biển năm 2020 của Indigo Waters.
+[^7]: [10 điều không thể không biết về rác thải biển - Tư vấn Môi trường Trịnh Dương](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Điều tra mật độ rác đáy biển năm 2020 của Tư vấn Môi trường Trịnh Dương.
 
-[^8]: [《海洋保育法》不能再拖 - 綠色和平台灣](https://www.greenpeace.org/taiwan/update/30154/) — Quá trình thúc đẩy lập pháp bảo vệ biển của các tổ chức dân sự.
+[^8]: [Luật Bảo tồn biển không thể trì hoãn nữa - Greenpeace Đài Loan](https://www.greenpeace.org/taiwan/update/30154/) — Quá trình các tổ chức dân sự thúc đẩy立法 bảo tồn biển.
 
-[^9]: [認識海洋廢棄物 - 海洋世界](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Phân tích loại và nguồn gốc rác thải biển.
+[^9]: [Tìm hiểu rác thải biển - Thế giới biển](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Phân tích loại và nguồn gốc rác thải biển.
 
-[^10]: [《海，有什麼「塑」──臺灣海岸垃圾總體檢》- 綠色和平](https://www.greenpeace.org/taiwan/update/15198/) — Khảo sát loại rác ở bờ biển Đài Loan và phân bố địa lý.
+[^10]: ["Biển có gì 'nhựa'? — Kiểm tra tổng thể rác bờ biển Đài Loan" - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Điều tra loại và phân bố rác bờ biển Đài Loan.
 
-[^11]: [小琉球海龜保育成果 - 台灣咾咕嶼協會](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Mô hình bảo vệ rùa biển Tiểu Lưu Cầu và hiệu quả.
+[^11]: [Kết quả bảo tồn rùa biển tại tiểu Liuqiu - Hiệp hội Kỳ Lân Đảo Đài Loan](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Mô hình và hiệu quả bảo tồn rùa biển tại tiểu Liuqiu.
 
-[^12]: [2024年史上首次全國大規模珊瑚白化 - 我們的島](https://ourisland.pts.org.tw/content/7392) — Báo cáo khảo sát phát triển trắng san hô Đài Loan năm 2020.
+[^12]: [Lần đầu tiên trong lịch sử năm 2024: trắng san hô quy mô lớn toàn quốc - Đảo của chúng ta](https://ourisland.pts.org.tw/content/7392) — Báo cáo điều tra trắng san hô tại Đài Loan năm 2020.

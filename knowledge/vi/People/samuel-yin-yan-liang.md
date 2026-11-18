@@ -1,9 +1,4 @@
 ---
-translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:ca0ab51cac71e4a7'
-sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-08-09T10:41:15+08:00'
 title: 'Uân Diễn Lương: Giải thưởng khoa học anh xây dựng còn đắt hơn Nobel'
 description: 'Vào lúc sáng sớm 4 giờ 21 phút ngày 26 tháng 5 năm 2026, Chủ tịch Tập đoàn Nhuận Thái, Người sáng lập Giải thưởng Đường Uân Diễn Lương qua đời tại Bệnh viện Đài Bắc Vinh Dân, hưởng thọ 76 tuổi. Trước khi qua đời, ông công khai hứa sẽ hiến 95% tài sản cho từ thiện: xây dựng Trung tâm Ung thư Hạt nặng tại Bệnh viện Đài Bắc Vinh Dân, xây Thư viện Đạt Hiền cho Chính Đại, xây Trung tâm Hoạt động Vương Kim Bình cho Chương Hóa Sư Đại. Năm 2012, ông hiến 30 tỷ đô la Taiwan Mới thành quỹ tín chỉ để thành lập Giải thưởng Đường, với mỗi mục giải thưởng trị giá 50 triệu đô la Taiwan Mới, vượt Nobel. Gia đình của ông tuân theo di chúc, lo hậu sự từ đơn giản, không lập nhà tang lễ, không tổ chức lễ tưởng niệm công khai.'
 date: 2026-05-26
@@ -47,6 +42,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-26'
     url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/尹衍樑.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:ca0ab51cac71e4a7'
+sourceBodyHash: 'sha256:bf303e93b6c06618'
+translatedAt: '2026-11-18T12:59:09.916197+00:00'
 ---
 
 # Uân Diễn Lương: Giải thưởng khoa học anh xây dựng còn đắt hơn Nobel

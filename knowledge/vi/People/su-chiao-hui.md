@@ -1,143 +1,167 @@
 ---
-title: 'Su Qiaowei: Đóng góp chi tiết cho thành phố New Taipei dưới bóng đánh giá "xung đột"'
-description: 'Từ cô gái luật sư bảo vệ Beauty Spot đến 16 đại biểu xuất sắc, Su Qiaowei làm sao thoát khỏi nhãn hiệu "con cảnh", sử dụng luật và chi tiết để tái tạo hồi cung New Taipei.'
-date: 2026-04-28
+title: 'Tô Xảo Tuệ: Từ chuyên gia vượt giới hạn, nghị sĩ Quốc hội đến "mẹ rái cá"'
+description: 'Năm 2009, luật sư Tô Xảo Tuệ (Su Qiaohui) chuyển sang Quỹ Siêu Việt để giúp trẻ em vùng sâu vùng xa và thành thị hiểu về các nghề nghiệp; năm 2016, bà trở thành nghị sĩ khu vực bầu cử số 5 tại Tân Bắc, tái đắc cử các nhiệm kỳ 2020 và 2024. Ban ngày bà thẩm định ngân sách và thúc đẩy dự luật, ban đêm bà kể chuyện với tư cách là "mẹ rái cá". Thách thức của bà không chỉ nằm ở cái tên của cha mình là Tô Trinh Xương (Su Chen-chang), mà là làm sao để biến điểm khởi đầu chính trị được thừa kế thành con đường phụng sự công cộng của riêng mình.'
+date: 2026-11-06
 category: 'People'
 tags:
   [
-    'Su Qiaowei',
-    'Thành phố New Taipei',
-    'Đại biểu',
-    'Đánh giá Quốc hội',
-    'Cải tạo địa phương',
-    'Luật sư',
-    'Chính sách nuôi con',
-    'Ngoại lệ Quốc hội',
-    'Bình đẳng giới',
-    'Tiểu sử gia đình',
+    'Nhân vật',
+    'Tô Xảo Tuệ',
+    'Chính trị',
+    'Tân Bắc',
+    'Giáo dục',
+    'Trẻ em và thanh thiếu niên',
+    'Phục vụ công cộng',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-28
+lastVerified: 2026-11-17
 lastHumanReview: false
-readingTime: 12
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+researchReport: 'reports/factcheck/2026-11/pr1963-蘇巧慧.md'
+rationale:
+  why_this_hook: '蘇巧慧的政治家族身分無法被抹去，但公開經歷也顯示她在法律、教育、國會與親子媒體之間建立了自己的工作路徑。'
+  whats_excluded: '不把競選網站自述直接當成政績，也不寫選戰攻防與政見；只保留能說明她公共角色如何變化的事件。'
+  where_it_hedges: '學歷依不同時期立法院資料各自呈現，不把第9屆資料所列的 SJD 候選人寫成博士；辦公室網站的建設成果標明為自述。'
+  whos_pushing_back: '批評者以「政二代」稱呼她；民眾黨質疑胞妹相關公司獲政府補助與投資涉及利益迴避，國民黨質疑她在地方建設中的參與程度，本文列出指控與回應。'
 translatedFrom: 'People/蘇巧慧.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:eb7e3bede251836b'
-sourceBodyHash: 'sha256:8ae89739a53e0a1f'
-translatedAt: '2026-07-26T17:05:18+08:00'
+sourceCommitSha: 'a3153ed16'
+sourceContentHash: 'sha256:c8915f917f9448a9'
+sourceBodyHash: 'sha256:e4d35852f02ecd0f'
+translatedAt: '2026-11-18T00:50:30+08:00'
 ---
 
-# Su Qiaowei: Đóng góp chi tiết cho thành phố New Taipei dưới bóng đánh giá "xung đột"
+# Tô Xảo Tuệ: Từ chuyên gia vượt giới hạn, nghị sĩ Quốc hội đến "mẹ rái cá"
 
-> ### ⚠️ Ghi chú biên tập nhật kỳ (2026-04-28)
->
-> Su Qiaowei là ứng cử viên tên lửa đảng Dân chủ tiến bộ (DPT) cho chức vụ thị trưởng Thành phố New Taipei năm 2026. Bài viết hiện đang ở giai đoạn hoàn thiện độ sâu thông tin — các con số cụ thể về thành tựu trong giai đoạn 2026-02 đến 04 (ví dụ: ngân sách 770 tỷ cho đường sắt đô thị, 30 triệu đồng cho cống nước, 345 triệu đồng cho cải tạo trường học) được cộng đồng đóng góp ban đầu cung cấp; các nhà bảo trì của Taiwan.md đang từng bít so sánh với nguồn gốc chính thức (website công đoàn Dân giám / văn bản Chính phủ / ngân sách Thành phố New Taipei). Trong giai đoạn bầu cử, các độc giả vui lòng dựa vào dữ liệu chính thức, không xem bài viết này là chứng thựch cho ứng cử viên. Taiwan.md đứng trên trục "góc nhìn lịch sử Đài Loan + chủ quyền độc lập", nhưng không chứng thựch cho bất kỳ ứng cử viên nào (theo [MANIFESTO §Giới hạn chủ quyền tự do](docs/semiont/MANIFESTO.md#自主權邊界)).
->
-> ### ⚡️ Tổng quan 30 giây
->
-> **「Su Qiaowei thành công nhất không phải từ tên đệm, mà là trí nhớ nhất đối với「chi tiết」— cô đang dùng sửa đổi pháp luật lạnh lùng và các chi tiết công trình để khắc phục khoảng trống trong phong cách chính trị của cha cô.」**
->
-> | Chỉ số                 | Bằng chứng cốt lõi                                                                                                                                                        |
-> | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-> | **Hiệu suất Quốc hội** | Liên tục 13 kỳ, xuất sắn 16 lần được Đảng Dân giám Quốc hội đánh giá là Ủa lại, khối lượng luật và độ sâu hỏi đáng giá xếp hạng trong top đầu Quốc hội [^2].              |
-> | **Cải tạo địa phương** | Phối hợp ngân sách 770 tỷ cho tuyến đường sắt đô thị Wanda-Xinglong, đòi hỏi trung tâm chi trả 9,8 tỷ đồng cho cửa ra vào thứ hai của tuyến 65 tại New Zhuang [^9] [^11]. |
-> | **Phong cách quản lý** | Từ sửa đổi Bộ luật Phòng chống Ung thư về hỗ trợ tinh thần, đến podcast「Mẹ Nuói」, cố gắng xây dựng sự đồng cỡ nững trong chính trị cứng nhắc [^7] [^21].                |
->
-> **💡 Vậy nên sao?**
-> Đây không chỉ là câu chuyện kế thừa từ thế hệ chính trị, mà là cách một nhà luật sử dùng「chi tiết」để xây dựng bản đồ chính trị cá nhân trong bối cảnh lịch sử nặng nề, đồng thời thách thức sâu hơn nữa về quyền lực quản lý thành phố có dân số đông nhất Đài Loan.
+> **Lưu ý về năm bầu cử**: Tô Xảo Tuệ là ứng cử viên đã đăng ký tranh cử Thị trưởng Tân Bắc nhiệm kỳ 2026. Trang này do cộng đồng đóng góp và vẫn đang trong quá trình xác minh, không đại diện cho sự ủng hộ đối với bất kỳ ứng cử viên nào; thông tin liên quan đến bầu cử vui lòng tham khảo dữ liệu chính thức từ Ủy ban Bầu cử Trung ương và các cơ quan khác, xem danh sách các ứng cử viên tại [Cuộc bầu cử cửu hợp nhất 2026](/elections/2026).
 
-Trên khắp đường phố Thành phố New Taipei năm 2026, biển hiệu của Su Qiaowei không còn chỉ là「con gái của Su Zhenchang」. Được sinh ra và lớn lên trong gia đình luật sư, cô có bằng luật học tại Đại học Pennsylvania (Hoa Kỳ) và Đại học Boston (Hoa Kỳ), hiện đang là đại biểu Quốc hội đang triển khai một thí nghiệm chính trị về「chi tiết」 nhằm thách thức vị trí thị trưởng của thành phố có dân số đông nhất Đài Loan. Sự nghiệp chính trị của cô không chỉ là sự kế thừa ánh sáng từ gia đình, mà còn là minh chứng cho ý chí và trình độ chuyên môn cá nhân, cố gắng xây dựng một con đường「tinh tế」 riêng biệt giữa các phong trào chính trị truyền thống.
+> **Tóm tắt trong 30 giây:** Năm 2016, Tô Xảo Tuệ bước vào Quốc hội với tư cách là Nghị sĩ lập pháp khu vực bầu cử số 5 của thành phố Tân Bắc, sau đó tái đắc cử cho đến khóa 11; hồ sơ công khai của bà đồng thời ghi nhận các vai trò luật sư, Giám đốc điều hành NGO giáo dục, nghị sĩ và người dẫn chương trình Podcast dành cho cha mẹ và trẻ em. Bà là con gái của cựu Viện trưởng Hành chính viện [Tô Trinh Xương](/vi/people/su-tseng-chang), điểm khởi đầu chính trị thực sự mang theo tên tuổi gia tộc, nhưng những việc bà làm lặp đi lặp lại sau đó là đưa việc "đồng hành cùng trẻ nhỏ tìm đường" vào các kế hoạch giáo dục, dự luật và một giọng nói mang tên "mẹ rái cá".[^1] [^2] [^3]
 
-### Sự phản đối của người luật sử: Từ phòng tố vụ đến công trình xây dựng「 người quan tâm chi tiết」
+Khi Podcast bắt đầu trở nên phổ biến vào năm 2020, Tô Xảo Tuệ không chạy theo các chính trị gia khác để làm các chương trình về thời sự. Bà nhớ lại phản ứng của mình khi các trợ lý đề xuất: "Hả! Nhưng tôi không muốn sau khi tan làm vẫn phải tiếp tục nói về chính trị đâu."[^4] Thế là, bên ngoài tòa nhà Lập pháp, một phiên bản khác của bà đã xuất hiện: cầm micro, kể chuyện cho trẻ em và dạy tiếng Đài Loan.
 
-Điểm xuất phát chính trị của Su Qiaowei rất dễ nhận thấy, nhưng thực chất lại đầy phản đối. Là con gái của luật sư bảo vệ sự kiện Beauty Spot Su Zhenchang, cô kế thừa sự tỉ mỉ và khao khát công bằng của người luật sử, nhưng lại chọn con đường「gần gũi nhất」 bằng cách sửa đổi pháp luật và cải tạo địa phương. Trong quá trình làm việc tại Văn phòng Luật sử Thế giới, cô từng xử lý các vụ kiện thương mại và văn bản pháp lý lạnh lùng; tuy nhiên, khi vào Quốc hội, cô đã chuyển đổi kiến thức chuyên môn thành công cụ giải quyết các vấn đề dân sự, thể hiện trí tuệ và sự tỉ mỉ riêng của người luật sử [^1].
+Bà không rời bỏ chính trị, mà mở rộng phạm vi phục vụ công cộng từ các điều luật và ủy ban đến khoảng thời gian trước khi đi ngủ mà trẻ em nghe thấy mỗi ngày. Sự giằng co của bà nằm ở đó: một luật sư lớn lên trong gia tộc chính trị, vừa phải chịu đựng nhãn dán "thế hệ chính trị thứ hai", vừa phải chứng minh rằng cái tên của mình không chỉ là một họ trên lá phiếu.
 
-> 📝 Ghi chú của người xuất bản: Luật pháp không chỉ nên là những dòng chữ trên sách, mà còn là công cụ giải quyết vấn đề nước uống cho các khu vực nông thôn, hoặc đường đi cho người di chuyển. Nền tảng luật sử của Su Qiaowei khiến cô khi xử lý các dự án địa phương, thể hiện một sự kiên quắt đến mức gần như "nghiện chi tiết", đây cũng chính là đặc điểm nổi bật tách ly cô khỏi các nhân vật chính trị truyền thống.
+## Bà nhìn thấy tốc độ của chính trị qua những đứa trẻ trước tiên
 
-Trong Quốc hội, Su Qiaowei không nổi tiếng với lời kêu gọi chính trị hùng hồn, mà được biết đến qua khối lượng luật đề xuất và độ sâu của các cuộc hỏi đáp. Cô đã nhận được lời khen ngợi từ Đảng Dân giám Quốc hội (Council of Asian Liberals and Democrats, CALD) xuất sắc 16 lần liên tục, và thường xuyên đứng đầu bảng xếp hạng trong kỳ bầu chọn đại biểu, con số này khẳng định tầm ảnh hưởng thực sự của cô trên sân khấu Quốc hội [^2] [^3]. Các luật cô đề xuất bao gồm việc sửa đổi toàn diện Bộ luật Phòng chống Ung thư, pháp hóa quyền lợi người mới đến tới Việt Nam, và điều chỉnh Bộ luật Phát triển Ngành Thể thao nhằm thông qua hệ thống đầu tư cho ngành thể thao, cung cấp nguồn lực mới cho sự phát triển của lĩnh vực này [^4] [^5] [^6].
+Tô Xảo Tuệ ban đầu theo học khoa Công tác xã hội tại Đại học Quốc gia Đài Loan (NTU), sau đó chuyển sang khoa Luật. Sau khi lấy được chứng chỉ luật sư, bà từng làm việc tại Văn phòng Luật sư Vạn Quốc (Wan Kuo) và từng đi tàu hỏa đến Thụy Phương (Ruifang) để làm luật sư tình nguyện tại các vùng sâu vùng xa.[^4] Năm 2006, bà sang Mỹ du học, nhận bằng Thạc sĩ Luật tại Đại học Boston và Đại học Pennsylvania.[^19] Dữ liệu chính thức của Lập pháp viện khóa 11 liệt kê trình độ học vấn là hai bằng Thạc sĩ Luật và chuyên ngành Tư pháp khoa Luật NTU; dữ liệu khóa 9 lại ghi thêm "Ứng viên Tiến sĩ Luật (SJD) tại Đại học Pennsylvania, Hoa Kỳ".[^1] [^2]
 
-Cô cho rằng Bộ luật Phòng chống Ung thư cần bao gồm hệ thống hỗ trợ tinh thần, đồng thời cải thiện chương trình đào tạo giao tiếp y tế, những quan tâm này phản ánh sự quan tâm đến con người và quyền lợi y tế của cô [^7]. Trong quá trình sửa đổi Bộ luật Phát triển Ngành Thể thao, cô tập trung vào việc xây dựng kênh đầu tư cho ngành thể thao, khuyến khích vốn tư nhân tham gia đầu tư, đồng thời đảm bảo quỹ phát triển quốc gia dành một tỷ lệ nhất định cho ngành thể thao, cung cấp nguồn lực mới cho sự phát triển của lĩnh vực này [^8].
+Sau khi đỗ kỳ thi luật sư năm 2002, bà gia nhập Văn phòng Luật sư Vạn Quốc với vai trò luật sư tranh tụng. Năm 2004, bà đảm nhiệm vị trí liên lạc viên tổng của hội hỗ trợ luật sư trong chiến dịch tranh cử của Trần Thủy Biển (Chen Shui-bian), đồng thời tham gia đoàn luật sư kiểm phiếu cho vụ kiện "vô hiệu hóa kết quả trúng cử" của ông Trần.[^2] [^17]
 
-### Phối hợp các "khoảng trống" của thành phố: Wanda, Yingkou và Xuyu
+Các thông cáo báo chí chính thức của Dân tiến đảng năm 2004 đã thảo luận về các tranh chấp như phạm vi, quy trình và trách nhiệm chi phí kiểm phiếu trong vụ kiện vô hiệu hóa kết quả trúng cử của Trần Thủy Biển và Lữ Tú Liên (Lu Hsiu-lien).[^18]
 
-Đối với cư dân Wanda, Yingkou và phía nam New Zhuang, thành tựu của Su Qiaowei thường xuất hiện trong những「khoảng trống」mà người dân ít chú ý. Cô không theo đuổi những khoảnh khắc nổi bật bằng cách xóa bỏ, mà tập trung vào việc hoàn thành「con đường cuối cùng」và chắc chắn các công trình thực sự cải thiện chất lượng cuộc sống của người dân.
+Sau khi về nước, bà không tiếp tục làm việc tại văn phòng luật sư mà chuyển sang làm Giám đốc điều hành Quỹ Siêu Việt vào năm 2009.[^4] [^19] Theo dữ liệu của Quỹ Siêu Việt, bà đã khởi xướng dự án "Chuyên gia vượt giới hạn" (超越達人) vào năm 2012, mời gọi những người từ mọi ngành nghề đồng hành cùng trẻ em để tìm hiểu về nghề nghiệp và thế giới, với tổng cộng hơn 190.000 trẻ em được tham gia. Phần giới thiệu của quỹ viết rằng bà nhận ra muốn thay đổi xã hội không thể chỉ dựa vào việc cứu trợ từng trường hợp cá biệt, vì vậy bà đã chuyển hướng sang lĩnh vực NGO, hy vọng thúc đẩy các quan niệm tiến bộ thông qua giáo dục.[^5]
 
-#### 1. Kỹ thuật xây dựng đường sắt đô thị
+Một bài phỏng vấn trên tạp chí _今周刊_ (Next Magazine) tháng 10 năm 2026 viết rằng, bà cho rằng "cứu từng người một thì không kịp, điều Đài Loan cần thay đổi là chính trị", đó là lý do bà chính thức bước chân vào chính trường từ năm 2016.[^4] Một hoạt động có thể đồng hành cùng một nhóm trẻ em, nhưng một đạo luật có thể thay đổi các quy tắc mà tất cả mọi người đều phải đối mặt.
 
-Tuyến đường sắt đô thị Wanda-Xinglong từng là ảo tưởng của cư dân địa phương, chỉ nghe thấy tiếng cười đi bộ. Kể từ khi được bầu vào, Su Qiaowei không chỉ chủ động phối hợp ngân sách 770 tỷ đồng được Ban Thông minh phê duyệt, mà còn bổ sung ngân sách thêm vào cuối năm 2025 để đảm bảo toàn bộ tuyến được khởi công, đồng thời kế hoạch sửa chữa đoạn đường cao tốc Tuchong cũng được Ban Thông minh phê duyệt, giúp Thành phố New Taipei có thể khai thác dự án một cách suôn sẻ [^9] [^10]. Yêu cầu của cô về đường sắt đô thị không chỉ dừng lại ở việc khai thác, mà còn là việc「kết nối」— thông qua việc tối ưu hoạt động xây dựng trên mặt đường cao tốc, giảm thiểu tác động đến khu phố thương mại địa phương, đồng thời đòi hỏi trung tâm chi trả 9,8 tỷ đồng cho cửa ra vào thứ hai của tuyến 65 tại New Zhuang, giúp hơn 400.000 người di chuyển trong khu vực New Zhuang, Wanda và Yingkou được hưởng lợi [^11].
+## Năm 2016, bà mang tên tuổi gia tộc vào khu vực bầu cử số 5
 
-#### 2. Ống nước đã mất đi
+Năm 2016, Tô Xảo Tuệ tranh cử nghị sĩ tại khu vực bầu cử số 5 của thành phố Tân Bắc. Truyền thông đưa tin bà đã đánh bại nghị sĩ thuộc Quốc dân đảng đang tìm cách tái đắc cử với tỷ lệ phiếu bầu 56,11%, chính thức bước vào Quốc hội; năm 2020 bà tái đắc cử, và năm 2024 bà có tên trong danh sách ứng cử viên của công báo bầu cử khu vực số 5 Tân Bắc khóa 11.[^4] [^6] [^19]
 
-Ở các khu vực nông thôn xa xôi của Wanda, vẫn có người dân phải chạy đi bộ hàng giờ để đến nguồn nước ngoài, gặp khó khăn trong việc uống nước. Su Qiaowei đã đòi hỏi ngân sách hơn 30 triệu đồng, hoàn thành dự án cống nước kéo dài năm năm chưa xong, giải quyết nhu cầu sinh hoạt cơ bản của cư dân địa phương [^12]. Đây là quyền lợi dân sự cơ bản và cũng là minh chứng trực tiếp cho tính cách luật sử của cô trong việc bảo vệ quyền lợi.
+Khu vực này bao gồm Thụ Lâm (Shulin), Ưng Ca (Yingge) và chín xã như dân an lý thuộc quận Tân Trang (Xinzhuang). Phạm vi địa lý này rất quan trọng, vì sau này khi nói về quản trị đô thị Tân Bắc, bà thường chia nhỏ các khái niệm trừu tượng thành sân trường, đường sá, việc đi lại và văn hóa địa phương. Dữ liệu Lập pháp viện khóa 11 cho thấy bà nhậm chức từ ngày 1 tháng 2 năm 2024, thuộc Ủy ban Nội chính; còn ở khóa 9, bà thuộc Ủy ban Giáo dục và Văn hóa.[^1] [^2] [^6]
 
-#### 3. Cải tạo trường học qua những「tác phẩm nhỏ bé」
+Cha của bà, Tô Trinh Xương, là cựu Viện trưởng Hành chính viện và là một nhân vật có độ nhận diện rất cao trong chính trường Đài Loan, do đó việc "dựa hơi cha" sẽ không tự động biến mất khi bà trúng cử.[^4] Tô Xảo Tuệ không phủ nhận bối cảnh này, cũng không thể phủ nhận: từ nhỏ bà đã thấy cha mình đứng trên đường phố phát tờ rơi, chính trị là một phần trong đời sống thường nhật của gia đình.[^4]
 
-Cô đã đòi hỏi 38 trường học và 186 cải tạo, tổng ngân sách đạt 345 triệu đồng [^13]. Từ việc trang trị lại nhà vệ sinh cũ, nhau đường chạy trường học, cho đến việc thêm hệ thống vô trùng cho người khuyết tật, những「tác phẩm nhỏ bé」này dù không nổi bật như các công trình kiến trúc đại dụng, nhưng chính là những gì các bậc phụ huynh cảm thấy quan trọng nhất, trực tiếp cải thiện môi trường học tập và an toàn cho học sinh.
+Nhưng gia tộc chỉ cung cấp lối vào, chứ không phải câu trả lời cho mọi phiên chất vấn. Bà phải tạo ra những hồ sơ có thể kiểm chứng được về chuyên môn và phương pháp làm việc của mình tại Lập pháp viện, đó cũng là lý do tại sao bà luôn gắn kết các chủ đề giáo dục, trẻ em, văn hóa và xây dựng địa phương để thảo luận, thay vì chỉ dùng những khẩu hiệu chính trị của cha để định vị bản thân.
 
-### Ngoại lệ Quốc hội và chính sách bình đẳng giới: Một bản đồ chính trị đa chiều
+## Phe Xanh và phe Xanh lá đứng ở hai rổ khác nhau, nhưng tại Ủy ban Văn hóa vẫn ưu tiên sửa xong dự luật
 
-Chính trị của Su Qiaowei không giới hạn ở New Taipei. Trên trường quốc tế, cô tham gia tích cực vào「Liên đoàn Dân giám và Tự do chính trị châu Á」(Council of Asian Liberals and Democrats, CALD), thúc đẩy ngoại lệ chính trị, đồng thời dẫn dắt đội ngũ trợ lý thế hệ mới đến Hoa Kỳ, củng cố sự hỗ trợ đa phe của các bên liên quan đến Việt Nam và Hoa Kỳ [^14] [^15]. Cô thấu rõ hoàn cảnh đặc biệt của Đài Loan trên trường quốc tế, thông qua ngoại lệ Quốc hội, đòi hỏi nhiều cơ hội nhìn thấy và hỗ trợ từ xã hội quốc tế.
+Năm 2017, Tô Xảo Tuệ cùng với nghị sĩ Quốc dân đảng Kha Chí Ân (Ke Chih-en) cùng tham gia Ủy ban Giáo dục và Văn hóa của Lập pháp viện. Một báo cáo được Liên minh Giám sát Quốc hội chuyển tải ghi lại rằng, hai người đã thảo luận về công việc ủy ban theo cách thân thiện như những người bạn trong một chương trình radio; Tô Xảo Tuệ khen ngợi các nghị sĩ thuộc các đảng phái khác nhau đều có chuyên môn riêng, và nói rằng khi Ủy ban Văn hóa có ý kiến khác biệt, họ sẽ tranh luận gay gắt nhưng lúc đó không dùng đến việc biểu quyết mà thông qua giao tiếp để đạt được đồng thuận.[^14]
 
-Trong chính sách giới tính và nuôi con, cô là người đầu tiên đề xuất「tăng trưởng trợ cấp sinh sản sớm」và「trợ cấp nuôi con mỗi tháng 13 nghìn」, nhấn mạnh chính sách nuôi con cần bao gồm「kiến thức, tiền, không gian và hỗ trợ tinh thần」thay vì chỉ dừng lại ở việc trả tiền mặt [^16] [^17]. Cô cũng quan tâm đến vấn đề bình đẳng giới, thông qua sửa đổi pháp lý và đề xuất, cố gắng xây dựng một môi trường xã hội thân thiện với phụ nữ và gia đình.
+Đoạn ghi chép này không phải là minh chứng cho việc "hợp tác xuyên đảng nên không có xung đột". Báo cáo cũng viết rằng phe cầm quyền và phe đối lập vẫn có những sự cản trở và xung đột thân thể trong việc thẩm định các dự luật khác; phép ẩn dụ của chính Tô Xảo Tuệ là, hai đội trên sân bóng phải đứng về phía mình, không được ném nhầm rổ. Sự hợp tác mà bà mô tả giống như việc thừa nhận đối thủ cũng có chuyên môn sửa đổi luật pháp trên tiền đề không thay đổi lập trường chính trị.[^14]
 
-### Biện chứng và thách thức: Trọng lượng lịch sử và nhãn hiệu「con cảnh」
+Sự tương tác này giúp hiểu rõ phong cách quốc hội của bà, nhưng không thể suy ra rằng mọi dự luật của bà đều thành công. Giá trị của sự phối hợp trong Quốc hội thường không nằm ở việc xóa bỏ khác biệt, mà là để những khác biệt đó vẫn được đưa vào quy trình thảo luận và sửa đổi từng điều khoản một.
 
-Tuy nhiên, con đường chính trị của Su Qiaowei không thiếu có bóng đánh giá. Là thành viên của gia đình chính trị, nhãn hiệu「con cảnh」luôn đeo đẫn. Vào giai đoạn bầu cử năm 2026, các phương tiện truyền thông xuất hiện lại các lời chỉ trích, cho rằng ông nộ cô là「người phản bội」, những thông tin này đã được rãnh ràu là sự phát triển sự thật và bị Su Qiaowei một cách nghiêm túc bác bỏ [^18] [^19]. Ngoài ra, với vai trò đại biểu của đảng chiến thắng, quan điểm của cô trong các đề xuất sửa đổi luật thường trở thành điểm dính đâm của đối phương, áp lực hội trường khiến cô phải cân bằng giữa vị thế của đảng và phản hồi từ người dân.
+## Ủy ban thay đổi vị trí, nhưng các vấn đề vẫn xoay quanh an toàn đời sống
 
-> 📝 Ghi chú của người xuất bản: Ánh sáng của gia đình chính trị đóng vai trò là tài sản cũng như nỢ nặng. Su Qiaowei phải tìm được cân bằng giữa trọng lượng lịch sử và tầm nhìn tương lai của riêng mình. Cô từng có phản hồi tốt bằng cách nói:「Quá khứ là xung đột, hiện tại cần thêm「thông minh và chi tiết」.」Ý này chính là phong cách riêng của cô khi đối mặt với thách thức [^20].
+Công việc tại Quốc hội của Tô Xảo Tuệ không phải lúc nào cũng dừng lại ở Ủy ban Giáo dục và Văn hóa. Dữ liệu chính thức khóa 9 cho thấy bà đã tham gia Ủy ban Giáo dục và Văn hóa trong suốt tám kỳ họp; báo cáo quốc hội chính thức của bà ghi rõ, vào kỳ họp đầu tiên của khóa 10, bà chuyển sang Ủy ban Phúc lợi Xã hội và Môi trường Vệ sinh, giám sát phòng chống dịch bệnh và các dự luật quan trọng trong thời gian đại dịch. Vào kỳ họp đầu tiên của khóa 11, bà lại bước vào Ủy ban Nội chính.[^1] [^2] [^16]
 
-Cô còn biến chính mình thành「Mẹ Nuói」trong podcast, dùng cách kể chuyện và tương tác với con cái để chia sẻ kinh nghiệm nuôi con và đời sống, cố gắng xây dựng một hình ảnh mẫu mực ấm áp và lôgic ngoài cuộc chiến chính trị cứng nhắc [^21]. Loại hình kinh doanh đa chiều này phản ánh cô đang cố gắng ngoài khung chính trị truyền thống, mở ra một phong cách chính trị mô hình mới「 đồng hành」, để các cán bộ thấy một người chính trị trực lục, đầy nhân tính.
+Sự chuyển đổi này giúp phạm vi vấn đề của bà mở rộng từ trường học và văn hóa sang y tế, phúc lợi xã hội, nhà ở, quản trị địa phương và an toàn công cộng. Bà thực sự đã xây dựng được độ nhận diện qua các vấn đề giáo dục và trẻ em, nhưng công việc hàng ngày của một nghị sĩ còn bao gồm ngân sách, dự luật và giám sát hành chính của các ủy ban khác nhau.[^16]
 
-### Kết luận: Không chỉ là「Su Zhenchang 2.0」
+Các dự luật do bà chủ trì đề xuất cũng trải dài qua các lĩnh vực này. Ở khóa 10, bà đã đề xuất dự thảo bổ sung Điều 12-1 của "Đạo luật Phát triển Ngành Thể thao", được thẩm định cùng với các phiên bản của Hành chính viện và nhiều nghị sĩ khác, trạng thái dự án được liệt kê là "đã hoàn tất thẩm tra (đọc lần ba)".[^24] Ở khóa 11, bà đề xuất "Dự thảo Luật Cơ bản về Cư dân mới", được thẩm định cùng với các dự luật về cư dân mới khác, trang dự án cũng ghi "đã hoàn tất thẩm tra (đọc lần ba)". Dự thảo sửa đổi "Luật Phòng chống Ung thư" do bà đề xuất thì được liệt kê là "chuyển giao thẩm tra".[^25] [^26] Bà cũng là một trong những người đề xuất dự thảo sửa đổi Điều 8 và Điều 89 của "Luật Tàu thuyền", dự án này được liệt kê trong dữ liệu Lập pháp viện là "đã hoàn tất thẩm tra (đọc lần ba)".[^7]
 
-Bài viết về Su Qiaowei không nên kết thúc bằng trình độ học vấn hay quan hệ gia đình, mà nên kết thúc ở việc cô đang thử nghiệm việc「kết nối」 thành phố New Taipei. Từ tính cách luật sử nghiêm túc, cô áp dụng kiến thức chuyên môn vào quản lý Quốc hội và cải tạo địa phương, dùng sự kiên quặt đối với chi tiết để từng bước xây dựng bản đồ chính trị cá nhân. Liệu cô có đủ khả năng chuyển đổi từ「đại biểu xuất sắc」thành「thị trưởng xuất sắc」phụ thuộc vào việc cô có thể chứng minh được rằng các sửa đổi luật tại Quốc hội và các dự án cống nước tại địa phương thực sự có thể tạo thành một New Taipei thoải mái và bền vững hơn.
+Trang "Về Xảo Tuệ" trên website văn phòng của bà liệt kê các chức vụ như Chủ tịch Hội Hậu sinh (Housheng), Phó Chủ tịch điều hành Hội Thúc đẩy Mục tiêu Phát triển Bền vững, cũng như Ủy viên Thường vụ Trung ương, Ủy viên Ban Chấp hành Trung ương Dân tiến đảng và Phó Thư ký trưởng Đoàn đảng tại Lập pháp viện; trong khi dữ liệu của Lập pháp viện lại liệt kê chức vụ của bà tại Hội Hậu sinh là Thư ký trưởng.[^1] [^15]
 
-Con đường chính trị của Su Qiaowei là phản ánh của quá trình phát triển bảo vệ dân chủ Đài Loan, thể hiện cách các thế hệ chính trị mới trong khi kế thừa và đổi mới, tìm kiếm vị trí và giá trị riêng cho mình. Trong thời kỳ「xung đột」, Su Qiaowei đã chọn「thông minh và chi tiết」, dùng trí tuệ và sự tỉ mỉ để xây dựng tương lai Đài Loan.
+## "Mẹ rái cá" đưa chính trị vào giờ đi ngủ
 
----
+"Chuyện kể của mẹ rái cá Xảo Xảo" (水獺媽媽巧巧話) là cái tên mà trẻ em dễ dàng nhận ra Tô Xảo Tuệ nhất. Phần giới thiệu chính thức của bà viết: "Khi đi làm, tôi nỗ lực làm việc, thẩm định ngân sách chính phủ, xây dựng luật pháp quốc gia... Khi tan làm, tôi sẽ hóa thân thành mẹ rái cá kể chuyện cho các bé rái cá nghe."[^3]
 
-### Tài liệu tham khảo
+Chương trình bắt đầu từ thói quen kể chuyện cho hai con gái của bà, sau đó phát triển thành Podcast. Dữ liệu chính thức cho biết chương trình đã duy trì được 6 năm, nội dung chủ yếu xoay quanh sách tranh Đài Loan, lịch sử, đất đai, sinh thái, nhân quyền và dạy tiếng Đài Loan; trang bình chọn của Quỹ Quan sát Truyền thông Đài Loan liệt kê đây là Chương trình chất lượng dành cho trẻ em và thanh thiếu niên lần thứ 24 năm 2024, với nhận xét nhấn mạnh vào sự kết nối giữa cha mẹ và con cái cùng giáo dục tiếng mẹ đẻ.[^3] [^10]
 
-[^1]: [Su Qiaowei - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%98%87%E5%B7%A7%E6%85%A7) — Wikipedia, bách khoa toàn thư tự do
+Chương trình chuyển đổi các vấn đề công cộng thành những tình huống mà trẻ em có thể hiểu được: đất đai của Đài Loan có thể kể qua câu chuyện, sinh thái có thể nói qua các nhân vật, và nhân quyền cũng có thể bắt đầu từ một cuốn sách tranh. Tô Xảo Tuệ đã nói trong cuộc phỏng vấn với _今周刊_: "Những đứa trẻ đó không biết ông ấy là Tô Trinh Xương, chúng chỉ biết ông ấy gọi là ông rái cá thôi."[^4]
 
-[^2]: [16 lần được Đảng Dân giám Quốc hội đánh giá là Ủa lại, Su Qiaowei: Tiếp tục cố gắng để mọi người sống tốt hơn](https://news.ltn.com.tw/news/politics/paper/1750950) — Báo Tuổi Trẻ tin tức (2026-04-15)
+## 16 lần được đánh giá và việc tranh cử
 
-[^3]: [1 Ủa lại chắc chắn là 1 Ủa lại thị trưởng🔥🔥](https://www.threads.com/@yuehchin_lin/post/DXJQiEvGaUD/) — Bài đăng trên nền tảng xã hội Threads (2026-04-15)
+Website tranh cử chính thức của Tô Xảo Tuệ tuyên bố rằng trong ba nhiệm kỳ nghị sĩ, bà đã 16 lần được Liên minh Giám sát Công vụ (gongdu) đánh giá là nghị sĩ xuất sắc; tờ _Tự Do Thời Báo_ (Liberty Times) đưa tin khi gongdu công bố kết quả đánh giá kỳ trước vào năm 2026, bà đã nhận được sự khẳng định lần thứ 16 và giành vị trí số 1 trong đánh giá của công dân. Đây là những tuyên bố công khai từ kết quả đánh giá và website ứng cử viên, không đồng nghĩa với đánh giá tổng thể của tất cả cử tri đối với bà.[^11] [^15]
 
-[^4]: [Xét duyệt đề xuất sửa đổi Luật Dinh dưỡng và Bộ luật Phòng chống Ung thư](https://lawmaker.twreporter.org/congress/a/144154) — Website Thông tin toàn cầu của Ban Thông minh (nền tảng truyền thông)
+Cùng một bài báo cũng tổng hợp các dự luật và công việc địa phương mà bà đã thực hiện, bao gồm sửa đổi Luật Tàu thuyền, vận động quỹ phòng chống ung thư, cũng như tranh thủ kinh phí xây dựng giao thông và trường học tại Tân Bắc. Những nội dung này có thể dùng để hiểu cách bà mô tả lộ trình chính trị của mình, nhưng không thể đơn độc chứng minh hiệu quả thực tế của từng chính sách.[^11]
 
-[^5]: [Ngày cuối cùng của kỳ đầu tiên Quốc hội, qua đó hóa pháp quyền lợi người mới đến Việt Nam!](https://www.facebook.com/chiaohui.su/posts/1049114779903691/) — Bài đăng trên Facebook chính thức của Su Qiaowei
+Tô Xảo Tuệ đại diện cho Dân tiến đảng tranh cử Thị trưởng Tân Bắc năm 2026; thông tin cơ bản và các mục về các ứng cử viên khác xem tại [Cuộc bầu cử cửu hợp nhất 2026](/elections/2026).
 
-[^6]: [Đề xuất sửa đổi Bộ luật Phát triển Ngành Thể thao - Xây dựng kênh đầu tư](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Website Thông tin toàn cầu của Ban Thông minh (2026-04-12)
+## Đảng Dân chúng nghi vấn công ty của em gái, Quốc dân đảng nghi vấn sự tham gia xây dựng
 
-[^7]: [Su Qiaowei: Xét duyệt đề xuất sửa đổi Luật Dinh dưỡng và Bộ luật Phòng chống Ung thư](https://lawmaker.twreporter.org/congress/a/144154) — Website Thông tin toàn cầu của Ban Thông minh (nền tảng truyền thông)
+Năm 2026, Đảng Dân chúng (TPP) Đài Loan cáo buộc đội ngũ liên quan đến em gái Tô Xảo Thuần (Su Qiao-chun) của Tô Xảo Tuệ đã nhận được các khoản trợ cấp và đầu tư từ chính phủ trong thời gian ông Tô Trinh Xương làm Viện trưởng Hành chính viện, nghi vấn về việc không tránh né xung đột lợi ích. Tô Xảo Tuệ gọi đây là sự bôi nhọ chính trị, nói rằng em gái bà tỏa sáng bằng năng lực chuyên môn của chính mình; Đảng Dân chúng đã gửi đơn lên Văn phòng Kiểm sát Địa phương Đài Bắc yêu cầu công tố viên điều tra.[^19]
 
-[^8]: [Đề xuất sửa đổi Bộ luật Phát triển Ngành Thể thao - Xây dựng kênh đầu tư](https://www.ey.gov.tw/Page/9277F759E41CCD91/c22b7505-92d4-4456-b86a-d310f469449b) — Website Thông tin toàn cầu của Ban Thông minh (2026-04-12)
+Một trong những vụ việc là khoản trợ cấp cho công ty Weiru Technology: Nhóm nghị sĩ Đảng Dân chúng nghi vấn rằng sau khi Tô Xảo Thuần đảm nhiệm vị trí Giám đốc điều hành akaSwap thuộc Weiru Technology, công ty này đã liên tục nhận được các khoản trợ cấp từ Bộ Văn hóa, Bộ Kinh tế, v.v., nhưng khi nộp đơn đã không tiết lộ mối quan hệ với Tô Xảo Tuệ. Bộ Kinh tế vào ngày 22 tháng 6 năm 2026 cho biết, trong thời gian thực hiện dự án trợ cấp, người phụ trách, cổ đông và giám đốc của Weiru Technology cũng như các nhà thầu cùng đề xuất đều không có tên Tô Xảo Thuần; đối tượng nhận trợ cấp là Weiru Technology chứ không phải nền tảng akaSwap, dựa trên dữ liệu hiện tại vẫn chưa thể kết luận ngay lập tức về việc vi phạm "Luật Tránh xung đột lợi ích của công chức".[^21] [^22]
 
-[^9]: [Bắt đầu thi công trên mặt đường cao tốc Wanda, đòi hỏi ngân sách 770 tỷ đồng từ Ban Thông minh](https://www.threads.com/@fa.writing/post/DXf2gMogfTG/) — Nội dung báo chí trên nền tảng Threads (2026-04-24)
+Quốc dân đảng thì nghi vấn rằng mức độ tham gia của bà trong các dự án xây dựng địa phương như tuyến tàu điện ngầm Tam San (Sanxia) Line, ga Phượng Minh (Fengming) là không cao, và bà chỉ đang tranh giành công lao của chính quyền địa phương.[^19]
 
-[^10]: [Đòi hỏi ngân sách trung tâm 770 tỷ đồng, 9 đề xuất sửa đổi luật, Su Qiaowei chia sẻ bảng kết quả Quốc hội](https://udn.com/news/story/7323/9402130) — Báo tin sống động của Báo Thông tín (2026-03-25)
+## Các báo cáo xây dựng địa phương và hỏi chính được viết trên website văn phòng
 
-[^11]: [Su Qiaowei đòi hỏi ngân sách, phối hợp hoàn thành việc nhỏ hóa đường sắt đô thị New Taipei](https://tw.news.yahoo.com/%E8%98%87%E5%B7%A7%E6%85%A7%E7%88%AD%E5%8F%96%E9%A0%90%E7%AE%97-%E5%8D%94%E8%AA%BF%E9%9B%BB%E5%8A%9B%E5%9C%B0%E4%B8%8B%E5%8C%96-%E6%88%90%E5%8A%9F%E6%8E%A8%E5%8B%95%E6%96%B0%E5%8C%97%E6%8D%B7%E9%81%8B-052500907.html) — Báo tin tổng hợp của Yahoo (2026-02-21)
+Website văn phòng của Tô Xảo Tuệ từng liệt kê các dự án xây dựng địa phương như khởi công tuyến tàu điện ngầm Thụ Lâm (Shulin) Line, hoàn thành đường nhánh cầu Phù Châu (Fuzhou) trên Quốc lộ 65, đường đi bộ ven đê Tân Thụ Ưng (Xin-Shu-Ying), lắp đặt thêm ga đơn giản Phượng Minh và thay thế đường ống nước sạch tại Tân Trang, đồng thời ghi nhận việc cải thiện 38 trường học, 186 hạng mục xây dựng tại Thụ Lâm, Ưng Ca và Tân Trang với tổng kinh phí là NT$745 triệu.[^23]
 
-[^12]: [Giải quyết vấn đề uống nước cho các khu vực nông thôn Wanda, Su Qiaowei đòi hỏi ngân sách hơn 30 triệu đồng hoàn thành cống nước](https://newtalk.tw/news/view/2026-02-27/1021737) — Báo mới Newtalk (2026-02-27)
+Các bản "Báo cáo Xảo Hội" (巧會報) qua các nhiệm kỳ của bà cũng áp dụng hình thức báo cáo tương tự: trang về kỳ họp đầu tiên khóa 11 năm 2024 ghi rõ bà chuyển sang Ủy ban Nội chính, còn trang của năm 2025 thì tổng hợp công việc quốc hội theo các chủ đề như nhà ở, bảo vệ động vật, phòng chống lừa đảo, chăm sóc trẻ em và lương hưu.[^16]
 
-[^13]: [Thông tin về Su Qiaowei - Đòi hỏi cải tạo trường học](https://chiao.tw/about/) — Trang giới thiệu chính thức của Su Qiaowei
+## Từ "con gái của Tô Trinh Xương" đến cái tên của chính mình
 
-[^14]: [Nghe Emily, trợ lý của Su Qiaowei tham gia hội thảo đào tạo ngoại lệ 2025 chia sẻ kinh nghiệm](https://www.threads.com/@dpp_international/post/DXHDascEXfO/) — Phòng Quốc tế của Đảng Dân chủ tiến bộ trên Threads (2026-04-14)
+Câu chuyện của Tô Xảo Tuệ không có một khoảnh khắc "xé bỏ nhãn dán" sạch sẽ nào. Bối cảnh gia tộc là nguồn lực thực tế, nhưng cũng là bóng ma kéo dài; kinh nghiệm luật sư và giáo dục là sự tích lũy thực chất, nhưng cũng không thể tự động xóa tan những nghi vấn về lợi ích và quyền lực chính trị. Cách nói gần với sự thật nhất là bà luôn bồi đắp thêm những nội dung mới vào cùng một cái tên đó.
 
-[^15]: [Thành công trong ngoại lệ chính trị! Wu Yi-lu đại diện DPT chọn là Phó Chủ tịch thứ hai của「Liên đoàn Dân giám và Tự do chính trị châu Á」](https://www.dpp.org.tw/content_print/media/11513) — Thông cáo chính thức của Đảng Dân chủ tiến bộ (2026-03-31)
+Năm 2012, bà đưa trí tưởng tượng nghề nghiệp đến bên cạnh trẻ em; năm 2016, bà mang các vấn đề giáo dục vào Quốc hội; năm 2020, bà biến ý nghĩ không muốn nói về chính trị sau giờ làm việc thành "mẹ rái cá". Mỗi lần chuyển đổi, danh tính trước đó không hề biến mất mà tiếp tục đồng hành cùng bà.
 
-[^16]: [Chiến tranh chính sách nuôi con, Su Qiaowei đề xuất tăng trợ cấp sinh sản sớm lên 30 nghìn](https://tw.news.yahoo.com/%E8%82%B2%E5%85%92%E6%94%BF%E8%A6%8B%E9%96%8B%E6%88%B0-%E7%B6%A0%E6%96%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%8F%83%E9%81%B8%E4%BA%BA%E8%98%87%E5%B7%A7%E6%85%A7-%E6%9C%80%E6%97%A9%E6%8F%90%E5%87%BA%E5%8A%A0%E7%A2%BC%E6%97%A9%E7%94%A2%E5%85%92%E8%A3%9C%E8%B2%BC3%E8%90%AC-041402244.html) — Báo tin tổng hợp của Yahoo (2026-03-27)
+Câu nói ở đầu bài "không muốn sau khi tan làm vẫn phải tiếp tục nói về chính trị" cuối cùng đã không nhốt chính trị lại ngoài cánh cửa. Bà chỉ thay đổi cách diễn đạt: từ điều luật thành câu chuyện, từ chất vấn thành sự đồng hành, từ việc "cứu từng người một thì không kịp" thành nỗ lực làm cho hệ thống trở nên sớm hơn và rộng lớn hơn.
 
-[^17]: [「Chính sách nuôi con tôi là người đầu tiên đề xuất」, Su Qiaowei: Ngoài chăm sóc trẻ em, còn chăm sóc người già](https://udn.com/news/story/124652/9408380) — Báo tin sống động của Báo Thông tín (2026-03-28)
+## Tài liệu tham khảo
 
-[^18]: [Ông nộ cô bị chỉ trích là「người phản bội」, Su Qiaowei: Tác giả đã phát triển sự thật là sự phát triển sự thật](https://tw.news.yahoo.com/%E6%9B%BE%E7%A5%96%E7%88%B6%E5%86%8D%E9%81%AD%E6%8A%B9%E9%BB%91%E7%82%BA-%E6%BC%A2%E5%A5%B8-%E8%98%87%E5%B7%A7%E6%85%A7-%E5%8E%9F%E4%BD%9C%E8%80%85%E6%97%A9%E5%B7%B2%E9%97%A2%E8%AC%A0-%E5%85%A8%E6%8E%8F%E9%80%A0-012117959.html) — Báo tin tổng hợp của Yahoo (2026-03-15)
+[^1]: [Trang thông tin toàn cầu Lập pháp viện: Nghị sĩ Tô Xảo Tuệ (Khóa 11)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46860) — Dữ liệu nghị sĩ khóa 11, liệt kê học vấn, nhậm chức ngày 1/2/2024, kinh nghiệm tại Ủy ban Nội chính và Thư ký trưởng Hội Hậu sinh.
 
-[^19]: [Bầu cử lại có tấn công lịch sử? Su Zhenchang cho rằng ông tổ tiên của Su Qiaowei đã làm chủ... tác giả bị bỏ sạch](https://www.fountmedia.io/article/361190) — Báo Fount Media (2026-03-16)
+[^2]: [Trang thông tin toàn cầu Lập pháp viện: Nghị sĩ Tô Xảo Tuệ (Khóa 9)](https://www.ly.gov.tw/Pages/List.aspx?nodeid=1917) — Dữ liệu nghị sĩ khóa 9, liệt kê ứng viên SJD tại Đại học Pennsylvania, kinh nghiệm tại Ủy ban Giáo dục và Văn hóa trong tám kỳ họp và hội hỗ trợ luật sư năm 2004.
 
-[^20]: [Yuan Zhi gọi là「con cảnh」, Su Qiaowei phản hồi tốt bằng cách nói: Quá khứ là xung đột, hiện tại cần thêm「thông minh và chi tiết」](https://www.facebook.com/story.php?story_fbid=1160754182085901&id=100044539895059) — Video báo chí trên nền tảng Facebook
+[^3]: [Tô Xảo Tuệ 2026: Chuyện kể của mẹ rái cá Xảo Xảo](https://chiao.tw/ottermama) — Giới thiệu chương trình trên website tranh cử của Tô Xảo Tuệ, bao gồm tự thuật "khi đi làm/khi tan làm" và phạm vi nội dung chương trình.
 
-[^21]: [Giới thiệu Facebook chính thức của Su Qiaowei -「Mẹ Nuói」kể chuyện với con](https://www.facebook.com/chiaohui.su/) — Trang fan chính thức của Su Qiaowei trên Facebook
+[^4]: [Next Magazine: Phỏng vấn Tô Xảo Tuệ / Sau giờ làm không bàn chính trị đã tạo nên vũ trụ nhỏ "mẹ rái cá"](https://www.businesstoday.com.tw/article/category/183027/post/202610240006/) — Bài phỏng vấn tháng 10/2026 của Next Magazine, ghi lại quá trình bà chuyển từ khoa công tác xã hội sang luật, làm Giám đốc Quỹ Siêu Việt năm 2009, trúng cử năm 2016 và lập Podcast.
+
+[^5]: [Quỹ Siêu Việt: Người khởi xướng dự án Chuyên gia vượt giới hạn - Tô Xảo Tuệ](https://eball.tw/node/100020) — Giới thiệu của Quỹ Siêu Việt về việc khởi xướng dự án năm 2012 và hành trình đồng hành cùng hơn 190.000 trẻ em.
+
+[^6]: [Ủy ban Bầu cử Trung ương: Công báo khu vực bầu cử số 5 Tân Bắc trong cuộc bầu cử nghị sĩ khóa 11](https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/03%E6%96%B0%E5%8C%97%E5%B8%82/%E7%AC%AC05%E9%81%B8%E8%88%89%E5%8D%80/%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1-%E7%AC%AC5%E9%81%B8%E8%88%89%E5%8D%80.pdf) — Công báo bầu cử năm 2024, nêu rõ phạm vi khu vực số 5 (Thụ Lâm, Ưng Ca, chín xã thuộc quận Tân Trang) và thông tin ứng cử viên.
+
+[^7]: [Trang thông tin nghị sự và công báo Lập pháp viện: Dự thảo sửa đổi Điều 8 và Điều 89 Luật Tàu thuyền](https://ppg.ly.gov.tw/ppg/bills/202110164380000/details) — Trang dự án của Lập pháp viện, người đề xuất gồm Tô Xảo Tuệ và 18 người khác, tiến độ thẩm định là đã hoàn tất thẩm tra (đọc lần ba).
+
+[^10]: [Quỹ Quan sát Truyền thông Đài Loan: Chuyện kể của mẹ rái cá Xảo Xảo](https://www.mediawatch.org.tw/fine-program/10504) — Trang bình chọn chương trình chất lượng dành cho trẻ em và thanh thiếu niên lần thứ 24 năm 2024, nhận xét về sự kết nối cha mẹ con cái và giáo dục tiếng mẹ đẻ.
+
+[^11]: [Liberty Times: Lần thứ 16 được gongdu đánh giá là nghị sĩ xuất sắc](https://news.ltn.com.tw/news/politics/paper/1750950) — Tin tức tháng 4/2026 của Liberty Times, ghi nhận bà lần thứ 16 nhận đánh giá xuất sắc từ gongdu và đứng đầu bình chọn của công dân.
+
+[^14]: [Liên minh Giám sát Quốc hội chuyển tải: Ủy ban Văn hóa phe Xanh và Xanh lá tình cảm tốt, nghị sĩ đảng Xanh nói về hình ảnh mới của Quốc hội](https://ccw.org.tw/news/-604) — Bài viết của gongdu chuyển tải từ báo Đài Loan Tỉnh (Taiwan Awakening) năm 2017, ghi lại cuộc thảo luận giữa bà và Kha Chí Ân về vận hành ủy ban và phép ẩn dụ "không ném nhầm rổ".
+
+[^15]: [Website chính thức của Tô Xảo Tuệ: Về Xảo Tuệ](https://chiao.tw/about/) — Tự thuật kinh nghiệm trên website tranh cử, liệt kê 16 lần là nghị sĩ xuất sắc và chức vụ Chủ tịch Hội Hậu sinh.
+
+[^16]: [Website chính thức của Tô Xảo Tuệ: Báo cáo Xảo Hội / Kết quả hỏi chính](https://chiao.tw/chiao-report/) — Các báo cáo kỳ họp qua các năm của văn phòng Tô Xảo Tuệ, ghi lại sự thay đổi ủy ban và các vấn đề hỏi chính hàng năm.
+
+[^17]: [NOWnews: Hôm nay tôi trẻ nhất / Thoát khỏi nhãn dán dựa hơi cha, bà dùng chuyên môn giành lấy lòng dân](https://today.line.me/tw/v3/article/GglWBjQ) — Bài viết nhân vật năm 2023 của NOWnews, liệt kê kinh nghiệm thi luật sư năm 2002, hội hỗ trợ luật sư năm 2004 và luật sư tình nguyện vùng sâu vùng xa năm 2005.
+
+[^18]: [Dân tiến đảng: Thông cáo báo chí của đoàn luật sư Tổng thống và Phó Tổng thống](https://www.dpp.org.tw/media/contents/1563) — Thông cáo năm 2004 của Dân tiến đảng, giải thích các tranh chấp về phạm vi kiểm phiếu, quy trình và chi phí trong vụ kiện vô hiệu hóa kết quả trúng cử.
+
+[^19]: [BBC News tiếng Trung: Cuộc đua Thị trưởng Tân Bắc: "Thế hệ chính trị thứ hai" Tô Xảo Tuệ đối đầu "Trợ lý chuyên nghiệp" Lý Tứ Xuyên](https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad) — Tin tức tháng 10/2026 của BBC tiếng Trung, tổng hợp về việc du học, làm Giám đốc Quỹ Siêu Việt năm 2009, tái đắc cử năm 2020, cũng như các nghi vấn từ Đảng Dân chúng và Quốc dân đảng.
+
+[^21]: [United Daily News: Đảng Dân chúng cáo buộc vụ Weiru Technology vi phạm tránh xung đột lợi ích; Bộ Kinh tế: Chưa thể kết luận vi phạm](https://udn.com/news/story/7238/9581704) — Tin tức ngày 22/6/2026 của United Daily News, ghi lại nghi vấn của nhóm nghị sĩ Đảng Dân chúng về khoản trợ cấp cho Weiru Technology và phản hồi từ Bộ Kinh tế.
+
+[^22]: [Liberty Times: Bộ Kinh tế: Các đơn vị nhận trợ cấp của Weiru Technology đều không phải Tô Xảo Thuần, không thể kết luận vi phạm tránh xung đột lợi ích](https://ec.ltn.com.tw/article/breakingnews/5480412) — Tin tài chính ngày 22/6/2026 của Liberty Times, ghi lại giải thích của Bộ Kinh tế về việc các cơ quan thuộc Bộ Kinh tế và Cục Thương mại trợ cấp cho Weiru Technology.
+
+[^23]: [Website chính thức của Tô Xảo Tuệ: Về Xảo Tuệ (Lưu trữ Internet ngày 12/6/2026)](http://web.archive.org/web/20260612144430/https://chiao.tw/about/) — Phiên bản cũ của website tranh cử, liệt kê các thành tựu tự thuật như tuyến tàu điện ngầm Thụ Lâm, đường nhánh cầu Phù Châu, ga đơn giản Phượng Minh và 186 hạng mục xây dựng tại 38 trường học với tổng trị giá NT$745 triệu.
+
+[^24]: [Trang thông tin nghị sự và công báo Lập pháp viện: Dự thảo bổ sung Điều 12-1 Đạo luật Phát triển Ngành Thể thao](https://ppg.ly.gov.tw/ppg/bills/202103145180000/details) — Trang dự án khóa 10 của Lập pháp viện, người đề xuất gồm Tô Xảo Tuệ và 20 người khác, sau khi thẩm định chung thì tiến độ là đã hoàn tất thẩm tra (đọc lần ba).
+
+[^25]: [Trang thông tin nghị sự và công báo Lập pháp viện: Dự thảo Luật Cơ bản về Cư dân mới](https://ppg.ly.gov.tw/ppg/bills/202110037370000/details) — Trang dự án khóa 11 của Lập pháp viện, người đề xuất gồm Tô Xảo Tuệ và 26 người khác, thẩm định cùng với các dự thảo luật bảo vệ quyền lợi cư dân mới.
+
+[^26]: [Trang thông tin nghị sự và công báo Lập pháp viện: Dự thảo sửa đổi Luật Phòng chống Ung thư](https://ppg.ly.gov.tw/ppg/bills/202110067670000/details) — Trang dự án khóa 11 của Lập pháp viện, người đề xuất gồm Tô Xảo Tuệ và 30 người khác, tiến độ là chuyển giao thẩm tra.
