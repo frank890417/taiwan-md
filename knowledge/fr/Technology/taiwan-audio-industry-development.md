@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T12:42:49+08:00'
+translatedAt: '2026-11-18T20:42:08.226799+00:00'
 ---
 
 # Développement de l'industrie audio de Taïwan
@@ -153,12 +155,12 @@ L'industrie audio de Taïwan fait face à la triple pression de la concurrence p
 
 ## Références
 
-[^1]: [Bureau du développement industriel du Ministère de l'Économie](https://www.ida.gov.tw/) — Anciennement Bureau de l'industrie, réorganisé en septembre 2023, autorité compétente pour la politique de l'industrie audio de Taïwan
+[^1]: [Administration du développement industriel du Ministère des Affaires économiques](https://www.ida.gov.tw/) — Anciennement le Bureau de l'industrie, restructuré en septembre 2023, autorité compétente en matière de politique de l'industrie audio de Taïwan.
 
-[^2]: [ITRI ISTI « Analyse des tendances de l'industrie audio »](https://ieknet.iek.org.tw/) — Analyse de l'échelle et du marché de la sous-traitance de l'industrie audio de Taïwan
+[^2]: [Institut international de la science et de la technologie de l'ITRI « Analyse des tendances de l'industrie audio »](https://ieknet.iek.org.tw/) — Analyse de la taille de l'industrie audio de Taïwan et du marché de la sous-traitance.
 
-[^3]: [Association des industries électriques et électroniques de Taïwan (TEEMA)](https://www.teema.org.tw/) — « Annuaire de l'industrie audio », statistiques des fabricants et de la production de l'industrie audio de Taïwan
+[^3]: [Association des fabricants électriques et électroniques de Taïwan (TEEMA)](https://www.teema.org.tw/) — « Annuaire de l'industrie audio », statistiques des fabricants et de la production de l'industrie audio de Taïwan.
 
-[^4]: [Site officiel de Merry Electronics (美律實業)](https://www.merry.com.tw/) — Produits de composants électroacoustiques et informations corporate ; Creative Technology Ltd. est une entreprise singapourienne, non taïwanaise
+[^4]: [Site officiel de Merry Electronics](https://www.merry.com.tw/) — Produits de composants électroacoustiques et informations sur l'entreprise ; Creative Technology Ltd. est une entreprise singapourienne, non un fabricant taïwanais.
 
-[^5]: [Documents techniques de la section Taïwan de l'Audio Engineering Society (AES)](https://www.aes.org/) — Standards et résultats de recherche en ingénierie acoustique internationale
+[^5]: [Documents techniques de la section taïwanaise de l'Audio Engineering Society (AES)](https://www.aes.org/) — Normes internationales d'ingénierie acoustique et résultats de recherche.

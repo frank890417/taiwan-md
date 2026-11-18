@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T12:39:58.559246+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-18T19:56:28.801958+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Après la clôture du marché le 19 mai 2026, la capitalisation boursière de TSMC atteignait 57,18 billions de dollars taïwanais. Une seule entreprise représentait 31,51 % de l'indice pondéré de Taïwan, environ 40 % de la capitalisation totale du marché taïwanais et 71 % de la fonderie mondiale de semi-conducteurs. Les 49 places suivantes étaient réparties entre 12 holdings financiers, 11 entreprises de semi-conducteurs, 6 sous-traitants électroniques et 5 vétérans des industries traditionnelles. Le prétendu tripode électronique-finance-industries traditionnelles est, dans les faits, un corps à moitié soutenu par la seule jambe électronique ; à partir de 2024, la vague de l'IA a fait remonter Quanta, Wistron, Wiwynn et Hon Hai Precision Industry du milieu du classement, augmentant encore la concentration. Lire ce tableau des 50 plus grandes entreprises revient à lire une carte anatomique de l'économie taïwanaise : où se trouve la colonne vertébrale, où se trouve le point de défaillance unique, et où se trouvent les organes internes cachés hors du tableau.
@@ -144,28 +146,29 @@ China Steel (中鋼) à Xiaogang, Kaohsiung, supporte également une facture. Se
 > **📝 Note du commissaire**
 > L'autre face des 50 grandes entreprises, ce sont 50 registres de coûts externes. Le PIB compte la valeur de production des usines, mais pas les dépenses médicales des foyers autour des usines, la charge de soins de longue durée qui s'accumule pour les résidents de Yunlin, les frais de relogement des habitants de Qianzhen à Kaohsiung. L'économie appelle cela « l'internalisation des externalités » (externalities) : lorsque la société force les entreprises à réintégrer les coûts qu'elles faisaient auparavant retomber sur l'extérieur, c'est là le véritable sens de l'ESG. Parmi les 50 grandes entreprises de Taïwan, l'industrie des semi-conducteurs et l'industrie financière (holdings financiers) sont généralement en tête des scores ESG ; les industries traditionnelles et pétrochimiques sont, elles, l'objet de l'examen. Ce réordonnancement des scores changera plus profondément le classement au cours des dix prochaines années que ne le ferait n'importe quel rapport financier trimestriel.
 
-## Le marché de nuit de Ningxia et Kaixuan 3rd Road
+## Marché de nuit de Ningxia et route Kaixuan Section 3
 
-Relier le début et la fin, c'est placer deux extrêmes dans un même système de coordonnées.
+Relier le début et la fin, ce sont deux extrêmes dans un même système de coordonnées.
 
-Le soir du marché de nuit de Ningxia, cinq des personnes les plus importantes des semi-conducteurs buvaient de la bière sur des chaises en plastique ; le lendemain, la capitalisation des entreprises de trois d'entre eux a augmenté de plusieurs centaines de milliards en une seule journée. La nuit de Kaixuan 3rd Road, 32 habitants de Qianzhen ont été projetés hors de chez eux par une explosion ; l'affaire a été jugée pendant huit ans, puis tranchée, mais personne n'a pu rendre les vies perdues.
+Ce soir-là au marché de nuit de Ningxia, les cinq personnes les plus importantes de l'industrie des semi-conducteurs buvaient de la bière à des tables et chaises en plastique ; le lendemain, la capitalisation boursière des entreprises de trois d'entre elles avait augmenté de plusieurs centaines de milliards en une nuit. Cette nuit-là sur la route Kaixuan Section 3, 32 résidents de Qianzhen ont été projetés dans les airs depuis leur domicile ; l'affaire a été jugée pendant huit ans avant d'être close, mais personne ne peut rendre la vie à ceux qui l'ont perdue.
 
-Entre ces deux images s'étend tout l'intervalle couvert par le tableau des 50 plus grandes entreprises.
+Entre ces deux scènes se déploie toute l'étendue de ce tableau des 50 premières.
 
-Au sommet, la montagne sacrée protectrice du pays soutient toute l'industrie et tout le pays ; à ses pieds se trouvent les PM2.5 de Mailiao, l'odeur de propylène de Qianzhen, ainsi que l'influence des usines I-Mei et des showrooms Hotai, absents du classement. Les 50 entreprises réunies sont la colonne vertébrale de Taïwan ; une seule d'entre elles est la plus grosse vertèbre lombaire de cette colonne. Mais en dehors de cette colonne existent aussi les muscles, les nerfs et la peau que le PIB ne saisit pas.
+Au sommet, la « Montagne sacrée protégeant la nation » soutient à elle seule toute l'industrie et tout le pays ; au pied de cette montagne se trouvent les PM2,5 de Mailiao, l'odeur d'acrylique de Qianzhen, les usines I-Mei et les showrooms Hotai dont l'influence ne figure pas dans le classement. Les 50 entreprises réunies forment la colonne vertébrale de Taïwan ; une seule entreprise en est la vertèbre lombaire la plus épaisse, mais hors de la colonne vertébrale existent encore des muscles, des nerfs et une peau que le PIB ne saisit pas.
 
-Après avoir lu ce tableau, le lecteur ne devrait pas seulement retenir « qui est classé où » ou « quelle est la capitalisation de chacun ». Il devrait repartir avec une carte anatomique : où se trouve la colonne vertébrale, où se trouve le point de défaillance unique, où se trouvent les coûts externes, et où se trouvent les organes internes cachés hors du tableau. Lorsque la prochaine vague de l'IA redistribuera encore les positions, lorsque la prochaine phase de géopolitique sino-américaine retournera de nouveau la situation, lorsque la prochaine entreprise contestera la position de TSMC sur tel ou tel procédé, cette carte sera redessinée. Les noms occupant ces 50 places changeront, certains disparaîtront, d'autres apparaîtront, mais ce tableau continuera d'enregistrer une chose : quelles entreprises décident de la manière dont cette génération de Taïwanais mange, travaille et s'inquiète de demain.
+Après avoir lu ce tableau, ce que le lecteur doit emporter n'est pas « qui se classe où, quelle capitalisation boursière ». Ce devrait être une carte anatomique : où se trouve la colonne vertébrale, où se trouve le point de défaillance unique, où se trouvent les coûts externes, où se trouvent les viscères cachés hors du tableau. Lorsque la prochaine vague d'IA rebattra les cartes, lorsque la prochaine secousse géopolitique sino-américaine redistribuera les rôles, lorsque la prochaine entreprise défiera la position de TSMC sur un nœud de procédure donné, cette carte structurelle sera redessinée. Les noms sur ces 50 places changeront, diminueront, augmenteront, mais ce tableau enregistre invariablement une chose : quelles entreprises décident comment cette génération de Taïwanais mange, travaille, s'inquiète pour demain.
 
-> **✦** « Les semi-conducteurs ont placé Taïwan au centre du monde. Mais ce que le tableau des 50 plus grandes entreprises n'écrit pas, ce sont les organes internes et la peau de cette île ; eux aussi font partie de Taïwan, simplement le PIB ne les voit pas. »
+> **✦** « Les semi-conducteurs ont placé Taïwan au centre du monde. Mais ce que ce tableau des 50 premières n'écrit pas, ce sont les viscères et la peau de cette île ; elles font aussi partie de Taïwan, seulement le PIB ne les voit pas. »
 
 **Lectures complémentaires** :
 
-- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — Première du top 50, entreprise unique représentant 31,51 % de l'indice pondéré
-- [PME et champions cachés de Taïwan](/fr/economy/taiwan-smes-and-hidden-champions) — Au-delà d'I-Mei et de Hotai, les 30 % invisibles de la structure économique
-- [L'industrie taïwanaise des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'ITRI au 2 nanomètres, l'origine des 11 places des semi-conducteurs dans le top 50
-- [Marché boursier et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Indice pondéré, classements de capitalisation et structure des investisseurs institutionnels
-- [Défense taïwanaise et modernisation militaire](/fr/society/taiwan-defense-modernization) — Le silicon shield et l'interaction géopolitique des 50 plus grandes entreprises
-- [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — La base de production des 11 entreprises de semi-conducteurs du top 50 ; version spatiale de la concentration des trois parcs
+- [Spécial industrie taïwanaise](/industry/) — Dessiner la structure industrielle avec les statistiques officielles : exportations et PIB sur soixante-dix ans, parcs scientifiques, usines par comté/ville, top 10 historique de la capitalisation boursière, plus les arguments des six débats publics
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — Première du top 50, une seule entreprise représentant 31,51 % de l'indice pondéré
+- [PME taïwanaises et champions cachés](/fr/economy/taiwan-smes-and-hidden-champions) — Au-delà d'I-Mei et Hotai, les 30 % invisibles de la structure économique
+- [Industrie taïwanaise des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'ITRI au 2 nm, la source des 11 places semi-conducteurs du top 50
+- [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Indice pondéré, classement par capitalisation, structure des investisseurs institutionnels
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — Bouclier de silicium et interaction géopolitique du top 50
+- [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — Base de production des places semi-conducteurs du top 50, version spatiale de la concentration de la valeur de production des trois parcs
 
 ## Sources des images
 

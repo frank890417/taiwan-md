@@ -2,9 +2,7 @@
 title: 'United Microelectronics Corporation (UMC) - pionnière de la fonderie de wafers à Taïwan'
 description: 'La première fonderie de wafers de Taïwan, témoin et moteur depuis un demi-siècle du parcours miraculeux qui a fait naître l’industrie taïwanaise des semi-conducteurs'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Économie',
@@ -13,15 +11,19 @@ tags:
     'Fonderie de wafers',
     'Technologie',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: 2026-05-16T22:27:03Z
+translatedAt: '2026-11-18T19:50:43.324287+00:00'
 ---
 
 > **Aperçu en 30 secondes**
@@ -151,12 +153,12 @@ C’est précisément là l’une des qualités les plus précieuses des entrepr
 
 ## Références
 
-[^1]: [Chronologie officielle d’United Microelectronics Corporation](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC est issue de l’Electronics Research and Service Organization de l’ITRI le 22 mai 1980 ; Wikipédia, en chinois et en anglais, ainsi que les sources officielles d’UMC confirment cette date
+[^1]: [Chronologie officielle d'UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC a été créée le 22 mai 1980 à partir de l'Institut d'électronique de l'ITRI ; Wikipédia (chinois et anglais) ainsi que les sources officielles d'UMC confirment cette date.
 
-[^2]: [Wikipédia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — En 1985, UMC est devenue la première entreprise de semi-conducteurs du monde chinois à être cotée en Bourse
+[^2]: [Wikipédia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — En 1985, UMC est devenue la première entreprise de semi-conducteurs cotée en bourse dans le monde chinois.
 
-[^3]: [TrendForce — Analyse du marché mondial de la fonderie de wafers 2024](https://www.trendforce.com/) — La part d’UMC sur le marché mondial de la fonderie de wafers est d’environ 7,4 %, soit la troisième place mondiale ; TSMC détient 62 % et Samsung 18 %
+[^3]: [TrendForce — Analyse du marché mondial de la fonderie de semi-conducteurs 2024](https://www.trendforce.com/) — La part de marché mondiale d'UMC dans la fonderie est d'environ 7,4 %, soit la troisième place mondiale ; TSMC détient 62 % et Samsung 18 %.
 
-[^4]: [Site officiel d’United Microelectronics Corporation — Relations investisseurs](https://www.umc.com/zh-TW/IR/ir_overview) — En 2025, le chiffre d’affaires d’UMC s’est élevé à 237,6 milliards de nouveaux dollars taïwanais, avec une marge brute de 29,0 % et un bénéfice par action de 3,34 dollars
+[^4]: [Site officiel d'UMC — Relations investisseurs](https://www.umc.com/zh-TW/IR/ir_overview) — Le chiffre d'affaires d'UMC en 2025 s'élève à NT$237,6 milliards, avec une marge brute de 29,0 % et un bénéfice par action de NT$3,34.
 
-[^5]: [Rapport ESG et développement durable d’United Microelectronics Corporation](https://www.umc.com/) — En 2022, UMC a lancé la stratégie « UMC 2030 » et s’est engagée à atteindre la neutralité carbone en 2030
+[^5]: [Rapport de durabilité ESG d'UMC](https://www.umc.com/) — En 2022, UMC a lancé la stratégie « UMC 2030 », s'engageant à atteindre l'objectif de neutralité carbone d'ici 2030.

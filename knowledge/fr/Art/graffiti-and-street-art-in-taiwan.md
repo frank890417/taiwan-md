@@ -2,23 +2,25 @@
 title: 'Graffiti de rue à Taïwan : des hors-la-loi de la nuit aux lumières urbaines de Ximending'
 description: "En 1989, Lü Xueyuan traça à la bombe la première ligne sur Minsheng East Road, ouvrant l'histoire souterraine du graffiti taïwanais. De la légende urbaine de Horumon King à la critique sociale de Candy Bird, ce jeu de poursuite avec les services de protection de l'environnement, mené depuis trente ans, redéfinit aujourd'hui l'esthétique urbaine de Taïwan."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '視覺藝術'
 tags: ['art de rue', 'Horumon King', 'sous-culture', 'espace urbain']
-readingTime: 8
+subcategory: '視覺藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
 image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T20:57:15.360996+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
@@ -72,16 +74,16 @@ Cet article utilise 3 images sous licence CC, toutes mises en cache dans `public
 
 ## Références
 
-[^1]: WowLavie, [La contre-attaque des artistes graffeurs taïwanais Reach et Blake ! Des rues vers des créations aux styles multiples](https://www.wowlavie.com/article/ae1902012)
+[^1]: [L'artiste taïwanais du graffiti Reach, la contre-attaque de Blake ! De la rue vers un style de création diversifié](https://www.wowlavie.com/article/ae1902012) — WowLavie (Voir la source originale en lien)
 
-[^3]: Heaven Raven, [Entretien avec l’artiste graffeur Horumon King : l’intérieur du gros intestin, c’est de la merde ; l’art aussi.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [Interview exclusive de l'artiste graffeur « Le Roi du Gros Intestin » : l'intérieur du gros intestin est de la merde, l'art aussi.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: BeautyMode, [La culture de rue a-t-elle tort de se tourner vers le commerce ? Reach, pionnier du graffiti taïwanais](https://www.beautimode.com/article/content/86906/)
+[^4]: [La culture de rue vers le commercial, est-ce une erreur ? Le pionnier taïwanais du graffiti Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: Base de données de l’art contemporain taïwanais, [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b)
+[^5]: [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Base de données d'art contemporain de Taïwan
 
-[^6]: Département de la protection de l’environnement du gouvernement de la ville de Taipei, [Jusqu’à 6 000 dollars d’amende pour les graffitis sauvages ! Aperçu des 14 murs légaux de graffiti à Taipei](https://newtalk.tw/news/view/2019-11-27/332344)
+[^6]: [Graffiti illégal : amende maximale de NT$6,000 ! Liste des 14 murs de graffiti légaux de Taipei](https://newtalk.tw/news/view/2019-11-27/332344) — Bureau de la protection de l'environnement de la ville de Taipei
 
-[^8]: Département de l’information et du tourisme du gouvernement de la ville de Taipei, [Quand monuments historiques et art postmoderne se mêlent : « Art You Wei Jin » vous emmène explorer le Taipei Cinema Park](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001)
+[^8]: [Fusion du patrimoine et de l'art postmoderne « Arts et voyages inachevés » vous emmène explorer le parc à thème cinématographique de Taipei](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Bureau de la communication touristique de la ville de Taipei
 
-[^9]: Hatsumimi, [Faire surgir l’intense saveur taïwanaise des plis : l’ami artiste de Hatsumimi, Horumon King](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/)
+[^9]: [Sortir le fort goût taïwanais des plis, l'ami artiste de Hatsumimi – Le Roi du Gros Intestin](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (初耳)

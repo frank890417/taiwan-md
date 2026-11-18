@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-27T22:12:16+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T19:40:10.263412+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Si l'on demande seulement « qui a régné sur Taïwan », l'histoire de Taïragne devient un simple tableau des successions de régimes : les Hollandais, les Espagnols, le clan Zheng, l'Empire Qing, l'Empire japonais et la République de Chine se succèdent. La perspective de l'histoire insulaire de Taïwan reformule la question : entre ces allées et venues de puissances, que s'est-il passé sur cette île ? Comment les habitants ont-ils migré, commercé, été gouvernés, résisté, aimé, subi des catastrophes, reconstruit, pour finalement transformer les institutions étrangères et les mémoires multiples en leur propre mode de vie ? En 1990, l'historien Tsao Yung-ho a proposé le concept d'« histoire insulaire de Taïwan » ; par la suite, chercheurs, musées, éducation et culture publique en ont fait une intuition quotidienne : l'identité ne provient pas seulement du sang ou de la patrie d'origine, mais aussi de l'expérience de vivre et de survivre ensemble sur une même île. [^1][^2]
@@ -166,9 +168,9 @@ C'est là que la perspective de l'histoire insulaire est la plus utile pour le l
 
 ## Sources des images
 
-- Image principale : Carte de Formose par les Hollandais en 1640, Wikimedia Commons, domaine public. Fichier original : [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- Carte de Taïwan de 1880 : Stanford's／Library of Congress, Wikimedia Commons, domaine public. Fichier original : [Map of Taiwan (Formosa) in 1880 (LOC)](https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg.
-- Extérieur du Musée national d'histoire de Taïwan : Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Fichier original : [Musée national d'histoire de Taïwan 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Image principale : Carte de Formose dessinée par les Hollandais en 1640, Wikimedia Commons, domaine public. Fichier original : [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- Carte de Taïwan en 1880 : Stanford's／Library of Congress, Wikimedia Commons, domaine public. Fichier original : [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Extérieur du Musée national d'histoire de Taïwan : Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Fichier original : [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## Références
 

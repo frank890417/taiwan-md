@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:49+08:00'
+translatedAt: '2026-11-18T19:44:47.577969+00:00'
 ---
 
 # Le commerce extérieur de Taïwan et la chaîne d'approvisionnement mondiale
@@ -286,7 +288,9 @@ La restructuration de la chaîne d'approvisionnement n'apporte pas que des risqu
 
 ## Lectures complémentaires
 
-- [PME taïwanaises et champions cachés](/fr/economy/taiwan-smes-and-hidden-champions)
-- [Agriculture de Taïwan et régénération rurale](/fr/economy/taiwan-agriculture-and-rural-revitalization)
+- [Spécial industrie de Taïwan](/industry/) — Dessiner la structure industrielle avec les statistiques officielles : 70 ans d'exportations et de PIB, parcs scientifiques, usines par comté/ville, top 10 de la capitalisation boursière au fil des ans, plus les arguments des six débats publics
+- [Carte des chaînes d'approvisionnement](/industry/supply-chain-map/) — Semi-conducteurs, serveurs IA, tungstène : trois chaînes, maillon par maillon, pour voir quelles entreprises sont à Taïwan et quels maillons dépendent de l'étranger
+- [PME et champions cachés de Taïwan](/fr/economy/taiwan-smes-and-hidden-champions)
+- [Agriculture et revitalisation rurale à Taïwan](/fr/economy/taiwan-agriculture-and-rural-revitalization)
 - [Écosystème des start-ups](/fr/economy/taiwan-startup-ecosystem-overview)
-- [Entreprises taïwanaises : Foxconn](/fr/economy/foxconn-precision-industry) — Implantation mondiale dans 24 pays, 900 000 employés, plus grand terrain d'expérimentation de la gouvernance transfrontalière de l'industrie manufacturière taïwanaise
+- [Entreprise taïwanaise : Foxconn](/fr/economy/foxconn-precision-industry) — Implantation mondiale dans 24 pays avec 900 000 employés, le plus grand terrain d'expérimentation de la gouvernance transfrontalière de l'industrie manufacturière taïwanaise

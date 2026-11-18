@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T17:23:48.358559+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-18T21:04:17.223278+00:00'
 ---
 
 **Aperçu en 30 secondes** : La Loi médicale ne régit pas les médecins individuellement (c'est la Loi sur les médecins de 1943), ni les prestations de l'assurance maladie (c'est la Loi sur l'assurance maladie nationale de 1994), mais **la manière dont les hôpitaux, cliniques et fondations médicales existent, font de la publicité et gèrent les litiges**. Promulguée en 1986 avec 91 articles, profondément révisée en 2004 pour atteindre 123 articles et introduire le régime des « fondations médicales », modifiée à l'article 82 en 2017 pour transformer la responsabilité pénale des médecins en « double condition », et en mai 2026 pour inscrire les ratios infirmiers-patients dans la loi. Pourtant, quarante ans plus tard, la réalité qui se dresse face à l'objectif inaugural de l'article 1 — « promouvoir le développement sain des activités médicales » — est la suivante : 83 % des hôpitaux et 74 % des lits sont privés, le taux de départ des médecins urgentistes est deux à trois fois supérieur à celui des États-Unis, et les infirmiers démissionnent en vague jusqu'au bord de l'effondrement avant que le Parlement n'inscrive enfin les ratios dans la loi.
@@ -343,30 +345,31 @@ Comment combler les lacunes médicales des zones reculées ? Le ministère de la
 
 Mais les lacunes non comblées se reflètent dans le taux de mortalité infantile. L'enquête de The Reporter en 2018 a révélé que Taitung, Pingtung et le sud de Hualien sont les trois zones de forte mortalité infantile de Taïwan[^60], l'insuffisance des ressources médicales se répercutant directement sur la population la plus vulnérable.
 
-## Quarante ans plus tard, la tension demeure non résolue
+## Une tension persistante après quarante ans
 
-La Loi sur les soins médicaux n'est pas une loi qui fonctionne isolément. Elle forme, avec cinq autres lois, le squelette de la gouvernance médicale de Taïwan :
+La Loi médicale ne fonctionne pas de manière isolée. Elle co-construit, avec cinq autres lois, l'ossature de la gouvernance sanitaire à Taïwan :
 
-- La **Loi sur les médecins** (1943) régit les médecins individuellement.
-- La **Loi sur les soins médicaux** (1986) régit les établissements de soins.
-- La **Loi sur l'assurance maladie nationale** (promulguée en 1994, entrée en vigueur en 1995) régit le paiement par l'assurance maladie.
-- La **Loi sur les droits du patient à l'autonomie** (adoptée en 2015, entrée en vigueur en 2019, première en Asie)[^61] renforce les articles 63 et 64 de la Loi sur les soins médicaux concernant le consentement du patient, en stipulant explicitement la primauté de ce consentement.
-- La **Loi sur la prévention des accidents médicaux et le traitement des différends** (adoptée en 2022, textes d'application entrés en vigueur en 2024)[^17] complète le mécanisme de médiation des différends médicaux — les déclarations faites lors de la communication bienveillante et de la médiation, ainsi que les signalements volontaires des établissements et les analyses de causes racines, **ne peuvent en aucun cas être utilisés comme preuves en justice ou bases de jugement**.
-- La **Loi sur la médecine régénérative + Règlement sur les produits de médecine régénérative** (adoptées en 2024), lois spéciales issues de la Loi sur les soins médicaux, régissent les thérapies cellulaires et géniques[^62].
+- La **Loi sur les médecins** (1943) régit les médecins en tant qu'individus.
+- La **Loi médicale** (1986) régit les établissements de santé.
+- La **Loi sur l'assurance maladie universelle** (promulguée en 1994, entrée en vigueur en 1995) régit le système de remboursement de l'assurance maladie.
+- La **Loi sur les droits à l'autodétermination des patients** (adoptée en 2015, entrée en vigueur en 2019, la première en Asie)[^61] vient renforcer les dispositions des articles 63 et 64 de la Loi médicale concernant le consentement du patient, en stipulant explicitement la primauté du consentement de ce dernier.
+- La **Loi sur la prévention des accidents médicaux et le traitement des différends** (adoptée en 2022, les textes d'application entrant en vigueur en 2024)[^17] complète le dispositif par un mécanisme de médiation des litiges médicaux — la communication, l'empathie, les déclarations lors du processus de médiation, ainsi que les signalements volontaires des établissements et les analyses de causes profondes pour l'amélioration des soins, **ne peuvent en aucun cas être utilisés comme preuves dans un procès ou comme base de jugement**.
+- La **Loi sur la médecine régénérative + le Règlement sur les produits de médecine régénérative** (adoptés en 2024) sont des lois spéciales s'étant détachées de la Loi médicale pour régir les thérapies cellulaires et géniques[^62].
 
-Ces six lois composent le panorama de la gouvernance médicale taïwanaise ; la Loi sur les soins médicaux en est le pilier « côté établissements ». Mais chaque nouvelle loi est venue combler une lacune de la Loi sur les soins médicaux elle-même : la Loi sur les médecins ne régit pas les établissements, la Loi sur les soins médicaux ne régit pas le paiement par l'assurance maladie, ne régit pas les directives anticipées, ne régit pas les cellules régénératives, ne régit pas la médiation des différends. Chaque lacune a été la porte d'entrée d'une nouvelle loi.
+Ces six lois composent le panorama de la gouvernance sanitaire taïwanaise, la Loi médicale en étant le pilier du « volet institutionnel ». Cependant, chaque nouvelle loi est créée pour combler une lacune de la Loi médicale elle-même : la Loi sur les médecins ne peut régir les établissements, la Loi médicale ne régit pas les remboursements de l'assurance maladie, elle ne régit pas les décisions médicales anticipées des individus, ni les cellules régénératrices, ni la médiation des litiges. Chaque lacune devient le point d'entrée d'une nouvelle loi.
 
-> **✦** La Loi sur les soins médicaux proclame « promouvoir le développement sain des activités médicales ». Quarante ans plus tard, les hôpitaux sont plus nombreux, la technologie plus avancée, la couverture plus étendue, mais les infirmiers démissionnent en vague, le taux de départ des médecins urgentistes dépasse le double de la moyenne internationale, les hôpitaux privés représentent 83 % du secteur, les hôpitaux publics survivent grâce aux subventions, 79 % des différends médicaux sont pénalisés, et dans les zones reculées, chaque médecin dessert encore dix mille personnes. Les mots de la loi ne sont pas faux, l'épuisement du terrain non plus. La question qui reste : pour le second quarantenaire, comment la Loi sur les soins médicaux raccourcira-t-elle la distance entre ces deux réalités.
+> **✦** La Loi médicale stipule « la promotion du développement sain de l'industrie médicale ». En quarante ans, le nombre d'hôpitaux a augmenté, les technologies se sont perfectionnées et la couverture s'est étendue ; pourtant, on observe une vague de démissions chez les infirmiers, un taux de départ des médecins urgentistes deux fois supérieur à la moyenne internationale, une expansion des hôpitaux privés à 83 %, des hôpitaux publics dépendant des subventions, une proportion de 79 % de litiges médicaux faisant l'objet de poursuites pénales, et dans les zones rurales, chaque médecin doit encore servir 10 000 personnes. Les mots de la loi sont justes, mais l'épuisement sur le terrain est tout aussi réel. La question qui demeure est la suivante : pour les quarante prochaines années, comment la Loi médicale pourra-t-elle réduire cet écart ?
 
-Le 8 mai 2026 à l'aube, le Yuan législatif a adopté le ratio infirmier-patient sur trois équipes. Les mots de Tsai Kuang-chao, de Lo Hsiang-yun, de Hsueh Cheng-chun — résonnent encore dans les couloirs de chaque service d'urgence de Taïwan. Personne ne peut inscrire dans la loi quand aura lieu la prochaine révision, ni quel article elle concernera. Mais les infirmiers, les médecins urgentistes, les médecins résidents des cinq grandes spécialités continuent d'exprimer leur position par le « refus de venir » et la « démission ».
+Dans la nuit du 8 mai 2026, le Yuan législatif a adopté le ratio infirmiers-patients sur trois équipes. Les paroles de Tsai Kuang-chao, de Lo Hsiang-yun ou de Hsueh Cheng-chun résonnent encore dans les couloirs de chaque service d'urgence à Taïwan. Personne ne peut inscrire dans la loi quand aura lieu la prochaine révision ni quel article sera modifié. Pourtant, les infirmiers, les urgentistes et les internes des cinq grandes spécialités continuent d'exprimer leur position par le biais de « l'absence » ou de la « démission ».
 
-Les mots écrits dans la loi seront lus par les lecteurs. Ceux qui n'y sont pas, ce sont les patients entassés contre les murs et dans les couloirs des hôpitaux qui les enregistrent à leur place.
+Les mots écrits dans la loi sont lus par les lecteurs. Les mots non écrits sont consignés par les murs des hôpitaux et par les patients qui encombrent les couloirs.
 
-**Lectures complémentaires** :
+**Lecture complémentaire** :
 
-- [Taïwan et l'assurance maladie nationale](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance) — La couverture et la structure de paiement mondialement reconnues du système d'assurance maladie, le partenaire « côté financement » de la mise en œuvre de la Loi sur les soins médicaux
-- [Les deux lois taïwanaises sur la médecine régénérative : genèse et témoignage de praticiens](/fr/society/taiwan-regenerative-medicine-laws) — Les deux lois sur la médecine régénérative adoptées en 2024, issues de la Loi sur les soins médicaux comme lois spéciales, comblent la régulation des thérapies cellulaires
-- [Le système taïwanais de médecine de catastrophe](/fr/technology/taiwan-disaster-medicine-system) — L'application concrète de l'article 1 de la Loi sur les soins médicaux « répartition raisonnable des ressources médicales » dans les scénarios de grande catastrophe
+- [La médecine à Taïwan et l'assurance maladie universelle](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance) — La couverture et la structure de paiement du système d'assurance maladie, mondialement reconnues, sont le partenaire du « volet remboursement » mis en œuvre par la Loi médicale.
+- [Évolution des deux lois sur la médecine régénérative à Taïwan : témoignage de professionnels](/fr/society/taiwan-regenerative-medicine-laws) — Les deux lois adoptées en 2024 sont des lois spéciales issues de la Loi médicale, comblant le vide réglementaire sur les thérapies cellulaires.
+- [Le système médical de gestion des catastrophes à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — L'application concrète de l'article 1 de la Loi médicale sur la « distribution raisonnable des ressources médicales » lors de catastrophes majeures.
+- [Dossier spécial : Médecine et soins de longue durée](/health/) — Des graphiques illustrant les recettes/dépenses de l'assurance maladie, l'attente aux urgences, les effectifs infirmiers et le nombre de médecins par comté, ainsi que les arguments des différentes parties concernant l'inscription du ratio infirmiers-patients dans la loi.
 
 ## Sources des images
 
