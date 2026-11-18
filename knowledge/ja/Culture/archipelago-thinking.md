@@ -2,9 +2,7 @@
 title: '群島思考：台湾をマレー世界の地図に戻す'
 description: '台湾は中華世界の辺境にある孤島だけではありません。マレー世界の北東端であり、オーストロネシア語族の原郷であり、太平洋への拡散の起点でもあります。地図を南へ 30 度回転させると、完全に成立していながら見落とされてきた、もう一つの座標系が見えてきます。'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '文化地理'
 tags:
   [
     '群島',
@@ -14,31 +12,37 @@ tags:
     '先住民族',
     '文化地理',
   ]
+subcategory: '文化地理'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: true
-translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '0c0b1668'
-sourceContentHash: 'sha256:69f8f034dcafc5a6'
-sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
-translatedAt: '2026-05-17T05:06:52+08:00'
+researchReport: 'reports/research/2026-05/群島思維.md'
 image: '/article-images/culture/austronesian-migration-map.webp'
 imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).svg'
+viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/群島思維.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:da7a8eb43a26882e'
+sourceBodyHash: 'sha256:3ca31f4ebc8ab851'
+translatedAt: '2026-11-18T19:21:02.950889+00:00'
 ---
 
-> **30 秒概観：** 台湾の地図を広げると、多くの人が目にするのは中国大陸の縁にある小さな島です。しかし地図を時計回りに 30 度回転させ、さらに南へ視線を延ばすと、同じように成立するもう一枚の地図が見えてきます。台湾は同時に、マレー世界（Nusantara）の北東端であり、4 億人のオーストロネシア語族の言語的原郷であり、太平洋拡散史の起点でもあります。花蓮・豊田で採れた一つの玦形玉器は、3500 年前にはすでにフィリピンのバタン島、ルソン、ベトナム、タイの考古遺跡に現れていました。言語学者 Robert Blust は語彙の多様性から、オーストロネシア語族の十大支系のうち九つが台湾にあると推定しました。蘭嶼のタオ人の言葉は、バタン諸島の Ivatan 人の言葉と六割ほど通じます。この記事が試みるのは、見落とされてきたもう一枚の地図を補い戻し、二枚の地図をあわせて本当の台湾を見ることです。
+> **30秒の概要：** 台湾の地図を広げたとき、多くの人が目にするのは中国大陸の縁にある小さな島です。しかし、地図を時計回りに30度回転させ、さらに南へと視線を延ばしてみると、もう一枚の、同様に成立する地図が見えてきます。台湾は同時に、マレー世界（Nusantara）の北東端であり、4億人のオーストロネシア語族の言語の原郷であり、太平洋への拡散史の起点でもあります。3500年前、花蓮の豊田で採掘された一つの玉玦（ぎょくけつ／環状の玉器）は、すでにフィリピンのバタン島、ルソン島、ベトナム、タイの考古学遺跡に出現していました。言語学者の Robert Blust（ロバート・ブラスト／Robert Blust）は、語彙の多様性から、オーストロネシア語族の10の主要な系統のうち9つが台湾に存在することを推論しました。蘭嶼（らんしょ／Lanyu）のタガロ（達悟）族が話す言葉は、バタン島のイバタン（Ivatan）人が話す言葉と6割ほど通じ合っています。この記事が試みているのは、見落とされてきたもう一枚の地図を補完し、二つの地図を合わせて真の台湾を見つめることです。
 
-Google マップを開き、台湾を南へ 30 度回転させてみてください。バシー海峡を下に向け、中央山脈の稜線がルソン島北端を指すようにし、花蓮の太魯閣とフィリピンのバタン諸島が一直線に並ぶようにします。
+Googleマップを開き、台湾を南へ30度回転させてみてください。バッソ海峡を下向きにし、中央山脈の稜線がルソン島の北端を指すようにし、花蓮のタロコ（太魯閣）とフィリピンのバタン諸島が一列に並ぶようにします。
 
-そのとき見えてくるのは、中国大陸東縁に寄り添う小島ではなく、連なる島嶼鎖の最北端にある一つの島です。南へは、蘭嶼、バタン、ルソン、パラワン、ボルネオ、ジャワ、スマトラを経て、マダガスカルまで続きます。東へは、琉球、九州、千島列島へ。南東へは、ミクロネシア、ポリネシア、最遠ではイースター島へ。この方位から眺めると、台湾は地球の半分にまたがる島嶼世界の一つの端点であり、どの大陸の辺境でもありません。
+このとき目に飛び込んでくるのは、中国大陸の東縁に寄り添う小さな島ではなく、一連の島嶼チェーンの最北端にある一つの島です。南へ向かえば、蘭嶼、バタン、ルソン、パラワン、ボルネオ、ジャワ、スマトラを経てマダガスカルへと続き、東へ向かえば琉球、九州、千島列島があり、南東へ向かえばミクロネシア、ポリネシア、そして遠くはイースター島へと至ります。この方位から眺めれば、台湾は地球の半周にわたる島嶼世界の端点の一つであり、いかなる大陸の辺境でもありません。
 
-3500 年前、花蓮・豊田で採れた台湾ネフライトは、卑南文化の工匠によって玦形の耳飾りへと切削・研磨され、黒潮支流に沿って南下し、やがてルソン島北端のある集落にたどり着き、最終的に 21 世紀の考古学者が「Nagsabaran」と名づけた遺跡から出土しました[^1]。同じ玉材は、ベトナム、タイ、マレー半島の先史時代の墓葬からも相次いで掘り出されています。考古学者は同位体分析を行い、これらの玉材が同じ鉱脈、すなわち花蓮・豊田に由来すると断定しました。
+3500年前、花蓮の豊田で採掘された一つの台湾閃玉（せんぎょく）が、卑南文化の工匠によって玦状の耳飾りへと磨き上げられ、黒潮の支流に乗って南下しました。それはルソン島北端のある集落に辿り着き、最終的には21世紀の考古学者が「Nagsabaran」と命名した遺跡から発見されました[^1]。同様の玉材は、ベトナム、タイ、マレー半島の先史時代の墓葬からも次々と発掘されています。考古学者が同位素分析を行った結果、これらの玉材はすべて同じ鉱脈、すなわち花蓮の豊田に由来すると断定されました。
 
-言い換えれば、中華という枠組みがこの島に到達する 2000 年前から、この島はすでに南シナ海を横断する交易網の中心だったのです。
+言い換えれば、中華圏の枠組みがこの島に到達する2000年も前から、この島はすでに南シナ海を横断する貿易網の中心となっていたのです。
 
-これは台湾の中華的淵源を否定するためではありません。1683 年の清朝統治以降、漢人移民が形づくった言語、宗族、信仰、食文化は、確かにこの島の現代を支える最も厚い基層です。しかしその基層の下には、さらに早い時代の別の層があります。長らく中華の枠組みに覆い隠されてきたもう一枚の地図、すなわち **Nusantara の地図、群島の地図**を、この記事では補い戻そうとします。
+これは台湾の中華的な淵源を否定するものではありません。1683年の清朝統治以降、漢人移民によって形作られた言語、宗族、信仰、食文化は、確かにこの島の現代における最も厚い基層です。しかし、その基層の下には、さらに古い別の層がいくつも存在しています。長らく中華的な枠組みによって覆い隠されてきたもう一枚の地図、すなわち**Nusantara（ヌサンタラ）の地図、群島の地図**を、この記事では補完しようと試みています。
 
 ## 一つの玉器の旅：花蓮からルソンへ
 
@@ -90,19 +94,19 @@ Blust だけがこのように主張しているわけではありません。�
 >
 > この論争が示しているのは、定説そのものの崩壊というより、先史研究の方法論的限界です。Richards の修正を受け入れたとしても、「オーストロネシア語が台湾から分岐した」という言語学的結論は揺らいでいません。本当に開かれた問題は、「人も言語とともに移動したのか」という点です。
 
-## Nusantara：14 世紀の言葉、一枚の群島地図
+## Nusantara：14世紀の言葉、群島の地図
 
-「群島思考」を理解するには、まず一つの言葉を理解する必要があります。**Nusantara** です。
+「群島的な思考」を理解するには、まず一つの言葉を理解する必要があります。それが **Nusantara** です。
 
-この語は二つの語根から成っています。**Nusa** は古ジャワ語に由来し、「島」を意味します。さらに遡れば、祖マレー・ポリネシア語の \*nusa に由来します。これはオーストロネシア語族の祖先の言葉です。つまり、台湾先住民族語に同源の「島」という概念が、あらゆるオーストロネシア語の中に生きているということです。**Antara** はサンスクリットからの借用語で、「間」「媒介」を意味します。合わせると、Nusantara = **「間にある島々」「内と外の間に散在する群島」**となります[^13]。
+この言葉は二つの語根から構成されています。**Nusa** は古ジャワ語に由来し、「島」を意味します。さらに遡ると、原マポ語の \*nusa に辿り着きます。これはオーストロネシア語族の祖先が用いた言葉であり、つまり台湾の原住民言語における「島」という概念も、あらゆるオーストロネシア諸語の中に生き続けているということです。**Antara** はサンスクリット語からの借用語で、「間」や「媒介」を意味します。これらを合わせると、Nusantara ＝ **「間の島々」、「内外の間に散在する群島」**[^13] となります。
 
-この語が最初に現れるのは、14 世紀ジャワの古文献『Pararaton』と『Nagarakretagama』です。1336 年、東ジャワの **Majapahit 帝国**の宰相 **Gajah Mada** は即位儀式で有名な「**Palapa の誓い**」（Sumpah Palapa）を述べました。「Nusantara 全土を征服するまでは、香辛料を含む食物を口にしない」という誓いです[^14]。
+この言葉が最初に登場するのは、14世紀ジャワの古文献である《Pararaton》および《Nagarakretagama》です。1336年、東ジャワの **マジャパヒト王国（Majapahit）** の宰相 **ガジャ・マダ（Gajah Mada）** は、戴冠式において有名な「**パラパの誓い**」（Sumpah Palapa）を表明しました。「Nusantara 全体を征服するまで、私は香辛料を用いた食事を摂らない」[^14]。
 
-当時の Nusantara が指していたのは、**ジャワ以外の外縁の島々**、すなわちスマトラ、ボルネオ、スラウェシ、マレー半島、さらには遠くルソンまでを含む領域でした。現代インドネシアでも、この語は群島そのものの呼称として用いられています。2022 年、インドネシアは遷都を発表し、新首都の名を **Nusantara** としました[^15]。
+当時の Nusantara が指していたのは、**ジャワ以外の周辺諸島**、すなわちスマトラ、ボルネオ、スラウェシ、マレー半島、さらには遠くルソンまでを含んでいました。現代のインドネシアにおいても、この言葉は群島そのものの呼称として使われています。2022年にインドネシアが遷都を発表した際、新首都の名前も **Nusantara** と名付けられました[^15]。
 
-ただし、この記事における Nusantara の用法は、インドネシア民族主義者の領土的想像とは異なります。ここで借用するのは、この語が**近代国民国家に先立って持っていた文化地理的な意味**です。南シナ海と西太平洋を横断し、24,000 を超える島々から成る世界。そこでは、島と島のあいだを行き交う人、物、言語、信仰が、陸地と島のあいだよりも頻繁に流通していました。
+しかし、本稿における Nusantara の用法は、インドネシアのナショナリストたちが抱く領土的想像とは異なります。私たちが借用しているのは、この言葉が持つ**近代的な民族国家が成立する以前の、文化地理学的な意味合い**です。それは、南シナ海と西太平洋にまたがる24,000以上の島々で構成された世界であり、島と島の間における人、物、言語、信仰の流動は、陸地と島の間よりも頻繁に行われていたのです。
 
-この地図を広げると、台湾の位置は辺境ではなく、**北東端**にあります。
+この地図を広げてみると、台湾の位置は辺境ではなく、**北東端**に位置していることがわかります。
 
 ## 蘭嶼の生きた証言：60% 通じる二つの民族
 
@@ -240,56 +244,56 @@ Blust だけがこのように主張しているわけではありません。�
 
 ![ラピタ文化の歯形押印土器片。フィジーの Bourewa 遺跡から出土しました。ラピタ土器の文様技術はルソン北部にまで遡ることができ、そのルソンの根はさらに台湾の大坌坑文化の縄文赤色土器を指しています。これは「オーストロネシア語族が台湾から出た」ことを示す最も完全な物質的連鎖です。](/article-images/culture/lapita-potsherd.webp)
 
-## 参考資料
+## 参考文献
 
-[^1]: [台湾史前文化的奧祕：跨越千年傳播萬里的台灣玉](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — 科技部「科技大観園」の特集記事。花蓮・豊田玉がどのように海上交易を通じてルソン、パラワン、ベトナム、カンボジア、タイの先史遺跡へ流通したかを記録しています。
+[^1]: [台湾史前文化の神秘：千年を越え万里を伝播した台湾玉](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — 科技部「科技大観園」の特集記事。花蓮県豊田の玉が、海上貿易を通じてルソン島、パラワン島、ベトナム、カンボジア、タイの史前遺跡へと流通した過程を記録しています。
 
-[^2]: [卑南遺址](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipedia の卑南遺跡項目。1980 年の南廻線工事で偶然発見された先史集落で、年代は今から 5300-2300 年前です。
+[^2]: [卑南遺跡](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipediaの「卑南遺跡」の項目。1980年の南回鉄路建設工事中に偶然発見された史前集落について記されており、年代は今から5300〜2300年前のものです。
 
-[^3]: [卑南遺址展示新亮點：「臺灣玉的海上貿易往來」啟航登場](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — 文化部の 2024 年プレスリリース。卑南遺跡公園の新展示ユニット「台湾玉の海上交易往来」の開始を発表しています。
+[^3]: [卑南遺跡の展示が新展開：「台湾玉の海上貿易」が始動](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — 文化部による2024年のプレスリリース。卑南遺跡公園における新しい展示ユニット「台湾玉の海上貿易」の開始を発表しています。
 
-[^4]: [出口至海外的「臺灣玉」](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — 科技大観園の特集記事。花蓮・支亜干（Cigan）遺跡から出土した先史玉器工房群と制作技術を詳述しています。
+[^4]: [海外へ輸出された「台湾玉」](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — 科技大観園の特集記事。花蓮県の支亜干（Cigan）遺跡から出土した史前玉器工房群と、その製作技術について詳述しています。
 
-[^5]: Bellwood, Peter, & Dizon, Eusebio. (2005). [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33). _Journal of Austronesian Studies_, 1(1), 1-33. — 2002-2005 年にオーストラリア国立大学、フィリピン国立博物館、フィリピン大学が共同で実施した考古計画の成果です。
+[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — 2002年から2005年にかけて、オーストラリア国立大学、フィリピン国立博物館、フィリピン大学が協力して実施した考古学プロジェクトの成果です。
 
-[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — ラピタ土器とルソンの Nagsabaran 遺跡土器の高い類似性は、「台湾外進出説」の物質文化的証拠の一つです。
+[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — ラピタ土器とルソン島Nagsabaran遺跡の土器との高い類似性は、「台湾出発説」を裏付ける物質文化の証拠の一つです。
 
-[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Britannica によるラピタ文化（紀元前 1600 年から前 500 年）の拡散経路に関する総合項目です。
+[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Britannicaによる、ラピタ文化（紀元前1600年〜紀元前500年）の拡散経路に関する総合的な項目です。
 
-[^8]: Blust, Robert. (1984). [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content). _Asian Perspectives_, 26(1), 45-67. — Blust がオーストロネシア語族の「台湾外進出仮説」の言語学的基礎を築いた先駆的論文です。
+[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Blustがオーストロネシア語族の「台湾出発説」の言語学的基礎を築いた画期的な論文です。
 
-[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Taiwan Insight の 2022 年インタビュー。Blust が、オーストロネシア語族の十大支系のうち九つが台湾にあるという論証の論理を自ら説明しています。
+[^9]: [ロバート・ブラスト教授へのインタビュー：「オーストロネシア人の台湾からの拡大は、人類史上最も偉大な章の一つである」](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Taiwan Insightによる2022年のインタビュー。ブラスト氏が、オーストロネシア語族の10の主要系統のうち9つが台湾に存在するという論証ロジックを自ら説明しています。
 
-[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Bellwood が考古物質文化の観点から「台湾外進出説」を体系的に論じた代表的著作です。
+[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Bellwoodが考古学的な物質文化の観点から「台湾出発説」を体系的に論じた代表的な著作です。
 
-[^11]: Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/). _Science_, 323(5913), 479-483. — ベイズ系統発生法で 400 種のオーストロネシア語を分析し、台湾からの拡散時期を約 5230 年前と測定した研究です。
+[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — ベイズ系統発生法を用いて400のオーストロネシア語を分析し、台湾からの拡散時期が約5230年前であることを測定しました。
 
-[^12]: [植物 DNA 竟記載著歷史！構樹說的南島語族遷徙史](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — 中央研究院「研之有物」のインタビュー。鍾国芳チームがカジノキ DNA を用い、生物地理学の観点から「台湾外進出説」を支持した研究を紹介しています。
+[^12]: [植物のDNAに歴史が刻まれている！構樹が語るオーストロネシア語族の遷徙史](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — 中央研究院「研之有物」によるインタビュー。鍾国芳チームが、構樹（クワ）のDNAに基づき、生物地理学的な観点から「台湾出発説」を支持する研究を紹介しています。
 
-[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Nusantara の語源に関する詳細な考証。古ジャワ語 _nusa_（島）+ サンスクリット借用語 _antara_（間）。
+[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Nusantaraの語源に関する詳細な考証：古ジャワ語の _nusa_（島）＋ サンスクリット語借用語の _antara_（間）。
 
-[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — 14 世紀東ジャワの Majapahit 帝国に関する項目。1336 年の Gajah Mada「Palapa の誓い」の歴史的背景を含みます。
+[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — 14世紀東ジャワのマジャパヒト帝国に関する項目。1336年のガジャ・マダによる「パラパの誓い」の歴史的背景を含みます。
 
-[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — インドネシア国営通信 Antara による報道。Nusantara という語が 14 世紀の領土概念から 2022 年の新首都名へと変化してきた過程を扱っています。
+[^15]: [Nusantaraとその意味の変遷](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — インドネシア国営通信社Antaraによる報道。Nusantaraという言葉が、14世紀の領土概念から2022年の新首都の名称へと進化してきた過程を伝えています。
 
-[^16]: [達悟族 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Wikipedia のタオ族項目。タオ語と北バタン島住民の言語の語彙類似度が約 60% であることを記録しています。
+[^16]: [タガロア族（Yami） - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Wikipediaのタガロア族（達悟族）の項目。タガロア語と北バタン島の住民の言語との語彙の類似性が約60%であることを記録しています。
 
-[^17]: [蘭嶼與巴丹島的故事](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — 原住民族文献会の特集。蘭嶼の考古出土品である玉器、陶壺、ガラス玉と、同時期のバタン遺跡の物質文化との対応を記録しています。
+[^17]: [蘭嶼とバタン島の物語](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — 原住民族文献会の特集。蘭嶼（ランユ）の考古学的出土品である玉器、陶器、ガラスビーズと、同時期のバタン島の遺跡における物質文化との対応を記録しています。
 
-[^18]: [達悟族祖先千年前葬身菲律賓，後裔赴巴丹島追尋足跡](https://www.thenewslens.com/article/121265) — The News Lens による、1990 年代以降タオ人が何度もバタンへルーツ探しに向かった活動の報道です。
+[^18]: [タガロア族の祖先は千年前にフィリピンに渡った。子孫たちはバタン島へ足跡を辿る](https://www.thenewslens.com/article/121265) — 關鍵評論網による報道。1990年代以降、タガロアの人々がルーツを探るために何度もグループでバタン島を訪れている活動について伝えています。
 
-[^19]: [南島民族 - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — オーストロネシア民族の項目。タオ語はマレー・ポリネシア語派（Malayo-Polynesian）に属し、台湾本島の Formosan 九支系とは比較的遠い関係にあります。
+[^19]: [オーストロネシア民族 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — オーストロネシア語族の項目。タガロア語はマレー・ポリネシア語族に属しており、台湾本島のフォルモサ諸語（Formosan）の9系統とは関係が遠いものです。
 
-[^20]: [Hermeneutics of Nusantara 群島詮釋學](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — 『数位荒原』（No Man's Land, NML）第 34 期特集（2017 年 9 月）。鄭文琦が「群島データベース」計画を正式に始動した編集室手記です。
+[^20]: [Hermeneutics of Nusantara 群島解釈学](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — デジタル荒野（No Man's Land, NML）第34号特集（2017年9月）。鄭文琦が「群島データベース」計画を正式に始動させた際の編集後記です。
 
-[^21]: 鄭文琦「Hermeneutics of Nusantara 編輯室手記」『数位荒原』第 34 期、2017 年 9 月。[No Man's Land 第 34 期完整文檔](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/)を参照。
+[^21]: [No Man's Land 第34号の完全なドキュメント](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — 鄭文琦、「Hermeneutics of Nusantara 編集後記」、『デジタル荒野』第34号、2017年9月を参照。
 
-[^22]: 魏月萍「沖繩經驗—知識份子與民眾的關係」。鄭文琦が「Hermeneutics of Nusantara 編輯室手記」『数位荒原』第 34 期で引用。
+[^22]: 魏月萍、「沖縄の経験―知識人と民衆の関係」、鄭文琦が「Hermeneutics of Nusantara 編集後記」の中で引用、『デジタル荒野』第34号。
 
-[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — ベネディクト・アンダーソンの自伝。「比較を言説戦略として捉える」という方法論的主張を提示し、鄭文琦が NML 第 34 期で引用しています。
+[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — ベネディクト・アンダーソンによる自伝。「比較を言説戦略として用いる」という方法論的主張を展開しており、鄭文琦がNML第34号で引用しています。
 
-[^24]: [台灣的南島民族外交](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — 国立東華大学原住民族国際事務センターによる、台湾が 1993 年以降、太平洋諸島フォーラム（PIF）に参加してきた経緯の紹介です。
+[^24]: [台湾のオーストロネシア民族外交](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — 国立東華大学原住民族国際事務センターによる紹介。1993年から台湾が太平洋諸島フォーラム（PIF）に参加してきた経緯について述べています。
 
-[^25]: 中華民国外交部、[「運用總合外交理念結合南島語系國家，以發揮價值外交願景之規劃與策略」專題報告](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf)、立法院第 11 届第 3 会期外交及国防委員会、2025 年 5 月 7 日。
+[^25]: [「総合的外交理念を活用してオーストロネシア語圏諸国と結びつき、価値ある外交ビジョンを発揮するための計画と戦略」特集報告](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — 中華民国外交部、、立法院第11届第3会期 外交及国防委員会、2025年5月7日。
 
-[^26]: [國立臺灣史前文化博物館回歸！從策展觀點重新梳理建築物件](https://www.wowlavie.com/article/ae2300565) — La Vie 誌の 2023 年報道。史前博物館康楽本館が建築再生を終え、5 月に再開館したことを伝えています。
+[^26]: [国立台湾史前文化博物館が復活！キュレーションの視点から建築物件を再整理](https://www.wowlavie.com/article/ae2300565) — La Vie誌による2023年の報道。史前博物館の康樂本館が建築のリノベーションを完了し、5月に再び一般公開されたことを伝えています。

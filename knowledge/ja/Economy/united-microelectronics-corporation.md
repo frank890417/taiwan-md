@@ -2,19 +2,21 @@
 title: '聯華電子（UMC）- 台湾ウェハーファウンドリの開拓者'
 description: '台湾初のウェハーファウンドリとして、半世紀にわたり台湾半導体産業がゼロから築かれた奇跡の歩みを見届け、推進してきました'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags: ['経済', '企業', '半導体', 'ウェハーファウンドリ', 'テクノロジー']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-05-16T22:19:52+00:00'
+translatedAt: '2026-11-18T19:49:01.623581+00:00'
 ---
 
 > **30秒概要**
@@ -144,12 +146,12 @@ TSMCの光に包まれる中で、UMCは異なる道を選びました。成熟�
 
 ## 参考資料
 
-[^1]: [聯華電子公式沿革](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMCは1980年5月22日に工業技術研究院電子工業研究所からスピンオフして設立されました。Wikipedia（中国語・英語）およびUMC公式情報もこの日付を確認しています
+[^1]: [UMC公式年表](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMCは1980年5月22日に工業技術研究院電子研究所からスピンオフして設立されました。ウィキペディア（中文版・英文版）およびUMC公式でもこの日付が確認されています。
 
-[^2]: [Wikipedia — 聯華電子](https://zh.wikipedia.org/wiki/聯華電子) — 1985年、UMCは華人世界で初めて株式上場した半導体企業となりました
+[^2]: [ウィキペディア — 聯華電子](https://zh.wikipedia.org/wiki/聯華電子) — 1985年、UMCは華人世界で初めて株式上場した半導体企業となりました。
 
-[^3]: [TrendForce — 世界ウェハーファウンドリ市場分析2024](https://www.trendforce.com/) — UMCの世界ウェハーファウンドリ市場シェアは約7.4%で世界第3位です。TSMCは62%、Samsungは18%です
+[^3]: [TrendForce — 世界ウェーハ受託製造市場分析2024](https://www.trendforce.com/) — UMCの世界ウェーハ受託製造市場シェアは約7.4%で世界第3位。TSMC 62%、サムスン 18%。
 
-[^4]: [聯華電子公式サイト — 投資家情報](https://www.umc.com/zh-TW/IR/ir_overview) — UMCの2025年売上高は2,376億ニュー台湾ドル、粗利益率は29.0%、1株当たり利益は3.34元です
+[^4]: [UMC公式サイト — 投資家向け情報](https://www.umc.com/zh-TW/IR/ir_overview) — UMCの2025年売上高はNT$2,376億、粗利率29.0%、1株当たり利益NT$3.34。
 
-[^5]: [聯華電子 ESGサステナビリティ報告](https://www.umc.com/) — UMCは2022年に「UMC 2030」戦略を打ち出し、2030年までにカーボンニュートラル目標を達成すると約束しています
+[^5]: [UMC ESGサステナビリティレポート](https://www.umc.com/) — UMCは2022年に「UMC 2030」戦略を発表し、2030年までにカーボンニュートラル達成を約束しました。

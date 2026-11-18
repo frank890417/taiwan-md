@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:38+08:00'
+translatedAt: '2026-11-18T19:44:12.070274+00:00'
 ---
 
 # 台湾の外貿とグローバルサプライチェーン
@@ -286,7 +288,9 @@ ECFA早期収穫リストで複数品目の関税を引き下げ、台湾の対�
 
 ## 延伸閱讀
 
-- [台湾中小企業と隠れたチャンピオン](/ja/economy/taiwan-smes-and-hidden-champions)
-- [台湾農業と農村再生](/ja/economy/taiwan-agriculture-and-rural-revitalization)
+- [台湾産業特集](/industry/) — 公式統計に基づき産業構造を可視化：輸出とGDPの70年、科学園区（サイエンスパーク）、各市・県の工場、歴代時価総額トップ10、および6つの公共論争に関する各方面の見解
+- [サプライチェーン・マップ](/industry/supply-chain-map/) — 半導体、AIサーバー、タングステンの3つのチェーン。どの企業が台湾にあり、どの工程を海外に依存しているかを詳細に解説
+- [台湾の中小企業と隠れたチャンピオン（インビジブル・チャンピオン）](/ja/economy/taiwan-smes-and-hidden-champions)
+- [台湾の農業と農村再生](/ja/economy/taiwan-agriculture-and-rural-revitalization)
 - [スタートアップ・エコシステム](/ja/economy/taiwan-startup-ecosystem-overview)
-- [台湾企業：鴻海精密](/ja/economy/foxconn-precision-industry) — 24カ国 90万人のグローバル布局、台湾製造業の越境ガバナンス最大の実験場
+- [台湾企業：鴻海精密工業（ホンハイ／フォックスコン）](/ja/economy/foxconn-precision-industry) — 24カ国、90万人のグローバル展開。台湾製造業におけるクロスボーダー・ガバナンスの最大規模の実験場

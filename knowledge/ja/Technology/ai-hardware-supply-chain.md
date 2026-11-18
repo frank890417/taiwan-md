@@ -27,11 +27,13 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:de7f4ddf0c4e6168'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:8e26b4c15a1d169a'
 sourceBodyHash: 'sha256:fb0ee951dd4978bf'
-translatedAt: '2026-11-02T05:44:54+08:00'
+translatedAt: '2026-11-18T19:38:47.734608+00:00'
 ---
 
 # AI ハードウェアサプライチェーン：台湾がクラウドを機械に変える場所
@@ -176,15 +178,17 @@ AI ハードウェアサプライチェーンが台湾にもたらしたのは�
 
 これが台湾が今、最も明確に、かつ最も見極める必要がある位置の一つです。
 
-## 延伸閱讀
+## 関連記事
 
-- [台湾外貿とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 輸出志向・三角貿易から米中サプライチェーン再編までのマクロ背景。
-- [NVIDIA の台湾における展開](/ja/technology/nvidia-in-taiwan) — NVIDIA がいかにチップ製造・封装・サーバー組み立てを台湾に深く委ねているか。
-- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — RCA 技術移転・TSMC 受託製造から材料・封装戦場までの長期背景。
-- [Computex](/ja/technology/computex) — なぜ台北国際コンピュータ見本市が AI 時代にグローバルハードウェア供給側の巡礼地となったか。
-- [台湾の電力と半導体](/ja/technology/taiwan-electricity-and-semiconductors) — AI サプライチェーン裏側の電力請求書・グリーン電力圧力・エネルギー安全。
-- [半導体用水と台湾水資源](/ja/technology/semiconductor-water-use-and-taiwan-water-resources) — ウエハー工場がいかに貯水池・旱災・再生水・地方ガバナンスへ接続されているか。
-- [AI サプライチェーン海外進出](/ja/technology/ai-supply-chain-overseas-manufacturing) — TSMC・鴻海・緯創から台達まで、台湾サプライチェーンがいかに世界に招かれて出て行ったか。
+- [サプライチェーン・マップ](/industry/supply-chain-map/) — 半導体、AIサーバー、タングステンの3つのチェーンを、どの企業が台湾にあり、どの工程が海外に依存しているか、一環ずつ紐解く。
+- [台湾産業特集](/industry/) — 公式統計を用いて産業構造を可視化：輸出とGDPの70年史、科学園区（サイエンスパーク）、各都市の工場、歴代時価総額トップ10、および6つの公共論争における各方面の見解。
+- [台湾の外貿とグローバル・サプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 輸出主導型経済から三角貿易、そして米中サプライチェーン再編に至るマクロな背景。
+- [台湾におけるNVIDIA](/ja/technology/nvidia-in-taiwan) — NVIDIAがいかにしてチップ製造、パッケージング、サーバー組み立てを台湾へ深く委託しているか。
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — RCAからの技術移転、TSMCのファウンドリ事業から、材料・パッケージングの戦場に至る長期的な背景。
+- [Computex](/ja/technology/computex) — なぜ台北コンピューターショーがAI時代において、世界のハードウェア供給側の聖地となったのか。
+- [台湾の電力と半導体](/ja/technology/taiwan-electricity-and-semiconductors) — AIサプライチェーンの背後にある電気代、再生可能エネルギーへの圧力、そしてエネルギー安全保障。
+- [半導体の水利用と台湾の水資源](/ja/technology/semiconductor-water-use-and-taiwan-water-resources) — ウェハー工場がいかにしてダムへと繋がっているか、干ばつ、再生水、および地方自治について。
+- [AIサプライチェーンの海外進出](/ja/technology/ai-supply-chain-overseas-manufacturing) — TSMC、鴻海（ホンハイ）、緯創（ウィストロン）から台達（デルタ電子）まで、台湾のサプライチェーンがいかにして世界へ請われていくのか。
 
 ## 画像出典
 
