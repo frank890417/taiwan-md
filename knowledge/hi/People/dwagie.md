@@ -30,11 +30,13 @@ rationale:
   whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
   where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
   whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/大支.md'
-sourceCommitSha: '498649feb'
-sourceContentHash: 'sha256:2e7abe81d37d5763'
-sourceBodyHash: 'sha256:42bdb5d4361f8a68'
-translatedAt: '2026-07-28T05:31:31+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:ad16e5b275d77c2c'
+sourceBodyHash: 'sha256:dec7b7071831ec71'
+translatedAt: '2026-11-18T21:05:54.826246+00:00'
 ---
 
 # दाज़्ही: ताइपेन के प्रशिक्षण कक्ष से निकली ताइवान भाषा की रेप गायक-शिक्षक
@@ -153,8 +155,8 @@ _दाज़्ही आधिकारिक एमवी: 'रें', ए�
 
 ## चित्र स्रोत
 
-- हीरो दाज़्ही फोटो: जियायी नगर सरकार, विकीमीडिया कॉमन्स, नाम उल्लेख अनुमति (सरकारी वेबसाइट डेटा खुला घोषणा)। मूल फाइल: [चौदहवीं अंतिम तीन दिन क्रॉस-वर्ष उत्सव में सुनहरे घंटी के दो प्रमुखों को आमंत्रित किया (दाज़्ही)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>)।
-- एमसी हॉटडॉग 2012 प्रदर्शन फोटो: चियू यू-फेंग, विकीमीडिया कॉमन्स, CC BY-SA 4.0। मूल फाइल: [2012 सुपर स्लिपर](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg)।
+- हीरो दाज़ी (大支) की तस्वीर: जियायी सिटी गवर्नमेंट, Wikimedia Commons, एट्रिब्यूशन लाइसेंस (सरकारी वेबसाइट डेटा ओपन घोषणा)। मूल फ़ाइल: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>)。
+- MC HotDog 2012 प्रदर्शन की तस्वीर: क्यू यूफेंग (邱鈺鋒), Wikimedia Commons, CC BY-SA 4.0। मूल फ़ाइल: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg)।
 
 ## संदर्भ
 

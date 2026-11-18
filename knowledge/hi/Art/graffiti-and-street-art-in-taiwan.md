@@ -14,11 +14,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-07-30T12:38:21+08:00'
+translatedAt: '2026-11-18T20:59:26.521107+00:00'
 ---
 
 > **30 सेकंड अवलोकन:**
@@ -70,18 +72,18 @@ _ताइपे शहर के वान्हुआ जिले में �
 - [वान्हुआ परित्यक्त सैन्य भवन ग्रैफिटी](https://commons.wikimedia.org/wiki/File:Building_with_graffiti_near_Ximending_01.jpg) — फोटो: Lokseng01, 2021, CC BY-SA 4.0
 - [ताइवान स्ट्रीट आर्टिस्ट लाइव रचना](https://commons.wikimedia.org/wiki/File:Streetartintaiwan-01.jpg) — फोटो: streetallnight, 2015, CC BY-SA 2.0 ताइवान
 
-## संदर्भ
+## संदर्भ सामग्री
 
-[^1]: [ताइवानी ग्रैफिटी कलाकार रीच, ब्रेक का पलटवार! सड़क से विविध रचना शैली तक](https://www.wowlavie.com/article/ae1902012) — WowLavie (विवरण के लिए मूल स्रोत का लिंक देखें)
+[^1]: [ताइवान के ग्रैफिटी कलाकार Reach और Blake का पलटवार! सड़कों से विविध रचनात्मक शैलियों तक का सफर](https://www.wowlavie.com/article/ae1902012) — WowLavie (विवरण के लिए मूल स्रोत का लिंक देखें)
 
-[^3]: [ग्रैफिटी कलाकार डा-चांग वांग का विशेष साक्षात्कार: बड़ी आंत के अंदर मल है, कला भी है।](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [ग्रैफिटी कलाकार Da Chang Wang का विशेष साक्षात्कार: सॉसेज के अंदर गंदगी होती है, और कला भी।](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [क्या स्ट्रीट संस्कृति का वाणिज्यीकरण गलत है? ताइवानी ग्रैफिटी अग्रदूत रीच](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [क्या स्ट्रीट कल्चर का व्यावसायिक होना गलत है? ताइवान के ग्रैफिटी अग्रणी Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [कैंडी बर्ड](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — ताइवान समकालीन कला डेटाबेस
+[^5]: [Candy Bird (कैंडी बर्ड)](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — ताइवान समकालीन कला डेटाबेस
 
-[^6]: [अवैध ग्रैफिटी अधिकतम 6000 जुर्माना! उत्तर शहर 14 वैध ग्रैफिटी दीवारें एक नज़र में](https://newtalk.tw/news/view/2019-11-27/332344) — ताइपे शहर सरकार पर्यावरण संरक्षण ब्यूरो
+[^6]: [अवैध ग्रैफिटी के लिए अधिकतम NT$6,000 का जुर्माना! ताइपे शहर में 14 कानूनी ग्रैफिटी दीवारों की सूची](https://newtalk.tw/news/view/2019-11-27/332344) — ताइपे नगर निगम पर्यावरण संरक्षण ब्यूरो
 
-[^8]: [प्राचीन स्थल और उत्तर-आधुनिक कला का मिश्रण "आर्ट टूर अनफिनिश्ड" आपको ताइपे सिटी फिल्म थीम पार्क की सैर कराता है](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — ताइपे शहर सरकार पर्यटन प्रसार ब्यूरो
+[^8]: [ऐतिहासिक स्मारकों और उत्तर-आधुनिक कला का संगम: "Art Tour" आपको ताइपे सिटी मूवी थीम पार्क की सैर कराएगा](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — ताइपे नगर निगम पर्यटन और संचार ब्यूरो
 
-[^9]: [झुर्रियों से गाढ़ा ताइवानी स्वाद निकालना, हत्सुमिमी के कलाकार मित्र - डा-चांग वांग](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — हत्सुमिमी (विवरण के लिए मूल स्रोत का लिंक देखें)
+[^9]: [झुर्रियों के बीच से गहरी ताइवानी सुगंध निकालें, Hatsumimi के कलाकार मित्र - Da Chang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (हात्सुमी)

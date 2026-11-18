@@ -1,8 +1,8 @@
 ---
 title: 'टेकेशी कनेशिरो: गुमनाम "आम नागरिक" से, उस एशियाई हार्टथ्रोब तक जो बस दुनिया द्वारा भुला दिया जाना चाहता था'
 description: '2025 की एक स्ट्रीट इंटरव्यू खबर ने उन्हें "आम नागरिक" के रूप में चिह्नित किया, यह शायद टेकेशी कनेशिरो का सबसे ज्यादा चाहा गया क्षण था। 17 साल की उम्र में मोटरसाइकिल खरीदने के लिए विज्ञापन करने से लेकर, ताइवान, जापान और हांगकांग में फैले अंतरराष्ट्रीय सुपरस्टार बनने तक, उन्होंने मनोरंजन जगत के शिखर पर "गायब होने" का अभ्यास किया।'
+date: 2026-06-19
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'टेकेशी कनेशिरो',
@@ -13,17 +13,19 @@ tags:
     'ओनिमुशा',
     'द क्रॉसिंग',
   ]
-date: 2026-06-19
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-07-29T12:59:28+08:00'
+translatedAt: '2026-11-18T21:46:07.109052+00:00'
 ---
 
 > **तीस सेकंड का सारांश：**
