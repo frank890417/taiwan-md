@@ -127,6 +127,57 @@ def find_punct_only_stale(status: dict, lang_filter: str | None = None) -> list[
     return out
 
 
+# 查證標記兩欄（2026-11-19 twmd-babel-nightly）：11-17 兩個 commit 替 511 篇未審舊文補上
+# `curation: incubating`＋`curationReason: unverified`，十二語因此累積 4,524 份 metadata-stale，
+# 它們跟 zh 的差別只有這兩行、正文逐字相同。產線照 10-16 的設計把 metadata-stale 送進 patch
+# 引擎用模型重翻 frontmatter，一份約 60–150 秒，地端一台機器要排兩天多；而這兩欄是 enum
+# （schema 只收 verified／incubating、unverified／thin），譯文本來就是機械照抄 zh。
+# 所以這條路只在「zh 自譯文 sourceCommitSha 以來，frontmatter 只變了這兩欄、正文逐字沒變」
+# 時成立，其餘 metadata-stale（description／title 有改）照舊交給 patch 引擎。
+CURATION_KEYS = ["curation", "curationReason"]
+
+
+def _zh_split_at(rev: str, zh_path: str, _cache: dict = {}):
+    """(frontmatter dict, frontmatter 之後的全文) at git rev；取不到回 None。"""
+    key = (rev, zh_path)
+    if key not in _cache:
+        r = subprocess.run(["git", "show", f"{rev}:knowledge/{zh_path}"],
+                           cwd=REPO, capture_output=True, text=True)
+        if r.returncode != 0:
+            _cache[key] = None
+        else:
+            try:
+                fm, rest = _st.parse_zh_frontmatter(r.stdout)
+                _cache[key] = (fm, rest)
+            except Exception:  # noqa: BLE001 — 解析不了就不走這條路
+                _cache[key] = None
+    return _cache[key]
+
+
+def find_curation_only(status: dict, lang_filter: str | None = None) -> list[dict]:
+    """metadata-stale 裡，zh 從譯文的 sourceCommitSha 到 HEAD 只動了 CURATION_KEYS、
+    frontmatter 之後逐字相同的那些。任何一項判不出來（sha 取不到、解析失敗）就不收。"""
+    out = []
+    dirty = _heal.dirty_paths()
+    for item in find_metadata_stale(status, lang_filter):
+        if f"knowledge/{item['target_path']}" in dirty:
+            continue  # 工作樹上有人（產線）正在改，不碰
+        t = status["byArticle"][item["zh_path"]]["translations"][item["lang"]]
+        old_sha = t.get("sourceCommitSha")
+        if not old_sha:
+            continue
+        old = _zh_split_at(old_sha, item["zh_path"])
+        cur = _zh_split_at("HEAD", item["zh_path"])
+        if not old or not cur or old[1] != cur[1]:
+            continue
+        changed = {k for k in set(old[0]) | set(cur[0]) if old[0].get(k) != cur[0].get(k)}
+        if not changed or not changed <= set(CURATION_KEYS):
+            continue
+        item["via"] = "curation-only"
+        out.append(item)
+    return out
+
+
 def verify_bump_or_revert(target_md: Path, zh_path: str, target_path: str, original_bytes: bytes) -> tuple[bool, str | None]:
     """Post-bump hard gate for the riskier --include-punct-only path (see module
     docstring). Runs verify-translation.py against the just-written file; on any
@@ -148,7 +199,8 @@ def verify_bump_or_revert(target_md: Path, zh_path: str, target_path: str, origi
     return False, f"verify-translation fails={fails}"
 
 
-def bump_one(target_md: Path, new_sha: str, new_content_hash: str, new_body_hash: str, apply: bool) -> bool:
+def bump_one(target_md: Path, new_sha: str, new_content_hash: str, new_body_hash: str, apply: bool,
+             extra_sync: tuple[str, ...] = ()) -> bool:
     """Update frontmatter sourceCommitSha + sourceContentHash + sourceBodyHash. Returns True if changed."""
     content = target_md.read_text(encoding="utf-8")
     if not content.startswith("---"):
@@ -178,7 +230,8 @@ def bump_one(target_md: Path, new_sha: str, new_content_hash: str, new_body_hash
         try:
             zh_fm, _ = _st.parse_zh_frontmatter(zh_md.read_text(encoding="utf-8"))
             lines = new_fm.strip("\n").split("\n")
-            lines, _changed = _heal.sync_passthrough_fields(lines, zh_fm)
+            lines, _changed = _heal.sync_passthrough_fields(
+                lines, zh_fm, fields=list(_heal.SYNC_SCALAR_FIELDS) + list(extra_sync))
             new_fm = "\n" + "\n".join(lines) + "\n"
         except Exception as e:  # noqa: BLE001 — 同步失敗不擋 bump，印出來就好
             print(f"  ⚠️ passthrough sync skipped for {target_md.name}: {e}", file=sys.stderr)
@@ -200,14 +253,29 @@ def main():
                      help="also bump `stale` (real bodyHash drift) entries whose zh diff is "
                           "punctuation/whitespace-only per semantic-noop-check.py (2026-07-27, "
                           "default off — see reports/semantic-noop-stale-2026-07-27.md)")
+    ap.add_argument("--curation-only", action="store_true",
+                     help="only bump metadata-stale whose zh change since sourceCommitSha is the "
+                          "curation/curationReason pair (body byte-identical), and copy those two "
+                          "fields over (2026-11-19; skips paths dirty in the work tree)")
+    ap.add_argument("--limit", type=int, default=0,
+                     help="process at most N targets (dry-run sampling before a full apply)")
+    ap.add_argument("--list-out", default=None,
+                     help="write bumped target paths (one per line) to this file")
     args = ap.parse_args()
 
     print("📊 Fetching status.json...")
     status = run_status_json()
-    targets = find_metadata_stale(status, args.lang)
-    for t in targets:
-        t["via"] = "metadata-stale"
-    print(f"📋 {len(targets)} metadata-stale translation(s) to bump")
+    if args.curation_only:
+        targets = find_curation_only(status, args.lang)
+        print(f"📋 {len(targets)} curation-only metadata-stale translation(s) to bump")
+    else:
+        targets = find_metadata_stale(status, args.lang)
+        for t in targets:
+            t["via"] = "metadata-stale"
+        print(f"📋 {len(targets)} metadata-stale translation(s) to bump")
+    if args.limit > 0:
+        targets = targets[: args.limit]
+    bumped_paths: list[str] = []
 
     if args.include_punct_only:
         print("🔍 checking `stale` entries for punctuation-only zh diffs (semantic-noop-check.py)...")
@@ -220,14 +288,16 @@ def main():
         return
 
     counts = {"bumped": 0, "skipped": 0, "reverted": 0}
-    by_via = {"metadata-stale": 0, "punct-only-stale": 0}
+    by_via = {"metadata-stale": 0, "punct-only-stale": 0, "curation-only": 0}
     for t in targets:
         target_md = KNOWLEDGE / t["target_path"]
         if not target_md.exists():
             counts["skipped"] += 1
             continue
         original_bytes = target_md.read_bytes() if (args.apply and t["via"] == "punct-only-stale") else None
-        changed = bump_one(target_md, t["new_src_sha"], t["new_content_hash"], t["new_body_hash"], args.apply)
+        extra = tuple(CURATION_KEYS) if t["via"] == "curation-only" else ()
+        changed = bump_one(target_md, t["new_src_sha"], t["new_content_hash"], t["new_body_hash"],
+                           args.apply, extra_sync=extra)
         if not changed:
             counts["skipped"] += 1
             continue
@@ -242,6 +312,7 @@ def main():
 
         counts["bumped"] += 1
         by_via[t["via"]] += 1
+        bumped_paths.append(f"knowledge/{t['target_path']}")
         if not args.quiet:
             action = "✓ bumped" if args.apply else "~ would-bump"
             tag = " [punct-only]" if t["via"] == "punct-only-stale" else ""
@@ -251,7 +322,11 @@ def main():
     mode = "APPLY" if args.apply else "DRY-RUN"
     print(f"📊 bump-source-sha [{mode}]")
     print(f"  {'bumped' if args.apply else 'would-bump'}: {counts['bumped']} "
-          f"(metadata-stale={by_via['metadata-stale']}, punct-only-stale={by_via['punct-only-stale']})")
+          f"(metadata-stale={by_via['metadata-stale']}, punct-only-stale={by_via['punct-only-stale']}, "
+          f"curation-only={by_via['curation-only']})")
+    if args.list_out:
+        Path(args.list_out).write_text("\n".join(bumped_paths) + ("\n" if bumped_paths else ""),
+                                       encoding="utf-8")
     print(f"  skipped: {counts['skipped']}")
     if args.include_punct_only:
         print(f"  reverted (post-bump verify fail): {counts['reverted']}")

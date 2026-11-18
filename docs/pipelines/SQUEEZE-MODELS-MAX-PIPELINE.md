@@ -909,6 +909,8 @@ python3 scripts/tools/lang-sync/bump-source-sha.py --apply
 
 **翻譯欄位變了就不能只 bump**（v4.15，2026-10-16 babel-nightly）：`metadata-stale` 只保證正文沒變。zh 改了 title／description／tags／imageAlt 這些要翻的欄位時，bump 會把舊譯的摘要蓋成 fresh。dispatcher 的實際路徑是先交 `patch-translate.py`：它只重翻 frontmatter、章節 byte-identical，舊譯文帶債或 sha 對不上才 exit 2 退回整篇重翻。10-16 以前 dispatcher 對 metadata-stale 一律整篇重翻（10-15 一批 SEO description 改寫累積 356 份，每份 ~145 秒），改道後實測補丁 24〜57 秒。純 trailer 變動仍可走上面的 bump。
 
+**只動了查證標記兩欄就直接 bump**（v4.16，2026-11-19 twmd-babel-nightly）：`curation`／`curationReason` 是 enum，譯文本來就照抄 zh。11-17 替 511 篇未審舊文補標「🌱 進化中・待查證」後，十二語累積 4,524 份 metadata-stale，跟母稿的差別只有這兩行，卻排在 patch 引擎一份 60〜150 秒地重翻。`bump-source-sha.py --curation-only` 只收「zh 從譯文的 sourceCommitSha 到 HEAD，frontmatter 只變這兩欄、其後全文逐字相同」的那些（工作樹上產線正在改的跳過），照抄兩欄並對齊 sha；其他 metadata-stale 照舊走 patch。先 `--limit 10` 看 diff，再全量，之後每語跑 verify-batch 0 錯才 commit。
+
 ### v3 4-tier cascade（updated）
 
 ```
