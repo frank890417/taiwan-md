@@ -25,11 +25,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-18T23:07:48.630160+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
@@ -162,11 +164,12 @@ Từ Thôn Thanh Vân thời Gia Long, đến chiến trường kháng Nhật n�
 
 Năm 2026, khi tàu tuyến Tam Anh chính thức lướt vào, Khu vực Đại học Bắc sẽ đón tiếp thách thức giai đoạn tiếp theo: làm sao để cân bằng giữa sự tiện lợi do tàu điện ngầm mang lại và tác động từ bên ngoài? Làm sao để giữ lại nhiệt độ đất đai trong làn sóng sỹ tôn hóa? Thành phố ba mươi năm thức tỉnh này, đang đứng ở một điểm bắt đầu lịch sử mới, tiếp tục viết truyện huyền thoại đảo ngược của nó.
 
-## Đọc Thêm
+## Đọc thêm
 
-- Phát triển đô thị Đài Loan và khoảng cách thành thị nông thôn (台灣都市發展與城鄉差距) — Đặt Khu vực Đại học Bắc vào bối cảnh dài hạn của các khu phân khu và mở rộng đô thị Đài Loan.
-- Tân Thị Trấn Lâm Khẩu (林口新市鎮) — Đối chiếu cách một thị trấn mới từng được gọi là "thành phố ma" trở nên trưởng thành.
-- Trà Tam Hiệp (三峽茶) — Đọc thêm về tầng văn hóa sâu sắc của thị trấn cũ Tam Hiệp và công nghiệp địa phương.
+- [Đài Loan: Giá nhà, vay mua nhà và an cư cho thanh niên](/housing/) — Trang chuyên đề: Toàn cảnh bên ngoài khu vực đền bù, tỷ lệ gánh nặng vay mua nhà và chỉ số giá nhà ở các tỉnh thành
+- [Phát triển đô thị Đài Loan và khoảng cách thành thị - nông thôn](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Đặt Khu đặc khu Bắc Đại học trở lại bối cảnh dài hạn của các khu đền bù và mở rộng đô thị tại Đài Loan.
+- [Thị trấn mới Lâm Khẩu](/vi/geography/linkou-new-town) — Đối chiếu thị trấn mới từng cũng được gọi là «thành phố ma» như thế nào mà trưởng thành hóa.
+- [Trà Tam Hiệp](/vi/food/sanxia-tea) — Mở rộng đọc về văn hóa nền tảng của khu chợ cũ Tam Hiệp và ngành nghề địa phương.
 
 ## Tham Khảo
 

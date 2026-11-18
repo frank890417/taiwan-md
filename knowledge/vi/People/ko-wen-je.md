@@ -18,12 +18,13 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/柯文哲.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:afb181b9121212cc3221f6a2ed7b407c6e49eac126a68afeca54b8ae7efe01b2'
-sourceBodyHash: 'sha256:c19adb57b28985bfbd0df7bde92eb2cd4e96eeafff6d1906bc791810fbb33986'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Kha Văn Triết'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f3f1641bd9815359'
+sourceBodyHash: 'sha256:639fe26edbc39449'
+translatedAt: '2026-11-18T23:01:54.249522+00:00'
 ---
 
 # Kha Văn Triết

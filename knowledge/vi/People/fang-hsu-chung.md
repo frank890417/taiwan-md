@@ -1,11 +1,6 @@
 ---
 title: 'Phương Tự Trung: Từ khu eyqualme Bình Đông đến nhà thiết kế trực quan của ba lễ trao giải'
 description: 'Nhà sáng lập Chúc phương xã Phương Tự Trung, sinh năm 1978 tại Đông Cảng, Bình Đông, học tập tại Trường Thương mại Phục Hưng sau đó Đại học Nghệ thuật Đài Loan chuyên ngành thiết kế. Năm 2013 thành lập Chúc phương xã, kể từ năm 2016 thiết kế trực quan cho ba lễ trao giải âm nhạc, điện thoại và phim. Bảy lần được đề cử Giải thiết kế bìa tốt nhất tại Giải âm nhạc Đài Loan. Từ cảm giác vật liệu cũ của tuổi thơ sống trong khu xưu đến tường thuật đương đại của ba lễ trao giải, anh ấy sử dụng trực quan để đặt cạnh nhau ký ức và thời đại của Đài Loan.'
-translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
-sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-08-09T11:16:34+08:00'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -21,6 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/方序中.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
+sourceBodyHash: 'sha256:5791cbc190a21f96'
+translatedAt: '2026-11-18T22:21:53.207529+00:00'
 ---
 
 # Phương Tự Trung: Đứa trẻ khu xưu Bình Đông, thiết kế ba lễ trao giải thành ký ức Đài Loan
@@ -103,19 +105,19 @@ Sự tham gia địa phương này cũng phản ánh trong trình bày phương 
 
 ## Tài liệu tham khảo
 
-[^1]: [Phương Tự Trung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Tiểu sử Phương Tự Trung, học vấn và biểu đồ thời gian công việc, bao gồm ghi chép về xuất phát từ năm 1978 Bình Đông Đông Cảng, Trường Thương mại Phục Hưng, chuyên ngành kim loại Đại học Nghệ thuật Đài Loan ban đêm.
+[^1]: [Phương Tự Trung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Tiểu sử, học vấn và niên biểu tác phẩm của Phương Tự Trung, bao gồm thông tin về xuất thân tại thôn Cộng Hòa, Đông Cảng, Bình Đông năm 1978, cùng quá trình học tập tại Trường Thương nghiệp Phục Hưng và hệ đào tạo ban đêm chuyên ngành Kim khí thuộc Đại học Nghệ thuật Đài Loan.
 
-[^2]: [Chúc phương xã About](https://joefangstudio.com/?page_id=2) — Giới thiệu chính thức studio thiết kế, bao gồm thời gian thành lập studio (2013) và phạm vi hoạt động.
+[^2]: [Về Cửu Phương Xã (究方社 About)](https://joefangstudio.com/?page_id=2) — Giới thiệu chính thức về Cửu Phương Xã, bao gồm thời điểm thành lập studio (2013) và phạm vi kinh doanh.
 
-[^3]: [Tạp chí Mirror: Quản lý thương hiệu ba lễ trao giải Phương Tự Trung thiết kế hoạt hóa trực quan chính](https://www.mirrormedia.mg/story/20190125insight001/) — Bối cảnh hợp tác trực quan chính ba lễ trao giải và quá trình mời gọi của Trần Chấn Xuyên.
+[^3]: [Mirror Media: Quản trị thương hiệu tại ba lễ trao giải lớn — Phương Tự Trung thiết kế làm sống động hình ảnh chủ đạo](https://www.mirrormedia.mg/story/20190125insight001/) — Bối cảnh hợp tác về hình ảnh chủ đạo của ba lễ trao giải lớn và quá trình Trần Trấn Xuyên đưa ra lời mời.
 
-[^4]: [Trang chủ Giải phim vàng: Trực quan chính lần thứ 55](https://www.goldenhorse.org.tw/) — Giải thích khái niệm trực quan chính 2018 Giải phim vàng 55 "Vai phụ".
+[^4]: [Ban tổ chức Giải Kim Mã: Hình ảnh chủ đạo lần thứ 55](https://www.goldenhorse.org.tw/) — Giải thích khái niệm hình ảnh chủ đạo của giải Kim Mã lần thứ 55 năm 2018 với chủ đề "Vai phụ".
 
-[^5]: [Bộ văn hóa Bộ phim và công nghiệp âm nhạc phổ biến — Lịch sử đề cử Giải âm nhạc Đài Loan](https://www.bamid.gov.tw/) — Bản ghi đề cử Giải thiết kế bìa tốt nhất Giải âm nhạc Đài Loan của Phương Tự Trung qua các kỳ.
+[^5]: [Cục Công nghiệp Điện ảnh, Truyền hình và Âm nhạc đại chúng thuộc Bộ Văn hóa — Danh sách đề cử các kỳ Giải Kim Khúc](https://www.bamid.gov.tw/) — Hồ sơ đề cử giải Thiết kế bìa xuất sắc nhất tại các kỳ Giải Kim Khúc của Phương Tự Trung.
 
-[^6]: [Phương Tự Trung, thay đổi ấn tượng Bình Đông cấp cho trí tưởng tượng và kỳ vọng — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Phương Tự Trung nói về tuổi thơ khu xưu Bình Đông Đông Cảng, Dự án Tiểu hoa và bối cảnh thiết kế.
+[^6]: [Phương Tự Trung: Đảo ngược ấn tượng về Bình Đông, trao tặng trí tưởng tượng và sự kỳ vọng — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Phương Tự Trung chia sẻ về tuổi thơ tại khu nhà tập thể ở Đông Cảng, Bình Đông, dự án Tiểu Hoa và bối cảnh thiết kế.
 
-[^7]: [Nhà thiết kế và studio làm việc của họ — Joe Fang Studio Chúc phương xã](http://brandingdesign.nccu.tilda.ws/fdwf3) — Ghi chép phỏng vấn chương trình thương hiệu thiết kế Đại học Chính trị Quốc gia, bao gồm phương pháp làm việc Chúc phương xã và quá trình tiếp nhận ba lễ trao giải.
+[^7]: [Nhà thiết kế và Studio của họ — Joe Fang Studio Cửu Phương Xã](http://brandingdesign.nccu.tilda.ws/fdwf3) — Hồ sơ phỏng vấn dự án thiết kế thương hiệu tại Đại học Chính trị, bao gồm phương pháp làm việc của Cửu Phương Xã và quá trình tiếp nhận các lễ trao giải lớn.
 
 ## Mở rộng đọc
 

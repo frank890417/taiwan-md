@@ -1,8 +1,8 @@
 ---
 title: 'Takeshi Kaneshiro: Từ không được công nhân ra là "một người dân thường", đến khát được thế giới quên lãng làm "cỏ dại Châu Á"'
 description: 'Một tin street interview năm 2025 đã gắn nhãn ông là "một người dân thường", có lẽ đây là khoảnh khắc mà Takeshi Kaneshiro khao khát nhất. Từ lúc 17 tuổi quay quảng cáo để mua xe máy, đến trở thành ngôi sao quốc tế vượt qua Đài Loan, Nhật Bản, Hong Kong, anh luôn thực hành "biến mất" ở đỉnh cao của ngành giải trí.'
+date: 2026-06-19
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',
@@ -13,17 +13,19 @@ tags:
     'Onimusha',
     'The Crossing',
   ]
-date: 2026-06-19
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-18T22:34:25.162879+00:00'
 ---
 
 > **Ba mươi giây tổng quan:**
