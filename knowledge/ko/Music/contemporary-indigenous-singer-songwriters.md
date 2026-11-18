@@ -16,8 +16,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 5,981 曝光 60 點擊（1.0%），主查詢「原住民歌手」833、「原住民女歌手」324 曝光，裸主題 title 沒有這個詞；title 改冒號三明治放進「原住民歌手」，description 拿掉「本文比較」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: '0a79156df'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3b3422dc3e5660c1'
 sourceBodyHash: 'sha256:c40d04f82db2ee2c'
 translatedAt: '2026-11-06T12:56:32.741355+00:00'

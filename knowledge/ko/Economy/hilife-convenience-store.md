@@ -10,8 +10,10 @@ readingTime: 12
 lastVerified: 2026-07-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-23T23:06:50+08:00'

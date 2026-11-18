@@ -10,8 +10,10 @@ lastVerified: 2026-03-31
 lastHumanReview: false
 author: 'Taiwan.md'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: 'ceeee0ae'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0275e27f1a1e4e68'
 sourceBodyHash: 'sha256:c3a7643c439033af'
 translatedAt: '2026-05-16T22:20:00Z'

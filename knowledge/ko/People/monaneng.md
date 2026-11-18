@@ -9,8 +9,10 @@ tags: ['원주민', '시', '문학', '파이완족', '원주민 운동', '타이
 lastVerified: 2026-06-03
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/莫那能.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f5aebb543340d143'
 sourceBodyHash: 'sha256:2f3617098391a7c1'
 translatedAt: '2026-06-16T16:38:41Z'

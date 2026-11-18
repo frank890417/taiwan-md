@@ -29,8 +29,10 @@ datasets:
     "{'id': '15035', 'name': '地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數(統計)', 'url': 'https://data.gov.tw/dataset/15035', 'agency': '法務部統計處', 'update_freq': '每1月', 'why': '查察四大重點中賄選與介選兩項的歷年裁判結果，檢方查察強度量化面', 'verified': datetime.date(2026, 6, 10)}",
   ]
 relatedDiary: ['2026-07-10-224934-elections-refresh']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/2026 九合一選舉.md'
-sourceCommitSha: '2cbb7955c'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0598c68f67d9dae4'
 sourceBodyHash: 'sha256:a62248f87fd69728'
 translatedAt: '2026-07-31T04:48:15+08:00'

@@ -30,8 +30,10 @@ readingTime: 22
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/士林.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fa3c9da0d146b3a4'
 sourceBodyHash: 'sha256:18f3978bd2f84e6f'
 translatedAt: '2026-06-16T00:44:26+08:00'

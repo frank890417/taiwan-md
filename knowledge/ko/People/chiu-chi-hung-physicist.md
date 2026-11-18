@@ -18,8 +18,10 @@ author: 'Taiwan.md Contributors'
 readingTime: 25
 lastVerified: 2026-04-26
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/邱繼弘.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1260b9482a373397'
 sourceBodyHash: 'sha256:60f774f7923d2a36'
 translatedAt: '2026-05-01T20:54:10+08:00'

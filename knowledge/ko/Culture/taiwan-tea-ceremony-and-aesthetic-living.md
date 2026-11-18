@@ -9,8 +9,10 @@ author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-25
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: '2948c945'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
 sourceBodyHash: 'sha256:b5154ba7226ad9d9'
 translatedAt: '2026-06-16T17:19:04Z'

@@ -19,8 +19,10 @@ readingTime: 14
 lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/黑白大廚在台灣.md'
-sourceCommitSha: '44bdf7162'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:158a36dc208ac1d9'
 sourceBodyHash: 'sha256:7e1fc8eb24498ac3'
 translatedAt: '2026-07-25T21:33:42+08:00'

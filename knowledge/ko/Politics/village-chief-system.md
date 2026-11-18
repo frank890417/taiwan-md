@@ -14,8 +14,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
 translatedAt: '2026-11-05T23:31:27.369094+00:00'

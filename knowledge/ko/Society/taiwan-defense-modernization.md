@@ -11,8 +11,10 @@ readingTime: 16
 lastVerified: 2026-04-10
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
-sourceCommitSha: 'e1b5668a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:88d0dbdb8874357c'
 sourceBodyHash: 'sha256:22e1d83beded6641'
 translatedAt: '2026-06-22T00:30:00+08:00'

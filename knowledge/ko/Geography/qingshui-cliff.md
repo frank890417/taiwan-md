@@ -8,8 +8,10 @@ tags: [청수단애, 소화고도, 지질, 생태, 대순, 제백림, 요홍기]
 readingTime: 15
 lastVerified: 2026-04-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Geography/清水斷崖.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: 2026-05-02T01:17:15+08:00

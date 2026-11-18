@@ -20,8 +20,10 @@ readingTime: 17
 lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/猴硐.md'
-sourceCommitSha: '11b9ab5c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:da37ca4aa7f65da7'
 sourceBodyHash: 'sha256:e86f8f550c13eab0'
 translatedAt: '2026-06-22T00:30:00+08:00'

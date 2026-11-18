@@ -28,8 +28,10 @@ readingTime: 16
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/大稻埕.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1aab357813ec41e3'
 sourceBodyHash: 'sha256:4f2293becc2b45da'
 translatedAt: '2026-06-16T16:55:29Z'

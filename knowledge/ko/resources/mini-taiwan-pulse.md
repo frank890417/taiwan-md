@@ -3,8 +3,10 @@ title: 'Mini Taiwan Pulse — 대만 교통 실시간 3D 시각화'
 description: '공개 데이터로 대만의 맥박을 느껴보세요——항공편의 빛 궤적이 하늘을 가로지르고, 선박이 바다 위를 누비고, 열차가 선로 위를 달립니다. 23개 레이어가 이 섬의 호흡을 실시간으로 보여줍니다.'
 date: 2026-03-22
 tags: [리소스, 공개데이터, 시각화, 교통, 3D, 실시간, Taiwan.md]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: resources/mini-taiwan-pulse.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
 sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: 2026-05-01T22:19:01+08:00

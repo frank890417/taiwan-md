@@ -20,9 +20,11 @@ category: 'Society'
 author: 'Taiwan.md'
 readingTime: 16
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/偏遠地區學校教育發展條例全解.md'
 lastVerified: 2026-04-11
-sourceCommitSha: 'd7a10960'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3a5b64aac1eb2c2e'
 sourceBodyHash: 'sha256:1640a85ec53af696'
 translatedAt: '2026-04-14T06:21:59+08:00'

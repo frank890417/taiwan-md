@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/赤燭遊戲.md'
-sourceCommitSha: 'c5f337929'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:33c90e10581f31c9'
 sourceBodyHash: 'sha256:1fba81d514ac33a3'
 translatedAt: '2026-06-12T00:53:42+08:00'

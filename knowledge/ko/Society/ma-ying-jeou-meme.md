@@ -8,8 +8,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/馬英九迷因.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:219fe04c84e96b20'
 sourceBodyHash: 'sha256:2e23822aef955aa4'
 translatedAt: '2026-05-01T20:54:10+08:00'

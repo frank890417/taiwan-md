@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
-sourceCommitSha: '7fb2d0339'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:832d6badc8369590'
 sourceBodyHash: 'sha256:1206ed6df571738a'
 translatedAt: '2026-10-02T00:52:48+08:00'

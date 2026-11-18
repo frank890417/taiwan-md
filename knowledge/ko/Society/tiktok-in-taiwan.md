@@ -19,9 +19,11 @@ subcategory: '媒體與言論'
 category: 'Society'
 author: 'idlccp1984'
 readingTime: 10min
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
 lastVerified: 2026-04-12
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-04-14T06:21:59+08:00'

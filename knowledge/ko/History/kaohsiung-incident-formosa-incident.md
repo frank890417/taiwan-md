@@ -14,8 +14,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/美麗島事件.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b6388def07095d7a'
 sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: '2026-06-13T00:00:00Z'

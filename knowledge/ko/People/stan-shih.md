@@ -16,8 +16,10 @@ tags:
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '6ffd92f94'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:b5ded8b5494f423c'
 sourceBodyHash: 'sha256:fb56cb60a16b87a7'
 translatedAt: '2026-09-26T19:10:22+08:00'

@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: '2026-11-02T01:46:33.507443+00:00'

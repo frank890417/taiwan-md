@@ -38,9 +38,11 @@ sporeLinks:
     "{'id': 167, 'platform': 'threads', 'date': '2026-08-04', 'url': 'https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181'}",
     "{'id': 168, 'platform': 'x', 'date': '2026-08-04', 'url': 'https://x.com/taiwandotmd/status/2084520918441951650'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣海關報關制度與EZWAY.md'
-sourceCommitSha: '258412070'
-sourceContentHash: 'sha256:bc80c48817ccc98d'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:76dffd172486f9a9'
 sourceBodyHash: 'sha256:7abf227d191df077'
 translatedAt: '2026-08-09T11:18:51.840815+00:00'
 ---

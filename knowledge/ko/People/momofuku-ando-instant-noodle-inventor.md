@@ -21,8 +21,10 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 20
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
 translatedAt: '2026-11-02T15:36:43.775049+00:00'

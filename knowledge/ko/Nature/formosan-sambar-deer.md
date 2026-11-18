@@ -17,8 +17,10 @@ date: 2026-04-30
 readingTime: 18
 lastVerified: 2026-04-30
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Nature/台灣水鹿.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d00de39e39633054'
 sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: 2026-05-01T20:54:10+08:00

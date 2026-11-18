@@ -26,8 +26,10 @@ readingTime: 16
 lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/MTV包廂.md'
-sourceCommitSha: '9b5cb286e'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8c1e84b77bb235ea'
 sourceBodyHash: 'sha256:96b8f13a864b5e24'
 translatedAt: '2026-05-12T11:51:04+08:00'

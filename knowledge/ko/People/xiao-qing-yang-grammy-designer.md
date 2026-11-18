@@ -9,8 +9,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'aef325181'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
 translatedAt: '2026-10-21T20:47:12+08:00'

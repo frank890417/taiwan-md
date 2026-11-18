@@ -29,8 +29,10 @@ readingTime: 22
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/艋舺.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2be6a02448305e7a'
 sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-06-16T16:55:29Z'

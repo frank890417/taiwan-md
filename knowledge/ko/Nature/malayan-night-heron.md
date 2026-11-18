@@ -28,8 +28,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 23,070 曝光 149 點擊（0.65%），最大查詢「地瓜鳥」8,206＋「地瓜 鳥」1,564 曝光，title 與 description 都沒有這個俗名；title 補「地瓜鳥」，description 首句先講俗名'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '0a79156df'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:55a53c683cb2fe02'
 sourceBodyHash: 'sha256:d2a2bc2c14be17d0'
 translatedAt: '2026-11-06T02:40:15+08:00'

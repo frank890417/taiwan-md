@@ -21,8 +21,10 @@ readingTime: 7
 #   why_this_hook: "1362대 바이올린 세계 최고 + 박물관 무료 개방, 이 두 숫자가 그가 석유화학 기업 치메이뿐 아니라 타이난의 문화 유산인 이유를 설명한다."
 #   whats_excluded: "치메이 그룹 각 사업 부문의 상세 재무보고; 바이올린 수집 목록; 박물관 건축 설계 세부사항"
 #   where_it_hedges: "박물관 현 무료 개방 정책 P0⚠️ 지속 여부 확인 권고"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
 translatedAt: '2026-05-22T05:08:46+08:00'

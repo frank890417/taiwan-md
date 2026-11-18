@@ -21,8 +21,10 @@ rationale:
   whos_pushing_back: '국민당, 짙은 녹색 성향의 본토파, 원주민족 활동가, 동성혼 특별법 비판자, 퇴역 군공교와 주거·에너지 개혁 비판자.'
 relatedDiary:
   - 2026-07-12-225636-manual
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad617fbb654f67ae'
 sourceBodyHash: 'sha256:986ab9796f1069f2'
 translatedAt: '2026-09-26T10:24:59+08:00'

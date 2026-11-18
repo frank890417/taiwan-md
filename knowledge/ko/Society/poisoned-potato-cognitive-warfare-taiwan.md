@@ -10,8 +10,10 @@ tags:
 lastVerified: 2026-04-30
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6f804a54cc46f969'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-07-24T10:40:42+08:00'

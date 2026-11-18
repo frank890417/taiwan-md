@@ -18,8 +18,10 @@ featured: false
 readingTime: 12
 lastVerified: 2026-04-25
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣教師的管教困境.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:0a9d7b4b73be1372'
 sourceBodyHash: 'sha256:50ce5b41a494b70c'
 translatedAt: '2026-05-01T22:19:01+08:00'

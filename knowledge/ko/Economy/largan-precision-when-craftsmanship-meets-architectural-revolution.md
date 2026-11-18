@@ -7,9 +7,11 @@ subcategory: '企業列傳'
 category: 'Economy'
 author: 'Taiwan.md Contributors'
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 lastVerified: 2026-03-22
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-04-14T08:48:46+08:00'

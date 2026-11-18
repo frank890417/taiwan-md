@@ -24,8 +24,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
 translatedAt: '2026-11-05T23:58:16.180794+00:00'

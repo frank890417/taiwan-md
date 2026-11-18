@@ -6,10 +6,12 @@ tags: [정치, 역사, 계엄, 전환적 정의, 냉전]
 subcategory: '政治人物'
 category: 'People'
 author: 'Taiwan.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔣中正.md'
 readingTime: 18
 featured: false
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: '2026-04-14T19:25:05+08:00'

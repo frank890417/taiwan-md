@@ -26,8 +26,10 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062529681283522655'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Society/中華台北.md
-sourceCommitSha: 'bbd8788a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:177fea3750c80f10'
 sourceBodyHash: 'sha256:dab437d622fd59b0'
 translatedAt: '2026-06-16T16:55:29Z'

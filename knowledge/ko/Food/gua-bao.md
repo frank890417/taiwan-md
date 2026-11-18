@@ -9,8 +9,10 @@ tags: ['간식', '야시장', '웨이야', '푸저우', 'BAO London', '타이완
 lastVerified: 2026-05-16
 lastHumanReview: false
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
 sourceBodyHash: 'sha256:6b2255cbc29cf54c'
 translatedAt: '2026-06-16T16:55:29Z'

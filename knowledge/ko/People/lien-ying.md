@@ -20,8 +20,10 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 category: People
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: People/連穎.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: 2026-05-01T20:54:10+08:00

@@ -22,8 +22,10 @@ readingTime: 45
 lastVerified: 2026-04-26
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/三峽茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:39992ba044ff9cc4'
 sourceBodyHash: 'sha256:4a3a23738f45e5d9'
 translatedAt: '2026-05-17T05:34:52+08:00'

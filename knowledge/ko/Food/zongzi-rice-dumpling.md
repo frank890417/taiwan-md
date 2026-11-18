@@ -10,8 +10,10 @@ readingTime: 7
 category: Food
 lastVerified: 2026-04-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
 translatedAt: '2026-06-11T16:38:39Z'

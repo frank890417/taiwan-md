@@ -10,8 +10,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:135918b4f99e7ae7'
 sourceBodyHash: 'sha256:ebc33c96c44483b0'
 translatedAt: '2026-10-15T20:39:50.979847+00:00'

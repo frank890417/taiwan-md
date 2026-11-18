@@ -17,9 +17,11 @@ category: 'Society'
 author: 'Taiwan.md'
 readingTime: 13
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣偏鄉教育.md'
 lastVerified: 2026-04-09
-sourceCommitSha: '4d620ce7'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1277fc2755a587fc'
 sourceBodyHash: 'sha256:64665163579f4d98'
 translatedAt: '2026-05-16T22:20:00Z'

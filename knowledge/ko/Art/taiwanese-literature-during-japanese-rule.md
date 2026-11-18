@@ -9,8 +9,10 @@ tags: ['문학', '일본 통치기', '식민지 문학', '대만 신문학', '�
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/日治時期文學.md'
-sourceCommitSha: '4d7fab8ee'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ddd002a147d6d0f3'
 sourceBodyHash: 'sha256:e76df226350c4a5f'
 translatedAt: '2026-05-24T05:06:32+08:00'

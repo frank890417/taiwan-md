@@ -8,9 +8,11 @@ category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/九天玄女信仰.md'
 lastVerified: 2026-03-27
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1910ee0829efda65'
 sourceBodyHash: 'sha256:def52197e717a6f7'
 translatedAt: '2026-05-13T01:08:20Z'

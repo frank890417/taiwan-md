@@ -14,8 +14,10 @@ readingTime: 7
 #   why_this_hook: "2012년 런던 동메달 결정전에서 출발한다—그는 세계 챔피언을 차지했고, 6회 올림픽을 걸어왔지만, 올림픽 메달과는 항상 한 곗길이었다. 이 긴장감이 어떤 숫자보다 종지위안을 정의한다."
 #   whats_excluded: "각 올림픽 대회의 세부 스코어; 중국 선수와의 대전 전체 기록; 독일 리그 연도별 소속팀 이동 상세"
 #   where_it_hedges: "2000년 시드니가 실제 첫 번째인지 여부(P0는 2000-2024년 6회 확인, 일부 자료에 이의 제기 있음); 2012년 동메달 결정전 상대 선수 및 스코어 미확인"
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/莊智淵.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8f24d65425473ad4'
 sourceBodyHash: 'sha256:1216e697fc7e6c44'
 translatedAt: '2026-05-09T14:29:09+08:00'

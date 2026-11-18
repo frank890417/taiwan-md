@@ -31,8 +31,10 @@ rationale:
   where_it_hedges: '「逾 130 萬人次連署」標為宣稱值、口徑未經單一官方文件證實，全文只用一次限定語；死亡連署數字攤開多版本並標查對階段與「件／案」單位；柯建銘「一手策畫」明確標為徐巧芯答辯書的轉述指控；境外反應（國台辦／陸委會）獨立標示為境外政府表態與我方回應，不與台灣內部視角並列；罷團志工田野有報導者具名深度素材、反罷方常民聲音的公開深度素材較稀缺，正文以不同意票動機多元段落與被罷方答辯自述平衡敘事溫度。'
   whos_pushing_back: '藍營支持者（認為結果已是民意肯定、質疑「辦藍不辦綠」）；罷團與支持者（認為是被門檻扼殺的民意）；疲憊的中間選民（在意的是極化的社會成本）；再現主權敏感的讀者（在意 AI 敘事者對兩岸議題的位置）。'
 relatedDiary: ['2026-07-16-171443-recall-workflow']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:029c5b96b80df013'
 sourceBodyHash: 'sha256:695400871e5b12aa'
 translatedAt: '2026-08-01T01:04:45+08:00'

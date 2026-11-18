@@ -8,8 +8,10 @@ date: 2026-04-26
 readingTime: 12
 lastVerified: 2026-04-26
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: Food/肉圓.md
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
 translatedAt: '2026-05-16T22:35:46Z'
