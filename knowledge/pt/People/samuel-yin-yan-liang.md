@@ -34,15 +34,21 @@ imageCredit: '中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
 sporeLinks:
-  [
-    "{'id': 95, 'platform': 'threads', 'date': '2026-05-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DYzmiFqE0mC'}",
-    "{'id': 96, 'platform': 'x', 'date': '2026-05-26', 'url': 'https://x.com/taiwandotmd/status/2059290686671982831'}",
-  ]
+  - id: 95
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzmiFqE0mC'
+  - id: 96
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-07-29T04:32:47+08:00'
+translatedAt: '2026-11-18T15:28:24.203641+00:00'
 ---
 
 # Yin Yen-liang: o prémio científico que ele construiu, mais valioso que o Nobel

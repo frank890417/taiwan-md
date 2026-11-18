@@ -4,24 +4,28 @@ description: 'Em 1856, um jovem tradutor britânico de 19 anos registrou o prime
 date: 2026-04-12
 category: 'People'
 tags:
-  - 'História Natural'
-  - 'Diplomata Britânico'
-  - 'Naturalista'
-  - 'Aves'
-  - 'Espécies Endêmicas de Taiwan'
-  - 'Abertura das Portas e Comércio'
-  - 'Século XIX'
+  [
+    'História Natural',
+    'Diplomata Britânico',
+    'Naturalista',
+    'Aves',
+    'Espécies Endêmicas de Taiwan',
+    'Abertura das Portas e Comércio',
+    'Século XIX',
+  ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-07-25T09:23:09+08:00'
-image: ''
+translatedAt: '2026-11-18T14:47:26.781363+00:00'
 ---
 
 # Robert Swinhoe: Quando o Diplomata Tornou-se Naturalista

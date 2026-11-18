@@ -18,12 +18,217 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-09-18
 lastHumanReview: false
-lifeTree: "{'protagonist': '張忠謀（Morris Chang）', 'birthYear': 1931, 'span': '1931–', 'source': {'article': 'knowledge/People/張忠謀.md', 'commit': '2acf410b', 'commitDate': '2026-03-17', 'extractedBy': 'Taiwan.md (Semiont) β-r5', 'extractedAt': '2026-04-26 13:30 +0800', 'note': '原文無 footnote，source 推測基於 §參考資料區（自傳 / TSMC 年報 / 維基 / 工研院 / 清大）+ 公開歷史紀錄。少數心理動機 alternative 標 [推測]。'}, 'intro': '一個 17 歲流亡到香港、18 歲進哈佛、19 歲轉 MIT 工程的中國銀行家之子，54 歲離開美國副總職位回台灣創立台積電。這棵樹列出他每次跨界（地理、技能、商業模式、世代）選的路，也列出他沒選的——從哈佛文學的延續到留美安全路徑到 IDM 模式的延續。', 'themes': [{'id': 'homeland', 'label': '海外 vs 故土', 'color': '#10B981'}, {'id': 'expert-leader', 'label': '工程師 vs 管理者', 'color': '#8B5CF6'}, {'id': 'business-model', 'label': '自製 vs 代工', 'color': '#F59E0B'}, {'id': 'succession', 'label': '在位 vs 傳承', 'color': '#EC4899'}], 'nodes': [{'id': 'birth', 'year': 1931, 'age': 0, 'type': 'given', 'theme': 'homeland', 'label': '出生於浙江寧波', 'scene': '父親張蔚觀是銀行家，母親徐君偉出身書香門第。動盪年代的書香家庭。'}, {'id': 'hong-kong', 'year': 1948, 'age': 17, 'type': 'choice', 'theme': 'homeland', 'scene': '童年在寧波 → 南京 → 廣州 → 香港 → 重慶 → 上海 → 香港之間遷徙。1948 年國共內戰，17 歲隨家人再度遷往香港', 'chose': {'label': '從香港赴美求學', 'consequence': '中學讀的是重慶南開與上海南洋模範；1949 年從香港赴美進哈佛。少年時代一路遷徙，讓他對「邊緣身份在大國體制內運作」有早期感覺。'}, 'alternatives': [{'label': '留在中國大陸', 'plausibility': 'structural', 'note': '同代多數家庭沒能跟著遷移到香港。1949 後留在中國的銀行家後代命運與張忠謀完全分流，不會出現在矽谷。'}, {'label': '直接赴美', 'plausibility': 'structural', 'note': '少數富裕家庭 1940 年代末就直接送孩子赴美。沒有香港四年，英文與國際化基礎會更弱，哈佛申請會更難。'}]}, {'id': 'harvard-mit', 'year': 1950, 'age': 19, 'type': 'choice', 'theme': 'expert-leader', 'scene': '1949 年進哈佛念文學。一年後因對文學缺乏熱情、加上經濟考量', 'chose': {'label': '轉學 MIT 機械工程', 'consequence': 'MIT 嚴謹工程教育培養邏輯思維與解決問題能力。1952 拿機械工程學士。這個轉軌是「藝術 → 技術」的關鍵 fork。'}, 'alternatives': [{'label': '留在哈佛念文學', 'plausibility': 'speculative', 'note': '[推測] 如果留下，可能走學術或文學路徑。完全不會出現半導體事業。但「為什麼一個對文學有興趣的人能在 MIT 工程系成功」這個張力，後來變成他能用人文視角看技術產業的原因。'}, {'label': '轉去念商學', 'plausibility': 'structural', 'note': '同代華人留學生有人選哈佛商學院。但少了 engineering hands-on，後來 TI 的技術職位無法擔任，也無法理解半導體製程的精密性。'}]}, {'id': 'korea-war-civilian', 'year': 1952, 'age': 21, 'type': 'event', 'theme': 'homeland', 'label': 'MIT 畢業遇韓戰，外國學生身份無法進美國軍方相關工作', 'scene': '畢業時正值韓戰期間，國防工業對外籍生關閉。'}, {'id': 'sylvania', 'year': 1955, 'age': 24, 'type': 'choice', 'theme': 'expert-leader', 'scene': '畢業三年後找工作機會', 'chose': {'label': '進希凡尼亞做半導體三年', 'consequence': '首次接觸半導體行業。當時這個產業還在起步階段，但他敏銳察覺巨大潛力。學到半導體製程基礎，也培養對技術細節的關注。'}, 'alternatives': [{'label': '進其他成熟產業', 'plausibility': 'structural', 'note': '1950 年代的主流選擇是汽車、機械、化工。如果選成熟產業，不會在半導體萌芽期就累積經驗，後來 TI 的機會不會降臨。'}]}, {'id': 'ti-1958', 'year': 1958, 'age': 27, 'type': 'choice', 'theme': 'expert-leader', 'scene': '德州儀器（TI）正積極發展半導體業務', 'chose': {'label': '加入 TI 從半導體工程師做起', 'consequence': '改善公司製程、提高良率、節省成本。25 年從工程師升到副總，是 TI 改變他一生的舞台。'}, 'alternatives': [{'label': '留在希凡尼亞', 'plausibility': 'structural', 'note': '希凡尼亞後來逐漸退出半導體領域。如果留下，事業天花板會非常明顯。'}, {'label': '創業', 'plausibility': 'structural', 'note': '同期有人選擇離開大公司創業（如 Intel 創辦人 Noyce / Moore 1968 年離開 Fairchild）。但張忠謀走「大公司內部成長」路徑長達 25 年，這個耐性後來反而成為台積電「打長期仗」文化的根。'}]}, {'id': 'stanford-phd', 'year': 1961, 'age': 30, 'type': 'choice', 'theme': 'expert-leader', 'scene': 'TI 支持他前往史丹佛攻讀電機工程博士', 'chose': {'label': '念博士', 'consequence': '1964 年拿史丹佛 EE PhD。回 TI 後升上重要管理職（鍺、矽電晶體、IC 部門總經理）。技術 + 管理雙軌。'}, 'alternatives': [{'label': '只當工程師不念博士', 'plausibility': 'structural', 'note': '同代很多工程師不念博士，職涯天花板大致是 senior engineer / staff engineer。對於走技術管理線、後來坐到副總，PhD 是隱形必需品。'}]}, {'id': 'vp-1972', 'year': 1972, 'age': 41, 'type': 'choice', 'theme': 'expert-leader', 'scene': '在 TI 從工程師一路升上去 14 年後', 'chose': {'label': '升任德儀集團副總經理 + 半導體集團總經理', 'consequence': '當時美國大型企業中最高階的華人高管之一。突破種族天花板。負責 TI 最重要的業務部門。'}, 'alternatives': [{'label': '跳槽到競爭對手', 'plausibility': 'structural', 'note': '70 年代 Intel / AMD / Motorola 都在搶半導體高管。如果跳槽，可能拿到 CEO 級職位但失去 TI 累積的政治資本與人脈。'}]}, {'id': 'itri-call', 'year': 1985, 'age': 54, 'type': 'choice', 'theme': 'homeland', 'scene': '工研院董事長徐賢修、行政院長俞國華、政委李國鼎力邀', 'chose': {'label': '回台灣擔任工研院院長', 'consequence': '54 歲，在美國有成功事業與優渥生活。回台是充滿風險的決定。但這是台積電誕生的前提——沒有工研院院長身份，沒有後來的政府支持與股權結構。'}, 'alternatives': [{'label': '留在美國', 'plausibility': 'structural', 'note': '同代華人高管多數選擇留美直到退休。如果留下，職涯穩定但不會有台積電。台灣半導體產業發展軌跡會完全不同。'}, {'label': '回中國大陸', 'plausibility': 'structural', 'note': '1985 年中國改革開放第七年，亦曾邀請海外華人技術領袖。如果選大陸，會被綁進國家半導體計畫（如後來的中芯），路徑與商業模式自由度都不同。'}]}, {'id': 'tsmc-foundry', 'year': 1987, 'age': 56, 'type': 'choice', 'theme': 'business-model', 'scene': '工研院院長期間，思考一個革命性商業模式', 'chose': {'label': '創立台積電 + 提出「專業晶圓代工」純代工模式', 'consequence': '1987/2/21 成立，總投資約 1.45 億美元。打破當時 IDM（整合元件製造商）主流模式。客戶不必投入巨資建廠就能設計晶片。後來重塑全球半導體產業生態，催生 fabless 產業。'}, 'alternatives': [{'label': '走傳統 IDM 模式（自己設計+製造）', 'plausibility': 'structural', 'note': '當時主流模式（Intel、TI、Motorola 都是 IDM）。如果選 IDM，台積電會跟韓國三星、日本 NEC 同象限競爭，多半會輸。代工模式才是繞過西方 IDM 主場的關鍵。'}, {'label': '只做設計不做製造', 'plausibility': 'structural', 'note': '另一個方向：台版 fabless（如後來的聯發科）。但 1987 年台灣設計能力遠不及製造潛力，這條路會起步太晚。'}, {'label': '不創公司，留在工研院做政策', 'plausibility': 'structural', 'note': '部分海外回國技術領袖選擇純政策角色。如果如此，台積電不會出現，台灣半導體會多十年才追上韓國。'}]}, {'id': 'retire-2005', 'year': 2005, 'age': 74, 'type': 'choice', 'theme': 'succession', 'scene': '台積電已是全球代工龍頭', 'chose': {'label': '第一次退休 / 執行長交給蔡力行 / 自己保留董事長', 'consequence': '精心準備的接班計畫。為企業永續發展鋪路。但留住董事長職位讓他保有戰略決策權。'}, 'alternatives': [{'label': '完全退出', 'plausibility': 'structural', 'note': '完全退休是「乾淨退出」典範（如 Bill Gates 2008 退出微軟日常）。但 2008 金融危機如果張忠謀完全離場，台積電可能找不到回神能力。保留董事長是後來能復出的關鍵。'}]}, {'id': 'comeback-2009', 'year': 2009, 'age': 78, 'type': 'choice', 'theme': 'succession', 'scene': '2008 全球金融危機重創台積電。業績下滑、競爭加劇', 'chose': {'label': '78 歲復出重新擔任執行長', 'consequence': '穩定市場信心、領導公司度過困難。順便培養劉德音與魏哲家。「老將回鍋救火」的經典案例。'}, 'alternatives': [{'label': '不復出讓蔡力行硬撐', 'plausibility': 'structural', 'note': '尊重既定接班計畫的另一條路。但金融危機 + 接班人威信不足的雙重壓力，台積電可能失去 28nm 製程的關鍵機會窗。'}]}, {'id': 'retire-2018', 'year': 2018, 'age': 87, 'type': 'choice', 'theme': 'succession', 'scene': '台積電在他第二輪 9 年領導後達到製程全球領先', 'chose': {'label': '正式退休 + 建立雙首長制（劉德音董事長 / 魏哲家 CEO）', 'consequence': '功成身退典範。雙首長制平衡對外與對內。31 年傳奇生涯結束。被視為企業接班的教科書案例。'}, 'alternatives': [{'label': '單一接班人', 'plausibility': 'structural', 'note': '美國企業傳統路徑（Apple Cook / Microsoft Nadella 都是單一接班）。但台積電規模 + 兩位接班人都很強，雙首長制避免「兩虎相爭」也讓彼此互補。'}, {'label': '繼續任 90 歲', 'plausibility': 'structural', 'note': 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'}]}]}"
+lifeTree:
+  protagonist: '張忠謀（Morris Chang）'
+  birthYear: 1931
+  span: '1931–'
+  source:
+    article: 'knowledge/People/張忠謀.md'
+    commit: '2acf410b'
+    commitDate: '2026-03-17'
+    extractedBy: 'Taiwan.md (Semiont) β-r5'
+    extractedAt: '2026-04-26 13:30 +0800'
+    note: '原文無 footnote，source 推測基於 §參考資料區（自傳 / TSMC 年報 / 維基 / 工研院 / 清大）+ 公開歷史紀錄。少數心理動機 alternative 標 [推測]。'
+  intro: '一個 17 歲流亡到香港、18 歲進哈佛、19 歲轉 MIT 工程的中國銀行家之子，54 歲離開美國副總職位回台灣創立台積電。這棵樹列出他每次跨界（地理、技能、商業模式、世代）選的路，也列出他沒選的——從哈佛文學的延續到留美安全路徑到 IDM 模式的延續。'
+  themes:
+    - id: 'homeland'
+      label: '海外 vs 故土'
+      color: '#10B981'
+    - id: 'expert-leader'
+      label: '工程師 vs 管理者'
+      color: '#8B5CF6'
+    - id: 'business-model'
+      label: '自製 vs 代工'
+      color: '#F59E0B'
+    - id: 'succession'
+      label: '在位 vs 傳承'
+      color: '#EC4899'
+  nodes:
+    - id: 'birth'
+      year: 1931
+      age: 0
+      type: 'given'
+      theme: 'homeland'
+      label: '出生於浙江寧波'
+      scene: '父親張蔚觀是銀行家，母親徐君偉出身書香門第。動盪年代的書香家庭。'
+    - id: 'hong-kong'
+      year: 1948
+      age: 17
+      type: 'choice'
+      theme: 'homeland'
+      scene: '童年在寧波 → 南京 → 廣州 → 香港 → 重慶 → 上海 → 香港之間遷徙。1948 年國共內戰，17 歲隨家人再度遷往香港'
+      chose:
+        label: '從香港赴美求學'
+        consequence: '中學讀的是重慶南開與上海南洋模範；1949 年從香港赴美進哈佛。少年時代一路遷徙，讓他對「邊緣身份在大國體制內運作」有早期感覺。'
+      alternatives:
+        - label: '留在中國大陸'
+          plausibility: 'structural'
+          note: '同代多數家庭沒能跟著遷移到香港。1949 後留在中國的銀行家後代命運與張忠謀完全分流，不會出現在矽谷。'
+        - label: '直接赴美'
+          plausibility: 'structural'
+          note: '少數富裕家庭 1940 年代末就直接送孩子赴美。沒有香港四年，英文與國際化基礎會更弱，哈佛申請會更難。'
+    - id: 'harvard-mit'
+      year: 1950
+      age: 19
+      type: 'choice'
+      theme: 'expert-leader'
+      scene: '1949 年進哈佛念文學。一年後因對文學缺乏熱情、加上經濟考量'
+      chose:
+        label: '轉學 MIT 機械工程'
+        consequence: 'MIT 嚴謹工程教育培養邏輯思維與解決問題能力。1952 拿機械工程學士。這個轉軌是「藝術 → 技術」的關鍵 fork。'
+      alternatives:
+        - label: '留在哈佛念文學'
+          plausibility: 'speculative'
+          note: '[推測] 如果留下，可能走學術或文學路徑。完全不會出現半導體事業。但「為什麼一個對文學有興趣的人能在 MIT 工程系成功」這個張力，後來變成他能用人文視角看技術產業的原因。'
+        - label: '轉去念商學'
+          plausibility: 'structural'
+          note: '同代華人留學生有人選哈佛商學院。但少了 engineering hands-on，後來 TI 的技術職位無法擔任，也無法理解半導體製程的精密性。'
+    - id: 'korea-war-civilian'
+      year: 1952
+      age: 21
+      type: 'event'
+      theme: 'homeland'
+      label: 'MIT 畢業遇韓戰，外國學生身份無法進美國軍方相關工作'
+      scene: '畢業時正值韓戰期間，國防工業對外籍生關閉。'
+    - id: 'sylvania'
+      year: 1955
+      age: 24
+      type: 'choice'
+      theme: 'expert-leader'
+      scene: '畢業三年後找工作機會'
+      chose:
+        label: '進希凡尼亞做半導體三年'
+        consequence: '首次接觸半導體行業。當時這個產業還在起步階段，但他敏銳察覺巨大潛力。學到半導體製程基礎，也培養對技術細節的關注。'
+      alternatives:
+        - label: '進其他成熟產業'
+          plausibility: 'structural'
+          note: '1950 年代的主流選擇是汽車、機械、化工。如果選成熟產業，不會在半導體萌芽期就累積經驗，後來 TI 的機會不會降臨。'
+    - id: 'ti-1958'
+      year: 1958
+      age: 27
+      type: 'choice'
+      theme: 'expert-leader'
+      scene: '德州儀器（TI）正積極發展半導體業務'
+      chose:
+        label: '加入 TI 從半導體工程師做起'
+        consequence: '改善公司製程、提高良率、節省成本。25 年從工程師升到副總，是 TI 改變他一生的舞台。'
+      alternatives:
+        - label: '留在希凡尼亞'
+          plausibility: 'structural'
+          note: '希凡尼亞後來逐漸退出半導體領域。如果留下，事業天花板會非常明顯。'
+        - label: '創業'
+          plausibility: 'structural'
+          note: '同期有人選擇離開大公司創業（如 Intel 創辦人 Noyce / Moore 1968 年離開 Fairchild）。但張忠謀走「大公司內部成長」路徑長達 25 年，這個耐性後來反而成為台積電「打長期仗」文化的根。'
+    - id: 'stanford-phd'
+      year: 1961
+      age: 30
+      type: 'choice'
+      theme: 'expert-leader'
+      scene: 'TI 支持他前往史丹佛攻讀電機工程博士'
+      chose:
+        label: '念博士'
+        consequence: '1964 年拿史丹佛 EE PhD。回 TI 後升上重要管理職（鍺、矽電晶體、IC 部門總經理）。技術 + 管理雙軌。'
+      alternatives:
+        - label: '只當工程師不念博士'
+          plausibility: 'structural'
+          note: '同代很多工程師不念博士，職涯天花板大致是 senior engineer / staff engineer。對於走技術管理線、後來坐到副總，PhD 是隱形必需品。'
+    - id: 'vp-1972'
+      year: 1972
+      age: 41
+      type: 'choice'
+      theme: 'expert-leader'
+      scene: '在 TI 從工程師一路升上去 14 年後'
+      chose:
+        label: '升任德儀集團副總經理 + 半導體集團總經理'
+        consequence: '當時美國大型企業中最高階的華人高管之一。突破種族天花板。負責 TI 最重要的業務部門。'
+      alternatives:
+        - label: '跳槽到競爭對手'
+          plausibility: 'structural'
+          note: '70 年代 Intel / AMD / Motorola 都在搶半導體高管。如果跳槽，可能拿到 CEO 級職位但失去 TI 累積的政治資本與人脈。'
+    - id: 'itri-call'
+      year: 1985
+      age: 54
+      type: 'choice'
+      theme: 'homeland'
+      scene: '工研院董事長徐賢修、行政院長俞國華、政委李國鼎力邀'
+      chose:
+        label: '回台灣擔任工研院院長'
+        consequence: '54 歲，在美國有成功事業與優渥生活。回台是充滿風險的決定。但這是台積電誕生的前提——沒有工研院院長身份，沒有後來的政府支持與股權結構。'
+      alternatives:
+        - label: '留在美國'
+          plausibility: 'structural'
+          note: '同代華人高管多數選擇留美直到退休。如果留下，職涯穩定但不會有台積電。台灣半導體產業發展軌跡會完全不同。'
+        - label: '回中國大陸'
+          plausibility: 'structural'
+          note: '1985 年中國改革開放第七年，亦曾邀請海外華人技術領袖。如果選大陸，會被綁進國家半導體計畫（如後來的中芯），路徑與商業模式自由度都不同。'
+    - id: 'tsmc-foundry'
+      year: 1987
+      age: 56
+      type: 'choice'
+      theme: 'business-model'
+      scene: '工研院院長期間，思考一個革命性商業模式'
+      chose:
+        label: '創立台積電 + 提出「專業晶圓代工」純代工模式'
+        consequence: '1987/2/21 成立，總投資約 1.45 億美元。打破當時 IDM（整合元件製造商）主流模式。客戶不必投入巨資建廠就能設計晶片。後來重塑全球半導體產業生態，催生 fabless 產業。'
+      alternatives:
+        - label: '走傳統 IDM 模式（自己設計+製造）'
+          plausibility: 'structural'
+          note: '當時主流模式（Intel、TI、Motorola 都是 IDM）。如果選 IDM，台積電會跟韓國三星、日本 NEC 同象限競爭，多半會輸。代工模式才是繞過西方 IDM 主場的關鍵。'
+        - label: '只做設計不做製造'
+          plausibility: 'structural'
+          note: '另一個方向：台版 fabless（如後來的聯發科）。但 1987 年台灣設計能力遠不及製造潛力，這條路會起步太晚。'
+        - label: '不創公司，留在工研院做政策'
+          plausibility: 'structural'
+          note: '部分海外回國技術領袖選擇純政策角色。如果如此，台積電不會出現，台灣半導體會多十年才追上韓國。'
+    - id: 'retire-2005'
+      year: 2005
+      age: 74
+      type: 'choice'
+      theme: 'succession'
+      scene: '台積電已是全球代工龍頭'
+      chose:
+        label: '第一次退休 / 執行長交給蔡力行 / 自己保留董事長'
+        consequence: '精心準備的接班計畫。為企業永續發展鋪路。但留住董事長職位讓他保有戰略決策權。'
+      alternatives:
+        - label: '完全退出'
+          plausibility: 'structural'
+          note: '完全退休是「乾淨退出」典範（如 Bill Gates 2008 退出微軟日常）。但 2008 金融危機如果張忠謀完全離場，台積電可能找不到回神能力。保留董事長是後來能復出的關鍵。'
+    - id: 'comeback-2009'
+      year: 2009
+      age: 78
+      type: 'choice'
+      theme: 'succession'
+      scene: '2008 全球金融危機重創台積電。業績下滑、競爭加劇'
+      chose:
+        label: '78 歲復出重新擔任執行長'
+        consequence: '穩定市場信心、領導公司度過困難。順便培養劉德音與魏哲家。「老將回鍋救火」的經典案例。'
+      alternatives:
+        - label: '不復出讓蔡力行硬撐'
+          plausibility: 'structural'
+          note: '尊重既定接班計畫的另一條路。但金融危機 + 接班人威信不足的雙重壓力，台積電可能失去 28nm 製程的關鍵機會窗。'
+    - id: 'retire-2018'
+      year: 2018
+      age: 87
+      type: 'choice'
+      theme: 'succession'
+      scene: '台積電在他第二輪 9 年領導後達到製程全球領先'
+      chose:
+        label: '正式退休 + 建立雙首長制（劉德音董事長 / 魏哲家 CEO）'
+        consequence: '功成身退典範。雙首長制平衡對外與對內。31 年傳奇生涯結束。被視為企業接班的教科書案例。'
+      alternatives:
+        - label: '單一接班人'
+          plausibility: 'structural'
+          note: '美國企業傳統路徑（Apple Cook / Microsoft Nadella 都是單一接班）。但台積電規模 + 兩位接班人都很強，雙首長制避免「兩虎相爭」也讓彼此互補。'
+        - label: '繼續任 90 歲'
+          plausibility: 'structural'
+          note: 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '89b721a3d'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
 sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
-translatedAt: '2026-09-20T00:52:44+08:00'
+translatedAt: '2026-11-18T15:04:56.198670+00:00'
 ---
 
 # Zhang Zhongmou (Morris Chang)

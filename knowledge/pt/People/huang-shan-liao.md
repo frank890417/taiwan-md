@@ -23,15 +23,21 @@ imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
 readingTime: 12
 sporeLinks:
-  [
-    "{'id': 128, 'platform': 'threads', 'date': '2026-06-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'}",
-    "{'id': 129, 'platform': 'x', 'date': '2026-06-07', 'url': 'https://x.com/taiwandotmd/status/2063604185912987689'}",
-  ]
+  - id: 128
+    platform: 'threads'
+    date: '2026-06-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZSRQKnk3Vm'
+  - id: 129
+    platform: 'x'
+    date: '2026-06-07'
+    url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce59'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-07-27T18:30:13+08:00'
+translatedAt: '2026-11-18T14:28:05.371397+00:00'
 ---
 
 # Huang Shan-liao: a roupa do campeão mundial ninguém via, ele passou a vender "o consolo de uma frase"

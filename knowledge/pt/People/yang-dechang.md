@@ -23,11 +23,13 @@ image: '/article-images/people/edward-yang-beach-set-1983.webp'
 imageCredit: '中央電影公司、新藝城影業（香港）／彭鎧立提供，寄存於國家電影及視聽文化中心'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.tfam.museum/yiyiey'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/楊德昌.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c2aa8f15ab2b1700'
 sourceBodyHash: 'sha256:7119ad62eb825546'
-translatedAt: '2026-07-28T19:24:16+08:00'
+translatedAt: '2026-11-18T14:11:08.609531+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Edward Yang (1947-2007) trabalhou sete anos como engenheiro de software para submarinos nos EUA, abandonando tudo aos trinta e poucos para voltar a Taiwan e aprender cinema. Com a precisão de storyboards desenhados à mão por um engenheiro, usou a lente mais fria para dissecar o desencanto da classe média de Taipé, criando obras como _A Brighter Summer Day_ e _Yi Yi_, hoje listadas entre as cem melhores da história do cinema, e tornando-se o primeiro taiwanês a ganhar o prêmio de melhor diretor em Cannes. Mas essa "frieza" teve seu preço — xingou atores até fazê-los enfrentar a parede, afastou-se de Hou Hsiao-hsien, e fez com que _Yi Yi_ não estreasse nos cinemas de Taiwan durante sua vida. Ele nunca filmou a história dos outros, mas o nosso lado invisível.
