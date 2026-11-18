@@ -32,11 +32,13 @@ sporeLinks:
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '7e660a586'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:11f4b1d06ffc2776'
 sourceBodyHash: 'sha256:a42a37a855f0ab8b'
-translatedAt: '2026-10-15T00:20:33.850250+00:00'
+translatedAt: '2026-11-18T16:55:14.887813+00:00'
 ---
 
 전 세계가 수억 달러어치 연산력으로 AI를 쫓고 있을 때, 기계 추론의 방식을 바꾼 한 편의 논문은 약 5천 달러밖에 들이지 않았다.

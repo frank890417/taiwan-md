@@ -22,11 +22,13 @@ featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 22
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡健雅.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:bbe9414090e28df8'
 sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
-translatedAt: '2026-09-21T21:38:54+08:00'
+translatedAt: '2026-11-18T16:26:14.965182+00:00'
 ---
 
 # 채건아: 네 번의 금구슬 노래여왕, 싱가포르인은 어떻게 대만을 무대로 만들었는가

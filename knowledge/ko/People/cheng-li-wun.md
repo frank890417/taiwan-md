@@ -1,26 +1,28 @@
 ---
-title: '정리문'
-description: '1988년 타이베이대학 정문에서 대만 독립을 위해 단식한 운동권 소녀에서, 2026년 베이징에서 시진핑에게 "양안 동포는 모두 중국인이다"라고 말한 국민당 주석까지. 이 궤적 위에서 무슨 일이 있었는가?'
+title: '정리원'
+description: '1988년 타이베이 대학교 교문 앞에서 대만 독립을 외치며 단식하던 학생 운동가 소녀에서, 2026년 베이징에서 시진핑에게 "양안 동포는 모두 중국인입니다"라고 말하는 국민당 주석까지. 이 궤적에는 어떤 일들이 있었을까?'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
+tags: ['정치인', '국민당', '양안 관계', '학생 운동 세대', '2026']
 subcategory: '政治人物'
-tags: ['政治人物', '國民黨', '兩岸關係', '學運世代', '2026']
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 22
     platform: 'threads'
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
-translatedAt: '2026-06-10T16:42:09Z'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T16:23:48.208446+00:00'
 ---
 
 # 정리문

@@ -2,18 +2,21 @@
 title: '"감성 노트북: ‘암흑’에서 백만 구독자까지, Roblox 세대의 데이터 큐레이터를 정의하다"'
 description: '"2023년, 본명 지즈셴(周智宣)인 ‘감성 노트북(有感筆電)’이 유튜브 백만 구독자를 달성했다. 초기 마인크래프트 실황에서 로블록스라는 블루오션에 집중하며, 칭화대학(淸華大學) 휴학생인 그는 ‘매주 월수금마다 정시에 지각한다’는 자조 섞인 유머와 화면 뒤에서의 극단적 데이터 자기 규율을 통해 실물 서적과 디스코드를 아우르는 디지털 커뮤니티 제국을 구축했다."'
 date: 2026-04-24
+category: 'People'
 tags:
   ['유튜버', '로블록스', '지즈셴', '게임 실황', '디지털 원주민', '자기 규율']
-category: 'People'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-05-02T01:17:15+08:00'
+translatedAt: '2026-11-18T16:07:07.025779+00:00'
 ---
 
 > **30초 개요:**

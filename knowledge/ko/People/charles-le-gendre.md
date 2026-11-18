@@ -1,28 +1,32 @@
 ---
-title: '이선득: 조약을 맺은 자와 팔아넘긴 자는 같은 사람'
-description: '1867년, 미국 상선 로버호(羅發號)가 恒春반도에서 난파하여 14명이 파족(排灣族)에게 살해되었다. 미국 영사 이선득은 여덟 차례 타이에 건너가 교섭하여, 청 정부의 참여 없이 원주민 추장 탁극독(卓杞篤)과 협약을 체결했다. 그리고 그는 포르모사에 대한 모든 지식을 가지고 일본 정부로 이직했다. 5년 후, 일본은 그의 정보를 활용하여 타이에 출병했다.'
+title: '찰스 래프: 계약자와 배신자는 동일 인물이다'
+description: '1867년, 미국 상선 로퍼호가 헝춘 반도에서 난파되어 14명이 파이완족에게 살해당하는 사건이 발생했다. 미국 영사 찰스 래프는 여덟 차례 대만을 방문하여 협상한 끝에, 청나라 정부의 참여 없이 원주민 추장 쭈오치두와 협약을 체결했다. 이후 그는 포르모사(대만)에 대한 모든 지식을 가지고 일본 정부로 자리를 옮겼다. 5년 후, 일본은 그가 제공한 정보를 바탕으로 대만에 군대를 파병했다.'
 date: 2026-04-12
-category: People
-subcategory: 歷史人物
+category: 'People'
 tags:
-  - 羅發號事件
-  - 牡丹社事件
-  - 原住民外交
-  - 李仙得
-  - 卓杞篤
-  - 19世紀
-  - 美國領事
-  - 斯卡羅
+  [
+    '로퍼호 사건',
+    '무단사 사건',
+    '원주민 외교',
+    '찰스 래프',
+    '쭈오치두',
+    '19세기',
+    '미국 영사',
+    '스카로',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
-author: Taiwan.md
-translatedFrom: People/李仙得.md
-sourceCommitSha: '4b6d28c5'
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/李仙得.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: 2026-05-01T20:54:10+08:00
-image: ''
+translatedAt: '2026-11-18T17:07:51.244059+00:00'
 ---
 
 # 이선득: 조약을 맺은 자와 팔아넘긴 자는 같은 사람
