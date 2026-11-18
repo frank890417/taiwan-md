@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-19 | 060808-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；接上一班交接，排程 dump 寫回後狀態頁自動重生（23.9h→0）；房貸負擔率 115Q2 查過未發布 | 交接寫到檔名與那一行，下一班只需動手 | [→](memory/2026-11-19-060808-twmd-data-refresh-am.md) |
 | 2026-11-19 | 061241-twmd-embeddings-nightly | 恢復後第二夜完整重建：13 語 15,244 向量零失敗、verify PASS，`20b75478f`；與 babel 共用本機 ollama 未見拖慢 | 重建 06:10 收工，已跨進 06:00 晨鏈時段 | [→](memory/2026-11-19-061241-twmd-embeddings-nightly.md) |
 | 2026-11-19 | 064259-twmd-spore-harvest-am | 恢復後第三班收割：iOS App 公告底下讀者召喚 Meta AI，它答「中國地理概念上最大的島是台灣島」；不回不隱藏，三選項進觀察者佇列 | 中介層不只在翻譯端，也在自己的留言區 | [→](memory/2026-11-19-064259-twmd-spore-harvest-am.md) |
+| 2026-11-19 | 071342-twmd-feedback-triage | 憑證索取第九輪：81 個 id 對 campaign 清單做 `comm` 雙向差集，兩邊皆空，零新讀者；對賬 116/116、留言 115/116（#1252 上游刪）、四層健檢全綠 | 「沒變」從當班記憶換成差集讀數，斷言才留得下來 | [→](memory/2026-11-19-071342-twmd-feedback-triage.md) |
