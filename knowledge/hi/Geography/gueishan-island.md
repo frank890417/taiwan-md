@@ -40,9 +40,11 @@ relatedDiary:
     '2026-06-24-龜山島-evolve',
     '2026-06-24-龜山島-勘誤',
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/龜山島.md'
-sourceCommitSha: '47ff13e07'
-sourceContentHash: 'sha256:acb674b180da7910'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:c7a87740708e08bc'
 sourceBodyHash: 'sha256:49a1234928ae1d8e'
 translatedAt: '2026-09-19T13:45:32.928670+00:00'
 ---

@@ -39,9 +39,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-25'
     url: 'https://x.com/taiwandotmd/status/2081045126898684051'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '83975eef3'
-sourceContentHash: 'sha256:2e2432d1a718986d'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:79a50a0770daf955'
 sourceBodyHash: 'sha256:725b400b5a230de4'
 translatedAt: '2026-09-26T12:49:59.255450+00:00'
 ---

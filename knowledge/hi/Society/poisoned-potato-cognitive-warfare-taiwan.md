@@ -20,9 +20,11 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 image: '/article-images/society/du-mali-maine-potato-1940.webp'
 imageAlt: 'मेन के स्थान पर Aroostook County का आलू का फसल मौसम (1940, अमेरिकी कृषि सुरक्षा ब्यूरो द्वारा खींचा गया; स्कूल आलू की फसल पूरी होने से पहले खुलता नहीं है) — आलू का अमेरिका से तैवान तक पहुँचने से पहले का असली स्वरूप'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:6f804a54cc46f969'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-26T09:37:23.248442+00:00'
 ---

@@ -31,9 +31,11 @@ imageCredit: 'SSR2000 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gate_of_Yung_Ta_Institute_of_Technology_%26_Commerce.JPG'
 relatedDiary: ['2026-07-16-213425-highered-evolve']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
-sourceCommitSha: 'fa44ba5a9'
-sourceContentHash: 'sha256:75def73de8a38979'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:2a4f80e7fc721f19'
 sourceBodyHash: 'sha256:fc5314c473c1914f'
 translatedAt: '2026-09-26T02:48:12.538297+00:00'
 ---

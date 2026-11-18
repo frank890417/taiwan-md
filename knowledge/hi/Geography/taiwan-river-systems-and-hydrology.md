@@ -19,8 +19,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: 'ff1ce7d66'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:f2ac5aec701df4d2'
 sourceBodyHash: 'sha256:4cdc3e89f08b13d3'
 translatedAt: '2026-09-25T16:58:27+08:00'

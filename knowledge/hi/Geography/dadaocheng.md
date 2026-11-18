@@ -34,9 +34,11 @@ image: /article-images/geography/dadaocheng-aerial-view-2010s.webp
 imageCredit: Yu tptw
 imageLicense: Attribution (CC)
 imageSource: https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_Dihua_Street.jpg
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/大稻埕.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:a74434c8289b52c5'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:1aab357813ec41e3'
 sourceBodyHash: 'sha256:4f2293becc2b45da'
 translatedAt: '2026-09-24T21:12:40.625335+00:00'
 ---

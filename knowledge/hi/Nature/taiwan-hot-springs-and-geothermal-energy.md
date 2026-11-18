@@ -18,9 +18,11 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:1d2aaaa2ec78974a'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: '2026-07-25T06:36:46.571512+00:00'
 ---

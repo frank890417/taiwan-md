@@ -36,8 +36,10 @@ evolveHistory:
     linesBefore: 165
     linesAfter: 302
     reason: '全面進化 2026-11-04：約 3,532 字卻 0 腳註、標題只有人名，主查詢「齊柏林」排名 3.0、點擊率 0.4%。改用一手來源重寫：墜機段依飛安會最終調查報告，《看見台灣》票房與行政院國土保育專案小組、清境、亞泥判決等後續都附出處。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/齊柏林.md'
-sourceCommitSha: '50face4e0'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:efe5b480b7638fd0'
 sourceBodyHash: 'sha256:5b8e0366beca56d2'
 translatedAt: '2026-11-04T09:57:17.362447+00:00'

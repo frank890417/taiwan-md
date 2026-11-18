@@ -9,8 +9,10 @@ tags: ['राजनीति', 'इतिहास', 'मार्शल लॉ
 lastVerified: 2026-03-31
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔣中正.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: '2026-07-25T18:48:02+08:00'

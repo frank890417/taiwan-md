@@ -28,9 +28,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066559522156748815'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/迷音Miin.md'
-sourceCommitSha: 'ce36d5427'
-sourceContentHash: 'sha256:ee3a57f17c0a8711'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:e317c3018b82f2b6'
 sourceBodyHash: 'sha256:bbf79206e74e0a59'
 translatedAt: '2026-09-26T05:30:14.122499+00:00'
 ---

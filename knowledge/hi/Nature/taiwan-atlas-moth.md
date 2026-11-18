@@ -19,8 +19,10 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: '38a5f7e2a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a407c4cd5d546815'
 sourceBodyHash: 'sha256:94480d54498a46b7'
 translatedAt: '2026-10-10T23:27:02+08:00'

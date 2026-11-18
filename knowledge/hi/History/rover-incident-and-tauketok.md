@@ -16,8 +16,10 @@ tags:
 lastVerified: '2026-04-27'
 lastHumanReview: 'false'
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/羅發號事件與卓杞篤.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:4e90be2fbc74d7ed'
 sourceBodyHash: 'sha256:38c21c047f01bdbf'
 translatedAt: '2026-07-25T01:31:56+08:00'

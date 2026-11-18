@@ -17,8 +17,10 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：大立光電.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-07-26T03:58:12+08:00'

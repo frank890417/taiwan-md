@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-05-05
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/सोचो-फोरम.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/想想論壇.md'
-sourceCommitSha: '4cd497a8f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:bcaa0405d5ac9323'
 sourceBodyHash: 'sha256:320656ee0819969f'
 translatedAt: '2026-07-25T12:45:43+08:00'

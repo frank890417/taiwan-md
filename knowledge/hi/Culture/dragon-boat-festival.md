@@ -32,9 +32,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-19'
     url: 'https://x.com/taiwandotmd/status/2067914171996614897'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/端午節.md'
-sourceCommitSha: '58fa84f01'
-sourceContentHash: 'sha256:c31335e314326f55'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:aac6019521f0bc32'
 sourceBodyHash: 'sha256:5410e4f9f881b327'
 translatedAt: '2026-09-26T04:38:37.130262+00:00'
 ---

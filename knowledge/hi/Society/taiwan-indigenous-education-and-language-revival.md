@@ -23,8 +23,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
 translatedAt: '2026-09-27T04:41:49+08:00'

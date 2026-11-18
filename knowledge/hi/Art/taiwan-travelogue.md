@@ -33,9 +33,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-23'
     url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '2187c1c9c'
-sourceContentHash: 'sha256:ba5c01d21a2dcdbc'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:d4818d717761979b'
 sourceBodyHash: 'sha256:45ca26bedda5e227'
 translatedAt: '2026-09-23T03:20:30.701269+00:00'
 ---

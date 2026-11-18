@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/營養午餐.md'
-sourceCommitSha: 'f3d417898'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e889129bd92bf0de'
 sourceBodyHash: 'sha256:80754bec92cf76d2'
 translatedAt: '2026-10-26T02:10:06.776767+00:00'

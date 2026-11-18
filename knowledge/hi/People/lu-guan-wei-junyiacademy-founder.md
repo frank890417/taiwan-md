@@ -27,9 +27,11 @@ imageCredit: '總統府 / 攝影 Mori'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chairman_of_Junyi_Academy_Kuan-wei_Lu_20201123.jpg'
 relatedDiary: ['2026-06-14-013210-呂冠緯-evolve']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/呂冠緯.md'
-sourceCommitSha: '0bedbf853'
-sourceContentHash: 'sha256:8eb31268ec4f6e73'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:31321e2281658622'
 sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-09-20T14:06:30.475721+00:00'
 ---

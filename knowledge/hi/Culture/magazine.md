@@ -22,8 +22,10 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/雜誌.md'
-sourceCommitSha: 'e0fa60041'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ee59ed48db607f3f'
 sourceBodyHash: 'sha256:26d93e9626e6b86e'
 translatedAt: '2026-07-28T06:16:00+08:00'

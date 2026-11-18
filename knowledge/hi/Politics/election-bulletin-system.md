@@ -17,9 +17,11 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/選舉公報.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:48c230f3d6f5b004'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:dbb211cf0ddd5fb6'
 sourceBodyHash: 'sha256:2cdc1f033ad2b6b9'
 translatedAt: '2026-08-02T15:53:20.809684+00:00'
 ---

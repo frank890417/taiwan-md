@@ -21,8 +21,10 @@ readingTime: 18
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: '22bfcbc53'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:9e576e02178fac1e'
 sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
 translatedAt: '2026-10-15T22:58:12.686215+00:00'

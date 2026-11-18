@@ -22,8 +22,10 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/劉安婷.md'
-sourceCommitSha: '75479a4ea'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3dee896f2b15c3b8'
 sourceBodyHash: 'sha256:efca1efad60ae65f'
 translatedAt: '2026-09-25T12:01:28+08:00'

@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'bfe3c4861'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e4fcea6f40bc1371'
 sourceBodyHash: 'sha256:f8c06621cad90a0b'
 translatedAt: '2026-10-15T23:07:12.903892+00:00'

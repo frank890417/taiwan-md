@@ -20,8 +20,10 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 researchReport: reports/research/2026-04/林良.md
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林良.md'
-sourceCommitSha: '9094012f4'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: '2026-09-09T15:32:21+08:00'

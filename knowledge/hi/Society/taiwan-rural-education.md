@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-09
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣偏鄉教育.md'
-sourceCommitSha: '4d620ce7b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1277fc2755a587fc'
 sourceBodyHash: 'sha256:64665163579f4d98'
 translatedAt: 2026-09-09T15:32:21+08:00
