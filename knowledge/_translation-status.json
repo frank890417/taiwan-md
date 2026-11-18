@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T16:42:56+08:00",
-    "zhCommitHead": "a5ddc6a64",
+    "lastUpdated": "2026-11-18T16:51:44+08:00",
+    "zhCommitHead": "ff66bbf72",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 677,
+        "fresh": 678,
         "stale": 48,
         "metadata_stale": 457,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "ko": {
@@ -52,41 +52,41 @@
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 685,
+        "fresh": 686,
         "stale": 48,
-        "metadata_stale": 450,
+        "metadata_stale": 449,
         "missing": 8,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 670,
-        "stale": 64,
+        "fresh": 671,
+        "stale": 63,
         "metadata_stale": 446,
         "missing": 11,
         "orphan": 0
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 671,
+        "fresh": 672,
         "stale": 58,
-        "metadata_stale": 454,
+        "metadata_stale": 453,
         "missing": 8,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1191,
-        "fresh": 682,
+        "fresh": 683,
         "stale": 54,
-        "metadata_stale": 448,
+        "metadata_stale": 447,
         "missing": 7,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1191,
-        "fresh": 665,
+        "fresh": 666,
         "stale": 65,
-        "metadata_stale": 445,
+        "metadata_stale": 444,
         "missing": 16,
         "orphan": 0
       },
@@ -1326,20 +1326,18 @@
         "pt": {
           "path": "pt/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
           "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "b4f3dab6",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:5ffbb5b925e1997f",
           "sourceBodyHash": "sha256:cda00c8983ea5b23",
-          "translatedAt": "2026-07-19T00:28:39+08:00",
+          "translatedAt": "2026-11-18T08:45:49.131369+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 46,
-          "bytes": 54532,
+          "bytes": 55294,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -2548,20 +2546,18 @@
         "fr": {
           "path": "fr/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "73443b2a",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:cd1df8dc4931d5ab",
           "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-06-10T16:45:50Z",
+          "translatedAt": "2026-11-18T08:43:02.163700+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 47788,
+          "bytes": 47853,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/indie-music-scene.md",
@@ -24560,20 +24556,18 @@
         "id": {
           "path": "id/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:e8afc225ea9e0107",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:0052f66a7d8738c5",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translatedAt": "2026-11-18T08:45:44.415841+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 36639,
+          "bytes": 37565,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/tsmc.md",
@@ -42875,8 +42869,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-11-18T07:45:31.741794+00:00",
-          "translationLastCommit": "09e2394e",
-          "translationLastModified": "2026-10-10T23:41:15+08:00",
+          "translationLastCommit": "ff66bbf7",
+          "translationLastModified": "2026-11-18T16:42:56+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 42447,
@@ -80788,8 +80782,8 @@
           "sourceContentHash": "sha256:c62b916ed21bb09b",
           "sourceBodyHash": "sha256:f87da2052ad611fa",
           "translatedAt": "2026-11-18T08:24:14.330793+00:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "ff66bbf7",
+          "translationLastModified": "2026-11-18T16:42:56+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 39091,
@@ -88298,20 +88292,18 @@
         "vi": {
           "path": "vi/Society/stray-animal-culture.md",
           "translatedFrom": "Society/台灣流浪動物文化.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:6b2ce60c50966bdc",
-          "sourceBodyHash": "sha256:6f79d66a90a09b62",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:d73033c3d023379b",
+          "sourceBodyHash": "sha256:452ee75046f1da55",
+          "translatedAt": "2026-11-18T08:45:10.459139+00:00",
           "translationLastCommit": "23f8c108",
           "translationLastModified": "2026-10-10T23:30:52+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 59585,
+          "bytes": 60948,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/stray-animal-culture.md",
@@ -96798,20 +96790,18 @@
         "hi": {
           "path": "hi/Nature/marine-pollution-governance-and-conservation.md",
           "translatedFrom": "Nature/台灣海洋污染治理與保育挑戰.md",
-          "sourceCommitSha": "1d54cbe52",
-          "sourceContentHash": "sha256:9d271528f9d62e05",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:f5827a0544e3df55",
           "sourceBodyHash": "sha256:c208c01efc93c70e",
-          "translatedAt": "2026-08-03T06:45:58.812154+00:00",
+          "translatedAt": "2026-11-18T00:51:44+08:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 72550,
+          "bytes": 76773,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/marine-pollution-governance-and-conservation.md",
@@ -175129,8 +175119,8 @@
           "sourceContentHash": "sha256:dd1dd6c92c65eddb",
           "sourceBodyHash": "sha256:33bbf00febca421e",
           "translatedAt": "2026-11-18T00:52:56+08:00",
-          "translationLastCommit": "8eee136e",
-          "translationLastModified": "2026-09-12T17:58:57+08:00",
+          "translationLastCommit": "ff66bbf7",
+          "translationLastModified": "2026-11-18T16:42:56+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 40500,
@@ -194729,7 +194719,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/nativist-literature-debate.md",
+          "translatedFrom": "History/鄉土文學論戰.md",
+          "sourceCommitSha": "fcf85cd76",
+          "sourceContentHash": "sha256:6fe4100e4991cfd3",
+          "sourceBodyHash": "sha256:86c3a63ca1392544",
+          "translatedAt": "2026-11-18T08:25:10.352973+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 51160,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
