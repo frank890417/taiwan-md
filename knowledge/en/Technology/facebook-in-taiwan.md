@@ -9,8 +9,10 @@ tags: ['Facebook', '社群媒體', '數位民主', '太陽花學運', '認知作
 readingTime: 28
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/Facebook.md'
-sourceCommitSha: 'ac86475b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:79e35442d2cf14fd'
 sourceBodyHash: 'sha256:5ed7f28c852729fe'
 translatedAt: '2026-06-16T17:13:49Z'

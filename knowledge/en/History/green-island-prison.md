@@ -23,12 +23,14 @@ readingTime: 20
 lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/綠島監獄.md'
 image: '/article-images/history/green-island-memorial-park-2016.webp'
 imageCredit: 'Naplee12 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Human_Rights_Memorial_Park_Lyudao.jpg'
-sourceCommitSha: 'bd0134b2'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:63c92f0dce6f2dff'
 sourceBodyHash: 'sha256:cad7f5c77e571b29'
 translatedAt: '2026-06-14T00:35:00+08:00'

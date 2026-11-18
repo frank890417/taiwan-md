@@ -10,8 +10,10 @@ readingTime: 10
 lastVerified: 2026-03-25
 lastHumanReview: true
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
 translatedAt: '2026-05-02T02:50:54+08:00'

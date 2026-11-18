@@ -20,8 +20,10 @@ readingTime: 18
 lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國定假日.md'
-sourceCommitSha: 'ddb9590b6'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:322c4c022d4678f9'
 sourceBodyHash: 'sha256:68d627d331e8bf54'
 translatedAt: '2026-06-20T00:37:13+08:00'

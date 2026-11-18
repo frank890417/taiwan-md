@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/曹興誠.md'
-sourceCommitSha: '6ffd92f94'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c4ee8c6545170422'
 sourceBodyHash: 'sha256:9a80a8cbdaaaf3e7'
 translatedAt: '2026-08-04T00:57:49+08:00'

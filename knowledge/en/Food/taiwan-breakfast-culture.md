@@ -27,9 +27,11 @@ imageAlt: 'A Taiwanese breakfast: a hamburger, an egg crepe, and a drink on the 
 imageCredit: 'K1234567890y / Wikimedia Commons'
 imageLicense: 'CC0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Breakfast_sold_in_taiwan.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣早餐文化.md'
-sourceCommitSha: 'ee6650052'
-sourceContentHash: 'sha256:499276bde9de600f'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:592a1ee77a9e83df'
 sourceBodyHash: 'sha256:be2608c0c19c56d2'
 translatedAt: '2026-09-24T02:40:21.617224+00:00'
 ---

@@ -21,8 +21,10 @@ readingTime: 14
 lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/蘋果西打.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:843fecc188f1e99a'
 sourceBodyHash: 'sha256:e2ac1f8b1495c588'
 translatedAt: '2026-06-16T16:59:03Z'

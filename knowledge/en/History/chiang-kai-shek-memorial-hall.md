@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-06-12T16:39:07Z'

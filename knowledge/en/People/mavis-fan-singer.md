@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/范曉萱.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
 translatedAt: '2026-09-07T20:32:18.384084+00:00'

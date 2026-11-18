@@ -1,21 +1,23 @@
 ---
-title: "Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Took Taiwanese Tennis the Farthest"
-description: "At the 2010 Wimbledon Championships, Lu Yen-hsun defeated seventh seed Andy Roddick to become the first male player from Taiwan to reach a Grand Slam quarterfinal. From Athens 2004 to Tokyo 2021, he competed in five consecutive Olympic Games without missing a single edition—the farthest-traveling player in the history of modern Taiwanese tennis. After retiring, he founded a tennis academy, continuing to wait for a young Taiwanese player who might one day surpass his Wimbledon record."
+title: 'Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Took Taiwanese Tennis the Farthest'
+description: 'At the 2010 Wimbledon Championships, Lu Yen-hsun defeated seventh seed Andy Roddick to become the first male player from Taiwan to reach a Grand Slam quarterfinal. From Athens 2004 to Tokyo 2021, he competed in five consecutive Olympic Games without missing a single edition—the farthest-traveling player in the history of modern Taiwanese tennis. After retiring, he founded a tennis academy, continuing to wait for a young Taiwanese player who might one day surpass his Wimbledon record.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "體育"
-tags: ["體育", "網球", "奧運", "溫布頓", "職業網球"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '體育'
+tags: ['體育', '網球', '奧運', '溫布頓', '職業網球']
 readingTime: 7
 #   whats_excluded: "ATP 排名逐年細節；與台灣網球協會的公開摩擦；訓練方式與技術分析細節"
 #   where_it_hedges: "出生地（台北或桃園/三重各有資料，採最廣泛引用說法）；1966年溫哥華100公尺世界紀錄待更多史料確認"'
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: People/盧彥勳.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:b7bcedce34261377
-sourceBodyHash: sha256:a95f42aeb707e55c
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:b7bcedce34261377'
+sourceBodyHash: 'sha256:a95f42aeb707e55c'
 translatedAt: 2026-05-09T14:29:09+08:00
 ---
 

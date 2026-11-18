@@ -28,9 +28,11 @@ rationale:
   whats_excluded: '排除 2025 彰化設計展 784 萬人次（5 agent 共 38 次搜尋零來源）、第四金（YouTuber 標題）、97% 選民認同當硬事實（線上問卷無樣本）、波蘭夥伴國 MOU、石井裕、揭牌精確日、員工數、各年細部預算。這些 unverified 寫進去會讓一篇談「被看見」的文章自己變成過度膨脹的政績稿。'
   where_it_hedges: '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。'
   whos_pushing_back: 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: 'fa44ba5a9'
-sourceContentHash: 'sha256:31f2d67654f5ca72'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:68988284647ce5e2'
 sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-09-18T12:52:10.547161+00:00'
 ---

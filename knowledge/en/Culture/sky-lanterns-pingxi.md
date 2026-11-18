@@ -19,8 +19,10 @@ readingTime: 18
 lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/天燈.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f8bd2efe9c0ce5ef'
 sourceBodyHash: 'sha256:1f654961432cc687'
 translatedAt: '2026-06-16T17:19:04Z'

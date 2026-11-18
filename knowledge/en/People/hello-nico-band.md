@@ -22,8 +22,10 @@ readingTime: 8
 lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: reports/research/2026-04/Hello-Nico.md
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
 translatedAt: '2026-05-01T12:21:52+08:00'

@@ -9,8 +9,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'resources/official-websites.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:029227bd7721737f'
 sourceBodyHash: 'sha256:0c3be7e5f653ab89'
 translatedAt: '2026-09-19T11:59:01+08:00'

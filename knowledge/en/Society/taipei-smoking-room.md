@@ -35,8 +35,10 @@ sporeLinks:
     date: '2026-07-14'
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: 'c55a017da'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8fda552b52db75a7'
 sourceBodyHash: 'sha256:670589f45a540af9'
 translatedAt: '2026-11-06T06:55:25.125347+00:00'

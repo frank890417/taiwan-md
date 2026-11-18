@@ -20,8 +20,10 @@ readingTime: 13
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣新偶像世代.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8258a0ced6980600'
 sourceBodyHash: 'sha256:3dda77b7510dd761'
 translatedAt: '2026-06-11T16:38:12Z'

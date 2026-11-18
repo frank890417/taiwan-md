@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/湖口老街.md'
-sourceCommitSha: 'e62d901cf'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:01c55f03cc9ccbf2'
 sourceBodyHash: 'sha256:04678524469fb023'
 translatedAt: '2026-07-06T00:39:48+08:00'

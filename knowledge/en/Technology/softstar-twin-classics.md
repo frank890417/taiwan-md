@@ -20,8 +20,10 @@ readingTime: 16
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/大宇雙劍.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'
 sourceBodyHash: 'sha256:6aa8eb64a1458368'
 translatedAt: '2026-06-16T16:59:03Z'

@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '9cef725c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-05-01T12:21:52+08:00'

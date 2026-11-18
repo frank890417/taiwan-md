@@ -27,8 +27,10 @@ rationale:
   where_it_hedges: '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。'
   whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
 relatedDiary: ['2026-06-28-080352-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
 translatedAt: '2026-11-02T18:49:05.366063+00:00'

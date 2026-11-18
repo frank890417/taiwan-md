@@ -2,23 +2,25 @@
 title: 'Gua Bao: From Fuzhou’s Tiger Bites Pig to BAO London’s Michelin Symbol'
 description: 'In the 1927 diary of Hsinchu gentleman Huang Wang-cheng, “tiger bites pig” was a snack served at the weiya year-end banquet to reward workers. A century later, the line on Lexington Street in London’s Soho waits for the same folded wheat bun, and the Michelin Guide has written it into its Bib Gourmand selections. This plump white folded snack carries within it Taiwan’s four centuries of Fuzhou migration history, the labor-management ritual of Tudigong weiya, and the story of how an artist from Taipei brought it onto the international table.'
 date: 2026-05-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   ['Snack', 'Night Market', 'Weiya', 'Fuzhou', 'BAO London', 'Taiwanese Food']
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
-sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-06-16T16:59:03Z'
 image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/刈包.md'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
+sourceBodyHash: 'sha256:6b2255cbc29cf54c'
+translatedAt: '2026-11-18T17:12:25.075802+00:00'
 ---
 
 ![Yuan Fang Guabao on Huaxi Street: a semicircular folded wheat bun filled with braised pork belly, pickled mustard greens, peanut powder, and cilantro, one of Taipei’s most representative traditional gua bao](/article-images/food/gua-bao-yuanfang-2023.webp)

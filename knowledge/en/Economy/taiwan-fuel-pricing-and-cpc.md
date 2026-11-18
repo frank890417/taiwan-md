@@ -32,8 +32,10 @@ rationale:
   where_it_hedges: '中油累計吸收一律寫「官方估計約兩百億」；1,014 億標為年度估計且含不含天然氣兩份官方說法未對齊；2,338 億寫「增資」不寫「補貼」；「專案平穩機制」只寫官方用語與六成→七成五；2008 凍漲「達 7 個月之久」歸屬林茂文，2012 合理化方案的「窮人補貼富人」也歸屬林茂文文章；梁啟源、王美花、蔣萬安、板橋麵攤老闆娘、劉鴻樟 5 月的說法皆為記者轉述不加引號；能源署分項銷量寫「沒有整理成公開的表」；立法院進度停在「已送立院、排審日期還沒有消息」；亞鄰比較表註明各國油品規格不同；經濟部「28.9 漲到 45.4」標估算與三月初基準。'
 relatedDiary:
   - 2026-09-19-003000-news-radar
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣油價機制與中油.md'
-sourceCommitSha: 'ff39af227'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:abb5ee8d06aeeded'
 sourceBodyHash: 'sha256:dba211101379a553'
 translatedAt: '2026-09-27T01:37:18+08:00'

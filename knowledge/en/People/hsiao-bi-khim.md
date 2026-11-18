@@ -21,8 +21,9 @@ featured: true
 lastVerified: 2026-08-29
 lastHumanReview: false
 curation: incubating
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: '2026-08-29T06:00:00+08:00'

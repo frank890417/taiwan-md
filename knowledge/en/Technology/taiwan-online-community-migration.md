@@ -31,8 +31,10 @@ rationale:
       '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫',
       'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: '56f4d6f85'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0679bda8106e31fc'
 sourceBodyHash: 'sha256:b5c758f914dccaf4'
 translatedAt: '2026-09-25T16:45:11.560410+00:00'

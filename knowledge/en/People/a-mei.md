@@ -10,8 +10,10 @@ readingTime: 7
 lastVerified: 2026-05-08
 lastHumanReview: true
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
 translatedAt: '2026-05-25T21:06:51Z'

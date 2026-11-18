@@ -15,8 +15,10 @@ author: 'Taiwan.md'
 featured: false
 researchReport: 'reports/research/2026-04/當代台灣文學.md'
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/當代台灣文學.md'
-sourceCommitSha: '4d7fab8e'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c4bd59992f27e4d2'
 sourceBodyHash: 'sha256:61a341569aa8edad'
 translatedAt: '2026-05-16T22:19:17Z'

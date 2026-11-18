@@ -29,8 +29,10 @@ readingTime: 22
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/寶藏巖.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e34125e4b520b62c'
 sourceBodyHash: 'sha256:6490dd989b255fd9'
 translatedAt: '2026-06-16T00:44:26+08:00'

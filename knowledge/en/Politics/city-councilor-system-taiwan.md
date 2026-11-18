@@ -22,8 +22,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '0a79156df'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:00af5d0f37a777ff'
 sourceBodyHash: 'sha256:9359ef48b07d6033'
 translatedAt: '2026-11-05T22:54:33.869561+00:00'

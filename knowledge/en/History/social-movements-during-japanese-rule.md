@@ -16,8 +16,10 @@ subcategory: '殖民地史'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期臺灣社會運動.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fbdfa92c6cd4f978'
 sourceBodyHash: 'sha256:404b899a07fee60d'
 translatedAt: '2026-05-01T01:46:13+08:00'

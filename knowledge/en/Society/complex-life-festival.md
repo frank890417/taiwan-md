@@ -30,8 +30,10 @@ rationale:
   where_it_hedges: '第一屆人數寫「兩三百人」（250 有一手源 / 350 僅搜尋摘要，不寫死）；第六屆寫「實質終止於 2020」（V 閉幕預告但無辦成記錄，非官方停辦公告）；加州旅館主題詮釋部分靠歌詞邏輯推論（PanX 原文憑證過期）；許皓甯 1988 為七年級末卻辦八年級聚會，點出張力但不杜撰其自我定位。第三屆其他講者名單採信 cowrite30/siyuchu 現場文，未一一獨立交叉驗證。'
   whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
 relatedDiary: ['2026-06-07-153821-複雜生活節']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'a3a2c2ab6'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a80f1c8939a4c258'
 sourceBodyHash: 'sha256:94ee6147a8f08b1e'
 translatedAt: '2026-10-13T00:54:07.440709+00:00'

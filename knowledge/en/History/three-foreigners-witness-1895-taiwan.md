@@ -14,8 +14,10 @@ featured: false
 author: Taiwan.md
 lastVerified: 2026-04-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/三個外國人看乙未.md'
-sourceCommitSha: '01d9d0e7'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:dd0456fc58fe6d55'
 sourceBodyHash: 'sha256:f4c2468d7055a6c1'
 translatedAt: '2026-05-01T01:46:13+08:00'

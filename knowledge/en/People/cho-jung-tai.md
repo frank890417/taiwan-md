@@ -10,8 +10,10 @@ readingTime: 13
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: People/卓榮泰.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: 2026-05-03T23:14:05+08:00

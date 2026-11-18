@@ -17,8 +17,10 @@ date: 2026-04-27
 readingTime: 8min
 lastVerified: 2026-04-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/農村武裝青年.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:eb6f1df3d28721d6'
 sourceBodyHash: 'sha256:a7bd89eaeb441ced'
 translatedAt: '2026-05-16T22:19:17Z'

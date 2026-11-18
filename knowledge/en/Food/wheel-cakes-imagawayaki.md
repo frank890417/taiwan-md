@@ -17,9 +17,11 @@ category: 'Food'
 readingTime: 12
 lastVerified: 2026-04-28
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/車輪餅.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:e2a229bf0a672e0c'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:75886d0c9c5c9b1f'
 sourceBodyHash: 'sha256:b1f515f692de800c'
 translatedAt: '2026-06-09T02:31:19+08:00'
 featured: false

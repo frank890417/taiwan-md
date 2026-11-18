@@ -11,8 +11,10 @@ readingTime: 14
 lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃大煒.md'
-sourceCommitSha: '5fbbcf41'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1cc8c36887977bc1'
 sourceBodyHash: 'sha256:b9f5504c528ed428'
 translatedAt: '2026-06-20T00:37:13+08:00'

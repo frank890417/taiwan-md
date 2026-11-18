@@ -19,9 +19,11 @@ category: 'Society'
 readingTime: 12
 lastVerified: 2026-05-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/雜學校.md'
-sourceCommitSha: '1844f59c5'
-sourceContentHash: 'sha256:b414878c293e15ed'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a2058786df46a07e'
 sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-06-09T02:02:10+08:00'
 featured: false

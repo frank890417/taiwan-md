@@ -24,8 +24,10 @@ readingTime: 16
 lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
 translatedAt: '2026-06-16T16:59:03Z'

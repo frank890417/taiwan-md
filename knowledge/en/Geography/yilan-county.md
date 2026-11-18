@@ -25,8 +25,10 @@ readingTime: 15
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/宜蘭縣.md'
-sourceCommitSha: '7f3ddf12'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:339ea6f63f12308d'
 sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-06-16T17:03:25Z'

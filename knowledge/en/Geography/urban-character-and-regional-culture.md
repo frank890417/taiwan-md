@@ -18,8 +18,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/城市特色與區域文化.md'
-sourceCommitSha: 'fe34418b1'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:7dadbaf276fb07ab'
 sourceBodyHash: 'sha256:755b0e65ac133cb0'
 translatedAt: '2026-09-21T00:58:23+08:00'

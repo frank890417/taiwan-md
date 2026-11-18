@@ -15,8 +15,10 @@ date: 2026-04-29
 readingTime: 12
 lastVerified: 2026-04-29
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
 translatedAt: '2026-04-30T22:50:13+08:00'

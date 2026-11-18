@@ -20,8 +20,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-05/徐巧芯.md'
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/徐巧芯.md'
-sourceCommitSha: 'f4ae4fb8f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
 translatedAt: '2026-10-21T01:40:18.939870+00:00'

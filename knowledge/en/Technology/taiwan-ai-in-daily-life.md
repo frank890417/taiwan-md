@@ -18,8 +18,10 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣AI日常.md'
-sourceCommitSha: '8d7c23da'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:53da925e7fa0c8af'
 sourceBodyHash: 'sha256:4be23294d5e61459'
 translatedAt: '2026-05-01T14:11:02+08:00'
