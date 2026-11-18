@@ -37,11 +37,13 @@ imageAlt: '2014년 해바라기 운동 당시 타이베이 거리를 가득 메�
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'a266eaa96'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9dd098f7a5a51bd9'
 sourceBodyHash: 'sha256:7e4e331322aaf847'
-translatedAt: '2026-10-13T04:52:13.385777+00:00'
+translatedAt: '2026-11-18T03:18:11.159460+00:00'
 ---
 
 # 타이완 대중음악: 전 세계를 위해 혼수를 지어 주던 섬에, 끝내 남은 것은 남들이 부를 수 없는 것을 부를 자유
