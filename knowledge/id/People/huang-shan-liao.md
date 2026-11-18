@@ -2,9 +2,7 @@
 title: "Huang Shan-liao: Pakaian Sang Juara Dunia Tak Dilirik, Ia Beralih Menjual 'Sepotong Kalimat Penghiburan'"
 description: "Pada 2014, putra pemilik kedai makanan ringan di Kinmen melangkah ke panggung Graduate Fashion Week di London dengan rancangan busana militer bertajuk 'Kinmen 1969' dan meraih penghargaan utama internasional—tetapi ketika kembali ke Taiwan untuk mencari pekerjaan, riwayat hidupnya dianggap palsu oleh bagian SDM karena 'tidak ditemukan pemberitaan apa pun'. Dengan marah ia mendirikan medianya sendiri, lalu beralih menulis kalimat-kalimat penyembuhan yang masing-masing tidak lebih dari 28 aksara dan membukukan penjualan kumulatif lebih dari 300.000 eksemplar. Satu koleksi pakaian yang mengisahkan sejarah medan perang tak dilirik siapa pun; ia pun beralih menjual 'sepotong kalimat penghiburan': yang dibeli pasar perhatian Taiwan ialah kalimat yang selesai dibaca dalam sekali gulir, bukan sesuatu yang sungguh-sungguh dibuat."
 date: 2026-06-07
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文化與創作'
 tags:
   [
     'penulis',
@@ -15,11 +13,15 @@ tags:
     'penghakiman publik daring',
     'juara dunia',
   ]
-readingTime: 12
+subcategory: '文化與創作'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-07
 lastHumanReview: false
-featured: true
+image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
+imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
+readingTime: 12
 sporeLinks:
   - id: 128
     platform: 'threads'
@@ -29,13 +31,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-07'
     url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-07-18T18:59:53+08:00'
-image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
-imageCredit: '鏡週刊（fair use editorial commentary）'
+translatedAt: '2026-11-18T04:32:24.671130+00:00'
 ---
 
 # Huang Shan-liao: Pakaian Sang Juara Dunia Tak Dilirik, Ia Beralih Menjual “Sepotong Kalimat Penghiburan”
