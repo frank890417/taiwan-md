@@ -1,10 +1,8 @@
 ---
 title: 'Wu Pao-chun: Sebuah Janji kepada Anak Paiwan'
 description: 'Putra keluarga petani dari Pingtung, hanya lulusan SMP, dan tidak bisa berbahasa Prancis. Dengan sepotong roti leci mawar, ia meraih medali emas pertama dunia dalam Masters de la Boulangerie di Paris—di dalamnya tersimpan janji yang ia ucapkan kepada seorang anak masyarakat adat sepuluh tahun sebelumnya.'
-date: '2026-04-05'
-author: 'Taiwan.md'
+date: 2026-04-05
 category: 'People'
-subcategory: '餐飲與職人'
 tags:
   [
     'kuliner',
@@ -15,15 +13,19 @@ tags:
     'roti',
     'masyarakat adat',
   ]
-readingTime: 7
-lastVerified: '2026-04-05'
-lastHumanReview: false
+subcategory: '餐飲與職人'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-17T23:39:56.976375+00:00'
 ---
 
 # Wu Pao-chun: Sebuah Janji kepada Anak Paiwan
