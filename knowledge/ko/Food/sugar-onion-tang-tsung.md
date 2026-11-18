@@ -2,9 +2,7 @@
 title: '당총: 하얀 구멍 속에 숨은 "항쟁의 사탕"'
 description: '1940년대, 대만 농민들은 일본 경찰의 사탕수수 독점을 피하기 위해 짙은 갈색 시럽을 파랗고 마치 파(蔥)처럼 하얀 관 형태로 늘어뜨렸다. 농민들의 "위장술"이자 백 년 민중 지혜의 결정체이다. 당총 한 조각 속에 정밀하게 배열된 16개의 큰 구멍과 16개의 작은 구멍이 대만 1세기 동안의 달콤하고 바삭한 항쟁을 지탱해 왔다.'
 date: 2026-04-23
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Food',
@@ -15,15 +13,19 @@ tags:
     '당업역사',
     '항쟁문화',
   ]
-readingTime: 15
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
-featured: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-06-11T16:38:39Z'
+translatedAt: '2026-11-18T17:10:12.493440+00:00'
 ---
 
 # 당총: 하얀 구멍 속에 숨은 "항쟁의 사탕"
