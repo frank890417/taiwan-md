@@ -2,9 +2,7 @@
 title: 'Тан-цзун: «Сахар сопротивления», скрытый в белых полостоях'
 description: 'В 1940-х годах тайваньские фермеры, чтобы избежать монополии японской полиции на тростниковый сахар, превратили темно-коричневый сахарный сироп в снежно-белые трубчатые полости, похожие на луковицы — «искусство маскировки» фермеров, кристалл столетийной народной мудрости. В каждом куске тан-цзуна 16 больших и 16 малых отверстий поддерживали сладкое и хрустящее сопротивление Тайваня на протяжении целого века.'
 date: 2026-04-23
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Food',
@@ -15,15 +13,19 @@ tags:
     'История сахарной промышленности',
     'Культура сопротивления',
   ]
-readingTime: 15
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
-featured: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-07-25T09:23:19+08:00'
+translatedAt: '2026-11-18T16:44:45.997394+00:00'
 ---
 
 # Тан-цзун: «Сахар сопротивления», скрытый в белых полостоях
