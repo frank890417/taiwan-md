@@ -33,11 +33,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-23'
     url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d4818d717761979b'
 sourceBodyHash: 'sha256:45ca26bedda5e227'
-translatedAt: '2026-09-22T19:59:31.937695+00:00'
+translatedAt: '2026-11-18T11:38:55.567079+00:00'
 ---
 
 ![楊双子が 2024 年 11 月 20 日、ニューヨークの全米図書賞授賞式で、濃色の上着を着てトロフィーの横に静かな表情で立っている](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)

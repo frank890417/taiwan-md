@@ -1,20 +1,22 @@
 ---
-title: '台湾農業の現代化発展'
-description: '台湾が伝統的農業から現代の精緻農業へ転換する過程を探討する。有機農業、農村再生、レジャー農業などの革新的発展モデルを含む'
+title: '台湾の農業現代化発展'
+description: '台湾が伝統農業から現代精緻農業へと転換してきた過程を探求し、有機農業、農村再生、観光農業などの革新的な発展モデルを含みます。'
 date: 2026-03-18
 category: 'Economy'
-tags: ['農業', '精緻農業', '有機農業', '農村再生', 'レジャー農業', '現代化']
+tags: ['農業', '精緻農業', '有機農業', '農村再生', '観光農業', '現代化']
 subcategory: '農業經濟'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-09-20
 lastHumanReview: false
 readingTime: 17
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: '05aa5b7b0'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:8c2c2c2ee5f2b237'
 sourceBodyHash: 'sha256:c2c5a393d951d7c5'
-translatedAt: '2026-09-21T00:58:24+08:00'
+translatedAt: '2026-11-18T12:47:14.857546+00:00'
 ---
 
 # 台湾農業の現代化発展

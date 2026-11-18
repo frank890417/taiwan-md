@@ -20,11 +20,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T01:15:46.392367+00:00'
+translatedAt: '2026-11-18T11:24:17.637500+00:00'
 ---
 
 # 台湾の国交国と国際外交：12の国交、113の在外公館、177カ国・地域の査証免除

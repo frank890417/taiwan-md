@@ -16,11 +16,13 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-translatedAt: '2026-10-11T05:16:32+08:00'
+translatedAt: '2026-11-18T12:21:58.693549+00:00'
 ---
 
 # 2026年 鄭習会：中台指導者が10年ぶりに再会した10分間
