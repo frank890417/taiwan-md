@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清法戰爭.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0d133f631d4db985'
 sourceBodyHash: 'sha256:f135e504997bf040'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-18T16:25:17.353935+00:00'
 ---
 
 # Chiến tranh Pháp-Thanh: tám tháng ở Cơ Long và Đạm Thủy

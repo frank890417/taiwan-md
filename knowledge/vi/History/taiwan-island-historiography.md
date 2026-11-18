@@ -2,9 +2,7 @@
 title: 'Lịch sử đảo Đài Loan: Một hòn đảo bị cai trị lặp lại, làm thế nào để sáng tạo ra chủ thể của chính mình'
 description: 'Lịch sử đảo Đài Loan đưa Đài Loan ra khỏi niên biểu của các chính quyền bên ngoài, thay vào đó đặt câu hỏi về cách những người trên hòn đảo này sinh sống, di cư, bị cai trị, sinh tồn và tái tổ chức ký ức. Nó không viết về Đài Loan như một hòn đảo đặc biệt bẩm sinh, mà nhắc nhở chúng ta: bản sắc cũng nảy sinh từ việc cùng sống, cùng chịu tổn thương và cùng gánh vác; nhân vật chính của lịch sử Đài Loan không nên mãi mãi chỉ là những chính quyền đã từng đến đây.'
 date: 2026-07-10
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '史觀與方法論'
 tags:
   [
     'Lịch sử',
@@ -14,18 +12,28 @@ tags:
     'Đại dương',
     'Lịch sử Đài Loan',
   ]
+subcategory: '史觀與方法論'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-10
 lastHumanReview: false
-featured: true
-imageLicense: '公有領域 (Public domain)'
-imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
-translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-18T18:59:52+08:00'
+researchReport: 'reports/research/2026-07/台灣島史觀-rewrite-outline.md'
 image: '/article-images/history/formosa-dutch-map-1640.webp'
 imageCredit: '荷蘭人繪 / Wikimedia Commons'
+imageLicense: '公有領域 (Public domain)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
+rationale:
+  why_this_hook: '從「誰統治台灣」轉成「台灣發生了什麼」，讓一般讀者先理解史觀解決的問題，再進入曹永和與學術脈絡。'
+  whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
+  where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
+  whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'History/台灣島史觀.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T15:54:12.294279+00:00'
 ---
 
 > **Tổng quan 30 giây:** Nếu chỉ hỏi "ai đã cai trị Đài Loan", lịch sử Đài Loan sẽ trở thành một bảng giao quyền: người Hà Lan, Tây Ban Nha, nhà Trịnh, Đế quốc Thanh, Đế quốc Nhật Bản, Trung Hoa Dân Quốc lần lượt xuất hiện. Quan điểm lịch sử đảo Đài Loan thay đổi câu hỏi thành: giữa những chính quyền đến đi này, điều gì đã xảy ra với những người trên hòn đảo này? Họ đã di cư, giao thương, bị quản lý, phản kháng, yêu thương, chịu thiên tai và tái thiết như thế nào, và cuối cùng biến các thể chế ngoại lai và ký ức đa nguyên thành cuộc sống của chính mình ra sao? Năm 1990, nhà sử học Tào Vĩnh Hòa (Ts'ao Yung-ho) đưa ra khái niệm "Lịch sử đảo Đài Loan"; sau đó, các học giả, bảo tàng, giáo dục và văn hóa công chúng đã biến nó thành một trực giác đời thường hơn: bản sắc không chỉ đến từ huyết thống hay quốc gia mẹ, mà còn đến từ kinh nghiệm cùng sống và sinh tồn trên một hòn đảo. [^1][^2]
@@ -158,11 +166,11 @@ Khi chúng ta nói "chúng ta trên hòn đảo này", đó không phải là th
 - [Bảo tàng Lịch sử Quốc gia Đài Loan](/vi/society/national-museum-of-taiwan-history) — Bảo tàng cấp quốc gia đã biến Quan điểm lịch sử đảo Đài Loan thành triển lãm công chúng như thế nào.
 - [Tư duy quần đảo](/vi/culture/archipelago-thinking) — Nhìn ra từ một hòn đảo đơn nhất, hiểu quan hệ giữa Đài Loan và các hòn đảo xung quanh, thế giới đại dương.
 
-## Nguồn hình ảnh
+## Nguồn ảnh
 
-- Hero: Bản đồ Formosa do người Hà Lan vẽ năm 1640, Wikimedia Commons, thuộc phạm vi công cộng. Tệp gốc: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- Bản đồ Đài Loan năm 1880: Stanford's/Thư viện Quốc hội Hoa Kỳ, Wikimedia Commons, thuộc phạm vi công cộng. Tệp gốc: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- Ngoại quan Bảo tàng Lịch sử Quốc gia Đài Loan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Tệp gốc: [Bảo tàng Lịch sử Quốc gia Đài Loan 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Ảnh bìa: Bản đồ Formosa do người Hà Lan vẽ năm 1640, Wikimedia Commons, thuộc phạm vi công cộng. Tệp gốc: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- Bản đồ Đài Loan năm 1880: Stanford's／Library of Congress, Wikimedia Commons, thuộc phạm vi công cộng. Tệp gốc: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Ngoại quan Bảo tàng Lịch sử Quốc gia Đài Loan: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Tệp gốc: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## Tài liệu tham khảo
 

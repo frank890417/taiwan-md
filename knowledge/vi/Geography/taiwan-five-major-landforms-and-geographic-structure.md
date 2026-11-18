@@ -11,11 +11,13 @@ featured: true
 lastVerified: 2026-09-20
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣五大地形與地理結構.md'
-sourceCommitSha: '14fb95e71'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:51364b574313e11f'
 sourceBodyHash: 'sha256:aa95a7b2cb0e4dcb'
-translatedAt: '2026-09-21T00:58:30+08:00'
+translatedAt: '2026-11-18T16:31:06.186113+00:00'
 ---
 
 # Năm Địa Hình và Cấu Trúc Địa Lý của Đài Loan: Diện Mạo Đảo Giữa Núi Sông

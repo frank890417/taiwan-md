@@ -1,6 +1,7 @@
 ---
 title: '148 ngày của Đảo quốc Dân chủ Đài Loan (1895)'
 description: 'Năm 1895, triều Thanh nhượng Đài Loan cho Nhật Bản. Những quan chức trên đảo tuyên bố thành lập nước cộng hòa đầu tiên châu Á, nhưng tổng thống chỉ ở lại mười ngày rồi bỏ chạy, nhà thơ bỏ chạy sau bốn ngày. Những người thực sự ở lại chống chiến là một cậu bé khách gia 19 tuổi và dân quân được ông này tập hợp. Sau 148 ngày, nước dân chủ biến mất, sự cai trị Nhật Bản bắt đầu.'
+date: 2026-04-12
 category: 'History'
 tags:
   [
@@ -20,13 +21,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
-date: 2026-04-12
-readingTime: 5
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/乙未之役.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:fc7bac7e7a555233'
 sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-18T16:06:46.380385+00:00'
 ---
 
 # Chiến tranh 乙未 (1895): 148 ngày của Đảo quốc Dân chủ Đài Loan

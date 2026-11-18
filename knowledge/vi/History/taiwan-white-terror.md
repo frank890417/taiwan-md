@@ -19,11 +19,13 @@ featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: 'fa44ba5a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1c4df7a1034d9237'
 sourceBodyHash: 'sha256:decacb8f3924c150'
-translatedAt: '2026-09-19T17:18:46.730544+00:00'
+translatedAt: '2026-11-18T16:00:35.014304+00:00'
 ---
 
 # Khủng bố Trắng tại Đài Loan

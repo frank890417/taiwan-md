@@ -22,11 +22,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: '7ad70728d'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3c540cfd32577b2a'
 sourceBodyHash: 'sha256:6adfa5c6ea8f6a2d'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-11-18T16:19:14.020329+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Khoảng 95% các bẫy cá bằng đá (công cụ săn bắt tự nhiên ở vùng triều) trên thế giới tập trung tại Bành Hồ; khảo sát năm 2008-2009 ghi nhận 592 cái. Tại Lan Dữ, trong nghi thức mùa cá trích của người Đạt Ngộ, một phần các điều cấm kỵ đã có hiệu quả quản lý tài nguyên, ví dụ như việc không đánh bắt cá rạn trong mùa cá trích giúp cá rạn đang đẻ trứng được nghỉ ngơi. Những hòn đảo này không chỉ là vùng biên giới của Đài Loan mà còn là bảo tàng trí tuệ biển của nhân loại.
