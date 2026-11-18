@@ -1,23 +1,26 @@
 ---
-title: '刈包：福州の虎咬豬から BAO London のミシュラン記号へ'
-description: '1927 年、新竹の郷紳・黄旺成の日記では、「虎咬豬」は尾牙の席で職工をねぎらう点心でした。百年後、ロンドン Soho の Lexington Street にできた行列は、同じ折りたたみ式の麺食を待っています。ミシュランガイドはそれをビブグルマンに書き込みました。この白くふっくらと折りたたまれた軽食には、台湾四百年の福州移民史、土地公の尾牙における労使儀礼、そして台北からロンドンへ渡った一人の芸術家がそれを国際的な食卓へ載せた過程が詰まっています。'
+title: 'グアバオ：福州の虎咬豬からBAO Londonのミシュランのシンボルへ'
+description: '1927年、新竹の士紳・黄旺成の日記には、「虎咬豬」が尾牙の席で職員を慰労する点心として記されています。百年後、ロンドン・ソーホーのレキシントンストリートには、同じ折りたたみ麺料理を求める行列ができ、ミシュランガイドがビブグルマンに掲載しました。この白くふっくらと折りたたまれた軽食には、台湾四百年の福州移民史、土地公の尾牙における労使の儀式、そして台北からロンドンへ渡った一人のアーティストがいかにしてそれを国際的な食卓へ運んだかが凝縮されています。'
 date: 2026-05-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
+tags:
+  ['軽食', 'ナイトマーケット', '年末慰労会', '福州', 'BAO London', '台湾グルメ']
 subcategory: '經典小吃'
-tags: ['軽食', '夜市', '尾牙', '福州', 'BAO London', '台湾グルメ']
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
-sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/刈包.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
+sourceBodyHash: 'sha256:6b2255cbc29cf54c'
+translatedAt: '2026-11-18T15:49:38.172599+00:00'
 ---
 
 ![華西街の源芳刈包。半円形に折りたたんだ生地で、煮込んだ豚バラ肉、酸菜、ピーナッツ粉、香菜を挟む。台北を代表する伝統的な刈包の一つです](/article-images/food/gua-bao-yuanfang-2023.webp)

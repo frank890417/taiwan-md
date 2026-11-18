@@ -3,21 +3,19 @@ title: '日治時期'
 description: '1895年から1945年までの日本統治下の台湾50年は、全面的な近代化建設と制度的管理をもたらすと同時に、同化政策を実施し、台湾社会の発展に深い影響を与えました。'
 date: 2026-03-17
 category: 'History'
-tags:
-  - '歴史'
-  - '日本統治'
-  - '近代化'
-  - '皇民化運動'
+tags: ['歴史', '日本統治', '近代化', '皇民化運動']
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-18T16:07:03.663312+00:00'
 ---
 
 # 日治時期

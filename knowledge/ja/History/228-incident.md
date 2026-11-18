@@ -2,18 +2,20 @@
 title: '二・二八事件'
 description: 'ある寡婦の闇たばこ屋台は、いかにして一つの島の三十八年にわたる沈黙に火をつけたのか――1947年に台湾の運命を変えた十日間、そして七十八年後もなお癒えつつある傷'
 date: 2026-03-31
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '軍事歷史'
 tags: ['歴史', '政治', '移行期正義', '白色テロ', '民主化', '戒厳', '二・二八']
+subcategory: '軍事歷史'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
-sourceCommitSha: '936ada6c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
-translatedAt: '2026-06-20T01:01:36+08:00'
+translatedAt: '2026-11-18T15:53:23.297186+00:00'
 ---
 
 # 二・二八事件

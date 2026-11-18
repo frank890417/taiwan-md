@@ -1,20 +1,22 @@
 ---
-title: '粽子'
-description: '台湾の粽子は一つの食べ物ではなく、四つの異なる島嶼の記憶が重なり合ったものです。閩南、客家、外省、原住民。一口噛むたびに、そこにはそれぞれの来し方があります。'
+title: 'ちまき（粽子）'
+description: '台湾のちまきは単なる食べ物ではありません。それは、閩南、客家、外省、そして先住民族という、4つの異なる島の記憶が重なり合ったものです。一口ごとに、これまでの歩みが感じられます。'
 date: 2026-04-05
-author: 'Taiwan.md'
-category: Food
+category: 'Food'
+tags: ['端午節', '食文化', '閩南', '客家', '外省', '先住民族', '祝祭の食べ物']
 subcategory: '節慶飲食'
-tags: ['端午節', '飲食文化', '閩南', '客家', '外省', '原住民', '節慶食物']
-readingTime: 7
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
-translatedFrom: Food/粽子.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/粽子.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-06-11T16:38:27Z'
+translatedAt: '2026-11-18T15:54:56.960947+00:00'
 ---
 
 # 粽子

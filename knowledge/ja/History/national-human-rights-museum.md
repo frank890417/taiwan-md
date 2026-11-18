@@ -2,9 +2,7 @@
 title: '国家人権博物館：涙の碑に書かれなかった名前'
 description: '1999年の国際人権デー、李登輝は緑島で「涙の碑」を自ら除幕しました。柏楊は28字で、すべての母親が長い夜に流した涙を書き尽くしましたが、加害者の名前は一人も書きませんでした。6年の準備、2018年の看板除幕、2025年の予算凍結。国家が自ら建て、自らが行ったことを記念する博物館です。しかし解厳から39年、一人の加害者も司法裁判を受けていません。'
 date: 2026-05-26
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     '歴史',
@@ -20,24 +18,28 @@ tags:
     '戒厳',
     '人権',
   ]
-readingTime: 16
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-26
 lastHumanReview: false
-featured: true
+readingTime: 16
+image: '/article-images/history/nhrm-tsai-unveil-2018.webp'
+imageCredit: '總統府'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg'
 sporeLinks:
   - id: 93
     platform: 'threads'
     date: '2026-05-26'
     url: 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
-translatedAt: '2026-06-16T16:55:14Z'
-image: '/article-images/history/nhrm-tsai-unveil-2018.webp'
-imageCredit: '總統府'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg'
+translatedAt: '2026-11-18T16:11:32.642209+00:00'
 ---
 
 # 国家人権博物館：涙の碑に書かれなかった名前

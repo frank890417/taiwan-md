@@ -19,11 +19,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-29T07:32:32+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T16:26:10.235362+00:00'
 ---
 
 > **30 秒概要：** 「誰が台湾を統治したか」だけを問えば、台湾史は政権交代表になります：オランダ、スペイン、鄭氏、清帝国、日本帝国、中華民国が輪番で登場。台湾島史観は問いを変えます：これらの政権が行き来する合間に、この島の人々に何が起きたのか？ 彼らはどう移動し、交易し、治められ、抵抗し、愛し合い、災害を受け、再建し、ついには外来の制度と多重の記憶を自らの生活へと変えていったのか。1990 年、歴史学者の曹永和（そう・えいわ／ツァオ・ヨンホー）が「台湾島史」概念を提唱；その後、学者、博物館、教育、公共文化がそれをより日常的な直感へと育てました：アイデンティティは血縁や母国だけでなく、同じ島で共に生き、共に生き延びた経験からも生まれるのです。[^1][^2]
@@ -158,9 +160,9 @@ _国立台湾歴史博物館。台湾島史観は一本の論文から、国家�
 
 ## 画像出典
 
-- ヒーロー画像：1640 年オランダ人描きフォルモサ地図、Wikimedia Commons、パブリックドメイン。原始ファイル：[1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg)。
-- 1880 年台湾地図：Stanford's／Library of Congress、Wikimedia Commons、パブリックドメイン。原始ファイル：[Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>)。
-- 国立台湾歴史博物館外観：Pbdragonwang、Wikimedia Commons、CC BY-SA 3.0。原始ファイル：[国立台湾歴史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg)。
+- メイン画像：1640年 オランダ人によるフォルモサ地図、Wikimedia Commons、パブリックドメイン。オリジナルファイル：[1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg)。
+- 1880年の台湾地図：Stanford's／Library of Congress、Wikimedia Commons、パブリックドメイン。オリジナルファイル：[Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>)。
+- 国立台湾歴史博物館の外観：Pbdragonwang、Wikimedia Commons、CC BY-SA 3.0。オリジナルファイル：[國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg)。
 
 ## 参考資料
 

@@ -1,28 +1,32 @@
 ---
-title: 'チャールズ・ル・ジャンドル（李仙得）：条約を結んだ者と裏切った者は同一人物'
-description: '1867年、アメリカの商船ローバー号が恒春半島で難破し、14人がパイワン族に殺されました。アメリカ領事のル・ジャンドルは8度台湾を訪れ、原住民首長の卓杞篤（タウケトク）と清政府が関与しない協定を結びました。そして台湾についての知識のすべてを持って日本政府に乗り換えたのです。5年後、日本はその情報を使って台湾に出兵しました。'
+title: '李仙得：契約者と裏切り者は同一人物である'
+description: '1867年、アメリカの商船ロファー号が恒春半島で難破し、14人がパイワン族によって殺害されました。アメリカ領事のウィリアム・ライト（李仙得）は8回にわたり台湾へ交渉に訪れ、清朝政府が関与しない形で先住民の首長・卓杞篤と協定を締結しました。その後、彼はフォルモサに関するあらゆる知識を携えて日本政府へと転職します。5年後、日本はその情報をもとに台湾へ出兵することとなりました。'
 date: 2026-04-12
-category: People
-subcategory: '歷史人物'
+category: 'People'
 tags:
-  - 'ローバー号事件'
-  - '牡丹社事件'
-  - '原住民外交'
-  - '李仙得'
-  - '卓杞篤'
-  - '19世紀'
-  - 'アメリカ領事'
-  - 'スカロ'
-image: ''
+  [
+    'ロファー号事件',
+    '牡丹社事件',
+    '先住民外交',
+    '李仙得',
+    '卓杞篤',
+    '19世紀',
+    'アメリカ領事',
+    'スカロ',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
 featured: true
-author: Taiwan.md
 lastVerified: 2026-04-12
 lastHumanReview: false
-translatedFrom: People/李仙得.md
-sourceCommitSha: '4b6d28c5'
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/李仙得.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: 2026-05-01T14:48:26+08:00
+translatedAt: '2026-11-18T15:46:19.392714+00:00'
 ---
 
 # チャールズ・ル・ジャンドル（李仙得）：条約を結んだ者と裏切った者は同一人物

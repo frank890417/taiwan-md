@@ -1,29 +1,33 @@
 ---
-translatedFrom: 'History/乙未之役.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:fc7bac7e7a555233'
-sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
-translatedAt: '2026-05-01T14:48:26+08:00'
 title: '乙未戦争：台湾民主国の148日間'
 description: '1895年、清朝が台湾を日本に割譲した。島の官員たちはアジア初の共和国の樹立を宣言したが、大統領はわずか10日で逃亡し、詩人も4日後に去った。本当に残って戦ったのは、19歳の客家人の少年と、家産を散じて集めた民兵たちだった。148日後、民主国は消え、日本統治が始まった。'
+date: 2026-04-12
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
-  - '乙未戦争'
-  - '台湾民主国'
-  - '下関条約'
-  - '日本統治時代'
-  - '客家'
-  - '1895'
-  - '劉永福'
-  - '唐景崧'
-  - '丘逢甲'
-featured: true
+  [
+    '乙未戦争',
+    '台湾民主国',
+    '下関条約',
+    '日本統治時代',
+    '客家',
+    '1895',
+    '劉永福',
+    '唐景崧',
+    '丘逢甲',
+  ]
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-date: 2026-04-12
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'History/乙未之役.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:fc7bac7e7a555233'
+sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
+translatedAt: '2026-11-18T16:39:55.497100+00:00'
 ---
 
 # 乙未戦争：台湾民主国の148日間
