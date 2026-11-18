@@ -1,180 +1,319 @@
 ---
-title: 'Chi Po-lin'
-description: 'Como um funcionário público que não podia pagar um helicóptero com seu salário usou o dinheiro da hipoteca da casa para fazer o documentário de maior sucesso da história de Taiwan'
+title: "Chih Pai-lin: O funcionário público que usava drones para filmar rodovias e hipotecou a própria casa para realizar 'Taiwan from Above'"
+description: "Chih Pai-lin trabalhou com compras na Administração de Planeamento de Parques Nacionais; mais tarde, ele utilizou o helicóptero alugado pela agência para fazer filmagens aéreas de obras em rodovias. Faltando apenas três anos para se aposentar, ele renunciou ao cargo público e, após conversar com sua mãe, decidiu hipotecar a casa para produzir 'Taiwan from Above' (2013), que arrecadou mais de NT$ 200 milhões nas bilheterias de Taiwan. Ele faleceu em 2017 durante o reconhecimento de locações para a sequência. O filme permitiu que toda a ilha visse as feridas da terra e compreendesse que, para transformar essa realidade, é necessário um grupo de pessoas pronto para agir: em reuniões, processos judiciais e demolição de construções ilegais. Algumas dessas pessoas já vigiavam o pé das montanhas muito antes de ele começar a fotografar."
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與創作'
 tags:
   [
-    'Personalidades',
-    'Chi Po-lin',
+    'Personalidade',
+    'Chih Pai-lin',
+    'Taiwan from Above',
     'Documentário',
-    'Ver Taiwan',
     'Diretor',
-    'Fotógrafo',
-    'Fotografia Aérea',
-    'Meio Ambiente',
+    'Filmagem aérea',
+    'Meio ambiente',
+    'Conservação do território',
   ]
-readingTime: 12
-lastVerified: 2026-03-25
-lastHumanReview: true
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-11-04
+lastHumanReview: false
+readingTime: 19
+researchReport: 'reports/research/2026-11/齊柏林.md'
+image: '/article-images/people/chi-po-lin-beyond-beauty-premiere-2013.webp'
+imageCredit: 'othree (Flickr)'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E9%9C%B2%E5%A4%A9%E7%89%B9%E6%98%A0_(10647981644).jpg'
+rationale:
+  why_this_hook: '用國工局局長歐晉德問一個管採購的年輕職員「對土木工程有興趣嗎？」開場：齊柏林的空拍起點在開發體制裡面，鏡頭最早替國道工程服務，後來同一個高度讓他說出「沒有路的地方最美」，這個翻轉撐起全篇。'
+  whats_excluded: '不寫無可追出處的舊說法（妻子姓名、1,600 小時、30 萬張、票房 2.2 億與首週末里程碑、霧峰林家花園、旗津的照片、小行星與螃蟹命名）；不寫《看見台灣》揭露日月光（時間序上無因果）；不寫結尾國旗的剪接軼事；墜機段不寫換機師、提前起飛、最後畫面與遺體，調查只寫報告結論與制度層風險；紀念清單（基金會、齊柏林空間、郵票、台北 101 點燈）不展開。'
+  where_it_hedges: '墜機肇因照飛安會原文寫「可能使其處於疲勞或生理與心理表現能力降低的狀態」並附「缺乏直接證據」與「應屬正常用藥累積所致」；票房只寫「破兩億」；電影與政策的關係只寫行政院自己記錄的清單與會議，不說電影促成《國土計畫法》；清境 2013 年的 7 家與 2021 年列管的 7 件分開寫；四位提告族人不代表整個玻士岸部落。'
+  whos_pushing_back: '澳洲影評人 Grant Watson（電影反覆責備觀眾）；新新聞對飛安會報告寫法的質疑；原民會（高山道路是部落生活與救災的路）；南投縣長林明溱（禁建讓農民苦不堪言）；經濟部與亞泥（判決後依礦業法仍可採礦）；玻士岸部落會議主席洛帝．尤道（部落未有共識）。'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'rewrite'
+    linesBefore: 165
+    linesAfter: 302
+    reason: '全面進化 2026-11-04：約 3,532 字卻 0 腳註、標題只有人名，主查詢「齊柏林」排名 3.0、點擊率 0.4%。改用一手來源重寫：墜機段依飛安會最終調查報告，《看見台灣》票房與行政院國土保育專案小組、清境、亞泥判決等後續都附出處。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/齊柏林.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2842e6333688b98f'
-sourceBodyHash: 'sha256:272da240ae5fe1df'
-translatedAt: '2026-07-25T05:00:10+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:efe5b480b7638fd0'
+sourceBodyHash: 'sha256:5b8e0366beca56d2'
+translatedAt: '2026-11-18T03:52:42.451945+00:00'
 ---
 
-# Chi Po-lin
+# Chih Pei-lin: O funcionário público que filmava rodovias e hipotecou a casa para filmar 《Seeing Taiwan》
 
-> **Visão geral em 30 segundos:** Um funcionário do Ministério dos Transportes, com 3 milhões de poupança mais 6 milhões de empréstimo hipotecário, comprou equipamento de filmagem aérea de quase 30 milhões e fez _Ver Taiwan_ (看見台灣), com bilheteria de 220 milhões. Ele acumulou mais de 1.600 horas de voo e tirou mais de 300 mil fotos aéreas. Em 10 de junho de 2017, durante reconhecimento para _Ver Taiwan II_, o helicóptero caiu e ele faleceu, aos 52 anos.
+> **Resumo de 30 segundos:** Chih Pei-lin (1964–2017) era originalmente um funcionário público da Administração de Construção de Rodovias do Ministério dos Transportes, que utilizava o helicóptero alugado pela repartição para tirar fotos das obras rodoviárias. Mais tarde, tornou-se um fotógrafo aéreo em tempo integral e o diretor de 《Seeing Taiwan》. O filme, lançado em 2013, arrecadou mais de NT$200 milhões nas bilheterias de todo o país e, até 2025, permanece como o recorde de bilheteria para documentários em Taiwan, tendo também vencido o [Golden Horse Awards](/pt/art/golden-horse-awards) de Melhor Documentário. Em 10 de junho de 2017, enquanto realizava o reconhecimento de locações para a sequência, ele faleceu em Hualien junto com o piloto Chang Chih-kuang e o assistente Chen Kuan-chi.
 
-Como um funcionário público que não podia pagar um helicóptero com seu salário usou o dinheiro da hipoteca da casa para fazer o documentário de maior sucesso da história de Taiwan?
+Ou Jin-de, diretor da Administração de Construção de Rodovias do Ministério dos Transportes, perguntou certa vez a um jovem funcionário responsável por compras na repartição: "Você tem interesse em engenharia civil?". O jovem respondeu honestamente: "Não tenho certeza". Ou Jin-de continuou: "Dedique-se ao que você gosta de fazer".[^1]
 
-## De engenharia rodoviária ao sonho do céu
+Este jovem funcionário chamado Chih Pei-lin gostava de fotografia. Mais tarde, ele subiu no helicóptero alugado pela Administração de Construção de Rodovias para tirar fotos das obras rodoviárias do alto, com a lente voltada para as autoestradas que o governo estava construindo. Na mesma altitude, ele acabou vendo algo diferente, o que o levou a pedir demissão do cargo, faltando apenas três anos para sua aposentadoria.
 
-Em 27 de dezembro de 1964, Chi Po-lin nasceu em Taipé. O nome foi escolhido pelo pai, Chi Wei-hsin, com base na contagem de traços; a coincidência com o dirigível "Zeppelin" (齊柏林 em chinês) é pura casualidade.
+## Fotografando obras em rodovias a bordo de helicópteros alugados pela Bureau of National Highways
 
-Sua primeira metade de vida foi tão comum que não parecia a de alguém que faria um filme de 220 milhões em bilheteria. Formou-se no Departamento de Arquitetura da Escola Comercial e Industrial Privada Tunghsu; cursou, mas não concluiu, Gestão Industrial no Instituto Industrial Lung Hua. Em 1990, entrou na Diretoria de Nova Construção de Autoestradas do Ministério dos Transportes como funcionário administrativo, responsável por registrar o processo de construção da Autoestrada Nacional nº 3. Emprego estável, seguro.
+Nascido em 1964, Chih Pei-lin amava carregar uma câmera para todos os lados desde os tempos de estudante. O primeiro emprego que encontrou após o serviço militar foi como assistente de fotografia de casamentos, mas pediu demissão antes de completar um mês; ele achava entediante e artificial ter que orientar as pessoas a fazerem poses[^1]. Como o trabalho de fotografia às vezes envolvia horários invertidos e salários instáveis, seus pais ficaram bastante preocupados. Seguindo as expectativas dos pais, ele prestou concurso para funcionário público e entrou na Bureau of National Highways (BNH), sendo designado para a área de compras — algo que não tinha relação nenhuma com fotografia[^1].
 
-A virada ocorreu em 1991. Chi Po-lin sugeriu ao então diretor Ou Chin-te: "Fotos de engenharia precisam de vista aérea para ter escala." Ou aceitou a sugestão e começou a alugar helicópteros para que Chi fizesse a filmagem aérea. Quando o helicóptero subiu a 500 pés, a aparência de Taiwan mudou completamente. Costas sinuosas, cadeias de montanhas em camadas, e feridas invisíveis do solo.
+Naquela época, a [Beiersao](/pt/lifestyle/national-highway-system) estava em fase de construção, e a BNH já tinha a ideia de integrar obras públicas à paisagem natural, o que exigia uma grande quantidade de material promocional e registros das obras. Ou Jin-de estudou muitos conceitos novos do exterior e frequentemente encarregava Chih Pei-lin de registrá-los em fotos. Certa vez, ele pediu que Chih Pei-lin encontrasse um ponto elevado para fotografar Pinglin e o riacho Beishi. O motivo era que os castelos na Suíça ficam voltados para lagos, enquanto as casas em Pinglin dão para a estrada por questões de negócios, deixando o riacho escondido atrás das construções, visível apenas na hora de usar o banheiro[^1].
 
-"Naquele momento eu verdadeiramente 'vi' Taiwan pela primeira vez."
+Após passar pouco mais de um ano na BNH, Chih Pei-lin sugeriu a Ou Jin-de que, se as fotos das obras fossem feitas de uma perspectiva aérea, a visão seria muito mais macroscópica[^2]. Antes disso, ele já havia subido ao céu: após ler sobre os anúncios imobiliários com fotos aéreas do veterano fotógrafo Huang Chin-fa no jornal 《Da Cheng Bao》, ele ligou para perguntar e acompanhou o veterano em um voo. "Na primeira vez que subi para fazer fotos aéreas com o veterano, decidi que faria disso a missão da minha vida!"[^2] Ou Jin-de, tendo visto seu desempenho em concursos de fotografia, acreditava no seu talento; desde então, a BNH passou a alugar helicópteros, e ele ficou responsável por fotografar as obras de construção das rodovias. Sempre que uma companhia aérea tinha oportunidade de realizar filmagens aéreas, ele também subia junto[^2].
 
-Mas a Diretoria só destinava 20 horas anuais de orçamento para aluguel de helicóptero. A hora de voo custava mais de 100 mil novos dólares taiwaneses — impossível para um salário de funcionário público. Então Chi começou a "pegar carona": quando pessoal da Administração Meteorológica Central trocava turnos em ilhas e montanhas altas, ele ia junto; quando o Bureau Florestal fazia pulverização aérea de agrotóxicos, ele ia junto; quando a Taipower fazia içamento de cabos, ele ia junto. Pilotos amigos o avisavam proativamente. O presidente da Yiji Construction, Huang Mu-shou, precisava ir de helicóptero ao Monte Jade supervisionar obras e, várias vezes, deixou Chi embarcar sem custo, chegando a fretar aeronaves para patrocinar a filmagem.
+Ao relembrar os anos em que começou com as fotos aéreas, ele descreveu a si mesmo para um repórter da revista _Business Weekly_ desta forma: "Eu cresci em uma família patriota e leal ao partido; desde pequeno, sempre achei que todas as obras do governo estivessem cem por cento corretas e que tudo fosse maravilhoso"[^1]. Essa crença, no entanto, foi sendo gradualmente abalada conforme ele subia as montanhas.
 
-Quando a Autoestrada Nacional nº 2 (北二高) estava perto da conclusão, Chi sugeriu ao novo diretor Cheng Wen-lung: "A filmagem aérea deve combinar a relação entre a autoestrada e a terra." Resultou no livro _Imagens da Norte-2: Profundo Afeto Abraçando a Grande Terra_. Ele descreveu a autoestrada vista do alto como "faixas de brocado de jade branco sobre a grande terra verde-esmeralda".
+![Chih Pei-lin de óculos, foto recente de outubro de 2013](/article-images/people/chi-po-lin-portrait-2013.webp)
 
-Assim, Chi Po-lin iniciou uma carreira de filmagem aérea de mais de 20 anos, acumulando mais de 1.600 horas de voo e mais de 300 mil imagens.
+_Chih Pei-lin, fotografado em outubro de 2013, poucos dias antes do lançamento de 《Beyond Beauty: Taiwan from Above》. Foto: SSR2000, CC BY-SA 3.0._
 
-## Um trabalho entre a vida e a morte
+## Depois do 921, ele disse que os lugares sem estradas são os mais belos
 
-Filmagem aérea não é nada romântica.
+No início de suas filmagens aéreas, o que ele desejava era capturar uma Taiwan bela para que mais pessoas pudessem vê-la. Ele também já pensou que desmatar florestas nas montanhas para abrir áreas agrícolas, com o espírito de persistência de "mover montanhas", era uma história digna de elogio[^1]. A partir de 1998, ele colaborou em uma série especial com a revista 《大地地理雜誌》, fotografando do alto as terras agrícolas de alta montanha e as novas terras costeiras; o retorno dos leitores foi enorme[^2].
 
-Chi já enfrentou vento de encosta (落山風) na região do Monte Tawu, em Pingtung; o helicóptero foi arrastado pelo vendaval até a costa de Taimali, quase perdendo o controle. Perto do pico principal do Monte Jade, a quase 4.000 metros de altitude, suas mãos ficaram roxas de frio; correntes de ar fortes balançavam a aeronave sem parar, deixando todos pálidos. Chi forçou a calma: "De um lado sustentava o corpo, do outro erguia a câmera, capturei exatamente o momento em que o fluxo de ar transpõe o pico principal. Voltei exausto por dois dias inteiros." Correntes descendentes no Monte Huangweishan, nos arredores de Taipé, quase derrubaram o helicóptero, mas por acaso registraram um rebanho assustado fugindo em disparada com a passagem rasante.
+Antes do [terremoto de 921](/pt/history/921-jiji-earthquake), ele nunca havia filmado imagens de desastres naturais. Após o terremoto, o meio ambiente em Taiwan pareceu entrar em uma mudança drástica; após a conclusão da nova rodovia Central Cross-Island, a destruição causada pelo homem acelerou, e os fluxos de detritos ocorreram um após o outro, mudando sua perspectiva sobre as coisas[^1]. Ele descreveu essa transformação usando a metáfora da paternidade: "É como aprender a ser pai apenas depois de se tornar um; eu só conheci minha própria terra depois de voar até o horizonte"[^1].
 
-O ex-diretor Cheng Wen-lung descreveu a filmagem de Chi como "aterrorizante": metade do corpo para fora do helicóptero, ele suava frio só de ver. Chi dizia que, custando a hora de voo mais de 100 mil, a filmagem tinha que aproveitar cada segundo, concentração total: "Naquele momento não se sabia o que era medo."
+Em julho de 2009, ele mesmo alugou equipamentos de filmagem nos Estados Unidos e, sob um calor intenso, gastou NT$3 milhões e trinta horas para realizar uma volta aérea completa em Taiwan. No mês seguinte, o [tifão Morakot](/pt/history/typhoon-morakot) trouxe as inundações de "88"; o governo solicitou que ele fosse à zona de desastre para filmar. Ao relembrar sua primeira impressão, ele disse: "No momento em que vi, fiquei extremamente assustado; senti que os fluxos de detritos que eu tinha visto antes nem podiam ser chamados de fluxos de detritos; aquilo parecia o fim do mundo!"[^2]
 
-Ele chegou a dizer que, em situações de vida ou morte, só temia que a câmera caísse, não a própria segurança. A razão para arriscar a vida ano após ano: "Quanto mais vejo o lado 'lastimável' dela, mais quero protegê-la."
+Em 2012, a série de vinte e quatro curtas documentários aéreos 《鳥目台灣》, realizada em colaboração com o músico Chen Ming-chang, foi exibida na PTS. Em agosto de 2013, quando a versão doméstica do vídeo foi lançada, Zeppelin afirmou em entrevista ao Centro de Informação Ambiental que o que um governo responsável mais deve fazer é preservar adequadamente os recursos naturais existentes. Quando questionado sobre qual lugar em Taiwan era o mais belo, tanto ele quanto Chen Ming-chang deram a mesma resposta: os lugares sem estradas — locais sem rodovias e sem atividade humana, como as montanhas acima de 3.000 metros de altitude e a última linha costeira primitiva de Taiwan, Arangit^[^3]. Naquela época, o trabalho dessa pessoa na Administração de Construção de Rodovias era tirar fotos aéreas das obras das rodovias nacionais.
 
-O desgaste do equipamento também era impressionante. Cada voo levava pelo menos 6 câmeras profissionais, valendo mais de 1 milhão. Sal marinho em filmagens costeiras, grandes variações de temperatura causando condensação — manutenção constante, desgaste rápido. Para o frio extremo em alta montanha, Chi mandou fazer luvas térmicas que permitissem operar a câmera com destreza. Mas alertava: no voo de volta, tinha que tirar a roupa rápido: "O helicóptero desce rápido, a temperatura sobe de zero para 30 e poucos graus; se demorar para tirar, insolação garantida."
+## Faltavam três anos para a aposentadoria, então ele consultou a mãe sobre hipotecar a casa
 
-O que mais lhe doía era a paisagem à frente. Violações de construção densas, montanhas escavadas, rios poluídos. Já flagrou caminhões descarregando lixo industrial na praia para enterrar. "Sabe? Só onde quase não há gente é que fica bonito."
+Por volta de 2008, ele teve a ideia de filmar com drones. Antes disso, escrevia artigos, participava de debates e viajava para dar palestras, tentando contar às pessoas o que via do céu; no entanto, percebia frequentemente que, por mais impressionantes que fossem as fotos, sempre havia alguém distraído ou cochilando na plateia[^4]. Mais tarde, ele explicou a um jornalista que contar histórias através de fotos exige muito texto e palestras, demandando um esforço enorme para transmitir a mensagem, enquanto o vídeo pode usar uma forma simples para fazer com que mais pessoas conheçam Taiwan[^3].
 
-"Lá no avião, só suspiros. A velocidade da fotografia não acompanha o ritmo da destruição."
+Na época, um documentário sobre filmagens aéreas de Taiwan soaria como um tediante filme sobre ecologia; o modelo de fazer o público pagar para ir ao cinema ainda não existia, e ele dizia que muitas pessoas não entendiam o que ele estava tentando dizer. Foi apenas quando surgiu 《Home》 (搶救地球), uma colaboração entre Luc Besson e o fotógrafo aéreo Yann Arthus-Bertrand, que as pessoas ao seu redor começaram a entender do que se tratava[^4], e ele próprio foi inspirado pelo método de filmagem daquele filme[^2].
 
-### O valor de uma única foto
+No ano das inundações causadas pelo tufão Morakot, ele tomou uma decisão: primeiro solicitou uma licença não remunerada à Administração Nacional de Engenharia de Estradas, e acabou por renunciar ao cargo público e abrir mão da sua pensão de aposentadoria[^2]. Quando renunciou, tinha 47 anos; em apenas três anos, já poderia receber a aposentadoria[^5][^4]. Ele explicou por que não podia esperar: "Eu pensei na época que faltavam cerca de três anos para me aposentar, mas se eu esperasse até me aposentar para fazer isso, talvez meu vigor físico e minha visão não estivessem mais à altura. Por isso, decidi renunciar ao cargo público e abrir mão da pensão"[^2].
 
-Em agosto de 1999, Chi fotografou do ar o Jardim da Família Lin em Wufeng, recém-restaurado. Um mês depois, o terremoto de 21 de setembro (九二一大地震) destruiu o jardim. Aquelas fotos tornaram-se o último registro completo do patrimônio centenário.
+Para obter uma melhor qualidade de imagem, ele decidiu comprar dos Estados Unidos um sistema de filmagem aérea com estabilizador que custava quase NT$30 milhões. Recorreu a Wan Kuan-li, com quem já havia trabalhado, e a alguns amigos para fundar a Taiwan Abu Film Company. Os membros da empresa investiram o próprio dinheiro, mas ainda não era suficiente; ele então consultou sua mãe sobre hipotecar a casa para obter um empréstimo. Sua mãe sabia que ele não tinha interesse em diversões ou luxos, apenas em fotografia[^2]. O filme acabou custando um total de cerca de NT$90 milhões, com o helicóptero voando por quatrocentas horas[^1][^6].
 
-Chi dizia que o retorno dos leitores era o maior consolo após a filmagem. Uma cantora lírica de Qingdao, Shandong, casada e morando em Cijin, Kaohsiung, viu a foto aérea da costa de Cijin que por acaso incluía sua casa. Comprou a foto, ampliou em mais de dez cópias e mandou para a família em Shandong, dizendo: "É aqui que eu moro!"
+Seu filho, que estava no segundo ano do ensino médio, deixou um bilhete na mesa perguntando ao pai se ainda haveria dinheiro para ele cursar a universidade. Ele fingiu ser forte e disse ao filho que, se ele passasse em uma universidade nacional, não precisaria se preocupar muito, mas, no momento em que viu o bilhete, sentiu tristeza e medo; naquela época, o financiamento das filmagens ainda não estava totalmente garantido e não se sabia se o plano teria sucesso[^2]. Ele começou a ligar para empresa por empresa em busca de patrocínio: "O homem mais rico de Taiwan, o segundo, o terceiro... segui a lista e liguei para todas as empresas"[^1].
 
-## A aposta de 9 milhões
+Algumas empresas responderam que recebiam de duzentas a trezentas pessoas por dia pedindo dinheiro; outros perguntavam onde estava o modelo de negócio ou onde estava o público, ao que ele apenas sorria amargamente e dizia que o público estava em casa[^1]. Chang Yang-chien, vice-diretor da Fundação de Educação e Cultura da Delta Electronics, disse que eles chegavam a chorar ao ver o que Chih Pei-lin filmava. A Delta Electronics tornou-se, posteriormente, a maior patrocinadora no primeiro ano do projeto, e fundações de empresas como Wistron e Fubon também se juntaram sucessivamente[^2][^1].
 
-Em 2009, a devastação do tufão Morakot (八八水災) fez Chi Po-lin decidir: fotos planas já não bastavam para fazer as pessoas sentirem a crise da terra de Taiwan; ele faria o primeiro documentário aéreo de Taiwan.
+[Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien), que originalmente não o conhecia, aceitou após ver seis minutos da primeira edição permitir que ele usasse seu nome e, mais tarde, atuou como produtor executivo[^1][^6]. Wu Nien-jen quebrou o princípio de dublar apenas para amigos ou suas próprias obras e não aceitou nem um centavo para gravar a narração[^7], enquanto a trilha sonora ficou a cargo de He Kuo-chieh[^6]. Chih Pei-lin antes só tirava fotos estáticas, nunca havia feito documentários ou filmes; ele pediu orientação a várias pessoas ao longo do caminho, e Hou Hsiao-hsien, Tai Li-ren e Yu Kan-ping ajudaram voluntariamente. Ele disse mais tarde: "Agora, quando me chamam de diretor, sinto-me muito envergonhado, porque este filme foi 'perguntado' (conquistado através de pedidos)"[^1].
 
-A inspiração veio de _Home_ (地球很美有賴你), de Yann Arthus-Bertrand e Luc Besson. Mas em 2008, quando Chi propôs a ideia pela primeira vez, todos rejeitaram: "Sem protagonista homem ou mulher, só um monte de imagens aéreas, impossível."
+## Os 200 milhões de bilheteira nos cinemas: vendo as feridas da nossa própria terra
 
-O tufão Morakot tirou suas dúvidas. Ele tirou quase 3 milhões de poupança, hipotecou a casa e pegou 6 milhões emprestados no banco, e nos EUA comprou o equipamento profissional "CINEFLEX" por quase 30 milhões. O equipamento fica no nariz do helicóptero, operado por Chi no banco traseiro. A esposa, Chiang Hsin-chieh, reclamava que ele gastava as economias num "hobby sem futuro"; o filho, Chi Ting-huan, duvidou se o pai ainda poderia custear seus estudos.
+Em 30 de outubro de 2013, um grande ecrã foi montado na Praça da Liberdade, no Memorial Nacional Chiang Kai-shek, em Taipé, para a estreia ao ar livre de 《看見台灣》 (Beyond Beauty: Taiwan from Above). O financiamento para esta exibição foi reunido por internautas através da plataforma de financiamento coletivo flyingV; a campanha começou no final de setembro e atingiu a meta antes do prazo[^8][^4]. Uma semana antes, os bilhetes para a estreia para dez mil pessoas no Kaohsiung Arena também se esgotaram. Naquela noite, a prefeita de Kaohsiung, Chen Chu, comprou os direitos de imagem de Chih Pei-lin para que fossem utilizados como material didático em escolas primárias e secundárias de Kaohsiung no futuro[^9].
 
-Em novembro de 2009, fundou a Above Taiwan Cinema (台灣阿布電影公司); "A-bu" (阿布) é a transliteração fonética de "Above", simbolizando seu apego ao céu.
+![Estreia ao ar livre na Praça da Liberdade, Taipé, em 30 de outubro de 2013; Chih Pei-lin está diante do painel do palco com o título do filme e a data de estreia](/article-images/people/chi-po-lin-premiere-stage-2013.webp)
 
-A filmagem de _Ver Taiwan_ durou três anos, custou 90 milhões, acumulou 400 horas de voo. Chi insistiu em apontar as lentes para a destruição ambiental. "A imagem fala, não precisa de palavras, vê-se claro. Qualquer um que assista vai saber o perigo. A vida é preciosa, não vale a pena fazer essas coisas por dinheiro e lucro."
+_30 de outubro de 2013, Chih Pei-lin no palco da estreia ao ar livre na Praça da Liberdade; o painel diz "Estreia em todo o Taiwan em 1 de novembro". Photo: othree (Flickr), CC BY 2.0._
 
-Hou Hsiao-hsien atuou como produtor supervisor. Wu Nien-jen, comovido pelo espírito de Chi, quebrou sua regra de só narrar seus próprios filmes ou de amigos, e fez a narração sem cachê. A trilha sonora ficou a cargo de Ho Kuo-chieh, vencedor do Cavalo de Ouro de Melhor Música Original por _Seediq Bale_, que foi a Praga gravar com a Orquestra Sinfônica de Praga.
+Após o lançamento em 1 de novembro, a bilheteira em todo o Taiwan ultrapassou os NT$200 milhões, estabelecendo um recorde para o documentário mais bem-sucedido da história do cinema de Taiwan. A revista Mirror Media descreveu que a sociedade taiwanesa, independentemente de ser azul ou verde, foi tomada por uma onda de preocupação ambiental[^10]. Li Ken-cheng, diretor executivo da Fundação Cidadãos da Terra, afirmou mais tarde: "《看見台灣》 não só permitiu que todos conhecessem a beleza de Taiwan, mas também vissem os problemas ambientais; através do formato de documentário com filmagens aéreas, foi a primeira vez que vimos Taiwan desta forma"[^11]. Em 2025, ao falar sobre o mercado de documentários em Taiwan, a diretora Hsu Ming-chun mencionou que o recorde de bilheteira para documentários ainda pertence a 《看見台灣》, sendo difícil até mesmo para filmes de ficção alcançar tal feito[^12].
 
-## O milagre de 220 milhões
+Para filmar aquela pegada gigante no meio do arrozal, a equipa esperou seis dias pela abertura do céu durante a estação das chuvas de Meiyu. Enquanto ele esperava impaciente, os velhos agricultores comiam, conversavam e cantavam karaoke, tendo há muito aprendido a conviver pacificamente com o temperamento do céu; este episódio foi uma lição para ele[^4]. Aquele arrozal ficava em Yuli, Hualien. Em março de 2014, após o lançamento do filme, ele regressou a Yuli para agradecer aos habitantes locais[^14].
 
-Em 30 de outubro de 2013, _Ver Taiwan_ teve estreia ao ar livre na Praça da Liberdade, em Taipé. Foi a primeira vez na história do cinema de Taiwan que uma estreia foi financiada por crowdfunding (plataforma flyingV). Chi Po-lin, Wu Nien-jen e Wei Te-sheng subiram ao palco juntos.
+<div
+  class="video-embed"
+  style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
+>
+  <iframe
+    src="https://www.youtube.com/embed/on2AYFJ-Hy0"
+    title="Yuli: Chih Pei-lin regressa para agradecer após filmar a pegada gigante em Taiwan"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
 
-Em 1º de novembro, estreia oficial. Ninguém previu o que viria a seguir.
+_Reportagem do canal oficial da Hualien Cable TV em março de 2014: Chih Pei-lin regressa a Yuli, Hualien, para agradecer. CC BY 3.0._
 
-Primeiro fim de semana: 11 milhões em três dias, recorde de abertura para documentário em Taiwan. Dez dias: 35 milhões, superou _Go Grandriders_ (不老騎士) como documentário de maior bilheteria da história de Taiwan. Vinte e nove dias: ultrapassou 100 milhões, terceiro filme taiwanês a romper a barreira em 2013. Em 5 de janeiro de 2014, 66 dias de exibição, bilheteria passou de 200 milhões. Total final: **220 milhões de novos dólares taiwaneses**.
+Wu Nien-jen, que gravou a narração para este filme, comentou no verão de 2013 sobre as encostas das montanhas cobertas de casas e pensões, além de plantações de betel, visões que seriam impossíveis de notar sem filmagens aéreas. Ele disse que o maior problema dos taiwaneses é "fingir que não veem"; preferem não saber de todas as coisas terríveis, acreditando que vivem muito bem, mas quando algo acontece, apenas culpam o governo. Ele acrescentou que não se deve pensar que viver em pensões de estilo europeu na montanha ou comer couve é um ato de sofisticação; todos nós somos "cúmplices" no dano causado a Taiwan[^7].
 
-Em 2014, lançado em Singapura, tornou-se o documentário em língua chinesa de maior bilheteria na história do cinema singapurense. No Japão, título: _天空からの招待状_ (Convite do Céu).
+O crítico de cinema australiano Grant Watson, numa crítica escrita em 2019, captou precisamente este tom: o filme apresenta repetidamente uma bela paisagem e, em seguida, mostra como os taiwaneses a destroem; a narração está constantemente a repreender o espectador. Sob os padrões de um documentário, ele considerou-o repetitivo e monótono, mas, como uma declaração política, achou-o muito convincente[^13].
 
-_Ver Taiwan_ ganhou o **Cavalo de Ouro de Melhor Documentário** na 50ª edição, Prêmio Especial do Júri e Medalha de Ouro de Fotografia na 47ª Mostra Internacional de Cinema de Houston, Prêmio Sol de Ouro no 21º Festival Internacional de Cinema Verde. A trilha sonora foi indicada a Melhor Álbum Instrumental no 25º Golden Melody Awards.
+## Após Jiang Yi-hua assistir ao filme, o Executivo Yuan listou dezesseis problemas territoriais
 
-## A ilha que treme
+Em 13 de novembro de 2013, o Presidente do Executivo Yuan, Jiang Yi-hua, foi ao cinema assistir a 《看見台灣》 (Beyond Beauty: Taiwan from Above) e prometeu pessoalmente a Chih Pei-lin que o governo se esforçaria para resolver os problemas de destruição do território e poluição ambiental apresentados no filme[^15][^16]. Ele designou o Vice-Secretário de Assuntos Políticos, Chien Ta-lang, para convocar um grupo de trabalho dedicado à conservação do território. Na reunião realizada em 29 de novembro, os problemas territoriais mostrados no filme foram listados em dezessete itens, incluindo a instabilidade de encostas causada por estradas de alta montanha e comunidades residenciais localizadas próximas a terrenos perigosos[^15].
 
-O impacto de _Ver Taiwan_ foi muito além das salas de cinema.
+Jiang Yi-hua afirmou que o governo precisava agir com firmeza. O método definido pelo Executivo Yuan foi: ministérios responsáveis por questões de competência central devem tratar os problemas imediatamente; para questões de competência local, deve-se instar as cidades e condados a exigir que as empresas realizem melhorias dentro de um prazo determinado; caso as empresas não cumpram o prazo, o governo central pode realizar a execução forçada ou a demolição em seu nome[^15]. Inicialmente, o grupo de trabalho reunia-se quinzenalmente e, até o final de janeiro do ano seguinte, já havia realizado quatro reuniões e cinco visitas de verificação em campo[^15][^16].
 
-O filme expôs que a fábrica K7 da **ASE (日月光半導體)** despejava efluentes cancerígenos no riacho Houjin, em Kaohsiung. Após reportagens da mídia, o Bureau de Proteção Ambiental de Kaohsiung interveio. As lentes de Chi também flagraram pousadas ilegais em larga escala no **Chingjing Farm (清境農場)** e a extração de mármore da **Asia Cement (亞洲水泥)** no Monte Taroko New City, em Hualien. Uma vasta montanha descarnada, exposta, chocante.
+Em 26 de fevereiro de 2014, após ouvir os relatórios do Ministério dos Transportes, do Conselho de Agricultura e do Conselho de Assuntos Indígenas, Jiang Yi-hua determinou que, em princípio, novas estradas de alta montanha não seriam abertas e que não seria aconselhável alargá-las facilmente. Na mesma reunião, o Conselho de Assuntos Indígenas alertou que as estradas de montanha existentes são inseparáveis da vida cotidiana dos residentes das tribos, sendo rotas essenciais para a prevenção, evacuação e socorro em desastres. Como os recursos públicos disponíveis para as tribos nas montanhas são naturalmente menores do que nas planícies, as rodovias provinciais existentes devem manter o serviço normal para garantir a subsistência básica dos povos indígenas[^17].
 
-Em novembro de 2013, o Yuan Executivo criou a "Força-Tarefa de Conservação do Território Nacional". Em fevereiro de 2014, o premiê Jiang Yi-huah determinou: não abrir novas estradas de alta montanha; as já abertas não seriam alargadas levianamente.
+Chih Pei-lin disse a um repórter da revista _Vision_ que, embora as paisagens de Qingjing, em Nantou, pareçam belas para turistas, vistas do céu, revelam o cultivo excessivo e o deslizamento de terra ao redor, o que o preocupa profundamente quanto à segurança das pessoas que vivem ali[^1]. Qingjing estava entre as áreas de uso excessivo monitoradas pela primeira onda do grupo de trabalho[^18]. Em 2013, o Ministério do Interior anunciou sete pousadas ilegais em Qingjing localizadas em zonas geologicamente sensíveis[^19]. Em janeiro do ano seguinte, Jiang Yi-hua solicitou que o Ministério do Interior coordenasse com o governo do condado de Nantou a elaboração de um plano de ação para ser executado antes da chegada da estação chuvosa[^16]. Em 29 de maio de 2014, o governo do condado enviou escavadeiras para demolir a 「清境新宿」 (Qingjing Xinsu), que consistia inteiramente de construções ilegais sem possibilidade de regularização; ela tornou-se a primeira e única pousada demolida à força na época, enquanto as outras seis poderiam evitar a demolição se regularizassem suas licenças[^19].
 
-Mas o sucesso trouxe não só elogios. Muitas empresas e comércios investigados reagiram; ameaças à integridade física de Chi apareceram na internet.
+![Encostas na área de Qingjing, vilarejo de Ren'ai, Nantou, com construções de telhado vermelho espalhadas entre gramados e florestas](/article-images/people/qingjing-renai-hillside-2013.webp)
 
-Em maio de 2017, Chi sobrevoou novamente a área de mineração da Asia Cement no Monte Taroko New City, tirou fotos, enviou a amigos e escreveu: "Escavaram mais fundo do que cinco anos atrás, quando filmei _Ver Taiwan_." A foto só veio a público após sua morte.
+_Área de Qingjing, vilarejo de Ren'ai, Nantou, em julho de 2013, com construções de telhado vermelho espalhadas entre gramados e florestas. Foto: Xu Yuechun (Panoramio), CC BY 3.0._
 
-Em três dias, a petição online da Fundação Cidadãos da Terra pela revogação da prorrogação dos direitos de mineração da Asia Cement saltou de 42 mil para **mais de 200 mil assinaturas**. Em 25 de junho, mais de 20 ONGs organizaram a "Marcha Ver Asia Cement, Salvar Taroko"; mais de 8 mil pessoas marcharam na Avenida Ketagalan, formando o desenho "Ver Taiwan".
+Pan Chung-cheng, da Aliança Local de Taoyuan, foi convidado para a estreia em outubro de 2013 e ficou profundamente impactado ao ver as imagens aéreas dos recifes de Guanyin na tela. Em 2017, ele escreveu no Facebook que, após o filme expor as imagens das águas poluídas de Guanyin ao público, a qualidade da água na costa de Taoyuan foi gradualmente controlada; os mares negros, vermelhos e roxos de outrora deixaram de existir e, desde o ano anterior, os residentes da costa começaram a ver ostras e amêijoas novamente[^20].
 
-**Em julho de 2019**, o Tribunal Administrativo Superior de Taipé revogou a prorrogação dos direitos de mineração já concedida à Asia Cement, criando o **primeiro precedente de vitória do direito de consentimento prévio, livre e informado dos povos indígenas**. Em setembro de 2021, o Supremo Tribunal Administrativo manteve a decisão, transitada em julgado. Uma foto de Chi Po-lin acabou mudando a lei.
+> **📝 Nota do Curador**
+> É comum ouvir que 《看見台灣》 mudou a política territorial de Taiwan. Os registros deixados pelo próprio Executivo Yuan são mais concretos do que essa frase: o filme resultou, primeiramente, em uma lista de dezesseis itens, seguida por uma sucessão de reuniões e verificações de campo. Para que cada item da lista se transforme em uma casa demolida ou em uma estrada de montanha que não será aberta, é necessário que alguém persiga cada ponto individualmente — pessoas que estão sentadas nos ministérios e governos locais, mas que também estão nos tribunais, e algumas das quais vivem literalmente sob o solo das minas.
 
-## O último voo
+## No dia de reconhecimento de locação da sequência, o helicóptero não voltou
 
-Em 8 de junho de 2017, Chi Po-lin realizou a coletiva de abertura de _Ver Taiwan II_. Ele queria expandir o olhar para fora de Taiwan: China continental, Japão, Malásia, Nova Zelândia, rastrear a origem austronésia dos povos indígenas de Taiwan, despertar o "DNA aventureiro" adormecido no sangue dos taiwaneses.
+O dia 8 de junho de 2017 era o Dia Mundial dos Oceanos, e Zeppelin escolheu esta data para realizar a coletiva de imprensa de lançamento de 《Seeing Taiwan II》. A sequência pretendia levar as lentes para fora de Taiwan, voando sobre os céus de outros países, além de mergulhar no fundo do mar para observar o ecossistema marinho. Ele esperava que o público compreendesse que os problemas ambientais não conhecem fronteiras; sob o mesmo céu e o mesmo oceano, ninguém pode se isentar da responsabilidade[^21].
 
-"No sangue de vocês tem que existir o fator da aventura!" disse na coletiva.
+Dois dias depois, em 10 de junho, ele embarcou em um helicóptero da Ling Tien Air para realizar o reconhecimento de locação para a sequência. Esta era a terceira missão de filmagem aérea do dia; o helicóptero decolou por volta das 10h45 de Chishang, condado de Taitung, com a previsão de filmar ao longo de Yuli, Ruisui, Fengbin e Chenggong[^22][^23]. Por volta das 11h54, o helicóptero caiu perto da Ponte Changhong, na fazenda Xiejin, no município de Fengbin, condado de Hualien. As três pessoas a bordo faleceram: Zeppelin, aos 52 anos; seu assistente Chen Kuan-chi, aos 25 anos; e o piloto Chang Chih-kuang, aos 53 anos[^23][^24]. Chang Chih-kuang era originalmente um piloto de helicóptero militar e ingressou na Ling Tien Air em 2006, com um tempo total de voo superior a 5.500 horas[^23].
 
-Dois dias depois, 10 de junho, pela manhã, Chi embarcou no helicóptero Bell 206, matrícula B-31118, da Ling Tian Aviation, decolou de Hualien para a terceira missão de reconhecimento. A bordo, o equipamento profissional 6K comprado especialmente para o novo filme.
+O Ministério da Defesa enviou dois aviões de transporte C-130 no dia 12 de junho para transportar as três vítimas de Hualien para Taipé. Em 24 de junho, a presidente Tsai Ing-wen concedeu uma ordem de louvor na exposição memorial 「Seeing Zeppelin」, no Songshan Cultural and Creative Park, sendo o pai de Zeppelin, Chih Wei-hsin, o representante que recebeu a honraria[^25][^26]. Em seu discurso, Tsai Ing-wen mencionou que, em vida, Zeppelin frequentemente agradecia a Chang Chih-kuang por usar suas melhores técnicas de voo para acompanhá-lo em suas aventuras: 「Sempre nos lembraremos de que houve um piloto tão corajoso」[^26].
 
-Por volta das 11h56, o helicóptero caiu na área montanhosa perto da Ponte Changhong, no distrito de Fengbin, Hualien. Os três ocupantes faleceram: Chi Po-lin, o assistente Chen Kuan-chi e o piloto Chang Chih-kuang. O relatório do Conselho de Segurança de Voo apontou causas combinadas: o piloto Chang Chih-kuang havia tomado anti-histamínico afetando reflexos, no dia anterior já cumprira 3 missões de voo causando fadiga, e correntes de ar fortes e repentinas no local.
+Tsai Ing-wen também leu um trecho escrito por um colega de universidade de Chen Kuan-chi. Este colega é o administrador da página de Facebook da Administração da Área Paisagística Nacional do Vale de Huadong e escreveu após a morte de Chen: 「Espero que o nome Chen Kuan-chi não seja lembrado apenas como o assistente do diretor Zeppelin, mas como um nome de um jovem que se dedicou e amou esta terra」[^26].
 
-Quando encontraram o corpo de Chi, ao lado estavam espalhados seus equipamentos fotográficos, valendo milhões.
+O Comitê de Investigação de Segurança de Voo (AIAT) investigou por um ano e quatro meses, publicando o relatório final em 31 de outubro de 2018[^27][^28]. Este helicóptero não estava equipado com uma caixa preta (registrador de voo) e a maior parte da fuselagem foi destruída pelo fogo após o impacto; os investigadores não tinham dados de voo para ler, nem puderam examinar os destroços ou testar o motor[^22]. O que eles puderam utilizar foi a câmera de filmagem aérea a bordo: no dia seguinte ao acidente, a equipe de investigação, juntamente com membros da Abubu Film, baixou o cartão de memória e obteve 72 vídeos, usando as imagens para reconstruir a trajetória percorrida pelo helicóptero[^23].
 
-## Legado que transcende a vida
+O relatório listou várias condições relacionadas às possíveis causas: o piloto poderia ter sido afetado por medicamentos anti-histamínicos; o tempo de voo era elevado devido ao descanso ter sido apenas o mínimo exigido por regulamento; a exposição prolongada à vibração do helicóptero; além do ambiente de voo em baixa altitude, em áreas montanhosas e sob as altas temperaturas do verão. Essas condições poderiam ter deixado o piloto 「em um estado de fadiga ou com capacidades de desempenho físico e mental reduzidas」 no momento do acidente[^22].
 
-A morte de Chi Po-lin abalou toda a sociedade taiwanesa.
+A concentração de anti-histamínicos detectada no sangue dele era de 24 ng/mL; esse tipo de medicamento é comumente usado para sintomas alérgicos como coriza e coceira na pele. O relatório declarou que 「o resíduo deste medicamento deve ser atribuído ao acúmulo de uso normal de medicamentos」, mas também admitiu a falta de evidências diretas para avaliar a operação e o julgamento dele no momento do acidente, não sendo possível determinar o quanto essas condições afetaram a execução segura da missão[^22][^29]. Um comentário publicado pelo _The New News_ questionou que, na ausência de evidências diretas, incluir o uso de medicamentos e a fadiga como possíveis causas não condizia com o padrão de redação anterior do AIAT[^30].
 
-O Ministério da Defesa enviou dois **C-130 Hercules** de Hualien para transportar o corpo de volta ao Aeroporto de Songshan, em Taipé, com formação de homenagem e saudação. Chi já havia ajudado a Força Aérea em documentários, inclusive o microfilme de 2015 "Ver Taiwan, Anjos da Misericórdia", sobre os 60 anos do Esquadrão de Resgate Aéreo.
+O relatório também registrou lacunas sistêmicas: a Autoridade de Aviação Civil não forneceu diretrizes sobre o uso de medicamentos para pilotos e médicos examinadores, e os horários de entrada e saída nos diários de operações externas da Ling Tien Air não coincidiam com o tempo real de serviço das tripulações[^22]. Além disso, conforme a regulamentação, este helicóptero não precisava estar equipado com um registrador de voo[^30]. De acordo com a Lei de Investigação de Acidentes Aéreos, esta investigação 「não tem como objetivo punir ou atribuir responsabilidades」[^23]. O relatório propôs, por fim, 18 recomendações de melhoria — 9 para a Ling Tien Air e 9 para a Autoridade de Aviação Civil —, incluindo uma solicitação para que a autoridade avalie ativamente a viabilidade da instalação de registradores de voo simplificados para a aviação comercial geral[^22][^28].
 
-Em 24 de junho, a presidente Tsai Ing-wen, na exposição memorial "Ver Chi Po-lin", entregou pessoalmente a Ordem de Louvor: "Apresentou a beleza da paisagem de Taiwan sob perspectiva aérea, expôs poluição por efluentes e ocupação ilegal, revelou mudanças no desenvolvimento ambiental, despertou a consciência de conservação do território nacional."
+![Cena da exposição memorial 「Seeing Zeppelin」 no Songshan Cultural and Creative Park, com alguém discursando à frente e uma grande foto aérea de paisagem montanhosa ao fundo](/article-images/people/chi-po-lin-memorial-exhibition-2017.webp)
 
-O legado que deixou atravessa os limites da vida:
+_24 de junho de 2017, exposição memorial 「Seeing Zeppelin」 no Songshan Cultural and Creative Park. Foto: Presidência (Flickr), CC BY 2.0._
 
-- **Asteroide 281068** batizado com seu nome
-- **Neorhynchoplax chipolini** (caranguejo de água doce) e **Dendronereis chipolini** (poliqueta), nomeados pelo professor Hsueh Pan-wen, da Universidade Nacional Chung Hsing
-- O primeiro satélite da constelação **Formosat-8** (福爾摩沙衛星八號) nomeado "Satélite Chi Po-lin"
-- Em 2018, a **Fundação Ver Chi Po-lin** (看見·齊柏林基金會) foi criada, assumindo 600 mil fotos aéreas e cerca de mil horas de registros em vídeo
-- Em 2019, o **Espaço Chi Po-lin** (齊柏林空間) inaugurado em Tamsui (Rua Zhongzheng 316-1, Distrito de Tamsui, Nova Taipé)
-- No campus da Escola Primária Dongpu, em Xinyi Township, Nantou, foi planejado o **"Caminho Berlim" (柏林小徑)**
-- No Cemitério Chin Pao San (金寶山園區) há um memorial a Chi Po-lin, ao lado de Teresa Teng, Hu Chin-chuan (胡金銓) e Lee Tien-lu (李天祿)
+## A grande cratera cinzenta da mina da Asia Cement e os quatro membros da tribo que recorreram ao tribunal
 
-### Publicações e obras audiovisuais
+No movimento "Devolvam-nos a terra" dos membros da tribo Truku contra a Asia Cement (Yani), Tian Chun-chou já persistia há vinte anos em 2017. Ao longo desse tempo, ela reuniu dados e descobriu documentos de renúncia de terras falsificados pelo escritório do distrito na época, vencendo o processo judicial para recuperar os títulos de propriedade de parte das terras. Quando Tsai Ing-wen, representando o governo, pediu desculpas aos povos indígenas em 2016, também recebeu as petições dela[^32].
 
-| Ano  | Obra                                                                                                     | Tipo         |
-| ---- | -------------------------------------------------------------------------------------------------------- | ------------ |
-| 1997 | _Imagens da Norte-2: Profundo Afeto Abraçando a Grande Terra_ (北二高映像：懷抱大地的深情)               | Fotolivro    |
-| 2004 | _Voando sobre Taiwan: A História da Nossa Terra_ (飛閱台灣：我們的土地故事)                              | Fotolivro    |
-| 2012 | _Vendo Taiwan do Ar: Coleção de Fotografia Aérea de Chi Po-lin_ (從空中看台灣：齊柏林空中攝影集), 2ª ed. | Fotolivro    |
-| 2012 | _Taiwan Vista de Pássaro_ (鳥目台灣) (texto de Liu Kexiang, música de Chen Ming-chang)                   | Documentário |
-| 2013 | _Voando sobre os Parques Nacionais de Taiwan_ (飛閱臺灣國家公園)                                         | Documentário |
-| 2013 | _Meu Coração, Meus Olhos, Ver Taiwan_ (我的心，我的眼，看見台灣)                                         | Livro        |
-| 2013 | **_Ver Taiwan_** (看見台灣) (narração de Wu Nien-jen, produtor supervisor Hou Hsiao-hsien)               | Documentário |
-| 2015 | _Sonata da Ilha: Coleção de Fotografia Aérea de Chi Po-lin_ (島嶼奏鳴曲：齊柏林空中攝影集)               | Fotolivro    |
+Em 14 de março de 2017, o Ministério da Economia aprovou a prorrogação do direito de mineração da mina de Xinchengshan da Asia Cement, permitindo que ela continuasse operando por mais vinte anos, até 2037[^33][^34]. Assim que a notícia se espalhou, a sociedade civil iniciou uma petição para revogar a prorrogação, e Chih Pei-lin também assinou. Ele sempre se preocupou com os problemas de mineração em Hualien e Taitung, tendo fornecido gratuitamente imagens aéreas para uso de grupos ambientais[^11][^32].
 
-De 3 milhões de poupança de um funcionário público a 220 milhões de bilheteria; de 20 horas anuais de orçamento de filmagem aérea a 1.600 horas acumuladas no céu; de uma foto aérea do Jardim da Família Lin em Wufeng a uma sentença judicial que mudou os direitos de mineração da Asia Cement. Chi Po-lin usou 26 anos para fazer uma coisa: fazer os taiwaneses verem sua própria ilha a partir do céu.
+Em maio do mesmo ano, para filmar grandes cetáceos no mar, ele foi fazer um reconhecimento de locação na área de [Qingshui Cliff](/pt/geography/qingshui-cliff). No caminho de volta, tirou uma foto na montanha Duantou, em Taroko: onde deveria haver uma vasta floresta verde, havia sido escavada uma enorme cratera cinzenta. Ao carregar a foto, ele lamentou que a Asia Cement "estava cavando mais fundo do que quando filmei _Seeing Taiwan_ cinco anos atrás"[^31].
 
-Ele disse certa vez: "Taiwan no passado era realmente muito bonita! Mas nestas décadas, na busca pelo desenvolvimento econômico, inadvertidamente a ferimos."
+![Mina de Xinchengshan da Asia Cement; uma área de mineração em degraus cinzentos escavada no meio de uma encosta verde](/article-images/people/asia-cement-xincheng-quarry-2016.webp)
 
-Após a cerimônia de despedida em 14 de julho, Chi Po-lin repousa no Cemitério Chin Pao San, em Jinshan, Nova Taipé.
+_Mina de Xinchengshan da Asia Cement, em Hualien, em novembro de 2016; uma área de mineração em degraus cinzentos foi escavada no meio da encosta verde. Foto: Simballin, CC BY-SA 4.0._
 
-> ✦ "Taiwan é tão bela, vale a pena eu usar a vida para registrá-la."
+Após o seu falecimento, a petição para revogar a prorrogação atingiu 210 mil assinaturas. Na tarde de 25 de junho, a marcha "Veja a Asia Cement, Salve Taroko" partiu da frente do Executivo Yuan. Liderada por 160 membros da [tribo Truku](/pt/culture/truku-people) da aldeia Fushi, em Xincheng, Hualien, mais de 8 mil pessoas caminharam até o Boulevard, onde formaram coletivamente a imagem de Taiwan e ela foi fotografada do alto. A organizadora, a Earth Citizen Foundation, afirmou que isso foi feito para homenagear Chih Pei-lin. Tian Chun-chou, que já tem 75 anos, sobreviveu a dois ataques cardíacos e usa cadeira de rodas, subiu ao palco e disse: "Enquanto eu tiver um sopro de vida, vou lutar contra a Asia Cement até o fim!"[^32]
 
----
+Os quatro membros da tribo Boshian que moveram a ação judicial vivem todos a uma distância direta de menos de 500 metros da área de mineração: Xu A-chin é proprietária de terras dentro da área de mineração, Tian Ming-cheng é o detentor do direito de cultivo das terras na área, e Zheng Wen-quan e Bai Mei-hua também estão entre os autores do processo[^33][^35]. Em outubro de 2017, eles apresentaram uma ação administrativa ao Tribunal Administrativo Superior de Taipé para revogar a decisão de prorrogação; a partir de então, a controvérsia sobre a [mina de Xinchengshan da Asia Cement](/pt/history/asia-cement-xincheng-mine) entrou nos tribunais[^34][^33]. Em 11 de julho de 2019, a primeira instância decidiu pela revogação da prorrogação. Em 16 de setembro de 2021, o Tribunal Administrativo Supremo rejeitou o recurso da Asia Cement, tornando a sentença definitiva. O motivo foi que, antes da aprovação da prorrogação pelo Ministério da Economia, não foram cumpridos os procedimentos de consulta e consentimento previstos no Artigo 21 da Lei Básica dos Povos Indígenas — ou seja, não houve consulta prévia nem obtenção de consentimento das tribos[^33][^34].
+
+Durante os anos em que o processo durou, a lista de dezesseis itens do Executivo Yuan já havia sido devolvida aos respectivos ministérios: o Grupo de Trabalho para Conservação Nacional parou de operar após a alternância de partidos em 2016, e as tarefas originalmente atribuídas passaram a ser conduzidas por cada ministério[^18]. Em abril de 2018, o magistrado do condado de Nantou, Lin Ming-chen, confirmou que haveria uma suspensão condicional da ordem de proibição de construção em Qingjing, que durava quase seis anos, afirmando: "Se nem mesmo essas instalações agrícolas simples puderem ser feitas, isso causará sofrimento imensurável aos nossos agricultores". Li Gen-zheng, da Earth Citizen Foundation, respondeu que o tratamento de casos individuais acaba se tornando uma questão de "quem tem o punho mais forte ou quem tem mais influência?"[^37]. Em março de 2021, das pousadas com construções ilegais graves em Qingjing monitoradas pela Agência de Construção, restava apenas uma para ser demolida; o governo do condado disse que definiria um cronograma posteriormente[^38].
+
+Após a decisão definitiva, Luo Di-youdao, presidente do conselho da tribo Boshian, manifestou-se explicando que respeitava o direito dos membros da tribo de expressarem opiniões individuais, mas não via com bons olhos o uso indevido do nome da tribo para manifestações; a tribo ainda não tinha um consenso sobre a Asia Cement e realizaria uma reunião explicativa para reunir as visões dos membros. Uma reportagem da Central News Agency também escreveu que a operação da Asia Cement na região afeta o emprego e a segurança residencial[^35].
+
+De acordo com o Artigo 13 da Lei de Mineração, após a sentença, o direito de mineração retorna ao estado de "solicitação de prorrogação", e durante o período de solicitação, a empresa ainda mantém o direito de mineração. O Ministério da Economia afirmou que as operações de mineração podem continuar normalmente, sem interrupção, mas exigirá que a Asia Cement complete o processo de consulta e consentimento com a tribo antes de uma nova revisão[^36][^35]. Os autores do processo, Zheng Wen-quan e Bai Mei-hua, disseram que a segurança residencial e das terras de mais de 200 pessoas em mais de sessenta residências abaixo da área de mineração continua sem perspectiva de futuro; se a Lei de Mineração não for reformada, não haverá justiça. Eles descreveram sua situação após o fim do processo assim[^35]:
+
+```tw-quote
+A batalha judicial foi vencida, mas a Asia Cement continuará explodindo montanhas
+Zheng Wen-quan, Bai Mei-hua | Membros da tribo Boshian que moveram a ação, após a sentença definitiva em 2021
+Fonte: Central News Agency, 24-09-2021
+```
+
+```tw-timeline
+A lista do Executivo Yuan e o processo da Asia Cement
+2013 | O Primeiro Ministro vê o filme | 13/11 Jiang Yi-hua assiste a 《Seeing Taiwan》; 29/11 o grupo de trabalho lista 16 problemas de conservação nacional vistos no filme
+2014 | Princípios para estradas de alta montanha não são mais expandidos | 26/02 o Executivo Yuan decide; o Conselho de Assuntos Indígenas alerta que as estradas existentes são vitais para a vida e desastres das tribos
+2017 | Prorrogação do direito de mineração até 2037 | 14/03 o Ministério da Economia aprova a prorrogação da mina de Xinchengshan da Asia Cement; a sociedade civil inicia petição para revogação
+2017 | A imagem de Taiwan no Boulevard | 25/06 membros da tribo Truku da aldeia Fushi lideram marcha; o número de assinaturas sobe para 210 mil após a morte de Chih Pei-lin
+2019 | Primeira instância revoga prorrogação | 11/07 o Tribunal Administrativo Superior de Taipé decide pela revogação, alegando descumprimento do Artigo 21 da Lei Básica dos Povos Indígenas
+2021 | Sentença definitiva, mineração continua normalmente | 16/09 o Tribunal Administrativo Supremo rejeita o recurso da Asia Cement; conforme o Artigo 13 da Lei de Mineração, a extração pode continuar durante o período de solicitação de prorrogação
+Fonte: Executivo Yuan, Tribunal Administrativo Supremo, Centro de Informações Ambientais, Sing Tao
+```
+
+## Dos helicópteros alugados pela Administração de Engenharia de Rodovias ao satélite a 561 quilômetros de distância
+
+Às 2h44 da manhã do dia 29 de novembro de 2025, no horário de Taiwan, o foguete Falcon 9 da SpaceX decolou da Base da Força Espacial Vandenberg, na Califórnia, Estados Unidos, para colocar o primeiro satélite da série vệia-8 do [Centro Espacial Nacional](/pt/technology/tasa-taiwan-space-agency) em uma órbita heliosíncrona a 561 quilômetros de altitude[^39][^40]. O satélite foi batizado de "Zeppelin". O presidente Lai Ching-te afirmou que o nome foi escolhido com a "esperança de que o espírito do diretor Chih Pei-lin se estenda ao espaço, continuando a vigiar Taiwan e a observar o mundo"[^41].
+
+Há mais de trinta anos, a Administração de Engenharia de Rodovias começou a alugar helicópteros para um jovem funcionário que originalmente era responsável por compras, permitindo que ele tirasse fotos aéreas das obras das rodovias nacionais. O diretor da autarquia queria que ele se concentrasse no que gostava de fazer. O que ele amava acabou levando-o a voar sobre todo o céu de Taiwan, produzindo um filme cuja bilheteria em todo o país ultrapassou NT$ 200 milhões[^1][^2][^10]. Em sua jornada, estiveram presentes pilotos de helicóptero, assistentes que o acompanhavam nos voos e Wu Nien-jen, que gravou a narração sem cobrar nada[^7]. No dia do lançamento do satélite, Qi Ting-huan — o filho que, na época, deixava bilhetes na mesa perguntando sobre o valor das aulas — disse em um vídeo que seu pai sempre desejou que aquilo que ele via fosse visto por todos, usando o poder do "ver" para criar e transformar[^39].
+
+Em vida, Chih Pei-lin costumava dizer que a fotografia aérea não era algo que uma única pessoa pudesse realizar[^26]. O caminho de "ver" até "mudar" segue a mesma lógica. Ele próprio deu sua contribuição, assinando petições para revogar prorrogações e enviando imagens aéreas para grupos ambientalistas[^11]. Até 2017, Tian Chun-chou já lutava contra a Asia Cement há vinte anos pelo lema "devolvam-me a terra"; quatro membros de uma tribo que viviam próximos à área de mineração levaram o processo de prorrogação até o Tribunal Administrativo Supremo[^32][^33]. Essa força do "ver" mencionada por Qi Ting-huan precisa ser acolhida por um grupo de pessoas como este para que se transforme em mudança.
+
+**Leituras complementares**:
+
+- [O incidente da mina de Xinchengshan da Asia Cement](/pt/history/asia-cement-xincheng-mine) — Como a sentença foi escrita, por que o direito de mineração ainda é considerado vigente após o julgamento e as questões que a tribo continua questionando durante a reavaliação do impacto ambiental em 2026.
+- [História do movimento ambiental em Taiwan](/pt/nature/taiwan-environmental-movement-history) — Antes da estreia de 《Beyond Beauty: Taiwan from Above》, as lutas ambientais em Taiwan já haviam percorrido um longo caminho; este artigo detalha essa trajetória.
+- [Desfiladeiro de Qingshui](/pt/geography/qingshui-cliff) — A costa que Chih Pei-lin visitou para reconhecimento de locação em maio de 2017 para filmar baleias e golfinhos; a área de mineração de Taroko, pela qual passou no caminho de volta, fica nas proximidades.
+- [Centro Espacial Nacional](/pt/technology/tasa-taiwan-space-agency) — O projeto por trás do satélite vệia-8 "Zeppelin" e como Taiwan construiu seus próprios satélites passo a passo.
+- [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) — Diretor representativo do Novo Cinema de Taiwan, que aceitou o crédito de produtor executivo para 《Beyond Beauty: Taiwan from Above》 após assistir apenas seis minutos da versão preliminar.
+- [Rodovias](/pt/lifestyle/national-highway-system) — Desde a Rodovia Mai Shu em 1964 até a rede de rodovias nacionais de hoje; o que Chih Pei-lin filmava na Administração de Engenharia de Rodovias era justamente a construção dessa malha viária.
+
+## Fontes das imagens
+
+As 6 imagens abaixo possuem licença CC e estão todas em cache em `public/article-images/people/` para evitar o hotlinking dos servidores de origem; os vídeos são incorporados via licença CC do canal oficial da Hualien Cable TV:
+
+- [Sessão especial ao ar livre de 'Seeing Taiwan' (hero)](<https://commons.wikimedia.org/wiki/File:%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E9%9C%B2%E5%A4%A9%E7%89%B9%E6%98%A0_(10647981644).jpg>) — Foto: othree (Flickr), 2013-10-30, Wikimedia Commons, CC BY 2.0
+- [O diretor taiwanês Chih Pei-lin na estreia ao ar livre de 《看見台灣》](<https://commons.wikimedia.org/wiki/File:2013_%E8%87%BA%E7%81%A3%E5%B0%8E%E6%BC%94%E9%BD%8A%E6%9F%8F%E6%9E%97%E5%9C%A8%E6%89%80%E5%9F%B7%E5%B0%8E%E7%9A%84%E3%80%8A%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E3%80%8B%E9%9C%B2%E5%A4%A9%E9%A6%96%E6%98%A0%E6%9C%83(%E8%87%BA%E5%8C%97%E8%87%AA%E7%94%B1%E5%BB%A3%E5%A0%B4)_Taiwanese_Director_Chi_Po-lin_at_the_Premiere_of_his_%22Beyond_Beauty_-_TAIWAN_FROM_ABOVE%22_in_Taipei,_TAIWAN.jpg>) — Foto: othree (Flickr), 2013-10-30, Wikimedia Commons, CC BY 2.0
+- [Taiwanese Aerial Photographer Po-lin Chi](https://commons.wikimedia.org/wiki/File:Taiwanese_Aerial_Photographer_Po-lin_Chi.JPG) — Foto: SSR2000, 2013-10-28, Wikimedia Commons, CC BY-SA 3.0
+- [Aldeia Datong, município de Ren'ai, condado de Nantou (área de Qingjing)](<https://commons.wikimedia.org/wiki/File:546,_Taiwan,_%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BB%81%E6%84%9B%E9%84%89%E5%A4%A7%E5%90%8C%E6%9D%91_-_panoramio_(29).jpg>) — Foto: Xu Yuechun (Panoramio), 2013-07-08, Wikimedia Commons, CC BY 3.0
+- [Exposição comemorativa 「Seeing Chih Pei-lin」](<https://commons.wikimedia.org/wiki/File:06.24_%E3%80%8C%E7%9C%8B%E8%A6%8B%E9%BD%8A%E6%9F%8F%E6%9E%97%E3%80%8D%E7%B4%80%E5%BF%B5%E5%B1%95_(35109783300).jpg>) — Foto: Presidência (Flickr), 2017-06-24, Wikimedia Commons, CC BY 2.0
+- [Asia Cement Mt. Xincheng Quarry](https://commons.wikimedia.org/wiki/File:Asia_Cement_Mt._Xincheng_Quarry.jpg) — Foto: Simballin, 2016-11-19, Wikimedia Commons, CC BY-SA 4.0
+- [O diretor Chih Pei-lin vem pessoalmente agradecer no evento 'Yuli Big Feet Sees Taiwan'](https://www.youtube.com/watch?v=on2AYFJ-Hy0) — Canal oficial da Hualien Cable TV no YouTube, 2014-03-23, CC BY 3.0
 
 ## Referências
 
-- [Chi Po-lin (Taiwan) - Wikipédia](<https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)>)
-- [Ver Taiwan - Wikipédia](https://zh.wikipedia.org/wiki/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3)
-- [Acidente do helicóptero da Ling Tian Aviation em 2017 - Wikipédia](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E5%87%8C%E5%A4%A9%E8%88%AA%E7%A9%BA%E7%9B%B4%E5%8D%87%E6%A9%9F%E4%BA%8B%E6%95%85)
-- [Fundação Ver Chi Po-lin](https://www.chipolin.org/)
-- [50º Cavalo de Ouro - Wikipédia](https://zh.wikipedia.org/wiki/%E7%AC%AC50%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E)
-- [Relatório de investigação da queda de Chi Po-lin - Conselho de Segurança de Voo](https://www.asc.gov.tw/)
-- [Movimento anti-Asia Cement e sentença do direito de consentimento indígena - The News Lens](https://www.thenewslens.com/article/70817)
-- [Ou Chin-te escreve sobre Chi Po-lin](<https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)#cite_note-12>)
-- _Minsheng Daily_ (民生報), 12 de maio de 2003, "Chi Po-lin fotografa a Ilha Formosa do alto" (齊柏林空拍寶島)
-- _Taiwan Daily_ (台灣日報), 25 de setembro de 2004, "Chi Po-lin ama Taiwan com fotografia de alta altitude" (齊柏林用高空攝影愛台灣)
+[^1]: [Vista Magazine: Chih-Lin: Voando até o céu para conhecer sua própria terra (Wang Mei-chen, 01/11/2013)](https://www.gvm.com.tw/article/18627) — Uma entrevista de perfil publicada no dia da estreia do filme, registrando seu período responsável por compras na Administração de Engenharia de Rodovias, o diálogo com o diretor Ou Chin-te, o processo de fotografar para a administração durante a época da rodovia Beier, sua mudança de perspectiva após o terremoto de 921 e a abertura da Nova Linha Central, além de seu pedido de demissão, empréstimos e busca por patrocínios corporativos; o custo total de produção foi de aproximadamente NT$ 90 milhões, e a trilha sonora de Ho Kuo-chieh foi gravada em Praga, conforme detalhado neste artigo.
+
+[^2]: [Next Magazine: Chih-Lin: Tornar as filmagens aéreas de Taiwan sua missão de vida (27/09/2013)](https://www.businesstoday.com.tw/article/category/80407/post/201309270045/) — Um perfil extenso publicado antes da estreia, relatando sua primeira experiência de filmagem aérea com o veterano fotógrafo Huang Chin-fa, a proposta feita a Ou Chin-te para alugar um helicóptero, o tour aéreo pela ilha em 2009 e a entrada na zona de desastre após o tufão Morakot, seu afastamento remunerado do trabalho, o bilhete de seu filho e seu relato sobre consultar sua mãe para hipotecar a casa; o sistema de estabilização de câmera que ele comprou era um item controlado pelo Departamento de Estado dos EUA, exigindo seis meses de análise antes do início das filmagens em 2010.
+
+[^3]: [Centro de Informação Ambiental: Chih-Lin 'Taiwan sob o Olhar de um Pássaro': Proteger a natureza é o que o governo mais deve fazer (16/08/2013)](https://e-info.org.tw/node/88498) — Reportagem sobre o lançamento da versão doméstica de 'Taiwan sob o Olhar de um Pássaro', onde o repórter menciona que tanto Chih-Lin quanto Chen Ming-chang acreditam que 'os lugares sem estradas são os mais belos', citando as montanhas altas e a costa de Alangyi como exemplos, além da observação dele sobre o poder de disseminação comparativo entre fotos e vídeos.
+
+[^4]: [Super Woman: O diretor Chih-Lin desafia novos limites de visão com 'Formosa Dream'](https://www.marieclaire.com.tw/lifestyle/news/11846) — Um perfil que registra sua decisão de pedir demissão aos 47 anos para se tornar fotógrafo aéreo em tempo integral, o momento em que teve a ideia de fazer filmes ao ver alguém cochilando durante uma palestra, sua inspiração no documentário 'Earth'; também detalha o processo de esperar seis dias pela estação das chuvas em Yuli para filmar pegadas nos arrozais; menciona que o financiamento coletivo para a estreia ao ar livre atingiu a meta antecipadamente.
+
+[^5]: [Reportagem de perfil do Taipei Times, 12 de junho de 2017](https://www.taipeitimes.com/News/taiwan/archives/2017/06/12/2003672416) — Um artigo de perfil em inglês publicado após seu falecimento, citando seu relato no livro: aos 47 anos, faltando apenas três anos para poder receber sua aposentadoria vitalícia, ele deixou o serviço público, hipotecou a casa e pediu dinheiro emprestado a amigos para filmar.
+
+[^6]: [Reportagem do Taipei Times, 5 de outubro de 2013](https://www.taipeitimes.com/News/taiwan/archives/2013/10/05/2003573775) — Uma reportagem em inglês sobre o sucesso imediato das vendas dos ingressos para a estreia no Kaohsiung Arena, registrando que o orçamento de produção foi de quase NT$ 90 milhões, com duração de 93 minutos, e contando com a produção de Hou Hsiao-hsien, trilha sonora de Ho Kuo-chieh e narração de Wu Nien-jen.
+
+[^7]: [ETtoday: Quando algo acontece, só se culpa o governo; Wu Nien-jen: O maior problema dos taiwaneses é fingir que não veem (23/06/2013)](https://star.ettoday.net/news/229063) — Conversa de Wu Nien-jen ao gravar voluntariamente a narração para 'Formosa Dream', mencionando as casas e pousadas construídas nas encostas das montanhas mostradas no filme, além de suas falas sobre 'fingir que não vê' e ser um 'cúmplice'; também registra que ele abriu uma exceção ao não cobrar pela narração deste filme.
+
+[^8]: [flyingV: A estreia ao ar livre de 'Formosa Dream' de Chih-Lin](https://www.flyingv.cc/projects/791) — Página do projeto de financiamento coletivo, realizado com sucesso de 25 de setembro a 21 de outubro de 2013, cujos fundos foram usados para realizar uma grande estreia ao ar livre; as recompensas incluíam pôsteres promocionais e camisetas.
+
+[^9]: [Liberty Times: Apoio total ao cinema nacional; estreia de 'Formosa Dream' esgota (24/10/2013)](https://news.ltn.com.tw/news/local/paper/724654) — A Secretaria de Cultura de Kaohsiung forneceu gratuitamente o local do Arena para uma estreia para 10 mil pessoas, com toda a bilheteria destinada à produtora do filme; a prefeita Chen Chu comprou os direitos de imagem naquela noite para usar como material didático em escolas primárias e secundárias de Kaohsiung.
+
+[^10]: [TVBS retransmissão da Mirror Media: Reportagem sobre a preparação de 'Formosa Dream II' (09/06/2017)](https://news.tvbs.com.tw/life/735225) — Registra que 'Formosa Dream' estabeleceu o recorde de maior bilheteria para um documentário na história do cinema de Taiwan (ultrapassando NT$ 200 milhões), venceu os prêmios de Melhor Documentário e Melhor Trilha Sonora no Golden Horse Awards, e desencadeou uma onda de preocupação ambiental em toda a sociedade taiwanesa, independentemente de inclinação política.
+
+[^11]: [ETtoday: 'Já forneceu imagens aéreas gratuitamente...' Luto por Chih-Lin; Grupos ambientais: Combinamos de nos esforçar juntos (11/06/2017)](https://www.ettoday.net/news/20170611/942565.htm) — Discurso de condolências de Li Gen-zheng, CEO da Citizen Matters, mencionando que Chih-Lin forneceu imagens aéreas gratuitamente para grupos ambientais e participou de petições para revogar a prorrogação ilegal da Asia Cement; o mesmo artigo menciona que o piloto tinha 52 anos, o que difere dos 53 anos registrados no relatório de investigação do acidente.
+
+[^12]: [Newtalk: Hsu Ming-chun fala sobre documentários taiwaneses (18/12/2025)](https://newtalk.tw/news/view/2025-12-18/1010309) — O diretor Hsu Ming-chun, em entrevista, apontou que o recorde de bilheteria para documentários em Taiwan ainda pertence a 'Formosa Dream', com cerca de NT$ 200 milhões, algo difícil de ser alcançado até por filmes de ficção.
+
+[^13]: [Fictionmachine: Review: Beyond Beauty: Taiwan from Above (2013) (Grant Watson, 20/08/2019)](https://fictionmachine.com/2019/08/20/review-beyond-beauty-taiwan-from-above-2013/) — Uma crítica de cinema em inglês de um crítico australiano, que critica o filme por alternar repetidamente entre belas paisagens e destruição, com uma narração que repreende o público, mas ao mesmo tempo elogia sua força como declaração política e recomenda que os leitores o assistam.
+
+[^14]: [Hualien Cable TV: Yuli vê Taiwan; O diretor Chih-Lin vem pessoalmente agradecer (23/03/2014)](https://www.youtube.com/watch?v=on2AYFJ-Hy0) — Vídeo de notícia do canal oficial de TV a cabo local de Hualien, registrando o momento em que ele retornou a Yuli para agradecer após a estreia do filme; o vídeo é disponibilizado sob licença CC BY 3.0.
+
+[^15]: [Executivo Yuan: Inspirados por 'Formosa Dream', o Executivo Yuan fortalecerá a conservação nacional (29/11/2013)](https://www.ey.gov.tw/Page/9277F759E41CCD91/d26c229a-290c-44c7-bbb0-56c437e2f829) — Comunicado de imprensa da primeira reunião do grupo de tarefas para conservação nacional, registrando que Jiang Yi-hua, após assistir ao filme, fez promessas imediatas a Chih-Lin e designou Jian Tang-lao para convocar o grupo; listou item por item os dezesseis problemas de conservação nacional mostrados no filme, além das medidas de execução compulsória pelo governo central e a prática de reuniões quinzenais iniciais.
+
+[^16]: [Executivo: Situação do Grupo de Trabalho para Conservação do Território Nacional (28-01-2014)](https://www.ey.gov.tw/Page/9277F759E41CCD91/a93607e5-ed62-4319-9be9-7b31d40e2755) — Registra que Jiang Yi-hua, em 13 de novembro de 2013, assistiu ao filme; o grupo de trabalho realizou quatro reuniões e cinco verificações de campo, além de instruir o governo do condado de Nantou a elaborar um plano de tratamento para sete pousadas ilegais em Qingjing, a ser executado antes da temporada de chuvas.
+
+[^17]: [Executivo: Presidente Jiang ouve relatório sobre questões relacionadas à construção de estradas de alta montanha (26-02-2014)](https://www.ey.gov.tw/Page/9277F759E41CCD91/d83a7656-314e-42a9-a077-467011887fbd) — Relatório das três partes — Ministério dos Transportes, Conselho de Agricultura e Desenvolvimento Rural, e Conselho de Assuntos Indígenas — e a decisão do Presidente de que, em princípio, não serão abertas novas estradas de alta montanha; o Conselho de Assuntos Indígenas explicou que as estradas existentes são necessárias para a vida cotidiana e para a prevenção e resposta a desastres das tribos.
+
+[^18]: [Sanli News: A ação do governo não acompanha a destruição do território; a conservação nacional ainda tem um longo caminho a percorrer (2018)](https://www.setn.com/news/386719) — Revisão da primeira fase do grupo de trabalho, que focou em áreas de uso excessivo como Qingjing, Lishan, termas de Lushan e Yangmingshan; registra que o grupo parou de operar após a alternância de partidos, com as funções originais sendo continuadas por cada departamento, e o anúncio do Plano Nacional de Uso do Território em 30 de abril de 2018.
+
+[^19]: [PTS News: 'Nova Pousada em Qingjing' não pôde renovar licença e foi alvo de demolição forçada (29-05-2014)](https://news.pts.org.tw/article/270184) — Reportagem sobre o processo de demolição forçada da primeira — e na época única — das sete pousadas ilegais em áreas geologicamente sensíveis em Qingjing anunciadas pelo Ministério do Interior no ano anterior; as outras seis puderam evitar a demolição após a renovação das licenças.
+
+[^20]: [CNA: Zeppelin filmou esgoto em Guanyin; grupo ambiental diz que a qualidade da água está sendo gradualmente controlada (11-06-2017)](https://www.cna.com.tw/news/asoc/201706110038.aspx) — Transcreve uma postagem no Facebook de Pan Chung-cheng, de uma aliança local de Taoyuan: ao ser convidado para a pré-estreia em 2013, ele ficou impressionado com a visão aérea dos recifes de algas e observou que a qualidade da água na costa de Taoyuan está sendo gradualmente controlada.
+
+[^21]: [Sing Tao: 'Seeing Taiwan II' começa as filmagens! Vendo a beleza e a tristeza da Ásia sob diferentes perspectivas (08-06-2017)](https://newtalk.tw/news/view/2017-06-08/88749) — Reportagem da coletiva de imprensa de abertura no Dia Internacional dos Oceanos, registrando os planos transnacionais de filmagem aérea e subaquática da sequência, bem como o desejo do diretor de que o público entenda que problemas ambientais não conhecem fronteiras.
+
+[^22]: [Comitê Nacional de Investigação de Segurança de Transportes: Página do caso do acidente aéreo da Ling Tien Air B-31118](https://www.ttsb.gov.tw/1243/16869/18864/post) — Resumo do caso pela autoridade investigativa (antigo Comitê de Investigação de Segurança de Voo), listando palavra por palavra as descobertas da investigação relacionadas a possíveis causas e riscos, além de dezoito recomendações de melhoria — nove para a Ling Tien Air e nove para a Autoridade de Aviação Civil.
+
+[^23]: [Comitê de Investigação de Segurança de Voo: Relatório de Investigação de Acidente Aeronáutico ASC-AOR-18-10-001 (Volume 1)](https://www.ttsb.gov.tw/media/3680/asc-aor-18-10-001-1.pdf) — Relatório final de 152 páginas que registra o local e horário da decolagem e queda, a experiência e horas de voo do piloto, os métodos de download do cartão de memória da câmera de bordo e análise de trajetória, declarando que a investigação não tem como objetivo punição ou atribuição de responsabilidade legal.
+
+[^24]: [Reportagem da capa do Taipei Times de 11 de junho de 2017](https://www.taipeitimes.com/News/front/archives/2017/06/11/2003672325) — Reportagem em inglês publicada no dia seguinte ao acidente, confirmando as três vítimas fatais como Zeppelin (52 anos), o assistente Chen Kuan-chi (25 anos) e o piloto Chang Chih-kuang (53 anos), incluindo homenagens de Wu Nien-jen e outros.
+
+[^25]: [CNA: Último voo de Zeppelin; C-130 das Forças Armadas decola de Hualien às 8h (12-06-2017)](https://www.cna.com.tw/news/firstnews/201706125007.aspx) — Reportagem sobre o Ministério da Defesa enviando dois aviões de transporte C-130 de Hualien para transportar as três vítimas fatais e vinte e seis familiares de volta a Songshan, Taipei.
+
+[^26]: [Presidência: Entrega pessoal de ordem de louvor a Zeppelin; Presidente: Continuar promovendo o trabalho de restauração do território (24-06-2017)](https://www.president.gov.tw/News/21442) — Comunicado de imprensa sobre a entrega da ordem de louvor na exposição memorial 'Vendo Zeppelin', incluindo citações das palavras que Zeppelin costumava dizer, agradecimentos ao piloto Chang Chih-kuang e textos escritos por colegas de universidade de Chen Kuan-chi.
+
+[^27]: [PTS News: Queda do helicóptero de Zeppelin; Comitê de Segurança de Voo anuncia investigação (31-10-2018)](https://news.pts.org.tw/article/411531) — Reportagem da coletiva de imprensa no dia da divulgação do relatório final, onde o comitê explicou que a aeronave não estava equipada com gravador de voo e que a maior parte da estrutura foi destruída pelo fogo; o grupo de trabalho utilizou entrevistas, perícia no local e simulação de campos de vento como referência para propor dezoito recomendações de melhoria.
+
+[^28]: [Mirror Media: Relatório de investigação da queda do Zeppelin é divulgado (31-10-2018)](https://www.mirrormedia.mg/story/20181031edi004) — Resumo dos pontos principais do relatório, registrando que a investigação durou um ano e quatro meses, e as direções das dezoito recomendações de melhoria: diretrizes para uso de medicamentos por tripulação aérea, avaliação de riscos ambientais de voo de helicópteros, gestão de risco de fadiga e uso de gravadores de voo simplificados.
+
+[^29]: [PTS News: Investigação da queda do Zeppelin; piloto havia tomado anti-histamínicos (22-10-2018)](https://news.pts.org.tw/article/410616) — Notícia sobre o presidente do Comitê de Segurança de Voo apresentando relatório ao Legislativo, explicando que medicamentos anti-histamínicos são comumente usados para reações alérgicas como coriza e coceira na pele, e registrando o interrogatório dos legisladores à Autoridade de Aviação Civil.
+
+[^30]: [The New News (republicado pelo The Reporter): Relatório do Comitê de Segurança de Voo induziu ao erro sobre os resultados da investigação do acidente de Zeppelin em 'Seeing Taiwan' (Zhang Jia-hao, 17-11-2018)](https://www.storm.mg/article/622656) — Comentário sobre a redação do relatório final, questionando a inclusão do uso de medicamentos e fadiga como possíveis causas na falta de evidências diretas, o que não condiz com a prática de relatórios anteriores do comitê; o texto reproduz a explicação do comitê em coletiva de imprensa de que o helicóptero envolvido no acidente não era obrigado por regulamento a carregar um gravador de voo.
+
+[^31]: [風傳媒: Chih Pei-lin: Asia Cement está cavando mais fundo do que há 5 anos (Lin Ting-hsin, 11-06-2017)](https://www.storm.mg/article/281267) — Relato de uma postagem no Facebook do grupo de observação de baleias Doroman: Chih Pei-lin foi ao desfiladeiro de Qingshui em maio de 2017 para estudar o local e tentar fotografar grandes baleias no mar; no caminho de volta, ele fotografou as crateras cinzentas da mina de Taroko e escreveu suas reflexões.
+
+[^32]: [Centro de Informação Ambiental: "Reforma da Mineração: Revogar a concessão da Asia Cement". Milhares de pessoas nas ruas para apoiar o movimento contra a Asia Cement (25-06-2017)](https://e-info.org.tw/node/205768) — Reportagem sobre a marcha "Ver a Asia Cement, Salvar Taroko", registrando que o número de signatários saltou para 210.000 após o falecimento de Chih Pei-lin, liderados por 160 membros da tribo de Fushi no Taroko, além do movimento "Devolvam-me a terra" defendido por Tian Chun-chou há vinte anos; a legenda da imagem indica mais de 8.000 participantes, embora o título mencione quase dez mil.
+
+[^33]: [Tribunal Administrativo Supremo: Comunicado de imprensa sobre a sentença nº 894 do ano de 108 (108)](https://tpa.judicial.gov.tw/tw/cp-1689-475944-67060-021.html) — Comunicado de imprensa da sentença que detalha os motivos da legitimidade das partes, incluindo Xu A-jin e outros quatro (residentes num raio de 500 metros da área de mineração, proprietários de terras e detentores de direitos de cultivo), a extensão do prazo de validade até 2037, e as razões pela qual a prorrogação foi ilegal por não cumprir o procedimento de consulta e consentimento previsto no Artigo 21 da Lei Fundamental dos Povos Indígenas antes da aprovação.
+
+[^34]: [Centro de Informação Ambiental: Tribunal decide contra o Ministério da Economia; prorrogação do direito de mineração em Xincheng é revogada (11-07-2019)](https://e-info.org.tw/node/219025) — Reportagem sobre a sentença de primeira instância do Tribunal Administrativo de Alta Instância de Taipei, revisando a aprovação de uma prorrogação de vinte anos pelo Ministério da Economia em 14 de março de 2017 e o início do processo administrativo por Zheng Wen-quan em outubro do mesmo ano; inclui também as explicações da Earth Citizen Foundation sobre o Artigo 13 da Lei de Mineração.
+
+[^35]: [CNA: Decisão judicial revoga a prorrogação dos direitos de mineração da Asia Cement; opiniões divergentes entre os membros da tribo (24-09-2021)](https://www.cna.com.tw/news/aloc/202109240107.aspx) — Reação da comunidade após a decisão final da sentença, registrando as declarações do presidente do conselho da tribo Boshian, Lo-ti Yu-dao, afirmando que não houve consenso na tribo e que a Asia Cement afeta o emprego local e a segurança residencial, além dos pronunciamentos de Zheng Wen-quan e Bai Mei-hua.
+
+[^36]: [Newtalk: Derrota no caso de prorrogação dos direitos de mineração da Asia Cement (17-09-2021)](https://newtalk.tw/news/view/2021-09-17/637699) — Reportagem do dia seguinte à sentença do Tribunal Administrativo Supremo; o Ministério da Economia explicou que, de acordo com o Artigo 13 da Lei de Mineração, o status ainda é de pedido de prorrogação e a mineração pode continuar normalmente, mas exigirá que a Asia Cement complete as consultas e obtenha o consentimento da tribo para uma nova revisão.
+
+[^37]: [PTS News: Nantou planeja levantar restrições de construção em Qingjing sob certas condições (03-04-2018)](https://news.pts.org.tw/article/390169) — O magistrado do condado de Nantou, Lin Ming-chen, explicou o cancelamento condicional da ordem de proibição de construção que durava quase seis anos em Qingjing; Li Gen-zheng, CEO da Earth Citizen Foundation, defendeu a substituição do tratamento de casos individuais por um plano abrangente.
+
+[^38]: [PTS News: Sete pousadas ilegais em Qingjing, Nantou, sob monitoramento; a sexta foi demolida ontem (03-03-2021)](https://news.pts.org.tw/article/515472) — Reportagem sobre o progresso da demolição de pousadas ilegais de grande porte na região de Qingjing monitoradas pela Administração de Construção; o governo do condado de Nantou já concluiu seis demolições, restando uma que deve ter seu cronograma de demolição definido para aquele ano.
+
+[^39]: [今周刊: O satélite "Chih Pei-lin" foi lançado! Após 5 adiamentos, é lançado hoje por um foguete da SpaceX; Qi Ting-huan: Meu pai protege Taiwan de uma perspectiva mais alta (29-11-2025)](https://www.businesstoday.com.tw/article/category/183015/post/202511290005/) — Registra o lançamento do satélite às 2h44 da manhã na Base da Força Espacial de Vandenberg, Califórnia, EUA, e as palavras de Qi Ting-huan através de um vídeo sobre o desejo de seu pai de usar o poder de "ver" para criar e mudar as coisas.
+
+[^40]: [Taipei Times: Reportagem de primeira página de 30 de novembro de 2025](https://www.taipeitimes.com/News/front/archives/2025/11/30/2003848063) — O Centro Nacional de Pesquisa Espacial explicou que a constelação do satélite Formosat-8 operará em uma órbita de sincronia solar a 561 km da Terra, sendo que o primeiro satélite, "Chih Pei-lin", foi lançado após cinco adiamentos.
+
+[^41]: [Presidência: Notícia sobre o lançamento do satélite Chih Pei-lin (29-11-2025)](https://www.president.gov.tw/News/39660) — Notícia da Presidência sobre a nomeação do primeiro satélite da série Formosat-8 como "Chih Pei-lin", explicando que o nome visa estender o espírito do diretor Chih Pei-lin ao espaço para continuar vigiando Taiwan.

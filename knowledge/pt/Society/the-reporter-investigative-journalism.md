@@ -37,11 +37,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:00bd13342bc6cb3c'
 sourceBodyHash: 'sha256:d77e750f6664a705'
-translatedAt: '2026-10-13T02:48:19.081764+00:00'
+translatedAt: '2026-11-18T03:24:06.378295+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O _The Reporter_ é o primeiro meio de investigação online sem fins lucrativos de Taiwan sustentado por doações cidadãs. Quando entrou no ar em dezembro de 2015, tinha apenas 4 doadores recorrentes mensais, e o fundador Ho Jung-hsing não teve coragem de contar esse número aos colegas[^1]. Dez anos depois, em outubro de 2025, esse número cresceu para cerca de 8.000, com a próxima meta fixada em 10.000[^2]. Produziu a trilogia "Lágrimas e Sangue nos Mares Distantes" perseguindo a história por três países[^3], expôs o esquema de trabalhadores estrangeiros endividados que levou a uma condenação de 5 anos e 6 meses para um dirigente da Universidade Chung Chou[^4], e após a série "Fenômeno Chokubi" o Ministério da Saúde e Bem-Estar criou nova regra exigindo PGY para atuar em medicina estética[^5]. Suas únicas regras declaradas perante o público são três frases: "Não possui, não interfere, não recupera"[^6]. O custo que o _The Reporter_ menos pode cortar é exatamente o que ninguém quer pagar na era dos algoritmos; esta ilha usou o débito mensal de 200, 300 dólares de estranhos para transformar o jornalismo de investigação de um negócio deficitário na renovação contínua de um bem público que se alimenta sempre, mas queima cada vez mais depressa.
