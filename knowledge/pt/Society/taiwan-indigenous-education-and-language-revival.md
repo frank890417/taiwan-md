@@ -21,13 +21,15 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+difficulty: 'intermediate'
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
-translatedAt: '2026-07-25T18:48:00+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:45:33.047898+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Em 2012, o professor paiwan da Escola Primária Taiwu em Pingtung, Camake Valaule, liderou o coro de transmissão de canções antigas com _O Lugar Onde a Canção Começa_ e venceu o Prêmio de Melhor Interpretação de Música Tradicional no 23º Golden Melody Awards[^1]. Em 2017, a _Lei de Desenvolvimento das Línguas dos Povos Indígenas_ foi aprovada em terceira leitura no Yuan Legislativo, elevando formalmente as línguas das 16 etnias ao status de línguas nacionais[^2]. Em 2019, a _Lei de Educação dos Povos Indígenas_ foi revisada, e o Artigo 34 estabeleceu a meta sem precedentes de atingir, em dez anos, uma proporção de professores indígenas de pelo menos um terço nas escolas prioritárias indígenas[^3]. Até o ano letivo 111 (2022-23), Taiwan tinha 38 escolas experimentais dos povos indígenas[^4]. Mas esse sistema que parece denso e completo falha repentinamente no ensino médio. Uma investigação profunda do _The Reporter_ em 2024 apontou: "Desde 2019, as escolas experimentais indígenas de ensino fundamental aumentaram em mais de 10, enquanto o ensino médio praticamente estagnou."[^5] Em todo Taiwan, há apenas 6 escolas experimentais de ensino médio para povos indígenas[^4]. No ano letivo 112 (2023-24), a taxa bruta de matrícula de estudantes indígenas no ensino superior foi de **56,3%**, contra **91,6%** dos estudantes em geral, uma diferença de 35,3 pontos percentuais[^6]. Nas mesmas crianças, o Estado gastou dez anos usando a lei para proteger sua língua e cultura, e no dia em que entraram no ensino médio, soltou a mão. Camake faleceu em 19 de agosto de 2021 vítima de linfoma, aos 42 anos[^7]. O coro de transmissão de canções antigas que ele deixou continua, mas quem vai guardar essa articulação depois que ele se foi?

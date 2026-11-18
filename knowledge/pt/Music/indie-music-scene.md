@@ -19,11 +19,13 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a4'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-07-26T23:43:20+08:00'
+translatedAt: '2026-11-18T10:01:34.889485+00:00'
 ---
 
 **30 segundos para saber: Em 1986, Ren Jiang-da, de ascendência coreano-japonesa, pegou emprestados 300 mil para assumir uma loja de discos à beira da falência e começou a importar para Taiwan «música que ninguém queria ouvir». Quatro décadas depois, o ecossistema que nasceu dessa loja (live houses, selos independentes, StreetVoice, Golden Indie Awards) levou uma banda que vendia discos em cafés ao Grammy de Álbum do Ano e um banda de Taipei que canta inteiramente em inglês ao palco do Coachella. Quarenta anos de música independente de Taiwan são uma corrida de revezamento sem fim: cada bastão é corrido ofegante, cada bastão parece prestes a cair, mas a vara nunca cai.**

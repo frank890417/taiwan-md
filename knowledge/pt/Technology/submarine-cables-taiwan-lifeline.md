@@ -21,15 +21,21 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/海底電纜.md'
 sporeLinks:
-  [
-    "{'id': 55, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP'}",
-    "{'id': 56, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049860918641893571'}",
-  ]
+  - id: 55
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP'
+  - id: 56
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049860918641893571'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: '5ff155c10'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
-translatedAt: '2026-07-28T03:07:44+08:00'
+translatedAt: '2026-11-18T10:55:29.854574+00:00'
 ---
 
 > **Resumo em 30 segundos:** A 2 e 8 de Fevereiro de 2023, os dois cabos submarinos que ligam o condado de Lienchiang (Matsu) à ilha principal de Taiwan romperam-se num intervalo de seis dias[^1]. A Chunghwa Telecom levou **cerca de 50 dias** a reparar um deles; o segundo, o cabo Taiwan-Matsu n.º 2, exigiu **4 meses e 23 dias** no total — «acima do tempo médio internacional de reparação de cabos submarinos», porque houve «interferência de navios da guarda costeira chinesa», segundo o vice-ministro do Desenvolvimento Digital, Chueh Ho-ming[^2]. **99 %** do tráfego internacional de internet de Taiwan depende de cabos submarinos; os **14 cabos internacionais** actualmente em operação[^3] concentram-se todos em **quatro estações de aterragem** na ilha principal: Tamsui, Bali, Toucheng e Fangshan[^4]. Em 2024, a Chunghwa Telecom activou discretamente uma quinta estação em Dawu, Taitung; os moradores só a conhecem pelo número de porta «**Edifício 506**» — fontes revelaram que serve de «rede de segurança para comunicações externas em caso de conflito entre os dois lados do estreito»[^5]. As salas limpas da TSMC são o rosto heróico do escudo de silício no topo; a 1 300 metros de profundidade, estas 14 linhas são a veia mestra invisível lá em baixo: podem, sem disparar um tiro, arrancar 23 milhões de pessoas do mundo.

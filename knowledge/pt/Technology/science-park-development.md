@@ -26,15 +26,21 @@ imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 sporeLinks:
-  [
-    "{'id': 109, 'platform': 'threads', 'date': '2026-05-29', 'url': 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'}",
-    "{'id': 110, 'platform': 'x', 'date': '2026-05-29', 'url': 'https://x.com/taiwandotmd/status/2060247955467325544'}",
-  ]
+  - id: 109
+    platform: 'threads'
+    date: '2026-05-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'
+  - id: 110
+    platform: 'x'
+    date: '2026-05-29'
+    url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c5'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-07-27T06:10:20+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T10:18:25.613994+00:00'
 ---
 
 # Parques Científicos de Taiwan: a aposta de um arrozal que se tornou a veia vital do mundo — e o seu ponto mais frágil
@@ -134,26 +140,27 @@ _O documentário "The Mountain Makers: The Century's Gamble", da realizadora Hsi
 
 > **✦** O mesmo engenheiro pode dizer que fuga de tecnologia é falso tema e, ao mesmo tempo, admitir que o Escudo de Silício enfraquecerá. É exatamente a posição real de Taiwan neste momento: tecnologicamente ainda na frente, geopoliticamente incapaz de garantir que essa dianteira se converte em segurança duradoura.
 
-## Ao lado da sala limpa, jazem vasos de cerâmica de cinco mil anos
+## Ao lado da sala limpa, vasos de cerâmica de cinco mil anos
 
-Durante o desenvolvimento de Tainan, surgiram inúmeros sítios arqueológicos pré-históricos. Arqueólogos encontraram sob esta terra a cultura de Tapenkeng de há cinco mil anos, a cultura de Niuchouzi de há mais de três mil anos, e aldeias do povo Siraya de há alguns séculos — no total, sessenta e oito sítios identificados dentro da área de Tainan, abrangendo seis fases culturais. Em outubro de 2019, o Museu de Arqueologia de Tainan do Museu Nacional de Pré-História de Taiwan inaugurou oficialmente, projetado pelo arquiteto Yao Ren-xi, um cubo negro com linhas brancas, que visto de cima parece um cubo mágico; a textura de secção transversal da fachada imita deliberadamente as camadas geológicas de um sítio arqueológico sendo abertas camada a camada[^22].
+Durante o desenvolvimento do Parque Científico do Sul (SINC), foram descobertos inúmeros sítios pré-históricos. Arqueólogos encontraram sob este solo a cultura Tapenkeng, de cinco mil anos atrás; a cultura Niuchizi, de mais de três mil anos; e assentamentos da etnia Siraya de alguns séculos atrás — foram identificados sessenta e oito sítios arqueológicos em toda a área do SINC, abrangendo seis períodos culturais. Em outubro de 2019, o Museu Nacional de Pré-História de Taiwan — Galeria Arqueológica do SINC foi oficialmente inaugurada. Projetado pelo arquiteto Yao Jen-hsi, o edifício consiste em blocos pretos com linhas brancas que, vistos de cima, assemelham-se a um cubo mágico, com texturas nas paredes que simulam deliberadamente as camadas de estratos arqueológicos sendo escavadas uma a uma[^22].
 
-Provavelmente é a cena mais surreal do mundo: ao lado da sala limpa de chips de 3 nm, ergue-se um museu arqueológico que expõe vasos de cerâmica de cinco mil anos. A mesma terra sobrepõe dois tempos — um medido em _wafer lots_, rápido ao minuto; outro medido em milénios, lento ao ponto de exigir datação por carbono-14. Os parques científicos de Taiwan não apenas sobrepuseram indústrias; sobrepuseram o próprio tempo.
+Este é talvez o cenário mais surreal do mundo: ao lado de uma sala limpa para chips de 3 nanômetros, encontra-se um museu que exibe vasos de cerâmica de cinco mil anos. No mesmo solo, sobrepõem-se dois tempos — um medido por lotes de _wafers_, rápido ao ponto de ser contado em minutos; outro medido em milênios, lento ao ponto de exigir a datação por carbono-14. O Parque Científico de Taiwan não apenas sobrepõe indústrias, mas também o próprio tempo.
 
-![Fachada do Museu de Arqueologia de Tainan do Museu Nacional de Pré-História de Taiwan, cubo negro projetado pelo arquiteto Yao Ren-xi, situado dentro do Parque Científico do Sul](/article-images/technology/nanke-archaeology-museum-2019.webp)
-_Museu de Arqueologia de Tainan, projeto de Yao Ren-xi, inaugurado em 2019. O desenvolvimento do parque revelou sessenta e oito sítios pré-históricos, incluindo Tapenkeng, Niuchouzi e aldeias Siraya — fábricas de wafers e vasos de cinco mil anos, ligados pela mesma terra. Foto: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
+![Exterior da Galeria Arqueológica do SINC do Museu Nacional de Pré-História de Taiwan, um edifício de blocos pretos projetado pelo arquiteto Yao Jen-hsi, localizado no Parque Científico do Sul](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_Galeria Arqueológica do SINC, projetada por Yao Jen-hsi, inaugurada em 2019. Durante o desenvolvimento do parque, foram descobertos sessenta e oito sítios pré-históricos, incluindo Tapenkeng, Niuchizi e Siraya — as fábricas de semicondutores e os vasos de cerâmica de cinco mil anos estão conectados pelo mesmo solo. Photo: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Volte a câmara para 1979, aquele arrozal aplainado. Na época, ninguém podia garantir que a aposta daria certo: a tecnologia era emprestada, o modelo era desacreditado, o local era terra agrícola. Quarenta e cinco anos depois, esta ilha gerou a capacidade de chips da qual o mundo mais depende — o valor de mercado da TSMC chegou a aproximar-se do PIB anual de Taiwan inteiro, os impostos que paga equivalem a uma fatia significativa do orçamento da defesa[^23]. O maior escudo de Taiwan cresceu, mas essa mesma indispensabilidade tornou-a na carta que todos querem na mesa das grandes potências.
+Retornando a lente para aquele campo de arroz nivelado em 1979. Na época, ninguém podia garantir que essa aposta seria vencedora: a tecnologia era emprestada, o modelo não era bem visto por ninguém e a localização era uma área agrícola. Quarenta e cinco anos depois, esta ilha gerou a capacidade de produção de chips da qual o mundo inteiro depende — o valor de mercado da TSMC chegou a aproximar-se do PIB anual de todo Taiwan, e os impostos que ela paga equivalem a uma proporção significativa do orçamento de defesa[^23]. O amuleto mais forte de Taiwan cresceu, mas essa mesma indispensabilidade tornou-a a carta que todos querem segurar na mesa de jogo das grandes potências.
 
-Quarenta e cinco anos atrás, o arrozal apostava a sobrevivência; ganha a aposta, a ilha tornou-se a veia vital do mundo, e também o seu ponto mais frágil. A próxima aposta — sobre água, sobre eletricidade, sobre talento, sobre aquele escudo que está a ser redefinido — já começou; e desta vez, à mesa não está só Taiwan.
+A aposta naquele campo de arroz há quarenta e cinco anos era pela sobrevivência; após vencer, esta ilha tornou-se o pulso do mundo, mas também o seu ponto vulnerável. A próxima aposta — sobre água, eletricidade, talentos e sobre aquele escudo que está sendo redefinido — já começou, e desta vez, não é apenas Taiwan que está sentada à mesa de apostas.
 
 ---
 
-**Leitura complementar**:
+**Leitura adicional**:
 
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA ao nitreto de gálio e _packaging_ quântico, cinquenta anos de revolução de materiais; como os chips do parque chegaram à vanguarda global
-- [Top 50 empresas de Taiwan](/pt/economy/top-50-companies-taiwan) — A montanha sagrada sustenta uma tabela, mas também sustenta um ponto único de falha nacional; o outro lado da concentração do valor de produção dos parques científicos
-- [The Mountain Makers: The Century's Gamble](/pt/art/mountain-makers-tsmc-documentary) — Documentário de Hsiao Ju-chen, 2025, cinco anos, mais de oitenta veteranos de semicondutores, a aposta do século transformada em imagem
+- [Especiais sobre a Indústria de Taiwan](/industry/) — Usando estatísticas oficiais para desenhar a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por condado/cidade, o top 10 de valor de mercado histórico, além das visões de todos os lados em seis debates públicos.
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA à revolução de materiais com nitreto de gálio e encapsulamento quântico; como os chips nos parques científicos chegaram ao nível mais avançado do mundo.
+- [As 50 Maiores Empresas de Taiwan](/pt/economy/top-50-companies-taiwan) — A "Montanha Protetora da Nação" sustenta esta lista, mas também sustenta um país com um ponto único de falha; o outro lado da concentração de valor de produção nos parques científicos.
+- [The Makers: Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de Hsiao Ju-chen (2025), que entrevistou mais de oitenta veteranos dos semicondutores ao longo de cinco anos, transformando esta aposta do século em imagens.
 
 ---
 
