@@ -19,11 +19,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '2ad8c8cc2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-15T12:43:03+08:00'
+translatedAt: '2026-11-18T12:47:56.358456+00:00'
 ---
 
 # सामाजिक आंदोलन और नागरिक भागीदारी
