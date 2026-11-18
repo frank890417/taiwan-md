@@ -28,11 +28,13 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI供應鏈海外設廠.md'
-sourceCommitSha: 'fd01d452a'
-sourceContentHash: 'sha256:7fa246cf8f0f5c00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:1f66d74cd10a1fe4'
 sourceBodyHash: 'sha256:453d3851b08255ad'
-translatedAt: '2026-07-29T01:32:42+08:00'
+translatedAt: '2026-11-18T20:40:18.536204+00:00'
 ---
 
 # Overseas Expansion of the AI Supply Chain: Taiwan's Capabilities are being Invited Out by the World
@@ -214,22 +216,22 @@ This is the most critical issue regarding the expansion of the AI supply chain: 
 
 ## References
 
-[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — AP reports on NVIDIA producing Blackwell chips and AI supercomputers, naming TSMC Phoenix, Foxconn Houston, Wistron Dallas, and SPIL/Amkor's packaging cooperation in Arizona.
+[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — AP reports that NVIDIA will produce Blackwell chips and AI supercomputers in the US, naming TSMC Phoenix, Foxconn Houston, Wistron Dallas, and SPIL/Amkor's packaging and testing operations in Arizona.
 
-[^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — AP reports on OpenAI and Foxconn partnering for AI data center racks, including cabling, networking, and power systems, mentioning Foxconn's U.S. facilities.
+[^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — AP reports that OpenAI and Foxconn will cooperate to design and manufacture AI data center racks, including cabling, networking, power systems, and mentions the distribution of Foxconn's US facilities.
 
-[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Reports on Delta Electronics expanding manufacturing and office space in Plano, Texas, detailing its existing R&D centers and local production positioning.
+[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Reports that Delta Electronics is expanding manufacturing and office facilities in Plano, Texas, and summarizes its existing R&D and manufacturing centers, subsequent campus scale, and US domestic manufacturing positioning.
 
-[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Reports on the expansion of Delta's Krishnagiri plant in India to serve telecom, data center, EV, and industrial clients.
+[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Reports on Delta Electronics' expansion of its Krishnagiri plant in India, explaining demand from telecom, data center, electric vehicle, and industrial customers, as well as its localized supply chain layout in India.
 
-[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC official Arizona page detailing Phoenix investment scale, six fabs, two packaging facilities, N4/N3/N2/A16 timelines, and water recycling plans.
+[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC's official Arizona page, detailing Phoenix investment scale, six fabs, two advanced packaging facilities, N4/N3/N2/A16 timelines, and water recycling plans.
 
-[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — AP reports on TSMC's plan for a second plant in Kumamoto to produce 3nm chips for AI, smartphones, robots, and autonomous driving.
+[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — AP reports that TSMC plans to produce 3nm chips at its second Kumamoto plant in Japan, and summarizes Japan's economic security and demand for AI, robotics, and autonomous driving.
 
-[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC website describing the joint venture with TSMC, Bosch, Infineon, and NXP to support European industrial, IoT, communication, and automotive markets.
+[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC official website explains it is a joint venture of TSMC, Bosch, Infineon, NXP, establishing a fab in Dresden, Germany to support European industrial, IoT, communications, and automotive markets.
 
-[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — AP reports on U.S. CHIPS Act funding for TSMC Arizona as a matter of supply chain and national security.
+[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — AP reports that the US CHIPS and Science Act provides subsidies for TSMC's Arizona expansion, explaining how the US government views advanced chip manufacturing as a supply chain and national security issue.
 
-[^9]: [TIME: Read the full interview with Taiwan President Lai Ching-te in TIME Magazine](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — The Chinese version of the interview where Lai discusses semiconductors as a global industry and government views on expansion to US, Japan, and Europe.
+[^9]: [TIME: Full text of Taiwan President Lai Ching-te's interview with TIME magazine](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — In the full Chinese interview published by TIME, Lai Ching-te discusses semiconductors as a global division-of-labor industry, and how the government views the overseas expansion of semiconductor companies like TSMC to the US, Japan, and Europe.
 
-[^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Report on Arizona's semiconductor cluster growth regarding jobs, local development, water resources, and environmental/labor safety concerns.
+[^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Reports on employment, local development, water resources, environmental and labor safety controversies brought by the expansion of Arizona's semiconductor cluster, useful for balancing the local societal perspective on overseas factory construction.

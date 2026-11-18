@@ -24,11 +24,13 @@ rationale:
   whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'a266eaa96'
-sourceContentHash: 'sha256:a14a0e12438e6a6a'
-sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
-translatedAt: '2026-10-13T03:17:19.861973+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e3e940750907c36e'
+sourceBodyHash: 'sha256:07db7c5fe478ed74'
+translatedAt: '2026-11-18T21:01:50.665422+00:00'
 ---
 
 # The Island's Last Song: Even a Dragon Year Can't Save the 0.695
@@ -201,15 +203,15 @@ If pro-natalist policies are destined to fail and labor shortages are a reality,
 
 ## Living Well on an Island Destined to Shrink
 
-The most cruel and honest truth in demography is this: there are almost no miracles.
+The most cruel and honest fact of demography is this: it almost never performs miracles.
 
-After ten years of pro-natalist efforts and nearly NT$500 billion spent, even a Dragon Year cannot be bought back. The component of the fertility rate being crushed by an inability to afford children is far less significant than it being drained by non-marriage. For a decade, the government has been handing out money to address "the fear of having children," but that money goes to those who are already married, failing to bridge the gap where the actual collapse is occurring. Even if money were precisely placed into the hands of every hesitant family, Yang Tzu-ting's lottery experiment showed it would only be worth 0.07 of a child. Looking globally—Hungary, South Korea, France, Northern Europe—no country has successfully bought its fertility rate back up to replacement levels. After Taiwan's total population peaked in 2019, no policy has been able to turn this downward slope around.
+After ten years of pro-natalist policies and nearly NT$500 billion spent, even a Dragon Year couldn't buy a recovery. The extent to which the fertility rate has been crushed by an inability to afford children is far less than the extent to which it has been drained by the rise of non-marriage. For a decade, the government has addressed "fear of childbirth" by handing out money—money given to those who are already married—yet failing to bridge the gap where the real collapse is occurring. Even if that money were precisely placed into the hands of every hesitant family, Yang Tzu-ting's lottery experiment showed it is only worth 0.07 children. Looking globally, from Hungary and South Korea to France and the Nordic countries, no nation has successfully "bought" its fertility rate back to replacement levels. Since Taiwan's total population peaked in 2019, no policy has been able to turn this downward slope around.
 
-Therefore, rather than offering another empty platitude like "Taiwan needs a better society," this article intends to offer a shift in perspective: we may have been asking the wrong questions. For ten years, the answer to the question "How can we make Taiwanese people have more children?" has been 0.695, and it is reflected in the empty playground of Xinwei Elementary School. The two things that truly need to be asked are: how can we ensure that those who actually want to marry and have children are not bound by an entire set of structures they cannot accept; and how can we live with dignity, warmth, and a sense of mutual support on an island destined to become smaller and older?
+Therefore, rather than offering another empty platitude like "Taiwan needs a better society," this article intends to offer a shift in perspective: we may have been asking the wrong questions. For ten years, the answer to the question "How can we make Taiwanese people have more children?" has been 0.695—and an empty playground at Xinwei Elementary School. The two things we should truly be asking are: how can we ensure that those who actually want to marry and have children are not bound by a set of structures they cannot accept; and, how can we live with dignity, warmth, and a sense of mutual support on an island destined to become smaller and older?
 
 On a day during the 2024 Year of the Dragon, there was not a single first-grade student wearing a new uniform or carrying an oversized backpack on the playground of Xinwei Elementary School.
 
-It was a very quiet scene. So quiet that you cannot help but wonder: how much longer will this island spend shouting at delivery rooms before it turns around to properly look at those who are already here on the playground?
+It was a very quiet scene. So quiet that you cannot help but wonder: how much longer will this island spend shouting at delivery rooms before it turns around to truly look at the people who are already here on the playground?
 
 The singing may grow quieter, but as long as someone is still singing, we have not yet reached the final song.
 
@@ -217,11 +219,13 @@ The singing may grow quieter, but as long as someone is still singing, we have n
 
 **Further Reading**:
 
-- [Rural Education in Taiwan](/en/society/taiwan-rural-education) — When rural areas enter a low-birthrate era forty years ahead of cities, small rural schools are where this letter arrives first.
-- [Education System and Academic Advancement Culture](/en/society/education-system-and-admissions-culture) — The withdrawal of universities and the cliff of student sources are inextricably linked to how society views "academic advancement."
-- [Development of Long-term Care Systems in Taiwan](/en/society/long-term-care-system-development) — As those aged 65 and above surpass 20% and foreign caregivers support 215,000 beds, long-term care is the other side of the low-birthrate phenomenon.
+- [Wages, Taxes, and Retirement](/income/) — The ledger after the population shrinks: various perspectives on Labor Insurance income and expenditure and pension reform, as well as calculations for Labor Insurance and Labor Pension.
+- [Rural Education in Taiwan](/en/society/taiwan-rural-education) — When rural areas enter the era of low birth rates forty years ahead of cities, small rural schools are where this letter arrives first.
+- [Education System and Academic Culture](/en/society/education-system-and-admissions-culture) — The withdrawal of universities and the cliff of student sources are inextricably linked to how society views "advancing in education."
+- [Development of Long-term Care Systems in Taiwan](/en/society/long-term-care-system-development) — As those aged 65 and over exceed 20% and foreign caregivers support 215,000 beds, long-term care is the other side of the low birth rate phenomenon.
+- [Medical and Long-term Care Special Feature](/health/) — Actual statistics on the proportion of those aged 65+ and the projected curves from the National Development Council, as well as the income and expenditure of the Long-term Care Fund.
 - [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — If a shrinking population is inevitable, automation will be one of the key answers to "reorganizing production within a diminishing population."
-- [The Expansion and Withdrawal of Higher Education in Taiwan](/en/society/taiwan-higher-education-expansion-and-decline) — The wall of low birthrates hits universities: after increasing from 58 to 148 institutions, how do schools close, and who bears the cost?
+- [The Expansion and Withdrawal of Higher Education in Taiwan](/en/society/taiwan-higher-education-expansion-and-decline) — The wall of low birth rates hits universities: after increasing from 58 to 148 institutions, how schools close and who bears the cost.
 
 ## References
 

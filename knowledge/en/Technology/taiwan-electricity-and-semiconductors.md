@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-28T19:24:14+08:00'
+translatedAt: '2026-11-18T21:47:01.339924+00:00'
 ---
 
 # Taiwan's Power and Semiconductors: The Electricity Bill of the "Protelem of the Nation"
@@ -190,10 +192,10 @@ Semiconductors make Taiwan needed by the world. Electricity reminds Taiwan: bein
 
 ## References
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Reports on TSMC's EUV energy-saving plan, total electricity scale, and the proportion of tool energy savings, used to illustrate the coexistence of efficiency gains and total volume pressure.
+[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Reports on TSMC's EUV energy-saving program, total electricity consumption scale, and the proportion of tool energy savings, illustrating the coexistence of efficiency gains and overall demand pressure.
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Reports on the Taiwan Semiconductor Industry Association's warning regarding power stability and renewable energy supply, summarizing RE100, wafer fab green power demand, and overseas relocation risks.
+[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Reports that the Taiwan Semiconductor Industry Association warned about power stability and renewable energy supply, and summarizes RE100, wafer fab green electricity demand, and overseas transfer risks.
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — A study of 16 Taiwanese electronic component manufacturers' environmental footprints from 2015-2020, proposing the risk of increasing energy, water, and carbon emissions alongside production growth, as well as "carbon lock-in."
+[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Studies the environmental footprint of 16 Taiwanese electronic component manufacturers from 2015 to 2020, finding that energy, water, and carbon emissions increase with production growth, and carbon lock-in risks.
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press report on the 2025 Taiwan nuclear extension referendum results, explaining how nuclear proponents incorporate electricity prices and AI power demand into their discourse.
+[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press reports on the 2025 Taiwan Nuclear Plant No. 3 extension referendum results, and explains how nuclear power supporters incorporated electricity prices and AI electricity demand into their discourse.
