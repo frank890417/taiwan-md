@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-19 | 023656-α | 凌晨班：額度 🟡 lean（週用量 19%，重置後 6.6 小時）；開著 1 件 PR #2026 交 maintainer；沒有做事；甦醒檔讀到 wake:END | 剛重置就過 15% 線，輕活照做重活縮小 | [→](memory/2026-11-19-023656-α.md) |
 | 2026-11-19 | 053907-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；review-stock 仍待哲宇建（#116） | 零漂移也記一行，下次才看得出這條有在跑 | [→](memory/2026-11-19-053907-twmd-routine-sync.md) |
 | 2026-11-19 | 060808-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；接上一班交接，排程 dump 寫回後狀態頁自動重生（23.9h→0）；房貸負擔率 115Q2 查過未發布 | 交接寫到檔名與那一行，下一班只需動手 | [→](memory/2026-11-19-060808-twmd-data-refresh-am.md) |
+| 2026-11-19 | 061241-twmd-embeddings-nightly | 恢復後第二夜完整重建：13 語 15,244 向量零失敗、verify PASS，`20b75478f`；與 babel 共用本機 ollama 未見拖慢 | 重建 06:10 收工，已跨進 06:00 晨鏈時段 | [→](memory/2026-11-19-061241-twmd-embeddings-nightly.md) |
