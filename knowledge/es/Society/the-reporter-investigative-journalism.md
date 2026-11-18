@@ -37,11 +37,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:00bd13342bc6cb3c'
 sourceBodyHash: 'sha256:d77e750f6664a705'
-translatedAt: '2026-10-13T02:40:08.330737+00:00'
+translatedAt: '2026-11-18T02:33:41.698022+00:00'
 ---
 
 > **Panorama en 30 segundos:** The Reporter es el primer medio digital sin fines de lucro de periodismo de investigación en Taiwán sostenido por donaciones ciudadanas. Cuando salió en línea en diciembre de 2015, tenía apenas 4 donantes con aportes periódicos mensuales, y su fundador Ho Jung-hsing no se atrevía a dejar que sus colegas supieran esa cifra[^1]. Diez años después, en octubre de 2025, ese número había crecido hasta aproximadamente 8.000, y el siguiente objetivo era 10.000[^2]. Publicó la trilogía Campos pesqueros de sangre y lágrimas, que llegó a tres países[^3]; investigó el caso de trabajadores endeudados y atrapados, que llevó a que un directivo de la Universidad de Ciencia y Tecnología Chung Chou fuera condenado a 5 años y 6 meses[^4]; y después de publicar Chokubi, el Ministerio de Salud y Bienestar reformó el sistema para exigir PGY antes de ejercer medicina estética[^5]. La disciplina que declara hacia el exterior se resume en tres frases: “no poseer, no intervenir, no recuperar”[^6]. Los costos que The Reporter menos puede recortar son precisamente aquello que menos gente quiere pagar por leer en la era del algoritmo. Esta isla, mediante cargos mensuales de 200 o 300 dólares taiwaneses a desconocidos, convirtió el periodismo de investigación de un negocio deficitario en un bien público que se sostiene de forma continua, aunque arde cada vez más rápido.
