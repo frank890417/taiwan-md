@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-19T07:51:07+08:00",
-    "zhCommitHead": "f9e10eee6",
+    "lastUpdated": "2026-11-19T07:51:17+08:00",
+    "zhCommitHead": "1d0aaf956",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1191,
-        "fresh": 1100,
-        "stale": 59,
+        "fresh": 1101,
+        "stale": 58,
         "metadata_stale": 18,
         "missing": 14,
         "orphan": 0
@@ -228072,20 +228072,18 @@
         "hi": {
           "path": "hi/Culture/taiwan-iron-window-grilles.md",
           "translatedFrom": "Culture/鐵窗花.md",
-          "sourceCommitSha": "ec3d660ca",
-          "sourceContentHash": "sha256:1888ffac8016e710",
-          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
-          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:def335d4114c8b87",
+          "sourceBodyHash": "sha256:fc143e859b0c1c51",
+          "translatedAt": "2026-11-19T05:58:13+08:00",
           "translationLastCommit": "8752e849",
           "translationLastModified": "2026-09-22T00:56:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 45349,
+          "bytes": 46420,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+15 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-iron-window-grilles.md",

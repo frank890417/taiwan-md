@@ -1,18 +1,18 @@
 ---
-title: 'Taiwan Science Parks: Ein Wette auf Reis, die das Schicksal der Welt und den Todesstoß barg'
-description: 'In den 1970er Jahren errichtete He Yici (何宜慈) in Jinshan, Hsinchu, den ersten asiatischen Wissenschaftspark inmitten eines Reisfeldes. Vierundfünfzig Jahre später generieren die Parks in Hsinchu, Kaohsiung und Taichung einen Umsatz von über 5,8 Billionen TWD; die fortschrittlichsten Chips der Welt werden hier produziert. Doch dieser Schutzschild der Insel ist auch ihr größter Schwachpunkt – eine Dürre, ein Stromausfall oder ein geopolitisches Spiel können die globale Lieferkette in Atem halten.'
+title: 'Taiwans Science Parks: Ein Wagnis auf Reisfeldern, das zum Lebensnerv der Welt und zugleich zur Achillesferse wurde'
+description: '1979 in Jinshan, Hsinchu: Der Ingenieur Ho Yi-tzu kehrte von IBM nach Taiwan zurück und errichtete auf einem Reisfeld den ersten Science Park Asiens. Fünfundvierzig Jahre später übersteigen die jährlichen Umsätze der Science Parks in Hsinchu (Zhuke), Taichung (Zhongke) und Tainan (Nanke) die Marke von NT$ 5,8 Billionen; hier werden die fortschrittlichsten Chips der Welt in Serie produziert. Doch dieser stärkste Schutzschild der Insel ist gleichzeitig ihre verwundbarste Schwachstelle – eine Dürre, ein Stromausfall oder geopolitische Spannungen könnten die gesamte globale Lieferkette zum Stillstand bringen.'
 date: 2026-03-25
 category: 'Technology'
 tags:
   [
-    'Wissenschaftspark',
+    'Science Park',
     'Hsinchu Science Park',
     'Taichung Science Park',
-    'Kaohsiung Science Park',
+    'Tainan Science Park',
     'Halbleiter',
-    'Industriekomplex',
+    'Industriecluster',
     'TSMC',
-    'Silberschild',
+    'Silicon Shield',
   ]
 subcategory: '半導體與硬體'
 author: 'Taiwan.md'
@@ -34,11 +34,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-29'
     url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c5'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-09-22T08:09:32+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T23:46:02.005062+00:00'
 ---
 
 # Taiwan Science Parks: Ein Wette auf Reis, die das Schicksal der Welt und den Todesstoß barg
@@ -138,26 +140,27 @@ _Der Dokumentarfilm „Der Schöpfer – Die Wette des Jahrhunderts“ von Regis
 
 > **✦** Derselbe Ingenieur kann gleichzeitig sagen, dass Technologiediebstahl ein falsches Thema sei, und eingestehen, dass der Silberschild schwächer wird. Das ist die realistische Situation Taiwans: technologisch immer noch führend, aber geopolitisch nicht in der Lage zu garantieren, dass diese Führung langfristige Sicherheit bringt.
 
-## Der Tontopf neben dem Reinraum
+## Neben dem Reinraum liegen Tontöpfe aus der Zeit vor 5.000 Jahren
 
-Während der Entwicklung des Kaohsiung Science Park wurden zahlreiche prähistorische Stätten ausgegraben. Archäologen fanden unter diesem Land Kulturen aus 5000 Jahren (Dànténkeng Culture), über dreitausend Jahren (Niuchouzi Culture) und Siedlungen der Siraya-Indianer von vor Jahrhunderten – insgesamt wurden in dem gesamten Kaohsiung Science Park 68 Stätten identifiziert, die sechs kulturelle Perioden umfassen. Im Oktober 2019 eröffnete das National Museum of Taiwan Ancient Culture (南科考古館) in Kaohsiung, entworfen vom Architekten Yao Renxi (姚仁喜), der wie ein schwarzer Würfel mit weißen Linien aussieht und wie ein Schachbrett blickt; die Querschnittsmuster der Wände sind absichtlich so gestaltet, dass sie archäologische Schichten zeigen, die geschichtet aufgebrochen wurden [^22].
+Im Zuge der Entwicklung des Southern Taiwan Science Park (STSP) wurden zahlreiche prähistorische Stätten freigelegt. Archäologen fanden unter diesem Boden Überreste der Dapenkeng-Kultur (vor etwa 5.000 Jahren), der Niuchizi-Kultur (vor über 3.000 Jahren) sowie Siedlungen des Siraya-Volkes aus den letzten Jahrhunderten – innerhalb des gesamten STSP-Gebiets wurden 68 Fundstätten identifiziert, die sechs verschiedene Kulturperioden abdecken. Im Oktober 2019 wurde das Southern Taiwan Science Park Archaeological Museum des National Museum of Prehistoric Taiwan offiziell eröffnet. Entworfen vom Architekten Kris Yao, präsentiert sich das Gebäude als schwarzer Kubus mit weißen Linien, der aus der Vogelperspektive an einen Zauberwürfel erinnert; die Textur der Wandquerschnitte wurde bewusst so gestaltet, dass sie wie archäologische Schichten wirkt, die Schicht für Schicht freigelegt wurden[^22].
 
-Dies ist wahrscheinlich die surrealste Szene der Welt: Das Museum für prähistorische Tontöpfe aus 5000 Jahren liegt neben dem Reinraum mit 3-nm-Chips. Auf demselben Land liegen zwei Zeiten übereinander – eine, die in Waferlots gemessen wird und so schnell ist wie Minuten; eine andere, die in Jahrtausenden gemessen wird und so langsam ist, dass sie durch C14 datiert werden muss. Die taiwanesischen Wissenschaftsparks stapeln nicht nur Industrie, sondern auch die Zeit selbst.
+Dies ist wohl eine der surrealsten Szenen weltweit: Direkt neben den Reinräumen für 3-Nanometer-Chips befindet sich das archäologische Museum, das Tontöpfe aus der Zeit vor 5.000 Jahren ausstellt. Auf demselben Boden liegen zwei Zeitebenen übereinander – die eine wird in Wafer-Lots gemessen und ist so schnell, dass sie in Minuten zählt; die andere wird in Jahrtausenden gemessen und ist so langsam, dass man die Radiokohlenstoffdatierung (C14) benötigt. Der Taiwan Science Park ist nicht nur ein Ort der industriellen Überlagerung, sondern auch eine Überlagerung der Zeit selbst.
 
-![Außenansicht des Kaohsiung Science Park Museum für prähistorische Kultur, entworfen vom Architekten Yao Renxi, ein schwarzer Würfelbau im Kaohsiung Science Park](/article-images/technology/nanke-archaeology-museum-2019.webp)
-_Kaohsiung Science Park Museum für prähistorische Kultur, entworfen von Yao Renxi, eröffnet 2019. Bei der Entwicklung wurden 68 prähistorische Stätten wie Dànténkeng, Niuchouzi und Siraya ausgegraben – Waferfabriken und Tontöpfe aus 5000 Jahren sind auf demselben Land verbunden. Foto: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
+![Außenansicht des Southern Taiwan Science Park Archaeological Museum des National Museum of Prehistoric Taiwan; ein schwarzer Kubus, entworfen von Kris Yao, gelegen im Southern Taiwan Science Park](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_Archäologisches Museum des STSP, entworfen von Kris Yao, eröffnet 2019. Bei der Erschließung des Parks wurden 68 prähistorische Stätten wie Dapenkeng, Niuchizi und Siraya freigelegt – Halbleiterfabriken und Tontöpfe aus der Zeit vor 5.000 Jahren sind durch denselben Boden miteinander verbunden. Photo: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Wir kehren zu dem Reisfeld von 1979 zurück, das abgeebnet wurde. Damals konnte niemand garantieren, dass diese Wette gewinnen würde: Die Technologie war geliehen, das Modell ungetestet und der Standort lag auf landwirtschaftlichem Grund. Vierundfünfzig Jahre später hat diese Insel die weltweit am meisten benötigte Chipkapazität hervorgebracht – der Marktwert von TSMC erreichte einmal fast das gesamte Bruttoinlandsprodukt Taiwans; die Steuern, die es zahlt, entsprechen einem beträchtlichen Anteil des Verteidigungsbudgets [^23]. Der stärkste Schutzschild Taiwans ist gewachsen, aber diese Einzigartigkeit macht es auch zu der Karte, nach der jeder am Tisch der Großmächte greifen möchte.
+Richten wir den Blick zurück auf jene Reisfelder im Jahr 1979, die damals planiert wurden. Damals konnte niemand garantieren, dass diese Wette aufgehen würde: Die Technologie war geliehen, das Geschäftsmodell wurde von niemandem erwartet, und der Standort lag auf landwirtschaftlichem Boden. Fünfundvierzig Jahre später hat diese Insel die weltweit wichtigste Chip-Produktionskapazität hervorgebracht – der Marktwert von TSMC näherte sich zeitweise dem gesamten jährlichen Bruttoinlandsprodukt (BIP) Taiwans an, und die gezahlten Steuern entsprechen einem erheblichen Anteil des Verteidigungshaushalts[^23]. Taiwans stärkster Talisman ist gewachsen, doch genau diese Unverzichtbarkeit macht das Land zu einem wertvollen Spielstein am Verhandlungstisch der Großmächte.
 
-Das Reisfeld von vor vierundfünfzig Jahren setzte auf das Überleben; nachdem man gewonnen hatte, wurde die Insel zur Lebensader und zum Zielscheibe der Welt. Die nächste Wette – über Wasser, Strom, Talente und den neu definierten Schild – hat begonnen, und dieses Mal sitzt nicht nur Taiwan am Spieltisch.
+Bei jener Wette auf den Reisfeldern vor 45 Jahren ging es um das Überleben; nachdem sie gewonnen wurde, wurde die Insel zum Lebensnerv der Welt – und gleichzeitig zu deren Achillesferse. Die nächste Wette – über Wasser, über Strom, über Talente und über jenen Schutzschild, der gerade neu definiert wird – hat bereits begonnen. Und dieses Mal sitzen nicht nur Taiwan am Spieltisch.
 
 ---
 
-**Weiterführende Lektüre:**
+**Weiterführende Literatur**:
 
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Fünfzig Jahre Materialrevolution vom Technologietransfer von RCA bis Galliumnitrid und Quantenpackaging; wie die Chips im Park zur fortschrittlichsten der Welt wurden.
-- [Die Top 50 Unternehmen Taiwans](/de/economy/top-50-companies-taiwan) — Der nationale Schatz stützt eine Bilanz und einen Einpunktversagen; die andere Seite der Konzentrationsrate des Wissenschaftsparks.
-- [Der Schöpfer: Die Wette des Jahrhunderts](/de/art/mountain-makers-tsmc-documentary) — Dokumentarfilm von Xiao Ju-zhen, 2025; fünf Jahre lang wurden über achtzig Halbleiterveteranen interviewt und diese „Wette des Jahrhunderts“ in Bildern festgehalten.
+- [Taiwanische Industrie-Sonderausgabe](/industry/) — Zeichnet die Industriestruktur anhand offizieller Statistiken nach: 70 Jahre Exporte und BIP, Wissenschaftsparks, Fabriken in den einzelnen Landkreisen, die Top 10 der Marktkapitalisierungen der letzten Jahre sowie die Standpunkte der sechs Seiten öffentlicher Debatten.
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von der Technologietransfer-Ära durch RCA bis zur Materialrevolution mit Galliumnitrid und Quantenverpackung: Wie die Chips in den Parks zu den weltweit fortschrittlichsten wurden.
+- [Taiwans Top 50 Unternehmen](/de/economy/top-50-companies-taiwan) — Der „Schutzgott der Nation“ stützt diese Liste, aber auch ein Land mit einem Single Point of Failure; die Kehrseite der Konzentration der Wertschöpfung in den Wissenschaftsparks.
+- [The Makers: A Bet for the Century](/de/art/mountain-makers-tsmc-documentary) — Dokumentarfilm von Hsiao Ju-chen aus dem Jahr 2025, der nach fünfjährigen Interviews mit über achtzig Pionieren der Halbleiterindustrie diese Wette des Jahrhunderts visuell festhält.
 
 ---
 

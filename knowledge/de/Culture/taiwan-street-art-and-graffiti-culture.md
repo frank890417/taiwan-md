@@ -10,11 +10,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:32:46.151205+00:00'
+translatedAt: '2026-11-18T22:56:23.586271+00:00'
 ---
 
 # Street Art und Graffiti-Kultur in Taiwan
@@ -71,17 +73,17 @@ Digitale Technologien eröffnen neue Möglichkeiten. Dynamische Projektionen auf
 
 ## Referenzen
 
-[^1]: [Regenbogen-Dorf — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Geschichte des Regenbogen-Dorfes im Bezirk Nantun, Taichung, sowie Aufzeichnungen über Huang Yong-fus Malereien und die Erhaltungsbewegung.
+[^1]: [Rainbow Village — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Geschichte des Rainbow Village im Bezirk Nantun, Taichung, sowie Aufzeichnungen über den Beginn der Bemalungen durch Huang Yung-fu und die Denkmalschutzbewegung.
 
-[^2]: [Pier-2 Art Center — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Entwicklung und Vorstellung der Ausstellungsräume des Pier-2 Art Center in Kaohsiung.
+[^2]: [Pier-2 Art Center — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Entwicklungsgeschichte und Einführung in die Ausstellungsflächen des Pier-2 Art Center in Kaohsiung.
 
-[^3]: [Zhengbin Fishing Harbor — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Revitalisierungsprojekt des Zhengbin Fishing Harbors in Keelung und Hintergrund der farbigen Gebäude.
+[^3]: [Zhengbin Fishing Port — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Revitalisierungsprojekt des Zhengbin Fishing Port in Keelung und der Hintergrund zur Entstehung der farbenfrohen Gebäudegruppen.
 
-[^4]: [Street Art Taiwan Map — Street Art Taiwan](https://streetarttaiwan.com/) — Datenbank mit Standorten von Street-Art-Werken und Künstlerinformationen in taiwanesischen Städten.
+[^4]: [Street Art Taiwan — Karte der Street Art in Taiwan](https://streetarttaiwan.com/) — Datenbank zur Dokumentation von Standorten von Street-Art-Werken und Informationen zu Künstlern in verschiedenen Städten Taiwans.
 
-[^5]: [Diskussion über die Graffiti-Verordnung der Stadt Taipeh — Stadtverwaltung Taipeh](https://www.gov.taipei/) — Entwicklung der Verwaltungspolitik für Graffiti in Taipeh.
+[^5]: [Diskussion über die Verordnung zur Verwaltung von Graffiti in Taipeh — Stadtverwaltung Taipeh](https://www.gov.taipei/) — Die Entwicklung der Managementpolitik der Stadt Taipeh in Bezug auf Street-Art und Graffiti.
 
-[^6]: [Pow! Wow! Taiwan offizielle Website](https://powwowtaiwan.com/) — Archiv der Aktivitäten des internationalen Street-Art-Festivals Taiwan.
+[^6]: [Pow! Wow! Taiwan offizielle Website](https://powwowtaiwan.com/) — Archiv der Aktivitäten des internationalen Street-Art-Festivals Pow! Wow! Taiwan aus den vergangenen Jahren.
 
 ## Weiterführende Literatur
 

@@ -22,11 +22,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 15
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣與北朝鮮關係.md'
-sourceCommitSha: '5af229e1e'
-sourceContentHash: 'sha256:6923220eadde819d'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:710244ec0149acd2'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-18T22:26:27.712347+00:00'
 ---
 
 > **Dreissig-Sekunden-Überblick:** Die Beziehungen zwischen Taiwan und Nordkorea sind weit komplexer, als es der Schein vermuten lässt. Vor dem totalen Embargo 2017 war Taiwan Nordkoreas viertgrösster Exportmarkt weltweit, der zivilgesellschaftliche Wirtschaftsverkehr war äusserst rege. Nordkorea war stark von taiwanesischen Produkten abhängig – von Acer- und Asus-Computern in Regierungsbüros bis hin zu Brown-Coffee und I-Mei-Puffs, die hohe Beamte schätzten. MIT-Marken hatten Pjöngjang tief durchdrungen. Obwohl die offiziellen Beziehungen heute eingefroren sind, zeigen Seeschmuggel, Hochtechnologie-Infiltration, Geldwäsche im Untergrundfinanzsystem und Seekabel-Vorfälle, dass diese Beziehung in eine Grauzone übergegangen ist und weiterhin die geopolitischen Nerven Ostasiens berührt. Zudem inspizierten nordkoreanische Arbeiterpartei-Beamte einst heimlich Taiwans Exportverarbeitungszonen, und taiwanesische Fischerboote stellten massenhaft nordkoreanische Fischerarbeiter ein – diese unbekannten tiefen Verbindungen offenbaren ein komplexeres Interaktionsnetz zwischen den beiden Orten.
@@ -111,8 +113,8 @@ Nordkoreas Paradigmenwechsel zur „Zwei-Staaten-Theorie“ belegt, dass „Blut
 
 ## Weiterführende Literatur
 
-- [Austritt aus den Vereinten Nationen](/de/history/withdrawal-from-united-nations) — Der strukturelle Wendepunkt von Taiwans internationalem Status
-- [Taiwans Aussenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Wie exportorientierte Wirtschaft den Grauzonenhandel formt
+- [Austritt aus den Vereinten Nationen](/de/history/withdrawal-from-united-nations) — Ein struktureller Wendepunkt für Taiwans internationalen Status
+- [Taiwans Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Wie die Exportorientierung den Handel in der Grauzone prägt
 
 ## Quellen
 

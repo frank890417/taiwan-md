@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T23:04:59.039928+00:00'
 ---
 
 # Die Qing-Regierungszeit
@@ -68,15 +70,15 @@ Dieser Widerstand wird in der späteren taiwanesischen Geschichte als der erste 
 
 ## Referenzen
 
-[^1]: [Taiwan Qing-Regierungszeit — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — – Gesamtübersicht über die Qing-Herrschaft in Taiwan, einschließlich Verwaltungssystem, wichtiger Ereignisse und Politik der verschiedenen Phasen
+[^1]: [Taiwan unter Qing-Herrschaft — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Überblick über die Qing-Herrschaft in Taiwan, einschließlich Herrschaftssystem, Chronologie der wichtigsten Ereignisse und Politiken der verschiedenen Phasen.
 
-[^2]: [Liu Mingchuan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — – Lebenslauf und Dokumentation der Modernisierungsbauten des ersten Gouverneurs Taiwans, Liu Mingchuan
+[^2]: [Liu Mingchuan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Lebenslauf und Aufzeichnungen über den modernen Provinzaufbau des ersten Gouverneurs von Taiwan, Liu Mingchuan.
 
-[^3]: [Yiwei-Krieg — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — – Der vollständige Verlauf des Widerstands der Republik Taiwan gegen die japanische Eroberung im Jahr 1895, einschließlich des Schicksals von Tang Jingsong
+[^3]: [Yiwei-Krieg — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Der vollständige Verlauf des Widerstands der Republik Formosa 1895 gegen die japanische Übernahme, einschließlich der Flucht von Tang Jingsong.
 
-[^4]: [Rover-Ereignis — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — – Das Rover-Ereignis von 1867, der Vertrag von Nan Ji und die Verhandlungen mit Charles Le Gendre
+[^4]: [Rover-Vorfall — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — Der Rover-Vorfall 1867, das Südkap-Abkommen und die Verhandlungen mit Charles Le Gendre.
 
-[^5]: [Shijiuduan-Ereignis — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — – Der Steuerprotest in Changhua im Jahr 1888, einer der größten Steueraufstände des späten Qing in Taiwan
+[^5]: [Shi-Jiuduan-Vorfall — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — Der Volksaufstand in Changhua 1888, ausgelöst durch Qing-Steuern, das größte Steuerwiderstandsereignis in Taiwan am Ende der Qing-Dynastie.
 
 ## Erläuterung der Terminologie: Qing-Regierungszeit vs. Qing-Besatzung (清領)
 
