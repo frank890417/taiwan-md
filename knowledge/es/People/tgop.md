@@ -36,8 +36,10 @@ evolveHistory:
     linesBefore: 159
     linesAfter: 330
     reason: 'GA4 近 28 天真人 128 次瀏覽、每人 102 秒；Search Console「這群人成員」774 次曝光只有 2 次點擊、「這群人解散」371 次，讀者要成員名單、誰還在誰離開、解散了沒，舊文前段沒有回答'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/這群人.md'
-sourceCommitSha: 'ee350db4f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8480ea87d83796bf'
 sourceBodyHash: 'sha256:e0560a69303d3715'
 translatedAt: '2026-11-06T22:16:03.641317+00:00'

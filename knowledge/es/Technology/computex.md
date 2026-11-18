@@ -43,8 +43,10 @@ sporeLinks:
     date: '2026-06-01'
     url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 relatedDiary: ['2026-06-01-130850-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:dd896b223778a319'
 sourceBodyHash: 'sha256:1cfc73d3ec3aabb4'
 translatedAt: '2026-10-10T15:39:10.140877+00:00'

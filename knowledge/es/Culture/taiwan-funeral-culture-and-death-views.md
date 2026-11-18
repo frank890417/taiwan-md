@@ -18,8 +18,10 @@ featured: false
 readingTime: 13
 lastVerified: 2026-04-08
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Culture/台灣殯葬文化與生死觀.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c4dd3375c0cfa0a5'
 sourceBodyHash: 'sha256:a20df4f3c36414b3'
 translatedAt: '2026-06-16T17:19:04Z'

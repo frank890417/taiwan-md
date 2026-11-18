@@ -19,8 +19,10 @@ readingTime: 22
 lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/曾博恩.md'
-sourceCommitSha: '4f72f613c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:988940bbd49c885d'
 sourceBodyHash: 'sha256:5b25bf3684001b40'
 translatedAt: '2026-09-26T20:08:19+08:00'

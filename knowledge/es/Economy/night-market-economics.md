@@ -12,8 +12,10 @@ tags:
     'Turismo',
     'Comida callejera',
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: '7678a430'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-06-10T16:45:00+00:00'

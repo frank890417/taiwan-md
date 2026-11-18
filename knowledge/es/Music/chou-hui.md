@@ -41,8 +41,10 @@ sporeLinks:
     "{'id': 103, 'platform': 'threads', 'date': '2026-05-28', 'url': 'https://www.threads.com/@taiwandotmd/post/DY4u5UzAVcT'}",
     "{'id': 104, 'platform': 'x', 'date': '2026-05-28', 'url': 'https://x.com/taiwandotmd/status/2060010924015321462'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'a2811a4f0'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:76ee7588d6cf7537'
 sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-07-26T10:35:15+08:00'

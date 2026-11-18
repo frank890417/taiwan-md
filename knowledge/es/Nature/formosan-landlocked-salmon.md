@@ -18,8 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/櫻花鉤吻鮭.md'
-sourceCommitSha: 'f3161f537'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:9283c26216174046'
 sourceBodyHash: 'sha256:36625e315aaacf51'
 translatedAt: '2026-09-16T11:57:28+08:00'

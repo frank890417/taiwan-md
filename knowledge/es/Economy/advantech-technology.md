@@ -10,8 +10,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '890c5095e'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
 translatedAt: '2026-10-15T21:43:26.263987+00:00'

@@ -21,8 +21,10 @@ readingTime: 7
 #   why_this_hook: "Desde el combate por el bronce en Londres 2012: ganó un campeonato mundial, recorrió seis Juegos Olímpicos, pero siempre se cruzó con la medalla olímpica sin alcanzarla. Esta tensión define mejor a Chuang Chih-yuan que cualquier cifra."
 #   whats_excluded: "Resultados detallados de cada edición olímpica; registro completo de enfrentamientos contra jugadores chinos; detalles anuales de transferencias entre clubes en la liga alemana"
 #   where_it_hedges: "Si Sídney 2000 fue efectivamente su primera participación (P0 confirma seis ediciones 2000-2024, algunos datos son disputados); oponente y marcador del combate por el bronce en Londres 2012 pendientes de confirmación"
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/莊智淵.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8f24d65425473ad4'
 sourceBodyHash: 'sha256:1216e697fc7e6c44'
 translatedAt: '2026-05-09T14:29:10+08:00'

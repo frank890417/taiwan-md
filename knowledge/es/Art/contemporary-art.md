@@ -10,8 +10,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/當代藝術.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:3041eabbe02feebf'
 sourceBodyHash: 'sha256:71f7a0b38a49387b'
 translatedAt: '2026-09-19T11:59:04+08:00'

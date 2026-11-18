@@ -27,8 +27,10 @@ image: '/article-images/nature/taiwania-nantou-shihchuan.webp'
 imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'de4dde0c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e26a95dae7cf552e'
 sourceBodyHash: 'sha256:b680f8b344c7bf2d'
 translatedAt: '2026-10-14T15:15:10.613868+00:00'

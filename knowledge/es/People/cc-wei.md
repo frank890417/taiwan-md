@@ -10,10 +10,12 @@ readingTime: 7
 lastVerified: 2026-05-08
 lastHumanReview: true
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: People/魏哲家.md
-sourceCommitSha: 0f8fae0a
-sourceContentHash: sha256:3d7fccce1bbb6e47
-sourceBodyHash: sha256:501cc28a481912c5
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:3d7fccce1bbb6e47'
+sourceBodyHash: 'sha256:501cc28a481912c5'
 translatedAt: 2026-05-26T21:07:27Z
 ---
 

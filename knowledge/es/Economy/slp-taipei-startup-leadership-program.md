@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-07-05
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/SLP台北創業領導計畫.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7724220e60173fa7'
 sourceBodyHash: 'sha256:e213a0f35315b401'
 translatedAt: '2026-09-26T10:25:00+08:00'

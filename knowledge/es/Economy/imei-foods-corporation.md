@@ -20,8 +20,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Economy/台灣企業：義美食品.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fd10cef889ef4781'
 sourceBodyHash: 'sha256:3df603cf09cf4177'
 translatedAt: 2026-05-02T01:17:17+08:00

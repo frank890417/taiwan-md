@@ -21,8 +21,10 @@ readingTime: 16
 lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:711d78906f27f250'
 sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-06-16T16:54:57Z'

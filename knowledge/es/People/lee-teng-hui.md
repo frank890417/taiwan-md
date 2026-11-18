@@ -9,8 +9,10 @@ author: 'Taiwan.md'
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李登輝.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-05-02T08:50:00+08:00'

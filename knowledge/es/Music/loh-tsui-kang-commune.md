@@ -22,8 +22,10 @@ featured: false
 readingTime: 10min
 lastVerified: 2026-04-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Music/濁水溪公社.md
-sourceCommitSha: 'ac1d187a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:469167869b1ed9c7'
 sourceBodyHash: 'sha256:ba486d59e98b80d0'
 translatedAt: 2026-05-01T22:19:10+08:00

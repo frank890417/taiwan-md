@@ -25,9 +25,11 @@ imageCredit: 'AAMA台北搖籃計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.aamataipei.com.tw/archives/44255'
 relatedDiary: ['2026-07-15-121155-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:ab3b9104eaaaac16'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:ccfdff52514bee03'
 sourceBodyHash: 'sha256:c85b648ab9e302be'
 translatedAt: '2026-09-24T05:58:34.995911+00:00'
 ---

@@ -5,15 +5,18 @@ date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '地形與地質'
-tags: ['Yushan', 'Cien Cumbres', 'Pueblo Bunun', 'Parque Nacional', 'Montañismo']
+tags:
+  ['Yushan', 'Cien Cumbres', 'Pueblo Bunun', 'Parque Nacional', 'Montañismo']
 readingTime: 15
 lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Geography/玉山.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:fac289c302ac2b36
-sourceBodyHash: sha256:fa7af530be8a582c
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:fac289c302ac2b36'
+sourceBodyHash: 'sha256:fa7af530be8a582c'
 translatedAt: 2026-05-20T05:08:32+08:00
 ---
 
@@ -32,7 +35,7 @@ El pueblo Tsou lo llama **Patungkuonʉ** (o Pattonkan), que significa "montaña 
 
 ### El poder detrás de los nombres: del monte Morrison al Yushan
 
-La mirada de los forasteros fue pegando sobre esta montaña distintas etiquetas políticas y culturales. Ya durante el reinado del emperador Kangxi de la dinastía Qing (1685), el *Taiwan Fuzhi* (Gazetteer of Taiwan Prefecture) registró el nombre "Yushan", describiéndola como "una montaña muy elevada, siempre cubierta por nubes en su cima... de color blanco como la plata". En los documentos de la dinastía Qing, el Yushan también fue conocida como "Montaña Batongtong" o "Montaña de Nieve" (por su aspecto nevado a lo lejos) [^3].
+La mirada de los forasteros fue pegando sobre esta montaña distintas etiquetas políticas y culturales. Ya durante el reinado del emperador Kangxi de la dinastía Qing (1685), el _Taiwan Fuzhi_ (Gazetteer of Taiwan Prefecture) registró el nombre "Yushan", describiéndola como "una montaña muy elevada, siempre cubierta por nubes en su cima... de color blanco como la plata". En los documentos de la dinastía Qing, el Yushan también fue conocida como "Montaña Batongtong" o "Montaña de Nieve" (por su aspecto nevado a lo lejos) [^3].
 
 A mediados del siglo XIX, navegantes occidentales la bautizaron como "Monte Morrison" (Mt. Morrison), en honor al capitán de un barco mercante británico. En los primeros años del periodo colonial japonés, el gobierno nipón consideró otras denominaciones, como "Montaña Zhennan" o "Gran Montaña del Sur" (aludiendo a la longevidad), pero finalmente el emperador Meiji decidió por "Nueva Montaña Alta", dado que superaba al monte Fuji en unos 200 metros. Durante la Segunda Guerra Mundial, la montaña llegó incluso a convertirse en código militar: el nombre en clave del ataque a Pearl Harbor, "Escalar la Nueva Montaña Alta 1208", se inspiraba en el significado simbólico de la cumbre más alta del imperio [^4].
 
@@ -46,13 +49,13 @@ Lo que verdaderamente impresiona del Yushan se encuentra a lo largo de su ruta d
 
 Según los datos más recientes del Parque Nacional del Yushan, esta "isla biológica de especies relictas de la era glacial" posee una biodiversidad extraordinariamente rica:
 
-| Categoría | Cantidad y características | Especies representativas |
-| :--- | :--- | :--- |
-| **Mamíferos** | Aproximadamente 65 especies (74 % de los mamíferos terrestres de Taiwán), incluidos 16 de mediano y gran tamaño | Oso negro taiwanés, Ciervo sika taiwanés, Cabra montés taiwanés, Jabalí taiwanés, Macaco taiwanés, Serow taiwanés, Marta de garganta amarilla |
-| **Aves** | Aproximadamente 191–233 especies (incluidas 29 endémicas de Taiwán) | Faisán Mikado, Acentor alpino, Ceja dorada |
-| **Mariposas** | Aproximadamente 282–289 especies (más de la mitad de las especies de Taiwán) | El corredor de mariposas de Tatataka y Batongtong |
-| **Anfibios y reptiles** | La salamandra endémica de Taiwán tiene la distribución más austral del mundo | Salamandra de Alishan |
-| **Plantas** | 87 % de bosque natural, cubriendo formaciones vegetales desde el subtropical hasta el alpino | Enebro del Yushan, Rododendro del Yushan, Leontopodio del Yushan, Abeto taiwanés, Flecha del Yushan |
+| Categoría               | Cantidad y características                                                                                      | Especies representativas                                                                                                                      |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mamíferos**           | Aproximadamente 65 especies (74 % de los mamíferos terrestres de Taiwán), incluidos 16 de mediano y gran tamaño | Oso negro taiwanés, Ciervo sika taiwanés, Cabra montés taiwanés, Jabalí taiwanés, Macaco taiwanés, Serow taiwanés, Marta de garganta amarilla |
+| **Aves**                | Aproximadamente 191–233 especies (incluidas 29 endémicas de Taiwán)                                             | Faisán Mikado, Acentor alpino, Ceja dorada                                                                                                    |
+| **Mariposas**           | Aproximadamente 282–289 especies (más de la mitad de las especies de Taiwán)                                    | El corredor de mariposas de Tatataka y Batongtong                                                                                             |
+| **Anfibios y reptiles** | La salamandra endémica de Taiwán tiene la distribución más austral del mundo                                    | Salamandra de Alishan                                                                                                                         |
+| **Plantas**             | 87 % de bosque natural, cubriendo formaciones vegetales desde el subtropical hasta el alpino                    | Enebro del Yushan, Rododendro del Yushan, Leontopodio del Yushan, Abeto taiwanés, Flecha del Yushan                                           |
 
 Merece especial mención que la cuenca del río Le alberga la población más densa de osos negros taiwaneses, y que la salamandra endémica de Alishan constituye el límite más meridional de distribución mundial de las salamandras de montaña. El Yushan es una "isla biológica de especies relictas de la era glacial", con zonas ecológicas verticales que van del subtropical al alpino, de enorme valor científico [^7]. En las laderas de grava por encima de los 3.850 metros, las condiciones son extremadamente duras: vientos fuertes, temperaturas bajas y alta radiación ultravioleta. Plantas como el leontopodio del Yushan han desarrollado pelajes densos o hojas cerosas, y echan raíces a un ritmo extraordinariamente lento entre las grietas de las rocas, mostrando la fuerza vital más tenaz de la flora alpina de Taiwán.
 
@@ -64,7 +67,7 @@ Hoy, con la implementación de la política de "apertura de montañas y bosques"
 
 1. **La tensión de la capacidad de carga ambiental:** El albergue Paiyun tiene una capacidad real de entre 92 y 116 plazas (según la época), accesibles mediante sorteo (con tasas de éxito en temporada baja que pueden descender al 1–3 %), a un coste aproximado de 480 TWD por cama, con posibilidad de alquilar saco de dormir. Esto lleva a muchos montañeros a optar por el "ascenso en un día" (ida y vuelta) desde la entrada de montaña de Tatataka. Sin embargo, esta modalidad exige una excelente condición física y capacidad de adaptación a la altitud; quienes no están suficientemente preparados suelen sufrir accidentes de montaña, siendo el mal de altura y las caídas las causas más frecuentes de tragedia en el Yushan [^10].
 2. **Alteración del comportamiento de la fauna silvestre:** En las inmediaciones de Tatataka y el albergue Paiyun, especies como la marta de garganta amarilla, el acentor alpino e incluso el macaco taiwanés han desarrollado graves comportamientos de "mendicidad" debido al contacto prolongado con restos de comida humana y la alimentación intencionada. Con el tiempo, su instinto natural de búsqueda de alimento se degrada progresivamente, y la ingestión de comida humana puede causarles daños a su salud. La administración del parque prohíbe estrictamente alimentar a los animales, con multas de hasta 3.000 TWD para los infractores [^11].
-3. **Montaña sin huellas y residuos humanos:** La administración del parque aplica rigurosamente los principios de "Montaña sin huellas" (*Leave No Trace*, LNT), exigiendo a los montañeros que desciendan con todos los residuos, desechos humanos y restos de comida, para reducir el impacto ambiental. Los porteadores deben transportar suministros a la montaña, y los visitantes deben valorar su esfuerzo y colaborar en mantener la limpieza del entorno natural [^12].
+3. **Montaña sin huellas y residuos humanos:** La administración del parque aplica rigurosamente los principios de "Montaña sin huellas" (_Leave No Trace_, LNT), exigiendo a los montañeros que desciendan con todos los residuos, desechos humanos y restos de comida, para reducir el impacto ambiental. Los porteadores deben transportar suministros a la montaña, y los visitantes deben valorar su esfuerzo y colaborar en mantener la limpieza del entorno natural [^12].
 
 📝 **Nota del comisario:** Subimos basura a la montaña, pero nos llevamos la naturaleza salvaje de los animales. Amar verdaderamente la montaña es aprender a contener nuestro deseo de "acercarnos".
 
@@ -78,13 +81,13 @@ Cuando hablamos de "coronar el Yushan", quizá no deberíamos centrarnos solo en
 
 ### Fuentes
 
-[^1]: [El hogar espiritual de Taiwán: atravesando la historia, mirando al Yushan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — *Taiwan Panorama*: artículo especial de *Taiwan Panorama*
+[^1]: [El hogar espiritual de Taiwán: atravesando la historia, mirando al Yushan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — _Taiwan Panorama_: artículo especial de _Taiwan Panorama_
 
 [^2]: [Estudios sobre el Yushan: ecología natural y ética ambiental](https://paperupload.nttu.edu.tw/download.php?sn=2141) — Tesis académica de la Universidad Nacional de Taitung: véase el contenido del enlace original
 
 [^3]: [Yushan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%8E%89%E5%B1%B1) — Wikipedia: entrada de Wikipedia
 
-[^4]: [Registro histórico y relatos de la ascensión al Yushan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — *Good Job Trekker*: véase el contenido del enlace original
+[^4]: [Registro histórico y relatos de la ascensión al Yushan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — _Good Job Trekker_: véase el contenido del enlace original
 
 [^5]: [Parque Nacional del Yushan y conservación ecológica](https://vocus.cc/article/6800665bfd89780001d83257) — Vocus: véase el contenido del enlace original
 
@@ -92,7 +95,7 @@ Cuando hablamos de "coronar el Yushan", quizá no deberíamos centrarnos solo en
 
 [^7]: [Ecología - Noroeste](https://www.ysnp.gov.tw/En/RecreationArea/1fbfec62-e8ce-4916-a902-a6c28c9dd33e?Tab=6) — Administración del Parque Nacional del Yushan: véase el contenido del enlace original
 
-[^8]: [Registro histórico y relatos de la ascensión al Yushan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — *Good Job Trekker*: véase el contenido del enlace original
+[^8]: [Registro histórico y relatos de la ascensión al Yushan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — _Good Job Trekker_: véase el contenido del enlace original
 
 [^9]: [Un millón de personas suben al Yushan al año y generan 250 kg de basura](https://news.pts.org.tw/article/375743) — Noticias PTS: Noticias PTS
 
@@ -102,6 +105,6 @@ Cuando hablamos de "coronar el Yushan", quizá no deberíamos centrarnos solo en
 
 [^12]: [Seguridad de montañismo y ética ambiental en el Parque Nacional del Yushan](https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&s=28FDB2F1F86EDEB4) — Material divulgativo del Gobierno de Taipéi: véase el contenido del enlace original
 
-[^13]: [El hogar espiritual de Taiwán: atravesando la historia, mirando al Yushan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — *Taiwan Panorama*: artículo especial de *Taiwan Panorama*
+[^13]: [El hogar espiritual de Taiwán: atravesando la historia, mirando al Yushan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — _Taiwan Panorama_: artículo especial de _Taiwan Panorama_
 
 [^14]: [Seguridad de montañismo y ética ambiental en el Parque Nacional del Yushan](https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&s=28FDB2F1F86EDEB4) — Material divulgativo del Gobierno de Taipéi: véase el contenido del enlace original

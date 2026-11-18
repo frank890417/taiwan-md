@@ -16,8 +16,10 @@ subcategory: '地質與地熱'
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Nature/台灣溫泉與地熱.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: 2026-05-01T20:54:23+08:00

@@ -24,10 +24,12 @@ readingTime: 25
 lastVerified: 2026-05-04
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Geography/台北101.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:2b98bb25fe4e7d4a
-sourceBodyHash: sha256:d565775868e89ffc
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:2b98bb25fe4e7d4a'
+sourceBodyHash: 'sha256:d565775868e89ffc'
 translatedAt: 2026-05-09T14:29:10+08:00
 ---
 

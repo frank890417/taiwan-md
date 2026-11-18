@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/地形與地質.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-09-27T22:31:26+08:00'

@@ -18,8 +18,10 @@ readingTime: 12
 lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/傳統節慶與慶典.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
 translatedAt: '2026-06-16T17:10:37Z'

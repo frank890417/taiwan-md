@@ -20,8 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: '5dcc54256'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:d424949afdcc0ad2'
 sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
 translatedAt: '2026-10-03T04:11:35+08:00'

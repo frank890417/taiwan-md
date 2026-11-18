@@ -18,8 +18,10 @@ readingTime: 13
 lastVerified: 2026-07-06
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：宏碁.md'
-sourceCommitSha: 'a94bbcf6'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f4628301afebb26c'
 sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-07-16T00:45:14+08:00'

@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-09-22T02:06:14+08:00'

@@ -19,8 +19,10 @@ subcategory: '野生動物'
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Nature/台灣海洋生態.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:34ef5e8d367bee9d'
 sourceBodyHash: 'sha256:d270d18b5c4f802e'
 translatedAt: 2026-05-01T20:54:23+08:00

@@ -16,8 +16,10 @@ author: 'Taiwan.md'
 readingTime: 10
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/皮影戲.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5a4d0fb0959c27ae'
 sourceBodyHash: 'sha256:795653ceb8bee8f7'
 translatedAt: '2026-05-02T11:00:00+08:00'

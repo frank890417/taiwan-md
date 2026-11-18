@@ -18,8 +18,10 @@ category: 'Food'
 lastVerified: 2026-04-24
 featured: false
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Food/嘉義火雞肉飯.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:961c8a81a8f8c3f1'
 sourceBodyHash: 'sha256:2b1f54ba6f041643'
 translatedAt: '2026-06-11T16:38:50Z'

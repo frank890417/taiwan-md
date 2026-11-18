@@ -21,8 +21,10 @@ tags:
 lastVerified: 2026-07-05
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/藍染.md'
-sourceCommitSha: 'a43cf9153'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'
 sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-07-08T00:38:52+08:00'

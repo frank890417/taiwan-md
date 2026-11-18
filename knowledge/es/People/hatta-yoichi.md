@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/八田與一.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:9f1665215c6b5da8'
 sourceBodyHash: 'sha256:2885ebb0691722a3'
 translatedAt: '2026-11-02T15:51:35.891085+00:00'

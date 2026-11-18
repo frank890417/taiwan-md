@@ -19,8 +19,10 @@ readingTime: 25
 lastVerified: 2026-07-20
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
 translatedAt: '2026-07-23T23:06:50+08:00'

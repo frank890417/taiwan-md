@@ -5,15 +5,18 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['Deportes', 'Tenis', 'Juegos Olímpicos', 'Wimbledon', 'Tenis profesional']
+tags:
+  ['Deportes', 'Tenis', 'Juegos Olímpicos', 'Wimbledon', 'Tenis profesional']
 readingTime: 7
 #   whats_excluded: "ATP 排名逐年細節；與台灣網球協會的公開摩擦；訓練方式與技術分析細節"
 #   where_it_hedges: "出生地（台北或桃園/三重各有資料，採最廣泛引用說法）；1966年溫哥華100公尺世界紀錄待更多史料確認"'
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
 translatedAt: '2026-05-09T14:29:10+08:00'
