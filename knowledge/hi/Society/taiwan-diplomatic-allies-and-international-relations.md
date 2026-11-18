@@ -27,11 +27,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T02:34:41.107144+00:00'
+translatedAt: '2026-11-18T05:13:10.026294+00:00'
 ---
 
 # ताइवान के मित्र देश और अंतरराष्ट्रीय कूटनीति: 12 मित्र देश, 113 दूतावास, 177 देश वीज़ा-मुक्त (2026)
