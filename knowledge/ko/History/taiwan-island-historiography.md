@@ -19,11 +19,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-27T22:12:15+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T19:39:08.422195+00:00'
 ---
 
 > **30초 요약:** 만약 "누가 타이완을 통치했는가"만을 묻는다면, 타이완사는 네덜란드, 스페인, 정씨 세력, 청제국, 일본 제국, 중화민국이 차례로 등장하는 정권 교체표가 될 것이다. 하지만 '타이워 도서 사관'은 질문을 바꾼다. 이러한 정권들의 부침 속에서 이 섬의 사람들에게는 어떤 일이 일어났는가? 그들은 어떻게 이동하고, 거래하며, 통치받고, 저항하고, 사랑하며, 재난을 겪고, 재건하며, 결국 외래 제도와 다층적인 기억을 자신들의 삶으로 만들어냈는가? 1990년, 역사학자 차오융허(曹永和)는 '타이완 도서사(臺灣島史)' 개념을 제안했다. 이후 학자, 박물관, 교육 및 공공 문화는 이를 더욱 일상적인 직관으로 정착시켰다. 정체성은 혈연이나 모국에서만 오는 것이 아니라, 같은 섬에서 살아가며 생존해 온 경험에서도 비롯된다는 것이다. [^1][^2]
@@ -159,8 +161,8 @@ _국립 타이완 역사 박물관. 타이완 도서 사관은 한 편의 논문
 ## 이미지 출처
 
 - Hero: 1640년 네덜란드인이 그린 포르모사 지도, Wikimedia Commons, 퍼블릭 도메인. 원본 파일: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- 1880년 타이완 지도: Stanford's／Library of Congress, Wikimedia Commons, 퍼블릭 도메인. 원본 파일: [Map of Taiwan (Formosa) in 1880 (LOC)](https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_200CA58442_(cropped).jpg.
-- 국립 타이완 역사 박물관 외관: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. 원본 파일: [국립 타이완 역사 박물관 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- 1880년 타이완 지도: Stanford's／Library of Congress, Wikimedia Commons, 퍼블릭 도메인. 원본 파일: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- 국립 타이완 역사 박물관 외관: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. 원본 파일: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## 참고 문헌
 

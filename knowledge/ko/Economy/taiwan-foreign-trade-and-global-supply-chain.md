@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:42+08:00'
+translatedAt: '2026-11-18T19:44:32.690111+00:00'
 ---
 
 # 타이완 외교와 글로벌 공급망
@@ -284,9 +286,11 @@ ECFA 조기 수확 리스트가 다수 품목 관세 인하로 타이완 대(對
 
 [^9]: [자유시보 — 입법원 니카라과 FTA 중단 통과 외교부·경제부: 우리 무역 영향 제한적](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — 니측 2021년 12월 일방 종료, 우리 측 2022년 7월 1일부터 적용 중단.
 
-## 추천 읽을거리
+## 연장 읽기
 
+- [타이완 산업 특집](/industry/) — 공식 통계로 그린 산업 구조: 수출과 GDP 70년, 과학단지, 각 현시 공장, 역대 시가총액 상위 10위, 그리고 여섯 가지 공공 논쟁의 각 입장
+- [공급망 지도](/industry/supply-chain-map/) — 반도체, AI 서버, 텅스텐 세 가지 체인, 고리마다 어떤 기업이 타이완에 있고 어느 고리가 해외에 의존하는지 살펴보기
 - [타이완 중소기업과 히든 챔피언](/ko/economy/taiwan-smes-and-hidden-champions)
 - [타이완 농업과 농촌 재생](/ko/economy/taiwan-agriculture-and-rural-revitalization)
 - [스타트업 생태계](/ko/economy/taiwan-startup-ecosystem-overview)
-- [타이완 기업: 훙하이 정밀](/ko/economy/foxconn-precision-industry) — 24개국 90만 명의 글로벌 배치, 타이완 제조업 초국적 거버넌스 최대 실험장
+- [타이완 기업: 훙하이정밀(폭스콘)](/ko/economy/foxconn-precision-industry) — 24개국 90만 명의 글로벌 레이아웃, 타이완 제조업 초국경 거버넌스의 최대 실험장

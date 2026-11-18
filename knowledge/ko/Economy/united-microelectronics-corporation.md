@@ -2,19 +2,21 @@
 title: '유나이티드 마이크로일렉트로닉스(UMC) - 대만 웨이퍼 파운드리의 개척자'
 description: '대만 최초의 웨이퍼 파운드리로, 반세기 동안 대만 반도체 산업이 무에서 유를 창조한 기적적 여정을 목격하고 이끌어 온 기업'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags: ['경제', '기업', '반도체', '웨이퍼 파운드리', '과학기술']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-05-16T22:20:00Z'
+translatedAt: '2026-11-18T19:49:54.553739+00:00'
 ---
 
 > **30초 개요**
@@ -144,12 +146,12 @@ TSMC의 후광 아래에서 UMC는 다른 길을 선택했다. 성숙 공정에 
 
 ## 참고 자료
 
-[^1]: [유나이티드 마이크로일렉트로닉스 공식 연혁](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC는 1980년 5월 22일 공업기술연구원 전자연구소에서 파생되어 설립되었으며, 위키백과(중문 및 영문)와 UMC 공식 자료가 모두 이 날짜를 확인한다
+[^1]: [연화전자 공식 연혁](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC는 1980년 5월 22일 산업기술연구원 전자연구소에서 분사 설립되었으며, 위키백과(중문·영문) 및 UMC 공식 자료 모두 이 날짜를 확인함.
 
-[^2]: [위키백과 — 유나이티드 마이크로일렉트로닉스](https://zh.wikipedia.org/wiki/聯華電子) — 1985년 UMC는 중화권 최초로 주식시장에 상장한 반도체 기업이 되었다
+[^2]: [위키백과 — 연화전자](https://zh.wikipedia.org/wiki/聯華電子) — 1985년 UMC가 중화권 최초의 주식 상장 반도체 기업이 됨.
 
-[^3]: [TrendForce — 2024년 세계 웨이퍼 파운드리 시장 분석](https://www.trendforce.com/) — UMC의 세계 웨이퍼 파운드리 시장점유율은 약 7.4%로 세계 3위이며, TSMC는 62%, 삼성은 18%이다
+[^3]: [트렌드포스 — 글로벌 파운드리 시장 분석 2024](https://www.trendforce.com/) — UMC의 글로벌 파운드리 시장 점유율 약 7.4%, 세계 3위; TSMC 62%, 삼성 18%.
 
-[^4]: [유나이티드 마이크로일렉트로닉스 공식 웹사이트 — 투자자 관계](https://www.umc.com/zh-TW/IR/ir_overview) — UMC의 2025년 매출은 2,376억 신대만달러, 매출총이익률은 29.0%, 주당순이익은 3.34달러이다
+[^4]: [연화전자 공식 웹사이트 — 투자자 관계](https://www.umc.com/zh-TW/IR/ir_overview) — UMC 2025년 매출 NT$2,376억, 매출총이익률 29.0%, 주당 순이익 NT$3.34
 
-[^5]: [유나이티드 마이크로일렉트로닉스 ESG 지속가능성 보고서](https://www.umc.com/) — UMC는 2022년 “UMC 2030” 전략을 발표하고, 2030년 탄소중립 목표 달성을 약속했다
+[^5]: [연화전자 ESG 지속가능성 보고서](https://www.umc.com/) — UMC가 2022년 'UMC 2030' 전략을 발표하고, 2030년 탄소중립 목표 달성을 약속함.

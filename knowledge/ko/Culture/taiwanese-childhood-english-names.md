@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T15:13:03.224542+00:00'
+translatedAt: '2026-11-18T19:19:16.596012+00:00'
 ---
 
 # 타이완인의 어린 시절 영어 이름: Mary, Kevin과 보습학원 교사의 명명권
@@ -279,12 +281,13 @@ Yotaka와 Olivia 사이에는 86년이 놓여 있다.
 
 지명된 이름의 행위는 한 번도 폐지된 적이 없다. 그것은 다만 이름을 나누어 주는 사람이 바뀌었을 뿐이다.
 
-## 더 읽을거리
+## 확장 읽기
 
-- [타이완 외래어와 언어 접촉](/ko/culture/loanwords-and-language-contact-in-taiwan) — 일본어, 영어, 타이완어 사이의 차용을 통해 타이완의 다언어 층위가 어떻게 겹치는지 살핀다
-- [타이완 원주민 언어 부흥 운동](/ko/culture/indigenous-language-revitalization-movement) — 명명권 회복의 또 다른 선으로, 족어 부흥에서 2024년 성명조례 개정까지 이어진다
-- [장웨이원](/ko/people/chiung-wi-vun) — 타이완어 문학 운동의 ‘탈한’ 논리를 확장해 대조하며, 명명과 문자 주권의 다른 면을 보여 준다
-- [타이완 감성](/ko/culture/taiwanese-sensibility) — 문화 심리의 큐레이션 시각에서 “왜 타이완인은 늘 외문 이름이 필요하다고 느끼는가”의 또 다른 층위를 이해한다
+- [타이완 사람들의 이름(특집)](/names/) — 성씨, 세대, 병음과 족어 이름을 도표화하고, 이름 병음 도구를 첨부함.
+- [타이완의 외래어와 언어 접촉](/ko/culture/loanwords-and-language-contact-in-taiwan) — 일본어, 영어, 타이완어 사이의 차용을 통해 타이완의 다층적 언어 지형이 어떻게 쌓여 왔는지 살펴봄.
+- [타이완 원주민 언어 부흥 운동](/ko/culture/indigenous-language-revitalization-movement) — 명명권 회복의 또 다른 선, 족어 부흥에서 2024년 성명조례 개정까지 이어지는 흐름.
+- [장웨이원](/ko/people/chiung-wi-vun) — 타이완어문운동 '탈한(脫漢)' 논리의 연장선상 대비, 명명과 문자 주권의 또 다른 면.
+- [타이완 감성](/ko/culture/taiwanese-sensibility) — 문화 심태의 기획 시각, '왜 타이완 사람들은 늘 외국어 이름이 필요하다고 느끼는가'의 또 다른 층위 이해.
 
 ## 이미지 출처
 
