@@ -18,11 +18,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: '7f5cc659d'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6b8c18165d43ed48'
 sourceBodyHash: 'sha256:90c0aa43021fbb5f'
-translatedAt: '2026-10-03T04:11:35+08:00'
+translatedAt: '2026-11-18T14:01:33.125305+00:00'
 ---
 
 # The Apex of Island Seas and Mountains: The Ecology and Landscapes of Taiwan's National Parks

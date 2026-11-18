@@ -2,9 +2,7 @@
 title: 'Regenerative Medicine Dual Laws × 30 Years of mRNA: How the State Regulates Two Kinds of Life-Saving Medicine'
 description: "On the day Karikó and Weissman won the Nobel Prize in 2023, exactly 28 years had passed since she was demoted at the University of Pennsylvania. At the moment the first 930,000 doses of BNT landed at Taoyuan Airport on September 2, 2021, 24 years had passed since she and Weissman ran into each other by the photocopier in 1997. This article places the “Regenerative Medicine Dual Laws 2024” alongside “30 difficult years of mRNA,” moving from a Hungarian immigrant woman scientist's teddy bear to cleanrooms in Taoyuan Science Park to examine how the state regulates two entirely different kinds of life-saving medicine: cells and molecules."
 date: 2026-05-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'Regenerative Medicine Dual Laws',
@@ -16,19 +14,23 @@ tags:
     'Medical Human Rights',
     'GMP',
   ]
-readingTime: 22
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:067149f437c5a573'
-sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-06-16T17:03:25Z'
+readingTime: 22
 image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:067149f437c5a573'
+sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
+translatedAt: '2026-11-18T13:27:50.787118+00:00'
 ---
 
 ![Katalin Karikó and Drew Weissman jointly receiving the Life Science Medal in 2022, photographed in front of a backdrop; Karikó wears a red suit and Weissman a dark suit](/article-images/society/kariko-weissman-life-science-2022.webp)

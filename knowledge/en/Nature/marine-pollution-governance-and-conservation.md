@@ -2,9 +2,7 @@
 title: "Taiwan's Marine Pollution Governance and Conservation Challenges"
 description: 'Examining the current state, challenges, and innovative solutions for marine conservation in Taiwan amid marine debris, overfishing, and climate change'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'marine conservation',
@@ -13,16 +11,20 @@ tags:
     'Ocean Affairs Council',
     'sustainable fisheries',
   ]
+subcategory: '保育與環境'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
-sourceCommitSha: '1d54cbe52'
-sourceContentHash: 'sha256:3725125046bb0302'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
-translatedAt: '2026-05-20T05:08:27+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T13:53:29.215936+00:00'
 ---
 
 # Taiwan's Marine Pollution Governance and Conservation Challenges
@@ -588,26 +590,26 @@ The core of marine conservation is intergenerational equity: today's decisions d
 
 ## References
 
-[^1]: [Marine debris statistics - iOcean Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Beach-cleanup data statistics from the Society of Wilderness, 2016-2023.
+[^1]: [Marine Debris Statistics - Marine Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Wilderness Conservation Association's beach cleaning data statistics from 2016-2023.
 
-[^2]: [Taiwan marine microplastic survey - Biodiversity Research Center, Academia Sinica](https://www.oca.gov.tw/) — Survey report on microplastic concentrations in waters around Taiwan.
+[^2]: [Survey of Marine Microplastics in Taiwan - Academia Sinica Biodiversity Research Center](https://www.oca.gov.tw/) — Investigation report on microplastic concentrations in the waters surrounding Taiwan.
 
-[^3]: [Marine Conservation Act passes third reading - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation that the Marine Conservation Act passed its third reading on July 12, 2024.
+[^3]: [Marine Conservation Act Passes Third Reading - Green Peace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation that the Marine Conservation Act passed its third reading on July 12, 2024.
 
-[^4]: [Ocean Conservation Administration, Ocean Affairs Council](https://www.oca.gov.tw/) — 2024 edition of the Taiwan Marine Conservation White Paper.
+[^4]: [Marine Conservation Agency, Ocean Affairs Council](https://www.oca.gov.tw/) — The 2024 edition of the "Taiwan Marine Conservation White Paper."
 
-[^5]: [Key policies of the Marine Conservation Act - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Executive Yuan policy explanation on the Marine Conservation Act.
+[^5]: [Key Policies of the Marine Conservation Act - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Policy explanations regarding the Executive Yuan's Marine Conservation Act.
 
-[^6]: [A year-long rapid marine debris screening survey reveals the truth about pollution along Taiwan's coasts - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Survey data on coastal garbage density in Taiwan.
+[^6]: [A Year-Long Rapid Survey of Marine Debris Reveals the Truth About Taiwan's Coastal Pollution - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Survey data on trash density along Taiwan's coasts.
 
-[^7]: [Ten things you need to know about marine debris - Indigo Waters Institute](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Indigo Waters Institute 2020 survey of seafloor garbage density.
+[^7]: [10 Essential Facts About Marine Debris - Cheng Yang Environmental Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Cheng Yang Environmental Consulting's 2020 seabed trash density survey.
 
-[^8]: [The Marine Conservation Act cannot be delayed any longer - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Legislative history of civil society advocacy for marine conservation law.
+[^8]: [The Marine Conservation Act Can No Longer Be Delayed - Green Peace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — The history of civil society groups promoting marine conservation legislation.
 
-[^9]: [Understanding marine debris - Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analysis of marine debris types and sources.
+[^9]: [Understanding Marine Debris - Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analysis of types and sources of marine debris.
 
-[^10]: [The Sea, What "Plastic" Does It Have: A Comprehensive Checkup of Taiwan's Coastal Garbage - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Survey of types and distribution of coastal garbage in Taiwan.
+[^10]: ["What's in the Sea? A Comprehensive Inspection of Taiwan's Coastal Trash" - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Survey of types and distribution of trash on Taiwan's coasts.
 
-[^11]: [Sea turtle conservation results on Xiaoliuqiu - Taiwan Loo-Koo Yu Association](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Xiaoliuqiu sea turtle conservation model and outcomes.
+[^11]: [Sea Turtle Conservation Achievements in Xiaoliuqiu - Taiwan Coral Reef Association](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Sea turtle conservation models and effectiveness in Xiaoliuqiu.
 
-[^12]: [First-ever nationwide large-scale coral bleaching in 2024 - Our Island](https://ourisland.pts.org.tw/content/7392) — 2020 Taiwan coral bleaching survey report.
+[^12]: [The First Large-Scale Nationwide Coral Bleaching in History (2024) - Our Island](https://ourisland.pts.org.tw/content/7392) — 2020 Taiwan coral bleaching investigation report.

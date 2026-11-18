@@ -4,20 +4,19 @@ description: 'A legislator lay on the floor and read a thirty‑second statement
 date: 2026-04-12
 category: 'Society'
 tags:
-  - 'Social Movement'
-  - 'Democracy'
-  - 'Cross-Strait Relations'
-  - 'Civic Technology'
+  ['Social Movement', 'Democracy', 'Cross-Strait Relations', 'Civic Technology']
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/太陽花學運.md'
-sourceCommitSha: 'e6c58721'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f622a7c42dce34d6'
 sourceBodyHash: 'sha256:2558980b3f59cb6f'
-translatedAt: '2026-06-16T17:13:49Z'
+translatedAt: '2026-11-18T13:00:53.469082+00:00'
 ---
 
 > **30‑second overview:** On 17 March 2014, KMT legislator Zhang Ching‑chung lay on the floor and used a lapel microphone to announce, in thirty seconds, that the Cross‑Strait Service Trade Agreement (CSSTA) was “treated as already reviewed.” Overnight, more than two hundred students broke through the Legislative Yuan’s security, set up a 24‑hour live stream with an iPad, bypassing all television stations. After twenty‑four days the students withdrew; the CSSTA was not rejected—it was abandoned by history. Twelve years later, the numbers tell the whole story: Taiwan’s dependence on trade with China fell from 42 % to 31.5 %. They won a war they didn’t even know they were fighting.

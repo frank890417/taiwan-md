@@ -2,16 +2,18 @@
 title: 'The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After a Decade Apart'
 description: "On April 10, 2026, Cheng Li-wun met Xi Jinping in Beijing, becoming the first major political party leader of the Republic of China to meet the CCP General Secretary in ten years. The meeting lasted ten minutes. Meanwhile, 100 PLA vessels were in the Taiwan Strait. What exactly was this 'peace mission' touring?"
 date: 2026-04-11
-tags:
-  - 'cross-strait relations'
-  - 'KMT-CCP talks'
-  - 'Cheng Li-wun'
-  - 'Xi Jinping'
-  - 'geopolitics'
-  - 'politics'
-  - '2026'
-subcategory: '民主與政治'
 category: 'Society'
+tags:
+  [
+    'cross-strait relations',
+    'KMT-CCP talks',
+    'Cheng Li-wun',
+    'Xi Jinping',
+    'geopolitics',
+    'politics',
+    '2026',
+  ]
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 difficulty: 'advanced'
 readingTime: 14
@@ -23,11 +25,13 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-translatedAt: '2026-06-10T16:43:34Z'
+translatedAt: '2026-11-18T12:58:51.184068+00:00'
 ---
 
 # The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After a Decade Apart
