@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-13T01:54:08.755763+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-18T22:21:26.391331+00:00'
 ---
 
 # Vivienda nacional y justicia habitacional: ¿Para quién construyó el gobierno estas viviendas asequibles su escalera de riqueza?
@@ -272,47 +274,48 @@ El reglamento de vivienda asequible establece con claridad tres candados contra 
 
 Sin embargo, apenas apareció esta ruta, chocó con el gobierno central.
 
-## ¿Comprar o alquilar?: La disputa entre el gobierno central y local
+## ¿Comprar o alquilar?: el pulso a distancia entre el gobierno central y el local
 
-La postura del Ministerio del Interior es clara: la venta de estas viviendas es, en sí misma, problemática. El viceministro Tung Chien-hung cuestionó directamente este enfoque, afirmando que «cuando la vivienda asequible es de tipo venta, el número de ciudadanos que se pueden atender es relativamente menor» y que «el proceso de reventa libre puede generar disputas sobre los derechos de propiedad y problemas de gestión administrativa posteriores».[^24] Él aboga por retomar el espíritu de «solo alquiler, no venta» de la vivienda social establecido en la 《Ley de Vivienda》. En términos sencillos, lo que quiere decir el Ministerio del Interior es que una vez que una vivienda se vende, se pierde para siempre de la reserva pública; en lugar de buscar formas de gestionar «qué pasa después de la venta», sería mejor no vender desde el principio y mantenerlas permanentemente en manos del gobierno para alquilarlas indefinidamente.
+La postura del Ministerio del Interior es clara: vender, en sí mismo, es el problema. El viceministro Tung Chien-hung cuestionó directamente esta dirección; dijo: «Cuando la vivienda asequible es de venta, relativamente se atiende a menos gente», y «en el proceso de reventa libre surgen disputas sobre derechos de propiedad y problemas de gestión administrativa posteriores». [^24] Aboga por volver al espíritu de «solo alquiler, no venta» de la vivienda social en la Ley de Vivienda. En lenguaje llano, el Ministerio del Interior quiere decir: una vez vendida la casa, el stock público se pierde de una sola vez; en lugar de idear cómo gestionar «qué pasa después de vender», mejor no vender desde el principio y mantenerla siempre en manos del gobierno para alquilarla.
 
-Lo que ambas partes defienden son, en realidad, dos conceptos distintos de justicia habitacional.
+Ambas partes hablan, en realidad, de dos justicias habitacionales distintas.
 
-La respuesta de Taoyuan ha sido intentar romper ese marco de elección forzada. El director de la Oficina de Desarrollo Urbano de la ciudad de Taoyuan, Chiang Nan-chih, señaló: «El impulso de la justicia habitacional no debería caer en la lógica única de elegir entre una opción u otra».[^25] Por su parte, el alcalde Chang Shan-cheng se desplazó personalmente al Ejecutivo el 4 de junio de 2026 para solicitar que las viviendas asequibles de Taoyuan se incluyeran en las políticas centrales. Según informaron los medios, describió la vivienda asequible y la vivienda social como «las dos alas» de la política de vivienda: complementarias en lugar de competitivas. Algunos querrán comprar y otros solo podrán alquilar; ambas necesidades deben ser atendidas por separado sin obligar a nadie a elegir una sola vía.[^26]
+La respuesta de Taoyuan busca romper ese falso dilema. El director de la Oficina de Desarrollo Urbano de Taoyuan, Chiang Nan-chih, dijo: «El impulso de la justicia habitacional no debería caer en la lógica única de "2 elegir 1"». [^25] El alcalde Chang Shan-cheng viajó personalmente al Yuan Ejecutivo el 4 de junio de 2026 para lograr que la vivienda asequible de Taoyuan se incorpore a la política central. Según informes de prensa, describió la vivienda asequible y la vivienda social como las «dos alas» de la política habitacional, complementarias y no competitivas: hay quien quiere comprar y quien solo puede alquilar, ambas necesidades deben ser atendidas sin forzar una elección única. [^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Programa oficial de 《天下雜誌》: Por qué la promesa del gobierno de Lai de construir 130.000 unidades de vivienda social se ha reducido drásticamente, analizando desde un ángulo la accidentada situación de la justicia habitacional en Taiwán._
+_Programa oficial de CommonWealth Magazine: por qué la promesa del gobierno Lai de 130.000 hogares de vivienda social de construcción directa se redujo drásticamente, una mirada lateral a la difícil realidad de la justicia habitacional en Taiwán._
 
-En esta ocasión, el Consejo de Ejecución no dio una negativa rotunda. La actitud del presidente del Consejo, Cho Jung-tai, se suavizó notablemente; no rechazó el enfoque de Taoyuan, sino que simplemente expresó su deseo de que «las políticas central y local puedan alinearse».[^27] Una línea política que había sido abandonada durante once años —con la justificación oficial de que «la misión de alcanzar un 85 % de tasa de propiedad de vivienda se ha cumplido»— ha logrado, gracias a un gobierno local, abrir de nuevo las puertas del gobierno central.
+El Yuan Ejecutivo no lo rechazó de plano esta vez. La actitud del primer ministro Cho Jung-tai se ablandó notablemente: no vetó la iniciativa de Taoyuan, solo espera que «las políticas del centro y lo local puedan alinearse». [^27] Una línea de política que fue abolida once años atrás, con la justificación oficial de «tasa de propiedad de vivienda del 85 %, misión cumplida», ha vuelto a llamar a la puerta del gobierno central de la mano de un gobierno local.
 
-![Sección central de la vivienda social Karl-Marx-Hof en el distrito 19 de Viena, una fila de fachadas rojas y amarillas con estilo de torre conmemorativa, un complejo de viviendas municipales de un kilómetro de largo](/article-images/society/vienna-karl-marx-hof.webp)
-_El complejo Karl-Marx-Hof en Viena; terminado en 1933, sigue siendo propiedad del ayuntamiento y se alquila sin opción a venta. Al no venderse en cien años, el inventario permanece en manos públicas. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![El tramo central del Karl-Marx-Hof en el distrito 19 de Viena, una hilera de fachadas rojas y amarillas en forma de torres conmemorativas, un kilómetro de vivienda municipal](/article-images/society/vienna-karl-marx-hof.webp)
+_El Karl-Marx-Hof de Viena, terminado en 1933, sigue en manos del ayuntamiento y solo se alquila, no se vende. Cien años sin vender, y el stock permanece en manos públicas. Foto: C.Stadler/Bwag, CC BY-SA 4.0 vía [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Este choque entre el gobierno central y el local trata sobre una pregunta que debería haberse respondido hace cincuenta años, pero de la que siempre se ha evitado hablar: ¿debe el gobierno ayudar a la gente para que pueda «comprar» o ayudarla para que pueda «alquilar»?
+Este choque entre el centro y lo local plantea, en el fondo, una pregunta que debió responderse hace cincuenta años y que se ha eludido todo este tiempo: ¿debe el gobierno ayudar a la gente a «poder comprar» o a «poder alquilar»?
 
-## Cincuenta años después, Taiwán aprende a instalar la compuerta
+## Cincuenta años después, Taiwán por fin aprende a instalar esa compuerta
 
-Volvamos a aquella dirección de las viviendas Chenggong.
+Volvamos a esa dirección de la Vivienda Nacional Chenggong.
 
-En 1985, el antiguo jefe de barrio Shih Chung-sheng y su esposa agotaron sus ahorros para reunir 400.000 dólares taiwaneses de pago inicial y comprar una vivienda a 67.000 por ping. En ese momento, la vivienda pública nacional era una promesa completa de justicia habitacional: el gobierno construía viviendas baratas para ayudar a quienes no podían comprar a subir al tren. Su único descuido fue olvidar instalar una compuerta en la salida: nadie reguló cómo debía repartirse en el futuro la plusvalía producida por el subsidio público y la ubicación. Así, cuarenta años después, la misma dirección se acercó al millón por ping; aquel pago inicial de entonces ya no alcanza ni para un ping, y la escalera fue retirada discretamente bajo los pies de quienes subieron primero.
+En 1985, el anciano jefe de barrio Shi Zhong-sheng y su esposa agotaron sus ahorros para reunir NT$400,000 de enganche y compraron una vivienda a NT$67,000 por ping. En ese momento, la vivienda nacional representaba una promesa completa de justicia habitacional: el gobierno construía viviendas baratas para ayudar a subir a la escalera a quienes no podían comprarlas. Su única omisión fue olvidar instalar una compuerta en la salida: nadie estableció cómo debía repartirse la plusvalía que generaría esa vivienda en el futuro, esa diferencia de precio nutrida por subsidios públicos y por la ubicación. Así, cuarenta años después, esa misma dirección se acerca al millón por ping, y aquel enganche de entonces ni siquiera alcanza para comprar un solo ping; la escalera fue retirada silenciosamente bajo los pies de quienes subieron primero.
 
-Hong Kong llama a esa compuerta prima de terreno; Reino Unido aprendió a costo de 8 billones de dólares taiwaneses en patrimonio transferido que no se puede prescindir de ella; Singapur instaló umbrales y aun así filtra. Taiwán dio vueltas durante cincuenta años, e incluso en 2002 desmontó con sus propias manos el medio muro que tenía, hasta que en 2026 por fin un gobierno local escribió en una norma llamada “vivienda asequible” estas palabras: “la reventa no puede superar el precio original de compra”. Esa es justamente la compuerta que la vivienda pública nacional no instaló y que en Hong Kong se llama prima de terreno.
+Hong Kong llama a esa compuerta «pago de prima de suelo»; el Reino Unido aprendió a costa de 8 billones en equidad que no podía prescindir de ella; Singapur impuso umbrales pero sigue teniendo fugas. Taiwán dio vueltas durante cincuenta años enteros; en 2002 llegó a derribar con sus propias manos el único medio muro que tenía, y no fue hasta 2026 que un gobierno local por fin escribió en una ordenanza llamada «Vivienda Asequible» estas palabras: «la reventa no podrá superar el precio original de adquisición». Esa es precisamente la compuerta que la vivienda nacional no instaló en su día, la que los hongkoneses llaman pago de prima de suelo.
 
-Por eso, la verdadera pregunta de esta historia nunca fue “si el gobierno puede construir viviendas”. La vivienda pública nacional demostró que puede, y Taoyuan se prepara para hacerlo otra vez. La verdadera pregunta es: después de “ayudarte a comprar”, ¿a quién pertenece la plusvalía? ¿A la primera persona que subió al tren, o a la siguiente generación que sigue esperando en la puerta?
+Por tanto, el verdadero problema de esta historia nunca fue «si el gobierno puede permitirse construir viviendas». La vivienda nacional demostró que sí puede, y Taoyuan se prepara para volver a hacerlo. El verdadero problema es: una vez que «te ayudan a poder comprar», ¿a quién pertenece esa plusvalía: a la primera persona que subió a la escalera, o a la siguiente generación que aún hace cola en la puerta?
 
-Quizá quienes pulsaron el botón de votación el día de la tercera lectura en el Concejo de Taoyuan no advirtieron que al mismo tiempo colocaban el último ladrillo en aquel muro desmontado hace cincuenta años. Si ese ladrillo logra convertirse en una escalera que ya no se retira, o si vuelve a quedar trabado en una disputa de alineación entre el centro y los gobiernos locales, lo registrará por nosotros el próximo precio de una dirección en las viviendas Chenggong.
+Quienes pulsaron la tecla de votación en la tercera lectura del Concejo de Taoyuan quizás no fueron conscientes de que, al mismo tiempo, colocaban el último ladrillo en ese muro derribado cincuenta años atrás. Queda por ver si ese ladrillo logrará construir una escalera mecánica que ya no retire sus peldaños, o si volverá a atascarse en el forcejeo por la falta de sintonía entre el gobierno central y los locales; el próximo precio de puerta de la Vivienda Nacional Chenggong nos dará la respuesta.
 
 ---
 
 **Lecturas complementarias**:
 
-- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — La ruta de la vivienda social “solo en arriendo, no en venta” después de 2016: 200.000 unidades en ocho años, las dos vías de construcción directa y arrendamiento con administración delegada, y cómo el diseño de convivencia mixta evita estigmatizar la vivienda social (artículo hermano de este texto, continúa la historia tras el retiro de la vivienda pública nacional en 2015)
-- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — No poder comprar vivienda y no poder tener hijos son dos extremos de la misma fractura estructural; otra dimensión de la justicia intergeneracional
-- [Casas de chapa](/es/society/taiwan-tin-shed-houses) — Cuando no se puede comprar ni arrendar con estabilidad, cómo los taiwaneses se construyen un refugio con los medios más precarios
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Junto a quién se construyen viviendas sociales o instalaciones indeseadas: el cruce entre justicia habitacional y justicia espacial
+- [Precios de la vivienda, hipotecas y juventud en Taiwán](/housing/) — Página monográfica: ratio precio-ingreso, tres generaciones de condiciones del préstamo juvenil y línea temporal de ochenta años de política de vivienda, con simulador hipotecario
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — La ruta del «solo alquiler, no venta» desde 2016: 200,000 hogares en ocho años, doble vía de construcción directa y arrendamiento gestionado, diseño de convivencia para evitar el estigma de la vivienda social (artículo hermano, continúa la historia tras el cierre de la vivienda nacional en 2015)
+- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — No poder comprar y no poder tener hijos son los dos extremos de una misma fractura estructural, otro corte de la justicia intergeneracional
+- [Casas de chapa](/es/society/taiwan-tin-shed-houses) — Cuando no se puede comprar ni alquilar con seguridad, cómo los taiwaneses se construyen a pulso un refugio propio
+- [Justicia ambiental y controversias NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — ¿Junto a la casa de quién hay que construir vivienda social e instalaciones rechazadas? La frontera entre justicia habitacional y justicia espacial
 
 ## Datos abiertos
 

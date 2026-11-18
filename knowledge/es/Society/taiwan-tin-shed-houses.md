@@ -2,9 +2,7 @@
 title: 'Las casas de lámina de Taiwán: un horizonte sostenido por 716,000 construcciones ilegales'
 description: 'En agosto de 2024, un incendio en una tienda de maquinaria agrícola en Liujia, Tainan, atrapó a una familia de cinco personas en una ampliación de lámina en la tercera planta; todas fallecieron. Hasta julio de 2023, las construcciones ilegales en Taiwán sumaban 716,372 casos, con un aumento anual de 32,000 solo en Nueva Taipei. El gobierno promete demoliciones cada año, pero los casos aumentan en 10,000 anuales. Ese estrato de metal anaranjado y plateado es al mismo tiempo el paisaje urbano más criticado de Taiwán y el telón de fondo de sus mitos sobre seguridad ciudadana.'
 date: 2026-05-02
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '居住環境'
 tags:
   [
     'construcciones ilegales',
@@ -13,15 +11,19 @@ tags:
     'planificación urbana',
     'justicia habitacional',
   ]
-readingTime: 9
+subcategory: '居住環境'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2513952bc4eab478'
-sourceBodyHash: 'sha256:96d147de5fc403fe'
-translatedAt: '2026-05-02T13:31:21+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:997d7b4d1eaa5fa3'
+sourceBodyHash: 'sha256:5ca208b092a24109'
+translatedAt: '2026-11-18T21:53:37.893055+00:00'
 ---
 
 > **Panorama en 30 segundos:** En todo Taiwán hay 716,000 construcciones ilegales; las seis ciudades principales concentran el 80 %, y solo Nueva Taipei acumula 186,000 casos[^1]. En 1995, Taipei trazó una línea: las "construcciones ilegales preexistentes" levantadas antes del 31 de diciembre de 1994 (año 83 de la República) se mantendrían sin demolición inmediata, mientras que las "nuevas construcciones ilegales" serían derribadas en el acto[^4]. Esa línea convirtió lo ilegal en tolerado, lo tolerado en paisaje urbano y el paisaje urbano en una trampa mortal durante los incendios. Ese mismo estrato de lámina también sostiene la densidad de tiendas de conveniencia 24 horas del modelo mixto residencial-comercial, y alimenta el mito de la seguridad taiwanesa: "a medianoche siempre hay una luz encendida"[^9].
@@ -103,21 +105,22 @@ El Ministerio del Interior no modificó en 2024 los criterios para clasificar la
 
 El subtítulo de la portada de _Business Weekly_ rezaba: "Con el método correcto, no hay construcción ilegal que no pueda derribarse."[^13] Pero el "método correcto" solo se aplica actualmente en las escenas calientes donde el gobierno está dispuesto a pagar el coste de la reurbanización. Para la mayoría de las casas de lámina dispersas por las seis ciudades principales, la línea de 1994 sigue en su sitio.
 
-## Ese estrato de metal seguirá aquí
+## Esta capa de metal seguirá existiendo
 
-Si en alguna tarde de 2026 vuelas desde la cordillera central hacia la costa, al mirar por la ventanilla durante el aterrizaje verás que los horizontes de Taoyuan, Nueva Taipei, Taichung y Kaohsiung son un mar de paneles ondulados anaranjados (pintura antioxidante) y plateados (acero galvanizado). Son 716,000 decisiones individuales, cada una razonable por sí misma, que en conjunto resultan inmanejables.
+Si volaras sobre la cordillera Central una tarde de 2026 y miraras hacia la pista de aterrizaje, el horizonte de Taoyuan, Nueva Taipei, Taichung y Kaohsiung sería un mar de láminas onduladas en tonos naranja (pintura anticorrosiva) y plata (acero galvanizado). Son 716.000 decisiones individuales tomadas por distintos hogares; cada una de ellas razonable por separado, pero imposibles de gestionar cuando se suman.
 
-Chen Zhengyi escribió: "Los enormes letreros comerciales que sobresalen reflejan una mentalidad de ego y competencia; las casas de lámina representan la supremacía de lo rápido y barato. Pero en el fondo, ambos son frágiles."[^11] Ziyu's Library of Bookworm Rants escribió: "Muchos defectos y muchas virtudes son, en realidad, el resultado de una misma cara de la moneda."[^9]
+Chen Cheng-yi escribió una frase: «Los grandes letreros de las tiendas resaltan una mentalidad de egocentrismo y comparación, mientras que las casas de lámina muestran una eficiencia basada en lo rápido y barato, pero en realidad ambos son frágiles».[^11] Por su parte, Ziyu en su obra 《Dusuānzhāi》 escribió otra: «Muchos defectos y virtudes son, en esencia, dos caras de la misma moneda».[^9]
 
-Ambos tienen razón. La ampliación de lámina donde murió la familia de cinco en Liujia, Tainan, era frágil. La tienda de conveniencia abierta las 24 horas en una callejuela de Dongning Road, con su luz encendida de noche, es segura. Es el mismo metal, en la misma calle, regido por la misma línea de 1994 que decide quién será demolido y quién podrá quedarse.
+Ambos tienen razón. La ampliación con techo de lámina de aquella familia de cinco personas en Liujia, Tainan, es frágil; el _convenience store_ que permanece iluminado las 24 horas en la entrada del callejón de la calle Dongning es seguro. Es el mismo metal, cubriendo la misma calle, pero determinado por esa misma línea de 1994 sobre quién debe ser demolido y quién puede quedarse.
 
-¿En qué azotea de construcción ilegal preexistente estallará el próximo incendio? Nadie puede saberlo con certeza. Mientras esa línea siga en pie, el próximo incendio llegará.
+¿En qué tejado de una construcción ilegal existente estallará el próximo incendio? Nadie puede asegurarlo. Mientras esa línea siga vigente, el próximo incendio ocurrirá.
 
-**Lecturas complementarias**:
+**Lecturas adicionales**:
 
-- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — Las dificultades de la promoción de vivienda social en Taiwán y los problemas del mercado de alquiler: la estructura habitacional más amplia a la que pertenece el problema de las casas de lámina.
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — La extensión de los problemas de uso del suelo y contaminación ambiental detrás de la demolición de las fábricas de lámina de Wenzizun.
-- [Justicia territorial de los pueblos indígenas de Taiwán y territorios tradicionales](/es/society/indigenous-land-justice-and-traditional-territories) — Una perspectiva distinta para comprender la complejidad del uso del suelo entre lo "legal" y lo "ilegal" en Taiwán.
+- [Precios de la vivienda, hipotecas y el programa Qing'an en Taiwán](/housing/) — Página temática: cifras oficiales sobre la tasa de carga hipotecaria por ciudad y viviendas infrautilizadas; cómo coexisten las casas inalcanzables con las vacías.
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — Los dilemas en la promoción de la vivienda social en Taiwán y los problemas del mercado de alquiler; la estructura habitacional más amplia a la que pertenece el problema de las casas de lámina.
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Extensión de los temas de uso de suelo y contaminación ambiental tras el desalojo de las fábricas de lámina en Wenzizun.
+- [Justicia de tierras y territorios tradicionales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — Comprender la complejidad del uso de la tierra entre lo «legal e ilegal» en Taiwán desde diferentes perspectivas.
 
 ## Referencias
 

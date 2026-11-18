@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T17:22:06.809312+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-18T22:00:27.947556+00:00'
 ---
 
 > **Resumen en 30 segundos**: La Ley de Asistencia Médica no regula al médico como individuo (eso lo hace la Ley de Médicos de 1943), ni los reembolsos del seguro de salud (eso es la Ley del Seguro de Salud de 1994); regula cómo existen las **instituciones, clínicas y personas jurídicas médicas**, cómo publican anuncios y cómo gestionan disputas. Publicada íntegramente en 1986 con 91 artículos, sufrió una gran reforma en 2004 para pasar a 123 artículos e introducir el sistema de «personas jurídicas médicas»; en 2017 se reformó el Artículo 82 para cambiar la responsabilidad penal médica a un «doble requisito»; y en mayo de 2026, se incluirá la relación enfermero-paciente en la ley. Sin embargo, tras cuarenta años, la realidad que enfrenta el Artículo 1 —que declara explícitamente «promover el desarrollo saludable de la industria médica»— es que el 83 % de los hospitales y el 74 % de las camas pertenecen al sector privado; la tasa de abandono de médicos de urgencias es dos o tres veces superior a la de Estados Unidos, y tras una ola de renuncias de enfermeros que llevó al sistema al borde del colapso, el Legislativo finalmente ha incluido la relación enfermero-paciente en la ley.
@@ -342,30 +344,31 @@ Cifras aún más extremas: los municipios de Shitan en Miaoli, Dapu en Chiayi y 
 
 Sin embargo, la parte que no logra cubrirse se manifiesta en la tasa de mortalidad infantil. Una investigación realizada por _The Reporter_ en 2018 reveló que Taitung, Pingtung y el sur de Hualien son las tres zonas con mayor mortalidad infantil en Taiwán[^60], lo que demuestra que la insuficiencia de recursos médicos impacta directamente en la población más vulnerable.
 
-## Una tensión que persiste tras cuarenta años
+## Tensiones sin resolver tras cuarenta años
 
-La Ley de Asistencia Médica no es una ley que funcione de forma aislada. Junto con otras cinco leyes, constituye la estructura de la gobernanza sanitaria en Taiwán:
+La Ley de Medicina no es una ley que funcione de forma aislada. Junto con otras cinco leyes conforma el esqueleto de la gobernanza médica de Taiwán:
 
-- **Ley de Médicos** (1943): regula al médico como individuo.
-- **Ley de Asistencia Médica** (1986): regula las instituciones médicas.
-- **Ley del Seguro Nacional de Salud** (promulgada en 1994, implementada en 1995): regula los pagos del seguro de salud.
-- **Ley de Derechos de Autonomía del Paciente** (aprobada en 2015, implementada en 2019, la primera en Asia) [^61]: refuerza las regulaciones sobre el consentimiento del paciente contenidas en los artículos 63 y 64 de la Ley de Asistencia Médica, estableciendo explícitamente que el consentimiento del paciente tiene prioridad.
-- **Ley de Prevención de Accidentes Médicos y Manejo de Controversias** (aprobada en 2022, reglamentos implementados en 2024) [^17]: completa el mecanismo de mediación en disputas médicas; las declaraciones durante los procesos de comunicación, cuidado y mediación de controversias, así como la notificación voluntaria por parte de las instituciones médicas y el análisis de causa raíz para la mejora, **no podrán utilizarse como evidencia en litigios ni como base para sentencias**.
-- **Ley de Medicina Regenerativa + Reglamento de Preparados de Medicina Regenerativa** (aprobados en 2024): leyes especiales que se independizaron de la Ley de Asistencia Médica para regular la terapia celular y la terapia génica [^62].
+- **Ley de Médicos** (1943) regula a los médicos individuales.
+- **Ley de Medicina** (1986) regula las instituciones médicas.
+- **Ley de Seguro Nacional de Salud** (promulgada en 1994, vigente desde 1995) regula los pagos del seguro de salud.
+- **Ley de Derechos Autónomos del Paciente** (aprobada en 2015, vigente desde 2019, la primera en Asia)[^61] refuerza los artículos 63 y 64 de la Ley de Medicina sobre el consentimiento del paciente, estableciendo por escrito la prioridad del consentimiento del paciente.
+- **Ley de Prevención de Accidentes Médicos y Manejo de Controversias** (aprobada en 2022, subleyes vigentes desde 2024)[^17] añade el mecanismo de mediación de disputas médicas —comunicación y cuidado, declaraciones durante el proceso de mediación, así como los informes autónomos de las instituciones médicas y el contenido de análisis de causa raíz y mejora—, **ninguno de los cuales puede ser utilizado como prueba en litigios ni como base para sentencias**.
+- **Ley de Medicina Regenerativa + Reglamento de Preparados de Medicina Regenerativa** (aprobadas en 2024), leyes especiales independizadas de la Ley de Medicina, que regulan la terapia celular y la terapia génica[^62].
 
-Estas seis leyes conforman el panorama completo de la gobernanza sanitaria en Taiwán, siendo la Ley de Asistencia Médica el pilar del «aspecto institucional». Sin embargo, cada vez que se añade una nueva ley es debido a las lagunas que la propia Ley de Asistencia Médica no puede cubrir: la Ley de Médicos no regula a las instituciones, la Ley de Asistencia Médica no regula los pagos del seguro de salud, la Ley de Asistencia Médica no regula las decisiones médicas anticipadas de los individuos, la Ley de Asistencia Médica no regula las células regenerativas y la Ley de Asistencia Médica no regula la mediación de disputas. Cada laguna es la puerta de entrada para una nueva ley.
+Las seis leyes componen el panorama completo de la gobernanza médica de Taiwán, y la Ley de Medicina es el pilar del «ámbito institucional». Pero cada nueva ley surge porque la propia Ley de Medicina tiene huecos que no cubre: la Ley de Médicos no regula instituciones, la Ley de Medicina no regula los pagos del seguro de salud, la Ley de Medicina no regula las decisiones médicas anticipadas personales, la Ley de Medicina no regula las células regenerativas, la Ley de Medicina no regula la mediación de disputas. Cada hueco es la entrada para una nueva ley.
 
-> **✦** La Ley de Asistencia Médica establece «promover el desarrollo saludable de la industria médica». Tras cuarenta años, los hospitales han aumentado, la tecnología se ha fortalecido y la cobertura es mayor; pero también lo es la oleada de renuncias de enfermeros, la tasa de abandono de médicos de urgencias es más del doble que la internacional, los hospitales privados se han expandido hasta el 83%, los hospitales públicos sobreviven gracias a las subvenciones, el 79% de las disputas médicas terminan en procesos penales y, en las zonas rurales, cada médico sigue atendiendo a diez mil personas. Lo que dice la ley es correcto, pero el agotamiento en el terreno también lo es. El problema restante es: en los próximos cuarenta años, ¿cómo logrará la Ley de Asistencia Médica acortar la distancia entre estos dos mundos?
+> **✦** La Ley de Medicina establece «promover el sano desarrollo de la actividad médica». Tras cuarenta años, hay más hospitales, la tecnología es más fuerte, la cobertura es mayor, pero las enfermeras renuncian en oleadas, la tasa de abandono de los médicos de urgencias supera el doble de la internacional, los hospitales privados se han expandido al 83 %, los hospitales públicos sobreviven gracias a subsidios, la proporción de judicialización penal de disputas médicas es del 79 %, y en zonas remotas cada médico sigue atendiendo a diez mil personas. Las palabras de la ley no están equivocadas, el agotamiento en el terreno tampoco. La pregunta que queda es: en los próximos cuarenta años, ¿cómo acortará la Ley de Medicina la distancia entre estas dos realidades.
 
-En la madrugada del 8 de mayo de 2026, el Legislativo aprobó la proporción enfermero-paciente en tres turnos. Las palabras de Tsai Kuang-chao, las de Lo Hsiang-yun y las de Hsueh Cheng-chun aún resuenan en los pasillos de cada sala de urgencias de Taiwán. Nadie puede escribir en la ley cuándo será la próxima reforma ni qué artículo se modificará. Sin embargo, el personal de enfermería, los médicos de urgencias y los residentes de las cinco especialidades principales siguen expresando su postura con un «no voy a ir» o «renuncio».
+En la madrugada del 8 de mayo de 2026, el Yuan Legislativo aprobó la proporción enfermero-paciente en tres turnos. Las palabras de Tsai Kuang-chao, las de Lo Hsiang-yun, las de Hsueh Cheng-chun —siguen resonando en los pasillos de cada sala de urgencias de Taiwán. Cuándo será la próxima enmienda, qué artículo se modificará, nadie puede escribirlo en la ley. Pero las enfermeras, los médicos de urgencias y los residentes de las cinco grandes especialidades siguen expresando su postura con «no venir» y «renunciar».
 
-Las palabras escritas en la ley serán leídas por los ciudadanos. Las palabras que no se escriben quedan registradas por las paredes de los hospitales y por los pacientes que llenan sus pasillos.
+Las palabras escritas en la ley son leídas por los lectores. Las palabras no escritas, las registran los pacientes que llenan las paredes y pasillos de los hospitales.
 
-**Lecturas adicionales**:
+**Lecturas complementarias**:
 
-- [La medicina en Taiwán y el Seguro Nacional de Salud](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La cobertura y la estructura de pagos del sistema de seguro de salud, mundialmente reconocidas, son el complemento del «aspecto de beneficios» tras la implementación de la Ley de Asistencia Médica.
-- [Evolución de las leyes de medicina regenerativa en Taiwán: confesiones de profesionales](/es/society/taiwan-regenerative-medicine-laws) — Las dos leyes de medicina regenerativa aprobadas en 2024 son leyes especiales que se independizaron de la Ley de Asistencia Médica para cubrir la regulación de la terapia celular.
-- [El sistema de medicina de catástrofes en Taiwán](/es/technology/taiwan-disaster-medicine-system) — El funcionamiento real del Artículo 1 de la Ley de Asistencia Médica, «distribución razonable de los recursos médicos», en escenarios de grandes desastres.
+- [Taiwán y el seguro de salud nacional](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La cobertura y la estructura de pagos del sistema de seguro de salud, de renombre mundial, son el socio del «lado del pago» tras la implementación de la Ley de Medicina
+- [Confesiones de profesionales sobre la evolución de las dos leyes de medicina regenerativa de Taiwán](/es/society/taiwan-regenerative-medicine-laws) — Las dos leyes de medicina regenerativa aprobadas en 2024, independizadas de la Ley de Medicina como leyes especiales, completan la regulación de la terapia celular
+- [Sistema de medicina de desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — La operación real del artículo 1 de la Ley de Medicina «distribución razonable de recursos médicos» en escenarios de grandes desastres
+- [Reportaje especial: Medicina y cuidados a largo plazo](/health/) — Gráficos de ingresos y gastos del seguro de salud, retención en urgencias, personal de enfermería y número de médicos por condado y ciudad, junto con las posiciones de cada parte sobre la inclusión de la proporción enfermero-paciente en la ley
 
 ## Fuentes de las imágenes
 

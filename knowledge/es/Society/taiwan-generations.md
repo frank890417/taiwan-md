@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T08:52:52+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-18T22:33:17.809899+00:00'
 ---
 
 > **Resumen en 30 segundos:** En Taiwán, la gente se etiqueta según su "grado escolar", usando el último dígito del año de nacimiento en la era de la República de China: los de 5.º grado nacieron entre los años 50 y 59 (1961–1970), extendiéndose hasta los de 9.º grado (2001–2010). El término "Generación Fresa" (草莓族, _cǎoméi zú_), que se ha usado para insultar durante treinta años, cuando apareció por primera vez en 1993, se refería a los estudiantes de 5.º grado que entonces tenían veinte años y hoy tienen cincuenta[^1]; desde entonces, la etiqueta ha descendido hacia los grados 7.º, 8.º y 9.º. Las víctimas del insulto han cambiado varias veces, pero la etiqueta permanece intacta. Lo que realmente se ha desplazado entre estas cinco generaciones es la "escalera mecánica" de la meritocracia: esta comenzó a ralentizarse alrededor de 2002, cuando los salarios reales se desvincularon de la productividad[^2]; al mismo tiempo, la entrada a la escalera se volvió más costosa debido al precio de la vivienda (la relación entre el precio de la vivienda y los ingresos en Taipéi pasó de 6.4 veces en 2004 a 15.41 veces en 2025[^3]); finalmente, la escalera se dividió en dos: la que depende puramente del salario casi se ha detenido, mientras que la que cuenta con el capital de los padres sigue en movimiento. Este artículo busca desglosar esta etiqueta.
@@ -172,23 +174,24 @@ Al llegar al grado 9.º, surge una tensión interesante. Esta generación ha cre
 > 📝 **Nota del editor**
 > La combinación aparentemente contradictoria de "proximidad cultural a China y rechazo político a China" es precisamente donde Taiwan.md evita sacar conclusiones por el lector. Que un estudiante de 9.º grado disfrute de vídeos cortos chinos pero apoye el _statu quo_ de Taiwán puede no ser una contradicción para él, ya que el consumo cultural y la identidad nacional son cosas distintas. Lo que podemos hacer es exponer las tensiones observadas por la Universidad Nacional de Chengchi, Pew, Shen Wei-chieh y el Taiwan Democracy Lab, permitiendo al lector ver la complejidad de esta generación sin imponer etiquetas de "pro-China" o "anti-China". Desetiquetar a la próxima generación es precisamente lo que este artículo intenta desmantelar.
 
-## La fresa no se ha ablandado, es el suelo el que se ha inclinado
+## Las fresas no se ablandaron, el terreno se inclinó
 
-Si superponemos los cinco certificados de nacimiento, veremos algo muy silencioso. En 1963, hubo 427,212 compañeros de clase en el grupo de 5.º grado; en 2010, para el grupo de 9.º grado, solo quedaron 166,886, menos del 40% del pico de 5.º grado; hubo una disminución de más de 200,000 personas[^24].
+Al apilar cinco certificados de nacimiento, se ve algo muy tranquilo. La cohorte de quinto grado de 1963 tenía 427.212 compañeros que llegaron juntos a este mundo; la de noveno grado de 2010 solo quedó con 166.886, menos del 40 % del pico de quinto grado, faltando más de doscientas mil personas[^24].
 
-Hay menos gente, el pastel no ha crecido, pero los edificios son cada vez más altos. En este terreno, las generaciones posteriores, con el mismo esfuerzo, no pueden alcanzar la posición de las anteriores. No es porque la fresa se haya ablandado, sino porque el suelo bajo sus pies se ha inclinado, y de forma desigual: algunos tienen una pendiente suave pavimentada por sus padres, mientras que otros solo tienen un muro casi vertical.
+Hay menos personas, el pastel no creció, pero los edificios son cada vez más altos. En este terreno, las generaciones posteriores con el mismo esfuerzo no llegan a donde llegaron las anteriores. No es porque las fresas se ablandaran, es porque el suelo bajo los pies se inclinó, y de forma desigual: algunos tienen una pendiente suave pavimentada por sus padres, otros solo una pared casi vertical.
 
-El "grado escolar" es, al fin y al cabo, solo un punto de entrada. Es útil porque nos ayuda a ver cómo esa escalera mecánica se vuelve más empinada cada año; pero no debe ser el destino, porque lo que realmente determina si alguien puede subir es si su escalera conecta con un salario o con una herencia. Y esa grieta se dibuja dentro de cada generación. El Pew Research Center incluso anunció en 2023 que reduciría el uso de etiquetas generacionales en sus informes, porque muchas diferencias atribuidas a la "generación" provienen en realidad de las características demográficas mismas[^25]. Incluso las instituciones que popularizaron la clasificación generacional están empezando a cuestionar esta herramienta.
+La coordenada «curso» al final no es más que una entrada. Es útil porque nos deja ver cómo la escalera mecánica se vuelve más empinada cada año; no debería ser el destino, porque lo que realmente decide si uno sube o no es si la escalera bajo sus pies está conectada a un salario o a una herencia, y esa grieta recorre el interior de cada curso. El Pew Research Center anunció en 2023 que usará menos etiquetas generacionales en sus informes, porque muchas diferencias atribuidas a la «generación» en realidad provienen de las características demográficas en sí[^25]. Hasta la institución que popularizó la clasificación generacional empieza a decir basta a esta herramienta.
 
-✦ Así que, antes de decir "los jóvenes de ahora son unos fresas", piensa en esto: es muy probable que esa palabra se usara para insultarte a ti cuando tenías veinte años. Lo que realmente ha cambiado en estos treinta años es esa escalera mecánica que pisaste y que aún se movía; luego se ralentizó, se volvió empinada y finalmente se dividió en dos. La razón por la que una generación entera le dio "me gusta" a la frase de Wretch sobre que "nadie se ha dado cuenta de mi sitio" es porque cada generación tiene su propio espacio de juventud al que otros no pueden entrar, y el alquiler de ese espacio es cada vez más caro.
+✦ Así que, la próxima vez que vayas a decir «los jóvenes de ahora son fresas», piensa una cosa: ese insulto probablemente iba dirigido a ti cuando tenías veintitantos. Lo que realmente cambió en estos treinta años es la escalera mecánica en la que subiste entonces, que aún se movía, luego se volvió más lenta, más empinada, y al final se partió en dos. Que la frase de Wretch «nadie me descubre ya» haya conseguido los «me gusta» de toda una generación se debe a que cada generación tiene un trozo de juventud que solo le pertenece a ella, donde nadie más puede entrar, y el alquiler de esa juventud es cada vez más caro de una generación a la siguiente.
 
 **Lecturas recomendadas**:
 
-- [La generación 'slash' en Taiwán](/es/society/taiwan-slash-generation-multi-job-economy) — La matemática de supervivencia de los grados 7.º y 8.º que dividen un salario en tres trabajos bajo una estructura de bajos sueldos.
-- [El extravío profesional de la juventud taiwanesa](/es/society/taiwan-youth-career-confusion) — Tras dieciséis años de estudio, la pregunta más común al graduarse es "no sé qué quiero hacer".
-- [La crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — De 420,000 a 160,000 nacimientos: cómo el pastel se hace cada año más pequeño.
-- [El espectro de la unificación e independencia en Taiwán](/es/society/taiwan-unification-independence-spectrum) — El panorama completo de la identidad: desde "¿quién soy?" hasta "¿hacia dónde vamos?".
-- [Wretch (無名小站)](/es/culture/wretch) — El servidor digital de la juventud de 7.º grado; cerró en 2013 y reapareció en Threads en 2025.
+- [Autocomprobación de la asequibilidad de la vivienda](/housing/affordability-check/) — Ingresa tus ingresos y el precio de la vivienda, calcula tu ratio de carga hipotecaria, compáralo con los cuatro niveles del Ministerio del Interior y las cifras oficiales de cada condado y ciudad
+- [La generación slash de Taiwán](/es/society/taiwan-slash-generation-multi-job-economy) — Los de séptimo y octavo grado en una estructura de bajos salarios, la matemática de supervivencia de dividir un salario en tres trabajos
+- [La deriva vital de la juventud taiwanesa](/es/society/taiwan-youth-career-confusion) — Dieciséis años estudiando, y el día de la graduación la pregunta más frecuente es «no sé qué quiero hacer»
+- [La crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — Los nacimientos se desplomaron de 420.000 a 160.000, cómo el pastel se hace más pequeño cada año
+- [El espectro unificación-independencia de Taiwán](/es/society/taiwan-unification-independence-spectrum) — El panorama completo de la divisoria de identidades, desde «¿quién soy?» hasta «¿hacia dónde vamos?»
+- [Wretch](/es/culture/wretch) — El servidor digital de la juventud de séptimo grado, cerró en 2013 y reapareció en Threads en 2025
 
 ## Fuentes de las imágenes
 
