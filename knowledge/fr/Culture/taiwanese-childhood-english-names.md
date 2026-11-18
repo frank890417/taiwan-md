@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T16:16:22.366504+00:00'
+translatedAt: '2026-11-18T19:20:00.598421+00:00'
 ---
 
 # Les noms anglais des Taïwanais dans l'enfance : Mary, Kevin et le pouvoir de nomination des professeurs de cours privés
@@ -277,12 +279,13 @@ Entre Yotaka et Olivia, 86 ans se sont écoulés.
 
 Le geste d'assigner un nom n'a jamais été aboli : il a seulement changé de personne qui distribue les noms.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Emprunts linguistiques et contacts de langues à Taïwan](/fr/culture/loanwords-and-language-contact-in-taiwan) — À partir des emprunts entre japonais, anglais et taïwanais, comprendre comment s'empilent les couches plurilingues de Taïwan
-- [Le mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement) — Une autre ligne de récupération du droit de nommer, de la revitalisation des langues autochtones à la réforme de la Loi sur les noms en 2024
-- [Chiung Wi-vun](/fr/people/chiung-wi-vun) — Un contrepoint au prolongement de la logique de « désinisation » dans le mouvement de l'écriture taïwanaise, autre versant de la souveraineté du nom et de l'écriture
-- [Sensibilité taïwanaise](/fr/culture/taiwanese-sensibility) — Un angle curatorial sur les mentalités culturelles pour comprendre une autre couche de la question : « pourquoi les Taïwanais ont-ils toujours l'impression d'avoir besoin d'un nom étranger ? »
+- [Les noms des Taïwanais (dossier)](/names/) — Noms de famille, générations, romanisation et noms en langues autochtones visualisés, avec un outil de romanisation des noms.
+- [Les emprunts linguistiques et le contact des langues à Taïwan](/fr/culture/loanwords-and-language-contact-in-taiwan) — À travers les emprunts entre le japonais, l'anglais et le taïwanais, découvrez comment s'empilent les strates multilingues de Taïwan.
+- [Le mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement) — Une autre facette de la récupération du droit au nom : de la revitalisation des langues autochtones jusqu'à la révision de 2024 de la loi sur les noms.
+- [Chiang Wei-wen](/fr/people/chiung-wi-vun) — Prolongement de la logique du « dé-sinisation » du mouvement pour la langue taïwanaise, l'autre face de la souveraineté nominale et scripturale.
+- [La sensibilité taïwanaise](/fr/culture/taiwanese-sensibility) — Une perspective curatoriale sur la mentalité culturelle, pour comprendre une autre dimension du « pourquoi les Taïwanais ont toujours l'impression d'avoir besoin d'un nom étranger ».
 
 ## Sources des images
 

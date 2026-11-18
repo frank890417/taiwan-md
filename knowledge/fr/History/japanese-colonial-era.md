@@ -1,13 +1,15 @@
 ---
-title: 'Période coloniale japonaise'
-description: "De 1895 à 1945, le Japon a gouverné Taïwan pendant 50 ans, apportant une modernisation globale et une gestion institutionnalisée, tout en menant une politique d'assimilation qui a profondément influencé le développement social de Taïwan."
+title: "L'époque de la domination japonaise"
+description: "Les 50 années de contrôle japonais sur Taïwan (1895-1945) ont apporté une modernisation globale et une gestion institutionnalisée, tout en imposant des politiques d'assimilation qui ont profondément marqué le développement social."
 date: 2026-03-17
 category: 'History'
 tags:
-  - 'Histoire'
-  - 'Domination japonaise'
-  - 'Modernisation'
-  - "Mouvement d'assimilation impériale"
+  [
+    'Histoire',
+    'Domination japonaise',
+    'Modernisation',
+    'Mouvement de japonisation',
+  ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: true
@@ -15,80 +17,77 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: History/日治時期.md
-sourceCommitSha: 'b1a5fea0'
+translatedFrom: 'History/日治時期.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
-translatedAt: 2026-05-22T05:08:47+08:00
+translatedAt: '2026-11-19T01:12:14+08:00'
 ---
 
-# Période coloniale japonaise
+# L'époque de la domination japonaise
 
-> **30 secondes d’aperçu :** Après le traité de Shimonoseki en 1895, le Japon a gouverné Taïwan pendant 50 ans, mettant en œuvre, via le système du gouvernement général, des réformes de modernisation couvrant les infrastructures, le système éducatif, le développement industriel, etc. En même temps, il a promu le mouvement d'assimilation impériale pour intégrer les Taïwanais. Durant cette période, de nombreuses résistances antijaponaises ont eu lieu, jusqu’à la capitulation du Japon en 1945 à la fin de la Seconde Guerre mondiale.
+> **Aperçu en 30 secondes :** Après le traité de Shimonoseki en 1895, le Japon a dirigé Taïwan pendant 50 ans. À travers le système du Gouvernement général, il a mis en œuvre des réformes de modernisation globales incluant les infrastructures, l'éducation et le développement industriel. Parallèlement, le mouvement de japonisation (_kōminka_) a tenté d'assimiler les Taïwanais, tandis que ces derniers ont mené de multiples mouvements de résistance jusqu'à la capitulation du Japon à la fin de la Seconde Guerre mondiale en 1945.
 
-De 1895 à 1945, le Japon a régné sur Taïwan pendant cinquante ans. Cette époque a apporté une modernisation rapide, mais a également été marquée par la répression coloniale et des politiques d’assimilation culturelle. Les deux aspects forment aujourd’hui le socle important de la culture et de la société taïwanaises.[^1]
+De 1895 à 1945, durant les cinquante années de présence japonaise à Taïwan, cette période a apporté une modernisation rapide tout en étant marquée par la répression coloniale et des politiques d'assimilation culturelle. Ces deux aspects entrelacés constituent le socle socioculturel fondamental de la société taïwanaise actuelle. [^1]
 
-## Système de domination coloniale
+## Système de gouvernance coloniale
 
-Le gouvernement général de Taïwan, installé à Taipei, était la plus haute autorité coloniale japonaise sur l’île. Le gouverneur, nommé par l’empereur, détenait les pouvoirs exécutif, législatif et militaire. La « Loi 63 » autorisait le gouverneur à édicter des décrets ayant force de loi, et le système de police intégrait chaque foyer dans une structure de surveillance mutuelle appelée « Bōka », assurant ainsi le contrôle colonial à la base.
+Le Gouvernement général de Taïwan, situé à Taipei, était l'organe suprême de direction du Japon sur l'île. Le gouverneur, nommé par l'Empereur, détenait les pouvoirs exécutif, législatif et militaire. La « loi du 6 juin » autorisait le gouverneur à promulguer des ordonnances ayant force de loi. Sous le régime policier, l'organisation _baojia_ (système de responsabilité collective) intégrait chaque foyer dans un réseau de surveillance mutuelle, garantissant que le contrôle colonial pénètre jusqu'à la base de la société.
 
-Lorsque le Japon a pris possession de Taïwan en 1895, il a dû faire face à la résistance armée de la République de Formose. Des soulèvements locaux ont continué à éclater jusqu’à l’incident de Xilai-an en 1915, après quoi la résistance armée a pratiquement cessé et la domination coloniale est entrée dans une phase relativement stable de modernisation.
+Lors de la prise de possession de Taïwan en 1895, le Japon fut confronté à la résistance armée de la République de Taïwan (_Taiwan Democratic State_). Des insurrections locales ont continué d'éclater par la suite, jusqu'à ce que la résistance armée cesse globalement après l'« incident de Xilai'an » en 1915, marquant l'entrée du régime colonial dans une période de modernisation relativement stable.
 
-Administrativement, l’île était divisée en les préfectures de Taipei, Hsinchu, Taichung, Tainan et Kaohsiung, avec des enquêtes foncières visant à clarifier la propriété sur l’ensemble du territoire, jetant les bases d’une industrie moderne et d’un système fiscal.
+Sur le plan administratif, l'île fut divisée en plusieurs préfectures (_shūchō_) telles que Taipei, Hsinchu, Taichung, Tainan et Kaohsiung. Parallèlement, des enquêtes foncières furent menées pour confirmer les droits de propriété sur toute l'île, posant ainsi les bases institutionnelles de l'industrie moderne et du système fiscal.
 
-## Modernisation
+## Modernisation des infrastructures
 
-### Infrastructures de transport
+En ce qui concerne les transports, la ligne ferroviaire transversale fut achevée en 1908, reliant Keelung à Takao (aujourd'hui Kaohsiung), constituant l'un des réseaux ferroviaires coloniaux les plus vastes d'Asie de l'Est à l'époque. Durant cette même période, les ports de Keelung et de Kaohsiung furent transformés en ports commerciaux modernes, augmentant considérablement la capacité commerciale de Taïwan.
 
-Le chemin de fer principal a été entièrement mis en service en 1908, reliant Keelung à Takau (aujourd’hui Kaohsiung). Il constituait l’un des plus grands réseaux ferroviaires coloniaux d’Extrême-Orient. Simultanément, les ports de Keelung et Kaohsiung ont été modernisés en ports commerciaux, augmentant considérablement la capacité d’exportation de Taïwan.
+Dans le domaine de l'agriculture irriguée, le canal de Chianan, conçu par l'ingénieur japonais Hatta Yoichi et construit sur dix ans (1920-1930), a transformé 150 000 hectares de terres agricoles de la plaine de Chianan en une zone d'irrigation stable. Hatta Yoichi est encore aujourd'hui hautement commémoré à Taïwan. [^2] La centrale hydroélectrique du lac Sun Moon (Sun Moon Lake) assurait quant à elle l'approvisionnement électrique de toute l'île.
 
-### Gestion de l’eau et agriculture
+Sur le plan éducatif, le système des écoles publiques (_kōgakkō_) a permis au **taux de scolarisation** des enfants d'âge scolaire de passer de moins de 5 % au début du régime à environ 71 % à la fin de la domination japonaise (selon les statistiques de 1944). Il convient de distinguer le « taux d'alphabétisation » du « taux de scolarisation » : les statistiques d'alphabétisation du gouvernement colonial japonais se basaient sur la capacité de lecture et d'écriture en japonais, fonctionnant parallèlement au système traditionnel de l'écrit chinois ; ces deux normes ne doivent pas être confondues. L'Université impériale de Taipei (aujourd'hui l'Université nationale de Taïwan), établie en 1928, fut l'ancêtre de l'enseignement supérieur à Taïwan, bien que les opportunités de poursuite d'études et d'emploi pour les étudiants taïwanais aient toujours été limitées par des discriminations ethniques.
 
-L’ingénieur japonais Hatta Yoichi a dirigé la conception et la construction du grand canal de Chianan entre 1920 et 1930, transformant 150 000 ha de plaines en zones irriguées de façon stable. Hatta reste aujourd’hui largement honoré à Taïwan. Le barrage hydroélectrique du lac Sun Moon a fourni l’électricité nécessaire à l’ensemble de l’île.
-
-### Éducation
-
-Le système d’écoles publiques a fait passer le taux de scolarisation des enfants taïwanais de moins de 5 % au début de la colonisation à environ 71 % en 1944. Le « taux d’alphabétisation » et le « taux de scolarisation » sont deux indicateurs différents : les statistiques coloniales japonaises mesuraient la capacité à lire et écrire le japonais, coexistant avec le système traditionnel d’alphabétisation en caractères chinois, et les deux normes ne doivent pas être confondues. L’Université impériale de Taipei, fondée en 1928 (aujourd’hui Université nationale de Taïwan), était le précurseur de l’enseignement supérieur, mais les étudiants taïwanais restaient soumis à des discriminations ethniques quant à leurs perspectives d’études et d’emploi.
-
-Parmi les acteurs majeurs de la modernisation, **Gotō Shinpei** (gouverneur civil, 1898‑1906) a appliqué sa « théorie de la colonisation biologique », plaçant la recherche scientifique au premier plan et transplantant progressivement les institutions japonaises, posant les bases des chemins de fer, de l’enquête foncière et de la santé publique.
+L'un des moteurs de cette modernisation fut **Gotō Shinpei** (Administrateur civil, 1898-1906). S'appuyant sur sa « théorie de la gouvernance coloniale biologique », il a utilisé l'enquête scientifique comme préalable pour implanter progressivement les institutions japonaises, jetant ainsi les bases des chemins de fer, du cadastre et de la santé publique à Taïwan.
 
 ## Mouvements sociaux et résistance culturelle
 
-Dans les années 1920, la résistance politique a pris de nouvelles formes. Le mouvement de pétition pour l’établissement d’un parlement taïwanais (1921‑1934), dirigé par Lin Hsien-tang, a cherché à obtenir une participation politique au sein du système colonial, déposant quinze pétitions auprès du parlement impérial. En 1921, Chiang Wei-shui et Lin Hsien-tang ont fondé l’Association culturelle taïwanaise, visant à éveiller la conscience nationale par l’éducation culturelle, puis ont créé le Parti du peuple taïwanais en 1927 pour organiser politiquement la population. [^3]
+La résistance politique a pris une nouvelle forme dans les années 1920. Le « mouvement de pétition pour l'établissement d'un parlement taïwanais » (1921-1934), dirigé par Lin Hsien-t'ang, cherchait une participation politique au sein du système colonial, adressant un total de quinze pétitions au Parlement impérial. Chiang Wei-shui a cofondé l'Association culturelle taïwanaise avec Lin Hsien-t'ang en 1921, plaçant l'éveil culturel au cœur de la promotion de la conscience nationale, avant de fonder le Parti du peuple taïwanais en 1927 pour promouvoir l'organisation politique. [^3]
 
-**L’incident de la répression policière de 1923** a constitué une importante répression coloniale contre les mouvements politiques : les autorités japonaises ont arrêté les membres clés du mouvement de pétition (dont Chiang Wei-shui) en invoquant la violation de la « Loi sur la police et la sécurité publique », déclenchant un procès très médiatisé qui s’est soldé par des condamnations. Cet événement a largement accru la notoriété du mouvement et a accéléré la prise de conscience politique des Taïwanais. **Le Parti communiste taïwanais**, fondé en 1928 à Shanghai par Xie Xuehong et d’autres, prônait l’indépendance taïwanaise, mais a été rapidement éradiqué par les autorités coloniales, s’effondrant en 1931. [^4]
+**L'incident de la police de sûreté de 1923** fut une opération majeure de répression des mouvements politiques par les autorités coloniales : sous prétexte de violation de la _Loi sur la police de sûreté_, le Japon arrêta les membres clés du mouvement de pétition (dont Chiang Wei-shui). Les débats qui suivirent devant le tribunal firent sensation, mais aboutirent à une condamnation. Cet incident augmenta considérablement la notoriété sociale du mouvement de pétition et accéléra la fragmentation de la conscience politique taïwanaise. Le **Parti communiste de Taïwan** fut fondé à Shanghai par des figures telles que Hsieh Hsueh-hung (en tant qu'organisation périphérique du Parti communiste japonais), prônant l'indépendance nationale de Taïwan ; il fut rapidement réprimé par les autorités coloniales et se dissout en 1931. [^4]
 
-Le chercheur japonais **Yanaibara Tadao** a publié en 1929 _Taiwan sous l’impérialisme_, une analyse marxiste de l’exploitation coloniale japonaise, qui reste l’une des références académiques les plus citées sur l’histoire coloniale critique.
+En 1929, l'universitaire japonais **Yanaihara Tadashi** publia _Taïwan sous l'impérialisme_, analysant la structure d'exploitation du Taïwan colonial par l'économie politique capitaliste ; cet ouvrage demeure l'un des textes critiques les plus cités dans l'historiographie coloniale.
 
-L’incident de Wushe en 1930 représente la plus grande rébellion indigène contre le Japon pendant la période coloniale : le chef sémitique Monado a mené environ trois cents membres de son peuple dans une insurrection qui a ensuite été brutalement réprimée, suscitant de vifs débats sur les politiques post‑rébellion.
+L'incident de Wushe en 1930 fut l'action armée de résistance indigène la plus importante de l'époque japonaise. Le chef Seediq, Mona Rudao, mena une insurrection avec environ trois cents membres de son clan ; la répression japonaise et les politiques qui suivirent suscitèrent de vastes controverses.
 
-Sur le plan littéraire, des auteurs tels que Lai Ho, Yang Kui et Lu Ho‑jo ont écrit en chinois vernaculaire et en japonais, exprimant, au sein du système colonial, des critiques de l’oppression et une identification à la terre, posant les bases du ton autochtone de la nouvelle littérature taïwanaise.
+Sur le plan littéraire, des écrivains tels que Lai He, Yang Kuei et Lü He-jwo ont écrit en chinois vernaculaire et en japonais, exprimant à travers le système colonial leur critique de l'oppression et leur attachement à la terre, posant ainsi les bases de la nouvelle littérature taïwanaise.
 
-## Période d’assimilation impériale et après-guerre
+## Période de japonisation et après-guerre
 
-Après le déclenchement de la guerre sino‑japonaise en 1937, le territoire colonial a été intégré à l’effort de guerre. Le mouvement d’assimilation impériale s’est intensifié : l’interdiction de l’usage du taïwanais (« langue nationale courante »), la promotion du changement de nom de famille en noms japonais, l’obligation de visiter les sanctuaires shintoïstes, et la conscription de Taïwanais dans les forces armées japonaises. On estime que plus de 200 000 hommes ont servi ou travaillé pour le Japon pendant la Seconde Guerre mondiale.
+Après le déclenchement de la guerre sino-japonaise en 1937, la colonie est passée sous un régime de mobilisation de guerre, et le mouvement de japonisation (_kōminka_) s'est déployé à grande échelle.
 
-En 1945, la défaite du Japon a conduit à la rétrocession de Taïwan à la République de Chine. Les infrastructures modernes, le capital humain formé, les concepts de l’État de droit et l’efficacité administrative laissés par la colonisation ont constitué un socle essentiel au développement post‑guerre de Taïwan ; la complexité des identités (génération japonaise versus nouveaux arrivants du continent) a toutefois alimenté une partie des conflits politiques de l’après‑guerre.
+L'usage du « japonais comme langue nationale » restreignait l'emploi du taïwanais, le changement de noms encourageait l'adoption de patronymes japonais, les visites aux sanctuaires shinto étaient imposées, et les hommes taïwanais étaient mobilisés comme militaires ou personnels de soutien de l'armée japonaise ; on estime que plus de 200 000 personnes ont servi durant la Seconde Guerre mondiale.
 
-## Perspectives historiographiques : modernisation coloniale vs. exploitation coloniale
+En 1945, après la défaite du Japon, Taïwan est revenue sous l'administration de la République de Chine. Les infrastructures modernes, les cadres éducatifs, les concepts d'État de droit et l'efficacité administrative laissés par l'époque japonaise ont constitué un point de départ crucial pour le développement de Taïwan après-guerre. En revanche, la complexification des identités (le fossé culturel entre la génération ayant appris le japonais et les populations venues de Chine continentale) est devenue l'une des racines des conflits politiques ultérieurs à Taïwan.
 
-Les historiens débattent encore de l’interprétation de la période coloniale japonaise. La « thèse de la modernisation coloniale » met en avant les infrastructures, l’éducation et les systèmes sanitaires comme un héritage positif, affirmant que le Japon a posé les bases matérielles de l’industrialisation taïwanaise. La « thèse de l’exploitation coloniale » souligne que les enquêtes foncières ont spolié les droits traditionnels des peuples autochtones et des petits agriculteurs, que l’exportation du sucre et du riz servait les besoins de l’Empire japonais plutôt que le développement local, et que les politiques d’assimilation ont détruit la transmission culturelle du chinois. Les historiens taïwanais (tels que Wu Mi‑cha, Watanabe Masahiro) tendent à intégrer les deux points de vue, évitant ainsi une lecture unilatérale.
+## Perspectives historiques : Modernisation coloniale vs Exploitation coloniale
 
-**Note terminologique** : « 日治 » (gouvernance japonaise) et « 日據 » (occupation japonaise) reflètent des positions historiographiques différentes. Le premier est plus neutre académiquement, le second insiste sur le caractère d’occupation. Cet article utilise « 日治 », sans présupposer de position politique.
+L'interprétation de cette période fait l'objet de débats constants dans le milieu académique. La « théorie de la modernisation coloniale » souligne l'héritage positif des infrastructures, de l'éducation et des systèmes sanitaires, arguant que le Japon a posé les bases matérielles de l'industrialisation de Taïwan. À l'inverse, la « théorie de l'exploitation coloniale » souligne que les enquêtes foncières ont dépouillé les peuples autochtones et les petits agriculteurs de leurs droits traditionaux, que la structure d'exportation du sucre et du riz servait les besoins de l'Empire japonais plutôt que le développement local, et que la politique de japonisation a systématiquement détruit la transmission de la culture sinophone. L'historiographie locale taïwanaise (telle que celle de Wu Mi-cha ou Wakabayashi Masao) tend à intégrer ces deux perspectives pour éviter une vision simpliste, qu'elle soit affirmative ou négative.
+
+**Note terminologique** : Les termes « domination japonaise » (_ri-zhi_) et « occupation japonaise » (_ri-ju_) reflètent des positions historiques différentes dans l'historiographie taïwanaise ; le premier est plus neutre et académique, tandis que le second souligne la nature de l'occupation coloniale. Cet article utilise le terme « domination japonaise », sans présupposé politique.
 
 ## Références
 
-[^1]: [臺灣日治時期 — 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F) — Vue d’ensemble de la période coloniale japonaise à Taïwan, incluant le système de domination, les principaux événements et les politiques.
+[^1]: [L'époque de la domination japonaise à Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F) — Aperçu général de la période, incluant le système de gouvernement, la chronologie des événements majeurs et les politiques par étapes.
 
-[^2]: [嘉南大圳 — 維基百科](https://zh.wikipedia.org/wiki/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3) — Historique de la construction du grand canal de Chianan et du rôle d’Hatta Yoichi.
+[^2]: [Le canal de Chianan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3) — Processus de construction du canal de Chianan et contexte technique de l'ingénieur Hatta Yoichi.
 
-[^3]: [台灣文化協會 — 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83) — Contexte de la création de l’Association culturelle taïwanaise, le rôle de Chiang Wei-shui et Lin Hsien-tang, et les liens avec le Parti du peuple taïwanais.
+[^3]: [L'Association culturelle taïwanaise — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83) — Contexte de la fondation, rôles de Chiang Wei-shui et Lin Hsien-t'ang, ainsi que les liens avec le Parti du peuple taïwanais après leur scission.
 
-[^4]: [治警事件 — 維基百科](https://zh.wikipedia.org/wiki/%E6%B2%BB%E8%AD%A6%E4%BA%8B%E4%BB%B6) — Détails de l’incident de 1923, arrestation des membres du mouvement de pétition par les autorités coloniales.
+[^4]: [L'incident de la police de sûreté — Wikipédia](https://zh.wikipedia.org/wiki/%E6%B2%BB%E8%AD%A6%E4%BA%8B%E4%BB%B6) — Détails sur l'arrestation des membres du mouvement de pétition par les autorités coloniales japonaises en 1923 selon la loi sur la police de sûreté.
 
-[^5]: [後藤新平 — 維基百科](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — Analyse de la « théorie de la colonisation biologique » de Gotō Shinpei et de ses politiques de construction à Taïwan.
+[^5]: [Gotō Shinpei — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — La « théorie de la gouvernance coloniale biologique » de l'administrateur civil et ses politiques d'infrastructure à Taïwan.
 
 ## Lectures complémentaires
 
-- [乙未之役](/fr/history/1895-taiwan-resistance-war) — Le point de départ de la période coloniale japonaise : le débarquement des troupes japonaises en 1895 et la résistance de la République de Formose.
-- [清治時期](/fr/history/qing-dynasty-rule) — L’histoire de Taïwan avant la colonisation japonaise.
+- [La bataille de l'île de Formose](/fr/history/1895-taiwan-resistance-war) — Le début de la domination japonaise : le débarquement des troupes japonaises en 1895 et la résistance de la République de Taïwan.
+- [L'époque Qing](/fr/history/qing-dynasty-rule) — L'histoire de Taïwan avant la domination japonaise.
+- [Mona Rudao](/fr/people/mona-rudao) — L'incident de Wushe sous les politiques de gestion des peuples autochtones, le récit d'un chef Seediq en résistance.
