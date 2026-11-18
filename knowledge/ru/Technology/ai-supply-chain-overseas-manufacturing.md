@@ -28,11 +28,13 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI供應鏈海外設廠.md'
-sourceCommitSha: 'fd01d452a'
-sourceContentHash: 'sha256:7fa246cf8f0f5c00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:1f66d74cd10a1fe4'
 sourceBodyHash: 'sha256:453d3851b08255ad'
-translatedAt: '2026-07-27T01:41:55+08:00'
+translatedAt: '2026-11-18T20:45:32.189959+00:00'
 ---
 
 # Заводы цепочки поставок ИИ за рубежом: возможности Тайваня запросил мир
@@ -210,24 +212,24 @@ Foxconn и Wistron втянуты в американское производс
 - **Комплекс заводов ТСМК в Хsinьчжьском научном парке**: [TSMC fabs in Hsinchu 01](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg) — Фото: Цзэн Чэнь-Сюнь (Tseng Cheng-Hsun), 2020-01-02, Wikimedia Commons, CC BY 2.0. В статье использована закешированная версия `public/article-images/economy/tsmc-fabs-hsinchu-2020.webp`.
 - **Карта зарубежных заводов цепочки поставок ИИ**: Авторская SVG-схема участников Taiwan.md, CC BY-SA 4.0, хранится в `public/article-images/technology/ai-supply-chain-overseas-footprint.svg`. Используется для иллюстрации множественных маршрутов и тяг заинтересованных сторон при выходе тайваньской цепочки поставок ИИ за рубеж, не отражает полное распределение компаний или пропорции мощностей.
 
-## Ссылки
+## Ссылки и источники
 
-[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Репортаж AP о производстве NVIDIA чипов Blackwell и ИИ-суперкомпьютеров в США, упоминает TSMC Phoenix, Foxconn Хьюстон, Wistron Даллас, а также сотрудничество SPIL / Amkor по сборке и тестированию в Аризоне.
+[^1]: [AP: Nvidia планирует впервые начать производство ИИ-чипов в США](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Агентство Associated Press сообщает, что NVIDIA планирует производить чипы Blackwell и ИИ-суперкомпьютеры в США, называя в качестве партнеров TSMC Phoenix, Foxconn Houston, Wistron Dallas, а также сотрудничество по упаковке и тестированию с SPIL / Amkor в Аризоне.
 
-[^2]: [AP: OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Репортаж AP о сотрудничестве OpenAI и Foxconn по проектированию и производству стоек ИИ-центров обработки данных в США, продукция включает кабельные системы, сетевое оборудование, системы питания, упоминается распределение американских объектов Foxconn.
+[^2]: [AP: OpenAI и тайваньская Foxconn станут партнерами в проектировании и производстве ИИ-оборудования в США](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Агентство Associated Press сообщает о сотрудничестве OpenAI и Hon Hai (Foxconn) в области проектирования и производства стоек для центров обработки данных ИИ; продукция будет включать кабельную продукцию, сетевое оборудование и системы электропитания. Также упоминается распределение производственных мощностей Hon Hai в США.
 
-[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Репортаж об расширении Delta Electronics производственно-офисного объекта в Плейно, Техас, с 정리 существующего НИОКР-производственного центра, последующего масштаба парка и позиционирования американского местного производства.
+[^3]: [MySA: План строительства завода электроники стоимостью 115 млн долларов в Плано продвигается вперед](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Репортаж о расширении производственных и офисных площадей Delta Electronics в Плано, штат Техас; приводится информация об их существующем научно-исследовательском и производственном центре, масштабах будущего парка и позиционировании локального производства в США.
 
-[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Репортаж об расширении индийского завода Delta Electronics в Кришнагири, описывающий спрос телеком, центров обработки данных, электромобилей и промышленных клиентов, а также индийскую локализацию цепочки поставок.
+[^4]: [Times of India: Delta Electronics стремится к расширению мощностей](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Репортаж о расширении завода Delta Electronics в Кришнагири, Индия; описывается спрос со стороны клиентов в телекоммуникационной, дата-центровой, автомобильной и промышленной отраслях, а также стратегия формирования локальной цепочки поставок в Индии.
 
-[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Официальная страница ТСМК по Аризоне, описывающая масштаб инвестиций Финикса, шесть кристаллических заводов, два объекта передовых упаковок, график N4/N3/N2/A16 и планы по переработке воды.
+[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Официальная страница TSMC по Аризоне; содержит сведения об объеме инвестиций в Финикс, шести заводах по производству полупроводников, двух объектах передовой упаковки, графике внедрения техпроцессов N4/N3/N2/A16 и планах по рециркуляции воды.
 
-[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Репортаж AP о планах ТСМК производить 3-нм чипы на втором заводе в Кумамото, с 정리 японской экономической безопасности и спроса ИИ, роботов, автопилотов.
+[^6]: [AP: TSMC будет производить передовые чипы для ИИ-компьютеров в Японии](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Агентство Associated Press сообщает, что TSMC планирует производить 3-нанометровые чипы на своем втором заводе в Кумамото, Япония; также рассматриваются вопросы экономической безопасности Японии и спрос в сферах ИИ, робототехники и автономного вождения.
 
-[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — Официальный сайт ESMC, объясняющий, что это совместное предприятие TSMC, Bosch, Infineon, NXP, строящее в немецком Дрездене кристаллический завод для поддержки европейской промышленности, IoT, связи и авторынка.
+[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — Официальный сайт ESMC; компания является совместным предприятием TSMC, Bosch, Infineon и NXP, создающим завод в Дрездене (Германия) для поддержки европейских рынков промышленности, IoT, связи и автомобилестроения.
 
-[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Репортаж AP о субсидиях Закона CHIPS and Science Act для расширения ТСМК в Аризоне, описывающий, как американское правительство ставит передовое чиповое производство в контекст безопасности цепочки поставок и нацбезопасности.
+[^8]: [AP: Администрация Байдена выделяет 6,6 млрд долларов на обеспечение производства передовых микрочипов в США](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Агентство Associated Press сообщает о субсидиях в рамках Закона США о чипах и науке (CHIPS and Science Act) для расширения мощностей TSMC в Аризоне; объясняется, как правительство США рассматривает производство передовых чипов как вопрос безопасности цепочек поставок и национальной безопасности.
 
-[^9]: [TIME: Прочитайте полный текст интервью тайваньского президента Лаи Циндэ журналу «Time»](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — В полной китайской версии интервью, опубликованной Time, Лаи Циндэ говорит о полупроводниках как глобально раздельном труде и о том, как правительство смотрит на зарубежную расстановку ТСМК и других полупроводниковых компаний в США, Японии, Европе.
+[^9]: [TIME: Полный текст интервью президента Тайваня Лай Циндэ журналу TIME](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — В полном тексте интервью на китайском языке, опубликованном журналом TIME, Лай Циндэ говорит о полупроводниках как о части глобальной индустрии разделения труда, а также о том, как правительство относится к экспансии таких компаний, как TSMC, в США, Японию и Европу.
 
-[^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Репортаж о расширении полупроводникового кластера Аризоны, ставящий рядом ожидания занятости, местное развитие, водные ресурсы, экологию и споры по безопасности труда, пригодный для балансировки местного общественного ракурса зарубежных заводов.
+[^10]: [The Verge: Новая Кремниевая долина (в буквальном смысле)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Репортаж о расширении полупроводникового кластера в Аризоне, затрагивающий вопросы создания рабочих мест, развития региона, использования водных ресурсов, экологии и безопасности труда; материал полезен для понимания социальной перспективы на местах при строительстве зарубежных заводов.

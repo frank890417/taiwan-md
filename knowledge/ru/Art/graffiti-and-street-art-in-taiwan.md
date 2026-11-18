@@ -15,11 +15,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-07-30T03:56:00+08:00'
+translatedAt: '2026-11-18T21:56:02.633814+00:00'
 ---
 
 > **30-секундный обзор:**
@@ -72,18 +74,18 @@ _Стена бывшего штаба Вэньцзинь цзюйцзюнь ва
 - [Граффити на брошенном военном объекте в Ваньхуа](https://commons.wikimedia.org/wiki/File:Building_with_graffiti_near_Ximending_01.jpg) — Photo: Lokseng01, 2021, CC BY-SA 4.0
 - [Тайваньский уличный художник в процессе создания](https://commons.wikimedia.org/wiki/File:Streetartintaiwan-01.jpg) — Photo: streetallnight, 2015, CC BY-SA 2.0 Taiwan
 
-## Ссылки
+## Источники
 
-[^1]: [Тайваньские художники-граффитисты Рич и Блейк: контрнапад! От улиц к многогранному творчеству](https://www.wowlavie.com/article/ae1902012) — WowLavie (Подробности см. в первоисточнике по ссылке)
+[^1]: [Тайваньские художники по граффити Рич и Брейк: триумфальное возвращение! От улицы к стилю многогранного творчества](https://www.wowlavie.com/article/ae1902012) — WowLavie (Подробности см. в первоисточнике по ссылке)
 
-[^3]: [Интервью с художником-граффитистом Дацзань Ван: внутри кишков — кал, внутри искусства — тоже](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [Эксклюзивное интервью с граффити-художником Дачань Ван: внутри толстой кишки — кака, искусство тоже.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [Ошибается ли уличная культура, идя в коммерцию? Пионер тайваньского граффити Рич](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [Является ли коммерциализация уличной культуры ошибкой? Тайваньский пионер граффити Рич](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [Кенді Бёрд](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — База данных современного искусства Тайваня
+[^5]: [Птица-конфета (Candy Bird)](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Тайваньская база данных современного искусства
 
-[^6]: [Максимальный штраф за беспорядок с граффити 6000! Обзор 14 законных стен для граффити в Тайбэе](https://newtalk.tw/news/view/2019-11-27/332344) — Экологическое управление Тайбэя
+[^6]: [За незаконное граффити — штраф до NT$6000! Обзор 14 законных стен для граффити в Тайбэе](https://newtalk.tw/news/view/2019-11-27/332344) — Департамент охраны окружающей среды городского правительства Тайбэя
 
-[^8]: [Слияние памятников и постмодерн искусства «Искусство-путешествие без конца» проводит вас по кинотематическому парку Тайбэя](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Управление туризма и пропаганды Тайбэя
+[^8]: [Слияние исторических памятников и постмодернистского искусства: «Искусство путешествий не заканчивается» проводит вас в кинотематический парк Тайбэя](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Управление туризма и коммуникаций городского правительства Тайбэя
 
-[^9]: [Достаём нагнетённый тайваньский вкус из складок, художник-друг Hatsumimi — Дацзань Ван](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Подробности см. в первоисточнике по ссылке)
+[^9]: [Вытащить из морщин насыщенный тайваньский колорит: друг-художник Hatsumimi — Дачань Ван](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (初耳)

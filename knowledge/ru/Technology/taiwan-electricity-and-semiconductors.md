@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-27T01:41:55+08:00'
+translatedAt: '2026-11-18T21:33:47.215553+00:00'
 ---
 
 # Электричество и полупроводники Тайваня: счёт за электричество «святой горы, защищающей страну»
@@ -188,12 +190,12 @@ _Солнечные панели на крыше автостоянки Сиху
 - **Морской ветропарк у берегов Мяоли**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) — Wikimedia Commons, CC BY-SA 4.0. В статье использована закешированная версия `public/article-images/nature/hai-neng-offshore-wind-farm-2024.webp`.
 - **Солнечные панели на крыше автостоянки Сиху**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) — Photo: lienyuan lee, Wikimedia Commons, CC BY 3.0. В статье использована закешированная версия `public/article-images/nature/xihu-service-area-solar-2014.webp`.
 
-## Ссылки
+## Источники
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — статья о плане ТСМК по энергосбережению EUV, общем масштабе потребления и соотношении экономии инструментов, пригодна для иллюстрации сосуществования повышения эффективности и давления по общему объёму.
+[^1]: [Tom's Hardware: TSMC сокращает пиковое потребление энергии инструментов EUV на 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Описывает программу TSMC по энергосбережению EUV, общий масштаб потребления электроэнергии и долю энергосбережения инструментов, что можно использовать для иллюстрации сосуществования повышения эффективности и давления на общий объём.
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — статья о предупреждении Ассоциации полупроводниковой отрасли Тайваня во главе с ТСМК о давлении электроснабжения и поставках возобновляемой энергии, обобщает требования RE100, потребность кристаллозаводов в зелёной энергии и риски зарубежного переноса.
+[^2]: [Tom's Hardware: Ассоциация полупроводчиков во главе с TSMC предупреждает о давлении на электроснабжение](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Описывает предупреждение Ассоциации полупроводчиковой промышленности Тайваня о стабильности электроснабжения и поставках возобновляемой энергии, а также обобщает требования RE100, потребность заводов по производству кремниевых пластин в зелёной энергии и риски переноса производства за рубеж.
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — исследование 16 тайваньских производителей электронных компонентов за 2015–2020 гг., указывающее на рост энергопотребления, водопотребления и углеродного следа вместе с производством и риск carbon lock-in.
+[^3]: [Руссиль и др.: От кремниевого щита к углеродной ловушке?](https://arxiv.org/abs/2209.12523) — Исследует экологический след 16 тайваньских производителей электронных компонентов за 2015–2020 гг., указывая на рост потребления энергии, воды и выбросов углерода вместе с увеличением производства, а также на риск «углеродной ловушки» (carbon lock-in).
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press о результатах референдума 2025 года по продлению срока ЯЭС №3 и о том, как сторонники ядерной энергии включили в аргументацию тарифы и растущий спрос ИИ на электричество.
+[^4]: [AP: законодатели Тайваня избежали отзыва; референдум по ядерной энергетике провалился](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press сообщает о результатах референдума 2025 г. о продлении срока службы третьей АЭС Тайваня и объясняет, как сторонники ядерной энергетики включали в свою риторику тарифы на электроэнергию и потребность в электричестве для ИИ.

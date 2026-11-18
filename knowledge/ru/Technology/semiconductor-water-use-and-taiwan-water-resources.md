@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-28T19:24:18+08:00'
+translatedAt: '2026-11-18T21:46:47.663995+00:00'
 ---
 
 # Вода для полупроводников и водные ресурсы Тайваня: водохранилище рядом с фабрикой кристаллов
@@ -182,12 +184,12 @@ The Verge, освещая полупроводниковый кластер Ар
 - **Миньсюн после ливней тайфуна «Моракот»**: [2009-08-09 at a village under the Typhoon Morakot, in Minxiong, Chiayi](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Photo: zilupe, Wikimedia Commons, CC BY 2.0. В статье использована закешированная версия в `public/article-images/nature/morakot-minxiong-flood-2009.webp`.
 - **Схема цикла воды регенеративной воды и производства полупроводников**: авторы Taiwan.md, SVG-схема, CC BY-SA 4.0, хранится в `public/article-images/technology/reclaimed-water-semiconductor-loop.svg`. Использована для иллюстрации связей водохранилищ, городских сточных вод, заводов по регенерации, фабрик кристаллов и местного управления, не является инженерной схемой конкретного завода.
 
-## Ссылки
+## Источники
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — отчёт WIRED 2023 г. о потребности полупроводникового производства в сверхчистой воде, водообработке и местных водных ресурсах, с упоминанием напряжённости между производством чипов и сельским орошением в период засухи на Тайване.
+[^1]: [WIRED: Хотите выиграть чиповую войну? Вам понадобится много воды](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED в 2023 году сообщил о потребности полупроводникового производства в сверхчистой воде, водоочистке и местных водных ресурсах, а также упомянул напряжение между производством чипов и сельскохозяйственным водопользованием во время засухи на Тайване.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — официальная страница ТСМК Аризона с описанием инвестиций завода, планов передовых процессов, системы рециркуляции воды и целей по промышленной регенерации воды, служит примером водного управления при застройке за рубежом.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Официальная страница TSMC Arizona описывает инвестиции завода, планы по передовым технологическим процессам, системы водорециркуляции и цели по промышленной водорегенерации, что может служить примером управления водными ресурсами при строичестве зарубежных заводов.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — отчёт о расширении полупроводникового кластера Аризоны: ожидания занятости и развития региона, водные ресурсы, экология и трудовая безопасность, споры — для баланса взгляда на местное общество при застройке за рубежом.
+[^3]: [The Verge: Новая Кремниевая долина (буквально)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Статья освещает споры о занятости, местном развитии, водных ресурсах, окружающей среде и безопасности труда, вызванные расширением полупроводникового кластера в Аризоне, и может использоваться для балансировки местного социального взгляда на зарубежное строительство заводов.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — исследование экологического следа 16 тайваньских производителей электронных компонентов за 2015–2020 гг., указывающее на риск роста водопотребления, энергии и углеродных выбросов вместе с ростом производства.
+[^4]: [Roussilhe и др.: От кремниевого щита к углеродной ловушке?](https://arxiv.org/abs/2209.12523) — Исследование экологического следа 16 тайваньских производителей электронных компонентов за 2015–2020 годы указывает на риски увеличения водопотребления, энергопотребления и углеродных выбросов с ростом объемов производства.
