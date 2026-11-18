@@ -34,11 +34,13 @@ rationale:
   whats_excluded: '唐代煎堆、1970 年代台中夜市兩種起源說法與 130°C、15 秒的油溫說法找不到可掛腳註的出處，地瓜與番薯的省籍命名來源單一且中英版本不一致，劉在泓的人生史、收入與學費、加盟案的計算細節、名人與海外授權、砂炒澱粉的實驗室類比等岔題素材一併略去。'
   where_it_hedges: '中正橋故事以「據傳」的說法呈現，不當史實；芝麻球一說只標出處；起鍋油溫 170 度出自記者圖說，只寫他那一攤；地瓜球與 QQ 蛋的叫法、撒不撒梅粉來自街訪與網友推文，不是調查；各攤的做法與口感多出自部落客介紹；樹薯粉進口量是 2016 年文章的數字；加盟案判決依報導可上訴。'
   whos_pushing_back: '有人會說空心是配方自然膨出來的，炸一炸就好；也有網友認為叫 QQ 蛋的和叫地瓜球的是兩種東西，原味派則主張真正炸得好的地瓜球不需要撒粉。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/地瓜球.md'
-sourceCommitSha: '2ef99f287'
-sourceContentHash: 'sha256:7c999d826d55352a'
-sourceBodyHash: 'sha256:59284821ad1dd766'
-translatedAt: '2026-11-04T16:21:43+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:605ba99da79b7435'
+sourceBodyHash: 'sha256:2a3df7318f5c52b6'
+translatedAt: '2026-11-18T23:17:16.795111+00:00'
 ---
 
 ![طبق من الفولاذ المقاوم للصدأ يحتوي على نوعين من كرات البطاطا الحلوة، الأصفر والأرجواني، وبجانبه كيس ورقي مطبوع، التُقطت في سوق تايتونغ السياحي الليلي](/article-images/food/digua-qiu-taitung-night-market-2021.webp)
@@ -170,12 +172,12 @@ _عربة كشك كرات بطاطا حلوة نباتية في سوق غونغ 
 
 ## مصادر الصور
 
-- [كرات بطاطا حلوة باللونين الأصفر والأرجواني في سوق تايتونغ السياحي الليلي](<https://commons.wikimedia.org/wiki/File:10.29_%E5%89%AF%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A8%AA%E3%80%8C%E8%87%BA%E6%9D%B1%E5%B8%82%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82%E3%80%8D_(51637099362).jpg>) — تصوير: Wang Yu Ching／البيت الرئاسي، 2021-10-29، CC BY 2.0
-- [كرات بطاطا حلوة في سوق غونغ غوان 2019](https://commons.wikimedia.org/wiki/File:%E5%85%AC%E9%A4%A8%E5%A4%9C%E5%B8%82%E5%9C%B0%E7%93%9C%E7%90%83_2019.jpg) — تصوير: Maypollyanna، 2019-10-08، CC BY-SA 4.0
-- [كشك كرات بطاطا حلوة في سوق غونغ غوان (IMG E0255 14)](https://commons.wikimedia.org/wiki/File:IMG_E0255_14.jpg) — تصوير: Maypollyanna، 2019-10-08، CC BY-SA 4.0
-- [كرات بطاطا حلوة (موتشا، تايبيه)](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%93%9C%E7%90%83.jpg) — تصوير: Ianbu، 2017-11-26، CC BY-SA 4.0
-- [كيسان من كرات البطاطا الحلوة في سوق غونغ غوان (IMG E0255 08)](https://commons.wikimedia.org/wiki/File:IMG_E0255_08.jpg) — تصوير: Maypollyanna، 2019-10-08، CC BY-SA 4.0
-- [GongGuan Night Market, Taipei 20191008 03](https://commons.wikimedia.org/wiki/File:GongGuan_Night_Market,_Taipei_20191008_03.jpg) — تصوير: Giantmudcrab، 2019-10-08، CC BY-SA 4.0
+- [كرات البطاطا الحلوة ذات اللونين الأصفر والأرجواني في سوق تايتونغ الليلي السياحي](<https://commons.wikimedia.org/wiki/File:10.29_%E5%89%AF%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A8%AA%E3%80%8C%E8%87%BA%E6%9D%B1%E5%B8%82%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82%E3%80%8D_(51637099362).jpg>) — Photo: Wang Yu Ching／總統府, 2021-10-29, CC BY 2.0
+- [كرات البطاطا الحلوة في سوق غونغغوان الليلي 2019](https://commons.wikimedia.org/wiki/File:%E5%85%AC%E9%A4%A8%E5%A4%9C%E5%B8%82%E5%9C%B0%E7%93%9C%E7%90%83_2019.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
+- [محل كرات البطاطا الحلوة في سوق غونغغوان الليلي (IMG E0255 14)](https://commons.wikimedia.org/wiki/File:IMG_E0255_14.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
+- [كرات البطاطا الحلوة (موتشا، تايبيه)](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%93%9C%E7%90%83.jpg) — Photo: Ianbu, 2017-11-26, CC BY-SA 4.0
+- [كيسان من كرات البطاطا الحلوة في سوق غونغغوان الليلي (IMG E0255 08)](https://commons.wikimedia.org/wiki/File:IMG_E0255_08.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
+- [GongGuan Night Market, Taipei 20191008 03](https://commons.wikimedia.org/wiki/File:GongGuan_Night_Market,_Taipei_20191008_03.jpg) — Photo: Giantmudcrab, 2019-10-08, CC BY-SA 4.0
 
 ## المراجع
 
