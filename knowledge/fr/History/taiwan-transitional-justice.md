@@ -16,8 +16,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣轉型正義.md'
-sourceCommitSha: '7c73f6a55'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c532a9d95ccbcaaf'
 sourceBodyHash: 'sha256:530ea0ffb4d07e77'
 translatedAt: '2026-09-19T01:37:21+08:00'

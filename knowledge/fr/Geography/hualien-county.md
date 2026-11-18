@@ -27,8 +27,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 18
 researchReport: reports/research/2026-05/花蓮縣.md
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/花蓮縣.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2d40b234aa9d9849'
 sourceBodyHash: 'sha256:dfa0735c6c25d7c4'
 translatedAt: '2026-09-26T19:10:21+08:00'

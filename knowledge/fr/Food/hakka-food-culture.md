@@ -24,8 +24,10 @@ created: 2026-03-19
 readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/客家飲食文化.md'
-sourceCommitSha: '011533786'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7e5ddfdb9a112f57'
 sourceBodyHash: 'sha256:b9108371c1de0fa0'
 translatedAt: '2026-10-10T12:07:02+08:00'

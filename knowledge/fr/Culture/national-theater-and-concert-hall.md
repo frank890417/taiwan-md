@@ -19,8 +19,10 @@ category: 'Culture'
 readingTime: 10
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/兩廳院.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1b722cc963da8ad2'
 sourceBodyHash: 'sha256:b8e419f98d87f2d4'
 translatedAt: '2026-05-02T11:00:00+08:00'

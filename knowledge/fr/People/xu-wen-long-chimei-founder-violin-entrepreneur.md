@@ -1,19 +1,22 @@
 ---
-title: "Xu Wenlong : Tainan 1928, fondateur de Chi Mei Industry en 1959 et du musée abritant la plus grande collection de violons au monde"
-description: "Né le 25 février 1928 à Tainan, décédé le 18 novembre 2023 (à 95 ans). Fondation de Chi Mei Industry en octobre 1959 (capital de 2 millions). Acquisition systématique de violons anciens à partir de 1990, totalisant 1 362 instruments (record mondial). Inauguration officielle du musée Chi Mei le 1 1 2015 (parc métropolitain de Tainan). Passionné de violon, le musée Chi Mei était initialement ouvert gratuitement au public (politique actuelle P0⚠️ à vérifier)."
+title: 'Xu Wenlong : Tainan 1928, fondateur de Chi Mei Industry en 1959 et du musée abritant la plus grande collection de violons au monde'
+description: 'Né le 25 février 1928 à Tainan, décédé le 18 novembre 2023 (à 95 ans). Fondation de Chi Mei Industry en octobre 1959 (capital de 2 millions). Acquisition systématique de violons anciens à partir de 1990, totalisant 1 362 instruments (record mondial). Inauguration officielle du musée Chi Mei le 1 1 2015 (parc métropolitain de Tainan). Passionné de violon, le musée Chi Mei était initialement ouvert gratuitement au public (politique actuelle P0⚠️ à vérifier).'
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
-tags: ['科技與企業', '奇美集團', '企業家', '音樂藝術', '博物館', '文化推廣', '台南']
+tags:
+  ['科技與企業', '奇美集團', '企業家', '音樂藝術', '博物館', '文化推廣', '台南']
 readingTime: 7
 #   whats_excluded: "奇美集團各業務單元詳細財報；提琴收藏名單；博物館建築設計細節"
 #   where_it_hedges: "博物館現行免費開放政策P0⚠️建議確認是否仍持續"'
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
 translatedAt: '2026-05-20T05:08:34+08:00'

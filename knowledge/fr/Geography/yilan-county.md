@@ -27,8 +27,10 @@ lastHumanReview: false
 featured: false
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_Island_2019_(cropped).jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/宜蘭縣.md'
-sourceCommitSha: '7f3ddf123'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:339ea6f63f12308d'
 sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-07-25T15:19:33+08:00'

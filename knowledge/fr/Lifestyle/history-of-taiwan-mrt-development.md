@@ -23,8 +23,10 @@ featured: true
 lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '6fed62193'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:fa054e970fa0164b'
 sourceBodyHash: 'sha256:8a8a123d1183a1a8'
 translatedAt: '2026-10-08T04:43:41+08:00'

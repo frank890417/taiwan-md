@@ -21,8 +21,10 @@ featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/鄭文琦.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭文琦.md'
-sourceCommitSha: '64d9ae569'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c3100aba8df85cb7'
 sourceBodyHash: 'sha256:fa74581434f67fac'
 translatedAt: '2026-07-30T20:40:42.968490+00:00'

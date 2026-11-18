@@ -1,6 +1,6 @@
 ---
-title: 'Yu Shan : du « Nouveau Mont Haut » au sommet de l''âme taïwanaise'
-description: 'En 1897, les colonisateurs japonais le baptisèrent « Nouveau Mont Haut » (Niitakayama), symbolisant l''ambition impériale de dépasser la hauteur du Mont Fuji. Un siècle plus tard, le Yu Shan demeure le plus haut sommet de Taïwan — montagne sacrée des peuples autochtones, mentionnée dans les archives de la dynastie Qing, couronne des cartes coloniales, jusqu''aujourd''hui lieu de pèlerinage controversé et terrain d''épreuve de l''éthique environnementale.'
+title: "Yu Shan : du « Nouveau Mont Haut » au sommet de l'âme taïwanaise"
+description: "En 1897, les colonisateurs japonais le baptisèrent « Nouveau Mont Haut » (Niitakayama), symbolisant l'ambition impériale de dépasser la hauteur du Mont Fuji. Un siècle plus tard, le Yu Shan demeure le plus haut sommet de Taïwan — montagne sacrée des peuples autochtones, mentionnée dans les archives de la dynastie Qing, couronne des cartes coloniales, jusqu'aujourd'hui lieu de pèlerinage controversé et terrain d'épreuve de l'éthique environnementale."
 date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
@@ -10,8 +10,10 @@ readingTime: 15
 lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/玉山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fac289c302ac2b36'
 sourceBodyHash: 'sha256:fa7af530be8a582c'
 translatedAt: '2026-05-20T05:08:34+08:00'
@@ -32,7 +34,7 @@ Le peuple Tsou l'appelle **Patungkuonʉ** (ou Pattonkan), signifiant « la monta
 
 ### Les jeux de pouvoir derrière les noms : du mont Morrison au Yu Shan
 
-Les regards extérieurs ont apposé sur cette montagne différentes étiquettes politiques et culturelles. Dès la période Kangxi de la dynastie Qing (1685), le *Gazetteer de la préfecture de Taïwan* mentionnait déjà le nom « Yu Shan », décrivant une montagne « si haute que les nuages la recouvrent en permanence… blanche comme l'argent ». Dans les archives de la dynastie Qing, le Yu Shan fut également appelé « Mont Baichtong » ou « Mont de Neige » (en raison de sa couverture neigeuse vue de loin) [^3].
+Les regards extérieurs ont apposé sur cette montagne différentes étiquettes politiques et culturelles. Dès la période Kangxi de la dynastie Qing (1685), le _Gazetteer de la préfecture de Taïwan_ mentionnait déjà le nom « Yu Shan », décrivant une montagne « si haute que les nuages la recouvrent en permanence… blanche comme l'argent ». Dans les archives de la dynastie Qing, le Yu Shan fut également appelé « Mont Baichtong » ou « Mont de Neige » (en raison de sa couverture neigeuse vue de loin) [^3].
 
 Au milieu du XIXe siècle, des navigateurs occidentaux le baptisèrent « Mont Morrison » (Mt. Morrison), du nom du capitaine d'un navire marchand britannique. Au début de l'ère coloniale japonaise, le gouvernement japonais envisagea d'autres dénominations, telles que « Mont Zhenan » ou « Mont Danan » (en référence à l'expression « longévité comparable aux montagnes du sud »), avant que l'empereur Meiji ne tranche en faveur de « Nouveau Mont Haut », en raison de sa supériorité d'environ 200 mètres sur le Mont Fuji. Durant la Seconde Guerre mondiale, cette montagne devint même un code militaire — le nom de code de l'attaque de Pearl Harbor, « Escalade du Nouveau Mont Haut 1208 », empruntait directement la symbolique du plus haut sommet de l'Empire [^4].
 
@@ -46,13 +48,13 @@ Ce qui rend véritablement impressionnant le Yu Shan se cache le long de son iti
 
 Selon les données les plus récentes du Parc national du Yu Shan, cette « île biologique d'espèces reliquiaires de l'ère glaciaire » abrite une biodiversité d'une richesse exceptionnelle :
 
-| Catégorie | Nombre et caractéristiques | Espèces représentatives |
-| :--- | :--- | :--- |
-| **Mammifères** | Environ 65 espèces (74 % des mammifères terrestres de Taïwan), dont 16 espèces de moyenne et grande taille | Ours noir de Taïwan, Cerf sika de Taïwan, Capricorne de Taïwan, Sanglier de Taïwan, Macaque de Taïwan, Muntjac, Martre à gorge jaune |
-| **Oiseaux** | Environ 191–233 espèces (dont 29 espèces endémiques de Taïwan) | Tragopan de Mikado, Accenteur alpin, Garrulax de Morrison |
-| **Papillons** | Environ 282–289 espèces (plus de la moitié des espèces de Taïwan) | Le « corridor des papillons » de Tataga et de Baichtong |
-| **Amphibiens et reptiles** | La salamandre de Taïwan est la plus méridionale au monde | Salamandre d'Alishan |
-| **Plantes** | 87 % de forêts naturelles, couvrant les formations végétales subtropicales à alpines | Genévrier de Taïwan, Rhododendron de Taïwan, Edelweiss de Taïwan, Sapin de Taïwan, Fargesia de Taïwan |
+| Catégorie                  | Nombre et caractéristiques                                                                                 | Espèces représentatives                                                                                                              |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **Mammifères**             | Environ 65 espèces (74 % des mammifères terrestres de Taïwan), dont 16 espèces de moyenne et grande taille | Ours noir de Taïwan, Cerf sika de Taïwan, Capricorne de Taïwan, Sanglier de Taïwan, Macaque de Taïwan, Muntjac, Martre à gorge jaune |
+| **Oiseaux**                | Environ 191–233 espèces (dont 29 espèces endémiques de Taïwan)                                             | Tragopan de Mikado, Accenteur alpin, Garrulax de Morrison                                                                            |
+| **Papillons**              | Environ 282–289 espèces (plus de la moitié des espèces de Taïwan)                                          | Le « corridor des papillons » de Tataga et de Baichtong                                                                              |
+| **Amphibiens et reptiles** | La salamandre de Taïwan est la plus méridionale au monde                                                   | Salamandre d'Alishan                                                                                                                 |
+| **Plantes**                | 87 % de forêts naturelles, couvrant les formations végétales subtropicales à alpines                       | Genévrier de Taïwan, Rhododendron de Taïwan, Edelweiss de Taïwan, Sapin de Taïwan, Fargesia de Taïwan                                |
 
 Il convient de souligner particulièrement que le bassin de la rivière Le Le abrite la population la plus dense d'ours noirs de Taïwan, et que la salamandre d'Alishan, espèce endémique de Taïwan, représente la limite de répartition la plus méridionale des salamandres au monde. Le Yu Shan est une « île biologique d'espèces reliquiaires de l'ère glaciaire », avec des zones écologiques verticales allant du subtropical à l'alpin, d'une valeur scientifique considérable [^7]. Au-dessus de 3 850 mètres, sur les éboulis, les conditions sont extrêmement rudes : vents violents, basses températures, rayonnement ultraviolet intense. Les plantes qui y poussent, comme l'edelweiss de Taïwan, ont développé des poils épais ou des feuilles cireuses, s'enracinant à une vitesse extrêmement lente dans les fissures rocheuses, témoignant de la plus grande résilience de la flore alpine taïwanaise.
 
@@ -66,7 +68,7 @@ Aujourd'hui, avec la mise en œuvre de la politique d'« ouverture des forêts e
 
 2. **La modification du comportement de la faune sauvage** : Aux alentours de Tataga et du refuge de Paiyun, des espèces telles que la martre à gorge jaune, l'accenteur alpin et même le macaque de Taïwan ont développé des comportements de « mendicité » prononcés, dus à un contact prolongé avec les restes de cuisine humains et le nourrissage. À terme, leur instinct naturel de recherche de nourriture se dégrade progressivement, et l'ingestion d'aliments humains peut nuire à leur santé. L'administration du parc interdit strictement le nourrissage, passible d'une amende pouvant aller jusqu'à 3 000 NT$ [^11].
 
-3. **Sans trace et gestion des déchets et excréments** : L'administration du parc applique rigoureusement les principes du « Sans Trace » (*Leave No Trace*, LNT), exigeant des randonneurs qu'ils redescendent avec tous leurs déchets, excréments et restes alimentaires, afin de réduire l'impact sur l'environnement. Les porteurs doivent transporter les provisions en montagne, et les randonneurs sont invités à respecter leur travail et à contribuer collectivement à la propreté des espaces naturels [^12].
+3. **Sans trace et gestion des déchets et excréments** : L'administration du parc applique rigoureusement les principes du « Sans Trace » (_Leave No Trace_, LNT), exigeant des randonneurs qu'ils redescendent avec tous leurs déchets, excréments et restes alimentaires, afin de réduire l'impact sur l'environnement. Les porteurs doivent transporter les provisions en montagne, et les randonneurs sont invités à respecter leur travail et à contribuer collectivement à la propreté des espaces naturels [^12].
 
 📝 **Note du conservateur :** Nous montons nos déchets en montagne, mais nous emportons la sauvagerie des animaux. Aimer véritablement la montagne, c'est apprendre à maîtriser notre désir de « proximité ».
 
@@ -80,13 +82,13 @@ Lorsque nous parlons de « l'ascension du Yu Shan », peut-être devrions-nous n
 
 ### Sources
 
-[^1]: [Le foyer spirituel de Taïwan : traverser l'histoire, contempler le Yu Shan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — *Taiwan Panorama* : article de fond de *Taiwan Panorama*
+[^1]: [Le foyer spirituel de Taïwan : traverser l'histoire, contempler le Yu Shan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — _Taiwan Panorama_ : article de fond de _Taiwan Panorama_
 
 [^2]: [Études du Yu Shan : écologie naturelle et éthique environnementale](https://paperupload.nttu.edu.tw/download.php?sn=2141) — Mémoire académique de l'Université nationale de Taitung : voir le contenu du lien original
 
 [^3]: [Yu Shan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%8E%89%E5%B1%B1) — Wikipédia : article Wikipédia
 
-[^4]: [Chroniques et récits de l'ascension du Yu Shan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — *Good Job Trekker* : voir le contenu du lien original
+[^4]: [Chroniques et récits de l'ascension du Yu Shan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — _Good Job Trekker_ : voir le contenu du lien original
 
 [^5]: [Parc national du Yu Shan et conservation écologique](https://vocus.cc/article/6800665bfd89780001d83257) — Vocus : voir le contenu du lien original
 
@@ -94,16 +96,16 @@ Lorsque nous parlons de « l'ascension du Yu Shan », peut-être devrions-nous n
 
 [^7]: [Écologie — Nord-Ouest](https://www.ysnp.gov.tw/En/RecreationArea/1fbfec62-e8ce-4916-a902-a6c28c9dd33e?Tab=6) — Administration du Parc national du Yu Shan : voir le contenu du lien original
 
-[^8]: [Chroniques et récits de l'ascension du Yu Shan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — *Good Job Trekker* : voir le contenu du lien original
+[^8]: [Chroniques et récits de l'ascension du Yu Shan](https://goodjobtrekker.com/%E7%8E%89%E5%B1%B1%E7%99%BB%E9%A0%82%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84%E8%88%87%E6%95%85%E4%BA%8B/) — _Good Job Trekker_ : voir le contenu du lien original
 
-[^9]: [Un million de personnes escaladent le Yu Shan chaque année, générant 250 kg de déchets](https://news.pts.org.tw/article/375743) — *PTS News* : *PTS News*
+[^9]: [Un million de personnes escaladent le Yu Shan chaque année, générant 250 kg de déchets](https://news.pts.org.tw/article/375743) — _PTS News_ : _PTS News_
 
 [^10]: [Étude de l'environnement des sentiers du massif du Yu Shan et des accidents de montagne](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=uY271N8Y/record?rid=093NTNU5571015&h_num=1) — Mémoire de maîtrise de l'Université nationale normale de Taïwan
 
-[^11]: [Jouer dans un parc national affecte-t-il les animaux ? Suivi des collisions routières et du nourrissage à Tataga](https://wuo-wuo.com/report/instantnews/2288-20250919news) — *WuoWuo* : voir le contenu du lien original
+[^11]: [Jouer dans un parc national affecte-t-il les animaux ? Suivi des collisions routières et du nourrissage à Tataga](https://wuo-wuo.com/report/instantnews/2288-20250919news) — _WuoWuo_ : voir le contenu du lien original
 
 [^12]: [Sécurité en montagne et éthique environnementale dans le Parc national du Yu Shan](https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&s=28FDB2F1F86EDEB4) — Matériel de sensibilisation de la mairie de Taipei : voir le contenu du lien original
 
-[^13]: [Le foyer spirituel de Taïwan : traverser l'histoire, contempler le Yu Shan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — *Taiwan Panorama* : article de fond de *Taiwan Panorama*
+[^13]: [Le foyer spirituel de Taïwan : traverser l'histoire, contempler le Yu Shan](https://www.taiwan-panorama.com/Articles/Details?Guid=6740d77b-f7c1-46c4-86c7-7e5d5bdf56d2) — _Taiwan Panorama_ : article de fond de _Taiwan Panorama_
 
 [^14]: [Sécurité en montagne et éthique environnementale dans le Parc national du Yu Shan](https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&s=28FDB2F1F86EDEB4) — Matériel de sensibilisation de la mairie de Taipei : voir le contenu du lien original

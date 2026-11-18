@@ -16,9 +16,11 @@ subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-27
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/九天玄女信仰.md'
 readingTime: 12
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1910ee0829efda65'
 sourceBodyHash: 'sha256:def52197e717a6f7'
 translatedAt: '2026-05-13T01:08:41Z'

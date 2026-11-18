@@ -1,6 +1,6 @@
 ---
 title: 'Thé de Sanxia : de l’inflexion spiralée du « Qingxin Ganzai » à la montée en valeur miellée du thé d’été'
-description: "Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan ; sa trajectoire industrielle constitue une longue expérience d’« adaptation ». Depuis la découverte de John Dodd sous l’ère Tongzhi des Qing, en passant par la répression des exportations de thé vert durant la période japonaise, jusqu’à la dénomination officielle du Biluochun à la fin des années 1990, les producteurs de thé de Sanxia ont dessiné, entre variété locale spécifique et pression de l’aménagement foncier, un standard taïwanais du thé vert."
+description: 'Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan ; sa trajectoire industrielle constitue une longue expérience d’« adaptation ». Depuis la découverte de John Dodd sous l’ère Tongzhi des Qing, en passant par la répression des exportations de thé vert durant la période japonaise, jusqu’à la dénomination officielle du Biluochun à la fin des années 1990, les producteurs de thé de Sanxia ont dessiné, entre variété locale spécifique et pression de l’aménagement foncier, un standard taïwanais du thé vert.'
 date: 2026-04-26
 author: 'Taiwan.md'
 category: 'Food'
@@ -22,8 +22,10 @@ readingTime: 45
 lastVerified: 2026-04-26
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/三峽茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:39992ba044ff9cc4'
 sourceBodyHash: 'sha256:4a3a23738f45e5d9'
 translatedAt: '2026-05-17T05:34:56+08:00'

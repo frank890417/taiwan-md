@@ -8,9 +8,11 @@ category: 'People'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李登輝.md'
 lastVerified: 2026-03-22
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-04-14T19:15:40+08:00'

@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-05-05
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/za-share.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/雜學校.md'
-sourceCommitSha: '1844f59c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a2058786df46a07e'
 sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-10-11T01:05:45+08:00'

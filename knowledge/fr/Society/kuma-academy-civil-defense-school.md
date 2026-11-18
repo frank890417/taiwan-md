@@ -20,8 +20,10 @@ readingTime: 20
 lastVerified: 2026-06-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/黑熊學院.md'
-sourceCommitSha: 'cdc7cc71'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f79e860b49a16b41'
 sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-06-22T00:40:58+08:00'

@@ -11,8 +11,10 @@ readingTime: 12
 lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/政治獻金透明度.md'
-sourceCommitSha: '837e22b9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8a7814971a9249c7'
 sourceBodyHash: 'sha256:214c403ec0d7137c'
 translatedAt: '2026-07-11T00:35:00+08:00'

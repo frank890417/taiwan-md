@@ -39,8 +39,10 @@ evolveHistory:
     linesBefore: 234
     linesAfter: 324
     reason: '全面進化 2026-11-04 依 GA／Search Console 資料選題：候選中搜尋曝光最高（28 天 17,329 次）、真人瀏覽 256（每人 76 秒），curation: incubating，全站沒有文章連入；讀者搜「杰哥」「傑哥不要」「杰哥不要」，舊標題主詞是「鐵牛」。走完整 REWRITE-PIPELINE-SINGLE：四路研究重驗所有事實（頑GAME 解散日、麻吉大哥那句話的主客、李佳霖原文、音樂劇場次與嘉賓），投影室與正文結構室分席審，三路分段查證。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鐵牛杰哥.md'
-sourceCommitSha: '1de79023e'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:015dd447dc8ae669'
 sourceBodyHash: 'sha256:9ab8023205bdc033'
 translatedAt: '2026-11-06T04:56:25.428552+00:00'

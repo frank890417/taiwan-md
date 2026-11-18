@@ -19,8 +19,10 @@ author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-31
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
 translatedAt: 2026-05-16T22:26:08Z

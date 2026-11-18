@@ -18,8 +18,10 @@ readingTime: 12
 lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李宗盛.md'
-sourceCommitSha: 'db263367'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1c035df4dee1c3d3'
 sourceBodyHash: 'sha256:e6fee31313863c50'
 translatedAt: '2026-06-16T17:05:54Z'

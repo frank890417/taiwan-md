@@ -17,10 +17,12 @@ category: 'History'
 author: 'Taiwan.md'
 readingTime: 18
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
-sourceCommitSha: '936ada6c'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
 translatedAt: '2026-05-29T00:35:00+08:00'

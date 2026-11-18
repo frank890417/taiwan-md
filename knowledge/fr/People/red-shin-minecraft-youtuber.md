@@ -35,8 +35,10 @@ rationale:
       '不服務固定發布主軸的跨域履歷與私人爭議',
       '收入、資產與完整排程主權的推論',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'fb7f4f824'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
 translatedAt: '2026-09-23T22:11:52+08:00'

@@ -33,8 +33,10 @@ sporeLinks:
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
 relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: 'fd14e36db'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:568c29d1e1668c32'
 sourceBodyHash: 'sha256:ad0f6df167e4338c'
 translatedAt: '2026-10-20T08:51:23.232235+00:00'

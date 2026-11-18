@@ -22,9 +22,11 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '9cef725ce'
-sourceContentHash: 'sha256:fdd5821ca0875f61'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-09-19T21:48:16.377642+00:00'
 ---

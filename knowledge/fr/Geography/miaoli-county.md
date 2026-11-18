@@ -25,8 +25,10 @@ lastHumanReview: false
 readingTime: 16
 researchReport: reports/research/2026-05/苗栗縣.md
 series: 'Série des 22 municipalités et comtés (lot 1)'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: '8d4f4b434'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d42a13d401176a58'
 sourceBodyHash: 'sha256:240cad04d9fcb9fe'
 translatedAt: '2026-09-26T11:45:53+08:00'

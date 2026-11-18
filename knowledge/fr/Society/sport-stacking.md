@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
 translatedAt: '2026-11-02T01:59:14.270424+00:00'

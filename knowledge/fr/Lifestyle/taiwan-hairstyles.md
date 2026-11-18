@@ -16,8 +16,10 @@ tags:
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣髮型介紹.md'
-sourceCommitSha: '490742919'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f7d7ed191773a287'
 sourceBodyHash: 'sha256:2b50ba6e77e00416'
 translatedAt: '2026-05-09T14:29:10+08:00'

@@ -16,9 +16,11 @@ category: 'Economy'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
 lastVerified: 2026-03-21
-sourceCommitSha: '7678a430'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-06-10T16:45:50Z'

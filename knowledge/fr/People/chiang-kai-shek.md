@@ -10,8 +10,10 @@ author: 'Taiwan.md'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-31
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔣中正.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: '2026-04-14T19:17:00+08:00'

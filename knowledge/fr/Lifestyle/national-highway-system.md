@@ -26,8 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:臺灣第一條高速公�
 relatedDiary:
   - 2026-07-18-103939-manual
   - 2026-07-19-092138-標點主權閘
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '79f66898d'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:48816f5034216b14'
 sourceBodyHash: 'sha256:b76c8d691b6d2510'
 translatedAt: '2026-09-26T19:10:21+08:00'

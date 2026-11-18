@@ -20,8 +20,10 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: "Grand caractère « 功 » avec ses codes Big5 A5 et 5C en deux cases, la case 5C pointée par une flèche vers l'ASCII 0x5C barre oblique inverse ; en dessous, la sortie Python réelle, les trois caractères de « 許功蓋 » ont tous leur second octet égal à la barre oblique inverse"
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369ee'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
 translatedAt: '2026-10-08T09:35:13+08:00'

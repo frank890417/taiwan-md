@@ -20,8 +20,10 @@ category: 'Music'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-04-15T17:32:16+08:00'

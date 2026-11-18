@@ -28,8 +28,10 @@ rationale:
   whats_excluded: '明基西門子虧損細節（歸屬鐵律：屬李焜耀的明基電通、非宏碁本體，僅作 ABW 兄弟命運一筆帶過）；中國市場掉隊（無獨立硬數據，移除）；ConceptD/Predator 工業設計評比、ESG/RE100（次要 facet，不進主線）；蘭奇個人晚年（僅作 2013 對照一句）。'
   where_it_hedges: '市值/排名全部標日期（華碩約 4.4 倍寫 2026/06，不用 2015 的 3.8x）；「宏碁 DNA 在緯創最深厚」加「據報導」；42.8% 標明是營運利益非營收；2011 庫存 US$1.5 億非 15 億；小教授一號釘 1981；1988 上市 2306 與 1996 宏科 2353 分開；小金雞翻身寫「進行式非完成式」。'
 relatedDiary: ['2026-07-06-115400-acer-evolve']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：宏碁.md'
-sourceCommitSha: 'a94bbcf6b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f4628301afebb26c'
 sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-07-29T01:32:44+08:00'

@@ -17,8 +17,10 @@ author: 'Taiwan.md'
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/地形與地質.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-04-15T17:33:45+08:00'

@@ -13,8 +13,10 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: History/日治時期.md
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
 translatedAt: 2026-05-22T05:08:47+08:00
