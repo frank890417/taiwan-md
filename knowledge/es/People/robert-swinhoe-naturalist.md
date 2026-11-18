@@ -2,26 +2,30 @@
 title: 'Robert Swinhoe: cuando un diplomático se convirtió en naturalista'
 description: 'En 1856, un intérprete británico de 19 años anotó el primer ave que vio en la costa occidental de Formosa. Cuatro años después, con 52 artículos científicos, hizo que el mundo conociera por primera vez qué seres vivos habitaban en esa isla. Murió a los 41 años en Londres, pero las especies que nombró siguen vivas hoy en los bosques y montañas de Taiwán.'
 date: 2026-04-12
-author: Taiwan.md
-category: People
-subcategory: 歷史人物
+category: 'People'
 tags:
-  - 'Historia natural'
-  - 'Cónsul británico'
-  - 'Historia natural'
-  - 'Ornitología'
-  - 'Especies endémicas de Taiwán'
-  - 'Apertura de puertos al comercio'
-  - 'Siglo XIX'
+  [
+    'Historia natural',
+    'Cónsul británico',
+    'Historia natural',
+    'Ornitología',
+    'Especies endémicas de Taiwán',
+    'Apertura de puertos al comercio',
+    'Siglo XIX',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
-translatedFrom: People/史溫侯.md
-sourceCommitSha: '4b6d28c5'
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/史溫侯.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: 2026-05-01T20:54:23+08:00
-image: ''
+translatedAt: '2026-11-18T14:21:32.480576+00:00'
 ---
 
 # Robert Swinhoe: cuando un diplomático se convirtió en naturalista

@@ -2,6 +2,7 @@
 title: 'Ethan Tu'
 description: 'Levantó el foro más grande de Taiwán con una computadora 486, lideró el lanzamiento de Cortana en Microsoft y luego abandonó un salario alto en Seattle para regresar a Taiwán y hacer IA sin fines de lucro: la historia digital de treinta años del creador del PTT'
 date: 2026-03-30
+category: 'People'
 tags:
   [
     'Ethan Tu',
@@ -11,17 +12,18 @@ tags:
     'Inteligencia artificial',
   ]
 subcategory: '科技與企業'
-readingTime: 9
+author: 'Taiwan.md'
 featured: true
-category: 'People'
 lastVerified: 2026-03-30
 lastHumanReview: false
-translatedFrom: People/杜奕瑾.md
-sourceCommitSha: 'ab47ff39'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/杜奕瑾.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: 2026-05-01T22:19:10+08:00
-author: 'Taiwan.md'
+translatedAt: '2026-11-18T14:34:57.455086+00:00'
 ---
 
 # Ethan Tu

@@ -2,9 +2,7 @@
 title: 'Leyes gemelas de medicina regenerativa x 30 años de mRNA: cómo el Estado incorporó dos medicamentos salvavidas a su regulación'
 description: 'El día en que Karikó y Weissman recibieron el Premio Nobel en 2023, habían pasado exactamente 28 años desde que ella fue degradada en la Universidad de Pensilvania. En el momento en que el primer lote de 930.000 dosis de BNT aterrizó en el Aeropuerto Internacional de Taoyuan el 2 de septiembre de 2021, ya habían pasado 24 años desde que ella se encontró con Weissman frente a una fotocopiadora en 1997. Este artículo yuxtapone dos líneas narrativas: las «leyes gemelas de medicina regenerativa de 2024» y los «30 años de penurias del mRNA». Desde el oso de peluche de una científica inmigrante húngara hasta las salas limpias del Parque Científico de Taoyuan, observa cómo el Estado regula dos medicamentos salvavidas completamente distintos: células y moléculas.'
 date: 2026-05-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'leyes gemelas de medicina regenerativa',
@@ -16,19 +14,23 @@ tags:
     'derechos humanos en salud',
     'GMP',
   ]
-readingTime: 22
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:067149f437c5a573'
-sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-06-16T17:05:07Z'
+readingTime: 22
 image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:067149f437c5a573'
+sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
+translatedAt: '2026-11-18T13:32:48.822242+00:00'
 ---
 
 ![Katalin Karikó y Drew Weissman reciben juntos la Medalla Life Science en 2022 y posan frente al panel de fondo; Karikó lleva un traje rojo y Weissman un traje oscuro](/article-images/society/kariko-weissman-life-science-2022.webp)
