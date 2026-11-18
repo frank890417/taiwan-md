@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T23:34:00.761597+00:00'
+translatedAt: '2026-11-18T19:18:43.172327+00:00'
 ---
 
 # Taiwanese Childhood English Names: Mary, Kevin, and the Naming Authority of Cram-School Teachers
@@ -281,11 +283,11 @@ The act of being assigned a name was never abolished. Only the person handing ou
 
 ## Further Reading
 
-- [Taiwanese Names (feature)](/en/names/) — surnames, generations, the four official spellings and Indigenous names in charts, with a name romanization tool.
-- [Loanwords and Language Contact in Taiwan](/en/culture/loanwords-and-language-contact-in-taiwan) — From borrowings among Japanese, English, and Taiwanese, see how Taiwan’s multilingual layers stack up
-- [Taiwan’s Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement) — Another line in the recovery of naming authority, from Indigenous-language revitalization through the 2024 Name Act amendment
-- [Chiung Wi-vun](/en/people/chiung-wi-vun) — A parallel extension of the “de-Sinicization” logic in the Tâi-gí writing movement, and another side of naming and script sovereignty
-- [Taiwan Sensibility](/en/culture/taiwanese-sensibility) — A curatorial view of cultural mentality, offering another layer for understanding why Taiwanese people so often feel they need a foreign-language name
+- [Names of Taiwanese People (Special Feature)](/names/) — Surnames, generations, romanization, and Indigenous names illustrated, including a name romanization tool.
+- [Loanwords and Language Contact in Taiwan](/en/culture/loanwords-and-language-contact-in-taiwan) — Examining how Taiwan's multilingual layers are built through borrowings between Japanese, English, and Taiwanese.
+- [The Movement for the Revitalization of Indigenous Languages in Taiwan](/en/culture/indigenous-language-revitalization-movement) — Another thread regarding the reclamation of naming rights, from language revitalization to the 2024 amendment of the Name Act.
+- [Chiang Wei-wen](/en/people/chiung-wi-vun) — An extension and comparison of the "de-Sinicization" logic within the Taiwanese language movement; another facet of naming and linguistic sovereignty.
+- [Taiwanese Sentimentality](/en/culture/taiwanese-sensibility) — A curatorial perspective on cultural mindset, offering another layer to understanding "why Taiwanese people always feel the need for a foreign name."
 
 ## Image Sources
 

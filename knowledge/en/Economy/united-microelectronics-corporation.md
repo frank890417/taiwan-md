@@ -2,20 +2,22 @@
 title: "United Microelectronics Corporation (UMC) - Pioneer of Taiwan's Wafer Foundry Industry"
 description: "Taiwan's first wafer foundry, which for half a century has witnessed and advanced the remarkable journey of Taiwan's semiconductor industry from nothing to global prominence"
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   ['Economy', 'Enterprises', 'Semiconductors', 'Wafer Foundry', 'Technology']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-05-17T06:10:00Z'
+translatedAt: '2026-11-18T19:48:42.493453+00:00'
 ---
 
 > **30-Second Overview**
@@ -145,12 +147,12 @@ This is precisely the most precious quality of Taiwanese enterprises: finding th
 
 ## References
 
-[^1]: [UMC Official Milestones](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC was spun out of the Electronics Research and Service Organization of ITRI on May 22, 1980; both Chinese and English Wikipedia and UMC's official materials confirm this date
+[^1]: [UMC Official Milestones](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC was spun off from ITRI's Electronics Research & Service Organization (ERSO) on May 22, 1980; both Wikipedia (Chinese and English) and UMC's official sources confirm this date
 
-[^2]: [Wikipedia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — In 1985, UMC became the first publicly listed semiconductor company in the Chinese-speaking world
+[^2]: [Wikipedia — UMC](https://zh.wikipedia.org/wiki/聯華電子) — In 1985, UMC became the first semiconductor company in the Chinese-speaking world to be listed on a stock exchange
 
-[^3]: [TrendForce — Global Wafer Foundry Market Analysis 2024](https://www.trendforce.com/) — UMC's global wafer foundry market share is approximately 7.4%, ranking third worldwide; TSMC has 62% and Samsung 18%
+[^3]: [TrendForce — Global Foundry Market Analysis 2024](https://www.trendforce.com/) — UMC's global foundry market share is approximately 7.4%, ranking third worldwide; TSMC 62%, Samsung 18%
 
-[^4]: [UMC Official Website — Investor Relations](https://www.umc.com/zh-TW/IR/ir_overview) — UMC's 2025 revenue was NT$237.6 billion, with a gross margin of 29.0% and earnings per share of NT$3.34
+[^4]: [UMC Official Website — Investor Relations](https://www.umc.com/zh-TW/IR/ir_overview) — UMC 2025 revenue NT$237.6 billion, gross margin 29.0%, earnings per share NT$3.34
 
-[^5]: [UMC ESG Sustainability Report](https://www.umc.com/) — UMC launched its "UMC 2030" strategy in 2022 and committed to achieving carbon neutrality by 2030
+[^5]: [UMC ESG Sustainability Report](https://www.umc.com/) — UMC launched the 'UMC 2030' strategy in 2022, committing to achieve carbon neutrality by 2030

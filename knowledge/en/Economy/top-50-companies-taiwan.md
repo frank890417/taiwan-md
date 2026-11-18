@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T13:51:03.795753+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-18T19:52:46.663101+00:00'
 ---
 
 > **30-Second Overview:** After trading on May 19, 2026, TSMC's market capitalization reached NT$57.18 trillion. This single company accounts for 31.51% of the Taiwan Weighted Index, approximately 40% of the total Taiwan stock market capitalization, and 71% of the global foundry market. The remaining 49 positions are divided among 12 financial holding companies, 11 semiconductor firms, 6 electronic contract manufacturers, and 5 traditional industry veterans. While there is a so-called "tripartite stability" between electronics, finance, and traditional industries, in reality, the entire body is propped up by a single leg: the electronics industry. Since 2024, the AI wave has propelled companies like Quanta, Wistron, Wiwynn, and Hongjing from the middle tier to the top, further increasing market concentration. Reading this Top 50 table is equivalent to reading an anatomical map of Taiwan's economy: where the spine lies, where the single points of failure are, and where the internal organs hidden outside the table reside.
@@ -147,28 +149,29 @@ China Steel in Siaogang, Kaohsiung, also carries a heavy bill. Data from the Ear
 > **📝 Curator's Note**
 > The other side of the Top 50 is 50 sets of external cost ledgers. What is included in the GDP is the output value of the factories; what is not included are the medical expenses of households surrounding the factories, the long-term care burden faced by Yunlin residents, and the relocation costs for Qianzhen residents in Kaohsiung. Economics calls this "internalizing externalities": when society forces companies to shoulder the costs they previously spilled onto others, that is the true meaning of ESG. Among Taiwan's Top 50, the semiconductor and financial holding sectors generally lead in ESG ratings; traditional manufacturing and petrochemical industries, meanwhile, are the ones under scrutiny. This reshuffling of scores will change rankings more profoundly over the next decade than any single quarterly earnings report.
 
-## Ningxia Night Market and Kaixuan 3rd Road
+## Ningxia Night Market and Kaisyuan 3rd Road
 
-Connecting the beginning to the end reveals two extremes within the same coordinate system.
+Connect the beginning and the end, and you get two extremes in the same coordinate system.
 
-On that night at Ningxia Night Market, five of the most important people in semiconductors were drinking beer on plastic tables and chairs; by the next day, the market capitalization of three of their companies had increased by hundreds of billions overnight. On that night on Kaixuan 3rd Road, 32 residents of Qianzhen were blown out of their homes by an explosion; after eight years of trials and sentencing, no one can bring their lives back.
+That night at Ningxia Night Market, the five most important people in semiconductors drank beer at plastic tables and chairs; the next day, three of their companies saw their market caps increase by hundreds of billions overnight. That night on Kaisyuan 3rd Road, 32 Qianzhen residents were blown from their homes into the sky; the case was tried for eight years before judgment, and no one can pay back those lives.
 
-Between these two images lies the entire span of this "Top 50" list.
+Between these two scenes lies the entire span of this Top 50 table.
 
-The "Protector of the Nation" (TSMC) sits at the very top, propping up the entire industry and the entire country; at the foot of that mountain lies the PM2.5 of Mailiao, the smell of propylene in Qianzhen, and the influence of the I-Mei factory and Hotai showrooms that aren't written into the rankings. These 50 companies combined form the spine of Taiwan; a single company is like the thickest lumbar vertebra within that spine, but beyond the spine, there are muscles, nerves, and skin that GDP fails to grasp.
+The Sacred Mountain guarding the nation sits at the very top, propping up the entire industry and the entire country; at the foot of that mountain lie Mailiao's PM2.5, Qianzhen's acrylonitrile smell, the impacts of I-Mei factories and Hotai showrooms that never made it onto the ranking. The 50 companies together are Taiwan's spine; one company is the thickest lumbar vertebra in that spine, but beyond the spine there are muscles, nerves, and skin that GDP fails to capture.
 
-After reading this list, what readers should take away is not "who is ranked where" or "whose market cap is how much." It should be an anatomical diagram: where the spine is, where the single points of failure lie, where the external costs are, and where the internal organs hidden outside the table reside. When the next AI wave washes through, when the next round of US-China geopolitics shifts, or when some company challenges TSMC's position in a specific process, this structural diagram will be redrawn. The names in those 50 positions will change, decrease, or increase, but this list will always be recording one thing: which companies decide how this generation of Taiwanese people eats, works, and worries about tomorrow.
+After reading this table, what readers take away should not be "who ranks where, how much market cap." It should be an anatomical chart: where the spine is, where the single points of failure are, where the externalities are, where the viscera hidden outside the table lie. When the next AI wave reshuffles the deck, when the next U.S.–China geopolitical shift upends the board, when the next company challenges TSMC's position in a given process node, this structural chart will be redrawn. The names in those 50 seats will change, decrease, increase, but this table will always record one thing: which companies decide how this generation of Taiwanese people eat, how they work, how they worry about tomorrow.
 
-> **✦** "Semiconductors have placed Taiwan at the center of the world. But what is not written on this Top 50 list are the internal organs and skin of this island; they are also a part of Taiwan, they are just invisible to GDP."
+> **✦** "Semiconductors put Taiwan at the center of the world. But what this Top 50 table doesn't write out are this island's viscera and skin; they are also part of Taiwan, just the parts GDP cannot see."
 
 **Further Reading**:
 
-- [Taiwanese Enterprises: TSMC](/en/economy/tsmc) — Ranked 1st in the Top 50, a single company accounting for 31.51% of the weighted index
-- [Taiwan's SMEs and Invisible Champions](/en/economy/taiwan-smes-and-hidden-champions) — Beyond I-Mei and Hotai, the invisible 30% of the economic structure
-- [Taiwan's Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — From ITRI to 2nm, the source of the 11 semiconductor seats in the Top 50
-- [Taiwan's Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — The structure of the weighted index, market cap rankings, and institutional investors
-- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The geopolitical link between the "silicon shield" and the Top 50
-- [Taiwan Science Parks](/en/technology/science-park-development) — The production bases for the semiconductor seats of the Top 50 enterprises; a spatial version of the output concentration across three science parks
+- [Taiwan Industry Special](/industry/) — Mapping industrial structure with official statistics: 70 years of exports and GDP, science parks, factories by county/city, historical top 10 by market cap, plus six public debates with all sides represented
+- [Taiwan Enterprises: TSMC](/en/economy/tsmc) — Top 50 #1, the single company occupying 31.51% of the weighted index
+- [Taiwan SMEs and Hidden Champions](/en/economy/taiwan-smes-and-hidden-champions) — Beyond I-Mei and Hotai, the invisible 30% of the economic structure
+- [Taiwan Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — From ITRI to 2 nm, the source of the Top 50's 11 semiconductor seats
+- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — Weighted index, market cap rankings, institutional investor structure
+- [Taiwan National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — Silicon shield and the Top 50's geopolitical linkages
+- [Taiwan Science Parks](/en/technology/science-park-development) — Production base for the Top 50's semiconductor seats, the spatial version of three parks' output concentration
 
 ## Image Sources
 

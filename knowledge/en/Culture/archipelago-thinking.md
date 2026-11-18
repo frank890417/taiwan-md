@@ -2,9 +2,7 @@
 title: 'Archipelago Thinking: Placing Taiwan Back on the Map of the Malay World'
 description: 'Taiwan is not only an isolated island on the margins of China; it is also the northeastern edge of the Malay world, the homeland of Austronesian languages, and the starting point of Pacific dispersal. Rotate the map 30 degrees southward, and you will see another coordinate system that is entirely valid yet long overlooked.'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '文化地理'
 tags:
   [
     'Archipelago',
@@ -14,31 +12,37 @@ tags:
     'Indigenous Peoples',
     'Cultural Geography',
   ]
+subcategory: '文化地理'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: true
-translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '0c0b1668'
-sourceContentHash: 'sha256:69f8f034dcafc5a6'
-sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
-translatedAt: '2026-05-17T05:06:52+08:00'
+researchReport: 'reports/research/2026-05/群島思維.md'
 image: '/article-images/culture/austronesian-migration-map.webp'
 imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).svg'
+viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/群島思維.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:da7a8eb43a26882e'
+sourceBodyHash: 'sha256:3ca31f4ebc8ab851'
+translatedAt: '2026-11-18T19:25:39.620890+00:00'
 ---
 
-> **30-second overview:** Spread out a map of Taiwan, and most people see a small island on the edge of the Chinese mainland. But rotate the map clockwise by 30 degrees, then extend your view southward, and you will see another map that is just as valid: Taiwan is also the northeastern edge of the Malay world (Nusantara), the linguistic homeland of 400 million Austronesian speakers, and the starting point of Pacific dispersal history. A jade slit-ring earring made from stone quarried in Fengtian, Hualien had already appeared 3,500 years ago in archaeological sites in Batanes, Luzon, Vietnam, and Thailand. Linguist Robert Blust inferred from lexical diversity that nine of the ten primary branches of Austronesian are in Taiwan. The language spoken by the Tao people of Orchid Island shares about 60% intelligibility with Ivatan in Batanes. What this article aims to do is restore another overlooked map, so that Taiwan can be seen more truthfully through both maps together.
+> **30-Second Overview:** Spread out a map of Taiwan, and most people see a small island on the edge of mainland China. But if you rotate the map 30 degrees clockwise and extend it southward, you will see another equally valid map: Taiwan is simultaneously the northeastern tip of the _Nusantara_ (Malay world), the linguistic homeland of 400 million Austronesian speakers, and the starting point of Pacific expansion history. A jade ring collected from Fengtian, Hualien, appeared in archaeological sites in Batan, Luzon, Vietnam, and Thailand 3,500 years ago. Linguist Robert Blust deduced from lexical diversity that nine of the ten major Austronesian branches are located in Taiwan. The language spoken by the Tao people of Orchid Island shares a 60% similarity with the _Ivatan_ of Batan. This article aims to restore the missing map, allowing both maps to reveal the true Taiwan together.
 
-Open Google Maps and rotate Taiwan 30 degrees southward. Let the Bashi Channel face downward, let the ridge of the Central Mountain Range point toward the northern tip of Luzon, and let Taroko in Hualien line up with the Batanes Islands of the Philippines.
+Open Google Maps and rotate Taiwan 30 degrees southward. Let the Bashi Channel face downward, let the ridgeline of the Central Mountain Range point toward the northern tip of Luzon, and align Taroko in Hualien with the Batan Islands in the Philippines.
 
-What you see then is not a small island beside the eastern rim of the Chinese mainland, but the northernmost node in a chain of islands. To the south: Orchid Island, Batanes, Luzon, Palawan, Borneo, Java, Sumatra, extending all the way to Madagascar. To the east: the Ryukyus, Kyushu, and the Kuril Islands. To the southeast: Micronesia and Polynesia, reaching as far as Easter Island. From this orientation, Taiwan is one endpoint of an island world spanning half the globe, not the periphery of any continent.
+What you see now is not a small island clinging to the eastern edge of mainland China, but rather the northernmost jewel in a chain of islands. To the south lie Orchid Island, Batan, Luzon, Palawan, Borneo, Java, Sumatra, extending all the way to Madagascar; to the east lie Ryukyu, Kyushu, and the Thousand Islands; to the southeast lie Micronesia and Polynesia, reaching as far as Easter Island. From this perspective, Taiwan is an endpoint of an island world spanning half the globe, rather than a periphery of any continent.
 
-3,500 years ago, a piece of Taiwanese nephrite quarried in Fengtian, Hualien was cut and polished by artisans of the Beinan culture into a slit-ring earring. It moved south along branches of the Kuroshio Current, eventually reaching a settlement at the northern tip of Luzon, and finally appeared in a site that 21st-century archaeologists would name “Nagsabaran”[^1]. The same jade material has been excavated from prehistoric burials in Vietnam, Thailand, and the Malay Peninsula. After isotope analysis, archaeologists determined that these jade materials came from the same vein: Fengtian, Hualien.
+3,500 years ago, a piece of Taiwan nephrite jade collected from Fengtian, Hualien, was cut and polished by Beinan culture artisans into ring-shaped earrings. Following the currents of the Kuroshio, it traveled south to reach a settlement at the northern tip of Luzon, eventually appearing in a site that 21st-century archaeologists named "Nagsabaran"[^1]. The same jade material has been successively unearthed from prehistoric burials in Vietnam, Thailand, and the Malay Peninsula. After conducting isotope analysis, archaeologists concluded that these jade materials originated from the same mineral vein: Fengtian, Hualien.
 
-In other words: 2,000 years before the Chinese framework reached this island, the island was already a center of a trade network spanning the South China Sea.
+In other words: 2,000 years before the Sinocentric framework reached this island, this island was already a center of a trade network spanning the South China Sea.
 
-This is not to deny Taiwan’s Chinese roots. Since Qing rule began in 1683, Han migration has shaped language, lineage, belief, and foodways, and these are indeed the thickest layer of contemporary life on this island. But beneath that layer are several earlier ones. Another map long obscured by the Chinese framework, the **Nusantara map, the archipelago map**, is what this article attempts to restore.
+This is not intended to deny Taiwan's Chinese origins. The language, clans, beliefs, and cuisine shaped by Han Chinese migration since the Qing administration in 1683 indeed constitute the thickest contemporary layer of this island's foundation. However, beneath this layer lie several even earlier ones. This article attempts to restore the other map that has long been obscured by the Sinocentric framework: **the _Nusantara_ map, the Archipelago map**.
 
 ## The Journey of a Jade Artifact: From Hualien to Luzon
 
@@ -90,19 +94,19 @@ Four independent paths, linguistic diversity, archaeological material culture, B
 >
 > This debate reflects the methodological limits of prehistory more than the collapse of the conclusion itself. Even if Richards’s revision is accepted, the linguistic conclusion that “Austronesian branched out from Taiwan” has not been shaken. The truly open question is whether people moved along with the languages.
 
-## Nusantara: A 14th-Century Word, A Map of the Archipelago
+## Nusantara: A 14th-Century Term and a Map of the Archipelago
 
-To understand “archipelago thinking,” one must first understand a word: **Nusantara**.
+To understand "archipelagic thinking," one must first understand a single word: **Nusantara**.
 
-The word consists of two roots. **Nusa** comes from Old Javanese and means “island”; traced further back, it derives from Proto-Malayo-Polynesian \*nusa, a word of Austronesian ancestors. That is to say, the cognate concept of “island” found in Taiwan’s Indigenous languages remains alive across Austronesian languages. **Antara** is a loanword from Sanskrit meaning “between” or “intermediary.” Together, Nusantara means **“the islands between,” “the archipelago scattered between the inner and outer worlds”**[^13].
+This term is composed of two roots. **Nusa** originates from Old Javanese, meaning "island"; tracing it back further, it stems from the Proto-Malayo-Polynesian _\*nusa_. This is an ancestral Austronesian word, meaning that the concept of "island" found in Taiwan Indigenous languages lives on in every Austronesian language. **Antara** is a loanword from Sanskrit, meaning "between" or "intermediate." Combined, Nusantara = **"the islands in between" or "the archipelago scattered between [the inner and outer realms]"**[^13].
 
-The word first appeared in the 14th-century Javanese texts _Pararaton_ and _Nagarakretagama_. In 1336, **Gajah Mada**, prime minister of the **Majapahit Empire** in East Java, delivered the famous **Palapa Oath** (_Sumpah Palapa_) at his inauguration: “I will not taste spice-laden food until I have conquered all of Nusantara”[^14].
+The term first appeared in 14th-century Javanese historical texts, the _Pararaton_ and _Nagarakretagama_. In 1336, **Gajah Mada**, the Prime Minister of the East Javanese **Majapahit Empire**, made his famous "**Palapa Oath**" (_Sumpah Palapa_) during an inauguration ceremony: "Until I conquer all of Nusantara, I shall not partake in spiced food"[^14].
 
-At the time, Nusantara referred to **the outer islands beyond Java**: Sumatra, Borneo, Sulawesi, the Malay Peninsula, and even as far as Luzon. Contemporary Indonesia still uses the term to refer to the archipelago itself. In 2022, Indonesia announced the relocation of its capital, and the new capital was named **Nusantara**[^15].
+At that time, Nusantara referred to the **peripheral islands outside of Java**: Sumatra, Borneo, Sulawesi, the Malay Peninsula, and even as far as Luzon. Contemporary Indonesia still uses this term to refer to the archipelago itself: when Indonesia announced its capital relocation in 2022, the name of the new capital was set as **Nusantara**[^15].
 
-But the way Nusantara is used in this article differs from the territorial imagination of Indonesian nationalism. What we borrow is the term’s **cultural-geographical meaning before the modern nation-state**: a world spanning the South China Sea and western Pacific, composed of more than 24,000 islands, where people, objects, languages, and beliefs moved more frequently between islands than between land and island.
+However, the usage of Nusantara in this article differs from the territorial imaginings of Indonesian nationalists. We are borrowing the term's **cultural-geographical meaning that predates the modern nation-state**: a world spanning the South China Sea and the Western Pacific composed of over 24,000 islands, where the flow of people, goods, languages, and beliefs between islands is more frequent than the movement between landmasses and islands.
 
-Spread out this map, and Taiwan is not at the periphery. It is the **northeastern edge**.
+When this map is spread out, Taiwan's position is not on the periphery; it is at the **northeastern edge**.
 
 ## Orchid Island as Living Evidence: Two Peoples with 60% Shared Intelligibility
 
@@ -242,54 +246,54 @@ The next time someone asks you “where does Taiwan really belong,” you can an
 
 ## References
 
-[^1]: [The Mystery of Taiwan’s Prehistoric Culture: Taiwan Jade That Traveled Thousands of Years and Thousands of Miles](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — A Ministry of Science and Technology SciTechVista article documenting how Fengtian jade from Hualien circulated through transoceanic trade to prehistoric sites in Luzon, Palawan, Vietnam, Cambodia, and Thailand.
+[^1]: [The Mysteries of Taiwan's Prehistoric Culture: Taiwan Jade Spanning Thousands of Years and Miles](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — A feature article from MOST Science (Ministry of Science and Technology), documenting how Fengtian jade from Hualien circulated through maritime trade to prehistoric sites in Luzon, Palawan, Vietnam, Cambodia, and Thailand.
 
-[^2]: [Beinan Site](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipedia entry on the Beinan Site, documenting the prehistoric settlement accidentally discovered during South-Link Railway construction in 1980, dated to 5,300-2,300 years before present.
+[^2]: [Beinan Site](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipedia entry for the Beinan Site, recording a prehistoric settlement accidentally discovered during the construction of the South Link Line railway in 1980, dating back 5,300–2,300 years.
 
-[^3]: [New Highlight at the Beinan Site Exhibition: “Maritime Trade of Taiwan Jade” Sets Sail](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — A 2024 Ministry of Culture press release announcing the launch of the new “Maritime Trade of Taiwan Jade” exhibition unit at Beinan Site Park.
+[^3]: [New Highlights at Beinan Site Exhibition: 'Maritime Trade of Taiwan Jade' Sets Sail](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — A 2024 press release from the Ministry of Culture announcing the launch of a new exhibition unit titled 'Maritime Trade of Taiwan Jade' at the Beinan Site Park.
 
-[^4]: [“Taiwan Jade” Exported Overseas](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — A SciTechVista article detailing the prehistoric jade workshop clusters and production techniques excavated at the Cigan Site in Hualien.
+[^4]: ['Taiwan Jade' Exported Overseas](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — A feature article from MOST Science, detailing the prehistoric jade workshops and production techniques unearthed at the Cigan site in Hualien.
 
-[^5]: Bellwood, Peter, & Dizon, Eusebio. (2005). [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33). _Journal of Austronesian Studies_, 1(1), 1-33. — Results of the 2002-2005 archaeological project conducted by the Australian National University, the National Museum of the Philippines, and the University of the Philippines.
+[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Results from an archaeological project conducted between 2002 and 2005 through a collaboration between the Australian National University, the National Museum of the Philippines, and the University of the Philippines.
 
-[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — The strong similarity between Lapita pottery and pottery from the Nagsabaran Site in Luzon is one form of material-cultural evidence for the “Out of Taiwan” hypothesis.
+[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — The high similarity between Lapita pottery and pottery from the Nagsabaran site in Luzon serves as one piece of material culture evidence for the "Out of Taiwan" hypothesis.
 
-[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Britannica’s overview of the dispersal path of Lapita culture, dated from 1600 to 500 BCE.
+[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — An encyclopedic entry from Britannica regarding the dispersal routes of the Lapita culture (1600 BCE to 500 BCE).
 
-[^8]: Blust, Robert. (1984). [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content). _Asian Perspectives_, 26(1), 45-67. — Blust’s foundational paper establishing the linguistic basis for the “Out of Taiwan” hypothesis of Austronesian dispersal.
+[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — A seminal paper by Blust that established the linguistic foundation for the "Out of Taiwan" hypothesis regarding Austronesian peoples.
 
-[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — A 2022 Taiwan Insight interview in which Blust explains the logic behind the argument that nine of the ten primary branches of Austronesian are in Taiwan.
+[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — A 2022 interview by Taiwan Insight, where Blust personally explains the logical argumentation for why nine of the ten major Austronesian branches are located in Taiwan.
 
-[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Bellwood’s representative work systematically arguing for the “Out of Taiwan” hypothesis from the perspective of archaeological material culture.
+[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — A representative work by Bellwood systematically arguing the "Out of Taiwan" hypothesis from the perspective of archaeological material culture.
 
-[^11]: Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/). _Science_, 323(5913), 479-483. — A study using Bayesian phylogenetic methods to analyze 400 Austronesian languages and estimate dispersal from Taiwan at about 5,230 years ago.
+[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Using Bayesian phylogenetic methods to analyze 400 Austronesian languages, measuring the expansion from Taiwan to approximately 5,230 years ago.
 
-[^12]: [Plant DNA Records History: The Austronesian Migration History Told by Paper Mulberry](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — An Academia Sinica _Research for You_ interview introducing research by Chung Kuo-fang’s team using paper mulberry DNA to support the “Out of Taiwan” hypothesis from a biogeographical perspective.
+[^12]: [Plant DNA Records History! The Migration History of Austronesian Peoples via Broussonetia papyrifera](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — An interview from Academia Sinica's 'Research Matters,' introducing how Chung Kuo-fang's team uses the DNA of paper mulberry to support the "Out of Taiwan" hypothesis from a biogeographical perspective.
 
-[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — A detailed etymological account of Nusantara: Old Javanese _nusa_ (“island”) + the Sanskrit loanword _antara_ (“between”).
+[^13]: [Nusantara (term) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — A complete etymological study of Nusantara: Old Javanese _nusa_ (island) + Sanskrit loanword _antara_ (between).
 
-[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entry on the 14th-century Majapahit Empire of East Java, including the historical background of Gajah Mada’s 1336 “Palapa Oath.”
+[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Wikipedia entry for the 14th-century Majapahit Empire in East Java, including the historical background of Gajah Mada's "Palapa Oath" in 1336.
 
-[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — A report by Indonesia’s national news agency Antara on the evolution of the term Nusantara from a 14th-century territorial concept to the name of Indonesia’s new capital in 2022.
+[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — A report by the Indonesian news agency Antara on the evolution of the term Nusantara from a 14th-century territorial concept to the name of the new capital in 2022.
 
-[^16]: [Tao People - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Wikipedia entry on the Tao people, recording the approximately 60% lexical similarity between Tao and the language of northern Batanes residents.
+[^16]: [Yami people - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Wikipedia entry for the Yami people, recording approximately a 60% similarity between the Yami language and the languages of the residents of North Batan Island.
 
-[^17]: [The Story of Orchid Island and Batan Island](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — A special feature from the Indigenous Peoples Cultural Foundation documenting correspondences between jade artifacts, pottery jars, glass beads, and material culture excavated from Orchid Island and contemporaneous sites in Batanes.
+[^17]: [The Story of Lanyu and Batan Island](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — A special feature from the Indigenous Peoples Literature Association, documenting the material culture correspondence between jade, pottery, and glass beads excavated in Lanyu and contemporary sites in Batan.
 
-[^18]: [Tao Ancestors Buried in the Philippines a Thousand Years Ago; Descendants Travel to Batanes to Trace Their Footsteps](https://www.thenewslens.com/article/121265) — A _The News Lens_ report on repeated Tao visits to Batanes since the 1990s to search for ancestral roots.
+[^18]: [Yami Ancestors Died in the Philippines a Thousand Years Ago; Descendants Seek Their Footsteps in Batan Island](https://www.thenewslens.com/article/121265) — A report by The News Lens regarding the activities of Yami groups traveling to Batan to trace their roots since the 1990s.
 
-[^19]: [Austronesian Peoples - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Entry on Austronesian peoples, noting that Tao belongs to the Malayo-Polynesian branch and is more distantly related to the nine Formosan branches on Taiwan proper.
+[^19]: [Austronesian peoples - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Wikipedia entry for Austronesian peoples; the Yami language belongs to the Malayo-Polynesian branch, which is more distantly related to the nine Formosan branches on Taiwan mainland.
 
-[^20]: [Hermeneutics of Nusantara](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — _No Man’s Land_ (NML) Issue 34, September 2017, the editor’s note in which Cheng Wen-chi formally launched the Nusantara Archive project.
+[^20]: [Hermeneutics of Nusantara: Archipelago Interpretation](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Editorial notes by Cheng Wen-chi officially launching the "Archipelago Database" project in the 34th issue (September 2017) of No Man's Land (NML).
 
-[^21]: Cheng Wen-chi, “Hermeneutics of Nusantara Editor’s Note,” _No Man’s Land_ Issue 34, September 2017. See [No Man’s Land Issue 34 full archive](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/).
+[^21]: [Full Document of No Man's Land Issue 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Cheng Wen-chi, "Editorial Notes on Hermeneutics of Nusantara," _No Man's Land_, Issue 34, September 2017. See.
 
-[^22]: Khoo Gaik Cheng, “Okinawan Experience: The Relationship Between Intellectuals and the People,” quoted by Cheng Wen-chi in “Hermeneutics of Nusantara Editor’s Note,” _No Man’s Land_ Issue 34.
+[^22]: Wei Yue-ping, "The Okinawa Experience—The Relationship Between Intellectuals and the Public," cited by Cheng Wen-chi in "Editorial Notes on Hermeneutics of Nusantara," _No Man's Land_, Issue 34.
 
-[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Benedict Anderson’s memoir, which advances the methodological claim of “comparison as a discursive strategy,” quoted by Cheng Wen-chi in NML Issue 34.
+[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — An autobiography by Benedict Anderson proposing the methodological claim of "comparison as a discursive strategy," cited by Cheng Wen-chi in NML Issue 34.
 
-[^24]: [Taiwan’s Austronesian Peoples Diplomacy](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Introduction by National Dong Hwa University’s Center for International Indigenous Affairs to Taiwan’s participation in the Pacific Islands Forum (PIF) since 1993.
+[^24]: [Taiwan's Austronesian Diplomacy](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — An introduction from the International Affairs Center for Indigenous Peoples at National Dong Hwa University regarding Taiwan's participation in the Pacific Islands Forum (PIF) since 1993.
 
-[^25]: Ministry of Foreign Affairs, Republic of China, [Special Report on “Planning and Strategies for Using Integrated Diplomacy to Combine with Austronesian-Language Countries in Order to Advance the Vision of Values-Based Diplomacy”](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf), Foreign and National Defense Committee, 3rd Session of the 11th Legislative Yuan, May 7, 2025.
+[^25]: [Special Report: "Integrating Comprehensive Diplomacy Concepts with Austronesian-speaking Countries to Develop Planning and Strategies for a Value-based Diplomacy Vision"](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Ministry of Foreign Affairs, Republic of China, Foreign Affairs and National Defense Committee, 11th Legislative Yuan, 3rd Session, May 7, 2025.
 
-[^26]: [The National Museum of Prehistory Returns: Reorganizing Architectural Objects from a Curatorial Perspective](https://www.wowlavie.com/article/ae2300565) — A 2023 report by _La Vie_ magazine on the reopening of the National Museum of Prehistory’s Kang-le main building in May after architectural renovation.
+[^26]: [National Museum of Prehistoric Taiwan Returns! Reorganizing Architectural Objects from a Curatorial Perspective](https://www.wowlavie.com/article/ae2300565) — A 2023 report by La Vie magazine, noting that the Kangle Main Building of the prehistoric museum has completed its architectural reconstruction and reopened to the public in May.

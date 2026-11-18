@@ -1,154 +1,154 @@
 ---
-title: 'Zongzi (Rice Dumplings)'
-description: "Taiwan's zongzi is not a single food — it is four different island memories layered together: Hoklo, Hakka, mainlander, and indigenous. Every bite is a journey to where we came from."
+title: 'Zongzi'
+description: 'Taiwanese zongzi is not just one food, but four layers of island memory: Minnan, Hakka, Mainlander, and Indigenous. Every bite is a journey back home.'
 date: 2026-04-05
+category: 'Food'
 tags:
   [
     'Dragon Boat Festival',
-    'food culture',
-    'Hoklo',
+    'Food Culture',
+    'Minnan',
     'Hakka',
-    'mainlander',
-    'indigenous',
-    'festival food',
+    'Mainlander',
+    'Indigenous',
+    'Festival Food',
   ]
 subcategory: '節慶飲食'
 author: 'Taiwan.md'
 featured: true
-readingTime: 7
-category: Food
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-06-11T16:38:12Z'
+translatedAt: '2026-11-19T01:12:09+08:00'
 ---
 
-# Zongzi (Rice Dumplings)
+# Zongzi
 
 ## 30-Second Overview
 
-Taiwan's zongzi has no standard answer. Northern Taiwan steams them; Southern Taiwan boils them. Bamboo-sheath-wrapped and wild-ginger-leaf-wrapped are entirely different philosophies. The vegetarian zongzi that Tainan people eat for breakfast and the cinavu (奇那富) of Paiwan ritual ceremonies are both called "wrapped rice," but they share almost nothing in common. Every Dragon Boat Festival, the "North vs. South Zongzi War" is a fixture of Taiwan's internet — the fight is not about which is better, but about the version each person's mother or grandmother used to make.[^1]
+There is no standard answer for _zongzi_ (sticky rice dumplings) in Taiwan. In the north, they are steamed; in the south, they are boiled. The philosophy behind those wrapped in arrow bamboo husks versus those wrapped in cardamom leaves is entirely different. The vegetable _zongzi_ eaten for breakfast by Tainan locals and the _cinavu_ used in Paiwan ceremonies are both called "_zong_", yet they share almost no connection. Every year during the Dragon Boat Festival, the "North-South Zongzi War" is a staple of the Taiwanese internet—the debate isn't about which tastes better, but rather about which version belongs to everyone's memory of their mother or grandmother. [^1]
 
 ---
 
 ## One Festival, Four Memories
 
-In Taiwan, Dragon Boat Festival zongzi has never meant only "commemorating Qu Yuan."
+In Taiwan, Dragon Boat Festival _zongzi_ has never been just about "commemorating Qu Yuan."
 
-Taiwan is an island of migrants, and zongzi is a migrant index. During the Ming and Qing dynasties, Hoklo and eastern Cantonese migrants brought their hometown zongzi; after 1949, mainlanders who retreated to Taiwan with the government from Hunan, Zhejiang, and Guangdong brought still another set of completely different recipes. Before all of this, the Paiwan, Rukai, and Puyuma peoples of the mountains already had their own leaf-wrapped foods — not called zongzi, and unconnected to Dragon Boat Festival, belonging to a different, far older tradition.[^2]
+Taiwan is an island of immigrants, and _zongzi_ serves as an index of that migration. During the Ming and Qing dynasties, immigrants from the Minnan and eastern Guangdong regions brought their hometown recipes; after 1949, Mainlanders who arrived from Hunan, Zhejiang, and Guangdong following the government's retreat to Taiwan brought another set of entirely different methods. Even before this, the Paiwan, Rukai, and Bunun peoples in the mountains had long practiced wrapping food in leaves—not called _zongzi_, and unrelated to the Dragon Boat Festival, but representing an even older tradition. [^2]
 
-The zongzi you buy in Taiwan today stands on at least four different ethnic memories.
-
----
-
-## The Great Battle: What Are We Actually Fighting About?
-
-Every May, Taiwan's most intense online debate is not politics — it's zongzi.
-
-The core difference can be summed up in one rule: **South boils, North steams**.
-
-The Northern zongzi method: long-grain glutinous rice and fillings are first stir-fried until half-cooked — the concept is "stuffing an oil rice dish into bamboo leaves and steaming." The finished product has individual grains distinct and chewy, with the dry fragrance of bamboo leaves. Traditional wrapping uses bamboo shoot sheaths (桂竹筍殼) — light brown and slightly dry, abundant in the mountains of northern Taiwan.[^3]
-
-The Southern zongzi method is the opposite: raw round glutinous rice and fillings are wrapped together and put directly into boiling water to cook through. Because it soaks in the water, the rice absorbs the broth and the flavor of the bamboo leaves, resulting in a soft, moist, slightly sticky texture. The leaves used are long bamboo leaves, wrapped into a triangle.[^4]
-
-Neither method is right or wrong — it only depends on "which mother you had."
-
-> According to interviews, the preference difference between Northern and Southern zongzi mainly reflects "local identity," not ethnic background.[^5]
+The _zongzi_ you buy in Taiwan today stands behind at least four distinct collective memories.
 
 ---
 
-## Tainan's Vegetarian Zongzi: The Simplest Kind
+## The North-South War: What is the Real Conflict?
 
-If you go to Tainan, one breakfast option is the vegetarian zongzi (菜粽, _cài zòng_).
+Every May, the most heated discussions on the Taiwanese internet are not about politics, but about _zongzi_.
 
-No meat — just glutinous rice and peanuts, wrapped in wild ginger leaves (月桃葉, _Alpinia zerumbet_), boiled, dipped in soy paste, and sprinkled with peanut powder. The filling is extremely simple, but it is precisely that simplicity that draws people back: the faint clean fragrance that wild ginger leaves release during cooking is something bamboo leaves and bamboo sheaths simply cannot provide. Tainan people call this "cài zòng" — sometimes also "peanut zongzi" — and vegetarians can eat it too.
+The core difference can be summarized by one mnemonic: **Boiled in the South, Steamed in the North.**
 
-Minghe Vegetarian Zongzi (明和菜粽) in Zhongxi District, Tainan, opens for business every morning at 5:30 AM and sells out and closes in less than two hours — nicknamed "the sold-out vegetarian zongzi." Caizongzi Li (菜粽李), founded in 1946 and passed down through three generations, still uses pure white glutinous rice and peanuts, wrapped in four layers of wild ginger leaves by the original method.[^6]
+Northern _zongzi_ are made by stir-frying long-grain glutinous rice and fillings until half-cooked, a concept similar to "steaming oil rice inside bamboo leaves." The finished product features distinct, separate grains that are chewy and carry the dry fragrance of bamboo. Traditionally, arrow bamboo (_gui zhu_) husks are used—light brown and relatively dry, these are abundant in the mountainous regions of northern Taiwan and easy to source. [^3]
 
-No rare delicacies, no salted egg yolk and dried scallop. But in Tainan, this is what Dragon Boat Festival morning is supposed to be.
+Southern _zongzi_ follow the opposite method: raw round glutinous rice and fillings are wrapped together and boiled directly in a pot of water until cooked. Because they are submerged in water while cooking, the grains absorb the flavors of the broth and the leaves, resulting in a soft, moist, and slightly sticky texture. Long bamboo leaves are used, typically folded into triangular shapes. [^4]
+
+Neither method is right or wrong; it is simply a question of "which mother's recipe is yours."
+
+> According to interviews, the preference gap between Northern and Southern _zongzi_ primarily reflects "regional identity" rather than ethnic identity. [^5]
+
+---
+
+## Tainan's Vegetable Zongzi: The Simplest Kind
+
+If you visit Tainan, one of your breakfast options is vegetable _zongzi_.
+
+No meat is added—only glutinous rice and peanuts, wrapped in cardamom leaves (_yue tao ye_), boiled, dipped in sweet soy sauce, and sprinkled with peanut powder. The filling is extremely simple, but it is this very simplicity that is addictive: the faint fragrance released by the cardamom leaves after steaming is something bamboo or arrow bamboo husks cannot replicate. Tainan locals call this _cai zong_ (vegetable _zongzi_), sometimes also called "peanut _zongzi_," and it is suitable for vegetarians.
+
+The Minghe Vegetable _Zongzi_ in the West Central District of Tainan begins selling at 5:30 AM every morning and sells out in less than two hours, earning it the nickname "the sold-out vegetable _zongzi_." Established in 1946, the Li family has passed down their recipe through three generations, using pure white glutinous rice and peanuts, still employing a four-layer cardamom leaf wrapping method. [^6]
+
+There are no delicacies from mountain or sea, no salted egg yolks or dried scallops. But in Tainan, this is exactly how a Dragon Boat Festival morning should be.
 
 ---
 
 ## Mainlander Zongzi: The Shape of Nostalgia
 
-Before 1949, probably very few people in Taiwan had ever heard of "Huzhou zongzi" (湖州粽子).
+Before 1949, very few people in Taiwan had ever heard of "Huzhou _zongzi_."
 
-That year, the large contingent of military and civilian personnel who retreated with the government to Taiwan brought the flavors of Jiangnan into Taiwan's military dependents' villages (眷村). Huzhou zongzi is a four-cornered long rectangle, larger than regular zongzi, with pork belly and salted egg yolk wrapped into glutinous rice, flavored with soy sauce and white wine, with a sweet-savory Jiangnan profile. Cantonese zongzi is even more lavish: barbecued pork, salted egg yolk, dried shrimp, lotus seeds, sometimes with chestnuts.[^7]
+That year, the large number of military and civilians who moved to Taiwan with the government brought the flavors of Jiangnan into the military dependents' villages (_juancun_). Huzhou _zongzi_ are long and rectangular, larger than standard _zongzi_, filled with pork belly and salted egg yolk, and seasoned with soy sauce and white liquor, leaning toward a sweet-salty Jiangnan flavor profile. Cantonese _zongzi_ feature even more luxurious fillings: char siu, salted egg yolk, dried shrimp, and lotus seeds, sometimes with chestnuts. [^7]
 
-These zongzi were passed down generation by generation within the military villages. What began as attempts to recreate hometown flavors gradually became part of Taiwan's culinary landscape. Today, many shops in Taiwan operating under the name "Huzhou zongzi" or "Cantonese zongzi" are often run by second- or third-generation mainlanders, wrapping the memories their grandparents couldn't bring as luggage — but could bring as food.
+These _zongzi_ were passed down through generations within the villages. What began as attempts to recreate hometown flavors gradually became part of Taiwan's culinary landscape. Today, many shops in Taiwan named "Huzhou _zongzi_" or "Cantonese _zongzi_" are often run by second or third-generation Mainlanders, preserving the memories their grandparents could not carry with them, but brought over through food.
 
 ---
 
 ## Indigenous Leaf-Wrapped Foods: Unrelated to Dragon Boat Festival
 
-The Paiwan people's cinavu (奇那富), the Rukai and Puyuma peoples' abai (阿拜), look like zongzi on the outside — but they have nothing to do with Dragon Boat Festival.
+The Paiwan _cinavu_, and the Rukai and Bunun _abai_, look like _zongzi_ but have nothing to do with the Dragon Boat Festival.
 
-Traditionally, cinavu and abai appear at ceremonies, festivals, and family gatherings, representing reverence for heaven, earth, and gratitude to ancestors. The method: on wild ginger leaves, first lay a layer of false daisy leaves (假酸漿葉, _Nicandra physalodes_), place millet (or glutinous rice) and pork, wrap into a rectangle, and steam-cook. The thin false daisy leaves stick lightly to the rice, so after unwrapping the wild ginger leaf, you eat the inner leaves together — rich in fiber, said to aid digestion; the indigenous people say this is the wisdom of the ancestors.[^8]
+Traditionally, _cinavu_ and _abai_ appear during ceremonies, festivals, and family reunions, representing respect for heaven, earth, and ancestors. The method involves spreading a layer of _jia suan jiang_ (soapberry) leaves on cardamom leaves, adding millet (or glutinous rice) and pork, wrapping them into rectangles, and steaming them. The thin soapberry leaves stick to the rice; when the cardamom leaves are opened, the soapberry leaves are eaten along with it—rich in fiber and helpful for digestion, which tribespeople call ancestral wisdom. [^8]
 
-The Amis version is called alifongfong (阿里鳳鳳), colloquially known as "lover's zongzi" (情人粽) — not because it's eaten on Valentine's Day, but because this is the "bento of love" that wives wrapped for husbands heading out to hunt. Four pandanus leaves are woven into a bag after their thorns are removed, filled with glutinous rice and salt-cured pork, sealed — a food pack you can carry on your back.[^9]
+The Amis version is called _alifongfong_, colloquially known as "Lover's _Zongzi_"—not because they are eaten on Valentine's Day, but because they are "love lunchboxes" wrapped by wives for husbands heading out to hunt. Four pieces of _lin tou_ (screwpine) leaves are woven into a bag, filled with glutinous rice and salted pork, and sealed to create a rice parcel that can be carried on the back. [^9]
 
-The Taitung Agricultural Research and Extension Station has even held a "National A Bai Cuisine Competition" (全國A Bai風味餐競賽), inviting cooks from each village to bring their own village's treasured flavors to compete, called by some "the martial arts tournament of the abai world."[^10]
+The Taitung Agricultural Research Station even hosted a "National _A Bai_ Flavor Competition," where chefs from various tribes competed with their family's heirloom recipes, described by some as the "martial arts assembly of the _abai_ world." [^10]
 
 ---
 
-## How Many Zongzi Does Taiwan Sell Every Dragon Boat Festival?
+## How Many Zongzi are Sold in Taiwan Every Dragon Boat Festival?
 
-The Taipei Agricultural Products Marketing Corporation (北農, Taipei Produce) is the market bellwether for Dragon Boat Festival zongzi every year.
+The annual Dragon Boat Festival sales from the Taipei Agricultural Products Marketing Corporation (TAPMC) serve as a market bellwether.
 
-On April 28, 2025, before Dragon Boat Festival had even arrived, Taipei Produce's Dragon Boat Festival zongzi sales had already exceeded 190,000 pieces, breaking the 2024 record of 165,000, with a target of 210,000 and an estimated 30% year-over-year growth rate. Taipei Produce also partnered with a live-streaming event that day, selling 14,000 pieces in under an hour with 550,000 viewers.[^11]
+On April 28, 2025, even before the festival arrived, TAPMC's _zongzi_ sales had already surpassed 190,000 units, breaking the 2024 record of 165,000 units. The target is 210,000 units, with an estimated annual growth rate of approximately 30%. TAPMC also collaborated with a live stream on that day, selling 14,000 units in less than an hour to 550,000 viewers. [^11]
 
-Another angle: the discussion volume of "zongzi" on social media reached 223,000 posts during the 2023 Dragon Boat Festival season, then fell to 165,000 in 2025; researchers point to one reason being the emergence of innovative flavors like "ice zongzi" that dispersed the conversation.[^12]
+From another perspective: the volume of discussion regarding "_zongzi_" on social media reached 223,000 posts during the 2023 Dragon Boat season, but dropped to 165,000 in 2025. Researchers suggest one reason is the emergence of innovative flavors like "ice _zongzi_," which has fragmented the discussion. [^12]
 
-Zongzi remains Taiwan's Dragon Boat Festival symbol, but its boundaries are expanding — from traditional meat zongzi to hotel premium editions, from vegetarian vegetable zongzi to matcha ice cream zongzi; every generation is redefining "what a zongzi should be."
+_Zongzi_ remains a symbol of the Dragon Boat Festival in Taiwan, but its boundaries are expanding—from traditional meat _zongzi_ to boutique hotel versions, and from vegetarian vegetable _zongzi_ to matcha ice _zongzi_. Every generation is redefining "what _zongzi_ should be."
 
 ---
 
 ## Why This Matters
 
-Taiwan's zongzi debate looks on the surface like a taste argument, but at its core it is a microcosm of identity.
+The debate over _zongzi_ in Taiwan is, on the surface, a dispute over taste, but at its core, it is a microcosm of identity.
 
-The reason you think "zongzi should look like this" is that in the kitchen where you grew up, someone spread bamboo leaves on the table on Dragon Boat Festival day and shaped the rice into that form with their hands. That gesture, that fragrance — that is your coordinate.
+You feel that "_zongzi should be_" a certain way because, in the kitchen where you grew up, someone laid out bamboo leaves on the table and used their hands to shape the rice into that specific form. That movement, that aroma—that is your coordinate.
 
-Northern zongzi, southern zongzi, Hakka zongzi, mainlander zongzi, vegetarian zongzi, millet zongzi — not one is "more Taiwanese" than the others; every one of them is an island story that really happened.
+Northern _zongzi_, Southern _zongzi_, Hakka _zongzi_, Mainlander _zongzi_, vegetable _zongzi_, millet _zongzi_—it is not a matter of which one is "more Taiwanese," but rather that each one is a real story from this island.
 
-It's just that nobody wants to lose the argument.
+It's just that no one is willing to lose.
 
 ---
 
 ## Further Reading
 
-- [Is the Dragon Boat Festival zongzi you eat Southern or Northern? (Cuisine Taiwan)](https://ryoritaiwan.fcdc.org.tw/columns/175) — Interviews with Taiwanese mothers on North-South zongzi differences
-- [Taitung Tribal Zongzi: A Bai, Cinavu, and DoReMi (Vocus)](https://vocus.cc/article/60ff6237fd89780001bd966c) — Detailed guide to Paiwan, Rukai, and Puyuma leaf-wrapped foods
-- [Tainan Old-Style Vegetarian Zongzi — Caizongzi Li](http://www.caizongli.com/) — Founded 1946, three-generation heritage Tainan vegetarian zongzi
-- [Every Bite Has a Story: Chewing on Taiwan Zongzi's Cultural History](https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/) — A guide to the historical and cultural context of Taiwan zongzi
+- [Do you eat Southern or Northern zongzi for Dragon Boat Festival? (Cooking · Taiwan)](https://ryoritaiwan.fcdc.org.tw/columns/175) — Interviews with Taiwanese mothers on the differences between North and South.
+- [Tribal Zongzi of Taitung: A-Be, Qi-Na-Fu, and DoReMi (Piak-Gue)](https://vocus.cc/article/60ff6237fd89780001bd966c) — Detailed explanation of leaf-wrapped foods from Paiwan, Rukai, and Bunun tribes.
+- [Tainan's Traditional Vegetable Zongzi Li Shop](http://www.caizongli.com/) — Established in 1946, a three-generation Tainan vegetable _zongzi_ specialist.
+- [Is every bite meaningful? Chewing through the cultural stories of Taiwanese zongzi](https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/) — A survey of the historical and cultural context of Taiwanese _zongzi_.
 
 ---
 
-[^1]: Shih Kuan-yu, "The Differentiation and Transformation of Festival Foods: The Development of Zongzi in Taiwan as an Example," National Taiwan University, 2015. https://tdr.lib.ntu.edu.tw/bitstream/123456789/4907/1/ntu-104-1.pdf
+[^1]: Shih Kuan-yu, "Differentiation and Transformation of Festival Foods: Taking the Development of Taiwan's Zongzi as an Example," National Taiwan University, 2015. https://tdr.lib.ntu.edu.tw/bitstream/123456789/4907/1/ntu-104-1.pdf
 
-[^2]: "Every Bite Has a Story: Chewing on Taiwan Zongzi's Cultural History": "The earliest were Hoklo and Cantonese migrants from Mainland China during the Ming and Qing dynasties who brought zongzi to Taiwan... After 1949, with the large-scale migration of military personnel and civilians to Taiwan, mainlander zongzi also arrived." https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/
+[^2]: "Is every bite meaningful? Chewing through the cultural stories of Taiwanese zongzi": "It likely began with Minnan and Cantonese immigrants from mainland China during the Ming and Qing dynasties bringing _zongzi_ to Taiwan... After 1949, a large number of military and civilians moved to Taiwan, and Mainlander _zongzi_ followed." https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/
 
-[^3]: "Dragon Boat Festival Southern and Northern Zongzi — How to Tell Them Apart?", i-Meifoods: "Traditional Northern zongzi uses 'bamboo shoot sheaths' (桂竹筍殼), light-colored and dry, steaming imparts a gentle fragrance." https://imec.imeifoods.com.tw/blogs/news/132722
+[^3]: "How to distinguish between Southern and Northern zongzi for Dragon Boat Festival?", iFood: "Traditional Northern _zongzi_ use 'arrow bamboo husks,' which are whitish and dry; when steamed, the aroma is gentle and warm." https://imec.imeifoods.com.tw/blogs/news/132722
 
-[^4]: "How to Tell Northern and Southern Zongzi Apart? It's Not Just the Steaming vs. Boiling Method — Even the Leaves and Fillings Are Different," Liberty Times Food Section. https://food.ltn.com.tw/article/7405
+[^4]: "How to tell Northern vs. Southern zongzi apart? It's not just steaming vs. boiling; everything from leaves to ingredients is different," Liberty Times Food Section. https://food.ltn.com.tw/article/7405
 
-[^5]: Huang Mu-chieh (quoted); Cuisine Taiwan interview compilation: "Based on interview content, the differences in zongzi preparation among these mothers mainly reflect whether the process is Northern or Southern style, rather than ethnic background. The preference for these zongzi types shows a clear 'local' identity difference among Taiwanese people." https://ryoritaiwan.fcdc.org.tw/columns/175
+[^5]: Huang Mu-chieh (cited); compiled from Cooking · Taiwan interviews: "Based on the interviews, the differences in how these mothers wrap _zongzi_ are mostly variations in the production process of Northern or Southern styles, rather than ethnic differences. The preferences for these differences reveal clear regional identity distinctions among Taiwanese people." https://ryoritaiwan.fcdc.org.tw/columns/175
 
-[^6]: Minghe Vegetarian Zongzi official information: opens 5:30 AM daily, sells out in two hours. Caizongzi Li website: "Founded in 1946, passed down through three generations, using pure white glutinous rice and peanuts, wrapped in fine white leaves." http://www.caizongli.com/
+[^6]: Official information for Minghe Vegetable Zongzi: Starts selling at 5:30 AM daily, sells out within two hours. Vegetable Zongzi Li official website: "Since its establishment in 1946, through three generations of inheritance, we select pure white glutinous rice and peanuts, paired with delicate white leaves." http://www.caizongli.com/
 
-[^7]: "Historical Trivia: Taiwan's Mainlander Zongzi," Merit Times (People's Daily), May 29, 2025: "After relocating to Taiwan in 1949, many mainlanders who came with the government also brought the flavors of their hometowns to Taiwan. Among the more famous ones are probably Huzhou zongzi and Cantonese zongzi." https://nie.merit-times.com.tw/newsdetail_tw.php?id=10877
+[^7]: "Historical Trivia: Taiwan's Mainlander Zongzi," Human Blessing, May 29, 2025: "After the move to Taiwan in 1949, many Mainlanders who came with the government also brought the flavors of their original homes to Taiwan. Among them, the most famous are likely Huzhou _zongzi_ and Cantonese _zongzi_." https://nie.merit-times.com.tw/newsdetail_tw.php?id=10877
 
-[^8]: "Taitung Tribal Zongzi: A Bai, Cinavu, and DoReMi," Vocus, July 2021: "Traditionally cinavu and abai often appear at ceremonies, festivals, and family gatherings, representing reverence for heaven, earth, and gratitude to ancestors. ... The thin false daisy leaves with the glutinous rice or millet zongzi are eaten together, imparting a faint fresh fragrance; they also add fiber and can aid digestion and relieve bloating." https://vocus.cc/article/60ff6237fd89780001bd966c
+[^8]: "Tribal Zongzi of Taitung: A-Be, Qi-Na-Fu, and DoReMi," Piak-Gue, July 2021: "Traditionally, _cinavu_ and _abai_ often appear during ceremonies, festivals, and family reunions, representing respect for heaven, earth, and ancestors. ... The thin soapberry leaves wrap the glutinous rice and millet together; eating them together provides a faint fragrance, increases fiber, and has the effect of aiding digestion and relieving bloating." https://vocus.cc/article/60ff6237fd89780001bd966c
 
-[^9]: "Alifongfong (Amis Lover's Zongzi)," Indigenous Peoples Cultural Encyclopedia, Agriharvest: "Alifongfong is woven from four pandanus leaves; pandanus leaves have thorns that must be removed along with the leaf spine before use." https://www.agriharvest.tw/archives/57144/
+[^9]: "Alifongfong (Amis Lover's Zongzi)," Indigenous Culture Encyclopedia, Agricultural Media: "_alifongfong_ is woven from four pieces of screwpine leaves; screwpine leaves have thorns, so the thorns and leaf stalks must be removed before use." https://www.agriharvest.tw/archives/57144/
 
-[^10]: Same as [^8]: "The Taitung Agricultural Research and Extension Station even held a 'National A Bai Cuisine Competition,' inviting cooks from various locations who make abai and cinavu to bring out their villages' treasured flavors for a competition — dubbed the 'martial arts tournament of the abai world.'"
+[^10]: See [^8]: "The Taitung Agricultural Research Station even hosted a 'National _A Bai_ Flavor Competition,' inviting chefs from various regions who make _abai_ and _cinavu_ to compete with their tribes' heirloom flavors, essentially an assembly of the _abai_ martial arts world."
 
-[^11]: Storm.mg, "Taipei Produce Dragon Boat Festival Zongzi Surge Breaks 190,000 Pieces, Historic High," April 28, 2025: "As of today (the 28th), Taipei Produce Dragon Boat Festival zongzi sales have already exceeded 190,000 pieces, surpassing last year's 165,000 pieces, heading toward the 210,000 piece target, estimated growth of 30%!" https://www.storm.mg/article/5364523
+[^11]: Windup Media, "TAPMC Dragon Boat Zongzi Sales Surge, Breaking Records at 190,000 Units," April 28, 2025: "As of today (the 28th), TAPMC's Dragon Boat _zongzi_ sales have exceeded 190,000 units, surpassing last year's 165,000 and moving toward a goal of 210,000, with an expected growth of up to 30%!" https://www.storm.mg/article/5364523
 
-[^12]: Cursit, "From 223,000 to 165,000: Why Is Dragon Boat Zongzi Discussion Volume at a New Low?", May 28, 2025. https://cursit.com/csresearch-20250528-2
+[^12]: Shiju, "From 223,000 to 165,000: Why has the volume of Dragon Boat _zongzi_ discussion hit a new low?", May 28, 2025. https://cursit.com/csresearch-20250528-2

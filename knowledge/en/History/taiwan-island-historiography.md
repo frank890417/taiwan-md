@@ -1,6 +1,6 @@
 ---
-title: 'Island Historiography of Taiwan: How a Repeatedly Governed Island Invented Its Own Subjectivity'
-description: 'The "Taiwanese Island Historiography" (臺灣島史觀) reclaims Taiwan from the timelines of external regimes, asking instead how people on this island lived, migrated, were governed, survived, and reconstructed their memories. It does not portray Taiwan as a uniquely special island by birth, but reminds us that identity grows out of shared living, shared suffering, and shared burdens; the protagonists of Taiwanese history should not always be merely the regimes that passed through.'
+title: 'Taiwan Island Historiography: How an Island Repeatedly Ruled Invented Its Own Subjectivity'
+description: 'Taiwan Island Historiography reclaims Taiwan from the chronologies of external regimes, shifting the focus to how the people on this island lived, migrated, were ruled, survived, and reconstructed their memories. It does not frame Taiwan as an inherently special island, but rather reminds us that identity grows from shared living, shared wounds, and shared responsibilities; the protagonists of Taiwanese history should not always be merely the regimes that passed through.'
 date: 2026-07-10
 category: 'History'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Island',
     'Historiography',
     'Tsao Yung-ho',
-    'Maritime',
+    'Ocean',
     'Taiwan History',
   ]
 subcategory: '史觀與方法論'
@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-28T19:24:14+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T19:38:19.764985+00:00'
 ---
 
 > **30-Second Overview:** If we only ask "Who has ruled Taiwan?", Taiwanese history becomes a mere roster of regime transitions: the Dutch, the Spanish, Koxinga's forces, the Qing Empire, the Empire of Japan, and the Republic of China. The "Taiwanese Island Historiography" (臺灣島史觀) reframes the question: Amidst the coming and going of these regimes, what happened to the people on this island? How did they migrate, trade, be governed, resist, love, endure disasters, and reconstruct—ultimately turning foreign systems and multiple memories into their own way of life? In 1990, historian Tsao Yung-ho (曹永和) proposed the concept of "Taiwan Island History." Since then, scholars, museums, education, and public culture have transformed it into a more common intuition: identity stems not only from lineage or a motherland but also from the experience of living and surviving on the same island. [^1][^2]
@@ -163,9 +165,9 @@ This is where Taiwanese Island Historiography is most useful for general readers
 
 ## Image Sources
 
-- Hero: 1640 map of Formosa by Dutch, Wikimedia Commons, Public Domain. Original file: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- 1880 Taiwan map: Stanford's / Library of Congress, Wikimedia Commons, Public Domain. Original file: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
-- National Museum of Taiwan History exterior: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Original file: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
+- Hero: 1640 Dutch map of Formosa, Wikimedia Commons, public domain. Original file: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- 1880 Map of Taiwan: Stanford's／Library of Congress, Wikimedia Commons, public domain. Original file: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
+- Exterior of the National Museum of Taiwan History: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Original file: [National Museum of Taiwan History 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## References
 

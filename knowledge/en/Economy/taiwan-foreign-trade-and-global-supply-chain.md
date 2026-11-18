@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:34+08:00'
+translatedAt: '2026-11-18T19:44:11.706937+00:00'
 ---
 
 # Taiwan's Foreign Trade and Global Supply Chains
@@ -286,7 +288,9 @@ Supply chain restructuring brings not only risks: Taiwan's concentrated advantag
 
 ## Further Reading
 
+- [Taiwan Industry Features](/industry/) — Mapping industrial structure with official statistics: 70 years of exports and GDP, science parks, factories by county and city, historical top-10 market cap companies, plus perspectives on six public debates
+- [Supply Chain Map](/industry/supply-chain-map/) — Three chains — semiconductors, AI servers, tungsten — link by link: which companies are in Taiwan, which links rely on overseas
 - [Taiwan SMEs and Hidden Champions](/en/economy/taiwan-smes-and-hidden-champions)
 - [Taiwan Agriculture and Rural Regeneration](/en/economy/taiwan-agriculture-and-rural-revitalization)
 - [Startup Ecosystem](/en/economy/taiwan-startup-ecosystem-overview)
-- [Taiwan Enterprises: Foxconn](/en/economy/foxconn-precision-industry) — 900,000 people across 24 countries, the largest experimental field for Taiwan manufacturing's cross-border governance
+- [Taiwan Enterprise: Foxconn](/en/economy/foxconn-precision-industry) — Global footprint across 24 countries with 900,000 people — the largest laboratory for cross-border governance in Taiwan's manufacturing sector
