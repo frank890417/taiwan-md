@@ -37,11 +37,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'da67ec6fe'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c62b916ed21bb09b'
 sourceBodyHash: 'sha256:f87da2052ad611fa'
-translatedAt: '2026-10-03T16:54:32.243456+00:00'
+translatedAt: '2026-11-18T11:39:13.789386+00:00'
 ---
 
 > **30 detik ringkasan:** Eswatini (disingkatkan dari "Swaziland" pada 2018) adalah satu-satunya negara sekutu Taiwan di Afrika, yang membentuk hubungan diplomatik dengan Republik Tiongkok (Taiwan) pada September 1968 dan akan mencapai 58 tahun hubungan pada 2026. Raja Mswati III lahir pada April 1968, lima bulan sebelum kemerdekaan negaranya dan pembentukan hubungan diplomatik dengan Taiwan; hidupnya hampir sejalan dengan sejarah hubungan diplomatik Taiwan. Hingga 2024, ia telah mengunjungi Taiwan lebih dari 17 kali[^1]. Setelah Burkina Faso memutuskan hubungan diplomatik dengan Taiwan pada Mei 2018, Eswatini menjadi satu-satunya negara sekutu Taiwan di Afrika[^12]. Pada 2 Mei 2026, Lai Ching-te mengunjungi Eswatini; rencananya berangkat pada 22 April namun izin penerbangannya dicabut secara mendadak oleh Seychelles, Maldives, dan Madagaskar di bawah tekanan Tiongkok. Mswati kemudian mengirimkan pesawat Airbus A340 milik negaranya untuk menjemput Wakil Perdana Menteri Thulisile Dladla di Taipei dan mengantarkannya ke Mbabane[^3]. Pada 1 Mei 2026, Tiongkok memberikan tarif nol persen untuk 98% komoditas kepada 53 negara Afrika, kecuali Eswatini[^4]. Variabel terbesar dalam jalur diplomasi ini adalah apakah pengganti Mswati yang berikutnya dapat meyakinkan generasi yang 56% penganggurannya tidak terus memandang Taiwan sebagai teman (lebih sulit dijawab daripada berapa banyak uang yang ditawarkan oleh "Tiongkok").
