@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T05:49:59.189512+00:00'
+translatedAt: '2026-11-18T16:31:29.057548+00:00'
 ---
 
 # Ekspor-Impor Taiwan dan Rantai Pasokan Global
@@ -268,10 +270,12 @@ Reorganisasi rantai pasokan tidak hanya membawa risiko: keunggulan konsentrasi T
 
 ## Bacaan Lanjutan
 
-- [UKM Taiwan dan Hidden Champions](/id/economy/taiwan-smes-and-hidden-champions)
-- [Pertanian Taiwan dan Regenerasi Pedesaan](/id/economy/taiwan-agriculture-and-rural-revitalization)
+- [Topik Industri Taiwan](/industry/) — Menggambarkan struktur industri menggunakan statistik resmi: ekspor dan PDB selama tujuh puluh tahun, kawasan sains, pabrik di berbagai kota/kabupaten, sepuluh besar nilai pasar historis, ditambah perspektif dari berbagai pihak mengenai enam perdebatan publik
+- [Peta Rantai Pasok](/industry/supply-chain-map/) — Semikonduktor, server AI, dan tungsten; menelusuri setiap tahapan untuk melihat perusahaan mana yang ada di Taiwan dan tahapan mana yang bergantung pada luar negeri
+- [UKM dan Juara Tersembunyi (Hidden Champions) Taiwan](/id/economy/taiwan-smes-and-hidden-champions)
+- [Pertanian dan Regenerasi Pedesaan Taiwan](/id/economy/taiwan-agriculture-and-rural-revitalization)
 - [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview)
-- [Perusahaan Taiwan: Hon Hai Precision](/id/economy/foxconn-precision-industry) — Tata letak global 24 negara 900 ribu orang, adalah arena eksperimen terbesar tata kelola lintas batas industri manufaktur Taiwan
+- [Perusahaan Taiwan: Hon Hai Precision](/id/economy/foxconn-precision-industry) — Jangkauan global dengan 900.000 orang di 24 negara, merupakan laboratorium terbesar bagi tata kelola lintas batas industri manufaktur Taiwan
 
 [^1]: [Bagian Statistik Departemen Keuangan — Gambaran Umum Perdagangan Ekspor-Impor Negara Kita Tahun 113](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Ekspor 2024 sebesar 475 miliar USD, impor 394,4 miliar USD; ekspor ke China Daratan dan Hong Kong 150,6 miliar (31,7%), AS 111,4 miliar (naik 46,1% tahunan, pertama kali tembus 100 miliar), ASEAN 87,8 miliar, Eropa 38,6 miliar, Jepang 25,8 miliar; tabel proporsi sebelas kategori barang.
 

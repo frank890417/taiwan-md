@@ -10,11 +10,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-08-05T16:59:03+08:00'
+translatedAt: '2026-11-18T16:44:31.646046+00:00'
 ---
 
 > **Ringkasan 30 Detik**
@@ -144,12 +146,12 @@ Inilah sifat paling berharga perusahaan Taiwan: di tengah persaingan global yang
 
 ## Referensi
 
-[^1]: [Catatan Sejarah Resmi UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC didirikan 22 Mei 1980 sebagai spin-off dari ITRI; Wikipedia (Bahasa Tionghoa/Inggris) dan situs resmi UMC mengonfirmasi tanggal ini
+[^1]: [Kronologi Resmi UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC didirikan pada 22 Mei 1980 sebagai derivasi dari Institut Elektronika ITRI; Wikipedia (Mandarin dan Inggris) serta pihak resmi UMC mengonfirmasi tanggal ini
 
-[^2]: [Wikipedia — UMC](https://zh.wikipedia.org/wiki/聯華電子) — 1985 UMC menjadi perusahaan semikonduktor pertama di dunia Tionghoa yang IPO
+[^2]: [Wikipedia — UMC](https://zh.wikipedia.org/wiki/聯華電子) — Pada tahun 1985, UMC menjadi perusahaan semikonduktor pertama di dunia Tionghoa yang melantai di bursa saham
 
-[^3]: [TrendForce — Analisis Pasar Founderi Wafer Global 2024](https://www.trendforce.com/) — Pangsa pasar founderi wafer global UMC ~7,4%, peringkat ketiga global; TSMC 62%, Samsung 18%
+[^3]: [TrendForce — Analisis Pasar Foundry Global 2024](https://www.trendforce.com/) — Pangsa pasar foundry global Umc sekitar 7,4%, peringkat ketiga di dunia; TSMC 62%, Samsung 18%
 
-[^4]: [Situs Resmi UMC — Hubungan Investor](https://www.umc.com/zh-TW/IR/ir_overview) — Pendapatan UMC 2025 sebesar 237,6 miliar dolar Taiwan baru, margin laba kotor 29,0%, laba per saham 3,34 dolar
+[^4]: [Situs Resmi UMC — Hubungan Investor](https://www.umc.com/zh-TW/IR/ir_overview) — Pendapatan UMC tahun 2025 adalah NT$237,6 miliar, margin laba kotor 29,0%, laba per saham NT$3,34
 
-[^5]: [Laporan ESG Berkelanjutan UMC](https://www.umc.com/) — UMC 2022 luncurkan strategi "UMC 2030", berkomitmen netral karbon 2030
+[^5]: [Laporan Keberlanjutan ESG UMC](https://www.umc.com/) — UMC meluncurkan strategi "UMC 2030" pada tahun 2022, berkomitmen untuk mencapai target netralitas karbon pada tahun 2030

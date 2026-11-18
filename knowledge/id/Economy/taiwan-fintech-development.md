@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣金融科技發展.md'
-sourceCommitSha: '4dd14cf66'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:4a1f10aaddce056e'
 sourceBodyHash: 'sha256:7f55fdd7f7687d07'
-translatedAt: '2026-09-22T20:00:04.445055+00:00'
+translatedAt: '2026-11-18T17:01:52.375417+00:00'
 ---
 
 # Perkembangan FinTech di Taiwan

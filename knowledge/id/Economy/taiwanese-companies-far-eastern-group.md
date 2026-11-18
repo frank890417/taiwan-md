@@ -18,11 +18,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：遠東集團.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:d6da6fce353b5bfa'
 sourceBodyHash: 'sha256:4d55bf95947dc191'
-translatedAt: '2026-07-26T21:33:21+08:00'
+translatedAt: '2026-11-18T16:55:31.551042+00:00'
 ---
 
 Pada November 2021, sebuah kabar mengejutkan datang dari dunia bisnis Taiwan: Far Eastern Group dikenai denda sebesar 474 juta RMB (sekitar NT$2,06 miliar) oleh pemerintah Tiongkok Daratan, dengan alasan "pelanggaran hukum dan regulasi dalam hal perlindungan lingkungan, penggunaan lahan, dan kesehatan kerja karyawan". Namun, semua orang tahu, ini bukan sekadar masalah regulasi.

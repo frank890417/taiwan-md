@@ -21,11 +21,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：義美食品.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:fd10cef889ef4781'
 sourceBodyHash: 'sha256:3df603cf09cf4177'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-18T17:09:44.726625+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Yimei Food, merek tua Taiwan yang didirikan pada tahun 1934, tidak hanya menjadi saksi perubahan masyarakat Taiwan, tetapi juga meraih gelar "hati nurani industri pangan" melalui tekad "orang jujur" dan strategi laboratorium "siaga namun tidak digunakan" dalam berbagai krisis keamanan pangan. Artikel ini akan mengeksplorasi secara mendalam bagaimana Yimei membangun wajah beragam merek abadinya dari titik awal sejarah di Dadaocheng, melalui strategi saluran unik, pewaruhan semangat Jiang Weishui, pengendalian ketat melalui laboratorium mandiri, hingga inovasi dalam industri robot, serta mencari keseimbangan dan transformasi di antara mitos merek dan tantangan nyata.

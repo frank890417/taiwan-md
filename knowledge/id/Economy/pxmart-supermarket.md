@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-11-02T02:00:12.568583+00:00'
-evolveHistory:
-  - date: 2026-11-04
-    action: translation-fix
-    reason: '品牌錯譯：全聯 FamilyMart → PX Mart（title、tags、正文、腳註；延伸閱讀裡指全家的保留），全聯社 FamilyMart Society → Quanlianshe，統一超商「minimarket terpadu」→ 7-Eleven，統一集團 Grup Unifikasi → Uni-President，全支付 AllPay → PXPay Plus。只改錯名，不重翻'
+translatedAt: '2026-11-18T16:45:28.121735+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada tahun 1998, taipan properti Lin Min-hsiung mengambil alih koperasi militer dan pegawai negeri yang merugi selama bertahun-tahun dengan hanya 66 gerai. Sebagai "orang luar," ia menetapkan garis merah bertahan hidup: "murah 20%, laba 2%," dan secara paksa menciptakan jalan bagi supermarket di antara raksasa minimarket 7-Eleven dan grosir. Kini, PX Mart adalah penguasa ritel dengan pendapatan tahunan melebihi 200 miliar dan 1.200 gerai, tetapi kontroversi monopoli dan rasa sakit transformasi digital di balik ekspansi cepatnya sedang menguji dua puluh tahun berikutnya bagi "platform kehidupan" ini.
