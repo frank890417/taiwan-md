@@ -2,9 +2,7 @@
 title: 'Parques científicos de Taiwán: la apuesta de un arrozal que se convirtió en arteria vital del mundo y también en su punto vulnerable'
 description: 'En 1979, en Jinshan Mian, Hsinchu, Irving Ho, un ingeniero que volvió a Taiwán desde IBM, levantó sobre un arrozal el primer parque científico de Asia. Cuarenta y cinco años después, los ingresos anuales de los parques de Hsinchu, del Sur y del Centro superaron los 5,8 billones de nuevos dólares taiwaneses, y los chips más avanzados del mundo se producen en masa en esos tres parques. Pero el amuleto más poderoso de esta isla es, al mismo tiempo, su punto más frágil: una sequía, un apagón o una carta geopolítica bastan para que la cadena global de suministro contenga la respiración.'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
     'parques científicos',
@@ -16,10 +14,17 @@ tags:
     'TSMC',
     'escudo de silicio',
   ]
-readingTime: 18
+subcategory: '半導體與硬體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 18
+image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
+imageCredit: 'Peellden'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 sporeLinks:
   - id: 109
     platform: 'threads'
@@ -29,16 +34,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-29'
     url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
-imageCredit: 'Peellden'
-imageLicense: 'CC BY-SA 3.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
-difficulty: 'intermediate'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T10:14:40.180387+00:00'
 ---
 
 # Parques científicos de Taiwán: la apuesta de un arrozal que se convirtió en arteria vital del mundo y también en su punto vulnerable
@@ -138,28 +140,29 @@ _El documental **Mountain Makers: The Gamble of the Century**, de la directora H
 
 > **✦** Un mismo ingeniero puede decir, a la vez, que la fuga tecnológica es un falso problema y admitir que el escudo de silicio se debilitará. Esa es la situación más real de Taiwán en este momento: técnicamente sigue a la vanguardia, pero geopolíticamente no puede garantizar que esa ventaja se traduzca en seguridad duradera.
 
-## Junto a la sala limpia yace una vasija de hace cinco mil años
+## Junto a la sala blanca, yacen tinajas de hace cinco mil años
 
-Durante el desarrollo del Parque Científico del Sur se excavó una gran cantidad de sitios prehistóricos. Los arqueólogos encontraron bajo ese terreno la cultura Tapenkeng de hace cinco mil años, la cultura Niaosung de hace más de tres mil años y asentamientos siraya de hace varios siglos. En toda el área del parque se identificaron sesenta y ocho sitios arqueológicos, que abarcan seis períodos culturales. En octubre de 2019 se inauguró oficialmente el Museo de Arqueología del Parque Científico del Sur, filial del Museo Nacional de Prehistoria de Taiwán. Diseñado por el arquitecto Kris Yao, combina bloques negros con líneas blancas; visto desde arriba parece un cubo de Rubik, y las texturas seccionadas de sus muros fueron hechas deliberadamente para evocar capas arqueológicas abiertas una tras otra[^22].
+Durante el desarrollo del Parque Científico del Sur, se descubrieron numerosos yacimientos prehistóricos. Los arqueólogos hallaron en esta tierra la cultura Dapenkeng de hace 5000 años, la cultura Niuchouzi de hace más de 3000 años, y asentamientos del pueblo Siraya de hace unos pocos siglos —se identificaron sesenta y ocho yacimientos en toda el área del Parque Científico del Sur, abarcando seis fases culturales.
 
-Quizá sea una de las escenas más surrealistas del mundo: junto a las salas limpias de chips de 3 nanómetros está el museo que exhibe vasijas de hace cinco mil años. En un mismo terreno se superponen dos temporalidades: una medida en wafer lots, tan rápida que se cuenta en minutos; otra medida en milenios, tan lenta que requiere datación por carbono 14. Los parques científicos de Taiwán no solo superponen industrias; también superponen el tiempo mismo.
+En octubre de 2019, el Museo de Arqueología del Parque Científico del Sur del Museo Nacional de Prehistoria de Taiwán abrió oficialmente sus puertas. Diseñado por el arquitecto Yao Ren-hsi, el edificio es un cubo negro con líneas blancas que, visto desde arriba, recuerda a un cubo de Rubik; la textura de sus fachadas imita deliberadamente las capas de un estrato arqueológico expuesto en sección[^22].
 
-![Exterior del Museo de Arqueología del Parque Científico del Sur, filial del Museo Nacional de Prehistoria de Taiwán, edificio de bloques negros diseñado por Kris Yao dentro del Parque Científico del Sur](/article-images/technology/nanke-archaeology-museum-2019.webp)
-_Museo de Arqueología del Parque Científico del Sur, diseñado por Kris Yao e inaugurado en 2019. Durante el desarrollo del parque se excavaron sesenta y ocho sitios prehistóricos, entre ellos vestigios de las culturas Tapenkeng, Niaosung y Siraya: las fábricas de obleas y las vasijas de hace cinco mil años quedaron unidas por la misma tierra. Photo: Pbdragonwang, 2019. [CC BY-SA 4.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
+Probablemente sea una de las escenas más surrealistas del mundo: junto a la sala blanca donde se fabrican chips de 3 nanómetros, se encuentra un museo arqueológico que exhibe tinajas de hace cinco mil años. En la misma tierra se superponen dos temporalidades: una medida en _wafer lots_, tan rápida que cuenta por minutos; otra medida en milenios, tan lenta que requiere datación por carbono-14. Los parques científicos de Taiwán no solo superponen industrias, sino también el tiempo mismo.
 
-Volvamos la cámara a aquel arrozal nivelado de 1979. En ese momento nadie podía garantizar que la apuesta se ganaría: la tecnología era prestada, el modelo no inspiraba confianza, el lugar elegido era tierra agrícola. Cuarenta y cinco años después, esta isla cultivó la capacidad de fabricación de chips de la que más depende el mundo. El valor de mercado de TSMC llegó a acercarse al producto interno bruto anual completo de Taiwán, y los impuestos que paga equivalen a una proporción considerable del presupuesto de defensa[^23]. El amuleto más poderoso de Taiwán creció; pero esa misma condición de irreemplazable lo convirtió también en la carta que todos quieren tomar en la mesa de juego de las grandes potencias.
+![國立臺灣史前文化博物館南科考古館外觀，由建築師姚仁喜設計的黑色方塊建築，坐落在南部科學園區內](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_El Museo de Arqueología del Parque Científico del Sur, diseñado por Yao Ren-hsi, inaugurado en 2019. Durante el desarrollo del parque se descubrieron sesenta y ocho yacimientos prehistóricos de las culturas Dapenkeng, Niuchouzi y Siraya —la fábrica de obleas y las tinajas de hace cinco mil años, unidas por la misma tierra. Foto: Pbdragonwang, 2019. [CC BY-SA 4.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Hace cuarenta y cinco años, aquel arrozal apostó por la supervivencia. Tras ganar, la isla se convirtió en la arteria vital del mundo y también en su punto vulnerable. La siguiente apuesta —sobre el agua, la electricidad, el talento y ese escudo que está siendo redefinido— ya empezó. Y esta vez, en la mesa no solo está sentado Taiwán.
+Vuelve la vista a 1979, a esos arrozales que fueron allanados. Nadie podía garantizar que esa apuesta se ganaría: la tecnología era prestada, el modelo no convencía a nadie, y la ubicación elegida era un terreno agrícol. Cuarenta y cinco años después, esta isla ha creado la capacidad de producción de chips de la que el mundo entero depende —el valor de mercado de TSMC llegó a acercarse al PIB anual de todo Taiwán, y los impuestos que paga equivalen a una proporción significativa del presupuesto de defensa[^23].
 
----
-
-**Lecturas complementarias**:
-
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Cincuenta años de revolución de materiales, desde la transferencia tecnológica de RCA hasta el nitruro de galio y el empaquetado cuántico: cómo los chips de los parques llegaron a ser los más avanzados del mundo
-- [Las 50 mayores empresas de Taiwán](/es/economy/top-50-companies-taiwan) — La “montaña sagrada que protege al país” sostiene una tabla y también un país con un único punto de falla: la otra cara de la concentración del valor de producción en los parques científicos
-- [Mountain Makers: The Gamble of the Century](/es/art/mountain-makers-tsmc-documentary) — Documental de Hsiao Chu-chen de 2025, realizado tras cinco años de entrevistas con más de ochenta veteranos de los semiconductores, que lleva esta apuesta del siglo a la pantalla
+El talismán más poderoso de Taiwán ha crecido, pero esa misma irremplazabilidad la ha convertido en la carta que todas las potencias quieren tener en su mano en la mesa del gran juego geopolítico. Hace cuarenta y cinco años, esos arrozales apostaban por la supervivencia; tras ganar la apuesta, la isla se volvió la arteria vital del mundo y, a la vez, su punto más vulnerable. La próxima apuesta —sobre el agua, la electricidad, el talento, sobre ese escudo que se está redefiniendo— ya ha comenzado, y esta vez, los sentados a la mesa no son solo Taiwán.
 
 ---
+
+**Lecturas recomendadas**:
+
+- [Tema especial: Industria de Taiwán](/industry/) — Dibuja la estructura industrial con estadísticas oficiales: exportaciones y PIB de setenta años, parques científicos, fábricas por condado y ciudad, las diez mayores capitalizaciones bursátiles históricas, más las posturas de seis debates públicos
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Cincuenta años de revolución material, desde la transferencia tecnológica de RCA hasta el nitruro de galio y el empaquetado cuántico: cómo los chips de los parques llegaron a ser los más avanzados del mundo
+- [Las 50 mayores empresas de Taiwán](/es/economy/top-50-companies-taiwan) — La montaña sagrada que protege al país sostiene una tabla, pero también sostiene un país con un único punto de fallo: el otro lado de la concentración del valor de producción de los parques científicos
+- [Los creadores de montañas: la apuesta del siglo](/es/art/mountain-makers-tsmc-documentary) — Documental de Hsiao Ju-chen (2025), cinco años de entrevistas a más de ochenta veteranos de la industria de semiconductores, convirtiendo esta apuesta del siglo en imágenes
 
 ## Fuentes de imágenes
 

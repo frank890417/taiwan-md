@@ -2,9 +2,7 @@
 title: 'Música independiente taiwanesa: cómo una disquería que no podía pagar sueldos le abrió los oídos a una isla'
 description: 'Desde la apuesta de asumir Crystal Records con una deuda de 300.000 dólares taiwaneses, hasta No Party for Cao Dong agotando su primera tirada en una cafetería. Treinta y cinco años de música independiente taiwanesa no son una historia de revancha, sino una larga apuesta de un grupo de personas que insistió en hacer que “las voces no vistas fueran escuchadas”'
 date: 2026-03-29
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'música independiente',
@@ -14,16 +12,20 @@ tags:
     'sellos independientes',
     'industria musical',
   ]
-readingTime: 14
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-06-10T16:45:00+00:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:01:24.715858+00:00'
 ---
 
 **Resumen en 30 segundos: en 1986, Jen Chiang-ta, de ascendencia coreana y japonesa, pidió prestados 300.000 dólares taiwaneses para hacerse cargo de una disquería a punto de cerrar y empezó a importar a Taiwán “música que nadie quería escuchar”. Cuarenta años después, el ecosistema surgido de aquella tienda —live houses, sellos independientes, StreetVoice, Golden Indie Music Awards— llevó a una banda que vendía discos en cafeterías hasta el premio Álbum del Año en los Golden Melody Awards, y a una banda taipeiana que canta íntegramente en inglés hasta Coachella. Cuarenta años de música independiente taiwanesa son una carrera de relevos sin meta final: cada tramo se corre sin aliento, cada tramo parece a punto de derrumbarse, pero el testigo nunca cae.**

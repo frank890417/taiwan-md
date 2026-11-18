@@ -2,9 +2,7 @@
 title: 'En la encrucijada de la educación y la revitalización lingüística de los pueblos indígenas de Taiwán: la escuela primaria aguanta, la secundaria no'
 description: 'En 2012, el maestro tsou Markacaw Fala''ur de la escuela primaria Taiwu en Pingtung utilizó una grabadora para recoger canciones antiguas de los ancianos y llevó a los niños a cantar hasta ganar un premio Golden Melody. En 2017, la Ley de Desarrollo de las Lenguas Indígenas elevó las lenguas de las tribus al rango de lenguas nacionales. En 2019, la Ley de Educación Indígena incorporó una cláusula de "cumplimiento en diez años" sobre la proporción de docentes. Las escuelas experimentales indígenas en nivel primaria pasaron de 25 a 38. Pero al llegar a secundaria, todo el sistema colapsa: en todo Taiwán solo hay 6 escuelas experimentales indígenas de secundaria, la tasa bruta de matrícula universitaria de estudiantes indígenas es del 56.3%, 35.3 puntos porcentuales menos que la de los estudiantes generales. Markacaw falleció en 2021 a los 42 años. La escuela primaria aguanta, la secundaria no. La brecha sigue ahí.'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '教育'
 tags:
   [
     'educación indígena',
@@ -18,16 +16,20 @@ tags:
     'Escuela Secundaria y Primaria Comunitaria Bananhua',
     'brecha de transición',
   ]
-readingTime: 15
+subcategory: '教育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
-translatedAt: '2026-05-02T02:50:57+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:30:12.267452+00:00'
 ---
 
 > **Panorama en 30 segundos:** En 2012, el maestro tsou Markacaw Fala'ur de la escuela primaria Taiwu en Pingtung lideró al coro de canciones antiguas que ganó el premio a Mejor Interpretación de Música Tradicional en la 23.ª edición de los Premios Golden Melody con _El lugar donde la canción comienza_[^1]. En 2017, la Ley de Desarrollo de las Lenguas Indígenas fue aprobada en tercera lectura por el Legislativo, elevando formalmente las 16 lenguas tribales al rango de lenguas nacionales[^2]. En 2019, la Ley de Educación Indígena fue revisada: el artículo 34 establece que en diez años la proporción de docentes indígenas en escuelas primarias clave para pueblos indígenas no debe ser inferior a un tercio[^3]. Para el curso escolar 111, Taiwán contaba con 38 escuelas experimentales indígenas[^4]. Sin embargo, este sistema aparentemente denso y completo falla abruptamente en la etapa de secundaria. Una investigación a fondo de _The Reporter_ en 2024 señaló: "Desde 2019, las escuelas experimentales indígenas de primaria han aumentado más de 10, pero las de secundaria prácticamente se han estancado."[^5] En todo Taiwán solo hay 6 escuelas experimentales indígenas de secundaria[^4]. En el curso escolar 112, la tasa bruta de matrícula universitaria de estudiantes indígenas fue del **56.3%**, frente al **91.6%** de los estudiantes generales, una diferencia de 35.3 puntos porcentuales[^6]. En los mismos niños, el Estado pasó diez años protegiendo su lengua y cultura mediante leyes, y luego, el día que entraron a secundaria, soltó la mano. Markacaw falleció el 19 de agosto de 2021 a causa de un linfoma, a los 42 años[^7]. Su coro de canciones antiguas sigue existiendo, pero ¿quién custodiará esta transición después de su partida?
