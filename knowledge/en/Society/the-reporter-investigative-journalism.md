@@ -37,11 +37,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:00bd13342bc6cb3c'
 sourceBodyHash: 'sha256:d77e750f6664a705'
-translatedAt: '2026-10-13T02:37:49.144606+00:00'
+translatedAt: '2026-11-18T02:02:50.444061+00:00'
 ---
 
 > **30-second overview:** The Reporter is Taiwan's first nonprofit online investigative newsroom sustained by citizen donations. When it went online in December 2015, it had only 4 recurring monthly donors, a number founder Ho Jung-hsing did not dare let his colleagues know[^1]. Ten years later, in October 2025, that number had grown to about 8,000, with 10,000 as the next goal[^2]. It produced the Blood-Stained Fishing Grounds trilogy, which pursued reporting across three countries[^3]; covered the debt-bonded migrant-student labor case that led to a five-year, six-month sentence for a Chung Chou University of Science and Technology executive[^4]; and published the Chokubi Phenomenon series, after which the Ministry of Health and Welfare revised the rules so that only doctors who had completed PGY training could practice aesthetic medicine[^5]. Its publicly stated discipline has only three lines: "no ownership, no intervention, no clawback"[^6]. The costs The Reporter cannot cut are exactly the things people least want to pay to read in the algorithmic age. Taiwan has used monthly deductions of NT$200 or NT$300 from strangers' accounts to renew investigative journalism from a money-losing business into a public good that is constantly being sustained, even as it burns through resources ever faster.
