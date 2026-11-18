@@ -24,16 +24,22 @@ imageCredit: 'Ramon Magsaysay Award Foundation'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://rmaward.asia/rmawardees/ying-diane-yun-peng/'
 sporeLinks:
-  [
-    "{'id': 134, 'platform': 'threads', 'date': '2026-06-13', 'url': 'https://www.threads.com/@taiwandotmd/post/DZhJTUkEwRM'}",
-    "{'id': 135, 'platform': 'x', 'date': '2026-06-13', 'url': 'https://x.com/taiwandotmd/status/2065697249041281306'}",
-  ]
+  - id: 134
+    platform: 'threads'
+    date: '2026-06-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZhJTUkEwRM'
+  - id: 135
+    platform: 'x'
+    date: '2026-06-13'
+    url: 'https://x.com/taiwandotmd/status/2065697249041281306'
 relatedDiary: ['2026-06-04-151548-天下雜誌']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'd317f1649'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cfcffc0d37076c22'
 sourceBodyHash: 'sha256:a2fb34529fea33ac'
-translatedAt: '2026-07-28T06:16:02+08:00'
+translatedAt: '2026-11-18T03:24:13.905559+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:** في 1 يونيو 1981، أُطلقت مجلة مالية باسم "تيان شيا" في تايوان الخاضعة للأحكام العرفية، والتي فقدت لتوها مكانها على الساحة الدولية، وباعَت طبعتها الأولى البالغة عشرة آلاف نسخة في يومين[^1]. كان المبادر هو عالم الاقتصاد كاو هسي-تشون، الذي بدافع "خدمة الوطن بالعلم" دعا وانغ لي-شينغ، وتشانغ تزو-تشين، وإن يون-بونغ لتأسيسها معاً[^2]؛ إن يون-بونغ، التي عملت مراسلة في يو بي آي، ونيويورك تايمز، وآسيان وول ستريت جورنال، كانت روحها التحريرية، ولاحقاً هي من حرس المجلة بعد الانقسام عام 1986[^3]. في أربعين عاماً، تحولت من مجلة "تكتب الاقتصاد كقصص يفهمها الجميع" إلى صانعة تصنيفات الأعمال والحكم المحلي في تايوان: "ألفي شركة كبرى"، "أكبر 50 مجموعة"، "الشركات المعيارية"، "المدن السعيدة" — هذه التصنيفات عرّفت بصمت ما يعنيه "النجاح" للتايوانيين. هي واحدة من أكثر وسائل الإعلام موثوقية في تايوان وفق تقرير رويترز[^4]، وحازت جائزة رامون ماغسايساي وجائزة سويا (SOPA) للإنجاز مدى الحياة. لكن مكانتها الأكثر موثوقية، هي بالضبط مكانتها الأقرب إلى رأس المال والسلطة. تلك المصداقية، وتلك السلطة في تصنيف الآخرين، تنبعان من المسافة نفسها.
