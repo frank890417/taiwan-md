@@ -2,23 +2,25 @@
 title: '台湾のストリート・グラフィティ：深夜のアウトローから西門町の都市の光へ'
 description: '1989年、呂学淵が民生東路に最初の線をスプレーで描き、台湾グラフィティの地下史が始まりました。大腸王の都市伝説からCandy Birdの社会批判まで、環境保護局との30年にわたる追走劇は、台湾の都市美学を再定義しつつあります。'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '視覺藝術'
 tags: ['ストリートアート', '大腸王', 'サブカルチャー', '都市空間']
-readingTime: 8
+subcategory: '視覺藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
-translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
-sourceBodyHash: 'sha256:0539eab7900ae6ed'
+readingTime: 8
 image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
-translatedAt: '2026-06-14T00:35:00+08:00'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/街頭塗鴉.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
+sourceBodyHash: 'sha256:0539eab7900ae6ed'
+translatedAt: '2026-11-18T20:55:45.389681+00:00'
 ---
 
 > **30秒概観：**
@@ -72,16 +74,16 @@ _台北市万華区にある旧永進国軍文供站の外壁を埋め尽くす�
 
 ## 参考資料
 
-[^1]: WowLavie, [台湾のグラフィティアーティストReach、ブレイクの逆襲！街頭から多元的な創作スタイルへ](https://www.wowlavie.com/article/ae1902012)
+[^1]: [台湾のグラフィティアーティストReach、ブレイクの逆襲！ ストリートから多様な創作スタイルへ](https://www.wowlavie.com/article/ae1902012) — WowLavie、（詳細はリンク先の原文を参照）
 
-[^3]: Heaven Raven, [グラフィティアーティスト大腸王インタビュー：大腸の中身は糞であり、芸術もまたそうです。](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [グラフィティアーティスト大腸王への独占インタビュー：大腸の内側は糞、芸術もまた然り。](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven、
 
-[^4]: BeautyMode, [ストリートカルチャーが商業へ向かうのは間違いですか？台湾グラフィティの先駆者Reach](https://www.beautimode.com/article/content/86906/)
+[^4]: [ストリート文化が商業化するのは間違いなのか？台湾のグラフィティ先駆者Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode、
 
-[^5]: 台湾当代芸術データベース, [糖果鳥 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b)
+[^5]: [キャンディ・バード Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — 台湾現代美術データベース、
 
-[^6]: 台北市政府環境保護局, [落書きは最高6000元の罰金！台北市14か所の合法グラフィティウォール一覧](https://newtalk.tw/news/view/2019-11-27/332344)
+[^6]: [無断落書きは最高NT$6,000の罰金！台北市内14か所の合法グラフィティウォール一覧](https://newtalk.tw/news/view/2019-11-27/332344) — 台北市政府環境保護局、
 
-[^8]: 台北市政府観光伝播局, [古跡とポストモダンアートが交わる『藝遊未盡』が台北市映画テーマパークへ案内します](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001)
+[^8]: [古跡とポストモダンアートが融合した『藝遊未盡』があなたを台北市映画テーマパークへご案内](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — 台北市政府観光伝播局、
 
-[^9]: 初耳 Hatsumimi, [ひだの中にある濃厚な台湾らしさを取り出す、初耳のアーティストの友人・大腸王](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/)
+[^9]: [しわの奥から濃厚な台湾らしさを引き出す、初耳のアーティスト仲間－大腸王](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — 初耳 Hatsumimi、

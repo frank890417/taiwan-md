@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-19T05:49:10+08:00",
-    "zhCommitHead": "baed51c21",
+    "lastUpdated": "2026-11-19T05:49:30+08:00",
+    "zhCommitHead": "25ec45164",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 1119,
+        "fresh": 1120,
         "stale": 40,
-        "metadata_stale": 26,
+        "metadata_stale": 25,
         "missing": 6,
         "orphan": 0
       },
@@ -51100,20 +51100,18 @@
         "es": {
           "path": "es/Lifestyle/esports.md",
           "translatedFrom": "Lifestyle/電競.md",
-          "sourceCommitSha": "2faa5728b",
-          "sourceContentHash": "sha256:64c6862f2f2a8e41",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:e2d50ea1d51f4c24",
           "sourceBodyHash": "sha256:4fe3e0718f755e56",
-          "translatedAt": "2026-05-12T21:49:55+08:00",
+          "translatedAt": "2026-11-18T21:49:08.864380+00:00",
           "translationLastCommit": "0222fce3",
           "translationLastModified": "2026-10-10T23:26:12+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 27724,
+          "bytes": 25329,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/esports.md",

@@ -4,25 +4,28 @@ description: '台湾の半導体が国際的な交渉力を持つのは、非常
 date: 2026-07-11
 category: 'Technology'
 tags:
-  - '半導体'
-  - '電力'
-  - 'エネルギー'
-  - 'TSMC'
-  - 'AIハードウェア'
-  - 'サプライチェーン'
+  ['半導体', '電力', 'エネルギー', 'TSMC', 'AIハードウェア', 'サプライチェーン']
 subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
-translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410ea'
-sourceContentHash: 'sha256:739eb8c857d7b377'
-sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-14T00:51:45+08:00'
+researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
+rationale:
+  why_this_hook: '把「護國神山」往下接到電網，讓讀者看見半導體籌碼背後的基礎設施帳單。'
+  whats_excluded: '不把文章寫成核電、綠電或電價政策的單一立場文。'
+  where_it_hedges: '同時處理供電穩定、低碳電力、產業競爭力、公共成本與能源安全。'
+  whos_pushing_back: '半導體與 AI 產業需要穩定低碳電力，但社會也會追問成本、風險、環境負擔與分配公平。'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/台灣的電力與半導體.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
+sourceBodyHash: 'sha256:814f9eb8b97792cf'
+translatedAt: '2026-11-18T20:18:51.875512+00:00'
 ---
 
 # 台湾の電力と半導体：護国神山の電力請求書
@@ -176,12 +179,12 @@ Roussilhe らの研究は、台湾の 16 社の電子部品メーカーを対象
 - **苗栗外海オフショア風力発電所**：[Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) — Wikimedia Commons, CC BY-SA 4.0。本文は `public/article-images/nature/hai-neng-offshore-wind-farm-2024.webp` にキャッシュされたバージョンを使用。
 - **西湖サービスエリア屋根太陽光パネル**：[Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) — Photo: lienyuan lee, Wikimedia Commons, CC BY 3.0。本文は `public/article-images/nature/xihu-service-area-solar-2014.webp` にキャッシュされたバージョンを使用。
 
-## 参考資料
+## 参考文献
 
-[^1]: Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44% (https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC の EUV 省エネ計画、総電力規模、ツール省エネ比率に関する報道。効率向上と総量圧力が同存することを示す。
+[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMCのEUV省エネ計画、総電力消費規模、および装置の省エネ率について報じており、効率向上と総量への圧力の共存を説明するために活用できます。
 
-[^2]: Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure (https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — 台湾半導体産業協会が電力安定と再生エネルギー供給の緊急性を政府に警告した報道。RE100 とウェーハ工場のグリーン電力需要、海外移転リスクを整理。
+[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — 台湾半導体産業協会が電力の安定供給と再生可能エネルギーの供給について警鐘を鳴らしていることを報じており、RE100、ファウンドリのグリーン電力需要、および海外移転のリスクについてまとめています。
 
-[^3]: Roussilhe et al.: From Silicon Shield to Carbon Lock-in? (https://arxiv.org/abs/2209.12523) — 2015‑2020 年における 16 社の台湾電子部品製造業の環境フットプリントを分析し、エネルギー・水・炭素排出が生産量増に伴い増大する carbon lock‑in リスクを提示。
+[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 台湾の電子部品メーカー16社の2015年から2020年にかけての環境フットプリントを研究しており、生産量の増加に伴うエネルギー、水、炭素排出量の増加およびカーボンロックインのリスクについて提言しています。
 
-[^4]: AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails (https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — 2025 年の核三延長住民投票結果を報じ、核電支持者が電価低減と AI 用電増加への貢献を主張したことを説明。
+[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — AP通信による2025年の台湾における第三核電廠の運転延長に関する住民投票の結果を報じており、原子力発電の支持者がどのように電気料金とAIの電力需要を議論に組み込んでいるかを説明しています。

@@ -23,11 +23,13 @@ imageCredit: 'Yu_tptw'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Guangbo_Building_20230306.jpg'
 relatedDiary: ['2026-09-19-003000-news-radar']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/誰算低薪.md'
-sourceCommitSha: 'b10ec653b'
-sourceContentHash: 'sha256:7abbe410b7f9a4d8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:27a706024e76921c'
 sourceBodyHash: 'sha256:3232aa3ffbbe2f4d'
-translatedAt: '2026-09-26T03:13:23.403739+00:00'
+translatedAt: '2026-11-18T21:34:54.502913+00:00'
 ---
 
 # 誰が低賃金を定義するのか：最低賃金は本給を守ったが、低賃金は年終ボーナスの欄に移った
@@ -166,12 +168,14 @@ _図：Solomon203、Wikimedia Commons、CC BY-SA 4.0_
 
 誰が低賃金かという答えは、給与明細の第二欄にある。今日、タコ焼き一皿七十元、さらに一杯のドリンクを加えても、彼女の一時間の賃金にはまだ及ばない。
 
-## 延伸閱讀
+## 参考リンク
 
-- [フードデリバリー専門法](/ja/society/delivery-platform-law) — もう一つの法的な最低基準：配達員の1件ごとの最低報酬は基準以上で市場に委ねられている
-- [冷房とエネルギー貧困の問題](/ja/society/energy-poverty-and-cooling) — 貧困のもう一つの尺度：収入から電気代に換算して、夏場にエアコンが使えるかどうか
-- [学習貧困](/ja/society/learning-poverty-in-taiwan) — 同じく定義の問題：教室に座っていても何も学べない子どもたちがどのように算出されるか
-- [台湾のスラッシュ世代](/ja/society/taiwan-slash-generation-multi-job-economy) — 本給では足りない人が仕事後に請け負う仕事の多くは、この記事で述べられている基準の外にある
+- [年収ポジション検索](/income/salary-percentile/) — ご自身の年間総給与を主計総処の十分位に当てはめ、何パーセンタイルに位置するかをご確認ください。給与全体の行方については[給与・税・退職特集](/income/)
+- [住宅価格負担能力セルフチェック](/housing/affordability-check/) — 給与以外のもう一つの物差し：同じ収入を各県市の住宅価格に当てはめ、住宅ローン負担率がどのレベルにあるかを確認できます
+- [フードデリバリー専門法](/ja/society/delivery-platform-law) — 法律で敷かれたもう一つの床：デリバリー員の一件あたりの最低報酬、床以上は同様に市場に委ねられます
+- [冷房とエネルギー貧困問題](/ja/society/energy-poverty-and-cooling) — 貧困のもう一つの物差し：収入を電気代に換算し、夏に冷房がつけられるかどうかを考えます
+- [学習貧困](/ja/society/learning-poverty-in-taiwan) — これもまた定義の問題：教室に座っていても何も学べない子どもたちが、どう算出されているのか
+- [台湾スラッシュ世代](/ja/society/taiwan-slash-generation-multi-job-economy) — 本給が足りない人々が退勤後に引き受けるあの仕事たち、大半はこの記事で語られる「物差しの外」にあります
 
 ## 画像ソース
 
