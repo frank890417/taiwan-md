@@ -1,18 +1,18 @@
 ---
-title: 'Taman Sains Taiwan: Taruhan Se Bidang Sawah, Menghasilkan Nadi Dunia, Juga Menjadi Titik Rentan'
-description: 'Pada 1979, di bidang sawah Hsinchu, seorang insinyur yang kembali dari IBM bernama Ho Yi-tzu (何宜慈) mendirikan taman sains pertama di Asia. Empat puluh lima tahun kemudian, Hsinchu, Tainan, dan Taichung tiga taman sains mencapai pendapatan tahunan 5,8 triliun dolar Taiwan baru, chip paling canggih dunia diproduksi massal di ketiga taman ini. Namun perisai terkuat pulau ini, sekaligus adalah titik terrentannya — satu kekeringan, satu pemadaman listrik, satu kartu geopolitik, semua bisa membuat rantai pasokan global menahan napas.'
+title: 'Taiwan Science Park: Taruhan di Atas Sawah, Mempertaruhkan Nadi Dunia sekaligus Menjadi Titik Lemah yang Krusial'
+description: 'Pada tahun 1979 di Jinshan, Hsinchu, seorang insinyur bernama He Yici yang kembali ke Taiwan dari IBM, membangun taman sains pertama di Asia di atas sebidang sawah. Empat puluh lima tahun kemudian, pendapatan tahunan dari Hsinchu Science Park (HSP), Central Taiwan Science Park (CTSP), dan Southern Taiwan Science Park (STSP) telah menembus NT$5,8 triliun, dengan cip paling canggih di dunia diproduksi secara massal di ketiga taman ini. Namun, jimat pelindung terkuat pulau ini juga merupakan titik terlemahnya—sebuah kekeringan, pemadaman listrik, atau manuver geopolitik dapat membuat rantai pasokan global menahan napas.'
 date: 2026-03-25
 category: 'Technology'
 tags:
   [
     'Taman Sains',
     'Hsinchu Science Park',
-    'Taichung Science Park',
-    'Tainan Science Park',
+    'Central Taiwan Science Park',
+    'Southern Taiwan Science Park',
     'Semikonduktor',
     'Klaster Industri',
     'TSMC',
-    'Perisai Silikon',
+    'Silicon Shield',
   ]
 subcategory: '半導體與硬體'
 author: 'Taiwan.md'
@@ -26,15 +26,21 @@ imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 sporeLinks:
-  [
-    "{'id': 109, 'platform': 'threads', 'date': '2026-05-29', 'url': 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'}",
-    "{'id': 110, 'platform': 'x', 'date': '2026-05-29', 'url': 'https://x.com/taiwandotmd/status/2060247955467325544'}",
-  ]
+  - id: 109
+    platform: 'threads'
+    date: '2026-05-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY6a0JvEdd7'
+  - id: 110
+    platform: 'x'
+    date: '2026-05-29'
+    url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c5'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-07-27T02:56:15+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T09:50:55.096845+00:00'
 ---
 
 # Taman Sains Taiwan: Taruhan Se Bidang Sawah, Menghasilkan Nadi Dunia, Juga Menjadi Titik Rentan
@@ -134,26 +140,27 @@ _Sutradara Hsiao Ju-chen (蕭菊貞) dokumenter 《Pembangun Gunung — Taruhan 
 
 > **✦** Sama satu insinyur, bisa sambil bilang kebocoran teknologi isu palsu, sambil akui Perisai Silikon bakal lemah. Inilah kondisi Taiwan paling nyata saat ini: teknologi tetap memimpin, geopolitik tapi nggak bisa jamin kepemimpinan ini tukar keamanan lama.
 
-## Di Samping Ruang Bersih, Terbaring Tempayan 5.000 Tahun Lalu
+## Di Samping Ruang Bersih, Tergeletak Tempayan Tanah Liat dari Lima Ribu Tahun Lalu
 
-Proses pengembangan Tainan Science Park, menggali keluar banyak situs praaksara. Ahli arkeologi di bawah tanah ini nemu budaya Dapenkeng (大坌坑) 5.000 tahun lalu, budaya Niuchouzi (牛稠子) 3.000+ tahun lalu, serta beberapa ratus tahun lalu pemukiman suku Siraya (西拉雅) — seluruh wilayah Tainan Science Park identifikasi 68 situs, melintasi enam fase budaya. Oktober 2019, Museum Budaya Praaksara Nasional Taiwan (國立臺灣史前文化博物館) Tainan Science Park Arkeologi Museum resmi buka, desain arsitek Yao Ren-xi (姚仁喜), kotak hitam garis putih, pandangan atas kayak kubus Rubik, tekstur dinding sengaja bikin lapisan lapisan arkeologi kayak dibelah lapis demi lapis[^22].
+Dalam proses pengembangan Tainan Science Park (nan-ke), banyak situs prasejarah yang ditemukan. Para arkeolog menemukan Budaya Dapenkeng dari lima ribu tahun lalu, Budaya Niuchizi dari tiga ribu tahun lalu, serta pemukiman suku Siraya dari beberapa ratus tahun lalu di bawah tanah ini—sebanyak enam puluh delapan situs telah diidentifikasi di seluruh area Tainan Science Park, mencakup enam periode budaya. Pada Oktober 2019, Museum Prasejarah Nasional Taiwan Cabang Arkeologi Tainan Science Park resmi dibuka. Dirancang oleh arsitek Yao Jen-hsi, bangunan berbentuk blok hitam dengan garis-garis putih ini tampak seperti kubus Rubik jika dilihat dari atas, dengan tekstur penampang pada dinding yang sengaja dibuat menyerupai lapisan stratigrafi arkeologi yang dibelah lapis demi lapis[^22].
 
-Ini kayak adegan paling surreal dunia: ruang bersih chip 3 nanometer di samping, justru museum pamer tempayan 5.000 tahun lalu. Sama sebidang tanah, numpuk dua waktu — satu hitung wafer lot, cepet sampai menit; satu hitung ribuan tahun, lambat butuh carbon-14 dating. Taman Sains Taiwan nggak cuma numpuk industri, juga numpuk waktu itu sendiri.
+Ini mungkin merupakan pemandangan paling surealis di dunia: tepat di samping ruang bersih (_cleanroom_) chip 3 nanometer, terdapat museum arkeologi yang memamerkan tempayan tanah liat dari lima ribu tahun lalu. Di atas tanah yang sama, dua dimensi waktu saling bertumpuk—satu dihitung berdasarkan lot wafer, bergerak sangat cepat dalam hitungan menit; yang lainnya dihitung dalam ribuan tahun, bergerak sangat lambat hingga membutuhkan penanggalan karbon-14. Taman Sains Taiwan tidak hanya menumpuk berbagai industri, tetapi juga menumpuk waktu itu sendiri.
 
-![Gedung Museum Arkeologi Tainan Science Park Museum Budaya Praaksara Nasional Taiwan, desain arsitek Yao Ren-xi kotak hitam, duduk di Taman Sains Selatan](/article-images/technology/nanke-archaeology-museum-2019.webp)
-_Museum Arkeologi Tainan Science Park, desain Yao Ren-xi, buka 2019. Pengembangan taman gali keluar Dapenkeng, Niuchouzi, Siraya 68 situs praaksara — pabrik wafer dan tempayan 5.000 tahun lalu, dihubungkan sama sebidang tanah. Foto: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
+![Eksterior Museum Prasejarah Nasional Taiwan Cabang Arkeologi Tainan Science Park, bangunan blok hitam rancangan arsitek Yao Jen-hsi yang terletak di dalam Tainan Science Park](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_Museum Arkeologi Tainan Science Park, desain Yao Jen-hsi, dibuka tahun 2019. Saat pengembangan kawasan, ditemukan enam puluh delapan situs prasejarah termasuk Dapenkeng, Niuchizi, dan Siraya—pabrik wafer dan tempayan tanah liat dari lima ribu tahun lalu terhubung oleh tanah yang sama. Photo: Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Tarik lensa ke 1979 sebidang sawah diratakan. Saat itu nggak ada orang bisa jamin taruhan ini menang: teknologi pinjaman, model nggak orang dukung, lokasi di ladang pertanian. Empat puluh lima tahun kemudian, pulau ini besarkan kapasitas produksi chip paling diduniain — nilai pasar TSMC pernah mendekati satu tahun PDB seluruh Taiwan, pajak yang dibayar setara proporsi besar anggaran pertahanan[^23]. Perisai terkuat Taiwan tumbuh besar, tapi tepat karena tak tergantikan ini, ia jadi kartu yang semua orang mau ambil di meja geopolitik negara besar.
+Mari tarik kembali lensa ke ladang padi yang diratakan pada tahun 1979. Saat itu, tidak ada yang bisa menjamin taruhan ini akan menang: teknologinya dipinjam, model bisnisnya tidak diunggulkan oleh siapa pun, dan lokasinya berada di lahan pertanian. Empat puluh lima tahun kemudian, pulau ini telah melahirkan kapasitas produksi chip yang paling diandalkan di seluruh dunia—nilai pasar TSMC sempat mendekati total Produk Domestik Bruto (PDB) Taiwan selama satu tahun penuh, dan pajak yang dibayarkannya setara dengan proporsi anggaran pertahanan yang signifikan[^23]. Jimat terkuat Taiwan telah tumbuh, namun sifatnya yang tak tergantikan ini juga menjadikannya kartu yang ingin direbut oleh semua orang di meja permainan kekuatan besar dunia.
 
-Empat puluh lima tahun lalu sawah taruh survival, menang lalu pulau ini jadi nadi dunia, juga jadi titik rentan. Taruhan berikutnya — soal air, soal listrik, soal bakat, soal perisai yang sedang didefinisikan ulang — sudah mulai, dan kali ini di meja taruhan dudukin nggak cuma Taiwan.
+Ladang padi empat puluh lima tahun lalu mempertaruhkan kelangsungan hidup; setelah menang, pulau ini menjadi urat nadi dunia, sekaligus titik lemahnya. Taruhan berikutnya—tentang air, tentang listrik, tentang talenta, dan tentang perisai yang sedang didefinisikan ulang—telah dimulai, dan kali ini, yang duduk di meja taruhan bukan hanya Taiwan.
 
 ---
 
-**Baca Lanjutan**：
+**Bacaan Lanjutan**:
 
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA ke revolusi bahan nitrogen galium dan packaging kuantum lima puluh tahun, chip di taman ini gimana caranya sampai paling canggih global
-- [50 Perusahaan Terbesar Taiwan](/id/economy/top-50-companies-taiwan) — Gunung pelindung negara ngepalang satu tabel, juga ngepalang satu single point of failure negara, sisi lain konsentrasi nilai produksi Taman Sains
-- [Pembangun Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Dokumenter Hsiao Ju-chen (蕭菊貞) 2025, lima tahun wawancara 80+ senior semikonduktor, jadikan taruhan abad ini gambar bergerak
+- [Edisi Khusus Industri Taiwan](/industry/) — Menggunakan statistik resmi untuk menggambarkan struktur industri: ekspor dan PDB selama tujuh puluh tahun, taman sains, pabrik di berbagai kota/kabupaten, sepuluh besar nilai pasar dari tahun ke tahun, ditambah perspektif dari berbagai pihak dalam enam perdebatan publik.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Revolusi material selama lima puluh tahun dari transfer teknologi RCA hingga Gallium Nitrida dan pengemasan kuantum; bagaimana chip di taman sains ini bisa terus melaju hingga menjadi yang paling canggih di dunia.
+- [50 Perusahaan Terbesar di Taiwan](/id/economy/top-50-companies-taiwan) — "Gunung Pelindung Negara" menopang sebuah daftar, sekaligus menopang negara dengan risiko kegagalan tunggal (_single point of failure_); sisi lain dari konsentrasi nilai produksi taman sains.
+- [The Makers: Taruhan Abad Ini](/id/art/mountain-makers-tsmc-documentary) — Dokumenter Hsiao Chu-chen tahun 2025, mewawancarai lebih dari delapan puluh senior semikonduktor selama lima tahun, mengabadikan taruhan abad ini ke dalam bentuk visual.
 
 ---
 

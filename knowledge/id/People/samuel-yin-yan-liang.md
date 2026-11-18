@@ -1,26 +1,26 @@
 ---
-title: 'Yin Yen-liang: Hadiah Sains yang Didirikannya, Lebih Mahal dari Nobel'
-description: 'Pada pukul 04.21 pagi tanggal 26 Mei 2026, Presiden Ruentex Group Yin Yen-liang meninggal dunia di Rumah Sakit Veteran Taipei, berusia 76 tahun. Dari remaja yang berkelahi di Sekolah Menengah Jinde yang lukanya dibalut oleh Wang Jin-pyng, hingga tahun 1989 melangkah ke Universitas Nasional Taiwan yang penuh debu hingga mata kaki, mendanai pendirian Kolege Manajemen Guanghua, hingga tahun 2012 menyumbangkan dana hibah 3 miliar dolar Taiwan baru untuk mendirikan Tang Prize. Hadiah setiap kategori sebesar 50 juta dolar Taiwan baru, melebihi Nobel. Seorang pengusaha Taiwan yang baru pergi, meninggalkan dunia sebuah hadiah yang lebih mahal dari Nobel.'
+title: 'Yin Yan-liang: Penghargaan Sains yang Ia Dirikan Lebih Mahal daripada Nobel'
+description: 'Pada tanggal 26 Mei 2026 pukul 04.21 pagi, Presiden Ruentex Group, Yin Yan-liang, wafat di Taipei Veterans General Hospital pada usia 76 tahun. Dari seorang remaja yang luka-lukanya dibalut oleh Wang Jin-pyng saat bersekolah di Jinde High School, hingga melangkah ke kampus National Taiwan University yang berdebu pada tahun 1989 dan mendanai pendirian Guanghua College of Management, hingga menyumbangkan dana perwalian sebesar NT$3 miliar untuk mendirikan Tang Prize pada tahun 2012. Dengan hadiah sebesar NT$50 juta per kategori, jumlah ini melampaui Nobel. Seorang pengusaha Taiwan yang baru saja berpulang, meninggalkan sebuah penghargaan bagi dunia yang nilainya lebih mahal daripada Nobel.'
 date: 2026-05-26
 category: 'People'
 tags:
   [
-    'Yin Yen-liang',
+    'Yin Yan-liang',
     'Ruentex Group',
     'Tang Prize',
-    'Nan Shan Life Insurance',
+    'Nanshan Life',
     'RT-Mart',
-    'Kolege Manajemen Guanghua Universitas Nasional Taiwan',
+    'Guanghua College of Management NTU',
     'Filantropi Taiwan',
-    'Metode Pracetak',
+    'Metode Konstruksi Precast',
     'Wang Jin-pyng',
-    'Szeto Da-xian',
+    'Situ Dazhen',
     'Wang Qi-fan',
     'Yin Chong-yao',
-    'Akademi Sinica',
-    'Pusat Kanker Ion Berat RS Veteran Taipei',
-    'pelestarian kedaulatan',
-    'Meninggal 2026',
+    'Academia Sinica',
+    'Pusat Kanker Partikel Berat Taipei Veterans General Hospital',
+    'sovereignty preservation',
+    'Wafat tahun 2026',
   ]
 subcategory: '企業家'
 author: 'Taiwan.md'
@@ -34,295 +34,301 @@ imageCredit: '中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
 sporeLinks:
-  [
-    "{'id': 95, 'platform': 'threads', 'date': '2026-05-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DYzmiFqE0mC'}",
-    "{'id': 96, 'platform': 'x', 'date': '2026-05-26', 'url': 'https://x.com/taiwandotmd/status/2059290686671982831'}",
-  ]
+  - id: 95
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzmiFqE0mC'
+  - id: 96
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:de14cddb4cd06bf6'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-07-30T03:46:41.699854+00:00'
+translatedAt: '2026-11-18T09:12:14.314052+00:00'
 ---
 
-# Yin Yan-liang: Hadiah Sains yang Ia Bangun, Lebih Mahal dari Nobel
+# Yin Yan-liang: Penghargaan Sains yang Ia Dirikan Lebih Mahal daripada Nobel
 
-> **Ringkasan 30 Detik**: 26 Mei 2026 pukul 04.21 pagi, Presiden Direktur Ruentex Group, pendiri Hadiah Tang, Yin Yan-liang meninggal dunia di Rumah Sakit Taipei Veterans General Hospital, berusia 76 tahun[^1]. Ia berjanji secara publik saat hidup untuk menyumbangkan 95% hartanya setelah meninggal[^2]: membangun Pusat Kanker Heavy Ion untuk RS Taipei Veterans General Hospital, membangun Perpustakaan Da Xian untuk Universitas Politik Nasional, membangun Gedung Kegiatan Wang Jin-pyng untuk Universitas Pendidikan Changhua. Tahun 2012 mendonasikan dana kepercayaan 3 miliar New Taiwan Dollar untuk mendirikan Hadiah Tang, hadiah keempat kategorinya masing-masing 50 juta New Taiwan Dollar, melebihi Nobel[^3]. Keluarga mengikuti wasiatnya dengan sederhana, tidak mendirikan ruang duka, tidak mengadakan upacara publik.
+> **Ringkasan 30 Detik**: Pada tanggal 26 Mei 2026 pukul 04.21 pagi, Presiden Grup Runtai sekaligus pendiri Tang Prize, Yin Yan-liang, wafat di Taipei Veterans General Hospital pada usia 76 tahun[^1]. Semasa hidupnya, ia berjanji secara terbuka akan menyumbangkan 95% hartanya setelah meninggal dunia[^2]: membangun Pusat Kanker Partikel Berat untuk Taipei VGH, membangun Perpustakaan Daxian untuk NCCU, dan membangun Pusat Aktivitas Wang Jin-ping untuk NTNU. Pada tahun 2012, ia mendirikan Tang Prize melalui dana perwalian sebesar NT$3 miliar, dengan hadiah untuk masing-masing dari empat kategori sebesar NT$50 juta, jumlah yang melampaui Nobel[^3]. Keluarga menuruti wasiatnya untuk menyelenggarakan pemakaman secara sederhana, tanpa mendirikan aula duka maupun mengadakan upacara peringatan publik.
 
-## Rumah Sakit Itu, Adalah Dia Sendiri yang Menyumbangkannya
+## Rumah Sakit Itu, Ia Sumbangkan Sendiri
 
-26 Mei 2026 pukul 04.21 pagi, Rumah Sakit Taipei Veterans General Hospital.
+Pukul 04:21 pagi pada tanggal 26 Mei 2026, di Taipei Veterans General Hospital.
 
-Presiden Ruentex Group Yin Yan-liang meninggal dunia dengan tenang di sini, berusia 76 tahun. Keluarga menemani di sisinya. Pada pagi hari yang sama, kelompok mengeluarkan pernyataan 574 karakter, seluruh staf merasa sangat sedih dan tidak tega kehilangan[^1].
+Presiden Grup Runtai, Yin Yan-liang, berpulang dengan tenang di sini pada usia 76 tahun. Keluarga mendampingi di sisinya. Pagi itu juga, grup mengeluarkan pernyataan sepanjang 574 kata, dan seluruh rekan kerja merasa sangat berduka serta kehilangan[^1].
 
-Sedangkan Rumah Sakit Taipei Veterans General Hospital tempat dia wafat, adalah dia sendiri yang menyumbangkannya.
+Dan rumah sakit tempat ia menghembuskan napas terakhir ini, Taipei Veterans General Hospital (Taipei VGH), adalah rumah sakit yang ia sumbangkan sendiri.
 
-Pusat Kanker Ion Berat Rumah Sakit Taipei Veterans General Hospital yang diresmikan 2024, biaya pembangunan 1,5 miliar dolar Taiwan baru, sepenuhnya dibiayai oleh donasi pribadinya[^4]. Satu-satunya syarat donasi, adalah mewajibkan rumah sakit setiap tahun minimal 2% volume perawatan harus berupa perawatan gratis untuk kelompok rentan. Direktur Rumah Sakit Taipei Veterans General Hospital Chen Wei-ming mengingat Yin Yan-liang pernah berkata saat hidup:
+Pusat Kanker Partikel Berat Taipei VGH yang mulai beroperasi pada tahun 2024 memiliki biaya pembangunan sebesar NT$1,5 miliar, yang seluruhnya berasal dari donasi pribadinya[^4]. Satu-satunya syarat donasi tersebut adalah meminta agar rumah sakit menyediakan setidaknya 2% dari volume perawatan tahunan sebagai pengobatan gratis bagi kelompok masyarakat kurang mampu. Direktur Taipei VGH, Chen Wei-ming, mengenang satu kalimat yang pernah diucapkan Yin Yan-liang semasa hidupnya:
 
-> "Semakin cepat selesai, semakin cepat seorang pasien diselamatkan."[^4]
+> "Semakin cepat selesai, semakin cepat satu pasien terselamatkan."[^4]
 
-Karyawan Ruentex Group saat itu tidak libur tahun baru dan bekerja keras mengejar target, 15,3 bulan saja pusat itu dibangun. Asrama tenaga medis di rumah sakit yang sama, juga donasinya, 2,1 miliar dolar Taiwan baru, mulai dibangun September 2022, nol kecelakaan kerja, dihuni Agustus 2024[^5].
+Para karyawan Grup Runtai bahkan tidak mengambil cuti selama Tahun Baru pada periode tersebut demi mengejar target pengerjaan, sehingga pusat tersebut dapat selesai dibangun dalam waktu 15,3 bulan. Asrama tenaga medis di rumah sakit yang sama juga merupakan sumbangannya senilai NT$2,1 miliar; konstruksi dimulai pada September 2022 tanpa kecelakaan kerja, dan mulai ditempati pada Agustus 2024[^5].
 
-Chen Wei-ming pada pagi 26 Mei saat diwawancarai berkata: "Dia adalah orang yang paling kuhormati seumur hidupku."[^1]
+Dalam wawancara pada pagi hari tanggal 26 Mei, Chen Wei-ming mengatakan: "Beliau adalah orang yang paling saya kagumi seumur hidup saya."[^1]
 
-## Dua hal yang diajarkan ayahnya kepadanya
+## Dua Hal yang Diajarkan Ayahnya
 
-Yin Yan-liang lahir di Taipei pada 16 Agustus 1950, ayahnya Yin Shu-tian berasal dari Rizhao, Shandong[^6]. Yin Shu-tian mendirikan Ruentex Textile pada 1956, dan dikenal sebagai "Raja Kain Kotak" serta "Raja Kain Jeans" di industri tekstil Taiwan pasca-perang[^7].
+Yin Yan-liang lahir di Taipei pada 16 Agustus 1950, ayahnya, Yin Shu-tien, berasal dari Rizhao, Shandong[^6]. Yin Shu-tien mendirikan Runtai Textile pada tahun 1956, dan merupakan "Raja Kain Kotak-kotak" serta "Raja Denim" yang terkenal dalam industri tekstil Taiwan pasca-perang[^7].
 
-Namun Yin Yan-liang kecil adalah anak yang membuat ayahnya pusing.
+Namun, saat masih kecil, Yin Yan-liang adalah anak yang membuat ayahnya pusing.
 
-Ia sendiri kemudian menyebut dalam beberapa wawancara bahwa dari usia 14 hingga 16,5 tahun, ia menghabiskan dua setengah tahun di lembaga perbaikan[^8]. Pada 1966, berusia 16 tahun, ia dikirim ayahnya ke SMA Chengde di Changhua untuk menginap di asrama, dengan harapan manajemen ketat bergaya perwira dapat memperbaikinya. Di SMA Chengde, ia bertemu seorang guru matematika bernama Wang Jin-pyng.
+Dalam berbagai wawancara di kemudian hari, ia menyebutkan bahwa antara usia 14 hingga 16 setengah tahun, ia menghabiskan dua setengah tahun di lembaga rehabilitasi[^8]. Pada tahun 1966, di usia 16 tahun, ia dikirim oleh ayahnya untuk tinggal di asrama Sekolah Menengah Jinde di Changhua, dengan harapan manajemen ketat ala instruktur militer dapat memperbaikinya. Di Sekolah Menengah Jinde, ia bertemu dengan seorang guru matematika bernama Wang Jin-ping.
 
-Suatu kali setelah terluka dalam perkelahian, ia lari ke asrama Wang Jin-pyng. Wang Jin-pyng menganggapnya "bukan jahat secara alami, hanya emosi muda", tidak melaporkan ke sekolah, dan sendiri memasukkan luka-lukanya. Kemudian Wang Jin-pyng berdiri sambil memberi nasihat padanya:
+Suatu kali saat terluka akibat perkelahian, ia melarikan diri ke asrama Wang Jin-ping. Wang Jin-ping menganggap bahwa "sifat dasarnya tidak buruk, hanya saja sedang bergejolak karena usia muda," sehingga ia tidak melaporkannya kepada pihak sekolah dan justru membalut lukanya sendiri. Kemudian, Wang Jin-ping berdiri di hadapannya dan memberikan nasihat:
 
-> "Yan-liang, orang tuamu sangat berharap padamu, kau tidak belajar dengan serius malah terluka dipukul orang, tubuh rambut kulit diterima dari orang tua, merusaknya adalah tidak berbakti, kau harus jadi manusia baru."[^9]
+> 「Yan-liang, orang tuamu menaruh harapan tinggi padamu. Kamu tidak belajar dengan serius dan malah terluka karena dipukuli. Tubuh, rambut, dan kulit adalah pemberian orang tua; merusaknya berarti tidak berbakti. Kamu harus berubah menjadi orang yang baru.」[^9]
 
-Kalimat ini kemudian diulang-ulangnya. Pada 2019, ia menyumbangkan 3,27 miliar dolar Taiwan baru ke Universitas Pendidikan Changhua untuk membangun "Gedung Kegiatan Wang Jin-pyng"[^10]. Wang Jin-pyng saat itu sudah pensiun dari jabatan Ketua Legislatif sejak beberapa tahun.
+Ia berulang kali menceritakan kembali kata-kata ini di kemudian hari. Pada tahun 2019, ia menyumbangkan NT$327 juta kepada National Changhua University of Education untuk membangun "Pusat Aktivitas Wang Jin-ping"[^10]. Saat itu, Wang Jin-ping telah pensiun dari jabatan Presiden Legislatif selama bertahun-tahun.
 
-Setelah keluar dari SMA Chengde, ia lolos masuk Jurusan Sejarah Universitas Chinese Culture. Pada 1982 ia memperoleh gelar Magister dari Institut Bisnis Universitas Taiwan, pada 1986 gelar Doktor Manajemen Bisnis dari Universitas Politik Nasional[^11], dengan pembimbing Szu-tu Ta-hsien, senior akademisi manajemen Taiwan, judul disertasinya adalah "Penelitian Pengaruh Strategi Perubahan Organisasional terhadap Komitmen Organisasi: Studi Kasus Komputerisasi PT Ruentex Industries". Disertasi itu justru tentang perusahaan miliknya sendiri.
+Setelah lulus dari Sekolah Menengah Jinde, ia masuk ke Departemen Sejarah di Universitas Culture. Pada tahun 1982, ia meraih gelar Magister dari Institut Studi Bisnis Universitas Nasional Taiwan, dan pada tahun 1986 memperoleh gelar Doktor Manajemen Bisnis dari Universitas Politik (NCCU)[^11]. Profesor pembimbingnya adalah tokoh senior dalam dunia manajemen Taiwan, Situ Da-xian. Judul disertasi doktornya adalah 〈Studi tentang Pengaruh Strategi Perubahan Organisasi terhadap Komitmen Organisasi: Studi Kasus Komputerisasi pada Runtai Industrial Co., Ltd.〉. Disertasi tersebut ditulis mengenai perusahaannya sendiri.
 
-Saat lulus universitas masih ada pelajaran lain dari ayahnya. Teman dekat ayahnya, Cheng Tso-heng, membawanya ke rumah makan Mayflower di Taipei dulu. Banyak gadis cantik mengelilingi, beberapa langsung memberikan ciuman; Cheng Tso-heng mengeluarkan selembar uang dan meletakkannya di meja, uang itu "habis dalam sekejap, disambut dengan senyuman lebih hangat dan gemilang" oleh para gadis kepada Yin Yan-liang. Kemudian Cheng Tso-heng memberitahunya, ini adalah pengaturan ayahnya, untuk mengajarkan dua hal:
+Saat lulus universitas, ada tugas lain yang diberikan oleh ayahnya. Teman baik ayahnya, Zheng Zuo-heng, membawanya ke sebuah rumah bordil Mayflower di Taipei saat itu. Banyak wanita cantik mengerumuninya, beberapa bahkan langsung memberikan ciuman; Zheng Zuo-heng mengeluarkan segepok uang dan meletakkannya di meja, yang kemudian "disapu bersih oleh para wanita tersebut, yang menyambut Yin Yan-liang dengan senyum yang lebih hangat dan ceria." Setelah kejadian itu, Zheng Zuo-heng memberi tahu bahwa ini adalah pengaturan ayahnya untuk mengajarkannya dua hal:
 
-> "Jangan pernah berjudi, bahkan jika memiliki harta miliaran, besok bisa saja habis semua."
+> 「Jangan pernah berjudi; meskipun memiliki kekayaan miliaran, besok pun kamu bisa kehilangan segalanya.」
 >
-> "Gadis-gadis itu tidak benar-benar menyukaimu, mereka mencintai uang, jika kau bodoh sampai ditipu wanita, itu pantas saja."[^12]
+> 「Wanita-wanita itu tidak benar-benar menyukaimu, mereka mencintai uangmu. Jika kamu cukup bodoh hingga ditipu oleh wanita, itu adalah kesalahanmu sendiri.」[^12]
 
-Sedangkan ayahnya sendiri merangkum ajaran keluarga: "Berbisnis hanyalah angka uang, tapi pendidikan lah yang merupakan usaha besar untuk diturunkan."[^12]
+Dan sang ayah sendiri merangkum aturan keluarga tersebut dengan kalimat: 「Berbisnis hanyalah soal angka uang, tetapi pendidikan adalah warisan besar yang akan turun-temurun.」[^12]
 
-## Kunjungan Pertama ke Universitas Peking, Debu Menutupi Pergelangan Kaki
+## Perhentian Pertama di Peking University, Debu Menutupi Mata Kaki
 
-Pada tahun 1975, Yin Yan-liang mengambil alih usaha tekstil dan pencelupan Ruentex milik ayahnya[^13]. Pada tahun 1977, ia mendirikan Ruentex Construction, melangkah dari industri tekstil ke industri konstruksi[^14]. Kemudian Ruentex Group mengembangkan tiga perusahaan terbuka: Ruentex Xin (konstruksi, 9945), Ruentex Quan (grosir dan perdagangan tekstil, 2915), dan Ruentex Precision Materials (peralatan medis)[^15].
+Pada tahun 1975, Yin Yan-liang mengambil alih perusahaan tekstil milik ayahnya, Runtai Textile dan Runhua Dyeing[^13]. Pada tahun 1977, ia mendirikan Runtai Construction, melangkah dari industri tekstil ke industri konstruksi[^14]. Belakangan, Grup Runtai mengembangkan tiga perusahaan publik: Runtai New (konstruksi, 9945), Runtai All (ritel dan perdagangan tekstil, 2915), dan Runtai Precision Materials (peralatan medis)[^15].
 
-Namun yang benar-benar menjadikannya salah satu orang terkaya di Taiwan adalah hal yang terjadi kemudian.
+Namun, hal yang benar-benar membuatnya menjadi salah satu orang terkaya di Taiwan adalah peristiwa yang terjadi jauh setelah itu.
 
-Pada tahun 1989, ia pertama kali ke Tiongkok daratan. Di luar jadwal kunjungan yang sudah ditetapkan, ia menyelinap pergi untuk melihat Universitas Peking yang sudah lama diimpikannya.
+Pada tahun 1989, ia pertama kali berkunjung ke Tiongkok daratan. Di luar jadwal kunjungan yang telah ditentukan, ia menyelinap keluar untuk mengunjungi Peking University yang telah lama ia idamkan.
 
-> 「Saat melangkah ke Universitas Peking, debu terbang ke mana-mana, kulit buah dan kertas berserakan hampir menutupi pergelangan kaki, kesenjangan antara imajinasi dan realitas terlalu besar, membuatnya sedih dari lubuk hati.」[^16]
+> 「Begitu melangkah masuk ke Peking University, debu beterbangan, dan kulit buah serta potongan kertas di lantai hampir menutupi mata kaki; perbedaan antara imajinasi dan kenyataan yang terlalu besar membuatnya merasa sedih.」[^16]
 
-Di jalan pulang ia pergi menemui Nan Huai-jin. Nan Huai-jin menggalang dukungan dan ia menyediakan dana, pada tahun yang sama mereka mendirikan「Yayasan Pendidikan Guanghua」[^17]. Tujuan yayasan tersebut adalah mendukung pendidikan tinggi di Tiongkok daratan. Pada tahun 1994, ia mendorong Fakultas Administrasi Bisnis Universitas Peking berganti nama menjadi「Sekolah Manajemen Guanghua」, dan menjabat sebagai ketua dewan pendiri pertama[^18].
+Dalam perjalanan pulang, ia pergi menemui Nan Huaijin. Dengan Nan Huaijin yang memberikan seruan dan Yin Yan-liang yang menyediakan dana, "Yayasan Pendidikan Guanghua" didirikan pada tahun itu[^17]. Tujuan yayasan tersebut adalah untuk mendukung pendidikan tinggi di Tiongkok daratan. Pada tahun 1994, ia mendorong Fakultas Manajemen Bisnis Peking University untuk berganti nama menjadi 「Guanghua School of Management」, dan menjabat sebagai ketua dewan pendiri[^18].
 
-Selama tiga puluh tahun berikutnya, Guanghua Peking menjadi salah satu lembaga MBA terpenting di Tiongkok daratan, bersebelahan dengan Cheung Kong Graduate School of Business dan China Europe International Business School sebagai「Tiga Sekolah Bisnis Terbesar Tiongkok」. Sebuah sekolah yang dibangun dengan modal Taiwan dan jaringan akademisi manajemen Taiwan, hingga kini melatih ribuan manajer Tiongkok daratan setiap tahun.
+Selama tiga puluh tahun berikutnya, Guanghua Peking University menjadi salah satu pusat pelatihan MBA terpenting di Tiongkok daratan, sejajar dengan Cheung Kong Graduate School of Business dan CEIBS sebagai "Tiga Sekolah Bisnis Terbesar di Tiongkok". Sebuah akademi yang dibangun oleh modal Taiwan dan jaringan akademisi manajemen Taiwan ini, hingga kini setiap tahunnya melatih ribuan manajer dari Tiongkok daratan.
 
-Di sisi Taiwan, donasinya pun tidak pernah berhenti. Pada tahun 2007 ia menyumbangkan 2,6 miliar dolar Taiwan baru untuk Gedung Penelitian Sipil Universitas Taiwan[^19], pada tahun 2018 menyumbangkan proyek perluasan Pusat Penelitian Teknik Gempa Nasional (diresmikan 2020). Antara 2017 hingga 2019, untuk merayakan ulang tahun ke-70 dosen pembimbingnya Seetoo Dah-hsian, ia menyumbangkan sekitar 13 miliar dolar Taiwan baru kepada Universitas Politik Nasional untuk membangun「Perpustakaan Dah-hsian」[^20].
+Di Taiwan sendiri, donasinya tidak pernah berhenti. Pada tahun 2007, ia menyumbang NT$260 juta untuk Gedung Penelitian Teknik Sipil NTU[^19], dan pada tahun 2018, ia menyumbang untuk proyek perluasan Pusat Penelitian Rekayasa Gempa Nasional (mulai digunakan pada tahun 2020). Antara tahun 2017 hingga 2019, untuk merayakan ulang tahun ke-70 profesor pembimbingnya, Situ Daxian, ia menyumbang sekitar NT$1,3 miliar kepada NCCU untuk membangun 「Perpustakaan Daxian」[^20].
 
-Skala donasi lintas selat yang masif membuatnya sering disebut media sebagai「Salah Satu Orang Terkaya di Asia」「Filantrop Kelas Godfather」. Namun pada 22 Desember 2011, ia melakukan hal lain yang mengangkat kestatannya ke tingkat lebih tinggi.
+Skala donasi yang melintasi selat membuatnya sering dijuluki oleh media sebagai "salah satu orang terkaya di Asia" dan "filantropis tingkat godfather". Namun pada 22 Desember 2011, ia melakukan hal lain yang mengangkat derajat reputasinya lebih tinggi lagi.
 
-Hari itu, ia berjanji secara publik untuk menyumbangkan 95% hartanya setelah meninggal untuk amal[^2].
+Pada hari itu, ia secara terbuka berjanji untuk menyumbangkan 95% harta pribadinya untuk amal setelah ia meninggal dunia[^2].
 
-![Tampilan eksterior Perpustakaan Dah-hsian Universitas Politik Nasional, dibangun dengan donasi sekitar 13 miliar dolar Taiwan baru oleh Yin Yan-liang untuk merayakan ulang tahun ke-70 dosen pembimbingnya Seetoo Dah-hsian](/article-images/people/yin-nccu-dah-hsian-library-2022.webp)
-_Tampilan eksterior Perpustakaan Dah-hsian Universitas Politik Nasional, dibangun dengan donasi sekitar 13 miliar dolar Taiwan baru oleh Yin Yan-liang untuk merayakan ulang tahun ke-70 dosen pembimbingnya Seetoo Dah-hsian. Photo: Wikimedia Commons contributor, 2022-08-15. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Dah_Hsian_Seetoo_Library_front_20220815.jpg)._
+![Tampilan luar Perpustakaan Daxian NCCU, dibangun melalui sumbangan Yin Yan-liang sekitar NT$1,3 miliar untuk merayakan ulang tahun ke-70 profesor pembimbingnya, Situ Daxian](/article-images/people/yin-nccu-dah-hsian-library-2022.webp)
+_Perpustakaan Daxian NCCU, selesai dibangun pada tahun 2019. Yin Yan-liang menyumbang sekitar NT$1,3 miliar untuk merayakan ulang tahun ke-70 profesor pembimbingnya, Situ Daxian. Photo: Wikimedia Commons contributor, 2022-08-15. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Dah_Hsian_Seetoo_Library_front_20220815.jpg)._
 
-## Mengapa Dia Membangun Hadiah Sains, Bukan Museum
+## Mengapa Ia Membangun Penghargaan Sains, Bukan Museum
 
-Pada 20 Desember 2012, Yayasan Pendidikan Hadiah Tang didirikan di Taipei. Yin Yan-liang menyumbangkan dana kepercayaan senilai 3 miliar rupiah Taiwan baru sebagai modal dasar[^3].
+Pada 20 Desember 2012, Yayasan Pendidikan Tang Prize didirikan di Taipei. Yin Yan-liang menyumbangkan dana perwalian sebesar NT$3 miliar sebagai modal awal[^3].
 
-Mendirikan sebuah hadiah anehnya tidak istimewa. Sebagian besar kaya raya Taiwan memilih menyumbangkan museum, stadion, atau menamai gedung tertentu di sebuah universitas atas namanya. Namun ia memilih membangun sesuatu yang bersaing dengan Nobel.
+Mendirikan sebuah penghargaan bukanlah hal yang aneh. Banyak orang kaya di Taiwan memilih untuk menyumbang untuk museum, stadion olahraga, atau menamai suatu gedung di universitas tertentu. Namun, ia memilih untuk membangun sesuatu yang bersaing dengan Nobel.
 
-Hadiah Tang terbagi menjadi empat kategori besar: Pembangunan Berkelanjutan, Bioteknologi dan Kedokteran, Sinologi, dan Hukum[^21]. Diadakan setiap dua tahun. Hadiah bagi setiap pemenang adalah 50 juta rupiah Taiwan baru, di antaranya 40 juta diterima langsung oleh pemenang, 10 juta untuk biaya penelitian yang harus digunakan habis dalam lima tahun[^3]. Maksimal tiga orang berbagi hadiah dalam kategori yang sama.
+Tang Prize terbagi menjadi empat kategori utama: Pembangunan Berkelanjutan, Bioteknologi dan Kedokteran, Sinologi, dan Supremasi Hukum[^21]. Penghargaan ini diberikan setiap dua tahun sekali. Setiap pemenang menerima hadiah sebesar NT$50 juta, di mana NT$40 juta diterima oleh pribadi dan NT$10 juta merupakan dana penelitian yang harus digunakan dalam waktu lima tahun[^3]. Maksimal tiga orang dapat berbagi penghargaan dalam kategori yang sama.
 
-Apa arti 50 juta rupiah Taiwan baru?
+Apa gambaran dari NT$50 juta tersebut?
 
-Hadiah Nobel tahun 2024 berkisar 32,66 juta rupiah Taiwan baru[^22]. Dengan kata lain, hadiah per kategori Hadiah Tang lebih tinggi dari Nobel.
+Hadiah Nobel pada tahun 2024 adalah sekitar NT$32,66 juta[^22]. Dengan kata lain, hadiah tunggal Tang Prize lebih tinggi daripada Nobel.
 
-Mengapa memilih empat kategori ini? Yin Yan-liang pernah berkata, Dinasti Tang baginya adalah 「既羅曼蒂克又奔放的時代」[^23]。Penamaan hadiah diambil dari Dinasti Tang Agung, tanggal pengumuman pemenang dipilih pada 18 Juni, tepat hari jadi berdirinya Dinasti Tang. Dua edisi pertama pemilihannya diserahkan kepada Akademia Sinica[^24]; mulai edisi ketiga berubah menjadi komite independen yang dibentuk sendiri oleh yayasan. Dukungan awal Akademia Sinica adalah titik awal kredibilitas Hadiah Tang.
+Mengapa memilih keempat kategori ini? Yin Yan-liang pernah mengatakan bahwa Dinasti Tang adalah "era yang romantis sekaligus ekspresif" dalam benaknya[^23]. Penamaan penghargaan ini diambil dari Dinasti Tang, dan tanggal pengumuman pemenang dipilih pada 18 Juni, yang merupakan hari peringatan berdirinya Dinasti Tang. Seleksi untuk dua periode pertama dikelola oleh Academia Sinica[^24]; mulai periode ketiga, pengelolaan beralih ke yayasan dengan membentuk komite independen sendiri. Dukungan awal dari Academia Sinica merupakan titik awal kredibilitas Tang Prize.
 
-Hadiah Tang pertama diberikan pada 18 September 2014 di Memorial Hall Bapak Negara Taipei[^25]。Hadiah Pembangunan Berkelanjutan diberikan kepada mantan Perdana Menteri Norwegia Gro Brundtland, penulis utama laporan PBB 《Our Common Future》, pengusung istilah 「永續發展」。Hadiah Bioteknologi dan Kedokteran diberikan kepada sarjana AS James Allison dan sarjana Jepang 本庶佑（Tasuku Honjo）。Hadiah Sinologi diberikan kepada profesor kepercayaan Universitas Princeton 余英時。Hadiah Hukum diberikan kepada mantan Hakim Agung Mahkamah Konstitusi Afrika Selatan Albie Sachs[^26]。
+Tang Prize pertama kali diserahkan pada 18 September 2014 di National Sun Yat-sen Memorial Hall di Taipei[^25]. Penghargaan Pembangunan Berkelanjutan diberikan kepada mantan Perdana Menteri Norwegia Gro Brundtland, yang merupakan penulis utama laporan PBB 《Our Common Future》 dan pencetus istilah "pembangunan berkelanjutan". Penghargaan Bioteknologi dan Kedokteran diberikan kepada akademisi Amerika James Allison dan akademisi Jepang Tasuku Honjo. Penghargaan Sinologi diberikan kepada Profesor di Princeton University, Yu Ying-shih. Penghargaan Supremasi Hukum diberikan kepada mantan hakim konstitusi Afrika Selatan, Albie Sachs[^26].
 
-Daftarnya terlihat sangat bermartabat, tetapi ujian nyata ada di empat tahun ke depan。
+Daftar pemenang tersebut tampak sangat bergengsi, namun ujian yang sebenarnya ada pada empat tahun berikutnya.
 
-## Tang Prize Divalidasi oleh Nobel dalam Empat Tahun
+## Tang Prize Membuktikan Validitas Nobel dalam Empat Tahun
 
-Pada 1 Oktober 2018, Institut Karolinska Swedia mengumumkan pemenang Nobel Fisiologi atau Kedokteran tahun itu:
+Pada 1 Oktober 2018, Karolinska Institutet di Swedia mengumumkan pemenang Nobel Fisiologi atau Kedokteran tahun tersebut:
 
-**James Allison dan Tasuku Honjo, atas penemuan protein pemeriksa imun CTLA-4 dan PD-1 oleh keduanya, membuka era baru imunoterapi kanker.**[^27]
+**James Allison dan Tasuku Honjo, atas penemuan protein titik pemeriksaan imun CTLA-4 dan PD-1 yang membuka era baru dalam imunoterapi kanker.**[^27]
 
-Sama persis dua orang itu, sama persis arah penelitiannya. Pilihan Tang Prize 2014, empat tahun kemudian diverifikasi oleh Nobel.
+Dua orang yang sama, arah penelitian yang sama persis. Pilihan Tang Prize pada tahun 2014 terbukti benar oleh Nobel empat tahun kemudian.
 
-Ini bukan kebetulan.
+Ini bukanlah sebuah kebetulan.
 
-Pada 2016, Hadiah Bioteknologi dan Kedokteran Tang Prize ke-2 diberikan kepada tiga pelopor teknologi pengeditan gen CRISPR/Cas9: Emmanuelle Charpentier, Jennifer Doudna, dan Zhang Feng. Di antara mereka, Charpentier dan Doudna pada 2020 bersama-sama menerima Nobel Kimia[^28].
+Pada tahun 2016, Tang Prize Bidang Bioteknologi dan Kedokteran kedua dianugerahkan kepada tiga pionir teknologi penyuntingan gen CRISPR/Cas9: Emmanuelle Charpentier, Jennifer Doudna, dan Chang Feng. Di antara mereka, Charpentier dan Doudna keduanya dianugerahi Nobel Kimia pada tahun 2020[^28].
 
-Pada 2022, Hadiah Bioteknologi dan Kedokteran Tang Prize ke-5 diberikan kepada tiga pengembang teknologi vaksin mRNA: Katalin Karikó, Drew Weissman, Pieter Cullis. Di antara mereka, Karikó dan Weissman pada 2023 menerima Nobel Fisiologi atau Kedokteran[^29].
+Pada tahun 2022, Tang Prize Bidang Bioteknologi dan Kedokteran kelima dianugerahkan kepada tiga pengembang teknologi vaksin mRNA: Katalin Karikó, Drew Weissman, dan Pieter Cullis. Di antara mereka, Karikó dan Weissman dianugerahi Nobel Fisiologi atau Kedokteran pada tahun 2023[^29].
 
-Tiga edisi berturut-turut pemenang Bidang Bioteknologi Tang Prize, kemudian semuanya menerima Nobel. Bagi sebuah penghargaan baru yang baru didirikan 2012, didanai oleh modal Taiwan, tingkat akurasi prediksi ini sendiri adalah bukti independensi pemilihannya.
+Para pemenang Tang Prize bidang bioteknologi selama tiga periode berturut-turut semuanya berhasil meraih Nobel di kemudian hari. Bagi sebuah penghargaan baru yang baru didirikan pada tahun 2012 dan didukung oleh modal Taiwan, akurasi prediksi semacam ini merupakan bukti dari independensi proses seleksinya.
 
-Tang Prize dan Nobel memiliki perbedaan lain.
+Ada satu perbedaan lain antara Tang Prize dan Nobel.
 
-Berdasarkan statistik hingga edisi keenam 2024, Tang Prize empat kategori telah diberikan kepada 32 individu atau institusi, di antaranya 9 perempuan, mencakup 28%[^22]. Pada periode yang sama, proporsi pemenang perempuan Nobel tiga bidang sains (Fisika, Kimia, Kedokteran) sekitar 6%[^22]. Tang Prize tidak hanya hadiah uangnya lebih tinggi, struktur gender para pemenangnya juga lebih terbuka.
+Hingga periode keenam pada tahun 2024, empat kategori utama Tang Prize telah dianugerahkan kepada total 32 individu atau institusi, di mana 9 di antaranya adalah perempuan, mencakup 28%[^22]. Pada periode yang sama, proporsi pemenang perempuan dalam tiga bidang sains Nobel (Fisika, Kimia, Kedokteran) hanya sekitar 6%[^22]. Tang Prize tidak hanya menawarkan hadiah uang yang lebih tinggi, tetapi juga memiliki struktur gender pemenang yang lebih inklusif.
 
-Pada 2020, Hadiah Pembangunan Berkelanjutan Tang Prize ke-4, pemenangnya adalah Jane Goodall (珍古德), pelopor penelitian simpanse, Duta Perdamaian PBB[^30]. Pada 2024, pemenang Hadiah Sinologi Tang Prize ke-6 adalah Xu Zhuoyun (許倬雲), penulis _Wan Gu Jiang He_ (《萬古江河》), kakek ipar dari pihak ibu Wang Li-hong[^31]. Pemenang Hadiah Hukum tahun itu adalah Mary Robinson (mantan Presiden Irlandia, mantan Komisaris Tinggi PBB untuk Hak Asasi Manusia).
+Pada tahun 2020, Tang Prize Bidang Pembangunan Berkelanjutan keempat dianugerahkan kepada Jane Goodall, seorang pionir penelitian simpanse dan Duta Perdamaian PBB[^30]. Pada tahun 2024, pemenang Tang Award Sinologi keenam adalah Xu Zhuoyun, penulis 《萬古江河》 (Wangu Jianghe) sekaligus paman dari pihak ibu Wang Leehom[^31]. Sementara itu, pemenang Tang Prize Bidang Hukum pada tahun tersebut adalah Mary Robinson (mantan Presiden Irlandia dan mantan Komisaris Tinggi PBB untuk Hak Asasi Manusia).
 
-Ditinjau dari hasil pemilihan, Tang Prize telah melakukan hal yang jarang dicoba orang Taiwan: menggunakan modal sebuah pulau kecil, mendirikan sebuah hadiah sains yang sejajar dengan Nobel, dan bahkan memprediksi Nobel, serta mengangkat proporsi pemenang perempuan ke tingginya yang jarang terlihat di hadiah-hadiah tertinggi global. Dampak hal ini tidak akan tertutupi oleh saluran informasi manapun. Ketika sarjana asing mencari "Asian Nobel" atau "richer-than-Nobel prize", mereka akan melihat "Tang Prize" "Taiwan". Tiga jurnal internasional Nature, Science, Times Higher Education semuanya meliput Tang Prize dengan kerangka serupa[^22].
+Melihat kembali hasil seleksi tersebut, Tang Prize telah melakukan sesuatu yang jarang dicoba oleh orang Taiwan: menggunakan modal dari sebuah pulau kecil untuk membangun penghargaan ilmiah yang sejajar dengan Nobel sekaligus mampu memprediksi Nobel, serta meningkatkan proporsi pemenang perempuan ke tingkat yang langka di antara penghargaan kelas dunia lainnya. Dampak dari hal ini tidak akan dapat ditutupi oleh saluran informasi tunggal mana pun. Ketika para akademisi asing mencari istilah "Asian Nobel" atau "richer-than-Nobel prize", mereka akan menemukan "Tang Prize" dan "Taiwan". Tiga jurnal internasional, yaitu Nature, Science, dan Times Higher Education, semuanya melaporkan Tang Prize dengan kerangka serupa[^22].
 
-Bagi sebuah pulau yang sering dimarginalisasi oleh masyarakat internasional atas alasan politik, ini adalah cara lain menuliskan kedaulatan.
+Bagi sebuah negara yang sering kali dipinggirkan oleh komunitas internasional karena alasan politik, ini adalah cara lain dalam menuliskan kedaulatan.
 
-![Yin Yan-liang menghadiri resepsi sambutan Tang Prize edisi pertama 2014](/article-images/people/yin-yan-liang-tang-prize-reception.webp)
-_September 2014, resepsi sambutan Tang Prize edisi pertama. Foto: Pemerintah Kota Taipei, 2014-09-15. [Open data via Pemerintah Kota Taipei](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D6F7488144C1C3CA)._
+![Yin Yan-liang menghadiri resepsi penyambutan perdana Tang Prize tahun 2014](/article-images/people/yin-yan-liang-tang-prize-reception.webp)
+_September 2014, resepsi penyambutan perdana Tang Prize. Foto: Pemerintah Kota Taipei, 2014-09-15. [Open data via Taipei City Government](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=D6F7488144C1C3CA)._
 
-## Garis batas selalu berdiri di sisi dalam
+## Garis Batas Selalu Berada di Sisi Dalam
 
-Namun, dia tidak pernah menjadi sosok tanpa kontroversi.
+Namun, ia bukanlah sosok yang tanpa kontroversi.
 
-Pada 6 Agustus 2012, Kejaksaan Distrik Taipei menyidik "Kasus Rekening Rahasia Keamanan Nasional", Yin Yan-liang bersama beberapa pengusaha dicantumkan sebagai tersangka. Dia memilih mengakui kesalahan di pengadilan, sukarela membayar 10 juta dolar Taiwan baru sebagai sumbangan amal, memperoleh penundaan penuntutan selama satu tahun[^32]. Tuduhannya adalah melanggar "Undang-Undang Akuntansi Bisnis" dan "Pemalsuan Dokumen". Media saat itu menjuluki dia sebagai "Firewall Terkuat dalam Badai Kehakiman".
+Pada 6 Agustus 2012, Kejaksaan Distrik Taipei menyelidiki "Kasus Buku Rahasia Keamanan Nasional", di mana Yin Yan-liang dan beberapa pengusaha lainnya ditetapkan sebagai terdakwa. Ia memilih untuk mengaku bersalah di pengadilan dan secara sukarela membayar sumbangan amal sebesar NT$10 juta, yang ditukarkan dengan penangguhan penuntutan selama satu tahun[^32]. Dakwaannya adalah pelanggaran terhadap 《Undang-Undang Akuntansi Bisnis》 dan pemalsuan dokumen. Media saat itu menjulukinya sebagai "benteng pertahanan terkuat dalam badai yudisial".
 
-Dua tahun kemudian, Mei 2014, Wakil Bupati Taoyuan Ye Shi-wen datang mengunjungi kantor Yin Yan-liang. Ye Shi-wen mengajukan kasus perumahan nasional Linkou dan perumahan layak huni, membaginya menjadi empat bagian, artinya "hanya perlu membayar 1% nilai umum tunai, beberapa puluh juta untuk mendapatkan satu lahan".
+Dua tahun kemudian, pada Mei 2014, Wakil Gubernur Taoyuan Ye Shi-wen mengunjungi kantor Yin Yan-liang. Ye Shi-wen mengusulkan proyek perumahan negara di Linkou dan perumahan layak huni, yang dibagi menjadi empat bagian, dengan maksud "cukup membayar 1% dari nilai tunai yang diumumkan dalam bentuk tunai, maka beberapa puluh juta dapat ditukarkan dengan satu bidang tanah".
 
-Yin Yan-liang menolak langsung. Keesokan harinya menelpon ke Badan Anti-Korupsi untuk melaporkan dengan nama terang. Pejabat anti-korupsi datang ke kantornya sore hari itu untuk membuat catatan[^33]. Kemudian Ye Shi-wen dituntut dan dihukum. Ketika wartawan menanyakan apakah dia yang melaporkan, Yin Yan-liang menjawab dengan lugas:
+Yin Yan-liang menolak saat itu juga. Keesokan harinya, ia menelepon Badan Anti-Korupsi (Agency Against Corruption) untuk melaporkan hal tersebut dengan menyebutkan namanya sendiri. Petugas anti-korupsi datang ke kantornya pada sore hari yang sama untuk mengambil keterangan[^33]. Belakangan, Ye Shi-wen didakwa dan dijatuhi hukuman penjara. Ketika wartawan bertanya apakah dialah yang melaporkannya, Yin Yan-liang menjawab dengan lugas:
 
-> "Tidak salah, itu aku yang lakukan!"[^33]
+> "Benar, itu perbuatan saya!"[^33]
 
-Penjelasannya sendiri tentang pelaporan ini adalah: "Aku punya kebiasaan membenci kejahatan seperti musuh, menemui ketidakadilan, aku tarik pedang menebas rumput!"[^33]
+Ia sendiri menjelaskan tindakannya melaporkan hal tersebut dengan mengatakan: "Saya memiliki kebiasaan membenci kejahatan seperti membenci musuh; jika melihat jalan yang tidak rata, saya akan mencabut rumputnya!"[^33]
 
-Pada kasus pencucian uang Mega Financial dan kasus Haoding tahun 2016, dia keduanya hadir sebagai saksi, bukan tersangka[^34].
+Dalam kasus pencucian uang Mega International dan kasus Hao Ding pada tahun 2016, ia hadir di persidangan sebagai saksi, bukan sebagai terdakwa[^34].
 
-Di luar peristiwa hukum, ada juga kontroversi soal posisinya. Tahun 2013, dia di forum terbuka menyatakan:
+Di luar peristiwa hukum, terdapat pula kontroversi mengenai posisi politiknya. Pada tahun 2013, ia menyatakan dalam forum publik:
 
-> "Persatuan adalah hal yang pasti, posisi sejarah Ma Ying-jeou, justru adalah persatuan damai."[^35]
+> "Penyatuan adalah sebuah keniscayaan; posisi sejarah Ma Ying-jeou adalah penyatuan secara damai."[^35]
 
-Pernyataan ini membuatnya lama diposisikan oleh pengamat dari spektrum politik tertentu sebagai "Pengusaha Bertopi Merah". Tata letak bisnis lintas selatnya, termasuk Guanghua Peking University, titik-titik ritel Ruentex di daratan Tiongkok, serta akuisisi Nan Shan Life Insurance sebagai joint venture dengan Grup Pou Chen, juga ditafsirkan sebagai penilaian bisnis konkret dari taruhan ganda lintas selat.
+Pernyataan ini membuatnya dalam jangka panjang dikategorikan oleh pengamat spektrum politik tertentu sebagai "pedagang bertopi merah". Tata letak bisnis lintas selatnya, yang mencakup Guanghua di Peking University, titik ritel Runtai di Tiongkok daratan, serta akuisisi Nan Shan Life melalui usaha patungan grup Po Cheng, juga ditafsirkan sebagai keputusan bisnis konkret untuk melakukan taruhan ganda di kedua sisi selat.
 
-Pada 12 Januari 2011, Ruentex dan Pou Chen bersama-sama mendirikan Ruentex Investment Holding membeli 97,57% saham Nan Shan Life Insurance dari grup AIG Amerika Serikat seharga 2,16 miliar dolar AS (sekitar 62,8 miliar dolar Taiwan baru)[^36]. Dalam konferensi pers dia berjanji "sepuluh tahun tidak akan mentransfer saham Nan Shan Life Insurance; dua tahun tidak akan PHK". Sepuluh tahun kemudian sahamnya memang tetap di Grup Ruentex, dipimpin oleh putranya Yin Chong-yao (Doktor Ekonomi Universitas Oxford, 43 tahun) sebagai Ketua Dewan Direksi Nan Shan Life Insurance[^37].
+Pada 12 Januari 2011, Runcheng Investment yang dibentuk bersama oleh Runtai dan Po Cheng membeli 97,57% saham Nan Shan Life dari grup AIG Amerika Serikat senilai USD 2,16 miliar (sekitar NT$62,8 miliar)[^36]. Dalam konferensi pers, ia berjanji "tidak akan memindahkan kepemilikan saham Nan Shan Life dalam sepuluh tahun; tidak akan ada PHK dalam dua tahun". Sepuluh tahun kemudian, kepemilikan saham tersebut memang masih berada di bawah grup Runcheng, dengan putranya, Yin Chong-yao (Doktor Ekonomi dari Universitas Oxford, 43 tahun), menjabat sebagai ketua dewan direksi Nan Shan Life[^37].
 
-Di akhir hayatnya ia juga mengalami kesalahan penilaian bisnis. Pendiri Gogoro Horace Luke selama bertahun-tahun mengumpulkan dana darinya total lebih dari 10 miliar dolar Taiwan baru, 2024 Ruentex menambah 2,5 miliar investasi[^38]. Namun setelah Gogoro listing harga saham runtuh, Horace Luke berhutang dan hilang kontak, Ruentex memulai pengambilan bukti lintas laut untuk menagih 150 juta. Kesalahan menilai orang, dia sendiri pun tidak menyangkal.
+Di masa tuanya, ia juga mengalami kesalahan dalam penilaian bisnis. Pendiri Gogoro, Lu Hsueh-sen, telah mengumpulkan pendanaan darinya selama bertahun-tahun dengan total lebih dari NT$10 miliar, dan pada tahun 2024 Runtai kembali menambah modal sebesar NT$2,5 miliar[^38]. Namun, setelah Gogoro melantai di bursa saham, harga sahamnya anjlok, Lu Hsueh-sen menghilang setelah berutang, dan Runtai memulai proses pengumpulan bukti lintas laut untuk menuntut pengembalian sebesar NT$150 juta. Ia sendiri tidak menampik adanya kesalahan dalam menilai orang.
 
-Oktober 2021, dia memilih menjual RT-Mart ke PX Mart, 2022 transaksi selesai. Ruentex Xin dan Ruentex Quan masing-masing memperoleh keuntungan harga saham 1,303 miliar dolar Taiwan baru[^39], total nilai transaksi diperkirakan 1.300 hingga 1.500 miliar dolar Taiwan baru (termasuk properti dan merek). Pengambilalihan pemimpin grosir lokal, adalah garis pemisah era industri ritel Taiwan.
+Pada Oktober 2021, ia memilih untuk menjual RT-Mart kepada PX Mart, dan transaksi tersebut selesai pada tahun 2022. Runtai New dan Runtai All masing-masing memperoleh keuntungan harga saham sebesar NT$1,303 miliar[^39], dengan total valuasi transaksi sekitar NT$130 miliar hingga NT$150 miliar (termasuk real estat dan merek). Pergantian kepemilikan pemimpin ritel modern lokal ini merupakan titik balik era industri ritel di Taiwan.
 
-Dari penundaan penuntutan Kasus Rekening Rahasia Keamanan Nasional 2012 hingga pelaporan aktif Ye Shi-wen 2014 hingga gugatan Gogoro sebelum wafatnya 2026, garis batas selalu berdiri di sisi dalam orang itu. Secara hukum tidak ada vonis, secara bisnis tidak ada kebangkrutan, secara politik tidak ada pernyataan terbuka menentang sistem Republik Tiongkok. Sekaligus dia juga membangun Pusat Kanker Partikel Berat, Perpustakaan Da Xian Universitas Politik Nasional, Guanghua Peking University, dan Hadiah Tang.
+Dari penangguhan penuntutan kasus buku rahasia keamanan nasional tahun 2012, inisiatif melaporkan Ye Shi-wen pada 2014, hingga gugatan Gogoro sebelum wafatnya pada 2026, ia adalah orang yang garis batasnya selalu berada di sisi dalam. Secara hukum tidak pernah dihukum, secara bisnis tidak pernah bangkrut, dan secara politik tidak pernah menyatakan penolakan terbuka terhadap sistem Republik Tiongkok (Taiwan). Pada saat yang sama, ia juga mendirikan Pusat Kanker Partikel Berat, Perpustakaan Daxian NCCU, Guanghua Peking University, dan Tang Prize.
 
-Taruhan ganda lintas selat, privilese kalengan putih, pelapor, dermawan, kerangka-kerangka ini semuanya bersamaan adalah dia. Pembaca bisa memilih salah satu kerangka sebagai definisinya, juga bisa memilih menerima beberapa kerangka ini ada secara bersamaan.
+Taruhan ganda lintas selat, hak istimewa kelas menengah atas, pelapor, filantropis—semua kerangka ini ada pada dirinya secara bersamaan. Pembaca dapat memilih salah satu kerangka sebagai definisinya, atau memilih untuk menerima bahwa beberapa kerangka tersebut eksis secara bersamaan.
 
-![尹衍樑 2015 年公開場合肖像](/article-images/people/yin-yan-liang-portrait-2015.webp)
-_Yin Yan-liang, difoto pada 2015 di acara terbuka. Foto: Pemerintah Kota Taipei, 2015-10-28. [Open data via Pemerintah Kota Taipei](https://commons.wikimedia.org/wiki/File:Samuel_Yin_2015_(cropped).jpg).\_
+![Potret Yin Yan-liang di forum publik tahun 2015](/article-images/people/yin-yan-liang-portrait-2015.webp)
+_Yin Yan-liang, difoto pada forum publik tahun 2015. Photo: Pemerintah Kota Taipei, 2015-10-28. [Open data via Taipei City Government](https://commons.wikimedia.org/wiki/File:Samuel_Yin_2015_(cropped).jpg).\_
 
-## Satu Hari Lebih Cepat Selesai, Satu Pasien Lebih Cepat Diselamatkan
+## Selesai Lebih Awal, Menyelamatkan Satu Pasien Lebih Cepat
 
-Paragraf terakhir dari pernyataan 574 karakter yang dikeluarkan Ruentex Group pada pagi 26 Mei berbunyi: «Keluarga menghormati wasiatnya saat hidup, segala urusan pemakaman disederhanakan, tidak memasang ruang duka, tidak mengadakan upacara umum, dan dengan hormat menolak segala karangan bunga, tulisan duka, dan uang duka dari berbagai kalangan.»[^1]
+Bagian terakhir dari pernyataan 574 kata yang dikeluarkan oleh Grup Runtai pada pagi hari tanggal 26 Mei menuliskan: "Sesuai dengan wasiat mendiang, seluruh urusan pemakaman akan dilakukan sesederhana mungkin; tidak ada aula duka, tidak ada upacara peringatan publik, dan dengan rendah hati menolak karangan bunga, ucapan belasungkawa, serta sumbangan dari berbagai pihak." [^1]
 
-Dia berkali-kali mengatakan bahwa mengelola perusahaan adalah sarana, sedangkan kebajikan adalah tujuan. Tahun 2022, dia terpilih menjadi Akademisi Lembaga Penelitian Teknologi Industri (ITRI), gelar yang sesuai dengan kepemilikan lebih dari 600 paten teknik sipil internasional. Yang paling mewakili di antaranya adalah «Metode Pracetak»——sebuah teknologi konstruksi yang memungkinkan pabrik raksasa diselesaikan dalam 100 hari[^40]. Pembangunan pabrik tradisional dengan penuangan semen memerlukan 18 hingga 24 bulan, sedangkan metode pracetak memproduksi tiang, balok, lantai, dan dinding luar secara terstandarisasi di pabrik terlebih dahulu, lalu dirakit di lokasi. Saat industri setengah konduktor memerlukan ekspansi pabrik yang intensif untuk mengejar Hukum Moore, teknologi ini memungkinkan pabrik TSMC, Google, dan Microsoft di Taiwan untuk memproduksi secara massal dengan cepat.
+Ia berkali-kali mengatakan di masa lalu bahwa mengelola bisnis adalah sarana, sedangkan kegiatan amal adalah tujuannya. Pada tahun 2022, ia terpilih sebagai anggota Academia Sinica (Fellow), sebuah status yang selaras dengan kepemilikannya atas lebih dari 600 paten teknik sipil internasional. Yang paling representatif di antaranya adalah "metode pracetak" — sebuah teknologi konstruksi yang memungkinkan pembangunan pabrik raksasa selesai dalam waktu 100 hari [^40]. Pembangunan pabrik dengan pengecoran semen tradisional membutuhkan waktu 18 hingga 24 bulan, namun metode pracetak memproduksi kolom, balok, pelat lantai, dan dinding luar secara terstandarisasi di pabrik terlebih dahulu, kemudian baru dirakit di lokasi konstruksi. Ketika industri semikonduktor membutuhkan ekspansi pabrik yang intensif untuk mengejar Hukum Moore, teknologi ini memungkinkan pabrik-pabrik TSMC, Google, dan Microsoft di Taiwan diproduksi secara massal dengan cepat.
 
-Lebih penting lagi, 600 lebih paten tersebut dipilihnya untuk dilisensikan secara gratis ke seluruh dunia teknik sipil, tanpa monopoli. Sebagian fondasi infrastruktur tersembunyi daya saing setengah konduktor Taiwan dibangun dengan teknologi pracetak bebas royalti miliknya. Ketika analis asing terkejut dengan kecepatan ekspansi pabrik setengah konduktor Taiwan, mereka tidak akan mengetahui bahwa di balik kecepatan itu ada seorang bernama Yin Yan-liang, yang di tahun 1990-an menghabiskan beberapa tahun mempelajari struktur mekanik metode pracetak, lalu memutuskan untuk tidak memungut biaya.
+Yang lebih penting lagi, ia memilih untuk memberikan lisensi gratis atas lebih dari 600 patelat tersebut kepada seluruh dunia teknik tanpa monopoli. Sebagian dari infrastruktur tak kasat mata yang menopang daya saing semikonduktor Taiwan dibangun menggunakan teknologi pracetak tanpa royalti miliknya ini. Saat para analis asing terkejut dengan kecepatan ekspansi pabrik semikonduktor di Taiwan, mereka tidak akan tahu bahwa di balik kecepatan ini ada seseorang bernama Yin Yan-liang, yang menghabiskan beberapa tahun pada era 1990-an untuk meneliti struktur mekanika metode pracetak, lalu memutuskan untuk tidak memungut biaya.
 
-Empayar bisnisnya melakukan penutupan pada 2021. Tanggal 22 Oktober tahun itu, dia memilih menjual bisnis RT-Mart Taiwan ke PX Mart (全聯實業), transaksi selesai 2022. Ruentex Xin dan Ruentex Quan masing-masing memperoleh keuntungan harga saham 13,03 miliar dolar Taiwan baru, total nilai transaksi diperkirakan 1.300 hingga 1.500 miliar dolar Taiwan baru, termasuk properti dan merek[^39]. Beralihnya kepemilikan naga retail lokal, menjadi titik balik era industri retail Taiwan. Juga keputusan besar terakhir yang dia ambil secara proaktif selama hidupnya.
+Bentang bisnisnya akhirnya mencapai titik penyelesaian pada tahun 2021. Pada 22 Oktober tahun itu, ia memilih untuk menjual unit bisnis RT-Mart di Taiwan kepada PX Mart, dan transaksi tersebut selesai pada tahun 2022. Runtai New dan Runtai All masing-masing memperoleh keuntungan harga saham sebesar NT$1,303 miliar, dengan total valuasi transaksi sekitar NT$130 miliar hingga NT$150 miliar, termasuk real estat dan merek [^39]. Peralihan kepemilikan pemimpin ritel besar lokal ini merupakan titik balik era industri ritel Taiwan. Ini juga merupakan keputusan besar terakhir dalam mengelola bisnisnya secara aktif sebelum wafat.
 
-![Gedung Kompleks Stasiun Ruentex Zhonglun, Kecamatan Zhongshan, Taipei. Salah satu karya representatif Ruentex Construction](/article-images/people/yin-ruentex-zhonglun-2023.webp)
-_Gedung Kompleks Stasiun Ruentex Zhonglun, Kecamatan Zhongshan, Taipei, dibangun oleh Ruentex Construction. Aplikasi inti metode pracetak memungkinkan gedung perkantoran komersial besar semacam ini diselesaikan dengan cepat. Foto: Yu tptw, 2023-05-17. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Ruentex_Zhonglun_Station_Complex_20230517.jpg)._
+![Gedung Komprehensif Stasiun Zhonglun Runtai, Distrik Zhongshan, Kota Taipei. Salah satu karya representatif dari Runtai Construction](/article-images/people/yin-ruentex-zhonglun-2023.webp)
+_Gedung Komprehensif Stasiun Zhonglun Runtai, Distrik Zhongshan, Kota Taipei, dibangun oleh Runtai Construction. Aplikasi inti dari metode pracetak adalah memungkinkan penyelesaian cepat untuk gedung perkantoran komersial besar seperti ini. Photo: Yu tptw, 2023-05-17. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Ruentex_Zhonglun_Station_Complex_20230517.jpg)._
 
-Dia pergi, apa yang dibangunnya masih beroperasi.
+Ia telah tiada, namun apa yang ia bangun masih terus beroperasi.
 
-Pusat Kanker Ion Berat Rumah Sakit Taipei Veterans General Hospital beroperasi setiap hari, minimal 2% volume pengobatan disisihkan untuk kelompok rentan. Asrama tenaga medis RS Taipei Veterans General Hospital dihuni ratusan dokter dan perawat. Perpustakaan Da Xian Universitas Politik menjadi ruang ujian dan belajar mandiri mahasiswa. Gedung Kegiatan Wang Jin-pyng Universitas Pendidikan Changhua setiap hari dipakai untuk pelajaran olahraga.
+Pusat Kanker Partikel Berat Taipei Veterans General Hospital (Taipei VGH) beroperasi setiap hari, dengan setidaknya 2% kapasitas pengobatannya setiap tahun dialokasikan untuk kelompok kurang mampu. Asrama medis Taipei VGH menampung ratusan dokter dan perawat. Perpustakaan Daxian di NCCU menjadi ruang ujian dan ruang belajar mandiri bagi mahasiswa. Pusat Aktivitas Wang Jin-ping di National Changhua University of Education digunakan untuk kelas olahraga setiap hari.
 
-Pusat Penelitian Gempa Universitas Taiwan, Gedung Penelitian Teknik Sipil melakukan penelitian teknik gempa. Kelas 2026 Sekolah Manajemen Guanghua Universitas Peking sudah dimulai.
+Pusat Studi Gempa Bumi dan Gedung Penelitian Teknik Sipil di NTU sedang melakukan penelitian teknik gempa. Angkatan tahun 2026 dari Guanghua School of Management, National Taipei University, telah memulai perkuliahan.
 
-Proses pemilihan Hadiah Tang 2026 tetap berlangsung, penghargaan berikutnya pada 2028. Yayasan, komite pemilihan, daftar pemenang, hadiah uang 50 juta dolar Taiwan baru, terus beroperasi mengikuti aturan yang dirancangnya empat belas tahun lalu.
+Proses seleksi Tang Prize tahun 2026 masih berlangsung, dan penganugerahan berikutnya adalah pada tahun 2028. Yayasan, komite seleksi, daftar pemenang, serta hadiah sebesar NT$50 juta terus berjalan sesuai dengan aturan yang telah ia rancang empat belas tahun lalu.
 
-Kali berikutnya penelitian pemenang Hadiah Tang, mungkin akan divalidasi lagi oleh Nobel. Kali berikutnya suatu penghargaan sains asal Taiwan, akan terus muncul di halaman Nature, Science, Times Higher Education.
+Penelitian dari pemenang Tang Prize berikutnya mungkin akan divalidasi kembali oleh Nobel. Penghargaan sains dari Taiwan berikutnya akan terus muncul di halaman Nature, Science, dan Times Higher Education.
 
-Ketika sarjana asing mencari «Asian Nobel», mereka akan terus melihat Taiwan.
+Ketika para akademisi asing mencari "Asian Nobel", mereka akan terus melihat Taiwan.
 
-Seorang anak yang diajari ayahnya «jangan pernah berjudi». Seorang remaja yang lukanya dibalut Wang Jin-pyng, kemudian membangun sebuah gedung dan mengembalikannya kepada Wang Jin-pyng. Seorang muda yang menginjakkan kaki ke Universitas Peking yang tertutup debu hingga mata kaki, memutuskan mendanai perbaikan sebuah fakultas. Seorang paruh baya yang berkata kepada Badan Pencegahan Korupsi «tidak ada kesalahan, itu aku yang lakukan». Seorang lanjut usia yang berkata kepada Direktur RS Taipei Veterans General Hospital «satu hari lebih cepat selesai, satu pasien lebih cepat diselamatkan».
+Seorang anak yang dididik ayahnya untuk "jangan pernah berjudi". Seorang remaja yang lukanya pernah dibalut oleh Wang Jin-ping, lalu kemudian membangun sebuah gedung untuk dikembalikan kepada Wang Jin-ping. Seorang pemuda yang melangkah ke National Taipei University yang berdebu hingga setinggi mata kaki, dan memutuskan untuk mendanai renovasi sebuah fakultas. Seorang pria paruh baya yang berkata kepada Agen Investigasi Korupsi, "Tidak salah, itu saya yang melakukannya." Seorang pria tua yang berkata kepada Direktur Taipei VGH, "Selesai lebih awal, menyelamatkan satu pasien lebih cepat."
 
-26 Mei 2026 pukul 04.21 pagi, Rumah Sakit Taipei Veterans General Hospital.
+Pukul 04:21 pagi, 26 Mei 2026, Taipei Veterans General Hospital.
 
-Dia menamatkan langkah terakhir hidupnya di rumah sakit yang dibangunnya.
+Ia menempuh perjalanan terakhirnya di rumah sakit yang ia bangun sendiri.
 
-Meninggal dunia pada usia 76 tahun.
+Wafat pada usia 76 tahun.
 
-**Bacaan Lanjutan**：
+**Bacaan Lanjutan**:
 
-- [Cho-yun Hsu: Dua Jari Menulis Aliran Panjang Sejarah Tiongkok](/id/people/cho-yun-hsu-bridging-historian) — Pemenang Hadiah Sinologi Tang edisi keenam 2024, total hadiah 50 juta disumbangkan untuk mendirikan «Beasiswa Hsu-Sun»
-- [Morris Chang](/id/people/tsmc-morris-chang) — Pemimpin industri Taiwan seangkatan, Akademisi ITRI, pendiri TSMC
-- [Stan Shih](/id/people/stan-shih) — Pengusaha seangkatan beralih jadi filantrop, pendiri Acer
-- [Wang Yung-ching](/id/people/yung-ching-wang-formosa-plastics-founder) — Pemimpin industri Taiwan generasi sebelumnya, pendiri Formosa Plastics dan Rumah Sakit Chang Geng, skala donasi serupa sebagai teladan awal
-- [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — Sumbu lain preservasi kedaulatan Taiwan
+- [Xu Zhuoyun: Dua Jari Menuliskan Aliran Sejarah Tiongkok](/id/people/cho-yun-hsu-bridging-historian) — Pemenang Tang Award bidang Sinologi ke-6 tahun 2024, seluruh hadiah NT$50 juta didonasikan untuk mendirikan "Beasiswa Xu-Sun"
+- [Morris Chang](/id/people/tsmc-morris-chang) — Pemimpin industri Taiwan dari generasi yang sama, Fellow Academia Sinica, pendiri TSMC
+- [Shi Chin-rong](/id/people/stan-shih) — Pengusaha dari generasi yang sama yang beralih menjadi filantropis, pendiri Acer
+- [Wang Yung-ching](/id/people/yung-ching-wang-formosa-plastics-founder) — Pemimpin industri Taiwan generasi sebelumnya, pendiri Formosa Plastics dan Chang Gung Memorial Hospital, model awal dengan skala donasi yang serupa
+- [Modernisasi Pertahanan dan Militer Taiwan](/id/society/taiwan-defense-modernization) — Poros lain dalam menjaga kedaulatan Taiwan
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 5 gambar berlisensi CC BY atau informasi terbuka pemerintah, semuanya di-cache di `public/article-images/people/` untuk menghindari hotlink ke server sumber:
+Artikel ini menggunakan 5 gambar dengan lisensi CC BY atau informasi terbuka pemerintah, yang semuanya telah di-cache di `public/article-images/people/` untuk menghindari hotlinking ke server sumber:
 
-- [103年9月18日 馬英九總統接見第一屆「唐獎」得獎人](<https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg>) — Foto: Kantor Presiden Republik Tiongkok (Taiwan), 2014-09-18, CC BY 2.0 Generic, asli [Flickr](https://www.flickr.com/photos/presidentialoffice/15099044008/). Gambar hero (foto grup para pemenang Tang Prize pertama, termasuk Allison, Honjo, Yu Ying-shih, Sachs, Brundtland, dll).
-- [Dah Hsian Seetoo Library front](https://commons.wikimedia.org/wiki/File:Dah_Hsian_Seetoo_Library_front_20220815.jpg) — Foto: Kontributor Wikimedia Commons, 2022-08-15, CC BY-SA 4.0. Inline 1 (eksterior Perpustakaan Dah Hsian Seetoo Universitas Chengchi Nasional, dibangun Samuel Yin dengan sumbangan ~1,3 miliar NT$ untuk merayakan ulang tahun ke-70 dosen pembimbingnya Situ Dah Hsian).
-- [Samuel Yin in 2014 Tang Prize Reception](https://commons.wikimedia.org/wiki/File:Samuel_Yin_in_2014_Tang_Prize_Reception.jpg) — Foto: Pemerintah Kota Taipei, 2014-09-15, Attribution (pengumuman informasi terbuka situs web pemerintah). Inline 2 (resepsi sambutan Tang Prize pertama).
-- [Samuel Yin 2015 (cropped)](<https://commons.wikimedia.org/wiki/File:Samuel_Yin_2015_(cropped).jpg>) — Foto: Pemerintah Kota Taipei, 2015-10-28, Attribution (pengumuman informasi terbuka situs web pemerintah), asli 4896×3264 dipotong jadi 2000×2000 potret. Inline 3 (potret pribadi Samuel Yin di acara publik).
-- [Ruentex Zhonglun Station Complex](https://commons.wikimedia.org/wiki/File:Ruentex_Zhonglun_Station_Complex_20230517.jpg) — Foto: Yu tptw, 2023-05-17, CC BY-SA 4.0. Inline 4 (Gedung Kompleks Stasiun Zhonglun Ruentex, Kecamatan Zhongshan, Kota Taipei, karya representatif penerapan metode pra-cetak).
+- [Presiden Ma Ying-jeou menerima pemenang "Tang Prize" angkatan pertama pada 18 September 2014](<https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg>) — Foto: Kantor Kepresidenan Republik Tiongkok (Taiwan), 2014-09-18, CC BY 2.0 Generic, sumber asli [Flickr](https://www.flickr.com/photos/presidentialoffice/15099044008/). Gambar Hero (foto bersama pemenang Tang Prize angkatan pertama, termasuk Allison, Honjo, Yu Ying-shih, Sachs, Brundtland, dll.).
+- [Dah Hsian Seetoo Library front](https://commons.wikimedia.org/wiki/File:Dah_Hsian_Seetoo_Library_front_20220815.jpg) — Foto: Kontributor Wikimedia Commons, 2022-08-15, CC BY-SA 4.0. Inline 1 (tampilan luar Perpustakaan Dah Hsian di NCCU, dibangun oleh Yin Yan-liang dengan sumbangan sekitar NT$1,3 miliar untuk merayakan ulang tahun ke-70 profesor pembimbingnya, Seetoo Dah-hsian).
+- [Samuel Yin in 2014 Tang Prize Reception](https://commons.wikimedia.org/wiki/File:Samuel_Yin_in_2014_Tang_Prize_Reception.jpg) — Foto: Pemerintah Kota Taipei, 2014-09-15, Attribution (pernyataan informasi terbuka situs web pemerintah). Inline 2 (resepsi penyambutan perdana Tang Prize).
+- [Samuel Yin 2015 (cropped)](<https://commons.wikimedia.org/wiki/File:Samuel_Yin_2015_(cropped).jpg>) — Foto: Pemerintah Kota Taipei, 2015-10-28, Attribution (pernyataan informasi terbuka situs web pemerintah), asli 4896×3264 dipotong menjadi potret 2000×2000. Inline 3 (potret pribadi Yin Yan-liang di acara publik).
+- [Ruentex Zhonglun Station Complex](https://commons.wikimedia.org/wiki/File:Ruentex_Zhonglun_Station_Complex_20230517.jpg) — Foto: Yu tptw, 2023-05-17, CC BY-SA 4.0. Inline 4 (Gedung kompleks Stasiun Zhonglun Ruentex, Distrik Zhongshan, Kota Taipei, karya representatif penerapan metode konstruksi pracetak).
 
 ## Referensi
 
-[^1]: [Yin Yan-liang meninggal dunia berusia 76 tahun, Direktur Rumah Sakit Taipei Veterans General Hospital Chen Wei-ming berduka: "Orang yang paling kuhormati seumur hidupku"](https://udn.com/news/story/124893/9525738) — United Daily News 2026-05-26 melaporkan, mencatat waktu meninggal 04:21 di Taipei Veterans General Hospital, pidato publik Direktur Rumah Sakit, serta pernyataan 574 karakter dari Ruentex Group.
+[^1]: [Yin Yan-liang Meninggal Dunia pada Usia 76 Tahun, Direktur Taipei Veterans General Hospital Chen Wei-ming Berduka: Orang yang Paling Saya Kagumi Seumur Hidup](https://udn.com/news/story/124893/9525738) — Dilaporkan oleh UDN pada 26-05-2026, mencatat waktu kematian pukul 04:21 di Taipei Veterans General Hospital, pidato publik dari Direktur Taipei VGH, serta pernyataan 574 kata dari Grup Runtai.
 
-[^2]: [Yin Yan-liang mengumumkan secara publik berjanji menyumbangkan 95% hartanya setelah meninggal untuk amal](https://finance.ettoday.net/news/176774) — ETtoday Financial Cloud 2013-03-20, mencatat janji publik tanggal 22 Desember 2011, ini adalah titik awal serangkaian donasi besar berikutnya.
+[^2]: [Yin Yan-liang Berjanji Secara Terbuka Akan Menyumbangkan 95% Hartanya untuk Amal Setelah Meninggal](https://finance.ettoday.net/news/176774) — ETtoday Finance Cloud pada 20-03-2013, mendeskripsikan janji publik pada 22 Desember 2011, yang merupakan titik awal dari serangkaian donasi besar berikutnya.
 
-[^3]: [Tang Prize](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Entri Wikipedia, mencatat pendirian Yayasan Pendidikan Tang Prize pada 20 Desember 2012, dana kepercayaan 3 miliar Dolar Taiwan Baru sebagai modal, empat kategori, setiap hadiah 40 juta per individu + 10 juta struktur biaya penelitian.
+[^3]: [Tang Prize](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Entri Wikipedia, mencatat pendirian Tang Prize Education Foundation pada 20-12-2012, modal dana perwalian sebesar NT$3 miliar, empat kategori utama, serta struktur hadiah berupa NT$40 juta untuk individu + NT$10 juta biaya penelitian untuk setiap kategori.
 
-[^4]: [Yin Yan-liang meninggal! Direktur Rumah Sakit Taipei Veterans General Hospital Chen Wei-ming berduka "Orang yang paling kuhormati seumur hidupku"](https://udn.com/news/story/124893/9525675) — UDN 2026-05-26 wawancara mencatat donasi 1,5 miliar untuk Pusat Kanker Partikel Berat, syarat 'minimal 2% perawatan gratis untuk kaum lemah setiap tahun', kutipan saat hidup 'Semakin cepat selesai, semakin cepat selamatkan pasien', catatan pembangunan 15,3 bulan.
+[^4]: [Yin Yan-liang Meninggal Dunia! Direktur Taipei VGH Chen Wei-ming Berduka: "Orang yang Paling Saya Kagumi Seumur Hidup"](https://udn.com/news/story/124893/9525675) — Wawancara UDN pada 26-05-2026 mencatat donasi NT$1,5 miliar untuk Pusat Kanker Partikel Berat, syarat tambahan "setidaknya 2% perawatan gratis bagi kelompok rentan setiap tahun", kutipan semasa hidup "semakin cepat selesai, semakin banyak pasien yang terselamatkan", dan catatan pengerjaan cepat selama 15,3 bulan.
 
-[^5]: [Yin Yan-liang donasikan 2,1 miliar untuk asrama tenaga medis Taipei Veterans General Hospital](https://udn.com/news/story/124893/9525675) — UDN 2026-05-26 laporan serupa, mencatat donasi 2,1 miliar untuk asrama tenaga medis, pembangunan dimulai 15 September 2022, nol kecelakaan kerja, dihuni Agustus 2024, garis waktu lengkap.
+[^5]: [Yin Yan-liang Menyumbang NT$2,1 Miliar untuk Asrama Tenaga Medis Taipei VGH](https://udn.com/news/story/124893/9525675) — Laporan terkait dari UDN pada 26-05-2026, mencatat donasi NT$2,1 miliar untuk asrama tenaga medis, dimulainya konstruksi pada 15-09-2022, insiden kecelakaan kerja, dan lini masa lengkap hingga penghunian pada Agustus 2024.
 
-[^6]: [Yin Yan-liang](https://zh.wikipedia.org/zh-tw/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Entri Wikipedia, mencatat lahir 16 Agustus 1950 di Kota Taipei, latar belakang keluarga ayah Yin Shu-tian dari Rizhao, Shandong.
+[^6]: [Yin Yan-liang](https://zh.wikipedia.org/zh-tw/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Entri Wikipedia, mencatat latar belakang keluarga kelahiran 16-08-1950 di Kota Taipei, dengan ayah Yin Shu-tian yang berasal dari Rizhao, Shandong.
 
-[^7]: [Artikel kolom Yin Yan-liang](https://www.businessweekly.com.tw/business/blog/3021487) — Kolom Business Weekly, mencatat Yin Shu-tian 1918-1991 orang Rizhao, Shandong, gelar 'Raja Kain Kotak' dan 'Raja Kain Denim' di industri tekstil, latar belakang pendirian Ruentex Textile tahun 1956.
+[^7]: [Artikel Kolom Yin Yan-liang](https://www.businessweekly.com.tw/business/blog/3021487) — Kolom Business Weekly, mencatat Yin Shu-tian sebagai orang asal Rizhao, Shandong (1918-1991), julukan "Raja Kain Kotak-kotak" dan "Raja Denim" di industri tekstil, serta latar belakang pendirian Runtai Textile pada tahun 1956.
 
-[^8]: [Masa Yin Yan-liang di Lembaga Perbaikan](https://www.peoplenews.tw/articles/economic-news/34114) — Artikel khusus The Reporter, menceritakan pengalaman awalnya menghabiskan dua setengah tahun di lembaga perbaikan dari usia 14 hingga 16,5 tahun, yang menjadi awal perubahan yang ia sebut 'muda dan berjiwa gagah'.
+[^8]: [Masa Yin Yan-liang di Rumah Rehabilitasi](https://www.peoplenews.tw/articles/economic-news/34114) — Artikel khusus Minbao, mendeskripsikan pengalaman masa muda saat ia menghabiskan dua setengah tahun di rumah rehabilitasi dari usia 14 hingga 16,5 tahun, yang merupakan tahap awal sebelum titik balik dari "masa muda yang bergejolak" sebagaimana diceritakannya sendiri.
 
-[^9]: [Yin Yan-liang dan Wang Jin-pyng 1966 Sekolah Menengah Chengde](https://udn.com/news/story/124893/9525907) — UDN 2026-05-26 laporan kenangan, mencatat adegan asrama Sekolah Menengah Chengde Changhua tahun 1966, detail Wang Jin-pyng sebagai guru matematika yang sendiri memasukkan luka dan memberi nasihat.
+[^9]: [Yin Yan-liang dan Wang Jin-ping Masuk ke Sekolah Menengah Jinde pada 1966](https://udn.com/news/story/124893/9525907) — Laporan kenangan UDN pada 26-05-2026, mencatat suasana asrama di Sekolah Menengah Jinde Changhua pada tahun 1966, serta detail saat Wang Jin-ping sebagai guru matematika membalut luka secara langsung dan memberikan nasihat.
 
-[^10]: [Yin Yan-liang donasikan 327 juta untuk membangun Gedung Kegiatan Wang Jin-pyng di Universitas Pendidikan Changhua](https://www.businessweekly.com.tw/business/blog/3021487) — Business Weekly 2019 melaporkan, mencatat kasus donasi 327 juta Dolar Taiwan Baru untuk 'Gedung Kegiatan Wang Jin-pyng' Universitas Pendidikan Changhua tahun 2019.
+[^10]: [Yin Yan-liang Menyumbang NT$327 Juta kepada NCU untuk Pembangunan Pusat Aktivitas Wang Jin-ping](https://www.businessweekly.com.tw/business/blog/3021487) — Laporan Business Weekly tahun 2019, mencatat kasus donasi NT$327 juta untuk "Pusat Aktivitas Wang Jin-ping" di National Changhua University of Education pada tahun 2019.
 
-[^11]: [Yin Yan-liang Jaringan Kenangan Universitas Politik](https://nccuwiki.lib.nccu.edu.tw/index.php/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Entri resmi Jaringan Kenangan Universitas Politik, mencatat riwayat pendidikan lengkap: Jurusan Sejarah Universitas Chinese Culture → 1982 Magister Institut Penelitian Bisnis Universitas Taiwan → 1986 Doktor Manajemen Bisnis Universitas Politik, dibimbing Situ Da-xian, judul tesis.
+[^11]: [Yin Yan-liang - Situs Memori NCCU](https://nccuwiki.lib.nccu.edu.tw/index.php/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Entri situs memori resmi National Chengchi University, mencatat catatan pendidikan lengkap: Departemen Sejarah Universitas Culture → Magister Institut Studi Bisnis NTU tahun 1982 → Doktor Manajemen Bisnis NCCU tahun 1986 di bawah bimbingan Situ Da-xian, beserta judul tesisnya.
 
-[^12]: [Pelajaran Hidup dari Ayah](http://news.pchome.com.tw/magazine/report/po/businesstoday/2302/128085120044241004001.htm) — Special report This Weekly 'Pelajaran Hidup dari Ayah', mencatat saat lulus kuliah Cheng Tso-heng membawa Yin Yan-liang ke restoran Mayflower, dua kutipan nasihat ayah, dan warisan keluarga penuh: 'Berbisnis hanyalah angka uang, tetapi pendidikan adalah usaha besar yang diwariskan'.
+[^12]: [Pelajaran Hidup yang Ayah Berikan Padaku](http://news.pchome.com.tw/magazine/report/po/businesstoday/2302/128085120044241004001.htm) — Topik khusus "Pelajaran Hidup yang Ayah Berikan Padaku" dari Kompas Weekly, mencatat saat lulus universitas Zheng Zuo-heng membawa Yin Yan-liang ke Restoran Mayflower, dua kutipan nasihat ayah kepada anaknya, serta versi lengkap ajaran keluarga "berbisnis hanyalah angka uang, tetapi pendidikan adalah warisan besar bagi generasi mendatang".
 
-[^13]: [Catatan 60 Tahun Ruentex Group](https://www.bnext.com.tw/article/91040/ruentex-material-2026) — Artikel duka cita Digital Era BusinessNext 2026-05-26, mencatat tahun 1975 Yin Yan-liang mengambil alih Ruentex Textile dan Runhua Dyeing & Weaving sebagai titik awal suksesi.
+[^13]: [Kronologi 60 Tahun Grup Runtai](https://www.bnext.com.tw/article/91040/ruentex-material-2026) — Artikel peringatan khusus BusinessNext Digital Age pada 26-05-2026, mencatat titik awal suksesi Yin Yan-liang yang mengambil alih Runtai Textile dan Runtai Dyeing pada tahun 1975.
 
-[^14]: [Ruentex Construction didirikan 1977](https://www.housefeel.com.tw/article/%E6%BD%A4%E6%B3%B0%E9%9B%86%E5%9C%98-%E6%BD%A4%E6%B3%B0%E5%BB%BA%E8%A8%AD-%E6%BD%A4%E6%B3%B0%E5%85%A8-%E6%BD%A4%E6%B3%B0%E6%96%B0/) — Kolom properti HouseFeel, mencatat tahun berdirinya Ruentex Construction dan saat grup memasuki industri konstruksi.
+[^14]: [Runtai Construction Didirikan pada Tahun 1977](https://www.housefeel.com.tw/article/%E6%BD%A4%E6%B3%B0%E9%9B%86%E5%9C%98-%E6%BD%A4%E6%B3%B0%E5%BB%BA%E8%A8%AD-%E6%BD%A4%E6%B3%B0%E5%85%A8-%E6%BD%A4%E6%B3%B0%E6%96%B0/) — Kolom properti HouseFeel, mencatat tahun pendirian Runtai Construction dan titik waktu grup memasuki industri konstruksi.
 
-[^15]: [Struktur Ruentex Group: Ruentex Xin / Ruentex Quan / Ruentex Precision Materials](https://www.housefeel.com.tw/article/%E6%BD%A4%E6%B3%B0%E9%9B%98%E5%9C%98-%E6%BD%A4%E6%B3%B0%E5%BB%BA%E8%A8%AD-%E6%BD%A4%E6%B3%B0%E5%85%A8-%E6%BD%A4%E6%B3%B0%E6%96%B0/) — Analisis properti HouseFeel dari sumber yang sama, mencatat pembagian bisnis tiga perusahaan terbuka Ruentex Group (9945, 2915, Ruentex Precision).
+[^15]: [Struktur Grup Runtai: Runtai New / Runtai All / Runtai Precision Materials](https://www.housefeel.com.tw/article/%E6%BD%A4%E6%B3%B0%E9%9B%98%E5%9C%98-%E6%BD%A4%E6%B3%B0%E5%BB%BA%E8%A8%AD-%E6%BD%A4%E6%B3%B0%E5%85%A8-%E6%BD%A4%E6%B3%B0%E6%96%B0/) — Analisis properti HouseFeel yang sama, mencatat pembagian bisnis dari tiga perusahaan publik di bawah Grup Runtai (9945, 2915, Runtai Precision).
 
-[^16]: [Yin Yanliang 1989 Pertama Kali ke Universitas Peking](https://www.gvm.com.tw/article/10636) — Wawancara khusus majalah Global Views, mencatat tahun 1989 ia keluar diam-diam dari rombongan kunjungan, kunjungan pertama ke Universitas Peking dengan deskripsi scene 'debu terbang, kulit buah dan kertas berserakan di seluruh lantai'.
+[^16]: [Yin Yanliang Pertama Kali ke Peking University pada 1989](https://www.gvm.com.tw/article/10636) — Profil tokoh dari majalah Vision, mencatat deskripsi adegan saat ia menyelinap keluar dari grup kunjungan untuk pertama kalinya ke Peking University pada tahun 1989, di mana kondisi kampus digambarkan "berdebu dan penuh dengan kulit buah serta potongan kertas".
 
-[^17]: [Yin Yanliang dan Nan Huai-jin Yayasan Pendidikan Guanghua](https://zh.wikipedia.org/zh-tw/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Wikipedia mencatat tahun 1989 didirikan oleh Nan Huai-jin, didanai oleh Yin Yanliang Yayasan Pendidikan Guanghua, menjadi titik awal seri donasi Guanghua Universitas Peking.
+[^17]: [Yin Yanliang dan Nan Huaijin, Yayasan Pendidikan Guanghua](https://zh.wikipedia.org/zh-tw/%E5%B0%B9%E8%A1%8D%E6%A8%91) — Wikipedia mencatat bahwa pada tahun 1989, Yayasan Pendidikan Guanghua didirikan atas inisiasi Nan Huaijin dengan pendanaan dari Yin Yanliang, yang menjadi titik awal dari rangkaian donasi untuk seri Guanghua di Peking University.
 
-[^18]: [Sekolah Manajemen Guanghua Universitas Peking 1994/95 Berganti Nama](https://money.udn.com/money/story/5603/9527077) — Economic Daily News 26 Mei 2026 melaporkan, mencatat tahun 1994 mendorong penggantian nama, 1995 resmi didirikan, Yin Yanliang menjabat Ketua Direksi Pendiri.
+[^18]: [Perubahan Nama Peking University Guanghua School of Management 1994/95](https://money.udn.com/money/story/5603/9527077) — Laporan Economic Daily pada 26-05-2026, mencatat kronologi dorongan perubahan nama pada tahun 1994, pendirian resmi pada tahun 1995, dan peran Yin Yanliang sebagai ketua dewan pendiri.
 
-[^19]: [Yin Yanliang Donasikan Gedung Penelitian Sipil Universitas Taiwan 2,6 Miliar](https://newtalk.tw/news/view/2026-05-26/1037515) — Berita Newtalk 26 Mei 2026 menyusun, mencatat donasi 2,6 miliar untuk Gedung Penelitian Sipil Universitas Taiwan 2007, rincian donasi untuk proyek perluasan Pusat Penelitian Teknik Gempa Nasional 2018.
+[^19]: [Yin Yanliang Menyumbang NT$260 Juta untuk Gedung Penelitian Teknik Sipil NTU](https://newtalk.tw/news/view/2026-05-26/1037515) — Ringkasan berita Newtalk pada 26-05-2026, mencatat rincian donasi sebesar NT$260 juta untuk Gedung Penelitian Teknik Sipil NTU pada tahun 2007, serta donasi untuk proyek penambahan Pusat Penelitian Rekayasa Gempa Nasional pada tahun 2018.
 
-[^20]: [Catatan Pembangunan Perpustakaan Da Xian Universitas Politik Nasional](https://ec.ltn.com.tw/article/breakingnews/2133431) — Laporan Liberty Finance, mencatat proses pembangunan Perpustakaan Da Xian Universitas Politik Nasional 2017-2019, untuk merayakan ulang tahun ke-70 dosen pembimbing Situ Da Xian, donasi sekitar 1,3 miliar Dolar Taiwan Baru.
+[^20]: [Catatan Pembangunan Perpustakaan Daxian di NCCU](https://ec.ltn.com.tw/article/breakingnews/2133431) — Laporan Liberty Finance, mencatat proses pembangunan Perpustakaan Daxian di NCCU antara tahun 2017-2019, yang merupakan donasi sekitar NT$1,3 miliar untuk merayakan ulang tahun ke-70 profesor pembimbing Situ Daxian.
 
-[^21]: [Empat Kategori Hadiah Tang](https://www.tang-prize.org/award.php) — Halaman resmi hadiah Yayasan Pendidikan Hadiah Tang, mencantumkan empat kategori: Pembangunan Berkelanjutan, Bioteknologi Kedokteran, Sinologi, Hukum, serta siklus pemilihan setiap dua tahun.
+[^21]: [Empat Kategori Tang Prize](https://www.tang-prize.org/award.php) — Halaman resmi penghargaan Yayasan Pendidikan Tang Prize, mencantumkan empat kategori utama: Pembangunan Berkelanjutan, Bioteknologi dan Kedokteran, Sinologi, dan Hukum, serta siklus pemilihan setiap dua tahun sekali.
 
-[^22]: [Struktur Hadiah Uang Tang dan Perbandingan Internasional](https://www.timeshighereducation.com/features/are-academic-prizes-letting-down-team) — Times Higher Education 2024 khusus, membandingkan skala hadiah uang Tang 50 juta Dolar Taiwan Baru dengan Nobel 32,66 juta Dolar Taiwan Baru, proporsi pemenang perempuan (Tang 28% vs Nobel 6%), posisi internasional sebagai 'Asian Nobel'.
+[^22]: [Struktur Hadiah Tang Prize dan Perbandingan Internasional](https://www.timeshighereducation.com/features/are-academic-prizes-letting-down-team) — Edisi khusus Times Higher Education 2024, membandingkan skala hadiah Tang Prize sebesar NT$50 juta dengan Nobel sebesar NT$32,66 juta, proporsi pemenang perempuan (Tang Prize 28% vs Nobel 6%), serta posisi internasional sebagai "Asian Nobel".
 
-[^23]: [Penamaan Hadiah Tang 'Dinasti Tang Adalah Era Romantis dan Bebas'](https://news.tvbs.com.tw/life/3213542) — Laporan budaya TVBS, mencatat Yin Yanliang menjelaskan penamaan Hadiah Tang diambil dari 'Da Tang', tanggal pengumuman pemenang dipilih 18 Juni (Hari Ulang Tahun Berdirinya Da Tang) alasan desain.
+[^23]: [Penamaan Tang Prize: "Dinasti Tang adalah Era yang Romantis dan Ekspresif"](https://news.tvbs.com.tw/life/3213542) — Laporan budaya TVBS, mencatat penjelasan Yin Yanliang bahwa penamaan Tang Prize diambil dari Dinasti Tang, serta alasan pemilihan tanggal 18 Juni (hari peringatan berdirinya Dinasti Tang) untuk pengumuman pemenang.
 
-[^24]: [Dua Edisi Pertama Hadiah Tang Diserahkan ke Akademia Sinica untuk Pemilihan](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Entri Wikipedia Hadiah Tang, mencatat dua edisi pertama pemilihan diserahkan ke Akademia Sinica, mulai edisi ketiga beralih ke komite independen yayasan, perubahan desain sistem.
+[^24]: [Dua Periode Pertama Tang Prize Dikelola oleh Academia Sinica](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Entri Wikipedia Tang Prize, mencatat perubahan desain institusional di mana dua periode pertama dikelola oleh Academia Sinica, dan mulai periode ketiga dialihkan kepada komite independen yayasan.
 
-[^25]: [Hadiah Tang Pertama 18 September 2014 Penghargaan di Memorial Hall Bapak Negara](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Wikipedia yang sama mencatat, Hadiah Tang pertama 18 Juni 2014 pengumuman pemenang, 18 September di Memorial Hall Bapak Negara Taipei penghargaan.
+[^25]: [Penyerahan Tang Prize Pertama pada 18-09-2014 di National Sun Yat-sen Memorial Hall](https://zh.wikipedia.org/zh-tw/%E5%94%90%E7%8D%8E) — Wikipedia yang sama mencatat kronologi bahwa pemenang Tang Prize pertama diumumkan pada 18 Juni 2014, dan upacara penyerahan penghargaan dilakukan pada 18 September di National Sun Yat-sen Memorial Hall, Taipei.
 
-[^26]: [Pemenang Hadiah Tang per Tahun](https://en.wikipedia.org/wiki/Tang_Prize) — Entri Wikipedia bahasa Inggris Hadiah Tang, mencantumkan daftar lengkap pemenang empat kategori edisi pertama 2014: Pembangunan Berkelanjutan Gro Brundtland / Bioteknologi James Allison + Tasuku Honjo / Sinologi Yu Ying-shih / Hukum Albie Sachs.
+[^26]: [Pemenang Tang Prize berdasarkan tahun](https://en.wikipedia.org/wiki/Tang_Prize) — Entri Wikipedia bahasa Inggris untuk Tang Prize, mencantumkan daftar lengkap pemenang dari empat kategori pada tahun pertama (2014): Pembangunan Berkelanjutan Gro Brundtland / Bioteknologi James Allison + Tasuku Honjo / Sinologi Yu Ying-shih / Hukum Albie Sachs.
 
-[^27]: [Allison dan Honjo Nobel Kedokteran 2018](https://news.ltn.com.tw/news/life/breakingnews/2567624) — Berita breaking news Liberty Times 1 Oktober 2018, mencatat James Allison dan Tasuku Honjo bersama menerima Nobel Fisiologi atau Kedokteran, alasan penghargaan resmi penelitian protein titik cek imun CTLA-4 dan PD-1.
+[^27]: [Allison dan Honjo Memenangkan Nobel Kedokteran 2018](https://news.ltn.com.tw/news/life/breakingnews/2567624) — Berita terkini Liberty Times pada 01-10-2018, mencatat bahwa James Allison dan Tasuku Honjo bersama-sama memenangkan Hadiah Nobel Fisiologi atau Kedokteran 2018 atas penelitian mereka mengenai protein titik pemeriksaan imun CTLA-4 dan PD-1.
 
-[^28]: [2016 Hadiah CRISPR Tiga Orang Tang Lalu 2020 Nobel Kimia](https://en.wikipedia.org/wiki/Tang_Prize) — Entri Wikipedia bahasa Inggris Tang Prize, mencatat 2016 Hadiah Bioteknologi Kedokteran diberikan kepada tiga pelopor CRISPR/Cas9 (Charpentier, Doudna, Zhang Feng), di mana Charpentier dan Doudna pada 2020 bersama menerima Nobel Kimia.
+[^28]: [Tiga Pionir CRISPR Tang Prize 2016, Kemudian Menang Nobel Kimia 2020](https://en.wikipedia.org/wiki/Tang_Prize) — Entri Wikipedia bahasa Inggris untuk Tang Prize, mencatat bahwa penghargaan Bioteknologi dan Kedokteran tahun 2016 diberikan kepada tiga pionir CRISPR/Cas9 (Charpentier, Doudna, Zhang Feng), di mana Charpentier dan Doudna keduanya dianugerahi Hadiah Nobel Kimia pada tahun 2020.
 
-[^29]: [2022 Hadiah mRNA Tiga Orang Tang Lalu Weissman 2023 Nobel Kedokteran](https://en.wikipedia.org/wiki/Tang_Prize) — Wikipedia bahasa Inggris yang sama mencatat, 2022 edisi kelima Hadiah Bioteknologi Kedokteran diberikan kepada tiga pengembang vaksin mRNA (Karikó, Weissman, Cullis), Weissman dan Karikó pada 2023 menerima Nobel Fisiologi atau Kedokteran.
+[^29]: [Tiga Pengembang mRNA Tang Prize 2022, Kemudian Weissman Menang Nobel Kedokteran 2023](https://en.wikipedia.org/wiki/Tang_Prize) — Wikipedia bahasa Inggris yang sama mencatat bahwa penghargaan Bioteknologi dan Kedokteran kelima pada tahun 2022 diberikan kepada tiga pengembang vaksin mRNA (Karikó, Weissman, Cullis), di mana Weissman dan Karikó dianugerahi Hadiah Nobel Fisiologi atau Kedokteran pada tahun 2023.
 
-[^30]: [2020 Hadiah Tang Jane Goodall Pembangunan Berkelanjutan](https://www.gbimonthly.com/2020/06/72629/) — Majalah Global Biotech Monthly 2020 melaporkan, mencatat kontribusi penelitian dan latar belakang penghargaan pemenang Hadiah Pembangunan Berkelanjutan edisi keempat Tang Prize Jane Goodall.
+[^30]: [Jane Goodall Memenangkan Penghargaan Keberlanjutan Tang Prize 2020](https://www.gbimonthly.com/2020/06/72629/) — Laporan Global Biotech Monthly tahun 2020, mencatat kontribusi penelitian dan latar belakang penghargaan Jane Goodall sebagai pemenang Tang Prize kategori Pembangunan Berkelanjutan periode keempat.
 
-[^31]: [Pemenang Hadiah Sinologi Tang 2024 Xu Zhuoyun](https://www.tang-prize.org/owner.php?Lang=tw) — Halaman pemenang Hadiah Sinologi ke-6 di situs resmi Yayasan Pendidikan Tang Prize, mencatat kontribusi akademis dan alasan penghargaan Xu Zhuoyun; entri mendalam di situs ini lihat [Xu Zhuoyun: Dua Jari Menulis Sejarah Panjang Tiongkok](/id/people/cho-yun-hsu-bridging-historian).
+[^31]: [Pemenang Penghargaan Sinologi Tang Award 2024 Xu Zhuoyun](https://www.tang-prize.org/owner.php?Lang=tw) — Halaman pemenang Penghargaan Sinologi keenam di situs resmi Yayasan Pendidikan Tang Award, mencatat kontribusi akademis dan alasan penghargaan Xu Zhuoyun; entri mendalam yang relevan di situs ini dapat dilihat pada [Xu Zhuoyun: Dua Jari Menuliskan Aliran Panjang Sejarah Tiongkok](/id/people/cho-yun-hsu-bridging-historian).
 
-[^32]: [Kasus Rekening Rahasia Keamanan Nasional 2012: Penundaan Penuntutan 1 Tahun, Bayar 10 Juta](https://www.ettoday.net/news/20120806/1542044.htm) — Laporan ETtoday tanggal 6 Agustus 2012, mencatat Yin Yanliang mengakui kejahatan di pengadilan, sukarela membayar 10 juta Dollar Taiwan Baru ke kas negara, detail putusan penundaan penuntutan 1 tahun, dengan tuduhan melanggar 'Undang-Undang Akuntansi Bisnis' dan 'Undang-Undang Pemalsuan Dokumen'.
+[^32]: [Kasus Rahasia Keamanan Nasional 2012 Penangguhan Penuntutan 1 Tahun dengan Denda NT$10 juta](https://www.ettoday.net/news/20120806/1542044.htm) — Laporan ETtoday pada 06-08-2012, mencatat rincian putusan Yin Yanliang yang mengaku bersalah di pengadilan, secara sukarela membayar NT$10 juta ke kas negara, dan penangguhan penuntutan selama 1 tahun atas tuduhan pelanggaran Undang-Undang Akuntansi Bisnis dan pemalsuan dokumen.
 
-[^33]: [Yin Yanliang Melaporkan Kasus Suap Ye Shiwen](https://www.businesstoday.com.tw/article/category/183027/post/202605260007/) — Laporan kenangan Majalah Ini tanggal 26 Mei 2026, mencatat adegan Ye Shiwen datang menuntut suap pada 2014, proposal membagi empat blok Perumahan Nasional Lin Kou / Perumahan Layak Huni, keesokan harinya dilaporkan ke Badan Anti Korupsi secara nominal, serta kutipan respons: 'Tidak salah, itu aku yang lakukan' dan 'Jika menemui jalan tidak adil, aku akan menghapus rumput liar dengan pedang'.
+[^33]: [Kasus Pengaduan Yin Yanliang Terkait Suap Ye Shiwen](https://www.businesstoday.com.tw/article/category/183027/post/202605260007/) — Laporan retrospektif Chin Weekly pada 26-05-2026, mencatat adegan Ye Shiwen datang meminta suap pada tahun 2014, usulan pembagian empat bagian untuk perumahan nasional Linkou / Hunyi Residence, pengaduan resmi oleh Komisi Pencegahan Korupsi keesokan harinya, serta kutipan tanggapan seperti "Tidak salah, itu memang saya yang melakukannya" dan "Jika menemui jalan tidak rata, saya akan mencabut rumputnya".
 
-[^34]: [Yin Yanliang Hanya Sebagai Saksi dalam Kasus Mega Financial dan Haoding](https://www.chinatimes.com/newspapers/20160331001055-260901) — Laporan China Times News Network 2016, mencatat dalam kasus pencucian uang Mega Financial 2016 dan kasus Haoding, Yin Yanliang keduanya hadir sebagai saksi, bukan tersangka.
+[^34]: [Yin Yanliang Hanya Berstatus Saksi dalam Kasus Mega International & Hao Ding](https://www.chinatimes.com/newspapers/20160331001055-260901) — Laporan China Times News pada tahun 2016, mencatat bahwa dalam kasus pencucian uang Mega International dan kasus Hao Ding tahun 2016, Yin Yanliang hadir di pengadilan hanya sebagai saksi, bukan terdakwa.
 
-[^35]: [Pernyataan Yin Yanliang 2013 tentang Hubungan Dua Sisi Selat](https://www.chinatimes.com/realtimenews/20260526004523-260407) — Laporan kenangan China Times News Network tanggal 26 Mei 2026, mengutip pernyataan pada acara terbuka 2013: 'Persatuan adalah keharusan, posisi sejarah Ma Ying-jeou adalah persatuan damai' beserta konteks penuhnya.
+[^35]: [Pernyataan Yin Yanliang Mengenai Hubungan Lintas Selat 2013](https://www.chinatimes.com/realtimenews/20260526004523-260407) — Laporan retrospektif China Times News pada 26-05-2026, mengutip konteks lengkap dari pernyataannya di acara publik tahun 2013 bahwa "Penyatuan adalah sebuah keniscayaan, dan posisi sejarah Ma Ying-jeou adalah penyatuan secara damai".
 
-[^36]: [Runcheng Investment Holding Mengakuisisi Nan Shan Life Insurance seharga 2,16 Miliar USD](https://news.pts.org.tw/article/168570) — Laporan PTS News tanggal 2 Agustus 2011, mencatat pada 12 Januari 2011 Runcheng Investment Holding (joint venture Ruentex dan Pou Chen) memperoleh 97,57% saham Nan Shan Life Insurance dari AIG seharga 2,16 miliar USD (sekitar 628 miliar Dollar Taiwan Baru), serta janji konferensi pers akuisisi: tidak mentransfer saham selama sepuluh tahun dan tidak PHK selama dua tahun.
+[^36]: [Runcheng Investment Mengakuisisi Nan Shan Life senilai USD 2,16 Miliar](https://news.pts.org.tw/article/168570) — Laporan PTS News pada 02-08-2011, mencatat bahwa pada 12-01-2011 Runcheng Investment (usaha patungan Runtai dan Pou Chen) mengakuisisi 97,57% saham Nan Shan Life dari AIG senilai USD 2,16 miliar (sekitar NT$62,8 miliar) dengan janji konferensi pers akuisisi untuk tidak mengalihkan saham selama sepuluh tahun dan tidak melakukan PHK selama dua tahun.
 
-[^37]: [Struktur Pewarisan Keluarga Yin Yanliang](https://www.mirrormedia.mg/story/20260526edi049) — Laporan Mirror Weekly tanggal 26 Mei 2026, mencatat struktur pewarisan keluarga: istri Wang Qifan menjabat Ketua Dewan Direksi Ruentex Group, putra sulung Yin Chongyao (Doktor Ekonomi Oxford, 43 tahun) menjabat Ketua Dewan Direksi Nan Shan Life Insurance, putri sulung Yin Chongen memasuki Ruentex Precision Materials.
+[^37]: [Struktur Suksesi Keluarga Yin Yanliang](https://www.mirrormedia.mg/story/20260526edi049) — Laporan Mirror Media pada 26-05-2026, mencatat struktur suksesi keluarga di mana pasangan Wang Qifan menjabat sebagai Ketua Runtai Quan, putra sulung Yin Chongyao (Doktor Ekonomi Oxford, 43 tahun) menjabat sebagai Ketua Nan Shan Life, dan putri sulung Yin Chong'en memasuki Runtai Precision Materials.
 
-[^38]: [Investasi Gogoro Akumulasi Mencapai Puluhan Miliar](https://www.mirrormedia.mg/story/20260526-177fin-120708) — Laporan keuangan Mirror Weekly tanggal 26 Mei 2026, mencatat Lu Xuesen lama mengumpulkan dana dari Yin Yanliang akumulasi melebihi 10 miliar Dollar Taiwan Baru, pada 2024 menambah 2,5 miliar penambahan modal, harga saham runtuh setelah IPO dan Lu Xuesen menghilang karena utang.
+[^38]: [Investasi Kumulatif pada Gogoro Mencapai Puluhan Miliar](https://www.mirrormedia.mg/story/20260526-177fin-120708) — Laporan ekonomi Mirror Media pada 26-05-2026, mencatat proses lengkap di mana Lu Xuesen menggalang dana dari Yin Yanliang selama bertahun-tahun dengan total lebih dari NT$10 miliar, penambahan modal sebesar NT$2,5 miliar pada tahun 2024, kejatuhan harga saham setelah melantai di bursa, serta hilangnya kontak dengan Lu Xuesen karena utang.
 
-[^39]: [PX Mart Mengakuisisi RT-Mart seharga 130 Miliar](https://www.bnext.com.tw/article/65452/px-mart) — Laporan BusinessNext Digital Era tanggal 22 Oktober 2021, mencatat PX Mart mengumumkan akuisisi RT-Mart (Ruentex Xin dan Ruentex Group masing-masing menjual 1,303 miliar memperoleh keuntungan, total nilai transaksi 130-150 miliar Dollar Taiwan Baru, termasuk properti dan merek) proses akuisisi.
+[^39]: [PxMart Akuisisi RT-Mart senilai NT$130 Miliar](https://www.bnext.com.tw/article/65452/px-mart) — Laporan BusinessNext Digital Age pada 22-10-2021, mencatat proses akuisisi di mana PxMart mengumumkan akuisisi RT-Mart (Runtai Xin dan Runtai Quan masing-masing menjual senilai NT$1,303 miliar untuk memperoleh keuntungan, dengan total estimasi nilai transaksi NT$130-150 miliar, termasuk real estat dan merek).
 
-[^40]: [Yin Yanliang 2022 Akademisi ITRI, 600+ Paten Internasional](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036234671167627651&MGID=1164331020326663261) — Halaman Akademisi Lembaga Penelitian Teknologi Industri, mencatat pada 2022 Yin Yanliang menerima gelar Akademisi ITRI, lebih dari 600 paten teknik sipil internasional, rekaman metode pra-cetak 'Bangun Pabrik 100 Hari' serta prestasi bisnis teknologinya yang diadopsi oleh TSMC, Google, dan Microsoft.
+[^40]: [Yin Yanliang Akademisi Academia Sinica 2022 & 600+ Paten Internasional](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036234671167627651&MGID=1164331020326663261) — Halaman Akademisi Academia Sinica Industrial Technology Research Institute (ITRI), mencatat bahwa pada tahun 2022 Yin Yanliang dianugerahi gelar Akademisi ITRI, memiliki lebih dari 600 paten teknik sipil internasional, rekor "membangun pabrik dalam seratus hari" dengan metode pracetak, serta prestasi bisnis di mana teknologinya digunakan oleh TSMC / Google / Microsoft.

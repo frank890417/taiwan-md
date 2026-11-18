@@ -23,11 +23,13 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
-translatedAt: '2026-09-10T00:00:00+08:00'
+translatedAt: '2026-11-18T10:01:31.366846+00:00'
 ---
 
 > **Ringkasan 30 detik:** Pada tahun 2012, guru Paiwan Tjamake Faravaule dari Sekolah Dasar Taiwu Pingtung memimpin regu penyanyi lagu kuno dengan lagu "Tempat dimulainya lagu" memenangkan Penghargaan Golden Melody Awards edisi ke-23 untuk interpretasi musik tradisional terbaik[^1]. Pada tahun 2017, Undang-Undang Pengembangan Bahasa Masyarakat Adat lolos tiga bacaan Majelis Legislatif Taiwan, secara resmi meningkatkan 16 bahasa suku menjadi bahasa negara[^2]. Pada tahun 2019, Undang-Undang Pendidikan Masyarakat Adat direvisi, pasal 34 menentukan bahwa dalam sepuluh tahun ke depan, rasio guru berpendidikan adat di sekolah-sekolah fokus masyarakat adat tidak boleh kurang dari sepertiga[^3]. Hingga tahun ajaran ke-111, Taiwan memiliki 38 sekolah eksperimental masyarakat adat[^4]. Namun sistem yang terlihat padat dan lengkap ini tiba-tiba gagal di tingkat sekolah menengah. Penyelidikan mendalam Reporter pada tahun 2024 menunjukkan: "Sejak 2019, sekolah eksperimental tingkat dasar untuk masyarakat adat telah meningkat lebih dari 10 sekolah, sekolah menengah hampir tidak ada perkembangan."[^5] Hanya ada 6 sekolah menengah eksperimental masyarakat adat di seluruh Taiwan[^4]. Tingkat kehadiran kasar mahasiswa perguruan tinggi masyarakat adat tahun ajaran ke-112 adalah **56,3%**, siswa umum **91,6%**, perbedaannya 35,3 poin persentase[^6]. Pada anak yang sama, negara menghabiskan sepuluh tahun menggunakan hukum untuk menjaga bahasa suku dan budayanya, kemudian melepaskan tangannya pada hari ketika dia memasuki sekolah menengah. Tjamake meninggal pada 19 Agustus 2021 karena kanker limfoma, berusia 42 tahun[^7]. Regu penyanyi lagu kuno yang dia tinggalkan masih ada, tetapi siapa yang akan menjaga koneksi ini setelah dia pergi?

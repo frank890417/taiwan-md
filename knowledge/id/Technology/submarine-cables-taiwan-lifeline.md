@@ -21,15 +21,21 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/海底電纜.md'
 sporeLinks:
-  [
-    "{'id': 55, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP'}",
-    "{'id': 56, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049860918641893571'}",
-  ]
+  - id: 55
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP'
+  - id: 56
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049860918641893571'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: '5ff155c10'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
-translatedAt: '2026-07-27T05:39:27+08:00'
+translatedAt: '2026-11-18T10:17:36.221004+00:00'
 ---
 
 > **Ringkasan 30 Detik:** 2 dan 8 Februari 2023, dua kabel bawah laut menghubungkan Lienchiang (Matsu) dengan pulau utama Taiwan putus berturut-turut dalam enam hari[^1]. Chunghwa Telecom memerlukan **sekitar 50 hari** untuk memperbaiki salah satunya, sedangkan kabel Taiwan-Matsu No. 2 total **memakan waktu 4 bulan 23 hari** untuk selesai diperbaiki——Wakil Menteri Pengembangan Digital Chueh Ho-ming menyatakan "**melebihi rata-rata waktu perbaikan kabel laut internasional**", karena "**terganggu oleh kapal pengawasan laut Tiongkok**"[^2]. **99%** lalu lintas internet internasional Taiwan bergantung pada kabel laut, **14 kabel laut internasional** yang masih aktif[^3] semuanya terkonsentrasi di **empat stasiun pendaratan** di pulau utama: Danshui, Bali, Toucheng, Fangshan[^4]. 2024 Chunghwa Telecom diam-diam mengaktifkan stasiun pendaratan kelima di Dawu, Taitung, yang hanya dikenal warga lokal melalui nomor alamatnya "**Gedung 506**"——orang dalam mengungkapkan ini adalah "**jaringan keamanan kontak luar untuk saat terjadi perang di Selat Taiwan**"[^5]. Ruang bersih TSMC adalah wajah heroik perisai silikon di atas, 14 kabel ini di kedalaman 1.300 meter di bawah laut adalah jalur hidup tak terlihat di bawah: mereka mampu memutus 23 juta orang dari dunia tanpa menembakkan satu peluru pun.
