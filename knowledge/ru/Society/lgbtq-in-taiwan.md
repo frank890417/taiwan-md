@@ -20,8 +20,10 @@ readingTime: 12
 lastVerified: 2026-04-30
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/LGBTQ.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2dceb8d4eac7775f'
 sourceBodyHash: 'sha256:693cd449aa89ed1d'
 translatedAt: '2026-07-25T19:27:08+08:00'

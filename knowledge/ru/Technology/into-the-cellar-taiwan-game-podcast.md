@@ -18,8 +18,10 @@ readingTime: 10
 lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d882a7c06037e89c'
 sourceBodyHash: 'sha256:abaef255e91e930b'
 translatedAt: '2026-07-26T00:17:01+08:00'

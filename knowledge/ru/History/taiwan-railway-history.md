@@ -20,8 +20,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: History/台灣鐵道史.md
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:711d78906f27f250'
 sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-09-09T15:33:03+08:00'

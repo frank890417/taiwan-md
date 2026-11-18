@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：鴻海精密.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
 sourceBodyHash: 'sha256:68bf0232c7180c94'
 translatedAt: '2026-07-26T03:58:18+08:00'

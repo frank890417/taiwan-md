@@ -16,8 +16,10 @@ tags:
 lastVerified: 2026-03-31
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
 translatedAt: '2026-07-25T06:34:25+08:00'

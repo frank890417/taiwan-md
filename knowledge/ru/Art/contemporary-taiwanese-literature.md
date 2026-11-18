@@ -17,8 +17,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/當代台灣文學.md'
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/當代台灣文學.md'
-sourceCommitSha: '4d7fab8ee'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c4bd59992f27e4d2'
 sourceBodyHash: 'sha256:61a341569aa8edad'
 translatedAt: '2026-08-01T23:08:41+08:00'

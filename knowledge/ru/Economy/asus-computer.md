@@ -15,8 +15,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: '0a79156df'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ccde9abb3915fd43'
 sourceBodyHash: 'sha256:a7817277d4b3bdbe'
 translatedAt: '2026-11-05T22:52:00.160429+00:00'

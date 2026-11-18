@@ -22,8 +22,10 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
-sourceCommitSha: 'bb059332d'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:cc5bd7cfca8af637'
 sourceBodyHash: 'sha256:073e34a439566b72'
 translatedAt: '2026-08-05T16:59:11+08:00'

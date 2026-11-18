@@ -19,8 +19,10 @@ tags:
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:34ef5e8d367bee9d'
 sourceBodyHash: 'sha256:d270d18b5c4f802e'
 translatedAt: '2026-07-25T19:27:08+08:00'

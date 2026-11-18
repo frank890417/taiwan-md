@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/原住民文學.md'
-sourceCommitSha: 'ad792c900'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-10-15T20:18:42+08:00'

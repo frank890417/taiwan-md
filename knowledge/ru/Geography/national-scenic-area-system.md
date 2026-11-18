@@ -18,8 +18,10 @@ lastVerified: 2026-10-08
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣國家風景區系統.md'
-sourceCommitSha: 'a3c3b8e7a'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:843b11dd2d549d80'
 sourceBodyHash: 'sha256:4e1aac3f956352d4'
 translatedAt: '2026-10-08T09:30:01+08:00'

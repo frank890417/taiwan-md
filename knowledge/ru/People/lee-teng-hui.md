@@ -10,8 +10,10 @@ readingTime: 8
 lastVerified: 2026-03-22
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李登輝.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-07-25T12:49:35+08:00'

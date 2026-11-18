@@ -38,8 +38,10 @@ sporeLinks:
     date: '2026-05-27'
     url: 'https://x.com/taiwandotmd/status/2059458468898287770'
 relatedDiary: ['2026-05-27-122151-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: 'c4bb5dc71'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:1ab18bf6c6736ca9'
 sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
 translatedAt: '2026-10-08T07:19:22.137411+00:00'

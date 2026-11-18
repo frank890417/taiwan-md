@@ -29,8 +29,10 @@ sporeLinks:
     "{'id': 135, 'platform': 'x', 'date': '2026-06-13', 'url': 'https://x.com/taiwandotmd/status/2065697249041281306'}",
   ]
 relatedDiary: ['2026-06-04-151548-天下雜誌']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'd317f1649'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:cfcffc0d37076c22'
 sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-08-05T16:59:11+08:00'

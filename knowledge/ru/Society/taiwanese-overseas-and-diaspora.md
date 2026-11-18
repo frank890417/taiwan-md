@@ -15,8 +15,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5ad18a83d0ab46f1'
 sourceBodyHash: 'sha256:dc26781150e83c1c'
 translatedAt: '2026-07-25T19:27:08+08:00'

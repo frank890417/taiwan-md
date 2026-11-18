@@ -13,8 +13,10 @@ tags:
 lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/法輪功在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:0b627bb39208e94e'
 sourceBodyHash: 'sha256:506539ee82e6b605'
 translatedAt: '2026-07-25T17:25:47+08:00'

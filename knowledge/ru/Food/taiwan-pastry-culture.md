@@ -20,8 +20,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '89dff79c1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:da156bdcc66f3839'
 sourceBodyHash: 'sha256:0ccf3caa8312faf1'
 translatedAt: '2026-10-11T00:56:54+08:00'

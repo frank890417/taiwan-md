@@ -18,8 +18,10 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: 'bfe3c4861'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:a769f300a4a6b10d'
 sourceBodyHash: 'sha256:62a8c3544391f28d'
 translatedAt: '2026-10-15T20:18:06+08:00'

@@ -18,8 +18,10 @@ lastVerified: 2026-07-22
 lastHumanReview: false
 readingTime: 28
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/NET.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
 translatedAt: '2026-07-26T13:23:39+08:00'

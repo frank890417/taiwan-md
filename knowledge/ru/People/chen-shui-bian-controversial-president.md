@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: '1389f8ce7'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f51e056dbe61a84c'
 sourceBodyHash: 'sha256:be5f4cfa04f53c22'
 translatedAt: '2026-09-22T08:09:31+08:00'

@@ -27,8 +27,10 @@ lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/黃少雍.md'
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃少雍.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1eec88247d62dc4f'
 sourceBodyHash: 'sha256:a256bcff3da876ac'
 translatedAt: '2026-07-26T08:51:02+08:00'

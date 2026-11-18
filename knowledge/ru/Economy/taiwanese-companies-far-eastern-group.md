@@ -18,8 +18,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：遠東集團.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d6da6fce353b5bfa'
 sourceBodyHash: 'sha256:4d55bf95947dc191'
 translatedAt: '2026-07-26T05:17:41+08:00'

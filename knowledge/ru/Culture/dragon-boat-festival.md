@@ -28,8 +28,10 @@ sporeLinks:
     "{'id': 146, 'platform': 'threads', 'date': '2026-06-19', 'url': 'https://www.threads.com/@taiwandotmd/post/DZw5BYDE_fT'}",
     "{'id': 147, 'platform': 'x', 'date': '2026-06-19', 'url': 'https://x.com/taiwandotmd/status/2067914171996614897'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/端午節.md'
-sourceCommitSha: '58fa84f01'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:aac6019521f0bc32'
 sourceBodyHash: 'sha256:5410e4f9f881b327'
 translatedAt: '2026-08-06T18:32:31+08:00'
