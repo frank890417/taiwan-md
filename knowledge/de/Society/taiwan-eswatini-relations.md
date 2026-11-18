@@ -37,11 +37,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'da67ec6fe'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c62b916ed21bb09b'
 sourceBodyHash: 'sha256:f87da2052ad611fa'
-translatedAt: '2026-10-03T16:56:24.298145+00:00'
+translatedAt: '2026-11-18T08:24:14.330793+00:00'
 ---
 
 > **30 秒概覽：** Eswatini (Eswatini, 2018 von „Swaziland“ umbenannt) ist der einzige verbliebene afrikanische Verbündete Taiwans, das im September 1968 die Beziehungen zum Republik China (Taiwan) aufnahm und 2026 58 Jahre alt ist. König Mswati III wurde im April 1968 geboren, fünf Monate später erlangte das Land seine Unabhängigkeit und schloss dieselben Tag mit Taiwan diplomatische Beziehungen; sein Leben überschneidet nahezu vollständig mit der Geschichte der taiwiesischen Außenpolitik, und stand bis 2024 mehr als 17 Mal in Taiwan[^1]. Nach dem Abbruch der Beziehungen zu Burkina Faso im Mai 2018 war Eswatini das einzige afrikanische Land, das Taiwan noch anerkannte[^12]. Am 2. Mai 2026 unternahm Lai Ching-te eine Reise nach Eswatini; ursprünglich für den 22. April geplant, wurde der Abflug aufgrund von voreiligen Fluglizenzstornierungen in Sansibar, Mauritius und Madagaskar unter chinesischem Druck verschoben. Mswati schickte daraufhin eine Airbus A340 des königlichen Flughafens, um den Vizepräsidenten Thulisile Dladla nach Taipeh zu holen; Lai traf am 2. Mai direkt von Taipeh in Mbabane ein[^3]. Am 1. Mai desselben Jahres gewährte China 53 afrikanischen Ländern 98 % Zollbefreiung, wobei Eswatini ausdrücklich ausgenommen wurde[^4]. Die größte Unsicherheit in dieser diplomatischen Beziehung liegt nicht im Geld, das China bieten kann, sondern darin, ob der Nachfolger von Mswati ein Land mit 56 % Arbeitslosenquote unter jungen Menschen davon überzeugen kann, Taiwan weiterhin als Freund zu betrachten.
