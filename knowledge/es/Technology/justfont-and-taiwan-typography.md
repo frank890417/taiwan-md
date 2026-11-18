@@ -22,16 +22,18 @@ readingTime: 18
 featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-researchReport: reports/research/2026-06/justfont與台灣字體發展.md
+researchReport: 'reports/research/2026-06/justfont與台灣字體發展.md'
 image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T03:41:25.562871+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 8 de septiembre de 2015 por la mañana, la tipografía Jinxuan de justfont apareció en la plataforma de crowdfunding flyingV. Alcanzó su meta en **76 minutos**, superó los 10 millones en **11 horas** y los 20 millones en **58 horas**; al cierre, 7.667 personas habían invertido 25.930.099 dólares taiwaneses en una tipografía que aún no existía[^1]. Este artículo arranca en 1987, con la fundación de DynaFont, y muestra cómo una industria leída por toda Taiwán se vino abajo, cómo se fue educando a sus lectores; también habla de las personas que crean las letras: Lin Xia, que llegó al diseño tipográfico tras pintar estatuas de Buda; Zhang Jiekuan, que fundía tipos de plomo en la calle Taiyuan durante medio siglo; Wang Shuihe, que entró al oficio a los catorce años pintando rótulos. Y habla de lo que surgió después de Jinxuan: las tipografías de código abierto, Lan Yang Ming Ti y el ecosistema de diseñadores independientes.

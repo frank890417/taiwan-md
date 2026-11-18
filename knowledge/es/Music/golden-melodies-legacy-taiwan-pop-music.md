@@ -37,11 +37,13 @@ imageAlt: 'Durante el movimiento de los girasoles en 2014, las calles de Taipéi
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'a266eaa96'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9dd098f7a5a51bd9'
 sourceBodyHash: 'sha256:7e4e331322aaf847'
-translatedAt: '2026-10-13T04:54:51.829061+00:00'
+translatedAt: '2026-11-18T05:03:37.122700+00:00'
 ---
 
 # Música pop de Taiwán: la isla que confeccionó el traje nupcial para todo el mundo y acabó conservando lo que otros no pueden cantar
