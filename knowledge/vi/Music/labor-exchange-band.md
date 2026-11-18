@@ -1,18 +1,18 @@
 ---
-title: 'Ban nhạc Giao Công: Âm thanh của sự đấu tranh nông thôn trước toàn cầu hóa'
-description: 'Vào mùa thu năm 1998, Lâm Sinh Tường đóng tài khoản ngân hàng ở Đam Thủy chỉ còn lại 57 Đài tệ và trở về Mỹ Nông cùng nhà thơ Chung Vĩnh Phong để sáng tác cho phong trào phản đối đập nước. Từ năm 1999 đến 2003, Ban nhạc Giao Công đã kết hợp âm nhạc Hạc Gia với rock hiện đại trong hai album, ghi lại cuộc đấu tranh sinh tồn của nông thôn trước toàn cầu hóa—tiếng kèn Măo lần đầu tiên đứng trên sân khấu rock Đài Loan.'
+title: 'Ban nhạc Giao Công'
+description: 'Mùa thu năm 1998, Lâm Sinh Tường đóng tài khoản ở Danshui chỉ còn lại NT$57, về quê ở Mỹ Nung, cùng nhà thơ Chung Vĩnh Phong sáng tác bài hát cho phong trào chống đập nước. Từ năm 1999 đến 2003, Ban nhạc Giao Công dung hợp Khách gia Bát âm với rock hiện đại, hai album ghi lại sự đấu tranh sinh tồn của nông thôn trong toàn cầu hóa — Soa na lần đầu tiên đứng tại trung tâm sân khấu rock Taiwan.'
 date: 2026-04-27
 category: 'Music'
 tags:
   [
     'Ban nhạc Giao Công',
     'Lâm Sinh Tường',
-    'Âm nhạc Hạc Gia',
-    'Nhạc độc lập',
-    'Mỹ Nông',
-    'Âm nhạc xã hội',
-    'Giải thưởng Kim Khúc',
-    'Kèn Măo',
+    'Âm nhạc Khách gia',
+    'Âm nhạc độc lập',
+    'Mỹ Nung',
+    'Âm nhạc vận động xã hội',
+    'Giải Kim Khúc',
+    'Soa na',
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
@@ -23,114 +23,114 @@ readingTime: '8min'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Music/交工樂隊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:c3347c2a085cddc9'
 sourceBodyHash: 'sha256:8f0c4cf2e72a96b9'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-18T19:10:45.815952+00:00'
 ---
 
-# Ban nhạc Giao Công
+# Đội nhạc Jiaogong
 
-> **Tóm tắt 30 giây:** Ban nhạc Giao Công (1999–2003) là ban nhạc rock đầu tiên ở Đài Loan sử dụng âm nhạc Hạc Gia để chống lại toàn cầu hóa. Ra đời từ phong trào phản đối đập nước Mỹ Nông, hai album _Chúng Tôi Đến Ca Bài Ca Núi_ và _Quân Đoàn Dạ Hành Hoa Cúc_ đã ghi lại tiếng nói suy tàn của nông thôn bằng kèn Măo, đàn Nguyệt Cầm và guitar rock. Ban nhạc chỉ tồn tại bốn năm, nhưng nó đã thay đổi cách người ta nghe kèn Măo ở Đài Loan.
+> **30 giây tổng quan:** Đội nhạc Jiaogong (1999–2003) là đội nhạc rock đầu tiên của Đài Loan dùng nhạc cụ bát âm Khách Gia để đối抗 toàn cầu hóa. Sinh ra từ phong trào chống đập nước Meinong, hai album 《我等就來唱山歌》與《菊花夜行軍》 dùng kèn suona, nguyệt cầm và guitar rock ghi lại âm thanh của nông thôn tàn tạ. Đội nhạc chỉ tồn tại bốn năm, nhưng nó thay đổi cách người Đài Loan nghe kèn suona.
 
-Vào mùa thu năm 1998, Lâm Sinh Tường đóng tài khoản ngân hàng của mình tại Đam Thủy, số dư chỉ còn 57 Đài tệ [^1][^2]. Anh lên xe buýt trở về quê hương Mỹ Nông—tranh chấp đập nước ở quê nhà khiến anh không thể giả vờ như chưa có chuyện gì.
+Mùa thu năm 1998, Lin Sheng-xiang đóng tài khoản ngân hàng ở Đàn Thủy, tài khoản chỉ còn NT$57 [^1][^2]. Anh ấy lên xe buýt về quê, từ Đài Bắc về Mỹ Nông — tranh chấp đập nước ở quê nhà khiến anh không thể tiếp tục làm ngơ.
 
-Quyết định đó đã làm thay đổi dòng chảy lịch sử âm nhạc Đài Loan.
+Quyết định đó làm thay đổi hướng đi của lịch sử âm nhạc Đài Loan.
 
-## Chiến trường của một người nông dân
+## Một chiến trường ở đầu làng
 
-Phong trào phản đối đập nước Mỹ Nông bắt đầu từ cuối năm 1992 [^3]. Chính phủ dự định xây dựng đập nước ở thị trấn Mỹ Nông, huyện Cao Hùng; các nhân vật như Quý Hải và Chung Vĩnh Phong đã thành lập "Hội Tiến bộ Yêu Quê Mỹ Nông", khởi xướng một cuộc đấu tranh kéo dài tám năm.
+Phong trào chống đập nước Mỹ Nông bắt đầu từ cuối năm 1992 [^3]. Chính phủ kế hoạch xây đập nước tại xã Mỹ Nông, huyện Cao Hùng, Tăng Quý Hải, Chung Vĩnh Phong等人 thành lập «Hội Hợp Tiến Yêu Quê Mỹ Nông», khởi động một cuộc抗爭 kéo dài tám năm.
 
-Khi Lâm Sinh Tường trở về Mỹ Nông, phong trào này đã diễn ra được sáu năm. Nhà thơ Chung Vĩnh Phong là người bạn cũ của anh, và cũng là một nhân vật chủ chốt trong phong trào. Hai người nhanh chóng phân công: Chung Vĩnh Phong viết lời, Lâm Sinh Tường sáng tác nhạc, để lại dấu ấn cho từng cột mốc của cuộc đấu tranh.
+Khi Lin Sheng-xiang trở về Mỹ Nông, phong trào này đã diễn ra sáu năm. Nhà thơ Chung Vĩnh Phong là người bạn cũ của anh, cũng là một trong những nhân vật cốt lõi của phong trào. Hai người nhanh chóng phân công: Chung Vĩnh Phong viết lời, Lin Sheng-xiang谱曲, ghi lại kỷ niệm cho mỗi nút gổ của phong trào.
 
-Tháng 4 năm 1998, Viện Hành chính Trưởng Tiêu Vạn Trường tuyên bố đập nước Mỹ Nông sẽ khởi công trong vòng một năm. Người dân thị trấn Mỹ Nông đã lên xe buýt về phía Bắc qua đêm để kiến nghị trước Quốc hội. Chung Vĩnh Phong ngồi trên chiếc xe buýt đó, chứng kiến khuôn mặt của người nông dân, và đêm đó truyền cho Lâm Sinh Tường bài hát đầu tiên: 〈Xe Buýt Dạ Hành〉[^2].
+Tháng 4 năm 1998, Thủ tướng Tiêu Vạn Trưởng tuyên bố đập nước Mỹ Nông sẽ khai công trong vòng một năm. Dân Mỹ Nông suốt đêm lên xe buýt ra Bắc, chuẩn bị đến trước Viện Lập pháp để kiến nghị. Chung Vĩnh Phong ngồi trên chiếc xe buýt đó, chứng kiến những khuôn mặt nông dân, đêm hôm ấy gửi cho Lin Sheng-xiang bài lời đầu tiên: «Đêm xe buýt» [^2].
 
-## Ra đi dưới danh nghĩa "Công nhân trao đổi"
+## Khởi hành dưới danh nghĩa «Công nhân trao đổi»
 
-"Giao Công" là một chế độ cổ xưa của nông thôn Hạc Gia: trong mùa bận rộn, hàng xóm giúp đỡ lẫn nhau bằng sức lao động mà không nhận tiền, chỉ đổi công [^1].
+«Giao công» (交工) là một chế độ cổ xưa của nông thôn Khách Gia: vào mùa bận rộn, hàng xóm trao đổi sức lao động lẫn nhau, không thu tiền, chỉ đổi công [^1].
 
-Năm 1999, Lâm Sinh Tường đã tái cấu trúc "Hố âm nhạc Quan Tử" ban đầu thành Ban nhạc Giao Công với cái tên này [^1][^6]. Việc đặt tên của ban nhạc là một lời tuyên bố: lấy khái niệm tương trợ nông thôn làm cốt lõi, chứ không phải để phục vụ ngành công nghiệp thu âm.
+Năm 1999, Lin Sheng-xiang lấy khái niệm này làm tên, tái tổ chức ban «Quán tử nhạc khe» (觀子音樂坑) thành Đội nhạc Giao Công [^1][^6]. Việc đặt tên đội nhạc là một tuyên ngôn: lấy khái niệm tương trợ nông thôn làm cốt lõi, chứ không phải thiết kế cho ngành công nghiệp đĩa.
 
-Năm thành viên chủ chốt: Lâm Sinh Tường (ca sĩ chính, guitar, đàn Nguyệt Cầm), Trần Quan Vũ (bass, thu âm), Chung Thành Đạt (trống), Quách Tiến Tài (kèn Măo), và Chung Vĩnh Phong (sáng tác lời) [^1]. Năm người đến từ Mỹ Nông hoặc rất quen thuộc với Mỹ Nông; cơ sở hợp tác của họ là phong trào, chứ không phải thị trường.
+Năm thành viên cốt lõi: Lin Sheng-xiang (ca sĩ chính, guitar, nguyệt cầm), Trần Quán Vũ (bass, thu âm), Chung Thành Đạt (đánh击), Quách Tiến Tài (kèn suona), Chung Vĩnh Phong (viết lời) [^1]. Năm người đều đến từ Mỹ Nông hoặc am hiểu sâu sắc về Mỹ Nông, cơ sở hợp tác là phong trào, không phải thị trường.
 
-Lâm Sinh Tường sau này hồi tưởng: "Nếu không có Vĩnh Phong đưa tôi đi khắp các vùng nông thôn Mỹ Nông, tham gia nhiều hoạt động, thì tôi đã không thể có được khả năng sáng tạo sau này."[^7]
+Lin Sheng-xiang sau này hồi tưởng: «Nếu không có Vĩnh Phong dẫn dắt tôi khắp các ngõ ngách Mỹ Nông, tham gia đủ loại hoạt động, tôi không thể có năng lực sáng tác sau này.» [^7]
 
-## Kèn Măo thay thế anh hùng guitar
+## Kèn suona thay thế anh hùng guitar
 
-Âm thanh của Giao Công rất khó để định nghĩa bằng một nhãn mác. Họ sử dụng đàn guitar điện, nhưng họ cũng dùng kèn Măo. Họ có sự ồn ào của rock, nhưng cốt lõi là âm điệu Hạc Gia—trống, chiêng, kèn Măo, Nguyệt Cầm, Tam Huyền.
+Âm nhạc của Giao Công khó định nghĩa bằng một nhãn duy nhất. Họ dùng guitar điện, nhưng cũng dùng kèn suona. Họ có tiếng ồn rock, nhưng xương sống là điệu thức bát âm Khách Gia — la, trống, kèn suona, nguyệt cầm, tam huyền.
 
-Kèn Măo của Quách Tiến Tài không phải là vật trang trí, mà là nhân vật chính. Trong làng nhạc rock Đài Loan, đây gần như là một trường hợp đơn lẻ: không có ban nhạc nào khác trong cùng thời đại lại đưa một nhạc cụ truyền thống nông thôn lên vị trí trung tâm sân khấu, và họ sử dụng nó không phải dưới khuôn khổ "bảo tồn văn hóa", mà theo cách "nói về hiện tại".
+Kèn suona của Quách Tiến Tài không phải vật trang trí, mà là nhân vật chính. Trong làng rock Đài Loan, đây gần như là trường hợp duy nhất: không đội nhạc nào cùng thời cho một nhạc cụ truyền thống nông thôn đứng tại trung tâm sân khấu, và không dùng khung «bảo tồn văn hóa» mà dùng cách «nói chuyện của hiện tại».
 
-📝 **Ghi chú của người biên tập:** Địa điểm thu âm của Giao Công được chọn là nhà máy thuốc lá bỏ hoang ở Mỹ Nông [^1]. Các làng Hạc Gia từng trồng rất nhiều thuốc lá, và những nhà máy này dùng để phơi khô thuốc lá, phần lớn đã bị bỏ hoang sau thập niên 90. Việc ghi âm âm nhạc về sự suy tàn của nông thôn tại không gian nông nghiệp cũ kỹ này không phải là lãng mạn, mà là chính xác.
+📝 **Ghi chú người bảo tàng:** Địa điểm thu âm của Giao Công được chọn tại nhà khói thuốc lá bỏ hoang của Mỹ Nông [^1]. Nông thôn Khách Gia từng trồng diện tích lớn thuốc lá, nhà khói là công trình sấy khô thuốc lá, sau khi bước vào thập niên 1990 đa số bỏ hoang. Dùng không gian nông nghiệp bỏ hoang để thu âm nhạc về sự tàn tạ của nông thôn, lựa chọn này không phải lãng mạn, mà là chính xác.
 
-## Miếng mic đầu tiên: _Chúng Tôi Đến Ca Bài Ca Núi_
+## Cái micro đầu tiên: 《我等就來唱山歌》
 
-Tháng 4 năm 1999, album _Chúng Tôi Đến Ca Bài Ca Núi_ được phát hành [^1]. Đây là album đầu tiên ở Đài Loan hát bằng tiếng Hạc Gia và kết hợp với rock.
+Tháng 4 năm 1999, 《我等就來唱山歌》 phát hành [^1]. Đây là album đầu tiên của Đài Loan được trình diễn bằng tiếng Khách Gia, dung hợp rock.
 
-Tên album được lấy từ thành ngữ ca dao truyền thống của người Hạc Gia, mang ý nghĩa rất trực diện: "Chúng tôi cùng nhau đến hát bài ca núi". Ban nhạc này không muốn bất kỳ ai hiểu lầm họ đang làm gì.
+Tên album lấy từ thành ngữ phổ biến trong ca dao truyền thống Khách Gia, nghĩa trực diện: «Chúng ta cùng đến hát ca dao». Đội nhạc này không muốn ai hiểu lầm về việc họ đang làm gì.
 
-Tại Giải thưởng Kim Khúc lần thứ 11 vào năm 2000, album này đã giành được hai giải trong bốn đề cử—Nhạc sĩ xuất sắc nhất và Nhà sản xuất xuất sắc nhất [^1]. Trong một thời đại mà âm nhạc độc lập ở Đài Loan gần như không có chỗ đứng tại các lễ trao giải, đây là một tín hiệu vô cùng rõ ràng.
+Giải Cẩm Nang (金曲獎) lần thứ 11 năm 2000, album này giành hai trong bốn đề cử — Nhà soạn nhạc xuất sắc nhất và Nhà sản xuất xuất sắc nhất [^1]. Trong thời đại âm nhạc độc lập Đài Loan gần như không có chỗ đứng trên sàn lễ hội, đây là một tín hiệu bất thường rõ ràng.
 
-## Con đường trở về của A Thành: _Quân Đoàn Dạ Hành Hoa Cúc_
+## Con đường về quê của A Thành: 《菊花夜行軍》
 
-Tháng 9 năm 2001, album _Quân Đoàn Dạ Hành Hoa Cúc_ được phát hành [^1]. Đây là một album nói về nông thôn bị thời đại bỏ lại phía sau.
+Tháng 9 năm 2001, 《菊花夜行軍》 phát hành [^1]. Đây là một album về những vùng nông thôn bị thời đại bỏ lại phía sau.
 
-Đài Loan gia nhập WTO vào năm 2001. Việc nhập khẩu lương thực đã tác động mạnh đến nông nghiệp địa phương, sự di cư của dân số nông thôn tăng tốc, và người trồng hoa cúc ở Mỹ Nông phải đối mặt với một hệ thống mà hai bàn tay không thể chống lại [^4]. Nhân vật chính trong album, "A Thành", là một thanh niên nông dân hư cấu, đi qua lại giữa thành thị và nông thôn, cuối cùng chỉ còn lại con đường đêm.
+Đài Loan gia nhập WTO vào năm 2001. Lượng lương thực nhập khẩu tác động mạnh đến nông nghiệp bản địa, dân số nông thôn di cư ra ngoài tăng tốc, nông dân trồng hoa cúc tại Mỹ Nông đối mặt với một hệ thống không thể chống cự bằng đôi tay trần [^4]. Nhân vật chính của album "A Thành" là một con trai nhà nông hư cấu, đi lại giữa thành phố và nông thôn, cuối cùng chỉ còn lại con đường đêm ấy.
 
-_Quân Đoàn Dạ Hành Hoa Cúc_ sau này đã được chọn vào danh sách "Trăm Album Pop Đài Loan (1993-2005)"[^5].
+《菊花夜行軍》 sau đó được chọn vào "100 Album nhạc đại chúng hàng đầu Đài Loan (1993-2005)" [^5].
 
-Nhà phê bình Mã Thế Phương viết sau buổi hòa nhạc kỷ niệm 15 năm: "Album này có thể khiến thanh niên trí thức thành thị, người nông dân già ở Mỹ Nông và những chị em xa xứ ở Nam Dương đều rơi lệ; vừa có thể thắp lên ngọn lửa nhiệt huyết tại hiện trường hoạt động xã hội, vừa giống như một đĩa nhạc sốt để dùng thử thiết bị tại các cửa hàng âm thanh."[^4]
+Nhà phê bình âm nhạc Mã Thế Phường viết sau buổi hòa nhạc 15 năm: "Chiếc album này khiến thanh niên trí thức thành phố, lão nông Mỹ Nông và những chị em Nam Dương lấy chồng xa xôi đều rơi nước mắt khi nghe, vừa có thể thắp lửa máu hồng tại hiện trường vận động xã hội, lại còn được dùng như đĩa audioophile trong cửa hàng âm thanh để thử thiết bị." [^4]
 
-📝 **Ghi chú của người biên tập:** Việc một album phản kháng nông thôn được các tổ chức văn hóa chính thống đưa vào danh sách trăm bài hát vào năm 2001 không phải là điều hiển nhiên. Giao Công sử dụng tiếng Hạc Gia để nói về khó khăn của người dân, và thị trường thương mại gần như không thể tiếp cận; lễ trao giải Kim Khúc là một trong số ít cơ hội được công khai nhìn thấy—sự mâu thuẫn này chính là bức tranh thu nhỏ về tình cảnh âm nhạc độc lập ở Đài Loan thời đó.
+📝 **Ghi chú người bảo tàng:** Một album phản kháng nông thôn được cơ quan văn hóa chính thống xếp vào top 100, ở Đài Loan năm 2001 điều đó không hề hiển nhiên. Giao Công dùng tiếng Khách hát về cảnh ngộ nông dân, thị trường thương mại gần như không thể tiếp cận, chỉ có lễ trao Giải Thưởng Âm nhạc Kim Cương mới là những trường hợp hiếm hoi được công khai nhìn thấy — chính sự mâu thuẫn đó chính là hình thu nhỏ của hoàn cảnh nhạc độc lập Đài Loan thời bấy giờ.
 
-## Cảm ơn Thần Đất
+## Cảm ơn Thổ địa Bác công
 
-Năm 2002, _Quân Đoàn Dạ Hành Hoa Cúc_ đã giành giải Ban nhạc xuất sắc nhất tại Giải thưởng Kim Khúc lần thứ 13 [^1].
+Năm 2002, 《Hành quân đêm Hoa cúc》 giành giải Nhóm nhạc xuất sắc tại Giải Thư 曲 lần thứ 13 [^1].
 
-Lâm Sinh Tường nói trên sân khấu rằng nếu Ban nhạc Giao Công là một chiếc micro, họ muốn trao nó cho người nông dân và công nhân, để kể cho xã hội nghe những gì họ đã thấy và những câu chuyện họ đã nghe [^2]. Sau đó anh cảm ơn Thần Đất—vị thần bảo hộ đất đai trong tín ngưỡng nông thôn Hạc Gia.
+Lâm Sinh Tường trên sân khấu nói, nếu Đội nhạc Giao Công là một cây micro, họ hy vọng đưa nó đến tay nông dân, công nhân, để kể cho xã hội những gì đã thấy và nghe được [^2]. Sau đó ông cảm ơn Thổ địa Bác công — thần linh bảo vệ đất đai trong tín ngưỡng nông thôn Khách gia.
 
-Đó là lần đầu tiên có ai đó cảm ơn Thần Đất tại lễ trao giải Kim Khúc.
+Đó là lần đầu tiên trong lịch sử lễ trao giải Thư 曲 có người cảm ơn Thổ địa Bác công.
 
-| Năm  | Album                         | Giải thưởng Kim Khúc                                         |
-| :--- | :---------------------------- | :----------------------------------------------------------- |
-| 1999 | _Chúng Tôi Đến Ca Bài Ca Núi_ | Nhạc sĩ xuất sắc nhất, Nhà sản xuất xuất sắc nhất lần thứ 11 |
-| 2001 | _Quân Đoàn Dạ Hành Hoa Cúc_   | Ban nhạc xuất sắc nhất lần thứ 13                            |
+| Năm  | Album                        | Giải Thư 曲                                               |
+| ---- | ---------------------------- | --------------------------------------------------------- |
+| 1999 | 《Chúng tôi đến hát ca dao》 | Lần thứ 11: Nhà soạn nhạc xuất sắc, Nhà sản xuất xuất sắc |
+| 2001 | 《Hành quân đêm Hoa cúc》    | Lần thứ 13: Nhóm nhạc xuất sắc                            |
 
-✦ "Thực ra tôi không dám nói mình đã viết lời gì, mà chỉ nói là 'chúng ta' đã cùng nhau viết những lời gì." — Chung Vĩnh Phong [^7]
+✦ 「Thực ra tôi không nói là 'tôi' viết lời gì, mà nói là 'chúng tôi' cùng viết lời gì.」——Chung Vĩnh Phong [^7]
 
-## Ngày 1 tháng 9 năm 2003
+## 1 tháng 9 năm 2003
 
-Ban nhạc Giao Công tan rã vào ngày 1 tháng 9 năm 2003 [^1].
+Đội nhạc Jiaogong giải thể vào ngày 1 tháng 9 năm 2003 [^1].
 
-Lý do giải tán, Lâm Sinh Tường nói đó là một bí mật được giữ kín—vì nếu nói ra chắc chắn sẽ làm tổn thương các thành viên khác [^2]. Không có buổi hòa nhạc chia tay, không có tuyên bố công khai. Các thành viên mỗi người đi theo một hướng khác nhau: Lâm Sinh Tường tiếp tục hợp tác với Chung Vĩnh Phong, sau này thành lập "Ban nhạc Sinh Tường", và đã giành tổng cộng bảy giải Kim Khúc [^6][^8]; Trần Quan Vũ, Chung Thành Đạt, Quách Tiến Tài thành lập "Ban nhạc Khách" [^6], tiếp nối con đường rock Hạc Gia.
+Nguyên nhân giải thể, Lâm Sinh Tường nói là bí mật giữ mãi mãi — vì nói ra chắc chắn sẽ làm tổn thương các thành viên khác [^2]. Không có buổi hòa nhạc chia tay, không có tuyên bố công khai. Các thành viên từng người đi một hướng: Lâm Sinh Tường tiếp tục hợp tác với Chung Vĩnh Phong, sau đó thành lập "Đội nhạc Sinh Tường", sau này tích lũy giành bảy giải Quán Vàng [^6][^8]; Trần Quán Vũ, Chung Thành Đạt, Quách Tiến Tài thành lập "Đội nhạc Hảo Khách" [^6], tiếp tục 노선 rock Hakka.
 
-Năm 2016, 15 năm sau khi _Quân Đoàn Dạ Hành Hoa Cúc_ được phát hành, Lâm Sinh Tường và Chung Vĩnh Phong đã ra mắt bản phối lại hai đĩa và tổ chức một buổi hòa nhạc tại nhà máy thuốc lá bỏ hoang [^4]. Có 3.000 người tham dự. Nhiều người dân quê hương đã lên xe buýt đêm đó nay đã tóc bạc. Cánh đồng hoa cúc vẫn còn, chỉ là số lượng người trồng ít đi.
+Năm 2016, 15 năm sau khi "Hành quân đêm Hoa cúc" phát hành, Lâm Sinh Tường và Chung Vĩnh Phong phát hành phiên bản remix hai đĩa, và quay lại nhà thuốc lá bỏ hoang tổ chức một buổi hòa nhạc [^4]. 3.000 người đến tham dự. Những người quê hương năm nào đi xe buýt đêm lên Bắc, nhiều người đã tóc bạc răng long. Ruộng hoa cúc vẫn còn, chỉ là người trồng ít đi.
 
-Trần Thủy Biển tuyên bố vào năm 2000 rằng ông sẽ không xây đập nước Mỹ Nông trong nhiệm kỳ [^3]. Phong trào đã thắng. Nhưng ngôi làng mà Ban nhạc Giao Công ghi lại suốt bốn năm vẫn tiếp tục suy tàn.
+Trần Thủy Biên năm 2000 tuyên bố trong nhiệm kỳ không xây đập nước Mỹ Nung [^3]. Phong trào thắng lợi. Nhưng ngôi làng quê mà Đội nhạc Jiaogong ghi chép trong bốn năm đó, vẫn tiếp tục tàn tạ.
 
 ---
 
-## Đọc thêm
+## Mở rộng đọc
 
-- [Âm nhạc Hạc Gia Đài Loan](/vi/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Âm nhạc Hakka Đài Loan](/vi/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
 - [Phong trào dân ca Đài Loan](/vi/music/taiwan-campus-folk-song-movement/)
 - [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene/)
-- [Lịch sử phát triển nhạc rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream/)
+- [Lịch sử phát triển rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia "Ban nhạc Giao Công"](https://zh.wikipedia.org/zh-tw/%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A) — Lịch sử ban nhạc, thành viên, niên biểu album, hồ sơ giải thưởng Kim Khúc.
+[^1]: [Wikipedia「Đội nhạc Jiaogong」](https://zh.wikipedia.org/zh-tw/%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A) — Lịch sử ban nhạc, thành viên, niên biểu album, kỷ lục Giải thưởng Cổ nhạc
 
-[^2]: [Phóng viên: Lâm Sinh Tường 20 năm sự nghiệp](https://www.twreporter.org/a/lin-sheng-xiang-20-years) — Câu chuyện trả về với số tiền 57 Đài tệ, bối cảnh sáng tác trên xe buýt đêm, trích dẫn cảm nghĩ tại Giải thưởng Kim Khúc, lý do giải tán.
+[^2]: [The Reporter: Lin Sheng-xiang ra mắt 20 năm](https://www.twreporter.org/a/lin-sheng-xiang-20-years) — Câu chuyện về quê với NT$57, bối cảnh sáng tác trên xe buýt đêm, chuyển thuật lời cảm ơn Giải thưởng Cổ nhạc, lý do giải thể
 
-[^3]: [Wikipedia "Phong trào phản đối đập nước Mỹ Nông"](https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E6%BF%83%E5%8F%8D%E6%B0%B4%E5%BA%AB%E9%81%8B%E5%8B%95) — Bắt đầu phong trào cuối năm 1992, Hội Tiến bộ Yêu Quê Mỹ Nông, tuyên bố của Trần Thủy Biển vào năm 2000.
+[^3]: [Wikipedia「Phong trào chống đập nước Meinong」](https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E6%BF%83%E5%8F%8D%E6%B0%B4%E5%BA%AB%E9%81%8B%E5%8B%95) — Phong trào bắt đầu cuối năm 1992, Hội Yêu nước Meinong, năm 2000 Trần Thủy Biên tuyên bố
 
-[^4]: [Trang đánh giá quan trọng: "Buổi hòa nhạc kỷ niệm 15 năm _Quân Đoàn Dạ Hành Hoa Cúc_"](https://www.thenewslens.com/article/70921) — Bối cảnh tác động nông thôn từ WTO, nhận xét của Mã Thế Phương, buổi hòa nhạc tại nhà máy thuốc lá bỏ hoang với 3.000 người.
+[^4]: [Mạng đánh giá Then chốt: Bình luận buổi hòa nhạc 15 năm 'Hành quân đêm Hoa cúc'](https://www.thenewslens.com/article/70921) — Bối cảnh tác động WTO đến nông thôn, bình luận của Mã Thế Phường, buổi hòa nhạc tại nhà thuốc lá bỏ hoang với 3,000 người
 
-[^5]: [Trích dẫn sách báo: Vườn hoa cúc vĩnh cửu](https://www.twreporter.org/a/bookreview-how-the-night-chrysanthemums-began-to-march-1) — _Quân Đoàn Dạ Hành Hoa Cúc_ được chọn vào danh sách Trăm Album Pop Đài Loan.
+[^5]: [The Reporter trích sách: 'Đồng hoa cúc vĩnh viễn'](https://www.twreporter.org/a/bookreview-how-the-night-chrysanthemums-began-to-march-1) — 'Hành quân đêm Hoa cúc' nhập chọn 100 bài hát phổ biến hàng đầu Đài Loan
 
-[^6]: [Wikipedia "Lâm Sinh Tường"](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%94%9F%E7%A5%A5) — Tiền thân là Hố âm nhạc Quan Tử, Ban nhạc Khách và Ban nhạc Sinh Tường sau khi tan rã, bảy giải Kim Khúc.
+[^6]: [Wikipedia「Lin Sheng-xiang」](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%94%9F%E7%A5%A5) — Tiền thân Quán tử Âm nhạc Keng, sau khi giải thể: Đội nhạc Hảo khách và Đội nhạc Sinh祥, bảy giải Cổ nhạc
 
-[^7]: [Nhật báo Liên hợp 500 tập: Phỏng vấn độc quyền Ban nhạc Sinh Tường](https://500times.udn.com/wtimes/story/12670/6287749) — Lâm Sinh Tường nói về ảnh hưởng của Chung Vĩnh Phong, Chung Vĩnh Phong nói về phương thức sáng tác tập thể.
+[^7]: [Báo Liên hợp số 500: Phỏng vấn độc quyền Đội nhạc Sinh祥](https://500times.udn.com/wtimes/story/12670/6287749) — Lin Sheng-xiang nói về ảnh hưởng của Chung Vĩnh Phong, Chung Vĩnh Phong nói về phương pháp sáng tác tập thể
 
-[^8]: [Lin Sheng Xiang - Wikipedia](https://en.wikipedia.org/wiki/Lin_Sheng_Xiang) — Mục tiếng Anh về Lâm Sinh Tường, ghi lại danh sách các giải thưởng Kim Khúc và đánh giá quốc tế về ông là "một trong những nghệ sĩ âm nhạc thế giới quan trọng nhất châu Á".
+[^8]: [Lin Sheng Xiang — Wikipedia](https://en.wikipedia.org/wiki/Lin_Sheng_Xiang) — Điều mục Lin Sheng Xiang trên Wikipedia tiếng Anh, ghi danh sách giải thưởng Cổ nhạc các năm và đánh giá của phê bình âm nhạc quốc tế về ông là 'một trong những nghệ sĩ âm nhạc thế giới quan trọng nhất châu Á'

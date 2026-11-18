@@ -27,11 +27,13 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:de7f4ddf0c4e6168'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:8e26b4c15a1d169a'
 sourceBodyHash: 'sha256:fb0ee951dd4978bf'
-translatedAt: '2026-11-02T14:07:56.650163+00:00'
+translatedAt: '2026-11-18T19:20:24.432976+00:00'
 ---
 
 # Chuỗi cung ứng phần cứng AI: Nơi Đài Loan biến đám mây thành máy móc
@@ -176,15 +178,17 @@ Lộ trình này chính là bằng chứng cụ thể. Nó biến "lợi ích ch
 
 Đây cũng chính là một trong những vị trí rõ ràng nhất, và cũng là vị trí cần được nhìn nhận rõ ràng nhất của Đài Loan tại thời điểm này.
 
-## Mở rộng đọc
+## Đọc thêm
 
-- [Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Từ định hướng xuất khẩu, thương mại tam giác đến việc tái cấu trúc chuỗi cung ứng Mỹ-Trung trong bối cảnh vĩ mô.
-- [NVIDIA tại Đài Loan](/vi/technology/nvidia-in-taiwan) — NVIDIA như thế nào đặt cọc sâu sắc việc sản xuất chip, đóng gói và lắp ráp máy chủ tại Đài Loan.
-- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA, chế biến thâm canh TSMC đến bối cảnh dài hạn của chiến trường vật liệu và đóng gói.
-- [Computex](/vi/technology/computex) — Tại sao Triển lãm Máy tính Đài Bắc (Computex) trong kỷ nguyên AI trở thành nơi thánh địa của phía cung ứng phần cứng toàn cầu.
-- [Điện lực và bán dẫn của Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Hóa đơn điện lực, áp lực điện xanh và an ninh năng lượng đằng sau chuỗi cung ứng AI.
-- [Nước cho bán dẫn và tài nguyên nước của Đài Loan](/vi/technology/semiconductor-water-use-and-taiwan-water-resources) — Nhà máy tấm wafer như thế nào kết nối với hồ chứa, hạn hán, nước tái chế và quản trị địa phương.
-- [Chuỗi cung ứng AI thiết lập nhà máy ở hải ngoại](/vi/technology/ai-supply-chain-overseas-manufacturing) — Từ TSMC, Foxconn, Wistron đến Delta, chuỗi cung ứng Đài Loan như thế nào được thế giới mời đi thiết lập nhà máy ở nước ngoài.
+- [Bản đồ chuỗi cung ứng](/industry/supply-chain-map/) — Bán dẫn thể, máy chủ AI, volfram ba chuỗi, từng khâu xem công ty nào ở Đài Loan, khâu nào phụ thuộc nước ngoài
+- [Chuyên đề ngành công nghiệp Đài Loan](/industry/) — Dùng thống kê chính thức vẽ cấu trúc ngành: xuất khẩu và GDP bảy mươi năm, khu công nghệ, nhà máy các huyện/thành phố, vốn hóa thị trường hàng năm top 10, thêm sáu tranh luận công khai các phía nói
+- [Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Từ hướng xuất khẩu, thương mại tam giác đến bối cảnh vĩ mô tái cấu trúc chuỗi cung ứng Mỹ-Trung.
+- [NVIDIA tại Đài Loan](/vi/technology/nvidia-in-taiwan) — NVIDIA như thế nào đặt cọc sâu sản xuất chip, đóng gói và lắp ráp máy chủ tại Đài Loan.
+- [Ngành bán dẫn thể](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA, gia công TSMC đến bối cảnh dài hạn chiến trường vật liệu và đóng gói.
+- [Computex](/vi/technology/computex) — Tại sao Taipei Computer Show (Computex) trong kỷ nguyên AI trở thành nơi thánh địa cung cấp phần cứng toàn cầu.
+- [Điện lực và bán dẫn thể Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Hóa đơn điện lực, áp lực điện xanh và an ninh năng lượng phía sau chuỗi cung ứng AI.
+- [Nước dùng cho bán dẫn thể và nguồn nước Đài Loan](/vi/technology/semiconductor-water-use-and-taiwan-water-resources) — Nhà máy tấm wafer như thế nào nối với hồ chứa, hạn hán, nước tái chế và quản trị địa phương.
+- [Chuỗi cung ứng AI thiết lập nhà máy ở hải ngoại](/vi/technology/ai-supply-chain-overseas-manufacturing) — Từ TSMC, Foxconn, Wistron đến Delta, chuỗi cung ứng Đài Loan như thế nào được thế giới mời đi ra ngoài.
 
 ## Nguồn hình ảnh
 

@@ -18,12 +18,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：遠東集團.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:46dc7b83f705c2e60c040005d9e96f6a5dbd1bd36f1363f791ba4743af07cad8'
-sourceBodyHash: 'sha256:4a2a1cbfe9926956831c1da0225ff01bf8ab515852e52901f3f2b269df7560ec'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Trụ sở chính của Tập đoàn Đông Viễn'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d6da6fce353b5bfa'
+sourceBodyHash: 'sha256:4d55bf95947dc191'
+translatedAt: '2026-11-18T19:40:14.569219+00:00'
 ---
 
 Tháng 11 năm 2021, một tin tức rung chuyển giới kinh doanh Đài Loan truyền đi: Tập đoàn Đông Viễn bị chính phủ Trung Quốc phạt 474 triệu nhân dân tệ (khoảng 206 tỷ đồng Đài Loan), lý do là "vi phạm pháp luật về bảo vệ môi trường, sử dụng đất đai, sức khoẻ nghề nghiệp của công nhân". Nhưng tất cả mọi người đều hiểu, đây không phải là một vấn đề pháp luật đơn thuần.
