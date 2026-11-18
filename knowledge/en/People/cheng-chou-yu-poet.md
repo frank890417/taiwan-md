@@ -2,9 +2,7 @@
 title: 'Cheng Chou-yu: The Wanderer Who Wrote “Error” and Finally Registered His Household in Kinmen'
 description: 'In 1955, the 22-year-old Cheng Chou-yu wrote in On Dreamland, “My clattering horse’s hooves are a beautiful error,” and Taiwanese readers read it as a love poem for seventy years. In his later years, however, he clarified that it was an antiwar poem, depicting the scene of his mother in China’s interior during the War of Resistance, waiting in vain for his father to come home. In 2005, after retiring from Yale, he returned to Taiwan and moved his household registration into that of Cheng clan relatives in Kinmen County. At 4:44 a.m. on June 13, 2025, he died in the United States of heart failure at the age of 91.'
 date: 2026-05-24
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文學與詩人'
 tags:
   [
     'Literature',
@@ -16,23 +14,28 @@ tags:
     'Yale',
     'Ji Xian',
   ]
+subcategory: '文學與詩人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-24
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-05/taiwan-poets-2-postwar-modernism.md'
+image: '/article-images/people/zheng-chouyu-portrait-2017.webp'
+imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
 sporeLinks:
   - id: 86
     platform: 'threads'
     date: '2026-05-24'
     url: 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭愁予.md'
-sourceCommitSha: 'cce7f252'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:05733d2c54bfc625'
 sourceBodyHash: 'sha256:77382e9a08c09f18'
-translatedAt: '2026-06-16T17:03:25Z'
-image: '/article-images/people/zheng-chouyu-portrait-2017.webp'
-imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
+translatedAt: '2026-11-18T15:28:41.577795+00:00'
 ---
 
 # Cheng Chou-yu: The Wanderer Who Wrote “Error” and Finally Registered His Household in Kinmen
