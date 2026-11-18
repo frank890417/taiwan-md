@@ -2,9 +2,7 @@
 title: 'शिओ बि-खिम'
 description: 'जापान में जन्म, ताइनान प्राथमिक विद्यालय, न्यू जर्सी में पली-बढ़ी, ओबेरलिन से स्नातक "योद्धा बिल्ली", कैसे बनी ताइवान के इतिहास में सबसे सफल अमेरिका प्रतिनिधि, फिर उपराष्ट्रपति बनीं?'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治人物'
 tags:
   [
     'राजनेता',
@@ -15,16 +13,20 @@ tags:
     'हुआलिएन',
     'योद्धा बिल्ली',
   ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-07-25T10:53:23+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:18:29.170442+00:00'
 ---
 
 # शिओ बि-खिम

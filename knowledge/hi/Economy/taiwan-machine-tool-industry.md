@@ -2,28 +2,32 @@
 title: 'ताइवान मशीन टूल उद्योग'
 description: 'दादू शान गोल्डन वैली से TMTS 2026 तक, ताइवान मशीन टूल उद्योग का लचीलापन, पतन, पुनर्जन्म, और 2024 में वैश्विक स्तर पर 5वें से 7वें स्थान पर गिरने की संरचनात्मक चिंता।'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '傳統產業'
 tags:
-  - 'मशीन टूल'
-  - 'सटीक मशीनरी'
-  - 'दादू शान'
-  - 'ताइचुंग'
-  - 'विनिर्माण'
-  - 'TMTS'
-  - 'उद्योग समूह'
-  - '2026'
+  [
+    'मशीन टूल',
+    'सटीक मशीनरी',
+    'दादू शान',
+    'ताइचुंग',
+    'विनिर्माण',
+    'TMTS',
+    'उद्योग समूह',
+    '2026',
+  ]
+subcategory: '傳統產業'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-07-25T12:45:43+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T10:01:38.561570+00:00'
 ---
 
 # ताइवान मशीन टूल उद्योग

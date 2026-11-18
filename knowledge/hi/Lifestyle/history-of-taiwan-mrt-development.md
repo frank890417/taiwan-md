@@ -23,11 +23,13 @@ featured: true
 lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '6fed62193'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:fa054e970fa0164b'
 sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-10-08T04:17:07+08:00'
+translatedAt: '2026-11-18T09:59:40.539141+00:00'
 ---
 
 # ताइवान मेट्रो विकास का इतिहास: खून और पैसे से लिखी गई एक शहरी विकास गाथा
