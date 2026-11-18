@@ -25,15 +25,21 @@ imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
 sporeLinks:
-  [
-    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
-    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
-  ]
+  - id: 84
+    platform: 'threads'
+    date: '2026-05-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'
+  - id: 85
+    platform: 'x'
+    date: '2026-05-23'
+    url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d4818d717761979b'
 sourceBodyHash: 'sha256:45ca26bedda5e227'
-translatedAt: '2026-09-17T14:03:28.663130+00:00'
+translatedAt: '2026-11-18T10:13:40.800303+00:00'
 ---
 
 ![2024년 11월 20일 뉴욕 미국 내셔널 북 어워드 시상식에서 양솽쯔가 어두운색 외투를 입고 트로피 옆에 차분한 표정으로 서 있다](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
