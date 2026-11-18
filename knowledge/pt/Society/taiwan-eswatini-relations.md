@@ -38,11 +38,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'da67ec6fe'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c62b916ed21bb09b'
 sourceBodyHash: 'sha256:f87da2052ad611fa'
-translatedAt: '2026-10-03T16:54:45.944713+00:00'
+translatedAt: '2026-11-18T11:35:06.764384+00:00'
 ---
 
 > **30 segundos de visão geral:** Eswatini (Eswatini, renomeado de "Suazilândia" em 2018) é a única nação amiga da República da China (Taiwan) na África, com relações diplomáticas estabelecidas em setembro de 1968, completando 58 anos em 2026[^1]。 O rei Mswati III nasceu em abril de 1968, cinco meses antes da independência do país e do estabelecimento das relações com Taiwan, sua vida praticamente coincidindo com a história das relações entre os dois países, tendo visitado Taiwan mais de 17 vezes até 2024[^1]。 Após o rompimento com o Burkina Faso em maio de 2018, Eswatini tornou-se a única nação amiga da República da China (Taiwan) na África[^12]。 Em 2 de maio de 2026, Lai Ching-te visitou Eswatini, com a viagem originalmente programada para 22 de abril, mas adiada após a Seicheles, Maurício e Madagascar, sob pressão da China, cancelarem inesperadamente as autorizações aéreas, Mswati então enviou um Airbus A340 da frota nacional para buscar o vice-primeiro-ministro Thulisile Dladla em Taipé e trazê-lo até lá, com Lai chegando a Mbabane diretamente de Taipé no dia 2 de maio[^3]。 Em 1º de maio do mesmo ano, a China concedeu a 53 países africanos isenção de 98% de tarifas alfandegárias, excluindo especificamente Eswatini[^4]。 O destino crítico dessa relação diplomática depende de quem suceder Mswati e convencer uma geração com 56% de desemprego juvenil a continuar considerando Taiwan um amigo (uma questão mais complexa do que "quanto a China está disposta a pagar").

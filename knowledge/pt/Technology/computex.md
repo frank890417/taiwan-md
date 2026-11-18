@@ -43,11 +43,13 @@ sporeLinks:
     date: '2026-06-01'
     url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 relatedDiary: ['2026-06-01-130850-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:dd896b223778a319'
 sourceBodyHash: 'sha256:1cfc73d3ec3aabb4'
-translatedAt: '2026-10-10T04:09:44.513807+00:00'
+translatedAt: '2026-11-18T12:24:34.978485+00:00'
 ---
 
 # COMPUTEX: das três grandes feiras internacionais de computadores, duas fecharam — a que restou cresce em Taipé

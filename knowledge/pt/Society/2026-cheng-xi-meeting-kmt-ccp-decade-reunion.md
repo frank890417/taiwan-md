@@ -21,14 +21,17 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
-  [
-    "{'id': 21, 'platform': 'threads', 'date': '2026-04-11', 'url': 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'}",
-  ]
+  - id: 21
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-translatedAt: '2026-07-26T23:43:20+08:00'
+translatedAt: '2026-11-18T12:06:15.522608+00:00'
 ---
 
 # 2026 Zheng-Xi Meeting: Os Dez Minutos da Primeira Reunião entre Líderes do KMT e do CCP em uma Década

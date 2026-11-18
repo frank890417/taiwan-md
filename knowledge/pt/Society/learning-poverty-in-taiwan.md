@@ -23,11 +23,13 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/學習貧窮.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:849f86ce2f7e41c5'
 sourceBodyHash: 'sha256:605da09515483b90'
-translatedAt: '2026-09-20T00:52:44+08:00'
+translatedAt: '2026-11-18T11:56:29.449555+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2019, o Banco Mundial e a UNESCO lançaram conjuntamente o novo termo "Learning Poverty" (Pobreza de Aprendizagem)[^1]. A definição é: uma criança de 10 anos incapaz de ler e compreender um texto simples adequado à sua idade[^1]. Em 2019, a taxa global de pobreza de aprendizagem em países de baixa e média-baixa renda era de **53%**; após a pandemia, em 2022, subiu para cerca de **70%**; a atualização de fevereiro de 2023 do Banco Mundial indica que, mesmo mantendo a velocidade atual de melhoria, em 2030 a taxa cairá apenas para **43%**[^2][^3]. Taiwan não possui estatísticas oficiais de pobreza de aprendizagem, mas o PISA 2022 deu uma resposta ambígua de duas faces[^4]: **alunos de Taiwan ficaram em 3º lugar global em matemática, 5º em leitura, 4º em ciências**, **a nota de matemática dos 20% mais desfavorecidos (471 pontos) já alcançou a média da OCDE (472 pontos)**, sendo o sistema educativo classificado pela OCDE como "dotado de resiliência"[^5]. Mas o mesmo relatório mostra que **alunos de áreas metropolitanas têm média de 571 pontos em matemática, contra 517 nas áreas rurais, uma diferença de 54 pontos** (equivalente a cerca de um ano e meio a dois anos de progresso de aprendizagem)[^6]. A pesquisa da Fundação Boyo em 108 (2019) com 13 escolas secundárias rurais mostrou que **em 6 escolas 70% dos alunos tiraram C em inglês, e em 5 escolas 70% tiraram C em matemática**[^7]. A observação de longo prazo do PISA 2018: a diferença no desempenho de leitura entre os 10% melhores e os 10% piores alunos de Taiwan é de cerca de **6 anos de aprendizagem**[^8]. A versão taiwanesa da pobreza de aprendizagem não está nas médias urbanas, está nos boletins do exame das áreas rurais, e ainda não foi formalmente medida.

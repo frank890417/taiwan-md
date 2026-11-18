@@ -2,28 +2,32 @@
 title: 'Indústria de Ferramentas de Máquina de Taiwan'
 description: 'Do Vale Dourado de Datushan ao TMTS 2026, a resiliência, o colapso, o renascimento da indústria de ferramentas de máquina de Taiwan e a ansiedade estrutural de por que 2024 caiu do 5º para o 7º lugar global.'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '傳統產業'
 tags:
-  - 'ferramentas de máquina'
-  - 'máquinas de precisão'
-  - 'Datushan'
-  - 'Taichung'
-  - 'indústria manufatureira'
-  - 'TMTS'
-  - 'aglomerado industrial'
-  - '2026'
+  [
+    'ferramentas de máquina',
+    'máquinas de precisão',
+    'Datushan',
+    'Taichung',
+    'indústria manufatureira',
+    'TMTS',
+    'aglomerado industrial',
+    '2026',
+  ]
+subcategory: '傳統產業'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-07-25T12:45:42+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T12:23:53.078286+00:00'
 ---
 
 # Indústria de Ferramentas de Máquina de Taiwan

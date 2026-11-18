@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T14:03:08.752402+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-18T11:40:07.246517+00:00'
 ---
 
 > **Visão geral em 30 segundos**: Durante 42 anos de pós-guerra (1945-1987), o meio literário de Taiwan viveu sob condições de "não se poder dizer": não se podia dizer em japonês, não se podia dizer 228, não se podia dizer que Taiwan era algo fora da China, não se podia dizer nativista. Mas cada geração de escritores usou diferentes contornos para aprender "como dizer". Yeh Shih-tao, da folha em branco de 1945 até ao _Esboço da História da Literatura de Taiwan_ de 232 páginas em 1987, passou por afasia, três anos de prisão, silêncio de mais de dez anos, o ensaio de 1965 "A literatura nativista de Taiwan", a frase de 1985 "Sem terra, como haver literatura?". Pai Hsien-yung lia Kafka num abrigo antiaéreo. Wang Wen-hsing gastou sete anos a escrever _Transformação Familiar_, que foi vilipendiado. Lin Hai-yin demitiu-se de editora-chefe adjunta por causa de um poema. Yu Kwang-chung gritou "o lobo vem aí" para atacar a literatura nativista. Li Ang, em 1983, fez Lin Shih empunhar a faca de matar porcos e retalhar o marido. O que esses 42 anos deixaram foi todo um sistema linguístico de contorno.
@@ -102,29 +104,31 @@ O próprio Yeh Shih-tao foi preso pelo Bureau de Segurança a 20 de setembro de 
 
 Em novembro de 1965, publicou "A literatura nativista de Taiwan" no número 97 da _Wenxing_. Foi a primeira vez, desde a folha em branco, que sistematizou a categoria "literatura de Taiwan". Na altura, este termo ainda não podia ser dito em público[^23].
 
-## O lobo vem aí naquele suplemento
+## O suplemento literário "O Lobo Vem Aí"
 
-Em abril de 1977, a _Revista Cacto_ número 2 lançou o dossier "Nativismo e Realidade", editado por Wang Chen-ho, publicando "É literatura 'realista', não 'nativista'" de Wang To, e textos de Yin Cheng-hsiung e Chu Hsi-ning[^24]. Wang To considerava o florescimento da literatura nativista um fenómeno auspicioso, sugerindo rebatizá-la "literatura realista"; Yin Cheng-hsiung criticava o risco de a literatura nativista "se tornar instrumento de expressão de ódio e aversão"; Chu Hsi-ning criticava o nativismo por cair em localismo, considerando a ênfase excessiva na consciência de Taiwan como "suspeita de separatismo".
+Em abril de 1977, o número 2 da revista _Cactus_ lançou uma edição especial intitulada "Nativismo e Realidade", editada por Wang Chien-chuang, que publicou artigos de Wang To — 〈É literatura de "realismo", não "literatura nativista"〉 —, Yin Cheng-hsiung e Chu Hsi-ning[^24]. Wang To defendia que o florescimento da literatura nativista era um fenómeno positivo, mas sugeria que passasse a ser chamada de "literatura de realismo"; Yin Cheng-hsiung criticava a literatura nativista por ter "o risco de se tornar uma ferramenta para expressar ideologias de ódio e desprezo"; já Chu Hsi-ning criticava o nativismo por cair no regionalismo, afirmando que a ênfase excessiva na consciência de Taiwan trazia um "suspeito de separatismo".
 
-O cheiro a pólvora da polémica começou a acumular-se aqui.
+A tensão do debate começou a acumular-se a partir daqui.
 
-Em junho, Chen Ying-chen, sob pseudónimo "Hsu Nan-tsun", publicou no segundo número de _Taiwan Wenyi_ "Os pontos cegos da 'literatura nativista'", criticando a "consciência de Taiwan" e a "posição de Taiwan" de Yeh Shih-tao como "ambíguas e indecifráveis". Em julho, Chen publicou no número 5 da _Revista Cacto_ "A literatura vem da sociedade e reflecte a sociedade"[^25].
+Em junho, Chen Ying-chen, sob o pseudónimo "Hsu Nan-tsun", publicou no número 2 da _Taiwan Literature_ o artigo 〈O ponto cego da "literatura nativista"〉, criticando a "consciência de Taiwan" e a "postura de Taiwan" de Yeh Shih-tao como sendo "ambíguas e difíceis de interpretar". Em julho, Chen Ying-chen publicou novamente na 5.ª edição da _Cactus_ o artigo 〈A literatura provém da sociedade e reflete a sociedade〉[^25].
 
-A 20 de agosto de 1977, Yu Kwang-chung publicou no suplemento do _United Daily News_ (página 12) "O lobo vem aí", acusando a literatura nativista de ser "'literatura operário-camponesa-soldado', Taiwan já tem quem a defenda publicamente", citando o discurso de Mao Zedong no Fórum de Yan'an sobre Literatura e Arte[^26]. A frase que depois mais seria citada: "Não ver o lobo e gritar 'o lobo vem aí' é auto-perturbação; ver o lobo e não gritar 'o lobo vem aí' é covardia"[^26].
+Em 20 de agosto de 1977, Yu Kwang-chung publicou no suplemento literário do _United Daily News_ (página 12) o artigo 〈O lobo vem aí〉, acusando a literatura nativista de ser a "‘arte dos operários, camponeses e soldados’ que já有人 em Taiwan está a promover abertamente", citando o discurso de Mao Tse-tung no Simpósio de Arte e Literatura de Yan'an[^26]. A frase desse texto que mais tarde se tornou a mais citada foi: "Não ver o lobo e gritar 'o lobo vem aí' é procurar problemas para si mesmo; ver o lobo e não gritar 'o lobo vem aí' é covardia"[^26].
 
-"Literatura operário-camponesa-soldado" em 1977 era um rótulo que podia mandar alguém para a prisão.
+Em Taiwan, em 1977, o rótulo de "arte dos operários, camponeses e soldados" era uma acusação que podia levar alguém para a prisão.
 
-A 29 de agosto, realizou-se a "Segunda Conferência Literária e Artística Nacional" do Kuomintang, com Yu Kwang-chung na presidência. Wang Chen-ho recordou depois que o oficial da Direção-Geral de Segurança responsável pela cultura disse na reunião: "Quanto aos que não ouvem os conselhos do governo, o governo não deixa de agir, apenas ainda não chegou a hora"[^27].
+A 29 de agosto, realizou-se a "Segunda Conferência Nacional de Arte" do Kuomintang, com Yu Kwang-chung na presidência. Wang Chien-chuang recordou mais tarde que um oficial do Comando de Segurança, responsável pela cultura, disse durante a reunião: "Para aqueles que não ouvem os conselhos do governo, o governo não deixará de agir; apenas ainda não é o momento certo"[^27].
 
-A polémica podia escalar para prisões.
+O debate estava prestes a escalar para prisões em massa.
 
-A 19 de novembro, eclodiu o Incidente de Chungli: Hsu Hsin-liang, candidato a magistrado de Taoyuan, foi acusado de fraude eleitoral, a multidão invadiu e incendiou a esquadra de Chungli, ponto de viragem da história do movimento _tangwai_. A atenção do governo foi desviada[^28].
+A 19 de novembro, eclodiu o Incidente de Chungli: houve suspeitas de fraude eleitoral na candidatura de Hsu Hsin-liang a magistrado do condado de Taoyuan, levando cidadãos a invadir a esquadra de Chungli e a atear fogo, marcando um ponto de viragem na história do movimento _Tangwai_. A atenção do governo foi desviada[^28].
 
-A 18 de janeiro de 1978, Wang Sheng, chefe do Departamento Geral de Guerra Política do Ministério da Defesa, apelou ao "nativismo unido" no encerramento da Conferência Literária e Artística do 67.º Ano do Exército Nacional, pondo fim à polémica[^29]. Chen Fang-ming contabilizou depois no _Compêndio da Discussão sobre Literatura Nativista_: 60% a favor, 30% contra, 10% neutros[^30].
+Em 18 de janeiro de 1978, Wang Sheng, diretor do Departamento de Guerra Psicológica do Ministério da Defesa Nacional, apelou à "unidade nativista" no encerramento da Conferência de Arte das Forças Armadas de 1978, encerrando o debate[^29]. Chen Fang-ming estatisticou mais tarde, na obra _Coleção de Discussões sobre a Literatura Nativista_: 60% apoiavam a literatura nativista, 30% opunham-se e 10% eram neutros[^30].
 
-Empate na polémica, mas a literatura nativista ganhou leitores. _O Grande Brinquedo do Filho_ de Huang Chun-ming (escrito em 1968, primeira edição em volume pela Cactus Press em 1969), _Um Carro de Boi como Dote_ de Wang Chen-ho (publicado em 1967 na _Quarterly Literary Journal_, misturando taiwanês e mandarim) já tinham levado a pequena cidade de Lanyang e o mercado de Hualien para a literatura[^31]. Após a polémica, a legitimidade do nativismo consolidou-se. Mas o custo estava mais fundo: cada escritor percebeu melhor como escrever sem parecer "operário-camponês-soldado", ou seja, como se autocensurar melhor.
+O debate terminou num empate técnico, mas a literatura nativista ganhou o público. Obras como 〈O Grande Brinquedo do Filho〉 de Huang Chun-ming (escrito em 1968, primeira edição em livro pela editora Cactus em 1969) e 〈Um carro de bois de dote〉 de Wang Chen-ho (publicado em 1967 na _Literary Quarterly_, misturando taiwanês e mandarim) já tinham integrado as pequenas cidades de Lanyang e os mercados de Hualien na literatura[^31]. Após o debate, a legitimidade do movimento nativista estava estabelecida. No entanto, o custo deste embate foi mais profundo: cada escritor aprendeu a escrever de forma a não parecer demasiado "operário, camponês ou soldado", ou seja, aprenderam a praticar a autocensura.
 
-A frase que Wang Chen-ho testemunhou — "o governo não deixa de agir, apenas ainda não chegou a hora" — é o ruído de fundo que todos os escritores desses 42 anos ouviram.
+A frase que Wang Chien-chuang testemunhou — "o governo não deixará de agir; apenas ainda não é o momento certo" — foi o ruído de fundo que todos os escritores ouviram ao longo destes 42 anos.
+
+Para uma cronologia detalhada e as posições de cada parte sobre todo o [debate da literatura nativista](/pt/history/nativist-literature-debate/), consulte o artigo especial dedicado ao tema.
 
 ## A faca de matar porcos de Lin Shih em Lucheng
 
