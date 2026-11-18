@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T13:32:04.898935+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-18T19:59:36.070064+00:00'
 ---
 
 > **Resumo em 30 segundos:** No fechamento de 19 de maio de 2026, a TSMC valia 57,18 trilhões de NTD, uma única empresa respondendo por 31,51% do índice ponderado de Taiwan, cerca de 40% do valor de mercado total da bolsa e 71% da fundição global de wafers. Atrás dela, 49 posições são divididas entre 12 holdings financeiras, 11 de semicondutores, 6 de manufatura eletrônica por contrato e 5 veteranos da indústria tradicional. O tripé "eletro-financo-tradicional" na verdade se apoia em uma perna só da eletrônica; a onda de IA a partir de 2024 puxou Quanta, Wistron, Wiwynn e Hon Hai Precision do pelotão intermediário para o topo, empilhando ainda mais a concentração. Ler a lista das 50 maiores equivale a ler um diagrama da anatomia econômica de Taiwan: onde está a coluna, onde está o ponto único de falha, onde estão as vísceras escondidas fora da tabela.
@@ -147,28 +149,29 @@ A China Steel, em Siaogang, Kaohsiung, também sustenta uma conta pesada. Dados 
 > **📝 Nota do Curador**
 > O outro lado das 50 maiores são 50 livros de custos externos. O que entra no cálculo do PIB é o valor da produção das fábricas; o que fica de fora são os gastos médicos das famílias ao redor, a carga de cuidados de longa duração para os residentes de Yunlin e os custos de mudança dos moradores de Qianzhen, em Kaohsiung. Na economia, isso se chama "internalização de externalidades": quando a sociedade força as empresas a assumirem os custos que antes eram despejados para fora, esse é o verdadeiro significado do ESG. Entre as 50 maiores de Taiwan, os setores de semicondutores e de holdings financeiras geralmente lideram nas pontuações de ESG; já as indústrias tradicionais e petroquímicas são os alvos de escrutínio. Essa reordenação de notas mudará o ranking nos próximos dez anos de forma mais profunda do que qualquer relatório trimestral de resultados.
 
-## Ningxia e Kaixuan 3
+## O Mercado Noturno de Ningxia e a Rua Kaixuan 3rd
 
-Ligando o começo ao fim, dois extremos no mesmo sistema de coordenadas.
+Se você conectar o início ao fim, verá dois extremos dentro do mesmo sistema de coordenadas.
 
-Na noite de Ningxia, cinco das pessoas mais importantes dos semicondutores bebendo cerveja em cadeiras de plástico; no dia seguinte, as ações de três de suas empresas ganhavam centenas de bilhões da noite para o dia. Na noite de Kaixuan 3, 32 moradores de Qianzhen foram arremessados de casa para o céu; o processo levou oito anos para julgar, ninguém consegue devolver as vidas.
+Naquela noite no mercado noturno de Ningxia, cinco das pessoas mais importantes do setor de semicondutores bebiam cerveja em mesas e cadeiras de plástico; no dia seguinte, o valor de mercado de três de suas empresas aumentou centenas de bilhões da noite para o dia. Naquela noite na Rua Kaixuan 3rd, 32 residentes de Qianzhen foram lançados ao céu por uma explosão em suas próprias casas; o caso foi julgado por oito anos até a sentença final, mas ninguém pode trazer as vidas de volta.
 
-Entre as duas cenas, toda a amplitude desta tabela das 50.
+Entre essas duas imagens reside toda a amplitude desta lista das 50 maiores empresas.
 
-A montanha sagrada no topo sustenta a indústria inteira e o país inteiro; aos pés da montanha estão o PM2.5 de Mailiao, o cheiro de propileno de Qianzhen, a fábrica da Wei Chuan e o showroom da Hotai que não entraram na lista. As 50 empresas somadas são a coluna vertebral de Taiwan; uma empresa é a vértebra lombar mais grossa dentro da coluna; mas fora da coluna existem músculos, nervos e pele que o PIB não alcança.
+A "Montanha Sagrada da Proteção Nacional" [TSMC] está no topo, sustentando toda a indústria e todo o país; aos pés dessa montanha estão o PM2.5 de Mailiao, o cheiro de propileno em Qianzhen, e a influência das fábricas da I-Mei e dos showrooms da Hotai que não constam neste ranking. As 50 empresas juntas formam a espinha dorsal de Taiwan; cada empresa é uma vértebra — a mais grossa delas —, mas além da espinha dorsal existem os músculos, nervos e a pele que o PIB não consegue capturar.
 
-Ao terminar esta lista, o leitor não deve levar "quem ficou em que lugar, quanto vale cada um". Deve levar um diagrama anatômico: onde está a coluna, onde está o ponto único de falha, onde estão os custos externalizados, onde estão as vísceras escondidas fora da tabela. Na próxima vez que a onda de IA lavar as cartas de novo, na próxima vez que a geopolítica EUA-China virar a mesa de novo, na próxima vez que alguma empresa desafiar a posição da TSMC em algum nó de processo — esse diagrama será redesenhado. Os nomes nos 50 assentos vão mudar, vão diminuir, vão aumentar; mas a tabela sempre registrará uma coisa: quais empresas decidiram como esta geração de taiwaneses come, trabalha, e teme o amanhã.
+Ao terminar de ler esta lista, o leitor não deve levar consigo apenas "quem está em qual posição" ou "quanto vale cada uma". Deve levar um diagrama da estrutura corporal: onde está a coluna vertebral, onde estão os pontos únicos de falha, onde estão os custos externos e onde estão os órgãos escondidos fora desta tabela. Quando a próxima onda de IA varrer o mercado novamente, quando a geopolítica entre os EUA e a China virar mais uma vez, ou quando alguma empresa desafiar a posição da TSMC em algum processo específico, este diagrama estrutural será redesenhado. Os nomes nessas 50 posições mudarão, diminuirão ou aumentarão, mas esta lista estará sempre registrando uma única coisa: quais empresas decidem como esta geração de taiwaneses come, trabalha e se preocupa com o amanhã.
 
-> **✦** "Os semicondutores puseram Taiwan no centro do mundo. Mas o que as 50 maiores não escrevem são as vísceras e a pele desta ilha; elas também são Taiwan, só que o PIB não enxerga."
+> **✦** "Os semicondutores colocaram Taiwan no centro do mundo. Mas o que não está escrito nesta lista das 50 maiores são os órgãos e a pele desta ilha; eles também fazem parte de Taiwan, apenas o PIB não consegue vê-los."
 
-**Leitura complementar**:
+**Leituras complementares**:
 
-- [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — 1º das 50 maiores, a única empresa com 31,51% do índice ponderado
-- [PMEs e campeões invisíveis de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions) — Wei Chuan, Hotai e além, a estrutura econômica invisível dos outros 30%
-- [Indústria de semicondutores de Taiwan](/pt/technology/taiwan-semiconductor-industry) — Do ITRI aos 2 nm, a fonte dos 11 assentos de semicondutores nas 50 maiores
-- [Bolsa e mercado de capitais de Taiwan](/pt/economy/taiwan-stock-market) — Índice ponderado, ranking de valor de mercado, estrutura dos investidores institucionais
-- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — _silicon shield_ e a conexão geopolítica das 50 maiores
-- [Parques científicos de Taiwan](/pt/technology/science-park-development) — Base de produção dos 11 assentos de semicondutores, versão espacial da concentração de valor dos três parques
+- [Especial sobre as Indústrias de Taiwan](/industry/) — Usando estatísticas oficiais para desenhar a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por condado/cidade, o top 10 de valor de mercado histórico e as perspectivas de seis debates públicos.
+- [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — A número 1 da lista das 50, uma única empresa que representa 31,51% do índice ponderado.
+- [Pequenas e Médias Empresas e Campeões Invisíveis de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions) — Além de I-Mei e Hotai, os 30% invisíveis da estrutura econômica.
+- [Indústria de Semicondutores de Taiwan](/pt/technology/taiwan-semiconductor-industry) — Do ITRI aos 2 nanômetros, a origem das 11 vagas de semicondutores entre as 50 maiores.
+- [Mercado de Ações e Mercado de Capitais de Taiwan](/pt/economy/taiwan-stock-market) — Índice ponderado, ranking de valor de mercado e a estrutura dos investidores institucionais.
+- [Defesa e Modernização Militar de Taiwan](/pt/society/taiwan-defense-modernization) — O "escudo de silício" e sua interconexão geopolítica com as 50 maiores empresas.
+- [Parques Científicos de Taiwan](/pt/technology/science-park-development) — A base de produção para as vagas de semicondutores das 50 maiores, uma versão espacial da concentração do valor de produção nos três parques.
 
 ## Créditos das imagens
 

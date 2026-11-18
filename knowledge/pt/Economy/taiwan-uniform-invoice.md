@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '砍掉華視開獎特別節目的人名與精確日期（安鵬／連漪／1973 開播），因為唯一來源是無引註維基、兩份官方一手史料反證沉默，只保留「集體記憶 vs 官方沉默」的落差本身；砍掉宣傳歌旋律取自迪士尼《小小世界》的說法（該曲 1962 年才存在、與 1951 年時序矛盾），只用可驗證的歌詞；砍掉「2029 年全面取消免用發票」（已被事實查核判為誇大）、「新加坡香港也有消費稅抽獎」（前提錯誤，香港根本沒消費稅）、感熱紙化學細節、任顯群學經歷（會稀釋第三段核心張力）、委辦費爭議的政黨攻防細節（只留「法定該給的錢每年可能被裁量刪減」）；Step 2.5-R 結構主編審回後再砍掉寫手自行加入的 2026 詐騙簡訊冒名案例（原第五段末段、原註 25）——藍圖 v2 明訂該段只承載集點樹演算法爭議＋創世弊案兩則材料（委辦費已於同一輪審稿移出），這則材料未經投影審查即由寫手加入，重新湊成三則陰影材料扎堆核心轉折段，正是 v2 才修掉的 SSODT 疊加風險；且案件本質是外部歹徒冒名詐騙，與該段「官方公平性」命題的貼合度也弱於前兩則，故整段連同該註一併移除，收尾「我相信」句式相應由三分句收回兩分句。'
   where_it_hedges: '任顯群出獄寫「1958 年 1 月保釋」（官方檔案），不寫維基自承缺來源的「1959 年張群求情」；入獄真因改寫三種流傳說法（蔣經國心結／派系鬥爭／救國團經費，見想想論壇）並列，不押單一敘事；檢舉成功率兩版並陳（自媒體轉述台北市不到一成 vs TVBS 全類型約兩成）；千萬富翁用最新的 957 位不用過時的 870；Joana Naritomi 只寫「同一類行為經濟學機制」不暗示她研究了台灣；防偽暗記寫「透過媒體證實」不寫官網證實；集點樹調查分行政（「尚符合本活動抽獎條件」）與司法（媒體簡化「查無不法」，中央社正文原文是「尚無涉及不法情事」）兩階段用語；國際比較不寫「世界第一」只寫查證範圍內最早；1950 年頒布兩辦法的具體日期只寫「年底」不主張「12 月 12 日」（查無一手支撐）；坦尚尼亞案例改引 CMI 田野研究（原引註誤植成一份無關的大學生實驗室研究）；千萬得主案例只保留可查證的「花 2 元中千萬」，砍掉查無實據的「正本遺失」個案。Stage 2.5 source-fidelity 由主 session 親自 live-fetch 6 條高風險 footnote + 獨立 fact-check agent 查核其餘 19 條，共修正 7 處來源問題（1 處嚴重引註誤植、1 處虛構個案、2 處引註掛錯集數/年份範圍、2 處引語誤植出處、1 處未驗證日期）。Stage 3.6.1 五路 adversarial verifier 逐原子重驗全文，另修正約 20 處：**最嚴重一處**是把陳國樑 2025-01 對財政部的批評誤植為「法律明明白紙黑字寫『應』訂定給獎辦法」——三方交叉查證（現行法條、Wayback Machine 舊版法條、他本人原文）確認他批評當時法條寫的是「得」非「應」，「應」是他發文三個月後（2025-05）才修法出現的字，他實際論證依據是政府自己的預算分類文件；其餘修正含 2 處虛構精確數字（「303 張已屆期充公」查無來源、創世捐贈「1.14 億張」原文僅為「1 億 1 千多萬張」的模糊值）、1 處虛構場景細節（任顯群「聽任方旭談過往事」）、1 處遺漏來源實際敘事主線（入獄真因想想論壇原文以顧正秋三角戀為主、非與其餘兩說並列互斥）、2 處國際比較與來源脫節（喬治亞「成效不彰」是官方說法、ISET 智庫自己的分析認為真因是預算不足；韓國廢止後留下的是檢舉獎金非報稅扣抵）、1 處圖表量錯尺（坦尚尼亞僅一次三個月區域試點、無法支撐與韓國喬治亞同軸比較的「4 年」數字，已移出 tw-bars 圖表）、2 處具體事實缺引註（九萬多人參加集點樹活動＋iPhone/iPad 品項、宣傳歌歌詞）、1 處時序壓縮（創世弊案 2020 年即被國稅局發現異常、2025 年才是案件曝光年）、其餘為日期精確度（稅捐稽徵法修正日期、愛國獎券 37 年起訖日）與過度精確措辭（「整整一年」）修正。'
 relatedDiary: ['2026-07-18-105326-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/發票.md'
-sourceCommitSha: 'e80217d19'
-sourceContentHash: 'sha256:ac044c6ba9c6ce5c'
-sourceBodyHash: 'sha256:54db8d12b45ad9b3'
-translatedAt: '2026-09-20T07:11:25.604832+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:3dd86d4390d8efbd'
+sourceBodyHash: 'sha256:971a1a8aa9b5930a'
+translatedAt: '2026-11-18T19:22:00.001502+00:00'
 ---
 
 # Fatura: aquele papel de 1951 que transformou toda a população em fiscais tributários
@@ -155,35 +157,36 @@ _Tutorial oficial do APP de resgate da Diretoria de Tributação. Quando a fatur
 
 Juntando tudo, aparece uma coisa que não acontecia há setenta e cinco anos. O sistema rodou todo esse tempo graças a um acordo não dito: eu acredito que essa sequência de números sai aleatória, eu acredito que a fatura que jogo na caixa será tratada honestamente. Mas quando "quem ganha" vira um código que pode ser pesado, quando "bondade" também precisa de mecanismo antifraude para valer, esse sistema que viveu 75 anos no "eu acredito" é cobrado pela primeira vez a responder concretamente: por que, ainda, você me faz confiar?
 
-## Taiwan transformou esse design na corrida mais longa do mundo
+## Taiwan transformou este design na maratona mais longa do mundo
 
-Durar até ser merecedor desse tipo de pergunta é, por si só, preciso durar muito tempo. Taiwan não é o único lugar a ter pensado nessa jogada, mas, conforme os registros verificam, ainda não vimos um segundo caso que tenha mantido a mecanização por mais de sete décadas. A economista comportamental Joana Naritomi estudou um mecanismo estruturalmente semelhante em São Paulo, no Brasil, e descobriu que as vendas declaradas pelos comerciantes aumentaram pelo menos 21% em quatro anos: transformar o consumidor em um fiscal tributário realmente funciona[^20]. Mas “funcionar” e “sobreviver” são coisas distintas.
+Para chegar ao ponto de ser questionado dessa forma, é preciso, antes de tudo, ter resistido por tempo suficiente. Taiwan não é o único lugar que teve essa ideia, mas, em tudo o que foi verificado, ainda não se viu um segundo caso que a tenha mantido como parte do cotidiano por mais de setenta anos. A economista comportamental Joana Naritomi estudou um mecanismo de estrutura semelhante em São Paulo, no Brasil, e descobriu que o faturamento declarado pelas empresas aumentou pelo menos 21% em quatro anos: transformar os consumidores em supervisores fiscais é, de fato, eficaz[^20]. No entanto, ser "eficaz" e "duradouro" são coisas diferentes.
 
-Geórgia, em 2012, trouxe uma ideia semelhante para casa; o anúncio oficial do encerramento cita como motivo “eficácia duvidosa”, embora o próprio think tank que propôs o estudo já admitisse que essa frase nunca havia sido comprovada publicamente — a causa real parece ser dinheiro: o volume diário de declarações elegíveis caiu de mais de dois milhões no auge para apenas trezentos mil antes do fechamento; o novo goversto não investiu orçamento suficiente para manter as probabilidades de prêmio atraentes, e em menos de um ano o programa foi extinto[^21]; a Coreia, de 2005 a 2011, também abandonou a rifa, mantendo apenas o mecanismo de recompensas para denúncias de comerciantes que não emitem recibos[^22]; e, mais longe, na África, a Tanzânia começou testes piloto em 2022 e ainda planeja uma versão nacional em 2026[^23]. Outros lugares raramente conseguem sustentar o esforço por muito tempo — Taiwan, setenta e cinco anos, sem interromper uma única edição.
+A Geórgia implementou uma ideia semelhante em 2012, e o motivo oficial para o encerramento foi a "falta de eficácia", mas o próprio think tank que propôs o estudo afirma que essa frase nunca foi acompanhada de uma análise pública comprobatória — a verdadeira razão parece ser financeira: o volume diário de comprovantes qualificados caiu de um pico de mais de dois milhões para apenas 300 mil antes do encerramento; o novo governo não investiu orçamento para manter as chances de premiação atraentes, e o sistema foi descontinuado em menos de um ano[^21]. A Coreia do Sul operou de 2005 a 2011 e também acabou abandonando os sorteios, mantendo apenas o mecanismo de bônus por denunciar estabelecimentos que não emitiam recibos[^22]; já na Tanzânia, na África, um projeto-piloto começou em 2022 e há planos para lançar uma versão nacional em 2026[^23]. Em outros lugares, as iniciativas costumam não durar muito; Taiwan resiste há setenta e cinco anos, sem interrupções.
 
 ```tw-bars
-Taiwan setenta e cinco anos sem interromper uma única edição
-* Taiwan | 75 | Desde 1951, sem interrupção
-Coreia | 6 | 2005–2011, extinto, mantendo apenas recompensas por denúncias
-Geórgia | 1 | Lançado em 2012, extinto em menos de um ano
-Fonte: Ministério das Finanças, ISET Policy Research Institute, Agência Tributária da Coreia
+Taiwan mantém o sistema ininterruptamente por 75 anos, sem um segundo caso tão duradouro
+*Taiwan | 75 | De 1951 até hoje, sem interrupções
+Coreia do Sul | 6 | 2005–2011, encerrado e substituído por bônus de denúncia
+Geórgia | 1 | Iniciado em 2012, encerrado em menos de um ano
+Fonte: Ministério das Finanças, ISET Policy Research Institute, Receita Nacional da Coreia do Sul
 ```
 
-A Tanzânia não aparece nesse gráfico — atualmente, só há registro de um teste piloto regional de três meses em 2022; não há dados públicos sobre se o programa continuou, foi suspenso ou reiniciado nos anos intermediários, e não se pode comparar com os números completos de ciclo de vida de Coreia e Geórgia.
+A Tanzânia não foi incluída neste gráfico — atualmente, só há registros de um projeto-piloto regional de três meses em 2022; não há dados públicos sobre se o sistema operou continuamente, foi pausado ou reiniciado nesses anos intermediários. Portanto, não segue a mesma métrica de "ciclo de vida completo" (do início ao fim) de casos como Coreia do Sul e Geórgia, não sendo adequado para o mesmo gráfico de barras.
 
-Setenta e cinco anos acumulam uma longa sequência de números. Até junho de 2026, essa sequência já havia sorteado duzentos e sessenta e quatro milhões de dólares em prêmios especiais, dos quais trezentos e sete milhões foram ganhos por pessoas que nunca os resgataram, perdendo o direito após o prazo legal estabelecido[^11]. A maioria dessos prêmios não resgatados se deve simplesmente ao fato de que as pessoas já haviam esquecido de conferir os números — mas há também histórias de sorte incrível: entre os ganhadores mais recentes de 2026, a pessoa mais sortuda comprou apenas um saco plástico por dois dólares em uma lanchonete McDonald's em Tucheng, em Nova Taipé, e levou o prêmio de milhões de dólares[^24].
+O que se acumulou em setenta e cinco anos é uma longa lista de números. Até junho de 2026, essa sequência de números gerou um total de 1.264 prêmios especiais de NT$10 milhões, mas 307 deles nunca foram resgatados; após o prazo estipulado para o resgate, o valor é perdido para sempre[^11]. A maioria desses NT$10 milhões não resgatados deve-se apenas ao fato de as pessoas terem esquecido de conferir os números — mas também há quem tenha tido uma sorte inacreditável: entre os ganhadores mais recentes de 2026, o mais sortudo gastou apenas NT$2 em uma sacola plástica em um McDonald's em Tucheng, Nova Taipé, e ganhou o prêmio de NT$10 milhões[^24].
 
-Por isso, da próxima vez, quando você estiver no caixa do supermercado e o atendente perguntar “vai querer o recibo?”, ao pegar na sua mão aquela folha ainda quentinha ou a deixar ir direto para a nuvem — saiba que você não está apenas concluindo uma transação. Você está perpetuando um reflexo que já viveu setenta e cinco anos, mais do que qualquer um que o tenha promovido, e até mais do que o regime que o criou. Só que, desta vez, esse gesto carrega uma pergunta que antes não precisava ser respondida: será que aquele número vai cair em você? Será pura sorte, ou alguém já calculou tudo por você?
+Portanto, da próxima vez que você estiver pagando em uma loja de conveniência e o atendente perguntar "quer o comprovante eletrônico?", ao estender a mão para receber aquele pedaço de papel ainda morno ou permitir que ele vá direto para a nuvem — você não está realizando apenas uma transação. Você está dando continuidade a um reflexo que vive há setenta e cinco anos, durando mais do que qualquer pessoa que o tenha promovido ou até mesmo mais do que o próprio regime que o criou. Só que, desta vez, esse gesto traz silenciosamente uma pergunta que antes não precisava de resposta: o fato de aquela sequência de números ganhar para você é pura sorte ou alguém já calculou tudo por você?
 
 ---
 
-**Leituras recomendadas**:
+**Leituras complementares**:
 
-- [Milagre econômico](/pt/economy/economic-miracle) — A década de 1950 em que nasceu a Fatura Unificada, exatamente o mesmo período em que Taiwan saiu do abismo fiscal para decolar economicamente.
-- [Cultura de lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — O cenário onde mais pessoas resgatam prêmios de recibos e dizem “919” doando seus pontos, bem diante dos caixas das quatro grandes redes.
-- [Terrore branco em Taiwan](/pt/history/taiwan-white-terror) — A época em que o designer da Fatura Unificada, Ren Xiangqun, foi preso por “não denunciar os bandidos”.
-- [Justiça transition em Taiwan](/pt/history/taiwan-transitional-justice) — O processo de reabilitação de Ren Xiangqun, que atravessou dois governos e levou anos para ser concluído.
-- [Mecanismo de preços da gasolina em Taiwan e CNPC](/pt/economy/taiwan-fuel-pricing-and-cpc) — Outro documento institucional usado como régua: como uma nota de imprensa sobre preços da gasolina divide um litro em três partes, fazendo a CNPC carregar primeiro, os preços mais baratos divididos por litro, e ninguém nunca contou quem consome mais.
+- [Salários, impostos e aposentadoria](/income/) — A fatura cuida do imposto sobre vendas; como o imposto sobre o rendimento dos salários é calculado e quem o paga está neste especial.
+- [Milagre Econômico](/pt/economy/economic-miracle) — A década de 1950, quando a Fatura Unificada nasceu, foi o mesmo período da história de mobilização em que Taiwan passou do abismo fiscal para a ascensão econômica.
+- [Cultura das lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — O cenário onde mais pessoas resgatam prêmios de faturas ou mencionam "919" para doar faturas é justamente no caixa das quatro grandes redes de conveniência.
+- [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — Na época em que o designer da fatura, Ren Xiangqun, foi preso por "saber de um bandido e não denunciá-lo", uma simples acusação era fatal.
+- [Justiça de Transição em Taiwan](/pt/history/taiwan-transitional-justice) — A reabilitação de Ren Xiangqun, que atravessou dois governos e levou anos para ser concluída, é um processo concreto de como Taiwan enfrenta seu passado autoritário.
+- [Mecanismo de preços de combustível e a CPC em Taiwan](/pt/economy/taiwan-fuel-pricing-and-cpc) — Usando também um documento institucional como régua: como um comunicado sobre o preço do petróleo divide um litro em três partes, pedindo que a CPC assuma primeiro e divida a economia por litro, enquanto ninguém estatística quem é o maior consumidor.
 
 ## Fontes das imagens
 

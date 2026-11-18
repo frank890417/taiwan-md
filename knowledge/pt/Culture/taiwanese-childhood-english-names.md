@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T23:48:00.591546+00:00'
+translatedAt: '2026-11-18T19:34:23.324651+00:00'
 ---
 
 # Nomes em inglês da infância dos taiwaneses: Mary, Kevin e o poder de nomear dos professores de cursos preparatórios
@@ -281,10 +283,11 @@ O ato de designar um nome nunca foi abolido — apenas mudou quem o distribui.
 
 ## Leitura Complementar
 
-- [Estrangeirismos e Contato Linguístico em Taiwan](/pt/culture/loanwords-and-language-contact-in-taiwan) — Analisando os empréstimos entre o japonês, o inglês e o taiwaneses para entender como as múltiplas camadas linguísticas de Taiwan se sobrepõem.
-- [Movimento de Revitalização das Línguas Indígenas de Taiwan](/pt/culture/indigenous-language-revitalization-movement) — Outra vertente da retomada do direito à nomeação, que vai desde a revitalização das línguas tribais até a reforma da Lei de Nomes em 2024.
-- [Chiang Wei-wen](/pt/people/chiung-wi-vun) — Um contraponto que estende a lógica do movimento linguístico taiwanes de "des-sinização", abordando outra face da soberania sobre nomes e escrita.
-- [Sensibilidade de Taiwan](/pt/culture/taiwanese-sensibility) — Uma perspectiva curatorial sobre a mentalidade cultural para entender outra camada do porquê "os taiwaneses sempre sentem que precisam de um nome estrangeiro".
+- [Nomes dos taiwaneses (Especial)](/names/) — Sobrenomes, gerações, romanização e nomes de línguas indígenas ilustrados, com uma ferramenta de romanização de nomes inclusa.
+- [Estrangeirismos e contato linguístico em Taiwan](/pt/culture/loanwords-and-language-contact-in-taiwan) — Analisando como as múltiplas camadas linguísticas de Taiwan se sobrepõem por meio de empréstimos do japonês, inglês e taiwanês.
+- [Movimento de revitalização das línguas indígenas de Taiwan](/pt/culture/indigenous-language-revitalization-movement) — Outra vertente da retomada do direito de nomeação, que vai desde a revitalização das línguas indígenas até a reforma da Lei de Nomes em 2024.
+- [Chiang Wei-wen](/pt/people/chiung-wi-vun) — Uma comparação com a lógica de "des-sinização" do movimento literário em taiwanês; outra face da soberania sobre nomes e escrita.
+- [Sensibilidade taiwanesa](/pt/culture/taiwanese-sensibility) — Uma perspectiva curatorial sobre a mentalidade cultural para entender outra camada do porquê "os taiwaneses sempre sentem que precisam de um nome estrangeiro".
 
 ## Fontes das Imagens
 

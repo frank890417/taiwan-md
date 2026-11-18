@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:59+08:00'
+translatedAt: '2026-11-18T19:45:29.649615+00:00'
 ---
 
 # Comércio Exterior de Taiwan e a Cadeia de Suprimentos Global
@@ -283,9 +285,11 @@ A reorganização das cadeias de suprimentos não traz apenas riscos: a vantagem
 
 [^9]: [Liberty Times — Legislativo aprova suspensão do FTA com a Nicarágua; Ministério das Relações Exteriores e Ministério da Economia: Impacto no comércio é limitado](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — A Nicarágua encerrou unilateralmente em dezembro de 2021; o acordo deixou de ser aplicado por Taiwan desde 1º de julho de 2022.
 
-## Leitura Adicional
+## Leitura complementar
 
-- [Pequenas e Médias Empresas e Campeãs Ocultas de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions)
-- [Agricultura e Regeneração Rural em Taiwan](/pt/economy/taiwan-agriculture-and-rural-revitalization)
-- [Ecossistema de Startups](/pt/economy/taiwan-startup-ecosystem-overview)
-- [Empresas de Taiwan: Foxconn Precision](/pt/economy/foxconn-precision-industry) — Com presença global em 24 países e 900 mil funcionários, é o maior laboratório de governança transfronteiriça da indústria manufatureira de Taiwan.
+- [Especial: Indústria de Taiwan](/industry/) — Com estatísticas oficiais, traça a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por condados e cidades, as 10 maiores por valor de mercado ao longo da história, além dos argumentos dos dois lados em seis debates públicos
+- [Mapa da cadeia de suprimentos](/industry/supply-chain-map/) — Semicondutores, servidores de IA, três cadeias de tungstênio: elo a elo, veja quais empresas estão em Taiwan e quais elos dependem do exterior
+- [PMEs de Taiwan e campeões ocultos](/pt/economy/taiwan-smes-and-hidden-champions)
+- [Agricultura de Taiwan e revitalização rural](/pt/economy/taiwan-agriculture-and-rural-revitalization)
+- [Ecossistema de startups](/pt/economy/taiwan-startup-ecosystem-overview)
+- [Empresa de Taiwan: Foxconn (Hon Hai Precision)](/pt/economy/foxconn-precision-industry) — Com presença em 24 países e 900 mil pessoas, é o maior laboratório de governança transfronteiriça da manufatura de Taiwan

@@ -11,11 +11,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-07-26T08:50:55+08:00'
+translatedAt: '2026-11-18T19:51:31.130944+00:00'
 ---
 
 > **Visão geral em 30 segundos**
@@ -145,12 +147,12 @@ Essa é precisamente a qualidade mais preciosa das empresas de Taiwan: na feroz 
 
 ## Referências
 
-[^1]: [Cronologia oficial da United Microelectronics](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC fundada em 22 de maio de 1980 como spin-off do Instituto de Eletrônica do ITRI; Wikipédia (chinês e inglês) e site oficial da UMC confirmam esta data
+[^1]: [Cronologia Oficial da UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — A UMC foi estabelecida em 22 de maio de 1980, derivada do Instituto de Eletrônica do ITRI; a Wikipédia (em chinês e inglês) e o site oficial da UMC confirmam esta data.
 
-[^2]: [Wikipédia — United Microelectronics](https://zh.wikipedia.org/wiki/聯華電子) — Em 1985, UMC tornou-se a primeira empresa de semicondutores de capital aberto do mundo sinófono
+[^2]: [Wikipédia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — Em 1985, a UMC tornou-se a primeira empresa de semicondutores do mundo de língua chinesa a listar ações na bolsa.
 
-[^3]: [TrendForce — Análise do mercado global de fundição de wafers 2024](https://www.trendforce.com/) — Participação da UMC no mercado global de fundição de wafers de cerca de 7,4%, terceira no mundo; TSMC 62%, Samsung 18%
+[^3]: [TrendForce — Análise do Mercado Global de Fundição de Semicondutores 2024](https://www.trendforce.com/) — A UMC detém cerca de 7,4% da participação no mercado global de fundição de semicondutores, ocupando o terceiro lugar mundial; a TSMC possui 62% e a Samsung 18%.
 
-[^4]: [Site oficial da United Microelectronics — Relações com Investidores](https://www.umc.com/zh-TW/IR/ir_overview) — Receita da UMC em 2025: 237,6 bilhões de novos dólares taiwaneses, margem bruta 29,0%, lucro por ação 3,34 dólares taiwaneses
+[^4]: [Site Oficial da UMC — Relações com Investidores](https://www.umc.com/zh-TW/IR/ir_overview) — A receita da UMC em 2025 foi de NT$237,6 bilhões, com uma margem bruta de 29,0% e lucro por ação de NT$3,34.
 
-[^5]: [Relatório ESG de Sustentabilidade da United Microelectronics](https://www.umc.com/) — UMC lançou estratégia "UMC 2030" em 2022, comprometendo-se a alcançar neutralidade de carbono em 2030
+[^5]: [Relatório de Sustentabilidade ESG da UMC](https://www.umc.com/) — Em 2022, a UMC lançou a estratégia "UMC 2030", comprometendo-se com o objetivo de alcançar a neutralidade de carbono até 2030.
