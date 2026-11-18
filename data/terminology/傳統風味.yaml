@@ -1,15 +1,16 @@
 id: 傳統風味
 category: daily-life
 fork_type: semantic
+auto_convert: false # 台灣也通用，2026-11-18 issue #2025
 
 display:
   taiwan: 古早味
   china: 傳統風味
 
-notes: ''
+notes: '「傳統風味」台灣也通用；「古早味」帶懷舊語感，不是同義替換（issue #2025）。'
 
 sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-18'

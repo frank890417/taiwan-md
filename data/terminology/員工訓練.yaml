@@ -2,15 +2,16 @@ id: 員工訓練
 category: daily
 subcategory: 職場
 fork_type: B
+auto_convert: false # 台灣也通用，2026-11-18 issue #2025
 
 display:
   taiwan: 員工訓練
   china: 員工培訓
 
-notes: ''
+notes: '「培訓」台灣也通用，教育部辭典有收（人才培訓、培訓課程），看到「員工培訓」不必改（issue #2025）。'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-11-18'

@@ -1,15 +1,16 @@
 id: 不限量
 category: daily-life
 fork_type: semantic
+auto_convert: false # 台灣也通用，2026-11-18 issue #2025
 
 display:
   taiwan: 吃到飽
   china: 不限量
 
-notes: ''
+notes: '「不限量供應」這類說法台灣也通用；「吃到飽」只對應餐廳、上網等情境，不是通用替換（issue #2025）。'
 
 sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-18'
