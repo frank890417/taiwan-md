@@ -2,6 +2,7 @@
 title: "Éducation des peuples autochtones et revitalisation linguistique à Taïwan : protégés à l'école primaire, abandonnés au collège"
 description: "En 2012, Camaak Valaule, enseignant paiwan à l'école primaire de Taiwu dans le Pingtung, a collecté des chants ancestraux auprès des anciens à l'aide d'un enregistreur vocal, puis a conduit ses élèves jusqu'aux Golden Melody Awards. En 2017, la Loi sur le développement des langues autochtones a élevé les langues tribales au rang de langues nationales. En 2019, la Loi sur l'éducation des peuples autochtones a inscrit des quotas d'enseignants à atteindre en dix ans. Les écoles primaires expérimentales autochtones sont passées de 25 à 38. Mais à l'entrée au collège, le système s'effondre : il n'existe que 6 collèges expérimentaux autochtones sur toute l'île, et le taux de scolarisation brut des étudiants autochtones en enseignement supérieur n'est que de 56,3 %, soit 35,3 points de pourcentage de moins que les étudiants non autochtones. Camaak est décédé en 2021 à l'âge de 42 ans. L'école primaire tient bon, le collège ne suit pas. La fracture est toujours là."
 date: 2026-04-11
+category: 'Society'
 tags:
   [
     'éducation autochtone',
@@ -15,19 +16,20 @@ tags:
     'école tribale de Bananaflower',
     'fracture de transition',
   ]
-category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 15
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
-translatedAt: '2026-04-14T12:32:24+08:00'
+translatedAt: '2026-11-18T09:44:18.362215+00:00'
 ---
 
 > **En 30 secondes :** En 2012, Camaak Valaule, enseignant paiwan à l'école primaire de Taiwu dans le Pingtung, a conduit sa chorale de chants ancestraux à remporter le Prix de la meilleure interprétation de musique traditionnelle lors de la 23e cérémonie des Golden Melody Awards avec l'album _Là où la chanson commence_[^1]. En 2017, l'Assemblée législative a adopté en troisième lecture la Loi sur le développement des langues autochtones, conférant officiellement aux langues de 16 nations le statut de langues nationales[^2]. En 2019, la révision de la Loi sur l'éducation des peuples autochtones a inscrit à l'article 34 l'obligation d'atteindre, dans les dix ans, un quota minimum d'un tiers d'enseignants autochtones dans les écoles à forte population autochtone[^3]. À compter de l'année scolaire 111, Taïwan compte 38 écoles expérimentales autochtones[^4]. Pourtant, ce dispositif qui semblait dense et complet s'effondre brusquement au collège. Une enquête approfondie du _Reporter_ en 2024 le souligne : « Depuis 2019, le nombre d'écoles primaires expérimentales autochtones a augmenté de plus de dix, tandis que le collège stagne presque totalement. »[^5] Il n'existe que 6 collèges expérimentaux autochtones sur tout le territoire[^4]. Pour l'année scolaire 112, le taux de scolarisation brut des étudiants autochtones dans l'enseignement supérieur est de **56,3 %**, contre **91,6 %** pour les étudiants non autochtones, soit un écart de 35,3 points de pourcentage[^6]. Pour ces mêmes enfants, l'État a consacré dix ans à protéger leur langue et leur culture par la loi — puis les a lâchés le jour de leur entrée au collège. Camaak s'est éteint le 19 août 2021 d'un lymphome, à l'âge de 42 ans[^7]. La chorale qu'il a laissée derrière lui est toujours là, mais qui, après sa disparition, veillera sur cette transition ?

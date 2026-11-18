@@ -2,6 +2,7 @@
 title: "La naissance d'un enseignant : quarante ans de réforme et d'effondrement du système de formation des enseignants à Taïwan"
 description: "En 1994, Taïwan a ouvert la formation des enseignants à toutes les universités, mettant fin à un monopole de cinquante ans. Trente ans plus tard, le bilan est sévère : le nombre d'universités pédagogiques spécialisées est passé de 9 à 3, les admissions en formation n'atteignent plus les quotas, et le taux de réussite au concours d'enseignement a chuté à 52 %. Une réforme bien intentionnée a creusé l'écart entre les futurs enseignants et les réalités du terrain."
 date: 2026-04-12
+category: 'Society'
 tags:
   [
     'formation des enseignants',
@@ -13,19 +14,20 @@ tags:
     'boursiers publics',
     'zones rurales défavorisées',
   ]
-category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 13
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
-sourceCommitSha: 'bb059332'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cc5bd7cfca8af637'
 sourceBodyHash: 'sha256:073e34a439566b72'
-translatedAt: '2026-04-14T12:32:15+08:00'
+translatedAt: '2026-11-18T10:30:16.123484+00:00'
 ---
 
 > **En 30 secondes :** Le 7 février 1994, le Parlement taïwanais a adopté en troisième lecture la Loi sur la formation des enseignants, mettant fin à un demi-siècle de filière pédagogique intégrée et ouvrant la formation à toutes les universités[^1]. L'ambition était claire : diversifier les profils d'entrée dans l'enseignement. Trente ans plus tard, le résultat est plus contrasté. Les 9 universités pédagogiques initiales ont été réduites à **3** à la suite d'une vague de fusions[^2]. En 2020-2021 (109e année scolaire), les institutions de formation affichaient un déficit de **1 551 places** non pourvues — un record historique[^3]. En 2018, une nouvelle révision législative a inversé l'ordre du processus : l'examen de qualification précède désormais le stage[^4]. Depuis cette réforme, le taux de réussite au concours a chuté à **51,64 %** en 2023[^5] et **52,2 %** en 2024[^6] — parmi les plus bas depuis l'introduction des nouvelles épreuves. Sur les étudiants entrés en formation entre 2011 et 2018, **42 % ont abandonné avant d'obtenir leur certificat**[^7]. Et près de **47 % des stagiaires en formation** reconnaissent suivre le cursus « au cas où », sans intention ferme d'enseigner[^7]. La réforme de 1994 voulait résoudre le problème de l'uniformité des profils. En 2024, le problème n'est plus là : **les vocations s'amenuisent, et ceux qui restent sont de moins en moins préparés aux réalités du terrain**.

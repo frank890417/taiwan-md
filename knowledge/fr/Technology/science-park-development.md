@@ -2,9 +2,7 @@
 title: "Les parcs scientifiques de Taïwan : le pari d'une rizière qui est devenu l'artère vitale du monde, mais aussi son talon d'Achille"
 description: "En 1979, à Jinshanmian, Hsinchu, Ho Yi-tzu, un ingénieur revenu de chez IBM à Taïwan, fit surgir le premier parc scientifique d'Asie au milieu d'une rizière. Quarante-cinq ans plus tard, le chiffre d'affaires annuel des parcs de Hsinchu, du Sud et du Centre dépasse 5,8 billions de dollars taïwanais, et les puces les plus avancées du monde sont produites en série dans ces trois sites. Mais le plus puissant talisman de cette île est aussi son point le plus fragile : une sécheresse, une panne d'électricité ou une carte géopolitique peuvent suffire à suspendre le souffle de toute la chaîne d'approvisionnement mondiale."
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
     'parcs scientifiques',
@@ -16,10 +14,17 @@ tags:
     'TSMC',
     'bouclier de silicium',
   ]
-readingTime: 18
+subcategory: '半導體與硬體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 18
+image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
+imageCredit: 'Peellden'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 sporeLinks:
   - id: 109
     platform: 'threads'
@@ -29,16 +34,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-29'
     url: 'https://x.com/taiwandotmd/status/2060247955467325544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c'
-sourceContentHash: 'sha256:19e7a45a0852260f'
-sourceBodyHash: 'sha256:a1d16e29348fc28f'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
-imageCredit: 'Peellden'
-imageLicense: 'CC BY-SA 3.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
-difficulty: 'intermediate'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3a5079e89062b618'
+sourceBodyHash: 'sha256:ad278436f9c42b34'
+translatedAt: '2026-11-18T09:07:25.143378+00:00'
 ---
 
 # Les parcs scientifiques de Taïwan : le pari d'une rizière qui est devenu l'artère vitale du monde, mais aussi son talon d'Achille
@@ -138,26 +140,27 @@ _Le documentaire « Les faiseurs de montagne : le pari du siècle », de la réa
 
 > **✦** Un même ingénieur peut dire, dans le même souffle, que la fuite technologique est un faux problème et reconnaître que le bouclier de silicium va s'affaiblir. C'est exactement la situation la plus réelle de Taïwan aujourd'hui : l'île reste en tête sur le plan technologique, mais rien, sur le plan géopolitique, ne garantit que cette avance puisse se convertir en sécurité durable.
 
-## À côté des salles blanches repose une jarre vieille de cinq mille ans
+## À côté de la salle blanche, des poteries vieilles de cinq mille ans
 
-Le développement du parc du Sud a mis au jour de nombreux sites préhistoriques. Sous cette terre, les archéologues ont découvert la culture de Dapenkeng, vieille de cinq mille ans, la culture de Niuchouzi, vieille de plus de trois mille ans, ainsi que des villages siraya de quelques siècles. Dans l'ensemble du périmètre du parc du Sud, soixante-huit sites ont été identifiés, couvrant six périodes culturelles. En octobre 2019, le musée d'archéologie du parc scientifique du Sud, rattaché au Musée national de la préhistoire de Taïwan, ouvrit officiellement. Conçu par l'architecte Kris Yao, il prend la forme de blocs noirs aux lignes blanches ; vu d'en haut, il ressemble à un Rubik's Cube, et les textures en coupe de ses murs ont été délibérément conçues pour évoquer des couches archéologiques mises au jour une à une[^22].
+Lors du développement du parc scientifique du Sud (Nanshe), de nombreux sites préhistoriques ont été mis au jour. Les archéologues ont découvert sous cette terre la culture de Dapenkeng datant de cinq mille ans, la culture de Niuchuzi vieille de plus de trois mille ans, ainsi que des établissements du peuple Siraya remontant à quelques siècles — soixante-huit sites ont été identifiés dans l'ensemble du périmètre de Nanshe, couvrant six périodes culturelles. En octobre 2019, le musée archéologique de Nanshe du Musée national de la préhistoire de Taïwan a officiellement ouvert ses portes. Conçu par l'architecte Yao Jen-hsi, ce bâtiment composé de blocs noirs et de lignes blanches ressemble, vu d'en haut, à un Rubik's Cube, tandis que la texture des parois est délibérément sculptée pour évoquer les strates archéologiques sectionnées couche après couche[^22].
 
-C'est probablement l'une des scènes les plus surréalistes du monde : à côté des salles blanches où l'on fabrique des puces 3 nm se trouve un musée exposant des jarres de cinq mille ans. Sur une même terre sont superposés deux régimes de temps : l'un se compte en wafer lots, si rapide qu'il se mesure en minutes ; l'autre se compte en millénaires, si lent qu'il faut le dater au carbone 14. Les parcs scientifiques taïwanais n'ont pas seulement superposé des industries ; ils ont aussi superposé le temps lui-même.
+C'est sans doute l'un des paysages les plus surréalistes au monde : juste à côté d'une salle blanche produisant des puces de 3 nanomètres se trouve un musée archéologique exposant des poteries vieilles de cinq mille ans. Sur une même parcelle de terre se superposent deux temporalités — l'une mesurée en lots de plaquettes (_wafer lots_), si rapide qu'elle s'exprime en minutes ; l'autre comptée en millénaires, si lente qu'elle nécessite la datation au carbone 14. Le parc scientifique de Taïwan ne superpose pas seulement des industries, il superpose le temps lui-même.
 
-![Vue extérieure du musée d'archéologie du parc scientifique du Sud, rattaché au Musée national de la préhistoire de Taïwan, bâtiment de blocs noirs conçu par Kris Yao et situé dans le parc scientifique du Sud](/article-images/technology/nanke-archaeology-museum-2019.webp)
-_Musée d'archéologie du parc scientifique du Sud, conçu par Kris Yao et inauguré en 2019. Le développement du parc a mis au jour soixante-huit sites préhistoriques, dont ceux des cultures de Dapenkeng, de Niuchouzi et des Siraya : des usines de wafers et des jarres vieilles de cinq mille ans sont reliées par une même terre. Photo : Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
+![Extérieur du musée archéologique de Nanshe du Musée national de la préhistoire de Taïwan, bâtiment noir conçu par l'architecte Yao Jen-hsi, situé dans le parc scientifique du Sud](/article-images/technology/nanke-archaeology-museum-2019.webp)
+_Musée archéologique de Nanshe, conçu par Yao Jen-hsi, ouvert en 2019. Lors du développement du parc, soixante-huit sites préhistoriques tels que Dapenkeng, Niuchuzi et Siraya ont été découverts — les usines de plaquettes et les poteries d'il y a cinq mille ans sont liées par la même terre. Photo : Pbdragonwang, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:國立臺灣史前文化博物館南科分館.jpg)._
 
-Revenons à la rizière nivelée de 1979. À l'époque, rien ne garantissait que ce pari serait gagné : la technologie était empruntée, le modèle était décrié, le site se trouvait sur des terres agricoles. Quarante-cinq ans plus tard, cette île a fait naître la capacité de production de puces dont le monde dépend le plus. La capitalisation de TSMC a un temps approché le produit intérieur brut annuel de tout Taïwan, et les impôts qu'elle paie représentent une proportion considérable du budget de la défense[^23]. Le plus puissant talisman de Taïwan a grandi ; mais cette même irremplaçabilité en a fait la carte que toutes les grandes puissances veulent tenir à la table du jeu.
+Revenons en 1979, vers ces rizières qui furent nivelées. À l'époque, personne ne pouvait garantir que ce pari serait gagnant : la technologie était empruntée, le modèle n'était pas jugé prometteur et le site choisi était une terre agricole. Quarante-cinq ans plus tard, cette île a engendré la capacité de production de puces dont le monde entier dépend — la capitalisation boursière de TSMC a parfois approché celle du PIB annuel de tout Taïwan, et les impôts qu'elle verse représentent une proportion considérable du budget de la défense[^23]. Le plus puissant talisman de Taïwan a fini par grandir, mais cette même irremplaçabilité en fait aussi la carte que tout le monde veut s'emparer sur l'échiquier des grandes puissances.
 
-Il y a quarante-cinq ans, cette rizière misait sur la survie. Une fois le pari gagné, l'île est devenue l'artère vitale du monde, mais aussi son talon d'Achille. Le prochain pari, sur l'eau, l'électricité, les talents et ce bouclier en cours de redéfinition, a déjà commencé. Et cette fois, Taïwan n'est plus seul à la table.
+Il y a quarante-cinq ans, ces rizières misaient sur la survie ; après avoir gagné ce pari, l'île est devenue le centre névralgique du monde, mais aussi son point vulnérable. Le prochain pari — concernant l'eau, l'électricité, les talents et ce bouclier en cours de redéfinition — a déjà commencé, et cette fois, tout le monde n'est pas seulement assis à la table des parieurs de Taïwan.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Cinquante ans de révolution des matériaux, du transfert de technologie de RCA au nitrure de gallium et à l'encapsulation quantique : comment les puces des parcs sont devenues les plus avancées au monde
-- [Les 50 plus grandes entreprises de Taïwan](/fr/economy/top-50-companies-taiwan) — La « montagne sacrée qui protège le pays » soutient un tableau, mais aussi un pays à point de défaillance unique : l'autre face de la concentration de la valeur de production dans les parcs scientifiques
-- [Les faiseurs de montagne : le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de Hsiao Chu-chen sorti en 2025, cinq ans d'entretiens avec plus de quatre-vingts pionniers des semi-conducteurs pour porter à l'écran ce pari du siècle
+- [Dossiers sur l'industrie taïwanaise](/industry/) — Utilisation de statistiques officielles pour dessiner la structure industrielle : soixante-dix ans d'exportations et de PIB, les parcs scientifiques, les usines par comté et ville, le top 10 des capitalisations boursières historiques, ainsi que les points de vue des différentes parties lors de six débats publics.
+- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'apport technologique de RCA à la révolution des matériaux avec le nitrure de gallium et le packaging quantique : comment les puces du parc sont devenues les plus avancées au monde.
+- [Les 50 plus grandes entreprises de Taïwan](/fr/economy/top-50-companies-taiwan) — La « montagne protectrice de la nation » soutient un tableau, mais aussi un pays sujet à un point de défaillance unique (_single point of failure_) ; l'autre face de la concentration de la valeur produite dans les parcs scientifiques.
+- [Les bâtisseurs : le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de Hsiao Chu-chen (2025), cinquante ans d'entretiens avec plus de quatre-vingts pionniers des semi-conducteurs, transformant ce pari du siècle en images.
 
 ---
 
