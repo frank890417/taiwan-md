@@ -10,11 +10,13 @@ featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-07-28T00:12:05.329563+00:00'
+translatedAt: '2026-11-18T14:48:19.271182+00:00'
 ---
 
 # 우바오춘: 배완족 아이에게 한 약속

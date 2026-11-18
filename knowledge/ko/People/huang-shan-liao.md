@@ -31,11 +31,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-07'
     url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce59'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-10-10T19:55:09.625711+00:00'
+translatedAt: '2026-11-18T14:56:42.307632+00:00'
 ---
 
 # 황산료: 세계 챔피언의 옷은 아무도 보지 않았고, 그는 '한 마디 위로'를 팔기 시작했다

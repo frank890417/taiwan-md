@@ -1,21 +1,23 @@
 ---
-title: '샤오메이친(蕭美琴)'
-description: "일본 출생, 타이난 초등학교, 뉴저지 성장, 오버린 졸업한 '전쟁 고양이(戰貓)'가 어떻게 타이완 역사상 가장 성공적인 대미 대표가 되어 부총통의 자리에 오르게 되었는가?"
+title: '샤오메이친'
+description: "일본에서 태어나 타이난에서 초등학교를 다니고, 뉴저지에서 성장하여 유럽 베를린에서 졸업한 '전묘(戰貓)'가 어떻게 대만 역사상 가장 성공적인 대미 대표가 되어 부통령의 자리에 오르게 되었나?"
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'People'
+tags: ['정치인', '부통령', '민진당', '외교', '주미대표', '화롄', '전묘']
 subcategory: '政治人物'
-tags: ['政治人物', '副總統', '民進黨', '外交', '駐美代表', '花蓮', '戰貓']
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-06-12T00:53:03+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T15:29:05.782320+00:00'
 ---
 
 # 샤오메이친(蕭美琴)

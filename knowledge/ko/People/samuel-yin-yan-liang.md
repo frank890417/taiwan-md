@@ -1,32 +1,38 @@
 ---
-title: '尹衍樑: 그가 세운 과학상, 노벨상보다 비싸다'
-description: '2026년 5월 26일 새벽 4시 21분, 룬타이그룹 회장 윤연량(尹衍樑)이 타이베이 중민총병원에서 영면했다. 향년 76세. 진덕중학교 시절 왕진평이 싸움의 상처를 치료해 주던 폭력 소년에서, 1989년 먼지가 발목을 덮북경대학에 발을 들여 광화경영대학원을 설립한 뒤, 2012년 30억 신만위안 신탁기금을 출연하여 탕상(唐獎)을 창립하기까지. 각 부문 상금 5,000만 신만위안으로 노벨상을 능가한다. 막 떠난 대만 사업가가 세계에 남긴 것은 노벨상보다 비싼 상(賞)이었다.'
+title: '윤옌량: 그가 설립한 과학상, 노벨상보다 더 비싸다'
+description: '2026년 5월 26일 새벽 4시 21분, 잠타이 그룹 총재 윤옌량이 타이베이 명예 총병원에서 별세했다. 향년 76세. 진더 중학교 시절 왕진핑이 상처를 싸매주던 싸움꾼 소년에서, 1989년 먼지 쌓인 베이징 대학에 발을 들이고 광화관리학원을 설립하기 위해 출자했으며, 2012년 NT$30억 신탁 기금으로 탕 상을 제정했다. 상금은 각 항목당 NT$5,000만으로 노벨상을 넘어선다. 막 세상을 떠난 한 대만 기업인이 세계에 노벨상보다 더 비싼 상 하나를 남겼다.'
 date: 2026-05-26
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '企業家'
 tags:
   [
-    '尹衍樑',
-    '潤泰集團',
-    '唐獎',
-    '南山人壽',
-    '大潤發',
-    '北大光華管理學院',
-    '台灣慈善',
-    '預鑄工法',
-    '王金平',
-    '司徒達賢',
-    '王綺帆',
-    '尹崇堯',
-    '中央研究院',
-    '北榮重粒子癌症中心',
-    'sovereignty preservation',
-    '2026 辭世',
+    '윤옌량',
+    '잠타이 그룹',
+    '탕 상',
+    '남산 인수',
+    '다룬파',
+    '베이징 대학 광화관리학원',
+    '대만 자선',
+    '프리캐스트 공법',
+    '왕진핑',
+    '사도 달현',
+    '왕치판',
+    '윤숭요',
+    '중앙연구원',
+    '북영 중입자 암 센터',
+    '주권 수호',
+    '2026년 별세',
   ]
+subcategory: '企業家'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-26
 lastHumanReview: false
-featured: true
+viewpoint_formed: true
+researchReport: 'reports/research/2026-05/尹衍樑.md'
+image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
+imageCredit: '中華民國總統府'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
 sporeLinks:
   - id: 95
     platform: 'threads'
@@ -36,15 +42,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-26'
     url: 'https://x.com/taiwandotmd/status/2059290686671982831'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尹衍樑.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'
 sourceBodyHash: 'sha256:bf303e93b6c06618'
-translatedAt: '2026-06-16T16:55:29Z'
-image: '/article-images/people/yin-1st-tang-prize-laureates-2014.webp'
-imageCredit: '中華民國總統府'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:103%E5%B9%B49%E6%9C%8818%E6%97%A5_%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E7%AC%AC%E4%B8%80%E5%B1%86%E3%80%8C%E5%94%90%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA_(15099044008).jpg'
+translatedAt: '2026-11-18T15:51:04.131692+00:00'
 ---
 
 # 尹衍樑: 그가 세운 과학상, 노벨상보다 비싸다

@@ -2,19 +2,21 @@
 title: '두이진 — PTT 창시자에서 비영리 AI 연구소 설립자까지'
 description: '486 컴퓨터 하나로 대만 최대 포럼을 만들고, 마이크로소프트에서 코타나를 세상에 내놓은 뒤, 고액 연봉을 포기하고 귀국해 비영리 AI를 만든 사람. 그 30년의 디지털 여정'
 date: 2026-03-30
-tags: ['두이진', 'PTT', 'Taiwan AI Labs', '디지털 민주주의', '인공지능']
 category: 'People'
+tags: ['두이진', 'PTT', 'Taiwan AI Labs', '디지털 민주주의', '인공지능']
 subcategory: '科技與企業'
 author: 'Taiwan.md'
-readingTime: 9
 featured: true
-translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:61081ca7c646947e'
-sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-04-14T19:24:35+08:00'
 lastVerified: 2026-03-30
 lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/杜奕瑾.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:61081ca7c646947e'
+sourceBodyHash: 'sha256:f186e67ce03f9679'
+translatedAt: '2026-11-18T16:05:22.033307+00:00'
 ---
 
 # 두이진
