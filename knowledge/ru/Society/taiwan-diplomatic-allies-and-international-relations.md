@@ -27,11 +27,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T03:29:04.533168+00:00'
+translatedAt: '2026-11-18T06:06:25.441666+00:00'
 ---
 
 # Тайваньские дипломатические отношения и международная дипломатия: 12 стран с дипломатическими связями, 113 зарубежных представительств, 177 стран безвизового въезда
