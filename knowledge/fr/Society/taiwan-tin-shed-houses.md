@@ -1,8 +1,8 @@
 ---
 title: "Les toits en tôle ondulée de Taïwan : 716 372 constructions illégales soutiennent l'horizon urbain"
 description: "En août 2024, un incendie dans un magasin d'agriculture mécanique à Liujia, Tainan, a coûté la vie à une famille de cinq personnes piégée sous un toit en tôle ondulée au troisième étage. Fin juillet 2023, le nombre total de constructions illégales à Taïwan atteignait 716 372 unités ; le district de New Taipei enregistrait une augmentation annuelle de 32 000 unités. Bien que le gouvernement annonce chaque année des démolitions, le nombre augmente encore de 10 000 unités par an. Cette couche de métal orange et argenté constitue à la fois le paysage urbain le plus laid et la légende urbaine la plus citée en matière de sécurité publique."
-category: Society
-subcategory: '居住環境'
+date: 2026-05-02
+category: 'Society'
 tags:
   [
     'Constructions illégales',
@@ -11,17 +11,19 @@ tags:
     'Planification urbaine',
     'Justice sociale en matière de logement',
   ]
+subcategory: '居住環境'
 author: 'Taiwan.md'
-date: 2026-05-02
-readingTime: 9
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2513952bc4eab478'
-sourceBodyHash: 'sha256:96d147de5fc403fe'
-translatedAt: '2026-05-02T14:18:00+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:997d7b4d1eaa5fa3'
+sourceBodyHash: 'sha256:5ca208b092a24109'
+translatedAt: '2026-11-18T21:54:17.275028+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Il y a 716 000 constructions illégales à travers le pays, dont 80 % se trouvent dans les six municipalités directement administrées par le gouvernement. À elles seules, New Taipei compte 186 000 unités[^1]. Taipei a tracé une ligne en 1995 : les « constructions illégales existantes » antérieures au 31 décembre 1994 (année 83 du calendrier taïwanais) bénéficient d'une suspension de démolition, tandis que les « nouvelles constructions illégales » sont démolies dès le signalement[^4]. Cette ligne a transformé l'illégalité en tolérance implicite, la tolérance en paysage urbain, et le paysage urbain en piège mortel lors d'incendies. La même tôle ondulée soutient également la densité des dépanneurs à usage mixte (résidentiel et commercial), alimentant le mythe de la sécurité taïwanaise où l'on peut « sortir la nuit et trouver une lumière allumée »[^9].
@@ -103,21 +105,22 @@ Le Ministère des affaires intérieures n'a pas modifié les critères de reconn
 
 Le sous-titre de l'histoire couverture de _Business Weekly_ écrivait : « Avec la bonne méthode, aucune construction illégale ne peut résister à la démolition »[^13]. Mais la « bonne méthode » n'apparaît actuellement que dans quelques zones chaudes où le gouvernement est prêt à payer les coûts de restructuration urbaine. Pour la majorité des toits en tôle ondulée dispersés dans les six municipalités, la ligne de 1994 reste en place.
 
-## Cette couche de métal continuera d'exister
+## Cette couche de métal va perdurer
 
-Si vous survolez les monts Central depuis un avion un après-midi de 2026, en regardant depuis la piste d'atterrissage, l'horizon de Taoyuan, New Taipei, Taichung et Kaohsiung sera une mer d'ondes de tôle orange (peinture antirouille) et argentée (acier galvanisé). Ce sont les décisions prises individuellement par 716 000 familles, chacune raisonnable en soi, mais ensemble ingérables.
+Si, un après-midi de 2026, vous survolez la chaîne centrale et regardez depuis la piste d'atterrissage, l'horizon de Taoyuan, New Taipei, Taichung et Kaohsiung sera une mer de panneaux ondulés orange (peinture antirouille) et argent (acier galvanisé). Ce sont 716 000 foyers qui ont chacun pris une décision raisonnable, mais qui, additionnées, deviennent ingérables.
 
-Chen Cheng-yi a écrit : « Les grandes enseignes de magasins mettent en évidence un esprit de suprématie et de comparaison ; les toits en tôle ondulée présentent une efficacité rapide et bon marché, mais en réalité, tout cela est fragile »[^11]. Zi Yu a écrit une autre phrase : « De nombreux défauts et avantages sont les deux faces d'un même résultat »[^9].
+Chen Cheng-i a écrit : « L'enseigne massive du magasin met en avant une mentalité d'autosuffisance et de comparaison ; la maison en tôle ondulée reflète une efficacité absolue, rapide et bon marché, mais en réalité, toutes deux sont fragiles. »[^11] Tzu-yu du Tu-hsüan-chai a écrit une autre phrase : « De nombreux défauts et avantages sont intrinsèquement les deux faces d'une même médaille. »[^9]
 
-Les deux ont raison. L'extension au troisième étage en tôle ondulée de la famille de cinq personnes à Liujia, Tainan, est fragile ; le dépanneur allumé 24h/24 à l'entrée de la ruelle de la rue Dongning est sûr — la même couche de métal, posée sur la même rue, est déterminée par la même ligne de 1994 pour savoir qui sera démoli et qui peut rester.
+Tous deux ont raison. La surélévation en tôle ondulée de cette famille de cinq à Lioujia, Tainan, est fragile ; la supérette au coin de la rue Dongning, éclairée 24 heures sur 24, est sûre — le même métal, sur la même rue, une ligne tracée en 1994 décide qui doit être démoli et qui peut rester.
 
-Où brûlera le prochain incendie au troisième étage d'une construction illégale existante ? Personne ne peut le dire avec certitude. Tant que cette ligne existe, le prochain incendie se produira.
+Dans quelle construction illégale existante le prochain incendie éclatera-t-il au dernier étage ? Personne ne peut le dire. Tant que cette ligne existera, le prochain incendie aura lieu.
 
 **Pour aller plus loin** :
 
-- [Logement social et justice sociale en matière de logement](/fr/society/social-housing-and-housing-justice) — Les difficultés de promotion du logement social à Taïwan et les problèmes du marché locatif, la structure du logement plus large à laquelle appartient le problème des toits en tôle ondulée.
-- [Justice environnementale à Taïwan et controverses NIMBY](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Extension des questions d'utilisation des terres et de pollution environnementale derrière la migration des usines en tôle ondulée de Wanzai Zhen.
-- [Justice foncière des peuples autochtones de Taïwan et territoires traditionnels](/fr/society/indigenous-land-justice-and-traditional-territories) — Comprendre la complexité de l'utilisation des terres entre « légal » et « illégal » à Taïwan sous différents angles.
+- [Les prix de l'immobilier, les prêts hypothécaires et la sécurité des jeunes à Taïwan](/housing/) — Page spéciale : taux d'endettement hypothécaire officiels par comté/ville et logements sous-utilisés, pour comprendre comment l'inaccessibilité à la propriété et les logements vacants coexistent
+- [Logement social et justice résidentielle](/fr/society/social-housing-and-housing-justice) — Difficultés de promotion du logement social à Taïwan et problèmes du marché locatif, la structure plus large du logement à laquelle appartient le problème des maisons en tôle ondulée
+- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Enjeux d'utilisation des sols et de pollution environnementale derrière le déplacement des usines en tôle ondulée de Fanzaitian
+- [Justice foncière des peuples autochtones et domaines traditionnels à Taïwan](/fr/society/indigenous-land-justice-and-traditional-territories) — Comprendre sous un autre angle la complexité de l'utilisation des terres entre « légal » et « illégal » à Taïwan
 
 ## Références
 

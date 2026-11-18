@@ -24,11 +24,13 @@ rationale:
   whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'a266eaa96'
-sourceContentHash: 'sha256:a14a0e12438e6a6a'
-sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
-translatedAt: '2026-10-13T03:29:28.924588+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e3e940750907c36e'
+sourceBodyHash: 'sha256:07db7c5fe478ed74'
+translatedAt: '2026-11-18T21:22:32.303214+00:00'
 ---
 
 # Le dernier chant de l'île : le 0,695 que même l'année du Dragon n'a pas sauvé
@@ -208,29 +210,31 @@ Si l'encouragement des naissances est voué à l'échec et que la pénurie de ma
 
 ---
 
-## Bien vivre sur une île vouée au dépeuplement
+## Bien vivre sur une île vouée à se vider
 
 La chose la plus cruelle, et aussi la plus honnête, en démographie, c'est qu'il n'y a presque jamais de miracle.
 
-Dix ans de politiques natalistes, près de 500 milliards dépensés, sans parvenir à faire remonter les naissances même pendant l'année du Dragon. La part de la chute de la fécondité imputable à l'incapacité financière d'élever des enfants est bien moindre que celle imputable au non-mariage qui l'assèche ; pourtant, depuis dix ans, le gouvernement verse de l'argent pour répondre à la « peur d'avoir des enfants », le donnant à ceux qui sont déjà mariés, sans atteindre le véritable point de rupture. Même si l'on mettait l'argent précisément dans les mains de chaque famille hésitante, l'expérience de la loterie de Yang Tzu-ting montre que cela ne vaut que 0,07 enfant. Partout dans le monde — Hongrie, Corée du Sud, France, pays nordiques —, aucun pays n'a réussi à racheter son taux de fécondité pour le ramener au niveau de remplacement. Depuis que la population totale de Taïwan a atteint son pic en 2019, cette pente descendante ne peut être inversée par aucune politique.
+Dix ans de politiques natalistes, près de NT$500 milliards dépensés, et même l'année du Dragon n'a pas pu être achetée. La part du taux de fécondité écrasée par l'incapacité à assumer les coûts est bien moindre que celle asséchée par le non-mariage ; et pourtant, depuis dix ans, le gouvernement verse de l'argent à ceux qui « n'osent pas faire d'enfants », le donnant à des gens déjà mariés, sans atteindre la véritable zone d'effondrement. Même si l'on mettait l'argent précisément dans les mains de chaque famille hésitante, l'expérience de la loterie de Yang Tzu-ting montre que cela ne vaut que 0,07 enfant. Partout dans le monde — Hongrie, Corée du Sud, France, pays nordiques —, aucun pays n'a réussi à racheter son taux de fécondité pour le ramener au seuil de remplacement. Depuis que la population totale de Taïwan a atteint son pic en 2019, cette pente descendante ne peut être inversée par aucune politique.
 
-Ce que cet article souhaite vous laisser, plus qu'une énième phrase creuse du type « Taïwan a besoin d'une meilleure société », ressemble plutôt à un ajustement de perspective : nous posons peut-être la mauvaise question depuis le début. La réponse à la question « Comment faire pour que les Taïwanais fassent plus d'enfants » après dix ans, c'est 0,695, c'est la cour de récréation vide de l'école primaire Xinwei. Les vraies questions à poser sont deux autres : comment permettre à ceux qui veulent réellement se marier et avoir des enfants de ne pas être enchaînés à tout un système de structures qu'ils ne peuvent accepter ; et comment, sur une île vouée à se dépeupler et à vieillir, faire en sorte que les jours se passent avec dignité, chaleur, et que l'on puisse compter les uns sur les autres.
+Ce que cet article souhaite vous laisser, plus qu'une énième phrase creuse du type « Taïwan a besoin d'une meilleure société », ressemble davantage à un ajustement de perspective : nous posons peut-être les mauvais questions depuis le début. La question « comment faire pour que les Taïwanais fassent plus d'enfants » a pour réponse, après dix ans, 0,695, et la cour vide de l'école primaire Xinwei. Les vraies questions sont deux autres : comment permettre à ceux qui veulent réellement se marier et avoir des enfants de ne pas être ligotés par tout un système qu'ils ne peuvent accepter ; et comment, sur une île vouée à se vider et à vieillir, faire en sorte que les jours se vivent avec dignité, chaleur, et que l'on soit là les uns pour les autres.
 
 Ce jour-là, en l'année du Dragon 2024, sur la cour de l'école primaire Xinwei, il n'y avait pas un seul élève de première année portant son nouvel uniforme, un cartable trop grand sur le dos.
 
-C'est une image très silencieuse. Un silence qui vous fait irrésistiblement vous demander : combien de temps encore cette île mettra-t-elle à cesser de crier vers les salles d'accouchement, pour se retourner et regarder vraiment les gens qui sont déjà là, sur la cour de récréation ?
+C'est une image très silencieuse. Si silencieuse qu'on ne peut s'empêcher de se demander : combien de temps encore cette île devra-t-elle attendre avant de cesser de crier vers les salles d'accouchement, de se retourner, et de regarder vraiment ces gens qui sont déjà là, sur la cour ?
 
-Le chant deviendra plus faible, mais tant qu'il y aura encore quelqu'un pour chanter, ce ne sera pas la dernière chanson.
+Le chant s'affaiblira, mais tant qu'il y aura quelqu'un pour chanter, ce ne sera pas encore la dernière chanson.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Éducation rurale à Taïwan](/fr/society/taiwan-rural-education) — Lorsque les zones rurales entrent dans la dénatalité quarante ans avant les villes, les petites écoles rurales sont les premières à recevoir ce message.
-- [Système éducatif et culture de l'admission](/fr/society/education-system-and-admissions-culture) — Le retrait des universités, la falaise des effectifs étudiants, sont indissociables de la manière dont l'ensemble de la société considère la « poursuite d'études ».
-- [Développement du système de soins de longue durée à Taïwan](/fr/society/long-term-care-system-development) — Lorsque les plus de 65 ans dépassent 20 % et que les aides-soignants étrangers soutiennent 215 000 lits, les soins de longue durée sont l'autre face de la dénatalité.
-- [Industrie de la robotique à Taïwan](/fr/technology/taiwan-robotics-industry) — Si la diminution de la population est une certitude, l'automatisation sera l'une des réponses clés pour « réorganiser la production au sein d'une population qui diminue ».
-- [Expansion et retrait de l'enseignement supérieur à Taïwan](/fr/society/taiwan-higher-education-expansion-and-decline) — Le mur de la dénatalité heurte l'université : après le passage de 58 à 148 établissements promus, comment les écoles ferment-elles, et qui en assume le coût ?
+- [Salaire, impôts et retraite](/income/) — Les comptes une fois que les gens se font moins nombreux : recettes et dépenses de l'assurance travail, les positions sur la réforme des retraites, et les simulations de la pension d'assurance travail et du fonds de pension du travail.
+- [Éducation dans les zones rurales de Taïwan](/fr/society/taiwan-rural-education) — Quand les campagnes entrent dans la dénatalité quarante ans avant les villes, les petites écoles rurales sont les premières à recevoir cette lettre.
+- [Système éducatif et culture de la compétition scolaire](/fr/society/education-system-and-admissions-culture) — Le retrait des universités, la falaise des effectifs étudiants, sont indissociables de la manière dont la société toute entière considère la « compétition scolaire ».
+- [Développement du système de soins de longue durée à Taïwan](/fr/society/long-term-care-system-development) — Quand les plus de 65 ans dépassent 20 %, que les infirmiers étrangers soutiennent 215 000 lits, les soins de longue durée sont l'autre bout de la dénatalité.
+- [Dossier santé et soins de longue durée](/health/) — La part réelle des plus de 65 ans et les courbes de projection du Conseil national du développement, ainsi que les recettes et dépenses du fonds des soins de longue durée
+- [Industrie de la robotique à Taïwan](/fr/technology/taiwan-robotics-industry) — Si la diminution de la population est une certitude, l'automatisation sera l'une des réponses clés pour « réorganiser la production au sein d'une population qui se réduit ».
+- [Expansion et retrait de l'enseignement supérieur à Taïwan](/fr/society/taiwan-higher-education-expansion-and-decline) — Le mur de la dénatalité heurte l'université : après le passage de 58 à 148 établissements, comment les écoles ferment, et qui assume le coût.
 
 ## Références
 

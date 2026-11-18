@@ -30,11 +30,13 @@ imageCredit: 'Yu_tptw'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Guangbo_Building_20230306.jpg'
 relatedDiary: ['2026-09-19-003000-news-radar']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/誰算低薪.md'
-sourceCommitSha: 'b10ec653b'
-sourceContentHash: 'sha256:7abbe410b7f9a4d8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:27a706024e76921c'
 sourceBodyHash: 'sha256:3232aa3ffbbe2f4d'
-translatedAt: '2026-09-26T05:00:45.279844+00:00'
+translatedAt: '2026-11-18T21:45:03.543332+00:00'
 ---
 
 # Qui compte comme bas salaire : le salaire minimum a tenu bon, le bas salaire a déménagé à la ligne des primes de fin d'année
@@ -175,10 +177,12 @@ Qui compte comme bas salaire ? La réponse se trouve dans la deuxième case du b
 
 ## Lectures complémentaires
 
-- [Loi spécifique sur la livraison à la demande](/fr/society/delivery-platform-law) — Un autre plancher construit par la loi : rémunération minimale par course pour les livreurs, au-delà du plancher, c'est le marché qui décide
-- [Climatisation et pauvreté énergétique](/fr/society/energy-poverty-and-cooling) — Une autre mesure de la pauvreté : en convertissant le revenu en facture d'électricité, la question de pouvoir se payer la climatisation l'été
-- [Pauvreté éducative](/fr/society/learning-poverty-in-taiwan) — Là aussi, c'est une question de définition : comment quantifier les enfants assis en classe mais qui n'apprennent rien
-- [La génération « slasheur » de Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — Les emplois que les gens prennent après les heures de bureau parce que leur salaire principal ne suffit pas, la plupart se situent en dehors de l'échelle décrite dans cet article
+- [Vérifier votre position par rapport au salaire annuel](/income/salary-percentile/) — Insérez votre revenu annuel total dans les déciles de la Direction générale du budget, comptabilité et statistiques pour voir à quel percentile vous vous situez ; découvrez où va l'intégralité de votre salaire dans le dossier spécial [Salaires, impôts et retraite](/income/).
+- [Auto-évaluation de l'accessibilité au logement](/housing/affordability-check/) — Un autre indicateur au-delà du salaire : appliquez un même revenu aux prix de l'immobilier de chaque municipalité pour voir à quel niveau se situe votre taux d'effort hypothécaire.
+- [Loi sur les travailleurs de la livraison](/fr/society/delivery-platform-law) — Un autre filet de sécurité juridique : la rémunération minimale par course pour les livreurs, tout en laissant le marché s'exercer au-dessus de ce plancher.
+- [Problématique de la précarité énergétique liée à la climatisation](/fr/society/energy-poverty-and-cooling) — Un autre indicateur de pauvreté : convertir le revenu en factures d'électricité pour savoir si l'on peut se permettre d'utiliser la climatisation en été.
+- [Pauvreté éducative](/fr/society/learning-poverty-in-taiwan) — Une question de définition similaire : comment calcule-t-on les enfants qui sont assis en classe mais n'apprennent rien ?
+- [La génération « slash » à Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — Pour ceux dont le salaire de base ne suffit pas, les activités complémentaires exercées après le travail se situent pour la plupart en dehors des mesures présentées dans cet article.
 
 ## Sources des images
 

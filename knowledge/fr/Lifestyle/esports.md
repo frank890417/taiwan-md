@@ -2,9 +2,7 @@
 title: 'E-sport : des jeunes des cybercafés à la scène mondiale, l’arène de la résilience et des opportunités de Taïwan'
 description: 'Le titre remporté par TPA en 2012 avait enflammé la passion taïwanaise pour l’e-sport, mais le développement du secteur n’a pas été linéaire. Des difficultés de Tseng Cheng-cheng à l’intégration de l’e-sport dans la loi, l’e-sport taïwanais cherche sa place entre gloire et défis, tout en révélant une résilience singulière et d’immenses opportunités au sein de la chaîne mondiale d’approvisionnement en matériel, de communautés diversifiées et de la vague de l’IA.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '休閒與娛樂'
 tags:
   [
     'e-sport',
@@ -20,26 +18,30 @@ tags:
     'santé mentale',
     'Arena of Valor',
   ]
-readingTime: 15
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/電競.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:64c6862f2f2a8e41'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e2d50ea1d51f4c24'
 sourceBodyHash: 'sha256:4fe3e0718f755e56'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-18T21:48:18.975941+00:00'
 ---
 
-> **Aperçu en 30 secondes :** En 2012, l’équipe taïwanaise Taipei Assassins (TPA) a remporté le championnat du monde de _League of Legends_, enflammant l’enthousiasme d’innombrables Taïwanais pour l’e-sport. Derrière cette gloire se trouve toutefois un parcours difficile : celui d’une industrie taïwanaise de l’e-sport passée des luttes solitaires de ses premiers joueurs à un soutien politique et à une transformation éducative plus récents. Il ne s’agit pas seulement de jeux vidéo, mais d’une histoire complexe de rêves, de réalité et d’identité nationale, qui met aussi en lumière la position clé de Taïwan dans la chaîne mondiale d’approvisionnement du matériel e-sport, ainsi que le charme particulier de communautés de jeu diversifiées. Face à un écosystème industriel en mutation rapide, l’e-sport taïwanais transforme les défis en résilience et en opportunités grâce à l’accompagnement des carrières de joueurs, à l’introduction de technologies d’IA et au développement de lieux locaux, continuant ainsi à rayonner sur la scène mondiale.
+> **Résumé en 30 secondes :** En 2012, l'équipe taïwanaise Taipei Assassins (TPA) a remporté les championnats du monde de 《League of Legends》, enflammant la passion pour l'e-sport chez d'innombrables Taïwanais. Cependant, derrière cette gloire se cache le parcours difficile de l'industrie de l'e-sport à Taïwan, passant de la lutte solitaire des premiers joueurs aux récents soutiens politiques et transformations éducatives. Il ne s'agit pas seulement de jeux vidéo, mais d'une histoire complexe mêlant rêves, réalité et identité nationale ; elle illustre également la position clé de Taïwan dans la chaîne d'approvisionnement mondiale du matériel e-sportif ainsi que le charme unique de sa communauté de joueurs diversifiée. Face à un écosystème industriel en mutation rapide, l'e-sport taïwanais transforme les défis en résilience et en opportunités grâce à l'accompagnement de carrière des joueurs, l'intégration de l'IA et la construction d'infrastructures locales, continuant ainsi de briller sur la scène mondiale.
 
-# E-sport : des jeunes des cybercafés à la scène mondiale, l’arène de la résilience et des opportunités de Taïwan
+# L'e-sport : des adolescents des cybercafés à la scène mondiale, une arène de résilience et d'opportunités pour Taïwan
 
-Le 14 octobre 2012, à Los Angeles, aux États-Unis, des millions de regards étaient tournés vers la finale du championnat du monde S2 de _League of Legends_. Lorsque l’équipe taïwanaise Taipei Assassins (TPA) a battu la redoutable équipe coréenne Azubu Frost 3 à 1 pour remporter le titre mondial, tout Taïwan a exulté. L’aéroport était rempli de fans et de médias enthousiastes ; les joueurs tenaient le trophée de champion et portaient le drapeau national. À cet instant, ils étaient la fierté de Taïwan [^1]. Cette victoire a non seulement fait de TPA une équipe e-sport suivie dans le monde entier, mais elle a aussi propulsé l’e-sport à Taïwan du statut de sous-culture à celui de sujet grand public, déclenchant un engouement sans précédent.
+Le 14 octobre 2012, à Los Angeles (États-Unis), des millions de regards étaient fixés sur la scène de la finale du championnat du monde S2 de 《League of Legends》. Lorsque l'équipe taïwanaise Taipei Assassins (TPA) a battu le redoutable adversaire sud-coréen Azubu Frost par 3 à 1 pour décrocher le titre de champion du monde, tout Taïwan est entré en ébullition. Les aéroports étaient bondés de fans passionnés et de médias ; les membres de l'équipe, tenant le trophée de champion et drapés dans le drapeau national, étaient, à cet instant, la fierté de Taïwan [^1]. Cette victoire a non seulement fait de TPA une équipe d'e-sport mondialement reconnue, mais elle a aussi permis à l'e-sport de passer du statut de sous-culture à celui de sujet de discussion grand public à Taïwan, déclenchant un engouement sans précédent.
 
-Cette gloire ne résume pourtant pas toute l’histoire de l’e-sport taïwanais. Dès 2001, un adolescent taïwanais nommé Tseng Cheng-cheng a remporté l’épreuve _Age of Empires II_ des World Cyber Games (WCG), devenant le premier champion du monde taïwanais d’e-sport. Sur le podium, il avait crié « Taiwan No. 1 ! », mais après son titre, faute d’un environnement industriel suffisamment structuré, il s’est un temps retrouvé manutentionnaire avec un salaire mensuel de 20 000 dollars taïwanais [^5]. Le parcours de Tseng Cheng-cheng n’est pas seulement un tournant dans une trajectoire individuelle ; il reflète aussi les difficultés des débuts de l’e-sport taïwanais, lorsque les joueurs luttaient entre gloire et réalité matérielle.
+Cependant, cette gloire ne représente pas l'intégralité de l'histoire de l'e-sport taïwanais. Dès 2001, un jeune Taïwanais nommé Tseng Cheng-cheng a remporté le titre dans la discipline 《Age of Empires II》 lors du World Cyber Games (WCG), devenant ainsi le premier champion du monde d'e-sport de Taïwan. Il avait crié « Taiwan No. 1 ! » sur le podium, mais en raison d'un environnement industriel précaire après sa victoire, il a fini par travailler comme manutentionnaire avec un salaire mensuel de seulement NT$20 000 [^5]. L'expérience de Tseng Cheng-cheng n'est pas seulement un tournant dans un destin individuel ; elle reflète le dilemme des joueurs aux débuts du développement de l'e-sport à Taïwan, tiraillés entre la gloire et la réalité.
 
-📝 Note du curateur : du « Taiwan No. 1 ! » de Tseng Cheng-cheng aux bagues de champion de TPA, les heures de gloire de l’e-sport taïwanais ont toujours été accompagnées de douleurs de croissance industrielles. Ce contraste constitue la tension centrale de son histoire, et le point de départ de sa résilience.
+📝 Note du commissaire : De l'exclamation « Taiwan No. 1 ! » de Tseng Cheng-cheng aux bagues de champion de TPA, les éclats de gloire de l'e-sport taïwanais ont toujours été accompagnés par les douleurs de croissance de son industrie. Ce contraste constitue la tension centrale du récit de l'e-sport à Taïwan et marque le point de départ de sa résilience.
 
 ## Douleurs de croissance industrielles et tournant politique : des héros déchus à l’institutionnalisation
 
@@ -91,66 +93,66 @@ Le parcours de développement de l’e-sport taïwanais est une histoire de lutt
 
 ## Références
 
-[^1]: UDN Time : [被周杰倫買走！2012年奪冠、點燃台灣電競熱血的台北暗殺星](https://time.udn.com/udntime/story/122833/8627122) — Reportage sur le titre remporté par TPA et ses développements ultérieurs, incluant l’affaire de trafic de drogue impliquant Toyz.
+[^1]: [被周杰倫買走！2012年奪冠、點燃台灣電競熱血的台北暗殺星](https://time.udn.com/udntime/story/122833/8627122) — UDN Time :
 
-[^2]: Taiwan Panorama : [電競現場直擊華麗卻艱難的冒險](https://www.taiwan-panorama.com/Articles/Details?Guid=b0f4f1c8-fcdf-47d3-9a95-3de4ed8ee075) — Reportage approfondi sur la carrière du joueur taïwanais Chen Yi (Ziv) et le développement de l’éducation e-sport.
+[^2]: [電競現場直擊華麗卻艱難的冒險](https://www.taiwan-panorama.com/Articles/Details?Guid=b0f4f1c8-fcdf-47d3-9a95-3de4ed8ee075) — Taiwan Panorama :
 
-[^3]: CTESA, Chinese Taipei Esports Association : [立院三讀電競正式納入運動產業](https://www.ctesa.com.tw/News/Detail/20200828101804645) — Présentation d’une étape importante de l’intégration de l’e-sport dans la loi.
+[^3]: [立院三讀電競正式納入運動產業](https://www.ctesa.com.tw/News/Detail/20200828101804645) — CTESA, Chinese Taipei Esports Association :
 
-[^4]: Yahoo奇摩遊戲電競 : [【專訪】我們專訪了台灣電競教科書作者，一起深談關於電競教育的未來](https://games.yahoo.com.tw/news/interview-ctesa-104135013.html) — Entretien avec un promoteur de l’éducation e-sport, sur son état actuel et son avenir.
+[^4]: [【專訪】我們專訪了台灣電競教科書作者，一起深談關於電競教育的未來](https://games.yahoo.com.tw/news/interview-ctesa-104135013.html) — Yahoo奇摩遊戲電競 :
 
-[^5]: ETtoday新聞雲 : [胖丁呷麵｜曾政承生錯時代？電競選手沒成就是政府的錯？](https://www.ettoday.net/dalemon/post/40505) — Reportage sur les difficultés rencontrées par Tseng Cheng-cheng après son titre, reflet des problèmes de l’environnement e-sport des débuts.
+[^5]: [胖丁呷麵｜曾政承生錯時代？電競選手沒成就是政府的錯？](https://www.ettoday.net/dalemon/post/40505) — ETtoday新聞雲 :
 
-[^6]: Business Today : [搶全球450億大餅台灣電競3大關鍵推手](https://www.businesstoday.com.tw/article/category/80394/post/201707130020/) — Analyse du développement et des défis de l’industrie e-sport taïwanaise, mentionnant le problème de la fuite des talents.
+[^6]: [搶全球450億大餅台灣電競3大關鍵推手](https://www.businesstoday.com.tw/article/category/80394/post/201707130020/) — Business Today :
 
-[^7]: Yuan législatif : [有關發展我國電子競技產業之研析](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — Rapport d’analyse du Yuan législatif sur le développement de l’industrie e-sport nationale, offrant une perspective politique.
+[^7]: [有關發展我國電子競技產業之研析](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — Yuan législatif :
 
-[^8]: Threads : [台灣也是主機板世界第一，華碩微星技嘉華擎四家市佔加起來佔全球75%](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Mentionne la part des marques matérielles taïwanaises sur le marché mondial des cartes mères.
+[^8]: [台灣也是主機板世界第一，華碩微星技嘉華擎四家市佔加起來佔全球75%](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads : (Voir la source originale en lien)
 
-[^9]: LINE TODAY : [靠電競大翻身台廠高階NB全球市佔近半](https://today.line.me/tw/v3/article/xvYRDj) — Reportage sur les performances des fabricants taïwanais sur le marché des ordinateurs portables e-sport haut de gamme.
+[^9]: [靠電競大翻身台廠高階NB全球市佔近半](https://today.line.me/tw/v3/article/xvYRDj) — LINE TODAY :
 
-[^10]: Anue : [2025年全球OLED螢幕出貨量年增92% 華碩穩佔龍頭、微星位居第三](https://news.cnyes.com/news/id/6397507) — Sur les performances d’ASUS et MSI sur le marché des écrans OLED e-sport.
+[^10]: [2025年全球OLED螢幕出貨量年增92% 華碩穩佔龍頭、微星位居第三](https://news.cnyes.com/news/id/6397507) — Anue : (Voir la source originale en lien)
 
-[^11]: Mirror Media : [【GamerBee全文】微笑殺手向玉麟快打旋風界的寶島傳奇](https://www.mirrormedia.mg/story/20171227game_gamerbee) — Reportage approfondi sur la carrière e-sport de Bruce Hsiang Yu-lin et la communauté des jeux de combat.
+[^11]: [【GamerBee全文】微笑殺手向玉麟快打旋風界的寶島傳奇](https://www.mirrormedia.mg/story/20171227game_gamerbee) — Mirror Media :
 
-[^12]: Business Next : [從五股到全球：格鬥電競王林立偉的崛起之路](https://www.bnext.com.tw/article/78962/oil-king) — Reportage sur le parcours e-sport de Lin Li-wei et ses accomplissements dans les jeux de combat.
+[^12]: [從五股到全球：格鬥電競王林立偉的崛起之路](https://www.bnext.com.tw/article/78962/oil-king) — Business Next :
 
-[^13]: Threads : [你不知道的臺灣英雄 林立偉（Oil King） 今天宣布加盟南韓電競隊伍T1 成為「快打旋風6」的代表選手](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Reportage sur l’arrivée de Lin Li-wei dans l’équipe T1.
+[^13]: [你不知道的臺灣英雄 林立偉（Oil King） 今天宣布加盟南韓電競隊伍T1 成為「快打旋風6」的代表選手](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads : (Voir la source originale en lien)
 
-[^14]: Medium : [女性聽不懂數據？一位遊戲實況主的性別刻板印象與「節目效果」反思](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Analyse des stéréotypes de genre auxquels les femmes font face dans le streaming e-sport.
+[^14]: [女性聽不懂數據？一位遊戲實況主的性別刻板印象與「節目效果」反思](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium : (Voir la source originale en lien)
 
-[^15]: Statistiques culturelles : [遊戲・電競產業](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — Données sur les proportions d’hommes et de femmes dans les équipes e-sport taïwanaises.
+[^15]: [遊戲・電競產業](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — Statistiques culturelles :
 
-[^16]: Bureau du développement sportif du gouvernement municipal de Kaohsiung : [高雄電競館](https://sports.kcg.gov.tw/News_Content.aspx?n=6646&s=139091) — Présentation d’informations relatives au Kaohsiung Esports Arena.
+[^16]: [高雄電競館](https://sports.kcg.gov.tw/News_Content.aspx?n=6646&s=139091) — Bureau du développement sportif du gouvernement municipal de Kaohsiung :
 
-[^17]: Gouvernement de la ville de New Taipei : [新北電競基地](https://www.ntpc.gov.tw/ch/home.jsp?id=28&parentpath=0,1,26&mcustomizeid=12026) — Présentation des fonctions et objectifs de la New Taipei Esports Base.
+[^17]: [新北電競基地](https://www.ntpc.gov.tw/ch/home.jsp?id=28&parentpath=0,1,26&mcustomizeid=12026) — Gouvernement de la ville de New Taipei :
 
-[^18]: Yahoo News : [名家論》秋末生／CFO八強後如何重綻光芒](https://tw.news.yahoo.com/%E5%90%8D%E5%AE%B6%E8%AB%96-%E7%A7%8B%E6%9C%AB%E7%94%9F-cfo%E5%85%AB%E5%BC%B7%E5%BE%8C%E5%A6%82%E4%BD%95%E9%87%8D%E7%B6%BB%E5%85%89%E8%8A%92-095542577.html) — Mentionne la brièveté des carrières de joueurs.
+[^18]: [名家論》秋末生／CFO八強後如何重綻光芒](https://tw.news.yahoo.com/%E5%90%8D%E5%AE%B6%E8%AB%96-%E7%A7%8B%E6%9C%AB%E7%94%9F-cfo%E5%85%AB%E5%BC%B7%E5%BE%8C%E5%A6%82%E4%BD%95%E9%87%8D%E7%B6%BB%E5%85%89%E8%8A%92-095542577.html) — Yahoo News :
 
-[^19]: Université Ming Chuan : [網銀國際「不藏私學堂」談談電競轉型爆哥Neal：選擇前需設想最壞情況](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — Reportage sur les programmes d’accompagnement des joueurs retraités par Wanin International.
+[^19]: [網銀國際「不藏私學堂」談談電競轉型爆哥Neal：選擇前需設想最壞情況](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — Université Ming Chuan :
 
-[^20]: GSbet娛樂城 : [電競職業路線全解析：非遊戲類職位也有發展新機會！](https://gsbet188.tw/esports-career-path/) — Mentionne les programmes de soutien psychologique proposés aux joueurs par la CTESA.
+[^20]: [電競職業路線全解析：非遊戲類職位也有發展新機會！](https://gsbet188.tw/esports-career-path/) — GSbet娛樂城 :
 
-[^21]: Instagram : [TEAM TPE NOC](https://www.instagram.com/p/DTS69fFE5a1/) — Mentionne l’accompagnement par des entraîneurs, kinésithérapeutes et psychologues dans le développement sportif.
+[^21]: [TEAM TPE NOC](https://www.instagram.com/p/DTS69fFE5a1/) — Instagram :
 
-[^22]: Garena 傳說對決 : [離冠軍只差一步！《傳說對決》AIC 2025 閃電狼擊敗BAC 成功晉級總決賽](https://gnn.gamer.com.tw/detail.php?sn=296664) — Reportage sur les résultats de Flash Wolves à l’AIC 2025.
+[^22]: [離冠軍只差一步！《傳說對決》AIC 2025 閃電狼擊敗BAC 成功晉級總決賽](https://gnn.gamer.com.tw/detail.php?sn=296664) — Garena 傳說對決 :
 
-[^23]: Yahoo News : [2025《傳說對決》AIC國際賽泰國FS擊敗台灣閃電狼奪世界冠軍](https://tw.news.yahoo.com/2025%E3%80%8A%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA%E3%80%8Baic%E5%9C%8B%E9%9A%9B%E8%B3%BD%E6%B3%B0%E5%9C%8Bfs%E6%93%8A%E6%95%97%E5%8F%B0%E7%81%A3%E9%96%83%E9%9B%BB%E7%8B%BC%E5%A5%AA%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%EF%BC%8C600%E8%90%AC%E7%8D%8E%E9%87%91%E5%B8%B6%E5%9B%9E%E5%AE%B6-092754009.html) — Reportage sur le résultat final de l’AIC 2025.
+[^23]: [2025《傳說對決》AIC國際賽泰國FS擊敗台灣閃電狼奪世界冠軍](https://tw.news.yahoo.com/2025%E3%80%8A%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA%E3%80%8Baic%E5%9C%8B%E9%9A%9B%E8%B3%BD%E6%B3%B0%E5%9C%8Bfs%E6%93%8A%E6%95%97%E5%8F%B0%E7%81%A3%E9%96%83%E9%9B%BB%E7%8B%BC%E5%A5%AA%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%EF%BC%8C600%E8%90%AC%E7%8D%8E%E9%87%91%E5%B8%B6%E5%9B%9E%E5%AE%B6-092754009.html) — Yahoo News :
 
-[^24]: Garena 傳說對決 : [完全制霸泰國勁旅BACON TIME 4:0 勇奪AIC 2024傳說對決國際錦標賽冠軍寶座](https://moba.garena.tw/news/show/5031) — Reportage sur le résultat de l’AIC 2024.
+[^24]: [完全制霸泰國勁旅BACON TIME 4:0 勇奪AIC 2024傳說對決國際錦標賽冠軍寶座](https://moba.garena.tw/news/show/5031) — Garena 傳說對決 :
 
-[^25]: Université Ming Chuan : [網銀國際「不藏私學堂」談談電競轉型爆哥Neal：選擇前需設想最壞情況](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — Mentionne la reconversion de Neal, dit Bao Ge.
+[^25]: [網銀國際「不藏私學堂」談談電競轉型爆哥Neal：選擇前需設想最壞情況](https://mol.mcu.edu.tw/%E7%B6%B2%E9%8A%80%E5%9C%8B%E9%9A%9B%E3%80%8C%E4%B8%8D%E8%97%8F%E7%A7%81%E5%AD%B8%E5%A0%82%E3%80%8D%E8%AB%87%E8%AB%87%E9%9B%BB%E7%AB%B6%E8%BD%89%E5%9E%8B-%E7%88%86%E5%93%A5neal%EF%BC%9A%E9%81%B8/) — Université Ming Chuan :
 
-[^26]: National Taiwan University of Science and Technology : [臺科大攜手NVIDIA、華碩打造學界首座AI數位雙生實驗室加速AI人才培育](https://innc.ntust.edu.tw/p/450-1111-127559,c0.php?Lang=zh-tw) — Reportage sur la création d’un laboratoire de jumeau numérique IA.
+[^26]: [臺科大攜手NVIDIA、華碩打造學界首座AI數位雙生實驗室加速AI人才培育](https://innc.ntust.edu.tw/p/450-1111-127559,c0.php?Lang=zh-tw) — National Taiwan University of Science and Technology :
 
-[^27]: Instagram : [AI + 創意= 未來！ 2025 iLink全國生成式AI創意應用大賽決賽圓滿落幕](https://www.instagram.com/p/DSWFeP0k0OZ/) — Mentionne le concours national iLink 2025 d’applications créatives d’IA générative.
+[^27]: [AI + 創意= 未來！ 2025 iLink全國生成式AI創意應用大賽決賽圓滿落幕](https://www.instagram.com/p/DSWFeP0k0OZ/) — Instagram :
 
-[^28]: Administration du développement industriel, ministère des Affaires économiques : [2025全國智慧製造大數據分析與應用競賽](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=8D33BA1A7B6EB99B) — Mentionne les applications de l’IA dans les sites de fabrication, pouvant être mises en parallèle avec l’entraînement e-sport.
+[^28]: [2025全國智慧製造大數據分析與應用競賽](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=8D33BA1A7B6EB99B) — Administration du développement industriel, ministère des Affaires économiques :
 
-[^29]: Rapport de recherche approfondi de Sam : [2026 台灣線上博弈產業現況與未來發展](https://icasino.tw/taiwan-igaming-industry-development-report/) — Mentionne les risques juridiques et les amendements relatifs à l’industrie taïwanaise des jeux d’argent en ligne.
+[^29]: [2026 台灣線上博弈產業現況與未來發展](https://icasino.tw/taiwan-igaming-industry-development-report/) — Rapport de recherche approfondi de Sam :
 
-[^30]: Instagram : [弘光獵鷹](https://www.instagram.com/p/DXrEvquDseH/) — Mentionne les mécanismes de sanction des équipes contre les infractions commises par les joueurs.
+[^30]: [弘光獵鷹](https://www.instagram.com/p/DXrEvquDseH/) — Instagram :
 
-[^31]: GII : [2026年全球電競市場報告](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — Fournit une estimation de la taille du marché mondial de l’e-sport.
+[^31]: [2026年全球電競市場報告](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — Voir la source originale en lien
 
-[^32]: YouTube : [電競產業含金量超高預估2029將突破12億美元](https://www.youtube.com/watch?v=uXushQL7uQE) — Fournit une estimation de la valeur de l’industrie e-sport.
+[^32]: [電競產業含金量超高預估2029將突破12億美元](https://www.youtube.com/watch?v=uXushQL7uQE) — YouTube : (Voir la source originale en lien)

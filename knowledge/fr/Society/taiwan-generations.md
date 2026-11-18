@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T09:33:59.697193+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-18T22:21:20.664389+00:00'
 ---
 
 > **En 30 secondes :** Les Taïwanais se désignent par « génération de la [numéro] année » (年級生), en prenant le chiffre des dizaines de l'année de naissance selon le calendrier de la République de Chine (ROC). La cinquième génération (五年級) regroupe les nés de 1961 à 1970 (ROC 50-59), jusqu'à la neuvième génération (2001-2010). Le terme « génération fraise » (草莓族), utilisé comme une insulte depuis trente ans, visait à sa première apparition imprimée en 1993 les jeunes de vingt ans, aujourd'hui quinquagénaires[^1] ; il s'est ensuite transmis aux septième, huitième et neuvième générations. Les cibles ont changé, l'étiquette non. Ce qui a véritablement bougé entre ces cinq cohortes, c'est l'escalator de la méritocratie (« l'effort porte ses fruits ») : il a ralenti vers 2002, le lien entre salaires réels et productivité s'est rompu[^2] ; l'entrée a été surélevée par les prix immobiliers, le ratio prix des logements/revenus à Taipei passant de 6,4 fois en 2004 à 15,41 en 2025[^3] ; puis il s'est scindé en deux : celui qui ne dépend que des salaires est pratiquement à l'arrêt, tandis que celui soutenu par l'apport parental des familles continue de fonctionner. Cet article vise à décortiquer cette étiquette.
@@ -172,23 +174,24 @@ Pour la neuvième génération, une tension intéressante apparaît. Cette gén�
 > 📝 **Note du curateur**
 > La combinaison apparemment contradictoire de « proximité culturelle avec la Chine, rejet politique de la Chine » est précisément l'endroit où Taiwan.md ne devrait pas conclure pour le lecteur. Pour un membre de la neuvième génération qui aime les courtes vidéos continentales et soutient le statu quo à Taïwan, cela peut ne pas être du tout contradictoire à ses yeux, car la consommation culturelle et l'identité nationale sont deux choses différentes. Ici, il s'agit d'exposer honnêtement les tensions observées par le Centre de recherche électorale de l'Université Chengchi, Pew, Shen Wei-jie et Taiwan Democracy Lab, permettant au lecteur de voir la complexité de cette génération, et de poser de côté le chapeau de « pro-chinois » ou « anti-chinois ». Stigmatiser la génération suivante est précisément ce que cet article vise à déconstruire.
 
-## Les fraises n'ont pas ramolli, le sol est devenu pentu
+## Les fraises n'ont pas ramolli, c'est le terrain qui s'est incliné
 
-En superposant cinq certificats de naissance, on observe une chose silencieuse. La cohorte de la cinquième génération née en 1963 comptait 427 212 personnes ; celle de la neuvième génération née en 2010 n'en comptait plus que 166 886, moins de 40 % du pic de la cinquième génération, soit plus de 200 000 personnes en moins[^24].
+En superposant cinq certificats de naissance, on observe un phénomène silencieux. Pour la cohorte des élèves de CM2 (cinquième année) de 1963, ils étaient 427 212 à entrer dans ce monde ; pour celle des élèves de troisième (neuvième année) de 2010, ils ne sont plus que 166 886, soit moins de 40 % du pic atteint lors de la cinquième année, une diminution de plus de 200 000 personnes[^24].
 
-Il y a moins de personnes, le gâteau n'a pas grossi, les immeubles sont devenus plus hauts. Sur ce terrain, les générations suivantes, avec la même force, n'atteignent pas les positions atteintes par les générations précédentes. Ce n'est pas parce que les fraises ont ramolli, c'est parce que le sol sous leurs pieds est devenu pentu, et pentu de manière inégale : certains ont une pente douce pavée par leurs parents sous les pieds, d'autres n'ont qu'un mur presque vertical.
+La population diminue, le gâteau ne grossit pas, mais les immeubles se construisent toujours plus haut. Sur un tel terrain, les générations suivantes déploient la même énergie, mais ne parviennent pas à atteindre les sommets gravis par leurs aînés. Ce n'est pas parce que les « fraises » sont devenues molles, c'est parce que le sol sous leurs pieds s'est incliné, et de manière inégale : certains bénéficient encore d'une pente douce aménagée par leurs parents, tandis que d'autres ne font face qu'à une paroi presque verticale.
 
-Le repère de « génération » n'est qu'une entrée. Il est utile car il nous aide à voir comment l'escalator devient de plus en plus pentu ; il ne devrait pas être le point final, car ce qui détermine vraiment si une personne peut grimper ou non, c'est souvent si l'escalator sous ses pieds est alimenté par un salaire ou par l'héritage, et cette fissure est tracée à l'intérieur de chaque génération. Le Pew Research Center a même annoncé en 2023 qu'il utiliserait moins les étiquettes de génération dans ses rapports, car de nombreuses différences attribuées à la « génération » découlent en réalité des caractéristiques démographiques elles-mêmes[^25]. Même l'institution qui a le plus popularisé le classement par génération commence à freiner sur cet outil.
+La coordonnée de l'« année scolaire » n'est au fond qu'un point d'entrée. Elle est utile car elle nous permet de voir comment l'escalator devient chaque année plus raide ; mais elle ne doit pas être une fin en soi, car ce qui détermine réellement si une personne peut monter ou non, c'est souvent de savoir si l'escalator sous ses pieds mène à un salaire ou à un héritage. Cette fracture est tracée au sein de chaque promotion. Le Pew Research Center a même annoncé en 2023 qu'il utiliserait moins les étiquettes générationnelles dans ses rapports, car de nombreuses différences attribuées aux « générations » découlent en réalité des caractéristiques démographiques elles-mêmes[^25]. Même les institutions qui ont été les premières à populariser la classification générationnelle commencent à remettre en question cet outil.
 
-✦ Ainsi, la prochaine fois que vous souhaiterez dire « les jeunes d'aujourd'hui sont des fraises », réfléchissez à une chose : ce terme visait à l'origine, très probablement, vous-même, jeune de vingt ans. Et ce qui a véritablement changé en trente ans, c'est cet escalator sur lequel vous marchiez, qui fonctionnait encore, qui a ralenti, est devenu pentu, et s'est finalement scindé en deux. La phrase de MySpace « Personne ne remarque » a fait mettre un « j'aime » par toute une génération précisément parce que chaque génération a un espace de jeunesse qui lui est propre, auquel les autres ne peuvent pas accéder, et le loyer de cet espace de jeunesse augmente de génération en génération.
+✦ Ainsi, la prochaine fois que vous voudrez dire « la jeunesse d'aujourd'hui est composée de fraises », réfléchissez à ceci : ce terme visait probablement, à l'origine, vous-même lorsque vous aviez vingt ans. Ce qui a réellement changé au cours de ces trente dernières années, c'est cet escalator sur lequel vous avez posé le pied et qui était encore en mouvement ; il a fini par ralentir, s'incliner, puis s'est scindé en deux trajectoires distinctes. Si la phrase du groupe _Wuming Xiaozhan_ (無名小站), « plus personne ne me remarque », a suscité tant de mentions « j'aime » chez toute une génération, c'est précisément parce que chaque génération possède un fragment de jeunesse qui lui est propre et auquel les autres ne peuvent accéder — et le loyer de ce fragment de jeunesse devient, génération après génération, de plus en plus cher.
 
-**Pour aller plus loin** :
+**Lectures complémentaires :**
 
-- [Taïwan : la génération斜槓 (slash)](/fr/society/taiwan-slash-generation-multi-job-economy) — Septième et huitième générations sous une structure de bas-salaires, la mathématique de la survie en divisant un salaire en trois emplois
-- [Taïwan : la perte de cap de la jeunesse](/fr/society/taiwan-youth-career-confusion) — Seize ans d'études, la question la plus fréquente à la fin de l'obtention du diplôme : « Je ne sais pas ce que je veux faire »
-- [Taïwan : la crise de la faible natalité](/fr/society/taiwan-low-birth-rate-crisis) — Les naissances passent de 420 000 à 160 000, comment le gâteau devient de plus en plus petit
-- [Taïwan : le spectre de l'unification et de l'indépendance](/fr/society/taiwan-unification-independence-spectrum) — Le paysage complet de la ligne de partage des identités, de « qui suis-je » à « où allons-nous »
-- [MySpace](/fr/culture/wretch) — Le serveur numérique de la jeunesse de la septième génération, fermé en 2013, réapparu une fois sur Threads en 2025
+- [Auto-évaluation de l'accessibilité au logement](/housing/affordability-check/) — Saisissez vos revenus et le prix de l'immobilier pour calculer votre taux d'effort hypothécaire, en comparaison avec les quatre niveaux standards du Ministère de l'Intérieur et les chiffres officiels des différentes municipalités.
+- [La génération « slash » à Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — La mathématique de la survie des générations des années 70 et 80 qui, face à une structure de bas salaires, doivent diviser un seul revenu en trois jobs.
+- [L'errance professionnelle de la jeunesse taïwanaise](/fr/society/taiwan-youth-career-confusion) — Après seize ans d'études, la question la plus fréquente le jour de la remise des diplômes est : « Je ne sais pas ce que je veux faire ».
+- [La crise de la dénatalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Quand le nombre de naissances s'effondre de 420 000 à 160 000, comment le gâteau devient-il chaque année plus petit ?
+- [Le spectre de l'indépendance et de l'unification à Taïwan](/fr/society/taiwan-unification-independence-spectrum) — Panorama du gouffre identitaire, de « qui suis-je » à « où allons-nous ».
+- [Wuming Xiaozhan](/fr/culture/wretch) — Le serveur numérique de la jeunesse des années 90 ; fermé en 2013, il a refait surface sur Threads en 2025.
 
 ## Sources des images
 

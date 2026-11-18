@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-08-09T07:24:59.703149+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-18T22:45:39.371063+00:00'
 ---
 
 > **En 30 secondes :** En 2003, le SRAS a tué 73 personnes à Taïwan, et la mise en quarantaine précipitée de l'hôpital Hoping est restée comme un traumatisme collectif dans l'histoire de la santé publique du pays. Taïwan a ensuite reconstruit de fond en comble tout son système épidémiologique : le Centre de contrôle des maladies a été élevé en rang, le mécanisme du Centre de commandement central des épidémies (CECC) a été inscrit dans la loi, et les protocoles de contrôle des infections ont été entièrement revus. Lorsque la COVID-19 s'est propagée à l'échelle mondiale en 2020, Taïwan a maintenu une transmission communautaire quasi nulle pendant les 18 premiers mois — un exploit salué internationalement sous le nom de « modèle taïwanais ». En avril 2026, Taïwan a enregistré son premier cas autochtone de grippe aviaire H7N7 transmise à l'humain : le système de lutte contre les épidémies est à nouveau mis à l'épreuve.
@@ -79,24 +81,26 @@ C'est précisément l'héritage du SRAS à l'œuvre : un organisme spécialisé 
 | Équipements insuffisants | Système de masques nominatif opérationnel en 72 h | Masques distribués immédiatement aux éleveurs |
 | Manque de transparence   | Conférences de presse quotidiennes                | Séquençage génomique publié en temps réel     |
 
-## L'assurance maladie : l'infrastructure invisible de la lutte épidémiologique
+## L'assurance maladie : l'infrastructure invisible de la prévention
 
-Le socle du système de lutte contre les épidémies à Taïwan, c'est l'assurance maladie universelle (全民健康保險), mise en place en 1995.
+À la base du système de prévention de Taïwan se trouve l'[Assurance santé nationale](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance/), lancée en 1995.
 
-23,4 millions d'habitants partagent une seule base de données d'assurance maladie et une seule carte. Cette carte est devenue, pendant la COVID-19, une infrastructure épidémiologique fondamentale : le système nominatif de distribution de masques reposait sur la carte d'assurance maladie, l'historique de voyages y était rattaché, les données de vaccination y étaient inscrites. Sans cette base de données couvrant l'ensemble de la population, le modèle taïwanais n'aurait pas pu exister[^10].
+23,4 millions de personnes partagent une même base de données et une carte d'assurance maladie unique. Durant la COVID-19, cette carte est devenue une véritable infrastructure de prévention : l'enregistrement nominatif des masques reposait sur la carte d'assurance maladie, le suivi des antécédents de voyage s'appuyait sur son interconnexion, et les registres de vaccination y étaient inscrits. Sans cette base de données couvrant l'ensemble de la population, le « modèle taïwanais » n'aurait pas pu voir le jour[^10].
 
-> **✦** « Le SRAS est la leçon la plus douloureuse de l'histoire de la santé publique taïwanaise. Mais les leçons les plus douloureuses forment les meilleurs élèves. »
+> **✦** « Le SRAS a été la leçon la plus douloureuse de l'histoire de la santé publique à Taïwan. Mais les leçons les plus douloureuses forment les meilleurs élèves. »
 
-Vingt-trois ans après la mise sous scellés de l'hôpital Hoping, le bâtiment est toujours debout sur la rue Zhonghua à Taipei. Certains soignants qui passent aux urgences se souviennent encore de ce qui s'est passé. He Songrong a dit qu'il n'en voulait à personne, mais que cette cicatrice « n'était pas tout à fait guérie ». Peut-être n'a-t-elle pas besoin de l'être. Peut-être que l'organe le plus important d'un système de lutte contre les épidémies, c'est précisément la capacité de se souvenir de la douleur.
+Vingt-trois ans après la mise en quarantaine de l'hôpital Heping, le bâtiment se dresse toujours sur la rue Zhonghua, à Taipei. Parmi le personnel médical entrant dans les urgences, certains se souviennent encore de ce qui s'est passé à l'époque. He Songrong affirme qu'il n'éprouve aucune rancœur, mais que cette cicatrice « n'a pas totalement guéri ». Peut-être n'a-t-elle pas besoin de guérir. Peut-être que l'organe le plus important d'un système de prévention est justement sa capacité à se souvenir de la douleur.
 
-**Pour aller plus loin**
+**Lectures complémentaires :**
 
-- [La salle des fumeurs de Taipei : la boîte de verre qui respire dans une ville sans fumée](/fr/society/taipei-smoking-room) — Le dernier chapitre d'une lutte de quarante ans contre le tabagisme, alors que le front de bataille se déplace de l'intérieur vers l'extérieur
+- [Les fumoirs de Taipei : dans une ville sans tabac, cette boîte de verre qui respire](/fr/society/taipei-smoking-room) — Le dernier chapitre d'une marche de quarante ans pour la lutte contre le tabagisme, où le champ de bataille s'est déplacé de l'intérieur vers l'extérieur.
 
-- Système médical et assurance maladie universelle à Taïwan — L'infrastructure de base du système épidémiologique : la base de données de 23,4 millions d'assurés
-- Audrey Tang — La ministre déléguée au numérique derrière la carte des masques
-- Système de médecine d'urgence face aux catastrophes à Taïwan — Du séisme du 21 septembre au SRAS : comment les catastrophes ont transformé la médecine
-- [Deux lois sur la médecine régénérative × 30 ans d'ARNm](/fr/society/taiwan-regenerative-medicine-laws) — L'achat de BNT en 2021 et la législation sur la thérapie cellulaire : double récit en parallèle, prolongement du volet COVID de cet article
+- [Le système médical taïwanais et l'assurance santé nationale](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance) — L'infrastructure de base du système de prévention : la base de données de l'assurance maladie pour 23,4 millions de personnes.
+- [Audrey Tang](/fr/people/audrey-tang) — La commissaire numérique derrière la carte des masques.
+- [Le système médical d'urgence à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — Du séisme de 921 au SRAS : comment les catastrophes ont propulsé l'évolution médicale.
+- [Dossier spécial sur la santé et les soins de longue durée](/health/) — Systèmes, histoire et finances de l'assurance maladie et des soins de longue durée, avec simulateurs pour les aides aux soins et les cotisations d'assurance maladie.
+- [COVID-19 et vaccins à Taïwan](/fr/society/taiwan-covid-pandemic-and-vaccines) — Ce système mis en place après le SRAS a été testé dans sa globalité entre 2020 et 2023 : les frontières ont été tenues pendant dix-huit mois, mais la troisième dose pour les personnes âgées n'a pas suivi le rythme.
+- [Lois sur la médecine régénérative × 30 ans d'ARNm](/fr/society/taiwan-regenerative-medicine-laws) — Un récit en deux volets entre l'achat du BNT en 2021 et la législation sur les thérapies cellulaires, offrant une perspective complémentaire à la prévention de la COVID présentée ici.
 
 ## Références
 
