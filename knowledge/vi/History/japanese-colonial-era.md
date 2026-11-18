@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
-translatedAt: '2026-07-31T00:00:00Z'
+translatedAt: '2026-11-18T15:46:40.156680+00:00'
 ---
 
 # Thời kỳ Nhật trị

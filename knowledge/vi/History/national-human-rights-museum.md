@@ -33,11 +33,13 @@ sporeLinks:
     platform: 'threads'
     date: '2026-05-26'
     url: 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
-translatedAt: '2026-08-09T08:07:25+08:00'
+translatedAt: '2026-11-18T15:51:16.229430+00:00'
 ---
 
 # Bảo tàng Nhân quyền Quốc gia: Những cái tên không được viết trên Bia Nước mắt

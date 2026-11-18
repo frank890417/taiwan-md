@@ -2,9 +2,7 @@
 title: 'Dân chủ hóa'
 description: "Ngày 18 tháng 3 năm 1980, tại Tòa án quân sự Cao Hùng, Thi Minh Đức đã từ bỏ bản tự biện dài 60.000 chữ, thay vào đó yêu cầu thẩm phán tuyên án tử hình. Trong cùng phiên tòa đó, ba luật sư trẻ đại diện bào chữa cho bị cáo là Trần Thủy Biển, Tạ Trường Đình và Tô Trinh Xương; hai mươi năm sau, tất cả đều trở thành Tổng thống hoặc Trưởng hành chính viện. Một phiên tòa vốn được kỳ vọng sẽ 'giết gà dọa khỉ' lại vô tình tạo ra thế hệ lãnh đạo chính trị tiếp theo của Đài Loan."
 date: 2026-03-27
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     'Lịch sử',
@@ -13,14 +11,18 @@ tags:
     'Sự kiện Đảo Đẹp',
     'Vận động học sinh Hoa bách hợp',
   ]
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: 'dbaf28954'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0f572861e1f79f7d'
 sourceBodyHash: 'sha256:b51e57f04bd06fc2'
-translatedAt: '2026-07-18T18:59:52+08:00'
+translatedAt: '2026-11-18T15:28:11.189168+00:00'
 ---
 
 # Dân chủ hóa

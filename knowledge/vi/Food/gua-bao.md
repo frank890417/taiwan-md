@@ -21,11 +21,13 @@ image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
 sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-18T15:04:48.554038+00:00'
 ---
 
 ![Bánh bao kẹp tại Huaxi Street Nguồn Phương, bao quanh nửa tròn gập đôi chứa đầy thịt lợn kho, dưa chua, bột lạc và rau mùi—là một trong những bánh bao kẹp truyền thống đặc trưng nhất của Đài Bắc](/article-images/food/gua-bao-yuanfang-2023.webp)

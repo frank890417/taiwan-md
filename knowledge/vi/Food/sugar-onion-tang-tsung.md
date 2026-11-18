@@ -2,9 +2,7 @@
 title: 'Kẹo đường cống (Tang-tsung): "Đường kháng chiến" giấu trong những lỗ hổng trắng'
 description: 'Những năm 1940, nông dân Đài Loan để tránh sự độc quyền của cảnh sát Nhật đối với đường mía, đã kéo sợi đường sẫm màu nâu đậm thành những ống trắng như hành — "nghệ thuật ngụy trang" của nông dân, tinh hoa của trí tuệ gốc rễ trăm năm. Mỗi miếng kẹo đường cống bên trong có cấu trúc chính xác 16 lỗ lớn và 16 lỗ nhỏ, đỡ đỡ nên một thế kỷ dài của sự kháng chiến ngọt giòn của Đài Loan.'
 date: 2026-04-23
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Ẩm thực',
@@ -15,15 +13,19 @@ tags:
     'Lịch sử ngành đường',
     'Văn hóa kháng chiến',
   ]
-readingTime: 15
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
-featured: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-07-25T10:53:12+08:00'
+translatedAt: '2026-11-18T15:45:37.324567+00:00'
 ---
 
 # Kẹo đường cống (Tang-tsung): "Đường kháng chiến" giấu trong những lỗ hổng trắng

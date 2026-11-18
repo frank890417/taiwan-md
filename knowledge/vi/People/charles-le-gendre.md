@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李仙得.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: '2026-07-26T15:32:43+08:00'
+translatedAt: '2026-11-18T14:48:29.500613+00:00'
 ---
 
 # Li Xian De: Người ký hiệp định và người bán dây là một người

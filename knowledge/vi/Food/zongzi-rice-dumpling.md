@@ -1,152 +1,154 @@
 ---
-title: 'Bánh tro'
-description: 'Bánh tro Đài Loan không phải là một món ăn đơn lẻ, mà là bốn ký ức đảo khác nhau chồng chất lên nhau: Minh Nam, Khách Gia, Ngoại tỉnh, Nguyên dân, mỗi miếng cắn vào đều là con đường về.'
+title: 'Bánh chưng (Zongzi)'
+description: 'Bánh chưng Đài Loan không chỉ là một món ăn, mà là sự giao thoa của bốn ký ức đảo quốc: Mân Nam, Khách Gia, Ngoại tỉnh và Thổ dân. Mỗi miếng cắn đều là hành trình tìm về nguồn cội.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
   [
     'Tết Đoan Ngọ',
     'Văn hóa ẩm thực',
-    'Minh Nam',
+    'Mân Nam',
     'Khách Gia',
     'Ngoại tỉnh',
-    'Nguyên dân',
-    'Món ăn ngày lễ',
+    'Thổ dân',
+    'Thực phẩm lễ hội',
   ]
-readingTime: 7
+subcategory: '節慶飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-07-25T09:23:02+08:00'
+translatedAt: '2026-11-18T22:56:05+08:00'
 ---
 
-# Bánh tro
+# Bánh chưng (Zongzi)
 
-## Tóm tắt 30 giây
+## Tổng quan trong 30 giây
 
-Bánh tro của Đài Loan không có câu trả lời chuẩn mực. Bắc bộ hấp, Nam bộ luộc; gói bằng vỏ măng tre quế và gói bằng lá tháng tảo, là hai triết lý hoàn toàn khác biệt; bánh tro rau (càizòng) mà người Tainan ăn sáng, và cinavu trong lễ hội của người Paiwan, đều gọi là "bánh tro" (zòng), nhưng thực tế gần như không có bất kỳ liên hệ nào. Mỗi năm Tết Đoan Ngọ, "chiến tranh bánh tro Nam-Bắc" là chương trình cố định trên mạng Đài Loan — tranh cãi không phải về loại nào ngon hơn, mà về phiên bản của mẹ hay bà mà mỗi người ghi nhớ trong ký ức.[^1]
-
----
-
-## Một ngày lễ, bốn ký ức
-
-Bánh tro Tết Đoan Ngọ, ở Đài Loan ý nghĩa từ không chỉ là "niềm niệm Qu Yuan".
-
-Đài Loan là một đảo của người di cư, bánh tro là một chỉ mục của người di cư. Thời Minh-Thanh, người di cư Minh Nam và Việt Đông mang theo bánh tro quê hương của họ; sau năm 1949, người Ngoại tỉnh từ Hồ Nam, Chiết Giang, Quảng Đông theo chính phủ rút lui đến Đài Loan, lại mang theo một lô cách làm hoàn toàn khác. Trước đó, trên núi người Paiwan, Rukai và Puyuma đã có món ăn gói lá riêng — không gọi là bánh tro, cũng không liên quan đến Tết Đoan Ngọ, là một truyền thống cổ xưa hơn.[^2]
-
-Hôm nay bạn mua được ở Đài Loan, phía sau đứng ít nhất bốn ký ức dân tộc khác nhau.
+Tại Đài Loan, không có câu trả lời tiêu chuẩn cho món bánh chưng. Miền Bắc hấp, miền Nam luộc; gói bằng vỏ măng tre hay lá nguyệt thảo mang những triết lý hoàn toàn khác biệt; món bánh chay ăn kèm bữa sáng của người Tainan và món _cinavu_ trong lễ tế của người Paiwan đều được gọi là "bánh chưng", nhưng thực tế chúng gần như không có mối liên hệ nào với nhau. Mỗi năm vào Tết Đoan Ngọ, "cuộc đại chiến bánh chưng Nam - Bắc" luôn là chương trình cố định trên mạng xã hội Đài Loan — điều tranh cãi không phải loại nào ngon hơn, mà là phiên bản của người mẹ hay người bà trong ký ức của mỗi người. [^1]
 
 ---
 
-## Chiến tranh Nam-Bắc: Cuối cùng đang tranh gì
+## Một lễ hội, bốn miền ký ức
 
-Mỗi năm tháng Năm, cuộc thảo luận gay gắt nhất trên mạng Đài Loan không phải chính trị, mà là bánh tro.
+Tại Đài Loan, ý nghĩa của bánh chưng vào dịp Tết Đoan Ngọ chưa bao giờ chỉ dừng lại ở việc "tưởng nhớ Khuất Nguyên".
 
-Cốt lõi khác biệt chỉ có một khẩu quyết: **Nam luộc, Bắc hấp**.
+Đài Loan là một đảo quốc di dân, và bánh chưng chính là một chỉ dấu của sự di cư. Vào thời Minh - Thanh, những người di dân từ vùng Mân Nam và Quảng Đông đã mang theo hương vị quê hương họ; sau năm 1949, những người ngoại tỉnh từ Hồ Nam, Chiết Giang, Quảng Đông theo chính phủ đến Đài Loan đã mang theo một cách chế biến hoàn toàn khác biệt. Trước đó, các dân tộc Paiwan (排灣族), Rukai (魯凱族) và Puyuma (卑南族) trên núi cao đã có những món ăn gói bằng lá của riêng mình — chúng không gọi là bánh chưng và cũng không liên quan đến Tết Đoan Ngọ, mà là một truyền thống cổ xưa khác. [^2]
 
-Cách làm bánh tro Bắc bộ, là cho gạo nếp dài và nhân xào đến chín tới, khái niệm gần với "gói cơm chiên vào lá tre hấp". Thành phẩm hạt gạo tách biệt rõ rệt, dai dai, mang hương khô của lá tre. Truyền thống dùng vỏ măng tre quế — màu nâu nhạt, chất địa khô ráo, miền núi Bắc Đài Loan sản xuất nhiều, dễ lấy.[^3]
-
-Cách làm bánh tro Nam bộ ngược lại: gạo nếp tròn sống và nhân gói cùng nhau, trực tiếp cho vào nồi nước luộc chín. Vì nguyên quả ngâm trong nước luộc, hạt gạo hút hết nước sốt và hương lá bánh tro, ăn mềm nhũn, ẩm ướt, hơi dính. Lá bánh tro dùng lá tre dài, gói thành hình tam giác.[^4]
-
-Hai cách làm không có đúng sai, chỉ có vấn đề "nhà bạn là mẹ nào".
-
-> Theo phỏng vấn, sự khác biệt sở thích bánh tro Nam-Bắc, chủ yếu phản ánh "nhận diện địa phương", chứ không phải bản sắc dân tộc.[^5]
+Món bánh chưng bạn mua tại Đài Loan ngày nay mang trong mình ký ức của ít nhất bốn nhóm cộng đồng khác nhau.
 
 ---
 
-## Bánh tro rau Tainan: Loại đơn giản nhất
+## Đại chiến Nam - Bắc: Thực chất tranh cãi điều gì?
 
-Nếu bạn đi Tainan, một trong những lựa chọn sáng là bánh tro rau (càizòng).
+Mỗi tháng Năm, chủ đề thảo luận sôi nổi nhất trên mạng xã hội Đài Loan không phải là chính trị, mà là bánh chưng.
 
-Không cho thịt, chỉ có gạo nếp và đậu phộng, gói lá tháng tảo, luộc nước, chấm tương đen, rắc bột đậu phộng. Nhân cực kỳ đơn giản, nhưng chính "đơn giản" ấy khiến người ta nghiện: hương thanh nhẹ nhàng tỏa ra khi lá tháng tảo hấp chín, là thứ lá tre và vỏ măng tre quế không cho ra được. Người Tainan gọi đây là "bánh tro rau", đôi khi cũng gọi "bánh tro đậu phộng", người ăn chay cũng ăn được.
+Sự khác biệt cốt lõi nằm ở một quy tắc: **Nam luộc, Bắc hấp**.
 
-Minh Hòa bánh tro rau quận Trung Tây Tainan, mỗi ngày sớm 5 giờ rưỡi mở bán, chưa đầy hai giờ bán hết đóng cửa, được gọi là "bán hết bánh tro rau". Bánh tro Li thành lập năm 1946, truyền thừa ba đời, chọn gạo nếp trắng thuần và đậu phộng, vẫn giữ cách gói bốn lớp lá tháng tảo.[^6]
+Cách làm bánh chưng miền Bắc là xào gạo nếp dài và các nguyên liệu phụ cho đến khi chín tái, khái niệm gần giống với việc "hấp cơm trộn dầu vào trong lá tre". Thành phẩm có hạt gạo tơi, dai và mang hương thơm khô của lá tre. Theo truyền thống, người ta dùng vỏ măng tre — loại vỏ màu nâu nhạt, kết cấu hơi khô, rất phổ biến ở vùng núi Bắc Đài Loan nên dễ dàng tìm kiếm. [^3]
 
-Không có hàn trân hải vị, không có lòng đỏ trứng muối và sò khô. Nhưng ở Tainan, đây mới là dáng vẻ buổi sáng Tết Đoan Ngọ nên có.
+Cách làm bánh chưng miền Nam thì ngược lại: gạo nếp tròn sống và nhân được gói cùng nhau, sau đó thả trực tiếp vào nồi nước luộc cho đến khi chín. Vì được ngâm trong nước để luộc, hạt gạo thấm đẫm nước dùng và hương vị của lá gói, khi ăn sẽ có cảm giác mềm dẻo, ẩm và hơi dính. Lá gói thường là lá tre dài, gói thành hình tam giác. [^4]
 
----
+Hai cách làm không có đúng hay sai, chỉ là vấn đề "mẹ nhà bạn thuộc kiểu nào" mà thôi.
 
-## Bánh tro Ngoại tỉnh: Hình dáng nỗi nhớ quê
-
-Trước năm 1949, Đài Loan chắc chắn không ai nghe "bánh tro Huzhou".
-
-Năm đó, theo chính phủ chuyển đến Đài Loan, lượng lớn quân dân mang hương vị Giang Nam vào các khu ổ chuột (juàncūn) Đài Loan. Bánh tro Huzhou hình thoi dài bốn góc, to hơn bánh tro thường, dùng thịt ba chỉ và lòng đỏ trứng muối gói vào gạo nếp, tiếp đó dùng tương và rượu trắng nêm nếm, vị ngọt mặn phong cách Giang Nam. Bánh tro Quảng Đông nhân hơn hoa lệ: xá xíu, lòng đỏ trứng muối, tôm khô, hạt sen, đôi khi còn thêm hạt dẻ.[^7]
-
-Những bánh tro này trong ổ chuột truyền qua đời này đến đời khác. Những lần thử ban đầu chỉ để tái hiện hương vị quê hương, dần trở thành một phần bản đồ ẩm thực Đài Loan. Hôm nay nhiều cửa hàng tại Đài Loan mang tên "bánh tro Huzhou" hay "bánh tro Quảng Đông", phía sau thường là người Ngoại tỉnh thế hệ hai hoặc ba, đang gói gọn kỷ ức mà ông bà không mang đi được, nhưng dùng đồ ăn mang đến.
+> Theo các cuộc phỏng vấn, sự khác biệt trong sở thích giữa bánh chưng Nam và Bắc chủ yếu phản ánh "bản sắc địa phương", chứ không phải bản sắc tộc người. [^5]
 
 ---
 
-## Món gói lá của người Nguyên dân: Không liên quan đến Đoan Ngọ
+## Bánh chay Tainan: Sự giản đơn thuần khiết
 
-Cinavu của người Paiwan, abai của người Rukai và Puyuma, bề ngoài trông như bánh tro, nhưng với Tết Đoan Ngọ hoàn toàn không liên quan.
+Nếu bạn đến Tainan (Đài Nam), một trong những lựa chọn cho bữa sáng là bánh chay (_cai zong_).
 
-Truyền thống, cinavu và abai xuất hiện trong lễ tế, ngày lễ, và dịp sum họp bạn bè, biểu thị kính trời, kính đất, cảm tạ tổ tiên. Cách làm: trên lá tháng tảo trước trải một lớp lá mùi (giả chua mùi), cho lúa chèo (hoặc gạo nếp), thịt heo, gói hình chữ nhật, hấp chín. Lá mùi mỏng mỏng dính vào gạo, bóc lá tháng tảo ra ăn cả lá — giàu chất xơ, có tác dụng giúp tiêu hóa, người dân tộc nói đó là trí tuệ của tổ tiên.[^8]
+Món này không có thịt, chỉ có gạo nếp và đậu phộng, được gói bằng lá nguyệt thảo, luộc chín, chấm với tương nước tương và rắc bột đậu phộng. Nhân bánh cực kỳ đơn giản, nhưng chính sự "đơn giản" đó lại gây nghiện: hương thơm thanh khiết tỏa ra từ lá nguyệt thảo sau khi nấu là thứ mà lá tre hay vỏ măng tre không thể mang lại được. Người Tainan gọi đây là "bánh chay", đôi khi cũng gọi là "bánh đậu phộng", và người ăn chay hoàn toàn có thể thưởng thức.
 
-Phiên bản của người Amis gọi là alifongfong (A-li-phụng-phụng), thông gọi "bánh tro người yêu" — không phải vì ăn ngày Valentine, mà vì đây là bánh gói vợ làm cho chồng đi săn mang theo như "hộp cơm của tình yêu". Bốn lá linđầu (lin tou) bỏ gai 編织 thành túi, cho gạo nếp và thịt heo mặn, niêm phong lại, thành một gói cơm có thể vác lên lưng.[^9]
+Tiệm bánh chay Minghe (明和菜粽) tại quận Trung Tây, Tainan, bắt đầu bán từ 5 giờ rưỡi sáng mỗi ngày và hết hàng trong chưa đầy hai tiếng, được mệnh danh là "bánh chay bán hết sạch". Tiệm bánh chưng Lý (李), thành lập từ năm 1946 và truyền qua ba thế hệ, vẫn sử dụng gạo nếp trắng tinh và đậu phộng, cùng phương pháp gói bằng bốn lớp lá nguyệt thảo. [^6]
 
-Trạm cải tiến nông nghiệp Taitung thậm chí tổ chức "Cuộc thi món ăn phong vị A Bai toàn quốc", các đầu bếp bộ lạc mang theo khẩu vị gia truyền so tài,有人 gọi là "hội võ thuật giới abai".[^10]
-
----
-
-## Mỗi năm Tết Đoan Ngọ, Đài Loan bán bao nhiêu bánh tro
-
-Công ty Nông sản Taipei (Bắc Nông) mỗi năm bánh tro Đoan Ngọ là chỉ tiêu thị trường.
-
-Ngày 28 tháng 4 năm 2025, Tết Đoan Ngọ chưa đến, doanh số bánh tro Đoan Ngọ Bắc Nông đã vượt 190.000 quả, phá vỡ kỷ lục 165.000 quả năm 2024, mục tiêu nhắm tới 210.000 quả, tăng trưởng năm ước tính khoảng 30%. Bắc Nông còn cùng ngày hợp tác livestream mạng, chưa đầy một giờ bán 14.000 quả, 550.000 lượt xem.[^11]
-
-Góc nhìn khác: lượng thảo luận "bánh tro" trên mạng xã hội, mùa Đoan Ngọ 2023 cao tới 223.000 bài, 2025 giảm xuống 165.000 bài, nhà nghiên cứu chỉ ra nguyên nhân之一 là sự xuất hiện của "bánh tro lạnh" (bīngzòng) và các hương vị đổi mới, làm phân tán thảo luận.[^12]
-
-Bánh tro vẫn là biểu tượng Đoan Ngọ của Đài Loan, nhưng ranh giới của nó đang mở rộng — từ bánh tro thịt truyền thống đến phiên bản cao cấp khách sạn, từ bánh tro rau chay đến bánh tro lạnh trà xanh, mỗi thế hệ đều đang định nghĩa lại "bánh tro nên là gì".
+Không có sơn hào hải vị, không có lòng đỏ trứng muối hay cồi sò điệp. Nhưng tại Tainan, đây mới chính là dáng vẻ nên có của một buổi sáng Tết Đoan Ngọ.
 
 ---
 
-## Tại sao chuyện này đáng nói
+## Bánh chưng ngoại tỉnh: Hình dáng của nỗi nhớ quê hương
 
-Cuộc tranh cãi bánh tro Đài Loan, bề mặt là tranh khẩu vị, bản chất là hình thu nhỏ của nhận diện bản sắc.
+Trước năm 1949, có lẽ chưa ai ở Đài Loan từng nghe đến "bánh chưng Hồ Châu".
 
-Bạn nghĩ "bánh tro phải là" hình dáng nào, vì trong căn bếp bạn lớn lên, có người ngày Tết Đoan Ngọ trải lá tre trên bàn, dùng tay nặn gạo thành hình dáng đó. Cái động tác, cái hương thơm, chính là tọa độ của bạn.
+Năm đó, dòng người quân dân theo chính phủ di cư sang Đài Loan đã mang hương vị Giang Nam vào các khu quân đội (quyến thôn). Bánh chưng Hồ Châu có hình chữ nhật dài bốn góc, kích thước lớn hơn bánh chưng thông thường, bên trong là thịt ba chỉ và lòng đỏ trứng muối gói cùng gạo nếp, được tẩm ướp bằng nước tương và rượu trắng, mang hương vị mặn ngọt đặc trưng của vùng Giang Nam. Bánh chưng Quảng Đông thì nhân còn xa hoa hơn: xá xíu, lòng đỏ trứng muối, tôm khô, hạt sen, đôi khi có thêm hạt dẻ. [^7]
 
-Bánh tro Bắc, bánh tro Nam, bánh tro Khách Gia, bánh tro Ngoại tỉnh, bánh tro rau, bánh tro lúa chèo — không phải loại nào "hơn Đài Loan", mà mỗi loại đều là câu chuyện đảo thực sự đã xảy ra.
+Những chiếc bánh này đã được truyền qua nhiều thế hệ trong các khu quyến thôn. Những nỗ lực ban đầu nhằm tái hiện hương vị quê nhà đã dần trở thành một phần của bản đồ ẩm thực Đài Loan. Ngày nay, nhiều cửa hàng tại Đài Loan lấy tên "bánh chưng Hồ Châu" hay "bánh chưng Quảng Đông", đứng sau họ thường là thế hệ thứ hai hoặc thứ ba của người ngoại tỉnh, đang gói ghém những ký ức mà ông bà họ không thể mang theo, nhưng đã gửi gắm lại qua ẩm thực.
 
-Chỉ là không ai chịu thua.
+---
+
+## Món ăn gói lá của Thổ dân: Không liên quan đến Tết Đoan Ngọ
+
+Món _cinavu_ của người Paiwan, hay _abai_ của người Rukai và Puyuma, nhìn bề ngoài giống bánh chưng nhưng hoàn toàn không liên quan đến Tết Đoan Ngọ.
+
+Theo truyền thống, _cinavu_ và _abai_ xuất hiện trong các buổi tế lễ, lễ hội hoặc dịp đoàn tụ gia đình, đại diện cho lòng kính trọng trời đất và tổ tiên. Cách làm là: trải một lớp lá cây giả chua (_Phyllanthus_) lên lá nguyệt thảo, cho kê (hoặc gạo nếp) và thịt lợn vào, gói thành hình chữ nhật rồi đem hấp/luộc. Lớp lá giả chua mỏng dính vào gạo, khi mở lá nguyệt thảo ra, người ta sẽ ăn luôn cả lớp lá này — rất giàu chất xơ và có tác dụng hỗ trợ tiêu hóa, người dân tộc gọi đây là trí tuệ của tổ tiên. [^8]
+
+Phiên bản của người Amis (阿美族) gọi là _alifongfong_ (阿里鳳鳳), thường được gọi là "bánh chưng tình nhân" — không phải vì ăn vào ngày lễ tình nhân, mà vì đây là "hộp cơm tình yêu" mà người vợ gói cho chồng mang theo khi đi săn. Bốn lá cây mây (_Lindernia_) được tước gai và đan thành túi, cho gạo nếp và thịt lợn muối vào, buộc kín lại, tạo thành một gói cơm có thể đeo trên lưng. [^9]
+
+Trạm cải tiến nông nghiệp Đài Đông thậm chí còn tổ chức "Cuộc thi hương vị A Bai toàn quốc", nơi các đầu bếp từ các bộ lạc mang đến những hương vị gia truyền để so tài, được ví như một "đại hội võ lâm" của giới _abai_. [^10]
+
+---
+
+## Mỗi năm Tết Đoan Ngọ, Đài Loan bán được bao nhiêu chiếc bánh chưng?
+
+Doanh số bánh chưng Đoan Ngọ hàng năm của Công ty Nông sản Bắc Đài (Bắc Nông) là thước đo cho xu hướng thị trường.
+
+Vào ngày 28 tháng 4 năm 2025, dù chưa đến Tết Đoan Ngọ, doanh số bán bánh chưng của Bắc Nông đã vượt qua 190.000 chiếc, phá kỷ lục 165.000 chiếc của năm 2024, hướng tới mục tiêu 210.000 chiếc với tốc độ tăng trưởng hàng năm ước tính khoảng 30%. Bắc Nông còn hợp tác livestream trực tuyến ngay trong ngày đó, bán được 14.000 chiếc trong chưa đầy một giờ với 550.000 lượt xem. [^11]
+
+Ở một góc nhìn khác: lượng thảo luận về "bánh chưng" trên mạng xã hội vào mùa Đoan Ngọ năm 2023 đạt tới 223.000 bài viết, nhưng đến năm 2025 đã giảm xuống còn 165.000 bài. Các nhà nghiên cứu chỉ ra rằng một trong những nguyên nhân là sự xuất hiện của các hương vị sáng tạo như "bánh chưng đá bào" khiến sự thảo luận bị phân tán. [^12]
+
+Bánh chưng vẫn là biểu tượng của Tết Đoan Ngọ tại Đài Loan, nhưng ranh giới của nó đang mở rộng — từ bánh thịt truyền thống đến phiên bản cao cấp của khách sạn, từ bánh chay đến bánh matcha đá bào, mỗi thế hệ đều đang định nghĩa lại "bánh chưng nên là như thế nào".
+
+---
+
+## Tại sao điều này đáng để nói tới?
+
+Những tranh luận về bánh chưng ở Đài Loan, bề ngoài là cuộc chiến về khẩu vị, nhưng bản chất là hình ảnh thu nhỏ của sự nhận diện bản sắc.
+
+Bạn cảm thấy "bánh chưng phải có" một dáng vẻ nào đó, là bởi vì trong căn bếp nơi bạn lớn lên, đã từng có ai đó trải lá tre ra bàn vào ngày Tết Đoan Ngọ và dùng tay nặn gạo thành hình dạng ấy. Hành động đó, mùi hương đó, chính là tọa độ của bạn.
+
+Bánh chưng miền Bắc, bánh chưng miền Nam, bánh chưng Khách Gia, bánh chưng ngoại tỉnh, bánh chay, bánh kê — không phải loại nào "Đài Loan hơn" loại nào, mà mỗi loại đều là một câu chuyện có thật của hòn đảo này.
+
+Chỉ là, không ai muốn chịu thua cả.
 
 ---
 
 ## Đọc thêm
 
-- [Tết Đoan Ngọ bạn ăn bánh tro Nam hay bánh tro Bắc? (Ẩm thực. Đài Loan)](https://ryoritaiwan.fcdc.org.tw/columns/175) — Phỏng vấn các mẹ Đài Loan nói về khác biệt bánh tro Nam-Bắc
-- [Bánh tro bộ lạc Taitung: A-ê, Khí-na-phú và DoReMi (Vocus)](https://vocus.cc/article/60ff6237fd89780001bd966c) — Chi tiết món gói lá bộ lạc Paiwan, Rukai, Puyuma
-- [Cửa hàng bánh tro rau Li Tainan hương vị xưa](http://www.caizongli.com/) — Thành lập 1946, ba đời truyền thừa bánh tro rau Tainan
-- [Mỗi miếng đều có chuyện? Nhai kỹ câu chuyện văn hóa bánh tro Đài Loan](https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/) — Sơ lược bối cảnh lịch sử văn hóa bánh tro Đài Loan
+- [Bạn ăn bánh chưng miền Nam hay miền Bắc vào Tết Đoan Ngọ? (Ẩm thực • Đài Loan)](https://ryoritaiwan.fcdc.org.tw/columns/175) — Phỏng vấn các bà mẹ Đài Loan về sự khác biệt giữa bánh chưng Nam và Bắc
+- [Bánh chưng bộ lạc Đài Đông: A-lê, Chi-na-phù và DoReMi (方的格子)](https://vocus.cc/article/60ff6237fd89780001bd966c) — Giải thích chi tiết về các món ăn gói lá của bộ lạc Paiwan, Rukai và Puyuma
+- [Tiệm bánh chay cổ truyền Lý ở Tainan](http://www.caizongli.com/) — Thành lập năm 1946, truyền qua ba thế hệ tại Tainan
+- [Mỗi miếng cắn đều có câu chuyện? Khám phá văn hóa bánh chưng Đài Loan](https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/) — Hệ thống hóa bối cảnh lịch sử và văn hóa của bánh chưng Đài Loan
 
 ---
 
-[^1]: Thi Quán Vũ, "Phân hóa và chuyển biến món ăn ngày lễ: Ví dụ phát triển bánh tro Đài Loan", Đại học Quốc gia Đài Loan, 2015. https://tdr.lib.ntu.edu.tw/bitstream/123456789/4907/1/ntu-104-1.pdf
+[^1]: Thi Quan Vũ (施冠宇), "Sự phân hóa và chuyển đổi của thực phẩm lễ hội: Lấy sự phát triển của bánh chưng Đài Loan làm ví dụ", Đại học Quốc lập Đài Loan, 2015. https://tdr.lib.ntu.edu.tw/bitstream/123456789/4907/1/ntu-104-1.pdf
 
-[^2]: "Mỗi miếng đều có chuyện? Nhai kỹ câu chuyện văn hóa bánh tro Đài Loan": "Sớm nhất nên là người di cư Minh-Quảng thời Minh-Thanh từ Trung Quốc đại lục mang bánh tro vào Đài Loan... Sau 1949 lượng lớn quân dân chuyển台, bánh tro Ngoại tỉnh cũng theo đó mà đến." https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/
+[^2]: "Mỗi miếng cắn đều có câu chuyện? Khám phá văn hóa bánh chưng Đài Loan": "Ban đầu có lẽ là do những người di dân Mân - Quảng từ Trung Quốc đại lục thời Minh - Thanh mang bánh chưng vào Đài Loan... sau năm 1949, lượng lớn quân dân di cư sang Đài Loan, kéo theo cả bánh chưng ngoại tỉnh." https://www.buydirectlyfromfarmers.tw/catalogue/handmade-zongzi_6738/
 
-[^3]: "Tết Đoan Ngọ bánh tro Nam, bánh tro Bắc khác nhau lớn làm sao phân biệt?", i Ẩm thực: "Truyền thống bánh tro Bắc dùng 'vỏ măng tre quế', màu trắng ngà, khô ráo, hấp lên hương thơm nhẹ nhàng." https://imec.imeifoods.com.tw/blogs/news/132722
+[^3]: "Sự khác biệt giữa bánh chưng miền Nam và miền Bắc vào Tết Đoan Ngọ như thế nào?", i Thực phẩm: "Bánh chưng miền Bắc truyền thống dùng 'vỏ măng tre', màu hơi trắng, khô ráo, khi hấp lên có hương thơm dịu nhẹ." https://imec.imeifoods.com.tw/blogs/news/132722
 
-[^4]: "Bánh tro Bắc, bánh tro Nam phân biệt thế nào? Không chỉ cách hấp luộc, từ lá bánh tro đến nguyên liệu đều khác lớn", Báo Tự Do phiên bản ẩm thực. https://food.ltn.com.tw/article/7405
+[^4]: "Làm sao để phân biệt bánh chưng miền Bắc và miền Nam? Không chỉ ở cách hấp luộc, mà từ lá gói đến nguyên liệu đều rất khác biệt", Tự Do Thời Báo bản Ẩm thực. https://food.ltn.com.tw/article/7405
 
-[^5]: Hoàng Mục Kiệt (trích dẫn); Ẩm thực‧Đài Loan tổng hợp phỏng vấn: "Theo nội dung phỏng vấn, sự khác biệt các mẹ gói bánh tro, đa số là khác biệt quy trình làm bánh tro Bắc hay bánh tro Nam, chứ không phải khác biệt dân tộc. Mà qua sở thích khác biệt những bánh tro này nhìn ra người Đài Loan ở 'địa phương' có sự khác biệt nhận diện rõ rệt." https://ryoritaiwan.fcdc.org.tw/columns/175
+[^5]: Hoàng Mục Kiệt (黃睦傑) (trích dẫn); Tổng hợp phỏng vấn của Ẩm thực • Đài Loan: "Dựa trên nội dung phỏng vấn, sự khác biệt trong cách gói bánh của các bà mẹ chủ yếu là sự khác biệt trong quy trình chế biến giữa miền Bắc và miền Nam, chứ không phải do khác biệt tộc người. Qua sở thích về sự khác biệt này, có thể thấy người Đài Loan có sự khác biệt rõ rệt về nhận diện 'địa phương'." https://ryoritaiwan.fcdc.org.tw/columns/175
 
-[^6]: Thông tin chính thức Minh Hòa bánh tro rau: Mỗi ngày sớm 5 giờ rưỡi mở bán, trong hai giờ bán hết. Trang web bánh tro Li: "Tự năm 1946 thành lập đến nay, trải qua ba đời truyền thừa, chọn gạo nếp trắng thuần và đậu phộng, phối hợp lá trắng tinh tế." http://www.caizongli.com/
+[^6]: Thông tin chính thức của Minghe Cai Zong: Bán từ 5 giờ rưỡi sáng mỗi ngày, hết hàng trong vòng hai tiếng. Website chính thức của bánh chay Lý: "Kể từ khi thành lập năm 1946, trải qua ba thế hệ truyền thừa, chúng tôi chọn gạo nếp trắng tinh và đậu phộng, kết hợp với lá nguyệt thảo mịn màng." http://www.caizongli.com/
 
-[^7]: "Truyện lạ lịch sử: Bánh tro Ngoại tỉnh Đài Loan", Nhân Gian Phúc Báo, 29 tháng 5 năm 2025: "Sau năm 1949 chuyển台, theo chính phủ đến Đài Loan nhiều người Ngoại tỉnh, cũng mang hương vị trong ký ức quê hương đến Đài Loan. Trong đó nổi tiếng nhất chắc thuộc bánh tro Huzhou và bánh tro Quảng Đông." https://nie.merit-times.com.tw/newsdetail_tw.php?id=10877
+[^7]: "Chuyện thú vị lịch sử: Bánh chưng ngoại tỉnh ở Đài Loan", Nhân Gian Phúc Báo, ngày 29 tháng 5 năm 2025: "Sau khi di cư sang Đài Loan năm 1949, cùng với nhiều người ngoại tỉnh theo chính phủ đến đây, họ cũng mang theo hương vị trong ký ức quê hương. Trong đó nổi tiếng nhất có lẽ là bánh chưng Hồ Châu và bánh chưng Quảng Đông." https://nie.merit-times.com.tw/newsdetail_tw.php?id=10877
 
-[^8]: "Bánh tro bộ lạc Taitung: A-ê, Khí-na-phú và DoReMi", Vocus, tháng 7 năm 2021: "Truyền thống cinavu và abai thường xuất hiện ở lễ tế, ngày lễ, dịp sum họp bạn bè, biểu thị kính trời, kính đất, cảm tạ tổ tiên... Lá mùi mỏng mỏng gói lấy gạo nếp, bánh tro lúa chèo ăn cùng, có hương thanh nhẹ, cũng tăng chất xơ, còn có tác dụng giúp tiêu hóa, giảm trướng hơi." https://vocus.cc/article/60ff6237fd89780001bd966c
+[^8]: "Bánh chưng bộ lạc Đài Đông: A-lê, Chi-na-phù và DoReMi", Phương Tử (方的格子), tháng 7 năm 2021: "Theo truyền thống, cinavu và abai thường xuất hiện trong các dịp tế lễ, lễ hội, đoàn tụ người thân... Lá giả chua mỏng bao bọc lấy gạo nếp, kê khi ăn cùng nhau mang lại hương thơm thanh khiết, đồng thời tăng chất xơ, có tác dụng hỗ trợ tiêu hóa và giảm đầy hơi." https://vocus.cc/article/60ff6237fd89780001bd966c
 
-[^9]: "A-li-phụng-phụng (bánh tro người yêu người Amis)", Bách khoa văn hóa dân tộc nguyên dân, Nông truyền媒: "alifongfong dùng bốn lá linđầu 編织 thành, lá linđầu có gai, phải bỏ gai và cuống lá mới dùng được." https://www.agriharvest.tw/archives/57144/
+[^9]: "Alifongfong (Bánh chưng tình nhân của người Amis)", Bách khoa toàn thư văn hóa thổ dân, Nông Truyền Mai: "alifongfong được đan từ bốn lá cây mây, lá mây có gai, phải loại bỏ gai và cuống lá mới có thể sử dụng." https://www.agriharvest.tw/archives/57144/
 
-[^10]: Cùng [^8]: "Trạm cải tiến nông nghiệp Taitung còn từng tổ chức 'Cuộc thi món ăn phong vị A Bai toàn quốc', mời các đầu bếp làm abai, cinavu khắp nơi, trình làng khẩu vị gia truyền các bộ lạc so tài, xứng danh hội võ thuật giới abai."
+[^10]: Giống như [^8]: "Trạm cải tiến nông nghiệp Đài Đông còn tổ chức 'Cuộc thi hương vị A Bai toàn quốc', mời các đầu bếp chế biến abai, cinavu từ khắp nơi đến so tài, có thể gọi là đại hội võ lâm của giới abai."
 
-[^11]: Wind Media, "Bánh tro Đoan Ngọ Bắc Nông mua mạnh mẽ vượt 190.000 quả tạo kỷ lục lịch sử", 28 tháng 4 năm 2025: "Tính đến hôm nay (28), bán bánh tro Đoan Ngọ Bắc Nông đã vượt 190.000 quả, vượt thành tích năm ngoái 165.000 quả, nhắm tới mục tiêu 210.000 quả, dự kiến tăng tới 30%!" https://www.storm.mg/article/5364523
+[^11]: Phong Truyền Mai, "Sức mua bánh chưng Đoan Ngọ tại Bắc Nông tăng mạnh, phá kỷ lục 190.000 chiếc", ngày 28 tháng 4 năm 2025: "Tính đến ngày (28) hôm nay, doanh số bán bánh chưng của Bắc Nông đã vượt qua 190.000 chiếc, vượt qua thành tích 165.000 chiếc của năm ngoái, đang hướng tới mục tiêu 210.000 chiếc, dự kiến tăng trưởng tới 30%!" https://www.storm.mg/article/5364523
 
-[^12]: Thời Cục, "Từ 223.000 đến 165.000: Lượng thảo luận bánh tro Đoan Ngọ tại sao tạo mới thấp?", 28 tháng 5 năm 2025. https://cursit.com/csresearch-20250528-2
+[^12]: Thời Cục, "Từ 223.000 xuống 165.000: Tại sao thảo luận về bánh chưng Đoan Ngọ lại chạm mức thấp kỷ lục?", ngày 28 tháng 5 năm 2025. https://cursit.com/csresearch-20250528-2

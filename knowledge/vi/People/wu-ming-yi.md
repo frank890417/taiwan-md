@@ -35,11 +35,13 @@ rationale:
   whats_excluded: '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費'
   where_it_hedges: '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪'
   whos_pushing_back: '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: '36aaa72e1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4084ed4b3480a75a'
 sourceBodyHash: 'sha256:70f421624b5717be'
-translatedAt: '2026-09-18T05:58:22.210822+00:00'
+translatedAt: '2026-11-18T14:35:04.766320+00:00'
 ---
 
 # Nguyên Minh Nghĩa: Dùng đôi mắt phức hợp viết lại Đài Loan bị mất
