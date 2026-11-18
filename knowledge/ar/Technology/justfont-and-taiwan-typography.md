@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-07-27T20:03:46+08:00'
+translatedAt: '2026-11-18T02:01:21.281561+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:** في 8 سبتمبر 2015 صباحًا، طُرح خط «جين شوان» من justfont للتمويل الجماعي على منصة flyingV، وتجاوز عتبة 1.5 مليون دولار تايواني في 76 دقيقة، ليجمع في النهاية 25,930,099 دولار تايواني من 7,667 داعمًا[^1][^62]، وكان ذلك قبل الظهر. الأرقام واصلت انفلاتها: 11 ساعة لتجاوز 10 ملايين، 58 ساعة لتجاوز 20 مليونًا. عند الإغلاق، استثمر 7,667 شخصًا إجمالي 25,930,099 دولار تايواني في خط لم يولد بعد[^1]. في ذلك اليوم، غُمرت فيسبوك بالتعليقات، حيث جادل عشرات الآلاف لأول مرة حول «شكل الحروف».
