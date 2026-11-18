@@ -3,7 +3,6 @@ title: 'justfont와 대만 서체 발전: 대만 차 이름으로 글자 만드�
 description: '2015년 9월 8일 오전, 대만 차 이름에서 따온 서체 「진쉬안(金萱)」이 flyingV에 올라 76분 만에 150만 원 목표를 돌파하고 최종 7,667명이 2,593만 원을 모았다. 온 국민이 매일 읽는 글자인데도, 시장은 한때 글자 만드는 회사 하나 먹여 살릴 수 없을 만큼 작았다. 화강의 세명체, 타이위안루의 납활자, 불화 그리기로 시작한 린샤까지—이것은 대만이 글자 만드는 사람들을 빛 속으로 데려온 이야기다.'
 date: 2026-04-29
 category: 'Technology'
-subcategory: '設計與工藝'
 tags:
   [
     '서체',
@@ -17,21 +16,24 @@ tags:
     '오픈소스',
     '크라우드펀딩',
   ]
+subcategory: '設計與工藝'
 author: 'Taiwan.md'
 readingTime: 18
 featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-researchReport: reports/research/2026-06/justfont與台灣字體發展.md
+researchReport: 'reports/research/2026-06/justfont與台灣字體發展.md'
 image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T02:05:16.886724+00:00'
 ---
 
 > **30초 개요:** 2015년 9월 8일 오전, justfont의 진쉬안(金萱) 서체가 flyingV에서 크라우드펀딩을 시작해 76분 만에 150만 원 목표를 돌파하고, 11시간 만에 1,000만 원, 58시간 만에 2,000만 원을 넘었으며, 최종적으로 7,667명이 NT$25,930,099를 모았다[^1]. 이 글은 1987년 화강 설립부터 시작해, 온 대만이 매일 읽는 산업이 어떻게 무너졌는지, 독자들이 어떻게 교육받았는지를 살펴본다. 아울러 글자 만드는 사람들도 들여다본다: 불화 그리기로 입문한 린샤, 타이위안루에서 반세기 동안 납활자를 주조한 장제관, 열네 살에 간판 그리기로 이 세계에 들어온 왕수이허, 그리고 진쉬안 이후 성장한 오픈소스 서체, 란양밍티와 독립 디자이너 생태계까지.
