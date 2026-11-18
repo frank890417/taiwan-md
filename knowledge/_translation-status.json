@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T16:51:44+08:00",
-    "zhCommitHead": "ff66bbf72",
+    "lastUpdated": "2026-11-18T16:58:56+08:00",
+    "zhCommitHead": "5e3123920",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 684,
+        "fresh": 685,
         "stale": 52,
         "metadata_stale": 447,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "fr": {
@@ -88226,11 +88226,11 @@
           "sourceContentHash": "sha256:d73033c3d023379b",
           "sourceBodyHash": "sha256:452ee75046f1da55",
           "translatedAt": "2026-11-18T00:48:43+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "5e312392",
+          "translationLastModified": "2026-11-18T16:51:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 46068,
+          "bytes": 46070,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -194725,8 +194725,8 @@
           "sourceContentHash": "sha256:6fe4100e4991cfd3",
           "sourceBodyHash": "sha256:86c3a63ca1392544",
           "translatedAt": "2026-11-18T08:25:10.352973+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e312392",
+          "translationLastModified": "2026-11-18T16:51:44+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 51160,
@@ -194738,7 +194738,20 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/nativist-literature-debate.md",
+          "translatedFrom": "History/鄉土文學論戰.md",
+          "sourceCommitSha": "fcf85cd76",
+          "sourceContentHash": "sha256:6fe4100e4991cfd3",
+          "sourceBodyHash": "sha256:86c3a63ca1392544",
+          "translatedAt": "2026-11-18T08:42:35.948491+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 53692,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"

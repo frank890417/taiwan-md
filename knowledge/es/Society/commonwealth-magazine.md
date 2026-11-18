@@ -2,9 +2,7 @@
 title: "'CommonWealth Magazine: cuarenta años clasificando el «éxito» de Taiwán desde el lugar más cercano al capital'"
 description: 'En junio de 1981, una revista económico-financiera llamada CommonWealth nació en una isla bajo ley marcial; su primera tirada de diez mil ejemplares se agotó en dos días. El impulsor fue el economista Kao Hsi-chun, y su alma fue Diane Ying, exreportera de United Press International y The New York Times. Cuarenta años después, se convirtió en uno de los medios más confiables de Taiwán, y también en el «definidor del éxito» detrás de las listas de las 2.000 empresas principales, los 50 grandes grupos y las ciudades felices. La fuente de su credibilidad y la fuente de su poder para clasificar provienen de la misma distancia.'
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '媒體與新聞'
 tags:
   [
     'medios',
@@ -15,9 +13,16 @@ tags:
     'edición',
     'medios y noticias',
   ]
+subcategory: '媒體與新聞'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/天下雜誌.md'
+image: '/article-images/society/diane-ying-magsaysay.webp'
+imageCredit: 'Ramon Magsaysay Award Foundation'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://rmaward.asia/rmawardees/ying-diane-yun-peng/'
 sporeLinks:
   - id: 134
     platform: 'threads'
@@ -27,15 +32,14 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-13'
     url: 'https://x.com/taiwandotmd/status/2065697249041281306'
+relatedDiary: ['2026-06-04-151548-天下雜誌']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'd317f164'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cfcffc0d37076c22'
 sourceBodyHash: 'sha256:a2fb34529fea33ac'
-translatedAt: '2026-06-16T17:15:43Z'
-image: '/article-images/society/diane-ying-magsaysay.webp'
-imageCredit: 'Ramon Magsaysay Award Foundation'
-imageLicense: 'Fair use editorial commentary'
-imageSource: 'https://rmaward.asia/rmawardees/ying-diane-yun-peng/'
+translatedAt: '2026-11-18T07:20:13.746442+00:00'
 ---
 
 > **Panorama en 30 segundos:** El 1 de junio de 1981, una revista económico-financiera llamada CommonWealth nació en un Taiwán bajo ley marcial y recién expulsado del escenario internacional; su primera tirada de diez mil ejemplares se agotó en dos días[^1]. El impulsor fue el economista Kao Hsi-chun, quien, con la idea de que «los intelectuales sirven al país», convocó a Wang Li-hsing, Chang Tso-chin y Diane Ying para fundarla juntos[^2]. Ying, que había sido reportera de United Press International, The New York Times y The Asian Wall Street Journal, fue su alma editorial y, más tarde, la persona que sostuvo la revista después de la separación de 1986[^3]. En cuarenta años pasó de ser una revista que «convertía la economía en historias comprensibles para todos» a convertirse en la productora de rankings del mundo empresarial y de la gobernanza local de Taiwán: las 2.000 empresas principales, las 50 grandes, las empresas de referencia, las ciudades felices. Esas posiciones fueron definiendo en silencio qué significa «tener éxito» para la sociedad taiwanesa. Es uno de los medios más confiables de Taiwán según el informe de Reuters[^4], y ha recibido tanto el Premio Ramon Magsaysay como el premio de trayectoria de SOPA. Pero el lugar desde el cual es más confiable es, precisamente, el lugar donde está más cerca del capital y del poder. Esa credibilidad, y ese poder de clasificar a otros, provienen de la misma distancia.
