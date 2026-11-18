@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T17:01:17+08:00",
-    "zhCommitHead": "0781e7c65",
+    "lastUpdated": "2026-11-18T17:21:30+08:00",
+    "zhCommitHead": "51340b847",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 677,
+        "fresh": 678,
         "stale": 52,
         "metadata_stale": 455,
-        "missing": 7,
+        "missing": 6,
         "orphan": 0
       },
       "ja": {
@@ -36,24 +36,24 @@
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 683,
+        "fresh": 684,
         "stale": 51,
-        "metadata_stale": 449,
+        "metadata_stale": 448,
         "missing": 8,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 685,
+        "fresh": 686,
         "stale": 52,
-        "metadata_stale": 447,
+        "metadata_stale": 446,
         "missing": 7,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 686,
-        "stale": 48,
+        "fresh": 687,
+        "stale": 47,
         "metadata_stale": 449,
         "missing": 8,
         "orphan": 0
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 672,
+        "fresh": 673,
         "stale": 58,
-        "metadata_stale": 453,
+        "metadata_stale": 452,
         "missing": 8,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 690,
-        "stale": 46,
+        "fresh": 691,
+        "stale": 45,
         "metadata_stale": 447,
         "missing": 8,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 660,
+        "fresh": 661,
         "stale": 65,
-        "metadata_stale": 458,
+        "metadata_stale": 457,
         "missing": 8,
         "orphan": 0
       }
@@ -1314,8 +1314,8 @@
           "sourceContentHash": "sha256:5ffbb5b925e1997f",
           "sourceBodyHash": "sha256:cda00c8983ea5b23",
           "translatedAt": "2026-11-18T07:20:25.053197+00:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "51340b84",
+          "translationLastModified": "2026-11-18T17:01:17+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 44891,
@@ -2510,20 +2510,18 @@
         "ko": {
           "path": "ko/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "73443b2a",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:cd1df8dc4931d5ab",
           "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-06-10T16:42:09Z",
+          "translatedAt": "2026-11-18T09:06:30.448876+00:00",
           "translationLastCommit": "822c2202",
           "translationLastModified": "2026-10-10T23:14:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 45351,
+          "bytes": 45416,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/indie-music-scene.md",
@@ -24560,8 +24558,8 @@
           "sourceContentHash": "sha256:0052f66a7d8738c5",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-11-18T08:45:44.415841+00:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "51340b84",
+          "translationLastModified": "2026-11-18T17:01:17+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 37565,
@@ -28635,20 +28633,18 @@
         "fr": {
           "path": "fr/Technology/science-park-development.md",
           "translatedFrom": "Technology/科技園區發展.md",
-          "sourceCommitSha": "bc725e8c",
-          "sourceContentHash": "sha256:19e7a45a0852260f",
-          "sourceBodyHash": "sha256:a1d16e29348fc28f",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:3a5079e89062b618",
+          "sourceBodyHash": "sha256:ad278436f9c42b34",
+          "translatedAt": "2026-11-18T09:07:25.143378+00:00",
           "translationLastCommit": "e494a125",
           "translationLastModified": "2026-10-10T23:05:56+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 48335,
+          "bytes": 48936,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/science-park-development.md",
@@ -49357,20 +49353,18 @@
         "ru": {
           "path": "ru/Art/postwar-taiwanese-literature.md",
           "translatedFrom": "Art/戰後台灣文學.md",
-          "sourceCommitSha": "160f6cb59",
-          "sourceContentHash": "sha256:d9fdf198e900c6a6",
-          "sourceBodyHash": "sha256:70ed7e6c666d6fb7",
-          "translatedAt": "2026-11-02T14:09:12.793562+00:00",
+          "sourceCommitSha": "21af6094c",
+          "sourceContentHash": "sha256:fa0d1b0fa9b12911",
+          "sourceBodyHash": "sha256:1ff1fa1158f19022",
+          "translatedAt": "2026-11-18T09:02:32.241915+00:00",
           "translationLastCommit": "9a11a1b1",
           "translationLastModified": "2026-11-02T23:24:24+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 70007,
+          "bytes": 70416,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Art/postwar-taiwanese-literature.md",
@@ -70993,20 +70987,18 @@
         "es": {
           "path": "es/Society/remote-area-schools-education-act.md",
           "translatedFrom": "Society/偏遠地區學校教育發展條例全解.md",
-          "sourceCommitSha": "d7a10960",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
           "sourceBodyHash": "sha256:1640a85ec53af696",
-          "translatedAt": "2026-05-01T20:54:23+08:00",
+          "translatedAt": "2026-11-18T09:06:34.475530+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 55703,
+          "bytes": 55763,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/remote-area-schools-education-act.md",
@@ -88294,11 +88286,11 @@
           "sourceContentHash": "sha256:d73033c3d023379b",
           "sourceBodyHash": "sha256:452ee75046f1da55",
           "translatedAt": "2026-11-18T08:45:10.459139+00:00",
-          "translationLastCommit": "23f8c108",
-          "translationLastModified": "2026-10-10T23:30:52+08:00",
+          "translationLastCommit": "0781e7c6",
+          "translationLastModified": "2026-11-18T17:00:39+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 60948,
+          "bytes": 60950,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -91510,8 +91502,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-11-18T08:08:26.737574+00:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "0781e7c6",
+          "translationLastModified": "2026-11-18T17:00:39+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "bytes": 60010,
@@ -125473,8 +125465,8 @@
           "sourceContentHash": "sha256:0b1bdd0cdf3b8705",
           "sourceBodyHash": "sha256:a1e88d45df841409",
           "translatedAt": "2026-11-18T07:20:21.279625+00:00",
-          "translationLastCommit": "12f09560",
-          "translationLastModified": "2026-10-10T23:20:50+08:00",
+          "translationLastCommit": "0781e7c6",
+          "translationLastModified": "2026-11-18T17:00:39+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 64459,
@@ -130578,20 +130570,18 @@
         "id": {
           "path": "id/People/samuel-yin-yan-liang.md",
           "translatedFrom": "People/尹衍樑.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:de14cddb4cd06bf6",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:ca0ab51cac71e4a7",
           "sourceBodyHash": "sha256:bf303e93b6c06618",
-          "translatedAt": "2026-07-30T03:46:41.699854+00:00",
+          "translatedAt": "2026-11-18T09:12:14.314052+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 43846,
+          "bytes": 46785,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/samuel-yin-yan-liang.md",
@@ -146856,20 +146846,18 @@
         "de": {
           "path": "de/People/ya-hsien-poet.md",
           "translatedFrom": "People/瘂弦.md",
-          "sourceCommitSha": "21298a7ae",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:e787dc16343b5dd6",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
-          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translatedAt": "2026-11-18T09:01:45.540003+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 35063,
+          "bytes": 35218,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -170178,7 +170166,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/cinavu.md",
+          "translatedFrom": "Food/奇拿富.md",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:28d041198da308f5",
+          "sourceBodyHash": "sha256:fa68dba760d19431",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 40752,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
