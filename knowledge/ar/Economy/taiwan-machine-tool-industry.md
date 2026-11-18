@@ -2,28 +2,32 @@
 title: 'صناعة الأدوات الآلية في تايوان'
 description: 'من وادي داتو الذهبي إلى معرض TMTS 2026، مرونة صناعة الأدوات الآلية في تايوان وانهيارها وولادتها من جديد، والقلق الهيكلي حول سبب تراجعها من المركز الخامس عالمياً إلى السابع في عام 2024.'
 date: 2026-04-11
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '傳統產業'
 tags:
-  - 'الأدوات الآلية'
-  - 'الآلات الدقيقة'
-  - 'جبل داتو'
-  - 'تايتشونغ'
-  - 'الصناعة التحويلية'
-  - 'TMTS'
-  - 'تجمع صناعي'
-  - '2026'
+  [
+    'الأدوات الآلية',
+    'الآلات الدقيقة',
+    'جبل داتو',
+    'تايتشونغ',
+    'الصناعة التحويلية',
+    'TMTS',
+    'تجمع صناعي',
+    '2026',
+  ]
+subcategory: '傳統產業'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-07-25T12:45:44+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T11:23:21.590060+00:00'
 ---
 
 # صناعة الأدوات الآلية في تايوان
