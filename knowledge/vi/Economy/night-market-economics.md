@@ -17,8 +17,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: '7678a430'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-07-31T00:00:00Z'

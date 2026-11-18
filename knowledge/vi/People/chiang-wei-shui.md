@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔣渭水.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:01b765cf1533e92c'
 sourceBodyHash: 'sha256:70dc8164d3983fc6'
 translatedAt: '2026-09-21T21:38:55+08:00'

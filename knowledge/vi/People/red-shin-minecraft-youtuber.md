@@ -35,8 +35,10 @@ rationale:
       'Lý lịch liên tục lĩnh vực khác và tranh chấp tư nhân không phục vụ trục phát hành cố định',
       'Suy luận về thu nhập, tài sản và chủ quyền lập lịch hoàn toàn',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'fb7f4f824'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
 translatedAt: '2026-08-09T09:26:48+08:00'

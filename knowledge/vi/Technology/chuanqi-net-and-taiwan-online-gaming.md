@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/傳奇網路與台灣線上遊戲出海.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fc8499d85802cbbd'
 sourceBodyHash: 'sha256:04d95f993c4d6e33'
 translatedAt: '2026-09-09T11:45:55+08:00'

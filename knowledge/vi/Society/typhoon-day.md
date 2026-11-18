@@ -20,8 +20,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/颱風假.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a1f455d597d80f3d'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
 translatedAt: '2026-10-10T23:27:02+08:00'

@@ -25,8 +25,10 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/壞特.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'
 sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-08-09T11:16:34+08:00'

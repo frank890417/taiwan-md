@@ -27,8 +27,10 @@ spine_type: Xung đột thúc đẩy
 rationale:
   whats_excluded: 'Chi tiết thua lỗ Benq Siemens (thuộc về Lý Khunh Đức của Benq, không phải thân Acer, chỉ đề cập qua như một dòng chú trong số mệnh người anh em ABW); Đánh mất thị trường Trung Quốc (thiếu dữ liệu độc lập, xoá bỏ); ConceptD/Predator so sánh thiết kế công nghiệp, ESO/RE100 (khía cạnh phụ, không vào dòng chính); Lanci cuối đời (chỉ nhắc một câu để so sánh với 2013).'
   where_it_hedges: 'Tất cả giá trị thị trường/xếp hạng ghi ngày (Asus khoảng 4.4 lần ghi 2026/06, không dùng 2015 là 3.8x); "DNA Acer sâu nhất trong Wistron" cộng "theo báo cáo"; 42.8% ghi chú là lợi nhuận hoạt động không phải doanh thu; Kho 1.5 tỷ USD không phải 15 tỷ; Tiểu giáo sư thứ nhất đinh 1981; 1988 niêm yết 2306 với 1996 Acer 2353 tách riêng; Vịt con lật thế viết "thể hiện tại không phải hoàn tất".'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：宏碁.md'
-sourceCommitSha: 'a94bbcf6b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f4628301afebb26c'
 sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-08-09T09:26:48+08:00'

@@ -18,8 +18,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '0fdd33305'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:00c7be1d98e156ab'
 sourceBodyHash: 'sha256:55c1707afcbd7a73'
 translatedAt: '2026-10-15T17:05:37.090836+00:00'

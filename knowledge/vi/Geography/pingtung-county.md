@@ -19,8 +19,10 @@ tags:
     '22 tỉnh thành',
   ]
 subcategory: '縣市'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/屏東縣.md'
-sourceCommitSha: '47d343b72'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1730cee4562e4ee0'
 sourceBodyHash: 'sha256:feab50585a5f02eb'
 translatedAt: '2026-08-09T09:26:48+08:00'

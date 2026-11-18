@@ -17,8 +17,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
 translatedAt: '2026-09-15T19:45:27+08:00'

@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/紙傘.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:2b63bb823fbdea45'
 sourceBodyHash: 'sha256:6966802b8bb41d32'
 translatedAt: '2026-07-26T00:16:51+08:00'

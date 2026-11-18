@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蘇貞昌.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:479a8f6f5440400a'
 sourceBodyHash: 'sha256:b005f4ff95b8ed92'
 translatedAt: '2026-09-28T08:43:09+08:00'

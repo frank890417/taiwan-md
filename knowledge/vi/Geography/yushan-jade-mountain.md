@@ -11,8 +11,10 @@ readingTime: 15
 lastVerified: '2026-04-27'
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/玉山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fac289c302ac2b36'
 sourceBodyHash: 'sha256:fa7af530be8a582c'
 translatedAt: '2026-07-18T18:59:51+08:00'

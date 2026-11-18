@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/清水斷崖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: '2026-07-26T11:16:39+08:00'

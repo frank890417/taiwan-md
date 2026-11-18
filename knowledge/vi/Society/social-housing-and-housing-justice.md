@@ -17,8 +17,10 @@ readingTime: 13
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社會住宅與居住正義.md'
-sourceCommitSha: '5efc41d39'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:0989f07af63c2d2b'
 sourceBodyHash: 'sha256:911bf6acff0d4788'
 translatedAt: '2026-10-01T23:59:56.696233+00:00'

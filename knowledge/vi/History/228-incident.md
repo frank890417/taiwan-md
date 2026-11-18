@@ -18,8 +18,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
-sourceCommitSha: '936ada6c3'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
 translatedAt: '2026-08-09T09:26:48+08:00'

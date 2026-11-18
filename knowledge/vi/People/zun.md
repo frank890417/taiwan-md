@@ -22,8 +22,10 @@ readingTime: 11
 image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
 translatedAt: '2026-10-15T03:11:44.352985+00:00'

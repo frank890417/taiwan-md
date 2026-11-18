@@ -11,8 +11,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
-sourceCommitSha: '754685ed1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d82f573c8035bd6e'
 sourceBodyHash: 'sha256:e12316843009e7dd'
 translatedAt: '2026-09-21T00:58:30+08:00'

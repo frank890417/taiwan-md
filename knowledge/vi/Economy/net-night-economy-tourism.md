@@ -17,8 +17,10 @@ readingTime: 28
 lastVerified: 2026-07-22
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/NET.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
 translatedAt: '2026-07-25T21:33:45+08:00'

@@ -1,8 +1,10 @@
 ---
 title: 'Tỉnh Nghi Lan: Hai lần lựa chọn cho chính mình, Bằng Dương Lan Dương từ đó không quay lại'
 description: 'Vào tối 13 tháng 12 năm 1987, Trần Định Nam ngồi đối diện với Vương Vinh Khánh trên sân khấu HTV, đã chặn dự án lọc dầu sáu thành phố ngoài Bằng Dương Lan Dương. Mười chín năm sau, vào ngày 16 tháng 6 năm 2006, hầm Tuyết Sơn thông xe, thời gian di chuyển từ Đài Bắc đến Nghi Lan đã giảm từ hai giờ xuống 40 phút. Sau đó, trong vòng mười năm, vùng lúa nơi đây mọc lên 6.137 ngôi nhà nông dân, giá đất mỗi tấc tăng từ 4.000 đồng lên 20.000 đồng, năm 2023 Nghi Lan phát hành 35% tổng số giấy phép xây dựng nhà nông dân toàn quốc. Một địa phương đã lựa chọn hai lần vào những thời điểm then chốt của lịch sử, Bằng Dương Lan Dương chấp nhận cả giá thành lẫn quà tặng.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/宜蘭縣.md'
-sourceCommitSha: '7f3ddf123'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:339ea6f63f12308d'
 sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-08-09T08:07:25+08:00'

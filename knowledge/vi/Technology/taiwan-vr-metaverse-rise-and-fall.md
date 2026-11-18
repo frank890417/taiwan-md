@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:59f706d4d55d0ff9'
 sourceBodyHash: 'sha256:e56340a36684b82b'
 translatedAt: '2026-08-09T11:16:34+08:00'

@@ -1,8 +1,10 @@
 ---
 title: 'Mã Anh Cửu và những meme: Từ "Cú Bắt Tay Tử Thần" đến "Ma Não Sứa", Làm thế nào văn hóa Internet định hình lại hình ảnh của người chính trị'
 description: 'Kể từ năm 2012, những lời nói và hành động của cựu Tổng thống Mã Anh Cửu đã lên men trong cộng đồng mạng Đài Loan, từ sự chế nhạo của "Cú Bắt Tay Tử Thần" đến sự hiểu sai của "Lộc Nhung", cho đến sự tự chế của "Ma Não Sứa". Một loạt meme này không chỉ sâu sắc ảnh hưởng đến nhận thức công cộng về ông, mà còn thể hiện cách mà các meme giải cấu trúc và định hình lại hình ảnh công cộng của nhân vật chính trị và ký ức xã hội trong kỷ nguyên kỹ thuật số.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/馬英九迷因.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:219fe04c84e96b20'
 sourceBodyHash: 'sha256:2e23822aef955aa4'
 translatedAt: '2026-08-09T11:16:34+08:00'

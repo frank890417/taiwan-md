@@ -1,8 +1,10 @@
 ---
 title: 'Liên Anh: Từ "mức vũ đạo của một nhóm nhạc nữ" đến EP solo sau sáu năm'
 description: 'Năm 2020, một cô gái Đài Trung hai mươi lăm tuổi trên sân khấu chọn người nói với Phan Vệ Bá: "Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ." Sáu năm sau cô có EP solo của riêng mình, các fan tập hợp vốn ở Đại Tào Đình để tổ chức sân khấu sinh nhật, đồng thời quảng cáo hỗ trợ được phát hành ở ba quốc gia. Cô đang hiện thực hóa lời nói đó.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/連穎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: '2026-08-09T11:16:34+08:00'

@@ -1,8 +1,10 @@
 ---
 title: 'Thế hệ thần tượng mới của Đài Loan'
 description: 'Năm 2020, có người đã chi 1.3 tỷ để tạo ra những thần tượng tại Đài Loan. Bốn chương trình giành bốn Chuông vàng, hơn năm mươi người ra mắt — rồi tiếng nói của nhóm vô địch bắt đầu sụt giảm dốc. Phần khó nhất của ngành công nghiệp thần tượng Đài Loan từ lâu là: "làm thế nào để sống sót sau khi ra mắt".'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣新偶像世代.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8258a0ced6980600'
 sourceBodyHash: 'sha256:3dda77b7510dd761'
 translatedAt: '2026-08-09T11:16:34+08:00'

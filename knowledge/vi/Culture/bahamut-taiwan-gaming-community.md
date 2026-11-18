@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/巴哈姆特.md'
-sourceCommitSha: 'f5975a224'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-07-28T07:06:36+08:00'

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/日月潭.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:38e87349431f9040'
 sourceBodyHash: 'sha256:6436714823ccf368'
 translatedAt: '2026-07-26T11:16:39+08:00'

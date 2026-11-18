@@ -29,8 +29,10 @@ rationale:
   where_it_hedges: '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。'
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad617fbb654f67ae'
 sourceBodyHash: 'sha256:986ab9796f1069f2'
 translatedAt: '2026-09-24T12:34:54.232592+00:00'

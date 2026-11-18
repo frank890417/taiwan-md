@@ -16,8 +16,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林強.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a8fc4383d9d485f8'
 sourceBodyHash: 'sha256:d49e5d04c317a204'
 translatedAt: '2026-09-28T08:43:09+08:00'

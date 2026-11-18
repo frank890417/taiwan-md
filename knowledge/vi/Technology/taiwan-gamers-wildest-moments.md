@@ -1,8 +1,10 @@
 ---
 title: 'Những khoảnh khắc điên rồ của game thủ Đài Loan: Đuổi xe logistics, quần chúng ở Bắc Đầu, nâng cúp ở Los Angeles'
 description: 'Năm 2012, lúc 3 giờ sáng, những game thủ Đài Loan cưỡi xe máy đuổi theo xe logistics của siêu thị để mua Diablo 3. Năm 2016, một con Snorlax khiến công viên Bắc Đầu chứa đầy hàng nghìn người, *TIME* gọi đó là "tiên đoán ngày tận thế". Năm 2020, sau khi hết khẩu trang, họ bắt đầu giành lấy Switch và PS5.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣玩家的瘋狂時刻.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:03ef929d72a03265'
 sourceBodyHash: 'sha256:dd0e3abb83d55e63'
 translatedAt: '2026-08-09T11:16:34+08:00'

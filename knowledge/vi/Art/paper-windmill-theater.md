@@ -20,9 +20,11 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/紙風車劇團.md'
-sourceCommitSha: 'fd35815e1'
-sourceContentHash: 'sha256:6bc07dcf7ad94466'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:bcce97e3493eec98'
 sourceBodyHash: 'sha256:c5eb598a94be9567'
 translatedAt: '2026-09-23T18:12:07.407120+00:00'
 ---

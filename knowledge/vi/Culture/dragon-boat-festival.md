@@ -1,8 +1,10 @@
 ---
 title: 'Tết Đoan Ngọ: Bộ công cụ của cổ nhân để chống lại cái chết, người Đài Loan để thành một cuộc đoàn tụ hàng năm'
 description: 'Năm 2025, một đề thi toán học quốc gia đề nghị học sinh 15 tuổi thiết kế một thử nghiệm, để phản bác "trứng dậu của Tết Đoan Ngọ". Bức tranh này tóm lược một bí mật của toàn bộ lễ hội: cây ngải, rượu hoàng hoàng, nước ngọc anh, và quả trứng đứng lên, lúc trước tất cả là công cụ của cổ nhân để chống lại dịch bệnh và cái chết. Khoa học đã từng chứng minh rằng chúng không có hiệu lực, nhưng Tết Đoan Ngọ vẫn sống sót ở Đài Loan hơn bất kỳ ai — hiệu lực đã hết, người Đài Loan vẫn liều hàng năm.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/端午節.md'
-sourceCommitSha: '58fa84f01'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:aac6019521f0bc32'
 sourceBodyHash: 'sha256:5410e4f9f881b327'
 translatedAt: '2026-08-09T10:41:15+08:00'

@@ -1,8 +1,10 @@
 ---
 title: 'Học viện Gấu Đen: Một trường dân phòng hy vọng rằng một ngày nó sẽ không còn cần thiết'
 description: 'Năm 2021, năm tình nguyện viên ngồi nói chuyện năm tiếng đồng hồ tại một quán cà phê, quyết định dạy người Đài Loan cách đối phó với chiến tranh — sau khi tổ chức một vài sự kiện, họ nợ khoảng năm trăm ngàn đô la. Năm sau, Nga tấn công Ukraine, Tào Hứng Thành tặng sáu trăm triệu, kêu gọi huấn luyện ba triệu "Gấu Đen anh hùng" trong ba năm. Nó dạy cách dùng tourniquet, sơ tán, phòng chống thông tin giả, công khai phác thảo "tuyệt đối không phải huấn luyện dân quân"; càng dạy nghiêm túc, nó càng bị Trung Quốc đưa vào danh sách độc lập Đài Loan, và bị coi là quả bóng chính trị trên đảo. Một trường được sinh ra từ chiến tranh, nhưng hy vọng rằng một ngày nó sẽ không còn cần thiết.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/黑熊學院.md'
-sourceCommitSha: 'cdc7cc719'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f79e860b49a16b41'
 sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-08-09T09:26:48+08:00'

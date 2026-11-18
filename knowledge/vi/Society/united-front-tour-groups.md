@@ -1,8 +1,10 @@
 ---
 title: 'Đoàn thống nhất: Trò chơi nhận thức lặng lẽ, từ tour du lịch giá rẻ đến luồng ảnh hưởng của những người sáng tạo nội dung'
 description: 'Tháng 6 năm 2024, Youtuber Đài Loan Potter King tiết lộ kế hoạch của Trung Quốc mời 10 nhóm người sáng tạo nội dung Đài Loan đến Trung Quốc quay phim, khơi gợi lo lắng sâu sắc của xã hội Đài Loan về hoạt động thế hệ mới của "đoàn thống nhất". Từ dịch vụ đón tiếp tại chỗ với tour du lịch giá rẻ đến hành trình của những triệu người sáng tạo nội dung đến Trung Quốc, trung tâm của trò chơi nhận thức hai bờ eo biển này chưa bao giờ là khiến người dân Đài Loan tin rằng Trung Quốc thực sự không đáng sợ—mà là khiến Đài Loan tự rối loạn hàng ngũ.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/統戰團.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6189acad34e81f7d'
 sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-08-09T11:16:34+08:00'

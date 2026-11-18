@@ -29,8 +29,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:7-Eleven_Nanjing_Store_front_view_20240214.jpg'
 relatedDiary:
   - 2026-07-13-110417-manual
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：統一企業.md'
-sourceCommitSha: '05ed20149'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a081d71170a5a094'
 sourceBodyHash: 'sha256:b22e5c952fc18259'
 translatedAt: '2026-08-09T09:26:48+08:00'

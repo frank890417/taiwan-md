@@ -1,8 +1,10 @@
 ---
 title: 'Trạm thu phí: Đoạn ngưng ba giây trên quốc lộ cao tốc'
 description: 'Ngày 30 tháng 7 năm 1974, trạm Thái Sơn bắt đầu hoạt động, việc trao vé lượt chỉ mất chưa đến ba giây. Hành động đó sau đó bị quốc gia đo lường chính xác, nén xuống 3,7 giây, và năm 2013 được nén hoàn toàn xuống 0 giây, gây ra một vụ kiện kéo dài 11 năm của 947 nhân viên thu phí. Ngày nay vẫn còn lại ba quán vé trên đường cao tốc, có thể xem nhưng không nên dừng lâu.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ef6fab2f2ae48840'
 sourceBodyHash: 'sha256:6af77751f6cfb762'
 translatedAt: '2026-08-09T08:07:25+08:00'

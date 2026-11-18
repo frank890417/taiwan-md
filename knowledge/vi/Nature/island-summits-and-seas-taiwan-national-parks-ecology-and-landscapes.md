@@ -18,8 +18,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: '7f5cc659d'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:6b8c18165d43ed48'
 sourceBodyHash: 'sha256:90c0aa43021fbb5f'
 translatedAt: '2026-10-03T04:46:08+08:00'

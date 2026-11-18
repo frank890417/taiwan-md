@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 researchReport: reports/research/2026-04/19th-century-camphor-wars.md
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/19世紀的樟腦戰爭.md'
-sourceCommitSha: '2da8b92f2'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:04245348572d70d0'
 sourceBodyHash: 'sha256:308ab8066ca9a9d0'
 translatedAt: '2026-08-09T08:07:25+08:00'

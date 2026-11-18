@@ -26,8 +26,10 @@ sporeLinks:
     date: '2026-04-28'
     url: 'https://x.com/taiwandotmd/status/2049079839244828881'
 relatedDiary: []
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-08-09T08:07:25+08:00'

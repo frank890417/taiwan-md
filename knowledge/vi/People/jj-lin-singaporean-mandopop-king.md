@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-10-24
 lastHumanReview: false
 readingTime: 3
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林俊傑.md'
-sourceCommitSha: '4e266fb6a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a01fa45bb35a9917'
 sourceBodyHash: 'sha256:405fd1941af460ea'
 translatedAt: '2026-10-24T08:46:18+08:00'

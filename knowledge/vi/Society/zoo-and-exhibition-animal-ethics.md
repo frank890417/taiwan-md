@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: '8a8596298'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:0ca0048f5fb189e0'
 sourceBodyHash: 'sha256:2b440f6d5e5bb010'
 translatedAt: '2026-09-26T19:13:15+08:00'

@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/盧秀燕.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-08-09T11:16:34+08:00'

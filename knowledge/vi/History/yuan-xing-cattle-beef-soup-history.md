@@ -19,8 +19,10 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
 translatedAt: '2026-07-26T14:17:51+08:00'

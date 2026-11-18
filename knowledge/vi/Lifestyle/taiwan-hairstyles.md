@@ -16,8 +16,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣髮型介紹.md'
-sourceCommitSha: '490742919'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f7d7ed191773a287'
 sourceBodyHash: 'sha256:2b50ba6e77e00416'
 translatedAt: '2026-07-25T07:55:51+08:00'

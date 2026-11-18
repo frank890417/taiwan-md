@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣補習班文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:31c0d75fa23d229b'
 sourceBodyHash: 'sha256:2b22c43058efac00'
 translatedAt: '2026-08-09T12:06:28+08:00'

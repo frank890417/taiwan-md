@@ -26,8 +26,10 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.archipelago.com.tw/restaurant-detail/archi/'
 relatedDiary:
   - 2026-07-18-104038-manual
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/江振誠.md'
-sourceCommitSha: 'afc8fbf91'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:335773d0a09d68a9'
 sourceBodyHash: 'sha256:257d28e459bd329d'
 translatedAt: '2026-08-09T09:26:48+08:00'

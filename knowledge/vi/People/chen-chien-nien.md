@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-08-09T08:07:25+08:00'

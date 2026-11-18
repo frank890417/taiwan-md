@@ -20,8 +20,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-05/卓榮泰.md'
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/卓榮泰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: '2026-07-26T19:42:09+08:00'

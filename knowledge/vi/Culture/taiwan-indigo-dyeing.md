@@ -17,8 +17,10 @@ tags:
     'Trịnh Mỹ Thục',
   ]
 subcategory: '工藝與美學'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/藍染.md'
-sourceCommitSha: 'a43cf9153'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'
 sourceBodyHash: 'sha256:e04eb558f9b5295b'
 translatedAt: '2026-08-09T10:41:15+08:00'
