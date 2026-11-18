@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T17:22:59+08:00",
-    "zhCommitHead": "f2dbe436b",
+    "lastUpdated": "2026-11-18T17:29:59+08:00",
+    "zhCommitHead": "8eea2f67a",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1191,
-        "fresh": 683,
+        "fresh": 684,
         "stale": 54,
         "metadata_stale": 447,
-        "missing": 7,
+        "missing": 6,
         "orphan": 0
       },
       "hi": {
@@ -42849,8 +42849,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-11-18T07:45:28.326127+00:00",
-          "translationLastCommit": "54871a0d",
-          "translationLastModified": "2026-09-15T02:45:31+08:00",
+          "translationLastCommit": "4f1d75d9",
+          "translationLastModified": "2026-11-18T17:22:59+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 57914,
@@ -49357,8 +49357,8 @@
           "sourceContentHash": "sha256:fa0d1b0fa9b12911",
           "sourceBodyHash": "sha256:1ff1fa1158f19022",
           "translatedAt": "2026-11-18T09:02:32.241915+00:00",
-          "translationLastCommit": "9a11a1b1",
-          "translationLastModified": "2026-11-02T23:24:24+08:00",
+          "translationLastCommit": "4f1d75d9",
+          "translationLastModified": "2026-11-18T17:22:59+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 70416,
@@ -80756,8 +80756,8 @@
           "sourceContentHash": "sha256:c62b916ed21bb09b",
           "sourceBodyHash": "sha256:f87da2052ad611fa",
           "translatedAt": "2026-11-18T08:24:10.749942+00:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "4f1d75d9",
+          "translationLastModified": "2026-11-18T17:22:59+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 60243,
@@ -170226,7 +170226,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/cinavu.md",
+          "translatedFrom": "Food/奇拿富.md",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:28d041198da308f5",
+          "sourceBodyHash": "sha256:fa68dba760d19431",
+          "translatedAt": "2026-11-18T00:51:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 39474,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/cinavu.md",
