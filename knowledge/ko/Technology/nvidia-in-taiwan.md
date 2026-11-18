@@ -24,11 +24,13 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:533b8db87f48f6de'
 sourceBodyHash: 'sha256:8a6bcaa4a83cff70'
-translatedAt: '2026-09-16T11:45:15.178631+00:00'
+translatedAt: '2026-11-18T12:24:13.747679+00:00'
 ---
 
 # NVIDIA의 타이완: 세계에서 가장 비싼 회사는 칩 하나도 직접 만들지 않는다

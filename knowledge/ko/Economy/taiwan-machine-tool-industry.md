@@ -2,6 +2,7 @@
 title: '대만 공작기계 산업'
 description: '다두산 황금 종곡에서 TMTS 2026까지—대만 공작기계 산업의 저력, 위기, 재기, 그리고 2024년 세계 5위에서 7위로 추락한 구조적 불안.'
 date: 2026-04-11
+category: 'Economy'
 tags:
   [
     '공작기계',
@@ -14,18 +15,19 @@ tags:
     '2026',
   ]
 subcategory: '傳統產業'
-category: 'Economy'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
 featured: true
 lastVerified: 2026-04-11
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-04-14T08:16:50+08:00'
-lastHumanReview: false
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T11:50:45.209340+00:00'
 ---
 
 # 대만 공작기계 산업

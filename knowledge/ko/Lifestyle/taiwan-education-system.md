@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-10-09
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: 'bf3cbdbc1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f31b05f6ec817e0e'
 sourceBodyHash: 'sha256:1a4718788413b7be'
-translatedAt: '2026-10-09T03:02:26+08:00'
+translatedAt: '2026-11-18T12:53:12.547935+00:00'
 ---
 
 > **30초 요약:** 1981년 타이베이 남양가와 로스푸로 거리에 48곳의 대학 재수 학원과 10만 명 이상의 학생들이 있었으나, 2023년에는 단 3곳, 약 2,500명만이 남아있다. 타이완은 '단 한 번의 시험으로 평생을 결정한다'는 인식을 깨기 위해 30년간 교육 개혁을 시도했고 재수 학원은 사라졌지만 보습 학원은 그렇지 않았다. 신 교육 과정이 도입된 후 5년 동안 전국 문과/이과 보습 학원은 960곳이나 늘었다. 이 순환 뒤에는 '공정성'이라는 정의에 대한 한 섬의 반복적인 변증법이 숨어있다.

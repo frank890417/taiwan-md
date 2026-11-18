@@ -3,21 +3,19 @@ title: '태양꽃 학운——그 30초 이후의 12년'
 description: '한 명의 입법위원이 바닥에 엎드려 목걸이 마이크로 30초를 읽어냈고, 이는 24일간의 국회 점거와 한 세대의 정치 각성을 촉발했으며, 타이완 경제가 중국에서 다른 방향으로 전환되는 시점이 되었다. 12년이 지난 지금, 학생들이 요구한 법안은 통과되지 않았지만, 그들은 자신들이 어떤 전쟁을 치르고 있는지도 모른 채 승리했다.'
 date: 2026-04-12
 category: 'Society'
-tags:
-  - '사회운동'
-  - '민주주의'
-  - '양안관계'
-  - '시민기술'
+tags: ['사회운동', '민주주의', '양안관계', '시민기술']
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/太陽花學運.md'
-sourceCommitSha: 'e6c58721'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f622a7c42dce34d6'
 sourceBodyHash: 'sha256:2558980b3f59cb6f'
-translatedAt: '2026-06-16T17:14:05Z'
+translatedAt: '2026-11-18T13:15:24.189568+00:00'
 ---
 
 > **30 초 개요:** 2014년 3월 17일, 국민당 입법위원 장경중이 바닥에 엎드려 목걸이 마이크로 30초 동안 서비스 무역 협정 “심사 완료”라고 선언했다. 그날 밤, 200명 넘는 학생들이 방화벽을 뚫고 입법원에 진입해 iPad 하나로 24시간 라이브 스트리밍을 구축, 모든 텔레비전 채널을 우회했다. 24일 후 학생들은 퇴거했지만, 서비스 무역은 부결되지 않았다—역사에 의해 버려졌다. 12년 뒤의 수치는 모든 것을 보여준다: 타이완의 대중(홍콩 포함) 수출 의존도가 42%에서 31.5%로 하락했다. 그들은 자신들이 어떤 전쟁을 치르고 있는지도 모른 채 승리했다.
