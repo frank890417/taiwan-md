@@ -4,15 +4,18 @@ description: 'El 10 de abril de 2026, Cheng Li-wen se reunió con Xi Jinping en 
 date: 2026-04-11
 category: 'Society'
 tags:
-  - 'relaciones a ambos lados del estrecho'
-  - 'diálogo entre el KMT y el PCCh'
-  - 'Cheng Li-wen'
-  - 'Xi Jinping'
-  - 'geopolítica'
-  - 'política'
-  - '2026'
+  [
+    'relaciones a ambos lados del estrecho',
+    'diálogo entre el KMT y el PCCh',
+    'Cheng Li-wen',
+    'Xi Jinping',
+    'geopolítica',
+    'política',
+    '2026',
+  ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
+difficulty: 'advanced'
 readingTime: 14
 featured: true
 lastVerified: 2026-04-11
@@ -22,12 +25,13 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-translatedAt: '2026-06-12T00:53:42+08:00'
-difficulty: 'advanced'
+translatedAt: '2026-11-18T12:22:02.219681+00:00'
 ---
 
 # 2026 Cheng Li-wen y Xi Jinping: diez minutos del reencuentro de líderes del KMT y el PCCh tras una década

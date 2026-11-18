@@ -4,20 +4,24 @@ description: 'Un legislador se tumbó en el suelo y, usando un micrófono de sol
 date: 2026-04-12
 category: 'Society'
 tags:
-  - 'movimiento social'
-  - 'democracia'
-  - 'relaciones a ambos lados del estrecho'
-  - 'tecnología cívica'
+  [
+    'movimiento social',
+    'democracia',
+    'relaciones a ambos lados del estrecho',
+    'tecnología cívica',
+  ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/太陽花學運.md'
-sourceCommitSha: 'e6c58721'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f622a7c42dce34d6'
 sourceBodyHash: 'sha256:2558980b3f59cb6f'
-translatedAt: '2026-06-16T17:14:11Z'
+translatedAt: '2026-11-18T13:14:13.999931+00:00'
 ---
 
 > **Resumen de 30 segundos:** el 17 de marzo de 2014, el legislador del Kuomintang Zhang Qingzhong (張慶忠) se tumbó en el suelo y, usando un micrófono de solapa, anunció en treinta segundos que el Acuerdo de Comercio Transfronterizo (服貿) “se consideraba revisado”. Durante la noche, más de doscientos estudiantes escalaron el muro del Yuan Legislativo, montaron una transmisión en directo de veinticuatro horas con un iPad, eludiendo a todas las cadenas de televisión. Veinticuatro días después los estudiantes se retiraron; el acuerdo no fue rechazado—fue abandonado por la historia. Doce años después, los números lo explican todo: la dependencia de Taiwán del comercio con China pasó del 42 % al 31,5 %. Ganaron una guerra que ni siquiera sabían que estaban librando.

@@ -38,11 +38,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'da67ec6fe'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:c62b916ed21bb09b'
 sourceBodyHash: 'sha256:f87da2052ad611fa'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-11-18T13:01:04.747338+00:00'
 ---
 
 > **Resumen en 30 segundos:** Eswatini (renombrado de "Suazilandia" en 2018) es el único país diplomático africano de Taiwán. Estableció relaciones con la República de China (Taiwán) en septiembre de 1968, cumpliendo 58 años en 2026. El rey Mswati III nació en abril de 1968; cinco meses después, el país declaró su independencia y estableció relaciones con Taiwán. Su vida se ha superpuesto casi por completo a la historia diplomática de Taiwán. Hasta 2024, ha visitado Taipéi más de 17 veces[^1]. Tras la ruptura con Botsuana en mayo de 2018, Eswatini se convirtió en el único país diplomático africano de Taiwán[^12]. El 2 de mayo de 2026, Lai Ching-te visitó Eswatini. Originalmente planeado para el 22 de abril, su viaje fue cancelado sin previo aviso por presión china sobre Seychelles, Mauricio y Madagascar. Posteriormente, Mswati envió un Airbus A340 real de Eswatini para recoger a su viceprimer ministro Thulisile Dladla en Taipéi, y Lai Ching-te llegó directamente a Mbabane desde Taipéi el 2 de mayo[^3]. El 1 de mayo del mismo año, China otorgó trato arancelario cero al 98% de los países africanos, excluyendo específicamente a Eswatini[^4]. La variable más grande en este lazo diplomático es si el sucesor de Mswati puede convencer a una generación con un 56% de desempleo juvenil para que siga viendo a Taiwán como amigo (una pregunta más difícil de responder que "¿cuánto dinero usa China?").

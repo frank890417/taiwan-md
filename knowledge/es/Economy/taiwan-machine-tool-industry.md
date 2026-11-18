@@ -2,6 +2,7 @@
 title: 'La industria taiwanesa de máquinas-herramienta'
 description: 'Desde el Valle Dorado de Dadu Shan hasta TMTS 2026: la resiliencia, el colapso y el renacimiento de la industria taiwanesa de máquinas-herramienta, y la ansiedad estructural de caer del 5.º al 7.º puesto mundial en 2024.'
 date: 2026-04-11
+category: 'Economy'
 tags:
   [
     'máquinas-herramienta',
@@ -15,17 +16,18 @@ tags:
   ]
 subcategory: '傳統產業'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
-translatedFrom: Economy/台灣機械工具產業.md
-sourceCommitSha: 'f99a9959'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Economy/台灣機械工具產業.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: 2026-05-01T20:54:23+08:00
-category: Economy
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T12:43:44.983353+00:00'
 ---
 
 # La industria taiwanesa de máquinas-herramienta
