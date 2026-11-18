@@ -2088,6 +2088,7 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **原則**：`heal-frontmatter-types.SYNC_SCALAR_FIELDS` 只有卡片圖四欄與 featured。11-17 補標 511 篇「🌱 進化中・待查證」（`curation`／`curationReason`）讓十二語各約 480 篇變 metadata-stale；dispatcher 的補丁路徑會把兩欄抄進譯文（驗過 en〈NVIDIA 在台灣〉），但若有人用 `bump-source-sha.py` 整批 Tier 0b，譯文會變 fresh 卻沒有「待查證」標籤，十二語讀者看到的是未審初稿長得像查證過的文章，正好是 issue #1995 要修的事。
 - **為什麼沒當場修**：加進同步集不對稱。抄「incubating」是安全的，日後 zh 升「verified」時抄過去，就是替 body 還停在舊版的譯文蓋章，跟同步集刻意不收 lastVerified 是同一個顧慮。要有方向性規則（只往保守方向抄），是設計決定。
 - **instances**：- 2026-11-18 twmd-babel-nightly 本條（同 pattern 第 2 例：第 1 例是 09-22 卡片圖熱連結）
+  - 2026-11-19 twmd-babel-nightly 後續：甦醒時沒讀到 11-18 這條交接（handoff walk 只撈最新一檔），先寫了 `bump-source-sha.py --curation-only` 並對 4,468 份譯文套用，收官才讀到「在那之前不要整批 bump」。事後核對寫入值全是 `incubating`（unverified 4,415、thin 53），落在保守方向；同班補上方向閘門（zh 值不是 `incubating` 就不收），沒有動一般同步集。一般同步集要不要收這兩欄仍是設計決定，本條不結案
 - **可能層級**：操作規則
 - **相關**：[REFLEXES #38](REFLEXES.md) metadata-stale 變體；issue #1995
 - **verification_count**: 2

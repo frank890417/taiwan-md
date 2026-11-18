@@ -173,6 +173,11 @@ def find_curation_only(status: dict, lang_filter: str | None = None) -> list[dic
         changed = {k for k in set(old[0]) | set(cur[0]) if old[0].get(k) != cur[0].get(k)}
         if not changed or not changed <= set(CURATION_KEYS):
             continue
+        # 只往保守方向抄（LESSONS `metadata-stale-bump-assumes-frontmatter-unchanged`）：
+        # 抄「incubating」只是替譯文加上「待查證」的提醒；zh 升成 verified 或拿掉標記時，
+        # 抄過去等於替沒人看過的譯文蓋查證章，那種留給補丁引擎與人。
+        if cur[0].get("curation") != "incubating":
+            continue
         item["via"] = "curation-only"
         out.append(item)
     return out
