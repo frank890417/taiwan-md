@@ -19,9 +19,14 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
 factCorrectionLog:
-  [
-    "{'date': datetime.date(2026, 5, 9), 'triggered_by': '讀者社群指證', 'corrections': ['1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)', 'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)', '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)']}",
-  ]
+  - date: 2026-05-09
+    triggered_by: '讀者社群指證'
+    corrections:
+      [
+        '1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)',
+        'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)',
+        '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)',
+      ]
 lastHumanReview: false
 readingTime: 14
 researchReport: 'reports/research/2026-05/台灣企業：台積電.md'
@@ -30,15 +35,21 @@ imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 sporeLinks:
-  [
-    "{'id': 68, 'platform': 'threads', 'date': '2026-05-09', 'url': 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'}",
-    "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
-  ]
+  - id: 68
+    platform: 'threads'
+    date: '2026-05-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'
+  - id: 69
+    platform: 'x'
+    date: '2026-05-09'
+    url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-18T08:45:44.415841+00:00'
 ---
 
 # Perusahaan Taiwan: TSMC
@@ -236,13 +247,15 @@ Tak ada yang merencanakan perpindahan skala ini. Tapi di kekeringan terparah 56 
 
 ## Bacaan Lanjutan
 
-- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Desainer chip ponsel global ketiga terbesar, perwakilan lokal model fabless, dengan TSMC adalah kembar siam yang saling melengkapi
-- [Perusahaan Taiwan: ASE Technology](/id/economy/taiwan-enterprise-ase-semiconductor) — Pabrik pengemasan pengujian terbesar dunia, node kunci hilir rantai pasokan sama dengan TSMC
-- [Pasar Saham & Modal Taiwan](/id/economy/taiwan-stock-market) — Kapitalisasi TSMC ~35% total kapitalisasi pasar saham Taiwan, memahami pasar saham Taiwan harus dulu memahami TSMC
-- [Transformasi & Upgrade Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah kasus nyata Taiwan dari pulau fabrikasi jadi pulau teknologi
-- [Stan Shih](/id/people/stan-shih) — Komisaris TSMC 21 tahun, kekayaan terbesar taruh di saham TSMC, pendiri Acer, tapi justru penulis "kurva senyum" yang seru "Taiwan jangan cuma fabrikasi"
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA ke revolusi material nitrida gallium & pengemasan kuantum 50 tahun, seluruh medan ilmu material tempat TSMC
-- [Huang Chong-jen](/id/people/frank-huang-psmc) — Pendiri Mosel/VIS, di pulau sama jalan lain: sama bikin wafer, pernah hutang ribuan miliar delisting, sembilan tahun baru naik kembali bursa
+- [Topik Industri Taiwan](/industry/) — Menggunakan statistik resmi untuk memetakan struktur industri: ekspor dan PDB selama tujuh puluh tahun, taman sains, pabrik di berbagai kota/kabupaten, sepuluh besar kapitalisasi pasar dari tahun ke tahun, ditambah enam perspektif berbeda mengenai perdebatan publik.
+- [Peta Rantai Pasok](/industry/supply-chain-map/) — Tiga rantai utama: semikonduktor, server AI, dan tungsten; meninjau selangkah demi selangkah perusahaan mana yang ada di Taiwan dan bagian mana yang bergantung pada luar negeri.
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Desainer chip ponsel terbesar ketiga di dunia, perwakilan lokal untuk model tanpa pabrik (fabless), yang merupakan "anak kembar" yang saling melengkapi dengan TSMC.
+- [Perusahaan Taiwan: ASE Group](/id/economy/taiwan-enterprise-ase-semiconductor) — Perusahaan pengemasan dan pengujian (OSAT) terbesar di dunia, titik kunci di hilir dalam rantai pasok yang sama dengan TSMC.
+- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Kapitalisasi pasar TSMC mencakup sekitar 35% dari total kapitalisasi pasar saham Taiwan; untuk memahami pasar saham Taiwan, Anda harus memahami TSMC terlebih dahulu.
+- [Transformasi dan Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah contoh nyata transformasi Taiwan dari "pulau manufaktur kontrak" menjadi "pulau teknologi".
+- [Shi Zhenrong](/id/people/stan-shih) — Direktur TSMC selama 21 tahun dan pendiri Acer yang menaruh kekayaan terbesarnya pada saham TSMC; ia adalah sosok di balik "kurva senyum" yang menyarankan agar Taiwan tidak hanya menjadi manufaktur kontrak.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Revolusi material selama 50 tahun, mulai dari transfer teknologi RCA hingga Gallium Nitride (GaN) dan pengemasan kuantum; seluruh medan perang ilmu material tempat TSMC berada.
+- [Huang Chung-jen](/id/people/frank-huang-psmc) — Pendiri PSMC/Nexchip, jalan lain di pulau yang sama: melakukan manufaktur wafer yang sama, sempat mengalami delisting karena utang mencapai ratusan miliar NT$, dan baru kembali ke pasar saham sembilan tahun kemudian.
 
 ## Sumber Gambar
 

@@ -2,9 +2,7 @@
 title: 'Industri Pembuatan Instrumen Musik Taiwan: Tangan Taiwan yang Melewati Suara Musik Dunia'
 description: 'Pada akhir 1940-an, Zhang Lianchang, seorang ahli seni bingkai lukisan dari Houli, membongkar sebuah saksofon Jepang yang hangus terbakar di dekat lokasi kebakaran, lalu mengelasnya menjadi tiup tembaga Taiwan pertama; kemudian, Jupiter tim sekolah, empat juta gitar di jalur Nanziz, dan sisir musik Wufeng yang berdering di toko Otaru, semuanya pernah melewati tangan orang Taiwan. Memori rantai pasok yang dapat bersuara ini lebih layak untuk ditinggalkan daripada persentase pahlawan yang suka berkelahi.'
 date: 2026-07-17
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '樂器與製造'
 tags:
   [
     'Pembuatan Instrumen Musik',
@@ -17,19 +15,28 @@ tags:
     'Taichung',
     'Kaohsiung',
   ]
-readingTime: 22
+subcategory: '樂器與製造'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-07/台灣樂器製造.md'
+image: '/article-images/music/saxophone-craft-object-2017.webp'
+imageCredit: '薩克斯風本體示意 · Wikimedia Commons · CC BY-SA 4.0（非后里特定廠牌實拍）'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg'
+readingTime: 22
+rationale:
+  why_this_hook: '從 salvage 銅的不可替代身體場景切入，讓「隱形供應鏈記憶」先成為可感的物件，再拆英雄數字、展開校隊／楠梓／霧峰三層隱形。'
+  whats_excluded: '電子樂器與二胡古箏長支線；工業4.0／永續空話；兩岸統獨國禮政治化；假 OEM 貼牌清單（Selmer 產線等無釘死源）；假書目四本；「中國搶走」單一因果；失敗論脊椎；1970s 開廠／10萬35%／全國吉他200萬／協櫻1971／日月潭館／Merida吉他／全豐1965／Sankyo百年／Jupiter后里起家。'
+relatedDiary: ['2026-07-17-221115-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: 'b4f3dab6'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5ffbb5b925e1997f'
 sourceBodyHash: 'sha256:cda00c8983ea5b23'
-translatedAt: '2026-07-18T18:59:54+08:00'
-image: /article-images/music/saxophone-craft-object-2017.webp
-imageCredit: '薩克斯風本體示意 · Wikimedia Commons · CC BY-SA 4.0（非后里特定廠牌實拍）'
+translatedAt: '2026-11-18T07:20:25.053197+00:00'
 ---
 
 # Industri Pembuatan Instrumen Musik Taiwan: Tangan Taiwan yang Melewati Suara Musik Dunia
@@ -244,7 +251,7 @@ Keesokan kali mendengar saksofon, tiup logam tim sekolah, kotak musik berputar, 
 
 [^12]: Pemeriksaan sumber independen Stage 1 ini untuk "produksi tahunan Houli 100.000 / 35% global", "produksi gitar nasional 2 juta" negatif (hanya sirkular lama); lihat `reports/research/2026-07/台灣樂器製造.md` §Pembelaan Ilusi dan §8.A / §8.C temuan negatif.
 
-[^13]: [Taipei Times Clinton Kunjungan Taiwan Beri Instrumen 2005-03-01](https://www.taipeitimes.com/News/front/archives/2005/03/01/2003225002) dan [DigiArchives LC Beri Instrumen Keterangan](https://catalog.digitalarchives.tw/item/00/32/99/86.html) — Surat kabar mengkonfirmasi saksofon hadiah makan malam; DigiArchives menandai LC / Houli, silang mengonfirmasi peristiwa hadiah negara 2005.
+[^13]: [Taipei Times Clinton Kunjungan Taiwan Beri Instrumen 2005-03-01](https://www.taipeitimes.com/News/front/archives/2005/03/01/2003225002) — dan [DigiArchives LC Beri Instrumen Keterangan](https://catalog.digitalarchives.tw/item/00/32/99/86.html) — Surat kabar mengkonfirmasi saksofon hadiah makan malam; DigiArchives menandai LC / Houli, silang mengonfirmasi peristiwa hadiah negara 2005
 
 [^14]: [TaiwanPlus, “Houli: Taiwan’s Home of the Saxophone…,” 2026](https://www.taiwanplus.com/news/taiwan-news/taiwan-culture/260622025/houli-taiwans-home-of-the-saxophone-still-embraces-high-end-craft) — Media internasional bahasa Inggris: puncak sekitar 30 pabrik, hari ini sekitar 4 pabrik, beralih ke kerajinan tingkat tinggi; metodologi jumlah tidak dipublikasikan, dibaca berdampingan dengan angka tengah 2005-18.
 
@@ -262,7 +269,7 @@ Keesokan kali mendengar saksofon, tiup logam tim sekolah, kotak musik berputar, 
 
 [^21]: [Kung Hsueh She aboutSelf JUPITER](https://www.khsmusic.com.tw/aboutSelf?name=JUPITER) — Cerita diri perusahaan 1980 merek, 46 negara, 2005 ekspor menembus 120.000 unit, posisi "tiga terbesar"; teks utama menandai sumber perusahaan.
 
-[^22]: Contoh narasi pendidikan / ritel AS: [HS Music Service instrument brands](https://www.hsmusicservice.com/t-best-instrument-brands.aspx) dll. menempatkan Jupiter sebagai merek pilihan tiup logam sekolah; tidak ada tabel pangsa pasar publik yang tepat, hanya sebagai bukti kualitatif saluran.
+[^22]: [HS Music Service instrument brands](https://www.hsmusicservice.com/t-best-instrument-brands.aspx) — Contoh narasi pendidikan / ritel AS:dll. menempatkan Jupiter sebagai merek pilihan tiup logam sekolah; tidak ada tabel pangsa pasar publik yang tepat, hanya sebagai bukti kualitatif saluran.
 
 [^23]: [Jazzfuel, best saxophone brands review](https://jazzfuel.com/best-saxophone-brands/) — Posisi ke arah musisi: Jupiter tahan banting, mudah perawatan, reputasi belum sepenuhnya mengejar Yamaha kelas yang sama, memberikan ketebalan posisi relatif.
 
