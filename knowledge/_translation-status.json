@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T22:10:37+08:00",
-    "zhCommitHead": "580237010",
+    "lastUpdated": "2026-11-18T22:10:54+08:00",
+    "zhCommitHead": "f816f0942",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1191,
-        "fresh": 701,
+        "fresh": 702,
         "stale": 51,
-        "metadata_stale": 429,
+        "metadata_stale": 428,
         "missing": 10,
         "orphan": 0
       },
@@ -131319,20 +131319,18 @@
         "ar": {
           "path": "ar/People/daptoper-roblox-youtuber.md",
           "translatedFrom": "People/有感筆電.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:5a21ca32e8e63623",
           "sourceBodyHash": "sha256:2712f87a8f564cdd",
-          "translatedAt": "2026-07-25T17:25:43+08:00",
+          "translatedAt": "2026-11-18T21:27:45+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 10761,
+          "bytes": 12055,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/daptoper-roblox-youtuber.md",
