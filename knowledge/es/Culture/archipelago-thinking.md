@@ -2,9 +2,7 @@
 title: 'Pensamiento archipelágico: devolver Taiwán al mapa del mundo malayo'
 description: 'Taiwán no es una isla aislada en la periferia china; también es el extremo nororiental del mundo malayo, la patria originaria de la familia lingüística austronesia y el punto de partida de la expansión por el Pacífico. Si giras el mapa 30 grados hacia el sur, verás otro sistema de coordenadas plenamente válido, pero omitido.'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '文化地理'
 tags:
   [
     'archipiélagos',
@@ -14,31 +12,37 @@ tags:
     'pueblos indígenas',
     'geografía cultural',
   ]
+subcategory: '文化地理'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: true
-translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '0c0b1668'
-sourceContentHash: 'sha256:69f8f034dcafc5a6'
-sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
-translatedAt: '2026-05-17T05:06:52+08:00'
+researchReport: 'reports/research/2026-05/群島思維.md'
 image: '/article-images/culture/austronesian-migration-map.webp'
 imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).svg'
+viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/群島思維.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:da7a8eb43a26882e'
+sourceBodyHash: 'sha256:3ca31f4ebc8ab851'
+translatedAt: '2026-11-18T19:27:43.196811+00:00'
 ---
 
-> **Panorama en 30 segundos:** Al desplegar un mapa de Taiwán, la mayoría ve una pequeña isla en el borde del continente chino. Pero si giras el mapa 30 grados en sentido horario y lo prolongas hacia el sur, verás otro mapa igualmente válido: Taiwán es también el extremo nororiental del mundo malayo (Nusantara), la patria lingüística de 400 millones de austronesios y el punto de partida de la historia de expansión por el Pacífico. Un arete de jade excavado en Fengtian, Hualien, ya aparecía hace 3500 años en yacimientos arqueológicos de las islas Batanes, Luzón, Vietnam y Tailandia. El lingüista Robert Blust calculó, a partir de la diversidad léxica, que nueve de las diez grandes ramas austronesias están en Taiwán. La lengua tao de la isla Orquídea es inteligible en un 60% con la de los ivatan de Batanes. Lo que este artículo busca hacer es restituir ese otro mapa omitido, para que ambos mapas permitan ver el Taiwán real.
+> **Resumen en 30 segundos:** Al desplegar un mapa de Taiwán, la mayoría ve una pequeña isla en el borde de China continental. Pero si giras el mapa 30 grados en el sentido de las agujas del reloj y te extiendes hacia el sur, verás otro mapa igualmente válido: Taiwán es, al mismo tiempo, el extremo noreste del mundo malayo (Nusantara), la patria lingüística de los 400 millones de personas de las lenguas austronesias y el punto de partida de la expansión por el Pacífico. Un anillo de jade extraído en Fengtian, Hualien, ya aparecía hace 3500 años en yacimientos arqueológicos de las islas Batanes en Filipinas, Luzón, Vietnam y Tailandia. El lingüista Robert Blust dedujo, a partir de la diversidad léxica, que nueve de las diez grandes ramas austronesias se encuentran en Taiwán. Lo que hablan los Yami de Lanyu tiene un sesenta por ciento de similitud con lo que dicen los Ivatan de Batanes. El objetivo de este artículo es completar ese otro mapa omitido para que ambos mapas permitan ver la verdadera Taiwán.
 
-Abre Google Maps y gira Taiwán 30 grados hacia el sur. Haz que el canal de Bashi mire hacia abajo, que la cresta de la cordillera Central apunte al extremo norte de Luzón y que Taroko, en Hualien, quede alineado con las islas Batanes de Filipinas.
+Abre Google Maps y rota Taiwán 30 grados hacia el sur. Deja que el estrecho de Bashi quede hacia abajo, que la cresta de la cordillera Central apunte al extremo norte de la isla de Luzón y que las gorges de Taroko en Hualien se alineen con las islas Batanes en Filipinas.
 
-Entonces lo que ves ya no es una pequeña isla junto al borde oriental de China continental, sino la pieza más septentrional de una cadena de islas. Hacia el sur: la isla Orquídea, Batanes, Luzón, Palawan, Borneo, Java, Sumatra, hasta llegar a Madagascar; hacia el este: Ryukyu, Kyushu, las Kuriles; hacia el sudeste: Micronesia, Polinesia y, en el punto más lejano, la isla de Pascua. Visto desde esta orientación, Taiwán es un extremo de un mundo insular que atraviesa medio planeta, no la periferia de ningún continente.
+Lo que ves entonces no es una pequeña isla junto al borde oriental de China continental, sino la joya más septentrional de una cadena de islas. Hacia el sur: Lanyu, Batanes, Luzón, Palawan, Borneo, Java, Sumatra, extendiéndose hasta Madagascar; hacia el este: Ryukyu, Kyushu, las islas Molucas; hacia el sureste: Micronesia, Polinesia, llegando incluso hasta la Isla de Pascua. Desde esta perspectiva, Taiwán es un punto terminal de un mundo insular que abarca medio planeta, y no la periferia de ningún continente.
 
-Hace 3500 años, una pieza de nefrita taiwanesa extraída en Fengtian, Hualien, fue cortada y pulida por artesanos de la cultura Beinan hasta convertirse en un arete en forma de aro abierto. Siguiendo ramas de la corriente de Kuroshio hacia el sur, llegó por etapas a algún asentamiento del extremo norte de Luzón y terminó apareciendo en un yacimiento que arqueólogos del siglo XXI llamarían “Nagsabaran”[^1]. El mismo material de jade fue excavado después en tumbas prehistóricas de Vietnam, Tailandia y la península malaya. Tras realizar análisis isotópicos, los arqueólogos concluyeron que esas piezas procedían de una misma veta: Fengtian, en Hualien.
+Hace 3500 años, una pieza de jade brillante de Taiwán, extraída en Fengtian, Hualien, fue tallada por artesanos de la cultura Beinan en forma de pendientes circulares (jué). Siguiendo las corrientes de la corriente de Kuroshio hacia el sur, estas piezas llegaron a un asentamiento en el extremo norte de Luzón y terminaron apareciendo en un yacimiento que los arqueólogos del siglo XXI denominaron «Nagsabaran»[^1]. El mismo tipo de jade ha sido desenterrado sucesivamente en entierros prehistóricos de Vietnam, Tailandia y la península malaya. Tras realizar análisis de isótopos, los arqueólogos determinaron que este jade procedía de la misma veta: Fengtian, Hualien.
 
-Dicho de otro modo: 2000 años antes de que el marco chino llegara a esta isla, la isla ya era el centro de una red comercial que atravesaba el mar de China Meridional.
+En otras palabras: 2000 años antes de que el marco cultural chino llegara a esta isla, esta ya era el centro de una red comercial que atravesaba el Mar de China Meridional.
 
-Esto no busca negar las raíces chinas de Taiwán. Desde el inicio del dominio Qing en 1683, la migración han moldeó lenguas, linajes, religiones y gastronomías que constituyen, sin duda, la capa contemporánea más densa de esta isla. Pero bajo esa capa hay otras más antiguas. Ese otro mapa, ocultado durante mucho tiempo por el marco chino —**el mapa de Nusantara, el mapa archipelágico**— es lo que este artículo intenta restituir.
+Esto no pretende negar los orígenes chinos de Taiwán. El lenguaje, los clanes, las creencias y la gastronomía moldeados por la inmigración de los han desde el inicio del dominio Qing en 1683 son, ciertamente, la capa más densa de la base contemporánea de esta isla. Pero bajo esa capa existen otras varias aún más antiguas. El otro mapa que ha sido ocultado durante mucho tiempo por el marco chino —**el mapa de Nusantara, el mapa archipelágico**— es lo que este artículo intenta recuperar.
 
 ## El viaje de una pieza de jade: de Hualien a Luzón
 
@@ -90,19 +94,19 @@ Cuatro rutas independientes —diversidad lingüística, cultura material arqueo
 >
 > Esta controversia refleja más los límites metodológicos de la prehistoria que el colapso de la conclusión misma. Incluso si se acepta la corrección de Richards, la conclusión lingüística de que “las lenguas austronesias se ramificaron desde Taiwán” no queda refutada; la pregunta verdaderamente abierta es si “las personas se desplazaron junto con las lenguas”.
 
-## Nusantara: una palabra del siglo XIV, un mapa de archipiélagos
+## Nusantara: un término del siglo XIV, un mapa de archipiélagos
 
-Para entender el “pensamiento archipelágico”, primero hay que entender una palabra: **Nusantara**.
+Para entender el «pensamiento de archipiélago», primero hay que comprender una palabra: **Nusantara**.
 
-La palabra está compuesta por dos raíces. **Nusa** proviene del javanés antiguo y significa “isla”; si se rastrea más atrás, procede del proto-malayo-polinesio \*nusa, una palabra de los antepasados austronesios. Es decir, el concepto de “isla”, cognado en las lenguas indígenas de Taiwán, sigue vivo en cada lengua austronesia. **Antara** es un préstamo del sánscrito que significa “entre” o “intermediario”. En conjunto, Nusantara = **“las islas entre”, “los archipiélagos dispersos entre el interior y el exterior”**[^13].
+Este término se compone de dos raíces. **Nusa** proviene del javanés antiguo y significa «isla»; si retrocedemos aún más, proviene de la raíz proto-malayo _\*nusa_: es una palabra de los ancestros de las lenguas austronesias. Esto significa que el concepto de «isla», homólogo en las lenguas indígenas de Taiwán, sigue vivo en cada lengua austronesia. **Antara** es un préstamo del sánscrito que significa «entre» o «intermediario». En conjunto, Nusantara = **«las islas entre [otras]» o «el archipiélago disperso entre el interior y el exterior»**[^13].
 
-El término apareció por primera vez en textos javaneses antiguos del siglo XIV, como el _Pararaton_ y el _Nagarakretagama_. En 1336, **Gajah Mada**, primer ministro del **Imperio Majapahit** de Java oriental, pronunció en su ceremonia de investidura el célebre “**juramento Palapa**” (Sumpah Palapa): “No comeré alimentos con especias hasta haber conquistado todo Nusantara”[^14].
+Este término aparece por primera vez en documentos antiguos de Java del siglo XIV, como el _Pararaton_ y el _Nagarakretagama_. En 1336, el primer ministro del **Imperio Majapahit** de Java Oriental, **Gajah Mada**, pronunció su famoso «**Juramento Palapa**» (_Sumpah Palapa_) durante una ceremonia de investidura: «Antes de conquistar todo Nusantara, no consumiré alimentos con especias»[^14].
 
-En aquel momento, Nusantara se refería a **las islas periféricas fuera de Java**: Sumatra, Borneo, Célebes, la península malaya e incluso lugares tan lejanos como Luzón. En la Indonesia contemporánea, la palabra sigue designando el archipiélago mismo: cuando Indonesia anunció en 2022 el traslado de su capital, la nueva capital recibió el nombre de **Nusantara**[^15].
+En aquel entonces, Nusantara se refería a las **islas periféricas fuera de Java**: Sumatra, Borneo, Sulawesi, la península malaya e incluso hasta Luzón. La Indonesia contemporánea sigue utilizando este término para referirse al archipiélago mismo: cuando Indonesia anunció el traslado de su capital en 2022, el nombre de la nueva capital fue **Nusantara**[^15].
 
-Pero el uso de Nusantara en este artículo no coincide con la imaginación territorial del nacionalismo indonesio. Tomamos prestado el **sentido geográfico-cultural anterior al Estado-nación moderno**: un mundo compuesto por más de 24.000 islas que atraviesa el mar de China Meridional y el Pacífico occidental, donde personas, objetos, lenguas y creencias circulaban entre isla e isla con más frecuencia que entre continente e isla.
+Sin embargo, el uso de Nusantara en este artículo difiere de la imaginación territorial de los nacionalistas indonesios. Nosotros tomamos prestado el **significado cultural y geográfico del término, anterior a los estados-nación modernos**: un mundo que abarca el Mar de China Meridional y el Pacífico Occidental, compuesto por más de 24.000 islas, donde el intercambio de personas, objetos, lenguas y creencias entre las islas es más frecuente que la comunicación entre la tierra firme y las islas.
 
-Si desplegamos ese mapa, Taiwán no está en la periferia: es su **extremo nororiental**.
+Al desplegar este mapa, la posición de Taiwán no es periférica, sino que se encuentra en el **extremo noreste**.
 
 ## El testimonio vivo de la isla Orquídea: dos pueblos con 60% de inteligibilidad
 
@@ -242,54 +246,54 @@ La próxima vez que alguien te pregunte “a dónde pertenece Taiwán realmente�
 
 ## Referencias
 
-[^1]: [台灣史前文化的奧祕：跨越千年傳播萬里的台灣玉](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Artículo especial de SciTech Vista del Ministerio de Ciencia y Tecnología, que registra cómo el jade de Fengtian, Hualien, circuló mediante comercio transmarítimo hasta yacimientos prehistóricos de Luzón, Palawan, Vietnam, Camboya y Tailandia.
+[^1]: [Los misterios de la cultura prehistórica de Taiwán: el jade taiwanés que recorrió miles de kilómetros a través de los milenios](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Artículo especial de la sección 'Science Panorama' del Ministerio de Ciencia y Tecnología, que registra cómo el jade de Fengtian, en Hualien, circuló a través del comercio marítimo hacia sitios prehistóricos en Luzón, Palawan, Vietnam, Camboya y Tailandia.
 
-[^2]: [卑南遺址](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Entrada de Wikipedia sobre el yacimiento de Beinan, que registra el asentamiento prehistórico descubierto accidentalmente en 1980 durante las obras del ferrocarril de la línea Sur, fechado entre 5300 y 2300 años antes del presente.
+[^2]: [Sitio arqueológico de Beinan](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Entrada de Wikipedia sobre el sitio de Beinan, que registra un asentamiento prehistórico descubierto accidentalmente durante las obras del ferrocarril de la línea Sur en 1980, con una antigüedad de entre 5300 y 2300 años.
 
-[^3]: [卑南遺址展示新亮點：「臺灣玉的海上貿易往來」啟航登場](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Comunicado de prensa de 2024 del Ministerio de Cultura, que anunció la apertura de la nueva unidad expositiva “Intercambios comerciales marítimos del jade taiwanés” en el Parque del Yacimiento de Beinan.
+[^3]: [Nuevo punto destacado en la exhibición del sitio de Beinan: se inaugura «El comercio marítimo del jade taiwanés»](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Comunicado de prensa del Ministerio de Cultura de 2024, que anuncia el lanzamiento de la nueva unidad de exhibición «El comercio marítimo del jade taiwanés» en el Parque Arqueológico de Beinan.
 
-[^4]: [出口至海外的「臺灣玉」](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Artículo de SciTech Vista que detalla los talleres prehistóricos de jade excavados en el yacimiento de Cigan, Hualien, y sus técnicas de producción.
+[^4]: [«Jade taiwanés» exportado al extranjero](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Artículo especial de 'Science Panorama' que detalla los grupos de talleres de objetos de jade prehistóricos y sus técnicas de fabricación hallados en el sitio de Cigan, Hualien.
 
-[^5]: Bellwood, Peter, & Dizon, Eusebio. (2005). [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33). _Journal of Austronesian Studies_, 1(1), 1-33. — Resultados del proyecto arqueológico desarrollado entre 2002 y 2005 por la Universidad Nacional Australiana, el Museo Nacional de Filipinas y la Universidad de Filipinas.
+[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Resultados del proyecto arqueológico realizado entre 2002 y 2005 en colaboración con la Universidad Nacional de Australia, el Museo Nacional de Filipinas y la Universidad de Filipinas.
 
-[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — La gran similitud entre la cerámica lapita y la cerámica del yacimiento de Nagsabaran, en Luzón, es una de las evidencias de cultura material de la teoría de la “salida desde Taiwán”.
+[^6]: [Cultura Lapita - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — La alta similitud entre la cerámica Lapita y la cerámica del sitio de Nagsabaran en Luzón es una de las evidencias de cultura material de la «hipótesis de origen en Taiwán».
 
-[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Entrada sintética de Britannica sobre la ruta de expansión de la cultura lapita, fechada entre 1600 y 500 a. C.
+[^7]: [Cultura Lapita | Polinesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Entrada de Britannica sobre las rutas de expansión de la cultura Lapita (1600 a. C. al 500 a. C.).
 
-[^8]: Blust, Robert. (1984). [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content). _Asian Perspectives_, 26(1), 45-67. — Artículo pionero de Blust que sentó la base lingüística de la hipótesis austronesia de la “salida desde Taiwán”.
+[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Artículo pionero de Blust que estableció las bases lingüísticas de la «hipótesis de origen en Taiwán» para las lenguas austronesias.
 
-[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Entrevista de 2022 de Taiwan Insight en la que Blust explica personalmente la lógica del argumento según el cual nueve de las diez grandes ramas austronesias están en Taiwán.
+[^9]: [Una entrevista con el profesor Robert Blust: «La expansión austronesia desde Taiwán es uno de los capítulos más grandes de la historia humana»](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Entrevista de Taiwan Insight de 2022, donde Blust explica personalmente la lógica argumentativa de que nueve de las diez ramas de las lenguas austronesias se encuentran en Taiwán.
 
-[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Obra representativa de Bellwood que argumenta sistemáticamente la teoría de la “salida desde Taiwán” desde la cultura material arqueológica.
+[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Obra representativa de Bellwood que argumenta sistemáticamente la «hipótesis de origen en Taiwán» desde la perspectiva de la cultura material arqueológica.
 
-[^11]: Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/). _Science_, 323(5913), 479-483. — Estudio que analiza 400 lenguas austronesias mediante filogenética bayesiana y calcula que la expansión desde Taiwán ocurrió hace unos 5230 años.
+[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Análisis de 400 lenguas austronesias mediante el método de filogenia bayesiana, estimando que la expansión desde Taiwán ocurrió hace aproximadamente 5230 años.
 
-[^12]: [植物 DNA 竟記載著歷史！構樹說的南島語族遷徙史](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entrevista de Research for You, de la Academia Sínica, que presenta la investigación del equipo de Chung Kuo-fang sobre el ADN de la morera de papel como apoyo biogeográfico a la teoría de la “salida desde Taiwán”.
+[^12]: [¡El ADN vegetal registra la historia! La historia de las migraciones austronesias a través del Broussonetia papyrifera](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Entrevista especial de 'Research Matters' del Academia Sinica, que presenta el estudio del equipo de Chung Kuo-fang sobre cómo el ADN del árbol de papel (Broussonetia papyrifera) apoya la «hipótesis de origen en Taiwán» desde una perspectiva biogeográfica.
 
-[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Investigación etimológica completa del término Nusantara: javanés antiguo _nusa_ (“isla”) + préstamo sánscrito _antara_ (“entre”).
+[^13]: [Nusantara (término) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Etimología completa de Nusantara: del javanés antiguo _nusa_ (isla) + el préstamo del sánscrito _antara_ (entre).
 
-[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entrada sobre el Imperio Majapahit de Java oriental en el siglo XIV, con el contexto histórico del “juramento Palapa” de Gajah Mada en 1336.
+[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Entrada sobre el imperio Majapahit del este de Java en el siglo XIV, que incluye el contexto histórico del «Juramento Palapa» de Gajah Mada en 1336.
 
-[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Reportaje de la agencia nacional indonesia Antara sobre la evolución del término Nusantara desde concepto territorial del siglo XIV hasta nombre de la nueva capital en 2022.
+[^15]: [Nusantara y sus significados cambiantes](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Reportaje de la agencia de noticias indonesia Antara sobre la evolución del término Nusantara, desde un concepto territorial en el siglo XIV hasta ser el nombre de la nueva capital en 2022.
 
-[^16]: [達悟族 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Entrada de Wikipedia sobre el pueblo tao, que registra una similitud léxica aproximada del 60% entre la lengua tao y la lengua de los habitantes del norte de Batanes.
+[^16]: [Yami (pueblo) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Entrada de Wikipedia sobre el pueblo Yami, que registra una similitud de aproximadamente el 60% entre la lengua yami y las lenguas de los residentes de las islas Batanes del norte.
 
-[^17]: [蘭嶼與巴丹島的故事](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Especial del Consejo de Documentación de los Pueblos Indígenas que registra la correspondencia entre piezas de jade, vasijas, cuentas de vidrio y cuentas de ágata excavadas en la isla Orquídea y la cultura material de yacimientos contemporáneos de Batanes.
+[^17]: [La historia de Lanyu y las Islas Batanes](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Tema especial de la Asociación de Literatura de los Pueblos Indígenas, que registra la correspondencia entre la cultura material (objetos de jade, vasijas de cerámica y cuentas de vidrio) hallada en Lanyu y los sitios contemporáneos en las Batanes.
 
-[^18]: [達悟族祖先千年前葬身菲律賓，後裔赴巴丹島追尋足跡](https://www.thenewslens.com/article/121265) — Reportaje de The News Lens sobre los viajes organizados por personas tao a Batanes desde la década de 1990 para buscar sus raíces.
+[^18]: [Los ancestros del pueblo Yami murieron en Filipinas hace mil años; sus descendientes viajan a las Islas Batanes para seguir sus huellas](https://www.thenewslens.com/article/121265) — Reportaje de The News Cop que detalla las múltiples expediciones organizadas por el pueblo Yami desde la década de 1990 para buscar sus raíces en Batanes.
 
-[^19]: [南島民族 - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Entrada sobre los pueblos austronesios, donde se indica que la lengua tao pertenece a la rama malayo-polinesia y guarda una relación más distante con las nueve ramas formosanas de la isla principal de Taiwán.
+[^19]: [Austronesios - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Entrada sobre los pueblos austronesios; la lengua yami pertenece a la rama malayo-polinesia, por lo que su relación con las nueve ramas de las lenguas formosas de la isla de Taiwán es más distante.
 
-[^20]: [Hermeneutics of Nusantara 群島詮釋學](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Número especial n.º 34 de _No Man’s Land_ (NML), septiembre de 2017, con la nota editorial en la que Cheng Wen-chi lanzó formalmente el proyecto “Base de datos archipelágica”.
+[^20]: [Hermenéutica de Nusantara: Interpretación del archipiélago](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Nota editorial de la edición n.º 34 (septiembre de 2017) de No Man's Land (NML), donde Cheng Wen-chi lanza formalmente el proyecto «Base de datos del archipiélago».
 
-[^21]: Cheng Wen-chi, “Nota editorial de Hermeneutics of Nusantara”, _No Man’s Land_, n.º 34, septiembre de 2017. Véase [archivo completo del n.º 34 de No Man’s Land](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/).
+[^21]: [Documento completo de No Man's Land n.º 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Cheng Wen-chi, «Nota editorial de Hermenéutica de Nusantara», _No Man's Land_, n.º 34, septiembre de 2017. Véase.
 
-[^22]: Wei Yue-ping, “La experiencia de Okinawa: la relación entre intelectuales y pueblo”, citada por Cheng Wen-chi en “Nota editorial de Hermeneutics of Nusantara”, _No Man’s Land_, n.º 34.
+[^22]: Wei Yue-ping, «La experiencia de Okinawa: la relación entre los intelectuales y el pueblo», citada por Cheng Wen-chi en «Nota editorial de Hermenéutica de Nusantara», _No Man's Land_, n.º 34.
 
-[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Autobiografía de Benedict Anderson, donde plantea la metodología de la “comparación como estrategia discursiva”, citada por Cheng Wen-chi en el n.º 34 de NML.
+[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Autobiografía de Benedict Anderson que propone la metodología de «la comparación como estrategia discursiva», citada por Cheng Wen-chi en NML n.º 34.
 
-[^24]: [台灣的南島民族外交](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Presentación del Centro de Asuntos Internacionales Indígenas de la Universidad Nacional Dong Hwa sobre la participación de Taiwán en el Foro de las Islas del Pacífico (PIF) desde 1993.
+[^24]: [La diplomacia de los pueblos austronesios de Taiwán](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Presentación del Centro Internacional de Asuntos Indígenas de la Universidad Nacional Dong Hwa sobre el proceso de participación de Taiwán en el Foro de las Islas del Pacífico (PIF) desde 1993.
 
-[^25]: Ministerio de Relaciones Exteriores de la República de China, [Informe especial “Planificación y estrategias para aplicar el concepto de diplomacia integral combinándose con los países de lenguas austronesias a fin de desplegar una visión de diplomacia de valores”](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf), Comisión de Relaciones Exteriores y Defensa Nacional, 3.er período de sesiones de la 11.ª legislatura del Yuan Legislativo, 7 de mayo de 2025.
+[^25]: [Informe especial: «Planificación y estrategia para integrar a los países de lenguas austronesias mediante el concepto de diplomacia integral para ejercer la visión de la diplomacia de valores»](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Ministerio de Relaciones Exteriores de la República de China, Comité de Asuntos Exteriores y de Defensa del Legislativo, 7.ª sesión de la 11.ª legislatura, 7 de mayo de 2025.
 
-[^26]: [國立臺灣史前文化博物館回歸！從策展觀點重新梳理建築物件](https://www.wowlavie.com/article/ae2300565) — Reportaje de la revista _La Vie_ de 2023 sobre la reapertura al público en mayo de la sede Kangle del Museo Nacional de Prehistoria tras su renovación arquitectónica.
+[^26]: [¡El regreso del Museo Nacional de la Cultura Prehistórica de Taiwán! Reorganización de los objetos arquitectónicos desde una perspectiva curatorial](https://www.wowlavie.com/article/ae2300565) — Reportaje de la revista La Vie de 2023, que indica que el pabellón principal de Kangle del museo prehistórico ha completado su reconstrucción arquitectónica y reabrió al público en mayo.
