@@ -27,11 +27,13 @@ image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-07-28T03:07:46+08:00'
+translatedAt: '2026-11-18T01:53:24.080694+00:00'
 ---
 
 > **30 सेकंड अवलोकन:** 8 सितंबर 2015 की सुबह, जस्टफॉन्ट के जिन शुआन फ़ॉन्ट ने flyingV पर क्राउडफंडिंग शुरू की, 76 मिनट में 15 लाख न्यू ताइवान डॉलर का लक्ष्य पार किया, अंत में 7,667 लोगों ने 25,930,099 डॉलर निवेश किए। यह लेख 1987 में हुआकांग की स्थापना से शुरू होता है, यह देखने के लिए कि एक ऐसा उद्योग जिसे पूरा ताइवान रोज़ पढ़ता है, कैसे ढह गया, और पाठकों का एक वर्ग कैसे तैयार हुआ; साथ ही यह उन लोगों की भी कहानी है जो फ़ॉन्ट बनाते हैं: बौद्ध मूर्तियाँ चित्रित करने वाली लिन श्या (林霞)、ताइयुआन रोड पर आधी सदी से लेड टाइप ढालने वाले चांग च्ये-क्वान (張介冠)、 चौदह साल की उम्र में साइनबोर्ड चित्रकार बने वांग शुई-हो (王水河), और जिन शुआन के बाद उभरे ओपन-सोर्स फ़ॉन्ट, लानयांग मिंगती, और स्वतंत्र डिज़ाइनर पारिस्थितिकी।
