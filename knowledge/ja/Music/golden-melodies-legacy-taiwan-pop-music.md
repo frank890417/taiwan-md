@@ -37,11 +37,13 @@ imageAlt: '2014年の太陽花運動、台北の街頭は抗議する群衆で�
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'a266eaa96'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9dd098f7a5a51bd9'
 sourceBodyHash: 'sha256:7e4e331322aaf847'
-translatedAt: '2026-10-13T04:49:03.104424+00:00'
+translatedAt: '2026-11-18T04:25:15.560620+00:00'
 ---
 
 # 台湾ポップミュージック：世界のために花嫁衣装を仕立てた島に、最後に残ったのは他者が歌えないものを歌えることでした

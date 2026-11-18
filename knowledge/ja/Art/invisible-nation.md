@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '影評光譜兩端與政治攻防：(1) 純影評攻擊（Jay Liu「淪為執政黨宣傳」、Guardian「all over the shop」、Screen Daily 配樂過度煽情、NYC Movie Guru「歌功頌德」）已編入 §「自己掏錢看自己」與 §「框外那個沒有名字的男人」；(2) 親 PRC 倡議（George Koo「台灣不是國家」）僅取其「陳水扁省略」這個跨陣營共識的事實觀察，政治結論不採（research §5）；(3) 匿名藍營社群「稅金拍片」假指控已被製片馮賢賢闢謠，prose 收於 §「自己掏錢看自己」；(4) 綠營內「斷代」批評（周玉蔻）編入 §「框外那個沒有名字的男人」。未深入：呂秀蓮受訪（單源 Taipei Times）、PBS extended cut 片長（未確認）、LSE 抗議放映（無可追溯，rumour）。'
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d85b6c99ab72b318'
 sourceBodyHash: 'sha256:f6ae8560d7e03438'
-translatedAt: '2026-10-13T04:18:55.910477+00:00'
+translatedAt: '2026-11-18T03:40:13.774987+00:00'
 ---
 
 > **30秒概要：** 『見えない国家』（Invisible Nation）は、アメリカの監督である葛靜文（ヴァネッサ・ホープ／Vanessa Hope）が7年をかけて制作したドキュメンタリー映画である。当時の総統であった蔡英文（ツァイ・インウェン／Tsai Ing-wen）への密着インタビューを5回にわたり行い、国連から除名され、オリンピックでは「チャイニーズ・タイペイ」と呼ばざるを得ず、外交関係国の数が22カ国から12カ国へと減少した島の姿を、世界のレンズの前に提示している。2023年にウッドストック映画祭で世界初公開[^1]され、2025年6月に台湾の映画館で公開されると、興行収入はNT$37.71 millionを突破し、台湾のドキュメンタリー史上第3位となった[^2]。しかし、台湾を「見える存在」にしようとするこの作品自体にも、光の当たらない側面がある。最も批判されているのは、7年間にわたり蔡英文総統事務所の協力を得て実現した密着取材であること、そして、最初から最後まで名前が挙げられることのない人物、陳水扁（チェン・シュイビエン）の存在である。

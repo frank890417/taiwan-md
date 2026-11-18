@@ -22,16 +22,18 @@ readingTime: 18
 featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-researchReport: reports/research/2026-06/justfont與台灣字體發展.md
+researchReport: 'reports/research/2026-06/justfont與台灣字體發展.md'
 image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '1ec0df23'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:4e382a7fba09b7dd'
 sourceBodyHash: 'sha256:83fcd71da8d50603'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T03:18:07.298271+00:00'
 ---
 
 > **30秒概覧：** 2015年9月8日の朝、justfontの金萱フォントがflyingVでクラウドファンディングを開始し、76分で150万元の目標を突破。最終的に7,667人が2,593万元を投じた。この記事は1987年の華康設立から語り起こし、全台湾が毎日読む産業がどう崩れたか、読者たちがどう育てられたかを追う。また文字を作る人たちを描く：仏画から入った林霞、太原路で半世紀鉛字を鋳た張介冠、14歳から看板を描いた王水河、そして金萱の後に育ったオープンソースフォント・蘭陽明体・独立デザイナーのエコシステム。
