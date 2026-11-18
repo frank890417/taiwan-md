@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T13:15:47.495397+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-18T10:48:17.496572+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes** : pendant 42 ans d'après-guerre (1945-1987), le monde littéraire taïwanais a vécu sous la condition de « ne pas pouvoir dire » : ne pas pouvoir écrire en japonais, ne pas pouvoir parler du 228, ne pas pouvoir dire que Taïwan était autre chose que la Chine, ne pas pouvoir évoquer la terre natale. Mais chaque génération d'écrivains a appris, par des détours différents, « comment le dire ». Ye Shih-tao est passé de cette page blanche de 1945 à cette _Histoire de la littérature taïwanaise_ de 232 pages en 1987, en traversant le mutisme, trois ans de prison, plus d'une décennie de silence, l'essai de 1965 « La littérature nativiste de Taïwan », puis en 1985 « Sans terre, pas de littérature ». Bai Xianyong lisait Kafka dans un abri antiaérien. Wang Wenxing a mis sept ans à écrire _La Transformation familiale_, un livre qui lui valut des critiques virulentes. Lin Haiyin a démissionné de son poste de rédactrice en chef adjointe du supplément littéraire d'un quotidien pour un seul poème. Yu Kwang-chung a crié « Le loup ! » pour lancer la polémique contre la littérature nativiste. En 1983, Li Ang a fait prendre à Lin Shi un boucherin pour découper son mari. Ce que ces 42 ans ont laissé derrière eux, c'est tout un art du détour linguistique.
@@ -102,29 +104,31 @@ Ye Shih-tao lui-même est arrêté par le Bureau de la Sécurité militaire le 2
 
 En novembre 1965, il publie « La littérature nativiste de Taïwan » dans le n°97 de _Wenxing_. C'est la première fois depuis la page blanche qu'il aborde systématiquement la catégorie de « littérature taïwanaise ». À l'époque, ce terme ne pouvait pas être prononcé directement en public[^23].
 
-## Le « Le loup ! » du supplément littéraire
+## Le supplément littéraire de « Le loup est arrivé »
 
-En avril 1977, le n°2 du magazine _Xianrenzhang_ (Cactus) publie un dossier « Nativité et réalité », édité par Wang Jianzhuang, rassemblant trois articles de Wang Tuo, Yin Zhengxiong et Zhu Xining[^24]. Wang Tuo soutient que l'essor de la littérature nativiste est un phénomène souhaitable et propose de la renommer « littérature réaliste » ; Yin Zhengxiong critique la littérature nativiste qui « risque de devenir un outil pour exprimer la haine, l'aversion et d'autres formes de conscience » ; Zhu Xining critique le courant nativiste pour son provincialisme excessif et soupçonne la « conscience taïwanaise » de « séparatisme ».
+En avril 1977, le deuxième numéro du magazine 《仙人掌雜誌》 (_Cactus_) publie un dossier spécial intitulé « Terroir et Réalité », sous la direction de Wang Chien-chuang, présentant des articles de Wang To (« C'est une littérature "réaliste", pas une "littérature du terroir" »), Yin Cheng-hsiung et Chu Hsi-ning[^24]. Wang To soutient que l'essor de la littérature du terroir est un phénomène positif et suggère de la renommer « littérature réaliste » ; Yin Cheng-hsiung critique le risque que la littérature du terroir « ne devienne un outil d'expression de la haine ou de la rancœur » ; Chu Hsi-ning, quant à lui, reproche au mouvement du terroir de verser dans le régionalisme et estime que l'accent excessif mis sur la conscience taïwanaise présente des « soupçons de séparatisme ».
 
-La charge explosive de la polémique commence à s'accumuler à partir de là.
+C'est ici que les tensions de la polémique commencent à s'accumuler.
 
-En juin, Chen Yingzhen, sous le pseudonyme « Xu Nancun », publie « Les angles morts de la "littérature nativiste" » dans le n°2 de _Taiwan Wenyi_, critiquant la « conscience taïwan » et la « position taïwanaise » de Ye Shih-tao comme « ambiguës et difficiles à déchiffrer ». En juillet, Chen Yingzhen publie à nouveau « La littérature vient de la société et reflète la société » dans le n°5 de _Xianrenzhang_[^25].
+En juin, Chen Ying-chen publie sous le pseudonyme de « Hsu Nan-tsun » un article intitulé 〈Les angles morts de la "littérature du terroir"〉 dans le deuxième numéro de 《台灣文藝》 (_Arts et Lettres de Taïwan_), critiquant la « conscience taïwanaise », la « position taïwanaise » et l'« ambiguïté difficile à interpréter » de Ye Shih-tao. En juillet, Chen Ying-chen publie un autre texte, 〈La littérature provient de la société et reflète la société〉[^25], dans le cinquième numéro de 《仙人掌》 (_Cactus_).
 
-Le 20 août 1977, Yu Kwang-chung publie « Lang Lai Le » (Le loup est arrivé !) dans le supplément littéraire combiné du _United Daily News_, page 12, accusant la littérature nativiste d'être une « littérature ouvrière, paysanne et militaire », citant le discours de Mao Zedong aux entretiens sur la littérature et l'art de Yan'an[^26]. La phrase la plus souvent citée de l'article est : « Crier "Le loup !" sans voir le loup, c'est se troubler soi-même ; voir le loup et ne pas crier "Le loup !", c'est de la lâcheté »[^26].
+Le 20 août 1977, Yu Kwang-chung publie 〈Le loup est arrivé〉 dans le supplément littéraire du _United Daily News_. Il accuse la littérature du terroir d'être une « "littérature des ouvriers, des paysans et des soldats", que certains à Taïwan promeuvent déjà ouvertement », citant les discours de Mao Zedong lors de la Conférence de Yan'an sur la littérature et l'art[^26]. La phrase de son texte qui sera la plus souvent citée par la suite est : « Ne pas voir le loup et crier "le loup est arrivé", c'est s'attirer des ennuis ; voir le loup et ne pas crier "le loup est arrivé", c'est de la lâcheté »[^26].
 
-« Littérature ouvrière, paysanne et militaire » est, dans le Taïwan de 1977, un chapeau qui peut vous envoyer en prison.
+En 1977, à Taïwan, l'étiquette de « littérature des ouvriers, des paysans et des soldats » était une accusation pouvant conduire directement en prison.
 
-Le 29 août, la « Deuxième conférence nationale sur la littérature et l'art » du Kuomintang se réunit, Yu Kwang-chung étant président du comité d'organisation. Wang Jianzhuang se souvient plus tard que l'officier de la Garrison Command responsable de la culture a déclaré lors de la conférence : « Pour ceux qui n'écoutent pas les conseils du gouvernement, le gouvernement ne fait rien pour l'instant, mais le moment viendra »[^27].
+Le 29 août, le Kuomintang tient sa « deuxième conférence nationale sur les arts et la culture », avec Yu Kwang-chung à la présidence. Wang Chien-chuang se souviendra plus tard qu'un responsable du Quartier général de la sécurité, chargé de la culture, a déclaré lors de la réunion : « Pour ceux qui n'écoutent pas les conseils du gouvernement, ce n'est pas que le gouvernement ne fera rien, c'est simplement que le moment n'est pas encore venu »[^27].
 
-La polémique risquait de dégénérer en arrestations.
+La polémique risquait alors de passer à l'étape des arrestations.
 
-Le 19 novembre, l'Incident de Zhongli éclate : Hsu Hsin-liang, candidat à la magistrature du comté de Taoyuan, est soupçonné de fraude électorale ; les manifestants incendient le commissariat de Zhongli, un tournant dans l'histoire du mouvement d'opposition. L'attention du gouvernement est détournée[^28].
+Le 19 novembre, l'incident de Zhongli éclate : Hsu Hsin-liang est soupçonné de fraude lors de sa campagne pour la magistrature du comté de Taoyuan, et des manifestants attaquent le commissariat de Zhongli en y mettant le feu ; c'est un tournant dans l'histoire du mouvement _dangwai_. L'attention du gouvernement est alors détournée[^28].
 
-Le 18 janvier 1978, Wang Sheng, directeur de la Division politique générale du ministère de la Défense nationale, appelle à « unir la nativité » lors de la clôture de la conférence littéraire et artistique de l'année 67 de l'Armée nationale, mettant fin à la polémique[^29]. Chen Fangming compile plus tard les statistiques du _Recueil des débats sur la littérature nativiste_ : 60 % en faveur de la littérature nativiste, 30 % contre, 10 % neutres[^30].
+Le 18 janvier 1978, Wang Sheng, directeur du Département de la guerre psychologique du ministère de la Défense nationale, appelle à « l'unité du terroir » lors de la clôture de la grande conférence culturelle de l'armée pour l'année 67 (1978), mettant fin à la polémique[^29]. Chen Fangming a ultérieurement recensé les positions dans 《鄉土文學討論集》 (_Recueil de discussions sur la littérature du terroir_) : 60 % en faveur de la littérature du terroir, 30 % contre et 10 % neutres[^30].
 
-La polémique se termine sans vainqueur, mais la littérature nativiste gagne les lecteurs. Huang Chunming (_Erzi de Da Wan Ou_, écrit en 1968, volume séparé par Xianrenzhang Publishing en 1969) et Wang Zhenhe (_Jiazhuang Yi Niu Che_, publié dans _Wenxue Jikan_ en 1967, mélange de taïwanais et de mandarin) ont déjà inscrit les petites villes de Yilan et les marchés de Hualien dans la littérature[^31]. Après la polémique, la légitimité de la nativité est établie. Mais le coût de cette polémique est plus profond : chaque écrivain apprend mieux à écrire de manière à ne pas ressembler à de la « littérature ouvrière, paysanne et militaire », c'est-à-dire à s'autocensurer davantage.
+La polémique se solde par une égalité, mais la littérature du terroir a gagné son public. Huang Chun-ming avec 〈Le grand jouet de mon fils〉 (écrit en 1968, première édition en volume chez l'éditeur _Cactus_ en 1969) et Wang Chen-ho avec 〈Une charrette de dot〉 (publié en 1967 dans 《文學季刊》 (_Trimestriel littéraire_), mélangeant taïwanais et mandarin) avaient déjà intégré les petites villes de Lanyang et les marchés de Hualien dans la littérature[^31]. Après cette polémique, la légitimité du terroir est établie. Cependant, le coût de ce débat se fait sentir plus profondément : chaque écrivain a appris à ne pas trop ressembler aux « ouvriers, paysans et soldats », c'est-à-dire à mieux pratiquer l'autocensure.
 
-La phrase entendue par Wang Jianzhuang — « le gouvernement ne fait rien pour l'instant, mais le moment viendra » — est le bruit de fond audible par tous les écrivains pendant ces 42 ans.
+La phrase dont Wang Chien-chuang a été témoin — « ce n'est pas que le gouvernement ne fera rien, c'est simplement que le moment n'est pas encore venu » — est restée la note de fond audible par tous les écrivains durant ces 42 années.
+
+Pour la chronologie complète de la polémique sur la littérature du terroir et les positions de chaque partie, voir l'article spécial dédié.
 
 ## Le boucherin de Lin Shi, à Lucheng
 

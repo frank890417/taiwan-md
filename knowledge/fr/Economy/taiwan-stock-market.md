@@ -20,11 +20,13 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/台灣股市與資本市場.md'
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:323486e516e428ed'
-sourceBodyHash: 'sha256:c34c5e10c2fbc812'
-translatedAt: '2026-07-27T11:33:24.108271+00:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:05af3274e03b254d'
+sourceBodyHash: 'sha256:c641c2a8bf14fd32'
+translatedAt: '2026-11-18T11:07:38.226185+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :** Le 28 avril 2026, la capitalisation totale du marché actions taïwanais atteignait 4,47 billions de dollars américains, dépassant le Canada pour devenir le 6e marché boursier mondial ; à la mi-avril, elle avait déjà dépassé celle du Royaume-Uni. Le moteur sous-jacent est TSMC : 1,8 billion de dollars de capitalisation et un poids proche de 45 % dans l’indice pondéré. L’effondrement des 10 000 points qui, trente-six ans plus tôt, avait fait disparaître collectivement 4,6 millions de comptes, et l’affaire Hung Yuan, cette institution qui promettait 4 % d’intérêt mensuel et ruina 160 000 personnes, ne sont pas encore sortis de la mémoire financière de l’île. Depuis la dizaine de sociétés cotées l’année de la création de la Bourse jusqu’aux 13,93 millions de comptes qui se partagent aujourd’hui le 6e marché de capitaux mondial, Taïwan a mis soixante-quatre ans. Mais cette 6e place contient un paradoxe structurel : sans TSMC, les plus de 1 000 autres valeurs réunies entreraient tout juste autour du 15e rang mondial.
@@ -158,33 +160,35 @@ Entre les années 1990, où « les actions sont du jeu », et les années 2020, 
 
 La colonne de gauche est une mémoire traumatique ; celle de droite, le dividende de l’IA. Trente-six ans les séparent, mais la ligne entre les deux n’est pas montée tout droit.
 
-## Un même indice, deux regards
+## Un même indice, deux perspectives
 
-Le 9 février 1962, la Bourse de Taïwan ouvre ses portes avec seulement une dizaine d'entreprises cotées[^TWSE]. Soixante-quatre ans plus tard, le 28 avril 2026, l'indice pondéré frôle les 40 000 points et la capitalisation totale hisse la place au 6e rang mondial.
+Le 9 février 1962, la Bourse de Taïwan (TWSE) ouvrait ses portes avec seulement une dizaine de sociétés cotées[^TWSE]. Soixante-quatre ans plus tard, le 28 avril 2026, l'indice pondéré est à deux doigts des 40 000 points et sa capitalisation boursière totale grimpe au 6e rang mondial.
 
-Ces soixante-quatre ans font une belle histoire dans les communiqués de presse : de l'ère industrielle avec le ciment, le papier, l'agroforesterie et les mines, à l'économie de la connaissance avec la fonderie de wafers, le refroidissement IA et les communications optiques. Le marché des capitaux taïwanais a mis un cycle sexagésimal pour passer d'une petite épicerie de campagne à la 6e plus grande bourse mondiale.
+Si l'on rédigeait ces soixante-quatre années sous forme de communiqué de presse, le récit serait glorieux : de l'ère industrielle (ciment, papier, agroforesterie, mines) à l'ère de l'économie du savoir (fonderie de semi-conducteurs, refroidissement pour l'IA, communications optiques). En un cycle de soixante ans, le marché des capitaux de Taïwan est passé d'une simple épicerie de campagne au 6e plus grand marché boursier mondial.
 
-Mais cette 6e place de 2026 recèle une ironie structurelle.
+Cependant, ce 6e rang en 2026 cache une étrange anomalie structurelle.
 
-Sur les 4 470 milliards de dollars de capitalisation boursière de la Bourse de Taïwan, TSMC en capte à elle seule près de 45 %. Si l'on retire TSMC de l'indice pondéré, les 1 000 titres restants totalisent environ 2 670 milliards de dollars — ce qui ferait probablement retomber la place autour du 10e rang mondial, au même niveau que l'Arabie saoudite. Dans l'univers des marchés de capitaux, le lien entre le statut de « 6e place mondiale » et « une île » est plus ténu qu'on ne l'imagine.
+Sur la capitalisation de 4,47 billions USD du marché taïwanais, TSMC absorbe à elle seule près de 45 %. Si l'on retirait TSMC de l'indice pondéré, les quelque 1 000 autres titres ne représenteraient plus qu'environ 2,67 billions USD — ce qui ferait chuter Taïwan aux alentours de la 10e place mondiale, un niveau comparable à celui de l'Arabie saoudite. Dans le monde des marchés financiers, le lien entre le statut de « 6e mondial » et celui d'« île » est bien plus ténu qu'on ne l'imagine.
 
-> **✦** « Le 28 avril 2026, les terminaux Bloomberg de New York affichent "Taiwan Overtakes Canada". Cette même nuit, un chauffeur de taxi taipeien attend le flash boursier suivant devant sa radio ; ce qui le préoccupe, ce n'est pas de savoir quel pays du G7 Taïwan a dépassé, mais si TSMC clôturera demain à 2 300. Le titre de Bloomberg proclame « la victoire d'une île » ; le chauffeur, lui, scrute « le niveau d'une seule action ». Un même événement, deux regards — et le second est peut-être plus proche de la vérité que le premier. »
+> **✦** « Le 28 avril 2026, un terminal Bloomberg à New York affiche : "Taiwan Overtakes Canada". Le même soir, à Taipei, un chauffeur de taxi attend le prochain bulletin économique à la radio ; ce qui l'importe n'est pas de savoir quel pays du G7 Taïwan a dépassé, mais si TSMC clôturera demain à 2 300. Le titre de Bloomberg proclame "la victoire d'une île" ; le chauffeur, lui, s'intéresse au "rang d'une action". Un même événement, deux perspectives — et la seconde est peut-être plus proche de la réalité que la première. »
 
-Le krach des 10 000 points de 1990 a détruit la confiance d'une génération envers la Bourse. La hausse de 2026 qui a propulsé l'indice au-delà de 40 000 points et délogé le Canada a rétabli la confiance de ces mêmes gens — sauf que cette fois, l'objet de la confiance est passé de « mes propres sélections » à « cette action TSMC que le monde entier achète ».
+L'effondrement des 10 000 points en 1990 a détruit la confiance d'une génération envers la Bourse. En 2026, cette poussée vers les 40 000 points qui écarte le Canada reconstruit la confiance de cette même population — sauf que cette fois, l'objet de la confiance n'est plus « le titre que j'ai choisi moi-même », mais « ce TSMC que le monde entier achète ».
 
-Ce sommet où se tiennent ensemble 13,93 millions de comptes a 45 % de ses fondations constituées d'un unique roc. Le roc est dur, mais il n'y en a qu'un.
+Ce sommet sur lequel se tiennent désormais 13,93 millions de comptes repose sur une fondation dont 45 % est constituée d'un seul et même rocher. Le rocher est dur, mais il n'y en a qu'un.
 
-Que le marché des capitaux taïwanais apprendra-t-il dans les trente prochaines années ? Demandez à ce voisin qui a tenté d'attraper le fond trois fois en 1990 — il vous répondra sans doute : le moment le plus dangereux pour un marché, c'est précisément celui où tout le monde est convaincu qu'il ne peut pas baisser.
+Que retiendra le marché des capitaux taïwanais au cours des trente prochaines années ? Demandez à votre voisin qui a racheté des actions à bas prix trois fois en 1990, et il vous dira probablement ceci : le moment le plus dangereux du marché est précisément celui où tout le monde pense qu'il ne peut pas baisser.
 
-**Pour aller plus loin**
+**Lectures complémentaires**
 
-- [Entreprises de Taïwan : TSMC](/fr/economy/tsmc) — Ce soleil qui pèse 45 % de la Bourse de Taïwan, et l'histoire derrière l'expression « montagne sacrée protectrice du pays »
-- [Industrie des semiconducteurs](/fr/technology/taiwan-semiconductor-industry) — Tout l'écosystème de la chaîne d'approvisionnement qui soutient le statut de 6e place de la Bourse de Taïwan
-- [Entreprises de Taïwan : Foxconn Precision Industry](/fr/economy/foxconn-precision-industry) — L'autre poids lourd de la liste d'achat des 25 titres de Goldman Sachs, du géant de la sous-traitance au transformateur en serveurs IA
-- [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la sous-traitance des années 1980 au dividende IA de 2026
-- [Miracle économique : des bons du Trésor à TSMC, l'histoire de la renaissance bâtie par vingt millions de personnes](/fr/economy/economic-miracle) — L'argent de l'époque où « l'argent inondait les chevilles à Taïwan » a fini par affluer vers la Bourse de 1990 et Hung Yuan
-- [Développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Des ordres par téléphone aux versements programmés sur smartphone, l'infrastructure financière derrière un compte
-- [Cidre de pomme](/fr/food/apple-cider) — La chaîne de transferts d'actions d'Atlantic Beverage (code 1213), cotée en 1965, est un cas d'école en miniature des deux nœuds de l'histoire financière que sont l'affaire des dix banques de 1985 et l'affaire Hung Yuan de 1990
+- [Dossier sur les industries de Taïwan](/industry/) — Une analyse de la structure industrielle via les statistiques officielles : soixante-dix ans d'exportations et de PIB, parcs scientifiques, usines par comté, le top 10 des capitalisations historiques, ainsi que les différents points de vue sur six débats publics.
+- [Classement du top 50 des capitalisations](/companies/) — Un classement interactif filtrable par capitalisation, chiffre d'affaires, secteur industriel et comté du siège social.
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — Le soleil qui représente 45 % du poids de la Bourse de Taïwan, et l'histoire derrière l'expression « montagne protectrice de la nation ».
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — L'écosystème de la chaîne d'approvisionnement qui soutient le 6e rang de la Bourse de Taïwan.
+- [Entreprise taïwanaise : Hon Hai Precision](/fr/economy/foxconn-precision-industry) — Un autre poids lourd figurant sur la liste des 25 titres recommandés par Goldman Sachs, passant du statut de géant de la sous-traitance à celui d'acteur de la transformation vers les serveurs IA.
+- [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — La trajectoire allant de la sous-traitance des années 1980 aux dividendes de l'IA en 2026.
+- [Miracle économique : de la "carte de patate douce" à TSMC, l'histoire d'un redressement porté par vingt millions de personnes](/fr/economy/economic-miracle) — Comment l'argent de l'époque où l'on disait « l'argent de Taïwan coule jusqu'aux chevilles » a fini par alimenter la Bourse et le groupe Hung Yuan en 1990.
+- [Développement de la Fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Des appels téléphoniques aux investissements programmés sur smartphone : l'infrastructure financière derrière un compte bancaire.
+- [Apple Cider](/fr/food/apple-cider) — La chaîne de transfert d'actions de Atlantic Beverage (code boursier 1213), cotée en 1965, servant de cas d'école miniature pour deux moments clés de l'histoire du capital : l'affaire Shixin en 1985 et l'affaire Hung Yuan en 1990.
 
 ## Références
 
