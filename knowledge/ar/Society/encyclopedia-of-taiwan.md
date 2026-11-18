@@ -19,8 +19,10 @@ featured: false
 readingTime: 20
 lastVerified: 2026-04-28
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ebc2cadf850b7fc2'
 sourceBodyHash: 'sha256:37186c1b6ac0ce30'
 translatedAt: '2026-09-21T21:38:56+08:00'

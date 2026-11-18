@@ -36,8 +36,10 @@ sporeLinks:
     "{'id': 120, 'platform': 'threads', 'date': '2026-06-04', 'url': 'https://www.threads.com/@taiwandotmd/post/DZKoOQpmPhJ'}",
     "{'id': 121, 'platform': 'x', 'date': '2026-06-04', 'url': 'https://x.com/taiwandotmd/status/2062529681283522655'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: 'bbd8788a3'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:177fea3750c80f10'
 sourceBodyHash: 'sha256:dab437d622fd59b0'
 translatedAt: '2026-07-27T09:40:33+08:00'

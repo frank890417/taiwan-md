@@ -35,9 +35,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-08'
     url: 'https://x.com/taiwandotmd/status/2052721374570106952'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:54a5de1265f2b2ea'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
 translatedAt: '2026-09-26T04:10:05.286238+00:00'
 ---

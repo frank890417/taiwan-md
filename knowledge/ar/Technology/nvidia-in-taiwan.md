@@ -24,8 +24,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '1ec0df23b'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:533b8db87f48f6de'
 sourceBodyHash: 'sha256:8a6bcaa4a83cff70'
 translatedAt: '2026-11-03T19:29:29.523756+00:00'

@@ -17,8 +17,10 @@ readingTime: 8
 lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/IG.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a7ab7951cc810aea'
 sourceBodyHash: 'sha256:584e7ee9d0c2d903'
 translatedAt: '2026-07-26T03:58:15+08:00'

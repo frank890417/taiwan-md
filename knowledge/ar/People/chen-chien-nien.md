@@ -29,9 +29,11 @@ sporeLinks:
     "{'id': 74, 'platform': 'threads', 'date': '2026-05-17', 'url': 'https://www.threads.com/@taiwandotmd/post/DYbYsqOldKC'}",
     "{'id': 75, 'platform': 'x', 'date': '2026-05-17', 'url': 'https://x.com/taiwandotmd/status/2055881969976873375'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:f3d5577608a77794'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-08-01T00:40:03.510870+00:00'
 ---

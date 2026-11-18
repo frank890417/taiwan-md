@@ -17,8 +17,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
-sourceCommitSha: 'd7b843fbf'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c6d4e2074d20efa4'
 sourceBodyHash: 'sha256:234ae4c6ee15c7e0'
 translatedAt: '2026-09-26T10:22:55+08:00'

@@ -17,8 +17,10 @@ readingTime: 25
 lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/統戰團.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6189acad34e81f7d'
 sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-07-26T03:58:15+08:00'

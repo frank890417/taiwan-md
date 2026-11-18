@@ -18,8 +18,10 @@ readingTime: 11
 lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣學校輔導室的前世今生.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:3fa630df33c49cfb'
 sourceBodyHash: 'sha256:ca46407007f84f25'
 translatedAt: '2026-07-26T02:07:26+08:00'

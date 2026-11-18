@@ -25,9 +25,11 @@ researchReport: 'reports/research/2026-06/國定假日.md'
 image: '/article-images/society/taipei-zhongshan-hall-2023.webp'
 imageCredit: '台北中山堂（原台北公會堂），1945 年中國戰區臺灣省受降典禮在此舉行，隔年這天成為放假的光復節。攝影 Yu tptw，Wikimedia Commons，CC BY-SA 4.0'
 relatedDiary: ['2026-06-19-103421-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國定假日.md'
-sourceCommitSha: 'ddb9590b6'
-sourceContentHash: 'sha256:0acd5b8de068abbb'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:322c4c022d4678f9'
 sourceBodyHash: 'sha256:68d627d331e8bf54'
 translatedAt: '2026-09-24T07:47:16.113660+00:00'
 ---

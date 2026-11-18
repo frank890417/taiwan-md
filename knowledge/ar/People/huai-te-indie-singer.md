@@ -238,9 +238,11 @@ lifeTree:
           plausibility: 'structural'
           note: '同代多數歌手在類似爭議中選擇不表態，避免得罪同行。如果走，能維持商業關係但讓「請你們不要害怕」那句話的內在連續性斷掉。'
       sources: ['^20']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/壞特.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:67d7cdf3a4bcd692'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:2f12f91cbf28ef93'
 sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-09-24T10:47:13.357228+00:00'
 ---

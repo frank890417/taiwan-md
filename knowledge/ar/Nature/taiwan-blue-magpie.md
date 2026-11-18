@@ -27,8 +27,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
 translatedAt: '2026-11-05T16:13:01.641751+00:00'

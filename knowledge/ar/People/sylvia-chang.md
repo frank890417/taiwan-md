@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-10-23
 lastHumanReview: false
 readingTime: 4
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張艾嘉.md'
-sourceCommitSha: '79414c25d'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:dbc2c1b2c29bf2f4'
 sourceBodyHash: 'sha256:5c090902060df973'
 translatedAt: '2026-10-23T06:08:51+08:00'

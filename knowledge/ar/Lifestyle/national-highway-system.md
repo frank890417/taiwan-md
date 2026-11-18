@@ -24,9 +24,11 @@ imageCredit: '台灣新生報'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:臺灣第一條高速公路—麥克阿瑟公路通車典禮_01.jpg'
 relatedDiary: ['2026-07-18-103939-manual', '2026-07-19-092138-標點主權閘']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '79f66898d'
-sourceContentHash: 'sha256:caaea3b8ab3896dc'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:48816f5034216b14'
 sourceBodyHash: 'sha256:b76c8d691b6d2510'
 translatedAt: '2026-09-26T08:07:34.162077+00:00'
 ---

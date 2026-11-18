@@ -28,8 +28,10 @@ sporeLinks:
     "{'id': 101, 'platform': 'threads', 'date': '2026-05-27', 'url': 'https://www.threads.com/@taiwandotmd/post/DY1oPxokz0L'}",
     "{'id': 102, 'platform': 'x', 'date': '2026-05-27', 'url': 'https://x.com/taiwandotmd/status/2059577645722210476'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/落日飛車.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:a199eb8f6aa7f0fc'
 sourceBodyHash: 'sha256:2680b892b33ad9fa'
 translatedAt: '2026-07-30T22:54:35+08:00'

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: 'fd14e36db'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:314ea9aeacf65f74'
 sourceBodyHash: 'sha256:388eb831d18aa5ba'
 translatedAt: '2026-10-20T09:04:16.897609+00:00'

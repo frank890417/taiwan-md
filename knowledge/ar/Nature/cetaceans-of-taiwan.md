@@ -20,8 +20,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: '67b47e6e2'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:25aeb2d906c8c30f'
 sourceBodyHash: 'sha256:de417ec564a13cee'
 translatedAt: '2026-10-21T12:32:48+08:00'

@@ -30,9 +30,11 @@ rationale:
   why_this_hook: '從 salvage 銅的不可替代身體場景切入，讓「隱形供應鏈記憶」先成為可感的物件，再拆英雄數字、展開校隊／楠梓／霧峰三層隱形。'
   whats_excluded: '電子樂器與二胡古箏長支線；工業4.0／永續空話；兩岸統獨國禮政治化；假 OEM 貼牌清單（Selmer 產線等無釘死源）；假書目四本；「中國搶走」單一因果；失敗論脊椎；1970s 開廠／10萬35%／全國吉他200萬／協櫻1971／日月潭館／Merida吉他／全豐1965／Sankyo百年／Jupiter后里起家。'
 relatedDiary: ['2026-07-17-221115-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: 'b4f3dab63'
-sourceContentHash: 'sha256:384848975d3b840a'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:5ffbb5b925e1997f'
 sourceBodyHash: 'sha256:cda00c8983ea5b23'
 translatedAt: '2026-09-26T03:57:55.930133+00:00'
 ---

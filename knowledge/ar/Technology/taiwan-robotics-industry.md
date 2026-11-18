@@ -21,8 +21,10 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:4702dd502f640592'
 sourceBodyHash: 'sha256:2025d0771f75493c'
 translatedAt: '2026-09-22T17:57:42.862559+00:00'

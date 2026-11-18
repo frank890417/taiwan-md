@@ -25,9 +25,11 @@ researchReport: 'reports/research/2026-07/台灣茶文化-panorama.md'
 image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
 imageAlt: 'مزرعة شاي أصلية من قبيلة زوي على جبل علي'
 relatedDiary: ['2026-07-12-135710-twmd-tea-panorama']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: '4aabbe030'
-sourceContentHash: 'sha256:8649216212301e4d'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:85bd96c55701b918'
 sourceBodyHash: 'sha256:164fab87d9636e11'
 translatedAt: '2026-09-24T19:56:27.871226+00:00'
 ---

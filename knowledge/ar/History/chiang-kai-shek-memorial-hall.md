@@ -19,8 +19,10 @@ lastVerified: 2026-04-10
 lastHumanReview: false
 slug: cks-memorial-hall
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-07-25T07:56:03+08:00'

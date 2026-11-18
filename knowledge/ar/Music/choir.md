@@ -18,8 +18,10 @@ tags:
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/合唱團.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7b6afad0e85e9dcf'
 sourceBodyHash: 'sha256:590b2ed87ef9a4d2'
 translatedAt: '2026-07-25T15:39:23+08:00'

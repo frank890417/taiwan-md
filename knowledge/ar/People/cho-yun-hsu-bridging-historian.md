@@ -22,8 +22,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/許倬雲.md'
-sourceCommitSha: 'ecb3f6520'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'
 sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-09-26T22:28:24+08:00'

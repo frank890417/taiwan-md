@@ -20,9 +20,11 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 image: '/article-images/society/du-mali-maine-potato-1940.webp'
 imageAlt: 'موسم حصاد بطاطس في مقاطعة أروستوك بولاية مين، الولاات المتحدة (1940؛ تصوير من قبل مكتب الأمن الزراعي الأمريكي؛ لا تفتتح المدارس حتى اكتمل حصاد البطاطس)— الصورة الحقيقية للبطاطس الأمريكية قبل نقلها إلى تايوان'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:9680a9c97c074b94'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:6f804a54cc46f969'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-09-24T20:34:32.804264+00:00'
 ---

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: '716685aa1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: '2026-10-24T09:47:32+08:00'

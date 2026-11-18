@@ -33,8 +33,10 @@ rationale:
       'السيرة الذاتية والنزاعات الشخصية التي لا تخدم محور النشر الثابت',
       'استنتاجات الدخل والأصول والسيطرة الكاملة على الجدول الزمني',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'fb7f4f824'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
 translatedAt: '2026-09-09T15:32:52+08:00'

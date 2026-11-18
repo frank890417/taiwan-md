@@ -9,8 +9,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
-sourceCommitSha: 'ee350db4f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:122a6c2001807860'
 sourceBodyHash: 'sha256:eba63aa2d26b3e9a'
 translatedAt: '2026-11-05T22:50:53.355641+00:00'

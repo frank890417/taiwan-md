@@ -31,8 +31,10 @@ sporeLinks:
     "{'id': 59, 'platform': 'threads', 'date': '2026-05-04', 'url': 'https://www.threads.com/@taiwandotmd/post/DX6Xxd6kQan'}",
     "{'id': 60, 'platform': 'x', 'date': '2026-05-04', 'url': 'https://x.com/taiwandotmd/status/2051235570995839479'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-07-29T02:35:16+08:00'

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-09-18
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣原住民當代藝術.md'
-sourceCommitSha: '5f683a19c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:95cf1ca6d1302123'
 sourceBodyHash: 'sha256:a6d8e0ae74d03252'
 translatedAt: '2026-09-20T00:52:47+08:00'
