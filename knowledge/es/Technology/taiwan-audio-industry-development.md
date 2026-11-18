@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T12:42:46+08:00'
+translatedAt: '2026-11-18T20:41:45.003937+00:00'
 ---
 
 # Desarrollo de la industria del audio en Taiwán
@@ -153,12 +155,12 @@ La industria del audio en Taiwán enfrenta la presión de la competencia de cost
 
 ## Referencias
 
-[^1]: [Administración de Desarrollo Industrial del Ministerio de Economía](https://www.ida.gov.tw/) — Anteriormente la Administración de la Industria, reestructurada en septiembre de 2023; autoridad competente para las políticas de la industria del audio en Taiwán.
+[^1]: [Administración de Desarrollo Industrial del Ministerio de Asuntos Económicos](https://www.ida.gov.tw/) — Originalmente la Oficina de Industria, reorganizada en septiembre de 2023, autoridad competente en políticas de la industria del audio de Taiwán.
 
-[^2]: [Análisis de tendencias de la industria del audio del Instituto de Investigación Industrial (ITRI)](https://ieknet.iek.org.tw/) — Análisis del tamaño de la industria del audio en Taiwán y del mercado de fabricación por encargo.
+[^2]: [Instituto Internacional de Ciencia y Tecnología Industrial del ITRI «Análisis de Tendencias de la Industria del Audio»](https://ieknet.iek.org.tw/) — Análisis del tamaño de la industria del audio de Taiwán y del mercado de fabricación por encargo.
 
-[^3]: [Asociación de la Industria de Electrónica y Tecnología de Taiwán (TEEMA)](https://www.teema.org.tw/) — "Anuario de la Industria del Audio", estadísticas de fabricantes y valor de producción en Taiwán.
+[^3]: [Asociación de la Industria Eléctrica y Electrónica de Taiwán (TEEMA)](https://www.teema.org.tw/) — «Anuario de la Industria del Audio», estadísticas de fabricantes y valor de producción de la industria del audio de Taiwán.
 
-[^4]: [Sitio web oficial de Meilun Industrial (Merry Electronics)](https://www.merry.com.tw/) — Información sobre productos de componentes electroacústicos y datos corporativos; Creative Technology Ltd. es una empresa de Singapur, no taiwanesa.
+[^4]: [Sitio web oficial de Merry Electronics](https://www.merry.com.tw/) — Productos de componentes electroacústicos e información corporativa; Creative Technology Ltd. es una empresa de Singapur, no un fabricante taiwanés.
 
-[^5]: [Documentación técnica de la Audio Engineering Society (AES) Sección Taiwán](https://www.aes.org/) — Estándares internacionales de ingeniería acústica y resultados de investigación.
+[^5]: [Documentos técnicos de la Sección de Taiwán de la Audio Engineering Society (AES)](https://www.aes.org/) — Estándares internacionales de ingeniería acústica y resultados de investigación.

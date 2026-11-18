@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:42:46+08:00'
+translatedAt: '2026-11-18T19:44:33.998502+00:00'
 ---
 
 # El comercio exterior de Taiwán y la cadena de suministro global
@@ -277,9 +279,11 @@ La reestructuración de las cadenas de suministro no solo trae riesgos: la venta
 
 [^9]: [Liberty Times — El Legislativo aprueba la suspensión del TLC con Nicaragua; Ministerio de Relaciones Exteriores y Ministerio de Economía: el impacto comercial es limitado](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Nicaragua terminó unilateralmente en diciembre de 2021; Taiwán dejó de aplicarlo desde el 1 de julio de 2022.
 
-## Lecturas adicionales
+## Lectura adicional
 
-- [Pequeñas y medianas empresas y campeones ocultos de Taiwán](/es/economy/taiwan-smes-and-hidden-champions)
+- [Especial sobre la industria de Taiwán](/industry/) — Utilizando estadísticas oficiales para trazar la estructura industrial: setenta años de exportaciones y PIB, parques científicos, fábricas por ciudad y condado, las diez empresas con mayor capitalización bursátil de cada año, además de las posturas de las distintas partes en seis debates públicos.
+- [Mapa de la cadena de suministro](/industry/supply-chain-map/) — Semiconductores, servidores de IA y tungsteno: un análisis paso a paso de qué empresas están en Taiwán y qué eslabones dependen del extranjero.
+- [PYMES y campeones ocultos de Taiwán](/es/economy/taiwan-smes-and-hidden-champions)
 - [Agricultura y regeneración rural en Taiwán](/es/economy/taiwan-agriculture-and-rural-revitalization)
 - [Ecosistema de startups](/es/economy/taiwan-startup-ecosystem-overview)
-- [Empresas taiwanesas: Foxconn Precision](/es/economy/foxconn-precision-industry) — Con una presencia global en 24 países y 900,000 personas, es el mayor laboratorio de gobernanza transfronteriza de la industria manufacturera de Taiwán.
+- [Empresas taiwanesas: Hon Hai Precision](/es/economy/foxconn-precision-industry) — Con una presencia global que abarca 24 países y 900.000 empleados, es el mayor laboratorio de gobernanza transfronteriza de la industria manufacturera de Taiwán.

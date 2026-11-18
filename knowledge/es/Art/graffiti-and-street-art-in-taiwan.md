@@ -2,23 +2,25 @@
 title: 'Grafiti callejero en Taiwán: de forajidos nocturnos a luces urbanas de Ximending'
 description: 'En 1989, Lu Xueyuan trazó la primera línea con aerosol en Minsheng East Road, inaugurando la historia subterránea del grafiti en Taiwán. Desde la leyenda urbana de Horumon Baby hasta la crítica social de Candy Bird, este juego de persecución de treinta años con la Oficina de Protección Ambiental está redefiniendo la estética urbana taiwanesa.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '視覺藝術'
 tags: ['arte callejero', 'Horumon Baby', 'subcultura', 'espacio urbano']
-readingTime: 8
+subcategory: '視覺藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
 image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-11-18T20:56:47.462416+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -72,16 +74,16 @@ Este artículo utiliza 3 imágenes con licencia CC, todas almacenadas en `public
 
 ## Referencias
 
-[^1]: WowLavie, [¡La contraofensiva de los artistas taiwaneses de grafiti Reach y Blake! Un estilo que va de la calle a la creación diversa](https://www.wowlavie.com/article/ae1902012)
+[^1]: [Artistas del graffiti taiwaneses Reach y Blake: ¡su contraataque! Desde la calle hacia un estilo de creación diversa](https://www.wowlavie.com/article/ae1902012) — WowLavie (Véase la fuente original enlazada)
 
-[^3]: Heaven Raven, [Entrevista al artista de grafiti Horumon Baby: el interior del intestino grueso es excremento, y el arte también.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
+[^3]: [Entrevista exclusiva al artista del graffiti Rey del Intestino Grueso: el interior del intestino grueso es mierda, el arte también.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: BeautyMode, [¿Está mal que la cultura callejera se vuelva comercial? Reach, pionero del grafiti taiwanés](https://www.beautimode.com/article/content/86906/)
+[^4]: [¿Está mal que la cultura callejera vaya hacia lo comercial? Reach, pionero del graffiti taiwanés](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: Archivo de Arte Contemporáneo de Taiwán, [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b)
+[^5]: [Pájaro Dulce Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Base de datos de arte contemporáneo de Taiwán
 
-[^6]: Oficina de Protección Ambiental del Gobierno de la Ciudad de Taipéi, [¡El grafiti ilegal puede recibir multas de hasta 6.000 dólares! Lista de 14 muros legales de grafiti en Taipéi](https://newtalk.tw/news/view/2019-11-27/332344)
+[^6]: [¡Multa de hasta NT$6,000 por graffiti ilegal! Lista de 14 muros legales para graffiti en Taipéi](https://newtalk.tw/news/view/2019-11-27/332344) — Departamento de Protección Ambiental del Gobierno de la Ciudad de Taipéi
 
-[^8]: Departamento de Información y Turismo del Gobierno de la Ciudad de Taipéi, [La integración de sitios históricos y arte posmoderno: “Arte sin fin” te lleva a recorrer el Taipei Cinema Park](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001)
+[^8]: [Fusión de patrimonio histórico y arte posmoderno: «Arte y juego sin fin» te lleva a recorrer el parque temático de cine de la ciudad de Taipéi](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Oficina de Turismo y Comunicación del Gobierno de la Ciudad de Taipéi
 
-[^9]: Hatsumimi, [Sacar el intenso sabor taiwanés de entre los pliegues: amigo artista de Hatsumimi, Horumon Baby](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/)
+[^9]: [Sacando el fuerte sabor taiwanés de los pliegues, el amigo artista de Hatsumimi: Rey del Intestino Grueso](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Véase la fuente original enlazada)

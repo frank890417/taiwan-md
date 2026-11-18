@@ -2,9 +2,7 @@
 title: 'United Microelectronics Corporation (UMC) - pionera de la fundición de obleas en Taiwán'
 description: 'La primera fundición de obleas de Taiwán, que durante medio siglo ha atestiguado e impulsado la extraordinaria trayectoria de la industria taiwanesa de semiconductores desde sus orígenes'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economía',
@@ -13,15 +11,19 @@ tags:
     'Fundición de obleas',
     'Tecnología',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0d32412f5db9b8c4'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14c78e1ccf0bf096'
 sourceBodyHash: 'sha256:f3ad39fefc5166a6'
-translatedAt: '2026-05-16T22:20:03Z'
+translatedAt: '2026-11-18T19:50:31.637860+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -151,12 +153,12 @@ Ese es precisamente el rasgo más valioso de las empresas taiwanesas: encontrar 
 
 ## Referencias
 
-[^1]: [Cronología oficial de UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC fue establecida el 22 de mayo de 1980 como derivación del Instituto de Investigación de Electrónica del ITRI; Wikipedia en chino e inglés y la fuente oficial de UMC confirman esta fecha
+[^1]: [Cronología oficial de UMC](https://www.umc.com/zh-TW/Milestone/UMC_milestone) — UMC fue fundada el 22 de mayo de 1980 como spin-off del Instituto de Investigación Electrónica de ITRI; tanto Wikipedia (en chino e inglés) como el sitio oficial de UMC confirman esta fecha.
 
-[^2]: [Wikipedia — United Microelectronics Corporation](https://zh.wikipedia.org/wiki/聯華電子) — En 1985, UMC se convirtió en la primera empresa de semiconductores del mundo sinohablante en cotizar en bolsa
+[^2]: [Wikipedia — UMC](https://zh.wikipedia.org/wiki/聯華電子) — En 1985, UMC se convirtió en la primera empresa de semiconductores del mundo de habla china en cotizar en bolsa.
 
-[^3]: [TrendForce — análisis del mercado global de fundición de obleas 2024](https://www.trendforce.com/) — La participación global de UMC en el mercado de fundición de obleas es de aproximadamente 7,4%, tercera a nivel mundial; TSMC 62%, Samsung 18%
+[^3]: [TrendForce — Análisis del mercado global de fundición de obleas 2024](https://www.trendforce.com/) — La cuota de mercado global de fundición de obleas de UMC es de aproximadamente el 7,4 %, la tercera a nivel mundial; TSMC 62 %, Samsung 18 %.
 
-[^4]: [Sitio web oficial de UMC — relaciones con inversionistas](https://www.umc.com/zh-TW/IR/ir_overview) — Los ingresos de UMC en 2025 fueron de 237.600 millones de nuevos dólares taiwaneses, con margen bruto de 29,0% y ganancias por acción de 3,34 dólares taiwaneses
+[^4]: [Sitio web oficial de UMC — Relaciones con inversores](https://www.umc.com/zh-TW/IR/ir_overview) — UMC 2025: ingresos NT$237,6 mil millones, margen bruto 29,0 %, beneficio por acción NT$3,34.
 
-[^5]: [Informe ESG de sostenibilidad de UMC](https://www.umc.com/) — En 2022, UMC lanzó la estrategia “UMC 2030” y se comprometió a alcanzar la neutralidad de carbono en 2030
+[^5]: [Informe ESG de sostenibilidad de UMC](https://www.umc.com/) — En 2022, UMC lanzó la estrategia «UMC 2030», comprometiéndose a alcanzar la neutralidad de carbono para 2030.

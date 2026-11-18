@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T12:35:32.933497+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-18T19:39:50.790477+00:00'
 ---
 
 > **Resumen en 30 segundos:** Tras el cierre de la sesión del 19 de mayo de 2026, la capitalización bursátil de TSMC alcanzó los NT$57,18 billones; una sola empresa representa el 31,51 % del índice ponderado de Taiwán, aproximadamente el 40 % de la capitalización total del mercado de valores taiwanés y el 71 % de la fundición de semiconductores a nivel mundial. Los 49 puestos siguientes se reparten entre 12 grupos financieros, 11 empresas de semiconductores, 6 de fabricación electrónica (EMS) y 5 veteranas de industrias tradicionales. Lo que se conoce como el "triángulo de estabilidad" entre finanzas, electrónica e industria tradicional es, en realidad, un cuerpo sostenido por una sola pierna: la industria electrónica; además, la ola de la IA desde 2024 ha impulsado a empresas como Quanta, Wistron, Wiwynn y Honjy desde el grupo medio hacia la cima, aumentando aún más la concentración. Leer esta tabla de las 50 principales equivale a leer un mapa de la estructura corporal de la economía de Taiwán: dónde está la columna vertebral, dónde están los puntos únicos de fallo y dónde se encuentran los órganos internos ocultos fuera de la tabla.
@@ -147,28 +149,29 @@ China Steel, en Xiaogang, Kaohsiung, también sostiene una factura importante. D
 > **📝 Nota del curador**
 > La otra cara de las 50 grandes empresas son 50 libros contables de costes externos. El PIB contabiliza el valor de producción de las fábricas, pero no incluye los gastos médicos de los hogares cercanos, la carga de cuidados a largo plazo que asumen los residentes de Yunlin o los costes de mudanza de los habitantes de Qianzhen, en Kaohsiung. En economía, esto se llama «internalización de externalidades»: cuando la sociedad obliga a las empresas a asumir los costes que antes volcaban al exterior, ahí reside el verdadero significado de ESG. Entre las 50 grandes de Taiwán, el sector de semiconductores y el de los grupos financieros suelen liderar las puntuaciones ESG; por el contrario, las industrias tradicionales y la petroquímica son objeto de escrutinio. Este reordenamiento de puntuaciones cambiará los rankings en la próxima década de forma más profunda que cualquier informe financiero trimestral.
 
-## El mercado nocturno de Ningxia y la calle Kaixuan 3rd Road
+## El mercado nocturno de Ningxia y la calle Kaixuan San Lu
 
-Si conectas el principio con el final, obtienes dos extremos dentro del mismo sistema de coordenadas.
+Si unes el principio con el final, obtienes dos extremos dentro del mismo sistema de coordenadas.
 
-Aquella noche en el mercado nocturno de Ningxia, las cinco personas más importantes del sector de los semiconductores bebían cerveza en mesas y sillas de plástico; al día siguiente, la capitalización bursátil de las empresas de tres de ellos aumentó cientos de miles de millones de la noche a la mañana. Aquella noche en la calle Kaixuan 3rd Road, 32 residentes de Qianzhen fueron lanzados por los aires tras una explosión en sus hogares; el caso se juzgó durante ocho años hasta dictar sentencia, pero nadie puede recuperar la vida perdida.
+Aquella noche en el mercado nocturno de Ningxia, cinco de las personas más importantes del sector de los semiconductores bebían cerveza en mesas y sillas de plástico; al día siguiente, la capitalización bursátil de las empresas de tres de ellos aumentó cientos de miles de millones de un día para otro. Aquella noche en la calle Kaixuan San Lu, 32 residentes de Qianzhen fueron lanzados por los aires tras una explosión en sus hogares; el caso se juzgó durante ocho años hasta dictar sentencia, pero nadie puede recuperar las vidas perdidas.
 
-Entre ambas escenas se extiende todo el espectro de esta tabla de las 50 principales empresas.
+Entre ambas escenas se extiende todo el espectro que abarca esta tabla de las 50 principales empresas.
 
-La «Montaña Sagrada que protege la nación» [TSMC] corona la cima, sosteniendo a toda la industria y a todo el país; al pie de esa montaña se encuentra el PM2.5 de Mailiao, el olor a propileno de Qianzhen, y la influencia de la fábrica de I-Mei y los concesionarios de Hotai que no figuran en las clasificaciones. Estas 50 empresas juntas son la columna vertebral de Taiwán; cada una es la vértebra lumbar más gruesa de esa columna, pero más allá de la columna existen músculos, nervios y piel que el PIB no logra capturar.
+La «Montaña Sagrada de la Protección Nacional» [TSMC] corona la cima, sosteniendo a toda la industria y a todo el país; a los pies de esa montaña están el PM2.5 de Mailiao, el olor a propileno de Qianzhen, y la influencia de la fábrica de I-Mei y los concesionarios de Hotai que no aparecen en el ranking. Estas 50 empresas juntas forman la columna vertebral de Taiwán; cada una es como la vértebra lumbar más gruesa de esa columna, pero fuera de la columna también existen los músculos, los nervios y la piel que el PIB no logra capturar.
 
-Tras leer esta tabla, lo que el lector no debería llevarse es un «quién ocupa qué puesto o cuánto vale cada empresa». Debería ser un diagrama de la estructura corporal: dónde está la columna vertebral, dónde están los puntos únicos de fallo, dónde están los costes externos y dónde están los órganos internos ocultos fuera de la tabla. Cuando llegue la próxima ola de IA, cuando la geopolítica entre EE. UU. y China vuelva a agitarse, o cuando alguna empresa desafíe la posición de TSMC en algún proceso específico, este diagrama estructural será redibujado. Los nombres en esos 50 puestos cambiarán, disminuirán o aumentarán, pero esta tabla siempre estará registrando una sola cosa: qué empresas deciden cómo comen, cómo trabajan y cómo se preocupan por el mañana las generaciones actuales de taiwaneses.
+Tras leer esta tabla, lo que el lector no debería llevarse es un «quién ocupa qué puesto o cuánto vale cada empresa». Debería llevarse un diagrama de la estructura corporal: dónde está la columna vertebral, dónde están los puntos únicos de fallo, dónde están los costes externos y dónde están los órganos internos ocultos fuera de la tabla. Cuando llegue la próxima ola de IA, cuando las tensiones geopolíticas entre EE. UU. y China vuelvan a agitarse, o cuando alguna empresa desafíe la posición de TSMC en algún proceso específico, este diagrama estructural será redibujado. Los nombres en esos 50 puestos cambiarán, disminuirán o aumentarán, pero esta tabla siempre estará registrando una sola cosa: qué empresas deciden cómo comen, cómo trabajan y cómo se preocupan por el mañana las generaciones actuales de taiwaneses.
 
 > **✦** «Los semiconductores han situado a Taiwán en el centro del mundo. Pero lo que no aparece escrito en esta tabla de las 50 principales son los órganos internos y la piel de esta isla; ellos también son parte de Taiwán, solo que el PIB no puede verlos».
 
 **Lecturas adicionales**:
 
-- [Empresas de Taiwán: TSMC](/es/economy/tsmc) — El primer puesto de las 50, una sola empresa que representa el 31,51 % del índice ponderado.
-- [Pymes y campeones ocultos de Taiwán](/es/economy/taiwan-smes-and-hidden-champions) — Más allá de I-Mei y Hotai, el 30 % invisible de la estructura económica.
-- [Industria de semiconductores de Taiwán](/es/technology/taiwan-semiconductor-industry) — Desde el ITRI hasta los 2 nanómetros, el origen de los 11 puestos de semiconductores en las 50 principales.
+- [Especial sobre la industria de Taiwán](/industry/) — Dibujando la estructura industrial mediante estadísticas oficiales: setenta años de exportaciones y PIB, parques científicos, fábricas por condado y ciudad, los diez primeros en capitalización bursátil a lo largo de los años, junto con las diversas perspectivas de seis debates públicos.
+- [Empresas de Taiwán: TSMC](/es/economy/tsmc) — La número uno de las 50 principales, una sola empresa que representa el 31,51 % del índice ponderado.
+- [Pymes y campeones ocultos de Taiwán](/es/economy/taiwan-smes-and-hidden-champions) — Más allá de I-Mei y Hotai, el 30 % de la estructura económica invisible.
+- [Industria de semiconductores de Taiwán](/es/technology/taiwan-semiconductor-industry) — Desde el ITRI hasta los 2 nanómetros, el origen de los 11 puestos de semiconductores entre las 50 principales.
 - [Bolsa y mercado de capitales de Taiwán](/es/economy/taiwan-stock-market) — El índice ponderado, la clasificación por capitalización bursátil y la estructura de los inversores institucionales.
 - [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — La conexión geopolítica entre el «escudo de silicio» y las 50 principales empresas.
-- [Parques científicos de Taiwán](/es/technology/science-park-development) — Las bases de producción para los puestos de semiconductores de las 50 grandes empresas; la versión espacial de la concentración del valor de producción en tres parques.
+- [Parques científicos de Taiwán](/es/technology/science-park-development) — Las bases de producción de los puestos de semiconductores de las 50 principales; la versión espacial de la concentración del valor de producción en tres parques.
 
 ## Fuentes de las imágenes
 

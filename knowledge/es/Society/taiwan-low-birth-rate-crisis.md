@@ -24,11 +24,13 @@ rationale:
   whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'a266eaa96'
-sourceContentHash: 'sha256:a14a0e12438e6a6a'
-sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
-translatedAt: '2026-10-13T03:30:05.591240+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e3e940750907c36e'
+sourceBodyHash: 'sha256:07db7c5fe478ed74'
+translatedAt: '2026-11-18T21:03:35.130179+00:00'
 ---
 
 # El último canto de la isla: el 0.695 que ni el Año del Dragón pudo rescatar
@@ -208,29 +210,31 @@ Y si incentivar nacimientos está condenado a no funcionar, pero la falta de man
 
 ---
 
-## Cómo vivir bien en una isla destinada a la disminución
+## Vivir bien en una isla destinada a menguar
 
-Lo más cruel y, a la vez, lo más honesto de la demografía es que casi no existen los milagros.
+Lo más cruel —y también lo más honesto— de la demografía es que casi no tiene milagros.
 
-Tras diez años de políticas de incentivo a la natalidad y una inversión de casi 500.000 millones, ni siquiera el Año del Dragón pudo recuperarse. La parte de la tasa de fecundidad que ha sido aplastada por la incapacidad de sostenerla es mucho menor que la que ha sido drenada por el fenómeno del no matrimonio; mientras tanto, durante la última década, el gobierno se ha limitado a entregar dinero a quienes «no se atreven a tener hijos», entregándolo a personas que ya están casadas, pero sin lograr conectar con el verdadero núcleo del colapiente demográfico. Incluso si se pusiera ese dinero con precisión en manos de cada familia indecisa, el experimento de la lotería de Yang Tzu-ting demostró que eso solo equivale a 0,07 niños. Mirando al resto del mundo —Hungría, Corea del Sur, Francia, los países nórdicos—, ningún país ha logrado comprar una tasa de fecundidad que vuelva a niveles de reemplazo. Tras alcanzar su punto máximo en 2019, la población total de Taiwán se encuentra en una pendiente descendente que ninguna política ha logrado revertir.
+Diez años de políticas pronatalista, cerca de NT$500 mil millones gastados, y ni siquiera el Año del Dragón logró revertir la tendencia. La tasa de fecundidad se ha hundido mucho más por la falta de matrimonios que por la imposibilidad económica de criar hijos; y durante diez años el gobierno ha estado dando dinero a quienes «no se atreven a tener hijos», entregándoselo a personas ya casadas, sin alcanzar el núcleo real del colapso. Incluso si el dinero se colocara con precisión en manos de cada familia dudosa, el experimento de lotería de Yang Tzu-ting muestra que eso apenas equivale a 0,07 hijos. Mirando al mundo entero —Hungría, Corea del Sur, Francia, los países nórdicos—, ningún país ha logrado comprar una tasa de fecundidad que vuelva al nivel de reemplazo. Desde que la población total de Taiwán tocó techo en 2019, esta cuesta abajo no tiene ninguna política que pueda hacerla girar.
 
-Por tanto, lo que este artículo pretende ofrecerte, más que otra frase vacía de que «Taiwán necesita una mejor sociedad», es un ajuste de perspectiva: es posible que hayamos estado haciendo las preguntas equivocadas. La respuesta a la pregunta «cómo hacer que los taiwaneses tengan más hijos» durante la última década ha sido 0,695; es el patio vacío de la Escuela Primaria Xinwei. Lo que realmente se debería preguntar son otras dos cosas: cómo lograr que aquellas personas que en realidad desean casarse y tener hijos no se vean atadas por un conjunto de estructuras que les resultan inaceptables; y cómo, en una isla destinada a ser cada vez más pequeña y envejecida, podemos vivir con dignidad, calidez y con una red humana que nos sostenga unos a otros.
+Por lo tanto, lo que este artículo quiere dejarte es menos una frase hueca más de «Taiwán necesita una sociedad mejor» y más un ajuste de perspectiva: es posible que llevemos tiempo formulando la pregunta equivocada. La pregunta de «cómo hacer que los taiwaneses tengan más hijos» tiene, tras diez años, una respuesta de 0,695 y el patio vacío de la Escuela Primaria Xinwei. Las preguntas que de verdad importan son otras dos: cómo permitir que quienes sí quieren casarse y tener hijos no queden atrapados en una estructura completa que no pueden aceptar; y cómo, en una isla destinada a menguar y envejecer, vivir con dignidad, calidez y con alguien que nos sostenga mutuamente.
 
-Aquel día del Año del Dragón de 2024, en el patio de la Escuela Primaria Xinwei, no había ni un solo alumno de primer grado con su nuevo uniforme y su mochila demasiado grande.
+Ese día del Año del Dragón de 2024, en el patio de la Escuela Primaria Xinwei no había ni un solo alumno de primer grado estrenando uniforme y cargando una mochila demasiado grande.
 
-Fue una imagen muy silenciosa. Tan silenciosa que uno no puede evitar preguntarse: ¿cuánto tiempo más tardará esta isla en dejar de gritarle a las salas de parto para darse la vuelta y mirar de verdad a quienes ya están aquí, en el patio?
+Fue una imagen muy silenciosa. Tan silenciosa que uno no puede evitar preguntarse: ¿cuánto tiempo más tardará esta isla en dejar de gritar hacia las salas de partos, darse la vuelta y mirar de verdad a quienes ya están en el patio?
 
-La canción se hará más tenue, pero mientras alguien siga cantando, aún no será la última estrofa.
+El canto se irá haciendo más bajo, pero mientras quede alguien cantando, aún no ha sonado la última estrofa.
 
 ---
 
-**Lecturas adicionales**:
+**Lecturas recomendadas**:
 
-- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Cuando las zonas rurales entran en el declive de la baja natalidad cuarenta años antes que las ciudades, las escuelas rurales son el primer lugar donde llega esta carta.
-- [Sistema educativo y cultura de acceso a la universidad](/es/society/education-system-and-admissions-culture) — La retirada de universidades y el abismo en la fuente de estudiantes están íntimamente ligados a cómo la sociedad percibe el concepto de «ascenso académico».
-- [Desarrollo del sistema de cuidados de larga duración en Taiwán](/es/society/long-term-care-system-development) — Cuando los mayores de 65 años superan el 20% y las cuidadoras extranjeras sostienen 215.000 camas, los cuidados de larga duración representan la otra cara de la baja natalidad.
-- [Industria robótica en Taiwán](/es/technology/taiwan-robotics-industry) — Si la disminución de la población es un hecho inevitable, la automatización será una de las respuestas clave para «reorganizar la producción dentro de una población decreciente».
-- [Expansión y declive de la educación superior en Taiwán](/es/society/taiwan-higher-education-expansion-and-decline) — El muro de la baja natalidad choca con las universidades: tras pasar de 58 a 148 instituciones de nivel superior, cómo cierran las escuelas y quién asume el coste.
+- [Salarios, impuestos y pensiones](/income/) — Las cuentas tras el descenso poblacional: ingresos y gastos del seguro laboral, los distintos planteamientos de la reforma de pensiones, y las proyecciones del fondo de pensiones laborales y de la pensión laboral.
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Cuando las zonas rurales entraron en la baja natalidad cuarenta años antes que las ciudades, las pequeñas escuelas rurales fueron el primer lugar al que llegó esta carta.
+- [Sistema educativo y cultura del ascenso académico](/es/society/education-system-and-admissions-culture) — El cierre de universidades y el acantilado de la matrícula están indisolublemente ligados a cómo la sociedad entera ve el «ascenso académico».
+- [Desarrollo del sistema de cuidados a largo plazo en Taiwán](/es/society/long-term-care-system-development) — Cuando los mayores de 65 años superan el 20 % y los cuidadores extranjeros sostienen 215 000 camas, los cuidados a largo plazo son el otro extremo de la baja natalidad.
+- [Reportaje sobre salud y cuidados a largo plazo](/health/) — Datos reales de la proporción de mayores de 65 años y curvas de proyección del Consejo de Desarrollo Nacional, así como ingresos y gastos del fondo de cuidados a largo plazo.
+- [Industria robótica de Taiwán](/es/technology/taiwan-robotics-industry) — Si la reducción poblacional es inevitable, la automatización será una de las respuestas clave para «reorganizar la producción dentro de una población que mengua».
+- [Expansión y retirada de la educación superior en Taiwán](/es/society/taiwan-higher-education-expansion-and-decline) — El muro de la baja natalidad choca con la universidad: tras pasar de 58 a 148 instituciones, ¿cómo cierran las escuelas y quién asume el coste?
 
 ## Referencias
 

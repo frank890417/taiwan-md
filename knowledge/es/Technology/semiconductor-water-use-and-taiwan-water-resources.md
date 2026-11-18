@@ -2,27 +2,37 @@
 title: 'Agua para semiconductores y recursos hídricos de Taiwán: el embalse junto a la fábrica de obleas'
 description: 'La fabricación de chips requiere agua ultrapura, pero el agua de Taiwán no solo está en las tuberías de las fábricas; también está en los embalses, la lluvia, las sequías, el riego agrícola, el agua reciclada y la gestión local. Este artículo no reduce el consumo de agua de los semiconductores a un conflicto de “TSMC acapara agua”, sino que explica cómo los procesos avanzados enlazan la hidrología insular de Taiwán, la gobernanza pública, la infraestructura de agua reciclada y la cadena de suministro global, devolviendo la alta tecnología a los embalses, los campos y la confianza local.'
 date: 2026-07-11
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
-  - 'semiconductores'
-  - 'recursos hídricos'
-  - 'TSMC'
-  - 'agua ultrapura'
-  - 'agua reciclada'
-  - 'cadena de suministro'
+  [
+    'semiconductores',
+    'recursos hídricos',
+    'TSMC',
+    'agua ultrapura',
+    'agua reciclada',
+    'cadena de suministro',
+  ]
+subcategory: '半導體與硬體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
-featured: false
-translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
-sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-14T00:51:45+08:00'
+researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
+rationale:
+  why_this_hook: '把晶圓廠旁邊的水庫、農田、再生水廠與地方治理放在一起，讓半導體用水變成可理解的公共議題。'
+  whats_excluded: '不把半導體用水簡化成「台積電搶水」，也不做完整水利工程技術文。'
+  where_it_hedges: '承認半導體用水需要大量公共基礎設施，同時說明回收水、再生水與地方調度的治理功能。'
+  whos_pushing_back: '農業、民生、地方社會與海外設廠地都會追問晶圓廠用水是否公平、可持續、可被監督。'
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/半導體用水與台灣水資源.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
+sourceBodyHash: 'sha256:45c1175dae9b247b'
+translatedAt: '2026-11-18T20:27:12.731258+00:00'
 ---
 
 # Agua para semiconductores y recursos hídricos de Taiwán: el embalse junto a la fábrica de obleas
@@ -192,10 +202,10 @@ Ese es el aspecto más valioso de comprender el consumo de agua de los semicondu
 
 ## Referencias
 
-[^1]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — Informe de WIRED 2023 sobre la demanda de agua ultrapura, tratamiento y recursos locales en la fabricación de semiconductores, con menciones a la sequía de Taiwán y la tensión entre riego agrícola y producción de chips.
+[^1]: [WIRED: ¿Quieres ganar una guerra de chips? Vas a necesitar mucha agua](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED informó en 2023 sobre la demanda de agua ultrapura, tratamiento de agua y recursos hídricos locales en la fabricación de semiconductores, y mencionó la tensión entre la fabricación de chips y el uso agrícola del agua durante la sequía en Taiwán.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Página oficial de TSMC Arizona que describe la inversión, planificación de procesos avanzados, sistemas de reciclado de agua y metas de reutilización de más del 90 % para la planta, útil como caso de gobernanza hídrica en instalaciones en el extranjero.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — La página oficial de TSMC Arizona explica la inversión de la planta, la planificación de procesos avanzados, el sistema de reciclaje de agua y los objetivos de instalaciones de regeneración de agua industrial, y puede servir como caso de gestión de recursos hídricos para fábricas en el extranjero.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Artículo que combina expectativas de empleo con preocupaciones sobre recursos hídricos, sustancias químicas, seguridad laboral y beneficios reales para la comunidad local en el ecosistema de semiconductores de Arizona.
+[^3]: [The Verge: El nuevo Valle del Silicio (literalmente)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — El informe aborda las controversias sobre empleo, desarrollo local, recursos hídricos, medio ambiente y seguridad laboral derivadas de la expansión del clúster de semiconductores en Arizona, y puede utilizarse para equilibrar la perspectiva social local de las fábricas en el extranjero.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock‑in?](https://arxiv.org/abs/2209.12523) — Estudio de 16 fabricantes taiwaneses de componentes electrónicos (2015‑2020) que muestra el aumento anual del 6,1 % en consumo de agua, vinculando uso de agua, energía y emisiones de carbono al crecimiento de la producción.
+[^4]: [Roussilhe et al.: ¿Del escudo de silicio al bloqueo de carbono?](https://arxiv.org/abs/2209.12523) — El estudio analiza la huella ambiental de 16 fabricantes taiwaneses de componentes electrónicos entre 2015 y 2020, y señala el riesgo de que el uso de agua, la energía y las emisiones de carbono aumenten con el crecimiento de la producción.
