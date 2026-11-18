@@ -24,11 +24,13 @@ image: '/article-images/people/yaxian-portrait-2012.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e787dc16343b5dd6'
 sourceBodyHash: 'sha256:b6b66329e69543f7'
-translatedAt: '2026-07-27T22:12:18+08:00'
+translatedAt: '2026-11-18T15:28:34.789910+00:00'
 ---
 
 # Я Сянь: написав «Бездну», положил перо, вторую половину жизни отдал редакции «фуканя» «Льяньхэ бао», став страницей истории поэзии

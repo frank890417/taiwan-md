@@ -17,11 +17,13 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'ab47ff39c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-07-29T12:59:31+08:00'
+translatedAt: '2026-11-18T14:47:39.340968+00:00'
 ---
 
 # Ду Ицзин
