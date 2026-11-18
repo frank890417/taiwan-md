@@ -10,8 +10,10 @@ readingTime: 12
 lastVerified: 2026-03-27
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/九天玄女信仰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1910ee0829efda65'
 sourceBodyHash: 'sha256:def52197e717a6f7'
 translatedAt: '2026-05-01T18:02:56+08:00'

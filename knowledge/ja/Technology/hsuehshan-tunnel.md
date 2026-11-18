@@ -13,8 +13,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 12,078 曝光 124 點擊（1.03%），長度問句「雪隧長度」1,032、「雪山隧道有多長」509、「台灣最長的隧道」249 曝光，description 沒給長度；首句放內文的 12.9 公里與台灣最長公路隧道，並把「25 位殉職者」改回內文口徑（北宜高速公路工程全線）'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:bafa69de0246ccbe'
 sourceBodyHash: 'sha256:d9ab34ee59f266bc'
 translatedAt: '2026-11-07T05:49:55+08:00'

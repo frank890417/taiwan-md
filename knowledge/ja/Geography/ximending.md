@@ -27,8 +27,10 @@ readingTime: 22
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/西門町.md'
-sourceCommitSha: '49728f9d'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:527d6f6d267c802a'
 sourceBodyHash: 'sha256:08db5a34a2ebbaab'
 translatedAt: '2026-07-14T16:43:31Z'

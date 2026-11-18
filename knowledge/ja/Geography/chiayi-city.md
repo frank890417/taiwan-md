@@ -24,8 +24,10 @@ lastHumanReview: false
 featured: false
 researchReport: reports/research/2026-05/嘉義市.md
 series: '22県市シリーズ（batch 1）'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/嘉義市.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fe4751f1e66665bd'
 sourceBodyHash: 'sha256:7f19df1b99a37241'
 translatedAt: '2026-09-27T11:57:57+08:00'

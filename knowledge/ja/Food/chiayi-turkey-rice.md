@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/嘉義火雞肉飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:961c8a81a8f8c3f1'
 sourceBodyHash: 'sha256:2b1f54ba6f041643'
 translatedAt: '2026-06-12T00:53:02+08:00'

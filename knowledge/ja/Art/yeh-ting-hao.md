@@ -28,8 +28,10 @@ lastVerified: 2026-05-22
 lastHumanReview: false
 researchReport: reports/research/2026-05/yeh-ting-hao.md
 readingTime: 22
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/葉廷皓.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a5453a6f1dbec222'
 sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
 translatedAt: '2026-09-26T11:10:11+08:00'

@@ -17,8 +17,10 @@ subcategory: '設計與媒體'
 lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-07-15T00:51:51+08:00'

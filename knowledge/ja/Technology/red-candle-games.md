@@ -19,8 +19,10 @@ category: 'Technology'
 lastVerified: 2026-04-25
 featured: false
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/赤燭遊戲.md'
-sourceCommitSha: 'c5f33792'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:33c90e10581f31c9'
 sourceBodyHash: 'sha256:1fba81d514ac33a3'
 translatedAt: '2026-05-02T10:05:00+08:00'

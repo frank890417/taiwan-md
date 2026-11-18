@@ -19,8 +19,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
-sourceCommitSha: '886779d83'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:1b46bb67f21432e0'
 sourceBodyHash: 'sha256:688a69633785627a'
 translatedAt: '2026-09-26T11:10:11+08:00'

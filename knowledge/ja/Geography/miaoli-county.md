@@ -30,8 +30,10 @@ imageAlt: '2023 年客家桐花祭が苗栗県三義郷の百年石頭伯公の�
 imageCredit: 中華民國客家委員會
 imageLicense: OGDL-Taiwan-1.0
 imageSource: https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: '8d4f4b434'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d42a13d401176a58'
 sourceBodyHash: 'sha256:240cad04d9fcb9fe'
 translatedAt: '2026-09-26T11:45:53+08:00'

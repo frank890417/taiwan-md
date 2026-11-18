@@ -38,8 +38,10 @@ sporeLinks:
     date: '2026-06-14'
     url: 'https://x.com/taiwandotmd/status/2066024659238465719'
 relatedDiary: ['2026-06-14-154636-無名小卒勘誤']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/無名小站.md'
-sourceCommitSha: '13aae9d5a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6e5737281981f34c'
 sourceBodyHash: 'sha256:4526b5691fd4cea3'
 translatedAt: '2026-10-13T07:44:57.977866+00:00'

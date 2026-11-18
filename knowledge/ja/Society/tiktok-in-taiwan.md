@@ -20,8 +20,10 @@ tags:
 readingTime: '10min'
 lastVerified: 2026-04-12
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-05-01T18:02:56+08:00'

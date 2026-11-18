@@ -30,8 +30,10 @@ readingTime: 23
 lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/大龍峒.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6d18e9e22ea3f7db'
 sourceBodyHash: 'sha256:53b18682028046a0'
 translatedAt: '2026-06-22T00:30:00+08:00'

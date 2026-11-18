@@ -32,8 +32,10 @@ readingTime: 18
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台南市.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:a92ec79c444536b4'
 sourceBodyHash: 'sha256:2dcae5a0df1cbb16'
 translatedAt: '2026-05-19T05:08:06+08:00'

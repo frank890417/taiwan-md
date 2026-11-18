@@ -12,8 +12,10 @@ readingTime: 7
 lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
 translatedAt: '2026-05-09T14:29:09+08:00'

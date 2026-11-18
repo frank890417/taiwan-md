@@ -20,8 +20,10 @@ featured: false
 readingTime: 12
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/溫泉文化.md'
-sourceCommitSha: 'd8b2faceb'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-10-15T20:17:53+08:00'

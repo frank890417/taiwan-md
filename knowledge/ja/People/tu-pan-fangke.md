@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'd39f3a50'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d405136a29d9431e'
 sourceBodyHash: 'sha256:b0195c9685eb2443'
 translatedAt: '2026-07-23T14:40:00+08:00'

@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/閃靈.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:428539ef61aee065'
 sourceBodyHash: 'sha256:ca8382bb6533d023'
 translatedAt: '2026-07-23T14:00:00+08:00'

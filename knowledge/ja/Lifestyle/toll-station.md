@@ -21,8 +21,10 @@ lastHumanReview: false
 featured: false
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20080818a.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ef6fab2f2ae48840'
 sourceBodyHash: 'sha256:6af77751f6cfb762'
 translatedAt: '2026-07-25T04:46:07+08:00'

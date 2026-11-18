@@ -8,8 +8,10 @@ tags: ['音楽', '民謡', '歌謡', '原住民', '台湾語', '郭英男', '純
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Music/台灣民謠與歌謠.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: 2026-05-01T19:52:32+08:00

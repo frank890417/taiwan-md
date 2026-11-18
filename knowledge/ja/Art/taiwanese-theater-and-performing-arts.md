@@ -7,8 +7,10 @@ subcategory: '文學'
 tags: ['劇場', '舞台芸術', 'ダンス', '雲門舞集', '當代傳奇劇場']
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Art/台灣劇場與表演藝術.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:cddfbcb9ade43ff2'
 sourceBodyHash: 'sha256:0f8dee8662286dcf'
 translatedAt: '2026-06-16T17:10:30Z'

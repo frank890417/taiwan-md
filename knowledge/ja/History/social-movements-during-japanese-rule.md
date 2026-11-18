@@ -7,8 +7,10 @@ tags:
 subcategory: '殖民地史'
 category: History
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期臺灣社會運動.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fbdfa92c6cd4f978'
 sourceBodyHash: 'sha256:404b899a07fee60d'
 translatedAt: '2026-05-01T14:48:26+08:00'

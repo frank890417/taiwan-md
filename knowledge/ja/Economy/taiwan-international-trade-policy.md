@@ -11,8 +11,10 @@ readingTime: 16
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '1f266e533'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:e2e52ce67066146d'
 sourceBodyHash: 'sha256:956a2e50c55badba'
 translatedAt: '2026-10-03T00:56:56+08:00'

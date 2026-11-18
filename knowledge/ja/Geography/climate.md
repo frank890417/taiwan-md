@@ -9,8 +9,10 @@ tags: ['地理', '気候', '台風', '梅雨', '気候変動']
 lastVerified: 2026-03-31
 lastHumanReview: false
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: 'ceeee0ae'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0275e27f1a1e4e68'
 sourceBodyHash: 'sha256:c3a7643c439033af'
 translatedAt: '2026-06-12T00:53:02+08:00'

@@ -23,8 +23,10 @@ date: 2026-04-26
 readingTime: 15
 lastVerified: 2026-04-26
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: Nature/台灣山椒魚.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f7dcaba73d149276'
 sourceBodyHash: 'sha256:af337db2aac9897d'
 translatedAt: 2026-05-01T18:02:56+08:00

@@ -20,8 +20,10 @@ readingTime: 11
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的道德課去哪了.md'
-sourceCommitSha: 'b67b190fb'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:aa6de6422908baca'
 sourceBodyHash: 'sha256:a98b8189be962f59'
 translatedAt: '2026-09-26T19:10:21+08:00'

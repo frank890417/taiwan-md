@@ -19,8 +19,10 @@ tags:
 lastVerified: 2026-05-28
 lastHumanReview: false
 featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:e787dc16343b5dd6'
 sourceBodyHash: 'sha256:b6b66329e69543f7'
 translatedAt: '2026-06-16T17:10:30Z'

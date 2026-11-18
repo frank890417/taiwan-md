@@ -24,8 +24,10 @@ datasets:
     update_freq: '不定期更新'
     why: '「理論上存在しないはずのビジネスモデル」が政府の管理対象として正式リストに載った、都市の切片'
     verified: 2026-06-10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: '7678a430b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-09-27T22:31:26+08:00'

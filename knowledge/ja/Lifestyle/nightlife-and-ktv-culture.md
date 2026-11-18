@@ -9,8 +9,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: 'ad792c900'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
 translatedAt: '2026-10-15T20:18:30+08:00'

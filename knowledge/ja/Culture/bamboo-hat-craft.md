@@ -10,8 +10,10 @@ readingTime: 14
 lastVerified: 2026-05-04
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/斗笠.md'
-sourceCommitSha: '172e37b1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:9096fc1c6362e668'
 sourceBodyHash: 'sha256:734b56860ef83000'
 translatedAt: '2026-05-12T21:49:54+08:00'

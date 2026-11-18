@@ -16,8 +16,10 @@ tags:
 author: 'Taiwan.md Contributors'
 date: 2026-04-30
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/LINE.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:e36f0dcb06bdb5d7'
 sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: '2026-05-01T14:48:26+08:00'

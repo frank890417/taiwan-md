@@ -10,8 +10,10 @@ readingTime: 9
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/麻芛湯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:37e6bdeac5fb1d7c'
 sourceBodyHash: 'sha256:3db5773500588245'
 translatedAt: '2026-06-12T00:53:02+08:00'

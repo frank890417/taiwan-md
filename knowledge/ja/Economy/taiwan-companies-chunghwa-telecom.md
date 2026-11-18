@@ -17,8 +17,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: 'e53f17151'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
 translatedAt: '2026-10-15T20:46:43.590030+00:00'

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '6b09bda3b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:672f8b4df1c422b7'
 sourceBodyHash: 'sha256:ff708086fed4d9aa'
 translatedAt: '2026-09-26T11:45:53+08:00'

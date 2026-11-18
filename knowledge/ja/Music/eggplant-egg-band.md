@@ -18,8 +18,10 @@ readingTime: 10
 featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
 translatedAt: '2026-05-09T14:30:48Z'

@@ -11,8 +11,10 @@ readingTime: 14
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/盧秀燕.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-05-03T23:14:06+08:00'

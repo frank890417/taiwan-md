@@ -14,8 +14,10 @@ readingTime: 7
 #   why_this_hook: "從2012年倫敦那場銅牌戰切入——他贏得過世界冠軍，走過六屆奧運，卻始終與奧運獎牌擦身。這個張力比任何數字都更能定義莊智淵。"
 #   whats_excluded: "各屆奧運的細部比分；與中國選手對戰的完整紀錄；德國聯賽逐年球隊移轉細節"
 #   where_it_hedges: "2000年雪梨是否確為第一屆（P0 confirms 六屆 2000-2024，部分資料有爭議）；2012年銅牌戰對手與比分待確認"
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/莊智淵.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:8f24d65425473ad4'
 sourceBodyHash: 'sha256:1216e697fc7e6c44'
 translatedAt: '2026-05-09T14:29:09+08:00'

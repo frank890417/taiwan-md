@@ -23,8 +23,10 @@ readingTime: 16
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/彰化縣.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:53588f1af78c53bd'
 sourceBodyHash: 'sha256:83c1d8ae2ebcca91'
 translatedAt: '2026-06-16T17:05:15Z'

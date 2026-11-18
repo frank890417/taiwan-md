@@ -9,8 +9,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: 'dbaf28954'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:0f572861e1f79f7d'
 sourceBodyHash: 'sha256:b51e57f04bd06fc2'
 translatedAt: '2026-09-26T19:10:21+08:00'

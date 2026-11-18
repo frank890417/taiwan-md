@@ -26,8 +26,10 @@ readingTime: 18
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/新北市.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:112ba1c658fb3b9a'
 sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-05-19T05:08:06+08:00'

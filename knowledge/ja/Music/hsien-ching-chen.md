@@ -23,8 +23,10 @@ lastHumanReview: false
 readingTime: 18min
 researchReport: 'reports/research/2026-06/陳嫺靜.md'
 viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/陳嫺靜.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:512d67826a21d4e6'
 sourceBodyHash: 'sha256:b3516ecc857f1e0e'
 translatedAt: '2026-09-26T11:10:11+08:00'

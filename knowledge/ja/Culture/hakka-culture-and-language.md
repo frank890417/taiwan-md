@@ -10,8 +10,10 @@ readingTime: 14
 lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/客家文化與語言.md'
-sourceCommitSha: 'a43cf915'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b03d6ffbe269bd62'
 sourceBodyHash: 'sha256:b5324c6cea623600'
 translatedAt: '2026-07-06'

@@ -22,8 +22,10 @@ readingTime: 17
 lastVerified: 2026-06-01
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣影視配樂.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d7854f820ae13e37'
 sourceBodyHash: 'sha256:5340a77820daae23'
 translatedAt: '2026-06-16T16:55:14Z'

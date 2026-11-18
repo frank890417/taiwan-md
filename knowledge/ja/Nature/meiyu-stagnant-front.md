@@ -9,8 +9,10 @@ featured: false
 readingTime: 16
 lastVerified: 2026-05-02
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceBodyHash: 'sha256:31c92fd7633ce35e'
 sourceContentHash: 'sha256:08c48a6ddad4519e'
 translatedAt: '2026-06-12T16:38:55Z'

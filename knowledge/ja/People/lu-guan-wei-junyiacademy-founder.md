@@ -21,8 +21,10 @@ readingTime: 18
 lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/呂冠緯.md'
-sourceCommitSha: '0bedbf85'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:31321e2281658622'
 sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-06-17T02:19:12+08:00'

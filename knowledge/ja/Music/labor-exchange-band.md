@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/交工樂隊.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:c3347c2a085cddc9'
 sourceBodyHash: 'sha256:8f0c4cf2e72a96b9'
 translatedAt: '2026-05-16T22:35:34Z'

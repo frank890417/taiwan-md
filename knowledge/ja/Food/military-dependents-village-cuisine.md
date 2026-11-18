@@ -11,8 +11,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'c0ec148be'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:242e3935197cb573'
 sourceBodyHash: 'sha256:0350ac703fba6030'
 translatedAt: '2026-10-09T12:51:12+08:00'

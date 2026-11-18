@@ -18,8 +18,10 @@ featured: false
 readingTime: 12
 lastVerified: 2026-04-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣青年的生涯迷航.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:062fff6d074c6e52'
 sourceBodyHash: 'sha256:6672f01b9aa7c341'
 translatedAt: '2026-05-01T18:02:56+08:00'

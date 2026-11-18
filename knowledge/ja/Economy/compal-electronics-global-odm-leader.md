@@ -10,8 +10,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
-sourceCommitSha: 'ad792c900'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:42e5977dc5bcc26b'
 sourceBodyHash: 'sha256:aead7a66c3b88ec5'
 translatedAt: '2026-10-15T20:18:30+08:00'

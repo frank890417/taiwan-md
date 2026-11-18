@@ -11,8 +11,10 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
-sourceCommitSha: '4fbca8305'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:980bdc44c4cec7a3'
 sourceBodyHash: 'sha256:87a6d0a0e784adbe'
 translatedAt: '2026-10-03T02:34:18+08:00'

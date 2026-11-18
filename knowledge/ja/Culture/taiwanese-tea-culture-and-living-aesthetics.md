@@ -19,8 +19,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-12
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: '4aabbe030'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:85bd96c55701b918'
 sourceBodyHash: 'sha256:164fab87d9636e11'
 translatedAt: '2026-09-26T19:10:21+08:00'

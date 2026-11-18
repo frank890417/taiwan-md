@@ -1,6 +1,8 @@
 ---
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/清水斷崖.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: '2026-05-01T14:48:26+08:00'

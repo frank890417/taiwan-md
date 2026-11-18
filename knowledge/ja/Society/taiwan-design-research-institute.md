@@ -19,8 +19,10 @@ readingTime: 16
 lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: 'fa44ba5a'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:68988284647ce5e2'
 sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-06-16T17:04:12Z'

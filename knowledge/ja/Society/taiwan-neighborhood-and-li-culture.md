@@ -10,8 +10,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
 translatedAt: '2026-10-15T19:26:09.401535+00:00'

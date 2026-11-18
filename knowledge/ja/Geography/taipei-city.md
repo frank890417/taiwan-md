@@ -27,8 +27,10 @@ readingTime: 18
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台北市.md'
-sourceCommitSha: 'e974b4c9'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:6b1de66c12b3c38a'
 sourceBodyHash: 'sha256:c557c6ff09961dc3'
 translatedAt: '2026-05-19T05:08:06+08:00'

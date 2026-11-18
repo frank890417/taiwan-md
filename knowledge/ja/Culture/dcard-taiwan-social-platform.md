@@ -19,8 +19,10 @@ readingTime: 8
 lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: Culture/Dcard.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
 translatedAt: '2026-06-16T17:10:30Z'

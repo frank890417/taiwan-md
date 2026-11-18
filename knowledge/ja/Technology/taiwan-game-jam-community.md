@@ -11,8 +11,10 @@ author: 'tppr2046'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
 translatedAt: '2026-05-01T14:48:26+08:00'
