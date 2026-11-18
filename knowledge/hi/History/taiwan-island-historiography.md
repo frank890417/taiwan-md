@@ -27,11 +27,13 @@ rationale:
   whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
   where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
   whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'a1c3748b5'
-sourceContentHash: 'sha256:584f286b403c0d75'
-sourceBodyHash: 'sha256:4711da6579afc037'
-translatedAt: '2026-07-27T04:56:51+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:bc5ca49b6252ba1f'
+sourceBodyHash: 'sha256:cd61287aff771336'
+translatedAt: '2026-11-18T15:05:17.248892+00:00'
 ---
 
 > **30 सेकंड अवलोकन:** यदि केवल पूछा जाए "ताइवान पर किसने शासन किया", तो ताइवान इतिहास एक शासन हस्तांतरण तालिका बन जाता है: डच, स्पेनिश, झेंग शासन, चिंग साम्राज्य, जापानी साम्राज्य, चीन गणराज्य (ताइवान) बारी-बारी से प्रकट होते हैं। ताइवान द्वीप इतिहास दृष्टिकोण प्रश्न बदलता है: इन शासनों के आने-जाने के बीच, इस द्वीप के लोगों के साथ क्या हुआ? उन्होंने कैसे प्रवास किया, व्यापार किया, शासित हुए, प्रतिरोध किया, प्रेम किया, आपदा झेली, पुनर्निर्माण किया, और अंततः बाहरी संस्थाओं और बहुस्तरीय स्मृतियों को अपना जीवन बना लिया? 1990 में, इतिहासकार चाओ योंग-हो ने "ताइवान द्वीप इतिहास" अवधारणा प्रस्तावित की; बाद में विद्वानों, संग्रहालयों, शिक्षा और सार्वजनिक संस्कृति ने इसे एक अधिक दैनिक अंतर्ज्ञान में ढाला: पहचान केवल रक्त-संबंध या मातृभूमि से नहीं, बल्कि एक ही द्वीप पर साथ रहने और जीवित रहने के अनुभव से भी आती है।[^1][^2]
@@ -166,9 +168,9 @@ _राष्ट्रीय ताइवान इतिहास संग्�
 
 ## चित्र स्रोत
 
-- हीरो: 1640 डच द्वारा बनाया फॉर्मोसा मानचित्र, विकिमीडिया कॉमन्स, सार्वजनिक डोमेन। मूल फाइल: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg)।
-- 1880 ताइवान मानचित्र: स्टैनफोर्ड्स/लाइब्रेरी ऑफ कांग्रेस, विकिमीडिया कॉमन्स, सार्वजनिक डोमेन। मूल फाइल: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>)।
-- राष्ट्रीय ताइवान इतिहास संग्रहालय बाहरी: Pbdragonwang, विकिमीडिया कॉमन्स, CC BY-SA 3.0। मूल फाइल: [राष्ट्रीय ताइवान इतिहास संग्रहालय 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg)।
+- मुख्य चित्र: 1640 में डच लोगों द्वारा बनाया गया फ़ॉर्मोसा का मानचित्र, विकिमीडिया कॉमन्स, सार्वजनिक डोमेन। मूल फ़ाइल: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg)।
+- 1880 का ताइवान मानचित्र: स्टैनफोर्ड/लाइब्रेरी ऑफ कांग्रेस, विकिमीडिया कॉमन्स, सार्वजनिक डोमेन। मूल फ़ाइल: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>)।
+- राष्ट्रीय ताइवान इतिहास संग्रहालय का बाहरी दृश्य: Pbdragonwang, विकिमीडिया कॉमन्स, CC BY-SA 3.0। मूल फ़ाइल: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg)।
 
 ## संदर्भ सामग्री
 

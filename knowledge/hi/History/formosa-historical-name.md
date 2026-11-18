@@ -20,11 +20,13 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/福爾摩沙.md'
-sourceCommitSha: '01d9d0e73'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:7935e86b210536e5'
 sourceBodyHash: 'sha256:dd15e8c65b7a98f1'
-translatedAt: '2026-08-09T15:02:44+08:00'
+translatedAt: '2026-11-18T15:46:50.120132+00:00'
 ---
 
 # फॉर्मोसा: पश्चिमी लोगों ने कैसे "खोजा" एक ऐसा द्वीप जहाँ पहले से लोग रहते थे

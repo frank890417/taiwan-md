@@ -19,11 +19,13 @@ featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-07-25T05:00:12+08:00'
+translatedAt: '2026-11-18T14:47:31.980199+00:00'
 ---
 
 # तांग-त्सुंग: सफेद छिद्रों में छिपा "प्रतिरोध की मिठास"
