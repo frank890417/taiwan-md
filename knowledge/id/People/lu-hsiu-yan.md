@@ -20,8 +20,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-05/盧秀燕.md'
 difficulty: 'intermediate'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/盧秀燕.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-09-15T19:45:29+08:00'

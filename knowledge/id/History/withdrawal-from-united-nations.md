@@ -21,8 +21,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
 translatedAt: '2026-11-06T04:30:30.889743+00:00'

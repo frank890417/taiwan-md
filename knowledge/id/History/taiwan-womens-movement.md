@@ -1,9 +1,11 @@
 ---
 title: 'Gerakan Perempuan Taiwan: Dari Majalah pada Masa Darurat Militer, hingga Mereformasi Hukum Keluarga dan Sekolah'
 description: 'Tahun 1971 Lü Hsiu-lien mengajukan feminisme baru; tahun 1982 Li Yuanzhen dan kawan-kawannya mendirikan <em>Awakening</em> (婦女新知); tahun 1996 Peng Wanru meninggal meninggalkan jejak sejarah gerakan malam hari; semua jalan ini bermuara pada Undang-Undang Kesetaraan Gender dalam Pendidikan, Undang-Undang Pencegahan Kekerasan Dalam Rumah Tangga, dan Undang-Undang Kesetaraan Gender dalam Pekerjaan. Sejarah gerakan perempuan Taiwan tidak hanya tentang memperjuangkan kuota perempuan, melainkan mengubah sekali-sekali apa yang disebut pekerjaan rumah tangga—penganiayaan, perawatan, dan kerja—menjadi isu publik, serta memberi perempuan bahasa institusional yang dapat disanggupi di tempat kerja, keluarga, dan sekolah.'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: History/婦女運動.md
-sourceCommitSha: e974b4c9e
-sourceContentHash: sha256:da39db3f5bf79f35
+sourceCommitSha: 'ef8369ee'
+sourceContentHash: 'sha256:1b50bc175ecf61ab'
 sourceBodyHash: 'sha256:e725ecac1936b5cf'
 translatedAt: 2026-09-10T14:30:00+08:00
 date: 2026-08-20

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/遊覽車.md'
-sourceCommitSha: '42b42a934'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:f828da7d0eb39776'
 sourceBodyHash: 'sha256:c0de350ac39dbee0'
 translatedAt: '2026-09-19T01:37:24+08:00'

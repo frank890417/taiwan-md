@@ -20,8 +20,10 @@ lastHumanReview: false
 featured: false
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'fb7f4f824'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
 translatedAt: '2026-07-25T21:33:45+08:00'

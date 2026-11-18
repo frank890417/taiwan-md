@@ -18,8 +18,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'resources/mini-taiwan-pulse.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
 sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: '2026-09-13T05:56:48+08:00'

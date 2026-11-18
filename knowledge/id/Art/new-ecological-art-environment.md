@@ -17,8 +17,10 @@ readingTime: 16
 lastVerified: 2026-05-17
 lastHumanReview: 'false'
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/新生態藝術環境.md'
-sourceCommitSha: 'c99df6503'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:89f4f7c40c7428d6'
 sourceBodyHash: 'sha256:dde1ab9552710d18'
 translatedAt: '2026-07-24T15:52:20+08:00'

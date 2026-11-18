@@ -32,8 +32,10 @@ rationale:
   where_it_hedges: '季刊化寫「2019 年底改版＋第 134 期 2020 年 3 月首刊」雙時點；金鼎寫「第 40 屆（2016）雜誌類個人獎主編獎」不寫「最佳」；黃威融「打開五感、懂得品鑑」出自 is_ads 威士忌業配文、改用他本人 verified 素材，業配文放陰影段當案例並誠實標業配；「軟雜誌誕生的前鋒部隊」只引 6 字、La Vie/PPAPER 2004 用敘述句；詹宏志名言標「李惠貞轉引」；小日子寫「其後未見新刊」；SD 寫「少數走到現在的案例之一」；BEST100 類別數 9/10/11 逐年變、非官方獎；現任總編查無用「主編奕昕、副主編雅筠」。'
   whos_pushing_back: '對生活風格媒體最合理的質疑：它是否把消費包裝成理想生活。本文不虛構外部負評（查無可承擔 claim 的公共爭議），只做結構提問＋業界自省（副總編包叔平談廣編倫理）＋產業結構（La Vie 同樣自辦獎、與巨思同源詹宏志），不升級為已發生爭議，也不把布迪厄理論寫成有人用它批評 SD。'
 relatedDiary: ['2026-07-13-214351-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-09-23T01:05:22+08:00'

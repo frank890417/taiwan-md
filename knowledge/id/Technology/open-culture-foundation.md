@@ -34,9 +34,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-03'
     url: 'https://x.com/taiwandotmd/status/2062197280984399945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/開放文化基金會.md'
-sourceCommitSha: 'c8e5ac9ea'
-sourceContentHash: 'sha256:08a786ea48be0947'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:c4ab423af923a984'
 sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-09-26T12:59:05.005050+00:00'
 ---

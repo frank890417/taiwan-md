@@ -21,8 +21,10 @@ readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
 researchReport: reports/research/2026-05/聶永真.md
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
 translatedAt: '2026-09-26T21:47:05+08:00'

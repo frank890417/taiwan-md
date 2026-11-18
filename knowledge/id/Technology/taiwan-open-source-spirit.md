@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
 translatedAt: '2026-09-14T05:21:54+08:00'

@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 readingTime: 28
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/Facebook.md'
-sourceCommitSha: 'ac86475bc'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:79e35442d2cf14fd'
 sourceBodyHash: 'sha256:5ed7f28c852729fe'
 translatedAt: '2026-07-29T04:32:46+08:00'

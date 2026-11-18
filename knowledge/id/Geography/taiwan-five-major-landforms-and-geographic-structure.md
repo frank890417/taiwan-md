@@ -18,9 +18,11 @@ featured: true
 lastVerified: 2026-09-20
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣五大地形與地理結構.md'
-sourceCommitSha: '14fb95e71'
-sourceContentHash: 'sha256:ad6bea56ee775502'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:51364b574313e11f'
 sourceBodyHash: 'sha256:aa95a7b2cb0e4dcb'
 translatedAt: '2026-09-20T22:35:45.557337+00:00'
 ---

@@ -10,8 +10,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
-sourceCommitSha: '1440e2a2d'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d52ac46a55e0087a'
 sourceBodyHash: 'sha256:7ff26ffe138f6405'
 translatedAt: '2026-10-10T16:15:51+08:00'

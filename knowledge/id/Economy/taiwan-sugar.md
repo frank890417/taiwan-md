@@ -17,9 +17,11 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c54367'
-sourceContentHash: 'sha256:fe604aece0c5731f'
+sourceCommitSha: '22286539'
+sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
 translatedAt: '2026-09-06T04:09:46+08:00'
 translatedFromInferred: false

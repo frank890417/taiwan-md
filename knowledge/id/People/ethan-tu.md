@@ -3,15 +3,24 @@ title: 'Ethan Tu (杜奕瑾)'
 description: 'Mendirikan forum terbesar Taiwan dari sebuah komputer 486, memimpin lahirnya Cortana di Microsoft, lalu melepas gaji tinggi untuk pulang membangun AI nirlaba—tiga puluh tahun sejarah digital sang dewa pencipta PTT.'
 date: 2026-03-30
 category: 'People'
-tags: ['Ethan Tu', 'PTT', 'Taiwan AI Labs', 'Demokrasi Digital', 'Kecerdasan Buatan']
+tags:
+  [
+    'Ethan Tu',
+    'PTT',
+    'Taiwan AI Labs',
+    'Demokrasi Digital',
+    'Kecerdasan Buatan',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'ab47ff39'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
 translatedAt: '2026-09-01T22:35:00+08:00'

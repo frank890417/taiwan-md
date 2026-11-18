@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
 translatedAt: '2026-09-05T22:20:37+08:00'

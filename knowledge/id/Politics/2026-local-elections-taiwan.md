@@ -38,9 +38,11 @@ datasets:
     why: '查察四大重點中賄選與介選兩項的歷年裁判結果，檢方查察強度量化面'
     verified: 2026-06-10
 relatedDiary: ['2026-07-10-224934-elections-refresh']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/2026 九合一選舉.md'
-sourceCommitSha: '2cbb7955c'
-sourceContentHash: 'sha256:98482d1a94d7ac85'
+sourceCommitSha: 'b1a5fea0'
+sourceContentHash: 'sha256:0598c68f67d9dae4'
 sourceBodyHash: 'sha256:a62248f87fd69728'
 translatedAt: '2026-09-22T13:12:01.400788+00:00'
 ---

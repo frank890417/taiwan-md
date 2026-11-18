@@ -18,8 +18,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '3e8cce502'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:96cb23499982b31c'
 sourceBodyHash: 'sha256:b8e8c634da9c1fac'
 translatedAt: '2026-10-03T22:35:13.939447+00:00'

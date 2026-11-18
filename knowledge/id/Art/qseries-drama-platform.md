@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: '6b09bda3b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:fa35ce866d7f44e8'
 sourceBodyHash: 'sha256:449507a2e31a92cb'
 translatedAt: '2026-09-19T07:29:00.973531+00:00'

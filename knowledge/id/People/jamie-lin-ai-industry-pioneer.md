@@ -24,9 +24,11 @@ image: '/article-images/people/lee-feng-chien-tsai-google-2019.webp'
 imageCredit: '總統府 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: "https://commons.wikimedia.org/wiki/File:Google_Taiwan_Branch_Engineering_Director_Lee-Feng_Chien_speaking_with_Taiwanese_President_Tsai_Ing-wen_upon_her_visit_at_Google's_office_at_Taipei_101_20190417.jpg"
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: People/簡立峰.md
-sourceCommitSha: 717a640b3
-sourceContentHash: sha256:8fe13ae8a4b4ef0b
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8fe13ae8a4b4ef0b'
 sourceBodyHash: 'sha256:ea3e7d04bd378c51'
 translatedAt: '2026-09-09T15:32:33+08:00'
 rationale:

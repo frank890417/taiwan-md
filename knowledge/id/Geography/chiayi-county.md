@@ -26,9 +26,11 @@ readingTime: 18
 researchReport: 'reports/research/2026-05/嘉義縣.md'
 series: '22 縣市系列（batch 2）'
 imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/嘉義縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:92677747f5c5aca7'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:8a5f68953035c21c'
 sourceBodyHash: 'sha256:a01c05f219edf7a3'
 translatedAt: '2026-09-22T15:37:41.542322+00:00'
 ---

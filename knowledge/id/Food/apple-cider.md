@@ -30,9 +30,11 @@ sporeLinks:
     "{'id': 72, 'platform': 'threads', 'date': '2026-05-12', 'url': 'https://www.threads.com/@taiwandotmd/post/DYPI9W0kyPP'}",
     "{'id': 73, 'platform': 'x', 'date': '2026-05-12', 'url': 'https://x.com/taiwandotmd/status/2054158652588863776'}",
   ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/蘋果西打.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:6b015b027c9938c2'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:843fecc188f1e99a'
 sourceBodyHash: 'sha256:e2ac1f8b1495c588'
 translatedAt: '2026-07-29T16:12:38.917042+00:00'
 ---

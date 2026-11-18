@@ -21,8 +21,10 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: '2026-09-01T22:32:31+08:00'

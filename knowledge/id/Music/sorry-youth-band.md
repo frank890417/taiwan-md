@@ -21,8 +21,10 @@ featured: true
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 12min
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/拍謝少年.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
 translatedAt: '2026-09-01T20:12:00+08:00'

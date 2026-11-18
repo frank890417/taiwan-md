@@ -17,8 +17,10 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 5
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
 translatedAt: '2026-07-26T19:42:09+08:00'

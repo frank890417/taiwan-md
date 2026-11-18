@@ -32,8 +32,10 @@ datasets:
     update_freq: 'pembaruan berkala'
     why: '「model bisnis yang secara teori tidak seharusnya ada」menjadi daftar resmi yang dikelola pemerintah — potongan kota'
     verified: 2026-06-10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: '7678a430b'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-09-09T15:32:33+08:00'

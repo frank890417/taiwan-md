@@ -32,8 +32,10 @@ datasets:
   - name: '機動車輛登記數'
     url: 'https://data.gov.tw/dataset/14208'
 relatedDiary: ['2026-06-25-204254-公車系統']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: 'fc49bdeef'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:7d3802fe03c60e03'
 sourceBodyHash: 'sha256:24a950fc8509e96a'
 translatedAt: '2026-10-13T22:42:03.674182+00:00'

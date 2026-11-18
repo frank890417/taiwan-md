@@ -20,9 +20,11 @@ featured: false
 lastVerified: 2026-04-10
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣動物用藥爭議.md'
-sourceCommitSha: '9a60e8fdf'
-sourceContentHash: 'sha256:400d675ceaf05f40'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:670bf6306d125685'
 sourceBodyHash: 'sha256:58df60a34bbdc3ea'
 translatedAt: '2026-09-16T14:21:35.337463+00:00'
 ---

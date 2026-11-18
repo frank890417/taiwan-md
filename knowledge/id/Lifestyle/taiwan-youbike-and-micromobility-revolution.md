@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
 translatedAt: '2026-08-29T22:21:24+08:00'

@@ -20,9 +20,11 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣司法改革與預防性羈押制度.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:3c773b70b1deb422'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:95fbaf40f48b2ca2'
 sourceBodyHash: 'sha256:afed06eba24e4811'
 translatedAt: '2026-09-13T20:08:31.770142+00:00'
 ---

@@ -33,9 +33,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-26'
     url: 'https://x.com/taiwandotmd/status/2048233702053073039'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/田馥甄.md'
-sourceCommitSha: '380c49d7e'
-sourceContentHash: 'sha256:9f8381739b864e8b'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:d2852cc419867a37'
 sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 translatedAt: '2026-09-26T04:25:19.683637+00:00'
 ---

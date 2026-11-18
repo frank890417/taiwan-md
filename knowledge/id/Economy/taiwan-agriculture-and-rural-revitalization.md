@@ -18,8 +18,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '0471d07ff'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:bea7a776566a0bbd'
 sourceBodyHash: 'sha256:760025faea8ce9a0'
 translatedAt: '2026-10-15T21:37:33.998472+00:00'

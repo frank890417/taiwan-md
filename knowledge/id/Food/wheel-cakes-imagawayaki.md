@@ -18,8 +18,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/車輪餅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:75886d0c9c5c9b1f'
 sourceBodyHash: 'sha256:b1f515f692de800c'
 translatedAt: '2026-07-25T06:34:15+08:00'

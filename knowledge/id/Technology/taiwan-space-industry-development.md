@@ -18,8 +18,10 @@ featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣太空產業發展.md'
-sourceCommitSha: 'f3baded5f'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:e66143fe99e401f4'
 sourceBodyHash: 'sha256:f2a71a6d6f47c4eb'
 translatedAt: '2026-09-16T11:57:33+08:00'

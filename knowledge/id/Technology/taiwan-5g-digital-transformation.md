@@ -18,8 +18,10 @@ readingTime: 13
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
-sourceCommitSha: '5b89f1761'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:8ae63a433505bef3'
 sourceBodyHash: 'sha256:07f01705cabacd50'
 translatedAt: '2026-10-02T07:53:56+08:00'

@@ -29,9 +29,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-02'
     url: 'https://x.com/taiwandotmd/status/2050601653792047479'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賈永婕.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:ef77f1a4a4a50fce'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a92f6a6b22257ffa'
 sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-09-25T16:59:45.608471+00:00'
 ---

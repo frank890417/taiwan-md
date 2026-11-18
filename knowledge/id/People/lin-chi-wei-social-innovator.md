@@ -10,8 +10,10 @@ featured: false
 lastVerified: 2026-07-03
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/林啟維.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'be13f045'
 sourceContentHash: 'sha256:50a3b31b4cb61eed'
 sourceBodyHash: 'sha256:e893f57da90167f4'
 translatedAt: '2026-09-21T16:48:24.406652+00:00'

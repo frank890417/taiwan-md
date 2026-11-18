@@ -23,8 +23,10 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/學習貧窮.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: 'b1a5fea0'
 sourceContentHash: 'sha256:849f86ce2f7e41c5'
 sourceBodyHash: 'sha256:605da09515483b90'
 translatedAt: '2026-09-21T00:58:31+08:00'
