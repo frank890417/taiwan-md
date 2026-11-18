@@ -1,6 +1,6 @@
 ---
 title: '台湾の眷村（けんそん）の歴史'
-description: '国民政府が軍の家族を安置するために建設した眷村。竹垣や泥、トタンで作られたわずか数坪の仮住まいから、桃園の忠貞新村のように、ミャンマー北部から撤退してきた孤軍の家族を受け入れた場所まで、流亡と定住、故郷と他郷の狭間で台湾の多様な文化の遺伝子となった歴史を辿ります。'
+description: '国民政府が軍人とその家族を安置するために眷村を建設し始めたことから、竹垣や泥、トタン板で築かれた1坪にも満たない仮初めの家々が生まれました。桃園市の忠貞新村は、ビルマ北部から台湾へ撤退してきた孤軍の家族を受け入れました。彼らは中緬国境で約4年間にわたりゲリラ戦を繰り広げた末に台湾へと辿り着きました。そこには流亡と定住、故郷と異郷という弁証的な意味が込められており、竹垣の家々から公営住宅へと変遷を遂げながら、台湾の多文化における重要な遺伝子となりました。'
 date: 2026-03-22
 category: 'History'
 tags: ['眷村', '外省移民', '国共内戦', '文化保存', '都市更新']
@@ -11,11 +11,13 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: 'bfe3c4861'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:a769f300a4a6b10d'
 sourceBodyHash: 'sha256:62a8c3544391f28d'
-translatedAt: '2026-10-15T15:59:44+08:00'
+translatedAt: '2026-11-18T16:55:10.434602+00:00'
 ---
 
 # 台湾の眷村（けんそん）の歴史

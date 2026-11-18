@@ -2,9 +2,7 @@
 title: 'フォルモサ：西洋人はいかにして、すでに人が住んでいた島を「発見」したのか'
 description: '1704年、アジアに一度も行ったことのないフランス人がロンドン王立協会に立ち、自ら創作した文字と宗教を用いて、満場の学者に自分は「フォルモサ人」だと信じ込ませました。この詐欺は十年続きました。しかし、より大きな問題は、ヨーロッパ人が「フォルモサを発見した」と語るとき、その島にはすでにオーストロネシア語族の人々が六千年にわたって暮らしていたということです。「発見」とは、誰の叙事なのでしょうか。'
 date: 2026-04-12
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
   [
     'フォルモサ',
@@ -16,15 +14,19 @@ tags:
     '国立台湾歴史博物館',
     '海外史料',
   ]
+subcategory: '殖民與帝國'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/福爾摩沙.md'
-sourceCommitSha: '01d9d0e73'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:7935e86b210536e5'
 sourceBodyHash: 'sha256:dd15e8c65b7a98f1'
-translatedAt: '2026-05-12T11:51:04+08:00'
-image: ''
+translatedAt: '2026-11-18T16:45:09.207819+00:00'
 ---
 
 # フォルモサ：西洋人はいかにして、すでに人が住んでいた島を「発見」したのか

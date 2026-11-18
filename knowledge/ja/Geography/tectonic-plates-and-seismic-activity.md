@@ -1,6 +1,6 @@
 ---
 title: '台湾のプレート運動と地震活動'
-description: '台湾がユーラシアプレートとフィリピン海プレートの境界に位置する地質的特性、および頻繁な地震活動の原因を探る'
+description: 'ユーラシアプレートとフィリピン海プレートの境界に位置する台湾の地質学的特性と、頻繁な地震活動が起こる原因について探究します。'
 date: 2026-03-18
 category: 'Geography'
 tags: ['地質', 'プレート運動', '地震', '活断層', '自然災害']
@@ -10,11 +10,13 @@ featured: true
 lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
-sourceCommitSha: '426c8cbd1'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e5a1373630fd1073'
 sourceBodyHash: 'sha256:6ce2095cf81ca454'
-translatedAt: '2026-09-19T11:59:02+08:00'
+translatedAt: '2026-11-18T17:07:39.763204+00:00'
 ---
 
 # 台湾のプレート運動と地震活動

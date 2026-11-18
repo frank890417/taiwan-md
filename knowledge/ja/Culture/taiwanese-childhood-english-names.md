@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T14:33:04.671955+00:00'
+translatedAt: '2026-11-18T17:12:54.465970+00:00'
 ---
 
 # 台湾人の子ども時代の英語名：メアリー、ケビン、そして学習塾講師の命名権
@@ -278,13 +280,13 @@ BarešováとPikhartの論文にもこの年齢前倒しの傾向が記録され
 
 名前を指派するという行為は決して廃止されたことはありません——ただ、名前を与える人が変わっただけです。
 
-## 参考文献
+## 関連記事
 
-- [台湾人の名前（特集）](/ja/names/) — 姓、世代、四つのローマ字方式、原住民族の名前を図解。氏名ローマ字変換ツール付き。
-- [台湾の外来語と言語接触](/ja/culture/loanwords-and-language-contact-in-taiwan) — 日本語・英語・台湾語の間の借用から見る台湾の多言語層の重なり方
-- [台湾原住民言語復興運動](/ja/culture/indigenous-language-revitalization-movement) — 命名権回復のもう一つの系譜、民族言語復興から2024年姓名条例改正まで
-- [蒋為文](/ja/people/chiung-wi-vun) — 台湾語文運動「脱漢」論理の延長線上の対照、命名と文字主権のもう一つの側面
-- [台湾感性](/ja/culture/taiwanese-sensibility) — 文化心態のキュレーション視点、「なぜ台湾人は常に外国語名が必要だと感じるのか」のもう一層を理解する
+- [台湾人の名前（特集）](/names/) — 姓氏、世代、拼音と民族言語の名前を図解し、姓名の拼音ツールを付録。
+- [台湾の外来語と言語接触](/ja/culture/loanwords-and-language-contact-in-taiwan) — 日本語、英語、台湾語の間での借用から、台湾の多層的な言語構造がどのように形成されているかを探る。
+- [台湾原住民族言語復興運動](/ja/culture/indigenous-language-revitalization-movement) — 命名権を取り戻すもう一つの潮流。民族言語の復興から2024年の姓名条例改正までを辿る。
+- [蔣為文（しょう・いぶん／Chiang Wei-wen）](/ja/people/chiung-wi-vun) — 台湾語運動における「脱漢化」ロジックの延長線上にある対照、命名と文字主権のもう一つの側面。
+- [台湾の感性](/ja/culture/taiwanese-sensibility) — 文化的な精神性をキュレーションの視点から捉え、「なぜ台湾人は常に外国語名が必要だと感じるのか」を理解するための別側面。
 
 ## 画像出典
 

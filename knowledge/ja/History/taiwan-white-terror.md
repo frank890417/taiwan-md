@@ -11,11 +11,13 @@ featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: 'fa44ba5a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1c4df7a1034d9237'
 sourceBodyHash: 'sha256:decacb8f3924c150'
-translatedAt: '2026-09-23T05:53:42+08:00'
+translatedAt: '2026-11-18T16:47:46.753123+00:00'
 ---
 
 # 台湾の白色テロリズム
