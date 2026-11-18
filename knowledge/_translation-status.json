@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T14:46:46+08:00",
-    "zhCommitHead": "3dd16c700",
+    "lastUpdated": "2026-11-18T14:47:26+08:00",
+    "zhCommitHead": "583864e2b",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1191,
-        "fresh": 679,
-        "stale": 56,
+        "fresh": 680,
+        "stale": 55,
         "metadata_stale": 448,
         "missing": 8,
         "orphan": 0
@@ -109768,18 +109768,18 @@
         "pt": {
           "path": "pt/People/yang-wei-cher.md",
           "translatedFrom": "People/楊維哲.md",
-          "sourceCommitSha": "22286539e",
-          "sourceContentHash": "sha256:33dd9f5420593489",
-          "sourceBodyHash": "sha256:dbdac5a6701910e0",
-          "translatedAt": "2026-11-04T20:26:45.866161+00:00",
+          "sourceCommitSha": "520de49a5",
+          "sourceContentHash": "sha256:7efd573816451b59",
+          "sourceBodyHash": "sha256:e4b1b1d6bc7c9a2b",
+          "translatedAt": "2026-11-18T06:33:32.145249+00:00",
           "translationLastCommit": "04a00d50",
           "translationLastModified": "2026-11-05T04:51:04+08:00",
           "inferred": false,
-          "footnoteDefs": 13,
-          "bytes": 13331,
+          "footnoteDefs": 37,
+          "bytes": 59441,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (37→13)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/yang-wei-cher.md",
