@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:43:09+08:00'
+translatedAt: '2026-11-18T19:46:54.944018+00:00'
 ---
 
 # Внешняя торговля Тайваня и глобальные цепочки поставок
@@ -285,7 +287,9 @@ translatedAt: '2026-10-15T12:43:09+08:00'
 
 ## Дополнительное чтение
 
+- [Отраслевые обзоры промышленности Тайваня](/industry/) — структура промышленности на основе официальной статистики: экспорт и ВВП за 70 лет, научные парки, заводы в различных уездах и городах, топ-10 компаний по рыночной капитализации за разные годы, а также позиции сторон в шести ключевых общественных дискуссиях
+- [Карта цепочек поставок](/industry/supply-chain-map/) — полупроводники, серверы для ИИ и вольфрам: подробный разбор того, какие компании работают на Тайване и на каких этапах сохраняется зависимость от импорта
 - [Малый и средний бизнес и «скрытые чемпионы» Тайваня](/ru/economy/taiwan-smes-and-hidden-champions)
 - [Сельское хозяйство и возрождение сельских районов Тайваня](/ru/economy/taiwan-agriculture-and-rural-revitalization)
 - [Экосистема стартапов](/ru/economy/taiwan-startup-ecosystem-overview)
-- [Тайваньские корпорации: Foxconn (Hon Hai Precision)](/ru/economy/foxconn-precision-industry) — глобальное присутствие в 24 странах и охват 900 000 сотрудников, крупнейший полигон для трансграничного управления в промышленности Тайваня
+- [Тайваньские корпорации: Hon Hai Precision (Foxconn)](/ru/economy/foxconn-precision-industry) — глобальное присутствие в 24 странах с охватом 900 000 сотрудников; крупнейшая площадка для трансграничного управления в производственном секторе Тайваня
