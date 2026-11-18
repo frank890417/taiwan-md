@@ -2,9 +2,7 @@
 title: 'Цзы'
 description: 'Тайваньский цзы — это не просто блюдо, а наложение четырёх разных островных воспоминаний: хоккло (миньнань), хакка, вайшэнь (внешнепровинциальные) и коренные народы; каждый укус — это дорога, по которой они пришли.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
   [
     'Дуаньвцзцзе',
@@ -15,15 +13,19 @@ tags:
     'Коренные народы',
     'Праздничная еда',
   ]
-readingTime: 7
+subcategory: '節慶飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-07-25T09:23:19+08:00'
+translatedAt: '2026-11-18T16:33:41.886768+00:00'
 ---
 
 # Цзы

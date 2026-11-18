@@ -21,11 +21,13 @@ image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
 sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-07-29T18:45:53+08:00'
+translatedAt: '2026-11-18T16:21:48.812441+00:00'
 ---
 
 ![Гуа бао в Юаньфан на Хуаси-цзюй: полукруглые складные лепёшки с тушёным пятислойным мясом, кислой капустой, арахисовой крошкой и кинзой — один из самых представительных традиционных гуа бао в Тайбэе](/article-images/food/gua-bao-yuanfang-2023.webp)
