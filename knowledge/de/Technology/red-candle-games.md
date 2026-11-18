@@ -1,17 +1,17 @@
 ---
-title: 'Red Candle Games: Eine taiwanische Geschichte, die kein Amulett stoppen konnte'
-description: 'Im Jahr 2017 entwickelte eine Gruppe von sechs taiwanesischen Spielern ein Horror-Spiel, das in der ersten Woche auf den globalen Steam-Bestsellern landete. Im Jahr 2019 wurde die Fortsetzung „Devotion“ aufgrund eines Amuletts vollständig durch China gesperrt und ist seitdem nicht mehr auf Steam erhältlich. Im Jahr 2024 verkauften sie mit dem Dao-Punk-Actionspiel „Nine Sols“ 800.000 Exemplare und gewannen den Sony Independent Games Award. Die Geschichte von Red Candle ist: Wer gesperrt wurde, kehrt durch sein Werk zurück.'
+title: 'Red Candle Games: Eine taiwanesische Geschichte, die kein Talisman aufhalten kann'
+description: '2017 entwickelten sechs Taiwaner ein Horrorspiel über den Weißen Terror, das in der ersten Woche die globalen Steam-Verkaufscharts anführte. 2019 wurde der Nachfolger „Devotion“ wegen eines Talismans in China komplett gesperrt und ist bis heute auf Steam verschwunden. 2024 verkauften sie mit dem taoistischen Punk-Actionspiel „Nine Sols“ 800.000 Exemplare und gewannen den Sony Independent Game Award. Die Geschichte von Red Candle: Wer verbannt wurde, kehrt mit seinem Werk zurück.'
 date: 2026-04-25
 category: 'Technology'
 tags:
   [
     'Red Candle Games',
-    'Schulreinigung (Detention)',
+    'Detention',
     'Devotion',
     'Nine Sols',
     'Indie-Spiele',
-    'White Terror',
-    'Taiwan Spiele',
+    'Weißer Terror',
+    'taiwanesische Spiele',
   ]
 subcategory: '社群與數位文化'
 author: 'zaious'
@@ -22,121 +22,121 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Technology/赤燭遊戲.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:33c90e10581f31c9'
 sourceBodyHash: 'sha256:1fba81d514ac33a3'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-19T01:12:22+08:00'
 ---
 
-> Am 13. Januar 2017 erschien das Horror-Spiel „Detention“ auf Steam, dessen Hintergrund die „White Terror“-Periode Taiwans in den 1960er Jahren darstellte. Zwei Jahre später wurde die Fortsetzung „Devotion“ aufgrund eines Amuletts, das den Schriftzug „Xi Jinping Winnie the Pooh“ enthielt, vollständig von China gesperrt und ist bis heute nicht auf Steam erhältlich. Fünf Jahre später verkaufte dasselbe Team mit „Nine Sols“ 800.000 Exemplare und gewann den Sony Independent Games Award im Jahr 2025. Die zehnjährige Geschichte von Red Candle ist eine der dramatischsten Kurven in der taiwanesischen Indie-Spieleentwicklung: Sie erzählen ihre Geschichte aus ihrer eigenen Vergangenheit, werden vom größten Markt gesperrt und beweisen dann mit einem weiteren Werk, dass sie noch existieren.
+> Am 13. Januar 2017 erschien mit „Detention“ (返校) ein Horrorspiel, das in den 1960er Jahren während des Weißen Terrors in Taiwan spielt, auf Steam. Zwei Jahre später wurde der Nachfolger „Devotion“ (還願) wegen eines Talismans mit der Aufschrift „Xi Jinping Winnie Puuh“ in China flächendeckend gesperrt und ist bis heute auf Steam nicht käuflich. Weitere fünf Jahre später verkaufte dasselbe Team mit „Nine Sols“ (九日) 800.000 Exemplare und gewann den Sony Independent Game Award 2025. Die zehn Jahre von Red Candle Games bilden den dramatischsten Bogen der taiwanesischen Indie-Spielszene: Sie erzählten ihre eigene Geschichte, wurden vom größten Markt verbannt und bewiesen mit dem nächsten Werk, dass sie noch da sind.
 
 ---
 
 ## Sechs Menschen und ein Klassenzimmer
 
-Der Vorgänger von Red Candle Games hieß „Observer Studio“ und wurde im September 2015 von sechs Personen gegründet: Yao Shun-ting (姚舜庭), Wang Guang-hao (王光昊), Wang Han-yu (王瀚宇) (zwei Brüder), Jiang Dong-yu (江東昱), Chen Jing-heng (陳敬恆) und Yang Shi-wei (楊適維).[^1]
+Der Vorläufer von Red Candle Games hieß „Stargazer Studio“ (眺望者工作室) und wurde im September 2015 von sechs Personen gegründet: Yao Shun-ting, Wang Guang-hao, Wang Han-yu (die beiden Brüder), Jiang Dong-yu, Chen Jing-heng und Yang Shi-wei.[^1]
 
-Das Kernkonzept stammt von Yao Shun-ting aus einer Idee von 2013: die erdrückende Atmosphäre der „White Terror“-Periode Taiwans in ein Horror-Spiel zu verwandeln. Die Kulisse ist eine abgelegene Oberschule der 1960er Jahre; Volksglaube und Amulette sind visuelle Elemente, während die Verratserklärungen und Schwarze Listen aus dieser Zeit das erzählerische Rückgrat bilden.[^2]
+Die Kernidee stammte von Yao Shun-ting aus dem Jahr 2013: die bedrückende Atmosphäre der Kriegsrecht-Ära Taiwans in ein Horrorspiel zu übersetzen. Schauplatz ist ein abgelegenes Berg-Gymnasium der 1960er Jahre; Talismane und Papiergeld des daoistischen Volksglaubens bilden die visuelle Ebene, Denunziation und Schwarze Listen der Zeit des Weißen Terrors das narrative Rückgrat.[^2]
 
-Am 13. Januar 2017 wurde „Detention“ auf Steam veröffentlicht.
+Am 13. Januar 2017 ging „Detention“ auf Steam online.
 
-> **📝 Notiz des Kurators**
-> Vor „Detention“ gab es fast keine Spiele mit taiwanesischem historischem Material. Japan hatte _Taiko Risshiden_, Europa und Amerika hatten _Assassin's Creed_, aber kein Spiel nutzte die eigene Geschichte Taiwans als Grundlage. Was Red Candle tat, wäre heute „Originelle Entwicklung von kulturellem IP“, aber als sie 2015 begannen, war dieser Begriff noch nicht populär.
+> **📝 Kuratorische Anmerkung**
+> Vor „Detention“ war das historische Spielgenre in Taiwan praktisch ein leeres Blatt. Japan hatte „Taikō Risshiden“, der Westen „Assassin’s Creed“, aber kein Spiel nutzte Taiwans eigene Geschichte als Material. Was Red Candle tat, heißt in heutiger Sprache „Originalentwicklung kultureller IP“, doch als sie 2015 begannen, war dieser Begriff noch nicht in Mode.
 
 ---
 
-## Der Beweis der 260 Millionen
+## 2,6 Milliarden als Beweis
 
 Der Erfolg von „Detention“ übertraf alle Erwartungen.
 
-Nach dem Start stieg das Spiel schnell in die globalen Steam-Bestsellerlisten auf. Die im Jahr 2019 adaptierte Verfilmung erreichte in Taiwan einen Umsatz von 260 Millionen NTD und wurde zum Champion der taiwanesischen Kinofilme dieses Jahres, wobei sie der einzige Film war, der über 100 Millionen verdient hatte. Der Film gewann fünf große Preise beim Golden Horse Awards.[^3]
+Kurz nach Veröffentlichung kletterte das Spiel in die globalen Steam-Verkaufscharts. Die 2019 erschienene Filmadaption spielte in Taiwan 2,6 Milliarden Neue Taiwan-Dollar (ca. 75 Mio. EUR) ein, wurde zum erfolgreichsten einheimischen Film des Jahres und blieb der einzige taiwanesische Film, der die 100-Millionen-Marke knackte. Bei den 56. Goldenen Pferden räumte er fünf Hauptpreise ab.[^3]
 
-Im Jahr 2020 produzierten die staatlichen Fernsehanstalten und Netflix gemeinsam eine Serienversion von „Detention“ mit insgesamt acht Episoden, deren Zeitrahmen Ende der 1990er Jahre angesetzt war und so eine Resonanz zur Kulisse der 1960er Jahre des Films erzeugte.[^4]
+2020 produzierten der öffentliche Sender PTS und Netflix gemeinsam die Serie „Detention“ – acht Folgen, angesiedelt in den späten 1990ern, als Spiegelung zum Film der 1960er.[^4]
 
-Ein Spiel → ein Film → eine Serie. „Detention“ vollendete den vollständigen Weg der transmedialen Adaption eines taiwanesischen Spiele-IP, und jeder Schritt war erfolgreich.
-
----
-
-## Der Amulett-Vorfall
-
-Am 19. Februar 2019 veröffentlichte Red Candle sein zweites Werk „Devotion“, ein First-Person-Horrorrätselspiel, das in einer Wohnung Taiwans der 1980er Jahre spielt und die Tragödie einer Familie erzählt, deren Vater von Volksglauben besessen war.
-
-Am ersten Tag des Starts erreichte die gleichzeitige Zuschauerzahl auf Twitch über hunderttausend. Die Verkaufszahlen erreichten innerhalb weniger Tage eine Million Exemplare.[^6]
-
-Dann fand jemand in der Spielumgebung ein Amulett.
-
-Die vier Ecken des Amuletts trugen „Nema Ba Nao“ (eine phonetische Anspielung), und in der Mitte stand das chinesische Schriftzeichen „Xi Jinping Winnie the Pooh“ in roter Kalligrafie.[^7]
-
-Der Vorfall explodierte innerhalb weniger Stunden. Der chinesische Distributor Indievent kündigte die Zusammenarbeit. „Devotion“ wurde aus dem chinesischen Steam-Store entfernt und anschließend vollständig von Steam weltweit gelöscht. Sogar „Detention“ erhielt massive negative Bewertungen von chinesischen Spielern als Vergeltung, wobei die positive Bewertung von „sehr positiv“ auf „gemischt“ sank. Die Lizenz des chinesischen Publishers wurde entzogen, und Investoren klagten bei Red Candle.[^8]
-
-Der Mitbegründer Yang Shi-wei erklärte später in einem Interview den Vorfall: Das Amulett sei ein Platzhaltermaterial der Künstler während der Entwicklung gewesen; als die Planung nicht rechtzeitig fertig war, sagte man „legen einfach irgendetwas rein“, und es wurde vergessen zu ersetzen. „Es war wirklich nur ein Tippfehler, wir dachten, wir hätten alles korrigiert.“[^9]
-
-Unabhängig von der Wahrheit ist „Devotion“ bis heute auf Steam verschwunden. Es wurde kurzzeitig auf GOG veröffentlicht, aber unter Druck schnell wieder entfernt. Red Candle verkaufte schließlich über einen eigenen Online-Shop und umging damit alle Drittanbieterplattformen.
-
-> **⚠️ Kontroverse Sichtweise**
-> Der Kernstreit beim Amulett-Vorfall ist: Kann ein Platzhaltermaterial aus dem Entwicklungsprozess als politische Äußerung gewertet werden? Red Candle behauptet, es sei ein Tippfehler; die chinesische Seite sieht darin eine vorsätzliche Provokation. Die Folgen dieses Vorfalls gehen weit über das Schicksal eines Spiels hinaus – er lehrt alle taiwanesischen Spieleentwickler, die in den chinesischen Markt wollen, dass der Schwellenwert des politischen Risikos niedriger ist als jeder dachte.
+Ein Spiel → ein Film → eine Serie. „Detention“ vollendete den vollständigen crossmedialen Adaptionspfad einer taiwanesischen Spiel-IP – und jeder Schritt gelang.
 
 ---
 
-## Nine Sols: Zurück durch das Werk
+## Der Talisman-Vorfall
 
-Nach dem Amulett-Vorfall war Red Candle fünf Jahre lang still.
+Am 19. Februar 2019 veröffentlichte Red Candle ihr zweites Werk „Devotion“, ein First-Person-Horror-Puzzlespiel, angesiedelt in einer taiwanesischen Wohnung der 1980er Jahre, das von einem Vater handelt, dessen Besessenheit vom Volksglauben die Familie in den Abgrund reißt.
 
-Am 31. Mai 2024 wurde „Nine Sols“ auf Steam veröffentlicht. Das Genre wechselte komplett: 2D-Sidescroller-Action, Daoistische Fantasy-Kulisse, Weltbild alter Mythologie und anspruchsvoller Kampf mit Fokus auf das Blockmechanik. Die Spieler übernehmen die Racheheldin „Yi“, die neun „Sonne(n)“ in einer Mischung aus östlicher Ästhetik und Cyberpunk vernichtet.[^10]
+Am Veröffentlichungstag schossen die gleichzeitigen Twitch-Zuschauerzahlen auf über 100.000. Der Absatz brach in wenigen Tagen die Million-Marke.[^6]
 
-Am ersten Tag des Starts erreichte es den neunten Platz der globalen Steam-Bestsellerliste. Nach einem Jahr (Mai 2025) wurden über 800.000 Exemplare verkauft. Die positive Bewertung auf Steam lag stabil bei über 95 % mit mehr als 16.000 Spielerbewertungen. Im November 2024 erschien es für PS5, Xbox und Switch und wurde zum Start auch in Xbox Game Pass aufgenommen.[^11]
+Dann entdeckte jemand in der Spielwelt einen Talisman.
 
-Im Jahr 2025 erhielt „Nine Sols“ den Sony Independent Games Award (PlayStation Partner Awards) als Anerkennung herausragender unabhängiger Spiele aus Japan/Asien.[^12]
+In den vier Ecken stand „Ni Ma Ba Bei“ (Phonetik), in der Mitte in Siegel-Schrift die roten Zeichen „Xi Jinping Winnie Puuh“.[^7]
 
-Mit „Nine Sols“ bewies Red Candle: Ein taiwanesisches Indie-Studio kann auch nach dem Verlust des chinesischen Marktes weiter existieren und es gut tun.
+Der Vorfall eskalierte innerhalb weniger Stunden. Der chinesische Vertrieb Indievent kündigte die Kooperation. „Devotion“ verschwand aus dem chinesischen Steam-Store, kurz darauf weltweit vollständig von Steam. Selbst „Detention“ wurde von chinesischen Spielern mit Massennegativbewertungen überzogen, die Bewertung stürzte von „Überwiegend positiv“ auf „Gemischt“. Dem chinesischen Vertrieb wurde die Lizenz entzogen, Investoren forderten Schadenersatz von Red Candle.[^8]
 
-> **✦** Von der Oberschule während des White Terror, über die Wohnung in Taiwan der 1980er Jahre bis zur Daoistischen Punk-Mythologie. Jedes Spiel von Red Candle erzählt eine andere Geschichte, aber die zugrunde liegende DNA ist unverändert: Die kulturellen Elemente Taiwans werden in ein weltweit verständliches Genre eingebettet.
+Mitgründer Yang Shi-wei rekonstruierte den Vorfall später im Interview: Der Talisman war ein Platzhalter-Asset der Grafikabteilung während der Entwicklung; weil das Planungsteam überlastet war, hieß es „leg erst mal was hin“, und am Ende vergaß man den Austausch. „Es war wirklich nur ein Versehen, man dachte, alles was geändert werden muss, sei schon geändert.“[^9]
 
----
+Wie auch immer die Wahrheit aussieht: „Devotion“ ist bis heute auf Steam verschwunden. Kurzzeitig erschien es auf GOG, wurde aber unter Druck ebenfalls rasch wieder entfernt. Red Candle eröffnete schließlich einen eigenen Shop auf der offiziellen Website, um alle Drittplattformen zu umgehen.
 
-## Die Art und Weise, wie sie erinnert werden
-
-Die zehnjährige Kurve von Red Candle Games fasst alle Möglichkeiten und alle Risiken zusammen, denen taiwanesische Indie-Spiele gegenüberstehen.
-
-„Detention“ bewies, dass taiwanische Geschichte ein Spielthema sein kann, das weltweit gekauft wird. „Devotion“ bewies, dass ein Amulett ein Millionen-Verkaufsspiel vom Erdboden verschwinden lassen kann. „Nine Sols“ bewies, dass ein gesperrtes Team mit einem nachfolgenden Werk zurückkommen kann.
-
-Red Candle im Jahr 2026 ist immer noch ein schlankes Team, es ist nicht börsennotiert, wurde nicht übernommen und hat sich nicht zum Handy-Spiel gewandelt. Es ist immer noch das Studio, das die sechs Personen gegründet haben, nur dass ihre Werke von der Golden Horse Awards anerkannt und von Sony ausgezeichnet wurden.
-
-„Devotion“ ist immer noch nicht auf Steam erhältlich. Aber Red Candle existiert weiter.
+> **⚠️ Streitpunkt**
+> Der Kernkontrovers des Talisman-Vorfalls: Stellt ein Platzhalter-Asset aus der Entwicklung eine politische Äußerung dar? Red Candle spricht von Versehen, die chinesische Seite sieht vorsätzliche Provokation. Die Folgen reichen weit über das Schicksal eines Spiels hinaus – sie ließen alle taiwanesischen Entwickler, die den chinesischen Markt im Blick hatten, erkennen, dass die Schwelle politischer Risiken weit niedriger liegt, als sich jemand vorstellen konnte.
 
 ---
 
-## Weiterführende Lektüre
+## Nine Sols: Mit dem Werk zurückkehren
 
-- [Taiwanische Spieleindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Ein Überblick über die taiwanesische Spieleentwicklung vom Vertrieb zur Originalität
-- [Daiyu Double Sword](/de/technology/softstar-twin-classics) — Die Ära vor Red Candle, der Ausgangspunkt für taiwanisches Storytelling in chinesischer Sprache
-- [Der wilde Moment der taiwanesischen Spieler](/de/technology/taiwan-gamers-wildest-moments) — Eine andere Seite des kollektiven Verhaltens der taiwanesischen Spieler
-- [Rhea Games](/de/technology/rayark-games) — Ein zeitgenössisches taiwanesisches Indie-Team, das nach dem Morsecode-Vorfall 2020 ICE einen anderen Weg wählte als Red Candle: Mitarbeiter entlassen und den chinesischen Markt halten
+Nach dem Talisman-Vorfall schwieg Red Candle fünf Jahre.
+
+Am 31. Mai 2024 erschien „Nine Sols“ auf Steam. Ein radikaler Genrewechsel: 2D-Seitenansicht-Action-Adventure, taoistische Sci-Fi-Ästhetik, altmythologische Welt, kampfbetontes Parier-System mit hohem Schwierigkeitsgrad. Der Spieler schlüpft in die Rolle des Rächers „Yi“ und tötet in einer Welt, die östliche Ästhetik mit Cyberpunk verschmilzt, die neun „Solen“.[^10]
+
+Am Veröffentlichungstag Platz 9 der globalen Steam-Bestseller. Zum ersten Jahrestag (Mai 2025) kumulierte Absatz über 800.000 Exemplare. Steam-Bewertung stabil über 95 % bei mehr als 16.000 Reviews. Im November 2024 Release auf PS5, Xbox, Switch, Tag-1-Einzug in den Xbox Game Pass.[^11]
+
+2025 erhielt „Nine Sols“ den Sony Independent Game Award (PlayStation Partner Awards) für herausragende Indie-Spiele der Region Japan/Asien.[^12]
+
+Mit „Nine Sols“ bewies Red Candle eines: Auch ohne den chinesischen Markt kann ein taiwanesisches Indie-Studio überleben – und gut überleben.
+
+> **✦** Vom Klassenzimmer des Weißen Terrors zur taiwanesischen Wohnung der 1980er, zur taoistischen Punk-Mythenwelt. Jedes Spiel von Red Candle erzählt eine andere Geschichte, doch die DNA darunter hat sich nie geändert: Taiwans kulturelle Elemente in weltweit verständliche Spielgenres gegossen.
 
 ---
 
-## Quellenverzeichnis
+## Wie man in Erinnerung bleibt
 
-[^1]: [Wikipedia: Red Candle Games](https://zh.wikipedia.org/zh-tw/%E8%B5%A4%E7%87%AD%E9%81%8A%E6%88%B2) — Gegründet im Jahr 2015, sechs Mitbegründer
+Der zehnjährige Bogen von Red Candle Games verdichtet alle Möglichkeiten und alle Risiken, vor denen taiwanesische Indie-Spiele stehen.
 
-[^2]: [Smile Taiwan: Hinter dem Ruhm von Detention](https://smiletaiwan.cw.com.tw/article/2346) — Yao Shun-ting Konzept von 2013, Hintergrund der „White Terror“-Periode
+„Detention“ bewies: Taiwans Geschichte kann Spielstoff sein – und die Welt kauft sie. „Devotion“ bewies: Ein Talisman kann ein Millionen-Spiel von der Erdoberfläche tilgen. „Nine Sols“ bewies: Ein verbanntes Team kann mit dem nächsten Werk zurückkehren.
 
-[^3]: [ETtoday: Detention erreicht mit 259 Millionen einheimische Kino-Meisterstatus im Jahr 2019](https://star.ettoday.net/news/1597165) — Umsatz 260 Millionen, fünf Golden Horse Awards, einziges lokales Film-Millionen-Ereignis
+2026 ist Red Candle immer noch ein schlankes Team, nicht börsennotiert, nicht aufgekauft, nicht zum Handyspiel-Pivot gezwungen. Sie sind immer noch jenes Studio, das von jenen sechs Menschen gegründet wurde – nur dass ihre Werke nun von den Goldenen Pferden gewürdigt und von Sony ausgezeichnet wurden.
 
-[^4]: [Wikipedia: Detention (Fernsehserie)](https://zh.wikipedia.org/zh-tw/%E8%BF%94%E6%A0%A1_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — Serie von staatlichem TV + Netflix, acht Episoden, Hintergrund der 1990er Jahre
+„Devotion“ ist weiterhin nicht auf Steam. Aber Red Candle ist noch da.
 
-[^5]: [La Vie: Von Detention zu Devotion – Red Candle erzählt taiwanische Geschichten mit Spielen](https://www.wowlavie.com/article/ae1702163) — Harvard-Yanjing-Bibliothek: siehe Originalquelle
+---
 
-[^6]: [Cool3c: Devotion erreicht schnell eine Million Verkäufe auf Steam](https://www.cool3c.com/article/141256) — Über hunderttausend gleichzeitige Zuschauer auf Twitch am ersten Tag, über eine Million verkauft
+## Weiterführende Links
 
-[^7]: [Cool3c: Red Candle entfernt Devotion proaktiv von Steam und bilanziert die Turbulenzen](https://www.cool3c.com/article/141357) — Inhalt des Amuletts, Zeitlinie der Entfernung
+- [Taiwans Spielindustrie und digitale Unterhaltung](/de/technology/taiwan-gaming-industry) — Vom Vertrieb zur Originalentwicklung: Panorama der taiwanesischen Spiele
+- [Softstar's Double Swords](/de/technology/softstar-twin-classics) — Die Ära vor Red Candle: Taiwans Spiele beginnen, auf Chinesisch Geschichten zu erzählen
+- [Taiwanesische Spieler im kollektiven Rausch](/de/technology/taiwan-gamers-wildest-moments) — Die andere Seite kollektiven Verhaltens taiwanesischer Spieler
+- [Rayark Games](/de/technology/rayark-games) — Zeitgenössisches taiwanesisches Indie-Team, wählte nach dem ICE-Morsecode-Vorfall 2020 den gegensätzlichen Weg zu Red Candle: Mitarbeiter entlassen, chinesischen Markt retten
 
-[^8]: [Key Review Network: Wie kann Red Candle nach dem Winnie-Vorfall in seiner Geschäftswesen bestehen?](https://www.thenewslens.com/article/114730) — Vertriebsabbruch, Lizenzentzug, Investorenklagen, negative Bewertungen von Detention
+---
 
-[^9]: [UDN Game Corner: Gründer von Red Candle erklärt den Devotion Amulett-Vorfall](https://game.udn.com/game/story/122089/8208614) — Yang Shi-wei „Es war wirklich nur ein Tippfehler“, „Wir dachten, wir hätten alles korrigiert“
+## Quellen
 
-[^10]: [Bahamut: Neues Spiel Nine Sols von Red Candle heute veröffentlicht](https://gnn.gamer.com.tw/detail.php?sn=268404) — Start am 2024.05.31, Dao-Punk, 2D Action
+[^1]: [Wikipedia: Red Candle Games](https://zh.wikipedia.org/zh-tw/%E8%B5%A4%E7%87%AD%E9%81%8A%E6%88%B2) — Gründung 2015, sechs Mitgründer
 
-[^11]: [Youxia Net: Weltweite Verkaufszahlen von Nine Sols nach einem Jahr überschreiten 800.000](https://www.ali213.net/news/html/2025-5/935135.html) — 800.000 Exemplare, 95 % positive Bewertungen auf Steam, über 16.000 Rezensionen, erscheint auf PS5/Xbox/Switch
+[^2]: [Smile Taiwan: Hinter dem Ruhm von Detention](https://smiletaiwan.cw.com.tw/article/2346) — Yao Shun-tings Konzept 2013, Setting der Kriegsrecht-Ära
 
-[^12]: [Liberty Times: Red Candle Nine Sols gewinnt den Sony Independent Games Award 2025](https://news.ltn.com.tw/news/Taipei/breakingnews/5267415) — PlayStation Partner Awards
+[^3]: [ETtoday: Detention mit 2,59 Mrd. an der Spitze der einheimischen Filme 2019](https://star.ettoday.net/news/1597165) — Einspiel 2,6 Mrd., fünf Goldene Pferde, einziger einheimischer Film über 100 Mio.
+
+[^4]: [Wikipedia: Detention (Fernsehserie)](https://zh.wikipedia.org/zh-tw/%E8%BF%94%E6%A0%A1_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — 2020 PTS + Netflix Serie, 8 Folgen, 1990er Setting
+
+[^5]: [La Vie: Von Detention zu Devotion – Red Candle erzählt taiwanesische Geschichten mit Spielen](https://www.wowlavie.com/article/ae1702163) — Sammlung der Harvard-Yenching Library: Details im Originaltext
+
+[^6]: [Cool3c: Devotion Steam-Verkäufe schießen auf eine Million](https://www.cool3c.com/article/141256) — Release-Tag 100.000 gleichzeitige Twitch-Zuschauer, Verkäufe über eine Million
+
+[^7]: [Cool3c: Red Candle nimmt Devotion freiwillig von Steam, Rückblick auf die Turbulenzen](https://www.cool3c.com/article/141357) — Talisman-Inhalt, Zeitlinie der Entfernung
+
+[^8]: [The News Lens: Rückkehr zum Geschäftsgeist – Kann Red Candle nach dem Winnie-Puuh-Vorfall weiterbrennen?](https://www.thenewslens.com/article/114730) — Vertrieb kündigt, Lizenz entzogen, Investoren fordern Schadenersatz, Detention mit Negativbewertungen geflutet
+
+[^9]: [udn Game Corner: Red-Candle-Gründer rekonstruiert Devotion-Talisman-Vorfall](https://game.udn.com/game/story/122089/8208614) — Yang Shi-wei: „Wirklich nur Versehen“, „dachte, alles sei schon geändert“
+
+[^10]: [Bahamut: Red Candles neues Werk Nine Sols heute erschienen](https://gnn.gamer.com.tw/detail.php?sn=268404) — Release 2024.05.31, taoistischer Punk, 2D-Action
+
+[^11]: [GamerSky: Nine Sols erstes Jubiläum – globale Verkäufe brechen 800.000](https://www.ali213.net/news/html/2025-5/935135.html) — 800.000 Exemplare, Steam 95 % positiv, 16.000 Reviews, Release auf PS5/Xbox/Switch
+
+[^12]: [Liberty Times: Red Candles Nine Sols gewinnt 2025 Sony Independent Game Award](https://news.ltn.com.tw/news/Taipei/breakingnews/5267415) — PlayStation Partner Awards

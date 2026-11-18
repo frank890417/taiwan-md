@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-09-12T04:55:06+08:00'
+translatedAt: '2026-11-18T19:43:49.479945+00:00'
 ---
 
 # Halbleiter-Wasserverbrauch und Taiwans Wasserressourcen: Die Stauseen neben den Wafer-Fabriken
@@ -184,10 +186,10 @@ Das ist der Kern, warum Halbleiter-Wasserverbrauch verstanden werden muss: Er l�
 
 ## Quellen
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED-Bericht 2023 über den Bedarf der Halbleiterfertigung an Ultrapure Water, Wasseraufbereitung und lokalen Wasserressourcen, mit Erwähnung der Spannung zwischen Chipfertigung und landwirtschaftlicher Wassernutzung während Taiwans Dürre.
+[^1]: [WIRED: Will man einen Chip-Krieg gewinnen? Dann braucht man viel Wasser](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED berichtete 2023 über den Bedarf der Halbleiterherstellung an Ultrapure-Wasser, Wasseraufbereitung und lokalen Wasserressourcen und thematisierte die Spannungen zwischen Chipproduktion und landwirtschaftlicher Wassernutzung während der Dürre in Taiwan.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Offizielle TSMC Arizona-Seite mit Angaben zu Investitionen, fortschrittlicher Prozessplanung, Wasserrecyclingsystem und Zielen für industrielle Wiederaufbereitungsanlagen, als Fallbeispiel für Wasserressourcen-Governance bei Auslandswerken nutzbar.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Die offizielle Seite von TSMC Arizona beschreibt die Investitionen des Werks, die Planung fortschrittlicher Fertigungsprozesse, Wasserrückgewinnungssysteme und Ziele für industrielle Wasseraufbereitungsanlagen und kann als Fallbeispiel für das Wassermanagement bei Überseewerken dienen.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Bericht über die Expansion von Arizonas Halbleiter-Cluster mit Beschäftigungseffekten, lokaler Entwicklung, Wasserressourcen, Umwelt und Arbeitssicherheit, nutzbar für die lokale Gesellschaftsperspektive bei Auslandswerken.
+[^3]: [The Verge: Das neue Silicon Valley (buchstäblich)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Der Artikel berichtet über Beschäftigung, lokale Entwicklung, Wasserressourcen, Umwelt- und Arbeitssicherheitskontroversen, die durch die Ausweitung des Halbleiterclusters in Arizona entstehen, und kann verwendet werden, um die lokale gesellschaftliche Perspektive bei Überseewerken auszugleichen.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Untersuchung des ökologischen Fußabdrucks von 16 taiwanesischen Elektronikbauteileherstellern 2015–2020, weist auf Risiken steigenden Wasserverbrauchs, Energieverbrauchs und CO₂-Emissionen bei Produktionswachstum hin.
+[^4]: [Roussilhe et al.: Vom Silicon Shield zum Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Die Studie untersucht den ökologischen Fußabdruck von 16 taiwanesischen Herstellern elektronischer Komponenten von 2015 bis 2020 und weist auf das Risiko hin, dass Wasserverbrauch, Energieverbrauch und CO2-Emissionen mit wachsender Produktion zunehmen.

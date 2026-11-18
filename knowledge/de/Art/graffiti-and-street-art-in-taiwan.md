@@ -1,9 +1,9 @@
 ---
-title: 'Graffiti auf den Straßen von Taiwan: Vom nächtlichen Außenseiter zum städtischen Licht in Ximending'
-description: 'Die erste Linie, die 1989 durch Lü Xueyuan (呂學淵) auf der Minsheng East Road gezogen wurde, eröffnete die unterirdische Geschichte des Graffiti in Taiwan. Von den urbanen Legenden von "Dachang Wang" bis zur gesellschaftlichen Kritik von Candy Bird definiert dieser dreißigjährige Wettlauf mit dem Umweltamt die städtische Ästhetik Taiwans neu.'
+title: 'Taiwanisches Street-Graffiti: Von nächtlichen Gesetzlosen zu den Lichtern der Stadt in Ximending'
+description: "1989 zog Lü Xue-yuan mit der ersten Linie an der Minsheng East Road die unterirdische Geschichte des Graffiti in Taiwan in Gang. Von der urbanen Legende um 'Dachang Wang' bis hin zur Gesellschaftskritik von Candy Bird – dieses seit dreißig Jahren andauernde Katz-und-Maus-Spiel mit dem Umweltamt definiert die urbane Ästhetik Taiwans derzeit neu."
 date: 2026-06-01
 category: 'Art'
-tags: ['Street Art', 'Dachang Wang', 'Subkultur', 'Stadtraum']
+tags: ['Street Art', 'Dachang Wang', 'Subkultur', 'Urbaner Raum']
 subcategory: '視覺藝術'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,11 +14,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-18T19:52:35.764510+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
@@ -72,16 +74,16 @@ Dieser Artikel verwendet 3 CC-lizensierte Bilder, die alle in `public/article-im
 
 ## Referenzen
 
-[^1]: [Rache der taiwanesischen Graffiti-Künstler Reach und Break! Vom Straßenkunst zu vielfältiger Schöpfung](https://www.wowlavie.com/article/ae1902012) — WowLavie (Details in der verlinkten Originalquelle)
+[^1]: [Der Gegenangriff der taiwanesischen Graffiti-Künstler Reach und Blake! Ein Stil, der von der Straße zu vielfältiger Kreation übergeht](https://www.wowlavie.com/article/ae1902012) — WowLavie (Details in der verlinkten Originalquelle)
 
-[^3]: [Interview mit dem Graffiti-Künstler Dachang Wang: Im Inneren von Dachang ist Kot, und die Kunst auch.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [Interview mit dem Graffiti-Künstler Dachang Wang: Das Innere einer Wurst ist Kot, und Kunst ist es auch.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [Ist die Street Culture kommerziell geworden? Der Pionier des taiwanesischen Graffiti Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [Ist der Weg der Street Culture in die Kommerzialisierung ein Fehler? Der taiwanesische Graffiti-Pionier Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
 [^5]: [Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Taiwan Contemporary Art Database
 
-[^6]: [Höchststrafe für Vandalismus 6.000 NTD! Übersicht der 14 legalen Graffiti-Wände in Taipeh](https://newtalk.tw/news/view/2019-11-27/332344) — Umweltamt Taipeh
+[^6]: [Höchststrafe von NT$6.000 für illegales Graffiti! Eine Übersicht über 14 legale Graffiti-Wände in Taipeh](https://newtalk.tw/news/view/2019-11-27/332344) — Umweltamt der Stadt Taipeh
 
-[^8]: [Kulturerbe und Postmoderne verschmelzen: „Kunsttourismus nicht abgeschlossen“ führt Sie durch den Filmthemenpark Taipeh](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Tourismusförderungsbüro Taipeh
+[^8]: [Verschmelzung von historischen Stätten und postmodernen Kunstwerken: „Unvergessliche Kunst“ führt Sie durch den Taipeh Movie Theme Park](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Amt für Tourismus und Kommunikation der Stadt Taipeh
 
-[^9]: [Dachang Wang – der Künstlerfreund von Hatsumimi, der dicke taiwanesische Note aus zerknitterten Papieren holt](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Details in der verlinkten Originalquelle)
+[^9]: [Das intensive taiwanesische Flair aus den Falten hervorholen: Der Künstlerfreund von Hatsumimi – Dachang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Details in der verlinkten Originalquelle)

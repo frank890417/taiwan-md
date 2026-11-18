@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-18T19:37:48.734270+00:00'
 ---
 
 # Taiwans Stromversorgung und Halbleiter: Die Stromrechnung des "Nationalen Schatzes"
@@ -190,10 +192,10 @@ Die Halbleiter haben Taiwan für die Welt notwendig gemacht. Die Stromversorgung
 
 ## Referenzen
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Berichtet über das Energieeinsparungsprogramm von TSMC für EUV, die Gesamtenergie und den Anteil der Werkzeug-Energieeinsparung, um Effizienzsteigerung und Gesamtvolumen zu erklären.
+[^1]: [Tom's Hardware: TSMC reduziert Spitzenstromverbrauch von EUV-Werkzeugen um 44 %](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Berichtet über den EUV-Energieeinsparungsplan von TSMC, das gesamte Stromverbrauchsvolumen und das Verhältnis der Energieeinsparung pro Werkzeug; kann verwendet werden, um das Nebeneinander von Effizienzsteigerungen und dem Gesamtdruck auf die Versorgung zu verdeutlichen.
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Berichtet über die Warnung des Taiwan Semiconductor Industry Association bezüglich der Stromversorgungssicherheit und erneuerbarer Energien, und fasst RE100, den grünen Energiebedarf von Waferfabriken und das Risiko der Verlagerung zusammen.
+[^2]: [Tom's Hardware: Von TSMC angeführter Halbleiterverband warnt vor Druck auf die Stromversorgung](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Berichtet über die Warnungen des Semiconductor Industry Association Taiwan bezüglich der Stabilität der Stromversorgung und des Angebots an erneuerbaren Energien sowie über RE100, den Bedarf an grünem Strom in Waferfabriken und die Risiken einer Verlagerung ins Ausland.
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Untersucht den ökologischen Fußabdruck von 16 taiwanesischen Elektronikkomponentenherstellern zwischen 2015 und 2020, wobei die Zunahme von Energie, Wasser und Kohlenstoffemissionen mit dem Produktionsvolumen und das Risiko des Carbon Lock-in dargelegt wird.
+[^3]: [Roussilhe et al.: Vom Siliziumschild zum Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Untersucht den ökologischen Fußabdruck von 16 taiwanischen Elektronikkomponenten-Herstellern zwischen 2015 und 2020 und weist darauf hin, dass Energie-, Wasser- und CO2-Emissionen mit dem Produktionswachstum steigen, was das Risiko eines „Carbon Lock-in“ birgt.
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Berichtet über das Ergebnis des Volksentscheids zur Verlängerung von Kraftwerk No. 3 in Taiwan im Jahr 2025 und erklärt, wie die Befürworter der Kernenergie Strompreise und den Energiebedarf durch KI in ihre Argumentation einbeziehen.
+[^4]: [AP: Taiwanische Abgeordnete überstehen Rückrufabstimmung; Referendum über Kernkraft scheitert](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Der Associated Press berichtet über das Ergebnis des Referendums zur Verlängerung der Laufzeit des Kernkraftwerks Maanshan im Jahr 2025 und erläutert, wie Befürworter der Kernenergie die Strompreise und den Strombedarf durch KI in ihre Argumentation einbeziehen.

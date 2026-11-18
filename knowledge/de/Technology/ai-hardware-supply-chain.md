@@ -27,11 +27,13 @@ rationale:
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:de7f4ddf0c4e6168'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:8e26b4c15a1d169a'
 sourceBodyHash: 'sha256:fb0ee951dd4978bf'
-translatedAt: '2026-11-02T05:46:08+08:00'
+translatedAt: '2026-11-18T19:24:02.980726+00:00'
 ---
 
 # KI-Hardware-Lieferkette: Wie Taiwan die Cloud in Maschinen verwandelt
@@ -178,13 +180,15 @@ Dies ist eine der klarsten Positionen, die Taiwan derzeit einnimmt – und eine,
 
 ## Weiterführende Literatur
 
-- [Taiwans Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Makroökonomischer Hintergrund von exportorientierter Wirtschaft über Dreieckshandel bis zur Umstrukturierung der US-China-Lieferketten.
-- [NVIDIA in Taiwan](/de/technology/nvidia-in-taiwan) — Wie NVIDIA Chipfertigung, Packaging und Servermontage tiefgreifend in Taiwan verankert hat.
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Langfristiger Hintergrund von RCA-Technologietransfer über TSMC-Foundry bis hin zu Material- und Packaging-Schlachten.
-- [Computex](/de/technology/computex) — Warum die Computex in Taipeh im KI-Zeitalter zum globalen Wallfahrtsort für Hardware-Anbieter geworden ist.
-- [Stromversorgung und Halbleiter in Taiwan](/de/technology/taiwan-electricity-and-semiconductors) — Die Stromrechnung hinter der KI-Lieferkette, der Druck durch grünen Strom und Energiesicherheit.
-- [Wasserverbrauch in der Halbleiterindustrie und Taiwans Wasserressourcen](/de/technology/semiconductor-water-use-and-taiwan-water-resources) — Wie Waferfabriken mit Stauseen, Dürren, Recyclingwasser und lokaler Verwaltung verknüpft sind.
-- [Auslandsfertigung der KI-Lieferkette](/de/technology/ai-supply-chain-overseas-manufacturing) — Wie die taiwanesische Lieferkette von TSMC, Foxconn, Wistron bis Delta weltweit nach draußen geladen wird.
+- [Lieferkettenkarte](/industry/supply-chain-map/) — Halbleiter, KI-Server, Wolfram: drei Ketten, Glied für Glied – welche Unternehmen in Taiwan sitzen, welches Glied auf das Ausland angewiesen ist
+- [Taiwans Industrie im Fokus](/industry/) — Auf Basis offizieller Statistiken wird die Industriestruktur abgebildet: 70 Jahre Exporte und BIP, Wissenschaftsparks, Fabriken in den Landkreisen und Städten, die Top-10 nach Marktkapitalisierung über die Jahre, plus die Standpunkte zu sechs öffentlichen Kontroversen
+- [Taiwans Außenhandel und die globale Lieferkette](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Der makroökonomische Kontext: von der Exportorientierung und dem Dreieckshandel bis zur Neuordnung der Lieferketten zwischen den USA und China
+- [NVIDIA in Taiwan](/de/technology/nvidia-in-taiwan) — Wie NVIDIA Chipfertigung, Packaging und Servermontage tief in Taiwan verankert hat
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Der langfristige Hintergrund: von der RCA-Technologieübertragung und TSMCs Foundry-Modell bis zu den Schlachtfeldern bei Materialien und Packaging
+- [Computex](/de/technology/computex) — Warum die Computex Taipei im KI-Zeitalter zum Pilgerort der globalen Hardware-Zulieferseite wurde
+- [Taiwans Stromversorgung und Halbleiter](/de/technology/taiwan-electricity-and-semiconductors) — Die Stromrechnung, der Grünstrom-Druck und die Energiesicherheit hinter der KI-Lieferkette
+- [Halbleiter-Wasserverbrauch und Taiwans Wasserressourcen](/de/technology/semiconductor-water-use-and-taiwan-water-resources) — Wie Fabriken an Stauseen, Dürren, Wiederaufbereitungswasser und lokale Governance gekoppelt sind
+- [Auslandsstandorte der KI-Lieferkette](/de/technology/ai-supply-chain-overseas-manufacturing) — Von TSMC, Foxconn, Wistron bis Delta: wie Taiwans Lieferkette in die Welt hinausgebeten wird
 
 ## Bildquellen
 
