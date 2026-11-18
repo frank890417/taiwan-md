@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-15T12:43:06+08:00'
+translatedAt: '2026-11-18T19:43:29.056361+00:00'
 ---
 
 # التجارة الخارجية لتايوان وسلاسل التوريد العالمية
@@ -281,9 +283,11 @@ translatedAt: '2026-10-15T12:43:06+08:00'
 
 [^9]: [Liberty Times — البرلمان يقر وقف اتفاقية التجارة الحرة مع نيكاراغوا؛ وزارة الخارجية ووزارة الاقتصاد: التأثير على تجارتنا محدود](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — أنهت نيكاراغوا الاتفاقية من جانب واحد في ديسمبر 2021، وتوقف تطبيقها من جانبنا منذ 1 يوليو 2022.
 
-## قراءات إضافية
+## قراءة إضافية
 
-- [الشركات الصغيرة والمتوسطة والأبطال الخفيون في تايوان](/ar/economy/taiwan-smes-and-hidden-champions)
-- [الزراعة وإعادة إحياء الريف في تايوان](/ar/economy/taiwan-agriculture-and-rural-revitalization)
-- [النظام البيئي للشركات الناشئة](/ar/economy/taiwan-startup-ecosystem-overview)
-- [الشركات التايوانية: Foxconn Precision](/ar/economy/foxconn-precision-industry) — انتشار عالمي في 24 دولة لـ 900 ألف شخص، وهو أكبر مختبر للحوكمة العابرة للحدود في الصناعة التحويلية التايوانية.
+- [ملفات الصناعات في تايوان](/industry/) — رسم هيكل الصناعة بالإحصاءات الرسمية: الصادرات والناتج المحلي الإجمالي على مدى سبعين عامًا، والحدائق العلمية، ومصانع كل مقاطعة ومدينة، وأكبر عشر شركات من حيث القيمة السوقية عبر السنين، إضافة إلى وجهات نظر الأطراف الستة في الخلافات العامة
+- [خريطة سلاسل التوريد](/industry/supply-chain-map/) — ثلاث سلاسل: أشباه الموصلات، وخوادم الذكاء الاصطناعي، والتنغستن، حلقة بحلقة لنرى أي الشركات في تايوان وأي حلقة تعتمد على الخارج
+- [المؤسسات الصغيرة والمتوسطة في تايوان والأبطال الخفيون](/ar/economy/taiwan-smes-and-hidden-champions)
+- [الزراعة في تايوان وتجديد الريف](/ar/economy/taiwan-agriculture-and-rural-revitalization)
+- [نظام البيئة الريادية](/ar/economy/taiwan-startup-ecosystem-overview)
+- [شركات تايوان: هون هاي بريسيجن](/ar/economy/foxconn-precision-industry) — تموضع عالمي في 24 دولة و900 ألف موظف، وهو أكبر مختبر لحوكمة التصنيع العابرة للحدود في تايوان

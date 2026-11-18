@@ -28,11 +28,13 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI供應鏈海外設廠.md'
-sourceCommitSha: 'fd01d452a'
-sourceContentHash: 'sha256:7fa246cf8f0f5c00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:1f66d74cd10a1fe4'
 sourceBodyHash: 'sha256:453d3851b08255ad'
-translatedAt: '2026-07-27T01:41:54+08:00'
+translatedAt: '2026-11-18T19:35:05.313656+00:00'
 ---
 
 # سلسلة توريد أجهزة الذكاء الاصطناعي وإنشاء المصانع في الخارج: قدرات تايوان مطلوبة عالميًا
@@ -212,22 +214,22 @@ _خروج سلسلة توريد الذكاء الاصطناعي التايوان
 
 ## المراجع
 
-[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — تقرير وكالة أسوشيتد برس عن إنتاج شركة NVIDIA لرقائق Blackwell وحواسيب الذكاء الاصطناعي الفائقة في الولايات المتحدة، يذكر مصنع TSMC في فينيكس، وFoxconn في هيوستن، وWistron في دالاس، وتعاون شركتي SPIL وAmkor في أريزونا للتغليف والاختبار.
+[^1]: [AP: تخطط إنفيديا لتصنيع رقائق الذكاء الاصطناعي في الولايات المتحدة لأول مرة](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — ذكرت وكالة أسوشيتد برس (AP) أن شركة NVIDIA تخطط لإنتاج رقائق Blackwell وأجهزة الكمبيوتر الفائقة للذكاء الاصطناعي في الولايات المتحدة، مع الإشارة إلى التعاون مع TSMC Phoenix وFoxconn Houston وWistron Dallas، بالإضافة إلى تعاون التغليف والاختبار مع SPIL / Amkor في أريزونا.
 
-[^2]: [AP: OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — تقرير وكالة أسوشيتد برس عن تعاون OpenAI وFoxconn في تصميم وتصنيع خزائن مراكز بيانات الذكاء الاصطناعي، تشمل المنتجات الكابلات، والشبكات، وأنظمة الطاقة، وتذكر توزيع مرافق Foxconn في الولايات المتحدة.
+[^2]: [AP: OpenAI وFoxconn التايوانية ستتعاونان في تصميم وتصنيع أجهزة الذكاء الاصطناعي في الولايات المتحدة](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — ذكرت وكالة أسوشيتد برس (AP) أن OpenAI ستتعاون مع Foxconn لتصميم وتصنيع رفوف مراكز بيانات الذكاء الاصطناعي، وتشمل المنتجات الكابلات والشبكات وأنظمة الطاقة، كما أشارت إلى توزيع مرافق Foxconn في الولايات المتحدة.
 
-[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — تقرير عن توسع شركة Delta Electronics في منشآت التصنيع والمكاتب في بلانو، تكساس، ويلخص مراكز الأبحاث والتصنيع الحالية، وحجم المجمع اللاحق، وتحديد موقع التصنيع المحلي في الولايات المتحدة.
+[^3]: [MySA: المضي قدماً في خطط مصنع الإلكترونيات بقيمة 115 مليون دولار في بلانو](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — تقرير حول توسيع شركة Delta Electronics لمرافق التصنيع والمكاتب في مدينة بلانو بولاية تكساس، مع استعراض مركز البحث والتطوير والتصنيع الحالي، وحجم المجمع المستقبلي، وموقعها في مجال التصنيع المحلي في الولايات المتحدة.
 
-[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — تقرير عن توسع مصنع شركة Delta Electronics في كريشناغيري، الهند، يوضح احتياجات عملاء الاتصالات، ومراكز البيانات، والسيارات الكهربائية، والصناعة، وتخطيط سلسلة التوريد المحلية في الهند.
+[^4]: [Times of India: Delta Electronics تدفع باتجاه توسيع القدرة الإنتاجية](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — تقرير حول توسعة مصنع Delta Electronics في كريشناجيري بالهند، يوضح الطلب من عملاء الاتصالات ومراكز البيانات والسيارات الكهربائية والصناعة، بالإضافة إلى استراتيجية سلسلة التوريد المحلية في الهند.
 
-[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — الصفحة الرسمية لشركة TSMC في أريزونا، توضح حجم استثمار فينيكس، وستة مصانع رقائق، ومنشأتين للتغليف المتقدم، وجدول N4/N3/N2/A16، وتخطيط إعادة تدوير المياه.
+[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — الصفحة الرسمية لشركة TSMC في أريزونا، توضح حجم الاستثمار في فينكس، وست مصانع للرقائق، ومنشأتين للتغليف المتقدم، والجدول الزمني لعقد N4/N3/N2/A16، وخطط إعادة تدوير المياه.
 
-[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — تقرير وكالة أسوشيتد برس عن تخطيط شركة TSMC لإنتاج رقائق 3 نانومتر في المصنع الثاني في كوماموتو، اليابان، ويلخص الأمن الاقتصادي الياباني واحتياجات الذكاء الاصطناعي، والروبوتات، والقيادة الذاتية.
+[^6]: [AP: TSMC ستصنع رقائق كمبيوتر متقدمة للذكاء الاصطناعي في اليابان](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — ذكرت وكالة أسوشيتد برس (AP) أن TSMC تخطط لإنتاج رقائق 3 نانومتر في مصنعها الثاني في كوماموتو باليابان، مع استعراض احتياجات الأمن الاقتصادي الياباني والذكاء الاصطناعي والروبوتات والقيادة الذاتية.
 
-[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — الموقع الرسمي لـ ESMC، يوضح أنها شركة مشتركة بين TSMC، وBosch، وInfineon، وNXP، تنشئ مصنع رقائق في دريسدن، ألمانيا، لدعم أسواق الصناعة الأوروبية، وإنترنت الأشياء، والاتصالات، والسيارات.
+[^7]: [ESMC: الشركة الأوروبية لتصنيع أشباه الموصلات](https://www.esmc.eu/) — يوضح الموقع الرسمي لشركة ESMC أنها مشروع مشترك بين TSMC وBosch وInfineon وNXP، حيث تقوم بإنشاء مصنع للرقائق في دريسدن بألمانيا لدعم الصناعة الأوروبية وإنترنت الأشياء والاتصالات وسوق السيارات.
 
-[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — تقرير وكالة أسوشيتد برس عن تقديم قانون الرقائق والعلوم الأمريكي إعانات لتوسع شركة TSMC في أريزونا، يوضح كيف ترى الحكومة الأمريكية تصنيع الرقائق المتقدمة كقضية أمن سلسلة توريد وأمن قومي.
+[^8]: [AP: إدارة بايدن تعلن عن 6.6 مليار دولار لضمان بناء الرقائق الدقيقة المتطورة في الولايات المتحدة](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — ذكرت وكالة أسوشيتد برس (AP) أن قانون الرقائق والعلوم الأمريكي يوفر دعماً لتوسعة إنتاج TSMC في أريزونا، موضحاً كيف تنظر الحكومة الأمريكية إلى تصنيع الرقائق المتقدمة كمسألة تتعلق بأمن سلسلة التوريد والأمن القومي.
 
-[^9]: [TIME: قراءة النص الكامل لمقابلة الرئيس التايواني لاي تشينغ تي مع مجلة "تايم"](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — النص الكامل للمقابلة الصينية التي نشرتها مجلة TIME، يتحدث فيها لاي تشينغ تي عن أشباه الموصلات كصناعة تقسيم عمل عالمي، وكيف تنظر الحكومة إلى تخطيط شركة TSMC وغيرها من شركات أشباه الموصلات في الولايات المتحدة، واليابان، وأوروبا.
+[^9]: [TIME: النص الكامل لمقابلة رئيس تايوان لاي تشينغ-تي مع مجلة TIME](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — في المقابلة الكاملة باللغة الصينية التي نشرتها مجلة TIME، تحدث لاي تشينغ-تي عن أشباه الموصلات كصناعة مقسمة عالمياً، وكيف تنظر الحكومة إلى توسع شركات أشباه الموصلات مثل TSMC في الولايات المتحدة واليابان وأوروبا.
 
-[^10]: [The Verge: وادي السيليكون الجديد (حرفيًا)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — تقرير عن توسع تجمع أشباه الموصلات في أريزونا يجلب التوظيف، والتنمية المحلية، وموارد المياه، والبيئة، وخلافات سلامة العمال، يمكن استخدامه لموازنة منظور المجتمع المحلي لإنشاء المصانع في الخارج.
+[^10]: [The Verge: وادي السيليكون الجديد (بالمعنى الحرفي)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — تقرير حول التوسع في تجمع أشباه الموصلات في أريزونا وما يجلبه من فرص عمل وتنمية محلية، بالإضافة إلى الجدل حول موارد المياه والبيئة وسلامة العمال، ويمكن استخدامه لموازنة المنظور الاجتماعي المحلي لإنشاء المصانع في الخارج.
