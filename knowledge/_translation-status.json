@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T08:42:41+08:00",
-    "zhCommitHead": "12632bce7",
-    "totalZh": 1186,
+    "lastUpdated": "2026-11-18T08:54:00+08:00",
+    "zhCommitHead": "24f563e64",
+    "totalZh": 1191,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1186,
-        "fresh": 661,
+        "total_zh": 1191,
+        "fresh": 663,
         "stale": 53,
         "metadata_stale": 462,
-        "missing": 10,
-        "orphan": 0
-      },
-      "ja": {
-        "total_zh": 1186,
-        "fresh": 661,
-        "stale": 49,
-        "metadata_stale": 463,
         "missing": 13,
         "orphan": 0
       },
+      "ja": {
+        "total_zh": 1191,
+        "fresh": 663,
+        "stale": 49,
+        "metadata_stale": 463,
+        "missing": 16,
+        "orphan": 0
+      },
       "ko": {
-        "total_zh": 1186,
-        "fresh": 666,
+        "total_zh": 1191,
+        "fresh": 667,
         "stale": 54,
         "metadata_stale": 455,
-        "missing": 11,
+        "missing": 15,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1186,
-        "fresh": 666,
+        "total_zh": 1191,
+        "fresh": 667,
         "stale": 55,
         "metadata_stale": 453,
-        "missing": 12,
+        "missing": 16,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1186,
-        "fresh": 668,
+        "total_zh": 1191,
+        "fresh": 669,
         "stale": 50,
         "metadata_stale": 459,
-        "missing": 9,
+        "missing": 13,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1186,
-        "fresh": 654,
+        "total_zh": 1191,
+        "fresh": 655,
         "stale": 65,
         "metadata_stale": 452,
-        "missing": 15,
+        "missing": 19,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1186,
-        "fresh": 654,
+        "total_zh": 1191,
+        "fresh": 655,
         "stale": 61,
         "metadata_stale": 459,
-        "missing": 12,
+        "missing": 16,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1186,
-        "fresh": 664,
+        "total_zh": 1191,
+        "fresh": 665,
         "stale": 57,
         "metadata_stale": 453,
-        "missing": 12,
+        "missing": 16,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1186,
-        "fresh": 650,
+        "total_zh": 1191,
+        "fresh": 652,
         "stale": 66,
         "metadata_stale": 452,
-        "missing": 18,
+        "missing": 21,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1186,
-        "fresh": 661,
+        "total_zh": 1191,
+        "fresh": 663,
         "stale": 57,
         "metadata_stale": 453,
-        "missing": 15,
+        "missing": 18,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1186,
-        "fresh": 673,
+        "total_zh": 1191,
+        "fresh": 675,
         "stale": 49,
         "metadata_stale": 452,
-        "missing": 12,
+        "missing": 15,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1186,
-        "fresh": 642,
+        "total_zh": 1191,
+        "fresh": 644,
         "stale": 67,
-        "metadata_stale": 465,
-        "missing": 12,
+        "metadata_stale": 464,
+        "missing": 16,
         "orphan": 0
       }
     },
@@ -890,8 +890,8 @@
           "sourceContentHash": "sha256:6a2b0dda2e1882cf",
           "sourceBodyHash": "sha256:07737a8d590520a4",
           "translatedAt": "2026-11-17T23:40:00.749008+00:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 11486,
@@ -7792,8 +7792,8 @@
           "sourceContentHash": "sha256:f8d93a4a9320d691",
           "sourceBodyHash": "sha256:2195da25b78144be",
           "translatedAt": "2026-11-17T23:19:06.029838+00:00",
-          "translationLastCommit": "cab126a8",
-          "translationLastModified": "2026-10-03T04:44:17+08:00",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 12630,
@@ -8852,8 +8852,8 @@
           "sourceContentHash": "sha256:41026d66967b92b9",
           "sourceBodyHash": "sha256:668ec588580a9dc2",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 11342,
@@ -9527,6 +9527,52 @@
           "reason": "zh-moved-forward",
           "commitsBehind": 1,
           "diffSummary": "+6 -4"
+        }
+      }
+    },
+    "Economy/國債鐘.md": {
+      "zh": {
+        "lastCommit": "cd9d99cf",
+        "lastModified": "2026-11-17T16:19:31+08:00",
+        "contentHash": "sha256:804cb929e49d0000",
+        "bodyHash": "sha256:c90510ae0ea9b7ac"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -14221,7 +14267,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/continuity-of-care.md",
+          "translatedFrom": "Economy/照護連續性.md",
+          "sourceCommitSha": "63e932f2c",
+          "sourceContentHash": "sha256:554905a69c05f127",
+          "sourceBodyHash": "sha256:a32f0d8a38888ee6",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 9131,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -14233,7 +14292,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/continuity-of-care.md",
+          "translatedFrom": "Economy/照護連續性.md",
+          "sourceCommitSha": "63e932f2c",
+          "sourceContentHash": "sha256:554905a69c05f127",
+          "sourceBodyHash": "sha256:a32f0d8a38888ee6",
+          "translatedAt": "2026-11-18T00:50:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10920,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -14245,7 +14317,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/continuity-of-care.md",
+          "translatedFrom": "Economy/照護連續性.md",
+          "sourceCommitSha": "63e932f2c",
+          "sourceContentHash": "sha256:554905a69c05f127",
+          "sourceBodyHash": "sha256:a32f0d8a38888ee6",
+          "translatedAt": "2026-11-18T00:51:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 20739,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -15851,8 +15936,8 @@
           "sourceContentHash": "sha256:3f6c24d4307e10c7",
           "sourceBodyHash": "sha256:d8375cfe08f74b1e",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 11851,
@@ -16954,6 +17039,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/投保薪資的天花板.md": {
+      "zh": {
+        "lastCommit": "24f563e6",
+        "lastModified": "2026-11-18T08:50:51+08:00",
+        "contentHash": "sha256:c0e813b642586d2b",
+        "bodyHash": "sha256:5eefae27d9515361"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -18474,6 +18605,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/太陽光電.md": {
+      "zh": {
+        "lastCommit": "24f563e6",
+        "lastModified": "2026-11-18T08:50:51+08:00",
+        "contentHash": "sha256:f5a4019a85575efd",
+        "bodyHash": "sha256:84909ece10eb2627"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -31500,8 +31677,8 @@
           "sourceContentHash": "sha256:d2d08f4f883aa3cc",
           "sourceBodyHash": "sha256:6159201bd426eed7",
           "translatedAt": "2026-11-17T23:33:43.532344+00:00",
-          "translationLastCommit": "bc6c2cdc",
-          "translationLastModified": "2026-10-03T04:00:20+08:00",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 13270,
@@ -56663,8 +56840,8 @@
           "sourceContentHash": "sha256:b5166c871cfd0348",
           "sourceBodyHash": "sha256:a219f86ea43c10af",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 11164,
@@ -56960,13 +57137,39 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:48:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10004,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:49:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10021,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -56997,16 +57200,68 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:51:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 20144,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 14886,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:52:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 16808,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/tiered-healthcare-and-referral.md",
+          "translatedFrom": "Lifestyle/分級醫療.md",
+          "sourceCommitSha": "8c16ca179",
+          "sourceContentHash": "sha256:ee517d769040e78b",
+          "sourceBodyHash": "sha256:2bb014bf68645333",
+          "translatedAt": "2026-11-18T00:52:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 11111,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -59253,7 +59508,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/rural-and-remote-healthcare.md",
+          "translatedFrom": "Lifestyle/偏鄉醫療.md",
+          "sourceCommitSha": "662637931",
+          "sourceContentHash": "sha256:48c5be964de085c9",
+          "sourceBodyHash": "sha256:901ee5dd951dcae7",
+          "translatedAt": "2026-11-18T00:48:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 9613,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/rural-and-remote-healthcare.md",
@@ -59294,7 +59562,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/rural-and-remote-healthcare.md",
+          "translatedFrom": "Lifestyle/偏鄉醫療.md",
+          "sourceCommitSha": "662637931",
+          "sourceContentHash": "sha256:48c5be964de085c9",
+          "sourceBodyHash": "sha256:901ee5dd951dcae7",
+          "translatedAt": "2026-11-18T00:50:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10933,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -59316,10 +59597,36 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/rural-and-remote-healthcare.md",
+          "translatedFrom": "Lifestyle/偏鄉醫療.md",
+          "sourceCommitSha": "662637931",
+          "sourceContentHash": "sha256:48c5be964de085c9",
+          "sourceBodyHash": "sha256:901ee5dd951dcae7",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 15958,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/rural-and-remote-healthcare.md",
+          "translatedFrom": "Lifestyle/偏鄉醫療.md",
+          "sourceCommitSha": "662637931",
+          "sourceContentHash": "sha256:48c5be964de085c9",
+          "sourceBodyHash": "sha256:901ee5dd951dcae7",
+          "translatedAt": "2026-11-18T00:52:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 17123,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/rural-and-remote-healthcare.md",
@@ -59668,8 +59975,8 @@
           "sourceContentHash": "sha256:108cf7f6f0feb79e",
           "sourceBodyHash": "sha256:6b00c30777594a8e",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 13151,
@@ -59787,7 +60094,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/emergency-room-crowding.md",
+          "translatedFrom": "Lifestyle/急診壅塞.md",
+          "sourceCommitSha": "f024e87e7",
+          "sourceContentHash": "sha256:8d4cdb5ad8ee7612",
+          "sourceBodyHash": "sha256:a3b1df420d623571",
+          "translatedAt": "2026-11-18T00:49:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10988,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/emergency-room-crowding.md",
@@ -59806,7 +60126,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/emergency-room-crowding.md",
+          "translatedFrom": "Lifestyle/急診壅塞.md",
+          "sourceCommitSha": "f024e87e7",
+          "sourceContentHash": "sha256:8d4cdb5ad8ee7612",
+          "sourceBodyHash": "sha256:a3b1df420d623571",
+          "translatedAt": "2026-11-18T00:50:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 12845,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/emergency-room-crowding.md",
@@ -59825,7 +60158,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/emergency-room-crowding.md",
+          "translatedFrom": "Lifestyle/急診壅塞.md",
+          "sourceCommitSha": "f024e87e7",
+          "sourceContentHash": "sha256:8d4cdb5ad8ee7612",
+          "sourceBodyHash": "sha256:a3b1df420d623571",
+          "translatedAt": "2026-11-18T00:51:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10918,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/emergency-room-crowding.md",
@@ -68104,8 +68450,8 @@
           "sourceContentHash": "sha256:6b50bf67263d4e35",
           "sourceBodyHash": "sha256:86034c4bd0638cb8",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 12474,
@@ -68923,8 +69269,8 @@
           "sourceContentHash": "sha256:1e8b754bad98aa72",
           "sourceBodyHash": "sha256:99e74f94f008291b",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 10381,
@@ -68995,6 +69341,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Society/原住民族語言政策.md": {
+      "zh": {
+        "lastCommit": "bc37ed4d",
+        "lastModified": "2026-11-17T21:46:09+08:00",
+        "contentHash": "sha256:32772071ae1ab735",
+        "bodyHash": "sha256:694eda8fc7232fe6"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -73299,8 +73691,8 @@
           "sourceContentHash": "sha256:dde7f7b28081c0a7",
           "sourceBodyHash": "sha256:6dd2eb96bc0d111d",
           "translatedAt": "2026-11-18T00:51:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43aabdbb",
+          "translationLastModified": "2026-11-18T08:42:42+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 12189,
@@ -83684,7 +84076,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/cap-exam-taiwan.md",
+          "translatedFrom": "Society/國中會考.md",
+          "sourceCommitSha": "f69716c1d",
+          "sourceContentHash": "sha256:792b8dfefc85ae83",
+          "sourceBodyHash": "sha256:a4f13de4644cfce5",
+          "translatedAt": "2026-11-18T02:21:23+08:00",
+          "translationLastCommit": "9da9ce9b",
+          "translationLastModified": "2026-11-18T02:27:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 26142,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -193897,6 +194302,52 @@
         }
       }
     },
+    "History/道明會在台灣.md": {
+      "zh": {
+        "lastCommit": "24f563e6",
+        "lastModified": "2026-11-18T08:50:51+08:00",
+        "contentHash": "sha256:1bd7703941e67723",
+        "bodyHash": "sha256:15228d1d82684e84"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "History/吳鳳傳說.md": {
       "zh": {
         "lastCommit": "e974b4c9",
@@ -194740,20 +195191,18 @@
         "de": {
           "path": "de/History/japanese-colonial-era.md",
           "translatedFrom": "History/日治時期.md",
-          "sourceCommitSha": "1e674def2",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:ab038fc6af555335",
           "sourceBodyHash": "sha256:c1f42478c12060a3",
-          "translatedAt": "2026-09-23T21:59:29+08:00",
+          "translatedAt": "2026-11-18T00:43:17.849987+00:00",
           "translationLastCommit": "34ada411",
           "translationLastModified": "2026-09-23T22:07:20+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 12026,
+          "bytes": 12085,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
