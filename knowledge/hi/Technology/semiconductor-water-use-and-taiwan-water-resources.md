@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-28T22:24:24+08:00'
+translatedAt: '2026-11-18T19:45:46.949916+00:00'
 ---
 
 # अर्धचालक जल उपयोग और ताइवान के जल संसाधन: वेफर फैक्ट्री के बगल का जलाशय
@@ -182,12 +184,12 @@ The Verge ने एरिजोना अर्धचालक क्लस्�
 - **मोराकोट भारी बारिश के बाद चियाई मिन्श्योंग बाढ़**: [2009-08-09 at a village under the Typhoon Morakot, in Minxiong, Chiayi](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Photo: zilupe, Wikimedia Commons, CC BY 2.0। लेख `public/article-images/nature/morakot-minxiong-flood-2009.webp` पर कैश किए गए संस्करण का उपयोग करता है।
 - **पुनर्जल और अर्धचालक निर्माण जल चक्र आरेख**: Taiwan.md Contributors द्वारा निर्मित SVG आरेख, CC BY-SA 4.0, `public/article-images/technology/reclaimed-water-semiconductor-loop.svg` पर संग्रहीत। जलाशय, शहरी सीवेज, पुनर्जल संयंत्र, वेफर फैक्ट्री और स्थानीय शासन के संबंधों को समझाने के लिए उपयोग किया गया, विशिष्ट फैब इंजीनियरिंग ड्राइंग नहीं।
 
-## संदर्भ
+## संदर्भ सामग्री
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023 की रिपोर्ट अर्धचालक निर्माण की अल्ट्रा-प्योर वाटर, जल उपचार और स्थानीय जल संसाधन मांग पर, और ताइवान के सूखे के दौरान चिप निर्माण और कृषि जल उपयोग के तनाव का उल्लेख।
+[^1]: [वायर्ड: चिप युद्ध जीतना चाहते हैं? आपको बहुत सारे पानी की आवश्यकता होगी](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — वायर्ड 2023 की रिपोर्ट में सेमीकंडक्टर निर्माण के लिए अल्ट्राप्योर पानी, जल उपचार और स्थानीय जल संसाधनों की मांग का उल्लेख है, साथ ही ताइवान में सूखे के दौरान चिप निर्माण और कृषि जल उपयोग के बीच तनाव का भी जिक्र है।
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC एरिजोना आधिकारिक पृष्ठ उस फैब के निवेश, उन्नत प्रक्रिया योजना, जल पुनर्चक्रण प्रणाली और औद्योगिक जल पुनर्जनन सुविधा लक्ष्य की व्याख्या करता है, जो विदेशी फैक्ट्री जल संसाधन शासन केस स्टडी के रूप में काम कर सकता है।
+[^2]: [टीएसएमसी एरिज़ोना](https://www.tsmc.com/static/abouttsmcaz/index.htm) — टीएसएमसी एरिज़ोना के आधिकारिक पृष्ठ में उस संयंत्र के निवेश, उन्नत प्रक्रिया योजना, जल पुनर्चक्रण प्रणाली और औद्योगिक जल पुनर्जनन सुविधा लक्ष्यों का वर्णन है, जो विदेशी संयंत्र स्थापना में जल संसाधन प्रबंधन के मामले के रूप में काम कर सकता है।
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — एरिजोना अर्धचालक क्लस्टर विस्तार से आने वाले रोजगार, स्थानीय विकास, जल संसाधन, पर्यावरण और श्रमिक सुरक्षा विवादों की रिपोर्ट, जिसका उपयोग विदेशी फैक्ट्री के स्थानीय समाज परिप्रेक्ष्य को संतुलित करने के लिए किया जा सकता है।
+[^3]: [द वर्ज: नई सिलिकॉन वैली (शाब्दिक रूप से)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — रिपोर्ट में एरिज़ोना में सेमीकंडक्टर क्लस्टर के विस्तार से रोजगार, स्थानीय विकास, जल संसाधन, पर्यावरण और श्रम सुरक्षा विवादों का वर्णन है, जिसका उपयोग विदेशी संयंत्र स्थापना के स्थानीय सामाजिक परिप्रेक्ष्य को संतुलित करने के लिए किया जा सकता है।
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 16 ताइवानी इलेक्ट्रॉनिक घटक निर्माताओं के 2015-2020 पर्यावरण पदचिह्न पर शोध, जल उपयोग, ऊर्जा और कार्बन उत्सर्जन के उत्पादन वृद्धि के साथ बढ़ने के जोखिम का प्रस्ताव।
+[^4]: [रूसिल्हे एट अल.: सिलिकॉन शील्ड से कार्बन लॉक-इन तक?](https://arxiv.org/abs/2209.12523) — अध्ययन में 16 ताइवानी इलेक्ट्रॉनिक घटक निर्माताओं के 2015-2020 के पर्यावरणीय पदचिह्न का अध्ययन किया गया है, जिसमें उत्पादन वृद्धि के साथ पानी के उपयोग, ऊर्जा और कार्बन उत्सर्जन में वृद्धि के जोखिम को प्रस्तुत किया गया है।

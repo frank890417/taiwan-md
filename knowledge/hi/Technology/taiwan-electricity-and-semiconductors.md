@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-26T23:53:50+08:00'
+translatedAt: '2026-11-18T19:43:06.503833+00:00'
 ---
 
 # ताइवान की बिजली और सेमीकंडक्टर: रक्षक पर्वत का बिजली बिल
@@ -188,12 +190,12 @@ _राष्ट्रीय राजमार्ग शीहू सर्व�
 - **मियाओली अपतटीय पवन फार्म**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) — विकिमीडिया कॉमन्स, CC BY-SA 4.0। 본 लेख में `public/article-images/nature/hai-neng-offshore-wind-farm-2024.webp` पर कैश्ड संस्करण का उपयोग किया गया है।
 - **शीहू सर्विस एरिया छत सौर पैनल**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) — फोटो: lienyuan lee, विकिमीडिया कॉमन्स, CC BY 3.0। 본 लेख में `public/article-images/nature/xihu-service-area-solar-2014.webp` पर कैश्ड संस्करण का उपयोग किया गया है।
 
-## संदर्भ
+## संदर्भ सामग्री
 
-[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC EUV ऊर्जा बचत योजना, कुल बिजली खपत पैमाने और उपकरण ऊर्जा बचत अनुपात की रिपोर्ट, दक्षता सुधार और कुल मात्रा दबाव के सह-अस्तित्व को समझाने के लिए उपयोगी।
+[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC की EUV ऊर्जा बचत योजना, कुल बिजली खपत के पैमाने और उपकरणों की ऊर्जा दक्षता के अनुपात की रिपोर्ट करता है, जिसका उपयोग दक्षता में सुधार और कुल मांग के दबाव के सह-अस्तित्व को समझाने के लिए किया जा सकता है।
 
-[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — ताइवान सेमीकंडक्टर उद्योग संघ द्वारा बिजली स्थिरता और नवीकरणीय ऊर्जा आपूर्ति पर चेतावनी की रिपोर्ट, और RE100, वेफर फैब हरित बिजली मांग और विदेशी स्थानांतरण जोखिम का संकलन।
+[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — बिजली की स्थिरता और नवीकरणीय ऊर्जा आपूर्ति पर ताइवान सेमीकंडक्टर उद्योग संघ द्वारा जारी चेतावनी की रिपोर्ट करता है, और RE100, फैब्रिकेशन प्लांट की हरित बिजली की मांग और विदेशों में स्थानांतरण के जोखिमों का विवरण देता है।
 
-[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 16 ताइवानी इलेक्ट्रॉनिक घटक निर्माताओं के 2015-2020 पर्यावरणीय पदचिह्न का अध्ययन, ऊर्जा, पानी और कार्बन उत्सर्जन के उत्पादन वृद्धि के साथ बढ़ने और कार्बन लॉक-इन जोखिम का प्रस्ताव।
+[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 2015-2020 के दौरान ताइवान के 16 इलेक्ट्रॉनिक घटक निर्माताओं के पर्यावरणीय पदचिह्न (environmental footprint) का अध्ययन करता है, और उत्पादन वृद्धि के साथ ऊर्जा, जल और कार्बन उत्सर्जन में वृद्धि तथा 'कार्बन लॉक-इन' के जोखिम को रेखांकित करता है।
 
-[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — एसोसिएटेड प्रेस की 2025 ताइवान तीसरे परमाणु संयंत्र जीवन विस्तार जनमत संग्रह परिणाम की रिपोर्ट, और परमाणु ऊर्जा समर्थकों द्वारा बिजली कीमत और AI बिजली मांग को विमर्श में कैसे रखा गया, इसकी व्याख्या।
+[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Associated Press की रिपोर्ट 2025 में ताइवान के परमाणु संयंत्र तृतीय (Nuclear Third Plant) के जीवन विस्तार हेतु जनमत संग्रह के परिणाम पर प्रकाश डालती है, और यह बताती है कि परमाणु ऊर्जा समर्थक बिजली दरों और AI बिजली की मांग को अपने विमर्श में कैसे शामिल करते हैं।

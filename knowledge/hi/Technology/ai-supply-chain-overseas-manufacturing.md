@@ -28,11 +28,13 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI供應鏈海外設廠.md'
-sourceCommitSha: 'fd01d452a'
-sourceContentHash: 'sha256:7fa246cf8f0f5c00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:1f66d74cd10a1fe4'
 sourceBodyHash: 'sha256:453d3851b08255ad'
-translatedAt: '2026-07-26T23:53:50+08:00'
+translatedAt: '2026-11-18T19:22:37.782735+00:00'
 ---
 
 # AI आपूर्ति शृंखला विदेशी संयंत्र: ताइवान की क्षमता को दुनिया ने बुलाया
@@ -212,22 +214,22 @@ TSMC आधिकारिक एरिजोना पृष्ठ के अ�
 
 ## संदर्भ सामग्री
 
-[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — एसोसिएटेड प्रेस रिपोर्ट NVIDIA द्वारा अमेरिका में पहली बार ब्लैकवेल चिप्स व AI सुपरकंप्यूटर्स के उत्पादन पर, TSMC फीनिक्स, फॉक्सकॉन ह्यूस्टन, विस्ट्रॉन डलास, तथा SPIL/एमकॉर के एरिजोना में पैकेजिंग-टेस्टिंग सहयोग का नाम लेते हुए।
+[^1]: [AP: Nvidia पहली बार अमेरिका में AI चिप्स बनाने की योजना बना रही है](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Associated Press की रिपोर्ट के अनुसार NVIDIA अमेरिका में Blackwell चिप्स और AI सुपरकंप्यूटर का उत्पादन करेगी, जिसमें TSMC Phoenix, Foxconn Houston, Wistron Dallas, और Arizona में SPIL / Amkor के साथ पैकेजिंग और परीक्षण सहयोग का उल्लेख किया गया है।
 
-[^2]: [AP: OpenAI and Taiwan's Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — एसोसिएटेड प्रेस रिपोर्ट OpenAI व फॉक्सकॉन के सहयोग पर AI डेटा सेंटर रैक डिजाइन व विनिर्माण के लिए, उत्पादों में केबलिंग, नेटवर्किंग, पावर सिस्टम शामिल, फॉक्सकॉन की अमेरिकी सुविधाओं के वितरण का उल्लेख।
+[^2]: [AP: OpenAI और ताइवान की Foxconn अमेरिका में AI हार्डवेयर डिजाइन और विनिर्माण में साझेदारी करेंगे](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Associated Press की रिपोर्ट के अनुसार OpenAI और Foxconn AI डेटा सेंटर रैक को डिजाइन और निर्मित करने के लिए सहयोग करेंगे, जिसमें केबलिंग, नेटवर्किंग और पावर सिस्टम जैसे उत्पाद शामिल हैं, साथ ही Foxconn की अमेरिकी सुविधाओं के वितरण का भी उल्लेख किया गया है।
 
-[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — डेल्टा इलेक्ट्रॉनिक्स के टेक्सास प्लानो में विनिर्माण व कार्यालय सुविधा विस्तार पर रिपोर्ट, इसके मौजूदा R&D विनिर्माण केंद्र, बाद के पार्क पैमाने व अमेरिकी स्थानीय विनिर्माण पोजिशनिंग को संकलित करता है।
+[^3]: [MySA: Plano में $115 मिलियन के इलेक्ट्रॉनिक्स कारखाने की योजना आगे बढ़ी](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — रिपोर्ट के अनुसार Delta Electronics Texas के Plano में अपने विनिर्माण और कार्यालय सुविधाओं का विस्तार कर रहा है, और इसके मौजूदा अनुसंधान एवं विकास (R&D) विनिर्माण केंद्र, भविष्य के पार्क के पैमाने और अमेरिका में स्थानीय विनिर्माण स्थिति का विवरण दिया गया है।
 
-[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — डेल्टा इलेक्ट्रॉनिक्स भारत कृष्णागिरि फैक्टरी विस्तार पर रिपोर्ट, इसके टेलीकॉम, डेटा सेंटर, इलेक्ट्रिक वाहन, औद्योगिक ग्राहक मांग व भारतीय स्थानीयकृत आपूर्ति शृंखला लेआउट की व्याख्या।
+[^4]: [Times of India: Delta Electronics क्षमता विस्तार पर जोर दे रहा है](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Delta Electronics के भारत के Krishnagiri संयंत्र के विस्तार की रिपोर्ट, जो दूरसंचार, डेटा सेंटर, इलेक्ट्रिक वाहन और औद्योगिक ग्राहकों की मांग के साथ-साथ भारत में स्थानीय आपूर्ति श्रृंखला लेआउट को स्पष्ट करती है।
 
-[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC आधिकारिक एरिजोना पृष्ठ, फीनिक्स निवेश पैमाने, छह वेफर फैब, दो उन्नत पैकेजिंग सुविधाएं, N4/N3/N2/A16 समयसारिणी व जल पुनर्चक्रण योजना की व्याख्या।
+[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC का आधिकारिक एरिज़ोना पेज, जो Phoenix में निवेश के पैमाने, छह वेफर फैब्रिकेशन प्लांट, दो उन्नत पैकेजिंग सुविधाओं, N4/N3/N2/A16 की समयसीमा और जल पुनर्चक्रण योजना का विवरण देता है।
 
-[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — एसोसिएटेड प्रेस रिपोर्ट TSMC की जापान कुमामोटो दूसरी फैक्टरी में 3 नैनोमीटर चिप्स बनाने की योजना पर, जापानी आर्थिक सुरक्षा व AI, रोबोट, स्वायत्त ड्राइविंग मांग को संकलित करता है।
+[^6]: [AP: TSMC जापान में उन्नत AI कंप्यूटर चिप्स बनाएगा](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Associated Press की रिपोर्ट के अनुसार TSMC जापान के कुमामोटो में अपने दूसरे प्लांट में 3nm चिप्स का उत्पादन करने की योजना बना रहा है, और जापान की आर्थिक सुरक्षा तथा AI, रोबोटिक्स और स्वायत्त ड्राइविंग की मांग का विश्लेषण करता है।
 
-[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC आधिकारिक वेबसाइट इसके TSMC, Bosch, Infineon, NXP संयुक्त उद्यम होने, जर्मनी ड्रेसडेन में वेफर फैब स्थापित कर यूरोपीय औद्योगिक, IoT, संचार, वाहन बाजारों का समर्थन करने की व्याख्या करती है।
+[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC की आधिकारिक वेबसाइट बताती है कि यह TSMC, Bosch, Infineon और NXP का एक संयुक्त उद्यम है, जो यूरोप के औद्योगिक, IoT, संचार और ऑटोमोटिव बाजारों का समर्थन करने के लिए जर्मनी के ड्रेसडेन में वेफर फैब्रिकेशन प्लांट स्थापित कर रहा है।
 
-[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — एसोसिएटेड प्रेस रिपोर्ट अमेरिकी CHIPS and Science Act द्वारा TSMC एरिजोना विस्तार को सब्सिडी पर, अमेरिकी सरकार द्वारा उन्नत चिप विनिर्माण को आपूर्ति शृंखला सुरक्षा व राष्ट्रीय सुरक्षा मुद्दे के रूप में देखने की व्याख्या।
+[^8]: [AP: बाइडेन प्रशासन ने यह सुनिश्चित करने के लिए $6.6 बिलियन की घोषणा की कि अग्रणी-स्तर की माइक्रोचिप्स अमेरिका में बनाई जाएं](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Associated Press की रिपोर्ट के अनुसार अमेरिकी CHIPS and Science Act, TSMC के एरिज़ोना विस्तार के लिए सब्सिडी प्रदान करता है, और बताता है कि कैसे अमेरिकी सरकार उन्नत चिप निर्माण को आपूर्ति श्रृंखला सुरक्षा और राष्ट्रीय सुरक्षा के मुद्दे के रूप में देखती है।
 
-[^9]: [TIME: 閱讀台灣總統賴清德接受《時代》雜誌採訪的全文](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — 《TIME》 द्वारा प्रकाशित चीनी साक्षात्कार पूर्ण पाठ में, लाई चिंग-ते सेमीकंडक्टर को वैश्विक विभाजन उद्योग बताते हैं, और सरकार TSMC आदि सेमीकंडक्टर कंपनियों के अमेरिका, जापान, यूरोप लेआउट को कैसे देखती है।
+[^9]: [TIME: ताइवान के राष्ट्रपति लाई चिंग-ते द्वारा TIME पत्रिका को दिए गए साक्षात्कार का पूरा पाठ पढ़ें](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — TIME द्वारा प्रकाशित चीनी भाषा के साक्षात्कार के पूर्ण पाठ में, लाई चिंग-ते ने वैश्विक श्रम विभाजन उद्योग के रूप में सेमीकंडक्टर और सरकार द्वारा TSMC जैसी सेमीकंडक्टर कंपनियों के अमेरिका, जापान और यूरोप में विस्तार के दृष्टिकोण पर चर्चा की है।
 
-[^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — एरिजोना सेमीकंडक्टर समूह विस्तार से आए रोजगार, स्थानीय विकास, जल संसाधन, पर्यावरण, श्रम सुरक्षा विवादों पर रिपोर्ट, विदेशी संयंत्रों के स्थानीय समाज परिप्रेक्ष्य को संतुलित करने के लिए उपयोगी।
+[^10]: [The Verge: नया सिलिकॉन वैली (शाब्दिक रूप से)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — एरिज़ोना सेमीकंडक्टर क्लस्टर के विस्तार से उत्पन्न रोजगार, स्थानीय विकास, जल संसाधन, पर्यावरण और श्रम सुरक्षा विवादों की रिपोर्ट, जिसका उपयोग विदेशी कारखाने स्थापित करने के सामाजिक दृष्टिकोण को संतुलित करने के लिए किया जा सकता है।
