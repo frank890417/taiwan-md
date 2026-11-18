@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'afc244ca1'
-sourceContentHash: 'sha256:807f358c49a8e2a5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:191d728a3d2dbffa'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-10-15T06:52:14.694868+00:00'
+translatedAt: '2026-11-18T20:52:42.722929+00:00'
 ---
 
 # Sự phát triển ngành công nghiệp âm thanh Đài Loan
@@ -153,12 +155,12 @@ Ngành công nghiệp âm thanh Đài Loan đối mặt với ba áp lực cạn
 
 ## Tài liệu tham khảo
 
-[^1]: [Bộ Phát triển Ngành công nghiệp (Bộ Kinh tế)](https://www.ida.gov.tw/) — trước đây là Cục Công nghiệp, tái tổ chức vào tháng 9 năm 2023, cơ quan quản lý chính sách ngành công nghiệp âm thanh Đài Loan
+[^1]: [Cục Phát triển Công nghiệp thuộc Bộ Kinh tế](https://www.ida.gov.tw/) — Tiền thân là Cục Công nghiệp, được cải tổ vào tháng 9 năm 2023, là cơ quan chủ quản chính sách ngành âm thanh tại Đài Loan
 
-[^2]: [ITRI IEKNET《Phân tích Xu hướng Ngành Âm thanh》](https://ieknet.iek.org.tw/) — phân tích quy mô ngành công nghiệp âm thanh Đài Loan và thị trường sản xuất hợp đồng
+[^2]: [Viện Nghiên cứu Công nghệ Công nghiệp (ITRI) - Viện Quốc tế về Khoa học Công nghiệp 《Phân tích xu hướng ngành âm thanh》](https://ieknet.iek.org.tw/) — Phân tích quy mô ngành âm thanh và thị trường gia công tại Đài Loan
 
-[^3]: [Hiệp hội Công nghiệp Điện tử–Điện Khu vực Đài Loan (TEEMA)](https://www.teema.org.tw/) — 《Niên giám Ngành Âm thanh》, thống kê các nhà sản xuất và giá trị sản phẩm ngành công nghiệp âm thanh Đài Loan
+[^3]: [Hiệp hội Công nghiệp Điện tử và Điện lực Đài Loan (TEEMA)](https://www.teema.org.tw/) — 《Niên giám ngành âm thanh》, thống kê về các nhà sản xuất và giá trị sản lượng của ngành âm thanh Đài Loan
 
-[^4]: [Trang web chính thức Merry Electronics](https://www.merry.com.tw/) — sản phẩm thành phần âm điện và dữ liệu doanh nghiệp; Creative Technology Ltd. là công ty Singapore, không phải nhà sản xuất Đài Loan
+[^4]: [Trang web chính thức của Merry Electronics (Mỹ Luật Thực nghiệp)](https://www.merry.com.tw/) — Thông tin doanh nghiệp và sản phẩm linh kiện âm thanh; Creative Technology Ltd. là công ty Singapore, không phải nhà sản xuất Đài Loan
 
-[^5]: [Audio Engineering Society (AES) Taiwan Section Tài liệu Kỹ thuật](https://www.aes.org/) — Tiêu chuẩn Kỹ thuật Âm thanh Quốc tế và Kết quả Nghiên cứu
+[^5]: [Tài liệu kỹ thuật của Hiệp hội Kỹ thuật Âm thanh (AES) Chi nhánh Đài Loan](https://www.aes.org/) — Các tiêu chuẩn kỹ thuật âm học quốc tế và thành tựu nghiên cứu

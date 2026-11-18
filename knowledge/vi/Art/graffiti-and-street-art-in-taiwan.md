@@ -20,11 +20,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-18T20:57:11.743201+00:00'
 ---
 
 > **Tổng quan 30 giây:**
@@ -78,16 +80,16 @@ Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả �
 
 ## Tài liệu tham khảo
 
-[^1]: [台灣塗鴉藝術家Reach、布雷克的逆襲！ 從街頭走向多元創作的風格](https://www.wowlavie.com/article/ae1902012) — WowLavie (Xem chi tiết tại nguồn gốc được liên kết)
+[^1]: [Sự phản công của nghệ sĩ graffiti Đài Loan Reach và Blake! Từ đường phố tiến tới phong cách sáng tạo đa dạng](https://www.wowlavie.com/article/ae1902012) — WowLavie (Xem chi tiết tại nguồn gốc được liên kết)
 
-[^3]: [專訪塗鴉藝術家大腸王：大腸的內裡是屎，藝術也是。](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [Phỏng vấn nghệ sĩ graffiti Đại Tràng Vương: Bên trong đại tràng là phân, và nghệ thuật cũng vậy.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
-[^4]: [街頭文化走向商業錯了嗎？台灣塗鴉先鋒Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [Văn hóa đường phố tiến tới thương mại hóa liệu có sai lầm? Reach - người tiên phong graffiti Đài Loan](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [糖果鳥 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — 台灣當代藝術資料庫 (Xem chi tiết tại nguồn gốc được liên kết)
+[^5]: [Candy Bird (Chim Kẹo)](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — Cơ sở dữ liệu Nghệ thuật Đương đại Đài Loan
 
-[^6]: [亂塗鴉最高罰6000元！北市14處合法塗鴉牆一覽](https://newtalk.tw/news/view/2019-11-27/332344) — 台北市政府環保局 (Xem chi tiết tại nguồn gốc được liên kết)
+[^6]: [Vẽ bậy có thể bị phạt tới NT$6.000! Danh sách 14 bức tường graffiti hợp pháp tại thành phố Đài Bắc](https://newtalk.tw/news/view/2019-11-27/332344) — Cục Bảo vệ Môi trường Thành phố Đài Bắc
 
-[^8]: [古蹟與後現代藝術交融《藝遊未盡》帶你遨遊臺北市電影主題公園](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — 台北市政府觀光傳播局
+[^8]: [Sự giao thoa giữa di tích lịch sử và nghệ thuật hậu hiện đại: "Nghệ du vị tận" đưa bạn dạo chơi Công viên Chủ đề Điện ảnh Thành phố Đài Bắc](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Cục Du lịch và Truyền thông Thành phố Đài Bắc
 
-[^9]: [掏出皺摺裡的濃濃台味，初耳的藝術家朋友－大腸王](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — 初耳 Hatsumimi
+[^9]: [Khai phá hương vị Đài Loan đậm đà trong những nếp gấp, người bạn nghệ sĩ của Hatsumimi - Đại Tràng Vương](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Xem chi tiết tại nguồn gốc được liên kết)

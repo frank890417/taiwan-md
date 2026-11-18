@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-18T21:48:48.029814+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Các thú cưng của các tổng thống Đài Loan không chỉ là thành viên gia đình trong dinh thự chính thức, mà thường còn là tượng trưng của hình ảnh chính trị và giá trị xã hội. Từ chó sói uy nghi thời Tưởng Giới Thạch, đàn chó Retriever vàng của Lý Đăng Huy, chó Đài Loan tên Dũng Anh của Trần Thủy Biển, đến Mã Tiểu Cửu của Mã Anh Cửu, những chó mèo đa dạng của Thái Anh Văn, và chó hoang Luke của Lại Thanh Đức. Danh sách này vẽ nên cách "Thú cưng đầu tiên" từ từ thay đổi từ sở thích tư nhân đơn thuần thành ngôn ngữ chính trị để thúc đẩy bảo vệ động vật và thể hiện ấm áp dân sự.
@@ -77,22 +79,22 @@ Hơn nữa, hình ảnh "cuộc sống chó tốt" của thú cưng đầu tiên
 
 ## Tài liệu tham khảo
 
-[^1]: [蔣介石3愛犬護主有靈性日記留名備受寵愛](https://www.youtube.com/watch?v=uj0__fZkZlg) — Tin tức Đài Loan (ghi lại trên YouTube)
+[^1]: [Nhật ký về 3 chú chó cưng của Tưởng Giới Thạch: Có linh tính và bảo vệ chủ nhân, được sủng ái hết mực](https://www.youtube.com/watch?v=uj0__fZkZlg) — Tin tức TTV (Video YouTube)
 
-[^2]: [回看李登輝：養狗養貓還養羊 阿輝伯官邸像另類動物園](https://www.mirrormedia.mg/story/20200227inv009/) — Tạp chí Gương (ghi lại việc Lý Đăng Huy nhập khẩu chó Retriever vàng, sinh sản hơn ba mươi con, một phần huấn luyện thành chó hướng dẫn)
+[^2]: [Nhìn lại Lý Đăng Huy: Nuôi cả chó, mèo lẫn cừu; dinh thự của A Huy Bá giống như một vườn bách thú khác lạ](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (Ghi chép về việc Lý Đăng Huy đưa giống Golden Retriever về nuôi, nhân giống hơn 30 con, một số được huấn luyện thành chó dẫn đường)
 
-[^3]: [政治明星犬命運大不同，蔡想想浪貓變前總統第一寵物](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo Tin tức
+[^3]: [Số phận khác biệt của những chú chó ngôi sao chính trị: Thái Tưởng Tưởng từ mèo hoang trở thành thú cưng số một của cựu Tổng thống](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [馬小九維基百科條目](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (mục tiêu Wikipedia)
+[^4]: [Mục từ Wikipedia về Mã Tiểu Cửu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Mục từ Wikipedia)
 
-[^5]: [北市長任內特別費案 馬英九獲不起訴](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Tờ Tự do (Cơ quan Kiểm sát Địa phương Đài Bắc không khởi tố vào 2017-03-20, kinh phí đặc biệt đã được miễn trừ, vụ trước đó đã được phán quyết vô tội)
+[^5]: [Vụ án chi phí đặc biệt trong nhiệm kỳ Thị trưởng Bắc Kinh: Mã Anh Cửu không bị truy tố](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (Ngày 20-03-2017, Văn phòng Kiểm sát Địa phương Đài Bắc quyết định không truy tố; chi phí đặc biệt đã được phi tội hóa và các vụ án trước đó đã có phán quyết vô tội xác định)
 
-[^6]: [秀第一寵物蔡英文：最想陪想想、阿才玩](https://www.youtube.com/watch?v=jVfgyh2mxVA) — Tin tức Dân tộc (ghi lại trên YouTube)
+[^6]: [Thú cưng số một của Thái Anh Văn: Muốn dành thời gian chơi cùng Tưởng Tưởng và A Tài nhất](https://www.youtube.com/watch?v=jVfgyh2mxVA) — Tin tức FTV (Video YouTube)
 
-[^7]: [總統：依法申請領養退役搜救犬 無須為政治扭曲](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Tổng hợp Thông tấn Trung ương (ghi lại việc Thái Anh Văn nhận nuôi ba con chó hướng dẫn về hưu Bella, Bunny, Maru năm 2016, cũng như chó tìm kiếm cứu hộ Le Le sau khi mãn nhiệm tuổi đã được nhận nuôi theo quy định)
+[^7]: [Tổng thống: Đăng ký nhận nuôi chó cứu hộ đã nghỉ hưu theo đúng quy định pháp luật, không cần vì chính trị mà bóp méo sự thật](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Trung ương Thông tấn xã (Ghi chép về việc Thái Anh Văn nhận nuôi các chú chó dẫn đường đã nghỉ hưu Bella, Bunny, Maru vào năm 2016, cùng với chú chó cứu hộ Lạc Lạc được nhận nuôi theo quy định sau khi nghỉ hưu)
 
-[^8]: [賴清德新動畫片吐露收養流浪狗「Luke」的故事](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo Tin tức
+[^8]: [Phim hoạt hình mới của Lại Thanh Đức tiết lộ câu chuyện nhận nuôi chú chó hoang "Luke"](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [愛犬Luke離世 賴清德：持續關注毛小孩與浪浪](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Tổng hợp Thông tấn Trung ương (2023-09-11, Lại Thanh Đức Facebook "Cảm ơn Luke vì đã nhiều năm đồng hành")
+[^9]: [Chú chó cưng Luke qua đời, Lại Thanh Đức: Sẽ tiếp tục quan tâm đến thú cưng và động vật hoang dã](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Trung ương Thông tấn xã (Ngày 11-09-2023, Facebook của Lại Thanh Đức viết: "Cảm ơn Luke đã đồng hành suốt những năm qua")
 
-[^10]: [如果捕獸夾夾到小孩、馬小九…](https://news.tvbs.com.tw/life/131330) — TVBS (chi tiết tham khảo tại liên kết gốc trong tài liệu bổ sung)
+[^10]: [Nếu bẫy thú kẹp phải trẻ em hay Mã Tiểu Cửu...](https://news.tvbs.com.tw/life/131330) — TVBS (Xem thêm thông tin bổ sung trong nội dung liên kết gốc)

@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:32+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T21:45:27.913353+00:00'
 ---
 
 # Trần Ánh Chân: Lương tâm văn học phái Thống nhất từ Trúc Nam đến Bắc Kinh
@@ -77,11 +79,11 @@ Trải nghiệm lao tù này càng củng cố lập trường cánh tả và ch
 
 ## Nhà lý luận của phong trào văn học hương thổ
 
-Vào thập niên 1970, phong trào văn học hương thổ trỗi dậy tại Đài Loan. Năm 1976, Trần Ánh Chân làm biên tập cho tạp chí _Hạ Triều_. Trong cuộc luận chiến văn học hương thổ năm 1977–78, ông đã công bố các bài viết như "Xây dựng phong cách văn học dân tộc", "Văn học đến từ xã hội, phản ánh xã hội", "Điểm mù của văn học hương thổ" để phản bác quan điểm của Dư Quang Trung và những người khác cho rằng văn học hương thổ có xu hướng thiên về văn học công nông binh; do đó ông được xem là một trong những đại diện chính của phái văn học hương thổ. [^5]
+Vào thập niên 1970, phong trào văn học hương thổ (nativist literature) trỗi dậy tại Đài Loan. Năm 1976, Trần Ánh Chân đảm nhiệm vai trò biên tập cho tạp chí 《Hạ Triều》 (_Summer Tide_). Trong cuộc tranh luận về văn học hương thổ diễn ra vào năm 1977–78, ông đã công bố các bài viết như 〈Thiết lập phong cách văn học dân tộc〉, 〈Văn học đến từ xã hội, phản ánh xã hội〉, 〈Điểm mù của văn học hương thổ〉... nhằm bác bỏ những chỉ trích từ dư quang trung (Yu Kwang-chung) và những người khác cho rằng văn học hương thổ có xu hướng thiên về văn học công nông binh. Do đó, ông được xem là một trong những đại diện chính của phái văn học hương thổ. [^5]
 
-"Hứa Nam Thôn" là một trong những bút danh của ông, ví dụ như bài "Hy vọng mới của nghệ thuật hiện thực" đăng trên tập 3 của _Thi Triều_ năm 1978. Các bài luận chiến nêu trên lại được đăng dưới tên thật Trần Ánh Chân.
+「Hứa Nam Thôn」 là một trong những bút danh của ông, ví dụ như bài 〈Hy vọng mới của nghệ thuật chủ nghĩa hiện thực〉 đăng trên tập thứ ba của tạp chí 《Thi Triều》 (_Poetry Tide_) vào năm 1978. Các bài viết tranh luận nêu trên lại được xuất bản dưới tên thật Trần Ánh Chân.
 
-Trong thập niên 1980, ông tiếp tục tham gia công tác biên tập cho _Văn Quý_, _Hạ Triều_, và đối đầu với các nhân sĩ phái bản địa Đài Loan trong cuộc luận chiến "Nút thắt Trung Quốc" và "Nút thắt Đài Loan", trong đó có Trần Phương Minh.
+Vào thập niên 1980, ông tiếp tục tham gia công tác biên tập cho các tạp chí 《Văn Quý》 và 《Hạ Triều》, đồng thời đối đầu với các nhân sĩ phái bản địa Đài Loan trong cuộc tranh luận giữa "Nút thắt Trung Quốc" và "Nút thắt Đài Loan", với những đối thủ bao gồm Trần Phương Minh (Chen Fang-ming).
 
 ## Biên tập tạp chí và quảng bá văn hóa
 

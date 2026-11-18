@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-28T08:16:22+08:00'
+translatedAt: '2026-11-18T20:42:26.446627+00:00'
 ---
 
 # Bán dẫn và tài nguyên nước ở Đài Loan: Hồ bơ ở gần nhà máy bán dẫn
@@ -184,10 +186,10 @@ Nó đứng bên hồ bơ, đứng trong lưu vực sông ngòi, đứng trên �
 
 ## Tài liệu tham khảo
 
-[^1]: [WIRED: Muốn chiến chiến tranh vi chip? Bạn sẽ cần rất nhiều nước](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — Báo WIRED 2023 báo cáo về nhu cầu nước siêu trong, xử lý nước và tài nguyên nước địa phương trong sản xuất bán dẫn, đồng thời đề cập đến căng thẳng giữa nước dùng cho vi chip và tưới tiêu trong thời gian hạn hán ở Đài Loan.
+[^1]: [WIRED: Muốn thắng chiến tranh chip? Bạn sẽ cần rất nhiều nước](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED năm 2023 báo cáo về nhu cầu đối với nước siêu tinh khiết, xử lý nước và nguồn nước địa phương trong sản xuất bán dẫn, đồng thời nhắc đến căng thẳng giữa sản xuất chip và nước nông nghiệp trong kỳ hạn hán tại Taiwan.
 
-[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Trang web chính thức của TSMC Arizona giải thích về các khoản đầu tư, kế hoạch sản xuất tiên tiến, hệ thống tái sinh nước và mục tiêu nhà máy tại khu vực, có thể dùng làm ví dụ về quản trị nguồn nước cho nhà máy ở nước ngoài.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Trang chủ chính thức của TSMC Arizona giải thích về đầu tư của nhà máy, kế hoạch quy trình tiên tiến, hệ thống tái chế nước và mục tiêu cơ sở thiết bị tái tạo nước công nghiệp, có thể đóng vai trò là trường hợp nghiên cứu về quản trị nguồn nước khi thiết lập nhà máy ở nước ngoài.
 
-[^3]: [The Verge: Thành phố mới như thế giới silicon (thật sự)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Báo cáo về sự mở rộng khu đô thị bán dẫn tại Arizona, đưa ra kỳ vọng việc làm, phát triển địa phương, vấn đề về nguồn nước, môi trường và an toàn lao động, cần cân bằng góc độ xã hội địa phương cho nhà máy ở nước ngoài.
+[^3]: [The Verge: Thung lũng Silicon mới (theo nghĩa đen)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Báo dẫn về việc mở rộng cụm bán dẫn tại Arizona mang lại việc làm, phát triển địa phương, nguồn nước, môi trường và tranh cãi an toàn lao động, có thể được sử dụng để cân bằng góc nhìn xã hội địa phương khi thiết lập nhà máy ở nước ngoài.
 
-[^4]: [Roussilhe et al.: Từ “Lá chắn silic” đến “Nôn nghẹt carbon”? ](https://arxiv.org/abs/2209.12523) — Nghiên cứu 16 doanh nghiệp sản xuất linh kiện điện tử ở Đài Loan trong giai đoạn 2015-2020, đề xuất rủi ro tăng trưởng nhu cầu nước, năng lượng và phát thải carbon theo quy mô sản lượng.
+[^4]: [Roussilhe và cộng sự: Từ Khiên Silicon đến Khóa carbon?](https://arxiv.org/abs/2209.12523) — Nghiên cứu dấu chân môi trường của 16 nhà sản xuất linh kiện điện tử tại Taiwan trong giai đoạn 2015-2020, nêu ra rủi ro về việc sử dụng nước, năng lượng và phát thải carbon tăng lên theo sự tăng trưởng của sản lượng.

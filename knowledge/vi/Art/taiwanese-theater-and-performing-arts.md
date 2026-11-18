@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣劇場與表演藝術.md'
-translatedAt: '2026-07-31T00:00:00Z'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b0b2e53b537ac6fb5aadc43584db071376f77f35e3424796f87258fc434f714e'
-sourceBodyHash: 'sha256:b0b2e53b537ac6fb5aadc43584db071376f77f35e3424796f87258fc434f714e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:cddfbcb9ade43ff2'
+sourceBodyHash: 'sha256:0f8dee8662286dcf'
+translatedAt: '2026-11-18T21:53:41.614692+00:00'
 ---
 
 # Sân khấu Đài Loan và Nghệ thuật Biểu diễn: Đảo nhỏ Tây Thái Bình Dương tạo nên chấn động trên sân khấu thế giới
