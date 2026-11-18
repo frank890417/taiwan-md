@@ -33,11 +33,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-23'
     url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:d4818d717761979b'
 sourceBodyHash: 'sha256:45ca26bedda5e227'
-translatedAt: '2026-09-22T19:18:07.962258+00:00'
+translatedAt: '2026-11-18T09:59:44.118345+00:00'
 ---
 
 ![يانغ شوانغ-زي في 20 نوفمبر 2024 في حفل توزيع جوائز الكتاب الوطني الأمريكي في نيويورك، ترتدي معطفًا داكنًا وتقف بجانب التمثال بتعبير هادئ](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)

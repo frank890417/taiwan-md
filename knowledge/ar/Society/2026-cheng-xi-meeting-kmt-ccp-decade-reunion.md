@@ -21,14 +21,17 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
-  [
-    "{'id': 21, 'platform': 'threads', 'date': '2026-04-11', 'url': 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'}",
-  ]
+  - id: 21
+    platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-translatedAt: '2026-07-30T22:54:35+08:00'
+translatedAt: '2026-11-18T10:55:33.492337+00:00'
 ---
 
 # 2026 اجتماع تشينغ-شي: قادة الحزبين الوطني والشيوعي يجتمعان مجددًا بعد عشر سنوات لعشر دقائق

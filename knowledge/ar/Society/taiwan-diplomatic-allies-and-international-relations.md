@@ -27,11 +27,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T04:15:41.845207+00:00'
+translatedAt: '2026-11-18T09:30:08.910378+00:00'
 ---
 
 # تايوان والعلاقات الدبلوماسية الدولية: 12 دولة معترف بها، 113 بعثة خارجية، 177 دولة بلا تأشيرة
