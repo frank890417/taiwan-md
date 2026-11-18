@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T16:58:56+08:00",
-    "zhCommitHead": "5e3123920",
+    "lastUpdated": "2026-11-18T16:59:41+08:00",
+    "zhCommitHead": "6d64d6705",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1191,
-        "fresh": 677,
+        "fresh": 678,
         "stale": 53,
-        "metadata_stale": 449,
+        "metadata_stale": 448,
         "missing": 12,
         "orphan": 0
       },
@@ -75424,20 +75424,18 @@
         "ar": {
           "path": "ar/Society/taiwan-indigenous-education-and-language-revival.md",
           "translatedFrom": "Society/台灣原住民族教育與語言復振的交界.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:976815861db5ed08",
           "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
-          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translatedAt": "2026-11-18T00:52:09+08:00",
           "translationLastCommit": "69508583",
           "translationLastModified": "2026-08-04T03:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 58522,
+          "bytes": 55955,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-indigenous-education-and-language-revival.md",

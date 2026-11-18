@@ -2,9 +2,7 @@
 title: "La musique indépendante taïwanaise : comment un disquaire incapable de payer ses employés a ouvert les oreilles d'une île"
 description: 'De la reprise à perte de Crystal Records, endettée de trois cent mille dollars taïwanais, à la rupture de stock du premier tirage de No Party for Cao Dong dans un café. Trente-cinq ans de musique indépendante à Taïwan ne sont pas une revanche, mais un pari de longue horde : un groupe de personnes déterminées à faire entendre « les voix que personne ne voit ».'
 date: 2026-03-29
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'musique indépendante',
@@ -14,16 +12,20 @@ tags:
     'labels indépendants',
     'industrie musicale',
   ]
-readingTime: 14
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: true
+difficulty: 'intermediate'
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣獨立音樂.md'
-sourceCommitSha: '73443b2a'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
-translatedAt: '2026-06-10T16:45:50Z'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T08:43:02.163700+00:00'
 ---
 
 **Vue d'ensemble en 30 secondes : En 1986, Jen Chiang-ta, un jeune homme d'origine coréano-japonaise, emprunte 300 000 dollars taïwanais pour reprendre un disquaire au bord de la faillite, et commence à importer à Taïwan « une musique que personne ne voulait écouter ». Quarante ans plus tard, l'écosystème né de ce disquaire (live houses, labels indépendants, StreetVoice, Golden Indie Music Awards) a propulsé un groupe vendant ses disques dans un café jusqu'à l'album de l'année aux Golden Melody Awards, et un groupe anglophone de Taipei jusqu'à la scène de Coachella. Quarante ans de musique indépendante taïwanaise, c'est une course de relais sans fin : chaque relayeur court le souffle court, chaque relayeur sent qu'il va s'effondrer, mais le tuyau ne tombe jamais.**

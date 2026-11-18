@@ -19,9 +19,14 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
 factCorrectionLog:
-  [
-    "{'date': datetime.date(2026, 5, 9), 'triggered_by': '讀者社群指證', 'corrections': ['1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)', 'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)', '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)']}",
-  ]
+  - date: 2026-05-09
+    triggered_by: '讀者社群指證'
+    corrections:
+      [
+        '1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)',
+        'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)',
+        '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)',
+      ]
 lastHumanReview: false
 readingTime: 14
 researchReport: 'reports/research/2026-05/台灣企業：台積電.md'
@@ -30,15 +35,21 @@ imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 sporeLinks:
-  [
-    "{'id': 68, 'platform': 'threads', 'date': '2026-05-09', 'url': 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'}",
-    "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
-  ]
+  - id: 68
+    platform: 'threads'
+    date: '2026-05-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'
+  - id: 69
+    platform: 'x'
+    date: '2026-05-09'
+    url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-08-03T22:55:36+08:00'
+translatedAt: '2026-11-18T08:08:22.061781+00:00'
 ---
 
 # Entreprises taïwanaises : TSMC
@@ -236,13 +247,15 @@ Personne n'avait planifié une transition de cette ampleur. Pourtant, lors de la
 
 ## Lectures complémentaires
 
-- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — Troisième plus grand concepteur de puces mobiles au monde, représentant local du modèle "fabless", partenaire complémentaire de TSMC.
-- [Entreprises taïwanaises : ASE Group](/fr/economy/taiwan-enterprise-ase-semiconductor) — Plus grand acteur mondial du packaging et des tests, maillon clé en aval de la chaîne d'approvisionnement de TSTSMC.
-- [Bourse et marché des capitaux à Taïwan](/fr/economy/taiwan-stock-market) — La capitalisation de TSMC représente environ 35 % de la capitalisation totale de la bourse de Taïwan ; comprendre la bourse taïwanaise nécessite de comprendre TSMC.
-- [Transformation industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret du passage de Taïwan d'une île de sous-traitance à une île technologique.
-- [Shi Zhenrong](/fr/people/stan-shih) — Fondateur d'Acer, administrateur de TSMC pendant 21 ans, dont la fortune était massivement investie dans les actions de TSMC, mais qui est l'auteur de la courbe en "J" prônant que Taïwan ne doit pas se contenter de la sous-traitance.
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la technologie RCA à la révolution des matériaux (nitrure de gallium et packaging quantique), le champ de bataille de la science des matériaux où se situe TSMC.
-- [Hung Jui-ren](/fr/people/frank-huang-psmc) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
+- [Dossier spécial sur l'industrie taïwanaise](/industry/) — Une analyse de la structure industrielle basée sur les statistiques officielles : soixante ans d'exportations et de PIB, les parcs scientifiques, les usines par comté et ville, le top 10 des capitalisations boursières historiques, ainsi que les différents points de vue sur six débats publics.
+- [Carte de la chaîne d'approvisionnement](/industry/supply-chain-map/) — Les trois chaînes (semi-conducteurs, serveurs IA, tungstène) : une analyse étape par étape pour identifier quelles entreprises sont présentes à Taïwan et quels maillons dépendent de l'étranger.
+- [Entreprise taïwanaise : MediaTek](/fr/economy/mediatek) — Troisième concepteur mondial de puces pour téléphones mobiles, représentant local du modèle sans fonderie (_fabless_), formant avec TSMC des jumeaux complémentaires.
+- [Entreprise taïwanaise : ASE Group](/fr/economy/taiwan-enterprise-ase-semiconductor) — Le plus grand acteur mondial de l'assemblage et du test (OSAT), un maillon clé en aval de la même chaîne d'approvisionnement que TSMC.
+- [Marché boursier et financier de Taïwan](/fr/economy/taiwan-stock-market) — La capitalisation boursière de TSMC représente environ 35 % de celle de la bourse de Taïwan ; pour comprendre le marché taïwanais, il faut d'abord comprendre TSMC.
+- [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret de la transition de Taïwan d'une « île de la sous-traitance » vers une « île technologique ».
+- [Shi Zhenrong](/fr/people/stan-shih) — Administrateur de TSMC pendant 21 ans et fondateur d'Acer ayant investi sa plus grande fortune dans les actions de TSMC, il est pourtant l'auteur de la fameuse « courbe en sourire » (_smile curve_) qui préconisait que Taïwan ne se contente pas de la sous-traitance.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'intégration technologique de RCA à la révolution des matériaux avec le nitrure de gallium et l'encapsulation quantique : tout le champ de bataille de la science des matériaux où se trouve TSMC.
+  | [Huang Chong-jen](/fr/people/frank-huang-psmc) — Fondateur de PSMC/VIS, une autre voie sur la même île : fabriquant également des plaquettes (_wafers_), il a dû se retirer de la bourse après avoir accumulé des dettes de NT$100 milliards, avant de revenir sur le marché boursier neuf ans plus tard.
 
 ## Sources des images
 
