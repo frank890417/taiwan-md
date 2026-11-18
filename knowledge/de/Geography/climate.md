@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: 'ceeee0ae6'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0275e27f1a1e4e68'
 sourceBodyHash: 'sha256:c3a7643c439033af'
-translatedAt: '2026-09-12T09:12:49+08:00'
+translatedAt: '2026-11-18T13:55:23.718596+00:00'
 ---
 
 # Klima Taiwans

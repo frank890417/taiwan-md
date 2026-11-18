@@ -25,11 +25,13 @@ image: '/article-images/music/little-tigers-xiaoyaoyou-album.webp'
 imageCredit: '© 環球音樂（飛碟唱片原發行）'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895760'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/小虎隊.md'
-sourceCommitSha: '9094012f4'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:3550fb52e312828d'
 sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
-translatedAt: '2026-09-08T00:42:59+08:00'
+translatedAt: '2026-11-18T14:35:48.693682+00:00'
 ---
 
 # Little Tigers: Gekaufte Melodien, gefüllt mit eigenem Jugendtraum

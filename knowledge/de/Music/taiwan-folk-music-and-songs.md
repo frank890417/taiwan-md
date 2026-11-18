@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T14:54:25.833876+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Als bei der Eröffnung der Olympischen Spiele in Atlanta 1996 Enigma’s ‚Return to Innocence‘ erklang, hörten 65 Millionen Menschen weltweit das alte Gesäum eines taiwanesischen Amis-Älteren aus dem Lan-Ma-Tribe – Guo Yingnan. Doch erst zwei Jahre später durch eine internationalen Urheberrechtsklage stellte er fest, dass seine Stimme weltweit bekannt war. Diese ‚geklaut und dann von der Welt gehört‘-Geschichte ist ein perfektes Bild vom Schicksal der taiwanesischen Folklore – von der Stummschaltung unter kolonialer Unterdrückung bis zur Wiedererlangung ihrer Stimme in den 1990er Jahren.

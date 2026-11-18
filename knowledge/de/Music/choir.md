@@ -20,11 +20,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/合唱團.md'
-sourceCommitSha: '9b94676e6'
-sourceContentHash: 'sha256:7f725ed43315bb56'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7b6afad0e85e9dcf'
 sourceBodyHash: 'sha256:590b2ed87ef9a4d2'
-translatedAt: '2026-09-10T07:04:47.498069+00:00'
+translatedAt: '2026-11-18T14:47:43.624461+00:00'
 ---
 
 > **30 秒概覽：** Die Anfänge der taiwanesischen Chorlandschaft lassen sich auf das Jahr 1957 zurückführen, in dem **Lu Chun-sheng** die **Rongxing Children's Choir** gründete. Die Expansion erhielt jedoch Unterstützung durch die **Taipeher Philharmonisches Chor** und das **Taiwaner Chormusikzentrum (TCMC)**. Von Schulalumni-Chören wie **Rongxing** bis hin zu innovativen Gruppen wie dem **O-Kai Singers**, die mit A Cappella die Welt beeindruckten, hat sich Taiwan als eine der führenden chorischen Nationen in Asien etabliert. Hinter dieser musikalischen Erfolgsgeschichte verbirgt sich eine umfassende Ökosystem-Entwicklung von Schulkonzerten bis zur internationalen Profi-Szene sowie eine bewegende Erzählung über die Suche nach kultureller Identität trotz finanzieller und politischer Herausforderungen.
