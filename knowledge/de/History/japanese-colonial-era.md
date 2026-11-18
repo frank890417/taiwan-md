@@ -15,11 +15,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
-translatedAt: '2026-09-23T21:59:29+08:00'
+translatedAt: '2026-11-18T00:43:17.849987+00:00'
 ---
 
 # Die japanische Kolonialherrschaft in Taiwan
