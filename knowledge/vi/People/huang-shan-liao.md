@@ -2,9 +2,7 @@
 title: 'Hoàng Sơn Liệu: Không ai chú ý đến trang phục vô địch thế giới, anh chuyển sang bán “một câu an ủi”'
 description: 'Năm 2014, con trai một chủ quán ăn nhỏ ở Kim Môn bước lên sàn diễn Tuần lễ Thời trang Tốt nghiệp London với bộ sưu tập quân phục mang tên “Kim Môn 1969” và giành giải nhất quốc tế—nhưng khi trở về Đài Loan tìm việc, hồ sơ của anh lại bị bộ phận nhân sự nghi là giả vì “không tìm thấy bất kỳ bài báo nào”. Phẫn nộ, anh tự thành lập một kênh truyền thông, rồi chuyển sang viết những câu chữa lành dài không quá 28 chữ mỗi dòng, với tổng doanh số vượt 300.000 bản. Không ai chú ý đến tủ trang phục kể lịch sử vùng chiến địa ấy, nên anh chuyển sang bán “một câu an ủi”: thứ được mua trên thị trường chú ý của Đài Loan là những câu chỉ cần lướt mắt đã đọc xong, chứ không phải những sản phẩm thực sự được tạo ra.'
 date: 2026-06-07
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '文化與創作'
 tags:
   [
     'Nhà văn',
@@ -15,11 +13,15 @@ tags:
     'Đấu tố trên mạng',
     'Vô địch thế giới',
   ]
-readingTime: 12
+subcategory: '文化與創作'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-07
 lastHumanReview: false
-featured: true
+image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
+imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
+readingTime: 12
 sporeLinks:
   - id: 128
     platform: 'threads'
@@ -29,13 +31,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-07'
     url: 'https://x.com/taiwandotmd/status/2063604185912987689'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '00939ce5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-07-18T18:59:51+08:00'
-image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
-imageCredit: '鏡週刊（fair use editorial commentary）'
+translatedAt: '2026-11-18T07:20:21.279625+00:00'
 ---
 
 # Hoàng Sơn Liệu: Không ai chú ý đến trang phục vô địch thế giới, anh chuyển sang bán “một câu an ủi”

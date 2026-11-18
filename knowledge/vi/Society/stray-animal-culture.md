@@ -1,11 +1,6 @@
 ---
 title: 'Văn hóa động vật hoang dã ở Đài Loan: Từ Twelve Nights đến cái chết của mèo rừng, bài toán xe điện giữa bảo vệ động vật và bảo tồn thiên nhiên'
 description: 'Năm 2013, bộ phim Twelve Nights khiến cả đảo Đài Loan rơi nước mắt. Tháng 2 năm 2017, Đài Loan trở thành quốc gia đầu tiên ở Đông Á thực hiện chính sách không tiêm thuốc độc. Tám năm sau, vào tối ngày 11 tháng 5 năm 2023, một chú mèo rừng nhỏ thiệt mạng dưới nanh của mèo hoang. Bộ Nông nghiệp năm 2022 điều tra 159.697 con chó hoang ở toàn quốc, hiệp hội bảo tồn mèo rừng Đài Loan phát hiện 91% những nơi mèo rừng hoạt động đều có sự xuất hiện của chó. Bảo vệ động vật và bảo tồn thiên nhiên không phải đối lập, mà là một đảo đất vẫn còn hàng triệu sinh mạng vô chủ. Bài viết này không lập trường, mà kể về những câu hỏi chưa được trả lời của đảo đất này.'
-translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:6b2ce60c50966bdc'
-sourceBodyHash: 'sha256:6f79d66a90a09b62'
-translatedAt: '2026-08-09T10:41:15+08:00'
 date: 2026-03-18
 category: 'Society'
 tags:
@@ -31,8 +26,13 @@ image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
 imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
-relatedDiary: []
-sporeLinks: []
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣流浪動物文化.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:d73033c3d023379b'
+sourceBodyHash: 'sha256:452ee75046f1da55'
+translatedAt: '2026-11-18T08:45:10.459139+00:00'
 ---
 
 # Văn hóa động vật hoang dã ở Đài Loan: Từ Twelve Nights đến cái chết của mèo rừng, bài toán xe điện giữa bảo vệ động vật và bảo tồn thiên nhiên
@@ -98,31 +98,29 @@ Một bộ phim, hai năm thúc đẩy, một luật pháp. Lịch sử động 
 
 ---
 
-## Tai của Phàm Phàm: Dấu hiệu trên đường phố
+## Đôi tai của Fanfan: Dấu hiệu trên đường phố
 
-Nếu bạn nhìn thấy một con chó hoặc mèo trên đường phố Đài Loan, mà tai nó thiếu một góc nhỏ, đó là dấu tích của một câu chuyện, là dấu hiệu do **TNR** để lại, không phải bị thương.
+Nếu bạn nhìn thấy một chú chó hay mèo trên đường phố Đài Loan có một góc tai bị khuyết, đó không phải là vết thương, mà là dấu ấn của một câu chuyện — đó là ký hiệu do **TNR** để lại.
 
-TNR là viết tắt của Trap (bẫy), Neuter (triệt sản), Return (trả lại): bắt động vật hoang dã, triệt sản, cắt đầu tai để đánh dấu, rồi trả lại nơi ban đầu. Sau đó, đa số các huyện thành phố phiên bản chính thức thêm tiêm chủng, trở thành **TNvR** (thêm một chữ v là Vaccinate). Logic rất đơn giản: bạn không thể giết hết được, vậy hãy để chúng không sinh sản. Một thế hệ, hai thế hệ, ba thế hệ sau, số lượng sẽ tự nhiên giảm.
+TNR là viết tắt của Trap (Bẫy), Neuter (Triệt sản) và Return (Thả về): Bắt động vật đi lạc, triệt sản, cắt tai làm dấu hiệu, rồi thả chúng về nơi cũ. Sau này, phiên bản chính thức của hầu hết các huyện thành đã bổ sung thêm việc tiêm chủng, trở thành **TNvR** (chữ v viết tắt cho Vaccinate — Tiêm chủng). Logic rất đơn giản: Nếu bạn không thể tiêu diệt hết chúng, hãy khiến chúng không còn khả năng sinh sản nữa. Sau một thế hệ, hai thế hệ, rồi ba thế hệ, số lượng sẽ tự nhiên giảm xuống.
 
-![Một con mèo vằn hoang dã được chụp cận cảnh, tai trái có phần mũi bị cắt thành một tam giác nhỏ như dấu hiệu đã triệt sản, nền là môi trường đường phố mờ mờ](/article-images/society/tnr-cat-clipped-ear-2016.webp)
-_Mèo hoang đã hoàn thành phẫu thuật TNR sẽ bị cắt mũi tai một bên để đánh dấu, dấu cắt tai này cho phép tình nguyện viên và cán bộ bảo vệ động vật phân biệt từ xa "con này đã triệt sản rồi", tránh bắt lại nhiều lần. Photo: Yu Tae-wook, 2016. [Giấy phép qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
+![Cận cảnh một chú mèo mướp đi lạc đã được cắt tai, phần đỉnh tai trái bị cắt mất một hình tam giác nhỏ để làm dấu hiệu đã triệt sản, bối cảnh là môi trường đường phố mờ ảo](/article-images/society/tnr-cat-clipped-ear-2016.webp)
+_Những con mèo đi lạc sau khi hoàn tất phẫu thuật TNR sẽ được cắt một phần đỉnh tai để làm dấu hiệu. Ký hiệu cắt tai này giúp các tình nguyện viên và nhân viên bảo vệ động vật có thể phân biệt từ xa rằng "con này đã triệt sản rồi", nhằm tránh việc bắt lại lần nữa. Photo: Yu Tae-wook, 2016. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
 
-TNR ở Đài Loan lúc đầu được những tổ chức bảo vệ động vật dân sự tự phát thúc đẩy, chênh vênh ở vùng xám pháp luật. Sau khi sửa đổi Luật bảo vệ động vật năm 2015, TNR cuối cùng cũng được chính thức đưa vào công cụ chính sách[^4]. Các chính quyền huyện thành phố bắt đầu lập dự toán, phối hợp với những tổ chức bảo vệ động vật thực hiện TNR quy mô lớn.
+Chương trình TNR tại Đài Loan ban đầu được thúc đẩy tự phát bởi các tổ chức bảo vệ động vật dân sự, hoạt động trong vùng xám của pháp luật. Sau khi 《Luật Bảo vệ Động vật》 được sửa đổi vào năm 2015, TNR cuối cùng đã chính thức được đưa vào như một công cụ chính sách[^4]. Chính quyền các huyện thành bắt đầu lập ngân sách và hợp tác với các tổ chức bảo vệ động vật để thực hiện các chiến dịch TNR quy mô lớn.
 
-### Quy tắc giang hồ của mèo chó cộng đồng
+### Quy tắc ngầm của chó mèo trong cộng đồng
 
-Phía sau TNR là một hệ thống quản lý sinh thái cộng đồng hoàn chỉnh, phẫu thuật chỉ là bước đầu.
+Đằng sau TNR là cả một hệ thống quản lý sinh thái cộng đồng, mà phẫu thuật chỉ là điểm khởi đầu.
 
-Ở nhiều cộng đồng Đài Loan, đều có những người gọi là "người cho ăn", tức là những cư dân cố định cho ăn động vật hoang dã. Mỗi ngày họ ở một thời gian cố định, một địa điểm cố định để bày thức ăn. Giữa những người cho ăn này và những tình nguyện viên làm TNR có một hệ thống hợp tác không chính thức nhưng đã hoạt động từ lâu:
+Tại rất nhiều khu dân cư ở Đài Loan, luôn có những người được gọi là "người cho ăn" (feeding person), tức là những cư dân cố định việc cung cấp thức ăn cho động vật đi lạc. Họ đặt thức ăn vào những khung giờ và địa điểm cố định mỗi ngày. Giữa những người cho ăn này và các tình nguyện viên làm TNR có một hệ thống hợp tác không chính thức nhưng đã vận hành từ lâu:
 
-- Người cho ăn chịu trách nhiệm quan sát, phát hiện mặt mới thì báo cáo
-- Tình nguyện viên mang lồng bẫy đi bắt, gửi đi triệt sản
-- Triệt sản xong trả lại, người cho ăn tiếp tục chăm sóc
-- Nếu phù hợp, chụp ảnh đăng online tìm người nhận nuôi
+- Người cho ăn chịu trách nhiệm quan sát, nếu phát hiện khuôn mặt mới sẽ thông báo ngay.
+- Tình nguyện viên mang lồng bẫy đến bắt, sau đó đưa đi triệt sản.
+- Sau khi triệt sản và thả về, người cho ăn tiếp tục chăm sóc chúng.
+- Nếu thấy con nào phù hợp, họ sẽ chụp ảnh đăng lên mạng để tìm người nhận nuôi.
 
-Hệ thống này không có bất cứ tài liệu chính thức nào, nhưng vẫn mặc mò hoạt động ở vô số cộng đồng Đài Loan, lực lượng thúc đẩy đến từ mỗi "tấm lòng thương của cô chú".
-
----
+Hệ thống này không hề có bất kỳ văn bản chính thức nào, nhưng lại đang âm thầm vận hành trong vô số cộng đồng tại Đài Loan, với động lực đến từ "sự không nỡ của các dì".
 
 ## Sau chính sách không tiêm thuốc độc: Vấn đề mới bắt đầu
 
@@ -452,51 +450,51 @@ Những vấn đề phức tạp không có câu trả lời đơn giản. Nhưn
 
 ---
 
-## Tất cả ảnh
+## Nguồn ảnh
 
-Bài viết sử dụng 4 ảnh công cộng / CC license, toàn bộ cache ở `public/article-images/society/` để tránh hot link đến server nguồn:
+Bài viết này sử dụng 4 hình ảnh thuộc phạm vi công cộng / được cấp phép CC, tất cả đã được lưu vào bộ nhớ đệm tại `public/article-images/society/` để tránh việc liên kết trực tiếp (hotlinking) tới máy chủ nguồn:
 
-- [Mẫu vật mèo rừng Trung Hoa](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Photo: Qiū Sōng, 2026-02-15, CC0 1.0 Public Domain, Bảo tàng Quốc gia Đài Loan lưu trữ mẫu vật mèo rừng
-- [Mèo hoang sau hoàn thành cắt tai TNR](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Photo: Yu Tae-wook, 2016-11-18 (cắt ngắn 2021-06-18), CC0 1.0 Public Domain
-- [Ảnh gấu đen Đài Loan từ phía trước](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Photo: smartneddy, 2007-08-05, CC BY-SA 3.0
-- [Đỉnh Ngọc Sơn](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Photo: PirateTseng, 2024-10-29, CC BY-SA 4.0
+- [Mẫu vật hổ đá Trung Hoa](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Ảnh: Khâu Thoa (Chiu Hua), 15-02-2026, CC0 1.0 thuộc phạm vi công cộng, mẫu vật hổ đá Trung Hoa lưu trữ tại Bảo tàng Quốc gia Đài Loan
+- [Mèo hoang đã thực hiện TNR và cắt tai](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Ảnh: Yu Tae-wook, 18-11-2016 (cắt vào 18-06-2021), CC0 1.0 thuộc phạm vi công cộng
+- [Ảnh chính diện gấu đen Đài Loan](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Ảnh: smartneddy, 05-08-2007, CC BY-SA 3.0
+- [Đỉnh Yushan (Ngọc Sơn)](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Ảnh: PirateTseng, 29-10-2024, CC BY-SA 4.0
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [Mạng lưới thông tin bảo vệ động vật Bộ Nông nghiệp — Giải thích chính sách không tiêm thuốc độc](https://animal.moa.gov.tw/) — Giải thích chính thức của chính phủ Đài Loan về chính sách không tiêm thuốc độc năm 2017, bao gồm bối cảnh sửa đổi Luật bảo vệ động vật Điều 12 và các biện pháp đi kèm.
+[^1]: [Mạng thông tin bảo vệ động vật thuộc Bộ Nông nghiệp — Giải thích về chính sách không tiêu hủy](https://animal.moa.gov.tw/) — Giải thích chính thức về chính sách không tiêu hủy được Đài Loan thực hiện từ năm 2017, bao gồm bối cảnh sửa đổi Điều 12 của Luật Bảo vệ Động vật và các biện pháp hỗ trợ đi kèm.
 
-[^2]: [Bộ Nông nghiệp — Báo cáo điều tra quần thể chó hoang toàn quốc năm 111](https://www.moa.gov.tw/) — Kết quả điều tra lấy mẫu năm 2022: ước tính toàn Đài Loan khoảng 159.697 con chó hoang, đó là lần thống kê quy mô lớn chính thức mới nhất của vấn đề này.
+[^2]: [Bộ Nông nghiệp — Báo cáo điều tra quần thể chó đi lạc toàn quốc năm 111 (2022)](https://www.moa.gov.tw/) — Kết quả khảo sát lấy mẫu toàn quốc năm 2022: Ước tính có 159.697 con chó đi lạc trên toàn Đài Loan, đây là thống kê chính thức quy mô lớn mới nhất về vấn đề này.
 
-[^3]: [Twelve Nights — Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — ) — )) — Bộ phim tài liệu năm 2013 do Raye thực hiện, Cửu Ba Dao sản xuất, ghi lại 12 ngày đếm ngược của chó hoang ở nơi trú ẩn, trực tiếp thúc đẩy sửa đổi luật năm 2015
+[^3]: [《Twelve Nights》— Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Bộ phim tài liệu do Raye đạo diễn và Cửu Phách Đao (Gua Ba Dao) giám chế năm 2013, ghi lại câu chuyện đếm ngược 12 ngày của những chú chó lang thang trong trại cứu trợ, trực tiếp thúc đẩy việc sửa đổi Luật Bảo vệ Động vật vào năm 2015.
 
-[^4]: [Cơ sở dữ liệu pháp luật quốc gia — Luật bảo vệ động vật (sửa đổi năm 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Luật bảo vệ động vật sửa đổi thông qua ba lần ngày 23 tháng 1 năm 2015, Điều 12 quy định rõ ràng từ năm 2017 nơi trú ẩn công cộng dừng xử lý nhân đạo (tiêm thuốc độc).
+[^4]: [Cơ sở dữ liệu quy định pháp luật toàn quốc — Luật Bảo vệ Động vật (sửa đổi năm 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Dự thảo sửa đổi Luật Bảo vệ Động vật được thông qua tại phiên đọc thứ ba vào ngày 23 tháng 1 năm 2015, Điều 12 quy định rõ các trại cứu trợ công lập phải ngừng việc xử lý nhân đạo (tiêu hủy) từ năm 2017.
 
-[^5]: [Thông báo Hiệp hội chăm sóc chó hoang Nam Đầu](https://www.east.org.tw/) — Được trích dẫn bởi Tổ chức Nghiên cứu Xã hội Động vật, tình trạng quá tải lâu dài của nơi trú ẩn Nam Đầu, việc dừng tiếp nhận chó mèo mới đã thường lệ, tiết lộ những khó khăn sức chứa sau chính sách không tiêm thuốc độc.
+[^5]: [Tuyên bố của Hiệp hội Chăm sóc Chó lang thang huyện Nam Đầu](https://www.east.org.tw/) — Được Hội Nghiên cứu Xã hội Động vật trích dẫn, phản ánh thực trạng trại cứu trợ Nam Đầu thường xuyên quá tải và việc ngừng tiếp nhận chó mèo mới một cách thường xuyên, hé lộ khó khăn về năng lực tiếp nhận sau khi áp dụng chính sách không tiêu hủy.
 
-[^6]: [Mạng lưới thông tin bảo vệ động vật Bộ Nông nghiệp — Đánh giá trường học cấp cao về chó trường](https://animal.moa.gov.tw/) — Việc Bộ Giáo dục và Bộ Nông nghiệp (nay Bộ Nông nghiệp) chung sức thúc đẩy đánh giá giáo dục sự sống ở trường, khoảng 700+ trường có chó trường hoặc mèo trường.
+[^6]: [Mạng thông tin bảo vệ động vật thuộc Bộ Nông nghiệp — Bình chọn khuôn viên trường học có chó cảnh mẫu](https://animal.moa.gov.tw/) — Chương trình bình chọn giáo dục sự sống tại học đường do Bộ Giáo dục và Ủy ban Nông nghiệp (nay là Bộ Nông nghiệp) cùng thúc đẩy, với hơn 700 trường học trên toàn Đài Loan có chó hoặc mèo của trường.
 
-[^7]: [Wuo Wuo WuoWuo — Chủ đề về mối đe dọa bị đánh giá thấp · Chó giết mèo rừng](https://wuo-wuo.com/topics/widlife/dogkill) — Loạt báo cáo sâu sắc năm 2023 của Wuo Wuo, tổng hợp dữ liệu theo dõi của Viện Đa dạng sinh học Bộ Nông nghiệp, phỏng vấn học giả (Lâm Dục Tú, Trần Trinh Chỉ, Trần Mỹ Đính, Trương Tuấn Nghĩa, Trương Dũng Hào, v.v.), bao gồm những trường hợp cụ thể của Mùa Thu anh, An Ba anh, Tây Hồ anh, Vĩnh anh cùng năng lực thực thi pháp luật ở Miêu Lật.
+[^7]: [WuoWuo — Mối đe dọa bị đánh giá thấp: Chuyên đề về mối nguy từ chó đối với hổ vằn (mèo rừng)](https://wuo-wuo.com/topics/widlife/dogkill) — Loạt báo cáo chuyên sâu năm 2023 của WuoWuo, tổng hợp dữ liệu theo dõi từ Cục Đa dạng Sinh học thuộc Bộ Nông nghiệp và các cuộc phỏng vấn học giả (Lâm Dục Tú, Trần Trinh Chí, Trần Mỹ Đinh, Trương Tuấn Nghĩa, Trương Nghị Hào, v.v.), bao gồm các trường hợp cụ thể của Thu Ca, An Bá, Tây Hồ Ca, Vĩnh Ca và năng lực thực thi pháp luật tại Miêu Lật.
 
-[^8]: [PanSci Tinh Khoa Học — Vấn đề chó mèo hoang phức tạp ở đâu? Chúng ta có thể cứu chó mèo hoang và động vật hoang dã có nguy cơ tuyệt chủng không?](https://pansci.asia/archives/371491) — Báo cáo sâu sắc 7.114 chữ ngày 12 tháng 11 năm 2023 của PanSci, § Cái chết của mèo rừng, § 91% hoạt động, § TNR không là liều thuốc thần kỳ, § Tam giác chính sách, § Bài toán xe điện đều là tham chiếu cốt lõi. Trích dẫn này được phép theo MOU Taiwan.md × PanSci Content Curation 2026-05-05, bao gồm trích dẫn verbatim trực tiếp.
+[^8]: [PanSci — Sự phức tạp của vấn đề chó mèo lang thang nằm ở đâu? Làm thế nào để chúng ta cứu giúp chó mèo lang thang và động vật hoang dã đang gặp nguy hiểm?](https://pansci.asia/archives/371491) — Bài báo chuyên sâu dài 7.114 chữ đăng trên PanSci ngày 12 tháng 11 năm 2023, là tài liệu tham khảo cốt lõi cho các phần §Cái chết của hổ vằn, §91% điểm hoạt động, §TNR không phải là vạn năng, §Tam giác chính sách, §Nan đề tàu điện ngầm. Trích dẫn này được ủy quyền theo MOU giữa Taiwan.md × PanSci Content Curation 2026-05-05, bao gồm cả các trích dẫn nguyên văn trực tiếp.
 
-[^9]: [Nghiên cứu Trần Trinh Chỉ, Đại học Bình Đông — Đánh giá tác động của chó đến quần thể mèo rừng](https://wuo-wuo.com/topics/widlife/dogkill) — Được trích dẫn bởi chủ đề Wuo Wuo, nội dung nghiên cứu bao gồm tỷ lệ dương tính virus parvovirus (còn sống 30,6% / xác chết 59,2%), sau khi nhiễm bệnh nguy cơ bị xe cán tăng 25 lần, động lực quần thể chó 52,9% cá thể chỉ xuất hiện một kỳ rồi biến mất hoặc chết.
+[^9]: [Nghiên cứu của Trần Trinh Chí thuộc Đại học Khoa học Kỹ thuật Bính Đông — Đánh giá ảnh hưởng của chó đối với quần thể hổ vằn](https://wuo-wuo.com/topics/widlife/dogkill) — Được trích dẫn từ chuyên đề của WuoWuo, nội dung nghiên cứu bao gồm các phát hiện cốt lõi như tỷ lệ dương tính với virus Parvovirus ở chó (30,6% trên cơ thể sống / 59,2% trên xác chết), nguy cơ bị xe cán tăng gấp 25 lần sau khi nhiễm bệnh, và 52,9% cá thể trong quần thể chó biến mất trong một giai đoạn.
 
-[^10]: [Điều tra máy ảnh tự động Hiệp hội bảo tồn mèo rừng Đài Loan](https://www.facebook.com/LeopardCatTaiwan/) — Được trích dẫn bởi chủ đề Wuo Wuo, kết quả điều tra mạng máy ảnh tự động, những điểm hoạt động có mèo rừng 91% đều cùng lúc ghi được chó hoang, chỉ 9% điểm là an toàn.
+[^10]: [Khảo sát bằng camera tự động của Hiệp hội Bảo tồn Hổ vằn Đài Loan](https://www.facebook.com/LeopardCatTaiwan/) — Kết quả khảo sát mạng lưới camera tự động được trích dẫn từ chuyên đề của WuoWuo, cho thấy 91% các điểm hoạt động có ghi hình hổ vằn cũng đồng thời ghi hình thấy chó đi lạc, chỉ có 9% là điểm an toàn.
 
-[^11]: [Thông tấn Trung ương — Cục Lâm nghiệp: Số gấu đen tăng, quần thể không còn nguy cơ tuyệt chủng](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Thông báo ngày 23 tháng 4 năm 2025 của Cục Lâm nghiệp và Bảo tồn Thiên nhiên Bộ Nông nghiệp, số lượng gấu đen Đài Loan "so với 20 năm trước đã tăng gấp lần", tần suất xuất hiện ở độ cao dưới 1.200 mét rõ ràng tăng.
+[^11]: [CNA — Cục Lâm nghiệp và Bảo tồn Thiên nhiên: Số lượng gấu đen Đài Loan tăng lên, quần thể không còn nguy cơ tuyệt chủng](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Tuyên bố ngày 23 tháng 4 năm 2025 của Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp, cho biết số lượng quần thể gấu đen Đài Loan đã "tăng gấp nhiều lần so với 20 năm trước", tần suất xuất hiện dưới độ cao 1.200 mét tăng lên rõ rệt.
 
-[^12]: [Trung tâm Nghiên cứu Trung ương — Danh lục loài Đài Loan TaiBNET](https://taibnet.sinica.edu.tw/) — Cập nhật năm 2022 bởi Trung tâm Nghiên cứu Trung ương, chính thức thay đổi chó mèo từ "loài ngoại lai" thành "loài xâm lược ngoại lai", là lần đầu tiên hệ thống phân loại chính thức Đài Loan liệt kê động vật cưng vào loại xâm lược.
+[^12]: [Viện Nghiên cứu Trung ương — Danh lục loài Đài Loan TaiBNET](https://taibnet.sinica.edu.tw/) — Được Viện Nghiên cứu Trung ương cập nhật năm 2022, chính thức thay đổi phân loại chó mèo từ "loài ngoại lai" sang "loài xâm lấn ngoại lai", đây là lần đầu tiên hệ thống phân loại chính thức của Đài Loan đưa động vật đồng hành vào danh mục loài xâm lấn.
 
-[^13]: [Sự kiện Tiền Trị Thanh Báo cáo — Tổ chức Nghiên cứu Xã hội Động vật](https://www.east.org.tw/) — Sự kiện Tiền Trị Thanh tháng 5 năm 2016 ở Vườn Giáo dục bảo vệ động vật Tân Ngự, tiết lộ tổn thương tâm lý lâu dài của nhân viên nơi trú ẩn, xúc tác nguồn tài nguyên tư vấn tâm lý cho bác sĩ thú y nơi trú ẩn.
+[^13]: [Báo cáo về sự việc Giản Trĩ Trừng — Hội Nghiên cứu Xã hội Động vật](https://www.east.org.tw/) — Sự việc bác sĩ thú y Giản Trĩ Trừng tại Khu bảo tồn động vật Tân Ô vào tháng 5 năm 2016 đã phơi bày những tổn thương tâm lý kéo dài mà nhân viên trại cứu trợ phải chịu đựng, thúc đẩy việc thiết lập chế độ tư vấn tâm lý cho bác sĩ thú y tại các trại cứu trợ.
 
-[^14]: [Doherty et al. (2017), "Những tác động toàn cầu của chó nhà đối với các loài động vật có xương sống bị đe dọa," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Văn bản tạp chí quốc tế gốc, chó hoang đã được liệt kê vào số 188 loài động vật có nguy cơ tuyệt chủng toàn cầu có nguồn gốc đe dọa chính, là nguồn học thuật gốc được PanSci trích dẫn.
+[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Nguyên văn từ tạp chí quốc tế, chó đi lạc đã được liệt kê là nguồn đe dọa chính đối với ít nhất 188 loài động vật có xương sống đang đứng trước nguy cơ tuyệt chủng trên toàn cầu; đây là nguồn học thuật gốc mà PanSci trích dẫn trong bài này.
 
-[^15]: [Yen et al. (2019), "Thú cưng và dịch bệnh: Phân tích tổng hợp ảnh hưởng của chó hoang tự do đến quần thể động vật hoang dã," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Nghiên cứu do Nhan Sĩ Thanh, v.v. công bố trên Scientific Reports về ảnh hưởng của chó hoang đối với đa dạng sinh học động vật hoang dã ở Đại Đài Bắc (bao gồm Công viên Quốc gia Dương Minh).
+[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Nghiên cứu của Nhan Sĩ Thanh và cộng sự công bố trên Scientific Reports về ảnh hưởng của chó đi lạc đối với đa dạng sinh học động vật hoang dã tại khu vực Đại Đài Bắc (bao gồm Công viên Quốc gia Dương Minh Sơn).
 
-[^16]: [Mạng lưới chính thức Tổ chức Nghiên cứu Xã hội Động vật](https://www.east.org.tw/) — Những luận điểm lập trường về TNR / TNvR và trách nhiệm chủ nuôi nguồn gốc của Trần Ngọc Tế (phó chủ tịch điều hành), v.v., chủ trương chính sách nên quay trở lại quản lý chủ nuôi hơn loại bỏ điểm nóng.
+[^16]: [Trang web chính thức của Hội Nghiên cứu Xã hội Động vật Đài Loan](https://www.east.org.tw/) — Quan điểm luận thuyết của Trần Ngọc Mẫn (Phó Giám đốc điều hành) và các cộng sự về TNR / TNvR cũng như trách nhiệm từ phía chủ nuôi, khẳng định chính sách nên tập trung vào quản lý chủ nuôi thay vì chỉ loại bỏ tại các điểm nóng.
 
-[^17]: [Mạng lưới thông tin bảo vệ động vật — Chủ đề chuyên đề văn hóa nhận nuôi miks](https://animal.moa.gov.tw/) — Chính sách bảo vệ động vật đối với văn hóa nhận nuôi chó lai/miks, tài nguyên giáo dục xã hội chính sách bảo vệ động vật.
+[^17]: [Mạng thông tin bảo vệ động vật — Chuyên đề về văn hóa nhận nuôi chó lai (Mix)](https://animal.moa.gov.tw/) — Tổng hợp các nguồn lực giáo dục xã hội và thúc đẩy chính sách của Đài Loan đối với văn hóa nhận nuôi chó lai/chó Mix.
 
-[^18]: [Bộ Giáo dục — Dự án bảo vệ động vật ở trường](https://animal.moa.gov.tw/) — Cơ sở pháp lý chính sách chó trường hoặc mèo trường khoảng 700 trường ở toàn quốc, từ năm 2019 trở đi tổ chức "đánh giá trường học cấp cao về chó trường".
+[^18]: [Bộ Giáo dục — Phương án bảo vệ động vật trong học đường](https://animal.moa.gov.tw/) — Căn cứ chính sách cho chó và mèo của hơn 700 trường học trên toàn Đài Loan, việc bình chọn "Khuôn viên trường học có chó cảnh mẫu" được thực hiện từ năm 2019.

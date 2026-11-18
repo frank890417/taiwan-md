@@ -24,11 +24,13 @@ image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:067149f437c5a573'
 sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-18T08:08:26.737574+00:00'
 ---
 
 ![Katalin Karikó và Drew Weissman, phòng khách nước kế bên bảng hình nền, Karikó mặc áo choàng đỏ, Weissman mặc vest tối](/article-images/society/kariko-weissman-life-science-2022.webp)
