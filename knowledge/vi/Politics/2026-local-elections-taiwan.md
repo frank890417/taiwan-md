@@ -20,20 +20,31 @@ lastVerified: 2026-07-10
 lastHumanReview: false
 readingTime: 18
 updateLog:
-  [
-    "{'date': '2026-07-10', 'changes': '選前四個半月全文事實刷新：時程表對齊中選會第 622 次委員會議決議（登記 8/31-9/4、補 11/12・11/17 與 12/4 節點、投票時間改以公告為準）、直轄市長屆次更正（第 9 屆）、韓國瑜罷免年份更正（2020）、民調禁令更正為投票日前十日；§三 補查察建制化（最高檢執行小組、北檢深偽中心、Polymarket 首宗偵結）與 6-7 月實際攻擊型態（假快訊洗版、假帳號養號、淺層偽造）；§四 藍白機制三場整合民調運轉結果；§九 重寫為「已發生/將發生」，補公投綁大選回歸、原住民移轉投票、選罷法第 26 條三個制度新變數；+15 新腳註'}",
-  ]
+  - date: '2026-07-10'
+    changes: '選前四個半月全文事實刷新：時程表對齊中選會第 622 次委員會議決議（登記 8/31-9/4、補 11/12・11/17 與 12/4 節點、投票時間改以公告為準）、直轄市長屆次更正（第 9 屆）、韓國瑜罷免年份更正（2020）、民調禁令更正為投票日前十日；§三 補查察建制化（最高檢執行小組、北檢深偽中心、Polymarket 首宗偵結）與 6-7 月實際攻擊型態（假快訊洗版、假帳號養號、淺層偽造）；§四 藍白機制三場整合民調運轉結果；§九 重寫為「已發生/將發生」，補公投綁大選回歸、原住民移轉投票、選罷法第 26 條三個制度新變數；+15 新腳註'
 datasets:
-  [
-    "{'id': '27491', 'name': '選舉人數', 'url': 'https://data.gov.tw/dataset/27491', 'agency': '中央選舉委員會', 'update_freq': '每4年', 'why': '文中 1.1 萬個席次由多少選舉人選出，歷屆母體統計', 'verified': datetime.date(2026, 6, 10)}",
-    "{'id': '15035', 'name': '地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數(統計)', 'url': 'https://data.gov.tw/dataset/15035', 'agency': '法務部統計處', 'update_freq': '每1月', 'why': '查察四大重點中賄選與介選兩項的歷年裁判結果，檢方查察強度量化面', 'verified': datetime.date(2026, 6, 10)}",
-  ]
+  - id: '27491'
+    name: '選舉人數'
+    url: 'https://data.gov.tw/dataset/27491'
+    agency: '中央選舉委員會'
+    update_freq: '每4年'
+    why: '文中 1.1 萬個席次由多少選舉人選出，歷屆母體統計'
+    verified: 2026-06-10
+  - id: '15035'
+    name: '地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數(統計)'
+    url: 'https://data.gov.tw/dataset/15035'
+    agency: '法務部統計處'
+    update_freq: '每1月'
+    why: '查察四大重點中賄選與介選兩項的歷年裁判結果，檢方查察強度量化面'
+    verified: 2026-06-10
 relatedDiary: ['2026-07-10-224934-elections-refresh']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/2026 九合一選舉.md'
-sourceCommitSha: '2cbb7955c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0598c68f67d9dae4'
 sourceBodyHash: 'sha256:a62248f87fd69728'
-translatedAt: '2026-07-28T08:16:22+08:00'
+translatedAt: '2026-11-18T05:05:13.782815+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Vào ngày 28 tháng 11 năm 2026, cùng ngày, toàn bộ đảo quốc gia Đài Loan bầu chọn chín vị trí công chứng, khoảng 11.000 trực thuộc — bảy năm sau lần đầu tiên bầu chọn thị trưởng thành phố trực thuộc năm 1994, 13 trong 22 tỉnh thành sẽ có thay đổi. Khác biệt không nằm ở các ứng cử viên — mà ở môi trường xung quanh: công nghiệp hóa chiến tranh nhận thức AI cấp quốc gia của Trung Quốc, các cơ quan điều tra đưa thông tin giả vào đợt xét xử hàng năm trước dự kiến bầu cử, và khả năng gắn kết với tranh luận công cộng. Bài viết này không phải là bản tóm tắt bầu cử — mà là phân tích vị trí lịch sử và áp lực cấu trúc của cuộc bầu cử năm 2026.
