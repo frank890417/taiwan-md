@@ -20,15 +20,21 @@ lastHumanReview: false
 image: '/article-images/technology/miin-homepage-2026.webp'
 imageCredit: '迷音 Miin 官方網站（miin.cc）首頁截圖'
 sporeLinks:
-  [
-    "{'id': 142, 'platform': 'threads', 'date': '2026-06-16', 'url': 'https://www.threads.com/@taiwandotmd/post/DZnPRd1k-F4'}",
-    "{'id': 143, 'platform': 'x', 'date': '2026-06-16', 'url': 'https://x.com/taiwandotmd/status/2066559522156748815'}",
-  ]
+  - id: 142
+    platform: 'threads'
+    date: '2026-06-16'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZnPRd1k-F4'
+  - id: 143
+    platform: 'x'
+    date: '2026-06-16'
+    url: 'https://x.com/taiwandotmd/status/2066559522156748815'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/迷音Miin.md'
-sourceCommitSha: 'ce36d5427'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:e317c3018b82f2b6'
 sourceBodyHash: 'sha256:bbf79206e74e0a59'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-18T16:54:43.409569+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Juni 2026 rief eine Gruppe taiwanesischer Nutzer auf Threads zur Nutzung von „Miin“ auf, der Beitrag sammelte über 3.000 Likes. Miin ist eine Open-Source-Plattform, die von [[PTT批踢踢]] Gründer [Ethan Tu](/de/people/ethan-tu/) geleitet wird und auf „freie Stimmen“ setzt. Mit KI identifiziert es koordinierte Konten im [[認知作戰]], und zwar auf eine überraschende Weise: Nicht die Richtigkeit von Nachrichten wird geprüft, sondern erkannt, welche Konten gerade erst aktiv wurden, als eine Pressekonferenz begann. Im Jahr 2025 wurde Miin jedoch verklagt, weil es ohne Genehmigung mehr als 250 Nachrichten von NextApple verwendete. Einer, der PTT gründete und gegen Zensur eintrat, entwickelte nun ein Tool zur Erkennung von Manipulation – und wurde wegen der Aggregierung fremder Nachrichten verklagt. Dieselbe Überzeugung – „Informationsfreiheit“ – war sein Glaubenssatz, ist es noch heute und wird nun zum Gegenstand eines Gerichtsverfahrens.

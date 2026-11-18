@@ -24,14 +24,17 @@ imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg'
 readingTime: 16
 sporeLinks:
-  [
-    "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
-  ]
+  - id: 70
+    platform: 'threads'
+    date: '2026-05-10'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
-translatedAt: '2026-09-12T16:22:12+08:00'
+translatedAt: '2026-11-18T16:55:59.895310+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwans Drohnenindustrie erlebt eine von Geopolitik angetriebene Explosion. Das Verteidigungsministerium plant, 5 Milliarden taiwanesische Dollar für rund 50.000 militärische Drohnen zu investieren; die Drohnen sind eines der zentralen Projekte im 1,25 Billionen NT$-Sonderbudget des Regierungsrates. Thunder Tiger wurde das erste taiwanesische Unternehmen, das die US-Blaue-Liste (Blue UAS) erfolgreich abgeschlossen hat. Von der Felddüngung bis zur Schlachtfeldaufklärung wandelt sich Taiwans Drohnenindustrie vom „Auftragsfertiger“ zum „selbstständigen Verteidiger“ und versucht, nach dem Halbleiter der nächste strategische Sektor zu werden.

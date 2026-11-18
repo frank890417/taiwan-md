@@ -18,15 +18,27 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 datasets:
-  [
-    "{'id': '10918', 'name': '攤販經營概況調查', 'url': 'https://data.gov.tw/dataset/10918', 'agency': '行政院主計總處', 'update_freq': '每5年', 'why': '文中 23.3 萬攤、35.7 萬從業人員、3,954 億營收的源頭普查', 'verified': datetime.date(2026, 6, 10)}",
-    "{'id': '85028', 'name': '臺中市列管夜市', 'url': 'https://data.gov.tw/dataset/85028', 'agency': '臺中市政府經濟發展局', 'update_freq': '不定期更新', 'why': '「理論上不該存在的商業模式」被政府列管成正式清單的城市切片', 'verified': datetime.date(2026, 6, 10)}",
-  ]
+  - id: '10918'
+    name: '攤販經營概況調查'
+    url: 'https://data.gov.tw/dataset/10918'
+    agency: '行政院主計總處'
+    update_freq: '每5年'
+    why: '文中 23.3 萬攤、35.7 萬從業人員、3,954 億營收的源頭普查'
+    verified: 2026-06-10
+  - id: '85028'
+    name: '臺中市列管夜市'
+    url: 'https://data.gov.tw/dataset/85028'
+    agency: '臺中市政府經濟發展局'
+    update_freq: '不定期更新'
+    why: '「理論上不該存在的商業模式」被政府列管成正式清單的城市切片'
+    verified: 2026-06-10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: '7678a430b'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-18T16:47:39.322444+00:00'
 ---
 
 > Jeden Abend um sechs Uhr leuchten 233.000 Stände in Taiwan gleichzeitig auf. Ohne eine einheitliche Marke, ohne luxuriöse Dekoration und selbst ohne feste Standorte schaffen diese scheinbar „unprofessionellen“ kleinen Stände jährlich einen Umsatz von fast 400 Milliarden Tael (NTD) und ernähren 470.000 Familien. Dies ist das seltsamste Geschäftsmodell der Welt und eines der erfolgreichsten Wirtschaftsexperimente Taiwans.

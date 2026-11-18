@@ -21,11 +21,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：義美食品.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:fd10cef889ef4781'
 sourceBodyHash: 'sha256:3df603cf09cf4177'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T16:25:45.617748+00:00'
 ---
 
 > **30-Sekunden-Überblick:** I-Mei Food, ein taiwanesisches Traditionsunternehmen, das 1934 gegründet wurde, hat nicht nur die sozialen Veränderungen Taiwans erlebt, sondern hat in mehreren Lebensmitteleinbußekrisen dank seiner „ehrlichen Mensch“-Philosophie und seiner „Laborstrategie, die nur als letzte Option genutzt wird“, den Beinamen „das Gewissen der Lebensmittelindustrie“ verdient. In diesem Artikel wird untersucht, wie I-Mei vom historischen Startpunkt in Dadaocheng durch seine einzigartige Vertriebsstrategie, die Ehrung des Geistes von Chiang Wei-shui, den Selbstaufbau seines Labors und die Expansion in die Roboterindustrie eine vielfältige Marke aufgebaut hat und dabei das Gleichgewicht zwischen Markenmythos und realen Herausforderungen sucht.

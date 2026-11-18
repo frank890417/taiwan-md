@@ -17,11 +17,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：緯創資通.md'
-sourceCommitSha: 'ccee078ef'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:a7fa219e195d7594'
 sourceBodyHash: 'sha256:ea0e1cf2dc2589bd'
-translatedAt: '2026-09-12T04:55:06+08:00'
+translatedAt: '2026-11-18T17:10:02.316146+00:00'
 ---
 
 > **30-Sekunden-Überblick**

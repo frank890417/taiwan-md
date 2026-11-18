@@ -18,11 +18,13 @@ lastVerified: 2026-07-22
 lastHumanReview: false
 readingTime: 28
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/NET.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-18T17:07:20.884589+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Die taiwanesische Modemarke NET (Zhufu Apparel) entstand aus „Hausfrauen-Märkten“ der 1960er Jahre und wurde von ihrem Gründer Huang Teng-lung transformiert, um bis heute zu bestehen, nachdem internationale Giganten wie Uniqlo und Zara auf Taiwan eingedrungen waren. Was NET am meisten bekannt machte, war nicht ihr Designgefühl, sondern ihre unaufdringliche, aber tiefgreifende soziale Verantwortung – die 15 Jahre lang „geschlossene Kleiderabholung“ für benachteiligte Kinder. Doch dieses bisher zurückhaltende Unternehmen geriet kürzlich in einen Eigentumsstreit mit der Regierung bezüglich Keelung East Coast Plaza und zeigte damit seinen Charakter von „sanfter Hartnäckigkeit“.
