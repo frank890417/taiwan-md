@@ -2,9 +2,7 @@
 title: 'A indústria taiwanesa de instrumentos musicais: mãos de Taiwan nos sons do mundo'
 description: 'No fim da década de 1940, o restaurador de pinturas Chang Lien-chang desmontou, ao lado de um local incendiado em Houli, um saxofone japonês enegrecido pelo fogo e soldou o primeiro instrumento de metal de Taiwan; mais tarde, os Jupiter das bandas escolares, os quatro milhões de violões da linha de Nanzih e os pentes musicais de Wufeng que tilintam nas lojas de Otaru passaram, todos, pelas mãos de taiwaneses. A memória dessa cadeia produtiva sonora merece ser preservada mais do que percentuais heroicos usados em disputas.'
 date: 2026-07-17
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '樂器與製造'
 tags:
   [
     'fabricação de instrumentos musicais',
@@ -17,19 +15,28 @@ tags:
     'Taichung',
     'Kaohsiung',
   ]
-readingTime: 22
+subcategory: '樂器與製造'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-07/台灣樂器製造.md'
 image: '/article-images/music/saxophone-craft-object-2017.webp'
 imageCredit: '薩克斯風本體示意 · Wikimedia Commons · CC BY-SA 4.0（非后里特定廠牌實拍）'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg'
+readingTime: 22
+rationale:
+  why_this_hook: '從 salvage 銅的不可替代身體場景切入，讓「隱形供應鏈記憶」先成為可感的物件，再拆英雄數字、展開校隊／楠梓／霧峰三層隱形。'
+  whats_excluded: '電子樂器與二胡古箏長支線；工業4.0／永續空話；兩岸統獨國禮政治化；假 OEM 貼牌清單（Selmer 產線等無釘死源）；假書目四本；「中國搶走」單一因果；失敗論脊椎；1970s 開廠／10萬35%／全國吉他200萬／協櫻1971／日月潭館／Merida吉他／全豐1965／Sankyo百年／Jupiter后里起家。'
+relatedDiary: ['2026-07-17-221115-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: 'b4f3dab6'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5ffbb5b925e1997f'
 sourceBodyHash: 'sha256:cda00c8983ea5b23'
-translatedAt: '2026-07-19T00:28:39+08:00'
+translatedAt: '2026-11-18T08:45:49.131369+00:00'
 ---
 
 # A indústria taiwanesa de instrumentos musicais: mãos de Taiwan nos sons do mundo
@@ -244,7 +251,7 @@ Na próxima vez que você ouvir um saxofone, os metais de uma banda escolar ou u
 
 [^12]: A busca independente desta rodada de pesquisa, na Etapa 1, pelas alegações “Houli produzia cem mil unidades por ano/35% do mundo” e “Taiwan produzia dois milhões de violões por ano” teve resultado negativo, encontrando apenas referências circulares na versão anterior. Ver `reports/research/2026-07/台灣樂器製造.md`, seções sobre salvaguardas contra alucinações e resultados negativos 8.A/8.C.
 
-[^13]: [Taipei Times sobre o saxofone oferecido durante a visita de Clinton, 1º de março de 2005](https://www.taipeitimes.com/News/front/archives/2005/03/01/2003225002) e [descrição do presente LC no acervo digital](https://catalog.digitalarchives.tw/item/00/32/99/86.html) — o jornal confirma que um saxofone foi oferecido durante o jantar; o acervo o identifica como LC/Houli, confirmando por fontes cruzadas o presente oficial de 2005.
+[^13]: [Taipei Times sobre o saxofone oferecido durante a visita de Clinton, 1º de março de 2005](https://www.taipeitimes.com/News/front/archives/2005/03/01/2003225002) — e [descrição do presente LC no acervo digital](https://catalog.digitalarchives.tw/item/00/32/99/86.html) — o jornal confirma que um saxofone foi oferecido durante o jantar; o acervo o identifica como LC/Houli, confirmando por fontes cruzadas o presente oficial de 2005
 
 [^14]: [TaiwanPlus, “Houli: Taiwan’s Home of the Saxophone…”, 2026](https://www.taiwanplus.com/news/taiwan-news/taiwan-culture/260622025/houli-taiwans-home-of-the-saxophone-still-embraces-high-end-craft) — veículo internacional em inglês: cerca de trinta fábricas no auge, aproximadamente quatro atualmente e transição para o artesanato de alto padrão. A metodologia de contagem não foi divulgada e deve ser lida junto dos números intermediários de 2005–2018.
 
@@ -262,7 +269,7 @@ Na próxima vez que você ouvir um saxofone, os metais de uma banda escolar ou u
 
 [^21]: [Apresentação da JUPITER pela KHS](https://www.khsmusic.com.tw/aboutSelf?name=JUPITER) — narrativa empresarial sobre a criação da marca em 1980, presença em 46 países, exportação superior a 120 mil instrumentos em 2005 e posicionamento “entre as três maiores”; o texto atribui essas afirmações à empresa.
 
-[^22]: Entre os textos americanos sobre educação e varejo, o [guia de marcas de instrumentos da HS Music Service](https://www.hsmusicservice.com/t-best-instrument-brands.aspx) inclui a Jupiter entre as opções para bandas escolares. Não há tabela pública precisa de participação de mercado, e a fonte é usada apenas como evidência qualitativa de distribuição.
+[^22]: [guia de marcas de instrumentos da HS Music Service](https://www.hsmusicservice.com/t-best-instrument-brands.aspx) — Entre os textos americanos sobre educação e varejo, oinclui a Jupiter entre as opções para bandas escolares. Não há tabela pública precisa de participação de mercado, e a fonte é usada apenas como evidência qualitativa de distribuição.
 
 [^23]: [Jazzfuel, panorama das melhores marcas de saxofone](https://jazzfuel.com/best-saxophone-brands/) — posicionamento voltado a músicos: a Jupiter é resistente e de manutenção simples, embora sua reputação ainda não tenha alcançado plenamente a Yamaha na mesma categoria; oferece contexto para seu posicionamento relativo.
 
