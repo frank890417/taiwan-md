@@ -2,9 +2,7 @@
 title: '재생의료 이중법 × mRNA 30년: 두 종류의 구명 약물은 어떻게 국가 관리로 편입되었나'
 description: '2023년 Karikó와 Weissman이 노벨상을 받은 날은, 그녀가 펜실베이니아대학교에서 강등된 지 꼭 28년이 되는 때였다. 2021년 9월 2일 BNT 첫 물량 93만 회분이 타오위안공항에 도착한 순간은, 그녀가 1997년 복사기 앞에서 Weissman과 마주친 지 이미 24년이 지난 때였다. 이 글은 「2024년 재생의료 이중법」과 「mRNA 30년의 고초」라는 두 축을 나란히 놓고, 헝가리 이민 여성 과학자의 곰 인형에서 타오위안 과학단지의 클린룸까지, 국가가 완전히 다른 두 종류의 구명 약물, 곧 세포와 분자를 어떻게 관리 체계 안으로 편입하는지 살펴본다.'
 date: 2026-05-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     '재생의료 이중법',
@@ -16,19 +14,23 @@ tags:
     '의료 인권',
     'GMP',
   ]
-readingTime: 22
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:067149f437c5a573'
-sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
-translatedAt: '2026-06-16T17:05:51Z'
+readingTime: 22
 image: '/article-images/society/kariko-weissman-life-science-2022.webp'
 imageCredit: 'Thorne Media'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Drew_Weissman_and_Katalin_Karikó_Life_Science_Medalists.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:067149f437c5a573'
+sourceBodyHash: 'sha256:dcdc7781d0e5eb30'
+translatedAt: '2026-11-18T14:10:56.546037+00:00'
 ---
 
 ![커털린 커리코와 드루 와이스먼이 2022년 Life Science 메달을 공동 수상한 뒤 배경판 앞에서 촬영한 사진. 커리코는 붉은색 정장을, 와이스먼은 짙은색 정장을 입고 있다](/article-images/society/kariko-weissman-life-science-2022.webp)

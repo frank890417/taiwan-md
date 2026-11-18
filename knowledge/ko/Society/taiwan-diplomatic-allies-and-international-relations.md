@@ -19,11 +19,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '9b91d7a61'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:94f577de93fb7be3'
 sourceBodyHash: 'sha256:355c426f46da113d'
-translatedAt: '2026-11-07T02:59:57.136831+00:00'
+translatedAt: '2026-11-18T13:41:30.003832+00:00'
 ---
 
 # 대만의 수교국과 국제 외교: 12개 수교국, 113개 재외 공관, 177개국 무비자

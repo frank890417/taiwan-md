@@ -12,11 +12,13 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/教育制度與升學文化.md'
-sourceCommitSha: '22bfcbc53'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ede91c7ee7539592'
 sourceBodyHash: 'sha256:24778da06af3ffc5'
-translatedAt: '2026-10-15T15:59:45+08:00'
+translatedAt: '2026-11-18T13:23:49.550329+00:00'
 ---
 
 # 교육 제도와 입시 문화
