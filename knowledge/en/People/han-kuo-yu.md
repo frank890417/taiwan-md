@@ -1,14 +1,26 @@
 ---
 title: 'Han Kuo-yu'
-description: 'The first directly elected mayor in ROC constitutional history to be recalled, then became President of the Legislative Yuan four years later. What kind of political trajectory is this?'
+description: 'The first special municipality mayor in history to be recalled, who became the President of the Legislative Yuan four years later. What kind of political trajectory is this?'
 date: 2026-04-11
-author: 'Taiwan.md'
+category: 'People'
+tags:
+  [
+    'Politician',
+    'Kuomintang',
+    'President of the Legislative Yuan',
+    'Han Wave',
+    'Kaohsiung',
+    '2018',
+    '2020',
+    '2024',
+  ]
 subcategory: '政治人物'
-tags: ['政治人物', '國民黨', '立法院長', '韓流', '高雄', '2018', '2020', '2024']
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 24
     platform: 'threads'
@@ -18,13 +30,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
-translatedFrom: People/韓國瑜.md
-sourceCommitSha: 'dd39065b'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/韓國瑜.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-06-10T16:43:34Z'
-category: 'People'
-difficulty: 'intermediate'
+translatedAt: '2026-11-18T16:45:04.913455+00:00'
 ---
 
 # Han Kuo-yu

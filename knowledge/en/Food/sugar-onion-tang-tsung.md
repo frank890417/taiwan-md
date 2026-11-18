@@ -2,6 +2,7 @@
 title: "Tang-tsung (Sugar Onion): The 'Resistance Sweet' Hidden in White Hollow Tubes"
 description: "In the 1940s, Taiwanese farmers evading Japanese police control over refined sugar pulled dark-brown syrup into snow-white, hollow tubes that looked like scallion stalks — a farmers' disguise technique, a century of grassroots wisdom crystallized. The precisely engineered 16 large holes and 16 small holes inside each sugar-onion piece sustained a century of sweet, crispy resistance across Taiwan."
 date: 2026-04-23
+category: 'Food'
 tags:
   [
     'Food',
@@ -15,16 +16,17 @@ tags:
   ]
 subcategory: '飲食場景'
 author: 'Taiwan.md'
-category: 'Food'
-readingTime: 15
 featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-06-11T16:38:12Z'
+translatedAt: '2026-11-18T17:10:05.650235+00:00'
 ---
 
 # Tang-tsung (Sugar Onion): The "Resistance Sweet" Hidden in White Hollow Tubes

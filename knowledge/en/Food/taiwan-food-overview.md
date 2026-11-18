@@ -38,11 +38,13 @@ sporeLinks:
     date: '2026-05-27'
     url: 'https://x.com/taiwandotmd/status/2059458468898287770'
 relatedDiary: ['2026-05-27-122151-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: 'c4bb5dc71'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:1ab18bf6c6736ca9'
 sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
-translatedAt: '2026-10-08T06:52:44.650525+00:00'
+translatedAt: '2026-11-18T16:47:42.906439+00:00'
 ---
 
 # Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core

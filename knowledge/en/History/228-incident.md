@@ -1,6 +1,6 @@
 ---
-title: 'The February 28 Incident'
-description: "How a widow's private cigarette stall ignited thirty-eight years of silence—the ten days in 1947 that changed Taiwan's destiny, and the wounds still healing seventy-eight years later."
+title: 'The 228 Incident'
+description: "How a widow's contraband cigarette stall ignited an island's thirty-eight years of silence—the ten days in 1947 that changed Taiwan's fate, and the wounds still healing seventy-eight years later"
 date: 2026-03-31
 category: 'History'
 tags:
@@ -8,10 +8,10 @@ tags:
     'History',
     'Politics',
     'Transitional Justice',
-    'Taiwan White Terror',
+    'White Terror',
     'Democratization',
     'Martial Law',
-    'February 28',
+    '228',
   ]
 subcategory: '軍事歷史'
 author: 'Taiwan.md'
@@ -21,209 +21,207 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
-translatedAt: '2026-07-28T19:24:14+08:00'
+translatedAt: '2026-11-19T01:12:09+08:00'
 ---
 
-# The February 28 Incident
+# The 228 Incident
 
-On the evening of February 27, 1947, 40-year-old widow Lin Chiang-mai knelt on the ground at the Taipei Circle, pleading with enforcement officers not to confiscate her smuggled cigarettes. Those few packs were the entire livelihood for her son and daughter. An officer, Fu Hsueh-tung, struck her head with a gun butt; blood flowed down her face. Hundreds of bystanders witnessed this scene.
+On the evening of February 27, 1947, Lin Chiang-mai, a 40-year-old widow, knelt on the ground at Taipei's Roundabout, begging the monopoly bureau enforcement agents not to confiscate her contraband cigarettes. Those few packs of cigarettes were the sole livelihood supporting her son and daughter. Enforcement agent Fu Hsueh-tung struck her on the head with a gun butt; blood streamed down her face. Several hundred people witnessed the scene.
 
-No one knew that the following ten days would change the destiny of the entire island. The image of this woman kneeling on the ground ignited a volcano of anger that had been accumulating for two years.
+No one knew that the next ten days would change the destiny of the entire island. The image of this woman kneeling ignited a volcano of anger that had been accumulating for two years.
 
-> **✦** A conflict over smuggled cigarettes triggered the largest civilian uprising in post-war Taiwan, gave rise to the world's longest period of martial law, and claimed the lives of an entire generation of the finest intellectuals. It was only after thirty-eight years of silence that their names could be spoken once again.
+> **✦** A clash over contraband cigarettes triggered the largest popular uprising in post-war Taiwan, spawned the world's longest martial law, and took away an entire generation's most outstanding intellectuals. Their names could only be spoken again after thirty-eight years of silence.
 
-## An Island in Disillusionment
+## An Island Losing Hope
 
-To understand why a woman's blood could ignite an entire city on that evening, one must first understand Taiwan after 1945: it was a two-year period moving from joy to despair.
+To understand why one woman's blood could set an entire city ablaze that evening, one must first understand Taiwan after 1945: two years from joy to despair.
 
-When Japan surrendered, the people of Taiwan were joyful. After fifty years of colonial rule, they had finally "returned to the motherland." On October 25, 1945, the last Governor-General of Taiwan, Rikichi Ando, signed the instrument of surrender at the Taipei Public Hall (now Zhongshan Hall), and firecrackers echoed in the streets all night.
+When Japan surrendered, the Taiwanese were jubilant. After fifty years of colonial rule, they had finally "returned to the motherland." On October 25, 1945, the last Japanese Governor-General Ando Rikichi signed the surrender document at the Taipei Public Auditorium (today's Zhongshan Hall); firecrackers sounded through the streets all night.
 
 But the joy lasted only a few months.
 
-The officials brought by Chen Yi, the Chief Executive tasked with taking over Taiwan, presented the people of Taiwan with a "motherland" completely different from what they had imagined. Many of the civil servants arriving in Taiwan were illiterate, yet they occupied the successful institutions established by Taiwanese during the Japanese colonial period. [Rice prices skyrocketed four hundredfold within a single year](https://www.228.org.tw/228_overview.html), and infectious diseases such as cholera and plague broke out again. Unemployed veterans were everywhere on the streets, and public order deteriorated sharply.
+The officials brought by Chief Executive Chen Yi to take over Taiwan showed the Taiwanese a "motherland" completely different from what they had imagined. Many of the incoming civil servants were illiterate, yet they occupied the institutions that Taiwanese had built up successfully during the Japanese era. [Rice prices skyrocketed four hundredfold in a single year](https://www.228.org.tw/228_overview.html), and infectious diseases such as cholera and plague re-emerged. The streets were filled with unemployed demobilized soldiers; public security deteriorated sharply.
 
-The deeper injury was discrimination. For the same positions, the salaries of "Mainlanders" (those who arrived with the KMT) were several times higher than those of "Benshengren" (local Taiwanese). During the Japanese period, Taiwanese had received a complete education, yet they were excluded from the civil service system because they could not speak "Guoyu" (National Language/Mandarin). There were instances where doctors who spoke in Japanese in public were accused of being "Japanized."
+The deeper wound was discrimination. For the same positions, mainlanders' salaries were several times those of native Taiwanese. Taiwanese had received complete education during the Japanese era, yet were excluded from the civil service system because they did not speak "the national language." A physician who spoke Japanese at a public gathering was even accused of being "enslaved."
 
-It was upon this soil that a gun butt fell on February 27, 1947: onto a widow's head, within a roundabout, on an evening when no one predicted it would change everything.
+It was on this soil that on the evening of February 27, 1947, a gun butt came down: on a widow's head, in a roundabout, on an evening no one predicted would change everything.
 
 > **📝 Curator's Note**
-> The disillusionment following "Retrocession" was not formed in a single day. It was the accumulation of a thousand small insults—every glance that said "you have been Japanized," every contemptuous remark that "if you cannot speak Mandarin, you are not Chinese," all laid a layer of dry grass upon this island. Lin Chiang-mai's blood was the spark that fell on that dry grass.
+> The disappointment after "retrocession" did not form in a day. It was the accumulation of a thousand small humiliations—every "you've been enslaved by the Japanese" glance, every "if you don't speak the national language you're not Chinese" sneer laid a layer of dry grass on this island. Lin Chiang-mai's blood was the spark that fell on that dry grass.
 
-## The Ten Days of Fire
+## Ten Days of Fire
 
-### February 27: Gunshots at the Circle
+### February 27: Gunshots at the Roundabout
 
-At 7:30 PM, monopoly bureau enforcement officers were inspecting smuggled cigarettes near the Tianma Teahouse in Taipei. After Lin Chiang-mai was struck and fell to the ground, an angry crowd surrounded the officers. In the chaos, an officer fired into the crowd, hitting a bystander, Chen Wen-hsi; he died of his injuries the following day.
+At 7:30 p.m., Monopoly Bureau enforcement agents were cracking down on contraband cigarettes near the Tenma Tea House in Taipei. After Lin Chiang-mai was struck with a gun butt and fell injured, an angry crowd surrounded the agents. In the chaos, the agents fired into the crowd, hitting bystander Chen Wen-hsi, who died of his wounds the next day.
 
 The news spread like wildfire.
 
 ### February 28: From Petition to Gunfire
 
-Early the next morning, crowds swarmed the Taipei branch of the Monopoly Bureau, smashing offices and burning tobacco and alcohol. In the afternoon, a procession of approximately two thousand people marched to the Office of the Chief Executive to petition. They were unarmed, demanding punishment for the perpetrators, compensation, and reform.
+Early the next morning, crowds surged toward the Taipei Branch of the Monopoly Bureau, smashing offices and burning tobacco and alcohol. In the afternoon, a procession of about two thousand marched to the Chief Executive's Office to petition. They were unarmed; their demands were punishment for the perpetrators, compensation, and reform.
 
-The guards responded with machine guns.
+Machine guns answered them.
 
-The gunfire in front of the Office caused many casualties. News spread across the island via telephone and word-of-mouth, as people in various regions rose in protest. Taichung, Chiayi, Kaohsiung, Pingtung, Hualien: the entire island burned simultaneously.
+The strafing in front of the Office caused numerous casualties. The news spread across the island via telephone and word of mouth; people everywhere rose in protest. Taichung, Chiayi, Kaohsiung, Pingtung, Hualien: the entire island burned simultaneously.
 
 ### March 1–7: Brief Negotiations
 
-"February 28 Incident Handling Committees" were established in various locations, attempting to seek solutions within the system. Composed of representatives, lawyers, doctors, and teachers, the committees proposed [thirty-two demands for political reform](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E8%99%95%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83): the direct election of county magistrates and mayors, the abolition of the monopoly system, and the protection of human rights.
+"228 Incident Settlement Committees" formed in various places, attempting to seek resolution within the system. The committees comprised elected representatives, lawyers, physicians, and teachers, and put forward [thirty-two demands for political reform](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E8%99%95%E7%90%86%E5%A7%94%E5%93%A1%E6%9C%83): popular election of county and city magistrates, abolition of the monopoly system, guarantee of human rights.
 
-Chen Yi maintained a facade of negotiation while secretly telegraphing Nanjing to request military aid. In his telegram to Chiang Kai-shek, he claimed the people of Taiwan "want to leave China to become independent" and requested troops to "extinguish the rebellion."
+Chen Yi negotiated on the surface while secretly cabling Nanjing for military aid. In his telegram to Chiang Kai-shek, he described the Taiwanese populace as "wanting to break away from China and become independent," requesting troops to "exterminate the rebellion."
 
-These seven days were Taiwan's last moment of innocence: people still believed that reason could change something.
+These seven days were Taiwan's last innocence: people still believed reasoning could change something.
 
 ### March 8: Dawn at the Port
 
-In the early hours of March 8, the 21st Division of the National Army landed at the Port of Keelung. Soldiers fired directly from the ships at the people on the pier. On the same day, the commander of the Kaohsiung Fortress, Peng Meng-chi, ordered the shelling of Kaohsing City. Machine guns were used to fire upon senators and civilian representatives who had come to negotiate, including Kaohsiung City Council President Peng Ching-kao and lawyer Chen Chin-neng, who were either shot on the spot or executed after arrest.
+At dawn on March 8, the ROC Army's 21st Division landed at Keelung Port. Soldiers fired directly at civilians on the docks straight from the ships. That same day, Kaohsiung Fortress Commander Peng Meng-chi ordered artillery bombardment of Kaohsiung city and machine-gun strafing of councilors and civilian representatives who had come to negotiate, including City Council Speaker Peng Ching-kao and lawyer Chen Chin-neng, who were shot dead on the spot or executed after arrest.
 
-From this day forward, negotiations ended. All that remained was gunfire.
+From this day forward, negotiations ended. Only gunfire remained.
 
-### After March 9: "Qingxiang" (Cleansing the Countryside)
+### After March 9: Qingxiang (Suppression Campaign)
 
-The military launched "Qingxiang" operations, conducting house-to-house searches. Anyone who had been educated, served as a lawyer, worked as a doctor, taught, or written articles—especially those who had spoken in the Handling Committees—was liable to be taken away.
+The military launched "Qingxiang" (area pacification) operations, conducting house-to-house searches. Anyone who had studied, practiced law, practiced medicine, taught, written—especially those who had spoken in the Settlement Committees—could be taken away.
 
-The logic of _qingxiang_ was intimidation: to eliminate organized intellectuals and leave the survivors in terrified silence. It was harder to record than a massacre because it could be completed without public declaration: a knock on the door late at night, a car parked at the entrance, and then... nothing.
+The logic of Qingxiang was intimidation: eliminate intellectuals with organizational capacity, leave the rest struck dumb with fear. It was harder to document than massacre, because it required no public declaration to accomplish: a midnight knock, a car parked at the door, then nothing.
 
-Many were awakened by knocks in the middle of the night, never to return.
+Many were awakened by midnight knocks and never returned.
 
 ## The Disappeared
 
-One of the cruelest features of the February 28 Incident was its systematic removal of Taiwan's social elite: those most capable of telling this history to the international community were often the first to disappear.
+One of the most brutal characteristics of the 228 Incident was its systematic removal of Taiwan's social elite: those most capable of telling this history to the international community were often the first to disappear.
 
-**Lin Sheng-wu**, Taiwan's first PhD in philosophy, who earned his doctorate from Columbia University, was one of the most highly educated scholars in Taiwan. After the war, he assisted in the takeover of Taipei Imperial University and the founding of National Taiwan University, and established the _Minbao_ (People's Journal) to record post-war chaos. Late on the night of March 11, 1947, eight armed men arrived at his home by car and took him away. His son, Lin Tsung-ping, later recalled: "The next morning, the household servant ran to tell me that the Master had been taken away last night; the situation was bad, and the Mistress was extremely worried." Lin Sheng-mu vanished from the face of the earth and his whereabouts remain unknown to this day. It was not until 2025 that the Taipei District Court formally granted a declaration of death—seventy-eight years after he was taken.
+**Lin Maw-sheng** (林茂生), Taiwan's first PhD in philosophy, earned his doctorate at Columbia University and was one of the Taiwanese scholars with the highest level of Western education. After the war he assisted in taking over Taihoku Imperial University and establishing National Taiwan University, and founded the _Minbao_ (People's News) to document post-war chaos. On the night of March 11, 1947, eight armed men arrived by car at his home and took him away. His son Lin Tsung-ping later recalled: "The next morning, the house servant came running to tell me: last night the master was taken away, the situation is bad, the mistress is very worried." Lin Maw-sheng vanished from the face of the earth; his whereabouts remain unknown to this day. Not until 2025 did the Taipei District Court formally grant a declaration of his death: seventy-eight years after he was taken.
 
-> **💡 Did You Know?**
-> During the Japanese period, Lin Sheng-wu once lamented: "Every time I received my monthly stipend, I felt the resentment of discrimination. The Japanese received sixty percent more in bonuses and family allowances; the Japanese received double what the locals did." Throughout his life, he fought for equality—first against Japanese discrimination, then attempting to establish fair education within the new national order. In the end, the government he once believed to be his "motherland" was what took him away. (From the [February 28 Foundation: Lin Sheng-wu Memorial Page](https://www.228.org.tw/228_elites-view.php?ID=26))
+> **💡 Did You Know**
+> During the Japanese era Lin Maw-sheng once lamented: "Every time I receive my pay envelope, I keenly feel the discrimination and burn with indignation. The Japanese get a 60% cost-of-living allowance plus family allowances; Japanese salaries are double those of provincials." All his life he fought for equality—first against Japanese discrimination, then trying to establish fair education in the new national order. In the end, what took him away was the government he had once believed was his "motherland." (Source: [228 Memorial Foundation Lin Maw-sheng Memorial Page](https://www.228.org.tw/228_elites-view.php?ID=26))
 
-**Tang Te-chang**, a lawyer from Tainan, whose father was Japanese and mother was Taiwanese. He had served as a policeman but was forced to resign after speaking out against a case where a Japanese person used their influence to run over a Taiwanese youth. He later went to Japan, passed the high civil service exam, and became a practicing lawyer. During the February 28 incident, he traveled throughout Tainan to persuade citizens against taking violent action, which helped Tainan maintain relative peace for a time. However, after the military arrived, he was arrested under the charge of being a "rebellion leader" and was publicly executed in Tainan's Minsheng Green Park (now Tang Te-chang Memorial Park) on March 13 without any trial. He was only 40 years old. The Tainan City Government later designated March 13 as "Justice and Courage Memorial Day."
+**Tang Te-chang** (湯德章), a Tainan lawyer, had a Japanese father and a Taiwanese mother from Tainan. He had served as a policeman but was forced to resign after speaking out for justice in a case where a Japanese man ran over and killed a Taiwanese youth. He then went to Japan, passed the Japanese Higher Civil Service Examination, and became a practicing lawyer. During the 228 Incident he traveled throughout Tainan urging the public not to take radical action, keeping Tainan relatively peaceful for a time. Yet after the military arrived, he was arrested as a "ringleader of rebellion" and, without any trial, publicly executed by firing squad at Tainan's Minsheng Green Park (today's Tang Te-chang Memorial Park) on March 13. He was only 40. The Tainan City Government later designated March 13 each year as "Justice and Courage Memorial Day."
 
-**Wang Tien-tung**, a provincial councilor and lead writer for _Renmin Daobao_ (People's Herald), was one of the primary drafters of the "Thirty-Two Demands." Despite knowing the danger, he did not flee Taiwan. According to witnesses, after his arrest, he endured brutal torture; even with blood flowing down his face, he continued to argue with the military and police with righteousness. Ultimately, he was doused in gasoline and burned alive. He was only 45 years old when he sacrificed himself, leaving behind five minor children. (According to historical materials from _Renmin Daobao_ editors Su Xin-yu and Chang Yen-hsien, via [FPN: Report on Wang Tien-tung](https://www.storm.mg/article/83492))
+**Wang Tien-teng** (王添灯), provincial senator and chief writer for _People's Herald_, was one of the principal drafters of the "Thirty-Two Demands." Knowing the danger, he still refused to flee Taiwan. According to eyewitnesses, he was brutally tortured after arrest, blood streaming down his face, yet he argued forcefully and righteously with the military police. Finally, gasoline was poured over him and he was burned alive. He was only 45 when he sacrificed himself, leaving five minor children. (According to _People's Herald_ editor Su Hsin and historian Chang Yen-hsien's materials, source: [Storm Media Wang Tien-teng Report](https://www.storm.mg/article/83492))
 
-**Chen Cheng-po**, a Kaohsiung City Councilor and one of Taiwan's most important oil painters. He went to the Kaohsiung Shuishang Airport to negotiate with the National Army with sincere intentions for a peaceful resolution, but was arrested and subsequently executed publicly in front of the Kaohsiung Railway Station. His posthumous work, _Street Outside Kaohsiung_, is currently held in the Taipei Fine Arts Museum; the bright street depicted in the painting is the same street he last saw, creating a cruel contrast. His family quietly preserved his paintings for decades, only able to speak publicly about his death after the lifting of martial law.
+**Chen Cheng-po** (陳澄波), Chiayi city councilor and one of Taiwan's most important oil painters. He went to the Chiayi Shuishang Airport with sincere intent to negotiate peacefully with the ROC Army, but after arrest was publicly executed by firing squad in front of Chiayi Train Station. His surviving work _Outside Chiayi Street_ is now in the Taipei Fine Arts Museum; the bright Chiayi streets in the painting form the cruelest contrast with the same street he last saw. His family quietly preserved his paintings for decades, unable to speak publicly of his death until after martial law was lifted.
 
-The stories of these four are among the many with names. Many more never even had the chance to be recorded.
+These four men's stories are the ones with names among countless similar stories. Even more people never had the chance to be recorded at all.
 
 > **⚠️ Historical Controversy: Death Toll**
-> The number of casualties in the February 28 Incident remains one of the most controversial historical issues, with estimates from different sources varying wildly:
+> The casualty count of the 228 Incident remains one of the most disputed historical questions, with estimates from different sources varying enormously:
 >
-> - **Lowest Academic Estimate**: Researchers from NTU Sociology (2017) estimated approximately 1,304 to 1,512 people using demographic methods.
-> - **Official Yang Liang-kung Report (1947)**: Military and civilian casualties were approximately 1,860 to several thousand.
-> - **2021 Official Responsibility Report** (edited by Chen Yi-shen and Xue Hua-yuan): The total number of documented deaths and disappearances is approximately [8,324 to 11,841 people](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6).
-> - **Demographic Projections**: Some researchers, using age structure back-calculation, estimate total deaths between 18,000 and 28,000.
+> - **Lowest academic estimate**: NTU Graduate Institute of Sociology researchers (2017) used demographic methods to estimate approximately 1,304 to 1,512 people
+> - **Official Yang Liang-kung Report** (1947): military and civilian casualties approximately 1,860 to several thousand
+> - **2021 Official Responsibility Attribution Report** (edited by Chen Yi-shen and Hsueh Hua-yuan): documentable deaths and disappearances total approximately [8,324 to 11,841 people](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6)
+> - **Demographic projection**: Some researchers using age-structure back-projection estimate total deaths between 18,000 and 28,000
 >
-> Historian Hou Kun-hung analyzed: "Official figures may underreport because they do not include those who died without trial or through irregular means; civilian figures may overstate due to intentional exaggeration or hearsay." The controversy surrounding this number itself reflects the degree to which this history was systematically suppressed—many victims left no record behind.
+> Academia Historica researcher Hou Kun-ming analyzes: "Official low figures may exclude those who died without trial or through abnormal channels; civilian high estimates may be deliberate exaggeration or hearsay." The controversy over this number itself reflects the degree to which this history was systematically suppressed—many victims never left any record at all.
 
-## Chen Yi's Calculations
+## Chen Yi's Calculation
 
-Throughout the incident, the role of Chief Executive Chen Yi warrants separate scrutiny: he was both a symbol of systemic failure and the most critical individual decision-maker.
+In the entire episode, Chief Executive Chen Yi's role deserves separate scrutiny: he was both the symbol of systemic failure and the most critical individual decision-maker.
 
-Chen Yi himself was not a corrupt man. He was known for his integrity and was said to be quite upright, having earned a reputation as a reformer in the Fujian-Zhejiang region. However, he was stubborn, out of touch with the local populace, and trapped by factional politics—after arriving in Taiwan, he maneuvered between various forces such as the Military Statistics Bureau (Juntong), the CC Clique, and the Kong-Soong system. His orders were difficult to implement, and the accumulating public resentment had no outlet.
+Chen Yi himself was not corrupt. He was known for personal integrity and had a reputation as a reformer in the Fujian-Zhejiang region. But he was stubborn and out of touch with popular sentiment, and was trapped by factional politics—after arriving in Taiwan he maneuvered among the Military Intelligence Bureau, the CC Clique, the Kong-Song clique and other forces, making it difficult to implement orders, while accumulated public grievances had no outlet.
 
-After the outbreak of the incident, Chen Yi demonstrated a cruel duality: on one hand, he claimed via radio to be accepting public demands and expressed willingness to negotiate; on $\text{the}$ other hand, he secretly telegraphed Chiang Kai-shek to request military aid, describing the situation in Taiwan as "communist bandit rebellion." A telegram on March 6 stated that the Taiwanese masses "want to leave China to become independent" and requested the deployment of "bandit suppression troops."
+After the incident erupted, Chen Yi displayed a cruel duplicity: on one hand he broadcast acceptance of popular demands and willingness to negotiate; on the other he secretly cabled Chiang Kai-shek requesting military aid, describing the Taiwan situation as "treacherous bandits in rebellion." His March 6 telegram stated the masses "want to break away from China and become independent," requesting deployment of "bandit-suppression troops."
 
-In other words: the negotiations were always a sham. The entire week-long period of the "Handling Committee" negotiations was merely waiting for the time required for the military to cross the sea.
+In other words: the negotiations were fake from the start. The entire week of "Settlement Committee" talks was merely buying time for the troops to cross the strait.
 
-After the incident subsided, Chen Yi was dismissed from office. However, the irony of history lies in this: he was later executed in Taipei in 1950 by Chiang Kai-shek on charges of "communicating with communists and treason" (related to an alleged coup attempt, not February 28). The fates of the perpetrator and the victim sometimes fold into each other in unexpected ways.
+After the incident subsided, Chen Yi was dismissed. Yet history's irony: he was later executed by Chiang Kai-shek in 1950 on charges of "colluding with the Communists and treason" for allegedly supporting a military coup (unrelated to 228). The fates of perpetrator and victim sometimes fold into each other in unexpected ways.
 
 ## Thirty-Eight Years of Silence
 
-On May 20, 1949, Taiwan officially implemented [martial law](/en/history/martial-law-era/).
+On May 20, 1949, Taiwan formally implemented [martial law](/en/history/martial-law-era/).
 
-From then on, "February 28" became a name that could not be spoken. During the thirty-eight years and fifty-six days of martial law (one of the longest in the $\text{world}$), the words did not appear in textbooks, newspapers were not allowed to mention it, and families protected the next generation through silence—"Don't ask, I don't want to tell" became the unspoken pact of an entire generation.
+From then on, "228" became the name that could not be spoken. For thirty-eight years and fifty-six days of martial law (one of the world's longest), textbooks lacked these three characters, newspapers were forbidden to mention it, families protected the next generation with silence—"don't ask, I don't want to say" became an entire generation's tacit understanding.
 
-While the February 28 Incident and the subsequent [Taiwan White Terror](/en/history/taiwan-white-terror/) are often mentioned together, there is a significant difference in their nature. Researcher Wu Chun-ying points out that February 28 was a "state of lawlessness"—there were no judicial procedures; people were killed or summarily executed via vigilante justice. In contrast, during the White Terror period (1949–1991), although laws were distorted, there was at least the form of military courts, which left behind documentary records. This distinction means that February 28 victims often lacked even a death certificate, and their families remained unaware of where their loved ones were buried for decades.
+The 228 Incident and the subsequent [Taiwan White Terror](/en/history/taiwan-white-terror/) are often mentioned together, but differ importantly in nature. Scholar Wu Chun-ying notes: 228 was a "state of lawlessness"—no judicial process, people simply killed or subjected to secret summary justice; while the White Terror period (1949–1991), though the law was twisted, at least had the form of military tribunals, leaving documentary records. This distinction means: 228 victims often lacked even a death certificate; decades later families still did not know where their loved ones were buried.
 
-During the White Terror, tens of thousands were imprisoned on charges such as "rebellion" or "spy." Some were sentenced to fifteen years for attending study groups; others disappeared because they criticized the government in their diaries. Fear seeped into every crack of daily life: people did not discuss politics on the telephone, did not speak Taiwanese in public, and even dared not keep books from the Japanese colonial period in their homes.
+During the White Terror, tens of thousands were imprisoned on charges of "rebellion," "communist espionage," etc. Some were sentenced to fifteen years for joining a reading group; some disappeared for criticizing the government in a diary. Fear seeped into every crevice of daily life: people did not discuss politics on the phone, did not speak Taiwanese in public, did not even dare keep Japanese-era books at home.
 
-This was not merely a byproduct of a massacre. It was a meticulously designed engineering of forgetting—an engineering where every survivor who dared not speak became one of its components.
+This was not merely the aftereffect of a massacre. It was an entire, meticulously engineered forgetting machine—in this machine, every survivor who dared not speak became one of its components.
 
 > **📝 Curator's Note**
-> One thing is worth reflecting on: it was not just those who died who disappeared, but also the survivors who chose a lifetime of silence out of fear. Thirty-eight years is enough time for a child to be born, grow up, and start a family, yet remain entirely ignorant of why their father died. Forgetting never happens naturally—it is a policy, an active suppression passed from one generation to the next.
+> One thing deserves clear thought: what disappeared was not only those who died, but also those survivors who chose a lifetime of silence out of fear. Thirty-eight years—enough for a child to be born, grow up, start a family, yet know nothing of why their father died. Forgetting is never natural—it is policy, the active suppression of generation after generation.
 
 ## The Return of Memory
 
-In 1987, Taiwan lifted martial law. But the courage required to speak was greater than imagined.
+In 1987, Taiwan lifted martial law. But the courage needed to speak was greater than imagined.
 
-One of the first to break the silence was Cheng Nan-rong. In 1987, he launched February 28 commemoration activities through his magazine, _Free Times_; it was the first time in forty years that someone discussed this topic in the public media. In 1989, he faced prosecution for treason after publishing a draft constitution for the Republic of Taiwan. To defend freedom of speech, he died by self-immolation at his magazine's office at the age of 41. He once said, "I am Cheng Nan-rong, and I advocate for Taiwan independence." This sentence became part of history after his death. His death shocked Taiwanese society and accelerated the thawing of historical memory.
+One of the first to break the silence was Cheng Nan-jung. In 1987, in his _Freedom Era Weekly_, he initiated 228 commemorative activities—the first time in forty years anyone had spoken of this in public media. In 1989, for publishing a draft Constitution of the Republic of Taiwan, he faced sedition charges. To defend freedom of speech, he self-immolated at his magazine office at age 41. He once said: "I am Cheng Nan-jung, I advocate Taiwan independence." Those words became part of history after his death. His death shook Taiwanese society and accelerated the thawing of historical memory.
 
-In 1991, Taiwan abolished the "Regulations for the Punishment of Rebellion," formally ending the era of political prisoners that had lasted over forty years. In the same year, the "Law on Punishment of Violations of the Garrison Law" was repealed. This was a key node in the process of [Taiwan democratization](/en/history/taiwan-democratization/) and provided the legal foundation that made public discussion of the February 28 history truly possible.
+In 1991, Taiwan abolished the "Statute for the Punishment of Rebellion," formally ending the era of political prisoners lasting over forty years. That same year, the "Violation of Police Regulations Penalty Law" was abolished. This was a key node in [Taiwan's democratization](/en/history/taiwan-democratization/) process, and the legal foundation that made open discussion of 228 history truly possible.
 
-Afterward, memory surged forth like groundwater.
+Thereafter, memory surged forth like groundwater.
 
-**In 1992**, the Executive Yuan published the _Report on the February 28 Incident_, marking the first time the government officially acknowledged state violence during the incident. Lead author Lai Tse-han stated that it was more reasonable to estimate deaths in the "thousands," but admitted that "no one can provide an exact number at this time."
+**1992**: The Executive Yuan issued the _228 Incident Research Report_, the government's first formal acknowledgment of state violence in the incident. Chief editor Lai Tse-han stated the death toll was "in the thousands" but acknowledged "no one can now produce a precise figure."
 
-**In 1995**, then-President Lee Teng-hui apologized to the families of the victims on behalf of the government. At the dedication ceremony of the memorial monument, he stated: "To take responsibility for the mistakes committed by the government and to express our deepest apologies." (From [CTS News Historical Footage 1995/02/28](https://news.cts.com.tw/cts/general/202002/202002281992012.html)) This was the first time a post-war head of state had publicly apologized for the February 28 Incident, marking a major milestone in Taiwan's transitional justice.
+**1995**: Then-President Lee Teng-hui apologized to victims' families on behalf of the government. At the memorial monument dedication he said: "We assume the government's mistakes and offer our deepest apologies." (Source: [CTS News Historical Footage 1995/02/28](https://news.cts.com.tw/cts/general/202002/202002281992012.html)) This was the first sitting head of state to publicly apologize for the 228 Incident, and a major milestone in Taiwan's transitional justice.
 
-**In 1997**, February 28 officially became "February 28 Peace Memorial Day" and was designated a national holiday.
+**1997**: February 28 officially became "228 Peace Memorial Day" and a national holiday.
 
-**In 2011**, the [February 28 Memorial Museum](https://www.228.org.tw/) officially opened on Nanhai Road, Taipei. The site was originally an educational hall from the Japanese period and the location of the last assembly of the "Handling Committee"—the choice of site itself was a form of memory restoration. The museum preserves a vast amount of oral history, images, and documents, making it one of Taiwan's most important institutions for historical memory.
+**2011**: The [National 228 Memorial Museum](https://www.228.org.tw/) officially opened on Nanhai Road in Taipei. The site was the Japanese-era Education Association Hall, also the location of the "Settlement Committee's" final meeting—the choice of site itself was a form of memory repair. The museum preserves extensive oral history footage and documents, making it one of Taiwan's most important historical memory institutions.
 
-**In 2018**, the Transitional Justice Commission, established during the process of [Taiwan democratization](/en/history/taiwan-democratization/), began systematically overturning convictions in political cases. By the time it ceased operations in 2022, it had overturned convictions and restored the honor of over 5,800 political victims. The Commission's work included: opening political archives, reconstructing historical facts, removing symbols of authoritarianism, and promoting historical education—it was the largest systematic undertaking in Taiwan's transitional justice process.
+**2018**: The Promoting Transitional Justice Committee, established during [Taiwan's democratization](/en/history/taiwan-democratization/), began systematically revoking guilty verdicts in political cases. By the end of its operations in 2022, it had revoked convictions and restored reputations for over 5,800 political victims. The committee's work included: opening political archives, reconstructing historical facts, removing authoritarian symbols, promoting history education—this was the largest systematic project in Taiwan's transitional justice process.
 
-## Wounds Between Communities Remain Unhealed
+## Ethnic Wounds, Still Unhealed
 
-The February 28 Incident left more than just historical scars on Taiwanese society; it shaped the inter-community relations (between _Benshengren_ and _Waishengren_) for decades to follow.
+The 228 Incident left Taiwanese society not only with historical scars but also shaped cross-provincial relations for decades afterward.
 
-During the incident, some angry mobs attacked Mainlanders, using provincial origin as a criterion for identifying enemies—they identified Mainland accents and beat those who could not speak Taiwanese. This history cannot be avoided: violence was never one-way. The suppression and _qingxiang_ operations conducted by the National Army primarily targeted local Taiwanese, and their scale and systematic nature far exceeded the spontaneous clashes of the mobs. These two types of violence overlapped in the same period, leaving a deep, indelible mistrust between the _Benshengren_ and _Waishengren_.
+During the incident, some angry crowds attacked mainlanders, using provincial origin as the standard for distinguishing friend from foe—they identified mainlanders by accent, beat those who could not speak Taiwanese. This history cannot be avoided: violence was never one-directional. Meanwhile, the ROC military's suppression and Qingxiang primarily targeted native Taiwanese, on a scale and with a systematicity far exceeding the crowds' spontaneous clashes. Two forms of violence overlapped in the same period, leaving deep, hard-to-erase mutual distrust between benshengren and waishengren.
 
-This rift was repeatedly torn open, sutured, and torn open again in subsequent political competitions. "Provincial conflict" became the underlying structure of Taiwanese politics; whichever side held power and how they interpreted February 28 influenced whether this wound could truly heal.
+This fissure was repeatedly torn open, stitched, and torn open again in subsequent political competition. "Provincial conflict" became the underlying structure of Taiwanese politics; which side governed and how they interpreted 228 affected whether this wound could truly heal.
 
-Historians still debate the characterization of the incident: some define it as a national movement of colonized people resisting foreign rule, others emphasize that the complexity of ethnic conflict cannot be simplified, and some argue it was primarily a failure of governance, followed by ethnic conflict. Historian Chen Tsui-lien noted in _Factional Struggles and Political Maneuvering_ that the factional struggles within Chen Yi's government—the tug-of-war between the Military Statistics Bureau and the CC Clique—were significant factors that prevented the crisis from being properly handled.
+Historians still dispute the incident's characterization: some define it as a colonial people's national movement against outside rule; some emphasize the complexity of ethnic conflict that cannot be simplified; others argue it was first a governance failure, only secondarily ethnic conflict. Historian Chen Tsui-lien in _Factional Struggles and Power Politics_ points out that factional struggles within the Chen Yi government, and contention between the Military Intelligence Bureau and CC Clique, were important factors preventing the crisis from being properly handled.
 
-These different interpretive frameworks correspond to different political stances in Taiwanese society and reflect the difficulty faced by a society confronting its own dark history—every interpretation contains part of the truth, and every interpretation carries part of the wound.
+These different interpretive frameworks correspond to different political positions in Taiwanese society, and reflect the difficulty of a society confronting its own dark history—each interpretation contains partial truth, and each touches partial wounds.
 
 > **📝 Curator's Note**
-> The hardest part of transitional justice is not erecting monuments or apologizing, but enabling different people to accept "this happened, and it was wrong," without first needing to resolve "whose fault it was more." Taiwan's February 28 reconciliation process has been underway for over thirty years and is still on the road.
+> The hardest part of transitional justice is not erecting monuments or apologizing, but enabling different people to accept "this happened, and it was wrong" without first having to resolve "whose fault was greater." Taiwan's 228 reconciliation project has walked for over thirty years and is still on the road.
 >
-> The stories of Mainlander victims (89 recorded in official reports) are also part of the February 28 history—the civilians who were identified by their accents during the chaos and subsequently attacked were equally victims of this historical tragedy. A complete history must be able to accommodate everyone's wounds.
+> The stories of waishengren victims (89 recorded in the official report) are also part of 228 history—those civilians identified by accent and attacked in the chaos are equally victims of this historical tragedy. Complete history must be able to contain everyone's wounds.
 
 ## Wounds Still Healing
 
-Every February 28, memorial bells ring in the Taipei February 28 Peace Memorial Park. Elderly family members place white chrysanthemums before the monument; some are still waiting for an answer: _Where exactly is my father buried?_
+Every February 28, the tolling of memorial bells echoes through Taipei's 228 Peace Memorial Park. White-haired families lay white chrysanthemums before the monument; some still wait for an answer: where exactly is my father buried?
 
-Lin Sheng-wu's case only saw a declaration of death in 2025, seventy-eight years after he was taken. Those eight armed men who arrived by car, that knock on the door that night, the body that was never found—the answers to these questions may never come.
+Lin Maw-sheng's case only received a death declaration in 2025, seventy-eight years after he was taken. Those eight armed men who arrived by car, that night's knock, that body never found—the answers to these questions may never come.
 
-In Tainan's Minsheng Green Park, where Tang Te-chang was executed, the area was later renamed "Tang Te-chang Memorial Park," and his statue stands facing the site of his execution. In 2020, Tainan citizens raised 16 million TWD through crowdfunding to purchase his former residence as a permanent historical space. What does it say when a city is willing to do this for a victim from seventy-three years ago? It says that memory is not silent.
+The Tainan Minsheng Green Park where Tang Te-chang was executed was later renamed "Tang Te-chang Memorial Park"; his bronze statue stands facing the spot where he was executed. In 2020, Tainan citizens raised NT$16 million through crowdfunding to purchase his former residence for permanent preservation as a historical space. What does it say that a city would do this for a victim from seventy-three years ago? It says memory is not silent.
 
-Although provincial conflict has gradually faded with the changing of generations, the attitude of politicians toward February 28 remains a sensitive issue in Taiwanese elections. "To what extent is transitional justice complete?" remains a question without consensus. Can the historical ledger be closed? Or rather, under what conditions can it be considered "closed"? This is not a question with a standard answer.
+Although provincial conflict has gradually faded with generational change, politicians' attitudes toward 228 remain a sensitive issue in Taiwan elections. "How far must transitional justice go to be considered complete" remains a question without consensus. Can history's books be closed? Or what conditions count as "closed"? This is not a question with a standard answer.
 
-But the people of Taiwan have chosen to remember. Because they have already paid the price for forgetting once.
+But Taiwanese choose to remember. Because the price of forgetting, they have already paid once.
 
-From that evening when Lin Chiang-mai knelt on the ground at the Circle, to today when Taiwanese people can freely discuss this history, take photos in front of the national memorial museum, and read these three words in textbooks—this road has been traveled for seventy-eight years.
+From the evening Lin Chiang-mai knelt on the Roundabout ground, to today when Taiwanese can freely discuss this history, take photos before the National Memorial Museum, read these three characters in textbooks—this road has taken seventy-eight years.
 
-Lin Sheng-wu's body was never found. His family waited seventy-eight years, only to receive a declaration of death. That is not an answer; it is simply the last thing the law can provide in a place where there are no answers.
+Lin Maw-sheng's body was never found. His family waited seventy-eight years for a death declaration. That is not an answer; it is the last thing the law can give in a place with no answers.
 
-What is written on that paper does not matter. What matters is that someone has finally written it down.
+What is written on that paper does not matter. What matters is that someone finally wrote it down.
 
 ---
 
 **Further Reading**:
 
-- [National Human Rights Museum](/en/history/national-human-rights-museum) — The institutionalization of victim commemoration and perpetrator accountability; unveiled in 2018, budget frozen in 2025.
-- [Martial Law](/en/history/martial-law-era/) (/en/history/martial-law-era) — The legal container for 38 years starting from 1949, an extension of the 1947 suppression.
-- [Taiwan White Terror](/en/history/taiwan-white-terror/) (/en/history/taiwan-white-terror) — Political cases during the 38 years of martial law.
-- [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — The struggle between overturning convictions and perpetrator accountability.
-- [National Holiday](/en/society/national-holidays) — How February 28 became the first statutory national holiday of the Republic of China in 1997.
+- [National Human Rights Museum](/en/history/national-human-rights-museum) — Institutionalization of victim commemoration and perpetrator accountability, inaugurated 2018, 2025 budget once frozen
+- [Martial Law Era](/en/history/martial-law-era) — The 38-year legal container from 1949, the extension of the 1947 suppression
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — Political cases during 38 years of martial law
+- [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — The tug-of-war over revoking verdicts and perpetrator accountability
+- [National Holidays](/en/society/national-holidays) — How 228 became the ROC's first statutory national holiday in 1997
 
 ## References
 
-- [February 28 Incident Foundation](https://www.228.org.tw/) — Official incident overview, list of victims, and commemorative activities (Primary source).
-- [February 28 National Memorial Museum](https://www.228.org.tw/) — Permanent exhibitions, oral history archives (Primary source).
-- [Wikipedia: February 28 Incident Casualties](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8) — Compilation of various estimates and discussions on controversy.
-- [Wikipedia: February 28 Incident](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6) — General reference, including multiple perspectives.
-- Chen Yi-shen, Xue Hua-yuan (2021) _Research Report on the Responsibility for the February 28 Incident_ — Latest official casualty data (Primary source, Academic).
-- [February 28 Foundation: Lin Sheng-wu Memorial Page](https://www.228.org.tw/228_elites-view.php?ID=26) — Life and martyrdom of Lin Sheng-wu (Primary source).
-- [FPN: The Story of Wang Tien-tung](https://www.storm.mg/article/83492) — Biography and account of Wang Tien-tung's martyrdom.
-- [The News Lens: Lawyer Tang Te-chang](https://www.thenewslens.com/article/115558) — Biography and story of Tang Te-chang's martyrdom.
-- [Academia Sinica: Spies of February 28 and the White Terror](https://research.sinica.edu.tw/spy-special-agent-secret-228-transitional-justice/) — Academic research on the relationship between Feb 28 and the White Terror (Primary source, Academic).
-- [Taiwan Christian Bulletin: Lee Teng-hui and February 28](https://tcnn.org.tw/archives/73689) — Historical record of the 1995 presidential apology.
-- [CTS News: Historical footage of the dedication of the 228 Memorial Monument and Lee Teng-hui's apology](https://news.cts.com.tw/cts/general/202002/202002281992012.html) — Original video footage of Lee Teng-hui's apology.
-- [Transitional Justice Commission](https://www.tjc.gov.tw/) — Statistics on political case exonerations, archive openings (Primary source).
-
-* [Chen Cheng-po Cultural Foundation](https://chenchengpo.dcam.wda.gov.tw/) — Biography and collection of Chen Cheng-po's paintings (Primary source).
-
-- [Liberty Times: Declaration of Death for Lin Sheng-wu](https://news.ltn.com.tw/news/politics/paper/1713377) — Report on the 2025 approval of the declaration of death.
+- [228 Incident Memorial Foundation](https://www.228.org.tw/) — Official incident overview, victim roster, commemorative activities (primary)
+- [National 228 Memorial Museum](https://www.228.org.tw/) — Permanent exhibitions, oral history footage (primary)
+- [Wikipedia: 228 Incident Casualties](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8) — Compilation of estimates from all sides and controversy discussion
+- [Wikipedia: 228 Incident](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6) — Comprehensive reference, containing multiple viewpoints
+- Chen Yi-shen, Hsueh Hua-yuan (2021) _228 Incident Responsibility Attribution Research Report_ — Latest official casualty data (primary, academic)
+- [228 Memorial Foundation: Lin Maw-sheng Memorial Page](https://www.228.org.tw/228_elites-view.php?ID=26) — Lin Maw-sheng's life and martyrdom (primary)
+- [Storm Media: Wang Tien-teng's Story](https://www.storm.mg/article/83492) — Wang Tien-teng's life and martyrdom account
+- [The Critical Review Network: Lawyer Tang Te-chang](https://www.thenewslens.com/article/115558) — Tang Te-chang's life and martyrdom story
+- [Academia Sinica Research Highlights: 228 and White Terror Secret Agents](https://research.sinica.edu.tw/spy-special-agent-secret-228-transitional-justice/) — Academic research, relationship between 228 and White Terror (primary, academic)
+- [Taiwan Church News: Lee Teng-hui and 228](https://tcnn.org.tw/archives/73689) — Historical record of 1995 head-of-state apology
+- [CTS News: 228 Monument Dedication Lee Teng-hui Apology Historical Footage](https://news.cts.com.tw/cts/general/202002/202002281992012.html) — Original footage of Lee Teng-hui's apology
+- [Promoting Transitional Justice Committee](https://www.tjc.gov.tw/) — Political case rehabilitation statistics, archive opening (primary)
+- [Chen Cheng-po Cultural Foundation](https://chenchengpo.dcam.wda.gov.tw/) — Chen Cheng-po's life and painting collection (primary)
+- [Liberty Times: Lin Maw-sheng Death Declaration](https://news.ltn.com.tw/news/politics/paper/1713377) — 2025 death declaration grant report
