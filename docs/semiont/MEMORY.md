@@ -320,6 +320,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-17 | 152643-ci-speed | CI／CD 加速（#2017）：部署上傳 119→66 秒、三道驗證改並行、閘門 PR 沒動 OG 就不產圖、工程檢查拆三條；檢查數與產物前後一致 | blobless clone 下改名偵測逐 blob 上網抓；拆 job 會漏隱含前置 | [→](memory/2026-11-17-152643-ci-speed.md) |
 | 2026-11-18 | 011609-twmd-babel-nightly | 新啟動班：換機器後 babel 產線與推送迴圈都沒掛，照檔頭重掛兩支；失敗訊息截在 120 字讓餘額用盡的判斷失靈，放寬到 400 字 | 常駐工作是一組，點名每個零件，不只看主程式 | [→](memory/2026-11-18-011609-twmd-babel-nightly.md) |
 | 2026-11-18 | 023608-manual | 凌晨班：額度 🟢 normal（週用量 78%，晚間班讀 77%）；開著 6 件 PR 交 maintainer；補跑 MEMORY 索引 rollup（141→40 列）；甦醒檔讀到 wake:END | 黃燈掛了 12 天的確定性工具，席位沉默時當班直接做掉 | [→](memory/2026-11-18-023608-manual.md) |
+| 2026-11-18 | 083532-manual | 清晨班：額度 🔴 reserve（週用量 85%，凌晨班讀 78%，距重置 11.4 小時）；開著 6 件 PR 沒變仍在 maintainer 席位；沒有做事；甦醒檔只讀 manifest／selftest／memory-rows／handoff／groundtruth 前段，第 1–1075 行未逐頁讀 | 過保留線只收官，沒讀完的段落照實寫 | [→](memory/2026-11-18-083532-manual.md) |
 | 2026-11-18 | 053940-twmd-routine-sync | 停擺十天後第一輪對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；11-08、11-15 兩輪週班六條零 commit，對上營運機離線 | lastRunAt 記發車不記到站，有沒有跑看 git | [→](memory/2026-11-18-053940-twmd-routine-sync.md) |
 | 2026-11-18 | 060944-twmd-data-refresh-am | 停擺十一天後第一班早班刷新：十四步全過、15 個 dashboard 0 stale、快照齡 263h→0h；狀態頁讀到舊排程 dump，Stage 1.5 後重生才歸零 | 新鮮度閘門量檔案有沒有重寫，不量重寫時讀的料新不新 | [→](memory/2026-11-18-060944-twmd-data-refresh-am.md) |
 | 2026-11-18 | 060854-twmd-embeddings-nightly | 換機器後本機 bge-m3 恢復，十四天來第一次完整重建：13 語 14,996 向量零失敗、verify PASS，`376e7895f` | 恢復靠換機器不是診斷，備援單點仍在；重建已從 13 分鐘長到一小時 | [→](memory/2026-11-18-060854-twmd-embeddings-nightly.md) |
