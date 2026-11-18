@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T08:57:37+08:00",
-    "zhCommitHead": "438f34d45",
+    "lastUpdated": "2026-11-18T08:59:07+08:00",
+    "zhCommitHead": "1710a81fb",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 667,
+        "fresh": 668,
         "stale": 55,
         "metadata_stale": 453,
-        "missing": 16,
+        "missing": 15,
         "orphan": 0
       },
       "fr": {
@@ -59566,7 +59566,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/rural-and-remote-healthcare.md",
+          "translatedFrom": "Lifestyle/偏鄉醫療.md",
+          "sourceCommitSha": "662637931",
+          "sourceContentHash": "sha256:48c5be964de085c9",
+          "sourceBodyHash": "sha256:901ee5dd951dcae7",
+          "translatedAt": "2026-11-18T00:49:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 11710,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/rural-and-remote-healthcare.md",

@@ -2,6 +2,7 @@
 title: 'Sorry Youth: Tres chicos del sur cantan la soledad de los forasteros en taiwanés, y veinte años después se convierten en la voz de una generación'
 description: 'En 2005, tres jóvenes de Tainan que crecieron escuchando rock junto al mar decidieron escribir canciones en taiwanés, con la meta de que sus abuelos pudieran asentir con la cabeza. El problema: de los tres, solo Jiang Jiang hablaba taiwanés desde niño. De "Haikouwei" a "Zàoyīn Gōngyù", cuatro álbumes íntegramente en taiwanés, tres premios Golden Indie al mejor rock y dos récords de financiación colectiva en flyingV. Sorry Youth convirtió la soledad de los trabajadores migrantes en el lenguaje compartido de toda una generación.'
 date: 2026-04-27
+category: 'Music'
 tags:
   [
     'música en taiwanés',
@@ -14,18 +15,19 @@ tags:
     'Premios Golden Indie',
     'rock oficinista',
   ]
-category: Music
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12min
 lastVerified: 2026-04-27
 lastHumanReview: false
-translatedFrom: Music/拍謝少年.md
-sourceCommitSha: '4b6d28c5'
+readingTime: '12min'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Music/拍謝少年.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-17T23:36:57.298638+00:00'
 ---
 
 > **Panorama en 30 segundos:** En 2005, tres chicos de Tainan decidieron formar una banda de rock íntegramente en taiwanés tras asistir al Spring Scream. El problema era que solo Jiang Jiang hablaba taiwanés desde niño. "Haikouwei" (2012) llevaba un lisa en la portada; "Xiōngdì Méi Mèng Bù Yīnggāi" (2017) ganó el premio Golden Melody al mejor diseño de arte y el Golden Indie al mejor rock; "Tāihǎo Shì" (2021) recaudó más de 3.1 millones de NTD en flyingV; "Zàoyīn Gōngyù" (2024) volvió a batir su propio récord de crowdfunding y se alzó con el Golden Indie al mejor rock por tercera vez. De banda de oficinistas a músicos a tiempo completo, la consenso de Vini, Jiang Jiang y Zonghan a lo largo de veinte años se resume en una sola frase: "Primero vivamos bien nuestra vida, y la música se sostendrá por sí misma."
