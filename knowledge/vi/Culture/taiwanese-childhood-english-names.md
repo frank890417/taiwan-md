@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T12:58:38.591527+00:00'
+translatedAt: '2026-11-18T17:42:15.107952+00:00'
 ---
 
 # Những cái tên Anh văn trong tuổi thơ người Đài Loan: Mary, Kevin và quyền lực đặt tên của cô giáo
@@ -277,12 +279,13 @@ Từ Yotaka đến Olivia cách nhau 86 năm.
 
 Hành động bị ghi tên từ chưa bao giờ bị bãi bỏ — nó chỉ là thay đổi người phát tên.
 
-## Mở rộng đọc
+## Đọc thêm
 
-- [Ngôn ngữ ngoại lai Đài Loan và Liên hệ ngôn ngữ](/vi/culture/loanwords-and-language-contact-in-taiwan) — Từ sự mượn tiếng Nhật, tiếng Anh, tiếng Mân Nam giữa, xem nhiều tầng ngôn ngữ Đài Loan được chồng lên như thế nào
-- [Phong trào Phục hồi Ngôn ngữ Bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement) — Một dòng khác của nhận lại quyền lực đặt tên, từ phục hồi tiếng bản địa cho tới sửa đổi Luật Tên 2024
-- [Tưởng Vi Văn](/vi/people/chiung-wi-vun) — Mở rộng của phong trào văn tự tiếng Đài "thoát chữ Hán", quyền lực đặt tên với chủ quyền chữ tự là mặt khác
-- [Nhân cách Đài Loan](/vi/culture/taiwanese-sensibility) — Góc cnh sáng tác văn hoá, một góc độ khác để hiểu "tại sao người Đài Loan lúc nào cũng cảm thấy cần một tên ngoại lai"
+- [Tên của người Đài Loan (Chuyên đề)](/names/) — Sơ đồ hóa về họ, thế hệ, phiên âm và tên theo ngôn ngữ dân tộc, kèm theo công cụ tra cứu phiên âm tên gọi.
+- [Từ mượn và sự tiếp xúc ngôn ngữ tại Đài Loan](/vi/culture/loanwords-and-language-contact-in-taiwan) — Xem xét các lớp đa ngôn ngữ của Đài Loan được bồi đắp như thế nào thông qua việc vay mượn giữa tiếng Nhật, tiếng Anh và tiếng Đài Loan.
+- [Phong trào phục hưng ngôn ngữ bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement) — Một khía cạnh khác của việc giành lại quyền đặt tên, từ quá trình phục hưng ngôn ngữ dân tộc cho đến việc sửa đổi Quy định về Tên năm 2024.
+- [Tưởng Vi Văn (Chiang Wei-wen)](/vi/people/chiung-wi-vun) — Sự đối chiếu mở rộng với logic "thoát Hán" của phong trào văn tự tiếng Đài Loan, một mặt khác của chủ quyền tên gọi và chữ viết.
+- [Cảm thức Đài Loan](/vi/culture/taiwanese-sensibility) — Góc nhìn giám tuyển về tâm thế văn hóa, giúp hiểu thêm một tầng nghĩa khác về câu hỏi "Tại sao người Đài Loan luôn cảm thấy cần có một cái tên ngoại ngữ".
 
 ## Nguồn hình ảnh
 

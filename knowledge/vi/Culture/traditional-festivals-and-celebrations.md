@@ -19,11 +19,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/傳統節慶與慶典.md'
-sourceCommitSha: 'a05d24314'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
-translatedAt: '2026-07-25T02:52:45+08:00'
+translatedAt: '2026-11-18T17:10:22.709007+00:00'
 ---
 
 # Khi sức bệnh tan biến, pháo hoa trở thành truyền thống: Sự phát triển bất ngờ của văn hóa lễ hội ở Đài Loan

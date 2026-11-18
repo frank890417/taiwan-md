@@ -2,9 +2,7 @@
 title: 'Trà đạo và mỹ học đời sống Đài Loan'
 description: 'Hương mật từ vết cắn của một loài côn trùng, phong trào dân chủ trong một ngôi nhà cổ kiểu Nhật, thị trường toàn cầu bị chinh phục bởi một ly trà sữa trân châu — văn hóa trà Đài Loan đã phát triển từ di sản thuộc địa thành một mỹ học đời sống độc đáo như thế nào'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '工藝與美學'
 tags:
   [
     'Văn hóa trà',
@@ -13,16 +11,20 @@ tags:
     'Trà Đông Phương Mỹ Nhân',
     'Tử Đằng Lư',
   ]
+subcategory: '工藝與美學'
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: '2948c945'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
 sourceBodyHash: 'sha256:b5154ba7226ad9d9'
-translatedAt: '2026-07-18T18:59:51+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-18T17:09:41.044278+00:00'
 ---
 
 # Trà đạo và mỹ học đời sống Đài Loan

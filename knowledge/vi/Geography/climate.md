@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: 'ceeee0ae6'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:0275e27f1a1e4e68'
 sourceBodyHash: 'sha256:c3a7643c439033af'
-translatedAt: '2026-07-28T07:06:36+08:00'
+translatedAt: '2026-11-18T17:01:48.654403+00:00'
 ---
 
 # Khí hậu Đài Loan
