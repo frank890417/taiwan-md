@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T21:47:10.712418+00:00'
 ---
 
 # Joe Fang: Ein Kind aus einer Wohnsiedlung in Pingtung macht die Großen Preise zu taiwanischem Gedächtnis
@@ -103,19 +105,19 @@ Diese lokale Einbindung spiegelt sich auch in seiner persönlichen Medienpräsen
 
 ## Referenzen
 
-[^1]: [Joe Fang — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Lebenslauf, Ausbildung und Werkschronologie von Joe Fang, einschließlich der Herkunft aus der Wohnsiedlung Donggang in Pingtung (1978), der Fachhochschule und dem Abendstudium an der National Taiwan University.
+[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Lebenslauf, Ausbildung und Werkverzeichnis von Fang Hsu-chung, einschließlich seiner Herkunft aus dem Gonghe-Neudorf in Donggang, Pingtung (geboren 1978), sowie seiner Zeit an der Fuhsing Vocational High School und der Nachtabteilung der Metallwerkstatt der Taiyang College of Arts.
 
-[^2]: [Joe Fang Studio About](https://joefangstudio.com/?page_id=2) — Offizielle Vorstellung des Studios, einschließlich Gründungsdatum (2013) und Tätigkeitsbereiche.
+[^2]: [Joe Fang Studio About](https://joefangstudio.com/?page_id=2) — Offizielle Vorstellung des Joe Fang Studios, einschließlich des Gründungsjahres (2013) und des Leistungsspektrums.
 
-[^3]: [Mirror Weekly: Markenmanagement der Großen Preise – Joe Fang belebt die Hauptvisualisierung](https://www.mirrormedia.mg/story/20190125insight001/) — Der Kontext der Zusammenarbeit bei den Hauptvisualisierungen der Großen Preise und die Einladung durch Chen Zhenchuan.
+[^3]: [Mirror Media: Markenführung der drei großen Preisverleihungen – Fang Hsu-chung belebt die Hauptvisuals durch Design](https://www.mirrormedia.mg/story/20190125insight001/) — Kontext der Zusammenarbeit bei den Hauptvisuals der drei großen Preisverleihungen und der Prozess der Einladung durch Chen Chen-chuan.
 
-[^4]: [Offizieller Goldenen Filmpreis: Hauptvisual 55](https://www.goldenhorse.org.tw/) — Erklärung des Konzepts „Nebendarsteller“ für die Goldenen Filmpreise 55 im Jahr 2018.
+[^4]: [Golden Horse Awards Official: Hauptvisual der 55. Ausgabe](https://www.goldenhorse.org.tw/) — Erläuterung des Konzepts für das Hauptvisual der 55. Golden Horse Awards 2018 zum Thema „Nebenrollen“.
 
-[^5]: [Ministerium für Kultur, Film und Popmusikindustrie – Nominierungen der Goldenen Musikpreise](https://www.bamid.gov.tw/) — Die Nominierungsgeschichte von Joe Fang für das beste Albumcover des Goldenen Musikpreises.
+[^5]: [Ministerium für Kultur, Bureau of Audiovisual and Music Industry — Nominierungen der Golden Melody Awards](https://www.bamid.gov.tw/) — Aufzeichnungen über die Nominierungen von Fang Hsu-chung für das beste Buchdesign bei den Golden Melody Awards.
 
-[^6]: [Joe Fang, die Wahrnehmung Pingtungs umgekehrt: Vorstellungskraft und Erwartungen – The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Joe Fang spricht über seine Kindheit in der Wohnsiedlung Donggang in Pingtung, das Florist Project und seinen Designkontext.
+[^6]: [Fang Hsu-chung: Die Wahrnehmung von Pingtung verändern und Vorstellungskraft sowie Erwartungen verleihen — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung spricht über seine Kindheit in den Militärfamilien-Dörfern von Donggang, Pingtung, das „Little Flower Project“ und seinen Designkontext.
 
-[^7]: [Designer und ihr Studio – Joe Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Interview zur Markenentwicklung des National Taiwan University; enthält die Arbeitsmethoden von Joe Fang und die Zusammenarbeit bei den Großen Preisen.
+[^7]: [Designer und ihre Studios — Joe Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Interviewprotokoll eines Marken-Designprojekts der National Chengchi University, einschließlich der Arbeitsweise des Joe Fang Studios und des Prozesses bei der Übernahme der drei großen Preisverleihungen.
 
 ## Weiterführende Lektüre
 

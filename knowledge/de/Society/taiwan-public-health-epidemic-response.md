@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-09-12T19:24:15+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-18T21:00:27.641748+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 2003 forderte SARS in Taiwan 73 Todesopfer, die Abriegelung des Heping-Krankenhauses wurde zum kollektiven Trauma der öffentlichen Gesundheitsgeschichte. Danach baute Taiwan das gesamte Seuchenschutzsystem fast vollständig neu auf: Aufwertung des Centers for Disease Control (CDC), Gesetzliche Verankerung des Central Epidemic Command Center (CECC), umfassende Überarbeitung der Infektionskontrollverfahren. 2020, als sich COVID-19 weltweit ausbreitete, wahrte Taiwan in den ersten 18 Monaten nahezu null lokale Infektionen, was von der internationalen Gemeinschaft als „Taiwan-Modell“ bezeichnet wurde. Im April 2026 trat Taiwans erster einheimischer H7N7-Vogelgrippe-Fall „Vogel-zu-Mensch-Übertragung“ auf – das Seuchenschutzsystem wurde erneut auf die Probe gestellt.
@@ -79,29 +81,26 @@ Genau hier wirkt SARS' Vermächtnis: Es gibt eine zuständige Behörde (CDC), ei
 | Ausrüstungsmangel       | Realnamen-Maskensystem in 72 Stunden aufgebaut | 40.000–50.000 Masken umgehend an Entenbauern verteilt |
 | Intransparenz           | Tägliche Pressekonferenzen                     | Echtzeit-Veröffentlichung der Gensequenzierung        |
 
-## Krankenversicherung: Die unsichtbare Infrastruktur des Seuchenschutzes
+## Krankenversicherung: Die unsichtbare Infrastruktur der Pandemiebekämpfung
 
-Die Basis von Taiwans Seuchenschutzsystem ist die 1995 eingeführte Nationale Krankenversicherung (全民健康保險).
+Das Fundament des taiwanesischen Systems zur Pandemiebekämpfung ist die 1995 eingeführte [nationale Krankenversicherung](/de/lifestyle/taiwan-healthcare-and-national-health-insurance/).
 
-23,4 Millionen Menschen teilen eine Krankenversicherungsdatenbank, eine Krankenversichertenkarte. Diese Karte wurde während COVID-19 zur Seuchenschutz-Infrastruktur: Das realnamenbasierte Maskensystem basierte auf der Karte, die Reisegeschichts-Markierung war mit der Karte verknüpft, Impfnachweise wurden auf der Karte gespeichert. Ohne diese die gesamte Bevölkerung abdeckende Datenbank wäre das Taiwan-Modell nicht möglich gewesen[^10].
+23,4 Millionen Menschen teilen sich eine einzige Datenbank und eine einzige Krankenversicherungskarte. Während COVID-19 wurde diese Karte zur entscheidenden Infrastruktur der Seuchenbekämpfung: Die registrierte Maskenbestellung basierte auf der Krankenversicherungskarte, die Erfassung von Reisehistorien erfolgte über die Verknüpfung mit der Karte, und die Impfaufzeichnungen wurden direkt auf ihr gespeichert. Ohne diese flächendeckende Datenbank wäre das „Taiwan-Modell“ nicht möglich gewesen[^10].
 
-> **✦** „SARS ist die schmerzhafteste Lektion in Taiwans öffentlicher Gesundheitsgeschichte. Doch die schmerzhafteste Lektion lehrt die besten Schüler.“
+> **✦** „SARS war die schmerzhafteste Lektion in der Geschichte der öffentlichen Gesundheit Taiwans. Aber aus den schmerzhaftesten Lektionen lernen die besten Schüler.“
 
-23 Jahre nach der Abriegelung des Heping-Krankenhauses steht das Gebäude noch immer in der Zhonghua-Straße in Taipeh. Medizinisches Personal, das die Notaufnahme betritt, erinnert sich teilweise noch an jene Zeit. Ho Sung-jung sagt, er grolle nicht, doch die Narbe sei „nicht vollständig verheilt“. Vielleicht muss sie das auch nicht. Vielleicht ist das wichtigste Organ eines Seuchenschutzsystems eben das Erinnern an den Schmerz.
+Dreiundzwanzig Jahre nach der Versiegelung des Heping-Krankenhauses steht das Gebäude noch immer in der Zhonghua Road in Taipeh. Einige des medizinischen Personals, die die Notaufnahme betreten, erinnern sich noch an die damaligen Ereignisse. Ho Sung-jung sagt, er hege keinen Groll, doch die Narbe sei „nicht vollständig verheilt“. Vielleicht muss sie auch gar nicht heilen. Vielleicht ist das wichtigste Organ eines Pandemiebekämpfungssystems, sich an den Schmerz zu erinnern.
 
 **Weiterführende Literatur:**
 
-- [Taipehs Raucherräume: Die atmenden Glaskästen in der rauchfreien Stadt](/de/society/taipei-smoking-room) — Das neueste Kapitel der vierzigjährigen Kampagne gegen Tabakschäden, das Schlachtfeld verlagerte sich von drinnen nach draußen
+- [Raucherzonen in Taipeh: Die atmende Glasbox in einer rauchfreien Stadt](/de/society/taipei-smoking-room) — Das neueste Kapitel des vierzigjährigen Marsches gegen die Gefahren des Tabakkonsums, bei dem sich das Schlachtfeld von Innenräumen nach draußen verlagert hat
 
-- [Taiwans Gesundheitswesen und Nationale Krankenversicherung](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die Infrastruktur des Seuchenschutzes: Die Krankenversicherungsdatenbank von 23,4 Millionen Menschen
-
-- [Audrey Tang](/de/people/audrey-tang) — Die Digitalministerin hinter der Masken-Karte
-
-- [Taiwans Katastrophenmedizinisches System](/de/technology/taiwan-disaster-medicine-system) — Vom 921-Erdbeben bis SARS: Wie Katastrophen die medizinische Evolution antreiben
-
-- [Taiwans COVID-19-Pandemie und Impfstoffe](/de/society/taiwan-covid-pandemic-and-vaccines) — Das nach SARS aufgebaute System wurde 2020 bis 2023 vollständig getestet: Die Grenze hielt 18 Monate, doch Impfstoffe und die dritte Dosis für Ältere kamen nicht rechtzeitig
-
-- [Zwei Gesetze zur regenerativen Medizin × 30 Jahre mRNA](/de/society/taiwan-regenerative-medicine-laws) — Die doppelte Erzählung von BNT-Beschaffung 2021 und Zelltherapie-Gesetzgebung, eine erweiterte Perspektive auf den COVID-Seuchenschutz dieses Artikels
+- [Taiwanesische Medizin und die nationale Krankenversicherung](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die Basisinfrastruktur des Pandemiebekämpfungssystems: Die Datenbank der 23,4 Millionen Versicherten
+- [Audrey Tang](/de/people/audrey-tang) — Die digitale Ministerin hinter der Maskenkarte
+- [Das taiwanesische Katastrophenmedizin-System](/de/technology/taiwan-disaster-medicine-system) — Von 921 bis SARS: Wie Katastrophen die medizinische Evolution vorantreiben
+- [Sonderthema Medizin und Langzeitpflege](/health/) — Systeme, Geschichte und Einnahmen-Ausgaben der Krankenversicherung und der Langzeitpflege, inklusive Rechner für Pflegezuschüsse und Versicherungsbeiträge
+- [COVID-19 und Impfungen in Taiwan](/de/society/taiwan-covid-pandemic-and-vaccines) — Dieses nach SARS aufgebaute System wurde zwischen 2020 und 2023 umfassend getestet: Die Grenzen hielten 18 Monate lang stand, doch die dritte Impfung für Senioren kam nicht rechtzeitig hinterher
+- [Regenerative Medizin & mRNA – 30 Jahre Entwicklung](/de/society/taiwan-regenerative-medicine-laws) — Eine Doppelchronik aus der BNT-Beschaffung im Jahr 2021 und der Gesetzgebung zur Zelltherapie; eine Erweiterung der Perspektive auf die COVID-Pandemiebekämpfung
 
 ## Quellen
 

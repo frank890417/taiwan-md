@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴聲川.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:171a521ab055d1cf'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:c47b590333d1a690'
 sourceBodyHash: 'sha256:eb36a190f4b7ada8'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-18T21:52:16.849931+00:00'
 ---
 
 # Stan Lai: Brücke zwischen Theater auf beiden Seiten der Taiwanstraße
@@ -98,21 +100,21 @@ In den letzten Jahren hat Stan Lai seine kreative Arbeit stärker auf kulturelle
 
 Stan Lai wurde **zweimal mit dem nationalen Kulturpreis ausgezeichnet**, wobei die **erste Ehrung 2007 (11. Ausgabe)** die herausragende Leistung seiner vierzigjährigen Karriere würdigte. Er sagte einmal: **„Theater ist ein Spiegel, der den Geist seiner Zeit widerspiegelt.“** Seine Werke dokumentieren nicht nur die kulturelle Entwicklung Taiwans vom martialischen Regime zur Demokratie, sondern sind auch ein wichtiger Teil der chinesischsprachigen Kultur. BBC bezeichnete ihn als **„den führenden chinesischsprachigen Dramatiker der Gegenwart“**, und die **China Daily** nannte ihn **„einen der führenden Theaterdramatiker Asiens“**.[^7]
 
-## Quellen
+## Referenzen
 
-[^1]: [Stan Lai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Biografie, Geburtsdatum 1954/10/25, Vater Lai Chia-ch’ü (Lai Chia-chi), Promotion 1983 an der UC Berkeley, Gründung des Wuzhen Drama Festival 2013. Siehe auch [Performing Arts Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
+[^1]: [Stan Lai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Biografie von Stan Lai, Geburtsdatum 25.10.1954, Vater Lai Chia-chiu, PhD an der UC Berkeley 1983, vollständige Aufzeichnungen über die Mitbegründung des Wuzhen Theatre Festival 2013. Siehe auch [Performance Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
 
-[^2]: [Nationales Institut für Schauspiel, Nationales Taiwan Institut für Schauspiel](https://theatre.tnua.edu.tw/) — Gründungsgeschichte und Hintergrund der Arbeit von Stan Lai.
+[^2]: [Taipei Arts University, School of Drama](https://theatre.tnua.edu.tw/) — Informationen zur Geschichte der Taipei Arts University und zum Hintergrund der Lehrtätigkeit von Stan Lai.
 
-[^3]: [Offizielle Website der Performing Arts Workshop](http://www.pw-theatre.com/) — Geschichte der Gruppe, Gründung und Chronologie der Werke.
+[^3]: [Offizielle Website des Performance Workshop](http://www.pw-theatre.com/) — Geschichte der Theatergruppe, Gründungsprozess und Chronologie der Werke.
 
-[^4]: [„Dark Love in the Peach Blossom Land“ — Performing Arts Workshop](http://www.pw-theatre.com/) — Uraufführung, Aufführungsanzahl und Struktur des Stücks.
+[^4]: [Einführung zum Stück „Secret Love in Peach Blossom Land“ — Performance Workshop](http://www.pw-theatre.com/) — Jahr der Uraufführung, Aufführungszahlen und Erläuterungen zur Skriptstruktur.
 
-[^5]: [Goldene Lorbeer / Kulturministerium — Taiwanische Datenbank für darstellende Künste](https://pacsnet.org.tw/) — Entwicklung des taiwanesischen Theaters in den 1990er Jahren und Chronologie der Werke von Stan Lai.
+[^5]: [Golden Melody Awards/Ministerium für Kultur — Taiwan Performing Arts Archive](https://pacsnet.org.tw/) — Die Entwicklung des taiwanischen Theaters in den 1990er Jahren und die Chronologie der Werke von Stan Lai.
 
-[^6]: [„Formosa Village“ — Performing Arts Workshop](http://www.pw-theatre.com/) — Produktionshintergrund und Aufzeichnungen der Auftritte auf beiden Seiten der Taiwanstraße.
+[^6]: [„Formosa Village“ — Performance Workshop](http://www.pw-theatre.com/) — Produktionshintergrund und Aufführungsaufzeichnungen auf beiden Seiten der Taiwanstraße.
 
-[^7]: [Stan Lai, nationale Kulturpreis-Daten — Stiftung für Kultur und Kunst Taiwans](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Vollständige Informationen über die Auszeichnung mit dem nationalen Kulturpreis. Siehe auch [Taiwan Light Magazine: „The Dream of a Dream — Das theaterleben von Stan Lai“](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) über den 11. Preis.
+[^7]: [Stan Lai, Daten zum National Literary Art Award — National Culture and Arts Foundation](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Vollständige Informationen über die Verleihung des National Literary Art Award an Stan Lai. Siehe auch den Bericht über den elften Preisträger in [Taiwan Guanghua Magazine: Wie ein Traum von Träumen – Stan Lais Theaterleben](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66).
 
 ## Weiterführende Literatur
 

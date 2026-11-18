@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T09:50:04.935957+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-18T20:45:35.312313+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwaner bezeichnen sich selbst als «X-Klässler», wobei die Zehnerstelle des Geburtsjahres im Minguo-Kalender genommen wird: Fünftklässler sind Jahrgänge Minguo 50–59 (1961–1970), fortlaufend bis zu den Neuntklässlern (2001–2010). Der seit dreissig Jahren verwendete Schimpfbegriff «Erdbeer-Generation» erschien 1993 erstmals in Print und zielte auf die damals Zwanzigjährigen – also die heutigen Fünfzigjährigen, die Fünftklässler[^1]; anschliessend wanderte er weiter zu den Siebt-, Acht- und Neuntklässlern. Die Gescholtenen wechselten mehrmals, das Etikett blieb buchstabengetreu gleich. Was sich tatsächlich zwischen den fünf Generationen bewegte, ist die Rolltreppe unter ihren Füssen, auf der «Anstrengung wird belohnt» stand: Sie verlangsamte sich um 2002 herum, als Reallöhne und Produktivität auseinanderklafften[^2]; gleichzeitig wurde der Einstieg durch Immobilienpreise verteuert – das Preis-Einkommens-Verhältnis in Taipeh stieg von 6,4-fach (2004) auf 15,41-fach (2025)[^3]; schliesslich spaltete sie sich in zwei Stränge: der reine Lohn-Strang kam nahezu zum Stillstand, der mit Elternkapital (Anzahlung) finanzierte läuft noch.
@@ -174,23 +176,24 @@ Bei den Neuntklässler zeigt sich eine interessante Spannung. Diese Generation w
 > 📝 **Kuratorennotiz**
 > «Kulturell china-nah, politisch china-fern» – dieser scheinbare Widerspruch ist genau der Ort, an dem Taiwan.md den Lesern kein Urteil aufdrängen sollte. Ein Neuntklässler, der Festland-Shorts mag und gleichzeitig den Status quo Taiwans unterstützt, empfindet das möglicherweise gar nicht als widersprüchlich, weil Kulturkonsum und nationale Identität zwei verschiedene Dinge sind. Die Aufgabe hier ist, die Spannungen, die Chengchi-Wahlforschung, Pew, Shen Wei-chieh, Doublethink Lab jeweils sehen, ehrlich auszubreiten – damit Leser die Komplexität dieser Generation sehen, bevor man «china-freundlich» oder «china-feindlich» als Etikett aufklebt. Das Etikettieren der nächsten Generation ist genau das, was dieser ganze Text auseinandernehmen will.
 
-## Die Erdbeere wurde nicht weich – der Boden wurde schräger
+## Nicht die Erdbeeren wurden weich, der Boden wurde schief
 
-Legt man die fünf Geburtsurkunden übereinander, sieht man eine stille Tatsache. Der Fünftklässler-Jahrgang 1963 hatte 427 212 Altersgenossen, die gemeinsam in diese Welt traten; der Neuntklässler-Jahrgang 2010 nur noch 166 886 – nicht einmal 40 % des Fünftklässler-Gipfels, ganze über zwanzig万人 weniger[^24].
+Betrachtet man fünf Geburtsurkunden übereinander, wird eine sehr leise Tatsache sichtbar. Der Jahrgang 1963 in der fünften Klasse zählte 427.212 Kinder, die gemeinsam in diese Welt kamen; der Jahrgang 2010 in der neunten Klasse nur noch 166.886 – nicht einmal vierzig Prozent des Höchststands der Fünftklässler, ganze über zweihunderttausend weniger[^24].
 
-Weniger Menschen, der Kuchen nicht grösser, aber die Stockwerke höher. In solchem Gelände erreichen spätere Generationen mit derselben Kraft nicht die Höhen der früheren. Nicht weil die Erdbeere weicher wurde, sondern weil der Boden unter den Füssen schräger wurde – und ungleichmässig schräger: Manchen liegt eine elterngelegte sanfte Rampe unter den Füssen, anderen bleibt nur eine fast senkrechte Wand.
+Die Menschen wurden weniger, der Kuchen wurde nicht größer, doch die Türme wuchsen immer höher. In solchem Gelände erreichen spätere Generationen mit derselben Anstrengung nicht die Positionen, die frühere Generationen erklommen. Nicht weil die Erdbeeren weich wurden, sondern weil der Boden unter den Füßen schief wurde – und zwar ungleichmäßig: manchen liegt eine sanfte Rampe zu Füßen, die die Eltern gepflastert haben, anderen bleibt nur eine nahezu senkrechte Wand.
 
-«Jahrgang» ist letztlich nur ein Eingang. Er taugt, weil er zeigt, wie die Rolltreppe Jahr für Jahr steiler wurde; er darf nicht das Ziel sein, weil das, was wirklich entscheidet, ob jemand hinaufkommt, oft ist, ob seine Rolltreppe an Lohn oder an Erbe angeschlossen ist – und dieser Riss verläuft mitten durch jeden einzelnen Jahrgang. Pew Research Center verkündete 2023 sogar, künftig weniger Generationenetiketten zu verwenden, weil viele der «Generationen» zugeschriebenen Unterschiede letztlich auf demografische Merkmale zurückgingen[^25]. Selbst die Institution, die die Generationentypologie gross gemacht hat, beginnt, das Werkzeug in Frage zu stellen.
+Der Koordinate „Jahrgang“ ist letztlich nur ein Einstieg. Er ist nützlich, weil er zeigt, wie die Rolltreppe Jahr für Jahr steiler wird; er darf aber nicht das Ziel sein, denn was wirklich entscheidet, ob jemand hinaufkommt, ist oft, ob die Rolltreppe unter seinen Füßen an ein Gehalt oder an ein Erbe angeschlossen ist – und dieser Riss verläuft mitten durch jeden Jahrgang. Das Pew Research Center kündigte 2023 sogar an, künftig seltener Generationslabels für Berichterstattung zu nutzen, weil viele der Unterschiede, die man „Generationen“ zuschreibt, letztlich auf demografische Merkmale selbst zurückgehen[^25]. Sogar die Institution, die die Generationseinteilung einst populär machte, ruft nun Halt zu diesem Werkzeug.
 
-✦ Also: Beim nächsten Mal, bevor «Die Jugend von heute ist eben Erdbeer-Generation» über die Lippen kommt, einen Gedanken vorher: Die ersten, die damit gemeint waren, warst wahrscheinlich du. Und was sich in diesen dreissig Jahren wirklich veränderte, ist die Rolltreppe, auf die du damals stiegst – sie lief noch; später wurde sie langsamer, steiler, und am Ende spaltete sie sich in zwei. Dass der Satz «Niemand entdeckt mich mehr» von Wretch.cc eine ganze Generation liken liess, liegt genau daran: Jede Generation hat ihren eigenen, für andere unzugänglichen Jugendraum – und die Miete für diesen Raum wird Generation für Generation teurer.
+✦ Also, bevor man das nächste Mal „Die Jugend von heute sind eben Erdbeeren“ sagt, sollte man an eines denken: Die, die dieses Wort zuerst beschimpfte, waren wahrscheinlich du selbst mit Anfang zwanzig. Was sich in diesen dreißig Jahren wirklich verändert hat, ist jene Rolltreppe, auf die du damals stiegst, als sie noch lief – sie wurde langsamer, steiler, und spaltete sich schließlich in zwei. Dass jener Satz von Wretch.cc – „Niemand entdeckt mich mehr“ – eine ganze Generation zum Liken brachte, liegt daran, dass jede Generation ein Stück Jugend besitzt, das nur ihr gehört, in das sich niemand sonst hineindrücken kann – und die Miete für dieses Stück Jugend wird von Generation zu Generation teurer.
 
-**Weiterführende Lektüre**:
+**Weiterführende Links**:
 
-- [Taiwans Slash-Generation](/de/society/taiwan-slash-generation-multi-job-economy) – Wie Siebt- und Achtklässler in der Niedriglohnstruktur ein Gehalt in drei Jobs aufteilen
-- [Taiwans Jugend: Karriere-Irrfahrt](/de/society/taiwan-youth-career-confusion) – Sechzehn Jahre Ausbildung, am Abschlusstag die häufigste Frage: «Ich weiss nicht, was ich tun soll»
-- [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) – Geburtenzahlen von 420 000 auf 160 000 eingebrochen, wie der Kuchen Jahr für Jahr schrumpft
-- [Taiwans Vereinigungs-Unabhängigkeits-Spektrum](/de/society/taiwan-unification-independence-spectrum) – Das volle Bild der Identitätswasserscheide, von «Wer bin ich» bis «Wohin gehen wir»
-- [Wretch.cc](/de/culture/wretch) – Der digitale Jugendserver der Siebtklässler, 2013 abgeschaltet, 2025 auf Threads wieder aufgetaucht
+- [Selbsttest Wohnkostenbelastung](/housing/affordability-check/) — Einkommen und Immobilienpreis eingeben, eigene Hypothekenquote berechnen, abgeglichen mit dem Vier-Stufen-Standard des Innenministeriums und den offiziellen Zahlen der Landkreise und Städte
+- [Taiwans Slash-Generation](/de/society/taiwan-slash-generation-multi-job-economy) — Siebt- und Achtklässler in der Niedriglohnstruktur: die Überlebensmathematik, ein Gehalt in drei Jobs aufzuteilen
+- [Taiwans Jugend: Karriere-Irrläufer](/de/society/taiwan-youth-career-confusion) — Sechzehn Jahre zur Schule gehen, am Abschlusstag am häufigsten fragen: „Ich weiß nicht, was ich tun soll“
+- [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) — Geburtenzahlen von 420.000 auf 160.000 eingebrochen, wie der Kuchen Jahr für Jahr kleiner wird
+- [Taiwans Vereinigungs-Unabhängigkeits-Spektrum](/de/society/taiwan-unification-independence-spectrum) — Das volle Bild der Identitätswasserscheide, von „Wer bin ich“ bis „Wohin gehen wir“
+- [Wretch.cc](/de/culture/wretch) — Der digitale Server der Siebtklässler-Jugend, 2013 geschlossen, 2025 auf Threads wieder aufgetaucht
 
 ## Bildquellen
 

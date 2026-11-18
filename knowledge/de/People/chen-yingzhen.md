@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:38+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T21:34:04.827911+00:00'
 ---
 
 # Chen Yingzhen: Von Zhunan nach Peking – Das literarische Gewissen der Einigungsbewegung
@@ -77,11 +79,11 @@ Diese Haftzeit festigte Chen Yingzhens linke Position und seinen politischen Ans
 
 ## Theoretiker der nativistischen Literaturbewegung
 
-In den 1970er Jahren entstand in Taiwan die nativistische Literaturbewegung. 1976 war Chen Yingzhen Redakteur der Zeitschrift „Xia Chao“. Im Nativistischen-Literatur-Streit 1977–78 veröffentlichte er Essays wie „Etablierung des Stils einer nationalen Literatur“, „Literatur kommt aus der Gesellschaft und spiegelt die Gesellschaft wider“, „Der blinde Fleck der nativistischen Literatur“ und widerlegte damit Yu Guangzhongs Kritik, die nativistische Literatur neige zur Arbeiter-Bauern-Soldaten-Literatur; er gilt daher als einer der Hauptvertreter der nativistischen Strömung.[^5]
+In den 1970er Jahren entstand in Taiwan die nativistische Literaturbewegung. 1976 war Chen Yingzhen als Redakteur der Zeitschrift _Xia Chao_ (《夏潮》) tätig. In der [Debatte um die nativistische Literatur](/de/history/nativist-literature-debate/) von 1977–78 veröffentlichte er Aufsätze wie 〈建立民族文學的風格〉, 〈文學來自社會反映社會〉 und 〈鄉土文學的盲點〉, in denen er die Kritik von Yu Guangzhong (余光中) und anderen zurückwies, die nativistische Literatur neige zur Arbeiter-Bauern-Soldaten-Literatur (工農兵文學). Dadurch galt er als einer der Hauptvertreter der nativistischen Strömung.[^5]
 
-„Xu Nancun“ ist eines seiner Pseudonyme, z. B. für „Neue Hoffnung der realistischen Kunst“ (1978 in „Shi Chao“, 3. Sammlung). Die oben genannten Streitartikel erschienen unter dem Namen Chen Yingzhen.
+„Xu Nancun“ (許南村) war eines seiner Pseudonyme, unter dem er beispielsweise 1978 den Aufsatz 〈現實主義藝術的新希望〉 in der dritten Ausgabe von _Shi Chao_ (《詩潮》) veröffentlichte. Die oben genannten Debattenartikel erschienen hingegen unter seinem Namen Chen Yingzhen.
 
-In den 1980er Jahren wirkte er weiter an der Redaktion von „Wen Ji“ und „Xia Chao“ mit und lieferte sich im Streit um den „China-Knoten“ versus „Taiwan-Knoten“ Gefechte mit Vertretern des taiwanesischen Lokalismus, darunter Chen Fang-ming.
+In den 1980er Jahren wirkte er weiterhin an der Redaktion von _Wen Ji_ (《文季》) und _Xia Chao_ mit und lieferte sich in der Debatte um den „China-Knoten“ (「中國結」) und den „Taiwan-Knoten“ (「台灣結」) ein Gefecht mit Vertretern der taiwanesischen Nativisten, darunter Chen Fangming (陳芳明).
 
 ## Zeitschriftengründung und Kulturförderung
 

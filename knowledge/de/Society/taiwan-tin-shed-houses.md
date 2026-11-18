@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2513952bc4eab478'
-sourceBodyHash: 'sha256:96d147de5fc403fe'
-translatedAt: '2026-09-11T12:47:23+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:997d7b4d1eaa5fa3'
+sourceBodyHash: 'sha256:5ca208b092a24109'
+translatedAt: '2026-11-18T20:54:23.627087+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Landesweit gibt es 716.372 illegale Bauten; die sechs Metropolregionen machen acht Zehntel aus, wobei allein Neihu (New Taipei City) 186.000 Fälle aufweist[^1]. Die Stadt Taipeh zog 1995 eine Linie: „Bestehende Verstöße“ vor dem 31. Dezember 1994 wurden toleriert, während „neue Verstöße“ sofort gemeldet und abgerissen werden mussten[^4]. Diese Linie verwandelte Illegalität in Toleranz, Toleranz in Stadtbild und das Stadtbild schließlich in die Notlage im Brandfall. Dasselbe Blechdach stützte die Dichte von Convenience Stores mit Wohn- und Gewerbenutzung, was zur taiwanesischen Sicherheitslegende beitrug: „Man findet nachts immer eine beleuchtete Straße“[^9].
@@ -103,21 +105,22 @@ Das Innenministerium hat die Kriterien für bestehende Verstöße im Jahr 2024 n
 
 Der Untertitel des Dossiers von _Commercial Weekly_ lautet: „Mit der richtigen Methode kann man illegale Bauten nicht abreißen.“[^13] Aber die „richtige Methode“ existiert derzeit nur in wenigen Hotspots, bei denen die Regierung bereit ist, die Kosten für die Stadtentwicklung zu tragen. Für die meisten Blechdächer, die über die sechs Metropolregionen verstreut sind, steht die Linie von 1994 noch an ihrem Platz.
 
-## Dieses Metall wird weiterbestehen
+## Diese Metallschicht wird bleiben
 
-Wenn Sie im Jahr 2026 nachmittags vom Zentralmassiv fliegen und auf der Landebahn blicken, ist die Skyline von Taoyuan, Neihu (New Taipei City), Taichung und Kaohsiung ein Meer aus orangefarbenen (rostgeschützten) und silbernen (verzinkten) Wellen. Dies sind Entscheidungen, die 716.000 Haushalte jeweils getroffen haben – jeder für sie vernünftig, aber zusammen unkontrollierbar.
+Wenn Sie an einem Nachmittag im Jahr 2026 über das Zentralgebirge fliegen und von der Landebahn aus nach draußen blicken, werden die Skylines von Taoyuan, New Taipei, Taichung und Kaohsiung ein Meer aus Wellblech in Orange (Rostschutzlack) und Silber (verzinkte Stahlplatten) sein. Es sind die Entscheidungen von 716.000 Haushalten – jede für sich genommen vernünftig, aber in der Summe unkontrollierbar geworden.
 
-Chen Cheng-yi schrieb: „Die großen Ladenbeschilderung zeigen den Egoismus und das Vergleichsdenken; die Blechdächer zeigen Effizienz über alles durch Schnelligkeit und Billigheit, aber letztendlich sind beide fragil.“[^11] Ziyu de Dusuanzhai schrieb eine andere Zeile: „Viele Mängel und Vorteile sind Ergebnisse einer Einheit zweier Seiten.“[^9]
+Chen Cheng-yi schrieb einmal: „Die großen Ladenschilder betonen eine Mentalität des Egozentrismus und des ständigen Vergleichs, während die Blechhütten eine auf Schnelligkeit und billige Effizienz ausgerichtete Priorität widerspiegeln, doch in Wahrheit sind beide fragil.“[^11] Zi Yu schrieb in seinem „Dusu Zhai“ etwas anderes: „Viele Vor- und Nachteile sind lediglich zwei Seiten derselben Medaille.“[^9]
 
-Beide haben recht. Der Dachausbau der fünfköpfigen Familie in Liuchao, Tainan, ist zerbrechlich; der 24-Stunden-Convenience Store an der Ecke von Dongning Road ist sicher – dasselbe Metall, auf derselben Straße gebaut, entschieden durch die Linie von 1994, wer abgerissen und wer bleiben darf.
+Beide haben recht. Der Blechdach-Ausbau der fünfköpfigen Familie in Liujia, Tainan, ist fragil; der 24-Stunden-Convenience-Store an der Straßenecke der Dongning Road ist sicher – dasselbe Metall, auf derselben Straße, bestimmt durch dieselbe Linie aus dem Jahr 1994, wer abgerissen werden muss und wer bleiben darf.
 
-Wo wird das nächste Feuer in einem bestehenden Verstoß ausbrechen? Niemand weiß es genau. Solange diese Linie existiert, wird das nächste Feuer passieren.
+Auf dem Dach welches bestehenden illegalen Anbaus wird das nächste Feuer ausbrechen? Niemand kann es mit Sicherheit sagen. Solange diese Linie existiert, wird das nächste Feuer kommen.
 
-**Weiterführende Lektüre:**
+**Weiterführende Literatur**:
 
-- [Sozialwohnungen und Wohngerechtigkeit](/de/society/social-housing-and-housing-justice) — Die Schwierigkeiten bei der Förderung von Sozialwohnungen in Taiwan und die Mietmarktsituation, zu dem größere Wohnstrukturproblem gehört.
-- [Umweltgerechtigkeit und NIMBY-Streit in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Erweiterung des Themas Landnutzung und Umweltverschmutzung hinter der Räumung der Blechfabriken in Wenzaizhen.
-- [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories) — Die Komplexität der Landnutzung zwischen „legal“ und „illegal“ aus verschiedenen Blickwinkeln verstehen.
+- [Immobilienpreise, Hypotheken und das Programm für junge Käufer in Taiwan](/housing/) — Themenseite: Offizielle Zahlen zur Hypothekenbelastungsquote der verschiedenen Landkreise und zu untergenutztem Wohnraum; wie es möglich ist, dass unerschwingliche Häuser und leerstehende Immobilien gleichzeitig existieren.
+- [Sozialer Wohnungsbau und wohnungspolitische Gerechtigkeit](/de/society/social-housing-and-housing-justice) — Die Schwierigkeiten bei der Förderung von Sozialwohnungen in Taiwan und Probleme auf dem Mietmarkt; die größere Wohnstruktur, zu der auch das Problem der Blechhütten gehört.
+- [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Erweiterung der Themen Landnutzung und Umweltverschmutzung hinter der Umsiedlung der Blechfabriken in Wenzaizhen.
+- [Landrechte der indigenen Völker Taiwans und traditionelle Gebiete](/de/society/indigenous-land-justice-and-traditional-territories) — Verständnis der Komplexität der Landnutzung zwischen „legal“ und „illegal“ in Taiwan aus verschiedenen Perspektiven.
 
 ## Referenzen
 

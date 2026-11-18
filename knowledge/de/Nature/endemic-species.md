@@ -1,15 +1,15 @@
 ---
 title: 'Endemische Arten'
-description: 'Taiwans reiche endemische Biodiversität: ein Produkt der Inselgeographie, vertikaler Klimazonen und langer isolierter Evolution – zugleich ein bedeutender Forschungsstandort für die globale Biodiversitätsforschung'
+description: 'Taiwans reiche endemische Arten: ein gemeinsames Produkt der Inselgeographie, vertikaler Klimazonen und langfristiger isolierter Evolution, und ein wichtiges Feldforschungsgebiet für die globale Biodiversitätsforschung.'
 date: 2026-03-17
 category: 'Nature'
 tags:
   [
     'Natur',
     'Endemische Arten',
-    'Biologische Vielfalt',
-    'Taiwan-Bär',
-    'Kirschforelle',
+    'Biodiversität',
+    'Taiwan-Schwarzbär',
+    'Taiwan-Lachs',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -18,112 +18,114 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 created: 2026-03-17
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/特有種.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:b5dd2adc61c83c34'
-sourceBodyHash: 'sha256:85b65db93a33ed95'
-translatedAt: '2026-09-11T16:37:41+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:3237c25d374e880d'
+sourceBodyHash: 'sha256:ba13604d49b26524'
+translatedAt: '2026-11-19T05:01:12+08:00'
 ---
 
 # Endemische Arten
 
-> **30-Sekunden-Überblick:** Taiwan ist mit lediglich 36.000 km² Fläche ein Schmelztiegel endemischer Arten: 29 endemische Vogelarten, 14 Säugetiere, über 35 Amphibien, über 70 Süßwasserfische, etwa 1.000 Gefäßpflanzen und mehr als 56 Tagfalterarten. Die bekanntesten Sterne sind der Taiwan-Bär, die Kirschforelle und der Kaiser-Pheasant. Die vertikale Kompression von Hochland und Tiefland durch Küsten und Gipfel schuf diesen evolutionären Testlauf – doch Habitatzerstörung und invasiv gebrachte Arten stellen die dringendste Bedrohung dar.[^4]
+> **30-Sekunden-Überblick:** Taiwan hat eine Fläche von nur 36.000 Quadratkilometern, beherbergt jedoch eine hohe Dichte an endemischen Arten: 29 endemische Vogelarten, 14 endemische Säugetierarten, über 35 endemische Amphibienarten, über 70 endemische Süßwasserfischarten, etwa 1.000 endemische Gefäßpflanzenarten und mehr als 56 endemische Schmetterlingsarten. Taiwan-Schwarzbär, Taiwan-Lachs und Mikado-Fasan sind die bekanntesten Flaggschiffarten. Die vertikale Kompression von Hochgebirge, Tiefland und Küste schuf dieses Evolutionslabor, während Lebensraumzerstörung und invasive Arten die drängendsten Bedrohungen darstellen. [^4]
 
-## Warum dies wichtig ist
+## Warum es wichtig ist
 
-Taiwans endemische Arten sind ein zentrales Forschungsobjekt der globalen Biodiversitätswissenschaft. Diese über tausende Jahre evolutionierten Lebensformen können bei Aussterben nicht wiedergewonnen werden; ihre Existenz spiegelt zugleich die ökologische Integrität Taiwans wider, wobei jede Art eine unersetzliche Rolle in Nahrungsketten und Habitatpflegen spielt.
+Taiwans endemische Arten sind wichtige Untersuchungsobjekte der globalen Biodiversitätsforschung. Diese einzigartigen Lebensformen, die sich über Zehntausende von Jahren entwickelt haben, sind einmal ausgestorben nicht wiederherstellbar; das Vorhandensein endemischer Arten spiegelt auch die strukturelle Integrität der taiwanischen Ökosysteme wider, wobei jede Art in Nahrungsnetzen und bei der Erhaltung von Lebensräumen eine unersetzliche ökologische Rolle spielt.
 
 ## Überblick
 
-Taiwan liegt am Rande des eurasischen Kontinentalschelfs und wurde durch komplexe geologische Geschichte sowie vielfältige ökologische Bedingungen zu einem Vielhart-Champion endemischer Arten herausgeformt. Vom Meeresspiegel bis zum 3.952 m hohen Yushan-Gipfel schafft die vertikale Höhenstufung tropische, subtropische, gemäßigte und subarktische Klimazonen – Lebensräume für unterschiedliche Arten. Endemische Arten finden sich in Säugetieren, Vögeln, Reptilien, Amphibien, Fischen, Insekten und Pflanzen – die Rate der Endemisierung variiert stark zwischen den Gruppen: Süßwasserfische weisen eine äußerst hohe Endemisierungsrate auf, während Säugetiere aufgrund ihrer geringen Artenvielfalt zwar absolut limitiert, aber proportional ebenso bemerkenswert sind.[^4]
+Taiwan liegt am Rande des eurasischen Kontinentalschelfs; seine komplexe geologische Geschichte und vielfältigen ökologischen Umgebungen haben eine hohe Dichte an endemischen Arten hervorgebracht. Vom Meeresspiegel bis zum 3.952 Meter hohen Hauptgipfel des Yushan schafft der vertikale Höhenunterschied tropische, subtropische, gemäßigte und boreale Klimazonen, die verschiedenen Organismen Lebensräume bieten. Endemische Arten verteilen sich auf Säugetiere, Vögel, Reptilien, Amphibien, Fische, Insekten und Pflanzen, wobei der Endemitenanteil je nach Taxon stark variiert: Süßwasserfische weisen eine extrem hohe Endemitenrate auf, bei Säugetieren ist die absolute Zahl aufgrund der geringen Artengrundzahl begrenzt, der Anteil jedoch ebenfalls beachtlich. [^4]
 
-## Wichtige Fakten
+## Schlüsselfakten
 
-Nach den wichtigsten Taxa: 14 endemische Säugetiere (Taiwan-Bär, Taiwan-Makake), 29 endemische Vögel (Kaiser-Pheasant, Blaubrust-Ente, Taiwan-Blaue Schwalbe), mehr als 35 Amphibien (Mo-Shi-Baumfrosch, Taipeh-Baumfrosch), mehr als 70 Süßwasserfische (Kirschforelle, Hochlunge-Karpfen), etwa 1.000 Gefäßpflanzen (Taiwan-Zypresse, Rotzeder), 56 Tagfalter (Breitflügel-Falkenberger). Viele dieser Arten sind bereits als gefährdet oder extrem gefährdet eingestuft und dringend zum Schutz.[^1][^4]
+Nach Haupttaxon gegliedert: 14 endemische Säugetierarten (Taiwan-Schwarzbär, Taiwan-Makake etc.), 29 endemische Vogelarten (Mikado-Fasan, Blaubauch-Fasan, Taiwan-Blaurabe etc.), über 35 endemische Amphibienarten (Mo-Laubfrosch, Taipei-Laubfrosch etc.), über 70 endemische Süßwasserfischarten (Taiwan-Lachs, Hochrücken-Schaufelkiefer etc.), etwa 1.000 endemische Gefäßpflanzenarten (Taiwan-Zypresse, Rote Zypresse etc.), 56 endemische Schmetterlingsarten (Breitschwanz-Schwalbenschwanz etc.). Mehrere endemische Arten sind bereits als gefährdet oder vom Aussterben bedroht eingestuft und benötigen dringend Schutz. [^1][^4]
 
-## Vertiefung
+## Vertiefende Inhalte
 
-### Inselbiogeografie
+### Inselbiogeographischer Hintergrund
 
-**Geologische Geschichte** Die Insel Taiwan entstand vor etwa 5 Millionen Jahren durch Gebirgsbewegungen. Unter japanischer Herrschaft (ab 1895) begannen naturwissenschaftliche Untersuchungen, die systematisch taiwanesische Arten dokumentierten; bereits 1906 wurden endemische Arten der Zentralgebirge wie der Kaiser-Pheasant benannt. **Eiszeiten-Landbrücken** verbanden Taiwan immer wieder mit dem Festland, nur um sich wieder zu trennen – ein einzigartiger Evolutionsprozess. **Meereng-Isolation** Die geografische Trennung durch den Taiwan-Strait ließ die Arten eigenständig evolvieren und von ihren Festlandsverwandten abweichen.
+**Geologische Geschichte** Die Insel Taiwan entstand vor etwa 5 Millionen Jahren durch Gebirgsbildungsprozesse. Nach der japanischen Übernahme (1895) begannen systematische naturkundliche Erhebungen zur Erfassung taiwanischer Arten; bis 1906 wurden endemische Arten des Zentralgebirges wie der Mikado-Fasan wissenschaftlich beschrieben. **Eiszeitliche Landbrücken** verbanden Taiwan mehrmals mit dem Festland und trennten es wieder, was eine einzigartige Evolutionsumgebung schuf. **Meerenge-Isolation** Die geografische Isolation durch die Taiwanstraße ließ Arten unabhängig evolvieren und Unterschiede zu ihren festländischen Verwandten entwickeln.
 
-**Ökologische Vielfalt** Von tropischen Küstenwäldern bis zu subarktischen Hochlagen – innerhalb kurzer Distanzen versammeln sich unzählige Ökosysteme, die als Nährschälchen für Artenentwicklung dienen. **Klimawandel** Historische Klimaschwankungen zwangen Arten zu vertikaler Migration und an die neuen Bedingungen anzupassen.
+**Ökologische Vielfalt** Von tropischen Küstenwäldern bis zu hochalpinen Matten umfasst ein kurzer horizontaler Abstand diverse Ökosysteme, die verschiedenen Arten Evolutionsnischen bieten. **Klimawandel** Historische Klimaschwankungen zwangen Arten zu vertikalen Wanderungen und adaptiver Aufspaltung.
 
-### Säugetiere
+### Endemische Säugetiere
 
-**Taiwan-Bär** (_Ursus thibetanus formosanus_) ist das größte Landsäugetier Taiwans, erkennbar an dem weißen V-förmigen Flecken auf der Brust; derzeit leben etwa 200–600 Exemplare. **Taiwan-Makake** verbreitet sich über die ganze Insel und ist das einzige einheimische Primat.
+Der **Taiwan-Schwarzbär** (Ursus thibetanus formosanus) ist das größte Landtier Taiwans; das weiße V-förmige Brustzeichen ist sein Merkmal, der aktuelle Bestand wird auf 200–600 Tiere geschätzt. Der **Taiwan-Makake** ist über die ganze Insel verbreitet und die einzige einheimische Primatenart.
 
-**Taiwan-Wildschwein** ist kleiner als das asiatische Wildschwein und angepasst an Gebirgslandschaften. **Taiwan-Langohhhirsch** ist ein versgossener Kletterer, der in mittleren bis hohen Lagen lebt. **Taiwan-Wasserschwein** ist das größte Pflanzenfresser-Tier Taiwans, das Männchen trägt imposante Geweiherchen.
+Das **Taiwan-Wildschwein** ist kleiner als das asiatische Wildschwein und an Bergumgebungen angepasst. Der **Taiwan-Serow** (Capricornis swinhoei) ist ein geschickter Kletterer und in mittleren bis hohen Lagen verbreitet. Der **Taiwan-Sambar** (Rusa unicolor swinhoei) ist Taiwans größtes Pflanzenfresser; die Männchen tragen ein prächtiges Geweih.
 
-### Vögel
+### Endemische Vögel
 
-**Kaiser-Pheasant** (_Syrmaticus mikado_, auch bekannt als Schwarzer Langschwanz) ist ein endemischer Pheasant, der Männchen verfügt über prächtige blau-schwarze Gefieder und weiße Streifen im Schwanz – ein Symboltier Taiwans, abgebildet auf dem 1.000-New Taiwan Dollar-Schein.[^1] **Blaubrust-Ente** besiedelt mittlere bis niedrige Lagen, das Männchen zeigt blaue Bauchfärbung und rote Kehlschwiele. **Taiwan-Blaue Schwalbe** ist durch sein tiefblaues Gefieder und langen Schwanz gekennzeichnet – eine der elegantesten Vogelarten Taiwans.
+Der **Mikado-Fasan** (_Syrmaticus mikado_, auch Schwarzlangschwanzfasan) ist ein taiwanisches Fasanenart; das Männchen besitzt prächtig blau-schwarzes Gefieder und weiße Querbänder an den Schwanzfedern, ist ein repräsentativer taiwanischer Vogel und auf dem 1000-NT$-Schein abgebildet. [^1] Der **Blaubauch-Fasan** kommt in mittleren bis niedrigen Lagen vor; das Männchen hat einen blauen Bauch und rote Kehllappen. Die **Taiwan-Blaurabe** besticht durch leuchtend blaues Gefieder und einen langen Schwanz und zählt zu den schönsten Vögeln Taiwans.
 
-**Taiwan-Streifvogel**, **Taiwan-Malachitvogel** und weitere Spechtverwandte demonstrieren die Vielfalt der Gebirgsvögel.
+Der **Taiwan-Häherling** (Garrulax morrisonianus), der **Taiwan-Bildschnäbler** (Garrulax taewanus) und andere Häherlingsverwandte demonstrieren die Vielfalt der Bergvögel Taiwans.
 
-### Fische
+### Endemische Fische
 
-**Kirschforelle** (_Oncorhynchus masou formosanus_) ist eine Reliktart der Eiszeit, heute nur noch in den Flüssen von Dajia zu finden – sie wird als „Nationalfisch“ bezeichnet. **Taiwan-Weißkarpfen**, **Taiwan-Felsforelle** und andere Süßwasserarten verdeutlichen die Besonderheit der Flusssysteme.
+Der **Taiwan-Lachs** (Oncorhynchus masou formosanus) ist ein wertvolles Relikt der Eiszeit, das nur noch im Oberlauf des Dajia-Flusses vorkommt und als „Nationalfisch“ bezeichnet wird. Der **Taiwan-Weißpanzerfisch** (Acrossocheilus paradoxus), die **Taiwan-Schmerle** (Cobitis spp.) und andere Süßwasserfische zeigen die Einzigartigkeit der insularen Gewässersysteme.
 
-**Meeres-Endemiten** umfassen zahlreiche Korallenriffe und Tiefseefischarten, was die biogeografische Besonderheit des taiwanesischen Meeresschutzgebiets unterstreicht.
+**Meeresendemiten** umfassen diverse Korallenfische und Tiefseearten, die die biogeographische Besonderheit der taiwanischen Gewässer widerspiegeln.
 
-### Pflanzen
+### Endemische Pflanzen
 
-**Taiwan-Zypresse** (_Taiwania cryptomerioides_) ist eine weltweit seltene Nadelholzart, deren Baumhöhe bis zu 70–84 Meter reicht – der höchste einheimische Nadelbaum Taiwans.[^2]**Rotzeder** und **Flachzeder** bilden ein seltenes Zederwal-Ökosystem. **Taiwan-Schneeeule**, **Taiwan-Ziermagnolie** und weitere Pflanzen spiegeln die botanische Originalität wider.
+Die **Taiwan-Zypresse** (_Taiwania cryptomerioides_) ist eine weltweit wertvolle Konifere, die Wuchshöhen von 70 bis 84 Metern erreicht und Taiwans größte einheimische Koniferenart ist. [^2] **Rote Zypresse** (Chamaecyparis formosensis) und **Taiwan-Zeder** (Calocedrus formosana) bilden wertvolle Zypressenwald-Ökosysteme. **Taiwan-Machilus** (Machilus thunbergii) und **Taiwan-Phytolacca** (Phytolacca acinosa var. taiwaniana) demonstrieren die Einzigartigkeit der taiwanischen Flora.
 
-**Hochlagenpflanzen** wie Yushan-Mahnbusch und Yushan-Rundzeder wachsen unter extremen Bedingungen. **Orchideen-Endemiten** unter den Gattungen der taiwanesischen Orchideen sind in hohem Maße endemisch – viele Arten besitzen wirtschaftlichen Wert.
+**Hochgebirgspflanzen** wie Yushan-Berberitze (Berberis morrisonensis) und Yushan-Zypresse (Juniperus morrisonicola) sind an die rauen Hochlagenbedingungen angepasst. **Endemische Orchideen** Taiwans Orchideenflora weist einen extrem hohen Endemitenanteil auf, viele Arten besitzen gärtnerischen Wert.
 
-### Insekten
+### Endemische Insekten
 
-Taiwan ist ein Paradies für endemische Insekten. **Breitflügel-Falkenberger** (_Agehana maraho_) ist ein seltenes, endemisches Schmetterlingsgattung mit einer Flügelspannweite von 9–10 cm – es kommt ausschließlich in mittleren Lagen Nordtaiwan vor und hängt ausschließlich vom Taiwan-Brombeer als Wirtspflanze ab.[^5] **Taiwan-Langarmkäfer**, **Regenbogen-Bienenstichkäfer** und andere Käferarten zeigen einzigartige evolutionäre Anpassungen.
+Taiwan ist ein Paradies endemischer Insekten. Der **Breitschwanz-Schwalbenschwanz** (_Agehana maraho_) ist eine seltene, taiwanische Schmetterlingsart mit einer Flügelspannweite von etwa 9–10 cm, die nur in mittleren Lagen Mittel- und Nordtaiwans vorkommt und ausschließlich die Taiwan-Zimtbaum (Cinnamomum kanehirae) als Wirtspflanze nutzt. [^5] Der **Taiwan-Nashornkäfer** (Allomyrina dichotoma) und der **Regenbogen-Hirschkäfer** (Dorcus titanus) zeigen einzigartige evolutionäre Anpassungen.
 
-**Tagfalter-Vielfalt** In Taiwan sind etwa 400 Tagfalterarten bekannt, von denen mehr als 50 endemisch sind. **Motten-Endemiten** sind noch zahlreicher – viele Arten sind bislang wissenschaftlich nicht beschrieben.
+**Schmetterlingsvielfalt** In Taiwan sind etwa 400 Schmetterlingsarten dokumentiert, davon 50+ endemisch. **Endemische Nachtfalter** sind noch zahlreicher, viele Arten sind wissenschaftlich noch unbeschrieben.
 
 ### Schutzstatus und Herausforderungen
 
-**Habitatverlust** Städtebau, Landwirtschaftsausweitung und Straßenprojekte bedrohen endemische Lebensräume. **Klimawandel** Erwärmung zwingt Hochlagenarten, sich weiter nach oben zu bewegen – irgendwann gibt es keinen Platz mehr.
+**Lebensraumzerstörung** Urbanisierung, landwirtschaftliche Expansion, Straßenbau und andere menschliche Aktivitäten bedrohen die Lebensräume endemischer Arten. **Klimawandel** Steigende Temperaturen zwingen Hochgebirgsarten in höhere Lagen, wo ihnen schließlich kein Lebensraum mehr bleibt.
 
-**Invasive Arten** Pflanzen wie kleiner Rankenmelde und Tiere wie Rotzahnschnecke konkurrieren mit einheimischen Arten. **Tourismusdruck** Übermäßige touristische Nutzung kann das Verhalten wildlebender Tiere stören.
+**Invasive Arten** Wie Kleinblütiges Mikania (Mikania micrantha), Apfelschnecke (Pomacea canaliculata) etc. konkurrieren mit einheimischen Arten um Ressourcen. **Übernutzung** Übermäßige touristische Aktivitäten können das Verhalten wildlebender Tiere stören.
 
-### Invasive Arten: Der unsichtbare Artensterben-Krieg
+### Invasive Arten: Der unsichtbare Aussterbekrieg
 
-Taiwan hat ein groß angelegtes Invasionsproblem: Über 50 invasiv gebrachte Pflanzen- und mehr als 30 invasiv gebrachte Tierarten werden vom Bundesamt für Forst- und Naturschutz (COA) überwacht.[^3] Zu den akuten Fällen zählen:
+Das Problem invasiver Arten in Taiwan ist umfangreich; die Forst- und Naturschutzbehörde führt über 50 invasive Pflanzenarten und über 30 invasive Tierarten in ihren Listen. [^3] Die gravierendsten Fälle umfassen:
 
-**Kleiner Rankenmelde** (_Mikania micrantha_) ist eine der schnellsten invasiven Pflanzen in taiwanesischen Gebirgen – sie erstreckt sich wöchentlich um mehrere Meter und erstickt einheimische Vegetation; seit den 2000er Jahren hat sie sich bis in mittlere Lagen ausgebreitet. **Rotzahnschrecke** (_Pomacea canaliculata_) wurde 1979 aus Argentinien importiert, als Nutzungstiere dann im Freien ausgewildert – heute breitet sie sich in Reisfeldern und Feuchtgebieten aus und vernichtet sowohl Reis als auch einheimische Wasserpflanzen. **Invasive Rote Feuerameise** (_Solenopsis invicta_) wurde 2003 in Taoyuan entdeckt und hat sich seitdem auf mehrere Regionen ausgebreitet – sie bedroht bodenlebende Tiere einschließlich einiger Vogelarten in ihrer Futtersuche und Nistplatzwahl.
+**Kleinblütiges Mikania** (_Mikania micrantha_) ist die sich in Taiwans Bergregionen am schnellsten ausbreitende invasive Pflanze; sie überwuchert einheimische Vegetation mit mehreren Metern pro Woche und hat seit den 2000er Jahren auch mittlere Waldgrenzen erreicht. **Apfelschnecke** (_Pomacea canaliculata_) wurde 1979 aus Argentinien als Speiseschnecke eingeführt; nach Aussetzung explodierte sie in Reisfeldern und Feuchtgebieten landesweit, zerstört nicht nur Reis, sondern frisst auch einheimische Wasserpflanzen. **Eingeschleppte Rote Feuerameise** (_Solenopsis invicta_) wurde 2003 in Taoyuan entdeckt und hat sich mittlerweile auf mehrere Städte und Landkreise ausgebreitet; sie bedroht direkt die Nahrungssuche und das Nestbauverhalten bodenbewohnender Tiere (einschließlich einiger Bodenbrüter).
 
-Die größte Herausforderung bei der Bekämpfung invasiver Arten ist: Sobald eine Population etabliert ist, ist sie nahezu unausrottbar – man kann sie lediglich kontrollieren, nie vollständig eliminieren, und die Kosten steigen exponentiell. Das Bundesministerium für Landwirtschaft setzt jättlich mehrere hundert Millionen TWD für Invasionsbekämpfung ein; das Bürger-Meldungssystem (Invasive Arten Meldungsplattform) ist in das Überwachungsnetz des Bundesamtes für Forst- und Naturschutz (COA) integriert.[^3]
+Die Kernschwierigkeit der Bekämpfung invasiver Arten liegt darin: Einmal etablierte Populationen lassen sich kaum ausrotten, man kann sie nur managen, nicht eliminieren, und die Managementkosten steigen mit der Zeit exponentiell. Das Landwirtschaftsministerium stellt jährlich mehrere hundert Millionen NT$ für das Management invasiver Arten bereit; ein Bürger-Meldesystem (Invasive-Arten-Meldeplattform) wurde in das Überwachungsnetz der Forst- und Naturschutzbehörde integriert. [^3]
 
-### Schutzmaßnahmen
+### Schutzbemühungen
 
-**Nationalpark-System** Yushan, Taroko, Snow-Mountain und weitere Nationalparks schützen wichtige endemische Lebensräume. **Naturschutzgebiete** Reservate und Wildtier-Schutzgebiete bieten rechtlichen Schutz.
+**Nationalparksystem** Yushan, Taroko, Shei-Pa und andere Nationalparks schützen wichtige Lebensräume endemischer Arten. **Schutzgebietsnetz** Naturreservate und Wildtierschutzgebiete bieten rechtlichen Schutz.
 
-**Wiederansiedlungspläne** Das Gesetz zum Schutz wildlebender Tiere (1989) legte den rechtlichen Grundstein – seitdem wurden Wiederansiedlungspläne für Kirschforelle und Taiwan-Bär sowie Bestandsüberwachungsprojekte umgesetzt. **Bürgerwissenschaft** Plattformen wie eBird und iNaturalist ermöglichen es der Bevölkerung, an biologischen Erhebungen teilzunehmen.
+**Wiederansiedlungsprogramme** Das _Gesetz zum Schutz der Wildtiere_ (1989) schuf die rechtliche Grundlage; seither wurden Programme zur Wiederansiedlung des Taiwan-Lachses, Bestandsmonitoring des Taiwan-Schwarzbären etc. gestartet. **Citizen Science** Plattformen wie eBird und iNaturalist fördern die öffentliche Beteiligung an biologischen Erhebungen.
 
-**1. August 2023** wurde das Bundesministerium für Landwirtschaft offiziell gegründet – das frühere Forstamt des Landwirtschaftsausschusses wurde zum **Bundesamt für Forst- und Naturschutz (COA)** ausgebaut und integrierte Forstressourcen mit Biologischer Vielfaltsschutz. Damit wurde der Schutz endemischer Arten in einen ganzheitlicheren rechtlichen Rahmen eingebettet.[^3] Im selben Jahr wurde das ehemalige Forschungsinstitut für besondere Biologien des Ausschusses für Landwirtschaft (Special Biology Research Center) in das **Bundesinstitut für biologische Vielfalt (BioDiv)** umgewandelt – es ist für biologische Erhebungen, Überwachung und Forschung zuständig und dient als zentrale Plattform für taiwanesische endemische Daten. **Internationale Zusammenarbeit** mit IUCN, TRAFFIC und weiteren internationalen Naturschutzorganisationen stärkt den Schutz. **Umweltbildung** durch Ökotourismus und Bürgerwissenschaft erhöht das Bewusstsein.
+**Am 1. August 2023** wurde das Landwirtschaftsministerium offiziell gegründet; das frühere Forstamt des Landwirtschaftsrats wurde zur **Forst- und Naturschutzbehörde des Landwirtschaftsministeriums** aufgewertet, wodurch Forstwirtschaft und Biodiversitätsschutz in einer Behörde vereint wurden und der Artenschutz in einen umfassenderen Rechtsrahmen eingebettet wurde. [^3] Im selben Jahr wurde das _Zentrum für Forschung und Erhaltung endemischer Arten_ (ehemals dem Landwirtschaftsrat unterstellt) zum **Institut für Biodiversitätsforschung des Landwirtschaftsministeriums** umgewandelt, das sich auf Erhebungen, Monitoring und Forschung zur Biodiversität spezialisiert und zur zentralen Institution für die Zusammenführung von Daten zu Taiwans endemischen Arten wurde. **Internationale Zusammenarbeit** Mit IUCN, TRAFFIC und anderen internationalen Naturschutzorganisationen wird die Schutztechnik verbessert. **Umweltbildung** Durch Ökotourismus und Citizen Science wird das Bewusstsein für den Artenschutz gestärkt.
 
 ## Globale Bedeutung
 
-Die Erfahrungen Taiwans im Schutz endemischer Arten bieten wertvolle Lehren für die globale Inselökologie. Taiwan verbindet in kompakter Form Hochlagen- und Tiefland sowie tropische und subarktische Klimazonen – ein ideales natürliches Labor für Inselbiogeografie und Evolutionsbiologie.
+Die Erfahrungen Taiwans im Schutz endemischer Arten sind für den globalen Inselnaturschutz von Referenzwert. Taiwan vereint gleichzeitig vertikal komprimiertes Hochgebirge-Tiefland-Relief mit einem tropisch-borealen Klimagradienten und ist damit ein günstiges Feldforschungsgebiet für Inselbiogeographie und Evolutionsbiologie.
 
-## Quellen
+## Referenzen
 
-[^1]: [Kaiser-Pheasant — Wikipedia](https://zh.wikipedia.org/wiki/%E5%B8%9D%E9%9B%89) — Bestätigung des wissenschaftlichen Namens _Syrmaticus mikado_, Synonym Schwarzer Langschwanz, als endemische Art, abgebildet auf dem 1.000-New Taiwan Dollar-Schein.
+[^1]: [Mikado-Fasan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%B8%9D%E9%9B%89) — Bestätigung des wissenschaftlichen Namens _Syrmaticus mikado_, Alternativname Schwarzlangschwanzfasan, taiwanische Endemite, auf 1000-NT$-Banknote abgebildet.
 
-[^2]: [Taiwan-Zypresse — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%9D%89) — Bestätigung der Höhenstatistik der Taiwan-Zypresse, bekanntester Rekord ist ein Exemplar mit etwa 84 Metern.
+[^2]: [Taiwan-Zypresse — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%9D%89) — Bestätigung des Höhenrekords der Taiwan-Zypresse, das höchste bekannte Individuum misst etwa 84 Meter.
 
-[^3]: [Bundesamt für Forst- und Naturschutz (COA) — Invasive Arten Informationssystem](https://invasive.forest.gov.tw/) — Liste invasiver Pflanzen und Tiere Taiwans, Verbreitungsstudien und Managementmaßnahmen.
+[^3]: [Forst- und Naturschutzbehörde — Informationssystem invasiver Arten](https://invasive.forest.gov.tw/) — Taiwans Verzeichnis invasiver Pflanzen und Tiere, Verbreitungsuntersuchungen und Managementmaßnahmen.
 
-[^4]: [Academia Sinica — Taiwan Checklist of Life (TaiCoL)](https://taicol.tw/) — Datenbank der taiwanesischen biologischen Vielfalt, Quelle für Statistiken endemischer Arten aller Taxa.
+[^4]: [Academia Sinica — TaiCoL Artenverzeichnis](https://taicol.tw/) — Taiwans Biodiversitätsdatenbank, Quelle der Endemitenstatistiken nach Taxon.
 
-[^5]: [Breitflügel-Falkenberger — Bundesamt für Forst- und Naturschutz (COA)](https://conservation.forest.gov.tw/) — Informationen zur Flügelspannweite, Verbreitung und Wirtspflanze des Breitflügel-Falkenbergers.
+[^5]: [Breitschwanz-Schwalbenschwanz — Forst- und Naturschutzbehörde](https://conservation.forest.gov.tw/) — Flügelspannweite, Verbreitung und Wirtspflanze Taiwan-Zimtbaum des Breitschwanz-Schwalbenschwanzes.
 
 ## Weiterführende Literatur
 
-- [Taiwan-Endemiten — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%89%B9%E6%9C%89%E7%A8%AE)
-- [Naturschutzportal des Bundesamtes für Forst- und Naturschutz (COA)](https://conservation.forest.gov.tw/)
-- [Robert Swinhoe](/de/people/robert-swinhoe-naturalist) — Der erste Naturforscher, der in den 1860er Jahren systematisch taiwanesische Arten dokumentierte; nach ihm benannte Arten wie Blaubrust-Ente und Spitzmaul sind bis heute endemische Schutzarten
-- [Formosa-Ornithologie](/de/nature/the-ornithology-of-formosa) — Robert Swinhoe veröffentlichte 1863 _The Ornithology of Formosa_ mit 201 Arten; doch endemische Arten der Zentralgebirge wie Kaiser-Pheasant, Goldschwingen-Malachitvogel und Taiwan-Streifvogel wurden erst 1906 benannt
-- [Kronhals-Reiher](/de/nature/malayan-night-heron) — Nicht endemisch, aber seine städtische Populationsexpansion ist weltweit einzigartig; die Meldungen der Bürgerwissenschaft in Taiwan bilden eine globale Referenzsammlung
+- [Endemische Arten Taiwans — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%89%B9%E6%9C%89%E7%A8%AE)
+- [Naturschutznetz der Forst- und Naturschutzbehörde](https://conservation.forest.gov.tw/)
+- [Robert Swinhoe](/de/people/robert-swinhoe-naturalist) — Erster westlicher Naturforscher mit systematischer Erfassung taiwanischer Arten in den 1860er Jahren; der nach ihm benannte Blaubauch-Fasan und die Chinesische Weichschildkröte sind bis heute repräsentative Arten des taiwanischen Artenschutzes.
+- [The Ornithology of Formosa](/de/nature/the-ornithology-of-formosa) — Swinhoes 1863 erschienenes Werk _The Ornithology of Formosa_ dokumentiert 201 Arten; Mikado-Fasan, Schopfhäherling, Taiwan-Häherling und andere Zentralgebirgs-Endemiten wurden erst 1906 wissenschaftlich beschrieben.
+- [Schwarzhauben-Nachtreiher](/de/nature/malayan-night-heron) — Keine taiwanische Endemite, aber die Ausdehnung seiner städtischen Population in Taiwan ist einzigartig im globalen Verbreitungsgebiet; die von Taiwans Citizen-Science-System gesammelten Beringungs- und Wiederfunddaten sind eine weltklasse Stichprobe.
 
 ## Verwandte Themen
 
