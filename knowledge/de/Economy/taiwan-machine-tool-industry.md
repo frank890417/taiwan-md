@@ -21,11 +21,13 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣機械工具產業.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-11-18T11:47:28.174639+00:00'
 ---
 
 # Die taiwanesische Maschinenwerkzeugindustrie

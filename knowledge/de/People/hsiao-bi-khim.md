@@ -20,11 +20,13 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-11-18T12:04:15.452054+00:00'
 ---
 
 # Hsiao Bi-khim

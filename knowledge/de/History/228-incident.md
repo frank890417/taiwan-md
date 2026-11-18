@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/二二八事件.md'
-sourceCommitSha: '936ada6c3'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:99bda6e7dc861382'
 sourceBodyHash: 'sha256:3ffe04bee42caf48'
-translatedAt: '2026-09-12T09:12:49+08:00'
+translatedAt: '2026-11-18T11:38:48.169253+00:00'
 ---
 
 # Der 228-Vorfall
