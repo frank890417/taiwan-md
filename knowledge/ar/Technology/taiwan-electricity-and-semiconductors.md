@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '250410eae'
-sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aefff77e9ff213d8'
 sourceBodyHash: 'sha256:814f9eb8b97792cf'
-translatedAt: '2026-07-27T01:41:54+08:00'
+translatedAt: '2026-11-18T20:34:12.345800+00:00'
 ---
 
 # كهرباء تايوان وأشباه الموصلات: فاتورة كهرباء الجبل المقدس الحامي للبلاد
@@ -190,10 +192,10 @@ _ألواح الطاقة الشمسية على سطح منطقة خدمة سيه
 
 ## المراجع
 
-[^1]: [Tom's Hardware: شركة تايوان لأشباه الموصلات (TSMC) تقلل استهلاك الطاقة القصوى لأدوات EUV بنسبة 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — تقرير عن خطة شركة تايوان لأشباه الموصلات (TSMC) لتوفير الطاقة في EUV، وحجم إجمالي استهلاك الكهرباء، ونسبة توفير الأدوات، يمكن استخدامه لتوضيح تعايش تحسين الكفاءة وضغط الكمية الإجمالية.
+[^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — تقرير حول خطة شركة TSMC لتوفير الطاقة في تقنية EUV، وحجم استهلاك الكهرباء الإجمالي ونسبة توفير الطاقة في الأدوات، ويمكن استخدامه لتوضيح وجود تحسن في الكفاءة بالتزامن مع ضغوط إجمالي الاستهلاك.
 
-[^2]: [Tom's Hardware: جمعية أشباه الموصلات بقيادة شركة تايوان لأشباه الموصلات (TSMC) تحذر من ضغط إمداد الكهرباء](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — تقرير عن تحذير جمعية صناعة أشباه الموصلات في تايوان بشأن استقرار الكهرباء وإمداد الطاقة المتجددة، وينظم متطلبات RE100، وطلب مصانع الرقائق للكهرباء الخضراء، ومخاطر النقل إلى الخارج.
+[^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — تقرير حول تحذيرات جمعية أشباه الموصلات التايوانية بشأن استقرار إمدادات الطاقة وتوفير الطاقة المتجددة، مع تلخيص متطلبات RE100، والطلب على الطاقة الخضراء في مصانع الرقائق، ومخاطر الانتقال إلى الخارج.
 
-[^3]: [Roussilhe وآخرون: من درع السيليكون إلى الإغلاق الكربوني؟](https://arxiv.org/abs/2209.12523) — دراسة 16 شركة تايوانية لتصنيع المكونات الإلكترونية 2015-2020 للبصمة البيئية، تقترح زيادة الطاقة، والمياه، والانبعاثات الكربونية مع نمو الإنتاج ومخاطر الإغلاق الكربوني.
+[^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — دراسة حول البصمة البيئية لـ 16 شركة تصنيع مكونات إلكترونية تايوانية بين عامي 2015 و2020، وتطرح مسألة زيادة استهلاك الطاقة والمياه وانبعاثات الكربون مع نمو الإنتاج، ومخاطر الارتهان للكربون (carbon lock-in).
 
-[^4]: [AP: المشرعون في تايوان ينجون من تصويت العزل؛ استفتاء الطاقة النووية يفشل](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — تقرير أسوشيتد برس عن نتيجة استفتاء تمديد عمر المحطة النووية الثالثة في تايوان عام 2025، ويشرح كيف وضع مؤيدو الطاقة النووية أسعار الكهرباء وطلب الذكاء الاصطناعي للكهرباء في حججهم.
+[^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — تقرير وكالة أسوشيتد برس حول نتائج الاستفتاء في تايوان عام 2025 بشأن تمديد عمر المحطة النووية الثالثة، ويوضح كيف يدمج مؤيدو الطاقة النووية أسعار الكهرباء والطلب على طاقة الذكاء الاصطناعي في نقاشاتهم.

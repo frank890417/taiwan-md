@@ -14,11 +14,13 @@ image: '/article-images/art/street-graffiti-hero-2021.webp'
 imageCredit: 'Lokseng01 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Graffiti_at_Taipei_Cinema_Park.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/街頭塗鴉.md'
-sourceCommitSha: '8a230ddb2'
-sourceContentHash: 'sha256:9c83c84bdc39c0f8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7fbe751b3bbd79d7'
 sourceBodyHash: 'sha256:0539eab7900ae6ed'
-translatedAt: '2026-07-29T19:47:22+08:00'
+translatedAt: '2026-11-18T20:59:50.081713+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**
@@ -73,16 +75,16 @@ _جدار موقع محطة توريد الجيش الوطني يونغ جين �
 
 ## المراجع
 
-[^1]: [فنانا الغرافيتي التايوانيان رِيتش وبليك: انتقام المضاد! من الشارع نحو أساليب إبداع متنوعة](https://www.wowlavie.com/article/ae1902012) — WowLavie (انظر المصدر الأصلي في الرابط)
+[^1]: [فنان الغرافيتي التايواني Reach، هجوم Blake المضاد! من الشوارع إلى أساليب إبداعية متنوعة](https://www.wowlavie.com/article/ae1902012) — WowLavie، (انظر المصدر الأصلي في الرابط)
 
-[^3]: [مقابلة حصرية مع فنان الغرافيتي ملك الأمعاء الكبيرة: داخل الأمعاء براز، والفن أيضًا.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
+[^3]: [مقابلة مع فنان الغرافيتي Da Chang Wang: داخل الأمعاء هو براز، وكذلك الفن.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven،
 
-[^4]: [هل كان خطأً توجه ثقافة الشارع نحو التجارة؟ رائد الغرافيتي التايواني رِيتش](https://www.beautimode.com/article/content/86906/) — BeautyMode
+[^4]: [هل أخطأت الثقافة الشعبية في توجهها نحو التجارة؟ Reach رائد الغرافيتي في تايوان](https://www.beautimode.com/article/content/86906/) — BeautyMode،
 
-[^5]: [الطائر الحلوى كاندي بيرد](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — قاعدة بيانات الفن المعاصر التايواني
+[^5]: [طائر الحلوى Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — قاعدة بيانات الفن المعاصر في تايوان،
 
-[^6]: [الغرافيتي العشوائي غرامة قصوى 6000! قائمة بـ 14 جدار غرافيتي قانوني في تايبيه](https://newtalk.tw/news/view/2019-11-27/332344) — هيئة حماية البيئة بحكومة مدينة تايبيه
+[^6]: [تصل غرامة الكتابة العشوائية على الجدران إلى NT$6,000! قائمة بـ 14 جدار غرافيتي قانوني في مدينة تايبيه](https://newtalk.tw/news/view/2019-11-27/332344) — إدارة حماية البيئة ببلدية تايبيه،
 
-[^8]: [اندماج الآثار والفن ما بعد الحديث "رحلة فنية لا تنتهي" تأخذك في جولة في حديقة تايبيه السينمائية الموضوعية](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — مكتب السياحة ونقل الثقافة بحكومة مدينة تايبيه
+[^8]: [اندماج المعالم التاريخية مع فن ما بعد الحداثة: جولة «الفن الذي لا ينتهي» تأخذك في رحلة عبر حديقة موضوع الأفلام بمدينة تايبيه](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — إدارة السياحة والإعلام ببلدية تايبيه،
 
-[^9]: [إخراج نكهة تايوان الغنية من التجاعيد، صديق هتسوميمي الفنان — ملك الأمعاء الكبيرة](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — هتسوميمي (الأذن الأولى)
+[^9]: [استخراج النكهة التايوانية العميقة من بين الطيات، صديق الفنان في Hatsumimi - Da Chang Wang](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi،

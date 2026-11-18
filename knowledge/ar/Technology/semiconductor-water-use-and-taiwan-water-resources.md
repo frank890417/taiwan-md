@@ -26,11 +26,13 @@ rationale:
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:e3dbfa5f81690467'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7ffd7c94390d9ed4'
 sourceBodyHash: 'sha256:45c1175dae9b247b'
-translatedAt: '2026-07-29T05:32:35+08:00'
+translatedAt: '2026-11-18T20:44:51.836680+00:00'
 ---
 
 # مياه أشباه الموصلات وموارد تايوان المائية: خزانات المياه بجانب مصانع الرقائق
@@ -184,10 +186,10 @@ _مخطط توضيحي من تصميم Taiwan.md. المياه المجددة ت
 
 ## المراجع
 
-[^1]: [WIRED: Want to Win a Chip War? You're Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — تقرير WIRED عام 2023 عن احتياج تصنيع أشباه الموصلات للمياه فائقة النقاء، ومعالجة المياه، والموارد المائية المحلية، ويذكر التوتر بين تصنيع الرقائق والري الزراعي أثناء جفاف تايوان.
+[^1]: [WIRED: هل تريد الفوز في حرب الرقائق؟ ستحتاج إلى الكثير من الماء](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — تقرير نشرته مجلة WIRED عام 2023 حول احتياجات تصنيع أشباه الموصلات من المياه فائقة النقاء، ومعالجة المياه، والموارد المائية المحلية، كما أشار إلى التوتر بين تصنيع الرقائق والاستخدام الزراعي للمياه خلال فترات الجفاف في تايوان.
 
-[^2]: [تايوان سيميكون덕تور (TSMC) أريزونا](https://www.tsmc.com/static/abouttsmcaz/index.htm) — الصفحة الرسمية لتايوان سيميكون덕تور (TSMC) أريزونا تشرح استثمار المصنع، وتخطيط العمليات المتقدمة، ونظام إعادة تدوير المياه، وهدف مرافق المياه المجددة الصناعية، ويمكن استخدامها كدراسة حالة لحوكمة الموارد المائية في المصانع الخارجية.
+[^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — توضح الصفحة الرسمية لشركة TSMC في أريزونا استثمارات المصنع، وخطط عمليات التصنيع المتقدمة، وأنظمة إعادة تدوير المياه، وأهداف مرافق تجديد المياه الصناعية، ويمكن استخدامها كحالة دراسية لإدارة الموارد المائية عند إنشاء مصانع في الخارج.
 
-[^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — تقرير عن توسع تجمع أشباه الموصلات في أريزونا، يجلب توقعات التوظيف، والتنمية المحلية، والموارد المائية، والبيئة، وخلافات سلامة العمال، ويمكن استخدامه لموازنة منظور المجتمع المحلي للمصانع الخارجية.
+[^3]: [The Verge: وادي السيليكون الجديد (بالمعنى الحرفي)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — تقرير يتناول التوسع في تجمع أشباه الموصلات في أريزونا وما يجلبه من فرص عمل، وتنمية محلية، ونزاعات تتعلق بالموارد المائية والبيئة وسلامة العمال، ويمكن استخدامه لموازنة المنظور الاجتماعي المحلي عند إنشاء مصانع في الخارج.
 
-[^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — دراسة البصمة البيئية لـ 16 مصنع مكونات إلكترونية في تايوان خلال 2015-2020، تطرح خطر زيادة استهلاك المياه، والطاقة، والانبعاثات الكربونية مع نمو الإنتاجية.
+[^4]: [Roussilhe et al.: من الدرع السيليكوني إلى الانحباس الكربوني؟](https://arxiv.org/abs/2209.12523) — دراسة البصمة البيئية لـ 16 شركة تصنيع مكونات إلكترونية تايوانية بين عامي 2015 و2020، حيث طرحت مخاطر زيادة استخدام المياه والطاقة وانبعاثات الكربون مع نمو حجم الإنتاج.
