@@ -37,11 +37,13 @@ imageAlt: "Lors du mouvement des tournesols en 2014, les rues de Taipei étaient
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'a266eaa96'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:9dd098f7a5a51bd9'
 sourceBodyHash: 'sha256:7e4e331322aaf847'
-translatedAt: '2026-10-13T04:57:34.186988+00:00'
+translatedAt: '2026-11-18T03:23:54.484709+00:00'
 ---
 
 # Musique populaire taïwanaise : l'île qui a travaillé pour le monde entier, et à qui il reste finalement de pouvoir chanter ce que les autres ne peuvent pas

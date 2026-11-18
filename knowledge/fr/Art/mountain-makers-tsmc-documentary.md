@@ -24,11 +24,13 @@ image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:da8e78a538c5510d'
 sourceBodyHash: 'sha256:076ca43fe3ac469d'
-translatedAt: '2026-09-21T13:50:02.022458+00:00'
+translatedAt: '2026-11-18T03:41:29.308947+00:00'
 ---
 
 # Les Façonneurs de montagnes : le pari du siècle — une épopée taïwanaise des semi-conducteurs qui a dû limer un mot de son titre avant de pouvoir être prononcée
