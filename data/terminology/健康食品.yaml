@@ -2,15 +2,16 @@ id: 健康食品
 category: food
 subcategory: 飲食
 fork_type: B
+auto_convert: false # 台灣也通用，2026-11-18 issue #2025
 
 display:
   taiwan: 健康食品
   china: 保健食品
 
-notes: ''
+notes: '「健康食品」在台灣是《健康食品管理法》的法定名稱，只有經衛福部審查通過（小綠人標章）的產品才能標示；其他一般稱「保健食品」，兩者在台灣不能互換，看到「保健食品」不必改（issue #2025，讀者 orlys 回報）。'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-09-05'
+updated: '2026-11-18'

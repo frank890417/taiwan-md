@@ -3,13 +3,13 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 梵穀
+  taiwan: 梵谷
   china: 梵高
 
-notes: ''
+notes: '原寫「梵穀」是簡轉繁把「谷」轉成「穀」的字形錯誤，教育部《重編國語辭典修訂本》收「梵谷」（issue #2025，讀者 orlys 回報）。'
 
 sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-18'

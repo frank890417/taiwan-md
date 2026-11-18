@@ -2,15 +2,16 @@ id: 國術
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 台灣也通用，2026-11-18 issue #2025
 
 display:
   taiwan: 國術
   china: 武術
 
-notes: ''
+notes: '「武術」台灣也通用，教育部辭典有收；「國術」偏指傳統中華武術，不是同義替換（issue #2025）。'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-11-18'
