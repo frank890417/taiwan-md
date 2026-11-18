@@ -1,17 +1,19 @@
 ---
-title: 'Tanya Chua (蔡健雅): Quatro vezes vencedora do Golden Melody Awards, como uma cidadã de Singapura transformou Taiwan em seu palco principal'
-description: 'De ser mandada calar por um tecladista em um bar de Singapura em 1996 até ganhar quatro prêmios na 33ª edição do Golden Melody Awards em 2022, Tanya Chua levou 26 anos para se tornar a única recordista do cenário musical Mandopop com quatro títulos de melhor cantora. Ela não nasceu em Taiwan, mas o Golden Melody Awards, sua residência, seus colaboradores e suas músicas mais cantadas estão enraizados em Taiwan — a identidade local de uma artista estrangeira é a escolha que fez ao cancelar seu contrato com a Warner em 2006, mudar-se para Taipé e fundar o "Estúdio Musical Tianya".'
+title: 'Tanya Chua: Quatro vezes vencedora do Golden Melody Award, como uma singapurense transformou Taiwan em seu palco principal'
+description: 'De ser mandada calar a boca por um tecladista em um bar de Singapura em 1996, a conquistar quatro prêmios em uma única noite na 33ª edição do Golden Melody Awards em 2022, Tanya Chua levou 26 anos para se tornar a única recordista de quatro títulos de melhor intérprete no cenário musical mandarim. Ela não nasceu em Taiwan, mas o Golden Melody Awards, seu local de residência, seus colaboradores e suas músicas mais cantadas cresceram em Taiwan — a identidade local de uma artista estrangeira foi fruto da decisão tomada em 2006 de encerrar seu contrato com a Warner, mudar-se para Taipei e fundar o "Tianya Music Studio".'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Tanya Chua',
+    'Tanya Chua',
     'Golden Melody Awards',
-    'cantora-compositora',
+    'cantora e compositora',
     'Singapura',
-    'cenário musical Mandopop',
+    'cena musical mandarim',
     'produtora',
-    'criação',
+    'composição',
+    'Blank Space',
     'DEPART',
   ]
 subcategory: '當代音樂人'
@@ -20,11 +22,13 @@ featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 22
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/蔡健雅.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:bbe9414090e28df8'
 sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
-translatedAt: '2026-09-28T09:06:24+08:00'
+translatedAt: '2026-11-18T16:01:02.183846+00:00'
 ---
 
 # Tanya Chua (蔡健雅): Quatro vezes vencedora do Golden Melody Awards, como uma cidadã de Singapura transformou Taiwan em seu palco principal

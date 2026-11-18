@@ -2,9 +2,7 @@
 title: "Daptoper: do 'Dark' ao milhão, o curador de dados que define a geração Roblox"
 description: "Em 2023, 'Daptoper', de nome verdadeiro Chou Chih-hsuan, atingiu 1 milhão de inscritos no YouTube. Desde os primeiros gameplays de Minecraft até se aprofundar no oceano azul do Roblox, este estudante em licença da Tsing Hua construiu um império de comunidade digital que abrange livros físicos e o Discord, combinando a autodepreciação de 'todas as segundas, quartas e sextas, pontualmente atrasado' com uma extrema autodisciplina baseada em dados nos bastidores."
 date: 2026-04-24
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -14,14 +12,18 @@ tags:
     'nativos digitais',
     'autodisciplina',
   ]
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-24
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/有感筆電.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
 sourceBodyHash: 'sha256:2712f87a8f564cdd'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-18T15:46:46.953745+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

@@ -2,7 +2,7 @@
 title: 'Ang Lee: por trás de dois Oscars, o filho que não conseguiu se despedir do pai'
 description: 'No palco do Oscar de 2006, Ang Lee tornou-se o primeiro asiático da história a vencer o prêmio de melhor diretor, mas falou em mandarim: “Obrigado a todos pela preocupação”. O mundo se lembra do orgulho de Taiwan que conquistou duas estatuetas, mas o que ele filmou durante toda a vida foram a repressão, o medo e o pai que, dois anos antes, morrera repentinamente e sempre se opusera à sua carreira no cinema. De genro desempregado que passou seis anos cozinhando em casa a duas vezes vencedor do Leão de Ouro de Veneza, seu verdadeiro adversário nunca foi o set de filmagem, mas ele próprio — a barreira que não conseguia transpor.'
 date: 2026-03-17
-category: 'pt'
+category: 'People'
 tags:
   [
     'Personalidades',
@@ -22,11 +22,13 @@ image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李安.md'
-sourceCommitSha: '09c1bf1a9'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:270ebb8ad85e9750'
 sourceBodyHash: 'sha256:1c12395477bc0a4e'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-18T16:25:24.253300+00:00'
 ---
 
 # Ang Lee: por trás de dois Oscars, o filho que não conseguiu se despedir do pai

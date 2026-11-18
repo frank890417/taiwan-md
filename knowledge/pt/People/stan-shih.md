@@ -24,11 +24,13 @@ imageCredit: 'Tony Tseng'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
 relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '6ffd92f94'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b5ded8b5494f423c'
 sourceBodyHash: 'sha256:fb56cb60a16b87a7'
-translatedAt: '2026-08-03T14:52:23.912723+00:00'
+translatedAt: '2026-11-18T16:21:37.226677+00:00'
 ---
 
 > **Resumo em 30 segundos:** Stan Shih (n. 1944) é filho de uma família tradicional de fabricantes de incenso em Lukang; o pai morreu de excesso de trabalho quando ele tinha três anos, e a mãe o criou vendendo ovos de pato, material de escritório e bilhetes da Loteria Patriótica. Formado em Engenharia Electrónica na Universidade Chiao Tung, tornou-se engenheiro e, em 1976, fundou a Acer com a esposa e alguns sócios reunindo um milhão de novos dólares taiwaneses. Levou a empresa a figurar entre as cinco maiores marcas de PC do mundo e desenhou a "Curva do Sorriso", hoje estudada na economia internacional. É também dos poucos líderes tecnológicos de Taiwan que aceitam falar abertamente dos seus fracassos: a TI-Acer Semiconductor chegou a registar o maior prejuízo anual de uma única empresa em Taiwan; a Acer perdeu mais de 20 mil milhões num só ano (2013); ele, já octogenário, com mais de uma dezena de stents no coração, continua a fazer capital de risco e a criar o seu avatar de IA. O que mais lhe importa, ao longo de toda a vida, são coisas invisíveis, que só se contabilizam muito tempo depois: talento, marca e o que ele chama de "Wangdao".

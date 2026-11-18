@@ -22,11 +22,13 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/劉安婷.md'
-sourceCommitSha: '75479a4e'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:3dee896f2b15c3b8'
 sourceBodyHash: 'sha256:efca1efad60ae65f'
-translatedAt: '2026-07-30T22:54:33+08:00'
+translatedAt: '2026-11-18T15:54:20.211535+00:00'
 ---
 
 > **Resumo em 30 segundos:** Liu An-ting nasceu em 1989 em Taipé, cresceu em Taichung[^1]. O pai, Liu Yi-chung, é fundador da Fundação de Bem-Estar Social Lin Yisheng; a mãe, Lin Yi-jung, é professora de música na Escola Experimental Primária Afiliada à Universidade de Educação de Taichung e presidente da Fundação de Caridade Lin Yisheng[^2]. Em 2008, formou-se na Escola Secundária Feminina de Taichung, tendo sido admitida simultaneamente no Departamento de Línguas Estrangeiras e no Departamento de Ciência Política da Universidade Nacional de Taiwan, bem como em dez universidades de prestígio nos EUA, acabando por escolher a Universidade de Princeton (bolsa integral)[^1]. Durante os quatro anos de universidade, esteve em salas de aula de barro no Gana, escolas de tenda no Haiti, prisões juvenis nos EUA, bairros de lata em Paris e locais do genocídio no Camboja[^3]. Aos 23 anos, pediu demissão do seu trabalho de consultoria de gestão em Nova Iorque e regressou a Taiwan; em 2013, lançou o **Teach For Taiwan (TFT)**, com um capital de 2.000 NTD, nove pessoas e oito escolas em Tainan e Taitung[^4]. Em 2016, na cerimónia de graduação da Universidade Nacional Cheng Kung, fez a pergunta: «**O que você faz com a sua sorte?**», frase que foi partilhada centenas de milhares de vezes, tornando-se um lema colectivo de toda uma geração[^5]. Mas a frase que ela mais repete é: «**Não acreditem em mim como indivíduo**»[^6]. Em 2024, após o 10.º aniversário da TFT, passou a presidência a Lin Yen-hsi (ex-directora-geral da DDI Taiwan, empresa internacional de consultoria), tornando-se ela própria directora[^7]. Em onze anos, a TFT formou cumulativamente mais de 400 membros do programa, entrou em nove condados/cidades e 85 escolas, acompanhando mais de 7.500 alunos[^8]. Mas a melhor obra de Liu An-ting talvez não seja a própria TFT, seja **o facto de ter praticado, desde o primeiro dia, como partir**.

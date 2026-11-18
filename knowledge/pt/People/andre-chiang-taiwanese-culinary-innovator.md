@@ -29,11 +29,13 @@ rationale:
   whats_excluded: '刻意不把「歸還三星」寫成拆穿式的 gotcha（他拿的是二星，這是理解他選擇的一個面，不是打臉的爆點）；不把私生活八卦（婚姻現況、命理解讀）放進任何位置；不寫「巔峰九星／Burnt Ends 集團」這類已證實誤植的事業版圖；台灣味譜不寫成「他定義了台灣味」，而是誠實呈現成他自己都還沒答完的開放提問，避免虛構一個不存在的外部爭議。'
   where_it_hedges: '赴法年齡四說並存，只寫「二十出頭」不逼死精確數字；法國「九年磨到執行主廚」精確引用來源數字；TIME「印度洋最偉大料理」標「據台灣媒體轉述」；RAW 訂位難度具名澳洲部落客 Lorraine Elliott，不寫「英國媒體」；RAW Culinary Academy 誠實寫「還沒開學」；澳門川江月標明已於 2023 年結束；1887 by André 開幕日與 Restaurant André 建物年代皆不逼死精確數字，如實反映來源本身的模糊。'
 relatedDiary: ['2026-07-18-104038-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/江振誠.md'
-sourceCommitSha: 'afc8fbf91'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:335773d0a09d68a9'
 sourceBodyHash: 'sha256:257d28e459bd329d'
-translatedAt: '2026-07-27T02:56:17+08:00'
+translatedAt: '2026-11-18T15:53:00.665720+00:00'
 ---
 
 # André Chiang: ele nunca espera que algo seja rigidamente definido — antes vira-se e parte
