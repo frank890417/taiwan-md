@@ -30,11 +30,13 @@ sporeLinks:
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '7e660a586'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:11f4b1d06ffc2776'
 sourceBodyHash: 'sha256:a42a37a855f0ab8b'
-translatedAt: '2026-10-15T01:58:06.011425+00:00'
+translatedAt: '2026-11-18T06:06:29.037451+00:00'
 ---
 
 Während die ganze Welt mit hunderten Millionen Dollar Rechenleistung der KI hinterherjagte, veränderte ein Paper die Art, wie Maschinen schließen – für etwa fünftausend Dollar.
