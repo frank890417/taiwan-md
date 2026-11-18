@@ -1,17 +1,17 @@
 ---
-title: 'Hsuan Hsien: Nach dem Schreiben von „Abgrund“ zog er den Stift ein und widmete seinen zweiten Lebenshälfte der Redaktion, wodurch er zu einer Seite der Poesthistorie wurde'
-description: 'Nachdem Hsuan Hsien (瘂弦) im Alter von 36 Jahren 1968 das Gedichtband „Abgrund“ veröffentlicht hatte, zog er den Stift ein. Von 1977 bis 1998 leitete er die Nebenrubrik der United Daily News und machte diesen Redaktionsschreibtisch zu einem wichtigen öffentlichen literarischen Raum in Taiwan nach dem Krieg. Er starb am 11. Oktober 2024 in Vancouver, Kanada, im Alter von 92 Jahren – seine 56 Jahre Schweigen sind länger als tausend Bände Poesie; der Refrain „Hallelujah, ich lebe noch“ wurde zu einem poetischen Symbol der Kriegsrechtszeit, das dem Zensurwesen entkam.'
+title: 'Yu Hsien: Nach dem Schreiben von „Abgrund“ legte er den Stift nieder; die zweite Lebenshälfte schrieb Literaturgeschichte als Redakteur der United Daily News Beilage'
+description: 'Im Jahr 1968, im Alter von 36 Jahren, hörte Yu Hsien auf zu schreiben, nachdem er neunzig Gedichte in dem Band „Abgrund“ zusammengestellt hatte. Von 1977 bis 1998 leitete er 21 Jahre lang die Beilage der United Daily News und verwandelte den Redaktionsstuhl in den wichtigsten literarischen öffentlichen Raum im Taiwan der Nachkriegszeit. Am 11. Oktober 2024 verstarb er im Alter von 92 Jahren in Vancouver, Kanada – sein 56-jähriges Schweigen nach dem Aufhören des Schreibens wog schwerer als tausend Gedichtbände; die Refrainzeile „Halleluja, ich lebe noch“ wurde zu einem poetischen Symbol der Ära des Kriegsrechts, das der Zensur der Polizeibehörde auf rätselhafte Weise entging.'
 date: 2026-05-28
 category: 'People'
 tags:
   [
     'Literatur',
     'Dichter',
-    'moderne Lyrik',
-    'Gründungspoesie-Vereinigung',
-    'United Daily News Nebenrubrik',
-    'erste Generation nach Krieg',
-    'Nanping',
+    'Moderne Poesie',
+    'Genesis Poetry Society',
+    'United Daily News Beilage',
+    'Erste Nachkriegsgeneration',
+    'Henan',
     'Vancouver',
   ]
 subcategory: '文學與詩人'
@@ -24,11 +24,13 @@ image: '/article-images/people/yaxian-portrait-2012.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:e787dc16343b5dd6'
 sourceBodyHash: 'sha256:b6b66329e69543f7'
-translatedAt: '2026-09-12T16:22:12+08:00'
+translatedAt: '2026-11-18T09:01:45.540003+00:00'
 ---
 
 # Hsuan Hsien: Nach dem Schreiben von „Abgrund“ zog er den Stift ein und widmete seinen zweiten Lebenshälfte der Redaktion, wodurch er zu einer Seite der Poesthistorie wurde

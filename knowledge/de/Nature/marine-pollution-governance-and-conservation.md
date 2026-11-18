@@ -18,11 +18,13 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
-sourceCommitSha: '1d54cbe52'
-sourceContentHash: 'sha256:3725125046bb0302'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:f5827a0544e3df55'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-18T10:19:06.288687+00:00'
 ---
 
 # Herausforderungen im Management und Schutz der Meeresumwelt von Taiwan
@@ -587,26 +589,26 @@ Der Kern des Meeresschutzes ist die Generationengerechtigkeit: Die heutigen Ents
 
 ## Referenzen
 
-[^1]: [Statistiken zu Meeresmüll - Marine Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Daten zum Strandsäubern vom 2016 bis 2023 durch den Wildschutzverein.
+[^1]: [Statistiken zu Meeresabfällen – Marine Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Statistik der Strandreinigungsdaten des Wildse Protection Association für den Zeitraum 2016–2023.
 
-[^2]: [Umfrage zu Mikroplastik in den Gewässern Taiwans - Academia Sinica Center for Biodiversity Research](https://www.oca.gov.tw/) — Untersuchungsbericht zur Mikroplastikkonzentration in den Gewässern rund um Taiwan.
+[^2]: [Untersuchung von Mikroplastik in den Gewässern Taiwans – Biodiversity Research Center der Academia Sinica](https://www.oca.gov.tw/) — Untersuchungsbericht über die Konzentration von Mikroplastik in den Gewässern um Taiwan.
 
-[^3]: [Verabschiedung des Meeresschutzgesetzes – Greenpeace und Platform湾](https://www.greenpeace.org/taiwan/update/35872/) — Bestätigung der Verabschiedung des „Gesetzes zum Meeresschutz“ am 12. Juli 2024.
+[^3]: [„Gesetz zum Schutz der Meere“ in der dritten Lesung verabschiedet – Green Harmony Platform](https://www.greenpeace.org/taiwan/update/35872/) — Bestätigung, dass das „Gesetz zum Schutz der Meere“ am 12. Juli 2024 in der dritten Lesung verabschiedet wurde.
 
-[^4]: [Meeresschutzbehörde der Meereskommission](https://www.oca.gov.tw/) — Die „Weiße Buch über den Meeresschutz in Taiwan“, Ausgabe 2024.
+[^4]: [Marine Conservation Agency des Ocean Affairs Council](https://www.oca.gov.tw/) — „Weißbuch zum Schutz der Meere in Taiwan“, Ausgabe 2024.
 
-[^5]: [Wichtige Politiken des Meeresschutzes – Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Erläuterung der maritimen Schutzpolitik durch das Executive Yuan.
+[^5]: [Wichtige politische Maßnahmen des „Gesetzes zum Schutz der Meere“ – Exekutiv院 (Yuan)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Erläuterungen der Regierung zu den politischen Maßnahmen des Gesetzes zum Schutz der Meere.
 
-[^6]: [Ein Jahr lang Mikroplastik-Schnelltest enthüllt die Wahrheit über die Küstenverschmutzung Taiwans - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Daten zur Dichte von Müll an den Küsten Taiwans.
+[^6]: [Ein Jahr dauernde Schnelluntersuchung von Meeresabfällen enthüllt die Wahrheit über die Verschmutzung der Küsten Taiwans – National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Daten zur Untersuchung der Mülldichte an den Küsten Taiwans.
 
-[^7]: [10 Dinge, die man über Meeresmüll wissen muss - Chengyang Environmental Consultants](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Untersuchung der Tiefseeabfalldichte durch Chengyang Environmental Consultants im Jahr 2020.
+[^7]: [10 Dinge, die man über Meeresabfälle wissen muss – Cheng Yang Environmental Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Untersuchung der Dichte von Meeresbodenmüll durch Cheng Yang Environmental Consulting im Jahr 2020.
 
-[^8]: [Das Meer kann nicht warten – Greenpeace und Platform湾](https://www.greenpeace.org/taiwan/update/30154/) — Der Prozess der zivilgesellschaftlichen Förderung des Meeresschutzes.
+[^8]: [Das „Gesetz zum Schutz der Meere“ darf nicht länger aufgeschoben werden – Green Harmony Platform](https://www.greenpeace.org/taiwan/update/30154/) — Der Prozess zivilgesellschaftlicher Gruppen bei der Förderung der Gesetzgebung zum Schutz der Meere.
 
-[^9]: [Über Meeresmüll - Marine World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analyse von Arten und Quellen von Meeresabfall.
+[^9]: [Meeresabfälle kennenlernen – Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analyse von Typen und Quellen von Meeresabfällen.
 
-[^10]: [„Das Meer hat ‚Plastik‘ – Eine Gesamtprüfung des Küstenmülls Taiwans“ - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Untersuchung der Art und Verteilung von Küstenmüll in Taiwan.
+[^10]: [„Was ist im Meer an Plastik? – Eine Gesamtschau des Küstenmülls in Taiwan“ – Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Untersuchung der Arten und Verteilung von Küstenmüll in Taiwan.
 
-[^11]: [Erfolge des Schildkrötenschutzes auf Xiaoliuqu - Taiwan Coral Island Association](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Das Modell und die Erfolge des Schutzes der Meeresschildkröten auf Xiaoliuqu.
+[^11]: [Ergebnisse des Meeresschildkrötenschutzes auf Xiaoliuqiu – Taiwan Coral Reef Association](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Schutzmodell und Wirksamkeit des Meeresschildkrötenschutzes auf Xiaoliuqiu.
 
-[^12]: [Die größte Korallenbleiche in Taiwan im Jahr 2024 – Our Island](https://ourisland.pts.org.tw/content/7392) — Untersuchungsbericht zur Korallenbleiche in Taiwan im Jahr 2020.
+[^12]: [Erste landesweite großflächige Korallenbleiche der Geschichte im Jahr 2024 – Our Island](https://ourisland.pts.org.tw/content/7392) — Untersuchungsbericht zur Korallenbleiche in Taiwan aus dem Jahr 2020.
