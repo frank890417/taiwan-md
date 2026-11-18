@@ -2,19 +2,21 @@
 title: '台湾総統のペット：官邸の権威主義的なシェパード犬から「ファーストキャット」の社会的共鳴まで'
 description: '1951年、一匹のシェパード犬が士林官邸に入り、蔣中正の護衛となりました。七十年後、蔡英文は保護猫「想想」を連れて官邸に入りました。権威主義的な護衛を象徴した軍用犬から、社会的ケアを代表する保護犬と猫へ。台湾総統のペットの変遷は、強人政治から多元的平等の民主主義へと向かったこの島の軌跡を、意図せず側面から描き出しています。'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Politics'
-subcategory: '政治文化'
 tags: ['総統官邸', 'ペット政治', '動物保護', '台湾民主主義']
-readingTime: 8
+subcategory: '政治文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-18T22:41:40.906448+00:00'
 ---
 
 > **30秒概観：** 台湾の歴代総統のペットは、官邸内の家族の一員であるだけでなく、しばしば政治的イメージや社会的価値の縮図でもありました。蔣中正時代の威厳あるシェパード犬、李登輝のゴールデン・レトリバーの群れ、陳水扁の台湾犬「勇哥」、馬英九の馬小九、蔡英文の猫と犬たち、そして賴清德の保護犬 Luke に至るまで。この一覧は、「ファーストペット」が単なる私的な嗜好から、動物保護を推進し、市民的な温かさを示す政治的言語へと、いかに徐々に変化していったかを側面から示しています。
@@ -69,24 +71,24 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 📝 キュレーター・ノート：ファーストペットは総統の最も柔らかな鎧ですが、同時に最も刺し貫かれやすい弱点でもあります。
 
-## 参考資料
+## 参考文献
 
-[^1]: [蔣介石3愛犬護主有靈性日記留名備受寵愛](https://www.youtube.com/watch?v=uj0__fZkZlg) — 台視ニュース（YouTube映像記録）
+[^1]: [蒋介石の3匹の愛犬、主を守る霊性のある日記に名前が残るほど寵愛される](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTVニュース（YouTube動画記録）
 
-[^2]: [回看李登輝：養狗養貓還養羊 阿輝伯官邸像另類動物園](https://www.mirrormedia.mg/story/20200227inv009/) — 鏡週刊（李登輝がゴールデン・レトリバーを導入し、三十匹以上を繁殖させ、一部を盲導犬として訓練したことを記録）
+[^2]: [李登輝を振り返る：犬や猫だけでなく羊も飼っていた、阿輝伯の官邸はまるで動物園のよう](https://www.mirrormedia.mg/story/20200227inv009/) — 鏡週刊（李登輝がゴールデンレトリバーを導入し、30匹以上を繁殖させ、一部を盲導犬として訓練したことを記載）
 
-[^3]: [政治明星犬命運大不同，蔡想想浪貓變前總統第一寵物](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahooニュース
+[^3]: [政治スター犬の運命は大きく異なる、蔡英文が「シャンシャン」という野良猫から元総統の第一ペットへ](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo!ニュース
 
-[^4]: [馬小九ウィキペディア項目](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — ウィキペディア（ウィキペディア項目）
+[^4]: [馬小九 Wikipedia項目](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia（Wikipedia項目）
 
-[^5]: [北市長任內特別費案 馬英九獲不起訴](https://news.ltn.com.tw/news/society/breakingnews/2009990) — 自由時報（2017年3月20日、台北地方検察署が不起訴。特別費は非犯罪化済みで、前件も無罪確定）
+[^5]: [台北市長在任中の特別費案、馬英九氏は不起訴処分](https://news.ltn.com.tw/news/society/breakingnews/2009990) — 自由時報（2017-03-20 台北地検察署が不起訴。特別費は非犯罪化されており、前案ですでに無罪判決が確定している）
 
-[^6]: [秀第一寵物蔡英文：最想陪想想、阿才玩](https://www.youtube.com/watch?v=jVfgyh2mxVA) — 民視ニュース（YouTube映像記録）
+[^6]: [第一のペットを披露した蔡英文：一番はシャンシャンや阿才と一緒にいたい](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTVニュース（YouTube動画記録）
 
-[^7]: [總統：依法申請領養退役搜救犬 無須為政治扭曲](https://www.cna.com.tw/news/aipl/202104290024.aspx) — 中央通訊社（蔡英文が2016年に引退した盲導犬 Bella、Bunny、Maru を引き取り、年齢により引退した後に規定に基づいて捜索救助犬の樂樂を引き取ったことを記録）
+[^7]: [総統：法律に基づき退役捜索救助犬の譲渡を申請、政治的に歪曲する必要はない](https://www.cna.com.tw/news/aipl/202104290024.aspx) — 中央通信社（蔡英文が2016年に退役盲導犬のBella、Bunny、Maru、および定年退役後に規定通り譲渡を受けた捜索救助犬の樂樂を家族に迎えたことを記載）
 
-[^8]: [賴清德新動畫片吐露收養流浪狗「Luke」的故事](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahooニュース
+[^8]: [頼清徳の新アニメーション、野良犬「Luke」を家族に迎えた物語を明かす](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo!ニュース
 
-[^9]: [愛犬Luke離世 賴清德：持續關注毛小孩與浪浪](https://www.cna.com.tw/news/aipl/202309110271.aspx) — 中央通訊社（2023年9月11日、賴清德のフェイスブック「Lukeが長年寄り添ってくれたことに感謝」）
+[^9]: [愛犬Lukeの逝去、頼清徳：引き続きペットや野良犬に注目していきたい](https://www.cna.com.tw/news/aipl/202309110271.aspx) — 中央通信社（2023-09-11、頼清徳のFacebook「長年のLukeの寄り添いに感謝します」）
 
-[^10]: [如果捕獸夾夾到小孩、馬小九…](https://news.tvbs.com.tw/life/131330) — TVBS（詳細は原リンク本文の資料補足を参照）
+[^10]: [もしも罠が子供や馬小九を挟んでしまったら…](https://news.tvbs.com.tw/life/131330) — TVBS（詳細は元のリンク内の補足資料を参照）
