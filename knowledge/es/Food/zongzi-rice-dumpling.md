@@ -2,26 +2,30 @@
 title: 'Zongzi'
 description: 'Los zongzi de Taiwán no son solo un alimento, son la superposición de cuatro recuerdos insulares diferentes: minnan, hakka, provinciales y pueblos indígenas; cada bocado es el camino de regreso.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '節慶飲食'
 tags:
-  - 'Día del Duanwu'
-  - 'cultura gastronómica'
-  - 'minnan'
-  - 'hakka'
-  - 'población de provincia'
-  - 'pueblos indígenas'
-  - 'alimentos festivos'
-readingTime: 7
+  [
+    'Día del Duanwu',
+    'cultura gastronómica',
+    'minnan',
+    'hakka',
+    'población de provincia',
+    'pueblos indígenas',
+    'alimentos festivos',
+  ]
+subcategory: '節慶飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/粽子.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-18T17:09:33.671104+00:00'
 ---
 
 # Zongzi

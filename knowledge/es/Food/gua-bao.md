@@ -2,9 +2,7 @@
 title: "Gua bao: del 'tigre que muerde al cerdo' de Fuzhou al símbolo Michelin de BAO London"
 description: "En el diario de 1927 del notable de Hsinchu Huang Wang-cheng, el 'tigre que muerde al cerdo' era un bocadillo servido en la mesa de weiya para agasajar a los trabajadores. Cien años después, en Lexington Street, en el Soho londinense, las filas esperan por la misma masa doblada, y la Guía Michelin la ha incorporado a sus recomendaciones Bib Gourmand. Este pequeño bocado blanco, rollizo y plegado contiene cuatro siglos de historia migratoria fuzhouesa en Taiwán, el ritual laboral y patronal del weiya dedicado al Dios de la Tierra, y la historia de cómo una artista que voló de Taipéi a Londres lo llevó a la mesa internacional."
 date: 2026-05-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'bocadillos',
@@ -14,18 +12,22 @@ tags:
     'BAO London',
     'gastronomía taiwanesa',
   ]
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Food/刈包.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
-sourceBodyHash: 'sha256:6b2255cbc29cf54c'
-translatedAt: '2026-06-16T16:54:57Z'
 image: '/article-images/food/gua-bao-yuanfang-2023.webp'
 imageCredit: '王昱晴 / 中華民國總統府'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gua-bao_by_the_Yuan_Fang_Guabao_at_Huaxi_Street_2023-04-28_01.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Food/刈包.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:6fe952ad9ad0a5fa'
+sourceBodyHash: 'sha256:6b2255cbc29cf54c'
+translatedAt: '2026-11-18T16:23:52.188768+00:00'
 ---
 
 ![Gua bao de Yuanfang Gua Bao, en la calle Huaxi: una masa semicircular doblada que envuelve panceta de cerdo estofada, hojas de mostaza encurtidas, maní molido y cilantro; uno de los gua bao tradicionales más representativos de Taipéi](/article-images/food/gua-bao-yuanfang-2023.webp)

@@ -2,9 +2,7 @@
 title: 'Formosa: cómo los occidentales «descubrieron» una isla que ya estaba habitada'
 description: 'En 1704, un francés que nunca había estado en Asia se presentó ante la Royal Society de Londres y, con un sistema de escritura y una religión inventados por él mismo, convenció a los eruditos presentes de que era «formosano». El engaño duró diez años. Pero la pregunta mayor es esta: cuando los europeos decían que habían «descubierto Formosa», los pueblos austronesios de la isla ya llevaban seis mil años viviendo allí. ¿De quién es la narrativa del «descubrimiento»?'
 date: 2026-04-12
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
   [
     'Formosa',
@@ -16,15 +14,19 @@ tags:
     'Museo Nacional de Historia de Taiwán',
     'fuentes históricas de ultramar',
   ]
+subcategory: '殖民與帝國'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/福爾摩沙.md'
-sourceCommitSha: '01d9d0e73'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:7935e86b210536e5'
 sourceBodyHash: 'sha256:dd15e8c65b7a98f1'
-translatedAt: '2026-05-12T11:51:05+08:00'
-image: ''
+translatedAt: '2026-11-18T16:55:19.482265+00:00'
 ---
 
 # Formosa: cómo los occidentales «descubrieron» una isla que ya estaba habitada

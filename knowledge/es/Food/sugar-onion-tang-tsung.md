@@ -2,9 +2,7 @@
 title: 'Tang Tsung: el "azúcar de la resistencia" escondido en agujeros blancos'
 description: 'En la década de 1940, los agricultores taiwaneses, para evadir el monopolio de la policía japonesa sobre la sacarosa, estiraron jarabe de color marrón oscuro hasta convertirlo en tubos blancos como cebolletas: el "arte del disfraz" de los campesinos, cristalización de un siglo de sabiduría popular. Los 16 grandes orificios y 16 pequeños orificios de precisión en cada pieza de tang tsung sostuvieron durante un siglo la resistencia dulce y crujiente de Taiwán.'
 date: 2026-04-23
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
     'Food',
@@ -15,15 +13,19 @@ tags:
     'historia de la industria azucarera',
     'cultura de la resistencia',
   ]
-readingTime: 15
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
-featured: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
-translatedAt: '2026-06-12T00:53:04+08:00'
+translatedAt: '2026-11-18T16:45:17.541349+00:00'
 ---
 
 # Tang Tsung: el "azúcar de la resistencia" escondido en agujeros blancos

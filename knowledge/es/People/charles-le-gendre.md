@@ -1,170 +1,174 @@
 ---
-title: 'Charles Le Gendre: el negociador y el traidor eran la misma persona'
-description: 'En 1867, el barco mercante estadounidense Rover naufragó en la península de Hengchun; 14 personas fueron asesinadas por el pueblo Paiwan. El cónsul estadounidense Charles Le Gendre viajó ocho veces a Taiwán para negociar y firmó un acuerdo con el jefe indígena Tauketok sin participación alguna del gobierno Qing. Luego se llevó todo su conocimiento de Formosa y se incorporó al gobierno japonés. Cinco años después, Japón usó su información para invadir Taiwán.'
+title: 'Le Gendre: El pactante y el traidor son la misma persona'
+description: 'En 1867, el barco mercante estadounidense Rover naufragó en la península de Hengchun, resultando en la muerte de 14 personas a manos del pueblo Paiwan. El cónsul estadounidense Charles W. Le Gendre negoció ocho veces con Taiwán y firmó un acuerdo con el líder indígena Tauketok sin la participación del gobierno Qing. Posteriormente, llevó su conocimiento de Formosa al gobierno japonés, facilitando la invasión de 1874.'
 date: 2026-04-12
-category: People
-subcategory: 歷史人物
+category: 'People'
 tags:
-  - 羅發號事件
-  - 牡丹社事件
-  - 原住民外交
-  - 李仙得
-  - 卓杞篤
-  - 19世紀
-  - 美國領事
-  - 斯卡羅
+  [
+    'Incidente del Rover',
+    'Incidente de Mudan',
+    'diplomacia indígena',
+    'Charles W. Le Gendre',
+    'Tauketok',
+    'siglo XIX',
+    'cónsul estadounidense',
+    'Scaalu',
+  ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-featured: true
-translatedFrom: People/李仙得.md
-sourceCommitSha: '4b6d28c5'
+image: ''
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/李仙得.md'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
-translatedAt: 2026-05-01T20:54:23+08:00
-image: ''
-author: 'Taiwan.md'
+translatedAt: '2026-11-19T00:09:41+08:00'
 ---
 
-# Charles Le Gendre: el negociador y el traidor eran la misma persona
+# Le Gendre: El pactante y el traidor son la misma persona
 
-> **Resumen en 30 segundos:** Charles W. Le Gendre (1830-1899), diplomático estadounidense de origen francés, veterano de la Guerra de Secesión, perdió el ojo izquierdo en Gettysburg. Fue cónsul estadounidense en Amoy (Xiamen) entre 1866 y 1872, visitó Formosa ocho veces y firmó el "Tratado del Cabo Sur" con el jefe Paiwan Tauketok. Tras dejar el consulado estadounidense, se incorporó al gobierno japonés y usó su conocimiento de Taiwán para ayudar a planificar la expedición japonesa de 1874 (Incidente de Botan). Dejó 1.600 páginas de manuscritos y 200 imágenes, pero su _Notes of Travel in Formosa_ nunca se publicó en vida; tuvieron que pasar 137 años hasta que el Museo Nacional de Historia de Taiwán (臺史博) publicó la edición crítica completa.
+> **Resumen en 30 segundos:** Charles W. Le Gendre (1830-1899), diplomático estadounidense de origen francés y veterano de la Guerra Civil, perdió el ojo izquierdo en Gettysburg. Entre 1866 y 1872, ejerció como cónsul de EE. UU. en Xiamen y visitó Formosa ocho veces, firmando el «Pacto de Nanji» con el líder Paiwan Tauketok. Tras dejar su cargo consular, se unió al gobierno japonés, utilizando su conocimiento de Taiwán para ayudar a Japón a planificar la invasión durante el Incidente de Mudan en 1874. Dejó un legado de 1,600 páginas de manuscritos y 200 imágenes, pero su «Crónica de Formosa» nunca se publicó en vida; fue hasta 137 años después cuando la Academia de Historia de Taiwán publicó la edición completa.
 
 ---
 
-## El incidente del Rover
+## El Rover
 
-El 12 de marzo de 1867, el barco mercante estadounidense _Rover_, en ruta de Shantou a Niuzhang, encalló en los arrecifes frente al Cabo Sur de la península de Hengchun, en Langjia (琅嶠)[^1]. El capitán Joseph W. Hunt, junto con su esposa Mercy y la tripulación, desembarcaron y entraron en el territorio del pueblo Paiwan Kulaljuc (龜仔甪社).
+El 12 de marzo de 1867, el barco mercante estadounidense _Rover_, que navegaba de Shantou hacia Niuzhuang, encalló en las aguas frente a Langqiao, en el extremo sur de la península de Hengchun[^1]. El capitán Joseph W. Hunt y su esposa Mercy lideraron a la tripulación hacia la costa, adentrándose en el territorio de la comunidad Kulaljuc del pueblo Paiwan.
 
-14 personas fueron asesinadas. Solo un marinero de origen cantonés logró escapar y llevó la noticia a Takao (打狗).
+Catorce personas fueron asesinadas. Solo un marinero de Guangdong logró escapar para llevar la noticia a Takao (actual Kaohsiung).
 
-La noticia llegó a Amoy. El cónsul estadounidense Charles Le Gendre viajó de inmediato al norte, a Fuzhou, para negociar con el virrey de Fujian y Zhejiang. La posición de la [dinastía Qing](/es/history/qing-dynasty-rule/) fue clara: aquello era tierra de "bárbaros no sometidos" (生番), fuera de su jurisdicción[^2]. La marina estadounidense también intentó intervenir por la fuerza: el USS Hartford desembarcó 181 soldados, pero fueron rechazados por los Paiwan; el comandante Alexander MacKenzie murió en combate[^3].
+La noticia llegó a Xiamen. El cónsul estadounidense en Xiamen, Charles W. Le Gendre, partió de inmediato hacia Fuzhou para negociar con el Gobernador General de Fujian y Zhejiang. La actitud del [gobierno Qing](/es/history/qing-dynasty-rule/) fue clara: aquel era territorio de «salvajes» y no estaba bajo su jurisdicción[^2]. La Marina de EE. UU. también intentó una intervención militar: el USS Hartford desembarcó a 181 hombres, pero fueron repelidos por los Paiwan; el comandante Alexander MacKenzie murió tras recibir un disparo[^3].
 
-Los barcos de guerra no pudieron imponerse, y las autoridades no quisieron actuar. Le Gendre decidió ir él mismo.
+Ante la imposibilidad de someterlos militarmente y la reticencia del gobierno oficial a intervenir, Le Gendre decidió ir él mismo.
 
-## El diplomático de un solo ojo
+## El diplomático tuerto
 
-El hombre que decidió adentrarse solo en la selva tenía un pasado poco común. Nació en 1830 en Oullins, cerca de Lyon, Francia. Su padre era pintor y grabador. Tras graduarse en la Universidad de París, emigró a Estados Unidos y en 1861, al estallar la Guerra de Secesión, se unió al Ejército de la Unión[^4].
+El hombre que decidió adentrarse en la selva tenía un pasado inusual. Nació en 1830 en Oullins, cerca de Lyon, Francia. Su padre era pintor y grabador. Tras graduarse en la Universidad de París, emigró a Estados Unidos y se unió al Ejército de la Unión durante la Guerra Civil en 1861[^4].
 
-El 9 de mayo de 1864, en la Batalla de la Selva (Battle of the Wilderness), una bala le atravesó la nariz y el ojo izquierdo. Perdió la mitad del rostro y fue ascendido a coronel. Tras la guerra, necesitaba un trabajo lejos del campo de batalla. En 1866 fue nombrado cónsul estadounidense en Amoy[^5].
+El 9 de mayo de 1864, durante la Batalla de la Wilderness, una bala le atravesó la nariz y el ojo izquierdo. Perdió el contorno de la mitad de su rostro y fue ascendido a coronel. Tras la guerra, necesitaba un trabajo lejos del campo de batalla. En 1866, fue nombrado cónsul de EE. UU. en Xiamen[^5].
 
-No sabía que ese puesto lo llevaría a una isla, y que esa isla definiría el resto de su vida.
+No sabía que este empleo lo llevaría a una isla que definiría la segunda mitad de su vida.
 
-## El Tratado del Cabo Sur
+## El Pacto de Nanji
 
-En septiembre de 1867, Le Gendre partió de Amoy con el intérprete William A. Pickering (必麒麟) y James Horn (何恩), adentrándose en territorio Paiwan en la península de Hengchun[^6]. Fue una marcha a través de selva sin caminos, hacia la "tierra bárbara" (番地) más allá del control Qing.
+En septiembre de 1867, Le Gendre partió de Xiamen junto al intérprete William A. Pickering y James Horn para adentrarse en los territorios Paiwan de la península de Hengchun[^6]. Fue una marcha a través de selvas sin caminos, hacia tierras «bárbaras» fuera del control del gobierno Qing.
 
-El 10 de octubre se reunió con Tauketok (卓杞篤), jefe supremo de las dieciocho comunidades Paiwan.
+El 10 de octubre, se reunió con Tauketok (卓杞篤), el gran líder de las dieciocho comunidades Paiwan.
 
-¿De qué hablaron? El memorándum formal del 28 de febrero de 1869 registró tres cláusulas concretas: los náufragos debían izar una bandera roja para identificarse; el desembarco solo podía realizarse en lugares designados; y estaba prohibido entrar en las aldeas de las tribus de montaña[^7].
+¿De qué hablaron? El memorando oficial del 28 de febrero de 1869 estipulaba tres cláusulas específicas: los tripulantes extranjeros que naufragaran debían izar una bandera roja para identificarse; los desembarcos solo podían realizarse en lugares designados; y no se debía entrar en las aldeas de las comunidades montañosas[^7].
 
 > **📝 Nota del curador**
-> Lo extraordinario del Tratado del Cabo Sur no radica en sus cláusulas, sino en quiénes lo firmaron: por un lado, el cónsul estadounidense; por otro, el jefe supremo de las dieciocho comunidades Paiwan (台灣原住民族歷史與正名運動). El gobierno Qing estuvo completamente ausente. Este podría ser el primer memorándum escrito firmado directamente entre un líder indígena local y un representante extranjero en la historia de Taiwán. Significa que, en la periferia del imperio, los pueblos indígenas no eran objetos pasivos, sino sujetos con capacidad de negociación.
+> La singularidad del Pacto de Nanji no reside en sus cláusulas, sino en las partes firmantes: por un lado, el cónsul estadounidense; por el otro, el gran líder de las dieciocho comunidades [Paiwan](/es/history/indigenous-peoples-history-and-naming-movement/). El gobierno Qing estuvo totalmente ausente. Este es posiblemente el primer memorando escrito en la historia de Taiwán concluido directamente entre líderes indígenas locales y un representante extranjero. Significa que, en la periferia del imperio, los pueblos indígenas no eran objetos pasivos, sino sujetos con capacidad de negociación.
 
-De mayo de 1867 a mayo de 1872, Le Gendre visitó Taiwán al menos ocho veces[^8]. En cada viaje tomaba notas, dibujaba mapas y recopilaba inteligencia. Se posicionaba como el "experto en Formosa" dentro del círculo diplomático occidental.
+Entre mayo de 1867 y mayo de 1872, Le Gendre visitó Taiwán al menos ocho veces[^8]. En cada ocasión tomaba notas, dibujaba mapas y recopilaba información. Se posicionó como el «experto en Taiwán» dentro de los círculos diplomáticos occidentales.
 
 ## El cambio de bando
 
-En 1872, Le Gendre renunció a su cargo como cónsul estadounidense y se incorporó como asesor de segundo rango en el Ministerio de Asuntos Exteriores de Japón, con un salario anual de 12.000 dólares, siendo el primer extranjero contratado por el gobierno Meiji[^9].
+En 1872, Le Gendre renunció a su cargo de cónsul estadounidense para convertirse en asesor de segundo rango del Ministerio de Asuntos Exteriores de Japón, con un salario anual de NT$12,000 (equivalente a la época), siendo el primer extranjero contratado por el gobierno Meiji[^9].
 
-El contexto: en 1871, pescadores de Ryūkyū fueron asesinados en el sur de Taiwán (Incidente de la Bahía de Paiwan, 八瑤灣事件). El gobierno Meiji buscaba una oportunidad para expandirse al exterior, y Taiwán era el primer objetivo. Necesitaban a alguien que conociera la isla.
+El contexto era este: en 1871, pescadores de Ryukyu fueron asesinados en el sur de Taiwán (el Incidente de la Bahía de Payao). El gobierno Meiji buscaba oportunidades de expansión externa, y Taiwán era su primer objetivo. Necesitaban a alguien que conociera la isla.
 
-Le Gendre era la persona perfecta. Tenía ocho viajes de reconocimiento sobre el terreno, relaciones personales con líderes indígenas y un dossier de inteligencia exhaustivo que el gobierno estadounidense no guardaba en ninguna caja fuerte. Les dijo a los japoneses que la "tierra bárbara" del sur de Taiwán era, según el derecho internacional, _terra nullius_ (tierra de nadie), y que el propio gobierno Qing reconocía no tener jurisdicción, por lo que Japón tenía derecho a "castigar" a los indígenas de la zona[^10].
+Le Gendre era el candidato perfecto. Tenía la experiencia de ocho expediciones de campo, relaciones personales con los líderes indígenas y un compendio detallado de inteligencia que el gobierno estadounidense no podía guardar bajo llave. Les dijo a los japoneses: las tierras «bárbaras» del sur de Taiwán eran _terra nullius_ (tierra de nadie) según el derecho internacional; dado que el propio gobierno Qing afirmaba no tener jurisdicción, Japón tenía el derecho de «castigar» a los indígenas de la zona[^10].
 
-> **✦** "La persona que firmó el Tratado del Cabo Sur y la que vendió información a Japón eran la misma persona. El mismo conocimiento de Taiwán se usó primero para firmar un acuerdo de paz y después para planificar una invasión."
+> **✦** «La persona que firmó el Pacto de Nanji y la persona que vendió la información a Japón son la misma. El mismo conocimiento sobre Taiwán se usó primero para firmar un acuerdo de paz y después para planificar una invasión».
 
-En 1874, Japón envió tropas a Taiwán. 3.600 soldados atacaron las aldeas Paiwan en la península de Hengchun. Este fue el Incidente de Botan (牡丹社事件), la primera acción militar ultramarina del Japón moderno. Le Gendre planificó entre bastidores la estrategia diplomática, ayudó a contratar soldados extranjeros, fletar barcos y adquirir suministros militares[^11].
+En 1874, Japón envió tropas a Taiwán. 3,600 soldados atacaron las comunidades Paiwan en la península de Hengchun. Este fue el «Incidente de Mudan», la primera acción militar de expansión ultramarina del Japón moderno. Le Gendre orquestó desde las sombras la estrategia diplomática, ayudó en la contratación de soldados extranjeros, el alquiler de barcos y la adquisición de suministros militares[^11].
 
-## 1.600 páginas de manuscrito, 137 años
+## 1,600 páginas de manuscrito y 137 años
 
-Le Gendre completó un manuscrito monumental alrededor de 1875: _Notes of Travel in Formosa_ (臺灣紀行). 1.600 páginas de texto junto con cerca de 200 mapas, fotografías, bocetos y pinturas[^12].
+Alrededor de 1875, Le Gendre completó un enorme manuscrito: _Notes of Travel in Formosa_ (Crónica de Formosa). Contenía 1,600 páginas de texto junto a casi 200 mapas, fotografías, bocetos y pinturas[^12].
 
-El manuscrito abarcaba cinco dimensiones: historia natural centrada en la geología, la historia de la era colonial holandesa, las relaciones exteriores de la dinastía Qing con las potencias occidentales, la etnología y lingüística de los pueblos austronesios, y el potencial económico y comercial[^13]. Su motivación para escribirlo fue probablemente proporcionar al gobierno Meiji una "recopilación de inteligencia para la anexión de Taiwán"[^14]. El manuscrito fue entregado a su superior, Ōkubo Toshimichi.
+El manuscrito cubría cinco áreas: historia natural centrada en la geología, la historia de la era colonial holandesa, las relaciones exteriores de la dinastía Qing con las potencias occidentales, etnografía y lingüística de los pueblos austronesios, y potencial económico y comercial[^13]. Su motivación para escribirlo fue probablemente proporcionar al gobierno Meiji una «compilación de inteligencia para la anexión de Taiwán»[^14]. Tras terminarlo, lo entregó a su superior, Ōkubo Toshimichi.
 
-El manuscrito nunca se publicó en vida de su autor. El original se conserva en la Biblioteca del Congreso de Estados Unidos, y una copia en los Archivos Nacionales de Japón. La colección Le Gendre Papers de la Biblioteca del Congreso contiene 1.760 piezas; las primeras cinco cajas han sido digitalizadas en 4.774 imágenes, pero los cuatro volúmenes centrales del diario manuscrito aún están en proceso de restauración y no han sido escaneados[^15].
+Este manuscrito nunca se publicó en vida del autor. El original se encuentra en la Biblioteca del Congreso de EE. UU. y una copia en el Archivo Nacional de Japón. La colección de documentos de Le Gendre en la Biblioteca del Congreso consta de 1,760 artículos; los primeros cinco volúmenes han sido digitalizados en 4,774 imágenes, pero los cuatro volúmenes centrales del diario manuscrito aún están en proceso de restauración y no han sido escaneados[^15].
 
-Más de 130 años después, el profesor Douglas L. Fix (費德廉), historiador de la Universidad Reed (Reed College) en Estados Unidos, descubrió el manuscrito en la Biblioteca del Congreso entre 1991 y 1992. En 1999 comenzó una colaboración formal con John Shufelt (蘇約翰), profesor asociado del Departamento de Lenguas Extranjeras de la Universidad Tunghai, financiada por la Fundación Chi Mei, para cotejar las versiones estadounidense y japonesa del manuscrito en archivos de Estados Unidos, Japón y el Reino Unido[^16].
+Más de 130 años después, el profesor Douglas L. Fix, del departamento de historia de Reed College (EE. UU.), descubrió el manuscrito en la Biblioteca del Congreso entre 1991 y 1992. En 1999, comenzó una colaboración formal con John Shufelt, profesor adjunto del departamento de inglés de la Universidad Tunghai, bajo el financiamiento de la Fundación Chimei, para comparar las versiones estadounidense y japonesa del manuscrito en EE. UU., Japón y el Reino Unido[^16].
 
-Shufelt declaró posteriormente en una entrevista con _The Reporter_ (報導者): "No puedo decir simplemente que era imperialista o humanitario. Es mucho más complejo que eso."[^17]
+Shufelt declaró más tarde en una entrevista con _The Reporter_: «No puedo decir simplemente si fue un imperialista o un humanista. Es mucho más complejo que eso»[^17].
 
-Las anotaciones se completaron en 2005. La edición en inglés se publicó en 2012 y la edición en chino en 2013, ambas por el Museo Nacional de Historia de Taiwán. Desde la finalización del manuscrito hasta su publicación formal transcurrieron 137 años.
+El trabajo de anotación se completó en 2005. La edición en inglés se publicó en 2012 y la versión en chino en 2013 por la Academia de Historia de Taiwán. Desde la finalización del manuscrito hasta su publicación oficial transcurrieron 137 años.
 
 > **📝 Nota del curador**
-> El manuscrito de Le Gendre es el registro de primera mano más completo de Taiwán en el siglo XIX. Pero al mismo tiempo es un documento de inteligencia imperial. La tensión entre su valor académico y su motivación política es precisamente la razón por la que Fix y Shufelt necesitaron trece años: no puedes limitarte a leer lo que dice, también debes leer para quién fue escrito.
+> El manuscrito de Le Gendre es el registro primario más completo de Taiwán en el siglo XIX. Pero es, al mismo tiempo, un documento de inteligencia imperial. La tensión entre su valor académico y su motivación política es la razón por la que Fix y Shufelt dedicaron trece años al proyecto: no basta con leer lo que dice; hay que leer para quién fue escrito.
 
-## Seqalu (斯卡羅)
+## Scaalu
 
-El 14 de agosto de 2021 se estrenó en la televisión pública la serie épica _Seqalu: Formosa 1867_ (斯卡羅), con un presupuesto de producción superior a 155 millones de dólares taiwaneses[^18]. Adaptada de la novela _La flor del títere_ (傀儡花) del médico y escritor Yao-chang Chen (陳耀昌), ganadora del Premio Literario Golden de Taiwán en 2016, la historia se sitúa en el contexto del incidente del Rover y el Tratado del Cabo Sur de 1867.
+El 14 de agosto de 2021 se estrenó la serie épica _Scaalu_ (SEQALU: Formosa 1867), una producción de la cadena pública PTS con una inversión superior a los NT$155 millones[^18]. Está basada en la novela _Puppet Flower_ (2016 Premio de Literatura de Taiwán) del médico y novelista Chen Yao-chang; el trasfondo histórico es el Incidente del Rover y el Pacto de Nanji de 1867.
 
-El título original seguía el nombre de la novela, "La flor del títere", pero fue cambiado porque la palabra "傀儡" (títere/marioneta) tiene connotaciones despectivas hacia los pueblos indígenas. La serie completa tiene 12 episodios y empleó a más de 6.000 extras[^19]. Ganó un premio Golden Bell en 2022. El actor Paiwan Chamake Valaule (查馬克·法拉屋樂), que interpretaba a Tauketok, fue diagnosticado de adenocarcinoma pulmonar tras el rodaje y falleció el 19 de diciembre de 2021[^20].
+El título original seguía al de la novela (_Puppet Flower_), pero fue cambiado debido a que el término «títere» (en chino) tenía connotaciones discriminatorias hacia los indígenas. La serie consta de 12 episodios y contó con más de 6,000 actores de reparto[^19]. En 2022 recibió un premio Golden Bell. El actor Paiwan que interpretó a Tauketok, Chamak Falalu, fue diagnosticado con adenocarcinoma pulmonar tras el rodaje y falleció el 19 de diciembre de 2021[^20].
 
-El director Ray-yu Cao (曹瑞原) declaró: "_Seqalu_ no es una conclusión, es un punto de partida. Los taiwaneses deberían empezar desde aquí para redescubrir las historias que ocurrieron en su propia tierra."[^21]
+El director Tsao Jui-yuan afirmó: «_Scaalu_ no es una conclusión, es un punto de partida. Los taiwaneses deberían empezar por aquí para redescubrir las historias que han ocurrido en esta tierra»[^21].
 
-En la serie, Le Gendre es uno de los personajes centrales. Pero lo más importante es que Tauketok por fin pasó de ser un personaje secundario a protagonista. En el manuscrito de Le Gendre, Tauketok era un "jefe que había que convencer". En _Seqalu_, es un líder que protege a su pueblo atrapado entre imperios. El mismo evento, depende de quién lo escriba.
+En la serie, Le Gendre es uno de los personajes centrales. Pero lo más importante es que Tauketok finalmente pasa de ser un personaje secundario a ser el protagonista. En los manuscritos de Le Gendre, Tauketok era «un jefe que necesitaba ser persuadido». En _Scaalu_, es un líder que protege a su pueblo en las grietas del imperio. El mismo evento, visto según quién lo escriba.
 
 ## ¿Qué fue de él?
 
-Le Gendre dejó Japón en 1875. En 1890 llegó a Corea como asesor diplomático del emperador Gojong. El 1 de septiembre de 1899 murió en Seúl de un derrame cerebral, a los 69 años[^22].
+Le Gendre dejó Japón en 1875. En 1890 llegó a Corea, donde trabajó como asesor diplomático del emperador Gojong. El 1 de septiembre de 1899, murió en Seúl a causa de un derrame cerebral, a los 69 años[^22].
 
-Su vida abarcó tres escenarios diplomáticos imperiales: Estados Unidos, Japón y Corea. Pero sus seis años más importantes los pasó en Formosa. Fue contemporáneo de Robert Swinhoe (史溫侯), y ambos dejaron registros imborrables de Taiwán en la década de 1860, pero con motivaciones completamente distintas: uno por la ciencia, otro por el poder.
-
----
-
-Shufelt pasó trece años organizando aquel manuscrito. No pudo ofrecer una evaluación simple de Le Gendre.
-
-La persona que firmó el Tratado del Cabo Sur y la que vendió información de Taiwán a Japón eran la misma persona. Dejó el registro de primera mano más completo de Taiwán en el siglo XIX, pero el propósito de acumular ese conocimiento fue venderlo al impereio que mejor pagara. Las tres palabras "experto en Formosa" (臺灣通), ¿están al servicio de Taiwán o abren el camino a los colonizadores? Hasta hoy no hay respuesta.
+Su vida recorrió los escenarios diplomáticos de tres imperios: EE. UU., Japón y Corea. Pero sus seis años más importantes fueron en Formosa. Fue contemporáneo de [Robert Swinhoe](/es/people/robert-swinhoe-naturalist/); ambos dejaron registros imborrables de Taiwán en la década de 1860, pero con motivaciones opuestas: uno por la ciencia, el otro por el poder.
 
 ---
 
-**Lecturas complementarias**:
+John Shufelt dedicó trece años a organizar aquel manuscrito. No pudo ofrecer una evaluación limpia sobre Le Gendre.
 
-- [Incidente del Rover y Tauketok](/es/history/rover-incident-and-tauketok) — Artículo complementario C-2 de este texto: la misma historia desde la perspectiva de Tauketok; cómo el Tratado del Cabo Sur protegió a su pueblo y cómo fue traicionado por la otra parte del acuerdo
-- [台灣原住民族歷史與正名運動](/es/history/indigenous-peoples-history-and-naming-movement) — Los Paiwan del Tratado del Cabo Sur, del largo camino de "tierra bárbara" a la reivindicación de su nombre propio
-- [Dinastía Qing](/es/history/qing-dynasty-rule) — La estructura de gobierno Qing durante las visitas de Le Gendre, para comprender el contexto institucional de la respuesta "fuera de nuestra jurisdicción"
-- [Robert Swinhoe (史溫侯)](/es/people/robert-swinhoe-naturalist) — Otro extranjero que dejó un profundo registro de Taiwán en la misma época, pero motivado por la ciencia y no por el poder
-- [Guerra Sino-Francesa](/es/history/sino-french-war-in-taiwan) — Ocho años después de la partida de Le Gendre, Francia atacó Taiwán con una lógica imperial similar
+El hombre que firmó el Pacto de Nanji y el hombre que vendió la información de Taiwán a Japón son la misma persona. Dejó el registro primario más completo del siglo XIX sobre Taiwán, pero su propósito al acumular ese conocimiento fue venderlo al imperio que pagara más. Si las palabras «experto en Taiwán» significan servir a Taiwán o abrir camino a los colonizadores, sigue sin haber respuesta.
+
+---
+
+**Lecturas adicionales**:
+
+- [El Incidente del Rover y Tauketok](/es/history/rover-incident-and-tauketok) — El contraparte C-2 de este artículo: cómo la misma historia, vista desde la perspectiva de Tauketok, muestra que el Pacto de Nanji protegió a su pueblo antes de ser traicionado por la otra mitad del acuerdo.
+- [Historia de los pueblos indígenas de Taiwán y el movimiento de reivindicación de nombres](/es/history/indigenous-peoples-history-and-naming-movement) — El largo camino de los Paiwan desde el «territorio bárbaro» hasta la reivindicación de su identidad.
+- [Época de la dinastía Qing](/es/history/qing-dynasty-rule) — La estructura de gobierno del imperio cuando Le Gendre llegó a Taiwán, para entender el contexto institucional de la respuesta de «no jurisdicción».
+- [Robert Swinhoe](/es/people/robert-swinhoe-naturalist) — Otro extranjero que dejó un registro profundo en Taiwán en la misma época, pero cuya motivación fue la ciencia y no el poder.
+- [Guerra franco-china](/es/history/sino-french-war-in-taiwan) — Ocho años después de que Le Gendre dejara la isla, Francia atacó Taiwán usando una lógica imperial similar.
 
 ## Referencias
 
-[^1]: [Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — El 12 de marzo de 1867, el barco mercante estadounidense _Rover_ encalló; el capitán Hunt, su esposa Mercy y otras 14 personas fueron asesinadas por el pueblo Paiwan Kulaljuc. Solo un marinero cantonés escapó.
+[^1]: [Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — El 12 de marzo de 1867, el barco estadounidense _Rover_ encalló; el capitán Hunt y su esposa junto a otros 12 tripulantes fueron asesinados por la comunidad Kulaljuc (Paiwan). Solo un marinero de Guangdong escapó.
 
-[^2]: [Ídem, Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le Gendre llegó a Fuzhou en abril para exigir la intervención del virrey de Fujian y Zhejiang; la corte Qing se negó alegando que "la tierra de los bárbaros no sometidos no está bajo nuestra jurisdicción".
+[^2]: [Igual que ^1, Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le Gendre llegó a Fuzhou en abril para exigir la intervención del Gobernador General; el gobierno Qing se negó alegando que «el territorio de los salvajes no está bajo su jurisdicción».
 
-[^3]: [Ídem, Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — El USS Hartford desembarcó 181 soldados que fueron rechazados por los Paiwan; el comandante Alexander S. MacKenzie murió en combate. El intento militar estadounidense fracasó.
+[^3]: [Igual que ^1, Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — El USS Hartford desembarcó a 181 hombres pero fue repelido por los Paiwan; el comandante Alexander S. MacKenzie murió en combate. El intento de fuerza militar estadounidense fracasó.
 
-[^4]: [Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Nacido en 1830 en Oullins, Francia; su padre Jean-François Legendre-Héral era pintor y grabador. Tras graduarse en la Universidad de París emigró a Estados Unidos y se unió al Ejército de la Unión en 1861.
+[^4]: [Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Nacido en 1830 en Oullins, Francia; su padre Jean-François Legendre-Héral era pintor y grabador. Emigró a EE. UU. tras graduarse en la Universidad de París y se unió al Ejército de la Unión en 1861.
 
-[^5]: [Ídem, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Perdió la nariz y el ojo izquierdo en la Batalla de la Selva (1864), ascendido a coronel. Nombrado cónsul estadounidense en Amoy el 13 de julio de 1866.
+[^5]: [Igual que ^4, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Perdió la nariz y el ojo izquierdo en la Batalla de la Wilderness; ascendió a coronel. El 13 de julio de 1866 fue nombrado cónsul de EE. UU. en Xiamen.
 
-[^6]: [Formosa Expedition, Wikipedia](https://en.wikipedia.org/wiki/Formosa_Expedition) — En septiembre de 1867, Le Gendre se adentró en territorio indígena de la península de Hengchun con Pickering y Horn. Pickering actuó como intérprete.
+[^6]: [Formosa Expedition, Wikipedia](https://en.wikipedia.org/wiki/Formosa_Expedition) — En septiembre de 1867, Le Gendre acompañó a Pickering y Horn hacia los territorios indígenas de la península de Hengchun. Pickering actuó como intérprete.
 
-[^7]: [The Reporter: La historia enredada que abre un manuscrito](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Tres cláusulas concretas del Tratado del Cabo Sur: izar bandera roja para identificarse, desembarcar solo en lugares designados, prohibido entrar en aldeas de montaña. Acuerdo verbal en octubre de 1867, memorándum escrito el 28 de febrero de 1869.
+[^7]: [The Reporter: Una historia compleja abierta por un manuscrito](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Las tres cláusulas del Pacto de Nanji: bandera roja para identificación, lugares de desembarco designados y prohibición de entrar en aldeas montañosas. Acuerdo oral en octubre de 1867; memorando escrito el 28 de febrero de 1869.
 
-[^8]: [Museo Nacional de Historia de Taiwán: _Notes of Travel in Formosa_ de Le Gendre](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — De mayo de 1867 a mayo de 1872, Le Gendre visitó Taiwán al menos ocho veces. Incluye resumen del manuscrito y notas de publicación.
+[^8]: [Academia de Historia de Taiwán «Materiales históricos de ultramar»: Crónica de Formosa de Le Gendre](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — Entre mayo de 1867 y mayo de 1872, Le Gendre visitó Taiwán al menos ocho veces. Incluye resumen del manuscrito y detalles de publicación.
 
-[^9]: [Ídem, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Renunció al consulado estadounidense en 1872 y se incorporó como asesor de segundo rango en el Ministerio de Asuntos Exteriores de Japón. Salario anual: $12.000, primer extranjero contratado por el gobierno Meiji.
+[^9]: [Igual que ^4, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — En 1872 renunció como cónsul para ser asesor en el Ministerio de Asuntos Exteriores de Japón. Salario: NT$12,000; primer extranjero contratado por el gobierno Meiji.
 
-[^10]: [Incidente de Botan, Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — Le Gendre argumentó ante el gobierno japonés que la "tierra bárbara" del sur de Taiwán era _terra nullius_ según el derecho internacional, y que la propia corte Qing reconocía no tener jurisdicción como prueba.
+[^10]: [Incidente de Mudan, Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — Le Gendre argumentó ante Japón que las tierras del sur de Taiwán eran _terra nullius_ (tierra de nadie), usando la falta de jurisdicción declarada por el gobierno Qing como prueba.
 
-[^11]: [Ídem, Incidente de Botan, Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — Japón envió tropas a Taiwán en 1874; 3.600 soldados atacaron aldeas Paiwan en la península de Hengchun. Le Gendre ayudó a planificar la estrategia diplomática, contratar soldados extranjeros, fletar barcos y adquirir suministros militares.
+[^11]: [Igual que ^10, Incidente de Mudan, Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — En 1874 Japón envió tropas a Taiwán; 3,600 soldados atacaron comunidades Paiwan en Hengchun. Le Gendre ayudó con la estrategia diplomática, contratación de mercenarios, alquiler de barcos y suministros.
 
-[^12]: [Library of Congress: Charles Le Gendre Papers](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — _Notes of Travel in Formosa_, 1.600 páginas de texto + cerca de 200 mapas/fotografías/bocetos. El original se conserva en la Biblioteca del Congreso de Estados Unidos. Fuente primaria.
+[^12]: [Library of Congress: Charles Le Gendre Papers](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — _Notes of Travel in Formosa_, 1,600 páginas de texto más casi 200 mapas/fotos/bocetos. El original está en la Biblioteca del Congreso de EE. UU. Fuente primaria.
 
-[^13]: [Ídem, notas de publicación del Museo Nacional de Historia de Taiwán](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — Cinco dimensiones del manuscrito: historia natural, historia colonial holandesa, relaciones exteriores, etnología/lingüística, economía y comercio.
+[^13]: [Igual que ^8, Notas de publicación de la Academia de Historia de Taiwán](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — Cinco áreas del manuscrito: historia natural, era colonial holandesa, relaciones exteriores, etnografía/lingüística y economía/comercio.
 
-[^14]: [Ídem, notas de publicación del Museo Nacional de Historia de Taiwán](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — "Probablemente fue compilado como referencia de inteligencia necesaria para los responsables de la toma de decisiones del gobierno Meiji en preparación para la anexión de Taiwán entre 1873 y 1874."
+[^14]: [Igual que ^8, Notas de publicación de la Academia de Historia de Taiwán](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — «Probablemente preparado como una compilación de inteligencia necesaria para los tomadores de decisiones del gobierno Meiji ante la posible anexión de Taiwán entre 1873 y 1874».
 
-[^15]: [Ídem, Library of Congress](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — Los Le Gendre Papers contienen 1.760 piezas. Las primeras cinco cajas han sido digitalizadas en 4.774 imágenes; los cuatro volúmenes centrales del diario manuscrito siguen en proceso de restauración.
+[^15]: [Igual que ^12, Library of Congress](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — La colección Le Gendre tiene 1,760 artículos. Los primeros cinco volúmenes están digitalizados (4,774 imágenes); los cuatro volúmenes centrales del diario siguen en restauración.
 
-[^16]: [Ídem, The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Fix descubrió el manuscrito en la Biblioteca del Congreso entre 1991 y 1992. En 1999 comenzó la colaboración con Shufelt, financiada por la Fundación Chi Mei. Las anotaciones se completaron en 2005. Edición en inglés en 2012, edición en chino en 2013, publicadas por el Museo Nacional de Historia de Taiwán.
+[^16]: [Igual que ^7, The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Fix descubrió el manuscrito en la Biblioteca del Congreso en 1991-92. Colaboró con Shufelt en 1999 con apoyo de la Fundación Chimei. Edición inglesa en 2012 y china en 2013 por la Academia de Historia de Taiwán.
 
-[^17]: [Ídem, The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Cita de Shufelt en entrevista. Texto original del reportaje especial de The Reporter.
+[^17]: [Igual que ^7, The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Cita de John Shufelt en entrevista con _The Reporter_.
 
-[^18]: [Seqalu (serie de televisión), Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — Estreno en televisión pública el 14 de agosto de 2021. Adaptada de la novela _La flor del títere_ de Yao-chang Chen (Premio Literario Golden de Taiwán 2016). Director: Ray-yu Cao. Presupuesto de producción superior a 155 millones de dólares taiwaneses.
+[^18]: [Scaalu (Serie de TV), Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — Estreno en PTS el 14 de agosto de 2021. Basada en la novela _Puppet Flower_ de Chen Yao-chang. Dirigida por Tsao Jui-yuan, con un presupuesto superior a NT$155 millones.
 
-[^19]: [Ídem, Seqalu, Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — Serie completa de 12 episodios, más de 6.000 extras. El título original "La flor del títere" fue cambiado por sus connotaciones despectivas. Ganó un premio Golden Bell en 2022.
+[^19]: [Igual que ^18, Scaalu, Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_%28%E9%9B%BB%E8%A6%96%E5%8A%87%29) — 12 episodios, más de 6,000 actores. El nombre original cambió por razones de sensibilidad cultural. Premio Golden Bell en 2022.
 
-[^20]: [Chamake Valaule, Wikipedia](https://zh.wikipedia.org/wiki/%E6%9F%A5%E9%A6%AC%E5%85%8B%C2%B7%E6%B3%95%E6%8B%89%E5%B1%8B%E6%A8%82) — Actor Paiwan que interpretó a Tauketok. Diagnosticado de adenocarcinoma pulmonar tras el rodaje, falleció el 19 de diciembre de 2021.
+[^20]: [Chamak Falalu, Wikipedia](https://zh.wikipedia.org/wiki/%E6%9F%A5%E9%A6%AC%E5%85%8B%C2%B7%E6%B3%95%E6%8B%89%E5%B1%8B%E6%A8%82) — Actor Paiwan que interpretó a Tauketok. Falleció el 19 de diciembre de 2021 tras ser diagnosticado con cáncer de pulmón.
 
-[^21]: [Revista VERSE: Entrevista con Ray-yu Cao](https://www.verse.com.tw/) — El director Ray-yu Cao habla sobre el significado cultural de _Seqalu_.
+[^21]: [Revista VERSE: Entrevista a Tsao Jui-yuan](https://www.verse.com.tw/) — El director habla sobre el significado cultural de _Scaalu_.
 
-[^22]: [Ídem, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — En 1890 fue asesor diplomático del emperador Gojong de Corea. Murió de un derrame cerebral en Seúl el 1 de septiembre de 1899, a los 69 años.
+[^22]: [Igual que ^4, Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — En 1890 fue asesor del emperador Gojong en Corea. Murió en Seúl por un derrame cerebral el 1 de septiembre de 1899, a los 69 años.

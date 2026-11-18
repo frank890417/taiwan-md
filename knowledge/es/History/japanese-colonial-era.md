@@ -2,18 +2,20 @@
 title: 'Período de dominio japonés'
 description: 'De 1895 a 1945, Japón gobernó Taiwán durante 50 años, trayendo consigo una modernización integral y una gestión institucionalizada, al mismo tiempo que implementaba políticas de asimilación que influyeron profundamente en el desarrollo de la sociedad taiwanesa.'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags: ['History', 'Dominio japonés', 'Modernización', 'Movimiento de Kominka']
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:ab038fc6af555335'
 sourceBodyHash: 'sha256:c1f42478c12060a3'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-18T17:10:15.959401+00:00'
 ---
 
 # Período de dominio japonés
