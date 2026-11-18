@@ -28,11 +28,13 @@ rationale:
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/AI供應鏈海外設廠.md'
-sourceCommitSha: 'fd01d452a'
-sourceContentHash: 'sha256:7fa246cf8f0f5c00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:1f66d74cd10a1fe4'
 sourceBodyHash: 'sha256:453d3851b08255ad'
-translatedAt: '2026-07-26T05:17:38+08:00'
+translatedAt: '2026-11-18T18:02:48.763806+00:00'
 ---
 
 # Rantai Pasok AI Pabrik Luar Negeri: Kemampuan Taiwan Diminta Keluar oleh Dunia
@@ -212,22 +214,22 @@ Inilah pertanyaan terpenting pabrik luar negeri dalam rantai pasok AI: setelah k
 
 ## Referensi
 
-[^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Laporan AP NVIDIA memproduksi chip Blackwell di AS dan AI supercomputers, menyebut TSMC Phoenix, Foxconn Houston, Wistron Dallas, serta kolaborasi pengujian SPIL / Amkor di Arizona.
+[^1]: [AP: Nvidia berencana memproduksi chip AI di AS untuk pertama kalinya](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Associated Press melaporkan bahwa NVIDIA akan memproduksi chip Blackwell dan superkomputer AI di Amerika Serikat, dengan menyebutkan kerja sama pengemasan dan pengujian (packaging and testing) antara TSMC Phoenix, Foxconn Houston, Wistron Dallas, serta SPIL / Amkor di Arizona.
 
-[^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Laporan AP OpenAI dan Foxconn bekerja sama merancang, memproduksi rak pusat data AI, produk termasuk kabel, jaringan, sistem daya, dan menyebutkan distribusi fasilitas AS Foxconn.
+[^2]: [AP: OpenAI dan Foxconn Taiwan akan bermitra dalam desain dan manufaktur perangkat keras AI di AS](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Associated Press melaporkan bahwa OpenAI bekerja sama dengan Foxconn untuk merancang dan memproduksi rak pusat data AI, yang produknya mencakup pengabelan (cabling), jaringan (networking), sistem daya (power systems), serta menyebutkan distribusi fasilitas Foxconn di Amerika Serikat.
 
-[^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Melaporkan Delta Electronics memperluas fasilitas manufaktur dan kantor di Plano, Texas, dan merangkum pusat R&D manufaktur yang ada, ukuran kampus selanjutnya, dan posisi manufaktur lokal AS.
+[^3]: [MySA: Rencana pabrik elektronik senilai NT$115 juta di Plano terus berjalan](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Melaporkan ekspansi fasilitas manufaktur dan kantor Delta Electronics di Plano, Texas, serta merangkum pusat penelitian dan pengembangan (R&D) serta manufaktur yang sudah ada, skala kawasan di masa mendatang, dan posisi manufaktur lokal di Amerika Serikat.
 
-[^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Melaporkan Delta Electronics India pabrik Krishnagiri diperluas, menjelaskan kebutuhan telekomunikasi, pusat data, kendaraan listrik, dan pelanggan industri, serta tata letak rantai pasok lokal India.
+[^4]: [Times of India: Delta Electronics mendorong ekspansi kapasitas](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Melaporkan ekspansi pabrik Delta Electronics di Krishnagiri, India, menjelaskan permintaan dari pelanggan telekomunikasi, pusat data, kendaraan listrik (EV), dan industri, serta tata letak rantai pasokan lokal di India.
 
-[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Halaman Arizona resmi TSMC, menjelaskan skala investasi Phoenix, enam pabrik wafer, dua fasilitas pengemasan canggih, jadwal N4/N3/N2/A16, dan rencana daur ulang air.
+[^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Halaman resmi TSMC untuk Arizona, yang menjelaskan skala investasi di Phoenix, enam pabrik wafer, dua fasilitas pengemasan canggih, jadwal N4/N3/N2/A16, serta rencana daur ulang air.
 
-[^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Laporan AP TSMC berencana di pabrik kedua Kumamoto Jepang memproduksi chip 3nm, dan merangkum keamanan ekonomi Jepang dan kebutuhan AI, robot, mengemudi otonom.
+[^6]: [AP: TSMC akan membuat chip komputer AI canggih di Jepang](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Associated Press melaporkan bahwa TSMC berencana untuk memproduksi chip 3nm di pabrik kedua di Kumamoto, Jepang, serta merangkum kebutuhan keamanan ekonomi Jepang terhadap AI, robotika, dan mengemudi otonom.
 
-[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — Situs web resmi ESMC menjelaskan ini adalah perusahaan patungan TSMC, Bosch, Infineon, NXP, membangun pabrik wafer di Dresden Jerman untuk mendukung industri Eropa, IoT, telekomunikasi, dan pasar otomotif.
+[^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — Situs web resmi ESMC menjelaskan bahwa perusahaan ini adalah perusahaan patungan antara TSMC, Bosch, Infineon, dan NXP, yang membangun pabrik wafer di Dresden, Jerman untuk mendukung pasar industri, IoT, komunikasi, dan otomotif di Eropa.
 
-[^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Laporan AP pemerintah AS subsidi CHIPS and Science Act untuk ekspansi TSMC Arizona, menjelaskan bagaimana pemerintah AS menganggap manufaktur chip canggih sebagai masalah keamanan rantai pasok dan keamanan nasional.
+[^8]: [AP: Pemerintahan Biden mengumumkan NT$6,6 miliar untuk memastikan chip mikro mutakhir dibuat di AS](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Associated Press melaporkan bahwa Undang-Undang CHIPS and Science Act Amerika Serikat memberikan subsidi untuk ekspansi TSMC di Arizona, menjelaskan bagaimana pemerintah AS memandang manufaktur chip canggih sebagai masalah keamanan rantai pasokan dan keamanan nasional.
 
-[^9]: [TIME: 閱讀台灣總統賴清德接受《時代》雜誌採訪的全文](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — Dalam wawancara lengkap bahasa Mandarin yang diterbitkan TIME, Lai Ching-te berbicara tentang semikonduktor sebagai industri pembagian kerja global, dan bagaimana pemerintah melihat TSMC dan perusahaan semikonduktor lain pergi ke AS, Jepang, Eropa.
+[^9]: [TIME: Baca teks lengkap wawancara Presiden Taiwan Lai Ching-te dengan majalah TIME](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — Dalam teks lengkap wawancara bahasa Mandarin yang diterbitkan oleh TIME, Lai Ching-te membahas semikonduktor sebagai industri pembagian kerja global, serta bagaimana pemerintah memandang ekspansi perusahaan semikonduktor seperti TSMC ke Amerika Serikat, Jepang, dan Eropa.
 
-[^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Melaporkan ekspansi kluster semikonduktor Arizona membawa pekerjaan, pembangunan lokal, kontroversi sumber daya air, lingkungan, dan keselamatan pekerja, dapat digunakan untuk menyeimbangkan sudut pandang masyarakat lokal pabrik luar negeri.
+[^10]: [The Verge: Silicon Valley yang baru (secara harfiah)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Melaporkan isu lapangan kerja, pengembangan daerah, sumber daya air, lingkungan, serta kontroversi keselamatan kerja yang dibawa oleh ekspansi klaster semikonduktor di Arizona, dapat digunakan untuk menyeimbangkan perspektif sosial lokal terkait pembangunan pabrik di luar negeri.

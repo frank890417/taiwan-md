@@ -1,6 +1,6 @@
 ---
-title: 'Perusahaan Taiwan: Hon Hai Precision: 8 Triliun Pendapatan dan Perang Anti-Korupsi Internal di Neraca yang Sama'
-description: 'Pagi 30 April 2026, majalah Time memasukkan Hon Hai ke dalam 100 Perusahaan Paling Berpengaruh; sore hari yang sama, petugas penyidik dengan surat geledah memasuki pabrik Hon Hai di Tucheng. Dari 100 ribu arisan ibu pada 1974 hingga pendapatan 8 triliun pada 2025 di mana cloud networking melampaui elektronik konsumen, yang paling sulit dikendalikan Hon Hai bukan geopolitik, bukan ritme pengiriman rak AI, melainkan orang-orangnya sendiri.'
+title: 'Perusahaan Taiwan: Hon Hai Precision: Satu Neraca antara Pendapatan NT$8 Triliun dan Perang Anti-Korupsi Internal'
+description: 'Pada pagi 30 April 2026, majalah TIME memasukkan Hon Hai ke dalam daftar 100 perusahaan paling berpengaruh; pada sore hari yang sama, penyidik melakukan penggeledahan di pabrik Tucheng milik Hon Hai. Dari modal NT$100.000 hasil arisan ibu pada 1974 hingga pendapatan NT$8 triliun dari sektor cloud networking yang melampaui elektronik konsumen pada 2025, hal tersulit yang dikelola Hon Hai bukanlah geopolitik atau ritme pengiriman rak AI, melainkan orang dalam sendiri.'
 date: 2026-05-03
 category: 'Economy'
 tags:
@@ -23,177 +23,177 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：鴻海精密.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
 sourceBodyHash: 'sha256:68bf0232c7180c94'
-translatedAt: '2026-07-26T21:33:21+08:00'
+translatedAt: '2026-11-19T01:12:17+08:00'
 ---
 
 > **Ringkasan 30 Detik**
 >
-> Hon Hai Precision (Foxconn) mencatat pendapatan tahunan 2025 sebesar 8,1 triliun dolar Taiwan baru, produk cloud networking pertama kali sebesar 40% melampaui elektronik konsumen 38%, menjadi unit bisnis terbesar grup; April 2026 masuk daftar 100 Perusahaan Paling Berpengaruh majalah _Time_, _Time_ menggambarkan Hon Hai sebagai "salah satu perusahaan paling penting di bidang kecerdasan buatan"[^9][^10]. Namun bulan yang sama, hari yang sama, Kejaksaan Negeri New Taipei menggeledah markas besar Hon Hai di Tucheng, kepala dan asisten manajer Divisi Bisnis Luar Negeri ditahan karena diduga menerima uang suap puluhan juta dalam pengadaan ekspansi pabrik global[^1][^2]. Hon Hai sebelumnya pernah menangani kasus korupsi internal lebih besar: dari kasus uang suap 1,6 miliar mantan Wakil Presiden Senior Liao Wan-cheng pada 2014[^7], pembentukan Unit Pencegahan Kecurangan dan hadiah "menangkap hantu" 50 juta pada 2015[^6], hingga "Tim Tiga Orang Menangkap Hantu" pertama kali terekspos publik pada 2026[^5]. Kekaisaran OEM 24 negara, sekitar 900 ribu karyawan, yang paling sulit dikendalikan adalah orang sendiri.
+> Pendapatan tahunan Hon Hai Precision (Foxconn) pada 2025 mencapai NT$8,1 triliun; produk cloud networking untuk pertama kalinya melampaui elektronik konsumen dengan porsi 40% berbanding 38%, menjadikannya unit bisnis terbesar grup; pada April 2026, Hon Hai terpilih sebagai salah satu dari 100 perusahaan paling berpengaruh oleh majalah _TIME_, yang menyebut Hon Hai sebagai "salah satu perusahaan terpenting di bidang kecerdasan buatan (AI)"[^9][^10]. Namun, pada hari yang sama di bulan yang sama, Kejaksaan Distrik New Taipei menggeledah markas besar Hon Hai di Tucheng; seorang direktur dan manajer divisi bisnis luar negeri telah menjaminkan uang untuk bebas bersyarat karena diduga menerima suap puluhan juta dalam pengadaan ekspansi pabrik global[^1][^2]. Sebelumnya, Hon Hai telah menangani kasus korupsi internal yang lebih besar: mulai dari kasus suap NT$160 juta mantan Wakil Presiden Senior Liao Wan-cheng pada 2014[^7], pembentukan Departemen Pencegahan Pelanggaran dan pemberian "bonus tangkap hantu" sebesar NT$50 juta pada 2015[^6], hingga pengungkapan perdana "Trio Tangkap Hantu" pada 2026[^5]. Bagi imperium manufaktur dengan 24 negara dan sekitar 900.000 karyawan ini, hal tersulit yang dikelola adalah orang dalam sendiri.
 
 ## Mengapa Artikel Ini Ditulis Sekarang
 
-iPhone di tanganmu, PlayStation di ruang tamu, rak server AI NVIDIA GB200 untuk melatih GPT di cloud——perakitan akhir barang-barang ini kemungkinan besar semua keluar dari pabrik Hon Hai[^10][^14].
+iPhone di tangan Anda, PlayStation di ruang tamu Anda, rak server AI NVIDIA GB200 yang digunakan untuk melatih GPT—kemungkinan besar perakitan akhir dari semua perangkat ini berasal dari pabrik-pabrik Hon Hai[^10][^14].
 
-Dari "Hon Hai Plastik" yang didirikan [Kuo Tai-ming](/id/people/terry-gou) pada 1974 dengan 100 ribu dolar Taiwan baru dari arisan ibu Chu Yung-chen[^13], hingga 2025 menjadi perusahaan publik Taiwan pertama dalam sejarah yang memecah rekor pendapatan tahunan 8 triliun[^9], kisah Hon Hai sudah ditulis ratusan kali. Artikel ini tidak mengulang narasi itu.
+Dari [Terry Gou](/id/people/terry-gou) yang mendirikan "Hon Hai Plastic" pada 1974 dengan modal NT$100.000 hasil arisan ibunya, Chu Yung-chen[^13], hingga menjadi perusahaan publik pertama di Taiwan yang mencatat pendapatan tahunan melampaui NT$8 triliun pada 2025[^9], kisah Hon Hai telah ditulis ratusan kali. Artikel ini tidak akan mengulang narasi tersebut.
 
-30 April 2026 adalah hari paling kontradiktif Hon Hai belakangan ini: pagi ia adalah raja OEM AI global yang dikagumi majalah _Time_, sore ia adalah objek geledahan Kejaksaan Negeri New Taipei[^1][^10]. Neraca yang sama, dua arah sekaligus mencatat buku. Inilah inti penulisan ulang kali ini.
+30 April 2026 adalah hari paling kontradiktif bagi Hon Hai dalam beberapa tahun terakhir: di pagi hari, ia adalah penguasa manufaktur AI global pilihan majalah _TIME_, namun di sore hari, ia menjadi target penggeledahan Kejaksaan Distrik New Taipei[^1][^10]. Dalam satu neraca yang sama, dua arah pencatatan terjadi secara bersamaan. Inilah inti dari penulisan ulang kali ini.
 
-## Surat Geledah Sehari Sebelum Libur Panjang
+## Surat Penggeledahan Tepat Sebelum Libur Panjang
 
-30 April 2026, sehari sebelum libur panjang Hari Buruh 1 Mei. Kejaksaan Negeri New Taipei mengkomando Biro Investigasi Kantor Investigasi Kota Taipei, bergerak multi-jalur, menggeledah markas besar pabrik Hon Hai di Tucheng, Kota New Taipei, serta tempat tinggal karyawan yang terlibat[^1].
+Pada 30 April 2026, sehari sebelum libur panjang Hari Buruh 1 Mei, Kejaksaan Distrik New Taipei menginstruksikan Biro Investigasi (Investigation Bureau) Cabang Taipei untuk melakukan penggeledahan di berbagai lokasi, termasuk markas besar Hon Hai di Tucheng, Kota New Taipei, serta kediaman karyawan yang terlibat[^1].
 
-Yang dibawa untuk diperiksa meliputi Kepala Divisi Bisnis Luar Negeri **Tseng Hsin-min** (dibebaskan dengan jaminan 2 juta), Asisten Manajer **Chien Yun-ju** (dibebaskan dengan jaminan 1 juta), serta istri Tseng berinisial Chang (awalnya disahkan sebagai saksi lalu diubah jadi tersangka pencucian uang, dipulangkan setelah diperiksa)[^2][^3]. Kejaksaan menuntut berdasarkan pelanggaran _Undang-Undang Perdagangan Efek_ pelanggaran amanah khusus, _KUHP_ pencatatan bisnis tidak benar, pemalsuan dokumen, kedua tersangka dilarang keluar negeri[^3].
+Mereka yang dibawa untuk pemeriksaan meliputi Direktur Divisi Bisnis Luar Negeri, **Tseng Hsin-min** (jaminan NT$2 juta), dan Manajer **Chien Yun-ju** (jaminan NT$1 juta), ditambah pasangan bermarga Tseng dari pria tersebut (awalnya ditetapkan sebagai saksi, kemudian diubah menjadi terdakwa pencucian uang, dan dipulangkan setelah pemeriksaan)[^2][^3]. Jaksa menyelidiki kasus ini berdasarkan dugaan pelanggaran Pasal Pengkhianatan Khusus dalam _Undang-Undang Perdagangan Efek_, tindak pidana pencatatan palsu dalam bisnis, serta pemalsuan dokumen berdasarkan _Hukum Pidana_; kedua tersangka dilarang bepergian ke luar negeri[^3].
 
-Laporan CNA mengutip pernyataan kejaksaan: "Tseng dan Chien dalam menangani rencana ekspansi pabrik global Hon Hai, diduga melanggar kewajiban jabatan menerima uang suap vendor, jumlah awal diperkirakan mencapai puluhan juta, serta melibatkan pencatatan tidak benar dan pemalsuan dokumen."[^2] Modus operandi: "memanfaatkan kewenangan jabatan, dalam bisnis pengadaan, melalui rekening luar negeri, menerima uang suap ilegal puluhan juta dari pemasok, dan memalsukan dokumen pengadaan membantu vendor lolos verifikasi."[^2]
+Kantor berita CNA mengutip pernyataan jaksa: "Tseng dan Chien diduga melanggar tugas dengan menerima suap dari vendor selama periode rencana ekspansi pabrik global Hon Hai, dengan jumlah estimasi mencapai puluhan juta, serta terlibat dalam pencatatan palsu dan pemalsuan dokumen."[^2] Modus operandi yang digunakan adalah "memanfaatkan jabatan dalam bisnis pengadaan untuk menerima suap ilegal lebih dari NT$10 juta melalui rekening luar negeri, serta memalsukan dokumen pengadaan guna membantu vendor melewati proses inspeksi"[^2].
 
-Hon Hai hari itu di Stasiun Observasi Informasi Publik menerbitkan pengungkapan informasi material merespons:
+Hon Hai merespons melalui pengumuman penting di situs observasi informasi publik pada hari itu:
 
-> **"Kasus ini melibatkan karyawan tertentu, tidak melibatkan perusahaan itu sendiri, dan menekankan operasi normal, tanpa dampak material pada keuangan dan bisnis, akan sepenuhnya bekerja sama dengan penyidikan yudikatif."**[^4]
+> **"Kasus ini melibatkan karyawan tertentu dan tidak melibatkan perusahaan itu sendiri. Kami menekankan bahwa operasional berjalan normal, tidak ada dampak material terhadap keuangan maupun bisnis, dan kami akan bekerja sama sepenuhnya dengan investigasi yudisial."**[^4]
 
-Phrasing pengungkapan material ini hampir merupakan format standar pengungkapan risiko tata kelola perusahaan publik Taiwan: menarik batas, menekankan dampak terbatas, mengekspresikan sikap bekerja sama. Tapi yang tidak disinggungnya——kali ini "bekerja sama" bersifat proaktif.
+Bahasa dalam pengumuman penting ini hampir merupakan format standar untuk pengungkapan risiko tata kelola bagi perusahaan publik di Taiwan: membatasi cakupan, menekankan dampak yang terbatas, dan menyatakan kerja sama. Namun, apa yang tidak disebutkan adalah—"kerja sama" kali ini mengandung unsur proaktif.
 
-## Tim Tiga Orang Menangkap Hantu
+## Trio Tangkap Hantu
 
-_Mirror Media_ 1 Mei 2026 melaporkan eksklusif: yang "duduk mengawasi penuh sepanjang proses" geledahan, adalah unit internal Hon Hai yang disebut media sebagai "Tim Tiga Orang Menangkap Hantu"[^5].
+Laporan eksklusif majalah _Mirror Media_ pada 1 Mei 2026 mengungkapkan: pihak yang "mengawasi secara ketat di lokasi" selama penggeledahan adalah sebuah unit internal Hon Hai yang oleh media dijuluki sebagai "Trio Tangkap Hantu"[^5].
 
-| Peran                                             | Nama          | Latar Belakang Jabatan Sebelumnya                                                                                        |
-| ------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Kepala Audit Internal                             | Li Shun-pao   | Mantan Wakil Kepala Audit Departemen Audit                                                                               |
-| Kepala Unit Pencegahan dan Penanganan Kecurangan  | Li Ming-yin   | Mantan Kepala Bagian Pencegahan Kejahatan Kantor Investigasi Kota Taoyuan Biro Investigasi / Kepala Pos Bergerak Taoyuan |
-| Manajer Unit Pencegahan dan Penanganan Kecurangan | Lin Ming-hung | Mantan Wakil Kepala Pos Investigasi Penghu Biro Investigasi / Wakil Kepala Pos Bergerak Taoyuan                          |
+| Peran                                     | Nama          | Latar Belakang Jabatan Sebelumnya                                                                         |
+| :---------------------------------------- | :------------ | :-------------------------------------------------------------------------------------------------------- |
+| Kepala Audit                              | Li Shun-pao   | Mantan Wakil Kepala Departemen Audit                                                                      |
+| Kepala Departemen Pencegahan Pelanggaran  | Li Ming-yin   | Mantan Kepala Bagian Pencegahan Kejahatan Biro Investigasi Cabang Taoyuan / Kepala Stasiun Mobile Taoyuan |
+| Manajer Departemen Pencegahan Pelanggaran | Lin Ming-hung | Mantan Wakil Kepala Stasiun Investigasi Pelabuhan Penghu / Wakil Kepala Stasiun Mobile Taoyuan            |
 
-Tiga orang, tiga latar belakang anti-korupsi pemerintah. Mereka bukan "Pejabat Integritas Perusahaan" tingkat PR, mereka adalah orang yang memindahkan logika penyidikan Biro Investigasi ke internal Hon Hai[^5].
+Tiga orang, dengan tiga latar belakang anti-korupsi pemerintah. Mereka bukanlah "pejabat integritas perusahaan" di tingkat humas; mereka adalah orang-orang yang membawa logika investigasi Biro Investigasi ke dalam internal Hon Hai[^5].
 
-Unit ini bukan muncul 2026. Akarnya harus ditelusuri 11 tahun ke belakang ke kasus lain.
+Unit ini tidak baru muncul pada 2026. Asalnya dapat ditelusuri kembali ke kasus lain sebelas tahun yang lalu.
 
-## 1,6 Miliar 11 Tahun Lalu
+## Kasus NT$160 Juta Sebelas Tahun Lalu
 
-Awal 2014, mantas Wakil Ketua Komite Teknologi SMT Hon Hai, mantan Wakil Presiden Senior **Liao Wan-cheng**, mantan Sekretaris Jenderal Teng Chih-hsien, orang tengah Hao Hsu-kuang, dituntut kejaksaan karena diduga meminta suap dari pemasok total 1,6 miliar lebih[^7].
+Pada awal 2014, mantan Wakil Ketua Komite Teknologi SMT Grup Hon Hai sekaligus mantan Wakil Presiden Senior, **Liao Wan-cheng**, bersama mantan Sekretaris Jenderal Deng Chih-hsien, perantara Hao Hsu-kuang, dan lainnya, didakwa oleh jaksa karena diduga meminta suap sebesar lebih dari NT$160 juta dari vendor[^7].
 
-Komite SMT menguasai pengadaan sekitar 50 miliar dolar Taiwan baru per tahun dan kewenangan persetujuan Hon Hai[^7]. Liao Wan-cheng dkk diduga menginstruksikan bawahan mengadakan pengadaan produk tertentu menguntungkan vendor, dan melalui mekanisme "beli rendah jual tinggi" mengubah selisih pengadaan berlebih jadi pendapatan pribadi.
+Komite SMT mengendalikan hak persetujuan dan pengadaan tahunan Grup Hon Hai senilai sekitar NT$50 miliar[^7]. Liao Wan-cheng dan yang lainnya diduga menginstruksikan bawahan untuk membeli produk tertentu guna menguntungkan vendor, serta menggunakan mekanisme "beli rendah jual tinggi" untuk mengubah selisih harga pengadaan berlebih menjadi pendapatan pribadi.
 
-Kasus ini di sistem yudikatif berjalan 7 tahun:
+Kasus ini berjalan selama 7 tahun dalam sistem peradilan:
 
-- **2014**: Kejaksaan Negeri Taipei menuntut Liao Wan-cheng dkk 6 orang[^7]
-- **Pengadilan Pertama**: Pengadilan Distrik Taipei berdasarkan _Undang-Undang Perdagangan Efek_ pelanggaran amanah khusus menghukum berat Liao Wan-cheng 10 tahun 6 bulan[^7]
-- **Bandung** (2018-11-27): Pengadilan Tinggi mengubah ke pelanggaran amanah bersama menghukum ringan 1 tahun 4 bulan, memicu kegaduhan masyarakat[^7]
-- **Bandung Ulang** (2020-11): Pengadilan Tinggi mengubah hukuman 2 tahun penjara, menyita hasil kejahatan 3,16 juta[^7]
-- **2021-05-24**: Mahkamah Agung menolak banding putusan tetap, Liao Wan-cheng harus masuk penjara[^7]
+- **2014**: Kejaksaan Distrik Taipei mendakwa Liao Wan-cheng dan 5 orang lainnya[^7].
+- **Pengadilan Tingkat Pertama**: Pengadilan Distrik Taipei menjatuhkan hukuman berat 10 tahun 6 bulan kepada Liao Wan-cheng berdasarkan Pasal Pengkhianatan Khusus dalam _Undang-Undang Perdagangan Efek_[^7].
+- **Pengadilan Tingkat Kedua** (27-11-2018): Pengadilan Tinggi mengubah hukuman menjadi 1 tahun 4 bulan berdasarkan pasal pengkhianatan bersama, yang memicu kemarahan publik[^7].
+- **Pengadilan Tingkat Pertama Kembali** (11-2020): Pengadilan Tinggi mengubah hukuman menjadi 2 tahun penjara dan menyita hasil kejahatan sebesar NT$3,16 juta[^7].
+- **24-05-2021**: Mahkamah Agung menolak banding sehingga putusan menjadi tetap; Liao Wan-cheng harus masuk penjara[^7].
 
-Perhatikan selisih jumlah tuntutan kejaksaan (**1,6 miliar lebih**) dengan hasil kejahatan yang diakui pengadilan (**3,16 juta**): lebih dari 50 kali lipat. Selisih ini adalah masalah ambang bukti sistem yudikatif, bukan masalah tingkat keparahan kasus. Hon Hai jalan sivil ganti rugi, Pengadilan Tinggi banding kedua 2021 Januari mengakui Liao Wan-cheng melanggar "Surat Perjanjian Integritas Kejujuran dan Hak Kekayaan Intelektual" saat mulai kerja, harus membayar keuntungan tidak sah 770 ribu lebih dolar AS (sekitar 21,8 juta lebih dolar Taiwan baru) ke Hon Hai[^8].
+Perhatikan perbedaan antara jumlah tuntutan jaksa (**lebih dari NT$160 juta**) dengan hasil kejahatan yang ditetapkan pengadilan pada akhirnya (**NT$3,16 juta**): selisihnya lebih dari 50 kali lipat. Kesenjangan ini adalah masalah ambang batas bukti dalam sistem peradilan, bukan masalah tingkat keparahan kasus. Hon Hai juga menempuh jalur perdata untuk menuntut ganti rugi; pada Januari 2021, Pengadilan Tinggi memutuskan bahwa Liao Wan-cheng melanggar "Perjanjian Integritas dan Hak Kekayaan Intelektual" yang ditandatanganinya saat menjabat, sehingga ia harus membayar keuntungan tidak sah sebesar lebih dari US$770.000 (sekitar NT$21,8 juta) kepada Hon Hai[^8].
 
-Kasus Liao Wan-cheng di yudikatif adalah cerita panjang, tapi bagi internal Hon Hai, ia memicu sebuah keputusan.
+Kasus Liao Wan-cheng adalah cerita panjang secara hukum, namun bagi internal Hon Hai, hal itu mendorong sebuah keputusan besar.
 
 ## Keputusan Tahun 2015
 
-Pertengahan 2015, [Kuo Tai-ming](/id/people/terry-gou) di luar Divisi Hukum dan Divisi Audit, baru mendirikan unit independen: **Unit Pencegahan Kecurangan**[^6].
+Pada pertengahan 2015, [Terry Gou](/id/people/terry-gou) mendirikan departemen independen baru di luar Departemen Hukum dan Departemen Audit: **Departemen Pencegahan Pelanggaran**[^6].
 
-Majalah _Global Views Monthly_ menyebutnya "Kejaksaan Hon Hai"[^6]. Kuo Tai-ming bersamaan menetapkan hadiah "menangkap hantu" hingga 50 juta dolar Taiwan baru per kasus, mendorong karyawan melapor kecurangan internal[^6].
+Laporan majalah _天下 (天下雜誌)_ menyebutnya sebagai "Polisi Integritas Hon Hai"[^6]. Terry Gou juga menetapkan "bonus tangkap hantu" hingga NT$50 juta per kasus untuk mendorong karyawan melaporkan pelanggaran internal[^6].
 
-Desain ini dalam sejarah tata kelola perusahaan etnis Tionghoa bersifat tidak biasa. Kebanyakan perusahaan keluarga mengandalkan kepercayaan bos, kantor akuntan publik, segitiga Kepala Hukum; Hon Hai menyerahkan serangkaian ini ke unit audit internal kecil yang diisi mantan pejabat anti-korupsi pemerintah, memberikan hak penyidikan independen dan hadiah melapor tinggi. Logikanya: saat perusahaan besar sampai 24 negara 900 ribu orang[^11], kepercayaan bos tidak melihat semua pesanan pengadaan, akuntan tidak melihat rekening luar negeri, Kepala Hukum terlambat campur tangan. Kamu butuh unit yang bisa pakai alat Biro Investigasi.
+Ini adalah desain yang tidak biasa dalam sejarah tata kelola perusahaan Tionghoa. Sebagian besar kontrol internal perusahaan keluarga bergantung pada lingkaran kepercayaan bos, kantor akuntan publik, atau kepala hukum; Hon Hai menyerahkan sistem ini kepada tim audit internal yang terdiri dari mantan pejabat anti-korupsi pemerintah, dengan memberikan hak investigasi independen dan bonus pelaporan yang tinggi. Logikanya adalah: ketika perusahaan sudah sebesar 24 negara dengan 900.000 orang[^11], lingkaran kepercayaan bos tidak bisa melihat semua pesanan pengadaan, akuntan tidak bisa melihat rekening luar negeri, dan kepala hukum seringkali terlambat melakukan intervensi. Anda membutuhkan unit internal yang mampu menggunakan perangkat investigasi ala Biro Investigasi.
 
-30 April 2026, desain ini diuji sekali. Respons Hon Hai tidak menonjolkan hal ini, tapi laporan _Mirror Media_ dan _CTS_ menunjukan: kasus ini ditemukan anomali audit internal Unit Pencegahan Kecurangan Hon Hai, lalu proaktif melapor masing-masing ke Kejaksaan Negeri New Taipei, Biro Investigasi Kantor Investigasi Kota Taipei[^15].
+Pada 30 April 2026, desain ini diuji sekali lagi. Tanggapan Hon Hai tidak menekankan hal ini, namun laporan _Mirror Media_ dan _CTS_ menunjukkan bahwa kasus ini adalah hasil dari Departemen Pencegahan Pelanggaran Hon Hai yang menemukan kejanggalan melalui audit internal, lalu secara proaktif melaporkannya kepada Kejaksaan Distrik New Taipei dan Biro Investigasi Cabang Taipei[^15].
 
-## Jalur Lintas Batas yang Lain
+## Jalur Lain di Lintas Batas
 
-Sisi lain risiko tata kelola Hon Hai, adalah lintas batas.
+Dimensi lain dari risiko tata kelola Hon Hai adalah lintas batas negara.
 
-Mulai 2024, pabrik Foxconn Zhengzhou berturut-turut 4 eksekutif keturunan Taiwan ditahan polisi Tiongkok dengan tuduhan "penyuapan non-pejabat negara"[^12]. Lebih awal April, polisi Zhengzhou lintas provinsi ke pabrik Foxconn Shenzhen menahan dua eksekutif Taiwan, proses tanpa menunjukkan dokumen hukum, lokasi hanya ada satu manajer keamanan keturunan Tiongkok[^12].
+Sejak 2024, empat eksekutif berkebangsaan Taiwan di pabrik Foxconn Zhengzhou telah ditahan oleh kepolisian Tiongkok atas dugaan "suap non-pegawai negeri"[^12]. Sebelumnya pada bulan April, polisi Zhengzhou bahkan melakukan penjemputan lintas provinsi ke pabrik Foxconn Shenzhen untuk membawa dua eksekutif Taiwan tanpa menunjukkan dokumen hukum, dan di lokasi hanya ada seorang supervisor keamanan berkebangsaan Tiongkok[^12].
 
-11 Oktober, Kantor Urusan Taiwan Tiongkok mengakui 4 orang ini diduga "kejahatan penerimaan suap non-pejabat negara" dan "kejahatan penyalahgunaan dana", sedang disidik departemen terkait[^12].
+Pada 11 Oktober, Kantor Urusan Taiwan (MAC) mengonfirmasi bahwa keempat orang tersebut diduga melakukan "tindak pidana suap oleh personel non-negara" dan "penyalahgunaan dana", yang sedang diselidiki oleh departemen terkait[^12].
 
-Respons Dewan Urusan Daratan dalam berita hukum jarang terlihat: Wakil Ketua secara publik menggambarkan kasus ini **"sangat aneh"**, dan menyatakan "tidak menutup kemungkinan sedikit kepolisian korup menyalahgunakan kewenangan", meminta Beijing segera menyelidiki[^12]. Sisi perusahaan Hon Hai menyatakan perilaku karyawan tidak menyebabkan kerugian perusahaan, tidak ada tindakan merugikan kepentingan perusahaan[^12].
+Tanggapan dari MAC jarang ditemukan dalam berita hukum: Wakil Ketua secara terbuka menggambarkan kasus ini sebagai "**kasus yang sangat aneh**," dan menyatakan "tidak menutup kemungkinan adanya penyalahgunaan wewenang oleh segelintir oknum kepolisian," serta mendesak Beijing untuk segera memberikan klarifikasi[^12]. Pihak Hon Hai menyatakan bahwa tindakan karyawan tersebut tidak menyebabkan kerugian bagi perusahaan dan tidak ada tindakan yang merugikan kepentingan perusahaan[^12].
 
-Artikel ini tidak memperluas narasi politik dua sisi. Arah masalahnya di lapisan lain: saat basis produksi sebuah perusahaan melintasi banyak yurisdiksi, sistem hukum ketenagakerjaan, sistem kepolisian-penyidikan, fakta "pelanggaran amanah jabatan bisnis menerima keuntungan tidak sah" yang sama, di tempat berbeda diolah jadi kasus sifat benar-benar berbeda. Kasus Tucheng ditangani Kejaksaan Negeri New Taipei berdasarkan _Undang-Undang Perdagangan Efek_; kasus Zhengzhou ditangani polisi Tiongkok berdasarkan _KUHP_ Pasal 163 "kejahatan penerimaan suap non-pejabat negara" menahan orang. **Rantai pasokan yang sama di peta, di hukum adalah galaksi berbeda**.
+Artikel ini tidak akan diperluas menjadi narasi politik lintas selat. Masalah yang ditunjuk berada pada level lain: ketika basis produksi sebuah perusahaan mencakup berbagai yurisdiksi hukum, sistem hukum ketenagakerjaan, dan sistem kepolisian/investigasi yang berbeda, fakta yang sama mengenai "penerimaan keuntungan tidak sah dalam hubungan penugasan bisnis" diperlakukan sebagai kasus dengan sifat yang sepenuhnya berbeda di tempat yang berbeda. Kasus di Tucheng diselidiki oleh Kejaksaan Distrik New Taipei berdasarkan _Undang-Undang Perdagangan Efek_; kasus di Zhengzhou dibawa oleh kepolisian Tiongkok berdasarkan Pasal 163 "tindak pidana suap oleh personel non-negara" dalam _Hukum Pidana_ mereka. **Rantai pasokan yang sama di peta, secara hukum adalah galaksi yang berbeda**.
 
-## 8 Triliun dan Puluhan Juta
+## NT$8 Triliun dan Puluhan Juta
 
-Kembali ke kontras pembukaan artikel.
+Kembali ke perbandingan di awal artikel ini.
 
-2025, Hon Hai grup konsolidasi pendapatan 8,1031 triliun dolar Taiwan baru, dibanding 2024 6,86 triliun tumbuh 18%[^9][^14]. Produk cloud networking porsi 40%, **pertama kali melampaui** produk cerdas konsumen 38%, jadi unit bisnis terbesar grup; pendapatan server AI tumbuh tahunan 170%[^9]. Ketua Liu Yang-wei di rapat penjelasan hukum 30 April 2026 bilang, pengiriman rak AI "dorong pertumbuhan berkali-kali", grup tiap tahun R&D lebih dari 100 miliar dolar Taiwan baru, fokus pendingin efisien AI, otomatisasi manufaktur cerdas, modul kunci mobil listrik[^9].
+Pada 2025, pendapatan gabungan Grup Hon Hai mencapai NT$8,1031 triliun, tumbuh 18% dibandingkan NT$6,86 triliun pada 2024[^9][^14]. Porsi produk cloud dan networking mencapai 40%, **untuk pertama kalinya melampaui** produk cerdas konsumen sebesar 38%, menjadikannya unit bisnis terbesar grup; pendapatan server AI tumbuh 170% secara tahunan[^9]. Ketua Yeung Yang-wei dalam konferensi pers pada 30 April 2026 menyatakan bahwa pengiriman rak AI "tumbuh berlipat ganda," dan investasi R&D grup setiap tahun melebihi NT$100 miliar, dengan fokus pada pendinginan efisien AI, otomatisasi manufaktur cerdas, dan modul kunci kendaraan listrik[^9].
 
-Hari yang sama, majalah _Time_ umumkan 100 Perusahaan Paling Berpengaruh 2026, Hon Hai masuk, kategori "Inovator", digambarkan "salah satu perusahaan paling penting di bidang kecerdasan buatan"; bersamaan masuk daftar pertama TIME100 Pemimpin Industri Perusahaan[^10]. Liu Yang-wei merespons:
+Pada hari yang sama, majalah _TIME_ mengumumkan daftar 100 perusahaan paling berpengaruh tahun 2026; Hon Hai masuk dalam kategori "Inovator" dan digambarkan sebagai "salah satu perusahaan terpenting di bidang kecerdasan buatan"; sekaligus terpilih dalam daftar pemimpin industri TIME100 pertama[^10]. Yeung Yang-wei menanggapi hal ini:
 
-> **"Penghargaan ini mengakui Hon Hai terus menuju visi 'berbasis AI sebagai daya dorong inti, berkomitmen menjadi perusahaan kelas dunia serba bisa'."**[^10]
+> **"Penghargaan ini mengonfirmasi visi dan tujuan Hon Hai untuk terus melangkah menuju 'menjadi perusahaan komprehensif kelas dunia dengan AI sebagai penggerak inti'."**[^10]
 
-Beberapa jam kemudian, orang Biro Investigasi Kantor Investigasi Kota Taipei sampai Tucheng.
+Beberapa jam kemudian, personel dari Biro Investigasi Cabang Taipei tiba di Tucheng.
 
-Dua Hon Hai, satu di cover _Time_, satu di pengungkapan informasi material. Yang pertama adalah Hon Hai 8 triliun pendapatan dan pusaka rantai pasokan AI global, yang kedua adalah Hon Hai rekening luar negeri puluhan juta uang suap dan pemalsuan dokumen pengadaan. Bukan dua perusahaan——mereka adalah neraca yang sama, dua arah sekaligus mencatat buku, dua jalur.
+Dua sisi Hon Hai: satu berada di sampul majalah _TIME_, yang lain berada dalam pengumuman informasi penting. Yang pertama adalah Hon Hai dengan pendapatan NT$8 triliun dan sebagai pusat rantai pasok AI global; yang kedua adalah Hon Hai dengan suap puluhan juta melalui rekening luar negeri dan pemalsuan dokumen pengadaan. Mereka bukanlah dua perusahaan yang berbeda—mereka adalah dua jalur yang mencatat transaksi ke arah yang berlawanan pada satu neraca yang sama.
 
-## Jarak dari 100 Ribu ke 8 Triliun
+## Jarak dari NT$100.000 ke NT$8 Triliun
 
-1974, 30 tahun [Kuo Tai-ming](/id/people/terry-gou) bawa arisan ibu Chu Yung-chen 100 ribu (total 200 ribu setengah, setengah lagi untuk Kuo Tai-ming sendiri menikah), sama teman modal 300 ribu, di Tucheng Taipei mendirikan "Hon Hai Plastik Enterprise Ltd", 10 karyawan, utama produksi tombol TV hitam putih[^13].
+Pada 1974, [Terry Gou](/id/people/terry-gou) yang berusia 30 tahun menggunakan NT$100.000 (setengah dari total NT$200.000 hasil arisan ibunya, Chu Yung-chen; setengah lainnya digunakan untuk pernikahan Terry Gou sendiri) bersama teman-temannya dengan modal tambahan NT$300.000, mendirikan "Hon Hai Plastic Enterprise Co., Ltd." di Tucheng, Taipei, dengan 10 karyawan yang utamanya memproduksi kenop televisi hitam-putih[^13].
 
-Tahun berikutnya konjungtur suram, modal 300 ribu habis, mitra asal keluar. Kuo Tai-ming pinjam mertua 700 ribu beli seluruh perusahaan, ganti nama "Hon Hai Industry"[^13].
+Tahun berikutnya ekonomi lesu, modal NT$300.000 habis, dan mitra aslinya keluar. Terry Gou meminjam NT$700.000 dari ayah mertuanya untuk membeli seluruh perusahaan dan mengubah namanya menjadi "Hon Hai Industry"[^13].
 
-Dari 100 ribu itu ke 8 triliun 2025, tengahnya 51 tahun sejarah usaha. Konnektor (1981)→ ke barat bangun pabrik (1988)→ masuk rantai pasokan Apple (2001 iPod / 2007 iPhone)→ setelah kejadian 12 lompatan Cina (2010) transformasi otomatisasi → Liu Yang-wei ambil alih (2019)→ strategi 3+3 (mobil listrik / kesehatan digital / robot + AI / semikonduktor / komunikasi generasi baru)→ 2025 cloud melampaui elektronik konsumen.
+Dari NT$100.000 itu hingga NT$8 triliun pada 2025, terdapat sejarah operasional selama 51 tahun. Konektor (1981) → Ekspansi pabrik ke Tiongkok Barat (1988) → Masuk ke rantai pasok Apple (iPod 2001 / iPhone 2007) → Transformasi otomatisasi setelah peristiwa "12 lompatan" di Tiongkok (2010) → Suksesi Yeung Yang-wei (2019) → Strategi 3+3 (Kendaraan Listrik / Kesehatan Digital / Robotika + AI / Semikonduktor / Komunikasi Generasi Baru) → Cloud melampaui elektronik konsumen pada 2025.
 
-Tapi sejarah ini garis waktu lain, adalah garis waktu risiko tata kelola:
+Namun, garis waktu lain dari sejarah ini adalah garis waktu risiko tata kelola:
 
-- 2010 — Kejadian 12 lompatan pabrik Shenzhen
-- 2013-2014 — Kasus Liao Wan-cheng Komite SMT kolektif uang suap meledak
-- 2015 — Unit Pencegahan Kecurangan成立 + 50 juta hadiah menangkap hantu
-- 2021 — Kasus Liao Wan-cheng Mahkamah Agung putusan tetap
-- 2024 — Zhengzhou 4 eksekutif Taiwan ditahan polisi Tiongkok
-- 2026-04-30 — Kasus uang suap puluhan juta kepala dan asisten manajer pabrik Tucheng geledah
+- 2010 — Peristiwa "12 lompatan" di pabrik Shenzhen
+- 2013-2014 — Meledaknya kasus suap kolektif Komite SMT Liao Wan-cheng
+- 2015 — Pembentukan Departemen Pencegahan Pelanggaran + Bonus Tangkap Hantu NT$50 juta
+- 2021 — Putusan tetap Mahkamah Agung untuk kasus Liao Wan-cheng
+- 2024 — Empat eksekutif Taiwan di Zhengzhou ditahan kepolisian Tiongkok
+- 30-04-2026 — Penggeledahan kasus suap puluhan juta melibatkan direktur dan manajer di pabrik Tucheng
 
-11 tahun setelah Unit Pencegahan Kecurangan成立, mekanisme audit internal deteksi kasus kedua, dan pilih jalan "melapor ke luar". Ini sinyal sistem berjalan, juga sinyal sistem masih dibutuhkan.
+Sebelas tahun setelah pendirian Departemen Pencegahan Pelanggaran, mekanisme audit internal mendeteksi kasus kedua, dan memilih jalan "melapor ke pihak luar." Ini adalah sinyal bahwa sistem sedang bekerja, sekaligus sinyal bahwa sistem tersebut masih sangat dibutuhkan.
 
 ## Zona Abu-abu
 
-Kisah Hon Hai, media Taiwan sudah tulis ratusan versi: "Raja OEM", "Kapal induk manufaktur Taiwan", "Raja tersembunyi di balik iPhone". Ini semua benar.
+Kisah Hon Hai telah ditulis dalam ratusan versi oleh media Taiwan: "Raja OEM," "Bendera Utama Manufaktur Taiwan," "Juara Tersembunyi di Balik iPhone." Semua itu benar.
 
-Tapi juga benar: kekaisaran OEM 8 triliun pendapatan, tiap tahun masih ada karyawan pilih rekening luar negeri dan palsukan dokumen pengadaan; tiap 50 juta hadiah menangkap hantu, adalah harga nyata sistem internal control setiap beberapa tahun harus restart sekali.
+Namun, ini juga benar: dalam imperium manufaktur dengan pendapatan NT$8 triliun, setiap tahun masih ada karyawan yang memilih menggunakan rekening luar negeri dan memalsukan dokumen pengadaan; setiap bonus tangkap hantu sebesar NT$50 juta adalah harga nyata dari biaya sistem kontrol internal yang harus diaktifkan ulang setiap beberapa tahun sekali.
 
-Hon Hai proaktif publikkan "Tim Tiga Orang Menangkap Hantu", proaktif melapor kejaksaan-penyidikan, proaktif pengungkapan informasi material mengungkap geledahan——tindakan ini dalam sejarah tata kelola perusahaan etnis Tionghoa bukan norma. Ini adalah biaya belajar 11 tahun kasus Liao Wan-cheng accumulasi keluar.
+Hon Hai secara proaktif mengumumkan "Trio Tangkap Hantu," secara proaktif melapor ke penyidik, dan secara proaktif mengungkapkan peristiwa penggeledahan melalui pengumuman penting—tindakan-tindakan ini bukanlah hal yang lumrah dalam sejarah tata kelola perusahaan Tionghoa. Tindakan ini adalah akumulasi dari biaya pembelajaran selama 11 tahun sejak kasus Liao Wan-cheng.
 
-11 tahun depan apa? Tidak tau. Tapi 30 April 2026 hari ini memberitahu kita: saat pendapatan kekaisaran OEM mendekati 10 triliun[^9]、24 negara 900 ribu orang[^11]、cloud networking jadi unit bisnis terbesar setelahnya，**yang paling sulit dikendalikan masih orang sendiri**.
+Apa yang akan terjadi dalam 11 tahun ke depan? Tidak ada yang tahu. Namun, hari 30 April 2026 memberi tahu kita: ketika pendapatan imperium manufaktur mendekati NT$10 triliun[^9], dengan 900.000 orang di 24 negara[^11], dan produk cloud networking menjadi unit bisnis terbesar, **hal tersulit tetaplah mengelola orang dalam sendiri**.
 
-Daftar majalah _Time_ akan terus update. EPS rapat penjelasan hukum akan terus segar. Surat geledah Kejaksaan Negeri New Taipei, juga akan terus dikirim ke alamat berikutnya.
+Daftar majalah _TIME_ akan terus diperbarui. EPS dalam konferensi pers akan terus mencetak rekor baru. Surat penggeledahan dari Kejaksaan Distrik New Taipei juga akan terus dikirimkan ke alamat berikutnya.
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Kuo Tai-ming](/id/people/terry-gou) — Pendiri Hon Hai, dari arisan ibu 100 ribu ke kisah wirausaha kekaisaran manufaktur global
-- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Sama-sama kapal induk perusahaan internasional Taiwan, tapi jalan OEM wafer profesional; struktur tata kelola dengan kekaisaran OEM Hon Hai benar-benar berbeda
-- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Kode saham Hon Hai 2317, mekanisme pengungkapan informasi material कैसे运作
-- [Transformasi Tingkat Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari OEM tenaga kerja intensif ke perakitan server AI, Hon Hai adalah cermin jalur ini
-- [Perdagangan Luar Negeri dan Rantai Pasokan Global Taiwan](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — 24 negara 900 ribu orang tata letak global, adalah lapangan eksperimen terbesar tata kelola lintas batas manufaktur Taiwan
+- [Terry Gou](/id/people/terry-gou) — Pendiri Hon Hai, kisah kewirausahaan dari modal arisan ibu NT$100.000 hingga menjadi imperium manufaktur global
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Sama-sama merupakan bendera perusahaan kelas internasional Taiwan, namun menempuh jalur manufaktur semikonduktor profesional; struktur tata kelolanya sangat berbeda dengan imperium manufaktur Hon Hai
+- [Pasar Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — Kode saham Hon Hai 2317, bagaimana mekanisme pengungkapan informasi penting bekerja
+- [Transformasi Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari manufaktur padat karya ke perakitan server AI, Hon Hai adalah mikrokosmos dari jalur ini
+- [Perdagangan Luar Negeri dan Rantai Pasok Global Taiwan](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Tata letak global dengan 900.000 orang di 24 negara merupakan laboratorium terbesar bagi tata kelola lintas batas industri manufaktur Taiwan
 
 ---
 
 ## Referensi
 
-[^1]: [Liberty Times 2026-04-30 Kepala Divisi Diduga Uang Suap Kejaksaan-Penyidikan Geledah Pabrik Hon Hai Tucheng Bawa 3 Orang](https://news.ltn.com.tw/news/society/breakingnews/5421541) — Liberty Times Pusat Sosial laporan urutan waktu 30 April 2026 Kejaksaan Negeri New Taipei mengkomando Biro Investigasi Kantor Investigasi Kota Taipei geledah pabrik Hon Hai Tucheng, jumlah tersangka dan tuduhan awal kejaksaan.
+[^1]: [Liberty Times 30-04-2026 Eksekutif Tingkat Direktur Diduga Terima Suap, Penyidik Geledah Pabrik Tucheng Hon Hai dan Bawa 3 Orang](https://news.ltn.com.tw/news/society/breakingnews/5421541) — Laporan Pusat Sosial Liberty Times mengenai kronologi penggeledahan pabrik Tucheng oleh Kejaksaan Distrik New Taipei pada 30 April 2026, jumlah tersangka, dan penetapan dakwaan awal oleh jaksa.
 
-[^2]: [CNA 2026-05-01 Kepala Divisi Hon Hai Tucheng, Asisten Manajer Kasus Uang Suap Keduanya Dibebaskan Jaminan Dilarang Keluar Negeri](https://www.cna.com.tw/news/asoc/202605010140.aspx) — Laporan CNA, berisi pernyataan kejaksaan "selama rencana ekspansi pabrik global melanggar kewajiban jabatan menerima uang suap vendor" dan "melalui rekening luar negeri menerima uang suap ilegal puluhan juta dari pemasok, dan memalsukan dokumen pengadaan membantu vendor lolos verifikasi" deskripsi modus spesifik.
+[^2]: [CNA 01-05-2026 Direktur dan Manajer Pabrik Tucheng Hon Hai Terlibat Kasus Suap, Keduanya Dijamin Bebas dengan Larangan Bepergian ke Luar Negeri](https://www.cna.com.tw/news/asoc/202605010140.aspx) — Laporan Central News Agency, mencakup pernyataan jaksa mengenai "penerimaan suap dari vendor selama periode rencana ekspansi pabrik global" dan modus operandi spesifik "menerima suap ilegal lebih dari NT$10 juta melalui rekening luar negeri serta memalsukan dokumen pengadaan untuk membantu vendor melewati inspeksi."
 
-[^3]: [UDN 2026-05-01 Video／Hon Hai Grup Meledak 2 Eksekutif Tinggi Terima Uang Suap Puluhan Juta Kepala Divisi 2 Juta, Asisten Manajer 1 Juta Dibebaskan Jaminan](https://udn.com/news/story/7321/9475893) — UDN garis depan hukum laporan, catat jumlah jaminan, dilarang keluar negeri, tuduhan kejaksaan (_Undang-Undang Perdagangan Efek_ pelanggaran amanah khusus + _KUHP_ pencatatan bisnis tidak benar + pemalsuan dokumen).
+[^3]: [UDN 01-05-2026 Video/Grup Hon Hai Meledak dengan Kasus 2 Eksekutif Senior Terima Suap Puluhan Juta, Direktur Jaminan NT$2 juta, Manajer NT$1 juta](https://udn.com/news/story/7321/9475893) — Laporan lini depan hukum UDN, mencatat jumlah jaminan, larangan bepergian ke luar negeri, dan dakwaan yang diterapkan jaksa (Pasal Pengkhianatan Khusus dalam _Undang-Undang Perdagangan Efek_ + Pencatatan Palsu dalam Bisnis + Pemalsuan Dokumen).
 
-[^4]: [Liberty Finance 2026-04-30 Pabrik Tucheng Digedung Biro Investigasi Hon Hai Resmi Merespons](https://ec.ltn.com.tw/article/breakingnews/5421502) — Liberty Finance laporan Hon Hai melalui Stasiun Observasi Informasi Publik pengungkapan informasi material full text, berisi "karyawan tertentu terlibat kasus""tidak melibatkan perusahaan itu sendiri""sepenuhnya bekerja sama penyidikan yudikatif" respons逐字.
+[^4]: [Liberty Finance 30-04-2026 Pabrik Tucheng Digeledah Biro Investigasi, Hon Hai Resmi Menanggapi](https://ec.ltn.com.tw/article/breakingnews/5421502) — Laporan Liberty Finance mengenai teks lengkap pengumuman penting yang dirilis Hon Hai melalui situs observasi informasi publik, termasuk tanggapan kata demi kata seperti "melibatkan karyawan tertentu," "tidak melibatkan perusahaan itu sendiri," dan "bekerja sama sepenuhnya dengan investigasi yudisial."
 
-[^5]: [Mirror Media 2026-05-01 Eksklusif／Ekspansi Pabrik Global Meledak Tinggi Terima Uang Suap Hon Hai Tim Tiga Orang Menangkap Hantu Pertama Kali Terekspos](https://www.mirrormedia.mg/story/20260501inv003) — Mirror Media eksklusif ungkap Hon Hai internal "Tim Tiga Orang Menangkap Hantu" pertama kali terekspos, berisi tiga nama (Li Shun-pao/Li Ming-yin/Lin Ming-hung)、latar belakang anti-korupsi pemerintah dan catatan duduk mengawasi penuh hari geledahan.
+[^5]: [Mirror Media 01-05-2026 Eksklusif/Ekspansi Pabrik Global Terbongkar Kasus Suap Eksekutif, Trio Tangkap Hantu Hon Hai Terungkap Pertama Kali](https://www.mirrormedia.mg/story/20260501inv003) — Pengungkapan eksklusif Mirror Media mengenai kemunculan perdana "Trio Tangkap Hantu" internal Hon Hai, mencakup nama ketiga orang tersebut (Li Shun-pao/Li Ming-yin/Lin Ming-hung), latar belakang anti-korupsi pemerintah sebelumnya, dan catatan pengawasan mereka di lokasi saat penggeledahan.
 
-[^6]: [Majalah Manajer Pengadaan Uang Suap, Banyak Hingga Miliaran! Cara Menghentikan? SOP Anti-Kecurangan untuk Manajer](https://www.managertoday.com.tw/columns/view/63927) — Majalah Manajer kolom laporan mekanisme anti-kecurangan Hon Hai: berisi 2015成立 Unit Pencegahan Kecurangan (media sebut "Kejaksaan Hon Hai")、50 juta hadiah menangkap hantu、dengan Biro Investigasi kerja sama memukul kecurangan internal desain sistem, dan jadikan Hon Hai teladan reformasi tata kelola perusahaan lain.
+[^6]: [Manager Magazine: Suap Pengadaan Mencapai Ratusan Juta! Bagaimana Cara Menghentikannya? SOP Pencegahan Pelanggaran bagi Manajer](https://www.managertoday.com.tw/columns/view/63927) — Kolom Manager Magazine mengenai mekanisme pencegahan pelanggaran Hon Hai: mencakup pembentukan Departemen Pencegahan Pelanggaran pada 2015 (disebut media sebagai "Polisi Integritas Hon Hai"), bonus tangkap hantu NT$50 juta, dan desain sistem kerja sama dengan Biro Investigasi untuk memberantas pelanggaran internal, serta menggunakan Hon Hai sebagai model reformasi tata kelola perusahaan lain.
 
-[^7]: [Liberty Times 2021-05-24 Orang Dalam Terima Uang Suap Vendor 1,6 Miliar Mantan Wakil Presiden Hon Hai Liao Wan-cheng Dihukum 2 Tahun Putus Tetap](https://news.ltn.com.tw/news/society/breakingnews/3544038) — Liberty Times Pusat Sosial laporan kasus Liao Wan-cheng Mahkamah Agung 2021 Mei 24 tolak banding putus tetap urutan waktu lengkap, berisi pengadilan pertama 10 tahun setengah → bandung 1 tahun 4 bulan → banding ulang 2 tahun perubahan putusan dan tuntutan kejaksaan 1,6 miliar vs pengadilan akui 3,16 juta selisih.
+[^7]: [Liberty Times 24-05-2021 Orang Dalam Terima Suap Vendor NT$160 Juta, Mantan Wakil Presiden Hon Hai Liao Wan-cheng Divonis Penjara 2 Tahun](https://news.ltn.com.tw/news/society/breakingnews/3544038) — Laporan Pusat Sosial Liberty Times mengenai kronologi lengkap putusan tetap Mahkamah Agung untuk kasus Liao Wan-cheng pada 24 Mei 2021, mencakup perubahan vonis dari 10,5 tahun (Tingkat Pertama) → 1 tahun 4 bulan (Tingkat Kedua) → 2 tahun (Tingkat Pertama Kembali), serta perbedaan antara jumlah tuntutan jaksa NT$160 juta vs penetapan pengadilan NT$3,16 juta.
 
-[^8]: [CNA 2021-01-19 Mantan Lao Chen Hon Hai Liao Wan-cheng Melanggar Kontrak Pengadilan Tinggi Putus Harus Bayar Lebih 2000 Juta](https://www.cna.com.tw/news/firstnews/202101190087.aspx) — CNA laporan kasus ganti rugi sivil Liao Wan-cheng, Pengadilan Tinggi banding kedua putus Liao harus bayar Hon Hai dolar AS 770 ribu 3.744 (sekitar 21,8 juta lebih dolar Taiwan baru), akui dia melanggar "Surat Perjanjian Integritas Kejujuran dan Hak Kekayaan Intelektual" mulai kerja "tidak boleh dengan lawan transaksi约定 atau 索取 任何 不正当 利益" 条款。
+[^8]: [CNA 19-01-2021 Mantan Veteran Hon Hai Liao Wan-cheng Melanggar Kontrak, Pengadilan Tinggi Putuskan Harus Membayar Lebih dari NT$20 Juta](https://www.cna.com.tw/news/firstnews/202101190087.aspx) — Laporan Central News Agency mengenai kasus tuntutan perdata Liao Wan-cheng, di mana Pengadilan Tinggi memutuskan Liao harus membayar kepada Hon Hai sebesar US$773.744 (sekitar NT$21,8 juta), setelah menetapkan bahwa ia melanggar klausul "tidak boleh menjanjikan atau meminta keuntungan tidak sah dari mitra transaksi" dalam "Perjanjian Integritas dan Hak Kekayaan Intelektual" yang ditandatanganinya saat menjabat.
 
-[^9]: [The News Lens 2026 Hon Hai 2025 Pendapatan 8,1 Triliun Rekor Perusahaan Publik Taiwan](https://www.cmmedia.com.tw/home/articles/59971) — The News Lens laporan Hon Hai 2025 konsolidasi pendapatan 8,1031 triliun dolar Taiwan baru (tahun naik 18%)、EPS 13,61 elemen ganda rekor baru、cloud networking porsi 40% pertama kali melampaui cerdas konsumen 38%、server AI pendapatan tahun naik 170% data detail.
+[^9]: [Xintian Media 2026 Pendapatan Hon Hai 2025 Capai NT$8,1 Triliun, Pecahkan Rekor Perusahaan Publik Taiwan](https://www.cmmedia.com.tw/home/articles/59971) — Laporan Xintian Media mengenai data rinci pendapatan gabungan Hon Hai tahun 2025 sebesar NT$8,1031 triliun (naik 18%), EPS rekor baru NT$13,61, porsi produk cloud networking mencapai 40% untuk pertama kalinya melampaui elektronik cerdas 38%, dan pendapatan server AI tumbuh 170% secara tahunan.
 
-[^10]: [CNA 2026-05-01 Hon Hai Masuk Majalah Time 100 Perusahaan Paling Berpengaruh AI Perusahaan Penting](https://www.cna.com.tw/news/afe/202605010220.aspx) — CNA laporan majalah _Time_ 30 April umumkan 100 Perusahaan Paling Berpengaruh 2026, Hon Hai masuk, kategori "Inovator", digambarkan "salah satu perusahaan paling penting di bidang kecerdasan buatan", dan masuk daftar pertama TIME100 Pemimpin Industri Perusahaan。
+[^10]: [CNA 01-05-2026 Hon Hai Masuk Daftar 100 Perusahaan Paling Berpengaruh Majalah TIME, Perusahaan Penting di Bidang AI](https://www.cna.com.tw/news/afe/202605010220.aspx) — Laporan Central News Agency mengenai daftar 100 perusahaan paling berpengaruh tahun 2026 yang dirilis majalah _TIME_ pada 30 April, di mana Hon Hai masuk kategori "Inovator," digambarkan sebagai "salah satu perusahaan terpenting di bidang kecerdasan buatan," dan terpilih dalam daftar pemimpin industri TIME100 pertama.
 
-[^11]: [Situs Resmi Hon Hai Grup Tentang Hon Hai](https://www.foxconn.com/zh-tw/about/group-profile) — Situs resmi Hon Hai Technology Grup profil perusahaan resmi, catat global 24 negara / 205 pabrik kantor / sekitar 900 ribu karyawan (puncak musiman)、Fortune Global 500 nomor 28 data dasar.
+[^11]: [Situs Resmi Grup Hon Hai: Tentang Hon Hai](https://www.foxconn.com/zh-tw/about/group-profile) — Profil resmi Grup Teknologi Hon Hai, mencatat data dasar seperti 24 negara secara global / 205 lokasi pabrik dan kantor / sekitar 900.000 karyawan (puncak musiman), peringkat ke-28 dalam Fortune Global 500, dll.
 
-[^12]: [CNA 2024-10-09 Foxconn 4 Eksekutif Taiwan Ditahan Dewan Urusan Daratan: Tidak Menutup Kemungkinan Sedikit Kepolisian Korup Menyalahgunakan Kewenangan](https://www.cna.com.tw/news/acn/202410090437.aspx) — CNA laporan kasus 4 eksekutif Taiwan pabrik Foxconn Zhengzhou ditahan polisi Tiongkok、Kantor Urusan Taiwan 11 Oktober akui涉 "kejahatan penerimaan suap non-pejabat negara" 与 "kejahatan penyalahgunaan dana"、Dewan Urusan Daratan publik "kasus sangat aneh""tidak menutup kemungkinan sedikit kepolisian korup menyalahgunakan kewenangan" respons。
+[^12]: [CNA 09-10-2024 Empat Eksekutif Taiwan di Foxconn Ditahan, MAC: Tidak Menutup Kemungkinan Penyalahgunaan Wewenang oleh Oknum Kepolisian](https://www.cna.com.tw/news/acn/202410090437.aspx) — Laporan Central News Agency mengenai penahanan empat eksekutif berkebangsaan Taiwan di pabrik Zhengzhou Foxconn oleh kepolisian Tiongkok, konfirmasi Kantor Urusan Taiwan pada 11 Oktober mengenai dugaan "tindak pidana suap oleh personel non-negara" dan "penyalahgunaan dana," serta tanggapan terbuka MAC yang menyebut "kasus sangat aneh" dan "tidak menutup kemungkinan adanya penyalahgunaan wewenang oleh segelintir oknum kepolisian."
 
-[^13]: [Wikipedia: Hon Hai Precision](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86) — Wikipedia Hon Hai Precision entry, catat 1974 Februari 20 Kuo Tai-ming dengan ibu Chu Yung-chen arisan 200 ribu setengah (100 ribu) sama teman modal 300 ribu mendirikan Hon Hai Plastik Enterprise Ltd、1975 pinjam mertua 700 ribu reorganisasi jadi Hon Hai Industry detail sejarah.
+[^13]: [Wikipedia: Hon Hai Precision](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86) — Entri Wikipedia Hon Hai Precision, mencatat detail sejarah pendirian Hon Hai Plastic Enterprise Co., Ltd. pada 20 Februari 1974 dengan modal NT$300.000 (setengah dari hasil arisan ibu Terry Gou sebesar NT$200.000 ditambah modal teman), serta restrukturisasi menjadi Hon Hai Industry dengan meminjam NT$700.000 dari ayah mertuanya pada 1975.
 
-[^14]: [Mirror Media 2025-01 Reformasi Tenang 6 Triliun Kekaisaran Hon Hai Liu Yang-wei Pribadi Ungkap Kunci Ledakan Kinerja 2025](https://www.mirrormedia.mg/story/20250115fin002) — Mirror Media laporan mendalam Hon Hai dari 6,86 triliun (2024) ke 8,1 triliun (2025) struktur bisnis transformasi proses, berisi cloud networking 40% / cerdas konsumen 38% pertama kali silang titik waktu.
+[^14]: [Mirror Media 01-2025 Reformasi Senyap Imperium Hon Hai NT$6 Triliun, Yeung Yang-wei Ungkap Kunci Ledakan Kinerja 2025](https://www.mirrormedia.mg/story/20250115fin002) — Laporan mendalam Mirror Media mengenai proses transformasi struktur bisnis Hon Hai dari NT$6,86 triliun (2024) ke NT$8,1 triliun (2025), termasuk titik waktu di mana cloud networking (40%) melampaui elektronik cerdas (38%) untuk pertama kalinya.
 
-[^15]: [CTS News 2026-05-01 Karyawan Terlibat Kecurangan Digedung! Hon Hai "Tim Tiga Orang Menangkap Hantu" Penuh Duduk Mengawasi Lokasi](https://news.cts.com.tw/cts/money/202605/202605013026432.html) — CTS News pusat keuangan laporan Hon Hai Unit Pencegahan Kecurangan audit internal temukan anomali lalu proaktif masing-masing melapor Kejaksaan Negeri New Taipei, Biro Investigasi Kantor Investigasi Kota Taipei kasus ini detail proses internal.
+[^15]: [CTS News 01-05-2026 Karyawan Terlibat Pelanggaran dan Digeledah! "Trio Tangkap Hantu" Hon Hai Mengawasi di Lokasi](https://news.cts.com.tw/cts/money/202605/202605013026432.html) — Laporan Pusat Keuangan CTS News mengenai detail proses internal di mana Departemen Pencegahan Pelanggaran Hon Hai secara proaktif melaporkan kasus ini kepada Kejaksaan Distrik New Taipei dan Biro Investigasi Cabang Taipei setelah menemukan kejanggalan melalui audit internal.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-19T03:33:32+08:00",
-    "zhCommitHead": "16c952cd1",
+    "lastUpdated": "2026-11-19T03:33:52+08:00",
+    "zhCommitHead": "a91f659d9",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 1088,
-        "stale": 57,
+        "fresh": 1089,
+        "stale": 56,
         "metadata_stale": 35,
         "missing": 11,
         "orphan": 0
@@ -7706,20 +7706,18 @@
         "vi": {
           "path": "vi/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
           "translatedFrom": "Economy/台灣企業：巨大機械.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:10b820d8447d79e6b4ed01d14258b10f07f26860e239ac7af52c50fccf7d1ac7",
-          "sourceBodyHash": "sha256:10b820d8447d79e6b4ed01d14258b10f07f26860e239ac7af52c50fccf7d1ac7",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "sourceBodyHash": "sha256:ba1854308daac0e3",
+          "translatedAt": "2026-11-19T03:18:14+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 29285,
+          "bytes": 30715,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
@@ -235557,7 +235555,7 @@
           "translationLastModified": "2026-10-10T23:26:29+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 44254,
+          "bytes": 44256,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
