@@ -1,8 +1,8 @@
 ---
 title: 'Такеси Канесиро: от неузнанного «обывателя» до азиатского кумира, желавшего, чтобы мир его забыл'
 description: 'В начале 2025 года сюжет уличного опроса пометил его как «обывателя» — возможно, это был самый заветный момент для Такеси Канесиро. От 17-летнего подростка, снимавшегося в рекламе ради покупки мотоцикла, до международной суперзвезды, сиявшей на экранах Тайваня, Японии и Гонконга, он все эти годы на вершине славы отрабатывал искусство «исчезновения».'
+date: 2026-06-19
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Такеси Канесиро',
@@ -13,17 +13,19 @@ tags:
     'Онимуся',
     '«Тайпинлун»',
   ]
-date: 2026-06-19
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-07-29T12:59:31+08:00'
+translatedAt: '2026-11-18T23:44:51.135262+00:00'
 ---
 
 > **Тридцатисекундный обзор:**
