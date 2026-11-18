@@ -18,6 +18,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
+researchReport: 'reports/research/2026-06/天下雜誌.md'
 image: '/article-images/society/diane-ying-magsaysay.webp'
 imageCredit: 'Ramon Magsaysay Award Foundation'
 imageLicense: 'Fair use editorial commentary'
@@ -31,11 +32,14 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-13'
     url: 'https://x.com/taiwandotmd/status/2065697249041281306'
+relatedDiary: ['2026-06-04-151548-天下雜誌']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'd317f164'
+sourceCommitSha: 'b1a5fea00'
 sourceContentHash: 'sha256:cfcffc0d37076c22'
 sourceBodyHash: 'sha256:a2fb34529fea33ac'
-translatedAt: '2026-06-16T17:15:54Z'
+translatedAt: '2026-11-18T06:06:32.561879+00:00'
 ---
 
 > **30-second overview:** On June 1, 1981, a business magazine called CommonWealth launched in Taiwan, still under martial law and recently expelled from the international stage. Its first edition of 10,000 copies sold out in two days[^1]. The driving force was economist Kao Hsi-chun, who gathered Wang Li-hsing, Chang Tso-chin, and Diane Ying under the banner of "scholars serving the nation"[^2]; Ying — a reporter who had worked at the Philadelphia Inquirer, UPI, the New York Times, and the Asian Wall Street Journal — became the magazine's editorial soul, and the person who held it together after the 1986 split[^3]. Over four decades, it grew from a magazine that "made economics readable" into Taiwan's foremost maker of business and governance rankings: the Top 2000, Top 50, Benchmark Enterprises, Happiest Cities — names that quietly define what "success" means for an entire society. It is one of Taiwan's most trusted media outlets per the Reuters Institute[^4], a recipient of the Ramon Magsaysay Award and the SOPA Lifetime Achievement Award. Yet the position that makes it most trusted is precisely where it stands closest to capital and power. Its credibility, and its power to rank others, come from the same distance.

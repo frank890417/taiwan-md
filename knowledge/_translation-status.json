@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-18T14:06:19+08:00",
-    "zhCommitHead": "210f1cdfb",
+    "lastUpdated": "2026-11-18T14:30:00+08:00",
+    "zhCommitHead": "21e158827",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,32 +20,32 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 675,
+        "fresh": 676,
         "stale": 52,
-        "metadata_stale": 456,
+        "metadata_stale": 455,
         "missing": 8,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 675,
+        "fresh": 676,
         "stale": 49,
-        "metadata_stale": 458,
+        "metadata_stale": 457,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 681,
-        "stale": 52,
+        "fresh": 682,
+        "stale": 51,
         "metadata_stale": 449,
         "missing": 9,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 681,
-        "stale": 54,
+        "fresh": 682,
+        "stale": 53,
         "metadata_stale": 448,
         "missing": 8,
         "orphan": 0
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 687,
+        "fresh": 688,
         "stale": 46,
-        "metadata_stale": 450,
+        "metadata_stale": 449,
         "missing": 8,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 656,
+        "fresh": 657,
         "stale": 66,
-        "metadata_stale": 461,
+        "metadata_stale": 460,
         "missing": 8,
         "orphan": 0
       }
@@ -37811,8 +37811,8 @@
           "sourceContentHash": "sha256:4e382a7fba09b7dd",
           "sourceBodyHash": "sha256:83fcd71da8d50603",
           "translatedAt": "2026-11-18T04:32:28.290448+00:00",
-          "translationLastCommit": "b49bcddb",
-          "translationLastModified": "2026-11-02T17:06:10+08:00",
+          "translationLastCommit": "21e15882",
+          "translationLastModified": "2026-11-18T14:06:19+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "bytes": 54441,
@@ -44225,18 +44225,18 @@
         "ko": {
           "path": "ko/Art/chiang-hsien-yi.md",
           "translatedFrom": "Art/江賢二.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:872c1259e15043c2",
-          "sourceBodyHash": "sha256:ae43b98131d02326",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "e81a52046",
+          "sourceContentHash": "sha256:d0617b9871f95eb3",
+          "sourceBodyHash": "sha256:13e0356c3da61611",
+          "translatedAt": "2026-11-18T06:07:16.140952+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 42,
-          "bytes": 44483,
+          "footnoteDefs": 44,
+          "bytes": 48254,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (44→42)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/chiang-hsien-yi.md",
@@ -45117,8 +45117,8 @@
           "sourceContentHash": "sha256:da8e78a538c5510d",
           "sourceBodyHash": "sha256:076ca43fe3ac469d",
           "translatedAt": "2026-11-18T05:56:56.464145+00:00",
-          "translationLastCommit": "2ab76d37",
-          "translationLastModified": "2026-10-10T23:42:20+08:00",
+          "translationLastCommit": "21e15882",
+          "translationLastModified": "2026-11-18T14:06:19+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 55697,
@@ -51879,8 +51879,8 @@
           "sourceContentHash": "sha256:d85b6c99ab72b318",
           "sourceBodyHash": "sha256:f6ae8560d7e03438",
           "translatedAt": "2026-11-18T05:13:05.707065+00:00",
-          "translationLastCommit": "2650236a",
-          "translationLastModified": "2026-10-13T13:18:53+08:00",
+          "translationLastCommit": "21e15882",
+          "translationLastModified": "2026-11-18T14:06:19+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "bytes": 49444,
@@ -71839,38 +71839,34 @@
         "en": {
           "path": "en/Society/commonwealth-magazine.md",
           "translatedFrom": "Society/天下雜誌.md",
-          "sourceCommitSha": "d317f164",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:cfcffc0d37076c22",
           "sourceBodyHash": "sha256:a2fb34529fea33ac",
-          "translatedAt": "2026-06-16T17:15:54Z",
+          "translatedAt": "2026-11-18T06:06:32.561879+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 46668,
+          "bytes": 46841,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/commonwealth-magazine.md",
           "translatedFrom": "Society/天下雜誌.md",
-          "sourceCommitSha": "d317f164",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:cfcffc0d37076c22",
           "sourceBodyHash": "sha256:a2fb34529fea33ac",
-          "translatedAt": "2026-06-16T17:15:00Z",
+          "translatedAt": "2026-11-18T06:06:36.246391+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 54736,
+          "bytes": 54909,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/commonwealth-magazine.md",
@@ -88192,20 +88188,18 @@
         "ru": {
           "path": "ru/Society/taiwan-diplomatic-allies-and-international-relations.md",
           "translatedFrom": "Society/台灣邦交國與國際外交.md",
-          "sourceCommitSha": "9b91d7a61",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:94f577de93fb7be3",
           "sourceBodyHash": "sha256:355c426f46da113d",
-          "translatedAt": "2026-11-07T03:29:04.533168+00:00",
+          "translatedAt": "2026-11-18T06:06:25.441666+00:00",
           "translationLastCommit": "94198e5b",
           "translationLastModified": "2026-11-07T12:27:13+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 63112,
+          "bytes": 63164,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -109710,18 +109704,18 @@
         "es": {
           "path": "es/People/yang-wei-cher.md",
           "translatedFrom": "People/楊維哲.md",
-          "sourceCommitSha": "22286539e",
-          "sourceContentHash": "sha256:33dd9f5420593489",
-          "sourceBodyHash": "sha256:dbdac5a6701910e0",
-          "translatedAt": "2026-11-04T20:58:20.245849+00:00",
+          "sourceCommitSha": "520de49a5",
+          "sourceContentHash": "sha256:7efd573816451b59",
+          "sourceBodyHash": "sha256:e4b1b1d6bc7c9a2b",
+          "translatedAt": "2026-11-18T06:07:53.391561+00:00",
           "translationLastCommit": "0293ef76",
           "translationLastModified": "2026-11-05T04:59:00+08:00",
           "inferred": false,
-          "footnoteDefs": 13,
-          "bytes": 15306,
+          "footnoteDefs": 37,
+          "bytes": 62065,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (37→13)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/yang-wei-cher.md",
@@ -164080,20 +164074,18 @@
         "de": {
           "path": "de/People/chi-huai-hsin.md",
           "translatedFrom": "People/紀懷新.md",
-          "sourceCommitSha": "7e660a586",
+          "sourceCommitSha": "b1a5fea00",
           "sourceContentHash": "sha256:11f4b1d06ffc2776",
           "sourceBodyHash": "sha256:a42a37a855f0ab8b",
-          "translatedAt": "2026-10-15T01:58:06.011425+00:00",
+          "translatedAt": "2026-11-18T06:06:29.037451+00:00",
           "translationLastCommit": "902374ca",
           "translationLastModified": "2026-10-15T11:09:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 34932,
+          "bytes": 34984,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
