@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:01+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T08:18:12.658188+00:00'
 ---
 
 # Controversia sobre renovación urbana: después de Wenlin Yuan, ¿cómo maneja Taiwán a los «propietarios que no consienten»?
@@ -81,18 +81,19 @@ El 28 de mayo, Wang Guangshu, después de perder diez litigios y enfrentar una d
 
 Vale la pena notar que los «hogares afectados» en este caso no eran solo la familia Wang. Los propietarios que consentían no pudieron regresar a casa durante las protestas; reportes indicaban que siete ancianos propietarios que consentían murieron antes de que el edificio se completara.[^1] Esta es también la mayor diferencia entre Wenlin Yuan y las protestas de demolición ordinarias: no es una confrontación de dos lados entre el gobierno y los residentes, sino una comunidad dividida por la mitad después de la división, con ambos lados pagando un precio.
 
-## Lo que dejó el sistema
+## Qué deja el sistema
 
-La Ley de Renovación Urbana fue promulgada el 11 de noviembre de 1998 y entró en vigor el 13 de noviembre, siendo la ley especial de renovación urbana de nuestro país.[^4] Según estadísticas de la Fundación de Investigación y Desarrollo de Renovación Urbana, desde 2000 hasta finales de 2020, se aprobaron acumulativamente 751 casos de proyectos de reconstrucción conforme a esta ley en toda Taiwán, con un área total de 242,70 hectáreas; se aprobaron 150 proyectos de mejora y mantenimiento.[^4] La ley ha sido enmendada doce veces hasta el 13 de noviembre de 2024.[^4]
+La «Ley de Renovación Urbana» fue promulgada el 11 de noviembre de 1998 y entró en vigor el 13; es la ley especial de renovación urbana de Taiwán.[^4] Según las estadísticas de la Fundación de Investigación y Desarrollo de Renovación Urbana, desde 2000 hasta finales de 2020 se aprobaron acumulativamente en toda Taiwán 751 casos de proyectos de reconstrucción bajo dicha ley, con una superficie total de 242,70 hectáreas, y 150 casos de proyectos de renovación y mantenimiento.[^4] Hasta el 13 de noviembre de 2024, la ley ha sufrido doce enmiendas.[^4]
 
-Después de la enmienda, el manejo de propietarios que no consentían añadió un procedimiento: la Junta de Revisión de Renovación Urbana debe determinar la razonabilidad del área de renovación, y debe celebrarse una audiencia cuando hay controversia. La controversia sobre demolición por cuenta propia también cambió de «el gobierno decide» a decisión judicial.[^1] Estos diseños respondieron a la preocupación central de la Interpretación 709, pero no respondieron la pregunta más fundamental: cuando los intereses de propiedad de la mayoría entran en conflicto con la voluntad habitacional de la minoría, ¿de qué lado debe estar la ley?
+Tras la enmienda, el tratamiento de los hogares que no están de acuerdo añadió un procedimiento más: el Comité de Deliberación de Renovación Urbana debe determinar la razonabilidad del alcance de la renovación, y en caso de controversia debe celebrarse una audiencia. Las controversias sobre demolición por poderes también pasaron de «decide el gobierno municipal» a ser resueltas por los tribunales.[^1] Estos diseños respondieron a las preocupaciones centrales de la Interpretación 709, pero no respondieron a la pregunta más fundamental: cuando los intereses patrimoniales de la mayoría chocan con la voluntad de residencia de la minoría, ¿de qué lado debe estar la ley?
 
-La respuesta del caso Wenlin Yuan es «mayoría más garantías procedimentales». Esta respuesta permitió que la renovación urbana de Taiwán se recuperara gradualmente del estancamiento posterior a 2012, y también hizo que el proceso de revisión de cada caso de renovación urbana fuera más largo y más costoso. El costo se distribuye entre todos, incluyendo aquellos que solo querían regresar a casa, pero esperaron más de cuatro años.
+La respuesta del caso Wenlin Yuan es «mayoría más garantías procesales». Esta respuesta permitió que la renovación urbana de Taiwán se recuperara lentamente del estancamiento posterior a 2012, pero también hizo que el proceso de deliberación de cada caso de renovación urbana se volviera más largo y más costoso. El coste lo comparten todos, incluidos aquellos hogares que solo querían volver a casa, pero esperaron más de cuatro años.
 
-**Lecturas relacionadas**:
+**Lecturas adicionales**:
 
-- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — Otra línea de política habitacional más allá del mercado inmobiliario
-- [Vivienda nacional y justicia habitacional](/es/society/public-housing-justice) — Historia de la política de vivienda nacional desde su construcción hasta su suspensión
+- [Precios de la vivienda, hipotecas y vivienda juvenil en Taiwán](/housing/) — Página temática: volver a situar la renovación urbana dentro de todo el sistema de vivienda, con columnas para préstamos, impuestos, transacciones de tierra y oferta de vivienda
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — Otra vía de política de vivienda fuera del mercado inmobiliario
+- [Vivienda pública y justicia habitacional](/es/society/public-housing-justice) — Historia de la política de vivienda pública desde su construcción hasta su suspensión
 
 ## Referencias
 

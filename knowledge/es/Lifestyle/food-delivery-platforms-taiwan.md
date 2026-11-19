@@ -1,175 +1,210 @@
 ---
-title: 'Plataformas de entrega a domicilio: un botón que llega a casa, ¿quién corre contra el tiempo de la ciudad?'
-description: 'Desde 2019, la entrega a domicilio pasó de ser un servicio nuevo a convertirse en una infraestructura básica diaria de las ciudades de Taiwán: los restaurantes la usan para llegar a nuevos clientes, los consumidores la usan para reducir la espera, pero los repartidores asumen, entre el móvil, la motocicleta y las calles, un tiempo y unos riesgos invisibles.'
+title: 'Plataformas de reparto: un botón y llega a casa, ¿quién corre por la ciudad?'
+description: 'Desde 2019, el reparto pasó de ser un servicio nuevo a convertirse en infraestructura cotidiana de las ciudades taiwanesas: los restaurantes lo usan para llegar a nuevos clientes, los consumidores para acortar la espera, y los repartidores asumen en sus móviles, motos y calles el tiempo y el riesgo invisibles. El 21 de octubre de 2026, la Comisión de Competencia (公平會) votó prohibir esta fusión de 193 000 millones de NT$ basándose en cuatro razones centradas en la participación del 13,1 % de Uber en Grab; foodpanda permanece en su marca original y el mercado mantiene su estructura de duopolio; la Comisión también señaló que en el futuro se podrá volver a presentar la solicitud.'
 date: 2026-08-15
 category: 'Lifestyle'
 tags:
   [
-    'Plataformas de entrega a domicilio',
-    'Repartidores',
-    'Trabajo en plataformas',
-    'Industria de la restauración',
-    'Vida urbana',
+    'plataformas de reparto',
+    'repartidores',
+    'trabajo en plataformas',
+    'industria de la restauración',
+    'vida urbana',
   ]
 subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-08-15
+lastVerified: 2026-11-04
 lastHumanReview: false
-readingTime: 8
+readingTime: 18
 curation: 'incubating'
+rationale:
+  why_this_hook: '從 2021 年凱道那場外送員遊行開場，因為這份工作先以道路風險被社會看見；合併案與專法都是同一條線後來的制度反應。'
+  whats_excluded: '不寫各平台抽成與外送員報酬的具體數字（現有來源沒有公開方案）、不預測公平會是否會因重新申請而改變結論。'
+  where_it_hedges: '2026 年 10 月 21 日的禁止結合引公平會新聞稿與中央社報導；公平會新聞稿頁本文為 JavaScript 產生、無法擷取內文，故理由與表決細節以中央社同口徑報導為據。Grab 的整併時程屬企業規劃，已註明最後未發生。'
+  whos_pushing_back: '認為禁止結合讓市場維持雙占、反而保護既有業者的讀者；以及主張只要附加負擔即可、不必禁止的讀者（委員會中那一票）。'
 translatedFrom: 'Lifestyle/外送平台.md'
-sourceCommitSha: '62194c6e6'
-sourceContentHash: 'sha256:4fcef48a4fb87a46'
-sourceBodyHash: 'sha256:13fc2011ed2fd336'
-translatedAt: '2026-09-11T15:30:49+08:00'
+sourceCommitSha: 'd0d78ae50'
+sourceContentHash: 'sha256:e9fe365d20b93673'
+sourceBodyHash: 'sha256:79a48da3f8317992'
+translatedAt: '2026-11-19T16:30:26+08:00'
 ---
 
-El 1 de mayo de 2021, los repartidores se unieron a las manifestaciones obreras en la Avenida Ketingdanglan. Al mismo tiempo, la comida en Taipéi seguía saliendo de los restaurantes, atravesando las calles y llegando a los hogares de quienes no podían o no querían salir. Ese año, el número de repartidores de comida en Taiwán se acercaba a las 88.000 personas. [^1]
+El 1 de mayo de 2021, los repartidores marcharon junto a la columna obrera por el bulevar Ketagalan. Al mismo tiempo, los platos de Taipéi seguían saliendo de los locales, cruzando las calles y llegando a la puerta de quienes no podían o no querían salir. Ese año, el número de repartidores de comida en Taiwán ya rozaba los 88 000. [^1]
 
-Hace unos años, pedir una comida era como entregar la vida al teléfono de una tienda vecina. Durante la pandemia, la proporción de establecimientos de restauración que ofrecían servicio a domicilio y entrega a domicilio subió del 43,3 % en abril de 2019 al 67,0 % en junio de 2021, durante la alerta de nivel tres. Incluso cuando en mayo de 2022 se recuperó gradualmente el consumo en el local, el 64,6 % de los restaurantes seguían ofreciendo servicio de entrega. [^2]
+Unos años antes, pedir un plato era como confiar la vida al teléfono del restaurante de la esquina. Llegada la pandemia, la proporción de establecimientos de restauración que ofrecían entrega a domicilio y reparto pasó del 43,3 % en abril de 2019 al 67,0 % en junio de 2021, durante la alerta de nivel tres. Incluso en mayo de 2022, cuando el consumo en el local se reanudó gradualmente, el 64,6 % de los establecimientos seguía ofreciendo servicio de reparto. [^2]
 
-> Nota de la imagen: Un informe de la Agencia Central de Noticias (CNA) señala que, si la Comisión de Comercio Justo aprueba la revisión, Grab tenía previsto completar la transacción en la segunda mitad de 2026. La información de la imagen y los eventos deben basarse en el artículo de la CNA. [^10]
+> Ilustración: la adquisición del negocio de foodpanda en Taiwán por parte de Grab fue prohibida por la Comisión de Competencia el 21 de octubre de 2026; el calendario original de cierre en la segunda mitad de 2026 e integración en 2027 ya no se cumple. La imagen y la información del caso se basan en el artículo de la Agencia Central de Noticias. [^10][^16]
 
-La entrega a domicilio se convierte así en algo más que «alguien te lleva la comida». Conecta la cocina del restaurante, el algoritmo de la plataforma, el móvil y la motocicleta del repartidor, las calles de la ciudad y la puerta donde se recibe el pedido en una misma línea. Esta línea acorta la espera, pero también concentra los costes, antes dispersos en diferentes lugares, sobre una persona invisible.
+El reparto, por tanto, no es solo «alguien te trae la comida». Conecta en una sola línea la cocina del restaurante, el algoritmo de la plataforma, el móvil y la moto del repartidor, las calles de la ciudad y la puerta de quien recibe. Esa línea acorta la espera, pero también concentra en una persona invisible los costes que antes estaban dispersos en distintos lugares.
 
-📝 Nota del curador: Lo más interesante de la entrega a domicilio no es lo cómoda que es, sino quién realiza realmente esa «comodidad».
+📝 Nota del curador: lo que más merece la pena escribir sobre el reparto no es lo cómodo que resulta, sino quién completa realmente esa «comodidad».
 
-## La cama del estante de hierro en el hostal juvenil recibe un ingreso por entregas
+## Sobre la litera de un albergue juvenil, aterrizó un ingreso de reparto
 
-En 2021, la plataforma de innovación social entrevistó a un joven que usaba el seudónimo de «Ah Xiang». Durante el día trabajaba en tareas varias en un restaurante y, por la noche, repartía comida en bicicleta. Su vivienda no era un apartamento con puerta, sino la litera superior, a unos 300 centímetros del suelo, en un hostal juvenil del centro de Taipéi. Las plazas cuestan entre 6.000 y 8.000 dólares taiwaneses al mes, no requieren un depósito de alquiler y están cerca del centro de la ciudad donde recibe los pedidos. [^3]
+En 2021, la plataforma de innovación social entrevistó a un joven bajo el seudónimo de «A-Xiang». De día hacía tareas varias en un restaurante; de noche repartía en bicicleta. No vivía en un estudio con puerta, sino en la litera superior —a unos 300 cm del suelo— de un albergue juvenil en el centro de Taipéi. La cama costaba unos 6 000 a 8 000 NT$ al mes, sin fianza de alquiler, y cerca de la zona donde aceptaba pedidos. [^3]
 
-Esta escena transforma el «trabajo flexible» en algo tangible: una cama, una bicicleta, un móvil y más de dos horas adicionales en línea después del trabajo. Para Ah Xiang, el ingreso por entregas había sido una forma de pagar el préstamo estudiantil, ahorrar e incluso mudarse de la litera superior. Sin embargo, tras los cambios en el cálculo salarial por parte de la plataforma, se enfrentó a esperas vacías, menos pedidos y una reducción de ingresos, y la flexibilidad original se estrechó. [^3]
+Esta escena traduce el «trabajo flexible» en algo tangible: una cama, una bicicleta, un móvil y dos horas más conectado tras el turno oficial. Para A-Xiang, el ingreso del reparto servía para pagar el préstamo estudiantil, ahorrar e incluso soñar con mudarse de la litera. Cuando la plataforma cambió el cálculo del salario, se topó con esperas en vano, menos pedidos y una merma de ingresos; la flexibilidad original también se estrechó. [^3]
 
-Este caso no representa a todos los repartidores, pero nos recuerda que la «libertad» en las plataformas nunca es abstracta. Depende del alquiler, del préstamo estudiantil, del transporte y del siguiente pedido. Cuando uno de estos eslabones cambia, lo que se llama libertad puede convertirse en la necesidad de seguir aceptando pedidos.
+Un caso no representa a todos los repartidores, pero nos recuerda que la «libertad» en la plataforma nunca flota en el aire. Depende del alquiler, el préstamo estudiantil, el vehículo y el siguiente pedido. Cuando uno de esos eslabones se mueve, la supuesta libertad puede volverse obligación de seguir aceptando pedidos.
 
-## Un plato de comida atraviesa toda una ciudad
+## Un plato en realidad atraviesa toda una ciudad
 
-Un estudio de 2023 sobre repartidores en Taipéi, que entrevistó a repartidores, restaurantes y personal de la plataforma, y en el que el investigador participó directamente en el trabajo de entrega, describe la entrega como un conjunto de configuraciones compuestas por plataformas digitales, móviles, motocicletas, equipos de transporte, calles, edificios, usuarios y restaurantes. [^4]
+Una investigación sobre repartidores de Taipéi publicada en 2023 entrevistó a repartidores, comerciantes y personal de plataformas, y la propia investigadora participó en el trabajo de reparto. El estudio describe el reparto como un ensamblaje compuesto por plataforma digital, móvil, moto, equipamiento de transporte, calles, edificios, usuarios y comerciantes. [^4]
 
-Esta observación es importante porque los repartidores no trabajan solo «dentro de la plataforma». Deben encontrar la entrada del restaurante, decidir si el edificio permite estacionar la motocicleta, reconocer la dirección y el piso, y gestionar la fricción entre el ascensor, la lluvia, la motocicleta y la caja térmica. Las brechas que el sistema no ha procesado de antemano suelen ser cubiertas por la persona que se está moviendo. El estudio señala que la estructura de aceleración de las ciudades de trabajo por pieza y vehículos móviles puede empujar más cargas y riesgos de vuelta sobre los repartidores. [^4]
+Esta observación importa porque el repartidor no trabaja solo «en la plataforma». Debe hallar la entrada del local, juzgar si puede aparcar en el edificio, identificar la dirección y el piso, lidiar con la fricción entre ascensor, lluvia, moto y bolsa térmica. Los huecos que el sistema no ha previsto los suele cubrir la persona que está en movimiento. Por eso el estudio señala que el pago por pieza y la estructura de aceleración de la ciudad de las motos pueden volcar más carga y riesgo sobre el repartidor. [^4]
 
-Los restaurantes también se incluyen en esta configuración. La Oficina de Estadísticas del Ministerio de Economía señala que la pandemia y los cambios en los hábitos de consumo han acelerado la adopción de redes sociales, pagos móviles y pedidos en línea por parte de la industria de la restauración. La entrega a domicilio ha pasado de ser una medida temporal a convertirse gradualmente en una estrategia operativa para ampliar el alcance de ventas. [^2]
+Los comerciantes también quedan insertos en ese ensamblaje. La Oficina de Estadística del Ministerio de Economía indica que la pandemia y el cambio de hábitos de consumo aceleraron la adopción por la restauración de redes sociales, pagos móviles y pedidos en línea. El reparto pasó de ser una respuesta temporal a convertirse progresivamente en un modo operativo para ampliar el alcance de las ventas. [^2]
 
-📝 Nota del curador: La plataforma no reemplaza al restaurante de la esquina; lo que hace es reconectar el restaurante de la esquina con el salón de cada persona.
+📝 Nota del curador: la plataforma no ha sustituido al restaurante de la esquina; lo que ha hecho es volver a conectar ese restaurante con el salón de cada persona.
 
-| Tiempo y ubicación | Cambio verificable en la página                                                              |
-| ------------------ | -------------------------------------------------------------------------------------------- |
-| Abril de 2019      | La proporción de restaurantes que ofrecen servicio a domicilio y entrega es del 43,3 %. [^2] |
-| Abril de 2020      | Esta proporción sube al 56,0 %. [^2]                                                         |
-| Junio de 2021      | Alcanza el 67,0 % durante la alerta de nivel tres. [^2]                                      |
-| Mayo de 2022       | Se mantiene en el 64,6 % tras la recuperación gradual del consumo en el local. [^2]          |
+| Tiempo y lugar | Cambio verificable en la página                                                                          |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Abril de 2019  | La proporción de establecimientos de restauración con entrega a domicilio y reparto era del 43,3 %. [^2] |
+| Abril de 2020  | Esa proporción subió al 56,0 %. [^2]                                                                     |
+| Junio de 2021  | Durante la alerta de nivel tres trepó al 67,0 %. [^2]                                                    |
+| Mayo de 2022   | Tras la reanudación gradual del consumo en local, se mantuvo en el 64,6 %. [^2]                          |
 
-Estos números no significan que todos pidan entregas a domicilio todos los días, ni permiten deducir directamente la cuota de mercado de la plataforma. Solo indican una cosa más estrecha, pero más fiable: para la industria de la restauración, llevar la comida a casa ya no es solo un servicio adicional ocasional.
+Estas cifras no significan que todo el mundo pida reparto cada día, ni permiten deducir directamente la cuota de mercado de las plataformas. Solo dicen una cosa más estrecha, pero más fiable: para la restauración, llevar la comida a casa ya no es un servicio extra de uso ocasional.
 
-## Las calles de Taipéi ven los riesgos primero
+## Las calles de Taipéi vieron primero el riesgo
 
-La entrega lleva la comida a la puerta y el trabajo a las calles. Los datos de verificación interinstitucionales publicados por la Dirección de Carreteras del Ministerio de Transporte muestran que, entre enero y septiembre de 2021, los accidentes de motocicletas de plataformas de entrega en Taipéi sumaron 1.567 casos, con 1.212 personas heridas o fallecidas. En el mismo período, la policía sancionó 7.113 infracciones de las plataformas de entrega. Estas cifras solo cubren una región y un período específicos, por lo que no deben generalizarse como estadísticas anuales de todo el país, pero son suficientes para demostrar que la seguridad vial no es un problema que se pueda resolver solo con la precaución individual del repartidor. [^5]
+El reparto lleva la comida a la puerta, pero también lleva el trabajo a la calle. Los datos de inspección interinstitucional publicados por la Dirección General de Carreteras del Ministerio de Transporte muestran que, entre enero y septiembre de 2021, los accidentes de moto de plataformas de reparto en la ciudad de Taipéi sumaron 1 567, con 1 212 muertos y heridos. En el mismo periodo, la policía sancionó 7 113 infracciones de repartidores de plataformas. Estas cifras cubren solo una zona y un periodo determinados, no pueden extrapolarse a estadísticas de todo Taiwán durante todo el año, pero bastan para mostrar que la seguridad vial no es un problema que baste la prudencia individual del repartidor. [^5]
 
-En el mismo comunicado de prensa, la Dirección de Carreteras señaló que las motocicletas de las plataformas de entrega utilizan las vías públicas para el transporte, y que las empresas deben asumir la responsabilidad de supervisión y gestión. Las medidas posteriores incluyen formación práctica en conducción segura de motocicletas y la obligación de que los repartidores que sufren un accidente asistan a una formación de refuerzo. El punto clave de este giro es que la entrega ya no se ve solo como una transacción entre la plataforma y el consumidor, sino que se reinscribe en el contexto de las vías públicas y la seguridad pública. [^5]
+La Dirección General de Carreteras señala en la misma nota de prensa que, al usar la moto en la vía pública para el transporte, las empresas deben asumir la responsabilidad de supervisión y gestión. Las medidas posteriores incluyen formación presencial de conducción segura y la exigencia de reciclaje para los repartidores que sufran accidentes. La clave aquí es que el reparto deja de ser visto solo como una transacción entre plataforma y consumidor para situarse de nuevo en el contexto de la vía pública y la seguridad pública. [^5]
 
-Una carta al lector publicada en 2021 por _The Reporter_ (報導者) recopiló otro conjunto de datos del lugar de trabajo: el autor citó una encuesta de 2020 sobre repartidores, que indicaba que el 24 % de los encuestados realizaba 50 horas de entregas a la semana y que el 81,7 % temía sufrir un accidente de tráfico. El artículo también señalaba que la cobertura real de la educación en seguridad, el equipo de protección y la prevención de riesgos de altas y bajas temperaturas no era uniforme. Esta es una recopilación y juicio de los defensores, que debe leerse junto con las estadísticas oficiales, pero da forma a la presión laboral detrás de la frase «apúrate un poco». [^1]
+Una carta de lectores de _The Reporter_ en 2021 recopiló otro conjunto de datos del terreno laboral: el autor cita una encuesta a repartidores de 2020 en la que el 24 % de los encuestados repartía 50 horas a la semana, y el 81,7 % temía sufrir un accidente de tráfico. El artículo también apunta que la cobertura real de educación en seguridad, equipos de protección y prevención de riesgos por temperaturas extremas no es uniforme. Es una síntesis y valoración de defensores de derechos, que debe leerse aparte de las estadísticas oficiales, pero da contorno a la presión laboral detrás de «date prisa». [^1]
 
-## La palabra «contratación» (承攬) no abarca toda la calle
+## Las dos palabras «contratación» no caben en toda la calle
 
-En 2019, un artículo publicado por la Línea Laboral de Taiwán (台灣勞工陣線) registraba que la Oficina de Seguridad y Salud Ocupacional del Ministerio de Trabajo había realizado inspecciones laborales especiales contra foodpanda y Uber Eats, y había determinado que existía una relación laboral entre los repartidores y la plataforma. La plataforma, sin embargo, argumentaba que se trataba de una contratación o una mera intermediación. El artículo también recopilaba cómo uniformes, cajas térmicas estandarizadas, turnos y la prohibición de rechazar pedidos se convertían en puntos de disputa para determinar la dirección y supervisión, y la subordinación organizativa. [^6]
+En 2019, un artículo de la Alianza Laboral de Taiwán registró que la Administración de Seguridad y Salud Laboral del Ministerio de Trabajo lanzó una inspección especial contra foodpanda y Uber Eats, determinando que existía relación laboral entre repartidores y plataformas. Las plataformas sostienen que es una relación de contratación o mera intermediación. El artículo también 정리 cómo el uniforme, la bolsa térmica estándar, los turnos y la imposibilidad de rechazar pedidos se convierten en puntos de disputa para juzgar la subordinación y la dirección. [^6]
 
-Esto no es una mera disputa de términos. Si una persona puede conectarse en línea por su cuenta, pero está influenciada en la práctica por la tasa de aceptación de pedidos, los turnos, el algoritmo de remuneración, las evaluaciones de servicio y los mecanismos de suspensión, entonces «ser tu propio jefe» y «trabajo controlado por la plataforma» pueden coexistir. La interpretación judicial n.º 740 de 2016, que abordaba la determinación de los contratos laborales, también enfatizaba que no se debía mirar solo el nombre del contrato, sino observar la forma de prestación de los servicios y los riesgos comerciales. [^7]
+No es una mera disputa nominal. Si una persona en apariencia puede conectarse cuando quiera, pero en la práctica está sujeta a la tasa de aceptación, los turnos, el algoritmo de remuneración, la valoración del servicio y el mecanismo de desactivación, entonces «ser su propio jefe» y «que el trabajo esté controlado por la plataforma» pueden coexistir. La Interpretación n.º 740 de 2016 del Consejo de Grandes Jueces, sobre la determinación del contrato laboral, también subraya que no basta mirar el nombre del contrato, sino observar la forma de prestación del trabajo y el riesgo empresarial. [^7]
 
-El estudio de Taipéi recogido por Airiti describe esta contradicción de forma más cercana a la calle: los repartidores sí necesitan juicio in situ, movilidad y capacidad de cubrir huecos, por lo que tienen agencia. Pero esta agencia también puede ser absorbida por el sistema de trabajo por pieza y la aceleración de la ciudad, convirtiéndose finalmente en un coste del sistema asumido por el individuo. [^4]
+La investigación de Taipéi recogida en Airiti expresa esta contradicción más cerca de la calle: el repartidor necesita efectivamente juicio in situ, movimiento y rellenar huecos, por lo que tiene agencia. Pero esa agencia puede ser absorbida por el pago por pieza y la ciudad acelerada, acabando por hacer que el individuo asuma los costes del sistema. [^4]
 
-📝 Nota del curador: La verdadera pregunta no es si los repartidores tienen libertad, sino quién debe pagar cuando esa libertad falla.
+📝 Nota del curador: el verdadero problema no es si el repartidor tiene o no libertad, sino quién debe pagar cuando la libertad falla.
 
-## Grab adquiere foodpanda: detrás del botón cambia una empresa
+## Grab compra foodpanda, detrás del botón cambia la empresa
 
-En marzo de 2026, Grab anunció la adquisición del negocio taiwanés de foodpanda por aproximadamente 600 millones de dólares (unos 19.300 millones de dólares taiwaneses). El 27 de marzo del mismo año, Grab presentó la solicitud a la Comisión de Comercio Justo (公平會). La Comisión aceptó formalmente la solicitud a mediados de junio, indicando que la revisión se centrará en el impacto en el mercado tras la fusión, las preocupaciones de monopolio y la capacidad de los nuevos competidores para entrar en el mercado. [^10]
+En marzo de 2026, Grab anunció la compra del negocio de foodpanda en Taiwán por unos 600 millones de dólares, unos 193 000 millones de NT$. El 27 de marzo, Grab presentó la solicitud a la Comisión de Competencia. Esta aceptó formalmente el caso a mediados de junio, indicando que la revisión se centraría en el impacto de mercado tras la concentración, las sospechas de monopolio y la capacidad de entrada de nuevos competidores. [^10]
 
-Esta transacción está relacionada con la vida cotidiana no solo porque los logotipos de dos marcas puedan cambiar de lugar. Los datos de restaurantes asociados, usuarios, repartidores y pedidos que la plataforma controla se integrarán con la fusión de la plataforma. Los restaurantes podrían enfrentar nuevas comisiones y reglas de visibilidad; los repartidores, nuevos sistemas de asignación de pedidos y remuneración; y los consumidores, nuevas opciones en un mercado más concentrado. Los tres últimos puntos son impactos en la vida que requieren revisión, no resultados ya ocurridos, por lo que no se debe escribir la especulación como hecho.
+Este negocio afecta a la vida diaria no solo porque dos logotipos puedan cambiar de sitio. Los restaurantes asociados, usuarios, repartidores y datos de pedidos que posee la plataforma se moverán con la integración. Los comerciantes pueden toparse con nuevas comisiones y reglas de exposición, los repartidores con nueva lógica de asignación y sistema de pagos, y los consumidores con un mercado más concentrado donde volver a elegir. Estos tres últimos son impactos vitales que requieren revisión, no resultados ya ocurridos; no se debe escribir la especulación como hecho.
 
-El 22 de julio de 2026, la Comisión de Comercio Justo anunció oficialmente que prorrogaba el período de revisión en 60 días hábiles hasta el 27 de octubre. La Comisión señaló que la estructura del mercado tras la fusión mantiene la situación de «doble dominio» previa a la fusión. Al mismo tiempo, Uber posee el 13 % de las acciones y el 3,7 % de los derechos de voto de Grab; la Comisión necesita analizar si este vínculo accionario afecta el incentivo y la capacidad de competencia entre Uber Eats y Grab, y si podría formar efectos unilaterales o conjuntos. [^11] [^14]
+El 22 de julio de 2026, la Comisión de Competencia anunció formalmente la prórroga de 60 días hábiles del periodo de revisión, hasta el 27 de octubre. La Comisión señaló que la estructura de mercado tras la concentración mantiene la situación de «duopolio» anterior. Al mismo tiempo, Uber posee el 13 % de las acciones y el 3,7 % de los derechos de voto de Grab, por lo que la Comisión debe analizar más a fondo si ese vínculo accionarial afecta a los incentivos y la capacidad de competencia entre Uber Eats y Grab, y si puede generar efectos unilaterales o coordinados. [^11] [^14]
 
-Grab declaró a la CNA que, si la transacción es aprobada, se espera completar la operación en la segunda mitad de 2026 y la integración de la plataforma en la primera mitad de 2027, trasladando completamente a los usuarios originales de foodpanda a la aplicación de Grab. Esta es una planificación propuesta por la empresa, no un cronograma ya aprobado por la Comisión de Comercio Justo. Hasta que la revisión no finalice, los consumidores no deben considerar «el traslado seguro» como un resultado ya ocurrido. [^13]
+Grab declaró a la Agencia Central de Noticias que, de aprobarse la operación, preveía cerrar la transacción en la segunda mitad de 2026 e integrar las plataformas en la primera mitad de 2027, migrando a todos los usuarios de foodpanda a la aplicación de Grab. Ese es el plan de la empresa, no un calendario ya aprobado por la Comisión. Mientras la revisión no termine, los consumidores no pueden dar por hecho que «seguro que migrarán». Ese plan finalmente no ocurrió; la Comisión decidió prohibir la concentración el 21 de octubre. [^13] [^16]
 
-El mismo informe de la CNA también recopila las declaraciones de Grab sobre gobernanza y estructura accionaria: la sede de Grab está en Singapur y cotiza en el Nasdaq de Estados Unidos. Uber posee aproximadamente el 13 % de las acciones ordinarias, pero su poder de voto es inferior al 4 %; Uber no participa en las operaciones diarias de Grab, y los directores de Grab nominados por Uber se abstienen de todas las decisiones del consejo de administración relacionadas con Taiwán. Estas son declaraciones públicas de Grab, y la Comisión de Comercio Justo debe seguir juzgando de forma independiente según el control sustantivo y los efectos de competencia. [^13]
+El mismo despacho de la Agencia Central de Noticias recoge la versión de Grab sobre gobernanza y participación: Grab tiene su sede en Singapur y cotiza en el Nasdaq de EE. UU. Uber posee aproximadamente el 13 % de acciones ordinarias, pero con derechos de voto inferiores al 4 %; Uber no participa en la gestión diaria de Grab, y el consejero propuesto por Uber se abstiene en todas las decisiones del consejo relacionadas con Taiwán. Son explicaciones públicas de Grab; la Comisión debe juzgar independientemente basándose en el control real y los efectos sobre la competencia. [^13]
 
-La otra clave de la transacción no es «de qué color cambiará la aplicación de quién», sino cómo se reorganizan los datos, los restaurantes asociados, los repartidores y las relaciones con los consumidores. El informe de la CNA indica que la planificación de la fusión de Grab y foodpanda implica el traslado de los usuarios originales de foodpanda a Grab. En cuanto a cómo cambiarán las comisiones, la asignación de pedidos, la remuneración y los contratos con los restaurantes, las fuentes actuales no proporcionan un plan determinado, por lo que este artículo no escribe los posibles impactos como hechos consumados. [^13]
+Otro punto clave de la operación no es «de qué color será el icono de la App», sino cómo se reordenan los datos, los restaurantes asociados, los repartidores y la relación con los consumidores. La Agencia Central de Noticias indica que el plan de integración de Grab y foodpanda implica la migración de los usuarios de foodpanda a Grab. En cuanto a cómo cambiarán las comisiones, la asignación, la remuneración y los contratos con los restaurantes, las fuentes actuales no ofrecen un esquema definitivo, por lo que este artículo no presenta los posibles impactos como hechos consumados. [^13]
 
-> Nota de la imagen: La foto ilustrativa de la transacción adjunta al informe de la CNA del 30 de marzo de 2026 corresponde directamente al evento de la solicitud de adquisición del negocio taiwanés de foodpanda por parte de Grab. [^13]
+> Ilustración: la foto esquemática de la transacción adjunta al despacho de la Agencia Central de Noticias del 30 de marzo de 2026 corresponde directamente al caso de la solicitud de Grab para adquirir foodpanda Taiwán. [^13]
 
-Este caso no debe confundirse con el de 2024, cuando Uber Eats adquirió directamente foodpanda. En un artículo público de 2024, la Comisión de Comercio Justo indicó que los perjuicios para la competencia del mercado de la fusión de Uber Eats y foodpanda superaban los beneficios económicos generales, por lo que prohibió dicha fusión. El caso de Grab sigue en revisión el 15 de agosto de 2026, y no se puede preescribir el mismo resultado. [^12]
+Este caso tampoco debe confundirse con el de 2024, cuando Uber Eats intentó adquirir directamente foodpanda. La Comisión de Competencia señaló en un artículo público de 2024 que los perjuicios anticompetitivos de la concentración entre Uber Eats y foodpanda superaban el beneficio económico global, por lo que prohibió esa concentración. El caso Grab seguía en revisión el 15 de agosto de 2026; el 21 de octubre la Comisión dictó resolución de prohibición, pero con motivos distintos a los de 2024: esta vez la clave fue el vínculo accionarial entre Grab y Uber, no la simple suma de cuotas de mercado de dos plataformas de reparto en Taiwán. [^12][^16]
 
-📝 Nota del curador: La «elección» en el mercado de las entregas a domicilio no solo aparece en la pantalla del móvil del consumidor, sino también en si existe suficiente distancia de competencia entre las plataformas.
+📝 Nota del curador: la «elección» en el mercado del reparto no solo aparece en la pantalla del móvil del consumidor, también en si entre plataformas queda todavía suficiente distancia competitiva.
+
+## Veintiuno de octubre, la Comisión dice no
+
+El 21 de octubre de 2026, la Comisión de Competencia celebró sesión para revisar el caso de concentración entre Grab y Fu Pang Da (foodpanda) y votó: 3 comisionados consideraron que debía prohibirse, 1 que debía aprobarse con cargas, y 1 se abstuvo sin participar. Finalmente, con cuatro razones, se prohibió la concentración, y esa misma tarde el portavoz Xin Zhi-zhong lo explicó públicamente. [^15][^16]
+
+La preocupación central de la Comisión no es «qué cuota de mercado tendría Grab en Taiwán tras comprar foodpanda». Señala que Uber, matriz de Uber Eats, posee alrededor del 13,1 % de Grab; el consejero delegado de Uber fue durante mucho tiempo consejero de Grab; ambas tienen interacciones y cooperación comercial estrechas en otros mercados; aunque Grab adopta una estructura de doble clase de acciones y los derechos de voto de Uber son solo del 3,9 %, ese vínculo accionarial cambia la estrategia de interacción de ambas empresas, armonizando sus intereses. [^16]
+
+Las cuatro razones son: reduce el incentivo de Uber Eats a competir activamente; reduce el incentivo de Grab a competir activamente; el historial de conducta e interacción previas aumenta el riesgo de coordinación; falta de contrapoder que rompa el mantenimiento de la conducta coordinada. La Comisión cita expresamente el caso de 2018 en que Grab recibió el negocio de Uber en el Sudeste Asiático, indicando que ambas partes, sabiendo o debiendo saber que podía infringir la ley de competencia, optaron por ejecutar la transacción de forma difícilmente reversible. [^16]
+
+La Comisión también evaluó la vía de la «aprobación condicionada» y discutió en varias ocasiones medidas correctivas con los notificantes. Estos propusieron diluir la participación, limitar que personal de Uber ocupe cargos en el consejo de Grab y limitar el intercambio de información sensible para la competencia; la Comisión consideró que esas medidas no garantizan una ejecución efectiva ni disipan las dudas; su postura es que hay que reducir aún más la participación de Uber en Grab, incluso deshacerse de las acciones, para poder reducir el riesgo de coordinación. [^16]
+
+La resolución final, amparada en el artículo 13, párrafo 1 de la Ley de Comercio Justo, prohíbe la concentración porque los perjuicios a la competencia superan el beneficio económico global, y las medidas comprometidas no bastan para asegurar que el beneficio global supere los perjuicios. [^16]
+
+Grab respondió ese mismo día por escrito, expresando su «decepción por este resultado», decepcionada de no poder llevar a Taiwán, según lo planeado, servicios innovadores, oportunidades de ingresos razonables y estándares de servicio optimizados para consumidores, repartidores y comerciantes; y recalcó que su negocio principal en el Sudeste Asiático sigue fuerte y que continuará invirtiendo en su hoja de ruta de crecimiento prevista. [^17] El mercado de reparto de Taiwán mantiene así su estructura de duopolio original, y foodpanda sigue operando bajo su marca original.
+
+```tw-timeline
+Adquisición de foodpanda Taiwán por Grab: del anuncio a la prohibición
+2026-03 | Grab anuncia la adquisición | Unos 600 millones USD, unos 193 000 millones NT$
+2026-03-27 | Presentación a la Comisión de Competencia | Inicio del procedimiento de revisión de concentración
+2026-06-16 | Entrega de documentación completa | La Comisión acepta formalmente el caso
+2026-07-22 | Prórroga de 60 días hábiles | Plazo máximo hasta el 27 de octubre
+2026-10-21 | Resolución de prohibición | Votación 3:1, 1 comisionado se abstiene
+Fuente: notas al pie 10, 11, 14, 15, 16 del artículo
+```
 
 ## Cuando la plataforma se vuelve cotidiana, el sistema empieza a alcanzarla
 
-El Portal de Entrada del Gobierno (政府入口網) recopiló en junio de 2026 los derechos laborales de los repartidores y trabajadores autónomos, situando la seguridad social y de salud laboral, el seguro de accidentes laborales de los trabajadores y la zona de derechos de los repartidores de plataformas de alimentos en el mismo contexto de servicio. Esta recopilación en sí misma revela un cambio institucional: los repartidores ya no son solo una identidad difusa en la industria de las startups, sino trabajadores que deben ser incluidos en los sistemas de seguro social, accidentes laborales y protección laboral. [^8]
+El portal gubernamental recopiló en junio de 2026 los derechos laborales de repartidores y trabajadores autónomos, colocando en un mismo contexto de servicio el seguro laboral y de salud, el seguro de accidentes laborales y la zona especial de derechos de los repartidores de plataformas de comida. Esa misma recopilación revela el cambio institucional: el repartidor ya no es solo una identidad difusa en la industria emergente, sino un trabajador que debe integrarse en los sistemas de seguros sociales, accidentes laborales y protección laboral. [^8]
 
-Pero que el sistema se escriba no significa que los riesgos hayan desaparecido. Un artículo de _The Reporter_ menciona que, después de 2019, el gobierno publicó sucesivamente guías de seguridad para la operación de entrega de alimentos, que cubren la prevención de accidentes de tráfico, riesgos de calor, asignación de pedidos y seguros. El mismo artículo cuestiona, mediante datos de encuestas, la brecha entre la educación y la protección reales. Las normas, la ejecución y las calles que los repartidores encuentran cada día aún necesitan ser examinadas juntas. [^1]
+Pero que el sistema se escriba no significa que el riesgo haya desaparecido. El artículo de _The Reporter_ menciona que, desde 2019, el gobierno ha publicado sucesivamente directrices de seguridad operativa para el reparto de comida, cubriendo prevención de accidentes de tráfico, riesgos por calor, asignación de pedidos y seguros. El mismo artículo, con datos de encuesta, cuestiona la brecha entre la formación y la protección reales. La normativa, su ejecución y las calles que el repartidor pisa cada día siguen necesitando ser examinadas juntas. [^1]
 
-La recopilación pública de temas del Yuan Legislativo (立法院) también muestra que la gobernanza de las plataformas de entrega no solo implica derechos laborales, sino también competencia de mercado, restaurantes, consumidores e impactos de fusiones de plataformas. La página de temas registra las dudas de los legisladores sobre la concentración del mercado y la influencia de las plataformas transnacionales, así como la propuesta de establecer una ley especial para entregas. Estas son declaraciones públicas de figuras políticas, no conclusiones judiciales o económicas ya establecidas. [^9]
+La recopilación pública de temas del Yuan Legislativo también muestra que la gobernanza de las plataformas de reparto no atañe solo a los derechos laborales, sino también a la competencia de mercado, los restaurantes, los consumidores y el impacto de las fusiones de plataformas. La página registra las dudas de los legisladores sobre la concentración de mercado y la influencia de plataformas transnacionales, así como la propuesta de crear una ley especial para el reparto. Son manifestaciones públicas de figuras políticas, no conclusiones judiciales o económicas ya firmes. [^9]
 
-La plataforma de entrega a domicilio se convierte así en una infraestructura de vida muy especial: cuando la usamos, solo vemos el estado de la comida pasar de «preparándose» a «entregado». Pero entre esos dos estados, están la velocidad de expedición del restaurante, la lógica de asignación de pedidos de la plataforma, la ruta del repartidor, la seguridad de las calles y si el sistema realmente permite que las personas reciban protección tras un accidente.
+La plataforma de reparto se ha convertido así en una infraestructura vital muy particular: al usarla, solo vemos el estado del pedido pasar de «preparando» a «entregado». Pero entre esos dos estados están la velocidad de salida de platos del comercio, la lógica de asignación de la plataforma, la ruta del repartidor, la seguridad de la calle y si el sistema realmente permite que alguien esté cubierto tras un accidente.
 
-## Tres tipos de espera que no muestra la pantalla del móvil
+## Tres esperas que la pantalla del móvil no muestra
 
-Lo que ve el consumidor es una barra de progreso simple: el restaurante acepta el pedido, se prepara la comida, el repartidor recoge el pedido, está por llegar. Pero la investigación de Airiti recuerda que detrás de estos estados no hay un flujo único, sino la coordinación de muchos objetos y personas. Una dirección en el móvil debe traducirse en la ubicación real de la puerta del restaurante, el ascensor, las escaleras, el personal de seguridad y el destinatario. [^4]
+El consumidor ve una barra de progreso simple: el comercio acepta, el plato se prepara, el repartidor recoge, está por llegar. Pero la investigación de Airiti recuerda que detrás de esos estados no hay un único flujo, sino la coordinación de muchos objetos y personas. Una dirección en el móvil debe traducirse en la puerta del local, el ascensor, la escalera, la seguridad y la posición real del destinatario. [^4]
 
-La espera que ve el restaurante también es diferente. La Oficina de Estadísticas del Ministerio de Economía sitúa la proporción de restaurantes que ofrecen entregas junto con los pedidos en línea, los pagos móviles y la gestión de redes sociales, lo que muestra que la industria de la restauración no enfrenta una sola elección de «si subir a la plataforma», sino cómo conectar la cocina, los pedidos, el pago y la distribución. [^2]
+La espera del comercio tampoco es igual. La Oficina de Estadística del Ministerio de Economía pone la proporción de establecimientos con reparto junto a los pedidos en línea, el pago móvil y la gestión en redes, mostrando que la restauración no enfrenta una sola opción de «subirse o no a la plataforma», sino cómo conectar cocina, pedidos, pagos y reparto. [^2]
 
-El repartidor enfrenta un tercer tipo de espera: esperar a que la plataforma asigne un pedido, esperar a que el restaurante expida la comida, esperar al ascensor, esperar a que aparezca en la calle un hueco seguro para pasar. Estos tiempos no siempre son visibles en un solo pedido, pero afectan cuántos pedidos se pueden completar en un día, así como los ingresos y la fatiga. En el reportaje de personajes, las esperas vacías y la escasez de pedidos que Ah Xiang encontró son precisamente ese tiempo oculto por la interfaz que emerge de repente. [^3]
+El repartidor afronta una tercera espera: espera que la plataforma asigne, espera que el comercio sirva, espera el ascensor, espera que la calle ofrezca un hueco seguro para pasar. Esos tiempos no siempre son visibles en un solo pedido, pero afectan a cuántos pedidos se completan en un día, y por tanto a los ingresos y la fatiga. En el reportaje personal, las esperas en vano y la escasez de pedidos que vive A-Xiang son precisamente ese tiempo oculto por la interfaz que emerge de repente. [^3]
 
-Por tanto, la eficiencia de la plataforma de entrega a domicilio no puede medirse solo con «cuántos minutos pasan desde el pedido hasta la entrega». Al mirar juntos la investigación, las estadísticas y las entrevistas de personajes, se descubre que una parte de la eficiencia en realidad es completada por la capacidad de cubrir huecos in situ del repartidor. [^2] [^3] [^4]
+Por tanto, la eficiencia de la plataforma de reparto no puede medirse solo en «cuántos minutos desde el pedido hasta la entrega». Al poner juntos la investigación, las estadísticas y los reportajes personales, se descubre que parte de esa eficiencia la completan in situ los repartidores rellenando huecos. [^2] [^3] [^4]
 
-## La ciudad empieza a hacerse responsable del botón
+## La ciudad empieza a responder por el botón
 
-La verificación de la Dirección de Carreteras del Ministerio de Transporte incluye a las plataformas de entrega en la gestión vial, en lugar de atribuir el accidente solo al conductor. El Portal de Entrada del Gobierno incluye a los repartidores en el contexto de servicios de la seguridad social, salud laboral y el seguro de accidentes laborales. Dos lenguajes institucionales, uno que trata las calles y otro que trata el trabajo, juntos se acercan más a la posición real de la entrega. [^5] [^8]
+La inspección de la Dirección General de Carreteras sitúa a la plataforma de reparto en la gestión vial, en lugar de achacar el accidente solo a quien conduce la moto. El portal gubernamental sitúa al repartidor en el contexto de servicio del seguro laboral, de salud y de accidentes laborales. Dos lenguajes institucionales, uno gestiona la calle, otro el trabajo; juntos se acercan más a la posición real del reparto. [^5] [^8]
 
-La discusión sobre fusiones y concentración de mercado presentada en la recopilación de temas del Yuan Legislativo también muestra que la plataforma no es una pantalla neutra. Cuando el tamaño de la plataforma, los algoritmos y la dependencia de restaurantes, consumidores y repartidores crecen juntos, las políticas de competencia y las políticas laborales se encuentran en el mismo servicio de vida. Estas declaraciones de figuras políticas aún deben separarse de los reglamentos formales y las decisiones de las autoridades competentes, pero señalan la dirección hacia la cual la discusión pública está preguntando. [^9]
+La recopilación de temas del Yuan Legislativo sobre fusiones y concentración de mercado también muestra que la plataforma no es una pantalla neutral. Cuando el tamaño de la plataforma, su algoritmo y la dependencia de restaurantes, consumidores y repartidores crecen juntos, la política de competencia y la política laboral se encuentran en un mismo servicio de vida. Estas reivindicaciones políticas deben separarse aún de las normas formales y las decisiones de las autoridades competentes, pero señalan la dirección que persigue el debate público. [^9]
 
-Un artículo de 2019 de la Línea Laboral de Taiwán (台灣勞工陣線) condensaba el problema en un dilema institucional: el trabajador parece obtener libertad de turnos, pero puede perder simultáneamente la responsabilidad del empleador y la protección por accidentes laborales. Esta pregunta sigue siendo relevante hoy, porque cada vez que la plataforma cambia la asignación de pedidos, la remuneración o la forma de evaluación, reorganiza quién asume la incertidumbre. [^6]
+Un artículo de la Alianza Laboral de Taiwán de 2019 condensaba el problema en un dilema institucional: el trabajador parece ganar libertad de horarios, pero puede perder al mismo tiempo la responsabilidad del empleador y la cobertura de accidentes laborales. Ese problema sigue valiendo la pena conservarlo hoy, porque cada vez que la plataforma cambia la asignación, la remuneración o el sistema de valoración, reordena quién asume la incertidumbre. [^6]
 
-## Antes de presionar «enviar pedido» la próxima vez
+## Antes de pulsar «enviar» la próxima vez
 
-La vida de las entregas en Taiwán no necesita ser escrita como «la tecnología lo mejora todo», ni simplificada a «la plataforma solo explota». Las estadísticas del Ministerio de Economía muestran que la industria de la restauración efectivamente amplía sus servicios a través de las entregas. La investigación y los reportajes de personajes muestran, sin embargo, que esta comodidad debe pasar por personas, vehículos, calles y viviendas concretas para llegar. Ambas cosas son verdaderas; juntas se acercan al panorama completo de la vida. [^2] [^3] [^4]
+La vida del reparto en Taiwán no necesita escribirse como «la tecnología lo mejora todo», ni simplificarse como «la plataforma solo explota». Las estadísticas del Ministerio de Economía acreditan que la restauración efectivamente amplía su servicio mediante el reparto. La investigación y los reportajes personales acreditan que esa comodidad debe pasar por personas, vehículos, calles y viviendas concretas para llegar. Ambas son ciertas; juntas se acercan al panorama completo de la vida. [^2] [^3] [^4]
 
-Esto también explica por qué un buen artículo sobre entregas no puede citar solo los informes de la propia plataforma. Las estadísticas gubernamentales son adecuadas para responder a la proporción de restaurantes que ofrecen entregas; las autoridades de transporte, para responder a accidentes y verificaciones; la investigación académica, para desmontar la configuración laboral; y los reportajes de personajes, para devolver los números institucionales a la cama, la bicicleta y la noche de una persona. No se sustituyen entre sí, pero sí limitan mutuamente las conclusiones excesivamente simplificadas. [^2] [^3] [^4] [^5]
+Esto también explica por qué un buen artículo sobre reparto no puede citar solo los informes de la propia plataforma. Las estadísticas oficiales sirven para responder qué proporción de la restauración ofrece reparto; los organismos de tráfico para responder sobre accidentes e inspecciones; la investigación académica para desensamblar la configuración laboral; el reportaje personal para devolver las cifras institucionales a la cama, la bicicleta y la noche de una persona. No pueden sustituirse mutuamente, pero pueden limitarse recíprocamente para evitar conclusiones excesivamente simplificadas. [^2] [^3] [^4] [^5]
 
-Por tanto, la próxima vez que presiones «enviar pedido», vale la pena recordar no si pedir o no una entrega, sino de dónde proviene esa comodidad. Cuando una ciudad reduce la espera a unos minutos, también debería tener la capacidad de devolver la remuneración justa, las calles seguras y la responsabilidad exigible a la misma vía.
+Así que, la próxima vez que pulses «enviar pedido», lo que merece recordarse no es si pedir o no reparto, sino de dónde viene esa comodidad. Cuando una ciudad comprime la espera en unos minutos, también debería tener la capacidad de devolver a la misma calle una remuneración justa, calles seguras y responsabilidades exigibles.
 
-Esta división del trabajo también recuerda al lector que no se escriba a «consumidor, restaurante, plataforma, repartidor» como cuatro roles independientes. Las entrevistas de investigación situaban originalmente a repartidores, restaurantes y personal de la plataforma en el mismo campo de estudio. La verificación del Ministerio de Transporte también une la responsabilidad de la empresa con el uso de las vías. [^4] [^5]
+Esta división del trabajo también recuerda al lector que no debe escribir a «consumidor, comercio, plataforma, repartidor» como cuatro roles inconexos. La investigación de por sí sitúa a repartidores, comerciantes y personal de plataforma en un mismo terreno de estudio. La inspección del Ministerio de Transporte también pone juntos la responsabilidad de la empresa y el uso de la vía. [^4] [^5]
 
-Cuando el sistema separa la gestión de la responsabilidad, la vida sigue atándolas en un solo pedido, y el problema aparece repetidamente en la intersección. Ver la intersección es el punto de partida para entender la vida cotidiana de las entregas en Taiwán. [^4] [^6]
+Cuando el sistema gestiona la responsabilidad por separado, pero la vida la sigue atando a un mismo pedido, el problema reaparece en los bordes. Ver los bordes es el punto de partida para entender la cotidianidad del reparto en Taiwán. [^4] [^6]
 
-Esta es también la razón por la que el sistema debe actualizarse continuamente, en lugar de solo cubrir huecos tras un accidente. [^5] [^8]
+Esta es también la razón por la que el sistema debe actualizarse continuamente, no solo parchear huecos tras cada accidente. [^5] [^8]
 
-En la foto de la manifestación obrera de 2021, el repartidor no era una «fuerza laboral de plataforma» abstracta. Llevaba su propia ropa, estaba en sus propias calles, y exigía que esta ciudad reconociera: lo que llega a la puerta de casa no es solo una comida, sino también el tiempo que una persona ha atravesado de la ciudad.
+En la foto de la manifestación obrera de 2021, los repartidores no son una «mano de obra de plataforma» abstracta. Visten su propia ropa, están en su propia calle, exigen a esta ciudad que reconozca: lo que llega a la puerta de casa no es solo un plato, sino también el tiempo que alguien dejó al cruzar la ciudad.
 
-### Referencias
+## Referencias
 
-[^1]: [《報導者》：平台外送員新制後職災風險更高，當國際規範保障日趨積極，勞動部能行動嗎？](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — Ver suplemento de datos en el enlace original
+[^1]: [_The Reporter_: tras el nuevo sistema, el riesgo de accidente laboral de los repartidores de plataforma aumenta; cuando las normas internacionales de protección son más activas, ¿puede actuar el Ministerio de Trabajo?](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — Véase el enlace original para datos complementarios del texto
 
-[^2]: [經濟部統計處：111 年餐飲業營業額及年增率雙創歷年新高](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=9&html=1&menu_id=18808&bull_id=11322) — Comunicado de prensa del Ministerio de Economía
+[^2]: [Oficina de Estadística del Ministerio de Economía: en 2022 el volumen de negocio y la tasa de crecimiento interanual de la restauración marcaron máximos históricos](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=9&html=1&menu_id=18808&bull_id=11322) — Nota de prensa del Ministerio de Economía
 
-[^3]: [社會創新平台：外送員的游牧人生：青旅床鋪上，300 公分高的家](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — Ver suplemento de datos en el enlace original
+[^3]: [Plataforma de Innovación Social: la vida nómada del repartidor: sobre la cama del albergue, un hogar a 300 cm de altura](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — Véase el enlace original para datos complementarios del texto
 
-[^4]: [Airiti Library：加速社會的補缺行動：臺北食物外送員研究](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — Ver suplemento de datos en el enlace original
+[^4]: [Airiti Library: la acción de relleno de la sociedad acelerada: investigación sobre repartidores de comida de Taipéi](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — Véase el enlace original para datos complementarios del texto
 
-[^5]: [交通部公路局：交通部跨機關聯合查核外送平台 維護交通安全](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — Ver suplemento de datos en el enlace original
+[^5]: [Dirección General de Carreteras del Ministerio de Transporte: inspección interinstitucional de plataformas de reparto para salvaguardar la seguridad vial](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — Véase el enlace original para datos complementarios del texto
 
-[^6]: [台灣勞工陣線：兩個外送員之死──平台經濟的不平等](https://labor.ngo.tw/articles/labor-views/2019-32) — Ver suplemento de datos en el enlace original
+[^6]: [Alianza Laboral de Taiwán: la muerte de dos repartidores — la desigualdad de la economía de plataformas](https://labor.ngo.tw/articles/labor-views/2019-32) — Véase el enlace original para datos complementarios del texto
 
-[^7]: [司法院：釋字第 740 號](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — Ver suplemento de datos en el enlace original
+[^7]: [Yuan Judicial: Interpretación n.º 740](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — Véase el enlace original para datos complementarios del texto
 
-[^8]: [我的 E 政府：外送員、自由工作者的勞動權益報您知，讓您安心工作！](https://www.gov.tw/News_Content_26_703909) — Ver suplemento de datos en el enlace original
+[^8]: [Mi E-Gobierno: derechos laborales de repartidores y trabajadores autónomos, para que trabaje tranquilo](https://www.gov.tw/News_Content_26_703909) — Véase el enlace original para datos complementarios del texto
 
-[^9]: [報導者觀測站：外送平台管理與外送員權益](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — Ver suplemento de datos en el enlace original
+[^9]: [Observatorio de _The Reporter_: gestión de plataformas de reparto y derechos de los repartidores](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — Véase el enlace original para datos complementarios del texto
 
-[^10]: [中央社：公平會正式受理 Grab 收購台灣 foodpanda，7 月底可望有結論](https://www.cna.com.tw/news/afe/202607010226.aspx) — Informe de la CNA
+[^10]: [Agencia Central de Noticias: la Comisión de Competencia acepta formalmente la compra de foodpanda Taiwán por Grab, se espera conclusión a finales de julio](https://www.cna.com.tw/news/afe/202607010226.aspx) — Despacho de la Agencia Central de Noticias
 
-[^11]: [公平交易委員會：Grab 與 foodpanda 結合案公平會延長審議期間至 115 年 10 月 27 日](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — Ver suplemento de datos en el enlace original
+[^11]: [Comisión de Competencia: caso de concentración Grab-foodpanda, la Comisión prorroga el periodo de revisión hasta el 27 de octubre de 2026](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — Véase el enlace original para datos complementarios del texto
 
-[^12]: [公平交易委員會：兩大外送平台結合，公平會喊卡！](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — Ver suplemento de datos en el enlace original
+[^12]: [Comisión de Competencia: concentración de dos grandes plataformas de reparto, la Comisión dice no](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — Véase el enlace original para datos complementarios del texto
 
-[^13]: [中央社：收購台灣 foodpanda，Grab：已向公平會遞交申請](https://www.cna.com.tw/news/afe/202603300285.aspx) — Informe de la CNA
+[^13]: [Agencia Central de Noticias: compra de foodpanda Taiwán, Grab: ya presentó solicitud a la Comisión de Competencia](https://www.cna.com.tw/news/afe/202603300285.aspx) — Despacho de la Agencia Central de Noticias
 
-[^14]: [中央社：Grab 併 foodpanda，公平會延長審議最遲 10 月底決定](https://www.cna.com.tw/news/afe/202607220147.aspx) — Informe de la CNA
+[^14]: [Agencia Central de Noticias: Grab fusiona foodpanda, la Comisión prorroga la revisión, decisión a más tardar a finales de octubre](https://www.cna.com.tw/news/afe/202607220147.aspx) — Despacho de la Agencia Central de Noticias
+
+[^15]: [La Comisión de Competencia prohíbe la concentración entre Grab y Fu Pang Da Co., Ltd. (foodpanda) (nota de prensa de la Comisión de Competencia, 2026-10-21)](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18509) — Página oficial de la nota de prensa de la Comisión, el título ya recoge la resolución de prohibición.
+
+[^16]: [La Comisión prohíbe la fusión Grab-foodpanda por 4 razones; el vínculo accionario es clave (Agencia Central de Noticias, 2026-10-21)](https://www.cna.com.tw/news/afe/202610210181.aspx) — Registra el resultado de la votación del comité (3 votos a favor de prohibir, 1 a favor de aprobar con cargas, 1 abstención), la participación del 13,1 % de Uber en Grab y el 3,9 % de derechos de voto, el historial de la transacción de 2018 en el Sudeste Asiático, las cuatro razones, las tres categorías de medidas comprometidas por los notificantes y su rechazo, y la prohibición conforme al artículo 13, párrafo 1 de la Ley de Comercio Justo.
+
+[^17]: [La Comisión prohíbe la compra de Fu Pang Da; Grab: decepcionada por no poder llevar la innovación a Taiwán (Agencia Central de Noticias, 2026-10-21)](https://www.cna.com.tw/news/afe/202610210215.aspx) — Recoge la respuesta textual del portavoz de Grab a la resolución de prohibición y su énfasis en que el negocio principal en el Sudeste Asiático sigue fuerte y continuará invirtiendo en su hoja de ruta de crecimiento prevista.

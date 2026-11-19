@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-05T14:30:02.263617+00:00'
+translatedAt: '2026-11-19T08:05:16.980944+00:00'
 ---
 
 # Huang Wu-xiong y las universidades comunitarias de Taiwán: llevar la democracia más allá del voto al aula
@@ -113,9 +113,11 @@ Imagen: Ephemeral Days, «Taipei Municipal Wenshan School of Special Education»
 
 ## Lecturas adicionales
 
-[Asociación de Promoción Nacional de Universidades Comunitarias: Base de datos de UC y práctica social](https://www.napcu.org.tw/db_list.html)
+[Asociación Nacional de Promoción de Universidades Comunitarias: Base de datos de universidades comunitarias y práctica social](https://www.napcu.org.tw/db_list.html)
 
-[Ministerio de Educación: Explicaciones relacionadas con el Reglamento de Desarrollo de las Universidades Comunitarias](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[Ministerio de Educación: Explicaciones relacionadas con la Ley de Desarrollo de Universidades Comunitarias](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Yang Wei-che: El profesor de matemáticas primero abrió el curso de taiwanés, el debate vino después](/es/people/yang-wei-cher) — Viejo amigo y colega de Huang Wu-hsiung en el Departamento de Matemáticas de la Universidad Nacional de Taiwán, ambos se unieron a la Fundación Conmemorativa Chen Wen-cheng; Yang Wei-che también impartió matemáticas en taiwanés en la Universidad Comunitaria de Keelung.
 
 ## Referencias
 

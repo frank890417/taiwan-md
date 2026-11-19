@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:48+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T09:31:41.344209+00:00'
 ---
 
 # Presupuesto central: cómo se distribuyen los 3 billones de dólares y dónde corta el Parlamento
@@ -105,20 +105,21 @@ La liquidación de gastos de 2025 fue NT$2,9340 billones, comparado con la cifra
 
 Estas cifras ilustran un punto: que se recorte el presupuesto no significa que se gaste menos dinero; que se asigne más presupuesto no significa que se gaste todo. Los recortes ocurren en la fase de revisión, la tasa de ejecución ocurre en la fase de liquidación; son problemas distintos.
 
-## Cuatro metodologías, cuatro preguntas
+## Cuatro ópticas, cuatro preguntas
 
-Reuniendo los párrafos anteriores, leer el presupuesto central requiere distinguir al menos cuatro metodologías.
+Juntando los párrafos anteriores, para leer el presupuesto general del gobierno central hay que distinguir al menos cuatro ópticas.
 
-La asignación pregunta «¿cuánto quiere la Administración Ejecutiva?», la cifra legal pregunta «¿cuánto da el Parlamento?», la liquidación pregunta «¿cuánto se gastó finalmente?», y el presupuesto especial pregunta «¿qué dinero no está en el presupuesto central?». Las cuatro cifras pueden ser «3 billones», pero ninguna por sí sola puede responder «¿gasta el gobierno demasiado o muy poco?».
+La cifra presupuestada pregunta «¿cuánto quiere el Yuan Ejecutivo?», la cifra legal pregunta «¿cuánto aprueba el Yuan Legislativo?», la cifra de liquidación pregunta «¿cuánto se gastó al final?», y la cifra del presupuesto especial pregunta «¿qué dinero no está en el presupuesto general?». Las cuatro cifras pueden ser «tres billones», pero ninguna por sí sola puede responder «¿gasta el gobierno demasiado o demasiado poco?».
 
-Esta es también la razón por la que las noticias presupuestarias anuales fácilmente no generan debate: un lado saca NT$949,5 mil millones de defensa, el otro saca NT$697,3 mil millones de defensa, ambos tienen razón, solo que nadie está hablando en la misma metodología.
+Por eso las noticias sobre el presupuesto cada año terminan en discusiones: una parte saca NT$949,5 mil millones de defensa, la otra saca NT$697,3 mil millones de defensa, ambas tienen razón, solo que nadie está conversando en la misma óptica.
 
-**Lecturas relacionadas:**
+**Lecturas complementarias**:
 
-- [Presupuesto central: diez años](/budget) — Gráficos interactivos de registros históricos por organismo, categoría de asuntos públicos y reducciones congeladas; página de datos hermana de este artículo
-- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Construcción militar y adquisiciones detrás del presupuesto de defensa
-- [Mecanismo de precios de petróleo de Taiwán y la Corporación Estatal de Petróleo](/es/economy/taiwan-fuel-pricing-and-cpc) — Otro mecanismo de precios determinado por fórmula legal y comisión de revisión
-- [Academia de Contenido Cultural](/es/economy/taiwan-creative-content-agency) — Caso de presupuesto cultural y corporatización
+- [Presupuesto general a diez años](/budget) — Gráficos interactivos por organismo, por función y con registros de recortes y congelamientos de años anteriores, página de datos complementaria de este artículo
+- [Salario, impuestos y jubilación](/income/) — El otro extremo del presupuesto: cómo se calculan los impuestos a partir de un salario, con simulador de impuesto sobre la renta
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — La construcción de fuerzas y adquisiciones detrás del presupuesto de defensa
+- [Mecanismo de precios del petróleo de Taiwán y CPC](/es/economy/taiwan-fuel-pricing-and-cpc) — Otro mecanismo de precios decidido por fórmula legal y comité de revisión
+- [Agencia de Contenidos Creativos de Taiwán](/es/economy/taiwan-creative-content-agency) — El caso del presupuesto cultural y la corporativización
 
 ## Referencias
 
