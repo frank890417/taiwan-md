@@ -2,18 +2,20 @@
 title: '청치시기'
 description: '1683-1895년 청나라가 대만을 약 212년간 통치하며, 소극적 통치에서 적극적 건설로 전환하여 현대 대만의 행정구역과 한인 사회의 기초를 마련한 시기'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags: ['History', '청나라', '개항통상', '모란사사건']
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-05-17T05:34:52+08:00'
+translatedAt: '2026-11-19T00:46:55.057531+00:00'
 ---
 
 # 청치시기
@@ -66,17 +68,17 @@ translatedAt: '2026-05-17T05:34:52+08:00'
 
 이 저항은 후대 대만사에서 대만인이 최초로 '자결' 방식으로 외래의 정치적 결정에 응답한 시도로 해석되기도 하지만, 당시 대만 사회가 통일된 동원 능력이 부족했던 한계를 드러내기도 했다.[^3]
 
-## 참고 문헌
+## 참고 자료
 
-[^1]: [대만 청치시기 — 위키백과](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — 대만 청치시기 총람, 통치 체제, 주요 사건 연표 및 각 단계 정책 수록.
+[^1]: [대만 청치 시기 — 위키백과](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — 대만 청치 시기 개요, 통치 체제, 주요 사건 연표 및 각 단계 정책 포함.
 
-[^2]: [류전전 — 위키백과](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 초대 대만 순무 류전전의 생애와 성 설치 근대화 건설 기록.
+[^2]: [유명전 — 위키백과](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 초대 대만 순무 유명전의 생애와 건성 근대화 건설 기록.
 
-[^3]: [을미전쟁 — 위키백과](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — 1895년 대만민주국의 일본 수복 저항 전 과정, 탑징쑹 도주 내역 포함.
+[^3]: [을미전쟁 — 위키백과](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — 1895년 대만 민주국의 일본 접수 저항 전 과정, 당경숭 출망 시말 포함.
 
-[^4]: [로메이호 사건 — 위키백과](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — 1867년 Rover호 사건, 남갑지맹과 리셴더 교섭 내역.
+[^4]: [로버호 사건 — 위키백과](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — 1867년 로버호 사건, 남갑지맹 및 이선득 교섭 시말.
 
-[^5]: [시구단 사건 — 위키백과](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — 1888년 청부 개혁으로 인한 장하 민변, 만청 대만 최대 규모의 반조세 사건.
+[^5]: [시구단 사건 — 위키백과](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — 1888년 청부(세금)로 촉발된 장화 민변, 청말 대만 최대 규모의 항세 사건.
 
 ## 용어 설명: 청치(清治) vs. 청령(清領)
 

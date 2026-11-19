@@ -1,35 +1,37 @@
 ---
-title: '북대특구: 30년 도시계획과 대학타운 생활 실험'
-description: '1895년 롱엔푸 고전장에서 2026년 지하철 대학타운까지, 이것은 토지, 미학, 그리고 선택적 정체성에 관한 심층 백과사전이다.'
+title: '북대 특구: 30년 도시 계획과 대학도시 생활 실험'
+description: '1895년 롱언포 고전장에서 2026년 MRT 대학도시역까지, 이는 토지, 미학, 선택적 정체성에 관한 심층 백과사전이다.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
-    三峽,
-    樹林,
-    台北大學,
-    藝術大道,
-    三鶯線,
-    明星學區,
-    建築美學,
-    軌道經濟,
-    仕紳化,
-    選擇性認同,
-    迎尪公,
-    遶境,
-    李梅樹,
+    '삼협',
+    '수림',
+    '타이베이대학',
+    '예술 대로',
+    '삼잉선',
+    '명문 학군',
+    '건축 미학',
+    '궤도 경제',
+    '사대부화',
+    '선택적 정체성',
+    '영앙공',
+    '요경',
+    '이매수',
   ]
-readingTime: 18
+subcategory: '城市與人文地理'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-05-09T14:29:09+08:00'
+translatedAt: '2026-11-19T00:54:53.213221+00:00'
 ---
 
 > **30초 개요:**
@@ -162,11 +164,12 @@ translatedAt: '2026-05-09T14:29:09+08:00'
 
 2026년, 삼영선 열차가 정식 운행을 시작할 때, 북대특구는 다음 단계의 시련을 맞이할 것이다: 지하철이 가져온 편리함과 외부 충돌 사이에서 어떻게 균형을 잡을 것인가? 젠트리피케이션의 물결 속에서 어떻게 토드의 온기를 보존할 것인가? 30년 각성의 이 도시는 새로운 역사의 출발점에 서서 계속해서 그 역습의 전설을 써 내려가고 있다.
 
-## 더 읽기
+## 연장 읽기
 
-- [대만 도시 발전과 도시-농촌 격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 북대특구를 대만 구획 정리 구역과 도시 확장의 장기적 맥락에 놓아본다.
-- [린커우 신도시](/ko/geography/linkou-new-town) — 마찬가지로 "유령 도시"라 불렸던 신도시가 어떻게 성숙화되었는지 대조한다.
-- [싼샤 차](/ko/food/sanxia-tea) — 싼샤 구 시가지와 지역 산업의 문화적 기반을 더 읽어본다.
+- [타이완의 집값, 주택담보대출과 청년 안심 주택](/housing/) — 특집 페이지: 구획 정리 구역 밖의 전모, 각 현·시 주택담보대출 부담률과 주택 가격 지수
+- [타이완 도시 발전과 도농 격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 북대특구를 타이완 구획 정리 구역과 도시 확장의 장기적 맥락으로 되돌려 놓다.
+- [린커우 신시진](/ko/geography/linkou-new-town) — 마찬가지로 '유령 도시'라 불리던 신시진이 어떻게 성숙해졌는지 대비하다.
+- [싼샤 차](/ko/food/sanxia-tea) — 싼샤 구시가지와 지역 산업의 문화적 기반을 다룬 연장 읽기.
 
 ## 참고 자료
 

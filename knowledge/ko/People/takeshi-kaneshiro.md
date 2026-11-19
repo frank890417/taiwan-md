@@ -2,9 +2,7 @@
 title: '가네시로 다케시: 알아보지 못한 ‘시민’에서 세계가 잊어 주기만을 바라는 아시아의 초절정 미남으로'
 description: '2025년의 한 길거리 인터뷰 뉴스는 그를 ‘시민’으로 표기했다. 이는 어쩌면 가네시로 다케시가 가장 바라던 순간이었을지도 모른다. 17세에 오토바이를 사기 위해 광고를 찍은 때부터 타이완·일본·홍콩을 가로지르는 국제적 스타가 되기까지, 그는 늘 연예계의 정점에서 ‘사라지는 법’을 연습해 왔다.'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     '가네시로 다케시',
@@ -15,15 +13,19 @@ tags:
     '귀무자',
     '태평륜',
   ]
-readingTime: 15
+subcategory: '電影與戲劇'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-06-20T00:37:14+08:00'
+translatedAt: '2026-11-18T23:45:30.699514+00:00'
 ---
 
 > **30초 개요:**

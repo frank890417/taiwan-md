@@ -2,18 +2,20 @@
 title: '팡쉬중: 핑둥 군인 가족 마을에서 3대 금상 시상식의 비주얼 디렉터로'
 description: '주팡서의 창립자 팡쉬중은 1978년 핑둥 둥강 공허신춘에서 태어났으며, 사립 푸싱상공 미공과와 국립타이완예술대학교 공예디자인학과 금속공예 전공 야간부를 거쳤다. 2013년 주팡서를 설립했고, 2016년부터 금곡상, 금종상, 금마상이라는 타이완 3대 금상 시상식의 메인 비주얼을 잇달아 맡았으며, 금곡상 최우수 장정 디자인 부문에 일곱 차례 후보로 올랐다. 군인 가족 마을에서 보낸 어린 시절의 낡은 사물 감각부터 3대 금상 시상식의 동시대적 서사에 이르기까지, 그는 시각 언어를 통해 타이완의 기억과 시대를 병치한다.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags: ['디자이너', '비주얼 아이덴티티', '금곡상', '금마상', '주팡서']
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-18T23:36:27.947726+00:00'
 ---
 
 # 팡쉬중: 핑둥 군인 가족 마을의 아이, 3대 금상 시상식을 타이완의 기억으로 만들다
@@ -94,21 +96,21 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 이러한 지역 참여는 그의 개인 미디어 재현에도 반영된다. Instagram, 인터뷰, 다큐멘터리에서 그는 여러 차례 핑둥 둥강, 공허신춘, 어린 시절의 어머니, 쥐안춘의 이웃들을 언급하며 사적인 기억을 공적 서사로 전환했다. 젊은 세대의 핑둥 사람들에게 팡쉬중의 존재 자체는 “핑둥 출신도 타이완 디자인계의 정상에 이를 수 있다”는 구체적 증명이다.
 
-## 참고 자료
+## 참고 문헌
 
-[^1]: [方序中 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — 팡쉬중의 생애, 학력, 작품 연표. 1978년 핑둥 둥강 공허신춘 출생, 푸싱상공, 타이완예술대학교 금속공예 전공 야간부 기록을 포함한다.
+[^1]: [팡쉬중(方序中) — 위키백과](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — 팡쉬중의 생애, 학력 및 작품 연표. 1978년 핑둥 둥강 공화신촌 출생, 푸싱 상업고등학교, 타이완 예술대학교 금속공예과 야간부 기록 포함.
 
-[^2]: [究方社 About](https://joefangstudio.com/?page_id=2) — 주팡서 공식 소개. 스튜디오 설립 시기(2013년)와 업무 범위를 포함한다.
+[^2]: [구팡사(究方社) About](https://joefangstudio.com/?page_id=2) — 구팡사 공식 소개. 스튜디오 설립 연도(2013) 및 업무 범위 포함.
 
-[^3]: [鏡週刊：三金典禮品牌經營 方序中設計活化主視覺](https://www.mirrormedia.mg/story/20190125insight001/) — 3대 금상 시상식 메인 비주얼 협업 맥락과 천전촨의 초청 경위.
+[^3]: [미러 미디어(鏡週刊): 3대 시상식 브랜드 경영, 팡쉬중의 디자인으로 활기를 띤 메인 비주얼](https://www.mirrormedia.mg/story/20190125insight001/) — 3대 시상식 메인 비주얼 협업 맥락 및 천전촨(陳鎮川)의 초청 과정.
 
-[^4]: [金馬獎官方：第 55 屆主視覺](https://www.goldenhorse.org.tw/) — 2018년 금마 55 ‘조연’ 메인 비주얼 개념 설명.
+[^4]: [금마장 공식: 제55회 메인 비주얼](https://www.goldenhorse.org.tw/) — 2018년 제55회 금마장 '조연(配角)' 메인 비주얼 컨셉 설명.
 
-[^5]: [文化部影視及流行音樂產業局 — 金曲獎歷屆入圍](https://www.bamid.gov.tw/) — 팡쉬중의 역대 금곡상 최우수 장정 디자인 후보 기록.
+[^5]: [문화부 영상 및 대중음악 산업국 — 역대 금곡장 노미네이트 목록](https://www.bamid.gov.tw/) — 팡쉬중의 역대 금곡장 최우수 북 디자인 부문 노미네이트 기록.
 
-[^6]: [方序中，翻轉屏東印象賦予想像力及期待 — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — 팡쉬중이 핑둥 둥강 쥐안춘에서 보낸 어린 시절, 샤오화 프로젝트, 디자인 맥락에 대해 말한 내용.
+[^6]: [팡쉬중, 핑둥의 인상을 뒤집어 상상력과 기대를 부여하다 — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — 팡쉬중이 말하는 핑둥 둥강 군인 마을에서의 유년 시절, 소화(小花) 프로젝트 및 디자인 맥락.
 
-[^7]: [設計師與他們的工作室 — Joe Fang Studio 究方社](http://brandingdesign.nccu.tilda.ws/fdwf3) — 정치대학교 브랜드 디자인 프로젝트 인터뷰 기록. 주팡서의 작업 방식과 3대 금상 시상식 수주 경위를 포함한다.
+[^7]: [디자이너와 그들의 스튜디오 — Joe Fang Studio 구팡사](http://brandingdesign.nccu.tilda.ws/fdwf3) — 정치대학교 브랜드 디자인 프로젝트 인터뷰 기록. 구팡사의 작업 방식 및 3대 시상식 수주 과정 포함.
 
 ## 더 읽을거리
 

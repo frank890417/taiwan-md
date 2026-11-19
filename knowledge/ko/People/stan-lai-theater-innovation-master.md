@@ -2,18 +2,20 @@
 title: '라이성천: 공작공방과 우진연극제의 양안 연극 가교자'
 description: '라이성천은 1954년 10월 25일 미국 워싱턴 D.C.에서 태어났으며, 아버지 라이자구는 외교관이었다. UC 버클리 연극예술 박사(1983). 1984년 아내 정내주, 이립군, 이국수 등과 공동으로 공작공방(表演工作坊)을 창립하였다. 1986년 《암련도원화(暗戀桃花源)》 초연, 1992년 영화로 각색하여 임청하가 주연을 맡았다. 2007년 제11회 국가문예상을 수상하였으며, 이 영예를 두 차례 수상하였다. 2013년 5월 진향홍, 황레이, 맹경휘와 공동으로 우진연극제를 창립하였으며, 이는 양안에서 가장 영향력 있는 중화어 연극제 중 하나이다. 2015년 상하이 상극장(上劇場)이 개관하였다. BBC는 그를 "오늘날 가장 뛰어난 중문 극작가"로 평가하였다.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags: ['라이성천', '연극', '공작공방', '암련도원화', '연극 감독', '우진연극제']
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴聲川.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:171a521ab055d1cf'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:c47b590333d1a690'
 sourceBodyHash: 'sha256:eb36a190f4b7ada8'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-18T23:53:24.677695+00:00'
 ---
 
 # 라이성천: 공작공방과 우진연극제의 양안 연극 가교자
@@ -90,21 +92,21 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 **라이성천은 국가문예상을 두 차례 수상하였으며, 첫 번째는 2007년 제11회**로서 40년간의 연극 경력에 대한 뛰어난 공로를 인정받았다. 그는 이렇게 말한 바 있다: "연극은 거울이어서 시대의 정신적 면모를 반영한다." 그의 작품은 대만 사회가 계엄에서 해제로 이행하는 문화적 변천을 기록한 동시에, 중화어 문화 전체의 좌표이기도 하다. BBC는 그를 "오늘날 가장 뛰어난 중문 극작가"로, 《China Daily》는 그를 "아시아 최고의 극작가 감독"으로 평가하였다.[^7]
 
-## 참고 문헌
+## 참고 자료
 
-[^1]: [라이성천 — 위키백과](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — 라이성천 생애, 1954/10/25 생일, 아버지 라이자구, UC 버클리 PhD 1983, 우진연극제 2013 공동 창립 전체 기록. 참고: [공작공방: 라이성천 Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
+[^1]: [라이성천 — 위키백과](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — 라이성천의 생애, 1954년 10월 25일 생일, 아버지 라이자치우, UC 버클리 박사 1983, 우전극제 2013 공동 창립 완전 기록. 또 보기 [표연작업장: 라이성천 Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
 
-[^2]: [국립타이베이예술대학교 연극학원](https://theatre.tnua.edu.tw/) — 북예대 창립 연혁 및 라이성천 재직 배경 자료.
+[^2]: [국립타이베이예술대학 연극학원](https://theatre.tnua.edu.tw/) — 북예대 건교 연혁 및 라이성천 재직 배경 자료.
 
-[^3]: [공작공방 공식 웹사이트](http://www.pw-theatre.com/) — 극단 역사, 창립 경위 및 작품 연보.
+[^3]: [표연작업장 공식 웹사이트](http://www.pw-theatre.com/) — 극단 역사, 창립 과정 및 작품 연표.
 
-[^4]: [《암련도원화》 작품 소개 — 공작공방](http://www.pw-theatre.com/) — 초연 연도, 공연 횟수 및 극본 구조 설명.
+[^4]: [《암연도화원》 극목 소개 — 표연작업장](http://www.pw-theatre.com/) — 초연 연도, 공연 횟수 및 대본 구조 설명.
 
-[^5]: [금곡상/문화부 — 대만 공연예술 데이터베이스](https://pacsnet.org.tw/) — 1990년대 대만 연극 발전과 라이성천 작품 연보.
+[^5]: [금곡상/문화부 — 대만 공연예술 데이터베이스](https://pacsnet.org.tw/) — 1990년대 대만 연극 발전과 라이성천 작품 연표.
 
-[^6]: [《보도일촌》 — 공작공방](http://www.pw-theatre.com/) — 제작 배경, 양안 공연 기록.
+[^6]: [《보도일촌》 — 표연작업장](http://www.pw-theatre.com/) — 제작 배경, 양안 공연 기록.
 
-[^7]: [라이성천 국가문예상 수상 자료 — 국가문화예술재단](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — 라이성천 국가문예상 수상 전체 자료. 참고: [대만 광화잡지: 몽지몽──라이성천의 연극 인생](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) 제11회 수상 보도.
+[^7]: [라이성천 국가문예상 수상 자료 — 국가문화예술기금회](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — 라이성천 수여 국가문예상 완전 자료. 또 보기 [대만 광화잡지: 꿈같은 꿈──라이성천의 연극 인생](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) 제11회 수상 보도.
 
 ## 더 읽기
 
