@@ -1,8 +1,8 @@
 ---
 title: 'The August 23 Artillery Duel: Forty-Four Days of Fire, Leaving Twenty Years of Kinmen’s Daily Life'
 description: 'On August 23, 1958, Kinmen endured over 30,000 artillery shells in 85 minutes. Forty-four days later, the fire did not truly leave; the "hit singles, spare doubles" policy continued until 1979. This war not only altered the strategic landscape of the Taiwan Strait but also left residents, students, and displaced families within the memory of the war zone. Between artillery fire and evacuation, Kinmen became an island that bore anxiety through routine, raising the most difficult question in war zone preservation: Does remembering victory also mean remembering the cost to civilians?'
+date: 2026-08-20
 category: 'History'
-subcategory: '軍事歷史'
 tags:
   [
     'August 23 Artillery Duel',
@@ -11,28 +11,30 @@ tags:
     'War Zone Administration',
     'Cold War',
   ]
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 12
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/823砲戰.md'
-sourceCommitSha: '7b73ad150'
-sourceContentHash: 'sha256:94a0eed6d2a30bd2'
-sourceBodyHash: 'sha256:438d4ba6b831a508'
-translatedAt: '2026-09-11T06:37:10+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:ce4c525b32d53370'
+sourceBodyHash: 'sha256:d4d1f058fca35e5e'
+translatedAt: '2026-11-19T10:42:47.668458+00:00'
 ---
 
-> **30-Second Overview:** On the afternoon of August 23, 1958, hundreds of artillery pieces fired simultaneously at Kinmen. The first wave lasted 85 minutes, dropping over 30,000 shells. After 44 days of high-intensity artillery duels, Kinmen did not return to a peaceful daily routine but entered an intermittent shelling pattern of "hit singles, spare doubles," which continued until 1979. Understanding the August 23 events requires looking beyond which side held the island. It also requires examining how an island of less than 150 square kilometers layered military strategy, resident displacement, and subsequent war zone preservation into a single living space.
+> **30-Second Overview:** On the afternoon of August 23, 1958, hundreds of artillery pieces opened fire on Kinmen simultaneously, with the first wave dropping over 30,000 shells in just 85 minutes. Following forty-four days of high-intensity shelling, Kinmen did not return to peaceful daily life; instead, it entered a period of intermittent shelling known as "striking one but not both" (單打雙不打), which lasted until 1979. To understand the August 23 Artillery Duel, one must look beyond which side held the island. One must also see how an island of less than 150 square kilometers forced military strategy, resident migration, and later battlefield preservation to overlap within the same living space.
 
-On the afternoon of August 23, 1958, at 5:30 PM, the islands of Kinmen, Little Kinmen, Da Tan, and Er Tan were simultaneously subjected to intense shelling. The first wave lasted 85 minutes, with over 30,000 shells fired. Major General Ji Xingwen, Deputy Commander of the Kinmen Defense Command, and others were killed in action that day. This was not merely a "crisis" occurring on a map, but an afternoon where a command post, villages, hospitals, and ports were simultaneously disrupted. [^1]
+At 5:30 PM on August 23, 1958, Kinmen, Da-jinmen, Xiaojinmen, and islands such as Dadan and Erdan were simultaneously subjected to intense shelling. The first wave lasted 85 minutes, with over 30,000 shells fired. Among those killed that day were Lieutenant General Ji Hsing-wen and others from the Kinmen Defense Command. It was not merely a "crisis" occurring on a map; it was an afternoon where command posts, villages, hospitals, and ports were all simultaneously disrupted. [^1]
 
-![August 23 War History Museum, 2005.](https://upload.wikimedia.org/wikipedia/commons/5/5b/Aug.23_Artillery_Battle_Museum_20050707.jpg)
+![The August 23 War History Museum, 2005.](https://upload.wikimedia.org/wikipedia/commons/5/5b/Aug.23_Artillery_Battle_Museum_20050707.jpg)
 
-_Image: Photographed by Seasurfer, CC BY-SA 3.0. Image from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20050707.jpg)._
+_Image: Shot by Seasurfer, CC BY-SA 3.0. Image from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20050707.jpg)._
 
-This conflict was later known as the "August 23 Artillery Duel," and in U.S. and international research, it is often referred to as the "Second Taiwan Strait Crisis." The difference in names reminds us that the same artillery duel was both a local disaster for Kinmen and a node in the Cold War order that could drag the United States, China, and U.S. allies into conflict. [^2]
+This conflict was later called the "August 23 Artillery Duel," and in American and international research, it is also frequently referred to as the "Second Taiwan Strait Crisis." The difference in names serves as a reminder: this same artillery duel was both a local disaster for Kinmen and a node within the Cold War order that could have potentially dragged in the United States, China, and all of America's allies. [^2]
 
 ## Not a One-Day Artillery Duel
 
@@ -104,54 +106,54 @@ The casualty and shell counts of August 23 cannot be pieced into a table without
 
 This difference is not an error that can be dismissed with a sentence like "which one is true." Different denominators, time ranges, and statistical subjects change our understanding of war. The responsibility of verification is not to pick the most spectacular number, but to write the statistical context next to the number. This is why August 23 requires local historical materials, official memorial drafts, and academic analysis to be read against each other, rather than relying on a single voice.
 
-## War Zone Preservation: What Remains Is Not Just Victory Commemorations
+## Battlefield Preservation: What Remains Is More Than Just Commemorations of Victory
 
-After the August 23 Artillery Duel ended, Kinmen still retained a large number of military facilities and war zone landscapes.
+After the conclusion of the August 23 Artillery Duel, Kinmen retained a vast number of military facilities and battlefield landscapes.
 
-![August 23 War History Museum, 2016.](https://upload.wikimedia.org/wikipedia/commons/8/84/Aug.23_Artillery_Battle_Museum_20160620.jpg)
+![The August 23 War History Museum, 2016.](https://upload.wikimedia.org/wikipedia/commons/8/84/Aug.23_Artillery_Battle_Museum_20160620.jpg)
 
-_Image: Photographed by Wei-Te Wong, CC BY-SA 2.0. Image from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20160620.jpg)._
+_Photo by Wei-Te Wong, CC BY-SA 2.0. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20160620.jpg)._
 
-These facilities are, on one hand, relics of the national defense system, and on the other hand, they may be located on civilian land, hinder land use, or face demolition due to management and safety costs. In 2018, when Kinmen locals discussed the demolition of the Sanliushan Artillery Fort, the controversy centered on a sharp question: after military facilities exit, who has the right to decide what is worth keeping? [^6]
+On one hand, these facilities are relics of the national defense system; on the other, they may be located on civilian land, hindering land use, or facing demolition due to management and security costs. When local discussions in Kinmen regarding the demolition of the Sanshi Mountain Artillery Fort took place in 2018, the controversy centered on a sharp question: once military facilities withdraw, who has the right to decide what is worth keeping? [^6]
 
-This is not a problem that can be solved by simply sealing all bunkers. Preservation requires inventory, grading, handling military secrecy, and coordination among local governments, defense units, cultural asset authorities, and residents. If war zone sites are merely packaged as tourist attractions, artillery forts will become photo backgrounds. If they are only viewed as burdens, the war life long endured by Kinmen people will be erased along with land clearance. [^6]
+This is not a problem that can be solved simply by sealing off every pillbox. Preservation requires inventorying, grading, and handling military sensitivities; it also requires coordination between local governments, defense units, cultural heritage authorities, and residents. If battlefield sites are merely packaged as tourist attractions, artillery forts will become nothing more than photo backdrops. If they are viewed solely as burdens, the reality of the wartime life that Kinmen people endured for so long will be erased along with the land clearing. [^6]
 
-The August 23 War History Museum, reopened in 2025, began placing frontline soldiers, residents, military widows, and journalists into the same exhibition narrative, presenting war zone life, family fragmentation, and personal trauma through audio-visual materials and artifacts. The significance of this exhibition direction lies not in making war more thrilling, but in ensuring that "military victory" is no longer the only visible memory. [^7]
+The August 23 War History Museum, which reopened in 2025, has begun to integrate frontline soldiers, residents, widows of service members, and journalists into a single exhibition narrative, using audiovisuals and physical artifacts to present battlefield life, broken families, and personal trauma. The significance of this exhibition direction lies not in making the war seem more thrilling, but in ensuring that "military victory" is no longer the only visible memory. [^7]
 
-Kinmen National Park’s war zone cultural preservation therefore faces two responsibilities: preserving specific fortifications, tunnels, and artillery forts, while also preserving their relationships with villages, migration, civil defense, women’s waiting, and family separation. Objects without human stories are merely concrete; stories without touchable sites easily become slogans for the next generation. [^6] [^7]
+Consequently, the preservation of battlefield culture in Kinmen National Park faces a dual responsibility: it must preserve concrete fortifications, tunnels, and artillery forts, while also preserving their relationship with villages, migration, civil defense, the waiting of women, and family separation. Without human stories, objects are merely concrete. Without tangible sites, stories easily devolve into mere slogans for the next generation. [^6] [^7]
 
-## Reading August 23 Today
+## Re-reading August 23 Today
 
-The significance of the August 23 Artillery Duel to Taiwan lies not only in it being a 1958 military event. It allowed the division of the Taiwan Strait to gradually move from a temporary post-war state into a more stable, yet longer, Cold War standoff. It forced U.S. strategic ambiguity regarding Kinmen and Matsu, Taipei’s outer island policy, and Beijing’s Taiwan Strait policy onto the table simultaneously. It also turned Kinmen into a political geography that must be understood through resident life. [^2] [^5]
+The importance of the August 23 Artillery Duel to Taiwan lies not only in its status as a military event in 1958. It marked the transition of the Taiwan Strait's division from a post-war temporary state into a more stable, yet much longer, confrontation under the Cold War. It forced the United States' strategic ambiguity regarding Kinmen and Matsu, Taipei's offshore island policy, and Beijing's Taiwan Strait policy to be laid bare simultaneously. It also transformed Kinmen into a political geography that must be understood through the lived experiences of its residents. [^2] [^5]
 
-If August 23 is only written as "the National Guard defended Kinmen and repelled the attack," readers get a conclusion but cannot see the cost. If it is only written as great power博弈 (game), it re-silences the 6,509 relocated residents, children living in underground spaces, hospitals lacking medicine, and people waiting for family members to return. [^5]
+If August 23 is written merely as "the National Army defending Kinmen and repelling an invasion," readers will reach a conclusion but fail to see the cost. If it is written only as a game of great power competition, it once again silences the 6,509 residents who relocated to Taiwan, the children living in underground spaces, the hospitals lacking medicine, and the people waiting for their families to return. [^5]
 
-![August 23 Victory Monument.](https://upload.wikimedia.org/wikipedia/commons/0/0a/%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)
+![The August 23 Victory Monument.](https://upload.wikimedia.org/wikipedia/commons/0/0a/%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)
 
-_Image: Photographed by Foxy Who, CC BY-SA 3.0. Image from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)._
+_Image: Shot by Foxy Who, CC BY-SA 3.0. Image from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E5%85%AB%E4%BA%8C%E4%B8%89%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91_823_Artillery_Bombardment_Monument_-_panoramio.jpg)._
 
-A statement closer to the Kinmen experience is: fire changed the island’s strategic position and changed every person’s sense of time on the island. When shells fell, Kinmen was a frontline. When shells fell according to the daily schedule, Kinmen became an institution. After shelling stopped, Kinmen had to decide how to preserve a history that is unwilling to be romanticized and cannot be deleted.
+A description closer to the Kinmen experience would be: the artillery fire changed the island's strategic position, and it also changed every person's sense of time on the island. When shells fell sporadically, Kinmen was a frontline. When shells fell daily, Kinmen became an institution. After the shelling stopped, Kinmen then had to decide how to preserve a period of history that must not be romanticized, nor can it be erased.
 
-> The last question left by August 23 is not "who will win next time," but whether, when war is written as national memory, those who did not choose war but were forced to learn to live in war can be written back in.
+> The final question left by August 23 is not "who will win next time," but rather, when war is written into national memory, can those who did not choose war—yet were forced to learn how to live within it—be written back in as well?
 
 ## Sources
 
-[^1]: [The August 23 Artillery Duel and Its Historical Significance](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — A war background, shelling time, scale, international impact, and Taiwan political context article written by Professor Hsueh Hua-yuan of the Department of History, National Chengchi University.
+[^1]: [The August 23 Artillery Battle and Its Historical Significance](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — Written by Professor Hsueh Hua-yuan of the Department of History at National Chengchi University; covers the background of the battle, shelling times, scale, international impact, and Taiwan's political context.
 
-[^2]: [The August 23 Artillery Duel and Its Historical Significance](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — A historical analysis article explaining the Second Taiwan Strait Crisis, U.S. intervention, and post-war Taiwan Strait standoff.
+[^2]: [The August 23 Artillery Battle and Its Historical Significance](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010820) — A historical analysis article explaining the Second Taiwan Strait Crisis, U.S. intervention, and the post-war standoff across the Taiwan Strait.
 
-[^3]: [Why the August 23 Battle Should Serve as a Warning](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=7F6ED3D8C7C8A381&Create=1) — An article from the Kinmen County Government, organizing the 1958 shelling, 44-day battle status, "hit singles, spare doubles," and the cessation of shelling in 1979.
+[^3]: [Lessons from the August 23 Campaign](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=7F6ED3D8C7C8A381&Create=1) — An article by the Kinmen County Government summarizing the 1958 shelling, the 44-day combat situation, the 'single firing but no counter-firing' policy, and the cessation of shelling in 1979.
 
-[^4]: [President Ma Ying-jeou’s Speech at the "823 Battle 50th Anniversary Memorial Conference" This Morning](https://www.president.gov.tw/NEWS/12527) — A Presidential Office press release recording the 44-day artillery duel, Kinmen area, shell scale, and official memorial narratives of military-civilian casualties.
+[^4]: [President Ma Ying-jeou's Speech at the '50th Anniversary Commemoration of the August 23 Campaign' This Morning](https://www.president.gov.tw/NEWS/12527) — A Presidential Office press release recording official commemorative narratives regarding the 44-day artillery battle, Kinmen's land area, the scale of shells used, and military/civilian casualties.
 
-[^5]: [The Complete Story of the 823 Taiwan Strait Crisis — Evacuation of Kinmen Residents to Taiwan](https://www.kmdn.gov.tw/1117/1271/1276/199967/) — A Kinmen Daily data page organizing population, militarization, residents' medical conditions, student and civilian evacuation, and resettlement processes.
+[^5]: [The August 23 Taiwan Strait Crisis—The Full Story of Kinmen Residents Evacuating to Taiwan](https://www.kmdn.gov.tw/1117/1271/1276/199967/) — A data page from the Kinmen Daily News summarizing population, militarization, the medical situation of residents, and the process of evacuating and resettling students and civilians.
 
-[^6]: [Preserving Military Heritage to Enrich Cultural Resources](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=5AD508629B265AF9) — An article from the Kinmen County Government, recording the Sanliushan Artillery Fort controversy, war zone heritage preservation, inventory, and cross-agency coordination issues.
+[^6]: [Preserving Military Heritage to Cultivate Cultural Resources](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=5AD508629B265AF9) — An article by the Kinmen County Government documenting the controversy over the Three Lion Mountain Artillery Fort, the preservation and inventory of battlefield historical sites, and inter-agency coordination issues.
 
-[^7]: [Entering History, Feeling Memory: The August 23 War History Museum Creates an Immersive War Zone Story](https://www.ey.gov.tw/eykm/E075F0ABB8632E5A/b16450e6-3bd1-4351-be2d-c8e41a77f04a) — A reprint of a Kinmen Daily report by the Executive Yuan Kinmen-Matsu Joint Service Center, introducing the 2025 update of the August 23 War History Museum and its exhibition direction incorporating diverse military-civilian memories.
+[^7]: [Entering History, Feeling Memory: The August 23 War History Museum Creates Immersive Battlefield Stories](https://www.ey.gov.tw/eykm/E075F0ABB8632E5A/b16450e6-3bd1-4351-be2d-c8e41a77f04a) — A report from the Kinmen Daily News reposted by the Executive Yuan Kinma Joint Service Center, introducing the 2025 update of the August 23 War History Museum and its exhibition direction to incorporate diverse military and civilian memories.
 
-[^8]: [Reflections on the August 23 Artillery Duel — History Must Be Written by Oneself](https://www.mnd.gov.tw/File/6868) — A historical article published by the Ministry of National Defense, providing data on the first wave of shelling time, number of artillery pieces, and battle reflections.
+[^8]: [Reflections on the August 23 Artillery Battle—History Must Be Written by Ourselves](https://www.mnd.gov.tw/File/6868) — A historical article published by the Ministry of National Defense, providing data on the initial shelling times, number of artillery pieces, and campaign reflections.
 
-[^9]: [Reserve Command - Retained Business - August 23 Artillery Duel Monument](https://afrc.mnd.gov.tw/AFRCWeb/Unit.aspx?MenuID=15&ListID=1303) — A page from the Ministry of National Defense Reserve Command, providing the origin of the August 23 Artillery Duel name, shell scale, and official memorial context.
+[^9]: [Reserve Command—Stationary Duties—August 23 Artillery Battle Memorial](https://afrc.mnd.gov.tw/AFRCWeb/Unit.aspx?MenuID=15&ListID=1303) — A page from the Ministry of National Defense Reserve Command providing the origin of the name 'August 23 Artillery Battle,' the scale of shells, and the official commemorative context.
 
-[^10]: [The Complete Story of the August 23 Kinmen Artillery Duel](https://www.kmdn.gov.tw/1117/1271/1274/171518) — A Kinmen Daily data page organizing the beginning of the artillery duel, battle processes, and related memoir historical materials.
+[^10]: [The Full Story of the August 23 Kinmen Artillery Battle](https://www.kmdn.gov.tw/1117/1271/1274/171518) — A data page from the Kinmen Daily News summarizing the start of the artillery battle, the course of the conflict, and related historical memoirs.
