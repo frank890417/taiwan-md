@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T01:13:27+08:00'
+sourceCommitSha: 'f024e87e7a'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T18:02:59.534122+00:00'
 ---
 
 # Ngân sách tổng thể của Chính phủ Trung ương: Phân bổ 3 nghìn tỷ Đài tệ như thế nào và lập pháp đã cắt giảm ở đâu
@@ -105,20 +105,21 @@ Quyết toán chi tiêu năm 114 là 2.934 tỷ NT$, so với số liệu dự t
 
 Nhóm số liệu này minh chứng cho một điều: Ngân sách bị cắt giảm không đồng nghĩa với việc tiền chắc chắn sẽ tiêu ít đi; ngân sách được lập nhiều cũng không có nghĩa là tiền chắc chắn sẽ tiêu hết. Việc cắt giảm xảy ra ở giai đoạn thẩm tra, còn tỷ lệ thực hiện xảy ra ở giai đoạn quyết toán, đây là hai vấn đề hoàn toàn khác nhau.
 
-## Bốn khía cạnh, bốn câu hỏi
+## Bốn khung thống kê, bốn loại vấn đề
 
-Tổng hợp lại các phần trên, khi đọc ngân sách tổng thể của Chính phủ Trung ương, ít nhất cần phân biệt rõ bốn khía cạnh:
+Gom lại các đoạn trên, để đọc ngân sách tổng thể Chính phủ Trung ương ít nhất phải phân biệt rõ bốn khung thống kê.
 
-Số liệu **dự toán** hỏi rằng "Hành chính viện muốn bao nhiêu"; số liệu **định mức pháp lý** hỏi rằng "Lập pháp cho bao nhiêu"; số liệu **quyết toán** hỏi rằng "cuối cùng đã tiêu bao nhiêu"; và **ngân sách đặc biệt** hỏi rằng "những khoản tiền nào không nằm trong ngân sách tổng thể". Cả bốn con số đều có thể là "3 nghìn tỷ", nhưng không có con số nào có thể đơn độc trả lời câu hỏi "Chính phủ đang chi quá nhiều hay quá ít".
+Số 편성 (編列數) hỏi的是「Hành chính viện muốn bao nhiêu」，Số pháp định (法定數) hỏi的是「Lập pháp viện cho bao nhiêu」，Số quyết toán (決算數) hỏi的是「Cuối cùng đã chi bao nhiêu」，Ngân sách đặc biệt (特別預算) hỏi的是「Những tiền nào không nằm trong ngân sách tổng thể」。Bốn con số đều có thể là 「ba ngàn tỷ」 (三兆)， nhưng không một con số nào có thể tự mình trả lời 「Chính phủ chi quá nhiều hay quá ít」.
 
-Đây cũng là lý do tại sao các tin tức về ngân sách hàng năm thường gây tranh cãi mà không đi đến hồi kết: một bên đưa ra con số quốc phòng 949,5 tỷ NT$, bên kia đưa ra con số 697,3 tỷ NT$. Cả hai bên đều không nói sai, chỉ là không có ai đang đối thoại trên cùng một khía cạnh.
+Đây cũng là lý do tin tức ngân sách hàng năm dễ nảy sinh tranh cãi: một bên đưa ra quốc phòng NT$949,5 tỷ (9,495 億元)， bên kia đưa ra quốc phòng NT$697,3 tỷ (6,973 億元)， hai bên đều không sai, chỉ là không ai đang đối thoại trên cùng một khung thống kê.
 
-**Đọc thêm**:
+**Mở rộng đọc**:
 
-- [Ngân sách tổng thể trong mười năm](/budget) — Biểu đồ tương tác về lịch sử các cơ quan, lĩnh vực chính sự và hồ sơ cắt giảm/đóng băng, là trang dữ liệu chị em của bài viết này.
-- [Quốc phòng Đài Loan và hiện đại hóa quân sự](/vi/society/taiwan-defense-modernization) — Xây dựng quân đội và mua sắm đằng sau ngân sách quốc phòng.
-- [Cơ chế giá xăng dầu Đài Loan và CPC](/vi/economy/taiwan-fuel-pricing-and-cpc) — Một cơ chế giá khác được quyết định bởi công thức pháp lý và hội đồng thẩm định.
-- [Viện Phát triển Nội dung Văn hóa](/vi/economy/taiwan-creative-content-agency) — Trường hợp về ngân sách văn hóa và tư cách pháp nhân.
+- [Tổng ngân sách mười năm](/budget) — Biểu đồ tương tác ghi nhận theo năm cơ quan, theo sự vụ và lịch sử cắt giảm/đóng băng, trang dữ liệu chị em của bài viết này
+- [Lương, thuế và nghỉ hưu](/income/) — Đầu kia của ngân sách: thuế được tính như thế nào từ một bảng lương, kèm thử tính thu nhập
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Xây quân và mua sắm đằng sau ngân sách quốc phòng
+- [Cơ chế giá xăng dầu Đài Loan và CPC](/vi/economy/taiwan-fuel-pricing-and-cpc) — Một cơ chế giá khác được quyết định bởi công thức pháp định và hội đồng thẩm định
+- [Viện Chiến lược Nội dung Văn hóa](/vi/economy/taiwan-creative-content-agency) — Ngân sách văn hóa và trường hợp pháp nhân hóa
 
 ## Tài liệu tham khảo
 

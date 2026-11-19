@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T02:22:52+08:00",
-    "zhCommitHead": "825023f404",
+    "lastUpdated": "2026-11-20T02:23:54+08:00",
+    "zhCommitHead": "cefdf9530f",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1191,
-        "fresh": 1160,
-        "stale": 14,
+        "fresh": 1161,
+        "stale": 13,
         "metadata_stale": 8,
         "missing": 9,
         "orphan": 0
@@ -46204,11 +46204,11 @@
           "sourceContentHash": "sha256:c0db8ad58cb81cc3",
           "sourceBodyHash": "sha256:8474e7f850a1b02b",
           "translatedAt": "2026-11-19T16:50:45.198743+00:00",
-          "translationLastCommit": "4afdefc1",
-          "translationLastModified": "2026-10-10T22:58:00+08:00",
+          "translationLastCommit": "cefdf953",
+          "translationLastModified": "2026-11-20T02:22:53+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 61470,
+          "bytes": 61472,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "hash-match-sha-lost"
@@ -83254,20 +83254,18 @@
         "ar": {
           "path": "ar/Society/taiwan-covid-pandemic-and-vaccines.md",
           "translatedFrom": "Society/台灣新冠疫情與疫苗.md",
-          "sourceCommitSha": "1ec0df23b",
-          "sourceContentHash": "sha256:8f341a7241775e16",
-          "sourceBodyHash": "sha256:840d9f2932e4646b",
-          "translatedAt": "2026-11-01T23:22:46.360126+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:b9d1a42aadf87af2",
+          "sourceBodyHash": "sha256:4db5c97b15ab8480",
+          "translatedAt": "2026-11-19T18:23:35.884608+00:00",
           "translationLastCommit": "b152b7af",
           "translationLastModified": "2026-11-02T09:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 212446,
+          "bytes": 212378,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-covid-pandemic-and-vaccines.md",

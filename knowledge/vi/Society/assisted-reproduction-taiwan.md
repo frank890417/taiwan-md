@@ -1,157 +1,159 @@
 ---
-title: 'Nhân tạo thụ tinh tại Đài Loan: Một phôi vượt biên giới, gia đình lại không thể tự động vượt qua rào cản pháp lý'
-description: 'Năm 2020, cặp đôi nữ đồng tính Mota và City đến Campuchia để thực hiện thụ tinh trong ống nghiệm (IVF), bốn năm chi tiêu khoảng 2 triệu Đài tệ mới. Đài Loan đã có Luật Nhân tạo thụ tinh từ năm 2007, năm 2021 lại mở rộng trợ cấp thụ tinh trong ống nghiệm, nhưng đến năm 2025 dự thảo sửa đổi luật mới đưa phụ nữ chưa kết hôn và cặp đôi nữ đồng tính đã kết hôn vào đối tượng được phép. Công nghệ đã lâu đời chín chắn, pháp luật đuổi kịp được không chỉ là cách thức sinh con, mà là ai đủ điều kiện trở thành gia đình.'
+title: 'Hỗ trợ sinh sản tại Đài Loan: Một phôi thai vượt biên giới, nhưng gia đình không thể tự động vượt qua rào cản pháp lý'
+description: 'Năm 2020, cặp đôi đồng tính nữ Mota và City đã sang Campuchia thực hiện IVF, tiêu tốn khoảng 2 triệu Đài tệ trong 4 năm. Dù công nghệ đã chín muồi, luật pháp Đài Loan vẫn đang nỗ lực để công nhận quyền được làm cha mẹ của phụ nữ độc thân và các cặp đôi đồng tính nữ.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
-    'Nhân tạo thụ tinh',
-    'Thụ tinh trong ống nghiệm',
+    'Hỗ trợ sinh sản',
+    'Thụ tinh trong ống nghiệm (IVF)',
     'Quyền sinh sản',
-    'Kết hôn đồng tính',
-    'Giảm tỷ lệ sinh',
+    'Hôn nhân đồng giới',
+    'Tỷ lệ sinh thấp',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: 'ef8369ee'
+sourceCommitSha: 'ef8369eef5'
 sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-15T02:25:28.355785+00:00'
+translatedAt: '2026-11-19T23:44:14+08:00'
 ---
 
-> **30 giây tổng quan:** Năm 2020, cặp đôi nữ đồng tính Mota và City đến Campuchia thực hiện IVF, trong bốn năm chi tiêu khoảng 200 triệu Tân Đài tệ. Công nghệ y tế Đài Loan đã lâu chín muồi, nhưng pháp luật lâu dài chỉ cho phép vợ chồng dị tính sử dụng. Từ Luật Nhân tạo Sinh sản năm 2007 đến dự thảo sửa đổi năm 2025, bài viết này không xem xét «có thể sinh hay không», mà là ai được vào phòng khám, ai được công nhận sau khi sinh con, và bài toán khó do mẹ thay thế để lại.[^1]
+> **Tóm tắt trong 30 giây:** Năm 2020, cặp đôi đồng tính nữ Mota và City đã phải sang Campuchia để thực hiện IVF, tiêu tốn khoảng NT$2 triệu trong vòng 4 năm. Tại Đài Loan, dù kỹ thuật y tế đã rất phát triển, nhưng luật pháp trong thời gian dài chỉ cho phép các cặp vợ chồng dị tính sử dụng. Từ Luật Hỗ trợ sinh sản năm 2007 đến dự thảo sửa đổi năm 2025, bài viết này không bàn về việc "có thể sinh con hay không", mà là về việc ai có quyền bước vào phòng khám, ai được công nhận là cha mẹ sau khi đứa trẻ chào đời, và những nan đề do người mang thai hộ để lại. [^1]
 
-Năm 2020, cặp đôi nữ đồng tính Mota và City thực hiện nhân tạo sinh sản tại Campuchia. Trong thai kỳ, Mota trải qua huyết áp cao thấp, tiểu đường thai kỳ và phù bụng, con gái Doby cuối cùng chào đời bình an. Hai năm sau, City lại thực hiện IVF lần nữa, nhưng lúc mang thai 37 tuần lại gặp phải tình trạng thai nhi ngừng đập tim. Trong vòng bốn năm, gia đình này đã chi khoảng 200 triệu Tân Đài tệ cho điều trị xuyên biên giới.[^1]
+Năm 2020, cặp đôi đồng tính nữ Mota và City đã thực hiện hỗ trợ sinh sản tại Campuchia. Trong thời gian mang thai, Mota đã phải trải qua tình trạng huyết áp cao thấp thất thường, tiểu đường thai kỳ và tràn dịch màng bụng, cuối cùng con gái Doby đã chào đời bình an. Hai năm sau, City tiếp tục thực hiện IVF, nhưng khi mang thai đến tuần thứ 37 thì gặp phải tình trạng thai ngừng tim. Trong vòng bốn năm, gia đình này đã chi khoảng NT$2 triệu cho việc điều trị xuyên biên giới. [^1]
 
-Họ không phải vì thiếu công nghệ y tế. Điều họ thiếu là ở chính quốc gia mình, có được pháp luật công nhận mình là người có thể tiếp cận công nghệ này hay không. **Phôi có thể vượt biên giới, nhưng gia đình không thể tự động vượt qua rào cản pháp luật.**
+Không phải họ không có kỹ thuật y tế để sử dụng. Cái họ thiếu là liệu tại quốc gia của mình, họ có được pháp luật công nhận là những người có quyền tiếp nhận kỹ thuật này hay không. **Phôi thai có thể vượt qua biên giới quốc gia, nhưng gia đình thì không thể tự động vượt qua rào cản pháp lý.**
 
-![Phôi người 8 tế bào (hình minh họa)](https://upload.wikimedia.org/wikipedia/commons/6/6b/Embryo%2C_8_cells.jpg)
+![Phôi người tám tế bào (hình minh họa)](https://upload.wikimedia.org/wikipedia/commons/6/6b/Embryo%2C_8_cells.jpg)
 
-Nguồn hình ảnh: [Wikimedia Commons: File:Embryo, 8 cells.jpg](https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg). Tác giả ekem, tác phẩm phát hành dưới công cộng.
+Nguồn ảnh: [Wikimedia Commons: File:Embryo, 8 cells.jpg](https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg). Tác giả ekem, tác phẩm thuộc phạm vi công cộng.
 
-📝 Ghi chú người biên tập: Nhân tạo sinh sản không phải là câu chuyện đơn thuần «công nghệ giúp người tròn ước mơ». Nó đồng thời là một bảng tiêu chí, quyết định ai được vào phòng khám, ai được lưu giữ phôi, và quan hệ cha mẹ con của ai sẽ được pháp luật công nhận.
+📝 Ghi chú của biên tập viên: Hỗ trợ sinh sản không đơn thuần là câu chuyện "công nghệ giúp hiện thực hóa ước mơ". Nó đồng thời là một bảng tiêu chuẩn, quyết định ai có thể bước vào phòng khám, ai có thể lưu giữ phôi thai, và mối quan hệ cha mẹ - con cái của ai sẽ được pháp luật công nhận.
 
-Một công nghệ y tế đã chín muộn trước khi pháp luật hoàn thiện
+## Một kỹ thuật y tế chín muồi trước cả luật pháp
 
-Đài Loan chào đón bé ống nghiệm đầu tiên vào năm 1985. Lúc đó phôi đã có thể thụ tinh ngoài cơ thể, nhưng pháp luật chưa có một chế độ hoàn chỉnh để xử lý việc hiến tặng tế bào sinh sản, bảo quản phôi, sự đồng ý của người nhận thuật và vấn đề danh tính của đứa trẻ.[^3]
+Đứa trẻ thụ tinh trong ống nghiệm đầu tiên tại Đài Loan chào đời vào năm 1985. Khi đó, phôi đã có thể được thụ tinh ngoài cơ thể, nhưng luật pháp vẫn chưa có một hệ thống hoàn chỉnh để xử lý vấn đề hiến tặng tế bào sinh dục, lưu giữ phôi thai, sự đồng thuận của người thực hiện thủ thuật và danh tính của đứa trẻ. [^3]
 
-Ngày 21 tháng 3 năm 2007, 《Luật Nhân tạo Sinh sản》 được công bố thi hành. Luật đưa nhân tạo sinh sản vào khung quản lý về phép hoạt động cơ sở y tế, điều kiện nhận thuật, quản lý hiến tặng và báo cáo dữ liệu. Các cơ sở nhân tạo sinh sản phải báo cáo số lượng người điều trị, tỷ lệ thành công, nguyên nhân vô sinh và các kỹ thuật nhân tạo sinh sản áp dụng, để cơ quan chủ quản xây dựng cơ sở dữ liệu.[^2]
+Ngày 21 tháng 3 năm 2007, 《Luật Hỗ trợ sinh sản》 chính thức được ban hành. Luật pháp đã đưa hỗ trợ sinh sản vào khuôn khổ cấp phép cho các cơ sở y tế, tư cách người thực hiện thủ thuật, quản lý hiến tặng và báo cáo dữ liệu. Các cơ sở hỗ trợ sinh sản phải báo cáo số lượng ca điều trị, tỷ lệ thành công, nguyên nhân vô sinh và kỹ thuật hỗ trợ sinh sản được áp dụng để cơ quan quản lý xây dựng cơ sở dữ liệu. [^2]
 
-Luật này ban đầu xử lý việc «cặp vợ chồng vô sinh» như thế nào sử dụng nhân tạo sinh sản. Các học giả nghiên cứu dữ liệu từ 1998 đến 2017 chỉ ra rằng, đơn vị cơ bản lúc bấy giờ là cặp vợ chồng đã kết hôn, và ít nhất một trong hai phải có tế bào sinh sản khỏe mạnh. Người hiến tặng và người nhận thuật không thể chỉ định lẫn nhau, việc hiến tặng tế bào sinh sản từ nước ngoài cũng bị hạn chế.[^3]
+Luật này ban đầu nhằm giải quyết vấn đề làm thế nào để "các cặp vợ chồng vô sinh" sử dụng hỗ trợ sinh sản. Các học giả nghiên cứu dữ liệu từ năm 1998 đến 2017 chỉ ra rằng, đơn vị cơ bản thời bấy giờ là các cặp vợ chồng đã kết hôn, và ít nhất một bên phải có tế bào sinh dục khỏe mạnh. Người hiến tặng và người thực hiện thủ thuật không được phép chỉ định lẫn nhau, và việc hiến tặng tế bào sinh dục từ nước ngoài cũng bị hạn chế. [^3]
 
-Vì vậy, Luật Nhân tạo Sinh sản không chỉ là sổ tay vận hành của bệnh viện. Nó cũng vẽ ranh giới cho «gia đình». Bác sĩ xử lý 난 tử, tinh trùng, phôi và việc cấy ghép. Pháp luật xử lý的是 ai có điều kiện yêu cầu dịch vụ này, cũng như sau khi đứa trẻ chào đời, ai là cha mẹ theo pháp luật.
+Vì vậy, Luật Hỗ trợ sinh sản không chỉ là sổ tay vận hành của bệnh viện. Nó còn đang vạch ra ranh giới cho khái niệm "gia đình". Bác sĩ xử lý trứng, tinh trùng, phôi thai và cấy ghép; còn luật pháp xử lý việc ai có tư cách yêu cầu dịch vụ này, và sau khi đứa trẻ chào đời, ai là cha mẹ hợp pháp.
 
-📝 Ghi chú của người biên soạn: Công nghệ ra đời trước, pháp luật mới đến sau đặt tên cho nó. Muộn hơn nữa, là pháp luật công nhận người sử dụng công nghệ không chỉ có một loại.
+📝 Ghi chú của biên tập viên: Công nghệ ra đời trước, luật pháp theo sau để đặt tên cho nó. Và điều đến muộn hơn nữa chính là việc luật pháp công nhận rằng người được sử dụng công nghệ không chỉ có một loại duy nhất.
 
 ## Một mạng lưới y tế ngày càng mở rộng
 
-Chế độ không dừng lại ở năm 2007. Báo cáo quốc gia năm 2022 về nhân tạo sinh sản của Cục Quản lý Y tế chỉ ra rằng, năm 1998 Đài Loan có 48 cơ sở nhân tạo sinh sản. Đến tháng 7 năm 2024, số lượng cơ sở y tế được cấp phép tăng lên 101. Thống kê năm 2022 phân tích các ca điều trị của 99 cơ sở.[^2]
+Hệ thống không dừng lại ở năm 2007. Báo cáo quốc gia về hỗ trợ sinh sản năm 2022 của Cục Y tế Quốc gia (NHIA) chỉ ra rằng, vào đầu năm 1998, Đài Loan có 48 cơ sở hỗ trợ sinh sản. Đến tháng 7 năm 2024, số lượng cơ sở y tế được cấp phép đã tăng lên 101. Thống kê năm 2022 cũng đã phân tích các ca điều trị tại 99 cơ sở. [^2]
 
-Nhân tạo sinh sản do đó không còn là kỹ thuật ngoại vi mà một số ít bác sĩ tự mày mò. Nó có chế độ cấp phép, có hồ sơ điều trị, có quy định về tiếp nhận, bảo quản và cung cấp tế bào sinh sản hiến tặng, cũng có cơ quan chủ quản định kỳ xem xét quản lý chất lượng các cơ sở nhân tạo sinh sản.
+Do đó, hỗ trợ sinh sản không còn là một kỹ thuật cận biên do một số ít bác sĩ tự mày mò. Nó có hệ thống cấp phép, có hồ sơ điều trị, có quy định về tiếp nhận, lưu giữ và cung cấp tế bào sinh dục hiến tặng, cũng như có sự quản lý chất lượng định kỳ của cơ quan chủ quản đối với các cơ sở hỗ trợ sinh sản.
 
-Sự mở rộng của mạng lưới y tế này cũng phản ánh trong thống kê sinh. Dựa trên dữ liệu từ 1998 đến 2016, tỷ lệ sinh nhờ nhân tạo sinh sản trên tổng số ca sinh, từ 0,86% năm 1998 tăng lên 1,44% năm 2007, và đạt 4,33% năm 2016. Nghiên cứu ước tính, sau năm năm Luật Nhân tạo Sinh sản thi hành, số người sinh nhờ nhân tạo sinh sản tăng tương đối 78,51%.[^4]
+Sự mở rộng của mạng lưới y tế này cũng phản ánh qua thống kê sinh sản. Tính theo dữ liệu từ năm 1998 đến 2016, tỷ lệ trẻ sinh ra nhờ hỗ trợ sinh sản chiếm trong tổng số trẻ sinh ra đã tăng từ 0,86% năm 1998 lên 1,44% năm 2007, và đạt 4,33% vào năm 2016. Nghiên cứu ước tính rằng, sau 5 năm thực thi Luật Hỗ trợ sinh sản, số lượng trẻ sinh ra nhờ hỗ trợ sinh sản đã tăng tương đối 78,51%. [^4]
 
-Số liệu tăng không có nghĩa là rào cản biến mất. Hệ thống y tế có thể mở rộng, nhưng vẫn phải phục vụ theo đúng đối tượng được pháp luật quy định. Quốc gia có thể khuyến khích sinh con, nhưng cũng có thể đồng thời để một số người muốn sinh con nằm ngoài các liệu trình hợp pháp.
+Con số tăng lên không đồng nghĩa với việc rào cản biến mất. Hệ thống y tế có thể mở rộng, nhưng vẫn phải phục vụ theo đúng đối tượng thực hiện thủ thuật được luật pháp định nghĩa. Quốc gia có thể khuyến khích sinh sản, nhưng cũng có thể cùng lúc để một số người muốn sinh con nằm ngoài các liệu trình hợp pháp.
 
-📝 Ghi chú người biên soạn: Điểm trái trực giác nhất của nhân tạo sinh sản, không phải là nó có thể giữ phôi ngoài cơ thể, mà là mạng lưới y tế càng hoàn chỉnh, người bị loại ra ngoài càng rõ ràng.
+📝 Ghi chú của biên tập viên: Điểm phản trực giác nhất của hỗ trợ sinh sản không phải là việc nó có thể giữ phôi ngoài cơ thể, mà là mạng lưới y tế càng hoàn thiện thì việc ai bị loại trừ ra khỏi đó càng trở nên rõ ràng.
 
 ## Trợ cấp biến vô sinh thành chính sách công
 
-Tháng 7 năm 2021, chính phủ tung ra gói trợ cấp thụ tinh trong ống nghiệm mở rộng, cho phép các cặp vợ chồng vô sinh đủ điều kiện tiếp cận nguồn lực công. Chính sách này không chỉ thay đổi chi tiêu gia đình, mà còn thay đổi cách xã hội bàn luận về sinh sản hỗ trợ. Nó không còn chỉ là lựa chọn y tế mà cá nhân phải gánh chịu, mà được đưa vào các cuộc thảo luận về ít con, già hóa dân số và tài chính công.[^5]
+Tháng 7 năm 2021, chính phủ triển khai phương án trợ cấp thụ tinh trong ống nghiệm mở rộng, cho phép các cặp vợ chồng vô sinh đủ điều kiện tiếp cận nguồn lực công. Chính sách này không chỉ thay đổi chi tiêu của gia đình mà còn thay đổi cách xã hội thảo luận về hỗ trợ sinh sản. Nó không còn chỉ là một lựa chọn y tế cá nhân phải tự gánh vác, mà được đưa vào các cuộc thảo luận về tình trạng tỷ lệ sinh thấp, già hóa dân số và tài chính công. [^5]
 
-Một nghiên cứu công bố năm 2024, lấy chính sách trợ cấp của Đài Loan và dữ liệu sinh sản bằng sinh sản hỗ trợ để xây dựng mô hình tài chính. Nghiên cứu ước tính, mỗi 1 đồng Đài Loan đầu tư, chính phủ có thể thu về khoảng 5,6 đồng tài chính trong vòng đời của trẻ sinh ra bằng IVF. Nghiên cứu cũng cảnh báo rằng kết quả này xây dựng trên các giả định dài hạn về tiền lương, năm làm việc, thuế, phúc lợi và tỷ lệ chiết khấu, không thể coi là mỗi gia đình đều sẽ mang lại lợi nhuận cố định.[^5]
+Một nghiên cứu công bố năm 2024 đã xây dựng mô hình tài chính dựa trên chính sách trợ cấp của Đài Loan và dữ liệu trẻ sinh ra nhờ hỗ trợ sinh sản. Nghiên cứu ước tính rằng, với mỗi NT$1 đầu tư, chính phủ có thể nhận lại khoảng NT$5,6 lợi ích tài chính trong vòng đời của những người sinh ra bằng phương pháp IVF. Tuy nhiên, nghiên cứu cũng cảnh báo rằng kết quả này dựa trên các giả định dài hạn về tiền lương, số năm làm việc, thuế, phúc lợi và tỷ lệ chiết khấu, nên không thể coi là mỗi gia đình đều sẽ tạo ra một khoản lợi nhuận cố định. [^5]
 
-Mô hình này mang lại một sự đối lập quan trọng. Khi quốc gia dùng lực lượng lao động và thuế thu nhập trong tương lai để tính giá trị trợ cấp, sinh sản hỗ trợ không chỉ giúp đỡ các gia đình riêng lẻ, mà còn được xem như một công cụ chính sách dân số.
+Mô hình này mang lại một sự tương phản quan trọng. Khi quốc gia dùng lực lượng lao động và thuế trong tương lai để tính toán giá trị của trợ cấp, hỗ trợ sinh sản không chỉ đơn thuần là giúp đỡ các gia đình riêng lẻ, mà còn được xem như một công cụ chính sách dân số.
 
-Nhưng trợ cấp không phải là đồng nghĩa với «mọi người đều dùng được». Trợ cấp có thể giảm chi phí cho các cặp vợ chồng đủ điều kiện, nhưng không thể đơn độc thay đổi ai có tư cách bước vào ngưỡng cửa thể chế của Luật Sinh sản hỗ trợ. Đối với phụ nữ độc thân và các cặp đôi nữ đồng tính, vấn đề thường không phải là có trả được chi phí một liệu trình hay không, mà là các cơ sở y tế tại Đài Loan có thể hợp pháp giúp họ bắt đầu liệu trình hay không.
+Nhưng trợ cấp không đồng nghĩa với việc "ai cũng có thể sử dụng". Trợ cấp có thể giảm chi phí cho các cặp vợ chồng đủ điều kiện, nhưng không thể đơn độc thay đổi việc ai có tư cách bước qua cánh cửa của hệ thống Luật Hỗ trợ sinh sản. Đối với phụ nữ độc thân và các cặp đôi đồng tính nữ, vấn đề thường không phải là liệu họ có thể chi trả cho một liệu trình hay không, mà là liệu các cơ sở y tế tại Đài Loan có thể bắt đầu liệu trình cho họ một cách hợp pháp hay không.
 
-📝 Ghi chú người biên soạn: Nếu quốc gia mong muốn sinh sản hỗ trợ làm tăng số lượng sinh ra, thì không chỉ hỏi một gia đình có trả được hay không, mà còn phải hỏi gia đình đó có được pháp luật nhìn thấy hay không.
+📝 Ghi chú của biên tập viên: Nếu quốc gia hy vọng hỗ trợ sinh sản sẽ làm tăng số lượng trẻ sinh ra, thì không thể chỉ hỏi một gia đình có đủ khả năng chi trả hay không, mà còn phải hỏi xem gia đình đó có được luật pháp nhìn nhận hay không.
 
-## Luật pháp không thể đuổi kịp những gia đình đã hình thành
+## Luật pháp không theo kịp những gia đình đã hiện hữu
 
-Sau khi hôn nhân đồng tính được hợp pháp hóa năm 2019, việc công nhận pháp lý các hình thức gia đình đã tiến lên một bước. Tuy nhiên, Luật Nhân tạo Sinh sản vẫn chủ yếu chỉ áp dụng cho vợ chồng dị tính. Việc hôn nhân được thành lập không đồng nghĩa với việc mọi loại gia đình trong hôn nhân đều có thể sử dụng cùng các dịch vụ y sinh sản.
+Sau khi hôn nhân đồng giới được hợp pháp hóa vào năm 2019, sự công nhận về mặt pháp lý đối với các hình thức gia đình đã tiến thêm một bước. Tuy nhiên, Luật Hỗ trợ sinh sản vẫn chủ yếu áp dụng cho các cặp vợ chồng dị tính. Kết hôn có thể thành lập, nhưng không có nghĩa là mọi loại hình gia đình trong hôn nhân đều có thể sử dụng cùng một dịch vụ y tế sinh sản.
 
-Dự thảo sửa đổi mà Hành chính viện thông qua năm 2025 đề xuất đưa phụ nữ chưa kết hôn và các bạn đời nữ đồng tính đã hoàn tất đăng ký kết hôn vào đối tượng áp dụng của nhân tạo sinh sản. Hành chính viện cũng nêu rõ rằng, các quy định hiện hành đã không thể bảo vệ bình đẳng quyền cơ bản trong việc xây dựng đời sống gia đình của phụ nữ chưa kết hôn, ly hôn, góa bụa và kết hôn đồng tính.[^6]
+Dự thảo sửa đổi do Hành chính Viện thông qua năm 2025 đề xuất đưa phụ nữ độc thân và các cặp đôi đồng tính nữ đã hoàn tất đăng ký kết hôn vào đối tượng áp dụng của Luật Hỗ trợ sinh sản. Hành chính Viện cũng nêu rõ rằng, các quy định hiện hành đã không còn khả năng bảo vệ bình đẳng quyền cơ bản của phụ nữ độc thân, phụ nữ ly hôn, góa bụa và phụ nữ trong hôn nhân đồng giới khi xây dựng cuộc sống gia đình. [^6]
 
-Cục Quản lý Y tế cho biết, quá trình sửa đổi luật từ năm 2020 đã triệu tập các chuyên gia về quyền lợi trẻ em, bình đẳng giới, pháp luật và y học, tổ chức hơn 30 cuộc họp và 2 buổi nghe ý kiến công khai. Bên cạnh việc mở rộng đối tượng áp dụng, dự thảo còn bổ sung các quy định về sự đồng ý có thông tin, quản lý hiến tặng tế bào sinh sản, lợi ích tối thượng cho con cái và quyền biết nguồn gốc huyết thống.[^7]
+Cục Y tế Quốc gia cho biết, kể từ năm 2020, việc sửa luật đã triệu tập các chuyên gia về quyền trẻ em, bình đẳng giới, luật pháp và y học để tổ chức hơn 30 cuộc họp và 2 buổi điều trần công khai. Ngoài việc mở rộng đối tượng áp dụng, dự thảo còn bổ sung các nội dung về sự đồng thuận dựa trên thông tin đầy đủ, quản lý hiến tặng tế bào sinh dục, lợi ích tốt nhất của trẻ em và quyền được biết về huyết thống. [^7]
 
-Theo tóm tắt của Công視 về dự thảo phiên bản Hành chính viện, con cái sinh ra nhờ nhân tạo sinh sản trong tương lai có thể tra cứu các thông tin không xác định danh tính của người hiến tặng như chiều cao, nhóm máu, màu da và quốc tịch. Khi có nhu cầu y tế như bệnh di truyền nghiêm trọng hoặc ghép tạng, có thể tiến một bước tra cứu danh tính người hiến tặng. Dự thảo cũng quy hoạch rằng, với sự đồng ý của người nhận thủ thuật, giới hạn bảo quản phôi có thể kéo dài đến 15 năm.[^8]
+Dự thảo phiên bản Hành chính Viện do đài PTS tổng hợp chỉ ra rằng, con cái sinh ra bằng hỗ trợ sinh sản trong tương lai có thể tra cứu các thông tin không định danh của người hiến tặng như chiều cao, nhóm máu, màu da và quốc tịch. Khi gặp các nhu cầu y tế nghiêm trọng như bệnh di truyền hoặc cấy ghép nội tạng, họ còn có thể tra cứu sâu hơn về danh tính người hiến tặng. Dự thảo cũng quy hoạch rằng, với sự đồng ý của người thực hiện thủ thuật, thời hạn lưu giữ phôi có thể được kéo dài lên đến 15 năm. [^8]
 
-Những điều khoản này chuyển vấn đề từ «bệnh viện có làm được không» sang «trẻ sinh ra sau đó hiểu nguồn gốc mình như thế nào». Khi phôi được bảo quản bằng đông lạnh, nó giống như một vật liệu y tế chờ xử lý. Khi trẻ lớn lên, nó lại có thể trở thành điểm khởi đầu cho những câu hỏi về thân thế, huyết thống và rủi ro sức khỏe.
+Những điều khoản này đẩy vấn đề từ "bệnh viện có thể làm hay không" sang "đứa trẻ sau khi lớn lên sẽ hiểu về nguồn gốc của mình như thế nào". Khi phôi được đông lạnh lưu giữ, nó giống như một vật liệu y tế đang chờ xử lý. Nhưng khi đứa trẻ trưởng thành, nó có thể trở thành điểm khởi đầu cho những câu hỏi về thân thế, huyết thống và các rủi ro sức khỏe.
 
-📝 Ghi chú người biên soạn: Việc bảo quản phôi là vấn đề y tế. Cho một trẻ có cơ hội hiểu nguồn gốc chào đời của mình, thì là trách nhiệm chung của gia đình và pháp luật.
+📝 Ghi chú của biên tập viên: Lưu giữ phôi là vấn đề y tế. Nhưng tạo cơ hội để một đứa trẻ hiểu được nguồn gốc ra đời của mình lại là trách nhiệm chung của gia đình và luật pháp.
 
-## Một phôi khơi dậy ba quyền
+## Một phôi thai gắn liền với ba loại quyền lợi
 
-Quyền thứ nhất là quyền tự chủ sinh sản của người nhận thủ thuật. Những gì phụ nữ chưa kết hôn và cặp đôi nữ đồng tính tranh giành, không chỉ là «muốn có một đứa con», mà là không phải trước hết phải phù hợp với mẫu gia đình hôn nhân dị tính mới có tư cách sử dụng công nghệ y tế.
+Thứ nhất là quyền tự chủ sinh sản của người thực hiện thủ thuật. Điều mà phụ nữ độc thân và các cặp đôi đồng tính nữ đang đấu tranh không chỉ là "muốn có một đứa con", mà là không cần phải đáp ứng trước khuôn mẫu gia đình của hôn nhân dị tính mới có tư cách sử dụng kỹ thuật y tế.
 
-Quyền thứ hai là địa vị pháp lý của đứa trẻ. Dự thảo của Hành chính viện đề xuất, con sinh ra nhờ sinh sản hỗ trợ của cặp đôi nữ đồng tính và phụ nữ chưa kết hôn nên có địa vị pháp lý rõ ràng. Dù sau này quan hệ hôn nhân của cặp đôi nữ đồng tính bị hủy bỏ hoặc được xác định là vô hiệu, con cái cũng không nên vì thế rơi vào bất lợi của thân phận phi hôn sinh. [^6]
+Thứ hai là địa vị pháp lý của đứa trẻ. Dự thảo của Hành chính Viện đề xuất rằng, con cái sinh ra bằng hỗ trợ sinh sản của các cặp đôi đồng tính nữ và phụ nữ độc thân phải có địa vị pháp lý rõ ràng. Ngay cả khi quan hệ hôn nhân sau đó của cặp đôi đồng tính nữ bị hủy bỏ hoặc tuyên bố vô hiệu, đứa trẻ cũng không vì thế mà rơi vào những bất lợi của thân phận con ngoài giá thú. [^6]
 
-Quyền thứ ba là quyền được biết giữa người hiến tặng và con cái. Cũ kia thể chế chú trọng sự ẩn danh của người hiến tặng và quản lý y tế. Sửa đổi luật thì bắt đầu đối mặt với một vấn đề khác: khi đã trưởng thành, một người có quyền biết mình sinh ra như thế nào hay không.
+Thứ ba là quyền thông tin giữa người hiến tặng và đứa trẻ. Hệ thống trước đây chú trọng vào tính ẩn danh của người hiến tặng và quản lý y tế. Việc sửa luật bắt đầu đối mặt với một vấn đề khác: khi một người trưởng thành, họ có quyền được biết mình đã ra đời như thế nào hay không.
 
-Điều này không có nghĩa là mọi quan hệ gia đình đều có thể đơn giản hóa thành gen. Nó có nghĩa là thông tin huyết thống có thể có ý nghĩa trong bệnh di truyền, ghép tạng và nhận diện bản thân. Quyền của đứa trẻ không phải là một mục dữ liệu trên giấy khai sinh, mà là thông tin mà cậu ấy/cô ấy lớn lên sau này vẫn có thể cần sử dụng.
+Điều này không có nghĩa là mọi mối quan hệ gia đình đều có thể đơn giản hóa thành gen. Nó có nghĩa là dữ liệu huyết thống có thể mang ý nghĩa quan trọng trong việc chẩn đoán bệnh di truyền, cấy ghép nội tạng và định hình bản sắc cá nhân. Quyền của đứa trẻ không phải là một cột thông tin trên giấy khai sinh, mà là thông tin mà chúng có thể cần sử dụng khi trưởng thành.
 
-📝 Ghi chú biên tập: Sinh sản hỗ trợ thực sự bảo tồn không chỉ một phôi, mà còn là một tương lai của gia đình chưa được quyết định hoàn toàn, cũng như những câu hỏi mà đứa trẻ sau này có thể đặt ra.
+📝 Ghi chú của biên tập viên: Thứ mà hỗ trợ sinh sản thực sự lưu giữ không chỉ là một phôi thai, mà còn là một tương lai chưa được quyết định xong của một gia đình, và cả những câu hỏi mà đứa trẻ có thể đặt ra sau này.
 
-## Tại sao việc xử lý mẹ thay thế lại khó khăn nhất
+## Tại sao mang thai hộ là vấn đề khó giải quyết nhất
 
-Phiên bản sửa đổi năm 2024 từng đưa phụ nữ độc thân, bạn đời đồng tính nữ và sinh sản thay thế vào thảo luận cùng lúc, đồng thời đề xuất chỉ mở đặt sinh sản thay thế loại nhân đạo, giới hạn tiền thưởng cho người mang thai, mỗi người mang thai chỉ thay thế một lần, cũng như tiến hành đánh giá về tình hình kinh tế, tâm lý và gia đình. Quỹ Cải cách Tư pháp khi tổng hợp các tranh luận liên quan chỉ ra rằng, tranh cãi về sinh sản nhân tạo đối với phụ nữ độc thân và nữ đồng tính tương đối nhỏ, vấn đề thực sự làm sâu sắc chia rẽ xã hội là việc có nên mở đặt mẹ thay thế hay không.[^9]
+Phiên bản sửa đổi năm 2024 từng đưa phụ nữ độc thân, cặp đôi đồng tính nữ và sinh sản bằng phương pháp mang thai hộ vào cùng một cuộc thảo luận, đồng thời đề xuất các thiết kế như: chỉ mở cho mang thai hộ vì mục đích nhân đạo, hạn chế thù lao cho người mang thai hộ, mỗi người mang thai hộ chỉ thực hiện một lần, và tiến hành đánh giá tình trạng kinh tế, tâm lý cũng như gia đình. Khi tổng hợp các tranh cãi liên quan, Quỹ Cải cách Tư pháp chỉ ra rằng, tranh cãi về hỗ trợ sinh sản của phụ nữ độc thân và đồng tính nữ tương đối nhỏ, điều thực sự làm sâu sắc thêm sự chia rẽ trong xã hội là việc có nên cho phép mang thai hộ hay không. [^9]
 
-Phiên bản do Hành chính viện trình năm 2025 chọn cách trước hết đưa vào bạn đời đồng tính nữ và phụ nữ chưa kết hôn, đồng thời tách riêng xử lý các vấn đề như mẹ thay thế, bạn đời đồng tính nam. Điều này không có nghĩa là tranh cãi về sinh sản thay thế đã biến mất, mà là tách các vấn đề khác nhau ra để xử lý. Vấn đề trước chủ yếu liên quan đến ai được quyền sử dụng tinh trùng, trứng và tử cung của chính mình. Vấn đề sau牽涉到 cơ thể người mang thai, quyền cha mẹ của người ủy thác, rủi ro thương mại hóa, cũng như quan hệ pháp lý sau khi trẻ sinh ra.
+Phiên bản mà Hành chính Viện gửi đi năm 2025 đã chọn cách đưa các cặp đôi đồng tính nữ và phụ nữ độc thân vào trước, đồng thời tách rời vấn đề mang thai hộ và các cặp đôi đồng tính nam để xử lý riêng biệt. Điều này không có nghĩa là tranh cãi về mang thai hộ biến mất, mà là chia nhỏ các vấn đề khác nhau ra.
 
-Mẹ thay thế khó khăn không phải vì công nghệ không làm được, mà vì trách nhiệm sinh sản bị phân tán trên nhiều người hơn. Người cung cấp trứng, người cung cấp tinh trùng, người mang thai sinh con và cha mẹ theo pháp luật có thể không phải là cùng một nhóm người. Quyền tự chủ, sức khỏe và quyền rút lui của bất kỳ ai cũng không thể chỉ giải quyết bằng một tờ đồng ý đơn thuần.
+Vấn đề trước tiên chủ yếu liên quan đến việc ai có thể sử dụng tế bào sinh dục và tử cung của chính mình. Vấn đề sau liên quan đến cơ thể của người mang thai hộ, quyền làm cha mẹ của người ủy thác, rủi ro thương mại hóa, cũng như các quan hệ pháp lý sau khi đứa trẻ chào đời.
 
-Do đó, Luật Sinh sản nhân tạo tiếp theo cần xử lý không chỉ là có mở đặt hay không. Nó còn phải trả lời: ai gánh chịu rủi ro y tế, ai có thể rút lại sự đồng ý, quyền cha mẹ của trẻ được xác định khi nào, ca sinh con xuyên biên giới được đăng ký như thế nào, và khi hợp đồng xung đột với cơ thể thì ai sẽ bảo vệ người mang thai.
+Mang thai hộ khó không phải vì kỹ thuật không làm được, mà vì trách nhiệm sinh sản bị phân tán cho nhiều người hơn. Người cung cấp trứng, người cung cấp tinh trùng, người mang thai sinh con và cha mẹ hợp pháp có thể không phải là cùng một nhóm người. Quyền tự chủ, sức khỏe và quyền rút lui của bất kỳ cá nhân nào cũng không thể chỉ được giải quyết bằng một tờ giấy đồng thuận.
 
-📝 Ghi chú người biên soạn: Sinh sản nhân tạo có thể tách quá trình thụ tinh thành nhiều bước. Pháp luật không thể tách rơi rủi ro của từng người ra, rồi lại giả vờ chúng không liên quan gì đến nhau.
+Do đó, vấn đề mà Luật Hỗ trợ sinh sản cần xử lý tiếp theo không chỉ là có nên mở hay không. Nó còn phải trả lời: ai chịu rủi ro y tế, ai có thể rút lại sự đồng ý, quyền làm cha mẹ của đứa trẻ được xác định khi nào, việc đăng ký khai sinh xuyên biên giới thực hiện ra sao, và khi hợp đồng xung đột với cơ thể thì ai sẽ bảo vệ người mang thai hộ.
 
-## Đài Loan thực sự đang quyết định điều gì
+📝 Ghi chú của biên tập viên: Hỗ trợ sinh sản có thể chia quá trình thụ tinh thành nhiều bước. Nhưng luật pháp không thể chia nhỏ rủi ro của mỗi cá nhân rồi giả vờ như chúng không liên quan đến nhau.
 
-Lịch sử sinh sản nhân tạo của Đài Loan, nhìn bề ngoài giống như một đường thẳng của tiến bộ y tế. Nhìn lại mới phát hiện, thực tế đó là một đường kẻ mà tiêu chuẩn đủ điều kiện liên tục được vẽ lại.
+## Đài Loan thực sự đang quyết định điều gì?
 
-Năm 1985, vấn đề là có cho phép phôi thai thụ tinh ngoài cơ thể hay không. Năm 2007, vấn đề là làm thế nào để sinh sản nhân tạo bước vào khung pháp luật. Năm 2021, vấn đề là nguồn lực công có nên chia sẻ chi phí hay không. Năm 2025, vấn đề trở thành những gia đình nào không nên tiếp tục bị loại trừ.
+Lịch sử hỗ trợ sinh sản tại Đài Loan trông giống như một đường thẳng của sự tiến bộ y tế. Nhưng nhìn lại mới thấy, thực chất nó là một đường kẻ mà các tiêu chuẩn (tư cách) liên tục được vẽ lại.
 
-Một nghiên cứu chỉ ra rằng sinh sản nhân tạo xác thực đã làm tăng số lượng trẻ sinh ra nhờ ART tại Đài Loan. Tuy nhiên, nghiên cứu cũng đặt sinh sản nhân tạo trong bối cảnh tỷ lệ sinh thấp, kết hôn muộn và áp lực xã hội.[^4] Nếu chỉ coi công nghệ này như một công cụ tăng tỷ lệ sinh, sẽ không thấy được con người phía sau mỗi liệu trình.
+Năm 1985, vấn đề là liệu có thể để phôi thụ tinh ngoài cơ thể hay không. Năm 2007, vấn đề là làm thế nào để đưa hỗ trợ sinh sản vào luật pháp. Năm 2021, vấn đề là nguồn lực công có nên chia sẻ chi phí hay không. Đến năm 2025, vấn đề trở thành việc những loại hình gia đình nào không nên tiếp tục bị loại trừ.
 
-Những người đó bao gồm các cặp vợ chồng chờ kết quả phôi thai ở phòng khám, những phụ nữ đóng băng trứng, các gia đình nữ đồng tính phải đi nước ngoài để điều trị, cũng như những đứa trẻ lớn lên muốn biết mình xuất phát từ đâu.
+Một nghiên cứu chỉ ra rằng, hỗ trợ sinh sản thực sự đã làm tăng số lượng trẻ sinh ra bằng phương pháp ART tại Đài Loan. Nhưng nghiên cứu cũng đặt hỗ trợ sinh sản trong bối cảnh tỷ lệ sinh thấp, kết hôn muộn và áp lực xã hội. [^4] Nếu chỉ coi kỹ thuật này là công cụ để nâng cao tỷ lệ sinh, chúng ta sẽ không nhìn thấy những con người đứng sau mỗi liệu trình.
 
-Đó cũng là lý do tại sao dự thảo sửa đổi luật năm 2025 quan trọng, nhưng không thể viết thành «Đài Loan đã toàn diện mở cửa sinh sản nhân tạo». Dự thảo vẫn phải trải qua審議 của Lập pháp viện. Vấn đề mẹ thay thế và chồng nam đồng tính v.v., cũng không tự động giải quyết nhờ việc tách rời.
+Những con người đó bao gồm các cặp vợ chồng đang chờ đợi kết quả phôi trong phòng khám, những phụ nữ đang đông lạnh trứng, những gia đình đồng tính nữ phải ra nước ngoài để thực hiện liệu trình, và cả những đứa trẻ khi lớn lên muốn biết mình đến từ đâu.
 
-Pháp luật đã tiến lên một bước, nhưng chi tiết về y tế, quyền cha mẹ và quyền lợi của trẻ em vẫn cần theo kịp. Đài Loan không phải thiếu công nghệ sinh sản, mà là dùng rất lâu mới bắt đầu công nhận, những người muốn sử dụng công nghệ không chỉ có một loại gia đình.
+Đây cũng là lý do tại sao dự thảo sửa đổi năm 2025 rất quan trọng, nhưng không thể được viết thành "Đài Loan đã mở cửa hoàn toàn cho hỗ trợ sinh sản". Dự thảo vẫn cần được lập pháp viện thẩm định. Các vấn đề như mang thai hộ hay cặp đôi đồng tính nam cũng không tự động được giải quyết chỉ vì chúng được tách rời ra.
 
-📝 Ghi chú của người biên soạn: Một phôi thai có thể được nhìn thấy dưới kính hiển vi. Muốn một gia đình được nhìn thấy, thì cần y tế, pháp luật và xã hội cùng tiến về phía trước.
+Luật pháp đã tiến thêm một bước, nhưng các chi tiết về y tế, quyền làm cha mẹ và quyền lợi trẻ em vẫn cần phải theo kịp. Đài Loan không phải là không có kỹ thuật sinh sản, mà là đã mất rất nhiều thời gian mới bắt đầu thừa nhận rằng: những người muốn sử dụng kỹ thuật này không chỉ có một loại hình gia đình duy nhất.
+
+📝 Ghi chú của biên tập viên: Một phôi thai có thể được nhìn thấy dưới kính hiển vi. Nhưng để một gia đình được nhìn thấy, cần cả y tế, luật pháp và xã hội cùng tiến về phía trước.
 
 ## Đọc thêm
 
-[Cục Quản lý Y tế: Báo cáo kết quả thực hiện Công nghệ hỗ trợ sinh sản](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=60)
+[Cục Y tế Quốc gia: Báo cáo kết quả thực thi hỗ trợ sinh sản](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=60)
 
-[Nguyên viện: Tôn trọng quyền tự chủ sinh sản của phụ nữ, Nguyên viện thông qua dự thảo sửa đổi 'Luật Nhân tạo Sinh sản'](https://www.ey.gov.tw/Page/9277F759E41CCD91/1290a7ea-18ec-4d09-bbb5-2a6b125e31ef)
+[Hành chính Viện: Tôn trọng quyền tự chủ sinh sản của phụ nữ, Hành chính Viện thông qua dự thảo sửa đổi "Luật Hỗ trợ sinh sản"](https://www.ey.gov.tw/Page/9277F759E41CCD91/1290a7ea-18ec-4d09-bbb5-2a6b125e31ef)
 
-[Taipei Times: Cuộc hành trình sửa đổi Luật Hỗ trợ Sinh sản](https://www.taipeitimes.com/News/taiwan/archives/2024/06/24/2003819819)
+[Taipei Times: The quest to amend the Assisted Reproduction Act](https://www.taipeitimes.com/News/taiwan/archives/2024/06/24/2003819819)
 
 ## Tài liệu tham khảo
 
-[^1]: [Taipei Times: Cuộc hành trình sửa đổi Luật Hỗ trợ Sinh sản](https://www.taipeitimes.com/News/taiwan/archives/2024/06/24/2003819819) — Báo cáo tiếng Anh năm 2024, lấy trải nghiệm của cặp đôi nữ đồng tính tại Taiwan đi nước ngoài nhận IVF, cụ thể trình bày rủi ro y tế, chi phí và khó khăn trong xác định quyền cha mẹ.
+[^1]: [Taipei Times: The quest to amend the Assisted Reproduction Act](https://www.taipeitimes.com/News/taiwan/archives/2024/06/24/2003819819) — Bản tin tiếng Anh năm 2024, thông qua kinh nghiệm xuyên biên giới thực hiện IVF của các cặp đôi đồng tính nữ tại Đài Loan để trình bày cụ thể về rủi ro y tế, chi phí và khó khăn trong việc xác định quyền làm cha mẹ.
 
-[^2]: [Cục Quản lý Y tế: Báo cáo Quốc gia năm 2022 về Tóm tắt Công nghệ Hỗ trợ Sinh sản tại Taiwan](https://www.hpa.gov.tw/EngPages/Detail.aspx?nodeid=1063&pid=18837) — Trang báo cáo thường niên chính thức của Cục Quản lý Y tế, giải thích thời gian thi hành Luật Nhân tạo Sinh sản, số lượng cơ sở, nghĩa vụ cơ sở dữ liệu và phạm vi thống kê năm 2022.
+[^2]: [Cục Y tế Quốc gia: 2022 National Report of the Assisted Reproductive Technology Summary in Taiwan](https://www.hpa.gov.tw/EngPages/Detail.aspx?nodeid=1063&pid=18837) — Trang báo cáo thường niên chính thức của Cục Y tế Quốc gia, giải thích thời gian thực thi luật hỗ trợ sinh sản, số lượng cơ sở, nghĩa vụ xây dựng cơ sở dữ liệu và phạm vi thống kê năm 2022.
 
-[^3]: [Hứa và cộng sự: Việc sử dụng công nghệ hỗ trợ sinh sản trước và sau Luật Nhân tạo Sinh sản tại Taiwan](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211666/) — Nghiên cứu truy cập mở trên PLOS ONE, dựa trên dữ liệu chính thức của Taiwan phân tích đối tượng áp dụng luật, quy định nhân tạo sinh sản và xu hướng sử dụng từ 1998 đến 2017.
+[^3]: [Hsu et al.: Use of assisted reproductive technologies before and after the Artificial Reproduction Act in Taiwan](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211666/) — Nghiên cứu truy cập mở trên PLOS ONE, phân tích đối tượng áp dụng luật, các quy định về hỗ trợ sinh sản và xu hướng sử dụng từ năm 1998 đến 2017 dựa trên dữ liệu chính thức của Đài Loan.
 
-[^4]: [Hứa và cộng sự: Việc sử dụng công nghệ hỗ trợ sinh sản trước và sau Luật Nhân tạo Sinh sản tại Taiwan](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211666/) — Đoạn kết quả của nghiên cứu học thuật này cung cấp ước lượng thống kê về tỷ lệ sinh nhờ nhân tạo sinh sản và thay đổi sau khi luật được ban hành năm 2007, cũng như giải thích phương pháp và hạn chế của nghiên cứu.
+[^4]: [Hsu et al.: Use of assisted reproductive technologies before and after the Artificial Reproduction Act in Taiwan](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211666/) — Phần kết quả của nghiên cứu học thuật này cung cấp ước tính thống kê về tỷ lệ trẻ sinh ra nhờ hỗ trợ sinh sản và sự thay đổi sau khi lập pháp năm 2007, đồng thời giải thích phương pháp và hạn chế của nghiên cứu.
 
-[^5]: [Trần và cộng sự: Ước tính lợi ích kinh tế công cộng tại Taiwan từ thay đổi trợ cấp thụ tinh trong ống nghiệm thực hiện năm 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC11788206/) — Nghiên cứu truy cập mở trên Human Reproduction, đánh giá kết quả mô hình tài chính dài hạn từ việc thay đổi trợ cấp IVF năm 2021 và các giới hạn giả định của nó.
+[^5]: [Chen et al.: Estimating the public economic gains in Taiwan from in vitro fertilization subsidy changes implemented in 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC11788206/) — Nghiên cứu truy cập mở trên Human Reproduction, đánh giá kết quả mô hình tài chính dài hạn do thay đổi trợ cấp IVF năm 2021 và các hạn chế giả định của nó.
 
-[^6]: [Nguyên viện: Tôn trọng quyền tự chủ sinh sản của phụ nữ, Nguyên viện thông qua dự thảo sửa đổi 'Luật Nhân tạo Sinh sản'](https://www.ey.gov.tw/Page/9277F759E41CCD91/1290a7ea-18ec-4d09-bbb5-2a6b125e31ef) — Bản tin báo chí chính thức năm 2025 của Nguyên viện, liệt kê các điểm chính của sửa đổi pháp luật: phụ nữ chưa kết hôn và đồng hôn, lợi ích tối thượng của con cái, địa vị pháp lý cha mẹ con và quyền biết nguồn gốc máu me.
+[^6]: [Hành chính Viện: Tôn trọng quyền tự chủ sinh sản của phụ nữ, Hành chính Viện thông qua dự thảo sửa đổi "Luật Hỗ trợ sinh sản"](https://www.ey.gov.tw/Page/9277F759E41CCD91/1290a7ea-18ec-4d09-bbb5-2a6b125e31ef) — Thông cáo báo chí chính thức năm 2025 của Hành chính Viện, liệt kê các điểm sửa đổi như phụ nữ độc thân và đồng giới, lợi ích tốt nhất của con cái, địa vị pháp lý cha mẹ - con cái và quyền được biết về huyết thống.
 
-[^7]: [Cục Quản lý Y tế: Hội nghị Nguyên viện thông qua dự thảo sửa đổi 'Luật Nhân tạo Sinh sản'](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4878&pid=19679) — Giải thích chính thức của Cục Quản lý Y tế, trình bày quá trình hình thành dự thảo, hội nghị liên ngành, nghe ý kiến công chúng, cũng như thiết kế thể chế về quản lý quyên tặng và sức khỏe sinh sản.
+[^7]: [Cục Y tế Quốc gia: Hành chính Viện thông qua dự thảo sửa đổi "Luật Hỗ trợ sinh sản"](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4878&pid=19679) — Giải thích chính thức từ Cục Y tế Quốc gia, trình bày quá trình hình thành dự thảo, các cuộc họp liên ngành, điều trần công khai, cũng như thiết kế hệ thống quản lý hiến tặng và sức khỏe sinh sản.
 
-[^8]: [Công視: Phụ nữ đồng hôn, chưa kết hôn được đưa vào đối tượng áp dụng, tóm gọn các điểm chính của phiên bản Nguyên viện sửa đổi Luật Nhân tạo Sinh sản](https://news.pts.org.tw/article/785383) — Công視 News tổng hợp dự thảo phiên bản Nguyên viện, cụ thể giải thích quyền biết nguồn gốc máu me, bảo quản phôi, quan hệ cha mẹ con và tách biệt điều khoản về mẹ thay thế.
+[^8]: [PTS: Hôn nhân đồng giới, phụ nữ độc thân được đưa vào đối tượng áp dụng, điểm chính của dự thảo sửa đổi Luật Hỗ trợ sinh sản phiên bản Hành chính Viện](https://news.pts.org.tw/article/785383) — Tin tức từ mạng PTS tổng hợp dự thảo phiên bản Hành chính Viện, giải thích cụ thể bối cảnh các điều khoản về quyền biết huyết thống, lưu giữ phôi thai, quan hệ cha mẹ - con cái và việc tách rời vấn đề mang thai hộ.
 
-[^9]: [Quỹ Cải cách Tư pháp: Nhóm giới Cải cách Tư pháp đánh dấu trọng điểm | Tranh luận dự thảo mẹ thay thế](https://www.jrf.org.tw/articles/3234) — Bài viết của Quỹ Cải cách Tư pháp dân sự, tổng hợp về mẹ thay thế loại lợi他, đánh giá mẹ thay thế và giới hạn thù lao, cũng như trình bày bối cảnh thể chế khiến mẹ thay thế trở thành tranh luận chính.
+[^9]: [Quỹ Cải cách Tư pháp: Nhóm giới tính của Quỹ Cải cách Tư pháp tóm tắt trọng điểm | Tranh cãi dự thảo mang thai hộ](https://www.jrf.org.tw/articles/3234) — Bài viết từ Quỹ Cải cách Tư pháp dân sự, tổng hợp về mang thai hộ nhân đạo, đánh giá người mang thai hộ và hạn chế thù lao, đồng thời trình bày bối cảnh hệ thống khiến mang thai hộ trở thành tranh cãi chính.
