@@ -2,18 +2,20 @@
 title: 'Période de domination Qing'
 description: "De 1683 à 1895, la dynastie Qing a gouverné Taïwan pendant environ 212 ans, passant d'une administration passive à une construction active, posant les bases de la division administrative moderne de Taïwan et de la société han."
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags: ['History', 'Dynastie Qing', 'Ouverture commerciale', 'Incident de Mudan']
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-05-17T05:34:56+08:00'
+translatedAt: '2026-11-19T00:47:28.063867+00:00'
 ---
 
 # Période de domination Qing
@@ -68,15 +70,15 @@ Cette résistance est interprétée dans l'histoire taïwanaise ultérieure comm
 
 ## Références
 
-[^1]: [Période de domination Qing à Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Vue d'ensemble de la période de domination Qing à Taïwan, incluant le système de gouvernement, une chronologie des événements majeurs et les politiques de chaque phase.
+[^1]: [Taïwan sous la dynastie Qing — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Aperçu de la période Qing de Taïwan, incluant le système de gouvernance, la chronologie des événements majeurs et les politiques des différentes phases.
 
-[^2]: [Liu Mingchuan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biographie de Liu Mingchuan, premier gouverneur général de la province de Taïwan, et compte rendu de ses réalisations de modernisation lors de la création de la province.
+[^2]: [Liu Mingchuan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biographie du premier gouverneur de Taïwan, Liu Mingchuan, et compte rendu de ses efforts de modernisation lors de la création de la province.
 
-[^3]: [Guerre de Yiwei — Wikipédia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Chronologie complète de la résistance de la République démocratique de Taïwan contre la prise de contrôle japonaise en 1895, incluant la fuite de Tang Jing-song.
+[^3]: [Guerre de Yiwei — Wikipédia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Histoire complète de la résistance de la République de Formose face à la prise de possession japonaise en 1895, y compris la fuite de Tang Jingsong.
 
-[^4]: [Incident du Rover — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — L'incident du Rover en 1867, le Traité du Cap Sud et le déroulement des négociations de Charles Le Gendre.
+[^4]: [Incident du Rover — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — L'incident du Rover en 1867, le pacte de Nanji et les négociations menées par Charles Le Gendre.
 
-[^5]: [Incident de Shi Jiuduan — Wikipédia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — Révolte populaire de Changhua provoquée par la réforme fiscale foncière en 1888, l'un des plus grands événements de résistance fiscale de la fin de la dynastie Qing à Taïwan.
+[^5]: [Incident de Shi Jiuduan — Wikipédia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — La révolte populaire de Changhua en 1888 déclenchée par l'impôt Qing, le plus grand événement de résistance fiscale à Taïwan à la fin de la dynastie Qing.
 
 ## Note terminologique : 清治 (_Qing Zhi_) vs. 清領 (_Qing Ling_)
 
