@@ -1,22 +1,39 @@
 ---
 /**
- * AboutMilestones — 里程碑時間線（2026-11-19 關於頁進化）。
+ * AboutMilestones：「Taiwan.md 的誕生」整條時間軸（2026-11-19 關於頁進化 v3）。
  *
- * 兩層，都用時間軸既有的條目資料（about.ts 的 about.timeline.*，13 語都有），
- * 不另寫摘要：
+ * 哲宇：「時間軸不要再讓他們額外展開了。想要探索到後面的人，應該就會想要看那些故事。」
+ * 「橫向滾動在電腦版跟手機版上面都不是一個好的 UI/UX。」
  *
- *   1. 比例軸   一條照實際日期畫的橫軸。每一條細線是完整時間軸裡的一則紀錄，
- *               圓點是里程碑。它只負責讓人看見疏密（開站頭三週擠在一起），不能點。
- *   2. 里程碑卡 橫向可滑的一排（手機改直向）。每張卡是一則條目的日期與標題，
- *               點下去會展開下面完整的時間軸並捲到那一則。
+ * 所以這裡不再有橫向那一排里程碑卡、左右鍵、也不再收合。27 則全部直接排出來，
+ * 由上往下讀：
  *
- * 完整時間軸的標記留在樣板（about.template.astro 的 #timeline-full），
- * 這裡只連過去（#tl-<key>）。展開與捲動的腳本也在樣板。
+ *   1. 比例軸   一條照實際日期畫的橫軸（只在寬螢幕出現，不能點、不捲動）。
+ *               細線是一則紀錄，圓點是里程碑，讓人一眼看見開站頭三週有多擠。
+ *   2. 時間軸   依月份分組。寬螢幕左邊是月份欄（跟著那一組黏在畫面上），
+ *               右邊是一欄好讀的正文；手機收成單欄，月份變成每組的小標。
+ *               里程碑的圓點比較大、標題比較重，其他條目是空心小點。
+ *
+ * 每一則的內容（日期、標題、本文、媒體報導、延伸閱讀）都來自 about.ts 既有的
+ * about.timeline.<key>.* 字串，13 語都有；月份小標用 Intl 依語言排，不另寫字串。
+ * 每一則保留 id="tl-<key>"，舊連結照樣能直接跳到那一則。
  */
 import type { Lang } from '../../types';
 import { useTranslations } from '../../i18n/utils';
 import type { TranslationKey } from '../../i18n/utils';
 import { useAboutStrings, isEnglishFallback } from './strings';
+
+/**
+ * 本文的一段：字串是一個段落（about.timeline.<key>.<part>；結尾 .html 的照 HTML 輸出），
+ * 字串陣列是一張條列（每一項一個子鍵）。
+ */
+export type TimelineBodyPart = string | string[];
+
+export interface TimelinePress {
+  href: string;
+  source: string;
+  title: string;
+}
 
 export interface TimelineEntry {
   /** about.timeline.<key>.* 的 key */
@@ -24,6 +41,10 @@ export interface TimelineEntry {
   /** ISO 日期；沒有單一日期的條目（2024—2025、持續進行中）給 null */
   date: string | null;
   milestone?: boolean;
+  /** 本文由哪些子鍵組成，依序輸出。沒給就是 ['desc.html'] */
+  body?: TimelineBodyPart[];
+  /** 這一則附帶的媒體報導 */
+  press?: TimelinePress[];
   /** 「關於」分類底下對應的長文 */
   related?: { href: string; label: string };
 }
@@ -48,7 +69,8 @@ const dated = entries.filter((e) => e.date) as (TimelineEntry & {
 })[];
 const milestones = dated.filter((e) => e.milestone);
 
-// 軸：從第一則有日期的條目那個月的 1 號，到今天（至少比最後一則多一週）
+// ── 比例軸 ─────────────────────────────────────────────────────────
+// 從第一則有日期的條目那個月的 1 號，到今天（至少比最後一則多一週）
 const first = new Date(toMs(dated[0].date));
 const axisStart = Date.UTC(first.getUTCFullYear(), first.getUTCMonth(), 1);
 const lastEntry = toMs(dated[dated.length - 1].date);
@@ -56,7 +78,6 @@ const axisEnd = Math.max(toMs(today), lastEntry + 7 * DAY);
 const pos = (ms: number) =>
   Math.round(((ms - axisStart) / (axisEnd - axisStart)) * 10000) / 100;
 
-// 月份刻度
 const monthFmt = new Intl.DateTimeFormat(lang, {
   month: 'short',
   timeZone: 'UTC',
@@ -70,11 +91,83 @@ for (
   months.push({ left: pos(d.getTime()), label: monthFmt.format(d) });
 }
 const axisYear = first.getUTCFullYear();
+
+// ── 分組：有日期的依年月，沒有單一日期的自成一組 ──────────────────
+// 月份與年份分開排（月份大、年份小）。各自單獨格式化，中日韓才會帶上「月」「年」。
+const dtf = (opts: Intl.DateTimeFormatOptions) => {
+  try {
+    return new Intl.DateTimeFormat(lang, {
+      ...opts,
+      timeZone: 'UTC',
+      numberingSystem: 'latn',
+    });
+  } catch {
+    return new Intl.DateTimeFormat(lang, { ...opts, timeZone: 'UTC' });
+  }
+};
+const groupMonthFmt = dtf({ month: 'long' });
+const groupYearFmt = dtf({ year: 'numeric' });
+const groupFullFmt = dtf({ year: 'numeric', month: 'long' });
+
+interface Group {
+  id: string;
+  /** 有日期的組：年與月分開排（月份大、年份小） */
+  year?: string;
+  month?: string;
+  /** 有日期的組的完整名稱（例如「2026年3月」），給輔助科技念 */
+  full?: string;
+  /** 沒有單一日期的組：直接用那一則的日期字串 */
+  span?: string;
+  datetime?: string;
+  undated: boolean;
+  items: TimelineEntry[];
+}
+const groups: Group[] = [];
+for (const e of entries) {
+  if (!e.date) {
+    groups.push({
+      id: `tl-g-${e.key}`,
+      span: tk(`about.timeline.${e.key}.date`),
+      undated: true,
+      items: [e],
+    });
+    continue;
+  }
+  const ym = e.date.slice(0, 7);
+  const last = groups[groups.length - 1];
+  if (last && !last.undated && last.datetime === ym) {
+    last.items.push(e);
+    continue;
+  }
+  const d = new Date(toMs(`${ym}-01`));
+  groups.push({
+    id: `tl-g-${ym}`,
+    year: groupYearFmt.format(d),
+    month: groupMonthFmt.format(d),
+    full: groupFullFmt.format(d),
+    datetime: ym,
+    undated: false,
+    items: [e],
+  });
+}
+
+// 本文：一個 HTML 段落裡用兩個 <br/> 隔開的，拆成真的段落，段距才讀得出來
+const splitParas = (html: string) =>
+  html
+    .split(/<br\s*\/?>\s*<br\s*\/?>/i)
+    .map((x) => x.trim())
+    .filter(Boolean);
+const bodyOf = (e: TimelineEntry) => e.body ?? ['desc.html'];
+const k = (e: TimelineEntry, part: string) => `about.timeline.${e.key}.${part}`;
 ---
 
-<div class="ab-ms" data-ab-ms data-fallback-en={fallbackEn ? '' : undefined}>
-  <!-- 比例軸：看疏密用，不能點 -->
-  <figure class="ab-ms__axis-wrap">
+<div class="ab-ms" data-ab-ms>
+  <!-- 比例軸：看疏密用，不能點。補翻前退英文的只有這段圖說，
+       所以 data-fallback-en 只標在這裡，不讓下面已翻好的時間軸跟著改排方向 -->
+  <figure
+    class="ab-ms__axis-wrap"
+    data-fallback-en={fallbackEn ? '' : undefined}
+  >
     <div
       class="ab-ms__axis"
       role="img"
@@ -95,12 +188,8 @@ const axisYear = first.getUTCFullYear();
         ))
       }
       {
-        milestones.map((e, i) => (
-          <span
-            class="ab-ms__dot"
-            style={`--x:${pos(toMs(e.date))}%`}
-            data-ms-dot={i}
-          />
+        milestones.map((e) => (
+          <span class="ab-ms__dot" style={`--x:${pos(toMs(e.date))}%`} />
         ))
       }
       <span class="ab-ms__now" style="--x:100%"></span>
@@ -110,230 +199,117 @@ const axisYear = first.getUTCFullYear();
     </figcaption>
   </figure>
 
-  <div class="ab-ms__controls" data-ms-controls hidden>
-    <button
-      type="button"
-      class="ab-ms__btn"
-      data-ms-prev
-      aria-label={s('about.milestones.prev')}
-      data-ga-section="about_origin"
-      data-ga-label="milestone_prev"
-    >
-      <span class="ab-ms__arrow ab-ms__arrow--back" aria-hidden="true">←</span>
-    </button>
-    <span class="ab-ms__count" aria-hidden="true">
-      <span data-ms-index>1</span> / {milestones.length + 1}
-    </span>
-    <button
-      type="button"
-      class="ab-ms__btn"
-      data-ms-next
-      aria-label={s('about.milestones.next')}
-      data-ga-section="about_origin"
-      data-ga-label="milestone_next"
-    >
-      <span class="ab-ms__arrow ab-ms__arrow--fwd" aria-hidden="true">→</span>
-    </button>
-  </div>
-
-  <!-- 里程碑卡 -->
-  <div class="ab-ms__viewport">
-    <ol
-      class="ab-ms__track"
-      data-ms-track
-      aria-label={s('about.milestones.label')}
-    >
-      {
-        milestones.map((e, i) => (
-          <li class="ab-ms__stop" data-ms-card={i}>
-            <p class="ab-ms__date">
-              <time datetime={e.date} dir="auto">
-                {tk(`about.timeline.${e.key}.date`)}
-              </time>
-            </p>
-            <h3 class="ab-ms__title">
-              <a
-                class="ab-ms__main"
-                href={`#tl-${e.key}`}
-                data-ga-section="about_origin"
-                data-ga-label={`milestone_${e.key}`}
-              >
-                {tk(`about.timeline.${e.key}.title`)}
-              </a>
-            </h3>
-            <p class="ab-ms__actions">
-              <span class="ab-ms__read" aria-hidden="true">
-                {s('about.milestones.read')}
-                <span class="ab-ms__arrow">↓</span>
+  <!-- 完整時間軸：27 則全部直接排出來 -->
+  <div class="tl">
+    {
+      groups.map((g) => (
+        <section
+          class:list={['tl-group', g.undated && 'tl-group--undated']}
+          aria-labelledby={g.id}
+        >
+          <h3 class="tl-rail" id={g.id}>
+            {g.undated ? (
+              <span class="tl-rail__span">
+                <span dir="auto">{g.span}</span>
               </span>
-              {e.related && (
-                <a
-                  class="ab-ms__related"
-                  href={e.related.href}
-                  data-ga-section="about_origin"
-                  data-ga-label={`related_${e.key}`}
-                >
-                  {e.related.label}
-                  <span
-                    class="ab-ms__arrow ab-ms__arrow--fwd"
-                    aria-hidden="true"
-                  >
-                    →
-                  </span>
-                </a>
-              )}
-            </p>
-          </li>
-        ))
-      }
-      <li class="ab-ms__stop ab-ms__stop--now">
-        <p class="ab-ms__date">{tk('about.timeline.ongoing.date')}</p>
-        <h3 class="ab-ms__title">
-          <a
-            class="ab-ms__main"
-            href="#tl-ongoing"
-            data-ga-section="about_origin"
-            data-ga-label="milestone_ongoing"
-          >
-            {tk('about.timeline.ongoing.title')}
-          </a>
-        </h3>
-        <p class="ab-ms__actions">
-          <span class="ab-ms__read" aria-hidden="true">
-            {s('about.milestones.read')}
-            <span class="ab-ms__arrow">↓</span>
-          </span>
-        </p>
-      </li>
-    </ol>
+            ) : (
+              <time class="tl-rail__when" datetime={g.datetime}>
+                <span class="tl-rail__month" aria-hidden="true">
+                  {g.month}
+                </span>
+                <span class="tl-rail__year" aria-hidden="true">
+                  {g.year}
+                </span>
+                <span class="tl-sr">{g.full}</span>
+              </time>
+            )}
+          </h3>
+          <ol class="tl-list">
+            {g.items.map((e) => (
+              <li
+                class:list={[
+                  'tl-item',
+                  e.milestone && 'tl-item--milestone',
+                  e.key === 'ongoing' && 'tl-item--now',
+                ]}
+                id={`tl-${e.key}`}
+              >
+                <span class="tl-item__dot" aria-hidden="true" />
+                {!g.undated && (
+                  <p class="tl-item__date">
+                    <time datetime={e.date ?? undefined} dir="auto">
+                      {tk(k(e, 'date'))}
+                    </time>
+                  </p>
+                )}
+                <h4 class="tl-item__title">{tk(k(e, 'title'))}</h4>
+                <div class="tl-item__body">
+                  {bodyOf(e).map((part) =>
+                    Array.isArray(part) ? (
+                      <ul class="tl-item__list">
+                        {part.map((li) => (
+                          <li>{tk(k(e, li))}</li>
+                        ))}
+                      </ul>
+                    ) : part.endsWith('.html') ? (
+                      splitParas(tk(k(e, part))).map((html) => (
+                        <p set:html={html} />
+                      ))
+                    ) : (
+                      <p>{tk(k(e, part))}</p>
+                    ),
+                  )}
+                </div>
+                {e.press && e.press.length > 0 && (
+                  <ul class="tl-press">
+                    {e.press.map((p) => (
+                      <li>
+                        <a
+                          class="tl-press__link"
+                          href={p.href}
+                          target="_blank"
+                          rel="noopener"
+                        >
+                          <span class="tl-press__source">{p.source}</span>
+                          <span class="tl-press__title">{p.title}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                {e.related && (
+                  <p class="tl-item__more">
+                    <a
+                      class="tl-item__related"
+                      href={e.related.href}
+                      data-ga-section="about_origin"
+                      data-ga-label={`related_${e.key}`}
+                    >
+                      <span dir="auto">{e.related.label}</span>
+                      <span class="tl-item__arrow" aria-hidden="true">
+                        →
+                      </span>
+                    </a>
+                  </p>
+                )}
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
   </div>
 </div>
-
-<script>
-  // 卡片那一排滑到哪張，軸上對應的圓點就亮起來；左右鍵一次滑一張。
-  function initMilestones() {
-    const root = document.querySelector<HTMLElement>('[data-ab-ms]');
-    if (!root) return;
-    const track = root.querySelector<HTMLElement>('[data-ms-track]');
-    const controls = root.querySelector<HTMLElement>('[data-ms-controls]');
-    const prev = root.querySelector<HTMLButtonElement>('[data-ms-prev]');
-    const next = root.querySelector<HTMLButtonElement>('[data-ms-next]');
-    const indexEl = root.querySelector<HTMLElement>('[data-ms-index]');
-    if (!track || !controls || !prev || !next) return;
-    const cards = Array.from(track.children) as HTMLElement[];
-    const dots = Array.from(
-      root.querySelectorAll<HTMLElement>('[data-ms-dot]'),
-    );
-    controls.hidden = false;
-
-    const reduce = () =>
-      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const isRow = () => track.scrollWidth > track.clientWidth + 4;
-
-    let active = -1;
-    const setActive = (i: number) => {
-      if (i === active) return;
-      active = i;
-      dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
-      cards.forEach((c, ci) => c.classList.toggle('is-active', ci === i));
-      if (indexEl) indexEl.textContent = String(i + 1);
-    };
-
-    // 目前最靠近那一排起點的卡（RTL 時起點在右邊）
-    const nearest = () => {
-      const tr = track.getBoundingClientRect();
-      const rtl = getComputedStyle(track).direction === 'rtl';
-      const origin = rtl ? tr.right : tr.left;
-      let best = 0;
-      let bestDist = Infinity;
-      cards.forEach((c, i) => {
-        const r = c.getBoundingClientRect();
-        const dist = Math.abs((rtl ? r.right : r.left) - origin);
-        if (dist < bestDist) {
-          bestDist = dist;
-          best = i;
-        }
-      });
-      return best;
-    };
-
-    const update = () => {
-      const row = isRow();
-      controls.hidden = !row;
-      if (!row) {
-        setActive(-1);
-        return;
-      }
-      const i = nearest();
-      setActive(i);
-      const atEnd =
-        Math.abs(track.scrollLeft) + track.clientWidth >= track.scrollWidth - 4;
-      prev.disabled = Math.abs(track.scrollLeft) < 4;
-      next.disabled = atEnd;
-    };
-
-    const go = (delta: number) => {
-      const i = Math.max(0, Math.min(cards.length - 1, nearest() + delta));
-      cards[i].scrollIntoView({
-        behavior: reduce() ? 'auto' : 'smooth',
-        block: 'nearest',
-        inline: 'start',
-      });
-    };
-    prev.addEventListener('click', () => go(-1));
-    next.addEventListener('click', () => go(1));
-
-    let ticking = false;
-    track.addEventListener(
-      'scroll',
-      () => {
-        if (ticking) return;
-        ticking = true;
-        requestAnimationFrame(() => {
-          ticking = false;
-          update();
-        });
-      },
-      { passive: true },
-    );
-    window.addEventListener('resize', update, { passive: true });
-
-    // 滑鼠移到或鍵盤走到哪張卡，就亮哪個點
-    cards.forEach((c, i) => {
-      c.addEventListener('pointerenter', () => {
-        if (isRow()) {
-          dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
-        }
-      });
-      c.addEventListener('pointerleave', () => {
-        dots.forEach((d, di) => d.classList.toggle('is-active', di === active));
-      });
-      c.addEventListener('focusin', () => {
-        if (isRow()) {
-          dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
-        }
-      });
-    });
-
-    update();
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initMilestones);
-  } else {
-    initMilestones();
-  }
-</script>
 
 <style>
   .ab-ms {
     --ms-dot: 0.75rem;
-    --ms-card: clamp(14.5rem, 22vw, 16rem);
     --ms-line: var(--ab-rule-strong);
   }
 
   /* ── 比例軸 ─────────────────────────────────────────────── */
   .ab-ms__axis-wrap {
-    margin: 0;
+    margin: 0 0 var(--ab-gap-l);
   }
   .ab-ms__axis {
     position: relative;
@@ -361,7 +337,6 @@ const axisYear = first.getUTCFullYear();
     inset-inline-start: var(--x);
     padding-inline-start: 0.375rem;
   }
-  /* 月份的分隔線 */
   .ab-ms__month::before {
     content: '';
     position: absolute;
@@ -398,14 +373,6 @@ const axisYear = first.getUTCFullYear();
     border-radius: 50%;
     background: var(--ab-brand);
     box-shadow: 0 0 0 2px var(--ab-section-bg);
-    transition:
-      scale 0.25s ease,
-      background-color 0.25s ease;
-  }
-  .ab-ms__dot.is-active {
-    scale: 1.7;
-    background: var(--ab-heading);
-    z-index: 1;
   }
   .ab-ms__now {
     background: var(--ab-section-bg);
@@ -422,271 +389,385 @@ const axisYear = first.getUTCFullYear();
     color: var(--color-ink-soft);
   }
 
-  /* ── 里程碑卡：橫向一排 ─────────────────────────────────── */
-  .ab-ms__viewport {
+  /* ── 時間軸 ─────────────────────────────────────────────── */
+  .tl {
+    /* 月份欄寬、欄距、線的位置（從正文欄的起始邊往回量） */
+    --tl-rail: 9.5rem;
+    --tl-gap: 2.75rem;
+    --tl-indent: 2rem;
+    --tl-line-x: 0.4375rem;
+    --tl-dot: 0.625rem;
+    --tl-dot-ms: 0.9375rem;
+    --tl-body: color-mix(in srgb, var(--color-ink) 82%, var(--ab-section-bg));
     position: relative;
-    margin-block-start: var(--ab-gap-m);
-    margin-inline: calc(var(--ab-inner-pad) * -1);
+    max-inline-size: calc(var(--tl-rail) + var(--tl-gap) + 44rem);
+    margin-inline: auto;
   }
-  .ab-ms__controls:not([hidden]) + .ab-ms__viewport {
-    margin-block-start: 0;
-  }
-  .ab-ms__track {
-    position: relative;
-    display: flex;
-    gap: 0;
-    margin: 0;
-    padding: 0.5rem var(--ab-inner-pad) 1rem;
-    list-style: none;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x mandatory;
-    scroll-padding-inline: var(--ab-inner-pad);
-    scrollbar-width: thin;
-    scrollbar-color: var(--ab-rule-strong) transparent;
-  }
-  .ab-ms__track:focus-visible {
-    outline: 2px solid var(--color-accent);
-    outline-offset: 2px;
+  /* 一條不斷的線，貫穿所有月份 */
+  .tl::before {
+    content: '';
+    position: absolute;
+    inset-block: 0.75rem 0;
+    inset-inline-start: calc(var(--tl-rail) + var(--tl-gap) + var(--tl-line-x));
+    inline-size: 1px;
+    background: linear-gradient(
+      to bottom,
+      var(--ab-rule-strong),
+      var(--ab-rule-strong) calc(100% - 6rem),
+      transparent
+    );
   }
 
-  .ab-ms__stop {
-    position: relative;
-    flex: 0 0 var(--ms-card);
+  .tl-group {
+    display: grid;
+    grid-template-columns: var(--tl-rail) minmax(0, 1fr);
+    column-gap: var(--tl-gap);
+    padding-block-end: var(--space-7);
+  }
+  .tl-group:last-child {
+    padding-block-end: 0;
+  }
+
+  /* 月份欄：跟著這一組黏在畫面上，這一組讀完就離開 */
+  .tl-rail {
+    position: sticky;
+    inset-block-start: calc(var(--header-h, 57px) + var(--space-5));
+    align-self: start;
+    margin: 0;
+    padding-block-start: 0.125rem;
+    text-align: end;
+    font-family: var(--font-interface);
+    letter-spacing: 0;
+    color: var(--ab-heading);
+  }
+  .tl-rail__when {
     display: flex;
     flex-direction: column;
-    padding-block-start: 1.75rem;
-    padding-inline-end: var(--space-5);
-    scroll-snap-align: start;
+    align-items: flex-end;
+    gap: 0.25rem;
   }
-  /* 每張卡頂上的那一段線：連起來就是一條時間線 */
-  .ab-ms__stop::before {
-    content: '';
+  .tl-rail__month {
+    font-family: var(--font-reading);
+    font-size: 1.625rem;
+    font-weight: 700;
+    line-height: 1.15;
+  }
+  .tl-rail__year {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-soft);
+  }
+  .tl-rail__span {
+    display: block;
+    font-size: 0.9375rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+  }
+  /* 日期字串自己排方向（右到左頁面不把「2026 / 02 — 03」倒過來），
+     外層照頁面方向對齊，才會貼著那條線 */
+  .tl-rail__span > span {
+    unicode-bidi: isolate;
+  }
+  .tl-sr {
     position: absolute;
-    inset-inline: 0;
-    inset-block-start: calc(var(--ms-dot) / 2);
+    inline-size: 1px;
     block-size: 1px;
-    background: var(--ms-line);
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
   }
-  .ab-ms__stop::after {
-    content: '';
+
+  .tl-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tl-item {
+    position: relative;
+    padding-inline-start: var(--tl-indent);
+    padding-block-end: var(--space-6);
+    /* 站頭的高度全站已經用 scroll-padding-top 讓開了，這裡只多留一點呼吸 */
+    scroll-margin-block-start: var(--space-4);
+  }
+  .tl-item:last-child {
+    padding-block-end: 0;
+  }
+
+  /* 圓點：一般條目空心小點，里程碑實心大點，「持續進行中」是一圈 */
+  .tl-item__dot {
     position: absolute;
-    inset-inline-start: 0;
-    inset-block-start: 0;
-    inline-size: var(--ms-dot);
-    block-size: var(--ms-dot);
+    inset-inline-start: calc(var(--tl-line-x) - var(--tl-dot) / 2 + 0.5px);
+    inset-block-start: 0.4rem;
+    inline-size: var(--tl-dot);
+    block-size: var(--tl-dot);
     border-radius: 50%;
+    background: var(--ab-section-bg);
+    box-shadow:
+      inset 0 0 0 1.5px var(--ab-brand),
+      0 0 0 4px var(--ab-section-bg);
+  }
+  .tl-item--milestone .tl-item__dot {
+    inset-inline-start: calc(var(--tl-line-x) - var(--tl-dot-ms) / 2 + 0.5px);
+    inset-block-start: 0.3rem;
+    inline-size: var(--tl-dot-ms);
+    block-size: var(--tl-dot-ms);
     background: var(--ab-brand);
-    box-shadow: 0 0 0 3px var(--ab-section-bg);
-    transition: scale 0.25s ease;
+    box-shadow: 0 0 0 4px var(--ab-section-bg);
   }
-  .ab-ms__stop.is-active::after {
-    scale: 1.35;
-    background: var(--ab-heading);
-  }
-  .ab-ms__stop--now {
-    padding-inline-end: 0;
-  }
-  .ab-ms__stop--now::before {
-    inset-inline-end: auto;
-    inline-size: 0;
-  }
-  .ab-ms__stop--now::after {
+  .tl-item--now .tl-item__dot {
+    inset-inline-start: calc(var(--tl-line-x) - var(--tl-dot-ms) / 2 + 0.5px);
+    inline-size: var(--tl-dot-ms);
+    block-size: var(--tl-dot-ms);
     background: var(--ab-section-bg);
     box-shadow:
       inset 0 0 0 2px var(--ab-brand),
-      0 0 0 3px var(--ab-section-bg);
+      inset 0 0 0 4px var(--ab-section-bg),
+      inset 0 0 0 8px var(--ab-brand),
+      0 0 0 4px var(--ab-section-bg);
+  }
+  .tl-group--undated .tl-item__dot {
+    inset-block-start: 0.45rem;
   }
 
-  .ab-ms__date time {
-    unicode-bidi: isolate;
-  }
-  .ab-ms__date {
-    margin: 0 0 0.5rem;
+  .tl-item__date {
+    margin: 0 0 0.375rem;
     font-family: var(--font-interface);
     font-size: 0.8125rem;
     font-weight: 600;
     font-variant-numeric: tabular-nums;
     letter-spacing: 0.04em;
-    line-height: 1.4;
+    line-height: 1.5;
     color: var(--ab-brand);
   }
+  .tl-item__date time {
+    unicode-bidi: isolate;
+  }
 
-  .ab-ms__title {
-    margin: 0;
+  .tl-item__title {
+    margin: 0 0 0.75rem;
     font-family: var(--font-reading);
-    font-size: 1.0625rem;
+    font-size: 1.1875rem;
     font-weight: 600;
-    line-height: 1.6;
+    line-height: 1.55;
     letter-spacing: 0;
     color: var(--color-ink);
+    text-wrap: pretty;
   }
-  .ab-ms__main {
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-    line-clamp: 3;
-    overflow: hidden;
-    padding: 0;
+  .tl-item--milestone .tl-item__title,
+  .tl-item--now .tl-item__title {
+    font-size: 1.375rem;
+    font-weight: 700;
+    line-height: 1.45;
+  }
+
+  .tl-item__body {
+    max-inline-size: 40rem;
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    line-height: 1.85;
+    color: var(--tl-body);
+  }
+  .tl-item__body p {
+    margin: 0;
+    font-size: inherit;
+    line-height: inherit;
+    color: inherit;
+  }
+  .tl-item__body p + p,
+  .tl-item__body p + .tl-item__list,
+  .tl-item__list + p {
+    margin-block-start: 0.875rem;
+  }
+  .tl-item__list {
+    margin: 0;
+    padding-inline-start: 1.25rem;
+    color: inherit;
+  }
+  .tl-item__list li {
+    padding-block: 0.125rem;
+  }
+  .tl-item__list li::marker {
+    color: var(--ab-brand);
+  }
+  .tl-item__body :global(strong) {
+    font-weight: 600;
+    color: var(--color-ink);
+  }
+  .tl-item__body :global(a) {
+    color: var(--ab-brand);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
     border: 0;
+  }
+  .tl-item__body :global(a:hover) {
+    color: var(--color-ink);
+    text-decoration-color: currentColor;
+  }
+
+  /* 媒體報導：兩欄的小方塊，手機一欄 */
+  .tl-press {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.625rem;
+    max-inline-size: 40rem;
+    margin: var(--space-4) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tl-press__link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    block-size: 100%;
+    min-block-size: 44px;
+    padding: 0.75rem 0.875rem;
+    border: 1px solid var(--ab-rule);
+    border-radius: 10px;
+    background: var(--ab-surface);
     color: inherit;
     text-decoration: none;
+    transition: border-color 0.2s ease;
   }
-  /* 整張卡都是這個連結的觸控區 */
-  .ab-ms__main::after {
-    content: '';
-    position: absolute;
-    inset: 0;
+  .tl-press__link:hover {
+    border-color: var(--ab-brand);
   }
-  .ab-ms__main:focus-visible {
-    outline: none;
-  }
-  .ab-ms__stop:has(.ab-ms__main:focus-visible) {
+  .tl-press__link:focus-visible,
+  .tl-item__related:focus-visible {
     outline: 2px solid var(--color-accent);
-    outline-offset: 4px;
-    border-radius: 8px;
+    outline-offset: 2px;
+    border-radius: 10px;
   }
-  .ab-ms__stop:hover .ab-ms__title {
+  .tl-press__source {
+    font-family: var(--font-interface);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
     color: var(--ab-brand);
+  }
+  .tl-press__title {
+    font-family: var(--font-reading);
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: var(--color-ink);
   }
 
-  .ab-ms__actions {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0 var(--space-4);
-    margin: 0.375rem 0 0;
-    font-family: var(--font-interface);
-    font-size: 0.8125rem;
-    font-weight: 600;
+  /* 延伸閱讀 */
+  .tl-item__more {
+    margin: 0.5rem 0 0;
   }
-  .ab-ms__read {
+  .tl-item__related {
     display: inline-flex;
     align-items: center;
-    gap: 0.3rem;
+    gap: 0.375rem;
     min-block-size: 44px;
-    color: var(--color-ink-soft);
-  }
-  .ab-ms__stop:hover .ab-ms__read {
-    color: var(--ab-brand);
-  }
-  .ab-ms__related {
-    position: relative;
-    z-index: 1;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.3rem;
-    min-block-size: 44px;
-    padding: 0;
     border: 0;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
     color: var(--ab-brand);
     text-decoration: none;
   }
-  .ab-ms__related:hover {
+  .tl-item__related:hover {
     color: var(--color-ink);
   }
-  .ab-ms__arrow {
+  .tl-item__arrow {
     display: inline-block;
+    transition: translate 0.2s ease;
   }
-  :global([dir='rtl']) .ab-ms__arrow--fwd,
-  :global([dir='rtl']) .ab-ms__arrow--back {
+  .tl-item__related:hover .tl-item__arrow {
+    translate: 0.1875rem 0;
+  }
+  :global([dir='rtl']) .tl-item__arrow {
     scale: -1 1;
   }
+  :global([dir='rtl']) .tl-item__related:hover .tl-item__arrow {
+    translate: -0.1875rem 0;
+  }
 
-  /* ── 左右鍵 ── */
-  /* 跟圖說同一列，靠在列尾 */
-  .ab-ms__controls {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 0.5rem;
-    margin-block: -1.75rem var(--ab-gap-s);
-  }
-  .ab-ms__controls[hidden] {
-    display: none;
-  }
-  .ab-ms__btn {
-    display: grid;
-    place-items: center;
-    inline-size: 44px;
-    block-size: 44px;
-    border: 1px solid var(--ab-rule-strong);
-    border-radius: 50%;
-    background: var(--ab-surface);
-    color: var(--color-ink);
-    font-size: 1rem;
-    cursor: pointer;
-    transition:
-      border-color 0.2s ease,
-      color 0.2s ease;
-  }
-  .ab-ms__btn:hover:not(:disabled) {
-    border-color: var(--ab-brand);
+  /* 帶著 #tl-… 進來的那一則：淡淡標出來 */
+  .tl-item:target .tl-item__title,
+  .tl-item:global(.is-target) .tl-item__title {
     color: var(--ab-brand);
   }
-  .ab-ms__btn:disabled {
-    opacity: 0.35;
-    cursor: default;
-  }
-  .ab-ms__count {
-    min-inline-size: 3.5rem;
-    font-family: var(--font-interface);
-    font-size: 0.8125rem;
-    font-variant-numeric: tabular-nums;
-    text-align: center;
-    color: var(--color-ink-soft);
+
+  /* ── 窄一點的螢幕：月份欄收窄 ─────────────────────────────── */
+  @media (max-width: 1024px) {
+    .tl {
+      --tl-rail: 7.5rem;
+      --tl-gap: 2rem;
+    }
+    .tl-rail__month {
+      font-size: 1.375rem;
+    }
   }
 
-  /* ── 手機：直向 ─────────────────────────────────────────── */
+  /* ── 手機：單欄，月份變成每組的小標 ───────────────────────── */
   @media (max-width: 720px) {
     .ab-ms__axis-wrap {
       display: none;
     }
-    .ab-ms__controls {
-      display: none;
+    .tl {
+      --tl-indent: 1.75rem;
+      --tl-line-x: 0.4375rem;
+      max-inline-size: none;
     }
-    .ab-ms__viewport,
-    .ab-ms__controls:not([hidden]) + .ab-ms__viewport {
-      margin-block-start: 0;
-      margin-inline: 0;
+    .tl::before {
+      inset-inline-start: var(--tl-line-x);
+      inset-block-start: 2.5rem;
     }
-    .ab-ms__track {
-      flex-direction: column;
-      padding: 0;
-      overflow: visible;
-      scroll-snap-type: none;
+    .tl-group {
+      display: block;
+      padding-block-end: var(--space-6);
     }
-    .ab-ms__stop {
-      flex: 0 0 auto;
-      padding-block: 0 var(--space-4);
-      padding-inline: 1.75rem 0;
+    .tl-rail {
+      position: relative;
+      inset-block-start: auto;
+      z-index: 1;
+      display: inline-block;
+      margin-block-end: var(--space-4);
+      padding-block: 0.25rem;
+      padding-inline: 0 0.75rem;
+      background: var(--ab-section-bg);
+      text-align: start;
     }
-    /* 線改到起始側，直的 */
-    .ab-ms__stop::before {
-      inset-inline: calc(var(--ms-dot) / 2) auto;
-      inset-block: 0.5rem 0;
-      inline-size: 1px;
-      block-size: auto;
+    .tl-rail__when {
+      flex-direction: row;
+      align-items: baseline;
+      gap: 0.5rem;
     }
-    .ab-ms__stop::after {
-      inset-block-start: 0.3rem;
+    .tl-rail__month {
+      font-size: 1.25rem;
     }
-    .ab-ms__stop--now::before {
-      display: none;
+    .tl-item {
+      padding-block-end: var(--space-5);
     }
-    .ab-ms__stop--now {
-      padding-block-end: 0;
+    .tl-item__title {
+      font-size: 1.125rem;
     }
-    .ab-ms__main {
-      -webkit-line-clamp: 3;
-      line-clamp: 3;
+    .tl-item--milestone .tl-item__title,
+    .tl-item--now .tl-item__title {
+      font-size: 1.25rem;
+    }
+    .tl-item__body {
+      font-size: 1rem;
+      line-height: 1.8;
+    }
+    .tl-press {
+      grid-template-columns: minmax(0, 1fr);
     }
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .ab-ms__dot,
-    .ab-ms__stop::after,
-    .ab-ms__btn {
+    .tl-press__link,
+    .tl-item__arrow {
       transition: none;
     }
   }
