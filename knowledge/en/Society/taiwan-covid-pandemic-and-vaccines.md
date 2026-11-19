@@ -29,11 +29,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-01T21:55:10.939183+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T18:06:05.728154+00:00'
 ---
 
 # Taiwan's COVID-19 Pandemic and Vaccines: The Eighteen Months That Were Bought, and the Shot That Came Too Late
@@ -390,16 +392,16 @@ The remaining threads are also very clear. The Tzu Chi fraud case was indicted o
 
 ## Image Sources
 
-This article uses 7 images (1 CC0, 6 Creative Commons licensed), all cached in `public/article-images/society/` to avoid hotlinking from source servers; it also embeds 2 official videos from the PTS News YouTube channel. Subtitles were not extracted for either video, so no spoken content from the videos is quoted in the main text.
+This article uses 7 images (1 CC0, 6 Creative Commons licensed), all cached at `public/article-images/society/` to avoid hotlinking from source servers; it also embeds 2 official videos from the PTS News YouTube channel. Subtitles were not extracted for either video, and therefore no spoken content from the videos is quoted in the main text.
 
-- [A large COVID-19 vaccination site at Taipei Arena](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo: 玄史生, 2021-10-27, CC0 1.0 (hero)
-- [People queuing outside a pharmacy in Hsinchu City to purchase real-name masks](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo: Tbatb, 2020-03-30, CC BY-SA 4.0
+- [Large COVID-19 vaccination site at Taipei Arena](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo: 玄史生, 2021-10-27, CC0 1.0 (hero)
+- [People queuing outside a pharmacy in Hsinchu City to purchase real-name mask registration masks](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo: Tbatb, 2020-03-30, CC BY-SA 4.0
 - [Dongmen Station of the Taipei Metro during the Level 3 Alert period](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo: 稜光映像\_Brian, 2021-05-25, CC BY 3.0
-- [A street sign outside a rapid test site in Jisuie, Zhonghe District, New Taipei City](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
+- [Intersection signage outside a rapid antigen test site in Jisuie, Zhonghe District, New Taipei City](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
 - [President Tsai Ing-wen receiving the domestic Medigen vaccine](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo: Makoto Lin／Office of the President, ROC, 2021-08-23, CC BY 2.0
-- [Home rapid test kits provided free of charge by National Health Insurance for citizens aged 65 and above](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
-- [A notice with a QR code for the Electronic Leave-taking System at a shop entrance](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
-- Videos: PTS News 〈校正回歸〉 (Correction and Return) 20210522 report, PTS News 〈指揮中心終場記者會〉 (Central Epidemic Command Center Final Press Conference) 20230427 report (Official YouTube channel)
+- [Home rapid antigen test kits provided free of charge by National Health Insurance for citizens aged 65 and above](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
+- [QR code notice for the Electronic Leave-taking System (real-name contact tracing) at a shop entrance](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
+- Videos: PTS News 〈校正回歸〉 (Correction and Return) May 22, 2021 report; PTS News 〈指揮中心終場記者會〉 (Command Center Final Press Conference) April 27, 2023 report (YouTube official channel)
 
 ## References
 

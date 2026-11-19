@@ -1,35 +1,39 @@
 ---
-title: 'The Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan’s Longest-Running Chinese Poetry Journal'
-description: "In 1958, a 36-year-old Taiwanese former Japanese soldier published his first post-war Chinese poem under the pen name 'Huan Fu,' eleven years after he stopped writing in Japanese. Six years later, he and eleven others met in a living room in central Taiwan to transform this generation's experience of linguistic loss into a poetry society called 'Li'—a journal that has never ceased publication for 60 years, bringing local poetics from the margins into junior high school textbooks."
+title: "Lishi Poetry Society: A Group Forced to Forget Japanese, Sustaining Taiwan's Longest-Running Chinese Poetry Journal"
+description: "In 1958, a 36-year-old Taiwanese former Japanese soldier published the first post-war Chinese poem under the pseudonym 'Huanfu,' eleven years after he had stopped writing in Japanese. Six years later, he and eleven others gathered in a living room in central Taiwan to turn the linguistic displacement of their generation into a poetry society called 'Lishi'—which has remained in continuous publication for 60 years, bringing local poetics from the margins into middle school textbooks."
 date: 2026-06-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '文學'
 tags:
   [
-    'Li Poetry Society',
-    'Taiwan Modern Poetry',
-    'The Translingual Generation',
-    'Chen Chien-wu',
+    'Lishi Poetry Society',
+    'Taiwanese Modern Poetry',
+    'The Generation That Crossed Languages',
+    'Chen Chian-wu',
     'Lin Heng-tai',
-    'Bai Qiu',
+    'Bai Hu',
     'Wu Sheng',
     'Xiang Yang',
     'Local Literature',
-    'Native Soil Literature Debate',
+    'Nativist Literature Debate',
   ]
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-20
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/笠詩社.md'
+image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
+imageAlt: "Poet Wu Sheng at the 2016 Taipei International Book Exhibition, a native of Xizhou, Changhua, a poet of the earth whose poem 'Burden' has been included in middle school textbooks for over 40 years"
+imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:28d7ec6ba7695699'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-07-24T10:40:41+08:00'
-image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
-imageCredit: 'Rico Shen via Wikimedia Commons'
+sourceCommitSha: '8ddc02a734'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T18:24:53.148809+00:00'
 ---
 
 # The Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan’s Longest-Running Chinese Poetry Journal
@@ -109,23 +113,23 @@ This opposition was not merely an aesthetic choice, but a difference in structur
 
 The Li Poetry Society’s position—southern, local, simple, realistic—was marginalized and suppressed from the 1960s to the 1980s. But they did not stop. From 1964 to 2024, the _Li_ poetry journal published over 361 issues, never ceasing publication even once[^26].
 
-## The Day the Wolf Came, They Did Not Hide
+## The Day the "Wolf Came," They Did Not Hide
 
 1977 was a turning point.
 
-In April of that year, the _Cactus Magazine_, edited by Wang Chien-chuang, published three articles by Wang T’uo, Yin Cheng-hsiung, and Chu Hsi-ning, igniting the "Native Soil Literature Debate"[^27]. On August 17, Peng Ko published "If We Do Not Discuss Human Nature, What Is Literature?" in the _United Daily News_, explicitly criticizing Wang T’uo, Wei T’ien-tsung, and Chen Ying-zhen[^28].
+In April of that year, _Cactus Magazine_, edited by Wang Chien-chuang, published three articles by Wang To, Yin Cheng-hsiung, and Chu Hsi-ning, igniting the [Native Soil Literature Debate](/en/history/nativist-literature-debate/)[^27]. On August 17, Peng Ko published "Without Discussing Humanity, How Can There Be Literature?" in the _United Daily News_, specifically criticizing Wang To, Wei Tien-ts'ung, and Chen Ying-zhen[^28].
 
-Three days later, on August 20, 1977, Yu Guang-chung published the much-discussed "The Wolf Is Coming" in the _United Daily News_, accusing Taiwan’s native soil literature of "having a hidden alignment with the worker-peasant-soldier literature of mainland China that emphasizes class struggle"[^29].
+Three days later, on August 20, 1977, Yu Kwang-chung published the article that would be repeatedly discussed for years, "The Wolf Is Coming," in the _United Daily News_: he alleged that Taiwan's native soil literature "seemed to coincide with the worker-peasant-soldier literature emphasized in mainland China that stresses class struggle"[^29].
 
-During the Martial Law period, "worker-peasant-soldier literature" was a label that could kill. The _Liberty Times_ recalled the atmosphere at the time: "For a time, the large hat喻 as 'blood drops' caused panic in the literary world, permeating a肃杀 bloody atmosphere"[^30].
+During the martial law period, being labeled as a practitioner of "worker-peasant-soldier literature" was a death sentence. The _Liberty Times_ recalled the atmosphere at the time: "In an instant, the heavy label likened to 'Blood Dropper' (a lethal assassin) sent tremors through the literary world, permeated by a chilling, murderous aura"[^30].
 
-Nine days later, on August 29, 1977, the Kuomintang held the "Second Literary Symposium," with government/party/military representatives including Ting Mao-shih, Li Yuan-chu, Wang Sheng, and Li Huan, along with Yu Guang-chung and Yin Hsueh-man, convening over 270 people[^31]. The debate ultimately ended under official strategic co-optation: "native soil literature" was expanded and redefined as "patriotic literature" and "national literature"[^32].
+Nine days later, on August 29, 1977, the Kuomintang convened the "Second Literary Symposium." Government, party, and military representatives—including Ting Mao-shih, Li Yuan-tsu, Wang Sheng, and Li Huan—along with Yu Kwang-chung and Yin Hsueh-man, gathered over 270 people[^31]. The debate ultimately ended through strategic official co-optation: "native soil literature" was expanded and redefined as "patriotic literature" and "national literature"[^32].
 
-The main battlefield of the debate was fiction (Chen Ying-zhen, Wang T’uo, Huang Chun-ming, Wang Chen-ho, Yeh Shih-t’ao, Yang Ch’ing-chu). But the poetry world was moving in sync: the Li Poetry Society camp (Chen Chien-wu, Bai Qiu, Chao T’ien-i, Li Min-yung) stood fully on the side of the native soil faction[^33]. The "return to reality" demands of contemporary new-generation poetry societies like Dragon Clan, Mainstream, and Post-Wave were also legitimized[^34].
+The primary battlefield of the debate was the novel (involving Chen Ying-zhen, Wang To, Huang Chun-ming, Wang Chen-ho, Yeh Shih-t’ao, and Yang Ching-ch'u). However, the poetry scene was also in motion: the _Li_ Poetry Society camp (Chen Chien-wu, Pai Chiu, Chao Tien-yi, and Li Min-yung) stood firmly on the side of the native soil faction[^33]. Simultaneously, the "return to reality" demands of new generation poetry societies such as Dragon Clan, Mainstream, and Post-Wave were also rationalized[^34].
 
-The Li Poetry Society’s position was no longer just "north-south opposition," but a concrete existence "standing on the side of the local."
+The position of the _Li_ Poetry Society was no longer just about a "North-South divide," but rather a concrete existence of "standing on the side of the local."
 
-> ⚠️ **Controversial View**: This debate left a long-term memory wound. When Yu Guang-chung passed away in 2017, this history was re-examined; the Taiwan literary world’s views on "The Wolf Is Coming" remain divided to this day[^35]. Some commentators point out that the opposition in the debate was not simply "China faction vs. Taiwan faction," but intertwined three axes: "right-wing Chinese nationalism vs. left-wing Chinese nationalism vs. Taiwan local theory"[^36]. The Li Poetry Society’s position in this triangular structure was clear: they stood on the side of Taiwan local theory.
+> ⚠️ **Controversial Viewpoints**: This debate left a long-lasting scar on collective memory. When Yu Kwang-chung passed away in 2017, this period of history was re-examined; views within Taiwan's literary circles regarding "The Wolf Is Coming" remain divided to this day[^35]. Some commentators also point out that the opposition in the debate was not as simple as "China faction vs. Taiwan faction," but rather a complex intersection of three axes: "Right-wing Chinese nationalism vs. Left-wing Chinese nationalism vs. Taiwan localism"[^36]. Within this triangular structure, the position of the _Li_ Poetry Society was clear: they stood on the side of Taiwan localism.
 
 ## The Child Opens the Bento Box, No Egg Inside
 
@@ -392,4 +396,4 @@ Detailed media manifest and negative finding records are in [research report §M
 
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Taiwan literature anthology published by Columbia University收录s English translations of works by translingual generation poets.
 
-[^62]: This sentence is adapted from the core proposition of Taiwan.md MANIFESTO §Sovereignty’s Tower of Babel: "Sovereignty is not abstract. It is whether you can make your voice continue to exist in another language when others choose not to say your name." Reference [`docs/semiont/MANIFESTO.md §Relationship with Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
+[^62]: [`docs/semiont/MANIFESTO.md §Relationship with Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md) — This sentence is adapted from the core proposition of Taiwan.md MANIFESTO §Sovereignty’s Tower of Babel: "Sovereignty is not abstract. It is whether you can make your voice continue to exist in another language when others choose not to say your name." Reference.
