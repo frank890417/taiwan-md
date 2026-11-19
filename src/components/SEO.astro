@@ -608,7 +608,7 @@ const generateBreadcrumbLD = () => {
 const breadcrumbLD = generateBreadcrumbLD();
 ---
 
-<!-- Basic Meta Tags -->
+{/* Basic Meta Tags */}
 <meta name="description" content={description} />
 <meta name="keywords" content={dynamicKeywords} />
 <meta name="author" content="Taiwan.md" />
@@ -616,18 +616,18 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta name="theme-color" content="#004d40" />
 <meta name="format-detection" content="telephone=no" />
 
-<!-- Additional SEO Meta Tags -->
+{/* Additional SEO Meta Tags */}
 <meta name="revisit-after" content="7 days" />
 <meta name="distribution" content="global" />
 <meta name="rating" content="general" />
 
-<!-- AI-friendly summary meta tag -->
+{/* AI-friendly summary meta tag */}
 <meta name="ai-summary" content={aiSummary} />
 
-<!-- Canonical URL -->
+{/* Canonical URL */}
 <link rel="canonical" href={url} />
 
-<!-- RSS Feed -->
+{/* RSS Feed */}
 <link
   rel="alternate"
   type="application/rss+xml"
@@ -635,15 +635,17 @@ const breadcrumbLD = generateBreadcrumbLD();
   href={`${siteUrl}/feed.xml`}
 />
 
-<!-- Preconnect to external resources -->
+{/* Preconnect to external resources */}
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-<!-- DNS prefetch -->
+{/* DNS prefetch */}
 <link rel="dns-prefetch" href="//github.com" />
 <link rel="dns-prefetch" href="//x.com" />
 
-<!-- Dynamic Language Tags — resolved through the LangMap registry (frontmatter) -->
+{
+  /* Dynamic Language Tags — resolved through the LangMap registry (frontmatter) */
+}
 {
   emitHreflang &&
     hreflangTags.map((t) => (
@@ -656,7 +658,7 @@ const breadcrumbLD = generateBreadcrumbLD();
   )
 }
 
-<!-- Open Graph / Facebook -->
+{/* Open Graph / Facebook */}
 <meta property="og:type" content={type} />
 <meta property="og:url" content={url} />
 <meta property="og:title" content={fullTitle} />
@@ -716,7 +718,7 @@ const breadcrumbLD = generateBreadcrumbLD();
     tags.map((tag: string) => <meta property="article:tag" content={tag} />)
 }
 
-<!-- Twitter Card -->
+{/* Twitter Card */}
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@cheyuwu345" />
 <meta name="twitter:creator" content="@cheyuwu345" />
@@ -729,14 +731,16 @@ const breadcrumbLD = generateBreadcrumbLD();
   content={`${title} - ${lang === 'zh-TW' ? 'Taiwan.md 台灣知識庫' : 'Taiwan.md — Knowledge Base'}`}
 />
 
-<!-- Additional SEO
+{
+  /* Additional SEO
      2026-11-04 site-health: the hardcoded `robots`/`googlebot` "index, follow"
      tags were removed. index,follow is the crawler default, so they added
      nothing on normal pages — but on pages that opt out (Layout `noindex`,
      /search, /assets, [slug] noindex branch) they sat next to the real
-     "noindex" tag and the page told crawlers two opposite things. -->
+     "noindex" tag and the page told crawlers two opposite things. */
+}
 
-<!-- JSON-LD Structured Data -->
+{/* JSON-LD Structured Data */}
 <script type="application/ld+json" set:html={JSON.stringify(jsonLD, null, 2)} />
 <script
   type="application/ld+json"

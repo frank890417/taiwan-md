@@ -6,7 +6,8 @@ const currentPath = Astro.url.pathname;
 const { enLink, hasEn } = await getLangSwitchPath(currentPath);
 ---
 
-<!--
+{
+  /*
   Phase 4 leaf migration #1: Banner.astro
   ─────────────────────────────────────────
   - Converted to Tailwind atomic utilities in HTML
@@ -25,7 +26,8 @@ const { enLink, hasEn } = await getLangSwitchPath(currentPath);
     stays top-level (it already no-ops when #lang-banner is absent:
     `var b = ...; if (b) ...`), and Header.astro's offset script also
     null-checks `getElementById('lang-banner')`, so its absence is safe.
--->{
+*/
+}{
   hasEn && (
     <div
       id="lang-banner"

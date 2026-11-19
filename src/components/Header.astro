@@ -645,7 +645,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           }
         </nav>
 
-        <!-- Search -->
+        {/* Search */}
         <button
           class="search-toggle"
           aria-label={t('nav.aria-search')}
@@ -655,7 +655,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           <kbd>/</kbd>
         </button>
 
-        <!-- GitHub -->
+        {/* GitHub */}
         <a
           href="https://github.com/frank890417/taiwan-md"
           target="_blank"
@@ -669,8 +669,10 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           >
         </a>
 
-        <!-- Mobile hamburger — ☰↔✕ swap + aria-expanded inline so the close
-             affordance works even if the module script fails to load (#1142) -->
+        {
+          /* Mobile hamburger — ☰↔✕ swap + aria-expanded inline so the close
+             affordance works even if the module script fails to load (#1142) */
+        }
         <button
           class="menu-toggle"
           aria-label={t('nav.aria-toggle-menu')}
@@ -683,8 +685,10 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           /></button
         >
 
-        <!-- Lang dropdown (2026-04-24 β3: replaces 4-button row to scale to 5+ langs)
-             native names + globe icon let any reader recognize their language. -->
+        {
+          /* Lang dropdown (2026-04-24 β3: replaces 4-button row to scale to 5+ langs)
+             native names + globe icon let any reader recognize their language. */
+        }
         <div
           class="lang-dropdown"
           role="group"
@@ -725,11 +729,13 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         </div>
       </div>
 
-      <!-- Mobile Nav — 2026-07-24 redesign：
+      {
+        /* Mobile Nav — 2026-07-24 redesign：
            收合式 accordion（預設全收、一次只開一組、當前頁所屬組 server-render 先開）。
            群組列 = label 連結（navigates）＋獨立 48×48 chevron 鍵（expands），
            所有列 ≥48px 觸控目標；子選單用 grid-rows 0fr→1fr 動畫展開。
-           資料來源：frontmatter mobileSubLinks（跟 desktop dropdown 同一組目的地）。 -->
+           資料來源：frontmatter mobileSubLinks（跟 desktop dropdown 同一組目的地）。 */
+      }
       <nav
         id="primary-mobile-nav"
         class="nav-mobile"
@@ -796,7 +802,8 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   </div>
 </div>
 
-<!--
+{
+  /*
   Search Modal
   ────────────
   Hidden by default via `hidden`; JS toggles `.open` → adds `flex` via
@@ -805,7 +812,8 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   because the search results (.search-item, .search-hint, etc.) are
   rendered via innerHTML from the Layout.astro search script and rely on
   :global() selectors still living in this component's <style> block.
--->
+*/
+}
 <div
   id="search-modal"
   class="search-modal fixed inset-0 z-[200] hidden items-start justify-center pt-[12vh] [&.open]:flex max-[768px]:pt-[8vh]"
@@ -921,7 +929,8 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   }
 </script>
 
-<!--
+{
+  /*
   Phase 5 shell migration #2: Header.astro (partial)
   ──────────────────────────────────────────────────
   Migrated to Tailwind (removed from <style>):
@@ -945,7 +954,8 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   right abstraction for this component. See ADR-001 for the
   broader refactor philosophy (scoped <style> is allowed when it
   pays its way).
--->
+*/
+}
 <style>
   /* =============================================
      JADE PALETTE + GLASS TOKEN SYSTEM
