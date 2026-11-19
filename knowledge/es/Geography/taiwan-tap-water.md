@@ -1,8 +1,8 @@
 ---
 title: 'Taiwán: El ingenio civil detrás del grifo y la ansiedad por la sequía'
 description: 'En 1885, en la ciudad de Taipéi ya se perforaban pozos, se filtraba y desinfectaba el agua; en 2026, seguimos tratando el grifo como un sonido de fondo. Desde los sistemas de agua de la era colonial japonesa, la creación de la Empresa de Agua Potable de Taiwán en 1974, hasta la sequía, las fugas y la contaminación del agua cruda, este artículo cuestiona algo cotidiano pero no trivial: cuánta ingeniería civil debe atravesar una gota de agua para aparecer puntualmente cuando abres el grifo.'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'Agua potable',
@@ -11,17 +11,19 @@ tags:
     'Sequía',
     'Agua potable',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-11T06:37:11+08:00'
+translatedAt: '2026-11-19T11:26:03.570372+00:00'
 ---
 
 > **Resumen en 30 segundos:** Entre 1885 y 1890, Taipéi ya experimentó intentos de suministro público de agua mediante la perforación de pozos, filtración y desinfección. El proyecto de la cuenca de captación del río Xindian en 1907 introdujo el agua potable moderna en la ciudad. La tasa de cobertura de suministro de agua en todo Taiwán pasó de aproximadamente el 10% en los años posteriores a la guerra hasta el 93,1 % en 2013, pero el agua no se convirtió por ello en algo «que aparece por arte de magia». El grifo de hoy sigue conectado a puntos de captación, plantas de tratamiento, decenas de miles de kilómetros de tuberías, transferencias interregionales y a los sacrificios que cada sequía impone.
@@ -131,24 +133,24 @@ Este artículo utiliza dos imágenes de licencia libre de Wikimedia Commons, inc
 
 ## Referencias
 
-[^1]: [Oficina de Empresas de Agua Potable de Taipéi: Historia y Evolución](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — La autoridad oficial de suministro de agua de Taipéi organiza la cronología desde el suministro público de 1885, la cuenca del río Xindian de 1907, hasta el oleoducto de Feicui y la resiliencia del suministro reciente.
+[^1]: [Oficina de Agua de Taipei: Historia y evolución](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — La agencia oficial de suministro de agua de la ciudad de Taipei compila la línea temporal desde el suministro público de agua en 1885, la fuente de agua del río Xindian en 1907, hasta la tubería de agua cruda de Feitsui y la resiliencia del suministro de agua en años recientes.
 
-[^2]: [Oficina de Recursos Hídricos del Ministerio de Economía: Resumen del Desarrollo del Agua Potable en Nuestro País (Parte II)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — El boletín electrónico de la Oficina de Recursos Hídricos explica el contexto institucional del cambio en la tasa de cobertura posterior a la guerra, la consolidación de las plantas de agua provinciales y la creación de la Compañía de Agua Potable de Taiwán.
+[^2]: [Agencia de Recursos Hídricos del Ministerio de Asuntos Económicos: Resumen del desarrollo del agua potable en nuestro país (parte inferior)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — El boletín electrónico de la Agencia de Recursos Hídricos explica los cambios en la tasa de cobertura del suministro de agua de posguerra, la consolidación de plantas de agua en toda la provincia y el contexto institucional de la creación de la Compañía de Agua de Taiwán.
 
-[^3]: [Compañía de Agua Potable de Taiwán: Informe Estadístico Anual de la Industria del Agua Potable de Taiwán](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — La entrada de estadísticas anuales públicas de la compañía estatal de suministro, que enumera tablas de fuentes de agua, caudal de salida, población abastecida, tasa de cobertura, equipos de tratamiento y tuberías.
+[^3]: [Compañía de Agua de Taiwán: Anuario estadístico del negocio de agua potable de Taiwán](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Portal de estadísticas anuales público de la empresa estatal de suministro de agua, que enumera tablas de fuentes de agua, agua producida, población servida, tasa de cobertura, equipos de purificación y tuberías.
 
-[^4]: [Compañía de Agua Potable de Taiwán: Gestión de Recursos Hídricos de Shui](https://www.water.gov.tw/esg/Contents?nodeId=8633) — La página de sostenibilidad de Shui explica los 141 sistemas de suministro, las 486 plantas de tratamiento, la modernización de las plantas, la mejora de fugas y los indicadores de gestión de calidad del agua.
+[^4]: [Compañía de Agua de Taiwán: Gestión de recursos hídricos de Taiwán Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — La página de sostenibilidad de Taiwán Water explica 141 sistemas de suministro de agua, 486 plantas de purificación, modernización de plantas de purificación, mejora de fugas e indicadores de gestión de calidad del agua.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Artículo académico en inglés que revisa la tecnología de agua regenerada en Taiwán, casos industriales, el contexto de sequía y escasez, y el objetivo de suministro de agua regenerada para 2031.
+[^5]: [Agua regenerada en Taiwán: estado actual y perspectivas futuras](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Artículo académico en inglés que revisa la tecnología de agua regenerada de Taiwán, casos industriales, contexto de sequía y escasez de agua, y la meta de suministro de agua regenerada para 2031.
 
-[^6]: [Nuestra Isla: ¿Cuando una sequía secular se convierte en la norma? El problema ineludible del agua](https://ourisland.pts.org.tw/content/9997) — Informe profundo de TVBS que registra la sequía en el sur de Taiwán, suministro a presión reducida, agua regenerada, aguas subterráneas cercanas a la superficie, pozos de emergencia para la sequía y el contexto de política pública de la tasa de fugas.
+[^6]: [Nuestra isla: ¿Cuando la sequía centenaria se vuelve la norma? El problema del agua ineludible](https://ourisland.pts.org.tw/content/9997) — Reportaje en profundidad de PTS que documenta la sequía en el sur de Taiwán, suministro de agua a presión reducida, agua regenerada, agua subterránea, pozos antisequía y el contexto de políticas públicas sobre la tasa de fugas.
 
-[^7]: [Centro de Medios Tecnológicos de Taiwán: Opiniones de expertos sobre las posibles causas de la escasez de agua en los embalses de Taiwán en 2021 y los mecanismos de transferencia](https://smctw.tw/9462/) — Reúne a expertos en recursos hídricos, medio ambiente y recursos culturales para distinguir entre sequía y escasez de agua, discutiendo embalses, ríos, aguas subterráneas, mantenimiento de tuberías y transferencia de precios del agua.
+[^7]: [Centro de Medios de Ciencia y Tecnología de Taiwán: Opiniones de expertos sobre las posibles causas de la escasez de agua en embalses de Taiwán en 2021 y mecanismos de despacho](https://smctw.tw/9462/) — Reúne a expertos en recursos hídricos, medio ambiente y recursos culturales para distinguir entre sequía y escasez de agua, discutiendo embalses, ríos, agua subterránea, mantenimiento de tuberías y despacho de precios del agua.
 
-[^8]: [The Reporter: Data Reporter: Mapa interactivo revela 10 cuencas de riesgo](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Investiga los riesgos de contaminación del agua cruda mediante puntos de captación, zonas de protección y datos de multas ambientales, presentando el conflicto entre la seguridad del suministro y la gobernanza de la tierra en el tramo superior.
+[^8]: [The Reporter: Data Reporter: Mapa interactivo revela las 10 cuencas de mayor riesgo](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Investiga el riesgo de contaminación de agua cruda usando datos de tomas de agua, áreas protegidas y sanciones ambientales, presentando el conflicto entre la seguridad del suministro de agua y la gobernanza de tierras aguas arriba.
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — La página oficial en inglés de Shui revisa la cobertura de suministro en los 50 años de la compañía, la expansión de tuberías, la respuesta a desastres y las estrategias de resiliencia climática.
+[^9]: [Taiwan Water Corporation: Mensaje del presidente](https://www.water.gov.tw/en/Contents?nodeId=4875) — La página oficial en inglés de Taiwán Water repasa los 50 años de la empresa: cobertura de suministro de agua, expansión de tuberías, respuesta a desastres y estrategias de resiliencia climática.
 
-[^10]: [Oficina de Recursos Hídricos: Resumen del Desarrollo del Agua Potable en Nuestro País (Parte I)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — La Oficina de Recursos Hídricos explica los daños a los sistemas de suministro causados por la guerra y la fase de reconstrucción de la reparación de 77 sistemas de agua potable rurales bajo la inyección de la ayuda estadounidense.
+[^10]: [Agencia de Recursos Hídricos: Resumen del desarrollo del agua potable en nuestro país (parte superior)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — La Agencia de Recursos Hídricos explica el daño a los sistemas de suministro de agua causado por la guerra, y la fase de posguerra de reconstrucción de 77 sistemas de agua potable rurales con ayuda de EE. UU.
 
-[^11]: [Oficina de Recursos Hídricos: Enero de 1952 - Establecimiento del Cuartel General de Ingeniería de la Oficina de Construcción del Gobierno Provincial y el Desarrollo de la Industria del Agua Potable de Taiwán](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — La Oficina de Recursos Hídricos organiza la renovación de equipos de 1946 a 1974, subsidios al suministro rural, el Cuartel General de Ingeniería, la Oficina de Ingeniería Pública y la integración de las 128 plantas de agua.
+[^11]: [Agencia de Recursos Hídricos: Enero de 1952 - Establecimiento del Cuerpo de Ingeniería de la Oficina de Construcción del Gobierno Provincial y desarrollo del negocio de agua potable de Taiwán](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — La Agencia de Recursos Hídricos compila la reparación de equipos, subsidios de agua potable rural, el Cuerpo de Ingeniería, la Oficina de Obras Públicas y la integración de 128 plantas de agua de 1946 a 1974.
