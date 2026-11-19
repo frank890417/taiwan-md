@@ -29,11 +29,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-01T23:22:46.360126+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T18:23:35.884608+00:00'
 ---
 
 # جائحة كوفيد-19 واللقاحات في تايوان: ثمانية عشر شهرًا تم شراؤها، وتلك الجرعة التي لم تُدرك
@@ -390,16 +392,16 @@ _تقرير شبكة أخبار 公視 في 27 أبريل 2023: المؤتمر �
 
 ## مصادر الصور
 
-يستخدم هذا المقال 7 صور (صورة واحدة تحت رخصة CC0، و6 صور تحت رخص المشاع الإبداعي CC)، جميعها مخزنة مؤقتًا في `public/article-images/society/` لتجنب استهلاك النطاق الترددي لخوادم المصادر الأصلية؛ كما تم تضمين مقطعي فيديو من القناة الرسمية لشبكة أخبار 公視 (PTS News). لم يتم استخراج الترجمة النصية للمقطعين، وبناءً عليه لا يقتبس متن المقال أي تصريحات واردة في الفيديو.
+استخدم هذا المقال 7 صور (صورة واحدة تحت رخصة CC0، و6 صور تحت رخص المشاع الإبداعي CC)، جميعها مخزنة مؤقتًا في `public/article-images/society/` لتجنب استهلاك النطاق الترددي لخوادم المصدر؛ كما تم تضمين مقطعي فيديو من القناة الرسمية لشبكة أخبار 公視 (PTS News)، ولم يتم سحب الترجمة النصية لأي منهما، لذا لا يقتبس نص المقال أي تصريحات واردة في الفيديوهات.
 
-- [مركز التطعيم الضخم لكوفيد-19 في معرض تايبيه للجمال](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — تصوير: 玄史生، 27-10-2021، CC0 1.0 (الصورة الرئيسية)
+- [مركز التطعيم الضخم لكوفيد-19 في متحف تايبيه للجمال](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — تصوير: 玄史生، 27-10-2021، CC0 1.0 (الصورة الرئيسية)
 - [طابور أمام صيدلية في مدينة سينشو لشراء الكمامات بنظام الاسم الحقيقي](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — تصوير: Tbatb، 30-03-2020، CC BY-SA 4.0
 - [محطة دونغمن في مترو تايبيه خلال فترة الإنذار من المستوى الثالث](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — تصوير: 稜光映像\_Brian، 25-05-2021، CC BY 3.0
-- [إعلان عند تقاطع طرق خارج محطة الفحص السريع في جيسوي، منطقة تشونغ-هو بمدينة نيو تايبيه](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — تصوير: Tsuna Lu (Adsa562)، 12-06-2021، CC BY-SA 4.0
-- [الرئيسة تساي إنغ-ون تتلقى لقاح "هاي-تاند" المحلي](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — تصوير: Makoto Lin／الرئاسة لجمهورية الصين (تايوان)، 23-08-2021، CC BY 2.0
+- [إعلان عند تقاطع طرق خارج محطة الفحص السريع في جيسوي، منطقة تشونغ-هو، مدينة نيو تايبيه](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — تصوير: Tsuna Lu (Adsa562)، 12-06-2021، CC BY-SA 4.0
+- [الرئيسة تساي إنغ-ون تتلقى لقاح Medigen المحلي](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — تصوير: Makoto Lin／المكتب الرئاسي لجمهورية الصين (تايوان)، 23-08-2021، CC BY 2.0
 - [التأمين الصحي الوطني يوفر أطقم فحص سريع منزلية مجانية للمواطنين الذين تزيد أعمارهم عن 65 عامًا](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — تصوير: ThomasYehYeh، 07-11-2022، CC BY-SA 4.0
-- [إعلان رمز QR الخاص بنظام تتبع المخالطين عبر الرسائل النصية عند مدخل المتجر](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — تصوير: IiTheCavalryiI، 23-05-2022، CC BY-SA 4.0
-- فيديو: تقرير شبكة أخبار 公視 بعنوان 〈العودة إلى التصحيح〉 بتاريخ 22-05-2021، وتقرير شبكة أخبار 公視 بعنوان 〈المؤتمر الصحفي الختامي لمركز القيادة〉 بتاريخ 27-04-2023 (القناة الرسمية على YouTube)
+- [إعلان رمز QR الخاص بنظام التتبع الإلكتروني عند مدخل المتجر](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — تصوير: IiTheCavalryiI، 23-05-2022، CC BY-SA 4.0
+- فيديو: تقرير شبكة أخبار 公視 بعنوان 〈校正回歸〉 بتاريخ 22-05-2021، وتقرير شبكة أخبار 公視 بعنوان 〈指揮中心終場記者會〉 بتاريخ 27-04-2023 (القناة الرسمية على YouTube)
 
 ## المراجع
 

@@ -38,11 +38,13 @@ sporeLinks:
     date: '2026-07-26'
     url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-11-03T22:34:58.796073+00:00'
+translatedAt: '2026-11-19T19:01:00.437054+00:00'
 ---
 
 # التنجستن: تايوان لا تملك مناجم للتنجستن، لكنها تُنتج مساحيق يحتاجها العالم أجمع؛ موقع أكثر هشاشة مما يتخيله البعض
@@ -204,11 +206,12 @@ _معدن التنجستن النقي وعينة من خام التنجستن ا
 
 ## قراءة إضافية
 
-- [صناعة أشباه الموصلات](/ar/technology/taiwan-semiconductor-industry) — موقع التنجستن داخل الرقائق، وهو جزء صغير من مسار ثورة المواد التي استمرت 50 عامًا.
-- [الشركات التايوانية: TSMC](/ar/economy/tsmc) — إلى من يؤول في النهاية تنجستات الصوديوم المستخلصة من بينغتون؟
+- [خريطة سلاسل التوريد](/industry/supply-chain-map/) — نظرة مفصلة على ثلاث سلاسل: أشباه الموصلات، خوادم الذكاء الاصطناعي، والتنجستن؛ لمعرفة الشركات الموجودة في تايوان وأي الحلقات تعتمد على الخارج.
+- [صناعة أشباه الموصلات](/ar/technology/taiwan-semiconductor-industry) — موقع التنجستن داخل الرقائق الإلكترونية، كجزء صغير من مسار ثورة المواد التي استمرت 50 عامًا.
+- [الشركات التايوانية: TSMC](/ar/economy/tsmc) — إلى أين يتدفق تنجستات الصوديوم الذي تمت معالجته في بينغتون (Pingtung) في نهاية المطاف.
 - [التجارة الخارجية لتايوان وسلاسل التوريد العالمية](/ar/economy/taiwan-foreign-trade-and-global-supply-chain) — الوضع طويل الأمد لتايوان، حيث تعمل كعقدة وفجوة في آن واحد ضمن سلاسل توريد الآخرين.
-- [الكهرباء وأشباه الموصلات في تايوان](/ar/technology/taiwan-electricity-and-semiconductors) — مورد آخر على الجزيرة يعاني من النقص، لكنه يدعم "جبل حماية الوطن" (صناعة أشباه الموصلات).
-- [صناعة الروبوتات في تايوان](/ar/technology/taiwan-robotics-industry) — المحطة التالية لتجمع الآلات الدقيقة في جبل دادو.
+- [الكهرباء وأشباه الموصلات في تايوان](/ar/technology/taiwan-electricity-and-semiconductors) — مورد آخر يعاني من نقص على الجزيرة، لكنه يدعم "الجبل المقدس" الذي يحمي الأمة.
+- [صناعة الروبوتات في تايوان](/ar/technology/taiwan-robotics-industry) — المحطة التالية لتجمع الآلات الدقيقة في منطقة داتوشان (Dadu Mountain).
 
 ## مصادر الصور
 
