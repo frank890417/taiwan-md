@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-05T07:27:36.906134+00:00'
+translatedAt: '2026-11-19T09:39:24.681325+00:00'
 ---
 
 # हुआंग वू-श्योंग और ताइवान के सामुदायिक कॉलेज: मतपत्र से परे लोकतंत्र को कक्षा में लाना
@@ -111,11 +111,13 @@ Springer में शामिल अंग्रेजी अकादमि�
 
 चित्र: Ephemeral Days, 〈Taipei Municipal Wenshan School of Special Education〉, Wikimedia Commons, CC BY-SA 4.0। चित्र फ़ाइल पृष्ठ: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Municipal_Wenshan_School_of_Special_Education.jpg)।
 
-## विस्तारित पठन
+## आगे पढ़ें
 
 [सामुदायिक कॉलेज राष्ट्रीय संवर्धन संघ: सामुदायिक कॉलेज डेटाबेस और सामाजिक अभ्यास](https://www.napcu.org.tw/db_list.html)
 
 [शिक्षा मंत्रालय: सामुदायिक कॉलेज विकास अधिनियम संबंधी विवरण](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[यांग वेई-झे: गणित के प्रोफेसर ने पहले ताइवानी भाषा का पाठ्यक्रम शुरू किया, बहस बाद में आई](/hi/people/yang-wei-cher) — हुआंग वू-श्योंग के एनटीयू गणित विभाग के पुराने मित्र और सहकर्मी, दोनों ने मिलकर चेन वेन-चेंग स्मारक फाउंडेशन में भाग लिया, यांग वेई-झे ने कीलुंग सामुदायिक कॉलेज में ताइवानी भाषा में गणित भी पढ़ाया।
 
 ## संदर्भ सामग्री
 
