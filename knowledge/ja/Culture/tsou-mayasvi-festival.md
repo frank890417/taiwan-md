@@ -1,28 +1,30 @@
 ---
 title: 'ツオ族の戦祭 Mayasvi：クバの火、戦争を再演しない'
 description: '毎年阿里山のタプア（達邦）とテフヌ（特富野）の間で、ツオ族は Mayasvi において神を迎え、歌い、祭屋を巡行し、戦争の記憶を部落共同生活の秩序へと転換させます。戦祭は山間部の観光行事ではありません。真の核心はクバ（kuba）にあり、今も族人によって維持・使用され、入場規範を持つ会所なのです。'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['ツオ族', '先住民族', 'Mayasvi', 'クバ', '祭儀']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['ツオ族', '先住民族', 'Mayasvi', 'クバ', '祭儀']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-23T22:11:46+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-19T13:35:41.925269+00:00'
 ---
 
-> **30 秒概要：** Mayasvi は通常「戦祭」と訳されますが、今日の祭儀は獣首狩りや戦争をそのまま再演するものではありません。それはクバ——ツオ族の男子会所——を中心とし、各氏族が迎神、歌舞、祭屋、送神の間で互いの責任を再確認する場です。最も記憶に留めるべき対比は、戦祭が保存しているのが暴力ではなく、暴力が日常生活から去った後にもツオ族がいかに共同体を組織し続けてきたかという点です。
+> **30秒でわかる概要：** Mayasvi は通常「戦祭」と訳されますが、今日の祭儀はかつての首狩りや戦争を再現するものではありません。それはツオ族の男子会所である kuba（クバ）を中心に、各氏族が神を迎える儀式、歌舞、祭屋での儀礼、そして神を送るプロセスを通じて、互いの責任を再確認する場となっています。最も注目すべき対比は、戦祭が保存しているのは暴力ではなく、「暴力が日常生活から去った後も、ツオ族がいかにして共同体を組織し続けてきたか」という点にあります。
 
-![ツオ族伝統舞踊公演、2008 年 4 月 2 日。撮影：小卡、CC BY 2.0、Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![ツオ族の伝統的な踊りのパフォーマンス、2008年4月2日。撮影：小卡（Xiao Ka）、CC BY 2.0、Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_画像出典：[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)、撮影：小卡、ライセンス：[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。画像はツオ族の伝統舞踊を示し、Mayasvi 特定の回次やクバ内部儀式を謳うものではありません。[^9]_
+_画像出典：[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)、撮影：小卡（Xiao Ka）、ライセンス：[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)。この画像はツオ族の伝統的な踊りを映したものであり、Mayasvi の特定の回や kuba 内部の儀式を宣伝するものではありません。[^9]_
 
 ## タプアの火、まずは観光客のためではない
 
@@ -119,22 +121,22 @@ Taiwan.md にとってもこれは執筆上の境界線です。祭儀手順と�
 - [原住民族伝統知恵創作保護情報網：ツオ族タプア社男子会所](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005)
 - [Taiwan News：When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674)
 
-## 参考資料
+## 参考文献
 
-[^1]: [原住民族委員会：ツオ族族群紹介](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式族群資料でツオ族分布、歳時祭儀、クバ建築、親族組織、部落公共機能を説明。
+[^1]: [原住民族委員会：鄒族（Tsou）の紹介](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式の民族資料により、鄒族の分布、歳時祭儀、kuba建築、親族組織、および部族の公共機能について説明されています。
 
-[^2]: [原住民族伝統知恵創作保護情報網：ツオ族タプア社男子会所（kuba）](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — タプア社提出の伝統知恵創作案件、会所工法、寸法、象徴物件、神樹神花、社会文化的意義を記録。
+[^2]: [原住民族伝統智慧創作保護情報網：鄒族達邦社の男子会所（kuba）](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — 達邦社が提出した伝統的知恵の創作案件であり、会所の工法、寸法、象徴的な物品、神聖な樹木や花、および社会文化的な意義が記録されています。
 
-[^3]: [台湾宗教文化地図：Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — 内政部英語文化地図で祭典日付調整、迎神、歌舞、結束祭、クバ、来訪者禁忌等の具体的手順を紹介。
+[^3]: [台湾宗教文化マップ：Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — 内政部の英語版文化マップにより、祭典の日程調整、神迎え、歌舞、結びの儀式、kuba、および訪問者の禁忌などの具体的な流れが紹介されています。
 
-[^4]: [原住民族文献：ツオ族戦祭 mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — 浦忠勇（うら・ちゅうゆう）整理の戦祭歴史文脈、集団性、祭歌特徴、観光視線、現代文化混淆問題。
+[^4]: [原住民族文献：鄒族の戦祭 Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — 浦忠勇氏による、戦祭の歴史的文脈、集団性、祭歌の特徴、観光的なまなざし、および現代における文化混淆の問題についてのまとめです。
 
-[^5]: [Airiti：現代ツオ族戦祭の意義——一つのポストコロニアル的解釈](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — 学術論文、ポストコロニアル理論で戦祭がノスタルジア、脱植民地化、現代生活、族群主体性の間で如何に再編成され続けるかを分析。
+[^5]: [Airiti：現代における鄒族戦祭の意義 － ポストコロニアルな解釈](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — 学術論文において、ポストコロニアル理論を用い、戦祭がいかにノスタルジー、脱植民地化、現代生活、そして民族的主体性の間で再構成され続けているかを分析しています。
 
-[^6]: [原住民族歳時祭儀：ツオ族戦祭 Mayasvi（第 48 頁）](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — 原住民族文化出版物、歳時暦で戦祭の多段儀式、会所修建、迎神、歌舞、観光客制限を整理。
+[^6]: [原住民族歳時祭儀：鄒族の戦祭 Mayasvi（48ページ）](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — 原住民族文化の出版物により、歳時暦に基づいた戦祭の多段階の儀式、会所の建設、神迎え、歌舞、および観光客への制限についてまとめられています。
 
-[^7]: [Taiwan News：When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — 2026 年英語報道、祭典現場とツオ族背景から Mayasvi の現代共同体、祖先記憶、文化主体性を説明。
+[^7]: [Taiwan News：When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — 2026年の英語版レポート。祭典の現場と鄒族の背景から、Mayasviにおける現代の共同体、先祖の記憶、および文化的主体性について説明しています。
 
-[^8]: [僑務新聞：ツオ族戦祭国家重要民俗認定](https://ocacnews.net/article/133098) — 2011 年中央社電、戦祭が国家重要民俗に指定されたこと、認定報道におけるクバ、部落倫理、文化継承の記述を記録。
+[^8]: [僑務新聞：鄒族の戦祭が国家重要民俗に認定](https://ocacnews.net/article/133098) — 2011年の中央社によるニュース。戦祭が国家重要民俗に指定されたこと、および認定報道におけるkuba、部族の倫理、文化継承に関する記述を記録しています。
 
-[^9]: [Wikimedia Commons：Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — ツオ族伝統舞踊写真、撮影者は Flickr ユーザー小卡、CC BY 2.0 ライセンス、記事は元のホットリンク URL のみ埋め込み。
+[^9]: [Wikimedia Commons：Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — 鄒族の伝統舞踊の写真。撮影者はFlickrユーザーの小卡氏。CC BY 2.0ライセンスに基づき、本記事では元のURLを埋め込んでいます。
