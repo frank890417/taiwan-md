@@ -29,11 +29,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-03T15:43:07.642609+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T14:19:55.796338+00:00'
 ---
 
 # COVID-19 и вакцинация на Тайване: купленные восемнадцать месяцев и упущенный шанс на прививку
@@ -390,16 +392,16 @@ _Репортаж PTS News от 27 апреля 2023 года: 960-я, закл�
 
 ## Источники изображений
 
-В данной статье использовано 7 изображений (1 под лицензией CC0, 6 под лицензиями Creative Commons), все они кэшированы в `public/article-images/society/`, чтобы избежать прямого хотлинкинга на серверы источников; также встроены два видеоролика с официального канала PTS News. Для обоих видео субтитры не извлекались, поэтому цитирование высказываний из видео в основном тексте не производится.
+В данной статье использовано 7 изображений (1 под лицензией CC0, 6 под лицензиями Creative Commons), все они кэшированы в `public/article-images/society/`, чтобы избежать прямой нагрузки на серверы источников; также в статью встроены два видеоролика с официального канала PTS News. Субтитры к видео не извлекались, поэтому цитирование высказываний из видеоматериалов в тексте статьи не приводится.
 
-- [Крупный пункт вакцинации против COVID-19 в Taipei Jingyan Hall](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Фото: Xuan Shisheng, 2021-10-27, CC0 1.0 (обложка)
-- [Очередь у аптеки в городе Синьчжу для покупки масок по системе регистрации имен](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Фото: Tbatb, 2020-03-30, CC BY-SA 4.0
-- [Станция Dongmen метрополитена Тайбэя в период третьего уровня тревоги](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Фото: Lingguang Yingxiang_Brian, 2021-05-25, CC BY 3.0
-- [Объявление на перекрестке возле пункта экспресс-тестирования в районе Цзисуй, уезд Синьбэй](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Фото: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
-- [Президент Цай Инвэнь проходит вакцинацию отечественной вакциной Medigen](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Фото: Makoto Lin／Президентский офис Китайской Республики (Тайвань), 2021-08-23, CC BY 2.0
-- [Наборы для экспресс-тестирования, предоставляемые системой медицинского страхования бесплатно гражданам старше 65 лет](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Фото: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
-- [Объявление с QR-кодом системы отслеживания контактов у входа в заведение](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Фото: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
-- Видео: Репортаж PTS News «Корректировка и возвращение» от 22.05.2021, репортаж PTS News «Итоговая пресс-конференция Центра управления эпидемией» от 27.04.2023 (официальный канал YouTube)
+- [Крупный пункт вакцинации против COVID-19 в Taipei Gorgeous Hall](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Фото: Xuan Shisheng, 27.10.2021, CC0 1.0 (главное фото)
+- [Очередь у аптеки в городе Синьчжу для покупки масок по системе регистрации имен](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Фото: Tbatb, 30.03.2020, CC BY-SA 4.0
+- [Станция Дунмэнь метрополитена Тайбэя в период третьего уровня тревоги](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Фото: Lingguang Yingxiang_Brian, 25.05.2021, CC BY 3.0
+- [Объявление на перекрестке возле пункта экспресс-тестирования в районе Цзисуй, уезд Синбэй](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Фото: Tsuna Lu (Adsa562), 12.06.2021, CC BY-SA 4.0
+- [Президент Цай Инвэнь проходит вакцинацию отечественной вакциной Medigen](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Фото: Makoto Lin／Президентский офис Китайской Республики (Тайвань), 23.08.2021, CC BY 2.0
+- [Домашние экспресс-тесты, предоставляемые системой медицинского страхования бесплатно для граждан старше 65 лет](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Фото: ThomasYehYeh, 07.11.2022, CC BY-SA 4.0
+- [Объявление с QR-кодом системы отслеживания контактов у входа в заведение](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Фото: IiTheCavalryiI, 23.05.2022, CC BY-SA 4.0
+- Видео: Репортаж PTS News «Корректировка курса» от 22.05.2021, репортаж PTS News «Итоговая пресс-конференция Центра управления эпидемией» от 27.04.2023 (официальный канал на YouTube)
 
 ## Ссылки
 
