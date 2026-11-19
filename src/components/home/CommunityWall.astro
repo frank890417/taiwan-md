@@ -8,8 +8,11 @@
  *
  *   - HTML 只輸出一份留言。無縫循環需要的第二份由瀏覽器端的腳本複製，複本帶
  *     aria-hidden 與 inert（原本兩份都寫進 HTML，佔首頁 HTML 的 36%）。
- *   - 沒有腳本、或開啟「減少動態」時不流動：三排是可以橫向捲動的靜態列，
- *     每一則都看得到，排可以用鍵盤聚焦後捲動。
+ *   - 沒有腳本、或開啟「減少動態」時不流動：留言改成會換行的靜態排列，每排
+ *     只留前幾則（全部 104 則在 PeopleSection 底下的「看全部」）。2026-11-19
+ *     哲宇：「橫向滾動都不是一個好的 UI UX」，原本的靜態退路是可以橫向捲動的
+ *     三排，改掉。腳本跑起來之前（還不知道會不會流動）三排先收在一行、超出的
+ *     裁掉，流動開始時版面才不會跳。
  *   - 流動時：滑鼠移上去、鍵盤焦點進來、這一區不在畫面裡時暫停；旁邊有一顆
  *     暫停／播放鈕（WCAG 2.2.2）。速度用每秒幾像素算，三排長短不同也一樣慢。
  *   - 不用深色漸層底（硬規則：不用漸層底）。留言用站上一般的淺底對話泡泡，
@@ -41,13 +44,7 @@ function lineEm(text: string): number {
   <div class="cw-rows">
     {
       rows.map((row, r) => (
-        <div
-          class="cw-row"
-          data-dir={r === 1 ? 'right' : 'left'}
-          tabindex="0"
-          role="region"
-          aria-label={`${th('home.people.voices.heading')} ${r + 1}/3`}
-        >
+        <div class="cw-row" data-dir={r === 1 ? 'right' : 'left'}>
           <ul class="cw-track">
             {row.map((f) => (
               <li class="cw-item" style={`--cw-em:${lineEm(f.text)}`}>
@@ -86,8 +83,8 @@ function lineEm(text: string): number {
 
 <script>
   // 流動：複製一份留言接在後面（複本 aria-hidden + inert），整條往一個方向移動
-  // 剛好一份的距離後無縫接回。沒有這段腳本、或開啟「減少動態」時，三排是可以
-  // 橫向捲動的靜態列。
+  // 剛好一份的距離後無縫接回。沒有這段腳本、或開啟「減少動態」時，留言是會
+  // 換行的靜態排列（樣式見下方 @media）。
   const SPEED = 28; // 每秒幾像素
 
   function setup(root: HTMLElement) {
@@ -106,9 +103,6 @@ function lineEm(text: string): number {
         copy.setAttribute('inert', '');
         track.appendChild(copy);
       });
-      row.removeAttribute('tabindex');
-      row.removeAttribute('role');
-      row.removeAttribute('aria-label');
     });
 
     function measure() {
@@ -165,22 +159,15 @@ function lineEm(text: string): number {
     gap: 1.1rem;
   }
 
-  /* ── 靜態（沒有腳本、減少動態）：每一排可以橫向捲動 ── */
-  /* 靜態時第一則對齊上面的內容欄（--container-wide 置中，再加左右留白） */
+  /* ── 預設（腳本還沒跑）：每一排一行，超出的裁掉，不能橫向捲動 ── */
+  /* 第一則對齊上面的內容欄（--container-wide 置中，再加左右留白） */
   .cw-row {
     --cw-edge: max(
       var(--home-gutter),
       calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
     );
-    overflow-x: auto;
-    scroll-padding-inline: var(--cw-edge);
-    overscroll-behavior-x: contain;
-    scrollbar-width: thin;
+    overflow: hidden;
     padding-block: 0.25rem;
-  }
-  .cw-row:focus-visible {
-    outline: 2px solid var(--home-accent);
-    outline-offset: 2px;
   }
   .cw-track {
     display: flex;
@@ -323,6 +310,41 @@ function lineEm(text: string): number {
       animation: none !important;
     }
   }
+
+  /* ── 靜態（沒有腳本、減少動態）：一面會換行的留言牆，每排只留前四則 ──
+     三排拆開來排成直欄（像貼在牆上的便條），寬螢幕四欄、手機一欄。腳本在
+     「減少動態」時不會加 .is-flowing，這裡不用另外排除流動的狀態。 */
+  @media (prefers-reduced-motion: reduce), (scripting: none) {
+    .cw-rows {
+      display: block;
+      columns: 17rem 4;
+      column-gap: 1rem;
+      padding-inline: max(
+        var(--home-gutter),
+        calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
+      );
+    }
+    .cw-row,
+    .cw-track {
+      display: contents;
+    }
+    .cw-item {
+      display: block;
+      max-width: none;
+      margin-block-end: 1.1rem;
+      break-inside: avoid;
+    }
+    .cw-item:nth-child(n + 5) {
+      display: none;
+    }
+    /* 手機一欄，每排只留兩則（共六則），其餘在底下的「看全部」 */
+    @media (max-width: 640px) {
+      .cw-item:nth-child(n + 3) {
+        display: none;
+      }
+    }
+  }
+
   @media (max-width: 640px) {
     .cw-rows {
       gap: 0.85rem;
