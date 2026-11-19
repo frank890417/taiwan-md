@@ -501,7 +501,7 @@ export const aboutUI = {
 
     // ── 2026-11-19 關於頁進化：新增介面字串 ──
     'about.nav.label': 'On this page',
-    'about.nav.brief': 'In 30 seconds',
+    'about.nav.brief': '30 seconds',
     'about.nav.naming': 'The name',
     'about.nav.people': 'People',
     'about.nav.why': 'Why',

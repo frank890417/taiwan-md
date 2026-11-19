@@ -1270,7 +1270,7 @@ const today = new Date().toISOString().slice(0, 10);
               target="_blank"
               rel="noopener noreferrer"
               data-ga-section="about_sponsors"
-              data-ga-label="portaly"
+              data-ga-label="sponsor"
               class="portaly-link"
             >
               {t('about.sponsors.portaly.cta')} →
@@ -4236,13 +4236,34 @@ const today = new Date().toISOString().slice(0, 10);
     background: none;
   }
   /* dark-polish.css 有一條通則：class 名字裡有 card 的都塗 6% 的底。
-     這三種在這一頁不是卡片（創辦人那一塊、貢獻者頭像、夥伴那一列），拿掉。 */
+     下面這些在這一頁不是卡片本身（創辦人那一塊、貢獻者頭像、夥伴那一列，
+     以及卡片裡面的標題與內文），拿掉，不然會出現一條一條的底色。 */
   :global(:root[data-theme='dark']) .about-page .ab-sec--people .founder-card,
   :global(:root[data-theme='dark'])
     .about-page
     .ab-sec--people
     .contributor-card:not(:hover),
-  :global(:root[data-theme='dark']) .about-page .sponsor-tiers .sponsor-card {
+  :global(:root[data-theme='dark']) .about-page .sponsor-tiers .sponsor-card,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .sponsor-tiers
+    .sponsor-card-logo,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .sponsor-tiers
+    .sponsor-card-content,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-title,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-desc,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-cta {
     background: none;
   }
   /* dark-polish.css 的規則還指著舊標籤（h4）；標題階層修正後補在這裡 */
