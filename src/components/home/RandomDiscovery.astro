@@ -29,52 +29,49 @@ const langPrefixes = [
 const routedCats = categoryList;
 ---
 
-<!--
-  Phase 7.6 — RandomDiscovery.astro (Tier 1 home component)
-  Scoped <style> removed. `@keyframes dice-roll` moved to
-  global.css (alongside marquee-* and float*). The button's
-  shimmer ::before pseudo is expressed via `[&::before]:` and
-  `hover:[&::before]:left-full` arbitrary variants. The
-  `.random-text` / `.random-subtitle` classes kept as JS hooks
-  (the script uses `querySelector('.random-text')` to swap text).
-  Background noise pattern stays as inline style="" because
-  data URLs with commas/apostrophes don't round-trip cleanly
-  through Tailwind arbitrary values.
--->
-<section
-  class="relative mx-auto my-16 max-w-[600px] overflow-hidden rounded-3xl border border-[rgba(245,158,11,0.2)] bg-[linear-gradient(135deg,#fffbeb_0%,#fef3c7_50%,#fed7aa_100%)] px-8 py-12 text-center max-[480px]:mx-4 max-[480px]:my-12 max-[480px]:px-4 max-[480px]:py-8"
+{
+  /*
+  RandomDiscovery — 骰子：隨機發現一篇（2026-03-18 就有的原味）。
+
+  2026-11-19 首頁第一期：從獨立的琥珀色大方塊，改成一列（說明在前、按鈕在後），
+  放進「不知道從哪開始？」那一區的底部，跟閱讀路徑併成一區。文字與行為都沒變。
+  骰子圖示原本無限晃動，現在只在滑過按鈕時轉一次（規格 1.4：不放循環動畫）。
+
+  `.random-text` / `.random-subtitle` 是腳本的掛鉤（腳本用 querySelector 換字），
+  `@keyframes dice-roll` 在 global.css。按鈕的光澤是 ::before 偽元素，用
+  `[&::before]:` 寫；位置用 translate 而不是 left，方向才不會在阿拉伯文版反掉。
+*/
+}
+<div
+  class="flex flex-wrap items-center justify-between gap-x-8 gap-y-5 max-[768px]:flex-col max-[768px]:text-center"
 >
-  <div
-    class="pointer-events-none absolute inset-0 opacity-60"
-    style="background-image: url(&quot;data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23f59e0b' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='M15 0L20 10L30 15L20 20L15 30L10 20L0 15L10 10Z'/%3E%3C/g%3E%3C/svg%3E&quot;);"
-    aria-hidden="true"
+  <p
+    class="m-0 max-w-[24em] text-[1.05rem] font-semibold leading-[1.7] text-[#166534] max-[768px]:text-base"
   >
-  </div>
-  <div class="relative z-[2]">
-    <button
-      id="random-discovery-btn"
-      data-ga-section="random_dice"
-      data-ga-label="roll"
-      class="relative mb-6 min-w-[280px] cursor-pointer overflow-hidden rounded-[20px] border-none bg-[image:var(--cta-amber)] px-12 py-6 font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.3rem] font-bold text-white shadow-[0_8px_25px_rgba(245,158,11,0.3)] transition-all duration-300 hover:-translate-y-1 hover:bg-[linear-gradient(135deg,#d97706,#b45309)] hover:shadow-[0_12px_30px_rgba(245,158,11,0.4)] active:scale-95 [&::before]:content-[''] [&::before]:absolute [&::before]:left-[-100%] [&::before]:top-0 [&::before]:h-full [&::before]:w-full [&::before]:bg-[linear-gradient(90deg,transparent,rgba(255,255,255,0.2),transparent)] [&::before]:transition-[left] [&::before]:duration-500 hover:[&::before]:left-full max-[480px]:min-w-[250px] max-[480px]:px-8 max-[480px]:py-[1.2rem] max-[480px]:text-[1.1rem]"
+    {t('home.random.description')}
+  </p>
+  <button
+    id="random-discovery-btn"
+    data-ga-section="random_dice"
+    data-ga-label="roll"
+    class="group relative flex min-h-[64px] min-w-[280px] cursor-pointer items-center justify-center gap-3 overflow-hidden rounded-[var(--radius-chip)] border-none bg-[image:var(--cta-amber)] px-8 py-4 font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] font-bold text-white shadow-[var(--shadow-soft)] transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[var(--shadow-card)] active:scale-[0.98] [&::before]:content-[''] [&::before]:absolute [&::before]:inset-0 [&::before]:-translate-x-full [&::before]:bg-[linear-gradient(90deg,transparent,rgba(255,255,255,0.2),transparent)] [&::before]:transition-transform [&::before]:duration-500 hover:[&::before]:translate-x-full max-[480px]:w-full max-[480px]:min-w-0"
+  >
+    <span
+      class="inline-block text-[1.7rem] leading-none group-hover:[animation:dice-roll_0.8s_ease-in-out]"
+      >🎲</span
     >
+    <span class="relative block text-start">
       <span
-        class="mr-2 inline-block text-[1.8rem] [animation:dice-roll_2s_ease-in-out_infinite]"
-        >🎲</span
-      >
-      <span
-        class="random-text mb-[0.3rem] block text-[1.3rem] leading-tight max-[480px]:text-[1.1rem]"
+        class="random-text mb-[0.3rem] block text-[1.15rem] leading-tight max-[480px]:text-[1.05rem]"
         >{t('home.random.button')}</span
       >
       <span
-        class="random-subtitle block text-[0.9rem] font-medium leading-none opacity-90 max-[480px]:text-[0.85rem]"
+        class="random-subtitle block text-[0.85rem] font-medium leading-none opacity-90"
         >{t('home.random.subtitle')}</span
       >
-    </button>
-    <p class="m-0 text-base font-semibold leading-[1.6] text-[#92400e]">
-      {t('home.random.description')}
-    </p>
-  </div>
-</section>
+    </span>
+  </button>
+</div>
 
 <script
   is:inline

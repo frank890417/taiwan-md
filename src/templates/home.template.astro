@@ -1,45 +1,80 @@
 ---
+/**
+ * home.template.astro — 統一首頁 template（13 個語言共用）
+ *
+ * 為什麼是一份樣板：原本每個語言各一份 index.astro，內容幾乎一樣。實際只有兩種
+ * 展廳散文：中文一份、其他語言共用一份英文（HomeEnHalls），其餘只差網址前綴。
+ * 對照 about.template.astro / dashboard.template.astro 的同一個做法。
+ * （2026-05-03 sleepy-colden P2 follow-through unification）
+ *
+ * ── 2026-11-19 首頁第一期：修補與重排 ──────────────────────────────────
+ * 規格：reports/design-homepage-about-implementation-2026-11-19.md 第 2 節。
+ * 首頁現在的工作是門面：說清楚這是什麼、它現在有多大、它是活的而且有人在、
+ * 然後請人走進去。十二個區塊的順序：
+ *
+ *    1 開場              hero                HeroSection（主視覺不動）
+ *    2 引語時間軸        cover_story         CoverStory
+ *    3 四扇門            reader_doors        ReaderDoors
+ *    4 直接能用的        tools_band          ToolsBand（新）
+ *    5 分類格            category_grid       CategoryGrid（從頁尾附近上移）
+ *    6 四展廳            exhibition_halls    散文全文留在這份樣板，每廳加一張縮圖
+ *    7 不知道從哪開始？  reading_path        ReadingPath + RandomDiscovery（併成一區）
+ *                        random_discovery
+ *    8 人                people              PeopleSection（新；內含 community_feedback）
+ *    9 最近              recent_updates      RecentUpdates（改成最近新進的文章）
+ *   10 為什麼用繁體中文  language_statement  LanguageStatement（原文不動）
+ *   11 生命體            organism_preview    OrganismPreview（三處併成一處）
+ *   12 參與與訂閱        join                JoinSection（新；內含 contribute、newsletter）
+ *
+ * 中間那一欄是 data-ga-view 的區塊名。舊名一個都沒改，改版前後的曝光數據才接得上；
+ * 新名只有 tools_band、people、join。區塊名是事件參數的值，不是自訂維度，
+ * 不用在 register-ga4-custom-dimensions.py 登記。
+ *
+ * 「為什麼需要 Taiwan.md？」四張價值卡從首頁拿掉，搬去關於頁（另一條線在做）。
+ * 它底下的兩顆連結（知識圖譜、原始資料）留在首頁的生命體那一區。
+ *
+ * ⚠️ 四個展廳的中文策展散文是原味，重排時一個字都不能動，連縮排都不要動
+ * （prettier 重新折行時，折在兩個中文字之間會多出一個看得見的空白）。縮圖是插在
+ * 每一廳標題底下的獨立元素，沒有碰散文的任何一行。
+ *
+ * 這份樣板不輸出 HTML 註解：說明都寫成 Astro 註解，不會跟著正式頁送出去
+ * （改版前首頁帶著 20 KB 的程式註解）。
+ */
 import { categoryList } from '../utils/categoryConfig';
 import { readingPathLabels } from '../i18n/reading-path';
-/**
- * home.template.astro — 統一首頁 template (6 langs 共用)
- *
- * 為什麼：6 個 index.astro × 861~955 行 = ~5266 行重複。發現非 zh 5 langs（en/
- * ja/ko/es/fr）全部用相同英文 hall narrative，只差 URL prefix — 不是 P2 deferral
- * 一開始假設的「6 lang 各有 curated bespoke prose」。實際只有兩份：zh 中文 + 其
- * 他 5 langs 共用英文。
- *
- * 對照 about.template.astro / dashboard.template.astro pattern。
- *
- * 2026-05-03 sleepy-colden P2 follow-through unification.
- */
-import { ENABLED_LANGUAGE_CODES } from '../config/languages';
+import '../styles/home-sections.css';
 import Layout from '../layouts/Layout.astro';
+import HomeDefs from '../components/home/HomeDefs.astro';
 import HeroSection from '../components/home/HeroSection.astro';
-import ReaderDoors from '../components/home/ReaderDoors.astro';
-import OrganismPreview from '../components/home/OrganismPreview.astro';
 import CoverStory from '../components/home/CoverStory.astro';
-import RandomDiscovery from '../components/home/RandomDiscovery.astro';
-import ReadingPath from '../components/ReadingPath.astro';
-import FeatureCards from '../components/FeatureCards.astro';
+import ReaderDoors from '../components/home/ReaderDoors.astro';
+import ToolsBand from '../components/home/ToolsBand.astro';
 import CategoryGrid from '../components/CategoryGrid.astro';
-import LanguageStatement from '../components/home/LanguageStatement.astro';
+import HallThumb from '../components/home/HallThumb.astro';
 import HomeEnHalls from '../components/home/HomeEnHalls.astro';
+import ReadingPath from '../components/ReadingPath.astro';
+import RandomDiscovery from '../components/home/RandomDiscovery.astro';
+import PeopleSection from '../components/home/PeopleSection.astro';
 import RecentUpdates from '../components/home/RecentUpdates.astro';
-import NewsletterSection from '../components/home/NewsletterSection.astro';
-import CommunityFeedback from '../components/home/CommunityFeedback.astro';
-import ContributeSection from '../components/home/ContributeSection.astro';
+import LanguageStatement from '../components/home/LanguageStatement.astro';
+import OrganismPreview from '../components/home/OrganismPreview.astro';
+import JoinSection from '../components/home/JoinSection.astro';
 import ProticoScript from '../components/ProticoScript.astro';
-import { fetchRecentCommits } from '../lib/commits';
-import { feedbacks } from '../data/feedbacks';
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
+import { useHomeT } from '../components/home/home-i18n';
 import matter from 'gray-matter';
 import { readFileSync, readdirSync } from 'node:fs';
 import { resolve, join, basename } from 'node:path';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const recentCommits = await fetchRecentCommits();
+const th = useHomeT(lang);
+
+// 分類數從分類設定算（about 是站務分類，不算主題）。頁面描述與分類格的標題都用
+// 這一個數字，13 個語言一致；原本描述裡寫死「12 大主題」，頁面上卻是 13 張卡。
+const categoryCount = categoryList.filter(
+  (category) => category !== 'about',
+).length;
 
 // ── Lang-derived helpers ─────────────────────────────────────────────────────
 // langPath: '' for zh-TW (SSOT root), else '{lang}/' for non-default langs.
@@ -179,106 +214,54 @@ const readingPathFooterItems = [
 <Layout
   lang={lang}
   title={t('home.meta.title')}
-  description={t('home.meta.description')}
+  description={t('home.meta.description').replace(
+    '{categories}',
+    String(categoryCount),
+  )}
   readerSettings
 >
   <div class="home-page">
-    <div data-ga-view="hero"><HeroSection /></div>
+    <HomeDefs />
 
-    <div data-ga-view="reader_doors"><ReaderDoors /></div>
+    <div data-ga-view="hero"><HeroSection /></div>
 
     <div id="cover-story" data-ga-view="cover_story">
       <CoverStory />
     </div>
 
-    <div id="random-discovery" data-ga-view="random_discovery">
-      <RandomDiscovery />
-    </div>
+    <div data-ga-view="reader_doors"><ReaderDoors /></div>
 
-    <div data-ga-view="reading_path">
-      <ReadingPath
-        title={t('home.readingPath.title')}
-        subtitle={t('home.readingPath.subtitle')
-          .replace('{count}', String(readingPathSteps.length))
-          .replace('{minutes}', String(totalTime))}
-        shortLabel={`${readingPathLabels[lang][0]} · ${readingPathSteps.slice(0, 2).reduce((sum, step) => sum + parseInt(step.time), 0)} ${t('home.readingPath.footer.minutesUnit')}`}
-        moreLabel={`${readingPathLabels[lang][1]} · ${totalTime} ${t('home.readingPath.footer.minutesUnit')}`}
-        steps={readingPathSteps}
-        footerItems={readingPathFooterItems}
-        continueHref="#categories"
-        continueLabel={t('home.readingPath.continue')}
-      />
-    </div>
+    <div data-ga-view="tools_band"><ToolsBand /></div>
 
-    <div data-ga-view="feature_cards">
-      <FeatureCards
-        lang={lang}
-        sectionTitle={t('home.features.title')}
-        cards={[
-          {
-            icon: '🎯',
-            title: t('home.features.curated.title'),
-            description: t('home.features.curated.desc'),
-          },
-          {
-            icon: '🤖',
-            title: t('home.features.ai.title'),
-            description: t('home.features.ai.desc'),
-          },
-          {
-            icon: '🌍',
-            title: t('home.features.bilingual.title').replace(
-              '{count}',
-              String(ENABLED_LANGUAGE_CODES.length),
-            ),
-            description: t('home.features.bilingual.desc'),
-          },
-          {
-            icon: '📚',
-            title: t('home.features.complete.title'),
-            description: t('home.features.complete.desc'),
-          },
-        ]}
-      >
-        <div
-          class="mt-8 flex flex-wrap justify-center gap-4 px-4 max-[480px]:flex-col max-[480px]:items-center"
-        >
-          <a
-            href={`${langUrlPrefix}/graph`}
-            data-ga-section="feature_cta"
-            data-ga-label="graph"
-            class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[rgba(45,80,22,0.2)] bg-[#f0fdf4] px-6 py-[0.7rem] text-[0.9rem] font-semibold text-[#2d5016] no-underline transition-all duration-[250ms] hover:-translate-y-px hover:border-[rgba(45,80,22,0.4)] hover:bg-[rgba(45,80,22,0.1)] hover:shadow-[0_2px_8px_rgba(45,80,22,0.15)]"
-            >{t('home.features.cta.graph')}</a
-          >
-          <a
-            href="https://github.com/frank890417/taiwan-md/tree/main/knowledge"
-            target="_blank"
-            rel="noopener noreferrer"
-            data-ga-section="feature_cta"
-            data-ga-label="ssot"
-            class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[#d1d5db] bg-[#f8fafc] px-6 py-[0.7rem] text-[0.9rem] font-semibold text-[#374151] no-underline transition-all duration-[250ms] hover:-translate-y-px hover:border-[#9ca3af] hover:bg-[#f1f5f9] hover:shadow-[0_2px_8px_rgba(0,0,0,0.06)]"
-            >{t('home.features.cta.ssot')}</a
-          >
-        </div>
-      </FeatureCards>
-    </div>
+    <section
+      id="categories"
+      class="home-section home-categories"
+      aria-labelledby="categories-heading"
+    >
+      <div class="home-wrap">
+        <header class="home-head">
+          <p class="home-eyebrow">{th('home.categories.eyebrow')}</p>
+          <h2 id="categories-heading" class="home-title">
+            {
+              t('home.categories.divider').replace(
+                '{count}',
+                String(categoryCount),
+              )
+            }
+          </h2>
+        </header>
+      </div>
+      <div data-ga-view="category_grid"><CategoryGrid /></div>
+    </section>
 
-    <!--
-    OrganismPreview replaces the old MiniGraph (d3 12-category force-directed
-    widget) per Wave 1 / A1. The 12-category graph entry point lives in the
-    FeatureCards CTA strip above as `home.features.cta.graph`. The d3 inline
-    script + define:vars block at the bottom of this template are now dead code
-    and should be removed in follow-up cleanup if no other section pulls them.
-  -->
-    <div data-ga-view="organism_preview"><OrganismPreview /></div>
-
-    <!-- ===== EXHIBITION HALLS =====
+    {
+      /* ===== EXHIBITION HALLS =====
        Partial Tailwind migration (Phase 6): wrappers moved to inline
        utilities. The .hall-* / .pick-* / .topic-pill repeating card
        classes stay in scoped <style> because they repeat × 8 halls;
-       inlining would turn the markup into noise. Same call as Header.
-  -->
-    <section class="my-24" data-ga-view="exhibition_halls">
+       inlining would turn the markup into noise. Same call as Header. */
+    }
+    <section class="home-section" data-ga-view="exhibition_halls">
       <div class="mb-8 text-center">
         <h2
           class="text-center font-['jf-lanyangming','Noto_Serif_TC','Source_Han_Serif_TC',serif] text-[2rem] font-light text-[#1f2937]"
@@ -305,6 +288,7 @@ const readingPathFooterItems = [
                   <span class="hall-label">壹 — 這座島長什麼樣</span>
                   <div class="hall-line" />
                 </div>
+                <HallThumb hall={1} />
                 <div class="hall-body">
                   <p>
                     這座島嶼只有 36,000 平方公里，卻從海平面堆到 3,952
@@ -437,6 +421,7 @@ const readingPathFooterItems = [
                   <span class="hall-label">貳 — 這座島怎麼來的</span>
                   <div class="hall-line" />
                 </div>
+                <HallThumb hall={2} />
                 <div class="hall-body">
                   <p>
                     1624 年荷蘭人在台南築起熱蘭遮城。之後四百年換了八個政權，
@@ -569,6 +554,7 @@ const readingPathFooterItems = [
                   <span class="hall-label">參 — 這座島的人在做什麼</span>
                   <div class="hall-line" />
                 </div>
+                <HallThumb hall={3} />
                 <div class="hall-body">
                   <p>
                     嚴長壽高中畢業在美國運通送信，五年後當上總經理。
@@ -700,6 +686,7 @@ const readingPathFooterItems = [
                   <span class="hall-label">肆 — 這座島往哪裡去</span>
                   <div class="hall-line" />
                 </div>
+                <HallThumb hall={4} />
                 <div class="hall-body">
                   <p>
                     全球 90% 的先進晶片從台灣出貨。台積電一座晶圓廠造價 200
@@ -821,65 +808,49 @@ const readingPathFooterItems = [
           )
         }
       </div>
-
-      <div
-        id="categories"
-        class="mx-auto my-12 flex max-w-[var(--container-prose)] items-center px-8 max-[480px]:px-4"
-      >
-        <div
-          class="h-px flex-1 bg-[linear-gradient(90deg,transparent,#d1d5db,transparent)]"
-        >
-        </div>
-        <span
-          class="whitespace-nowrap px-6 font-[var(--font-title,'Noto_Serif_TC',serif)] text-[1.3rem] font-bold tracking-[0.05em] text-[#1a3c34]"
-          >{
-            t('home.categories.divider').replace(
-              '{count}',
-              String(
-                categoryList.filter((category) => category !== 'about').length,
-              ),
-            )
-          }</span
-        >
-        <div
-          class="h-px flex-1 bg-[linear-gradient(90deg,transparent,#d1d5db,transparent)]"
-        >
-        </div>
-      </div>
-
-      <div data-ga-view="category_grid"><CategoryGrid /></div>
     </section>
 
-    <div data-ga-view="language_statement"><LanguageStatement /></div>
-
-    <div data-ga-view="recent_updates">
-      <RecentUpdates commits={recentCommits} />
+    <div id="start-here" data-ga-view="reading_path">
+      <ReadingPath
+        title={t('home.readingPath.title')}
+        subtitle={t('home.readingPath.subtitle')
+          .replace('{count}', String(readingPathSteps.length))
+          .replace('{minutes}', String(totalTime))}
+        shortLabel={`${readingPathLabels[lang][0]} · ${readingPathSteps.slice(0, 2).reduce((sum, step) => sum + parseInt(step.time), 0)} ${t('home.readingPath.footer.minutesUnit')}`}
+        moreLabel={`${readingPathLabels[lang][1]} · ${totalTime} ${t('home.readingPath.footer.minutesUnit')}`}
+        steps={readingPathSteps}
+        footerItems={readingPathFooterItems}
+        continueHref="#categories"
+        continueLabel={t('home.readingPath.continue')}
+      >
+        <div slot="after" id="random-discovery" data-ga-view="random_discovery">
+          <RandomDiscovery />
+        </div>
+      </ReadingPath>
     </div>
 
-    <div data-ga-view="newsletter"><NewsletterSection /></div>
+    <div data-ga-view="people"><PeopleSection /></div>
 
-    {
-      /* CommunityFeedback testimonials are zh-language user comments about
-      Taiwan.md from the Threads launch — show only on zh-TW homepage to
-      avoid wrong-language prose on /en /ja /ko /fr /es per i18n-smoke-test
-      §B2 regression check. */
-    }
-    {
-      isZh && (
-        <div data-ga-view="community_feedback">
-          <CommunityFeedback feedbacks={feedbacks} />
-        </div>
-      )
-    }
+    <div data-ga-view="recent_updates"><RecentUpdates /></div>
 
-    <div data-ga-view="contribute"><ContributeSection /></div>
+    <div class="home-section" data-ga-view="language_statement">
+      <LanguageStatement />
+    </div>
+
+    <div data-ga-view="organism_preview"><OrganismPreview /></div>
+
+    <div data-ga-view="join"><JoinSection /></div>
   </div>
 </Layout>
 
-<!-- Protico Community Chat Bubble — sponsored by Howie Young -->
-<ProticoScript />
+{
+  /* Protico 社群聊天泡泡（Howie Young 贊助）。首頁用 lazy：等讀者滑到頁面後段、
+     或頁面載完後閒置一陣子才載入，首屏不載第三方程式（規格 1.7）。 */
+}
+<ProticoScript lazy />
 
-<!--
+{
+  /*
   Phase 6 partial migration — index.astro (zh-TW)
   ───────────────────────────────────────────────
   Wrappers (skip-link removed as dead code; section-title,
@@ -888,8 +859,29 @@ const readingPathFooterItems = [
   inline Tailwind. The repeated .hall-* / .pick-* / .topic-pill card classes
   are intentionally global: non-zh exhibition hall markup lives in the
   HomeEnHalls child component and must share the zh-TW visual baseline.
--->
+*/
+}
 <style>
+  /* ── 首頁第一期（2026-11-19）──────────────────────────────────── */
+
+  /* 分類格：元件自己帶上下邊距與手機的左右邊距；放進有標頭的區塊後，
+     邊距交給區塊，左右跟標頭對齊。 */
+  :global(.home-categories > [data-ga-view] > section) {
+    margin-block: 0;
+    margin-inline: auto;
+  }
+
+  /* 手機首頁的浮動按鈕只留意見回饋與閱讀設定：右下角的 .md 在首頁收起
+     （它在首頁指向 README，文章頁才是「看這篇的原始檔」）。 */
+  :global(body.page-home .floating-md) {
+    display: none;
+  }
+
+  /* 展廳縮圖放在標題與散文之間：標題原本的下邊距改由縮圖接手 */
+  :global(.exhibition-hall .hall-thumb) {
+    margin-block-start: calc(var(--home-gap-sm) * -0.5);
+  }
+
   /* ── Exhibition hall card pattern (repeats × 8) ──────────────── */
   :global(.hall-divider) {
     display: flex;

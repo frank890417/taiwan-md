@@ -8,8 +8,11 @@
  * 2026-05-03 sleepy-colden P2 unification — extract from src/pages/en/index.astro.
  * 2026-05-27 Wave 3 / A2 — cross-hall bridges (i18n via useTranslations so
  * each non-default lang shows its own bridge prose).
+ * 2026-11-19 首頁第一期 — 每一廳標題底下加一張視覺化縮圖（HallThumb），
+ * 跟中文首頁同一個元件；英文散文沒有動。
  */
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+import HallThumb from './HallThumb.astro';
 
 interface PickArticle {
   title: string;
@@ -38,6 +41,7 @@ const t = useTranslations(lang);
       <span class="hall-label">I — What this island looks like</span>
       <div class="hall-line"></div>
     </div>
+    <HallThumb hall={1} />
     <div class="hall-body">
       <p>
         Just 36,000 square kilometers, yet the Philippine Sea Plate pushes into
@@ -158,6 +162,7 @@ const t = useTranslations(lang);
       <span class="hall-label">II — How this island came to be</span>
       <div class="hall-line"></div>
     </div>
+    <HallThumb hall={2} />
     <div class="hall-body">
       <p>
         In 1624, the Dutch built Fort Zeelandia in Tainan. Eight regimes
@@ -279,6 +284,7 @@ const t = useTranslations(lang);
       <span class="hall-label">III — What the people are doing</span>
       <div class="hall-line"></div>
     </div>
+    <HallThumb hall={3} />
     <div class="hall-body">
       <p>
         Yan Chang-shou delivered mail at American Express at 23, became general
@@ -401,6 +407,7 @@ const t = useTranslations(lang);
       <span class="hall-label">IV — Where this island is going</span>
       <div class="hall-line"></div>
     </div>
+    <HallThumb hall={4} />
     <div class="hall-body">
       <p>
         90% of the world's advanced chips ship from Taiwan. A single TSMC fab

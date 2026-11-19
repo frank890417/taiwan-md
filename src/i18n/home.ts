@@ -116,7 +116,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Get to know Taiwan',
     'home.meta.title': 'Open-Source Taiwan Knowledge Base',
     'home.meta.description':
-      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1189+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
+      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1189+ pages of in-depth content covering history, culture, food, music, technology and {categories} major topics, co-edited by the community to introduce the real Taiwan to the world.',
     'home.miniGraph.heading': '🕸️ Knowledge Graph',
     'home.miniGraph.subtitle':
       "Every article is connected — click to explore Taiwan's knowledge network",
@@ -152,6 +152,73 @@ export const homeUI = {
       'After all this — what are the people who live here doing now?',
     'home.bridge.3to4':
       'They built all this — but where does the island go next?',
+    // ── 首頁第一期（2026-11-19）新區塊 ──
+    // 新字串先有中文與英文；其餘 11 語第二期補翻，補翻前經 home-i18n.ts 退回英文。
+    'home.live.aria': 'Taiwan.md right now',
+    'home.live.articles': 'articles',
+    'home.live.languages': 'languages',
+    'home.live.writers': 'contributors',
+    'home.cover.axis.aria':
+      'Eras of the eight voices. Pick an era to read its quote.',
+    'home.cover.axis.scale': 'Each small tick on the line is 25 years',
+    'home.tools.eyebrow': 'Tools and special sections',
+    'home.tools.heading': 'Ready to use',
+    'home.tools.lead':
+      'No reading required. Open any of these to look something up, convert a text or download a file.',
+    'home.tools.election.name': '2026 Elections',
+    'home.tools.election.desc':
+      'Candidates, campaign donations and voting information for {races} cities and counties.',
+    'home.tools.election.badge': 'Election day: {date}',
+    'home.tools.timeline.name': 'Timeline',
+    'home.tools.timeline.desc':
+      'From prehistory to today: {eras} eras on a single line.',
+    'home.tools.companies.name': 'Company landscape',
+    'home.tools.companies.desc':
+      "Taiwan's largest listed companies by market value, sortable and filterable.",
+    'home.tools.converter.name': 'Terminology converter',
+    'home.tools.converter.desc':
+      'Paste a passage and replace PRC usage with the words people use in Taiwan.',
+    'home.tools.shape.name': 'The shape of Taiwan',
+    'home.tools.shape.desc':
+      'A correctly drawn outline of Taiwan, with SVG and geodata files free to reuse.',
+    'home.tools.topics.name': 'Topics',
+    'home.tools.topics.desc':
+      '{count} topics, each pairing articles with calculators that give you an answer.',
+    'home.tools.map.name': 'Map',
+    'home.tools.map.desc':
+      '{count} articles pinned to the map. Start from a place you know.',
+    'home.categories.eyebrow': 'Browse by subject',
+    'home.hall.thumb.north': 'N',
+    'home.hall.thumb.south': 'S',
+    'home.hall.thumb1.caption':
+      '{count} articles can be placed on the map. Bigger dots mean more articles nearby; the bars count them from north to south.',
+    'home.hall.thumb1.outside':
+      'Not drawn here: {kinmen} in Kinmen and {matsu} in Matsu.',
+    'home.hall.thumb1.cta': 'Open the map',
+    'home.hall.thumb2.caption':
+      'The timeline page sorts {count} articles into {eras} eras. One dot is one article; the length of each bar is how many years the era lasted.',
+    'home.hall.thumb2.prehistory': 'Prehistory',
+    'home.hall.thumb2.cta': 'Open the timeline',
+    'home.hall.thumb3.caption':
+      'The three subjects in this hall hold {count} articles today.',
+    'home.hall.thumb4.caption':
+      'The {count} largest listed companies, sized by market value. {top} alone takes {pct}%.',
+    'home.hall.thumb4.cta': 'Open the company landscape',
+    'home.start.eyebrow': 'Start here',
+    'home.people.eyebrow': 'People',
+    'home.people.heading': 'The people who write, the people who read',
+    'home.people.lead':
+      '{writers} contributors have written what you read here. Readers write back, sometimes to cheer and sometimes to correct us.',
+    'home.people.voices.heading': 'Voices from the community',
+    'home.people.voices.sub': 'What real readers told us',
+    'home.people.voices.all': 'Read all {count}',
+    'home.people.writers.heading': 'Contributors',
+    'home.people.writers.all': 'See every contributor on GitHub',
+    'home.recent.eyebrow': 'Lately',
+    'home.recent.heading': 'Newly added articles',
+    'home.organism.eyebrow': 'How it works',
+    'home.join.eyebrow': 'Take part',
+    'home.join.app.alt': 'Download Taiwan.md on the App Store',
   },
   ja: {
     'hero.stat.history.number': '400+',
@@ -265,7 +332,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '台湾を知る',
     'home.meta.title': 'オープンソース台湾知識ベース',
     'home.meta.description':
-      'オープンソース、AI対応の台湾総合ナレッジベース。1189以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
+      'オープンソース、AI対応の台湾総合ナレッジベース。1189以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど{categories}大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
     'home.miniGraph.heading': '🕸️ ナレッジグラフ',
     'home.miniGraph.subtitle':
       'すべての記事はつながっている — クリックして台湾知識のネットワークを探索',
@@ -411,7 +478,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '대만 알아보기',
     'home.meta.title': '오픈소스 대만 지식 베이스',
     'home.meta.description':
-      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1189+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
+      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1189+ 심층 기사가 역사·문화·미식·음악·기술 등 {categories}대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
     'home.miniGraph.heading': '🕸️ 지식 그래프',
     'home.miniGraph.subtitle':
       '모든 기사는 연결되어 있다 — 클릭하여 대만 지식의 연결망을 탐색',
@@ -563,7 +630,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Tìm hiểu toàn diện về Đài Loan',
     'home.meta.title': 'Kho tri thức mã nguồn mở về Đài Loan',
     'home.meta.description':
-      'Kho tri thức toàn diện về Đài Loan, mã nguồn mở và AI-friendly. 851+ trang nội dung chuyên sâu bao quát 12 chủ đề lớn như lịch sử, văn hóa, ẩm thực, âm nhạc và công nghệ, do cộng đồng cùng biên soạn để giúp thế giới hiểu về một Đài Loan chân thực.',
+      'Kho tri thức toàn diện về Đài Loan, mã nguồn mở và AI-friendly. 851+ trang nội dung chuyên sâu bao quát {categories} chủ đề lớn như lịch sử, văn hóa, ẩm thực, âm nhạc và công nghệ, do cộng đồng cùng biên soạn để giúp thế giới hiểu về một Đài Loan chân thực.',
     'home.miniGraph.heading': '🕸️ Đồ thị tri thức',
     'home.miniGraph.subtitle':
       'Mỗi bài viết đều không phải một hòn đảo biệt lập — nhấp để khám phá mạng lưới liên kết tri thức về Đài Loan',
@@ -717,7 +784,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Mengenal Taiwan secara utuh',
     'home.meta.title': 'Basis pengetahuan Taiwan bersumber terbuka',
     'home.meta.description':
-      'Basis pengetahuan lengkap tentang Taiwan yang bersumber terbuka dan AI-friendly. 851+ halaman konten mendalam mencakup 12 tema utama seperti sejarah, budaya, kuliner, musik, dan teknologi, disusun bersama oleh komunitas agar seluruh dunia mengenal Taiwan yang sesungguhnya.',
+      'Basis pengetahuan lengkap tentang Taiwan yang bersumber terbuka dan AI-friendly. 851+ halaman konten mendalam mencakup {categories} tema utama seperti sejarah, budaya, kuliner, musik, dan teknologi, disusun bersama oleh komunitas agar seluruh dunia mengenal Taiwan yang sesungguhnya.',
     'home.miniGraph.heading': '🕸️ Graf pengetahuan',
     'home.miniGraph.subtitle':
       'Setiap artikel bukanlah pulau yang terasing—klik untuk menjelajahi jejaring keterkaitan pengetahuan Taiwan',
@@ -872,7 +939,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Conheça Taiwan por completo',
     'home.meta.title': 'Base de conhecimento de código aberto sobre Taiwan',
     'home.meta.description':
-      'Uma base de conhecimento completa, de código aberto e AI-friendly sobre Taiwan. 851+ páginas de conteúdo aprofundado abrangem 12 grandes temas, incluindo história, cultura, gastronomia, música e tecnologia, escritos coletivamente pela comunidade para apresentar a verdadeira Taiwan ao mundo.',
+      'Uma base de conhecimento completa, de código aberto e AI-friendly sobre Taiwan. 851+ páginas de conteúdo aprofundado abrangem {categories} grandes temas, incluindo história, cultura, gastronomia, música e tecnologia, escritos coletivamente pela comunidade para apresentar a verdadeira Taiwan ao mundo.',
     'home.miniGraph.heading': '🕸️ Grafo de conhecimento',
     'home.miniGraph.subtitle':
       'Nenhum artigo é uma ilha — clique para explorar a rede de conexões do conhecimento sobre Taiwan',
@@ -1026,7 +1093,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'ताइवान को पूरी तरह जानें',
     'home.meta.title': 'ताइवान का ओपन-सोर्स ज्ञानकोश',
     'home.meta.description':
-      'ताइवान का संपूर्ण ओपन-सोर्स, AI-friendly ज्ञानकोश। 851+ पृष्ठों की गहन सामग्री में इतिहास, संस्कृति, भोजन, संगीत और प्रौद्योगिकी समेत 12 प्रमुख विषय शामिल हैं। इसे समुदाय ने मिलकर तैयार किया है, ताकि पूरी दुनिया असली ताइवान को जान सके।',
+      'ताइवान का संपूर्ण ओपन-सोर्स, AI-friendly ज्ञानकोश। 851+ पृष्ठों की गहन सामग्री में इतिहास, संस्कृति, भोजन, संगीत और प्रौद्योगिकी समेत {categories} प्रमुख विषय शामिल हैं। इसे समुदाय ने मिलकर तैयार किया है, ताकि पूरी दुनिया असली ताइवान को जान सके।',
     'home.miniGraph.heading': '🕸️ ज्ञान ग्राफ़',
     'home.miniGraph.subtitle':
       'कोई भी लेख अकेला द्वीप नहीं है—ताइवान के ज्ञान का जुड़ा हुआ नेटवर्क खोजने के लिए क्लिक करें',
@@ -1176,7 +1243,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'تعرّف على تايوان بالكامل',
     'home.meta.title': 'معرفة تايوان مفتوحة المصدر',
     'home.meta.description':
-      'معرفة تايوان الكاملة، مفتوحة المصدر وصديقة للذكاء الاصطناعي. أكثر من 860 صفحة من المحتوى العميق تغطي التاريخ، الثقافة، الطعام، الموسيقى، التكنولوجيا وغيرها من 12 موضوعًا رئيسيًا، مُعدّة من قبل المجتمع، لتعريف العالم بأسره بتايوان الحقيقية.',
+      'معرفة تايوان الكاملة، مفتوحة المصدر وصديقة للذكاء الاصطناعي. أكثر من 860 صفحة من المحتوى العميق تغطي التاريخ، الثقافة، الطعام، الموسيقى، التكنولوجيا وغيرها من {categories} موضوعًا رئيسيًا، مُعدّة من قبل المجتمع، لتعريف العالم بأسره بتايوان الحقيقية.',
     'home.miniGraph.heading': '🕸️ مخطط المعرفة',
     'home.miniGraph.subtitle':
       'كل مقالة ليست جزيرة منعزلة — انقر لاستكشاف شبكة روابط معرفة تايوان',
@@ -1327,7 +1394,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Полное знакомство с Тайванем',
     'home.meta.title': 'Открытый архив знаний о Тайване',
     'home.meta.description':
-      'Открытый, AI-friendly полный архив знаний о Тайване. 860+ страниц глубокого контента охватывают историю, культуру, кухню, музыку, технологии и другие 12 основных тем, совместно составленных сообществом, чтобы весь мир узнал настоящий Тайвань.',
+      'Открытый, AI-friendly полный архив знаний о Тайване. 860+ страниц глубокого контента охватывают историю, культуру, кухню, музыку, технологии и другие {categories} основных тем, совместно составленных сообществом, чтобы весь мир узнал настоящий Тайвань.',
     'home.miniGraph.heading': '🕸️ Граф знаний',
     'home.miniGraph.subtitle':
       'Каждая статья — не изолированный остров — кликайте, чтобы исследовать сеть связей знаний о Тайване',
@@ -1478,7 +1545,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Taiwan umfassend kennenlernen',
     'home.meta.title': 'Open-Source-Wissensdatenbank über Taiwan',
     'home.meta.description':
-      'Die umfassende Open-Source- und AI-friendly-Wissensdatenbank über Taiwan. 1118+ Seiten mit fundierten Inhalten zu 12 großen Themen wie Geschichte, Kultur, Essen, Musik und Technologie, gemeinsam von der Community verfasst, damit die Welt das echte Taiwan kennenlernt.',
+      'Die umfassende Open-Source- und AI-friendly-Wissensdatenbank über Taiwan. 1118+ Seiten mit fundierten Inhalten zu {categories} großen Themen wie Geschichte, Kultur, Essen, Musik und Technologie, gemeinsam von der Community verfasst, damit die Welt das echte Taiwan kennenlernt.',
     'home.miniGraph.heading': '🕸️ Wissensgraph',
     'home.miniGraph.subtitle':
       'Kein Artikel ist eine Insel – entdecke per Klick das Netzwerk des Wissens über Taiwan',
@@ -1618,7 +1685,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '完整認識台灣',
     'home.meta.title': '開源台灣知識庫',
     'home.meta.description':
-      '開源、AI-friendly 的台灣完整知識庫。1189+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
+      '開源、AI-friendly 的台灣完整知識庫。1189+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 {categories} 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
     'home.miniGraph.heading': '🕸️ 知識圖譜',
     'home.miniGraph.subtitle': '每篇文章都不是孤島——點擊探索台灣知識的連結網絡',
     'home.features.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
@@ -1649,6 +1716,62 @@ export const homeUI = {
     'home.bridge.1to2': '這座島長成這樣 — 那是誰把它變成這樣的？',
     'home.bridge.2to3': '經歷過這些 — 那活在這裡的人正在做什麼？',
     'home.bridge.3to4': '他們留下了這些 — 那這座島往哪裡去？',
+    // ── 首頁第一期（2026-11-19）新區塊 ──
+    'home.live.aria': 'Taiwan.md 現在的規模',
+    'home.live.articles': '篇文章',
+    'home.live.languages': '種語言',
+    'home.live.writers': '位寫作者',
+    'home.cover.axis.aria': '八句引語的年代，選一個年代看那一句',
+    'home.cover.axis.scale': '線上的小刻度，一格 25 年',
+    'home.tools.eyebrow': '工具與專區',
+    'home.tools.heading': '直接能用的',
+    'home.tools.lead': '這幾樣不用先讀文章，打開就能查、能換、能下載。',
+    'home.tools.election.name': '2026 選舉專區',
+    'home.tools.election.desc': '{races} 個縣市的候選人、政治獻金與投票資訊。',
+    'home.tools.election.badge': '{date} 投票',
+    'home.tools.timeline.name': '時間台灣',
+    'home.tools.timeline.desc': '從史前到今天，{eras} 個時期排在一條線上。',
+    'home.tools.companies.name': '企業版圖',
+    'home.tools.companies.desc': '台灣市值最大的上市公司，可以排序、篩選。',
+    'home.tools.converter.name': '用語轉換器',
+    'home.tools.converter.desc': '貼上一段文字，把中國用語換成台灣的說法。',
+    'home.tools.shape.name': '台灣的形狀',
+    'home.tools.shape.desc': '畫對的台灣輪廓，SVG 與地理檔可以直接拿去用。',
+    'home.tools.topics.name': '專題',
+    'home.tools.topics.desc':
+      '{count} 個專題。每個專題有文章，也有算得出答案的工具。',
+    'home.tools.map.name': '地圖',
+    'home.tools.map.desc': '{count} 篇文章標在地圖上，從你熟的地方開始讀。',
+    'home.categories.eyebrow': '照主題找',
+    'home.hall.thumb.north': '北',
+    'home.hall.thumb.south': '南',
+    'home.hall.thumb1.caption':
+      '{count} 篇文章標得出地點。點越大，那一帶的文章越多；右邊的長條是由北到南的篇數。',
+    'home.hall.thumb1.outside': '金門 {kinmen} 篇、馬祖 {matsu} 篇不在圖上。',
+    'home.hall.thumb1.cta': '打開地圖',
+    'home.hall.thumb2.caption':
+      '時間軸頁把 {count} 篇文章排進 {eras} 個時期。一個點是一篇，橫條的長短是那個時期有多少年。',
+    'home.hall.thumb2.prehistory': '史前',
+    'home.hall.thumb2.cta': '打開時間軸',
+    'home.hall.thumb3.caption': '這一廳的三個分類，現在一共 {count} 篇。',
+    'home.hall.thumb4.caption':
+      '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了 {pct}%。',
+    'home.hall.thumb4.cta': '打開企業版圖',
+    'home.start.eyebrow': '從這裡開始',
+    'home.people.eyebrow': '人',
+    'home.people.heading': '寫的人，讀的人',
+    'home.people.lead':
+      '這裡的內容由 {writers} 位寫作者寫成。讀者留下的話，有的是鼓勵，有的是指正。',
+    'home.people.voices.heading': '來自社群的聲音',
+    'home.people.voices.sub': '真實使用者的回饋',
+    'home.people.voices.all': '看全部 {count} 則',
+    'home.people.writers.heading': '寫作者',
+    'home.people.writers.all': '在 GitHub 看所有寫作者',
+    'home.recent.eyebrow': '最近',
+    'home.recent.heading': '最近新進的文章',
+    'home.organism.eyebrow': '它怎麼運作',
+    'home.join.eyebrow': '參與',
+    'home.join.app.alt': '在 App Store 下載 Taiwan.md',
   },
   fr: {
     'hero.stat.history.number': '400+',
@@ -1770,7 +1893,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Connaître Taïwan',
     'home.meta.title': 'Base de connaissances open source sur Taïwan',
     'home.meta.description':
-      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1189 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
+      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1189 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et {categories} grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
     'home.miniGraph.heading': '🕸️ Graphe des connaissances',
     'home.miniGraph.subtitle':
       'Chaque article est connecté — cliquez pour explorer le réseau de connaissances de Taïwan',
@@ -1925,7 +2048,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Conocer Taiwán',
     'home.meta.title': 'Base de conocimiento de código abierto sobre Taiwán',
     'home.meta.description':
-      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1189 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
+      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1189 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y {categories} grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
     'home.miniGraph.heading': '🕸️ Grafo de conocimiento',
     'home.miniGraph.subtitle':
       'Cada artículo está conectado — haz clic para explorar la red de conocimiento de Taiwán',

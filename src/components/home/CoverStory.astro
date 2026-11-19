@@ -1,58 +1,52 @@
 ---
+/**
+ * CoverStory — 「如何理解台灣？」八個時代的聲音。
+ *
+ * 2026-11-19 首頁第一期：從一條 2.2 個螢幕高的直向清單，改成一條有年代刻度的
+ * 橫向時間線（桌機一個螢幕內看完）。八句引語、出處、標題、導語、結語的文字
+ * 都是原味，一個字沒動，仍然從 home.ts 的同一批鍵讀。
+ *
+ * 版面有兩種，同一份 DOM：
+ *   - 直向（手機、或沒有 JavaScript）：八句全部展開，由上往下讀。
+ *   - 橫向（寬度 900px 以上且腳本跑起來）：八個年代排在一條線上，點、滑過或用
+ *     方向鍵移到哪個年代，下面就顯示那一句。八句疊在同一格裡，所以切換時高度
+ *     不會跳。
+ *
+ * 刻度怎麼畫：八個點是等距的（各語言的年代標籤長短差很多，照真實年份排的話
+ * 2013、當代、2026 會疊在一起）。時間的疏密改用兩點之間的小刻度表示，一格
+ * 25 年：1584 到 1697 之間有四格，1697 到 1920 年代之間有九格。沒有確切年份的
+ * 兩端（原住民族的口傳、當代）不畫刻度，原住民族那一段用虛線。
+ */
 import {
   useTranslations,
   getLangFromUrl,
   useTranslatedPath,
 } from '../../i18n/utils';
+import { useHomeT } from './home-i18n';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const th = useHomeT(lang);
 const translatePath = useTranslatedPath(lang);
-
-// Per-quote color variant — the original scoped CSS used
-// :nth-child(even) and :last-child to paint timeline dots/lines
-// blue / green / yellow. Now computed in the frontmatter so we
-// don't need cascading pseudo-class selectors.
-type Variant = {
-  dot: string;
-  line: string;
-  labelColor: string;
-  labelBg: string;
-};
-const BLUE: Variant = {
-  dot: '#3b82f6',
-  line: 'linear-gradient(180deg,#3b82f6,#e2e8f0)',
-  labelColor: '#3b82f6',
-  labelBg: '#eff6ff',
-};
-const GREEN: Variant = {
-  dot: '#059669',
-  line: 'linear-gradient(180deg,#059669,#e2e8f0)',
-  labelColor: '#059669',
-  labelBg: '#ecfdf5',
-};
-const YELLOW: Variant = {
-  dot: '#fbbf24',
-  line: 'linear-gradient(180deg,#fbbf24,#e2e8f0)',
-  labelColor: '#b45309',
-  labelBg: '#fffbeb',
-};
 
 const rawQuotes = [
   {
     eraKey: 'home.cover.era.indigenous' as const,
     quoteKey: 'home.cover.quote.indigenous' as const,
     citeKey: 'home.cover.cite.indigenous' as const,
+    year: null,
   },
   {
     era: '1584',
     quoteKey: 'home.cover.quote.1584' as const,
     citeKey: 'home.cover.cite.1584' as const,
+    year: 1584,
   },
   {
     era: '1697',
     quoteKey: 'home.cover.quote.1697' as const,
     citeKey: 'home.cover.cite.1697' as const,
+    year: 1697,
   },
   {
     // era 寫 '1920s' 不是年份：這句「勇士當為義鬥爭」原本掛在賴和〈覺悟下的犧牲〉
@@ -67,24 +61,30 @@ const rawQuotes = [
     // 任何差別）。鍵名跟顯示值從此不一致，查「1926」的人請看這段。
     // 年份一旦查到（《賴和全集》或賴和文教基金會），把 era 改回四位數並同步
     // `knowledge/People/賴和.md` 的 `[^1]`。
+    // `year: 1925` 只拿來算刻度（1920 年代的中點，一格 25 年的粗細下不影響格數），
+    // 不會顯示在頁面上。
     era: '1920s',
     quoteKey: 'home.cover.quote.1926' as const,
     citeKey: 'home.cover.cite.1926' as const,
+    year: 1925,
   },
   {
     era: '1946',
     quoteKey: 'home.cover.quote.1946' as const,
     citeKey: 'home.cover.cite.1946' as const,
+    year: 1946,
   },
   {
     era: '2013',
     quoteKey: 'home.cover.quote.2013' as const,
     citeKey: 'home.cover.cite.2013' as const,
+    year: 2013,
   },
   {
     eraKey: 'home.cover.era.contemporary' as const,
     quoteKey: 'home.cover.quote.contemporary' as const,
     citeKey: 'home.cover.cite.contemporary' as const,
+    year: null,
   },
   // 2026-05-27 Wave 3 / A3: Taiwan.md self-positioning entry (8th timeline
   // entry). Echoes MANIFESTO §主權的巴別塔 — 不寫成宣傳，寫成共生宣言。
@@ -93,73 +93,109 @@ const rawQuotes = [
     eraKey: 'home.cover.era.taiwanmd' as const,
     quoteKey: 'home.cover.quote.taiwanmd' as const,
     citeKey: 'home.cover.cite.taiwanmd' as const,
+    year: 2026,
   },
 ];
 
-const quotes = rawQuotes.map((q, i) => ({
-  ...q,
-  variant: i === rawQuotes.length - 1 ? YELLOW : i % 2 === 1 ? GREEN : BLUE,
-  isLast: i === rawQuotes.length - 1,
-}));
+const TICK_YEARS = 25;
+
+const quotes = rawQuotes.map((q, i) => {
+  const next = rawQuotes[i + 1];
+  // 這個點到下一個點之間的小刻度位置（0–100，沿著線段的百分比）
+  let ticks: number[] = [];
+  if (next && q.year !== null && next.year !== null) {
+    const span = next.year - q.year;
+    const count = Math.floor(span / TICK_YEARS);
+    ticks = Array.from(
+      { length: count },
+      (_, k) => (((k + 1) * TICK_YEARS) / span) * 100,
+    ).filter((p) => p < 97);
+  }
+  return {
+    ...q,
+    label: 'eraKey' in q && q.eraKey ? t(q.eraKey) : (q.era as string),
+    ticks,
+    // 口傳文學沒有起點：到下一個點之間用虛線
+    openStart: i === 0 && q.year === null,
+    isLast: i === rawQuotes.length - 1,
+  };
+});
 ---
 
-<!--
-  Phase 7.6 — CoverStory.astro (Tier 1 home component)
-  Scoped <style> removed. The old `:nth-child(even)` and
-  `:last-child` rules that painted timeline dots blue/green/yellow
-  are now computed in the frontmatter as a `variant` object per
-  quote and passed via inline `style=""`.
--->
-<section class="bg-[#fafbfc] px-8 py-24">
-  <div class="mx-auto max-w-[780px]">
-    <h2
-      class="mb-4 text-center font-['jf-lanyangming','Noto_Serif_TC','Source_Han_Serif_TC',serif] text-[2rem] font-light tracking-normal text-[#1a1a2e]"
-    >
-      {t('home.cover.heading')}
-    </h2>
-    <p
-      class="mb-12 text-center font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.1rem] font-semibold leading-[2] text-[#475569]"
-    >
+<section class="cover-story" data-quote-timeline>
+  <div class="cs-inner">
+    <h2 class="home-title cs-heading">{t('home.cover.heading')}</h2>
+    <p class="cs-lead">
       {t('home.cover.lead')}<br />
       {t('home.cover.lead2')}
     </p>
-    <div class="flex flex-col">
+
+    <div
+      class="cs-axis"
+      role="tablist"
+      aria-label={th('home.cover.axis.aria')}
+      aria-orientation="horizontal"
+    >
       {
         quotes.map((q, i) => (
-          <div class="grid grid-cols-[28px_1fr] gap-x-4">
-            <div class="flex flex-col items-center">
-              <div
-                class="mt-[0.35rem] h-3 w-3 flex-shrink-0 rounded-full border-2 border-white outline outline-2"
-                style={`background:${q.variant.dot};outline-color:${q.variant.dot};`}
-              />
-              {i < quotes.length - 1 && (
-                <div
-                  class="mt-1 min-h-[2rem] w-[2px] flex-1"
-                  style={`background:${q.variant.line};`}
-                />
-              )}
-            </div>
-            <div class="pb-8">
+          <>
+            <button
+              type="button"
+              class:list={['cs-node', { 'is-self': q.isLast }]}
+              role="tab"
+              id={`cs-tab-${i}`}
+              aria-controls={`cs-voice-${i}`}
+              aria-selected={i === 0 ? 'true' : 'false'}
+              tabindex={i === 0 ? 0 : -1}
+              data-index={i}
+              data-ga-section="cover_story"
+              data-ga-label={`voice_${i + 1}`}
+            >
+              <span class="cs-node-label">{q.label}</span>
+              <span class="cs-node-dot" aria-hidden="true" />
+            </button>
+            {i < quotes.length - 1 && (
               <span
-                class="mb-2 inline-block rounded px-2 py-[0.15rem] font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[0.72rem] font-bold"
-                style={`color:${q.variant.labelColor};background:${q.variant.labelBg};`}
+                class:list={['cs-seg', { 'is-open': q.openStart }]}
+                aria-hidden="true"
               >
-                {'eraKey' in q && q.eraKey ? t(q.eraKey) : q.era}
+                {q.ticks.map((p) => (
+                  <i
+                    class="cs-tick"
+                    style={`inset-inline-start:${p.toFixed(1)}%`}
+                  />
+                ))}
               </span>
-              <blockquote class="m-0 font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.05rem] font-semibold not-italic leading-[1.9] text-[#1e293b]">
-                {t(q.quoteKey)}
-                <cite class="mt-[0.4rem] block font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[0.8rem] not-italic text-[#94a3b8]">
-                  {t(q.citeKey)}
-                </cite>
-              </blockquote>
-            </div>
-          </div>
+            )}
+          </>
         ))
       }
     </div>
-    <div
-      class="mt-12 text-center font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.05rem] leading-[1.9] text-[#475569] [&>p>strong]:text-[#1a1a2e] [&>p]:mb-4"
-    >
+
+    <p class="cs-scale">{th('home.cover.axis.scale')}</p>
+
+    <ol class="cs-voices">
+      {
+        quotes.map((q, i) => (
+          <li
+            class:list={[
+              'cs-voice',
+              { 'is-active': i === 0, 'is-self': q.isLast },
+            ]}
+            id={`cs-voice-${i}`}
+            data-index={i}
+          >
+            <span class="cs-voice-era">{q.label}</span>
+            <blockquote class="cs-quote">
+              {t(q.quoteKey)}
+              <cite class="cs-cite">{t(q.citeKey)}</cite>
+            </blockquote>
+          </li>
+        ))
+      }
+    </ol>
+
+    <div class="cs-closing">
       <p>{t('home.cover.closing1')}</p>
       <p>
         <strong>{t('home.cover.closing2')}</strong>
@@ -169,9 +205,358 @@ const quotes = rawQuotes.map((q, i) => ({
         href={translatePath('/about')}
         data-ga-section="cover_story"
         data-ga-label="read_full"
-        class="mt-2 inline-block font-medium text-[#3b82f6] no-underline hover:underline"
-        >{t('home.cover.link')}</a
+        class="home-link">{t('home.cover.link')}</a
       >
     </div>
   </div>
 </section>
+
+<script>
+  // 橫向時間線的互動。沒有這段腳本時，八句引語照直向清單全部展開。
+  const WIDE = '(min-width: 900px)';
+
+  function setup(root: HTMLElement) {
+    const tabs = Array.from(
+      root.querySelectorAll<HTMLButtonElement>('.cs-node'),
+    );
+    const voices = Array.from(root.querySelectorAll<HTMLElement>('.cs-voice'));
+    if (tabs.length === 0 || tabs.length !== voices.length) return;
+    const mq = window.matchMedia(WIDE);
+    let current = 0;
+
+    function select(index: number, focus = false) {
+      current = (index + tabs.length) % tabs.length;
+      tabs.forEach((tab, i) => {
+        const on = i === current;
+        tab.setAttribute('aria-selected', on ? 'true' : 'false');
+        tab.tabIndex = on ? 0 : -1;
+      });
+      voices.forEach((voice, i) => {
+        voice.classList.toggle('is-active', i === current);
+      });
+      if (focus) tabs[current].focus();
+    }
+
+    function applyMode() {
+      const wide = mq.matches;
+      root.toggleAttribute('data-enhanced', wide);
+      voices.forEach((voice, i) => {
+        if (wide) {
+          voice.setAttribute('role', 'tabpanel');
+          voice.setAttribute('aria-labelledby', `cs-tab-${i}`);
+        } else {
+          voice.removeAttribute('role');
+          voice.removeAttribute('aria-labelledby');
+        }
+      });
+    }
+
+    tabs.forEach((tab, i) => {
+      tab.addEventListener('click', () => select(i));
+      tab.addEventListener('pointerenter', (e) => {
+        if (e.pointerType === 'mouse') select(i);
+      });
+      tab.addEventListener('focus', () => select(i));
+      tab.addEventListener('keydown', (e) => {
+        const rtl = getComputedStyle(root).direction === 'rtl';
+        const step =
+          e.key === 'ArrowRight'
+            ? rtl
+              ? -1
+              : 1
+            : e.key === 'ArrowLeft'
+              ? rtl
+                ? 1
+                : -1
+              : 0;
+        if (step !== 0) {
+          e.preventDefault();
+          select(current + step, true);
+        } else if (e.key === 'Home') {
+          e.preventDefault();
+          select(0, true);
+        } else if (e.key === 'End') {
+          e.preventDefault();
+          select(tabs.length - 1, true);
+        }
+      });
+    });
+
+    mq.addEventListener('change', applyMode);
+    applyMode();
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-quote-timeline]')
+    .forEach(setup);
+</script>
+
+<style>
+  .cover-story {
+    background: var(--color-bg-soft);
+    padding-block: var(--space-7) var(--space-8);
+    padding-inline: var(--home-gutter);
+  }
+  .cs-inner {
+    margin-inline: auto;
+    max-width: 1040px;
+  }
+  .cs-heading {
+    text-align: center;
+  }
+  .cs-lead {
+    margin: 1rem auto 0;
+    max-width: 38em;
+    text-align: center;
+    font-family: var(--font-reading);
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.9;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 直向（預設）：年代線不出現，八句由上往下排 ───────────────── */
+  .cs-axis {
+    display: none;
+  }
+  .cs-voices {
+    list-style: none;
+    margin: var(--home-gap-md) auto 0;
+    max-width: 38rem;
+    padding: 0;
+  }
+  .cs-voice {
+    position: relative;
+    padding-block-end: var(--space-5);
+    padding-inline-start: 1.75rem;
+  }
+  /* 左側的軌道與節點 */
+  .cs-voice::before {
+    content: '';
+    position: absolute;
+    inset-block: 0.55rem 0;
+    inset-inline-start: 0.28rem;
+    width: 1px;
+    background: var(--home-rule-strong);
+  }
+  .cs-voice:last-child::before {
+    display: none;
+  }
+  .cs-voice::after {
+    content: '';
+    position: absolute;
+    inset-block-start: 0.4rem;
+    inset-inline-start: 0;
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    border: 1.5px solid var(--color-ink-soft);
+    background: var(--color-bg-soft);
+  }
+  .cs-voice.is-self::after {
+    border-color: var(--home-mark);
+    background: var(--home-mark);
+  }
+  .cs-voice-era {
+    display: block;
+    margin-block-end: 0.4rem;
+    font-family: var(--font-interface);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-soft);
+  }
+  .cs-quote {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.75;
+    color: var(--color-ink);
+  }
+  .cs-cite {
+    display: block;
+    margin-block-start: 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0;
+    color: var(--color-ink-soft);
+  }
+  .cs-scale {
+    display: none;
+  }
+
+  .cs-closing {
+    margin: var(--space-6) auto 0;
+    max-width: 38em;
+    text-align: center;
+    font-family: var(--font-reading);
+    font-size: 1.02rem;
+    line-height: 1.9;
+    color: var(--color-ink-soft);
+  }
+  .cs-closing p {
+    margin: 0 0 0.75rem;
+  }
+  .cs-closing strong {
+    color: var(--color-ink);
+  }
+
+  /* ── 橫向：寬度夠、腳本也跑起來了 ──────────────────────────────── */
+  @media (min-width: 900px) {
+    [data-enhanced] .cs-axis {
+      display: flex;
+      align-items: flex-end;
+      margin-block-start: var(--space-6);
+      padding-inline: 4.5rem;
+    }
+    [data-enhanced] .cs-node {
+      position: relative;
+      flex: 0 0 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.6rem;
+      width: 0;
+      min-height: 44px;
+      border: 0;
+      background: none;
+      padding: 0;
+      cursor: pointer;
+      color: var(--color-ink-soft);
+    }
+    /* 44×44 的觸控區：節點本身寬度是 0，用偽元素撐出可點的範圍 */
+    [data-enhanced] .cs-node::before {
+      content: '';
+      position: absolute;
+      inset-block: -0.4rem -0.9rem;
+      inset-inline: -3.6rem;
+    }
+    [data-enhanced] .cs-node-label {
+      position: relative;
+      white-space: nowrap;
+      font-family: var(--font-interface);
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      transition: color 0.2s ease;
+    }
+    [data-enhanced] .cs-node-dot {
+      position: relative;
+      z-index: 1;
+      width: 0.7rem;
+      height: 0.7rem;
+      flex-shrink: 0;
+      border-radius: 50%;
+      border: 1.5px solid var(--color-ink-soft);
+      background: var(--color-bg-soft);
+      transform: translateY(50%);
+      transition:
+        transform 0.2s ease,
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+    }
+    [data-enhanced] .cs-node.is-self .cs-node-dot {
+      border-color: var(--home-mark);
+    }
+    [data-enhanced] .cs-node[aria-selected='true'] {
+      color: var(--color-ink);
+    }
+    [data-enhanced] .cs-node[aria-selected='true'] .cs-node-dot {
+      border-color: var(--color-ink);
+      background: var(--color-ink);
+      transform: translateY(50%) scale(1.45);
+    }
+    [data-enhanced] .cs-node.is-self[aria-selected='true'] .cs-node-dot {
+      border-color: var(--home-mark);
+      background: var(--home-mark);
+    }
+    [data-enhanced] .cs-node:focus-visible {
+      outline: none;
+    }
+    [data-enhanced] .cs-node:focus-visible .cs-node-label {
+      outline: 2px solid var(--home-accent);
+      outline-offset: 4px;
+      border-radius: 2px;
+    }
+
+    [data-enhanced] .cs-seg {
+      position: relative;
+      flex: 1 1 0;
+      height: 1px;
+      background: var(--home-rule-strong);
+    }
+    [data-enhanced] .cs-seg.is-open {
+      background: repeating-linear-gradient(
+        to right,
+        var(--home-rule-strong) 0 4px,
+        transparent 4px 9px
+      );
+    }
+    [data-enhanced] .cs-tick {
+      position: absolute;
+      inset-block-start: -3px;
+      width: 1px;
+      height: 7px;
+      background: var(--home-rule-strong);
+    }
+
+    [data-enhanced] .cs-voices {
+      display: grid;
+      max-width: 46rem;
+      margin-block-start: var(--space-6);
+    }
+    [data-enhanced] .cs-voice {
+      grid-area: 1 / 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0;
+      text-align: center;
+      visibility: hidden;
+      opacity: 0;
+      transform: translateY(6px);
+      transition:
+        opacity 0.3s ease,
+        transform 0.3s ease,
+        visibility 0s linear 0.3s;
+    }
+    [data-enhanced] .cs-voice.is-active {
+      visibility: visible;
+      opacity: 1;
+      transform: none;
+      transition:
+        opacity 0.3s ease,
+        transform 0.3s ease,
+        visibility 0s;
+    }
+    [data-enhanced] .cs-voice::before,
+    [data-enhanced] .cs-voice::after,
+    [data-enhanced] .cs-voice-era {
+      display: none;
+    }
+    [data-enhanced] .cs-quote {
+      font-size: clamp(1.4rem, 2.35vw, 1.95rem);
+      font-weight: 300;
+      line-height: 1.65;
+      text-wrap: balance;
+    }
+    [data-enhanced] .cs-cite {
+      margin-block-start: 1rem;
+      font-size: 0.88rem;
+    }
+    [data-enhanced] .cs-scale {
+      display: block;
+      margin: 1.1rem 0 0;
+      padding-inline: 4.5rem;
+      text-align: end;
+      font-family: var(--font-interface);
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      color: var(--color-ink-soft);
+    }
+  }
+</style>

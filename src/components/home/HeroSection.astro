@@ -1,23 +1,39 @@
 ---
+/**
+ * HeroSection — 首頁開場。
+ *
+ * 主視覺（深綠底、站名、「策展島嶼的深度敘事」、山形漸層）是原味，不動。
+ *
+ * 2026-11-19 首頁第一期改了兩處：
+ *   1. 底部四張寫死的統計卡（400+ 年、59,000+ 物種、亞洲第一、90%）換成三個
+ *      活的數字：文章數、語言數、寫作者數。資料在 home-data.ts（讀
+ *      dashboard-vitals.json、contributors.json 與語言設定）；資料檔缺席的那一格
+ *      不顯示，不放備援數字。原本四個數字在展廳散文對應的段落裡都還在。
+ *   2. 「開始探索」從跳到分類格改成滑到下一區。原本那一跳略過了中間所有區塊，
+ *      也讓各區的曝光數據失真。
+ *
+ * 樣式沿用 Phase 4 的寫法：全部是 Tailwind atomic class，沒有 scoped style；
+ * 山形漸層是原樣保留的 arbitrary [background:...]。
+ */
 import { useTranslations, getLangFromUrl } from '../../i18n/utils';
-import HeroStats from '../HeroStats.astro';
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
+import { useHomeT, formatCount } from './home-i18n';
+import { getLiveNumbers } from './home-data';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-import { iconSvg } from '../../icons/taiwan-icons.mjs';
+const th = useHomeT(lang);
+
+const live = getLiveNumbers();
+const liveItems = [
+  { value: live.articles, label: th('home.live.articles') },
+  { value: live.languages, label: th('home.live.languages') },
+  { value: live.writers, label: th('home.live.writers') },
+].filter(
+  (item): item is { value: number; label: string } => item.value !== null,
+);
 ---
 
-<!--
-  Phase 4 leaf migration #10: home/HeroSection.astro
-  ──────────────────────────────────────────────────
-  - Scoped <style> block removed entirely
-  - All classes → Tailwind atomic utilities
-  - The 6-radial-gradient "taiwan-mountains" background is preserved
-    verbatim as an arbitrary [background:...] value
-  - Responsive text sizes use md/lg/max-[...] arbitrary breakpoints to
-    match the original 4-tier responsive ladder (default / 1024px /
-    768px / 480px)
--->
 <section
   class="relative -mt-8 flex w-full max-w-[100vw] items-center overflow-hidden bg-[linear-gradient(to_bottom,#0e2018_0%,#1a3c34_100%)] px-0 pb-20 pt-[calc(8rem+56px)] text-center text-white max-[768px]:min-h-0 max-[768px]:px-4 max-[768px]:pb-16 max-[768px]:pt-[calc(7rem+56px)] max-[480px]:px-2 max-[480px]:pb-12 max-[480px]:pt-[calc(6rem+56px)]"
 >
@@ -66,7 +82,7 @@ import { iconSvg } from '../../icons/taiwan-icons.mjs';
       class="mb-20 flex flex-wrap justify-center gap-8 px-4 max-[768px]:mb-10 max-[768px]:flex-col max-[768px]:items-center max-[768px]:gap-3"
     >
       <a
-        href="#categories"
+        href="#cover-story"
         data-ga-section="hero_cta"
         data-ga-label="explore"
         class="group inline-flex items-center gap-2 rounded-md bg-white/95 px-8 py-[0.8rem] text-[0.95rem] font-semibold tracking-[0.02em] text-[#004d40] no-underline transition-all duration-300 hover:-translate-y-px hover:bg-white hover:shadow-[0_4px_12px_rgba(0,0,0,0.15)] max-[768px]:w-full max-[768px]:max-w-[300px] max-[768px]:justify-center max-[768px]:px-6 max-[768px]:py-[0.6rem] max-[480px]:px-8 max-[480px]:py-5 max-[480px]:text-base"
@@ -117,6 +133,29 @@ import { iconSvg } from '../../icons/taiwan-icons.mjs';
         </div>
       )
     }
-    <HeroStats />
+    {
+      liveItems.length > 0 && (
+        <dl
+          class="mx-auto mt-12 grid max-w-[720px] grid-flow-col auto-cols-fr border-t border-white/15 pt-8 max-[768px]:mt-8 max-[768px]:pt-6"
+          aria-label={th('home.live.aria')}
+        >
+          {liveItems.map((item, i) => (
+            <div
+              class:list={[
+                'flex flex-col-reverse items-center gap-1 px-3',
+                i > 0 && 'border-s border-white/15',
+              ]}
+            >
+              <dt class="text-[0.9rem] font-medium tracking-[0.04em] text-white/70 max-[768px]:text-[0.8rem]">
+                {item.label}
+              </dt>
+              <dd class="m-0 text-[clamp(1.9rem,5vw,3rem)] font-light leading-none tracking-tight text-white tabular-nums">
+                {formatCount(item.value, lang)}
+              </dd>
+            </div>
+          ))}
+        </dl>
+      )
+    }
   </div>
 </section>

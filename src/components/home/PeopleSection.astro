@@ -1,0 +1,310 @@
+---
+/**
+ * PeopleSection — 「人」：寫的人，讀的人。首頁第一期（2026-11-19）新增。
+ *
+ * 取代原本的 CommunityFeedback（深色底、三排跑馬燈、104 則留言各輸出兩份）。
+ * 那一區佔了首頁 HTML 的 36%，卻只有 4.6% 的人滑得到；跑馬燈也違反「不做自動
+ * 輪播」。現在：
+ *
+ *   - 讀者的聲音：精選六則，靜態排版。全部 104 則搬到 /voices/，這裡留入口。
+ *   - 讀者教我們的事：四條原文（src/data/reader-callouts.ts），一個字不改，
+ *     排在聲音的旁邊：一邊是鼓勵，一邊是指正。
+ *   - 寫作者：頭像牆，資料來自 public/api/contributors.json。
+ *
+ * 留言與「讀者教我們的事」是中文內容，只在中文首頁出現；其他語言的首頁只顯示
+ * 寫作者牆（i18n-smoke-test §B2 會檢查非中文首頁不該出現整段中文）。
+ *
+ * 精選的六則是編輯挑的（待哲宇確認）：一則講使命、一則提醒「任何入口都是視角」、
+ * 一則是海外的實際用途、一則是台語白話字、一則是批評（文字量太大看不下去）、
+ * 一則是短短的意象。刻意留一則批評，跟旁邊的「讀者教我們的事」是同一個態度。
+ */
+import { getLangFromUrl } from '../../i18n/utils';
+import { feedbacks } from '../../data/feedbacks';
+import {
+  readerCallouts,
+  readerCalloutsHeading,
+  readerCalloutsIntro,
+  readerCalloutsFixLabel,
+  readerCalloutsFootnote,
+} from '../../data/reader-callouts';
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
+import { useHomeT, formatCount } from './home-i18n';
+import { getWriters, getLiveNumbers } from './home-data';
+
+const lang = getLangFromUrl(Astro.url);
+const th = useHomeT(lang);
+const isZh = lang === 'zh-TW';
+
+const FEATURED = [
+  'Jacky Lee',
+  'Peilin Hsu',
+  'Ying-Hsin Chang',
+  'Ang Uijin',
+  '懿慈',
+  'Leona Lin',
+];
+const featured = FEATURED.map((name) =>
+  feedbacks.find((f) => f.name === name),
+).filter((f): f is { name: string; text: string } => Boolean(f));
+
+const writers = getWriters();
+const writerCount = getLiveNumbers().writers ?? writers.length;
+const arrow = iconSvg('arrow');
+const showVoices = isZh && featured.length > 0;
+---
+
+<section class="home-section" aria-labelledby="people-heading">
+  <div class="home-wrap">
+    <header class="home-head">
+      <p class="home-eyebrow">{th('home.people.eyebrow')}</p>
+      <h2 id="people-heading" class="home-title">
+        {th('home.people.heading')}
+      </h2>
+      {
+        writerCount > 0 && (
+          <p class="home-lead">
+            {th('home.people.lead', {
+              writers: formatCount(writerCount, lang),
+            })}
+          </p>
+        )
+      }
+    </header>
+
+    {
+      showVoices && (
+        <div
+          class="grid grid-cols-[minmax(0,7fr)_minmax(0,5fr)] gap-x-[var(--home-gap-md)] gap-y-[var(--home-gap-md)] max-[1100px]:grid-cols-1"
+          data-ga-view="community_feedback"
+        >
+          <div>
+            <h3 class="home-subtitle">
+              {th('home.people.voices.heading')}
+              <span class="people-sub">{th('home.people.voices.sub')}</span>
+            </h3>
+            <ul class="m-0 grid list-none grid-cols-2 gap-4 p-0 max-[640px]:grid-cols-1 max-[640px]:gap-3">
+              {featured.map((f) => (
+                <li class="voice-tile">
+                  <blockquote class="voice-text">{f.text}</blockquote>
+                  <p class="voice-name">{f.name}</p>
+                </li>
+              ))}
+            </ul>
+            <p class="mt-[var(--home-gap-sm)] mb-0">
+              <a
+                href="/voices/"
+                class="home-link"
+                data-ga-section="people"
+                data-ga-label="voices_all"
+              >
+                {th('home.people.voices.all', { count: feedbacks.length })}
+                <span class="people-arrow" set:html={arrow} />
+              </a>
+            </p>
+          </div>
+
+          <div>
+            <h3 class="home-subtitle">{readerCalloutsHeading}</h3>
+            <p class="callout-intro">{readerCalloutsIntro}</p>
+            <ul class="m-0 list-none p-0">
+              {readerCallouts.map((c) => (
+                <li class="callout">
+                  <p class="callout-source">{c.source}</p>
+                  <blockquote class="callout-catch">{c.catch}</blockquote>
+                  <p class="callout-fix">
+                    <span class="callout-fix-label">
+                      {readerCalloutsFixLabel}
+                    </span>
+                    {c.fix}
+                  </p>
+                </li>
+              ))}
+            </ul>
+            <p class="callout-foot">
+              {readerCalloutsFootnote.before}
+              <a
+                href={readerCalloutsFootnote.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                data-ga-section="people"
+                data-ga-label="reflexes"
+              >
+                {readerCalloutsFootnote.linkText}
+              </a>
+              {readerCalloutsFootnote.after}
+            </p>
+          </div>
+        </div>
+      )
+    }
+
+    {
+      writers.length > 0 && (
+        <div class:list={[showVoices && 'mt-[var(--home-gap-md)]']}>
+          <h3 class="home-subtitle">{th('home.people.writers.heading')}</h3>
+          <ul class="m-0 flex list-none flex-wrap gap-1 p-0">
+            {writers.map((w) => (
+              <li class="writer-item">
+                <a
+                  href={w.profileUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="writer no-external-icon"
+                  title={w.name}
+                  aria-label={w.name}
+                  data-ga-section="people"
+                  data-ga-label="writer"
+                >
+                  <img
+                    src={`${w.avatarUrl}${w.avatarUrl.includes('?') ? '&' : '?'}s=80`}
+                    alt=""
+                    width="40"
+                    height="40"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </a>
+              </li>
+            ))}
+          </ul>
+          <p class="mt-[var(--home-gap-sm)] mb-0">
+            <a
+              href="https://github.com/frank890417/taiwan-md/graphs/contributors"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="home-link no-external-icon"
+              data-ga-section="people"
+              data-ga-label="writers_all"
+            >
+              {th('home.people.writers.all')}
+              <span class="people-arrow" set:html={iconSvg('external')} />
+            </a>
+          </p>
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .people-sub {
+    margin-inline-start: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: var(--color-ink-soft);
+  }
+  .people-arrow {
+    display: inline-flex;
+    margin-inline-start: 0.35rem;
+    font-size: 0.85em;
+  }
+  :global([dir='rtl']) .people-arrow {
+    transform: scaleX(-1);
+  }
+
+  /* ── 讀者的聲音 ── */
+  .voice-tile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: 1.25rem 1.35rem;
+  }
+  .voice-text {
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.8;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    overflow-wrap: anywhere;
+  }
+  .voice-name {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 讀者教我們的事 ── */
+  .callout-intro {
+    margin: calc(var(--home-gap-sm) * -0.5) 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.88rem;
+    line-height: 1.75;
+    color: var(--color-ink-soft);
+  }
+  .callout {
+    border-block-start: 1px solid var(--home-rule);
+    margin-block-start: 1.1rem;
+    padding-block-start: 1.1rem;
+  }
+  .callout-source {
+    margin: 0 0 0.45rem;
+    font-family: var(--font-interface);
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-soft);
+  }
+  .callout-catch {
+    margin: 0 0 0.5rem;
+    font-family: var(--font-quote);
+    font-size: 1.02rem;
+    font-weight: 400;
+    line-height: 1.7;
+    color: var(--color-ink);
+  }
+  .callout-fix {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.84rem;
+    line-height: 1.75;
+    color: var(--color-ink-soft);
+  }
+  .callout-fix-label {
+    font-weight: 700;
+    color: var(--home-accent);
+  }
+  .callout-foot {
+    margin: 1.1rem 0 0;
+    border-block-start: 1px solid var(--home-rule);
+    padding-block-start: 1.1rem;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 寫作者 ── */
+  .writer {
+    display: block;
+    width: 44px;
+    height: 44px;
+    border: 0;
+    padding: 2px;
+    border-radius: 50%;
+    transition: transform 0.2s ease;
+  }
+  .writer img {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--home-faint);
+    object-fit: cover;
+  }
+  .writer:hover {
+    transform: translateY(-2px);
+  }
+  /* 手機上頭像牆只留前五排，其餘的人在底下的 GitHub 連結裡 */
+  @media (max-width: 640px) {
+    .writer-item:nth-child(n + 36) {
+      display: none;
+    }
+  }
+</style>
