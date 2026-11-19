@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T05:56:55+08:00",
-    "zhCommitHead": "63f892cb76",
+    "lastUpdated": "2026-11-20T06:13:02+08:00",
+    "zhCommitHead": "083061a970",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 1175,
+        "fresh": 1176,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "es": {
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 1144,
-        "stale": 30,
+        "fresh": 1145,
+        "stale": 29,
         "metadata_stale": 10,
         "missing": 7,
         "orphan": 0
@@ -16499,7 +16499,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:57:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 24432,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -72123,8 +72136,8 @@
           "sourceContentHash": "sha256:93a0d1a7fb599831",
           "sourceBodyHash": "sha256:058b370cdd88ef4a",
           "translatedAt": "2026-11-20T03:57:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b0bbab95",
+          "translationLastModified": "2026-11-20T05:56:56+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 26142,
@@ -123319,18 +123332,18 @@
         "de": {
           "path": "de/People/tgop.md",
           "translatedFrom": "People/這群人.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:18c213bcb30e6393",
-          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
-          "translatedAt": "2026-09-09T14:15:07+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:8480ea87d83796bf",
+          "sourceBodyHash": "sha256:e0560a69303d3715",
+          "translatedAt": "2026-11-19T21:45:28.694029+00:00",
           "translationLastCommit": "e042c5c7",
           "translationLastModified": "2026-09-09T14:49:30+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 26581,
+          "footnoteDefs": 56,
+          "bytes": 66323,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (56→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
