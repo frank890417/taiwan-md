@@ -1,35 +1,38 @@
 ---
 title: '린커우 신진(林口新市鎮): 「유령 도시」에서 타이북부 신흥 도시로의 변신과 도전'
 description: '1970년대 타이완 정부는 타이베이 인구 압력을 완화하기 위해 린커우 고원에 「전원도시(田園城市)」 신진을 계획했다. 수십 년의 발전을 거쳐, 교통 불편과 생활 인프라 부족으로 한때 「유령 도시(鬼城)」라 놀림받던 이 지역은 2017년 공항 철도 개통 이후 인구가 급성장하고 산업이 고도화되면서 타이북부에서 가장 젊고 활력 있는 도시권 중 하나로 부상했다. 그러나 교통 체증과 습윤한 기후 등의 과제가 여전히 해결을 기다리고 있다.'
-category: Geography
+date: 2026-04-29
+category: 'Geography'
 tags:
   [
-    린커우 신진,
-    지역 발전,
-    타이완 지리,
-    도시 계획,
-    교통,
-    부동산,
-    의료,
-    교육,
-    영상,
-    레저,
-    화야 테크놀로지 파크,
-    사회주택,
-    미기후,
-    커피 문화,
+    '린커우 신진',
+    '지역 발전',
+    '타이완 지리',
+    '도시 계획',
+    '교통',
+    '부동산',
+    '의료',
+    '교육',
+    '영상',
+    '레저',
+    '화야 테크놀로지 파크',
+    '사회주택',
+    '미기후',
+    '커피 문화',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-04-29
-readingTime: 15
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-translatedFrom: Geography/林口新市鎮.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdae42ffe0d36150'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Geography/林口新市鎮.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:150fe6a0199d610e'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
-translatedAt: 2026-05-01T20:54:10+08:00
-featured: false
+translatedAt: '2026-11-19T01:43:09.820905+00:00'
 ---
 
 > **30초 개요:** 한때 「유령 도시」라 놀림받던 린커우 신진은 지난 반세기 동안 차원(茶園), 벽돌 공장에서 AI 스마트 파크로 거대한 변화를 겪었다. 공항 철도 개통과 함께 신베이시에서 가장 젊은 이 지역의 인구는 5년 만에 순증가 1만 4천 명 이상을 기록하며 타이북부의 이주 핫스팟이 되었다. 그러나 고속도로 정체와 습윤한 기후는 여전히 발전 과정에서 간과할 수 없는 도전이다.
@@ -82,9 +85,10 @@ featured: false
 
 ## 더 읽어보기
 
-- [타이완 도시 발전과 도시-농촌 격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 지역 계획 관점에서 린커우 신진의 발전 곡선을 이해한다.
-- [베이다 특구(北大特區)](/ko/geography/beida-special-district-sanxia) — 교통, 학군, 부동산이 함께 추진한 또 다른 신흥 재개발 구역과 비교한다.
-- [타이완 교통 시스템](/ko/lifestyle/transportation-system) — 공항 철도, 고속도로, 도시 통근이 신진을 어떻게 형성하는지 더 읽어본다.
+- [타이완의 집값, 주택 담보 대출 및 청년 안심 대출(青安)](/housing/) — 특집 페이지: 각 현시별 소득 대비 주택 가격 비율과 주택 담보 대출 부담률을 통해 신시가지가 어떤 수요를 흡수했는지 비교함.
+- [타이완의 도시 발전과 도농 격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 지역 계획 관점에서 린커우 신시가지의 발전 곡선을 이해함.
+- [베이다 특구](/ko/geography/beida-special-district-sanxia) — 교통, 학군, 부동산 시장이 공동으로 추진한 또 다른 신흥 재개발 구역과 비교함.
+- [타이완 교통 시스템](/ko/lifestyle/transportation-system) — 공항철도, 국도 및 도시 통근 체계가 신시가지를 어떻게 형성했는지에 대한 심화 읽기 자료.
 
 ## 참고 자료
 

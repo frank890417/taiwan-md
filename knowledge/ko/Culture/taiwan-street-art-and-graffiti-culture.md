@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:33:38.877871+00:00'
+translatedAt: '2026-11-19T02:18:10.685775+00:00'
 ---
 
 # 타이완의 스트리트 아트와 그래피티 문화
@@ -70,17 +72,17 @@ translatedAt: '2026-11-02T01:33:38.877871+00:00'
 
 ## 참고 자료
 
-[^1]: [무지개 마을 — 위키백과](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — 타이중 난툰구 무지개 마을의 역사, 황융푸의 채색 과정 및 보존 운동 기록.
+[^1]: [무지개 마을(彩虹眷村) — 위키백과](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — 타이중 난툰구 무지개 마을의 역사, 황융푸(黃永阜)의 벽화 작업 과정 및 보존 운동 기록.
 
-[^2]: [보어예술특구 — 위키백과](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — 가오슝 보어예술특구의 발전 연혁 및 전시 공간 소개.
+[^2]: [보얼 예술특구(駁二藝術特區) — 위키백과](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — 가오슝 보얼 예술특구의 발전 연혁 및 전시 공간 소개.
 
-[^3]: [정빈 어항 — 위키백과](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — 지룽 정빈 어항 활성화 계획과 컬러풀 건물군의 형성 배경.
+[^3]: [정빈 어항(正濱漁港) — 위키백과](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — 지룽 정빈 어항 활성화 계획과 색채 건축군 형성 배경.
 
-[^4]: [타이완 스트리트 아트 지도 — Street Art Taiwan](https://streetarttaiwan.com/) — 타이완 각 도시의 스트리트 아트 작품 위치와 예술가 데이터베이스 기록.
+[^4]: [대만 거리 예술 지도 — Street Art Taiwan](https://streetarttaiwan.com/) — 대만 각 도시의 거리 예술 작품 위치와 예술가 데이터베이스 기록.
 
 [^5]: [타이베이시 그래피티 관리 자치 조례 논의 — 타이베이 시정부](https://www.gov.taipei/) — 타이베이시의 거리 그래피티 관리 정책 연혁.
 
-[^6]: [Pow! Wow! Taiwan 공식 웹사이트](https://powwowtaiwan.com/) — 타이완 국제 스트리트 아트 페스티벌 역대 활동 기록.
+[^6]: [Pow! Wow! Taiwan 공식 홈페이지](https://powwowtaiwan.com/) — 대만 국제 거리 예술제 역대 활동 기록.
 
 ## 연관 읽기
 
