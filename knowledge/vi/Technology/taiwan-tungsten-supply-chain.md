@@ -38,11 +38,13 @@ sporeLinks:
     date: '2026-07-26'
     url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-11-02T09:06:34.873179+00:00'
+translatedAt: '2026-11-19T09:49:13.517009+00:00'
 ---
 
 # Vonfram: Đài Loan không có mỏ vonfram, nhưng lại luyện ra loại bột mà cả thế giới đều cần; vị thế mong manh hơn tưởng tượng
@@ -204,11 +206,12 @@ Dây tóc vonfram phải được đốt lên trên 2.200 độ C mới phát s�
 
 ## Đọc thêm
 
-- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Vị trí của vonfram trong chip, một phân đoạn nhỏ trong dòng chảy 50 năm cách mạng vật liệu
-- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Sodium tungstate được tinh luyện tại Bình Đông cuối cùng sẽ chảy về đâu
-- [Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Vị thế lâu dài của Đài Loan khi vừa là nút thắt, vừa là lỗ hổng trên các chuỗi cung ứng của thế giới
-- [Điện năng và bán dẫn tại Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Một loại tài nguyên khác đang thiếu hụt trên đảo nhưng lại là trụ cột chống đỡ "ngọn núi hộ quốc"
-- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Điểm đến tiếp theo của cụm máy móc chính xác vùng Núi Đại Đỗ (Dadu Mountain)
+- [Bản đồ chuỗi cung ứng](/industry/supply-chain-map/) — Xem xét từng mắt xích của ba chuỗi: bán dẫn, máy chủ AI và vonfram; công ty nào nằm ở Đài Loan và mắt xích nào phụ thuộc vào nước ngoài.
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Vị trí của vonfram trong chip, một phân đoạn nhỏ trong dòng chảy 50 năm của cuộc cách mạng vật liệu này.
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Sodium tungstate được tinh luyện tại Bình Đông cuối cùng sẽ chảy về đâu.
+- [Ngoại thương và chuỗi cung ứng toàn cầu của Đài Loan](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Vị thế lâu dài của Đài Loan khi vừa là mắt xích, vừa là lỗ hổng trong các chuỗi cung ứng của thế giới.
+- [Điện năng và ngành bán dẫn tại Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Một loại tài nguyên khác đang thiếu hụt trên đảo nhưng lại là trụ cột chống đỡ cho "ngọn núi thần hộ quốc".
+- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Điểm đến tiếp theo của cụm máy móc chính xác vùng núi Dadu.
 
 ## Nguồn ảnh
 
