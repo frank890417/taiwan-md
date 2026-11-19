@@ -50,10 +50,18 @@
  * 本身是寫死的深綠，坐在夜色上像一塊亮起來的面板。 */
 .home-band--night {
   --band-bg: var(--surface-band-night);
-  --color-ink: #f4f0ea;
-  --color-ink-soft: #c9d4cd;
+  --color-ink: var(--surface-band-night-ink);
+  --color-ink-soft: var(--surface-band-night-ink-soft);
   --home-accent: var(--status-tier-excellent);
-  --home-rule: color-mix(in srgb, #f4f0ea 18%, transparent);
-  --home-rule-strong: color-mix(in srgb, #f4f0ea 36%, transparent);
+  --home-rule: color-mix(
+    in srgb,
+    var(--surface-band-night-ink) 18%,
+    transparent
+  );
+  --home-rule-strong: color-mix(
+    in srgb,
+    var(--surface-band-night-ink) 36%,
+    transparent
+  );
   color: var(--color-ink);
 }

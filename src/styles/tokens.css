@@ -183,6 +183,9 @@
   --surface-band-mist: #eef2f6; /* 淡霧藍：人與留言 */
   --surface-paper: #f8f3e8; /* 紙：四展廳那本書 */
   --surface-band-night: #102119; /* 夜色：生命體 */
+  /* 夜色帶上的字（亮、暗模式同一組：底本來就是深的） */
+  --surface-band-night-ink: #f4f0ea;
+  --surface-band-night-ink-soft: #c9d4cd;
   /* ReadingPath scene (src/components/ReadingPath.astro). */
   --scene-nature-bg: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
   --scene-nature-step-line: linear-gradient(

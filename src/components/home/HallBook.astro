@@ -257,13 +257,23 @@ const chapters = HALL_IDS.map((id: HallId) => {
      跟著縮放）：正文字級 1.12rem 時 37rem 約是中文 33 個字。寬螢幕上精選文章
      坐在右側頁邊（RTL 自動鏡像到左側），窄螢幕接在段落底下。 */
   .home-book {
+    container: book / inline-size;
     --book-col: 37rem;
     --book-side: minmax(0, 1fr);
     --book-gap: clamp(2rem, 4vw, 3.5rem);
     --book-ink: var(--color-ink);
     --book-soft: var(--color-ink-soft);
     --book-rule: var(--home-rule);
+    /* 小標的字距：中日韓文字一字一格，拉開像書的扉頁；阿拉伯文、天城文的字母
+       彼此相連，拉開字距會把字拆斷，其他語言也不加 */
+    --book-track-wide: 0;
+    --book-track-mid: 0;
     color: var(--book-ink);
+  }
+
+  :global(:root:is(:lang(zh-TW), :lang(ja), :lang(ko))) .home-book {
+    --book-track-wide: 0.32em;
+    --book-track-mid: 0.24em;
   }
 
   /* ── 扉頁 ─────────────────────────────────────────────────────── */
@@ -279,7 +289,7 @@ const chapters = HALL_IDS.map((id: HallId) => {
     font-family: var(--font-interface);
     font-size: 0.78rem;
     font-weight: 600;
-    letter-spacing: 0.32em;
+    letter-spacing: var(--book-track-wide);
     color: var(--book-soft);
   }
 
@@ -325,7 +335,7 @@ const chapters = HALL_IDS.map((id: HallId) => {
     font-family: var(--font-interface);
     font-size: 0.74rem;
     font-weight: 600;
-    letter-spacing: 0.32em;
+    letter-spacing: var(--book-track-wide);
     text-align: center;
     color: var(--book-soft);
   }
@@ -496,7 +506,7 @@ const chapters = HALL_IDS.map((id: HallId) => {
     font-family: var(--font-interface);
     font-size: 0.7rem;
     font-weight: 600;
-    letter-spacing: 0.24em;
+    letter-spacing: var(--book-track-mid);
     color: var(--book-soft);
   }
 
@@ -687,7 +697,7 @@ const chapters = HALL_IDS.map((id: HallId) => {
     font-family: var(--font-interface);
     font-size: 0.82rem;
     font-weight: 600;
-    letter-spacing: 0.24em;
+    letter-spacing: var(--book-track-mid);
     color: var(--book-soft);
   }
 
@@ -695,8 +705,11 @@ const chapters = HALL_IDS.map((id: HallId) => {
     margin: 1.25rem 0 0;
   }
 
-  /* ── 窄一點的螢幕：頁邊註記收到段落底下 ───────────────────────── */
-  @media (max-width: 1180px) {
+  /* ── 版心不夠寬：頁邊註記收到段落底下 ─────────────────────────────
+     看的是書本身的寬度（容器查詢），單位用 rem：正文欄 37rem＋兩側各一個至少
+     12rem 的頁邊與欄距，約 67rem。閱讀設定把字放大時 rem 跟著變大，頁邊註記
+     會提早收到段落底下，不會被擠成一欄六七個字。 */
+  @container book (max-width: 67rem) {
     .book-passage {
       grid-template-columns: minmax(0, var(--book-col));
       justify-content: center;
@@ -743,7 +756,7 @@ const chapters = HALL_IDS.map((id: HallId) => {
 
     .book-front-eyebrow,
     .book-toc-label {
-      letter-spacing: 0.2em;
+      letter-spacing: var(--book-track-mid);
     }
 
     :global(.home-page) a.book-note-link {
