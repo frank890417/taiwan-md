@@ -754,5 +754,10 @@ const chapters = HALL_IDS.map((id: HallId) => {
       flex-direction: column;
       align-items: flex-start;
     }
+
+    /* 直排時 flex-basis 會變成高度，住戶那一行不要被撐成 18rem 高 */
+    .book-residents {
+      flex: none;
+    }
   }
 </style>
