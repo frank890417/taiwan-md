@@ -1,15 +1,15 @@
 ---
-title: 'Sistem Kepala Desa/Kelurahan: 7.748 Kepala Terpilih Rakyat, Unit Politik Paling Dasar Taiwan'
-description: 'Kantor Kelurahan Jam 5:30 Pagi, Tunjangan Bulanan NT$54.000, Lebih dari Enam Puluh Persen Tanpa Partai — Kepala Desa/Kelurahan Adalah Jabatan Politik yang Paling Tidak Seperti "Politik" dalam Pemilihan Taiwan, dan Bukti Paling Lengkap Demokratisasi Taiwan. Dari Sistem Bao-Jia Masa Pendudukan Jepang ke Pemilihan Langsung 1950, Jabatan Ini yang Berjumlah 7.748 di Seluruh Taiwan — Lebih Banyak dari 7-Eleven — Mengoperasikan Delapan Puluh Tahun Agen Hubungan Lokal.'
+title: 'Sistem Kepala Desa dan Ketua Lingkungan: 7.748 Pemimpin Terpilih, Unit Politik Paling Dasar di Taiwan'
+description: 'Kepala desa (Cun Zhang) dan ketua lingkungan (Li Zhang) adalah pemimpin terpilih pada tingkat yang sama, perbedaannya terletak pada wilayah kekuasaan: desa dibentuk di tingkat kecamatan/kota, sedangkan lingkungan dibentuk di kota metropolitan dan kota tingkat kabupaten, dengan total 7.748 orang di seluruh Taiwan. Berdasarkan Undang-Undang Sistem Pemerintahan Daerah, masa jabatan adalah empat tahun, dapat dipilih kembali tanpa batasan periode, dan pemilihan umum dilakukan setiap empat tahun bersamaan dengan pemilihan sembilan unit pemerintahan (nine-in-one elections); hari pemungutan suara tahun 2026 jatuh pada 28 November. Jabatan kepala desa dan ketua lingkungan bersifat sukarela tanpa gaji tetap, melainkan menerima tunjangan administrasi sebesar NT$54.000 per bulan; lebih dari enam puluh persen tidak berafiliasi dengan partai politik, posisi ini berevolusi dari sistem Baojia pada masa penjajahan Jepang menjadi jabatan terpilih yang paling dasar di Taiwan.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Kepala Desa/Kelurahan',
-    'Otonomi Dasar',
-    'Undang-Undang Sistem Lokal',
-    'Bao-Jia Masa Pendudukan Jepang',
-    'Pemilihan 2026',
+    'Kepala Desa dan Ketua Lingkungan',
+    'Otonomi Tingkat Dasar',
+    'Undang-Undang Sistem Pemerintahan Daerah',
+    'Sistem Baojia Masa Penjajahan Jepang',
+    'Pemilihan Umum 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -17,11 +17,17 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T04:50:37+08:00'
+translatedAt: '2026-11-19T02:09:28.196927+00:00'
 ---
 
 # Sistem Kepala Desa/Kelurahan: 7.748 Kepala Terpilih Rakyat, Unit Politik Paling Dasar Taiwan

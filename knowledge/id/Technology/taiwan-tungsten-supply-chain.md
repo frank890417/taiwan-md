@@ -29,16 +29,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-29T07:32:33+08:00'
+translatedAt: '2026-11-19T03:08:27.595301+00:00'
 ---
 
 # Tungsten: Taiwan Tidak Punya Tambang Tungsten, Namum Menghasilkan Bubuk yang Dibutuhkan Seluruh Dunia — Posisi Lebih Rapuh dari yang Dibayangkan
@@ -200,11 +206,12 @@ Filamen tungsten harus dibakar **>2.200 °C** baru bersinar. Suhu itu **dipaksa 
 
 ## Bacaan Lanjutan
 
-- [Industri semikonduktor](/id/technology/taiwan-semiconductor-industry/) — Posisi tungsten di chip, bagian kecil dari sungai revolusi material 50 tahun ini
-- [TSMC](/id/economy/tsmc/) — Ammonium paratungstat hasil pemurnian Fangliao akhirnya ke mana
-- Taiwan's foreign trade and global supply chain (台灣外貿與全球供應鏈) — Posisi jangka panjang Taiwan di rantai orang lain: sekaligus node dan celah
-- [Listrik Taiwan & semikonduktor](/id/technology/taiwan-electricity-and-semiconductors) — Sumber daya lain di pulau yang tidak cukup, tapi menopang gunung suci pelindung negara
-- [Industri robot Taiwan](/id/technology/taiwan-robotics/) — Station berikutnya kluster mesin presisi Gunung Dadu
+- [Peta Rantai Pasokan](/industry/supply-chain-map/) — Semikonduktor, server AI, tiga rantai tungsten, lihat perusahaan mana di Taiwan dan link mana yang bergantung pada luar negeri
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Posisi tungsten di dalam chip, bagian kecil dari sungai revolusi material 50 tahun ini
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Natrium tungsten yang diproses di Pingtung akhirnya mengalir ke mana
+- [Perdagangan Luar Negeri Taiwan & Rantai Pasokan Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Posisi jangka panjang Taiwan sebagai simpul dan celah sekaligus di rantai orang lain
+- [Listrik & Semikonduktor Taiwan](/id/technology/taiwan-electricity-and-semiconductors) — Sumber daya lain yang kurang di pulau ini, namun menopang gunung suci pelindung negara
+- [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — Selanjutnya dari kluster mesin presisi Gunung Dadu
 
 ## Sumber Gambar
 

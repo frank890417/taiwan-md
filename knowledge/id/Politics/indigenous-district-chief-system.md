@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
-translatedFrom: Politics/直轄市山地原住民區長.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:0746c045bf4a4492003437503e16391c09b9363664a31b4703e6eb964260f89a
-sourceBodyHash: sha256:005dbed32b0473d422437d40fd421bdf8da8afa69b87f1ef3139774e3f260daf
-translatedAt: 2026-09-09T15:32:33+08:00
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Politics/直轄市山地原住民區長.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:529adc4e4a8cd340'
+sourceBodyHash: 'sha256:4dad7b27d2c04ae8'
+translatedAt: '2026-11-19T01:59:06.916135+00:00'
 ---
 
 # Kepala Distrik Masyarakat Adat di Kota Besar: Posisi Pemilihan yang Dipertahankan oleh Amandemen Hukum 2014
