@@ -122,6 +122,8 @@ const arrow = iconSvg('arrow');
   .topic-index {
     display: grid;
     grid-template-columns: repeat(5, minmax(0, 1fr));
+    /* 每格同樣大小：所有列等高（手機兩欄時改回各列自己的高度，見檔尾） */
+    grid-auto-rows: 1fr;
     gap: 0.75rem;
     margin: 0;
     padding: 0;
@@ -137,7 +139,8 @@ const arrow = iconSvg('arrow');
     grid-column: span 2;
     flex-direction: column;
     justify-content: flex-start;
-    padding: 0.35rem 1.1rem 0 0;
+    padding-block-start: 0.35rem;
+    padding-inline-end: 1.1rem;
   }
   .topic-sum-total {
     margin: 0;
@@ -308,11 +311,13 @@ const arrow = iconSvg('arrow');
   @media (max-width: 600px) {
     .topic-index {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-auto-rows: auto;
       gap: 0.5rem;
     }
     .topic-index > .topic-sum {
       grid-column: span 1;
-      padding: 0.2rem 0.4rem 0 0;
+      padding-block-start: 0.2rem;
+      padding-inline-end: 0.4rem;
     }
     .topic-sum-unit {
       font-size: 0.84rem;
