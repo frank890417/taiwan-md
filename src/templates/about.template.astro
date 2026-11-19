@@ -36,6 +36,9 @@ import vitalsData from '../../public/api/dashboard-vitals.json';
 import organismData from '../../public/api/dashboard-organism.json';
 // 個人支持者人數（收合名單的標題用）；同 SupporterGrid 讀的那一份。
 import supportersData from '../../public/api/about-supporters.json';
+// MonoLab 官方標誌（2026-11-19 哲宇：團隊卡用 MonoLab 的 logo）。行內輸出，
+// 根元素 fill="currentColor"，淺色與深色模式都跟著文字顏色。
+import monolabLogo from '../assets/monolab-logo.svg?raw';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -412,7 +415,18 @@ const today = new Date().toISOString().slice(0, 10);
           </div>
 
           <div class="team-card">
-            <div class="team-icon">{t('about.team.monolab.icon')}</div>
+            {
+              /* MonoLab 官方標誌（src/assets/monolab-logo.svg，填色跟著文字色走） */
+            }
+            <div
+              class="team-icon team-icon--logo"
+              role="img"
+              aria-label="MonoLab"
+              set:html={monolabLogo.replace(
+                '<svg ',
+                '<svg aria-hidden="true" focusable="false" ',
+              )}
+            />
             <h3>{t('about.team.monolab.name')}</h3>
             <p class="team-role">{t('about.team.monolab.role')}</p>
             <div class="team-description">
@@ -3355,6 +3369,19 @@ const today = new Date().toISOString().slice(0, 10);
     margin: 0;
     font-size: 2.25rem;
     line-height: 1;
+  }
+  /* MonoLab 標誌：橫式字標，字高跟旁邊 Muse 的圖示差不多（約 2.25rem 的方塊裡
+     字母約佔一半高），所以標誌寬 6.5rem、高約 1.7rem */
+  .team-icon--logo {
+    display: flex;
+    align-items: center;
+    inline-size: 6rem;
+    color: var(--color-ink);
+  }
+  .team-icon--logo :global(svg) {
+    display: block;
+    inline-size: 100%;
+    block-size: auto;
   }
   .team-card h3 {
     align-self: end;
