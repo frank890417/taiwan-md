@@ -204,6 +204,86 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       'The {count} largest listed companies, sized by market value. {top} alone is {pct}% of these {count} combined.',
     'home.hall.thumb4.cta': 'Open the company landscape',
+    'home.halls.title': 'The four halls',
+    'home.halls.eyebrow': 'Exhibition halls',
+    'home.halls.lead':
+      "Taiwan.md arranges its {count} articles into four halls. Each opens with a short curatorial essay, followed by that hall's subjects, topics and tools.",
+    'home.halls.meta.description':
+      'The four halls of Taiwan.md: what this island looks like, how it came to be, what its people are doing, and where it is going. Each hall has a curatorial essay, featured articles, and its own subjects, topics and tools.',
+    'home.halls.lobby': 'Lobby',
+    'home.hall.label': 'Hall {numeral}',
+    'home.hall.meta.title': 'Hall {numeral}: {title}',
+    'home.hall.meta.description':
+      'Hall {numeral} of Taiwan.md\'s four halls, "{title}": the full curatorial essay, featured articles on {categories}, and this hall\'s topics and tools.',
+    'home.hall.lede': 'This hall holds {categories}: {count} articles today.',
+    'home.hall.prose.fallback':
+      'This essay has not been translated into this language yet, so it is shown in English.',
+    'home.hall.residents.eyebrow': 'Tools and special sections',
+    'home.hall.residents.heading': 'Ready to use in this hall',
+    'home.hall.kind.topic': 'Topic',
+    'home.hall.kind.tool': 'Tool',
+    'home.hall.kind.interactive': 'Interactive',
+    'home.hall.kind.data': 'Data',
+    'home.hall.categories.eyebrow': 'Browse by subject',
+    'home.hall.categories.heading': 'Subjects in this hall',
+    'home.hall.corridor.eyebrow': 'Corridor',
+    'home.hall.corridor.heading': 'Where to next',
+    'home.hall.corridor.prev': 'Previous hall',
+    'home.hall.corridor.next': 'Next hall',
+    'home.hall.corridor.lobby': 'Back to the lobby',
+    'home.hall.corridor.all': 'See all four halls',
+    'home.lobby.enter': 'Enter this hall',
+    'home.lobby.residents': 'Also in this hall',
+    'home.lobby.all': 'See all four halls',
+    'home.hall.res.taiwan_shape.name': 'The shape of Taiwan',
+    'home.hall.res.taiwan_shape.desc':
+      'A correctly drawn outline of Taiwan, with SVG and geodata files free to reuse.',
+    'home.hall.res.map.name': 'Map',
+    'home.hall.res.map.desc':
+      'Click a county or a place on the map and read the articles about it.',
+    'home.hall.res.soundscape.name': 'Soundscape',
+    'home.hall.res.soundscape.desc':
+      'Taiwan by ear: field recordings of garbage trucks, temple festivals and waves.',
+    'home.hall.res.timeline.name': 'Timeline',
+    'home.hall.res.timeline.desc':
+      'From prehistory to today, each era linked to the articles about it.',
+    'home.hall.res.terminology.name': 'Terminology',
+    'home.hall.res.terminology.desc':
+      'Cross-strait vocabulary side by side: the PRC term, the Taiwanese term, and why they parted.',
+    'home.hall.res.converter.name': 'Terminology converter',
+    'home.hall.res.converter.desc':
+      'Paste a passage and replace PRC usage with the words people use in Taiwan.',
+    'home.hall.res.lifetree.name': 'Life tree',
+    'home.hall.res.lifetree.desc':
+      "A person's key decisions drawn as a branching tree: the path taken and the ones not taken. Experimental.",
+    'home.hall.res.names.name': 'Taiwanese names',
+    'home.hall.res.names.desc':
+      'Surnames, the given names that mark each generation, four official spellings, and a romanization tool.',
+    'home.hall.res.companies.name': 'Company landscape',
+    'home.hall.res.companies.desc':
+      "Taiwan's largest listed companies by market value, sortable and filterable.",
+    'home.hall.res.budget.name': 'Government budget',
+    'home.hall.res.budget.desc':
+      'Ten years of the central government budget: how it is split, which ministries grew, and how much was actually spent.',
+    'home.hall.res.industry.name': 'Industries and listed companies',
+    'home.hall.res.industry.desc':
+      'Exports, science parks, factories by county and market-cap rankings: the industrial structure in official statistics.',
+    'home.hall.res.elections.name': '2026 elections',
+    'home.hall.res.elections.desc':
+      'The 2026 local elections: candidates, campaign donations and voting information by city and county.',
+    'home.hall.res.health.name': 'Health and long-term care',
+    'home.hall.res.health.desc':
+      'How National Health Insurance and long-term care work, with subsidy and premium calculators.',
+    'home.hall.res.income.name': 'Pay, tax and retirement',
+    'home.hall.res.income.desc':
+      'Where a paycheck goes: wages, income tax, labor insurance and pensions, with four calculators.',
+    'home.hall.res.housing.name': 'Housing',
+    'home.hall.res.housing.desc':
+      'Price-to-income ratios, mortgages and the Qing-An loan, with a mortgage calculator and an affordability check.',
+    'home.hall.res.data.name': 'Data Taiwan',
+    'home.hall.res.data.desc':
+      'How Taiwan became what it is, read through its numbers, each linked to its official source.',
+    'home.hall.thumb1.tropic': 'Tropic of Cancer',
     'home.hall.pick.sources': '{n} sources',
     'home.start.eyebrow': 'Start here',
     'home.people.eyebrow': 'People',
@@ -1759,6 +1839,81 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了這 {count} 家合計的 {pct}%。',
     'home.hall.thumb4.cta': '打開企業版圖',
+    'home.halls.title': '四個展廳',
+    'home.halls.eyebrow': '展廳',
+    'home.halls.lead':
+      'Taiwan.md 把 {count} 篇文章排成四個展廳。每一廳從一篇策展散文開始，後面接著這一廳的分類、專題與工具。',
+    'home.halls.meta.description':
+      'Taiwan.md 的四個展廳：這座島長什麼樣、怎麼來的、島上的人在做什麼、往哪裡去。每一廳有一篇策展散文、精選文章，以及這一廳的分類、專題與工具。',
+    'home.halls.lobby': '大廳',
+    'home.hall.label': '展廳{numeral}',
+    'home.hall.meta.title': '展廳{numeral}：{title}',
+    'home.hall.meta.description':
+      'Taiwan.md 四個展廳之{numeral}「{title}」：策展散文全文、{categories}的精選文章，以及這一廳的專題與工具。',
+    'home.hall.lede': '這一廳收的是{categories}，現在一共 {count} 篇文章。',
+    'home.hall.prose.fallback':
+      '這篇策展散文還沒有這個語言的版本，先以英文呈現。',
+    'home.hall.residents.eyebrow': '專區與工具',
+    'home.hall.residents.heading': '這一廳裡直接能用的',
+    'home.hall.kind.topic': '專題',
+    'home.hall.kind.tool': '工具',
+    'home.hall.kind.interactive': '互動頁',
+    'home.hall.kind.data': '資料',
+    'home.hall.categories.eyebrow': '照主題找',
+    'home.hall.categories.heading': '這一廳的分類',
+    'home.hall.corridor.eyebrow': '走廊',
+    'home.hall.corridor.heading': '接著往哪裡走',
+    'home.hall.corridor.prev': '上一廳',
+    'home.hall.corridor.next': '下一廳',
+    'home.hall.corridor.lobby': '回大廳',
+    'home.hall.corridor.all': '看四個展廳',
+    'home.lobby.enter': '走進這一廳',
+    'home.lobby.residents': '這一廳還有',
+    'home.lobby.all': '看四個展廳的總覽',
+    'home.hall.res.taiwan_shape.name': '台灣的形狀',
+    'home.hall.res.taiwan_shape.desc':
+      '畫對的台灣輪廓，SVG 與地理檔可以直接拿去用。',
+    'home.hall.res.map.name': '地圖',
+    'home.hall.res.map.desc': '在地圖上點一個縣市或地點，讀那裡的文章。',
+    'home.hall.res.soundscape.name': '聲景',
+    'home.hall.res.soundscape.desc':
+      '用耳朵認識台灣：垃圾車、廟會、浪聲的田野錄音。',
+    'home.hall.res.timeline.name': '時間軸',
+    'home.hall.res.timeline.desc': '從史前到今天，每個時期接著站上的文章。',
+    'home.hall.res.terminology.name': '用語庫',
+    'home.hall.res.terminology.desc':
+      '兩岸用語對照：中國說法、台灣說法、詞源與分歧的原因。',
+    'home.hall.res.converter.name': '用語轉換器',
+    'home.hall.res.converter.desc': '貼上一段文字，把中國用語換成台灣的說法。',
+    'home.hall.res.lifetree.name': '生命樹',
+    'home.hall.res.lifetree.desc':
+      '把一個人的關鍵決定畫成分支樹：選了哪條路，沒選的是什麼。實驗中。',
+    'home.hall.res.names.name': '台灣人的名字',
+    'home.hall.res.names.desc':
+      '姓氏分布、名字的世代、四套官方拼音，附姓名拼音工具。',
+    'home.hall.res.companies.name': '企業版圖',
+    'home.hall.res.companies.desc': '台灣市值最大的上市公司，可以排序、篩選。',
+    'home.hall.res.budget.name': '總預算',
+    'home.hall.res.budget.desc':
+      '中央政府總預算十年：錢怎麼分、哪些部會在長、最後有沒有花掉。',
+    'home.hall.res.industry.name': '產業與上市公司',
+    'home.hall.res.industry.desc':
+      '出口、科學園區、各縣市工廠與歷年市值排名，用官方統計畫出產業結構。',
+    'home.hall.res.elections.name': '2026 選舉',
+    'home.hall.res.elections.desc':
+      '九合一選舉專區：各縣市的候選人、政治獻金與投票資訊。',
+    'home.hall.res.health.name': '醫療與長照',
+    'home.hall.res.health.desc': '健保與長照怎麼運作，附長照補助與健保費試算。',
+    'home.hall.res.income.name': '薪資、稅與退休',
+    'home.hall.res.income.desc':
+      '一份薪水的去向：薪資分布、綜所稅、勞保與勞退，附四個試算工具。',
+    'home.hall.res.housing.name': '房地產',
+    'home.hall.res.housing.desc':
+      '房價所得比、房貸與青安貸款，附房貸試算與負擔自查。',
+    'home.hall.res.data.name': '資料台灣',
+    'home.hall.res.data.desc':
+      '用數字讀台灣怎麼變成現在的樣子，每個數字都附官方出處。',
+    'home.hall.thumb1.tropic': '北回歸線',
     'home.hall.pick.sources': '{n} 引用',
     'home.start.eyebrow': '從這裡開始',
     'home.people.eyebrow': '人',

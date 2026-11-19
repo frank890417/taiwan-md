@@ -1,0 +1,398 @@
+---
+/**
+ * hall.template.astro — 展廳頁（/halls/1/ … /halls/4/，13 個語言共用一份）。
+ *
+ * 2026-11-19 首頁第二期。規格：reports/design-homepage-about-implementation-2026-11-19.md 3.1。
+ * 首頁變成大廳之後，四篇策展散文搬到這裡，各自有一整頁的空間。這一頁當成一篇
+ * 排好的長文來做：
+ *
+ *   頭    hall_head        展廳編號與名稱（襯線）、一句導語、視覺化頭圖（HallThumb 放大）
+ *   文    hall_prose       策展散文全文，段落之間是原本就交織在散文裡的精選文章
+ *   住戶  hall_residents   這一廳底下的專區、工具、視覺化頁
+ *   分類  hall_categories  這一廳的分類，各自的篇數與入口
+ *   走廊  hall_corridor    通往下一廳的那句橋段、上一廳、下一廳、回大廳
+ *
+ * 散文的來源是 src/data/halls/prose/{語言}.ts（HallProse 元件），跟首頁入口卡的
+ * 第一段是同一份。還沒有自己那份的語言顯示英文版，並說明一句。
+ *
+ * 最外層帶 .home-page：首頁的版面語彙（--home-* 變數、區塊標頭、入口方格、
+ * focus 外框、減少動態）與 dark-polish.css 裡展廳散文的深色對應都掛在它底下，
+ * 這一頁直接沿用，不另外抄一份。
+ */
+import '../styles/home-sections.css';
+import '../styles/home-halls.css';
+import '../styles/hall-page.css';
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import HomeDefs from '../components/home/HomeDefs.astro';
+import HallThumb from '../components/home/HallThumb.astro';
+import HallProse from '../components/home/HallProse.astro';
+import {
+  useTranslations,
+  getLangFromUrl,
+  type TranslationKey,
+} from '../i18n/utils';
+import { useHomeT, formatCount } from '../components/home/home-i18n';
+import { countCategoryArticles } from '../components/home/home-data';
+import {
+  HALL_CATEGORY_LIST,
+  HALL_RESIDENTS,
+} from '../components/home/hall-data';
+import {
+  getHallProse,
+  hasOwnHallProse,
+  hallProseLang,
+  HALL_IDS,
+  type HallId,
+} from '../data/halls';
+import { getCategoryConfigs } from '../utils/categoryConfig';
+import { getLanguage } from '../config/languages';
+import { resolveStaticHref, staticPageExists } from '../utils/staticRoutes';
+import { categoryIcons, icons, iconSvg } from '../icons/taiwan-icons.mjs';
+
+interface Props {
+  hall: HallId;
+}
+
+const { hall } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const hallHref = (id: number) => `${langPrefix}/halls/${id}/`;
+const hallsHref = `${langPrefix}/halls/`;
+const lobbyHref = lang === 'zh-TW' ? '/' : `/${lang}/`;
+
+const allProse = getHallProse(lang);
+const prose = allProse[hall - 1];
+const proseIsFallback = !hasOwnHallProse(lang);
+// 展廳名跟著散文的語言走：還沒有自己那份散文的語言，展廳名是英文，標上語言與
+// 方向（阿拉伯文頁面上的英文展廳名才會由左到右排）。
+const nameLang = proseIsFallback ? hallProseLang(lang) : undefined;
+const nameDir = proseIsFallback ? 'ltr' : undefined;
+const isRtl = getLanguage(lang)?.dir === 'rtl';
+// 把一段別種文字的插入值隔離起來（FSI…PDI）：由右到左的頁面上，退回英文的句子裡
+// 插進阿拉伯文的分類名時，數字與標點才不會被重排。
+const isolate = (text: string) => (isRtl ? `\u2068${text}\u2069` : text);
+
+/* ── 分類 ── */
+const categoryConfigs = getCategoryConfigs(t) as Record<
+  string,
+  { name: string; description: string }
+>;
+const categories = HALL_CATEGORY_LIST[hall]
+  .map((slug) => ({
+    slug,
+    name: categoryConfigs[slug]?.name,
+    description: categoryConfigs[slug]?.description,
+    icon: (categoryIcons as Record<string, keyof typeof icons>)[slug],
+    count: countCategoryArticles(lang, slug),
+  }))
+  .filter((c) => c.name && c.count > 0);
+const articleTotal = categories.reduce((sum, c) => sum + c.count, 0);
+
+// 「地理、自然與生活」這種列舉照各語言自己的寫法接起來
+function listNames(names: string[]): string {
+  try {
+    return new Intl.ListFormat(lang, {
+      style: 'long',
+      type: 'conjunction',
+    }).format(names);
+  } catch {
+    return names.join(', ');
+  }
+}
+const categoryNames = listNames(categories.map((c) => c.name));
+
+/* ── 住戶 ── */
+const residents = HALL_RESIDENTS[hall].map((r) => ({
+  ...r,
+  href: resolveStaticHref(lang, r.path),
+  // 這個語言沒有這一頁時，連結會到中文版：在卡片上標出來，不讓人點了才發現
+  zhOnly: lang !== 'zh-TW' && !staticPageExists(lang, r.path),
+  name: th(`home.hall.res.${r.id}.name` as TranslationKey),
+  desc: th(`home.hall.res.${r.id}.desc` as TranslationKey),
+  kindLabel: th(`home.hall.kind.${r.kind}` as TranslationKey),
+}));
+// 三個住戶排一列三張；其他數量（兩個、八個）排兩欄，每張夠寬、說明不會被擠成
+// 一行七八個字，也不會剩下單獨一張的殘列。
+const residentCols = residents.length === 3 ? 3 : 2;
+
+/* ── 走廊 ── */
+const prevId = hall > 1 ? ((hall - 1) as HallId) : null;
+const nextId = hall < HALL_IDS.length ? ((hall + 1) as HallId) : null;
+// 通往下一廳的橋段：原本在首頁兩個展廳之間的那一句（13 語都有）
+const bridge = nextId
+  ? t(`home.bridge.${hall}to${nextId}` as TranslationKey)
+  : '';
+
+const pageTitle = th('home.hall.meta.title', {
+  numeral: prose.numeral,
+  title: prose.title,
+});
+const pageDescription = th('home.hall.meta.description', {
+  numeral: prose.numeral,
+  title: prose.title,
+  categories: categoryNames,
+});
+const arrow = iconSvg('arrow');
+---
+
+<Layout
+  lang={lang}
+  title={pageTitle}
+  description={pageDescription}
+  readerSettings
+  pageType="hall"
+>
+  <div class="home-page hall-page">
+    <HomeDefs />
+
+    <article class="hall-article">
+      <header class="hall-head hall-wrap" data-ga-view="hall_head">
+        <nav class="hall-crumbs" aria-label={th('home.halls.eyebrow')}>
+          <a href={lobbyHref} data-ga-section="hall_head" data-ga-label="lobby">
+            {th('home.halls.lobby')}
+          </a>
+          <span aria-hidden="true">/</span>
+          <a href={hallsHref} data-ga-section="hall_head" data-ga-label="halls">
+            {th('home.halls.eyebrow')}
+          </a>
+        </nav>
+        <h1 class="hall-heading" lang={nameLang} dir={nameDir}>
+          <span class="hall-numeral">{prose.numeral}</span>
+          <span class="hall-name">{prose.title}</span>
+        </h1>
+        <p class="hall-lede">
+          {
+            th('home.hall.lede', {
+              categories: isolate(categoryNames),
+              count: formatCount(articleTotal, lang),
+            })
+          }
+        </p>
+        <HallThumb hall={hall} size="hero" />
+      </header>
+
+      <div class="hall-prose hall-wrap" data-ga-view="hall_prose">
+        {
+          proseIsFallback && (
+            <p class="hall-prose-note">{th('home.hall.prose.fallback')}</p>
+          )
+        }
+        <HallProse hall={hall} />
+      </div>
+    </article>
+
+    {
+      residents.length > 0 && (
+        <section
+          class="hall-block hall-wrap"
+          aria-labelledby="hall-residents-heading"
+          data-ga-view="hall_residents"
+        >
+          <header class="home-head">
+            <p class="home-eyebrow">{th('home.hall.residents.eyebrow')}</p>
+            <h2 id="hall-residents-heading" class="home-title">
+              {th('home.hall.residents.heading')}
+            </h2>
+          </header>
+          <ul class="hall-residents" style={`--cols:${residentCols}`}>
+            {residents.map((r) => (
+              <li>
+                <a
+                  href={r.href}
+                  class="home-tile hall-resident"
+                  data-ga-section="hall_resident"
+                  data-ga-label={r.id}
+                  hreflang={r.zhOnly ? 'zh-Hant' : undefined}
+                >
+                  <span class="hall-resident-top">
+                    <span class="hall-resident-icon" aria-hidden="true">
+                      <Icon name={r.icon as keyof typeof icons} />
+                    </span>
+                    <span class="hall-resident-kind">{r.kindLabel}</span>
+                    {r.zhOnly && (
+                      <span class="hall-resident-lang" lang="zh-Hant">
+                        中文
+                      </span>
+                    )}
+                  </span>
+                  <span class="hall-resident-name">{r.name}</span>
+                  <span class="hall-resident-desc">{r.desc}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      categories.length > 0 && (
+        <section
+          class="hall-block hall-wrap"
+          aria-labelledby="hall-categories-heading"
+          data-ga-view="hall_categories"
+        >
+          <header class="home-head">
+            <p class="home-eyebrow">{th('home.hall.categories.eyebrow')}</p>
+            <h2 id="hall-categories-heading" class="home-title">
+              {th('home.hall.categories.heading')}
+            </h2>
+          </header>
+          <ul class="hall-cats">
+            {categories.map((c) => (
+              <li>
+                <a
+                  href={`${langPrefix}/${c.slug}`}
+                  class="hall-cat"
+                  data-ga-section="hall_category"
+                  data-ga-label={c.slug}
+                >
+                  <span class="hall-cat-icon" aria-hidden="true">
+                    <Icon name={c.icon} />
+                  </span>
+                  <span class="hall-cat-text">
+                    <span class="hall-cat-name">{c.name}</span>
+                    <span class="hall-cat-desc">{c.description}</span>
+                  </span>
+                  <span class="hall-cat-count">
+                    <span class="hall-cat-num">
+                      {formatCount(c.count, lang)}
+                    </span>
+                    <span class="hall-cat-unit">
+                      {c.count > 1
+                        ? t('CategoryGrid.articles')
+                        : t('CategoryGrid.article')}
+                    </span>
+                  </span>
+                  <span
+                    class="hall-arrow"
+                    aria-hidden="true"
+                    set:html={arrow}
+                  />
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <nav
+      class="hall-block hall-wrap hall-corridor"
+      aria-labelledby="hall-corridor-heading"
+      data-ga-view="hall_corridor"
+    >
+      <header class="home-head">
+        <p class="home-eyebrow">{th('home.hall.corridor.eyebrow')}</p>
+        <h2 id="hall-corridor-heading" class="home-title">
+          {bridge || th('home.hall.corridor.heading')}
+        </h2>
+      </header>
+      <div class="hall-doors">
+        {
+          prevId ? (
+            <a
+              href={hallHref(prevId)}
+              class="home-tile hall-door hall-door--prev"
+              data-ga-section="hall_corridor"
+              data-ga-label={`prev_hall_${prevId}`}
+              rel="prev"
+            >
+              <span class="hall-door-label">
+                <span
+                  class="hall-arrow hall-arrow--back"
+                  aria-hidden="true"
+                  set:html={arrow}
+                />
+                {th('home.hall.corridor.prev')}
+              </span>
+              <span class="hall-door-name" lang={nameLang} dir={nameDir}>
+                <span class="hall-door-numeral">
+                  {allProse[prevId - 1].numeral}
+                </span>
+                <span>{allProse[prevId - 1].title}</span>
+              </span>
+            </a>
+          ) : (
+            <a
+              href={lobbyHref}
+              class="home-tile hall-door hall-door--prev"
+              data-ga-section="hall_corridor"
+              data-ga-label="lobby"
+            >
+              <span class="hall-door-label">
+                <span
+                  class="hall-arrow hall-arrow--back"
+                  aria-hidden="true"
+                  set:html={arrow}
+                />
+                {th('home.hall.corridor.lobby')}
+              </span>
+              <span class="hall-door-name">Taiwan.md</span>
+            </a>
+          )
+        }
+        {
+          nextId ? (
+            <a
+              href={hallHref(nextId)}
+              class="home-tile hall-door hall-door--next"
+              data-ga-section="hall_corridor"
+              data-ga-label={`next_hall_${nextId}`}
+              rel="next"
+            >
+              <span class="hall-door-label">
+                {th('home.hall.corridor.next')}
+                <span class="hall-arrow" aria-hidden="true" set:html={arrow} />
+              </span>
+              <span class="hall-door-name" lang={nameLang} dir={nameDir}>
+                <span class="hall-door-numeral">
+                  {allProse[nextId - 1].numeral}
+                </span>
+                <span>{allProse[nextId - 1].title}</span>
+              </span>
+            </a>
+          ) : (
+            <a
+              href={lobbyHref}
+              class="home-tile hall-door hall-door--next"
+              data-ga-section="hall_corridor"
+              data-ga-label="lobby"
+            >
+              <span class="hall-door-label">
+                {th('home.hall.corridor.lobby')}
+                <span class="hall-arrow" aria-hidden="true" set:html={arrow} />
+              </span>
+              <span class="hall-door-name">Taiwan.md</span>
+            </a>
+          )
+        }
+      </div>
+      <p class="hall-corridor-more">
+        {
+          prevId && nextId && (
+            <a
+              href={lobbyHref}
+              class="home-link"
+              data-ga-section="hall_corridor"
+              data-ga-label="lobby"
+            >
+              {th('home.hall.corridor.lobby')}
+            </a>
+          )
+        }
+        <a
+          href={hallsHref}
+          class="home-link"
+          data-ga-section="hall_corridor"
+          data-ga-label="halls"
+        >
+          {th('home.hall.corridor.all')}
+        </a>
+      </p>
+    </nav>
+  </div>
+</Layout>

@@ -120,3 +120,73 @@ export function getHallPicks(lang: string): Record<string, PickArticle[]> {
   picksMemo.set(lang, topPicks);
   return topPicks;
 }
+
+/* ── 展廳頁「分類」那一區 ───────────────────────────────────────────── */
+
+/**
+ * 每一廳底下的分類。前三個跟散文的段落一一對應；政治原本不在任何展廳，
+ * 第二期放進第四廳（規格 3.1）。13 個分類剛好各出現一次。
+ */
+export const HALL_CATEGORY_LIST: Record<HallId, readonly string[]> = {
+  1: ['geography', 'nature', 'lifestyle'],
+  2: ['history', 'culture', 'society'],
+  3: ['people', 'art', 'music'],
+  4: ['technology', 'economy', 'food', 'politics'],
+};
+
+/* ── 住戶：每一廳底下的專區、工具、視覺化頁 ───────────────────────────── */
+
+export type ResidentKind = 'topic' | 'tool' | 'interactive' | 'data';
+
+export interface Resident {
+  /** 追蹤用的代碼（data-ga-label），也是字串鍵 home.hall.res.{id}.name／.desc 的一段 */
+  id: string;
+  /** 不含語言前綴的路徑。連結一律過 resolveStaticHref：該語言沒有這一頁就退回中文路徑 */
+  path: string;
+  kind: ResidentKind;
+  /** src/icons/taiwan-icons.mjs 的圖示名 */
+  icon: string;
+}
+
+/** 住戶分配照規格 3.1 的表。順序就是頁面上的順序。 */
+export const HALL_RESIDENTS: Record<HallId, readonly Resident[]> = {
+  1: [
+    { id: 'taiwan_shape', path: '/taiwan-shape', kind: 'data', icon: 'island' },
+    { id: 'map', path: '/map', kind: 'interactive', icon: 'map' },
+    {
+      id: 'soundscape',
+      path: '/soundscape',
+      kind: 'interactive',
+      icon: 'headphones',
+    },
+  ],
+  2: [
+    { id: 'timeline', path: '/timeline', kind: 'interactive', icon: 'clock' },
+    { id: 'terminology', path: '/terminology', kind: 'data', icon: 'book' },
+    {
+      id: 'converter',
+      path: '/terminology/converter',
+      kind: 'tool',
+      icon: 'language',
+    },
+  ],
+  3: [
+    { id: 'lifetree', path: '/lifetree', kind: 'interactive', icon: 'branch' },
+    { id: 'names', path: '/names', kind: 'topic', icon: 'id' },
+  ],
+  4: [
+    {
+      id: 'companies',
+      path: '/companies',
+      kind: 'interactive',
+      icon: 'chart',
+    },
+    { id: 'budget', path: '/budget', kind: 'interactive', icon: 'coins' },
+    { id: 'industry', path: '/industry', kind: 'topic', icon: 'network' },
+    { id: 'elections', path: '/elections/2026', kind: 'topic', icon: 'ballot' },
+    { id: 'health', path: '/health', kind: 'topic', icon: 'medical' },
+    { id: 'income', path: '/income', kind: 'topic', icon: 'briefcase' },
+    { id: 'housing', path: '/housing', kind: 'topic', icon: 'home' },
+    { id: 'data', path: '/data', kind: 'data', icon: 'archive' },
+  ],
+};

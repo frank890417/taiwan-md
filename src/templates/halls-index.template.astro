@@ -1,0 +1,64 @@
+---
+/**
+ * halls-index.template.astro — /halls/ 四個展廳的總覽（13 個語言共用）。
+ *
+ * 2026-11-19 首頁第二期。一句說明加四張入口卡（跟首頁大廳同一個元件）。
+ */
+import '../styles/home-sections.css';
+import '../styles/home-halls.css';
+import '../styles/hall-page.css';
+import Layout from '../layouts/Layout.astro';
+import HomeDefs from '../components/home/HomeDefs.astro';
+import HallEntries from '../components/home/HallEntries.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useHomeT, formatCount } from '../components/home/home-i18n';
+import { countCategoryArticles } from '../components/home/home-data';
+import { HALL_CATEGORY_LIST } from '../components/home/hall-data';
+
+const lang = getLangFromUrl(Astro.url);
+const th = useHomeT(lang);
+const lobbyHref = lang === 'zh-TW' ? '/' : `/${lang}/`;
+
+// 四個展廳底下所有分類的篇數（跟各展廳頁、分類格同一個算法）
+const articleTotal = Object.values(HALL_CATEGORY_LIST)
+  .flat()
+  .reduce((sum, slug) => sum + countCategoryArticles(lang, slug), 0);
+---
+
+<Layout
+  lang={lang}
+  title={th('home.halls.title')}
+  description={th('home.halls.meta.description')}
+  readerSettings
+  pageType="hall"
+>
+  <div class="home-page hall-page halls-index">
+    <HomeDefs />
+    <header class="hall-head home-wrap" data-ga-view="halls_head">
+      <nav class="hall-crumbs" aria-label={th('home.halls.eyebrow')}>
+        <a href={lobbyHref} data-ga-section="halls_head" data-ga-label="lobby">
+          {th('home.halls.lobby')}
+        </a>
+      </nav>
+      <h1 class="hall-heading">
+        <span class="hall-name">{th('home.halls.title')}</span>
+      </h1>
+      <p class="hall-lede">
+        {th('home.halls.lead', { count: formatCount(articleTotal, lang) })}
+      </p>
+    </header>
+    <section
+      class="home-wrap halls-index-list"
+      aria-label={th('home.halls.title')}
+      data-ga-view="halls_entries"
+    >
+      <HallEntries headingTag="h2" />
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .halls-index-list {
+    margin-block-start: var(--home-gap-md);
+  }
+</style>

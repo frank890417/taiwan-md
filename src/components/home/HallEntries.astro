@@ -1,0 +1,334 @@
+---
+/**
+ * HallEntries — 四個展廳的入口卡。首頁（大廳）與 /halls/ 總覽共用。
+ *
+ * 2026-11-19 首頁第二期（規格 3.2）。首頁原本把四篇策展散文全文放在這裡，佔了
+ * 將近九個螢幕；現在散文住進展廳頁，這裡每一廳一張卡，告訴人「這扇門後面有什麼」：
+ *
+ *   展廳編號與名稱 → 視覺化縮圖 → 散文的第一段原文 → 兩篇精選文章 →
+ *   這一廳的住戶（專區與工具的名字）→ 「走進這一廳」
+ *
+ * 兩篇精選用全站共用的 ArticleCard（row）：分類、標題、引用數，不放摘要——卡片上
+ * 已經有一整段散文，再加兩段摘要會把「走進這一廳」推到一個螢幕以外。完整的精選
+ * （每個分類兩篇，含摘要）在展廳頁。
+ *
+ * 第一段是從同一份散文來源取的（HallProse limit=1），不是另外抄一份。
+ * 一張卡只有一個主要行動：「走進這一廳」（hall_entry）。卡片裡其他可以點的東西
+ * 沿用原本的追蹤名：縮圖 hall_thumb、主題藥丸 hall_pill、精選文章 hall_pick。
+ *
+ * 每張卡的 class 都帶 `exhibition-hall`：i18n-smoke-test.yml 的 B3 檢查用這個字
+ * 認「每個語言的首頁都有四個展廳」，名字不要改。
+ */
+import ArticleCard from '../ArticleCard.astro';
+import HallThumb from './HallThumb.astro';
+import HallProse from './HallProse.astro';
+import {
+  useTranslations,
+  getLangFromUrl,
+  type TranslationKey,
+} from '../../i18n/utils';
+import { getCategoryConfigs } from '../../utils/categoryConfig';
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
+import {
+  getHallProse,
+  hasOwnHallProse,
+  hallProseLang,
+  HALL_IDS,
+} from '../../data/halls';
+import {
+  getHallPicks,
+  HALL_PROSE_CATEGORIES,
+  HALL_RESIDENTS,
+} from './hall-data';
+import { useHomeT } from './home-i18n';
+
+interface Props {
+  /** 卡片標題的層級：首頁在 h2 區塊底下用 h3，總覽頁在 h1 底下用 h2 */
+  headingTag?: 'h2' | 'h3';
+}
+
+const { headingTag = 'h3' } = Astro.props;
+const Heading = headingTag;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const arrow = iconSvg('arrow');
+
+const prose = getHallProse(lang);
+// 展廳名跟著散文的語言走：還沒有自己那份散文的語言，展廳名是英文
+const nameLang = hasOwnHallProse(lang) ? undefined : hallProseLang(lang);
+const nameDir = nameLang ? 'ltr' : undefined;
+const picks = getHallPicks(lang);
+const cats = getCategoryConfigs(t) as Record<
+  string,
+  { name: string; icon: string; color: string }
+>;
+
+const halls = HALL_IDS.map((id) => {
+  // 兩篇精選：這一廳散文講的分類，依序各取第一篇，取滿兩篇為止
+  const featured = HALL_PROSE_CATEGORIES[id]
+    .map((slug) => picks[slug]?.[0])
+    .filter(Boolean)
+    .slice(0, 2);
+  return {
+    id,
+    href: `${langPrefix}/halls/${id}/`,
+    numeral: prose[id - 1].numeral,
+    title: prose[id - 1].title,
+    featured,
+    residents: HALL_RESIDENTS[id].map((r) =>
+      th(`home.hall.res.${r.id}.name` as TranslationKey),
+    ),
+  };
+});
+---
+
+<ul class="hall-entries">
+  {
+    halls.map((hall) => (
+      <li class="exhibition-hall hall-entry">
+        <header class="hall-entry-head" lang={nameLang} dir={nameDir}>
+          <span class="hall-entry-numeral" aria-hidden="true">
+            {hall.numeral}
+          </span>
+          <Heading class="hall-entry-title">
+            <a
+              href={hall.href}
+              class="hall-entry-title-link"
+              data-ga-section="hall_entry"
+              data-ga-label={`hall_${hall.id}_title`}
+            >
+              <span class="sr-only">{hall.numeral} </span>
+              {hall.title}
+            </a>
+          </Heading>
+        </header>
+
+        <HallThumb hall={hall.id} size="card" />
+
+        <HallProse hall={hall.id} limit={1} picks={false} />
+
+        {hall.featured.length > 0 && (
+          <div class="hall-entry-picks">
+            {hall.featured.map((a) => (
+              <ArticleCard
+                density="row"
+                href={a.href}
+                title={a.title}
+                categoryLabel={cats[a.category]?.name}
+                categoryIcon={cats[a.category]?.icon}
+                categoryColor={cats[a.category]?.color}
+                footnotes={a.footnotes}
+                titleTag="h4"
+                openIn="same-tab"
+                stageBadge={false}
+                extraClass="hall-entry-pick"
+                dataAttrs={{
+                  'data-ga-section': 'hall_pick',
+                  'data-ga-label': a.category,
+                }}
+              />
+            ))}
+          </div>
+        )}
+
+        <footer class="hall-entry-foot">
+          {hall.residents.length > 0 && (
+            <p class="hall-entry-residents">
+              <span class="hall-entry-residents-label">
+                {th('home.lobby.residents')}
+              </span>
+              {hall.residents.map((name) => (
+                <>
+                  <span class="hall-entry-resident">{name}</span>{' '}
+                </>
+              ))}
+            </p>
+          )}
+          <a
+            href={hall.href}
+            class="home-btn home-btn--ghost hall-entry-cta"
+            data-ga-section="hall_entry"
+            data-ga-label={`hall_${hall.id}`}
+          >
+            {th('home.lobby.enter')}
+            <span
+              class="hall-entry-arrow"
+              aria-hidden="true"
+              set:html={arrow}
+            />
+          </a>
+        </footer>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .hall-entries {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(1rem, 2vw, 1.75rem);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .hall-entry {
+    display: flex;
+    flex-direction: column;
+    min-inline-size: 0;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: clamp(1.25rem, 2.2vw, 1.75rem);
+  }
+
+  .hall-entry-head {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-block-end: 1rem;
+  }
+
+  .hall-entry-numeral {
+    flex-shrink: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(1.5rem, 2.6vw, 2rem);
+    font-weight: 300;
+    line-height: 1;
+    color: color-mix(in srgb, var(--color-ink) 40%, transparent);
+  }
+
+  .hall-entry-title {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+    font-weight: 300;
+    line-height: 1.3;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    text-wrap: balance;
+  }
+
+  .hall-entry-title-link {
+    display: inline-flex;
+    align-items: center;
+    min-block-size: 44px;
+    border-bottom: 0;
+    padding-bottom: 0;
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .hall-entry-title-link:hover {
+    color: var(--home-accent);
+  }
+
+  /* 縮圖：卡片裡不要再套一層框，圖直接坐在卡片上，上下各一條細線 */
+  .hall-entry :global(.hall-thumb) {
+    margin: 0 0 1.1rem;
+    border-block-end: 1px solid var(--home-rule);
+    padding-block-end: 1.1rem;
+  }
+
+  /* 第一段原文：跟展廳頁同一種字，小一級 */
+  .hall-entry :global(.hall-body) {
+    line-height: 1.95;
+  }
+  .hall-entry :global(.hall-body p) {
+    margin-block-end: 1rem;
+    font-size: 1rem;
+    text-align: start;
+    text-wrap: pretty;
+  }
+
+  .hall-entry-picks {
+    display: flex;
+    flex-direction: column;
+    margin-block-end: 1rem;
+    border-block-start: 1px solid var(--home-rule);
+  }
+
+  .hall-entry-picks :global(.hall-entry-pick) {
+    border-radius: 0;
+    border-block-end: 1px solid var(--home-rule);
+    padding-inline: 0.25rem;
+  }
+
+  /* 卡片底：住戶的名字一整列，底下是唯一的主要行動。住戶多的那一廳（第四廳八個）
+     名字會折成兩三行，所以不跟按鈕擠在同一列。 */
+  .hall-entry-foot {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-block-start: auto;
+  }
+
+  .hall-entry-residents {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.86rem;
+    line-height: 1.75;
+    color: var(--color-ink-soft);
+    text-wrap: pretty;
+  }
+
+  .hall-entry-residents-label {
+    margin-inline-end: 0.75rem;
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+  }
+
+  .hall-entry-resident {
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--color-ink);
+  }
+
+  .hall-entry-resident:not(:last-child)::after {
+    content: '·';
+    margin-inline: 0.45rem;
+    font-weight: 400;
+    color: var(--color-ink-soft);
+  }
+
+  .hall-entry-cta {
+    flex-shrink: 0;
+  }
+
+  .hall-entry-arrow {
+    display: inline-flex;
+    font-size: 0.9em;
+    transition: transform 0.2s ease;
+  }
+
+  :global([dir='rtl']) .hall-entry-arrow {
+    transform: scaleX(-1);
+  }
+
+  .hall-entry-cta:hover .hall-entry-arrow {
+    transform: translateX(3px);
+  }
+
+  :global([dir='rtl']) .hall-entry-cta:hover .hall-entry-arrow {
+    transform: scaleX(-1) translateX(3px);
+  }
+
+  @media (max-width: 900px) {
+    .hall-entries {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
+  /* 手機上精選文章的標題折成兩行，不要一行就被刪節號截掉 */
+  @media (max-width: 640px) {
+    .hall-entry-picks :global(.hall-entry-pick .article-card-title) {
+      -webkit-line-clamp: 2;
+    }
+  }
+</style>

@@ -1,0 +1,22 @@
+---
+/**
+ * /halls/1/ … /halls/4/ — 展廳頁。內容都在 hall.template.astro，
+ * 13 個語言共用同一份樣板，語言從網址判斷。
+ */
+import HallTemplate from '../../../templates/hall.template.astro';
+import { HALL_IDS, type HallId } from '../../../data/halls';
+
+export function getStaticPaths() {
+  return HALL_IDS.map((id) => ({
+    params: { hall: String(id) },
+    props: { hall: id },
+  }));
+}
+
+interface Props {
+  hall: HallId;
+}
+const { hall } = Astro.props;
+---
+
+<HallTemplate hall={hall} />
