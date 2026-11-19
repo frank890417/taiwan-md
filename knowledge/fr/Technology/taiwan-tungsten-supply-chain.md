@@ -28,16 +28,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-31T04:48:15+08:00'
+translatedAt: '2026-11-19T04:06:01.697968+00:00'
 ---
 
 # Le tungstène : Taïwan ne possède pas de mines, mais affine la poudre que le monde entier réclame, une position plus fragile qu'il n'y paraît
@@ -199,11 +205,12 @@ Le filament de tungstène doit être chauffé à plus de 2 200 degrés Celsius p
 
 ## Lectures complémentaires
 
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La place du tungstène dans les puces appartient à une petite section de ce long fleuve de 50 ans de révolution des matériaux
-- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Vers qui le tungstate de sodium raffiné à Pingtung se dirige-t-il finalement ?
-- [Commerce extérieur de Taïwan et chaîne d'approvisionnement mondiale](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — La situation à long terme de Taïwan en tant que nœud et maillon faible sur la chaîne des autres
-- [Électricité de Taïwan et semi-conducteurs](/fr/technology/taiwan-electricity-and-semiconductors) — Une autre ressource insuffisante sur l'île, mais qui soutient la montagne divine protectrice
-- [Industrie des robots de Taïwan](/fr/technology/taiwan-robotics-industry) — La prochaine étape de l'agglomération de machines de précision sur la montagne Dahu
+- [Carte de la chaîne d'approvisionnement](/industry/supply-chain-map/) — Les trois chaînes des semi-conducteurs, serveurs IA et tungstène, maillon par maillon pour voir quelles entreprises sont à Taïwan et quels maillons dépendent de l'étranger
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La place du tungstène dans les puces, un petit segment de cette révolution des matériaux vieille de 50 ans
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Vers qui va finalement le tungstate de sodium raffiné à Pingtung
+- [Commerce extérieur de Taïwan et chaîne d'approvisionnement mondiale](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — La position durable de Taïwan comme nœud et maillon manquant dans la chaîne d'autrui
+- [Électricité et semi-conducteurs à Taïwan](/fr/technology/taiwan-electricity-and-semiconductors) — Une autre ressource insuffisante sur l'île, qui soutient pourtant la « montagne sacrée protectrice du pays »
+- [Industrie de la robotique à Taïwan](/fr/technology/taiwan-robotics-industry) — La prochaine étape du cluster de machines de précision de Dadu Mountain
 
 ## Sources des images
 
