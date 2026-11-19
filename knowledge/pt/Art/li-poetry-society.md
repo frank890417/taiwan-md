@@ -27,11 +27,13 @@ imageAlt: 'O poeta Wu Sheng na Feira Internacional do Livro de Taipei em 2016, n
 imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:28d7ec6ba7695699'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-09-26T16:00:51.430817+00:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T07:36:09.576873+00:00'
 ---
 
 # Clube Poético Li: Um grupo forçado a esquecer o japonês, sustentando a revista de poesia chinesa mais longeva de Taiwan
@@ -114,23 +116,23 @@ Este contraste não foi apenas uma escolha estética, mas também uma diferença
 
 A posição da Sociedade Li — sul, nativo, simples, realista: foi marginalizada e reprimida das décadas de 60 às 80. Mas eles não pararam. De 1964 a 2024, o periódico 《Li》 publicou mais de 361 edições, sem nunca ter parado [^26].
 
-## O Dia em que o Lobo Chegou, Eles Não se Esconderam
+## O Dia em que o Lobo Veio, Eles Não se Esconderam
 
 1977 foi um ponto de virada.
 
-Em abril daquele ano, a revista _Cacto_, editada por Wang Jianzhuang, publicou três artigos — os de Wang Tuo, Yin Zhengxiong e Zhu Xining —, desencadeando o "debate da literatura regional" [^27]. Em 17 de agosto, Peng Ge publicou em _United Daily News_ o artigo 〈Por que falar de humanidade?〉, criticando diretamente Wang Tuo, Wei Tiancong e Chen Yingzhen [^28].
+Em abril daquele ano, a _Revista Cacto_ (《仙人掌雜誌》), editada por Wang Chien-liang, publicou três artigos de Wang T'o, Yin Cheng-hsiung e Chu Hsi-ning, detonando a [controvérsia da literatura nativista](/pt/history/nativist-literature-debate/)[^27]. Em 17 de agosto, P'eng Ko publicou no _United Daily News_ (《聯合報》) o artigo "Sem Falar de Humanidade, Que Literatura Há?" (〈不談人性，何有文學？〉), criticando nominalmente Wang T'o, Wei T'ien-ts'ung e Ch'en Ying-chen[^28].
 
-Três dias depois, em 20 de agosto de 1977, Yu Guangzhong publicou em _United Daily News_ o artigo 〈O Lobo Chegou〉, que seria debatido repetidamente: acusando a literatura regional de Taiwan de "parecer ter alguma afinidade com a literatura operária e militar da China continental" [^29].
+Três dias depois, em 20 de agosto de 1977, Yu Kuang-chung publicou no _United Daily News_ aquele artigo que mais tarde seria repetidamente discutido, "O Lobo Veio" (〈狼來了〉): acusando a literatura nativista de Taiwan de "parecer ter uma convergência oculta com a literatura de operários, camponeses e soldados que a China continental enfatiza na luta de classes"[^29].
 
-Durante o período de estado de emergência, a "literatura operária e militar" era um rótulo capaz de causar a morte. O _Liberty Times_ recorda a atmosfera da época: "Em pouco tempo, o grande chapéu, apelidado de 'gota de sangue', causou pânico no meio literário, espalhando uma aura sangrenta e repressiva" [^30].
+Durante o período da lei marcial, "literatura de operários, camponeses e soldados" era um rótulo que podia levar alguém à morte. O _Liberty Times_ recorda a atmosfera da época: "Por um momento, o grande chapéu comparado a 'gota de sangue' fez o meio literário tremer de medo, impregnado de um aroma sangrento e solene"[^30].
 
-Nove dias depois, em 29 de agosto de 1977, o Partido Nacionalista convocou a "Segunda Conferência Literária". Representantes do governo/partido/exército, como Ding Maoshi, Li Yuancu, Wang Sheng e Li Huan, juntamente com Yu Guangzhong e Yin Xueman, reuniram mais de 270 pessoas [^31]. O debate terminou sob a reclassificação estratégica oficial: a "literatura regional" foi ampliada e redefinida como "literatura patriótica" ou "literatura nacional" [^32].
+Nove dias depois, em 29 de agosto de 1977, o KMT convocou a "Segunda Reunião sobre Literatura e Arte", com representantes do governo/partido/exército como Ting Mao-shih, Li Yuan-tsu, Wang Sheng, Li Huan, além de Yu Kuang-chung, Yin Hsueh-man e outros, reunindo mais de 270 pessoas[^31]. No final, a controvérsia terminou com um enquadramento estratégico oficial: a "literatura nativista" foi ampliada e redefinida como "literatura patriótica", "literatura nacional"[^32].
 
-O principal campo de batalha do debate foram os romances (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Mas o mundo da poesia também estava em movimento: a facção do Clube Poético Li (Chen Qianwu, Bai Hugi, Zhao Tianyi e Li Minyong) se posicionou totalmente ao lado dos regionalistas [^33]. A reivindicação de "retorno à realidade" de novos clubes poéticos como Longzu, mainstream e post-wave também foi racionalizada [^34].
+O principal campo de batalha da controvérsia foi o romance (Ch'en Ying-chen, Wang T'o, Huang Ch'un-ming, Wang Chen-ho, Yeh Shih-t'ao, Yang Ch'ing-ch'u). Mas o mundo da poesia também se movia em sincronia: a facção da Sociedade de Poesia Li (Ch'en Ch'ien-wu, Pai Hu-chi, Chao T'ien-i, Li Min-yung) posicionou-se inteiramente ao lado nativista[^33]. As demandas de "retorno à realidade" das novas sociedades de poesia da mesma época, como Longzu, Zhuliu e Houlang, também foram legitimadas[^34].
 
-A posição do Clube Poético Li deixou de ser apenas uma "oposição Norte-Sul", tornando-se uma existência concreta que "estava ao lado da identidade local".
+A posição da Sociedade de Poesia Li não era mais apenas uma "oposição Norte-Sul", mas uma existência concreta de "estar do lado do local".
 
-> ⚠️ **Ponto Controverso**: Este debate deixou uma cicatriz longa. Quando Yu Guangzhong faleceu em 2017, esta história foi reexaminada; a visão do meio literário de Taiwan sobre 〈O Lobo Chegou〉 ainda é controversa [^35]. Alguns críticos também apontam que a oposição do debate não era tão simples como "facção chinesa vs. facção taiwanesa", mas envolvia três eixos: "nacionalismo chinês de direita vs. nacionalismo chinês de esquerda vs. teoria local de Taiwan" [^36]. A posição do Clube Poético Li estava clara nesse triângulo: eles estavam ao lado da teoria local de Taiwan.
+> ⚠️ **Ponto de vista controverso**: Esta controvérsia deixou uma ferida de memória de longo prazo. Quando Yu Kuang-chung faleceu em 2017, esta história foi reexaminada; o meio literário de Taiwan continua dividido sobre "O Lobo Veio" até hoje[^35]. Alguns comentaristas apontam que a oposição da controvérsia não é tão simples quanto "facção China vs facção Taiwan", mas mistura três eixos: "nacionalismo chinês de direita vs nacionalismo chinês de esquerda vs teoria nativista de Taiwan"[^36]. A posição da Sociedade de Poesia Li nesta estrutura triangular é clara: eles estão do lado da teoria nativista de Taiwan.
 
 ## A Criança Abre a Marmita, Sem Nem um Grão de Ovo
 

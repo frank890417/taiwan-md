@@ -32,11 +32,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d72'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T13:17:16.406150+00:00'
+translatedAt: '2026-11-19T06:19:35.281339+00:00'
 ---
 
 Em 2016, no videoclipe de 〈Wangu〉 (Teimoso) do Mayday, um homem de meia-idade constrói foguetes em uma área desolada. Ele é tratado como um louco que sonha acordado e, no final, voa para o céu carregando um foguete feito por ele mesmo. A maioria dos taiuanês descobriu Wu Zongxin pela primeira vez não através de nenhuma instituição nacional, mas sim por este videoclipe: aquele senhor do foguete [^1].
@@ -270,12 +272,13 @@ O homem que foi ridicularizado em terras áridas, aquele que queria deixar a Ter
 
 Zeppelin viu Taiwan do helicóptero; ele não terminou quando caiu. Oito anos depois, um satélite com seu nome completou a visão desta ilha a 561 quilômetros de altitude — e também revelou o verdadeiro rosto desta agência que dizia por trinta anos que observava o tempo: um lugar onde, para um país não reconhecido, foi provado o "autodomínio" satélite por satélite. O próximo destino é a Lua.
 
-## Leitura Adicional
+## Leitura adicional
 
-- [Desenvolvimento da Indústria Espacial de Taiwan](/pt/technology/taiwan-space-industry-development) — Este artigo fala sobre como a própria instituição cresceu; o outro trata da cadeia de suprimentos por trás dela: quais empresas fabricam peças de satélite, como os semicondutores entram no espaço e como o ecossistema de startups se forma.
-- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — A base industrial para a "autonomia" espacial de Taiwan é grande em parte devido à capacidade existente de fabricação de semicondutores e manufatura de precisão da ilha.
-- [Taipé Chinesa](/pt/society/chinese-taipei) — A linha soberana de "colocar Taiwan no nome", vista do outro lado do estádio esportivo.
-- [Li Jinyi](/pt/people/lin-chi-er-astronaut) — Um perfil de outra pessoa que trabalha por Taiwan em campo científico.
+- [Desenvolvimento da indústria espacial de Taiwan](/pt/technology/taiwan-space-industry-development) — Este artigo aborda como a própria instituição cresceu; aquele artigo aborda a cadeia de suprimentos por trás dela: quais fabricantes produzem peças de satélites, como os semicondutores entram no espaço, como se forma o ecossistema de startups.
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Grande parte da base industrial da "autonomia" espacial de Taiwan está construída sobre a capacidade existente da ilha em semicondutores e manufatura de precisão.
+- [Taipé Chinesa](/pt/society/chinese-taipei) — O outro lado da linha de soberania de "colocar Taiwan de volta no nome", no cenário esportivo.
+- [Lin Chi-erh](/pt/people/lin-chi-er-astronaut) — Perfil de uma figura que também trabalha pela Taiwan no front científico.
+- [Chi Po-lin](/pt/people/chi-po-lin) — O primeiro satélite da série Fuwei-8 leva o seu nome: ex-funcionário público de fotogrametria aérea do Centro Espacial Nacional, diretor de "Vendo Taiwan", faleceu em 2017 durante reconhecimento de locações para a continuação.
 
 ## Fontes de Vídeo
 
