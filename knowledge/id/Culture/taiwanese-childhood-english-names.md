@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T22:56:51.812418+00:00'
+translatedAt: '2026-11-19T05:12:49.751804+00:00'
 ---
 
 # Nama Bahasa Inggris Anak-anak Taiwan di Masa Kecil: Mary, Kevin, dan Hak Penamaan Guru Bimbingan Belajar
@@ -279,10 +281,11 @@ Tindakan penamaan yang ditugaskan tidak pernah dihapuskan—hanya orang yang mem
 
 ## Bacaan Lanjutan
 
-- [Kata Asing dan Kontak Bahasa di Taiwan](/id/culture/loanwords-and-language-contact-in-taiwan) — Melihat bagaimana lapisan multibahasa di Taiwan ditumpuk melalui pinjaman dari bahasa Jepang, bahasa Inggris, dan dialek Taiwan
-- [Gerakan Revitalisasi Bahasa Pribumi Taiwan](/id/culture/indigenous-language-revitalization-movement) — Garis lain dalam pemulihan hak penamaan, dari revitalisasi bahasa suku hingga amandemen undang-undang nama tahun 2024
-- [Chiang Weiwen](/id/people/chiung-wi-vun) — Perbandingan perluasan logika "de-Sino" dalam gerakan sastra dialek Taiwan, sisi lain dari kedaulatan teks dan penamaan
-- [Sensitivitas Taiwan](/id/culture/taiwanese-sensibility) — Sudut pandang kuratorial mentalitas budaya, lapisan lain untuk memahami "mengapa orang Taiwan selalu merasa butuh nama asing"
+- [Nama Orang Taiwan (Khusus)](/names/) — Marga, generasi, pinyin, dan nama bahasa suku digambarkan dalam diagram, dilengkapi alat pinyin nama.
+- [Kata Serapan dan Kontak Bahasa Taiwan](/id/culture/loanwords-and-language-contact-in-taiwan) — Melihat lapisan multibahasa Taiwan tumpang-tindih melalui pinjaman di antara bahasa Jepang, Inggris, dan Taiwan.
+- [Gerakan Revitalisasi Bahasa Suku Asli Taiwan](/id/culture/indigenous-language-revitalization-movement) — Jalur lain pengembalian hak penamaan, dari revitalisasi bahasa suku hingga revisi Undang-Undang Nama 2024.
+- [Chiang Wei-wen](/id/people/chiung-wi-vun) — Perbandingan lanjutan logika «lepaskan Han» gerakan bahasa Taiwan, sisi lain kedaulatan penamaan dan tulisan.
+- [Sensibilitas Taiwan](/id/culture/taiwanese-sensibility) — Perspektif kuratorial budaya mentalitas, memahami lapisan lain «mengapa orang Taiwan selalu merasa butuh nama asing».
 
 ## Sumber Gambar
 
