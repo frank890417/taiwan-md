@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '砍掉華視開獎特別節目的人名與精確日期（安鵬／連漪／1973 開播），因為唯一來源是無引註維基、兩份官方一手史料反證沉默，只保留「集體記憶 vs 官方沉默」的落差本身；砍掉宣傳歌旋律取自迪士尼《小小世界》的說法（該曲 1962 年才存在、與 1951 年時序矛盾），只用可驗證的歌詞；砍掉「2029 年全面取消免用發票」（已被事實查核判為誇大）、「新加坡香港也有消費稅抽獎」（前提錯誤，香港根本沒消費稅）、感熱紙化學細節、任顯群學經歷（會稀釋第三段核心張力）、委辦費爭議的政黨攻防細節（只留「法定該給的錢每年可能被裁量刪減」）；Step 2.5-R 結構主編審回後再砍掉寫手自行加入的 2026 詐騙簡訊冒名案例（原第五段末段、原註 25）——藍圖 v2 明訂該段只承載集點樹演算法爭議＋創世弊案兩則材料（委辦費已於同一輪審稿移出），這則材料未經投影審查即由寫手加入，重新湊成三則陰影材料扎堆核心轉折段，正是 v2 才修掉的 SSODT 疊加風險；且案件本質是外部歹徒冒名詐騙，與該段「官方公平性」命題的貼合度也弱於前兩則，故整段連同該註一併移除，收尾「我相信」句式相應由三分句收回兩分句。'
   where_it_hedges: '任顯群出獄寫「1958 年 1 月保釋」（官方檔案），不寫維基自承缺來源的「1959 年張群求情」；入獄真因改寫三種流傳說法（蔣經國心結／派系鬥爭／救國團經費，見想想論壇）並列，不押單一敘事；檢舉成功率兩版並陳（自媒體轉述台北市不到一成 vs TVBS 全類型約兩成）；千萬富翁用最新的 957 位不用過時的 870；Joana Naritomi 只寫「同一類行為經濟學機制」不暗示她研究了台灣；防偽暗記寫「透過媒體證實」不寫官網證實；集點樹調查分行政（「尚符合本活動抽獎條件」）與司法（媒體簡化「查無不法」，中央社正文原文是「尚無涉及不法情事」）兩階段用語；國際比較不寫「世界第一」只寫查證範圍內最早；1950 年頒布兩辦法的具體日期只寫「年底」不主張「12 月 12 日」（查無一手支撐）；坦尚尼亞案例改引 CMI 田野研究（原引註誤植成一份無關的大學生實驗室研究）；千萬得主案例只保留可查證的「花 2 元中千萬」，砍掉查無實據的「正本遺失」個案。Stage 2.5 source-fidelity 由主 session 親自 live-fetch 6 條高風險 footnote + 獨立 fact-check agent 查核其餘 19 條，共修正 7 處來源問題（1 處嚴重引註誤植、1 處虛構個案、2 處引註掛錯集數/年份範圍、2 處引語誤植出處、1 處未驗證日期）。Stage 3.6.1 五路 adversarial verifier 逐原子重驗全文，另修正約 20 處：**最嚴重一處**是把陳國樑 2025-01 對財政部的批評誤植為「法律明明白紙黑字寫『應』訂定給獎辦法」——三方交叉查證（現行法條、Wayback Machine 舊版法條、他本人原文）確認他批評當時法條寫的是「得」非「應」，「應」是他發文三個月後（2025-05）才修法出現的字，他實際論證依據是政府自己的預算分類文件；其餘修正含 2 處虛構精確數字（「303 張已屆期充公」查無來源、創世捐贈「1.14 億張」原文僅為「1 億 1 千多萬張」的模糊值）、1 處虛構場景細節（任顯群「聽任方旭談過往事」）、1 處遺漏來源實際敘事主線（入獄真因想想論壇原文以顧正秋三角戀為主、非與其餘兩說並列互斥）、2 處國際比較與來源脫節（喬治亞「成效不彰」是官方說法、ISET 智庫自己的分析認為真因是預算不足；韓國廢止後留下的是檢舉獎金非報稅扣抵）、1 處圖表量錯尺（坦尚尼亞僅一次三個月區域試點、無法支撐與韓國喬治亞同軸比較的「4 年」數字，已移出 tw-bars 圖表）、2 處具體事實缺引註（九萬多人參加集點樹活動＋iPhone/iPad 品項、宣傳歌歌詞）、1 處時序壓縮（創世弊案 2020 年即被國稅局發現異常、2025 年才是案件曝光年）、其餘為日期精確度（稅捐稽徵法修正日期、愛國獎券 37 年起訖日）與過度精確措辭（「整整一年」）修正。'
 relatedDiary: ['2026-07-18-105326-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/發票.md'
-sourceCommitSha: 'e80217d19'
-sourceContentHash: 'sha256:ac044c6ba9c6ce5c'
-sourceBodyHash: 'sha256:54db8d12b45ad9b3'
-translatedAt: '2026-09-21T00:58:23+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:3dd86d4390d8efbd'
+sourceBodyHash: 'sha256:971a1a8aa9b5930a'
+translatedAt: '2026-11-19T06:32:52.728537+00:00'
 ---
 
 # Invoices: The Paper from 1951 That Turned All Citizens into Tax Inspectors
@@ -155,35 +157,36 @@ _A tutorial for the official redemption APP of the Tax Agency of the Ministry of
 
 Putting these together reveals something that happened for the first time in seventy-five years. In the past, this system functioned because of an unspoken consensus: I believe this string of numbers is drawn randomly; I believe the invoices I throw into the box will be handled honestly. But when "who will win" becomes a program with adjustable weights, and when "goodwill" must rely on anti-corruption mechanisms to exist, this system that lived for seventy-five years based on "I believe" was asked for the first time to answer specifically: why should I still believe?
 
-## Taiwan Sustained This Design as the Longest Marathon in the World
+## Taiwan has sustained this design as the world's longest marathon
 
-To even be worthy of such questioning, it had to last long enough. Taiwan is not the only place that came up with this trick, but based on verification, no second case has been seen running for seventy-plus years as a daily routine. Behavioral economist Joana Naritomi studied a similar mechanism in São Paulo, Brazil, finding that sales reported by vendors increased by at least twenty percent within four years: turning consumers into tax supervisors is indeed effective[^20]. But "effective" and "lasting long" are two different things.
+To be worthy of being questioned in this way, one must first have endured long enough. Taiwan is not the only place that thought of this tactic, but according to all available research, no other place has turned it into a daily routine for over seventy years. Behavioral economist Joana Naritomi studied a similarly structured mechanism in São Paulo, Brazil, and found that vendors' reported sales increased by at least 21% within four years: turning consumers into tax supervisors is indeed effective[^20]. However, being "effective" and "lasting long" are two different things.
 
-Georgia brought a similar idea home in 2012; the official reason for termination was "ineffectiveness," but the think tank that proposed this study itself stated that this phrase had never been publicly analyzed to support it—the real reason appeared to be money: the daily reported volume of qualified receipts dropped from over two million at its peak to only three hundred thousand before closing, and the new government did not allocate budget funds to maintain an attractive winning rate, causing it to shut down in less than a year[^21]; Korea abandoned the lottery from 2005 to 2011, retaining only the prize mechanism for reporting non-issuing merchants[^22]; while Tanzania, far in Africa, only started piloting in 2022 and was preparing a national version in 2026[^23]. Other places often couldn't last long; Taiwan lasted seventy-five years without a single break.
+Georgia brought a similar idea home in 2012; the official reason for its termination was "lack of effectiveness," but the think tank that proposed the study itself stated that this claim has never been publicly analyzed or substantiated—the real reason appears to be money. The daily volume of valid receipts dropped from a peak of over two million to just 300,000 before the program was shuttered; the new government did not invest the budget necessary to maintain attractive winning probabilities, and the program folded in less than a year[^21]. South Korea implemented it from 2005 to 2011, eventually abandoning the lottery and leaving only a reward mechanism for reporting merchants who fail to issue receipts[^22]. Meanwhile, in Tanzania, Africa, a pilot program only began in 2022, with plans to launch a nationwide version by 2026[^23]. While other places often fail to sustain it for long, Taiwan has lasted seventy-five years without a single interruption.
 
 ```tw-bars
-Taiwan: Seventy-five years without a break; no second case has lasted this long.
-*Taiwan | 75 | From 1951 to present, never broken
-Korea | 6 | 2005–2011, closed and retained reporting prizes
-Georgia | 1 | Implemented in 2012, shut down in less than a year
-Source: Ministry of Finance, ISET Policy Institute, Korean Tax Office
+Taiwan has sustained it for 75 years without interruption; no other case has lasted this long.
+*Taiwan | 75 | Since 1951, uninterrupted
+South Korea | 6 | 2005–2011, ended lottery to keep reporting rewards
+Georgia | 1 | Launched in 2012, folded in less than a year
+Source: Ministry of Finance, ISET, National Tax Service of Korea
 ```
 
-Tanzania is not included in this chart—we only have records of one three-month regional pilot in 2022; whether it operated, paused, or restarted in the intervening years has no public data, so it cannot be compared with the complete life cycle numbers like Korea and Georgia.
+Tanzania is not included in this chart—currently, only one three-month regional pilot record from 2022 can be found. Whether it has been operating continuously, paused, or restarted in the intervening years remains undocumented; its data does not share the same "launch to shutdown" lifecycle scale as South Korea or Georgia and is therefore unsuitable for the same bar chart.
 
-What accumulated over seventy-five years is a long string of numbers. As of June 2026, two thousand six hundred forty ten million special prizes have been drawn, but three hundred seven were never claimed, lost forever after the redemption period expired[^11]. Most of these unclaimed millions are simply because people forgot to look down for the draw—but some people were unbelievably lucky: in the latest batch of winners in 2026, one was a millionaire who won with just two dollars spent on a shopping bag at McDonald's in Tucheng, New Taipei City[^24].
+Seventy-five years of accumulation has resulted in a long string of numbers. As of June 2026, this sequence has produced a total of 1,264 NT$10 million special prizes, yet 307 of them were never claimed; once the specified redemption period passes, they can never be claimed again[^11]. Most of these unclaimed NT$10 million prizes exist simply because people forgot to check their numbers—but some have been incredibly lucky: among the latest batch of winners in 2026, the luckiest individual won a NT$10 million grand prize after spending just NT$2 on a plastic bag at a McDonald's in Tucheng, New Taipei City[^24].
 
-So next time you check out at a convenience store and the clerk asks you "Do you want to load it [onto a mobile device]?" and you reach out to take that thin slip still warm, or let it float into the cloud—what you are completing is never just a transaction. You are continuing a reflex action that has lived for seventy-five years, longer than any person who promoted it, and even longer than the regime that gave birth to it. But this time, this action quietly adds a question that didn't need an answer before: will that string of numbers win you something, or was it all calculated by someone long ago?
+So next time, when you are checking out at a convenience store and the clerk asks, "Do you need a receipt?", whether you reach out to take that warm slip of paper or let it fly directly into the cloud—you are doing much more than completing a transaction. You are sustaining a reflex that has lived for seventy-five years, lasting longer than any person who promoted it, and even longer than the political system that gave birth to it. Only this time, this action quietly carries an extra question that didn't exist before: whether that string of numbers hits you is pure luck, or if someone has already calculated it for you?
 
 ---
 
 **Further Reading**:
 
-- [Economic Miracle](/en/economy/economic-miracle) — The 1950s when Unified Invoices were born is the same period of mobilization as Taiwan moved from a fiscal cliff to economic takeoff.
-- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The scene where the most people redeem invoice prizes and say "919" for donations happens at the checkout counter of major convenience stores today.
-- [Taiwan White Terror](/en/history/taiwan-white-terror) — In the era when the invoice designer Ren Hsien-ch'un was imprisoned under the charge of "failing to report spies," an accusation could be fatal.
-- [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — The exoneration process undertaken by Ren Hsien-ch'un, spanning two administrations and many years, is a specific journey for Taiwan in facing its authoritarian history.
-- [Taiwan Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — Using an official document as a ruler: how one oil price press release divides one liter into three parts—asking CPC to bear the cost, dividing it by volume at retail prices, while no one ever tracks who uses the most.
+- [Salaries, Taxes, and Retirement](/income/) — Invoices manage business tax; how individual income tax on salaries is calculated and who pays it is covered in this feature.
+- [Economic Miracle](/en/economy/economic-miracle) — The 1950s, when the Unified Invoice was born, was the same era of mobilization in which Taiwan moved from a fiscal cliff toward an economic takeoff.
+- [Taiwan's Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The scenes where most people redeem invoice prizes or verbally say "919" to donate invoices take place right at the checkout counters of the four major convenience store chains.
+- [Taiwan's White Terror](/en/history/taiwan-white-terror) — In the era when invoice designer Ren Hsien-ch'un was imprisoned for "knowing of a crime and not reporting it," a single label could be fatal.
+- [Taiwan's Transitional Justice](/en/history/taiwan-transitional-justice) — The rehabilitation of Ren Hsien-ch'un, which spanned two administrations and took many years to complete, is a concrete part of Taiwan's journey in facing its authoritarian history.
+- [Taiwan's Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — Using a policy document as a yardstick: how an oil price press release divides one liter into three parts—asking CPC to bear the cost first and then dividing the discount per liter—while no one ever tracks who uses the most.
 
 ## Image Sources
 

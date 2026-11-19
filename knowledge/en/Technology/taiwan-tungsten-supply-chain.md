@@ -28,16 +28,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-31T04:48:14+08:00'
+translatedAt: '2026-11-19T07:31:00.346260+00:00'
 ---
 
 # Tungsten: Taiwan Has No Tungsten Mines, Yet Refines the Powder the World Demands—Its Position Is More Fragile Than You Think
@@ -199,11 +205,12 @@ Tungsten filaments must burn above 2,200°C to emit light. That temperature is f
 
 ## Further Reading
 
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Tungsten’s position in chips belongs to a small segment of this 50-year long river of materials revolution
-- [Taiwan Enterprise: TSMC](/en/economy/tsmc) — Where the tungsten sodium refined in Pingtung finally flows
-- [Taiwan Foreign Trade and Global Supply Chain](/en/economy/taiwan-foreign-trade-and-global-supply-chain) — Taiwan’s long-term position as both a node and a gap on others’ chains
-- [Taiwan’s Electricity and Semiconductors](/en/technology/taiwan-electricity-and-semiconductors) — Another resource that is insufficient on the island yet supports the God of War Mountain
-- [Taiwan’s Robotics Industry](/en/technology/taiwan-robotics-industry) — The next stop for the Dadaoshan precision machinery cluster
+- [Supply Chain Map](/industry/supply-chain-map/) — Semiconductors, AI servers, tungsten: three chains, link by link, see which companies are in Taiwan and which links rely on overseas
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Tungsten's place in chips, a small segment of this 50-year materials revolution
+- [Taiwan Enterprise: TSMC](/en/economy/tsmc) — Where does the sodium tungstate refined in Pingtung ultimately go?
+- [Taiwan's Foreign Trade and Global Supply Chains](/en/economy/taiwan-foreign-trade-and-global-supply-chain) — Taiwan's long-term position as both node and gap on someone else's chain
+- [Taiwan's Electricity and Semiconductors](/en/technology/taiwan-electricity-and-semiconductors) — Another resource that's insufficient on the island yet props up the sacred mountain of national defense
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — The next stop for the Dadu Mountain precision machinery cluster
 
 ## Image Sources
 

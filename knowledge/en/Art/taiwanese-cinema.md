@@ -28,11 +28,13 @@ imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T20:41:43.548928+00:00'
+translatedAt: '2026-11-19T06:12:44.577243+00:00'
 ---
 
 # Taiwan's Domestic Cinema: The Voice Beside the Screen and a History of a Film That Died and Came Back to Life
@@ -290,12 +292,13 @@ This article uses 4 images, all cached in `public/article-images/art/` to avoid 
 ## Further Reading
 
 - [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien): The master of long takes who won the Venice Golden Lion and brought the February 28 Incident to the silver screen
-- [Edward Yang](/en/people/yang-dechang): An observer of urban life whose two works entered the _Sight & Sound_ greatest films of all time list
-- [Tsai Ming-liang](/en/people/tsai-ming-liang): A Venice Golden Lion winner who brought slow cinema into the Louvre
-- [Ang Lee](/en/people/ang-lee): From Taiwan to Hollywood, a two-time Academy Award winner for Best Director
-- [Wei Te-sheng](/en/people/wei-te-sheng-taiwanese-epic-filmmaker): The man who filmed 《Cape No. 7》 in five languages and revitalized local Taiwanese cinema
-- [Invisible Nation](/en/art/invisible-nation): Another way of seeing Taiwan through Ge Jing-wen's documentary
-- [Taiwanese Sentimentality: Do we need Koreans to "like" something first before we dare say our old houses are beautiful?](/en/culture/taiwanese-sensibility): The 1989 Venice Golden Lion for 《A City of Sadness》 and its Taipei box office success happened in the same year; international recognition and local resonance are not necessarily a zero-sum game
+- [Edward Yang](/en/people/yang-dechang): The urban observer whose two works entered the _Sight & Sound_ greatest films of all time list
+- [Tsai Ming-liang](/en/people/tsai-ming-liang): Venice Golden Lion winner who brought slow cinema into the Louvre
+- [Ang Lee](/en/people/ang-lee): From Taiwan to Hollywood, a two-time Oscar winner for Best Director
+- [Wei Te-sheng](/en/people/wei-te-sheng-taiwanese-epic-filmmaker): The man who filmed _Cape No. 7_ in five languages and revitalized local Taiwanese cinema
+- [Golden Horse Awards](/en/art/golden-horse-awards): From accepting only Mandarin films to becoming a Chinese-language film award that ignores nationality; as a result, Taiwanese films often lose on home turf, though the doors have never been closed again
+- [Invisible Nation](/en/art/invisible-nation): Another way of seeing Taiwan through Ge Jingwen's documentary
+- [Taiwanese Sentimentality: Do we need Koreans to "like" something first before we dare say our old houses are beautiful?](/en/culture/taiwanese-sensibility): The 1989 Venice Golden Lion win for _A City of Sadness_ occurred in the same year as its Taipei box office release; international recognition and local resonance are not necessarily a zero-sum game
 
 [^1]: [Film Commentators - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — In 1930, Taiwan had approximately 60 commentators, including 41 Japanese and 19 Taiwanese; practitioners were required to pass an examination by the Prefectural Police Department to obtain a license.
 
