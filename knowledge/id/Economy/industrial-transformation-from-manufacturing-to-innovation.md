@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-26T08:13:11+08:00'
+translatedAt: '2026-11-19T08:06:37.592426+00:00'
 ---
 
 # Transformasi Industri Taiwan: Dari Negara Manufaktur Menjadi Kekuatan Inovasi
@@ -218,13 +218,14 @@ MediaTek dipisahkan dari UMC pada 1997, awalnya memasuki pasar dengan chip penyi
 
 ## Bacaan Lanjutan
 
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA 1976 hingga pangsa pasar global 60% pada 2024, bagaimana industri inti yang bermula dari Taman Sains Hsinchu menjadi "Gunung Dewa Pelindung"
-- [Morris Chang](/id/people/tsmc-morris-chang) — Tokoh kunci yang mendirikan TSMC pada 1987, pendorong inti dari nol industri semikonduktor Taiwan
-- [Stan Shih](/id/people/stan-shih) — Penulis Kurva Smile: menggambar garis untuk memaksa Taiwan keluar dari tengah kontrak, namun kekayaan pribadi dipertaruhkan pada TSMC yang melakukan "manufaktur tengah"
-- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Jejak jangka panjang dari devisa kawasan ekspor pemrosesan hingga kekuatan ekspor semikonduktor 2024
-- [Ekosistem Rintisan](/id/economy/taiwan-startup-ecosystem-overview) — Jalur lain dari transformasi manufaktur menjadi kekuatan inovasi: perkembangan rintisan dan semikonduktor fabless pasca-1990-an
-- [Perkembangan dan Strategi Masa Depan AI Taiwan](/id/technology/artificial-intelligence-development-strategy) — Gelombang berikutnya transformasi industri pasca-2024: perluasan hegemoni perangkat keras ke strategi aplikasi AI
-- [Program Kepemimpinan Startup Taipei SLP](/id/economy/slp-taipei-startup-leadership-program) — Program pelatihan startup dengan biaya sekali bayar naik dari 6.000 dolar menjadi 58.000 dolar; kurva biaya itu sendiri adalah skala fisik dari ekosistem startup Taiwan dari awal menuju sistem
+- [Topik Industri Taiwan](/industry/) — Menggambarkan struktur industri melalui statistik resmi: ekspor dan PDB selama tujuh puluh tahun, taman sains, pabrik di berbagai kota dan kabupaten, sepuluh besar nilai pasar dari tahun ke tahun, ditambah dengan berbagai sudut pandang mengenai enam perdebatan publik.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA pada 1976 hingga menguasai 60% pangsa pasar global pada 2024; bagaimana industri inti yang bermula dari Taman Sains Hsinchu dapat menjadi "Benteng Pelindung Negara".
+- [Morris Chang](/id/people/tsmc-morris-chang) — Tokoh kunci pendiri TSMC pada 1987, penggerak utama industri semikonduktor Taiwan yang memulai segalanya dari nol.
+- [Shi Chin-rong](/id/people/stan-shih) — Penulis asli konsep Kurva Smile: ia menggambar garis agar Taiwan keluar dari sektor manufaktur kelas menengah, namun kekayaannya justru dipertaruhkan pada TSMC yang melakukan "manufaktur kelas menengah".
+- [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/id/economy/taiwan-foreign-trade-and-global-supply-chain) — Lintasan jangka panjang mulai dari devisa Kawasan Ekspor Pemrosesan hingga menjadi pilar utama ekspor semikonduktor pada 2024.
+- [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview) — Jalur lain dalam transformasi dari industri manufaktur menuju negara inovasi: perkembangan startup dan semikonduktor fabless setelah tahun 1990-an.
+- [Perkembangan Kecerdasan Buatan Taiwan dan Strategi Masa Depan](/id/technology/artificial-intelligence-development-strategy) — Gelombang berikutnya dalam transformasi industri pasca-2024: perluasan strategi dari dominasi perangkat keras menuju aplikasi AI.
+- [SLP Taipei Entrepreneurship Leadership Program](/id/economy/slp-taipei-startup-leadership-program) — Program pelatihan kewirausahaan dengan biaya sekali bayar yang melonjak dari NT$6.000 menjadi NT$58.000; kurva biaya ini merupakan skala fisik dari evolusi ekosistem startup Taiwan dari tahap perintisan menuju tahap mapan.
 
 ---
 

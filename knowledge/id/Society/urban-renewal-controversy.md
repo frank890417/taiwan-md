@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:03+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T09:34:45.754868+00:00'
 ---
 
 # Kontroversi Pembaruan Kota: Setelah Wenlin Yuan, Bagaimana Taiwan Menangani "Pemilik yang Tidak Setuju"
@@ -81,18 +81,19 @@ Pada 28 Mei, Wang Guangshu setelah mengajukan sepuluh kali litigasi semuanya kal
 
 Yang perlu diperhatikan adalah bahwa "korban" dalam kasus ini bukan hanya keluarga Wang. Pemilik yang setuju tidak dapat pulang selama perjuangan, ada laporan yang menunjukkan tujuh pemilik yang setuju yang sudah tua meninggal sebelum gedung selesai dibangun.[^1] Ini juga merupakan perbedaan terbesar antara Wenlin Yuan dan perjuangan pembongkaran umum: bukan pertentangan dua pihak antara pemerintah dan penduduk, tetapi komunitas yang dipotong menjadi dua bagian setelah internal, kedua belah pihak membayar harga.
 
-## Apa yang Ditinggalkan Sistem
+## Apa yang Ditinggalkan oleh Sistem
 
-Undang-Undang Pembaruan Kota diumumkan pada 11 November 1998, dan berlaku pada 13 November, adalah undang-undang khusus pembaruan kota Republik Tiongkok (Taiwan).[^4] Menurut statistik Yayasan Penelitian dan Pengembangan Pembaruan Kota, dari tahun 2000 hingga akhir 2020, total 751 kasus proyek pembangunan kembali yang disetujui di seluruh Taiwan berdasarkan undang-undang ini, dengan luas total 242,70 hektar, 150 kasus proyek perbaikan dan pemeliharaan yang disetujui.[^4] Undang-Undang telah mengalami amandemen kedua belas pada 13 November 2024.[^4]
+《Undang-Undang Pembaruan Kota》pada 11 November 1998 diumumkan, 13 November mulai berlaku, adalah undang-undang khusus pembaruan kota Republik Tiongkok (Taiwan). [^4] Berdasarkan statistik Yayasan Penelitian dan Pengembangan Pembaruan Kota, dari tahun 2000 hingga akhir 2020, seluruh Taiwan berdasarkan undang-undang tersebut ditetapkan proyek pembangunan ulang berjumlah 751 kasus, total luas 242,70 hektar, proyek perbaikan dan pemeliharaan ditetapkan 150 kasus. [^4] Undang-undang ini hingga 13 November 2024 telah mengalami revisi kedua belas kali. [^4]
 
-Setelah amandemen, penanganan pemilik yang tidak setuju menambah satu prosedur: komisi pemeriksaan pembaruan kota harus mengakui rasionalitas jangkauan pembaruan, ketika ada kontroversi harus mengadakan dengar pendapat. Kontroversi pembongkaran pengganti juga berubah dari "pemerintah kota yang memutuskan" menjadi diputuskan oleh pengadilan.[^1] Desain ini merespons kekhawatiran inti Interpretasi Konstitusional 709, tetapi tidak menjawab pertanyaan yang lebih mendasar: ketika kepentingan properti mayoritas bertentangan dengan keinginan tempat tinggal minoritas, hukum harus berdiri di sisi mana.
+Pasca revisi undang-undang, penanganan rumah tangga yang tidak setuju menambah satu prosedur: Dewan Pertimbangan Pembaruan Kota harus menilai kelayakan cakupan pembaruan, jika terjadi perselisihan harus mengadakan sidang dengar pendapat. Perselisihan pembongkaran pengganti juga berubah dari "pemerintah kota yang menentukan" menjadi diputuskan oleh pengadilan. [^1] Desain-desain ini menjawab kekhawatiran inti Interpretasi Konstitusional No. 709, tetapi tidak menjawab masalah lebih fundamental: ketika kepentingan properti mayoritas bertentangan dengan keinginan tinggal minoritas, hukum harus berpihak ke mana.
 
-Jawaban kasus Wenlin Yuan adalah "keputusan mayoritas ditambah perlindungan prosedur". Jawaban ini membuat pembaruan kota Taiwan perlahan pulih dari kemacetan setelah 2012, dan juga membuat proses pemeriksaan setiap kasus pembaruan kota menjadi lebih lama, lebih mahal. Biaya dibagi oleh semua orang, termasuk mereka yang hanya ingin pulang, tetapi menunggu lebih dari empat tahun, pemilik yang setuju.
+Kasus Wenlin Yuan jawabannya adalah "mayoritas suara ditambah jaminan prosedural". Jawaban ini membuat pembaruan kota Taiwan dari stagnasi pasca-2012 perlahan pulih, juga membuat proses pertimbangan setiap kasus pembaruan kota menjadi lebih lama, lebih mahal. Biaya ditanggung bersama oleh semua orang, termasuk mereka yang hanya ingin pulang ke rumah, namun menunggu lebih dari empat tahun rumah tangga yang setuju.
 
 **Bacaan Lanjutan**:
 
-- [Perumahan Sosial dan Keadilan Perumahan](/id/society/social-housing-and-housing-justice) — Jalur kebijakan perumahan lain di luar pasar properti
-- [Perumahan Negara dan Keadilan Perumahan](/id/society/public-housing-justice) — Sejarah kebijakan perumahan negara dari pembangunan hingga penghentian
+- [Harga Rumah, KPR, dan Stabilitas Tempat Tinggal Anak Muda Taiwan](/housing/) — Halaman Khusus: menempatkan pembaruan kota kembali ke dalam seluruh sistem perumahan, pinjaman, pajak, transaksi tanah, dan pasokan perumahan masing-masing satu kolom
+- [Perumahan Sosial dan Keadilan Tempat Tinggal](/id/society/social-housing-and-housing-justice) — Jalur lain kebijakan tempat tinggal di luar pasar properti
+- [Perumahan Negara dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — Sejarah kebijakan perumahan negara dari pembangunan hingga dihentikan
 
 ## Referensi
 
