@@ -20,11 +20,13 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 researchReport: 'reports/research/2026-05/台灣股市與資本市場.md'
 readingTime: 16
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:323486e516e428ed'
-sourceBodyHash: 'sha256:c34c5e10c2fbc812'
-translatedAt: '2026-08-01T23:08:39+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:05af3274e03b254d'
+sourceBodyHash: 'sha256:c641c2a8bf14fd32'
+translatedAt: '2026-11-19T02:43:56.343919+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 28 de abril de 2026, a capitalização total do mercado acionário de Taiwan atingiu 4,47 trilhões de dólares, superando o Canadá e tornando-se o 6.º maior mercado acionário do mundo; já em meados do mês havia ultrapassado o Reino Unido. O motor por trás disso é a TSMC — capitalização de 1,8 trilhão de dólares, com peso próximo de 45% no índice ponderado. Trinta e seis anos atrás, aquele colapso dos 10.000 pontos que evaporou as poupanças de 4,6 milhões de contas, e aquela instituição Hongyuan que, com juros de 4% ao mês, arruinou 160.000 pessoas, ainda não secaram na memória financeira desta ilha. Desde a fundação da bolsa, com pouco mais de uma dezena de empresas listadas, até aos 13,93 milhões de contas atuais que compartilham o 6.º maior mercado de capitais do mundo, Taiwan levou sessenta e quatro anos. Mas este 6.º lugar tem uma ironia estrutural: retire a TSMC, e as demais mais de 1.000 ações somadas mal entram no top 15 global.
@@ -158,33 +160,35 @@ De "ações são jogo" nos anos 1990 para "não investir é que é risco" nos an
 
 A coluna da esquerda é memória traumática; a da direita, dividendo da IA. No meio, trinta e seis anos — mas a linha que os liga não é uma reta ascendente.
 
-## O mesmo índice, duas perspetivas
+## O mesmo índice, duas perspectivas
 
-Em 9 de fevereiro de 1962, a bolsa abriu portas; a primeira leva de empresas listadas contava apenas uma dezena[^TWSE]. Sessenta e quatro anos depois, a 28 de abril de 2026, o índice ponderado roçava os 40.000 pontos, capitalização total subia ao 6.º lugar global.
+Em 9 de fevereiro de 1962, a Bolsa de Valores de Taiwan (TWSE) foi inaugurada com pouco mais de dez empresas listadas[^TWSE]. Sessenta e quatro anos depois, em 28 de abril de 2026, o índice ponderado (TAIEX) estava a um passo dos 40.000 pontos, com o valor de mercado total subindo para o 6.º maior do mundo.
 
-Estes sessenta e quatro anos escritos em comunicado de imprensa são luminosos: da era industrial do cimento, papel, agricultura, mineração, à economia do conhecimento da fundição de wafers, refrigeração de IA, comunicações óticas. O mercado de capitais de Taiwan levou um ciclo sexagenário para crescer de uma mercearia de aldeia para a 6.ª maior bolsa do mundo.
+Se escrita como um comunicado de imprensa, esta história de sessenta e quatro anos seria gloriosa: da era industrial, com cimento, papel, agricultura, silvicultura e mineração, até a era da economia do conhecimento, com fundição de semicondutores, resfriamento para IA e comunicações ópticas. O mercado de capitais de Taiwan levou seis décadas para crescer de uma pequena mercearia de interior para se tornar a 6.ª maior bolsa de valores do mundo.
 
-Mas este 6.º lugar de 2026 tem uma ironia estrutural.
+Mas este 6.º lugar em 2026 possui uma estranheza estrutural.
 
-Nos 4,47 trilhões de dólares do mercado taiwanês, a TSMC sozinha leva perto de 45%. Se retirarmos a TSMC do índice ponderado, as restantes mais de 1.000 ações somam cerca de 2,67 trilhões de dólares — cairiam para o 10.º-11.º lugar global, no mesmo patamar da Arábia Saudita. No mundo dos mercados de capitais, a identidade de "6.º maior global" e a de "uma ilha" têm uma relação mais fina do que se imagina.
+Dos US$ 4,47 trilhões de valor de mercado das ações taiwanesas, a TSMC sozinha consome quase 45%. Se retirássemos a TSMC do índice ponderado, as mais de 1.000 empresas restantes somariam cerca de US$ 2,67 trilhões — o que provavelmente faria Taiwan cair para algo em torno da 10.ª posição global, no mesmo patamar da Arábia Saudita. No mundo dos mercados de capitais, a relação entre o status de "6.º maior do mundo" e "uma ilha" é mais tênue do que se imagina.
 
-> **✦** "28 de abril de 2026, o terminal Bloomberg em Nova Iorque salta 'Taiwan Overtakes Canada'. Na mesma noite, o motorista de táxi em Taipé espera o próximo boletim financeiro junto ao rádio; o que lhe interessa não é qual país do G7 Taiwan ultrapassou, mas se a TSMC amanhã fecha a 2.300. O título da Bloomberg diz 'a vitória de uma ilha'; o motorista preocupa-se com 'o patamar de uma ação'. O mesmo facto, duas perspetivas — e a segunda, talvez, esteja mais perto da verdade."
+> **✦** "Em 28 de abril de 2026, um terminal Bloomberg em Nova York exibiu a manchete 『Taiwan Overtakes Canada』. Na mesma noite, um taxista em Taipé esperava pelo próximo boletim financeiro no rádio; o que lhe importava não era qual país do G7 Taiwan havia superado, mas se a TSMC fecharia amanhã a NT$ 2.300. A manchete da Bloomberg dizia 『A vitória de uma ilha』; o taxista estava preocupado com 『o patamar de uma ação』. O mesmo evento, duas perspectivas — e esta última pode estar mais próxima da verdade do que a primeira."
 
-O colapso dos 10.000 pontos em 1990 destruiu a confiança de uma geração no mercado acionário. A alta de 2026, que levou aos 40.000 pontos e ultrapassou o Canadá, reconstrói a confiança das mesmas pessoas — só que desta vez, o objeto de confiança mudou de "a dica quente que eu escolhi" para "aquela ação que o mundo inteiro está a comprar".
+O colapso dos 10.000 pontos em 1990 destruiu a confiança de uma geração no mercado de ações. Em 2026, este rali de alta que alcança os 40.000 pontos e ultrapassa o Canadá reconstrói a confiança desse mesmo grupo de pessoas — apenas que, desta vez, o objeto da confiança mudou de "as ações que eu mesmo escolhi" para "aquela TSMC que o mundo inteiro está comprando".
 
-O cume onde 13,93 milhões de contas estão juntas tem 45% da sua base numa única rocha. A rocha é dura, mas é apenas uma.
+O topo desta montanha, onde 13,93 milhões de contas se sustentam, tem 45% de sua base feita de uma única rocha. A rocha é sólida, mas existe apenas uma.
 
-O que aprenderá o mercado de capitais de Taiwan nos próximos trinta anos? Pergunte ao seu vizinho que em 1990 tentou apanhar o fundo três vezes — ele provavelmente lhe dirá: o momento mais perigoso do mercado é exatamente quando todos acham que não vai cair.
+O que o mercado de capitais de Taiwan aprenderá nos próximos trinta anos? Basta perguntar ao seu vizinho que comprou ações na baixa três vezes em 1990 — ele provavelmente lhe dirá: o momento mais perigoso do mercado é justamente aquele em que todos acham que ele não vai cair.
 
-**Leitura complementar**
+**Leitura Adicional**
 
-- [TSMC](/pt/economy/tsmc) — O sol que pesa 45% no mercado taiwanês, e a história por trás de "montanha sagrada que protege o país"
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — O ecossistema completo da cadeia de abastecimento que sustenta o 6.º lugar do mercado taiwanês
-- [Hon Hai Precision](/pt/economy/foxconn-precision-industry) — Outro peso pesado na lista de 25 compras da Goldman, do gigante de manufatura por contrato à transformação em servidores de IA
-- [Transformação e atualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A trajetória da manufatura por contrato nos anos 1980 ao dividendo de IA em 2026
-- [Milagre económico: da batata-doce à TSMC, a história de virada de vinte milhões de pessoas](/pt/economy/economic-miracle) — O dinheiro do "dinheiro a transbordar em Taiwan" acabou por fluir para o mercado acionário e o Hongyuan de 1990
-- [Desenvolvimento fintech de Taiwan](/pt/economy/taiwan-fintech-development) — Do telefone de corretagem ao investimento periódico no telemóvel, a infraestrutura financeira por trás de uma conta
-- [Atlantic Soda](/pt/food/apple-cider) — A cadeia de transferência acionária da Atlantic Beverages (código 1213), listada em 1965, é um microcosmo dos dois nós da história do capital de Taiwan: o caso dos dez bancos em 1985 e o caso Hongyuan em 1990
+- [Especial sobre as Indústrias de Taiwan](/industry/) — Utilizando estatísticas oficiais para desenhar a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por condado/cidade, o top 10 de valor de mercado histórico e os argumentos de diversos lados em seis debates públicos.
+- [Ranking dos Top 50 em Valor de Mercado](/companies/) — Ranking interativo que pode ser filtrado por valor de mercado, receita, setor industrial e cidade da sede.
+- [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — O sol que detém 45% do peso das ações taiwanesas e a história por trás do termo "Montanha Protetora da Nação".
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Todo o ecossistema da cadeia de suprimentos que sustenta o status de 6.º maior mercado de Taiwan.
+- [Empresas de Taiwan: Hon Hai Precision](/pt/economy/foxconn-precision-industry) — Outro grande detentor de peso, presente na lista de 25 ações de compra do Goldman Sachs; de gigante da fabricação por contrato a transformador de servidores de IA.
+- [Transformação e Upgrade Industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A trajetória da fabricação por contrato na década de 1980 até o bônus da IA em 2026.
+- [Milagre Econômico: De "vouchers de batata-doce" à TSMC, a história de superação de 20 milhões de pessoas](/pt/economy/economic-miracle) — O dinheiro da era do "Taiwan com dinheiro até os tornozelos" acabou fluindo para o mercado de ações e para o Grupo Hongyuan em 1990.
+- [Desenvolvimento da Fintech em Taiwan](/pt/economy/taiwan-fintech-development) — Da era dos telefones de discagem à automação de investimentos via smartphone; a infraestrutura financeira por trás de uma conta bancária.
+- [Apple Cider](/pt/food/apple-cider) — A cadeia de transferência de ações da Atlantic Beverage (código 1213), listada em 1965; um microcaso dos dois marcos na história do capital: o Caso Shixin em 1985 e o Caso Hongyuan em 1990.
 
 ## Referências
 

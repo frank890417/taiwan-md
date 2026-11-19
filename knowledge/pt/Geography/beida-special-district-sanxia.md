@@ -25,11 +25,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-07-25T12:45:42+08:00'
+translatedAt: '2026-11-19T01:17:19.035219+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -162,11 +164,12 @@ Da aldeia Longen da era Qianlong, ao campo de batalha antijaponês de 1895, até
 
 Em 2026, quando os comboios da Linha Sanxia-Yingge entrarem oficialmente em serviço, o Distrito Especial de Beida enfrentará o teste da próxima fase: como equilibrar entre a conveniência trazida pelo metro e o choque externo? Como preservar a temperatura da terra na onda de gentrificação? Esta cidade que despertou ao longo de trinta anos está num novo ponto de partida histórico, continuando a escrever a sua lenda de reviravolta.
 
-## Leituras Complementares
+## Leitura Complementar
 
-- [Desenvolvimento Urbano de Taiwan e Diferença Urbano-Rural](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Recoloca o Distrito Especial de Beida no longo contexto das zonas de replanificação e expansão urbana de Taiwan.
-- [Nova Cidade de Linkou](/pt/geography/linkou-new-town) — Confronta como outra "cidade-fantasma" outrora chamada amadureceu.
-- [Chá de Sanxia](/pt/food/sanxia-tea) — Estende a leitura à cidade velha de Sanxia e ao substrato cultural da indústria local.
+- [Preços de imóveis, empréstimos hipotecários e o programa "Jovem de Apoio à Habitação" em Taiwan](/housing/) — Página especial: uma visão geral além das zonas de rezoneamento, incluindo taxas de endividamento imobiliário por município e índices de preços residenciais.
+- [Desenvolvimento urbano e a disparidade entre cidade e campo em Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Coloca o Distrito Especial de Beida no contexto de longo prazo do rezoneamento e da expansão urbana em Taiwan.
+- [Nova Cidade de Linkou](/pt/geography/linkou-new-town) — Uma comparação sobre como a Nova Cidade, que também já foi chamada de "cidade fantasma", amadureceu.
+- [Chá de Sanxia](/pt/food/sanxia-tea) — Leitura complementar sobre as bases culturais do antigo centro urbano de Sanxia e das indústrias locais.
 
 ## Referências
 

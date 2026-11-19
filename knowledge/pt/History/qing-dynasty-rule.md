@@ -2,9 +2,7 @@
 title: 'Período Qing'
 description: '1683-1895: o domínio Qing sobre Taiwan durou cerca de 212 anos, passando de uma governação passiva para uma construção ativa, lançando as bases da divisão administrativa moderna de Taiwan e da sociedade han'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
   [
     'História',
@@ -12,14 +10,18 @@ tags:
     'Abertura de Portos ao Comércio',
     'Incidente de Mudan',
   ]
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-19T02:22:14.126101+00:00'
 ---
 
 # Período Qing
@@ -74,15 +76,15 @@ Esta resistência é interpretada na historiografia taiwanesa posterior como a p
 
 ## Referências
 
-[^1]: [Período Qing em Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Visão geral do período Qing em Taiwan, incluindo sistema de governação, cronologia dos principais eventos e políticas de cada fase.
+[^1]: [Período de Taiwan sob o domínio da Dinastia Qing — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Visão geral do período de Taiwan sob a Dinastia Qing, incluindo o sistema de governança, cronologia dos principais eventos e políticas de cada fase.
 
-[^2]: [Liu Ming-chuan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biografia e registo da construção modernizadora da fundação provincial pelo primeiro governador de Taiwan, Liu Ming-chuan.
+[^2]: [Liu Mingchuan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biografia de Liu Mingchuan, o primeiro governador de Taiwan, e registros de suas construções para a modernização da província.
 
-[^3]: [Guerra de Yiwei — Wikipédia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Processo completo da resistência da República Democrática de Taiwan à tomada japonesa em 1895, incluindo a fuga de Tang Ching-sung.
+[^3]: [Guerra de Yiwu — Wikipédia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — O processo completo da resistência da República Democrática de Taiwan contra a anexação japonesa em 1895, incluindo os detalhes da fuga de Tang Jingsong.
 
-[^4]: [Incidente do Rover — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — Incidente do Rover em 1867, Aliança de Nanji e negociações de Le Gendre.
+[^4]: [Incidente do Rover — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — O incidente do navio Rover em 1867, o Tratado de Cape Emosa e as negociações com Charles Le Gendre.
 
-[^5]: [Incidente Shi Chiu-tun — Wikipédia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — Motim popular em Changhua provocado pela reforma fiscal em 1888, o maior evento de resistência fiscal do final do Qing em Taiwan.
+[^5]: [Incidente de Shi Jiudan — Wikipédia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — A revolta civil em Changhua desencadeada pelos impostos da Dinastia Qing em 1888, o maior incidente de resistência fiscal em Taiwan no final da era Qing.
 
 ## Nota terminológica: Qing-zhi vs. Qing-ling
 
