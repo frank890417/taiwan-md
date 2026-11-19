@@ -204,6 +204,7 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       'The {count} largest listed companies, sized by market value. {top} alone is {pct}% of these {count} combined.',
     'home.hall.thumb4.cta': 'Open the company landscape',
+    'home.hall.pick.sources': '{n} sources',
     'home.start.eyebrow': 'Start here',
     'home.people.eyebrow': 'People',
     'home.people.heading': 'The people who write, the people who read',
@@ -1758,6 +1759,7 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了這 {count} 家合計的 {pct}%。',
     'home.hall.thumb4.cta': '打開企業版圖',
+    'home.hall.pick.sources': '{n} 引用',
     'home.start.eyebrow': '從這裡開始',
     'home.people.eyebrow': '人',
     'home.people.heading': '寫的人，讀的人',
