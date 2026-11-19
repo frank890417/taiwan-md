@@ -176,6 +176,13 @@
    * was just edited; this only adds the token — no consumer change required
    * this wave. */
   --surface-footer: #1a2e1a;
+  /* 首頁的底色節奏（2026-11-19 首頁第三期，home-bands.css）。哲宇：「首頁現在從頭
+   * 滑到尾，幾乎都是白白的 section」。白底之間穿插幾條淡色帶，四展廳那一段是紙，
+   * 生命體那一段是夜色。全部是平塗，不用漸層。深色模式的對應在下面的 dark 區塊。 */
+  --surface-band-sage: #f1f5f0; /* 淡竹青：分類、繁中宣言 */
+  --surface-band-mist: #eef2f6; /* 淡霧藍：人與留言 */
+  --surface-paper: #f8f3e8; /* 紙：四展廳那本書 */
+  --surface-band-night: #102119; /* 夜色：生命體 */
   /* ReadingPath scene (src/components/ReadingPath.astro). */
   --scene-nature-bg: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
   --scene-nature-step-line: linear-gradient(
@@ -295,6 +302,11 @@
     #0d1f16 0%,
     #0a1912 100%
   ); /* light-mint section → dark forest green */
+  /* 首頁底色節奏的深色對應：在近黑的底上各自抬一點、帶一點色相 */
+  --surface-band-sage: #0f1913;
+  --surface-band-mist: #10141c;
+  --surface-paper: #1a160e;
+  --surface-band-night: #0c2119;
   color-scheme: dark;
 }
 

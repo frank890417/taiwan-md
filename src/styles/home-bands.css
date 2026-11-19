@@ -1,0 +1,59 @@
+/**
+ * home-bands.css — 首頁從頭捲到尾的底色節奏。
+ *
+ * 2026-11-19 首頁第三期。哲宇：「首頁現在從頭滑到尾，幾乎都是白白的section。你看看
+ * 有沒有辦法把幾個section變成有層次的顏色，不然看起來蠻蠻全部都散在那裡的感覺。」
+ *
+ * 節奏（由上往下）：
+ *
+ *    開場          原樣（主視覺）
+ *    引語時間軸    原樣（本來就是淡灰底）
+ *    四扇門、直接能用的   白
+ *    分類格        淡竹青  sage
+ *    四展廳        紙      paper   ← 整頁最有紙感的一段，一本書
+ *    閱讀路徑、隨機  白
+ *    人與留言      淡霧藍  mist
+ *    最近          白
+ *    繁中宣言      淡竹青  sage
+ *    生命體        夜色    night   ← 整頁唯一的深色帶，接在頁尾之前
+ *    參與與訂閱    白
+ *
+ * 色票在 tokens.css（--surface-band-* 與 --surface-paper），深色模式各有對應。
+ * 全部平塗，不用漸層底。
+ *
+ * 做法：色帶包在區塊外面一層 div（.home-band），display: flow-root 讓裡面區塊的
+ * 上下 margin 留在色帶裡（不會穿出去變成色帶外的白邊）。色帶本身不加 padding：
+ * 區塊原本的垂直留白就是色帶的上下留白，整頁的間距不用重算。
+ * 只在首頁用（樣板上的 class），展廳頁與 /voices/ 共用 .home-page，不受影響。
+ */
+
+.home-band {
+  display: flow-root;
+  background-color: var(--band-bg);
+}
+
+.home-band--sage {
+  --band-bg: var(--surface-band-sage);
+}
+
+.home-band--mist {
+  --band-bg: var(--surface-band-mist);
+}
+
+.home-band--paper {
+  --band-bg: var(--surface-paper);
+  /* 紙的上下緣：一條很淡的線，像書頁的邊 */
+  border-block: 1px solid var(--home-rule);
+}
+
+/* 夜色帶：裡面用到 token 的字（卡片外的兩顆連結）跟著換成亮色。生命體的卡片
+ * 本身是寫死的深綠，坐在夜色上像一塊亮起來的面板。 */
+.home-band--night {
+  --band-bg: var(--surface-band-night);
+  --color-ink: #f4f0ea;
+  --color-ink-soft: #c9d4cd;
+  --home-accent: var(--status-tier-excellent);
+  --home-rule: color-mix(in srgb, #f4f0ea 18%, transparent);
+  --home-rule-strong: color-mix(in srgb, #f4f0ea 36%, transparent);
+  color: var(--color-ink);
+}

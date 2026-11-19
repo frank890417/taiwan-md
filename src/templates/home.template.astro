@@ -56,6 +56,7 @@ import { categoryList } from '../utils/categoryConfig';
 import { readingPathLabels } from '../i18n/reading-path';
 import '../styles/home-sections.css';
 import '../styles/home-halls.css';
+import '../styles/home-bands.css';
 import Layout from '../layouts/Layout.astro';
 import HomeDefs from '../components/home/HomeDefs.astro';
 import HeroSection from '../components/home/HeroSection.astro';
@@ -163,37 +164,41 @@ const readingPathFooterItems = [
 
     <div data-ga-view="tools_band"><ToolsBand /></div>
 
-    <section
-      id="categories"
-      class="home-section home-categories"
-      aria-labelledby="categories-heading"
-    >
-      <div class="home-wrap">
-        <header class="home-head">
-          <p class="home-eyebrow">{th('home.categories.eyebrow')}</p>
-          <h2 id="categories-heading" class="home-title">
-            {
-              t('home.categories.divider').replace(
-                '{count}',
-                String(categoryCount),
-              )
-            }
-          </h2>
-        </header>
-        <div data-ga-view="category_grid"><TopicIndex /></div>
-      </div>
-    </section>
+    <div class="home-band home-band--sage">
+      <section
+        id="categories"
+        class="home-section home-categories"
+        aria-labelledby="categories-heading"
+      >
+        <div class="home-wrap">
+          <header class="home-head">
+            <p class="home-eyebrow">{th('home.categories.eyebrow')}</p>
+            <h2 id="categories-heading" class="home-title">
+              {
+                t('home.categories.divider').replace(
+                  '{count}',
+                  String(categoryCount),
+                )
+              }
+            </h2>
+          </header>
+          <div data-ga-view="category_grid"><TopicIndex /></div>
+        </div>
+      </section>
+    </div>
 
-    <section
-      id="halls"
-      class="home-section home-lobby"
-      aria-labelledby="halls-heading"
-      data-ga-view="exhibition_halls"
-    >
-      <div class="home-wrap">
-        <HallBook articleTotal={hallArticleTotal} />
-      </div>
-    </section>
+    <div class="home-band home-band--paper">
+      <section
+        id="halls"
+        class="home-section home-lobby"
+        aria-labelledby="halls-heading"
+        data-ga-view="exhibition_halls"
+      >
+        <div class="home-wrap">
+          <HallBook articleTotal={hallArticleTotal} />
+        </div>
+      </section>
+    </div>
 
     <div id="start-here" data-ga-view="reading_path">
       <ReadingPath
@@ -226,15 +231,21 @@ const readingPathFooterItems = [
       </ReadingPath>
     </div>
 
-    <div data-ga-view="people"><PeopleSection /></div>
+    <div class="home-band home-band--mist" data-ga-view="people">
+      <PeopleSection />
+    </div>
 
     <div data-ga-view="recent_updates"><RecentUpdates /></div>
 
-    <div class="home-section" data-ga-view="language_statement">
-      <LanguageStatement />
+    <div class="home-band home-band--sage">
+      <div class="home-section" data-ga-view="language_statement">
+        <LanguageStatement />
+      </div>
     </div>
 
-    <div data-ga-view="organism_preview"><OrganismPreview /></div>
+    <div class="home-band home-band--night" data-ga-view="organism_preview">
+      <OrganismPreview />
+    </div>
 
     <div data-ga-view="join"><JoinSection /></div>
   </div>
