@@ -1,0 +1,654 @@
+---
+/**
+ * HallThumb — 四個展廳各一張視覺化縮圖。首頁第一期（2026-11-19）新增。
+ *
+ * 第一期：縮圖插在每一廳的標題底下，策展散文全文照舊留在首頁。
+ * 第二期：同一張圖會成為展廳頁的頭圖。
+ *
+ * 每一張都遵守規格 1.5：用 repo 既有的真資料、點得進去對應的完整頁面、
+ * 有一句看得見的說明當文字替代。拿不到資料就整張不顯示（回傳空），不放假圖。
+ *
+ *   壹 這座島長什麼樣     台灣輪廓 + 有地點的文章落點 + 由北到南的篇數   → /map
+ *   貳 這座島怎麼來的     時間軸頁的八個時期，一個點是一篇文章           → /timeline
+ *   參 這座島的人在做什麼 這一廳三個分類的篇數比例                      → 各分類頁
+ *   肆 這座島往哪裡去     市值前十二大上市公司的區塊圖                  → /companies
+ *
+ * 跟規格不一樣的兩處（原因寫在報告後記）：
+ *   - 壹：規格寫「由北到南的地形剖面」，repo 沒有海拔資料。改畫「文章落點由北
+ *     到南的篇數」，同樣是一條北到南的剖面，資料是真的。
+ *   - 參：規格寫「人物依出生年代的點陣」，文章 frontmatter 沒有出生年。照規格的
+ *     備案，改成這一廳三個分類的篇數比例條。
+ *
+ * 版面用 HTML 排（長條、標籤、區塊都是 HTML 元素），只有地圖是 SVG。SVG 裡的字
+ * 會跟著整張圖縮小，手機上會小到讀不了；HTML 的字不會。
+ */
+import { useTranslations, getLangFromUrl } from '../../i18n/utils';
+import { resolveStaticHref } from '../../utils/staticRoutes';
+import { getCompanyConfigs } from '../../utils/dataConfig';
+import { getCategoryConfigs } from '../../utils/categoryConfig';
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
+import { useHomeT, formatCount } from './home-i18n';
+import {
+  getMapDensity,
+  getEraBand,
+  countCategoryArticles,
+  squarify,
+} from './home-data';
+
+interface Props {
+  hall: 1 | 2 | 3 | 4;
+}
+
+const { hall } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const arrow = iconSvg('arrow');
+
+/* ── 壹 ── */
+const density = hall === 1 ? getMapDensity() : null;
+const mapView = density
+  ? `${density.frame.x0} ${density.frame.y0} ${density.frame.x1 - density.frame.x0} ${density.frame.y1 - density.frame.y0}`
+  : '';
+
+/* ── 貳 ── */
+const eraBand = hall === 2 ? getEraBand(lang) : null;
+// 史前沒有起點，固定給 8% 的寬度；其餘依年數分配
+const PREHISTORY_SHARE = 8;
+const eraSegments = eraBand
+  ? eraBand.eras.map((e) => {
+      const span = eraBand.lastYear - eraBand.firstYear;
+      const share =
+        e.start === null
+          ? PREHISTORY_SHARE
+          : ((e.end - e.start) / span) * (100 - PREHISTORY_SHARE);
+      // 色帶上的名字：慣用的時期名；史前那一段另外給字
+      const label =
+        e.start === null
+          ? th('home.hall.thumb2.prehistory')
+          : e.subtitle || e.title;
+      return { ...e, share, label };
+    })
+  : [];
+
+/* ── 參 ── */
+const HALL3 = ['people', 'art', 'music'];
+const categoryConfigs = hall === 3 ? getCategoryConfigs(t) : null;
+const ratio =
+  hall === 3 && categoryConfigs
+    ? HALL3.map((slug) => ({
+        slug,
+        name: (categoryConfigs as Record<string, { name: string }>)[slug]?.name,
+        count: countCategoryArticles(lang, slug),
+      })).filter((r) => r.count > 0 && r.name)
+    : [];
+const ratioTotal = ratio.reduce((s, r) => s + r.count, 0);
+
+/* ── 肆 ── */
+const TREEMAP_N = 12;
+const TREEMAP_W = 220;
+const TREEMAP_H = 100;
+const companies =
+  hall === 4
+    ? getCompanyConfigs(t)
+        .slice()
+        .sort((a, b) => b.marketCap - a.marketCap)
+        .slice(0, TREEMAP_N)
+    : [];
+const cells =
+  hall === 4
+    ? squarify(
+        companies.map((c) => ({
+          name: c.name,
+          ticker: c.ticker,
+          value: c.marketCap,
+        })),
+        TREEMAP_W,
+        TREEMAP_H,
+      )
+    : [];
+const topCell = cells[0];
+// 區塊的深淺照名次：第一名最深，其餘由深到淺
+const cellTone = (i: number) => Math.max(8, 26 - i * 1.6).toFixed(0);
+
+const pct = (n: number) => `${n.toFixed(2)}%`;
+---
+
+{
+  hall === 1 && density && (
+    <figure class="hall-thumb">
+      <a
+        href={resolveStaticHref(lang, '/map')}
+        class="hall-thumb-link"
+        data-ga-section="hall_thumb"
+        data-ga-label="map"
+      >
+        <div class="h1-fig" dir="ltr" aria-hidden="true">
+          <svg class="home-viz h1-map" viewBox={mapView}>
+            <use href="#home-tw-outline" class="viz-outline" />
+            <use href="#home-tw-density" class="viz-ink h1-dots" />
+          </svg>
+          <div class="h1-bands">
+            <span class="h1-pole h1-pole--n">
+              {th('home.hall.thumb.north')}
+            </span>
+            <span class="h1-pole h1-pole--s">
+              {th('home.hall.thumb.south')}
+            </span>
+            {density.bands.map((b) => (
+              <span class="h1-band">
+                {b.n > 0 && (
+                  <>
+                    <span
+                      class="h1-bar"
+                      style={`inline-size:${pct((b.n / density.maxBand) * 100)}`}
+                    />
+                    <span class="h1-count">{b.n}</span>
+                  </>
+                )}
+              </span>
+            ))}
+          </div>
+        </div>
+        <figcaption class="hall-thumb-caption">
+          <span>
+            {th('home.hall.thumb1.caption', {
+              count: formatCount(density.total, lang),
+            })}
+            {density.kinmen + density.matsu > 0 && (
+              <span class="hall-thumb-note">
+                {th('home.hall.thumb1.outside', {
+                  kinmen: density.kinmen,
+                  matsu: density.matsu,
+                })}
+              </span>
+            )}
+          </span>
+          <span class="hall-thumb-cta">
+            {th('home.hall.thumb1.cta')}
+            <span class="hall-thumb-arrow" set:html={arrow} />
+          </span>
+        </figcaption>
+      </a>
+    </figure>
+  )
+}
+
+{
+  hall === 2 && eraBand && (
+    <figure class="hall-thumb">
+      <a
+        href={resolveStaticHref(lang, '/timeline')}
+        class="hall-thumb-link"
+        data-ga-section="hall_thumb"
+        data-ga-label="timeline"
+      >
+        <div class="h2-fig" dir="ltr" aria-hidden="true">
+          {eraSegments.map((e, i) => (
+            <div
+              class:list={[
+                'h2-era',
+                {
+                  'is-open': e.start === null,
+                  'is-wide':
+                    e.share >= 30 || (e.share >= 11 && e.label.length <= 4),
+                  'is-widest': e.share >= 30,
+                },
+              ]}
+              style={`flex-grow:${e.share.toFixed(2)}`}
+              title={e.subtitle || e.title}
+            >
+              <span class="h2-dots">
+                {Array.from({ length: e.articles }, () => (
+                  <i />
+                ))}
+              </span>
+              <span class="h2-bar">
+                <span class="h2-name">{e.label}</span>
+              </span>
+              <span class:list={['h2-year', { 'is-low': i % 2 === 1 }]}>
+                {e.start === null ? '' : e.start}
+              </span>
+            </div>
+          ))}
+          <span class="h2-year h2-year--end">{eraBand.lastYear}</span>
+        </div>
+        <figcaption class="hall-thumb-caption">
+          <span>
+            {th('home.hall.thumb2.caption', {
+              count: eraBand.totalArticles,
+              eras: eraBand.eras.length,
+            })}
+          </span>
+          <span class="hall-thumb-cta">
+            {th('home.hall.thumb2.cta')}
+            <span class="hall-thumb-arrow" set:html={arrow} />
+          </span>
+        </figcaption>
+      </a>
+    </figure>
+  )
+}
+
+{
+  hall === 3 && ratio.length > 0 && (
+    <figure class="hall-thumb">
+      <div class="hall-thumb-frame">
+        <div class="h3-fig">
+          <ul class="h3-legend">
+            {ratio.map((r, i) => (
+              <li>
+                <a
+                  href={`${langPrefix}/${r.slug}`}
+                  class="h3-item"
+                  data-ga-section="hall_thumb"
+                  data-ga-label={r.slug}
+                >
+                  <span class="h3-count">{formatCount(r.count, lang)}</span>
+                  <span class="h3-name">
+                    <i class={`h3-swatch h3-tone--${i}`} aria-hidden="true" />
+                    {r.name}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+          <div class="h3-bars" aria-hidden="true">
+            {ratio.map((r, i) => (
+              <span
+                class={`h3-bar h3-tone--${i}`}
+                style={`flex-grow:${r.count}`}
+              />
+            ))}
+          </div>
+        </div>
+        <figcaption class="hall-thumb-caption">
+          <span>
+            {th('home.hall.thumb3.caption', {
+              count: formatCount(ratioTotal, lang),
+            })}
+          </span>
+        </figcaption>
+      </div>
+    </figure>
+  )
+}
+
+{
+  hall === 4 && topCell && (
+    <figure class="hall-thumb">
+      <a
+        href={resolveStaticHref(lang, '/companies')}
+        class="hall-thumb-link"
+        data-ga-section="hall_thumb"
+        data-ga-label="companies"
+      >
+        <div class="h4-fig" aria-hidden="true">
+          {cells.map((c, i) => (
+            <span
+              class:list={['h4-cell', { 'is-top': i === 0 }]}
+              style={`inset-inline-start:${pct((c.x / TREEMAP_W) * 100)};inset-block-start:${pct((c.y / TREEMAP_H) * 100)};inline-size:${pct((c.w / TREEMAP_W) * 100)};block-size:${pct((c.h / TREEMAP_H) * 100)};--tone:${cellTone(i)}%`}
+              title={`${c.name} ${(c.share * 100).toFixed(1)}%`}
+            >
+              {(i === 0 ||
+                (c.w / TREEMAP_W > 0.14 && c.h / TREEMAP_H > 0.3)) && (
+                <span class="h4-label">
+                  <span class="h4-name">{c.name}</span>
+                  <span class="h4-share">{Math.round(c.share * 100)}%</span>
+                </span>
+              )}
+            </span>
+          ))}
+        </div>
+        <figcaption class="hall-thumb-caption">
+          <span>
+            {th('home.hall.thumb4.caption', {
+              count: cells.length,
+              top: topCell.name,
+              pct: Math.round(topCell.share * 100),
+            })}
+          </span>
+          <span class="hall-thumb-cta">
+            {th('home.hall.thumb4.cta')}
+            <span class="hall-thumb-arrow" set:html={arrow} />
+          </span>
+        </figcaption>
+      </a>
+    </figure>
+  )
+}
+
+<style>
+  .hall-thumb-note {
+    display: block;
+  }
+  .hall-thumb-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .hall-thumb-arrow {
+    display: inline-flex;
+    font-size: 0.85em;
+    transition: transform 0.2s ease;
+  }
+  :global([dir='rtl']) .hall-thumb-arrow {
+    transform: scaleX(-1);
+  }
+  .hall-thumb-link:hover .hall-thumb-arrow {
+    transform: translateX(3px);
+  }
+  :global([dir='rtl']) .hall-thumb-link:hover .hall-thumb-arrow {
+    transform: scaleX(-1) translateX(3px);
+  }
+
+  /* ── 壹：地圖在左，由北到南的長條在右，同高、逐列對齊 ─────────── */
+  .h1-fig {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: clamp(0.75rem, 3vw, 2rem);
+    height: 300px;
+  }
+  .h1-map {
+    width: auto;
+    height: 100%;
+  }
+  .h1-dots {
+    opacity: 0.78;
+  }
+  .h1-bands {
+    position: relative;
+    display: grid;
+    grid-auto-rows: 1fr;
+    border-inline-start: 1px solid var(--home-rule-strong);
+    padding-inline-start: 0;
+  }
+  .h1-band {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 0;
+  }
+  .h1-bar {
+    display: block;
+    height: 46%;
+    min-inline-size: 2px;
+    max-inline-size: calc(100% - 2.6rem);
+    border-start-end-radius: 2px;
+    border-end-end-radius: 2px;
+    background: color-mix(in srgb, var(--color-ink) 22%, transparent);
+  }
+  .h1-count {
+    font-family: var(--font-interface);
+    font-size: 0.68rem;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+    color: var(--color-ink-soft);
+  }
+  .h1-pole {
+    position: absolute;
+    inset-inline-end: 0;
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--color-ink-soft);
+  }
+  .h1-pole--n {
+    inset-block-start: 0;
+  }
+  .h1-pole--s {
+    inset-block-end: 0;
+  }
+
+  /* ── 貳：年代帶。每一段的寬度是年數，上面的點是文章 ──────────── */
+  .h2-fig {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+    padding-block-end: 2.3rem;
+    padding-inline-end: 0.2rem;
+  }
+  .h2-era {
+    position: relative;
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: column;
+    align-items: center;
+    min-width: 0;
+  }
+  .h2-dots {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 3px;
+    padding-block-end: 6px;
+  }
+  .h2-dots i {
+    display: block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--color-ink);
+    opacity: 0.8;
+  }
+  .h2-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 1.5rem;
+    overflow: hidden;
+    border-radius: 3px;
+    background: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  }
+  .h2-era:last-of-type .h2-bar {
+    background: var(--home-mark);
+  }
+  .h2-era.is-open .h2-bar {
+    background: repeating-linear-gradient(
+      90deg,
+      color-mix(in srgb, var(--color-ink) 16%, transparent) 0 3px,
+      transparent 3px 6px
+    );
+  }
+  .h2-name {
+    display: none;
+    white-space: nowrap;
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--color-ink);
+  }
+  .h2-era.is-wide .h2-name {
+    display: inline;
+  }
+  .h2-year {
+    position: absolute;
+    inset-block-start: calc(100% + 0.3rem);
+    inset-inline-start: 0;
+    transform: translateX(-50%);
+    font-family: var(--font-interface);
+    font-size: 0.68rem;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+    color: var(--color-ink-soft);
+  }
+  .h2-year.is-low {
+    inset-block-start: calc(100% + 1.25rem);
+  }
+  /* 年份與色帶之間的短引線，錯開兩排時看得出各自屬於哪一段 */
+  .h2-year:not(:empty)::before {
+    content: '';
+    position: absolute;
+    inset-block-end: calc(100% + 1px);
+    inset-inline-start: 50%;
+    width: 1px;
+    height: 0.2rem;
+    background: var(--home-rule-strong);
+  }
+  .h2-year.is-low:not(:empty)::before {
+    height: 1.15rem;
+  }
+  .h2-year--end {
+    inset-block-start: auto;
+    inset-block-end: 1.3rem;
+    inset-inline-start: auto;
+    inset-inline-end: 0;
+    transform: translateX(50%);
+  }
+  .h2-year--end::before {
+    display: none;
+  }
+
+  /* ── 參：三個分類的篇數比例 ─────────────────────────────────── */
+  .h3-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem clamp(1.5rem, 6vw, 3.5rem);
+    margin: 0 0 0.9rem;
+    padding: 0;
+    list-style: none;
+  }
+  .h3-item {
+    display: flex;
+    flex-direction: column;
+    min-height: 44px;
+    border: 0;
+    padding: 0;
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+  .h3-bars {
+    display: flex;
+    gap: 3px;
+  }
+  .h3-count {
+    font-family: var(--font-interface);
+    font-size: clamp(1.5rem, 4vw, 2.1rem);
+    font-weight: 300;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+  }
+  .h3-name {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-block-start: 0.25rem;
+    font-family: var(--font-interface);
+    font-size: 0.86rem;
+    font-weight: 600;
+    color: var(--color-ink-soft);
+    transition: color 0.2s ease;
+  }
+  .h3-swatch {
+    display: inline-block;
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 2px;
+  }
+  .h3-bar {
+    display: block;
+    flex: 1 1 0;
+    height: 1.5rem;
+    border-radius: 3px;
+  }
+  .h3-tone--0 {
+    background: color-mix(in srgb, var(--color-ink) 78%, transparent);
+  }
+  .h3-tone--1 {
+    background: color-mix(in srgb, var(--color-ink) 40%, transparent);
+  }
+  .h3-tone--2 {
+    background: color-mix(in srgb, var(--color-ink) 18%, transparent);
+  }
+  .h3-item:hover .h3-name {
+    color: var(--home-accent);
+  }
+
+  /* ── 肆：市值區塊圖 ─────────────────────────────────────────── */
+  .h4-fig {
+    position: relative;
+    aspect-ratio: 11 / 4;
+  }
+  .h4-cell {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    border: 1.5px solid var(--color-surface);
+    border-radius: 4px;
+    background: color-mix(in srgb, var(--color-ink) var(--tone), transparent);
+    color: var(--color-ink);
+  }
+  .h4-cell.is-top {
+    background: color-mix(in srgb, var(--color-ink) 88%, var(--color-surface));
+    color: var(--color-bg);
+  }
+  .h4-label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    padding: 0.4rem 0.5rem;
+    min-width: 0;
+    font-family: var(--font-interface);
+    line-height: 1.2;
+  }
+  .h4-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 0.7rem;
+    font-weight: 600;
+  }
+  .h4-share {
+    font-size: 0.68rem;
+    font-variant-numeric: tabular-nums;
+    opacity: 0.75;
+  }
+  .h4-cell.is-top .h4-label {
+    padding: clamp(0.6rem, 2vw, 1.1rem);
+  }
+  .h4-cell.is-top .h4-name {
+    font-size: clamp(0.95rem, 2.2vw, 1.35rem);
+    font-weight: 600;
+    white-space: normal;
+  }
+  .h4-cell.is-top .h4-share {
+    font-size: clamp(1.6rem, 5vw, 2.8rem);
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    opacity: 1;
+  }
+  .h4-cell.is-top .h4-label {
+    flex-direction: column-reverse;
+    gap: 0.35rem;
+  }
+
+  @media (max-width: 640px) {
+    .h1-fig {
+      height: 250px;
+    }
+    .h2-dots i {
+      width: 6px;
+      height: 6px;
+    }
+    .h2-era.is-wide .h2-name {
+      display: none;
+    }
+    .h2-era.is-widest .h2-name {
+      display: inline;
+    }
+    .h4-fig {
+      aspect-ratio: 3 / 2;
+    }
+    .h4-cell:not(.is-top) .h4-label {
+      display: none;
+    }
+  }
+</style>

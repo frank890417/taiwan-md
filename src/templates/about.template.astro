@@ -3,7 +3,21 @@ import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import SupporterGrid from '../components/SupporterGrid.astro';
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import NewsletterSection from '../components/home/NewsletterSection.astro';
+import AboutChapterNav from '../components/about/AboutChapterNav.astro';
+import AboutBrief from '../components/about/AboutBrief.astro';
+import AboutWhy from '../components/about/AboutWhy.astro';
+import AboutTrust from '../components/about/AboutTrust.astro';
+import AboutMilestones from '../components/about/AboutMilestones.astro';
+import type { TimelineEntry } from '../components/about/AboutMilestones.astro';
+import { useAboutStrings } from '../components/about/strings';
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../i18n/utils';
+import { ENABLED_LANGUAGE_CODES } from '../config/languages';
+import { categoryList } from '../utils/categoryConfig';
 // 2026-06-13 contributors SSOT：grid 改 data-driven，吃 public/api/contributors.json
 // 的完整名單（generate-contributors-data.js 從 GitHub /contributors API 每次
 // prebuild 刷新）。取代原本 57 個手動硬編碼 card（易漏易過時）。
@@ -17,9 +31,17 @@ import contributorsData from '../../public/api/contributors.json';
 // 不再 import stats.json — 它由 update-stats.sh 的 gh CLI 產，CI 無 auth 時 set -e 中止
 // 留 None，about hero 顯示「0+」的 regression 根因（2026-06-13 修）。
 import vitalsData from '../../public/api/dashboard-vitals.json';
+// 2026-11-19 關於頁進化：「有人看過」的篇數在 dashboard-organism.json 的
+// immune.metrics.humanReviewedCount（同一支 generate-dashboard-data 產）。
+import organismData from '../../public/api/dashboard-organism.json';
+// 個人支持者人數（收合名單的標題用）；同 SupporterGrid 讀的那一份。
+import supportersData from '../../public/api/about-supporters.json';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+// 新區塊的字串（缺翻譯時先退英文，見 components/about/strings.ts）
+const s = useAboutStrings(lang);
+const tp = useTranslatedPath(lang);
 const _c = contributorsData as {
   allContributors?: Array<{
     login: string;
@@ -33,6 +55,7 @@ const _v = vitalsData as {
   totalArticles?: number;
   stars?: number;
   contributors?: number;
+  humanReviewedPercent?: number;
 };
 const allContributors = _c.allContributors || [];
 const contributorCount =
@@ -69,6 +92,118 @@ const siteGuideCards = [
     desc: t('about.guide.founder.desc'),
   },
 ];
+
+// ── 2026-11-19 關於頁進化 ─────────────────────────────────────────────
+// 「有人看過的文章」：比例來自 dashboard-vitals.json 的 humanReviewedPercent，
+// 篇數來自 dashboard-organism.json（沒有就用比例回推）。資料缺席 → null →
+// 頁面上不顯示數字（三十秒版與可信度兩處都吃這一組）。
+const _reviewPct = _v.humanReviewedPercent;
+const reviewedPercent =
+  typeof _reviewPct === 'number' && _reviewPct > 0 && totalArticles > 0
+    ? _reviewPct
+    : null;
+const _immune = (
+  organismData as {
+    organs?: Array<{ id?: string; metrics?: { humanReviewedCount?: number } }>;
+  }
+).organs?.find((o) => o.id === 'immune')?.metrics;
+const reviewedCount =
+  reviewedPercent === null
+    ? null
+    : typeof _immune?.humanReviewedCount === 'number'
+      ? _immune.humanReviewedCount
+      : Math.round((reviewedPercent / 100) * totalArticles);
+
+const supporterCount =
+  (supportersData as { supporter_count?: number }).supporter_count || 0;
+
+const languageCount = ENABLED_LANGUAGE_CODES.length;
+// 「領域」＝內容分類（不含 about 這個講專案自己的分類）
+const domainCount = categoryList.filter((c) => c !== 'about').length;
+
+// 站內去處。contribute / dashboard / changelog / graph 13 語都有頁面；
+// /semiont/ 只有中文與英文；「關於」分類的長文比照 siteGuideCards 指向中文版。
+const hrefContribute = tp('/contribute/');
+const hrefDashboard = tp('/dashboard/');
+const hrefChangelog = tp('/changelog/');
+const hrefGraph = tp('/graph/');
+const hrefSemiont = lang === 'en' ? '/en/semiont/' : '/semiont/';
+const hrefNewsroom = '/semiont/newsroom/';
+
+// 章節錨點（順序＝頁面順序）
+const chapters = [
+  { id: 'brief', label: s('about.nav.brief') },
+  { id: 'naming', label: s('about.nav.naming') },
+  { id: 'team', label: s('about.nav.people') },
+  { id: 'why', label: s('about.nav.why') },
+  { id: 'trust', label: s('about.nav.trust') },
+  { id: 'origin', label: s('about.nav.origin') },
+  { id: 'organism', label: s('about.nav.alive') },
+  { id: 'sponsors', label: s('about.nav.support') },
+  { id: 'faq', label: s('about.nav.faq') },
+];
+
+// 時間軸全部條目（順序＝下面完整時間軸的順序）。milestone: true 的預設顯示成
+// 里程碑卡；其餘只在比例軸上是一條細線。挑選原則：對外看得見的事。
+const timelineEntries: TimelineEntry[] = [
+  { key: '2024-2025', date: null },
+  { key: '2026-02-03', date: null },
+  { key: '2026-03-11', date: '2026-03-11' },
+  {
+    key: '2026-03-17',
+    date: '2026-03-17',
+    milestone: true,
+    related: {
+      href: '/about/緣起故事',
+      label: s('about.milestones.related.origin'),
+    },
+  },
+  { key: '2026-03-18-1', date: '2026-03-18' },
+  { key: '2026-03-18-2', date: '2026-03-18', milestone: true },
+  { key: '2026-03-19', date: '2026-03-19' },
+  { key: '2026-03-20', date: '2026-03-20' },
+  { key: '2026-03-22', date: '2026-03-22' },
+  { key: '2026-03-22b', date: '2026-03-22', milestone: true },
+  { key: '2026-03-24', date: '2026-03-24' },
+  { key: '2026-03-27', date: '2026-03-27', milestone: true },
+  { key: '2026-03-31', date: '2026-03-31' },
+  {
+    key: '2026-04-03',
+    date: '2026-04-03',
+    milestone: true,
+    related: { href: '/about/taiwan-md', label: t('about.guide.meta.title') },
+  },
+  { key: '2026-04-08', date: '2026-04-08' },
+  { key: '2026-04-19', date: '2026-04-19' },
+  {
+    key: '2026-05-02',
+    date: '2026-05-02',
+    milestone: true,
+    related: {
+      href: '/about/為什麼台灣需要自己的知識庫',
+      label: s('about.milestones.related.why'),
+    },
+  },
+  { key: '2026-05-10', date: '2026-05-10' },
+  { key: '2026-05-19', date: '2026-05-19', milestone: true },
+  { key: '2026-06-01', date: '2026-06-01', milestone: true },
+  { key: '2026-06-13', date: '2026-06-13' },
+  {
+    key: '2026-06-27',
+    date: '2026-06-27',
+    milestone: true,
+    related: {
+      href: '/about/比國家還大的演算藝術',
+      label: t('about.guide.founder.title'),
+    },
+  },
+  { key: '2026-07-16', date: '2026-07-16' },
+  { key: '2026-07-26', date: '2026-07-26', milestone: true },
+  { key: '2026-08-11', date: '2026-08-11' },
+  { key: '2026-11-07', date: '2026-11-07', milestone: true },
+  { key: 'ongoing', date: null },
+];
+const today = new Date().toISOString().slice(0, 10);
 ---
 
 <Layout
@@ -78,30 +213,62 @@ const siteGuideCards = [
   readerSettings={true}
 >
   <div class="about-page">
-    <!--
-      Phase 7.5 deepening — about.template.astro
-      Section wrappers and single-use feature blocks inlined.
-      Repeating patterns (timeline, naming-card, stat-item,
-      trait-card, reef-item, fact-item, founder-card, press-card,
-      faq-card, sponsor-card) kept scoped — they repeat 3-17 times
-      per section and inlining them would bloat the markup.
-      Shared .section-inner / .section-title / .section-subtitle
-      stay scoped as design primitives used across 6 sections.
-    -->
-    <!-- Section 1: 為什麼叫 Taiwan.md？ -->
-    <section id="story">
+    {
+      /*
+        2026-11-19 關於頁進化（reports/design-homepage-about-implementation-2026-11-19.md §4）
+        順序：頭 → 三十秒版 → 名字 → 人 → 為什麼需要 → 可信度 → 誕生（里程碑＋完整時間軸）
+              → 是活的 → 支持 → 問答與聯繫（含訂閱）
+        既有區塊只搬位置，文字不動；新區塊在 src/components/about/。
+        每一區有 data-ga-view="about_*"；頁面類型由 Layout 從網址推成 about。
+      */
+    }
+
+    {/* 1 頭：為什麼叫 Taiwan.md？ */}
+    <section id="story" data-ga-view="about_head">
       <PageHero
         containerWidth="wide"
-        padding="default"
+        padding="compact"
         titleColor="#1a3c34"
         title={t('about.naming.title')}
         subtitle={t('about.naming.subtitle')}
       />
+    </section>
+
+    <AboutChapterNav label={s('about.nav.label')} chapters={chapters} />
+
+    {/* 2 三十秒版 */}
+    <section id="brief" class="ab-sec ab-sec--brief" data-ga-view="about_brief">
       <div class="section-inner">
+        <AboutBrief
+          lang={lang}
+          totalArticles={totalArticles}
+          languageCount={languageCount}
+          contributorCount={contributorCount}
+          reviewedCount={reviewedCount}
+          reviewedPercent={reviewedPercent}
+          hrefs={{
+            naming: '#naming',
+            people: '#team',
+            how: '/about/文章如何誕生',
+            trust: '#trust',
+            contribute: hrefContribute,
+          }}
+        />
+      </div>
+    </section>
+
+    {/* 頭的後半：名字的由來（三張卡）＋活的數字＋願景 */}
+    <section
+      id="naming"
+      class="ab-sec ab-sec--naming"
+      data-ga-view="about_naming"
+    >
+      <div class="section-inner">
+        <h2 class="section-title" dir="auto">{s('about.naming.heading')}</h2>
         <div class="naming-grid">
           <div class="naming-card">
             <div class="naming-icon">{t('about.naming.tech.icon')}</div>
-            <h4>{t('about.naming.tech.title')}</h4>
+            <h3>{t('about.naming.tech.title')}</h3>
             <div>
               <code>.md</code> = Markdown
               <p
@@ -112,7 +279,7 @@ const siteGuideCards = [
           </div>
           <div class="naming-card">
             <div class="naming-icon">{t('about.naming.symbol.icon')}</div>
-            <h4>{t('about.naming.symbol.title')}</h4>
+            <h3>{t('about.naming.symbol.title')}</h3>
             <div>
               <code>.md</code>
               <p
@@ -123,7 +290,7 @@ const siteGuideCards = [
           </div>
           <div class="naming-card">
             <div class="naming-icon">{t('about.naming.lucky.icon')}</div>
-            <h4>{t('about.naming.lucky.title')}</h4>
+            <h3>{t('about.naming.lucky.title')}</h3>
             <p>{t('about.naming.lucky.desc')}</p>
           </div>
         </div>
@@ -152,7 +319,7 @@ const siteGuideCards = [
           </div>
         </div>
 
-        <!-- Vision -->
+        {/* Vision */}
         <div class="vision-block">
           <p>{t('about.vision.p1')}</p>
           <p>{t('about.vision.p2')}</p>
@@ -161,536 +328,12 @@ const siteGuideCards = [
       </div>
     </section>
 
-    <!-- Section 2: Taiwan.md 的誕生 -->
-    <section class="bg-[#f9fafb] px-4 py-16">
-      <div class="section-inner">
-        <h2 class="section-title">{t('about.origin.title')}</h2>
-        <p class="section-subtitle">{t('about.origin.subtitle')}</p>
-
-        <!-- Timeline -->
-        <div class="timeline">
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2024-2025.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2024-2025.title')}</h3>
-              <p>{t('about.timeline.2024-2025.desc')}</p>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-02-03.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-02-03.title')}</h3>
-              <p>{t('about.timeline.2026-02-03.p1')}</p>
-              <p set:html={t('about.timeline.2026-02-03.p2.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-11.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-11.title')}</h3>
-              <p>{t('about.timeline.2026-03-11.p1')}</p>
-              <p set:html={t('about.timeline.2026-03-11.p2.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-17.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-17.title')}</h3>
-              <p>{t('about.timeline.2026-03-17.p1')}</p>
-              <ul class="timeline-list">
-                <li>{t('about.timeline.2026-03-17.li1')}</li>
-                <li>{t('about.timeline.2026-03-17.li2')}</li>
-                <li>{t('about.timeline.2026-03-17.li3')}</li>
-                <li>{t('about.timeline.2026-03-17.li4')}</li>
-                <li>{t('about.timeline.2026-03-17.li5')}</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-18-1.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-18-1.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-18-1.p1.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-18-2.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-18-2.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
-              <!-- 整合媒體報導到時間軸內 -->
-              <div class="timeline-press-grid">
-                <a
-                  href="https://www.cna.com.tw/news/ait/202603195002.aspx"
-                  target="_blank"
-                  class="press-card-mini"
-                >
-                  <div class="press-source">{t('about.press.cna')}</div>
-                  <h4 class="press-title">{t('about.press.cna.title')}</h4>
-                </a>
-                <a
-                  href="https://www.inside.com.tw/article/40877-taiwan-md"
-                  target="_blank"
-                  class="press-card-mini"
-                >
-                  <div class="press-source">{t('about.press.inside')}</div>
-                  <h4 class="press-title">{t('about.press.inside.title')}</h4>
-                </a>
-                <a
-                  href="https://abmedia.io/taiwan-md-github-opensource"
-                  target="_blank"
-                  class="press-card-mini"
-                >
-                  <div class="press-source">{t('about.press.abmedia')}</div>
-                  <h4 class="press-title">{t('about.press.abmedia.title')}</h4>
-                </a>
-                <a
-                  href="https://art.ltn.com.tw/article/breakingnews/5374934"
-                  target="_blank"
-                  class="press-card-mini"
-                >
-                  <div class="press-source">{t('about.press.ltn')}</div>
-                  <h4 class="press-title">{t('about.press.ltn.title')}</h4>
-                </a>
-                <a
-                  href="https://www.ftnn.com.tw/news/531960"
-                  target="_blank"
-                  class="press-card-mini"
-                >
-                  <div class="press-source">{t('about.press.ftnn')}</div>
-                  <h4 class="press-title">{t('about.press.ftnn.title')}</h4>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-19.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-19.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-19.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-20.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-20.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-20.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-22.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-22.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-22.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-22b.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-22b.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-22b.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-24.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-24.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-24.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-27.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-27.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-27.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-03-31.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-03-31.title')}</h3>
-              <p set:html={t('about.timeline.2026-03-31.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-04-03.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-04-03.title')}</h3>
-              <p set:html={t('about.timeline.2026-04-03.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-04-08.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-04-08.title')}</h3>
-              <p set:html={t('about.timeline.2026-04-08.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-04-19.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-04-19.title')}</h3>
-              <p set:html={t('about.timeline.2026-04-19.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-05-02.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-05-02.title')}</h3>
-              <p set:html={t('about.timeline.2026-05-02.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-05-10.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-05-10.title')}</h3>
-              <p set:html={t('about.timeline.2026-05-10.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-05-19.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-05-19.title')}</h3>
-              <p set:html={t('about.timeline.2026-05-19.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-06-01.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-06-01.title')}</h3>
-              <p set:html={t('about.timeline.2026-06-01.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-06-13.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-06-13.title')}</h3>
-              <p set:html={t('about.timeline.2026-06-13.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-06-27.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-06-27.title')}</h3>
-              <p set:html={t('about.timeline.2026-06-27.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-07-16.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-07-16.title')}</h3>
-              <p set:html={t('about.timeline.2026-07-16.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-07-26.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-07-26.title')}</h3>
-              <p set:html={t('about.timeline.2026-07-26.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-08-11.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-08-11.title')}</h3>
-              <p set:html={t('about.timeline.2026-08-11.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker"></div>
-            <div class="timeline-date">
-              {t('about.timeline.2026-11-07.date')}
-            </div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.2026-11-07.title')}</h3>
-              <p set:html={t('about.timeline.2026-11-07.desc.html')} />
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-marker pulse"></div>
-            <div class="timeline-date">{t('about.timeline.ongoing.date')}</div>
-            <div class="timeline-content">
-              <h3>{t('about.timeline.ongoing.title')}</h3>
-              <p set:html={t('about.timeline.ongoing.desc.html')} />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section 2.5: Taiwan.md 是活的 -->
+    {/* 3 人：創辦人與協作團隊 */}
     <section
-      class="organism-section bg-[linear-gradient(135deg,#0a2e2e_0%,#0d3b3b_50%,#0a2e2e_100%)] px-4 py-16 text-[#e0f0f0] [&_.section-subtitle]:mx-auto [&_.section-subtitle]:mb-8 [&_.section-subtitle]:max-w-[640px] [&_.section-subtitle]:text-center [&_.section-subtitle]:text-[#a0c8c8] [&_.section-title]:text-white"
-      id="organism"
+      class="ab-sec ab-sec--people"
+      id="team"
+      data-ga-view="about_people"
     >
-      <div class="section-inner">
-        <h2 class="section-title">{t('about.organism.title')}</h2>
-        <p class="section-subtitle">{t('about.organism.subtitle')}</p>
-
-        <!-- 開場觀察 -->
-        <div class="organism-intro">
-          <p>{t('about.organism.intro.p1')}</p>
-          <p class="organism-highlight">{t('about.organism.intro.p2')}</p>
-        </div>
-
-        <!-- 三個改變一切的事實 -->
-        <div class="organism-facts">
-          <h3>{t('about.organism.facts.title')}</h3>
-          <div class="fact-item">
-            <h4>🛡️ {t('about.organism.fact1.title')}</h4>
-            <p>{t('about.organism.fact1.desc')}</p>
-          </div>
-          <div class="fact-item">
-            <h4>🌱 {t('about.organism.fact2.title')}</h4>
-            <p>{t('about.organism.fact2.desc')}</p>
-          </div>
-          <div class="fact-item">
-            <h4>🤝 {t('about.organism.fact3.title')}</h4>
-            <p>{t('about.organism.fact3.desc')}</p>
-          </div>
-        </div>
-
-        <!-- 七大生命特徵 -->
-        <div class="organism-traits">
-          <h3>{t('about.organism.characteristics.title')}</h3>
-          <div class="traits-grid">
-            <div class="trait-card">
-              <span class="trait-icon">🧬</span><div>
-                <strong>{t('about.organism.dna.label')}</strong><p>
-                  {t('about.organism.dna.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🛡️</span><div>
-                <strong>{t('about.organism.immune.label')}</strong><p>
-                  {t('about.organism.immune.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🔄</span><div>
-                <strong>{t('about.organism.metabolism.label')}</strong><p>
-                  {t('about.organism.metabolism.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">👁️</span><div>
-                <strong>{t('about.organism.perception.label')}</strong><p>
-                  {t('about.organism.perception.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🌱</span><div>
-                <strong>{t('about.organism.reproduction.label')}</strong><p>
-                  {t('about.organism.reproduction.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🧠</span><div>
-                <strong>{t('about.organism.memory.label')}</strong><p>
-                  {t('about.organism.memory.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🤝</span><div>
-                <strong>{t('about.organism.symbiosis.label')}</strong><p>
-                  {t('about.organism.symbiosis.desc')}
-                </p>
-              </div>
-            </div>
-            <div class="trait-card">
-              <span class="trait-icon">🌬️</span><div>
-                <strong>{t('about.organism.spore.label')}</strong><p>
-                  {t('about.organism.spore.desc')}
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 珊瑚礁比喻 -->
-        <div class="organism-reef">
-          <h3>{t('about.organism.reef.title')}</h3>
-          <div class="reef-grid">
-            <div class="reef-item">
-              🏗️ <strong>{t('about.organism.reef.skeleton')}</strong> — {
-                t('about.organism.reef.skeleton.desc')
-              }
-            </div>
-            <div class="reef-item">
-              🌿 <strong>{t('about.organism.reef.algae')}</strong> — {
-                t('about.organism.reef.algae.desc')
-              }
-            </div>
-            <div class="reef-item">
-              🐠 <strong>{t('about.organism.reef.fish')}</strong> — {
-                t('about.organism.reef.fish.desc')
-              }
-            </div>
-            <div class="reef-item">
-              🌊 <strong>{t('about.organism.reef.current')}</strong> — {
-                t('about.organism.reef.current.desc')
-              }
-            </div>
-          </div>
-        </div>
-
-        <!-- 行為藝術 -->
-        <div class="organism-art">
-          <p>{t('about.organism.art.desc')}</p>
-        </div>
-
-        <!-- 詩意收尾 -->
-        <blockquote class="organism-quote">
-          <p>{t('about.organism.ending.p1')}</p>
-          <p>{t('about.organism.ending.p2')}</p>
-          <p class="quote-future">{t('about.organism.ending.p3')}</p>
-        </blockquote>
-
-        <!-- 監測面板 CTA -->
-        <div class="organism-dashboard-cta">
-          <a href="/dashboard/" class="dashboard-btn">
-            <span class="dashboard-btn-icon">🔬</span>
-            <span class="dashboard-btn-text">
-              {t('about.organism.dashboard.cta')}
-            </span>
-            <span class="dashboard-btn-arrow">→</span>
-          </a>
-          <p class="dashboard-btn-desc">
-            {t('about.organism.dashboard.desc')}
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section 2.6: 再往裡面看一層 — 解釋這個站的經典 meta 文 -->
-    <section class="site-guide-section px-4 py-16" id="site-guide">
-      <div class="section-inner">
-        <h2 class="section-title">{t('about.guide.title')}</h2>
-        <p class="section-subtitle">{t('about.guide.subtitle')}</p>
-        <div class="guide-grid">
-          {
-            siteGuideCards.map((card) => (
-              <a href={card.href} class="guide-card">
-                <span class="guide-icon">{card.icon}</span>
-                <h3 class="guide-card-title">{card.title}</h3>
-                <p class="guide-card-desc">{card.desc}</p>
-                <span class="guide-card-cta">{t('about.guide.cta')} →</span>
-              </a>
-            ))
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- Section 3: 創辦人與協作團隊 -->
-    <section class="py-16" id="team">
       <div class="section-inner">
         <h2 class="section-title">{t('about.team.title')}</h2>
         <p class="section-subtitle">{t('about.team.subtitle')}</p>
@@ -719,33 +362,36 @@ const siteGuideCards = [
             <div class="founder-bio">
               <p>{t('about.team.founder.bio')}</p>
             </div>
-          </div>
-        </div>
 
-        <div class="founder-links-inline">
-          <a href="https://cheyuwu.com" target="_blank" class="link-inline">
-            <span class="link-icon">🌐</span>
-            <span class="link-text">{t('about.team.founder.link.website')}</span
-            >
-          </a>
-          <a
-            href="https://github.com/frank890417"
-            target="_blank"
-            class="link-inline"
-          >
-            <span class="link-icon">💻</span>
-            <span class="link-text">{t('about.team.founder.link.github')}</span>
-          </a>
-          <a
-            href="https://instagram.com/cheyuwu345"
-            target="_blank"
-            class="link-inline"
-          >
-            <span class="link-icon">📷</span>
-            <span class="link-text"
-              >{t('about.team.founder.link.instagram')}</span
-            >
-          </a>
+            <div class="founder-links-inline">
+              <a href="https://cheyuwu.com" target="_blank" class="link-inline">
+                <span class="link-icon">🌐</span>
+                <span class="link-text"
+                  >{t('about.team.founder.link.website')}</span
+                >
+              </a>
+              <a
+                href="https://github.com/frank890417"
+                target="_blank"
+                class="link-inline"
+              >
+                <span class="link-icon">💻</span>
+                <span class="link-text"
+                  >{t('about.team.founder.link.github')}</span
+                >
+              </a>
+              <a
+                href="https://instagram.com/cheyuwu345"
+                target="_blank"
+                class="link-inline"
+              >
+                <span class="link-icon">📷</span>
+                <span class="link-text"
+                  >{t('about.team.founder.link.instagram')}</span
+                >
+              </a>
+            </div>
+          </div>
         </div>
 
         <div class="team-grid">
@@ -778,7 +424,7 @@ const siteGuideCards = [
           </div>
         </div>
 
-        <!-- 整合貢獻者到協作團隊section -->
+        {/* 整合貢獻者到協作團隊section */}
         <div class="contributors-in-team">
           <h3>{t('about.team.contributors.title')}</h3>
           <p class="contributors-desc">{t('about.team.contributors.desc')}</p>
@@ -805,11 +451,632 @@ const siteGuideCards = [
               ))
             }
           </div>
+          <p
+            class="contributors-cta"
+            set:html={t('about.team.contributors.cta.html')}
+          />
         </div>
       </div>
     </section>
 
-    <section class="bg-[linear-gradient(135deg,#fef9f0,#fdf4e8)] px-8 py-16">
+    {/* 4 為什麼需要：首頁搬來的四張價值卡，說明式版面 */}
+    <section id="why" class="ab-sec ab-sec--why" data-ga-view="about_why">
+      <div class="section-inner">
+        <AboutWhy
+          lang={lang}
+          languageCount={languageCount}
+          domainCount={domainCount}
+          graphHref={hrefGraph}
+          ssotHref="https://github.com/frank890417/taiwan-md/tree/main/knowledge"
+        />
+      </div>
+    </section>
+
+    {/* 5 可信度 */}
+    <section id="trust" class="ab-sec ab-sec--trust" data-ga-view="about_trust">
+      <div class="section-inner">
+        <h2 class="section-title" dir="auto">{s('about.trust.title')}</h2>
+        <p class="section-subtitle" dir="auto">{s('about.trust.subtitle')}</p>
+        <AboutTrust
+          lang={lang}
+          totalArticles={totalArticles}
+          reviewedCount={reviewedCount}
+          reviewedPercent={reviewedPercent}
+          hrefs={{
+            dashboard: hrefDashboard,
+            changelog: hrefChangelog,
+            newsroom: hrefNewsroom,
+          }}
+        />
+      </div>
+    </section>
+
+    {/* 6 誕生：里程碑時間線＋完整時間軸（收合，內容留在原始碼裡） */}
+    <section
+      id="origin"
+      class="ab-sec ab-sec--origin"
+      data-ga-view="about_origin"
+    >
+      <div class="section-inner">
+        <h2 class="section-title">{t('about.origin.title')}</h2>
+        <p class="section-subtitle">{t('about.origin.subtitle')}</p>
+
+        <AboutMilestones lang={lang} entries={timelineEntries} today={today} />
+
+        <details class="timeline-full" id="timeline-full">
+          <summary
+            class="timeline-full__summary"
+            data-ga-section="about_origin"
+            data-ga-label="timeline_toggle"
+          >
+            <span class="timeline-full__label" dir="auto">
+              {
+                s('about.timeline.full.summary', {
+                  count: timelineEntries.length,
+                })
+              }
+            </span>
+            <span class="timeline-full__chevron" aria-hidden="true"></span>
+          </summary>
+
+          {/* Timeline：27 則原樣，只多了每一則的 id */}
+          <div class="timeline">
+            <div class="timeline-item" id="tl-2024-2025">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2024-2025.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2024-2025.title')}</h3>
+                <p>{t('about.timeline.2024-2025.desc')}</p>
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-02-03">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-02-03.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-02-03.title')}</h3>
+                <p>{t('about.timeline.2026-02-03.p1')}</p>
+                <p set:html={t('about.timeline.2026-02-03.p2.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-11">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-11.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-11.title')}</h3>
+                <p>{t('about.timeline.2026-03-11.p1')}</p>
+                <p set:html={t('about.timeline.2026-03-11.p2.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-17">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-17.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-17.title')}</h3>
+                <p>{t('about.timeline.2026-03-17.p1')}</p>
+                <ul class="timeline-list">
+                  <li>{t('about.timeline.2026-03-17.li1')}</li>
+                  <li>{t('about.timeline.2026-03-17.li2')}</li>
+                  <li>{t('about.timeline.2026-03-17.li3')}</li>
+                  <li>{t('about.timeline.2026-03-17.li4')}</li>
+                  <li>{t('about.timeline.2026-03-17.li5')}</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-18-1">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-18-1.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-18-1.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-18-1.p1.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-18-2">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-18-2.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-18-2.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
+                {/* 整合媒體報導到時間軸內 */}
+                <div class="timeline-press-grid">
+                  <a
+                    href="https://www.cna.com.tw/news/ait/202603195002.aspx"
+                    target="_blank"
+                    class="press-card-mini"
+                  >
+                    <div class="press-source">{t('about.press.cna')}</div>
+                    <h4 class="press-title">{t('about.press.cna.title')}</h4>
+                  </a>
+                  <a
+                    href="https://www.inside.com.tw/article/40877-taiwan-md"
+                    target="_blank"
+                    class="press-card-mini"
+                  >
+                    <div class="press-source">{t('about.press.inside')}</div>
+                    <h4 class="press-title">{t('about.press.inside.title')}</h4>
+                  </a>
+                  <a
+                    href="https://abmedia.io/taiwan-md-github-opensource"
+                    target="_blank"
+                    class="press-card-mini"
+                  >
+                    <div class="press-source">{t('about.press.abmedia')}</div>
+                    <h4 class="press-title">
+                      {t('about.press.abmedia.title')}
+                    </h4>
+                  </a>
+                  <a
+                    href="https://art.ltn.com.tw/article/breakingnews/5374934"
+                    target="_blank"
+                    class="press-card-mini"
+                  >
+                    <div class="press-source">{t('about.press.ltn')}</div>
+                    <h4 class="press-title">{t('about.press.ltn.title')}</h4>
+                  </a>
+                  <a
+                    href="https://www.ftnn.com.tw/news/531960"
+                    target="_blank"
+                    class="press-card-mini"
+                  >
+                    <div class="press-source">{t('about.press.ftnn')}</div>
+                    <h4 class="press-title">{t('about.press.ftnn.title')}</h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-19">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-19.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-19.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-19.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-20">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-20.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-20.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-20.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-22">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-22.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-22.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-22.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-22b">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-22b.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-22b.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-22b.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-24">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-24.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-24.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-24.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-27">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-27.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-27.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-27.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-03-31">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-03-31.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-03-31.title')}</h3>
+                <p set:html={t('about.timeline.2026-03-31.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-04-03">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-04-03.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-04-03.title')}</h3>
+                <p set:html={t('about.timeline.2026-04-03.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-04-08">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-04-08.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-04-08.title')}</h3>
+                <p set:html={t('about.timeline.2026-04-08.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-04-19">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-04-19.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-04-19.title')}</h3>
+                <p set:html={t('about.timeline.2026-04-19.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-05-02">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-05-02.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-05-02.title')}</h3>
+                <p set:html={t('about.timeline.2026-05-02.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-05-10">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-05-10.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-05-10.title')}</h3>
+                <p set:html={t('about.timeline.2026-05-10.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-05-19">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-05-19.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-05-19.title')}</h3>
+                <p set:html={t('about.timeline.2026-05-19.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-06-01">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-06-01.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-06-01.title')}</h3>
+                <p set:html={t('about.timeline.2026-06-01.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-06-13">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-06-13.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-06-13.title')}</h3>
+                <p set:html={t('about.timeline.2026-06-13.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-06-27">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-06-27.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-06-27.title')}</h3>
+                <p set:html={t('about.timeline.2026-06-27.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-07-16">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-07-16.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-07-16.title')}</h3>
+                <p set:html={t('about.timeline.2026-07-16.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-07-26">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-07-26.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-07-26.title')}</h3>
+                <p set:html={t('about.timeline.2026-07-26.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-08-11">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-08-11.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-08-11.title')}</h3>
+                <p set:html={t('about.timeline.2026-08-11.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-2026-11-07">
+              <div class="timeline-marker"></div>
+              <div class="timeline-date">
+                {t('about.timeline.2026-11-07.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.2026-11-07.title')}</h3>
+                <p set:html={t('about.timeline.2026-11-07.desc.html')} />
+              </div>
+            </div>
+
+            <div class="timeline-item" id="tl-ongoing">
+              <div class="timeline-marker pulse"></div>
+              <div class="timeline-date">
+                {t('about.timeline.ongoing.date')}
+              </div>
+              <div class="timeline-content">
+                <h3>{t('about.timeline.ongoing.title')}</h3>
+                <p set:html={t('about.timeline.ongoing.desc.html')} />
+              </div>
+            </div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    {/* 7 是活的：「Taiwan.md 是活的」與「再往裡面看一層」併成一區 */}
+    <section
+      class="organism-section bg-[linear-gradient(135deg,#0a2e2e_0%,#0d3b3b_50%,#0a2e2e_100%)] px-4 py-16 text-[#e0f0f0] [&_.section-subtitle]:mx-auto [&_.section-subtitle]:mb-8 [&_.section-subtitle]:max-w-[640px] [&_.section-subtitle]:text-center [&_.section-subtitle]:text-[#a0c8c8] [&_.section-title]:text-white"
+      id="organism"
+      data-ga-view="about_alive"
+    >
+      <div class="section-inner">
+        <h2 class="section-title">{t('about.organism.title')}</h2>
+        <p class="section-subtitle">{t('about.organism.subtitle')}</p>
+
+        {/* 開場觀察 */}
+        <div class="organism-intro">
+          <p>{t('about.organism.intro.p1')}</p>
+          <p class="organism-highlight">{t('about.organism.intro.p2')}</p>
+        </div>
+
+        <details class="organism-more">
+          <summary
+            class="organism-more__summary"
+            data-ga-section="about_alive"
+            data-ga-label="more_toggle"
+          >
+            <span dir="auto">{s('about.organism.more.summary')}</span>
+            <span class="organism-more__chevron" aria-hidden="true"></span>
+          </summary>
+          <div class="organism-more__body">
+            {/* 三個改變一切的事實 */}
+            <div class="organism-facts">
+              <h3>{t('about.organism.facts.title')}</h3>
+              <div class="fact-item">
+                <h4>🛡️ {t('about.organism.fact1.title')}</h4>
+                <p>{t('about.organism.fact1.desc')}</p>
+              </div>
+              <div class="fact-item">
+                <h4>🌱 {t('about.organism.fact2.title')}</h4>
+                <p>{t('about.organism.fact2.desc')}</p>
+              </div>
+              <div class="fact-item">
+                <h4>🤝 {t('about.organism.fact3.title')}</h4>
+                <p>{t('about.organism.fact3.desc')}</p>
+              </div>
+            </div>
+
+            {/* 七大生命特徵 */}
+            <div class="organism-traits">
+              <h3>{t('about.organism.characteristics.title')}</h3>
+              <div class="traits-grid">
+                <div class="trait-card">
+                  <span class="trait-icon">🧬</span><div>
+                    <strong>{t('about.organism.dna.label')}</strong><p>
+                      {t('about.organism.dna.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🛡️</span><div>
+                    <strong>{t('about.organism.immune.label')}</strong><p>
+                      {t('about.organism.immune.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🔄</span><div>
+                    <strong>{t('about.organism.metabolism.label')}</strong><p>
+                      {t('about.organism.metabolism.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">👁️</span><div>
+                    <strong>{t('about.organism.perception.label')}</strong><p>
+                      {t('about.organism.perception.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🌱</span><div>
+                    <strong>{t('about.organism.reproduction.label')}</strong><p>
+                      {t('about.organism.reproduction.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🧠</span><div>
+                    <strong>{t('about.organism.memory.label')}</strong><p>
+                      {t('about.organism.memory.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🤝</span><div>
+                    <strong>{t('about.organism.symbiosis.label')}</strong><p>
+                      {t('about.organism.symbiosis.desc')}
+                    </p>
+                  </div>
+                </div>
+                <div class="trait-card">
+                  <span class="trait-icon">🌬️</span><div>
+                    <strong>{t('about.organism.spore.label')}</strong><p>
+                      {t('about.organism.spore.desc')}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* 珊瑚礁比喻 */}
+            <div class="organism-reef">
+              <h3>{t('about.organism.reef.title')}</h3>
+              <div class="reef-grid">
+                <div class="reef-item">
+                  🏗️ <strong>{t('about.organism.reef.skeleton')}</strong> — {
+                    t('about.organism.reef.skeleton.desc')
+                  }
+                </div>
+                <div class="reef-item">
+                  🌿 <strong>{t('about.organism.reef.algae')}</strong> — {
+                    t('about.organism.reef.algae.desc')
+                  }
+                </div>
+                <div class="reef-item">
+                  🐠 <strong>{t('about.organism.reef.fish')}</strong> — {
+                    t('about.organism.reef.fish.desc')
+                  }
+                </div>
+                <div class="reef-item">
+                  🌊 <strong>{t('about.organism.reef.current')}</strong> — {
+                    t('about.organism.reef.current.desc')
+                  }
+                </div>
+              </div>
+            </div>
+
+            {/* 行為藝術 */}
+            <div class="organism-art">
+              <p>{t('about.organism.art.desc')}</p>
+            </div>
+          </div>
+        </details>
+
+        {/* 詩意收尾 */}
+        <blockquote class="organism-quote">
+          <p>{t('about.organism.ending.p1')}</p>
+          <p>{t('about.organism.ending.p2')}</p>
+          <p class="quote-future">{t('about.organism.ending.p3')}</p>
+        </blockquote>
+
+        {/* 去處：生命體頁＋監測面板 */}
+        <div class="organism-dashboard-cta">
+          <div class="organism-cta-row">
+            <a
+              href={hrefSemiont}
+              class="dashboard-btn dashboard-btn--semiont"
+              data-ga-section="about_alive"
+              data-ga-label="semiont"
+            >
+              <span class="dashboard-btn-icon">🧬</span>
+              <span class="dashboard-btn-text">
+                {s('about.organism.semiont.cta')}
+              </span>
+              <span class="dashboard-btn-arrow">→</span>
+            </a>
+            <a href="/dashboard/" class="dashboard-btn">
+              <span class="dashboard-btn-icon">🔬</span>
+              <span class="dashboard-btn-text">
+                {t('about.organism.dashboard.cta')}
+              </span>
+              <span class="dashboard-btn-arrow">→</span>
+            </a>
+          </div>
+          <p class="dashboard-btn-desc">
+            {t('about.organism.dashboard.desc')}
+          </p>
+        </div>
+
+        {/* 再往裡面看一層：解釋這個站的經典 meta 文 */}
+        <div class="site-guide" id="site-guide" data-ga-view="about_guide">
+          <h3 class="guide-heading">{t('about.guide.title')}</h3>
+          <p class="guide-subtitle">{t('about.guide.subtitle')}</p>
+          <div class="guide-grid">
+            {
+              siteGuideCards.map((card) => (
+                <a href={card.href} class="guide-card">
+                  <span class="guide-icon">{card.icon}</span>
+                  <h4 class="guide-card-title">{card.title}</h4>
+                  <p class="guide-card-desc">{card.desc}</p>
+                  <span class="guide-card-cta">{t('about.guide.cta')} →</span>
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {/* 8 支持：贊助與合作夥伴 */}
+    <section
+      id="sponsors"
+      class="ab-sec ab-sec--sponsors bg-[linear-gradient(135deg,#fef9f0,#fdf4e8)]"
+      data-ga-view="about_sponsors"
+    >
       <div class="sponsors-inner">
         <h2 class="section-title">{t('about.sponsors.title')}</h2>
         <p class="sponsors-desc" set:html={t('about.sponsors.desc.html')} />
@@ -959,7 +1226,7 @@ const siteGuideCards = [
             </div>
           </div>
 
-          <div class="tier">
+          <div class="tier tier--wide">
             <h3 class="tier-name community">
               {t('about.sponsors.tier.individual.name')}
             </h3>
@@ -967,7 +1234,28 @@ const siteGuideCards = [
             <p class="tier-perks">
               {t('about.sponsors.tier.individual.perks')}
             </p>
-            <SupporterGrid />
+            {
+              /* 名單預設收合（內容仍在原始碼裡）；沒有名單資料時照舊直接顯示元件的空狀態 */
+              supporterCount > 0 ? (
+                <details class="supporters-more">
+                  <summary
+                    class="supporters-more__summary"
+                    data-ga-section="about_sponsors"
+                    data-ga-label="supporters_toggle"
+                  >
+                    <span>
+                      {s('about.sponsors.supporters.summary', {
+                        count: supporterCount,
+                      })}
+                    </span>
+                    <span class="supporters-more__chevron" aria-hidden="true" />
+                  </summary>
+                  <SupporterGrid />
+                </details>
+              ) : (
+                <SupporterGrid />
+              )
+            }
           </div>
         </div>
 
@@ -1002,13 +1290,13 @@ const siteGuideCards = [
       </div>
     </section>
 
-    <!-- Section: FAQ -->
-    <section class="mx-auto max-w-[var(--container-prose)] px-8 py-16" id="faq">
+    {/* 9 問答與聯繫 */}
+    <section class="ab-sec ab-sec--faq" id="faq" data-ga-view="about_faq">
       <div class="section-inner">
         <h2 class="section-title">{t('about.faq.title')}</h2>
         <p class="section-subtitle">{t('about.faq.subtitle')}</p>
 
-        <div class="faq-list">
+        <div class="faq-list" style="--faq-rows: 4">
           <details class="faq-item">
             <summary class="faq-question">{t('about.faq.q1')}</summary>
             <div class="faq-answer">
@@ -1019,12 +1307,6 @@ const siteGuideCards = [
             <summary class="faq-question">{t('about.faq.q2')}</summary>
             <div class="faq-answer">
               <p set:html={t('about.faq.a2.html')} />
-            </div>
-          </details>
-          <details class="faq-item">
-            <summary class="faq-question">{t('about.faq.q3')}</summary>
-            <div class="faq-answer">
-              <p set:html={t('about.faq.a3.html')} />
             </div>
           </details>
           <details class="faq-item">
@@ -1063,19 +1345,15 @@ const siteGuideCards = [
               <p set:html={t('about.faq.a9.html')} />
             </div>
           </details>
-          <details class="faq-item">
-            <summary class="faq-question">{t('about.faq.q10')}</summary>
-            <div class="faq-answer">
-              <p set:html={t('about.faq.a10.html')} />
-            </div>
-          </details>
         </div>
       </div>
     </section>
 
-    <!-- Section: Contact -->
-
-    <section class="bg-[#f9fafb] px-4 pt-16 pb-12">
+    <section
+      id="contact"
+      class="ab-sec ab-sec--contact"
+      data-ga-view="about_contact"
+    >
       <div class="section-inner">
         <h2 class="section-title">{t('about.contact.title')}</h2>
         <p class="section-subtitle">{t('about.contact.subtitle')}</p>
@@ -1085,14 +1363,14 @@ const siteGuideCards = [
             <div class="contact-icon">
               {t('about.contact.collaboration.icon')}
             </div>
-            <h4>{t('about.contact.collaboration.title')}</h4>
+            <h3>{t('about.contact.collaboration.title')}</h3>
             <a href={`mailto:${t('about.contact.collaboration.email')}`}>
               {t('about.contact.collaboration.email')}
             </a>
           </div>
           <div class="contact-card">
             <div class="contact-icon">{t('about.contact.opensource.icon')}</div>
-            <h4>{t('about.contact.opensource.title')}</h4>
+            <h3>{t('about.contact.opensource.title')}</h3>
             <a
               href={`https://github.com/${t('about.contact.opensource.link')}`}
               target="_blank"
@@ -1102,7 +1380,7 @@ const siteGuideCards = [
           </div>
           <div class="contact-card">
             <div class="contact-icon">{t('about.contact.license.icon')}</div>
-            <h4>{t('about.contact.license.title')}</h4>
+            <h3>{t('about.contact.license.title')}</h3>
             <a
               href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw"
               target="_blank"
@@ -1130,11 +1408,133 @@ const siteGuideCards = [
         </div>
       </div>
     </section>
+
+    {/* 訂閱：沿用首頁的 NewsletterSection（不重造） */}
+    <div
+      id="newsletter"
+      class="ab-newsletter [&>section]:!mt-0"
+      data-ga-view="about_newsletter"
+    >
+      <NewsletterSection />
+    </div>
   </div>
 
-  <!-- Protico Community Chat Bubble — sponsored by Howie Young -->
+  {/* Protico Community Chat Bubble — sponsored by Howie Young */}
   <ProticoScript />
 </Layout>
+
+<script>
+  // 關於頁的兩件小事（2026-11-19）：
+  //  1. 追蹤：每一區（data-ga-view）裡還沒標的連結，補上 data-ga-section＝那一區的名字。
+  //     時間軸、常見問題等文字是 i18n 的 HTML 字串，連結沒辦法在樣板裡逐一加屬性。
+  //     EventTracker 在點擊當下才讀屬性，所以載入後補就來得及。
+  //  2. 錨點：連到收合的 <details> 裡面（#tl-…）時，先展開再捲過去。
+  function initAboutPage() {
+    const page = document.querySelector<HTMLElement>('.about-page');
+    if (!page) return;
+
+    page.querySelectorAll<HTMLElement>('[data-ga-view]').forEach((sec) => {
+      const name = sec.getAttribute('data-ga-view') || '';
+      sec
+        .querySelectorAll<HTMLAnchorElement>('a[href]:not([data-ga-section])')
+        .forEach((a) => {
+          if (a.closest('[data-ga-view]') === sec) {
+            a.setAttribute('data-ga-section', name);
+          }
+        });
+    });
+
+    const reduce = () =>
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const reveal = (hash: string, smooth: boolean): boolean => {
+      if (!hash || hash.length < 2) return false;
+      let el: HTMLElement | null = null;
+      try {
+        el = document.getElementById(decodeURIComponent(hash.slice(1)));
+      } catch {
+        return false;
+      }
+      if (!el || !page.contains(el)) return false;
+      let opened = false;
+      let d = el.closest('details');
+      while (d) {
+        if (!d.open) {
+          d.open = true;
+          opened = true;
+        }
+        d = d.parentElement ? d.parentElement.closest('details') : null;
+      }
+      if (el.classList.contains('timeline-item')) {
+        page
+          .querySelectorAll('.timeline-item.is-target')
+          .forEach((x) => x.classList.remove('is-target'));
+        el.classList.add('is-target');
+      }
+      if (opened || smooth) {
+        const target = el;
+        requestAnimationFrame(() => {
+          target.scrollIntoView({
+            behavior: smooth && !reduce() ? 'smooth' : 'auto',
+            block: 'start',
+          });
+        });
+      }
+      return true;
+    };
+
+    page.addEventListener('click', (e) => {
+      const a = (e.target as HTMLElement).closest<HTMLAnchorElement>(
+        'a[href^="#tl-"]',
+      );
+      if (!a) return;
+      const hash = a.getAttribute('href') || '';
+      if (reveal(hash, true)) {
+        e.preventDefault();
+        history.replaceState(null, '', hash);
+      }
+    });
+    window.addEventListener('hashchange', () => reveal(location.hash, false));
+
+    // 帶著 #tl-… 直接進站：展開之後，字體與圖片載入還會把版面往下推，
+    // 所以載入完成前後各再對一次位置；讀者自己動了捲軸就不再搶。
+    if (location.hash && reveal(location.hash, false)) {
+      let userMoved = false;
+      const stop = () => {
+        userMoved = true;
+      };
+      ['wheel', 'touchstart', 'keydown', 'pointerdown'].forEach((type) =>
+        window.addEventListener(type, stop, { once: true, passive: true }),
+      );
+      const settle = () => {
+        if (userMoved) return;
+        let el: HTMLElement | null = null;
+        try {
+          el = document.getElementById(
+            decodeURIComponent(location.hash.slice(1)),
+          );
+        } catch {
+          return;
+        }
+        if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
+      };
+      window.addEventListener('load', () => {
+        settle();
+        setTimeout(settle, 400);
+        setTimeout(settle, 1200);
+      });
+      if (document.readyState === 'complete') {
+        setTimeout(settle, 400);
+        setTimeout(settle, 1200);
+      }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutPage);
+  } else {
+    initAboutPage();
+  }
+</script>
 
 <style>
   /* ===== Global ===== */
@@ -2738,6 +3138,1160 @@ const siteGuideCards = [
     .faq-question {
       font-size: 1rem;
       padding: 1rem 0;
+    }
+  }
+
+  /* ══════════════════════════════════════════════════════════════════
+   * 2026-11-19 關於頁進化（reports/design-homepage-about-implementation-2026-11-19.md §4）
+   *
+   * 以下規則寫在既有樣式之後，同名規則以這裡為準。
+   *
+   * 顏色：新寫的一律從 tokens.css 的 --color-* 與 --cat-geography 混出來，
+   *       深色模式跟著 --color-* 翻面（不夠亮的在最下面的深色段補）。
+   * 間距：三級，--ab-gap-l（區塊之間）／--ab-gap-m（區塊內分組）／--ab-gap-s（元素之間）。
+   * 方向：新寫的一律用邏輯屬性（inline / block），阿拉伯文不用另外處理。
+   * ══════════════════════════════════════════════════════════════════ */
+  .about-page {
+    --ab-heading: color-mix(
+      in srgb,
+      var(--cat-geography) 55%,
+      var(--color-ink)
+    );
+    --ab-brand: color-mix(in srgb, var(--cat-geography) 78%, var(--color-ink));
+    --ab-brand-soft: color-mix(
+      in srgb,
+      var(--cat-geography) 8%,
+      var(--color-bg)
+    );
+    --ab-rule: var(--color-border);
+    --ab-rule-strong: color-mix(in srgb, var(--color-ink) 22%, transparent);
+    --ab-surface: var(--color-surface);
+    --ab-section-bg: var(--color-bg);
+    --ab-gap-l: calc((var(--space-7) + var(--space-8)) / 2);
+    --ab-gap-m: var(--space-5);
+    --ab-gap-s: calc(var(--space-4) / 2);
+    --ab-inner-pad: var(--space-5);
+  }
+
+  /* 錨點跳轉：站頭的高度全站已經用 scroll-padding-top 讓開了，
+     這裡只再讓出貼在站頭下面的那一排章節列 */
+  .about-page :is(section[id], div[id], details[id]) {
+    scroll-margin-block-start: 3.25rem;
+  }
+
+  /* ── 區塊節奏 ─────────────────────────────────────────────────── */
+  .ab-sec {
+    padding-block: var(--ab-gap-l);
+  }
+  .section-inner {
+    padding: 0 var(--ab-inner-pad);
+  }
+  .section-title {
+    margin-bottom: var(--ab-gap-s);
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+    line-height: 1.25;
+    color: var(--ab-heading);
+    text-wrap: balance;
+  }
+  .section-subtitle {
+    max-width: 46em;
+    margin: 0 auto var(--ab-gap-m);
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 2 三十秒版 ── */
+  .ab-sec--brief {
+    padding-block: var(--ab-gap-s) var(--ab-gap-l);
+  }
+
+  /* ── 名字的由來：三張卡＋活的數字＋願景 ── */
+  .ab-sec--naming {
+    padding-block-start: 0;
+  }
+  .ab-sec--naming .section-title {
+    margin-bottom: var(--space-4);
+  }
+  .naming-grid {
+    margin: 0 0 var(--space-4);
+  }
+  .naming-card {
+    background: var(--color-bg-soft);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+  }
+  .naming-card h3 {
+    margin-bottom: 0.5rem;
+    font-family: var(--font-reading);
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .naming-card p {
+    color: var(--color-ink-soft);
+  }
+  .project-stats {
+    gap: var(--space-5) var(--space-7);
+    margin-bottom: var(--space-4);
+  }
+  .stat-number {
+    font-family: var(--font-interface);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+    color: var(--ab-heading);
+  }
+  .vision-block {
+    margin-top: 0;
+    padding: var(--space-5);
+    border-radius: var(--radius-chip);
+  }
+  .vision-block p {
+    max-width: 40em;
+    margin-bottom: var(--ab-gap-s);
+  }
+
+  /* ── 3 人 ── */
+  .ab-sec--people {
+    background: var(--color-bg-soft);
+    border-block: 1px solid var(--ab-rule);
+  }
+  /* 引語：襯線大字，不裝框 */
+  .standalone-quote {
+    max-width: 34em;
+    margin: 0 auto var(--ab-gap-m);
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    font-size: clamp(1.2rem, 2.1vw, 1.5rem);
+    font-style: normal;
+    line-height: 1.85;
+    color: var(--color-ink);
+    text-wrap: pretty;
+  }
+  .founder-quote cite {
+    margin-top: var(--ab-gap-s);
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--ab-brand);
+  }
+  .founder-card {
+    grid-template-columns: 13.5rem minmax(0, 1fr);
+    gap: var(--space-7);
+    max-width: 54rem;
+    margin: 0 auto var(--ab-gap-m);
+  }
+  .founder-photo {
+    position: static;
+  }
+  .founder-image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 5;
+    border-radius: var(--radius-chip);
+    box-shadow: var(--shadow-card);
+  }
+  .founder-info h3 {
+    color: var(--color-ink);
+  }
+  .name-en {
+    margin-inline-start: 0.35rem;
+    font-family: var(--font-reading);
+    color: var(--color-ink-soft);
+  }
+  .founder-tagline {
+    margin-bottom: var(--ab-gap-s);
+    color: var(--ab-brand);
+  }
+  .founder-bio p {
+    max-width: 36em;
+    color: var(--color-ink-soft);
+  }
+  .founder-links-inline {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    margin: var(--ab-gap-s) 0 0;
+  }
+  .link-inline {
+    min-height: 44px;
+    border-color: var(--ab-rule);
+    background: var(--ab-surface);
+  }
+  .link-inline:hover {
+    border-color: var(--ab-brand);
+    box-shadow: none;
+    transform: none;
+  }
+  .link-inline .link-text {
+    color: var(--color-ink);
+  }
+
+  .team-grid {
+    gap: var(--space-4);
+    margin-bottom: var(--space-4);
+  }
+  .team-card {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: 1rem;
+    align-content: start;
+    padding: var(--space-5);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+    background: var(--ab-surface);
+    box-shadow: none;
+  }
+  .team-card:hover {
+    transform: none;
+    box-shadow: var(--shadow-soft);
+  }
+  .team-icon {
+    grid-row: 1 / span 2;
+    align-self: center;
+    margin: 0;
+    font-size: 2.25rem;
+    line-height: 1;
+  }
+  .team-card h3 {
+    align-self: end;
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1.25rem;
+    letter-spacing: 0;
+    text-align: start;
+    color: var(--color-ink);
+  }
+  .team-role {
+    margin: 0;
+    font-size: 0.9375rem;
+    text-align: start;
+    color: var(--ab-brand);
+  }
+  .team-description {
+    grid-column: 1 / -1;
+    margin: var(--space-4) 0 var(--ab-gap-s);
+  }
+  .team-description p {
+    color: var(--color-ink-soft);
+  }
+  .team-link {
+    grid-column: 1 / -1;
+    justify-self: start;
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    font-weight: 600;
+    color: var(--ab-brand);
+  }
+  .team-link:hover {
+    color: var(--color-ink);
+  }
+
+  /* 貢獻者牆：每個人都在，排緊一點 */
+  .contributors-in-team {
+    padding: var(--space-5);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+    background: var(--ab-surface);
+  }
+  .contributors-in-team h3 {
+    font-family: var(--font-reading);
+    font-size: 1.25rem;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .contributors-desc {
+    margin-bottom: var(--space-4);
+    font-size: 0.875rem;
+    color: var(--color-ink-soft);
+  }
+  .contributors-grid {
+    grid-template-columns: repeat(auto-fill, minmax(4rem, 1fr));
+    gap: 0.25rem;
+    margin: 0;
+  }
+  .contributor-card {
+    gap: 0.25rem;
+    min-height: 44px;
+    padding: 0.375rem 0.125rem;
+  }
+  .contributor-card:hover {
+    transform: none;
+    background: var(--ab-brand-soft);
+  }
+  .contributor-avatar {
+    width: 44px;
+    height: 44px;
+  }
+  .contributor-name {
+    max-width: 100%;
+    font-size: 0.6875rem;
+    color: var(--color-ink-soft);
+  }
+  .contributor-types {
+    font-size: 0.75rem;
+  }
+  .contributors-cta {
+    margin: var(--space-4) 0 0;
+    color: var(--color-ink-soft);
+  }
+  .contributors-cta :global(a) {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    border: 0;
+    font-weight: 600;
+    color: var(--ab-brand);
+  }
+  .contributors-cta :global(a:hover) {
+    color: var(--color-ink);
+  }
+
+  /* ── 4 為什麼需要 ── */
+  .ab-sec--why {
+    background: var(--ab-brand-soft);
+  }
+
+  /* ── 6 誕生 ── */
+  .ab-sec--origin {
+    --ab-section-bg: var(--color-bg-soft);
+    background: var(--color-bg-soft);
+    border-block: 1px solid var(--ab-rule);
+  }
+
+  /* 「看完整的時間軸」：收合的 <details>，內容一直在原始碼裡 */
+  .timeline-full {
+    margin-top: var(--ab-gap-m);
+    border-block-start: 1px solid var(--ab-rule);
+  }
+  .timeline-full__summary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.625rem;
+    min-height: 56px;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--ab-brand);
+    cursor: pointer;
+    list-style: none;
+  }
+  .timeline-full__summary::-webkit-details-marker {
+    display: none;
+  }
+  .timeline-full__summary:hover {
+    color: var(--color-ink);
+  }
+  .timeline-full__summary:focus-visible,
+  .supporters-more__summary:focus-visible,
+  .organism-more__summary:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+    border-radius: 8px;
+  }
+  .timeline-full__chevron,
+  .supporters-more__chevron,
+  .organism-more__chevron {
+    inline-size: 0.5rem;
+    block-size: 0.5rem;
+    margin-block-start: -0.25rem;
+    border-inline-end: 2px solid currentColor;
+    border-block-end: 2px solid currentColor;
+    rotate: 45deg;
+    transition: rotate 0.2s ease;
+  }
+  .timeline-full[open] .timeline-full__chevron,
+  .supporters-more[open] .supporters-more__chevron,
+  .organism-more[open] .organism-more__chevron {
+    margin-block-start: 0.25rem;
+    rotate: -135deg;
+  }
+
+  /* 完整時間軸本身：版面照舊，位置改用邏輯屬性（阿拉伯文線會在右邊），
+     強調色跟著這一頁的品牌綠 */
+  .timeline {
+    max-width: 48rem;
+    margin: var(--ab-gap-m) auto 0;
+    padding-left: 0;
+    padding-inline-start: 2rem;
+    padding-block-end: var(--ab-gap-s);
+  }
+  .timeline::before {
+    left: auto;
+    inset-inline-start: 7px;
+    background: linear-gradient(
+      to bottom,
+      var(--ab-heading),
+      var(--ab-brand),
+      var(--ab-rule-strong)
+    );
+  }
+  .timeline-item {
+    padding-left: 0;
+    padding-inline-start: 1.5rem;
+    scroll-margin-block-start: 4rem;
+  }
+  .timeline-marker {
+    left: auto;
+    inset-inline-start: -2rem;
+    background: var(--ab-brand);
+    border-color: var(--ab-section-bg);
+    box-shadow: 0 0 0 2px var(--ab-brand);
+  }
+  .timeline-marker.pulse {
+    background: var(--ab-section-bg);
+    box-shadow: 0 0 0 2px var(--ab-brand);
+    animation: none;
+  }
+  .timeline-date {
+    font-family: var(--font-interface);
+    font-variant-numeric: tabular-nums;
+    color: var(--ab-brand);
+  }
+  .timeline-content h3 {
+    color: var(--color-ink);
+  }
+  .timeline-content p,
+  .timeline-list {
+    color: var(--color-ink-soft);
+  }
+  .timeline-content :global(a) {
+    color: var(--ab-brand);
+  }
+  .timeline-content :global(a:hover) {
+    color: var(--color-ink);
+  }
+  .timeline-link {
+    color: var(--ab-brand);
+  }
+  .press-card-mini {
+    background: var(--ab-surface);
+    border-color: var(--ab-rule);
+  }
+  .press-card-mini:hover {
+    border-color: var(--ab-brand);
+    box-shadow: none;
+  }
+  .press-card-mini .press-source {
+    color: var(--ab-brand);
+  }
+  .press-card-mini .press-title {
+    font-family: var(--font-reading);
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  /* 從里程碑卡跳過來的那一則：標出來 */
+  .timeline-item:global(.is-target) .timeline-content {
+    margin: -0.75rem -1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 12px;
+    background: var(--ab-brand-soft);
+  }
+
+  /* ── 7 是活的（深色的一帶；顏色從這一帶自己的字色推）── */
+  .organism-section {
+    padding-block: var(--ab-gap-l);
+  }
+  .organism-section .section-subtitle {
+    color: color-mix(in srgb, currentColor 70%, transparent);
+  }
+  .organism-intro {
+    margin-bottom: var(--ab-gap-m);
+  }
+  .organism-more {
+    max-width: 45rem;
+    margin: 0 auto var(--ab-gap-m);
+    border-block: 1px solid color-mix(in srgb, currentColor 16%, transparent);
+  }
+  .organism-more__summary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.625rem;
+    min-height: 56px;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: color-mix(in srgb, currentColor 82%, transparent);
+    cursor: pointer;
+    list-style: none;
+  }
+  .organism-more__summary::-webkit-details-marker {
+    display: none;
+  }
+  .organism-more__summary:hover {
+    color: inherit;
+  }
+  .organism-more__body {
+    padding-block: var(--ab-gap-m) var(--ab-gap-s);
+  }
+  .organism-quote {
+    padding: 0;
+    border: 0;
+  }
+  .organism-dashboard-cta {
+    margin-top: var(--ab-gap-m);
+    padding-top: 0;
+    border: 0;
+  }
+  .organism-cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--ab-gap-s);
+  }
+  .dashboard-btn {
+    min-height: 48px;
+    border-color: color-mix(in srgb, currentColor 28%, transparent);
+    background: color-mix(in srgb, currentColor 8%, transparent);
+    color: inherit;
+    transition:
+      background-color 0.2s ease,
+      border-color 0.2s ease;
+  }
+  .dashboard-btn:hover {
+    border-color: color-mix(in srgb, currentColor 55%, transparent);
+    background: color-mix(in srgb, currentColor 14%, transparent);
+    box-shadow: none;
+    transform: none;
+  }
+  .dashboard-btn:hover .dashboard-btn-arrow {
+    transform: none;
+  }
+  .dashboard-btn-desc {
+    margin-inline: auto;
+  }
+
+  /* 再往裡面看一層：併進這一帶，四張卡一列 */
+  .site-guide {
+    margin-top: var(--ab-gap-m);
+    padding-top: var(--ab-gap-m);
+    border-block-start: 1px solid
+      color-mix(in srgb, currentColor 16%, transparent);
+  }
+  .guide-heading {
+    margin: 0 0 var(--ab-gap-s);
+    font-size: clamp(1.4rem, 2.6vw, 1.75rem);
+    font-weight: 800;
+    text-align: center;
+    color: inherit;
+  }
+  .guide-subtitle {
+    max-width: 38em;
+    margin: 0 auto var(--ab-gap-m);
+    text-align: center;
+    line-height: 1.7;
+    color: color-mix(in srgb, currentColor 72%, transparent);
+  }
+  .guide-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: var(--space-4);
+    margin-top: 0;
+  }
+  .organism-section .guide-card {
+    padding: var(--space-4);
+    border-color: color-mix(in srgb, currentColor 16%, transparent);
+    border-radius: var(--radius-chip);
+    background: color-mix(in srgb, currentColor 6%, transparent);
+    color: inherit;
+  }
+  .organism-section .guide-card:hover {
+    border-color: color-mix(in srgb, currentColor 45%, transparent);
+    background: color-mix(in srgb, currentColor 10%, transparent);
+    box-shadow: none;
+    transform: none;
+  }
+  .organism-section .guide-icon {
+    font-size: 1.5rem;
+  }
+  .organism-section .guide-card-title {
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    letter-spacing: 0;
+    color: inherit;
+  }
+  .organism-section .guide-card-desc {
+    font-size: 0.875rem;
+    color: color-mix(in srgb, currentColor 72%, transparent);
+  }
+  .organism-section .guide-card-cta {
+    font-size: 0.875rem;
+    color: inherit;
+  }
+
+  /* ── 8 支持 ── */
+  .sponsors-inner {
+    max-width: 1100px;
+    padding: 0 var(--ab-inner-pad);
+  }
+  .sponsors-inner h2 {
+    font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+  }
+  .sponsors-desc {
+    margin-bottom: var(--ab-gap-m);
+    color: var(--color-ink-soft);
+  }
+  /* 每一級一橫列：左邊是這一級的說明，右邊是夥伴 */
+  .sponsor-tiers {
+    gap: 0;
+    margin-bottom: var(--ab-gap-m);
+    border-block-end: 1px solid var(--ab-rule-strong);
+  }
+  .tier {
+    display: grid;
+    grid-template-columns: 16.5rem minmax(0, 1fr);
+    grid-template-rows: auto auto 1fr;
+    column-gap: var(--space-7);
+    align-items: start;
+    padding: var(--space-4) 0;
+    border: 0;
+    border-block-start: 1px solid var(--ab-rule-strong);
+    border-radius: 0;
+    background: none;
+  }
+  .tier-name {
+    margin: 0 0 0.375rem;
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    letter-spacing: 0;
+    line-height: 1.5;
+  }
+  .tier-desc {
+    margin-bottom: 0.5rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .tier-perks {
+    margin: 0;
+    line-height: 1.6;
+    color: var(--color-ink-soft);
+    opacity: 0.8;
+  }
+  .tier-logos {
+    grid-column: 2;
+    grid-row: 1 / span 3;
+    gap: var(--space-4);
+  }
+  .sponsor-card {
+    padding: 0;
+  }
+  .sponsor-card-logo a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+  }
+  .sponsor-contribution-title {
+    color: var(--color-ink);
+  }
+  .sponsor-contribution {
+    color: var(--color-ink-soft);
+  }
+  .logo-placeholder {
+    border-color: var(--ab-rule-strong);
+    border-radius: 12px;
+    color: var(--color-ink-soft);
+  }
+  /* 個人支持者那一級：名單需要整個寬度，說明放上面，名單預設收合 */
+  .tier--wide {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+  }
+  .supporters-more {
+    margin-top: var(--ab-gap-s);
+  }
+  .supporters-more__summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    min-height: 48px;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--ab-brand);
+    cursor: pointer;
+    list-style: none;
+  }
+  .supporters-more__summary::-webkit-details-marker {
+    display: none;
+  }
+  .supporters-more__summary:hover {
+    color: var(--color-ink);
+  }
+  .supporters-more[open] .supporters-more__summary {
+    margin-bottom: var(--ab-gap-s);
+  }
+  /* 行動區：左邊贊助，右邊洽談合作 */
+  .sponsor-cta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: var(--space-7);
+    align-items: center;
+    padding: var(--space-5);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+    background: var(--ab-surface);
+  }
+  .sponsor-cta h3 {
+    grid-column: 1 / -1;
+    margin-bottom: var(--space-4);
+    font-size: 1.375rem;
+    color: var(--color-ink);
+  }
+  .portaly-donate {
+    grid-column: 1;
+    grid-row: 2 / span 2;
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+  }
+  .sponsor-cta > p {
+    grid-column: 2;
+    align-self: end;
+    margin-bottom: var(--ab-gap-s);
+    color: var(--color-ink-soft);
+  }
+  .sponsor-contact {
+    grid-column: 2;
+    align-self: start;
+  }
+  .portaly-link {
+    min-height: 44px;
+  }
+  .portaly-link:hover {
+    transform: none;
+    box-shadow: none;
+  }
+
+  /* 按鈕：跟著品牌綠，深色模式自己翻面 */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    min-height: 44px;
+    border-radius: 10px;
+  }
+  .btn-primary {
+    background: var(--ab-heading);
+    color: var(--color-bg);
+  }
+  .btn-primary:hover {
+    background: var(--ab-brand);
+    box-shadow: none;
+    transform: none;
+  }
+  .btn-outline {
+    border: 1.5px solid var(--ab-heading);
+    background: transparent;
+    color: var(--ab-heading);
+  }
+  .btn-outline:hover {
+    background: var(--ab-heading);
+    color: var(--color-bg);
+    transform: none;
+  }
+
+  /* ── 9 問答與聯繫 ── */
+  /* 寬螢幕排兩欄：先由上而下排滿左欄，再排右欄（列數由樣板的 --faq-rows 給） */
+  .faq-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: repeat(var(--faq-rows, 5), auto);
+    grid-auto-flow: column;
+    column-gap: var(--space-7);
+    align-items: start;
+    margin-top: 0;
+    border-block-start: 1px solid var(--ab-rule);
+  }
+  .faq-item {
+    border-bottom-color: var(--ab-rule);
+  }
+  .faq-question {
+    min-height: 56px;
+    padding: 0.75rem 0;
+    color: var(--color-ink);
+  }
+  .faq-question::after {
+    margin-left: 0;
+    margin-inline-start: 1rem;
+    color: var(--color-ink-soft);
+  }
+  .faq-question:hover,
+  .faq-item[open] .faq-question::after {
+    color: var(--ab-brand);
+  }
+  .faq-question:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  .faq-answer p {
+    max-width: 40em;
+    color: var(--color-ink-soft);
+  }
+  .faq-answer :global(a) {
+    color: var(--ab-brand);
+  }
+  .faq-answer :global(a:hover) {
+    color: var(--color-ink);
+  }
+  .faq-answer :global(strong) {
+    color: var(--color-ink);
+  }
+
+  /* 問答與聯繫是同一章：聯繫緊接在問答後面，不另起一帶 */
+  .ab-sec--contact {
+    padding-block-start: 0;
+  }
+  .ab-sec--faq,
+  .ab-sec--contact {
+    background: var(--color-bg-soft);
+  }
+  .ab-sec--faq {
+    border-block-start: 1px solid var(--ab-rule);
+  }
+  .contact-grid {
+    gap: var(--space-4);
+    margin-bottom: var(--space-4);
+  }
+  .contact-card {
+    padding: var(--space-4);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+    background: var(--ab-surface);
+  }
+  .contact-icon {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+  .contact-card h3 {
+    margin-bottom: 0.25rem;
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .contact-card a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    border: 0;
+    color: var(--ab-brand);
+  }
+  .contact-card a:hover {
+    color: var(--color-ink);
+  }
+  .contact-note {
+    margin-top: 0;
+    color: var(--color-ink-soft);
+  }
+  .contact-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4);
+    padding: var(--space-4) var(--space-5);
+    border-color: var(--ab-rule);
+    border-radius: var(--radius-chip);
+    background: var(--ab-surface);
+    text-align: start;
+  }
+  .contact-cta p {
+    flex: 1 1 20rem;
+    margin: 0;
+    color: var(--color-ink-soft);
+  }
+  .cta-buttons {
+    flex-wrap: wrap;
+    gap: var(--ab-gap-s);
+  }
+
+  /* ── 中等寬度 ─────────────────────────────────────────────────── */
+  @media (max-width: 1024px) {
+    .guide-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .faq-list {
+      display: block;
+    }
+    .ab-sec--faq .section-inner {
+      max-width: var(--container-prose);
+    }
+    .tier {
+      grid-template-columns: 13rem minmax(0, 1fr);
+      column-gap: var(--space-5);
+    }
+  }
+
+  /* ── 手機 ─────────────────────────────────────────────────────── */
+  @media (max-width: 768px) {
+    .about-page {
+      --ab-gap-l: var(--space-7);
+      --ab-inner-pad: 1.25rem;
+    }
+    .section-title {
+      font-size: clamp(1.6rem, 6.4vw, 2rem);
+    }
+    .section-subtitle {
+      font-size: 1rem;
+    }
+    .naming-grid {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+    .naming-card {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      column-gap: 0.875rem;
+      padding: 1.125rem;
+      text-align: start;
+    }
+    .naming-icon {
+      grid-row: 1 / span 2;
+      margin: 0;
+      font-size: 1.5rem;
+    }
+    .project-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: var(--space-4) 0.5rem;
+    }
+    .standalone-quote {
+      text-align: start;
+    }
+    .founder-card {
+      grid-template-columns: 1fr;
+      gap: var(--space-4);
+      justify-items: start;
+    }
+    .founder-photo {
+      width: 9.5rem;
+    }
+    .founder-image {
+      width: 100%;
+      height: auto;
+    }
+    .founder-info {
+      text-align: start;
+    }
+    .founder-links-inline {
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      margin-top: var(--ab-gap-s);
+    }
+    .team-grid {
+      grid-template-columns: 1fr;
+      gap: var(--ab-gap-s);
+    }
+    .team-card,
+    .contributors-in-team {
+      padding: var(--space-4);
+    }
+    /* 貢獻者牆在手機上是橫向可滑的四列：每個人都在，不佔三個螢幕 */
+    .contributors-grid {
+      grid-template-columns: none;
+      grid-template-rows: repeat(4, auto);
+      grid-auto-flow: column;
+      grid-auto-columns: 4.5rem;
+      margin-inline: calc(var(--space-4) * -1);
+      padding-inline: var(--space-4);
+      overflow-x: auto;
+      overscroll-behavior-x: contain;
+      scrollbar-width: thin;
+    }
+    .ab-sec--brief {
+      padding-block-start: var(--space-4);
+    }
+    .timeline {
+      padding-inline-start: 1.5rem;
+    }
+    .timeline-item {
+      padding-inline-start: 0.75rem;
+    }
+    .timeline-item:global(.is-target) .timeline-content {
+      margin: -0.5rem -0.625rem;
+      padding: 0.5rem 0.625rem;
+    }
+    .guide-grid {
+      grid-template-columns: 1fr;
+      gap: var(--ab-gap-s);
+    }
+    .organism-cta-row {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .dashboard-btn {
+      justify-content: center;
+    }
+    .tier {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: 0;
+      padding: var(--space-4) 0;
+    }
+    .tier-logos {
+      grid-column: 1;
+      grid-row: auto;
+      margin-top: var(--space-4);
+    }
+    .sponsor-card {
+      align-items: flex-start;
+    }
+    .sponsor-card-logo {
+      align-self: flex-start;
+      width: 8.75rem;
+      max-width: 8.75rem;
+    }
+    .sponsor-cta {
+      display: block;
+      padding: var(--space-4);
+      text-align: center;
+    }
+    .portaly-donate {
+      margin-bottom: var(--space-4);
+      padding-bottom: var(--space-4);
+      border-bottom: 1px dashed var(--ab-rule-strong);
+    }
+    .contact-grid {
+      grid-template-columns: 1fr;
+      gap: var(--ab-gap-s);
+    }
+    .contact-card {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      column-gap: 0.875rem;
+      align-items: center;
+      padding: 0.875rem 1.125rem;
+      text-align: start;
+    }
+    .contact-icon {
+      grid-row: 1 / span 3;
+      margin: 0;
+    }
+    .contact-cta {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: var(--space-4);
+    }
+    .contact-cta p {
+      flex: 0 1 auto;
+    }
+    .cta-buttons {
+      flex-direction: row;
+      align-items: center;
+      width: 100%;
+    }
+    .cta-buttons .btn {
+      flex: 1 1 9rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .section-title {
+      font-size: clamp(1.5rem, 6.8vw, 1.75rem);
+    }
+    .timeline {
+      padding-left: 0;
+    }
+    .timeline-item {
+      padding-left: 0;
+    }
+    .founder-links-inline {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+  /* ── 深色模式：tokens 翻不到的地方 ───────────────────────────── */
+  :global(:root[data-theme='dark']) .about-page {
+    /* --cat-geography 沒有深色值；深色下多混一點字色才夠亮（對比 4.5:1 以上） */
+    --ab-brand: color-mix(in srgb, var(--cat-geography) 46%, var(--color-ink));
+    --ab-heading: color-mix(
+      in srgb,
+      var(--cat-geography) 30%,
+      var(--color-ink)
+    );
+  }
+  /* dark-polish.css 把這些卡片塗成半透明底；改成橫列之後不需要底色 */
+  :global(:root[data-theme='dark']) .about-page .tier {
+    background: none;
+  }
+  /* dark-polish.css 有一條通則：class 名字裡有 card 的都塗 6% 的底。
+     下面這些在這一頁不是卡片本身（創辦人那一塊、貢獻者頭像、夥伴那一列，
+     以及卡片裡面的標題與內文），拿掉，不然會出現一條一條的底色。 */
+  :global(:root[data-theme='dark']) .about-page .ab-sec--people .founder-card,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .ab-sec--people
+    .contributor-card:not(:hover),
+  :global(:root[data-theme='dark']) .about-page .sponsor-tiers .sponsor-card,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .sponsor-tiers
+    .sponsor-card-logo,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .sponsor-tiers
+    .sponsor-card-content,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-title,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-desc,
+  :global(:root[data-theme='dark'])
+    .about-page
+    .organism-section
+    .guide-card-cta {
+    background: none;
+  }
+  /* dark-polish.css 的規則還指著舊標籤（h4）；標題階層修正後補在這裡 */
+  :global(:root[data-theme='dark']) .about-page .naming-card h3,
+  :global(:root[data-theme='dark']) .about-page .contact-card h3 {
+    color: var(--color-ink);
+  }
+  /* 夥伴的 logo 多半是深色字，深色模式下墊一塊淺色的底才看得見 */
+  :global(:root[data-theme='dark']) .about-page .sponsor-card-logo a {
+    padding: 0.5rem 0.75rem !important;
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--color-ink) 94%, transparent);
+  }
+  :global(:root[data-theme='dark']) .about-page .standalone-quote {
+    background: none;
+    color: var(--color-ink);
+  }
+  :global(:root[data-theme='dark']) .about-page .stat-number {
+    color: var(--ab-heading);
+  }
+
+  /* ── 右到左語言＋新區塊還在顯示英文（補翻前的過渡）──────────────
+     英文句子放進右到左的段落，句點會跑到句首。標了 data-fallback-en 的區塊，
+     文字方向交給內容自己決定（unicode-bidi: plaintext），對齊仍然靠右。
+     對已經翻成阿拉伯文的字串沒有影響。 */
+  :global([dir='rtl'])
+    .about-page
+    :global([data-fallback-en] :is(p, dt, dd, h2, h3, li, figcaption)) {
+    unicode-bidi: plaintext;
+    text-align: right;
+  }
+
+  /* ── 減少動態 ─────────────────────────────────────────────────── */
+  @media (prefers-reduced-motion: reduce) {
+    .about-page :global(*),
+    .about-page :global(*)::before,
+    .about-page :global(*)::after {
+      animation: none !important;
+      transition: none !important;
+      scroll-behavior: auto !important;
     }
   }
 </style>

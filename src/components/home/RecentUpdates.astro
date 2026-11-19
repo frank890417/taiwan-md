@@ -1,231 +1,272 @@
 ---
-import CommitLog from '../commits/CommitLog.astro';
+/**
+ * RecentUpdates — 「最近」：最近新進的四篇文章。
+ *
+ * 2026-11-19 首頁第一期重寫。原本叫「網站即時更新」，放的是器官分數與最近五筆
+ * commit；線上實測那五筆全是翻譯批次的 commit，旁邊的器官分數又已知跟實況脫節
+ * （報告 §5 第 5 項）。讀者在乎的是「這幾天多了什麼可以讀」，所以改成文章：
+ *
+ *   - 四篇，用全站共用的 ArticleCard（detailed，跟 /latest 同一款），資料也跟
+ *     /latest 同一個來源
+ *     （getLatestArticles：文章索引 × content-dates.json 的上線時間）。
+ *   - 中文首頁顯示寫的人：git-info.json 裡這篇文章的第一位人類貢獻者。其他語言的
+ *     git 貢獻者是翻譯批次，不是作者，所以只顯示日期。
+ *   - 不放器官分數，不放 commit 清單。底下一行小字連到最新文章、更新紀錄與儀表板
+ *     （原本這一區的三個去處都還在）。
+ *
+ * 規格裡的右欄「最近改好的讀者勘誤」沒有做：目前沒有一個資料來源能自動列出
+ * 「讀者回報、已經改好」的項目，照規格的備案先只放文章。
+ *
+ * 區塊的 data-ga-view 沿用 `recent_updates`（由樣板掛），前後數據才接得上。
+ */
+import { resolve } from 'node:path';
+import ArticleCard from '../ArticleCard.astro';
 import {
   getLangFromUrl,
   useTranslations,
   useTranslatedPath,
 } from '../../i18n/utils';
-import type { Commit } from '../../lib/commits';
-import { readFileSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { getLatestArticles } from '../../utils/articles-index';
+import { getCategoryConfigs } from '../../utils/categoryConfig';
+import { getCategoryDirMap } from '../../utils/staticRoutes';
+import { buildGitInfoCache } from '../../utils/contributors';
+import { useHomeT } from './home-i18n';
 
-interface Props {
-  commits: Commit[];
-}
-
-const { commits } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const th = useHomeT(lang);
 const translatePath = useTranslatedPath(lang);
-
-// ── Heartbeat strip (C1, 2026-05-26): organ scores + vitals row above commits.
-// Read prebuilt JSON synchronously at build time; safe fallback if missing.
-// See reports/homepage-evolution-2026-05-26.md §C1.
-interface OrganRow {
-  id: string;
-  emoji: string;
-  nameZh: string;
-  name: string;
-  score: number;
-  trend?: 'up' | 'down' | 'stable';
-}
-
-let organs: OrganRow[] = [];
-let vitals: {
-  totalArticles?: number;
-  contributors?: number;
-  articlesLast7Days?: number;
-  humanReviewedPercent?: number;
-} = {};
-
-try {
-  const organPath = resolve(
-    process.cwd(),
-    'public/api/dashboard-organism.json',
-  );
-  const o = JSON.parse(readFileSync(organPath, 'utf-8'));
-  if (Array.isArray(o.organs)) {
-    organs = o.organs.map((x: any) => ({
-      id: x.id,
-      emoji: x.emoji,
-      nameZh: x.nameZh,
-      name: x.name,
-      score: x.score,
-      trend: x.trend,
-    }));
-  }
-} catch {}
-
-try {
-  const vitalsPath = resolve(process.cwd(), 'public/api/dashboard-vitals.json');
-  vitals = JSON.parse(readFileSync(vitalsPath, 'utf-8'));
-} catch {}
-
-// Trend arrow + tone (subtle — we don't want this to read like a stock ticker)
-function trendGlyph(t?: 'up' | 'down' | 'stable'): string {
-  if (t === 'up') return '↑';
-  if (t === 'down') return '↓';
-  return '→';
-}
-function trendColor(t?: 'up' | 'down' | 'stable'): string {
-  if (t === 'up') return 'text-[#16a34a]';
-  if (t === 'down') return 'text-[#dc2626]';
-  return 'text-[#94a3b8]';
-}
-
-// Score color band: <50 amber, ≥50 mint. Reflects "transparent flaws" principle
-// — current immune=28 publicly visible is a signal, not a hidden weakness
-// (per [[project_error_boundary_traceability]] + report §6.1 R3).
-function scoreColor(score: number): string {
-  if (score < 50) return 'text-[#d97706]';
-  return 'text-[#0d9488]';
-}
-
 const isZh = lang === 'zh-TW';
-const showStrip = organs.length > 0 || vitals.totalArticles !== undefined;
+const langPrefix = isZh ? '' : `/${lang}`;
+
+const articles = await getLatestArticles(lang, 4);
+const cats = getCategoryConfigs(t) as Record<
+  string,
+  { name: string; icon: string; color: string }
+>;
+
+// 寫的人（只有中文首頁）：git-info 的第一位人類貢獻者
+const dirMap = isZh ? getCategoryDirMap() : {};
+const gitInfo = isZh ? buildGitInfoCache('knowledge/') : null;
+function authorOf(a: { category: string; slug: string }): string {
+  if (!gitInfo) return '';
+  const dir = dirMap[a.category];
+  if (!dir) return '';
+  const key = resolve(
+    process.cwd(),
+    'knowledge',
+    dir,
+    `${a.slug}.md`,
+  ).normalize('NFC');
+  const human = gitInfo
+    .get(key)
+    ?.contributors.find((c) => c.role !== 'ai-maintainer' && c.name);
+  return human?.name || '';
+}
+
+function dateLabel(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  if (isZh) {
+    const parts = new Intl.DateTimeFormat('zh-TW', {
+      timeZone: 'Asia/Taipei',
+      month: 'numeric',
+      day: 'numeric',
+    }).formatToParts(d);
+    const m = parts.find((p) => p.type === 'month')?.value;
+    const day = parts.find((p) => p.type === 'day')?.value;
+    return `${m}/${day}`;
+  }
+  try {
+    return new Intl.DateTimeFormat(lang === 'ar' ? 'en' : lang, {
+      timeZone: 'Asia/Taipei',
+      month: 'short',
+      day: 'numeric',
+    }).format(d);
+  } catch {
+    return iso.slice(5, 10);
+  }
+}
 ---
 
-<!--
-  RecentUpdates.astro — Tier 1 home component.
-
-  2026-05-26 Wave 1 / C1 upgrade: prepend organ-score + vitals strip
-  before the commit list, so the homepage exposes the same heartbeat
-  signal that drives /dashboard 172.3s engagement (per report §C1).
-  Click on either strip → /dashboard for full analytics. Current
-  immune=28 is intentionally visible — "transparent flaws are a trust
-  signal" per [[project_error_boundary_traceability]] + report §6.1.
--->{
-  commits.length > 0 && (
-    <section class="mx-auto my-16 max-w-[980px] px-8 max-[768px]:my-12 max-[768px]:px-4">
-      <div class="relative overflow-hidden rounded-[20px] border border-[#e0f2fe] bg-[linear-gradient(135deg,#f8fafc_0%,#f0f9ff_100%)] p-10 max-[768px]:p-6">
-        <div class="pointer-events-none absolute right-0 top-0 h-[200px] w-[200px] bg-[radial-gradient(circle,rgba(59,130,246,0.05)_0%,transparent_70%)]" />
-        <div class="relative z-[2] mb-8 text-center">
-          <h2 class="mb-2 font-['jf-lanyanghei','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.8rem] font-extrabold text-[#1e3a5f] max-[768px]:text-[1.5rem]">
-            {t('home.updates.heading')}
+{
+  articles.length > 0 && (
+    <section class="home-section" aria-labelledby="recent-heading">
+      <div class="home-wrap">
+        <header class="home-head">
+          <p class="home-eyebrow">{th('home.recent.eyebrow')}</p>
+          <h2 id="recent-heading" class="home-title">
+            {th('home.recent.heading')}
           </h2>
-          <p class="text-base font-medium text-[#64748b]">
-            {t('home.updates.subtitle')}
-          </p>
+        </header>
+
+        <div class="grid grid-cols-2 gap-5 max-[900px]:grid-cols-1 max-[640px]:gap-4">
+          {articles.map((a) => {
+            const cfg = cats[a.category] || ({} as (typeof cats)[string]);
+            const author = authorOf(a);
+            const date = dateLabel(a.date);
+            return (
+              <ArticleCard
+                density="detailed"
+                href={`${langPrefix}/${a.category}/${encodeURIComponent(a.slug)}`}
+                title={a.title}
+                description={a.description}
+                categoryLabel={cfg.name}
+                categoryIcon={cfg.icon}
+                categoryColor={cfg.color}
+                coverImage={a.image || undefined}
+                footnotes={a.footnotes}
+                date={[date, author].filter(Boolean).join(' · ')}
+                readingTime={
+                  a.readingTime
+                    ? `${a.readingTime} ${t('latest.minRead')}`
+                    : undefined
+                }
+                curation={a.curation}
+                curationReason={a.curationReason}
+                titleTag="h3"
+                openIn="same-tab"
+                extraClass="home-recent-item"
+                dataAttrs={{
+                  'data-ga-section': 'recent_updates',
+                  'data-ga-label': 'article',
+                }}
+              />
+            );
+          })}
         </div>
 
-        {/* ─── Heartbeat strip (organ scores + vitals) ─── */}
-        {showStrip && (
-          <a
-            href={translatePath('/dashboard')}
-            data-ga-section="recent_updates"
-            data-ga-label="heartbeat_strip"
-            class="relative z-[2] mb-6 block rounded-[14px] border border-[#dbe9f3] bg-white/70 px-5 py-4 text-inherit no-underline transition-all duration-300 hover:-translate-y-px hover:border-[#7aa8d4]/60 hover:bg-white hover:shadow-[0_4px_12px_rgba(59,130,246,0.08)]"
-          >
-            {/* Row 1: 8 organs */}
-            {organs.length > 0 && (
-              <>
-                <div class="mb-1 text-[0.7rem] font-semibold uppercase tracking-[0.08em] text-[#94a3b8] max-[480px]:text-[0.65rem]">
-                  {t('home.heartbeat.organsLabel')}
-                </div>
-                <div class="mb-4 flex flex-wrap gap-x-3 gap-y-2 max-[480px]:gap-x-2 max-[480px]:gap-y-1.5">
-                  {organs.map((o) => (
-                    <span class="inline-flex items-baseline gap-[0.25rem] text-[0.85rem] max-[480px]:text-[0.78rem]">
-                      <span aria-hidden="true">{o.emoji}</span>
-                      <span class="text-[#475569]">
-                        {isZh ? o.nameZh : o.name}
-                      </span>
-                      <span
-                        class:list={[
-                          'font-mono font-bold tabular-nums',
-                          scoreColor(o.score),
-                        ]}
-                      >
-                        {o.score}
-                      </span>
-                      <span
-                        class:list={[
-                          'text-[0.7rem] font-semibold',
-                          trendColor(o.trend),
-                        ]}
-                        aria-hidden="true"
-                      >
-                        {trendGlyph(o.trend)}
-                      </span>
-                    </span>
-                  ))}
-                </div>
-              </>
-            )}
-
-            {/* Row 2: vitals */}
-            {vitals.totalArticles !== undefined && (
-              <>
-                <div class="mb-1 text-[0.7rem] font-semibold uppercase tracking-[0.08em] text-[#94a3b8] max-[480px]:text-[0.65rem]">
-                  {t('home.heartbeat.vitalsLabel')}
-                </div>
-                <div class="flex flex-wrap gap-x-4 gap-y-1 text-[0.85rem] text-[#475569] max-[480px]:text-[0.78rem]">
-                  <span>
-                    <span class="font-mono font-bold tabular-nums text-[#1e3a5f]">
-                      {vitals.totalArticles}
-                    </span>
-                    <span class="ml-0.5">{isZh ? '篇文章' : 'articles'}</span>
-                  </span>
-                  {vitals.contributors !== undefined && (
-                    <span>
-                      <span class="font-mono font-bold tabular-nums text-[#1e3a5f]">
-                        {vitals.contributors}
-                      </span>
-                      <span class="ml-0.5">
-                        {isZh ? '位 contributor' : 'contributors'}
-                      </span>
-                    </span>
-                  )}
-                  {vitals.articlesLast7Days !== undefined && (
-                    <span>
-                      <span class="font-mono font-bold tabular-nums text-[#16a34a]">
-                        +{vitals.articlesLast7Days}
-                      </span>
-                      <span class="ml-0.5">
-                        {isZh ? '過去 7 天' : 'past 7 days'}
-                      </span>
-                    </span>
-                  )}
-                  {vitals.humanReviewedPercent !== undefined && (
-                    <span>
-                      <span class="font-mono font-bold tabular-nums text-[#0d9488]">
-                        {vitals.humanReviewedPercent}%
-                      </span>
-                      <span class="ml-0.5">
-                        {isZh ? '人類審核覆蓋' : 'human-reviewed'}
-                      </span>
-                    </span>
-                  )}
-                  <span class="ml-auto inline-flex items-center gap-1 font-semibold text-[#1e3a5f]">
-                    {t('home.heartbeat.viewMore')}
-                  </span>
-                </div>
-              </>
-            )}
-          </a>
-        )}
-
-        <div class="relative z-[2] mx-auto max-w-[860px]">
-          <CommitLog commits={commits} lang={lang} variant="cards" />
-        </div>
-        <div class="relative z-[2] mt-6 flex flex-wrap items-center justify-center gap-3">
+        <p class="recent-more">
           <a
             href={translatePath('/latest')}
+            class="home-link"
             data-ga-section="recent_updates"
             data-ga-label="latest_articles"
-            class="inline-flex items-center gap-[0.3rem] rounded-full bg-[#10b981] px-6 py-[0.6rem] text-[0.9rem] font-semibold text-white no-underline transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#059669] hover:shadow-[0_4px_12px_rgba(16,185,129,0.3)]"
           >
-            🆕 {t('nav.latest')}
+            {t('nav.latest')}
           </a>
           <a
             href={translatePath('/changelog')}
+            class="home-link"
             data-ga-section="recent_updates"
             data-ga-label="view_all"
-            class="inline-flex items-center gap-[0.3rem] rounded-full bg-[#1e3a5f] px-6 py-[0.6rem] text-[0.9rem] font-semibold text-white no-underline transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#1e40af] hover:shadow-[0_4px_12px_rgba(30,64,175,0.3)]"
           >
             {t('home.updates.viewAll')}
           </a>
-        </div>
+          <a
+            href={translatePath('/dashboard')}
+            class="home-link"
+            data-ga-section="recent_updates"
+            data-ga-label="heartbeat_strip"
+          >
+            {t('home.heartbeat.viewMore')}
+          </a>
+        </p>
       </div>
     </section>
   )
 }
+
+<style>
+  /* ── 深色模式 ──
+     ArticleCard 的顏色是寫死的亮色，各頁的深色覆寫在 dark-polish.css 裡是「每個
+     頁面包一層」的寫法（.latest-page、.explore-page…），首頁沒有那一層。另外
+     dark-polish 有一條全站規則會替所有 class 名帶 card 的元素鋪一層半透明底，
+     卡片裡每個子元素都中，疊起來會變成一塊一塊的。這裡只針對首頁這四張卡補齊，
+     配方跟 /latest 的同一套（surface、ink、ink-soft、accent）。 */
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item
+  ) {
+    background: var(--color-surface);
+    border-color: var(--color-border);
+  }
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item:hover
+  ) {
+    border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+  }
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item
+      :is(
+        .article-card-body,
+        .article-card-toprow,
+        .article-card-toprow-left,
+        .article-card-title,
+        .article-card-desc,
+        .article-card-foot,
+        .article-card-tags,
+        .article-card-tag,
+        .article-card-stats,
+        .article-card-stat,
+        .article-card-updated
+      )
+  ) {
+    background-color: transparent;
+    border-color: var(--color-border);
+  }
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item
+      .article-card-title
+  ) {
+    color: var(--color-ink);
+  }
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item
+      :is(
+        .article-card-desc,
+        .article-card-updated,
+        .article-card-stat,
+        .article-card-tag
+      )
+  ) {
+    color: var(--color-ink-soft);
+  }
+  :global(
+    :root[data-theme='dark']
+      .home-page
+      .home-section
+      .article-card.is-detailed.home-recent-item
+      .article-card-stage
+  ) {
+    border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+    background: color-mix(in srgb, var(--color-accent) 14%, transparent);
+    color: var(--color-ink);
+  }
+
+  /* 首頁只放四張，摘要收在三行內；完整摘要在 /latest */
+  :global(
+    .home-page .article-card.is-detailed.home-recent-item .article-card-desc
+  ) {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+  }
+  /* 手機上沒有封面圖的卡不放那塊大字佔位圖，四張卡才不會疊成三個螢幕高 */
+  @media (max-width: 768px) {
+    :global(.home-page .article-card.home-recent-item .article-card-thumb-ph) {
+      display: none;
+    }
+  }
+  .recent-more {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 2rem;
+    margin: var(--home-gap-sm) 0 0;
+  }
+</style>

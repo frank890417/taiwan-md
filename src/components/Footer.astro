@@ -328,7 +328,8 @@ const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
 import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
-<!--
+{
+  /*
   Phase 5 shell migration #1: Footer.astro
   ────────────────────────────────────────
   - Scoped <style> block removed entirely (~150 lines CSS deleted)
@@ -339,7 +340,8 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
     and the brand column spans full width at ≤768 via `max-[768px]:col-span-full`
   - The animated underline on `.footer-col a:hover::after` is replaced by
     a `hover:after:*` arbitrary variant chain — same semantic, no CSS
--->
+*/
+}
 <footer
   role="contentinfo"
   class="bg-[#1a2e1a] px-0 pb-6 pt-12 text-[#94a3b8] max-[768px]:pb-5 max-[768px]:pt-10"
@@ -390,7 +392,9 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
             >{t('footer.support-us.cta')} →</a
           >
         </p>
-        <!-- iOS App：Apple 官方徽章原檔，高 40px（螢幕最小高度），上方留白 ≥ 徽章高的 1/4 -->
+        {
+          /* iOS App：Apple 官方徽章原檔，高 40px（螢幕最小高度），上方留白 ≥ 徽章高的 1/4 */
+        }
         <p class="mt-5">
           <a
             href={appStoreUrl(lang)}
@@ -412,7 +416,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           </a>
         </p>
       </div>
-      <!-- 探索 · reading paths -->
+      {/* 探索 · reading paths */}
       <div class={COL_CLASS}>
         <h4 class={HEAD_CLASS}>{t('footer.explore')}</h4>
         <a href={navHref('/latest')}>{t('nav.latest')}</a>
@@ -424,7 +428,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         <a href={navHref('/terminology/converter')}>{label.converter}</a>
         <a href={navHref('/tools')}>{label.tools}</a>
       </div>
-      <!-- 資料室 · data & instruments -->
+      {/* 資料室 · data & instruments */}
       <div class={COL_CLASS}>
         <h4 class={HEAD_CLASS}>{label.dataRoom}</h4>
         <a href={navHref('/dashboard')}>{t('footer.dashboardPage')}</a>
@@ -438,7 +442,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         <a href={navHref('/bench')}>{t('nav.bench')}</a>
         <a href={navHref('/elections/2026')}>{label.elections}</a>
       </div>
-      <!-- 生命體 · the organism -->
+      {/* 生命體 · the organism */}
       <div class={COL_CLASS}>
         <h4 class={HEAD_CLASS}>{label.organism}</h4>
         <a href={navHref('/semiont')}>{label.semiont}</a>
@@ -446,7 +450,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         <a href={navHref('/semiont/diary')}>{label.diary}</a>
         <a href={navHref('/semiont/manifesto')}>{label.manifesto}</a>
       </div>
-      <!-- 參與 · participate & connect -->
+      {/* 參與 · participate & connect */}
       <div class={COL_CLASS}>
         <h4 class={HEAD_CLASS}>{label.participate}</h4>
         <a href={navHref('/about')}>{t('footer.about')}</a>

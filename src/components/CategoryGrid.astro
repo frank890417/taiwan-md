@@ -78,7 +78,8 @@ const categories = Object.entries(glyphs).map(([slug, icon]) => ({
 }));
 ---
 
-<!--
+{
+  /*
   Phase 4 leaf migration #13: CategoryGrid.astro
   ──────────────────────────────────────────────
   - Scoped <style> block removed entirely (~327 lines CSS deleted)
@@ -91,7 +92,8 @@ const categories = Object.entries(glyphs).map(([slug, icon]) => ({
   - This eliminates 12 nth-child rules + 12 attribute selector rules
   - `group` + `group-hover:` for hover state propagation on title,
     cover image, explore arrow, and gradient opacity
--->
+*/
+}
 <section
   class="mx-auto my-12 max-w-[var(--container-wide)] columns-3 gap-x-6 px-[clamp(1.5rem,5vw,5rem)] max-lg:columns-2 max-[768px]:mx-4 max-[768px]:my-8 max-[768px]:columns-1"
   aria-label={t('CategoryGrid.aria-section')}

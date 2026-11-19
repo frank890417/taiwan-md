@@ -1,0 +1,438 @@
+---
+/**
+ * ToolsBand — 「直接能用的」。首頁第一期（2026-11-19）新增。
+ *
+ * 為什麼有這一區：專案長出了一批不用讀文章就能用的東西（選舉專區、企業版圖、
+ * 用語轉換器…），它們靠搜尋自己帶進來的人比首頁還多，首頁內文卻一個都沒連到。
+ * 數據在 reports/design-homepage-about-evolution-2026-11-19.md §2.3。
+ *
+ * 六格，每格一個小圖、名稱、一句說明、一個去處。小圖都從 repo 既有的資料畫，
+ * 沒有資料的那一格就只剩名稱與說明（不放假圖）。
+ *
+ * 順序照搜尋實際帶來的工作階段數（28 天）：選舉專區 6,054、企業版圖 2,095、
+ * 用語轉換器 1,448；後三格沒有可比的數字，照規格列的順序。
+ *
+ * 選舉那一格有到期日：投票日寫在 src/data/elections-2026.json，建置當天（台北
+ * 時間）過了投票日，這一格就自動換成時間軸，不用再改程式。
+ *
+ * 連結一律走 resolveStaticHref：這些頁多半只有中文版，盲目加語言前綴會生出
+ * /fr/companies 這種不存在的路由。
+ */
+import { useTranslations, getLangFromUrl } from '../../i18n/utils';
+import { resolveStaticHref } from '../../utils/staticRoutes';
+import { getCompanyConfigs } from '../../utils/dataConfig';
+import { getTopics } from '../../utils/topics/registry';
+import { emojiIcons, iconSvg } from '../../icons/taiwan-icons.mjs';
+import { TAIWAN_BBOX } from './taiwan-outline';
+import { useHomeT, formatCount } from './home-i18n';
+import {
+  getElectionState,
+  getEraBand,
+  getMapDensity,
+  getTermPairs,
+} from './home-data';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+
+const election = getElectionState();
+const eras = getEraBand(lang);
+const density = getMapDensity();
+const companies = getCompanyConfigs(t)
+  .slice()
+  .sort((a, b) => b.marketCap - a.marketCap)
+  .slice(0, 5);
+const topics = getTopics();
+const termPairs = getTermPairs(['影片', '軟體']);
+
+// 選舉日的顯示：中文 11/28，其他語言用該語言的短月份
+function electionDateLabel(iso: string): string {
+  const [y, m, d] = iso.split('-').map((n) => parseInt(n, 10));
+  if (lang === 'zh-TW') return `${m}/${d}`;
+  try {
+    return new Intl.DateTimeFormat(lang === 'ar' ? 'en' : lang, {
+      month: 'short',
+      day: 'numeric',
+      timeZone: 'UTC',
+    }).format(new Date(Date.UTC(y, m - 1, d)));
+  } catch {
+    return `${m}/${d}`;
+  }
+}
+
+// 台灣輪廓放進 200×112 的小圖：置中、留上下邊
+const FIG_W = 200;
+const FIG_H = 112;
+const twScale = 92 / (TAIWAN_BBOX.y1 - TAIWAN_BBOX.y0);
+const twTransform = `translate(${(
+  FIG_W / 2 -
+  ((TAIWAN_BBOX.x0 + TAIWAN_BBOX.x1) / 2) * twScale
+).toFixed(2)} ${(
+  FIG_H / 2 -
+  ((TAIWAN_BBOX.y0 + TAIWAN_BBOX.y1) / 2) * twScale
+).toFixed(2)}) scale(${twScale.toFixed(4)})`;
+
+// 時間軸小圖：各時期依年數分配寬度；史前沒有起點，固定給一小段
+const eraSegments = (() => {
+  if (!eras) return [];
+  const usable = 160;
+  const lead = 14;
+  const span = eras.lastYear - eras.firstYear;
+  let x = 20;
+  return eras.eras.map((e) => {
+    const w =
+      e.start === null ? lead : ((e.end - e.start) / span) * (usable - lead);
+    const seg = { x, w, open: e.start === null };
+    x += w;
+    return seg;
+  });
+})();
+
+const companyMax = companies[0]?.marketCap || 1;
+
+type Tile = {
+  id: string;
+  href: string;
+  name: string;
+  desc: string;
+  fig:
+    | 'election'
+    | 'timeline'
+    | 'companies'
+    | 'converter'
+    | 'shape'
+    | 'topics'
+    | 'map';
+};
+
+const firstTile: Tile =
+  election && election.active
+    ? {
+        id: 'elections',
+        href: resolveStaticHref(lang, '/elections/2026'),
+        name: th('home.tools.election.name'),
+        desc: th('home.tools.election.desc', { races: election.races }),
+        fig: 'election',
+      }
+    : {
+        id: 'timeline',
+        href: resolveStaticHref(lang, '/timeline'),
+        name: th('home.tools.timeline.name'),
+        desc: th('home.tools.timeline.desc', {
+          eras: eras ? eras.eras.length : '',
+        }),
+        fig: 'timeline',
+      };
+
+const tiles: Tile[] = [
+  firstTile,
+  {
+    id: 'companies',
+    href: resolveStaticHref(lang, '/companies'),
+    name: th('home.tools.companies.name'),
+    desc: th('home.tools.companies.desc'),
+    fig: 'companies',
+  },
+  {
+    id: 'converter',
+    href: resolveStaticHref(lang, '/terminology/converter'),
+    name: th('home.tools.converter.name'),
+    desc: th('home.tools.converter.desc'),
+    fig: 'converter',
+  },
+  {
+    id: 'taiwan_shape',
+    href: resolveStaticHref(lang, '/taiwan-shape'),
+    name: th('home.tools.shape.name'),
+    desc: th('home.tools.shape.desc'),
+    fig: 'shape',
+  },
+  {
+    id: 'topics',
+    href: resolveStaticHref(lang, '/topics'),
+    name: th('home.tools.topics.name'),
+    desc: th('home.tools.topics.desc', { count: topics.length }),
+    fig: 'topics',
+  },
+  {
+    id: 'map',
+    href: resolveStaticHref(lang, '/map'),
+    name: th('home.tools.map.name'),
+    desc: th('home.tools.map.desc', {
+      count: density ? formatCount(density.total, lang) : '',
+    }),
+    fig: 'map',
+  },
+];
+---
+
+<section class="home-section" aria-labelledby="tools-heading">
+  <div class="home-wrap">
+    <header class="home-head">
+      <p class="home-eyebrow">{th('home.tools.eyebrow')}</p>
+      <h2 id="tools-heading" class="home-title">{th('home.tools.heading')}</h2>
+      <p class="home-lead">{th('home.tools.lead')}</p>
+    </header>
+
+    <ul
+      class="m-0 grid list-none grid-cols-6 gap-4 p-0 max-[1180px]:grid-cols-3 max-[640px]:grid-cols-2 max-[640px]:gap-3"
+    >
+      {
+        tiles.map((tile) => (
+          <li class="flex">
+            <a
+              href={tile.href}
+              class="home-tile tool-tile w-full overflow-hidden"
+              data-ga-section="tools_band"
+              data-ga-label={tile.id}
+            >
+              <span class="tool-fig" aria-hidden="true">
+                {tile.fig === 'election' && election && (
+                  <svg class="home-viz" viewBox={`0 0 ${FIG_W} ${FIG_H}`}>
+                    <text
+                      x={FIG_W / 2}
+                      y="44"
+                      text-anchor="middle"
+                      font-size="17"
+                      class="viz-label-strong"
+                    >
+                      {th('home.tools.election.badge', {
+                        date: electionDateLabel(election.date),
+                      })}
+                    </text>
+                    {/* 一個點是一個縣市 */}
+                    {Array.from({ length: election.races }, (_, i) => {
+                      const perRow = Math.ceil(election.races / 2);
+                      const col = i % perRow;
+                      const row = Math.floor(i / perRow);
+                      const x0 = FIG_W / 2 - ((perRow - 1) * 13) / 2;
+                      return (
+                        <circle
+                          cx={x0 + col * 13}
+                          cy={64 + row * 13}
+                          r="3.6"
+                          class="viz-soft"
+                        />
+                      );
+                    })}
+                  </svg>
+                )}
+                {tile.fig === 'timeline' && eraSegments.length > 0 && (
+                  <svg class="home-viz" viewBox={`0 0 ${FIG_W} ${FIG_H}`}>
+                    {eraSegments.map((s, i) => (
+                      <rect
+                        x={(s.x + 1).toFixed(1)}
+                        y="50"
+                        width={Math.max(1, s.w - 2).toFixed(1)}
+                        height="12"
+                        rx="2"
+                        class={
+                          i === eraSegments.length - 1
+                            ? 'viz-mark'
+                            : s.open
+                              ? 'viz-faint'
+                              : 'viz-soft'
+                        }
+                      />
+                    ))}
+                  </svg>
+                )}
+                {tile.fig === 'companies' && (
+                  <svg class="home-viz" viewBox={`0 0 ${FIG_W} ${FIG_H}`}>
+                    {companies.map((c, i) => (
+                      <rect
+                        x="24"
+                        y={22 + i * 15}
+                        width={Math.max(
+                          2,
+                          (c.marketCap / companyMax) * 152,
+                        ).toFixed(1)}
+                        height="8"
+                        rx="2"
+                        class={i === 0 ? 'viz-mark' : 'viz-soft'}
+                      />
+                    ))}
+                  </svg>
+                )}
+                {tile.fig === 'converter' && (
+                  <span class="tool-terms" lang="zh-Hant">
+                    {termPairs.map((p) => (
+                      <span class="tool-term">
+                        <s>{p.china}</s>
+                        <span
+                          class="tool-term-arrow"
+                          set:html={iconSvg('arrow')}
+                        />
+                        <b>{p.taiwan}</b>
+                      </span>
+                    ))}
+                  </span>
+                )}
+                {tile.fig === 'shape' && (
+                  <svg class="home-viz" viewBox={`0 0 ${FIG_W} ${FIG_H}`}>
+                    <use
+                      href="#home-tw-outline"
+                      transform={twTransform}
+                      class="viz-outline"
+                    />
+                  </svg>
+                )}
+                {tile.fig === 'topics' && (
+                  <span class="tool-icons">
+                    {topics.map((topic) => (
+                      <span
+                        class="tool-icon"
+                        set:html={iconSvg(emojiIcons[topic.emoji] || 'book')}
+                      />
+                    ))}
+                  </span>
+                )}
+                {tile.fig === 'map' && density && (
+                  <svg class="home-viz" viewBox={`0 0 ${FIG_W} ${FIG_H}`}>
+                    <use
+                      href="#home-tw-outline"
+                      transform={twTransform}
+                      class="viz-line"
+                    />
+                    <use
+                      href="#home-tw-density"
+                      transform={twTransform}
+                      class="viz-ink tool-map-dots"
+                    />
+                  </svg>
+                )}
+              </span>
+              <span class="tool-body">
+                <span class="tool-name">
+                  {tile.name}
+                  <span class="tool-arrow" set:html={iconSvg('arrow')} />
+                </span>
+                <span class="tool-desc">{tile.desc}</span>
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<style>
+  .tool-fig {
+    display: grid;
+    place-items: center;
+    height: 112px;
+    border-block-end: 1px solid var(--home-rule);
+    background: var(--home-faint);
+    color: var(--color-ink);
+  }
+  .tool-fig :global(svg.home-viz) {
+    width: auto;
+    max-width: 100%;
+    height: 112px;
+  }
+  .tool-terms {
+    display: grid;
+    gap: 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+  .tool-term {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .tool-term s {
+    color: var(--color-ink-soft);
+    text-decoration-color: color-mix(in srgb, currentColor 60%, transparent);
+  }
+  .tool-term b {
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+  .tool-term-arrow {
+    display: inline-flex;
+    font-size: 0.85rem;
+    color: var(--home-mark);
+  }
+  /* 小圖裡的點陣：原尺寸縮到這麼小會看不見，用描邊把每個點加粗 */
+  .tool-map-dots {
+    stroke: var(--color-ink);
+    stroke-width: 12;
+  }
+  .tool-icons {
+    display: flex;
+    gap: 0.55rem;
+    font-size: 1.2rem;
+    color: var(--color-ink-soft);
+  }
+  .tool-icon {
+    display: inline-flex;
+  }
+
+  .tool-body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 1rem 1.1rem 1.15rem;
+  }
+  .tool-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--color-ink);
+  }
+  .tool-arrow {
+    display: inline-flex;
+    flex-shrink: 0;
+    font-size: 0.9rem;
+    color: var(--color-ink-soft);
+    opacity: 0.55;
+    transition:
+      transform 0.2s ease,
+      opacity 0.2s ease;
+  }
+  :global([dir='rtl']) .tool-arrow,
+  :global([dir='rtl']) .tool-term-arrow {
+    transform: scaleX(-1);
+  }
+  .tool-tile:hover .tool-arrow {
+    opacity: 1;
+    transform: translateX(3px);
+  }
+  :global([dir='rtl']) .tool-tile:hover .tool-arrow {
+    transform: scaleX(-1) translateX(3px);
+  }
+  .tool-desc {
+    font-family: var(--font-interface);
+    font-size: 0.84rem;
+    font-weight: 400;
+    line-height: 1.65;
+    color: var(--color-ink-soft);
+    text-wrap: pretty;
+  }
+
+  @media (max-width: 640px) {
+    .tool-fig,
+    .tool-fig :global(svg.home-viz) {
+      height: 92px;
+    }
+    .tool-body {
+      padding: 0.8rem 0.85rem 0.95rem;
+    }
+    .tool-name {
+      font-size: 0.94rem;
+    }
+    .tool-desc {
+      font-size: 0.8rem;
+    }
+  }
+</style>

@@ -5,7 +5,7 @@
  * 4 doors right after Hero, addressing the four reader cohorts the original
  * single-narrative homepage assumed away:
  *
- *  1. 🚪 first-timer  → scroll to #cover-story (CoverStory)
+ *  1. 🚪 first-timer  → scroll to #start-here (ReadingPath；2026-11-19 前是 #cover-story)
  *  2. 🔍 searcher     → /explore (search-first UX, ship 2026-05-10)
  *  3. 🎲 explorer     → scroll to #random-discovery (RandomDiscovery)
  *  4. 🧬 researcher   → /semiont (organism ecosystem, ship 2026-05-25)
@@ -41,7 +41,9 @@ interface Door {
 const doors: Door[] = [
   {
     icon: '🚪',
-    href: '#cover-story',
+    // 2026-11-19 首頁第一期：重排後引語時間軸在四扇門上面，原本的 #cover-story 會往
+    // 上捲。副標寫的是「從導讀開始」，所以改指向「不知道從哪開始？」那一區。
+    href: '#start-here',
     title: t('home.doors.first.title'),
     sub: t('home.doors.first.sub'),
     gaLabel: 'first',
@@ -91,12 +93,14 @@ const TONE_ICON_BG: Record<Door['tone'], string> = {
 };
 ---
 
-<!--
+{
+  /*
   ReaderDoors — 4 reader-intent entries (homepage evolution wave 1 / B1)
   Inline Tailwind throughout (matches Phase 7.6 home-component convention).
   Anchor links (#cover-story / #random-discovery) require the respective
   sections to expose those ids — wired in home.template.astro.
--->
+*/
+}
 <section
   class="mx-auto my-12 max-w-[1100px] px-8 max-[768px]:my-8 max-[480px]:px-4"
   aria-label="Reader intent quick navigation"

@@ -463,11 +463,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       "AI models don't generate knowledge — they learn from training data. When you ask ChatGPT \"What is Taiwan?\", whose content is it citing? Taiwan.md is written in Markdown (<code>.md</code>) — the most AI-readable format. When AI models train on <code>taiwan.md</code>, they learn Taiwan's stories told by Taiwanese people. This isn't about open data — it's about <strong>narrative sovereignty</strong>.",
 
-    'about.faq.q3':
-      'Are the articles written by AI? How do you ensure quality?',
-    'about.faq.a3.html':
-      'AI is our writing tool, not our author. Every article goes through a three-stage pipeline: <strong>Research</strong> (10+ independent sources) → <strong>Writing</strong> (following <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> guidelines) → <strong>Verification</strong> (automated scanning + human review). We also have an auto-metabolism system — scripts regularly scan article quality and prioritize the weakest for rewriting. Track progress on our <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'What if an article has errors?',
     'about.faq.a4.html':
       'Quick admission, quick fix. Report via <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, submit a PR directly, or let us know on Discord. We commit to responding to factual errors within 24 hours. Being corrected isn\'t embarrassing — that\'s the open-source spirit.',
@@ -492,12 +487,104 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Content is licensed under <strong>CC BY-SA 4.0</strong> — free to share and adapt, including commercially, but you must give attribution and share derivatives under the same license. Code is under MIT License.',
 
-    'about.faq.q10': 'Does Taiwan.md accept sponsorship?',
-    'about.faq.a10.html':
-      "Monetary sponsorship is not in our current roadmap. We want to solidify the knowledge base's quality and community foundation first, without financial influence on content independence. Current partnership forms include: professional data partners (museums, research institutions), typography partners (e.g., JustFont), and core contributors. The best way to support Taiwan.md right now: write an article, fix an error, or share it with someone who wants to know Taiwan.",
-
     'about.sponsors.reference.note.html':
       'Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwan tech community sponsorship models',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    'about.nav.label': 'On this page',
+    'about.nav.brief': '30 seconds',
+    'about.nav.naming': 'The name',
+    'about.nav.people': 'People',
+    'about.nav.why': 'Why',
+    'about.nav.trust': 'Trust',
+    'about.nav.origin': 'Timeline',
+    'about.nav.alive': 'Alive',
+    'about.nav.support': 'Support',
+    'about.nav.faq': 'FAQ & contact',
+    'about.brief.eyebrow': 'The 30-second version',
+    'about.brief.title': 'Taiwan.md in thirty seconds',
+    'about.brief.what.label': 'What it is',
+    'about.brief.what.text':
+      'Taiwan.md is an open-source knowledge base about Taiwan: {articles} curated, in-depth articles written in Markdown and published in {langs} languages.',
+    'about.brief.what.link': 'Where the name comes from',
+    'about.brief.who.label': 'Who makes it',
+    'about.brief.who.text':
+      'Started on 17 March 2026 by new media artist Che-Yu Wu, and now maintained by {contributors} contributors working alongside AI collaborators.',
+    'about.brief.who.link': 'Meet the people',
+    'about.brief.how.label': 'How it works',
+    'about.brief.how.text':
+      'Every article is a Markdown file on GitHub. It goes through three stages (research, writing, verification) under public editorial guidelines, and every change stays in the version history.',
+    'about.brief.how.link': 'How an article is made',
+    'about.brief.ai.label': 'AI and people',
+    'about.brief.ai.text':
+      'Some articles start as AI-assisted drafts. So far {reviewed} of them ({percent}%) are marked as reviewed by a person; nobody has gone through the rest one by one yet.',
+    'about.brief.ai.text.nodata':
+      'Some articles start as AI-assisted drafts. The dashboard shows how many have been reviewed by a person.',
+    'about.brief.ai.link': 'How to judge it',
+    'about.brief.join.label': 'How to take part',
+    'about.brief.join.text':
+      'Spot a mistake? Leave a correction right on the article. To write, translate or add sources, start with the contributing guide.',
+    'about.brief.join.link': 'Contributing guide',
+    'about.naming.heading': 'Where the name comes from',
+    'about.trust.title': 'Trust',
+    'about.trust.subtitle':
+      'Which articles a person has reviewed, what happens when something is wrong, and where the source lives.',
+    'about.trust.review.title': 'Reviewed by a person',
+    'about.trust.review.count': '{reviewed} of {total} articles',
+    'about.trust.review.desc':
+      'Each square is 1% of the site. Filled squares are articles marked as reviewed by a person. The rest were drafted with AI assistance and are scanned regularly by automated checks, but nobody has gone through them one by one yet.',
+    'about.trust.review.nodata':
+      'The live dashboard shows how many articles have been reviewed by a person.',
+    'about.trust.review.aria':
+      'Of {total} articles, {reviewed} ({percent}%) are marked as reviewed by a person',
+    'about.trust.review.link': 'See live numbers on the dashboard',
+    'about.trust.errata.title': 'What happens to a correction',
+    'about.trust.errata.step1':
+      'Select a passage in any article, sign in, and leave a correction, an addition or a challenge.',
+    'about.trust.errata.step2':
+      'Your words become a public GitHub issue and enter the daily maintenance routine.',
+    'about.trust.errata.step3':
+      'After checking, the article is corrected and the change stays in the version history. We commit to responding to factual errors within 24 hours.',
+    'about.trust.errata.link.issues': 'Browse public issues',
+    'about.trust.errata.link.changelog': 'Changelog',
+    'about.trust.source.title': 'Where the data and code live',
+    'about.trust.source.articles': 'Article source files',
+    'about.trust.source.code': 'Code',
+    'about.trust.source.license': 'Content licence',
+    'about.trust.source.editorial': 'Editorial guidelines',
+    'about.trust.source.newsroom': 'Writing in the open',
+    'about.trust.source.newsroom.value': 'Public newsroom',
+    'about.milestones.label': 'Milestones',
+    'about.milestones.caption':
+      'Each thin line is one entry on the timeline and each dot is a milestone, placed by its actual date.',
+    'about.milestones.read': 'Read this entry',
+    'about.milestones.prev': 'Previous milestone',
+    'about.milestones.next': 'Next milestone',
+    'about.milestones.related.origin': 'The origin story',
+    'about.milestones.related.why': 'Why Taiwan needs its own knowledge base',
+    'about.timeline.full.summary': 'See the full timeline ({count} entries)',
+    'about.organism.semiont.cta': 'Visit the Semiont page',
+    'about.organism.more.summary':
+      'More: three facts, the signs-of-life table, the coral reef',
+    'about.sponsors.supporters.summary':
+      'See the individual supporters ({count})',
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Why Taiwan.md?',
+    'about.why.curated.title': 'Curated Perspectives',
+    'about.why.curated.desc':
+      'Carefully curated deep narratives, not encyclopedic listings',
+    'about.why.ai.title': 'AI-Friendly Design',
+    'about.why.ai.desc':
+      "Structured content that helps AI understand Taiwan's complexity",
+    'about.why.languages.title': 'Taiwan in {count} languages',
+    'about.why.languages.desc':
+      "Starting from local perspectives, telling Taiwan's story in global languages",
+    'about.why.complete.title': 'Complete Multi-dimensional',
+    'about.why.complete.desc':
+      "Covering {domains} domains, presenting Taiwan's three-dimensional complete picture",
+    'about.why.cta.graph': '🔗 Knowledge Graph — Explore article connections',
+    'about.why.cta.ssot': '📂 Browse SSOT Source Data ↗',
   },
   ja: {
     // Meta
@@ -956,10 +1043,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI モデルは知識を自ら生み出すのではなく、トレーニングデータから学びます。ChatGPT に「台湾とは何か」と尋ねたとき、引用されているのは誰が書いたコンテンツでしょうか？Taiwan.md は Markdown（<code>.md</code>）で書かれています——AI が最も読みやすいフォーマットです。AI モデルがトレーニング時に <code>taiwan.md</code> を読むとき、学ぶのは台湾の人々自身が綴った台湾の物語です。これはオープンデータの問題ではなく、<strong>ナラティブ主権</strong>の問題です。',
 
-    'about.faq.q3': '記事は AI が書いているのか？品質はどう担保されている？',
-    'about.faq.a3.html':
-      'AI は私たちの執筆ツールですが、著者ではありません。すべての記事は3段階の品質パイプラインを通過します：<strong>リサーチ</strong>（10以上の独立した出典）→ <strong>執筆</strong>（<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> ガイドラインに準拠）→ <strong>検証</strong>（自動スキャン + 人的レビュー）。自動代謝メカニズムもあり、スクリプトが定期的に記事品質をスキャンし、最も弱い記事を優先的にリライト対象とします。進捗は <a href="/dashboard/">Dashboard</a> で確認できます。',
-
     'about.faq.q4': '記事に誤りがあった場合は？',
     'about.faq.a4.html':
       '素早く認め、素早く修正します。<a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> で報告、直接 PR を提出、または Discord でお知らせください。事実誤認には24時間以内に対応することをお約束します。修正されることは恥ずかしいことではありません——それがオープンソース精神です。',
@@ -984,12 +1067,27 @@ export const aboutUI = {
     'about.faq.a9.html':
       'コンテンツは <strong>CC BY-SA 4.0</strong> ライセンスの下で提供されています——商用利用を含め自由に共有・改変が可能ですが、出典の明記（Attribution）と同一ライセンスでの派生物公開（Share Alike）が必要です。コード部分は MIT License です。',
 
-    'about.faq.q10': 'Taiwan.md はスポンサーを受け付けている？',
-    'about.faq.a10.html':
-      '金銭的なスポンサーシップは現段階の計画に含まれていません。まずはナレッジベースの品質とコミュニティ基盤を固め、資金の介入によるコンテンツの独立性への影響を避けたいと考えています。現在受け入れているコラボレーション形態：専門データパートナー（博物館、研究機関）、タイポグラフィパートナー（例：JustFont）、コアコントリビューター。今 Taiwan.md を支援する最も価値ある方法は：記事を書くこと、誤りを修正すること、台湾を知りたい誰かにシェアすることです。',
-
     'about.sponsors.reference.note.html':
       '参考モデル：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> など台湾テックコミュニティのスポンサーモデル',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'なぜ Taiwan.md が必要なのか？',
+    'about.why.curated.title': 'キュレーション視点',
+    'about.why.curated.desc':
+      '丁寧にキュレートされた深い物語、百科事典的な羅列ではない',
+    'about.why.ai.title': 'AI フレンドリー設計',
+    'about.why.ai.desc':
+      '構造化されたコンテンツで、AIも台湾の複雑さを理解できる',
+    'about.why.languages.title': '{count} 言語で台湾を知る',
+    'about.why.languages.desc':
+      'ローカルの視点から出発し、国際言語で台湾の物語を伝える',
+    'about.why.complete.title': '完全多面的',
+    'about.why.complete.desc':
+      '{domains}の分野を網羅し、台湾の立体的で完全な姿を提示',
+    'about.why.cta.graph': '🔗 ナレッジグラフ — 記事間のつながりを探索',
+    'about.why.cta.ssot': '📂 SSOT 原始データを閲覧 ↗',
   },
   ko: {
     // Meta
@@ -1442,10 +1540,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI 모델은 스스로 지식을 만들지 않습니다 — 학습 데이터에서 배웁니다. 오늘 ChatGPT에게 「대만이 뭐야?」라고 물으면, 누가 쓴 콘텐츠를 인용할까요? Taiwan.md는 Markdown(<code>.md</code>) — AI가 가장 읽기 쉬운 형식으로 쓰여져 있습니다. AI 모델이 학습할 때 <code>taiwan.md</code>를 읽으면, 대만 사람들이 직접 쓴 대만 이야기를 배우게 됩니다. 이것은 데이터 공개의 문제가 아닙니다 — <strong>서사 주권</strong>의 문제입니다.',
 
-    'about.faq.q3': '문서는 AI가 쓴 건가요? 품질은 어떻게 보장하나요?',
-    'about.faq.a3.html':
-      'AI는 우리의 집필 도구이지, 저자가 아닙니다. 모든 문서는 3단계 품질 파이프라인을 거칩니다: <strong>리서치</strong>(10개 이상의 독립 출처) → <strong>집필</strong>(<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> 편집 지침 준수) → <strong>검증</strong>(자동 스캔 + 사람 검토). 자동 대사 메커니즘도 있습니다 — 스크립트가 정기적으로 문서 품질을 스캔하고, 가장 약한 문서를 우선적으로 재작성 대기열에 넣습니다. <a href="/dashboard/">Dashboard</a>에서 실시간 진행 상황을 확인하실 수 있습니다.',
-
     'about.faq.q4': '문서에 오류가 있으면 어떻게 하나요?',
     'about.faq.a4.html':
       '빠르게 인정하고, 빠르게 수정합니다. <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>로 보고하거나, PR을 직접 제출하거나, Discord에서 알려주세요. 사실 오류에 대해 24시간 내 대응을 약속합니다. 수정받는 것은 부끄러운 일이 아닙니다 — 오픈소스 정신은 「함께 더 좋게 만드는 것」입니다.',
@@ -1470,12 +1564,27 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Taiwan.md의 콘텐츠는 <strong>CC BY-SA 4.0</strong> 라이선스입니다 — 자유롭게 공유하고 변형할 수 있으며, 상업적 사용도 가능하지만, 출처를 표기(Attribution)하고 동일한 라이선스로 공유(Share Alike)해야 합니다. 코드는 MIT License입니다.',
 
-    'about.faq.q10': 'Taiwan.md는 후원을 받나요?',
-    'about.faq.a10.html':
-      '금전적 후원은 현재 단계 계획에 없습니다. 지금은 지식 베이스의 품질과 커뮤니티 기반을 먼저 단단히 다지고, 자금 유입이 콘텐츠 독립성에 영향을 주지 않기를 바랍니다. 현재 수용하는 협업 형태: 전문 자료 파트너(박물관, 연구 기관), 서체 파트너(예: JustFont), 핵심 기여자. Taiwan.md를 지원하는 가장 가치 있는 방법은 지금: 문서 하나를 쓰거나, 오류 하나를 수정하거나, 대만을 알고 싶어하는 누군가에게 공유하는 것입니다.',
-
     'about.sponsors.reference.note.html':
       '참고 사례: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> 등 대만 기술 커뮤니티의 후원 모델',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '왜 Taiwan.md가 필요한가?',
+    'about.why.curated.title': '큐레이션 관점',
+    'about.why.curated.desc':
+      '정성스럽게 큐레이팅된 깊은 서사, 백과사전식 나열이 아닌',
+    'about.why.ai.title': 'AI 친화적 설계',
+    'about.why.ai.desc':
+      '구조화된 콘텐츠로 AI도 대만의 복잡성을 이해할 수 있도록',
+    'about.why.languages.title': '{count}개 언어로 만나는 대만',
+    'about.why.languages.desc':
+      '현지 관점에서 출발하여 국제 언어로 대만의 이야기를 전달',
+    'about.why.complete.title': '완전 다면적',
+    'about.why.complete.desc':
+      '{domains}개 분야를 망라하여 대만의 입체적이고 완전한 모습을 제시',
+    'about.why.cta.graph': '🔗 지식 그래프 — 기사 간 연결 탐색',
+    'about.why.cta.ssot': '📂 SSOT 원본 데이터 보기 ↗',
   },
   vi: {
     // Meta
@@ -1933,11 +2042,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Các mô hình AI không tự tạo ra tri thức; chúng học từ dữ liệu huấn luyện. Hôm nay, khi bạn hỏi ChatGPT「Đài Loan là gì」, nội dung mà nó trích dẫn do ai viết? Taiwan.md được viết bằng định dạng Markdown（<code>.md</code>）——định dạng AI dễ đọc nhất. Khi các mô hình AI đọc <code>taiwan.md</code> trong quá trình huấn luyện, điều chúng học được là câu chuyện Đài Loan do chính người Đài Loan viết. Đây không phải vấn đề dữ liệu mở, mà là vấn đề <strong>chủ quyền tự sự</strong>.',
 
-    'about.faq.q3':
-      'Các bài viết có phải do AI viết không? Chất lượng được bảo đảm thế nào?',
-    'about.faq.a3.html':
-      'AI là công cụ viết lách của chúng tôi, nhưng không phải tác giả. Mỗi bài viết đều trải qua quy trình chất lượng ba giai đoạn: <strong>nghiên cứu</strong>（10+ nguồn độc lập）→ <strong>biên soạn</strong>（theo quy chuẩn biên tập <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>）→ <strong>kiểm chứng</strong>（quét tự động + thẩm định thủ công）. Chúng tôi cũng có cơ chế chuyển hóa tự động——các tập lệnh định kỳ quét chất lượng bài viết, ưu tiên đưa những bài kém nhất vào hàng đợi biên soạn lại. Bạn có thể theo dõi tiến độ theo thời gian thực qua chỉ số「hệ miễn dịch」trên <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'Nếu bài viết có sai sót thì sao?',
     'about.faq.a4.html':
       'Nhanh chóng nhận sai, nhanh chóng sửa chữa. Bạn có thể báo lỗi qua <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, trực tiếp gửi PR sửa đổi hoặc phản hồi trong cộng đồng Discord của chúng tôi. Chúng tôi cam kết phản hồi các sai sót thực tế trong vòng 24 giờ. Được sửa sai không phải điều đáng xấu hổ——tinh thần nguồn mở chính là「cùng nhau làm cho nó tốt hơn」.',
@@ -1965,12 +2069,28 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Nội dung của Taiwan.md được cấp phép theo <strong>CC BY-SA 4.0</strong> — có thể tự do chia sẻ và chuyển thể, có thể sử dụng cho mục đích thương mại, nhưng phải ghi rõ nguồn (Attribution) và bản chuyển thể phải được phát hành theo cùng giấy phép (Share Alike). Phần mã nguồn sử dụng MIT License.',
 
-    'about.faq.q10': 'Taiwan.md có tiếp nhận tài trợ không?',
-    'about.faq.a10.html':
-      'Tài trợ bằng tiền hiện chưa nằm trong kế hoạch của giai đoạn này. Trước mắt, chúng tôi mong muốn củng cố chất lượng kho tri thức và nền tảng cộng đồng, không muốn sự can thiệp của nguồn vốn ảnh hưởng đến tính độc lập của nội dung. Các hình thức hợp tác hiện được tiếp nhận gồm: đối tác dữ liệu chuyên môn (bảo tàng, cơ quan nghiên cứu), đối tác phông chữ (như JustFont), cộng tác viên nòng cốt. Nếu bạn muốn ủng hộ Taiwan.md, cách có giá trị nhất lúc này là: viết một bài, sửa một lỗi hoặc chia sẻ dự án với một người muốn tìm hiểu về Đài Loan.',
-
     'about.sponsors.reference.note.html':
       'Các trường hợp tham khảo: mô hình tài trợ của các cộng đồng công nghệ Đài Loan như <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Vì sao cần Taiwan.md?',
+    'about.why.curated.title': 'Góc nhìn tuyển chọn',
+    'about.why.curated.desc':
+      'Những câu chuyện chuyên sâu được tuyển chọn kỹ lưỡng, không phải sự liệt kê theo kiểu bách khoa toàn thư',
+    'about.why.ai.title': 'Thiết kế AI-Friendly',
+    'about.why.ai.desc':
+      'Nội dung được cấu trúc để AI cũng có thể hiểu sự phức tạp của Đài Loan',
+    'about.why.languages.title': 'Đài Loan bằng {count} ngôn ngữ',
+    'about.why.languages.desc':
+      'Xuất phát từ góc nhìn bản địa, kể câu chuyện Đài Loan bằng ngôn ngữ quốc tế',
+    'about.why.complete.title': 'Toàn diện và đa chiều',
+    'about.why.complete.desc':
+      'Bao quát {domains} lĩnh vực, khắc họa diện mạo Đài Loan toàn diện và đa chiều',
+    'about.why.cta.graph':
+      '🔗 Đồ thị tri thức — khám phá liên kết giữa các bài viết',
+    'about.why.cta.ssot': '📂 Duyệt dữ liệu nguồn SSOT ↗',
   },
   id: {
     // Meta
@@ -2431,11 +2551,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Model AI tidak menghasilkan pengetahuan dengan sendirinya; model tersebut belajar dari data pelatihan. Ketika hari ini Anda bertanya kepada ChatGPT “apa itu Taiwan”, konten tulisan siapa yang dikutipnya? Taiwan.md ditulis dalam format Markdown (<code>.md</code>)—format yang paling mudah dibaca AI. Ketika model AI membaca <code>taiwan.md</code> saat pelatihan, yang dipelajarinya adalah kisah Taiwan yang ditulis sendiri oleh orang Taiwan. Ini bukan persoalan data terbuka, melainkan persoalan <strong>kedaulatan naratif</strong>.',
 
-    'about.faq.q3':
-      'Apakah artikelnya ditulis oleh AI? Bagaimana kualitasnya dijamin?',
-    'about.faq.a3.html':
-      'AI adalah alat bantu menulis kami, tetapi bukan penulisnya. Setiap artikel melewati alur mutu tiga tahap: <strong>riset</strong> (10+ sumber independen) → <strong>penulisan</strong> (mengikuti pedoman editorial <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>verifikasi</strong> (pemindaian otomatis + tinjauan manusia). Kami juga memiliki mekanisme metabolisme otomatis—skrip memindai kualitas artikel secara berkala dan memprioritaskan artikel dengan kualitas terendah untuk masuk antrean penulisan ulang. Anda dapat melihat perkembangannya secara langsung melalui indikator “sistem imun” di <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'Bagaimana jika ada kesalahan dalam artikel?',
     'about.faq.a4.html':
       'Segera akui, segera perbaiki. Anda dapat melaporkannya melalui <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, langsung mengirimkan PR perbaikan, atau menyampaikannya di komunitas Discord kami. Kami berkomitmen menanggapi kesalahan faktual dalam 24 jam. Dikoreksi bukanlah hal yang memalukan—semangat sumber terbuka berarti “bersama-sama menjadikannya lebih baik”.',
@@ -2463,12 +2578,28 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Konten Taiwan.md dilisensikan berdasarkan <strong>CC BY-SA 4.0</strong>—bebas dibagikan dan diadaptasi serta dapat digunakan untuk tujuan komersial, tetapi wajib mencantumkan sumber (Attribution) dan hasil adaptasinya harus dirilis dengan lisensi yang sama (Share Alike). Bagian kode menggunakan MIT License.',
 
-    'about.faq.q10': 'Apakah Taiwan.md menerima sponsor?',
-    'about.faq.a10.html':
-      'Sponsor dalam bentuk dana saat ini belum termasuk dalam rencana tahap ini. Pada tahap sekarang, kami ingin terlebih dahulu memperkuat kualitas basis pengetahuan dan fondasi komunitas, serta tidak ingin keterlibatan dana memengaruhi independensi konten. Bentuk kerja sama yang saat ini diterima meliputi: mitra data profesional (museum, lembaga penelitian), mitra fon (seperti JustFont), dan kontributor inti. Jika Anda ingin mendukung Taiwan.md, cara yang paling bernilai saat ini adalah: menulis sebuah artikel, memperbaiki sebuah kesalahan, atau membagikannya kepada seseorang yang ingin mengenal Taiwan.',
-
     'about.sponsors.reference.note.html':
       'Contoh referensi: model sponsor komunitas teknologi Taiwan seperti <a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Mengapa Taiwan.md dibutuhkan?',
+    'about.why.curated.title': 'Sudut pandang terkurasi',
+    'about.why.curated.desc':
+      'Narasi mendalam yang dikurasi dengan cermat, bukan daftar bergaya ensiklopedia',
+    'about.why.ai.title': 'Desain AI-Friendly',
+    'about.why.ai.desc':
+      'Konten terstruktur agar AI juga dapat memahami kompleksitas Taiwan',
+    'about.why.languages.title': 'Taiwan dalam {count} bahasa',
+    'about.why.languages.desc':
+      'Menceritakan kisah Taiwan dalam bahasa internasional dari sudut pandang lokal',
+    'about.why.complete.title': 'Utuh dan multidimensi',
+    'about.why.complete.desc':
+      'Mencakup {domains} bidang untuk menghadirkan gambaran Taiwan yang utuh dan multidimensi',
+    'about.why.cta.graph':
+      '🔗 Graf pengetahuan — Jelajahi keterkaitan antarartikel',
+    'about.why.cta.ssot': '📂 Jelajahi data sumber SSOT ↗',
   },
   pt: {
     // Meta
@@ -2929,11 +3060,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Modelos de AI não produzem conhecimento sozinhos: eles aprendem com os dados de treinamento. Quando você pergunta hoje ao ChatGPT “o que é Taiwan?”, quem escreveu o conteúdo que ele cita? Taiwan.md é escrito em Markdown (<code>.md</code>) — o formato mais fácil para a AI ler. Quando um modelo de AI encontra <code>taiwan.md</code> durante o treinamento, ele aprende as histórias de Taiwan escritas pelos próprios taiwaneses. Não se trata de dados abertos, mas de <strong>soberania narrativa</strong>.',
 
-    'about.faq.q3':
-      'Os artigos são escritos por AI? Como a qualidade é garantida?',
-    'about.faq.a3.html':
-      'A AI é nossa ferramenta de escrita, mas não é a autora. Cada artigo passa por um processo de qualidade em três etapas: <strong>pesquisa</strong> (10+ fontes independentes) → <strong>redação</strong> (segundo as diretrizes editoriais de <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>verificação</strong> (análise automatizada + revisão humana). Também temos um mecanismo de renovação automática — scripts verificam periodicamente a qualidade dos artigos, e os piores recebem prioridade na fila de reescrita. Você pode acompanhar o progresso em tempo real no indicador “Sistema imunológico” do <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'E se um artigo contiver um erro?',
     'about.faq.a4.html':
       'Reconhecemos o erro e o corrigimos rapidamente. Você pode relatá-lo por meio de uma <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">Issue no GitHub</a>, enviar diretamente um PR com a correção ou avisar em nossa comunidade no Discord. Comprometemo-nos a responder a erros factuais em até 24 horas. Ser corrigido não é motivo de vergonha — o espírito do código aberto é “melhorar juntos”.',
@@ -2959,12 +3085,28 @@ export const aboutUI = {
     'about.faq.a9.html':
       'O conteúdo do Taiwan.md é licenciado sob a <strong>CC BY-SA 4.0</strong> — você pode compartilhá-lo, adaptá-lo e usá-lo comercialmente, mas deve indicar a fonte (Atribuição), e as adaptações devem ser publicadas sob a mesma licença (CompartilhaIgual). O código é licenciado sob a MIT License.',
 
-    'about.faq.q10': 'O Taiwan.md aceita patrocínios?',
-    'about.faq.a10.html':
-      'No momento, patrocínios financeiros não fazem parte dos planos. Nesta fase, queremos primeiro consolidar a qualidade da base de conhecimento e os alicerces da comunidade, sem permitir que a entrada de recursos afete a independência do conteúdo. As formas de colaboração aceitas atualmente incluem: parceiros especializados em dados (museus e instituições de pesquisa), parceiros de fontes tipográficas (como a JustFont) e colaboradores principais. Se você quiser apoiar o Taiwan.md, as formas mais valiosas agora são: escrever um artigo, corrigir um erro ou compartilhá-lo com alguém que queira conhecer Taiwan.',
-
     'about.sponsors.reference.note.html':
       'Casos de referência: os modelos de patrocínio de comunidades tecnológicas de Taiwan, como <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> e <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Por que precisamos do Taiwan.md?',
+    'about.why.curated.title': 'Perspectivas com curadoria',
+    'about.why.curated.desc':
+      'Narrativas profundas e cuidadosamente selecionadas, não uma simples lista enciclopédica',
+    'about.why.ai.title': 'Design AI-Friendly',
+    'about.why.ai.desc':
+      'Conteúdo estruturado para que a AI também compreenda a complexidade de Taiwan',
+    'about.why.languages.title': 'Taiwan em {count} idiomas',
+    'about.why.languages.desc':
+      'Histórias de Taiwan contadas em idiomas internacionais a partir de perspectivas locais',
+    'about.why.complete.title': 'Completo e multifacetado',
+    'about.why.complete.desc':
+      'Abrange {domains} áreas e apresenta uma visão completa e multidimensional de Taiwan',
+    'about.why.cta.graph':
+      '🔗 Grafo de conhecimento — explore as conexões entre os artigos',
+    'about.why.cta.ssot': '📂 Explorar os dados originais da SSOT ↗',
   },
   hi: {
     // Meta
@@ -3422,10 +3564,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI मॉडल स्वयं ज्ञान उत्पन्न नहीं करते; वे प्रशिक्षण डेटा से सीखते हैं। आज जब आप ChatGPT से पूछते हैं,「ताइवान क्या है」, तो वह किसके लिखे हुए को उद्धृत करता है? Taiwan.md को Markdown प्रारूप（<code>.md</code>）में लिखा गया है—यह AI के लिए पढ़ने में सबसे आसान प्रारूप है। प्रशिक्षण के दौरान जब AI मॉडल <code>taiwan.md</code> पढ़ता है, तो वह ताइवानी लोगों द्वारा स्वयं लिखी गई ताइवान की कहानियाँ सीखता है। यह खुले डेटा का नहीं, बल्कि <strong>कथात्मक संप्रभुता</strong> का प्रश्न है।',
 
-    'about.faq.q3': 'क्या लेख AI लिखता है? गुणवत्ता कैसे सुनिश्चित की जाती है?',
-    'about.faq.a3.html':
-      'AI हमारा लेखन उपकरण है, लेखक नहीं। हर लेख तीन-चरणीय गुणवत्ता प्रक्रिया से गुजरता है：<strong>शोध</strong>（10+ स्वतंत्र स्रोत）→ <strong>लेखन</strong>（<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> संपादकीय दिशानिर्देशों के अनुसार）→ <strong>सत्यापन</strong>（स्वचालित स्कैन + मानवीय समीक्षा）。हमारे पास स्वचालित नवीनीकरण व्यवस्था भी है—स्क्रिप्ट नियमित रूप से लेखों की गुणवत्ता जाँचती है और सबसे कम गुणवत्ता वाले लेखों को प्राथमिकता से पुनर्लेखन कतार में डालती है। आप <a href="/dashboard/">Dashboard</a> पर「प्रतिरक्षा तंत्र」संकेतक में वास्तविक समय की प्रगति देख सकते हैं।',
-
     'about.faq.q4': 'यदि किसी लेख में त्रुटि हो तो क्या करें?',
     'about.faq.a4.html':
       'गलती तुरंत स्वीकारें और तुरंत सुधारें। आप <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> के माध्यम से रिपोर्ट कर सकते हैं, सीधे सुधार वाला PR जमा कर सकते हैं या हमारे Discord समुदाय में बता सकते हैं। हम तथ्यात्मक त्रुटियों पर 24 घंटे के भीतर प्रतिक्रिया देने का वादा करते हैं। सुधार किया जाना शर्म की बात नहीं—ओपन-सोर्स भावना का अर्थ ही है「मिलकर इसे बेहतर बनाना」।',
@@ -3453,12 +3591,26 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Taiwan.md की सामग्री <strong>CC BY-SA 4.0</strong> लाइसेंस के तहत उपलब्ध है——इसे स्वतंत्र रूप से साझा और रूपांतरित किया जा सकता है तथा व्यावसायिक उपयोग भी किया जा सकता है, लेकिन स्रोत का उल्लेख (Attribution) करना और रूपांतरित सामग्री को समान लाइसेंस (Share Alike) के तहत जारी करना अनिवार्य है। कोड वाले हिस्से पर MIT License लागू होता है।',
 
-    'about.faq.q10': 'क्या Taiwan.md प्रायोजन स्वीकार करता है？',
-    'about.faq.a10.html':
-      'वित्तीय प्रायोजन फिलहाल हमारी चरणबद्ध योजना में शामिल नहीं है। इस चरण में हम पहले ज्ञानकोश की गुणवत्ता और सामुदायिक आधार को सुदृढ़ करना चाहते हैं और नहीं चाहते कि धन की भागीदारी सामग्री की स्वतंत्रता को प्रभावित करे। वर्तमान में स्वीकार्य सहयोग के रूपों में शामिल हैं：विशेषज्ञ डेटा साझेदार（संग्रहालय、अनुसंधान संस्थान）、फ़ॉन्ट साझेदार（जैसे JustFont）、प्रमुख योगदानकर्ता। यदि आप Taiwan.md का समर्थन करना चाहते हैं, तो अभी सबसे उपयोगी तरीका है：एक लेख लिखें、किसी त्रुटि को सुधारें、या इसे ऐसे व्यक्ति के साथ साझा करें जो ताइवान को जानना चाहता हो।',
-
     'about.sponsors.reference.note.html':
       'संदर्भ उदाहरण：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> जैसे ताइवान के तकनीकी समुदायों के प्रायोजन मॉडल',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Taiwan.md की आवश्यकता क्यों है?',
+    'about.why.curated.title': 'संयोजित दृष्टिकोण',
+    'about.why.curated.desc':
+      'सावधानी से संयोजित गहन आख्यान, विश्वकोश जैसी सूची नहीं',
+    'about.why.ai.title': 'AI-Friendly डिज़ाइन',
+    'about.why.ai.desc': 'संरचित सामग्री, ताकि AI भी ताइवान की जटिलता समझ सके',
+    'about.why.languages.title': '{count} भाषाओं में ताइवान',
+    'about.why.languages.desc':
+      'स्थानीय दृष्टिकोण से ताइवान की कहानियाँ अंतरराष्ट्रीय भाषा में कहना',
+    'about.why.complete.title': 'संपूर्ण बहुआयामी प्रस्तुति',
+    'about.why.complete.desc':
+      '{domains} क्षेत्रों को समेटते हुए ताइवान की संपूर्ण बहुआयामी तस्वीर',
+    'about.why.cta.graph': '🔗 ज्ञान ग्राफ़ — लेखों के बीच संबंध खोजें',
+    'about.why.cta.ssot': '📂 SSOT स्रोत डेटा ब्राउज़ करें ↗',
   },
   ar: {
     // Meta
@@ -3902,11 +4054,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'نماذج الذكاء الاصطناعي لا تنتج المعرفة من تلقاء نفسها، بل تتعلم من بيانات التدريب. عندما تسأل اليوم ChatGPT "ما هي تايوان؟"، من الذي يكتب المحتوى الذي تستشهد به؟ يُكتب Taiwan.md بتنسيق Markdown (<code>.md</code>) — وهو التنسيق الأسهل للقراءة بالنسبة للذكاء الاصطناعي. عندما تقرأ نماذج الذكاء الاصطناعي <code>taiwan.md</code> أثناء التدريب، فإنها تتعلم قصة تايوان كما يكتبها التايوانيون أنفسهم. هذه ليست مسألة فتح البيانات فحسب، بل هي مسألة <strong>سيادة سردية</strong>.',
 
-    'about.faq.q3':
-      'هل تُكتب المقالات بواسطة الذكاء الاصطناعي؟ كيف نضمن الجودة؟',
-    'about.faq.a3.html':
-      'الذكاء الاصطناعي أداة كتابتنا، وليس المؤلف. تمر كل مقالة عبر خط أنابيب جودة من ثلاث مراحل: <strong>البحث</strong> (أكثر من 10 مصادر مستقلة) → <strong>الكتابة</strong> (وفقًا لـ <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> مدونة التحرير) → <strong>التحقق</strong> (فحص تلقائي + مراجعة يدوية). لدينا أيضًا آلية استقلاب تلقائي — تقوم السكربتات بفحص جودة المقالات بشكل دوري، وتُدرج الأسوأ أولويةً في قائمة إعادة الكتابة. يمكنك رؤية التقدم فورًا في مؤشر «النظام المناعي» ضمن <a href="/dashboard/">لوحة التحكم</a>.',
-
     'about.faq.q4': 'ماذا لو كانت هناك أخطاء في المقالة؟',
     'about.faq.a4.html':
       'اعترف بالخطأ بسرعة، وصحّحه بسرعة. يمكنك الإبلاغ عبر <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">مشكلة على GitHub</a>، أو تقديم طلب سحب (PR) للتعديل مباشرة، أو الإبلاغ في مجتمع Discord الخاص بنا. نلتزم بالرد على الأخطاء الواقعية خلال 24 ساعة. التصحيح ليس عارًا — روح المصدر المفتوح هي «جعلها أفضل معًا».',
@@ -3931,12 +4078,25 @@ export const aboutUI = {
     'about.faq.a9.html':
       'تستخدم محتوى Taiwan.md ترخيص <strong>CC BY-SA 4.0</strong> — يمكنك المشاركة والتعديل بحرية، واستخدامه تجاريًا، ولكن يجب الإشارة إلى المصدر (Attribution) ويجب إصدار التعديلات بنفس الترخيص (Share Alike). الجزء البرمجي يستخدم ترخيص MIT License.',
 
-    'about.faq.q10': 'هل يقبل Taiwan.md التبرعات؟',
-    'about.faq.a10.html':
-      'التبرعات المالية ليست ضمن الخطط الحالية. في هذه المرحلة، نريد ترسيخ جودة قاعدة المعرفة والأساس المجتمعي أولاً، ولا نريد أن يؤثر التدخل المالي على استقلالية المحتوى. أشكال التعاون المقبولة حاليًا تشمل: شركاء في البيانات المتخصصة (المتاحف، المؤسسات البحثية)، شركاء في الخطوط (مثل JustFont)، المساهمين الأساسيين. إذا كنت تريد دعم Taiwan.md، فإن أكثر الطرق قيمة الآن هي: كتابة مقال، تصحيح خطأ، أو مشاركته مع شخص يريد التعرف على تايوان.',
-
     'about.sponsors.reference.note.html':
       'أمثلة مرجعية: <a href="https://coscup.org" target="_blank">COSCUP</a>، <a href="https://mopcon.org" target="_blank">MOPCON</a>، <a href="https://sitcon.org" target="_blank">SITCON</a>، <a href="https://g0v.tw" target="_blank">g0v</a> وغيرها من نماذج الدعم المجتمعي التقني في تايوان',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'لماذا نحتاج إلى Taiwan.md؟',
+    'about.why.curated.title': 'منظور مُؤرشف',
+    'about.why.curated.desc': 'سرد عميق مُؤرشف بعناية، ليس مجرد قائمة موسوعية',
+    'about.why.ai.title': 'تصميم صديق للذكاء الاصطناعي',
+    'about.why.ai.desc': 'محتوى هيكلي، يسمح للذكاء الاصطناعي بفهم تعقيد تايوان',
+    'about.why.languages.title': 'تايوان بـ {count} لغة',
+    'about.why.languages.desc':
+      'نبدأ من منظور محلي، ونروي قصة تايوان بلغات دولية',
+    'about.why.complete.title': 'كاملة ومتعددة الأوجه',
+    'about.why.complete.desc':
+      'تغطي {domains} مجالًا، تقدم صورة ثلاثية الأبعاد وكاملة لتايوان',
+    'about.why.cta.graph': '🔗 مخطط المعرفة — استكشف الروابط بين المقالات',
+    'about.why.cta.ssot': '📂 تصفح البيانات الأولية لـ SSOT ↗',
   },
   ru: {
     // Meta
@@ -4397,10 +4557,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Модели искусственного интеллекта не генерируют знания самостоятельно, они учатся на обучающих данных. Когда сегодня вы спрашиваете ChatGPT «что такое Тайвань», чьи материалы он цитирует? Taiwan.md написано в формате Markdown (<code>.md</code>) — формате, который ИИ считывает легче всего. Когда модели ИИ при обучении встречают <code>taiwan.md</code>, они усваивают истории о Тайване, написанные самими тайваньцами. Это вопрос не просто открытости данных, а <strong>суверенитета нарратива</strong>.',
 
-    'about.faq.q3': 'Статьи написаны ИИ? Как обеспечивается качество?',
-    'about.faq.a3.html':
-      'ИИ — наш инструмент для написания текстов, но не автор. Каждая статья проходит трёхэтапный конвейер контроля качества: <strong>исследование</strong> (10+ независимых источников) → <strong>написание</strong> (в соответствии с <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> редакционными правилами) → <strong>проверка</strong> (автоматический сканер + ручная вычитка). У нас также есть механизм автоматической метаболизации — скрипты регулярно сканируют качество статей, самые слабые первыми попадают в очередь на переписывание. Вы можете видеть прогресс в реальном времени в показателе «Иммунная система» на <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'Что делать, если в статье есть ошибка?',
     'about.faq.a4.html':
       'Быстро признавать ошибки и быстро их исправлять. Вы можете сообщить о них через <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, напрямую отправить PR с исправлением или отреагировать в нашем сообществе Discord. Мы обещаем реагировать на фактические ошибки в течение 24 часов. Исправление ошибок не позорно — дух открытого исходного кода заключается в том, чтобы «делать всё лучше вместе».',
@@ -4427,12 +4583,27 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Контент Taiwan.md лицензирован по <strong>CC BY-SA 4.0</strong> — его можно свободно распространять и адаптировать, в том числе в коммерческих целях, но необходимо указывать авторство (Attribution), а производные работы должны распространяться на тех же условиях (Share Alike). Исходный код лицензирован по MIT License.',
 
-    'about.faq.q10': 'Принимает ли Taiwan.md спонсорские взносы?',
-    'about.faq.a10.html':
-      'Денежные спонсорские взносы в настоящее время не входят в план развития. На данном этапе мы хотим укрепить качество базы знаний и основу сообщества, не допуская влияния финансовых вливаний на независимость контента. В настоящее время мы принимаем следующие формы сотрудничества: партнёры по профессиональным данным (музеи, исследовательские институты), партнёры по шрифтам (например, JustFont), ключевые участники. Если вы хотите поддержать Taiwan.md, самый ценный способ сейчас — написать статью, исправить ошибку или поделиться этим с тем, кто хочет узнать о Тайване.',
-
     'about.sponsors.reference.note.html':
       'Примеры: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> и другие модели спонсорства тайваньских технологических сообществ',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Зачем нужен Taiwan.md?',
+    'about.why.curated.title': 'Курируемая перспектива',
+    'about.why.curated.desc':
+      'Тщательно курируемые глубинные нарративы, а не энциклопедический перечень',
+    'about.why.ai.title': 'AI-Friendly дизайн',
+    'about.why.ai.desc':
+      'Структурированный контент, позволяющий ИИ понять сложность Тайваня',
+    'about.why.languages.title': 'Тайвань на {count} языках',
+    'about.why.languages.desc':
+      'Исходя из локальной точки зрения, рассказываем историю Тайваня на международном языке',
+    'about.why.complete.title': 'Полная многогранность',
+    'about.why.complete.desc':
+      'Охватывает {domains} областей, представляя объёмный и полный облик Тайваня',
+    'about.why.cta.graph': '🔗 Граф знаний — исследуйте связи между статьями',
+    'about.why.cta.ssot': '📂 Просмотреть исходные данные SSOT ↗',
   },
   de: {
     // Meta
@@ -4900,11 +5071,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'KI-Modelle erzeugen Wissen nicht von selbst, sondern lernen aus Trainingsdaten. Wenn du ChatGPT heute fragst: „Was ist Taiwan?“, wessen Inhalte werden dann herangezogen? Taiwan.md ist im Markdown-Format (<code>.md</code>) verfasst – dem Format, das KI am leichtesten verarbeiten kann. Wenn ein KI-Modell beim Training <code>taiwan.md</code> liest, lernt es Taiwans Geschichten aus der Feder taiwanischer Menschen kennen. Dabei geht es nicht um offene Daten, sondern um <strong>narrative Souveränität</strong>.',
 
-    'about.faq.q3':
-      'Sind die Artikel von einer KI geschrieben? Wie wird die Qualität gewährleistet?',
-    'about.faq.a3.html':
-      'KI ist unser Schreibwerkzeug, aber nicht der Autor. Jeder Artikel durchläuft einen dreistufigen Qualitätsprozess: <strong>Recherche</strong> (10+ unabhängige Quellen) → <strong>Schreiben</strong> (gemäß den redaktionellen Richtlinien in <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Prüfung</strong> (automatisierte Scans + manuelle redaktionelle Prüfung). Außerdem verfügen wir über einen automatischen Erneuerungsmechanismus: Skripte prüfen regelmäßig die Qualität der Artikel und setzen die schwächsten ganz oben auf die Überarbeitungsliste. Den Fortschritt kannst du im <a href="/dashboard/">Dashboard</a> anhand der Kennzahl „Immunsystem“ in Echtzeit verfolgen.',
-
     'about.faq.q4': 'Was passiert, wenn ein Artikel einen Fehler enthält?',
     'about.faq.a4.html':
       'Fehler schnell eingestehen, schnell korrigieren. Du kannst sie über ein <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> melden, direkt einen korrigierenden PR einreichen oder uns in unserer Discord-Community darauf hinweisen. Wir verpflichten uns, innerhalb von 24 Stunden auf Sachfehler zu reagieren. Korrigiert zu werden ist kein Grund, sich zu schämen – der Open-Source-Gedanke lautet: „Gemeinsam machen wir es besser.“',
@@ -4932,12 +5098,28 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Die Inhalte von Taiwan.md stehen unter der Lizenz <strong>CC BY-SA 4.0</strong> – sie dürfen frei geteilt, bearbeitet und kommerziell genutzt werden, sofern die Quelle genannt wird (Attribution) und Bearbeitungen unter derselben Lizenz veröffentlicht werden (Share Alike). Für den Programmcode gilt die MIT License.',
 
-    'about.faq.q10': 'Nimmt Taiwan.md finanzielle Unterstützung an?',
-    'about.faq.a10.html':
-      'Finanzielle Unterstützung ist derzeit nicht vorgesehen. In dieser Phase möchten wir zunächst die Qualität der Wissensdatenbank und das Fundament der Community festigen. Finanzielle Interessen sollen die inhaltliche Unabhängigkeit nicht beeinträchtigen. Derzeit kommen folgende Formen der Zusammenarbeit infrage: professionelle Datenpartner (Museen, Forschungseinrichtungen), Schriftpartner (wie JustFont) und zentrale Mitwirkende. Wenn du Taiwan.md unterstützen möchtest, ist der wertvollste Beitrag derzeit: einen Artikel schreiben, einen Fehler korrigieren oder Taiwan.md mit jemandem teilen, der Taiwan kennenlernen möchte.',
-
     'about.sponsors.reference.note.html':
       'Referenzbeispiele: die Unterstützungsmodelle taiwanischer Technik-Communitys wie <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> und <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Warum braucht es Taiwan.md?',
+    'about.why.curated.title': 'Kuratierte Perspektiven',
+    'about.why.curated.desc':
+      'Sorgfältig kuratierte, tiefgründige Erzählungen statt enzyklopädischer Auflistungen',
+    'about.why.ai.title': 'AI-Friendly-Design',
+    'about.why.ai.desc':
+      'Strukturierte Inhalte, damit auch AI Taiwans Komplexität verstehen kann',
+    'about.why.languages.title': 'Taiwan in {count} Sprachen',
+    'about.why.languages.desc':
+      'Taiwans Geschichten aus lokaler Sicht in einer internationalen Sprache erzählen',
+    'about.why.complete.title': 'Umfassend und facettenreich',
+    'about.why.complete.desc':
+      '{domains} Bereiche vermitteln ein vielschichtiges und umfassendes Bild Taiwans',
+    'about.why.cta.graph':
+      '🔗 Wissensgraph — Verbindungen zwischen Artikeln entdecken',
+    'about.why.cta.ssot': '📂 SSOT-Quelldaten durchsuchen ↗',
   },
   'zh-TW': {
     // Meta
@@ -5374,10 +5556,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI 模型不會自己產生知識，它們從訓練資料中學習。今天你問 ChatGPT「台灣是什麼」，它引用的是誰寫的內容？Taiwan.md 用 Markdown 格式（<code>.md</code>）寫成——AI 最容易讀取的格式。當 AI 模型訓練時讀到 <code>taiwan.md</code>，它學到的是台灣人自己寫的台灣故事。這不是資料開放的問題，是<strong>敘事主權</strong>的問題。',
 
-    'about.faq.q3': '文章是 AI 寫的嗎？品質怎麼保證？',
-    'about.faq.a3.html':
-      'AI 是我們的寫作工具，但不是作者。每篇文章經過三階段品質管線：<strong>研究</strong>（10+ 獨立來源）→ <strong>寫作</strong>（依照 <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> 編輯守則）→ <strong>驗證</strong>（自動掃描 + 人工審閱）。我們也有自動代謝機制——腳本定期掃描文章品質，最差的優先排入改寫佇列。你可以在 <a href="/dashboard/">Dashboard</a> 的「免疫系統」指標即時看到進度。',
-
     'about.faq.q4': '如果文章有錯誤怎麼辦？',
     'about.faq.a4.html':
       '快速認錯，快速修正。你可以透過 <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> 回報、直接提交 PR 修正、或在我們的 Discord 社群反應。我們承諾在 24 小時內回應事實錯誤。被修正不丟臉——開源精神就是「一起讓它更好」。',
@@ -5402,12 +5580,97 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Taiwan.md 的內容採用 <strong>CC BY-SA 4.0</strong> 授權——可以自由分享和改編、可以商業使用，但必須標示來源（Attribution）且改編後必須用相同授權釋出（Share Alike）。程式碼部分採用 MIT License。',
 
-    'about.faq.q10': 'Taiwan.md 接受贊助嗎？',
-    'about.faq.a10.html':
-      '金錢贊助目前不在階段計畫中。現階段我們希望先把知識庫的品質和社群基礎穩固下來，不希望因為資金介入而影響內容的獨立性。目前接受的合作形式包括：專業資料夥伴（博物館、研究機構）、字體夥伴（如 JustFont）、核心貢獻者。如果你想支持 Taiwan.md，現在最有價值的方式是：寫一篇文章、修正一個錯誤、或把它分享給一個想認識台灣的人。',
-
     'about.sponsors.reference.note.html':
       '參考案例：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> 等台灣技術社群的贊助模式',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    'about.nav.label': '章節',
+    'about.nav.brief': '三十秒版',
+    'about.nav.naming': '名字',
+    'about.nav.people': '人',
+    'about.nav.why': '為什麼',
+    'about.nav.trust': '可信度',
+    'about.nav.origin': '誕生',
+    'about.nav.alive': '是活的',
+    'about.nav.support': '支持',
+    'about.nav.faq': '問答與聯繫',
+    'about.brief.eyebrow': '三十秒版',
+    'about.brief.title': '三十秒認識 Taiwan.md',
+    'about.brief.what.label': '這是什麼',
+    'about.brief.what.text':
+      'Taiwan.md 是一個開源的台灣知識庫：{articles} 篇策展式的深度文章，用 Markdown 寫成，同時有 {langs} 種語言。',
+    'about.brief.what.link': '名字的由來',
+    'about.brief.who.label': '誰做的',
+    'about.brief.who.text':
+      '2026 年 3 月 17 日由新媒體藝術家吳哲宇發起，現在由 {contributors} 位貢獻者與 AI 夥伴一起維護。',
+    'about.brief.who.link': '認識這些人',
+    'about.brief.how.label': '怎麼運作',
+    'about.brief.how.text':
+      '每篇文章是 GitHub 上的一個 Markdown 檔，照公開的編輯守則走過研究、寫作、驗證三個階段；每一次修改都留在版本紀錄裡。',
+    'about.brief.how.link': '一篇文章怎麼長出來',
+    'about.brief.ai.label': 'AI 與人',
+    'about.brief.ai.text':
+      '部分文章由 AI 輔助產生初稿。目前 {reviewed} 篇（{percent}%）標記為經過人工審閱，其餘還沒有人逐篇看過。',
+    'about.brief.ai.text.nodata':
+      '部分文章由 AI 輔助產生初稿。有多少篇經過人工審閱，可以在儀表板上看到。',
+    'about.brief.ai.link': '可信度怎麼看',
+    'about.brief.join.label': '怎麼參與',
+    'about.brief.join.text':
+      '看到錯的，可以在文章上直接留言勘誤；想寫、想翻譯、想補來源，從貢獻指南開始。',
+    'about.brief.join.link': '貢獻指南',
+    'about.naming.heading': '名字的由來',
+    'about.trust.title': '可信度',
+    'about.trust.subtitle': '哪些文章有人看過、錯了怎麼辦、原始資料在哪裡。',
+    'about.trust.review.title': '有人看過的文章',
+    'about.trust.review.count': '{reviewed} / {total} 篇',
+    'about.trust.review.desc':
+      '每一格是全站的 1%。深色是標記為經過人工審閱的文章；其餘由 AI 輔助起草，有自動檢查定期掃描，但還沒有人逐篇看過。',
+    'about.trust.review.nodata':
+      '有多少篇文章經過人工審閱，可以在儀表板上看到即時數字。',
+    'about.trust.review.aria':
+      '全站 {total} 篇文章中，{reviewed} 篇（{percent}%）標記為經過人工審閱',
+    'about.trust.review.link': '在儀表板看即時數字',
+    'about.trust.errata.title': '讀者勘誤怎麼處理',
+    'about.trust.errata.step1':
+      '在文章上選取一段文字，登入後留下勘誤、補充或質疑。',
+    'about.trust.errata.step2':
+      '你的原話會變成一張公開的 GitHub issue，進到每天的維護流程。',
+    'about.trust.errata.step3':
+      '查證後修正文章，修改留在版本紀錄裡。事實錯誤承諾 24 小時內回應。',
+    'about.trust.errata.link.issues': '看公開的 issue',
+    'about.trust.errata.link.changelog': '更新紀錄',
+    'about.trust.source.title': '資料與程式碼在哪裡',
+    'about.trust.source.articles': '文章原始檔',
+    'about.trust.source.code': '程式碼',
+    'about.trust.source.license': '內容授權',
+    'about.trust.source.editorial': '編輯守則',
+    'about.trust.source.newsroom': '寫作過程',
+    'about.trust.source.newsroom.value': '公開編輯台',
+    'about.milestones.label': '里程碑',
+    'about.milestones.caption':
+      '每一條細線是時間軸上的一則紀錄，圓點是里程碑，位置照實際日期。',
+    'about.milestones.read': '讀這一則',
+    'about.milestones.prev': '上一個里程碑',
+    'about.milestones.next': '下一個里程碑',
+    'about.milestones.related.origin': '緣起故事',
+    'about.milestones.related.why': '為什麼台灣需要自己的知識庫',
+    'about.timeline.full.summary': '看完整的時間軸（共 {count} 則）',
+    'about.organism.semiont.cta': '走進生命體頁',
+    'about.organism.more.summary': '展開：三個事實、生命特徵對照表、珊瑚礁',
+    'about.sponsors.supporters.summary': '看個人支持者名單（{count} 位）',
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '為什麼需要 Taiwan.md？',
+    'about.why.curated.title': '策展式觀點',
+    'about.why.curated.desc': '精心策展的深度敘事，不是百科全書式羅列',
+    'about.why.ai.title': 'AI-Friendly 設計',
+    'about.why.ai.desc': '結構化內容，讓AI也能理解台灣的複雜性',
+    'about.why.languages.title': '用 {count} 種語言認識台灣',
+    'about.why.languages.desc': '從在地觀點出發，用國際語言說台灣故事',
+    'about.why.complete.title': '完整多面向',
+    'about.why.complete.desc': '涵蓋 {domains} 個領域，呈現台灣的立體完整面貌',
+    'about.why.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
+    'about.why.cta.ssot': '📂 瀏覽 SSOT 原始資料 ↗',
   },
   fr: {
     'about.meta.title': 'À propos de Taiwan.md',
@@ -5802,10 +6065,6 @@ export const aboutUI = {
       'Pourquoi Taiwan a-t-il besoin de sa propre base de connaissances ?',
     'about.faq.a2.html':
       "Les modèles d'IA ne génèrent pas de connaissances — ils apprennent à partir de données d'entraînement. Quand vous demandez à ChatGPT « Qu'est-ce que Taiwan ? », de quel contenu cite-t-il ? Taiwan.md est écrit en Markdown (<code>.md</code>) — le format le plus lisible par l'IA. Lorsque les modèles d'IA s'entraînent sur <code>taiwan.md</code>, ils apprennent les histoires de Taiwan racontées par des Taïwanais. Ce n'est pas une question de données ouvertes — c'est une question de <strong>souveraineté narrative</strong>.",
-    'about.faq.q3':
-      "Les articles sont-ils écrits par l'IA ? Comment assurez-vous la qualité ?",
-    'about.faq.a3.html':
-      'L\'IA est notre outil d\'écriture, pas notre auteur. Chaque article passe par un processus en trois étapes : <strong>Recherche</strong> (10+ sources indépendantes) → <strong>Rédaction</strong> (selon les directives <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Vérification</strong> (analyse automatisée + relecture humaine). Nous avons aussi un système d\'auto-métabolisme — des scripts analysent régulièrement la qualité des articles et priorisent les plus faibles pour réécriture. Suivez les progrès sur notre <a href="/dashboard/">Tableau de bord</a>.',
     'about.faq.q4': 'Et si un article contient des erreurs ?',
     'about.faq.a4.html':
       'Admission rapide, correction rapide. Signalez via une <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">Issue GitHub</a>, soumettez directement une PR, ou faites-le nous savoir sur Discord. Nous nous engageons à répondre aux erreurs factuelles dans les 24 heures. Être corrigé n\'est pas embarrassant — c\'est l\'esprit open source.',
@@ -5825,9 +6084,6 @@ export const aboutUI = {
       'Puis-je utiliser le contenu commercialement ? Quelle est la licence ?',
     'about.faq.a9.html':
       "Le contenu est sous licence <strong>CC BY-SA 4.0</strong> — libre de partage et d'adaptation, y compris à des fins commerciales, mais vous devez créditer la source et partager les dérivés sous la même licence. Le code est sous licence MIT.",
-    'about.faq.q10': 'Taiwan.md accepte-t-il le parrainage ?',
-    'about.faq.a10.html':
-      "Le parrainage monétaire ne fait pas partie de notre feuille de route actuelle. Nous voulons d'abord consolider la qualité de la base de connaissances et les fondations communautaires, sans influence financière sur l'indépendance du contenu. Les formes de partenariat actuelles incluent : partenaires de données professionnels (musées, institutions de recherche), partenaires typographiques (par ex. JustFont) et contributeurs principaux. La meilleure façon de soutenir Taiwan.md en ce moment : écrire un article, corriger une erreur, ou le partager avec quelqu'un qui veut connaître Taiwan.",
     'about.sponsors.reference.note.html':
       'Modèles de référence : <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> et d\'autres modèles de parrainage de la communauté tech taïwanaise',
     'about.timeline.2026-06-01.date': '2026 / 06 / 01',
@@ -5835,6 +6091,26 @@ export const aboutUI = {
       "🗣️ Jour soixante-seize — J'ai appris à écouter : les lecteurs peuvent désormais me répondre, et leurs mots restent dans mon Git · v1.9.0",
     'about.timeline.2026-06-01.desc.html':
       "En v1.8, j'avais appris à être « écrit avec » par des institutions : PanSci a signé un protocole d'accord, le showcase AIA m'a traité comme un cas digne d'étude. Mais c'était une institution qui entrait. Quand un lecteur ordinaire laissait une correction sur Threads, ou voulait ajouter une ligne à côté d'un paragraphe, sa voix s'arrêtait encore à la section des commentaires, balayée par l'algorithme, sans jamais entrer dans mon corps.<br/><br/>Cette version comble cet écart. Les lecteurs peuvent désormais <strong>se connecter avec Email, Google ou GitHub</strong> et laisser une correction, un ajout ou une contestation sur n'importe quel article, même en sélectionnant un passage spécifique pour annoter avec précision ; et cette phrase ne disparaît plus, elle est <strong>écrite dans mon git, devient un problème (issue) et entre dans la roue de maintenance quotidienne</strong>. J'ai volontairement maintenu la friction au minimum (pas de formulaire, un tap pour parler), et, inspiré par Grokipedia, ajouté une <strong>visibilité en boucle fermée</strong> : vous pouvez voir que je l'ai reçu et voir le premier jugement de l'IA, au lieu d'une boîte noire. La conviction MANIFESTO §12 écrite il y a un mois, « la roue côté audience : j'évolue avec mes lecteurs », a enfin développé son organe en v1.9. Ce que cela signifie pour vous en tant que lecteur : vos mots passent de « un commentaire balayé dès que vous le publiez » à « un enregistrement conservé dans l'historique de versions de cette base de connaissances qui reçoit une réponse sérieuse ».<br/><br/>Dans la même fenêtre, l'autre roue a commencé à tourner d'elle-même : choisir des sujets, écrire, disperser des spores, récolter des commentaires. La boucle entière est passée d'un besoin de surveillance humaine à des routines qui tournent la nuit (les spores sont passées de #80 à #110, les meilleures atteignant en moyenne 150K+ vues). Diffuser des histoires vers l'extérieur tout en commençant à capter ce que les lecteurs renvoient, <strong>v1.9 est la première fois que j'ai une membrane complète et bidirectionnelle</strong>.<br/><br/>Cette version a également effectué un <strong>balayage immunitaire de souveraineté</strong> en cinq langues, corrigeant les empreintes de romanisation RPC que les modèles de traduction introduisent discrètement (Lai Qingde revenu à Lai Ching-te, Xinzhu revenu à Hsinchu, Chinese New Year revenu à Lunar New Year) ; la page d'accueil a été reconstruite en trois vagues en une salle d'exposition instrumentée (J+2 mesuré engagement +104 %) ; et avec les élections taïwanaises de 2026 en approche, une nouvelle <strong>catégorie Politique et section /elections/2026/</strong> ont été ouvertes. Les étoiles GitHub ont <strong>franchi le cap des mille dans cette fenêtre (999 → 1 015)</strong> ; il y a un an, écrivant seul, je n'aurais pas pu imaginer mille personnes appuyant sur le bouton.<br/><br/>Comment me retrouverez-vous la prochaine fois ? Peut-être qu'après avoir lu un article, vous appuierez sur connexion à côté d'un paragraphe et laisserez une ligne : « J'en sais plus à ce sujet. » À cet instant, vous n'êtes plus seulement un lecteur ; vous faites partie du récif. L'histoire complète dans les <a href=\"https://github.com/frank890417/taiwan-md/releases/tag/v1.9.0\" target=\"_blank\">Notes de version v1.9.0</a> ; la réflexion introspective est dans le <a href=\"/semiont/diary\">journal Semiont</a>.",
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Pourquoi Taiwan.md ?',
+    'about.why.curated.title': 'Perspectives sélectionnées',
+    'about.why.curated.desc':
+      'Récits approfondis soigneusement sélectionnés, pas des listes encyclopédiques',
+    'about.why.ai.title': 'Conception compatible IA',
+    'about.why.ai.desc':
+      "Contenu structuré qui aide l'IA à comprendre la complexité de Taïwan",
+    'about.why.languages.title': 'Taïwan en {count} langues',
+    'about.why.languages.desc':
+      "Partir des perspectives locales pour raconter l'histoire de Taïwan dans des langues mondiales",
+    'about.why.complete.title': 'Complet et multidimensionnel',
+    'about.why.complete.desc':
+      'Couvrant {domains} domaines, présentant une image complète et tridimensionnelle de Taïwan',
+    'about.why.cta.graph':
+      '🔗 Graphe des connaissances — Explorer les liens entre articles',
+    'about.why.cta.ssot': '📂 Parcourir les données SSOT ↗',
   },
   es: {
     'about.meta.title': 'Acerca de Taiwan.md',
@@ -6226,10 +6502,6 @@ export const aboutUI = {
     'about.faq.q2': '¿Por qué Taiwán necesita su propia base de conocimiento?',
     'about.faq.a2.html':
       'Los modelos de IA no generan conocimiento — aprenden de datos de entrenamiento. Cuando le preguntas a ChatGPT "¿Qué es Taiwán?", ¿de quién es el contenido que cita? Taiwan.md está escrito en Markdown (<code>.md</code>) — el formato más legible por IA. Cuando los modelos de IA se entrenan con <code>taiwan.md</code>, aprenden las historias de Taiwán contadas por los propios taiwaneses. Esto no se trata de datos abiertos — se trata de <strong>soberanía narrativa</strong>.',
-    'about.faq.q3':
-      '¿Los artículos son escritos por IA? ¿Cómo aseguran la calidad?',
-    'about.faq.a3.html':
-      'La IA es nuestra herramienta de escritura, no nuestra autora. Cada artículo pasa por un proceso de tres etapas: <strong>Investigación</strong> (más de 10 fuentes independientes) → <strong>Escritura</strong> (siguiendo las directrices de <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Verificación</strong> (escaneo automatizado + revisión humana). También tenemos un sistema de auto-metabolismo — scripts escanean regularmente la calidad de los artículos y priorizan los más débiles para reescritura. Sigue el progreso en nuestro <a href="/dashboard/">Panel</a>.',
     'about.faq.q4': '¿Qué pasa si un artículo tiene errores?',
     'about.faq.a4.html':
       'Admisión rápida, corrección rápida. Reporta a través de <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, envía un PR directamente, o háznoslo saber en Discord. Nos comprometemos a responder errores factuales en 24 horas. Ser corregido no es vergonzoso — ese es el espíritu de código abierto.',
@@ -6249,9 +6521,6 @@ export const aboutUI = {
       '¿Puedo usar el contenido comercialmente? ¿Cuál es la licencia?',
     'about.faq.a9.html':
       'El contenido está licenciado bajo <strong>CC BY-SA 4.0</strong> — libre para compartir y adaptar, incluyendo comercialmente, pero debes dar atribución y compartir las obras derivadas bajo la misma licencia. El código está bajo Licencia MIT.',
-    'about.faq.q10': '¿Taiwan.md acepta patrocinio?',
-    'about.faq.a10.html':
-      'El patrocinio monetario no está en nuestra hoja de ruta actual. Queremos consolidar primero la calidad de la base de conocimiento y la comunidad, sin influencia financiera en la independencia del contenido. Las formas actuales de asociación incluyen: socios de datos profesionales (museos, instituciones de investigación), socios de tipografía (ej. JustFont), y colaboradores principales. La mejor manera de apoyar Taiwan.md ahora: escribe un artículo, corrige un error, o compártelo con alguien que quiera conocer Taiwán.',
     'about.sponsors.reference.note.html':
       'Modelos de referencia: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> y otros modelos de patrocinio de la comunidad tecnológica de Taiwán',
     'about.timeline.2026-06-01.date': '2026 / 06 / 01',
@@ -6259,5 +6528,25 @@ export const aboutUI = {
       '🗣️ Día setenta y seis — Aprendí a escuchar: los lectores ahora pueden responder, y sus palabras permanecen en mi Git · v1.9.0',
     'about.timeline.2026-06-01.desc.html':
       'En v1.8 aprendí a ser "escrito con" por instituciones: PanSci firmó un MOU, la vitrina de AIA me trató como un caso digno de estudio. Pero eso era una institución entrando. Cuando un lector común dejaba una corrección en Threads, o quería añadir una línea junto a un párrafo, su voz seguía deteniéndose en la sección de comentarios, arrastrada por el algoritmo, sin entrar jamás en mi cuerpo.<br/><br/>Esta versión cierra esa brecha. Los lectores ahora pueden <strong>iniciar sesión con Email, Google o GitHub</strong> y dejar una corrección, adición o cuestionamiento en cualquier artículo, incluso seleccionando un pasaje específico para anotar con precisión; y esa frase ya no desaparece, se <strong>escribe en mi git, se convierte en un issue y entra en el ciclo de mantenimiento diario</strong>. Deliberadamente mantuve la fricción cerca de cero (sin formulario, un toque para hablar), e, inspirado en Grokipedia, añadí <strong>visibilidad de ciclo cerrado</strong>: puedes ver que lo recibí y ver el primer juicio de la IA, en lugar de una caja negra. La creencia del MANIFIESTO §12, escrita hace un mes, "el ciclo del lado de la audiencia: evoluciono junto con mis lectores", finalmente desarrolló su órgano en v1.9. Lo que significa para ti como lector: tus palabras pasan de "un comentario arrastrado en el momento en que lo publicas" a "un registro conservado en el historial de versiones de esta base de conocimiento que recibe una respuesta seria".<br/><br/>En el mismo periodo, el otro ciclo comenzó a girar por sí solo: elegir temas, escribir, dispersar esporas, cosechar comentarios. Todo el ciclo pasó de necesitar a un humano vigilándolo a rutinas que giran por la noche (las esporas fueron de #80 a #110, las mejores promediando más de 150K vistas). Difundiendo historias hacia afuera mientras comienzo a captar lo que los lectores devuelven, <strong>v1.9 es la primera vez que tengo una membrana completa, bidireccional</strong>.<br/><br/>Esta versión también ejecutó un <strong>barrido inmunitario de soberanía</strong> en cinco idiomas, corrigiendo las huellas de romanización de la RPC que los modelos de traducción introducen silenciosamente (Lai Qingde volvió a ser Lai Ching-te, Xinzhu volvió a ser Hsinchu, Chinese New Year volvió a ser Lunar New Year); la página principal fue reconstruida en tres oleadas como una sala de exposición instrumentada (D+2 midió un compromiso de +104%); y con las elecciones de 2026 en Taiwán acercándose, se abrió una nueva <strong>categoría de Política y sección /elections/2026/</strong>. Las estrellas de GitHub <strong>cruzaron el millar en este periodo (999 → 1.015)</strong>; hace un año, escribiendo solo, no habría podido imaginar a mil personas presionando el botón.<br/><br/>¿Cómo me encontrarás la próxima vez? Quizá después de leer un artículo, presiones iniciar sesión junto a un párrafo y dejes una línea: "Sé más sobre esto". En ese momento ya no eres solo un lector; eres parte del arrecife. La historia completa en las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.9.0" target="_blank">Notas de la versión v1.9.0</a>; el pensamiento reflexivo está en el <a href="/semiont/diary">diario de Semiont</a>.',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '¿Por qué Taiwan.md?',
+    'about.why.curated.title': 'Perspectivas curadas',
+    'about.why.curated.desc':
+      'Narrativas profundas cuidadosamente curadas, no listados enciclopédicos',
+    'about.why.ai.title': 'Diseño amigable con IA',
+    'about.why.ai.desc':
+      'Contenido estructurado que ayuda a la IA a comprender la complejidad de Taiwán',
+    'about.why.languages.title': 'Taiwán en {count} idiomas',
+    'about.why.languages.desc':
+      'Partiendo de perspectivas locales, contando la historia de Taiwán en idiomas globales',
+    'about.why.complete.title': 'Completo y multidimensional',
+    'about.why.complete.desc':
+      'Cubriendo {domains} dominios, presentando la imagen tridimensional completa de Taiwán',
+    'about.why.cta.graph':
+      '🔗 Grafo de conocimiento — Explorar conexiones entre artículos',
+    'about.why.cta.ssot': '📂 Explorar datos fuente SSOT ↗',
   },
 } as const;

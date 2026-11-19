@@ -1,0 +1,216 @@
+---
+/**
+ * JoinSection — 「參與與訂閱」。首頁第一期（2026-11-19）新增。
+ *
+ * 把原本頁尾附近各自一塊的兩區併成一區：
+ *   - ContributeSection（加入我們：貢獻指南、GitHub、贊助）
+ *   - NewsletterSection（訂閱週報）
+ * 再加上 iOS App 的入口（原本首頁內文沒有，只在頁尾）。
+ *
+ * 文字全部沿用 home.ts 既有的鍵，沒有改寫。訂閱表單照舊送到 Google 表單
+ * （隱藏的 iframe 接回應），表單的 id 與 data-ga-form 都沒動。
+ *
+ * 追蹤：外層區塊名由樣板掛；這裡保留兩個舊名在內層（`contribute`、
+ * `newsletter`），曝光與點擊的數據跟改版前接得上。
+ */
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../../i18n/utils';
+import { appStoreUrl, appStoreBadge } from '../../config/ios-app';
+import { useHomeT } from './home-i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const translatePath = useTranslatedPath(lang);
+const entryField = lang === 'zh-TW' ? 'entry.1578963213' : 'entry.1746160086';
+const appBadge = appStoreBadge(lang);
+---
+
+<iframe name="newsletter-iframe" title="newsletter" class="hidden"></iframe>
+<section class="join" aria-labelledby="contribute-heading">
+  <div
+    class="home-wrap grid grid-cols-[minmax(0,7fr)_minmax(0,5fr)] gap-x-[var(--home-gap-lg)] gap-y-[var(--home-gap-md)] max-[900px]:grid-cols-1"
+  >
+    <div data-ga-view="contribute">
+      <p class="home-eyebrow">{th('home.join.eyebrow')}</p>
+      <h2 id="contribute-heading" class="home-title">
+        {t('home.contribute.heading')}
+      </h2>
+      <p class="home-lead">{t('home.contribute.description')}</p>
+      <div class="mt-[var(--home-gap-sm)] flex flex-wrap items-center gap-3">
+        <a
+          href={translatePath('/contribute')}
+          class="home-btn"
+          data-ga-section="contribute"
+          data-ga-label="guide">{t('home.contribute.guide')}</a
+        >
+        <a
+          href="https://github.com/frank890417/taiwan-md"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="home-btn home-btn--ghost"
+          data-ga-section="contribute"
+          data-ga-label="github">{t('home.contribute.github')}</a
+        >
+        <a
+          href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=home_contribute&utm_campaign=support"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="home-btn home-btn--ghost"
+          data-ga-section="contribute"
+          data-ga-label="sponsor">{t('home.contribute.sponsor')}</a
+        >
+      </div>
+      <p class="mb-0 mt-[var(--home-gap-sm)]">
+        <a
+          href={appStoreUrl(lang)}
+          target="_blank"
+          rel="noopener"
+          class="join-app no-external-icon"
+          data-ga-section="contribute"
+          data-ga-label="app_store"
+        >
+          <img
+            src={appBadge.src}
+            width={appBadge.width}
+            height={appBadge.height}
+            alt={th('home.join.app.alt')}
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+      </p>
+    </div>
+
+    <div class="join-news" data-ga-view="newsletter">
+      <h3 class="join-news-title">{t('home.newsletter.heading')}</h3>
+      <p class="join-news-desc">{t('home.newsletter.description')}</p>
+      <form
+        id="newsletter-form"
+        action="https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse"
+        method="POST"
+        target="newsletter-iframe"
+        data-ga-form="newsletter"
+        data-ga-label="subscribe"
+        class="flex flex-wrap gap-2"
+      >
+        <input
+          type="email"
+          name={entryField}
+          placeholder="your@email.com"
+          aria-label="Email"
+          required
+          class="join-input"
+        />
+        <button
+          type="submit"
+          class="home-btn"
+          data-ga-section="newsletter"
+          data-ga-label="subscribe">{t('home.newsletter.submit')}</button
+        >
+      </form>
+      <p id="newsletter-success" class="join-success" hidden>
+        <span aria-hidden="true">🎉</span>
+        <span>{t('home.newsletter.success')}</span>
+      </p>
+      <p class="join-news-note">{t('home.newsletter.note')}</p>
+    </div>
+  </div>
+</section>
+
+<script>
+  const form = document.getElementById('newsletter-form');
+  const success = document.getElementById('newsletter-success');
+  if (form && success) {
+    form.addEventListener('submit', () => {
+      window.setTimeout(() => {
+        form.hidden = true;
+        success.hidden = false;
+      }, 500);
+    });
+  }
+</script>
+
+<style>
+  .join {
+    margin-block-start: var(--home-gap-lg);
+    border-block-start: 1px solid var(--home-rule);
+    background: var(--color-bg-soft);
+    padding-block: var(--home-gap-lg);
+  }
+  .join-app {
+    display: inline-block;
+    border: 0;
+    padding: 2px 0;
+  }
+  .join-app img {
+    display: block;
+    width: auto;
+    height: 40px;
+    border-radius: 0;
+  }
+
+  .join-news {
+    align-self: start;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: clamp(1.25rem, 3vw, 2rem);
+  }
+  .join-news-title {
+    margin: 0 0 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--color-ink);
+  }
+  .join-news-desc {
+    margin: 0 0 1.1rem;
+    font-family: var(--font-reading);
+    font-size: 0.98rem;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .join-input {
+    flex: 1 1 12rem;
+    min-width: 0;
+    min-height: 48px;
+    border: 1px solid var(--home-rule-strong);
+    border-radius: var(--radius-chip);
+    background: var(--color-bg);
+    padding: 0.6rem 1rem;
+    font-family: var(--font-interface);
+    font-size: 1rem;
+    color: var(--color-ink);
+  }
+  .join-input::placeholder {
+    color: color-mix(in srgb, var(--color-ink-soft) 75%, transparent);
+  }
+  .join-input:focus-visible {
+    outline: 2px solid var(--home-accent);
+    outline-offset: 2px;
+  }
+  .join-success {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--color-ink);
+  }
+  .join-success[hidden] {
+    display: none;
+  }
+  .join-news-note {
+    margin: 0.9rem 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    color: var(--color-ink-soft);
+  }
+</style>

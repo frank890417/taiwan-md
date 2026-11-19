@@ -243,14 +243,16 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
 import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
-<!--
+{
+  /*
   Back-to-top button (issue #1059 fix #4). Stacked ABOVE the Aa toggle
   in the bottom-right floating cluster (same x as Aa, one button-row up),
   so it never touches the bottom-left feedback FAB. Hidden until the reader
   has scrolled past ~800px, then fades in; click smooth-scrolls to top.
   Uses the same tokens (--color-ink / --color-accent) as .floating-md +
   .reader-settings-toggle, so it flips with the theme automatically.
--->
+*/
+}
 <button
   id="back-to-top"
   class="back-to-top"
@@ -271,8 +273,10 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   aria-expanded="false"
   title={t.open}
 >
-  <!-- Aa glyph — chosen over a gear because the panel is reading-focused.
-       Keeps visual weight close to the .md button it sits next to. -->
+  {
+    /* Aa glyph — chosen over a gear because the panel is reading-focused.
+       Keeps visual weight close to the .md button it sits next to. */
+  }
   <Fragment set:html={iconSvg('type')} />
 </button>
 
