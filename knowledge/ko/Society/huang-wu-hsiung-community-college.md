@@ -13,10 +13,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-05T14:56:55.430424+00:00'
+translatedAt: '2026-11-19T06:00:37.836613+00:00'
 ---
 
 # 황우슝과 타이완 커뮤니티 대학: 투표권 너머의 민주주의를 교실로
@@ -104,11 +104,13 @@ Springer에 수록된 영문 학술 장편은 대만 커뮤니티 대학을 1980
 
 사진: Ephemeral Days, 〈Taipei Municipal Wenshan School of Special Education〉, Wikimedia Commons, CC BY-SA 4.0. 사진 파일 페이지: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Municipal_Wenshan_School_of_Special_Education.jpg).
 
-## 더 읽을 거리
+## 연관 읽기
 
-[社團法人社區大學全國促進會：社大資料庫與社會實踐](https://www.napcu.org.tw/db_list.html)
+[사단법인 커뮤니티 대학 전국 촉진회: 커뮤니티 대학 데이터베이스와 사회적 실천](https://www.napcu.org.tw/db_list.html)
 
-[教育部：社區大學發展條例相關說明](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[교육부: 커뮤니티 대학 발전 조례 관련 설명](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[양웨이저: 수학 교수가 먼저 타이완어 수업을 개설하자 논쟁이 뒤따라왔다](/ko/people/yang-wei-cher) — 황우슝의 타이베이 대학교 수학과 시절 오랜 친구이자 동료로, 두 사람은 함께 천원청 기념재단에 참여했다. 양웨이저는 지룽 커뮤니티 대학에서 타이완어로 수학을 가르친 바 있다.
 
 ## 참고 자료
 

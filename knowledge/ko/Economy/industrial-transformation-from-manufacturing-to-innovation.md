@@ -12,10 +12,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-26T22:27:48+08:00'
+translatedAt: '2026-11-19T06:34:02.727921+00:00'
 ---
 
 # 타이완 산업 전환 및 업그레이드: 제조 대국에서 혁신 강국으로
@@ -208,17 +208,16 @@ translatedAt: '2026-07-26T22:27:48+08:00'
 
 ---
 
-## 심화 읽기
+## 연관 읽을거리
 
-- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 1976년 RCA 기술 이전부터 2024년 글로벌 점유율 60%에 이르기까지, 신주 과학 단지에서 시작된 핵심 산업이 어떻게 '호국신산'이 되었는가
-- [장중머우](/ko/people/tsmc-morris-chang) — 1987년 TSMC를 설립한 핵심 인물로, 타이완 반도체 산업을 무에서 시작하게 한 핵심 동력
-- [스전룽](/ko/people/stan-shih) — 스마일 커브의 창시자: 스마일 커브를 통해 타이완이 위탁 생산의 중간 단계에서 벗어나도록 촉구했으나, 정작 본인의 자산은 '중간 제조'에 집중된 TSMC에 걸려 있는 역설
-- [타이완 무역과 글로벌 공급망](/ko/economy/taiwan-foreign-trade-and-global-supply-chain) — 가공 수출 구역의 외화 획득부터 2024년 반도체 수출 주력 품목이 되기까지의 장기적 궤적
-- [스타트업 생태계](/ko/economy/taiwan-startup-ecosystem-overview) — 제조업 전환에서 혁신 강국으로 가는 또 다른 경로: 1990년대 이후 스타트업과 <0xED><0x8C><0xB9>리스 반도체의 발전
-- [타이완 인공지능 발전 및 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 2024년 이후 산업 전환의 다음 물결: 하드웨어 패권에서 AI 응용으로 이어지는 전략적 배치
-  로 [SLP 타이베이 창업 리더십 프로그램](/ko/economy/slp-taipei-startup-leadership-program) — 일회성 비용이 6,000대만달러에서 58,000대만달러로 급증한 창업 훈련 프로그램으로, 그 비용 곡선 자체가 타이완 스타트업 생태계가 초기 단계에서 제도권으로 진입했음을 보여주는 물리적 지표이다.
-
----
+- [타이완 산업 특집](/industry/) — 공식 통계를 통해 산업 구조를 조명: 수출과 GDP 70년사, 과학 단지, 각 현·시별 공장, 역대 시가총액 상위 10개 기업, 그리고 6가지 공공 논쟁에 대한 각계의 입장
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 1976년 RCA 기술 이전부터 2024년 글로벌 점유율 60% 달성까지, 신주 과학 단지에서 시작된 핵심 산업이 어떻게 '호국신산(護國神山)'이 되었는가
+- [장중머우](/ko/people/tsmc-morris-chang) — 1987년 TSMC를 설립한 핵심 인물이자, 타이완 반도체 산업을 무에서 유로 일궈낸 핵심 추진력
+- [스전룽](/ko/people/stan-shih) — 스마일 커브의 창시자: 타이완이 단순 위탁 생산(OEM) 단계에서 벗어나야 한다고 주장했으나, 정작 본인의 자산은 '중간 단계 제조'를 수행하는 TSMC에 걸었다
+- [타이완 대외 무역과 글로벌 공급망](/ko/economy/taiwan-foreign-trade-and-global-supply-chain) — 가공 수출 구역의 외화 획득부터 2024년 반도체 수출 주력 산업에 이르기까지의 장기적 궤적
+- [스타트업 생태계](/ko/economy/taiwan-startup-ecosystem-overview) — 제조업 전환을 넘어 혁신 강국으로 나아가는 또 다른 경로: 1990년대 이후 스타트업과 팹리스(fabless) 반도체의 발전
+- [타이완 인공지능 발전과 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 2024년 이후 산업 전환의 다음 파도: 하드웨어 패권에서 AI 응용 분야로 확장되는 전략적 배치
+- [SLP 타이베이 창업 리더십 프로그램](/ko/economy/slp-taipei-startup-leadership-program) — 일회성 비용이 NT$6,000에서 NT$58,000로 상승한 창업 훈련 프로그램으로, 비용 곡선 자체가 타이완 스타트업 생태계가 초기 단계에서 제도권으로 진입했음을 보여주는 물리적 지표이다
 
 ## 참고 자료
 
