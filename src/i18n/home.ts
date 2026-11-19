@@ -33,11 +33,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '"The mountains, rivers, and streams are all the bodies of our ancestors. We are the children of the earth."',
     'home.cover.cite.indigenous': '- Atayal oral literature',
-    'home.cover.quote.1584': '"Ilha Formosa" - Beautiful Island.',
+    'home.cover.quote.1584': '"As Ilhas Fermosas" - the beautiful islands.',
     'home.cover.cite.1584':
-      '- Portuguese sailors, the first recorded use of "beautiful" to describe Taiwan',
+      '- Francisco Gali’s 1584 navigation account — among the early European texts to mention Taiwan',
     'home.cover.quote.1697':
-      '"In the inner mountains of Shuilishe, at the end of the mountains, there is a great lake spanning several dozen li. In the middle is an island where the aboriginals gather and live."',
+      '"At the center lies a great lake; from the lake rises another mountain, where the indigenous people live together — it cannot be reached without a boat."',
     'home.cover.cite.1697':
       '- Yu Yonghe, "A Journey to the Distant Seas," Qing Dynasty literati\'s firsthand observation of Taiwan',
     'home.cover.quote.1926': '"A brave warrior should fight for justice!"',
@@ -252,11 +252,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '「山も川も祖先の身体であり、私たちは大地の子どもです。」',
     'home.cover.cite.indigenous': '— タイヤル族口承文学',
-    'home.cover.quote.1584': '「Isla Hermosa」— 美しき諸島。',
+    'home.cover.quote.1584': '「As Ilhas Fermosas」— 美しき島々。',
     'home.cover.cite.1584':
-      '— スペインの文献、最初に「美しい」と台湾を称した確かな記録',
+      '— フランシスコ・ガリの1584年の航海記。台湾に言及した初期のヨーロッパ文献のひとつ',
     'home.cover.quote.1697':
-      '「水沙連の内山、山の尽きるところに大きな湖あり、広さ数十里。中に島あり、番人が集まり住む。」',
+      '「中央に大湖があり、湖の中にまたひとつの山がそびえ、先住民がその山に集まって暮らす。舟がなければたどり着けない。」',
     'home.cover.cite.1697':
       '— 郁永河『裨海紀遊』、清朝文人による台湾の一次観察',
     'home.cover.quote.1926': '「勇士よ、正義のために戦え！」',
@@ -398,11 +398,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '"산과 강은 모두 조상의 몸이며, 우리는 대지의 아이입니다."',
     'home.cover.cite.indigenous': '— 타이야족 구전 문학',
-    'home.cover.quote.1584': '"Isla Hermosa" — 아름다운 섬들.',
+    'home.cover.quote.1584': '"As Ilhas Fermosas" — 아름다운 섬들.',
     'home.cover.cite.1584':
-      '— 스페인 문헌, "아름답다"고 대만을 부른 최초의 확실한 기록',
+      '— 프란시스코 갈리의 1584년 항해기, 대만을 언급한 초기 유럽 문헌 중 하나',
     'home.cover.quote.1697':
-      '"수사련 안쪽 산, 산이 끝나는 곳에 큰 호수가 있어 넓이가 수십 리. 가운데 섬이 있어 번인이 모여 산다."',
+      '"가운데에 큰 호수가 있고, 호수 안에 다시 산 하나가 솟아 있어 원주민이 그 산에 모여 산다. 배가 아니면 닿을 수 없다."',
     'home.cover.cite.1697':
       '— 위용허 『비해기유』, 청나라 문인의 대만 직접 관찰',
     'home.cover.quote.1926': '"용사는 마땅히 정의를 위해 싸워야 한다!"',
@@ -546,11 +546,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '「Núi non và sông ngòi đều là thân thể của tổ tiên; chúng ta là những đứa con của đất mẹ。」',
     'home.cover.cite.indigenous': '— Văn học truyền khẩu của người Atayal',
-    'home.cover.quote.1584': '「Isla Hermosa」— Quần đảo xinh đẹp.',
+    'home.cover.quote.1584': '「As Ilhas Fermosas」— Những hòn đảo xinh đẹp.',
     'home.cover.cite.1584':
-      '— Tư liệu Tây Ban Nha, ghi chép xác thực sớm nhất gọi Đài Loan là「xinh đẹp」',
+      '— Nhật ký hải trình năm 1584 của Francisco Gali, một trong những tài liệu châu Âu thời kỳ đầu đề cập đến Đài Loan',
     'home.cover.quote.1697':
-      '「Trong núi Thủy Sa Liên, nơi tận cùng của dãy núi có một hồ lớn, rộng đến vài chục dặm. Giữa hồ có đảo, người bản địa quần tụ sinh sống。」',
+      '「Ở giữa là một hồ lớn; trong hồ lại nhô lên một ngọn núi, người bản địa tụ cư trên núi ấy, không có thuyền thì không thể đến được.」',
     'home.cover.cite.1697':
       '— Uất Vĩnh Hà (Yu Yonghe),《Bì Hải Kỷ Du》, ghi chép trực tiếp về Đài Loan của một văn nhân triều Thanh',
     'home.cover.quote.1926': '「Dũng sĩ phải đấu tranh vì chính nghĩa!」',
@@ -701,11 +701,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '「Gunung, sungai, dan aliran air adalah tubuh leluhur; kami adalah anak-anak bumi.」',
     'home.cover.cite.indigenous': '— Sastra lisan suku Atayal',
-    'home.cover.quote.1584': '「Isla Hermosa」— Kepulauan yang indah.',
+    'home.cover.quote.1584': '「As Ilhas Fermosas」— Pulau-pulau yang indah.',
     'home.cover.cite.1584':
-      '— Dokumen Spanyol, catatan pasti paling awal yang menyebut Taiwan sebagai 「indah」',
+      '— Catatan pelayaran Francisco Gali tahun 1584, salah satu naskah Eropa awal yang menyebut Taiwan',
     'home.cover.quote.1697':
-      '「Di pedalaman Shuishalian, di ujung pegunungan terdapat sebuah danau besar, lebarnya puluhan li. Di tengahnya terdapat pulau-pulau kecil yang dihuni masyarakat adat.」',
+      '「Di tengahnya terdapat sebuah danau besar; di dalam danau itu menyembul lagi sebuah gunung, tempat masyarakat adat hidup berkumpul. Tanpa perahu, tempat itu tak terjangkau.」',
     'home.cover.cite.1697':
       '— Yu Yonghe, Catatan Perjalanan Laut Kecil, pengamatan langsung seorang sastrawan Dinasti Qing tentang Taiwan',
     'home.cover.quote.1926': '「Pejuang harus berjuang demi keadilan!」',
@@ -855,11 +855,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '“As montanhas e os rios são o corpo de nossos ancestrais; somos filhos da terra.”',
     'home.cover.cite.indigenous': '— Literatura oral do povo Atayal',
-    'home.cover.quote.1584': '“Isla Hermosa” — belas ilhas.',
+    'home.cover.quote.1584': '“As Ilhas Fermosas” — as belas ilhas.',
     'home.cover.cite.1584':
-      '— Documento espanhol, o registro comprovado mais antigo a descrever Taiwan como “bela”',
+      '— Relato de navegação de Francisco Gali, de 1584, um dos primeiros textos europeus a mencionar Taiwan',
     'home.cover.quote.1697':
-      '“Nas montanhas interiores de Shuishalian, onde terminam as montanhas, há um grande lago com dezenas de li de extensão. Nele há uma ilha habitada pelos povos indígenas.”',
+      '“No centro há um grande lago; dentro do lago ergue-se ainda uma montanha, onde os povos indígenas vivem reunidos. Sem barco, não se chega lá.”',
     'home.cover.cite.1697':
       '— Yu Yung-ho, Pequeno diário de viagem pelos mares, observação em primeira mão de Taiwan por um letrado da dinastia Ching',
     'home.cover.quote.1926': '“Os valentes devem lutar pela justiça!”',
@@ -1009,11 +1009,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '「पर्वत, नदियाँ और धाराएँ हमारे पूर्वजों का शरीर हैं; हम धरती की संतान हैं।」',
     'home.cover.cite.indigenous': '— अतायल मौखिक साहित्य',
-    'home.cover.quote.1584': '「Isla Hermosa」— सुंदर द्वीपसमूह।',
+    'home.cover.quote.1584': '「As Ilhas Fermosas」— सुंदर द्वीप।',
     'home.cover.cite.1584':
-      '— स्पेनी अभिलेख, ताइवान को「सुंदर」कहने का सबसे पुराना पुष्ट रिकॉर्ड',
+      '— फ्रांसिस्को गाली का 1584 का समुद्री यात्रा-वृत्तांत, ताइवान का उल्लेख करने वाले शुरुआती यूरोपीय ग्रंथों में से एक',
     'home.cover.quote.1697':
-      '「शुइशालियान के भीतरी पहाड़ों में, जहाँ पर्वत समाप्त होते हैं, एक विशाल झील है, जिसकी चौड़ाई कई दर्जन ली है। उसके बीच एक द्वीप है, जहाँ मूलनिवासी एक साथ रहते हैं।」',
+      '「बीच में एक विशाल झील है; झील के भीतर फिर एक पर्वत उभरा हुआ है, जहाँ मूल निवासी एक साथ बसे हैं। नाव के बिना वहाँ पहुँचा नहीं जा सकता।」',
     'home.cover.cite.1697':
       '— यू योंग-हो की《छोटे सागर की यात्रा》, छिंग राजवंश के साहित्यकार की ताइवान पर प्रत्यक्ष टिप्पणियाँ',
     'home.cover.quote.1926': '「योद्धाओं को न्याय के लिए संघर्ष करना चाहिए!」',
@@ -1162,11 +1162,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '«الجبال والأنهار هي أجساد الأسلاف، نحن أبناء الأرض.»',
     'home.cover.cite.indigenous': '— أدب شفهي من شعب التايو',
-    'home.cover.quote.1584': '«Isla Hermosa» — جزر جميلة.',
+    'home.cover.quote.1584': '«As Ilhas Fermosas» — الجزر الجميلة.',
     'home.cover.cite.1584':
-      '— وثائق إسبانية، أول تسجيل دقيق يصف تايوان بـ«الجميلة»',
+      '— رواية فرانسيسكو غالي عن رحلته البحرية عام 1584، من النصوص الأوروبية المبكرة التي ذكرت تايوان',
     'home.cover.quote.1697':
-      '«في الجبال الداخلية لشويشاليان، حيث تنتهي الجبال، يوجد بحيرة كبيرة، عرضها عشرات الأميال. فيها جزر، يسكنها السكان الأصليون.»',
+      '«في الوسط بحيرة كبيرة؛ وفي البحيرة يرتفع جبل آخر، يعيش عليه السكان الأصليون مجتمعين. لا يمكن الوصول إليه إلا بالقارب.»',
     'home.cover.cite.1697':
       '— يوي يونغه، «رحلات بحيرة البلي»، ملاحظات صينية من أسرة تشينغ',
     'home.cover.quote.1926': '«يجب على المحاربين أن يقاتلوا من أجل العدالة!»',
@@ -1311,11 +1311,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '«Горы и реки — это тела предков, мы — дети земли.»',
     'home.cover.cite.indigenous': '— Устная литература народа атэй',
-    'home.cover.quote.1584': '«Isla Hermosa» — Острова Красоты.',
+    'home.cover.quote.1584': '«As Ilhas Fermosas» — Прекрасные острова.',
     'home.cover.cite.1584':
-      '— Испанские документы, самая ранняя точная запись, называющая Тайвань «Красивым»',
+      '— Мореходный отчёт Франсиско Гали 1584 года, один из ранних европейских текстов, где упоминается Тайвань',
     'home.cover.quote.1697':
-      '«Внутренние горы Шуйшяляня, на краю гор большое озеро, шириной в несколько десятков ли. На нём острова, где плотно живут местные жители.»',
+      '«Посередине — большое озеро; из озера поднимается ещё одна гора, и на ней вместе живут коренные жители. Без лодки туда не добраться.»',
     'home.cover.cite.1697':
       '— Юй Юнхэ «Цзиюй цзи юй», первое наблюдение за Тайванем со стороны китайского учёного эпохи Цин',
     'home.cover.quote.1926': '«Воин должен сражаться за справедливость!»',
@@ -1462,11 +1462,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '„Berge und Flüsse sind die Körper unserer Ahnen, wir sind die Kinder der Erde.“',
     'home.cover.cite.indigenous': '— Mündliche Überlieferung der Atayal',
-    'home.cover.quote.1584': '„Isla Hermosa“ – schöne Inseln.',
+    'home.cover.quote.1584': '„As Ilhas Fermosas“ – die schönen Inseln.',
     'home.cover.cite.1584':
-      '— Spanische Quelle, der früheste eindeutige Beleg dafür, dass Taiwan als „schön“ bezeichnet wurde',
+      '— Francisco Galis Seereisebericht von 1584, einer der frühen europäischen Texte, die Taiwan erwähnen',
     'home.cover.quote.1697':
-      '„Im Inneren von Shuishalian liegt dort, wo die Berge enden, ein großer See, mehrere Dutzend Li breit. Darin befindet sich eine Insel, auf der indigene Menschen zusammenleben.“',
+      '„In der Mitte liegt ein großer See; mitten im See erhebt sich noch ein Berg, auf dem die Ureinwohner zusammen leben. Ohne Boot ist er nicht zu erreichen.“',
     'home.cover.cite.1697':
       '— Yu Yonghe, „Kleine Reise über das Meer“, Beobachtungen Taiwans aus erster Hand durch einen Literaten der Qing-Dynastie',
     'home.cover.quote.1926': '„Krieger sollen für die Gerechtigkeit kämpfen!“',
@@ -1614,10 +1614,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       '「山川河流都是祖先的身體，我們是大地的孩子。」',
     'home.cover.cite.indigenous': '— 泰雅族口傳文學',
-    'home.cover.quote.1584': '「Isla Hermosa」— 美麗諸島。',
-    'home.cover.cite.1584': '— 西班牙文獻，最早以「美麗」稱呼台灣的確切記錄',
+    'home.cover.quote.1584': '「As Ilhas Fermosas」— 美麗諸島。',
+    'home.cover.cite.1584':
+      '— Francisco Gali 1584 年航海記，早期提到台灣的歐洲文獻之一',
     'home.cover.quote.1697':
-      '「水沙連內山，山盡處有大潭，廣可數十里。中有嶼，番人聚居之。」',
+      '「中為大湖；湖中復起一山，番人聚居山上，非舟莫即。」',
     'home.cover.cite.1697': '— 郁永河《裨海紀遊》，清朝文人的第一手台灣觀察',
     'home.cover.quote.1926': '「勇士當為義鬥爭！」',
     'home.cover.cite.1926': '— 賴和〈吾人〉，台灣新文學之父',
@@ -1808,11 +1809,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       'Les montagnes, les rivières et les ruisseaux sont tous les corps de nos ancêtres. Nous sommes les enfants de la terre.',
     'home.cover.cite.indigenous': '— Littérature orale atayal',
-    'home.cover.quote.1584': 'Ilha Formosa — Île belle.',
+    'home.cover.quote.1584': '« As Ilhas Fermosas » — les belles îles.',
     'home.cover.cite.1584':
-      '— Marins portugais, première utilisation enregistrée de « belle » pour décrire Taïwan',
+      '— Récit de navigation de Francisco Gali (1584), l’un des premiers textes européens à mentionner Taïwan',
     'home.cover.quote.1697':
-      "Dans les montagnes intérieures de Shuilishe, au bout des montagnes, il y a un grand lac s'étendant sur plusieurs dizaines de li. Au milieu se trouve une île où les autochtones se rassemblent et vivent.",
+      '« Au centre se trouve un grand lac ; au milieu du lac s’élève encore une montagne où vivent rassemblés les autochtones. Sans bateau, on ne peut y accéder. »',
     'home.cover.cite.1697':
       '— Yu Yonghe, « Un voyage vers les mers lointaines », observation directe de Taïwan par un lettré de la dynastie Qing',
     'home.cover.quote.1926':
@@ -1963,11 +1964,11 @@ export const homeUI = {
     'home.cover.quote.indigenous':
       'Las montañas, ríos y arroyos son los cuerpos de nuestros ancestros. Somos hijos de la tierra.',
     'home.cover.cite.indigenous': '- Literatura oral atayal',
-    'home.cover.quote.1584': 'Ilha Formosa — Isla hermosa.',
+    'home.cover.quote.1584': '"As Ilhas Fermosas" — las islas hermosas.',
     'home.cover.cite.1584':
-      '- Marineros portugueses, primer uso registrado de "hermosa" para describir Taiwán',
+      '- Relato de navegación de Francisco Gali (1584), uno de los primeros textos europeos que mencionan Taiwán',
     'home.cover.quote.1697':
-      'En las montañas interiores de Shuilishe, al final de las montañas, hay un gran lago que abarca varias decenas de li. En el medio hay una isla donde los aborígenes se reúnen y viven.',
+      '"En el centro hay un gran lago; dentro del lago se alza otra montaña donde viven reunidos los pueblos indígenas. Sin barco no se puede llegar."',
     'home.cover.cite.1697':
       '- Yu Yonghe, "Un viaje a los mares lejanos", observación de primera mano de un literato de la dinastía Qing sobre Taiwán',
     'home.cover.quote.1926':
