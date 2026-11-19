@@ -27,11 +27,13 @@ imageAlt: 'El poeta Wu Sheng en 2016 en la Feria Internacional del Libro de Taip
 imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:3682e7bff916a9de'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-09-26T11:37:44.601848+00:00'
+sourceCommitSha: '8ddc02a734'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T16:50:45.198743+00:00'
 ---
 
 # Sociedad Poética Lì: un grupo de personas obligadas a olvidar el japonés que sostuvo la revista de poesía en chino más longeva de Taiwán
@@ -111,23 +113,23 @@ Esta oposición no era solo una elección estética, sino una diferencia de posi
 
 Esta posición de la Sociedad Poética Lì —sur, nativa, sencilla, realista— fue marginal y reprimida de los años 60 a los 80. Pero no se detuvieron. De 1964 a 2024, la revista poética 《Lì》 ha publicado más de 361 números, sin interrumpir la publicación ni una sola vez[^26].
 
-## El día que llegó el lobo, no se escondieron
+## El día que el lobo vino, no se escondieron
 
-1977 fue un punto de inflexión.
+1977 fue un año de inflexión.
 
-En abril de ese año, la revista 《Cactus》 dirigida por Wang Jianzhuang publicó tres artículos de Wang Tuo, Yin Zhengxiong y Zhu Xining, desatando la «Controversia sobre la Literatura Nativista»[^27]. El 17 de agosto, Peng Ge publicó «¿Sin hablar de la naturaleza humana, cómo puede haber literatura?» en el 《United Daily News》, criticando explícitamente a Wang Tuo, Wei Tianxiong y Chen Yingzhen[^28].
+En abril de ese año, la revista 《Cactus》 (仙人掌雜誌), editada por Wang Chien-chuang, publicó tres artículos de Wang To, Yin Cheng-hsiung y Chu Hsi-ning, lo que desató el [debate sobre la literatura nativista](/es/history/nativist-literature-debate/)[^27]. El 17 de agosto, Peng Ke publicó en el _United Daily News_ (聯合報) el artículo 〈Si no se habla de la humanidad, ¿cómo puede haber literatura?〉, criticando directamente a Wang To, Wei Tien-ts'ung y Chen Ying-chen[^28].
 
-Tres días después, el 20 de agosto de 1977, Yu Guangzhong publicó en el 《United Daily News》 el artículo «Viene el lobo», que después sería discutido repetidamente: acusaba a la literatura nativista taiwanesa de tener «sorprendentes similitudes con la literatura de obreros, campesinos y soldados que enfatiza la lucha de clases en la China continental»[^29].
+Tres días después, el 20 de agosto de 1977, Yu Guangzhong publicó en el _United Daily News_ aquel artículo que sería objeto de constantes debates: 〈Viene el lobo〉 (狼來了). En él, acusaba a la literatura nativista de Taiwán de tener «ciertas similitudes con la literatura de obreros, campesinos y soldados de China continental, que enfatiza la lucha de clases»[^29].
 
-Durante el período de ley marcial, la «literatura de obreros, campesinos y soldados» era un sombrero capaz de llevar a alguien a la muerte. El Liberty Times recordaba la atmósfera de entonces: «De repente, el gran sombrero comparado con la 'guillotina voladora' sembró pánico en los círculos literarios, impregnando todo de un aire de represión y sangre»[^30].
+Durante el período del toque de queda, la etiqueta de «literatura de obreros, campesinos y soldados» era una acusación que podía costar la vida. El _Liberty Times_ (自由時報) recordó la atmósfera de aquel entonces: «De repente, la pesada etiqueta comparada con un "asesino de sangre" sembró el pánico en los círculos literarios, impregnando el ambiente con un aire sangriento y letal»[^30].
 
-Nueve días después, el 29 de agosto de 1977, el Kuomintang convocó la «Segunda Conferencia de Artes y Letras», reuniendo a más de 270 personas, incluyendo representantes del gobierno, el partido y las fuerzas armadas como Ding Maoshi, Li Yuanzu, Wang Sheng y Li Huan, además de Yu Guangzhong, Yin Xueman y otros[^31]. Finalmente, la controversia terminó bajo una estrategia oficial de cooptación: la «literatura nativista» fue redefinida ampliamente como «literatura patriótica» y «literatura nacional»[^32].
+Nueve días después, el 29 de agosto de 1977, el Kuomintang convocó la «Segunda Conferencia Literaria y Artística». Representantes del gobierno, del partido y del ejército —como Ting Mao-shih, Li Yuan-ts'u, Wang Sheng y Li Huan—, junto con figuras como Yu Guangzhong e Yin Hsueh-man, reunieron a más de 270 personas[^31]. El debate terminó finalmente mediante una estrategia oficial de cooptación: la «literatura nativista» fue redefinida y ampliada bajo los términos de «literatura patriótica» y «literatura nacional»[^32].
 
-El campo de batalla principal de la controversia fue la novela (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Pero simultáneamente el mundo de la poesía estaba en movimiento: la facción de la Sociedad Poética Lì (Chen Qianwu, Bai Ye, Zhao Tianyi, Li Minyong) se alineó completamente con la corriente nativista[^33]. Las demandas de «retorno a la realidad» de nuevas sociedades poéticas contemporáneas como Longzu, Mainstream y Later Waves también fueron legitimadas[^34].
+El principal campo de batalla del debate fue la novela (con autores como Chen Ying-chen, Wang To, Huang Chun-ming, Wang Chen-ho, Yeh Shih-tao y Yang Ching-chu). Sin embargo, el mundo de la poesía también estaba en movimiento: el bando de la Sociedad Poética Lì (笠詩社) —integrado por Chen Chien-wu, Pai Chu, Chao Tien-yi y Li Min-yung— se posicionó plenamente a favor del movimiento nativista[^33]. Al mismo tiempo, las demandas de «regreso a la realidad» de otras sociedades poéticas de nueva generación, como Longzu (龍族), Mainstream (主流) o Houlang (後浪), también fueron legitimadas[^34].
 
-La posición de la Sociedad Poética Lì dejó de ser simplemente «confrontación norte-sur» para convertirse en una presencia concreta de «estar del lado de lo local».
+La posición de la Sociedad Poética Lì dejó de ser una mera «oposición entre el norte y el sur» para convertirse en una presencia concreta que «estaba del lado de lo local».
 
-> ⚠️ **Perspectiva controvertida**: Esta controversia dejó una herida de memoria duradera. Cuando Yu Guangzhong falleció en 2017, este episodio histórico fue revisitado; la opinión del mundo literario taiwanés sobre «Viene el lobo» sigue siendo divergente hasta hoy[^35]. También hay comentaristas que señalan que la confrontación en la controversia no era tan simple como «facción china vs facción taiwanesa», sino que entrelazaba tres ejes: «nacionalismo chino de derecha vs nacionalismo chino de izquierda vs teoría nativista taiwanesa»[^36]. La posición de la Sociedad Poética Lì en esta estructura triangular era clara: estaban del lado de la teoría nativista taiwanesa.
+> ⚠️ **Punto de controversia**: Este debate dejó una herida de memoria a largo plazo. Cuando Yu Guangzhong falleció en 2017, este periodo histórico fue revisado nuevamente; las opiniones en los círculos literarios de Taiwán sobre 〈Viene el lobo〉 siguen divididas hasta hoy[^35]. Algunos críticos también señalan que la oposición en el debate no era tan simple como «facción china vs. facción taiwanesa», sino que estaba compuesta por tres ejes: «nacionalismo chino de derecha vs. nacionalismo chino de izquierda vs. teoría de lo local taiwanés»[^36]. La posición de la Sociedad Poética Lì dentro de esta estructura triangular es clara: ellos estaban del lado de la teoría de lo local taiwanés.
 
 ## El niño abre la fiambrera, ni media hueva
 
