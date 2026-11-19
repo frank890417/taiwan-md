@@ -223,6 +223,12 @@ const label = {
     ar: 'انتخابات 2026',
     ru: 'Выборы 2026',
   }),
+  // 四個展廳的總覽 /halls（2026-11-19 首頁第二期）。先給中文與英文，其餘語言
+  // 補翻前由 L() 退回英文。
+  halls: L({
+    'zh-TW': '展廳',
+    en: 'Halls',
+  }),
   // 專題總覽 /topics、工具總覽 /tools（2026-11-10 專題整合）
   topics: L({
     'zh-TW': '專題',
@@ -421,6 +427,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         <h4 class={HEAD_CLASS}>{t('footer.explore')}</h4>
         <a href={navHref('/latest')}>{t('nav.latest')}</a>
         <a href={navHref('/explore')}>{label.explore}</a>
+        <a href={navHref('/halls')}>{label.halls}</a>
         <a href={navHref('/topics')}>{label.topics}</a>
         <a href={navHref('/map')}>{label.map}</a>
         <a href={navHref('/soundscape')}>{label.soundscape}</a>
