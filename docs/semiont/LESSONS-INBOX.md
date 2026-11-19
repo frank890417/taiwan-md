@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-19 twmd-maintainer-daily — memory-records-the-landmine-three-times-and-nobody-moves-it：三個 session 把同一個地雷寫進 memory，沒有人改那一行預設值
+
+- **pattern**: `memory-records-the-landmine-three-times-and-nobody-moves-it`
+- **事實**：`scripts/tools/terminology-yaml-audit.py` 名字叫 audit，預設行為是直接刪檔（`DRY_RUN = "--dry-run" in sys.argv`，不給旗標就刪）。三個 session 先後把它當唯讀工具跑下去：2026-08-30 spore-harvest-am 刪掉 10 個詞條檔、2026-11-18 α 又一次、2026-11-19 本班刪掉 19 個。三次都當場 `git status` 看到 `D` 用 `git checkout --` 全部復原，三次都寫進當天 memory 檔，其中 8-30 那次還寫下「跑任何工具前先確認它是唯讀還是會寫檔案，尤其名字裡帶 audit 的腳本不一定只是讀」。**那一行預設值從來沒有人改。** 本班改了（`1d5a6ae5f`）：照 repo 既有約定（`terminology-apply.py`／`inbox-audit.py`／`merge-divergence.py`／`curation-tag.py` 四支都是預設 dry-run、要寫才加 `--apply`）改成預設只報告，正控制是拿同一道指令再跑一次、2,317 個 yaml 全在。
+- **形狀**：這是 [REFLEXES #15](REFLEXES.md)「memory 是自律，canonical SOP 才是閘門」與 [#96](REFLEXES.md)「已經知道會這樣壞，並不減少它壞的機率——知識留在註解層沒有下沉到控制流」的合流，但它比兩條都更難看：**三次都沒有進 LESSONS-INBOX，只進了 memory**。所以它從來沒有被 distill 看見、從來沒有累積 vc、從來沒有進到「該改哪一行」這個問題面前。memory 是 append-only 的個人日誌，寫進去的教訓只有「剛好讀到那一天那一檔的人」會看到；而三次之間相隔 80 天與 1 天，沒有任何一班的甦醒流程會載入另外兩班的那一行。
+- **為什麼復原得快反而讓它活得久**：三次的損害都是零（`git checkout --` 幾秒就救回來），所以每一班的結論都是「有驚無險，記一筆」。**代價低到不值得修，於是它每次都不被修，而它每次都會再來一次。** 這跟 handoff 那個雙峰（做得掉的當天做掉、做不掉的缺一個授權）不同——這件事既做得掉又沒人做，因為它從來沒有被放進任何一張待辦清單。
+- **一般化**：凡是「當場救回來了」的事故，判準不是損害大小，是**它會不會再發生而且下次有沒有人在場**。本例下一次可能發生在一條沒有觀察者的 cron 裡，而那一班如果照我今天的做法用 `| tail -12` 讀輸出，連「已刪除 19 個檔案」那一行都看不到（本班就沒看到，是 commit 時 `git status` 才現形——這是 BECOME §1.3 那條「必讀永遠不 head/tail」在工具輸出層的復發，同班第二個 instance）。
+- **候選機械化**：(a) 對 `scripts/tools/` 全掃一次「有 `unlink`／`os.remove`／`shutil.rmtree` 但沒有 `--apply` 旗標」的腳本，這是純文字檢查、可以做成一條 pytest（本班只修了踩到的那一支，沒有掃其他的）；(b) 工具命名約定：會寫檔的不要叫 `audit`／`check`／`scan`。(a) 是 1-file 的確定性檢查，值得做
+- **instances**：2026-08-30 spore-harvest-am（10 筆）／2026-11-18 α（一批）／2026-11-19 twmd-maintainer-daily（19 筆，並落地修法）
+- **verification_count**: 3
+- **severity**: structural（三次 vc 已達 distill 門檻；修法已 ship，留下來的問題是「memory 不是 LESSONS」這個通道缺口本身）
+- **相關**：[REFLEXES #15](REFLEXES.md)（反覆浮現要儀器化，memory 是自律）／[#96](REFLEXES.md)（知識沒下沉到控制流）／[#35](REFLEXES.md)（跨 session 禁 destructive git ops——本例是工具自己 destructive）／LESSONS `cleanup-step-assumes-the-file-is-new`（2026-08-27，同族：診斷用的還原步驟寫成 `rm`）
+
 ### 2026-11-18 twmd-maintainer-daily — 我在格式化器動手之前驗了一次，它說通過；格式化器把那一列變成了標題
 
 - **pattern**: `lint-before-the-formatter-certifies-a-row-the-formatter-will-delete`
@@ -793,9 +806,10 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **為什麼差點過關**：救下它的不是紀律，是那個分佈不合常識——這些譯文都從同一份中文母稿長出來，母稿有的東西不會只在一個語言裡出現。換一個分佈比較合理的題目（例如只有部分語言才有的欄位），同樣的假零命中不會有任何東西攔住它。
 - **候選機械化**：掃描類指令的 stderr 不該跟 stdout 混在同一份輸出裡讀；或更小的一步——跨 N 個目標的掃描，**全部回零命中時自動當成可疑**，先對其中一個已知必定命中的目標跑一次正控制（本例的正控制現成：中文母稿一定有那個組織名）。這是 [REFLEXES #99](REFLEXES.md)「尺先驗再用、0 命中先過正控制」已經寫過的動作，本例的新意是它在**多目標掃描**裡的觸發條件比單目標明確（全零 = 一定有問題，因為不可能每個語言都沒有）。
 - **instances**：
+  - **第二 instance（2026-11-19 twmd-maintainer-daily，摘要層變體）**：掃 `data/terminology/` 21 筆 proper-noun 詞條有沒有台灣／中國欄位填反，我拿維基百科的地區詞轉換標記（`-{zh-tw:…;zh-cn:…}-`）當 oracle 寫了一支掃描器。它在 21 列裡有 19 列印 `?`（抓不到轉換標記——多數條目的地區詞是 MediaWiki 全域轉換表處理的，條文裡根本沒有 inline 標記），然後最後一行印 **`REVERSED: []`**。那一行讀起來是「一筆都沒反轉」，而真相是三筆反轉（尚比亞／肯亞／莫三鼻克），我在跑這支掃描器之前就已經從外交部頁面確認過了。**比第一 instance 更尖的地方在這裡**：零命中那一版至少把 13 行 `<no mention found>` 攤在眼前，本例的 19 個 `?` 也攤在表格裡，但我自己多寫了一行把它們聚合成一個空清單——**「不知道」在明細層有符號（`?`），在摘要層被折成了「沒有」**（[REFLEXES #85](REFLEXES.md)）。救下它的同樣不是紀律，是我恰好先用別的來源驗過三筆，所以看得出摘要在說謊；如果順序反過來（先跑掃描器、看到 `REVERSED: []` 就收工），這一班會在公開 issue 留言裡寫「同型掃描完成，其餘 20 筆無異常」。**最小修法不是改 oracle，是改摘要句**：任何「找到 N 筆問題」的收尾行，必須同時印出「其中幾列沒驗到」，沒驗到不等於沒問題。本班落地的是另一半——`notes` 與公開留言都明寫「剩下 18 筆我沒有驗證為正確」。
 - **可能層級**：反射（#99 的子規則，或 #24 的第 N 種形式）；跨專案通用，不綁 Taiwan.md
 - **相關**：`i-concluded-not-found-from-one-failed-search`（已 fold 進 REFLEXES #16 否定式結論延伸）是同族的上游——那條講「一輪搜尋沒中就下否定結論」，本條講「工具根本沒跑完而它的輸出長得像跑完了」。兩條的共同處方都是提高否定式結論的舉證門檻
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-10-14 twmd-maintainer-daily — divergence-verdict-ignores-who-made-it：分岔判準只數兩個數字，數不出哪一側是自己剛造的
 
