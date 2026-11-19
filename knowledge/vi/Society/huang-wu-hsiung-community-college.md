@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-05T11:38:12.899387+00:00'
+translatedAt: '2026-11-19T11:49:42.630992+00:00'
 ---
 
 # Hoàng Vũ Hùng và Đại học Cộng đồng Đài Loan: Đưa dân chủ bên làn phiếu bầu vào lớp học
@@ -111,9 +111,11 @@ Hình ảnh: Ephemeral Days, 〈Taipei Municipal Wenshan School of Special Educa
 
 ## Đọc thêm
 
-[Hiệp hội Cộng đồng Đại học Quốc gia: Cơ sở dữ liệu và Thực tiễn Xã hội](https://www.napcu.org.tw/db_list.html)
+[Hiệp hội Thúc đẩy Đại học Cộng đồng Toàn quốc: Cơ sở dữ liệu Đại học Cộng đồng và Thực hành xã hội](https://www.napcu.org.tw/db_list.html)
 
-[Bộ Giáo dục: Giải thích liên quan đến Quy chế Phát triển Đại học Cộng đồng](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[Bộ Giáo dục: Giải thích liên quan đến Luật Phát triển Đại học Cộng đồng](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Dương Vĩ Triết: Giáo sư Toán học trước mở lớp tiếng Đài, tranh luận mới theo sau](/vi/people/yang-wei-cher) — Hoàng Vũ Hùng, bạn cũ và đồng nghiệp tại Khoa Toán Đại học Quốc gia Đài Loan, hai người cùng gia nhập Quỹ Kỷ niệm Trần Văn Thành, Dương Vĩ Triết cũng từng dạy Toán bằng tiếng Đài tại Đại học Cộng đồng Cơ Long.
 
 ## Tài liệu tham khảo
 

@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-27T01:20:31+08:00'
+translatedAt: '2026-11-19T11:41:39.503799+00:00'
 ---
 
 # Đài Loan chuyển đổi công nghiệp: Từ nước sản xuất lớn sang nước sáng tạo mạnh mẽ
@@ -218,13 +218,14 @@ MediaTek được thành lập riêng rẽ từ Công ty Điện tử Hữu hạ
 
 ## Đọc thêm
 
-- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA năm 1976 đến thị phần 60% toàn cầu năm 2024, ngành công nghiệp cốt lõi bắt nguồn từ Khu khoa học công nghệ Kiểm Trì đã trở thành "nối bảo vệ quốc gia".
-- [Hồng Quốc Dũng](/vi/people/tsmc-morris-chang) — Người quan trọng tạo nên TSMC năm 1987, người đã xây dựng nền tảng chuỗi cung ứng bán dẫn từ con số không.
-- [Hồng Quốc Dũng](/vi/people/stan-shih) — Tác giả của "đường cong cười": vẽ đường cong bằng nhà máy, giàu tiền nhưng đầu tư vào TSMC.
-- [Thương mại và chuỗi cung ứng toàn cầu của Đài Loan](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Từ ngoại tệ khu công nghiệp xuất khẩu đến năm 2024, thành phần chính của xuất khẩu bán dẫn.
-- [Hệ sinh thái doanh nghiệp mới](/vi/economy/taiwan-startup-ecosystem-overview) — Một lối đi khác từ chuyển đổi công nghiệp sang nước sáng tạo: phát triển các doanh nghiệp mới và bán dẫn fabless từ thập niên 1990.
-- [Phát triển trí tuệ nhân tạo và chiến lược tương lai của Đài Loan](/vi/technology/artificial-intelligence-development-strategy) — Bước tiếp theo của sự chuyển đổi công nghiệp sau 2024: từ thế mạnh phần cứng đến chiến lược triển khai AI.
-- [Chương trình dẫn dắt doanh nghiệp SLP Hà Nội](/vi/economy/slp-taipei-startup-leadership-program) — Chi phí từ 6.000 lên 58.000 USD cho chương trình đào tạo doanh nghiệp mới, đồng thời là quy mô của sinh viên đổi mới từ giai đoạn sơ khai.
+- [Chuyên đề về các ngành công nghiệp Đài Loan](/industry/) — Sử dụng số liệu thống kê chính thức để phác họa cấu trúc ngành: 70 năm xuất khẩu và GDP, các khu khoa học kỹ thuật, nhà máy tại các thành phố, top 10 doanh nghiệp có vốn hóa lớn nhất qua các năm, cùng quan điểm từ nhiều phía về sáu vấn đề tranh luận công khai.
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ việc chuyển giao công nghệ của RCA năm 1976 đến khi chiếm 60% thị phần toàn cầu vào năm 2024, hành trình của ngành công nghiệp cốt lõi khởi nguồn từ Khu khoa học kỹ thuật Tân Trúc trở thành "ngọn núi hộ quốc".
+- [Trương Trung Mâu (Morris Chang)](/vi/people/tsmc-morris-chang) — Nhân vật then chốt sáng lập TSMC vào năm 1987, người thúc đẩy cốt lõi đưa ngành bán dẫn Đài Loan đi lên từ con số không.
+- [Thi Chấn Vinh (Shi Zhenrong)](/vi/people/stan-shih) — Tác giả của khái niệm "đường cong cười": ông vẽ ra lộ trình để Đài Loan thoát khỏi phân khúc gia công tầm trung, nhưng bản thân lại đặt cược tài sản vào TSMC – doanh nghiệp chuyên về "sản xuất tầm trung".
+- [Ngoại thương và chuỗi cung ứng toàn cầu của Đài Loan](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Quỹ đạo dài hạn từ thời kỳ ngoại hối của các khu chế xuất đến vai trò chủ lực trong xuất khẩu bán dẫn năm 2024.
+- [Hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview) — Một lộ trình khác để chuyển đổi từ nền sản xuất sang cường quốc đổi mới: sự phát triển của các startup và doanh nghiệp bán dẫn fabless sau thập niên 1990.
+- [Phát triển trí tuệ nhân tạo và chiến lược tương lai của Đài Loan](/vi/technology/artificial-intelligence-development-strategy) — Làn sóng chuyển đổi công nghiệp tiếp theo sau năm 2024: từ vị thế bá chủ phần cứng mở rộng sang chiến lược bố trí các ứng dụng AI.
+- [Chương trình lãnh đạo khởi nghiệp SLP Taipei](/vi/economy/slp-taipei-startup-leadership-program) — Một chương trình đào tạo khởi nghiệp có mức phí một lần tăng từ NT$6,000 lên NT$58,000; bản thân đường cong chi phí này chính là thước đo vật lý cho sự chuyển mình của hệ sinh thái khởi nghiệp Đài Loan từ giai đoạn sơ khai sang giai đoạn chuyên nghiệp hóa.
 
 ---
 
