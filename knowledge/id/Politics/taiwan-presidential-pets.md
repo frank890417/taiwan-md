@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-18T23:02:18.023971+00:00'
 ---
 
 > **Tinjauan 30 detik:** Hewan peliharaan presiden Taiwan yang berturut-turut bukan hanya anggota keluarga di istana resmi, tetapi juga sering mencerminkan citra politik dan nilai-nilai sosial. Dari anjing serigala yang bergaya wibawa di era Chiang Kai-shek, gerombolan Golden Retriever milik Lee Teng-hui, anjing Taiwan bernama "Yong-ge" (勇哥) milik Chen Shui-bian, hingga Ma Xiao-jiu milik Ma Ying-jeou, kelompok kucing dan anjing milik Tsai Ing-wen, dan anjing liar Luke milik Lai Ching-te. Daftar ini mengilustrasikan bagaimana "hewan peliharaan pertama" berkembang dari hobi pribadi sederhana menjadi bahasa politik yang mendorong perlindungan hewan dan menampilkan kehangatan rakyat.
@@ -75,22 +77,22 @@ Selain itu, citra "nasib baik anjing pertama" milik hewan peliharaan presiden ju
 
 ## Referensi
 
-[^1]: [蔣介石3愛犬護主有靈性日記留名備受寵愛](https://www.youtube.com/watch?v=uj0__fZkZlg) — Berita Taiwan (Rekaman video YouTube)
+[^1]: [Tiga anjing kesayangan Chiang Kai-shek melindungi tuannya dengan kepekaan, tercatat dalam jurnal dan sangat disayangi](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (catatan video YouTube)
 
-[^2]: [回看李登輝：養狗養貓還養羊 阿輝伯官邸像另類動物園](https://www.mirrormedia.mg/story/20200227inv009/) — Majalah Mirror (Catatan Lee Teng-hui membawa masuk Golden Retriever, berkembang biak menjadi lebih dari tiga puluh, sebagian dilatih menjadi anjing pemandu)
+[^2]: [Mengenang Lee Teng-hui: memelihara anjing, kucing, hingga domba; Istana Kepresidenan Ahui seperti kebun binatang yang unik](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (mencatat Lee Teng-hui memperkenalkan Golden Retriever, berkembang biak hingga lebih dari 30 ekor, sebagian dilatih sebagai anjing panduan)
 
-[^3]: [政治明星犬命運大不同，蔡想想浪貓變前總統第一寵物](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Berita Yahoo
+[^3]: [Nasib anjing bintang politik beragam, Kucing liar Tsai Xiang-xiang menjadi hewan peliharaan pertama mantan presiden](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [馬小九維基百科條目](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Entri Wikipedia)
+[^4]: [Entri Wikipedia Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (entri Wikipedia)
 
-[^5]: [北市長任內特別費案 馬英九獲不起訴](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Berita Kebebasan (20 Maret 2017 Kejaksaan Negeri Taipei tidak menuntut, dana khusus telah dihapuskan, dan kasus sebelumnya telah diperoleh keputusan bebas dari Mahkamah Agung)
+[^5]: [Kasus biaya khusus saat menjabat Walikota Taipei, Ma Ying-jeou dibebaskan dari tuntutan](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (20-03-2017 Kejaksaan Distrik Taipei tidak menuntut, biaya khusus sudah didekriminalisasi, dan kasus sebelumnya sudah dinyatakan bebas bersalah dengan putusan yang telah berkekuatan hukum tetap)
 
-[^6]: [秀第一寵物蔡英文：最想陪想想、阿才玩](https://www.youtube.com/watch?v=jVfgyh2mxVA) — Berita Formosa (Rekaman video YouTube)
+[^6]: [Menunjukkan hewan peliharaan pertama Tsai Ing-wen: paling ingin bermain bersama Xiang-xiang dan A-cai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (catatan video YouTube)
 
-[^7]: [總統：依法申請領養退役搜救犬 無須為政治扭曲](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Agensi Berita Sentral (Catatan Tsai Ing-wen pada tahun 2016 mengadopsi tiga anjing pemandu pensiun Bella, Bunny, Maru, dan mengadopsi anjing penyelamat Lè-lè (樂樂) yang telah memasuki usia pensiun sesuai peraturan)
+[^7]: [Presiden: Mengajukan adopsi anjing penyelamatan pensiun sesuai hukum, tidak perlu dipolitisasi](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (mencatat Tsai Ing-wen pada 2016 mengadopsi anjing panduan pensiun Bella, Bunny, Maru, serta anjing penyelamatan Lele yang diadopsi sesuai peraturan setelah pensiun usia)
 
-[^8]: [賴清德新動畫片吐露收養流浪狗「Luke」的故事](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Berita Yahoo
+[^8]: [Film animasi baru Lai Ching-te menceritakan adopsi anjing liar 'Luke'](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [愛犬Luke離世 賴清德：持續關注毛小孩與浪浪](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Agensi Berita Sentral (11 September 2023, Lai Ching-te Facebook "berterima kasih kepada Luke atas menemani selama bertahun-tahun")
+[^9]: [Anjing kesayangan Luke meninggal dunia, Lai Ching-te: terus memperhatikan anak bulu dan anjing liar](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11-09-2023, Facebook Lai Ching-te 'Terima kasih Luke atas pertemanan selama bertahun-tahun')
 
-[^10]: [如果捕獸夾夾到小孩、馬小九…](https://news.tvbs.com.tw/life/131330) — TVBS (Lihat detail tambahan data sumber asli dalam tautan)
+[^10]: [Jika perangkap hewan menangkap anak-anak, Ma Xiao-jiu...](https://news.tvbs.com.tw/life/131330) — TVBS (lihat tautan asli untuk informasi lengkap)

@@ -19,22 +19,24 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
-researchReport: reports/research/2026-07/大支-outline.md
+researchReport: 'reports/research/2026-07/大支-outline.md'
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
 imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
-translatedFrom: People/大支.md
-sourceCommitSha: 498649feb
-sourceContentHash: sha256:2e7abe81d37d5763
-sourceBodyHash: sha256:42bdb5d4361f8a68
-translatedAt: '2026-09-09T15:32:33+08:00'
 rationale:
-  why_this_hook: 'Dimulai dari Tainan dan rap Bahasa Taiwan, hindari menulis Dwagie hanya sebagai tokoh penggerak perubahan sosial.'
-  whats_excluded: 'Tidak mengembangkan tabel penghargaan lengkap, kontroversi subsidi tahun-tahun belakangan, dan daftar lagu setiap album; disimpan untuk penelitian yang lebih lengkap kemudian.'
-  where_it_hedges: 'Tahun kelahiran, peristiwa venue NBA, dan status album rap murni dari "Lidah Bunga Melontar" semua menggunakan bahasa lunak atau disimpan dalam catatan penelitian.'
-  whos_pushing_back: 'Pembaca yang tidak setuju dengan posisi politik atau pernyataan publik Dwagie mungkin mengharapkan lebih banyak garis waktu kontroversi.'
+  why_this_hook: '從台南與台語饒舌切入，避開只把大支寫成政治表態人物。'
+  whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
+  where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
+  whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/大支.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:ad16e5b275d77c2c'
+sourceBodyHash: 'sha256:dec7b7071831ec71'
+translatedAt: '2026-11-18T23:22:26.718592+00:00'
 ---
 
 # Dwagie: Kepala Sekolah Rap Taiwan dari Ruang Latihan Tainan
@@ -151,10 +153,10 @@ Oleh karena itu melihat kembali Dwagie, pintu masuk terbaik masih musik. Peristi
 - [Golden Melody Awards](/id/music/pop-music-and-golden-melody-awards) — Melihat perubahan jenis musik Taiwan dan politik bahasa dari perspektif penghargaan musik pop.
 - [Peristiwa 228](/id/history/228-incident) — Salah satu ingatan sejarah dan politik Taiwan yang sering disentuh dalam karya Dwagie.
 
-## Sumber gambar
+## Sumber Gambar
 
-- Foto Dwagie Hero: Pemerintah Kota Jiaoyi, Wikimedia Commons, Atribusi Nama (Pernyataan Pembukaan Data Situs Pemerintah). File asli: [Festival Akhir Tahun Tiga Hari Jiaoyi Nasional Mengundang Pembawa Acara Golden Bell Ganda (Dwagie)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
-- Foto pertunjukan MC HotDog tahun 2012: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. File asli: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
+- Foto Hero Dwagie: Pemerintah Kota Chiayi, Wikimedia Commons, atribusi nama (pernyataan keterbukaan data situs web pemerintah). File asli: [Perayaan Tahun Baru Tiga Hari di Chiayi Mengundang Host Ganda Golden Bell (Dwagie)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
+- Foto Penampilan MC HotDog 2012: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. File asli: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## Referensi
 

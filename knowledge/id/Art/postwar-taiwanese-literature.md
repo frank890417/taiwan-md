@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T14:02:38.058286+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-19T00:04:49.639207+00:00'
 ---
 
 > **Ringkasan 30 Detik**: Selama 42 tahun pasca-perang (1945-1987), dunia sastra Taiwan hidup di bawah kondisi "tidak boleh berkata": tidak boleh berkata bahasa Jepang, tidak boleh berkata Kejadian 228, tidak boleh berkata Taiwan adalah sesuatu di luar Tiongkok, tidak boleh berkata sastra tanah air. Tetapi setiap generasi penulis belajar "bagaimana berkata" melalui cara yang berbelit-belit yang berbeda. Yeh Shih-tao dari kertas putih tahun 1945, hingga buku 232 halaman _Sejarah Singkat Sastra Taiwan_ tahun 1987, di tengahnya mengalami kelumpuhan bicara, dipenjara tiga tahun, diam lebih dari sepuluh tahun, 1965 _Sastra Tanah Air Taiwan_, 1985 "Tanpa Tanah, Tak Ada Sastra". Pai Hsien-yung membaca Kafka di dalam bunker anti-pesawat. Wang Wen-hsing menghabiskan tujuh tahun menulis _Perubahan Keluarga_ yang dicaci maki. Lin Hai-yin mundur dari jabatan wakil ketua redaksi demi sebuah puisi. Yu Kwang-chung berteriak "Serigala Datang" memicu perang argumen sastra tanah air. Li Ang pada 1983 membuat Lin Shi memegang pisau menyembelih babi memotong suaminya. 42 tahun ini meninggalkan satu sistem linguistik yang berbelit-belit.
@@ -102,29 +104,31 @@ Yeh Shih-tao sendiri pada 20 September 1951 ditangkap oleh Biro Rahasia, 1953 di
 
 November 1965, ia di _Wenxing_ edisi ke-97 menerbitkan 「Sastra Tanah Air Taiwan」. Ini adalah kali pertama sejak dari nol ia secara sistematis membahas kategori 「台灣文學」. Saat itu istilah ini masih tidak bisa diucapkan langsung di forum terbuka[^23].
 
-## Artikel Majalah "Serigala Datang"
+## Artikel Suplemen "Serigala Datang"
 
-April 1977, _Majalah Cactus_ edisi ke-2 menerbitkan edisi khusus "Tanah Air dan Realitas", diedit oleh Wang Jianqiang, memuat artikel Wang Tuo 〈Adalah Sastra "Realisme", Bukan "Sastra Tanah Air"〉、Yin Zhengxiong, dan Zhu Xining tiga artikel[^24]. Wang Tuo berpendapat kemakmuran sastra tanah air adalah fenomena yang patut disyukuri, menyarankan mengganti nama menjadi "Sastra Realisme"; Yin Zhengxiong mengkritik sastra tanah air "memiliki krisis menjadi alat untuk mengekspresikan kebencian, kebencian, dan kesadaran serupa"; Zhu Xining mengkritik sastra tanah air terjerumus ke lokalisme, penekanan berlebihan pada kesadaran Taiwan memiliki "dugaan separatisme".
+April 1977, _Majalah Kaktus_ edisi ke-2 menerbitkan edisi khusus "Tanah Air dan Realitas", diedit oleh Wang Chien-chuang, memuat artikel Wang Tuo "Adalah Sastra 'Realisme', Bukan 'Sastra Tanah Air'", Yin Cheng-hsiung, dan Chu Hsi-ning[^24]. Wang Tuo berpendapat kemajuan sastra tanah air adalah fenomena patut disyukukan, menyarankan mengganti nama menjadi "Sastra Realisme"; Yin Cheng-hsiung mengkritik sastra tanah air "berbahaya menjadi alat untuk mengekspresikan kebencian, kebencian, dan kesadaran semacam itu"; Chu Hsi-ning mengkritik sastra tanah air terjebak dalam lokalisme, penekanan berlebihan pada kesadaran Taiwan memiliki "dugaan separatisme".
 
-Bau perang argumen mulai menumpuk dari sini.
+Bau mesiu perdebatan mulai menumpuk di sini.
 
-Juni, Chen Yingzhen dengan nama pena "Xu Nancun" di _Sastra Taiwan_ edisi ke-2 menerbitkan 〈Titik Buta "Sastra Tanah Air"〉, mengkritik "kesadaran Taiwan", "posisi Taiwan" Ye Shitao "ambigu dan sulit dipahami". Juli Chen Yingzhen lagi di _Cactus_ edisi ke-5 menerbitkan 〈Sastra Datang dari Masyarakat Mencerminkan Masyarakat〉[^25].
+Juni, Chen Ying-chen dengan nama pena "Hsu Nan-tsun" menerbitkan "Titik Buta 'Sastra Tanah Air'" di edisi kedua _Sastra Taiwan_, mengkritik "kesadaran Taiwan" dan "posisi Taiwan" Yeh Shih-tao "ambigu dan sulit dipahami". Juli, Chen Ying-chen kembali menerbitkan "Sastra Berasal dari Masyarakat Mencerminkan Masyarakat" di edisi ke-5 _Majalah Kaktus_[^25].
 
-20 Agustus 1977, Yu Guangzhong di halaman 12 _United Daily News_ suplemen majalah menerbitkan 〈Serigala Datang〉, menuduh sastra tanah air adalah "'seni budaya pekerja-tani-tentara', Taiwan sudah ada orang yang secara terang-terangan menganjurkannya", mengutip pidato Mao Zedong di Forum Sastra Yanan[^26]. Kalimat dalam artikel yang nanti paling sering dikutip adalah: "Tidak melihat serigala tapi berteriak 'serigala datang', adalah kecemasan sendiri; melihat serigala tapi tidak berteriak 'serigala datang', adalah pengecut"[^26].
+20 Agustus 1977, Yu Kwang-chung di halaman 12 _United Daily News_, Suplemen _United Daily News_, menerbitkan "Serigala Datang", menuduh sastra tanah air adalah "'Sastra Pekerja Petani Tentara', di Taiwan sudah ada orang yang mengusulkannya secara terbuka", mengutip pidato Mao Zedong di Forum Sastra Yan'an[^26]. Kalimat yang paling sering dikutip kemudian adalah: "Tidak melihat serigala tapi berteriak 'Serigala datang', itu mengganggu diri sendiri; melihat serigala tapi tidak berteriak 'Serigala datang', itu pengecut"[^26].
 
-"Seni budaya pekerja-tani-tentara" di Taiwan tahun 1977 adalah label yang bisa mengirim orang ke penjara.
+"Sastra Pekerja Petani Tentara" di Taiwan tahun 1977 adalah label yang bisa mengirim seseorang ke penjara.
 
-29 Agustus, KMT mengadakan "Pertemuan Sastra Nasional Kedua", Yu Guangzhong menjabat ketua presidium. Wang Jianqiang kemudian mengingat, pejabat Komando Keamanan yang khusus mengurusi budaya di rapat berkata: "Bagi mereka yang tidak mendengarkan nasihat pemerintah, pemerintah bukan tidak bertindak, hanya saja waktunya belum tiba"[^27].
+29 Agustus, KMT menggelar "Pertemuan Sastra Nasional Kedua", Yu Kwang-chung menjabat ketua presidium. Wang Chien-chuang kemudian mengingat, pejabat Komando Keamanan yang khusus menangani urusan budaya berkata di rapat: "Bagi mereka yang tidak mendengarkan nasihat pemerintah, bukan karena pemerintah tidak bertindak, hanya saja waktunya belum tiba"[^27].
 
-Argumen mungkin akan berescalasi menjadi penangkapan.
+Perdebatan mungkin akan berlanjut menjadi penahanan orang.
 
-19 November, Kejadian Zhongli meledak, Xu Xinliang kandidat bupati Taoyuan dicurigai kecurangan suara, massa menyerbu ke kantor polisi Zhongli dan membakar, ini adalah titik balik sejarah gerakan non-KMT. Perhatian pemerintah teralihkan[^28].
+19 November, Insiden Zhongli meledak, Hsu Hsin-liang yang mencalonkan diri sebagai Bupati Taoyuan dicurigai kecurangan suara, massa menyerbu Kantor Polisi Zhongli dan membakarnya, menjadi titik balik dalam sejarah gerakan non-partai. Perhatian pemerintah teralihkan[^28].
 
-18 Januari 1978, Kepala Departemen Politik Umum Kementerian Pertahanan Wang Sheng di penutupan Konferensi Sastra Angkatan Darat Tahun ke-67 menyerukan "persatuan tanah air", argumen berakhir[^29]. Chen Fangming kemudian menghitung _Kumpulan Diskusi Sastra Tanah Air_: mendukung sastra tanah air 60%, menentang 30%, netral 10%[^30].
+18 Januari 1978, Kepala Biro Politik Angkatan Bersenjata Departemen Pertahanan Wang Sheng di penutupan Pertemuan Sastra Angkatan Bersenjata Tahun ke-67 Minguo menyerukan "Persatuan Tanah Air", perdebatan berakhir[^29]. Chen Fang-ming kemudian menghitung _Kumpulan Diskusi Sastra Tanah Air_: mendukung sastra tanah air 60%, menentang 30%, netral 10%[^30].
 
-Argumen berakhir seri, tapi sastra tanah air memenangkan pembaca. Huang Chunming 〈Boneka Besar Anak Laki-laki〉 (ditulis 1968, 1969 diterbitkan pertama kali oleh Penerbit Cactus sebagai buku tunggal)、Wang Zhenhe 〈Mahar Satu Kereta Sapi〉 (1967 diterbitkan di _Majalah Sastra Musiman_, campuran bahasa Taiwan dan Mandarin) sudah menuliskan kota kecil Lanyang dan pasar Hualien ke dalam sastra[^31]. Setelah argumen, legitimasi tanah air terwujud. Tapi biaya argumen ini ada di tempat yang lebih dalam: setiap penulis semakin tahu cara menulis agar tidak terlalu mirip "pekerja-tani-tentara", yaitu semakin tahu cara sensor diri.
+Perdebatan berakhir seri, tapi sastra tanah air memenangkan pembaca. "Boneka Besar Anak Laki-laki" karya Huang Chun-ming (ditulis 1968, diterbitkan pertama kali 1969 oleh Penerbit Kaktus), "Mobil Kerbau sebagai Mahar" karya Wang Chen-ho (diterbitkan 1967 di _Majalah Sastra Musiman_, mencampurkan bahasa Taiwan dan Mandarin) sudah menuliskan kota kecil Lanyang dan pasar Hualien ke dalam sastra[^31]. Setelah perdebatan, legitimasi sastra tanah air teretabilkan. Tapi harga perdebatan ini ada di tempat yang lebih dalam: setiap penulis semakin paham cara menulis agar tidak terlalu mirip "pekerja petani tentara", yaitu semakin paham cara menyensor diri sendiri.
 
-Kalimat yang disaksikan Wang Jianqiang "Pemerintah bukan tidak bertindak, hanya saja waktunya belum tiba", adalah suara latar yang terdengar oleh semua penulis selama 42 tahun ini.
+Kalimat yang disaksikan Wang Chien-chuang "Pemerintah bukan tidak bertindak, hanya saja waktunya belum tiba", adalah suara latar yang terdengar oleh semua penulis selama 42 tahun ini.
+
+Kronologi dan posisi berbagai pihak dalam seluruh [Perang Sastra Tanah Air](/id/history/nativist-literature-debate/), lihat artikel khusus tersebut.
 
 ## Pisau Babi Lin Shi di Lu Cheng
 

@@ -1,26 +1,28 @@
 ---
-title: 'Fang Hsu-chung: Sang "Tukang" Visual yang Mengubah Desa Militer di Pingtung menjadi Memori Taiwan'
-description: 'Mengenal Fang Hsu-chung, pendiri Joe Fang Studio (究方社), yang lahir di New Village Donggang, Pingtung pada tahun 1978. Ia terlibat dalam desain visual utama untuk tiga penghargaan besar—Golden Melody, Golden Bell, dan Golden Horse—sejak 2016, dan telah tujuh kali masuk nominasi untuk Desain Sampul Terbaik Grammy.'
+title: 'Fang Xu-zhong: Perancang Visual dari Desa Militer Pingtung hingga Upacara Penghargaan Tiga Emas'
+description: 'Pendiri Jiu Fang She, Fang Xu-zhong, lahir pada tahun 1978 di Desa Hehe, Donggang, Pingtung. Ia merupakan lulusan Departemen Seni Grafis SMK Fuxing Swasta dan Program Malam Jurusan Desain Kerajinan Logam di Universitas Seni Nasional Taiwan. Setelah mendirikan Jiu Fang She pada tahun 2013, ia mulai merancang identitas visual untuk tiga penghargaan bergengsi: Golden Melody Awards, Golden Bell Awards, dan Golden Horse Awards sejak tahun 2016, serta telah tujuh kali masuk nominasi Desain Penjilidan Terbaik di Golden Melody Awards. Dari sensasi material lama masa kecilnya di desa militer hingga narasi kontemporer upacara tiga emas, ia menggunakan visual untuk menyandingkan memori Taiwan dengan zamannya.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'desainer',
-    'identitas visual',
-    'Golden Melody',
-    'Golden Horse',
-    'Joe Fang Studio',
+    'Desainer',
+    'Identitas Visual',
+    'Golden Melody Awards',
+    'Golden Horse Awards',
+    'Jiu Fang She',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-09-10T18:19:14+08:00'
+translatedAt: '2026-11-18T23:46:49.053953+00:00'
 ---
 
 # Fang Hsu-chung: Anak Desa Militer Pingtung yang Mengubah Tiga Penghargaan Menjadi Memori Taiwan
@@ -103,19 +105,19 @@ Keterlibatan lokal ini juga tercermin dalam presentasi media pribadinya. Di Inst
 
 ## Referensi
 
-[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biografi, riwayat pendidikan, dan linimasa karya Fang Hsu-chung, termasuk catatan kelahiran di New Village Donggang, Pingtung pada tahun 1978, Fu Xing, dan Departemen Malam Universitas Seni Nasional Taiwan.
+[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Riwayat hidup, latar belakang pendidikan, dan kronologi karya Fang Hsu-chung, termasuk asal usul dari Desa Gonghe Baru, Donggang, Pingtung pada tahun 1978, serta catatan mengenai sekolah Fuhxing Industrial & Commercial Vocational High School dan departemen metalurgi malam di Taipei National University of the Arts.
 
-[^2]: [Tentang Joe Fang Studio](https://joefangstudio.com/?page_id=2) — Pengenalan resmi Joe Fang Studio, mencakup waktu pendirian (2013) dan cakupan bisnis.
+[^2]: [Tentang Jiu Fang Studio](https://joefangstudio.com/?page_id=2) — Perkenalan resmi Jiu Fang Studio, mencakup waktu pendirian studio (2013) dan cakupan bisnisnya.
 
-[^3]: [Mirror Weekly: Manajemen Merek Tiga Penghargaan Besar—Fang Hsu-chung Mengaktifkan Visual Utama](https://www.mirrormedia.mg/story/20190125insight001/) — Konteks kolaborasi visual utama Tiga Penghargaan Besar dan undangan Chen Chin-chuan.
+[^3]: [Mirror Media: Manajemen Merek Tiga Penghargaan Besar, Fang Hsu-chung Menghidupkan Visual Utama Melalui Desain](https://www.mirrormedia.mg/story/20190125insight001/) — Konteks kerja sama visual utama untuk tiga penghargaan besar dan proses undangan oleh Chen Zhen-chuan.
 
-[^4]: [Resmi Golden Horse: Visual Utama Ke-55](https://www.goldenhorse.org.tw/) — Penjelasan konsep visual utama Golden Horse 55 tahun 2018, "Aktor Pendukung".
+[^4]: [Resmi Golden Horse Awards: Visual Utama ke-55](https://www.goldenhorse.org.tw/) — Penjelasan konsep visual utama bertema "Supporting Actor" pada Golden Horse Awards ke-55 tahun 2018.
 
-[^5]: [Badan Budaya—Direktorat Industri Film dan Musik Pop—Nominasi Grammy Tiga Penghargaan Besar](https://www.bamid.gov.tw/) — Catatan nominasi Desain Sampul Terbaik Fang Hsu-chung di Golden Melody.
+[^5]: [Biro Industri Film, Televisi, dan Musik Populer Kementerian Kebudayaan — Daftar Nominasi Golden Melody Awards dari Masa ke Masa](https://www.bamid.gov.tw/) — Catatan nominasi Fang Hsu-chung untuk kategori Desain Sampul Terbaik di Golden Melody Awards dari tahun ke tahun.
 
-[^6]: [Fang Hsu-chung, Mengubah Kesan Pingtung Memberi Imajinasi dan Harapan—The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Pembicaraan Fang Hsu-chung tentang masa kecil di desa militer Donggang, Proyek Kecil Bunga, dan konteks desain.
+[^6]: [Fang Hsu-chung, Mengubah Kesan Pingtung dengan Memberikan Imajinasi dan Harapan — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung berbicara tentang masa kecilnya di desa militer Donggang, Pingtung, Proyek Little Flower, dan konteks desainnya.
 
-[^7]: [Desainer dan Studio Mereka—Joe Fang Studio (究方社)](http://brandingdesign.nccu.tilda.ws/fdwf3) — Catatan wawancara proyek merek Universitas Cheng Kung, termasuk metode kerja Joe Fang Studio dan proses penerimaan Tiga Penghargaan Besar.
+[^7]: [Desainer dan Studio Mereka — Joe Fang Studio Jiu Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Catatan wawancara proyek desain merek Universitas Negeri NCCU, mencakup metode kerja Jiu Fang Studio dan proses pengerjaan tiga penghargaan besar.
 
 ## Bacaan Lanjutan
 
