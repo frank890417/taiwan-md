@@ -2,9 +2,7 @@
 title: 'Fang Hsu-chung: del juancun de Pingtung al artífice visual de las Tres Ceremonias de Oro'
 description: 'Fang Hsu-chung, fundador de Joe Fang Studio, nació en 1978 en Gonghe New Village, Donggang, Pingtung. Se formó en el departamento de bellas artes de la Fu-Hsin Trade & Arts School y en la división nocturna de orfebrería del Departamento de Diseño Artesanal de la National Taiwan University of Arts. En 2013 fundó Joe Fang Studio; desde 2016 ha dirigido sucesivamente las identidades visuales principales de las ceremonias de los Golden Melody Awards, Golden Bell Awards y Golden Horse Awards, y ha sido nominado siete veces al premio a Mejor Diseño de Empaque de los Golden Melody Awards. Desde la materialidad de los objetos viejos de su infancia en un juancun hasta la narrativa contemporánea de las Tres Ceremonias de Oro, pone en paralelo la memoria de Taiwán y su tiempo a través de la imagen.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'diseñador',
@@ -13,14 +11,18 @@ tags:
     'Golden Horse Awards',
     'Joe Fang Studio',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-19T00:26:37.466235+00:00'
 ---
 
 # Fang Hsu-chung: el niño de un juancun de Pingtung que convirtió las Tres Ceremonias de Oro en memoria de Taiwán
@@ -103,19 +105,19 @@ Esta participación local también se refleja en su presencia mediática persona
 
 ## Referencias
 
-[^1]: [方序中 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biografía, formación académica y cronología de obras de Fang Hsu-chung; incluye registros de su nacimiento en 1978 en Gonghe New Village, Donggang, Pingtung, sus estudios en Fu-Hsin Trade & Arts School y en la división nocturna de orfebrería de la National Taiwan University of Arts.
+[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biografía de Fang Hsu-chung, su formación académica y cronología de sus obras, incluyendo su origen en la aldea de viviendas militares Gonghe en Donggang, Pingtung en 1978, y sus estudios en la Escuela Secundaria Comercial Fuxing y el departamento nocturno de metalurgia de la Universidad de Artes de Taiwán.
 
-[^2]: [究方社 About](https://joefangstudio.com/?page_id=2) — Presentación oficial de Joe Fang Studio; incluye el año de fundación del estudio (2013) y su ámbito de trabajo.
+[^2]: [Acerca de Jiu Fang Studio](https://joefangstudio.com/?page_id=2) — Presentación oficial de Jiu Fang Studio, que incluye la fecha de fundación del estudio (2013) y su alcance de servicios.
 
-[^3]: [鏡週刊：三金典禮品牌經營 方序中設計活化主視覺](https://www.mirrormedia.mg/story/20190125insight001/) — Contexto de la colaboración en las identidades visuales principales de las Tres Ceremonias de Oro y el proceso de invitación por parte de Chen Chen-chuan.
+[^3]: [Mirror Media: Gestión de marca en los tres grandes premios; el diseño de Fang Hsu-chung revitaliza la identidad visual principal](https://www.mirrormedia.mg/story/20190125insight001/) — Contexto de la colaboración para la identidad visual de los tres grandes premios y el proceso de invitación por parte de Chen Zhen-chuan.
 
-[^4]: [金馬獎官方：第 55 屆主視覺](https://www.goldenhorse.org.tw/) — Explicación conceptual de la identidad visual principal “Supporting Role” de Golden Horse 55 en 2018.
+[^4]: [Sitio oficial de los Premios Golden Horse: Identidad visual de la 55.ª edición](https://www.goldenhorse.org.tw/) — Explicación del concepto de la identidad visual «Personaje Secundario» para la 55.ª edición de los Golden Horse en 2018.
 
-[^5]: [文化部影視及流行音樂產業局 — 金曲獎歷屆入圍](https://www.bamid.gov.tw/) — Registro histórico de las nominaciones de Fang Hsu-chung al premio a Mejor Diseño de Empaque de los Golden Melody Awards.
+[^5]: [Administración de la Industria Audiovisual y de la Música Popular del Ministerio de Cultura — Nominados históricos de los Golden Melody Awards](https://www.bamid.gov.tw/) — Registros de las nominaciones de Fang Hsu-chung al Mejor Diseño de Encuadernación en ediciones anteriores de los Golden Melody Awards.
 
-[^6]: [方序中，翻轉屏東印象賦予想像力及期待 — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung habla sobre su infancia en el juancun de Donggang, Pingtung, Florist Project y su contexto de diseño.
+[^6]: [Fang Hsu-chung: Transformando la impresión de Pingtung para otorgar imaginación y expectativas — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung habla sobre su infancia en las aldeas militares de Donggang, Pingtung, el Proyecto Little Flower y su contexto de diseño.
 
-[^7]: [設計師與他們的工作室 — Joe Fang Studio 究方社](http://brandingdesign.nccu.tilda.ws/fdwf3) — Registro de entrevista del proyecto de diseño de marca de la National Chengchi University; incluye el método de trabajo de Joe Fang Studio y el proceso por el cual asumió las Tres Ceremonias de Oro.
+[^7]: [Diseñadores y sus estudios — Joe Fang Studio Jiu Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Registro de la entrevista sobre el proyecto de diseño de marca de la Universidad de Comunicación de la Universidad de Nanshan, que incluye los métodos de trabajo de Jiu Fang Studio y el proceso de adjudicación de los tres grandes premios.
 
 ## Lecturas complementarias
 

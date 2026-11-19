@@ -2,9 +2,7 @@
 title: 'Las mascotas de los presidentes de Taiwán: del perro lobo autoritario de la residencia oficial a la resonancia social de la «primera gata»'
 description: 'En 1951, un perro lobo ingresó a la residencia oficial de Shilin como guardián de Chiang Kai-shek; setenta años después, Tsai Ing-wen llegó a la residencia con Think Think, una gata callejera. Del perro militar que simbolizaba la vigilancia autoritaria a los perros rescatados y gatos que representan la preocupación social, la sucesión de mascotas presidenciales en Taiwán traza, de manera involuntaria, la trayectoria democrática de esta isla: de la política de hombres fuertes hacia una democracia plural e igualitaria.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Politics'
-subcategory: '政治文化'
 tags:
   [
     'Residencia presidencial',
@@ -12,15 +10,19 @@ tags:
     'Protección animal',
     'Democracia taiwanesa',
   ]
-readingTime: 8
+subcategory: '政治文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-18T23:37:00.830482+00:00'
 ---
 
 > **Panorama en 30 segundos:** Las mascotas de los sucesivos presidentes de Taiwán no solo han sido miembros de la familia dentro de la residencia oficial; a menudo también han condensado la imagen política y los valores sociales de cada época. Desde los imponentes perros lobo del periodo de Chiang Kai-shek, la manada de golden retrievers de Lee Teng-hui, Brave Brother, el perro taiwanés de Chen Shui-bian, hasta Ma Xiaojiu de Ma Ying-jeou, el grupo de gatos y perros de Tsai Ing-wen, y Luke, el perro rescatado de Lai Ching-te. Esta lista permite leer cómo la “primera mascota” pasó gradualmente de ser una afición privada a convertirse en un lenguaje político para promover la protección animal y mostrar cercanía popular.
@@ -77,22 +79,22 @@ Además, la imagen de “buena vida de perro” de las mascotas presidenciales t
 
 ## Referencias
 
-[^1]: [Los tres perros queridos de Chiang Kai-shek protegían a su amo con instinto espiritual y quedaron registrados en su diario como muy mimados](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (registro en video de YouTube)
+[^1]: [Los 3 perros de Chiang Kai-shek: diarios que muestran su espiritualidad y el gran afecto recibido](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (registro de video en YouTube)
 
-[^2]: [Revisitar a Lee Teng-hui: criaba perros, gatos y hasta ovejas; la residencia oficial del tío A-hui parecía un zoológico alternativo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (registra que Lee Teng-hui importó golden retrievers, que se reprodujeron hasta más de treinta ejemplares, y que algunos fueron entrenados como perros guía)
+[^2]: [Recordando a Lee Teng-hui: criaba perros, gatos e incluso ovejas; la residencia de Ah-hui Bo parecía un zoológico alternativo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (registra cómo Lee Teng-hui introdujo Golden Retrievers, crió más de treinta y algunos fueron entrenados como perros guía)
 
-[^3]: [Destinos muy distintos de perros estrella de la política: Tsai Think Think, de gata callejera a primera mascota de una expresidenta](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
+[^3]: [Destinos muy distintos para los perros estrella de la política: Tsai Xiangxiang, el gato callejero, se convierte en la primera mascota del expresidente](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [Entrada de Wikipedia sobre Ma Xiaojiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (entrada de Wikipedia)
+[^4]: [Entrada de Wikipedia sobre Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (entrada de Wikipedia)
 
-[^5]: [Caso de fondos especiales durante su periodo como alcalde de Taipéi: Ma Ying-jeou recibe no acusación](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (20 de marzo de 2017, no acusación de la Fiscalía del Distrito de Taipéi; los fondos especiales ya habían sido despenalizados y el caso previo ya tenía sentencia absolutoria firme)
+[^5]: [Caso de los gastos especiales durante el mandato del alcalde de Taipei: Ma Ying-jeou no será procesado](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (el 20-03-2017, la Fiscalía de Distrito de Taipei decidió no procesar; los gastos especiales fueron despenalizados y un caso anterior ya fue declarado inocente con sentencia firme)
 
-[^6]: [Tsai Ing-wen muestra a sus primeras mascotas: lo que más quiere es jugar con Think Think y Ah Tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (registro en video de YouTube)
+[^6]: [La primera mascota de Tsai Ing-wen: lo que más desea es acompañar a Xiangxiang y Ah-tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (registro de video en YouTube)
 
-[^7]: [Presidenta: la solicitud de adopción del perro de búsqueda y rescate retirado se hizo conforme a la ley; no debe distorsionarse políticamente](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (registra que Tsai Ing-wen adoptó en 2016 a los perros guía retirados Bella, Bunny y Maru, así como al perro de búsqueda y rescate Lele, adoptado conforme a las normas tras alcanzar la edad de retiro)
+[^7]: [Presidente: Solicitar la adopción de perros de rescate retirados conforme a la ley, no es necesario distorsionarlo por política](https://www.cna.com.tw/news/aipl/202104290024.aspx) — CNA (registra que Tsai Ing-wen adoptó en 2016 a los perros guía retirados Bella, Bunny y Maru, así como al perro de rescate Lele tras su retiro reglamentario)
 
-[^8]: [Nuevo cortometraje animado de Lai Ching-te relata la historia de la adopción del perro callejero “Luke”](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
+[^8]: [Lai Ching-te revela la historia de la adopción de su perro callejero "Luke" en un nuevo cortometraje animado](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [Fallece su perro Luke; Lai Ching-te: seguirá prestando atención a los animales de compañía y a los callejeros](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11 de septiembre de 2023; Facebook de Lai Ching-te: “gracias a Luke por tantos años de compañía”)
+[^9]: [Fallecimiento del amado Luke; Lai Ching-te: Seguiré prestando atención a las mascotas y a los animales callejeros](https://www.cna.com.tw/news/aipl/202309110271.aspx) — CNA (11-09-2023, Facebook de Lai Ching-te: "Gracias Luke por tu compañía durante todos estos años")
 
-[^10]: [Si una trampa atrapara a un niño, a Ma Xiaojiu…](https://news.tvbs.com.tw/life/131330) — TVBS (véanse los materiales complementarios en el texto del enlace original)
+[^10]: [Si una trampa para animales atrapara a un niño o a Ma Xiao-jiu...](https://news.tvbs.com.tw/life/131330) — TVBS (ver información complementaria en el enlace original)

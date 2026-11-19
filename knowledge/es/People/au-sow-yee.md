@@ -2,9 +2,7 @@
 title: 'Au Sow Yee: la curadora malasia que llevó el “archipiélago” al círculo artístico de Taiwán'
 description: 'En 2003 llegó de Kuala Lumpur a Taipéi para estudiar en la Universidad Nacional de las Artes de Taipéi, pensando que solo sería una transeúnte; catorce años después, en Taipéi, empezó a usar “archipiélago” (Nusantara) en lugar de “Sudeste Asiático”, una denominación de la Guerra Fría, e introdujo en el discurso curatorial taiwanés la autodenominación del mundo malayo. Desde la trilogía del topónimo ficticio Mengkerang y la incorporación de Kris Project a la colección del Museo de Arte de Singapur, hasta las entrevistas de 2024 con Chen Yow-Ruu a niños apátridas de Malasia, en una entrevista con NML dijo una frase: “Precisamente por mi ‘ausencia’ pude hacer esta obra.”'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '策展與當代藝術'
 tags:
   [
     'Au Sow Yee',
@@ -19,18 +17,23 @@ tags:
     'Rumah Attap Library',
     'Páramo Digital',
   ]
+subcategory: '策展與當代藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-06-16T16:54:57Z'
+researchReport: 'reports/research/2026-05/區秀詒.md'
 image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/區秀詒.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-18T23:07:05.604203+00:00'
 ---
 
 # Au Sow Yee: la curadora malasia que llevó el “archipiélago” al círculo artístico de Taiwán
@@ -167,19 +170,19 @@ Esta obra tuvo además una versión teatral, **Nanyang Intelligence Exchange Off
 
 Empezó así a expandir sus obras desde la “pieza audiovisual individual” hacia proyectos integrales **transmedia, multisede y multitemporales**.
 
-## STILL ALIVE: The Kris Project II y los guerreros silenciosos del océano
+## STILL ALIVE: El proyecto Chris II y los silenciosos guerreros del océano
 
-El 28 de noviembre de 2019, **TheCube Project Space**, ubicado en Liuzhangli, Taipéi, inauguró su exposición individual STILL ALIVE[^25], que permaneció abierta hasta el 19 de enero de 2020.
+El 28 de noviembre de 2019, en el **TheCube Project Space** de Liuzhangli, Taipéi, se inauguró su exposición individual «STILL ALIVE»[^25], que permaneció abierta hasta el 19 de enero de 2020.
 
 Tres obras:
 
-1. **The Kris Project II: If the Party Goes On**, continuación de The Kris Project de 2016, pero con una excavación más profunda
-2. **Palaces, Valleys, Islands and Their Lunar Journey**, que conecta el mundo malayo con mitologías lunares
-3. **Silver Noise: The Extreme Journey of the Silent Warriors of the Ocean (Prelude: Song of the Voyage)**, una mnemotecnia sonora del océano
+1. **«Chris Project II: If the Party Goes On»**, continuación del Proyecto Chris de 2016 pero excavando una capa más profunda
+2. **«Palaces, Valleys, Islands and Their Lunar Journey»**, que conecta el mundo malayo con la mitología lunar
+3. **«Ruido plateado: El viaje extremo de los silenciosos guerreros del océano (Preludio: Canción de navegación)»**, mnemotecnia sonora del océano
 
-TheCube Project Space fue fundado en 2010 por Amy Cheng y Jeph Lo; se encuentra en un antiguo departamento en un callejón de Liuzhangli, Taipéi, y es uno de los espacios no comerciales más importantes del arte contemporáneo taiwanés. Que Au Sow Yee hiciera allí una exposición individual no fue casual: durante años, TheCube apoyó en profundidad curadurías vinculadas con “Nusantara”, convirtiéndose en otro nodo del mundo malayo dentro del círculo artístico taiwanés, además de NML.
+El TheCube Project Space, fundado en 2010 por Cheng Hui-hua y Lo Yueh-chuan, se ubica en un viejo apartamento en un callejón de Liuzhangli, Taipéi, y es uno de los espacios no comerciales más importantes del arte contemporáneo taiwanés. Que Au Sow Yee hiciera su individual allí no fue casualidad: TheCube lleva años apoyando en profundidad la curaduría relacionada con los «archipiélagos», constituyendo otro nodo del mundo malayo en el ámbito artístico taiwanés más allá de NML.
 
-En 2021 recibió una **mención honorífica del Taipei Arts Award** por una creación extendida de esta serie[^26]. Ese mismo año empezó a ser invitada de forma continua a bienales internacionales: la Bienal de Busan 2022 y la 15.ª Bienal de Sharjah, Thinking Historically in the Present, en Emiratos Árabes Unidos, en 2023[^27].
+En 2021, con una creación extendida de esta serie, obtuvo el **Premio de Honor del Taipei Arts Award**[^26]. Ese mismo año comenzó a ser invitada consecutivamente a bienales internacionales: la Bienal de Busan 2022 y la 15.ª Bienal de Sharjah en los Emiratos Árabes Unidos, «Thinking Historically in the Present»[^27].
 
 ## Recontar Si Tanggang con niños apátridas
 

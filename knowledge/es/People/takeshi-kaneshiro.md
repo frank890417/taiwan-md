@@ -2,9 +2,7 @@
 title: 'Takeshi Kaneshiro: de “ciudadano” al que nadie reconoce al galán asiático que solo quiere que el mundo lo olvide'
 description: 'Una nota de entrevistas callejeras de 2025 lo identificó como “ciudadano”; quizá fue el momento que Takeshi Kaneshiro más anhelaba. Desde el anuncio que filmó a los 17 años para comprarse una motocicleta hasta convertirse en una superestrella internacional entre Taiwán, Japón y Hong Kong, siempre practicó la “desaparición” en la cima de la industria del espectáculo.'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',
@@ -15,15 +13,19 @@ tags:
     'Onimusha',
     'The Crossing',
   ]
-readingTime: 15
+subcategory: '電影與戲劇'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-06-20T00:37:14+08:00'
+translatedAt: '2026-11-18T23:45:34.235750+00:00'
 ---
 
 > **Resumen en treinta segundos:**

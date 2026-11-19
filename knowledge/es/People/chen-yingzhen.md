@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:30+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T23:21:24.186390+00:00'
 ---
 
 # Chen Yingzhen: de Zhunan a Pekín, la conciencia literaria del campo unificacionista
@@ -75,13 +77,13 @@ El 31 de diciembre de 1968, Chen Yingzhen fue condenado a 10 años de prisión, 
 
 Esta experiencia carcelaria afianzó aún más su postura de izquierda y su reivindicación política de la "unificación de China". Empezó a pensar con más profundidad en la posición de Taiwán en el marco de la Guerra Fría y en el destino compartido entre el pueblo taiwanés y los pueblos oprimidos de Asia, África y América Latina. Tras salir de prisión en 1975, regresó al mundo literario con un pensamiento más maduro y un estilo más nítido. Obras de este periodo como "El camino de montaña" y la serie _El edificio Washington_ encarnan su agarre de la realidad social y su preocupación por el destino del pueblo.
 
-## Teórico del movimiento de literatura nativista
+## Teórico del movimiento de la literatura nativista
 
-En los años 70 surgió en Taiwán el movimiento de literatura nativista. En 1976, Chen Yingzhen trabajó como editor de la revista _Hsiaochao_ (夏潮). En la polémica de 1977-78 publicó "Establecer el estilo de una literatura nacional", "La literatura viene de la sociedad y refleja la sociedad", "Los puntos ciegos de la literatura nativista" y otros artículos, replicando a Yu Kwang-chung y otros que criticaban a la literatura nativista por tender a la literatura de obreros, campesinos y soldados; por ello es considerado uno de los principales representantes del bando nativista.[^5]
+En la década de 1970, surgió en Taiwán el movimiento de la literatura nativista. En 1976, Chen Yingzhen trabajó como editor de la revista 《Xia Chao》 (_Marea de Verano_). Durante la [controversia sobre la literatura nativista](/es/history/nativist-literature-debate/) de 1977-78, publicó artículos como 〈Establecer un estilo de literatura nacional〉, 〈La literatura proviene de la sociedad y refleja a la sociedad〉 y 〈Los puntos ciegos de la literatura nativista》, con los que refutó las críticas de autores como Yu Kwang-chung, quienes sostenían que la literatura nativista tendía hacia una literatura de obreros, campesinos y soldados. Por ello, se le considera uno de los principales representantes de la corriente nativista. [^5]
 
-"Hsu Nan-tsun" (許南村) es uno de sus seudónimos; por ejemplo, en 1978 publicó "La nueva esperanza del arte realista" en el tercer número de _Shichao_ (詩潮). Los artículos de la polémica mencionados llevan su nombre real, Chen Yingzhen.
+«Xu Nancun» fue uno de sus pseudónimos, utilizado, por ejemplo, en el artículo 〈La nueva esperanza del arte realista〉 publicado en el tercer volumen de 《Shi Chao》 (_Marea Poética_) en 1978. Los artículos de la controversia mencionada anteriormente, sin embargo, fueron publicados bajo el nombre de Chen Yingzhen.
 
-En los años 80 continuó participando en la edición de _Wenji_ y _Hsiaochao_, y en la disputa entre el "nudo chino" y el "nudo taiwanés" cruzó espadas con intelectuales del bando localista taiwanés, entre ellos Chen Fang-ming.
+En la década de 1980, continuó participando en la labor editorial de 《Wen Ji》 y 《Xia Chao》, y se enfrentó a figuras del bando nativista taiwanés durante la controversia entre el «Nudo de China» y el «Nudo de Taiwán», teniendo como oponentes a personas como Chen Fang-ming.
 
 ## Edición de revistas y promoción cultural
 

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-08-10T01:58:13+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-18T23:01:50.271508+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 2003, el SARS causó 73 muertes en Taiwán; el incidente del cierre del Hospital Heping se convirtió en un trauma colectivo en la historia de la salud pública. Tras esto, Taiwán reconstruyó casi todo su sistema de prevención: la elevación de categoría del Centro para el Control de Enfermedades (CDC), la institucionalización del mecanismo del Centro de Comando de la Epidemia (CECC) y una reforma integral de los protocolos de control de infecciones. Con la expansión global del COVID-19 en 2020, Taiwán mantuvo casi cero contagios comunitarios durante los primeros 18 meses, lo que la comunidad internacional denominó el «Modelo de Taiwán». En abril de 2026, apareció el primer caso local de gripe aviar H7N7 con transmisión de ave a humano, poniendo a prueba el sistema de prevención una vez más.
@@ -79,25 +81,26 @@ Esto es precisamente el legado del SARS en funcionamiento: hay un organismo espe
 | Equipo insuficiente | Sistema de mascarillas en 72h | Distribución de 40-50 mil mascarillas a criadores |
 | Información opaca   | Ruedas de prensa diarias      | Publicación inmediata de secuenciación genética   |
 
-## El Seguro Nacional de Salud: La infraestructura invisible de la prevención
+## Seguro médico: la infraestructura invisible de la prevención epidémica
 
-La base del sistema de prevención de Taiwán es el [Seguro Nacional de Salud](/es/lifestyle/taiwan-healthcare-and-national-health-insurance/), iniciado en 1995.
+La base del sistema de prevención epidémica de Taiwán es el [Seguro Nacional de Salud](/es/lifestyle/taiwan-healthcare-and-national-health-insurance/), puesto en marcha en 1995.
 
-23,4 millones de personas comparten una única base de datos y una tarjeta de seguro. Durante el COVID-19, esta tarjeta se convirtió en infraestructura esencial: el registro nominal de mascarillas dependía de ella; la anotación de historiales de viaje se vinculaba a través de su uso; y los registros de vacunación quedaban grabados en ella. Sin esta base de datos con cobertura universal, el Modelo de Taiwán no habría sido posible[^10].
+23,4 millones de personas comparten una única base de datos del seguro médico y una tarjeta del seguro médico. Durante el COVID-19, esta tarjeta se convirtió en infraestructura de prevención: el sistema de mascarillas con identificación se basaba en la tarjeta del seguro médico para la compra, el registro del historial de viajes se vinculaba mediante la tarjeta del seguro médico, y los registros de vacunación se almacenaban en la tarjeta del seguro médico. Sin esta base de datos que cubre a toda la población, el modelo de Taiwán no habría sido posible[^10].
 
-> **✦** «El SARS fue la lección más dolorosa en la historia de la salud pública de Taiwán. Pero las lecciones más dolorosas forman a los mejores estudiantes».
+> **✦** «El SARS fue la lección más dolorosa en la historia de la salud pública de Taiwán. Pero la lección más dolorosa formó a los mejores estudiantes.»
 
-Veintitrés años después del cierre del Hospital Heping, aquel edificio sigue en pie en la calle Zhonghua, en Taipéi. Algunos profesionales sanitarios que entran en urgencias aún recuerdan lo sucedido. He Song-rong dice que no guarda rencor, pero que esa cicatriz «no ha sanado por completo». Quizás no necesite sanar. Quizás el órgano más importante de un sistema de prevención es, precisamente, la capacidad de recordar el dolor.
+Veintitrés años después del cierre del Hospital Heping, ese edificio sigue en pie en la calle Zhonghua de Taipéi. El personal médico que entra en la sala de urgencias, algunos aún recuerdan lo ocurrido. He Song-rong dice que no guarda rencor, pero esa cicatriz «no ha sanado del todo». Quizá no necesite sanar. Quizá el órgano más importante de un sistema de prevención epidémica sea recordar el dolor.
 
 **Lecturas adicionales**:
 
-- [Zonas de fumadores en Taipéi: En una ciudad sin humo, esa caja de cristal que aún respira](/es/society/taipei-smoking-room) — El capítulo más reciente de la larga marcha de cuarenta años contra el tabaco; el campo de batalla se ha desplazado del interior al exterior.
+- [Salas de fumadores de Taipéi: en la ciudad sin humo, esos cubos de cristal que respiran](/es/society/taipei-smoking-room) — El capítulo más reciente de la cruzada de cuarenta años contra el tabaquismo, el campo de batalla se trasladó de interiores a exteriores
 
-- [La medicina y el Seguro Nacional de Salud en Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención: la base de datos de 23,4 millones de personas.
-- [Audrey Tang](/es/people/audrey-tang) — La Ministra de Estado Digital detrás del mapa de mascarillas.
-- [El sistema de medicina de catástrofes en Taiwán](/es/technology/taiwan-disaster-medicine-system) — Desde el terremoto de 921 hasta el SARS: cómo los desastres impulsan la evolución médica.
-- [COVID-19 y vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines)— El sistema construido tras el SARS fue probado íntegrammente entre 2020 y 2023: las fronteras resistieron 18 meses, pero la tercera dosis para ancianos no llegó a tiempo.
-- [Medicina regenerativa y 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — Una narrativa doble sobre la adquisición de BNT en 2021 y la legislación de terapias celulares; una perspectiva extendida sobre la prevención del COVID aquí expuesta.
+- [Salud y seguro médico nacional de Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención: la base de datos del seguro médico de 23,4 millones de personas
+- [Audrey Tang](/es/people/audrey-tang) — La ministra digital detrás del mapa de mascarillas
+- [Sistema de medicina de desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — Del 921 al SARS, cómo los desastres impulsaron la evolución médica
+- [Serie especial: atención médica y cuidados a largo plazo](/health/) — Los sistemas, la historia y las finanzas del seguro médico y los cuidados a largo plazo, con simulador de subsidios de cuidados a largo plazo y primas del seguro médico
+- [Pandemia de COVID-19 y vacunas en Taiwán](/es/society/taiwan-covid-pandemic-and-vaccines) — Este sistema construido tras el SARS fue puesto a prueba completa entre 2020 y 2023: la frontera contuvo el virus dieciocho meses, pero las vacunas y la tercera dosis para los mayores no llegaron a tiempo
+- [Ley dual de medicina regenerativa × 30 años de ARNm](/es/society/taiwan-regenerative-medicine-laws) — La doble narrativa de la compra de BNT en 2021 y la legislación de terapia celular, perspectiva extendida de la prevención del COVID en este artículo
 
 ## Referencias
 
