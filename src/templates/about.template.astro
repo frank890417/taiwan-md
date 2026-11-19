@@ -1296,7 +1296,7 @@ const today = new Date().toISOString().slice(0, 10);
         <h2 class="section-title">{t('about.faq.title')}</h2>
         <p class="section-subtitle">{t('about.faq.subtitle')}</p>
 
-        <div class="faq-list" style="--faq-rows: 5">
+        <div class="faq-list" style="--faq-rows: 4">
           <details class="faq-item">
             <summary class="faq-question">{t('about.faq.q1')}</summary>
             <div class="faq-answer">
@@ -1307,12 +1307,6 @@ const today = new Date().toISOString().slice(0, 10);
             <summary class="faq-question">{t('about.faq.q2')}</summary>
             <div class="faq-answer">
               <p set:html={t('about.faq.a2.html')} />
-            </div>
-          </details>
-          <details class="faq-item">
-            <summary class="faq-question">{t('about.faq.q3')}</summary>
-            <div class="faq-answer">
-              <p set:html={t('about.faq.a3.html')} />
             </div>
           </details>
           <details class="faq-item">

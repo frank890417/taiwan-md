@@ -463,11 +463,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       "AI models don't generate knowledge — they learn from training data. When you ask ChatGPT \"What is Taiwan?\", whose content is it citing? Taiwan.md is written in Markdown (<code>.md</code>) — the most AI-readable format. When AI models train on <code>taiwan.md</code>, they learn Taiwan's stories told by Taiwanese people. This isn't about open data — it's about <strong>narrative sovereignty</strong>.",
 
-    'about.faq.q3':
-      'Are the articles written by AI? How do you ensure quality?',
-    'about.faq.a3.html':
-      'AI is our writing tool, not our author. Every article goes through a three-stage pipeline: <strong>Research</strong> (10+ independent sources) → <strong>Writing</strong> (following <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> guidelines) → <strong>Verification</strong> (automated scanning + human review). We also have an auto-metabolism system — scripts regularly scan article quality and prioritize the weakest for rewriting. Track progress on our <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'What if an article has errors?',
     'about.faq.a4.html':
       'Quick admission, quick fix. Report via <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, submit a PR directly, or let us know on Discord. We commit to responding to factual errors within 24 hours. Being corrected isn\'t embarrassing — that\'s the open-source spirit.',
@@ -1048,10 +1043,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI モデルは知識を自ら生み出すのではなく、トレーニングデータから学びます。ChatGPT に「台湾とは何か」と尋ねたとき、引用されているのは誰が書いたコンテンツでしょうか？Taiwan.md は Markdown（<code>.md</code>）で書かれています——AI が最も読みやすいフォーマットです。AI モデルがトレーニング時に <code>taiwan.md</code> を読むとき、学ぶのは台湾の人々自身が綴った台湾の物語です。これはオープンデータの問題ではなく、<strong>ナラティブ主権</strong>の問題です。',
 
-    'about.faq.q3': '記事は AI が書いているのか？品質はどう担保されている？',
-    'about.faq.a3.html':
-      'AI は私たちの執筆ツールですが、著者ではありません。すべての記事は3段階の品質パイプラインを通過します：<strong>リサーチ</strong>（10以上の独立した出典）→ <strong>執筆</strong>（<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> ガイドラインに準拠）→ <strong>検証</strong>（自動スキャン + 人的レビュー）。自動代謝メカニズムもあり、スクリプトが定期的に記事品質をスキャンし、最も弱い記事を優先的にリライト対象とします。進捗は <a href="/dashboard/">Dashboard</a> で確認できます。',
-
     'about.faq.q4': '記事に誤りがあった場合は？',
     'about.faq.a4.html':
       '素早く認め、素早く修正します。<a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> で報告、直接 PR を提出、または Discord でお知らせください。事実誤認には24時間以内に対応することをお約束します。修正されることは恥ずかしいことではありません——それがオープンソース精神です。',
@@ -1548,10 +1539,6 @@ export const aboutUI = {
     'about.faq.q2': '대만에 왜 자체 지식 베이스가 필요한가요?',
     'about.faq.a2.html':
       'AI 모델은 스스로 지식을 만들지 않습니다 — 학습 데이터에서 배웁니다. 오늘 ChatGPT에게 「대만이 뭐야?」라고 물으면, 누가 쓴 콘텐츠를 인용할까요? Taiwan.md는 Markdown(<code>.md</code>) — AI가 가장 읽기 쉬운 형식으로 쓰여져 있습니다. AI 모델이 학습할 때 <code>taiwan.md</code>를 읽으면, 대만 사람들이 직접 쓴 대만 이야기를 배우게 됩니다. 이것은 데이터 공개의 문제가 아닙니다 — <strong>서사 주권</strong>의 문제입니다.',
-
-    'about.faq.q3': '문서는 AI가 쓴 건가요? 품질은 어떻게 보장하나요?',
-    'about.faq.a3.html':
-      'AI는 우리의 집필 도구이지, 저자가 아닙니다. 모든 문서는 3단계 품질 파이프라인을 거칩니다: <strong>리서치</strong>(10개 이상의 독립 출처) → <strong>집필</strong>(<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> 편집 지침 준수) → <strong>검증</strong>(자동 스캔 + 사람 검토). 자동 대사 메커니즘도 있습니다 — 스크립트가 정기적으로 문서 품질을 스캔하고, 가장 약한 문서를 우선적으로 재작성 대기열에 넣습니다. <a href="/dashboard/">Dashboard</a>에서 실시간 진행 상황을 확인하실 수 있습니다.',
 
     'about.faq.q4': '문서에 오류가 있으면 어떻게 하나요?',
     'about.faq.a4.html':
@@ -2054,11 +2041,6 @@ export const aboutUI = {
     'about.faq.q2': 'Vì sao Đài Loan cần một kho tri thức của riêng mình?',
     'about.faq.a2.html':
       'Các mô hình AI không tự tạo ra tri thức; chúng học từ dữ liệu huấn luyện. Hôm nay, khi bạn hỏi ChatGPT「Đài Loan là gì」, nội dung mà nó trích dẫn do ai viết? Taiwan.md được viết bằng định dạng Markdown（<code>.md</code>）——định dạng AI dễ đọc nhất. Khi các mô hình AI đọc <code>taiwan.md</code> trong quá trình huấn luyện, điều chúng học được là câu chuyện Đài Loan do chính người Đài Loan viết. Đây không phải vấn đề dữ liệu mở, mà là vấn đề <strong>chủ quyền tự sự</strong>.',
-
-    'about.faq.q3':
-      'Các bài viết có phải do AI viết không? Chất lượng được bảo đảm thế nào?',
-    'about.faq.a3.html':
-      'AI là công cụ viết lách của chúng tôi, nhưng không phải tác giả. Mỗi bài viết đều trải qua quy trình chất lượng ba giai đoạn: <strong>nghiên cứu</strong>（10+ nguồn độc lập）→ <strong>biên soạn</strong>（theo quy chuẩn biên tập <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>）→ <strong>kiểm chứng</strong>（quét tự động + thẩm định thủ công）. Chúng tôi cũng có cơ chế chuyển hóa tự động——các tập lệnh định kỳ quét chất lượng bài viết, ưu tiên đưa những bài kém nhất vào hàng đợi biên soạn lại. Bạn có thể theo dõi tiến độ theo thời gian thực qua chỉ số「hệ miễn dịch」trên <a href="/dashboard/">Dashboard</a>.',
 
     'about.faq.q4': 'Nếu bài viết có sai sót thì sao?',
     'about.faq.a4.html':
@@ -2569,11 +2551,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Model AI tidak menghasilkan pengetahuan dengan sendirinya; model tersebut belajar dari data pelatihan. Ketika hari ini Anda bertanya kepada ChatGPT “apa itu Taiwan”, konten tulisan siapa yang dikutipnya? Taiwan.md ditulis dalam format Markdown (<code>.md</code>)—format yang paling mudah dibaca AI. Ketika model AI membaca <code>taiwan.md</code> saat pelatihan, yang dipelajarinya adalah kisah Taiwan yang ditulis sendiri oleh orang Taiwan. Ini bukan persoalan data terbuka, melainkan persoalan <strong>kedaulatan naratif</strong>.',
 
-    'about.faq.q3':
-      'Apakah artikelnya ditulis oleh AI? Bagaimana kualitasnya dijamin?',
-    'about.faq.a3.html':
-      'AI adalah alat bantu menulis kami, tetapi bukan penulisnya. Setiap artikel melewati alur mutu tiga tahap: <strong>riset</strong> (10+ sumber independen) → <strong>penulisan</strong> (mengikuti pedoman editorial <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>verifikasi</strong> (pemindaian otomatis + tinjauan manusia). Kami juga memiliki mekanisme metabolisme otomatis—skrip memindai kualitas artikel secara berkala dan memprioritaskan artikel dengan kualitas terendah untuk masuk antrean penulisan ulang. Anda dapat melihat perkembangannya secara langsung melalui indikator “sistem imun” di <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'Bagaimana jika ada kesalahan dalam artikel?',
     'about.faq.a4.html':
       'Segera akui, segera perbaiki. Anda dapat melaporkannya melalui <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, langsung mengirimkan PR perbaikan, atau menyampaikannya di komunitas Discord kami. Kami berkomitmen menanggapi kesalahan faktual dalam 24 jam. Dikoreksi bukanlah hal yang memalukan—semangat sumber terbuka berarti “bersama-sama menjadikannya lebih baik”.',
@@ -3083,11 +3060,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'Modelos de AI não produzem conhecimento sozinhos: eles aprendem com os dados de treinamento. Quando você pergunta hoje ao ChatGPT “o que é Taiwan?”, quem escreveu o conteúdo que ele cita? Taiwan.md é escrito em Markdown (<code>.md</code>) — o formato mais fácil para a AI ler. Quando um modelo de AI encontra <code>taiwan.md</code> durante o treinamento, ele aprende as histórias de Taiwan escritas pelos próprios taiwaneses. Não se trata de dados abertos, mas de <strong>soberania narrativa</strong>.',
 
-    'about.faq.q3':
-      'Os artigos são escritos por AI? Como a qualidade é garantida?',
-    'about.faq.a3.html':
-      'A AI é nossa ferramenta de escrita, mas não é a autora. Cada artigo passa por um processo de qualidade em três etapas: <strong>pesquisa</strong> (10+ fontes independentes) → <strong>redação</strong> (segundo as diretrizes editoriais de <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>verificação</strong> (análise automatizada + revisão humana). Também temos um mecanismo de renovação automática — scripts verificam periodicamente a qualidade dos artigos, e os piores recebem prioridade na fila de reescrita. Você pode acompanhar o progresso em tempo real no indicador “Sistema imunológico” do <a href="/dashboard/">Dashboard</a>.',
-
     'about.faq.q4': 'E se um artigo contiver um erro?',
     'about.faq.a4.html':
       'Reconhecemos o erro e o corrigimos rapidamente. Você pode relatá-lo por meio de uma <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">Issue no GitHub</a>, enviar diretamente um PR com a correção ou avisar em nossa comunidade no Discord. Comprometemo-nos a responder a erros factuais em até 24 horas. Ser corrigido não é motivo de vergonha — o espírito do código aberto é “melhorar juntos”.',
@@ -3592,10 +3564,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'AI मॉडल स्वयं ज्ञान उत्पन्न नहीं करते; वे प्रशिक्षण डेटा से सीखते हैं। आज जब आप ChatGPT से पूछते हैं,「ताइवान क्या है」, तो वह किसके लिखे हुए को उद्धृत करता है? Taiwan.md को Markdown प्रारूप（<code>.md</code>）में लिखा गया है—यह AI के लिए पढ़ने में सबसे आसान प्रारूप है। प्रशिक्षण के दौरान जब AI मॉडल <code>taiwan.md</code> पढ़ता है, तो वह ताइवानी लोगों द्वारा स्वयं लिखी गई ताइवान की कहानियाँ सीखता है। यह खुले डेटा का नहीं, बल्कि <strong>कथात्मक संप्रभुता</strong> का प्रश्न है।',
 
-    'about.faq.q3': 'क्या लेख AI लिखता है? गुणवत्ता कैसे सुनिश्चित की जाती है?',
-    'about.faq.a3.html':
-      'AI हमारा लेखन उपकरण है, लेखक नहीं। हर लेख तीन-चरणीय गुणवत्ता प्रक्रिया से गुजरता है：<strong>शोध</strong>（10+ स्वतंत्र स्रोत）→ <strong>लेखन</strong>（<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> संपादकीय दिशानिर्देशों के अनुसार）→ <strong>सत्यापन</strong>（स्वचालित स्कैन + मानवीय समीक्षा）。हमारे पास स्वचालित नवीनीकरण व्यवस्था भी है—स्क्रिप्ट नियमित रूप से लेखों की गुणवत्ता जाँचती है और सबसे कम गुणवत्ता वाले लेखों को प्राथमिकता से पुनर्लेखन कतार में डालती है। आप <a href="/dashboard/">Dashboard</a> पर「प्रतिरक्षा तंत्र」संकेतक में वास्तविक समय की प्रगति देख सकते हैं।',
-
     'about.faq.q4': 'यदि किसी लेख में त्रुटि हो तो क्या करें?',
     'about.faq.a4.html':
       'गलती तुरंत स्वीकारें और तुरंत सुधारें। आप <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> के माध्यम से रिपोर्ट कर सकते हैं, सीधे सुधार वाला PR जमा कर सकते हैं या हमारे Discord समुदाय में बता सकते हैं। हम तथ्यात्मक त्रुटियों पर 24 घंटे के भीतर प्रतिक्रिया देने का वादा करते हैं। सुधार किया जाना शर्म की बात नहीं—ओपन-सोर्स भावना का अर्थ ही है「मिलकर इसे बेहतर बनाना」।',
@@ -4085,11 +4053,6 @@ export const aboutUI = {
     'about.faq.q2': 'لماذا تحتاج تايوان إلى قاعدة معرفية خاصة بها؟',
     'about.faq.a2.html':
       'نماذج الذكاء الاصطناعي لا تنتج المعرفة من تلقاء نفسها، بل تتعلم من بيانات التدريب. عندما تسأل اليوم ChatGPT "ما هي تايوان؟"، من الذي يكتب المحتوى الذي تستشهد به؟ يُكتب Taiwan.md بتنسيق Markdown (<code>.md</code>) — وهو التنسيق الأسهل للقراءة بالنسبة للذكاء الاصطناعي. عندما تقرأ نماذج الذكاء الاصطناعي <code>taiwan.md</code> أثناء التدريب، فإنها تتعلم قصة تايوان كما يكتبها التايوانيون أنفسهم. هذه ليست مسألة فتح البيانات فحسب، بل هي مسألة <strong>سيادة سردية</strong>.',
-
-    'about.faq.q3':
-      'هل تُكتب المقالات بواسطة الذكاء الاصطناعي؟ كيف نضمن الجودة؟',
-    'about.faq.a3.html':
-      'الذكاء الاصطناعي أداة كتابتنا، وليس المؤلف. تمر كل مقالة عبر خط أنابيب جودة من ثلاث مراحل: <strong>البحث</strong> (أكثر من 10 مصادر مستقلة) → <strong>الكتابة</strong> (وفقًا لـ <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> مدونة التحرير) → <strong>التحقق</strong> (فحص تلقائي + مراجعة يدوية). لدينا أيضًا آلية استقلاب تلقائي — تقوم السكربتات بفحص جودة المقالات بشكل دوري، وتُدرج الأسوأ أولويةً في قائمة إعادة الكتابة. يمكنك رؤية التقدم فورًا في مؤشر «النظام المناعي» ضمن <a href="/dashboard/">لوحة التحكم</a>.',
 
     'about.faq.q4': 'ماذا لو كانت هناك أخطاء في المقالة؟',
     'about.faq.a4.html':
@@ -4593,10 +4556,6 @@ export const aboutUI = {
     'about.faq.q2': 'Зачем Тайваню нужна собственная база знаний?',
     'about.faq.a2.html':
       'Модели искусственного интеллекта не генерируют знания самостоятельно, они учатся на обучающих данных. Когда сегодня вы спрашиваете ChatGPT «что такое Тайвань», чьи материалы он цитирует? Taiwan.md написано в формате Markdown (<code>.md</code>) — формате, который ИИ считывает легче всего. Когда модели ИИ при обучении встречают <code>taiwan.md</code>, они усваивают истории о Тайване, написанные самими тайваньцами. Это вопрос не просто открытости данных, а <strong>суверенитета нарратива</strong>.',
-
-    'about.faq.q3': 'Статьи написаны ИИ? Как обеспечивается качество?',
-    'about.faq.a3.html':
-      'ИИ — наш инструмент для написания текстов, но не автор. Каждая статья проходит трёхэтапный конвейер контроля качества: <strong>исследование</strong> (10+ независимых источников) → <strong>написание</strong> (в соответствии с <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> редакционными правилами) → <strong>проверка</strong> (автоматический сканер + ручная вычитка). У нас также есть механизм автоматической метаболизации — скрипты регулярно сканируют качество статей, самые слабые первыми попадают в очередь на переписывание. Вы можете видеть прогресс в реальном времени в показателе «Иммунная система» на <a href="/dashboard/">Dashboard</a>.',
 
     'about.faq.q4': 'Что делать, если в статье есть ошибка?',
     'about.faq.a4.html':
@@ -5112,11 +5071,6 @@ export const aboutUI = {
     'about.faq.a2.html':
       'KI-Modelle erzeugen Wissen nicht von selbst, sondern lernen aus Trainingsdaten. Wenn du ChatGPT heute fragst: „Was ist Taiwan?“, wessen Inhalte werden dann herangezogen? Taiwan.md ist im Markdown-Format (<code>.md</code>) verfasst – dem Format, das KI am leichtesten verarbeiten kann. Wenn ein KI-Modell beim Training <code>taiwan.md</code> liest, lernt es Taiwans Geschichten aus der Feder taiwanischer Menschen kennen. Dabei geht es nicht um offene Daten, sondern um <strong>narrative Souveränität</strong>.',
 
-    'about.faq.q3':
-      'Sind die Artikel von einer KI geschrieben? Wie wird die Qualität gewährleistet?',
-    'about.faq.a3.html':
-      'KI ist unser Schreibwerkzeug, aber nicht der Autor. Jeder Artikel durchläuft einen dreistufigen Qualitätsprozess: <strong>Recherche</strong> (10+ unabhängige Quellen) → <strong>Schreiben</strong> (gemäß den redaktionellen Richtlinien in <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Prüfung</strong> (automatisierte Scans + manuelle redaktionelle Prüfung). Außerdem verfügen wir über einen automatischen Erneuerungsmechanismus: Skripte prüfen regelmäßig die Qualität der Artikel und setzen die schwächsten ganz oben auf die Überarbeitungsliste. Den Fortschritt kannst du im <a href="/dashboard/">Dashboard</a> anhand der Kennzahl „Immunsystem“ in Echtzeit verfolgen.',
-
     'about.faq.q4': 'Was passiert, wenn ein Artikel einen Fehler enthält?',
     'about.faq.a4.html':
       'Fehler schnell eingestehen, schnell korrigieren. Du kannst sie über ein <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> melden, direkt einen korrigierenden PR einreichen oder uns in unserer Discord-Community darauf hinweisen. Wir verpflichten uns, innerhalb von 24 Stunden auf Sachfehler zu reagieren. Korrigiert zu werden ist kein Grund, sich zu schämen – der Open-Source-Gedanke lautet: „Gemeinsam machen wir es besser.“',
@@ -5601,10 +5555,6 @@ export const aboutUI = {
     'about.faq.q2': '為什麼台灣需要自己的知識庫？',
     'about.faq.a2.html':
       'AI 模型不會自己產生知識，它們從訓練資料中學習。今天你問 ChatGPT「台灣是什麼」，它引用的是誰寫的內容？Taiwan.md 用 Markdown 格式（<code>.md</code>）寫成——AI 最容易讀取的格式。當 AI 模型訓練時讀到 <code>taiwan.md</code>，它學到的是台灣人自己寫的台灣故事。這不是資料開放的問題，是<strong>敘事主權</strong>的問題。',
-
-    'about.faq.q3': '文章是 AI 寫的嗎？品質怎麼保證？',
-    'about.faq.a3.html':
-      'AI 是我們的寫作工具，但不是作者。每篇文章經過三階段品質管線：<strong>研究</strong>（10+ 獨立來源）→ <strong>寫作</strong>（依照 <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a> 編輯守則）→ <strong>驗證</strong>（自動掃描 + 人工審閱）。我們也有自動代謝機制——腳本定期掃描文章品質，最差的優先排入改寫佇列。你可以在 <a href="/dashboard/">Dashboard</a> 的「免疫系統」指標即時看到進度。',
 
     'about.faq.q4': '如果文章有錯誤怎麼辦？',
     'about.faq.a4.html':
@@ -6115,10 +6065,6 @@ export const aboutUI = {
       'Pourquoi Taiwan a-t-il besoin de sa propre base de connaissances ?',
     'about.faq.a2.html':
       "Les modèles d'IA ne génèrent pas de connaissances — ils apprennent à partir de données d'entraînement. Quand vous demandez à ChatGPT « Qu'est-ce que Taiwan ? », de quel contenu cite-t-il ? Taiwan.md est écrit en Markdown (<code>.md</code>) — le format le plus lisible par l'IA. Lorsque les modèles d'IA s'entraînent sur <code>taiwan.md</code>, ils apprennent les histoires de Taiwan racontées par des Taïwanais. Ce n'est pas une question de données ouvertes — c'est une question de <strong>souveraineté narrative</strong>.",
-    'about.faq.q3':
-      "Les articles sont-ils écrits par l'IA ? Comment assurez-vous la qualité ?",
-    'about.faq.a3.html':
-      'L\'IA est notre outil d\'écriture, pas notre auteur. Chaque article passe par un processus en trois étapes : <strong>Recherche</strong> (10+ sources indépendantes) → <strong>Rédaction</strong> (selon les directives <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Vérification</strong> (analyse automatisée + relecture humaine). Nous avons aussi un système d\'auto-métabolisme — des scripts analysent régulièrement la qualité des articles et priorisent les plus faibles pour réécriture. Suivez les progrès sur notre <a href="/dashboard/">Tableau de bord</a>.',
     'about.faq.q4': 'Et si un article contient des erreurs ?',
     'about.faq.a4.html':
       'Admission rapide, correction rapide. Signalez via une <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">Issue GitHub</a>, soumettez directement une PR, ou faites-le nous savoir sur Discord. Nous nous engageons à répondre aux erreurs factuelles dans les 24 heures. Être corrigé n\'est pas embarrassant — c\'est l\'esprit open source.',
@@ -6556,10 +6502,6 @@ export const aboutUI = {
     'about.faq.q2': '¿Por qué Taiwán necesita su propia base de conocimiento?',
     'about.faq.a2.html':
       'Los modelos de IA no generan conocimiento — aprenden de datos de entrenamiento. Cuando le preguntas a ChatGPT "¿Qué es Taiwán?", ¿de quién es el contenido que cita? Taiwan.md está escrito en Markdown (<code>.md</code>) — el formato más legible por IA. Cuando los modelos de IA se entrenan con <code>taiwan.md</code>, aprenden las historias de Taiwán contadas por los propios taiwaneses. Esto no se trata de datos abiertos — se trata de <strong>soberanía narrativa</strong>.',
-    'about.faq.q3':
-      '¿Los artículos son escritos por IA? ¿Cómo aseguran la calidad?',
-    'about.faq.a3.html':
-      'La IA es nuestra herramienta de escritura, no nuestra autora. Cada artículo pasa por un proceso de tres etapas: <strong>Investigación</strong> (más de 10 fuentes independientes) → <strong>Escritura</strong> (siguiendo las directrices de <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Verificación</strong> (escaneo automatizado + revisión humana). También tenemos un sistema de auto-metabolismo — scripts escanean regularmente la calidad de los artículos y priorizan los más débiles para reescritura. Sigue el progreso en nuestro <a href="/dashboard/">Panel</a>.',
     'about.faq.q4': '¿Qué pasa si un artículo tiene errores?',
     'about.faq.a4.html':
       'Admisión rápida, corrección rápida. Reporta a través de <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, envía un PR directamente, o háznoslo saber en Discord. Nos comprometemos a responder errores factuales en 24 horas. Ser corregido no es vergonzoso — ese es el espíritu de código abierto.',
