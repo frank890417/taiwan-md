@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-06T08:28:29.835250+00:00'
+translatedAt: '2026-11-19T11:33:03.146828+00:00'
 ---
 
 # Хуан Вусянь и тайваньские общинные университеты: демократия за пределами бюллетеней — в классную комнату
@@ -111,11 +111,13 @@ translatedAt: '2026-11-06T08:28:29.835250+00:00'
 
 Изображение: Ephemeral Days, «Taipei Municipal Wenshan School of Special Education», Wikimedia Commons, CC BY-SA 4.0. Страница файла изображения: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Municipal_Wenshan_School_of_Special_Education.jpg).
 
-## Дополнительное чтение
+## Дополнительная литература
 
-[Общественная организация Национальная ассоциация по продвижению общинных университетов: база данных общинных университетов и социальная практика](https://www.napcu.org.tw/db_list.html)
+[Национальная ассоциация по продвижению общинных университетов: База данных и социальная практика общинных университетов](https://www.napcu.org.tw/db_list.html)
 
-[Министерство образования: пояснения, связанные с Законом о развитии общинных университетов](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[Министерство образования: Пояснения к Закону о развитии общинных университетов](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Ян Вэйчжэ: Профессор математики сначала открыл курсы тайваньского языка, а затем подтянулись и дискуссии](/ru/people/yang-wei-cher) — старый друг и коллега Хуан Усюна на математическом факультете Национального университета Тайваня; они вместе присоединились к Фонду памяти Чэнь Вэньчэна, а Ян Вэйчжэ также преподавал математику на тайваньском языке в Общинном университете города Килунг.
 
 ## Ссылки
 
