@@ -22,17 +22,17 @@ imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg'
 rationale:
-  why_this_hook: 'Bắt đầu từ ba tiếng đồng hồ đào tạo của Từ Đài Bình và ba trăm đại diện, trước hết hãy cho các vấn đề thể chế bước ra một gương mặt của người.'
-  whats_excluded: 'Không liệt kê các tính năng chức năng của từng sản phẩm AI sinh thành, cũng không xem ghi chép nghiên cứu Notion riêng tư làm bằng chứng công khai.'
-  where_it_hedges: 'Hai bảng câu hỏi Đài Loan và TALIS của OECD có nhãn hiệu là các mẫu khác nhau, chỉ được quan sát lồng ghép, không rút ra kết luận nhân quả trực tiếp.'
-  whos_pushing_back: 'Phản ứng lại với sự tưởng tượng «mua thêm nhiều công cụ có thể thúc đẩy giáo dục AI», cũng giữ lại các phương diện phản đối về khối lượng công việc của giáo viên, an toàn dữ liệu và tính chủ thể của học sinh.'
+  why_this_hook: '從徐臺屏的三小時研習與三百支代理人切入，讓制度問題先長出一張人的臉。'
+  whats_excluded: '不列舉各家生成式 AI 產品功能，也不把私人 Notion 研究筆記當成公開證據。'
+  where_it_hedges: '兩份台灣問卷與 OECD TALIS 標明不同樣本，僅作並置觀察，不作直接因果推論。'
+  whos_pushing_back: '回應「多買工具就能推動 AI 教育」的想像，也保留教師工作量、資安與學生主體性的反方。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣教師與AI教學.md'
-sourceCommitSha: 'd95fa9648'
-sourceContentHash: 'sha256:6a85130bd9bb91b0'
-sourceBodyHash: 'sha256:01e8abe40e264468'
-translatedAt: '2026-08-09T08:07:25+08:00'
-relatedDiary: []
-sporeLinks: []
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:de4034d0f1ced753'
+sourceBodyHash: 'sha256:e882a4d70eacae0a'
+translatedAt: '2026-11-19T18:25:17.348119+00:00'
 ---
 
 # AI đi vào lớp học: Ba trăm đại diện, tiếp nhận những giáo viên cô đơn sau đào tạo
@@ -163,12 +163,12 @@ Từ Đài Bình nói rằng, tại lúc đó của buổi đào tạo có cảm
 
 ---
 
-## Nguồn ảnh
+## Nguồn hình ảnh
 
-| Tệp tin                                              | Mô tả                                                                                  | Nguồn                                                                                                                                                                 | Giấy phép                                               |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| `taiwan-students-digital-learning-2019.webp`（hero） | Học sinh trường tiểu học Bảo Trung sử dụng nền tảng giáo dục, năm 2019                 | [Trường tiểu học Bảo Trung Đám mây mạng, qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                                               |
-| `taiwan-moe-ai-talent-ark-2026.webp`                 | Sơ đồ chính sách kế hoạch Con tàu Nhân tài AI của Bộ Giáo dục ba hướng chính, năm 2026 | [Kế hoạch Con tàu Nhân tài AI của Bộ Giáo dục](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                            | Sơ đồ chính sách chính thức được trích dẫn để chỉnh sửa |
+| Tệp tin                                              | Mô tả                                                                                              | Nguồn                                                                                                                                                 | Bản quyền                                          |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| `taiwan-students-digital-learning-2019.webp`（hero） | Học sinh Trường Trung học Cơ sở Bao Trung, huyện Vân Lâm sử dụng nền tảng giáo dục Junyi, năm 2019 | [Mạng đám mây Bao Trung, qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                                          |
+| `taiwan-moe-ai-talent-ark-2026.webp`                 | Sơ đồ chính sách về ba hướng đi lớn của Dự án Con tàu Nhân tài AI thuộc Bộ Giáo dục, năm 2026      | [Dự án Con tàu Nhân tài AI của Bộ Giáo dục](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                               | Trích dẫn chỉnh sửa từ sơ đồ chính sách chính thức |
 
 ## Tài liệu tham khảo
 
