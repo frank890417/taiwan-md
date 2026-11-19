@@ -19,13 +19,6 @@ import { categoryList } from '../utils/categoryConfig';
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
 // readFileSync = 8,400+ syscalls/build). Fallback 752 preserved.
 const _liveArticleCount = getLiveArticleCount(752);
-// 主題分類：從分類設定算（about 是站務分類，不算主題），跟首頁樣板算頁面描述、
-// 分類格標題用的是同一份清單。原本下面的預設描述與首頁的結構化資料各自手寫
-// 「12 大主題」，政治分類上線後頁面上是 13 個，數字對不起來。
-const HOMEPAGE_CATEGORY_HUBS = categoryList.filter(
-  (category) => category !== 'about',
-);
-const HOMEPAGE_CATEGORY_COUNT = HOMEPAGE_CATEGORY_HUBS.length;
 
 interface Props {
   title: string;
@@ -57,6 +50,14 @@ interface Props {
    */
   breadcrumb?: false | { name: string; url: string }[];
 }
+
+// 主題分類：從分類設定算（about 是站務分類，不算主題），跟首頁樣板算頁面描述、
+// 分類格標題用的是同一份清單。原本下面的預設描述與首頁的結構化資料各自手寫
+// 「12 大主題」，政治分類上線後頁面上是 13 個，數字對不起來。
+const HOMEPAGE_CATEGORY_HUBS = categoryList.filter(
+  (category) => category !== 'about',
+);
+const HOMEPAGE_CATEGORY_COUNT = HOMEPAGE_CATEGORY_HUBS.length;
 
 const { lang = 'zh-TW' } = Astro.props;
 const t = useTranslations(lang);
