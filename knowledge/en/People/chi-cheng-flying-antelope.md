@@ -1,20 +1,24 @@
 ---
-title: "Chi Cheng: Set 10 World Records, Still Running for Taiwan's Name 50 Years Later"
-description: "Born in Hsinchu on March 15, 1944, Chi Cheng became the most outstanding female track and field athlete in Taiwan's history, known as the 'Flying Antelope.' At the 1968 Mexico City Olympics, she won bronze in the 80-meter hurdles with a time of 10.51 seconds—Taiwan's first-ever Olympic track and field medal for a woman. Over her career, she set 10 world records. After retiring, she devoted herself to promoting road running. Now in her eighties, she remains active on the front lines of the campaign to compete under the name 'Taiwan.'"
+title: "Chi Cheng: Set 10 World Records and Still Running to Define Taiwan's Identity Fifty Years Later"
+description: 'Born in Hsinchu in 1944, Chi Cheng was known as the "Leaping Gazelle." At the 1968 Mexico City Olympics, she won bronze in the 80m hurdles with a time of 10.51 seconds, becoming the first Taiwanese woman to win an Olympic athletics medal and setting 10 world records during her career. After retiring, she promoted road running events in Taiwan and was appointed as a Presidential Advisor in 2024. Now in her eighties, she continues to advocate for Taiwan''s identity, campaigning for athletes to compete under the name "Taiwan" at the 2028 Los Angeles Olympics.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Sports', 'Athletics', 'Olympics', 'Hurdles', 'World Records']
 subcategory: '體育'
-tags: ['體育', '田徑', '奧運', '跨欄', '世界紀錄']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '0a6f7f6671'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-05-25T21:06:51Z'
+translatedAt: '2026-11-19T15:20:34.425760+00:00'
 ---
 
 # Chi Cheng: Set 10 World Records, Still Running for Taiwan's Name 50 Years Later

@@ -25,10 +25,10 @@ imageCredit: '行政院珍貴史料展示'
 imageLicense: '政府史料典藏（editorial commentary use）'
 imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:97768e7e71587490'
-sourceBodyHash: 'sha256:411e4d6f8779c88a'
-translatedAt: '2026-09-19T01:37:15+08:00'
+sourceCommitSha: 'f024e87e7a'
+sourceContentHash: 'sha256:a30286fdcb0b3c86'
+sourceBodyHash: 'sha256:d322b1b9c5e6743f'
+translatedAt: '2026-11-19T16:49:56.468819+00:00'
 ---
 
 # Economic Miracle: From Sweet Potato Flour to TSMC, the Turnaround Story Built by Twenty Million People
@@ -318,29 +318,30 @@ Taiwan's economic miracle experience remains instructive today:
 
 ## From Miracle to Transformation: Future Challenges
 
-In 2024, Taiwan no longer needs an "economic miracle." Per capita GDP exceeds US$30,000 — an undeniable developed country. But new challenges are emerging:
+In 2024, Taiwan no longer needs an "economic miracle." With a GDP per capita exceeding US$30,000, it is undeniably a developed nation. However, new challenges are emerging:
 
-### Industrial Transformation Pressure
+### Pressure for Industrial Transformation
 
-Manufacturing relocation, low service sector productivity, wage stagnation — Taiwan needs new growth engines. The semiconductor industry is powerful but cannot support the entire economy alone. Taiwan must cultivate more "hidden champion" enterprises.
+Manufacturing moving overseas, low productivity in the service sector, and stagnant wage growth—Taiwan's economy needs new engines of growth. While the semiconductor industry is powerful, it cannot support the entire economy alone. Taiwan needs to nurture more "hidden champion" enterprises.
 
-### Aging Population Challenge
+### The Challenge of an Aging Population
 
-Low birth rates and aging create labor shortages. The past "human wave tactics" development model must change — automation, AI, international talent recruitment are all unavoidable issues.
+Low birth rates and an aging population have left Taiwan facing labor shortages. The development model of the past, which relied on "human sea tactics," must change; automation, artificial intelligence, and the recruitment of international talent are all issues that must be addressed.
 
-### Sustainable Development Requirements
+### Requirements for Sustainable Development
 
-Climate change forces Taiwan to rethink its development model. How to transform high-energy industries? How to develop green energy? How to build a circular economy? These are the new era's economic issues.
+Climate change is forcing Taiwan to rethink its development model. How can high-energy-consuming industries transform? How should green energy be developed? How can a circular economy be established? These are the economic issues of a new era.
 
-Taiwan's economic miracle story isn't over. From land reform to TSMC was chapter one, about poverty to modest prosperity. The next chapters must tell of modest prosperity to happiness, from quantitative growth to qualitative upgrade, from economic miracle to social progress.
+The story of Taiwan's economic miracle is not over. From land reform to TSMC constitutes the first chapter, telling the tale of moving from poverty to moderate prosperity. The next chapters must tell the story of moving from moderate prosperity to well-being, from quantitative growth to qualitative improvement, and from an economic miracle to social progress.
 
-The authors of this story remain every single Taiwanese person.
+The authors of this story remain every person in Taiwan.
 
 **Further Reading**:
 
-- [Uniform Invoice: The 1951 Paper That Turned Every Citizen into a Tax Auditor](/en/economy/taiwan-uniform-invoice) — The uniform invoice was a key fiscal infrastructure concurrent with the economic miracle; its first year in 1951 saw business tax revenue surge 75%
-- [Ten Major Construction Projects: The NT$200 Billion Gamble on US$1 Billion in Reserves](/en/history/ten-major-construction-projects) — Complete context, controversies, and political narratives of that 1970s gamble
-- [Cross-Party Good Policies](/en/history/bipartisan-good-policy) — The most widespread claim that "land reform drove Taiwan's economic miracle" actually doesn't hold up
+- [Taiwan Industry Special Feature](/industry/) — Mapping industrial structures using official statistics: 70 years of exports and GDP, science parks, factories by city/county, the top ten companies by market value through the years, plus six perspectives on public debates.
+- [Invoices: The 1951 Paper That Turned Every Citizen into a Tax Auditor](/en/economy/taiwan-uniform-invoice) — The Uniform Invoice was a key fiscal infrastructure during the economic miracle; in its first year of implementation in 1951, business tax revenue surged by 75%.
+- [Ten Major Construction Projects: A NT$200 Billion Gamble on US$1 Billion in Foreign Exchange](/en/history/ten-major-construction-projects) — The full context, controversies, and political narratives of that massive gamble in the 1970s.
+- [Good Policies Across Party Lines](/en/history/bipartisan-good-policy) — Whether the widely circulated claim that land reform "driven Taiwan's economic miracle" actually holds up under scrutiny.
 
 ## Image Sources
 
