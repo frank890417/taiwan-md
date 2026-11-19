@@ -343,18 +343,10 @@
 
 /* ── 首頁右下角的浮動按鈕 ───────────────────────────────────────────
  * 首頁把 .md 按鈕收起來之後（見 home.template.astro），閱讀設定與回頂端兩顆
- * 原本是讓位給 .md 的，會在角落留下一格空位。這裡把它們推回角落。
- * 用 right 而不是邏輯屬性：整個浮動層（.floating-md、ReaderSettings、
- * FeedbackWidget）目前都是實體方向，要一起鏡像才不會在阿拉伯文版疊在一起
- * （check-rtl-safe-css.sh 的已知債第 2 項），這裡跟著它們的寫法。 */
-body.page-home .reader-settings-toggle,
-body.page-home .back-to-top {
-  right: 2rem;
-}
-
-@media (max-width: 640px) {
-  body.page-home .reader-settings-toggle,
-  body.page-home .back-to-top {
-    right: 1.2rem;
-  }
+ * 原本是讓位給 .md 的，會在角落留下一格空位。這裡把 .md 佔的格數設成 0，
+ * 兩顆就往角落補位（位置算法在 ReaderSettings.astro，讀 tokens.css 的 --fab-*）。
+ * 整個浮動層（.floating-md、ReaderSettings、FeedbackWidget）目前都是實體方向，
+ * 要一起鏡像才不會在阿拉伯文版疊在一起（check-rtl-safe-css.sh 的已知債第 2 項）。 */
+body.page-home {
+  --fab-md-slot: 0;
 }
