@@ -462,8 +462,11 @@ const entry = (key: string) => ({
     word-break: keep-all;
     overflow-wrap: anywhere;
   }
+  /* 圖的幾何鎖成左到右：時間軸本來就由左往右走；右到左頁面上，沒寫 text-anchor 的
+     終點標籤會跟著翻成往左長，壓在線上（阿拉伯文頁實測） */
   .r2-exhibit__panel :global(.tw-line-plot) {
     max-width: none;
+    direction: ltr;
   }
   .r2-exhibit__panel :global(.tw-mod-src) {
     margin: var(--space-4) 0 0;

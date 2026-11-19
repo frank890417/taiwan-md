@@ -353,6 +353,10 @@ const showLabel = lang !== 'zh-TW';
       inline-size: auto;
       block-size: 100%;
     }
+    /* 縮到這麼小，原本的線寬會細到看不見；手機上加粗（CSS 蓋過 SVG 屬性） */
+    .ab-pro__ridge :global(.ab-pro__ridge-svg path) {
+      stroke-width: 10;
+    }
     .ab-pro__now {
       margin-block-start: var(--space-5);
       gap: var(--space-5);
