@@ -1,7 +1,9 @@
 /**
- * The four exhibition halls: English prose (final copy).
+ * The four exhibition halls: English prose.
  *
- * ⚠️ Do not edit a word. Moved verbatim from HomeEnHalls.astro on 2026-11-19.
+ * 2026-11-19: retranslated from the revised zh-TW.ts (the Chinese was polished
+ * paragraph by paragraph with 哲宇's approval; unsupported or outdated claims
+ * were dropped). Facts, numbers and years must match the Chinese version.
  * Until a language has its own file in this folder, its hall pages and its
  * home page show this English version (see ../index.ts).
  *
@@ -18,15 +20,15 @@ const halls: HallProse[] = [
     paragraphs: [
       {
         category: 'geography',
-        text: "Just 36,000 square kilometers, yet the Philippine Sea Plate pushes into the Eurasian Plate at 8 cm a year, making Taiwan one of the most mountainous islands on Earth. [[🗺️ The geography here]] isn't a postcard — it's an island still growing taller. The Tropic of Cancer crosses Chiayi; on the same day you can drive from Kenting's tropical beach to Hehuan Mountain's frost.",
+        text: 'Taiwan covers only about 36,000 square kilometers, yet it climbs from sea level to 3,952 meters. Its highest peak, Yushan, is Tongku Saveq to the Bunun and Patungkuonʉ to the Tsou, the shining mountain. The Philippine Sea Plate pushes into the Eurasian Plate at about 8 cm a year, heaving up more than two hundred peaks above 3,000 meters. [[🗺️ The geography here]] is still growing taller. The Tropic of Cancer crosses Chiayi, and on the same day you can drive from a tropical beach in Kenting to frost on Hehuan Mountain.',
       },
       {
         category: 'nature',
-        text: "On an island smaller than the Netherlands, over 60,000 species crowd together — 2.5% of global biodiversity. The Formosan landlocked salmon has survived 15,000 years in Dajia Creek; the Forestry and Nature Conservation Agency estimates about 1,200 Formosan black bears remain (early 2026). [[🌿 Taiwan's nature]] vertically compresses every ecosystem from the equator to the subarctic — coral reefs to cloud forests in 3,000 meters. A paradise for ecologists, a frontline for development pressure.",
+        text: "Taiwan's species list has passed 60,000. In 1995 only a couple of hundred Formosan landlocked salmon were left; after dams were removed and the fish restored, recent counts have held above 15,000. The Forestry and Nature Conservation Agency put the Formosan black bear population at about 1,200 in early 2026. [[🌿 Taiwan's nature]] runs from coral reefs on the seabed up through vegetation zones from the tropical to the subarctic. At the headwaters of the Daan River stands a Taiwania 84.1 meters tall, and it escaped the great logging precisely because it grew where people could not reach.",
       },
       {
         category: 'lifestyle',
-        text: 'Over 14,000 convenience stores — roughly one for every 1,700 people. Pay bills, pick up packages, buy train tickets, photocopy your thesis, all at the same counter. [[🏠 Taiwanese life]] is wrapped in hyper-compressed infrastructure — but step into an alley after work, and grandma will still ask, "Have you eaten yet?"',
+        text: 'More than 14,000 convenience stores, roughly one for every 1,700 people. Pay your utility bills, pick up a package, buy a high-speed rail ticket, photocopy your thesis, all at the same counter. [[🏠 Taiwanese life]] also keeps to fixed moments: at dusk, "Für Elise" drifts into the alley and the whole street comes out carrying neatly sorted trash. Step into a lane, and grandma will still ask, "Have you eaten yet?"',
       },
     ],
   },
@@ -36,15 +38,15 @@ const halls: HallProse[] = [
     paragraphs: [
       {
         category: 'history',
-        text: "In 1624, the Dutch built Fort Zeelandia in Tainan. Eight regimes followed in four centuries — one every fifty years on average — each bringing new languages, laws, and time zones. [[📜 Taiwan's history]]'s most astonishing chapter came in 1996: 10.88 million people walked into polling stations and cast the first direct presidential vote in Chinese-speaking history. No bloodshed, no coup. An island under authoritarian rule for 38 years quietly turned itself into a democracy.",
+        text: 'In 1624, the Dutch began building Fort Zeelandia at Tayouan, in today\'s Tainan. Over the next four centuries the Dutch, Spanish, Ming-Zheng, Qing, Japanese and Republic of China governments came and went, each bringing new languages and laws. [[📜 Taiwan\'s history]] can also be read with a different subject. In 1990, Tsao Yung-ho proposed "Taiwan Island History," shifting the gaze from the regimes that came and went to the people who stayed. In 1996, 10.88 million people walked into polling stations and directly elected their own president for the first time, nine years after martial law was lifted.',
       },
       {
         category: 'culture',
-        text: "Seventeen indigenous peoples have lived here for 6,000 years. Hoklo brought Mazu, Hakka brought Yimin Ye, mainlanders brought Shandong mantou from military villages, Southeast Asian immigrants brought Eid al-Fitr. [[🎭 Taiwan's culture]] is not a melting pot — nobody got melted. The Dajia Mazu pilgrimage draws a million walkers over nine days; the Tsou Mayasvi war ritual is held in Alishan in spring. Both are Taiwan, and they don't contradict.",
+        text: "Taiwan has 17 legally recognized Indigenous peoples, the newest being the Siraya, recognized in 2026. Hoklo settlers brought Mazu, Hakka settlers brought the Yimin deities, mainlanders brought Shandong mantou to the military villages, and new immigrants and migrant workers from Southeast Asia brought Eid al-Fitr. [[🎭 Taiwan's culture]] is layered one over another, and nobody got melted down. The Dajia Mazu pilgrimage lasts nine days and eight nights, with turnout estimated at anywhere from hundreds of thousands to over a million; the Tsou Mayasvi war ritual is held in Alishan in spring.",
       },
       {
         category: 'society',
-        text: "On May 17, 2019, the legislature voted to legalize same-sex marriage — making Taiwan the first in Asia. Six months earlier, 7.65 million people had just voted against it in a referendum. [[⚖️ Taiwan's society]]'s most fascinating quality is right here: the referendum said no, the legislature said yes, and society kept functioning. People finished arguing, then stood in line together for breakfast.",
+        text: "On May 17, 2019, the Legislative Yuan, following Judicial Yuan Interpretation No. 748, passed the same-sex marriage act on its third reading, making Taiwan the first place in Asia to legalize same-sex marriage. The previous November, 7.66 million people had just voted in a referendum to keep marriage in the Civil Code as between one man and one woman. A week later, on May 24, 526 couples went to household registration offices across the country, the first in Annan District, Tainan. [[⚖️ Taiwan's society]] moves forward through exactly this kind of tug-of-war: people finish arguing, then keep standing in line together for breakfast.",
       },
     ],
   },
@@ -54,15 +56,15 @@ const halls: HallProse[] = [
     paragraphs: [
       {
         category: 'people',
-        text: "Yan Chang-shou delivered mail at American Express at 23, became general manager five years later. Jeremy Lin sat on the bench for two years, then rewrote the NBA's Asian narrative in one week. Chen Shu-chu sold vegetables at Taitung market for 48 years and donated over NT$10 million. [[👥 Taiwan's people]] didn't walk out of textbooks — their stories are worth reading because every turning point could have not happened.",
+        text: "Yen Chang-shou finished high school, joined American Express at 23 as an errand boy, and at 28 became its general manager for Taiwan. Jeremy Lin was cut by two teams within 15 days, came off the bench in February 2012, and averaged 24.4 points over the next seven games. Chen Shu-chu took over her mother's vegetable stall at 13 and gave the money from it, bit by bit, to schools, orphanages and hospitals. [[👥 Taiwan's people]] often start from a position that looks like a dead end, and at every turning point, things could easily have gone the other way.",
       },
       {
         category: 'art',
-        text: "In 2009, Cai Guo-Qiang detonated nine gunpowder explosions at Taipei Fine Arts Museum. The year before, fire had gutted their Bali studio; this year Lin Hwai-min's Cloud Gate Dance Theatre rose from the ashes. [[🎨 Taiwan's art]] runs from temple Eight Generals face paint to the Venice Biennale, from Jiaozhi pottery to digital installations. The question Taiwan's creators ask most often isn't \"what is beauty\" — it's \"who are we.\"",
+        text: "In a Taiwanese movie theater in 1930, the people on the screen could not speak, but the benshi beside the screen could. Taiwanese benshi narrators improvised in Taiwanese over silent films, telling the plot and the times alike; some, like Lu Bing-ding, slipped political commentary into their narration in Chiayi and were stopped by the police on the spot. [[🎨 Taiwan's art]] keeps returning to one question: whose language to use, and where to speak of oneself. After the war Chen Chien-wu was forced to put Japanese down; only in 1958 did he publish his first Chinese-language poem, under the pen name Huan Fu, and in 1964 he and friends founded the Li Poetry Society. In 2008 Cloud Gate Dance Theatre's rehearsal studio in Bali burned down; the following year it signed for a new site in Tamsui, and in 2015 a new home opened there.",
       },
       {
         category: 'music',
-        text: "In 1933, Deng Yu-xian's \"Longing for Spring Wind\" appeared — ninety years later it's still a KTV regular. The Bunun's pasibutbut (eight-part polyphony) caught UNESCO's attention because Western music theory can't explain it. [[🎵 Taiwan's sound]] runs from tribal chants to Mayday filling an arena with 100,000 voices. Music on this island isn't just entertainment — it's how each generation recognizes itself.",
+        text: "In 1933, Teng Yu-hsien's \"Longing for the Spring Breeze\" appeared, singing a young woman's heart in Taiwanese. In 1943, Takanori Kurosawa recorded the Bunun Pasibutbut at Kanding village in Taitung; in 1952 the recording was sent to the International Folk Music Council (IFMC), and only then did Western scholars take notice. [[🎵 Taiwan's sound]] runs from old tribal songs, the 898 songs banned under martial law, and campus folk songs, all the way to Mandopop and the Golden Melody Awards. Sangpuy singing in Puyuma, ABAO in Paiwan and Lee Chu-hsin in Taiwanese have each won Album of the Year, an award open to every language.",
       },
     ],
   },
@@ -72,15 +74,15 @@ const halls: HallProse[] = [
     paragraphs: [
       {
         category: 'technology',
-        text: "90% of the world's advanced chips are made in Taiwan. A single TSMC fab costs US$20 billion; its cleanrooms are 10,000 times cleaner than operating theaters. [[💻 This tech island]] started from tin-roof workshops in the 1980s Hsinchu Science Park and became, forty years later, a supply-chain node that no phone, laptop, or car on Earth can bypass. The trade-off: TSMC alone uses about a tenth of Taiwan's electricity — and rising.",
+        text: "About 90% of the world's most advanced chips are made in Taiwan. In the winter of 1979, bulldozers turned over rice paddies at Jinshanmian in Hsinchu, and the next year Hsinchu Science Park was established. [[💻 This tech island]] started from those paddies. Four decades on, the Hsinchu, Southern and Central Taiwan science parks together posted NT$5.80 trillion in revenue in 2025, and many of the chips in phones, laptops and cars come out of them. The price: TSMC alone uses about a tenth of the island's electricity, and the share is still rising.",
       },
       {
         category: 'economy',
-        text: "In 1960, Taiwan's GDP per capita was US$154 — lower than the Democratic Republic of the Congo's. Sixty-odd years later it exceeds US$33,000, without oil, colonial dividends, or continental hinterland. [[📈 Taiwan's economy]] is the story of a resource-poor island turning itself into a global supply-chain hub. The method was singular: work harder and pivot faster than everyone else.",
+        text: "In 1960, Taiwan's GDP per capita was just over US$150, lower than that of the Democratic Republic of the Congo; in 2021 it passed US$30,000 for the first time. Along the way there was no oil and no great-power hinterland. [[📈 Taiwan's economy]] over those sixty years rested on one small or medium-sized business after another, and those who carried it were mostly bosses, factory women and machinists whose names never made the news.",
       },
       {
         category: 'food',
-        text: "A bowl of beef noodle soup: Sichuan red-braised base, Taiwanese soy sweetness, and a 1949 veteran's homesickness. Bubble tea left a Taichung tea house and landed on five continents. [[🍜 Taiwan's flavor]] is its immigration history — Hoklo oyster omelets, Hakka ginger intestines, indigenous millet wine, new immigrant fish sauce. Four centuries of homesickness, all simmering in the same night market.",
+        text: "A bowl of beef noodle soup holds a Sichuan red-braised base, the sweetness of Taiwanese soy sauce, and the homesickness of the veterans of 1949. Two tea houses, one in Taichung and one in Tainan, still each claim to be the first to drop tapioca pearls into milk tea, and now people on five continents are chewing those chewy pearls. [[🍜 Taiwan's flavor]] holds Hoklo oyster omelets, Hakka ginger-and-intestine, Indigenous millet wine and new immigrants' fish sauce. One folding table at a night market seats those who lived here first, and those who have come ashore over the past four centuries.",
       },
     ],
   },
