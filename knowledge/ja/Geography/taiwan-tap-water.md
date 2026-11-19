@@ -1,20 +1,22 @@
 ---
 title: '台湾の公営水道：水栓の背後にある百年のインフラと干ばつへの不安'
 description: '1885 年の台北には井戸を掘り、水を濾過・殺菌する試みが行われていました。2026 年の私たちも今なお水栓を背景音と思っています。日本統治時代の水道、1974 年に設立された台水（台湾自来水公司）、そして干ばつ、漏水、原水汚染──この記事は、水栓を開けた時に水が出てくるまで、どれだけの公共工事が必要かを追究します。'
-category: 'Geography'
-subcategory: '水文與水資源'
-tags: ['公営水道', '水資源', '公共工事', '干ばつ', '飲料水']
-author: 'Taiwan.md Contributors'
 date: 2026-08-17
-readingTime: 8
+category: 'Geography'
+tags: ['公営水道', '水資源', '公共工事', '干ばつ', '飲料水']
+subcategory: '水文與水資源'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-18T22:35:03+08:00'
+translatedAt: '2026-11-19T10:18:56.939755+00:00'
 ---
 
 > **30 秒概覽：** 1885 年から 1890 年まで、台北では井戸を掘り、水を濾過・殺菌する公共給水の試みがすでに行われていました。1907 年の新店溪水源地事業により、現代的な公営水道が都市に導入されました。戦後、全台の供水普及率は約 10% から 2013 年の 93.1% へと上昇しましたが、水が「自然に出てくる」ものになったわけではありません。今日の水栓の背後には、取水口、浄水場、数万キロの配管、地域間の調整、そして干ばつのたびに選択がつながっています。
@@ -124,24 +126,24 @@ translatedAt: '2026-09-18T22:35:03+08:00'
 
 ## 参考文献
 
-[^1]: [台北自来水事業処：沿革](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — 台北市公式供水機関が1885 年の公共給水、1907 年の新店溪水源地、翡翠原水管、近年の供水レジリエンスまでを時系列で整理。
+[^1]: [台北市自来水事業処：歴史の沿革](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — 台北市の公式給水機関がまとめた、1885年の公共給水、1907年の新店渓水源地から、翡翠原水管および近年の給水レジリエンスに至るまでの時系列的な経緯。
 
-[^2]: [経済部水利署：我が国の公営水道発展概要（下）](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — 水利署電子報が戦後供水普及率の変化、省内水処理場の統合、台湾自来水公司設立の制度的背景を説明。
+[^2]: [経済部水利署：我が国の自来水発展概説（下）](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — 水利署の電子報による、戦後の給水普及率の変化、全省の水処理場の統合、および台湾自来水会社の設立に関する制度的背景の説明。
 
-[^3]: [台湾自来水公司：台湾自来水事業統計年報](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — 国営供水会社が公開する年次統計ポータル。水源、出水、供水人口、普及率、浄水設備、配管などの表を掲載。
+[^3]: [台湾自来水公司：台湾自来水事業統計年報](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — 国営給水会社が公開している年度統計ポータル。水源、取水量、給水人口、普及率、浄水設備、および配管などの統計表を掲載。
 
-[^4]: [台湾自来水公司：台水水資源管理](https://www.water.gov.tw/esg/Contents?nodeId=8633) — 台水の持続可能なページで141 カ所の供水システム、486 カ所の浄水場、浄水場の近代化、漏水改善、水質管理指標を説明。
+[^4]: [台湾自来水公司：台水の水資源管理](https://www.water.gov.tw/esg/Contents?nodeId=8633) — 台水のサステナビリティ・ページ。141の給水システム、486箇所の浄水場、浄水場の近代化、漏水改善、および水質管理指標について説明。
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — 英語の学術論文で台湾の再生水技術、産業事例、旱缺水の背景、2031 年の再生水供給目標を概観。
+[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — 英語の学術論文。台湾の再生水技術、産業界の事例、渇水・水不足の背景、および2031年の再生水供給目標を概説。
 
-[^6]: [Our Island: When the Great Drought Becomes Normal? The Unavoidable Water Issue](https://ourisland.pts.org.tw/content/9997) — 公視の深い報道で南台湾の旱期、減圧供水、再生水、地下潜流水、抗旱用井、漏水率の公共政策の脈絡を記録。
+[^6]: [私たちの島：百年に一度の大干ばつが常態化するのか？逃れられない水の難題](https://ourisland.pts.org.tw/content/9997) — 公視（PTS）の深掘り報道。南台湾の干ばつ状況、減圧給水、再生水、伏流水、抗旱井（耐乾用井戸）、および漏水率に関する公共政策の経緯を記録。
 
-[^7]: [台湾科技媒体センター：2021年台湾ダムの水不足可能原因と調整機構専家意見](https://smctw.tw/9462/) — 水利、環境、文化資源の専門家を招き、旱期と水不足を区別し、ダム、河川、地下水、配管維持、水料調整について討論。
+[^7]: [台湾テクノロジーメディアセンター：2021年台湾のダム不足の可能性のある原因と調整メカニズムに関する専門家の意見](https://smctw.tw/9462/) — 水利、環境、文化資源の専門家を集め、干ばつと水不足の違いを明確にし、ダム、河川、地下水、配管メンテナンス、および水価格の調整について議論。
 
-[^8]: [報導者：Data Reporter：10大リスク流域を明らかにするインタラクティブ地図](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — 取水口、保護区、環境処分データを調査し、原水汚染リスクを明らかにし、供水安全と上流の土地治理の対立を提示。
+[^8]: [報導者：Data Reporter：インタラクティブマップが明かす10の大リスク流域](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — 取水口、保護区、環境罰則のデータを用いて原水の汚染リスクを調査し、給水安全と上流部の土地管理との衝突を提示。
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — 台水の英語公式ページで、設立50周年の供水普及、配管拡張、災害対応、気候レジリエンス戦略を振り返る。
+[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — 台水の英語公式サイト。会社設立50年における給水の普及、配管の拡張、災害対応、および気候レジリエンス戦略を振り返る。
 
-[^10]: [水利署：我が国の公営水道発展概要（上）](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — 水利署が戦争による供水システムの損傷、戦後アメリカ援助のもとに77 カ所の農村公営水道を修復した再建段階を説明。
+[^10]: [水利署：我が国の自来水発展概説（上）](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — 水利署による説明。戦争が給水システムに与えた被害、および戦後にアメリカからの援助を受けて77箇所の農村自来水システムを修復した再建段階について。
 
-[^11]: [水利署：1952年1月－省府建設廳工程総隊設立と台湾自来水事業の発展](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — 水利署が1946 年から1974 年までの設備整備、農村供水補助、工程総隊、公共工事局、128 カ所の水処理場の統合を整理。
+[^11]: [水利署：1952年1月－省府建設庁工程総隊の設立と台湾自来水事業の発展](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — 水利署がまとめた、1946年から1974年にかけての設備の修繕、農村給水補助、工程総隊、公共工程局、および128箇所の水処理場の統合について。
