@@ -29,7 +29,9 @@ interface Props {
 const { readerSettings } = Astro.props;
 ---
 
-<!-- 行線圖示的瀏覽器端產生器：跟 src/icons/taiwan-icons.mjs 的 iconSvg 同一組屬性 -->
+{
+  /* 行線圖示的瀏覽器端產生器：跟 src/icons/taiwan-icons.mjs 的 iconSvg 同一組屬性 */
+}
 <script is:inline>
   window.twmdIcon = function (name, label) {
     return (
@@ -42,8 +44,10 @@ const { readerSettings } = Astro.props;
   };
 </script>
 
-<!-- shot-mode init: ?shot=1 啟動 OG/Spore 圖片生成模式
-     主要由 scripts/core/generate-og-images.mjs + generate-spore-image.mjs 用 -->
+{
+  /* shot-mode init: ?shot=1 啟動 OG/Spore 圖片生成模式
+     主要由 scripts/core/generate-og-images.mjs + generate-spore-image.mjs 用 */
+}
 <script is:inline>
   (function () {
     try {
@@ -93,7 +97,8 @@ const { readerSettings } = Astro.props;
   })();
 </script>
 
-<!-- Reader settings FOUC-safe early init.
+{
+  /* Reader settings FOUC-safe early init.
      讀 localStorage 設定在 first paint 前套用 data-theme / data-text-size，
      避免 toggling 閃。?shot=1 短路（OG image 永遠 light）。
      window.__TW_MD_READER_SETTINGS gate：只在 opt-in 的 surface 套 dark theme。
@@ -102,7 +107,8 @@ const { readerSettings } = Astro.props;
      2026-05-01 γ-late issue #615 / idlccp1984 reader options;
      v1.1 fix 2026-05-02 γ-late after dark-on-dashboard regression;
      v1.2 2026-05-04 zen-mendeleev: rename gate to `readerSettings` prop
-     so any surface can opt in (hub pages 加入). -->
+     so any surface can opt in (hub pages 加入). */
+}
 <script is:inline define:vars={{ readerSettings }}>
   window.__TW_MD_READER_SETTINGS = !!readerSettings;
 </script>

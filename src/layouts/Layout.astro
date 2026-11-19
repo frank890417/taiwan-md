@@ -220,9 +220,11 @@ const appBanner = smartBannerContent(
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <!-- Apple touch icons: 2026-04-11 fix. Cloudflare logs showed 130 req/day
+    {
+      /* Apple touch icons: 2026-04-11 fix. Cloudflare logs showed 130 req/day
          404 on /apple-touch-icon.png + /apple-touch-icon-precomposed.png.
-         iOS/macOS Safari auto-probes these paths. -->
+         iOS/macOS Safari auto-probes these paths. */
+    }
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link
       rel="apple-touch-icon-precomposed"
@@ -231,16 +233,16 @@ const appBanner = smartBannerContent(
     <meta name="apple-itunes-app" content={appBanner} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Taiwan Typography System -->
-    <!-- Google Fonts: Noto Sans/Serif TC for fallback -->
+    {/* Taiwan Typography System */}
+    {/* Google Fonts: Noto Sans/Serif TC for fallback */}
     <link
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
       rel="preload"
       as="style"
       onload="this.onload=null;this.rel='stylesheet'"
     />
-    <!-- justfont 蘭陽明體 已透過 justfont SDK 載入，無需額外 import -->
-    <!-- Fallback for critical text -->
+    {/* justfont 蘭陽明體 已透過 justfont SDK 載入，無需額外 import */}
+    {/* Fallback for critical text */}
     <noscript>
       <link
         href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
@@ -271,7 +273,8 @@ const appBanner = smartBannerContent(
       collectionTotal={collectionTotal}
       breadcrumb={breadcrumb}
     />
-    <!-- FOUC fix: hide <html> until fonts loaded (2026-05-11 picked up from
+    {
+      /* FOUC fix: hide <html> until fonts loaded (2026-05-11 picked up from
          tboydar-agent PR #1012 / fixes #401). Combined with shot-mode +
          reader-settings init below for complete pre-paint FOUC prevention.
 
@@ -283,7 +286,8 @@ const appBanner = smartBannerContent(
          下面那條 800ms 的 fallback 管的是 justfont 的 `jf-loading`（body
          opacity），跟這道閘門是兩回事，接不住它。
          現在三條出口：字型事件 / 逾時 / noscript。字型用 display=swap，
-         逾時揭開時本來就有 fallback 字可讀，字型到齊後自然換上。 -->
+         逾時揭開時本來就有 fallback 字可讀，字型到齊後自然換上。 */
+    }
     <style>
       html {
         visibility: hidden;
@@ -317,9 +321,11 @@ const appBanner = smartBannerContent(
         }
       })();
     </script>
-    <!-- Pre-paint inline scripts: shot-mode + reader-settings FOUC init.
+    {
+      /* Pre-paint inline scripts: shot-mode + reader-settings FOUC init.
          2026-05-03 sleepy-colden Tier 2.6: 抽到 src/components/HeadInlineScripts.astro
-         讓 Layout 主結構乾淨。原本 ~150 行 inline 邏輯都在這裡。 -->
+         讓 Layout 主結構乾淨。原本 ~150 行 inline 邏輯都在這裡。 */
+    }
     <HeadInlineScripts readerSettings={readerSettings} />
     <script
       is:inline
@@ -333,7 +339,7 @@ const appBanner = smartBannerContent(
       gtag('js', new Date());
       gtag('config', 'G-JGC5W00N7T');
     </script>
-    <!-- FOUC fallback (#401): if justfont takes > 800ms, reveal body anyway -->
+    {/* FOUC fallback (#401): if justfont takes > 800ms, reveal body anyway */}
     <script is:inline>
       (function () {
         setTimeout(function () {
@@ -345,7 +351,7 @@ const appBanner = smartBannerContent(
         }, 800);
       })();
     </script>
-    <!-- justfont Webfont (Production) -->
+    {/* justfont Webfont (Production) */}
     <script is:inline>
       var _jf = _jf || [];
       _jf.push(['p', '65854']);
@@ -572,9 +578,11 @@ const appBanner = smartBannerContent(
     </script>
   </head>
   <body class={jfClass}>
-    <!-- Skip-to-content link — first focusable element in <body> so keyboard /
+    {
+      /* Skip-to-content link — first focusable element in <body> so keyboard /
          screen-reader users can bypass the header nav. Visually hidden until
-         focused (.skip-link in global.css). 2026-07-06 design-audit §2.9-1. -->
+         focused (.skip-link in global.css). 2026-07-06 design-audit §2.9-1. */
+    }
     <a href="#main-content" class="skip-link">{skipLinkLabel}</a>
 
     <Header />
@@ -1222,10 +1230,12 @@ const appBanner = smartBannerContent(
       }
     </script>
 
-    <!-- Screenshot mode (?shot=1) watermark — BrandMark (light variant) 固定右下角。
+    {
+      /* Screenshot mode (?shot=1) watermark — BrandMark (light variant) 固定右下角。
          display: none 由 shot-mode.css 控制，只在 ?shot=1 時顯示。
          必須在 <main> 之外，避免被「hide everything inside main except hero section」
-         規則吞掉。2026-04-22 β 從 zh-TW [slug].astro 搬來 Layout，四語言共用。 -->
+         規則吞掉。2026-04-22 β 從 zh-TW [slug].astro 搬來 Layout，四語言共用。 */
+    }
     <div class="shot-watermark" aria-hidden="true">
       <BrandMark variant="light" size={1.8} />
     </div>
@@ -1236,7 +1246,7 @@ const appBanner = smartBannerContent(
 
     <Footer />
 
-    <!-- Floating .md button -->
+    {/* Floating .md button */}
     <a
       id="md-btn"
       class="floating-md"
@@ -1246,16 +1256,20 @@ const appBanner = smartBannerContent(
       .md
     </a>
 
-    <!-- Reader settings: theme + size + plain-text link
+    {
+      /* Reader settings: theme + size + plain-text link
          (Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late)
          v1.2 (2026-05-04 zen-mendeleev): gated by explicit `readerSettings`
          prop on Layout. Surfaces opt in by passing readerSettings={true}
-         (and audit dark CSS in dark-polish.css before doing so). -->
+         (and audit dark CSS in dark-polish.css before doing so). */
+    }
     {readerSettings && <ReaderSettings lang={lang} />}
 
-    <!-- Reader feedback widget: correction / bug / new-topic → backend → cron → issue.
+    {
+      /* Reader feedback widget: correction / bug / new-topic → backend → cron → issue.
          Self-gates on PUBLIC_FEEDBACK_MODE; safe to leave on (degrades to a static
-         GitHub-issue button when unconfigured). 2026-06-01 feedback-login-system. -->
+         GitHub-issue button when unconfigured). 2026-06-01 feedback-login-system. */
+    }
     {
       feedback && (
         <FeedbackWidget
@@ -1362,7 +1376,8 @@ const appBanner = smartBannerContent(
       }
     </script>
 
-    <!--
+    {
+      /*
       2026-04-27 全站 hash anchor 平滑捲動 + navbar offset
       ──────────────────────────────────────────────────
       改用純 CSS 解（見 global.css §scroll-padding-top）：
@@ -1374,19 +1389,24 @@ const appBanner = smartBannerContent(
       實情是 hidden tab 的 rAF 被 throttle 到 ~1Hz（凍結）造成的測試假象，
       回到 visible tab 後 native smooth scroll 完全正常。教訓 commit 在
       global.css 的 comment 裡，避免下次 contributor 重蹈覆轍。
-    -->
+    */
+    }
 
-    <!-- Site-wide GA4 engagement tracker (scroll_depth / section_view /
+    {
+      /* Site-wide GA4 engagement tracker (scroll_depth / section_view /
          content_click / time_milestone, all carrying page_type) — mounted once
          here so EVERY page is covered. Landmarks via data-ga-view, CTAs via
-         data-ga-section. 2026-06-14 cross-page rollout. -->
+         data-ga-section. 2026-06-14 cross-page rollout. */
+    }
     <EventTracker pageType={pageType} />
   </body>
 </html>
 
-<!--
+{
+  /*
   All site-wide base styles moved to src/styles/global.css @layer base
   as part of Tailwind refactor Phase 3 (2026-04-10). The layout no longer
   carries any scoped or global CSS — it is purely a structural template.
   See ADR-001 for the decision rationale and REFACTOR-LOG for drift notes.
--->
+*/
+}

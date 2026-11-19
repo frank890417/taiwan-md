@@ -1,0 +1,360 @@
+/**
+ * home-sections.css — 首頁第一期（2026-11-19）新區塊共用的版面語彙。
+ *
+ * 規格：reports/design-homepage-about-implementation-2026-11-19.md 第 1 節。
+ * 首頁與 /voices/ 共用。這裡只放「重複出現的東西」：區塊的垂直節奏、區塊標頭、
+ * 入口方格、縮圖的 SVG 筆觸。單一區塊自己的版面寫在元件裡的 Tailwind。
+ *
+ * 三條紀律：
+ *   1. 顏色只從 tokens.css 的變數來（--color-*、--cat-*、--status-tier-excellent），
+ *      中性色用 color-mix 從 --color-ink 調出來。不寫色碼、不加色相。深色模式靠
+ *      token 自己翻面，這裡只在翻面後對比不夠的地方補一條。
+ *   2. 方向一律用邏輯屬性（inline-start／inline-end），阿拉伯文版面不用另外修。
+ *   3. 動態只有 hover 的位移與淡入；prefers-reduced-motion 時全部關掉（檔尾）。
+ *
+ * 注意：class 名字不要含 `card`。dark-polish.css 有一條全站規則會把名字裡帶
+ * card 的元素在深色下改底色與框線，這裡的方格用 `tile`。
+ */
+
+.home-page,
+.voices-page {
+  /* 垂直節奏只有三級：大（區塊之間）、中（區塊內分組）、小（元素之間） */
+  --home-gap-lg: calc(var(--space-8) * 1.5);
+  --home-gap-md: var(--space-7);
+  --home-gap-sm: var(--space-4);
+  --home-gutter: clamp(1.25rem, 5vw, 5rem);
+
+  --home-rule: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  --home-rule-strong: color-mix(in srgb, var(--color-ink) 30%, transparent);
+  --home-faint: color-mix(in srgb, var(--color-ink) 5%, transparent);
+  /* 文字上的強調色：亮色用深綠，深色用站名 .md 的那個薄荷綠 */
+  --home-accent: var(--cat-geography);
+  /* 視覺化的重點色 */
+  --home-mark: var(--status-tier-excellent);
+}
+
+:root[data-theme='dark'] .home-page,
+:root[data-theme='dark'] .voices-page {
+  --home-rule: color-mix(in srgb, var(--color-ink) 20%, transparent);
+  --home-rule-strong: color-mix(in srgb, var(--color-ink) 42%, transparent);
+  --home-faint: color-mix(in srgb, var(--color-ink) 7%, transparent);
+  --home-accent: var(--status-tier-excellent);
+}
+
+@media (max-width: 768px) {
+  .home-page,
+  .voices-page {
+    --home-gap-lg: var(--space-8);
+    --home-gap-md: var(--space-6);
+  }
+}
+
+/* ── 區塊與容器 ───────────────────────────────────────────────────── */
+
+.home-section {
+  margin-block: var(--home-gap-lg);
+}
+
+.home-wrap {
+  margin-inline: auto;
+  max-width: var(--container-article);
+  padding-inline: var(--home-gutter);
+}
+
+.home-wrap--prose {
+  max-width: var(--container-prose);
+  padding-inline: clamp(1.25rem, 4vw, 2rem);
+}
+
+/* ── 區塊標頭：一條細線、一行小字、一個襯線大標、一句說明 ────────────── */
+
+.home-head {
+  border-block-start: 1px solid var(--home-rule);
+  padding-block-start: var(--home-gap-sm);
+  margin-block-end: var(--home-gap-md);
+}
+
+.home-eyebrow {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-interface);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: var(--color-ink-soft);
+}
+
+.home-title {
+  margin: 0;
+  font-family: var(--font-quote);
+  font-size: clamp(1.7rem, 3vw, 2.35rem);
+  font-weight: 300;
+  line-height: 1.25;
+  letter-spacing: 0;
+  color: var(--color-ink);
+  text-wrap: balance;
+}
+
+.home-lead {
+  margin: 0.9rem 0 0;
+  max-width: 38em;
+  text-wrap: pretty;
+  font-family: var(--font-reading);
+  font-size: 1.02rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--color-ink-soft);
+}
+
+.home-subtitle {
+  margin: 0 0 var(--home-gap-sm);
+  font-family: var(--font-interface);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--color-ink);
+}
+
+/* ── 文字連結（區塊尾端的「看全部」這類） ─────────────────────────── */
+
+.home-page a.home-link,
+.voices-page a.home-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  border-bottom: 0;
+  padding-bottom: 0;
+  font-family: var(--font-interface);
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--home-accent);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
+  text-underline-offset: 0.3em;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.home-page a.home-link:hover,
+.voices-page a.home-link:hover {
+  color: var(--home-accent);
+  text-decoration-color: currentColor;
+}
+
+/* ── 入口方格：整格可點，細框、白底、hover 時框線變深 ───────────────── */
+
+.home-page a.home-tile,
+.voices-page a.home-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--home-rule);
+  border-radius: var(--radius-chip);
+  background: var(--color-surface);
+  padding: 0;
+  color: var(--color-ink);
+  text-decoration: none;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.home-page a.home-tile:hover,
+.voices-page a.home-tile:hover {
+  border-color: var(--home-rule-strong);
+  color: var(--color-ink);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-soft);
+}
+
+.home-page :is(a, button, summary):focus-visible,
+.voices-page :is(a, button, summary):focus-visible {
+  outline: 2px solid var(--home-accent);
+  outline-offset: 3px;
+}
+
+/* ── 縮圖與小視覺化的筆觸 ─────────────────────────────────────────── */
+
+.home-viz {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.home-viz text {
+  font-family: var(--font-interface);
+  fill: var(--color-ink-soft);
+}
+
+.home-viz .viz-ink {
+  fill: var(--color-ink);
+}
+.home-viz .viz-soft {
+  fill: color-mix(in srgb, var(--color-ink) 22%, transparent);
+}
+.home-viz .viz-faint {
+  fill: var(--home-faint);
+}
+.home-viz .viz-mark {
+  fill: var(--home-mark);
+}
+.home-viz .viz-accent {
+  fill: var(--home-accent);
+}
+.home-viz .viz-line {
+  fill: none;
+  stroke: var(--home-rule-strong);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+.home-viz .viz-line-soft {
+  fill: none;
+  stroke: var(--home-rule);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+.home-viz .viz-outline {
+  fill: var(--home-faint);
+  stroke: var(--home-rule-strong);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+  stroke-linejoin: round;
+}
+.home-viz .viz-label-strong {
+  fill: var(--color-ink);
+  font-weight: 700;
+}
+.home-viz .viz-on-mark {
+  fill: var(--surface-footer);
+  font-weight: 700;
+}
+
+/* 展廳縮圖的外框：一張圖、一句看得見的說明、一個去處 */
+.hall-thumb {
+  margin: 0 0 var(--home-gap-md);
+}
+
+.home-page a.hall-thumb-link {
+  display: block;
+  border: 1px solid var(--home-rule);
+  border-radius: var(--radius-chip);
+  background: var(--color-surface);
+  padding: clamp(1rem, 2.4vw, 1.5rem);
+  color: var(--color-ink);
+  text-decoration: none;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.home-page a.hall-thumb-link:hover {
+  border-color: var(--home-rule-strong);
+  color: var(--color-ink);
+  box-shadow: var(--shadow-soft);
+}
+
+.hall-thumb-frame {
+  border: 1px solid var(--home-rule);
+  border-radius: var(--radius-chip);
+  background: var(--color-surface);
+  padding: clamp(1rem, 2.4vw, 1.5rem);
+}
+
+.hall-thumb-caption {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35rem 1.25rem;
+  margin: 0.9rem 0 0;
+  font-family: var(--font-interface);
+  font-size: 0.86rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--color-ink-soft);
+  text-align: start;
+}
+
+.hall-thumb-cta {
+  flex-shrink: 0;
+  font-weight: 600;
+  color: var(--home-accent);
+}
+
+/* ── 動態：尊重「減少動態」 ───────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  .home-page *,
+  .home-page *::before,
+  .home-page *::after,
+  .voices-page *,
+  .voices-page *::before,
+  .voices-page *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── 按鈕：一個實心（主要行動）、一個細框（次要） ───────────────────
+ * 名字帶 btn：global.css 的全站連結樣式（底線、顏色）對 [class*='btn'] 不套用。 */
+
+.home-page a.home-btn,
+.home-page button.home-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 48px;
+  border: 1px solid var(--color-ink);
+  border-radius: var(--radius-chip);
+  background: var(--color-ink);
+  padding: 0.7rem 1.5rem;
+  font-family: var(--font-interface);
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--color-bg);
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
+}
+
+.home-page a.home-btn:hover,
+.home-page button.home-btn:hover {
+  color: var(--color-bg);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-soft);
+}
+
+.home-page a.home-btn--ghost {
+  border-color: var(--home-rule-strong);
+  background: transparent;
+  color: var(--color-ink);
+}
+
+.home-page a.home-btn--ghost:hover {
+  border-color: var(--color-ink);
+  color: var(--color-ink);
+}
+
+/* ── 首頁右下角的浮動按鈕 ───────────────────────────────────────────
+ * 首頁把 .md 按鈕收起來之後（見 home.template.astro），閱讀設定與回頂端兩顆
+ * 原本是讓位給 .md 的，會在角落留下一格空位。這裡把它們推回角落。
+ * 用 right 而不是邏輯屬性：整個浮動層（.floating-md、ReaderSettings、
+ * FeedbackWidget）目前都是實體方向，要一起鏡像才不會在阿拉伯文版疊在一起
+ * （check-rtl-safe-css.sh 的已知債第 2 項），這裡跟著它們的寫法。 */
+body.page-home .reader-settings-toggle,
+body.page-home .back-to-top {
+  right: 2rem;
+}
+
+@media (max-width: 640px) {
+  body.page-home .reader-settings-toggle,
+  body.page-home .back-to-top {
+    right: 1.2rem;
+  }
+}

@@ -20,6 +20,14 @@
  *
  * See reports/homepage-evolution-2026-05-26.md §A1 + SemiontOrganismDiagram.astro
  * for the full version.
+ *
+ * 2026-11-19 首頁第一期：
+ *   - 首頁上講「它是生命體」的三處（這張預覽、「網站即時更新」的器官分數列、
+ *     價值卡底下的知識圖譜與原始資料連結）併成這一處。圖底下多一排連結：儀表板、
+ *     知識圖譜、原始資料。
+ *   - 文章數不再有寫死的備援值（原本資料檔缺席時會印出 752）。讀不到就不顯示
+ *     那一句帶數字的說明。
+ *   - 台灣輪廓改用 HomeDefs 的共用定義（同一條 path，少輸出一份）。
  */
 import { useTranslations, getLangFromUrl } from '../../i18n/utils';
 import { ENABLED_LANGUAGE_CODES } from '../../config/languages';
@@ -27,6 +35,7 @@ import { resolveStaticHref } from '../../utils/staticRoutes';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { emojiIcons } from '../../icons/taiwan-icons.mjs';
+import { getLiveNumbers } from './home-data';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -35,9 +44,9 @@ const t = useTranslations(lang);
 // resolveStaticHref：該語言有頁才加前綴，沒有就退回 zh 路徑，讀者到得了內容。
 // 跟 Header.astro 2026-06-10 deploy-heal 的 navHref 同一條契約。
 
-// ── Read live vitals + organs (prebuilt; falls back to safe defaults) ──
-let articleCount = 752;
-let langCount = ENABLED_LANGUAGE_CODES.length;
+// ── Read live vitals + organs (prebuilt). 文章數讀不到就是 null，不放備援值 ──
+const articleCount = getLiveNumbers().articles;
+const langCount = ENABLED_LANGUAGE_CODES.length;
 let organs: Array<{
   id: string;
   emoji: string;
@@ -45,12 +54,6 @@ let organs: Array<{
   name: string;
   score: number;
 }> = [];
-
-try {
-  const vitalsPath = resolve(process.cwd(), 'public/api/dashboard-vitals.json');
-  const v = JSON.parse(readFileSync(vitalsPath, 'utf-8'));
-  if (typeof v.totalArticles === 'number') articleCount = v.totalArticles;
-} catch {}
 
 try {
   const orgPath = resolve(process.cwd(), 'public/api/dashboard-organism.json');
@@ -67,15 +70,16 @@ try {
 } catch {}
 
 // Body prose with token interpolation
-const body = t('home.organism.body')
-  .replace('{articles}', String(articleCount))
-  .replace('{langs}', String(langCount));
+const body =
+  articleCount === null
+    ? ''
+    : t('home.organism.body')
+        .replace('{articles}', String(articleCount))
+        .replace('{langs}', String(langCount));
 
-// Taiwan island path — same SSOT as SemiontOrganismDiagram (REFLEXES #61).
-// Bbox in source: x 478-955, y 45-946. We render at scale=0.18 so the island
-// fits the ~140×170 center slot. The translate centers the bbox at (0,0).
-const TAIWAN_PATH =
-  'M930.2 135.9l-17.3 21.2-2.7 4.4-2.2 6.3-1.4 7.1-0.5 7.1 0.2 6.9 3.1 14.4-0.2 3.6-1.3 3.7 0.2 7.5 3.2 5.8 6 3.7 7.1 1.4 0 1.6-3-0.3-2.9 0.3-2.4 0.8-1.7 1.2 2.4 4.7 1.3 6-0.8 5.2-5.5 3.2-0.4 2.3 0.7 2.7 1.5 2.6 0.6 2.6-2.3 2.2-5.8 3.3-6.5 7.5-0.3 2.9 0.4 6.5-1 2.5-1.2 2.1-0.8 3-0.5 5.9-0.5 1.5-0.9 1.2-0.5 1.3 1 1.5 0.2 0.2 0.6 0.7 0.8 1.4 0.7 1.4 0.2 1-1.3 2.2-5.4 5.3-5.8 8-4.3 3.4-1.4 1.9 0.7 1.9-0.8 1.4-6.2 4.7-2.3 2.2-2.6 5.6-2.7 11.4-6.9 10-1.4 4.1 0.2 4.4 1.7 4.9 1.4 2 1.2 1 0.8 1.3 0 3-1 3.3-3.4 5.3-0.7 3.3-0.3 5.9-3 15.1-5.9 15.9-7.5 37.1-4.4 9.1-10.3 59.5-4.2 24.5-2.1 4.5-6.5 8.7-2.5 4.6-1.9 5.7-1.4 10.6 0.2 9.4-0.9 8.9-4.6 9.3-1.9 2-4.4 3.2-2 2-1 2.1-1.5 5.4-4.5 7.9-2.7 12.1-2 5.4-9.5 13.8-1.2 2.5-12.9 10.9-3 3.6-0.5 2.4 0.6 5.8-0.1 2.6-1.2 3-2 3.3-4.4 5.6-4.4 4.1-14.9 10-10 11-2.5 1.3-1.9 2.5-4.9 12.5-2.4 4.7-7.5 9.3-3 5.5-1.7 11.4-4.5 15.6-8.8 15.5-1.3 5.3-1.6 14.9 0.3 13.6 0.8 47.9-1.5 6.8-2.3 5.6-3.2 2.3-3.7 3.4 0.2 7.8 1.3 8.4-0.3 5.5-4.2-6.3-6.3-4.8-7.3-3.3-7.4-1.8-0.3 6.2-2.1 2.2-3.2-0.8-3.4-2.9-0.2-2.2 1.2-6.5-5.1-8.5-0.4-2.3 0-1.9 0.4-3 0-10 0.5-2.9 2.3-3.3 0.5-2.8-18.5-47.9-1.5-2.6-5.1-6.4-4.1-9.1-1.9-2.7-7.5-5.9-3-1.8-1-0.3-1.1-0.7-0.8-3.5-0.6-1.2-4.1-2.7-9.3-4.4-4.2-2.9-4.5-3.9-2-1.3-2.7-1.2-1.5 0.1-1.7 0.6-2 0.1-12.1-9.5-11.3-15.9 11.9 14.3-1.4-6.8-2-3.8-1.6-2.9-4.9-5.6-8.4-7.8-3.2-3.9-1.5-4.4 2-4.3 1.1-3.8-1.5-5.4-2.4-5.2-4.6-7.1-4.3-9.5-0.9-4.2 0.1-2.7 1.4-3.4 0.3-2.2-0.5-1.2-1.2-0.9-1.3-1.2-0.5-2.1-2.6-4.6-0.7-1.8-2-12.6-0.9-5.8-1.7-3.4-3.6-3.6 4.4-3.2 2.5-5.6-1-4.9-5.9-0.8-1.1 1.7-1 3.1-1.6 2.5-3.1-0.1-1.2-2.1 0.4-6.5-0.7-2.2-3.8-1.7-2.1 1.9-1.8 2.7-2.5 0.7-2.7-2.4-0.7-3.2 0.6-3.1 1.1-2.2 2.8-1.4 3.4-0.5 2.9-0.9 0.9-2.8-1.3-1.4-8.7-2.2 0-1.8 7.3-0.1-0.7-2.4-4-3.4-2.6-3 0.7-3.7 2.3-1.4 2.5-0.8 1.2-2.4-0.7-3.6-1.3-3 0.9-2.7 1.3-3.5 2.1-2.4-0.5-2.1 0.5-2.1 3.1-8.3 1.5-1.6 2.4-0.6-3.5-2.4 1.5-3.7 3.5-0.3 3.1-1.3 1.3 0.4-0.8-2.9-2.1 1.5-1.7-0.5-2.3-0.1 0-3 2.3-5.3 3.4-0.2 5 0-3.4-9.7-3.9-7.4 1.8-3.4 0-1.8-2.8-1.4 0.4-1.6 1.6-1.9 0.8-2.4 3.8-4.9-8 0.5-0.1-8.1 4.2-4.8-0.2-15.2 0.7-11.4 2.6-9.1 4-7.1 1.2-9.3 2.1-8.2 1.2-2.7 5.7-7.6 1-2.5 0.7-1.4 5.2-4 1.4-2.8 1.6-6.6 1.1-2.8 6.5-6.3 1.9-2.6 2.5-7.2 3.9-7.2 5.3-15 2.5-4.3 2.8-2.8 2.3-1.6 2.1-0.9 1.4-1.4 0.6-2.7 1.1-2.6 4.7-3.7 1.1-2.9 0.6-9.3 0.8-2.6 2.5-2.4 10.5-12.3 0.6-0.7 0.7-3 3.1-2.6 2-5.9 2.6-11.5 8.6-15 2.6-9.2 3.1-5.1 12.3-13.7 6.8-7.4 1.7-3.8 0.8-6.1 2.1-5.2 5.4-9.7 1.5-5.8 1.5-2.4 6.2-1.9 1.8-2 1.1-2.4 1.2-2.3 3.9-4.1 4.3-3.1 5.2-1.4 6.6 1.3-0.8-5.1 2.5-3.4 3.4-3.5 1.7-5.4 0.8-1.7 3.3-1.6 1.4-5 5.2-10.6 2-2.8 0.7-1.4-0.1-1.6-0.6-1.7-1-2.1 1.4-2.7 1.6-1.7 0.1-0.1 1.4-2.1 0.5-3.6 0.8-2.7 1.9-2.6 2.5-2 2.3-0.8-0.2-1.2 0.6-2.7 2.1-5.6 1.9-3.1 8.3-13.2 6.4-7.7 6.7-5.6 17.1-5.6 4-2.5 3.4-3.1 4.2-2.2 8.3-3 18.7-3.4 10.4-1.9 4.4-1.7 5.7-4.8 1.8-0.8 2.1-0.4 2.8-0.1 3.2 1.1 1.8 2.5 1.1 2.5 1.5 1.5 3.2-1.3-3.4-5.3-5.4-5.5-2.8-1.7 0.8-2.5 1.7-1.5 1.8-0.8 0.7-0.8 1.9-4.8 3-5.5 6.1-5.5 8.9-4.5 10.2-2.4 10.1 1.2 4.1 3.2 9.3 13.1 3.4 6.9 1-0.4 2.5-0.7 2.9-0.4 2 0.6-0.1 0.8-1 1.2-0.9 1.7 0.1 2 1 1.2 3.4 2.4 0.7 0.9 1.6 1.6 3.6 1.3 42.5 10.3 3 1.9-1.5 3.4-0.4 2.7 0.6 4.8 2.3 8.1 2.4 3.8 2 0.9 6.5-1 3.3 0.3 3.9 1.1 3.5 1.7 1.8 2.4-19.1 9.5-5.2 4.4z';
+// 台灣輪廓：共用定義 #home-tw-outline（HomeDefs.astro，REFLEXES #61 視覺主權）。
+// path 的外框是 x 478–955、y 45–946；下面的 translate 把外框中心移到 (0,0)，
+// 再縮到 0.16 倍放進中央約 140×170 的位置。
 
 // Position 8 organs in a circle around Taiwan center (cx 300, cy 200), r 130.
 // Start angle -90° (top), 45° apart, clockwise.
@@ -105,7 +109,7 @@ const flowTargets = [
 ---
 
 <section
-  class="mx-auto mb-16 mt-12 max-w-[820px] px-8 max-[480px]:px-4"
+  class="home-section mx-auto max-w-[820px] px-8 max-[480px]:px-4"
   aria-label="Taiwan.md organism preview"
 >
   <a
@@ -115,18 +119,22 @@ const flowTargets = [
     class="group block rounded-2xl border border-[#e2e8f0] bg-[linear-gradient(135deg,#0e2018_0%,#1a3c34_100%)] p-10 no-underline transition-all duration-300 hover:border-[#4fd1b0]/50 hover:shadow-[0_8px_24px_rgba(79,209,176,0.15)] max-[480px]:p-6"
   >
     <div class="mb-6 text-center">
-      <h3
+      <h2
         class="mb-3 text-[1.5rem] font-light leading-tight text-[#f4f0ea] max-[480px]:text-[1.2rem]"
         style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
       >
         {t('home.organism.heading')}
-      </h3>
-      <p
-        class="mx-auto max-w-[640px] text-[0.95rem] leading-[1.7] text-[#f4f0ea]/65 max-[480px]:text-[0.88rem]"
-        style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-      >
-        {body}
-      </p>
+      </h2>
+      {
+        body && (
+          <p
+            class="mx-auto max-w-[640px] text-[0.95rem] leading-[1.7] text-[#f4f0ea]/65 max-[480px]:text-[0.88rem]"
+            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+          >
+            {body}
+          </p>
+        )
+      }
     </div>
 
     {/* ─── Compact organism SVG ─── */}
@@ -193,13 +201,13 @@ const flowTargets = [
         <g
           transform={`translate(${cx},${cy}) scale(0.16) translate(-716,-495)`}
         >
-          <path
-            d={TAIWAN_PATH}
+          <use
+            href="#home-tw-outline"
             fill="#4fd1b0"
             fill-opacity="0.32"
             stroke="#4fd1b0"
-            stroke-width="3"
-            stroke-opacity="0.9"></path>
+            stroke-width="1"
+            stroke-opacity="0.9"></use>
         </g>
 
         {/* Taiwan.md label */}
@@ -311,4 +319,25 @@ const flowTargets = [
       </span>
     </p>
   </a>
+
+  {
+    /* 知識圖譜與原始資料：原本在「為什麼需要 Taiwan.md？」價值卡底下，
+      價值卡搬去關於頁之後，這兩顆連結留在首頁的這裡。追蹤名沿用 feature_cta。 */
+  }
+  <p class="mb-0 mt-[var(--home-gap-sm)] flex flex-wrap justify-center gap-x-8">
+    <a
+      href={resolveStaticHref(lang, '/graph')}
+      class="home-link"
+      data-ga-section="feature_cta"
+      data-ga-label="graph">{t('home.features.cta.graph')}</a
+    >
+    <a
+      href="https://github.com/frank890417/taiwan-md/tree/main/knowledge"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="home-link no-external-icon"
+      data-ga-section="feature_cta"
+      data-ga-label="ssot">{t('home.features.cta.ssot')}</a
+    >
+  </p>
 </section>

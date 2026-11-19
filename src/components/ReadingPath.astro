@@ -41,7 +41,8 @@ const {
 const isEn = lang === 'en';
 ---
 
-<!--
+{
+  /*
   Phase 4 leaf migration #6: ReadingPath.astro
   ────────────────────────────────────────────
   - Scoped <style> block removed entirely
@@ -60,7 +61,11 @@ const isEn = lang === 'en';
   The 3-column grid layout (marker / content / time) with centered
   alignment uses [grid-template-columns:...] arbitrary property because
   Tailwind's grid-cols-N scale doesn't map to rem columns.
--->
+
+  2026-11-19 首頁第一期：多一個 `after` slot。首頁把骰子（RandomDiscovery）放進來，
+  跟閱讀路徑併成同一區「不知道從哪開始？」。沒有傳 slot 的地方輸出不變。
+*/
+}
 <section
   class:list={[
     'relative mx-auto my-24 max-w-[900px] overflow-hidden rounded-[20px] border border-[rgba(34,197,94,0.1)] bg-[image:var(--scene-nature-bg)] px-8 py-12',
@@ -136,4 +141,11 @@ const isEn = lang === 'en';
       {continueLabel}
     </a>
   </div>
+  {
+    Astro.slots.has('after') && (
+      <div class="relative z-[2] mt-10 border-t border-[rgba(34,197,94,0.2)] pt-8">
+        <slot name="after" />
+      </div>
+    )
+  }
 </section>

@@ -1,0 +1,50 @@
+---
+/**
+ * HomeDefs — 首頁共用的 SVG 定義，整頁只輸出一次。
+ *
+ * 首頁有四處要畫台灣（「直接能用的」兩格、展廳壹的縮圖、生命體預覽）。輪廓那條
+ * path 有 5 KB，文章落點的點陣也有幾 KB；各處都內嵌一份會吃掉 HTML 預算，所以
+ * 在這裡定義一次，其他地方用 <use href="#…"> 引用。
+ *
+ *   #home-tw-outline  台灣本島輪廓（repo 既有的那一條，見 taiwan-outline.ts）
+ *   #home-tw-density  有地點的文章依格子加總後的點陣（見 home-data.ts）
+ *
+ * 兩者都用輪廓 path 原本的座標系（x 478–955、y 45–946），引用的地方自己加
+ * transform 縮放。顏色不寫在這裡：fill／stroke 由引用它的 <use> 決定。
+ */
+import { TAIWAN_PATH } from './taiwan-outline';
+import { getMapDensity } from './home-data';
+
+const density = getMapDensity();
+// 點的半徑：篇數開根號（面積正比於篇數），最小的點也要看得到
+const radius = (n: number, max: number) => 7 + 21 * Math.sqrt(n / max);
+---
+
+<svg
+  width="0"
+  height="0"
+  class="pointer-events-none absolute"
+  aria-hidden="true"
+  focusable="false"
+>
+  <defs>
+    <path
+      id="home-tw-outline"
+      d={TAIWAN_PATH}
+      vector-effect="non-scaling-stroke"
+      stroke-linejoin="round"></path>
+    {
+      density && (
+        <g id="home-tw-density">
+          {density.cells.map((c) => (
+            <circle
+              cx={Math.round(c.x)}
+              cy={Math.round(c.y)}
+              r={radius(c.n, density.maxCell).toFixed(1)}
+            />
+          ))}
+        </g>
+      )
+    }
+  </defs>
+</svg>

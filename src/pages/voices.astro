@@ -1,0 +1,235 @@
+---
+/**
+ * /voices/ — 讀者的聲音。2026-11-19 首頁第一期新增，只有中文版。
+ *
+ * 首頁原本把 104 則讀者留言做成三排跑馬燈（每則輸出兩份），佔了首頁 HTML 的
+ * 36%，卻只有 4.6% 的人滑得到。現在首頁只放精選六則，全文搬到這一頁：
+ *
+ *   1. 全部留言（src/data/feedbacks.ts），靜態排版，不跑馬燈。
+ *   2. 「讀者教我們的事」四條原文（src/data/reader-callouts.ts）。
+ *
+ * 留言是 2026 年 3 月開站時從 Threads 等公開管道收的中文留言，沒有其他語言版本，
+ * 所以這一頁只做中文（跟 /timeline、/soundscape 同一類：內容本身是中文）。
+ * 文字是讀者寫的，一個字不改。
+ */
+import Layout from '../layouts/Layout.astro';
+import '../styles/home-sections.css';
+import { feedbacks } from '../data/feedbacks';
+import {
+  readerCallouts,
+  readerCalloutsHeading,
+  readerCalloutsIntro,
+  readerCalloutsFixLabel,
+  readerCalloutsFootnote,
+} from '../data/reader-callouts';
+
+const title = '讀者的聲音';
+const description = `Taiwan.md 上線以來，讀者留下的 ${feedbacks.length} 則回饋全文，以及四則改變了我們做法的讀者指正。`;
+---
+
+<Layout
+  title={title}
+  description={description}
+  readerSettings
+  pageType="voices"
+>
+  <div class="voices-page">
+    <header class="voices-hero home-wrap">
+      <p class="home-eyebrow">
+        <a href="/" data-ga-section="voices" data-ga-label="home">Taiwan.md</a>
+      </p>
+      <h1 class="home-title voices-title">{title}</h1>
+      <p class="home-lead">
+        這裡是讀者留給 Taiwan.md 的 {feedbacks.length}
+        則回饋，照收到的樣子全部放上來：有鼓勵、有提問，也有批評。
+      </p>
+    </header>
+
+    <section
+      class="home-section"
+      aria-labelledby="voices-all-heading"
+      data-ga-view="voices_all"
+    >
+      <div class="home-wrap">
+        <header class="home-head">
+          <h2 id="voices-all-heading" class="home-title">來自社群的聲音</h2>
+          <p class="home-lead">真實使用者的回饋</p>
+        </header>
+        <ul class="voices-wall">
+          {
+            feedbacks.map((f) => (
+              <li class="voices-item">
+                <blockquote class="voices-text">{f.text}</blockquote>
+                <p class="voices-name">{f.name}</p>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </section>
+
+    <section
+      class="home-section"
+      aria-labelledby="voices-callouts-heading"
+      data-ga-view="voices_callouts"
+    >
+      <div class="home-wrap">
+        <header class="home-head">
+          <h2 id="voices-callouts-heading" class="home-title">
+            {readerCalloutsHeading}
+          </h2>
+          <p class="home-lead">{readerCalloutsIntro}</p>
+        </header>
+        <ul class="voices-callouts">
+          {
+            readerCallouts.map((c) => (
+              <li class="voices-callout">
+                <p class="voices-callout-source">{c.source}</p>
+                <blockquote class="voices-callout-catch">{c.catch}</blockquote>
+                <p class="voices-callout-fix">
+                  <span class="voices-callout-label">
+                    {readerCalloutsFixLabel}
+                  </span>
+                  {c.fix}
+                </p>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="voices-foot">
+          {readerCalloutsFootnote.before}
+          <a
+            href={readerCalloutsFootnote.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-ga-section="voices"
+            data-ga-label="reflexes"
+          >
+            {readerCalloutsFootnote.linkText}
+          </a>
+          {readerCalloutsFootnote.after}
+        </p>
+        <p class="voices-back">
+          <a
+            href="/"
+            class="home-link"
+            data-ga-section="voices"
+            data-ga-label="back_home">回首頁</a
+          >
+        </p>
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .voices-hero {
+    padding-block-start: var(--home-gap-lg);
+  }
+  .voices-title {
+    font-size: clamp(2.1rem, 5vw, 3.2rem);
+  }
+
+  /* 全部留言：多欄排列，長短不一的留言自然錯落；不動、不輪播 */
+  .voices-wall {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    columns: 3;
+    column-gap: 1.25rem;
+  }
+  .voices-item {
+    break-inside: avoid;
+    margin: 0 0 1.25rem;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: 1.2rem 1.3rem;
+  }
+  .voices-text {
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.8;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    overflow-wrap: anywhere;
+  }
+  .voices-name {
+    margin: 0.8rem 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--color-ink-soft);
+  }
+
+  .voices-callouts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .voices-callout {
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: 1.4rem 1.5rem;
+  }
+  .voices-callout-source {
+    margin: 0 0 0.6rem;
+    font-family: var(--font-interface);
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-soft);
+  }
+  .voices-callout-catch {
+    margin: 0 0 0.7rem;
+    font-family: var(--font-quote);
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.7;
+    color: var(--color-ink);
+  }
+  .voices-callout-fix {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.88rem;
+    line-height: 1.75;
+    color: var(--color-ink-soft);
+  }
+  .voices-callout-label {
+    font-weight: 700;
+    color: var(--home-accent);
+  }
+  .voices-foot {
+    margin: var(--home-gap-sm) 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.84rem;
+    color: var(--color-ink-soft);
+  }
+  .voices-back {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 2rem;
+    margin: var(--home-gap-md) 0 0;
+    border-block-start: 1px solid var(--home-rule);
+    padding-block-start: var(--home-gap-sm);
+  }
+  @media (max-width: 1000px) {
+    .voices-wall {
+      columns: 2;
+    }
+  }
+  @media (max-width: 640px) {
+    .voices-wall {
+      columns: 1;
+    }
+    .voices-callouts {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

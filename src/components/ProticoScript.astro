@@ -1,11 +1,62 @@
-<script is:inline>
+---
+/**
+ * ProticoScript — Protico 社群聊天泡泡（Howie Young 贊助）。
+ *
+ * 只在正式網域（taiwan.md）載入；本機與預覽網域不載。
+ *
+ * `lazy`（2026-11-19 首頁第一期新增，預設關閉，沒傳的頁面行為不變）：
+ * 首頁用。Protico 會再載三支各三百多 KB 的第三方程式，原本一進首頁就載，
+ * 首屏的互動與版面都被它拖到。開了 lazy 之後，下面兩件事哪個先發生就在那時載入：
+ *   1. 讀者滑過頁面一半（這時候才比較可能想聊）
+ *   2. 頁面載完後過 12 秒，而且瀏覽器閒著
+ * 從沒滑動、開了就走的讀者不會載到它。
+ */
+interface Props {
+  lazy?: boolean;
+}
+const { lazy = false } = Astro.props;
+---
+
+<script is:inline define:vars={{ lazy }}>
   (() => {
     const allowedHosts = new Set(['taiwan.md', 'www.taiwan.md']);
     if (!allowedHosts.has(window.location.hostname)) return;
 
-    const script = document.createElement('script');
-    script.src = 'https://main.protico.io/api/v1/taiwan.md/protico-frame.js';
-    script.async = true;
-    document.head.appendChild(script);
+    let loaded = false;
+    const load = () => {
+      if (loaded) return;
+      loaded = true;
+      const script = document.createElement('script');
+      script.src = 'https://main.protico.io/api/v1/taiwan.md/protico-frame.js';
+      script.async = true;
+      document.head.appendChild(script);
+    };
+
+    if (!lazy) {
+      load();
+      return;
+    }
+
+    const onScroll = () => {
+      const doc = document.documentElement;
+      const max = doc.scrollHeight - doc.clientHeight;
+      if (max > 0 && window.scrollY / max >= 0.5) {
+        window.removeEventListener('scroll', onScroll);
+        load();
+      }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+
+    const whenIdle = () => {
+      setTimeout(() => {
+        if ('requestIdleCallback' in window) {
+          window.requestIdleCallback(load, { timeout: 4000 });
+        } else {
+          load();
+        }
+      }, 12000);
+    };
+    if (document.readyState === 'complete') whenIdle();
+    else window.addEventListener('load', whenIdle, { once: true });
   })();
 </script>
