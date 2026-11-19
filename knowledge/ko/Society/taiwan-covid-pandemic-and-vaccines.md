@@ -22,11 +22,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-01T22:05:47.137789+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T11:54:32.804189+00:00'
 ---
 
 # 타이완 코로나19와 백신: 얻어낸 18개월과 놓친 그 한 방
@@ -383,16 +385,16 @@ _공시(PTS) 뉴스망의 2023년 4월 27일 보도: 중앙유행병이指揮中
 
 ## 이미지 출처
 
-이 글은 7장의 이미지(CC0 1장, CC 라이선스 6장)를 사용하였으며, 원본 서버의 트래픽 부하를 방지하기 위해 모두 `public/article-images/society/`에 캐시하여 저장하였다. 또한 공사(PTS) 뉴스 웹사이트 공식 채널의 영상 2개를 삽입하였으나, 두 영상 모두 자막을 추출하지 않았으므로 본문에서는 영상 내 발언을 인용하지 않는다.
+이 글에서는 7장의 이미지(1장 CC0, 6장 크리에이티브 커먼즈 라이선스)를 사용했으며, 모두 `public/article-images/society/`에 캐시되어 있어 원본 서버에 핫링크하지 않는다. 또한 공시신문망(公視新聞網) 공식 채널의 영상 2개를 임베드했는데, 두 영상 모두 자막을 추출하지 않았으므로 본문에서 영상 내 발언을 인용하지 않는다.
 
-- [타이베이 전시관의 COVID-19 대규모 접종소](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo: 玄史生, 2021-10-27, CC0 1.0 (hero)
-- [신주시 약국 밖에서 실명제 마스크를 사기 위해 줄을 선 모습](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo: Tbatb, 2020-03-30, CC BY-SA 4.0
-- [3단계 경계 통제 기간의 타이베이 MRT 둥먼역](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo: 稜光映像\_Brian, 2021-05-25, CC BY 3.0
-- [신베이시 중허구 지수이 신속항원검사소 앞 교차로 안내문](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
-- [차이잉원 총통의 국산 고단(高端) 백신 접종](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo: Makoto Lin／중화민국 총통부, 2021-08-23, CC BY 2.0
-- [건강보험에서 65세 이상 시민에게 무료로 제공하는 가정용 신속항원검사 키트](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
-- [매장 입구의 전자출입명부(실연제) QR 코드 안내문](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
-- 영상: 공사(PTS) 뉴스 웹사이트 〈교정회귀〉 20210522 보도, 공사(PTS) 뉴스 웹사이트 〈지휘센터 종료 기자회견〉 20230427 보도 (YouTube 공식 채널)
+- [타이베이 쟁옌관의 COVID-19 대규모 접종 센터](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo: 玄史生, 2021-10-27, CC0 1.0（hero）
+- [신주시 약국 밖에서 실명제 마스크 구매를 위해 줄 선 사람들](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo: Tbatb, 2020-03-30, CC BY-SA 4.0
+- [3단계 경보 기간 중 타이베이 지하철 동문역](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo: 稜光映像\_Brian, 2021-05-25, CC BY 3.0
+- [신베이시 중허구 지수이(積穗) 신속검사소 밖 도로변 안내판](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
+- [차이잉원 총통이 국산 고단(高端) 백신 접종](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo: Makoto Lin／중화민국 총통부, 2021-08-23, CC BY 2.0
+- [건강보험이 65세 이상 국민에게 무료 제공한 가정용 신속검사 키트](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
+- [가게 입구의 문자 실명제 QR 코드 안내판](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
+- 영상: 공시신문망 〈보정 회귀(校正回歸)〉 20210522 보도, 공시신문망 〈지휘센터 폐막 기자회견〉 20230427 보도 (YouTube 공식 채널)
 
 ## 참고 자료
 
