@@ -25,10 +25,10 @@ imageCredit: '行政院珍貴史料展示'
 imageLicense: '政府史料典藏（editorial commentary use）'
 imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:97768e7e71587490'
-sourceBodyHash: 'sha256:411e4d6f8779c88a'
-translatedAt: '2026-07-28T04:03:51+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:a30286fdcb0b3c86'
+sourceBodyHash: 'sha256:d322b1b9c5e6743f'
+translatedAt: '2026-11-19T06:15:28.375222+00:00'
 ---
 
 # El milagro económico: La historia de superación de veinte millones de personas, desde el tallo de boniato hasta TSMC
@@ -316,31 +316,32 @@ La experiencia del milagro económico de Taiwán sigue teniendo significado insp
 
 > **✦** «Lo más preciado del milagro económico de Taiwán no son los números de ingresos, sino que demuestra una cosa: si estás dispuesto a trabajar duro, un lugar pequeño también puede crear grandes logros. Pero el próximo milagro debe ser un milagro más sostenible, más justo y más cálido.»
 
-## De milagro a transformación: Los desafíos del futuro
+## Del milagro a la transformación: los desafíos del futuro
 
-En 2024, Taiwán ya no necesita un «milagro económico». El PIB per cápita supera los 30.000 dólares, siendo un país desarrollado sin lugar a dudas. Pero nuevos desafíos están surgiendo:
+El Taiwán de 2024 ya no necesita un «milagro económico». Con un PIB per cápita superior a los 30.000 dólares, es, sin lugar a dudas, un país desarrollado. Sin embargo, están surgiendo nuevos desafíos:
 
-### Presión de la transformación industrial
+### Presión por la transformación industrial
 
-La externalización de la manufactura, la baja productividad de los servicios y la estancación del crecimiento salarial: la economía de Taiwán necesita un nuevo motor de crecimiento. Aunque la industria de semiconductores es poderosa, no puede sostener toda la economía. Taiwán necesita cultivar más empresas «campeones ocultos».
+La deslocalización de la industria manufacturera, la baja productividad del sector servicios y el estancamiento del crecimiento salarial indican que la economía de Taiwán necesita nuevos motores de crecimiento. Aunque la industria de los semiconductores es poderosa, no puede sostener la economía en su totalidad. Taiwán necesita cultivar más empresas «campeonas ocultas».
 
-### Desafío del envejecimiento poblacional
+### El desafío del envejecimiento demográfico
 
-La baja natalidad y el envejecimiento de la población hacen que Taiwán enfrente la escasez de mano de obra. El modelo de desarrollo pasado basado en la «guerra de desgaste humano» debe cambiar; la automatización, la inteligencia artificial y la introducción de talento internacional son temas que deben enfrentarse.
+La baja tasa de natalidad y el envejecimiento de la población hacen que Taiwán se enfrente a un problema de escasez de mano de obra. El modelo de desarrollo basado en la «táctica del mar de personas» del pasado debe cambiar; la automatización, la inteligencia artificial y la atracción de talento internacional son temas que deben abordarse obligatoriamente.
 
-### Requisitos del desarrollo sostenible
+### Requisitos de desarrollo sostenible
 
-El cambio climático obliga a Taiwán a repensar su modelo de desarrollo. ¿Cómo transformar las industrias de alto consumo energético? ¿Cómo desarrollar la energía verde? ¿Cómo establecer una economía circular? Estos son los temas económicos de la nueva era.
+El cambio climático obliga a Taiwán a repensar su modelo de desarrollo. ¿Cómo pueden transformarse las industrias de alto consumo energético? ¿Cómo se debe desarrollar la energía verde? ¿Cómo se puede establecer una economía circular? Todos estos son temas económicos de la nueva era.
 
-La historia del milagro económico de Taiwán aún no ha terminado. Desde la reforma agraria hasta TSMC es el primer capítulo, que trata sobre pasar de la pobreza a la modestia. Los próximos capítulos tratarán sobre pasar de la modestia a la felicidad, del crecimiento cuantitativo a la mejora cualitativa, del milagro económico al progreso social.
+La historia del milagro económico de Taiwán aún no ha terminado. Desde la reforma agraria hasta TSMC, el primer capítulo narra el paso de la pobreza a la prosperidad moderada. Los siguientes capítulos deben tratar sobre el paso de la prosperidad a la felicidad, del crecimiento cuantitativo a la mejora cualitativa, y del milagro económico al progreso social.
 
-Los autores de esta historia siguen siendo cada taiwanés.
+El autor de esta historia sigue siendo cada uno de los taiwaneses.
 
-**Lectura complementaria:**
+**Lecturas adicionales**:
 
-- [Facturas: El papel de 1951 que convirtió a todo el pueblo en inspectores fiscales](/es/economy/taiwan-uniform-invoice) — El recibo unificado fue la infraestructura fiscal clave en el mismo período del milagro económico; en el primer año de su lanzamiento en 1951, los ingresos del impuesto a las ventas se dispararon un 75%
-- [Diez Grandes Construcciones: La gran apuesta de dos billones de dólares sobre diez mil millones de dólares en divisas](/es/history/ten-major-construction-projects) — El contexto completo, las controversias y la narrativa política de la gran apuesta de la década de 1970
-- [Buenas políticas transpartidistas](/es/history/bipartisan-good-policy) — Si la reforma agraria «impulsó el milagro económico de Taiwán» es la afirmación más difundida, en realidad no resiste el análisis
+- [Especial sobre la industria de Taiwán](/industry/) — Utiliza estadísticas oficiales para trazar la estructura industrial: setenta años de exportaciones y PIB, parques científicos, fábricas por ciudad y las diez empresas con mayor capitalización bursátil de cada año, junto con las diversas posturas en seis debates públicos.
+- [Facturas: aquel papel de 1951 que convirtió a todos los ciudadanos en inspectores fiscales](/es/economy/taiwan-uniform-invoice) — La factura unificada fue una infraestructura fiscal clave durante el milagro económico; en su primer año de implementación en 1951, los ingresos por impuestos sobre las ventas aumentaron un 75 %.
+- [Las diez grandes construcciones: la apuesta de 200.000 millones sobre mil millones de dólares en divisas](/es/history/ten-major-construction-projects) — El contexto completo, las controversias y la narrativa política de aquella gran apuesta de la década de 1970.
+- [Buenas políticas transpartidistas](/es/history/bipartisan-good-policy) — La idea más extendida de que la reforma agraria «impulsó el milagro económico de Taiwán» en realidad no se sostiene.
 
 ## Fuentes de las imágenes
 
@@ -369,4 +370,4 @@ Este artículo utiliza 4 imágenes de la base de datos de materiales oficiales /
 
 [^8]: [Oficina de Presupuesto, Contabilidad y Estadística del Yuan Ejecutivo: Base de datos de estadísticas de ingresos nacionales y crecimiento económico](https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sys=100&funid=dgmaind) — Base de datos oficial de estadísticas históricas de ingresos nacionales y crecimiento económico; los lectores pueden consultar los números exactos anuales por sí mismos; este artículo adopta expresiones de rango verificables en la base de datos oficial para las tasas de crecimiento y los números finales de ingresos.
 
-[^9]: Banco Mundial, [_The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Informe clásico de investigación comparativa del Banco Mundial sobre el modelo de desarrollo de los cuatro dragones de Asia del Este, que cubre el análisis de características comunes de la industrialización orientada a la exportación, las políticas industriales gubernamentales y la inversión en educación.
+[^9]: [_The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Banco Mundial
