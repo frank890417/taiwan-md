@@ -245,9 +245,10 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
 
 {
   /*
-  Back-to-top button (issue #1059 fix #4). Stacked ABOVE the Aa toggle
-  in the bottom-right floating cluster (same x as Aa, one button-row up),
-  so it never touches the bottom-left feedback FAB. Hidden until the reader
+  Back-to-top button (issue #1059 fix #4). Sits in the bottom-right floating
+  row, one slot left of the Aa toggle (2026-11-19: was stacked one row above
+  Aa, which collided with the Protico chat bubble), so it never touches the
+  bottom-left feedback FAB. Hidden until the reader
   has scrolled past ~800px, then fades in; click smooth-scrolls to top.
   Uses the same tokens (--color-ink / --color-accent) as .floating-md +
   .reader-settings-toggle, so it flips with the theme automatically.
@@ -524,12 +525,15 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
 </script>
 
 <style>
+  /* 右下角浮動鈕排成一列（2026-11-19）：由右往左 .md → Aa → 回到頂端，
+     尺寸／間距／離邊都讀 tokens.css 的 --fab-*。--fab-md-slot 是 .md 佔的格數，
+     預設 1；首頁收起 .md 時在 home-sections.css 設成 0，這兩顆就往角落補位。 */
   .reader-settings-toggle {
     position: fixed;
-    bottom: 2rem;
-    right: calc(2rem + 48px + 12px);
-    width: 48px;
-    height: 48px;
+    bottom: var(--fab-edge);
+    right: calc(var(--fab-edge) + var(--fab-md-slot, 1) * var(--fab-step));
+    width: var(--fab-size);
+    height: var(--fab-size);
     background: var(--color-ink);
     color: var(--color-accent);
     border: 0;
@@ -547,16 +551,18 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
     background: var(--color-accent);
     color: var(--color-bg);
   }
-  /* Back-to-top — same 48px chip + tokens as the Aa toggle, stacked one
-     button-row above it (same right offset, bottom bumped by a row). Hidden
-     by default; .is-visible fades it in once JS clears [hidden]. z-index 40
-     matches the sibling floating buttons. */
+  /* Back-to-top — same chip + tokens as the Aa toggle, one slot to its left
+     in the same row (2026-11-19：原本疊在 Aa 上方一列，那一列正好落在第三方
+     聊天泡泡的範圍裡). Hidden by default; .is-visible fades it in once JS
+     clears [hidden]. z-index 40 matches the sibling floating buttons. */
   .back-to-top {
     position: fixed;
-    bottom: calc(2rem + 48px + 12px);
-    right: calc(2rem + 48px + 12px);
-    width: 48px;
-    height: 48px;
+    bottom: var(--fab-edge);
+    right: calc(
+      var(--fab-edge) + (var(--fab-md-slot, 1) + 1) * var(--fab-step)
+    );
+    width: var(--fab-size);
+    height: var(--fab-size);
     background: var(--color-ink);
     color: var(--color-accent);
     border: 0;
@@ -595,9 +601,9 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   }
   .reader-settings-panel {
     position: fixed;
-    bottom: calc(2rem + 48px + 12px);
-    right: 2rem;
-    width: min(320px, calc(100vw - 4rem));
+    bottom: calc(var(--fab-edge) + var(--fab-step));
+    right: var(--fab-edge);
+    width: min(320px, calc(100vw - 2 * var(--fab-edge)));
     background: var(--color-surface);
     color: var(--color-ink);
     border: 1px solid var(--color-border);
@@ -712,19 +718,5 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
   :root[data-shot='1'] .back-to-top {
     display: none !important;
   }
-  @media (max-width: 640px) {
-    .reader-settings-toggle {
-      bottom: 1.2rem;
-      right: calc(1.2rem + 48px + 10px);
-    }
-    .reader-settings-panel {
-      bottom: calc(1.2rem + 48px + 10px);
-      right: 1.2rem;
-    }
-    /* Stack above the Aa toggle at the mobile offsets too. */
-    .back-to-top {
-      bottom: calc(1.2rem + 48px + 10px);
-      right: calc(1.2rem + 48px + 10px);
-    }
-  }
+  /* 手機的尺寸與間距由 tokens.css 的 --fab-* 在 640px 斷點切換，這裡不再另寫。 */
 </style>

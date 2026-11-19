@@ -197,9 +197,31 @@
   --cta-indigo: linear-gradient(135deg, #6366f1, #8b5cf6);
 
   /* --- Layout token --- */
-  --floating-cluster-reserve: 210px; /* keep in sync with the fixed bottom-right floating cluster in ReaderSettings.astro (back-to-top + Aa + .md chips); consumed by ArticleSidebar.astro max-h */
+  --floating-cluster-reserve: 210px; /* keep in sync with the fixed bottom-right floating cluster in ReaderSettings.astro (back-to-top + Aa + .md chips); consumed by ArticleSidebar.astro max-h. 2026-11-19 起浮動鈕排成一列（約 80px 高），210px 仍夠用，留著不縮 */
+
+  /* --- 右下角浮動鈕（2026-11-19）---
+   * 回到頂端、閱讀設定 Aa、.md 三顆排成一列貼在右下角，由右往左依序是
+   * .md → Aa → 回到頂端。尺寸、間距、離邊距離全站只在這裡定一次：
+   *   global.css（.floating-md）、ReaderSettings.astro（Aa／回頂端／面板）、
+   *   home-sections.css（首頁收起 .md）、ProticoScript.astro（第三方聊天泡泡
+   *   讓位：坐在這一列的正上方）都讀這組 token。 */
+  --fab-size: 48px;
+  --fab-gap: 12px;
+  --fab-edge: 2rem;
+  --fab-step: calc(var(--fab-size) + var(--fab-gap));
+  /* 這一列上緣再加一個間距：第三方浮動元件（Protico）的 bottom 從這裡起算 */
+  --fab-clear: calc(var(--fab-edge) + var(--fab-size) + var(--fab-gap));
 
   color-scheme: light;
+}
+
+/* 手機：觸控區維持 44×44 以上，離邊與間距收小 */
+@media (max-width: 640px) {
+  :root {
+    --fab-size: 44px;
+    --fab-gap: 10px;
+    --fab-edge: 1rem;
+  }
 }
 
 /* === Per-language CJK glyph correctness (#1306) ===
