@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-08-09T00:06:10.843746+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-18T23:35:32.175876+00:00'
 ---
 
 > **30-second overview:** In 2003, SARS killed 73 people in Taiwan, and the Hoping Hospital lockdown became a collective trauma in public health history. Taiwan subsequently rebuilt its entire epidemic response system: the Taiwan CDC was elevated in status, the Central Epidemic Command Center (CECC) mechanism was codified in law, and infection control procedures were comprehensively revised. When COVID-19 spread globally in 2020, Taiwan maintained near-zero community transmission for the first 18 months — hailed by the international community as "the Taiwan Model." In April 2026, Taiwan's first domestic human case of H7N7 avian influenza was confirmed — the epidemic response system was tested once again.
@@ -79,24 +81,26 @@ This is precisely SARS's legacy at work: a dedicated agency (CDC), legal authori
 | Insufficient equipment | Mask rationing built in 72 hours | 40,000-50,000 masks distributed to duck farmers |
 | Information opacity    | Daily press conferences          | Real-time genetic sequencing released           |
 
-## Healthcare: The Invisible Infrastructure of Epidemic Prevention
+## National Health Insurance: The Invisible Infrastructure of Epidemic Prevention
 
-Underpinning Taiwan's epidemic prevention system is the National Health Insurance (NHI), launched in 1995.
+At the foundation of Taiwan's epidemic prevention system is the [National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance/), established in 1995.
 
-23.4 million people share a single NHI database and a single NHI card. During the COVID-19 pandemic, this card became critical infrastructure: mask rationing relied on NHI cards for verification, travel history was linked via NHI cards, and vaccination records were stored on them. Without this universal database, the Taiwan model would not have been possible[^10].
+23.4 million people share a single NHI database and a single NHI card. During COVID-19, this card became essential infrastructure for epidemic prevention: the real-name mask rationing system relied on NHI cards for purchases, travel history tracking was linked via NHI cards, and vaccination records were stored within them. Without this universal database, the "Taiwan Model" would not have been possible[^10].
 
-> **✦** "SARS was the most painful lesson in Taiwan's public health history. But the most painful lesson produced the best students."
+> **✦** "SARS was the most painful lesson in Taiwan's public health history. But the most painful lessons produce the best students."
 
-Twenty-three years after the Peace Hospital was locked down, that building still stands on Zhonghua Road in Taipei. Some medical staff in the emergency room still remember what happened back then. Ho Sung-jung says he holds no resentment, but the scar "has not fully healed." Perhaps it doesn't need to. Perhaps the most important organ of an epidemic prevention system is the ability to remember the pain.
+Twenty-three years after Hoping Hospital was locked down, that building still stands on Zhonghua Road in Taipei. Some of the medical staff who walk into the emergency room still remember what happened back then. Ho Sung-jung says he holds no resentment, but that scar "has not completely healed." Perhaps it doesn't need to heal. Perhaps the most important organ of an epidemic prevention system is its ability to remember the pain.
 
 **Further Reading**:
 
-- [Taipei Smoking Rooms: The Breathing Glass Boxes in a Smoke-Free City](/en/society/taipei-smoking-room) — The latest chapter in the forty-year crusade against tobacco harm, with the battlefield shifting from indoors to outdoors
-- [Taiwan Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The foundational infrastructure of the prevention system: a health insurance database for 23.4 million people
-- [Audrey Tang](/en/people/audrey-tang) — The Digital Minister behind the Mask Map
-- [Taiwan Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — From the 921 Earthquake to SARS, how disasters drive medical evolution
-- [Taiwan's COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — This system, built after SARS, was fully tested between 2020 and 2023: the border blocked the virus for eighteen months, but vaccines and third doses for the elderly did not keep pace
-- [Regenerative Medicine Laws × 30 Years of mRNA](/en/society/taiwan-regenerative-medicine-laws) — A dual narrative of BNT procurement in 2021 and the legislation of cell therapy, offering an extended perspective on this article's COVID prevention coverage
+- [Taipei Smoking Rooms: A Breathing Glass Box in a Smoke-Free City](/en/society/taipei-smoking-room) — The latest chapter in the forty-year march against tobacco harm, as the battlefield shifts from indoors to outdoors.
+
+- [Taiwanese Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The underlying infrastructure of epidemic prevention: the NHI database for 23.4 million people.
+- [Audrey Tang](/en/people/audrey-tang) — The digital minister behind the mask map.
+- [Taiwan's Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — From the 921 Earthquake to SARS: how disasters drive medical evolution.
+- [Healthcare and Long-term Care Special Feature](/health/) — Systems, history, and finances of NHI and long-term care, including calculators for long-term care subsidies and NHI premiums.
+- [COVID-19 and Vaccines in Taiwan](/en/society/taiwan-covid-pandemic-and-vaccines) — This system, built in the wake of SARS, underwent a full stress test from 2020 to 2023: borders were held for eighteen months, but vaccines and third doses for the elderly fell behind.
+- [Regenerative Medicine Dual Laws × 30 Years of mRNA](/en/society/taiwan-regenerative-medicine-laws) — A dual narrative of the 2021 BNT procurement and cell therapy legislation; an extended perspective on COVID prevention.
 
 ## References
 

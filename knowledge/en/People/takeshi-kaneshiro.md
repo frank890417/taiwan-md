@@ -2,9 +2,7 @@
 title: 'Takeshi Kaneshiro: The Pan-Asian Screen Icon Who Mastered the Art of Disappearing'
 description: 'From a Taipei commercial actor at seventeen to Wong Kar-wai’s muse and Asia’s heartthrob, Takeshi Kaneshiro spent his career perfecting the art of disappearing.'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',
@@ -15,15 +13,19 @@ tags:
     'Onimusha',
     'The Crossing',
   ]
-readingTime: 15
+subcategory: '電影與戲劇'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-06-20T00:37:13+08:00'
+translatedAt: '2026-11-19T00:32:32.902425+00:00'
 ---
 
 > **Thirty-Second Overview:**

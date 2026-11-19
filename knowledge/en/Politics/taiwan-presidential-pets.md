@@ -2,9 +2,7 @@
 title: 'Pets of Taiwan’s Presidents: From Authoritarian Wolfdogs in the Official Residence to the Social Resonance of the “First Cat”'
 description: 'In 1951, a wolfdog entered the Shilin Official Residence as Chiang Kai-shek’s guard; seventy years later, Tsai Ing-wen moved into the residence with her rescued cat, Think Think. From military dogs symbolizing authoritarian vigilance to rescued dogs and cats representing social concern, the changing pets of Taiwan’s presidents have, almost unintentionally, sketched the island’s democratic trajectory from strongman politics toward pluralism and equality.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Politics'
-subcategory: '政治文化'
 tags:
   [
     'Presidential Residence',
@@ -12,15 +10,19 @@ tags:
     'Animal Protection',
     'Taiwanese Democracy',
   ]
-readingTime: 8
+subcategory: '政治文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-18T23:45:22.895538+00:00'
 ---
 
 > **30-second overview:** The pets of Taiwan’s presidents have been more than family members inside the official residence. They have often served as condensed images of political persona and social values. From the stern wolfdogs of the Chiang Kai-shek era, Lee Teng-hui’s pack of golden retrievers, Chen Shui-bian’s Taiwan dog Yong-ge, Ma Ying-jeou’s Ma Xiaojiu, Tsai Ing-wen’s cats and dogs, to Lai Ching-te’s rescued dog Luke, this list offers a side portrait of how “first pets” evolved from simple private preference into a political language for advancing animal protection and projecting everyday warmth.
@@ -77,22 +79,22 @@ Moreover, the image of presidential pets enjoying an exceptionally fortunate lif
 
 ## References
 
-[^1]: [Chiang Kai-shek’s Three Beloved Dogs Protected Their Master with Spiritual Loyalty and Were Cherished Enough to Be Named in His Diary](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (YouTube video record)
+[^1]: [Chiang Kai-shek's Three Beloved Dogs: Protective and Spiritual, Recorded in Diary, Deeply Cherished](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (YouTube video record)
 
-[^2]: [Looking Back at Lee Teng-hui: He Kept Dogs, Cats, and Even Sheep; A-hui’s Official Residence Was Like an Alternative Zoo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (records Lee Teng-hui importing golden retrievers, breeding more than thirty puppies, and having some trained as guide dogs)
+[^2]: [Looking Back at Lee Teng-hui: Dogs, Cats, and Sheep — Uncle Ah-hui's Official Residence Like an Unconventional Zoo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Weekly (records Lee Teng-hui introducing Golden Retrievers, breeding over 30, some trained as guide dogs)
 
-[^3]: [Political Celebrity Dogs Met Very Different Fates; Tsai Think Think Went from Stray Cat to Former President’s First Pet](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
+[^3]: [Political Star Dogs' Fates Differ Greatly; Tsai's Think Think Stray Cat Becomes Former President's First Pet](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [Ma Xiaojiu Wikipedia Entry](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Wikipedia entry)
+[^4]: [Ma Xiao-jiu Wikipedia Entry](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Wikipedia entry)
 
-[^5]: [Special Allowance Case from Taipei Mayoral Tenure: Ma Ying-jeou Receives Non-Prosecution Disposition](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (2017-03-20 Taipei District Prosecutors Office non-prosecution disposition; special allowance conduct had been decriminalized, and the previous case had already ended in a final acquittal)
+[^5]: [Special Expense Case During Tenure as Taipei Mayor: Ma Ying-jeou Not Prosecuted](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (2017-03-20 Taipei District Prosecutors Office non-prosecution; special expenses decriminalized, and previous case already acquitted)
 
-[^6]: [Showing the First Pets, Tsai Ing-wen: I Most Want to Play with Think Think and Ah Tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (YouTube video record)
+[^6]: [Showcasing First Pet Tsai Ing-wen: Most Wants to Play with Think Think and Ah Tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (YouTube video record)
 
-[^7]: [President: Applied to Adopt Retired Search-and-Rescue Dog in Accordance with Law; No Need for Political Distortion](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (records Tsai Ing-wen’s 2016 adoption of retired guide dogs Bella, Bunny, and Maru, as well as the adoption according to regulations of the search-and-rescue dog Lele after its age-based retirement)
+[^7]: [President: Adopted Retired Search and Rescue Dogs According to Law; No Need for Political Distortion](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (records Tsai Ing-wen adopting retired guide dogs Bella, Bunny, Maru in 2016, and search and rescue dog Lele adopted according to regulations upon retirement)
 
-[^8]: [Lai Ching-te’s New Animated Short Reveals the Story of Adopting the Stray Dog “Luke”](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
+[^8]: [Lai Ching-te's New Animation Reveals Story of Adopting Stray Dog 'Luke'](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [Beloved Dog Luke Dies; Lai Ching-te: I Will Continue to Care About Pets and Strays](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (2023-09-11, Lai Ching-te’s Facebook post: “Thank you, Luke, for so many years of companionship”)
+[^9]: [Beloved Dog Luke Passes Away; Lai Ching-de: Continue to Care for Fur Kids and Strays](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (2023-09-11, Lai Ching-de's Facebook: 'Thank you Luke for so many years of companionship')
 
-[^10]: [What If an Animal Trap Caught a Child, Ma Xiaojiu...](https://news.tvbs.com.tw/life/131330) — TVBS (see the original link for supplementary details)
+[^10]: [If a Trap Catches a Child, Ma Xiao-jiu...](https://news.tvbs.com.tw/life/131330) — TVBS (see original link for details and supplementary data)

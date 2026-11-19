@@ -2,9 +2,7 @@
 title: 'Stan Lai: The Cross-Strait Theater Bridge-Builder Behind Performance Workshop and the Wuzhen Theatre Festival'
 description: 'Stan Lai was born on 1954/10/25 in Washington, D.C.; his father Lai Chia-chiu was a diplomat. He earned a PhD in Dramatic Art from UC Berkeley in 1983. In 1984, he co-founded Performance Workshop with his wife Ding Nai-chu, Lee Li-chun, Lee Kuo-hsiu, and others. Secret Love in Peach Blossom Land premiered in 1986, and its 1992 film adaptation starred Brigitte Lin. In 2007, he received the 11th National Award for Arts, an honor he has received twice. In 2013/5, he co-founded the Wuzhen Theatre Festival with Chen Xianghong, Huang Lei, and Meng Jinghui; it is one of the most influential Chinese-language theater festivals across Taiwan and China. Theatre Above opened in Shanghai in 2015. The BBC has praised him as “the best Chinese-language playwright and director in the world.”'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Stan Lai',
@@ -14,14 +12,18 @@ tags:
     'theater director',
     'Wuzhen Theatre Festival',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴聲川.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:171a521ab055d1cf'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:c47b590333d1a690'
 sourceBodyHash: 'sha256:eb36a190f4b7ada8'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-19T00:46:22.112348+00:00'
 ---
 
 # Stan Lai: The Cross-Strait Theater Bridge-Builder Behind Performance Workshop and the Wuzhen Theatre Festival
@@ -100,19 +102,19 @@ In recent years, Lai’s creative work has focused more closely on cultural iden
 
 ## References
 
-[^1]: [Stan Lai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Complete record of Stan Lai’s life, 1954/10/25 birthday, his father Lai Chia-chiu, UC Berkeley PhD in 1983, and co-founding of the Wuzhen Theatre Festival in 2013. See also [Performance Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
+[^1]: [Stan Lai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Stan Lai's biography, birthday 1954/10/25, father Lai Chia-chiu, UC Berkeley PhD 1983, co-founding of Wuzhen Theatre Festival 2013 complete record. Also see [Performance Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
 
-[^2]: [School of Theatre, Taipei National University of the Arts](https://theatre.tnua.edu.tw/) — Information on the founding history of TNUA and Lai’s teaching background.
+[^2]: [School of Theatre, Taipei National University of the Arts](https://theatre.tnua.edu.tw/) — History of TNUA's establishment and background on Stan Lai's teaching.
 
-[^3]: [Performance Workshop Official Website](http://www.pw-theatre.com/) — Troupe history, founding process, and chronology of works.
+[^3]: [Performance Workshop Official Website](http://www.pw-theatre.com/) — Theatre troupe history, founding process, and production chronology.
 
-[^4]: [Introduction to Secret Love in Peach Blossom Land — Performance Workshop](http://www.pw-theatre.com/) — Explanation of premiere year, number of performances, and script structure.
+[^4]: [Introduction to 'Secret Love in Peach Blossom Land' — Performance Workshop](http://www.pw-theatre.com/) — Premiere year, number of performances, and script structure explanation.
 
-[^5]: [Golden Melody Awards/Ministry of Culture — Taiwan Performing Arts Database](https://pacsnet.org.tw/) — Development of Taiwan theater in the 1990s and chronology of Lai’s works.
+[^5]: [Golden Melody Awards / Ministry of Culture — Taiwan Performing Arts Database](https://pacsnet.org.tw/) — 1990s Taiwan theatre development and Stan Lai's works chronology.
 
-[^6]: [The Village — Performance Workshop](http://www.pw-theatre.com/) — Production background and record of performances across Taiwan and China.
+[^6]: ['A Village in Taiwan' — Performance Workshop](http://www.pw-theatre.com/) — Production background, cross-strait performance records.
 
-[^7]: [Stan Lai National Award for Arts Winner Profile — National Culture and Arts Foundation](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Complete information on Lai’s National Award for Arts. See also [Taiwan Panorama: A Dream Like a Dream: Stan Lai’s Life in Theater](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66), a report on the 11th award.
+[^7]: [Stan Lai National Award for Arts Information — National Culture and Arts Foundation](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Complete information on Stan Lai receiving the National Award for Arts. Also see [Taiwan Panorama: Like a Dream — Stan Lai's Theatre Life](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) 11th award coverage.
 
 ## Further Reading
 

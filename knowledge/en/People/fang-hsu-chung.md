@@ -2,9 +2,7 @@
 title: "Fang Hsu-chung: From a Pingtung Military Dependents' Village to the Visual Director Behind Taiwan's Three Major Awards Ceremonies"
 description: "Joe Fang Studio founder Fang Hsu-chung was born in 1978 in Gonghe New Village, Donggang, Pingtung. He studied in the art and design department at the private Fu-Hsin Trade and Arts School and later in the evening division of the metalwork group in the Department of Crafts and Design at National Taiwan University of Arts. In 2013, he founded Joe Fang Studio. Beginning in 2016, he successively directed the key visuals for the Golden Melody Awards, Golden Bell Awards, and Golden Horse Awards, Taiwan's three major awards ceremonies, and has been nominated seven times for the Golden Melody Award for Best Album Packaging. From the material textures of old objects in his military dependents' village childhood to the contemporary narratives of the three major awards ceremonies, he uses visual design to place Taiwan's memories alongside its times."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Designer',
@@ -13,14 +11,18 @@ tags:
     'Golden Horse Awards',
     'Joe Fang Studio',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-19T00:26:06.940875+00:00'
 ---
 
 # Fang Hsu-chung: The Child of a Pingtung Military Dependents' Village Who Turned the Three Major Awards Ceremonies into Taiwan Memory
@@ -103,19 +105,19 @@ This local participation is also reflected in his personal media presence. On In
 
 ## References
 
-[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Fang Hsu-chung's biography, education, and chronology of works, including records of his 1978 birth in Gonghe New Village, Donggang, Pingtung; Fu-Hsin Trade and Arts School; and the evening division of the metalwork group at National Taiwan University of Arts.
+[^1]: [Fang Hsu-chung — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biography, education, and chronology of Fang Hsu-chung's works, including his origins in the Gonghe New Village in Donggang, Pingtung in 1978, and records from Fuhsing Commercial & Vocational High School and the night division of the Metalworking Department at NTID.
 
-[^2]: [Joe Fang Studio About](https://joefangstudio.com/?page_id=2) — Official introduction to Joe Fang Studio, including the studio's founding year, 2013, and scope of work.
+[^2]: [Jiu Fang Studio About](https://joefangstudio.com/?page_id=2) — Official introduction to Jiu Fang Studio, including its founding year (2013) and scope of business.
 
-[^3]: [Mirror Media: Brand management for the three major awards ceremonies; Fang Hsu-chung's design revitalizes key visuals](https://www.mirrormedia.mg/story/20190125insight001/) — The collaborative context of key visuals for the three major awards ceremonies and the circumstances of Chen Chen-chuan's invitation.
+[^3]: [Mirror Media: Brand Management for the Three Major Awards; Fang Hsu-chung Designs Vital Visual Identities](https://www.mirrormedia.mg/story/20190125insight001/) — The context of collaboration for the visual identities of the three major awards and the process of being invited by Chen Zhen-chuan.
 
-[^4]: [Golden Horse Awards official site: 55th edition key visual](https://www.goldenhorse.org.tw/) — Concept description for the 2018 Golden Horse 55 "Supporting Role" key visual.
+[^4]: [Golden Horse Awards Official: 55th Golden Horse Visual Identity](https://www.goldenhorse.org.tw/) — Concept explanation for the 55th Golden Horse Awards (2018) theme, "Supporting Roles."
 
-[^5]: [Bureau of Audiovisual and Music Industry Development, Ministry of Culture — Golden Melody Awards past nominations](https://www.bamid.gov.tw/) — Fang Hsu-chung's past nominations for the Golden Melody Award for Best Album Packaging.
+[^5]: [Ministry of Culture, Bureau of Audiovisual and Music Industry — Golden Melody Awards Past Nominees](https://www.bamid.gov.tw/) — Records of Fang Hsu-chung's past nominations for Best Album Design at the Golden Melody Awards.
 
-[^6]: [Fang Hsu-chung, reversing Pingtung's image and giving it imagination and expectation — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung discusses his childhood in the military dependents' village of Donggang, Pingtung; the Florist Project; and his design context.
+[^6]: [Fang Hsu-chung: Flipping Pingtung Impressions to Grant Imagination and Anticipation — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung discusses his childhood in the Donggang military dependents' village in Pingtung, the Little Flower Project, and his design context.
 
-[^7]: [Designers and Their Studios — Joe Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Interview record from a National Chengchi University branding design project, including Joe Fang Studio's working methods and the process of taking on the three major awards ceremonies.
+[^7]: [Designers and Their Studios — Joe Fang Studio Jiu Fang Studio](http://brandingdesign.nccu.tilda.ws/fdwf3) — Interview records from a National Chengchi University brand design project, including Jiu Fang Studio's working methods and the process of undertaking projects for the three major awards.
 
 ## Further Reading
 

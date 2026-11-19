@@ -2,9 +2,7 @@
 title: 'Au Sow Yee: The Malaysian Curator Who Brought the "Archipelago" into Taiwan’s Art World'
 description: 'In 2003 she left Kuala Lumpur for Taipei to study at Taipei National University of the Arts, thinking she was only passing through; fourteen years later, in Taipei, she began replacing the Cold War name “Southeast Asia” with “Nusantara,” or “archipelago,” bringing the Malay world’s self-naming into Taiwan’s curatorial discourse. From the fictional-place trilogy The Mengkerang Project and The Kris Project entering the Singapore Art Museum collection, to her 2024 collaboration with Chen Yow-Ruu interviewing stateless children in Malaysia, she once said in an NML interview: “It is precisely because of my ‘absence’ that I could make this work.”'
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '策展與當代藝術'
 tags:
   [
     'Au Sow Yee',
@@ -19,18 +17,23 @@ tags:
     'Rumah Attap Library',
     'No Man’s Land',
   ]
+subcategory: '策展與當代藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-06-16T16:59:03Z'
+researchReport: 'reports/research/2026-05/區秀詒.md'
 image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/區秀詒.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-19T00:01:44.307239+00:00'
 ---
 
 # Au Sow Yee: The Malaysian Curator Who Brought the "Archipelago" into Taiwan’s Art World
@@ -167,19 +170,19 @@ The work also had a theatrical version, **Nanyang Intelligence Exchange**, stage
 
 She began expanding her work from “a single video work” into an integrated project that was **cross-media, cross-venue, and cross-temporal**.
 
-## STILL ALIVE: The Kris Project II and the Silent Ocean Warriors
+## STILL ALIVE: The Kris Project II and the Silent Warriors of the Sea
 
-On November 28, 2019, **TheCube Project Space** in Liuzhangli, Taipei, opened her solo exhibition STILL ALIVE[^25], which ran until January 19, 2020.
+On November 28, 2019, **TheCube Project Space** in Liuzhangli, Taipei, hosted her solo exhibition 《STILL ALIVE》[^25], which ran until January 19, 2020.
 
-It featured three works:
+Three works:
 
-1. **The Kris Project II: If the Party Goes On**, which continued the 2016 Kris Project while digging another layer deeper
-2. **Palaces, Valleys, Islands and Their Lunar Journey**, which connected the Malay world with lunar mythology
-3. **Silver Noise: The Extreme Journey of the Silent Warriors of the Ocean (Prelude: Songs of Voyaging)**, a sonic mnemonics of the ocean
+1. 《**Chris Project II: If the Party Goes On**》, a continuation of the 2016 _Kris Project_ but delving into deeper layers;
+2. 《**Palaces, Valleys, Islands and Their Lunar Journey**》, which connects the Malay world with lunar mythology;
+3. 《**Silver Noise: The Extreme Journey of the Silent Warriors of the Sea (Overture: Song of Navigation)**》, an acoustic mnemotechnic of the sea.
 
-TheCube Project Space was founded in 2010 by Amy Cheng and Jeph Lo in an old apartment tucked into the lanes of Liuzhangli, Taipei, and is one of Taiwan’s most important non-commercial contemporary art spaces. It was no accident that Au Sow Yee held a solo exhibition there. For years, TheCube has deeply supported “Nusantara”-related curation, making it another node of the Malay world in Taiwan’s art scene beyond NML.
+TheCube Project Space was founded in 2010 by Cheng Hui-hua and Lo Yue-chuan. Located in an old apartment building within the alleys of Liuzhangli, Taipei, it is one of the most important non-commercial spaces in Taiwan's contemporary art scene. It is no coincidence that Au Sow Yee held a solo exhibition here; for many years, TheCube has provided deep support for archipelago-related curation, serving as another node for the Malay world within the Taiwanese art scene outside of _NML_.
 
-In 2021, she received an **Honorable Mention at the Taipei Arts Awards** for an extension of this series[^26]. That was also the year she began receiving consecutive invitations from international biennials: the 2022 Busan Biennale and, in 2023, Sharjah Biennial 15 in the United Arab Emirates, Thinking Historically in the Present[^27].
+In 2021, she received the **Taipei Arts Award Honorary Award**[^26] for an extension of this series. It was also this year that she began receiving consecutive invitations from international biennials: the 2022 Busan Biennale and the 15th Sharjah Biennial in the UAE, "Thinking Historically in the Present"[^27].
 
 ## Retelling Si Tanggang with Stateless Children
 
