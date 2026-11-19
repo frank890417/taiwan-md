@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T18:39:39.778888+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-19T02:56:33.892218+00:00'
 ---
 
 > **30-Sekunden-Überblick**: Das Medizinische Gesetz regelt nicht den einzelnen Arzt (das tut das Ärztegesetz von 1943) und auch nicht die Erstattungen der Krankenversicherung (dafür ist das Krankenversicherungsgesetz von 1994 zuständig), sondern wie Institutionen wie **Krankenhäuser, Kliniken und medizinische juristische Personen** existieren, werben, Konflikte lösen und operieren. Die im Jahr 1986 veröffentlichte Fassung umfasste 91 Artikel; nach einer umfassenden Reform im Jahr 2004 wurde sie auf 123 Artikel erweitert, wobei das System der „medizinischen juristischen Personen“ eingeführt wurde. Im Jahr 2017 wurde Artikel 82 geändert, um die strafrechtliche Haftung von Ärzten an „doppelte Voraussetzungen“ zu knüpfen, und im Mai 2026 wurde das Pflege-Patienten-Verhältnis gesetzlich verankert. Doch in den vier Jahrzehnten sah die Realität der in Artikel 1 formulierten Vision einer „Förderung der gesunden Entwicklung des Gesundheitswesens“ so aus: 83 % der Krankenhäuser und 74 % der Betten sind privat, die Fluktuationsrate unter Notärzten ist zwei- bis dreimal höher als in den USA, und Pflegekräfte kündigen in Scharen – erst als das System am Rande des Zusammenbruchs stand, verabschiedete das Parlament die gesetzliche Festlegung des Pflege-Patienten-Verhältnisses.
@@ -342,30 +344,31 @@ Wie wird der Mangel in ländlichen Gebieten behoben? Das Ministerium für Gesund
 
 Dennoch zeigt sich die Lücke in der Säuglings- und Kindersterblichkeit. Eine Untersuchung von _The Reporter_ aus dem Jahr 2018 ergab, dass Taitung, Pingtung und der südliche Teil von Hualien die drei Gebiete mit der höchsten Kindersterblichkeit in Taiwan sind[^60]. Der Mangel an medizinischen Ressourcen wirkt sich somit unmittelbar auf die vulnerabelsten Bevölkerungsgruppen aus.
 
-## Spannungen, die auch nach vierzig Jahren ungelöst bleiben
+## Spannungen, die nach vierzig Jahren noch immer ungelöst sind
 
-Das Medizinische Gesetz ist kein isoliertes Gesetz. Zusammen mit fünf weiteren Gesetzen bildet es das Gerüst der medizinischen Governance in Taiwan:
+Das Medizinische Gesetz operiert nicht isoliert. Es bildet zusammen mit fünf weiteren Gesetzen das Gerüst der medizinischen Governance in Taiwan:
 
-- **Ärztegesetz** (1943) regelt den einzelnen Arzt.
-- **Medizinisches Gesetz** (1986) regelt medizinische Einrichtungen.
-- **Gesetz über die nationale Krankenversicherung** (1994 verabschiedet, 1995 in Kraft getreten) regelt die Erstattungen der Krankenversicherung.
-- **Patientenverfügungsgesetz** (2015 verabschiedet, 2019 in Kraft getreten, das erste seiner Art in Asien) [^61] ergänzt die Bestimmungen zur Einwilligung der Patienten in den Artikeln 63 und 64 des Medizinischen Gesetzes und legt ausdrücklich fest, dass die Einwilligung des Patienten Vorrang hat.
-- **Gesetz zur Prävention medizinischer Unfälle und zur Beilegung von Streitigkeiten** (2022 verabschiedet, Durchführungsverordnungen seit 2024 in Kraft) [^17] ergänzt den Mechanismus zur Schlichtung medizinischer Streitigkeiten – Kommunikation und Fürsorge, Aussagen während des Schlichtungsverfahrens sowie die freiwillige Meldung durch medizinische Einrichtungen und die Analyse von Ursachen zur Verbesserung **dürfen nicht als Beweismittel in Gerichtsverfahren oder als Grundlage für Urteile verwendet werden**.
-- **Regeneratives Medizin Gesetz + Verordnung über regenerative Medizinprodukte** (2024 verabschiedet) sind Sondergesetze, die sich vom Medizinischen Gesetz abspalten und Zelltherapien sowie Gentherapien [^62] regeln.
+- **Ärztegesetz** (1943): Regelt den einzelnen Arzt.
+- **Medizinisches Gesetz** (1986): Regelt medizinische Einrichtungen.
+- **Gesetz über die nationale Krankenversicherung** (1994 verabschiedet, 1995 in Kraft getreten): Regelt die Zahlungen der Krankenversicherung.
+- **Patientenautonomiegesetz** (2015 verabschiedet, 2019 in Kraft getreten; das erste seiner Art in Asien) [^61]: Ergänzt die Bestimmungen zur Patienteneinwilligung in den Artikeln 63 und 64 des Medizinischen Gesetzes und legt explizit fest, dass die Einwilligung des Patienten Vorrang hat.
+- **Gesetz zur Prävention medizinischer Unfälle und zur Beilegung von Streitigkeiten** (2022 verabschiedet, Durchführungsverordnungen 2024 in Kraft getreten) [^17]: Schließt die Lücke durch einen Mechanismus zur Schlichtung medizinischer Streitigkeiten – Aussagen aus Kommunikations- und Fürsorgegesprächen sowie Schlichtungsverfahren, ebenso wie freiwillige Meldungen medizinischer Einrichtungen und Analysen der Ursachen zur Verbesserung der Situation, **dürfen nicht als Beweismittel in Gerichtsverfahren oder als Grundlage für Urteile verwendet werden**.
+- **Regeneratives Medizin Gesetz + Verordnung über regenerative Medizinprodukte** (2024 verabschiedet): Sondergesetze, die sich vom Medizinischen Gesetz abspalten, um Zelltherapien und Gentherapien [^62] zu regeln.
 
-Diese sechs Gesetze bilden das Gesamtbild der medizinischen Governance in Taiwan, wobei das Medizinische Gesetz die Säule auf der „institutionellen Ebene“ darstellt. Doch jede neue Gesetzesergänzung entsteht aufgrund von Lücken im ursprünglichen Medizinischen Gesetz: Das Ärztegesetz kann Einrichtungen nicht regeln, das Medizinische Gesetz kann die Erstattungen der Krankenversicherung nicht regeln, es kann keine persönlichen medizinischen Vorsorgeentscheidungen regeln, keine regenerativen Zellen und keine Schlichtung von Streitigkeiten. Jede dieser Lücken ist der Ausgangspunkt für ein neues Gesetz.
+Diese sechs Gesetze ergeben zusammen das Gesamtbild der medizinischen Governance in Taiwan, wobei das Medizinische Gesetz die Säule auf der „institutionellen Ebene“ darstellt. Doch jede neue gesetzliche Ergänzung entsteht aufgrund von Lücken im Medizinischen Gesetz selbst: Das Ärztegesetz kann Einrichtungen nicht regeln, das Medizinische Gesetz kann weder die Zahlungen der Krankenversicherung noch die persönlichen medizinischen Verfügungen (Living Wills), regenerative Zellen oder die Schlichtung von Streitigkeiten regeln. Jede dieser Lücken ist der Ausgangspunkt für ein neues Gesetz.
 
-> **✦** Das Medizinische Gesetz spricht von der „Förderung einer gesunden Entwicklung des Gesundheitswesens“. In den letzten vierzig Jahren sind die Krankenhäuser mehr geworden, die Technik leistungsfähiger und die Abdeckungsrate höher. Doch gleichzeitig gibt es eine massive Kündigungswelle unter Pflegekräften, die Fluktuationsrate bei Notärzten liegt doppelt so hoch wie der internationale Durchschnitt, private Krankenhäuser haben auf 83 % expandiert, öffentliche Krankenhäuser sind auf Subventionen angewiesen, der Anteil strafrechtlich verfolgter medizinischer Streitigkeiten liegt bei 79 % und in ländlichen Gebieten versorgt ein Arzt immer noch zehntausend Menschen. Die Worte des Gesetzes sind nicht falsch, ebenso wenig wie die Erschöpfung an der Front. Die verbleibende Frage lautet: Wie kann das Medizinische Gesetz in den nächsten vierzig Jahren die Kluft zwischen diesen beiden Realitäten überbrücken?
+> **✦** Das Medizinische Gesetz spricht von der „Förderung einer gesunden Entwicklung des Gesundheitswesens“. In den letzten vierzig Jahren sind mehr Krankenhäuser entstanden, die Technik wurde besser und die Abdeckung höher. Dennoch gibt es eine massive Kündigungswelle unter Pflegekräften, die Fluktuation bei Notärzten ist doppelt so hoch wie der internationale Durchschnitt, private Krankenhäuser haben auf 83 % expandiert, öffentliche Krankenhäuser sind auf Subventionen angewiesen, 79 % der medizinischen Streitigkeiten enden im Strafrecht und in ländlichen Gebieten versorgt ein Arzt immer noch zehntausend Menschen. Die Worte des Gesetzes sind nicht falsch, ebenso wenig wie die Erschöpfung an der Front. Die verbleibende Frage lautet: Wie kann das Medizinische Gesetz in den nächsten vierzig Jahren die Kluft zwischen diesen beiden Realitäten überbrücken?
 
-In den frühen Morgenstunden des 8. Mai 2026 verabschiedete das Legislative Yuan die Regelung zum Pflege-Patienten-Verhältnis im Dreischichtsystem. Die Worte von Cai Guangchao, Luo Xiangyun und Xue Chengjun – sie hallen noch immer in den Fluren jeder Notaufnahme in Taiwan nach. Wann die nächste Gesetzesreform stattfindet und welcher Artikel geändert wird, kann niemand rechtlich festschreiben. Doch Pflegekräfte, Notärzte und Assistenzärzte der fünf großen Fachrichtungen drücken ihre Haltung weiterhin durch Worte wie „ich komme nicht mehr“ oder „Kündigung“ aus.
+In den frühen Morgenstunden des 8. Mai 2026 verabschiedete das Legislativ-Yuan das Pflege-Patienten-Verhältnis für drei Schichten. Die Worte von Tsai Kuang-chao, Luo Xiang-yun und Xue Cheng-jun – sie hallen noch immer durch die Flure jeder Notaufnahme in Taiwan. Wann die nächste Gesetzesänderung erfolgt und welcher Artikel angepasst wird, lässt sich nicht in das Gesetz schreiben. Doch Pflegekräfte, Notärzte und Assistenzärzte der fünf großen Fachbereiche drücken ihre Haltung weiterhin durch Worte wie „ich komme nicht mehr“ oder „ich kündige“ aus.
 
 Die geschriebenen Worte des Gesetzes werden von den Lesern gelesen. Die ungeschriebenen Worte werden durch die Wände der Krankenhäuser und die Patienten in den überfüllten Fluren dokumentiert.
 
 **Weiterführende Literatur**:
 
-- [Medizin und die nationale Krankenversicherung in Taiwan](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die weltweit bekannte Abdeckungsrate und Erstattungsstruktur des Krankenversicherungssystems ist der „Leistungs-Partner“ des Medizinischen Gesetzes nach dessen Umsetzung.
-- [Entwicklung der beiden Gesetze zur regenerativen Medizin in Taiwan – Geständnisse von Fachkräften](/de/society/taiwan-regenerative-medicine-laws) — Die 2024 verabschiedeten Gesetze zur regenerativen Medizin sind Sondergesetze, die sich vom Medizinischen Gesetz abspalten und die Regulierung der Zelltherapie ergänzen.
-- [Das medizinische Katastrophensystem in Taiwan](/de/technology/taiwan-disaster-medicine-system) — Die praktische Umsetzung von Artikel 1 des Medizinischen Gesetzes zur „angemessenen Verteilung medizinischer Ressourcen“ in großflächigen Katastrophenszenarien.
+- [Medizin und die nationale Krankenversicherung in Taiwan](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die weltweit bekannte Abdeckung und Zahlungsstruktur des Krankenversicherungssystems ist der „Leistungs-Partner“ des Medizinischen Gesetzes nach dessen Umsetzung.
+- [Entwicklung der beiden Gesetze zur regenerativen Medizin in Taiwan: Geständnisse von Fachleuten](/de/society/taiwan-regenerative-medicine-laws) — Die 2024 verabschiedeten Sondergesetze zur regenerativen Medizin sind vom Medizinischen Gesetz abgelöst worden, um die Regulierung der Zelltherapie zu ergänzen.
+- [Das medizinische Katastrophensystem in Taiwan](/de/technology/taiwan-disaster-medicine-system) — Die praktische Umsetzung von Artikel 1 des Medizinischen Gesetzes („angemessene Verteilung medizinischer Ressourcen“) in großflächigen Katastrophenszenarien.
+- [Sonderthema: Medizin und Langzeitpflege](/health/) — Grafische Darstellung der Einnahmen und Ausgaben der Krankenversicherung, der Wartezeiten in Notaufnahmen, des Pflegepersonals sowie der Anzahl der Ärzte in den einzelnen Landkreisen, ergänzt um die verschiedenen Positionen zur gesetzlichen Verankerung des Pflege-Patienten-Verhältnisses.
 
 ## Bildquellen
 

@@ -26,11 +26,13 @@ rationale:
   whats_excluded: '不列舉各家生成式 AI 產品功能，也不把私人 Notion 研究筆記當成公開證據。'
   where_it_hedges: '兩份台灣問卷與 OECD TALIS 標明不同樣本，僅作並置觀察，不作直接因果推論。'
   whos_pushing_back: '回應「多買工具就能推動 AI 教育」的想像，也保留教師工作量、資安與學生主體性的反方。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣教師與AI教學.md'
-sourceCommitSha: 'd95fa9648'
-sourceContentHash: 'sha256:6a85130bd9bb91b0'
-sourceBodyHash: 'sha256:01e8abe40e264468'
-translatedAt: '2026-09-23T22:12:06+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:de4034d0f1ced753'
+sourceBodyHash: 'sha256:e882a4d70eacae0a'
+translatedAt: '2026-11-19T02:16:18.932335+00:00'
 ---
 
 # KI geht ins Klassenzimmer: Dreihundert Agenten sollen einsame Lehrer nach der Schulung auffangen
@@ -163,10 +165,10 @@ Xu Tai-ping sagt, dass es während des Seminars Begeisterung und Funken gab, abe
 
 ## Bildquellen
 
-| Datei                                               | Beschreibung                                                                         | Quelle                                                                                                                                                      | Lizenz                      |
-| :-------------------------------------------------- | :----------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
-| `taiwan-students-digital-learning-2019.webp` (hero) | Schüler der Baozhong Mittelschule verwenden die einheitliche Bildungsplattform, 2019 | [Baozhong Mittelschule Online, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                   |
-| `taiwan-moe-ai-talent-ark-2026.webp`                | Politikdiagramm des KI-Talentboots des Bildungsministeriums, 2026                    | [KI-Talentbootplan des Bildungsministeriums](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                    | Offizielles Policy-Diagramm |
+| Datei                                               | Beschreibung                                                                                          | Quelle                                                                                                                                                                   | Lizenz                                           |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| `taiwan-students-digital-learning-2019.webp` (Hero) | Schüler der Baojhong Junior High School im Landkreis Yunlin nutzen die Junyi Education Platform, 2019 | [Baojhong Junior High School Cloud Network, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                                        |
+| `taiwan-moe-ai-talent-ark-2026.webp`                | Politikdiagramm der drei Hauptrichtungen des KI-Talent-Arche-Plans des Bildungsministeriums, 2026     | [KI-Talent-Arche-Plan des Bildungsministeriums](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                              | Redaktionelle Zitation offizieller Politikgrafik |
 
 ## Referenzen
 

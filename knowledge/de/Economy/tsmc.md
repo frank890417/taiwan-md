@@ -43,11 +43,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-09'
     url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e49710c21ecf543a'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-09-23T09:09:23.890160+00:00'
+translatedAt: '2026-11-19T01:51:12.866907+00:00'
 ---
 
 # Taiwanische Unternehmen: TSMC
@@ -243,15 +245,17 @@ Chang Chi-kuo sagte einmal der Wall Street Journal, er habe „fertig“ sein un
 
 Niemand hatte diesen Größenordnungswechsel geplant. Doch während der größten Dürre seit 56 Jahren läuft das Wasserrad weiter in den Schatz; auf der Baustelle in Arizona ist gerade die dritte Fab begonnen; auf dem roten Teppich des Weißen Hauses lobte Trump die Person, die mit 56 Jahren von DeGro rejected wurde, als „den wichtigsten Mann in diesem Raum“ – obwohl diese Person nicht mehr in diesem Raum war.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Taiwanisches Unternehmen: MediaTek](/de/economy/mediatek) — Der drittgrößte globale Chipdesigner für Mobiltelefone, ein lokales Beispiel für das Fabless-Modell und eine komplementäre „Zwilling“ von TSMC.
-- [Taiwanisches Unternehmen: ASE Technology Holding](/de/economy/taiwan-enterprise-ase-semiconductor) — Das weltweit größte Packaging-Testwerk, ein wichtiger nachgelagerter Knotenpunkt in derselben Lieferkette wie TSMC.
-- [Taiwanische Börse und Kapitalmarkt](/de/economy/taiwan-stock-market) — Der Marktwert von TSMC macht etwa 35 % des gesamten Marktwertes der taiwanesischen Aktien; man muss zuerst TSMC verstehen, um die taiwanesische Börse zu verstehen.
-- [Industrietransformation in Taiwan](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC ist ein konkretes Beispiel dafür, wie Taiwan von einer „Foundry Island“ zu einer „Tech Island“ wurde.
-- [Shih Chih-yung](/de/people/stan-shih) — Der Gründer von Acer, der 21 Jahre lang Direktor bei TSMC war und dessen größter Vermögenswert in TSMC-Aktien gebunden ist; er ist jedoch der Autor der „Lächelnkurve“, die Taiwan aufforderte, keine Foundry zu sein.
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die 50-jährige Materialrevolution von RCA zur Galliumnitrid- und Quantenverpackung – das gesamte Materialwissenschafts-Schlachtfeld, in dem TSMC angesiedelt ist.
-- [Huang Chung-jen](/de/people/frank-huang-psmc) — Gründer von Largan/Licy, ein anderer Weg auf derselben Insel: Er fertigte ebenfalls Wafer, ging einmal mit Hunderten von Milliarden Schulden in den außerbörslichen Handel und gelangte erst nach neun Jahren zurück an die Börse.
+- [Taiwan-Industrie-Special](/industry/) — Auf Basis offizieller Statistiken wird die Industriestruktur dargestellt: 70 Jahre Exporte und BIP, Wissenschaftsparks, Fabriken in den einzelnen Landkreisen und Städten, die Top-10-Unternehmen nach Marktkapitalisierung über die Jahre, plus die Standpunkte zu sechs öffentlichen Kontroversen
+- [Lieferkettenkarte](/industry/supply-chain-map/) — Halbleiter, KI-Server, Wolfram – drei Ketten, Glied für Glied: welche Unternehmen in Taiwan sitzen, welches Glied auf das Ausland angewiesen ist
+- [Taiwan-Unternehmen: MediaTek](/de/economy/mediatek) — Weltweit drittgrößter Mobilfunk-Chip-Designer, heimischer Vertreter des Fabless-Modells, und zusammen mit TSMC ein sich gegenseitig ergänzendes Zwillingspaar
+- [Taiwan-Unternehmen: ASE Technology](/de/economy/taiwan-enterprise-ase-semiconductor) — Weltgrößter OSAT-Betrieb (Outsourced Semiconductor Assembly and Test), kritischer nachgelagerter Knoten in derselben Lieferkette wie TSMC
+- [Taiwaner Aktienmarkt und Kapitalmarkt](/de/economy/taiwan-stock-market) — TSMCs Marktkapitalisierung macht ca. 35 % der gesamten taiwanischen Börsenkapitalisierung aus – wer den taiwanischen Aktienmarkt verstehen will, muss zuerst TSMC verstehen
+- [Transformation und Aufwertung der taiwanischen Industrie](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC ist das konkrete Beispiel für Taiwans Wandel von der „Foundry-Insel“ zur „Technologie-Insel“
+- [Stan Shih](/de/people/stan-shih) — 21 Jahre lang TSMC-Direktor, Acer-Gründer, dessen größter Vermögensanteil in TSMC-Aktien steckt, und doch genau der Autor der „Smile Curve“, die Taiwan aufforderte, „nicht nur Foundry zu sein“
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — 50 Jahre Materialrevolution von der RCA-Technologieübertragung bis zu Galliumnitrid und Quantenverpackung – das gesamte materialwissenschaftliche Schlachtfeld, auf dem TSMC steht
+- [Huang Chong-jen](/de/people/frank-huang-psmc) — Gründer von Powerchip / Powerchip Technology, ein anderer Weg auf derselben Insel: ebenfalls Waferfertigung, einst mit hunderten Milliarden Schulden delistiert, erst nach neun Jahren zurück an der Börse
 
 ## Bildquellen
 

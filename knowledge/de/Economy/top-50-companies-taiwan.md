@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-02T10:32:19.300651+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-19T02:02:01.002876+00:00'
 ---
 
 > **Kurzüberblick:** Nachbörsen am 19. Mai 2026 belief sich die Marktkapitalisierung von TSMC auf 57,18 Billionen NTD; ein einziges Unternehmen macht 31,51 % des Taiwan-gewichteten Index aus, etwa viertel der gesamten Aktienmarktkapitalisierung Taiwans und sieben Komma eins Prozent der globalen Halbleiterfertigung. Die restlichen 49 Plätze werden von 12 Finanzunternehmen, 11 Halbleitern, 6 Elektronikdienstleistern und 5 Veteranen aus traditionellen Industrien eingenommen. Dieses sogenannte Dreieck aus Elektrik, Finanzen und Tradition wird tatsächlich von der Elektronikindustrie getragen, die halb den Körper stützt; der KI-Hype hat ab 2024 GDA, Wistron, Wistron Nano und Foxconn vom mittleren Rang nach oben gezogen und die Konzentration weiter erhöht. Die Lektüre dieser Tabelle der Top 50 ist gleichbedeutend mit dem Lesen eines Körperschemas der taiwanesischen Wirtschaft: Wo liegt die Wirbelsäule, wo die Schwachstelle, welche Organe sind außerhalb der Tabelle verborgen?
@@ -147,28 +149,29 @@ Auch China Steel in Xiaogang, Kaohsiung, trägt eine Rechnung mit sich. Daten de
 > **📝 Notiz der Kuratoren**
 > Die Kehrseite der Top 50 sind 50 externe Kostenrechnungen. In das BIP fließen die Produktionswerte der Fabriken ein, aber nicht die medizinischen Ausgaben der Haushalte im Umfeld der Fabriken, die Last der Langzeitpflege für die Bewohner von Yunlin oder die Umzugskosten der Bewohner von Qianzhen in Kaohsiung. In der Wirtschaftswissenschaft nennt man dies „Internalisierung externer Effekte“ (externalities): Wenn die Gesellschaft Unternehmen dazu zwingt, die Kosten zu tragen, die sie in der Vergangenheit nach außen abgeladen haben, dann ist das die wahre Bedeutung von ESG. Unter den Top 50 Taiwans liegen die Halbleiterindustrie und die Finanzholding-Gruppe bei den ESG-Bewertungen im Allgemeinen vorne; die traditionelle Industrie und die petrochemische Industrie stehen hingegen unter genauer Beobachtung. Diese Neuausrichtung der Bewertungen wird das Ranking in den nächsten zehn Jahren tiefgreifender verändern als jeder Quartalsbericht.
 
-## Ningsha Nachtmarkt und Kexin Road
+## Der Ningxia-Nachtmarkt und die Kaixuan 3. Straße
 
-Sie sind zwei Extreme desselben Koordinatensystems, die miteinander verbunden werden.
+Verbindet man den Anfang mit dem Ende, erhält man zwei Extreme innerhalb desselben Koordinatensystems.
 
-An einem Abend auf dem Ningsha-Nachtmarkt tranken fünf der wichtigsten Personen aus der Halbleiterindustrie Bier an Plastiktischen; am nächsten Tag stieg der Marktwert von drei dieser Personen um Hunderte von Milliarden über Nacht. An einer Nacht in Kexin Road wurden 32 Bewohner aus ihrem Zuhause in die Luft geschossen; nach acht Jahren Gerichtsverfahren konnte niemand ihre Leben zurückgeben.
+Am jenen Abend auf dem Ningxia-Nachtmarkt tranken fünf der bedeutendsten Persönlichkeiten der Halbleiterindustrie Bier an Plastiktischen; am nächsten Tag stieg der Marktwert der Unternehmen von drei von ihnen über Nacht um hunderte Milliarden NT$. In der Nacht in der Kaixuan 3. Straße wurden 32 Bewohner von Qianzhen durch eine Explosion aus ihren Häusern geschleudert; nach acht Jahren Prozess wurde das Urteil gefällt, doch niemand kann das verlorene Leben zurückgeben.
 
-Zwischen diesen beiden Bildern liegt das gesamte Spektrum der Tabelle „Die Großen 50“.
+Zwischen diesen beiden Bildern liegt die gesamte Spannweite dieser Liste der Top 50.
 
-Der Gipfel des Schutzheiligenbergs stützt die gesamte Industrie und das ganze Land; am Fuße dieses Berges gibt es PM2,5 aus Mailiao, Acridgerüche aus Kexin, die Auswirkungen von Yimei und Hualon, die nicht in der Rangliste aufgeführt sind. Die 50 Unternehmen bilden das Rückgrat Taiwans, jedes Unternehmen ist ein Wirbelkörper im Rückgrat, aber außerhalb des Rückgrats gibt es noch Muskeln, Nerven und Haut, die vom BIP nicht erfasst werden.
+Der „Schutzgott-Berg“ [TSMC] thront ganz oben und stützt die gesamte Industrie sowie das ganze Land; am Fuße dieses Berges liegen das PM2,5-Niveau in Mailiao, der Geruch von Propen in Qianzhen sowie der Einfluss der I-Mei-Fabrik und der Hotai-Ausstellungsräume, die nicht in den Rankings auftauchen. Die 50 Unternehmen zusammen bilden das Rückgrat Taiwans; ein einzelnes Unternehmen ist dabei wie die dickste Lendenwirbelsäule im Rückgrat, doch außerhalb des Rückgrats gibt es noch Muskeln, Nerven und Haut, die vom BIP nicht erfasst werden.
 
-Nach dem Lesen dieser Tabelle sollte der Leser nicht „wer auf welchem Platz steht oder wie viel Marktwert hat“ mitnehmen. Vielmehr sollte es eine anatomische Strukturzeichnung sein: Wo ist das Rückgrat? Wo liegt der Einpunktversagen? Wo sind die externen Kosten? Wo liegen die inneren Organe, die außerhalb der Tabelle verborgen sind? Wenn die nächste KI-Welle noch einmal durchläuft, wenn die nächste geopolitische Spannung zwischen den USA und China eskaliert oder wenn ein Unternehmen in einem bestimmten Prozess eine Position von TSMC herausfordert, wird diese Strukturzeichnung neu gezeichnet. Die Namen an diesen 50 Plätzen werden sich ändern, einige werden fehlen, andere hinzukommen, aber diese Tabelle zeichnet immer dasselbe auf: Welche Unternehmen bestimmen, wie die Menschen dieser Generation in Taiwan essen, arbeiten und Angst vor morgen haben.
+Nachdem der Leser diese Liste gelesen hat, sollte er nicht nur mitnehmen, „wer auf welchem Platz steht oder wie hoch die Marktkapitalisierung ist“. Er sollte eine anatomische Strukturkarte vor Augen haben: Wo liegt die Wirbelsäule, wo liegen die Single Points of Failure, wo liegen die externen Kosten und wo befinden sich die Organe, die außerhalb der Tabelle verborgen sind? Wenn die nächste KI-Welle alles neu ordnet, wenn die geopolitischen Spannungen zwischen den USA und China erneut eskalieren oder wenn ein Unternehmen die Position von TSMC in einem bestimmten Fertigungsprozess herausfordert, wird diese Strukturkarte neu gezeichnet werden. Die Namen auf diesen 50 Plätzen werden sich ändern, verschwinden oder hinzukommen, aber diese Tabelle dokumentiert beständig eine Sache: Welche Unternehmen entscheiden darüber, wie die heutige Generation der Taiwaner isst, arbeitet und sich um das Morgen sorgt.
 
-> **✦** „Die Halbleiter haben Taiwan zum Weltzentrum gemacht. Aber was in der Tabelle ‚Die Großen 50‘ nicht steht, sind die inneren Organe und die Haut dieser Insel; sie sind ebenfalls Teil Taiwans, aber das BIP kann sie nicht sehen.“
+> **✦** „Die Halbleiterindustrie hat Taiwan ins Zentrum der Welt gerückt. Doch was in dieser Top-50-Liste nicht steht, sind die inneren Organe und die Haut dieser Insel; sie sind ebenfalls Teil Taiwans, nur ist das BIP blind für sie.“
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Das einzelne Unternehmen auf Platz 1 der „Großen 50“, das 31,51 % des gewichteten Index ausmacht
-- [Kleine und mittlere Unternehmen in Taiwan und unsichtbare Champions](/de/economy/taiwan-smes-and-hidden-champions) — Die nicht sichtbaren 30 % der Wirtschaftsstruktur jenseits von Yimei und Hualon
-- [Taiwanische Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von RK zur 2-nm-Technologie: Der Ursprung der 11 Halbleiterplätze in den „Großen 50“
-- [Taiwanische Aktienmärkte und Kapitalmärkte](/de/economy/taiwan-stock-market) — Gewichteter Index, Marktwertrangliste, Struktur der institutionellen Anleger
-- [Taiwanische Verteidigung und Militarisierung](/de/society/taiwan-defense-modernization) — Die geopolitische Verknüpfung von „Silicon Shield“ und den „Großen 50“
-- [Taiwan Science Park](/de/technology/science-park-development) — Der räumliche Ausdruck der Produktionsbasis der Halbleiterplätze in den „Großen 50“, die Konzentrationsdichte der drei Parks
+- [Sonderthema Taiwanische Industrie](/industry/) — Zeichnet die Industriestruktur anhand offizieller Statistiken nach: 70 Jahre Exporte und BIP, Science Parks, Fabriken in den verschiedenen Landkreisen, die Top 10 der Marktkapitalisierung über die Jahre sowie sechs Perspektiven zu öffentlichen Debatten.
+- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Platz 1 der Top 50, ein einzelnes Unternehmen mit einem Anteil von 31,51 % am gewichteten Index.
+- [Taiwanische KMU und Hidden Champions](/de/economy/taiwan-smes-and-hidden-champions) — Neben I-Mei und Hotai die unsichtbaren 30 % der Wirtschaftsstruktur.
+- [Die taiwanische Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Von der ITRI bis hin zu 2-Nanometer-Prozessen, die Quelle der 11 Plätze der Top 50 in der Halbleiterbranche.
+- [Taiwanischer Aktienmarkt und Kapitalmarkt](/de/economy/taiwan-stock-market) — TAIEX (gewichteter Index), Marktkapitalisierungs-Rankings und die Struktur institutioneller Investoren.
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Die Verbindung zwischen dem „Silicon Shield“ und der Geopolitik der Top 50.
+- [Taiwanische Science Parks](/de/technology/science-park-development) — Die Produktionsstätten für die Halbleiter-Plätze der Top 50 Unternehmen; eine räumliche Version der Konzentration des Produktionswertes in drei Parks.
 
 ## Bildquellen
 
