@@ -4,7 +4,6 @@ import PageHero from '../components/PageHero.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import SupporterGrid from '../components/SupporterGrid.astro';
 import NewsletterSection from '../components/home/NewsletterSection.astro';
-import AboutChapterNav from '../components/about/AboutChapterNav.astro';
 import AboutBrief from '../components/about/AboutBrief.astro';
 import AboutWhy from '../components/about/AboutWhy.astro';
 import AboutTrust from '../components/about/AboutTrust.astro';
@@ -164,19 +163,6 @@ const hrefGraph = tp('/graph/');
 const hrefSemiont = lang === 'en' ? '/en/semiont/' : '/semiont/';
 const hrefNewsroom = '/semiont/newsroom/';
 
-// 章節錨點（順序＝頁面順序）
-const chapters = [
-  { id: 'brief', label: s('about.nav.brief') },
-  { id: 'naming', label: s('about.nav.naming') },
-  { id: 'team', label: s('about.nav.people') },
-  { id: 'why', label: s('about.nav.why') },
-  { id: 'trust', label: s('about.nav.trust') },
-  { id: 'origin', label: s('about.nav.origin') },
-  { id: 'organism', label: s('about.nav.alive') },
-  { id: 'sponsors', label: s('about.nav.support') },
-  { id: 'faq', label: s('about.nav.faq') },
-];
-
 // 時間軸全部條目（順序＝下面完整時間軸的順序）。milestone: true 的預設顯示成
 // 里程碑卡；其餘只在比例軸上是一條細線。挑選原則：對外看得見的事。
 const timelineEntries: TimelineEntry[] = [
@@ -268,7 +254,9 @@ const today = new Date().toISOString().slice(0, 10);
       />
     </section>
 
-    <AboutChapterNav label={s('about.nav.label')} chapters={chapters} />
+    {
+      /* 章節列（AboutChapterNav）2026-11-19 v2 起不渲染（哲宇：側邊不需要、版面被擠窄）；元件檔保留 */
+    }
 
     {/* 2 三十秒版 */}
     <section id="brief" class="ab-sec ab-sec--brief" data-ga-view="about_brief">
@@ -3265,11 +3253,8 @@ const today = new Date().toISOString().slice(0, 10);
     --ab-inner-pad: var(--space-5);
   }
 
-  /* 錨點跳轉：站頭的高度全站已經用 scroll-padding-top 讓開了，
-     這裡只再讓出貼在站頭下面的那一排章節列 */
-  .about-page :is(section[id], div[id], details[id]) {
-    scroll-margin-block-start: 3.25rem;
-  }
+  /* 錨點跳轉：站頭的高度全站已經用 scroll-padding-top 讓開了；
+     章節列不再渲染，這裡不用再多讓 */
 
   /* ── 區塊節奏 ─────────────────────────────────────────────────── */
   .ab-sec {
@@ -3639,7 +3624,7 @@ const today = new Date().toISOString().slice(0, 10);
   .timeline-item {
     padding-left: 0;
     padding-inline-start: 1.5rem;
-    scroll-margin-block-start: 4rem;
+    scroll-margin-block-start: 0.75rem;
   }
   .timeline-marker {
     left: auto;
