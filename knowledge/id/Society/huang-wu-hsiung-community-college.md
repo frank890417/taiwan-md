@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-05T22:41:55.054763+00:00'
+translatedAt: '2026-11-19T11:27:26.672987+00:00'
 ---
 
 # Huang Wu-hsiung dan Komunitas Universitas Taiwan: Membawa Demokrasi di Luar Pemungutan Suara ke Kelas
@@ -116,6 +116,8 @@ Gambar: Ephemeral Days, 〈Taipei Municipal Wenshan School of Special Education�
 [Asosiasi Promosi Komunitas Universitas Nasional: Basis Data Komunitas Universitas dan Praktik Sosial](https://www.napcu.org.tw/db_list.html)
 
 [Kementerian Pendidikan: Penjelasan Terkait Undang-Undang Pengembangan Komunitas Universitas](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Yang Wei-zhe: Profesor Matematika Pertama Membuka Kelas Bahasa Taiwan, Debat Baru Mengikuti](/id/people/yang-wei-cher) — Teman lama dan rekan kerja Huang Wu-hsiung di Departemen Matematika NTU, keduanya bergabung bersama Yayasan Memorial Chen Wen-cheng, Yang Wei-zhe juga pernah mengajar matematika menggunakan Bahasa Taiwan di Komunitas Universitas Keelung.
 
 ## Referensi
 

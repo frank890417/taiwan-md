@@ -16,20 +16,24 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
-translatedAt: '2026-09-11T05:40:13+08:00'
+translatedAt: '2026-11-19T11:41:53.213712+00:00'
 ---
 
-> **Ringkasan 30 detik:** Pada akhir 1786, konflik lokal di Daliyi, Changhua, berkembang menjadi salah satu pemberontakan rakyat berskala terbesar di masa pemerintahan Qing di Taiwan. Tindakan Lin Shuangwen, Zhuang Datian, Jin Niang, dan lainnya memaksa pengadilan Qing mengirim pasukan lintas provinsi, dan pasca-perang mengatur ulang kebijakan pelabuhan persinggahan, tunten, dan pembangunan kota. Artikel ini tidak hanya menuliskan peristiwa sebagai "tentara Qing menenangkan pemberontakan", melainkan menelusuri bagaimana satu perang mengubah cara kekaisaran mengelola Taiwan.
+> **Ringkasan 30 Detik:** Akhir 1786, konflik lokal di Daliyi, Changhua, melebar menjadi salah satu pemberontakan rakyat terbesar pada masa pemerintahan Qing di Taiwan. Tindakan Lin Shuangwen, Zhuang Datian, Jin Niang, dan lainnya memaksa pemerintah Qing mengirim pasukan dari provinsi lain, dan setelah perang mengatur ulang kebijakan pelabuhan lintas, pasukan tuna, dan pembangunan benteng. Artikel ini tidak hanya mengisahkan peristiwa sebagai «penindakan pemberontakan oleh pasukan Qing», melainkan menanyakan bagaimana sebuah perang mengubah cara kekaisaran memerintah Taiwan.
 
-Pada akhir 1786, Lin Shuangwen di Daliyi, Changhua, terlibat dalam sebuah konflik lokal yang belum tentu dimulainya. Pada Januari 1787, konflik ini sudah merebut kota Changhua, dan menarik perhatian militer Kekaisaran Qing ke separuh barat Taiwan.[^1] Musim semi 1788, Lin Shuangwen ditangkap, dibawa ke Beijing dengan kereta tahanan.[^2]
+Akhir 1786, Lin Shuangwen di Daliyi, Changhua, terlibat dalam sebuah konflik lokal yang belum tentu dimulainya. Pada Januari 1887, konflik ini sudah merebut kota kabupaten Changhua, dan menarik perhatian militer Kekaisaran Qing ke separuh barat Taiwan.[^1]
 
-Sejarah ini paling mudah ditulis sebagai "tentara Qing menenangkan pemberontakan rakyat", tetapi yang benar-benar patut ditanyakan adalah hal lain: sebuah pulau yang dipandang kekaisaran sebagai daerah terpencil, dan lama tidak mau mengeluarkan biaya pengelolaan yang besar, kenapa justru bisa memaksa pengadilan Qing mengirim pasukan lintas lautan selama lebih dari setahun, dan pada akhirnya mengubah kebijakan pelabuhan, tunten, dan pertahanan kota?[^3]
+Musim semi 1788, Lin Shuangwen ditangkap dan dibawa ke Beijing dalam kereta tahanan.[^2]
 
-> **Kalimat inti anti-intuisi:** Hasil peristiwa Lin Shuangwen kelihatannya memulihkan status quo, tetapi sebenarnya membuat Kekaisaran Qing tidak bisa lagi mengelola Taiwan dengan cara lama.
+Sejarah ini paling mudah ditulis sebagai «pasukan Qing menindak pemberontakan rakyat», tetapi yang benar-benar patut ditanyakan adalah hal lain: sebuah pulau yang dipandang kekaisaran sebagai daerah terpencil, dan lama tidak mau mengeluarkan biaya pemerintahan yang besar, mengapa bisa memaksa pemerintah Qing mengirim pasukan dari seberang laut selama lebih dari setahun, dan pada akhirnya mengubah kebijakan pelabuhan, pasukan tuna, dan pertahanan kota?[^3]
+
+> **Kalimat Inti Anti-Intuisi:** Hasil peristiwa Lin Shuangwen kelihatannya memulihkan status quo, tetapi sebenarnya membuat Kekaisaran Qing tidak bisa lagi memerintah Taiwan dengan cara lama.
 
 ## Dari Larangan Organisasi Kehilangan Kendali Lokal
 
