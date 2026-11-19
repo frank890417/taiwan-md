@@ -226,7 +226,19 @@ const readingPathFooterItems = [
         continueLabel={t('home.readingPath.continue')}
       >
         <div slot="after" id="random-discovery" data-ga-view="random_discovery">
-          <RandomDiscovery />
+          {
+            /* 閱讀路徑底部的兩個行動排在同一排：骰子（主要）＋繼續探索（次要）。
+              繼續探索的追蹤標記照舊是 reading_path／continue。 */
+          }
+          <RandomDiscovery>
+            <a
+              slot="secondary"
+              href="#categories"
+              class="rd-more-btn"
+              data-ga-section="reading_path"
+              data-ga-label="continue">{t('home.readingPath.continue')}</a
+            >
+          </RandomDiscovery>
         </div>
       </ReadingPath>
     </div>
