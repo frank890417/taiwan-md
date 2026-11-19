@@ -1,19 +1,21 @@
 ---
-title: '清治時期'
-description: '1683年から1895年までの約212年間、清朝が台湾を統治した時代である。消極的な統治から積極的な建設へと転換し、現代台湾の行政区画と漢人社会の基礎を築いた。'
+title: '清治時代'
+description: '1683年から1895年にかけて清朝が台湾を統治した約212年間、消極的な統治から積極的な建設へと移り、現代台湾の行政区画と漢人社会の基礎を築いた。'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
+tags: ['歴史', '清朝', '開港通商', '牡丹社事件']
 subcategory: '殖民與帝國'
-tags: ['History', '清朝', '開港通商', '牡丹社事件']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-05-17T05:34:50+08:00'
+translatedAt: '2026-11-19T00:46:42.188878+00:00'
 ---
 
 # 清治時期
@@ -66,17 +68,17 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 
 この抵抗は、後世の台湾史において、台湾人が「自決」の形で外来の政治的決定に応じた最初の試みとして解釈されている。しかし同時に、当時の台湾社会に統一的な動員能力が欠如していたという限界も示している。[^3]
 
-## 参考文献
+## 参考資料
 
-[^1]: [台湾清治時期 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — 台湾清治時期の総覧。統治体制、主要イベント年表、各段階の政策を含む。
+[^1]: [台湾清治時代 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — 台湾清治時代の概要。統治体制、主要事件の年表、各段階の政策を含む。
 
-[^2]: [劉銘伝 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 初代台湾巡撫・劉銘伝の生涯と建省後の近代化建設の記録。
+[^2]: [劉銘伝 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — 初代台湾巡撫・劉銘伝の生涯と建省・近代化建設の記録。
 
-[^3]: [乙未戦争 — ウィキペディア](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — 1895年の台湾民主国による日本受領抵抗の全過程。唐景崧の逃亡の経緯を含む。
+[^3]: [乙未戦争 — ウィキペディア](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — 1895年の台湾民主国による日本への引き渡し抵抗の全過程。唐景崧の逃亡の顛末を含む。
 
-[^4]: [ローバー号事件 — ウィキペディア](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — 1867年のローバー号事件、南岬之盟、およびルジャンドルによる交渉の経緯。
+[^4]: [ローバー号事件 — ウィキペディア](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — 1867年のローバー号事件、南岬之盟、李仙得との交渉の顛末。
 
-[^5]: [施九緞の乱 — ウィキペディア](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — 1888年の清賦改革に起因する彰化の民変。清末台湾最大規模の抗税事件。
+[^5]: [施九緞事件 — ウィキペディア](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — 1888年の清の賦税が引き金となった彰化民変。清末台湾最大規模の抗税事件。
 
 ## 用語の説明：清治と清領
 

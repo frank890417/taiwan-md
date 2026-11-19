@@ -1,35 +1,37 @@
 ---
-title: '北大特区：三十年の都市計画と大学街の生活実験'
-description: '1895年の隆恩埔古戦場から2026年の捷運（MRT）大学街へ――土地、美学、選択的アイデンティティに関する深層的百科事典。'
+title: '北大特区：30年の都市計画と大学街の生活実験'
+description: '1895年の隆恩埔古戦場から2026年のMRT大学城駅まで、土地、美学、そして選択的アイデンティティを巡る深い百科事典です。'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
-    三峽,
-    樹林,
-    台北大學,
-    藝術大道,
-    三鶯線,
-    明星學區,
-    建築美學,
-    軌道經濟,
-    仕紳化,
-    選擇性認同,
-    迎尪公,
-    遶境,
-    李梅樹,
+    '三峡',
+    '樹林',
+    '台北大学',
+    '芸術大道',
+    '三鶯線',
+    'スター学区',
+    '建築美学',
+    '鉄道経済',
+    'ジェントリフィケーション',
+    '選択的アイデンティティ',
+    '迎尪公',
+    '巡行',
+    '李梅樹',
   ]
-readingTime: 18
+subcategory: '城市與人文地理'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-05-09T14:29:09+08:00'
+translatedAt: '2026-11-19T00:02:24.958638+00:00'
 ---
 
 > **30秒概要：**
@@ -164,9 +166,10 @@ translatedAt: '2026-05-09T14:29:09+08:00'
 
 ## 関連記事
 
-- [台湾都市発展と都市・農村格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) ― 北大特区を台湾の再開発地区と都市拡大の長期的な文脈に位置づけます。
-- [林口新市鎮](/ja/geography/linkou-new-town) ― 同様に「ゴーストタウン」と呼ばれた新市鎮がいかに成熟したかを比較します。
-- [三峡茶](/ja/food/sanxia-tea) ― 三峡旧市街地と地方産業の文化的底層についてさらに読みます。
+- [台湾の住宅価格、住宅ローン、および青年安居住宅ローン](/housing/) — 特集ページ：再開発地区以外の全体像、各市の住宅ローン負担率と住宅価格指数について。
+- [台湾の都市発展と都市・農村格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) — 北大特区を、台湾の再開発地区および都市拡大という長期的な文脈に置いて解説。
+- [林口新市鎮](/ja/geography/linkou-new-town) — かつて同様に「ゴーストタウン」と呼ばれた新市鎮が、どのように成熟していったかの比較。
+- [三峡茶](/ja/food/sanxia-tea) — 三峡旧市街と地域産業の文化的背景に関する補足。
 
 ## 参考文献
 

@@ -2,18 +2,20 @@
 title: '方序中：屏東の眷村から三金式典のビジュアル演出者へ'
 description: '究方社創設者・方序中は、1978年に屏東県東港鎮の共和新村に生まれた。私立復興商工美工科、国立台湾芸術大学工芸デザイン学科金工組夜間部出身。2013年に究方社を設立し、2016年より金曲奨・金鐘奨・金馬奨の三金式典のメインビジュアルを手がけ、金曲奨最優秀装幀デザイン賞に7度ノミネートされた。眷村の幼少期に培った物質感覚から三金式典の現代的ナラティブへ、彼はビジュアルによって台湾の記憶と時代を並置する。'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags: ['デザイナー', 'ビジュアルアイデンティティ', '金曲奨', '金馬奨', '究方社']
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-18T23:36:00.601818+00:00'
 ---
 
 # 方序中：屏東の眷村出身者が三金式典を台湾の記憶に変えた
@@ -94,21 +96,21 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 この地域への参画は、彼の個人メディアの表現にも反映されている。インタビュー、ドキュメンタリーにおいて、彼は屏東東港、共和新村、幼少期の母親、眷村の隣人たちに何度も言及し、私的な記憶をパブリックなナラティブに変換している。屏東の若い世代にとって、方序中の存在そのものが「屏東出身でも台湾のデザイン界の頂点に立てる」という具体的な証明となっている。
 
-## 参考資料
+## 参考文献
 
-[^1]: [方序中 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — 方序中の経歴、学歴、作品年表。1978年屏東東港共和新村出身、復興商工、台藝大金工組夜間部の記録を含む。
+[^1]: [方序中 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — 方序中の生涯、学歴、および作品年表。1978年に屏東県東港の共和新村出身であること、復興商工、台湾芸術大学金工組夜間部での記録を含む。
 
-[^2]: [究方社 About](https://joefangstudio.com/?page_id=2) — 究方社の公式紹介。スタジオ設立時期（2013年）と業務範囲を含む。
+[^2]: [究方社 About](https://joefangstudio.com/?page_id=2) — 究方社の公式紹介。スタジオの設立時期（2013年）および業務範囲を含む。
 
-[^3]: [鏡週刊：三金式典ブランド経営 方序中デザインによるメインビジュアルの活性化](https://www.mirrormedia.mg/story/20190125insight001/) — 三金式典メインビジュアルの協業経緯と陳鎮川による招きの経緯。
+[^3]: [鏡週刊：三つの金賞典礼におけるブランド経営、方序中がデザインでメインビジュアルを活性化](https://www.mirrormedia.mg/story/20190125insight001/) — 三つの金賞典礼（金曲奨、金馬奨、金像奨）のメインビジュアルにおける協力の経緯と、陳鎮川による依頼のプロセス。
 
-[^4]: [金馬奨公式サイト：第55回メインビジュアル](https://www.goldenhorse.org.tw/) — 2018年 金馬55「配角」メインビジュアルのコンセプト説明。
+[^4]: [金馬奨公式：第55回メインビジュアル](https://www.goldenhorse.org.tw/) — 2018年 金馬奨 第55回「配角」メインビジュアルのコンセプト説明。
 
-[^5]: [文化部影視及流行音樂産業局 — 金曲奨歴代ノミネート](https://www.bamid.gov.tw/) — 方序中の金曲奨最優秀装幀デザイン賞ノミネート記録。
+[^5]: [文化部影視及流行音楽産業局 — 金曲奨歴代ノミネート](https://www.bamid.gov.tw/) — 方序中の歴代金曲奨ベストブックデザイン部門におけるノミネート記録。
 
-[^6]: [方序中、屏東の印象を覆し想像力と期待を付与する — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — 方序中による屏東東港の眷村での幼少期、小花計画、デザインの脈絡についての語り。
+[^6]: [方序中、屏東の印象を覆し想像力と期待を与える — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — 方序中が語る屏東県東港の眷村での幼少期、小花計画、およびデザインの文脈。
 
-[^7]: [デザイナーと彼らのスタジオ — Joe Fang Studio 究方社](http://brandingdesign.nccu.tilda.ws/fdwf3) — 政治大学ブランドデザインプロジェクトのインタビュー記録。究方社の仕事の進め方と三金式典の受託経緯を含む。
+[^7]: [デザイナーとそのスタジオ — Joe Fang Studio 究方社](http://brandingdesign.nccu.tilda.ws/fdwf3) — 政大ブランドデザインプロジェクトのインタビュー記録。究方社のワークフローと三つの金賞典礼を受注するまでの経緯を含む。
 
 ## 関連記事
 

@@ -29,16 +29,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-28T19:24:14+08:00'
+translatedAt: '2026-11-19T00:54:07.845379+00:00'
 ---
 
 # タングステン：台湾には鉱山がないのに、世界中が欲しがる粉末を精製している——その立ち位置は想像以上に脆い
@@ -200,11 +206,12 @@ EUの『重要原材料法』はすでにタングステンを17の戦略原材�
 
 ## 延伸閱讀
 
-- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — チップ内のタングステンの位置、この50年の材料革命長河の一小節に属する
-- [台湾企業：TSMC](/ja/economy/tsmc) — 屏東で精製されたタングステン酸アンモニウムが最終的にどこへ流れるか
-- [台湾の対外貿易とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 台湾が他人の鎖の上で同時にノードかつ欠口である長期的立場
-- [台湾の電力と半導体](/ja/technology/taiwan-electricity-and-semiconductors) — 島内で足りないのに護国神山を支えるもう一つの資源
-- [台湾ロボット産業](/ja/technology/taiwan-robotics-industry) — 大肚山精密機械集落の次の駅
+- [サプライチェーンマップ](/industry/supply-chain-map/) — 半導体、AIサーバー、タングステンの3つのチェーン、一環ずつ見て台湾にある企業と海外依存の環を確認
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — チップ内でのタングステンの位置、この50年の材料革命の長い流れの一小節
+- [台湾企業：TSMC](/ja/economy/tsmc) — 屏東で精製されたタングステン酸ナトリウムは最終的にどこへ流れるか
+- [台湾の対外貿易とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 他人のチェーン上で同時にノードかつ欠口である台湾の長期的立場
+- [台湾の電力と半導体](/ja/technology/taiwan-electricity-and-semiconductors) — 島内で不足しながらも護国神山を支えるもう一つの資源
+- [台湾ロボット産業](/ja/technology/taiwan-robotics-industry) — 大肚山精密機械クラスターの次のステージ
 
 ## 画像出典
 

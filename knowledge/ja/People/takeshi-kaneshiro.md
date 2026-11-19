@@ -2,19 +2,21 @@
 title: '金城武：誰にも気づかれない「一般人」から、世界に忘れられることだけを望むアジアのトップスターへ'
 description: '2025年の街頭インタビュー報道は、彼を「一般人」と表示しました。それはおそらく、金城武が最も望んでいた瞬間でした。17歳でバイクを買うために広告に出演してから、台湾・日本・香港をまたぐ国際的大スターになるまで、彼は常に芸能界の頂点で「消える」練習を続けてきました。'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '電影與戲劇'
 tags: ['金城武', '台湾映画', 'エバー航空', '王家衛', '隠居', '鬼武者', '太平輪']
-readingTime: 15
+subcategory: '電影與戲劇'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-06-20T00:37:14+08:00'
+translatedAt: '2026-11-18T23:45:27.213814+00:00'
 ---
 
 > **30秒でわかる概要：**

@@ -2,18 +2,20 @@
 title: '賴聲川：表演ワークショップと烏鎮演劇祭の両岸劇場架橋者'
 description: '賴聲川 1954/10/25 アメリカ・ワシントンD.C.にて出生。父・頼家球は外交官。UC Berkeley 演劇芸術博士（1983年取得）。1984年、妻・丁乃竺、李立群、李国修らとともに表演工作坊を共同設立。1986年『暗恋桃花源』初演、1992年映画化（林青霞主演）。2007年第11回国家文芸賞受賞（二度受賞）。2013年5月、陳向宏、黄磊、孟京輝とともに烏鎮演劇祭を共同設立。両岸で最も影響力のある華語演劇祭の一つ。2015年上海上劇場開館。BBCにより「現代最も優れた中国語劇作家」と評される。'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags: ['賴声川', '演劇', '表演工作坊', '暗恋桃花源', '演出家', '烏鎮演劇祭']
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴聲川.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:171a521ab055d1cf'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:c47b590333d1a690'
 sourceBodyHash: 'sha256:eb36a190f4b7ada8'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-18T23:53:04.693582+00:00'
 ---
 
 # 賴声川：表演ワークショップと烏鎮演劇祭の両岸劇場架橋者
@@ -90,21 +92,21 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 **賴声川は国家文芸賞を二度受賞しており、初めての受賞は2007年の第11回**です。これは40年にわたる演劇活動における卓越した貢献を表彰するものでした。彼はかつて「演劇は鏡であり、時代の精神を映し出す」と語っています。彼の作品は台湾社会が戒厳令から解嚴へと移行する文化的変遷を記録するものであると同時に、華語文化全体の座標の一つでもあります。BBCは彼を「現代最も優れた中国語劇作家」と評し、『China Daily』は「アジアを代表する劇作家・演出家」と称しています。[^7]
 
-## 参考文献
+## 参考資料
 
-[^1]: [賴声川 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — 賴声川の生涯、1954/10/25生まれ、父頼家球、UC Berkeley PhD 1983、烏鎮演劇祭2013年共同設立の詳細記録。参照：[表演工作坊：賴声川 Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/)。
+[^1]: [ライ・シェンチュアン — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — ライ・シェンチュアンの生涯、1954年10月25日生まれ、父・頼家球、UCバークレー博士号取得1983年、烏鎮演劇祭2013年共同創設の完全な記録。詳細は[パフォーマンス・ワークショップ：ライ・シェンチュアン Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/)を参照。
 
-[^2]: [国立台北芸術大学演劇学院](https://theatre.tnua.edu.tw/) — 北藝大の創設沿革および賴声川の勤務背景資料。
+[^2]: [国立台北芸術大学戯劇学院](https://theatre.tnua.edu.tw/) — 北芸大の建校沿革およびライ・シェンチュアンの任教背景資料。
 
-[^3]: [表演工作坊公式ウェブサイト](http://www.pw-theatre.com/) — 劇団の歴史、設立経緯および作品年表。
+[^3]: [パフォーマンス・ワークショップ公式サイト](http://www.pw-theatre.com/) — 劇団の歴史、創設経緯、作品年表。
 
-[^4]: [『暗恋桃花源』劇目紹介 — 表演工作坊](http://www.pw-theatre.com/) — 初演年、上演回数および脚本構造の解説。
+[^4]: [『暗戀桃花源』劇目紹介 — パフォーマンス・ワークショップ](http://www.pw-theatre.com/) — 初演年、上演回数、脚本構成の説明。
 
-[^5]: [金曲賞/文化部 — 台湾パフォーミングアーツデータベース](https://pacsnet.org.tw/) — 1990年代の台湾演劇発展と賴声川作品年表。
+[^5]: [金曲賞/文化部 — 台湾表演芸術データベース](https://pacsnet.org.tw/) — 1990年代の台湾演劇発展とライ・シェンチュアン作品年表。
 
-[^6]: [『宝島一村』 — 表演工作坊](http://www.pw-theatre.com/) — 制作背景、両岸での上演記録。
+[^6]: [『寶島一村』 — パフォーマンス・ワークショップ](http://www.pw-theatre.com/) — 制作背景、両岸での上演記録。
 
-[^7]: [賴声川 国家文芸賞受賞資料 — 国家文化芸術基金会](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — 賴声川の国家文芸賞受賞に関する詳細資料。参照：[台湾光華雑誌：夢の中の夢──賴声川の演劇人生](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) 第11回受賞報道。
+[^7]: [ライ・シェンチュアン 国家文芸賞受賞資料 — 国家文化芸術基金会](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — ライ・シェンチュアンが国家文芸賞を受賞した完全な資料。詳細は[台湾光華雑誌：夢の如く──ライ・シェンチュアンの劇場人生](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) 第11回受賞報道を参照。
 
 ## 関連リンク
 

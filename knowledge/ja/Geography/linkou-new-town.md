@@ -1,7 +1,8 @@
 ---
 title: '林口新市鎮：「ゴーストタウン」から北台湾新興都市へ、変容と課題'
 description: '1970年代、台湾政府は台北の人口圧力を緩和するため、林口台地に「田園都市」新市鎮を計画しました。数十年の発展を経て、かつて交通の不便や生活機能の不足から「ゴーストタウン」と揶揄されたこの地域は、2017年の空港MRT開通後に人口が急増し、産業が高度化し、北台湾で最も若く活気ある都市圏の一つとなりました。しかし、交通渋滞と湿冷な気候など、まだ克服すべき課題も残っています。'
-category: Geography
+date: 2026-04-29
+category: 'Geography'
 tags:
   [
     '林口新市鎮',
@@ -19,17 +20,19 @@ tags:
     '微気候',
     'カフェ文化',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-04-29
-readingTime: 15
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/林口新市鎮.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdae42ffe0d36150'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:150fe6a0199d610e'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
-translatedAt: '2026-05-01T14:48:26+08:00'
-featured: false
+translatedAt: '2026-11-19T00:14:24.228804+00:00'
 ---
 
 > **30秒概覧：** かつて「ゴーストタウン」と揶揄された林口新市鎮は、この半世紀で茶畑・煉瓦工場からAIスマートパークへと大きく変容しました。空港MRTの開通により、新北市で最も若いこの区域は5年間で人口が1万4000人以上増加し、北台湾の移住先として人気を集めています。しかし、国道の渋滞と湿冷な気候は、その発展における無視できない課題として残っています。
@@ -80,11 +83,12 @@ featured: false
 
 将来を見据えると、林口新市鎮は産業の高度化とインフラ整備を通じてより多くの人材と資源を引きつけ続けるでしょう。例えば2025年に台湾初の国家档案館が進出し、林口に豊かな人文知識の素養をもたらします [^1]。交通の継続的な最適化、居住品質の向上、そして急速な発展の中で独特の町の魅力を保つことが、林口新市鎮の未来の発展における重要な課題となるでしょう。
 
-## 延伸読書
+## 関連記事
 
-- [台湾の都市発展と地域格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) — 区域計画の観点から林口新市鎮の発展曲線を理解する。
-- [北大特区](/ja/geography/beida-special-district-sanxia) — 交通・学区・不動産が共同で推進した別の新興再開発区との比較。
-- [台湾の交通システム](/ja/lifestyle/transportation-system) — 空港MRT・国道・都市通勤が新市鎮をどう形成するかを延伸して読む。
+- [台湾の住宅価格、住宅ローン、青年安居](/housing/) — 特集ページ：各県市の住宅価格所得比と住宅ローン負担率を示し、新市鎮がどの需要層を受け皿としているかを対照しています。
+- [台湾の都市発展と都市・農村格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) — 地域計画の観点から林口新市鎮の発展曲線を理解できます。
+- [北大特区](/ja/geography/beida-special-district-sanxia) — 交通、学区、住宅市場が共同で推進するもう一つの新興区画整理区と対比できます。
+- [台湾の交通システム](/ja/lifestyle/transportation-system) — 空港鉄道、国道、都市通勤がいかに新市鎮を形作ったかをさらにお読みいただけます。
 
 ## 参考資料
 
