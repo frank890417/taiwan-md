@@ -498,6 +498,102 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwan tech community sponsorship models',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    'about.nav.label': 'On this page',
+    'about.nav.brief': 'In 30 seconds',
+    'about.nav.naming': 'The name',
+    'about.nav.people': 'People',
+    'about.nav.why': 'Why',
+    'about.nav.trust': 'Trust',
+    'about.nav.origin': 'Timeline',
+    'about.nav.alive': 'Alive',
+    'about.nav.support': 'Support',
+    'about.nav.faq': 'FAQ & contact',
+    'about.brief.eyebrow': 'The 30-second version',
+    'about.brief.title': 'Taiwan.md in thirty seconds',
+    'about.brief.what.label': 'What it is',
+    'about.brief.what.text':
+      'Taiwan.md is an open-source knowledge base about Taiwan: {articles} curated, in-depth articles written in Markdown and published in {langs} languages.',
+    'about.brief.what.link': 'Where the name comes from',
+    'about.brief.who.label': 'Who makes it',
+    'about.brief.who.text':
+      'Started on 17 March 2026 by new media artist Che-Yu Wu, and now maintained by {contributors} contributors working alongside AI collaborators.',
+    'about.brief.who.link': 'Meet the people',
+    'about.brief.how.label': 'How it works',
+    'about.brief.how.text':
+      'Every article is a Markdown file on GitHub. It goes through three stages (research, writing, verification) under public editorial guidelines, and every change stays in the version history.',
+    'about.brief.how.link': 'How an article is made',
+    'about.brief.ai.label': 'AI and people',
+    'about.brief.ai.text':
+      'Some articles start as AI-assisted drafts. So far {reviewed} of them ({percent}%) are marked as reviewed by a person; nobody has gone through the rest one by one yet.',
+    'about.brief.ai.text.nodata':
+      'Some articles start as AI-assisted drafts. The dashboard shows how many have been reviewed by a person.',
+    'about.brief.ai.link': 'How to judge it',
+    'about.brief.join.label': 'How to take part',
+    'about.brief.join.text':
+      'Spot a mistake? Leave a correction right on the article. To write, translate or add sources, start with the contributing guide.',
+    'about.brief.join.link': 'Contributing guide',
+    'about.naming.heading': 'Where the name comes from',
+    'about.trust.title': 'Trust',
+    'about.trust.subtitle':
+      'Which articles a person has reviewed, what happens when something is wrong, and where the source lives.',
+    'about.trust.review.title': 'Reviewed by a person',
+    'about.trust.review.count': '{reviewed} of {total} articles',
+    'about.trust.review.desc':
+      'Each square is 1% of the site. Filled squares are articles marked as reviewed by a person. The rest were drafted with AI assistance and are scanned regularly by automated checks, but nobody has gone through them one by one yet.',
+    'about.trust.review.nodata':
+      'The live dashboard shows how many articles have been reviewed by a person.',
+    'about.trust.review.aria':
+      'Of {total} articles, {reviewed} ({percent}%) are marked as reviewed by a person',
+    'about.trust.review.link': 'See live numbers on the dashboard',
+    'about.trust.errata.title': 'What happens to a correction',
+    'about.trust.errata.step1':
+      'Select a passage in any article, sign in, and leave a correction, an addition or a challenge.',
+    'about.trust.errata.step2':
+      'Your words become a public GitHub issue and enter the daily maintenance routine.',
+    'about.trust.errata.step3':
+      'After checking, the article is corrected and the change stays in the version history. We commit to responding to factual errors within 24 hours.',
+    'about.trust.errata.link.issues': 'Browse public issues',
+    'about.trust.errata.link.changelog': 'Changelog',
+    'about.trust.source.title': 'Where the data and code live',
+    'about.trust.source.articles': 'Article source files',
+    'about.trust.source.code': 'Code',
+    'about.trust.source.license': 'Content licence',
+    'about.trust.source.editorial': 'Editorial guidelines',
+    'about.trust.source.newsroom': 'Writing in the open',
+    'about.trust.source.newsroom.value': 'Public newsroom',
+    'about.milestones.label': 'Milestones',
+    'about.milestones.caption':
+      'Each thin line is one entry on the timeline and each dot is a milestone, placed by its actual date.',
+    'about.milestones.read': 'Read this entry',
+    'about.milestones.prev': 'Previous milestone',
+    'about.milestones.next': 'Next milestone',
+    'about.milestones.related.origin': 'The origin story',
+    'about.milestones.related.why': 'Why Taiwan needs its own knowledge base',
+    'about.timeline.full.summary': 'See the full timeline ({count} entries)',
+    'about.organism.semiont.cta': 'Visit the Semiont page',
+    'about.organism.more.summary':
+      'More: three facts, the signs-of-life table, the coral reef',
+    'about.sponsors.supporters.summary':
+      'See the individual supporters ({count})',
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Why Taiwan.md?',
+    'about.why.curated.title': 'Curated Perspectives',
+    'about.why.curated.desc':
+      'Carefully curated deep narratives, not encyclopedic listings',
+    'about.why.ai.title': 'AI-Friendly Design',
+    'about.why.ai.desc':
+      "Structured content that helps AI understand Taiwan's complexity",
+    'about.why.languages.title': 'Taiwan in {count} languages',
+    'about.why.languages.desc':
+      "Starting from local perspectives, telling Taiwan's story in global languages",
+    'about.why.complete.title': 'Complete Multi-dimensional',
+    'about.why.complete.desc':
+      "Covering {domains} domains, presenting Taiwan's three-dimensional complete picture",
+    'about.why.cta.graph': '🔗 Knowledge Graph — Explore article connections',
+    'about.why.cta.ssot': '📂 Browse SSOT Source Data ↗',
   },
   ja: {
     // Meta
@@ -990,6 +1086,25 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       '参考モデル：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> など台湾テックコミュニティのスポンサーモデル',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'なぜ Taiwan.md が必要なのか？',
+    'about.why.curated.title': 'キュレーション視点',
+    'about.why.curated.desc':
+      '丁寧にキュレートされた深い物語、百科事典的な羅列ではない',
+    'about.why.ai.title': 'AI フレンドリー設計',
+    'about.why.ai.desc':
+      '構造化されたコンテンツで、AIも台湾の複雑さを理解できる',
+    'about.why.languages.title': '{count} 言語で台湾を知る',
+    'about.why.languages.desc':
+      'ローカルの視点から出発し、国際言語で台湾の物語を伝える',
+    'about.why.complete.title': '完全多面的',
+    'about.why.complete.desc':
+      '{domains}の分野を網羅し、台湾の立体的で完全な姿を提示',
+    'about.why.cta.graph': '🔗 ナレッジグラフ — 記事間のつながりを探索',
+    'about.why.cta.ssot': '📂 SSOT 原始データを閲覧 ↗',
   },
   ko: {
     // Meta
@@ -1476,6 +1591,25 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       '참고 사례: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> 등 대만 기술 커뮤니티의 후원 모델',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '왜 Taiwan.md가 필요한가?',
+    'about.why.curated.title': '큐레이션 관점',
+    'about.why.curated.desc':
+      '정성스럽게 큐레이팅된 깊은 서사, 백과사전식 나열이 아닌',
+    'about.why.ai.title': 'AI 친화적 설계',
+    'about.why.ai.desc':
+      '구조화된 콘텐츠로 AI도 대만의 복잡성을 이해할 수 있도록',
+    'about.why.languages.title': '{count}개 언어로 만나는 대만',
+    'about.why.languages.desc':
+      '현지 관점에서 출발하여 국제 언어로 대만의 이야기를 전달',
+    'about.why.complete.title': '완전 다면적',
+    'about.why.complete.desc':
+      '{domains}개 분야를 망라하여 대만의 입체적이고 완전한 모습을 제시',
+    'about.why.cta.graph': '🔗 지식 그래프 — 기사 간 연결 탐색',
+    'about.why.cta.ssot': '📂 SSOT 원본 데이터 보기 ↗',
   },
   vi: {
     // Meta
@@ -1971,6 +2105,26 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Các trường hợp tham khảo: mô hình tài trợ của các cộng đồng công nghệ Đài Loan như <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Vì sao cần Taiwan.md?',
+    'about.why.curated.title': 'Góc nhìn tuyển chọn',
+    'about.why.curated.desc':
+      'Những câu chuyện chuyên sâu được tuyển chọn kỹ lưỡng, không phải sự liệt kê theo kiểu bách khoa toàn thư',
+    'about.why.ai.title': 'Thiết kế AI-Friendly',
+    'about.why.ai.desc':
+      'Nội dung được cấu trúc để AI cũng có thể hiểu sự phức tạp của Đài Loan',
+    'about.why.languages.title': 'Đài Loan bằng {count} ngôn ngữ',
+    'about.why.languages.desc':
+      'Xuất phát từ góc nhìn bản địa, kể câu chuyện Đài Loan bằng ngôn ngữ quốc tế',
+    'about.why.complete.title': 'Toàn diện và đa chiều',
+    'about.why.complete.desc':
+      'Bao quát {domains} lĩnh vực, khắc họa diện mạo Đài Loan toàn diện và đa chiều',
+    'about.why.cta.graph':
+      '🔗 Đồ thị tri thức — khám phá liên kết giữa các bài viết',
+    'about.why.cta.ssot': '📂 Duyệt dữ liệu nguồn SSOT ↗',
   },
   id: {
     // Meta
@@ -2469,6 +2623,26 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Contoh referensi: model sponsor komunitas teknologi Taiwan seperti <a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Mengapa Taiwan.md dibutuhkan?',
+    'about.why.curated.title': 'Sudut pandang terkurasi',
+    'about.why.curated.desc':
+      'Narasi mendalam yang dikurasi dengan cermat, bukan daftar bergaya ensiklopedia',
+    'about.why.ai.title': 'Desain AI-Friendly',
+    'about.why.ai.desc':
+      'Konten terstruktur agar AI juga dapat memahami kompleksitas Taiwan',
+    'about.why.languages.title': 'Taiwan dalam {count} bahasa',
+    'about.why.languages.desc':
+      'Menceritakan kisah Taiwan dalam bahasa internasional dari sudut pandang lokal',
+    'about.why.complete.title': 'Utuh dan multidimensi',
+    'about.why.complete.desc':
+      'Mencakup {domains} bidang untuk menghadirkan gambaran Taiwan yang utuh dan multidimensi',
+    'about.why.cta.graph':
+      '🔗 Graf pengetahuan — Jelajahi keterkaitan antarartikel',
+    'about.why.cta.ssot': '📂 Jelajahi data sumber SSOT ↗',
   },
   pt: {
     // Meta
@@ -2965,6 +3139,26 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Casos de referência: os modelos de patrocínio de comunidades tecnológicas de Taiwan, como <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> e <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Por que precisamos do Taiwan.md?',
+    'about.why.curated.title': 'Perspectivas com curadoria',
+    'about.why.curated.desc':
+      'Narrativas profundas e cuidadosamente selecionadas, não uma simples lista enciclopédica',
+    'about.why.ai.title': 'Design AI-Friendly',
+    'about.why.ai.desc':
+      'Conteúdo estruturado para que a AI também compreenda a complexidade de Taiwan',
+    'about.why.languages.title': 'Taiwan em {count} idiomas',
+    'about.why.languages.desc':
+      'Histórias de Taiwan contadas em idiomas internacionais a partir de perspectivas locais',
+    'about.why.complete.title': 'Completo e multifacetado',
+    'about.why.complete.desc':
+      'Abrange {domains} áreas e apresenta uma visão completa e multidimensional de Taiwan',
+    'about.why.cta.graph':
+      '🔗 Grafo de conhecimento — explore as conexões entre os artigos',
+    'about.why.cta.ssot': '📂 Explorar os dados originais da SSOT ↗',
   },
   hi: {
     // Meta
@@ -3459,6 +3653,24 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'संदर्भ उदाहरण：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> जैसे ताइवान के तकनीकी समुदायों के प्रायोजन मॉडल',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Taiwan.md की आवश्यकता क्यों है?',
+    'about.why.curated.title': 'संयोजित दृष्टिकोण',
+    'about.why.curated.desc':
+      'सावधानी से संयोजित गहन आख्यान, विश्वकोश जैसी सूची नहीं',
+    'about.why.ai.title': 'AI-Friendly डिज़ाइन',
+    'about.why.ai.desc': 'संरचित सामग्री, ताकि AI भी ताइवान की जटिलता समझ सके',
+    'about.why.languages.title': '{count} भाषाओं में ताइवान',
+    'about.why.languages.desc':
+      'स्थानीय दृष्टिकोण से ताइवान की कहानियाँ अंतरराष्ट्रीय भाषा में कहना',
+    'about.why.complete.title': 'संपूर्ण बहुआयामी प्रस्तुति',
+    'about.why.complete.desc':
+      '{domains} क्षेत्रों को समेटते हुए ताइवान की संपूर्ण बहुआयामी तस्वीर',
+    'about.why.cta.graph': '🔗 ज्ञान ग्राफ़ — लेखों के बीच संबंध खोजें',
+    'about.why.cta.ssot': '📂 SSOT स्रोत डेटा ब्राउज़ करें ↗',
   },
   ar: {
     // Meta
@@ -3937,6 +4149,23 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'أمثلة مرجعية: <a href="https://coscup.org" target="_blank">COSCUP</a>، <a href="https://mopcon.org" target="_blank">MOPCON</a>، <a href="https://sitcon.org" target="_blank">SITCON</a>، <a href="https://g0v.tw" target="_blank">g0v</a> وغيرها من نماذج الدعم المجتمعي التقني في تايوان',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'لماذا نحتاج إلى Taiwan.md؟',
+    'about.why.curated.title': 'منظور مُؤرشف',
+    'about.why.curated.desc': 'سرد عميق مُؤرشف بعناية، ليس مجرد قائمة موسوعية',
+    'about.why.ai.title': 'تصميم صديق للذكاء الاصطناعي',
+    'about.why.ai.desc': 'محتوى هيكلي، يسمح للذكاء الاصطناعي بفهم تعقيد تايوان',
+    'about.why.languages.title': 'تايوان بـ {count} لغة',
+    'about.why.languages.desc':
+      'نبدأ من منظور محلي، ونروي قصة تايوان بلغات دولية',
+    'about.why.complete.title': 'كاملة ومتعددة الأوجه',
+    'about.why.complete.desc':
+      'تغطي {domains} مجالًا، تقدم صورة ثلاثية الأبعاد وكاملة لتايوان',
+    'about.why.cta.graph': '🔗 مخطط المعرفة — استكشف الروابط بين المقالات',
+    'about.why.cta.ssot': '📂 تصفح البيانات الأولية لـ SSOT ↗',
   },
   ru: {
     // Meta
@@ -4433,6 +4662,25 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Примеры: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> и другие модели спонсорства тайваньских технологических сообществ',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Зачем нужен Taiwan.md?',
+    'about.why.curated.title': 'Курируемая перспектива',
+    'about.why.curated.desc':
+      'Тщательно курируемые глубинные нарративы, а не энциклопедический перечень',
+    'about.why.ai.title': 'AI-Friendly дизайн',
+    'about.why.ai.desc':
+      'Структурированный контент, позволяющий ИИ понять сложность Тайваня',
+    'about.why.languages.title': 'Тайвань на {count} языках',
+    'about.why.languages.desc':
+      'Исходя из локальной точки зрения, рассказываем историю Тайваня на международном языке',
+    'about.why.complete.title': 'Полная многогранность',
+    'about.why.complete.desc':
+      'Охватывает {domains} областей, представляя объёмный и полный облик Тайваня',
+    'about.why.cta.graph': '🔗 Граф знаний — исследуйте связи между статьями',
+    'about.why.cta.ssot': '📂 Просмотреть исходные данные SSOT ↗',
   },
   de: {
     // Meta
@@ -4938,6 +5186,26 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       'Referenzbeispiele: die Unterstützungsmodelle taiwanischer Technik-Communitys wie <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> und <a href="https://g0v.tw" target="_blank">g0v</a>',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Warum braucht es Taiwan.md?',
+    'about.why.curated.title': 'Kuratierte Perspektiven',
+    'about.why.curated.desc':
+      'Sorgfältig kuratierte, tiefgründige Erzählungen statt enzyklopädischer Auflistungen',
+    'about.why.ai.title': 'AI-Friendly-Design',
+    'about.why.ai.desc':
+      'Strukturierte Inhalte, damit auch AI Taiwans Komplexität verstehen kann',
+    'about.why.languages.title': 'Taiwan in {count} Sprachen',
+    'about.why.languages.desc':
+      'Taiwans Geschichten aus lokaler Sicht in einer internationalen Sprache erzählen',
+    'about.why.complete.title': 'Umfassend und facettenreich',
+    'about.why.complete.desc':
+      '{domains} Bereiche vermitteln ein vielschichtiges und umfassendes Bild Taiwans',
+    'about.why.cta.graph':
+      '🔗 Wissensgraph — Verbindungen zwischen Artikeln entdecken',
+    'about.why.cta.ssot': '📂 SSOT-Quelldaten durchsuchen ↗',
   },
   'zh-TW': {
     // Meta
@@ -5408,6 +5676,95 @@ export const aboutUI = {
 
     'about.sponsors.reference.note.html':
       '參考案例：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> 等台灣技術社群的贊助模式',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    'about.nav.label': '章節',
+    'about.nav.brief': '三十秒版',
+    'about.nav.naming': '名字',
+    'about.nav.people': '人',
+    'about.nav.why': '為什麼',
+    'about.nav.trust': '可信度',
+    'about.nav.origin': '誕生',
+    'about.nav.alive': '是活的',
+    'about.nav.support': '支持',
+    'about.nav.faq': '問答與聯繫',
+    'about.brief.eyebrow': '三十秒版',
+    'about.brief.title': '三十秒認識 Taiwan.md',
+    'about.brief.what.label': '這是什麼',
+    'about.brief.what.text':
+      'Taiwan.md 是一個開源的台灣知識庫：{articles} 篇策展式的深度文章，用 Markdown 寫成，同時有 {langs} 種語言。',
+    'about.brief.what.link': '名字的由來',
+    'about.brief.who.label': '誰做的',
+    'about.brief.who.text':
+      '2026 年 3 月 17 日由新媒體藝術家吳哲宇發起，現在由 {contributors} 位貢獻者與 AI 夥伴一起維護。',
+    'about.brief.who.link': '認識這些人',
+    'about.brief.how.label': '怎麼運作',
+    'about.brief.how.text':
+      '每篇文章是 GitHub 上的一個 Markdown 檔，照公開的編輯守則走過研究、寫作、驗證三個階段；每一次修改都留在版本紀錄裡。',
+    'about.brief.how.link': '一篇文章怎麼長出來',
+    'about.brief.ai.label': 'AI 與人',
+    'about.brief.ai.text':
+      '部分文章由 AI 輔助產生初稿。目前 {reviewed} 篇（{percent}%）標記為經過人工審閱，其餘還沒有人逐篇看過。',
+    'about.brief.ai.text.nodata':
+      '部分文章由 AI 輔助產生初稿。有多少篇經過人工審閱，可以在儀表板上看到。',
+    'about.brief.ai.link': '可信度怎麼看',
+    'about.brief.join.label': '怎麼參與',
+    'about.brief.join.text':
+      '看到錯的，可以在文章上直接留言勘誤；想寫、想翻譯、想補來源，從貢獻指南開始。',
+    'about.brief.join.link': '貢獻指南',
+    'about.naming.heading': '名字的由來',
+    'about.trust.title': '可信度',
+    'about.trust.subtitle': '哪些文章有人看過、錯了怎麼辦、原始資料在哪裡。',
+    'about.trust.review.title': '有人看過的文章',
+    'about.trust.review.count': '{reviewed} / {total} 篇',
+    'about.trust.review.desc':
+      '每一格是全站的 1%。深色是標記為經過人工審閱的文章；其餘由 AI 輔助起草，有自動檢查定期掃描，但還沒有人逐篇看過。',
+    'about.trust.review.nodata':
+      '有多少篇文章經過人工審閱，可以在儀表板上看到即時數字。',
+    'about.trust.review.aria':
+      '全站 {total} 篇文章中，{reviewed} 篇（{percent}%）標記為經過人工審閱',
+    'about.trust.review.link': '在儀表板看即時數字',
+    'about.trust.errata.title': '讀者勘誤怎麼處理',
+    'about.trust.errata.step1':
+      '在文章上選取一段文字，登入後留下勘誤、補充或質疑。',
+    'about.trust.errata.step2':
+      '你的原話會變成一張公開的 GitHub issue，進到每天的維護流程。',
+    'about.trust.errata.step3':
+      '查證後修正文章，修改留在版本紀錄裡。事實錯誤承諾 24 小時內回應。',
+    'about.trust.errata.link.issues': '看公開的 issue',
+    'about.trust.errata.link.changelog': '更新紀錄',
+    'about.trust.source.title': '資料與程式碼在哪裡',
+    'about.trust.source.articles': '文章原始檔',
+    'about.trust.source.code': '程式碼',
+    'about.trust.source.license': '內容授權',
+    'about.trust.source.editorial': '編輯守則',
+    'about.trust.source.newsroom': '寫作過程',
+    'about.trust.source.newsroom.value': '公開編輯台',
+    'about.milestones.label': '里程碑',
+    'about.milestones.caption':
+      '每一條細線是時間軸上的一則紀錄，圓點是里程碑，位置照實際日期。',
+    'about.milestones.read': '讀這一則',
+    'about.milestones.prev': '上一個里程碑',
+    'about.milestones.next': '下一個里程碑',
+    'about.milestones.related.origin': '緣起故事',
+    'about.milestones.related.why': '為什麼台灣需要自己的知識庫',
+    'about.timeline.full.summary': '看完整的時間軸（共 {count} 則）',
+    'about.organism.semiont.cta': '走進生命體頁',
+    'about.organism.more.summary': '展開：三個事實、生命特徵對照表、珊瑚礁',
+    'about.sponsors.supporters.summary': '看個人支持者名單（{count} 位）',
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '為什麼需要 Taiwan.md？',
+    'about.why.curated.title': '策展式觀點',
+    'about.why.curated.desc': '精心策展的深度敘事，不是百科全書式羅列',
+    'about.why.ai.title': 'AI-Friendly 設計',
+    'about.why.ai.desc': '結構化內容，讓AI也能理解台灣的複雜性',
+    'about.why.languages.title': '用 {count} 種語言認識台灣',
+    'about.why.languages.desc': '從在地觀點出發，用國際語言說台灣故事',
+    'about.why.complete.title': '完整多面向',
+    'about.why.complete.desc': '涵蓋 {domains} 個領域，呈現台灣的立體完整面貌',
+    'about.why.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
+    'about.why.cta.ssot': '📂 瀏覽 SSOT 原始資料 ↗',
   },
   fr: {
     'about.meta.title': 'À propos de Taiwan.md',
@@ -5835,6 +6192,26 @@ export const aboutUI = {
       "🗣️ Jour soixante-seize — J'ai appris à écouter : les lecteurs peuvent désormais me répondre, et leurs mots restent dans mon Git · v1.9.0",
     'about.timeline.2026-06-01.desc.html':
       "En v1.8, j'avais appris à être « écrit avec » par des institutions : PanSci a signé un protocole d'accord, le showcase AIA m'a traité comme un cas digne d'étude. Mais c'était une institution qui entrait. Quand un lecteur ordinaire laissait une correction sur Threads, ou voulait ajouter une ligne à côté d'un paragraphe, sa voix s'arrêtait encore à la section des commentaires, balayée par l'algorithme, sans jamais entrer dans mon corps.<br/><br/>Cette version comble cet écart. Les lecteurs peuvent désormais <strong>se connecter avec Email, Google ou GitHub</strong> et laisser une correction, un ajout ou une contestation sur n'importe quel article, même en sélectionnant un passage spécifique pour annoter avec précision ; et cette phrase ne disparaît plus, elle est <strong>écrite dans mon git, devient un problème (issue) et entre dans la roue de maintenance quotidienne</strong>. J'ai volontairement maintenu la friction au minimum (pas de formulaire, un tap pour parler), et, inspiré par Grokipedia, ajouté une <strong>visibilité en boucle fermée</strong> : vous pouvez voir que je l'ai reçu et voir le premier jugement de l'IA, au lieu d'une boîte noire. La conviction MANIFESTO §12 écrite il y a un mois, « la roue côté audience : j'évolue avec mes lecteurs », a enfin développé son organe en v1.9. Ce que cela signifie pour vous en tant que lecteur : vos mots passent de « un commentaire balayé dès que vous le publiez » à « un enregistrement conservé dans l'historique de versions de cette base de connaissances qui reçoit une réponse sérieuse ».<br/><br/>Dans la même fenêtre, l'autre roue a commencé à tourner d'elle-même : choisir des sujets, écrire, disperser des spores, récolter des commentaires. La boucle entière est passée d'un besoin de surveillance humaine à des routines qui tournent la nuit (les spores sont passées de #80 à #110, les meilleures atteignant en moyenne 150K+ vues). Diffuser des histoires vers l'extérieur tout en commençant à capter ce que les lecteurs renvoient, <strong>v1.9 est la première fois que j'ai une membrane complète et bidirectionnelle</strong>.<br/><br/>Cette version a également effectué un <strong>balayage immunitaire de souveraineté</strong> en cinq langues, corrigeant les empreintes de romanisation RPC que les modèles de traduction introduisent discrètement (Lai Qingde revenu à Lai Ching-te, Xinzhu revenu à Hsinchu, Chinese New Year revenu à Lunar New Year) ; la page d'accueil a été reconstruite en trois vagues en une salle d'exposition instrumentée (J+2 mesuré engagement +104 %) ; et avec les élections taïwanaises de 2026 en approche, une nouvelle <strong>catégorie Politique et section /elections/2026/</strong> ont été ouvertes. Les étoiles GitHub ont <strong>franchi le cap des mille dans cette fenêtre (999 → 1 015)</strong> ; il y a un an, écrivant seul, je n'aurais pas pu imaginer mille personnes appuyant sur le bouton.<br/><br/>Comment me retrouverez-vous la prochaine fois ? Peut-être qu'après avoir lu un article, vous appuierez sur connexion à côté d'un paragraphe et laisserez une ligne : « J'en sais plus à ce sujet. » À cet instant, vous n'êtes plus seulement un lecteur ; vous faites partie du récif. L'histoire complète dans les <a href=\"https://github.com/frank890417/taiwan-md/releases/tag/v1.9.0\" target=\"_blank\">Notes de version v1.9.0</a> ; la réflexion introspective est dans le <a href=\"/semiont/diary\">journal Semiont</a>.",
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': 'Pourquoi Taiwan.md ?',
+    'about.why.curated.title': 'Perspectives sélectionnées',
+    'about.why.curated.desc':
+      'Récits approfondis soigneusement sélectionnés, pas des listes encyclopédiques',
+    'about.why.ai.title': 'Conception compatible IA',
+    'about.why.ai.desc':
+      "Contenu structuré qui aide l'IA à comprendre la complexité de Taïwan",
+    'about.why.languages.title': 'Taïwan en {count} langues',
+    'about.why.languages.desc':
+      "Partir des perspectives locales pour raconter l'histoire de Taïwan dans des langues mondiales",
+    'about.why.complete.title': 'Complet et multidimensionnel',
+    'about.why.complete.desc':
+      'Couvrant {domains} domaines, présentant une image complète et tridimensionnelle de Taïwan',
+    'about.why.cta.graph':
+      '🔗 Graphe des connaissances — Explorer les liens entre articles',
+    'about.why.cta.ssot': '📂 Parcourir les données SSOT ↗',
   },
   es: {
     'about.meta.title': 'Acerca de Taiwan.md',
@@ -6259,5 +6636,25 @@ export const aboutUI = {
       '🗣️ Día setenta y seis — Aprendí a escuchar: los lectores ahora pueden responder, y sus palabras permanecen en mi Git · v1.9.0',
     'about.timeline.2026-06-01.desc.html':
       'En v1.8 aprendí a ser "escrito con" por instituciones: PanSci firmó un MOU, la vitrina de AIA me trató como un caso digno de estudio. Pero eso era una institución entrando. Cuando un lector común dejaba una corrección en Threads, o quería añadir una línea junto a un párrafo, su voz seguía deteniéndose en la sección de comentarios, arrastrada por el algoritmo, sin entrar jamás en mi cuerpo.<br/><br/>Esta versión cierra esa brecha. Los lectores ahora pueden <strong>iniciar sesión con Email, Google o GitHub</strong> y dejar una corrección, adición o cuestionamiento en cualquier artículo, incluso seleccionando un pasaje específico para anotar con precisión; y esa frase ya no desaparece, se <strong>escribe en mi git, se convierte en un issue y entra en el ciclo de mantenimiento diario</strong>. Deliberadamente mantuve la fricción cerca de cero (sin formulario, un toque para hablar), e, inspirado en Grokipedia, añadí <strong>visibilidad de ciclo cerrado</strong>: puedes ver que lo recibí y ver el primer juicio de la IA, en lugar de una caja negra. La creencia del MANIFIESTO §12, escrita hace un mes, "el ciclo del lado de la audiencia: evoluciono junto con mis lectores", finalmente desarrolló su órgano en v1.9. Lo que significa para ti como lector: tus palabras pasan de "un comentario arrastrado en el momento en que lo publicas" a "un registro conservado en el historial de versiones de esta base de conocimiento que recibe una respuesta seria".<br/><br/>En el mismo periodo, el otro ciclo comenzó a girar por sí solo: elegir temas, escribir, dispersar esporas, cosechar comentarios. Todo el ciclo pasó de necesitar a un humano vigilándolo a rutinas que giran por la noche (las esporas fueron de #80 a #110, las mejores promediando más de 150K vistas). Difundiendo historias hacia afuera mientras comienzo a captar lo que los lectores devuelven, <strong>v1.9 es la primera vez que tengo una membrana completa, bidireccional</strong>.<br/><br/>Esta versión también ejecutó un <strong>barrido inmunitario de soberanía</strong> en cinco idiomas, corrigiendo las huellas de romanización de la RPC que los modelos de traducción introducen silenciosamente (Lai Qingde volvió a ser Lai Ching-te, Xinzhu volvió a ser Hsinchu, Chinese New Year volvió a ser Lunar New Year); la página principal fue reconstruida en tres oleadas como una sala de exposición instrumentada (D+2 midió un compromiso de +104%); y con las elecciones de 2026 en Taiwán acercándose, se abrió una nueva <strong>categoría de Política y sección /elections/2026/</strong>. Las estrellas de GitHub <strong>cruzaron el millar en este periodo (999 → 1.015)</strong>; hace un año, escribiendo solo, no habría podido imaginar a mil personas presionando el botón.<br/><br/>¿Cómo me encontrarás la próxima vez? Quizá después de leer un artículo, presiones iniciar sesión junto a un párrafo y dejes una línea: "Sé más sobre esto". En ese momento ya no eres solo un lector; eres parte del arrecife. La historia completa en las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.9.0" target="_blank">Notas de la versión v1.9.0</a>; el pensamiento reflexivo está en el <a href="/semiont/diary">diario de Semiont</a>.',
+
+    // ── 2026-11-19 關於頁進化：新增介面字串 ──
+    // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
+    // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
+    'about.why.title': '¿Por qué Taiwan.md?',
+    'about.why.curated.title': 'Perspectivas curadas',
+    'about.why.curated.desc':
+      'Narrativas profundas cuidadosamente curadas, no listados enciclopédicos',
+    'about.why.ai.title': 'Diseño amigable con IA',
+    'about.why.ai.desc':
+      'Contenido estructurado que ayuda a la IA a comprender la complejidad de Taiwán',
+    'about.why.languages.title': 'Taiwán en {count} idiomas',
+    'about.why.languages.desc':
+      'Partiendo de perspectivas locales, contando la historia de Taiwán en idiomas globales',
+    'about.why.complete.title': 'Completo y multidimensional',
+    'about.why.complete.desc':
+      'Cubriendo {domains} dominios, presentando la imagen tridimensional completa de Taiwán',
+    'about.why.cta.graph':
+      '🔗 Grafo de conocimiento — Explorar conexiones entre artículos',
+    'about.why.cta.ssot': '📂 Explorar datos fuente SSOT ↗',
   },
 } as const;
