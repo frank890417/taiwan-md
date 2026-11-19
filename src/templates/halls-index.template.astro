@@ -18,6 +18,9 @@ import { HALL_CATEGORY_LIST } from '../components/home/hall-data';
 const lang = getLangFromUrl(Astro.url);
 const th = useHomeT(lang);
 const lobbyHref = lang === 'zh-TW' ? '/' : `/${lang}/`;
+// <title> 與描述是純文字：拿掉 useHomeT 在由右到左的頁面上替退回英文的句子包的
+// 方向隔離字元（那是給畫面上的段落用的）。
+const plain = (text: string) => text.replace(/[\u2066-\u2069]/g, '');
 
 // 四個展廳底下所有分類的篇數（跟各展廳頁、分類格同一個算法）
 const articleTotal = Object.values(HALL_CATEGORY_LIST)
@@ -27,8 +30,8 @@ const articleTotal = Object.values(HALL_CATEGORY_LIST)
 
 <Layout
   lang={lang}
-  title={th('home.halls.title')}
-  description={th('home.halls.meta.description')}
+  title={plain(th('home.halls.title'))}
+  description={plain(th('home.halls.meta.description'))}
   readerSettings
   pageType="hall"
 >

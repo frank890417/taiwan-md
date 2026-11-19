@@ -760,6 +760,13 @@ const pct = (n: number) => `${n.toFixed(2)}%`;
   .hall-thumb--entry .h2-fig {
     align-items: flex-end;
   }
+  /* 入口卡窄的時候，時期的名字只留最長的那一段（清領），其餘的會被色帶截斷 */
+  .hall-thumb--entry .h2-era.is-wide .h2-name {
+    display: none;
+  }
+  .hall-thumb--entry .h2-era.is-widest .h2-name {
+    display: inline;
+  }
   .hall-thumb--entry .h2-dots i {
     width: 5px;
     height: 5px;

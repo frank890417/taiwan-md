@@ -126,15 +126,22 @@ const bridge = nextId
   ? t(`home.bridge.${hall}to${nextId}` as TranslationKey)
   : '';
 
-const pageTitle = th('home.hall.meta.title', {
-  numeral: prose.numeral,
-  title: prose.title,
-});
-const pageDescription = th('home.hall.meta.description', {
-  numeral: prose.numeral,
-  title: prose.title,
-  categories: categoryNames,
-});
+// <title> 與描述是給搜尋引擎與分享卡看的純文字：useHomeT 在由右到左的頁面上會替
+// 退回英文的句子包一層方向隔離字元（給畫面上的段落用），這裡拿掉。
+const plain = (text: string) => text.replace(/[\u2066-\u2069]/g, '');
+const pageTitle = plain(
+  th('home.hall.meta.title', {
+    numeral: prose.numeral,
+    title: prose.title,
+  }),
+);
+const pageDescription = plain(
+  th('home.hall.meta.description', {
+    numeral: prose.numeral,
+    title: prose.title,
+    categories: categoryNames,
+  }),
+);
 const arrow = iconSvg('arrow');
 ---
 

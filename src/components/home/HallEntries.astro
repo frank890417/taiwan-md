@@ -58,7 +58,8 @@ const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 const arrow = iconSvg('arrow');
 // 每張卡前面輸出一個換行。樣板裡 map 出來的元素會連成同一行，而 i18n-smoke-test.yml
 // 的 B3 是用 `grep -c "exhibition-hall"` 數「有幾行」來認四個展廳；四張卡擠在同一行
-// 會被數成一個。這個換行在 <ul> 裡沒有任何視覺效果。
+// 會被數成一個。這個換行在 <ul> 裡沒有任何視覺效果。外層 <ul> 的 `exhibition-halls`
+// 也是給那條檢查的（多一行餘裕，門檻是 4）。
 const LINE_BREAK = '\n';
 
 const prose = getHallProse(lang);
@@ -90,7 +91,7 @@ const halls = HALL_IDS.map((id) => {
 });
 ---
 
-<ul class="hall-entries">
+<ul class="hall-entries exhibition-halls">
   {
     halls.map((hall) => (
       <>
