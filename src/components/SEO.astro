@@ -13,11 +13,19 @@ import { getLangSwitchPath } from '../utils/getLangSwitchPath';
 import { useTranslations } from '../i18n/utils';
 import { withBrand } from '../utils/pageTitle';
 import { buildBreadcrumbLd } from '../utils/tools/jsonld';
+import { categoryList } from '../utils/categoryConfig';
 
 // Live article count from prebuilt vitals so SEO meta tracks reality.
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
 // readFileSync = 8,400+ syscalls/build). Fallback 752 preserved.
 const _liveArticleCount = getLiveArticleCount(752);
+// 主題分類：從分類設定算（about 是站務分類，不算主題），跟首頁樣板算頁面描述、
+// 分類格標題用的是同一份清單。原本下面的預設描述與首頁的結構化資料各自手寫
+// 「12 大主題」，政治分類上線後頁面上是 13 個，數字對不起來。
+const HOMEPAGE_CATEGORY_HUBS = categoryList.filter(
+  (category) => category !== 'about',
+);
+const HOMEPAGE_CATEGORY_COUNT = HOMEPAGE_CATEGORY_HUBS.length;
 
 interface Props {
   title: string;
@@ -55,7 +63,7 @@ const t = useTranslations(lang);
 const {
   title,
   description = lang === 'zh-TW'
-    ? `開源、AI-friendly 的台灣完整知識庫。${_liveArticleCount}+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。`
+    ? `開源、AI-friendly 的台灣完整知識庫。${_liveArticleCount}+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 ${HOMEPAGE_CATEGORY_COUNT} 大主題，由社群共同編撰，讓全世界認識真正的台灣。`
     : `The open-source, AI-friendly knowledge base about Taiwan. ${_liveArticleCount}+ pages covering history, culture, food, music, technology and more — written by the community, for the world.`,
   image = '/images/taiwan-social.jpg',
   url = Astro.url.href,
@@ -383,21 +391,6 @@ const isHomepage = (() => {
   }
 })();
 
-const HOMEPAGE_CATEGORY_HUBS = [
-  'history',
-  'geography',
-  'culture',
-  'food',
-  'art',
-  'music',
-  'technology',
-  'nature',
-  'people',
-  'society',
-  'economy',
-  'lifestyle',
-];
-
 const homepageCollectionLD = isHomepage
   ? {
       '@context': 'https://schema.org',
@@ -416,9 +409,9 @@ const homepageCollectionLD = isHomepage
         '@type': 'ItemList',
         name:
           lang === 'zh-TW'
-            ? 'Taiwan.md 知識策展 12 大主題'
-            : 'Taiwan.md 12 curated knowledge domains',
-        numberOfItems: HOMEPAGE_CATEGORY_HUBS.length,
+            ? `Taiwan.md 知識策展 ${HOMEPAGE_CATEGORY_COUNT} 大主題`
+            : `Taiwan.md ${HOMEPAGE_CATEGORY_COUNT} curated knowledge domains`,
+        numberOfItems: HOMEPAGE_CATEGORY_COUNT,
         itemListElement: HOMEPAGE_CATEGORY_HUBS.map((slug, i) => {
           // For non-default langs, hub URL has lang prefix
           const langPrefix = lang === DEFAULT_LANGUAGE.code ? '' : `/${lang}`;
