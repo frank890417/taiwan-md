@@ -9,6 +9,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
+image: '/article-images/lifestyle/capital-bus-route-307.webp'
+imageCredit: '捷利 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8BEAA-150_307.jpg'
 rationale:
   why_this_hook: '用不用上高速公路的反差，寫一條留在地面卻跨越雙北生活圈的公車。'
   whats_excluded: '不把 307 寫成單純路線百科，也不把所有乘客都概括成同一種童年。'
