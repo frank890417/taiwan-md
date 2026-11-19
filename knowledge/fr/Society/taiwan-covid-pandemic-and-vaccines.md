@@ -29,11 +29,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-01T22:25:07.523174+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T11:54:53.501234+00:00'
 ---
 
 # Taïwan, le COVID-19 et les vaccins : dix-huit mois achetés, et la dose arrivée trop tard
@@ -390,16 +392,16 @@ Les lignes de faille non encore refermées sont également très claires. L'affa
 
 ## Sources des images
 
-Cet article utilise 7 images (1 sous licence CC0, 6 sous licence Creative Commons), toutes mises en cache dans `public/article-images/society/` afin d'éviter le hotlinking vers les serveurs sources ; deux vidéos de la chaîne officielle de PTS News sont également intégrées. Les sous-titres n'ayant pas été extraits pour ces deux vidéos, aucune déclaration contenue dans celles-ci n'est citée dans le corps du texte.
+Cet article utilise 7 images (1 en CC0, 6 sous licence Creative Commons), toutes mises en cache dans `public/article-images/society/` afin d'éviter le hotlinking vers les serveurs sources ; y sont également intégrées 2 vidéos de la chaîne YouTube officielle de PTS News, dont les sous-titres n'ont pas été récupérés, si bien que le corps du texte ne cite aucune déclaration issue de ces vidéos.
 
-- [Grand centre de vaccination COVID-19 au Taipei Arena](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo : 玄史生, 27-10-2021, CC0 1.0 (image d'en-tête)
-- [File d'attente devant une pharmacie à Hsinchu pour l'achat de masques avec système de nom réel](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo : Tbatb, 30-03-2020, CC BY-SA 4.0
-- [Station Dongmen du métro de Taipei pendant la période d'alerte de niveau 3](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo : 稜光映像\_Brian, 25-05-2021, CC BY 3.0
-- [Panneau d'affichage à l'intersection près du centre de tests rapides de Jisuì, district de Zhonghe, New Taipei](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo : Tsuna Lu (Adsa562), 12-06-2021, CC BY-SA 4.0
-- [La présidente Tsai Ing-wen recevant le vaccin national Medigen](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo : Makoto Lin／Présidence de la République de Chine, 23-08-2021, CC BY 2.0
-- [Tests rapides à domicile fournis gratuitement par l'assurance maladie pour les personnes de plus de 65 ans](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo : ThomasYehYeh, 07-11-2022, CC BY-SA 4.0
-- [Affiche du code QR pour le système de traçage électronique à l'entrée d'un commerce](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo : IiTheCavalryiI, 23-05-2022, CC BY-SA 4.0
-- Vidéos : Reportage PTS News 〈校正回歸〉 (Retour à la normale) du 22-05-2021, reportage PTS News 〈指揮中心終場記者會〉 (Conférence de presse de clôture du centre de commandement) du 27-04-2023 (chaîne officielle YouTube)
+- [Centre de vaccination COVID-19 à grande échelle du Taipei Expo Park](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo : 玄史生, 27-10-2021, CC0 1.0 (image d'en-tête)
+- [File d'attente devant une pharmacie de Hsinchu pour acheter des masques sous le système d'achat réel](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo : Tbatb, 30-03-2020, CC BY-SA 4.0
+- [Station Dongmen du métro de Taipei pendant l'alerte de niveau 3](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo : 稜光映像\_Brian, 25-05-2021, CC BY 3.0
+- [Panneau au carrefour devant le centre de dépistage rapide Jisui du district de Zhonghe, New Taipei](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo : Tsuna Lu (Adsa562), 12-06-2021, CC BY-SA 4.0
+- [La présidente Tsai Ing-wen recevant le vaccin Medigen produit localement](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo : Makoto Lin／Office de la présidence de la République de Chine, 23-08-2021, CC BY 2.0
+- [Kits de dépistage rapide à domicile gratuits fournis par l'Assurance maladie aux personnes de 65 ans et plus](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo : ThomasYehYeh, 07-11-2022, CC BY-SA 4.0
+- [Avis avec code QR pour le système de traçage par SMS à l'entrée d'un commerce](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo : IiTheCavalryiI, 23-05-2022, CC BY-SA 4.0
+- Vidéos : PTS News « Recalibration » reportage du 22-05-2021, PTS News « Conférence de presse de clôture du Centre de commandement » reportage du 27-04-2023 (chaîne YouTube officielle)
 
 ## Références
 

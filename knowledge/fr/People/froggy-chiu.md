@@ -18,20 +18,24 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/taipei-city-council-hall-front-view-20201031.webp'
+imageCredit: 'Solomon203'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg'
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/呱吉.md'
-sourceCommitSha: 'b1ce053ac'
-sourceContentHash: 'sha256:c94a65d34db3fe04'
-sourceBodyHash: 'sha256:8811d54bcacf4b19'
-translatedAt: '2026-09-11T21:33:07+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:14b3fdc10f7aebe5'
+sourceBodyHash: 'sha256:c809a24a3b6ba0e4'
+translatedAt: '2026-11-19T11:26:39.769569+00:00'
 ---
 
-> **Aperçu en 30 secondes :** Le nom réel de Guaji est Qiu Weijie. En 2017, lui et ses collègues souhaitaient initialement tourner une émission de télé-réalité sur les élections de chefs de quartier, avant de transformer ce projet en participation à l'élection des députés municipaux de Taipei en 2018, sous l'étiquette indépendante, remportant 11 786 voix dans la troisième circonscription de Taipei[^1]. Public Television (PTS) le décrit comme le premier YouTuber taïwanais à entrer en politique[^2]. Sa participation politique n'a pas rendu le web et la politique identiques ; elle a plutôt mis en lumière l'écart entre les deux aux yeux du public : les vidéos peuvent créer du rythme par le montage, mais le parlement et le marché exigent une responsabilité à long terme. En 2025, _Ne regardez pas pendant le travail_ a cessé ses mises à jour et s'est dissous, obligeant cette expérience commencée par une « déballage de la démocratie » à faire face à la perte de membres de l'équipe, à l'impact du trafic dû aux prises de position politiques et à un déficit de fonctionnement de plusieurs millions de dollars[^3].
+> **Aperçu en 30 secondes :** Guaji, de son vrai nom Qiu Weijie. En 2017, lui et ses collègues avaient à l'origine l'idée de transformer l'« élection de chef de village » en une émission de télé-réalité ; le projet a ensuite évolué vers l'élection des conseillers municipaux de Taipei de 2018, où il a été élu dans la troisième circonscription de Taipei en tant que candidat sans étiquette avec 11 786 voix[^1]. PTS le décrit comme le premier youtubeur taïwanais à entrer en politique[^2]. Son entrée en politique n'a pas fusionné internet et politique en une seule et même chose, mais a plutôt exposé au grand jour le fossé entre les deux : les vidéos peuvent créer du rythme par le montage, tandis que le conseil municipal et le marché exigent un engagement à long terme. En 2025, « Ne regardez pas pendant le travail » a cessé sa publication et s'est dissous, forçant cette expérience née du « déballage de la démocratie » à finalement faire face à la perte de membres de l'équipe, au choc de trafic causé par les prises de position politiques et à un déficit opérationnel de plusieurs millions de NT$[^3].
 
-![Façade avant du bâtiment du Parlement municipal de Taipei, symbolisant comment Guaji a introduit la création en ligne sur le terrain institutionnel.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
+![Façade du bâtiment du conseil municipal de Taipei, symbolisant l'entrée de la création internet de Guaji dans l'arène institutionnelle.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
 
-_Photo : Solomon203, prise le 31 octobre 2020, issue de [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
+_Image : Solomon203, prise le 31 octobre 2020, provenant de [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
 
 ## Une idée destinée initialement à devenir un programme
 
