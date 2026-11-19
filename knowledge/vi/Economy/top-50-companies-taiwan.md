@@ -26,11 +26,13 @@ image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
 imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '515c092b1'
-sourceContentHash: 'sha256:3b7bdefbf92969dd'
-sourceBodyHash: 'sha256:3f33446cf2ef1d05'
-translatedAt: '2026-11-03T23:32:05.552607+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b21ff410091f29bf'
+sourceBodyHash: 'sha256:eaa4c51c74a2903f'
+translatedAt: '2026-11-19T01:59:02.988993+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Sau phiên giao dịch ngày 19 tháng 5 năm 2026, vốn hóa thị trường của TSMC đạt 57,18 nghìn tỷ Đài tệ, một mình công ty này chiếm 31,51% chỉ số Weighted Index của Đài Loan, chiếm khoảng 40% tổng vốn hóa thị trường chứng khoán Đài Loan và chiếm tới 71% thị phần gia công đúc chip toàn cầu. 49 vị trí tiếp theo được chia cho 12 tập đoàn tài chính, 11 doanh nghiệp bán dẫn, 6 doanh nghiệp gia công điện tử và 5 "lão binh" trong các ngành công nghiệp truyền thống. Cái gọi là thế chân kiềng giữa Tài chính - Điện tử - Truyền thống thực tế lại đang được chống đỡ bởi một nửa cơ thể đến từ ngành điện tử; làn sóng AI bắt đầu từ năm 2024 đã kéo Quanta, Wistron, Wistron NeTX và Honjy từ nhóm tầm trung lên nhóm dẫn đầu, càng làm tăng thêm mức độ tập trung hóa. Đọc bảng xếp hạng 50 công ty lớn nhất này cũng giống như đang đọc một bản đồ cấu trúc cơ thể của nền kinh tế Đài Loan: đâu là cột sống, đâu là điểm yếu dễ gây lỗi hệ thống và đâu là những "nội tạng" ẩn giấu bên ngoài bảng biểu.
@@ -147,28 +149,29 @@ China Steel (Trung Ngân) tại cảng Tiểu Cảng, Cao Hùng cũng đang gán
 > **📝 Ghi chú của người biên tập**
 > Mặt khác của top 50 doanh nghiệp lớn chính là 50 cuốn sổ cái về chi phí ngoại ứng. Những gì được tính vào GDP là giá trị sản xuất của nhà máy, nhưng những gì không được tính vào là chi phí y tế của các hộ gia đình xung quanh nhà máy, gánh nặng chăm sóc dài hạn của cư dân Vân Lâm, hay chi phí di dời của cư dân Qianzhen, Cao Hùng. Trong kinh tế học, điều này gọi là "nội hóa ngoại ứng" (externalities): khi xã hội buộc các công ty phải gánh vác lại những chi phí mà trước đây họ đã đẩy ra bên ngoài, đó chính là ý nghĩa thực sự của ESG. Trong danh sách 50 doanh nghiệp lớn nhất Đài Loan, ngành bán dẫn và các tập đoàn tài chính thường dẫn đầu về điểm số ESG; trong khi các ngành sản xuất truyền thống và hóa dầu lại là đối tượng bị giám sát chặt chẽ. Cuộc tái sắp xếp thứ hạng dựa trên điểm số này sẽ thay đổi vị thế của các doanh nghiệp trong thập kỷ tới một cách sâu sắc hơn bất kỳ báo cáo tài chính quý nào.
 
-## Chợ đêm Ninh Hạ và đường Kaixuan San
+## Chợ đêm Ninh Hạ và đường Khải Hoàn tam lộ
 
-Nếu nối phần mở đầu với phần kết lại, chúng ta sẽ thấy hai thái cực nằm trong cùng một hệ quy chiếu.
+Nối đầu với cuối lại, là hai cực đối trong cùng một hệ tọa độ.
 
-Đêm tại chợ đêm Ninh Hạ, năm nhân vật quan trọng nhất của ngành bán dẫn ngồi uống bia trên những bộ bàn ghế nhựa; ngày hôm sau, vốn hóa thị trường của ba trong số họ đã tăng thêm hàng trăm tỷ Đài tệ chỉ sau một đêm. Đêm tại đường Kaixuan San, 32 cư dân khu Qianzhen bị vụ nổ hất văng khỏi nhà lên tận trời xanh; vụ án được xét xử suốt tám năm cho đến khi có phán quyết, nhưng không ai có thể bù đắp lại được mạng sống đã mất.
+Đêm ấy tại chợ đêm Ninh Hạ, năm người quan trọng nhất ngành bán dẫn uống bia trên bàn ghế nhựa, hôm sau công ty của ba người trong số họ tăng giá trị thị trường hàng nghìn tỷ (Đài tệ) chỉ trong một đêm. Đêm ấy trên đường Khải Hoàn tam lộ, 32 cư dân Tiền trấn bị bùng nổ từ ngay trong nhà bay lên trời, vụ án xét xử tám năm mới kết, không ai có thể bồi thường những mạng người.
 
-Giữa hai khung cảnh đó chính là toàn bộ biên độ của bảng xếp hạng 50 doanh nghiệp lớn nhất này.
+Giữa hai khung cảnh đó, là toàn bộ độ rộng của bảng 50 đại này.
 
-"Ngọn núi hộ quốc" (TSMC) ngự trị ở vị trí cao nhất, chống đỡ cho cả ngành công nghiệp và cả quốc gia; nhưng dưới chân ngọn núi đó là bụi mịn PM2.5 tại Mai Liêu, là mùi khí propylene tại Qianzhen, là tầm ảnh hưởng của nhà máy I-Mei hay showroom của Hotai vốn không được ghi danh vào bảng xếp hạng. 50 công ty này cộng lại chính là cột sống của Đài Loan, mỗi một công ty là một đốt sống thắt lưng dày nhất trong đó; nhưng ngoài cột sống ra, vẫn còn những khối cơ, dây thần kinh và làn da mà GDP chưa nắm bắt hết được.
+Ngọn Thần sơn hộ quốc đứng ở đỉnh cao, đỡ đỡ cả ngành công nghiệp lẫn cả đất nước; dưới chân ngọn núi đó có bụi PM2.5 của Mạch Liêu, có mùi acrylonitrile của Tiền trấn, có nhà máy Nghĩa Mỹ và phòng trưng bày Hòa Thái chưa từng lọt vào bảng xếp hạng. 50 công ty cộng lại là cột sống của Đài Loan, một công ty chính là đốt sống thắt lưng to nhất trong cột sống đó, nhưng bên ngoài cột sống vẫn còn cơ bắp, thần kinh và da thịt mà GDP không chạm tới.
 
-Sau khi đọc xong bảng xếp hạng này, điều độc giả nên mang theo không phải là "ai đứng thứ mấy, vốn hóa bao nhiêu". Mà nên là một sơ đồ cấu trúc cơ thể: cột sống nằm ở đâu, điểm yếu chí tử (single point of failure) nằm ở đâu, chi phí ngoại ứng nằm ở đâu, và những nội tạng ẩn giấu bên ngoài bảng biểu này nằm ở đâu. Khi làn sóng AI tiếp theo quét qua, khi địa chính trị Mỹ-Trung lại xoay chuyển, hay khi một công ty nào đó thách thức vị thế của TSMC trong một quy trình sản xuất nhất định, sơ đồ cấu trúc này sẽ được vẽ lại. Những cái tên trên 50 vị trí đó sẽ thay đổi, sẽ ít đi hoặc nhiều lên, nhưng bảng xếp hạng này vẫn luôn ghi lại một sự thật: những công ty nào đang quyết định cách thế hệ người Đài Loan này ăn gì, làm việc ra sao và lo lắng về ngày mai như thế nào.
+Đọc xong bảng này, điều người đọc mang về không phải là «ai xếp thứ mấy, ai bao nhiêu giá trị thị trường». Đó phải là một sơ đồ cấu trúc cơ thể: cột sống ở đâu, điểm lỗi đơn lẻ ở đâu, chi phí bên ngoài ở đâu, những nội tạng ẩn giấu bên ngoài bảng ở đâu. Chờ đợt sóng AI tiếp theo rửa lại một lần, chờ địa chính trị Mỹ–Trung lật lại một lần, chờ công ty nào đó thách thức vị trí của TSMC ở một quy trình nào đó, sơ đồ cấu trúc này sẽ được vẽ lại. Những cái tên trên 50 vị trí kia sẽ thay đổi, sẽ giảm, sẽ tăng, nhưng bảng này luôn ghi lại một việc: những công ty nào quyết định thế hệ người Đài Loan này ăn gì, làm việc như thế nào, lo nghĩ về ngày mai như thế nào.
 
-> **✦** 「Bán dẫn đưa Đài Loan đứng vào tâm điểm thế giới. Nhưng điều không được viết ra trên bảng xếp hạng 50 doanh nghiệp này chính là nội tạng và làn da của hòn đảo này; chúng cũng là một phần của Đài Loan, chỉ là GDP không nhìn thấy được mà thôi.」
+> **✦** «Bán dẫn đưa Đài Loan lên trung tâm thế giới. Nhưng những gì bảng 50 đại này không viết ra, là nội tạng và da thịt của đảo này; chúng cũng là một phần của Đài Loan, chỉ là GDP không nhìn thấy.»
 
 **Đọc thêm**:
 
-- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Đứng đầu trong top 50, là công ty đơn lẻ chiếm 31,51% chỉ số Weighted Index
-- [Doanh nghiệp vừa và nhỏ cùng những nhà vô địch ẩn danh tại Đài Loan](/vi/economy/taiwan-smes-and-hidden-champions) — Ngoài I-Mei và Hotai, đây là 30% cấu trúc kinh tế vô hình khác
-- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Từ ITRI đến tiến trình 2nm, nguồn cội của 11 vị trí trong top 50 ngành bán dẫn
-- [Thị trường chứng khoán và thị trường vốn Đài Loan](/vi/economy/taiwan-stock-market) — Cấu trúc của chỉ số Weighted Index, xếp hạng vốn hóa và các nhà đầu tư tổ chức
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Sự liên kết địa chính trị giữa "lá chắn silicon" (silicon shield) và top 50 doanh nghiệp
-- [Khu khoa học Đài Loan](/vi/technology/science-park-development) — Căn cứ sản xuất cho các vị trí bán dẫn trong top 50, phiên bản không gian của sự tập trung giá trị sản xuất tại ba khu khoa học
+- [Chuyên đề ngành công nghiệp Đài Loan](/industry/) — Dùng thống kê chính thức vẽ cấu trúc ngành: xuất khẩu và GDP bảy mươi năm, khoa học viên, nhà máy các tỉnh/thành, lịch sử top 10 vốn hóa, kèm sáu tranh luận công cộng đa phương
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Hạng nhất 50 đại, chiếm 31,51% chỉ số加權 của một công ty đơn lẻ
+- [Tiểu và trung doanh Đài Loan với các vô danh](/vi/economy/taiwan-smes-and-hidden-champions) — Ngoài Nghĩa Mỹ, Hòa Thái, nhìn thấy 30% cấu trúc kinh tế vô hình
+- [Ngành bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Từ Viện Nghiên cứu Công nghiệp đến 2 nm, nguồn gốc 11 ghế bán dẫn trong 50 đại
+- [Chứng khoán và thị trường vốn Đài Loan](/vi/economy/taiwan-stock-market) — Chỉ số加權, xếp hạng vốn hóa, cấu trúc nhà đầu tư tổ chức
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Silicon shield và liên động địa chính trị của 50 đại
+- [Khoa học viên Đài Loan](/vi/technology/science-park-development) — Cơ sở sản xuất 11 ghế bán dẫn 50 đại, phiên bản không gian của độ tập trung giá trị sản xuất ba viên
 
 ## Nguồn ảnh
 

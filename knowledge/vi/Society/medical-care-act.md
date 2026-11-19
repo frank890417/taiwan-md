@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T17:37:05.886036+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-19T02:36:07.190192+00:00'
 ---
 
 > **Tóm tắt trong 30 giây**: Luật Y tế không quản lý cá nhân bác sĩ (đó là Luật Bác sĩ năm 1943), cũng không quản lý chi trả bảo hiểm y tế (đó là Luật Bảo hiểm Y tế năm 1994), mà quản lý cách thức các tổ chức như **bệnh viện, phòng khám và pháp nhân y tế** tồn tại, đăng quảng cáo và xử lý tranh chấp. Văn bản toàn văn gồm 91 điều được công bố vào năm 1986; đến năm 2004, luật được sửa đổi lớn thành 123 điều để đưa vào chế độ "pháp nhân y tế"; năm 2017, Điều 82 được sửa đổi nhằm chuyển trách nhiệm hình sự của bác sĩ sang mô hình "hai yếu tố trọng yếu"; và vào tháng 5 năm 2026, tỷ lệ điều dưỡng/bệnh nhân sẽ chính thức được đưa vào luật. Tuy nhiên, sau bốn thập kỷ, thực tế đối mặt với mục tiêu "thúc đẩy sự phát triển lành mạnh của các cơ sở y tế" tại Điều 1 là: 83% bệnh viện và 74% giường bệnh thuộc về khu vực tư nhân; tỷ lệ bác sĩ cấp cứu rời bỏ ngành cao gấp hai đến ba lần so với Hoa Kỳ; và làn sóng điều dưỡng nghỉ việc hàng loạt đã đẩy hệ thống đến bờ vực sụp đổ, buộc Quốc hội phải đưa tỷ lệ điều dưỡng/bệnh nhân vào luật.
@@ -342,30 +344,31 @@ Làm thế nào để bù đắp cho y tế vùng sâu vùng xa? Bộ Y tế và
 
 Tuy nhiên, những phần chưa thể bù đắp hết đang hiển hiện qua tỷ lệ tử vong ở trẻ sơ sinh và trẻ nhỏ. Một cuộc điều tra của tờ The Reporter vào năm 2018 đã phát hiện ra rằng, Đài Đông, Bình Đông và phía nam Hoa Liên là ba khu vực có tỷ lệ tử vong ở trẻ em cao nhất Đài Loan[^60]. Sự thiếu hụt nguồn lực y tế đang tác động trực tiếp lên nhóm dân cư dễ bị tổn thương nhất.
 
-## Những căng thẳng chưa được tháo gỡ sau bốn thập kỷ
+## Sau bốn mươi năm vẫn chưa hóa giải được sự căng thẳng
 
-Luật Y tế không phải là một đạo luật vận hành độc lập. Nó cùng với năm đạo luật khác cấu thành nên khung xương cho quản trị y tế tại Đài Loan:
+Luật Y tế không phải là một văn bản luật hoạt động đơn độc. Nó cùng với năm bộ luật khác cùng cấu thành khung xương sống của quản trị y tế tại Đài Loan:
 
-- **Luật Bác sĩ** (1943) quy định về cá nhân bác sĩ.
-- **Luật Y tế** (1986) quy định về các cơ sở y tế.
-- **Luật Bảo hiểm Y tế Quốc dân** (ban hành năm 1994, thực thi từ năm 1995) quy định về chi trả bảo hiểm y tế.
-- **Luật Quyền Tự quyết của Bệnh nhân** (thông qua năm 2015, thực thi từ năm 2019, là đạo luật đầu tiên tại châu Á) [^61] bổ sung cho các quy định về sự đồng thuận của bệnh nhân trong Điều 63 và 64 của Luật Y tế, quy định rõ ràng rằng sự đồng ý của bệnh nhân được ưu tiên hàng đầu.
-- **Luật Phòng ngừa Tai biến Y tế và Xử lý Tranh chấp** (thông qua năm 2022, các văn bản dưới luật thực thi từ năm 2024) [^17] bổ sung cơ chế hòa giải tranh chấp y tế — bao gồm việc trình bày trong quá trình giao tiếp, chăm sóc và hòa giải tranh chấp, cũng như nội dung báo cáo tự nguyện và phân tích nguyên nhân gốc rễ để cải thiện của các cơ sở y tế, **tất cả đều không được dùng làm bằng chứng tố tụng hoặc căn cứ xét xử**.
-- **Luật Y tế tái tạo + Điều lệ về Chế phẩm Y tế tái tạo** (thông qua năm 2024) là các luật đặc biệt tách ra từ Luật Y tế, quy định về liệu pháp tế bào và liệu pháp gen [^62].
+- **Luật Bác sĩ** (1943) quy phạm cá nhân bác sĩ.
+- **Luật Y tế** (1986) quy phạm cơ sở y tế.
+- **Luật Bảo hiểm Y tế Toàn dân** (soạn thảo 1994, thi hành 1995) quy phạm chi trả bảo hiểm y tế.
+- **Luật Quyền tự chủ của Người bệnh** (thông qua 2015, thi hành 2019, bộ luật đầu tiên tại Châu Á)[^61] bổ sung mạnh mẽ hơn Điều 63, 64 Luật Y tế về quy phạm sự đồng ý của người bệnh, quy định rõ ràng ưu tiên sự đồng ý của người bệnh.
+- **Luật Phòng ngừa Tai biến Y tế và Xử lý Tranh chấp** (thông qua 2022, thi hành luật con 2024)[^17] bổ sung cơ chế điều giải y khiếu — thông điệp truyền thông quan tâm, lời khai trong quá trình điều giải tranh chấp, cũng như tự chủ báo cáo của cơ sở y tế, nội dung phân tích nguyên nhân gốc rễ và cải thiện, **đều không được dùng làm bằng chứng tố tụng hoặc cơ sở裁判**.
+- **Luật Y tế tái sinh + Điều lệ Chế phẩm Y tế tái sinh** (thông qua 2024) tách ra từ Luật Y tế thành luật đặc biệt, quy phạm điều trị tế bào, điều trị gen[^62].
 
-Sáu đạo luật này ghép lại thành bức tranh toàn cảnh về quản trị y tế Đài Loan, trong đó Luật Y tế đóng vai trò là trụ cột về "mặt cơ sở". Tuy nhiên, mỗi lần bổ sung luật mới đều xuất phát từ những kẽ hở mà bản thân Luật Y tế không thể bao quát: Luật Bác sĩ không quản lý được cơ sở, Luật Y tế không quản lý được chi trả bảo hiểm, Luật Y tế không quản lý được các quyết định y tế trước (advance medical directives) của cá nhân, Luật Y tế không quản lý được tế bào tái tạo, và Luật Y tế không quản lý được hòa giải tranh chấp. Mỗi kẽ hở chính là điểm khởi đầu cho một đạo luật mới.
+Sáu bộ luật ghép thành toàn cảnh quản trị y tế tại Đài Loan, Luật Y tế là «trụ cột» về «diện cơ sở». Nhưng mỗi lần bổ sung luật mới đều vì chính Luật Y tế có những khe hở không lo được: Luật Bác sĩ không quản được cơ sở, Luật Y tế không quản được chi trả bảo hiểm y tế, Luật Y tế không quản được quyết định y tế trước của cá nhân, Luật Y tế không quản được tế bào tái sinh, Luật Y tế không quản được điều giải tranh chấp. Mỗi khe hở ấy chính là cửa ngõ cho một bộ luật mới.
 
-> **✦** Luật Y tế viết rằng mục tiêu là "thúc đẩy sự phát triển lành mạnh của các sự nghiệp y tế". Sau bốn mươi năm, bệnh viện nhiều hơn, kỹ thuật mạnh hơn, tỷ lệ bao phủ cao hơn, nhưng làn sóng điều dưỡng nghỉ việc vẫn diễn ra như một cơn sốt, tỷ lệ bác sĩ cấp cứu rời bỏ nghề cao gấp đôi mức quốc tế, các bệnh viện tư nhân mở rộng lên đến 83%, các bệnh viện công phải sống dựa vào trợ cấp, tỷ lệ hình sự hóa các tranh chấp y tế là 79%, và tại các vùng sâu vùng xa, mỗi bác sĩ vẫn phải phục vụ mười nghìn người. Những gì luật viết không sai, và sự kiệt quệ tại hiện trường cũng không sai. Vấn đề còn lại là: trong bốn mươi năm tiếp theo, Luật Y tế sẽ làm thế nào để rút ngắn khoảng cách giữa hai thực trạng này.
+> **✦** Luật Y tế viết là «thúc đẩy sự phát triển lành mạnh của sự nghiệp y tế». Sau bốn mươi năm, bệnh viện nhiều hơn, kỹ thuật mạnh hơn, tỷ lệ phủ sóng cao hơn, nhưng điều dưỡng viên rời việc như trào dạt, tỷ lệ bác sĩ cấp cứu rời nghề vượt gấp đôi mức quốc tế, bệnh viện tư nhân mở rộng tới 83%, bệnh viện công lập nhờ trợ cấp mà sống, tỷ lệ y khiếu hình sự hóa 79%, vùng sâu vùng xa mỗi bác sĩ vẫn phục vụ một vạn người. Lời luật không sai, sự kiệt sức tại hiện trường cũng không sai. Vấn đề còn lại là: bốn mươi năm thứ hai, Luật Y tế phải làm sao để rút ngắn khoảng cách giữa hai mặt này.
 
-Rạng sáng ngày 8 tháng 5 năm 2026, Lập pháp viện đã thông qua tỷ lệ điều dưỡng/bệnh nhân theo ba ca trực. Những câu nói của Thái Quang Siêu, La Tường Vân, Tiết Thừa Quân — vẫn còn vang vọng trên những hành lang của mọi phòng cấp cứu tại Đài Loan. Khi nào sẽ có lần sửa đổi luật tiếp theo, và sẽ sửa điều khoản nào, không ai có thể viết sẵn vào luật. Nhưng các điều dưỡng, bác sĩ cấp cứu, và các bác sĩ nội trú thuộc năm chuyên khoa chính vẫn đang dùng cách "không đến nữa" hoặc "nghỉ việc" để bày tỏ lập trường của mình.
+Lúc rạng sáng ngày 8 tháng 5 năm 2026, Lập pháp viện thông qua tỷ lệ điều dưỡng/bệnh nhân theo ba ca. Những lời của Thái Quang Siêu, La Tường Vân, Tuệ Thành Quân —— vẫn còn vang vọng trên hành lang mỗi phòng cấp cứu tại Đài Loan. Khi nào sửa luật lần sau, sửa điều nào, không ai có thể viết vào luật. Nhưng điều dưỡng viên, bác sĩ cấp cứu, bác sĩ nội trú năm khoa lớn vẫn dùng «không đến», «nghỉ việc» để bày tỏ lập trường của mình.
 
-Những chữ viết trong luật sẽ được độc giả đọc thấy. Còn những chữ không được viết ra, sẽ do những bức tường bệnh viện và những bệnh nhân đang chen chúc nơi hành lang ghi lại thay cho.
+Chữ viết trong luật sẽ được người đọc đọc đến. Chữ không viết, do những bệnh nhân chen chúc ở tường và hành lang bệnh viện thay ghi lại.
 
-**Đọc thêm**:
+**Mở rộng đọc**:
 
-- [Y tế Đài Loan và Bảo hiểm Y tế Quốc dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Tỷ lệ bao phủ và cấu trúc chi trả nổi tiếng toàn cầu của chế độ bảo hiểm y tế là "mặt chi trả" đồng hành cùng Luật Y tế sau khi được triển khai.
-- [Lịch sử hình thành hai đạo luật về y tế tái tạo tại Đài Loan và lời tự sự của người trong ngành](/vi/society/taiwan-regenerative-medicine-laws) — Hai đạo luật về y tế tái tạo thông qua năm 2024 là các luật đặc biệt tách ra từ Luật Y tế, nhằm bổ sung các quy định về liệu pháp tế bào.
-- [Hệ thống y tế thảm họa tại Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Cách vận hành thực tế của Điều 1 Luật Y tế về việc "phân bổ hợp lý nguồn lực y tế" trong các kịch bản thảm họa quy mô lớn.
+- [Y tế Đài Loan và Bảo hiểm Y tế Toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Tỷ lệ phủ sóng và cấu trúc chi trả của chế độ bảo hiểm y tế nổi tiếng toàn cầu, là «đối tác mặt chi trả» sau khi Luật Y tế thi hành
+- [Hồi述 của người trong nghề về lịch sử hình thành song pháp Y tế tái sinh tại Đài Loan](/vi/society/taiwan-regenerative-medicine-laws) — Song pháp Y tế tái sinh thông qua năm 2024, là luật đặc biệt tách ra từ Luật Y tế, bổ sung quy phạm điều trị tế bào
+- [Hệ thống Y tế ứng phó thảm họa tại Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Điều 1 Luật Y tế «phân bố hợp lý nguồn lực y tế» trong vận hành thực tế tại các tình huống thảm họa quy mô lớn
+- [Chuyên đề Y tế và Chăm sóc dài hạn](/health/) — Vẽ biểu đồ thu chi bảo hiểm y tế, lưu giữ cấp cứu, nhân lực điều dưỡng và số lượng bác sĩ các tỉnh/thành, song song liệt kê quan điểm các bên về việc đưa tỷ lệ điều dưỡng/bệnh nhân vào luật
 
 ## Nguồn ảnh
 
