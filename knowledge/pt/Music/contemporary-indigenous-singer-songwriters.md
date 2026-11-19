@@ -1,15 +1,15 @@
 ---
-title: 'Cantores Indígenas Contemporâneos'
-description: 'A música "Oceanos" de Chen Chien-nien utiliza línguas Binin e Mandarim, enquanto Shumiing conecta a criação à educação cultural de Dulan; ABAO introduz a língua Paiwan na produção pop contemporânea. Este artigo compara as obras de diversos artistas, desde A-Mei e Wang Hongen até Sangpuy e Ilid Kaolo, analisando como línguas indígenas, experiências de vida e técnicas de gravação se cruzam, sem reduzir múltiplos grupos a um único som.'
+title: "Cantores indígenas contemporâneos: de 'Irmãs' de A-Mei a Abao vencendo o Álbum do Ano no Golden Melody Awards com o paiwanês"
+description: "Em 1996, A-Mei estreou com 'Irmãs', trazendo a voz do povo Puyuma para o pop mandarim; o 'Oceano' de Chen Chien-nien vai e vem entre o puyuma e o mandarim, Suming liga sua criação de volta a Dulan, em Taitung, e Ilid Kaolo conquistou o prêmio de Melhor Cantor em Língua Indígena no Golden Melody Awards com um álbum em amis. Em 2020, o álbum em paiwan de Abao, 'kinakaian A Língua da Mãe', levou o Álbum do Ano no Golden Melody Awards. A etnia não explica a obra; cada um usa sua própria língua, letras, melodias e arranjos."
 date: 2026-03-18
 category: 'Music'
 tags:
   [
-    'Cantores Indígenas',
-    'Música Pop',
-    'Fusão Cultural',
-    'Prêmio Golden Melody',
-    'Criação Contemporânea',
+    'Cantores indígenas',
+    'Música pop',
+    'Fusão cultural',
+    'Golden Melody Awards',
+    'Criação contemporânea',
   ]
 subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
@@ -19,28 +19,32 @@ lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
 relatedDiary: ['2026-09-07-164559-audit-upgrade']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 5,981 曝光 60 點擊（1.0%），主查詢「原住民歌手」833、「原住民女歌手」324 曝光，裸主題 title 沒有這個詞；title 改冒號三明治放進「原住民歌手」，description 拿掉「本文比較」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:5f5c57d9d0a5af84'
-sourceBodyHash: 'sha256:6ab99bf50b216a39'
-translatedAt: '2026-09-08T00:42:54+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:3b3422dc3e5660c1'
+sourceBodyHash: 'sha256:c40d04f82db2ee2c'
+translatedAt: '2026-11-19T03:09:22.877753+00:00'
 ---
 
-# Cantores Indígenas Contemporâneos
+# Cantores indígenas contemporâneos: de A-mei 〈Irmãs〉 a ABAO vencendo Álbum do Ano no Golden Melody com paiwan
 
-No panorama musical de Taiwan, os cantores indígenas injetam uma vitalidade única na cena da música Mandarim com suas profundas raízes culturais e vocabulário musical inovador. Desde a ascensão meteórica de A-Mei nos anos 1990 até o surgimento de novas gerações como Shumiing e Sangpuy nas décadas de 2000, a música indígena de Taiwan continua explorando diferentes formas de expressão entre o tradicional e o moderno.
+No panorama musical de Taiwan, cantores indígenas, com sua profunda herança cultural e vocabulário musical inovador, injetam vitalidade única na cena musical de língua chinesa. Desde o surgimento meteórico de A-mei nos anos 1990, até o surgimento da nova geração como Shumiing e Sangpuy após os anos 2000, a música indígena de Taiwan continua explorando diferentes formas de expressão entre tradição e modernidade.
 
-> **Resumo em 30 segundos**: Este artigo apresenta diversos artistas através de canções pop, álbuns em línguas indígenas e educação musical tribal, cruzando suas obras com os registros oficiais do Prêmio Golden Melody.
+> **Visão geral em 30 segundos**: Este artigo apresenta diferentes músicos através de canções populares, álbuns em línguas indígenas e educação musical tribal, cruzando referências com as listas oficiais do Golden Melody para obras e prêmios.
 
-Os cantores indígenas contemporâneos de Taiwan estabeleceram seu lugar no cenário da música popular por meio de suas criações, treinamento performático e experiências culturais. Entre as figuras proeminentes estão "Rainha da Ásia" A-Mei, o "Poeta Folclórico" Chen Chien-nien, o "Rei do Canto da Nova Geração" Shumiing e o "Cantor Espiritual" Sangpuy.
+Cantores indígenas contemporâneos de Taiwan, através de suas respectivas criações, treinamento de performance e experiências culturais, firmaram sua posição na indústria da música popular. Figuras representativas incluem a "Rainha do Pop Asiático" A-mei, o "Poeta Folk" Chen Chien-nien, o "Rei do Canto da Nova Geração" Shumiing, o "Cantor da Alma" Sangpuy, entre outros.
 
-Além de seu sucesso comercial, eles também transmitem a cultura indígena através da música, criando um "som indígena" único para a música de Taiwan. O prêmio de álbum em língua indígena do Prêmio Golden Melody oferece uma porta de entrada para observar os discos cantados nessas línguas. [^7]
+Além do sucesso na música comercial, eles também transmitem a cultura indígena através da música, criando um "som indígena" único para a música de Taiwan. As categorias de álbum em língua indígena do Golden Melody fornecem uma porta de entrada para observar discos em línguas tribais.[^7]
 
-Essas rotas musicais paralelas — que incluem produções comerciais Mandarim, folclore em línguas indígenas e música eletrônica — não constituem uma sucessão geracional fixa; um mesmo artista pode transitar por múltiplos estilos de criação.
+Essas linhas musicais que se desenvolvem em paralelo, incluindo produção comercial em mandarim, folk em línguas tribais e música eletrônica, não constituem uma substituição geracional fixa; um mesmo cantor também pode atravessar múltiplas formas de criação.
 
-**Palavras-chave:** A-Mei, Chen Chien-nien, Shumiing, Sangpuy, Prêmio Golden Melody, Criação na Língua Materna, Transmissão Cultural
-
----
+**Palavras-chave:** A-mei, Chen Chien-nien, Shumiing, Sangpuy, Golden Melody, criação em língua materna, transmissão cultural
 
 ## Jornada Musical do Tribo para o Mundo
 

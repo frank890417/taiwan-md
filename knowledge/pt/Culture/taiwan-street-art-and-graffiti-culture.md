@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:42:42.195756+00:00'
+translatedAt: '2026-11-19T04:00:57.810398+00:00'
 ---
 
 # Arte de Rua e Cultura de Grafite em Taiwan
@@ -70,17 +72,17 @@ O **Pow! Wow! Taiwan**, realizado desde 2016, é o maior festival internacional 
 
 ## Referências
 
-[^1]: [Vila Arco-Íris (Rainbow Village) — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — História da Vila Arco-Íris em Nantun, Taichung, o processo de pintura de Huang Yong-fu e registros do movimento de preservação.
+[^1]: [Vila Arco-Íris (Rainbow Village) — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — História da Vila Arco-Íris no distrito de Nantun, Taichung, o processo das pinturas de Huang Yung-fu e registros do movimento de preservação.
 
-[^2]: [Distrito de Arte Pier-2 — Wikipédia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Evolução do desenvolvimento e introdução dos espaços de exposição do Distrito de Arte Pier-2 em Kaohsiung.
+[^2]: [Pier-2 Art Center — Wikipédia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Histórico de desenvolvimento e introdução dos espaços de exposição do Pier-2 Art Center em Kaohsiung.
 
-[^3]: [Porto de Zhengbin — Wikipédia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — O plano de revitalização do Porto de Zhengbin, em Keelung, e o contexto da formação do conjunto de edifícios coloridos.
+[^3]: [Porto de Zhengbin — Wikipédia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Plano de revitalização do Porto de Zhengbin, em Keelung, e o contexto da formação do conjunto de edifícios coloridos.
 
-[^4]: [Mapa da Arte de Rua de Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Banco de dados com a localização das obras de arte de rua e informações sobre artistas nas cidades de Taiwan.
+[^4]: [Mapa de Arte Urbana de Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Banco de dados que registra a localização de obras de arte urbana e informações sobre artistas nas diversas cidades de Taiwan.
 
-[^5]: [Discussão sobre Regulamentos de Gestão de Grafite em Taipei — Governo Municipal de Taipei](https://www.gov.taipei/) — Evolução das políticas de gestão de grafites de rua na cidade de Taipei.
+[^5]: [Discussão sobre o Regulamento de Gestão de Grafite da Cidade de Taipei — Prefeitura de Taipei](https://www.gov.taipei/) — Evolução das políticas de gestão de grafites urbanos na cidade de Taipei.
 
-[^6]: [Site Oficial do Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros de atividades de anos anteriores do Festival Internacional de Arte de Rua de Taiwan.
+[^6]: [Site oficial do Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros históricos das atividades anuais do Festival Internacional de Arte Urbana de Taiwan.
 
 ## Leitura Complementar
 

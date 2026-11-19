@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-13T02:22:12.323379+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-19T04:21:34.888218+00:00'
 ---
 
 # Habitação Nacional e justiça habitacional: as casas baratas que o governo construiu, no fim, alimentaram a escada de ativos de quem?
@@ -274,47 +276,48 @@ Na lei da habitação acessível, está escrito clarinho três travas anti-espec
 
 Só que, essa estrada mal nasceu, já bateu de frente com o centro.
 
-## Conseguir comprar, ou conseguir alugar: a briga à distância entre o centro e o local
+## Comprar ou alugar: o embate entre o governo central e local
 
-A atitude do Ministério do Interior é clara: vender, por si só, já é um problema. O vice-ministro Tung Chien-hung questionou diretamente essa direção, dizendo: «Quando a habitação acessível é do tipo venda, relativamente falando, as pessoas que se pode atender são menos», e «no processo de revenda livre surgirão algumas disputas de direitos reais e problemas de gestão administrativa subsequentes». [^24] Ele defende o retorno ao espírito de «só alugar, não vender» das habitações sociais da «Lei de Habitação». Em linguagem simples, o significado do Ministério do Interior é: uma vez vendida, a casa torna-se uma perda única do estoque público; em vez de tentar gerir «o que fazer depois de vender», melhor não vender desde o início, mantendo-a para sempre nas mãos do governo e alugando-a continuamente.
+A postura do Ministério do Interior é clara: vender, por si só, já é um problema. O vice-ministro Tung Chien-hung questionou diretamente esse direcionamento, afirmando que "quando a habitação acessível é do tipo para venda, o número de cidadãos que pode ser atendido será, comparativamente, menor", e que "o processo de revenda livre pode causar disputas sobre direitos de propriedade e problemas de gestão administrativa subsequentes".[^24] Ele defende o retorno ao espírito da 《Lei de Habitação》, no qual a habitação social é "apenas para aluguel, não para venda". Em termos simples, o significado do Ministério do Interior é: uma vez que a casa é vendida, ocorre uma perda única do estoque público; em vez de tentar encontrar formas de gerir "o que fazer após a venda", seria melhor não vender desde o início, mantendo as propriedades permanentemente sob controle do governo para aluguel contínuo.
 
-O que os dois lados dizem, na verdade, são dois tipos diferentes de justiça habitacional.
+O que ambos os lados defendem são, na verdade, dois conceitos diferentes de justiça habitacional.
 
-A resposta de Taoyuan visa desmontar essa moldura de «escolha entre dois». O diretor do Departamento de Desenvolvimento Urbano de Taoyuan, Chiang Nan-chih, disse: «A promoção da justiça habitacional não deve cair na lógica única de 'escolha 1 de 2'.» [^25] O prefeito Chang San-cheng, por sua vez, foi pessoalmente ao Yuan Executivo em 4 de junho de 2026, lutar para que a habitação acessível de Taoyuan fosse incorporada à política central. Segundo a imprensa, ele descreveu a habitação acessível e a habitação social como as «duas asas» da política habitacional, complementares e não competitivas: alguns querem comprar, outros só podem alugar, as duas necessidades devem ser atendidas cada qual à sua maneira, não se deve forçar uma escolha entre duas. [^26]
+A resposta de Taoyuan é tentar derrubar essa moldura de "escolha entre dois". Jiang Nan-chih, diretor do Departamento de Planejamento Urbano de Taoyuan, afirmou: "A promoção da justiça habitacional não deve cair na lógica única de 'escolher um entre dois'."[^25] O prefeito Chang Shan-cheng viajou pessoalmente ao Yuan Executivo em 4 de junho de 2026 para lutar pela inclusão da habitação acessível de Taoyuan nas políticas centrais. Segundo relatos da mídia, ele descreveu a habitação acessível e a habitação social como as "duas asas" da política habitacional, sendo complementares em vez de concorrentes: alguns querem comprar, outros só podem alugar; ambos os tipos de demanda devem ser atendidos individualmente, sem forçar uma escolha entre um ou outro.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Programa oficial da Revista CommonWealth: por que as 130 mil unidades de habitação social de construção direta prometidas pelo governo Lai encolheram drasticamente, olhando a situação acidentada da justiça habitacional em Taiwan a partir de um ângulo._
+_Programa oficial da revista 《天下雜誌》: Por que a promessa do governo Lai de construir 130 mil unidades de habitação social sofreu uma grande redução? Uma análise de um lado da difícil realidade da justiça habitacional em Taiwan._
 
-Desta vez, o Yuan Executivo não recusou de imediato. A atitude do presidente do Yuan Executivo, Cho Jung-tai, suavizou visivelmente; ele não vetou a abordagem de Taoyuan, apenas espera que «as políticas do centro e do local possam se alinhar». [^27] Uma linha de política que foi abolida há onze anos, com a justificativa oficial de «taxa de habitação própria de 85%, missão cumprida» já redigida, acabou por reabrir a porta do centro vinda de um governo local.
+Desta vez, o Yuan Executivo não recusou prontamente. A atitude do primeiro-ministro Cho Jung-tai suavizou-se visivelmente; ele não negou a abordagem de Taoyuan, apenas espera que "as políticas do governo central e local possam estar alinhadas".[^27] Uma linha política que havia sido abandonada por onze anos — com a justificativa oficial de que "a meta de 85% de taxa de habitação própria foi alcançada" — acabou sendo reaberta nas portas do governo central através de um governo local.
 
-![Trecho central da habitação social Karl-Marx-Hof no 19º distrito de Viena, uma fileira inteira de fachadas vermelho-amarelas em estilo torre memorial, habitação municipal com um quilômetro de extensão](/article-images/society/vienna-karl-marx-hof.webp)
-_O Karl-Marx-Hof de Viena, concluído em 1933, permanece até hoje sob posse da prefeitura, só aluga, não vende. Cem anos sem vender, o estoque permanece sempre em mãos públicas. Foto: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![Karl-Marx-Hof, seção central da habitação social no 19º distrito de Viena, uma fileira de fachadas vermelho e amarelo em estilo de torre memorial, um complexo de habitação municipal com um quilômetro de extensão](/article-images/society/vienna-karl-marx-hof.webp)
+_O Karl-Marx-Hof, em Viena. Concluído em 1933, ainda é mantido pela prefeitura e é apenas para aluguel, não para venda. Ao não vender por cem anos, o estoque permanece nas mãos do setor público. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Essa colisão entre centro e local discute fundamentalmente uma questão que devia ter sido respondida há cinquenta anos, mas que sempre foi contornada: afinal, o governo deve ajudar as pessoas a «conseguir comprar» ou a «conseguir alugar»?
+Este embate entre o governo central e local discute, no fundo, uma questão que deveria ter sido respondida há cinquenta anos, mas que sempre foi evitada: o governo deve ajudar as pessoas a "conseguirem comprar" ou ajudá-las a "conseguirem alugar"?
 
-## Cinquenta anos depois, Taiwan aprende a instalar a comporta
+## Cinquenta anos depois, Taiwan finalmente aprendeu a instalar aquele portão
 
-Volte para aquele endereço da Chenggong Habitação Nacional.
+Voltando ao endereço da Habitação Nacional Chenggong.
 
-1985, o velho chefe de bairro Shih Chung-sheng e a mulher varreram as poupanças, juntaram 400 mil de entrada, compraram a casa de 67 mil por ping. Naquele momento, a habitação nacional era uma promessa completa de justiça habitacional: governo constrói casa barata, ajuda quem não compra a subir no primeiro degrau. O único descuido, foi esquecer de instalar uma comporta na saída: ninguém regulou que, quando essa casa valorizasse, aquela fatia de diferença de preço apoiada em subsídio público e valorização de terreno, como devia ser dividida. Quarenta anos depois, mesmo endereço se aproxima de um milhão por ping; aquela entrada de antigamente nem um ping compra; a escada, no pé da turma que subiu primeiro, foi puxada silenciosamente.
+Em 1985, o antigo chefe de bairro Shi Chung-sheng e sua esposa esgotaram todas as suas economias para reunir NT$400 mil para a entrada, comprando uma casa que custava NT$67 mil por ping. Naquele momento, a Habitação Nacional era uma promessa completa de justiça habitacional: o governo construía casas baratas para ajudar quem não tinha condições de comprar a "entrar no jogo". Sua única falha foi esquecer de instalar um portão na saída: ninguém estipulou como deveria ser dividida a valorização futura daquele imóvel — aquela diferença de preço cultivada por subsídios públicos e pela localização. Assim, quarenta anos depois, o mesmo endereço aproxima-se de um milhão por ping; a entrada paga naquela época não compra mais nem um único ping, e a escada sob os pés daqueles que entraram primeiro foi silenciosamente recolhida.
 
-Hong Kong chama essa comporta de reembolso de prêmio de terreno; Reino Unido usou o custo de 8 trilhões em direitos para aprender que não dá para não botar; Singapura botou barreiras e ainda vaza. Taiwan rodeou cinquenta anos inteiros, 2002 até derrubou com a própria mão a meia parede que tinha; até 2026, finalmente um governo local botou "revenda não pode exceder preço original de aquisição" esses caracteres, dentro de uma lei chamada "habitação acessível". É exatamente a comporta que a habitação nacional não botou na época, que Hong Kong chama de reembolso de prêmio de terreno.
+Hong Kong chama esse portão de "pagamento de diferença de valor de terreno" (premium); o Reino Unido aprendeu, ao custo de 8 trilhões em direitos, que não se pode deixar de instalá-lo; Singapura estabeleceu critérios, mas ainda assim há vazamentos. Taiwan deu voltas por cinquenta anos inteiros e, em 2002, chegou a derrubar com as próprias mãos a única meia parede existente, até que, em 2026, finalmente um governo local incluiu as palavras "a revenda não pode exceder o preço de compra original" em uma regulamentação chamada "Habitação Acessível". Esse é exatamente o portão que a Habitação Nacional não instalou na época e que os habitantes de Hong Kong chamam de pagamento de diferença de valor de terreno.
 
-Então a verdadeira pergunta dessa história, nunca foi "governo consegue ou não construir casa". A habitação nacional provou que consegue; Taoyuan está se preparando para construir de novo. A verdadeira pergunta é: depois de "ajudar você a comprar", essa valorização pertence a quem: pertence àquele que subiu primeiro, ou pertence à geração seguinte ainda na fila na porta.
+Portanto, o verdadeiro problema desta história nunca foi se "o governo consegue ou não construir casas". A Habitação Nacional provou que o governo consegue construir, e Taoyuan também se prepara para construir novamente. O verdadeiro problema é: depois de "ajudar você a conseguir comprar", a quem pertence essa valorização: à primeira pessoa que entrou no jogo, ou à próxima geração que ainda está na fila à porta?
 
-Quem apertou o botão de votação na terceira leitura da Câmara de Taoyuan talvez não tenha percebido; eles, ao mesmo tempo, assentaram o último tijolo na parede derrubada cinquenta anos atrás. Se esse tijolo vai virar uma escada rolante que não puxa mais a escada, ou vai travar de novo no cabo de guerra de centro e local que não alinham, o próximo preço de porta da Chenggong Habitação Nacional, vai registrar a resposta para nós.
+As pessoas que apertaram o botão de votação no dia da terceira leitura na Assembleia de Taoyuan talvez não tenham percebido que, ao mesmo tempo, estavam colocando o último tijolo na parede que foi derrubada há cinquenta anos. Se esse tijolo será capaz de construir uma escada rolante que não recolhe mais os degraus, ou se ficará travado novamente no impasse entre o governo central e o local, o preço do próximo endereço da Habitação Nacional Chenggong registrará a resposta para nós.
 
 ---
 
-**Leitura complementar**:
+**Leituras complementares**:
 
-- [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — A rota "só aluga não vende" pós-2016: oito anos 200 mil, construção direta e gestão de aluguel mestre duas pistas, como o design de convivência mista evita estigma na habitação social (artigo irmão deste, continua a história após a saída da habitação nacional em 2015)
-- [Crise de natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — Não conseguir comprar casa e não conseguir gerar filhos são as duas pontas da mesma fissura estrutural, outro corte da justiça intergeracional
-- [Barracão de chapinha (鐵皮屋)](/pt/society/taiwan-tin-shed-houses) — Quando não compra nem aluga com segurança, como o povo de Taiwan usa o jeito mais penoso para si mesmo construir um canto para morar
-- [Justiça ambiental e conflitos NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Habitação social, equipamentos rejeitados vão parar ao lado de quem; a fronteira entre justiça habitacional e justiça espacial
+- [Preços de imóveis, empréstimos hipotecários e o Empréstimo Jovem em Taiwan](/housing/) — Página temática: relação preço-renda imobiliária, condições para as três gerações do empréstimo Jovem e cronologia de oitenta anos de políticas habitacionais, com simulador de hipoteca.
+- [Habitação Social e Justiça Habitacional](/pt/society/social-housing-and-housing-justice) — A trajetória da habitação social "apenas aluguel, não venda" após 2016: 200 mil unidades em oito anos, o modelo duplo de construção direta e gestão por sublocação, e como o design de coabitação evita que a habitação social seja estigmatizada (artigo complementar, continuando a história após o fim da era da Habitação Nacional em 2015).
+- [A crise de baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — A incapacidade de comprar uma casa e a incapacidade de ter filhos são dois lados da mesma fenda estrutural; outra face da justiça geracional.
+- [Casas de zinco (teto de chapa)](/pt/society/taiwan-tin-shed-houses) — Quando não se pode comprar nem alugar com estabilidade, como os taiwaneses usam os métodos mais difíceis para construir um abrigo para si mesmos.
+- [Justiça ambiental e disputas NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Habitação social e instalações indesejadas: perto de casa de quem devem ser construídas? A intersecção entre justiça habitacional e justiça espacial.
 
 ## Dados públicos
 

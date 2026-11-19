@@ -1,6 +1,6 @@
 ---
-title: 'Grades de ferro de Taiwan: como uma janela de segurança solda a autobiografia de um lar'
-description: 'Das décadas de 1950 a 1970, as grades de ferro espalharam-se junto com as residências e o fornecimento de aço em Taiwan. Originalmente destinadas à segurança, acabaram por gravar nas fachadas das ruas a profissão, a fé, as viagens e as memórias familiares dos moradores. Das 48 grades do Yuan Legislativo em 1958, às grades residenciais de Beitun em Taichung, até ao tecido urbano das casas antigas de Lukang e Anping, estas peças de ferro mostram como as casas velhas protegem a vida ao mesmo tempo que a exibem à rua e aos leitores futuros, revelando a tensão entre preservação e uso.'
+title: 'Grades de Ferro de Taiwan: Como uma janela de proteção se tornou a biografia de uma família'
+description: 'Entre 1950 e 1970, as grades de ferro (tiechuanghua) popularizaram-se com o crescimento residencial e do suprimento de aço. Criadas para segurança, elas acabaram registrando profissões, crenças e memórias familiares nas fachadas das ruas.'
 date: 2026-08-20
 category: 'Culture'
 tags:
@@ -23,132 +23,134 @@ rationale:
   where_it_hedges: '公共建築窗花的設計寓意若缺乏原始檔案，只標示為地方流傳，不寫成確定史實。'
   whos_pushing_back: '保存鐵窗花可能與採光、通風、安全、產權和更新需求衝突，文章保留屋主、工匠與修繕者的不同考量。'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鐵窗花.md'
-sourceCommitSha: 'ec3d660ca'
-sourceContentHash: 'sha256:1888ffac8016e710'
-sourceBodyHash: 'sha256:30a2135abbfbcd4c'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:def335d4114c8b87'
+sourceBodyHash: 'sha256:fc143e859b0c1c51'
+translatedAt: '2026-11-19T10:32:48+08:00'
 ---
 
-> **Visão geral em 30 segundos:** As grades de ferro já apareciam na arquitetura de Taiwan durante o período colonial japonês; a guerra interrompeu-as com a reciclagem de metal; do final da década de 1960 até aos anos 1970, espalharam-se com a expansão habitacional e o abastecimento de aço. Combinam segurança, iluminação e decoração, e também deixam na rua a profissão, a fé e as memórias familiares dos moradores. Este artigo parte das 48 grades do Yuan Legislativo em 1958, percorre os registos de campo do estúdio Lao Wu Yan, as casas antigas de Lukang e a preservação do património histórico, para explicar por que uma peça de ferro sem assinatura se torna história da vida comum.
+> **Resumo em 30 segundos:** As grades de ferro (tiechuanghua) já apareciam na arquitetura de Taiwan durante o período colonial japonês, mas foram interrompidas pela reciclagem de metais durante a guerra. Elas se popularizaram entre o final da década de 1960 e a de 1970, acompanhando o aumento das residências e do suprimento de aço. Além de funções de segurança, iluminação e decoração, elas registram as profissões, crenças e memórias familiares dos moradores nas ruas. Este artigo percorre desde as 48 grades do Legislativo de Taiwan em 1958 até os registros de campo de Lao Wu Yan (老屋顏), a preservação de casas antigas em Lukang e a compreensão da tensão entre conservação e uso.
 
-![Residências em vielas de Beitun, Taichung, mostrando como as grades de ferro se tornaram elemento quotidiano das fachadas residenciais](https://upload.wikimedia.org/wikipedia/commons/a/a6/Houses_with_window_grills_in_Beitun.jpg)
+![Grades de uma residência em um beco em Beitun, Taichung, mostrando como as grades de ferro se tornaram um componente cotidiano das fachadas residenciais](https://upload.wikimedia.org/wikipedia/commons/a/a6/Houses_with_window_grills_in_Beitun.jpg)
 
-_Imagem: grades de janela de residências em vielas de Beitun, Taichung. Autor Dquai, licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg). A imagem serve para ilustrar o contexto de rua, não como prova de época específica ou história de morador particular._
+_Imagem: Grades de uma residência em um beco em Beitun, Taichung. Autor: Dquai, sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg). A imagem é usada para contexto de paisagem urbana, não servindo como evidência de uma época ou história específica de um proprietário._
 
-Em 1958, nas janelas do edifício da Assembleia Provincial de Taiwan, foram instaladas 48 grades de ferro. Cada grade media cerca de 136 cm de altura por 86 cm de largura, e nenhuma tinha o mesmo padrão. Não eram as redes de proteção padronizadas de hoje, mas um conjunto que punha linhas geométricas, soldadura artesanal e a imponência da arquitetura política na mesma parede. [^1]
+Em 1958, as janelas do edifício da Assembleia Legislativa da Província de Taiwan foram equipadas com 48 grades de ferro. Cada painel media aproximadamente 136 cm de comprimento por 86 cm de largura, e nenhum padrão era exatamente igual ao outro. Não se tratava das redes de proteção padronizadas comuns hoje, mas de um conjunto de peças de ferro que combinavam linhas geométricas, soldagem manual e a imponência da arquitetura política em uma única parede. [^1]
 
-Recuando mais, a arquitetura de Taiwan já apresentava grades de ferro no período colonial japonês. Após a expansão do conflito em 1937, o governo japonês emitiu ordens de recolha de metal, e as grades e corrimãos de ferro das habitações foram desmontados para virar material de guerra. As grades de ferro nem sempre estiveram nas ruas; já desapareceram da vida por causa da guerra. [^1]
+Olhando mais para trás, as grades de ferro já apareciam na arquitetura de Taiwan durante o período colonial japonês. Após a expansão das hostilidades em 1937, o governo japonês emitiu ordens de reciclagem de metais; as grades e cercas de ferro das residências foram removidas para se tornarem suprimentos de guerra. As grades de ferro não estiveram sempre nas ruas; elas chegaram a desaparecer da vida cotidiana devido à guerra. [^1]
 
-Por isso, as grades de ferro familiares aos taiwaneses não se resumem a "decoração de casa velha". São o resultado conjunto de habitação pós-guerra, abastecimento industrial, segurança familiar e técnica artesanal. O mais contra-intuitivo é que, nascidas para manter pessoas fora, acabaram por exibir a história do morador a quem passa na rua.
+Portanto, as grades de ferro familiares aos taiwaneses não podem ser resumidas apenas como "decoração de casas antigas". Elas são o resultado do crescimento conjunto das residências no pós-guerra, do suprimento industrial, da segurança doméstica e da habilidade artesanal. O aspecto mais contraintuitivo é que, embora tenham sido criadas para manter as pessoas do lado de fora, acabaram exibindo a história dos proprietários para os transeuntes.
 
-> **📝 Nota do curador**
-> As grades de ferro de Taiwan não são a última linha que fecha a casa para fora, mas a primeira vez que a casa se conta à rua.
+> **📝 Nota do Curador**
+> As grades de ferro de Taiwan não são a última linha de defesa para fechar uma casa, mas sim a primeira maneira de a casa contar sua história para a rua.
 
-## Da escassez de guerra ao quotidiano das casas de rua
+## Da escassez de guerra ao cotidiano urbano
 
-Os dados do Parque Cívico do Yuan Legislativo marcam a cronologia com clareza. No pós-guerra imediato, o aço servia sobretudo à reconstrução e à defesa, com uso civil restrito. A partir do final dos anos 1960, a indústria virou-se da agricultura para a manufatura; após a fundação da China Steel em 1971, o fornecimento de aço estabilizou, e as grades de ferro entraram enfim nas residências comuns. [^1]
+Os dados do Parque Legislativo Democrático esclarecem o cronograma. No início do pós-guerra, o aço era usado principalmente para reconstrução e defesa nacional, com uso civil limitado. Foi apenas no final da década de 1960, com a transição da indústria agrícola para a industrial e a fundação da China Steel em 1971, que o suprimento de aço se estabilizou, permitindo que as grades de ferro entrassem gradualmente nas residências comuns. [^1]
 
-Esta linha do tempo explica por que as grades de ferro são vistas como marca visual do "Taiwan pós-guerra". Os anos 1950 a 1970 foram o período de rápida multiplicação de habitações, com casas de rua e apartamentos a surgir em massa. A revista Taiwan Panorama aponta que era também tempo de casas construídas depressa, mas com padrões livres. [^2] Aqui, "popularização" não significa que cada família usasse o mesmo desenho, mas que o abastecimento de material, a procura habitacional e a técnica dos ferreiros tornaram gradualmente a grade de ferro um componente acessível e personalizável.
+Essa linha do tempo explica por que as grades de ferro são frequentemente vistas como um símbolo visual da "Taiwan do pós-guerra". As décadas de 1950 a 1970 foram o período de rápido aumento residencial e surgimento em massa de casas de rua e apartamentos. Relatos da revista _Taiwan Panorama_ indicam que este também foi um período em que as construções eram rápidas, mas os padrões decorativos eram muito livres. [^2] Essa "popularização" não deve ser entendida como o uso de padrões idênticos em todas as casas, mas sim como o momento em que o suprimento de materiais, a demanda residencial e a técnica de serralheria tornaram as grades um componente doméstico acessível e personalizável.
 
-Na época, a grade não se escolhia de um catálogo por número. O manual de reabilitação de casas antigas do Bureau de Desenvolvimento Urbano de Kaohsiung indica que as grades antigas usavam ferro preto, forjado e dobrado à mão, sem padrão fixo; arranjos geométricos, flores e plantas, ou totens figurativos podiam todos virar material de composição do artesão. [^3]
+Naquela época, escolher uma grade não era apenas selecionar um número de catálogo. O manual de renovação de casas antigas da Secretaria de Desenvolvimento Urbano de Kaohsiung aponta que as primeiras grades eram feitas principalmente de ferro preto, moldadas por forjamento e dobra, sem um padrão fixo; arranjos geométricos, flores, plantas e totens figurativos podiam ser usados como materiais de composição pelos artesãos. [^3]
 
-Esta prática fazia as janelas da mesma rua parecerem parentes, mas nunca produtos idênticos de linha de montagem. Havia quem quisesse flores, quem quisesse montanhas e águas, quem pusesse a profissão, a fé ou o gosto da família. A Biblioteca Pública de Taipé, ao organizar _Lao Wu Yan e as grades de ferro_, destaca também paisagens e flores, música e dança, animais e insetos, e até religião e feng shui entre os motivos possíveis. [^4]
+Essa prática fazia com que as janelas de uma mesma rua parecessem "parentes", mas não produtos idênticos de massa. Alguns queriam flores, outros paisagens naturais; alguns incluíam sua profissão, crença ou preferências familiares. Ao organizar o projeto _Lao Wu Yan e as Grades de Ferro_ (老屋顏與鐵窗花), a Biblioteca Municipal de Taipé mencionou que elementos como flora e fauna, música, dança, animais, insetos e até temas de religião e Feng Shui podiam aparecer nas grades. [^4]
 
-## Uma grade, um pedaço da vida do morador
+## Um painel de grade, uma vida de proprietário
 
-![Fachada de casa antiga em Lukang, fornecendo contexto visual da relação entre casa de rua e portas/janelas](https://upload.wikimedia.org/wikipedia/commons/0/02/Old_taiwanese_house_in_Lukang%2C_Taiwan.JPG)
+![Fachada de uma casa antiga em Lukang, fornecendo um contexto visual para entender a relação entre as casas de rua locais e as janelas](https://upload.wikimedia.org/wikipedia/commons/0/02/Old_taiwanese_house_in_Lukang%2C_Taiwan.JPG)
 
-_Imagem: casa antiga em Lukang. Autor Yug, licença [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_taiwanese_house_in_Lukang,_Taiwan.JPG). Esta imagem ilustra a fachada e a escala de vida da casa antiga; não afirma que cada janela visível seja uma grade de ferro como as descritas no artigo._
+_Imagem: Casa antiga em Lukang. Autor: Yug, sob [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_taiwanese_house_in_Lukang,_Taiwan.JPG). Esta imagem é usada para ilustrar a escala das fachadas e da vida em casas antigas, não alegando que cada janela na imagem seja uma grade de ferro como as descritas neste artigo._
 
-Em 2020, a Readmoo – Linha de Frente da Leitura entrevistou Hsin Yung-sheng e Yang Chao-ching do estúdio Lao Wu Yan. Os dois começaram apenas a andar de mota pelas vielas de Tainan a fotografar casas velhas; a fotografar, descobriram que os padrões nas janelas diziam mais sobre a personalidade dos moradores do que as próprias paredes exteriores. Em meio ano, registaram uma a duas mil fotografias de grades de ferro. [^5]
+Em 2020, o portal _Readmoo_ entrevistou Xin Yong-sheng (辛永勝) e Yang Chao-jing (楊朝景), do estúdio Lao Wu Yan. Inicialmente, eles apenas percorriam os becos de Tainan de motocicleta para fotografar casas antigas, mas acabaram descobrindo que os padrões nas janelas revelavam mais a personalidade dos moradores do que as próprias paredes externas. Em seis meses, eles fotografaram entre mil e duas mil grades de ferro. [^5]
 
-O seu método assemelha-se a trabalho de campo. Não se limitam a fotografar a frente; procuram os moradores, conversam, perguntam como nasceu o padrão, como a casa foi erguida. Em Toucheng, Yilan, há uma grade com dragão e fénix; em Lukang, um morador transformou a memória de uma viagem à Europa com a filha num padrão de arco do triunfo. A grade era originalmente uma peça de ferro inorgânica; a história aparece só quando o morador abre a porta e serve uma bebida. [^5]
+O método de trabalho dos dois assemelha-se ao trabalho de campo. Eles não apenas tiram fotos frontais, mas também conversam com os proprietários para perguntar a origem do padrão e como a casa foi construída. Em Toucheng, Yilan, há uma grade com motivos de dragão e fênix; em Lukang, um proprietário transformou a memória de uma viagem à Europa com sua filha no padrão de um Arco do Triunfo. A grade, originalmente um objeto inanimado de ferro, ganha história apenas quando o proprietário abre a porta e oferece uma bebida. [^5]
 
-Hsin Yung-sheng diz que procuram "o sabor da memória". A frase nasceu a falar de pequeno-almoço e lojas antigas, mas cabe também nas grades de ferro. A grade não é obra de arte destacada da vida; convive com o chão de terrazzo, o altar doméstico, a altura dos umbrais, os ramos dos vasos, compondo o espaço que uma família usa todos os dias. [^5]
+Xin Yong-sheng afirma que eles "buscam o sabor da memória". Embora a frase tenha sido dita originalmente sobre cafés e lojas antigas, ela se aplica perfeitamente às grades de ferro. Elas não são obras de arte desassociadas da vida; junto com os pisos de granilite (_moshi_) e os altares domésticos, elas compõem o espaço utilizado diariamente por uma família. [^5]
 
-Isso muda o nosso olhar sobre as casas antigas. O mediador imobiliário chama à casa "objeto"; o morador vê nela o recipiente onde uma família viveu. O valor da grade não está só na forma, mas em deixar um estranho saber no que aquela família acreditou, quem lembrou, o que quis deixar aos olhos de quem está lá fora. [^4] [^5]
+Isso também muda nossa forma de ver as casas antigas. Enquanto corretores de imóveis chamam a casa de "objeto", o proprietário a vê como um recipiente onde sua família viveu. O valor da grade não está apenas na estética, mas no fato de permitir que um estranho saiba no que aquela família acreditava, quem eles lembravam e o que desejavam deixar diante dos olhos de quem passa pela rua. [^4] [^5]
 
-> **📝 Nota do curador**
-> A parte mais preciosa da grade de ferro muitas vezes não é o quão bonita a soldadura ficou, mas o facto de fazer o morador querer falar mais cinco minutos da sua casa.
+> **📝 Nota do Curador**
+> A parte mais preciosa das grades de ferro muitas vezes não é a beleza da solda, mas o fato de que elas fazem o proprietário querer falar por mais cinco minutos sobre sua própria casa.
 
-## As 48 grades do Yuan Legislativo, por que todas diferentes
+## As 48 grades do Legislativo: por que cada uma é diferente?
 
-O edifício da Assembleia Provincial de Taiwan oferece um contraponto de arquitetura pública. Concluído em 1958, usava grandes áreas de grades de ferro nas janelas, cumprindo ao mesmo tempo segurança e decoração. A frente tem 30 grades, cada lateral 8, totalizando 48, todas com desenho distinto. [^1]
+O edifício da Assembleia Legislativa da Província de Taiwan oferece um contraponto em arquitetura pública. Concluído em 1958, o edifício utiliza grandes áreas de grades de ferro para funções de segurança e decoração simultaneamente. A fachada possui 30 painéis, com 8 de cada lado, totalizando 48, todos com designs distintos. [^1]
 
-A página de referência aponta que nos padrões se veem formas que lembram espadas ocidentais; uma interpretação local diz que os deputados provinciais, como voz do povo no plenário, travavam duelos verbais com funcionários ou outros deputados, daí a imagem da espada na grade. A intenção original de projeto já não se pode confirmar, pelo que esta leitura serve melhor como memória local do edifício do que como conclusão definitiva de história do desenho. [^1]
+Documentos indicam que podem ser vistos formatos semelhantes a espadas ocidentais nas grades. Existe uma interpretação local de que, como os legisladores provinciais atuavam como porta-vozes do povo no plenário, debatendo intensamente com oficiais e outros membros, a imagem da "luta de espadas" foi incorporada ao design. Como o propósito original do projeto não pode mais ser verificado, essa explicação funciona melhor como uma memória local da arquitetura do que como uma conclusão definitiva da história do design. [^1]
 
-Este exemplo importa não porque prove que cada flor tem um código. Lembra-nos que as grades de ferro em Taiwan nunca tiveram só a escala da habitação privada. Podem ser um pequeno painel na janela da cozinha, ou um vocabulário arquitetónico inteiro na frente de uma instituição pública. Função e símbolo estiveram colados desde o início.
+Este exemplo é importante não porque prove que cada flor possui um código secreto, mas porque nos lembra que as grades de ferro em Taiwan nunca existiram apenas na escala residencial privada. Elas podem ser um pequeno painel ao lado de uma cozinha ou todo o vocabulário arquitetônico da fachada de uma instituição pública. Função e simbolismo estão entrelaçados desde o início.
 
-## Quem regista estas obras sem assinatura
+## Quem registra essas obras sem assinatura?
 
-Os criadores das grades de ferro quase não deixaram nomes. O artesão trabalhava talvez só com um "quero qualquer coisa com flores" do morador ou um esboço à mão; terminada a casa, a obra virava parte da arquitetura. Não têm título de exposição como escultura, nem assinatura como quadro; geralmente só quem lá mora sabe por que têm aquele aspeto.
+A maioria dos criadores das grades de ferro não deixou seus nomes. O artesão pode ter trabalhado apenas com base no pedido "quero algo com flores" ou um esboço feito à mão; uma vez concluída a casa, a obra torna-se parte da arquitetura. Não é como uma escultura com nome de exposição ou uma pintura com assinatura; geralmente, apenas quem vive ali sabe por que ela tem aquela aparência.
 
-O estúdio Lao Wu Yan, fundado em 2013, fez pela primeira vez uma grande recolha e partilha desta paisagem de rua sem assinatura. A Biblioteca Pública de Taipé regista que Hsin Yung-sheng e Yang Chao-ching começaram a partilhar fotos na rede, foram construindo comunidade, publicaram livros, e transformaram as grades de ferro de "coisa muito comum em casa velha" em elemento de Taiwan que vale a pena preservar. [^4]
+O estúdio Lao Wu Yan, fundado em 2013, permitiu que essa paisagem urbana sem assinatura fosse organizada e compartilhada em larga escala pela primeira vez. Segundo a Biblioteca Municipal de Taipé, Xin Yong-sheng e Yang Chao-jing começaram compartilhando fotos na internet e gradualmente construíram uma comunidade e publicaram livros, transformando as grades de ferro de "algo comum em casas velhas" em um elemento de Taiwan digno de preservação. [^4]
 
-A página temática do Museu Nacional de Belas Artes de Taiwan documenta a artista Wu Chien-yi, que desde 2015 toma as grades de ferro como tema de criação e investigação. Quando a grade entra na criação artística, deixa de ser acessório de casa velha e torna-se meio para reolhar a memória coletiva. [^6]
+Uma seção temática do Museu de Arte de Taiwan também registra que a artista Wu Qian-yi (吳芊頤) utiliza as grades de ferro como tema de criação e pesquisa desde 2015. Quando a grade é inserida na criação artística, ela deixa de ser apenas um acessório da casa antiga para se tornar um meio de reinterpretar a memória coletiva. [^6]
 
-Em 2026, o Museu de Arte Yuejin de Tainan programou uma palestra com o "Registo das grades de ferro de Taiwan" de Yang Chao-ching, mostrando que o tema saiu da fotografia individual para a discussão pública em instituições culturais locais. [^7]
+Em 2026, o Museu de Arte Yuejin, em Tainan, organizou uma palestra baseada no "Registro das Grades de Ferro de Taiwan" de Yang Chao-jing, mostrando que o tema evoluiu de fotografias pessoais para discussões públicas em instituições culturais locais. [^7]
 
-Esta mudança traz uma contradição. As grades comovem justamente porque não nasceram para ser vistas. Quando são organizadas, publicadas, expostas, Taiwan passa a ver o seu quotidiano, mas deve ter cuidado para não embalar as histórias de vida dos moradores como estilo retro consumível.
+Essa transição traz certa contradição. As grades de ferro são tocantes justamente porque não foram criadas com o propósito de serem vistas. Quando são organizadas, publicadas e expostas, Taiwan começa a enxergar seu cotidiano, mas deve ter cuidado para não transformar excessivamente as histórias de vida dos proprietários em um estilo retrô consumível.
 
-## Preservar não é transformar cada janela em peça de museu
+## Preservar não é transformar cada janela em uma peça de exibição
 
-A dificuldade de preservar casas antigas vem, em geral, de a casa precisar simultaneamente de segurança, iluminação, ventilação e novos usos. Arrancar a janela velha e pôr alumínio é rápido e atende fácil às exigências atuais. Manter a grade de ferro exige conhecer a sua estrutura, o grau de ferrugem, o modo de fixação e o contexto de uso original.
+A dificuldade na preservação de casas antigas geralmente advém da necessidade simultânea de segurança, iluminação, ventilação e novos modos de uso. Substituir as janelas antigas por alumínio é rápido e atende às necessidades modernas. Manter as grades de ferro exige conhecer sua estrutura, nível de corrosão, método de fixação e o contexto original de uso.
 
-O Bureau Cultural do Condado de Hualien lista "grades de ferro e paredes brancas" como traço identificável dos dormitórios da Agência Florestal. O Governo do Condado de Pingtung, ao apresentar o plano de preservação da Vila Estrela da Vitória, refere que as 120 habitações históricas conservam grades de ferro antigas, ladrilhos hidráulicos e vitrais coloridos. Estes casos mostram que o foco da preservação não é levar a decoração sozinha para o museu, mas mantê-la, tanto quanto possível, na relação original com a casa. [^8] [^9]
+A página de patrimônio histórico do Departamento de Cultura de Hualien lista "grades de ferro e paredes brancas" como uma das características identificáveis das residências da Secretaria de Florestas. Ao apresentar o plano de preservação da Vila Shengli, o governo de Pingtung também mencionou que 120 edifícios históricos mantêm as grades de ferro tradicionais, ladrilhos de cimento e vitrais coloridos. Esses casos mostram que o foco da preservação não é mover a decoração isoladamente para um museu, mas tentar mantê-la dentro de sua relação original com a edificação. [^8] [^9]
 
-O manual de reabilitação de Kaohsiung aponta outro caminho. A casa antiga pode ter novo uso, a grade de ferro pode virar material do novo espaço, mas a condição é compreender a técnica e a proporção originais, não apenas copiar um padrão que "parece retro". [^3]
+O manual de renovação de casas antigas de Kaohsiung oferece outra direção: as casas podem ser reutilizadas e as grades de ferro podem se tornar materiais em novos espaços, desde que se compreenda o método construtivo e as proporções originais, em vez de apenas copiar um padrão que "pareça retrô". [^3]
 
-Uma reportagem do Departamento de Jornalismo da Universidade Shih Hsin nota que as grades de ferro estão a ser convertidas em artesanato cultural e criativo. Esse caminho dá nova fonte de rendimento à velha técnica, mas pode também achatar o complexo tecido de vida em padrão de mercadoria. O que verdadeiramente vale a pena guardar não são só as flores, borboletas ou grelhas geométricas, mas também como o artesão fazia, por que o morador escolheu, e com que tipo de vida aqueles padrões conviveram. [^10]
+Um relato do departamento de jornalismo da Universidade Shih Hsin menciona que as grades de ferro estão sendo transformadas em artesanato criativo. Este caminho pode gerar novas fontes de renda para métodos antigos, mas também corre o risco de achatar contextos de vida complexos em meros padrões comerciais. O que realmente merece ser preservado não são apenas as flores, borboletas ou linhas geométricas, mas como o artesão as fez, por que o proprietário as escolheu e com qual estilo de vida esses padrões estavam conectados. [^10]
 
-> **📝 Nota do curador**
-> O padrão mínimo para preservar a grade de ferro é lixá-la e pintá-la sem a fazer perder a casa que ela servia para proteger, iluminar e contar.
+> **📝 Nota do Curador**
+> O padrão mínimo para preservar uma grade de ferro é garantir que, após ser limpa, ela não perca a casa que ela originalmente deveria proteger, iluminar e contar histórias.
 
-## O que vemos hoje pode ser a última camada de tinta preta
+## O que vemos hoje pode ser apenas a última camada de tinta
 
-A renovação urbana e a reabilitação de casas antigas em Taiwan vão continuar. Nem toda a grade merece ficar intocada, nem todo o edifício novo deve imitar a flor de janela pós-guerra. A atitude mais honesta é registar primeiro, julgar depois: fotografar o padrão, entrevistar o morador, identificar a técnica, confirmar a época da casa, só então decidir restauro, reconversão ou demolição.
+A renovação urbana e a reforma de casas antigas em Taiwan continuarão. Nem toda grade de ferro merece ser mantida intacta, nem todo edifício novo deve imitar as janelas do pós-guerra. Uma abordagem mais honesta é primeiro registrar e depois julgar: fotografar o padrão, entrevistar o proprietário, identificar o método construtivo, confirmar a época da casa e, só então, decidir pela restauração, reutilização ou demolição.
 
-O site bilíngue ONG do Ministério das Relações Exteriores republicou a reportagem sobre grades de ferro mencionando que, em Lukang, um morador pôs na grade a Torre dos Dez Propícios (Shih-i Lou) e o Meio Poço (Pan-pien Ching) — marcos locais. Este exemplo mostra que a grade não é mero enquadramento decorativo, mas o modo de o morador reduzir o mapa do lugar à soleira de casa. [^11]
+Um relatório publicado no site bilíngue de ONGs do Ministério das Relações Exteriores menciona que um proprietário em Lukang incluiu os locais famosos Shiyilou (十宜樓) e Banbianjing (半邊井) em suas grades. Exemplos como este mostram que o painel da janela não é apenas uma moldura decorativa, mas a maneira como os residentes encolhem o mapa local até a porta de casa. [^11]
 
-![Fachadas de quarteirão histórico em Anping, Tainan, mostrando como a arquitetura histórica liga janelas, paredes e rua num mesmo cenário de vida](https://upload.wikimedia.org/wikipedia/commons/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg)
+![Fachada de um bairro em Anping, Tainan, mostrando como edifícios históricos conectam janelas, paredes e ruas em uma única cena de vida](https://upload.wikimedia.org/wikipedia/commons/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg)
 
-_Imagem: casas antigas do século XIX em Anping, Tainan. Autor CEphoto, Uwe Aranas, licença [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Mantidas as informações de autor e licença da [página do ficheiro no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg). A imagem ilustra o contexto de rua histórica; não serve para inferir a data das grades de ferro._
+_Imagem: Casa antiga do século XIX em Anping, Tainan. Autores: CEphoto, Uwe Aranas, sob [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Mantendo as informações de autor e licença da [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg). Esta imagem é uma ilustração do contexto das casas de rua históricas, não devendo ser usada para inferir a época das grades de ferro._
 
-Se virmos a grade só como equipamento de segurança, perdemos a sua segunda função. Se a virmos só como estética retro, esquecemos que já respondeu a ansiedades reais de segurança, escassez de material e necessidades familiares. É simultaneamente proteção e exibição. Retém um pouco o mundo lá fora, e revela um pouco a vida lá dentro.
+Se virmos as grades de ferro apenas como dispositivos de segurança, perderemos sua segunda função. Se as virmos apenas como estética retrô, esqueceremos que elas responderam a ansiedades reais de segurança, escassez de materiais e necessidades familiares. Elas são, simultaneamente, proteção e exibição. Elas bloqueiam um pouco o mundo exterior, mas revelam um pouco da vida interior.
 
-## Três coisas a distinguir ao ver as imagens
+## Ao observar as imagens, diferencie três coisas
 
-Primeiro, as imagens ajudam o leitor a reconhecer a escala das grades, portas/janelas e fachadas de casas antigas, mas não provam sozinhas a data de um padrão. Segundo, as informações de autor e licença na página do Wikimedia Commons, e as fontes históricas das grades de ferro de Taiwan, são duas cadeias de evidência diferentes. A primeira responde "esta foto pode ser usada", a segunda "como se formou esta janela". Terceiro, o facto de uma foto de casa antiga mostrar grades não autoriza o observador a inventar a história do morador. O que se pode confirmar, toma-se por base na página do ficheiro e nas fontes do artigo. O que não se confirma, guarda-se como impressão visual, sem transformar conjectura em facto histórico.
+Primeiro, as fotos podem ajudar o leitor a entender a escala das grades, portas e fachadas, mas não provam sozinhas a época de um padrão. Segundo, as informações de autor e licença na página do Commons são uma cadeia de evidência diferente da origem histórica das grades; a primeira responde "posso usar esta foto?", a segunda responde "como esta janela se formou?". Ter painéis de janelas em fotos de casas antigas não significa que a história do proprietário possa ser inventada pelo espectador. O que pode ser confirmado deve basear-se nas fontes do arquivo e do artigo; o que não pode ser confirmado permanece como impressão visual, sem transformar suposições em fatos históricos.
 
-Esta distinção pode parecer conservadora, mas é o respeito mais básico ao preservar arquitetura comum. As grades de ferro quase não têm assinatura; uma foto separada da explicação original facilmente recebe lugar, data ou identidade de morador errados. A imagem não é, portanto, adorno do artigo, mas porta de entrada de fonte histórica a verificar em conjunto.
+Essa distinção pode parecer conservadora, mas é o respeito mais fundamental ao preservar a arquitetura popular. Como as grades de ferro raramente têm assinatura, uma vez que a foto se descola da descrição original, é fácil atribuir-lhe local, época ou identidade de proprietário errados. Assim, a imagem não é um mero adorno do artigo, mas uma porta de entrada para dados históricos que precisam ser verificados.
 
-Da próxima vez que passar por uma viela de Taiwan, não corra à procura de uma casa velha bonita. Olhe primeiro as janelas. Veja se há um canto assimétrico, um padrão que parece lembrança de viagem, uma flor escondida por vasos, ou um trecho de tinta preta já desbotada. Ali talvez não haja nome de autor, mas alguém já gesticulou diante do artesão, alguém instalou-a por segurança, e alguém pôs na janela o que mais queria deixar na vida.
+Na próxima vez que caminhar pelos becos de Taiwan, não tenha pressa em procurar uma casa antiga bonita. Olhe primeiro para as janelas. Veja se há um canto assimétrico, um padrão que lembre uma lembrança de viagem, uma flor parcialmente escondida por um vaso ou uma camada de tinta preta desbotada. Talvez não haja o nome do autor ali, mas alguém já desenhou diante de um artesão, alguém a instalou por segurança e alguém colocou ali o que mais desejava deixar para ver além da porta.
 
-## Leitura complementar
+## Leitura Complementar
 
-Se quiser situar as grades de ferro num contexto arquitetónico mais amplo, pode continuar com a [arquitetura taiwanesa](/pt/art/taiwanese-architecture/), e comparar como bairros históricos, terrazzo e reutilização de casas antigas preservam juntos a memória do habitar.
+Para situar as grades de ferro em um contexto arquitetônico maior, leia sobre a [Arquitetura de Taiwan](/pt/art/taiwanese-architecture/) no Taiwan.md, comparando como bairros históricos, pisos de granilite e o reuso de casas antigas preservam conjuntamente a memória residencial.
 
 ## Referências
 
-[^1]: [Parque Cívico do Yuan Legislativo, 〈Grades de ferro〉](https://daap.ly.gov.tw/tw/daap/6-5857.html) — Ver detalhes no conteúdo da ligação original
+[^1]: [Parque Legislativo Democrático, 〈Grades de Ferro〉](https://daap.ly.gov.tw/tw/daap/6-5857.html) — Veja informações suplementares no link original.
 
-[^2]: [Taiwan Panorama, 〈A paisagem oculta nas vielas: reverência, as grades de ferro livres〉](https://www.taiwan-panorama.com/Articles/Details?Guid=5df5d9b4-0870-486a-b156-1ad71d4705ae&CatId=10&postname=%E5%B7%B7%E5%BC%84%E8%A3%A1%E7%9A%84%E9%9A%B1%E7%89%88%E9%A2%A8%E6%99%AF%20%20%20%20-%E6%95%AC%EF%BC%8C%E8%87%AA%E7%94%B1%E5%A5%94%E6%94%BE%E7%9A%84%E9%90%B5%E7%AA%97%E8%8A%B1) — Artigo especial da Taiwan Panorama
+[^2]: [Taiwan Panorama, 〈Paisagens ocultas nos becos: Respeito às grades de ferro livres e exuberantes〉](https://www.taiwan-panorama.com/Articles/Details?Guid=5df5d9b4-0870-486a-b156-1ad71d4705ae&CatId=10&postname=%E5%B7%B7%E5%BC%84%E8%A3%A1%E7%9A%84%E9%9A%B1%E7%89%88%E9%A2%A8%E6%99%AF%20%20%20%20-%E6%95%AC%EF%BC%8C%E8%87%AA%E7%94%B1%E5%A5%94%E6%94%BE%E7%9A%84%E9%90%B5%E7%AA%97%E8%8A%B1) — Artigo especial da revista Taiwan Panorama.
 
-[^3]: [Bureau de Desenvolvimento Urbano de Kaohsiung, 〈Manual de reabilitação de casas antigas〉](https://urban-web.kcg.gov.tw/KDA/web_page/KDA020103.jsp?PK01=KDA080200001008) — Ver detalhes no conteúdo da ligação original
+[^3]: [Secretaria de Desenvolvimento Urbano de Kaohsiung, 〈Manual de Renovação de Casas Antigas〉](https://urban-web.kcg.gov.tw/KDA/web_page/KDA020103.jsp?PK01=KDA080200001008) — Veja informações suplementares no link original.
 
-[^4]: [Biblioteca Pública de Taipé, 〈Lao Wu Yan e as grades de ferro: o "elemento Taiwan" esquecido〉](https://tpml.gov.taipei/News_Content.aspx?n=D4B1C88D10A4B867&sms=E9AF1FF62921019B&s=BE671C6EC0F9313D) — Ver detalhes no conteúdo da ligação original
+[^4]: [Biblioteca Municipal de Taipé, 〈Lao Wu Yan e as Grades de Ferro: O "elemento de Taiwan" esquecido〉](https://tpml.gov.taipei/News_Content.aspx?n=D4B1C88D10A4B867&sms=E9AF1FF62921019B&s=BE671C6EC0F9313D) — Veja informações suplementares no link original.
 
-[^5]: [Readmoo – Linha de Frente da Leitura, 〈O quotidiano dentro das grades de ferro é a coleção mais preciosa da casa velha〉](https://news.readmoo.com/2020/10/16/window-grilles-interview/) — Ver detalhes no conteúdo da ligação original
+[^5]: [Readmoo, 〈O cotidiano dentro das grades de ferro é a coleção mais preciosa de uma casa antiga〉](https://news.readmoo.com/2020/10/16/window-grilles-interview/) — Veja informações suplementares no link original.
 
-[^6]: [Museu Nacional de Belas Artes de Taiwan, 〈Tema 009: Olhar especial I〉](https://www.ntmofa.gov.tw/News_Content2.aspx?n=3215&s=103906) — Ver detalhes no conteúdo da ligação original
+[^6]: [Museu de Arte de Taiwan, 〈Série Temática Edição 009 I〉](https://www.ntmofa.gov.tw/News_Content2.aspx?n=3215&s=103906) — Veja informações suplementares no link original.
 
-[^7]: [Museu de Arte Yuejin, 〈Série de salões de fevereiro #01 Yang Chao-ching: Registo das grades de ferro de Taiwan〉](https://yuejinartmuseum.tainan.gov.tw/index.php?modify=news&nc=3&id=98) — Ver detalhes no conteúdo da ligação original
+[^7]: [Museu de Arte Yuejin, 〈Série Salão de Fevereiro #01 Yang Chao-jing: Registro das Grades de Ferro de Taiwan〉](https://yuejinartmuseum.tainan.gov.tw/index.php?modify=news&nc=3&id=98) — Veja informações suplementares no link original.
 
-[^8]: [Bureau Cultural do Condado de Hualien, 〈Dormitórios da Agência Florestal n.º 33 e 33-2 da Rua Jinghua〉](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/44) — Ver detalhes no conteúdo da ligação original
+[^8]: [Departamento de Cultura de Hualien, 〈Residências da Secretaria de Florestas nº 33 e 33-2, Rua Jinghua〉](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/44) — Veja informações suplementares no link original.
 
-[^9]: [Governo do Condado de Pingtung, 〈O mais belo parque de vestígios do país está em Pingtung: novo ponto de visita para a Vila Estrela da Vitória〉](https://www.pthg.gov.tw/plantou/News_Content.aspx?n=3D7FE3A6F999D6C2&sms=6B402F30807E7BB3&s=3DF603634459FA70) — Ver detalhes no conteúdo da ligação original
+[^9]: [Governo de Pingtung, 〈O parque de patrimônio mais bonito do país em Pingtung adiciona novo ponto turístico na Vila Shengli〉](https://www.pthg.gov.tw/plantou/News_Content.aspx?n=3D7FE3A6F999D6C2&sms=6B402F30807E7BB3&s=3DF603634459FA70) — Veja informações suplementares no link original.
 
-[^10]: [Departamento de Jornalismo da Universidade Shih Hsin, 〈Sombra da memória: grades de ferro transformam-se em artesanato cultural e criativo〉](https://shuj.shu.edu.tw/blog/2024/12/22/%E8%A8%98%E6%86%B6%E7%9A%84%E7%B8%AE%E5%BD%B1-%E9%90%B5%E7%AA%97%E8%8A%B1%E8%BD%89%E5%9E%8B%E6%96%87%E5%89%B5%E5%B7%A5%E8%97%9D/) — Ver detalhes no conteúdo da ligação original
+[^10]: [Departamento de Jornalismo da Universidade Shih Hsin, 〈O microcosmo da memória: Grades de ferro transformadas em artesanato criativo〉](https://shuj.shu.edu.tw/blog/2024/12/22/%E8%A8%98%E6%86%B6%E7%9A%84%E7%B8%AE%E5%BD%B1-%E9%90%B5%E7%AA%97%E8%8A%B1%E8%BD%89%E5%9E%8B%E6%96%87%E5%89%B5%E5%B7%A5%E8%97%9D/) — Veja informações suplementares no link original.
 
-[^11]: [Site Bilíngue ONG do Ministério das Relações Exteriores, 〈A paisagem oculta nas vielas: reverência, as grades de ferro livres〉](https://taiwanngo.tw/Post/82664) — Ver detalhes no conteúdo da ligação original
+[^11]: [Site bilíngue de ONGs do Ministério das Relações Exteriores, 〈Paisagens ocultas nos becos: Respeito às grades de ferro livres e exuberantes〉](https://taiwanngo.tw/Post/82664) — Veja informações suplementares no link original.
