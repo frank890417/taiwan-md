@@ -21,11 +21,13 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:d9fdf198e900c6a6'
-sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-11-02T11:46:08.762303+00:00'
+sourceCommitSha: '21af6094c'
+sourceContentHash: 'sha256:fa0d1b0fa9b12911'
+sourceBodyHash: 'sha256:1ff1fa1158f19022'
+translatedAt: '2026-11-19T00:12:41.633967+00:00'
 ---
 
 > **Kurzüberblick (30 Sekunden)**: In den 42 Jahren nach dem Krieg (1945–1987) lebte die taiwanesische Literatur unter der Bedingung des „Nicht-Sagens“: Man durfte nicht Japanisch sprechen, man durfte über den 228er Vorfall nicht sprechen, man durfte nicht sagen, dass Taiwan etwas anderes als China sei, und man durfte nicht über das lokale Milieu schreiben. Dennoch lernte jede Generation von Schriftstellern auf unterschiedliche Weise, „wie man es sagt“. Ye Shi-tao ging von der leeren Seite von 1945 zur 232-seitigen „Geschichte der taiwanesischen Literatur“ von 1987, wobei er durch Sprachlosigkeit, drei Jahre Haft, über zehn Jahre Schweigen und die Schriften „Lokale Literatur Taiwans“ (1965) sowie „Ohne Land gibt es keine Literatur“ (1985) ging. Pai Hsien-yung las Kafka im Luftschutzbunker. Wang Wenxing verbrachte sieben Jahre mit dem Schreiben der beleidigten „Familienveränderung“. Lin Haiyin kündigte als stellvertretende Redakteurin wegen eines Gedichts. Yu Guangzhong rief in der Debatte um die lokale Literatur „Der Wolf ist da“ (狼來了). Li Ang zwang 1983 die Stadt Lin dazu, mit dem Schlachtermesser zu zerlegen. Was diese 42 Jahre hinterließen, war ein ganzes System verschwungener Sprache.
@@ -102,29 +104,31 @@ Ye Shi-tao selbst wurde am 20. September 1951 vom Geheimdienst festgenommen, im 
 
 Im November 1965 veröffentlichte er „Die lokale Literatur Taiwans“ in Ausgabe 97 von _Wenxing_. Dies war seine erste systematische Auseinandersetzung mit dem Bereich der „taiwanesischen Literatur“, seit seinem weißen Blatt [^23].
 
-## Der Sonderbeitrag „Der Wolf ist da“
+## Der Feuilleton-Artikel „Der Wolf kommt“
 
-Im April 1977 veröffentlichte die zweite Ausgabe der Zeitschrift _仙人掌_ (Kakteen) das Dossier „Heimat und Realität“, das von Wang Jianzhuang kuratiert wurde. Es enthielt Artikel von Wang Tuo, Yin Zhengxiong und Zhu Xining [^24]. Wang Tuo argumentierte, dass der Aufschwung der Heimatliteratur ein erfreuliches Phänomen sei und schlug vor, sie in „realistische Literatur“ umzubenennen; Yin Zhengxiong kritisierte die Heimatliteratur als „Krise, bei der sie zum Werkzeug zur Ausdruck von Hass und Abneigung geworden ist“; Zhu Xining wiederum bemängelte, dass die Heimatliteratur provinziell sei und eine „Separatisten-Tendenz“ zeige, da sie zu sehr den Fokus auf das Bewusstsein Taiwans lege.
+Im April 1977 brachte die 2. Ausgabe der Zeitschrift _Xianrenzhang_ (仙人掌雜誌, „Kaktus“) ein Sonderheft zum Thema „Heimatliteratur und Realität“ heraus, herausgegeben von Wang Jian-zhuang, mit Artikeln von Wang Tuo („Es ist ‚realistische Literatur‘, keine ‚Heimatliteratur‘“), Yin Zheng-xiong und Zhu Xi-ning[^24]. Wang Tuo betonte, dass die Blüte der Heimatliteratur ein erfreuliches Phänomen sei, und schlug vor, sie in „realistische Literatur“ umzubenennen; Yin Zheng-xiong kritisierte, die Heimatliteratur stehe in der Gefahr, „zu einem Werkzeug für die Ausdrucksweise von Hass, Abscheu und ähnlichen Gesinnungen zu werden“; Zhu Xi-ning warf der Heimatliteratur vor, in Lokalismus zu verfallen, und die übermäßige Betonung des Taiwan-Bewusstseins wecke den „Verdacht des Separatismus“.
 
-Die Munition für diese Debatte wurde hier geladen.
+Die Spannung des Streits begann sich hier aufzubauen.
 
-Im Juni veröffentlichte Chen Yingzhen unter dem Pseudonym „Xu Nan-cun“ in der zweiten Ausgabe von _Taiwan Literatur_ (台灣文藝) „Blinde Flecken der Heimatliteratur“, in dem er Ye Shi-taos „Bewusstsein Taiwans“, seine „Position Taiwans“ und die „Ambiguität“ kritisierte. Im Juli veröffentlichte Chen Yingzhen zudem in der fünften Ausgabe von _仙人掌_ (Kakteen) „Literatur entspringt gesellschaftlicher Reflexion“ [^25].
+Im Juni veröffentlichte Chen Ying-zhen unter dem Pseudonym „Xu Nancun“ in der zweiten Ausgabe von _Taiwan Wenyi_ (台灣文藝) den Artikel „Die Blindstellen der ‚Heimatliteratur‘“ und kritisierte Ye Shi-taos „Taiwan-Bewusstsein“ und „Taiwan-Standpunkt“ als „mehrdeutig und schwer verständlich“. Im Juli veröffentlichte Chen Ying-zhen in der 5. Ausgabe von _Xianrenzhang_ den Artikel „Literatur kommt aus der Gesellschaft und spiegelt die Gesellschaft wider“[^25].
 
-Am 20. August 1977 veröffentlichte Yu Guangzhong in der Sonderausgabe der Zeitung _United Daily News_ (聯合報) den Artikel „Der Wolf ist da“, in dem er die Heimatliteratur als „die Literatur von Arbeitern, Bauern und Soldaten“ anprangerte und behauptete, dass es auf Taiwan bereits Leute gäbe, die sie offen förderten, wobei er sich auf eine Rede aus der Mao-Zedong-Yan'an-Literaturkonferenz berief [^26]. Der Satz in diesem Artikel, der später am häufigsten zitiert wurde, lautet: „Wer den Wolf nicht sieht und sagt ‚Der Wolf ist da‘, das ist Selbsttäuschung; wer den Wolf sieht und nichts sagt, das ist Feigheit“ [^26].
+Am 20. August 1977 veröffentlichte Yu Guang-zhong in der 12. Seite des _United Daily News_ (聯合報) im Feuilleton den Artikel „Der Wolf kommt“, in dem er der Heimatliteratur vorwarf, es handle sich um „Literatur der Arbeiter, Bauern und Soldaten“, die in Taiwan bereits offen propagiert werde, und zitierte dabei Maos Reden auf dem Yan'an-Forum für Literatur und Kunst[^26]. Der später am häufigsten zitierte Satz daraus lautet: „Wer den Wolf nicht sieht, aber ‚Wolf‘ ruft, beunruhigt sich selbst; wer den Wolf sieht, aber nicht ‚Wolf‘ ruft, ist feige“[^26].
 
-„Die Literatur von Arbeitern, Bauern und Soldaten“ war 1977 in Taiwan ein Hut, der einem zum Gefängnis bringen ließ.
+„Literatur der Arbeiter, Bauern und Soldaten“ war 1977 in Taiwan ein Etikett, das jemanden ins Gefängnis bringen konnte.
 
-Am 29. August fand die „Zweite Nationale Literaturkonferenz“ der KMT statt, bei der Yu Guangzhong im Vorstand wirkte. Wang Jianzhuang erinnerte später daran, dass ein Beamter des Sicherheitsbüros auf dieser Konferenz sagte: „Was diejenigen betrifft, die den Rat der Regierung nicht anhören, ist es nicht, dass die Regierung nichts tut; es ist nur noch nicht die Zeit.“ [^27]
+Am 29. August fand das „Zweite landesweite Literatur- und Kunstgespräch“ der KMT statt, bei dem Yu Guang-zhong dem Präsidium angehörte. Wang Jian-zhuang erinnerte sich später, dass der für Kultur zuständige Beamte des Garnisonskommandos (警備總部) auf der Tagung sagte: „Gegen jene, die die Ermahnungen der Regierung nicht befolgen, unternimmt die Regierung nichts nicht, weil sie es nicht tut, sondern weil die Zeit noch nicht gekommen ist“[^27].
 
-Die Debatte drohte, zu einer Verhaftung hochzuziehen.
+Der Streit drohte in Verhaftungen umzuschlagen.
 
-Am 19. November brach in Zhongli der Vorfall aus, bei dem Xu Xinliang beim Bürgermeisterwahlkampf von Taoyuan verdächtigt wurde, Wählerstimmen manipuliert zu haben; die Zivilisten stürmten und setzten das Bezirksbüro in Zhongli in Brand – ein Wendepunkt in der Geschichte des außerparlamentarischen Aktivismus. Die Aufmerksamkeit der Regierung war abgelenkt [^28].
+Am 19. November brach der Zhongli-Zwischenfall (中壢事件) aus: Hsu Hsin-liang (許信良), der für das Amt des Magistrats von Taoyuan kandidierte, wurde Wahlfälschung verdächtigt, woraufhin die Menge das Zhongli-Revier (中壢分局) stürmte und anzündete – ein Wendepunkt in der Geschichte der Außerparteilichen Bewegung (黨外運動). Die Aufmerksamkeit der Regierung wurde abgelenkt[^28].
 
-Am 18. Januar 1978 rief Wang Sheng, Direktor der Abteilung für politische Propaganda im Verteidigungsministerium, am Ende einer Literaturkonferenz der Nationalgewinnungsmilitärs (國軍) zur „Einheit der Heimat“ auf und beendete die Debatte [^29]. Chen Fangming statistierte später in _Sammlung von Diskussionen über die Heimatliteratur_: 60 % unterstützten die Heimatliteratur, 30 % lehnten sie ab und 10 % waren neutral [^30].
+Am 18. Januar 1978 rief Wang Sheng (王昇), Leiter der Hauptabteilung für Politische Kriegsführung des Verteidigungsministeriums (國防部總政戰部), bei der Abschlussfeier der Literatur- und Kunsttagung der Streitkräfte des 67. Jahres der Republik (1978) zur „Einheit der Heimatliteratur“ auf, womit der Streit endete[^29]. Chen Fang-ming (陳芳明) zählte später in der _Sammlung der Diskussionen zur Heimatliteratur_ (鄉土文學討論集) auf: 60 % für die Heimatliteratur, 30 % dagegen, 10 % neutral[^30].
 
-Die Debatte endete unentschieden, aber die Heimatliteratur gewann beim Leser. Huang Chunming’s „Das Spielzeug des Sohnes“ (geschrieben 1968, Erstausgabe im Kakteen-Verlag 1969) und Wang Zhenhe’s „Ein Ochsenkarren der Mitgift“ (veröffentlicht 1967 in _Literaturzeitschrift_, Mischung aus Taiwanesisch und Mandarin) hatten bereits die kleinen Städte von Lanyang und den Markt von Hualien literarisiert [^31]. Nach der Debatte war die Legitimität des Heimatlichen etabliert. Doch der Preis dieser Debatte lag tiefer: Jeder Schriftsteller wusste besser, wie er schrieb, um nicht „Arbeiter, Bauern oder Soldaten“ zu klingen – das heißt, er wusste besser, wie er sich selbst zensierte.
+Der Streit endete unentschieden, aber die Heimatliteratur gewann die Leser. Huang Chun-mings (黃春明) „Des Sohnes großes Spielzeug“ (兒子的大玩偶) (geschrieben 1968, 1969 als Einzelband im Xianrenzhang-Verlag erstveröffentlicht) und Wang Zhen-hes (王禎和) „Ein Ochsenkarren als Mitgift“ (嫁妝一牛車) (1967 in der _Literatur-Vierteljahresschrift_ (文學季刊) veröffentlicht, Mischung aus Taiyu und Huayu) hatten die Kleinstadt Lanyang und den Hualien-Markt bereits in die Literatur eingeführt[^31]. Nach dem Streit war die Legitimität der Heimatliteratur etabliert. Doch der Preis dieses Streits lag tiefer: Jeder Schriftsteller lernte besser, so zu schreiben, dass es nicht allzu sehr nach „Literatur der Arbeiter, Bauern und Soldaten“ klang – mit anderen Worten, wie man sich selbst zensiert.
 
-Der Satz von Wang Jianzhuang, „Es ist nicht, dass die Regierung nichts tut; es ist nur noch nicht die Zeit“, war der Hintergrundton, den alle Schriftsteller in diesen 42 Jahren hören konnten.
+Jene Worte, die Wang Jian-zhuang mit anhörte – „Die Regierung tut nichts nicht, weil sie es nicht tut, sondern weil die Zeit noch nicht gekommen ist“ – waren 42 Jahre lang der Hintergrundton, den alle Schriftsteller hörten.
+
+Zur Chronologie und den Positionen aller Seiten im gesamten [Heimatliteratur-Streit](/de/history/nativist-literature-debate/) siehe jenen Spezialartikel.
 
 ## Das Schlachtermesser von Linshi in Lukang
 

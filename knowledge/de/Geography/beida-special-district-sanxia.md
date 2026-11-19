@@ -25,11 +25,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:df7c1aaff4786133'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-09-15T18:13:55.365379+00:00'
+translatedAt: '2026-11-19T00:25:40.830118+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
@@ -162,11 +164,12 @@ Von der Long'en Zhuang während der Qing-Dynastie, über das Anti-Japan-Schlacht
 
 Im Jahr 2026 wird das Nord-Taipei Special Area eine neue Prüfung erleben, wenn die MRT San Ying fährt: Wie kann ein Gleichgewicht zwischen der Bequemlichkeit und den externen Schocks der U-Bahn gefunden werden? Wie kann die Wärme des Landes inmitten der Welle der Gentrifizierung bewahrt werden? Diese dreißig Jahre erwachte Stadt steht an einem neuen historischen Wendepunkt, um ihre Geschichte des Comebacks weiterzuschreiben.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Stadtentwicklung und ländliche Disparitäten in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Setzt das Nord-Taipei Special Area in den langfristigen Kontext der Neugestaltung und städtischen Expansion Taiwans ein.
-- [Linkou New Township](/de/geography/linkou-new-town) — Wie eine andere Stadt, die ebenfalls „Geisterstadt“ genannt wurde, reif wurde.
-- [Sanxia Tee](/de/food/sanxia-tea) — Vertiefung der kulturellen Basis der alten Stadt Sanxia und ihrer lokalen Industrie.
+- [Taiwans Hauspreise, Hypotheken und Jugendwohnsicherheit](/housing/) — Themenseite: Gesamtbild jenseits der Umlegungsgebiete, Hypothekenbelastungsquoten und Wohnimmobilienpreisindizes aller Landkreise und Städte
+- [Taiwans städtische Entwicklung und die Stadt-Land-Kluft](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Ordnet das Nord-Taipei Special Area in den langfristigen Kontext von Taiwans Umlegungsgebieten und städtischer Expansion ein
+- [Linkou-Neustadt](/de/geography/linkou-new-town) — Vergleich: Wie eine ebenfalls einst als „Geisterstadt“ bezeichnete Neustadt zur Reife gelangte
+- [Sanxia-Tee](/de/food/sanxia-tea) — Vertiefende Lektüre zur kulturellen Basis von Sanxias altem Stadtzentrum und lokalen Industrien
 
 ## Referenzen
 

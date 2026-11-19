@@ -1,179 +1,187 @@
 ---
-title: 'Entwicklung des langfristigen Pflegesystems in Taiwan'
-description: 'Taiwan hat durch systemische Gestaltung eines der fortschrittlichsten Langzeitpflegesysteme Asiens geschaffen, wobei der Staat jährlich enorme Budgets für die breite Bevölkerung bereitstellt. Gleichzeitig stützen Hunderttausende ausländische Haushaltshilfen im Stillen ein noch größeres, unsichtbares Pflegenetzwerk in den Privathaushalten. Diese zwei parallelen Systeme interagieren kaum miteinander und weben eine tiefgründige Geschichte voller Widersprüche zwischen Systemdesign, gesellschaftlichen Werten und realen Kompromissen.'
+title: 'Die Entwicklung des langfristigen Pflegesystems in Taiwan'
+description: 'Taiwan hat durch gezielte Systemgestaltung eines der fortschrittlichsten Langzeitpflegesysteme Asiens geschaffen, wobei der Staat jährlich enorme Budgets bereitstellt; gleichzeitig stützen Hunderttausende ausländische Haushaltshilfen im Verborgenen ein noch größeres Netzwerk, wodurch zwei parallele Systeme entstehen, die eine tiefe Spannung zwischen institutioneller Planung und gesellschaftlicher Realität erzeugen.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
     'Langzeitpflege',
-    'Alternde Gesellschaft',
-    'Ausländische Pflegekräfte',
+    'Überalterung',
+    'ausländische Pflegekräfte',
     'Long-term Care 2.0',
     'Systemkonflikte',
   ]
 subcategory: '社會福利'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-11-08
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: '0471d07ff'
-sourceContentHash: 'sha256:c735ef0db3cd23ac'
-sourceBodyHash: 'sha256:738376ef61832978'
-translatedAt: '2026-10-15T20:25:08.181878+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f21c4242e07fa46d'
+sourceBodyHash: 'sha256:296647c16e0407ac'
+translatedAt: '2026-11-19T08:01:18+08:00'
 ---
 
-# Die Entwicklung des Pflege- und Betreuungssystems in Taiwan
+# Die Entwicklung des langfristigen Pflegesystems in Taiwan
 
-> **30-Sekunden-Zusammenfassung:** Taiwan verfügt über das vollständigste Langzeitpflegesystem Asiens; die „Langzeitpflege 2.0“ versorgt 360.000 Menschen mit einer Zufriedenheitsrate von bis zu 85 %. Gleichzeitig stützen jedoch 214.000 ausländische Pflegekräfte ein noch größeres, unsichtbares Versorgungssystem. Dies ist eine Geschichte über Systemdesign, gesellschaftlichen Wert und realistische Kompromisse.
+> **30-Sekunden-Überblick:** Taiwan verfügt über das umfassendste Langzeitpflegesystem Asiens. Der „Long-term Care 2.0“-Service versorgt 360.000 Menschen, wobei die Abdeckungsrate von 20,30 % im Jahr 2017 auf 89,9 % im Juni 2025 gestiegen ist. Die Exekutive hat am 31. Dezember 2025 „Long-term Care 3.0“ genehmigt, das ab 2026 implementiert wird. [^1] Gleichzeitig stützen 214.000 ausländische Pflegekräfte im Stillen ein weiteres, größeres Pflegesystem. Dies ist eine Geschichte über Systemdesign, gesellschaftliche Werte und die Kompromisse der Realität. [^2]
 
-Im Jahr 2017 startete die Regierung von Tsai Ing-wen (蔡英文) „Langzeitpflege 2.0“ mit dem Ziel, ein „kontinuierliches und flächendeckendes Langzeitpflegesystem“ aufzubauen. Im selben Jahr übertraf die Zahl der in Taiwan beschäftigten ausländischen Hausangestellte erstmals die Marke von 200.000.
+Im Jahr 2017 startete die Regierung unter Tsai Ing-wen das Programm „Long-term Care 2.0“ mit dem Ziel, ein „kontinuierliches und flächendeckendes Langzeitpflegesystem“ aufzubauen. Im selben Jahr überschritt die Zahl der in Taiwan beschäftigten ausländischen Haushaltshilfen erstmals die Marke von 200.000.
 
-Dies ist kein Zufall, sondern der größte Widerspruch im taiwanesischen Pflegesystem: Einerseits das staatliche System mit einem jährlichen Budget von 65 Milliarden Tautai-Dollar (NTD), andererseits das unsichtbare System, in dem 214.000 Haushalte privat ausländisches Pflegepersonal beschäftigen. Das erste versorgt 360.000 Menschen, das zweite etwa 210.000 – zwei parallele Versorgungswelten, die kaum miteinander interagieren.
+Dies ist kein Zufall, sondern das größte Paradoxon des taiwanesischen Pflegesystems: Auf der einen Seite steht das offizielle System der Regierung mit einem jährlichen Budget von 65 Milliarden NT$, auf der anderen Seite steht das unsichtbare System aus 214.000 Haushalten, die jeweils eigene ausländische Pflegekräfte beschäftigen. Das erstere versorgt 360.000 Menschen, das letztere etwa 210.000 – zwei parallele Welten der Pflege, die kaum miteinander interagieren.
 
-> **📝 Redakteursnotiz**
-> Der paradoxeste Aspekt der taiwanesischen Pflegepolitik: Wir bauen ein weltklasse Pflegesystem auf, während wir gleichzeitig eine Gesellschaft kultivieren, die extrem abhängig von ausländischem Pflegepersonal ist.
+> **📝 Anmerkung der Kuratoren**
+> Das Paradoxeste an der taiwanesischen Pflegepolitik: Während wir einerseits ein Pflegesystem von Weltklasse aufbauen, entwickeln wir gleichzeitig eine Gesellschaft, die weltweit am stärksten von ausländischen Pflegekräften abhängig ist.
 
-## Die Geburt des Systems: Vor dem Superalter reichen
+## Die Geburt des Systems: Ein Start vor der Super-Alterung
 
-Im Jahr 1993 erreichte der Anteil der Bevölkerung über 65 Jahre in Taiwan 7 % und das Land trat offiziell in die alternde Gesellschaft ein. Doch die politische Reaktion war überraschend langsam – erst 14 Jahre nach dem Eintritt in die Alterung wurde 2007 der „Zehnjahresplan Langzeitpflege“ offiziell eingeführt.
+1993 erreichte der Anteil der über 65-Jährigen in Taiwan 7 % und das Land trat offiziell in die alternde Gesellschaft ein. Doch die Reaktion der Politik war überraschend langsam – erst 2007, 14 Jahre nach Beginn der Alterung, wurde der „Zehnjahresplan für die Langzeitpflege“ offiziell verabschiedet.
 
-Dieser verspätete Plan startete mit geringen Erwartungen. Mit einem Budget von insgesamt 81,7 Milliarden NTD über zehn Jahre klang dies zwar viel, aber im Durchschnitt waren es nur 8 Milliarden pro Jahr – weniger als 2 % des damaligen Krankenversicherungsbudgets. Schlimmer noch: Die Versorgungszielgruppe belief sich zu Beginn auf etwa 20.000 Menschen, was einer Abdeckung von nur 1,5 % entsprach.
+Dieser verspätete Plan stieß von Anfang an auf Skepsis. Das Budget von 81,7 Milliarden NT$ über zehn Jahre klang hoch, entsprach aber durchschnittlich nur 8 Milliarden NT$ pro Jahr – weniger als 2 % des damaligen Budgets der Krankenversicherung. Schlimmer noch: Die Zielgruppe umfasste nur etwa 20.000 Menschen, was einer Abdeckungsrate von lediglich 1,5 % entsprach.
 
-Bei der Präsidentschaftswahl 2016 wurde die Langzeitpflege zu einem Thema, das keine der drei Kandidaten vermeiden konnten. Tsai Ing-wen (蔡英文) versprach ein Upgrade zu „Langzeitpflege 2.0“, wobei das Budget von einer jährlichen Zuweisung in einen speziellen Tabaksteuerfonds umgewandelt und auf über 30 Milliarden NTD pro Jahr erhöht wurde.
+Bei der Präsidentschaftswahl 2016 wurde die Pflege zu einem Thema, dem sich keiner der drei Kandidaten entziehen konnte. Tsai Ing-wen versprach die Aufwertung zu „Long-term Care 2.0“, wobei das Budget von einer jährlichen Zuweisung auf zweckgebundene Tabaksteuern umgestellt und auf über 30 Milliarden NT$ pro Jahr erhöht wurde.
 
-> **⚠️ Kontroverse Ansicht**
-> Die medizinische Fachwelt kritisiert: Die Einnahmen aus Steuern und Versicherungen bei der japanischen Pflegeversicherung sind unzureichend; Taiwan stützt sich nur auf Steuereinnahmen, was die finanzielle Nachhaltigkeit beunruhigend macht.
+> **⚠️ Kontroverser Standpunkt**
+> Kritik aus der medizinischen Fachwelt: In Japan sind die Finanzierungsquellen für die Pflegeversicherung (Steuern und Versicherungsbeiträge) jeweils zur Hälfte vertreten, was jedoch ebenfalls als unzureichend gilt. Taiwan hingegen verlässt sich primär auf Steuereinnahmen, was die fiskalische Nachhaltigkeit infrage stellt.
 
-| 29.000 Menschen im Jahr 2017                            | 360.000 Menschen im Jahr 2024                 |
-| :------------------------------------------------------ | :-------------------------------------------- |
-| Teilnehmerzahl des ersten Jahres von Langzeitpflege 2.0 | Aktuelle Teilnehmerzahl (12-fache Steigerung) |
+| 2017: 29.000 Personen                        | 2024: 360.000 Personen                   |
+| :------------------------------------------- | :--------------------------------------- |
+| Nutzer im ersten Jahr von Long-term Care 2.0 | Aktuelle Nutzerzahl (12-faches Wachstum) |
 
-Die Zahlen sind schön, aber die Realität ist hart.
+Doch die Zahlen sind glänzend, die Realität ist ernüchternd.
 
-## Die Ära des Personalmangels: 7 Pflegekräfte betreuen 1 Person
+## Das Zeitalter des Arbeitskräftemangels: 7 Pfleger für eine Person
 
-„Keine Leute zu finden“ ist der größte Schmerzpunkt im Pflegesystem. Der Vorsitzende des Taiwan Home Care Service Alliance (居家服務策略聯盟), Tu Hsin-ning (涂心寧), merkte an, dass die personelle Struktur der häuslichen Dienstleister kollabiert sei: Im Jahr 2016 gab es landesweit 186 Häusliche Pflegeeinrichtungen mit durchschnittlich 47,9 Mitarbeitern pro Einrichtung; bis 2024 stieg die Anzahl auf 2.235 Einrichtungen, aber der Durchschnitt lag nur bei 24,3 Personen pro Einrichtung.
+„Niemanden zu finden“ ist der größte Schwachpunkt des Pflegesystems. Tu Hsin-ning, Vorsitzender der Taiwan Home Care Service Strategy Alliance, weist darauf hin, dass die Personalstärke der häuslichen Pflegedienste einen strukturellen Zusammenbruch erlebt: 2016 gab es in ganz Taiwan 186 Pflegedienste mit durchschnittlich 47,9 Mitarbeitern pro Einheit; bis 2024 stieg die Zahl der Einheiten auf 2.235, aber pro Einheit arbeiteten nur noch durchschnittlich 24,3 Personen. [^2]
 
-Die Zunahme der Einrichtungen und die Streuung des Personals führen zu einer Unmöglichkeit flexibler Dienstplanerstellung. Chen Wan-yu (陳婉瑜), eine Pflegekoordinatorin in einem häuslichen Pflegetest in Taipeh, erlebte den extremsten Fall: Ein Klient benötigte sieben wechselnde Pflegekräfte, die an verschiedenen Zeitpunkten des Tages kamen – einer für das Baden, einer für den Spaziergang, einer für die Positionierung.
+Mehr Einheiten bedeuten eine stärkere Zersplitterung des Personals, was zu unflexiblen Dienstplänen führt. Chen Wan-yu, Fallmanagerin bei der Junwei Home Care Institution in Taipeh, berichtet von extremen Fällen: Ein Patient benötigte sieben verschiedene Pfleger für den Schichtwechsel – manchmal kamen im Laufe eines Tages verschiedene Personen für unterschiedliche Aufgaben: eine zum Baden, eine für einen Spaziergang, eine zur Lagerung.
 
-> **💡 Wussten Sie?**
-> Nachtdienste sind kaum zu besetzen. Selbst mit einem nächtlichen Zuschlag von 385 NTD gibt es nur sehr wenige Pflegekräfte, die bereit sind, nachts zu arbeiten. Angehörige, die selbst berufstätig sind, können nach der Arbeit kaum „durchatmen“.
+> **💡 Wussten Sie schon?**
+> Nachtpflegedienste sind fast unmöglich zu finden. Selbst wenn die Regierung einen Nachtzuschlag von 385 NT$ gewährt, gibt es nur sehr wenige Pfleger, die bereit sind, nachts zu arbeiten. Berufstätige pflegende Angehörige finden nach der Arbeit kaum Zeit zum Durchatmen.
 
-Noch gravierender ist der Massenabgang der Fallmanager in der Mitte der Personalkette. Das Gesundheitsministerium legt eine Obergrenze von 120 Fällen pro Fallmanager fest, doch in Wirklichkeit werden oft über 150 Fälle bearbeitet. Shi Sheng-mao (施勝茂), ein erfahrener Fallmanager vom Red Cross in Taipeh, sagt: „Soziale Arbeit für alleinstehende ältere Menschen kann 30 bis 60 Fälle intensiv betreuen; 150 Fälle sind keine ganzheitliche Pflege.“
+Noch schwerwiegender ist der massive Verlust an Fallmanagern in der mittleren Ebene der Versorgungskette. Das Gesundheitsministerium schreibt vor, dass ein Fallmanager maximal 120 Fälle betreuen darf, in der Praxis sind jedoch oft mehr als 150 Fälle der Fall. Shi Sheng-mao, erfahrener Fallmanager beim Hongxin Society in Taipeh, sagt: „Sozialarbeiter für alleinstehende Senioren können bei 30 bis 60 Fällen eine Tiefenbetreuung leisten; bei 150 Fällen ist eine ganzheitliche Pflege unmöglich.“
 
-Ein schwarzer Humor ist im Pflegewesen verbreitet: „Unsere Langzeitpflege wird nur noch von zwei Arten von Menschen abhängen – Ausländern und Robotern!“
+In der Pflegeszene kursiert ein schwarzer Humor: „In Zukunft wird unsere Pflege nur noch aus zwei Gruppen bestehen – Ausländern und Robotern!“
 
-## Die unsichtbare andere Hälfte: Der parallele Welt, die durch 240.000 ausländische Pflegekräfte gestützt wird
+## Die unsichtbare andere Hälfte: 240.000 ausländische Kräfte stützen eine Parallellwelt
 
-Während „Langzeitpflege 2.0“ in den Medien glänzte, wuchs ein noch größeres Versorgungssystem im Hintergrund.
+Während „Long-term Care 2.0“ in den Medien gefeiert wird, wächst im Stillen ein anderes, weitaus größeres Pflegesystem.
 
-Im Jahr 1992 wurde die Beschäftigung ausländischer Hausangestellter in Taiwan erlaubt; damals gab es nur 306 Personen. Im Jahr 2024 belief sich diese Zahl auf 214.514 – davon stammen 80 % aus Indonesien, 10,8 % aus den Philippinen und 8,9 % aus Vietnam. Wenn man sie in einer Reihe anordnen würde, könnte man von Taipeh bis Kaohsiung reichen.
+Als Taiwan 1992 die Beschäftigung ausländischer Haushaltshilfen erlaubte, gab es nur 306 von ihnen. Im Jahr 2024 liegt diese Zahl bei 214.514 – davon kommen 80 % aus Indonesien, 10,8 % aus den Philippinen und 8,9 % aus Vietnam. Würde man sie in einer Reihe aufstellen, reichte die Schlange von Taipeh bis Kaohsiung.
 
 > **📊 Datenquelle**
-> Laut Statistiken des Arbeitsministeriums gibt es Stand März 2024 910.000 Menschen über 80 Jahre in Taiwan, von denen 41,7 % irgendeine Form der Beeinträchtigung aufweisen.
+> Laut Statistiken des Arbeitsministeriums gab es bis März 2024 in Taiwan 910.000 Menschen über 80 Jahre, von denen 41,7 % ein gewisses Maß an Behinderung oder Pflegebedürftigkeit aufweisen.
 
-Diese 214.000 ausländischen Haushalte bilden eine Versorgungswelt, die vollständig parallel zu „Langzeitpflege 2.0“ läuft. Die monatlichen Kosten für die Beschäftigung einer ausländischen Pflegekraft belaufen sich auf etwa 30.000 NTD und bieten 24-Stunden-Betreuung; im Vergleich dazu beträgt der Höchstbetrag der monatlichen Unterstützung durch „Langzeitpflege 2.0“ für schwer beeinträchtigte Personen nur 32.340 NTD, und die Dienststunden sind begrenzt.
+Diese 214.000 Haushalte mit ausländischen Pflegekräften bilden eine Welt der Pflege, die völlig parallel zu „Long-term Care 2.0“ existiert. Die monatlichen Kosten für eine ausländische Pflegekraft betragen etwa 30.000 NT$ für eine 24-Stunden-Betreuung; im Vergleich dazu beträgt die maximale monatliche Unterstützung für schwerstbehinderte Menschen durch „Long-term Care 2.0“ lediglich 32.340 NT$, zudem ist die Anzahl der Service-Stunden begrenzt.
 
-Noch entscheidender ist, dass die beiden Systeme kaum interagieren. Gemäß den geltenden Vorschriften dürfen Haushalte, die ausländisches Pflegepersonal beschäftigen, grundsätzlich keine Leistungen von „Langzeitpflege 2.0“ beantragen (außer Hilfsmittel und häusliche Barrierefreiheit). Diese Ausschlussklausel macht die 210.000 Haushalte zu Inseln des Systems.
+Der entscheidende Punkt ist, dass die beiden Systeme kaum miteinander interagieren. Nach geltender Rechtslage dürfen Haushalte, die eine ausländische Pflegekraft beschäftigen, grundsätzlich keine Leistungen von „Long-term Care 2.0“ in Anspruch nehmen (mit Ausnahme von Hilfsmitteln und der barrierefreien Umgestaltung des Wohnraums). Diese Ausschlussklausel macht diese 210.000 Haushalte zu isolierten Inseln innerhalb des Systems.
 
-> **⚠️ Kontroverse Ansicht**
-> Ab 2026 soll „Langzeitpflege 3.0“ die Nutzung von Gemeinschaftsdiensten durch Haushalte mit ausländischem Pflegepersonal umfassen, doch das Gesundheitsministerium befürchtet, dass dies den Bedarf an Arbeitskräften um 160.000 Personen erhöhen könnte und zu einem Ungleichgewicht zwischen Angebot und Nachfrage führen könnte.
+> **⚠️ Kontroverser Standpunkt**
+> Ab 2026 soll „Long-term Care 3.0“ es Haushalten mit ausländischen Pflegekräften ermöglichen, gemeindenahe Pflegedienste zu nutzen. Das Gesundheitsministerium befürchtet jedoch, dass dies die Nachfrage nach Migranten um 160.000 Personen in die Höhe treiben könnte, was zu einem Ungleichgewicht zwischen Angebot und Nachfrage führen würde.
 
 ## 24 Stunden vs. 8 Stunden: Der Kampf zweier Pflegephilosophien
 
-Warum bevorzugen taiwanesische Haushalte es, 30.000 NTD für ausländisches Pflegepersonal auszugeben, anstatt „Langzeitpflege 2.0“ zu nutzen?
+Warum geben taiwanesische Familien lieber 30.000 NT$ für eine ausländische Pflegekraft aus, anstatt „Long-term Care 2.0“ zu nutzen?
 
-Lian Jin-ying (蓮金瑛) aus Hualien pflegt ihre 98-jährige Mutter mit Demenz und muss gleichzeitig ihren 76-jährigen Ehemann versorgen. Sie sagt: „Die Langzeitpflegerin kommt nur für zwei Stunden am Tag, ich muss in dieser Zeit nach Hause fahren, um meinem Mann zu kochen, und bin bis 13 Uhr zurück. Abends gibt es praktisch niemanden.“
+Lian Jin-ying aus Hualien pflegt ihre 98-jährige demente Mutter und gleichzeitig ihren 76-jährigen Ehemann. Sie sagt: „Die Pfleger (Home Care Services) kommen nur zwei Stunden am Tag. In dieser Zeit muss ich schnell nach Hause gehen, um für meinen Mann zu kochen, und vor 13 Uhr wieder zurück sein. Nachts findet man praktisch niemanden.“
 
-Dies ist der grundlegende Unterschied zwischen den beiden Systemen: „Langzeitpflege 2.0“ bietet „segmentierte professionelle Pflege“, während ausländisches Pflegepersonal „ganztagige Begleitung im Alltag“ bietet. Das erste entspricht internationalen Standards für professionelle Pflege, das zweite erfüllt die tatsächlichen Bedürfnisse der ostasiatischen Familie.
+Dies verdeutlicht den fundamentalen Unterschied: „Long-term Care 2.0“ bietet „segmentierte professionelle Pflege“, während ausländische Pflegekräfte „ganztägige Lebensbegleitung“ bieten. Ersteres entspricht internationalen Standards für professionelle Pflege, Letzteres entspricht den praktischen Bedürfnissen ostasiatischer Familien.
 
-> **📝 Redakteursnotiz**
-> Die Wahl des Pflegemodells in Taiwan ist ein Kampf zwischen zwei Werten: dem nordeuropäischen „professionalisierten, gemeinschaftsorientierten“ Ansatz versus dem ostasiatischen „familiären, ganzheitlichen“ Ansatz.
+> **📝 Anmerkung der Kuratoren**
+> Die Wahl des Pflegemodells in Taiwan ist ein Ringen zwischen zwei Werten: dem nordischen Modell der „Professionalisierung und Gemeindebindung“ vs. dem ostasiatischen Modell der „Familialisierung und Ganzheitlichkeit“.
 
-Lynn Yu Ling Ng (梁麗芳), eine Wissenschaftlerin der National University of Singapore, stellte fest, dass das ausländische Pflegepersonal in Taiwan eher als „Unterstützung für die häusliche Betreuungsperson“ und nicht als „Ersatz für die häusliche Betreuungsperson“ fungiert. Dies rührt von den strengen Antragsanforderungen her – man muss eine medizinische Bewertung bestehen, um jemanden einzustellen, was die taiwanesischen Arbeitgeber zwingt, grundlegende Pflegefähigkeiten zu erlernen und selbst am Pflegeprozess teilzunehmen.
+Lynn Yu Ling Ng, Wissenschaftlerin an der National University of Singapore, stellte nach einem Vergleich der Pflegemodelle in Taiwan und Singapur fest, dass ausländische Pflegekräfte in Taiwan eher als „Unterstützung für pflegende Angehörige“ fungieren denn als deren „Ersatz“. Dies liegt an den strengen Antragsbarrieren in Taiwan – man muss erst eine medizinische Bewertung bestehen, um eine Pflegekraft beschäftigen zu dürfen. Dies zwingt taiwanesische Arbeitgeber dazu, grundlegende Pflegetechniken zu erlernen und trotz der Beschäftigung ausländischer Kräfte weiterhin aktiv an der Pflege teilzunehmen. [^4]
 
-Im Gegensatz dazu fehlt der professionelle Dienst von „Langzeitpflege 2.0“ oft in den dringendsten Zeiten. Wei Li-hu (魏力虎), ein seltener Pfleger, der sich auf Nachtdienste spezialisiert hat, sagt: „Die meisten Leute wollen einfach nicht nachts arbeiten, selbst mit einem Zuschlag von 385 NTD.“
+Im Gegensatz dazu fehlen die professionellen Pflegedienste von „Long-term Care 2.0“ oft genau dann, wenn sie am dringendsten benötigt werden. Wei Li-hu, ein Pfleger, der sich auf Nachtschichten spezialisiert hat, sagt: „Die meisten sind immer noch nicht bereit, nachts zu arbeiten, selbst mit einem Zuschlag von 385 NT$.“
 
-## Würde an der Montagelinie: Wenn Pflege zu einer Hektik wird
+## Würde auf dem Fließband: Wenn Pflege zur Massenabfertigung wird
 
-Der Preis des Personalmangels ist nicht nur die Schwierigkeit der Dienstplanerstellung, sondern auch der Kompromiss bei der Pflegedienstqualität.
+Der Preis des Personalmangels ist nicht nur die schwierige Dienstplanung, sondern auch Kompromisse bei der Pflegequalität.
 
-Zhang Kai-jie (張凱傑) (Name geändert), ein Sozialarbeiter in einem Pflegeheim, beobachtete: Selbst grundlegende Dienste wie das Baden wurden zu einer Montagelinienarbeit. „Baden um 8 Uhr morgens, es ist draußen kalt, man muss aus der Decke aufstehen und baden. Die Bewohner stehen in einer Reihe vor der Badezimmertür; drei Pfleger teilen sich die Arbeit: einer zieht die Kleidung aus, einer stützt den Körper, einer spült ab.“
+Zhang Kai-jie (Pseudonym), ein Sozialarbeiter in einer stationären Einrichtung, beobachtet, dass selbst Basisdienstleistungen wie das Baden zu Fließbandarbeit geworden sind. „Um 8 Uhr morgens wird gebadet; im Winter sind es etwa 10 Grad, man muss aus der warmen Decke kommen. Die Bewohner stehen Schlange vor der Badezimmertür, während drei Pfleger die Arbeit aufteilen: einer zieht die Kleidung aus, einer stützt den Körper, einer wäscht ab.“
 
-Li Shao-fen (李韶芬), Assistenzprofessorin am Institut für Gesundheit der National Yang Ming Chiao Tung University, bezeichnet dieses Phänomen als „Pflege-Hektik“ – die Pflegekräfte können nur tagtäglich ihre Sinne betäuben und versuchen, die Arbeitsaufgaben zu erledigen; die Eigeninitiative in der Pflege wird eingeschränkt, und das Risiko wird auf den Bewohner abgewälzt.
+Li Shao-fen, Assistenzprofessorin am Forschungsinstitut für Gesundheit am Yang-Ming Chiao Tung University, bezeichnet dieses Phänomen als „Pflege-Hektik“ – Pflegekräfte müssen Tag für Tag ihre Sinne abstumpfen lassen, um die Aufgaben zu bewältigen; die Handlungsfähigkeit der Pflege wird eingeschränkt, und das Risiko tragen die Bewohner.
 
-> **💡 Wussten Sie?**
-> Die meisten Pflegeheime lassen ihre Bewohner im Winter nur zweimal pro Woche baden, da nicht genügend Personal zur Verfügung steht, um dies zu gewährleisten.
+> **💡 Wussten Sie schon?**
+> In den meisten stationären Einrichtungen baden die Bewohner im Winter nur zweimal pro Woche, da aufgrund des Personalmangels keine rechtzeitige Versorgung möglich ist.
 
-Xiao Shi (小詩) (Name geändert), eine Pflegerin, die in einem Heim gearbeitet hat, sagte: „An jedem Tag müssen 10 bis 20 Bewohner gebadet werden, alle zwei oder drei Stunden wird gewechselt – ständiges Reinigen, Füttern, Baden, es ist sehr monoton und hektisch. Wenn ich fertig bin, schwitze ich durchnässt.“
+Xiao Shi (Pseudonym), eine ehemalige Pflegekraft in einer Einrichtung, berichtet: „Während der Badezeit müssen wir täglich etwa zehn Betten abarbeiten, alle zwei bis drei Stunden eine Runde – ständig reinigen, füttern, waschen. Es ist wie am Fließband, sehr gehetzt. Wenn ich fertig bin, bin ich schweißgebadet.“
 
-Dieses Modell der „Effizienz zuerst“ in der Pflege ist einer der Gründe, warum taiwanesische Familien ausländisches Personal wählen: Zu Hause können sie zumindest noch eine gewisse Würde bewahren.
+Dieses auf Effizienz ausgerichtete Pflegemodell ist einer der Gründe, warum taiwanesische Familien ausländische Pflegekräfte bevorzugen: Zu Hause kann man zumindest ein gewisses Maß an Würde bewahren.
 
-## Internationale Perspektive: Die Einzigartigkeit des taiwanesischen Modells
+## Internationale Perspektive: Die Einzigartigkeit des taiwanischen Modells
 
-Das zweigleisige Pflegesystem Taiwans ist international einzigartig.
+Das duale Pflegesystem Taiwans ist international einzigartig.
 
-Deutschland führte 1994 die Pflegeversicherung ein, mit einem „Entweder-Oder“-Modell (Bargeld oder Dienstleistung) – man kann wählen, ob man Geld erhält und selbst für die Versorgung sorgt, oder professionelle Dienste in Anspruch nimmt. Japan konzentriert sich auf integrierte Gemeinschaftsdienstzentren, wobei Medizin, Pflege und Wohnen zusammengefasst werden. Die Niederlande führten 1968 eine Pflegeversicherung ein und bieten heute standardisierte Dienstleistungen durch das „Pflegepaket“-System an.
+Deutschland etablierte 1994 die Pflegeversicherung mit dem Modell „Entweder Geldleistung oder Sachleistung“ – man kann wählen, entweder Geld zu beziehen und die Pflege selbst zu organisieren, oder professionelle Dienste in Anspruch zu nehmen. Japans Pflegeversicherung konzentriert sich auf gemeindebasierte integrierte Servicezentren und betont die Einheit von Medizin, Pflege und Wohnen. Die Niederlande haben bereits 1968 eine Pflegeversicherung eingeführt, die heute standardisierte Leistungen über ein „Pflegepaket“-System anbietet. [^3]
 
-Aber kein Land wie Taiwan: Es betreibt zwei gleich große, inkompatible Versorgungssysteme gleichzeitig.
+Doch kein Land agiert wie Taiwan: Es betreibt gleichzeitig zwei Systeme von vergleichbarer Größe, die jedoch inkompatibel sind.
 
-> **📝 Redakteursnotiz**
-> Der Widerspruch im taiwanesischen Pflegesystem spiegelt den Kampf ostasiatischer Gesellschaften während der Modernisierung wider: Wollen wir das nordeuropäische Modell mit Professionalität oder das ostasiatische Modell mit Menschlichkeit? Die Antwort ist beides, aber keines wird perfekt umgesetzt.
+> **📝 Anmerkung der Kuratoren**
+> Das Paradoxon des taiwanesischen Pflegesystems spiegelt das Ringen ostasiatischer Gesellschaften im Modernisierungsprozess wider: Wollen wir das professionalisierte nordische Modell oder das menschliche Familienmodell? Die Antwort lautet: Wir wollen beides, aber wir beherrschen keines von beiden perfekt.
 
-Liang Li-fang (梁麗芳), eine Wissenschaftlerin aus Singapur, merkt an: „Das ausländische Pflegepersonal in Taiwan soll niemals die häusliche Rolle ersetzen, sondern die Defizite der Familie ergänzen. Dies entspricht den Erwartungen der konfuzianischen Kultur an familiäre Verantwortung.“
+Die Wissenschaftlerin Liang Li-fang weist darauf hin: „Ausländische Pflegekräfte in Taiwan sollen niemals die Rolle der Familie ersetzen, sondern die Defizite der Familie in der Pflege ergänzen. Dies entspricht den Erwartungen der konfuzianischen Kultur an die familiäre Verantwortung.“
 
-Der Preis dieses Modells ist jedoch die Systemspaltung. Die 210.000 Haushalte mit ausländischem Pflegepersonal können nicht auf die Gemeinschaftsressourcen, Entlastungsdienste oder Hilfsmittel von „Langzeitpflege 2.0“ zugreifen. Sie leben außerhalb des Systems und sind zum Selbstversagen verurteilt.
+Der Preis für dieses Modell ist jedoch die systemische Spaltung. Die 210.000 Haushalte mit ausländischen Pflegekräften können weder die gemeindenahen Ressourcen noch Entlastungsdienste oder Hilfsmittel von „Long-term Care 2.0“ nutzen. Sie leben außerhalb des Sichtfeldes des Systems und sind auf sich allein gestellt.
 
-## Die Rettung durch drei Pfeile: Wie die Regierung auf den Personalmangel reagiert
+## Die Rettung durch drei Pfeile: Wie die Regierung auf den Arbeitskräftemangel reagiert
 
-Angesichts der Pflegekrise hat das Gesundheitsministerium drei politische Maßnahmen initiiert:
+Angesichts der Krise im Pflegepersonal hat das Gesundheitsministerium drei politische Strategien („Pfeile“) vorgestellt:
 
-**Erster Pfeil: Pilotprogramm für vielfältige Begleitdienste**
-Die Öffentlichkeit kauft temporäre, kurzfristige Betreuungsdienste. Nach drei Monaten im Jahr 2025 wurden in 15 Städten insgesamt 485 Dienstleistungen erbracht, was einen tatsächlichen Bedarf zeigt.
+**Erster Pfeil: Pilotprojekt für diverse Begleitungs- und Pflegedienste**
+Ermöglicht es Bürgern, temporäre und kurzfristige Pflegedienste auf eigene Kosten zu erwerben. Nach drei Monaten Laufzeit im Jahr 2025 wurden in 15 Landkreisen insgesamt 485 Einsätze verzeichnet, was den Bedarf bestätigt.
 
-**Zweiter Pfeil: Internationales Programm zur Anwerbung und Bindung von Fachkräften durch Kooperation zwischen Industrie und Wissenschaft**
-Studenten aus Vietnam und Indonesien werden für eine zweijährige Ausbildung in der Langzeitpflege aufgenommen und binden sich nach dem Abschluss für drei Jahre an das System. Die erste Gruppe von 22 Personen wurde vollständig vom Arbeitsmarkt gebucht, die zweite Gruppe wird auf 40 erweitert.
+**Zweiter Pfeil: Programm zur Gewinnung internationaler Fachkräfte durch Kooperation zwischen Industrie und Wissenschaft**
+Rekrutierung von Studierenden aus Vietnam und Indonesien für zweijährige Ausbildungsgänge in der Langzeitpflege mit einer anschließenden dreijährigen Bindung an die Branche. Von den ersten 22 Absolventen wurden bereits alle von der Industrie reserviert; die zweite Kohorte soll auf 40 Personen erweitert werden.
 
-**Dritter Pfeil: Öffnung für mittlere ausländische Fachkräfte**
-Ausländisches Pflegepersonal mit mehr als sechs Jahren Erfahrung und einem Monatsgehalt von 29.000 NTD kann zu „mittleren Fachkräften“ umqualifiziert werden, unabhängig von der Dienstjahresanzahl. Bis Februar 2024 haben bereits 15.000 Personen diese Qualifikation erlangt.
+**Dritter Pfeil: Öffnung für ausländische Fachkräfte der mittleren Ebene**
+Ausländische Pflegekräfte, die mehr als sechs Jahre tätig sind und ein monatliches Gehalt von 29.000 NT$ erreichen, können in den Status „Fachkraft der mittleren Ebene“ wechseln, ohne an die Beschäftigungsdauer gebunden zu sein. Bis Februar 2024 haben bereits 15.000 Personen diese Qualifikation erlangt.
 
-> **⚠️ Kontroverse Ansicht**
-> Die drei Pfeile sehen vielversprechend aus, aber die 22 vietnamesischen Studenten im Vergleich zu Hunderttausenden von Arbeitskräften werden als „Tropfen auf den heißen Stein“ kritisiert. Die wahre Lösung liegt möglicherweise in der Verbesserung des sozialen Status und des Gehalts der Pflegekräfte.
+> **⚠️ Kontroverser Standpunkt**
+> Die drei Pfeile mögen viel erscheinen, doch im Vergleich zum Bedarf von Hunderttausenden Fachkräften werden die 22 vietnamesischen Studenten als „Tropfen auf dem heißen Stein“ kritisiert. Eine echte Lösung könnte in der Erhöhung des sozialen Status und der Gehälter im Pflegesektor liegen.
 
-## Das Wagnis von Langzeitpflege 3.0: Integration oder noch mehr Spaltung?
+## Der Einsatz für Long-term Care 3.0: Integration oder weitere Spaltung?
 
-Ab 2026 wird „Langzeitpflege 3.0“ schrittweise eingeführt, wobei die größte Veränderung die Einbeziehung von Haushalten mit ausländischem Pflegepersonal bei der Nutzung gemeinschaftlicher Dienste ist. Wird diese Politik den Widerspruch des zweigleisigen Systems lösen oder das Problem komplizierter machen?
+Die Exekutive hat am 31. Dezember 2025 den „Zehnjahresplan für die Langzeitpflege 3.0“ verabschiedet, der den Zeitraum von 2026 bis 2035 abdeckt. Der Plan verfolgt die Vision von „gesundem Altern, lokalem Altern und einem würdevollen Lebensende“. Zu den acht Schwerpunkten gehören die Integration medizinischer Pflege, Entlassungsvorbereitung und Rehabilitation, Kapazität der Einrichtungen, Unterstützung für Familien, intelligente Pflege, Sterbebegleitung sowie Personalentwicklung. Zudem gibt es drei Sonderkapitel für Demenz, indigene Völker und Menschen mit Behinderungen. [^1] Ein Punkt, der für Haushalte mit ausländischen Pflegekräften besonders relevant ist, betrifft die Planung des Gesundheitsministeriums, ausländische Arbeitskräfte in drei Phasen in das Langzeitpflegesystem zu integrieren, um die Nachtpflege und Entlastung zu stärken – dies erfordert jedoch noch eine Änderung des „Long-term Care Service Act“. [^5] Wird diese Politik den Widerspruch der dualen Systeme lösen oder das Problem verkomplizieren?
 
-Der stellvertretende Minister für Gesundheit, Lü Jian-te (呂建德), sagt: „Ausländer sind ergänzendes Personal; die einheimischen Arbeiter wollen es nicht tun.“ Die Realität ist jedoch, dass 214.000 ausländische Pflegekräfte keine Ergänzung mehr sind, sondern der Hauptpfeiler des taiwanesischen Pflegesystems.
+Lu Chien-te, stellvertretender Minister im Gesundheitsministerium, sagt: „Ausländische Arbeitskräfte sind ergänzende Kräfte; wenn Einheimische es nicht tun wollen, kommen Ausländer.“ Die Realität zeigt jedoch, dass die 214.000 ausländischen Pflegekräfte längst keine „Ergänzung“ mehr sind, sondern das Rückgrat des taiwanesischen Pflegesystems bilden.
 
-Wenn „Langzeitpflege 3.0“ beide Systeme erfolgreich integriert, könnte Taiwan ein weltweit einzigartiges „hybrides Versorgungssystem“ schaffen – das die Qualitätsstandards professioneller Dienste mit der menschlichen Wärme der häuslichen Pflege verbindet.
+Sollte „Long-term Care 3.0“ die beiden Systeme erfolgreich integrieren, könnte Taiwan ein weltweit einzigartiges „hybrides Pflegemodell“ schaffen – eine Kombination aus professionellen Qualitätsstandards und der menschlichen Wärme familiärer Pflege.
 
-Scheitert es jedoch, könnte Taiwan einer noch schwereren Systemspaltung gegenüberstehen: Haushalte, die sich leisten können, ausländisches Personal zu beschäftigen, genießen doppelte Dienstleistungen, während einkommensschwache Familien auf staatliche Ressourcen warten müssen – die soziale Kluft wird in den dringendsten Pflegebedürfnismomenten vergrößert.
+Sollte es scheitern, droht eine noch schwerere systemische Spaltung: Wohlhabende Familien mit ausländischen Pflegekräften genießen doppelte Versorgung, während einkommensschwache Familien in Warteschlangen für staatliche Ressourcen stehen – die Klassenschranken werden in den Momenten der dringendsten Pflegebedürftigkeit verschärft.
 
-> **📝 Redakteursnotiz**
-> Die Zukunft des taiwanesischen Pflegesystems beantwortet eine tiefere Frage: Welche Gesellschaft wollen wir sein? Eine professionelle, effizienzorientierte Gesellschaft oder eine menschliche, wertschätzende Gemeinschaft?
+> **📝 Anmerkung der Kuratoren**
+> Die Zukunft des taiwanesischen Pflegesystems beantwortet eine tiefere Frage: Was für eine Gesellschaft wollen wir sein? Eine auf Effizienz ausgerichtete professionelle Gesellschaft oder eine auf Menschlichkeit basierende soziale Gemeinschaft?
 
-## Nachwort: Zwei Arten der Liebe
+## Epilog: Zwei Arten der Liebe
 
-Der 86-jährige Großvater Tong Fu-chien (Tong Fu-chien) aus Tainan leidet an Nierenerkrankungen und Demenz; seine indonesische Pflegekraft Astuti mahlt ihm täglich Tofu und Nudeln, weil „Opa nicht mehr kauen kann, aber die Nudeln mag“. Astuti sagt, Opa sei „yi ji bang“ (erstklassig), und sein Sohn sagt, Astuti sei wie „eine weitere Tochter“.
+Der 86-jährige Tong Fu-chien aus Tainan leidet an Nierenerkrankungen und Demenz. Seine indonesische Pflegekraft Astuti mahlt ihm jeden Tag Tofu und Nudeln, denn „der Großvater kann nichts Hartes beißen, aber er liebt Nudeln“. Astuti sagt, der Großvater sei „yi ji bang“ (erstklassig); der Sohn des Großvaters sagt, Astuti sei wie „eine weitere Tochter“.
 
-Andereseits pflegt Lian Jin-ying (蓮金瑛) aus Hualien, 69 Jahre alt, ihre 98-jährige Mutter mit Demenz und nutzt häusliche Pflegerinnen von „Langzeitpflege 2.0“ zur Essenszubereitung, muss aber nachts selbst im Zimmer der Mutter schlafen. Sie sagt: „Das ist meine Mutter! Ich kann sie nicht vernachlässigen.“
+Auf der anderen Seite steht die 69-jährige Lian Jin-ying aus Hualien, die ihre 98-jährige demenzkranke Mutter pflegt. Sie nutzt die Dienste von „Long-term Care 2.0“, um die Essenszubereitung zu unterstützen, muss aber nachts immer noch selbst auf dem Boden im Zimmer der Mutter schlafen. Sie sagt: „Sie ist meine Mutter! Ich kann sie nicht allein lassen.“
 
-Diese beiden Geschichten repräsentieren zwei Vorstellungen von „Pflege“ in taiwanischer Gesellschaft: eine ist die Dienstleistungserwerbung mit professioneller Aufteilung und kontrollierter Qualität; die andere ist die häusliche Erweiterung, die ganzheitliche Begleitung und emotionale Verbundenheit.
+Diese beiden Geschichten repräsentieren zwei Verständnisse von „Pflege“ in der taiwanesischen Gesellschaft: Die eine ist der Einkauf einer professionellen, qualitätskontrollierten Dienstleistung; die andere ist die familiäre Erweiterung durch ganzheitliche Begleitung und emotionale Verbundenheit.
 
-Die Entwicklung des taiwanesischen Pflegesystems sucht nach einem Gleichgewicht zwischen diesen beiden Arten der Liebe. Wir lernen noch, wie wir menschliche Wärme bewahren und gleichzeitig professionelle Qualität sichern; wie wir Effizienz anstreben und dabei nicht vergessen, dass die Essenz der Pflege die Verbindung zwischen Menschen ist.
+Die Entwicklung des taiwanesischen Pflegesystems ist die Suche nach einem Gleichgewicht zwischen diesen zwei Arten der Liebe. Wir lernen noch, wie wir menschliche Wärme bewahren und gleichzeitig professionelle Qualität sicherstellen können; wie wir Effizienz anstreben, ohne zu vergessen, dass das Wesen der Pflege die Verbindung zwischen Menschen ist.
 
-Dieser Lernprozess wird noch lange andauern. Aber zumindest haben wir angefangen.
+Dieser Lernprozess wird noch lange dauern. Aber zumindest haben wir begonnen.
+
+**Weiterführende Literatur:**
+
+- [Sonderbericht Medizin & Langzeitpflege](/health/) — Diagramme zu Einnahmen/Ausgaben des Pflegefonds, Nutzerzahlen und demografischen Prognosen, inklusive Berechnungen zu Zuschüssen und Eigenanteilen.
+- [Medizin und die nationale Krankenversicherung in Taiwan](/de/lifestyle/taiwan-healthcare-and-national-health-insurance) — Die zwei Seiten der Medaille: Krankenversicherung für Arztbesuche, Langzeitpflege für die Versorgung.
 
 ## Referenzen
 
-- [Reporter: Wer stützt Langzeitpflege 3.0 in der Ära des Personalmangels?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage)
-- [Cross-Strait Times: Taiwan hires more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html)
-- [Liebe zur Pflege: Lernen aus den Systemen von Niederlande, Deutschland, Österreich und sieben anderen Ländern](https://www.ilong-termcare.com/articles/2pK)
-- [Bereich der Gesundheitsfürsorge des Ministeriums für Gesundheit und Wohlfahrt (衛福部)](https://1966.gov.tw/)
-- [Bericht über die Bevölkerungsentwicklung des Nationalen Entwicklungsrates (國家發展委員會)](https://pop-proj.ndc.gov.tw/)
-- [Website des Arbeitsministeriums zur Beschäftigung ausländischer Arbeitskräfte](https://www.wda.gov.tw/)
-- [Taiwan News: Taiwan auf dem Weg zu einer superalternden Gesellschaft](https://www.taiwannews.com.tw/news/5954295)
-- [Cross-Strait Times: Taiwan lockert die Beschränkungen für ausländische Pflegekräfte weiter](https://www.straitstimes.com/asia/se-asia/faster-ageing-taiwan-further-eases-curbs-on-foreign-caregivers)
+[^1]: [Zehnjahresplan für die Langzeitpflege 3.0 (Bereich Langzeitpflege des Gesundheitsministeriums 1966)](https://1966.gov.tw/LTC/cp-6572-85008-207.html) — Offizielle Politikseite mit Details zur Genehmigung durch die Exekutive am 31.12.2025, Zeitraum 2026–2035, Anzahl der Service-Standorte (15.051 bis Ende 2024) und der Anstieg der Abdeckungsrate von 20,30 % (2017) auf 89,9 % (Juni 2025).
+
+[^2]: [Reporter: Wer stützt Long-term Care 3.0 im Zeitalter des Arbeitskräftemangels?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage) — Investigativbericht über die Veränderung der Anzahl von Pflegediensten und Personalstärke, die Schwierigkeiten bei der Schichtplanung mit nur 7 Pflegern pro Einsatz sowie die Überlastung der Fallmanager und das Nebeneinander von ausländischen Pflegekräften und dem staatlichen System.
+
+[^3]: [Ai-Chang-Zao: Vergleich der Pflegesysteme in sieben Ländern wie den Niederlanden, Deutschland und Österreich](https://www.ilong-termcare.com/articles/2pK) — Zusammenfassung der deutschen Pflegeversicherung (Wahl zwischen Geldleistung oder Sachleistung), der japanischen gemeindebasierten Pflege und des niederländischen Pflegepaket-Systems.
+
+[^4]: [Taipei Times: Taiwan is hiring more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html) — Zitiert den Vergleich zwischen taiwanesischen und singapurischen Pflegemodellen durch Wissenschaftler der National University of Singapore sowie den politischen Hintergrund der Lockerung der Beschäftigung ausländischer Pflegekräfte.
+
+[^5]: [Long-term Care 3.0 plant Einbeziehung ausländischer Arbeitskräfte; Gesundheitsministerium: Schrittweise Integration von Nachtpflege und Entlastung geplant (United Daily News, 2026-07-01)](https://udn.com/news/story/7266/9600948) — Bericht über die Erläuterungen des Gesundheitsministeriums nach einer Anhörung im Legislativ-Yuan zur schrittweisen Einbindung ausländischer Kräfte in das System unter Vorbehalt der Gesetzesänderung.

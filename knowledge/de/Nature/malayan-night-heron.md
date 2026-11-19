@@ -1,15 +1,15 @@
 ---
-title: 'Der Schwarzhaubenvogel: Der Traum der Vogelbeobachter und der dumme Vogel auf dem Campus'
-description: 'In den 4.000 Vogelbeobachtungen der Chinesischen Vogelgesellschaft von 1985 bis 1992 war der Schwarzhaubenvogel nur mit 25 Einträgen ein „seltener Wandervogel“. Dreißig Jahre später ist er an der Kokospalme-Allee der Nationaluniversität TaiPei und im Wald der Da’an-Universität täglich zu sehen. Die gängige Erklärung lautet: „Er hat sich an die Menschen angepasst“, doch die Forschung von Yuan Hsiao-Wei an der Nationaluniversität TaiPei seit 2010 deutet auf eine andere Antwort hin: Die dichten, urbanen Schulen und unbehandelten Rasenflächen Taiwans haben das ursprüngliche niedrige Küstenwaldlebensraum des Vogels nachgebildet — die Vögel sind gleich geblieben, der Ort hat sich verändert.'
+title: 'Schwarzbrust-Silberreiher: Eine Traumart für Vogelbeobachter, der „tollpatschige Vogel“ und „Süßkartoffel-Vogel“ auf dem Campus'
+description: 'Der Schwarzbrust-Silberreiher ist der Vogel, den auf dem Campus jeder als „Süßkartoffel-Vogel“ oder „tollpatschigen Vogel“ bezeichnet. Zwischen 1985 und 1992 entfiel auf ihn in den 4.000 Aufzeichnungen der Bird Conservation Taiwan nur ein einziger Eintrag von 25, was ihn zu einem seltenen Standvogel in Bestimmungsbüchern machte. Dreißig Jahre später ist er an der Kokospalmenallee der NTU und im Daan-Waldpark täglich zu sehen. Während man allgemein annimmt, er sei menschenscheuer geworden, deutet die Bandagenstudie von Yuan Hsiao-wei von der NTU auf eine andere Antwort hin: Die bewaldeten Campusflächen und die pestizidfreien Rasenflächen haben exakt seinen ursprünglichen Tieflandwald repliziert. Nicht der Vogel hat sich verändert, sondern die Umgebung.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'Taiwan Ökologie',
+    'Ökologie Taiwans',
     'Stadtvögel',
-    'Schwarzhaubenvogel',
-    'dumme Vögel',
-    'Bürgerwissenschaft',
+    'Schwarzbrust-Silberreiher',
+    'Tollpatschiger Vogel',
+    'Citizen Science',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,20 +23,30 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
 readingTime: 8
 sporeLinks:
-  [
-    "{'id': 53, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'}",
-    "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
-  ]
+  - id: 53
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'
+  - id: 54
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 23,070 曝光 149 點擊（0.65%），最大查詢「地瓜鳥」8,206＋「地瓜 鳥」1,564 曝光，title 與 description 都沒有這個俗名；title 補「地瓜鳥」，description 首句先講俗名'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:74ac37cae326eaa1'
-sourceBodyHash: 'sha256:9c1e23df6047812e'
-translatedAt: '2026-09-12T19:24:15+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:55a53c683cb2fe02'
+sourceBodyHash: 'sha256:d2a2bc2c14be17d0'
+translatedAt: '2026-11-19T00:32:54.569300+00:00'
 ---
 
-# Der Schwarzhaubenvogel: Der Traum der Vogelbeobachter und der dumme Vogel auf dem Campus
+# Schwarzhaubenvogel: Eine Traumart für Vogelbeobachter, der „dumme Vogel“ auf dem Campus und der „Süßkartoffel-Vogel“
 
-> **30-Sekunden-Überblick:** Der Schwarzhaubenvogel (_Gorsachius melanolophus_) war in den Vogelbeobachtungen Taiwans von 1985–1992 mit 25 von 4.000 Einträgen ein „seltener Wandervogel“, heute ist er an der Kokospalme-Allee der Nationaluniversität TaiPei und im Wald der Da’an-Universität täglich zu sehen. Der Professor für Forstwirtschaft der Nationaluniversität TaiPei, Dr. Deng Tsung-Su, beschreibt ihn in Südostasien als „schwer auffindbaren Traumvogel der Vogelbeobachter“, „seit dreißig Jahren, aus unerklärlichen Gründen, hat Taiwans Schwarzhaubenvogel begonnen mutig zu werden“. Eine Erklärung, die näher an der Wahrheit ist, deutet in eine andere Richtung: Die dichten, urbanen Schulen und unbehandelten Rasenflächen Taiwans haben das ursprüngliche niedrige Küstenwaldlebensraum des Vogels nachgebildet. Die Vögel sind gleich geblieben, der Ort hat sich verändert.
+> **30-Sekunden-Überblick:** Der Schwarzhaubenvogel (_Gorsachius melanolophus_) war in den taiwanesischen Wildvogelaufzeichnungen zwischen 1985 und 1992 eine „seltene Standvogelart“, die von 4.000 Einträgen nur 25 ausmachte; heute ist er in den Kokospalmenhainen der Nationaluniversität Taipeh (NTU) oder im Daan-Waldpark allgegenwärtig. Ding Tsung-su, außerordentlicher Professor am Institut für Forstwissenschaft der NTU, beschreibt ihn in Südostasien als eine „traumhafte Art mit schwer fassbarem Auftreten“ und stellt fest: „Seit etwa dreißig Jahren ist der Schwarzhaubenvogel in Taiwan aus ungeklärten Gründen mutiger geworden.“ Eine Erklärung, die der Wahrheit näherkommt, weist in eine andere Richtung: Die dicht bewaldeten Campusgelände der taiwanesischen Städte und die pestizidfreien Rasenflächen haben exakt das ursprüngliche Habitat des Vogels in tiefer gelegenen Wäldern repliziert. Nicht der Vogel hat sich verändert, sondern die Umgebung.
 
 ## Der Traumvogel Südostasien, der ständige Gast in Taipeh
 
