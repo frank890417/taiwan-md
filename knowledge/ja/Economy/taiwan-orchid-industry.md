@@ -12,17 +12,17 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: '63fb967a1'
-sourceContentHash: 'sha256:e5ed54a3ae12d0e6'
-sourceBodyHash: 'sha256:f9ade260f241a953'
-translatedAt: '2026-09-15T06:51:24+08:00'
+sourceCommitSha: 'ff8ab4d4d'
+sourceContentHash: 'sha256:38a4067994051318'
+sourceBodyHash: 'sha256:14e97ff0df91ded4'
+translatedAt: '2026-11-19T11:38:14.915792+00:00'
 ---
 
-> **30秒概要：** 1997年、台湾の蝶蘭が初めて輸出実績を残しました。2011年には、公式統計による輸出額が353.3万ドルから9,847.4万ドルへと増加しました。しかし、この道は花を摘んで送るだけでは簡単ではありませんでした。台湾は育種・組織培養・温室管理・検疫・海上輸送・海外催花・品種権を一つのサプライチェーンとしてつなぎ、一鉢の植物を国境を越えてやり取りできる農業製品にしました。
+> **30秒でわかる概要：** 1997年、台湾の蝶蘭は初めて輸出実績を残しました。2011年には、公式統計による輸出額は353.3万ドルから9,847.4万ドルへと増加しましたが、その道のりは単に花を摘んで送るほど単純なものではありませんでした。台湾は育種、組織培養、温室管理、検疫、海上輸送、海外での開花促進、そして品種権を一つのサプライチェーンとしてつなぎ合わせることで、手厚いケアを必要とする植物を、国境を越えて受け渡し可能な「農産物」へと変貌させたのです。
 
-![Phalaenopsis Taisuco Kobold，台南国際蘭展](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
+![蝶蘭 Phalaenopsis Taisuco Kobold、台南国際蘭展](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-画像：阿橋 HQ／[Wikimedia Commons ファイルページ](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>)，[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)。画像はホットリンク埋め込み、ダウンロード未実施。
+_画像：阿橋 HQ／[Wikimedia Commons 檔案頁](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD%5FPhalaenopsis%5FTaisuco%5FKobold%5F-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95%5FTaiwan%5FInternational%5FOrchid%5FShow-%5F(39129452540).jpg>)、[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)。画像はホットリンク形式で埋め込まれており、ダウンロードはしていません。_
 
 ## 花は温室から直接花屋へ飛ぶわけではない
 
@@ -102,20 +102,20 @@ DUSは、Distinctness（区別性）、Uniformity（均一性）、Stability（�
 
 ## 参考文献
 
-[^1]: [農業部：農產貿易全球布局、跨越兩岸－淺論臺灣蝴蝶蘭產業的崛起](https://www.moa.gov.tw/ws.php?id=2446099) — 農業部公式文章，記錄蝴蝶蘭外銷數據、輸美帶介質計畫、海運保鮮技術與產業溫室分布。
+[^1]: [農業部：農産貿易のグローバル展開、両岸を越えて － 台湾コチョウラン産業の台頭に関する考察](https://www.moa.gov.tw/ws.php?id=2446099) — 農業部の公式記事。コチョウラン（胡蝶蘭）の輸出データ、対米輸出用培地計画、海上輸送による鮮度保持技術、および産業温室の分布について記録しています。
 
-[^2]: [農業知識入口網／豐年雜誌：從「洋蘭」到臺灣之光：蝴蝶蘭百年產業發展](https://www.agriharvest.tw/archives/126282/) — 專業農業媒體文章，整理原生種、蘭藝文化、育種、台糖投入、國際蘭展與野生保育制度的歷史脈絡。
+[^2]: [農業知識入口網／豊年雑誌： 「洋ラン」から台湾の誇りへ： コチョウラン百年の産業発展](https://www.agriharvest.tw/archives/126282/) — 専門的な農業メディアの記事。原種、蘭芸文化、育種、台糖による投入、国際蘭展、および野生生物保護制度の歴史的経緯をまとめています。
 
-[^3]: [台糖：封面故事—市售蘭花我最強-傳奇篇](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — 台糖官方刊物文章，從企業轉型、溪湖試種、荷蘭溫室與園藝系設置說明蝴蝶蘭事業的制度化過程。
+[^3]: [台糖：カバーストーリー － 市販の蘭は私が最強 - 伝説編](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — 台糖の公式刊行物の記事。企業の転換、溪湖での試作、オランダ式温室、および園芸学科の設置を通じたコチョウラン事業の制度化プロセスを説明しています。
 
-[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — 歐盟植物品種局 2026 年官方公告，說明台歐蝴蝶蘭與文心蘭 DUS 檢定報告互認及品種權合作進展。
+[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — 欧州連合植物品種局（CPVO）による2026年の公式公告。台湾とEU間におけるコチョウランおよびオンシジューム属のDUS試験報告書の相互承認、および品種登録に関する協力の進展について説明しています。
 
-[^5]: [農業部：植物品種權面面觀－植物品種權與產業全球化布局－以蝴蝶蘭為例](https://www.moa.gov.tw/ws.php?id=2445491) — 農業部制度分析文章，說明品種權屬地主義、蝴蝶蘭育種週期、全球育種分工與產業鏈布局。
+[^5]: [農業部：植物品種権の多角的視点 － 植物品種権と産業のグローバル展開 － コチョウランを例に](https://www.moa.gov.tw/ws.php?id=2445491) — 農業部による制度分析記事。品種権の属地主義、コチョウランの育種サイクル、世界の育種分業、およびサプライチェーンの展開について説明しています。
 
-[^6]: [趙欣燕：台灣蝴蝶蘭產業生產型態之研究——以台南地區為例](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Airiti 收錄的國立臺灣師範大學碩士論文頁，提供台南產區、農業工業化、核心與衛星蘭園及社會網絡研究摘要。
+[^6]: [趙欣燕：台湾コチョウラン産業の生産形態に関する研究 —— 台南地域を例として](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Airitiに収録されている国立台湾師範大学の修士論文ページ。台南の産地、農業の工業化、中核および衛星的な蘭園、ならびに社会ネットワークの研究要旨を提供しています。
 
-[^7]: [S. Wei 等：Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — Acta Horticulturae 英文學術文章頁，以深度訪談分析台灣蘭花中小企業、價值鏈、技術優勢與長期永續問題。
+[^7]: [S. Wei 等：Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — Acta Horticulturaeの英文学術論文ページ。詳細なインタビューに基づき、台湾の蘭産業における中小企業、バリューチェーン、技術的優位性、および長期的な持続可能性の問題を分析しています。
 
-[^8]: [農業部：臺日簽署植物品種檢定報告書合作備忘錄 開啟合作新篇章](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 農糧署 2024 年官方新聞，說明台日互相採認植物品種檢定報告、品種權審查時間、17 件海外品種權成果與海外申請成本。
+[^8]: [農業部：台日による植物品種検定報告書の協力に関する覚書（MoU）の署名、協力の新章を開く](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 農糧署による2024年の公式ニュース。台湾と日本における植物品種検定報告書の相互承認、品種権審査期間、17件の海外品種権成果、および海外申請コストについて説明しています。
 
-[^9]: [Wikimedia Commons：蝴蝶蘭 Phalaenopsis Taisuco Kobold－台南國際蘭展](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 詳細はリンク先の原文を参照
+[^9]: [Wikimedia Commons：コチョウラン Phalaenopsis Taisuco Kobold － 台南国際蘭展](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 詳細は元のリンク内の補足資料をご参照ください。

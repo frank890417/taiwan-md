@@ -22,11 +22,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-03T13:06:27.429645+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T11:54:27.657420+00:00'
 ---
 
 # 台湾新型コロナ禍とワクチン：買えた18か月と、間に合わなかったあの一針
@@ -383,15 +385,15 @@ _公視新聞網による2023年4月27日の報道：中央流行疫情指揮中
 
 ## 画像出典
 
-この記事では7枚の画像（CC0が1枚、クリエイティブ・コモンズ（CC）ライセンスが6枚）を使用しており、ソースサーバーへの直リンクを避けるため、すべて `public/article-images/society/` にキャッシュされています。また、公視新聞網（PTS News）の公式チャンネルによる2つの動画を埋め込んでいますが、字幕は取得していないため、本文中で動画内の発言を引用することはありません。
+この記事では7枚の画像（CC0が1枚、クリエイティブ・コモンズ（CC）ライセンスが6枚）を使用しており、ソースサーバーへの直リンクを避けるため、すべて `public/article-images/society/` にキャッシュされています。また、公視新聞網（PTS News）の公式チャンネルによる2本の動画を埋め込んでいますが、字幕は取得していないため、本文中で動画内の発言を引用することはありません。
 
 - [台北争艷館のCOVID-19大規模接種会場](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Photo: 玄史生, 2021-10-27, CC0 1.0（hero）
 - [新竹市の薬局の外で実名制マスクを購入するために並ぶ人々](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Photo: Tbatb, 2020-03-30, CC BY-SA 4.0
 - [三級警戒期間中の台北捷運東門駅](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Photo: 稜光映像\_Brian, 2021-05-25, CC BY 3.0
 - [新北市中和区積穂迅速抗原検査（抗原検査）ステーション外の交差点の掲示](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Photo: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
-- [蔡英文（ツァイ・インウェン／Cai Ing-wen）総統による国産の高端疫苗（ハイエンドワクチン）接種](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo: Makoto Lin／中華民国総統府, 2021-08-23, CC BY 2.0
-- [健康保険が65歳以上の市民に無料で提供する家庭用迅速抗原検査キット](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
-- [店舗入り口の電子疫学管理システム（実聯制）QRコード掲示](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
+- [蔡英文（ツァイ・インウェン／Cai Ing-wen）総統による国産の高端疫苗（ハイエンドワクチン）の接種](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Photo: Makoto Lin／中華民国総統府, 2021-08-23, CC BY 2.0
+- [健康保険制度により65歳以上の市民に無料で提供される家庭用迅速抗原検査キット](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Photo: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
+- [店舗入口にある電子疫学管理システム（実聯制）のQRコード掲示](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Photo: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
 - 動画：公視新聞網〈校正回歸〉20210522 報道、公視新聞網〈指揮中心終場記者會〉20230427 報道（YouTube 公式チャンネル）
 
 ## 参考資料

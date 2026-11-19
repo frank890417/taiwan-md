@@ -13,10 +13,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-06T08:34:00.325317+00:00'
+translatedAt: '2026-11-19T11:25:06.764408+00:00'
 ---
 
 # 黄武雄と台湾の地域コミュニティカレッジ：投票以外の民主主義を教室へ
@@ -102,11 +102,13 @@ Springerに収録された英語の学術章は、台湾の地域コミュニテ
 
 写真：Ephemeral Days、『Taipei Municipal Wenshan School of Special Education』、Wikimedia Commons、CC BY-SA 4.0。ファイルページ：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Municipal_Wenshan_School_of_Special_Education.jpg)。
 
-## 関連記事
+## 延伸閱讀
 
-[地域コミュニティカレッジ全国促進会：データベースと社会実践](https://www.napcu.org.tw/db_list.html)
+[社団法人コミュニティカレッジ全国促進会：コミュニティカレッジ・データベースと社会実践](https://www.napcu.org.tw/db_list.html)
 
-[教育省：地域コミュニティカレッジ発展法関連説明](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[教育部：コミュニティカレッジ発展法に関する説明](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[楊維哲（ヤン・ウェイジェ／Yang Weizhe）：数学教授がまず台湾語の授業を開講したことで、議論が追いついてきた](/ja/people/yang-wei-cher) — 黄武雄（ファン・ウーション／Huang Wuxiong）の台湾大学数学科時代の旧友であり同僚。二人は共に陳文成（チェン・ウェンチェン／Chen Wen-cheng）記念基金会に加入しており、楊維哲も基隆コミュニティカレッジで台湾語を用いて数学を教えた経験がある。
 
 ## 参考文献
 
