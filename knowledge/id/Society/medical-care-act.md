@@ -40,11 +40,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'bf8f59be7'
-sourceContentHash: 'sha256:dd206c9d583175cc'
-sourceBodyHash: 'sha256:c6593b85f2a24ba6'
-translatedAt: '2026-10-25T17:52:53.765620+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e8a58b1a136736d4'
+sourceBodyHash: 'sha256:ea66b01e071e78a8'
+translatedAt: '2026-11-19T01:16:16.781025+00:00'
 ---
 
 > **Ringkasan 30 Detik**: Undang-Undang Perubatan tidak mengatur individu dokter (itu diatur dalam Undang-Undang Dokter tahun 1943), bukan mengenai pembayaran asuransi kesehatan (itu diatur dalam Undang-Undang Jaminan Kesehatan tahun 1994), melainkan bagaimana lembaga seperti **rumah sakit, klinik, dan badan hukum medis** eksis, memasang iklan, dan menangani perselisihan. Teks lengkap yang terdiri dari 91 pasal diumumkan pada tahun 1986; pada tahun 2004 dilakukan revisi besar menjadi 123 pasal untuk memperkenalkan sistem "badan hukum medis"; pada tahun 2017 Pasal 82 direvisi untuk mengubah tanggung jawab pidana dokter menjadi "syarat ganda"; dan pada Mei 2026, rasio perawat-pasien dimasukkan ke dalam undang-undang. Namun, selama empat puluh tahun terakhir, realitas yang dihadapi oleh Pasal 1 yang menyatakan secara eksplisit tentang "mendorong pengembangan industri medis yang sehat" adalah: 83% rumah sakit dan 74% tempat tidur berasal dari sektor swasta, tingkat pengunduran diri dokter unit gawat darurat dua hingga tiga kali lebih tinggi daripada di Amerika Serikat, serta gelombang pengunduran diri perawat yang masif—Legislatif baru memasukkan rasio perawat-pasien ke dalam undang-undang setelah situasi mencapai ambang kehancuran.
@@ -344,28 +346,29 @@ Namun, bagian yang tidak dapat tertutupi ini terlihat pada angka kematian bayi d
 
 ## Ketegangan yang Belum Terpecahkan Selama Empat Puluh Tahun
 
-Undang-Undang Perubatan bukanlah hukum yang beroperasi sendirian. Ia bersama lima undang-undang lainnya membentuk kerangka tata kelola medis di Taiwan:
+Undang-Undang Perubatan bukanlah hukum yang beroperasi secara sendirian. Ia bersama lima undang-undang lainnya membentuk kerangka tata kelola medis di Taiwan:
 
 - **Undang-Undang Dokter** (1943) mengatur individu dokter.
 - **Undang-Undang Perubatan** (1986) mengatur institusi medis.
-- **Undang-Undang Jaminan Kesehatan Nasional** (disusun 1994, diimplementasikan 1995) mengatur pembayaran jaminan kesehatan.
-- **Undang-Undang Hak Otonomi Pasien** (disahkan 2015, diimplementasikan 2019, yang pertama di Asia) [^61] memperkuat ketentuan mengenai persetujuan pasien dalam Pasal 63 dan 64 Undang-Undang Perubatan, dengan menyatakan secara eksplisit bahwa persetujuan pasien adalah prioritas.
-- **Undang-Undang Pencegahan Insiden Medis dan Penanganan Perselisihan** (disahkan 2022, peraturan pelaksana diimplementasikan 2024) [^17] melengkapi mekanisme mediasi sengketa medis—komunikasi dan kepedulian, pernyataan dalam proses mediasi perselisihan, serta pelaporan mandiri institusi medis dan konten analisis akar masalah untuk perbaikan, **semuanya tidak boleh digunakan sebagai bukti litigasi atau dasar putusan hukum**.
-- **Undang-Undang Perubatan Regeneratif + Peraturan Sediaan Perubatan Regeneratif** (disahkan 2024) adalah undang-undang khusus yang dipisahkan dari Undang-Undang Perubatan, mengatur terapi sel dan terapi gen [^62].
+- **Undang-Undang Jaminan Kesehatan Nasional** (disusun 1994, diimplementasikan 1995) mengatur pembayaran asuransi kesehatan.
+- **Undang-Undang Hak Otonomi Pasien** (disahkan 2015, diimplementasikan 2019, yang pertama di Asia) [^61] memperkuat regulasi mengenai persetujuan pasien dalam Pasal 63 dan 64 Undang-Undang Perubatan, dengan menyatakan secara eksplisit bahwa persetujuan pasien adalah prioritas.
+- **Undang-Undang Pencegahan Insiden Medis dan Penanganan Perselisihan** (disahkan 2022, peraturan pelaksana diimplementasikan 2024) [^17] melengkapi mekanisme mediasi sengketa medis—termasuk komunikasi kepedulian, pernyataan dalam proses mediasi perselisihan, serta pelaporan mandiri oleh institusi medis dan konten analisis akar masalah untuk perbaikan, **semuanya tidak boleh digunakan sebagai bukti litigasi atau dasar putusan pengadilan**.
+- **Undang-Undang Perubatan Regeneratif + Peraturan Sediaan Perubatan Regeneratif** (disahkan 2024) adalah undang-undang khusus yang terpisah dari Undang-Undang Perubatan, yang mengatur terapi sel dan terapi gen [^62].
 
-Keenam undang-undang ini menyusun panorama tata kelola medis Taiwan, di mana Undang-Undang Perubatan menjadi pilar pada "sisi institusi". Namun, setiap kali ada undang-undang baru yang ditambahkan, hal itu disebabkan oleh celah dalam Undang-Undang Perubatan itu sendiri: Undang-Undang Dokter tidak dapat mengatur institusi, Undang-Undang Perubatan tidak dapat mengatur pembayaran jaminan kesehatan, Undang-Undang Perubatan tidak dapat mengatur keputusan medis di muka (advance medical decisions) individu, Undang-Undang Perubatan tidak dapat mengatur sel regeneratif, dan Undang-Undang Perubatan tidak dapat mengatur mediasi perselisihan. Setiap celah menjadi pintu masuk bagi undang-undang baru.
+Keenam undang-undang ini menyusun panorama tata kelola medis Taiwan, di mana Undang-Undang Perubatan menjadi pilar pada "sisi institusi". Namun, setiap kali ada penambahan undang-undang baru, hal itu disebabkan oleh celah dalam Undang-Undang Perubatan itu sendiri: Undang-Undang Dokter tidak dapat mengatur institusi, Undang-Undang Perubatan tidak dapat mengatur pembayaran asuransi kesehatan, Undang-Undang Perubatan tidak dapat mengatur keputusan medis di muka (_advance medical decisions_) individu, Undang-Undang Perubatan tidak dapat mengatur sel regeneratif, dan Undang-Undang Perubatan tidak dapat mengatur mediasi perselisihan. Setiap celah menjadi pintu masuk bagi undang-undang baru.
 
-> **✦** Undang-Undang Perubatan tertulis untuk "mendorong pengembangan industri medis yang sehat". Selama empat puluh tahun, jumlah rumah sakit bertambah, teknologi semakin kuat, dan cakupan semakin tinggi, namun gelombang pengunduran diri perawat terjadi secara masif, tingkat keluarnya dokter unit gawat darurat melebihi dua kali lipat standar internasional, ekspansi rumah sakit swasta mencapai 83%, rumah sakit publik bergantung pada subsidi untuk bertahan hidup, proporsi kriminalisasi sengketa medis mencapai 79%, dan setiap dokter di daerah terpencil masih melayani sepuluh ribu orang. Kata-kata dalam hukum tidak salah, begitu pula kelelahan di lapangan. Masalah yang tersisa adalah: dalam empat puluh tahun kedua, bagaimana Undang-Undang Perubatan dapat memperpendek jarak antara kedua hal ini.
+> **✦** Undang-Undang Perubatan tertulis untuk "mendorong pengembangan industri medis yang sehat". Selama empat puluh tahun, jumlah rumah sakit bertambah, teknologi semakin kuat, dan cakupan layanan semakin tinggi, namun gelombang pengunduran diri perawat terus terjadi, tingkat keluarnya dokter unit gawat darurat (_ER_) lebih dari dua kali lipat standar internasional, rumah sakit swasta berekspansi hingga 83%, rumah sakit publik bergantung pada subsidi untuk bertahan hidup, proporsi kriminalisasi sengketa medis mencapai 79%, dan setiap dokter di daerah terpencil masih melayani sepuluh ribu orang. Kata-kata dalam hukum tidak salah, namun kelelahan di lapangan juga nyata. Masalah yang tersisa adalah: dalam empat puluh tahun kedua, bagaimana Undang-Undang Perubatan dapat memperpendek jarak antara kedua hal tersebut.
 
-Pada dini hari tanggal 8 Mei 2026, Legislatif Yuan meluluskan rasio perawat-pasien tiga shift. Kata-kata Tsai Kuang-chao, kata-kata Lo Hsiang-yun, kata-kata Hsueh Cheng-chun—masih bergema di koridor setiap unit gawat darurat di Taiwan. Kapan revisi hukum berikutnya dilakukan, dan pasal mana yang akan direvisi, tidak ada yang bisa menuliskannya ke dalam hukum. Namun perawat, dokter unit gawat darurat, dan dokter residen dari lima departemen utama masih menggunakan kata "tidak mau datang" atau "mengundurkan diri" untuk mengekspresikan posisi mereka.
+Pada dini hari tanggal 8 Mei 2026, Legislatif Yuan meluluskan rasio perawat-pasien tiga shift. Kata-kata Tsai Kuang-chao, kata-kata Lo Hsiang-yun, kata-kata Hsueh Cheng-chun—masih bergema di koridor setiap unit gawat darurat di Taiwan. Kapan amandemen berikutnya akan dilakukan, dan pasal mana yang akan diubah, tidak ada yang bisa menuliskannya ke dalam hukum. Namun, para perawat, dokter unit gawat darurat, dan dokter residen dari lima departemen utama masih menggunakan kata "tidak mau datang" atau "mengundurkan diri" untuk mengekspresikan posisi mereka.
 
-Kata-kata yang tertulis dalam hukum akan dibaca oleh pembaca. Kata-kata yang tidak tertulis, dicatat secara tersirat oleh dinding rumah sakit dan pasien yang memenuhi koridor.
+Kata-kata yang tertulis dalam hukum akan dibaca oleh pembaca. Kata-kata yang tidak tertulis, dicatat oleh dinding rumah sakit dan pasien yang memenuhi koridor.
 
 **Bacaan Lanjutan**:
 
-- [Medis Taiwan dan Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cakupan dan struktur pembayaran sistem jaminan kesehatan yang terkenal di seluruh dunia merupakan mitra "sisi pembayaran" setelah implementasi Undang-Undang Perubatan.
-- [Perkembangan Dua Undang-Undang Perubatan Regeneratif Taiwan: Pengakuan Praktisi](/id/society/taiwan-regenerative-medicine-laws) — Dua undang-undang perubatan regeneratif yang disahkan pada tahun 2024 adalah undang-undang khusus yang dipisahkan dari Undang-Undang Perubatan untuk melengkapi regulasi terapi sel.
-- [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Operasional aktual Pasal 1 Undang-Undang Perubatan mengenai "distribusi sumber daya medis yang wajar" dalam skenario bencana skala besar.
+- [Medis Taiwan dan Jaminan Kesehatan Nasional](/id/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cakupan dan struktur pembayaran sistem asuransi kesehatan yang terkenal di dunia ini adalah mitra "sisi pembayaran" setelah implementasi Undang-Undang Perubatan.
+- [Evolusi Dua Undang-Undang Perubatan Regeneratif Taiwan dan Pengakuan Praktisi](/id/society/taiwan-regenerative-medicine-laws) — Dua undang-undang perubatan regeneratif yang disahkan pada 2024 adalah undang-undang khusus yang terpisah dari Undang-Undang Perubatan, guna melengkapi regulasi terapi sel.
+- [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Implementasi nyata dari Pasal 1 Undang-Undang Perubatan mengenai "distribusi sumber daya medis yang wajar" dalam skenario bencana skala besar.
+- [Topik Khusus Medis dan Perawatan Jangka Panjang](/health/) — Memetakan pendapatan dan pengeluaran asuransi kesehatan, penahanan pasien di unit gawat darurat, tenaga perawat, serta jumlah dokter di setiap kabupaten/kota, serta menyandingkan berbagai pendapat mengenai memasukkan rasio perawat-pasien ke dalam undang-undang.
 
 ## Sumber Gambar
 

@@ -1,13 +1,13 @@
 ---
-title: 'Zheng Nanrong: Persamaan Hidup untuk Kebebasan Berbicara Seorang Anak Migran Daratan'
-description: "Pada Peristiwa 228 tahun 1947, ayah Zheng Nanrong, Zheng Mu-sen (鄭木森), diselamatkan oleh tetangga Taiwan. Empat puluh satu tahun kemudian, putra pertama pasangan itu, Zheng Nanrong, menyalakan bensin di kantor majalahnya sendiri. Tahun 1984 ia mendirikan majalah 'Era Kebebasan' dengan 24 surat izin—dicekal 18 kali namun terus terbit. Tahun 1988 ia menerbitkan Draf Konstitusi Republik Taiwan yang disusun Hsu Tzu-chiu (許世楷), dan pada 7 April 1989 ia membakar diri. Istri Ye Ju-lan (葉菊蘭) kemudian berpolitik, menjadi anggota parlemen, menteri, dan sekretaris kepresidenan. Pilihan Zheng Nanrong masih kontroversial hingga kini: pendukung melihatnya sebagai pengorbanan untuk prinsip, pengkritik menganggapnya pilihan pribadi yang terlalu ekstrem. Udara kebebasan berbicara Taiwan sekarang begitu biasa, banyak yang lupa ia pernah memerlukan nyawa untuk ditukar."
+title: 'Cheng Nan-jung: Sebuah Persamaan Seorang Anak Waisan yang Menukar Nyawa demi Kebebasan Berpendapat'
+description: 'Saat Peristiwa 228 tahun 1947, ayahnya Cheng Mu-sen berhasil selamat karena disembunyikan oleh tetangga di Taiwan; empat puluh satu tahun kemudian, putra sulung pasangan tersebut, Cheng Nan-jung, menyulut bensin di dalam kantor majalahnya sendiri. Ia mendirikan "Free Times" pada tahun 1984, tetap menerbitkan meskipun memegang 24 lisensi dan dilarang sebanyak 18 kali; ia menerbitkan "Draf Konstitusi Republik Taiwan" karya Hsu Shih-kai pada tahun 1988, lalu melakukan bakar diri pada 7 April 1989. Ye Chiu-lan kemudian terjun ke dunia politik, menjabat sebagai anggota legislatif, menteri transportasi, komisioner Komisi Urusan Hak Etnis Hakka, Wakil Perdana Menteri, hingga Sekretaris Jenderal Kantor Kepresidenan. Pilihan Cheng masih menjadi perdebatan hingga kini: pendukungnya menganggapnya sebagai martir demi prinsip, sementara pengkritiknya menganggapnya sebagai pilihan pribadi yang ekstrem. Udara kebebasan berpendapat di Taiwan terasa begitu biasa dalam keseharian, sehingga banyak orang telah lupa bahwa hal itu pernah harus ditukar dengan nyawa.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
     'Gerakan Demokrasi',
-    'Kebebasan Berbicara',
-    'Era Kebebasan',
+    'Kebebasan Berpendapat',
+    'Free Times',
     'Martir',
     'Peristiwa 228',
     'Kemerdekaan Taiwan',
@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭南榕.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:97d9bc4f07653a81'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:8c5f343cec62a07b'
 sourceBodyHash: 'sha256:91b4c7638f35fd2f'
-translatedAt: '2026-09-10T10:26:29+08:00'
+translatedAt: '2026-11-19T00:38:22.253468+00:00'
 ---
 
 # Zheng Nanrong
@@ -117,25 +119,25 @@ Hari ini, di Taiwan, orang dapat mengomel tentang presiden di internet, mengangk
 
 Apa yang Zheng Nanrong tinggalkan adalah pertanyaan yang masih bisa diperdebatkan: mengapa ada orang yang mau menggunakan nyawa untuk menukarkan hak berbicara orang lain? Apapun jawaban anda, api yang dinyalakan pada tahun 1989 itu, sungguh-sungguh mengubah pemahaman orang Taiwan tentang berat sesuatu hal bernama kebebasan berbicara.
 
-## Daftar Referensi
+## Referensi
 
-**Pembacaan Lanjutan**
+**Bacaan Lanjutan**
 
-- [Tseng Po-en](/id/people/bernard-tseng) — Pembawa acara ''Po-en Nightly Show'' pada Agustus 2019 mengutip segmen pembakaran diri Zheng Nanrong di Open Mic, memicu reaksi sosial yang keras, pertama kali menghentikan kolaborasi dengan STR Network
-- [Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/) — Sejarah lisan Teror Putih dan gerakan demokrasi
-- Hu Hui-ling, ''Seratus Tahun Pencarian: Cerita Gerakan Demokrasi Taiwan'' — Catatan terperinci tentang Zheng Nanrong dan gerakan non-partai
-- [Yayasan Peringatan Peristiwa 228](https://www.228.org.tw/) — Keterkaitan keluarga Zheng Nanrong dengan Peristiwa 228
-- [Peristiwa Pulau Indah — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Peristiwa kunci yang mengkatalisis keterlibatan Zheng Nanrong dalam gerakan sosial
-- Dokumenter ''Jiwa Kebebasan Nylon'' (Sutradara: Tsai Chung-long, 2009) — Merekonstruksi perjalanan hidup Zheng Nanrong dan keputusan pembakaran diri melalui wawancara dengan pihak yang terlibat dan materi sejarah
+- [Bernard Tseng](/id/people/bernard-tseng) — Pada Agustus 2019, pembawa acara "Tseng Show" mengutip lelucon mengenai pembakaran diri Zheng Nan-rong dalam sesi Open Mic, yang memicu reaksi keras masyarakat dan menyebabkan penghentian sementara kerja sama dengan Satire News.
+- [Museum Hak Asasi Manusia Nasional](https://www.nhrm.gov.tw/) — Sejarah lisan mengenai Teror Putih dan gerakan demokrasi.
+- Hu Hui-ling, _Pengejaran Seabad: Kisah Gerakan Demokrasi Taiwan_ — Catatan mendalam mengenai Zheng Nan-rong dan gerakan Tangwai.
+- [Yayasan Peringatan Peristiwa 228](https://www.228.org.tw/) — Hubungan antara keluarga Zheng Nan-rong dengan peristiwa 228.
+- [Peristiwa Pulau Keindahan — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — Peristiwa kunci yang mengatalisasi keterlibatan Zheng Nan-rong dalam gerakan sosial.
+- Film dokumenter _Nylon: Soul of Freedom_ (Sutradara: Tsai Chung-lung, 2009) — Merekonstruksi perjalanan hidup dan keputusan pembakaran diri Zheng Nan-rong melalui wawancara dengan pihak terkait dan arsip sejarah.
 
-[^1]: [Era Kebebasan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Dikonfirmasi tanggal peluncuran 12 Maret 1984, 24 permintaan surat izin, 18 pencegahan penerbitan.
+[^1]: [Majalah Mingguan Era Kebebasan (Free Times) — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Mengonfirmasi tanggal penerbitan pertama pada 12 Maret 1984, pengajuan 24 lisensi, dan catatan pelarangan sebanyak 18 kali.
 
-[^2]: [Yayasan Peringatan Zheng Nanrong](https://www.nfreedommemorialfoundation.org/) — Kronologi kehidupan: kegiatan peringatan Peristiwa 228 yang diselenggarakan secara terbuka pada 1987, urutan waktu tuduhan pengkhianatan pada 21 Januari 1989.
+[^2]: [Yayasan Zheng Nan-rong • Museum Peringatan](https://www.nfreedommemorialfoundation.org/) — Kronologi kehidupan: Peluncuran kegiatan peringatan 228 secara terbuka pada tahun 1987, dan urutan waktu dakwaan atas tuduhan pemberontakan pada 21 Januari 1989.
 
-[^3]: [Hsu Tzu-chiu — Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Latar belakang penulis ''Draf Konstitusi Republik Taiwan''; riwayat penerbitan di edisi ke-254 ''Era Kebebasan'' yang memicu penuntutan.
+[^3]: [Hsu Shih-kai — Wikipedia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Latar belakang penulis "Draf Konstitusi Republik Taiwan"; proses yang memicu dakwaan setelah diterbitkan di majalah Free Times edisi ke-254.
 
-[^4]: [Zheng Nanrong — Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Dikonfirmasi penyerbuan pada 7 April 1989 dipimpin oleh Hou You-yi dari Cabang Zhongshan; Zhan Yi-kuo membakar diri tujuh hari kemudian dalam prosesi pemakaman.
+[^4]: [Zheng Nan-rong — Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Mengonfirmasi bahwa penggerebekan pada 7 April 1989 dipimpin oleh Hou Yu-ih dari Distrik Zhongshan; Zhan Yi-hua melakukan pembakaran diri tujuh hari kemudian di tengah iring-iringan pemakaman.
 
-[^5]: [Ye Ju-lan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Dikonfirmasi jabatan publik yang berturut-turut: Anggota Parlemen, Menteri Transportasi, Ketua Komisi Urusan Hakka, Wakil Perdana Menteri, Sekretaris Kepresidenan (2006–2007).
+[^5]: [Yeh Chu-lan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Mengonfirmasi jabatan publik yang pernah diemban: Anggota Legislatif, Menteri Perhubungan, Ketua Komisi Urusan Etnis Hakka, Wakil Perdana Menteri, dan Sekretaris Jenderal Kantor Kepresidenan (2006–2007).
 
-[^6]: [Hari Kebebasan Berbicara — Dewan Eksekutif](https://www.ey.gov.tw/) — Pengumuman penetapan 7 April sebagai Hari Kebebasan Berbicara Taiwan pada 22 Desember 2016.
+[^6]: [Hari Kebebasan Berpendapat — Eksekutif Yuan](https://www.ey.gov.tw/) — Pengumuman penetapan tanggal 7 April sebagai Hari Kebebasan Berpendapat pada 22 Desember 2016.

@@ -25,11 +25,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:df7c1aaff4786133'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-09-15T20:23:28.626461+00:00'
+translatedAt: '2026-11-19T00:24:15.116797+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
@@ -164,9 +166,10 @@ Pada tahun 2026, ketika kereta Jalur San Ying secara resmi memasuki area tersebu
 
 ## Bacaan Lanjutan
 
-- [Perkembangan Perkotaan Taiwan dan Kesenjangan Desa-Kota](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Menempatkan Taipei Special Zone dalam konteks jangka panjang zonasi rekayasa ulang dan ekspansi kota di Taiwan.
-- [Pusat Kota Xinshi Linkou](/id/geography/linkou-new-town) — Membandingkan bagaimana pusat kota baru yang juga pernah dijuluki "kota hantu" mencapai kematangan.
-- [Teh Sanxia](/id/food/sanxia-tea) — Bacaan lanjutan tentang lapisan budaya di balik kota lama Sanxia dan industri lokal.
+- [Harga Rumah, KPR, dan Program Perumahan Pemuda di Taiwan](/housing/) — Halaman khusus: Gambaran menyeluruh di luar kawasan pengembangan baru, mencakup rasio beban KPR dan indeks harga perumahan di berbagai kota dan kabupaten.
+- [Pembangunan Perkotaan dan Kesenjangan Desa-Kota di Taiwan](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Menempatkan Kawasan Khusus Beidahu dalam konteks jangka panjang mengenai kawasan pengembangan baru dan ekspansi perkotaan di Taiwan.
+- [Kota Baru Linkou](/id/geography/linkou-new-town) — Perbandingan dengan Kota Baru Linkou yang juga pernah dijuluki sebagai "kota hantu" tentang bagaimana wilayah tersebut menjadi matang.
+- [Teh Sanxia](/id/food/sanxia-tea) — Bacaan lanjutan mengenai fondasi budaya dari kawasan kota lama Sanxia dan industri lokal.
 
 ## Referensi
 
