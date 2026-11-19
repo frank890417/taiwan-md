@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T06:29:32+08:00",
-    "zhCommitHead": "4f3da702ba",
+    "lastUpdated": "2026-11-20T06:39:51+08:00",
+    "zhCommitHead": "ac0f6f355f",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1191,
-        "fresh": 1175,
-        "stale": 9,
+        "fresh": 1176,
+        "stale": 8,
         "metadata_stale": 2,
         "missing": 5,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1181,
+        "fresh": 1182,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "de": {
@@ -16549,7 +16549,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 41318,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -36700,8 +36713,8 @@
           "sourceContentHash": "sha256:a50aa44ff04babb9",
           "sourceBodyHash": "sha256:729d7ab175048563",
           "translatedAt": "2026-11-20T03:57:02+08:00",
-          "translationLastCommit": "67e1f64d",
-          "translationLastModified": "2026-10-10T23:33:42+08:00",
+          "translationLastCommit": "ac0f6f35",
+          "translationLastModified": "2026-11-20T06:29:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 48735,
@@ -144321,20 +144334,18 @@
         "pt": {
           "path": "pt/People/aljenljeng-tjaluvie-abao.md",
           "translatedFrom": "People/阿爆.md",
-          "sourceCommitSha": "ac1d187af",
-          "sourceContentHash": "sha256:63b1d4d5c2d7861f",
-          "sourceBodyHash": "sha256:97980c1ca1d62fad",
-          "translatedAt": "2026-07-29T01:32:44+08:00",
+          "sourceCommitSha": "160f6cb590",
+          "sourceContentHash": "sha256:f6ea72608a383b39",
+          "sourceBodyHash": "sha256:2b58a1fd273e51fb",
+          "translatedAt": "2026-11-19T22:27:23.866163+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 28799,
+          "bytes": 30252,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/aljenljeng-tjaluvie-abao.md",
