@@ -1,15 +1,15 @@
 ---
-title: 'Urban Renewal Controversy: How Taiwan Handles "Dissenting Owners" After Wenlin Yuan'
-description: 'On March 28, 2012, Taipei City Government demolished two legally owned houses of the Wang family at Wenlin Yuan in Shilin under the Urban Renewal Ordinance, becoming the largest controversy in Taiwan''s urban renewal history. The Wang family lost eleven appeals and lawsuits; courts ruled their land was a "dead-end lot" (袋地) not meeting building line requirements and could not be rebuilt independently. In 2013, the Constitutional Court issued Interpretation No. 709, declaring the ordinance''s summary review and hearing procedures unconstitutional. The case ended in settlement in 2014, but the fundamental question—whether majority decision can dispose of minority property rights—remains unanswered.'
+title: 'Urban Renewal Controversies: After Wenlin Yuan, How Does Taiwan Handle "Dissenting Owners"'
+description: 'On March 28, 2012, the Taipei City Government carried out a forced demolition at Wenlin Yuan in Shilin. The legal homes of two Wang family households collapsed in front of hundreds of supporters, becoming the biggest controversy in Taiwan''s urban renewal history. In eleven administrative appeals and lawsuits, the Wang family lost ten times; the courts ruled that their land was a "pocket lot" not adjacent to a building line and could not be rebuilt independently. However, in 2013, the Constitutional Court issued Interpretation No. 709, declaring the summary review and hearing procedures of the Urban Renewal Act unconstitutional. The case eventually ended in a settlement, but the question of whether "majority rule can dispose of the property of the minority" still has no standard answer.'
 date: 2026-10-18
 category: 'Society'
 tags:
   [
-    'urban renewal',
+    'Urban Renewal',
     'Wenlin Yuan',
-    'housing justice',
-    'Interpretation No. 709',
-    'Urban Renewal Ordinance',
+    'Housing Justice',
+    'Constitutional Interpretation No. 709',
+    'Urban Renewal Act',
     'Taipei City',
   ]
 subcategory: '人權與平等'
@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:50:57+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T11:37:19.106195+00:00'
 ---
 
 # Urban Renewal Controversy: How Taiwan Handles "Dissenting Owners" After Wenlin Yuan
@@ -83,16 +83,17 @@ It is worth noting that the "disaster victims" in this case were not only the Wa
 
 ## What the System Left Behind
 
-The Urban Renewal Ordinance was promulgated on November 11, 1998, and took effect on November 13, serving as Taiwan's special law for urban renewal.[^4] According to statistics from the Urban Renewal Research and Development Foundation, from 2000 through the end of 2020, a cumulative 751 reconstruction project cases were approved nationwide under the ordinance, covering a total area of 242.70 hectares, with 150 renovation and maintenance project cases approved.[^4] As of November 13, 2024, the ordinance has undergone twelve amendments.[^4]
+The _Urban Renewal Ordinance_, promulgated on November 11, 1998, and implemented on November 13, is the special law governing urban renewal in Taiwan. [^4] According to statistics from the Urban Renewal Research and Development Foundation, from 2000 to the end of 2020, there were a cumulative 751 approved reconstruction projects across Taiwan under this ordinance, covering a total area of 242.70 hectares, along with 150 approved maintenance projects. [^4] As of November 13, 2024, the ordinance has undergone twelve amendments. [^4]
 
-After amendment, handling of dissenting owners added a procedural step: the Urban Renewal Review Committee must confirm the reasonableness of the renewal scope, and a hearing must be held in case of dispute. The issue of forced demolition also shifted from "the city government decides" to court adjudication.[^1] These designs responded to the core concerns of Interpretation No. 709, but did not answer a more fundamental question: when the property interests of the majority conflict with the residential wishes of the minority, which side should the law take.
+Following these legal amendments, an additional procedure was introduced for handling dissenting households: the Urban Renewal Review Committee must determine the rationality of the renewal area, and hearings must be held when disputes arise. The controversy regarding demolition by proxy has also shifted from "the city government has the final say" to being decided by the courts. [^1] These designs address the core concerns of Constitutional Court Interpretation No. 709, but they do not answer a more fundamental question: when the property interests of the majority conflict with the residential intentions of the minority, which side should the law take?
 
-The answer in the Wenlin Yuan case was "majority decision plus procedural safeguards." This answer allowed Taiwan's urban renewal to gradually recover from the standstill after 2012, and also made the review process for each urban renewal case longer and more expensive. The cost was shared by everyone, including the consenting owners who simply wanted to go home but waited more than four years.
+The answer provided by the Wenlin Yuan case is "majority rule plus procedural safeguards." This answer has allowed urban renewal in Taiwan to slowly recover from its stagnation after 2012, but it has also made the review process for every urban renewal project longer and more expensive. The cost is shared by everyone, including those consenting households who simply want to go home but have been waiting for over four years.
 
-**Further reading:**
+**Further Reading**:
 
-- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — An alternative path to housing policy outside the real estate market
-- [National Housing and Housing Justice](/en/society/public-housing-justice) — The history of national housing policy from construction to discontinuation
+- [Housing Prices, Mortgages, and Youth Home Loans in Taiwan](/housing/) — Special feature page: Viewing urban renewal within the context of the entire housing system, with sections on loans, taxes, land transactions, and housing supply.
+- [Social Housing and Residential Justice](/en/society/social-housing-and-housing-justice) — An alternative residential policy route outside of the real estate market.
+- [Public Housing and Residential Justice](/en/society/public-housing-justice) — The history of public housing policy, from construction to its suspension.
 
 ## References
 

@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:45+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T11:47:01.101545+00:00'
 ---
 
 # Central Government General Budget: How NT$3 Trillion is Allocated and Where the Legislature Cuts
@@ -106,20 +106,21 @@ The FY2025 expenditure final accounts totaled NT$2.934 trillion. Compared to the
 
 This set of numbers illustrates one thing: a budget being cut does not necessarily mean less money was spent; and a large budget allocation does not guarantee all the money will be spent. Cuts occur during the review stage, while execution rates are determined during the final accounts stage—they are two different questions.
 
-## Four Metrics, Four Questions
+## Four Scopes, Four Questions
 
-Bringing the above sections together, one must distinguish between four metrics when reading the central government general budget.
+Taken together, the preceding sections show that reading the Central Government General Budget requires distinguishing at least four scopes.
 
-The **Proposed Figure** asks "how much does the Executive Yuan want"; the **Statutory Figure** asks "how much does the Legislative Yuan give"; the **Final Accounts Figure** asks "how much was actually spent"; and the **Special Budget** asks "which funds are not in the general budget." All four figures can be "trillions," but none of them can alone answer whether "the government is spending too much or too little."
+The proposed figure asks "how much does the Executive Yuan want"; the statutory figure asks "how much does the Legislature approve"; the final accounts figure asks "how much was actually spent"; and the special budget asks "which money falls outside the general budget." All four numbers can be "three trillion," yet not one of them alone can answer "is the government spending too much or too little."
 
-This is also why annual budget news often results in fruitless arguments: one side presents NT$949.5 billion in defense, while the other presents NT$697.3 billion. Neither side is wrong; they are simply not having a conversation using the same metric.
+This is also why annual budget coverage so often talks past itself: one side cites NT$949.5 billion for national defense, the other cites NT$697.3 billion for national defense, neither is wrong—they are simply not speaking on the same scope.
 
 **Further Reading**:
 
-- [Ten Years of General Budgets](/budget) — Interactive charts showing historical agency, function, and cut/freeze records; a sister data page to this article.
-- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The military building and procurement behind the defense budget.
-- [Taiwan's Oil Price Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — Another price mechanism determined by statutory formulas and review committees.
-- [Taiwan Creative Content Agency](/en/economy/taiwan-creative-content-agency) — A case study of cultural budgets and corporatization.
+- [Ten Years of the General Budget](/budget) — Interactive charts of year-by-year agency, policy-function, and cut/freeze records; this article's companion data page
+- [Salaries, Taxes, and Retirement](/income/) — The other side of the budget: how tax is calculated from a paycheck, with an income tax calculator
+- [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — Force building and procurement behind the defense budget
+- [Taiwan's Fuel Pricing Mechanism and CPC](/en/economy/taiwan-fuel-pricing-and-cpc) — Another price mechanism set by statutory formula and review committee
+- [Taiwan Cultural Content Institute](/en/economy/taiwan-creative-content-agency) — Cultural budget and the corporatization case study
 
 ## References
 

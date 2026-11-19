@@ -18,20 +18,24 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/taipei-city-council-hall-front-view-20201031.webp'
+imageCredit: 'Solomon203'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg'
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/呱吉.md'
-sourceCommitSha: 'b1ce053ac'
-sourceContentHash: 'sha256:c94a65d34db3fe04'
-sourceBodyHash: 'sha256:8811d54bcacf4b19'
-translatedAt: '2026-09-11T10:20:14+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:14b3fdc10f7aebe5'
+sourceBodyHash: 'sha256:c809a24a3b6ba0e4'
+translatedAt: '2026-11-19T11:54:08.240819+00:00'
 ---
 
-> **30-Second Overview:** Guaji, whose real name is Qiu Weijie (邱威傑), originally intended in 2017 to film the "electing neighborhood chiefs" project as a reality show, but later advanced the plan into the 2018 Taipei City Councilor election, where he ran as an independent in the Third Electoral District of Taipei City and won 11,786 votes[^1]. Public Television (PTV) describes him as Taiwan’s first YouTuber to enter politics[^2]. His political participation did not make the internet and politics the same thing; rather, it exposed the gap between the two to the audience: videos can create rhythm through editing, but parliament and the market demand long-term accountability. In 2025, _Don't Watch While Working_ ceased updates and disbanded, forcing this experiment, which began as a "democratic unboxing," to finally face team attrition, the traffic impact of political stances, and an operational deficit of millions of New Taiwan dollars[^3].
+> **30-Second Overview:** Guaji's birth name is Qiu Weijie. In 2017, he and his colleagues originally planned to film a reality show about "electing a neighborhood chief," but later advanced the plan into the 2018 Taipei City Council election, where he won 11,786 votes and was elected as an independent in Taipei City's Third Electoral District[^1]. PTS described him as Taiwan's first YouTuber to enter politics[^2]. His entry into politics did not merge the internet and politics into one thing; rather, it laid bare the gap between them for the audience: videos can use editing to create rhythm, but the council and the market demand long-term commitment. In 2025, "Don't Watch While Working" ceased updates and dissolved, forcing this experiment that began with "democratic unboxing" to finally confront team departures, traffic shocks caused by political stances, and an operational shortfall of several million New Taiwan dollars[^3].
 
-![The front of the Taipei City Hall Building, symbolizing how Guaji brought internet creation into the institutional arena.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
+![The front of the Taipei City Council building, symbolizing how Guaji once brought internet creation into the institutional arena.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
 
-_Image: Taken by Solomon203 on October 31, 2020, from [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
+_Photo: Solomon203, taken October 31, 2020, sourced from [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
 
 ## A Thought Originally Meant Only as a Program
 
