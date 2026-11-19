@@ -10,11 +10,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:40:28.179535+00:00'
+translatedAt: '2026-11-19T03:56:52.718061+00:00'
 ---
 
 # 台湾のストリートアートとグラフィティ文化
@@ -71,17 +73,17 @@ Instagramなどのソーシャルメディアの普及は、ストリートア�
 
 ## 参考文献
 
-[^1]: [彩虹眷村 — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — 台中市南屯区の彩虹眷村の歴史、黄永阜による壁画の経緯と保存運動の記録。
+[^1]: [彩虹眷村 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — 台中市南屯区にある彩虹眷村の歴史、黄永阜による色彩塗装の経緯と保存運動の記録。
 
-[^2]: [駁二芸術特区 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — 高雄の駁二芸術特区の発展の沿革と展示スペースの紹介。
+[^2]: [駁二芸術特区 — ウィキペディア](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — 高雄市の駁二芸術特区の発展の沿革と展示スペースの紹介。
 
-[^3]: [正浜漁港 — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — 基隆の正浜漁港活性化計画とカラフルな建築群の形成背景。
+[^3]: [正濱漁港 — ウィキペディア](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — 基隆市の正濱漁港の活性化計画と、カラフルな建築群が形成された背景。
 
-[^4]: [台湾ストリートアートマップ — Street Art Taiwan](https://streetarttaiwan.com/) — 台湾各都市のストリートアート作品の場所とアーティストのデータベース。
+[^4]: [台湾ストリートアートマップ — Street Art Taiwan](https://streetarttaiwan.com/) — 台湾の各都市におけるストリートアート作品の位置とアーティストのデータベース。
 
-[^5]: [台北市グラフィティ管理自治条例に関する議論 — 台北市政府](https://www.gov.taipei/) — 台北市のストリートグラフィティ管理政策の沿革。
+[^5]: [台北市グラフィティ管理自治条例に関する議論 — 台北市政府](https://www.gov.taipei/) — 台北市におけるストリートグラフィティ（落書き）管理政策の沿革。
 
-[^6]: [Pow! Wow! Taiwan 公式サイト](https://powwowtaiwan.com/) — 台湾国際ストリートアートフェスティバルの過去の活動記録。
+[^6]: [Pow! Wow! Taiwan 公式サイト](https://powwowtaiwan.com/) — 台湾国際ストリートアートフェスティバルの歴代活動記録。
 
 ## 延伸閱讀
 

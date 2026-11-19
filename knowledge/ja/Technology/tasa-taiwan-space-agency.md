@@ -1,15 +1,20 @@
 ---
-title: '国家宇宙センター：三十二年をかけ、まだ名前をそろえきれていない国のために宇宙庁をそろえる'
-description: '1991年、それは「準備処」と呼ばれ、名前も、ロケットも、自分の土地もありませんでした。三十二年後、それは Taiwan を名前の中に戻し、いま新竹の管制センターは24時間、九機の衛星の鼓動を追っています。0403花蓮地震の日には、地震発生から六分後に任務を再設定し、三時間で撮像しました。いま最後の部品を補おうとしています。それは自前の軌道投入ロケットであり、すでに承認され、最速で2028年に始動する月探査任務でもあります。'
+title: '国家宇宙センター：32年をかけて、まだ名前が揃っていない国のために宇宙局を揃える'
+description: '1991年、それは「籌備処」と呼ばれ、名前もロケットも自分の土地もなかった。32年後、それは名前にTaiwanを取り戻し、今や新竹の管制センターが24時間体制で9基の衛星の鼓動を追っている。4月3日の花蓮地震の日、それは地震後6分で任務を再設定し、3時間で撮像した。それは最後のピースである自前の打ち上げロケットを補うとともに、すでに承認され、最速で2028年に始動する月探査ミッションを控えている。'
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Technology'
+tags: ['国家宇宙センター', 'TASA', '宇宙技術', '吳宗信', '福衛', '宇宙主権']
 subcategory: '太空與前沿'
-tags: ['国家宇宙センター', 'TASA', '宇宙技術', '呉宗信', '福衛', '宇宙主権']
-readingTime: 28
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-featured: true
+image: '/article-images/technology/formosat8-tasa-banner.webp'
+imageAlt: '国家宇宙センターの福衛8号光学リモートセンシング衛星の銀河公式ビジュアル'
+imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
+imageLicense: 'Fair use editorial commentary（©TASA）'
+imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+readingTime: 28
 sporeLinks:
   - id: 122
     platform: 'threads'
@@ -19,15 +24,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T16:48:28.187424+00:00'
-image: '/article-images/technology/formosat8-tasa-banner.webp'
-imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
-imageLicense: 'Fair use editorial commentary（©TASA）'
-imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+translatedAt: '2026-11-19T04:05:48.395897+00:00'
 ---
 
 2016年、メイデイ（五月天）「頑固」のMVには、荒れ地でロケットを造る中年男性が登場します。彼は白昼夢を見る変人のように扱われ、最後には自作ロケットを背負って空へ飛び立ちます。多くの台湾人が初めて呉宗信（ご・そうしん／ウー・ゾンシン）を知ったのは、どの国家機関を通じてもなく、このMVを通じてでした。つまり、あの「ロケットおじさん」です[^1]。
@@ -261,12 +264,13 @@ _国家宇宙センターTASA公式紹介映像：福衛八号は一機の衛星
 
 齊柏林はヘリコプターの上から台湾を見ましたが、墜落した年に見終えることはできませんでした。八年後、彼の名を冠した衛星が561キロメートルの高さから彼の代わりにこの島を見届けました。同時に、三十年間、自分は気象を見ていると言ってきたこの機関を、本当の姿として見せました。それは、承認されていない国のために、「自主」を一機また一機の衛星で証明してきた場所です。次の目的地は、月です。
 
-## 関連記事
+## 参考資料
 
-- [台湾宇宙産業発展](/ja/technology/taiwan-space-industry-development) — 本稿が機関そのものの成長を描くのに対し、こちらはその背後にあるサプライチェーンを扱います。どの企業が衛星部品を作り、半導体がどのように宇宙へ入っていき、スタートアップのエコシステムがどう形成されたのかを描いています。
-- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — 台湾の宇宙における「自主」の工業基盤の大きな部分は、この島がすでに持っていた半導体と精密製造能力の上に築かれています。
-- [チャイニーズ・タイペイ](/ja/society/chinese-taipei) — 「Taiwanを名前の中に戻す」という主権の線が、競技場ではどのように現れるのかを扱います。
-- [林琪児](/ja/people/lin-chi-er-astronaut) — 同じく科学の現場で台湾のために働く人物の側面を描いた記事です。
+- [台湾宇宙産業の発展](/ja/technology/taiwan-space-industry-development) — この記事は機関自体がどう成長したかを説明しており、あの記事はその背後にあるサプライチェーン、つまりどのメーカーが衛星部品を作り、半導体がどう宇宙分野に参入し、スタートアップ生態系がどう形成されたかを扱っています。
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — 台湾の宇宙「自主」の産業基盤の多くは、この島が既に持つ半導体と精密製造能力の上に築かれています。
+- [チャイニーズ・タイペイ](/ja/society/chinese-taipei) — 「名前に Taiwan を取り戻す」という主権のラインは、スポーツの舞台で別の側面を見せています。
+- [林琪兒](/ja/people/lin-chi-er-astronaut) — 同様に科学の現場で台湾のために働く人物の側面プロフィールです。
+- [チー・ボーリン](/ja/people/chi-po-lin) — フォルモサット8号の最初の衛星に名を残す人物です：国工局の空撮公務員出身、『台湾をみる』監督、2017年に続編のロケハン中に殉職しました。
 
 ## 動画出典
 
