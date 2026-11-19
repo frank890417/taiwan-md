@@ -8,7 +8,7 @@
  *
  * 版面有兩種，同一份 DOM：
  *   - 直向（手機、或沒有 JavaScript）：八句全部展開，由上往下讀。
- *   - 橫向（寬度 900px 以上且腳本跑起來）：八個年代排在一條線上，點、滑過或用
+ *   - 橫向（寬度 1100px 以上且腳本跑起來）：八個年代排在一條線上，點、滑過或用
  *     方向鍵移到哪個年代，下面就顯示那一句。八句疊在同一格裡，所以切換時高度
  *     不會跳。
  *
@@ -213,7 +213,7 @@ const quotes = rawQuotes.map((q, i) => {
 
 <script>
   // 橫向時間線的互動。沒有這段腳本時，八句引語照直向清單全部展開。
-  const WIDE = '(min-width: 900px)';
+  const WIDE = '(min-width: 1100px)';
 
   function setup(root: HTMLElement) {
     const tabs = Array.from(
@@ -406,42 +406,46 @@ const quotes = rawQuotes.map((q, i) => {
   }
 
   /* ── 橫向：寬度夠、腳本也跑起來了 ──────────────────────────────── */
-  @media (min-width: 900px) {
+  @media (min-width: 1100px) {
     [data-enhanced] .cs-axis {
       display: flex;
       align-items: flex-end;
       margin-block-start: var(--space-6);
       padding-inline: 4.5rem;
     }
+    /* 節點：44px 寬的可點範圍，用負邊距抵掉自己的寬度，八個點才會剛好落在
+       等距的位置上（線段平分剩下的空間）。 */
     [data-enhanced] .cs-node {
       position: relative;
-      flex: 0 0 0;
+      z-index: 1;
+      flex: 0 0 auto;
       display: flex;
       flex-direction: column;
       align-items: center;
       gap: 0.6rem;
-      width: 0;
+      width: 2.75rem;
       min-height: 44px;
+      margin-inline: -1.375rem;
       border: 0;
       background: none;
       padding: 0;
       cursor: pointer;
       color: var(--color-ink-soft);
     }
-    /* 44×44 的觸控區：節點本身寬度是 0，用偽元素撐出可點的範圍 */
-    [data-enhanced] .cs-node::before {
-      content: '';
-      position: absolute;
-      inset-block: -0.4rem -0.9rem;
-      inset-inline: -3.6rem;
-    }
+    /* 標籤寬度收在兩點的間距以內，長的（Indigenous Peoples、2026 — Taiwan.md）
+       往上折成兩行，不會壓到隔壁 */
     [data-enhanced] .cs-node-label {
       position: relative;
-      white-space: nowrap;
+      width: max-content;
+      max-width: 6rem;
+      text-align: center;
       font-family: var(--font-interface);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 600;
-      letter-spacing: 0.06em;
+      line-height: 1.3;
+      letter-spacing: 0.03em;
+      overflow-wrap: break-word;
+      hyphens: auto;
       transition: color 0.2s ease;
     }
     [data-enhanced] .cs-node-dot {
