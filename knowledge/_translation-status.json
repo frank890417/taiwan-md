@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-19T15:18:34+08:00",
-    "zhCommitHead": "a7ae33065",
+    "lastUpdated": "2026-11-19T15:30:11+08:00",
+    "zhCommitHead": "64d7823c9",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 1121,
-        "stale": 43,
+        "fresh": 1122,
+        "stale": 42,
         "metadata_stale": 19,
         "missing": 8,
         "orphan": 0
@@ -46450,20 +46450,18 @@
         "de": {
           "path": "de/Art/li-poetry-society.md",
           "translatedFrom": "Art/笠詩社.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:3682e7bff916a9de",
-          "sourceBodyHash": "sha256:a39fc5d7615c6869",
-          "translatedAt": "2026-09-26T14:07:58.849322+00:00",
+          "sourceCommitSha": "8ddc02a73",
+          "sourceContentHash": "sha256:c0db8ad58cb81cc3",
+          "sourceBodyHash": "sha256:8474e7f850a1b02b",
+          "translatedAt": "2026-11-19T07:29:51.609026+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 61529,
+          "bytes": 61556,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -47016,8 +47014,8 @@
           "sourceContentHash": "sha256:fa0d1b0fa9b12911",
           "sourceBodyHash": "sha256:1ff1fa1158f19022",
           "translatedAt": "2026-11-19T05:47:27.733965+00:00",
-          "translationLastCommit": "dca5c21e",
-          "translationLastModified": "2026-11-02T21:47:14+08:00",
+          "translationLastCommit": "64d7823c",
+          "translationLastModified": "2026-11-19T15:18:34+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 89700,
@@ -100219,11 +100217,11 @@
           "sourceContentHash": "sha256:968a60e9d47e825b",
           "sourceBodyHash": "sha256:c77c8cceb31c23cb",
           "translatedAt": "2026-11-19T12:04:00+08:00",
-          "translationLastCommit": "b92b213f",
-          "translationLastModified": "2026-11-03T12:43:57+08:00",
+          "translationLastCommit": "64d7823c",
+          "translationLastModified": "2026-11-19T15:18:34+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 71583,
+          "bytes": 71585,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"

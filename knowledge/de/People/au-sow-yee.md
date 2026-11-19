@@ -1,6 +1,6 @@
 ---
-title: 'Au Sow Yee: Die malaysische Kuratorin, die ‚Nusantara‘ in den taiwanesischen Kunstkreis bringt'
-description: '2003 kam sie von Kuala Lumpur nach Taipeh, um an der Nationalen Taiwan Kunstakademie zu studieren, und dachte zunächst, sie sei nur ein Passagier. Vierzehn Jahre später begann sie in Taipeh, ‚Nusantara‘ anstelle der kalten Kriegsbezeichnung ‚Südostasien‘ zu verwenden, und brachte die Selbstbezeichnung der malaysischen Welt in die taiwanesische kuratorische Debatte ein. Von der dreiteiligen fiktiven Toponymie ‚Kampong Glam‘ über das ‚Kris-Projekt‘ in die Sammlung des Nationalen Museum of Singapore bis 2024, als sie mit Chen Yu-ju zusammenarbeitete, um malaysische staatenlose Kinder zu interviewen – in einem NML-Interview sagte sie: ‚Gerade weil ich nicht anwesend war, entstand dieses Werk.‘'
+title: 'Au Sow Yee: Die malaysische Kuratorin, die das Konzept der „Archipel-Welt“ in den taiwanischen Kunstbetrieb brachte'
+description: 'Im Jahr 2003 zog sie von Kuala Lumpur nach Taipeh, um an der Taipei University of the Arts zu studieren, und dachte ursprünglich, sie sei nur eine Durchreisende. Vierzehn Jahre später begann sie in Taipeh, den Begriff „Nusantara“ (Archipel-Welt) anstelle der während des Kalten Krieges geprägten Bezeichnung „Südostasien“ zu verwenden und die Selbstbezeichnung der malaiischen Welt in die taiwanische kuratorische Debatte einzuführen. Von der fiktiven Ortsnamen-Trilogie von Menggalan über das Kris Project, das in die Sammlung des Singapore Art Museum aufgenommen wurde, bis hin zur Zusammenarbeit mit Chen Yu-Ju im Jahr 2024 bei Interviews mit staatenlosen Kindern in Malaysia – in einem Interview mit NML sagte sie einmal: „Gerade wegen meiner ‚Abwesenheit‘ entsteht dieses Werk.“'
 date: 2026-05-17
 category: 'People'
 tags:
@@ -8,14 +8,14 @@ tags:
     'Au Sow Yee',
     'Au Sow Yee',
     'Malaysia',
-    'zeitgenössische Kunst',
-    'Kuratorische Arbeit',
-    'Nusantara-Archiv',
+    'Zeitgenössische Kunst',
+    'Kuratieren',
     'Nusantara Archive',
-    'Video-Installation',
-    'Südliche Perspektiven',
+    'Nusantara Archive',
+    'Videoinstallation',
+    'Südliche Perspektive',
     'Rumah Attap Library',
-    'digitale Steppe',
+    'Digitale Wildnis',
   ]
 subcategory: '策展與當代藝術'
 author: 'Taiwan.md'
@@ -27,325 +27,324 @@ image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:0756e6688779bf0a'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-09-25T13:46:04.348237+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-19T05:49:01.098258+00:00'
 ---
 
-# Quah Kim Siew: Die malaysische Kuratorin, die die ‚Inselgruppe‘ in den taiwanesischen Kunstkreis brachte
+# Au Sow Yee: Die malaysische Kuratorin, die den Begriff „Archipel“ in die taiwanische Kunstszene brachte
 
-> **30-Sekunden-Überblick:** Quah Kim Siew wurde 1978 in Kuala Lumpur geboren und kam 2003 nach Taiwan, um an der Nationalen Taiwan-Kunstuniversität (NTUA) zu studieren. Seitdem lebte sie 23 Jahre gleichermaßen in Kuala Lumpur und Taipeh. Ihre Arbeit veränderte die Koordinatenachse des taiwanesischen Kunzentrums: Sie ersetzte den kalten Kriegs-Begriff „Südostasien“ durch das malaiische Inselgruppe-Parapherasmus ‚Nusantara Inselgruppe‘, wodurch Taiwan als nordöstliches Ende der malaiischen Inselgruppe wahrgenommen werden kann – nicht als ‚chinesisches Insel‘ oder ‚der andere der westlichen Südostasien‘. Ihre Werke wie das ‚Mengkerang-Projekt‘-Trilogie, ‚Das Kris-Projekt‘ (in die Sammlung des Singapore Art Museum aufgenommen), das Sendeprojekt der 2018 Taipeh-Biennale sowie ‚The Rocking Dream‘ (2024 in Zusammenarbeit mit Chen You-zu, nominiert für den 24. Taiwan-Singapur-Kunstpreis) entstanden aus einer unintuitiven Perspektive. Sie sagte 2015 zu Zheng Wen-chi: „Genau deshalb, dass ich nicht vor Ort bin, kann dieses Werk entstehen.“
+> **30-Sekunden-Überblick:** Au Sow Yee wurde 1978 in Kuala Lumpur geboren und kam 2003 nach Taiwan, um an der National Taipei University of the Arts zu studieren. Seitdem betrachtet sie die beiden Städte Kuala Lumpur und Taipeh seit 23 Jahren gleichzeitig als ihre „Heimat“. Ihre Arbeit hat die Koordinaten der taiwanischen Kunstszene neu definiert: Sie ersetzt den Begriff „Südostasien“ – eine während des Kalten Krieges von den US-Truppen geprägte Bezeichnung – durch das malaiische Wort „Nusantara“ (Archipel). Dadurch wird Taiwan als der nordöstliche Rand des malaiischen Archipels wahrgenommen und nicht als „chinesische Insel“ oder als das „Andere“ des westlich geprägten Südostasiens. Ihre Projekte wie die Trilogie 《The Mengkerang Project》, das im Singapore Art Museum gesammelte 《The Kris Project》, das Sendeprogramm der Taipei Biennale 2018 sowie 《The Rocking Dream》 (nominiert für den 24. Tai-Shin Art Award), ein 2024 in Zusammenarbeit mit Chen Yow-Ruu entstandenes Interviewprojekt über staatenlose Kinder in Malaysia, entspringen alle einer unkonventionellen Perspektive. Im Jahr 2015 sagte sie zu Zheng Wen-chi: „Gerade wegen meiner ‚Abwesenheit‘ entsteht dieses Werk.“
 
-## 2017, der Nachmittag in Kuala Lumpur Kampung Attap
+## An jenem Nachmittag im Jahr 2017, Kampung Attap, Kuala Lumpur
 
-2017 öffnete eine Reihe von Geschäften aus den 1950er Jahren in Kuala Lumpurs Kampung Attap ihre Türen[^1]。Hier entstand der Raum „Rumah Attap Library and Collective“ (Bibliothek und Kollektiv im Haus Attap)。5.000 Bücher, zwei Drittel in Chinesisch, der Rest in Englisch und Malaiisch, werden von Freiwilligen im Wechsel, gemeinnützig und kostenlos gelesen。Die drei Gründungseinheiten sind: Amateur, In Between Cultura und **Au Sow Yee Studio**[^2]。
+Im Jahr 2017 öffneten eine Reihe von alten Ladenhäusern aus den 1950er Jahren in Kampung Attap, Kuala Lumpur, ihre Türen[^1]. Hier entstand ein Raum namens „Rumah Attap Library and Collective“. Die Sammlung umfasst 5.000 Bücher – zwei Drittel davon auf Chinesisch, der Rest auf Englisch und Malaiisch –, die von Freiwilligen im Schichtbetrieb verwaltet werden; der Zugang ist gemeinnützig und kostenlos. Die drei Mitbegründer-Einheiten sind: Amateur, In Between Cultura sowie das **Au Sow Yee Studio**[^2].
 
-Der Leiter dieses Studios ist Au Sow Yee, eine 1978 in Kuala Lumpur geborene, 2003 nach Taiwan ausgewanderte Malaysierin, die dort 14 Jahre an der Nationalen Taipeh Bildende Kunstuniversität studierte[^3]。Sie ist nicht zurück nach Kuala Lumpur gezogen。Sie arbeitet weiterhin in Taipeh, unterrichtet und kreiert, aber von Taipeh aus in Remote-Zusammenarbeit mit den anderen beiden Einheiten hat sie das Haus gebaut。
+Die Leiterin dieses Studios ist Au Sow Yee, eine in Kuala Lumpur geborene Malaysierin (geboren 1978), die 2003 nach Taipeh zog, um an der Taipei National University of the Arts zu studieren, und seither 14 Jahre lang in Taiwan lebt[^3]. Sie ist nicht nach Kuala Lumpur zurückgekehrt. In Taipeh arbeitet, lehrt und schafft sie weiterhin, doch aus der Ferne baute sie gemeinsam mit den anderen beiden Einheiten die Bibliothek auf.
 
-Die Selbstbeschreibung der Bibliothek lautet: „**living coordinate**“ (lebendige Koordinaten)。Sie verbindet Geografie, Geschichte, Zeit, Gesellschaft, Politik, Kultur und Kunst und baut ein „open and critical alternative knowledge system“[^4]。
+In der Selbstbeschreibung der Bibliothek heißt es: „**living coordinate**“, eine lebendige Koordinate. Sie verbindet Geografie, Geschichte, Zeit, Gesellschaft, Politik, Kultur und Kunst, um ein „open and critical alternative knowledge system“ zu etablieren[^4].
 
-Dieser Satz beschreibt nicht nur eine Bibliothek。Er beschreibt auch Au Sow Yee selbst。
+Dieser Satz beschreibt nicht nur eine Bibliothek. Er beschreibt auch die Person Au Sow Yee.
 
-![Au Sow Yee: Arbeitsstill aus „Das Mengkerang-Projekt I: Ein Tag ohne Sonne in Mengkerang Kapitel Eins“ (2013)。Das Bild zeigt eine Video-Umfrageplanung der Alltagsszenen der malaiischen Halbinsel](/article-images/people/au-sow-yee-mengkerang-still-2013.webp)
-_Au Sow Yee: Arbeitsstill aus „Das Mengkerang-Projekt I: Ein Tag ohne Sonne in Mengkerang Kapitel Eins“ (2013)。Fair use editorial commentary on Au Sow Yee's work. Source: [artist's official portfolio](https://ausowyee.cargo.site/)._
+![Still aus Au Sow Yees Werk „The Mengkerang Project I: A Day Without Sun in Mengkerang Chapter One“ (2013). Das Bild zeigt ein bildbasiertes Vermessungsprojekt alltäglicher Szenen auf der malaiischen Halbinsel](/article-images/people/au-sow-yee-mengkerang-still-2013.webp)
+_Still aus Au Sow Yees Werk „The Mengkerang Project I: A Day Without Sun in Mengkerang Chapter One“ (2013). Fair use editorial commentary on Au Sow Yee's work. Source: [artist's official portfolio](https://ausowyee.cargo.site/)._
 
-## Warum ein chinesischer Malaysier in Taiwan dieses Projekt macht
+## Warum ein malaysisch-chinesischer Künstler dies in Taiwan tut
 
-Um diese Frage zu beantworten, muss man zurückkehren zu Kuala Lumpur im Jahr 2013.
+Um diese Frage zu beantworten, muss man zurück ins Jahr 2013 nach Kuala Lumpur blicken.
 
-In diesem Jahr fand in Malaysia die 13. Wahl zum Bundesparlament statt. Nach Veröffentlichung der Wahlergebnisse eskalierte die Debatte über ethnische Zugehörigkeit in der malaysischen Gesellschaft stark: Die Wahlergebnisse wurden darauf hingedezielt interpretiert, „eine bestimmte Ethnie müsse für das Wahlergebnis verantwortlich sein“, während südostasiaten Gastarbeitern aus Bangladesch als „geisterhafte Wähler“ diffamiert wurden, und Hassrede verbreitete sich über mehrere Wochen auf Facebook und in den Medien.[^5]
+In jenem Jahr fanden in Malaysia die 13. Parlamentswahlen statt. Nachdem die Wahlergebnisse feststanden, kam es in der malaysischen Gesellschaft zu einem massiven Ausbruch rassistischer Rhetorik: Die Ergebnisse wurden so instrumentalisiert, dass behauptet wurde, „eine bestimmte ethnische Gruppe müsse für das Wahlergebnis verantwortlich sein“. Zudem wurden bangladeschische Arbeitsmigranten als „Geisterwähler“ beschimpft. Diese Hassrede hielt in den sozialen Medien wie Facebook und in den Medien über mehrere Wochen hinweg an[^5].
 
-Zu dieser Zeit war Quiu Hsiu-hsi bereits seit einigen Jahren in Kuala Lumpur tätig. In einem Interview mit dem Herausgeber von _Digital Prairie_, Zheng Wen-chi, im Jahr 2015 sagte sie direkt:
+Zu dieser Zeit war Au Sow Yee bereits seit einigen Jahren für die Arbeit nach Kuala Lumpur zurückgekehrt. In einem Interview mit Zheng Wen-chi, dem Chefredakteur von 《Digital Wasteland》, im Jahr 2015 sagte sie direkt:
 
-> „Zu dieser Zeit war ich wirklich wütend, aber auch neugierig – so, als hätte ich von klein auf gelernt, dass unser Bildungssystem, unsere Erkenntnis und Konzepte von Ethnien, alle aus Leben und Bildung resultierten.“[^6]
+> „Damals war ich sehr wütend und gleichzeitig auch neugierig. Es scheint so, als ob unsere Identifizierung oder Einordnung von Ethnien sowie die Wahrnehmung bestimmter Rassen – angefangen bei unserem Bildungssystem – tatsächlich durch das tägliche Leben und das Bildungssystem geprägt sind.“[^6]
 
-Aber sie weigerte sich, diese Wut in eine bestimmte Haltung zu kanalisieren. Sie fuhr fort:
+Sie weigerte sich jedoch, diese Wut in eine andere Form des politischen Protests umzuwandeln. Sie fuhr fort:
 
-> „Ich wurde in einem chinesischsprachigen Bildungssystem groß und kenne die sogenannten ‚chinesischen Gemeinschaft‘, die gerne eine bestimmte Haltung einnehmen und sich als besonders betroffen darstellen … Persönlich mag ich diese Haltung nicht, sich als Opfer zu sehen und damit Wähler zu mobilisieren – das erscheint mir widersprüchlich.“[^6]
+> „Ich bin im chinesischsprachigen Bildungssystem aufgewachsen und weiß auch, dass die sogenannte ‚chinesische Gemeinschaft‘ gerne bestimmte Forderungen stellt und sich selbst als Opfer darstellt ... Ich persönlich mag diese Haltung nicht, sich aus einer Opferrolle heraus an die Wähler zu wenden; das erscheint mir widersprüchlich.“[^6]
 
-Sie wollte nicht aus der Position der „traurigen Chinesen“ heraus arbeiten. Aber sie konnte auch nicht tun, als hätte sie die Ereignisse nach der Wahl von 2013 nicht gesehen.
+Sie wollte ihre Werke nicht aus der Position des „malaysisch-chinesischen Opfers“ heraus schaffen. Gleichzeitig konnte sie jedoch auch nicht so tun, als hätte sie die Ereignisse nach den Wahlen von 2013 nicht wahrgenommen.
 
-Sie wählte einen dritten Weg: **ein fiktives Geografum zu erfinden**.
+Sie entschied sich für einen dritten Weg: **die Erfindung eines fiktiven Ortsnamens**.
 
-## Mengkerang: Ein nicht existierender Ort, der realer ist als die Realität
+## Mengkerang: Ein nicht existierender Ort, der doch realer wirkt als die Wirklichkeit
 
-Das Projekt _Mengkerang_ begann 2013 mit einem einfachen Einfrequenz-Video[^7].
+Das „Mengkerang Project“ begann im Jahr 2013 mit einem Single-Channel-Video[^7].
 
-Der Name Mengkerang ist von Au Sow Yee erfunden, klingt aber so real, dass er glaubwürdig erscheint. Er ruft Assoziationen mit Medan in Indonesien und Pengarang am südlichen Rand Malaysiens hervor. In einem Interview erklärt sie:
+Der Ortsname Mengkerang ist eine Erfindung von Au Sow Yee, klingt aber täuschend echt. Er erinnert an Medan in Indonesien oder Pengarang am südlichen Ende Malaysias. In einem Interview erklärte sie:
 
-> „Ich brauchte einfach nur einen Namen mit fremdländischem Flair. Mengkerang vermittelt sofort eine Südseh-Vorstellung.“[^6]
+> „Ich wollte einfach einen exotischen Namen. Mengkerang vermittelt einem sofort eine Vorstellung vom Südseekontinent (Nanyang).“[^6]
 
-Doch dieser erfundene Name wurde schnell realer als jeder echte Ort.
+Doch dieser fiktive Ortsname wurde schnell schärfer als ein echter.
 
-Kapitel eins: _Ein Tag ohne Sonne in Mengkerang – Kapitel Eins_ (2013). Sie fand Menschen verschiedener Ethnien, Bildungshintergründe und Altersgruppen in Malaysia und ließ sie ein „exquisite corpse“-Spiel spielen: Jeder fuhr mit der Beschreibung von Mengkerang durch den Vorletzten fort, bis eine merkwürdige Erzählung entstand, in der Fakt und Fiktion untrennbar miteinander verwoben sind[^7]. Sie weigerte sich, einen Dokumentarfilm zu drehen, weil Dokumentationen „schon immer eine bestimmte Perspektive einnahmen“[^6].
+Das erste Kapitel, 《A Day Without Sun in Mengkerang Chapter One》 (2013), sah sie verschiedene Malaysier mit unterschiedlichen ethnischen Hintergründen, Bildungsbiografien und Altersgruppen bitten, das Spiel „Exquisite Corpse“ zu spielen: Jeder baute auf der Beschreibung des Vorgängers über Mengkerang auf, bis am Ende eine seltsame Erzählung entstand, in der „Fakt und Fiktion kaum noch zu unterscheiden waren“[^7]. Sie weigerte sich, einen Dokumentarfilm zu drehen, da ein Dokumentarfilm „bereits in gewissem Maße eine Perspektive einnimmt“[^6].
 
-Kapitel zwei, 2015 abgeschlossen: _Sang Kancil, Hang Tuah, Raja Bersiong, Bomoh, das verschwundene Flugzeug und andere_. Die gesammelten malaiischen Volksmärchen umfassen die Heldenepen des epischen Helden Hang Tuah, den klugen Kancil (das gängigste Tier in malaiischen Märchen), den frechen Tyrannen Raja Bersiong mit seinen langen Zähnen und die noch heute glaubwürdigen Bomoh (Traditionsheiler). Der „verschwundene Flugzeug“ im Titel bezieht sich auf das mysteriöse Verschwinden des malaysischen Fluges MH370 im Jahr 2014[^8].
+Das zweite Kapitel wurde 2015 fertiggestellt: 《Sang Kancil, Hang Tuah, Raja Bersiong, Bomoh, the Missing Jet and Others》. Die von ihr gesammelten malaysischen Volkslegenden umfassen den epischen Helden Hang Tuah, den klugen Sang Kancil (das am häufigsten vorkommende Tier in malaysischen Märchen), den langzahnigen Tyrannen Raja Bersiong und die Bomoh (Schamanen/Heiler), an die immer noch Menschen glauben. Das „verschollene Flugzeug“ im Titel bezieht sich auf Malaysia Airlines MH370 aus dem Jahr 2014[^8].
 
-Kapitel drei: _Pak Tai Foto_ (2015). Sie ging in eine alte Fotografieabteilung in der Petaling Street in Kuala Lumpur, die wegen des Baus der U-Bahn abgerissen werden musste, und interviewte dort arbeitende Arbeiter aus Bangladesch, Myanmar und China[^9].
+Das dritte Kapitel ist 《Pak Tai Foto》 (2015). Sie suchte in der Petaling Street in Kuala Lumpur ein altes Fotostudio auf, das wegen des Baus einer MRT-Linie bald abgerissen werden sollte, um dort bangladeschische, birmanische und chinesische Arbeitsmigranten zu interviewen, die in diesem Viertel arbeiteten[^9].
 
-Aber sie filmte nicht die Arbeiter. Sie filmte die leeren Räume der Fotografieabteilung und nutzte nur ihre Stimmen.
+Doch sie filmte nicht die Gesichter der Migranten. Sie filmte das leere Innere des Fotostudios und ließ nur ihre Stimmen zu Wort kommen.
 
 > **📝 Kuratorische Notiz**
->
-> „Abwesenheit“ ist das zentrales Stichwort dieses Werks. Das Publikum hört Stimmen, sieht jedoch keine Menschen. Eine Gruppe von Arbeitern aus Bangladesch, Myanmar und China erzählt, wie sie nach Kuala Lumpur kamen und wohin sie wollten. Gleichzeitig ist auch der Laden selbst von diesem Ort „abwesend“, da die U-Bahn gebaut wird. Doppelte Abwesenheit tritt gleichzeitig in einem Raum ein.
+> „Abwesenheit“ ist das Schlüsselwort dieses Werks. Die Zuschauer hören Stimmen, sehen aber keine Menschen – eine Gruppe von bangladeschischen, birmanischen und chinesischen Arbeitsmigranten erzählt, wie sie nach Kuala Lumpur kamen und wohin sie gehen möchten. Gleichzeitig wird das Fotostudio selbst bald aus der Geografie Kuala Lumpurs „verschwinden“, da die MRT-Linie darüber gebaut wird. Eine doppelte Abwesenheit ereignet sich gleichzeitig in einem Raum.
 
-Au Sow Yee hat eine langjährige Beziehung zu „Abwesenheit“. Die Petaling Street war das Zentrum der frühesten chinesischen Gemeinschaft in Kuala Lumpur und ein Ort, den sie in ihrer Kindheit oft besuchte – Buchläden, Plattenläden, Fast-Food-Restaurants. „Aber wegen der Stadterneuerung und des U-Bahn-Baus wird der Ort bald abgerissen“[^6]. Sie wollte dieses verschwindende Phänomen festhalten, ohne jedoch die Methode der Aufnahmen in eine typische „Stimmen für die Schwachen erheben“-Haltung zu verfallen.
+Au Sow Yees Faszination für „Abwesenheit“ hat historische Wurzeln. Die Petaling Street ist der Ursprungsort der frühen chinesischen Siedlungen in Kuala Lumpur und ein Ort, den sie als Kind oft besuchte – Buchläden, Plattenläden und Fast-Food-Restaurants befanden sich dort. „Aber wegen der Stadterneuerung für die MRT wird dieser Ort bald abgerissen“[^6]. Sie wollte diesen Prozess des Verschwindens festhalten, ohne dass die Art der Aufnahme eine Haltung des „Sprechens für die Schwachen“ annimmt.
 
-Die malaysische Kuratorin Sharon Chin verfasste nach der Ausstellung _„Wohnen und anderswo: Bildmessprojekt“_ in Kuala Lumps _Lostgens'_ eine engsprachige Kritik, die den Kern von Au Sow Yees Methodik traf:
+Die malaysische Kuratorin Sharon Chin schrieb nach der Besichtigung der Ausstellung von 《Habitation and Elsewhere: Image Survey Project》 bei Lostgens' in Kuala Lumpur einen englischen Kommentar, der den Kern von Au Sow Yees Methodik traf:
 
-> **„Sie interessiert sich für die Politik der Bilder, nicht für politische Bilder.“**[^10]
+> **„She's interested in the politics of images, instead of political images.“**[^10]
 
-Es geht ihr nicht um politische Themen in der Fotografie, sondern um die Frage, wie Bilder politisch funktionieren. Der Unterschied ist klar: Die eine Frage stellt, warum ein Foto überzeugend ist, die andere richtet die Kamera einfach auf eine Protestscene.
+Sie interessiert sich dafür, „wie Bilder Politik betreiben“, und nicht für das „Filmen politischer Themen“. Der Unterschied liegt darin: Die Erstere fragt: „Warum kann ein Foto Menschen überzeugen?“, während die Letztere lediglich die Kamera auf einen Protest richtet.
 
-Sharon Chin bemerkte weiterhin, dass _Pak Tai Foto_ gut ist, weil es **nicht einfach nur „Stimmen für die Arbeiter erhebt“** – stattdessen „integrieren ihre Narrative natürlich in die größere Geschichte Malaysias“[^10]. Die Stimmen der Arbeiter werden untrennbar mit der Geschichte des gesamten Landes verknüpft, nicht als isolierte „Geschichten der Fremden“ dargestellt.
+Sharon Chin sagte zudem, der Vorteil von 《Pak Tai Foto》 sei, dass es **nicht „für die Migranten spricht“** – „rather than 'giving voice' to migrant workers, their narratives integrate naturally into Malaysia's larger story“[^10]. Die Stimmen der Arbeitsmigranten sind mit der größeren Erzählung Malaysias verwoben und werden nicht isoliert als „Geschichten von Fremden“ behandelt.
 
-Dies ist eine der wichtigsten Methoden von Au Sow Yee: **sie lehnt die typische kuratorielle Haltung ab, „Stimmen für jemand anderen zu erheben“**.
+Dies ist einer der wichtigsten methodischen Ansätze von Au Sow Yee: **Die Ablehnung einer kuratorischen Haltung, die vorgibt, „für jemanden zu sprechen“.**
 
-![Arbeitsstill aus *Pak Tai Foto* (2015) von Au Sow Yee. Das Bild zeigt den Innerenraum einer alten Fotografieabteilung in der Petaling Street in Kuala Lumpur, die abgerissen werden muss](/article-images/people/au-sow-yee-pak-tai-foto-still-2015.webp)
-_Arbeitsstill aus *Pak Tai Foto* (2015) von Au Sow Yee. Die Stimmen der Arbeiter aus Bangladesch, Myanmar und China hallen durch den leeren Raum einer Fotografieabteilung, die wegen des Baus der U-Bahn abgerissen werden muss. Fair use editorial commentary on Au Sow Yee's work. Source: [artist's official portfolio](https://ausowyee.cargo.site/)._
+![Still aus Au Sow Yees Werk 《Pak Tai Foto》 (2015). Das Bild zeigt das Innere eines alten Fotostudios in der Petaling Street, Kuala Lumpur, das bald abgerissen wird](/article-images/people/au-sow-yee-pak-tai-foto-still-2015.webp)
+_Still aus Au Sow Yees Werk 《Pak Tai Foto》 (2015). Das alte Geschäft in der Petaling Street soll aufgrund von MRT-Bauarbeiten abgerissen werden; die Stimmen der Arbeitsmigranten hallen durch das leere Studio. Fair use editorial commentary on Au Sow Yee's work. Quelle: [artist's official portfolio](https://ausowyee.cargo.site/)._
 
-## „Nicht-Anwesenheit“ ist der kreative Standort
+## „Abwesenheit“ als Ort des Schaffens
 
-Aber wo wurden die drei Teile des Mengkerang-Projekts erstmals gezeigt?
+Doch wo fand die Trilogie des 《Mengkerang Project》 ihre Premiere?
 
-Taipeh[^11].
+In Taipeh.[^11]
 
-Sie erklärte das in einem Interview aus dem Jahr 2015:
+In einem Interview aus dem Jahr 2015 erklärte sie den Grund dafür:
 
-> „Ich möchte zum Ausdruck bringen, dass ich, wenn ich jetzt noch in Malaysia bliebe, so etwas nicht schaffen würde. Gerade wegen meiner ‚Nicht-Anwesenheit‘ entsteht dieses Werk.“[^6]
+> „Was ich ausdrücken möchte, ist: Wenn ich jetzt noch in Malaysia leben würde, würde ich so etwas nicht machen. Gerade wegen meiner ‚Abwesenheit‘ entsteht dieses Werk.“[^6]
 
-Dieser Satz widerlegt die gängige Annahme, dass Künstler\*innen ihr Herkunftsland nur schaffen können, wenn sie es physisch erleben. Die Distanz ist selbst eine kreative Bedingung: Erst nach 14 Jahren im Ausland lässt sich Malaysia aus einer externen Perspektive schreiben.
+Dieser Satz stellt die gängige Annahme um, dass ein Künstler seine Heimat durch unmittelbare Erfahrung beschreiben muss. Die Distanz selbst wird zur Bedingung des Schaffens: Erst nach 14 Jahren abseits von Malaysia war es ihr möglich, ein Malaysia aus einer Außenperspektive zu beschreiben.
 
-Ihr Verzicht auf ‚pathetische Appelle‘ dehnt sich zugleich auf ‚Authentizität‘ aus. Sie sagt:
+Ihre Ablehnung von „Mitleids-Narrativen“ erstreckt sich gleichermaßen auf den Begriff der „Authentizität“. Sie sagte:
 
-> „Wo liegt ‚Authentizität‘ eigentlich? Oder sie ist von Haus aus nicht ‚authentisch‘, und doch betonen viele diese ‚Authentizität‘, als würde das eine Art Schutz wirken – als müssten sie immer wieder auf die Finger legen, was sie nicht können.“[^6]
+> „Wo liegt diese ‚Reinheit‘ eigentlich? Oder ist sie vielleicht gar nicht rein? Viele betonen diese ‚Authentizität‘, als würde sie eine Schutzfunktion erfüllen – so als ob man etwas ständig thematisieren müsste, nur weil man es selbst nicht leisten kann.“[^6]
 
-Ihre soziale Herkunft hat ihr diese Haltung bereits prägt: ‚In meiner sozialen Herkunft ist Sprache ein sehr gemischter Zustand; man muss jederzeit mit jemandem auf Englisch oder Malaiisch sprechen, und ein asiatisches Gesicht bedeutet nicht automatisch, dass man Chinesisch spricht‘[^6]. Malaysische Chines\*innen wachsen nie in einer ‚reinen‘ Kultur auf, daher sind sie von ‚reiner Malaienheit‘ oder ‚reiner Chinesischheit‘ von Natur aus immun.
+Ihr Hintergrund prägte diese Haltung: „In meiner Kindheit und Jugend war Sprache ein sehr hybrider Zustand; man musste jederzeit zwischen Englisch und Malaiisch wechseln, und wenn man auf chinesische Gesichter traf, bedeutete das nicht zwangsläufig, dass man sich auf Chinesisch verständigen konnte.“[^6] Malaysische Chinesen existieren nie in einer reinrassigen Kultur, weshalb sie gegenüber Konzepten wie einer „reinen malaiischen“ oder „reinen chinesischen Identität“ von Natur aus immun ist.
 
-> **✦** Der Satz, den sie 2015 in einem Interview veröffentlichte – ‚Nur durch Nicht-Anwesenheit kann man schaffen‘ – wurde später zur Grundlage ihrer gesamten kreativen Strategie: Nur nicht in Malaysia, um Malaysia schreiben zu können; nur nicht innerhalb der chinesischen Gemeinschaft, um sie klar zu sehen; nur nicht in den etablierten Hauptzentren der Ausstellung, um die Randzustände wahrzunehmen.
+> **✦** Die Aussage aus jenem Interview im Jahr 2015 – dass erst die Abwesenheit das Schaffen ermöglicht – wurde später zum Fundament ihres gesamten künstlerischen Weges: Nur wer nicht in Malaysia ist, kann über Malaysia schreiben; nur wer nicht im chinesischen Kulturkreis lebt, kann diesen klar betrachten; und nur wer nicht in den Zentren der Mainstream-Kuration steht, kann die Peripherie wahrnehmen.
 
-## Vom individuellen Werk zur Inselgruppen-Diskussion
+## Von persönlichen Werken zur Archipel-Diskussion
 
-2017 war ein entscheidendes Jahr für Qu Qixiu.
+Das Jahr 2017 war ein Schlüsseljahr für Au Sow Yee.
 
-In diesem Jahr veröffentlichte sie zusammen mit Zheng Wenqi — dem Herausgeber von _No Man's Land_ — das Projekt **Nusantara Archive**[^12].
+In diesem Jahr lancierte sie gemeinsam mit Zheng Wen-chi – dem Herausgeber von 《Digital Wasteland No Man's Land》 – das Projekt „**Nusantara Archive**“ (Archipel-Datenbank) [^12].
 
-Das Wort _Nusantara_ stammt aus der malaiischen Sprache: _nusa_ bedeutet „Insel“, _antara_ bedeutet „anderweitig“, zusammengesetzt also „zwischen den Inseln“. Es ist ein Begriff aus der mittelalterlichen javanischen Literatur, der sich als Selbstbezeichnung des malaiischen Kulturraums von Maß und Bali bis nach Indonesien und Singapur erstreckt. Keine Insel ist hier zentral, jede Insel ist für eine andere Insel das _andere_[^12].
+Das Wort „Archipel“ wird im Malaiischen als **Nusantara** bezeichnet: _nusa_ bedeutet „Insel“, _antara_ bedeutet „zwischen“ oder „anderes“, zusammengefasst also „zwischen den Inseln“. Es ist ein Begriff aus mittelalterlichen javanischen Texten und stellt eine Selbstbezeichnung für die gesamte malaiische Welt dar, die Malaysia, Indonesien, Singapur und die Philippinen umfasst. Keine Insel bildet das Zentrum; jede Insel ist das „Andere“ einer anderen Insel [^12].
 
-Dieser Begriff ersetzt **Südostasien**. Letzteres stammt von der Bezeichnung _South East Asia Command_ (Südostasien-Kommando), die die Alliierten 1943 während des Zweiten Weltkriegs für ihre militärische Verwaltung gründeten und die nach dem Krieg als regionaler Begriff übernommen wurde. Mit anderen Worten: _Südostasien_ ist ein Begriff, der aus **äußerer Perspektive** entstanden ist, während des Kalten Krieges[^13].
+Dieser Begriff soll den Begriff „**Südostasien**“ (Southeast Asia) ersetzen. Letzterer stammt von der Benennung des _South East Asia Command_, das 1943 von den Alliierten gegründet wurde, und wurde erst nach dem Krieg als regionale Bezeichnung übernommen. Das bedeutet, dass „Südostasien“ ein Begriff ist, mit dem diese Geografie während des Kalten Krieges **von außen betrachtet** wurde [^13].
 
-Der Wechsel des Bezugssystems bedeutet: Statt kolonialer Bezeichnungen die selbstbestimmten Bezeichnungen der betroffenen Kulturen zu verwenden; statt einer Dualität aus _Zentrum und Rand_ eine Perspektive auf das _Inselgruppen-Kontinuum_ zu entwickeln. Für die taiwanesische Kunstszene ist diese Verschiebung besonders wichtig: **Taiwan kann als nordöstlicher Teil der malaiischen Inselgruppe verstanden werden**, nicht als _das andere_ von _Südostasien_ oder als _eine Insel in der chinesischen Welt_.
+Den Rahmen (Framework) zu wechseln bedeutet, die Koordinaten zu verschieben: Die Selbstbezeichnung in den Landessprachen soll die kolonialen Bezeichnungen ersetzen, und ein „Kontinuum zwischen den Inseln“ soll die binäre Opposition von „Zentrum und Peripherie“ ablösen. Für die Kunstszene Taiwans ist dieser Wandel von großer Bedeutung: **Taiwan kann als der nordöstliche Rand des malaiischen Archipels betrachtet werden**, anstatt als das „Andere Südostasiens“ oder als eine „isolierte Insel der chinesischen Welt“.
 
-Die Nusantara Archive startete 2017–2018 mit Künstler\*innen aus Malaysia: Okui Lala und Hoo Fan Chon, die für ein Stationierungsstipendium in Taiwan eingeladen wurden, finanziert durch 350.000 NT$ von der Nationalen Taipeher Kunststiftung[^14]. Qu Qixiu war Mitglied des 7-köpfigen Redaktionsbeirats von NML[^15] — die anderen 6 waren Huang Wen-hsiao, Ye Shao-bin, Gao Sheng-hsin, Luo Shih-tung, Wu Ting-kuang und Huang Kuang-ying.
+Im ersten Jahr des Nusantara Archive (2017–2018) wurden die malaysischen Künstler Okui Lala und Hoo Fan Chon zu Residenzen nach Taiwan eingeladen, gefördert durch einen Zuschuss von NT$350.000 des National Arts Foundation [^14]. Au Sow Yee war eines der sieben Mitglieder des redaktionellen Beirats von NML [^15] – die anderen sechs Mitglieder waren Huang Wen-hao, Yeh Shao-bin, Takamori Nobuo, Lo Shih-tung, Wu Ting-kuan und Huang Ching-ying.
 
-NML ist keine anonyme Plattform. Es ist eine schriftstellerische Stelle eines transnationalen Kuratornetzwerks. 2018 veröffentlichte die DAF Digital Art Foundation das Buch **Nusantara Archive 03: Qu Qixiu**, das alle ihre Arbeiten seit 2013 in Cotton Garden systematisch diskutiert und als eigenständige Monographie veröffentlicht hat[^16]. Das Buch markiert das erste Mal, dass das _Nusantara_-Framework in Form einer **Monographie** institutionalisiert wurde.
+NML ist keine anonyme Plattform. Es ist ein Schreiborgan eines transnationalen kuratorischen Netzwerks. Im Jahr 2018 veröffentlichte die Digital Art Foundation (DAF) 《Nusantara Archive 03: Au Sow Yee》, um all ihre Werke seit 2013 in Mengkerang zu diskursiv aufzubereiten und als eigenständiges Buch zu veröffentlichen [^16]. Dieses Buch markiert den ersten Moment, in dem der „Archipel“-Rahmen in Form einer **Personen-Monografie** institutionalisiert wurde.
 
-> **💡 Wusstest du schon?**
-> Vor dem Nusantara Archive 2017 dominierten taiwanesische Kunstdiskurse zwei Perspektiven: _Westlich_ (New York, Berlin, Paris) und _Chinesisch_ (Interaktionen zwischen beiden Seiten der Straße, Aufstieg der zeitgenössischen chinesischen Kunst). Künstler*innen aus Malaysia, Indonesien und Singaporean waren in der taiwanesischen Kunstszene nahezu unsichtbar. Nach dem Nusantara Archive tauchten Nachfolger*innen (Okui Lala, Hoo Fan Chon, Tan Zi Hao, Nguyen Trinh Thi usw.) schrittweise an der Nationalen Taipeher Kunstakademie, im Cube-Space und auf der Taipeher Dualen Biennale in Erscheinung. Qu Qixiu war nicht die einzige treibende Kraft hinter dieser Entwicklung, aber sie war eine der wichtigsten Knotenpunkte.
+> **💡 Wussten Sie schon?**
+> Vor dem Nusantara Archive im Jahr 2017 waren die beiden am häufigsten verwendeten Koordinaten in der taiwanischen Kunstdiskussion über „Südostasien“ der „Westen“ (New York, Berlin, Paris) und die „chinesische Welt“ (Austausch auf beiden Seiten der Taiwanstraße, Aufstieg der zeitgenössischen chinesischen Kunst). Künstler aus Malaysia, Indonesien und Singapur waren in der taiwanischen Kunstszene fast unsichtbar. Die Generation nach dem Nusantara Archive (darunter Okui Lala, Hoo Fan Chon, Tan Zi Hao, Nguyen Trinh Thi usw.) taucht schrittweise an der Taipei University of the Arts, im Cube Project Space und auf der Taipei Biennale auf. Au Sow Yee ist nicht die einzige treibende Kraft dieses Wandels, aber sie ist einer der wichtigsten Knotenpunkte (Nodes).
 
-## 《Der Kris-Projekt“-Zyklus im Singapore Art Museum
+## 《The Kris Project》gelangt in das Singapore Art Museum
 
-2015–2016 erstellte Au Sow Yee eine weitere bedeutende Serie: **„The Kris Project“**[^17].
+In den Jahren 2015–2016 schuf Au Sow Yee eine weitere bedeutende Serie: 《The Kris Project》[^17].
 
-Ein _Kris_ ist ein traditionelles malaiisches Dolchen, doch noch bedeutender ist, dass diese Serie die Kamera auf das goldene Zeitalter der südostasiatischen chinesischen Filme der 1950er–1960er-Jahre richtet. Sie griff sich _found footage_ aus dem Filmarchiv des singapurische Unternehmens **Cathay-Keris** (1951 von Li Man-tou und Ho Tim gemeinsam gegründet, damals einer der wichtigsten Filmproduzenten Südostasiens im Wettbewerb zu Shaw, später von UNESCO in die „Register of the Memory of the World“ aufgenommen)[^18].
+Der „Kris“ ist ein traditioneller malaiischer Dolch, doch was noch wichtiger ist: Diese Serie richtet den Fokus auf das goldene Zeitalter des chinesischsprachigen Films in Südostasien in den 1950er und 60er Jahren. Sie nutzte Found-Footage-Material aus dem malaiischen Archiv des singapurischen Filmstudios **Cathay-Keris** (Cathay-Keris wurde 1951 von Loke Wan Tho und Ho Kee Wing gemeinsam gegründet und war eines der wichtigsten Filmstudios in Südostasien, das damals mit Shaw Brothers konkurrierte; später wurde es von der UNESCO in die „Memory of the World Register for Asia and the Pacific“ aufgenommen) [^18].
 
-Mit diesen alten Filmen neu komponierte sie Erzählungen und grub sich die Erinnerung an die südostasiatischen chinesischen Filme aus der historischen Kontinuität von Singapur / Malaysia / Hongkong / Taiwan heraus.
+Durch die Neuzusammensetzung dieser alten Filmrollen rekonstruiert sie Erzählungen und legt die Erinnerungen an den chinesischsprachigen Film Südostasiens aus einem historischen Kontinuum heraus, das Singapur, Malaysia, Hongkong und Taiwan miteinander verbindet.
 
-Das Werk wurde 2016 vom **Singapore Art Museum** akquiriert[^19]. Für eine 38-jährige malaiisch-chinesische Künstlerin ist dies ein Ziel, das von Kuala Lumpur nicht unmittelbar erreicht werden kann.
+Das Werk wurde 2016 vom **Singapore Art Museum** in seine Sammlung aufgenommen[^19]. Für eine 38-jährige malaysische Künstlerin chinesischer Abstammung ist dies ein Status, der von Kuala Lumpur aus nicht unmittelbar erreichbar ist.
 
-Sie blieb nicht zuerst in Malaysia bekannt und wurde dann von Singapore entdeckt, sondern etablierte zuerst ihre Position in Taiwan, und dann wurden Singapur, Hongkong, Seoul, Tokio, Berlin, Schanghai, Bangkok, Busan und Sharjah nacheinander eingeladen, sie einzuladen[^20].
+Sie erlangte keine Bekanntheit in Malaysia, um dann in Singapur entdeckt zu werden; vielmehr etablierte sie zuerst ihre Diskurse in Taiwan und wurde anschließend nacheinander von Singapur, Hongkong, Seoul, Tokio, Berlin, Shanghai, Bangkok, Busan und Sharjah eingeladen[^20].
 
-## 2018 Taipeh-Biennale: Die südliche Sektion der Kolonialausstellung in einem zeitgenössischen Museum
+## Taipei Biennial 2018: Den Südpavillon der japanischen Kolonialzeit in ein zeitgenössisches Museum integrieren
 
-2018 trat sie erstmals offiziell auf der größten zeitgenössischen Kunnbühne Taiwans in Erscheinung: der Taipeh-Biennale _„Nach der Natur: Das Museum als Ökosystem“_[^21].
+Im Jahr 2018 betrat sie zum ersten Mal die größte Bühne für zeitgenössische Kunst in Taiwan: die Taipei Biennial 《Post-Nature: Museum as an Ecosystem》[^21].
 
-Ihr Werk hieß sehr lang: _„Kokosnuss, das Leuchten von Penang und die Liebe zwischen Spionen: Ein Sendeplan“_ (2018). Eine dreikanalige Video-Installation mit Klanginstallation, die den räumlichen Aufbau des **Südkinos der Ausstellung 1935 nach Taiwan nachbildet**[^22].
+Ihr Werk trägt einen sehr langen Titel: 《**Kokospalmen, Penang Yan und die Liebe zwischen Leben und Tod eines Informanten: Ein Rundfunkprojekt**》(2018). Es handelt sich um eine Drei-Kanal-Videoinstallation mit Sound-Installation, welche die räumliche Anordnung des **Südpavillons der Taiwan-Ausstellung von 1935** nachahmt[^22].
 
-Die Taiwan-Ausstellung 1935 war eine Bühne, auf der das japanische Reich seine Vorstellungen von der „Südlichen Gemeinschaft“ (Nanshin) nach Südostasien ausrollte. Taiwan als süßester Senderstand des Reiches strahlte 1935 per Radio die imperialen Vorstellungen in die Halbinsel Malaya, die Indonesischen Inseln und die Philippinen aus[^23]. Quiu Hsiu-hsi hat diese historische Struktur des Jahres 1935 als räumliche Grundlage eines zeitgenössischen Kunstwerks 2018 gestaltet – ein 83 Jahre alter Traum von einem südlichen Reich, den die Besucher betreten können.
+Die Taiwan-Ausstellung von 1935 diente als diskursive Bühne für das japanische Kaiserreich, um seine Reichweite in den „Großraum der gemeinsamen Prosperität des Südens“ (Südostasien) auszuweiten. Als südlichster Funkstützpunkt Japans nutzte Taiwan in jenem Jahr Radiowellen, um die Vorstellung des Kaiserreichs bis auf die Malaiische Halbinsel, die indonesischen Inseln und die Philippinen zu übertragen[^23]. Chia Hsiu-yi nutzt diese historische Struktur von 1935 als räumliches Gerüst für ein zeitgenössisches Kunstwerk aus dem Jahr 2018. Wenn das Publikum das Werk betritt, begibt es sich in eine imperiale Vorstellung des Südens, die 83 Jahre zurückliegt.
 
-Eine weitere Theaterversion des Werks hieß _„Südostasien Informationsaustausch“_ und wurde im Oktober 2018 in Zusammenarbeit mit dem Lui-Chun-chun-Theater aufgeführt[^24]. Dieselbe historische Struktur – in einem zeitgenössischen Museum als Video-Installation, in einer Theaterbox als körperliche Aufführung.
+Dieses Werk existiert zudem in einer Theaterversion mit dem Titel 《**Nanyang Information Exchange Station**“, die im Oktober 2018 in Zusammenarbeit mit der Liu Chun-chun Theatergruppe aufgeführt wurde[^24]. Dieselbe historische Struktur manifestiert sich im Museum als Videoinstallation, während sie im „Black Box“-Theaterraum als körperbasierte Performance erscheint.
 
-Sie begann, ihr Werk von einem „einzelnen Bild“ zu einem **interdisziplinären, ortsübergreifenden und zeitübergreifenden Gesamtkonzept** auszubauen.
+Damit begann sie, ihre Arbeiten von „einzelnen Videowerken“ zu ganzheitlichen Projekten auszuweiten, die **medienübergreifend, ortsübergreifend und zeitübergreifend** konzipiert sind.
 
-## STILL ALIVE: Das Kris-Projekt II und die stummen Meereshelden
+## STILL ALIVE: The Kris Project II und die schweigenden Krieger des Ozeans
 
-Am 28. November 2019 eröffnete **TheCube Project Space** in **Taipeh, Liuqunli** die Einzelausstellung _STILL ALIVE_[^25], die bis zum 19. Januar 2020 lief.
+Am 28. November 2019 eröffnete die **TheCube Project Space** in Liuzhangli, Taipeh, ihre Einzelausstellung 《STILL ALIVE》[^25], die bis zum 19. Januar 2020 lief.
 
 Drei Werke:
 
-1. _Das Kris-Projekt II: Wenn die Party weitergeht_ (Chris Project II: If the Party Goes On) – eine Vertiefung des 2016er Kris-Projekts
-2. _Palaces, Valleys, Islands and Their Lunar Journey_ – Verbindung der malayischen Welt mit Mondmythen
-3. _Silberner Rausch: Die extreme Reise der stummen Meereshelden (Vorspiel: Seemannslied)_ – akustische Erinnerung an das Meer
+1. 《**Chris Project II: If the Party Goes On**》, eine Fortsetzung des Chris Project aus dem Jahr 2016, die jedoch tiefer grabend vorging;
+2. 《**Palaces, Valleys, Islands and Their Lunar Journey**“, welche die malaiische Welt mit der Mondmythologie verknüpft;
+3. 《**Silver Noise: The Extreme Journey of the Silent Warriors of the Ocean (Overture: Song of Navigation)**“, eine Mnemotechnik der Geräusche des Ozeans.
 
-TheCube Project Space wurde 2010 von **Cheng Hui-hua** und **Lo Yueh-chuan** gegründet und befindet sich in einer alten Wohngegend in **Taipeh, Liuqunli**. Es ist einer der wichtigsten nicht-kommerziellen Raum für zeitgenössische Kunst in **Taiwan**. Dass **Quiu Hsiu-hsi** hier eine Ausstellung hält, ist kein Zufall – TheCube unterstützt seit Jahren konsequent kuratierte Projekte rund um das Thema „Inseln“. Dies ist ein weiterer Knotenpunkt für die **malayische Welt** außerhalb von NML.
+Die TheCube Project Space wurde 2010 von Cheng Hui-hua und Lo Yue-chuan gegründet und befindet sich in einem alten Apartment in einer Gasse in Liuzhangli, Taipeh. Sie ist einer der bedeutendsten nicht-kommerziellen Räume in der zeitgenössischen Kunstszene Taiwans. Dass Au Sow Yee hier eine Einzelausstellung abhielt, war kein Zufall; TheCube unterstützt seit Jahren kuratorische Projekte im Zusammenhang mit dem „Archipel“ intensiv und stellt damit einen weiteren Knotenpunkt der malaiischen Welt in der taiwanischen Kunstszene dar, neben NML.
 
-2021 erhielt sie für diese Serie den **Ehrenpreis des Taipeher Kunstpreises**[^26]. In derselben Zeit begann sie, von internationalen Biennale-Einladungen kontinuierlich angenommen zu werden: **2022 Busan Biennale**, **2023 Sharjah Biennale 15** mit dem Thema _Thinking Historically in the Present_[^27].
+Im Jahr 2021 erhielt sie für die Erweiterung dieser Serie den **Taipei Art Award Honor Award**[^26]. Ebenfalls in diesem Jahr begannen fortlaufende Einladungen zu internationalen Biennalen: zur Busan Biennale 2022 und zur 15. Sharjah Biennial in den VAE unter dem Titel „Thinking Historically in the Present“ im Jahr 2023[^27].
 
-## Si Tanggang neu interpretiert mit stateless Kindern
+## Si Tanggang neu erzählen mit staatenlosen Kindern
 
-Aber ihr dichtestes Werk stammt erst aus dem Jahr 2024.
+Ihr umfangreichstes Werk erschien jedoch erst im Jahr 2024.
 
-In diesem Jahr bildete sie mit der Theatermacherin **Chen Yow-Ruu** das Kollektiv „Her Lab Space“ und erhielt den Auftrag des Singapore Art Museum, das Werk **„The Rocking Dream (Der schaukelnde Traum)“**[^28] zu schaffen.
+In diesem Jahr wurde sie vom Singapore Art Museum beauftragt, gemeinsam mit der Theatermacherin **Chen Yu-ju** in ihrem Kollektiv „Her Lab Space“ das Werk 《**The Rocking Dream**》[^28] zu kreieren.
 
-Während der Produktion flog sie nach Malaysia und arbeitete mit einer Organisation namens **BJCK** zusammen. Dies ist ein Verein, der sich auf die Unterstützung staatenloser Kinder in Malaysia konzentriert. Am 7. April 2024 wurden sie in dem Büro von BJCK mit diesen Kindern interviewt und die Kinder wurden dazu angeregt, die malaiische Sage **Si Tanggang** in ihren eigenen Worten neu zu interpretieren[^29].
+Während der Produktionsphase flogen sie zurück nach Malaysia, um mit einer NGO namens **BJCK** zusammenzuarbeiten. Dies ist eine Organisation, die sich speziell der Unterstützung staatenloser Kinder in Malaysia widmet. Am 7. April 2024 führten sie Interviews mit diesen Kindern im Büro von BJCK und leiteten sie an, die malaiische Legende **Si Tanggang**[^29] in ihren eigenen Worten neu zu interpretieren.
 
-Si Tanggang ist eine bekannte Volkssage aus der malaiischen Welt: Ein armer Junge aus einem Fischerdorf kehrt nach erfolgreicher Zeit zurück als Schiffskapitän, doch als seine Mutter ihn anerkennen will, leugnet er sie aus Scham und flucht sie, woraufhin das ganze Schiff in Stein verwandelt wird[^30].
+Si Tanggang ist eine berühmte Volkssage der malaiischen Welt: Ein armes Kind aus einem Fischerdorf verlässt seine Heimat, wird erfolgreich und kehrt als Kapitän zurück. Als seine Mutter ihn erkennt, schämt er sich für die arme Frau, behauptet, sie nicht zu kennen, woraufhin sie ihn verflucht, zu Stein zu werden – wodurch das gesamte Schiff zu einer steinernen Insel wurde[^30].
 
-Diese Sage ist in der malaiischen Welt allgemein bekannt. Sie behandelt Themen wie „Vergessen der Herkunft“, „Auslandswanderung“ und „Identitätsleugnung“.
+Diese Legende ist in der malaiischen Welt allgegenwärtig. Sie behandelt Motive wie „Undankbarkeit“, „Heimatverlust“ und die „Verleugnung der Identität“.
 
-Quiu Hsiu-Hsi hat diese Sage ausgewählt, damit staatenlose Kinder in Malaysia sie neu interpretieren können. Die Rechtsidentität dieser Kinder wird von der malaiischen Staatspolitik selbst geleugnet – sie sind die Umkehrung der Si-Tanggang-Geschichte: Während im Original die Kinder ihre Mutter vergessen, vergisst in der modernen Version der Staat die Kinder.
+Au Sow Yee wählte diese Legende aus, damit staatenlose Kinder in Malaysia sie neu interpretieren können. Der rechtliche Status dieser Kinder selbst wird vom malaiischen Staat verleugnet; sie bilden die Umkehrung der Si-Tanggang-Geschichte: Während das Original davon handelt, dass ein Kind seine Mutter vergisst, ist die zeitgenössische Version eine, in der der Staat die Kinder vergisst.
 
-Das Werk stellt Archivmaterial des schwarz-weißen Films von Si Tanggang aus dem Jahr 1961 nebeneinander mit den Stimmen der staatenlosen Kinder der Gegenwart[^31]. Die Filmproduktion von 1961 stammt aus der goldenen Ära von Cathay-Keris. Quiu Hsiu-Hsi lässt somit die malaiische Filmkunst von vor 60 Jahren mit den staatenlosen Kindern von heute in einem Raum aufeinandertreffen.
+Das Werk stellt Schwarz-Weiß-Filmarchive von Si Tanggang aus dem Jahr 1961 den Stimmen staatenloser Kinder der Gegenwart gegenüber[^31]. Die Filme von 1961 stammen aus der Blütezeit der Cathay-Keris-Produktionen. Au Sow Yee lässt die malaiischen Filme von vor 60 Jahren mit den staatenlosen malaysischen Kindern von heute in einem gemeinsamen Raum dialogisieren.
 
-> **⚠️ Kontroverse Sichtweise**
-> Das Thema „staatenlose Kinder“ ist in der malaiischen Politik äußerst sensibel. Bumiputera-Vorrechte, islamisches Recht vs. Zivilrecht, Kinder aus interracialen Ehen, Kinder von Gastarbeitern – diese Themen sind historische Wunden, die die malaiische Politik nie direkt anspricht. Ein chinesisch-malaiischer Künstler, der dieses Werk in Taipeh erschafft und dann in Singapur ausstellt, repräsentiert eine besondere politische Möglichkeit, die **nur „außerhalb“ Malaysias möglich ist**.
+> **⚠️ Kontroverser Standpunkt**
+> Das Thema „staatenlose Kinder“ (stateless children) ist in der malaysischen Politik äußerst sensibel. Die Vorrangpolitik für die Bumiputera (Ureinwohner), das Spannungsfeld zwischen Scharia und Zivilrecht, Kinder aus interethnischen Ehen sowie Kinder von Gastarbeitern sind historische Wunden, mit denen die malaysische Politik nie offen umgeht. Dass eine malaysisch-chinesische Künstlerin dieses Werk in Taipeh erschafft und anschließend in Singapur ausstellt, eröffnet eine besondere politische Möglichkeit – etwas, das **nur „außerhalb“ Malaysias** so umgesetzt werden kann.
 
-„The Rocking Dream“ wurde zunächst im Singapore Art Museum 2024 (Ein-Kanal-Version) gezeigt und im selben Jahr von der Kubik Project Space in eine 2,5-Kanal-Version umgestaltet (zwei Bildschirme + verkleinerte Modellprojektion) für eine vollständige Ausstellung[^32]. Dieses Werk wurde **für den 24. Taiwan-Singapur-Kunstpreis nominiert**[^33].
+《The Rocking Dream》wurde 2024 zuerst im Singapore Art Museum (als Single-Channel-Version) gezeigt; noch im selben Jahr wurde das Werk im Cube Project in eine 2.5-Kanal-Version (zwei Bildschirme + Projektion auf ein Miniaturmodell) umgewandelt, um die vollständige Einzelausstellung zu realisieren[^32]. Das Werk wurde für den **24. Tai-Shin Art Award nominiert**[^33].
 
-## Warum ein Künstler eine Bibliothek eröffnet
+## Warum eine Künstlerin eine Bibliothek gründet
 
-Zurück zum Jahr 2017, als Qui Hsiu-hsi die Rumah Attap Library and Collective in Kuala Lumpur eröffnete.
+Zurück zum Jahr 2017 und der Rumah Attap Library.
 
-Um zu verstehen, warum Qui Hsiu-hsi dies tut, muss man ihre gesamte Arbeitsachse betrachten. Sie war nie jemand, der „nur Kunstwerke schafft“. Sie ist eine **Institutionenbauerin**.
+Um zu verstehen, warum Au Sow Yee diesen Schritt unternommen hat, muss man ihre gesamte berufliche Laufbahn betrachten. Sie ist niemals jemand, der „nur Kunstwerke schafft“. Sie ist eine **Institutionen-Aufbauerin**.
 
-- **2011–** : Langjährige Autorin und redaktionelle Beraterin bei _Digital Prairie_[^15]
-- **2017** : Mitbegründung der Rumah Attap Library and Collective (Kuala Lumpur)
-- **2017–** : Gemeinsame Entwicklung der Nusantara-Datenbank mit Zheng Wen-chi
-- **2018** : _Nusantara-Datenbank 03: Qui Hsiu-hsi_ eigenständig veröffentert
-- **2019–** : Dozentinin am Zentrum für Allgemeinbildung der Nationalen Taiwan Kunstuniversität (Fachbereich Wissenschaft und Technologie)[^34]
-- **2024–** : Gründung des kreativen Kollektivs _Her Lab Space_
+- **Seit 2011**: Langjährige Autorin und redaktionelle Beraterin für „Digital Wasteland“[^15]
+- **2017**: Mitbegründerin der Rumah Attap Library and Collective (Kuala Lumpur)
+- **Seit 2017**: Gemeinsame Förderung des Archipelago Database mit Zheng Wen-chi
+- **2018**: Eigenverlagte Publikation „Archipelago Database 03: Au Sow Yee“
+- **Seit 2019**: Dozentin am Center for General Education der National Taipei University of the Arts (Bereich Wissenschaft und Technologie)[^34]
+- **Seit 2024**: Künstlerkollektiv „Her Lab Space“
 
-NML-Redakteurin, Gründung einer Bibliothek, Verlagsarbeit, Lehrtätigkeit an der Nationalen Taiwan Kunstuniversität – diese Tätigkeiten würden bei Betrachtung des künstlerischen Lebenslaufs unterschätzt. Doch sie sind die materielle Grundlage, auf der das „Nusantara“-Framework tatsächlich funktioniert.
+Die Tätigkeiten als NML-Redakteurin, Bibliotheksgründerin, Kuratorin von Publikationen und Dozentin an der NTUA würden in einem reinen Werkverzeichnis unterschätzt werden. Doch sie bilden das materielle Fundament, auf dem Au Sow Yees Framework des „Archipel“ tatsächlich operiert.
 
-Kunstwerke sind einzelne, eigenständige Bilder. Bibliotheken, Veröffentlichungen, Stationsprogramme, redaktionelle Arbeit sind die **Infrastruktur**, die es diesen Bildern ermöglicht, gelesen, weitergeführt und an die nächste Generation weitergegeben zu werden.
+Kunstwerke sind einzelne Bilder. Die Bibliothek, die Publikationen, die Residency-Programme und die redaktionelle Arbeit sind die **Infrastruktur**, die es ermöglicht, dass diese Bilder gelesen, fortgeführt und an die nächste Generation weitergegeben werden können.
 
-> **📝 Kuratorische Notiz**
-> „Nusantara“ als Framework zu betrachten, ist eine Sache; es in eine funktionierende Institution zu verwandeln, eine andere. Ein Vortrag kann Nusantara fördern, ein Paper kann es analysieren, aber 14 Künstler dort residieren zu lassen, 384 NML-Artikel anzuregen und ein Buch wie _Nusantara-Datenbank 03_ auf die Regal einer Bibliothek zu bringen – das erfordert eine andere Arbeit. Qui Hsiu-hsi war nie nur im Atelier.
+> **📝 Kuratorische Notizen**
+> Es ist eine Sache, den „Archipel“ als Framework zu begreifen; es ist eine völlig andere, ihn in eine funktionierende Institution zu verwandeln. Ein Vortrag kann das Konzept von Nusantara propagieren, eine Abhandlung kann Nusantara analysieren – aber um 14 Künstler zu Residenzen einzuladen, um aus 384 NML-Artikeln einen Diskurs aufzubauen und um ein Werk wie „Archipelago Database 03“ zu etwas zu machen, das man in einem Bibliotheksregal findet, bedarf es einer ganz anderen Form von Arbeit. Au Sow Yee verbringt ihre Zeit nicht nur im Atelier.
 
-## 2025: Die große Ausstellung im Taiwan-Museum für Moderne Kunst
+## Die große Ausstellung in Taichung im Jahr 2025
 
-Am 13. Dezember 2025 eröffnete das **Taiwan Museum of Contemporary Art (TAM)** – ein Lächelbau des Taiwanstraße-Kulturparks, der erst 2024 eröffnet worden war – mit der großen Einzelausstellung **„A Call of All Beings: See you tomorrow, same time, same place“**, die bis zum 12. April 2026 andauert[^35].
+Am 13. Dezember 2025 eröffnete das neu errichtete **Taichung Museum of Fine Arts (TAM)** – ein Wahrzeichen des Taichung Songlian Cultural Park, das erst 2024 seine Pforten öffnete – ihre große Einzelausstellung 《**A Call of All Beings: See you tomorrow, same time, same place**》. Die Ausstellung läuft bis zum 12. April 2026[^35].
 
-Dies war ihre erste große Einzelausstellung in einem staatlichen taiwanesischen Museum. Bisher war sie hauptsächlich auf Biennale-Gruppenausstellungen oder als präzise Einzelausstellungen in experimentellen Räumen aktiv. Das Museum in Taizhong schenkte ihr ein ganzes 20.000 Quadratmeter großes Flüsterzimmer.
+Dies ist ihr erstes Mal, dass sie eine groß angelegte Einzelausstellung im Maßstab eines nationalen Museums in Taiwan präsentiert. In der Vergangenheit bestand ihre Hauptbühne entweder aus einem einzelnen Werk innerhalb von Biennale-Gruppenausstellungen oder aus kuratierten Einzelausstellungen in Räumen des Cube Project. Das Taichung Museum of Fine Arts schenkte ihr stattdessen eine ganze Halle in einem neuen, 20.000 Quadratmeter großen Museum.
 
-Der Ausstellungstitel „A Call of All Beings“ fasst ihre Arbeit der letzten zehn Jahre zusammen: von den fiktiven malayischen Geografien des **„Mengkerang-Projekts“**, über das südostasiatische chinesische Filmerbe im **„Kris-Projekt“**, die koloniale Südsee-Vision von **„Pflanzen, Penang, Schönheit“** von 1935, die Seegestalt vom **„Piraten, das zitternde Schiff“** bis hin zu den stummen Kindstimern im **„Rocking Dream“**. Ihr ständiger Auftrag war es, jene unsichtbaren Wesen in die Gegenwartskunst zu rufen.
+Der Titel „A Call of All Beings“ ist eine Antwort auf das, was sie in den letzten zehn Jahren aufgebaut hat: von der fiktiven malaiischen Geografie des 《Mengkereang Project》 über die Erinnerungen an südostasiatische chinesischsprachige Filme im 《The Kris Project》 und die imperialen südlichen Vorstellungen von 1935 in 《Coconut Grove, Penang Glamour》 bis hin zu den Legenden der Piraten im Südchinesischen Meer in 《Pirates, the Trembling Ship》 und den Stimmen staatenloser Kinder in 《The Rocking Dream》. Was sie beständig tut, ist, **jene Existenzen, die ungehört bleiben, in das zeitgenössische Museum zu rufen**.
 
-Der Untertitel „See you tomorrow, same time, same place“ (Mögen wir uns morgen zur selben Zeit am selben Ort wiedersehen) klingt wie ein Abschied – und gleichzeitig wie eine Fortsetzung. Für jemanden, der 23 Jahre in Taipeh und Kuala Lumpur lebte, tragen diese vier Worte eine andere Bedeutung als für die meisten Menschen.
+Der Untertitel „See you tomorrow, same time, same place“ (Morgen wiedersehen, zur gleichen Zeit, am gleichen Ort) liest sich wie ein Abschied, aber auch wie eine Fortsetzung. Für jemanden, der 23 Jahre lang zwischen Taipeh und Kuala Lumpur gelebt hat, haben diese vier Worte „bis morgen“ eine andere Bedeutung als für den Durchschnittsbürger.
 
-## 2003 – Das Flugzeug, das von Kuala Lumpur nach Taipeh flog
+## Das Flugzeug, das 2003 von Kuala Lumpur nach Taipeh flog
 
-Die Geschichte beginnt im Jahr 2003.
+Die Geschichte führt uns zurück ins Jahr 2003.
 
-In diesem Jahr war Qu Quỳ 25 Jahre alt und stieg in ein Flugzeug von Kuala Lumpur nach Taipeh. Sie hatte ursprünglich vor, in den USA experimentellen Film zu studieren, und hatte bereits ein halbes Jahr an einer privaten Akademie in Malaysia abgeschlossen, letztendlich aber die Entscheidung für die Nationalen Taipeher Künste (NTNU) getroffen[^6].
+In jenem Jahr war Au Sow Yee 25 Jahre alt und bestieg in Kuala Lumpur ein Flugzeug mit dem Ziel Taipeh. Ursprünglich hatte sie geplant, in den USA Experimentalfilm zu studieren; bereits zuvor hatte sie ein halbes Jahr lang ein allgemeines Studium an einem privaten College in Malaysia absolviert, doch letztendlich entschied sie sich für die Taipei University of the Arts[^6].
 
-Sie dachte damals wahrscheinlich nicht daran, dass sie 22 Jahre später in Taipeh mit dem malaiischen Begriff „Inseln“ („Kepulauan“) ein neues Koordinatensystem für die gesamte taiwanesische Kunstszene schaffen würde. Noch weniger dachte sie daran, dass sie zurück nach Kuala Lumpur kehren und dort in Kampong Attap eine Bibliothek errichten würde, dann erneut nach Taipeh zurückkehren, um Aufträge für das Singapore Art Museum anzunehmen, und schließlich vom Taichung Museum of Fine Arts für eine groß angelegte Einzelausstellung gebeten zu werden.
+Damals hätte sie wohl kaum geahnt, dass sie 22 Jahre später in Taipeh mit dem malaysischen Begriff für „Archipel“ das Koordinatensystem der gesamten taiwanischen Kunstszene verändern würde. Sie hätte auch nicht gedacht, dass sie nach Kuala Lumpur zurückkehren würde, um in Kampung Attap eine Bibliothek zu errichten, dann wieder nach Taipeh zurückkehrt, um Auftragsarbeiten für das Singapore Art Museum zu leisten, und schließlich vom Taichung Museum of Fine Arts zu einer großen Einzelausstellung eingeladen wird.
 
-Sie hatte nicht unbedingt damit gerechnet, so lange zu bleiben. Doch in einem Interview im Jahr 2015 mit Zheng Wen-chi äußerte sie einen Gedanken, der später zur zentralen Methodik ihrer gesamten 23-jährigen Karriere wurde:
+Auch hat sie vermutlich nicht unbedingt erwartet, so lange zu bleiben. Doch in einem Interview mit Cheng Wen-chi im Jahr 2015 warf sie jenen Satz ein: **„Gerade wegen meiner ‚Abwesenheit‘ entsteht dieses Werk.“** Dieser Satz wurde letztlich zum Kern ihrer Methodologie in einer nun 23 Jahre währenden Karriere.
 
-> **„Es ist gerade weil ich nicht anwesend bin, dass ich dieses Werk erschaffen kann.“**
+Nur fern von Malaysia kann man über Malaysia schreiben.
+Nur fern vom chinesischsprachigen Kulturkreis kann man den chinesischsprachigen Kulturkreis klar sehen.
+Nur fern von den Mainstream-Kuratorien-Zentren kann man die Peripherie wahrnehmen.
+Nur fern der „Heimat“ kann man die „Wohnstätte“ erkennen.
 
-Nicht in Malaysia schreiben, um Malaysia zu schreiben.
-Nicht innerhalb der chinesischen Gemeinschaft, um die chinesische Gemeinschaft zu erkennen.
-Nicht in den etablierten Hauptzentren der Kuratorik, um die Randbereiche zu sehen.
-Nicht in der „Heimat“, um den „Wohnsitz“ zu erkennen.
+Sie befindet sich nie an einem festen Ort. In Taipeh schreibt sie über Malaysia, in Malaysia schreibt sie über südostasiatische chinesischsprachige Filme, in Singapur schreibt sie über staatenlose Kinder und in Sharjah schreibt sie über den malaiischen Archipel.
 
-Sie war nie an einem festen Ort. Sie schrieb Malaysia in Taipeh, schrieb ostasiatische chinesische Filme in Malaysia, schrieb staatenlose Kinder in Singapur, schrieb die malaiische Inselgruppe in Sharjah.
+Doch der letzte Satz des NML-Interviews von 2015 wurde vom Interviewer Cheng Wen-chi verfasst. Er fügte nach dem Ende von Au Sow Yees Erzählung eine Fußnote hinzu:
 
-Doch die letzte Zeile des Interviews von NML im Jahr 2015 stammte vom Interviewer Zheng Wen-chi. Nachdem Qu Quỳ geendet hatte, fügte er eine Fußnote hinzu:
+> „Vielleicht entdecken wir durch dieses Projekt, dass es eigentlich keinen Ort gibt, der ein wahres ‚Anderes‘ ist; was gleichbedeutend mit ‚Anderem‘ ist, ist auch eine ‚Wohnstätte‘.“[^6]
 
-> „Vielleicht entdecken wir durch dieses Projekt, dass es keinen wirklich fremden Ort gibt, und dass der fremde Ort ebenso ein Wohnsitz ist.“[^6]
+Für jemanden, der 1978 in Kuala Lumpur geboren wurde, 2003 nach Taiwan kam, 2017 nach Kuala Lumpur zurückkehrte, um eine Bibliothek zu eröffnen, und 2025 eine Einzelausstellung im Taichung Museum of Fine Arts absolviert – gibt es keinen Ort, der ein wahres „Anderes“ ist.
 
-Für eine Person, die 1978 in Kuala Lumpur geboren wurde, 2003 nach Taipeh kam, 2017 zurück nach Kuala Lumpur kehrte, um eine Bibliothek zu eröffnen, und 2025 im Taichung Museum of Fine Arts eine Einzelausstellung hatte, gibt es keinen wirklich fremden Ort.
+Doch es gibt auch keinen Ort, der eine vollständige Wohnstätte darstellt.
 
-Aber auch keinen vollständigen Wohnsitz.
-
-Sie war gerade genug anwesend, um zu überleben, und gerade genug abwesend, um zu erschaffen. **Sie schuf Werke zwischen zwei Koordinatensystemen.** Dies ist die Form, die aus der Wut nach den Parlamentswahlen in Malaysia 2013 entstand.
+Sie ist gerade genug präsent, um zu wohnen, und gerade genug abwesend, um zu wirken. **Sie schafft ihre Werke zwischen zwei Koordinaten.** Dies ist die Form, in die sich jene Wut nach der malaysischen Wahl 2013 letztlich verwandelt hat.
 
 ## Bildquellen
 
-Dieser Artikel verwendet 1 Stillgrafik eines lebenden Künstlers (Fair-Use-Editorial-Kommentar, gemäß § 65 Abs. 2 des Urheberrechtsgesetzes „angemessene Nutzung zu Bildungszwecken" und den vier Fair-Use-Faktoren von 17 U.S.C. § 107: nicht-kommerzielle Bildungsfunktion / veröffentlichtes Werk / geringer Zitationsanteil / keine substanzielle Marktverdrängung). Das Bild wird in `public/article-images/people/` zwischengespeichert, um Hotlinking auf den Quellserver zu vermeiden:
+Dieser Artikel verwendet 1 Stillbild eines Werks eines lebenden Künstlers (Fair Use im Rahmen der redaktionellen Kommentierung, gemäß Urheberrechtsgesetz § 65 Absatz 2 „angemessene Verwendung zu Bildungszwecken“ und den vier Faktoren des US-amerikanischen Fair Use nach 17 U.S.C. § 107: nicht-kommerzieller Bildungscharakter / bereits veröffentlichtes Werk / geringer Zitieranteil / keine wesentliche Marktersatzwirkung). Das Bild ist unter `public/article-images/people/` zwischengespeichert, um Hotlinking auf den Quellservern zu vermeiden:
 
-- hero：[Qu Qiu-yi《Prelude: Interstellar and the Battle Drum》（2024）Still](https://ausowyee.cargo.site/) — © Au Sow Yee。Fair use editorial commentary on Qu Qiu-yi's work for non-commercial educational purpose. Source: artist's official cargo.site portfolio.
+- hero: [Stillbild von Au Sow Yees Werk 《Prelude: Interstellar and the Battle Drum》 (2024)](https://ausowyee.cargo.site/) — © Au Sow Yee. Fair use editorial commentary on Au Sow Yees Werk zu nicht-kommerziellen Bildungszwecken. Quelle: Offizielles Portfolio des Künstlers auf cargo.site.
 
-Falls Qu Qiu-yi selbst oder ihre Vertretung Bedenken hinsichtlich der Verwendung dieses Bildes haben, bitte kontaktieren Sie Taiwan.md (github.com/frank890417/taiwan-md); wir werden das Bild umgehend entfernen oder anpassen.
+Sollte Au Sow Yee selbst oder deren Agentur Bedenken hinsichtlich der Verwendung dieses Bildes haben, kontaktieren Sie bitte Taiwan.md (github.com/frank890417/taiwan-md); wir werden das Bild umgehend entfernen oder anpassen.
 
 ## Weiterführende Literatur
 
-- [Zheng Wen-chi](/de/people/cheng-wen-chi) — Chefredakteur von NML und Mitbegründer der Nusantara-Datenbank, arbeitete von der Gründung von NML im Jahr 2011 über die Aktivierung von Nusantara 2017 bis 2024 mit, ist ein wichtiger Partner in der taiwanesischen Kunstszene
-- [Taiwanesische Kurator\*innen und kulturelle Konstruktion](/de/art/taiwanese-curators-and-artistic-cultural-construction) — Entwicklung der Positionen der taiwanesischen Kurator\*innen-Generation wie Hsu Sen-shan (NML-Berater), im Dialog mit der Nusantara-Theorie in der Taipeher Biennale und der Asiatischen Kunstbiennale
-- [Taiwanesische neue Medien](/de/art/taiwan-new-media-art) — Qu Shih-yi verwendet vor allem Video-Installationen als Hauptmedium, dieser Themenstrang bietet den historischen Kontext für taiwanesische Video- und Medienkunst
-- [Zeitgenössische Kunst](/de/art/contemporary-art) — Überblick über das taiwanesische zeitgenössische Kunstfeld, der durch Qu Shih-yis "Nusantara"-Framework erweitert wird und die Südostasien- und Südachse der taiwanesischen zeitgenössischen Kunst sichtbar macht
+- [Zheng Wen-chi](/de/people/cheng-wen-chi) — Chefredakteur von NML und Mitinitiator der Archipelago Database; er arbeitet seit der Gründung von NML im Jahr 2011 über den Start des Archipelago-Projekts 2017 bis hin zur kontinuierlichen Zusammenarbeit im Jahr 2024 eng mit Au Sow Yee zusammen und ist ihr wichtigster Partner in der taiwanischen Kunstszene.
+- [Taiwanische Kuratoren und der Aufbau von Kunst und Kultur](/de/art/taiwanese-curators-and-artistic-cultural-construction) — Die Entwicklung des Diskurses einer Generation taiwanischer Kuratoren, darunter Nobuo Takamori (einer der Redaktionsberater von NML), steht in einem fortlaufenden Dialog mit Au Sow Yees „Archipelago“-Diskurs, wie er bei der Taipei Biennial und den Asian Art Biennales Form annahm.
+- [Taiwanische Neue Medienkunst](/de/art/taiwan-new-media-art) — Da Au Sow Yee Videoinstallationen als primäres Medium nutzt, bietet dieser Link den Kontext zur Geschichte der Videokunst und Medienkunst in Taiwan.
+- [Zeitgenössische Kunst](/de/art/contemporary-art) — Ein Überblick über das gesamte Ökosystem der zeitgenössischen Kunst in Taiwan; ergänzt um Au Sow Yees „Archipelago“-Framework wird hier die südostasiatische bzw. globale Süd-Achse der taiwanischen zeitgenössischen Kunst sichtbar.
 
-## Quellenangaben
+## Referenzen
 
-[^1]: [Rumah Attap Library & Collective Offizielle Website](https://www.rumahattap.com/) — Offizielle Website des Attap-Hauses, Bibliothek Nr. 84, die 2017 in einem alten Geschäftshaus aus den 1950er Jahren im kleinen Kampong Attap in Kuala Lumpur gegründet wurde, ehrenamtlich und gemeinnützig.
+[^1]: [Offizielle Website der Rumah Attap Library & Collective](https://www.rumahattap.com/) — Die offizielle Website der Rumah Attap Library, die dokumentiert, dass sie 2017 in einem alten Ladenhaus aus den 1950er Jahren in Kampung Attap, Kuala Lumpur, gegründet wurde und auf ehrenamtlicher Basis als Non-Profit-Organisation arbeitet.
 
-[^2]: [Rumah Attap Über uns Seite](https://rumahattap.wixsite.com/rumahattap) — Eigenständige Erklärung des Bibliothekslebens als Koordinationspunkt, gegründet von Amateur, In Between Cultura und Au Sow Yee Studio im Jahr 2017.
+[^2]: [Rumah Attap „About“-Seite](https://rumahattap.wixsite.com/rumahattap) — Selbstbeschreibung der Bibliothek als „living coordinate“; die drei Mitbegründer sind „Amateur, In Between Cultura und Au Sow Yee Studio“, gegründet im Jahr 2017.
 
-[^3]: [Vorstellung der Taipeher Doppelausstellung 2018](https://www.taipeibiennial.org/2018/information/39) — Offizielle Künstlerseite des Taipeher Museums für Gegenwartskunst, die wörtlich festhält: 'Chiou Chun-Hsi, geboren 1978 in Malaysia, lebt und arbeitet derzeit in Taipeh.'
+[^3]: [Einführung zur Ausstellung der Taipei Biennale 2018](https://www.taipeibiennial.org/2018/information/39) — Offizielle Künstlerseite des Museums für Antike Kunst der Stadt Taipeh mit dem Wortlaut: „Chia Hsiu-yi wurde 1978 in Malaysia geboren und lebt und arbeitet derzeit in Taipeh“.
 
-[^4]: [Eigenständige Erklärung der Rumah Attap Bibliothek](https://www.rumahattap.com/?page_id=9) — Offizielle Vorstellungsseite, die das Konzept des 'offenen und kritischen alternativen Wissigkeitssystems' sowie des 'lebendigen Koordinationspunkts' vorschlägt.
+[^4]: [Selbstbeschreibung der Rumah Attap Library](https://www.rumahattap.com/?page_id=9) — Offizielle Informationsseite, die die konzeptionellen Rahmenbedingungen eines „open and critical alternative knowledge system“ und einer „living coordinate“ vorstellt.
 
-[^5]: [Plötzlich schwarzes Profilbild: Eine Beobachtung der malaysischen Parlamentswahlen 2013](https://guavanthropology.tw/article/4715) — Anthropologische Beobachtung der Baole-Recherche von 2013, die die Verschwendung rassistischer Äußerungen nach der Wahl und das Auftauchen von 'Geisterwählern' unter den bangladeschischen Gastarbeitern dokumentiert.
+[^5]: [„Eine Nacht, in der das Facebook-Profilbild plötzlich schwarz wurde: Die malaysische Parlamentswahl 2013 aus der Sicht von Yaole Anthropology“](https://guavanthropology.tw/article/4715) — Ein Feldbeobachtungsprotokoll von Yaole Anthropology aus dem Jahr 2013, das die Flut an rassistischer Rhetorik nach der Wahl und den Vorfall dokumentiert, bei dem bangladeschische Arbeitsmigranten als „Geisterwähler“ bezeichnet wurden.
 
-[^6]: [Zheng Wen-Chi im Jahr 2015 im Gespräch mit Chiou Chun-Hsi 'Auf der Suche nach einem Zuhause im Bild'](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Veröffentlicht am 15. April 2015 in 'Digital Prairie', ein Interview von Zheng Wen-Chi, das Chiou Chun-Hsi von den Ursprüngen des Cotton Fields-Projekts über Bildungssysteme, kreative Methodik bis zum Konzept der 'Abwesenheit' vollständig wiedergibt – derzeit die umfassendste öffentlich zugängliche chinesische Originalinterviewaufzeichnung mit Chiou Chun-Hsi.
+[^6]: [Cheng Wen-chi: Interview mit Chia Hsiu-yi 2015 – „Suche nach einer Behausung in Bildern“](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Veröffentlicht am 15.04.2015 in „Digital Wasteland“; ein persönliches Interview des Chefredakteurs Cheng Wen-chi, das das vollständige Gespräch von Chia Hsiu-yis Ursprüngen des Mengkerang-Projekts über das Bildungssystem und die Methodik bis hin zum Konzept der „Abwesenheit“ dokumentiert. Es ist das derzeit vollständig zugängliche chinesischsprachige Primärinterview mit Chia Hsiu-yi.
 
-[^7]: [Das Mengkerang-Projekt I: Ein Tag ohne Sonne in Mengkerang Kapitel Eins](https://ausowyee.cargo.site/The-Mengkerang-Project-I-A-Day-Without-Sun-in-Mengkerang-Chapter-One) — Arbeitsseite der persönlichen Website von Chiou Chun-Hsi, die das einfrequente Videoprojekt von 2013 als erstes Kapitel des Mengkerang-Projekts beschreibt, das exquisite-corpse-ähnliche Interviewformat mit verschiedenen ethnischen Befragten verwendet.
+[^7]: [The Mengkerang Project I: A Day Without Sun in Mengkerang Chapter One](https://ausowyee.cargo.site/The-Mengkerang-Project-I-A-Day-Without-Sun-in-Mengkerang-Chapter-One) — Werkseite auf der persönlichen Website von Chia Hsiu-yi; dokumentiert das einkanalige Videowerk aus dem Jahr 2013 als ersten Teil des Mengkerang-Projekts, bei dem Interviews mit Vertretern verschiedener Ethnien im Stil eines „Exquisite Corpse“-Stafettenverfahrens geführt wurden.
 
-[^8]: [Das Mengkerang-Projekt II (2015) auf der Künstlerwebsite](https://ausowyee.wordpress.com/2015/10/11/the-mengkerang-project-2013-2015-sang-kancil-hang-tuah-raja-bersiong-bomoh-the-missing-jet-and-others/) — Zweites Kapitel auf der WordPress-Website von Chiou Chun-Hsi, abgeschlossen im Jahr 2015, mit Titeln, die mythische Figuren wie Hirschhirsch, Handy, Zahnradkönig und Zauberer sowie das verschwundene Flugzeug (Bezug auf Malaysia Airlines MH370 2014) enthalten.
+[^8]: [The Mengkerang Project II (2015) auf der Künstlerseite](https://ausowyee.wordpress.com/2015/10/11/the-mengkerang-project-2013-2015-sang-kancil-hang-tuah-raja-bersiong-bomoh-the-missing-jet-and-others/) — Einführung zum zweiten Teil des Werks auf Chia Hsiu-yis Wordpress-Website, abgeschlossen im Jahr 2015; der Titel umfasst malaysische Folklore und zeitgenössische Ereignisse wie den Chevrotain, Hang Tuah, den Zahnkönig, Schamanen und ein verunglücktes Flugzeug (bezogen auf Malaysia Airlines MH370 im Jahr 2014).
 
-[^9]: [Das Mengkerang-Projekt III: Pak Tai Foto (2015)](https://ausowyee.cargo.site/The-Mengkerang-Project-III-Pak-Tai-Foto-2015) — Drittes Kapitel auf der persönlichen Website von Chiou Chun-Hsi, das das Fotostudio Pak Tai in der Straße der Ziegeleien in Kuala Lumpur beschreibt, das Interviews mit Gastarbeitern aus Bangladesch, Myanmar und China enthält und bei denen die interviewten Personen nicht anwesend sind.
+[^9]: [The Mengkerang Project III: Pak Tai Foto (2015)](https://ausowyee.cargo.site/The-Mengkerang-Project-III-Pak-Tai-Foto-2015) — Einführung zum dritten Teil des Werks auf der persönlichen Website von Chia Hsiu-yi; dokumentiert das Pak Tai Fotostudio in Pudu, Kuala Lumpur, und das Design, bei dem die mündlichen Überlieferungen von bangladeschischen, birmanischen und chinesischen Arbeitsmigranten genutzt werden, während die Protagonisten der Bilder abwesend sind.
 
-[^10]: [Sharon Chin: Anmerkungen zu Au Sow Yees 'Wohnen und anderswo'](https://sharonchin.com/notes-on-habitation-and-elsewhere/) — Kritik der malaysischen Kuratorin und Künstlerin Sharon Chin auf die 2015er-Ausstellung 'Wohnen und anderswo', die die Perspektive von 'Politik der Bilder statt politischer Bilder' und die Beobachtung, dass man 'statt die Stimmen der Gastarbeiter zu erheben' andere Methoden verwendet.
+[^10]: [Sharon Chin: Notes on Au Sow Yee's "Habitation and Elsewhere"](https://sharonchin.com/notes-on-habitation-and-elsewhere/) — Rezension der Ausstellung „Habitation and Elsewhere“ aus dem Jahr 2015 durch die malaysische Kuratorin und Künstlerin Sharon Chin; sie stellt die konzeptionelle Rahmung „politics of images, instead of political images“ sowie die methodische Beobachtung „rather than 'giving voice' to migrant workers“ vor.
 
-[^11]: [Kuratorische Informationen zur Ausstellung 'Wohnen und anderswo: Bildmessprojekt' (NML-Interview-Fußnote 3)](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Fußnote 3 im NML-Interview erwähnt, dass diese Ausstellung von Guo Zhao-Lan kuratiert wurde und Teil der EX!T 6, der 6. taiwanesischen internationalen Experimental-Medien-Kunstausstellung (vom 5. bis 26. April 2015 im kleinen Theater auf der Straße Guangling / im August 2015 in Kuala Lumpur Lostgens) war, mit Eröffnung in Taipeh.
+[^11]: [Kuratorische Informationen zu „Habitation and Elsewhere: Image Survey Project“ (NML Interview 2015, Anmerkung 3)](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Anmerkung 3 des NML-Interviews gibt an, dass die Ausstellung von Kuo Chao-lan kuratiert wurde; die Erstaufführung fand in Taipeh im Rahmen der 6. Taiwan International Experimental Media Art Festival (EX!T 6) statt (05.04. bis 26.04.2015 im Guling Street Little Theater / August 2015 bei Lostgens' in Kuala Lumpur).
 
-[^12]: [Einleitung des Nusantara-Issues 34 der Hermeneutik](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Eigenständige Kuratierung durch Zheng Wen-Chi, veröffentlicht im September 2017, die erste vollständige Darstellung der nusantaraischen Hermeneutik als Selbstinterpretation, mit Erklärung der Wortbedeutung von Nusantara (nusa + antara).
+[^12]: [Hermeneutics of Nusantara – Herausgegeben von NML Issue 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Von Cheng Wen-chi persönlich kuratiert und herausgegeben, veröffentlicht im September 2017; die erste vollständige theoretische Abhandlung zur Selbstinterpretation der „Archipel-Hermeneutik“ (Nusa + Antara) inklusive etymologischer Erklärungen.
 
-[^13]: [Über uns Seite der Digital Prairie](https://www.heath.tw/about/) — Vollständige Selbstvorstellung der Plattform in Chinesisch und Englisch, die die 'Randzone'-Positionierung von NML und die philosophische Grundlage des nusantaraischen Rahmens festhält.
+[^13]: [„Digital Wasteland“ ABOUT-Seite](https://www.heath.tw/about/) — Vollständige Selbstvorstellung der Plattform in Chinesisch und Englisch; dokumentiert die Selbstpositionierung von NML als „Randgebiet“ (periphery) und die philosophischen Grundlagen des Archipel-Frameworks.
 
-[^14]: [Archiv des Stipendienprogramms der Digital Prairie und der Nusantara-Datenbank (erstes Jahr)](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Archiv der Förderungsdokumente der Nationalen Kultur- und Kunststiftung, das die detaillierte Durchführung des Projekts vom Mai 2017 bis April 2018 aufzeichnet, mit einer Fördersumme von 350.000 Yuan, wobei die malaysischen Künstlerin Chow Yen-Zhen und Fu Fang-Jun jeweils einen Monat lang als Gastkünstler in Taiwan recherchierten.
+[^14]: [Archiv des National Arts Council: „Digital Wasteland“ Residency & Archipelago Database Project (Jahr 1)](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Förderarchiv des National Culture and Arts Foundation; dokumentiert die Projektdetails von Mai 2017 bis Ende April 2018, einschließlich einer Fördersumme von NT$350.000 für ein einmonatiges Residenzstudium der malaysischen Künstler Chou Ying-chen und Fu Fang-chun in Taiwan.
 
-[^15]: [Liste der redaktionellen Berater der Digital Prairie Über uns Seite](https://www.heath.tw/about/) — Vollständige Liste der sieben redaktionellen Berater: Huang Wen-Hao, Chiou Chun-Hsi, Ye Shao-Bin, Gao Sen-Xin, Luo Shi-Dong, Wu Ding-Kuan, Huang Kwai-Ying. Chiou Chun-Hsi war von 2011, dem Gründungsjahr von NML, als Autorin aktiv und wurde später zur langfristigen Beraterin befördert.
+[^15]: [Liste der redaktionellen Berater auf der „Digital Wasteland“ ABOUT-Seite](https://www.heath.tw/about/) — Vollständige Liste der sieben Mitglieder des Redaktionsbeirats: Huang Wen-hao, Chia Hsiu-yi, Yeh Shao-bin, Takao Nobuo, Lo Shih-tung, Wu Ting-kuan und Huang Ching-ying. Chia Hsiu-yi war seit der Gründung von NML im Jahr 2011 als Autor tätig und wurde später zum langjährigen Berater ernannt.
 
-[^16]: [Nusantara Archive 03: Au Sow Yee – Veröffentlichungsinformationen](https://dac.tw/publications/《群島資料庫03：區秀詒》-nusantara-archive-03-au-sow-yee/) — Veröffentlichungsseite der Digital Art Foundation (DAF), 2018 herausgegeben, von Au Sow Yee und Wang Po-wei, herausgegeben von Zheng Wen-chi, das erste eigenständige Monografie von Au Sow Yee, das die Arbeiten seit 2013 in Tamsui systematisch aufarbeitet.
+[^16]: [„Nusantara Archive 03: Au Sow Yee“ Veröffentlichungsinformationen](https://dac.tw/publications/《群島資料庫03：區秀詒》-nusantara-archive-03-au-sow-yee/) — Veröffentlichungsseite der Digital Art Foundation (DAF), erschienen 2018, Autorin Au Sow Yee und Wang Po-wei, Herausgeber Zheng Wen-chi. Es ist die erste unabhängige Monografie über Au Sow Yee, welche ihre Werke seit 2013 in Medan theoretisch aufarbeitet.
 
-[^17]: [The Kris Project (2015 – )](https://ausowyee.wordpress.com/2016/02/17/the-kris-project-2015/) — Persönliche Wordpress-Arbeitsseite von Au Sow Yee, die das Kris-Projekt beschreibt, das aus den 1950er- bis 1960er-Jahren Filmmaterial des chinesischsprachigen Kinos der Goldene-Zeit-Ära von Südostasien, Hongkong und Taiwan rekonstruiert.
+[^17]: [The Kris Project (2015 – )](https://ausowyee.wordpress.com/2016/02/17/the-kris-project-2015/) — Persönliche Wordpress-Seite von Au Sow Yee, die das „Kris Project“ vorstellt, welches Found Footage aus dem goldenen Zeitalter des chinesischsprachigen Films der 1950er und 60er Jahre nutzt, um die Filmgeschichte Südostasiens, Hongkongs und Taiwans neu zu konstruieren.
 
-[^18]: [Asian Film Archive: Cathay-Keris Malay Classics Collection – Übersicht](https://catalogue.asianfilmarchive.org/page/cathay-keris-malay-classics/65b08a24038c5462bb402c5b) — Offizielle Seite des asiatischen Filmarchivs in Singapur, die dokumentiert, dass Cathay-Keris 1951 von Lu Wan-tao und Ho Qui-cheng gegründet wurde und in den 1950er- bis 1960er-Jahren neben Shaw Brothers eine der führenden Filmproduktionsfirmen Südostasiens war.
+[^18]: [Asian Film Archive: Einführung zur Cathay-Keris Malay Classics Collection](https://catalogue.asianfilmarchive.org/page/cathay-keris-malay-classics/65b08a24038c5462bb402c5b) — Offizielle Seite des Asian Film Archive in Singapur; dokumentiert, dass Cathay-Keris 1951 von Loke Wan Tho und Ho Kee Rong gemeinsam gegründet wurde und in den 1950er und 60er Jahren neben Shaw Brothers eines der zwei großen Filmstudios in Südostasien war.
 
-[^19]: [Singapore Art Museum: The Kris Project (2016) by Au Sow Yee](https://www.singaporeartmuseum.sg/About/Our-Collection/The-Kris-Project) — Sammlungsseite des Singapurischen Kunstmuseums (SAM), die dokumentiert, dass 2016 The Kris Project I, II and III als dreiteilige Trilogie im Rahmen einer Gesamtausstellung erworben wurde.
+[^19]: [Singapore Art Museum: The Kris Project (2016) von Au Sow Yee](https://www.singaporeartmuseum.sg/About/Our-Collection/The-Kris-Project) — Sammlungsseite des Singapore Art Museum (SAM), die festhält, dass die Trilogie „The Kris Project I, II und III“ aus dem Jahr 2016 als ein zusammenhängendes Installationswerk betrachtet wird.
 
-[^20]: [Au Sow Yee – Ocula-Künstlerprofil](https://ocula.com/artists/au-sow-yee/) — Künstlerprofil auf der internationalen Kunstplattform Ocula, das ihre internationale Ausstellungshistorie dokumentiert, darunter Seoul MMCA, Mori Art Museum Tokio, Berliner HKW, Shanghai Power Station des bildenden Künste, Singapur Museum für Kunst, Bangkok BACC, Busan Biennale und Sharjah Biennale.
+[^20]: [Au Sow Yee – Ocula Künstlerprofil](https://ocula.com/artists/au-sow-yee/) — Künstlerprofil auf der internationalen Kunstplattform Ocula; listet ihre internationale Ausstellungshistorie auf, darunter das MMCA in Seoul, das Mori Art Museum in Tokio, das HKW in Berlin, das West Bund Museum in Shanghai, das Singapore Art Museum, das BACC in Bangkok, die Busan Biennale und die Sharjah Biennial.
 
-[^21]: [2018 Taipeherstellung: Künstlerseite „Nach der Natur: Das Museum als Ökosystem“](https://www.taipeibiennial.org/2018/information/39) — Offizielle Seite des TFAM, die dokumentiert, dass Au Sow Yee mit dem Werk „Palmbäume, die Liebe zwischen dem Informanten und der Femme fatale in Penang: Ein Sendungsplan“ (2018) beteiligt war, ein dreikanaliges Videosignal und einen Klanginstallationsbeitrag.
+[^21]: [Seite der teilnehmenden Künstler der Taipei Biennial 2018 „Post-Nature: Museum as an Ecosystem“](https://www.taipeibiennial.org/2018/information/39) — Offizielle Seite des TFAM; dokumentiert Au Sow Yees Werk „Coconut Grove, Penang Rose and the Love Affair of a Spy: A Broadcast Project“ (2018) als ein Drei-Kanal-Video und eine Klanginstallation.
 
-[^22]: [2018 Taipeherstellung: Werkbeschreibung](https://www.taipeibiennial.org/2018/information/39) — Offizielle Seite des TFAM, die wörtlich die Werkbeschreibung zitiert: „Die Erzählung konzentriert sich auf die verschwundenen Informanten und die Femme fatale in Penang, inspiriert vom Layout des Südpavillons der 1935er Taipeh-Ausstellung.“
+[^22]: [Werkbeschreibung der Taipei Biennial 2018](https://www.taipeibiennial.org/2018/information/39) — Wortgetreue Dokumentation auf der offiziellen TFAM-Seite: Das Werk nutzt die „Liebesaffäre zwischen einem verschwundenen Spion und der Penang Rose als narrativen Kern und imitiert die Anordnung des Südpavillons der Taiwan-Ausstellung von 1935“.
 
-[^23]: [Zheng Wen-chi 2022: Radio-Geschichte in „Die Piraterie, die Radio-Welle, die Blase“](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Redaktionelle Anmerkung des NML 2022, die die Geschichte des japanischen Kaiserreichs im späten 1930er Jahren dokumentiert, wie es durch Radio- und Rundfunktechnologie Südostasien und Südsee propagierte, wobei Taiwan als südlichster Sendestandort diente.
+[^23]: [Zheng Wen-chi 2022 „The Piracy, the Radiowave, the Bubble“ – Abschnitt zur Funkgeschichte](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Kuratiert und editiert von NML im Jahr 2022; dokumentiert den historischen Kontext des japanischen Kaiserreichs in den späten 1930er Jahren, das über Radiowellen Propaganda für die „Großostasiatische Wohlstandssphäre“ in den südlichen Kolonien betrieb, wobei Taiwan als wichtigster südlicher Funkstützpunkt des Kaiserreichs diente.
 
-[^24]: [2018: Theaterinformationen zu „Nanyang Informationsaustausch“ (NML-Au Sow Yee-Artikel)](https://www.heath.tw/nml-article/silver-noise-some-scenes-on-the-sonic-memory-of-history/) — In dem NML-Artikel von Au Sow Yee 2019 „Silberner Rauschen“ erwähnt, dass nach der Zusammenarbeit mit Chen You-ru 2017 in „Wenn wir alle fort sind, wie bleibt Erinnerung ohne Stille?“ die kreative Achse auf das Theaterstück „Nanyang Informationsaustausch“ überging.
+[^24]: [Performance-Informationen zu „Nanyang Information Exchange Station“ 2018 (Querverweis auf Au Sow Yees Artikel bei NML)](https://www.heath.tw/nml-article/silver-noise-some-scenes-on-the-sonic-memory-of-history/) — In Au Sow Yees NML-Artikel „Silver Noise“ aus dem Jahr 2019 beschreibt sie die kreative Achse, die von der Zusammenarbeit mit Chen Yow-Ruu in „When We Are All Gone, How Does Memory Exist Without Passing into Silence?“ (2017) bis hin zum Theaterwerk „Nanyang Information Exchange Station“ reicht.
 
-[^25]: [Au Sow-Yee Einzelausstellung: STILL ALIVE](https://thecubespace.com/en/project/au-sow-yee-solo-exhibition-still-alive/) — Offizielle Ausstellungsseite des TheCube Project Space, die den Zeitraum vom 28. November 2019 bis 19. Januar 2020 dokumentiert und drei Werke ausstellte.
+[^25]: [Au Sow-Yee Soloausstellung: STILL ALIVE](https://thecubespace.com/en/project/au-sow-yee-solo-exhibition-still-alive/) — Offizielle Ausstellungsseite des TheCube Project Space; dokumentiert den Zeitraum vom 28.11.2019 bis zum 19.01.2020, in dem drei Werke gezeigt wurden.
 
-[^26]: [2021 Taipeherstellung: Offizielle Seite des TFAM](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=695) — Offizielle Informationen des Taipeherstellungsmuseums 2021, wobei insgesamt 346 Einreichungen erhielten und Au Sow Yee unter den 11 nominierten Künstlern war und den Ehrenpreis erhielt.
+[^26]: [Taipei Art Award 2021 – Offizielle TFAM-Seite](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=695) — Offizielle Informationen des Taipei Fine Arts Museum zum Taipei Art Award 2021; in diesem Jahr gingen insgesamt 346 Einsendungen ein, und Au Sow Yee war eine von elf nominierten Künstlerinnen, die einen Ehrenpreis erhielten.
 
-[^27]: [Sharjah Biennale 15: Au Sow Yee Künstlerseite](https://www.sharjahart.org/en/sharjah-biennial/sb-15/people/details/sow-yee-au/) — Offizielle Seite der Sharjah Foundation, die dokumentiert, dass Au Sow Yee bei der Sharjah Biennale 15 unter dem Titel „Thinking Historically in the Present“ vom 7. Februar bis 11. Juni 2023 teilnahm.
+[^27]: [Sharjah Biennial 15: Künstlerseite von Au Sow Yee](https://www.sharjahart.org/en/sharjah-biennial/sb-15/people/details/sow-yee-au/) — Offizielle Seite der Sharjah Art Foundation; dokumentiert die Teilnahme von Au Sow Yee an der Sharjah Biennial 15 „Thinking Historically in the Present“ im Zeitraum vom 07.02.2023 bis zum 11.06.2023.
 
-[^28]: [The Rocking Dream: Au Sow Yee × Chen Yow-Ruu Einzelausstellung](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Offizielle Seite des TheCube Project Space, die 2024 eine gemeinsame Einzelausstellung von Au Sow Yee und Chen Yow-Ruu (Kollaboration „Her Lab Space“) dokumentiert, die aus der 2024er Kommission des Singapur Museums für Kunst hervorging.
+[^28]: [The Rocking Dream: Au Sow Yee × Chen Yow-Ruu Soloausstellung](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Offizielle Seite des TheCube Project Space; dokumentiert die gemeinsame Einzelausstellung von Au Sow Yee und Chen Yow-Ruu (die das Kollektiv „Her Lab Space“ bilden) im Jahr 2024, die sich aus einem Auftrag des Singapore Art Museum für 2024 entwickelt hat.
 
-[^29]: [„Über Wesensart und Übertragung durch Andere: Ein völlig anderes Gefühl“ – Bericht über The Rocking Dream Einzelausstellung](https://artouch.com/art-views/content-177641.html) — Bericht von ARTouch 2024, der am 7. April 2024 dokumentiert, wie Au Sow Yee und Chen Yow-Ruu in einem Interview mit nichtstaatlichen Kindern in Malaysia BJCK eine Neuinterpretation der Si-Tanggang-Legende entstand.
+[^29]: [„Die Essenz und die Vermittlung durch den Anderen fühlen sich ganz anders an“ – Bericht über die Einzelausstellung „The Rocking Dream“](https://artouch.com/art-views/content-177641.html) — Bericht von ARTouch aus dem Jahr 2024; dokumentiert den kreativen Prozess, bei dem Au Sow Yee und Chen Yow-Ruu am 07.04.2024 die NGO BJCK in Malaysia interviewten, um staatenlose Kinder zu befragen und so die Legende von Si Tanggang neu zu interpretieren.
 
-[^30]: [Wikipedia-Einführung in die malaiische Sage Si Tanggang](https://en.wikipedia.org/wiki/Si_Tanggang) — Si Tanggang ist eine allseitig bekannte „Vergesslichkeit“-Sage in der malaiischen Welt: Ein armer Fischerjunge verlässt das Dorf, wird zum Kapitän, kehrt heim, erkennt seine arme Mutter nicht mehr, und seine Mutter verflucht ihn, woraufhin das Schiff in einen Steininsel verwandelt wird.
+[^30]: [Wikipedia-Einführung zur malaiischen Volkssage Si Tanggang](https://en.wikipedia.org/wiki/Si_Tanggang) — Si Tanggang ist eine in der malaiischen Welt allgegenwärtige Legende über „Undankbarkeit“: Ein armes Kind aus einem Fischerdorf verlässt seine Heimat, wird ein erfolgreicher Kapitän und erkennt bei seiner Rückkehr seine arme Mutter nicht wieder. Daraufhin verflucht die Mutter ihn, woraufhin er, sein Schiff und alle Menschen an Bord zu einer Insel aus Stein werden.
 
-[^31]: [The Rocking Dream – Ausstellungshinweise (typoarchive)](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Ausstellungshinweise des Kubus-Projektraums, dokumentierendie Arbeit, die 1961 Si Tanggang-Filmmaterial (Schwarzweiß) mit der Erzählstruktur zeitgenössischer staatenloser Kinderstimmen kombiniert.
+[^31]: [Ausstellungserklärung zu „The Rocking Dream“ (typoarchive)](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Ausstellungserklärung des Cube Project Space, die die narrative Struktur beschreibt, bei der Schwarz-Weiß-Filmarchive von Si Tanggang aus dem Jahr 1961 neben den Stimmen zeitgenössischer staatenloser Kinder präsentiert werden.
 
-[^32]: [„The Rocking Dream“ – Singapore Art Museum-Lizenzversion und Taipeh 2.5-Kanal-Version](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Kubus-Projektraum-Seite dokumentiert die 2024 von SAM Singapur beauftragte Einkanalversion → Kubus-Projektraum rekonstruiert als Doppelbildschirm mit verkleinerten Modellprojektionen – 2.5-Kanal-Version.
+[^32]: [„The Rocking Dream“: Die Version des Singapore Art Museum und die Taipei 2.5 Channel-Version](https://thecubespace.com/en/project/the-rocking-dream-au-sow-yee-x-chen-yow-ruu-solo-exhibition/) — Die Seite des Cube Project Space dokumentiert die Entwicklung von der 2024 vom SAM (Singapore Art Museum) in Auftrag gegebenen Ein-Kanal-Version hin zur vom Cube Project Space neu zusammengestellten 2.5-Channel-Version mit zwei Bildschirmen und Modellprojektion.
 
-[^33]: [Nominierung für den 24. Taiwan-Singapur-Kunstpreis – Künstlerinterview zu „The Rocking Dream“](https://artemperor.tw/focus/7100) — Bericht des Kunstnetzwerks Nicht im Pool über das Künstlerinterview zur Nominierung von „The Rocking Dream – Quiu Hsiu Hsi × Chen Yu Ju: Einzelausstellung“ für den 24. Taiwan-Singapur-Kunstpreis.
+[^33]: [Künstlerinterview zu „The Rocking Dream“, nominiert für den 24. Tai-Shin Art Award](https://artemperor.tw/focus/7100) — Ein Bericht des Non-Pond Art Net über die Künstlerinterviews zum 24. Tai-Shin Art Award, in dem die Nominierung der Einzelausstellung „The Rocking Dream – Au Sow Yee × Chen Yu-Ju“ für den 24. Tai-Shin Art Award festgehalten wird.
 
-[^34]: [Zentrum für Allgemeinbildung der Nationalen Taipeh Kunstuniversität: Profil von Quiu Hsiu Hsi](http://1www.tnua.edu.tw/~TNUA_GE/people/bio.php?PID=134) — Offizielle Seite des Allgemeinbildungszentrums der Taipeh Kunstuniversität, dokumentierendie Tätigkeit von Quiu Hsiu Hsi als Dozentin mit dem Fachgebiet Wissenschaft und Technologie.
+[^34]: [Zentrum für allgemeine Bildung der Nationalen Taipei University of the Arts: Informationen zu Au Sow Yee](http://1www.tnua.edu.tw/~TNUA_GE/people/bio.php?PID=134) — Offizielle Seite des Zentrums für allgemeine Bildung der NTUA, die Au Sow Yee als Dozentin im Bereich Wissenschaft und Technologie aufführt.
 
-[^35]: [Aktuelle Einzelausstellungen auf der persönlichen Website von Au Sow Yee](https://ausowyee.cargo.site/) — Offizielle cargo.site-Website von Au Sow Yee, dokumentierendie Ausstellung von „A Call of All Beings: See you tomorrow, same time, same place“ vom 13. Dezember 2025 bis 12. April 2026 im Taipeh Stadtmuseum für Moderne Kunst.
+[^35]: [Aktuelle Informationen zur Einzelausstellung auf der persönlichen Website von Au Sow Yee](https://ausowyee.cargo.site/) — Die offizielle cargo.site-Website von Au Sow Yee informiert über die Ausstellung „A Call of All Beings: See you tomorrow, same time, same place“ im Taichung Museum of Fine Arts vom 13.12.2025 bis zum 12.04.2026.

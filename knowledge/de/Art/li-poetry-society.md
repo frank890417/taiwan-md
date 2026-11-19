@@ -27,11 +27,13 @@ imageAlt: 'Dichter Wu Sheng auf der Taipei International Book Exhibition 2016, a
 imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:3682e7bff916a9de'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-09-26T14:07:58.849322+00:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T07:29:51.609026+00:00'
 ---
 
 # Die Li-Poesiegesellschaft: Wie eine Gruppe von Menschen, die gezwungen waren, Japanisch zu vergessen, Taiwans längstlebende chinesischsprachige Poesiezeitschrift am Leben erhält
@@ -115,19 +117,19 @@ Diese Position der Li-Poesiegesellschaft — südlich, bensheng, schlicht, reali
 
 1977 war ein Wendepunkt.
 
-Im April desselben Jahres veröffentlichte die von Wang Jianqiang herausgegebene Zeitschrift 《仙人掌雜誌》 drei Artikel von Wang Tuo, Yin Zhengxiong und Zhu Xining, die den „Heimatliteratur-Streit“ auslösten[^27]. Am 17. August veröffentlichte Peng Ge in der 《聯合報》 den Artikel „Nicht über Menschlichkeit sprechen, wo bleibt dann die Literatur?“ und kritisierte namentlich Wang Tuo, Wei Tiancong und Chen Yingzhen[^28].
+Im April desselben Jahres veröffentlichte die von Wang Jianqiang herausgegebene Zeitschrift 《仙人掌雜誌》 drei Artikel von Wang Tuo, Yin Zhengxiong und Zhu Xining, die den [Heimatliteratur-Streit](/de/history/nativist-literature-debate/)[^27] auslösten. Am 17. August veröffentlichte Peng Ge in der 《聯合報》 den Artikel 〈不談人性，何有文學？〉 und kritisierte namentlich Wang Tuo, Wei Tiancong und Chen Yingzhen[^28].
 
-Drei Tage später, am 20. August 1977, veröffentlichte Yu Guangzhong in der 《聯合報》 jenen später wiederholt diskutierten Artikel „Der Wolf kommt“: Er beschuldigte Taiwans Heimatliteratur, sie „scheine im Dunkeln mit der Arbeiter-Bauern-Soldaten-Literatur des chinesischen Festlands, die den Klassenkampf betont, übereinzustimmen“[^29].
+Drei Tage später, am 20. August 1977, veröffentlichte Yu Guangzhong in der 《聯合報》 jenen später wiederholt diskutierten Artikel 〈狼來了〉: Er beschuldigte Taiwans Heimatliteratur, „mit dem von Festlandchina betonten Arbeiter-Bauern-Soldaten-Literatur des Klassenkampfs scheinbar dunkle Übereinstimmungen aufzuweisen“[^29].
 
-In der Kriegsrecht-Ära war „Arbeiter-Bauern-Soldaten-Literatur“ ein Etikett, das jemanden in den Tod bringen konnte. Die „Liberty Times“ erinnerte sich an die damalige Atmosphäre: „Eine Zeit lang sorgte der als ‚Bluttröpfen‘ bezeichnete große Hut in der Literaturszene für Panik und Schrecken, durchdrungen von einer mörderischen, blutigen Stimmung“[^30].
+In der Kriegsrechtszeit war „Arbeiter-Bauern-Soldaten-Literatur“ ein Etikett, das tödlich sein konnte. Die _Liberty Times_ erinnerte sich an die damalige Atmosphäre: „Eine Zeit lang sorgte der als ‚Bluttröpfen‘ bezeichnete große Hut in der Literaturszene für panische Angst, durchdrungen von einer mörderischen, blutigen Stimmung“[^30].
 
-Neun Tage später, am 29. August 1977, veranstaltete die KMT das „Zweite Literatur- und Kunstgespräch“. Regierungs-, Partei- und Militärvertreter wie Ding Maoshi, Li Yuancu, Wang Sheng und Li Huan sowie Yu Guangzhong, Yin Xue-man und andere versammelten über 270 Personen[^31]. Schließlich endete der Streit mit der strategischen Einbindung durch die Offiziellen: „Heimatliteratur“ wurde erweitert und neu definiert als „patriotische Literatur“ und „Volksliteratur“[^32].
+Neun Tage später, am 29. August 1977, veranstaltete die KMT das „Zweite Literatur- und Kunstgespräch“, zu dem Regierungs-, Partei- und Militärvertreter wie Ding Maoshi, Li Yuancu, Wang Sheng und Li Huan sowie Yu Guangzhong, Yin Xue-man und andere eingeladen waren – insgesamt über 270 Personen[^31]. Der Streit endete mit einer strategischen Einbindung durch die Behörden: „Heimatliteratur“ wurde erweitert und neu definiert als „patriotische Literatur“ und „Volksliteratur“[^32].
 
-Der Hauptschauplatz des Streits war der Roman (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Doch auch die Poesieszene bewegte sich parallel: Das Lager der Li-Poesiegesellschaft (Chen Qianwu, Bai Qiu, Zhao Tianyu, Li Minyong) stellte sich vollständig auf die Seite der Heimatliteratur[^33]. Gleichzeitig wurden die Forderungen nach „Rückkehr zur Realität“ der neuen Generation von Poesiegesellschaften wie Longzu, Zhuoliu und Houlang legitimiert[^34].
+Der Hauptschauplatz des Streits war der Roman (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Doch auch die Poesieszene bewegte sich parallel: Das Lager der Li-Poesiegesellschaft (Chen Qianwu, Bai Qiu, Zhao Tianyi, Li Minyong) stellte sich vollständig auf die Seite der Heimatliteratur[^33]. Auch die Forderung der zeitgenössischen neuen Poesiegesellschaften wie Longzu, Zhuliu und Houlang nach „Rückkehr zur Realität“ wurde legitimiert[^34].
 
-Die Position der Li-Poesiegesellschaft war nicht mehr nur ein „Nord-Süd-Gegensatz“, sondern eine konkrete Existenz, die „auf der Seite des einheimischen Taiwans stand“.
+Die Position der Li-Poesiegesellschaft war nicht mehr bloß ein „Nord-Süd-Gegensatz“, sondern eine konkrete Präsenz „auf der Seite des einheimischen Taiwan“.
 
-> ⚠️ **Streitbare These**: Dieser Streit hinterließ eine lang anhaltende Gedächtniswunde. Als Yu Guangzhong 2017 starb, wurde diese Geschichte neu beleuchtet; Taiwans Literaturszene ist bis heute gespalten in ihrer Sicht auf „Der Wolf kommt“[^35]. Auch Kommentatoren wiesen darauf hin, dass die Opposition im Streit nicht so einfach „China-Lager vs. Taiwan-Lager“ war, sondern drei Achsen vermischte: „rechtsnationaler chinesischer Nationalismus vs. linksnationaler chinesischer Nationalismus vs. taiwanesischer Lokalismus“[^36]. Die Position der Li-Poesiegesellschaft in dieser Dreiecksstruktur ist klar: Sie stehen auf der Seite des taiwanesischen Lokalismus.
+> ⚠️ **Streitbare Sichtweise**: Dieser Streit hinterließ eine lang anhaltende Gedächtniswunde. Als Yu Guangzhong 2017 starb, wurde diese Geschichte neu beleuchtet; Taiwans Literaturszene ist in der Bewertung von „Der Wolf kommt“ bis heute gespalten[^35]. Auch Kommentatoren wiesen darauf hin, dass der Gegensatz nicht so einfach „China-Lager vs. Taiwan-Lager“ war, sondern drei Achsen vermischte: „rechtsnationaler chinesischer Nationalismus vs. linksnationaler chinesischer Nationalismus vs. taiwanesische Einheimischen-Theorie“[^36]. Die Position der Li-Poesiegesellschaft in dieser Dreiecksstruktur ist klar: Sie steht auf der Seite der taiwanesischen Einheimischen-Theorie.
 
 ## Das Kind öffnet die Bentobox, nicht mal ein halbes Ei
 

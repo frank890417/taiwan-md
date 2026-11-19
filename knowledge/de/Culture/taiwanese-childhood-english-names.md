@@ -61,11 +61,13 @@ rationale:
       'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:2903e3b196ae9d4b'
 sourceBodyHash: 'sha256:9aed0f1a904887ba'
-translatedAt: '2026-10-14T23:31:41.455075+00:00'
+translatedAt: '2026-11-19T06:32:02.292752+00:00'
 ---
 
 # Englische Namen aus der taiwanischen Kindheit: Mary, Kevin und die Namensgebungsmacht der Nachhilfelehrer
@@ -279,12 +281,13 @@ Zwischen Yotaka und Olivia liegen 86 Jahre.
 
 Der Akt des zugewiesenen Benennens wurde nie abgeschafft – nur die Person, die die Namen vergibt, hat gewechselt.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Taiwanische Fremdwörter und Sprachkontaktphänomene](/de/culture/loanwords-and-language-contact-in-taiwan) — Anhand der Entlehnungen zwischen Japanisch, Englisch und Taiwanisch (Hokkien) zeigt sich, wie sich Taiwans mehrsprachige Schichten aufbauen
-- [Die Wiederbelebung der indigenen Sprachen Taiwans](/de/culture/indigenous-language-revitalization-movement) — Eine weitere Linie der Rückgewinnung der Namensgebungsmacht, von der Revitalisierung der Stammessprachen bis zur Novelle des Namensgesetzes 2024
-- [Chiang Wei-wen](/de/people/chiung-wi-vun) — Der erweiterte Vergleich zur „Entsinisierungs"-Logik der taiwanischsprachigen Schriftbewegung, eine weitere Seite von Namensgebung und Schriftsouveränität
-- [Taiwanesische Sensibilität](/de/culture/taiwanese-sensibility) — Eine kuratorische Perspektive auf die kulturelle Mentalität, eine weitere Ebene zum Verständnis, warum Taiwaner immer das Gefühl haben, einen fremdsprachigen Namen zu brauchen
+- [Namen der Taiwaner (Sonderbericht)](/names/) — Grafische Darstellung von Nachnamen, Generationen, Umschriftsystemen und indigenen Namen, inklusive eines Tools zur Namensumschrift.
+- [Fremdwörter und Sprachkontakt in Taiwan](/de/culture/loanwords-and-language-contact-in-taiwan) — Über Lehnwörter aus dem Japanischen, Englischen und Taiwanesischen; ein Blick darauf, wie sich die mehrsprachigen Schichten Taiwans übereinanderlegen.
+- [Bewegung zur Wiederbelebung der indigenen Sprachen Taiwans](/de/culture/indigenous-language-revitalization-movement) — Ein weiterer Strang der Rückgewinnung des Namensrechts, von der Wiederbelebung der Stammessprachen bis hin zur Änderung der Namensverordnung im Jahr 2024.
+- [Chiang Wei-wen](/de/people/chiung-wi-vun) — Eine ergänzende Perspektive zur Logik der „Abkehr vom Han-Chinesischen“ innerhalb der taiwanesischen Sprachbewegung; eine andere Seite der Souveränität über Namen und Schrift.
+- [Taiwanische Emotionalität](/de/culture/taiwanese-sensibility) — Eine kuratierte Sicht auf die kulturelle Mentalität, um eine weitere Ebene des Verständnisses dafür zu erschließen, „warum Taiwaner oft das Gefühl haben, einen ausländischen Namen zu benötigen“.
 
 ## Bildquellen
 

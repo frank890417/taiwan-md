@@ -26,11 +26,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/林口新市鎮.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:1f56fd44853214d5'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:150fe6a0199d610e'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
-translatedAt: '2026-09-26T05:36:43.628232+00:00'
+translatedAt: '2026-11-19T06:12:20.129231+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Die Stadt Linkou, die einst als „Geisterstadt“ bezeichnet wurde, hat in den letzten halben Jahrhundert einen gewaltigen Wandel von einem Teeanbaugebiet und Ziegelwerk zu einem KI-Smart-Park durchlaufen. Mit der Eröffnung des Airport MRT ist dieser jüngste Bezirk in New Taipei City ein Hotspot für Zuzug nach Nord-Taiwan geworden, wobei die Bevölkerung innerhalb von fünf Jahren um mehr als 14.000 zugenommen hat. Dennoch bleiben Verkehrsstaus und das kühle, feuchte Klima Herausforderungen, die bei seiner Entwicklung nicht ignoriert werden können.
@@ -81,11 +83,12 @@ Obwohl die Linkou New Town den Spitznamen „Geisterstadt“ erfolgreich hinter 
 
 Für die Zukunft wird die Linkou New Town weiterhin durch Industrie-Upgrades und verbesserte Infrastruktur Talente und Ressourcen anziehen. Die Ansiedlung des ersten National Archives des Landes im Jahr 2025 wird beispielsweise dem Linkou kulturelles Wissen zuführen [^1]. Wie der Verkehr kontinuierlich optimiert, die Lebensqualität verbessert und gleichzeitig den einzigartigen städtischen Charme bewahrt werden kann, ist eine wichtige Aufgabe für die zukünftige Entwicklung von Linkou.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Stadtentwicklung in Taiwan und ländliche Disparitäten](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Verständnis der Entwicklungskurve des Linkou New Town aus regionaler Planungsperspektive.
-- [Nordtaipei Special Zone](/de/geography/beida-special-district-sanxia) — Ein Vergleich mit einem anderen neu entwickelten Gebiet, das durch Verkehr, Schulbezirke und Immobilienmarkt angetrieben wird.
-- [Taiwanisches Transportsystem](/de/lifestyle/transportation-system) — Vertiefte Lektüre darüber, wie Airport MRT, Nationalstraßen und städtischer Pendelverkehr die New Town formen.
+- [Immobilienpreise, Hypotheken und das Programm für junge Käufer in Taiwan](/housing/) — Themenseite: Preis-Einkommens-Verhältnis und Hypothekenbelastungsquote der verschiedenen Landkreise; ein Vergleich dazu, welchen Teil der Nachfrage die neue Stadt Linkou übernimmt.
+- [Stadtentwicklung und das Stadt-Land-Gefälle in Taiwan](/de/geography/taiwan-urban-development-and-rural-urban-divide) — Verständnis der Entwicklungsgeschichte der neuen Stadt Linkou aus der Perspektive der Regionalplanung.
+- [Das Bezirksprojekt National Taipei University (NTU)](/de/geography/beida-special-district-sanxia) — Vergleich mit einem anderen aufstrebenden Planungsgebiet, das gemeinsam durch Verkehrsanbindung, Schulbezirke und den Immobilienmarkt vorangetrieben wurde.
+- [Verkehrssystem in Taiwan](/de/lifestyle/transportation-system) — Weiterführende Informationen darüber, wie der Flughafen-Express (MRT), Nationalstraßen und der Pendlerverkehr neue Städte prägen.
 
 ## Referenzen
 
