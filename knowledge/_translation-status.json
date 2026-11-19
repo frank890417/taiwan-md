@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T02:23:54+08:00",
-    "zhCommitHead": "cefdf9530f",
+    "lastUpdated": "2026-11-20T02:32:48+08:00",
+    "zhCommitHead": "82c251eb89",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 1169,
-        "stale": 12,
+        "fresh": 1170,
+        "stale": 11,
         "metadata_stale": 5,
         "missing": 5,
         "orphan": 0
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 1148,
-        "stale": 27,
+        "fresh": 1149,
+        "stale": 26,
         "metadata_stale": 6,
         "missing": 10,
         "orphan": 0
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 1163,
-        "stale": 16,
+        "fresh": 1164,
+        "stale": 15,
         "metadata_stale": 6,
         "missing": 6,
         "orphan": 0
@@ -8875,8 +8875,8 @@
           "sourceContentHash": "sha256:74f243c904946316",
           "sourceBodyHash": "sha256:d4cdc4cd51a6a4ff",
           "translatedAt": "2026-11-19T16:53:36.740335+00:00",
-          "translationLastCommit": "23f8c108",
-          "translationLastModified": "2026-10-10T23:30:52+08:00",
+          "translationLastCommit": "82c251eb",
+          "translationLastModified": "2026-11-20T02:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 29244,
@@ -36510,20 +36510,18 @@
         "vi": {
           "path": "vi/Technology/taiwan-teachers-and-ai-education.md",
           "translatedFrom": "Technology/台灣教師與AI教學.md",
-          "sourceCommitSha": "d95fa9648",
-          "sourceContentHash": "sha256:6a85130bd9bb91b0",
-          "sourceBodyHash": "sha256:01e8abe40e264468",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:de4034d0f1ced753",
+          "sourceBodyHash": "sha256:e882a4d70eacae0a",
+          "translatedAt": "2026-11-19T18:25:17.348119+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 37276,
+          "bytes": 36831,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-teachers-and-ai-education.md",
@@ -46150,20 +46148,18 @@
         "en": {
           "path": "en/Art/li-poetry-society.md",
           "translatedFrom": "Art/笠詩社.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:28d7ec6ba7695699",
-          "sourceBodyHash": "sha256:a39fc5d7615c6869",
-          "translatedAt": "2026-07-24T10:40:41+08:00",
+          "sourceCommitSha": "8ddc02a734",
+          "sourceContentHash": "sha256:c0db8ad58cb81cc3",
+          "sourceBodyHash": "sha256:8474e7f850a1b02b",
+          "translatedAt": "2026-11-19T18:24:53.148809+00:00",
           "translationLastCommit": "c0e73f55",
           "translationLastModified": "2026-10-10T23:13:40+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 54688,
+          "bytes": 55311,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "path": "ja/Art/li-poetry-society.md",
@@ -62354,8 +62350,8 @@
           "sourceContentHash": "sha256:5dee1eed356027d4",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-11-19T23:44:14+08:00",
-          "translationLastCommit": "1e4650b9",
-          "translationLastModified": "2026-11-20T00:48:58+08:00",
+          "translationLastCommit": "82c251eb",
+          "translationLastModified": "2026-11-20T02:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 26304,
@@ -73297,20 +73293,18 @@
         "id": {
           "path": "id/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "4ee896bcb",
-          "sourceContentHash": "sha256:058a2707437b6293",
-          "sourceBodyHash": "sha256:8b7dd2352a89e936",
-          "translatedAt": "2026-10-18T05:12:26.173266+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:aab8147d38e7da5e",
+          "sourceBodyHash": "sha256:72dccf40750266ac",
+          "translatedAt": "2026-11-19T18:26:46.340893+00:00",
           "translationLastCommit": "ee613b82",
           "translationLastModified": "2026-10-18T14:53:51+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 61611,
+          "bytes": 62701,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/public-housing-justice.md",
@@ -100990,8 +100984,8 @@
           "sourceContentHash": "sha256:8536bdbfcd25d3aa",
           "sourceBodyHash": "sha256:8a6346928cbffe9c",
           "translatedAt": "2026-11-19T18:02:59.534122+00:00",
-          "translationLastCommit": "452ffe0a",
-          "translationLastModified": "2026-10-21T01:25:38+08:00",
+          "translationLastCommit": "82c251eb",
+          "translationLastModified": "2026-11-20T02:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 20396,

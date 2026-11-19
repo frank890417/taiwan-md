@@ -22,15 +22,17 @@ imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg'
 rationale:
-  why_this_hook: 'Mulai dari workshop tiga jam Hsu Tai-ping dan tiga ratus agen AI, untuk meletakkan wajah manusia pada masalah sistem terlebih dahulu.'
-  whats_excluded: 'Kami tidak menampilkan fungsi produk AI generatif yang berbeda, dan tidak menggunakan catatan penelitian Notion pribadi sebagai bukti publik.'
-  where_it_hedges: 'Dua survei Taiwan memiliki sampel berbeda; kami hanya menggunakannya untuk pengamatan paralel, tanpa inferensi sebab-akibat langsung.'
-  whos_pushing_back: 'Kami merespons gagasan bahwa "membeli lebih banyak alat dapat mendorong pendidikan AI", sambil mempertahankan kekhawatiran tentang beban kerja guru, keamanan, dan agen siswa.'
-translatedFrom: Technology/台灣教師與AI教學.md
-sourceCommitSha: d95fa9648
-sourceContentHash: 'sha256:6a85130bd9bb91b0'
-sourceBodyHash: 'sha256:01e8abe40e264468'
-translatedAt: 2026-09-09T15:32:33+08:00
+  why_this_hook: '從徐臺屏的三小時研習與三百支代理人切入，讓制度問題先長出一張人的臉。'
+  whats_excluded: '不列舉各家生成式 AI 產品功能，也不把私人 Notion 研究筆記當成公開證據。'
+  where_it_hedges: '兩份台灣問卷與 OECD TALIS 標明不同樣本，僅作並置觀察，不作直接因果推論。'
+  whos_pushing_back: '回應「多買工具就能推動 AI 教育」的想像，也保留教師工作量、資安與學生主體性的反方。'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Technology/台灣教師與AI教學.md'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:de4034d0f1ced753'
+sourceBodyHash: 'sha256:e882a4d70eacae0a'
+translatedAt: '2026-11-19T17:48:48.889470+00:00'
 ---
 
 # AI Masuk Ruang Kelas: Tiga Ratus Agen AI Menerima Guru Sendirian Setelah Pelatihan
@@ -163,10 +165,10 @@ Hsu Tai-ping katakan, saat lokakarya ada rasa dan percikan, kembali tetapi sendi
 
 ## Sumber Gambar
 
-| File                                                | Deskripsi                                                             | Sumber                                                                                                                                                          | Lisensi                           |
-| --------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| `taiwan-students-digital-learning-2019.webp` (hero) | Siswa sekolah menengah Baozhong gunakan Junyi Academy, 2019           | [Sekolah Menengah Baozhong Yunlin, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                         |
-| `taiwan-moe-ai-talent-ark-2026.webp`                | Diagram tiga arah Rencana Kapal Bakat AI Kementerian Pendidikan, 2026 | [Rencana Kapal Bakat AI Kementerian Pendidikan](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                                     | Kutipan kebijakan resmi editorial |
+| Berkas                                               | Deskripsi                                                                             | Sumber                                                                                                                                                  | Lisensi                                |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `taiwan-students-digital-learning-2019.webp`（hero） | Siswa SMP Baozhong di Kabupaten Yunlin menggunakan platform pembelajaran Junyi, 2019  | [Situs Cloud SMP Baozhong, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg) | CC BY 2.0                              |
+| `taiwan-moe-ai-talent-ark-2026.webp`                 | Diagram kebijakan tiga arah utama Program Ark Talenta AI Kementerian Pendidikan, 2026 | [Program Ark Talenta AI Kementerian Pendidikan](https://www.edu.tw/News_Content.aspx?n=4F8ED5441E33EA7B&s=B8CC264D791737F0)                             | Kutipan editan diagram kebijakan resmi |
 
 ## Referensi
 

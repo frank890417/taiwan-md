@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-23T22:11:56+08:00'
+sourceCommitSha: '67c4c72fc4'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-19T18:03:33.684569+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Pada tanggal 3 Desember 1966, Zona Pemrosesan Ekspor pertama di Taiwan didirikan di Qianzhen, Kaohsiung, dan disebut sebagai zona pemrosesan ekspor pertama di dunia dalam arsip pemerintah. Kawasan ini menggabungkan fungsi kawasan industri, zona bebas bea, dan zona perdagangan bebas melalui jendela tunggal, insentif pajak, dan pelabuhan, menghubungkan modal asing, bahan mentah, pabrik, dan pesanan ekspor di satu tempat. Dalam dua tahun, kawasan tersebut melampaui rencana awal dan mempekerjakan lebih dari 20.000 orang.[^1]
+> **Ringkasan 30 Detik:** Pada 3 Desember 1966, Zona Pemrosesan Ekspor pertama di Taiwan muncul di Qianzhen, Kaohsiung, yang juga disebut oleh arsip Eksekutif Yuan sebagai zona pemrosesan ekspor pertama di dunia. Kawasan ini menggabungkan fungsi kawasan industri, zona bebas pajak, dan zona perdagangan bebas; melalui sistem jendela tunggal (_single window_), insentif pajak, dan akses pelabuhan, kawasan ini menyatukan modal asing, bahan baku, pabrik, dan pesanan ekspor di satu lokasi yang sama. Dalam waktu dua tahun, kawasan ini telah melampaui rencana awal dan mempekerjakan lebih dari 20.000 orang. [^1]
 
-![Peta Pelabuhan Kaohsiung yang menandai area pelabuhan di sekitar zona pemrosesan ekspor](/article-images/history/kaohsiung-port-map.svg)
+![Peta Pelabuhan Kaohsiung, menunjukkan cakupan area pelabuhan di sekitar Zona Pemrosesan Ekspor](/article-images/history/kaohsiung-port-map.svg)
 
-_Gambar 1: Peta Pelabuhan Kaohsiung, oleh Luuva, Wikimedia Commons, CC BY-SA 3.0. Halaman gambar: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
+_Gambar 1: Peta Pelabuhan Kaohsiung, penulis Luuva, Wikimedia Commons, CC BY-SA 3.0. Halaman gambar: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
 ## Gerbang Ekspor yang "Dikelola"
 
@@ -89,17 +93,17 @@ Dalam aspek gender, tenaga kerja perempuan tidak hanya membawa pendapatan dan ke
 
 Pengakuan terhadap kawasan tersebut tidak harus dibatalkan, tetapi "penciptaan pekerjaan" dan "bagaimana kondisi kerja diatur" harus dilihat dalam satu bingkai. Jika hanya menyisakan nilai ekspor, produsen akan menjadi penyebut; jika hanya menyisakan kritik, kita juga tidak akan melihat bagaimana gaji mengubah keluarga dan kota. Tanggung jawab sejarah bukanlah memilih satu penilaian untuk kawasan tersebut, melainkan membuat hasil dari berbagai tingkatan terlihat secara bersamaan.
 
-## Bagaimana Kawasan Ini Bertahan Hidup Setelah Kesuksesannya
+## Bagaimana Kawasan Ini Bertahan Melampaui Kesuksesannya
 
-![Pintu Keluar Stasiun Zona Pemrosesan Nanzi 1](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![Pintu Keluar 1 Stasiun Zona Pemrosesan Ekspor Nanzih](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_Gambar 2: Pintu Keluar Stasiun Zona Pemrosesan Nanzi 1, oleh Longben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Halaman gambar: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; File lokal: images/nanzih-export-processing-zone-station.jpg._
+_Gambar 2: Pintu Keluar 1 Stasiun Zona Pemrosesan Ekspor Nanzih, penulis Long Ben, 2010, Wikimedia Commons, CC BY-SA 3.0／GFDL. Halaman gambar: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; file lokal: images/nanzih-export-processing-zone-station.jpg._
 
-Industri padat karya menghadapi tekanan kenaikan upah, proteksi perdagangan internasional, dan relokasi industri setelah tahun 1980-an. Zona Pemrosesan Ekspor tidak langsung menghilang; ia secara bertahap memperkenalkan aktivitas elektronik, manufaktur presisi, logistik, dan teknologi yang lebih tinggi lainnya. Ringkasan tesis doktoral menggambarkan periode pasca-1986 sebagai masa perubahan kondisi sistemik dan pasar, dan menunjukkan transisi kawasan menuju industri elektronik berteknologi tinggi dan manajemen rantai pasokan global.[^8]
+Industri padat karya menghadapi tekanan akibat kenaikan upah, proteksionisme perdagangan internasional, dan relokasi industri setelah tahun 1980-an. Zona Pemrosesan Ekspor tidak lantas menghilang karena hal tersebut; kawasan ini secara bertahap memperkenalkan industri elektronik, manufaktur presisi, logistik, dan aktivitas berteknologi tinggi lainnya. Abstrak dari tesis doktor mendeskripsikan periode setelah tahun 1986 sebagai masa di mana kondisi institusional dan pasar berubah secara bersamaan, serta menunjukkan bahwa kawasan ini kemudian bertransformasi menuju industri elektronik teknologi tinggi dan logistik global. [^8]
 
-Transisi ini juga mengubah cara kawasan tersebut diingat. Pada tahun 2021, Zona Pemrosesan Ekspor Kaohsiung melepaskan nama lama yang telah digunakan selama setengah abad dan berganti menjadi Kawasan Teknologi Qianzhen. Perubahan nama tidak menghapus sejarah; sebaliknya, ia mengakui bahwa "Zona Pemrosesan Ekspor" asli telah menjadi warisan sistemik: jendela tunggal, klaster industri, berorientasi ekspor, dan pembelajaran teknologi terus meninggalkan jejak dalam berbagai industri.[^3]
+Transformasi ini juga mengubah cara memori tentang kawasan tersebut dikelola. Pada tahun 2021, Zona Pemrosesan Ekspor Kaohsiung melepaskan nama lamanya yang telah digunakan selama setengah abad dan berganti menjadi Kawasan Industri Teknologi Qianzhen. Perubahan nama ini tidak menghapus sejarah, melainkan mengakui bahwa konsep asli "Zona Pemrosesan Ekspor" telah menjadi sebuah warisan institusional: layanan satu pintu (_single window_), klaster industri, orientasi ekspor, dan pembelajaran teknis, yang terus meninggalkan jejak di berbagai industri yang berbeda. [^3]
 
-Gedung administrasi di kawasan tersebut, pabrik-pabrik awal, dan bangunan lainnya memiliki identitas ganda. Di satu sisi, mereka adalah ruang industri yang mungkin masih digunakan; di sisi lain, mereka adalah bukti fisik sejarah ekonomi Taiwan. Jika kita hanya menganggapnya sebagai bangunan tua, kita akan melewatkan hubungannya dengan pabrik, pekerja perempuan, pelabuhan, dan barang; jika kita hanya menganggapnya sebagai monumen kesuksesan, kita juga akan melewatkan biaya tenaga kerja dan lingkungan.[^3]
+Oleh karena itu, gedung administrasi, pabrik-pabrik awal, dan bangunan lainnya di dalam kawasan ini memiliki identitas ganda. Di satu sisi, mereka adalah ruang industri yang mungkin masih digunakan; di sisi lain, mereka adalah bukti fisik dari sejarah ekonomi Taiwan. Menganggap mereka hanya sebagai bangunan tua akan melewatkan hubungan mereka dengan pabrik, buruh perempuan, pelabuhan, serta barang dagangan; namun menganggap mereka hanya sebagai monumen kesuksesan juga akan mengabaikan biaya tenaga kerja dan lingkungan yang telah dikeluarkan. [^3]
 
 ## Satu Kawasan, Beberapa Taiwan
 

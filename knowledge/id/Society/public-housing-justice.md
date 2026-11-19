@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-18T05:12:26.173266+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-19T18:26:46.340893+00:00'
 ---
 
 # Rumah Negara dan Keadilan Tempat Tinggal: Rumah Murah yang Dibangun Pemerintah, Akhirnya Menumbuhkan Tangga Eskalator Aset Siapa
@@ -284,47 +286,48 @@ Dalam peraturan Rumah Terjangkau, tertulis dengan jelas tiga kunci anti-spekulas
 
 Namun, jalan ini baru saja muncul, sudah bertabrakan dengan pusat.
 
-## Bisa Beli, atau Bisa Sewa: Debat Pusat-Daerah yang Terjadi Secara Jarak Jauh
+## Mampu Membeli atau Mampu Menyewa: Perselisihan Jarak Jauh antara Pemerintah Pusat dan Daerah
 
-Sikap Kementerian Dalam Negeri sangat jelas: menjual, itu sendiri sudah bermasalah. Wakil Menteri Dong Jianhong langsung mempertanyakan arah ini, ia berkata: 「Ketika perumahan terjangkau berupa perumahan dijual, relatifnya rakyat yang bisa dilayani justru lebih sedikit」, dan 「proses penjualan bebas akan menimbulkan beberapa sengketa hak kekayaan dan masalah administrasi manajemen lanjutan」.[^24] Ia menuntut kembali ke semangat perumahan sosial (社宅) dalam 《Undang-Undang Perumahan》 yang 「hanya disewakan, tidak dijual」. Diterjemahkan ke bahasa sehari-hari, maksud Kementerian Dalam Negeri adalah: begitu rumah dijual, itu berarti kehilangan sekali pakai dari stok publik; dengan pusing pikir cara mengurus 「setelah dijual lalu bagaimana」, tidak seperti jangan dijual dari awal, biarkan selamanya di tangan pemerintah dan disewakan terus.
+Sikap Kementerian Dalam Negeri sangat jelas: menjual rumah itu sendiri sudah bermasalah. Wakil Menteri Dong Chien-hung secara langsung mempertanyakan arah kebijakan ini, ia mengatakan: "Jika perumahan terjangkau berupa tipe hunian untuk dijual, maka jumlah warga yang dapat terakomodasi relatif akan lebih sedikit," dan "proses penjualan bebas akan menimbulkan beberapa sengketa hak milik serta masalah manajemen administratif di kemudian hari."[^24] Ia menegaskan agar kembali ke semangat "hanya sewa, tidak jual" dalam perumahan sosial sebagaimana diatur dalam 《Undang-Undang Perumahan》. Dalam bahasa sederhana, maksud Kementerian Dalam Negeri adalah: begitu rumah dijual, itu merupakan hilangnya stok publik secara permanen; daripada memutar otak untuk mengelola "apa yang terjadi setelah dijual", lebih baik sejak awal tidak dijual sama sekali, agar tetap berada di tangan pemerintah untuk disewakan selamanya.
 
-Yang dibicarakan kedua belah pihak, sebenarnya adalah dua jenis keadilan hunian yang berbeda.
+Apa yang dibicarakan kedua belah pihak sebenarnya adalah dua jenis keadilan hunian yang berbeda.
 
-Respons sisi Taoyuan, ingin membongkar bingkai pilihan dua-duanya ini. Kepala Biro Pengembangan Kota Taoyuan, Jiang Nanzhi, berkata: 「Pendorong keadilan hunian tidak seharusnya terjebak dalam logika tunggal 『pilih 1 dari 2』.」[^25] Wali Kota Zhang Shan-zheng pada 4 Juni 2026 sendiri pergi ke Yuan Administratif, berjuang agar perumahan terjangkau Taoyuan dimasukkan ke kebijakan pusat. Menurut laporan media, ia menggambarkan perumahan terjangkau dan perumahan sosial sebagai 「dua sayap」 kebijakan hunian, saling melengkapi bukan bersaing: ada yang ingin beli, ada yang hanya bisa sewa, kedua kebutuhan itu masing-masing ditampung, tidak seharusnya dipaksa memilih salah satu.[^26]
+Respons dari sisi Taoyuan adalah mencoba meruntuhkan kotak pilihan ganda "salah satu dari dua" tersebut. Kepala Biro Pengembangan Perkotaan Kota Taoyuan, Chiang Nan-chih, mengatakan: "Dorongan untuk keadilan hunian tidak seharusnya terjebak dalam logika tunggal 'pilih salah satu dari dua'."[^25] Walikota Chang Shan-cheng juga secara pribadi mendatangi Eksekutif pada 4 Juni 2026 untuk memperjuangkan agar perumahan terjangkau di Taoyuan dimasukkan ke dalam kebijakan pusat. Menurut laporan media, ia menggambarkan perumahan terjangkau dan perumahan sosial sebagai "dua sayap" dari kebijakan hunian yang saling melengkapi, bukan bersaing: ada orang yang ingin membeli, ada pula yang hanya bisa menyewa; kedua kebutuhan tersebut harus dapat terpenuhi masing-masing tanpa harus memaksa warga memilih salah satu.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Acara resmi Tianxia Zazhi: Mengapa 130.000 unit perumahan sosial yang dibangun langsung yang dijanjikan pemerintah Lai menyusut drastis, dari satu sisi melihat realita bergelutnya keadilan hunian di Taiwan._
+_Program resmi majalah Commonwealth: Mengapa janji pemerintah Lai untuk membangun 130.000 unit perumahan sosial menyusut drastis? Melihat dari satu sisi kondisi sulit keadilan hunian di Taiwan._
 
-Yuan Administratif kali ini tidak menolak begitu saja. Sikap Perdana Menteri Cho Jung-tai jelas melunak, tidak menolak kebijakan Taoyuan, hanya berharap 「kebijakan pusat dan daerah bisa selaras」.[^27] Sebuah jalur kebijakan yang dicabut sebelas tahun lalu, dengan alasan resmi 「tingkat kepemilikan rumah 85% tugas selesai」, tiba-tiba dari tangan satu pemerintah daerah, kembali mengetuk pintu pusat.
+Eksekutif kali tidak langsung menolak mentah-mentah. Sikap Perdana Menteri Cho Jung-tai tampak melunak; ia tidak membatalkan langkah Taoyuan, namun hanya berharap "kebijakan pusat dan daerah dapat diselaraskan".[^27] Sebuah jalur kebijakan yang telah dihapus selama sebelas tahun—dengan alasan resmi yang sudah tertulis bahwa "misi tingkat kepemilikan rumah pribadi 85% telah tercapai"—ternyata berhasil mengetuk kembali pintu pemerintah pusat melalui inisiatif satu pemerintah daerah.
 
-![Bagian tengah perumahan sosial Karl-Marx-Hof di Distrik 19 Wina, deretan fasade merah kuning bergaya menara 기념, perumahan kota sepanjang satu kilometer](/article-images/society/vienna-karl-marx-hof.webp)
-_Besar Karl-Marx-Hof Wina (Karl-Marx-Hof), selesai dibangun 1933 hingga kini tetap dimiliki pemerintah kota, hanya disewa tidak dijual. Seratus tahun tidak dijual, stoknya tetap di tangan publik. Foto: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![Bagian tengah perumahan sosial Karl-Marx-Hof di Distrik ke-19 Wina, deretan fasad merah-kuning bergaya monumen sepanjang satu kilometer dari perumahan milik kota](/article-images/society/vienna-karl-marx-hof.webp)
+_Karl-Marx-Hof di Wina, sejak selesai dibangun pada 1933 hingga kini masih dimiliki oleh pemerintah kota dan hanya disewakan tanpa dijual. Dengan tidak menjualnya selama seratus tahun, stok hunian tetap berada di tangan publik. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Bentrokan pusat-daerah ini, yang diperdebatkan pada hakikatnya adalah satu pertanyaan yang seharusnya dijawab lima puluh tahun lalu, namun terus dihindar: apakah pemerintah seharusnya membantu rakyat 「bisa beli」, atau membantu rakyat 「bisa sewa」?
+Benturan antara pusat dan daerah ini sebenarnya memperdebatkan sebuah pertanyaan yang seharusnya sudah dijawab lima puluh tahun lalu, namun terus dihindari: Apakah pemerintah seharusnya membantu rakyat agar "mampu membeli", atau membantu rakyat agar "mampu menyewa"?
 
-## Lima Puluh Tahun Kemudian, Taiwan Baru Belajar Memasang Gerbang Tersebut
+## Lima Puluh Tahun Kemudian, Taiwan Baru Belajar Memasang Gerbang Itu
 
-Kembali ke nomor Rumah Negara Chenggong itu.
+Kembali ke nomor alamat Rumah Negara Chenggong tersebut.
 
-Pada 1985, suami istri ketua kampung tua Shih Chung-sheng menghabiskan tabungan mereka untuk mengumpulkan uang muka NT$400.000, membeli rumah seharga NT$67.000 per ping. Rumah Negara saat itu adalah sebuah komitmen keadilan perumahan yang utuh: pemerintah membangun rumah murah, membantu orang yang tidak mampu membeli untuk naik kendaraan. Satu-satunya kelalaiannya, adalah lupa memasang gerbang di pintu keluar: tidak ada yang mengatur bagaimana membagi selisih harga yang dibesarkan oleh subsidi publik dan lokasi, ketika rumah ini naik nilai di kemudian hari. Akibatnya empat puluh tahun kemudian, nomor rumah yang sama mendekati NT$1.000.000 per ping, uang muka tahun itu bahkan tidak cukup membeli satu ping, tangga naik ditarik perlahan dari kaki orang-orang yang paling awal naik kendaraan.
+Pada tahun 1985, pasangan ketua lingkungan veteran Shi Chung-sheng menguras seluruh tabungan mereka untuk mengumpulkan uang muka sebesar NT$400.000 guna membeli rumah dengan harga NT$67.000 per ping. Pada saat itu, Rumah Negara adalah sebuah janji keadilan hunian yang utuh: pemerintah membangun rumah murah untuk membantu mereka yang tidak mampu membeli agar bisa "naik kereta" (memiliki aset). Satu-satunya kelalaiannya adalah lupa memasang gerbang di pintu keluar: tidak ada aturan yang menetapkan bagaimana selisih harga yang dihasilkan dari subsidi publik dan lokasi strategis tersebut harus dibagikan ketika nilai properti itu naik di masa depan. Alhasil, empat puluh tahun kemudian, di alamat yang sama, harga per ping mendekati satu juta NT$, sementara uang muka pada masa itu bahkan tidak cukup untuk membeli satu ping pun; tangga bagi kelompok orang pertama yang "naik kereta" telah ditarik secara diam-diam dari bawah kaki mereka.
 
-Hong Kong menyebut gerbang itu "bayar tambahan tanah" (補地價), Inggris belajar dengan biaya 8 triliun hak ekuitas bahwa gerbang itu wajib dipasang, Singapura memasang ambang batas namun tetap bocor. Taiwan berputar selama lima puluh tahun penuh, pada 2002 bahkan dengan tangan sendiri merobohkan tembok setengah jalan yang satu-satunya, hingga 2026, akhirnya ada satu pemerintah daerah yang menuliskan kata-kata "penjualan kembali tidak boleh melebihi harga beli asli" ke dalam sebuah peraturan yang disebut "Rumah Terjangkau" (可負擔住宅). Itu persis gerbang yang tidak dipasang Rumah Negara dulu, yang orang Hong Kong sebut "bayar tambahan tanah".
+Hong Kong menyebut gerbang itu sebagai pembayaran kompensasi tanah (_premium_), Inggris belajar dengan biaya hak sebesar 8 triliun bahwa mereka harus memasangnya, Singapura telah menetapkan ambang batas namun tetap ada celah. Taiwan berputar selama lima puluh tahun penuh; pada tahun 2002, mereka bahkan merobohkan sendiri setengah dinding yang tersisa, hingga akhirnya pada tahun 2026, sebuah pemerintah daerah baru berhasil menuliskan frasa "tidak boleh dijual kembali melebihi harga pembelian asli" ke dalam sebuah peraturan bernama 「Perumahan Terjangkau」. Itulah gerbang yang tidak dipasang oleh Rumah Negara dahulu, yang disebut orang Hong Kong sebagai pembayaran kompensasi tanah.
 
-Jadi masalah sebenarnya dari cerita ini, bukan pernah "apakah pemerintah mampu membangun rumah". Rumah Negara membuktikan pemerintah mampu membangun, Taoyuan juga bersiap membangun lagi. Masalah sebenarnya, adalah setelah "membantu kamu bisa beli",增值 itu milik siapa: milik orang yang paling awal naik kendaraan, atau milik generasi berikutnya yang masih antri di pintu.
+Jadi, masalah sebenarnya dari cerita ini bukanlah tentang "apakah pemerintah mampu membangun rumah". Rumah Negara membuktikan bahwa pemerintah mampu membangunnya, dan Taoyuan juga bersiap untuk membangunnya sekali lagi. Masalah sebenarnya adalah setelah "membantu Anda mampu membeli", kepada siapakah nilai kenaikan harga tersebut harus diberikan: kepada orang pertama yang "naik kereta", atau kepada generasi berikutnya yang masih mengantre di depan pintu?
 
-Orang-orang yang menekan tombol voting pada hari pembacaan ketiga Dewan Taoyuan mungkin tidak menyadari, mereka sekaligus menutup lubang terakhir tembok yang dirobohkan lima puluh tahun lalu. Adapun apakah batu bata ini bisa disusun menjadi tangga berjalan yang tidak lagi menarik tangga naiknya, atau sekali lagi terjebak dalam bentrokan pusat-daerah yang tidak selaras, harga nomor rumah Rumah Negara Chenggong yang berikutnya, akan mencatat jawabannya untuk kita.
+Orang-orang yang menekan tombol pemungutan suara pada hari pembacaan ketiga di Dewan Kota Taoyuan mungkin tidak menyadari bahwa mereka secara bersamaan sedang memasang batu bata terakhir untuk dinding yang diruntuhkan lima puluh tahun lalu. Apakah batu bata ini akan tersusun menjadi eskalator yang tidak lagi menarik tangganya, atau justru sekali lagi terjebak dalam tarik-ulur antara pemerintah pusat dan daerah yang tidak kunjung selaras, harga nomor alamat berikutnya di Rumah Negara Chenggong akan mencatat jawabannya bagi kita.
 
 ---
 
-**Baca Lanjutan**:
+**Bacaan Lanjutan**:
 
-- [Perumahan Sosial dan Keadilan Perumahan](/id/society/social-housing-and-housing-justice) — Rute "hanya sewa tidak jual" perumahan sosial pasca-2016: 200.000 rumah dalam delapan tahun, pembangunan langsung dan manajemen sewa gandaan dua jalur, bagaimana desain campuran menghindari perumahan sosial diberi label (artikel saudara ini, melanjutkan cerita pasca-penutupan Rumah Negara 2015)
-- [Krisis Fertilitas Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Tidak mampu beli rumah dan tidak bisa melahirkan anak adalah dua ujung retakan struktural yang sama, satu aspek lain keadilan antargenerasi
-- [Rumah Seng](/id/society/taiwan-tin-shed-houses) — Ketika tidak mampu beli juga tidak stabil menyewa, bagaimana orang Taiwan membangun tempat berlindung dengan cara paling sulit untuk diri mereka sendiri
-- [Keadilan Lingkungan dan Kontroversi NIMBY Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Perumahan sosial, fasilitas tidak diinginkan mau dibangun di samping rumah siapa, batas antara keadilan perumahan dan keadilan ruang
+- [Harga Rumah, KPR, dan Pinjaman Pemuda di Taiwan](/housing/) — Halaman khusus: Rasio harga rumah terhadap pendapatan, syarat pinjaman pemuda tiga generasi, dan lini masa kebijakan perumahan delapan puluh tahun, dilengkapi kalkulator KPR.
+- [Perumahan Sosial dan Keadilan Hunian](/id/society/social-housing-and-housing-justice) — Jalur perumahan sosial "hanya sewa tidak jual" setelah tahun 2016: target 200.000 unit dalam delapan tahun, sistem ganda antara pembangunan langsung dan manajemen sewa-kelola, serta bagaimana desain hunian campuran menghindari pelabelan negatif pada perumahan sosial (artikel pendamping teks ini, melanjutkan kisah setelah berakhirnya era Rumah Negara pada 2015).
+- [Krisis Penurunan Angka Kelahiran di Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Ketidakmampuan membeli rumah dan ketidakmampuan memiliki anak adalah dua ujung dari retakan struktural yang sama, sisi lain dari keadilan antargenerasi.
+- [Rumah Seng (Shelter)](/id/society/taiwan-tin-shed-houses) — Ketika tidak mampu membeli dan tidak bisa menyewa dengan stabil, bagaimana orang Taiwan menggunakan cara paling sulit untuk membangun tempat tinggal tambahan bagi diri mereka sendiri.
+- [Keadilan Lingkungan dan Kontroversi NIMBY di Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Di samping rumah siapa perumahan sosial atau fasilitas yang tidak diinginkan harus dibangun; titik temu antara keadilan hunian dan keadilan spasial.
 
 ## Data Terbuka
 
