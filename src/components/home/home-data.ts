@@ -123,6 +123,42 @@ export function countCategoryArticles(lang: string, slug: string): number {
   });
 }
 
+/**
+ * 該語言最近 N 天新上線的文章，按分類算（src/data/content-dates.json 的
+ * `created`：每個網址第一次出現在 git 的時間，也就是上線日）。
+ * 「最近」從那份檔產生的時間往回算，不用建置當下的時鐘：同一份資料建置幾次
+ * 都是同一個數字。讀不到就回 null，由元件決定不顯示。
+ */
+export function countRecentByCategory(
+  lang: string,
+  days = 30,
+): Record<string, number> | null {
+  return once(`recent:${lang}:${days}`, () => {
+    const data = readJson<{
+      _generated?: string;
+      created?: Record<string, string>;
+    }>('src/data/content-dates.json');
+    if (!data?.created || !data._generated) return null;
+    const end = Date.parse(data._generated);
+    if (Number.isNaN(end)) return null;
+    const start = end - days * 24 * 60 * 60 * 1000;
+    const out: Record<string, number> = {};
+    for (const [url, iso] of Object.entries(data.created)) {
+      const seg = url.split('/').filter(Boolean);
+      let cat: string | undefined;
+      if (lang === 'zh-TW') {
+        if (seg.length === 2) cat = seg[0];
+      } else if (seg.length === 3 && seg[0] === lang) {
+        cat = seg[1];
+      }
+      if (!cat || !(cat in CATEGORY_DIR)) continue;
+      const t = Date.parse(iso);
+      if (t > start && t <= end) out[cat] = (out[cat] || 0) + 1;
+    }
+    return out;
+  });
+}
+
 /* ── 展廳壹：有地點的文章，由北到南 ─────────────────────────────────── */
 
 export interface MapDensity {

@@ -15,7 +15,7 @@
  *    2 引語時間軸        cover_story         CoverStory
  *    3 四扇門            reader_doors        ReaderDoors
  *    4 直接能用的        tools_band          ToolsBand（新）
- *    5 分類格            category_grid       CategoryStrip（第二期收斂成一排小卡）
+ *    5 分類格            category_grid       TopicIndex（同大小的主題索引，含一格總覽）
  *    6 四展廳            exhibition_halls    HallEntries（第二期：四張入口卡，見下）
  *    7 不知道從哪開始？  reading_path        ReadingPath + RandomDiscovery（併成一區）
  *                        random_discovery
@@ -56,7 +56,7 @@ import HeroSection from '../components/home/HeroSection.astro';
 import CoverStory from '../components/home/CoverStory.astro';
 import ReaderDoors from '../components/home/ReaderDoors.astro';
 import ToolsBand from '../components/home/ToolsBand.astro';
-import CategoryStrip from '../components/home/CategoryStrip.astro';
+import TopicIndex from '../components/home/TopicIndex.astro';
 import HallEntries from '../components/home/HallEntries.astro';
 import ReadingPath from '../components/ReadingPath.astro';
 import RandomDiscovery from '../components/home/RandomDiscovery.astro';
@@ -174,7 +174,7 @@ const readingPathFooterItems = [
             }
           </h2>
         </header>
-        <div data-ga-view="category_grid"><CategoryStrip /></div>
+        <div data-ga-view="category_grid"><TopicIndex /></div>
       </div>
     </section>
 

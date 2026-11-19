@@ -1,0 +1,343 @@
+---
+/**
+ * TopicIndex — 首頁的「13 大主題」索引。
+ *
+ * 2026-11-19 首頁第二期先把線上那 13 張瀑布流大卡（高低不一、圖示放大、漸層表頭、
+ * 紅棕色襯線數字，佔兩個螢幕）收成一排小膠囊；同一天哲宇看了線上版說這一區的
+ * 介面與視覺要深度優化，改成現在這個整齊的索引：
+ *
+ *   - 每個主題一格、同一列等高：小圖示（分類色）、主題名、一句說明（分類設定裡
+ *     既有的文字，不截斷）、篇數，加一條比例條（這個主題的篇數 ÷ 篇數最多的
+ *     主題）。比例條只是讓眼睛一眼比大小，數字本身就是文字替代，所以 aria-hidden。
+ *   - 第一格是總覽：這個語言一共幾篇、近 30 天新上線幾篇（連到最新文章）。
+ *     它佔兩格，桌機 5 欄剛好排滿三列（2 + 13 = 15），1024 的 4 欄佔三格（16）、
+ *     768 的 3 欄佔兩格（15）、手機 2 欄佔一格（14），每個寬度都沒有只剩一格的殘列。
+ *   - 分類色只上圖示與比例條，字一律用 --color-ink／--color-ink-soft（分類色在白底
+ *     有幾個對比不到 4.5:1）。不用漸層底。
+ *
+ * 13 個主題的連結、順序、追蹤標記（data-ga-section="category_grid"、
+ * data-ga-label={分類代碼}）與無障礙標籤都跟原本的 CategoryGrid 一樣，前後數據接得上。
+ * 篇數的算法也是同一個（數 knowledge/ 底下的檔）。CategoryGrid 本身沒有動，
+ * /explore 照舊用它。「關於」是站務分類，不在格子裡（跟原本一樣）。
+ *
+ * 注意：class 名字不要帶 card（dark-polish.css 的全站規則會在深色下鋪底）。
+ */
+import Icon from '../Icon.astro';
+import {
+  useTranslations,
+  getLangFromUrl,
+  useTranslatedPath,
+} from '../../i18n/utils';
+import { categoryIcons, icons, iconSvg } from '../../icons/taiwan-icons.mjs';
+import { getCategoryConfigs } from '../../utils/categoryConfig';
+import { countCategoryArticles, countRecentByCategory } from './home-data';
+import { formatCount, useHomeT } from './home-i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const translatePath = useTranslatedPath(lang);
+const configs = getCategoryConfigs(t) as Record<
+  string,
+  { name: string; description: string }
+>;
+
+const categories = Object.entries(categoryIcons)
+  .filter(([slug]) => slug !== 'about')
+  .map(([slug, icon]) => ({
+    slug,
+    icon: icon as keyof typeof icons,
+    name: configs[slug]?.name,
+    description: configs[slug]?.description,
+    count: countCategoryArticles(lang, slug),
+  }));
+
+const max = Math.max(1, ...categories.map((c) => c.count));
+const total = categories.reduce((sum, c) => sum + c.count, 0);
+const recent = countRecentByCategory(lang, 30);
+const recentTotal = recent
+  ? categories.reduce((sum, c) => sum + (recent[c.slug] || 0), 0)
+  : 0;
+const arrow = iconSvg('arrow');
+---
+
+<ul class="topic-index" aria-label={t('CategoryGrid.aria-section')}>
+  <li class="topic-sum">
+    <p class="topic-sum-total">{formatCount(total, lang)}</p>
+    <p class="topic-sum-unit">
+      {th('home.topics.total', { topics: categories.length })}
+    </p>
+    {
+      recentTotal > 0 && (
+        <a
+          href={translatePath('/latest')}
+          class="home-link topic-sum-recent"
+          data-ga-section="category_grid"
+          data-ga-label="latest"
+        >
+          {th('home.topics.recent', { count: formatCount(recentTotal, lang) })}
+          <span class="topic-arrow" set:html={arrow} />
+        </a>
+      )
+    }
+  </li>
+  {
+    categories.map((c) => (
+      <li>
+        <a
+          href={translatePath(`/${c.slug}`)}
+          class="topic-tile"
+          style={`--topic:var(--cat-${c.slug});--share:${(c.count / max).toFixed(3)}`}
+          data-ga-section="category_grid"
+          data-ga-label={c.slug}
+          aria-label={`${t('CategoryGrid.aria-explore')} ${c.name}${t('CategoryGrid.aria-explore-suffix')}`}
+        >
+          <span class="topic-head">
+            <span class="topic-icon" aria-hidden="true">
+              <Icon name={c.icon} />
+            </span>
+            <span class="topic-name">{c.name}</span>
+          </span>
+          {c.description && <span class="topic-desc">{c.description}</span>}
+          <span class="topic-foot">
+            <span class="topic-count" dir="auto">
+              <span class="topic-num">{formatCount(c.count, lang)}</span>
+              <span class="topic-unit">
+                {c.count === 1
+                  ? t('CategoryGrid.article')
+                  : t('CategoryGrid.articles')}
+              </span>
+            </span>
+            <span class="topic-bar" aria-hidden="true">
+              <i />
+            </span>
+          </span>
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .topic-index {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .topic-index > li {
+    display: flex;
+    min-width: 0;
+  }
+
+  /* ── 總覽格：不加框，像一段放在格子裡的引言 ── */
+  .topic-index > .topic-sum {
+    grid-column: span 2;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0.35rem 1.1rem 0 0;
+  }
+  .topic-sum-total {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(2.4rem, 3.6vw, 3.2rem);
+    font-weight: 300;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink);
+    unicode-bidi: isolate;
+  }
+  .topic-sum-unit {
+    margin: 0.6rem 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--color-ink-soft);
+  }
+  .topic-sum-recent {
+    align-self: flex-start;
+  }
+  .topic-arrow {
+    display: inline-flex;
+    margin-inline-start: 0.35rem;
+    font-size: 0.85em;
+  }
+  :global([dir='rtl']) .topic-arrow {
+    transform: scaleX(-1);
+  }
+
+  /* ── 主題格：圖示、名稱、篇數一行，說明，底下一條比例條 ── */
+  .topic-tile {
+    position: relative;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 0.55rem;
+    min-width: 0;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: 0.9rem 1.05rem 1rem;
+    font-family: var(--font-interface);
+    color: var(--color-ink);
+    text-decoration: none;
+    transition:
+      border-color 0.2s ease,
+      background-color 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  .topic-head {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    min-width: 0;
+  }
+  .topic-icon {
+    display: inline-grid;
+    place-items: center;
+    flex: 0 0 auto;
+    width: 1.9rem;
+    height: 1.9rem;
+    border-radius: 9px;
+    background: color-mix(in srgb, var(--topic) 10%, transparent);
+    font-size: 1rem;
+    color: var(--topic);
+  }
+  .topic-name {
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+    font-size: 1.02rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--color-ink);
+  }
+  .topic-count {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.2rem;
+    flex: 0 0 auto;
+    unicode-bidi: isolate;
+  }
+  .topic-num {
+    font-size: 0.98rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink);
+  }
+  .topic-unit {
+    font-size: 0.74rem;
+    color: var(--color-ink-soft);
+  }
+  .topic-desc {
+    flex: 1;
+    font-size: 0.84rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: var(--color-ink-soft);
+    text-wrap: pretty;
+  }
+  .topic-foot {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+  }
+  /* 比例條：這個主題的篇數 ÷ 篇數最多的主題 */
+  .topic-bar {
+    position: relative;
+    display: block;
+    flex: 1;
+    height: 2px;
+    border-radius: 2px;
+    background: var(--home-rule);
+    overflow: hidden;
+  }
+  .topic-bar i {
+    position: absolute;
+    inset-block: 0;
+    inset-inline-start: 0;
+    width: calc(var(--share) * 100%);
+    min-width: 4px;
+    border-radius: inherit;
+    background: var(--topic);
+    transition: filter 0.2s ease;
+  }
+
+  .topic-tile:hover {
+    border-color: color-mix(in srgb, var(--topic) 45%, var(--home-rule));
+    background: color-mix(in srgb, var(--topic) 4%, var(--color-surface));
+    box-shadow: var(--shadow-soft);
+    color: var(--color-ink);
+  }
+
+  /* 分類色是為亮底調的深色；深色模式往字色靠，才看得清楚 */
+  :global(:root[data-theme='dark']) .topic-tile {
+    --topic-dark: color-mix(in srgb, var(--topic) 45%, var(--color-ink));
+  }
+  :global(:root[data-theme='dark']) .topic-icon {
+    background: color-mix(in srgb, var(--topic-dark) 16%, transparent);
+    color: var(--topic-dark);
+  }
+  :global(:root[data-theme='dark']) .topic-bar i {
+    background: var(--topic-dark);
+  }
+  :global(:root[data-theme='dark']) .topic-tile:hover {
+    border-color: color-mix(in srgb, var(--topic-dark) 45%, var(--home-rule));
+    background: color-mix(in srgb, var(--topic-dark) 6%, var(--color-surface));
+  }
+
+  @media (max-width: 1180px) {
+    .topic-index {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+    .topic-index > .topic-sum {
+      grid-column: span 3;
+    }
+  }
+  @media (max-width: 900px) {
+    .topic-index {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .topic-index > .topic-sum {
+      grid-column: span 2;
+    }
+  }
+  @media (max-width: 600px) {
+    .topic-index {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.5rem;
+    }
+    .topic-index > .topic-sum {
+      grid-column: span 1;
+      padding: 0.2rem 0.4rem 0 0;
+    }
+    .topic-sum-unit {
+      font-size: 0.84rem;
+    }
+    .topic-tile {
+      gap: 0.45rem;
+      padding: 0.8rem 0.85rem 0.85rem;
+    }
+    .topic-head {
+      gap: 0.5rem;
+    }
+    .topic-icon {
+      width: 1.6rem;
+      height: 1.6rem;
+      font-size: 0.9rem;
+    }
+    .topic-foot {
+      gap: 0.55rem;
+    }
+    .topic-name {
+      font-size: 0.95rem;
+    }
+    .topic-desc {
+      font-size: 0.8rem;
+      line-height: 1.55;
+    }
+  }
+</style>
