@@ -27,11 +27,13 @@ imageAlt: 'Gambar satelit pulau utama Taiwan dilihat dari luar angkasa, dataran 
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: '756ab2957'
-sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:db3262e3722e67ea'
 sourceBodyHash: 'sha256:4da0398520125992'
-translatedAt: '2026-10-23T16:28:22.004147+00:00'
+translatedAt: '2026-11-19T19:03:43.274540+00:00'
 ---
 
 # Melihat 22 Kabupaten/Kota Taiwan dengan Data: Kepadatan Terpadat dan Tersepi Berbeda 151 Kali, Rasio Lansia dan Anak dari Satu Banding Satu Hingga Hampir Tiga Banding Satu
@@ -219,13 +221,14 @@ Inilah potret Taiwan tahun 2025: wajah yang sangat terfragmentasi, dan yang seda
 
 Mengakui ketidakseragaman internal Taiwan ini, adalah untuk melihat dengan jelas tantangan nyata pulau ini: sebuah tempat dengan perbedaan internal sebesar ini, harus menggunakan satu kebijakan untuk secara bersamaan merawat empat juta orang yang terkurung di lembah dan tiga belas ribu orang yang bertahan di pulau-pulau terpencil, sambil menghadapi Kabupaten Hsinchu yang paling muda dan Kota Taipei serta Kabupaten Chiayi dengan proporsi lansia tertinggi. Ia terpecah, tapi ia harus bertindak sebagai satu kesatuan; ia menua, tapi ia harus bersama mencari jalan keluar. Data telah melukis wajah ini bagi kita, bagaimana menjawab wajah ini ke depannya, adalah pertanyaan yang harus dijawab bersama oleh pulau ini.
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Taipei](/id/geography/taipei-city) — kota paling padat di seluruh Taiwan (8.975 orang per kilometer persegi), proporsi 65 tahun ke atas juga tertinggi di seluruh Taiwan (24,18%), tokoh yang sama di kedua tabel kepadatan dan penuaan dalam artikel ini.
-- [Taitung](/id/geography/taitung-county) — ujung paling sepi di seluruh Taiwan (59 orang per kilometer persegi), 3.515 kilometer persegi adalah ketiga terbesar di seluruh Taiwan, juga mencakup dua pulau lepas yaitu Green Island dan Orchid Island.
-- [Chiayi](/id/geography/chiayi-county) — indeks penuaan 291,69 tertinggi di seluruh Taiwan, hampir tiga orang lansia untuk setiap anak, proporsi 65 tahun ke atas 24,11% juga hanya kalah dari Taipei.
-- [Hsinchu](/id/geography/hsinchu-county) — tingkat penuaan 15,08% paling muda di seluruh Taiwan, wilayah di mana Hsinchu Science Park menarik struktur populasi ke arah yang lebih muda.
-- [Krisis Kelangkaan Bayi Taiwan](/id/society/taiwan-low-birth-rate-crisis) — sisi kelahiran dari potret ini: bayi baru lahir turun di bawah 110.000, sisi lain di mana kelahiran di seluruh pulau tidak menutupi kematian.
+- [Harga Rumah, Kredit Rumah, dan Kenyamanan Muda Taiwan](/housing/) — Halaman Khusus: Rasio Beban Kredit Rumah dan Rasio Harga Rumah terhadap Pendapatan 22 Kabupaten/Kota Ditulis dalam Satu Grafik yang Sama, Dilengkapi Standar Empat Tingkat Kementerian Dalam Negeri dan Tanggal Terakhir Data
+- [Kota Taipei](/id/geography/taipei-city) — Kota Paling Padat di Seluruh Taiwan (8.975 Jiwa per Kilometer Persegi), Proporsi 65 Tahun Ke Atas Juga Tertinggi di Seluruh Taiwan (24,18%), Tokoh Utama yang Sama di Kedua Tabel Kepadatan dan Penuaan dalam Artikel Ini
+- [Kabupaten Taitung](/id/geography/taitung-county) — Ujung Paling Sepi di Seluruh Taiwan (59 Jiwa per Kilometer Persegi), 3.515 Kilometer Persegi Merupakan Ketiga Terbesar di Seluruh Taiwan, Juga Mencakup Dua Pulau Terpencil Pulau Lyudao dan Pulau Lanyu
+- [Kabupaten Chiayi](/id/geography/chiayi-county) — Indeks Penuaan 291,69 Tertinggi di Seluruh Taiwan, Setiap Anak Berpasangan dengan Hampir Tiga Orang Lansia, Proporsi 65 Tahun Ke Atas 24,11% Juga Hanya Kalah dari Kota Taipei
+- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Tingkat Penuaan 15,08% Paling Muda di Seluruh Taiwan, Kawasan Sains Hsinchu yang Menarik Struktur Penduduk ke Arah Lebih Muda
+- [Krisis Penurunan Kelahiran Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Sisi Kelahiran dari Potret Ini: Bayi Baru Lahir Turun di Bawah 110 Ribu, Sisi Lain dari Seluruh Pulau di Mana Kelahiran Lebih Rendah dari Kematian
 
 ## Sumber Gambar
 
