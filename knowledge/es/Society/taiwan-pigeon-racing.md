@@ -22,8 +22,12 @@ rationale:
   whos_pushing_back: '鴿友重視競技公平與飼養技術，動保團體則要求降低海翔風險並建立責任機制。文章保留兩方張力，不替任一方杜撰立場。'
 readingTime: 10
 curation: 'incubating'
+image: '/article-images/society/homing-pigeon-portrait.webp'
+imageCredit: 'Andreas Trepte / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Homing_pigeon.jpg'
 translatedFrom: 'Society/賽鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:f56149ea65f8ae88'
 sourceBodyHash: 'sha256:03d653f96edfb95d'
 translatedAt: '2026-09-11T01:27:11+08:00'

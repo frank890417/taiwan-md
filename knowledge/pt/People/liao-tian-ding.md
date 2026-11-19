@@ -16,6 +16,10 @@ readingTime: 10
 lastVerified: 2026-08-20
 lastHumanReview: false
 featured: false
+image: '/article-images/people/liao-tianding-wanted-order-1909.webp'
+imageCredit: '臺灣總督府 / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Liao_Tianding_Wanted_Order.jpg'
 translatedFrom: 'People/廖添丁.md'
 sourceCommitSha: '28304057a'
 sourceContentHash: 'sha256:e0f89a1113cc2a1d'

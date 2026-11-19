@@ -23,8 +23,12 @@ rationale:
   whos_pushing_back: '工程效益、環境代價與國家治理不是互相排斥的答案，文章保留不同角色的衝突。'
 readingTime: 9
 curation: 'incubating'
+image: '/article-images/history/shimen-dam-overlook.webp'
+imageCredit: 'Ken Marshall / Wikimedia Commons'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Shimen_Dam_Overlook.jpg'
 translatedFrom: 'History/石門水庫.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:d8b88408a353bacc'
 sourceBodyHash: 'sha256:6772a9de43938945'
 translatedAt: '2026-09-10T20:25:02+08:00'

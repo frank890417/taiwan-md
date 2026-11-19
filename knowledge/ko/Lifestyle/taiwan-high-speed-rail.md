@@ -16,8 +16,12 @@ sporeLinks:
     "{'id': 35, 'platform': 'threads', 'date': '2026-04-19', 'url': 'https://www.threads.com/@taiwandotmd/post/DXTr5QLkfgp'}",
     "{'id': 36, 'platform': 'x', 'date': '2026-04-19', 'url': 'https://x.com/taiwandotmd/status/2045793882970227009'}",
   ]
+image: '/article-images/lifestyle/thsr-700t-tainan-station-2012.webp'
+imageCredit: 'mershells / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:THSR_700T_train_at_THSR_Tainan_Station_20120726.jpg'
 translatedFrom: 'Lifestyle/台灣高鐵.md'
-sourceCommitSha: '7f94f3308'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:4ac40ba7a55e456a'
 sourceBodyHash: 'sha256:7526ec4c044a5e8d'
 translatedAt: '2026-09-17T06:43:36+08:00'

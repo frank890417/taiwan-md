@@ -19,6 +19,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
+image: '/article-images/society/grand-hotel-taipei.webp'
+imageCredit: 'Bdavis545 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_The_Grand_Hotel.jpg'
 translatedFrom: Society/民主進步黨成立.md
 sourceCommitSha: 13c7fbcdb
 sourceContentHash: 'sha256:5074137d0b0c4812'

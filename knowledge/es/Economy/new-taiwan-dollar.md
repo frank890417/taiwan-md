@@ -17,6 +17,10 @@ readingTime: 8
 lastVerified: 2026-08-20
 lastHumanReview: false
 featured: false
+image: '/article-images/economy/central-bank-roc-main-building-2023.webp'
+imageCredit: 'Yu tptw / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg'
 translatedFrom: 'Economy/新台幣.md'
 sourceCommitSha: 'a8354bde0'
 sourceContentHash: 'sha256:4d797183a6dc8cc5'

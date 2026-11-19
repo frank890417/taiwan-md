@@ -20,6 +20,10 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+image: '/article-images/history/taiwan-parliament-petition-document.webp'
+imageCredit: '臺灣議會期成同盟會 / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
 sourceCommitSha: '1625b24f7'
 sourceContentHash: 'sha256:ed19a67a28e57807'

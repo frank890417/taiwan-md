@@ -23,8 +23,12 @@ rationale:
   whos_pushing_back: '龍山寺商圈與都市研究提醒，交通便利不必然轉成營收，站區發展也可能推動商業化與住宅外移。'
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/geography/taipei-mrt-c371-train.webp'
+imageCredit: 'Jiahwang / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_MRT_Train_C371_3CarSet_No_3398.JPG'
 translatedFrom: 'Geography/板南線.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:373c365c77c6b0b9'
 sourceBodyHash: 'sha256:dc5113e65f4b7030'
 translatedAt: '2026-09-11T04:36:48+08:00'

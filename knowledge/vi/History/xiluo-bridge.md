@@ -23,9 +23,13 @@ rationale:
   whos_pushing_back: '保存價值與古蹟升格仍有不同意見，本文保留 2025 年地方團體、主管機關與審議委員會的分歧。'
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/history/xiluo-bridge-red-truss.webp'
+imageCredit: 'Shangkuanlc / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E7%9C%81%E9%9B%B2%E6%9E%97%E7%B8%A3%E8%A5%BF%E8%9E%BA%E9%8E%AE%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B-1.jpg'
 translatedFrom: 'History/西螺大橋.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:b4ceb4e882b4ea63'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:902179e6f5db87f0'
 sourceBodyHash: 'sha256:0367fe0da1bfd005'
 translatedAt: '2026-09-21T15:15:46.830676+00:00'
 ---

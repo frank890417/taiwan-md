@@ -11,9 +11,13 @@ lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/lifestyle/taipei-red-green-post-boxes.webp'
+imageCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Post-boxes-01.jpg'
 translatedFrom: 'Lifestyle/台灣郵政.md'
-sourceCommitSha: 'f64069ec0'
-sourceContentHash: 'sha256:8099a54c43948775'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:5f00da1138d0a958'
 sourceBodyHash: 'sha256:3422a46a0cbc8816'
 translatedAt: '2026-09-11T09:34:30+08:00'
 ---

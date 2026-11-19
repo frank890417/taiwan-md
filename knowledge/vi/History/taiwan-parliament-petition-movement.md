@@ -22,9 +22,13 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
+image: '/article-images/history/taiwan-parliament-petition-document.webp'
+imageCredit: '臺灣議會期成同盟會 / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:bc7012f3fecd5d51'
 sourceBodyHash: 'sha256:bdaf15a31353eeba'
 translatedAt: '2026-11-05T13:46:44.892639+00:00'
 ---

@@ -17,6 +17,10 @@ date: 2026-08-17
 readingTime: 11
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/history/taipei-railway-workshop-front.webp'
+imageCredit: 'Solomon203 / Wikimedia Commons'
+imageLicense: 'CC BY 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Railway_Workshop_front_view_20100618.jpg'
 translatedFrom: 'History/國家鐵道博物館.md'
 sourceCommitSha: '94a56601b'
 sourceContentHash: 'sha256:7335ec1d507d61c5'

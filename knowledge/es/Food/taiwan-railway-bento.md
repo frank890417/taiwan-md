@@ -18,9 +18,13 @@ lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
+image: '/article-images/food/tra-pork-chop-bento-2014.webp'
+imageCredit: 'hirotomo t / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:60%E5%85%83%E8%87%BA%E9%90%B5%E6%8E%92%E9%AA%A8%E4%BE%BF%E7%95%B6_(13344634153).jpg'
 translatedFrom: 'Food/台灣鐵路便當.md'
-sourceCommitSha: 'ed9e8cc78'
-sourceContentHash: 'sha256:bbbd9e32710c1317'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:49502c21eef4977a'
 sourceBodyHash: 'sha256:99086673f8517f78'
 translatedAt: '2026-09-11T13:12:06+08:00'
 ---
