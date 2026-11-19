@@ -11,9 +11,11 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369ee'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
 translatedAt: '2026-09-11T05:22:31+08:00'
 ---

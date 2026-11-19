@@ -24,9 +24,11 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Lifestyle/電競.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:64c6862f2f2a8e41'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:e2d50ea1d51f4c24'
 sourceBodyHash: 'sha256:4fe3e0718f755e56'
 translatedAt: '2026-08-09T11:16:34+08:00'
 ---

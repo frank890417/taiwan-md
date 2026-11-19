@@ -17,9 +17,11 @@ readingTime: 10
 lastVerified: 2026-08-20
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:256557b91a57e89f'
+sourceCommitSha: 'ef8369ee'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
 translatedAt: '2026-09-15T02:25:28.355785+00:00'
 ---

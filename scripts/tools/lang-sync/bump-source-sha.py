@@ -168,7 +168,11 @@ def find_curation_only(status: dict, lang_filter: str | None = None) -> list[dic
             continue
         old = _zh_split_at(old_sha, item["zh_path"])
         cur = _zh_split_at("HEAD", item["zh_path"])
-        if not old or not cur or old[1] != cur[1]:
+        # 正文比對去掉頭尾空白行（2026-11-20 twmd-babel-nightly）：11-17 補查證標記的 commit
+        # 在部分母稿 frontmatter 後多插一行空行，status.py 的 bodyHash 不計這種差（判 metadata-stale），
+        # 這裡卻逐字比，兩把尺不同調（REFLEXES #83），18 份譯文（〈擎天崗〉十二語）於是掉進整篇重翻，
+        # 78 個網址的長文兩個模型十二語全敗在 URL count。只剝頭尾，正文中間任何一字不同照樣不收。
+        if not old or not cur or old[1].strip() != cur[1].strip():
             continue
         changed = {k for k in set(old[0]) | set(cur[0]) if old[0].get(k) != cur[0].get(k)}
         if not changed or not changed <= set(CURATION_KEYS):

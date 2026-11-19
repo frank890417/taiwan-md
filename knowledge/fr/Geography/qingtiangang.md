@@ -1,6 +1,6 @@
 ---
 title: 'Qingtiangang : un siècle de tensions entre prairie, blockhaus et buffles d’eau'
-description: "Des terrains de chasse des Ketagalan au cantonnement des « braves du Henan » sous les Qing, de la prospérité du pâturage d’Ōmine-tōge sous la domination japonaise à la portée militaire du nom « Qingtiangang » donné par Chiang Ching-kuo, cette prairie volcanique n’est pas seulement le jardin arrière des habitants de Taipei : elle est aussi, depuis un siècle, le théâtre d’affrontements entre impératifs militaires, pastoralisme, protection écologique et coexistence entre humains et buffles. La mortalité des buffles d’eau durant l’hiver 2020 a révélé le coût profond de la politique de « séparation entre humains et buffles » dans la gestion du parc national, ainsi que l’interrogation persistante sur la coexistence entre l’humain et la nature."
+description: 'Des terrains de chasse des Ketagalan au cantonnement des « braves du Henan » sous les Qing, de la prospérité du pâturage d’Ōmine-tōge sous la domination japonaise à la portée militaire du nom « Qingtiangang » donné par Chiang Ching-kuo, cette prairie volcanique n’est pas seulement le jardin arrière des habitants de Taipei : elle est aussi, depuis un siècle, le théâtre d’affrontements entre impératifs militaires, pastoralisme, protection écologique et coexistence entre humains et buffles. La mortalité des buffles d’eau durant l’hiver 2020 a révélé le coût profond de la politique de « séparation entre humains et buffles » dans la gestion du parc national, ainsi que l’interrogation persistante sur la coexistence entre l’humain et la nature.'
 date: 2026-05-16
 author: 'Taiwan.md Contributors'
 category: 'Geography'
@@ -22,12 +22,15 @@ readingTime: 15
 lastVerified: 2026-05-16
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/擎天崗.md'
-sourceCommitSha: 'cc8a26f12'
-sourceContentHash: 'sha256:31abc64732b1d18e'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a78ab7bc9adf84ca'
 sourceBodyHash: 'sha256:dee2015d5a88f548'
 translatedAt: '2026-05-17T05:06:52+08:00'
 ---
+
 # Qingtiangang : un siècle de tensions entre prairie, blockhaus et buffles d’eau
 
 ## Aperçu en trente secondes

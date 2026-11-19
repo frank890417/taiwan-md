@@ -19,9 +19,11 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:dfaf174da269221d'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
 translatedAt: '2026-08-18T02:00:30+08:00'
 ---

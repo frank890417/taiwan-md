@@ -22,9 +22,11 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/擎天崗.md'
-sourceCommitSha: 'cc8a26f12'
-sourceContentHash: 'sha256:31abc64732b1d18e'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a78ab7bc9adf84ca'
 sourceBodyHash: 'sha256:dee2015d5a88f548'
 translatedAt: '2026-09-09T15:32:33+08:00'
 ---

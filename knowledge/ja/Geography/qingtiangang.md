@@ -1,6 +1,6 @@
 ---
-title: "擎天崗：草原、トーチカ、水牛をめぐる百年のせめぎ合い"
-description: "ケタガラン族の狩猟場から清朝統治期の「河南勇」の駐屯地へ、日本統治期の大嶺峠牧場の繁栄から蔣経国が「擎天崗」と命名した軍事的含意へ。この火山性草原は、台北市民の裏庭であるだけでなく、軍事、畜産、生態保護、そして人と牛の共存をめぐる多様な意思が百年にわたり交錯してきた現場でもあります。2020年冬の水牛死亡事件は、国立公園管理における「人牛分離」政策の深層にある代償と、人と自然の共存をめぐる永続的な問いを明らかにしました。"
+title: '擎天崗：草原、トーチカ、水牛をめぐる百年のせめぎ合い'
+description: 'ケタガラン族の狩猟場から清朝統治期の「河南勇」の駐屯地へ、日本統治期の大嶺峠牧場の繁栄から蔣経国が「擎天崗」と命名した軍事的含意へ。この火山性草原は、台北市民の裏庭であるだけでなく、軍事、畜産、生態保護、そして人と牛の共存をめぐる多様な意思が百年にわたり交錯してきた現場でもあります。2020年冬の水牛死亡事件は、国立公園管理における「人牛分離」政策の深層にある代償と、人と自然の共存をめぐる永続的な問いを明らかにしました。'
 date: 2026-05-16
 author: 'Taiwan.md Contributors'
 category: 'Geography'
@@ -22,12 +22,15 @@ readingTime: 15
 lastVerified: 2026-05-16
 lastHumanReview: false
 featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/擎天崗.md'
-sourceCommitSha: 'cc8a26f12'
-sourceContentHash: 'sha256:31abc64732b1d18e'
+sourceCommitSha: 'be13f045'
+sourceContentHash: 'sha256:a78ab7bc9adf84ca'
 sourceBodyHash: 'sha256:dee2015d5a88f548'
 translatedAt: '2026-05-17T05:06:52+08:00'
 ---
+
 # 擎天崗：草原、トーチカ、水牛をめぐる百年のせめぎ合い
 
 ## 30秒で読む概観
