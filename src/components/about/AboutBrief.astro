@@ -1,0 +1,265 @@
+---
+/**
+ * AboutBrief — 三十秒版（2026-11-19 關於頁進化）。
+ *
+ * 五句話：這是什麼、誰做的、怎麼運作、哪些是 AI 寫的而哪些有人看過、怎麼參與。
+ * 每一句裡的數字都從資料檔來（樣板算好傳進來），資料缺席時用不帶數字的版本。
+ * 每一句後面一個連結，帶到這一頁裡講得更完整的那一章。
+ */
+import type { Lang } from '../../types';
+import { useAboutStrings, formatNumber, isEnglishFallback } from './strings';
+
+interface Props {
+  lang: Lang;
+  totalArticles: number;
+  languageCount: number;
+  contributorCount: number;
+  /** 標記為人工審閱的篇數；資料缺席傳 null */
+  reviewedCount: number | null;
+  /** 人工審閱比例（%）；資料缺席傳 null */
+  reviewedPercent: number | null;
+  hrefs: {
+    naming: string;
+    people: string;
+    how: string;
+    trust: string;
+    contribute: string;
+  };
+}
+const {
+  lang,
+  totalArticles,
+  languageCount,
+  contributorCount,
+  reviewedCount,
+  reviewedPercent,
+  hrefs,
+} = Astro.props;
+const s = useAboutStrings(lang);
+const n = (v: number) => formatNumber(lang, v);
+const hasReview = reviewedCount !== null && reviewedPercent !== null;
+const fallbackEn = isEnglishFallback(lang, 'about.brief.title');
+
+const rows = [
+  {
+    id: 'what',
+    label: s('about.brief.what.label'),
+    text: s('about.brief.what.text', {
+      articles: n(totalArticles),
+      langs: languageCount,
+    }),
+    link: s('about.brief.what.link'),
+    href: hrefs.naming,
+  },
+  {
+    id: 'who',
+    label: s('about.brief.who.label'),
+    text: s('about.brief.who.text', { contributors: n(contributorCount) }),
+    link: s('about.brief.who.link'),
+    href: hrefs.people,
+  },
+  {
+    id: 'how',
+    label: s('about.brief.how.label'),
+    text: s('about.brief.how.text'),
+    link: s('about.brief.how.link'),
+    href: hrefs.how,
+  },
+  {
+    id: 'ai',
+    label: s('about.brief.ai.label'),
+    text: hasReview
+      ? s('about.brief.ai.text', {
+          reviewed: n(reviewedCount as number),
+          percent: reviewedPercent as number,
+        })
+      : s('about.brief.ai.text.nodata'),
+    link: s('about.brief.ai.link'),
+    href: hrefs.trust,
+  },
+  {
+    id: 'join',
+    label: s('about.brief.join.label'),
+    text: s('about.brief.join.text'),
+    link: s('about.brief.join.link'),
+    href: hrefs.contribute,
+  },
+];
+---
+
+<div class="ab-brief" data-fallback-en={fallbackEn ? '' : undefined}>
+  <p class="ab-brief__eyebrow">{s('about.brief.eyebrow')}</p>
+  <h2 class="ab-brief__title">{s('about.brief.title')}</h2>
+  <dl class="ab-brief__list">
+    {
+      rows.map((row, i) => (
+        <div class="ab-brief__row">
+          <dt class="ab-brief__label">
+            <span class="ab-brief__num" dir="ltr" aria-hidden="true">
+              {i + 1}
+            </span>
+            <span class="ab-brief__label-text" dir="auto">
+              {row.label}
+            </span>
+          </dt>
+          <dd class="ab-brief__body">
+            <p class="ab-brief__text">{row.text}</p>
+            <a
+              class="ab-brief__link"
+              href={row.href}
+              data-ga-section="about_brief"
+              data-ga-label={row.id}
+            >
+              {row.link}
+              <span class="ab-brief__arrow" aria-hidden="true">
+                →
+              </span>
+            </a>
+          </dd>
+        </div>
+      ))
+    }
+  </dl>
+</div>
+
+<style>
+  .ab-brief {
+    max-width: 60rem;
+    margin: 0 auto;
+  }
+
+  .ab-brief__eyebrow {
+    margin: 0 0 var(--ab-gap-s);
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    color: var(--ab-brand);
+  }
+
+  .ab-brief__title {
+    margin: 0 0 var(--ab-gap-m);
+    font-size: clamp(1.6rem, 3.2vw, 2.25rem);
+    font-weight: 900;
+    line-height: 1.25;
+    color: var(--color-ink);
+  }
+
+  .ab-brief__list {
+    margin: 0;
+    border-block-start: 1px solid var(--ab-rule);
+  }
+
+  .ab-brief__row {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    column-gap: var(--space-5);
+    padding: 1rem 0;
+    border-block-end: 1px solid var(--ab-rule);
+  }
+
+  .ab-brief__num,
+  .ab-brief__label-text {
+    unicode-bidi: isolate;
+  }
+  .ab-brief__label {
+    display: flex;
+    align-items: baseline;
+    gap: 0.625rem;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 700;
+    line-height: 1.75;
+    color: var(--color-ink);
+  }
+
+  .ab-brief__num {
+    flex: 0 0 auto;
+    inline-size: 1.25rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--ab-brand);
+  }
+
+  /* 句子與去處：寬螢幕並排，去處靠在列尾 */
+  .ab-brief__body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    column-gap: var(--space-5);
+    align-items: start;
+    margin: 0;
+  }
+
+  .ab-brief__text {
+    margin: 0;
+    max-width: 38em;
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: var(--color-ink);
+  }
+
+  .ab-brief__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-block-size: 44px;
+    margin-block: -0.4rem;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--ab-brand);
+    text-decoration: none;
+    border: 0;
+    padding: 0;
+  }
+  .ab-brief__link:hover {
+    color: var(--color-ink);
+  }
+  .ab-brief__link:hover .ab-brief__arrow {
+    transform: translateX(3px);
+  }
+  .ab-brief__arrow {
+    transition: transform 0.2s ease;
+  }
+  :global([dir='rtl']) .ab-brief__arrow {
+    scale: -1 1;
+  }
+  :global([dir='rtl']) .ab-brief__link:hover .ab-brief__arrow {
+    transform: translateX(-3px);
+  }
+
+  @media (max-width: 860px) {
+    .ab-brief__body {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .ab-brief__link {
+      margin-block: 0 -0.625rem;
+      white-space: normal;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .ab-brief__row {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: 0.25rem;
+      padding: 0.875rem 0;
+    }
+    .ab-brief__text {
+      font-size: 1rem;
+    }
+    .ab-brief__link {
+      margin-block: 0 -0.5rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ab-brief__arrow {
+      transition: none;
+    }
+    .ab-brief__link:hover .ab-brief__arrow {
+      transform: none;
+    }
+  }
+</style>
