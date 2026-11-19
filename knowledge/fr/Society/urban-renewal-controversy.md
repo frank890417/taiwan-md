@@ -1,15 +1,15 @@
 ---
-title: 'Controverse sur la rénovation urbaine : après Wenlin Yuan, comment Taïwan gère-t-elle les « propriétaires non consentants » ?'
-description: "Le 28 mars 2012, le gouvernement municipal de Taipei a procédé à la démolition d'office de deux maisons légales de la famille Wang à Wenlin Yuan (文林苑) à Shilin, devant plusieurs centaines de soutiens, ce qui est devenu la plus grande controverse de l'histoire de la rénovation urbaine à Taïwan. La famille Wang a perdu dix des onze recours et procès intentés ; les tribunaux ont reconnu que ses terrains constituaient des terrains enclavés sans façade sur rue et ne pouvaient pas être reconstruits indépendamment. En 2013, la Cour constitutionnelle a déclaré inconstitutionnels les procédures d'examen sommaire et d'audience publique de la Loi sur la rénovation urbaine par l'interprétation n° 709. L'affaire s'est conclue par un règlement à l'amiable, mais la question « la majorité peut-elle disposer de la propriété de la minorité » n'a toujours pas de réponse standard."
+title: "Controverse sur le renouvellement urbain : après l'affaire Wenlin Yuan, comment Taïwan gère-t-elle les « propriétaires dissidents » ?"
+description: "Le 28 mars 2012, la municipalité de Taipei a procédé à la démolition forcée du projet Wenlin Yuan à Shilin. Les maisons légales de deux familles de la famille Wang se sont effondrées devant des centaines de partisans, marquant la plus grande controverse de l'histoire du renouvellement urbain à Taïwan. Après onze recours administratifs et judiciaires, la famille Wang a perdu dix fois ; les tribunaux ont statué que leur terrain était un terrain en cul-de-sac ne bordant pas la ligne de construction, rendant toute reconstruction individuelle impossible. En 2013, le Grand Conseil des interprétations a toutefois déclaré inconstitutionnels les procédures sommaires d'examen et d'audience de la loi sur le renouvellement urbain (Interprétation n° 709). L'affaire s'est finalement conclue par un accord, mais la question de savoir si « la règle de la majorité peut disposer du patrimoine d'une minorité » n'a toujours pas de réponse définitive."
 date: 2026-10-18
 category: 'Society'
 tags:
   [
-    'rénovation urbaine',
+    'renouvellement urbain',
     'Wenlin Yuan',
-    'justice du logement',
-    'interprétation n° 709',
-    'Loi sur la rénovation urbaine',
+    'justice résidentielle',
+    'Interprétation n° 709',
+    'Loi sur le renouvellement urbain',
     'Taipei',
   ]
 subcategory: '人權與平等'
@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:02+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T08:06:08.222274+00:00'
 ---
 
 # Controverse sur la rénovation urbaine : après Wenlin Yuan, comment Taïwan gère-t-elle les « propriétaires non consentants » ?
@@ -81,18 +81,19 @@ Le 28 mai, Wang Guangshu, après avoir perdu dix procès et face à une demande 
 
 Il est à noter que les « victimes » de cette affaire ne se limitaient pas à la famille Wang. Les propriétaires consentants n'ont pas pu rentrer chez eux pendant la protestation, et selon certains rapports, sept résidents âgés consentants sont décédés avant l'achèvement de l'immeuble.[^1] C'est aussi la plus grande différence entre Wenlin Yuan et les protestations ordinaires contre la démolition : ce n'était pas une opposition entre le gouvernement et les résidents, mais plutôt une communauté divisée en deux après la protestation, les deux côtés payant un prix.
 
-## Ce que le système a laissé
+## Ce que le système a laissé derrière lui
 
-La Loi sur la rénovation urbaine a été promulguée le 11 novembre 1998 et est entrée en vigueur le 13 novembre ; c'est la loi spéciale de Taïwan sur la rénovation urbaine.[^4] Selon les statistiques de la Fondation de recherche et de développement sur la rénovation urbaine, de 2000 à la fin de 2020, un total de 751 projets de reconstruction approuvés en vertu de cette loi ont été enregistrés à Taïwan, couvrant une superficie totale de 242,70 hectares, et 150 projets d'amélioration et de maintenance ont été approuvés.[^4] La loi a été modifiée douze fois au 13 novembre 2024.[^4]
+La 《Loi sur la rénovation urbaine》, promulguée le 11 novembre 1998 et entrée en vigueur le 13 novembre, est la loi spéciale régissant la rénovation urbaine dans notre pays. [^4] Selon les statistiques de la Fondation pour la recherche et le développement de la rénovation urbaine, entre l'an 2000 et la fin de l'année 2020, un total de 751 projets de reconstruction ont été approuvés dans toute l'île de Taïwan sur la base de cette loi, couvrant une superficie totale de 242,70 hectares, tandis que 150 projets de maintenance et de rénovation globale ont été approuvés. [^4] Au 13 novembre 2024, la loi a déjà fait l'objet de douze amendements. [^4]
 
-Après les modifications, le traitement des propriétaires non consentants a ajouté une étape procédurale : la Commission d'examen de la rénovation urbaine doit reconnaître la rationalité de la zone de rénovation, et une audience publique doit être tenue en cas de controverse. La controverse relative à la « démolition d'office » a également changé du « décision du gouvernement municipal » à la « décision du tribunal ».[^1] Ces dispositions répondent aux préoccupations fondamentales de l'interprétation n° 709, mais ne répondent pas à la question plus fondamentale : lorsque les intérêts de propriété de la majorité entrent en conflit avec la volonté de résidence de la minorité, de quel côté la loi devrait-elle se ranger.
+Après les modifications législatives, le traitement des ménages dissidents est passé par une étape supplémentaire : le Conseil de révision de la rénovation urbaine doit désormais attester du caractère raisonnable du périmètre de rénovation, et des audiences doivent être organisées en cas de litige. La controverse concernant les démolitions effectuées pour le compte d'autrui est également passée d'un système où « la municipalité avait le dernier mot » à un système de décision judiciaire. [^1] Ces dispositifs répondent aux préoccupations centrales de l'interprétation n° 709 de la Cour constitutionnelle, mais ils ne répondent pas à une question plus fondamentale : lorsque les intérêts patrimoniaux de la majorité entrent en conflit avec la volonté de résidence d'une minorité, de quel côté la loi doit-elle se placer ?
 
-La réponse du cas Wenlin Yuan est « majorité plus garanties procédurales ». Cette réponse a permis à la rénovation urbaine à Taïwan de se rétablir lentement après l'arrêt de 2012, et a également rendu le processus d'examen de chaque projet de rénovation urbaine plus long et plus coûteux. Le coût est partagé par tous, y compris ceux qui voulaient simplement rentrer chez eux, mais ont dû attendre plus de quatre ans.
+La réponse apportée par l'affaire Wenlin Yuan est celle de « la règle de la majorité assortie de garanties procédurales ». Cette réponse a permis à la rénovation urbaine à Taïwan de sortir progressivement de l'immobilisme observé depuis 2012, mais elle a également rendu le processus d'examen de chaque projet de rénovation plus long et plus coûteux. Le coût est partagé par tous, y compris par les ménages consentants qui ne souhaitaient que rentrer chez eux, mais qui ont dû attendre plus de quatre ans.
 
 **Lectures complémentaires** :
 
-- [Logements sociaux et justice du logement](/fr/society/social-housing-and-housing-justice) — Une autre voie de politique du logement en dehors du marché immobilier
-- [Logements nationaux et justice du logement](/fr/society/public-housing-justice) — L'histoire de la politique des logements nationaux, de la construction à l'arrêt
+- [Prix de l'immobilier, prêts hypothécaires et prêt pour l'accession à la propriété à Taïwan](/housing/) — Page thématique : replacer la rénovation urbaine dans le cadre global du système de logement (prêts, taxes, transactions foncières et offre de logements).
+- [Logements sociaux et justice résidentielle](/fr/society/social-housing-and-housing-justice) — Une autre voie de politique de logement en dehors du marché immobilier.
+- [Logements publics et justice résidentielle](/fr/society/public-housing-justice) — L'histoire de la politique des logements publics, de leur construction à l'arrêt de leur programme.
 
 ## Références
 

@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:49+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T08:19:30.429650+00:00'
 ---
 
 # Budget du gouvernement central : comment se répartissent les trois mille milliards, et où le Yuan législatif a-t-il réduit ?
@@ -106,20 +106,21 @@ Le règlement des comptes des dépenses 2025 s'élève à NT$2,9340 billion, com
 
 Ces chiffres illustrent une chose : une réduction budgétaire ne signifie pas nécessairement que moins d'argent a été dépensé ; un budget plus élevé ne signifie pas non plus que tout l'argent a été dépensé. La réduction intervient au stade de l'examen, le taux d'exécution intervient au stade du règlement des comptes ; ce sont deux questions différentes.
 
-## Quatre méthodes de calcul, quatre questions
+## Quatre perspectives, quatre questions
 
-En rassemblant les sections précédentes, la lecture du budget du gouvernement central nécessite de distinguer au moins quatre méthodes de calcul.
+En rassemblant les paragraphes ci-dessus, lire le budget général du gouvernement central nécessite au minimum de distinguer quatre perspectives.
 
-Le chiffre budgété répond à la question « combien le Conseil exécutif veut-il ? », le chiffre légal répond à « combien le Yuan législatif accorde-t-il ? », le chiffre des dépenses réelles répond à « combien a-t-on finalement dépensé ? », et le budget spécial répond à « quel argent n'est pas dans le budget général ? » Les quatre chiffres peuvent tous être « trois mille milliards », mais aucun ne peut seul répondre à la question « le gouvernement dépense-t-il trop ou trop peu ? »
+Le montant inscrit demande « combien le Yuan exécutif souhaite-t-il », le montant voté demande « combien le Yuan législatif accorde-t-il », le montant du règlement des comptes demande « combien a-t-on finalement dépensé », le budget spécial demande « quels fonds ne figurent pas dans le budget général ». Ces quatre chiffres peuvent tous s'élever à « NT$3 000 milliards », mais aucun ne peut répondre seul à la question « le gouvernement dépense-t-il trop ou trop peu ».
 
-C'est aussi pourquoi les débats annuels sur le budget ne suscitent généralement pas beaucoup d'intérêt : une partie cite les NT$949,5 milliards de défense, l'autre cite les NT$697,3 milliards de défense, les deux ont raison, mais personne ne dialogue sur la même base de calcul.
+C'est aussi la raison pour laquelle les actualités budgétaires annuelles prêtent facilement à controverse : l'une des parties sort le chiffre de NT$949,5 milliards pour la défense, l'autre sort NT$697,3 milliards pour la défense, les deux ont raison, mais personne ne dialogue sur la même perspective.
 
-**Lectures complémentaires :**
+**Lectures complémentaires** :
 
-- [Budget décennal](/budget) — Graphiques interactifs des dossiers par ministère, par catégorie de politique publique et des réductions et gels au fil des années, page de données sœur de cet article
-- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — Les budgets de défense derrière la construction militaire et les acquisitions
-- [Mécanisme taïwanais de fixation des prix du pétrole et Taiwan Oil Corporation](/fr/economy/taiwan-fuel-pricing-and-cpc) — Un autre mécanisme de prix déterminé par une formule légale et un comité d'examen
-- [Taiwan Content Agency](/fr/economy/taiwan-creative-content-agency) — Un cas de budget culturel et de transformation en personne morale
+- [Budget général sur dix ans](/budget) — graphiques interactifs des historiques par organe, par fonction et des gels/réductions annuels, page sœur de données du présent article
+- [Salaire, impôts et retraite](/income/) — l'autre bout du budget : comment l'impôt est calculé depuis un salaire, avec simulateur d'impôt sur le revenu
+- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — construction des forces et acquisitions derrière le budget de la défense
+- [Mécanisme de prix du carburant à Taïwan et CPC](/fr/economy/taiwan-fuel-pricing-and-cpc) — un autre mécanisme de prix décidé par formule légale et comité de révision
+- [Institut de stratégie des contenus culturels](/fr/economy/taiwan-creative-content-agency) — budget culturel et cas de transformation en personne morale
 
 ## Références
 

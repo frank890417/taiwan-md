@@ -2,9 +2,7 @@
 title: "Transformation et montée en gamme de l'industrie à Taïwan : d'une puissance manufacturière à une puissance d'innovation"
 description: "La structure industrielle de Taïwan est passée d'un modèle intensif en main-d'œuvre à un modèle intensif en connaissances, favorisé par des politiques telles que le plan d'innovation industrielle 5+2 et les 6 industries stratégiques clés, propulsant la modernisation du secteur manufacturier traditionnel et le développement des industries émergentes."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'économie',
@@ -14,16 +12,18 @@ tags:
     'industrie manufacturière',
     'haute technologie',
   ]
+subcategory: '經濟發展'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
-featured: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-25T12:45:17+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-11-19T07:34:00.472485+00:00'
 ---
 
 # Transformation et montée en gamme de l'industrie à Taïwan : d'une puissance manufacturière à une puissance d'innovation
@@ -220,15 +220,14 @@ Séparée d'UMC en 1997, MediaTek a commencé par les puces de stockage optique 
 
 ## Lectures complémentaires
 
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'accord technologique RCA en 1976 à la domination de 60 % du marché mondial en 2024.
-- [Morris Chang](/fr/people/tsmc-morris-chang) — Figure clé ayant fondé TSMC en 1987 et moteur de l'essor des semi-conducteurs taïwanais.
-- [Shi Chun-young](/fr/people/stan-shih) — Auteur de la théorie de la courbe du sourire : un appel à sortir du milieu de la fabrication.
-- [Commerce extérieur de Taïwan et chaînes mondiales](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Trajectoire des devises des zones d'exportation jusqu'aux semi-conducteurs en 2024.
-- [Écosystème de start-ups](/fr/economy/taiwan-startup-ecosystem-overview) — Une autre voie vers la puissance d'innovation via les startups et le secteur fabless.
-- [Développement et stratégie de l'IA à Taïwan](/fr/technology/artificial-intelligence-development-strategy) — La prochaine vague après 2024 : du matériel vers les applications IA.
-- [Programme de leadership entrepreneurial SLP Taipei](/fr/economy/slp-taipei-startup-leadership-program) — Un programme d'entraînement qui illustre la professionnalisation de l'écosystème des start-ups.
-
----
+- [Spécial industrie de Taïwan](/industry/) — Dessiner la structure industrielle avec les statistiques officielles : 70 ans d'exportations et de PIB, parcs scientifiques, usines par comtés et villes, top 10 des capitalisations boursières par année, plus les arguments des six débats publics
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Du transfert technologique de RCA en 1976 à 60 % de part de marché mondiale en 2024, comment l'industrie née au parc scientifique de Hsinchu est devenue la « montagne sacrée protectrice du pays » («護國神山»)
+- [Chang Chung-mou](/fr/people/tsmc-morris-chang) — Figure clé ayant fondé TSMC en 1987, artisan central de l'industrie taïwanaise des semi-conducteurs partie de zéro
+- [Shih Chen-jung](/fr/people/stan-shih) — Auteur de la courbe du sourire : tracer la ligne pour faire sortir Taïwan du segment médian de la sous-traitance, mais miser sa fortune sur TSMC qui fait de la « fabrication du segment médian » («中段製造»)
+- [Commerce extérieur de Taïwan et chaîne d'approvisionnement mondiale](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — De la devise des zones de traitement à l'exportation à la locomotive des exportations de semi-conducteurs en 2024, une trajectoire de long terme
+- [Écosystème des start-ups](/fr/economy/taiwan-startup-ecosystem-overview) — De la transformation de l'industrie manufacturière à une autre voie vers une puissance de l'innovation : développement des start-ups et des semi-conducteurs fabless après les années 1990
+- [Développement de l'IA à Taïwan et stratégies futures](/fr/technology/artificial-intelligence-development-strategy) — Prochaine vague de transformation industrielle post-2024 : de l'hégémonie matérielle à l'implantation stratégique des applications d'IA
+- [Programme de leadership entrepreneurial SLP Taipei](/fr/economy/slp-taipei-startup-leadership-program) — Programme de formation entrepreneuriale dont le coût unique passe de NT$6 000 à NT$58 000, sa courbe de coûts étant elle-même l'étalon physique du passage de l'écosystème taïwanais des start-ups du stade naissant à l'institutionnalisation
 
 ## Références
 
