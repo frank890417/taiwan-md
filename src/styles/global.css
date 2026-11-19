@@ -441,10 +441,10 @@
 
   .floating-md {
     position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    width: 48px;
-    height: 48px;
+    bottom: var(--fab-edge);
+    right: var(--fab-edge);
+    width: var(--fab-size);
+    height: var(--fab-size);
     background: var(--color-ink);
     color: var(--color-accent);
     border-radius: 12px;
@@ -478,11 +478,9 @@
     body.page-default > main#main-content {
       padding-top: var(--header-h, 53px);
     }
+    /* 位置與尺寸跟著 tokens.css 的 --fab-* 走（手機斷點 640px 統一在那裡），
+       這裡只收字級。原本 42×42 小於 44 的觸控下限，已改由 token 給 44。 */
     .floating-md {
-      bottom: 1rem;
-      right: 1rem;
-      width: 42px;
-      height: 42px;
       font-size: 0.78rem;
     }
   }

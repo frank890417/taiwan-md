@@ -61,7 +61,7 @@ SURFACE=(
 #          正值長條會貼到版面邊緣而不是零線。
 #      (b) 資料軸要不要跟著鏡像是設計決策不是機械替換（RTL 出版慣例兩派都有），
 #          該由維護者定調；只翻標籤不翻軌道會比現狀更亂。
-# 2. 浮動層 .floating-md（src/styles/global.css:433,479）+ ReaderSettings.astro
+# 2. 浮動層 .floating-md（src/styles/global.css:445）+ ReaderSettings.astro
 #    + FeedbackWidget.astro（2026-07-26 掛號）：三者現在分坐左右下角，必須同一
 #    次一起鏡像，否則 RTL 下會疊在一起。要一個完整的 pass，不適合夾在本 PR。
 # 3. src/styles/dark-polish.css:1433 `.resources-page .featured-card`
@@ -165,8 +165,7 @@ ALLOWLIST=(
 # 「這裡本來就這樣」。還清就刪掉那一行——沒刪的話下面的對賬會叫。
 # 格式：<path>|<宣告文字>|<掛號日>|<理由>
 DEBT=(
-  "src/styles/global.css|right: 2rem|2026-07-26|.floating-md 屬浮動層，要跟 ReaderSettings / FeedbackWidget 同批鏡像，否則 RTL 下三者疊在一起"
-  "src/styles/global.css|right: 1rem|2026-07-26|同上（手機斷點）"
+  "src/styles/global.css|right: var(--fab-edge)|2026-07-26|.floating-md 屬浮動層，要跟 ReaderSettings / FeedbackWidget / ProticoScript 同批鏡像，否則 RTL 下疊在一起（2026-11-19 位置改讀 --fab-* token，手機斷點那行併入 token 已刪）"
 )
 
 ALLOW_HIT=""

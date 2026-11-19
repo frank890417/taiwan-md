@@ -60,3 +60,36 @@ const { lazy = false } = Astro.props;
     else window.addEventListener('load', whenIdle, { once: true });
   })();
 </script>
+
+<style is:global>
+  /* 讓 Protico 坐在我們右下角那一列浮動鈕的正上方（2026-11-19）。
+   *
+   * Protico 用 inline style 自己定位，正式站量到兩種版型，都是貼右下角：
+   *   1. #proticoButtonContainer：bottom 100px、right 40px、z-index 10000
+   *      （桌機首頁；聊天面板另用 #proticoFrameSpan 從頂端撐滿右側，那個不動）
+   *   2. #proticoFrameSpan.protico-community-lobby：bottom 75px、right 18px、
+   *      z-index 9999（關於頁、手機），聊天框 340×500 從按鈕往上長
+   * 兩種的預設位置都跟回到頂端／Aa／.md 那一列撞在一起。這裡只改 bottom 與
+   * right（!important 才蓋得過 inline style），改成從 tokens.css 的 --fab-clear
+   * 起算：桌機 92px、手機 70px，正好在我們那一列上緣再加一個間距。
+   * 只抓 inline style 裡有 bottom 的 #proticoFrameSpan，避開版型 1 的側欄面板。
+   * 實體方向：跟整個浮動層一起留在右下（check-rtl-safe-css.sh 已知債第 2 項）。 */
+  #proticoButtonContainer,
+  #proticoFrameSpan[style*='bottom:'] {
+    bottom: var(--fab-clear) !important;
+    right: var(--fab-edge) !important;
+  }
+
+  /* 閱讀設定面板從那一列往上展開，跟 Protico 佔同一塊；面板開著時先把 Protico
+     收起來，關掉面板就回來。 */
+  html:has(#reader-settings-panel:not([hidden])) #proticoButtonContainer,
+  html:has(#reader-settings-panel:not([hidden]))
+    #proticoFrameSpan[style*='bottom:'] {
+    visibility: hidden !important;
+  }
+
+  html[data-shot='1'] #proticoButtonContainer,
+  html[data-shot='1'] #proticoFrameSpan {
+    display: none !important;
+  }
+</style>
