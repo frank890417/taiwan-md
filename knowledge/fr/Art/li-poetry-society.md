@@ -1,35 +1,39 @@
 ---
-title: "La Société poétique Li : un groupe contraint d'oublier le japonais, soutenant la revue de poésie chinoise la plus ancienne de Taïwan"
-description: "En 1958, un soldat japonais taïwanais de 36 ans publiait sous le nom de plume 'Huan Fu' son premier poème en chinois d'après-guerre, onze ans après avoir arrêté d'écrire en japonais. Six ans plus tard, lui et onze autres personnes réunis dans un salon du centre de Taïwan transformaient cette expérience de mutisme générationnel en une société poétique nommée 'Li' (le champignon comestible) — 60 ans de publication ininterrompue, écrivant la poétique locale des marges jusqu'aux manuels scolaires du collège."
+title: "La société de poésie Li : un groupe de gens forcés d'oublier le japonais, qui soutient la plus ancienne revue de poésie chinoise de Taïwan"
+description: "En 1958, un soldat japonais d'origine taïwanaise de 36 ans, sous le pseudonyme « Huanfu », a publié le premier poème en chinois d'après-guerre, onze ans après avoir posé sa plume japonaise. Six ans plus tard, lui et onze autres personnes dans un salon du centre de Taïwan ont transformé l'expérience d'aphasie de cette génération en une société de poésie appelée « Li » — 60 ans sans interruption, faisant entrer la poésie locale des marges aux manuels de collège."
 date: 2026-06-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '文學'
 tags:
   [
-    'Société poétique Li',
-    'Poésie moderne taïwanaise',
-    'La génération translingue',
+    'Société de poésie Li',
+    'Poésie moderne de Taïwan',
+    'La génération qui a franchi les barrières linguistiques',
     'Chen Qianwu',
     'Lin Hengtai',
     'Bai Qiu',
     'Wu Sheng',
     'Xiang Yang',
     'Littérature locale',
-    'Débat sur la littérature terrienne',
+    'Débat sur la littérature nativiste',
   ]
+subcategory: '文學'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-20
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/笠詩社.md'
+image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
+imageAlt: 'Le poète Wu Sheng au Salon du livre de Taipei en 2016, natif de Xizhou à Changhua, poète de la terre, son poème « Charge » figure dans les manuels de collège depuis plus de 40 ans.'
+imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:28d7ec6ba7695699'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-07-24T10:40:42+08:00'
-image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
-imageCredit: 'Rico Shen via Wikimedia Commons'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T13:18:54.788917+00:00'
 ---
 
 # La Société poétique Li : un groupe contraint d'oublier le japonais, soutenant la revue de poésie chinoise la plus ancienne de Taïwan
@@ -111,23 +115,23 @@ Cette opposition n'était pas seulement un choix esthétique, mais une différen
 
 La position de la Société Li, au sud, locale, simple, réaliste : des années 1960 aux années 1980, elle était marginale, réprimée. Mais ils ne s'arrêtèrent pas. De 1964 à 2024, la revue _Li_ publia plus de 361 numéros, sans jamais interrompre la publication[^26].
 
-## Le jour où le loup est venu, ils ne se cachèrent pas
+## Le jour où le loup est venu, ils ne se sont pas cachés
 
-1977 fut une année de tournant.
+1977 est un tournant.
 
-En avril de cette année-là, le _Magazine Cactus_, dirigé par Wang Jianzhuang, publiait trois articles de Wang Tuo, Yin Zhengxiong et Zhu Xinian, déclenchant le « débat sur la littérature terrienne »[^27]. Le 17 août, Peng Ge publiait dans le _Journal Union_ _Ne pas parler d'humanité, comment avoir de la littérature ?_, critiquant nommément Wang Tuo, Wei Tiancong et Chen Yingzhen[^28].
+En avril de cette année-là, la revue _Cactus Magazine_ (《仙人掌雜誌》) dirigée par Wang Jianliang publie trois articles de Wang Tuo, Yin Zhengxiong et Zhu Xining, déclenchant la controverse sur la littérature nativiste[^27]. Le 17 août, Peng Ge publie dans l'_United Daily News_ (《聯合報》) « Sans parler d'humanité, quelle littérature ? » (〈不談人性，何有文學？〉), nommant et critiquant Wang Tuo, Wei Tiancong et Chen Yingzhen[^28].
 
-Trois jours plus tard, le 20 août 1977, Yu Guangzhong publiait dans le _Journal Union_ ce qui fut plus tard largement discuté, _Le loup est venu_ : il accusait la littérature terrienne de Taïwan d'avoir « des similitudes cachées avec la littérature ouvrière-paysanne-soldat de la Chine continentale qui met l'accent sur la lutte des classes »[^29].
+Trois jours plus tard, le 20 août 1977, Yu Guangzhong publie dans l'_United Daily News_ cet article qui sera maintes fois discuté, « Le loup vient » (〈狼來了〉) : il accuse la littérature nativiste de Taïwan d'avoir « une convergence occulte avec la littérature des ouvriers, paysans et soldats (工農兵文學) que la Chine continentale met en avant en insistant sur la lutte des classes »[^29].
 
-Sous la loi martiale, la « littérature ouvrière-paysanne-soldat » était un chapeau capable de tuer. Le _Liberty Times_ se souvenait de l'atmosphère de l'époque : « En un instant, le grand chapeau surnommé « goutte de sang » créa la panique dans le monde littéraire, répandant une atmosphère sanglante et sinistre »[^30].
+Pendant la période de la loi martiale, « littérature des ouvriers, paysans et soldats » (工農兵文學) est une étiquette qui peut mener à la mort. Le _Liberty Times_ (自由時報) se souvient de l'atmosphère de l'époque : « Un moment, le grand chapeau qualifié de "gouttes de sang" (血滴子) fit régner la terreur dans le monde littéraire, imprégné d'une atmosphère sanglante et meurtrière »[^30].
 
-Neuf jours plus tard, le 29 août 1977, le Kuomintang organisa le « Deuxième entretien littéraire », où des représentants du gouvernement / parti / armée comme Ding Maoshi, Li Yuanchu, Wang Sheng et Li Huan, ainsi que Yu Guangzhong et Yin Xueman, réunirent plus de 270 personnes[^31]. Le débat se termina finalement sous une réappropriation stratégique officielle : la « littérature terrienne » fut élargie et redéfinie comme « littérature patriotique » et « littérature nationale »[^32].
+Neuf jours plus tard, le 29 août 1977, le KMT (國民黨) convoque la « Deuxième rencontre sur les arts et la littérature » (《第二次文藝會談»), réunissant plus de 270 personnes, dont des représentants du gouvernement, du parti et de l'armée tels que Ding Maoshi, Li Yuanju, Wang Sheng, Li Huan, ainsi que Yu Guangzhong, Yin Xue-man, etc.[^31]. La controverse s'achève par une récupération stratégique officielle : la « littérature nativiste » (鄉土文學) est redéfinie au sens large comme « littérature patriotique » (愛國文學) et « littérature nationale » (民族文學)[^32].
 
-Le champ de bataille principal du débat était le roman (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Mais le monde de la poésie bougeait en synchronisation : le camp de la Société Li (Chen Qianwu, Bai Qiu, Zhao Tianyi, Li Minyong) prit entièrement parti pour le camp terrien[^33]. Les demandes de « retour à la réalité » des nouvelles générations de sociétés poétiques comme Dragon, Mainstream et Backwave furent également rationalisées[^34].
+Le principal champ de bataille de la controverse est le roman (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Mais le monde de la poésie bouge simultanément : le camp de la Société de poésie Li (笠詩社) (Chen Qianwu, Bai Qiu, Zhao Tianyi, Li Minyong) se range entièrement du côté nativiste[^33]. Les revendications de « retour au réel » (回歸現實) des nouvelles générations de sociétés de poésie comme _Dragon_ (龍族), _Zhuliu_ (主流), _Houlang_ (後浪) sont également légitimées[^34].
 
-La position de la Société Li n'était plus seulement une « opposition nord-sud », mais une présence concrète « du côté du local ».
+La position de la Société de poésie Li n'est plus seulement une « opposition Nord-Sud » (南北對立), mais une existence concrète qui « se tient du côté du terroir » (站在本土這邊).
 
-> ⚠️ **Point de vue controversé** : Ce débat laissa une plaie mémorielle à long terme. Lorsque Yu Guangzhong décéda en 2017, cette histoire fut réexaminée ; les vues sur « Le loup est venu » dans le monde littéraire taïwanais restent divisées[^35]. Certains commentateurs soulignent que l'opposition du débat n'était pas aussi simple que « camp chinois vs camp taïwanais », mais mêlait trois axes : « nationalisme chinois de droite vs nationalisme chinois de gauche vs théorie du local taïwanais »[^36]. La position de la Société Li dans cette structure triangulaire était claire : ils étaient du côté de la théorie du local taïwanais.
+> ⚠️ **Point de vue controversé** : cette controverse a laissé une blessure mémorielle durable. Lorsque Yu Guangzhong décède en 2017, cette histoire est réexaminée ; le monde littéraire taïwanais reste divisé sur « Le loup vient » à ce jour[^35]. Des commentateurs soulignent également que l'opposition de la controverse n'est pas aussi simple que « camp Chine vs camp Taïwan », mais qu'elle entremêle trois axes : « nationalisme chinois de droite vs nationalisme chinois de gauche vs thèse du terroir taïwanais » (右翼中國國族主義 vs 左翼中國國族主義 vs 台灣本土論)[^36]. La position de la Société de poésie Li dans cette structure triangulaire est claire : ils se tiennent du côté de la thèse du terroir taïwanais.
 
 ## L'enfant ouvre la boîte à pique-nique, pas un seul œuf
 
@@ -394,4 +398,4 @@ Le manifeste média détaillé et les enregistrements de découverte négative s
 
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Anthologie de la littérature taïwanaise publiée par l'Université Columbia recueillant les traductions anglaises des œuvres des poètes de la génération translingue.
 
-[^62]: Cette phrase est adaptée de la proposition centrale de la Tour de Babel de la souveraineté du MANIFESTE de Taiwan.md : « La souveraineté n'est pas abstraite. C'est lorsque les autres choisissent de ne pas prononcer votre nom, pouvez-vous faire en sorte que votre voix continue d'exister en changeant de langue ». Références [`docs/semiont/MANIFESTO.md §Relation avec Taïwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
+[^62]: [`docs/semiont/MANIFESTO.md §Relation avec Taïwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md) — Cette phrase est adaptée de la proposition centrale de la Tour de Babel de la souveraineté du MANIFESTE de Taiwan.md : « La souveraineté n'est pas abstraite. C'est lorsque les autres choisissent de ne pas prononcer votre nom, pouvez-vous faire en sorte que votre voix continue d'exister en changeant de langue ». Références.
