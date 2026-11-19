@@ -188,8 +188,6 @@ export const homeUI = {
     'home.tools.map.desc':
       '{count} articles pinned to the map. Start from a place you know.',
     'home.categories.eyebrow': 'Browse by subject',
-    'home.hall.thumb.north': 'N',
-    'home.hall.thumb.south': 'S',
     'home.hall.thumb1.caption':
       '{count} articles can be placed on the map. Bigger dots mean more articles nearby; the bars count them from north to south.',
     'home.hall.thumb1.outside':
@@ -1825,8 +1823,6 @@ export const homeUI = {
     'home.tools.map.name': '地圖',
     'home.tools.map.desc': '{count} 篇文章標在地圖上，從你熟的地方開始讀。',
     'home.categories.eyebrow': '照主題找',
-    'home.hall.thumb.north': '北',
-    'home.hall.thumb.south': '南',
     'home.hall.thumb1.caption':
       '{count} 篇文章標得出地點。點越大，那一帶的文章越多；右邊的長條是由北到南的篇數。',
     'home.hall.thumb1.outside': '金門 {kinmen} 篇、馬祖 {matsu} 篇不在圖上。',

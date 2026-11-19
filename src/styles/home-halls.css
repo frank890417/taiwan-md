@@ -1,41 +1,14 @@
 /**
- * home-halls.css — 四展廳策展散文的樣式：展廳標籤、散文、主題藥丸、精選文章卡、
- * 展廳之間的橋段。首頁（大廳）與展廳頁共用。
+ * home-halls.css — 四展廳策展散文的樣式：散文、主題藥丸、精選文章卡。
+ * 首頁（大廳的入口卡）與展廳頁共用。
  *
  * 2026-11-19 首頁第二期：從 home.template.astro 的 <style> 逐條搬過來（原本用
  * :global() 寫在樣板裡，因為中文散文在樣板、英文散文在子元件，兩邊要共用）。
- * 規則本身沒有改；深色模式的對應在 dark-polish.css（選擇器掛在 .home-page 底下，
+ * 散文、藥丸、精選卡的規則沒有改。原本首頁上「壹 — 這座島長什麼樣」那種兩側帶
+ * 線的展廳標籤與展廳之間的橋段，版面已經換成入口卡與展廳頁的走廊，那幾條規則
+ * 跟著拿掉了。深色模式的對應在 dark-polish.css（選擇器掛在 .home-page 底下，
  * 展廳頁的最外層也帶 .home-page）。
  */
-
-/* ── Exhibition hall card pattern (repeats × 8) ──────────────── */
-.hall-divider {
-  display: flex;
-  align-items: center;
-  margin: 4rem 0 2.5rem;
-}
-.exhibition-hall:first-child .hall-divider {
-  margin-top: 1rem;
-}
-.hall-line {
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(45, 80, 22, 0.25),
-    transparent
-  );
-}
-.hall-label {
-  padding: 0 1.5rem;
-  font-family: 'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-  font-size: 1.15rem;
-  font-weight: 300;
-  color: #1a3c34;
-  letter-spacing: 0.15em;
-  white-space: nowrap;
-}
 
 /* Hall prose (same as original explore-prose) */
 .hall-body {
@@ -75,6 +48,18 @@
 }
 .hall-body a:hover {
   color: #2d5016;
+}
+
+/* 段落裡的主題藥丸：看起來的大小不變，可以點的範圍上下各多出一點（44px） */
+.hall-body a.topic-pill {
+  position: relative;
+}
+
+.hall-body a.topic-pill::after {
+  content: '';
+  position: absolute;
+  inset-block: -0.4rem;
+  inset-inline: 0;
 }
 
 /* Pick cards (exhibition specimens — 延伸閱讀 style) */
@@ -140,68 +125,11 @@
   font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
 }
 
-/* ── Hall bridge (A2, Wave 3 — 3 transitions between halls 1-4) ──── */
-.hall-bridge {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin: 3.5rem 0 1rem;
-  opacity: 0.7;
-}
-.hall-bridge-line {
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(45, 80, 22, 0.15),
-    transparent
-  );
-}
-.hall-bridge-text {
-  font-family: 'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-  font-size: 0.92rem;
-  font-style: italic;
-  color: #6b7280;
-  text-align: center;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
-  max-width: 70%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-@media (max-width: 768px) {
-  .hall-label {
-    font-size: 1rem;
-    padding: 0 1rem;
-  }
-  .hall-bridge-text {
-    font-size: 0.82rem;
-    white-space: normal;
-    text-align: center;
-    max-width: 90%;
-  }
-}
 @media (max-width: 480px) {
   .hall-body p {
     font-size: 1rem;
   }
-  .hall-label {
-    font-size: 0.9rem;
-    letter-spacing: 0.08em;
-  }
-  .hall-divider {
-    margin: 3rem 0 2rem;
-  }
   .pick-card {
     width: 100%;
-  }
-  .hall-bridge {
-    margin: 2.5rem 0 0.5rem;
-    gap: 0.5rem;
-  }
-  .hall-bridge-text {
-    font-size: 0.78rem;
   }
 }

@@ -49,11 +49,17 @@ interface Props {
 
 const { headingTag = 'h3' } = Astro.props;
 const Heading = headingTag;
+// 精選文章的標題比卡片標題低一級，標題階層才不會跳級
+const pickTag = headingTag === 'h2' ? 'h3' : 'h4';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const th = useHomeT(lang);
 const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 const arrow = iconSvg('arrow');
+// 每張卡前面輸出一個換行。樣板裡 map 出來的元素會連成同一行，而 i18n-smoke-test.yml
+// 的 B3 是用 `grep -c "exhibition-hall"` 數「有幾行」來認四個展廳；四張卡擠在同一行
+// 會被數成一個。這個換行在 <ul> 裡沒有任何視覺效果。
+const LINE_BREAK = '\n';
 
 const prose = getHallProse(lang);
 // 展廳名跟著散文的語言走：還沒有自己那份散文的語言，展廳名是英文
@@ -87,80 +93,83 @@ const halls = HALL_IDS.map((id) => {
 <ul class="hall-entries">
   {
     halls.map((hall) => (
-      <li class="exhibition-hall hall-entry">
-        <header class="hall-entry-head" lang={nameLang} dir={nameDir}>
-          <span class="hall-entry-numeral" aria-hidden="true">
-            {hall.numeral}
-          </span>
-          <Heading class="hall-entry-title">
+      <>
+        {LINE_BREAK}
+        <li class="exhibition-hall hall-entry">
+          <header class="hall-entry-head" lang={nameLang} dir={nameDir}>
+            <span class="hall-entry-numeral" aria-hidden="true">
+              {hall.numeral}
+            </span>
+            <Heading class="hall-entry-title">
+              <a
+                href={hall.href}
+                class="hall-entry-title-link"
+                data-ga-section="hall_entry"
+                data-ga-label={`hall_${hall.id}_title`}
+              >
+                <span class="sr-only">{hall.numeral} </span>
+                {hall.title}
+              </a>
+            </Heading>
+          </header>
+
+          <HallThumb hall={hall.id} size="card" />
+
+          <HallProse hall={hall.id} limit={1} picks={false} />
+
+          {hall.featured.length > 0 && (
+            <div class="hall-entry-picks">
+              {hall.featured.map((a) => (
+                <ArticleCard
+                  density="row"
+                  href={a.href}
+                  title={a.title}
+                  categoryLabel={cats[a.category]?.name}
+                  categoryIcon={cats[a.category]?.icon}
+                  categoryColor={cats[a.category]?.color}
+                  footnotes={a.footnotes}
+                  titleTag={pickTag}
+                  openIn="same-tab"
+                  stageBadge={false}
+                  extraClass="hall-entry-pick"
+                  dataAttrs={{
+                    'data-ga-section': 'hall_pick',
+                    'data-ga-label': a.category,
+                  }}
+                />
+              ))}
+            </div>
+          )}
+
+          <footer class="hall-entry-foot">
+            {hall.residents.length > 0 && (
+              <p class="hall-entry-residents">
+                <span class="hall-entry-residents-label">
+                  {th('home.lobby.residents')}
+                </span>
+                {hall.residents.map((name) => (
+                  <>
+                    <span class="hall-entry-resident">{name}</span>{' '}
+                  </>
+                ))}
+              </p>
+            )}
             <a
               href={hall.href}
-              class="hall-entry-title-link"
+              class="home-btn home-btn--ghost hall-entry-cta"
               data-ga-section="hall_entry"
-              data-ga-label={`hall_${hall.id}_title`}
+              data-ga-label={`hall_${hall.id}`}
             >
-              <span class="sr-only">{hall.numeral} </span>
-              {hall.title}
-            </a>
-          </Heading>
-        </header>
-
-        <HallThumb hall={hall.id} size="card" />
-
-        <HallProse hall={hall.id} limit={1} picks={false} />
-
-        {hall.featured.length > 0 && (
-          <div class="hall-entry-picks">
-            {hall.featured.map((a) => (
-              <ArticleCard
-                density="row"
-                href={a.href}
-                title={a.title}
-                categoryLabel={cats[a.category]?.name}
-                categoryIcon={cats[a.category]?.icon}
-                categoryColor={cats[a.category]?.color}
-                footnotes={a.footnotes}
-                titleTag="h4"
-                openIn="same-tab"
-                stageBadge={false}
-                extraClass="hall-entry-pick"
-                dataAttrs={{
-                  'data-ga-section': 'hall_pick',
-                  'data-ga-label': a.category,
-                }}
+              {th('home.lobby.enter')}
+              <span
+                class="hall-entry-arrow"
+                aria-hidden="true"
+                set:html={arrow}
               />
-            ))}
-          </div>
-        )}
-
-        <footer class="hall-entry-foot">
-          {hall.residents.length > 0 && (
-            <p class="hall-entry-residents">
-              <span class="hall-entry-residents-label">
-                {th('home.lobby.residents')}
-              </span>
-              {hall.residents.map((name) => (
-                <>
-                  <span class="hall-entry-resident">{name}</span>{' '}
-                </>
-              ))}
-            </p>
-          )}
-          <a
-            href={hall.href}
-            class="home-btn home-btn--ghost hall-entry-cta"
-            data-ga-section="hall_entry"
-            data-ga-label={`hall_${hall.id}`}
-          >
-            {th('home.lobby.enter')}
-            <span
-              class="hall-entry-arrow"
-              aria-hidden="true"
-              set:html={arrow}
-            />
-          </a>
-        </footer>
-      </li>
+            </a>
+          </footer>
+        </li>
+      </>
     ))
   }
 </ul>
