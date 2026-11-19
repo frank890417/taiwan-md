@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-18T00:53:15+08:00'
+translatedAt: '2026-11-19T13:33:41.147119+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Chiang Ching-kuo wurde 1978 Präsident und erklärte am 15. Juli 1987 die Aufhebung des 38-jährigen Kriegsrechts in Taiwan – damit war er zugleich Hüter des autoritären Systems und Architekt der politischen Öffnung. Dieser Beitrag schreibt die Demokratisierung nicht als Gabe eines Einzelnen, sondern legt seine Reformen, staatliche Gewalt und die nach dem Maievents aktive Gesellschaft in eine gemeinsame Kausalitätenkette.
+> **30-Sekunden-Überblick:** Chiang Ching-kuo wurde 1978 Präsident und verkündete am 15. Juli 1987 das Ende des 38-jährigen Kriegsrechts in Taiwan. Diese beiden Ereignisse machten ihn gleichzeitig zum Steuermann eines autoritären Systems und zum Entscheidungsträger für die politische Öffnung. Dieser Artikel betrachtet die Demokratisierung nicht als ein Geschenk einer einzelnen Person, sondern stellt seine Reformen, die staatliche Gewalt und die gesellschaftlichen Bewegungen nach dem Kaohsiung-Incident (Meilidao-Ereignis) in eine gemeinsame Kausalkette.
 
-Am 20. Mai 1978 nahm Chiang Ching-kuo in Taipeh die Eidverpflichtung als Präsident der Republik China (Taiwan) ab; am 15. Juli 1987 wurde das Kriegsrecht in Taiwan, das 38 Jahre lang bestanden hatte, aufgehoben; am 13. Januar 1988 starb er während seiner Präsidentschaft. [^1] Diese drei Daten hintereinander sehen aus wie eine sauber geordnete Fortschrittslinie. Doch Chiang Ching-kuo war kein Mann, der vor dem Kriegsrechtsystem stand und Taiwan eine Tür öffnete – er selbst war einer der Hüter jener Tür.
+Am 20. Mai 1978 wurde Chiang Ching-kuo in Taipeh als Präsident der Republik China (Taiwan) vereidigt; am 15. Juli 1987 wurde das 38 Jahre andauernde Kriegsrecht in Taiwan aufgehoben; am 13. Januar 1988 verstarb er während seiner Amtszeit. [^1] Diese drei Daten nebeneinander wirken wie eine geordnete Linie des Fortschritts. Doch Chiang Ching-kuo war nicht jemand, der außerhalb des Systems des Kriegsrechts stand und Taiwan die Tür öffnete; er selbst war einer der Wächter dieser Tür.
 
-Sein historisches Dilemmum ist daher kein einfaches „Ist Chiang Ching-kuo gut?“-Abstimmungsfrage, sondern lautet: Warum beginnt ein Mann, der einmal ein autoritäres Staatswesen ausübte, in den letzten Jahren seines Lebens die Säulen seiner eigenen Herrschaft zu entfernen? Noch schwieriger ist: Dieser Abriss begann nicht auf einer leeren Fläche. Der Spalt wurde von Chiang geöffnet – doch der Körper, der sich hineinschob und die Tür für immer offen ließ, gehörten eine nach der anderen die mutigen Stimmen der Kriegsrechtsjahre.
+Die historische Herausforderung, die er hinterlässt, ist daher keine bloße Frage nach dem „Gut oder Böse“ von Chiang Ching-kuo, sondern vielmehr: Warum begann ein Mann, der einst einen autoritären Staat führte, in seinen letzten Lebensjahren damit, jene Säulen einzureißen, auf denen seine eigene Herrschaft beruhte? Schwieriger noch ist die Tatsache, dass dieser Abbau nicht bei Null begann. Den Spalt in der Tür stieß er auf, doch es waren die Generationen von Menschen, die während der Ära des Kriegsrechts das Risiko eingingen, laut auszusprechen, was sie dachten, die den Körper durch die Tür drängten und dafür sorgten, dass sie sich nie wieder schließen ließ.
 
 ![Porträt von Chiang Ching-kuo in den 1970er Jahren](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Bild: Audreytude/Wikimedia Commons, CC BY-SA 4.0._
+_Bild: A-do / Wikimedia Commons, CC BY-SA 4.0._
 
 > **📝 Kuratorische Notiz**
-> Die Abschaffung des Kriegsrechts ist bemerkenswert nicht, weil ein Machthaber plötzlich freundlich wurde, sondern weil auch ein Machthaber gezwungen war, einer bereits erwachsen gewordenen Gesellschaft gegenüberzutreten.
+> Die Aufhebung des Kriegsrechts ist deshalb erinnerungswürdig, nicht weil ein starker Mann plötzlich gütig wurde, sondern weil selbst ein solcher Machthaber der wachsenden Gesellschaft gegenüber nicht länger untätig bleiben konnte.
 
 ## Ein Erbe, das in einer Krise antrat
 

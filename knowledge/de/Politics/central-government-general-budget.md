@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:56+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T13:45:10.481809+00:00'
 ---
 
 # Zentralbudget der Regierung: Wie werden drei Billionen NT$ verteilt, wo kürzt das Parlament
@@ -105,20 +105,21 @@ Die Abrechnungsausgaben des Geschäftsjahrs 114 betrugen NT$2,9340 Billionen, ve
 
 Diese Zahlenreihe zeigt eines: Wenn das Budget gekürzt wird, bedeutet das nicht unbedingt, dass weniger Geld ausgegeben wird; wenn das Budget üppig angesetzt wird, bedeutet das auch nicht unbedingt, dass alles ausgegeben wird. Die Kürzung findet in der Prüfungsphase statt, die Ausführungsquote in der Abrechnungsphase – dies sind zwei verschiedene Fragen.
 
-## Vier Rechnungsmethoden, vier Fragen
+## Vier Perspektiven, vier Arten von Fragen
 
-Wenn man die obigen Abschnitte zusammenfasst, muss man beim Lesen des Zentralbudgets der Regierung mindestens vier Rechnungsmethoden unterscheiden.
+Um die Gesamthaushaltspläne der Zentralregierung zu verstehen, muss man mindestens zwischen vier verschiedenen Perspektiven unterscheiden.
 
-Die Ansatzzahl fragt „Wie viel möchte die Exekutive", die gesetzliche Zahl fragt „Wie viel gibt das Parlament", die Abrechnungszahl fragt „Wie viel wurde letztendlich ausgegeben", die Sonderbudgetzahl fragt „Welches Geld ist nicht im Gesamtbudget enthalten". Alle vier Zahlen können „drei Billionen" sein, aber keine kann allein die Frage beantworten, ob die Regierung zu viel oder zu wenig ausgibt.
+Die Budgetplanungszahlen (編列數) fragen: „Wie viel möchte der Exekutivrat (Yuan)?“, die gesetzlichen Zahlen (法定數) fragen: „Wie viel gewährt das Legislative Yuan?“, die Abrechnungszahlen (決算數) fragen: „Wie viel wurde letztendlich ausgegeben?“ und die Sonderbudgets (特別預算) fragen: „Welche Gelder sind nicht im Gesamthaushalt enthalten?“. Alle vier Zahlen können jeweils „drei Billionen“ betragen, aber keine von ihnen allein kann die Frage beantworten, ob die Regierung „zu viel oder zu wenig ausgibt“.
 
-Dies ist auch der Grund, warum die jährlichen Budgetdebatten oft nicht richtig in Gang kommen: Die eine Seite bringt NT$949,5 Milliarden Verteidigungsausgaben vor, die andere Seite NT$697,3 Milliarden, beide haben nicht unrecht, aber niemand führt ein Gespräch auf der gleichen Rechnungsmethode.
+Dies ist auch der Grund, warum sich Budgetnachrichten jedes Jahr oft in hitzigen, aber ergebnislosen Debatten verlieren: Die eine Seite nennt NT$949,5 Milliarden für die Verteidigung, die andere Seite NT$697,3 Milliarden. Beide Seiten haben nicht unrecht; sie führen lediglich keinen Dialog auf derselben Grundlage.
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Zehn Jahre Gesamtbudget](/budget) — Interaktive Grafiken mit historischen Daten nach Behörde, Sachgebiet und Kürzungs- und Einfrierungsprotokollen, die Schwesterseite dieses Artikels
-- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Die Rüstung und Beschaffung hinter dem Verteidigungsbudget
-- [Taiwans Ölpreismechanismus und CPC](/de/economy/taiwan-fuel-pricing-and-cpc) — Ein weiterer Preismechanismus, der durch gesetzliche Formeln und Beratungsgremien bestimmt wird
-- [Taiwan Cultural Content Agency](/de/economy/taiwan-creative-content-agency) — Ein Beispiel für Kulturbudget und Umwandlung in eine juristische Person
+- [Gesamthaushalt über zehn Jahre](/budget) — Interaktive Diagramme zu den jährlichen Aufzeichnungen nach Behörden, Politikbereichen sowie Kürzungen und Streichungen; die ergänzende Datenseite zu diesem Artikel.
+- [Gehalt, Steuern und Rente](/income/) — Die andere Seite des Budgets: Wie Steuern aus einem Gehalt berechnet werden, inklusive eines Rechners für die Einkommensteuer.
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Der Aufbau der Streitkräfte und Beschaffungswesen hinter dem Verteidigungshaushalt.
+- [Taiwans Ölpreismechanismus und CPC](/de/economy/taiwan-fuel-pricing-and-cpc) — Ein weiterer Preismechanismus, der durch gesetzliche Formeln und Gremien festgelegt wird.
+- [Development Center for Cultural, Creative and Motion Industries](/de/economy/taiwan-creative-content-agency) — Ein Fallbeispiel für Kulturhaushalte und die Institutionalisierung als juristische Person.
 
 ## Referenzen
 
