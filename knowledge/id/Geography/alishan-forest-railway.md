@@ -1,153 +1,155 @@
 ---
-title: 'Rel Kereta Api Industri Alishan: 71,6 Kilometer yang Didedikasikan untuk Kayu dan Warisan Budaya'
-description: 'Dibangun pada tahun 1906 dan dibuka pada tahun 1912, Rel Kereta Api Industri Alishan pernah mengangkut kayu hinoki ke Chiayi, dan terhenti selama 15 tahun setelah bencana angin di Molak dan Dujuan. Dengan beroperasi penuh pada tahun 2024, ia bertransformasi dari jalur transportasi penebangan menjadi lanskap budaya. Setelah kereta kembali naik gunung, masalah sebenarnya bukanlah bagaimana menaklukkan hutan, melainkan bagaimana terus beroperasi di tengah bencana, pariwisata, dan konservasi.'
+title: 'Kereta Api Kehutanan Alishan: Sebuah Jalur 71,6 Kilometer yang Dibangun untuk Mengangkut Kayu ke Gunung dan Ditinggalkan sebagai Warisan Budaya'
+description: 'Kereta Api Kehutanan Alishan yang mulai dibangun pada 1906 dan resmi beroperasi pada 1912, pernah mengangkut kayu sipris ke Chiayi, dan juga pernah terhenti selama 15 tahun pasca bencana angin Morakot dan Dujuan. Pada 2024 seluruh jalur kembali beroperasi, ia berubah dari jalur transportasi penebangan menjadi lanskap budaya. Setelah kereta kembali naik ke gunung, masalah sebenarnya bukan bagaimana menaklukkan hutan, melainkan bagaimana terus beroperasi di antara bencana, pariwisata, dan pelestarian.'
+date: 2026-08-20
 category: 'Geography'
-subcategory: '交通與基礎設施'
 tags:
   [
     'Alishan',
-    'Rel Kereta Api Industri',
+    'Kereta Api Kehutanan',
     'Lanskap Budaya',
-    'Kereta Api',
+    'Jalur Kereta Api',
     'Chiayi',
-    'Periode Pemerintahan Jepang',
+    'Masa Pendudukan Jepang',
   ]
-featured: false
+subcategory: '交通與基礎設施'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/阿里山林業鐵路.md'
-sourceCommitSha: 'da79c32b0'
-sourceContentHash: 'sha256:98502e991d7261a6'
-sourceBodyHash: 'sha256:7466cc3940afd368'
-translatedAt: '2026-09-19T01:37:24+08:00'
+sourceCommitSha: 'ef8369eef5'
+sourceContentHash: 'sha256:d2f1e34fdbd007bc'
+sourceBodyHash: 'sha256:c28d645ae239af32'
+translatedAt: '2026-11-19T15:11:28.990647+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Rel Kereta Api Industri Alishan bukanlah sekadar kereta wisata kecil yang mengangkut penumpang untuk melihat matahari terbit. Ia dibangun pada tahun 1906 untuk mengangkut kayu hutan pegunungan ke bawah, dan baru beralih secara bertahap menjadi layanan penumpang dan pariwisata setelah dibuka di Erwanping pada tahun 1912. Bencana angin Molak pada tahun 2009 membuatnya terhenti selama 15 tahun. Hari ini, jalur sepanjang 71,6 kilometer ini menghubungkan dataran Chiayi, pemukiman industri, dan hutan pegunungan. Ketika sebuah rel yang lahir untuk mengeksploitasi hutan menjadi aset budaya, apa sebenarnya yang kita lindungi: relnya, atau seluruh sejarah interaksi antara manusia dan gunung?[^1] [^2] [^3]
+> **Ringkasan 30 detik:** Kereta Api Hutan Alishan bukan sekadar kereta api wisata kecil yang mengangkut penumpang melihat matahari terbit. Rel ini mulai dibangun pada 1906 untuk mengangkut kayu hutan pegunungan ke bawah, pada 1912 sudah mencapai Erwanping, baru kemudian beralih secara bertahap ke angkutan penumpang dan pariwisata. Badai Morakot pada 2009 membuatnya berhenti operasi selama 15 tahun. Hari ini, rute sepanjang 71,6 kilometer ini kembali menghubungkan Dataran Chiayi, permukiman kehutanan, dan hutan pegunungan. Saat sebuah rel yang lahir untuk mengeksploitasi hutan menjadi aset budaya, apakah yang harus kita simpan: rel-relnya, atau seluruh sejarah kehidupan berdampingan antara manusia dan gunung?[^1] [^2] [^3]
 
-![Rel Kereta Api Industri Alishan](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alishan_Forest_Railway.jpg)
+![Kereta Api Hutan Alishan](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alishan_Forest_Railway.jpg)
 
-_Gambar: Rel Kereta Api Industri Alishan. Oleh Naplee12. CC BY-SA 3.0. Lihat halaman gambar dan informasi lisensi di Wikimedia Commons.[^9]_
+_Gambar: Kereta Api Hutan Alishan. Foto oleh Naplee12. CC BY-SA 3.0. Halaman gambar dan info lisensi lihat [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg).[^9]_
 
-## Yang Dilewati Kereta Bukan Pemandangan, Melainkan Perbedaan Ketinggian
+## Yang pertama dilalui kereta api bukan pemandangan, melainkan perbedaan ketinggian
 
-Pada Desember 1912, Rel Alishan yang menghubungkan Chiayi ke Erwanping secara resmi selesai dan dibuka. Stasiun awal berada pada ketinggian sekitar 30 meter, sementara Stasiun Alishan berada di ketinggian 2.216 meter.[^1] [^2] Bergerak dari dataran menuju gunung, kereta melewati lahan pertanian, kemudian memasuki hutan bambu, perkebunan teh, dan hutan dengan berbagai elevasi. Penumpang menyaksikan perubahan pemandangan lapis demi lapis, sementara para insinyur menghadapi tantangan bagaimana menjaga kontinuitas rel di lereng curam, zona patahan, dan hujan.
+Pada Desember 1912, jalur kereta api Alishan dari Chiayi ke Erwanping resmi selesai dan beroperasi. Titik awal kira-kira 30 meter di atas permukaan laut, sedangkan Stasiun Alishan berada pada 2.216 meter. [^1] [^2] Dari dataran rendah menuju gunung, kereta api melewati sawah, lalu memasuki bambusetum, kebun teh, dan hutan pada ketinggian berbeda. Penumpang menyaksikan pemandangan yang berubah lapis demi lapis; insinyur menghadapi bagaimana rel tetap terus-menerus di lereng curam, patahan, dan air hujan.
 
-Jalur ini memiliki panjang operasional sekitar 71,6 kilometer, dan potensi lanskap budayanya melintasi kota Chiayi, kabupaten Chiayi, dan kabupaten Nantou, mencakup rel kereta api, pemukiman, sisa-sisa hutan industri, dan lingkungan alam.[^2] Oleh karena itu, ia bukan sekadar fasilitas transportasi yang terisolasi, melainkan sebuah lanskap budaya memanjang yang menyatukan kota di dataran, pemukiman di gunung, dan zona ekologis.
+Panjang operasional rute ini kira-kira 71,6 kilometer, sedangkan titik-titik potensi lanskap budaya melintasi Kota Chiayi, Kabupaten Chiayi, dan Kabupaten Nantou, mencakup jalur kereta api, pemukiman, bekas hutan produksi, dan lingkungan alam. [^2] Oleh karena itu, ini bukan sekadar sarana transportasi terisolasi, melainkan satu lanskap budaya memanjang yang mengikat kota dataran, pemukiman gunung, dan zona ekologi.
 
-![Rel Kereta Api Industri Alishan DL 36 Berhenti di Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
+![Lokomotif diesel DL 36 Kereta Api Hutan Alishan berhenti di Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_Gambar: DL 36 Rel Kereta Api Industri Alishan berhenti di Beimen. Oleh Industrial Wales. CC BY-SA 2.0. Lihat halaman gambar dan informasi lisensi di Wikimedia Commons.[^10]_
+_Gambar: Lokomotif diesel DL 36 berhenti di Beimen. Penulis Industrial Wales. CC BY-SA 2.0. Halaman gambar dan informasi lisensi lihat [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,%5FAlishan%5FForest%5FRailway%5F%27DL%5F36%27%5Fat%5FBeimen.jpg).[^10]_
 
-Oleh karena itu, "tujuan akhir" dari rel industri Alishan sebenarnya ada beberapa. Bagi wisatawan, tujuannya adalah Stasiun Alishan. Bagi industri kayu pada masa awal, tujuannya adalah ketika kayu tiba di Chiayi dan masuk ke pabrik serta pasar. Sementara bagi lanskap budaya, tujuannya tidak bisa hanya berhenti di peron stasiun, tetapi harus meluas hingga bagaimana pemukiman di sepanjang jalur tersebut masih hidup. Keberagaman tujuan ini membuat perjalanan kereta api bukan sekadar bergerak dari dataran ke ketinggian, tetapi juga berpindah antar periode sejarah Taiwan.
+Itulah sebabnya "ujung" Kereta Api Hutan Alishan sebenarnya ada beberapa. Bagi penumpang, ujungnya adalah Stasiun Alishan. Bagi kehutanan awal, ujungnya adalah kayu tiba di Chiayi lalu masuk pabrik dan pasar. Bagi lanskap budaya, ujungnya tidak boleh berhenti di peron stasiun, tapi harus meluas ke bagaimana pemukiman di sepanjang rute tetap hidup. Ujung ganda ini membuat satu perjalanan kereta tidak hanya dari rendah ke tinggi, tapi juga berpindah antara era-era Taiwan yang berbeda.
 
-Keistimewaan rel industri Alishan tidak hanya terletak pada "pendakian". Ia memiliki sifat sebagai rel hutan, rel pendakian, dan rel pegunungan, menggunakan rel sempit 762 mm, meninggalkan spiral, titik balik (turnback), dan tikungan besar yang diciptakan oleh topografi di sepanjang jalur.[^2] Spiral di Gunung Dindian memungkinkan kereta naik mengikuti kontur gunung. Ketika ruang tidak mencukupi, pembalikan bentuk Z membuat kereta mendapatkan ketinggian dengan pola maju-mundur.
+Keistimewaan Kereta Api Hutan Alishan tidak hanya pada "naik gunung". Ia sekaligus bersifat jalur kereta hutan, jalur kereta pendakian gunung, dan jalur kereta pegunungan tinggi, menggunakan rel sempit 762 milimeter, dan meninggalkan rel spiral, switchback, dan tikungan besar yang lahir karena topografi. [^2] Rel spiral di Bukit Duli memutar-mutari mengikuti lereng gunung agar kereta naik ketinggian. Saat ruang terbatas, switchback berbentuk Z memungkinkan kereta naik dengan cara maju-mundur.
 
-| Tempat yang Dilewati | Jejak Sejarah yang Meninggalkan                                                                    |
-| -------------------- | -------------------------------------------------------------------------------------------------- |
-| Stasiun Beimen       | Stasiun kayu di dataran, terhubung dengan tekstur kota kayu Chiayi.[^2]                            |
-| Gunung Dindian       | Menggunakan jalur spiral untuk mengatasi medan curam dan mendapatkan ketinggian.[^2]               |
-| Fenqi Lake           | Stasiun tengah tempat pertemuan antara pekerjaan industri dan pemukiman pegunungan.[^2]            |
-| Zhaoping, Zhushan    | Transisi dari jalur hutan ke rel pegunungan, menuju perjalanan pariwisata dan matahari terbit.[^2] |
+| Tempat yang Anda lewati | Jejak sejarah yang ditinggalkan                                                                                                   |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Stasiun Beimen          | Stasiun kayu di ujung dataran, terhubung dengan tekstur kota kayu Chiayi. [^2]                                                    |
+| Bukit Duli              | Mengatasi topografi curam dengan rel spiral, memungkinkan kereta mendapatkan ketinggian. [^2]                                     |
+| Fenchihu                | Stasiun tengah tempat pekerjaan kehutanan dan pemukiman gunung bertemu. [^2]                                                      |
+| Zhaoping, Zhushan       | Dari jalur hutan produksi dan jalur kereta pegunungan tinggi, beralih perlahan ke pariwisata dan perjalanan matahari terbit. [^2] |
 
-Tabel ini bukanlah jadwal wisata, melainkan cara membaca rel: setiap nama stasiun merujuk pada jenis topografi, periode sejarah industri, dan cara manusia menetap di gunung.
+Tabel ini bukan rencana wisata, melainkan satu cara membaca kereta api: setiap nama stasiun sekaligus menunjuk pada satu topografi, satu potongan sejarah industri, dan satu cara manusia bertahan di gunung.
 
-> 📝 **Catatan Kurator:** Hal yang paling patut diingat dari rel Alishan bukanlah karena "indah", tetapi karena ia mengubah perbedaan ketinggian menjadi bahasa rekayasa yang dapat dilihat. Hutan di luar jendela berubah lapisan, dan jalur di bawah roda menjawab pertanyaan yang sama: gunung tidak akan memberi jalan bagi rel; rel harus belajar berkelok-kelok.
+> 📝 **Catatan Kurator:** Hal paling patut diingat dari Kereta Api Alishan bukan dia "indah", melainkan dia mengubah perbedaan ketinggian menjadi satu bahasa teknik yang terlihat. Hutan di luar jendela berganti zona, rel di bawah roda juga menjawab pertanyaan yang sama: gunung tidak akan memberi jalan untuk rel, rel hanya bisa belajar memutar.
 
-Kecepatan kereta yang lambat justru membuat hubungan ini mudah terlihat. Ia tidak memadatkan pemandangan gunung menjadi foto di jalan tol, melainkan memungkinkan wisatawan melewati berbagai tipe hutan, stasiun, dan terowongan. Kecepatan ini juga mempertahankan skala asli dari rel industri tersebut. Ini bukan meromantisasi perjalanan lambat, tetapi mengakui bahwa di daerah pegunungan, keamanan, pemeliharaan, dan pengamatan membutuhkan waktu.
+Kereta lambat, justru membuat hubungan ini mudah terlihat. Ia tidak memadatkan pemandangan gunung jadi satu foto di jalan tol, melainkan mengantar penumpang melewati tipe hutan, stasiun, dan terowongan yang berbeda. Kecepatan ini juga mempertahankan skala asal kereta api industri. Ini bukan meromantisasi perjalanan lambat, tapi mengakui di pegunungan, keamanan, perawatan, dan pengamatan semua butuh waktu.
 
-## Ia Awalnya Adalah Jalur yang Mengubah Hutan Menjadi Komoditas
+## Awalnya Ia Adalah Jalan yang Mengubah Hutan Menjadi Barang Dagang
 
-Pada tahun 1903, Pemerintahan Gubernur Taiwan mulai merencanakan eksploitasi hutan Alishan. Pada tahun 1906, konstruksi dimulai oleh kelompok Fujita, dan kemudian diambil alih oleh pemerintah karena masalah keuangan. Rel dibuka dari Chiayi ke Erwanping pada tahun 1912, dengan total panjang 66,6 kilometer. Seiring perluasan eksploitasi hutan, jalur tersebut kemudian diperpanjang hingga Alishan, membentuk skala sekitar 71,6 kilometer seperti sekarang.[^1]
+Pada tahun 1903, Kantor Gubernur Taiwan mulai merencanakan pengembangan hutan Alishan. Pada 1906, konstruksi dimulai oleh Fujita-gumi, namun kemudian karena masalah keuangan diambil alih oleh pemerintah. Pada 1912, rute Chiayi hingga Erwanping dibuka, panjang total 66,6 kilometer. Seiring dengan perluasan pengembangan hutan, rute kemudian diperpanjang ke Alishan, sehingga jalur operasional membentuk skala sekitar 71,6 kilometer seperti hari ini. [^1]
 
-Sejarah ini tidak bisa dicuci bersih hanya dengan kata "rel seratus tahun". Rel industri Alishan dibangun untuk mengangkut kayu; setelah perpanjangan ke Zhaoping pada tahun 1914, operasi penebangan secara resmi dimulai. Dari periode pemerintahan Jepang hingga akhir perang pada tahun 1945, hutan Alishan terus dieksploitasi selama sekitar 30 tahun, dan hutan hinoki asli pun ditebang dalam jumlah besar.[^2]
+Sejarah ini tidak bisa "dibersihkan" hanya dengan empat kata "kereta api seratus tahun". Kereta Api Hutan Alishan dibangun untuk mengangkut kayu, dan setelah diperpanjang ke Zhaoping pada 1914, operasi penebangan kayu secara resmi dimulai. Dari masa pendudukan Jepang hingga berakhirnya perang pada 1945, ladang kayu Alishan melaksanakan penebangan selama sekitar 30 tahun, menyebabkan hutan kayu hinoki asli ditebang dalam jumlah besar. [^2]
 
-![Pandangan dari gerbong Rel Kereta Api Industri Alishan ke peron Stasiun Beimen](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
+![從阿里山林業鐵路車廂外望北門驛月台](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
 
-\_Gambar: Pandangan dari gerbong Rel Kereta Api Industri Alishan ke peron Stasiun Beimen. Oleh Malcolm Koo. CC BY-SA 4.0. Lihat halaman gambar dan informasi lisensi di Wikimedia Commons.jpg>).[^11]\_
+_Gambar: Melihat platform Stasiun Beimen dari luar gerbong Kereta Api Hutan Alishan. Fotografer Malcolm Koo. CC BY-SA 4.0. Halaman gambar dan informasi lisensi lihat di [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>). [^11]\_
 
-Perubahan yang dibawa oleh rel tidak hanya terjadi di gunung. Pabrik pengolahan kayu, grosir dan pemrosesan kayu, asrama pekerja, pedagang, dan sekolah berkumpul di sepanjang sistem transportasi, membentuk tekstur kota Chiayi yang berpusat pada industri kayu, yang dijuluki "Kota Kayu".[^2] Sebuah jalur industri ini melakukan dua hal sekaligus: mengangkut sumber daya hutan keluar dari gunung, dan membawa kehidupan perkotaan ke dalam gunung.
+Perubahan yang dibawa kereta api tidak hanya di gunung. Pabrik pengolahan kayu, grosir dan pengolahan kayu, asrama karyawan, pedagang, dan sekolah berkumpul di sepanjang sistem transportasi, dan Chiayi secara bertahap membentuk tekstur kota dengan industri kayu sebagai intinya, disebut "Kota Kayu". [^2] Satu jalur industri dengan demikian melakukan dua hal sekaligus: mengangkut sumber daya hutan keluar dari gunung, dan membawa kehidupan kota ke dalam gunung.
 
-Inilah kontradiksi pertama dari rel industri Alishan. Hari ini ia dianggap sebagai perjalanan lambat yang dekat dengan hutan, tetapi tugas awalnya adalah membuat hutan dapat dieksploitasi secara lebih efisien. Jika hanya diceritakan sebagai kereta api pegunungan yang romantis, pembaca akan melewatkan sejarah Taiwan yang sebenarnya dibawa oleh rel ini: modernisasi, industri kayu, pertumbuhan kota, dan proses perhitungan ulang sumber daya alam.
+Inilah反差 pertama Kereta Api Hutan Alishan. Hari ini ia dianggap sebagai perjalanan lambat untuk mendekati hutan, tetapi tugasnya pada mulanya adalah agar hutan dapat dieksploitasi lebih efisien. Jika hanya ditulis sebagai kereta api gunung yang romantis, pembaca akan melewatkan sejarah Taiwan yang sesungguhnya yang dibawa oleh kereta api ini: modernisasi, kehutanan, pertumbuhan kota, serta proses perhitungan ulang sumber daya alam.
 
-Penelitian akademis membahas rel Alishan di persimpangan antara "konservasi aset budaya rel" dan "pariwisata budaya," bukan sebagai objek tunggal.[^7] Sudut pandang ini penting karena memungkinkan kita melihat bahwa upaya konservasi menghadapi dua zaman: satu adalah era material dari rel, stasiun, dan lokomotif. Yang lainnya adalah era sosial dari kemunduran industri, kebangkitan pariwisata, dan perubahan kehidupan lokal. Jika hanya yang pertama yang diperbaiki, yang kedua akan hilang dalam cerita.
+Penelitian akademis mendiskusikan Kereta Api Hutan Alishan di batas antara "pelestarian aset budaya kereta api" dan "pariwisata budaya", bukan memperlakukannya sebagai satu-satunya destinasi wisata. [^7] Perspektif ini penting, karena ia memungkinkan kita melihat pekerjaan pelestarian menghadapi dua jenis waktu sekaligus: satu adalah era material dari kereta api, stasiun, dan lokomotif. Yang lain adalah era sosial dari kemunduran industri, bangkitnya pariwisata, dan transformasi kehidupan lokal. Jika hanya memulihkan yang pertama, yang kedua akan hilang dalam cerita.
 
-## Dari Jalur Penebangan Menjadi Lanskap Budaya: Transformasi Bukan Penghapusan Masa Lalu
+## Dari Jalur Penebangan ke Lanskap Budaya, Transformasi Bukan Menghapus Masa Lalu
 
-Setelah industri penebangan mundur, rel tidak menghilang. Fungsinya secara bertahap beralih ke layanan penumpang, pariwisata, dan pendidikan budaya; stasiun di sepanjang jalur, pemukiman, terowongan, jembatan, dan sisa-sisa hutan industri berubah dari peralatan produksi menjadi situs sejarah yang dilestarikan, dijelaskan, dan digunakan. Dinas Konservasi Hutan dan Alam mengelompokkan perubahan ini sebagai tekstur pemukiman dan interaksi manusia-alam yang bertransisi dari industri penebangan ke pariwisata.[^1]
+Setelah industri penebangan mundur, kereta api tidak ikut lenyap. Fungsinya berangsur-angsur beralih ke angkutan penumpang, pariwisata, dan pendidikan budaya; stasiun-stasiun, permukiman, terowongan, jembatan, dan peninggalan kehutanan di sepanjang jalur pun berubah dari fasilitas produksi menjadi tapak sejarah yang dilestarikan, diinterpretasikan, dan dimanfaatkan. Badan Kehutanan dan Konservasi Alam merangkum perubahan ini sebagai pola permukiman dan interaksi manusia-lingkungan dari transformasi industri penebangan menuju pariwisata.[^1]
 
-Stasiun Beimen adalah pintu masuk yang baik untuk transformasi ini. Stasiun kayu bergaya Jepang yang dibangun dengan kayu hinoki Alishan terbentuk sekitar tahun 1910 hingga 1912, dan merupakan ruang pertama di dataran untuk memahami rel industri.[^2] Ketika wisatawan berjalan dari pusat kota Chiayi ke Stasiun Beimen, mereka tidak melihat pemandangan puncak gunung, melainkan bagaimana kayu diterima, diproses, dan didistribusikan di dalam kota. Di sini, "hutan" dan "kota" berada di sisi peron yang sama.
+Stasiun Beimen adalah pintu masuk yang baik untuk memahami transformasi ini. Stasiun ini terbentuk sekitar tahun 1910 hingga 1912, merupakan stasiun kayu bergaya Jepang yang dibangun dari kayu Alishan Red Cypress (阿里山紅檜), dan juga ruang pertama di ujung dataran untuk memahami kereta api hutan.[^2] Wisatawan dari pusat Kota Chiayi masuk ke Stasiun Beimen, yang mereka lihat bukan pemandangan puncak gunung, melainkan bagaimana kayu diterima, diproses, dan didistribusikan di kota. Di sini "hutan" dan "kota" diletakkan di kedua sisi peron yang sama.
 
-Pada tahun 2018, pemerintah mendirikan Kantor Manajemen Aset Budaya dan Rel Industri Alishan untuk mendorong penelitian, pendidikan, dan manajemen aset budaya secara lebih terpusat. Pada tahun 2019, "Rel dan Industri Alishan" didaftarkan sebagai lanskap budaya penting tingkat nasional pertama di Taiwan, dengan nilainya dikategorikan ke dalam lima aspek: ekologi alam, perkembangan industri kayu, teknologi rel kereta api, kehidupan pemukiman, dan memori budaya.[^1]
+Tahun 2018, pemerintah mendirikan Kantor Pengelolaan Kereta Api Hutan Alishan dan Aset Budaya, bertanggung jawab mendorong penelitian, pendidikan, dan pengelolaan aset budaya secara lebih terpusat. Tahun 2019, "Kehutanan dan Kereta Api Alishan" (阿里山林業暨鐵道) dicatatkan sebagai lanskap budaya penting tingkat nasional pertama di Taiwan, nilainya disusun ke dalam lima aspek: ekologi alam, perkembangan kehutanan, teknologi kereta api, kehidupan permukiman, dan kenangan kemanusiaan.[^1]
 
-Pentingnya pendaftaran ini adalah karena ia tidak hanya melindungi sebuah stasiun atau sepotong rel. Objek lanskap budaya adalah rel beserta pekerjaan, tempat tinggal, transportasi, dan lingkungan alam di sekitarnya. Dengan kata lain, konservasi bukanlah mengunci satu gerbong tua dalam lemari kaca, melainkan memastikan bahwa serangkaian hubungan yang pernah berfungsi masih dapat dipahami.
+Pentingnya tindakan pencatatan ini terletak pada fakta bahwa ia tidak hanya melindungi satu stasiun atau satu segmen rel. Objek lanskap budaya adalah kereta api beserta lingkungan kerja, hunian, transportasi, dan alam di sekitarnya. Dengan kata lain, pelestarian bukan mengunci gerbong tua ke dalam vitrin kaca, melainkan memastikan seperangkat relasi yang pernah berfungsi tetap dapat dipahami.
 
-Alishan juga masuk ke dalam diskusi potensi Warisan Dunia. Dokumen resmi menggambarkannya sebagai area seluas 32.900 hektar yang mencakup pemukiman di sekitar rel dan lingkungan ekologis, membentang dari Chiayi, Beimen, Zhuxi, Zhangnaoliao hingga Fenqi Lake.[^2] Skala ini mengingatkan kita bahwa Alishan bukanlah "tempat wisata," melainkan sebuah sistem yang melintasi kota, daerah pegunungan, dan memori industri.
+Alishan dengan demikian masuk ke dalam pembahasan titik potensial Warisan Dunia. Data resmi mendeskripsikannya sebagai area seluas 32.900 hektar yang mencakup permukiman dan lingkungan ekologi di sekitar jalur kereta api, melintasi Chiayi, Beimen, Zhuqi, Zhangnaoliao, Fenchihu, hingga Zhuoping.[^2] Skala ini mengingatkan kita bahwa Alishan bukan sekadar "tempat wisata", melainkan sebuah sistem yang melintasi kota, daerah pegunungan, dan kenangan industri.
 
-> 📝 **Catatan Kurator:** Hal tersulit untuk dilestarikan dari aset budaya seringkali bukan kayu dan rel baja, tetapi bagaimana hal itu pernah digunakan oleh manusia. Jika rel Alishan hanya menyisakan stasiun yang indah, maka hanya cangkangnya yang tersisa. Yang benar-benar harus dilestarikan adalah bagaimana sebuah jalur mengubah nasib Chiayi, desa pegunungan, dan hutan.
+> 📝 **Catatan Kurator:** Aset budaya yang paling sulit dilestarikan sering bukan kayu dan rel baja, melainkan bagaimana keduanya pernah digunakan oleh manusia. Jika Kereta Api Hutan Alishan hanya menyisakan stasiun yang cantik, yang tersisa hanyalah cangkang kosong. Yang benar-benar harus dilestarikan adalah bagaimana sebuah jalur mengubah nasib Chiayi, desa pegunungan, dan hutan.
 
-## Tahun 2009: Gunung Membuka Kerentanan Rel Sekali Lagi
+## 2009, gunung mengungkap kerapuhan jalur kereta api sekaligus
 
-Setelah bencana angin Molak pada tahun 2009, sekitar 421 insiden kerusakan seperti tanah longsor, longsoran batu, dan terputusnya jembatan terjadi di sepanjang rel Alishan. Tinjauan resmi menunjukkan bahwa rel ini terhenti selama 15 tahun karenanya. Jalur dari Chiayi ke Fenqi Lake pulih pada tahun 2014, tetapi badai Dujuan menunda rencana perbaikan sisa jalur lagi pada tahun 2015.[^3] [^4]
+Pasca bencana angin Morakot 2009, jalur Alishan Forest Railway mengalami 421 titik kerusakan berupa longsor tanah, runtuhnya jalan, dan putusnya jembatan. Tinjauan resmi menyatakan bahwa kereta api ini terhenti beroperasi selama 15 tahun. Rute Chiayi ke Fenchihul pulih pada 2014, namun Taifun Dujuan pada 2015 menunda kembali rencana perbaikan sisa rute. [^3] [^4]
 
-Ini bukanlah proyek "perbaiki dan kembali seperti semula." Pondasi di daerah pegunungan dapat terbawa air, terowongan bisa mengalami longsoran batu, dan rute asli mungkin berada dalam lingkungan geologis yang tidak cocok untuk menopang kereta lagi. Catatan wawancara dari Universitas Teknologi Yiming Nasional menyebutkan bahwa tim perbaikan mengevaluasi pembangunan terowongan baru antara Pingtungna dan Erwanping, dan menangani runtuhnya Terowongan No. 42 di antara Crossroad dan Pingtungna.[^5]
+Ini bukan proyek yang sekadar «memperbaiki lalu kembali ke kondisi asal». Dasar jalan di pegunungan bisa terbawa air, terowongan menghadapi batu runtuh, dan rute asal mungkin berada di lingkungan geologi yang sudah tidak cocok menopang kereta lagi. Catatan wawancara Universitas Nasional Yang Ming Chiao Tung menyebutkan tim restorasi menilai pembangunan terowongan baru antara Pingzhena dan Erwanping, serta menangani runtuhnya Terowongan Nomor 42 antara Shizilu dan Pingzhena. [^5]
 
-Pada tahun 2021, otoritas membangun terowongan baru sepanjang sekitar 1,1 kilometer di antara Crossroad dan Zhaoping, dengan biaya konstruksi sekitar 420 juta dolar Taiwan. Konstruksi ini juga dipengaruhi oleh masalah banjir, longsoran batu, kekurangan tenaga kerja, dan pasokan bahan peledak.[^4] Angka-angka ini bukan hanya skala rekayasa, tetapi juga menunjukkan bahwa "operasi penuh" bukanlah sekadar menyambungkan kembali rel lama, melainkan menilai kembali bagian mana yang harus dipertahankan dan bagian mana yang harus dialihkan.
+2021, unit pengelola membangun terowongan baru sepanjang sekitar 1,1 kilometer antara Shizilu dan Zaoping, dengan biaya proyek sekitar NT$420 juta. Pembangunan terpengaruh oleh faktor air timbul, batu runtuh, kekurangan tenaga kerja, dan pasokan bahan peledak. [^4] Angka-angka ini bukan sekadar skala proyek, tapi juga menjelaskan bahwa «penyambungan seluruh rute» bukan berarti menyambung kembali rel lama, melainkan menilai ulang bagian mana yang bisa dipertahankan dan yang harus dialihkan.
 
-Pada tanggal 6 Juli 2024, jalur dari Chiayi ke Alishan beroperasi penuh kembali.[^3] Artikel pariwisata berbahasa Inggris dari Kementerian Pertanian menggambarkan rute utama sebagai perjalanan sepanjang 71,6 kilometer dari Stasiun Chiayi ke Stasiun Alishan, dengan ketinggian Stasiun Chiayi sekitar 30 meter dan Stasiun Alishan 2.216 meter. Oleh karena itu, operasi penuh ini bukan hanya berita pariwisata, tetapi juga penyambungan kembali transportasi publik daerah pegunungan yang terputus akibat bencana dalam jangka panjang.[^6]
+6 Juli 2024, rute penuh Chiayi ke Alishan pulih beroperasi. [^3] Artikel pariwisata bahasa Inggris Kementerian Pertanian menggambarkan rute utama sebagai jalur 71,6 kilometer dari Stasiun Chiayi ke Stasiun Alishan, dengan Stasiun Chiayi pada ketinggian sekitar 30 meter dan Stasiun Alishan 2.216 meter. Pemulihan operasi penuh ini bukan sekadar berita pariwisata, melainkan merepresentasikan penyambungan kembali transportasi umum pegunungan yang terputus lama oleh bencana. [^6]
 
-Tanggal operasional ulang ini juga mengubah makna "Kereta Api Kecil Alishan." Laporan bergambar berbahasa Inggris dari _The New York Times_ menempatkan perjalanan ini pada titik temu antara warisan budaya Taiwan dan wisatawan internasional.[^8] Namun, yang benar-benar memberikan isi padanya bukanlah apakah ia bisa menjadi kartu pos yang indah, melainkan apakah wisatawan mengetahui mengapa jalur ini pernah terputus, siapa yang memperbaikinya, dan apa yang harus ditanggung setelah perbaikan.
+Tanggal pemulihan ini juga mengubah makna «Kereta Api Kecil Alishan». Laporan bergambar bahasa Inggris The New York Times menempatkan perjalanan ini di titik pertemuan antara aset budaya Taiwan dan wisatawan internasional. [^8] Namun yang benar-benar memberinya substansi, bukan apakah ia bisa jadi kartu pos yang indah, melainkan apakah penumpang bisa mengetahui mengapa rute ini pernah terputus, siapa yang memperbaikinya, dan tanggung jawab apa yang harus dijembatani pasca-perbaikan.
 
-## Tujuan Akhir Perbaikan Bukan Pembukaan Jalur, Melainkan Hujan Berikutnya
+## Titik akhir perbaikan bukanlah kembali beroperasi, melainkan hujan berikutnya
 
-Setelah kembali beroperasi pada tahun 2024, keamanan rel industri tidak lagi hanya mengandalkan patroli manusia. Proyek perbaikan menambahkan sistem deteksi anomali rel dan lereng. Antara Terowongan No. 29 dan No. 30, sistem dapat memberikan peringatan jika terjadi longsoran batu atau hambatan pohon pada rel, sehingga staf stasiun dapat memberi tahu masinis.[^4]
+Setelah kembali beroperasi pada tahun 2024, pekerjaan keselamatan kereta api hutan Alishan tidak lagi hanya mengandalkan patroli personel. Proyek perbaikan menambahkan sistem deteksi anomali rel dan lereng. Di antara terowongan nomor 29 dan 30, sistem dapat mengeluarkan peringatan saat batu runtuh atau pohon menghalangi rel, sehingga petugas stasiun dapat memberitahu pengemudi.[^4]
 
-Wawancara khusus dengan Universitas Teknologi Yiming Nasional juga mencatat pentingnya pemantauan jangka panjang oleh tim perbaikan, termasuk penggunaan LiDAR untuk memantau perubahan topografi dan mengidentifikasi risiko potensial lebih awal. Wawancara tersebut menyebutkan bahwa setelah badai Kaimi pada tahun 2024, rel industri sempat terhenti sebentar untuk membersihkan tanah dan pohon tumbang sebelum melanjutkan operasi.[^5] Bagi rel di daerah pegunungan, "pemulihan" bukanlah berarti tidak akan pernah terputus, tetapi mengetahui cara memutuskan langkah selanjutnya dengan lebih cepat dan aman setiap kali terjadi gangguan.
+Wawancara eksklusif Universitas Nasional Yang Ming Chiao Tung juga mencatat perhatian tim perbaikan terhadap pemantauan jangka panjang, termasuk penggunaan LiDAR untuk memahami perubahan topografi dan mengidentifikasi risiko potensial sejak dini. Wawancara tersebut menyebutkan bahwa setelah Tifon Gaemi tahun 2024, kereta api hutan Alishan sempat berhenti sejenak untuk membersihkan tanah longsor dan pohon tumbang, lalu melanjutkan operasional.[^5] Bagi kereta api pegunungan, "pulih" bukan berarti tidak akan pernah terhenti lagi, melainkan setelah setiap penghentian, mereka mengetahui bagaimana menilai langkah selanjutnya dengan lebih cepat dan lebih aman.
 
-Dalam tinjauan tahunan resmi pada tahun 2025, konten perbaikan dibagi menjadi rel, jalan, lokomotif, digitalisasi komunikasi di sepanjang jalur, dan pembangunan stasiun.[^3] Daftar ini tampak teknis, tetapi justru menunjukkan bahwa konservasi budaya tidak bisa hanya mengandalkan nostalgia: agar rel tua tetap hidup, ia harus memiliki kredibilitas sejarah, standar keselamatan modern, dan sistem pemeliharaan yang berkelanjutan.
+Dalam tinjauan ulang peringatan satu tahun kembali beroperasi pada tahun 2025, pihak resmi membagi isi perbaikan menjadi rel, jalan, sarana dan prasarana perkeretaapian, digitalisasi komunikasi sepanjang rute, dan pembangunan stasiun.[^3] Daftar ini tampak bersifat teknis, namun tepat menjelaskan bahwa pelestarian budaya tidak bisa hanya mengandalkan nostalgia: agar kereta api tua terus hidup, ia harus secara bersamaan memiliki keabsahan historis, standar keselamatan modern, dan tata kelola yang memungkinkan pemeliharaan berkelanjutan.
 
-Ketika rel kembali menjadi rute wisata, tekanan baru pun muncul. Data potensi Warisan Dunia resmi telah lama menunjukkan bahwa Alishan menghadapi dampak antropogenik dari wisatawan dan kendaraan; rekonstruksi bencana dan pemeliharaan lingkungan memerlukan proses jangka panjang.[^2] Pariwisata dapat membantu lebih banyak orang memahami lanskap budaya, tetapi juga dapat menyebabkan daerah pegunungan menanggung beban transportasi, sampah, kebisingan, dan pemeliharaan yang lebih besar. "Membiarkan dunia melihat Alishan" dan "tidak menghabiskan Alishan" harus berlaku secara bersamaan.
+Saat kereta api kembali menjadi rute wisata, tekanan baru pun muncul. Data resmi titik potensial warisan dunia telah lama menegaskan bahwa Alishan mengalami dampak antropoogenik dari wisatawan dan kendaraan, sehingga rehabilitasi bencana dan pemeliharaan lingkungan perlu berlangsung jangka panjang.[^2] Pariwisata dapat memungkinkan lebih banyak orang memahami lanskap budaya, namun juga berpotensi membebani wilayah pegunungan dengan lebih banyak lalu lintas, sampah, kebisingan, dan beban pemeliharaan. "Membiarkan dunia melihat Alishan" dan "Jangan biarkan Alishan tergerus" harus keduanya berlaku secara bersamaan.
 
-## Masalah yang Ditinggalkan oleh Sebuah Rel
+## Pertanyaan yang Tersisa dari Sebuah Jalur Kereta Api
 
-Hal paling menyentuh dari rel industri Alishan bukanlah karena ia akhirnya menaklukkan gunung. Ia tidak pernah menaklukkan gunung: proyek tahun 1906 harus berkelok-kelok mengelilingi medan, hujan lebat pada tahun 2009 dapat merusak fondasi, longsoran pada tahun 2015 dapat menunda operasi yang hampir selesai, dan setiap badai setelah tahun 2024 akan terus mengujinya.[^3] [^4] [^5]
+Bagian paling menyentuh dari Kereta Api Hutan Alishan bukanlah karena ia akhirnya mengalahkan gunung. Ia tidak pernah mengalahkan gunung: konstruksi tahun 1906 harus memutar mengelilingi lereng gunung, hujan lebat tahun 2009 bisa menghapuskan landasan rel, longsoran tahun 2015 bisa menunda kembali pengoperasian yang hampir selesai, dan setiap tifun setelah 2024 terus mengujinya kembali. [^3] [^4] [^5]
 
-Apa yang benar-benar dicapai adalah membuat rekayasa manusia secara bertahap mengakui kondisi gunung. Rel awal memandang hutan sebagai sumber daya yang dapat diangkut, sementara lanskap budaya selanjutnya memaksa kita untuk menempatkan rel, pemukiman, ekologi, dan bencana dalam satu peta. Ini bukan mengubah sejarah penebangan masa lalu menjadi kisah ramah lingkungan, melainkan mengakui bahwa Taiwan pernah mengembangkan gunung melalui jalur ini, dan juga harus menghadapi konsekuensi dari eksploitasi tersebut dengan cara tata kelola yang baru.
+Yang benar-benar dicapainya adalah membuat teknik manusia secara bertahap mengakui kondisi gunung. Kereta api awal memperlakukan hutan sebagai sumber daya yang bisa diekspor, sedangkan lanskap budaya yang datang kemudian memaksa kita menempatkan kereta api, pemukiman, ekologi, dan bencana pada peta yang sama. Ini bukan menulis ulang sejarah penebangan kayu masa lalu menjadi cerita pelestarian lingkungan, melainkan mengakui bahwa Taiwan pernah mengandalkan jalur ini untuk membuka hutan, dan kini harus menghadapi konsekuensi pengembangan tersebut dengan cara pengelolaan baru.
 
-Jadi, saat menaiki rel industri Alishan, ingatlah dua arah. Ketika kereta bergerak naik, ia menunjukkan kepada Anda perubahan hutan tropis, hutan sedang, dan hutan pegunungan. Ketika sejarah berjalan mundur, ia menunjukkan kepada Anda bagaimana kayu, pekerja, kota, wilayah tradisional masyarakat adat, bencana angin, dan proyek perbaikan saling bertumpuk di satu jalur.[^2]
+Oleh karena itu, saat naik Kereta Api Hutan Alishan, ingatlah dua arah. Kereta naik ke atas, membawa Anda menyaksikan perubahan hutan tropis, hutan subtropis, dan hutan pegunungan tinggi. Sejarah mundur ke belakang, lalu membawa Anda melihat bagaimana kayu, pekerja, kota, wilayah tradisional suku asli, bencana angin, dan proyek restorasi bertumpuk di atas jalur yang sama. [^2]
 
-Ada juga arah lain yang patut diingat: melihat ke samping. Kisah Alishan tidak hanya ada pada garis lurus maju dari gerbong; tetapi juga pada cabang-cabang yang dilestarikan, koridor jalan lama yang diubah menjadi jalur pejalan kaki, toko-toko pemukiman, hutan di sekitar stasiun, dan ruang hidup masyarakat Tsou yang telah berlangsung lama. Data bahasa Inggris resmi memperkenalkan contoh koridor jalan lama di Linshan yang diubah menjadi jalur pejalan kaki, menunjukkan bahwa terhenti tidak selalu berarti menghilang. Sebuah jalur dapat terus digunakan dengan cara yang berbeda.[^6]
+Masih ada satu arah lagi yang bisa diingat: melihat ke samping. Cerita Alishan tidak hanya berada di jalur utama di mana gerbong bergerak maju, tetapi juga di jalur cabang yang dijaga, koridor jalur lama yang diubah menjadi jalur pejalan kaki, toko-toko di pemukiman, hutan di sekitar stasiun, dan ruang kehidupan lama suku Tsou. Contoh koridor jalur lama Shuishan yang diubah menjadi jalur pejalan kaki yang diperkenalkan dalam materi resmi berbahasa Inggris justru menunjukkan bahwa berhenti beroperasi tidak berarti hilang. Sebuah jalur bisa terus digunakan dengan cara yang berbeda. [^6]
 
-Rel industri Alishan tidak membawa Taiwan menjauh dari alam. Ia lebih seperti pengingat panjang: kita pernah memasuki hutan dengan rel, dan hanya setelah belajar menghormati kecepatan, kemiringan, dan ketidakpastian hutan, barulah kita bisa tetap berada di sana.
+Kereta Api Hutan Alishan tidak membawa Taiwan menjauhi alam. Ia lebih seperti pengingat yang panjang: kita pernah memasuki hutan dengan rel kereta api, dan hanya setelah belajar menghormati kecepatan, kemiringan, dan ketidakpastian hutan, barulah kita mungkin bisa terus tinggal di sana.
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Kantor Manajemen Aset Budaya dan Rel Industri Alishan](https://afrch.forest.gov.tw/)
-- [Potensi Warisan Dunia Taiwan: Lanskap Budaya Rel dan Industri Alishan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw)
+- [Kantor Pengelolaan Kereta Api Hutan Alishan dan Aset Budaya](https://afrch.forest.gov.tw/)
+- [Titik Potensial Warisan Dunia Taiwan: Lanskap Budaya Kehutanan dan Kereta Api Alishan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw)
 - [Taiwan Agriculture Tourism: Forest Railway Journey](https://ezgo.ardswc.gov.tw/en/column/4886/)
 
 ## Referensi
 
-[^1]: [Kantor Manajemen Aset Budaya dan Rel Industri Alishan: Pengenalan Cabang](https://www.forest.gov.tw/afrch_intro) — Perkenalan resmi Dinas Konservasi Hutan dan Alam mengenai sejarah pembangunan rel industri Alishan, panjang jalur, badan pengelola, dan latar belakang pendaftaran sebagai lanskap budaya penting pada tahun 2019.
+[^1]: [Kantor Pengelolaan Kereta Api Hutan Alishan dan Aset Budaya: Gambaran Umum Cabang](https://www.forest.gov.tw/afrch_intro) — Badan Kehutanan dan Konservasi Alam secara resmi memperkenalkan sejarah pembangunan, panjang rute, lembaga pengelola, serta latar belakang pendaftaran lanskap budaya penting tahun 2019 untuk Kereta Api Hutan Alishan.
 
-[^2]: [Potensi Warisan Dunia Taiwan: Lanskap Budaya Rel dan Industri Alishan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw) — Halaman potensi Warisan Dunia dari Biro Aset Budaya, menjelaskan cakupan lanskap, perkembangan sejarah, fitur rekayasa, lingkungan ekologis, serta tantangan pariwisata dan konservasi.
+[^2]: [Titik Potensial Warisan Dunia Taiwan: Lanskap Budaya Kehutanan dan Kereta Api Alishan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=7&lang=zh_tw) — Halaman khusus titik potensial warisan dunia Badan Aset Budaya menjelaskan cakupan lanskap, perkembangan sejarah, karakteristik teknik, lingkungan ekologi, serta tantangan pariwisata dan preservasi.
 
-[^3]: [Kantor Manajemen Aset Budaya dan Rel Industri Alishan: Perayaan Kelahiran Kembali Rel Industri yang Penuh Tantangan](https://afrch.forest.gov.tw/AllNews/0075222) — Artikel resmi kantor manajemen rel pada tahun 2025, mencatat 421 insiden bencana, penghentian selama 15 tahun, operasi penuh pada tahun 2024, dan pekerjaan keamanan serta konservasi budaya selanjutnya.
+[^3]: [Kantor Pengelolaan Kereta Api Hutan Alishan dan Aset Budaya: Dari Kesulitan Menuju Kelahiran Kembali](https://afrch.forest.gov.tw/AllNews/0075222) — Artikel resmi hari jayanti operasi 2025 oleh Pengelola Kereta Api Hutan, mencatat 421 lokasi bencana, 15 tahun terhenti, operasi penuh kembali 2024, serta pekerjaan keamanan dan preservasi budaya lanjutan.
 
-[^4]: [Taipei Times: Rel Industri Alishan Melanjutkan Operasi Penuh](https://www.taipeitimes.com/News/taiwan/archives/2024/07/07/2003820458) — Artikel berita berbahasa Inggris yang melaporkan operasi penuh, terowongan baru, biaya perbaikan, batasan konstruksi, dan sistem deteksi anomali rel berdasarkan laporan lapangan dan otoritas.
+[^4]: [Taipei Times: Kereta Api Hutan Alishan Kembali Beroperasi Penuh](https://www.taipeitimes.com/News/taiwan/archives/2024/07/07/2003820458) — Artikel berita berbahasa Inggris melaporkan berdasarkan data lapangan dan unit pengelola tentang pengoperasian penuh kembali, terowongan baru, biaya perbaikan, pembatasan konstruksi, serta sistem deteksi anomali rel.
 
-[^5]: [Universitas Teknologi Yiming Nasional: Menjaga Rel Seratus Tahun](https://www.nycu.edu.tw/nycu/ch/app/data/view?module=nycu0141&id=21171&serno=ca792a51-8188-4ebb-9253-6a8bfba8f943) — Wawancara di jurnal universitas dengan Profesor Liao Chih-chung, memberikan detail tentang kerusakan tahun 2009, perbaikan terowongan, audit rekayasa, pengembangan talenta, dan pemantauan topografi jangka panjang.
+[^5]: [Universitas Nasional Yang Ming Chiao Tung: Melindungi Kereta Api Abadi](https://www.nycu.edu.tw/nycu/ch/app/data/view?module=nycu0141&id=21171&serno=ca792a51-8188-4ebb-9253-6a8bfba8f943) — Majalah universitas mewawancarai Profesor Liao Chih-chung, menyediakan detail kerusakan 2009, perbaikan terowongan, tinjauan teknik, pengembangan bakat, serta pemantauan topografi jangka panjang.
 
-[^6]: [Taiwan Agriculture Tourism: Forest Railway Journey](https://ezgo.ardswc.gov.tw/en/column/4886/) — Artikel khusus berbahasa Inggris dari Dinas Pembangunan Pedesaan dan Konservasi Tanah Kementerian Pertanian, mengonfirmasi operasi penuh tahun 2024, rute 71,6 kilometer dari Chiayi ke Alishan, dan kondisi transformasi di sepanjang jalur menjadi perjalanan lambat serta pendidikan hutan.
+[^6]: [Pariwisata Pertanian Taiwan: Perjalanan Kereta Api Hutan](https://ezgo.ardswc.gov.tw/en/column/4886/) — Artikel khusus berbahasa Inggris dari Badan Pengembangan Pedesaan dan Konservasi Tanah Air Kementerian Pertanian, memverifikasi operasi penuh 2024, rute 71,6 kilometer Chiayi–Alishan, serta transformasi jalur menjadi perjalanan lambat dan pendidikan hutan.
 
-[^7]: [Perpustakaan Pusat Nasional: Penelitian tentang Konservasi Aset Budaya Rel dan Pariwisata Budaya—Studi Kasus Rel Industri Alishan](https://ndltd.ncl.edu.tw/r/7pv9k6) — Halaman sistem tesis master Taiwan dari Perpustakaan Nasional, menyediakan indeks akademis mengenai konservasi aset budaya rel industri Alishan, transformasi pariwisata, dan konteks potensi Warisan Dunia.
+[^7]: [Perpustakaan Nasional: Penelitian Pelestarian Aset Budaya Kereta Api dan Pariwisata Budaya—Studi Kasus Kereta Api Hutan Alishan](https://ndltd.ncl.edu.tw/r/7pv9k6) — Halaman penelitian sistem tesis master dan doktor Taiwan Perpustakaan Nasional, menyediakan indeks akademis tentang pelestarian aset budaya Kereta Api Hutan Alishan, transformasi pariwisata, dan konteks titik potensial warisan dunia.
 
-[^8]: [The New York Times: Perjalanan Kereta Api Jauh ke Dalam Hutan, dan Menuju Masa Lalu](https://www.nytimes.com/card/2024/10/29/world/asia/taiwan-alishan-train-photos) — Laporan bergambar berbahasa Inggris dari _The New York Times_ tahun 2024, mencatat pengalaman wisatawan setelah operasi penuh, sejarah industri kayu, transportasi hinoki, dan memori kontemporer rel Alishan.
+[^8]: [The New York Times: Perjalanan Kereta Api Jauh ke Hutan, dan ke Masa Lalu](https://www.nytimes.com/card/2024/10/29/world/asia/taiwan-alishan-train-photos) — Laporan bergambar berbahasa Inggris The New York Times 2024, mencatat pengalaman penumpang setelah operasi penuh, sejarah kehutanan, transportasi kayu hinoki, serta kenangan kontemporer Kereta Api Alishan.
 
-[^9]: [Wikimedia Commons: File:Rel Kereta Api Industri Alishan.jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg) — Oleh Naplee12, lisensi Creative Commons Atribusi—Berbagi Serupa 3.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.
+[^9]: [Wikimedia Commons: Berkas: Alishan Forest Railway.jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg) — Penulis Naplee12, lisensi Creative Commons Attribution-ShareAlike 3.0, gambar disematkan melalui URL berkas asli, tidak diunduh atau di-hosting ulang.
 
-[^10]: [Wikimedia Commons: File:Taiwan, Rel Kereta Api Industri Alishan 'DL 36' di Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — Oleh Industrial Wales, lisensi Creative Commons Atribusi—Berbagi Serupa 2.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.
+[^10]: [Wikimedia Commons: Berkas: Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — Penulis Industrial Wales, lisensi Creative Commons Attribution-ShareAlike 2.0, gambar disematkan melalui URL berkas asli, tidak diunduh atau di-hosting ulang.
 
-[^11]: [Wikimedia Commons: File:Rel Kereta Api Industri Alishan, Stasiun Beimen, Kota Chiayi (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — Oleh Malcolm Koo, lisensi Creative Commons Atribusi—Berbagi Serupa 4.0, gambar disematkan melalui URL panas file asli, tidak diunduh atau di-host ulang.
+[^11]: [Wikimedia Commons: Berkas: Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — Penulis Malcolm Koo, lisensi Creative Commons Attribution-ShareAlike 4.0, gambar disematkan melalui URL berkas asli, tidak diunduh atau di-hosting ulang.

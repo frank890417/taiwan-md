@@ -29,11 +29,13 @@ image: '/article-images/society/covid-vaccination-expo-dome-2021.webp'
 imageCredit: '玄史生'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣新冠疫情與疫苗.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8f341a7241775e16'
-sourceBodyHash: 'sha256:840d9f2932e4646b'
-translatedAt: '2026-11-01T22:50:37.267609+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:b9d1a42aadf87af2'
+sourceBodyHash: 'sha256:4db5c97b15ab8480'
+translatedAt: '2026-11-19T16:11:09.078361+00:00'
 ---
 
 # Pandemi COVID-19 dan Vaksin di Taiwan: Delapan Belas Bulan yang Berhasil Dibeli, dan Suntikan yang Terlewatkan
@@ -390,16 +392,16 @@ Garis-garis yang belum ditarik juga sangat jelas. Kasus penipuan terhadap Tzu Ch
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 7 gambar (1 gambar CC0, 6 gambar dengan lisensi Creative Commons), semuanya telah di-cache di `public/article-images/society/` untuk menghindari hotlinking ke server sumber; selain itu, disematkan 2 video dari kanal resmi PTS News, kedua video tersebut tidak menyertakan takarir, sehingga teks utama tidak mengutip pernyataan di dalam video.
+Artikel ini menggunakan 7 gambar (1 gambar CC0, 6 gambar dengan lisensi Creative Commons), semuanya telah di-cache di `public/article-images/society/` untuk menghindari _hotlinking_ ke server sumber; selain itu, disematkan pula 2 video dari kanal resmi PTS News (YouTube), kedua video tersebut tidak menyertakan takarir (_subtitle_), sehingga teks utama tidak mengutip pernyataan di dalam video.
 
-- [Pusat vaksinasi COVID-19 skala besar di Taipei Expo Park](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Foto: Xuan Shisheng, 2021-10-27, CC0 1.0 (hero)
-- [Antrean di depan apotek di Kota Hsinchu untuk membeli masker dengan sistem registrasi nama asli](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Foto: Tbatb, 2020-03-30, CC BY-SA 4.0
-- [Stasiun Dongmen MRT Taipei selama periode siaga level tiga](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Foto: Lingguang Yingxiang_Brian, 2021-05-25, CC BY 3.0
-- [Papan pengumuman di persimpangan jalan di luar pos tes cepat Jisui, Distrik Zhonghe, Kota New Taipei](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Foto: Tsuna Lu (Adsa562), 2021-06-12, CC BY-SA 4.0
-- [Presiden Tsai Ing-wen menerima vaksinasi vaksin domestik Medigen](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Foto: Makoto Lin／Kantor Kepresidenan Republik Tiongkok (Taiwan), 2021-08-23, CC BY 2.0
-- [Alat tes cepat rumah tangga yang disediakan NHI secara gratis untuk warga berusia 65 tahun ke atas](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Foto: ThomasYehYeh, 2022-11-07, CC BY-SA 4.0
-- [Pengumuman kode QR sistem pelacakan kontak melalui SMS di pintu masuk toko](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Foto: IiTheCavalryiI, 2022-05-23, CC BY-SA 4.0
-- Video: Laporan PTS News 〈Koreksi Kembali〉 20210522, laporan PTS News 〈Konferensi Pers Penutupan Pusat Komando〉 20230427 (Kanal resmi YouTube)
+- [Pusat vaksinasi COVID-19 skala besar di Taipei Zhanyan Hall](https://commons.wikimedia.org/wiki/File:COVID-19_vaccinations_in_Expo_Dome,_Taipei.jpg) — Foto: Xuan Shisheng, 27-10-2021, CC0 1.0 (hero)
+- [Antrean di luar apotek di Kota Hsinchu untuk membeli masker dengan sistem registrasi nama asli](https://commons.wikimedia.org/wiki/File:Wait_in_Line_for_Medical_Face_Masks,_in_Hsinchu_City.jpg) — Foto: Tbatb, 30-03-2020, CC BY-SA 4.0
+- [Stasiun Dongmen MRT Taipei selama periode siaga level tiga](https://commons.wikimedia.org/wiki/File:%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E6%8D%B7%E9%81%8B%E6%99%AF%E6%B3%81-%E6%9D%B1%E9%96%80%E7%AB%99.jpg) — Foto: 稜光映像\_Brian, 25-05-2021, CC BY 3.0
+- [Papan pengumuman di persimpangan jalan di luar pos tes cepat Jisu, Distrik Zhonghe, Kota New Taipei](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%8C%97%E5%B8%82%E7%96%AB%E6%83%85%E5%BF%AB%E9%80%9F%E7%AF%A9%E6%AA%A2%E7%AB%99-%E8%B7%AF%E5%8F%A3%E5%91%8A%E7%A4%BA%E8%B7%AF%E9%9A%9C.jpg) — Foto: Tsuna Lu (Adsa562), 12-06-2021, CC BY-SA 4.0
+- [Presiden Tsai Ing-wen menerima vaksin domestik Medigen](<https://commons.wikimedia.org/wiki/File:2021._08.23_%E7%B8%BD%E7%B5%B1%E6%96%BD%E6%89%93%E7%96%AB%E8%8B%97_(51396127301).jpg>) — Foto: Makoto Lin／Kantor Kepresidenan Republik Tiongkok (Taiwan), 23-08-2021, CC BY 2.0
+- [Alat tes cepat mandiri gratis yang disediakan oleh NHI untuk warga berusia di atas 65 tahun](https://commons.wikimedia.org/wiki/File:COVID-19_rapid_antigen_test_kits_offered_for_free_for_citizens_of_65_years_old_and_above_by_Taiwan_universal_health_care_system.jpg) — Foto: ThomasYehYeh, 07-11-2022, CC BY-SA 4.0
+- [Pengumuman kode QR sistem registrasi nama asli di pintu masuk toko](https://commons.wikimedia.org/wiki/File:QRcode_used_for_contact_tracing_during_the_COVID-19_pandemic_in_Taiwan.jpg) — Foto: IiTheCavalryiI, 23-05-2022, CC BY-SA 4.0
+- Video: PTS News 〈Koreksi Kembali〉 laporan 22-05-2021, PTS News 〈Konferensi Pers Penutupan Pusat Komando〉 laporan 27-04-2023 (Kanal resmi YouTube)
 
 ## Referensi
 
