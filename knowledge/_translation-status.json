@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T06:40:05+08:00",
-    "zhCommitHead": "ed105afbd4",
+    "lastUpdated": "2026-11-20T07:02:40+08:00",
+    "zhCommitHead": "38f0c5832d",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,32 +20,32 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 1173,
+        "fresh": 1174,
         "stale": 10,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 5,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 7,
         "metadata_stale": 2,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 1169,
-        "stale": 12,
+        "fresh": 1170,
+        "stale": 11,
         "metadata_stale": 5,
         "missing": 5,
         "orphan": 0
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 1154,
+        "fresh": 1155,
         "stale": 23,
         "metadata_stale": 5,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 1168,
-        "stale": 12,
+        "fresh": 1169,
+        "stale": 11,
         "metadata_stale": 5,
         "missing": 6,
         "orphan": 0
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1191,
-        "fresh": 1147,
+        "fresh": 1148,
         "stale": 26,
         "metadata_stale": 6,
-        "missing": 12,
+        "missing": 11,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1191,
-        "fresh": 1164,
+        "fresh": 1165,
         "stale": 12,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 9,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1182,
+        "fresh": 1183,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "de": {
@@ -2816,20 +2816,18 @@
         "es": {
           "path": "es/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
-          "sourceBodyHash": "sha256:6ab99bf50b216a39",
-          "translatedAt": "2026-09-08T15:54:39+08:00",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:3b3422dc3e5660c1",
+          "sourceBodyHash": "sha256:c40d04f82db2ee2c",
+          "translatedAt": "2026-11-19T22:47:42.430915+00:00",
           "translationLastCommit": "00e311c9",
           "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 29110,
+          "bytes": 29658,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/contemporary-indigenous-singer-songwriters.md",
@@ -16496,7 +16494,20 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 24723,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/insured-salary-ceiling.md",
@@ -18009,7 +18020,20 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-19T22:50:03.565616+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10150,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -66051,7 +66075,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/technical-and-vocational-education.md",
+          "translatedFrom": "Society/技職教育.md",
+          "sourceCommitSha": "81c7b8b1e2",
+          "sourceContentHash": "sha256:6b50bf67263d4e35",
+          "sourceBodyHash": "sha256:86034c4bd0638cb8",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 23675,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/technical-and-vocational-education.md",
@@ -66941,8 +66978,8 @@
           "sourceContentHash": "sha256:32772071ae1ab735",
           "sourceBodyHash": "sha256:694eda8fc7232fe6",
           "translatedAt": "2026-11-20T03:57:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6688705f",
+          "translationLastModified": "2026-11-20T06:40:05+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 13353,
@@ -68799,20 +68836,18 @@
         "en": {
           "path": "en/Society/who-counts-as-low-wage.md",
           "translatedFrom": "Society/誰算低薪.md",
-          "sourceCommitSha": "b10ec653b",
-          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:27a706024e76921c",
           "sourceBodyHash": "sha256:3232aa3ffbbe2f4d",
-          "translatedAt": "2026-09-26T04:02:56.943623+00:00",
+          "translatedAt": "2026-11-19T22:40:43.122636+00:00",
           "translationLastCommit": "a5f8c5d0",
           "translationLastModified": "2026-10-10T22:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 43295,
+          "bytes": 42125,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/who-counts-as-low-wage.md",
@@ -149574,18 +149609,18 @@
         "id": {
           "path": "id/People/tieniu-jie-ge.md",
           "translatedFrom": "People/鐵牛杰哥.md",
-          "sourceCommitSha": "a7bf511aa",
-          "sourceContentHash": "sha256:695b08b5d7d2de65",
-          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
-          "translatedAt": "2026-09-23T22:11:56+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:015dd447dc8ae669",
+          "sourceBodyHash": "sha256:9ab8023205bdc033",
+          "translatedAt": "2026-11-19T22:51:07.108738+00:00",
           "translationLastCommit": "99cc7dfe",
           "translationLastModified": "2026-09-24T18:34:09+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 37490,
+          "footnoteDefs": 44,
+          "bytes": 52997,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (44→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tieniu-jie-ge.md",
@@ -186620,7 +186655,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 13882,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -186644,7 +186692,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 20871,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -202352,20 +202413,18 @@
         "ar": {
           "path": "ar/Geography/guling-street.md",
           "translatedFrom": "Geography/牯嶺街.md",
-          "sourceCommitSha": "fe48ea49d",
+          "sourceCommitSha": "be13f04522",
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
-          "translatedAt": "2026-07-29T07:32:36+08:00",
+          "translatedAt": "2026-11-19T22:29:57.748444+00:00",
           "translationLastCommit": "3995a2b4",
           "translationLastModified": "2026-10-10T23:27:56+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 77972,
+          "bytes": 90307,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/guling-street.md",
