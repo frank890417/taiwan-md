@@ -17,24 +17,26 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: '097c838b2'
-sourceContentHash: 'sha256:ee2c6b428739de29'
-sourceBodyHash: 'sha256:56a4506a2e90295b'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
+sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
+translatedAt: '2026-11-19T11:43:03.743070+00:00'
 ---
 
-# Huang Wu-hsiung e as universidades comunitárias de Taiwan: levando a democracia para além do voto para a sala de aula
+# Huang Wu-hsiung e as universidades comunitárias de Taiwan: trazendo a democracia para além do voto, dentro da sala de aula
 
-> **Resumo de 30 segundos:** Em 1994, Huang Wu-hsiung propôs a ideia de universidades comunitárias de base popular. Em 1998, a primeira universidade comunitária de Taiwan foi estabelecida no distrito de Wenshan, em Taipé. Este artigo acompanha um movimento educativo que nasceu para levar a aprendizagem de adultos à vida pública e que, através de currículos, associações, investigação local e enquadramento legal, se tornou uma prática quotidiana da sociedade civil taiwanesa.
+> **Resumo em 30 segundos:** Em 1994, Huang Wu-hsiung propôs o conceito de uma universidade comunitária popular. Em 1998, a primeira universidade comunitária de Taiwan foi estabelecida no distrito de Wenshan, em Taipé. Este artigo acompanha como um movimento educacional, que originalmente pretendia integrar a aprendizagem de adultos na vida pública, transformou-se — por meio de currículos, clubes, estudos locais e sistemas legais — em uma prática cotidiana da sociedade civil de Taiwan.
 
-Em 1994, o professor de matemática da Universidade Nacional de Taiwan, Huang Wu-hsiung, apresentou a proposta de universidades comunitárias de base popular. Em 1998, a primeira universidade comunitária de Taiwan foi fundada no distrito de Wenshan, em Taipé. Em 20 de setembro de 1999, a universidade comunitária de Yonghe realizou a sua cerimónia de fundação na Escola Secundária Fuhe, com Huang Wu-hsiung como diretor fundador.[^1] [^2]
+Em 1994, Huang Wu-hsiung, professor do Departamento de Matemática da Universidade Nacional de Taiwan, propôs o conceito de uma universidade comunitária popular. Em 1998, a primeira universidade comunitária de Taiwan foi estabelecida no distrito de Wenshan, em Taipé. Em 20 de setembro de 1999, a Universidade Comunitária de Yonghe realizou sua cerimônia de fundação na Escola Secundária de Fuhe, com Huang Wu-hsiung atuando como o primeiro diretor da instituição. [^1] [^2]
 
-Estas três datas parecem um calendário do sistema educativo, mas a verdadeira questão não é «quantas universidades comunitárias existem em Taiwan». A questão é: por que razão uma escola sem requisitos de habilitações académicas, nem o ingresso no ensino superior como objetivo principal, levaria o seu currículo para rios, ruas antigas, jornais comunitários e questões locais?
+Embora esses três anos pareçam uma cronologia do sistema educacional, a verdadeira questão não é "quantas universidades comunitárias existem em Taiwan". A questão é: por que uma escola sem barreiras de escolaridade e cujo objetivo principal não é o ingresso no ensino superior levaria seus currículos para os rios, ruas antigas, jornais locais e questões da comunidade?
 
-A resposta de Huang Wu-hsiung é direta. Ele não via a universidade comunitária como uma universidade mais barata, nem como um trampolim para a universidade convencional. O que ele queria resolver era outra lacuna deixada pelo fim da lei marcial: as pessoas tinham o voto, mas não necessariamente a experiência de discussão pública suficiente para lidar em conjunto com os problemas do seu quotidiano.[^3]
+A resposta de Huang Wu-hsiung é direta. Ele não concebeu a universidade comunitária como uma universidade convencional mais barata, nem como um trampolim para o ensino superior tradicional. O que ele pretendia abordar era outra lacuna deixada pelo fim da lei marcial: as pessoas ganharam o direito ao voto, mas não necessariamente possuíam experiência suficiente em debate público para lidar coletivamente com os problemas do seu entorno. [^3]
 
-> **📝 Nota da curadoria:** O mais contra-intuitivo nas universidades comunitárias é que parecem escolas, mas na verdade transformam a questão «a escola deve apenas dar aulas?» num problema democrático.
+> **📝 Nota do Curador:** O aspecto mais contraintuitivo das universidades comunitárias é que, embora pareçam escolas, elas transformam a questão de "se uma escola deve apenas ensinar matérias acadêmicas" em um problema democrático.
 
 ## Uma escola que começa pelo «não é o quê»
 
@@ -60,26 +62,26 @@ A universidade comunitária de Yonghe oferece outro exemplo concreto. À vésper
 
 > **📝 Nota da curadoria:** Quando uma aula começa a medir a água do rio, consultar crónicas locais, perguntar aos moradores como vivem, a escola deixa de ser apenas o edifício que «presta serviços» e torna-se ferramenta de pensamento coletivo da comunidade.
 
-## O que Huang Wu-hsiung realmente teme não é a falta de alunos
+## O que Huang Wu-hsiung realmente temia não era a falta de alunos
 
-Num artigo publicado na universidade comunitária de Wenshan, Huang Wu-hsiung situa a universidade comunitária no contexto social posterior ao fim da lei marcial, em 1987. Ele considera que a democratização trouxe liberdade e espaço de associação, mas os problemas deixados pelo longo domínio autoritário continuariam a emergir. Para ele, a aprendizagem social e a democratização devem avançar juntas, caso contrário o voto não se transforma automaticamente em capacidade de julgamento público.[^3]
+Em um artigo publicado pela Universidade Comunitária de Wenshan, Huang Wu-hsiung situou as universidades comunitárias no contexto social do período após o fim da lei marcial em 1987. Ele argumentava que, embora a democratização trouxesse liberdade e espaço para a associação, os problemas deixados pelo longo período de autoritarismo emergiriam gradualmente. Para ele, a aprendizagem social e a democratização devem ocorrer simultaneamente; caso contrário, o voto não se transformará automaticamente em capacidade de julgamento público. [^3]
 
-É uma afirmação com forte carga reivindicativa, não uma conclusão histórica que todos devam aceitar. O seu valor está em puxar a «educação» da linguagem da promoção individual de volta à vida cívica: como as pessoas compreendem questões públicas, como discutem com quem pensa diferente, como organizam ação quando não há político a falar por elas.
+Esta é uma afirmação com forte teor de opinião, não uma conclusão histórica que todos devam aceitar. Seu valor reside em trazer a "educação" de volta à vida cidadã, retirando-a da linguagem voltada apenas para a ascensão individual: como as pessoas compreendem questões públicas, como discutem com quem possui posicionamentos diferentes e como organizam ações quando não há políticos que falem por elas.
 
-O artigo académico de 2006 de Tsai Hung-cheng sistematiza esta ideia como «libertar o conhecimento, gerar sociedade civil». O artigo aponta que os fundamentos filosóficos da universidade comunitária incluem a distinção entre «conhecimento empacotado» e «conhecimento experiencial», refinando depois essa distinção com o conceito de conhecimento tácito, e discute os problemas práticos enfrentados pela universidade comunitária como movimento de iluminação cultural. É uma análise de investigador, não uma citação direta de Huang Wu-hsiung.[^7]
+Em 2006, a tese acadêmica de Tsai Hung-cheng sistematizou esse conceito como "libertar o conhecimento para fomentar a sociedade civil". A tese aponta que a base filosófica das universidades comunitárias inclui a distinção entre "conhecimento estruturado" e "conhecimento experiencial", utilizando posteriormente o conhecimento tácito para refinar essa distinção e discutir os problemas práticos enfrentados pelas universidades comunitárias como um movimento de iluminação cultural. Esta é uma análise do pesquisador, não uma citação direta de Huang Wu-hsiung. [^7]
 
-Este lembrete é importante. A história da universidade comunitária não pode ser escrita apenas como vitória do idealismo. Manter a publicidade do currículo exige colaboração de longo prazo entre professores, pessoal administrativo, alunos e organizações locais. Recursos, divisão organizacional, formas de contratação pública e filosofia de gestão mudam o que uma universidade comunitária consegue fazer.
+Este alerta é importante. A história das universidades comunitárias não pode ser escrita apenas como uma história de vitória idealista. Para que os cursos mantenham seu caráter público, é necessária a colaboração contínua entre professores, funcionários administrativos, alunos e organizações locais. A disponibilidade de recursos, a divisão organizacional, as modalidades de concessão governamental e a filosofia de gestão escolar determinam o que uma universidade comunitária pode realizar.
 
-Um estudo de 2013, tomando como objeto três universidades comunitárias certificadas pela Federação Nacional de Promoção na categoria «Gestão Escolar e Participação Pública», identificou três modelos: tipo de divisão profissional, tipo de despertar de consciência e tipo de aliança estratégica de ONG. O estudo lista ainda diferentes métodos como capacitação administrativa, orientação curricular, orientação associativa, construção comunitária e aliança estratégica.[^8]
+Um estudo de 2013, focado em três universidades comunitárias que receberam a certificação de "Gestão Escolar e Participação Pública" da Federação Nacional de Promoção de Universidades Comunitárias, sintetizou três modelos: o modelo de divisão profissional, o modelo de iluminação de consciência e o modelo de aliança estratégica com ONGs. O estudo também listou diferentes métodos, como capacitação administrativa, orientação de cursos, apoio a associações estudantis, revitalização comunitária e alianças estratégicas. [^8]
 
-| Tempo | Viragem                                                                | O que esta viragem mudou                                                                                                  |
-| ----- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1994  | Huang Wu-hsiung propõe universidades comunitárias de base popular      | A aprendizagem comunitária entra no problema da democracia e da reforma social                                            |
-| 1998  | Fundação da universidade comunitária de Wenshan                        | A primeira universidade comunitária de Taiwan começa a transformar o ideal em gestão quotidiana                           |
-| 1999  | Surgimento de universidades comunitárias em Yonghe e outros locais     | Preparação civil e cooperação com governos locais fazem o modelo expandir-se                                              |
-| 2018  | Promulgação da _Lei de Desenvolvimento das Universidades Comunitárias_ | As universidades comunitárias obtêm enquadramento legal mais claro, mas enfrentam novas exigências da institucionalização |
+| Ano  | Marco                                                                     | O que este marco mudou                                                                                                                |
+| :--- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| 1994 | Huang Wu-hsiung propõe o conceito de universidade comunitária para o povo | A aprendizagem comunitária foi inserida na questão da democracia e da reforma social                                                  |
+| 1998 | Fundação da Universidade Comunitária de Wenshan                           | A primeira universidade comunitária de Taiwan começou a transformar ideais em gestão escolar cotidiana                                |
+| 1999 | Expansão das universidades comunitárias em locais como Yonghe             | A cooperação entre iniciativas civis e governos locais permitiu a disseminação do modelo                                              |
+| 2018 | Promulgação da 《Lei de Desenvolvimento das Universidades Comunitárias》  | As universidades comunitárias obtiveram um status jurídico mais claro, mas também enfrentaram novas exigências de institucionalização |
 
-> **📝 Nota da curadoria:** A dificuldade das universidades comunitárias não é «quem vence, o ideal ou a realidade», mas o facto de o ideal, uma vez dentro de orçamentos, espaços e avaliações, ter de ser renegociado todos os dias.
+> **📝 Nota do Curador:** A dificuldade das universidades comunitárias não é decidir "quem vencerá: o ideal ou a realidade", mas sim que, uma vez que o ideal entra no campo dos orçamentos, espaços físicos e avaliações, ele precisa ser renegociado todos os dias.
 
 ## De movimento civil a texto legal
 
@@ -111,9 +113,11 @@ Imagem: Ephemeral Days, 〈Taipei Municipal Wenshan School of Special Education�
 
 ## Leitura complementar
 
-[Federação Nacional de Promoção de Universidades Comunitárias: base de dados e prática social](https://www.napcu.org.tw/db_list.html)
+[Federação Nacional de Promoção de Universidades Comunitárias: banco de dados e prática social das universidades comunitárias](https://www.napcu.org.tw/db_list.html)
 
-[Ministério da Educação: explicações relativas à Lei de Desenvolvimento das Universidades Comunitárias](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[Ministério da Educação: explicações sobre a Lei de Desenvolvimento das Universidades Comunitárias](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Yang Wei-che: um professor de matemática que primeiro abriu turmas de taiwanês, para que o debate pudesse acompanhá-lo](/pt/people/yang-wei-cher) — Um velho amigo e colega de Huang Wu-hsiung no Departamento de Matemática da Universidade Nacional Taiwan (NTU); ambos se juntaram à Fundação Memorial Chen Wen-cheng, e Yang Wei-che também ensinou matemática em taiwanês na Universidade Comunitária de Keelung.
 
 ## Referências
 
