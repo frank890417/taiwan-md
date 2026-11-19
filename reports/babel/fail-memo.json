@@ -1267,7 +1267,7 @@
   "es:Geography/中山北路條通.md": 6,
   "fr:Geography/中山北路條通.md": 3,
   "id:Culture/媽祖與大道公的傳說.md": 1,
-  "pt:Nature/黑冠麻鷺.md": 6,
+  "pt:Nature/黑冠麻鷺.md": 7,
   "ja:History/鶯歌陶瓷老街.md": 1,
   "id:Culture/台灣乖乖文化.md": 2,
   "hi:History/迪士尼.md": 1,
@@ -2864,7 +2864,7 @@
   "de:Culture/人間雜誌.md": 3,
   "de:People/葉國一.md": 2,
   "de:Technology/AI發展.md": 1,
-  "de:Geography/擎天崗.md": 6,
+  "de:Geography/擎天崗.md": 7,
   "de:Politics/議員制度.md": 6,
   "de:People/賈永婕.md": 1,
   "de:Art/台灣新媒體藝術.md": 2,
@@ -3671,7 +3671,7 @@
   "id:People/馬英九.md": 6,
   "es:People/馬英九.md": 4,
   "en:People/馬英九.md": 2,
-  "ar:Economy/發票.md": 5,
+  "ar:Economy/發票.md": 6,
   "hi:People/馬英九.md": 5,
   "en:Geography/苗栗縣.md": 2,
   "ko:People/馬英九.md": 3,
@@ -4483,5 +4483,7 @@
   "es:Geography/擎天崗.md": 1,
   "fr:Geography/擎天崗.md": 1,
   "pt:Geography/擎天崗.md": 1,
-  "en:Geography/擎天崗.md": 1
+  "en:Geography/擎天崗.md": 1,
+  "ar:Economy/台灣產業轉型升級.md": 1,
+  "hi:People/楊維哲.md": 1
 }
