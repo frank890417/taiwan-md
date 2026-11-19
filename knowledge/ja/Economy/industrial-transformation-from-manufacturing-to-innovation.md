@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-26T08:13:09+08:00'
+translatedAt: '2026-11-19T07:31:51.642620+00:00'
 ---
 
 # 台湾の産業転換とアップグレード：製造大国からイノベーション強国へ
@@ -216,17 +216,16 @@ translatedAt: '2026-07-26T08:13:09+08:00'
 
 ---
 
-## 参考文献
+## 延伸閱讀
 
-- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — 1976年のRCA技術移転から2024年の世界市場占有率60%へ。新竹科学園区から始まった核心産業が「護国神山」如何に成ったか
-- [張忠謀](/ja/people/tsmc-morris-chang) — 1987年にTSMCを設立した關鍵人物。台湾半導体産業がゼロから始まった核心推進力
-- [施振栄](/ja/people/stan-shih) — 微笑曲線の著者本人：曲線を描いて台湾を受託中段から這い上がらせようとしたが、その資産は「中段製造」を行うTSMCに賭けられている
-- [台湾外貿とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 加工輸出区からの外貨から2024年の半導体輸出主力へ。長期軌跡
-- [スタートアップエコシステム](/ja/economy/taiwan-startup-ecosystem-overview) — 製造業転換からイノベーション強国への別の経路：1990年代以降のスタートアップとfabless半導体の発展
-- [台湾人工知能の発展と将来戦略](/ja/technology/artificial-intelligence-development-strategy) — 2024年以降の産業転換の次の波：ハードウェア覇権からAI応用への戦略的展開
-- [SLP台北創業リーダーシッププログラム](/ja/economy/slp-taipei-startup-leadership-program) — 一度きりの費用が6,000元から58,000元へ上昇した創業訓練プログラム。費用曲線自体が台湾のスタートアップエコシステムが草創から建制へ向かう物理的尺度である
-
----
+- [台湾産業特集](/industry/) — 公式統計で産業構造を描く：輸出とGDPの70年、科学園区、各県市の工場、歴代時価総額トップ10、さらに6つの公共的論争の各立場の主張を掲載
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — 1976年のRCA技術移転から2024年世界シェア60%まで、新竹科学園区を発祥とする核心産業がいかにして「護国神山」となったか
+- [張忠謀（ちょう・ちゅうぼう／チャン・チュンモウ）](/ja/people/tsmc-morris-chang) — 1987年TSMC創立のキーパーソン、台湾半導体産業をゼロから立ち上げた核心的推進者
+- [施振榮（し・しんえい／シー・チェンロン）](/ja/people/stan-shih) — スマイルカーブの提唱者自ら：台湾に代工の中段から脱却するよう線を引いた人物だが、自身の財産は「中段製造」を行うTSMCに賭けている
+- [台湾外貿とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 加工輸出区の外貨獲得から2024年半導体輸出主力への長期的軌跡
+- [スタートアップエコシステム](/ja/economy/taiwan-startup-ecosystem-overview) — 製造業からの転換によるイノベーション強国へのもう一つの道筋：1990年代以降のスタートアップとファブレス半導体の発展
+- [台湾の人工知能発展と未来戦略](/ja/technology/artificial-intelligence-development-strategy) — 2024年以降の産業転換の次の波：ハードウェア覇権からAI応用への戦略的展開
+- [SLP台北起業リーダーシッププログラム](/ja/economy/slp-taipei-startup-leadership-program) — 一回参加費がNT$6,000からNT$58,000に値上がりした起業研修プログラム、その費用曲線こそが台湾スタートアップエコシステムが草創期から制度化へ向かった物理的目盛りである
 
 ## 参考資料
 
