@@ -29,16 +29,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-28T03:07:44+08:00'
+translatedAt: '2026-11-19T04:42:47.614594+00:00'
 ---
 
 # Tungstênio: Taiwan não tem minas de tungstênio, mas refina o pó que o mundo inteiro quer — uma posição mais frágil do que se imagina
@@ -200,11 +206,12 @@ O filamento de tungstênio precisa passar de 2 200 °C para brilhar. Essa temper
 
 ## Leitura complementar
 
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — O lugar do tungstênio no chip, um pequeno trecho nesse rio de 50 anos de revolução de materiais
-- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Para onde vai afinal o paratungstato de amônio refinado em Pingtung
-- [Comércio externo de Taiwan e cadeia de suprimentos global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — A condição de longo prazo de Taiwan sendo Taiwan de ser simultaneamente nó e lacuna na cadeia alheia
-- [Eletricidade e semicondutores de Taiwan](/pt/technology/taiwan-electricity-and-semiconductors) — Outro recurso que a ilha não tem de sobra, mas sustenta a montanha sagrada
-- [Indústria de robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A próxima estação do aglomerado de máquinas de precisão do Dadu Mountain
+- [Mapa da cadeia de suprimentos](/industry/supply-chain-map/) — Analisando elo por elo as cadeias de semicondutores, servidores de IA e tungstênio: quais empresas estão em Taiwan e quais elos dependem do exterior
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — O lugar do tungstênio nos chips: um pequeno trecho no longo fluxo desta revolução de materiais de 50 anos
+- [Empresas de Taiwan: TSMC](/pt/economy/tsmc) — Para quem flui, finalmente, o tungstato de sódio refinado em Pingtung
+- [Comércio externo e cadeias de suprimentos globais de Taiwan](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — A situação de longo prazo de Taiwan como nó e lacuna simultâneos nas cadeias alheias
+- [Eletricidade e semicondutores em Taiwan](/pt/technology/taiwan-electricity-and-semiconductors) — Outro recurso que, embora insuficiente na ilha, sustenta a "Montanha Sagrada da Proteção Nacional"
+- [Indústria de robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A próxima parada do aglomerado de máquinas de precisão de Dadu Shan
 
 ## Fontes das imagens
 

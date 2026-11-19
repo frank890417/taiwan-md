@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-19T14:08:19+08:00",
-    "zhCommitHead": "d6ed3fdb5",
+    "lastUpdated": "2026-11-19T14:14:12+08:00",
+    "zhCommitHead": "4cf29657f",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 1144,
+        "fresh": 1145,
         "stale": 27,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 5,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 1146,
-        "stale": 26,
+        "fresh": 1147,
+        "stale": 25,
         "metadata_stale": 13,
         "missing": 6,
         "orphan": 0
@@ -92,25 +92,25 @@
       },
       "ar": {
         "total_zh": 1191,
-        "fresh": 1136,
-        "stale": 33,
+        "fresh": 1137,
+        "stale": 32,
         "metadata_stale": 13,
         "missing": 9,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1155,
-        "stale": 23,
+        "fresh": 1156,
+        "stale": 22,
         "metadata_stale": 7,
         "missing": 6,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 1119,
+        "fresh": 1120,
         "stale": 43,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 8,
         "orphan": 0
       }
@@ -9905,20 +9905,18 @@
         "ja": {
           "path": "ja/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
-          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
-          "translatedAt": "2026-09-26T11:45:53+08:00",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:3dd86d4390d8efbd",
+          "sourceBodyHash": "sha256:971a1a8aa9b5930a",
+          "translatedAt": "2026-11-19T06:13:49.950693+00:00",
           "translationLastCommit": "249dd283",
           "translationLastModified": "2026-10-10T23:13:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 67760,
+          "bytes": 68030,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-uniform-invoice.md",
@@ -23403,8 +23401,8 @@
           "sourceContentHash": "sha256:0052f66a7d8738c5",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-11-19T05:36:02.011424+00:00",
-          "translationLastCommit": "85b5cfab",
-          "translationLastModified": "2026-10-21T22:29:28+08:00",
+          "translationLastCommit": "4cf29657",
+          "translationLastModified": "2026-11-19T14:08:19+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 48922,
@@ -25214,8 +25212,8 @@
           "sourceContentHash": "sha256:f862d9031f5510e4",
           "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
           "translatedAt": "2026-11-19T04:36:22.258671+00:00",
-          "translationLastCommit": "d141f736",
-          "translationLastModified": "2026-11-02T17:39:35+08:00",
+          "translationLastCommit": "4cf29657",
+          "translationLastModified": "2026-11-19T14:08:19+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 58213,
@@ -39194,20 +39192,18 @@
         "en": {
           "path": "en/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "b07b48849",
-          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceCommitSha": "b1a5fea00",
+          "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
-          "translatedAt": "2026-10-14T20:41:43.548928+00:00",
+          "translatedAt": "2026-11-19T06:12:44.577243+00:00",
           "translationLastCommit": "b624b18f",
           "translationLastModified": "2026-10-15T06:38:41+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 69802,
+          "bytes": 70082,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/taiwanese-cinema.md",
@@ -77196,20 +77192,18 @@
         "ar": {
           "path": "ar/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
-          "sourceBodyHash": "sha256:bbdf3516f36f033d",
-          "translatedAt": "2026-09-23T04:54:44.185331+00:00",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:e51f10ebc811063a",
+          "sourceBodyHash": "sha256:c05673b5d97e7a66",
+          "translatedAt": "2026-11-19T06:09:04.281047+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 19562,
+          "bytes": 20264,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-public-health-epidemic-response.md",
@@ -100379,8 +100373,8 @@
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
           "translatedAt": "2026-11-19T06:00:40.773514+00:00",
-          "translationLastCommit": "6a0599d7",
-          "translationLastModified": "2026-11-04T08:19:37+08:00",
+          "translationLastCommit": "4cf29657",
+          "translationLastModified": "2026-11-19T14:08:19+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 27255,
@@ -199915,20 +199909,18 @@
         "de": {
           "path": "de/Geography/linkou-new-town.md",
           "translatedFrom": "Geography/林口新市鎮.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:1f56fd44853214d5",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:150fe6a0199d610e",
           "sourceBodyHash": "sha256:57cdd81fe5d56c02",
-          "translatedAt": "2026-09-26T05:36:43.628232+00:00",
+          "translatedAt": "2026-11-19T06:12:20.129231+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
           "footnoteDefs": 35,
-          "bytes": 24853,
+          "bytes": 25268,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -227837,20 +227829,18 @@
         "ru": {
           "path": "ru/Culture/taiwan-iron-window-grilles.md",
           "translatedFrom": "Culture/鐵窗花.md",
-          "sourceCommitSha": "ec3d660ca",
-          "sourceContentHash": "sha256:1888ffac8016e710",
-          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "sourceCommitSha": "be13f0452",
+          "sourceContentHash": "sha256:def335d4114c8b87",
+          "sourceBodyHash": "sha256:fc143e859b0c1c51",
+          "translatedAt": "2026-11-19T12:04:03+08:00",
           "translationLastCommit": "ae837171",
           "translationLastModified": "2026-09-22T01:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 33770,
+          "bytes": 33901,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+15 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwan-iron-window-grilles.md",

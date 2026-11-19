@@ -1,6 +1,6 @@
 ---
-title: 'Sistema de Conselheiros: Por que é diferente dos Legisladores? Os 30 anos do SNTV na política local'
-description: 'Em 2008, as eleições para o Legislativo mudaram para o sistema de voto duplo em distrito uninominal, mas as eleições para conselheiros municipais e de condado no mesmo ano continuaram a usar o antigo sistema SNTV da década de 1980. O mesmo país, os mesmos eleitores e cargos diferentes na mesma cédula, mas com dois conjuntos de regras de jogo completamente distintos. Isso não é um erro, mas sim a maior questão inacabada na história das reformas do sistema eleitoral de Taiwan, envolvendo facções locais, interesses partidários e custos de implementação. Um mapa institucional que detalha como os dois sistemas funcionam, por que um mudou enquanto o outro permaneceu igual, e o que isso significa para os pequenos partidos e para a representatividade plural.'
+title: 'Sistema de Conselheiros: Qual a diferença para os Legisladores e por que as eleições locais ainda usam o antigo sistema SNTV'
+description: 'Os legisladores entram no Yuan Legislativo, com 113 assentos em todo o país; desde 2008, cada distrito elege apenas uma pessoa e há um voto separado para partidos políticos. Já os conselheiros municipais e de condado entram nas assembleias de 22 condados e cidades, onde ainda se elege vários representantes por distrito, o eleitor só pode marcar um nome e não há voto para partidos — este antigo sistema é chamado de SNTV. Em 2005, a Constituição foi alterada para os legisladores, mas o sistema de eleição dos conselheiros não acompanhou essa mudança há dezoito anos, algo que envolve interesses de facções locais, benefícios partidários e os custos do redesenho de distritos, além de determinar que partidos pequenos tenham mais facilidade em obter assentos nos conselhos locais do que no parlamento nacional.'
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Conselheiro',
     'Sistema Eleitoral',
     'SNTV',
-    'Sistema de voto duplo em distrito uninominal',
+    'Sistema de Voto Único com Dois Votos por Distrito',
     'Legislador',
     'Eleições de 2026',
   ]
@@ -18,16 +18,22 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:30:45.614266+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-19T05:46:31.296294+00:00'
 ---
 
-# Sistema de Vereadores: Por que é diferente do Legislativo? Os 30 anos em que o SNTV permaneceu na política local
+# Sistema de Vereadores: qual a diferença para os Legisladores e por que as eleições locais ainda usam o antigo sistema SNTV?
 
-> **Resumo em 30 segundos:** Em 12 de janeiro de 2008, a 7ª eleição para membros do Legislativo de Taiwan adotou pela primeira vez o "sistema de dois votos por distrito uninominal" — um voto para o candidato e outro para o partido. O número de assentos legislativos foi reduzido de 225 para 113, reescrevendo completamente a forma de eleição. No entanto, nas eleições para vereadores da 16ª legislatura municipal e de condado, realizadas antes de dezembro do mesmo ano, ainda era utilizado o "sistema de voto único não transferível em distritos plurinominais" (SNTV) — herdado da década de 1980 —, onde um distrito elege de cinco a dez assentos, o eleitor só pode marcar uma pessoa e os votos excedentes não podem ser transferidos para outro candidato do mesmo partido. No mesmo ano, para o mesmo grupo de eleitores e no mesmo boletim eleitoral, dois cargos operavam sob duas regras de jogo completamente diferentes. Isso não foi um erro técnico, mas o resultado de uma reforma institucional que foi deliberadamente interrompida no meio do caminho. Por trás disso estão a dependência das facções locais e dos dois grandes partidos em relação à estrutura do SNTV, o alto custo de reformas complementares e a dificuldade de alcançar um consenso bipartidário — sendo também um dos assuntos inacabados mais subestimados no caminho de 30 anos de aprofundamento democrático de Taiwan.
+> **Resumo em 30 segundos:** Em 12 de janeiro de 2008, a 7ª eleição para membros do Legislativo adotou pela primeira vez o "sistema de dois votos em distritos uninominais" — um voto para o candidato e outro para o partido. O número de assentos legislativos foi reduzido de 225 para 113, reescrevendo completamente a forma de eleição. No entanto, na 16ª eleição para vereadores municipais e de condados, realizada em dezembro do mesmo ano, ainda era utilizado o "sistema de voto único não transferível em distritos plurinominais" (SNTV), herdado da década de 1980 — um sistema onde cinco a dez assentos eram escolhidos por distrito, o eleitor só podia marcar uma pessoa e os votos excedentes não podiam ser transferidos para outros membros do mesmo partido. No mesmo ano, para o mesmo grupo de eleitores e no mesmo boletim eleitoral, dois cargos operavam sob duas regras de jogo totalmente diferentes. Isso não foi um erro técnico, mas o resultado de uma reforma institucional que foi deliberadamente interrompida no meio do caminho. Por trás disso estão as facções locais e os dois grandes partidos presos à estrutura do SNTV, o alto custo das reformas complementares e a dificuldade em alcançar um consenso interpartidário — sendo também uma das tarefas inacabadas mais subestimadas no caminho de 30 anos de aprofundamento democrático de Taiwan.
 
 ---
 

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:eca9dd4ad2636bc6'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-09-22T09:40:08.542312+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-19T06:02:41.640162+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2003, a SARS causou 73 mortes em Taiwan; o fechamento do Hospital Heping tornou-se um trauma coletivo na história da saúde pública. Depois disso, Taiwan reconstruiu quase todo o seu sistema de prevenção de epidemias: o CDC foi elevado, o mecanismo do Centro de Comando Central de Epidemias (CECC) foi legalizado, os processos de controle de infecção foram totalmente reformulados. Em 2020, quando a COVID-19 se espalhou globalmente, Taiwan manteve transmissão comunitária próxima de zero nos primeiros 18 meses, sendo chamada pela comunidade internacional de "modelo de Taiwan". Em abril de 2026, Taiwan registrou o primeiro caso autóctone de "transmissão de ave para humano" de H7N7 — o sistema de prevenção foi testado novamente.
@@ -79,24 +81,26 @@ O sistema de prevenção ativou o fluxo padrão: monitoramento de saúde de 33 c
 | Equipamentos insuficientes | Racionamento nominal em 72 horas  | 40–50 mil máscaras distribuídas de imediato |
 | Informação opaca           | Coletivas diárias                 | Sequenciamento genético público imediato    |
 
-## Seguro Nacional de Saúde: A Infraestrutura Invisível da Prevenção
+## Seguro de Saúde: A Infraestrutura Invisível da Prevenção
 
-A base do sistema de prevenção de epidemias de Taiwan é o [Seguro Nacional de Saúde](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance/), inaugurado em 1995.
+A base do sistema de prevenção de Taiwan é o [Seguro de Saúde Nacional](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance/), implementado em 1995.
 
-23,4 milhões de pessoas compartilham um único banco de dados do Seguro Nacional de Saúde, um único cartão. Esse cartão tornou-se infraestrutura de prevenção durante a COVID-19: o racionamento nominal de máscaras dependia do cartão para compra, o registro de histórico de viagens dependia da vinculação do cartão, o registro de vacinação era gravado no cartão. Sem esse banco de dados de cobertura universal, o modelo de Taiwan seria impossível[^10].
+23,4 milhões de pessoas compartilham um único banco de dados de saúde e um cartão de seguro de saúde. Durante a COVID-19, este cartão tornou-se uma infraestrutura essencial para o combate à pandemia: o sistema de registro nominal de máscaras dependia da compra via cartão de saúde; o rastreamento do histórico de viagens foi integrado ao cartão; e os registros de vacinação foram armazenados nele. Sem esse banco de dados com cobertura universal, o "Modelo Taiwan" não seria possível[^10].
 
-> **✦** "A SARS foi a lição mais dolorosa da história da saúde pública de Taiwan. Mas a lição mais dolorosa formou o melhor aluno."
+> **✦** 「A SARS foi a lição mais dolorosa na história da saúde pública de Taiwan. Mas as lições mais dolorosas formam os melhores alunos.」
 
-Vinte e três anos após o bloqueio do Hospital Heping, aquele prédio ainda ergue-se na Rua Zhonghua, em Taipé. Profissionais de saúde que entram na emergência, alguns ainda se lembram do que aconteceu. Ho Sung-jung diz que não guarda rancor, mas a cicatriz "não sarou completamente". Talvez não precise sarar. Talvez o órgão mais importante de um sistema de prevenção seja justamente lembrar da dor.
+Vinte e três anos após o fechamento do Hospital Heping, o edifício ainda permanece de pé na Rua Zhonghua, em Taipé. Entre os profissionais de saúde que entram na sala de emergência, alguns ainda se lembram do que aconteceu naquela época. Ho Sung-jung diz que não guarda rancor, mas que aquela cicatriz "não cicatrizou completamente". Talvez não precise cicatrizar. Talvez o órgão mais importante de um sistema de prevenção seja justamente a capacidade de lembrar da dor.
 
-**Leitura Adicional**
+**Leituras complementares**:
 
-- [Salas de Fumantes de Taipé: Na Cidade Livre de Tabaco, Aquela Caixa de Vidro que Respira](/pt/society/taipei-smoking-room) — O capítulo mais recente da cruzada de quarenta anos contra o tabaco, o campo de batalha mudou do interior para o exterior
+- [Salas de fumantes em Taipé: Em uma cidade livre de fumo, aquela caixa de vidro que respira](/pt/society/taipei-smoking-room) — O capítulo mais recente da longa jornada de 40 anos no controle do tabagismo; o campo de batalha mudou do interior para o exterior.
 
-- [Saúde e Seguro Nacional de Saúde de Taiwan](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A infraestrutura de base do sistema de prevenção: o banco de dados do Seguro Nacional de Saúde de 23,4 milhões de pessoas
-- [Audrey Tang](/pt/people/audrey-tang) — A ministra digital por trás do mapa de máscaras
-- [Sistema de Medicina de Desastres de Taiwan](/pt/technology/taiwan-disaster-medicine-system) — Do 921 à SARS, como desastres impulsionam a evolução médica
-- [Lei Dual de Medicina Regenerativa × 30 Anos de mRNA](/pt/society/taiwan-regenerative-medicine-laws) — A narrativa dupla da aquisição de BNT em 2021 + legislação de terapia celular, perspectiva estendida da prevenção de COVID deste artigo
+- [A medicina em Taiwan e o Seguro de Saúde Nacional](/pt/lifestyle/taiwan-healthcare-and-national-health-insurance) — A infraestrutura base do sistema de prevenção: o banco de dados de saúde de 23,4 milhões de pessoas.
+- [Audrey Tang](/pt/people/audrey-tang) — A ministra digital por trás do mapa de máscaras.
+- [O sistema de medicina de desastres em Taiwan](/pt/technology/taiwan-disaster-medicine-system) — Do terremoto de 921 à SARS: como os desastres impulsionam a evolução médica.
+- [Especial sobre Saúde e Cuidados de Longa Duração](/health/) — Sistemas, história e finanças do Seguro de Saúde e dos cuidados de longa duração, com simuladores de subsídios e taxas de seguro.
+- [COVID-19 e vacinas em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — Este sistema construído após a SARS foi testado integralmente entre 2020 e 2023: as fronteiras foram mantidas por 18 meses, mas a terceira dose para idosos não chegou a tempo.
+- [Leis de Medicina Regenerativa × 30 anos de mRNA](/pt/society/taiwan-regenerative-medicine-laws) — Uma narrativa dupla sobre a aquisição da BNT em 2021 e a legislação de terapia celular; uma perspectiva estendida sobre a prevenção da COVID abordada neste artigo.
 
 ## Referências
 
