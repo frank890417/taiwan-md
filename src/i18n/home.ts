@@ -161,6 +161,8 @@ export const homeUI = {
     'home.cover.axis.aria':
       'Eras of the eight voices. Pick an era to read its quote.',
     'home.cover.axis.scale': 'Each small tick on the line is 25 years',
+    'home.cover.autoplay.pause': 'Pause the quotes',
+    'home.cover.autoplay.play': 'Play the quotes',
     'home.tools.eyebrow': 'Tools and special sections',
     'home.tools.heading': 'Ready to use',
     'home.tools.lead':
@@ -188,8 +190,8 @@ export const homeUI = {
     'home.tools.map.desc':
       '{count} articles pinned to the map. Start from a place you know.',
     'home.categories.eyebrow': 'Browse by subject',
-    'home.hall.thumb.north': 'N',
-    'home.hall.thumb.south': 'S',
+    'home.topics.total': 'articles across {topics} topics',
+    'home.topics.recent': '{count} new in the last 30 days',
     'home.hall.thumb1.caption':
       '{count} articles can be placed on the map. Bigger dots mean more articles nearby; the bars count them from north to south.',
     'home.hall.thumb1.outside':
@@ -204,6 +206,87 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       'The {count} largest listed companies, sized by market value. {top} alone is {pct}% of these {count} combined.',
     'home.hall.thumb4.cta': 'Open the company landscape',
+    'home.halls.title': 'The four halls',
+    'home.halls.eyebrow': 'Exhibition halls',
+    'home.halls.lead':
+      "Taiwan.md arranges its {count} articles into four halls. Each opens with a short curatorial essay, followed by that hall's subjects, topics and tools.",
+    'home.halls.meta.description':
+      'The four halls of Taiwan.md: what this island looks like, how it came to be, what its people are doing, and where it is going. Each hall has a curatorial essay, featured articles, and its own subjects, topics and tools.',
+    'home.halls.lobby': 'Lobby',
+    'home.hall.label': 'Hall {numeral}',
+    'home.hall.meta.title': 'Hall {numeral}: {title}',
+    'home.hall.meta.description':
+      'Hall {numeral} of Taiwan.md\'s four halls, "{title}": the full curatorial essay, featured articles on {categories}, and this hall\'s topics and tools.',
+    'home.hall.lede': 'This hall holds {categories}: {count} articles today.',
+    'home.hall.prose.fallback':
+      'This essay has not been translated into this language yet, so it is shown in English.',
+    'home.hall.residents.eyebrow': 'Tools and special sections',
+    'home.hall.residents.heading': 'Ready to use in this hall',
+    'home.hall.kind.topic': 'Topic',
+    'home.hall.kind.tool': 'Tool',
+    'home.hall.kind.interactive': 'Interactive',
+    'home.hall.kind.data': 'Data',
+    'home.hall.categories.eyebrow': 'Browse by subject',
+    'home.hall.categories.heading': 'Subjects in this hall',
+    'home.hall.corridor.eyebrow': 'Corridor',
+    'home.hall.corridor.heading': 'Where to next',
+    'home.hall.corridor.prev': 'Previous hall',
+    'home.hall.corridor.next': 'Next hall',
+    'home.hall.corridor.lobby': 'Back to the lobby',
+    'home.hall.corridor.all': 'See all four halls',
+    'home.lobby.enter': 'Enter this hall',
+    'home.lobby.residents': 'Also in this hall',
+    'home.lobby.all': 'See all four halls',
+    'home.hall.res.taiwan_shape.name': 'The shape of Taiwan',
+    'home.hall.res.taiwan_shape.desc':
+      'A correctly drawn outline of Taiwan, with SVG and geodata files free to reuse.',
+    'home.hall.res.map.name': 'Map',
+    'home.hall.res.map.desc':
+      'Click a county or a place on the map and read the articles about it.',
+    'home.hall.res.soundscape.name': 'Soundscape',
+    'home.hall.res.soundscape.desc':
+      'Taiwan by ear: field recordings of garbage trucks, temple festivals and waves.',
+    'home.hall.res.timeline.name': 'Timeline',
+    'home.hall.res.timeline.desc':
+      'From prehistory to today, each era linked to the articles about it.',
+    'home.hall.res.terminology.name': 'Terminology',
+    'home.hall.res.terminology.desc':
+      'Cross-strait vocabulary side by side: the PRC term, the Taiwanese term, and why they parted.',
+    'home.hall.res.converter.name': 'Terminology converter',
+    'home.hall.res.converter.desc':
+      'Paste a passage and replace PRC usage with the words people use in Taiwan.',
+    'home.hall.res.lifetree.name': 'Life tree',
+    'home.hall.res.lifetree.desc':
+      "A person's key decisions drawn as a branching tree: the path taken and the ones not taken. Experimental.",
+    'home.hall.res.names.name': 'Taiwanese names',
+    'home.hall.res.names.desc':
+      'Surnames, the given names that mark each generation, four official spellings, and a romanization tool.',
+    'home.hall.res.companies.name': 'Company landscape',
+    'home.hall.res.companies.desc':
+      "Taiwan's largest listed companies by market value, sortable and filterable.",
+    'home.hall.res.budget.name': 'Government budget',
+    'home.hall.res.budget.desc':
+      'Ten years of the central government budget: how it is split, which ministries grew, and how much was actually spent.',
+    'home.hall.res.industry.name': 'Industries and listed companies',
+    'home.hall.res.industry.desc':
+      'Exports, science parks, factories by county and market-cap rankings: the industrial structure in official statistics.',
+    'home.hall.res.elections.name': '2026 elections',
+    'home.hall.res.elections.desc':
+      'The 2026 local elections: candidates, campaign donations and voting information by city and county.',
+    'home.hall.res.health.name': 'Health and long-term care',
+    'home.hall.res.health.desc':
+      'How National Health Insurance and long-term care work, with subsidy and premium calculators.',
+    'home.hall.res.income.name': 'Pay, tax and retirement',
+    'home.hall.res.income.desc':
+      'Where a paycheck goes: wages, income tax, labor insurance and pensions, with four calculators.',
+    'home.hall.res.housing.name': 'Housing',
+    'home.hall.res.housing.desc':
+      'Price-to-income ratios, mortgages and the Qing-An loan, with a mortgage calculator and an affordability check.',
+    'home.hall.res.data.name': 'Data Taiwan',
+    'home.hall.res.data.desc':
+      'How Taiwan became what it is, read through its numbers, each linked to its official source.',
+    'home.hall.thumb1.tropic': 'Tropic of Cancer',
+    'home.hall.pick.sources': '{n} sources',
     'home.start.eyebrow': 'Start here',
     'home.people.eyebrow': 'People',
     'home.people.heading': 'The people who write, the people who read',
@@ -212,6 +295,8 @@ export const homeUI = {
     'home.people.voices.heading': 'Voices from the community',
     'home.people.voices.sub': 'What real readers told us',
     'home.people.voices.all': 'Read all {count}',
+    'home.people.voices.pause': 'Pause the moving comments',
+    'home.people.voices.play': 'Play the moving comments',
     'home.people.writers.heading': 'Contributors',
     'home.people.writers.all': 'See every contributor on GitHub',
     'home.recent.eyebrow': 'Lately',
@@ -364,6 +449,156 @@ export const homeUI = {
     'home.bridge.1to2': 'これがこの島の姿 — では誰がそれを作ったのか？',
     'home.bridge.2to3': 'この歴史を経て — ここに住む人たちは今何をしている？',
     'home.bridge.3to4': '彼らが残したもの — この島はこれからどこへ？',
+    'home.live.aria': 'Taiwan.md の現在の規模',
+    'home.live.articles': '件の記事',
+    'home.live.languages': '言語',
+    'home.live.writers': '人の執筆者',
+    'home.cover.axis.aria':
+      '8つの引用が属する時代。時代を選ぶと、その一節が読めます',
+    'home.cover.axis.scale': '線上の小さな目盛りは1つで25年',
+    'home.cover.autoplay.pause': '引用の自動切り替えを止める',
+    'home.cover.autoplay.play': '引用の自動切り替えを再開する',
+    'home.tools.eyebrow': 'ツールと特設ページ',
+    'home.tools.heading': 'すぐに使えるもの',
+    'home.tools.lead':
+      '記事を先に読まなくても、開けばすぐに調べたり、変換したり、ダウンロードしたりできます。',
+    'home.tools.election.name': '2026年選挙特集',
+    'home.tools.election.desc': '{races}の県市の候補者、政治献金、投票情報。',
+    'home.tools.election.badge': '{date} 投票',
+    'home.tools.timeline.name': '台湾タイムライン',
+    'home.tools.timeline.desc':
+      '先史時代から今日まで、{eras}の時代が一本の線上に並びます。',
+    'home.tools.companies.name': '企業マップ',
+    'home.tools.companies.desc':
+      '台湾で時価総額が大きい上場企業。並べ替えと絞り込みができます。',
+    'home.tools.converter.name': '用語変換ツール',
+    'home.tools.converter.desc':
+      '文章を貼り付けると、中国の用語を台湾での言い方に置き換えます。',
+    'home.tools.shape.name': '台湾のかたち',
+    'home.tools.shape.desc':
+      '正しく描いた台湾の輪郭。SVGと地理データをそのまま使えます。',
+    'home.tools.topics.name': '特集',
+    'home.tools.topics.desc':
+      '{count}本の特集。それぞれに記事があり、答えが出せるツールもあります。',
+    'home.tools.map.name': '地図',
+    'home.tools.map.desc':
+      '{count}本の記事を地図上に配置。よく知る場所から読み始められます。',
+    'home.categories.eyebrow': 'テーマ別に探す',
+    'home.topics.total': '件の記事、{topics}のテーマに分類',
+    'home.topics.recent': '直近30日の新着 {count}件',
+    'home.hall.thumb1.caption':
+      '{count}本の記事に場所が付いています。点が大きいほど、その一帯の記事が多いことを示し、右の棒グラフは北から南への記事数です。',
+    'home.hall.thumb1.outside':
+      '金門{kinmen}本、馬祖{matsu}本は図に含まれません。',
+    'home.hall.thumb1.cta': '地図を開く',
+    'home.hall.thumb2.caption':
+      'タイムラインのページは、{count}本の記事を{eras}の時代に振り分けています。点が1本の記事、横棒の長さがその時代の年数です。',
+    'home.hall.thumb2.prehistory': '先史',
+    'home.hall.thumb2.cta': 'タイムラインを開く',
+    'home.hall.thumb3.caption':
+      'この展示室の3つのテーマには、現在あわせて{count}本の記事があります。',
+    'home.hall.thumb4.caption':
+      '時価総額上位{count}社の上場企業を、時価総額に応じた面積で描いています。{top}1社で、この{count}社の合計の{pct}%を占めます。',
+    'home.hall.thumb4.cta': '企業マップを開く',
+    'home.halls.title': '四つの展示室',
+    'home.halls.eyebrow': '展示室',
+    'home.halls.lead':
+      'Taiwan.md は{count}本の記事を四つの展示室に並べています。各展示室は一編のキュレーション・エッセイで始まり、そのあとにその展示室のテーマ、特集、ツールが続きます。',
+    'home.halls.meta.description':
+      'Taiwan.md の四つの展示室。この島はどんな姿か、どうやって生まれたか、島の人々は何をしているか、そしてどこへ向かうか。各展示室にキュレーション・エッセイ、厳選記事、そしてその展示室のテーマ、特集、ツールがあります。',
+    'home.halls.lobby': 'ロビー',
+    'home.hall.label': '展示室{numeral}',
+    'home.hall.meta.title': '展示室{numeral}：{title}',
+    'home.hall.meta.description':
+      'Taiwan.md の四つの展示室のうち{numeral}「{title}」。キュレーション・エッセイの全文、{categories}の厳選記事、そしてこの展示室の特集とツール。',
+    'home.hall.lede':
+      'この展示室に収めているのは{categories}です。現在、記事は全部で{count}本あります。',
+    'home.hall.prose.fallback':
+      'このキュレーション・エッセイにはまだこの言語の版がないため、英語で表示しています。',
+    'home.hall.residents.eyebrow': 'ツールと特設ページ',
+    'home.hall.residents.heading': 'この展示室ですぐに使えるもの',
+    'home.hall.kind.topic': '特集',
+    'home.hall.kind.tool': 'ツール',
+    'home.hall.kind.interactive': 'インタラクティブ',
+    'home.hall.kind.data': 'データ',
+    'home.hall.categories.eyebrow': 'テーマ別に探す',
+    'home.hall.categories.heading': 'この展示室のテーマ',
+    'home.hall.corridor.eyebrow': '回廊',
+    'home.hall.corridor.heading': 'このあとどこへ',
+    'home.hall.corridor.prev': '前の展示室',
+    'home.hall.corridor.next': '次の展示室',
+    'home.hall.corridor.lobby': 'ロビーへ戻る',
+    'home.hall.corridor.all': '四つの展示室を見る',
+    'home.lobby.enter': 'この展示室に入る',
+    'home.lobby.residents': 'この展示室にはほかにも',
+    'home.lobby.all': '四つの展示室の一覧を見る',
+    'home.hall.res.taiwan_shape.name': '台湾のかたち',
+    'home.hall.res.taiwan_shape.desc':
+      '正しく描いた台湾の輪郭。SVGと地理データをそのまま使えます。',
+    'home.hall.res.map.name': '地図',
+    'home.hall.res.map.desc':
+      '地図上で県市や場所を選び、そこの記事を読めます。',
+    'home.hall.res.soundscape.name': 'サウンドスケープ',
+    'home.hall.res.soundscape.desc':
+      '耳で知る台湾。ごみ収集車、廟の祭り、波の音のフィールド録音。',
+    'home.hall.res.timeline.name': 'タイムライン',
+    'home.hall.res.timeline.desc':
+      '先史時代から今日まで、各時代にサイト上の記事がつながります。',
+    'home.hall.res.terminology.name': '用語集',
+    'home.hall.res.terminology.desc':
+      '両岸の用語対照。中国の言い方、台湾の言い方、語源と分かれた理由。',
+    'home.hall.res.converter.name': '用語変換ツール',
+    'home.hall.res.converter.desc':
+      '文章を貼り付けると、中国の用語を台湾での言い方に置き換えます。',
+    'home.hall.res.lifetree.name': '生命の樹',
+    'home.hall.res.lifetree.desc':
+      '一人の重要な決断を枝分かれする樹として描きます。選んだ道と選ばなかった道。実験中です。',
+    'home.hall.res.names.name': '台湾人の名前',
+    'home.hall.res.names.desc':
+      '姓の分布、世代を映す名前、四種の公式ローマ字、姓名のローマ字変換ツール付き。',
+    'home.hall.res.companies.name': '企業マップ',
+    'home.hall.res.companies.desc':
+      '台湾で時価総額が大きい上場企業。並べ替えと絞り込みができます。',
+    'home.hall.res.budget.name': '総予算',
+    'home.hall.res.budget.desc':
+      '中央政府の総予算の10年間。お金の配分、伸びた部会、最終的に使い切ったかどうか。',
+    'home.hall.res.industry.name': '産業と上場企業',
+    'home.hall.res.industry.desc':
+      '輸出、サイエンスパーク、県市別の工場、年ごとの時価総額ランキング。公式統計で産業構造を描きます。',
+    'home.hall.res.elections.name': '2026年選挙',
+    'home.hall.res.elections.desc':
+      '統一地方選挙の特集。各県市の候補者、政治献金、投票情報。',
+    'home.hall.res.health.name': '医療と介護',
+    'home.hall.res.health.desc':
+      '健康保険と介護の仕組み。介護の補助と健保料の試算付き。',
+    'home.hall.res.income.name': '給与・税・退職',
+    'home.hall.res.income.desc':
+      '給料の行き先。賃金分布、総合所得税、労働保険と労働退職金。試算ツール4種付き。',
+    'home.hall.res.housing.name': '不動産',
+    'home.hall.res.housing.desc':
+      '住宅価格の所得比、住宅ローンと青安ローン。ローン試算と負担の自己点検付き。',
+    'home.hall.res.data.name': 'データで見る台湾',
+    'home.hall.res.data.desc':
+      '数字で読む、台湾が今の姿になるまで。どの数字にも公式の出典が付いています。',
+    'home.hall.thumb1.tropic': '北回帰線',
+    'home.hall.pick.sources': '引用{n}件',
+    'home.start.eyebrow': 'ここから始める',
+    'home.people.eyebrow': '人',
+    'home.people.heading': '書く人、読む人',
+    'home.people.lead':
+      'ここにある内容は、{writers}人の執筆者によって書かれました。読者が寄せてくれる言葉には、励ましもあれば、指摘もあります。',
+    'home.people.voices.heading': 'コミュニティからの声',
+    'home.people.voices.sub': '実際の利用者からのフィードバック',
+    'home.people.voices.all': '{count}件すべてを見る',
+    'home.people.voices.pause': 'コメントの流れを止める',
+    'home.people.voices.play': 'コメントの流れを再開する',
+    'home.people.writers.heading': '執筆者',
+    'home.people.writers.all': 'GitHub で執筆者全員を見る',
+    'home.recent.eyebrow': '最近',
+    'home.recent.heading': '最近追加された記事',
+    'home.organism.eyebrow': '仕組み',
+    'home.join.eyebrow': '参加する',
+    'home.join.app.alt': 'App Store で Taiwan.md をダウンロード',
   },
   ko: {
     'hero.stat.history.number': '400+',
@@ -510,6 +745,157 @@ export const homeUI = {
     'home.bridge.1to2': '이 섬은 이런 모습이다 — 그런데 누가 이렇게 만들었나?',
     'home.bridge.2to3': '이 역사를 거쳐 — 여기 사는 사람들은 지금 뭘 하나?',
     'home.bridge.3to4': '그들이 남긴 것 — 이 섬은 이제 어디로?',
+    'home.live.aria': 'Taiwan.md의 현재 규모',
+    'home.live.articles': '편의 글',
+    'home.live.languages': '개 언어',
+    'home.live.writers': '명의 필진',
+    'home.cover.axis.aria':
+      '여덟 개 인용문의 시대. 시대를 고르면 그 구절을 볼 수 있습니다',
+    'home.cover.axis.scale': '선 위의 작은 눈금 한 칸은 25년',
+    'home.cover.autoplay.pause': '인용문 자동 전환 멈추기',
+    'home.cover.autoplay.play': '인용문 자동 전환 다시 켜기',
+    'home.tools.eyebrow': '도구와 특집 코너',
+    'home.tools.heading': '바로 쓸 수 있는 것',
+    'home.tools.lead':
+      '먼저 글을 읽지 않아도, 열면 바로 찾아보고 바꾸고 내려받을 수 있습니다.',
+    'home.tools.election.name': '2026 선거 특집',
+    'home.tools.election.desc':
+      '{races}개 현·시의 후보자, 정치자금, 투표 정보.',
+    'home.tools.election.badge': '{date} 투표',
+    'home.tools.timeline.name': '대만 타임라인',
+    'home.tools.timeline.desc':
+      '선사 시대부터 오늘까지, {eras}개 시대가 한 줄 위에 놓입니다.',
+    'home.tools.companies.name': '기업 지도',
+    'home.tools.companies.desc':
+      '대만에서 시가총액이 큰 상장사. 정렬과 필터가 가능합니다.',
+    'home.tools.converter.name': '용어 변환기',
+    'home.tools.converter.desc':
+      '글을 붙여 넣으면 중국식 용어를 대만에서 쓰는 말로 바꿔 줍니다.',
+    'home.tools.shape.name': '대만의 모양',
+    'home.tools.shape.desc':
+      '제대로 그린 대만의 윤곽. SVG와 지리 데이터 파일을 그대로 가져다 쓸 수 있습니다.',
+    'home.tools.topics.name': '기획',
+    'home.tools.topics.desc':
+      '{count}개의 기획. 각 기획에는 글과 함께 답을 계산해 주는 도구가 있습니다.',
+    'home.tools.map.name': '지도',
+    'home.tools.map.desc':
+      '{count}편의 글이 지도 위에 표시되어 있습니다. 잘 아는 곳에서부터 읽어 보세요.',
+    'home.categories.eyebrow': '주제별로 찾기',
+    'home.topics.total': '편의 글, {topics}개 주제로 분류',
+    'home.topics.recent': '최근 30일간 새로 올라온 글 {count}편',
+    'home.hall.thumb1.caption':
+      '{count}편의 글에 위치가 표시됩니다. 점이 클수록 그 일대의 글이 많고, 오른쪽 막대는 북에서 남으로 편수를 센 것입니다.',
+    'home.hall.thumb1.outside':
+      '진먼 {kinmen}편, 마쭈 {matsu}편은 지도에 나오지 않습니다.',
+    'home.hall.thumb1.cta': '지도 열기',
+    'home.hall.thumb2.caption':
+      '타임라인 페이지는 {count}편의 글을 {eras}개 시대로 나눕니다. 점 하나가 글 한 편이고, 가로 막대의 길이는 그 시대가 몇 년이었는지를 나타냅니다.',
+    'home.hall.thumb2.prehistory': '선사',
+    'home.hall.thumb2.cta': '타임라인 열기',
+    'home.hall.thumb3.caption':
+      '이 전시관의 세 가지 주제에는 현재 모두 {count}편의 글이 있습니다.',
+    'home.hall.thumb4.caption':
+      '시가총액 상위 {count}개 상장사를 시가총액에 비례한 면적으로 그렸습니다. {top} 한 곳이 이 {count}개 회사 합계의 {pct}%를 차지합니다.',
+    'home.hall.thumb4.cta': '기업 지도 열기',
+    'home.halls.title': '네 개의 전시관',
+    'home.halls.eyebrow': '전시관',
+    'home.halls.lead':
+      'Taiwan.md는 {count}편의 글을 네 개의 전시관으로 나누어 배치했습니다. 각 전시관은 큐레이션 에세이 한 편으로 시작하고, 이어서 그 전시관의 주제와 기획, 도구가 나옵니다.',
+    'home.halls.meta.description':
+      'Taiwan.md의 네 개 전시관: 이 섬은 어떤 모습인지, 어떻게 만들어졌는지, 섬의 사람들은 무엇을 하는지, 어디로 가는지. 각 전시관에는 큐레이션 에세이와 엄선한 글, 그리고 그 전시관의 주제와 기획, 도구가 있습니다.',
+    'home.halls.lobby': '로비',
+    'home.hall.label': '전시관 {numeral}',
+    'home.hall.meta.title': '전시관 {numeral}: {title}',
+    'home.hall.meta.description':
+      'Taiwan.md 네 개 전시관 가운데 {numeral} "{title}": 큐레이션 에세이 전문, {categories} 분야의 엄선한 글, 그리고 이 전시관의 기획과 도구.',
+    'home.hall.lede':
+      '이 전시관에는 {categories} 분야가 담겨 있으며, 현재 글은 모두 {count}편입니다.',
+    'home.hall.prose.fallback':
+      '이 큐레이션 에세이는 아직 이 언어판이 없어 영어로 보여 드립니다.',
+    'home.hall.residents.eyebrow': '도구와 특집 코너',
+    'home.hall.residents.heading': '이 전시관에서 바로 쓸 수 있는 것',
+    'home.hall.kind.topic': '기획',
+    'home.hall.kind.tool': '도구',
+    'home.hall.kind.interactive': '인터랙티브',
+    'home.hall.kind.data': '데이터',
+    'home.hall.categories.eyebrow': '주제별로 찾기',
+    'home.hall.categories.heading': '이 전시관의 주제',
+    'home.hall.corridor.eyebrow': '복도',
+    'home.hall.corridor.heading': '이어서 어디로 갈까요',
+    'home.hall.corridor.prev': '이전 전시관',
+    'home.hall.corridor.next': '다음 전시관',
+    'home.hall.corridor.lobby': '로비로 돌아가기',
+    'home.hall.corridor.all': '네 개 전시관 보기',
+    'home.lobby.enter': '이 전시관으로 들어가기',
+    'home.lobby.residents': '이 전시관에는 이런 것도 있습니다',
+    'home.lobby.all': '네 개 전시관 전체 보기',
+    'home.hall.res.taiwan_shape.name': '대만의 모양',
+    'home.hall.res.taiwan_shape.desc':
+      '제대로 그린 대만의 윤곽. SVG와 지리 데이터 파일을 그대로 가져다 쓸 수 있습니다.',
+    'home.hall.res.map.name': '지도',
+    'home.hall.res.map.desc':
+      '지도에서 현·시나 장소를 눌러 그곳의 글을 읽어 보세요.',
+    'home.hall.res.soundscape.name': '사운드스케이프',
+    'home.hall.res.soundscape.desc':
+      '귀로 만나는 대만: 쓰레기차, 사원 축제, 파도 소리의 현장 녹음.',
+    'home.hall.res.timeline.name': '타임라인',
+    'home.hall.res.timeline.desc':
+      '선사 시대부터 오늘까지, 각 시대마다 사이트의 글이 이어집니다.',
+    'home.hall.res.terminology.name': '용어집',
+    'home.hall.res.terminology.desc':
+      '양안 용어 대조: 중국식 표현, 대만식 표현, 어원과 갈라진 이유.',
+    'home.hall.res.converter.name': '용어 변환기',
+    'home.hall.res.converter.desc':
+      '글을 붙여 넣으면 중국식 용어를 대만에서 쓰는 말로 바꿔 줍니다.',
+    'home.hall.res.lifetree.name': '생명의 나무',
+    'home.hall.res.lifetree.desc':
+      '한 사람의 핵심적인 결정을 가지 뻗은 나무로 그립니다. 선택한 길과 선택하지 않은 길. 실험 중입니다.',
+    'home.hall.res.names.name': '대만 사람의 이름',
+    'home.hall.res.names.desc':
+      '성씨 분포, 세대를 드러내는 이름, 네 가지 공식 로마자 표기, 이름 로마자 변환 도구가 있습니다.',
+    'home.hall.res.companies.name': '기업 지도',
+    'home.hall.res.companies.desc':
+      '대만에서 시가총액이 큰 상장사. 정렬과 필터가 가능합니다.',
+    'home.hall.res.budget.name': '총예산',
+    'home.hall.res.budget.desc':
+      '중앙정부 총예산 10년: 돈이 어떻게 나뉘는지, 어느 부처가 늘었는지, 결국 다 썼는지.',
+    'home.hall.res.industry.name': '산업과 상장사',
+    'home.hall.res.industry.desc':
+      '수출, 과학단지, 현·시별 공장, 연도별 시가총액 순위. 공식 통계로 산업 구조를 그려 냅니다.',
+    'home.hall.res.elections.name': '2026 선거',
+    'home.hall.res.elections.desc':
+      '지방선거 특집: 현·시별 후보자, 정치자금, 투표 정보.',
+    'home.hall.res.health.name': '의료와 장기요양',
+    'home.hall.res.health.desc':
+      '건강보험과 장기요양이 어떻게 돌아가는지. 장기요양 보조금과 건강보험료 계산기가 딸려 있습니다.',
+    'home.hall.res.income.name': '급여·세금·은퇴',
+    'home.hall.res.income.desc':
+      '월급이 가는 곳: 임금 분포, 종합소득세, 노동보험과 노동 퇴직금. 계산 도구 네 가지가 있습니다.',
+    'home.hall.res.housing.name': '부동산',
+    'home.hall.res.housing.desc':
+      '소득 대비 집값 비율, 주택담보대출과 청안 대출. 대출 계산기와 부담 자가 점검이 딸려 있습니다.',
+    'home.hall.res.data.name': '데이터 대만',
+    'home.hall.res.data.desc':
+      '숫자로 읽는, 대만이 지금의 모습이 되기까지. 모든 숫자에 공식 출처가 달려 있습니다.',
+    'home.hall.thumb1.tropic': '북회귀선',
+    'home.hall.pick.sources': '출처 {n}건',
+    'home.start.eyebrow': '여기서 시작하기',
+    'home.people.eyebrow': '사람',
+    'home.people.heading': '쓰는 사람, 읽는 사람',
+    'home.people.lead':
+      '이곳의 글은 {writers}명의 필진이 썼습니다. 독자가 남기는 말에는 응원도 있고 지적도 있습니다.',
+    'home.people.voices.heading': '커뮤니티의 목소리',
+    'home.people.voices.sub': '실제 이용자들의 피드백',
+    'home.people.voices.all': '전체 {count}건 보기',
+    'home.people.voices.pause': '댓글 흐름 멈추기',
+    'home.people.voices.play': '댓글 흐름 다시 켜기',
+    'home.people.writers.heading': '필진',
+    'home.people.writers.all': 'GitHub에서 모든 필진 보기',
+    'home.recent.eyebrow': '최근',
+    'home.recent.heading': '최근 새로 올라온 글',
+    'home.organism.eyebrow': '작동 방식',
+    'home.join.eyebrow': '참여하기',
+    'home.join.app.alt': 'App Store에서 Taiwan.md 내려받기',
   },
   vi: {
     'hero.stat.history.number': '400+',
@@ -666,6 +1052,157 @@ export const homeUI = {
       'Sau khi trải qua tất cả những điều này — người dân sống nơi đây đang làm gì?',
     'home.bridge.3to4':
       'Họ đã để lại những điều này — vậy hòn đảo sẽ đi về đâu?',
+    'home.live.aria': 'Quy mô hiện tại của Taiwan.md',
+    'home.live.articles': 'bài viết',
+    'home.live.languages': 'ngôn ngữ',
+    'home.live.writers': 'người viết',
+    'home.cover.axis.aria':
+      'Niên đại của tám câu trích dẫn; chọn một niên đại để đọc câu ấy',
+    'home.cover.axis.scale': 'Mỗi vạch nhỏ trên đường là 25 năm',
+    'home.cover.autoplay.pause': 'Tạm dừng tự động đổi câu trích',
+    'home.cover.autoplay.play': 'Tiếp tục tự động đổi câu trích',
+    'home.tools.eyebrow': 'Công cụ và chuyên mục',
+    'home.tools.heading': 'Dùng được ngay',
+    'home.tools.lead':
+      'Không cần đọc bài trước: mở ra là tra cứu, chuyển đổi hoặc tải về được ngay.',
+    'home.tools.election.name': 'Chuyên mục Bầu cử 2026',
+    'home.tools.election.desc':
+      'Ứng cử viên, tiền quyên góp chính trị và thông tin bỏ phiếu của {races} thành phố và huyện.',
+    'home.tools.election.badge': 'Ngày bầu cử: {date}',
+    'home.tools.timeline.name': 'Đài Loan theo dòng thời gian',
+    'home.tools.timeline.desc':
+      'Từ thời tiền sử đến hôm nay, {eras} thời kỳ nằm trên một đường thẳng.',
+    'home.tools.companies.name': 'Bản đồ doanh nghiệp',
+    'home.tools.companies.desc':
+      'Các công ty niêm yết có giá trị vốn hóa lớn nhất Đài Loan, có thể sắp xếp và lọc.',
+    'home.tools.converter.name': 'Công cụ chuyển đổi thuật ngữ',
+    'home.tools.converter.desc':
+      'Dán một đoạn văn, công cụ sẽ đổi cách dùng từ của Trung Quốc đại lục sang cách nói của người Đài Loan.',
+    'home.tools.shape.name': 'Hình dạng Đài Loan',
+    'home.tools.shape.desc':
+      'Đường viền Đài Loan được vẽ đúng; tệp SVG và dữ liệu địa lý có thể dùng thẳng.',
+    'home.tools.topics.name': 'Chuyên đề',
+    'home.tools.topics.desc':
+      '{count} chuyên đề. Mỗi chuyên đề có bài viết và cả công cụ tính ra câu trả lời.',
+    'home.tools.map.name': 'Bản đồ',
+    'home.tools.map.desc':
+      '{count} bài viết được ghim trên bản đồ. Hãy bắt đầu từ nơi bạn quen thuộc.',
+    'home.categories.eyebrow': 'Tìm theo chủ đề',
+    'home.topics.total': 'bài viết, chia thành {topics} chủ đề',
+    'home.topics.recent': '{count} bài mới trong 30 ngày qua',
+    'home.hall.thumb1.caption':
+      '{count} bài viết có thể gắn vào bản đồ. Chấm càng lớn thì vùng đó càng có nhiều bài; các thanh bên phải đếm số bài từ bắc xuống nam.',
+    'home.hall.thumb1.outside':
+      'Không vẽ ở đây: {kinmen} bài về Kim Môn và {matsu} bài về Mã Tổ.',
+    'home.hall.thumb1.cta': 'Mở bản đồ',
+    'home.hall.thumb2.caption':
+      'Trang dòng thời gian xếp {count} bài viết vào {eras} thời kỳ. Một chấm là một bài; độ dài mỗi thanh ngang là số năm của thời kỳ đó.',
+    'home.hall.thumb2.prehistory': 'Tiền sử',
+    'home.hall.thumb2.cta': 'Mở dòng thời gian',
+    'home.hall.thumb3.caption':
+      'Ba chủ đề của gian này hiện có tổng cộng {count} bài viết.',
+    'home.hall.thumb4.caption':
+      '{count} công ty niêm yết có vốn hóa lớn nhất, diện tích vẽ theo vốn hóa. Riêng {top} chiếm {pct}% tổng của {count} công ty này.',
+    'home.hall.thumb4.cta': 'Mở bản đồ doanh nghiệp',
+    'home.halls.title': 'Bốn gian trưng bày',
+    'home.halls.eyebrow': 'Gian trưng bày',
+    'home.halls.lead':
+      'Taiwan.md sắp xếp {count} bài viết thành bốn gian trưng bày. Mỗi gian mở đầu bằng một bài tản văn tuyển chọn, tiếp theo là các chủ đề, chuyên đề và công cụ của gian đó.',
+    'home.halls.meta.description':
+      'Bốn gian trưng bày của Taiwan.md: hòn đảo này trông như thế nào, hình thành ra sao, con người trên đảo đang làm gì và đi về đâu. Mỗi gian có một bài tản văn tuyển chọn, các bài viết chọn lọc, cùng chủ đề, chuyên đề và công cụ của gian đó.',
+    'home.halls.lobby': 'Sảnh chính',
+    'home.hall.label': 'Gian {numeral}',
+    'home.hall.meta.title': 'Gian {numeral}: {title}',
+    'home.hall.meta.description':
+      'Gian {numeral} trong bốn gian của Taiwan.md, "{title}": toàn văn bài tản văn tuyển chọn, các bài chọn lọc về {categories}, cùng chuyên đề và công cụ của gian này.',
+    'home.hall.lede':
+      'Gian này gồm {categories}, hiện có tất cả {count} bài viết.',
+    'home.hall.prose.fallback':
+      'Bài tản văn này chưa có bản ở ngôn ngữ này nên tạm hiển thị bằng tiếng Anh.',
+    'home.hall.residents.eyebrow': 'Công cụ và chuyên mục',
+    'home.hall.residents.heading': 'Dùng được ngay trong gian này',
+    'home.hall.kind.topic': 'Chuyên đề',
+    'home.hall.kind.tool': 'Công cụ',
+    'home.hall.kind.interactive': 'Tương tác',
+    'home.hall.kind.data': 'Dữ liệu',
+    'home.hall.categories.eyebrow': 'Tìm theo chủ đề',
+    'home.hall.categories.heading': 'Các chủ đề của gian này',
+    'home.hall.corridor.eyebrow': 'Hành lang',
+    'home.hall.corridor.heading': 'Đi tiếp đâu',
+    'home.hall.corridor.prev': 'Gian trước',
+    'home.hall.corridor.next': 'Gian sau',
+    'home.hall.corridor.lobby': 'Về sảnh chính',
+    'home.hall.corridor.all': 'Xem cả bốn gian',
+    'home.lobby.enter': 'Bước vào gian này',
+    'home.lobby.residents': 'Trong gian này còn có',
+    'home.lobby.all': 'Xem tổng quan bốn gian trưng bày',
+    'home.hall.res.taiwan_shape.name': 'Hình dạng Đài Loan',
+    'home.hall.res.taiwan_shape.desc':
+      'Đường viền Đài Loan được vẽ đúng; tệp SVG và dữ liệu địa lý có thể dùng thẳng.',
+    'home.hall.res.map.name': 'Bản đồ',
+    'home.hall.res.map.desc':
+      'Chọn một thành phố, huyện hay địa điểm trên bản đồ để đọc những bài viết về nơi đó.',
+    'home.hall.res.soundscape.name': 'Cảnh quan âm thanh',
+    'home.hall.res.soundscape.desc':
+      'Làm quen Đài Loan bằng đôi tai: thu âm hiện trường tiếng xe rác, lễ hội đền miếu và sóng biển.',
+    'home.hall.res.timeline.name': 'Dòng thời gian',
+    'home.hall.res.timeline.desc':
+      'Từ thời tiền sử đến hôm nay, mỗi thời kỳ nối với các bài viết trên trang.',
+    'home.hall.res.terminology.name': 'Kho thuật ngữ',
+    'home.hall.res.terminology.desc':
+      'Đối chiếu từ ngữ hai bờ: cách nói của Trung Quốc đại lục, cách nói của Đài Loan, nguồn gốc từ và lý do hai bên phân hóa.',
+    'home.hall.res.converter.name': 'Công cụ chuyển đổi thuật ngữ',
+    'home.hall.res.converter.desc':
+      'Dán một đoạn văn, công cụ sẽ đổi cách dùng từ của Trung Quốc đại lục sang cách nói của người Đài Loan.',
+    'home.hall.res.lifetree.name': 'Cây cuộc đời',
+    'home.hall.res.lifetree.desc':
+      'Những quyết định then chốt của một người được vẽ thành cây phân nhánh: con đường đã chọn và những con đường không chọn. Đang thử nghiệm.',
+    'home.hall.res.names.name': 'Tên người Đài Loan',
+    'home.hall.res.names.desc':
+      'Phân bố họ, những cái tên đặc trưng của từng thế hệ, bốn hệ phiên âm chính thức, kèm công cụ phiên âm họ tên.',
+    'home.hall.res.companies.name': 'Bản đồ doanh nghiệp',
+    'home.hall.res.companies.desc':
+      'Các công ty niêm yết có giá trị vốn hóa lớn nhất Đài Loan, có thể sắp xếp và lọc.',
+    'home.hall.res.budget.name': 'Tổng ngân sách',
+    'home.hall.res.budget.desc':
+      'Mười năm tổng ngân sách chính quyền trung ương: tiền chia thế nào, bộ nào tăng, và cuối cùng có chi hết hay không.',
+    'home.hall.res.industry.name': 'Ngành nghề và công ty niêm yết',
+    'home.hall.res.industry.desc':
+      'Xuất khẩu, khu khoa học, nhà máy theo từng thành phố và huyện, bảng xếp hạng vốn hóa qua các năm: cơ cấu công nghiệp được vẽ từ số liệu thống kê chính thức.',
+    'home.hall.res.elections.name': 'Bầu cử 2026',
+    'home.hall.res.elections.desc':
+      'Chuyên mục bầu cử địa phương: ứng cử viên, tiền quyên góp chính trị và thông tin bỏ phiếu của từng thành phố và huyện.',
+    'home.hall.res.health.name': 'Y tế và chăm sóc dài hạn',
+    'home.hall.res.health.desc':
+      'Bảo hiểm y tế và chăm sóc dài hạn vận hành ra sao, kèm công cụ tính trợ cấp chăm sóc dài hạn và phí bảo hiểm y tế.',
+    'home.hall.res.income.name': 'Lương, thuế và hưu trí',
+    'home.hall.res.income.desc':
+      'Tiền lương đi về đâu: phân bố tiền lương, thuế thu nhập, bảo hiểm lao động và lương hưu lao động, kèm bốn công cụ tính.',
+    'home.hall.res.housing.name': 'Bất động sản',
+    'home.hall.res.housing.desc':
+      'Tỷ lệ giá nhà trên thu nhập, vay mua nhà và khoản vay Thanh An (Qing-An), kèm công cụ tính khoản vay và bảng tự kiểm tra gánh nặng.',
+    'home.hall.res.data.name': 'Đài Loan qua dữ liệu',
+    'home.hall.res.data.desc':
+      'Đọc Đài Loan trở thành như hôm nay qua những con số, mỗi số đều kèm nguồn chính thức.',
+    'home.hall.thumb1.tropic': 'Chí tuyến Bắc',
+    'home.hall.pick.sources': '{n} nguồn',
+    'home.start.eyebrow': 'Bắt đầu từ đây',
+    'home.people.eyebrow': 'Con người',
+    'home.people.heading': 'Người viết, người đọc',
+    'home.people.lead':
+      'Nội dung ở đây do {writers} người viết nên. Những lời độc giả để lại, có khi là lời động viên, có khi là lời chỉ ra chỗ sai.',
+    'home.people.voices.heading': 'Tiếng nói từ cộng đồng',
+    'home.people.voices.sub': 'Phản hồi từ người dùng thật',
+    'home.people.voices.all': 'Xem tất cả {count} lời',
+    'home.people.voices.pause': 'Tạm dừng dòng bình luận',
+    'home.people.voices.play': 'Tiếp tục dòng bình luận',
+    'home.people.writers.heading': 'Người viết',
+    'home.people.writers.all': 'Xem tất cả người viết trên GitHub',
+    'home.recent.eyebrow': 'Gần đây',
+    'home.recent.heading': 'Các bài viết mới thêm gần đây',
+    'home.organism.eyebrow': 'Cách vận hành',
+    'home.join.eyebrow': 'Tham gia',
+    'home.join.app.alt': 'Tải Taiwan.md trên App Store',
   },
   id: {
     'hero.stat.history.number': '400+',
@@ -820,6 +1357,157 @@ export const homeUI = {
       'Setelah melalui semua ini — lalu apa yang dilakukan orang-orang yang hidup di sini?',
     'home.bridge.3to4':
       'Mereka meninggalkan semua ini — lalu ke mana arah negeri ini?',
+    'home.live.aria': 'Skala Taiwan.md saat ini',
+    'home.live.articles': 'artikel',
+    'home.live.languages': 'bahasa',
+    'home.live.writers': 'penulis',
+    'home.cover.axis.aria':
+      'Masa dari delapan kutipan; pilih satu masa untuk membaca kutipannya',
+    'home.cover.axis.scale': 'Setiap tanda kecil pada garis mewakili 25 tahun',
+    'home.cover.autoplay.pause': 'Jeda pergantian kutipan otomatis',
+    'home.cover.autoplay.play': 'Lanjutkan pergantian kutipan otomatis',
+    'home.tools.eyebrow': 'Alat dan laman khusus',
+    'home.tools.heading': 'Siap dipakai',
+    'home.tools.lead':
+      'Tidak perlu membaca artikel lebih dulu. Buka saja untuk mencari, mengonversi, atau mengunduh.',
+    'home.tools.election.name': 'Laman Khusus Pemilu 2026',
+    'home.tools.election.desc':
+      'Kandidat, donasi politik, dan informasi pemungutan suara di {races} kota dan kabupaten.',
+    'home.tools.election.badge': 'Hari pemilihan: {date}',
+    'home.tools.timeline.name': 'Lini Masa Taiwan',
+    'home.tools.timeline.desc':
+      'Dari prasejarah hingga hari ini, {eras} masa berjajar pada satu garis.',
+    'home.tools.companies.name': 'Peta Perusahaan',
+    'home.tools.companies.desc':
+      'Perusahaan tercatat dengan kapitalisasi pasar terbesar di Taiwan, bisa diurutkan dan difilter.',
+    'home.tools.converter.name': 'Pengonversi Istilah',
+    'home.tools.converter.desc':
+      'Tempel sebuah teks, lalu ganti istilah gaya Tiongkok daratan dengan kata-kata yang dipakai di Taiwan.',
+    'home.tools.shape.name': 'Bentuk Taiwan',
+    'home.tools.shape.desc':
+      'Garis bentuk Taiwan yang digambar dengan benar; berkas SVG dan data geografisnya bisa langsung dipakai.',
+    'home.tools.topics.name': 'Topik Khusus',
+    'home.tools.topics.desc':
+      '{count} topik khusus. Setiap topik berisi artikel dan juga alat hitung yang memberi jawaban.',
+    'home.tools.map.name': 'Peta',
+    'home.tools.map.desc':
+      '{count} artikel disematkan pada peta. Mulailah dari tempat yang Anda kenal.',
+    'home.categories.eyebrow': 'Cari menurut tema',
+    'home.topics.total': 'artikel dalam {topics} tema',
+    'home.topics.recent': '{count} artikel baru dalam 30 hari terakhir',
+    'home.hall.thumb1.caption':
+      '{count} artikel dapat ditempatkan pada peta. Titik yang lebih besar berarti lebih banyak artikel di sekitarnya; batang di sebelah kanan menghitungnya dari utara ke selatan.',
+    'home.hall.thumb1.outside':
+      'Tidak digambar di sini: {kinmen} artikel tentang Kinmen dan {matsu} tentang Matsu.',
+    'home.hall.thumb1.cta': 'Buka peta',
+    'home.hall.thumb2.caption':
+      'Halaman lini masa memilah {count} artikel ke dalam {eras} masa. Satu titik adalah satu artikel; panjang tiap batang menunjukkan berapa tahun masa itu berlangsung.',
+    'home.hall.thumb2.prehistory': 'Prasejarah',
+    'home.hall.thumb2.cta': 'Buka lini masa',
+    'home.hall.thumb3.caption':
+      'Tiga tema di ruang pamer ini kini memuat {count} artikel.',
+    'home.hall.thumb4.caption':
+      '{count} perusahaan tercatat terbesar, digambar menurut kapitalisasi pasarnya. {top} saja menyumbang {pct}% dari total {count} perusahaan ini.',
+    'home.hall.thumb4.cta': 'Buka peta perusahaan',
+    'home.halls.title': 'Empat Ruang Pamer',
+    'home.halls.eyebrow': 'Ruang pamer',
+    'home.halls.lead':
+      'Taiwan.md menata {count} artikelnya ke dalam empat ruang pamer. Setiap ruang dibuka dengan satu esai kurasi, diikuti tema, topik khusus, dan alat milik ruang itu.',
+    'home.halls.meta.description':
+      'Empat ruang pamer Taiwan.md: seperti apa wajah pulau ini, bagaimana ia terbentuk, apa yang dikerjakan orang-orangnya, dan ke mana ia melangkah. Setiap ruang memiliki esai kurasi, artikel pilihan, serta tema, topik khusus, dan alatnya sendiri.',
+    'home.halls.lobby': 'Lobi',
+    'home.hall.label': 'Ruang Pamer {numeral}',
+    'home.hall.meta.title': 'Ruang Pamer {numeral}: {title}',
+    'home.hall.meta.description':
+      'Ruang {numeral} dari empat ruang pamer Taiwan.md, "{title}": esai kurasi lengkap, artikel pilihan tentang {categories}, serta topik khusus dan alat di ruang ini.',
+    'home.hall.lede':
+      'Ruang ini memuat {categories}, saat ini ada {count} artikel secara keseluruhan.',
+    'home.hall.prose.fallback':
+      'Esai kurasi ini belum tersedia dalam bahasa ini, sehingga ditampilkan dalam bahasa Inggris.',
+    'home.hall.residents.eyebrow': 'Alat dan laman khusus',
+    'home.hall.residents.heading': 'Siap dipakai di ruang ini',
+    'home.hall.kind.topic': 'Topik',
+    'home.hall.kind.tool': 'Alat',
+    'home.hall.kind.interactive': 'Interaktif',
+    'home.hall.kind.data': 'Data',
+    'home.hall.categories.eyebrow': 'Cari menurut tema',
+    'home.hall.categories.heading': 'Tema di ruang ini',
+    'home.hall.corridor.eyebrow': 'Koridor',
+    'home.hall.corridor.heading': 'Ke mana selanjutnya',
+    'home.hall.corridor.prev': 'Ruang sebelumnya',
+    'home.hall.corridor.next': 'Ruang berikutnya',
+    'home.hall.corridor.lobby': 'Kembali ke lobi',
+    'home.hall.corridor.all': 'Lihat keempat ruang',
+    'home.lobby.enter': 'Masuk ke ruang ini',
+    'home.lobby.residents': 'Di ruang ini juga ada',
+    'home.lobby.all': 'Lihat ringkasan keempat ruang pamer',
+    'home.hall.res.taiwan_shape.name': 'Bentuk Taiwan',
+    'home.hall.res.taiwan_shape.desc':
+      'Garis bentuk Taiwan yang digambar dengan benar; berkas SVG dan data geografisnya bisa langsung dipakai.',
+    'home.hall.res.map.name': 'Peta',
+    'home.hall.res.map.desc':
+      'Klik sebuah kota, kabupaten, atau tempat pada peta, lalu baca artikel tentangnya.',
+    'home.hall.res.soundscape.name': 'Lanskap Suara',
+    'home.hall.res.soundscape.desc':
+      'Mengenal Taiwan lewat telinga: rekaman lapangan truk sampah, festival kuil, dan deru ombak.',
+    'home.hall.res.timeline.name': 'Lini Masa',
+    'home.hall.res.timeline.desc':
+      'Dari prasejarah hingga hari ini, tiap masa terhubung ke artikel-artikel di situs.',
+    'home.hall.res.terminology.name': 'Kamus Istilah',
+    'home.hall.res.terminology.desc':
+      'Perbandingan kosakata dua sisi Selat: istilah Tiongkok daratan, istilah Taiwan, asal-usul kata, dan sebab keduanya berpisah.',
+    'home.hall.res.converter.name': 'Pengonversi Istilah',
+    'home.hall.res.converter.desc':
+      'Tempel sebuah teks, lalu ganti istilah gaya Tiongkok daratan dengan kata-kata yang dipakai di Taiwan.',
+    'home.hall.res.lifetree.name': 'Pohon Kehidupan',
+    'home.hall.res.lifetree.desc':
+      'Keputusan-keputusan penting seseorang digambar sebagai pohon bercabang: jalan yang diambil dan yang tidak diambil. Masih bersifat eksperimen.',
+    'home.hall.res.names.name': 'Nama Orang Taiwan',
+    'home.hall.res.names.desc':
+      'Sebaran nama keluarga, nama depan yang menandai tiap generasi, empat sistem ejaan resmi, dan alat romanisasi nama.',
+    'home.hall.res.companies.name': 'Peta Perusahaan',
+    'home.hall.res.companies.desc':
+      'Perusahaan tercatat dengan kapitalisasi pasar terbesar di Taiwan, bisa diurutkan dan difilter.',
+    'home.hall.res.budget.name': 'Anggaran Total',
+    'home.hall.res.budget.desc':
+      'Sepuluh tahun anggaran total pemerintah pusat: bagaimana dana dibagi, kementerian mana yang tumbuh, dan apakah akhirnya terpakai habis.',
+    'home.hall.res.industry.name': 'Industri dan Perusahaan Tercatat',
+    'home.hall.res.industry.desc':
+      'Ekspor, taman sains, pabrik per kota dan kabupaten, serta peringkat kapitalisasi pasar dari tahun ke tahun: struktur industri digambar dari statistik resmi.',
+    'home.hall.res.elections.name': 'Pemilu 2026',
+    'home.hall.res.elections.desc':
+      'Laman khusus pemilu daerah: kandidat, donasi politik, dan informasi pemungutan suara di tiap kota dan kabupaten.',
+    'home.hall.res.health.name': 'Kesehatan dan Perawatan Jangka Panjang',
+    'home.hall.res.health.desc':
+      'Cara kerja asuransi kesehatan dan perawatan jangka panjang, dengan kalkulator subsidi perawatan dan iuran asuransi kesehatan.',
+    'home.hall.res.income.name': 'Gaji, Pajak, dan Pensiun',
+    'home.hall.res.income.desc':
+      'Ke mana gaji pergi: sebaran upah, pajak penghasilan, asuransi tenaga kerja, dan pensiun pekerja, dengan empat kalkulator.',
+    'home.hall.res.housing.name': 'Properti',
+    'home.hall.res.housing.desc':
+      'Rasio harga rumah terhadap pendapatan, kredit rumah, dan pinjaman Qing-An, dengan kalkulator cicilan dan pemeriksaan beban mandiri.',
+    'home.hall.res.data.name': 'Data Taiwan',
+    'home.hall.res.data.desc':
+      'Membaca bagaimana Taiwan menjadi seperti sekarang lewat angka-angkanya, masing-masing disertai sumber resmi.',
+    'home.hall.thumb1.tropic': 'Garis Balik Utara',
+    'home.hall.pick.sources': '{n} sumber',
+    'home.start.eyebrow': 'Mulai dari sini',
+    'home.people.eyebrow': 'Orang',
+    'home.people.heading': 'Yang menulis, yang membaca',
+    'home.people.lead':
+      'Isi di sini ditulis oleh {writers} penulis. Kata-kata yang ditinggalkan pembaca ada yang berupa semangat, ada pula koreksi.',
+    'home.people.voices.heading': 'Suara dari komunitas',
+    'home.people.voices.sub': 'Umpan balik dari pengguna sungguhan',
+    'home.people.voices.all': 'Baca semua {count}',
+    'home.people.voices.pause': 'Jeda aliran komentar',
+    'home.people.voices.play': 'Lanjutkan aliran komentar',
+    'home.people.writers.heading': 'Penulis',
+    'home.people.writers.all': 'Lihat semua penulis di GitHub',
+    'home.recent.eyebrow': 'Terbaru',
+    'home.recent.heading': 'Artikel yang baru ditambahkan',
+    'home.organism.eyebrow': 'Cara kerjanya',
+    'home.join.eyebrow': 'Ikut serta',
+    'home.join.app.alt': 'Unduh Taiwan.md di App Store',
   },
   pt: {
     'hero.stat.history.number': '400+',
@@ -974,6 +1662,157 @@ export const homeUI = {
       'Depois de tudo isso — o que fazem as pessoas que vivem aqui?',
     'home.bridge.3to4':
       'Elas deixaram tudo isso — mas para onde esta ilha está indo?',
+    'home.live.aria': 'Taiwan.md agora',
+    'home.live.articles': 'artigos',
+    'home.live.languages': 'idiomas',
+    'home.live.writers': 'colaboradores',
+    'home.cover.axis.aria':
+      'Épocas das oito citações. Escolha uma época para ler a sua citação.',
+    'home.cover.axis.scale': 'Cada marca pequena da linha equivale a 25 anos',
+    'home.cover.autoplay.pause': 'Pausar a troca automática de citações',
+    'home.cover.autoplay.play': 'Retomar a troca automática de citações',
+    'home.tools.eyebrow': 'Ferramentas e seções especiais',
+    'home.tools.heading': 'Para usar agora mesmo',
+    'home.tools.lead':
+      'Não é preciso ler artigo nenhum antes. Abra qualquer uma destas para consultar, converter ou baixar.',
+    'home.tools.election.name': 'Eleições 2026',
+    'home.tools.election.desc':
+      'Candidatos, doações políticas e informações de votação de {races} cidades e condados.',
+    'home.tools.election.badge': 'Votação: {date}',
+    'home.tools.timeline.name': 'Taiwan no tempo',
+    'home.tools.timeline.desc':
+      'Da pré-história até hoje, {eras} épocas numa única linha.',
+    'home.tools.companies.name': 'Mapa empresarial',
+    'home.tools.companies.desc':
+      'As maiores empresas de capital aberto de Taiwan por valor de mercado, que podem ser ordenadas e filtradas.',
+    'home.tools.converter.name': 'Conversor de terminologia',
+    'home.tools.converter.desc':
+      'Cole um texto e troque os termos da RPC pelas palavras usadas em Taiwan.',
+    'home.tools.shape.name': 'A forma de Taiwan',
+    'home.tools.shape.desc':
+      'O contorno de Taiwan desenhado corretamente, com arquivos SVG e geográficos de uso livre.',
+    'home.tools.topics.name': 'Dossiês',
+    'home.tools.topics.desc':
+      '{count} dossiês, cada um reunindo artigos e calculadoras que dão uma resposta.',
+    'home.tools.map.name': 'Mapa',
+    'home.tools.map.desc':
+      '{count} artigos marcados no mapa. Comece por um lugar que você conhece.',
+    'home.categories.eyebrow': 'Buscar por tema',
+    'home.topics.total': 'artigos distribuídos em {topics} temas',
+    'home.topics.recent': '{count} novos nos últimos 30 dias',
+    'home.hall.thumb1.caption':
+      '{count} artigos podem ser localizados no mapa. Quanto maior o ponto, mais artigos há por perto; as barras da direita os contam do norte ao sul.',
+    'home.hall.thumb1.outside':
+      'Fora do mapa: {kinmen} de Kinmen e {matsu} de Matsu.',
+    'home.hall.thumb1.cta': 'Abrir o mapa',
+    'home.hall.thumb2.caption':
+      'A página da linha do tempo distribui {count} artigos em {eras} épocas. Cada ponto é um artigo; o comprimento de cada barra é o número de anos que a época durou.',
+    'home.hall.thumb2.prehistory': 'Pré-história',
+    'home.hall.thumb2.cta': 'Abrir a linha do tempo',
+    'home.hall.thumb3.caption':
+      'Os três temas deste salão reúnem hoje {count} artigos.',
+    'home.hall.thumb4.caption':
+      'As {count} maiores empresas de capital aberto, com o tamanho proporcional ao valor de mercado. Só {top} responde por {pct}% do total destas {count}.',
+    'home.hall.thumb4.cta': 'Abrir o mapa empresarial',
+    'home.halls.title': 'Os quatro salões',
+    'home.halls.eyebrow': 'Salões',
+    'home.halls.lead':
+      'Taiwan.md organiza seus {count} artigos em quatro salões. Cada um abre com um breve ensaio de curadoria, seguido dos temas, dossiês e ferramentas do salão.',
+    'home.halls.meta.description':
+      'Os quatro salões de Taiwan.md: como é esta ilha, como ela chegou até aqui, o que sua gente faz e para onde ela vai. Cada salão tem um ensaio de curadoria, artigos em destaque e seus próprios temas, dossiês e ferramentas.',
+    'home.halls.lobby': 'Saguão',
+    'home.hall.label': 'Salão {numeral}',
+    'home.hall.meta.title': 'Salão {numeral}: {title}',
+    'home.hall.meta.description':
+      'Salão {numeral} dos quatro salões de Taiwan.md, "{title}": o ensaio de curadoria completo, artigos em destaque sobre {categories} e os dossiês e ferramentas deste salão.',
+    'home.hall.lede':
+      'Este salão reúne {categories}: hoje são {count} artigos.',
+    'home.hall.prose.fallback':
+      'Este ensaio de curadoria ainda não foi traduzido para este idioma, por isso é exibido em inglês.',
+    'home.hall.residents.eyebrow': 'Ferramentas e seções especiais',
+    'home.hall.residents.heading': 'Para usar agora mesmo neste salão',
+    'home.hall.kind.topic': 'Dossiê',
+    'home.hall.kind.tool': 'Ferramenta',
+    'home.hall.kind.interactive': 'Interativo',
+    'home.hall.kind.data': 'Dados',
+    'home.hall.categories.eyebrow': 'Buscar por tema',
+    'home.hall.categories.heading': 'Temas deste salão',
+    'home.hall.corridor.eyebrow': 'Corredor',
+    'home.hall.corridor.heading': 'Para onde ir agora',
+    'home.hall.corridor.prev': 'Salão anterior',
+    'home.hall.corridor.next': 'Próximo salão',
+    'home.hall.corridor.lobby': 'Voltar ao saguão',
+    'home.hall.corridor.all': 'Ver os quatro salões',
+    'home.lobby.enter': 'Entrar neste salão',
+    'home.lobby.residents': 'Também neste salão',
+    'home.lobby.all': 'Ver a visão geral dos quatro salões',
+    'home.hall.res.taiwan_shape.name': 'A forma de Taiwan',
+    'home.hall.res.taiwan_shape.desc':
+      'O contorno de Taiwan desenhado corretamente, com arquivos SVG e geográficos de uso livre.',
+    'home.hall.res.map.name': 'Mapa',
+    'home.hall.res.map.desc':
+      'Clique num condado ou num lugar do mapa e leia os artigos sobre ele.',
+    'home.hall.res.soundscape.name': 'Paisagem sonora',
+    'home.hall.res.soundscape.desc':
+      'Conhecer Taiwan pelos ouvidos: gravações de campo de caminhões de lixo, festas de templo e ondas.',
+    'home.hall.res.timeline.name': 'Linha do tempo',
+    'home.hall.res.timeline.desc':
+      'Da pré-história até hoje, cada época ligada aos artigos do site.',
+    'home.hall.res.terminology.name': 'Glossário',
+    'home.hall.res.terminology.desc':
+      'Vocabulário comparado dos dois lados do Estreito: o termo da RPC, o termo taiwanês, a etimologia e o motivo da divergência.',
+    'home.hall.res.converter.name': 'Conversor de terminologia',
+    'home.hall.res.converter.desc':
+      'Cole um texto e troque os termos da RPC pelas palavras usadas em Taiwan.',
+    'home.hall.res.lifetree.name': 'Árvore da vida',
+    'home.hall.res.lifetree.desc':
+      'As decisões-chave de uma pessoa desenhadas como uma árvore de ramos: o caminho tomado e os que ficaram por tomar. Experimental.',
+    'home.hall.res.names.name': 'Nomes taiwaneses',
+    'home.hall.res.names.desc':
+      'Sobrenomes, os nomes que marcam cada geração, quatro sistemas oficiais de romanização e uma ferramenta de romanização de nomes.',
+    'home.hall.res.companies.name': 'Mapa empresarial',
+    'home.hall.res.companies.desc':
+      'As maiores empresas de capital aberto de Taiwan por valor de mercado, que podem ser ordenadas e filtradas.',
+    'home.hall.res.budget.name': 'Orçamento público',
+    'home.hall.res.budget.desc':
+      'Dez anos do orçamento geral do governo central: como ele se divide, quais ministérios cresceram e quanto foi de fato gasto.',
+    'home.hall.res.industry.name': 'Indústria e empresas de capital aberto',
+    'home.hall.res.industry.desc':
+      'Exportações, parques científicos, fábricas por condado e rankings históricos de valor de mercado: a estrutura industrial nas estatísticas oficiais.',
+    'home.hall.res.elections.name': 'Eleições 2026',
+    'home.hall.res.elections.desc':
+      'As eleições locais de 2026: candidatos, doações políticas e informações de votação por cidade e condado.',
+    'home.hall.res.health.name': 'Saúde e cuidados de longa duração',
+    'home.hall.res.health.desc':
+      'Como funcionam o Seguro Nacional de Saúde e os cuidados de longa duração, com calculadoras de subsídios e de contribuições.',
+    'home.hall.res.income.name': 'Salário, impostos e aposentadoria',
+    'home.hall.res.income.desc':
+      'Para onde vai um salário: distribuição salarial, imposto de renda, seguro trabalhista e previdência, com quatro calculadoras.',
+    'home.hall.res.housing.name': 'Moradia',
+    'home.hall.res.housing.desc':
+      'Relação preço-renda, financiamentos e o empréstimo Qing-An para jovens, com calculadora de financiamento e autoavaliação de acessibilidade.',
+    'home.hall.res.data.name': 'Taiwan em dados',
+    'home.hall.res.data.desc':
+      'Como Taiwan chegou a ser o que é, lido por meio dos seus números, cada um ligado à sua fonte oficial.',
+    'home.hall.thumb1.tropic': 'Trópico de Câncer',
+    'home.hall.pick.sources': '{n} fontes',
+    'home.start.eyebrow': 'Comece por aqui',
+    'home.people.eyebrow': 'Pessoas',
+    'home.people.heading': 'Quem escreve, quem lê',
+    'home.people.lead':
+      '{writers} colaboradores escreveram o que você lê aqui. Os leitores respondem, às vezes para animar e às vezes para corrigir.',
+    'home.people.voices.heading': 'Vozes da comunidade',
+    'home.people.voices.sub': 'O que leitores reais nos disseram',
+    'home.people.voices.all': 'Ler todos os {count}',
+    'home.people.voices.pause': 'Pausar a rolagem dos comentários',
+    'home.people.voices.play': 'Retomar a rolagem dos comentários',
+    'home.people.writers.heading': 'Colaboradores',
+    'home.people.writers.all': 'Ver todos os colaboradores no GitHub',
+    'home.recent.eyebrow': 'Ultimamente',
+    'home.recent.heading': 'Artigos recém-adicionados',
+    'home.organism.eyebrow': 'Como funciona',
+    'home.join.eyebrow': 'Participe',
+    'home.join.app.alt': 'Baixe o Taiwan.md na App Store',
   },
   hi: {
     'hero.stat.history.number': '400+',
@@ -1127,6 +1966,157 @@ export const homeUI = {
       'इतना सब झेलने के बाद — यहाँ रहने वाले लोग अब क्या कर रहे हैं?',
     'home.bridge.3to4':
       'उन्होंने ये विरासतें छोड़ीं — अब यह द्वीप किस दिशा में जा रहा है?',
+    'home.live.aria': 'Taiwan.md का वर्तमान आकार',
+    'home.live.articles': 'लेख',
+    'home.live.languages': 'भाषाएँ',
+    'home.live.writers': 'लेखक',
+    'home.cover.axis.aria':
+      'आठ उद्धरणों के कालखंड, किसी एक कालखंड को चुनकर उसका उद्धरण पढ़ें',
+    'home.cover.axis.scale': 'रेखा पर हर छोटा निशान 25 वर्ष का है',
+    'home.cover.autoplay.pause': 'उद्धरणों का स्वतः बदलना रोकें',
+    'home.cover.autoplay.play': 'उद्धरणों का स्वतः बदलना फिर शुरू करें',
+    'home.tools.eyebrow': 'टूल और विशेष खंड',
+    'home.tools.heading': 'सीधे इस्तेमाल के लिए',
+    'home.tools.lead':
+      'इनके लिए पहले कोई लेख पढ़ना ज़रूरी नहीं। खोलिए और खोजिए, बदलिए या डाउनलोड कीजिए।',
+    'home.tools.election.name': '2026 चुनाव खंड',
+    'home.tools.election.desc':
+      '{races} नगरों और काउंटियों के उम्मीदवार, राजनीतिक चंदे और मतदान की जानकारी।',
+    'home.tools.election.badge': 'मतदान की तिथि: {date}',
+    'home.tools.timeline.name': 'समय में ताइवान',
+    'home.tools.timeline.desc':
+      'प्रागैतिहासिक काल से आज तक, {eras} कालखंड एक ही रेखा पर।',
+    'home.tools.companies.name': 'कंपनियों का नक्शा',
+    'home.tools.companies.desc':
+      'बाज़ार मूल्य के हिसाब से ताइवान की सबसे बड़ी सूचीबद्ध कंपनियाँ, जिन्हें क्रमबद्ध और छाँटा जा सकता है।',
+    'home.tools.converter.name': 'शब्दावली परिवर्तक',
+    'home.tools.converter.desc':
+      'कोई अनुच्छेद चिपकाइए और चीनी शब्दों को वे शब्द बनाइए जो ताइवान के लोग बोलते हैं।',
+    'home.tools.shape.name': 'ताइवान का आकार',
+    'home.tools.shape.desc':
+      'ताइवान की सही खींची गई रूपरेखा, SVG और भौगोलिक फ़ाइलें सीधे इस्तेमाल के लिए।',
+    'home.tools.topics.name': 'विशेष विषय',
+    'home.tools.topics.desc':
+      '{count} विशेष विषय। हर विषय में लेख हैं और ऐसे टूल भी जो जवाब निकालकर देते हैं।',
+    'home.tools.map.name': 'मानचित्र',
+    'home.tools.map.desc':
+      '{count} लेख मानचित्र पर चिह्नित हैं। किसी जानी-पहचानी जगह से पढ़ना शुरू कीजिए।',
+    'home.categories.eyebrow': 'विषय के अनुसार खोजें',
+    'home.topics.total': 'लेख, {topics} विषयों में',
+    'home.topics.recent': 'पिछले 30 दिनों में {count} नए',
+    'home.hall.thumb1.caption':
+      '{count} लेखों की जगह मानचित्र पर बताई जा सकती है। बिंदु जितना बड़ा, उस इलाक़े में उतने ज़्यादा लेख; दाईं ओर की पट्टियाँ उत्तर से दक्षिण तक उनकी गिनती दिखाती हैं।',
+    'home.hall.thumb1.outside':
+      'यहाँ नहीं दिखाए गए: किनमेन के {kinmen} और माज़ू के {matsu}।',
+    'home.hall.thumb1.cta': 'मानचित्र खोलें',
+    'home.hall.thumb2.caption':
+      'समयरेखा का पृष्ठ {count} लेखों को {eras} कालखंडों में रखता है। एक बिंदु एक लेख है; हर पट्टी की लंबाई बताती है कि वह कालखंड कितने वर्ष का था।',
+    'home.hall.thumb2.prehistory': 'प्रागैतिहासिक काल',
+    'home.hall.thumb2.cta': 'समयरेखा खोलें',
+    'home.hall.thumb3.caption':
+      'इस कक्ष के तीन विषयों में अभी कुल {count} लेख हैं।',
+    'home.hall.thumb4.caption':
+      'बाज़ार मूल्य में शीर्ष {count} सूचीबद्ध कंपनियाँ, क्षेत्रफल बाज़ार मूल्य के अनुसार। अकेली {top} इन {count} कंपनियों के कुल योग का {pct}% है।',
+    'home.hall.thumb4.cta': 'कंपनियों का नक्शा खोलें',
+    'home.halls.title': 'चार प्रदर्शनी-कक्ष',
+    'home.halls.eyebrow': 'प्रदर्शनी-कक्ष',
+    'home.halls.lead':
+      'Taiwan.md अपने {count} लेखों को चार कक्षों में सजाता है। हर कक्ष एक छोटे संपादकीय गद्य से शुरू होता है, उसके बाद उस कक्ष के विषय, विशेष खंड और टूल आते हैं।',
+    'home.halls.meta.description':
+      'Taiwan.md के चार कक्ष: यह द्वीप कैसा दिखता है, यहाँ तक कैसे पहुँचा, यहाँ के लोग क्या कर रहे हैं और यह कहाँ जा रहा है। हर कक्ष में एक संपादकीय गद्य, चुने हुए लेख, तथा उसके विषय, विशेष खंड और टूल हैं।',
+    'home.halls.lobby': 'मुख्य हॉल',
+    'home.hall.label': 'कक्ष {numeral}',
+    'home.hall.meta.title': 'कक्ष {numeral}: {title}',
+    'home.hall.meta.description':
+      'Taiwan.md के चार कक्षों में से कक्ष {numeral}, "{title}": पूरा संपादकीय गद्य, {categories} पर चुने हुए लेख, और इस कक्ष के विशेष विषय व टूल।',
+    'home.hall.lede':
+      'इस कक्ष में {categories} हैं, और आज इसमें कुल {count} लेख हैं।',
+    'home.hall.prose.fallback':
+      'इस संपादकीय गद्य का इस भाषा में अनुवाद अभी नहीं हुआ है, इसलिए यह अंग्रेज़ी में दिखाया गया है।',
+    'home.hall.residents.eyebrow': 'विशेष खंड और टूल',
+    'home.hall.residents.heading': 'इस कक्ष में सीधे इस्तेमाल के लिए',
+    'home.hall.kind.topic': 'विशेष विषय',
+    'home.hall.kind.tool': 'टूल',
+    'home.hall.kind.interactive': 'इंटरैक्टिव पृष्ठ',
+    'home.hall.kind.data': 'डेटा',
+    'home.hall.categories.eyebrow': 'विषय के अनुसार खोजें',
+    'home.hall.categories.heading': 'इस कक्ष के विषय',
+    'home.hall.corridor.eyebrow': 'गलियारा',
+    'home.hall.corridor.heading': 'आगे कहाँ चलें',
+    'home.hall.corridor.prev': 'पिछला कक्ष',
+    'home.hall.corridor.next': 'अगला कक्ष',
+    'home.hall.corridor.lobby': 'मुख्य हॉल में लौटें',
+    'home.hall.corridor.all': 'चारों कक्ष देखें',
+    'home.lobby.enter': 'इस कक्ष में जाएँ',
+    'home.lobby.residents': 'इस कक्ष में और भी',
+    'home.lobby.all': 'चारों कक्षों का सारांश देखें',
+    'home.hall.res.taiwan_shape.name': 'ताइवान का आकार',
+    'home.hall.res.taiwan_shape.desc':
+      'ताइवान की सही खींची गई रूपरेखा, SVG और भौगोलिक फ़ाइलें सीधे इस्तेमाल के लिए।',
+    'home.hall.res.map.name': 'मानचित्र',
+    'home.hall.res.map.desc':
+      'मानचित्र पर किसी काउंटी या जगह पर क्लिक कीजिए और वहाँ के लेख पढ़िए।',
+    'home.hall.res.soundscape.name': 'ध्वनि-परिदृश्य',
+    'home.hall.res.soundscape.desc':
+      'कानों से ताइवान को जानिए: कचरा-गाड़ियों, मंदिर-उत्सवों और लहरों की फ़ील्ड रिकॉर्डिंग।',
+    'home.hall.res.timeline.name': 'समयरेखा',
+    'home.hall.res.timeline.desc':
+      'प्रागैतिहासिक काल से आज तक, हर कालखंड अपने लेखों से जुड़ा।',
+    'home.hall.res.terminology.name': 'शब्दावली कोश',
+    'home.hall.res.terminology.desc':
+      'जलडमरूमध्य के दोनों ओर की शब्दावली आमने-सामने: चीनी शब्द, ताइवानी शब्द, उनकी व्युत्पत्ति और अलग होने का कारण।',
+    'home.hall.res.converter.name': 'शब्दावली परिवर्तक',
+    'home.hall.res.converter.desc':
+      'कोई अनुच्छेद चिपकाइए और चीनी शब्दों को वे शब्द बनाइए जो ताइवान के लोग बोलते हैं।',
+    'home.hall.res.lifetree.name': 'जीवन-वृक्ष',
+    'home.hall.res.lifetree.desc':
+      'किसी व्यक्ति के अहम फ़ैसले शाखाओं वाले वृक्ष के रूप में: जो राह चुनी और जो नहीं चुनी। प्रायोगिक।',
+    'home.hall.res.names.name': 'ताइवानियों के नाम',
+    'home.hall.res.names.desc':
+      'उपनामों का वितरण, हर पीढ़ी की पहचान बनने वाले नाम, चार आधिकारिक वर्तनी-पद्धतियाँ, और नामों के रोमनीकरण का टूल।',
+    'home.hall.res.companies.name': 'कंपनियों का नक्शा',
+    'home.hall.res.companies.desc':
+      'बाज़ार मूल्य के हिसाब से ताइवान की सबसे बड़ी सूचीबद्ध कंपनियाँ, जिन्हें क्रमबद्ध और छाँटा जा सकता है।',
+    'home.hall.res.budget.name': 'सरकारी बजट',
+    'home.hall.res.budget.desc':
+      'केंद्र सरकार के बजट के दस वर्ष: पैसा कैसे बँटता है, किन मंत्रालयों का हिस्सा बढ़ा और आख़िर कितना ख़र्च हुआ।',
+    'home.hall.res.industry.name': 'उद्योग और सूचीबद्ध कंपनियाँ',
+    'home.hall.res.industry.desc':
+      'निर्यात, साइंस पार्क, हर काउंटी के कारख़ाने और वर्षों की बाज़ार-मूल्य रैंकिंग: आधिकारिक आँकड़ों में उद्योग की संरचना।',
+    'home.hall.res.elections.name': '2026 के चुनाव',
+    'home.hall.res.elections.desc':
+      '2026 के स्थानीय चुनाव: हर नगर और काउंटी के उम्मीदवार, राजनीतिक चंदे और मतदान की जानकारी।',
+    'home.hall.res.health.name': 'स्वास्थ्य और दीर्घकालिक देखभाल',
+    'home.hall.res.health.desc':
+      'राष्ट्रीय स्वास्थ्य बीमा और दीर्घकालिक देखभाल कैसे काम करती हैं, सब्सिडी और प्रीमियम के कैलकुलेटरों सहित।',
+    'home.hall.res.income.name': 'वेतन, कर और सेवानिवृत्ति',
+    'home.hall.res.income.desc':
+      'वेतन कहाँ जाता है: वेतन-वितरण, आयकर, श्रम बीमा और पेंशन, चार कैलकुलेटरों सहित।',
+    'home.hall.res.housing.name': 'आवास',
+    'home.hall.res.housing.desc':
+      'मकान की क़ीमत और आय का अनुपात, गृहऋण और "छिंग-आन" ऋण, गृहऋण कैलकुलेटर और वहन-क्षमता की जाँच सहित।',
+    'home.hall.res.data.name': 'आँकड़ों में ताइवान',
+    'home.hall.res.data.desc':
+      'ताइवान आज जैसा है वैसा कैसे बना, उसके आँकड़ों से पढ़ा हुआ, हर आँकड़े के साथ उसका आधिकारिक स्रोत।',
+    'home.hall.thumb1.tropic': 'कर्क रेखा',
+    'home.hall.pick.sources': '{n} स्रोत',
+    'home.start.eyebrow': 'यहाँ से शुरू करें',
+    'home.people.eyebrow': 'लोग',
+    'home.people.heading': 'लिखने वाले, पढ़ने वाले',
+    'home.people.lead':
+      'यहाँ जो पढ़ते हैं, उसे {writers} लेखकों ने लिखा है। पाठक भी जवाब लिखते हैं, कभी हौसला बढ़ाने के लिए और कभी हमें सुधारने के लिए।',
+    'home.people.voices.heading': 'समुदाय की आवाज़ें',
+    'home.people.voices.sub': 'असली पाठकों ने हमसे क्या कहा',
+    'home.people.voices.all': 'सभी {count} टिप्पणियाँ पढ़ें',
+    'home.people.voices.pause': 'टिप्पणियों का बहना रोकें',
+    'home.people.voices.play': 'टिप्पणियों का बहना फिर शुरू करें',
+    'home.people.writers.heading': 'लेखक',
+    'home.people.writers.all': 'GitHub पर सभी लेखक देखें',
+    'home.recent.eyebrow': 'हाल में',
+    'home.recent.heading': 'नए जुड़े लेख',
+    'home.organism.eyebrow': 'यह कैसे काम करता है',
+    'home.join.eyebrow': 'जुड़ें',
+    'home.join.app.alt': 'App Store से Taiwan.md डाउनलोड करें',
   },
   ar: {
     'hero.stat.history.number': '400+',
@@ -1276,6 +2266,156 @@ export const homeUI = {
     'home.bridge.2to3':
       'عبرت هذه المراحل — ماذا يفعل الناس الذين يعيشون هنا الآن؟',
     'home.bridge.3to4': 'تركوها هذه الآثار — إلى أين تتجه هذه الجزيرة؟',
+    'home.live.aria': 'حجم Taiwan.md الآن',
+    'home.live.articles': 'مقالة',
+    'home.live.languages': 'لغة',
+    'home.live.writers': 'كاتبًا',
+    'home.cover.axis.aria':
+      'عصور الاقتباسات الثمانية، اختر عصرًا لقراءة اقتباسه',
+    'home.cover.axis.scale': 'كل علامة صغيرة على الخط تساوي 25 عامًا',
+    'home.cover.autoplay.pause': 'إيقاف تبديل الاقتباسات مؤقتًا',
+    'home.cover.autoplay.play': 'استئناف تبديل الاقتباسات',
+    'home.tools.eyebrow': 'أدوات وأقسام خاصة',
+    'home.tools.heading': 'جاهزة للاستخدام مباشرة',
+    'home.tools.lead':
+      'لا حاجة لقراءة مقالة أولًا، افتح أيًّا منها لتبحث أو تحوّل أو تنزّل.',
+    'home.tools.election.name': 'قسم انتخابات 2026',
+    'home.tools.election.desc':
+      'المرشحون والتبرعات السياسية ومعلومات التصويت في {races} من المدن والمقاطعات.',
+    'home.tools.election.badge': 'يوم الاقتراع: {date}',
+    'home.tools.timeline.name': 'تايوان عبر الزمن',
+    'home.tools.timeline.desc':
+      'من ما قبل التاريخ إلى اليوم، {eras} حقبة على خط واحد.',
+    'home.tools.companies.name': 'خريطة الشركات',
+    'home.tools.companies.desc':
+      'أكبر الشركات المدرجة في تايوان من حيث القيمة السوقية، يمكن ترتيبها وتصفيتها.',
+    'home.tools.converter.name': 'محوّل المصطلحات',
+    'home.tools.converter.desc':
+      'الصق نصًا واستبدل المصطلحات الصينية بالألفاظ التي يستخدمها أهل تايوان.',
+    'home.tools.shape.name': 'شكل تايوان',
+    'home.tools.shape.desc':
+      'مخطط صحيح لحدود تايوان، وملفات SVG والملفات الجغرافية متاحة لإعادة الاستخدام.',
+    'home.tools.topics.name': 'ملفات خاصة',
+    'home.tools.topics.desc':
+      '{count} ملفًا خاصًا. في كل ملف مقالات وأدوات تعطيك جوابًا محسوبًا.',
+    'home.tools.map.name': 'الخريطة',
+    'home.tools.map.desc':
+      '{count} مقالة موضوعة على الخريطة، ابدأ من مكان تعرفه.',
+    'home.categories.eyebrow': 'تصفّح حسب الموضوع',
+    'home.topics.total': 'مقالة في {topics} موضوعًا',
+    'home.topics.recent': '{count} مقالة جديدة في آخر 30 يومًا',
+    'home.hall.thumb1.caption':
+      '{count} مقالة يمكن تحديد موقعها. كلما كبرت النقطة زادت المقالات في ذلك المكان؛ والأعمدة على اليمين تعدّها من الشمال إلى الجنوب.',
+    'home.hall.thumb1.outside':
+      'غير ظاهرة هنا: {kinmen} عن كينمن و{matsu} عن ماتسو.',
+    'home.hall.thumb1.cta': 'افتح الخريطة',
+    'home.hall.thumb2.caption':
+      'تضع صفحة الخط الزمني {count} مقالة في {eras} حقبة. كل نقطة مقالة، وطول كل شريط هو عدد سنوات تلك الحقبة.',
+    'home.hall.thumb2.prehistory': 'ما قبل التاريخ',
+    'home.hall.thumb2.cta': 'افتح الخط الزمني',
+    'home.hall.thumb3.caption':
+      'تضم المواضيع الثلاثة في هذه القاعة {count} مقالة حاليًا.',
+    'home.hall.thumb4.caption':
+      'أكبر {count} شركة مدرجة من حيث القيمة السوقية، والمساحة بحسب القيمة السوقية. شركة {top} وحدها تمثل {pct}% من مجموع هذه الشركات الـ {count}.',
+    'home.hall.thumb4.cta': 'افتح خريطة الشركات',
+    'home.halls.title': 'القاعات الأربع',
+    'home.halls.eyebrow': 'قاعات العرض',
+    'home.halls.lead':
+      'ينظّم Taiwan.md مقالاته البالغة {count} في أربع قاعات. تبدأ كل قاعة بنص تحريري قصير، تليه مواضيع القاعة وملفاتها الخاصة وأدواتها.',
+    'home.halls.meta.description':
+      'القاعات الأربع في Taiwan.md: كيف تبدو هذه الجزيرة، وكيف نشأت، وماذا يفعل أهلها، وإلى أين تمضي. في كل قاعة نص تحريري ومقالات مختارة ومواضيع وملفات خاصة وأدوات.',
+    'home.halls.lobby': 'البهو',
+    'home.hall.label': 'القاعة {numeral}',
+    'home.hall.meta.title': 'القاعة {numeral}: {title}',
+    'home.hall.meta.description':
+      'القاعة {numeral} من قاعات Taiwan.md الأربع، «{title}»: النص التحريري كاملًا، ومقالات مختارة عن {categories}، وملفات القاعة الخاصة وأدواتها.',
+    'home.hall.lede': 'تضم هذه القاعة {categories}، وفيها اليوم {count} مقالة.',
+    'home.hall.prose.fallback':
+      'لم يُترجم هذا النص التحريري إلى هذه اللغة بعد، لذا يظهر بالإنجليزية.',
+    'home.hall.residents.eyebrow': 'أقسام خاصة وأدوات',
+    'home.hall.residents.heading': 'جاهزة للاستخدام في هذه القاعة',
+    'home.hall.kind.topic': 'ملف خاص',
+    'home.hall.kind.tool': 'أداة',
+    'home.hall.kind.interactive': 'صفحة تفاعلية',
+    'home.hall.kind.data': 'بيانات',
+    'home.hall.categories.eyebrow': 'تصفّح حسب الموضوع',
+    'home.hall.categories.heading': 'مواضيع هذه القاعة',
+    'home.hall.corridor.eyebrow': 'الممر',
+    'home.hall.corridor.heading': 'إلى أين بعد ذلك',
+    'home.hall.corridor.prev': 'القاعة السابقة',
+    'home.hall.corridor.next': 'القاعة التالية',
+    'home.hall.corridor.lobby': 'العودة إلى البهو',
+    'home.hall.corridor.all': 'عرض القاعات الأربع',
+    'home.lobby.enter': 'ادخل هذه القاعة',
+    'home.lobby.residents': 'وفي هذه القاعة أيضًا',
+    'home.lobby.all': 'عرض نظرة شاملة على القاعات الأربع',
+    'home.hall.res.taiwan_shape.name': 'شكل تايوان',
+    'home.hall.res.taiwan_shape.desc':
+      'مخطط صحيح لحدود تايوان، وملفات SVG والملفات الجغرافية متاحة لإعادة الاستخدام.',
+    'home.hall.res.map.name': 'الخريطة',
+    'home.hall.res.map.desc':
+      'انقر على مقاطعة أو مكان في الخريطة واقرأ المقالات عنه.',
+    'home.hall.res.soundscape.name': 'المشهد الصوتي',
+    'home.hall.res.soundscape.desc':
+      'تعرّف على تايوان بالأذن: تسجيلات ميدانية لشاحنات النفايات والمهرجانات المعبدية وصوت الأمواج.',
+    'home.hall.res.timeline.name': 'الخط الزمني',
+    'home.hall.res.timeline.desc':
+      'من ما قبل التاريخ إلى اليوم، وكل حقبة مرتبطة بمقالاتها.',
+    'home.hall.res.terminology.name': 'قاموس المصطلحات',
+    'home.hall.res.terminology.desc':
+      'مصطلحات ضفتي المضيق جنبًا إلى جنب: اللفظ الصيني واللفظ التايواني وأصله وسبب افتراقهما.',
+    'home.hall.res.converter.name': 'محوّل المصطلحات',
+    'home.hall.res.converter.desc':
+      'الصق نصًا واستبدل المصطلحات الصينية بالألفاظ التي يستخدمها أهل تايوان.',
+    'home.hall.res.lifetree.name': 'شجرة الحياة',
+    'home.hall.res.lifetree.desc':
+      'القرارات المفصلية في حياة شخص مرسومة شجرةً متفرعة: الطريق الذي سلكه والطرق التي لم يسلكها. تجريبي.',
+    'home.hall.res.names.name': 'أسماء التايوانيين',
+    'home.hall.res.names.desc':
+      'توزيع الألقاب، والأسماء التي تميّز كل جيل، وأربعة أنظمة رسمية للتهجئة، مع أداة لكتابة الأسماء بالحروف اللاتينية.',
+    'home.hall.res.companies.name': 'خريطة الشركات',
+    'home.hall.res.companies.desc':
+      'أكبر الشركات المدرجة في تايوان من حيث القيمة السوقية، يمكن ترتيبها وتصفيتها.',
+    'home.hall.res.budget.name': 'الميزانية العامة',
+    'home.hall.res.budget.desc':
+      'عشر سنوات من ميزانية الحكومة المركزية: كيف تُقسَّم الأموال، وأي الوزارات نمت، وكم أُنفق فعلًا.',
+    'home.hall.res.industry.name': 'الصناعات والشركات المدرجة',
+    'home.hall.res.industry.desc':
+      'الصادرات والمجمعات العلمية ومصانع كل مقاطعة وترتيب القيمة السوقية عبر السنين: البنية الصناعية في الإحصاءات الرسمية.',
+    'home.hall.res.elections.name': 'انتخابات 2026',
+    'home.hall.res.elections.desc':
+      'الانتخابات المحلية لعام 2026: المرشحون والتبرعات السياسية ومعلومات التصويت في كل مدينة ومقاطعة.',
+    'home.hall.res.health.name': 'الصحة والرعاية طويلة الأمد',
+    'home.hall.res.health.desc':
+      'كيف يعمل التأمين الصحي الوطني والرعاية طويلة الأمد، مع حاسبات للدعم والأقساط.',
+    'home.hall.res.income.name': 'الأجور والضرائب والتقاعد',
+    'home.hall.res.income.desc':
+      'إلى أين يذهب الراتب: توزيع الأجور وضريبة الدخل وتأمين العمل ومعاشات التقاعد، مع أربع حاسبات.',
+    'home.hall.res.housing.name': 'العقارات',
+    'home.hall.res.housing.desc':
+      'نسبة سعر المسكن إلى الدخل والرهن العقاري وقرض «تشينغ-آن»، مع حاسبة للرهن وفحص للقدرة على التحمّل.',
+    'home.hall.res.data.name': 'تايوان بالأرقام',
+    'home.hall.res.data.desc':
+      'كيف صارت تايوان إلى ما هي عليه، مقروءةً عبر أرقامها، وكل رقم مرفق بمصدره الرسمي.',
+    'home.hall.thumb1.tropic': 'مدار السرطان',
+    'home.hall.pick.sources': 'المصادر: {n}',
+    'home.start.eyebrow': 'ابدأ من هنا',
+    'home.people.eyebrow': 'الناس',
+    'home.people.heading': 'من يكتبون ومن يقرأون',
+    'home.people.lead':
+      'كتب ما تقرؤه هنا {writers} كاتبًا. ويكتب القرّاء ردودهم، أحيانًا تشجيعًا وأحيانًا تصحيحًا.',
+    'home.people.voices.heading': 'أصوات من المجتمع',
+    'home.people.voices.sub': 'ما قاله لنا قرّاء حقيقيون',
+    'home.people.voices.all': 'اقرأ كل التعليقات ({count})',
+    'home.people.voices.pause': 'إيقاف حركة التعليقات مؤقتًا',
+    'home.people.voices.play': 'استئناف حركة التعليقات',
+    'home.people.writers.heading': 'الكتّاب',
+    'home.people.writers.all': 'شاهد كل الكتّاب على GitHub',
+    'home.recent.eyebrow': 'مؤخرًا',
+    'home.recent.heading': 'مقالات أُضيفت حديثًا',
+    'home.organism.eyebrow': 'كيف يعمل',
+    'home.join.eyebrow': 'شارك',
+    'home.join.app.alt': 'نزّل Taiwan.md من App Store',
   },
   ru: {
     'hero.stat.history.number': '400+',
@@ -1427,6 +2567,157 @@ export const homeUI = {
     'home.bridge.1to2': 'Этот остров вырос таким — кто сделал его таким?',
     'home.bridge.2to3': 'Пережив это — что делают люди, которые здесь живут?',
     'home.bridge.3to4': 'Они оставили это — куда идёт этот остров?',
+    'home.live.aria': 'Масштаб Taiwan.md сейчас',
+    'home.live.articles': 'статей',
+    'home.live.languages': 'языков',
+    'home.live.writers': 'авторов',
+    'home.cover.axis.aria':
+      'Эпохи восьми цитат: выберите эпоху, чтобы прочитать её цитату',
+    'home.cover.axis.scale': 'Каждое малое деление на линии равно 25 годам',
+    'home.cover.autoplay.pause': 'Остановить смену цитат',
+    'home.cover.autoplay.play': 'Возобновить смену цитат',
+    'home.tools.eyebrow': 'Инструменты и спецразделы',
+    'home.tools.heading': 'Готово к использованию',
+    'home.tools.lead':
+      'Сначала читать статьи не нужно. Откройте любой из них, чтобы найти, преобразовать или скачать.',
+    'home.tools.election.name': 'Выборы 2026',
+    'home.tools.election.desc':
+      'Кандидаты, политические пожертвования и сведения о голосовании в {races} городах и уездах.',
+    'home.tools.election.badge': 'День голосования: {date}',
+    'home.tools.timeline.name': 'Тайвань во времени',
+    'home.tools.timeline.desc':
+      'От доисторических времён до наших дней: {eras} эпох на одной линии.',
+    'home.tools.companies.name': 'Карта компаний',
+    'home.tools.companies.desc':
+      'Крупнейшие публичные компании Тайваня по рыночной стоимости, с сортировкой и фильтрами.',
+    'home.tools.converter.name': 'Конвертер терминологии',
+    'home.tools.converter.desc':
+      'Вставьте текст и замените материковые китайские выражения словами, которыми пользуются на Тайване.',
+    'home.tools.shape.name': 'Контур Тайваня',
+    'home.tools.shape.desc':
+      'Правильно нарисованный контур Тайваня; файлы SVG и геоданные можно свободно использовать.',
+    'home.tools.topics.name': 'Спецпроекты',
+    'home.tools.topics.desc':
+      '{count} спецпроектов. В каждом есть статьи и калькуляторы, которые считают ответ.',
+    'home.tools.map.name': 'Карта',
+    'home.tools.map.desc':
+      '{count} статей отмечено на карте. Начните с места, которое вы знаете.',
+    'home.categories.eyebrow': 'Искать по теме',
+    'home.topics.total': 'статей в {topics} темах',
+    'home.topics.recent': '{count} новых за последние 30 дней',
+    'home.hall.thumb1.caption':
+      '{count} статей можно привязать к месту. Чем больше точка, тем больше статей поблизости; столбцы справа считают их с севера на юг.',
+    'home.hall.thumb1.outside':
+      'Не показаны на карте: статьи о Цзиньмэне ({kinmen}) и о Мацзу ({matsu}).',
+    'home.hall.thumb1.cta': 'Открыть карту',
+    'home.hall.thumb2.caption':
+      'Страница хронологии раскладывает {count} статей по {eras} эпохам. Одна точка это одна статья; длина полосы показывает, сколько лет длилась эпоха.',
+    'home.hall.thumb2.prehistory': 'Доистория',
+    'home.hall.thumb2.cta': 'Открыть хронологию',
+    'home.hall.thumb3.caption':
+      'В трёх темах этого зала сейчас {count} статей.',
+    'home.hall.thumb4.caption':
+      '{count} крупнейших публичных компаний по рыночной стоимости, площадь пропорциональна стоимости. Одна {top} составляет {pct}% от суммы этих {count} компаний.',
+    'home.hall.thumb4.cta': 'Открыть карту компаний',
+    'home.halls.title': 'Четыре зала',
+    'home.halls.eyebrow': 'Залы',
+    'home.halls.lead':
+      'Taiwan.md располагает свои {count} статей в четырёх залах. Каждый зал начинается с короткого редакторского текста, за ним следуют темы, спецпроекты и инструменты этого зала.',
+    'home.halls.meta.description':
+      'Четыре зала Taiwan.md: каков этот остров, как он возник, чем заняты его люди и куда он идёт. В каждом зале есть редакторский текст, избранные статьи, а также темы, спецпроекты и инструменты.',
+    'home.halls.lobby': 'Вестибюль',
+    'home.hall.label': 'Зал {numeral}',
+    'home.hall.meta.title': 'Зал {numeral}: {title}',
+    'home.hall.meta.description':
+      'Зал {numeral} из четырёх залов Taiwan.md, «{title}»: полный редакторский текст, избранные статьи ({categories}), а также спецпроекты и инструменты этого зала.',
+    'home.hall.lede':
+      'В этом зале собрано: {categories}. Сегодня здесь {count} статей.',
+    'home.hall.prose.fallback':
+      'Этот редакторский текст ещё не переведён на этот язык, поэтому показан на английском.',
+    'home.hall.residents.eyebrow': 'Спецразделы и инструменты',
+    'home.hall.residents.heading': 'Готово к использованию в этом зале',
+    'home.hall.kind.topic': 'Спецпроект',
+    'home.hall.kind.tool': 'Инструмент',
+    'home.hall.kind.interactive': 'Интерактивная страница',
+    'home.hall.kind.data': 'Данные',
+    'home.hall.categories.eyebrow': 'Искать по теме',
+    'home.hall.categories.heading': 'Темы этого зала',
+    'home.hall.corridor.eyebrow': 'Коридор',
+    'home.hall.corridor.heading': 'Куда дальше',
+    'home.hall.corridor.prev': 'Предыдущий зал',
+    'home.hall.corridor.next': 'Следующий зал',
+    'home.hall.corridor.lobby': 'Назад в вестибюль',
+    'home.hall.corridor.all': 'Посмотреть все четыре зала',
+    'home.lobby.enter': 'Войти в этот зал',
+    'home.lobby.residents': 'Ещё в этом зале',
+    'home.lobby.all': 'Обзор всех четырёх залов',
+    'home.hall.res.taiwan_shape.name': 'Контур Тайваня',
+    'home.hall.res.taiwan_shape.desc':
+      'Правильно нарисованный контур Тайваня; файлы SVG и геоданные можно свободно использовать.',
+    'home.hall.res.map.name': 'Карта',
+    'home.hall.res.map.desc':
+      'Нажмите на уезд или место на карте и читайте статьи о нём.',
+    'home.hall.res.soundscape.name': 'Звуковой ландшафт',
+    'home.hall.res.soundscape.desc':
+      'Тайвань на слух: полевые записи мусоровозов, храмовых праздников и морского прибоя.',
+    'home.hall.res.timeline.name': 'Хронология',
+    'home.hall.res.timeline.desc':
+      'От доисторических времён до наших дней, каждая эпоха связана со статьями о ней.',
+    'home.hall.res.terminology.name': 'Терминология',
+    'home.hall.res.terminology.desc':
+      'Лексика двух берегов пролива бок о бок: материковый термин, тайваньский термин, их происхождение и причина расхождения.',
+    'home.hall.res.converter.name': 'Конвертер терминологии',
+    'home.hall.res.converter.desc':
+      'Вставьте текст и замените материковые китайские выражения словами, которыми пользуются на Тайване.',
+    'home.hall.res.lifetree.name': 'Древо жизни',
+    'home.hall.res.lifetree.desc':
+      'Ключевые решения человека в виде ветвящегося дерева: выбранный путь и те, что остались невыбранными. Экспериментальный раздел.',
+    'home.hall.res.names.name': 'Тайваньские имена',
+    'home.hall.res.names.desc':
+      'Распределение фамилий, имена, отмечающие каждое поколение, четыре официальные системы транскрипции и инструмент для транскрипции имён.',
+    'home.hall.res.companies.name': 'Карта компаний',
+    'home.hall.res.companies.desc':
+      'Крупнейшие публичные компании Тайваня по рыночной стоимости, с сортировкой и фильтрами.',
+    'home.hall.res.budget.name': 'Госбюджет',
+    'home.hall.res.budget.desc':
+      'Десять лет бюджета центрального правительства: как делятся деньги, какие министерства выросли и сколько в итоге потрачено.',
+    'home.hall.res.industry.name': 'Промышленность и публичные компании',
+    'home.hall.res.industry.desc':
+      'Экспорт, научные парки, заводы по уездам и рейтинги рыночной стоимости за годы: структура промышленности в официальной статистике.',
+    'home.hall.res.elections.name': 'Выборы 2026',
+    'home.hall.res.elections.desc':
+      'Местные выборы 2026 года: кандидаты, политические пожертвования и сведения о голосовании по городам и уездам.',
+    'home.hall.res.health.name': 'Здравоохранение и долговременный уход',
+    'home.hall.res.health.desc':
+      'Как работают национальное медицинское страхование и долговременный уход, с калькуляторами пособий и взносов.',
+    'home.hall.res.income.name': 'Зарплата, налоги и пенсия',
+    'home.hall.res.income.desc':
+      'Куда уходит зарплата: распределение зарплат, подоходный налог, трудовое страхование и пенсии, с четырьмя калькуляторами.',
+    'home.hall.res.housing.name': 'Жильё',
+    'home.hall.res.housing.desc':
+      'Отношение цены жилья к доходу, ипотека и заём «Цин-ань», с ипотечным калькулятором и проверкой посильности.',
+    'home.hall.res.data.name': 'Тайвань в данных',
+    'home.hall.res.data.desc':
+      'Как Тайвань стал таким, какой он есть, прочитанный через цифры; у каждой цифры есть ссылка на официальный источник.',
+    'home.hall.thumb1.tropic': 'Тропик Рака',
+    'home.hall.pick.sources': 'Источников: {n}',
+    'home.start.eyebrow': 'Начните отсюда',
+    'home.people.eyebrow': 'Люди',
+    'home.people.heading': 'Те, кто пишет, и те, кто читает',
+    'home.people.lead':
+      'То, что вы читаете здесь, написали {writers} авторов. Читатели отвечают нам, иногда подбадривая, а иногда поправляя.',
+    'home.people.voices.heading': 'Голоса сообщества',
+    'home.people.voices.sub': 'Что говорят нам настоящие читатели',
+    'home.people.voices.all': 'Читать все ({count})',
+    'home.people.voices.pause': 'Остановить движение комментариев',
+    'home.people.voices.play': 'Возобновить движение комментариев',
+    'home.people.writers.heading': 'Авторы',
+    'home.people.writers.all': 'Все авторы на GitHub',
+    'home.recent.eyebrow': 'Недавно',
+    'home.recent.heading': 'Недавно добавленные статьи',
+    'home.organism.eyebrow': 'Как это работает',
+    'home.join.eyebrow': 'Участвовать',
+    'home.join.app.alt': 'Скачать Taiwan.md в App Store',
   },
   de: {
     'hero.stat.history.number': '400+',
@@ -1581,6 +2872,158 @@ export const homeUI = {
       'All das hat sie erlebt — doch was tun die Menschen, die hier leben?',
     'home.bridge.3to4':
       'Das haben sie hinterlassen — doch wohin führt der Weg dieser Insel?',
+    'home.live.aria': 'Taiwan.md aktuell',
+    'home.live.articles': 'Artikel',
+    'home.live.languages': 'Sprachen',
+    'home.live.writers': 'Mitwirkende',
+    'home.cover.axis.aria':
+      'Epochen der acht Zitate. Wähle eine Epoche, um ihr Zitat zu lesen.',
+    'home.cover.axis.scale':
+      'Jeder kleine Strich auf der Linie steht für 25 Jahre',
+    'home.cover.autoplay.pause': 'Automatischen Zitatwechsel anhalten',
+    'home.cover.autoplay.play': 'Automatischen Zitatwechsel fortsetzen',
+    'home.tools.eyebrow': 'Werkzeuge und Sonderbereiche',
+    'home.tools.heading': 'Sofort nutzbar',
+    'home.tools.lead':
+      'Hier musst du vorher keinen Artikel lesen. Öffne eines davon, um etwas nachzuschlagen, umzuwandeln oder herunterzuladen.',
+    'home.tools.election.name': 'Wahlen 2026',
+    'home.tools.election.desc':
+      'Kandidaten, Parteispenden und Wahlinformationen aus {races} Städten und Landkreisen.',
+    'home.tools.election.badge': 'Wahltag: {date}',
+    'home.tools.timeline.name': 'Taiwan im Zeitstrahl',
+    'home.tools.timeline.desc':
+      'Von der Vorgeschichte bis heute: {eras} Epochen auf einer Linie.',
+    'home.tools.companies.name': 'Unternehmenslandschaft',
+    'home.tools.companies.desc':
+      'Taiwans größte börsennotierte Unternehmen nach Marktwert, sortier- und filterbar.',
+    'home.tools.converter.name': 'Terminologie-Konverter',
+    'home.tools.converter.desc':
+      'Füge einen Text ein und ersetze Begriffe aus der VR China durch die Wörter, die man in Taiwan verwendet.',
+    'home.tools.shape.name': 'Die Form Taiwans',
+    'home.tools.shape.desc':
+      'Ein korrekt gezeichneter Umriss Taiwans, mit SVG- und Geodaten-Dateien zur freien Wiederverwendung.',
+    'home.tools.topics.name': 'Themendossiers',
+    'home.tools.topics.desc':
+      '{count} Dossiers, die jeweils Artikel mit Rechnern verbinden, die dir eine Antwort liefern.',
+    'home.tools.map.name': 'Karte',
+    'home.tools.map.desc':
+      '{count} Artikel sind auf der Karte verortet. Beginne an einem Ort, den du kennst.',
+    'home.categories.eyebrow': 'Nach Thema stöbern',
+    'home.topics.total': 'Artikel in {topics} Themen',
+    'home.topics.recent': '{count} neu in den letzten 30 Tagen',
+    'home.hall.thumb1.caption':
+      '{count} Artikel lassen sich auf der Karte verorten. Je größer der Punkt, desto mehr Artikel gibt es in der Nähe; die Balken rechts zählen sie von Nord nach Süd.',
+    'home.hall.thumb1.outside':
+      'Nicht abgebildet: {kinmen} aus Kinmen und {matsu} aus Matsu.',
+    'home.hall.thumb1.cta': 'Karte öffnen',
+    'home.hall.thumb2.caption':
+      'Die Zeitstrahl-Seite ordnet {count} Artikel in {eras} Epochen. Ein Punkt ist ein Artikel; die Länge jedes Balkens entspricht der Zahl der Jahre, die die Epoche dauerte.',
+    'home.hall.thumb2.prehistory': 'Vorgeschichte',
+    'home.hall.thumb2.cta': 'Zeitstrahl öffnen',
+    'home.hall.thumb3.caption':
+      'Die drei Themen dieser Halle umfassen heute {count} Artikel.',
+    'home.hall.thumb4.caption':
+      'Die {count} größten börsennotierten Unternehmen, nach Marktwert flächenmäßig dargestellt. Allein {top} macht {pct} % der Summe dieser {count} aus.',
+    'home.hall.thumb4.cta': 'Unternehmenslandschaft öffnen',
+    'home.halls.title': 'Die vier Hallen',
+    'home.halls.eyebrow': 'Hallen',
+    'home.halls.lead':
+      'Taiwan.md ordnet seine {count} Artikel in vier Hallen. Jede beginnt mit einem kurzen kuratorischen Essay, gefolgt von den Themen, Dossiers und Werkzeugen der Halle.',
+    'home.halls.meta.description':
+      'Die vier Hallen von Taiwan.md: wie diese Insel aussieht, wie sie wurde, was ihre Menschen tun und wohin sie geht. Jede Halle hat einen kuratorischen Essay, ausgewählte Artikel sowie eigene Themen, Dossiers und Werkzeuge.',
+    'home.halls.lobby': 'Foyer',
+    'home.hall.label': 'Halle {numeral}',
+    'home.hall.meta.title': 'Halle {numeral}: {title}',
+    'home.hall.meta.description':
+      'Halle {numeral} der vier Hallen von Taiwan.md, "{title}": der vollständige kuratorische Essay, ausgewählte Artikel zu {categories} sowie die Dossiers und Werkzeuge dieser Halle.',
+    'home.hall.lede':
+      'Diese Halle versammelt {categories}: heute {count} Artikel.',
+    'home.hall.prose.fallback':
+      'Dieser kuratorische Essay ist noch nicht in diese Sprache übersetzt und wird deshalb auf Englisch angezeigt.',
+    'home.hall.residents.eyebrow': 'Werkzeuge und Sonderbereiche',
+    'home.hall.residents.heading': 'Sofort nutzbar in dieser Halle',
+    'home.hall.kind.topic': 'Dossier',
+    'home.hall.kind.tool': 'Werkzeug',
+    'home.hall.kind.interactive': 'Interaktiv',
+    'home.hall.kind.data': 'Daten',
+    'home.hall.categories.eyebrow': 'Nach Thema stöbern',
+    'home.hall.categories.heading': 'Themen in dieser Halle',
+    'home.hall.corridor.eyebrow': 'Korridor',
+    'home.hall.corridor.heading': 'Wohin als Nächstes',
+    'home.hall.corridor.prev': 'Vorherige Halle',
+    'home.hall.corridor.next': 'Nächste Halle',
+    'home.hall.corridor.lobby': 'Zurück zum Foyer',
+    'home.hall.corridor.all': 'Alle vier Hallen ansehen',
+    'home.lobby.enter': 'Diese Halle betreten',
+    'home.lobby.residents': 'Außerdem in dieser Halle',
+    'home.lobby.all': 'Übersicht über die vier Hallen ansehen',
+    'home.hall.res.taiwan_shape.name': 'Die Form Taiwans',
+    'home.hall.res.taiwan_shape.desc':
+      'Ein korrekt gezeichneter Umriss Taiwans, mit SVG- und Geodaten-Dateien zur freien Wiederverwendung.',
+    'home.hall.res.map.name': 'Karte',
+    'home.hall.res.map.desc':
+      'Klicke auf der Karte einen Landkreis oder einen Ort an und lies die Artikel dazu.',
+    'home.hall.res.soundscape.name': 'Klanglandschaft',
+    'home.hall.res.soundscape.desc':
+      'Taiwan mit den Ohren kennenlernen: Feldaufnahmen von Müllwagen, Tempelfesten und Wellen.',
+    'home.hall.res.timeline.name': 'Zeitstrahl',
+    'home.hall.res.timeline.desc':
+      'Von der Vorgeschichte bis heute, jede Epoche mit den Artikeln der Seite verknüpft.',
+    'home.hall.res.terminology.name': 'Begriffsbuch',
+    'home.hall.res.terminology.desc':
+      'Wortschatz beiderseits der Taiwanstraße im Vergleich: der Begriff in der VR China, der Begriff in Taiwan, Herkunft und Gründe der Abweichung.',
+    'home.hall.res.converter.name': 'Terminologie-Konverter',
+    'home.hall.res.converter.desc':
+      'Füge einen Text ein und ersetze Begriffe aus der VR China durch die Wörter, die man in Taiwan verwendet.',
+    'home.hall.res.lifetree.name': 'Lebensbaum',
+    'home.hall.res.lifetree.desc':
+      'Die Schlüsselentscheidungen eines Menschen als verzweigter Baum: der gewählte Weg und die nicht gewählten. Experimentell.',
+    'home.hall.res.names.name': 'Taiwanische Namen',
+    'home.hall.res.names.desc':
+      'Familiennamen, die Vornamen, die jede Generation prägen, vier amtliche Umschriftsysteme und ein Werkzeug zur Namensumschrift.',
+    'home.hall.res.companies.name': 'Unternehmenslandschaft',
+    'home.hall.res.companies.desc':
+      'Taiwans größte börsennotierte Unternehmen nach Marktwert, sortier- und filterbar.',
+    'home.hall.res.budget.name': 'Staatshaushalt',
+    'home.hall.res.budget.desc':
+      'Zehn Jahre Gesamthaushalt der Zentralregierung: wie er verteilt ist, welche Ministerien gewachsen sind und wie viel tatsächlich ausgegeben wurde.',
+    'home.hall.res.industry.name': 'Industrie und börsennotierte Unternehmen',
+    'home.hall.res.industry.desc':
+      'Exporte, Wissenschaftsparks, Fabriken nach Landkreis und historische Marktwert-Rankings: die Industriestruktur in der amtlichen Statistik.',
+    'home.hall.res.elections.name': 'Wahlen 2026',
+    'home.hall.res.elections.desc':
+      'Die Kommunalwahlen 2026: Kandidaten, Parteispenden und Wahlinformationen nach Stadt und Landkreis.',
+    'home.hall.res.health.name': 'Gesundheit und Langzeitpflege',
+    'home.hall.res.health.desc':
+      'Wie die nationale Krankenversicherung und die Langzeitpflege funktionieren, mit Rechnern für Zuschüsse und Beiträge.',
+    'home.hall.res.income.name': 'Lohn, Steuern und Rente',
+    'home.hall.res.income.desc':
+      'Wohin ein Gehalt fließt: Lohnverteilung, Einkommensteuer, Arbeitsversicherung und Renten, mit vier Rechnern.',
+    'home.hall.res.housing.name': 'Wohnen',
+    'home.hall.res.housing.desc':
+      'Verhältnis von Preis zu Einkommen, Hypotheken und das Qing-An-Darlehen für junge Menschen, mit Hypothekenrechner und Erschwinglichkeits-Check.',
+    'home.hall.res.data.name': 'Taiwan in Daten',
+    'home.hall.res.data.desc':
+      'Wie Taiwan wurde, was es ist, gelesen anhand seiner Zahlen, jede mit Link zur amtlichen Quelle.',
+    'home.hall.thumb1.tropic': 'Wendekreis des Krebses',
+    'home.hall.pick.sources': '{n} Quellen',
+    'home.start.eyebrow': 'Hier beginnen',
+    'home.people.eyebrow': 'Menschen',
+    'home.people.heading': 'Die Schreibenden, die Lesenden',
+    'home.people.lead':
+      '{writers} Mitwirkende haben geschrieben, was du hier liest. Leserinnen und Leser schreiben zurück, mal als Ermutigung, mal als Korrektur.',
+    'home.people.voices.heading': 'Stimmen aus der Community',
+    'home.people.voices.sub': 'Was uns echte Leserinnen und Leser gesagt haben',
+    'home.people.voices.all': 'Alle {count} lesen',
+    'home.people.voices.pause': 'Laufende Kommentare anhalten',
+    'home.people.voices.play': 'Laufende Kommentare fortsetzen',
+    'home.people.writers.heading': 'Mitwirkende',
+    'home.people.writers.all': 'Alle Mitwirkenden auf GitHub ansehen',
+    'home.recent.eyebrow': 'Zuletzt',
+    'home.recent.heading': 'Neu hinzugekommene Artikel',
+    'home.organism.eyebrow': 'So funktioniert es',
+    'home.join.eyebrow': 'Mitmachen',
+    'home.join.app.alt': 'Taiwan.md im App Store laden',
   },
   'zh-TW': {
     'hero.stat.history.number': '400+',
@@ -1724,6 +3167,8 @@ export const homeUI = {
     'home.live.writers': '位寫作者',
     'home.cover.axis.aria': '八句引語的年代，選一個年代看那一句',
     'home.cover.axis.scale': '線上的小刻度，一格 25 年',
+    'home.cover.autoplay.pause': '暫停自動換句',
+    'home.cover.autoplay.play': '繼續自動換句',
     'home.tools.eyebrow': '工具與專區',
     'home.tools.heading': '直接能用的',
     'home.tools.lead': '這幾樣不用先讀文章，打開就能查、能換、能下載。',
@@ -1744,8 +3189,8 @@ export const homeUI = {
     'home.tools.map.name': '地圖',
     'home.tools.map.desc': '{count} 篇文章標在地圖上，從你熟的地方開始讀。',
     'home.categories.eyebrow': '照主題找',
-    'home.hall.thumb.north': '北',
-    'home.hall.thumb.south': '南',
+    'home.topics.total': '篇文章，分在 {topics} 個主題',
+    'home.topics.recent': '近 30 天新上線 {count} 篇',
     'home.hall.thumb1.caption':
       '{count} 篇文章標得出地點。點越大，那一帶的文章越多；右邊的長條是由北到南的篇數。',
     'home.hall.thumb1.outside': '金門 {kinmen} 篇、馬祖 {matsu} 篇不在圖上。',
@@ -1758,6 +3203,82 @@ export const homeUI = {
     'home.hall.thumb4.caption':
       '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了這 {count} 家合計的 {pct}%。',
     'home.hall.thumb4.cta': '打開企業版圖',
+    'home.halls.title': '四個展廳',
+    'home.halls.eyebrow': '展廳',
+    'home.halls.lead':
+      'Taiwan.md 把 {count} 篇文章排成四個展廳。每一廳從一篇策展散文開始，後面接著這一廳的分類、專題與工具。',
+    'home.halls.meta.description':
+      'Taiwan.md 的四個展廳：這座島長什麼樣、怎麼來的、島上的人在做什麼、往哪裡去。每一廳有一篇策展散文、精選文章，以及這一廳的分類、專題與工具。',
+    'home.halls.lobby': '大廳',
+    'home.hall.label': '展廳{numeral}',
+    'home.hall.meta.title': '展廳{numeral}：{title}',
+    'home.hall.meta.description':
+      'Taiwan.md 四個展廳之{numeral}「{title}」：策展散文全文、{categories}的精選文章，以及這一廳的專題與工具。',
+    'home.hall.lede': '這一廳收的是{categories}，現在一共 {count} 篇文章。',
+    'home.hall.prose.fallback':
+      '這篇策展散文還沒有這個語言的版本，先以英文呈現。',
+    'home.hall.residents.eyebrow': '專區與工具',
+    'home.hall.residents.heading': '這一廳裡直接能用的',
+    'home.hall.kind.topic': '專題',
+    'home.hall.kind.tool': '工具',
+    'home.hall.kind.interactive': '互動頁',
+    'home.hall.kind.data': '資料',
+    'home.hall.categories.eyebrow': '照主題找',
+    'home.hall.categories.heading': '這一廳的分類',
+    'home.hall.corridor.eyebrow': '走廊',
+    'home.hall.corridor.heading': '接著往哪裡走',
+    'home.hall.corridor.prev': '上一廳',
+    'home.hall.corridor.next': '下一廳',
+    'home.hall.corridor.lobby': '回大廳',
+    'home.hall.corridor.all': '看四個展廳',
+    'home.lobby.enter': '走進這一廳',
+    'home.lobby.residents': '這一廳還有',
+    'home.lobby.all': '看四個展廳的總覽',
+    'home.hall.res.taiwan_shape.name': '台灣的形狀',
+    'home.hall.res.taiwan_shape.desc':
+      '畫對的台灣輪廓，SVG 與地理檔可以直接拿去用。',
+    'home.hall.res.map.name': '地圖',
+    'home.hall.res.map.desc': '在地圖上點一個縣市或地點，讀那裡的文章。',
+    'home.hall.res.soundscape.name': '聲景',
+    'home.hall.res.soundscape.desc':
+      '用耳朵認識台灣：垃圾車、廟會、浪聲的田野錄音。',
+    'home.hall.res.timeline.name': '時間軸',
+    'home.hall.res.timeline.desc': '從史前到今天，每個時期接著站上的文章。',
+    'home.hall.res.terminology.name': '用語庫',
+    'home.hall.res.terminology.desc':
+      '兩岸用語對照：中國說法、台灣說法、詞源與分歧的原因。',
+    'home.hall.res.converter.name': '用語轉換器',
+    'home.hall.res.converter.desc': '貼上一段文字，把中國用語換成台灣的說法。',
+    'home.hall.res.lifetree.name': '生命樹',
+    'home.hall.res.lifetree.desc':
+      '把一個人的關鍵決定畫成分支樹：選了哪條路，沒選的是什麼。實驗中。',
+    'home.hall.res.names.name': '台灣人的名字',
+    'home.hall.res.names.desc':
+      '姓氏分布、名字的世代、四套官方拼音，附姓名拼音工具。',
+    'home.hall.res.companies.name': '企業版圖',
+    'home.hall.res.companies.desc': '台灣市值最大的上市公司，可以排序、篩選。',
+    'home.hall.res.budget.name': '總預算',
+    'home.hall.res.budget.desc':
+      '中央政府總預算十年：錢怎麼分、哪些部會在長、最後有沒有花掉。',
+    'home.hall.res.industry.name': '產業與上市公司',
+    'home.hall.res.industry.desc':
+      '出口、科學園區、各縣市工廠與歷年市值排名，用官方統計畫出產業結構。',
+    'home.hall.res.elections.name': '2026 選舉',
+    'home.hall.res.elections.desc':
+      '九合一選舉專區：各縣市的候選人、政治獻金與投票資訊。',
+    'home.hall.res.health.name': '醫療與長照',
+    'home.hall.res.health.desc': '健保與長照怎麼運作，附長照補助與健保費試算。',
+    'home.hall.res.income.name': '薪資、稅與退休',
+    'home.hall.res.income.desc':
+      '一份薪水的去向：薪資分布、綜所稅、勞保與勞退，附四個試算工具。',
+    'home.hall.res.housing.name': '房地產',
+    'home.hall.res.housing.desc':
+      '房價所得比、房貸與青安貸款，附房貸試算與負擔自查。',
+    'home.hall.res.data.name': '資料台灣',
+    'home.hall.res.data.desc':
+      '用數字讀台灣怎麼變成現在的樣子，每個數字都附官方出處。',
+    'home.hall.thumb1.tropic': '北回歸線',
+    'home.hall.pick.sources': '{n} 引用',
     'home.start.eyebrow': '從這裡開始',
     'home.people.eyebrow': '人',
     'home.people.heading': '寫的人，讀的人',
@@ -1766,6 +3287,8 @@ export const homeUI = {
     'home.people.voices.heading': '來自社群的聲音',
     'home.people.voices.sub': '真實使用者的回饋',
     'home.people.voices.all': '看全部 {count} 則',
+    'home.people.voices.pause': '暫停留言流動',
+    'home.people.voices.play': '繼續留言流動',
     'home.people.writers.heading': '寫作者',
     'home.people.writers.all': '在 GitHub 看所有寫作者',
     'home.recent.eyebrow': '最近',
@@ -1929,6 +3452,160 @@ export const homeUI = {
     'home.bridge.2to3':
       "Après tout cela — que font aujourd'hui ceux qui y vivent ?",
     'home.bridge.3to4': "Ils ont laissé tout ça — où va l'île maintenant ?",
+    'home.live.aria': 'Taiwan.md en ce moment',
+    'home.live.articles': 'articles',
+    'home.live.languages': 'langues',
+    'home.live.writers': 'contributeurs',
+    'home.cover.axis.aria':
+      'Les époques des huit citations. Choisissez une époque pour lire sa citation.',
+    'home.cover.axis.scale': 'Chaque petit trait de la ligne représente 25 ans',
+    'home.cover.autoplay.pause':
+      'Mettre en pause le changement automatique de citation',
+    'home.cover.autoplay.play':
+      'Reprendre le changement automatique de citation',
+    'home.tools.eyebrow': 'Outils et espaces spéciaux',
+    'home.tools.heading': 'Utilisables tout de suite',
+    'home.tools.lead':
+      "Inutile de lire d'abord un article. Ouvrez l'un de ces outils pour chercher, convertir ou télécharger.",
+    'home.tools.election.name': 'Élections 2026',
+    'home.tools.election.desc':
+      'Candidats, dons politiques et informations sur le vote dans {races} villes et comtés.',
+    'home.tools.election.badge': 'Scrutin : {date}',
+    'home.tools.timeline.name': 'Taïwan dans le temps',
+    'home.tools.timeline.desc':
+      "De la préhistoire à aujourd'hui, {eras} époques sur une seule ligne.",
+    'home.tools.companies.name': 'Paysage des entreprises',
+    'home.tools.companies.desc':
+      'Les plus grandes entreprises cotées de Taïwan par capitalisation, triables et filtrables.',
+    'home.tools.converter.name': 'Convertisseur de terminologie',
+    'home.tools.converter.desc':
+      'Collez un texte et remplacez les usages de la RPC par les mots employés à Taïwan.',
+    'home.tools.shape.name': 'La forme de Taïwan',
+    'home.tools.shape.desc':
+      'Un contour de Taïwan correctement dessiné, avec des fichiers SVG et géographiques librement réutilisables.',
+    'home.tools.topics.name': 'Dossiers',
+    'home.tools.topics.desc':
+      '{count} dossiers, chacun associant des articles et des calculateurs qui donnent une réponse.',
+    'home.tools.map.name': 'Carte',
+    'home.tools.map.desc':
+      '{count} articles placés sur la carte. Commencez par un endroit que vous connaissez.',
+    'home.categories.eyebrow': 'Parcourir par thème',
+    'home.topics.total': 'articles répartis en {topics} thèmes',
+    'home.topics.recent': '{count} nouveaux ces 30 derniers jours',
+    'home.hall.thumb1.caption':
+      "{count} articles peuvent être situés sur la carte. Plus le point est gros, plus il y a d'articles dans les environs ; les barres de droite les comptent du nord au sud.",
+    'home.hall.thumb1.outside':
+      'Hors de la carte : {kinmen} à Kinmen et {matsu} à Matsu.',
+    'home.hall.thumb1.cta': 'Ouvrir la carte',
+    'home.hall.thumb2.caption':
+      "La page chronologie répartit {count} articles en {eras} époques. Un point est un article ; la longueur de chaque barre correspond au nombre d'années de l'époque.",
+    'home.hall.thumb2.prehistory': 'Préhistoire',
+    'home.hall.thumb2.cta': 'Ouvrir la chronologie',
+    'home.hall.thumb3.caption':
+      "Les trois thèmes de cette salle rassemblent aujourd'hui {count} articles.",
+    'home.hall.thumb4.caption':
+      'Les {count} plus grandes entreprises cotées, dessinées selon leur capitalisation. {top} représente à elle seule {pct} % du total de ces {count}.',
+    'home.hall.thumb4.cta': 'Ouvrir le paysage des entreprises',
+    'home.halls.title': 'Les quatre salles',
+    'home.halls.eyebrow': 'Salles',
+    'home.halls.lead':
+      "Taiwan.md range ses {count} articles en quatre salles. Chacune s'ouvre sur un court essai de commissariat, suivi des thèmes, dossiers et outils de la salle.",
+    'home.halls.meta.description':
+      "Les quatre salles de Taiwan.md : à quoi ressemble cette île, comment elle est devenue ce qu'elle est, ce que font ses habitants et où elle va. Chaque salle propose un essai de commissariat, des articles choisis, ainsi que ses propres thèmes, dossiers et outils.",
+    'home.halls.lobby': "Hall d'entrée",
+    'home.hall.label': 'Salle {numeral}',
+    'home.hall.meta.title': 'Salle {numeral} : {title}',
+    'home.hall.meta.description':
+      'Salle {numeral} des quatre salles de Taiwan.md, "{title}" : l\'essai de commissariat en entier, des articles choisis sur {categories}, ainsi que les dossiers et outils de cette salle.',
+    'home.hall.lede':
+      "Cette salle rassemble {categories} : {count} articles aujourd'hui.",
+    'home.hall.prose.fallback':
+      "Cet essai de commissariat n'est pas encore traduit dans cette langue ; il est donc présenté en anglais.",
+    'home.hall.residents.eyebrow': 'Outils et espaces spéciaux',
+    'home.hall.residents.heading': 'Utilisables tout de suite dans cette salle',
+    'home.hall.kind.topic': 'Dossier',
+    'home.hall.kind.tool': 'Outil',
+    'home.hall.kind.interactive': 'Interactif',
+    'home.hall.kind.data': 'Données',
+    'home.hall.categories.eyebrow': 'Parcourir par thème',
+    'home.hall.categories.heading': 'Les thèmes de cette salle',
+    'home.hall.corridor.eyebrow': 'Couloir',
+    'home.hall.corridor.heading': 'Où aller ensuite',
+    'home.hall.corridor.prev': 'Salle précédente',
+    'home.hall.corridor.next': 'Salle suivante',
+    'home.hall.corridor.lobby': "Retour au hall d'entrée",
+    'home.hall.corridor.all': 'Voir les quatre salles',
+    'home.lobby.enter': 'Entrer dans cette salle',
+    'home.lobby.residents': 'Aussi dans cette salle',
+    'home.lobby.all': "Voir l'aperçu des quatre salles",
+    'home.hall.res.taiwan_shape.name': 'La forme de Taïwan',
+    'home.hall.res.taiwan_shape.desc':
+      'Un contour de Taïwan correctement dessiné, avec des fichiers SVG et géographiques librement réutilisables.',
+    'home.hall.res.map.name': 'Carte',
+    'home.hall.res.map.desc':
+      "Cliquez sur un comté ou un lieu de la carte et lisez les articles qui s'y rapportent.",
+    'home.hall.res.soundscape.name': 'Paysage sonore',
+    'home.hall.res.soundscape.desc':
+      "Découvrir Taïwan à l'oreille : enregistrements de terrain de camions-poubelles, de fêtes de temple et de vagues.",
+    'home.hall.res.timeline.name': 'Chronologie',
+    'home.hall.res.timeline.desc':
+      "De la préhistoire à aujourd'hui, chaque époque reliée aux articles du site.",
+    'home.hall.res.terminology.name': 'Lexique',
+    'home.hall.res.terminology.desc':
+      "Vocabulaire comparé de part et d'autre du détroit : le terme de la RPC, le terme taïwanais, leur étymologie et la raison de leur divergence.",
+    'home.hall.res.converter.name': 'Convertisseur de terminologie',
+    'home.hall.res.converter.desc':
+      'Collez un texte et remplacez les usages de la RPC par les mots employés à Taïwan.',
+    'home.hall.res.lifetree.name': 'Arbre de vie',
+    'home.hall.res.lifetree.desc':
+      "Les décisions clés d'une personne dessinées comme un arbre aux branches multiples : le chemin pris et ceux qui ne l'ont pas été. Expérimental.",
+    'home.hall.res.names.name': 'Les noms taïwanais',
+    'home.hall.res.names.desc':
+      'Noms de famille, prénoms qui marquent chaque génération, quatre systèmes officiels de romanisation et un outil de romanisation des noms.',
+    'home.hall.res.companies.name': 'Paysage des entreprises',
+    'home.hall.res.companies.desc':
+      'Les plus grandes entreprises cotées de Taïwan par capitalisation, triables et filtrables.',
+    'home.hall.res.budget.name': "Budget de l'État",
+    'home.hall.res.budget.desc':
+      'Dix ans de budget général du gouvernement central : comment il se répartit, quels ministères ont grandi et combien a réellement été dépensé.',
+    'home.hall.res.industry.name': 'Industrie et entreprises cotées',
+    'home.hall.res.industry.desc':
+      'Exportations, parcs scientifiques, usines par comté et classements historiques de capitalisation : la structure industrielle selon les statistiques officielles.',
+    'home.hall.res.elections.name': 'Élections 2026',
+    'home.hall.res.elections.desc':
+      'Les élections locales de 2026 : candidats, dons politiques et informations sur le vote par ville et par comté.',
+    'home.hall.res.health.name': 'Santé et soins de longue durée',
+    'home.hall.res.health.desc':
+      "Comment fonctionnent l'assurance maladie nationale et les soins de longue durée, avec des calculateurs d'aides et de cotisations.",
+    'home.hall.res.income.name': 'Salaire, impôts et retraite',
+    'home.hall.res.income.desc':
+      'Où va un salaire : répartition des salaires, impôt sur le revenu, assurance du travail et retraites, avec quatre calculateurs.',
+    'home.hall.res.housing.name': 'Logement',
+    'home.hall.res.housing.desc':
+      "Rapport prix-revenu, prêts immobiliers et prêt Qing-An pour les jeunes, avec un calculateur de prêt et un test de capacité d'endettement.",
+    'home.hall.res.data.name': 'Taïwan en données',
+    'home.hall.res.data.desc':
+      "Comment Taïwan est devenue ce qu'elle est, lu à travers ses chiffres, chacun relié à sa source officielle.",
+    'home.hall.thumb1.tropic': 'Tropique du Cancer',
+    'home.hall.pick.sources': '{n} sources',
+    'home.start.eyebrow': 'Commencer ici',
+    'home.people.eyebrow': 'Les gens',
+    'home.people.heading': 'Ceux qui écrivent, ceux qui lisent',
+    'home.people.lead':
+      '{writers} contributeurs ont écrit ce que vous lisez ici. Les lecteurs répondent, parfois pour encourager, parfois pour corriger.',
+    'home.people.voices.heading': 'Voix de la communauté',
+    'home.people.voices.sub': 'Ce que de vrais lecteurs nous ont dit',
+    'home.people.voices.all': 'Lire les {count}',
+    'home.people.voices.pause':
+      'Mettre en pause le défilement des commentaires',
+    'home.people.voices.play': 'Reprendre le défilement des commentaires',
+    'home.people.writers.heading': 'Contributeurs',
+    'home.people.writers.all': 'Voir tous les contributeurs sur GitHub',
+    'home.recent.eyebrow': 'Récemment',
+    'home.recent.heading': 'Articles récemment ajoutés',
+    'home.organism.eyebrow': 'Comment ça marche',
+    'home.join.eyebrow': 'Participer',
+    'home.join.app.alt': "Télécharger Taiwan.md sur l'App Store",
   },
   es: {
     'hero.stat.history.number': '400+',
@@ -2082,5 +3759,157 @@ export const homeUI = {
     'home.bridge.1to2': 'Así se ve esta isla — pero ¿quién la dejó así?',
     'home.bridge.2to3': 'Después de todo esto — ¿qué hacen los que viven aquí?',
     'home.bridge.3to4': 'Dejaron todo esto — ¿hacia dónde va la isla ahora?',
+    'home.live.aria': 'Taiwan.md en este momento',
+    'home.live.articles': 'artículos',
+    'home.live.languages': 'idiomas',
+    'home.live.writers': 'colaboradores',
+    'home.cover.axis.aria':
+      'Épocas de las ocho citas. Elige una época para leer su cita.',
+    'home.cover.axis.scale':
+      'Cada marca pequeña de la línea equivale a 25 años',
+    'home.cover.autoplay.pause': 'Pausar el cambio automático de citas',
+    'home.cover.autoplay.play': 'Reanudar el cambio automático de citas',
+    'home.tools.eyebrow': 'Herramientas y secciones especiales',
+    'home.tools.heading': 'Para usar al momento',
+    'home.tools.lead':
+      'No hace falta leer antes ningún artículo. Abre cualquiera de estas para consultar, convertir o descargar.',
+    'home.tools.election.name': 'Elecciones 2026',
+    'home.tools.election.desc':
+      'Candidatos, donaciones políticas e información de voto de {races} ciudades y condados.',
+    'home.tools.election.badge': 'Votación: {date}',
+    'home.tools.timeline.name': 'Taiwán en el tiempo',
+    'home.tools.timeline.desc':
+      'De la prehistoria a hoy, {eras} épocas en una sola línea.',
+    'home.tools.companies.name': 'Mapa empresarial',
+    'home.tools.companies.desc':
+      'Las empresas cotizadas de Taiwán con mayor valor de mercado, que se pueden ordenar y filtrar.',
+    'home.tools.converter.name': 'Conversor de terminología',
+    'home.tools.converter.desc':
+      'Pega un texto y cambia los términos de la RPC por los que se usan en Taiwán.',
+    'home.tools.shape.name': 'La forma de Taiwán',
+    'home.tools.shape.desc':
+      'El contorno de Taiwán bien dibujado, con archivos SVG y geográficos que puedes reutilizar libremente.',
+    'home.tools.topics.name': 'Dossiers temáticos',
+    'home.tools.topics.desc':
+      '{count} dossiers. Cada uno reúne artículos y herramientas que calculan una respuesta.',
+    'home.tools.map.name': 'Mapa',
+    'home.tools.map.desc':
+      '{count} artículos situados en el mapa. Empieza por un lugar que conozcas.',
+    'home.categories.eyebrow': 'Buscar por tema',
+    'home.topics.total': 'artículos repartidos en {topics} temas',
+    'home.topics.recent': '{count} nuevos en los últimos 30 días',
+    'home.hall.thumb1.caption':
+      '{count} artículos se pueden situar en el mapa. Cuanto más grande el punto, más artículos hay por la zona; las barras de la derecha cuentan los artículos de norte a sur.',
+    'home.hall.thumb1.outside':
+      'Fuera del mapa: {kinmen} de Kinmen y {matsu} de Matsu.',
+    'home.hall.thumb1.cta': 'Abrir el mapa',
+    'home.hall.thumb2.caption':
+      'La página de la línea de tiempo reparte {count} artículos en {eras} épocas. Cada punto es un artículo; la longitud de cada barra es el número de años que duró la época.',
+    'home.hall.thumb2.prehistory': 'Prehistoria',
+    'home.hall.thumb2.cta': 'Abrir la línea de tiempo',
+    'home.hall.thumb3.caption':
+      'Los tres temas de este salón reúnen hoy {count} artículos.',
+    'home.hall.thumb4.caption':
+      'Las {count} empresas cotizadas de mayor valor de mercado, con el tamaño según ese valor. Solo {top} supone el {pct} % del total de estas {count}.',
+    'home.hall.thumb4.cta': 'Abrir el mapa empresarial',
+    'home.halls.title': 'Los cuatro salones',
+    'home.halls.eyebrow': 'Salones',
+    'home.halls.lead':
+      'Taiwan.md ordena sus {count} artículos en cuatro salones. Cada uno empieza con un breve ensayo de curaduría y sigue con los temas, dossiers y herramientas de ese salón.',
+    'home.halls.meta.description':
+      'Los cuatro salones de Taiwan.md: cómo es esta isla, cómo llegó a ser lo que es, qué hace su gente y hacia dónde va. Cada salón tiene un ensayo de curaduría, artículos destacados y sus propios temas, dossiers y herramientas.',
+    'home.halls.lobby': 'Vestíbulo',
+    'home.hall.label': 'Salón {numeral}',
+    'home.hall.meta.title': 'Salón {numeral}: {title}',
+    'home.hall.meta.description':
+      'Salón {numeral} de los cuatro salones de Taiwan.md, "{title}": el ensayo de curaduría completo, artículos destacados sobre {categories} y los dossiers y herramientas de este salón.',
+    'home.hall.lede':
+      'Este salón reúne {categories}: hoy son {count} artículos.',
+    'home.hall.prose.fallback':
+      'Este ensayo de curaduría aún no está traducido a este idioma, así que se muestra en inglés.',
+    'home.hall.residents.eyebrow': 'Herramientas y secciones especiales',
+    'home.hall.residents.heading': 'Para usar al momento en este salón',
+    'home.hall.kind.topic': 'Dossier',
+    'home.hall.kind.tool': 'Herramienta',
+    'home.hall.kind.interactive': 'Interactivo',
+    'home.hall.kind.data': 'Datos',
+    'home.hall.categories.eyebrow': 'Buscar por tema',
+    'home.hall.categories.heading': 'Temas de este salón',
+    'home.hall.corridor.eyebrow': 'Pasillo',
+    'home.hall.corridor.heading': 'Adónde ir ahora',
+    'home.hall.corridor.prev': 'Salón anterior',
+    'home.hall.corridor.next': 'Salón siguiente',
+    'home.hall.corridor.lobby': 'Volver al vestíbulo',
+    'home.hall.corridor.all': 'Ver los cuatro salones',
+    'home.lobby.enter': 'Entrar en este salón',
+    'home.lobby.residents': 'También en este salón',
+    'home.lobby.all': 'Ver el resumen de los cuatro salones',
+    'home.hall.res.taiwan_shape.name': 'La forma de Taiwán',
+    'home.hall.res.taiwan_shape.desc':
+      'El contorno de Taiwán bien dibujado, con archivos SVG y geográficos que puedes reutilizar libremente.',
+    'home.hall.res.map.name': 'Mapa',
+    'home.hall.res.map.desc':
+      'Haz clic en un condado o un lugar del mapa y lee los artículos sobre él.',
+    'home.hall.res.soundscape.name': 'Paisaje sonoro',
+    'home.hall.res.soundscape.desc':
+      'Conocer Taiwán con el oído: grabaciones de campo de camiones de basura, fiestas de templo y olas.',
+    'home.hall.res.timeline.name': 'Línea de tiempo',
+    'home.hall.res.timeline.desc':
+      'De la prehistoria a hoy, cada época enlazada con los artículos del sitio.',
+    'home.hall.res.terminology.name': 'Glosario',
+    'home.hall.res.terminology.desc':
+      'Vocabulario comparado entre ambos lados del Estrecho: el término de la RPC, el término taiwanés, su etimología y por qué divergen.',
+    'home.hall.res.converter.name': 'Conversor de terminología',
+    'home.hall.res.converter.desc':
+      'Pega un texto y cambia los términos de la RPC por los que se usan en Taiwán.',
+    'home.hall.res.lifetree.name': 'Árbol de vida',
+    'home.hall.res.lifetree.desc':
+      'Las decisiones clave de una persona dibujadas como un árbol de ramas: el camino elegido y los que no se tomaron. Experimental.',
+    'home.hall.res.names.name': 'Nombres taiwaneses',
+    'home.hall.res.names.desc':
+      'Apellidos, los nombres que marcan cada generación, cuatro sistemas oficiales de romanización y una herramienta de romanización de nombres.',
+    'home.hall.res.companies.name': 'Mapa empresarial',
+    'home.hall.res.companies.desc':
+      'Las empresas cotizadas de Taiwán con mayor valor de mercado, que se pueden ordenar y filtrar.',
+    'home.hall.res.budget.name': 'Presupuesto público',
+    'home.hall.res.budget.desc':
+      'Diez años del presupuesto general del Gobierno central: cómo se reparte, qué ministerios crecen y cuánto se gastó de verdad.',
+    'home.hall.res.industry.name': 'Industria y empresas cotizadas',
+    'home.hall.res.industry.desc':
+      'Exportaciones, parques científicos, fábricas por condado y rankings históricos de valor de mercado: la estructura industrial según las estadísticas oficiales.',
+    'home.hall.res.elections.name': 'Elecciones 2026',
+    'home.hall.res.elections.desc':
+      'Las elecciones locales de 2026: candidatos, donaciones políticas e información de voto por ciudad y condado.',
+    'home.hall.res.health.name': 'Salud y cuidados de larga duración',
+    'home.hall.res.health.desc':
+      'Cómo funcionan el Seguro Nacional de Salud y los cuidados de larga duración, con calculadoras de subsidios y de cuotas.',
+    'home.hall.res.income.name': 'Salario, impuestos y jubilación',
+    'home.hall.res.income.desc':
+      'Adónde va un salario: distribución salarial, impuesto sobre la renta, seguro laboral y pensiones, con cuatro calculadoras.',
+    'home.hall.res.housing.name': 'Vivienda',
+    'home.hall.res.housing.desc':
+      'Relación precio-ingresos, hipotecas y el préstamo Qing-An para jóvenes, con calculadora de hipoteca y autoevaluación de carga.',
+    'home.hall.res.data.name': 'Taiwán en datos',
+    'home.hall.res.data.desc':
+      'Cómo llegó Taiwán a ser lo que es, leído a través de sus números, cada uno con enlace a su fuente oficial.',
+    'home.hall.thumb1.tropic': 'Trópico de Cáncer',
+    'home.hall.pick.sources': '{n} fuentes',
+    'home.start.eyebrow': 'Empieza aquí',
+    'home.people.eyebrow': 'Personas',
+    'home.people.heading': 'Quienes escriben, quienes leen',
+    'home.people.lead':
+      '{writers} colaboradores han escrito lo que lees aquí. Los lectores responden, a veces para animar y a veces para corregirnos.',
+    'home.people.voices.heading': 'Voces de la comunidad',
+    'home.people.voices.sub': 'Lo que nos dijeron lectores reales',
+    'home.people.voices.all': 'Leer los {count}',
+    'home.people.voices.pause': 'Pausar el desplazamiento de comentarios',
+    'home.people.voices.play': 'Reanudar el desplazamiento de comentarios',
+    'home.people.writers.heading': 'Colaboradores',
+    'home.people.writers.all': 'Ver todos los colaboradores en GitHub',
+    'home.recent.eyebrow': 'Últimamente',
+    'home.recent.heading': 'Artículos recién añadidos',
+    'home.organism.eyebrow': 'Cómo funciona',
+    'home.join.eyebrow': 'Participa',
+    'home.join.app.alt': 'Descarga Taiwan.md en la App Store',
   },
 } as const;

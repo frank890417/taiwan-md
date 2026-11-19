@@ -1,0 +1,335 @@
+---
+/**
+ * CommunityWall — 「來自社群的聲音」：讀者真實留言，三排一起慢慢流動。
+ *
+ * 2026-11-19 哲宇回饋：「評論的部分，我還是喜歡之前的那個很多使用者評真實留言的
+ * section，幫我放回來。」第一期把原本的 CommunityFeedback（三排跑馬燈、104 則）
+ * 換成六則精選靜態卡；這裡把「很多則一起流動」放回來，但比原本好：
+ *
+ *   - HTML 只輸出一份留言。無縫循環需要的第二份由瀏覽器端的腳本複製，複本帶
+ *     aria-hidden 與 inert（原本兩份都寫進 HTML，佔首頁 HTML 的 36%）。
+ *   - 沒有腳本、或開啟「減少動態」時不流動：三排是可以橫向捲動的靜態列，
+ *     每一則都看得到，排可以用鍵盤聚焦後捲動。
+ *   - 流動時：滑鼠移上去、鍵盤焦點進來、這一區不在畫面裡時暫停；旁邊有一顆
+ *     暫停／播放鈕（WCAG 2.2.2）。速度用每秒幾像素算，三排長短不同也一樣慢。
+ *   - 不用深色漸層底（硬規則：不用漸層底）。留言用站上一般的淺底對話泡泡，
+ *     兩端用遮罩淡出。
+ *
+ * 留言文字來自 src/data/feedbacks.ts，一個字不改。分排的方式跟原本一樣
+ * （第 i 則放第 i % 3 排）。只在中文首頁出現（i18n-smoke-test §B2）。
+ * 區塊名 data-ga-view="community_feedback" 由 PeopleSection 掛在外層。
+ */
+import { feedbacks } from '../../data/feedbacks';
+import { getLangFromUrl } from '../../i18n/utils';
+import { useHomeT } from './home-i18n';
+
+const lang = getLangFromUrl(Astro.url);
+const th = useHomeT(lang);
+const rows = [0, 1, 2].map((r) => feedbacks.filter((_, i) => i % 3 === r));
+
+// 泡泡寬度跟著字數走：短的一兩行，長的放寬寬度，三排的高度才不會被
+// 少數幾則長留言撐開（最多大約三行）。單位是 em（中文一個字約 1em，拉丁字母約 0.55em）。
+function lineEm(text: string): number {
+  let w = 0;
+  for (const ch of text) w += /[\x00-\x7f]/.test(ch) ? 0.55 : 1;
+  const perLine = w <= 22 ? w : Math.max(22, Math.ceil(w / 3));
+  return Math.min(34, Math.ceil(perLine) + 1);
+}
+---
+
+<div class="cw" data-community-wall>
+  <div class="cw-rows">
+    {
+      rows.map((row, r) => (
+        <div
+          class="cw-row"
+          data-dir={r === 1 ? 'right' : 'left'}
+          tabindex="0"
+          role="region"
+          aria-label={`${th('home.people.voices.heading')} ${r + 1}/3`}
+        >
+          <ul class="cw-track">
+            {row.map((f) => (
+              <li class="cw-item" style={`--cw-em:${lineEm(f.text)}`}>
+                <blockquote class="cw-bubble">{f.text}</blockquote>
+                <p class="cw-name">{f.name}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
+  <button
+    type="button"
+    class="cw-play"
+    hidden
+    aria-pressed="false"
+    aria-label={th('home.people.voices.pause')}
+    data-label-pause={th('home.people.voices.pause')}
+    data-label-play={th('home.people.voices.play')}
+    data-ga-section="people"
+    data-ga-label="voices_toggle"
+  >
+    <svg viewBox="0 0 16 16" aria-hidden="true">
+      <g class="cw-glyph-pause">
+        <rect x="4" y="3.5" width="2.4" height="9" rx="0.6"></rect>
+        <rect x="9.6" y="3.5" width="2.4" height="9" rx="0.6"></rect>
+      </g>
+      <path
+        class="cw-glyph-play"
+        d="M5 3.4v9.2a.6.6 0 0 0 .9.5l7.3-4.6a.6.6 0 0 0 0-1L5.9 2.9a.6.6 0 0 0-.9.5z"
+      ></path>
+    </svg>
+  </button>
+</div>
+
+<script>
+  // 流動：複製一份留言接在後面（複本 aria-hidden + inert），整條往一個方向移動
+  // 剛好一份的距離後無縫接回。沒有這段腳本、或開啟「減少動態」時，三排是可以
+  // 橫向捲動的靜態列。
+  const SPEED = 28; // 每秒幾像素
+
+  function setup(root: HTMLElement) {
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reduce.matches) return;
+    const rows = Array.from(root.querySelectorAll<HTMLElement>('.cw-row'));
+    const btn = root.querySelector<HTMLButtonElement>('.cw-play');
+    if (rows.length === 0) return;
+
+    rows.forEach((row) => {
+      const track = row.querySelector<HTMLElement>('.cw-track');
+      if (!track) return;
+      Array.from(track.children).forEach((item) => {
+        const copy = item.cloneNode(true) as HTMLElement;
+        copy.setAttribute('aria-hidden', 'true');
+        copy.setAttribute('inert', '');
+        track.appendChild(copy);
+      });
+      row.removeAttribute('tabindex');
+      row.removeAttribute('role');
+      row.removeAttribute('aria-label');
+    });
+
+    function measure() {
+      rows.forEach((row) => {
+        const track = row.querySelector<HTMLElement>('.cw-track');
+        if (!track) return;
+        const half = track.scrollWidth / 2;
+        track.style.setProperty('--cw-dur', `${Math.round(half / SPEED)}s`);
+      });
+    }
+    measure();
+    root.classList.add('is-flowing');
+    if (btn) btn.hidden = false;
+
+    let resizeTimer = 0;
+    window.addEventListener('resize', () => {
+      window.clearTimeout(resizeTimer);
+      resizeTimer = window.setTimeout(measure, 200);
+    });
+
+    btn?.addEventListener('click', () => {
+      const paused = root.classList.toggle('is-paused');
+      btn.setAttribute('aria-pressed', paused ? 'true' : 'false');
+      btn.setAttribute(
+        'aria-label',
+        (paused ? btn.dataset.labelPlay : btn.dataset.labelPause) || '',
+      );
+    });
+
+    new IntersectionObserver((entries) => {
+      root.classList.toggle(
+        'is-offscreen',
+        !entries.some((entry) => entry.isIntersecting),
+      );
+    }).observe(root);
+
+    reduce.addEventListener('change', () => {
+      if (reduce.matches) root.classList.add('is-paused');
+    });
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-community-wall]')
+    .forEach(setup);
+</script>
+
+<style>
+  .cw {
+    position: relative;
+  }
+  .cw-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  /* ── 靜態（沒有腳本、減少動態）：每一排可以橫向捲動 ── */
+  /* 靜態時第一則對齊上面的內容欄（--container-wide 置中，再加左右留白） */
+  .cw-row {
+    --cw-edge: max(
+      var(--home-gutter),
+      calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
+    );
+    overflow-x: auto;
+    scroll-padding-inline: var(--cw-edge);
+    overscroll-behavior-x: contain;
+    scrollbar-width: thin;
+    padding-block: 0.25rem;
+  }
+  .cw-row:focus-visible {
+    outline: 2px solid var(--home-accent);
+    outline-offset: 2px;
+  }
+  .cw-track {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: max-content;
+    margin: 0;
+    padding: 0;
+    padding-inline: var(--cw-edge);
+    list-style: none;
+  }
+  .cw-item {
+    flex: 0 0 auto;
+    max-width: min(
+      calc(var(--cw-em, 20) * 0.95rem + 2.3rem),
+      calc(100vw - 4rem)
+    );
+  }
+  .cw-bubble {
+    position: relative;
+    margin: 0;
+    border: 1px solid var(--home-rule);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    padding: 0.85rem 1.1rem;
+    font-family: var(--font-reading);
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.7;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    overflow-wrap: anywhere;
+  }
+  /* 對話泡泡的小尾巴，指向底下的名字 */
+  .cw-bubble::after {
+    content: '';
+    position: absolute;
+    inset-block-end: -6px;
+    inset-inline-start: 1.4rem;
+    width: 10px;
+    height: 10px;
+    border-block-end: 1px solid var(--home-rule);
+    border-inline-end: 1px solid var(--home-rule);
+    background: var(--color-surface);
+    transform: rotate(45deg);
+  }
+  .cw-name {
+    margin: 0.65rem 0 0;
+    padding-inline-start: 1.1rem;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 流動 ── */
+  .cw.is-flowing .cw-row {
+    overflow: hidden;
+    /* 兩端淡出（遮罩只用透明度，不是底色） */
+    mask-image: linear-gradient(
+      to right,
+      transparent,
+      black 5%,
+      black 95%,
+      transparent
+    );
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent,
+      black 5%,
+      black 95%,
+      transparent
+    );
+  }
+  .cw.is-flowing .cw-track {
+    /* 尾端補一格間距：整條剛好是兩份，-50% 就是一份的距離 */
+    padding-inline: 0 1rem;
+    animation: marquee-left var(--cw-dur, 300s) linear infinite;
+    will-change: transform;
+  }
+  .cw.is-flowing .cw-row[data-dir='right'] .cw-track {
+    animation-name: marquee-right;
+  }
+  .cw.is-flowing:is(.is-paused, .is-offscreen) .cw-track,
+  .cw.is-flowing .cw-rows:hover .cw-track,
+  .cw.is-flowing:has(.cw-rows :focus-visible) .cw-track {
+    animation-play-state: paused;
+  }
+
+  /* ── 暫停／播放：跟引語時間軸同一款安靜的小圓鈕 ── */
+  /* 放在「來自社群的聲音」那一行的尾端（標題在元件外，跟它對齊） */
+  .cw-play {
+    position: absolute;
+    inset-block-start: calc(-1 * (var(--home-gap-sm) + 1.8rem));
+    inset-inline-end: calc(
+      max(
+          var(--home-gutter),
+          calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
+        ) -
+        11px
+    );
+    display: inline-grid;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 50%;
+    background: none;
+    padding: 0;
+    color: var(--color-ink-soft);
+    cursor: pointer;
+  }
+  .cw-play[hidden] {
+    display: none;
+  }
+  .cw-play svg {
+    width: 22px;
+    height: 22px;
+    border: 1.5px solid var(--home-rule);
+    border-radius: 50%;
+    padding: 4px;
+    fill: currentColor;
+    box-sizing: border-box;
+  }
+  .cw-play:hover {
+    color: var(--color-ink);
+  }
+  .cw-glyph-play {
+    display: none;
+  }
+  .cw.is-paused .cw-glyph-pause {
+    display: none;
+  }
+  .cw.is-paused .cw-glyph-play {
+    display: inline;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .cw-track {
+      animation: none !important;
+    }
+  }
+  @media (max-width: 640px) {
+    .cw-rows {
+      gap: 0.85rem;
+    }
+    .cw-bubble {
+      font-size: 0.88rem;
+      padding: 0.75rem 0.95rem;
+    }
+  }
+</style>

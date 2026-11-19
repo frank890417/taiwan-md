@@ -1,0 +1,135 @@
+/**
+ * home-halls.css — 四展廳策展散文的樣式：散文、主題藥丸、精選文章卡。
+ * 首頁（大廳的入口卡）與展廳頁共用。
+ *
+ * 2026-11-19 首頁第二期：從 home.template.astro 的 <style> 逐條搬過來（原本用
+ * :global() 寫在樣板裡，因為中文散文在樣板、英文散文在子元件，兩邊要共用）。
+ * 散文、藥丸、精選卡的規則沒有改。原本首頁上「壹 — 這座島長什麼樣」那種兩側帶
+ * 線的展廳標籤與展廳之間的橋段，版面已經換成入口卡與展廳頁的走廊，那幾條規則
+ * 跟著拿掉了。深色模式的對應在 dark-polish.css（選擇器掛在 .home-page 底下，
+ * 展廳頁的最外層也帶 .home-page）。
+ */
+
+/* Hall prose (same as original explore-prose) */
+.hall-body {
+  font-family:
+    'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  line-height: 2.2;
+}
+.hall-body p {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+.hall-body a {
+  color: #1f2937;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-weight: 700;
+}
+.hall-body a.topic-pill {
+  display: inline-block;
+  background: rgba(45, 80, 22, 0.08);
+  border: 1.5px solid rgba(45, 80, 22, 0.2);
+  border-radius: 6px;
+  padding: 0.15rem 0.6rem;
+  font-weight: 700;
+  color: #2d5016;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+.hall-body a.topic-pill:hover {
+  background: rgba(45, 80, 22, 0.15);
+  border-color: rgba(45, 80, 22, 0.4);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(45, 80, 22, 0.15);
+}
+.hall-body a:hover {
+  color: #2d5016;
+}
+
+/* 段落裡的主題藥丸：看起來的大小不變，可以點的範圍上下各多出一點（44px） */
+.hall-body a.topic-pill {
+  position: relative;
+}
+
+.hall-body a.topic-pill::after {
+  content: '';
+  position: absolute;
+  inset-block: -0.4rem;
+  inset-inline: 0;
+}
+
+/* Pick cards (exhibition specimens — 延伸閱讀 style) */
+.hall-picks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin: -0.25rem 0 2.5rem 0;
+  padding-inline-start: 0.25rem;
+}
+.pick-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.55rem 0.85rem;
+  background: #fafdf7;
+  border: 1px solid rgba(45, 80, 22, 0.12);
+  border-inline-start: 3px solid rgba(45, 80, 22, 0.35);
+  /* Flat side stays glued to the rail in both directions. */
+  border-start-start-radius: 0;
+  border-start-end-radius: 6px;
+  border-end-end-radius: 6px;
+  border-end-start-radius: 0;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+.pick-card:hover {
+  background: rgba(45, 80, 22, 0.06);
+  border-color: rgba(45, 80, 22, 0.25);
+  border-inline-start-color: rgba(45, 80, 22, 0.6);
+  transform: translateX(2px);
+  box-shadow: 0 1px 4px rgba(45, 80, 22, 0.08);
+}
+/* translateX() has no logical form — in RTL the hover nudge must lean away
+   from the rail, not into it. */
+[dir='rtl'] .pick-card:hover {
+  transform: translateX(-2px);
+}
+.pick-head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pick-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #2d5016;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.pick-fn {
+  font-size: 0.72rem;
+  color: #6b7280;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pick-desc {
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: #4b5563;
+  line-height: 1.5;
+  font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+}
+
+@media (max-width: 480px) {
+  .hall-body p {
+    font-size: 1rem;
+  }
+  .pick-card {
+    width: 100%;
+  }
+}

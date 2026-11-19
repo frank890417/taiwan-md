@@ -18,8 +18,9 @@ interface Props {
   lang?: Lang;
   title: string;
   subtitle: string;
-  shortLabel: string;
-  moreLabel: string;
+  /** 2026-11-19 起不顯示（五篇預設全部展開）；首頁樣板仍會傳，留著不報錯 */
+  shortLabel?: string;
+  moreLabel?: string;
   steps: ReadingPathStep[];
   footerItems: ReadingPathFooterItem[];
   continueHref: string;
@@ -30,8 +31,6 @@ const {
   lang = 'zh-TW',
   title,
   subtitle,
-  shortLabel,
-  moreLabel,
   steps,
   footerItems,
   continueHref,
@@ -64,6 +63,14 @@ const isEn = lang === 'en';
 
   2026-11-19 首頁第一期：多一個 `after` slot。首頁把骰子（RandomDiscovery）放進來，
   跟閱讀路徑併成同一區「不知道從哪開始？」。沒有傳 slot 的地方輸出不變。
+
+  2026-11-19 哲宇回饋：「展開完整路徑，這個不要藏起來」。五篇預設全部顯示，
+  拿掉 <details> 收合與「短程閱讀」「展開完整路徑」兩行標籤（字串鍵還在
+  src/i18n/reading-path.ts，沒有刪）。底部整理成一致的置中結構：統計一行小字，
+  有 `after` slot 時兩個行動（骰子、繼續探索）排在骰子元件裡同一排，這裡就不另外
+  輸出綠色漸層的繼續按鈕；沒有 slot 時照舊輸出繼續連結，但樣式改成 token 色的細框。
+  底部的顏色都換成 token（--color-ink、--color-ink-soft、--home-rule），深色模式不靠
+  dark-polish.css 的色碼抓法。上半的綠色場景底與步驟卡沒有動。
 */
 }
 <section
@@ -92,37 +99,16 @@ const isEn = lang === 'en';
   <div
     class="relative z-[2] [--step-marker-column:4.5rem] [--step-content-column:28rem] [--step-time-column:6rem] [--step-column-gap:1.5rem] [--step-layout-width:calc(var(--step-marker-column)+var(--step-content-column)+var(--step-time-column)+(var(--step-column-gap)*2))] before:absolute before:left-[calc(50%-(var(--step-layout-width)/2)+(var(--step-marker-column)/2))] before:top-16 before:bottom-16 before:z-[1] before:w-[3px] before:rounded-[2px] before:bg-[image:var(--scene-nature-step-line)] before:content-[''] max-[768px]:before:hidden"
   >
-    <p class="relative z-[2] mb-4 text-center font-semibold text-[#166534]">
-      {shortLabel}
-    </p>
-    {
-      steps
-        .slice(0, 2)
-        .map((step, index) => <ReadingPathStep step={step} index={index} />)
-    }
-    {
-      steps.length > 2 && (
-        <details class="relative z-[2]">
-          <summary class="mx-auto my-6 w-fit cursor-pointer rounded-full border border-current px-6 py-3 font-semibold text-[#166534]">
-            {moreLabel}
-          </summary>
-          {steps.slice(2).map((step, index) => (
-            <ReadingPathStep step={step} index={index + 2} />
-          ))}
-        </details>
-      )
-    }
+    {steps.map((step, index) => <ReadingPathStep step={step} index={index} />)}
   </div>
 
-  <div
-    class="relative z-[2] mt-12 border-t border-[rgba(34,197,94,0.2)] pt-8 text-center"
-  >
-    <p class="mb-6 text-[1.1rem] font-medium leading-relaxed text-[#166534]">
+  <div class="rp-foot">
+    <p class="rp-stats">
       {
         footerItems.map((item, index) => (
-          <span>
+          <span class="rp-stat">
             {index > 0 && (
-              <span class="text-[#16a34a]" aria-hidden="true">
+              <span class="rp-sep" aria-hidden="true">
                 {' '}
                 |{' '}
               </span>
@@ -132,20 +118,67 @@ const isEn = lang === 'en';
         ))
       }
     </p>
-    <a
-      href={continueHref}
-      data-ga-section="reading_path"
-      data-ga-label="continue"
-      class="inline-block rounded-full bg-[image:var(--cta-nature)] px-8 py-4 text-[1.1rem] font-bold !text-white no-underline shadow-[0_4px_12px_rgba(34,197,94,0.25)] transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_8px_20px_rgba(34,197,94,0.35)]"
-    >
-      {continueLabel}
-    </a>
-  </div>
-  {
-    Astro.slots.has('after') && (
-      <div class="relative z-[2] mt-10 border-t border-[rgba(34,197,94,0.2)] pt-8">
+    {
+      Astro.slots.has('after') ? (
         <slot name="after" />
-      </div>
-    )
-  }
+      ) : (
+        <a
+          href={continueHref}
+          data-ga-section="reading_path"
+          data-ga-label="continue"
+          class="rp-continue-btn"
+        >
+          {continueLabel}
+        </a>
+      )
+    }
+  </div>
 </section>
+
+<style>
+  /* 底部：整區置中，跟上面的步驟卡同一條中線 */
+  .rp-foot {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-5);
+    margin-block-start: var(--space-6);
+    border-block-start: 1px solid var(--home-rule);
+    padding-block-start: var(--space-6);
+    text-align: center;
+  }
+  .rp-foot > :global(div) {
+    align-self: stretch;
+  }
+  .rp-stats {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.88rem;
+    font-weight: 500;
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+  .rp-stats strong {
+    font-weight: 600;
+    color: var(--color-ink-soft);
+  }
+  .rp-sep {
+    color: var(--home-rule-strong);
+  }
+  .rp-continue-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    min-height: 48px;
+    border: 1px solid var(--home-rule-strong);
+    border-radius: var(--radius-chip);
+    padding: 0.7rem 1.5rem;
+    font-family: var(--font-interface);
+    font-weight: 700;
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+</style>
