@@ -38,11 +38,13 @@ sporeLinks:
     date: '2026-07-26'
     url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-11-02T08:32:02.375607+00:00'
+translatedAt: '2026-11-19T19:04:03.612629+00:00'
 ---
 
 # टंगस्टन: ताइवान के पास टंगस्टन की खदानें नहीं हैं, फिर भी वह ऐसा पाउडर बनाता है जिसकी पूरी दुनिया को ज़रूरत है; इसकी स्थिति कल्पना से कहीं अधिक नाजुक है
@@ -206,11 +208,12 @@ _शुद्ध टंगस्टन धातु और व्हाइट �
 
 ## आगे पढ़ें
 
-- [सेमीकंडक्टर उद्योग](/hi/technology/taiwan-semiconductor-industry) — चिप के भीतर टंगस्टन का स्थान, जो 50 वर्षों की सामग्री क्रांति की इस लंबी धारा का एक छोटा सा हिस्सा है
-- [ताइवान की कंपनियां: TSMC](/hi/economy/tsmc) — पिंटोंग (Pingtung) में रिफाइन किए गए सोडियम टंगस्टेट का अंतिम गंतव्य कौन है
-- [ताइवान का विदेशी व्यापार और वैश्विक आपूर्ति श्रृंखला](/hi/economy/taiwan-foreign-trade-and-global-supply-chain) — दूसरों की आपूर्ति श्रृंखलाओं में एक नोड और कमी (gap) दोनों होने की ताइवान की दीर्घकालिक स्थिति
-- [ताइवान की बिजली और सेमीकंडक्टर](/hi/technology/taiwan-electricity-and-semiconductors) — द्वीप पर एक अन्य संसाधन जो अपर्याप्त है, फिर भी "राष्ट्र रक्षक पर्वत" (National Guard Mountain) को सहारा देता है
-- [ताइवान का रोबोटिक्स उद्योग](/hi/technology/taiwan-robotics-industry) — दादौशान (Dadu Mountain) सटीक मशीनरी क्लस्टर का अगला पड़ाव
+- [आपूर्ति श्रृंखला मानचित्र](/industry/supply-chain-map/) — सेमीकंडक्टर, AI सर्वर और टंगस्टन की तीन श्रृंखलाओं का विश्लेषण: ताइवान में कौन सी कंपनियाँ हैं और किस चरण के लिए विदेशी मदद की आवश्यकता है
+- [सेमीकंडक्टर उद्योग](/hi/technology/taiwan-semiconductor-industry) — चिप्स में टंगस्टन का स्थान, जो 50 वर्षों की सामग्री क्रांति की इस लंबी धारा का एक छोटा सा हिस्सा है
+- [ताइवान की कंपनियाँ: TSMC](/hi/economy/tsmc) — पिंटोंग (Pingtung) में रिफाइन किया गया सोडियम टंगस्टेट अंततः किसके पास जाता है
+- [ताइवान का विदेशी व्यापार और वैश्विक आपूर्ति श्रृंखला](/hi/economy/taiwan-foreign-trade-and-global-supply-chain) — दूसरों की आपूर्ति श्रृंखलाओं में ताइवान की दीर्घकालिक स्थिति: एक नोड और एक कमी (gap) दोनों के रूप में
+- [ताइवान की बिजली और सेमीकंडक्टर](/hi/technology/taiwan-electricity-and-semiconductors) — द्वीप पर एक अन्य संसाधन जो अपर्याप्त है, फिर भी 'देश रक्षक पर्वत' (National Silicon Shield) को सहारा देता है
+- [ताइवान का रोबोटिक्स उद्योग](/hi/technology/taiwan-robotics-industry) — दादुशान (Dadu Mountain) सटीक मशीनरी क्लस्टर का अगला पड़ाव
 
 ## चित्र स्रोत
 
