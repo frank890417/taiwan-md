@@ -166,8 +166,14 @@ function lineEm(text: string): number {
   }
 
   /* ── 靜態（沒有腳本、減少動態）：每一排可以橫向捲動 ── */
+  /* 靜態時第一則對齊上面的內容欄（--container-wide 置中，再加左右留白） */
   .cw-row {
+    --cw-edge: max(
+      var(--home-gutter),
+      calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
+    );
     overflow-x: auto;
+    scroll-padding-inline: var(--cw-edge);
     overscroll-behavior-x: contain;
     scrollbar-width: thin;
     padding-block: 0.25rem;
@@ -183,7 +189,7 @@ function lineEm(text: string): number {
     width: max-content;
     margin: 0;
     padding: 0;
-    padding-inline: var(--home-gutter);
+    padding-inline: var(--cw-edge);
     list-style: none;
   }
   .cw-item {
@@ -269,7 +275,13 @@ function lineEm(text: string): number {
   .cw-play {
     position: absolute;
     inset-block-start: calc(-1 * (var(--home-gap-sm) + 1.8rem));
-    inset-inline-end: calc(var(--home-gutter) - 11px);
+    inset-inline-end: calc(
+      max(
+          var(--home-gutter),
+          calc((100% - var(--container-wide)) / 2 + var(--home-gutter))
+        ) -
+        11px
+    );
     display: inline-grid;
     place-items: center;
     width: 44px;

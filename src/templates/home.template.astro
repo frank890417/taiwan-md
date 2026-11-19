@@ -144,7 +144,7 @@ const readingPathFooterItems = [
   )}
   readerSettings
 >
-  <div class="home-page">
+  <div class="home-page home-page--wide">
     <HomeDefs />
 
     <div data-ga-view="hero"><HeroSection /></div>
@@ -270,6 +270,15 @@ const readingPathFooterItems = [
      （它在首頁指向 README，文章頁才是「看這篇的原始檔」）。 */
   :global(body.page-home .floating-md) {
     display: none;
+  }
+
+  /* 2026-11-19 哲宇回饋「container 寬度都可以再寬一點，現在很侷限於中間」：
+     首頁的展示型區塊（直接能用的、13 大主題、四展廳、人與留言牆、最近、參與）
+     共用的 .home-wrap 改用 tokens 裡最寬的 --container-wide。只限首頁：
+     展廳頁、總覽頁與 /voices/ 也用 .home-wrap，維持原本的寬度。
+     純閱讀的文字（引語、導語、繁中宣言）各自有行長上限，不跟著變寬。 */
+  :global(.home-page--wide .home-wrap) {
+    max-width: var(--container-wide);
   }
 
   /* 大廳底下那一行「看四個展廳的總覽」 */
