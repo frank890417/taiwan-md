@@ -27,11 +27,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T12:31:14.483422+00:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-19T04:32:20.967150+00:00'
 ---
 
 # Taiwan’s Diplomatic Allies and International Diplomacy: 12 Allies, 113 Overseas Offices, Visa-Free Access to 177 Countries
@@ -216,16 +218,18 @@ Two recent evolutions:
 
 **The fact that the United States protects Taiwan’s diplomatic allies** is itself a sign that a country without diplomatic relations is deeply involved in Taiwan’s diplomatic affairs. Traditionally, the affairs of diplomatic allies should be handled by the two sides that have diplomatic relations.
 
-## A Passport That Can Go to 177 Countries: Another Measure of Recognition
+## Passport Access to 177 Countries: Another Measure of Recognition
 
-According to official statistics from Taiwan’s Ministry of Foreign Affairs on January 30, 2026, the Republic of China passport enjoys visa-free entry, visa on arrival, e-visa, and other conveniences for entry into **177 countries and territories** worldwide[^37].
+Ministry of Foreign Affairs official statistics from January 30, 2026: The Republic of China (ROC) passport enjoys visa-free, visa-on-arrival, e-visa and other conveniences, allowing entry to **177 countries and territories** worldwide[^37].
 
-The Henley Passport Index ranked Taiwan’s passport around 33rd in the world in 2026, close to Japan and South Korea.
+The 2026 Henley Passport Index ranks the Taiwan passport around 33rd globally, similar to Japan and South Korea.
 
-The vast majority of these 177 countries do not have diplomatic relations with Taiwan. **What allows the passport to travel is not diplomatic recognition, but bilateral trust, economic links, low crime rates, and a low record of illegal migration.** The ratio between the number of diplomatic allies and the number of countries accessible by passport is 12:177, or about 1:15.
+The vast majority of these 177 countries and territories do not have diplomatic relations with Taiwan. **What enables passport access is not diplomatic ties, but bilateral trust, economic links, low crime rates, and low illegal immigration records.** The ratio of diplomatic allies to passport-accessible countries is 12:177 — approximately 1:15.
 
-> **⚠️ A paradox**
-> The length of the list of diplomatic allies is inversely related to citizens’ actual international mobility. An increase in diplomatic allies usually happens because aid negotiations persuade small countries to establish relations; an increase in countries a passport can enter comes from national image, security records, and visa reciprocity. The latter is harder, but also more reliable.
+This figure is easily read as "passport travels globally unimpeded," so two things need clarification. First, **177 does not mean all visa-free**: the Bureau of Consular Affairs combines three categories of convenience — visa-free, visa-on-arrival, and e-visa — into a single list; visa-on-arrival and e-visa still require procedures and can still be denied[^37]. Second, countries and territories outside the list are those requiring advance visa applications, and this list itself changes — this article cites the January 30, 2026 version, and the Bureau of Consular Affairs page has since been updated on October 22, 2026[^37]. Travelers should rely on the destination country's latest announcements, not this article.
+
+> **⚠️ A Paradox**
+> The length of the diplomatic allies list and citizens' actual international mobility are inversely related. Increases in diplomatic allies mostly come from small countries agreeing to establish diplomatic relations after aid negotiations; increases in passport-accessible countries come from national image, security records, and visa reciprocity. The latter is harder than the former, but also more reliable.
 
 ## The Silicon Shield: 90%, 30%, and a Double Edge
 
@@ -266,29 +270,29 @@ As long as Taiwan maintains 12 diplomatic allies, that discourse cannot stand. S
 
 ```
 12             113            177
-Diplomatic       Overseas       Countries
-Allies           Missions       Accessible via Passport
+Diplomatic     Overseas       Visa-Free
+Allies         Missions       Access
 ```
 
-12 countries recognize the government of the Republic of China in Taiwan as "the legitimate government of China."
-113 missions around the world represent Taiwan and handle practical affairs.
-177 countries do not recognize the ROC, but they let Taiwanese citizens walk right in.
+12 countries recognize Taiwan's ROC government as "the legitimate government of China"[^16].
+113 missions around the world represent Taiwan handling practical affairs[^34].
+177 countries and territories do not recognize the ROC, but let Taiwanese citizens enter visa-free, visa-on-arrival, or via e-visa[^37].
 
-The European Parliament passed Resolution 2758 with 432 votes in favor and 275 against. When Tsai Ing-wen left office in May 2024, there were 12 diplomatic allies; after stepping down, she was invited to visit the European Parliament in October. Bonnie Glaser once said there was a moment when reliance on TSMC [was absolute]. Mark Lambert has stated that Resolution 2758 does not mention Taiwan.
+The European Parliament passed an anti-2758 resolution with 432 votes in favor[^3]. When Tsai Ing-wen left office in May 2024, there were 12 diplomatic allies; in October after stepping down she was invited to visit the European Parliament. Bonnie Glaser has spoken of a moment of TSMC dependency. Mark Lambert has said Resolution 2758 didn't write Taiwan into it.
 
-These things are happening simultaneously. There is no single line item called "Taiwan's international status."
+These things are happening simultaneously. There is no single thing called "Taiwan's international status."
 
-If such a thing existed, it would not be 12, nor 113, nor 177, nor 90% or 30%.
+If there were, that thing would not be 12, nor 113, nor 177, nor 90% or 30%.
 
 It is the distance between these numbers.
 
 **Further Reading**:
 
-- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — When only 12 diplomatic allies remain, military self-defense is another pillar for maintaining "not zero"
-- [The Taiwan Strait Crisis and Cross-Strait Relations Development](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How three crises shaped Taiwan's diplomatic isolation and security anxiety
-- [TSMC](/en/economy/tsmc) — The material basis of the silicon shield and its structural vulnerabilities
-- [Zhuo Rongtai](/en/people/cho-jung-tai) — The 2026 US-Taiwan tariff trajectory from 32% $\rightarrow$ 20% $\rightarrow$ 15% + the cabinet coordinator for Lai Ching-te's visit to Eswatini
-- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — The complete 58-year story of the only remaining piece of Africa among the 12 diplomatic allies, from establishing ties on the same day in 1968 to Lai Ching-te's visit in 2026
+- [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — When only 12 diplomatic allies remain, military self-defense is the other pillar sustaining "not zero"
+- [Cross-Strait Crises and the Evolution of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How three crises shaped Taiwan's diplomatic isolation and security anxiety
+- [TSMC](/en/economy/tsmc) — The material basis of the silicon shield and its structural fragility
+- [Cho Jung-tai](/en/people/cho-jung-tai) — 2026 U.S.–Taiwan tariff trajectory 32→20→15% + Cabinet coordinator for Lai Ching-te's Eswatini visit
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — The sole African nation among the 12 diplomatic allies, 58 years from same-day recognition in 1968 to President Lai's 2026 visit
 
 ## References
 

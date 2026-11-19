@@ -1,14 +1,14 @@
 ---
-title: 'Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”'
-description: 'In the days when offices still relied on MSN to communicate, office workers who did not dare speak up to their bosses changed their profile pictures to a naked bald figure with one curled hair on its head, letting it shout “I want to get off work” for them. Hu Chia-wei, who drew it, went from a design assistant earning NT$9,000 a month to, by accident, the creator of Taiwan’s first blog to surpass 100 million views and the founding figure of illustrated online writing. The bald figure stays forever innocent and ageless, but the person who drew it grows up; so she let the character exit together with her and “become a historical figure.”'
+title: 'Wan Wan: The Bald Man Drawn by Hu Jia-wei for the MSN Generation, and the Decision to Let Him Become a "Historical Figure"'
+description: 'Wan Wan, born Hu Jia-wei, is a pioneer of internet graphic creation in Taiwan. In the early 2000s, her drawings of the "Bald Man" were adopted as MSN avatars by office workers to voice their desire to "get off work." In 2007, her blog became the first in Taiwan to surpass 100 million page views, later expanding into LINE stickers and WEBTOON. After becoming a mother, her creative focus shifted toward parenting and daily life, leading to her decision to let the eternally ageless Bald Man retire alongside her and "become a historical figure."'
 date: 2026-06-29
 category: 'People'
 tags:
   [
-    'Wanwan',
-    'Hu Chia-wei',
+    'Wan Wan',
+    'Hu Jia-wei',
     'Illustration',
-    'Illustrated Online Writing',
+    'Graphic Creation',
     'MSN Era',
     'Internet Culture',
   ]
@@ -19,26 +19,36 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T02:36:03.741349+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-19T04:57:25.679402+00:00'
 ---
 
-# Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”
+# Wanwan: The Bald Figure Hu Chia-wei Drew for the MSN Generation, and the Decision to Let It "Become a Historical Figure"
 
-In the early 2000s, an office worker in Taipei opened his computer and logged into MSN Messenger. He changed his profile picture to a little figure: naked, with a round bald head, only one curled cowlick on top, a half-dead expression on its face, and three Chinese characters beside it: “I want to get off work.”
+In the early 2000s, an office worker in Taipei opened his computer and logged into MSN Messenger. He changed his avatar to a little figure: naked, with a round bald head and a single curly cowlick on top, wearing a half-dead expression, accompanied by three words: "I want to get off work."
 
-He did not dare actually say that to his boss. But that bald figure said it for him.
+He didn't dare say those words to his boss. But that bald figure said them for him.
 
-It was an era when mobile phones could still only make calls and send text messages. There were no LINE stickers, no Stories; every emotion in the office was compressed into an MSN window that could not be closed because work was not over yet. And that bald figure, which everyone later called “Wanwan,” sat inside that little box in the window and shouted out, on behalf of offices across Taiwan, the feelings of being busy, sleepy, sad, tired, annoyed, and idle.[^1]
+That was an era when mobile phones could only make calls and send text messages. There were no LINE stickers and no social media stories; all the emotions in the office were compressed into an MSN window that hadn't finished its workday and couldn't be closed. And that bald figure (later known by everyone as "Wanwan") sat within that small window, shouting out the busyness, sleepiness, sorrow, exhaustion, annoyance, and idleness of offices across all of Taiwan[^1].
 
-![Wanwan at the UDN booth at the 2008 Taipei International Book Exhibition](/article-images/people/wanwan-2008-book-fair.webp)
-_Wanwan at the UDN booth at the 2008 Taipei International Book Exhibition. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![2008 Taipei International Book Exhibition, Wanwan at the UDN booth](/article-images/people/wanwan-2008-book-fair.webp)
+_Wanwan at the United Daily News (UDN) booth during the 2008 Taipei International Book Exhibition. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **30-second overview:** Wanwan, whose real name is Hu Chia-wei, is the founding figure of Taiwan’s illustrated online writing. She began as a design assistant earning NT$9,000 a month, “rolling around on construction sites every day.” Out of boredom, she drew a few small images on MSN that matched her mood, and unexpectedly became popular across Taiwan. In 2007, her personal blog became Taiwan’s first blog to surpass 100 million views; she proved that “drawing could put food on the table,” and an entire generation of illustrated-content creators followed after her. What is most moving about her is the choice she made for the character she created: the bald figure remains forever innocent and ageless, but the person who draws it grows up and grows tired; so Hu Chia-wei said she would let the character exit together with her and “become a historical figure.”
+> **30-Second Overview:** Wanwan, whose real name is Hu Chia-wei, is a pioneer of online graphic and text creation in Taiwan. Starting as a design assistant earning NT$9,000 a month and "rolling around in construction sites every day," she unexpectedly became famous across Taiwan after drawing a few small sketches on MSN to match her moods out of boredom. Her personal blog became the first in Taiwan to surpass 100 million page views in 2007; she proved that "drawing can put food on the table," paving the way for an entire generation of graphic creators. The most moving aspect of her story lies in her choice regarding her characters: the bald figure remains eternally innocent and ageless, even as its creator grows up and gets tired; thus, Hu Chia-wei decided she would let the character exit the stage alongside her, "becoming a historical figure."
 
 ## One Cowlick, One Naked Little Figure
 

@@ -2,9 +2,7 @@
 title: 'Digital Wasteland: How an Online Art-Criticism Platform with No Business Model Survived for 12 Years'
 description: "In November 2011, Cheng Wen-chi launched an online writing project at an old-media institution in Taipei called ET@T. It had no print edition, no advertising, and no subscription fee. Twelve years later, it had accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 volumes of the Nusantara Archive. Among Chinese-language art-criticism platforms of the same period with the same three conditions, no print-media parent body, no physical space, and driven by an individual editor-in-chief, there is no comparable case that survived across the same period. It endured through the precise layering of three forms of quiet infrastructure: an institutional parent body absorbing basic costs, public-sector projects filling issue-based content, and the editor's own 12 years of labor covering the remaining gap."
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     'Digital Wasteland',
@@ -18,18 +16,23 @@ tags:
     'ET@T',
     'Digital Art Foundation',
   ]
+subcategory: '藝評平台 / 媒體研究'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: 'Art/數位荒原.md'
-sourceCommitSha: 'a74c440b'
-sourceContentHash: 'sha256:f8ec8d5fb97942ca'
-sourceBodyHash: 'sha256:7bfa784449cb0cb6'
-translatedAt: '2026-06-16T17:03:25Z'
+researchReport: 'reports/research/2026-05/數位荒原.md'
 image: '/article-images/art/nml-trial-issue-hero-2011.webp'
 imageCredit: "數位荒原 No Man's Land 試刊號封面（2011-11）"
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Art/數位荒原.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:0b0677a39358cf6e'
+sourceBodyHash: 'sha256:34138e3612701ce3'
+translatedAt: '2026-11-19T04:04:33.996903+00:00'
 ---
 
 # Digital Wasteland: How an Online Art-Criticism Platform with No Business Model Survived for 12 Years
@@ -96,38 +99,38 @@ The sentence is somewhat circuitous. But it is a sentence that could only be spo
 
 In 2014, NML did another thing: together with the Philippine curator Dayang Yraola, it launched "Project Glocal: Asian City Streaming," inviting three Southeast Asian artists from the Philippines, Malaysia, and Indonesia to Taipei for a one-month residency. In June, it held a forum in Taipei, where Cheng Wen-chi, the Philippine artist Mannet Villariba, and Dayang Yraola appeared in conversation. The organizers were listed as NML + _Artitude Magazine_[^20]. At that time, NML had not yet launched the Nusantara Archive imprint, but the seeds of transnational residencies had already been planted.
 
-## From 49 to 5: A Curve of Contraction
+## From 49 to 5: A Shrinking Curve
 
-From the curve of NML's annual article output, one can see a very clear arc:
+The NML article annual output curve shows a clear arc:
 
 ```
 2011:  11  ████
-2012:  43  ███████████████      ← launch phase
+2012:  43  ███████████████      ← Launch phase
 2013:  39  ██████████████
 2014:  30  ███████████
 2015:  29  ██████████
 2016:  49  █████████████████    ← Project Glocal internationalization peak
-2017:  41  ██████████████       ← first year of the Nusantara Archive begins
+2017:  41  ██████████████       ← Nusantara Archive Year 1 launch
 2018:  29  ██████████
 2019:  28  ██████████
-2020:  31  ███████████          ← pandemic period begins second podcast production line
+2020:  31  ███████████          ← Pandemic-era launch of podcast second production line
 2021:  28  ██████████
 2022:  21  ████████             ← 14 articles merged into podcast
-2023:   5  ██                   ← major contraction
+2023:   5  ██                   ← Sharp contraction
 ```
 
 [^21]
 
-This curve says three things:
+This curve tells three things:
 
-**1. The two peaks correspond to two shifts in identity.** The 43 articles in 2012 were the burst in which NML expanded from trial issue into main publication. The 49 articles in 2016 were the maturation of NML's transnational streaming network after three years of Project Glocal accumulation. The 41 articles in 2017 were the discursive burst when the first year of the Nusantara Archive began. All three peaks correspond to the evolution of NML's own structure.
+**1. Two peaks correspond to two identity turning points.** The 43 articles in 2012 were the explosive phase when NML expanded from a trial issue into a main publication; the 49 articles in 2016 were the mature phase of NML's transnational streaming network after three years of Project Glocal accumulation; the 41 articles in 2017 were the discursive explosion when the Nusantara Archive launched its first year. All three peaks correspond to evolutions in NML's own structure.
 
-**2. The 31 articles in 2020 are inflated.** During the pandemic that year, NML launched a second production line, the Nanyang Radio podcast, and from 2020 onward NML accumulated 31 podcast episodes[^1]. Editorial focus began to move from articles to audio. The fall to 21 articles in 2022 corresponds exactly to the signal that podcasting had taken over.
+**2. The 31 articles in 2020 are inflated.** During the pandemic that year, NML launched the _Nanyang Radio_ podcast as a second production line (from 2020 onward NML accumulated 31 podcast episodes)[^1] — editorial focus began shifting from articles to audio. The drop to 21 articles in 2022 corresponds exactly to the signal of the podcast taking over.
 
-**3. The 5 articles in 2023 are signal, not noise.** That year, NML editor-in-chief Cheng Wen-chi shifted his work focus to the independent publication of the Nusantara Archive, which from 2017 to 2024 had cumulatively issued 10 imprint volumes containing more than 40 bilingual Chinese-English documents[^10]. At the same time, he developed a lecture series around Volume DAO, blockchain, and the "Global South"[^22]. In other words, the contraction of NML articles did not occur because no one was reading the platform, **but because the editor-in-chief's personal energy was diverted to the imprint and cross-platform lectures**.
+**3. The 5 articles in 2023 are a signal, not noise.** That year, NML editor-in-chief Cheng Wen-chi shifted her work focus to independent publishing of the _Nusantara Archive_ — from 2017 to 2024, a cumulative 10 imprint volumes containing over 40 bilingual Chinese-English essays were issued[^10]. Simultaneously, she launched a lecture series on Volume DAO + blockchain + the "Global South"[^22]. In other words, the contraction of NML articles is not because the platform lacks readers, **but because the editor-in-chief's personal energy was diverted to the imprint and cross-platform lectures**.
 
 > **📝 Curator's Note**
-> An 88% concentration of editing is a double-edged sword. One side is that over 12 years, it produced an extremely consistent discursive depth: the four frameworks of Nusantara, periphery, decolonization, and circum-Pacific functioned like stable base vectors. The other side is the ceiling of a single perspective: the voices of younger-generation women curators were relatively few, and Indigenous issues were basically absent. When a platform's editorial philosophy comes entirely from one person, its mature phase synchronizes with that person's maturation, but its phase of fatigue also synchronizes. As NML entered its 13th year, Cheng Wen-chi's personal energy shifted toward the imprint and new themes, and the article production line contracted with it. This is in fact a concrete instantiation of the structural fact that "a curatorial platform with an individual style synchronizes with that person's life cycle."
+> 88% editorial concentration is a double-edged sword. On one side, 12 years of accumulation produced an extremely consistent discursive depth — the four frameworks of archipelago, frontier, decolonization, and trans-Pacific are as stable as basis vectors. On the other side, there is the ceiling of a single perspective: younger-generation women curators' voices are scarce, and Indigenous issues are essentially absent. When a platform's editorial philosophy comes entirely from one person, its maturity period synchronizes with that person's maturity period, but its fatigue period also synchronizes. By year 13, Cheng Wen-chi's personal energy shifted to the imprint and new themes, and the article production line contracted accordingly — this is actually the concrete instantiation of the structural fact that "a personally styled curatorial platform synchronizes with that person's life cycle."
 
 ## What the Name "Digital Wasteland" Is Actually Saying
 
