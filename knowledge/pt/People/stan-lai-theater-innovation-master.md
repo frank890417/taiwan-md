@@ -17,11 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/賴聲川.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:171a521ab055d1cf'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:c47b590333d1a690'
 sourceBodyHash: 'sha256:eb36a190f4b7ada8'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-19T00:49:36.024965+00:00'
 ---
 
 # Stan Lai: Performance Workshop e Festival de Teatro de Wuzhen, ponte teatral entre os dois lados do estreito
@@ -100,19 +102,19 @@ Nos últimos anos, a criação de Lai foca-se mais na identidade cultural e na m
 
 ## Referências
 
-[^1]: [Stan Lai — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Biografia, nascimento a 25/10/1954, pai Lai Chia-chiu, PhD UC Berkeley 1983, cofundação do Festival de Teatro de Wuzhen em 2013. Ver também [Performance Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
+[^1]: [Stan Lai — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E8%81%B2%E5%B7%9D) — Biografia de Stan Lai, data de nascimento 25/10/1954, pai Lai Chia-chiu, PhD pela UC Berkeley em 1983, registro completo da cofundação do Wuzhen Theatre Festival em 2013. Veja também [Performance Workshop: Stan Lai](https://www.pwshop.com/about_us/%E8%B3%B4-%E8%81%B2-%E5%B7%9D-stan-lai/).
 
-[^2]: [Faculdade de Teatro da Universidade Nacional de Artes de Taipé](https://theatre.tnua.edu.tw/) — História da fundação e contexto do ensino de Lai.
+[^2]: [Faculdade de Artes Dramáticas da Universidade Nacional de Taipei Arts](https://theatre.tnua.edu.tw/) — Histórico de fundação da TNUA e informações sobre o histórico docente de Stan Lai.
 
-[^3]: [Site oficial do Performance Workshop](http://www.pw-theatre.com/) — História da companhia, fundação e cronologia de obras.
+[^3]: [Site Oficial do Performance Workshop](http://www.pw-theatre.com/) — História da companhia, processo de fundação e cronologia de obras.
 
-[^4]: [Apresentação de _Secret Love in Peach Blossom Land_ — Performance Workshop](http://www.pw-theatre.com/) — Ano de estreia, número de representações e estrutura do texto.
+[^4]: [Introdução à Peça "Secret Love in Peach Blossom Land" — Performance Workshop](http://www.pw-theatre.com/) — Ano da estreia, número de apresentações e explicação da estrutura do roteiro.
 
-[^5]: [Base de Dados de Artes Performativas de Taiwan / Prémios Golden Melody / Ministério da Cultura](https://pacsnet.org.tw/) — Desenvolvimento do teatro taiwanês nos anos 1990 e cronologia das obras de Lai.
+[^5]: [Golden Melody Awards/Ministério da Cultura — Taiwan Performing Arts Database](https://pacsnet.org.tw/) — Desenvolvimento do teatro em Taiwan na década de 1990 e cronologia das obras de Stan Lai.
 
-[^6]: [_The Village_ — Performance Workshop](http://www.pw-theatre.com/) — Contexto de produção, registo de apresentações nos dois lados do estreito.
+[^6]: ["Taiwan Village One" — Performance Workshop](http://www.pw-theatre.com/) — Contexto de produção e registros de apresentações entre os dois lados do Estreito.
 
-[^7]: [Dados do Prémio Nacional de Artes de Stan Lai — Fundação Nacional de Cultura e Artes](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Registo completo da atribuição do prémio. Ver também [Revista Taiwan Panorama: _A Dream Like a Dream_ — A vida teatral de Stan Lai](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66) reportagem sobre o 11.º prémio.
+[^7]: [Dados de Premiação do Prêmio Nacional de Artes de Stan Lai — Fundação Nacional para a Cultura e as Artes](https://www.ncafroc.org.tw/artsaward/winnerDetail@1227) — Informações completas sobre o recebimento do Prêmio Nacional de Artes por Stan Lai. Veja também o relatório da 11ª edição em [Revista Taiwan Guanghua: Como um Sonho de Sonhos — A Vida Teatral de Stan Lai](https://www.taiwan-panorama.com/Articles/Details?Guid=548c4da9-08ca-4411-a223-fb3de0247a66).
 
 ## Leitura complementar
 

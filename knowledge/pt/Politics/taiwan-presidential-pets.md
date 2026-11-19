@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-07-26T21:33:24+08:00'
+translatedAt: '2026-11-18T23:47:19.762322+00:00'
 ---
 
 > **Resumo em 30 segundos:** Os animais de estimação dos presidentes de Taiwan, além de serem membros da família na residência oficial, muitas vezes funcionam como um espelho da imagem política e dos valores sociais. Desde os cães de guarda imponentes da era de Chiang Kai-shek, passando pela matilha de golden retrievers de Lee Teng-hui, o cão taiwanês Yong-ge de Chen Shui-bian, até Ma Xiao-jiu de Ma Ying-jeou, o grupo de gatos e cães de Tsai Ing-wen e o cão vadio Luke de Lai Ching-te. Esta lista descreve como o «primeiro animal de estimação» evoluiu de um simples hobby pessoal para uma linguagem política que promove a proteção animal e demonstra uma temperatura humana mais acessível.
@@ -77,22 +79,22 @@ Além disso, a imagem de «boa vida de cão» dos animais de estimação preside
 
 ## Referências
 
-[^1]: [Chiang Kai-shek: 3 cães de estimação que protegiam o dono tinham espiritualidade; diário deixa nome, muito amado](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (Registro em vídeo do YouTube)
+[^1]: [Os 3 cães de Chiang Kai-shek que protegiam seu dono: diários registram sua espiritualidade e o grande afeto recebido](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (registro de vídeo no YouTube)
 
-[^2]: [Revisitar Lee Teng-hui: criava cães, gatos e até ovelhas; o palácio do Tio Ah-Hui parecia um zoológico alternativo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Weekly (Registra que Lee Teng-hui importou golden retrievers, gerou mais de trinta filhotes, e parte foi treinada como cães-guia)
+[^2]: [Relembrando Lee Teng-hui: criava cães, gatos e até ovelhas; a residência do Tio Ah-hui parecia um zoológico alternativo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (relata que Lee Teng-hui introduziu Golden Retrievers, que se reproduziram em mais de 30 exemplares, sendo alguns treinados como cães-guia)
 
-[^3]: [Destinos muito diferentes para cães estrelas da política; Tsai Xiangxiang, gato vadio, torna-se o primeiro animal de estimação do ex-presidente](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
+[^3]: [Destinos muito diferentes para cães de estrelas políticas: Xiangxiang, o gato de rua, tornou-se o primeiro animal de estimação da ex-presidente](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [Artigo da Wikipedia sobre Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Artigo da Wikipedia)
+[^4]: [Entrada da Wikipédia sobre Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipédia (entrada da Wikipédia)
 
-[^5]: [Caso de despesas especiais durante o mandato como prefeito de Taipé; Ma Ying-jeou recebe decisão de não acusação](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (Arquivado sem acusação pela Procuradoria do Distrito de Taipei em 20-03-2017; despesas especiais foram despenalizadas e o caso anterior já havia sido condenado inocente)
+[^5]: [Caso das verbas especiais durante o mandato do prefeito de Taipei: Ma Ying-jeou não foi indiciado](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (em 20-03-2017, o Gabinete do Distrito de Taipei decidiu pelo não indiciamento; as verbas especiais foram descriminalizadas e casos anteriores já haviam sido julgados inocentes com sentença definitiva)
 
-[^6]: [Mostra o primeiro animal de estimação; Tsai Ing-wen diz: quer mais brincar com Xiangxiang e A-tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — Formosa Television News (Registro em vídeo do YouTube)
+[^6]: [O primeiro animal de estimação de Tsai Ing-wen: quer mais é passar tempo com Xiangxiang e A-Cai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (registro de vídeo no YouTube)
 
-[^7]: [Presidente: adota cão de resgate reformado conforme a lei; não deve ser distorcido politicamente](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (Registra que Tsai Ing-wen adotou cães-guia reformados Bella, Bunny, Maru em 2016, e adotou o cão de resgate Lele após sua aposentadoria regulamentar)
+[^7]: [Presidente: solicitação de adoção de cães de busca e salvamento aposentados deve seguir a lei, sem distorções políticas](https://www.cna.com.tw/news/aipl/202104290024.aspx) — CNA (relata que Tsai Ing-wen adotou em 2016 os cães-guia aposentados Bella, Bunny e Maru, além do cão de busca e salvamento Lele, adotado conforme as normas após sua aposentadoria por idade)
 
-[^8]: [Novo curta animado de Lai Ching-te revela a história de adoção do cão vadio «Luke»](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
+[^8]: [Novo curta de animação de Lai Ching-te revela a história da adoção do cão de rua "Luke"](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [Cão de estimação Luke falece; Lai Ching-te: continuará a prestar atenção aos filhotes de pelo e vadios](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11-09-2023, Facebook de Lai Ching-te «agradece a companhia de Luke ao longo dos anos»)
+[^9]: [Falecimento do cão Luke; Lai Ching-te: continuarei atento ao bem-estar dos animais de estimação e dos cães de rua](https://www.cna.com.tw/news/aipl/202309110271.aspx) — CNA (11-09-2023, Facebook de Lai Ching-te: "Obrigado, Luke, pela companhia de todos estes anos")
 
-[^10]: [E se a armadilha para animais prendesse uma criança, Ma Xiao-jiu...?](https://news.tvbs.com.tw/life/131330) — TVBS (Ver o conteúdo da fonte original para informações complementares)
+[^10]: [E se uma armadilha para animais pegasse uma criança ou Ma Xiao-jiu...](https://news.tvbs.com.tw/life/131330) — TVBS (veja os detalhes nos dados suplementares do link original)

@@ -1,127 +1,130 @@
 ---
-title: 'Espécies Endémicas'
-description: 'A rica biodiversidade de espécies endémicas de Taiwan: produto conjunto da geografia insular, zonas climáticas verticais e evolução em isolamento prolongado, e um importante local de estudo para a biodiversidade global'
+title: 'Espécies Endêmicas'
+description: 'A rica biodiversidade de Taiwan: fruto da geografia insular, zonas climáticas verticais e isolamento evolutivo de longo prazo.'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'Nature'
 tags:
   [
     'Natureza',
-    'Espécies Endémicas',
+    'Espécies endêmicas',
     'Biodiversidade',
     'Urso-negro-de-Taiwan',
-    'Salmão-cerejeira-de-Taiwan',
+    'Salmão-de-Sakura',
   ]
 subcategory: '野生動物'
-readingTime: 9
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+created: 2026-03-17
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/特有種.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:b5dd2adc61c83c34'
-sourceBodyHash: 'sha256:85b65db93a33ed95'
-translatedAt: '2026-07-26T00:16:55+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:3237c25d374e880d'
+sourceBodyHash: 'sha256:ba13604d49b26524'
+translatedAt: '2026-11-19T05:58:11+08:00'
 ---
 
-# Espécies Endémicas
+# Espécies Endêmicas
 
-> **Visão geral em 30 segundos:** Taiwan, com apenas 36 000 km², alberga uma densidade extraordinária de espécies endémicas: 29 espécies de aves, 14 de mamíferos, mais de 35 de anfíbios, mais de 70 de peixes de água doce, cerca de 1 000 de plantas vasculares e mais de 56 de borboletas. O urso-negro-de-Taiwan, o salmão-cerejeira-de-Taiwan e o faisão-de-mikado são as espécies-emblema mais conhecidas. A compressão vertical de montanhas, vales e costas criou este laboratório evolutivo, enquanto a destruição de habitat e as espécies invasoras são as ameaças mais prementes.[^4]
+> **Resumo em 30 segundos:** Com uma área de apenas 36.000 km², Taiwan abriga uma alta densidade de espécies endêmicas: 29 espécies de aves, 14 de mamíferos, mais de 35 de anfíbios, mais de 70 de peixes de água doce, cerca de 1.000 de plantas vasculares e mais de 56 espécies de borboletas. O urso-negro-de-Taiwan, o salmão-de-sakura e o faisão-de-mikado são as espécies "estrelas" mais conhecidas. A compressão vertical entre montanhas, vales e costas criou este laboratório evolutivo, mas a destruição de habitats e as espécies invasoras representam as ameaças mais urgentes atualmente. [^4]
 
 ## Por que é importante
 
-As espécies endémicas de Taiwan são objeto fundamental para o estudo global da biodiversidade. Estas formas de vida únicas, resultantes de dezenas de milhares de anos de evolução, são irrecuperáveis uma vez extintas; a sua existência reflete também a integridade estrutural dos ecossistemas taiwaneses, onde cada espécie desempenha papéis ecológicos insubstituíveis nas cadeias alimentares e na manutenção de habitats.
+As espécies endêmicas de Taiwan são objetos cruciais para o estudo da biodiversidade global. Estas formas de vida únicas, resultantes de dezenas de milhares de anos de evolução, não podem ser recuperadas se forem extintas. A existência de espécies endêmicas também reflete a integridade estrutural do ecossistema de Taiwan, onde cada espécie desempenha um papel ecológico insubstituível nas cadeias alimentares e na manutenção dos habitats.
 
-## Panorama
+## Visão Geral
 
-Taiwan situa-se na orla da plataforma continental eurasiática; a sua complexa história geológica e diversidade de ambientes ecológicos geraram uma elevada densidade de endemismos. Do nível do mar aos 3 952 m do pico principal de Yushan (玉山), a variação vertical de altitude cria zonas climáticas tropical, subtropical, temperada e fria, proporcionando habitats a diferentes organismos. As espécies endémicas distribuem-se por mamíferos, aves, répteis, anfíbios, peixes, insetos e plantas, com taxas de endemismo significativamente distintas entre grupos: peixes de água doce apresentam taxas extremamente altas; mamíferos, apesar de menor riqueza absoluta, mostram proporção igualmente notável.[^4]
+Localizada na borda da plataforma continental Eurasiática, a complexa história geológica e os diversos ambientes ecológicos de Taiwan geraram uma alta densidade de endemismo. Da linha do mar ao pico principal do Monte Yushan, a 3.952 metros, a variação altitudinal vertical cria zonas climáticas tropicais, subtropicais, temperadas e frias, fornecendo habitats para diferentes organismos. O endemismo ocorre em diversos grupos, como mamíferos, aves, répteis, anfíbios, peixes, insetos e plantas, com proporções variando significativamente entre eles: a taxa de endemismo em peixes de água doce é extremamente alta, enquanto nos mamíferos, embora o número absoluto seja limitado devido ao menor tamanho da população total, a proporção também é considerável. [^4]
 
-## Factos-chave
+## Fatos Chave
 
-Por grupos taxonómicos principais: 14 espécies endémicas de mamíferos (urso-negro-de-Taiwan, macaco-de-Taiwan, etc.), 29 de aves (faisão-de-mikado, galo-das-montanhas-de-barriga-azul, pega-azul-de-Taiwan, etc.), mais de 35 de anfíbios (rã-arborícola-de-Mo, rã-arborícola-de-Taipé, etc.), mais de 70 de peixes de água doce (salmão-cerejeira-de-Taiwan, _Varicorhinus alticorpus_, etc.), cerca de 1 000 de plantas vasculares (taiwania, cipreste-vermelho, etc.), 56 de borboletas (papilio-de-cauda-larga, etc.). Muitas já figuram como ameaçadas ou criticamente ameaçadas, exigindo conservação urgente.[^1][^4]
+Listados por principais grupos: 14 espécies de mamíferos (urso-negro-de-Taiwan, macaco-prego-de-Taiwan, etc.), 29 espécies de aves (faisão-de-mikado, ave-azul-de-ventre, gaio-de-Taiwan, etc.), mais de 35 de anfíbios (rã-árvore-de-Mo, rã-árvore-de-Taipé, etc.), mais de 70 de peixes de água doce (salmão-de-sakura, peixe-de-barba-alta, etc.), cerca de 1.000 de plantas vasculares (cipreste-de-Taiwan, hinoki-vermelho, etc.) e 56 espécies de borboletas (borboleta-cauda-larga, etc.). Muitas espécies endêmicas já foram classificadas como ameaçadas ou criticamente em perigo, necessitando de conservação urgente. [^1][^4]
 
-## Análise aprofundada
+## Conteúdo Detalhado
 
-### Contexto da biogeografia insular
+### Contexto da Biogeografia Insular
 
-**História geológica** A ilha de Taiwan formou-se há cerca de 5 milhões de anos por orogenia. Após a ocupação japonesa (1895), levantamentos naturalistas sistemáticos iniciaram o registo das espécies taiwanesas; até 1906, endemismos da Cordilheira Central como o faisão-de-mikado foram sucessivamente descritos. **Pontes terrestres glaciares** ligaram e separaram Taiwan do continente múltiplas vezes, criando um ambiente evolutivo singular. **Isolamento pelo estreito** O isolamento geográfico pelo Estreito de Taiwan permitiu evolução independente, gerando diferenças face às espécies congéneres continentais.
+**História Geológica:** A ilha de Taiwan formou-se através de movimentos orogênicos há cerca de 5 milhões de anos. Após o período de domínio japonês (1895), investigações naturalistas começaram a registrar sistematicamente as espécies de Taiwan; até 1906, espécies endêmicas da Cordilheira Central, como o faisão-de-mikado, foram nomeadas sucessivamente. **Pontes terrestres durante eras glaciais** conectaram e separaram a ilha do continente várias vezes, criando ambientes evolutivos únicos. **Isolamento pelo estreito:** O isolamento geográfico do estreito de Taiwan permitiu que as espécies evoluíssem de forma independente, desenvolvendo diferenças em relação às suas espécies parentais no continente.
 
-**Diversidade ecológica** Da floresta costeira tropical à estepe alpina, curtas distâncias abrangem múltiplos ecossistemas, oferecendo nichos evolutivos diversos. **Mudanças climáticas** Variações climáticas históricas forçaram migrações verticais e adaptações divergentes.
+**Diversidade Ecológica:** Desde florestas costeiras tropicais até tundras alpinas, a ilha abrange diversos ecossistemas em curtas distâncias, oferecendo nichos evolutivos para diferentes espécies. **Mudanças climáticas:** As variações climáticas históricas impulsionaram migrações verticais e diferenciação adaptativa das espécies.
 
-### Mamíferos endémicos
+### Espécies Endêmicas de Mamíferos
 
-O **urso-negro-de-Taiwan** (_Ursus thibetanus formosanus_) é o maior mamífero terrestre de Taiwan; a mancha branca em V no peito é característica distintiva; população atual estimada em 200–600 indivíduos. O **macaco-de-Taiwan** distribui-se por toda a ilha, sendo o único primata nativo.
+O **urso-negro-de-Taiwan** (_Ursus thibetanus formosanus_) é o maior animal terrestre de Taiwan, caracterizado por uma marca branca em forma de "V" no peito; a população atual estima-se entre 200 e 600 indivíduos. O **macaco-prego-de-Taiwan** está amplamente distribuído por toda a ilha e é o único primata nativo.
 
-O **javali-de-Taiwan** é menor que o javali asiático, adaptado a meios montanhosos. O **gorral-de-Taiwan** destaca-se na escalada rochosa, ocorrendo em médias e altas altitudes. O **cervo-d'água-de-Taiwan** é o maior herbívoro da ilha, com os machos ostentando galhada impressionante.
+O **javali-de-Taiwan** possui um corpo menor que o javali asiático comum, adaptado ao ambiente montanhoso. O **cabrito-selvagem-de-Taiwan** é ágil na escalada de rochas e habita regiões de média e alta altitude. O **cervo-sika-de-Taiwan** é o maior herbívoro do país, com machos possuindo galhadas magníficas.
 
-### Aves endémicas
+### Espécies Endêmicas de Aves
 
-O **faisão-de-mikado** (_Syrmaticus mikado_, também chamado faisão-de-cauda-longa-preta) é um faisanídeo endémico; o macho exibe plumagem azul-negra iridescente e rectrizes brancas barradas, sendo ave-símbolo de Taiwan, estampada na nota de mil novos dólares taiwaneses.[^1] O **galo-das-montanhas-de-barriga-azul** habita médias e baixas altitudes; o macho apresenta ventre azul e carúnculas vermelhas. A **pega-azul-de-Taiwan** ostenta plumagem azul-celeste e cauda longa, uma das aves mais belas da ilha.
+O **faisão-de-mikado** (_Syrmaticus mikado_, também conhecido como faisão-de-cauda-longa-preta) é uma ave endêmica da família Phasianidae; os machos possuem plumagem azul-escura brilhante e penas de cauda brancas transversais. É um símbolo precioso da avifauna de Taiwan, representado na nota de NT$1.000. [^1] A **ave-azul-de-ventre** habita altitudes médias e baixas, com machos apresentando ventre azul e carúnculas vermelhas. O **gaio-de-Taiwan** possui plumagem azul-royal e cauda longa, sendo uma das aves mais belas do país.
 
-Timalídeos como o **timalia-de-Taiwan** e o **timalia-de-garganta-riscada** ilustram a diversidade avícola das montanhas taiwanesas.
+Espécies da família Leiothrichidae, como o **pássaro-de-sobrancelha-preta-de-Taiwan** e o **pássaro-de-peito-listrado-de-Taiwan**, demonstram a diversidade das aves nas montanhas de Taiwan.
 
-### Peixes endémicos
+### Espécies Endêmicas de Peixes
 
-O **salmão-cerejeira-de-Taiwan** (_Oncorhynchus masou formosanus_) é relíquia do período glacial, restrito ao alto rio Dajia (大甲溪), cognominado "peixe-tesouro nacional". O **peixe-branco-de-Taiwan**, a **pedra-de-Taiwan** e outros peixes de água doce demonstram a singularidade dos sistemas aquíferos insulares.
+O **salmão-de-sakura** (_Oncorhynchus masou formosanus_) é uma espécie preciosa remanescente da era glacial, sobrevivendo apenas no curso superior do rio Dajia, sendo chamado de "peixe tesouro nacional". Peixes de água doce como o **peixe-branco-de-Taiwan** e a **carpa-de-pedra-de-Taiwan** demonstram a singularidade dos sistemas hídricos da ilha.
 
-**Endemismos marinhos** incluem numerosas espécies de peixes de coral e de profundidade, refletindo a particular biogeografia das águas taiwanesas.
+As **espécies marinhas endêmicas** incluem diversos peixes de coral e espécies de águas profundas, refletindo a particularidade biogeográfica das águas de Taiwan.
 
-### Plantas endémicas
+### Espécies Endêmicas de Plantas
 
-A **taiwania** (_Taiwania cryptomerioides_) é conífera de valor mundial, atingindo 70–84 m, a mais alta conífera nativa de Taiwan.[^2] O **cipreste-vermelho** e o **cipreste-de-chapa** formam preciosos ecossistemas de florestas de cipreste. A **machilus-de-Taiwan**, a **prunus-de-Taiwan** e outras evidenciam a singularidade da flora taiwanesa.
+O **cipreste-de-Taiwan** (_Taiwania cryptomerioides_) é uma conífera preciosa de nível mundial, podendo atingir de 70 a 84 metros de altura, sendo a maior espécie de conífera nativa de Taiwan. [^2] O **hinoki-vermelho** e o **cipreste-de-Taiwan** compõem ecossistemas valiosos de florestas de hinoki. Espécies como o **cedro-de-Taiwan** e o **ameixeiro-de-Taiwan** exibem a singularidade da flora local.
 
-**Plantas alpinas** como o _Berberis morrisonensis_ e o _Juniperus morrisonicola_ adaptam-se a ambientes severos de alta altitude. **Orquídeas endémicas** As orquídeas taiwanesas apresentam proporção extremamente alta de endemismos, muitas com valor hortícola.
+Plantas alpinas, como a _Primula yushania_ e o zimbro de Yushan, adaptaram-se ao ambiente rigoroso de alta altitude. A proporção de **orquídeas endêmicas** é extremamente alta entre as plantas da família Orchidaceae em Taiwan, com muitas espécies possuindo valor ornamental.
 
-### Insetos endémicos
+### Espécies Endêmicas de Insetos
 
-Taiwan é paraíso de insetos endémicos. O **papilio-de-cauda-larga** (_Agehana maraho_) é borboleta rara endémica, envergadura de 9–10 cm, restrita a médias altitudes do centro-norte, tendo como única planta-hospedeira a _Machilus thunbergii_.[^5] O **escaravelho-de-braços-longos-de-Taiwan**, o **besouro-arco-íris** e outros coleópteros exibem adaptações evolutivas únicas.
+Taiwan é um paraíso para insetos endêmicos. A **borboleta-cauda-larga** (_Agehana maraho_) é uma espécie rara e endêmica, com envergadura de 9 a 10 cm, distribuída apenas em montanhas de média altitude no centro e norte de Taiwan, tendo a árvore _Machilus tungstenbergii_ como sua única planta hospedeira. [^5] Besouros como o **besouro-de-braços-longos-de-Taiwan** e o **besouro-arco-íris** demonstram adaptações evolutivas únicas.
 
-**Diversidade de borboletas** Taiwan regista cerca de 400 espécies, com mais de 50 endémicas. **Endemismos de mariposas** são ainda mais numerosos, muitas espécies ainda não descritas cientificamente.
+A **diversidade de borboletas** em Taiwan registra cerca de 400 espécies, das quais mais de 50 são endêmicas. O número de **mariposas endêmicas** é ainda maior, com muitas espécies ainda não descritas pela ciência.
 
-### Situação de conservação e desafios
+### Conservação: Estado Atual e Desafios
 
-**Destruição de habitat** Expansão urbana, agrícola e viária ameaça habitats de endémicos. **Mudanças climáticas** O aquecimento força espécies alpinas a migrar para cotas superiores, podendo ficar sem habitat disponível.
+A **destruição de habitats** por atividades humanas, como desenvolvimento urbano, expansão agrícola e construção de estradas, ameaça os locais de vida das espécies endêmicas. As **mudanças climáticas** forçam as espécies alpinas a migrar para altitudes cada vez maiores, o que pode resultar na perda total de seu habitat disponível.
 
-**Invasões biológicas** Espécies como _Mikania micrantha_ e o caramujo-africano competem por recursos com nativos. **Exploração excessiva** Atividades turísticas descontroladas podem perturbar comportamento da fauna.
+A **invasão de espécies exóticas**, como a _Mikania micrantha_ e o caramujo-gigante-do-pântano, compete pelos recursos das espécies nativas. O **desenvolvimento excessivo** do turismo pode interferir no comportamento da vida selvagem.
 
-### Espécies invasoras: a guerra invisível da extinção
+### Espécies Invasoras: A Guerra Invisível contra a Extinção
 
-O problema das invasoras em Taiwan é vasto; a Agência de Silvicultura e Conservação da Natureza (林業及自然保育署) lista mais de 50 plantas e mais de 30 animais invasores.[^3] Os casos mais graves incluem:
+O problema das espécies invasoras em Taiwan é de grande escala. O Departamento de Silvicultura e Conservação da Natureza lista mais de 50 plantas e mais de 30 animais invasores sob controle. [^3] Casos críticos incluem:
 
-A **mikania** (_Mikania micrantha_) é a invasora vegetal de expansão mais rápida nas montanhas taiwanesas, cobrindo vários metros por semana e sufocando a vegetação nativa; desde os anos 2000 já atingiu bordas de floresta em médias altitudes. O **caramujo-africano** (_Pomacea canaliculata_), introduzido da Argentina em 1979 para consumo, libertado depois, explodiu em arrozais e zonas húmidas, destruindo arroz e consumindo macrófitas nativas. A **formiga-de-fogo-invasora** (_Solenopsis invicta_), detectada em Taoyuan (桃園) em 2003, espalhou-se por vários condados, ameaçando diretamente a forrageamento e nidificação de fauna terricola (incluindo aves de solo).
+A **_Mikania micrantha_** é a planta invasora de crescimento mais rápido nas montanhas de Taiwan, cobrindo vários metros por semana e sufocando a vegetação nativa; após os anos 2000, invadiu as bordas das florestas de média altitude. O **caramujo-gigante-do-pântano** (_Pomacea canaliculata_) foi introduzido da Argentina em 1979 para consumo; após serem abandonados, explodiram em arrozais e áreas úmidas por todo o país, destruindo tanto a produção de arroz quanto as plantas aquáticas nativas. A **formiga-fogo-invasora** (_Solenopsis invicta_) foi detectada em Taoyuan em 2003 e já se espalhou por vários condados, ameaçando diretamente o comportamento de busca de alimento e nidificação de animais que vivem no solo (incluindo algumas aves terrestres).
 
-A dificuldade central no controlo: uma vez estabelecidas, as populações são praticamente inerradicáveis, apenas geríveis, com custos exponenciais ao longo do tempo. O Ministério da Agricultura aloca anualmente centenas de milhões de dólares taiwaneses para gestão de invasoras; a plataforma cidadã de denúncia (平台通報入侵種) integra a rede de monitoramento da Agência de Silvicultura e Conservação da Natureza.[^3]
+A principal dificuldade no controle de espécies invasoras é que, uma vez estabelecidas, são difíceis de erradicar; elas podem ser gerenciadas, mas não eliminadas, e os custos de gestão aumentam exponencialmente com o tempo. O Ministério da Agricultura destina anualmente centenas de milhões de NT$ para o manejo de espécies invasoras, e sistemas de denúncia cidadã já foram integrados à rede de monitoramento do Departamento de Silvicultura e Conservação da Natureza. [^3]
 
-### Esforços de conservação
+### Esforços de Conservação
 
-**Sistema de parques nacionais** Yushan, Taroko, Shei-Pa e outros protegem habitats críticos de endémicos. **Rede de áreas protegidas** Reservas naturais e refúgios de fauna conferem amparo legal.
+O **sistema de parques nacionais**, incluindo Yushan, Taroko e Yushan, protege habitats cruciais de espécies endêmicas. Uma **rede de áreas protegidas**, composta por reservas naturais e áreas de proteção de vida selvagem, oferece proteção legal.
 
-**Programas de recuperação** A _Lei de Conservação da Fauna Silvestre_ (1989) estabeleceu base legal; seguiram-se recuperação do salmão-cerejeira, monitoramento populacional do urso-negro, entre outros. **Ciência cidadã** Plataformas como eBird e iNaturalist fomentam participação pública em levantamentos biológicos.
+**Planos de restauração:** A "Lei de Conservação da Vida Selvagem" (1989) estabeleceu a base jurídica, permitindo o lançamento de projetos como a restauração do salmão-de-sakura e o monitoramento das populações de urso-negro-de-Taiwan. A **ciência cidadã**, através de plataformas como eBird e iNaturalist, promove a participação do público em levantamentos biológicos.
 
-**Em 1 de agosto de 2023**, o Ministério da Agricultura (農業部) foi formalmente criado; a antiga Administração Florestal do Conselho de Agricultura foi elevada a **Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura** (農業部林業及自然保育署), integrando competências de recursos florestais e conservação da biodiversidade, enquadrando legalmente a proteção de endémicos.[^3] No mesmo ano, o Centro de Investigação e Conservação de Espécies Endémicas (特生中心) do antigo Conselho de Agricultura foi reestruturado como **Instituto de Investigação da Biodiversidade do Ministério da Agricultura** (農業部生物多樣性研究所), dedicado a levantamentos, monitoramento e investigação, tornando-se instituição nuclear de agregação de dados sobre endémicos taiwaneses. **Cooperação internacional** Com IUCN, TRAFFIC e outras ONGs globais, elevando capacidades técnicas. **Educação ambiental** Através de ecoturismo e ciência cidadã, promovendo consciência conservacionista.
+Em **1º de agosto de 2023**, o Ministério da Agricultura foi formalmente estabelecido, elevando a antiga Administração de Florestas e Conservação da Natureza para o **Departamento de Silvicultura e Conservação da Natureza do Ministério da Agricultura**, integrando as funções de recursos florestais e conservação da biodiversidade em um quadro legal mais completo. [^3] No mesmo ano, o antigo Centro de Pesquisa e Conservação de Espécies Endêmicas foi reestruturado como o **Instituto de Biodiversidade do Ministério da Agricultura**, especializado em levantamento, monitoramento e pesquisa, tornando-se a instituição central para a compilação de dados sobre espécies endêmicas de Taiwan. A **cooperação internacional** com organizações como IUCN e TRAFFIC eleva as técnicas de conservação. A **educação ambiental** utiliza o ecoturismo e a ciência cidadã para aumentar a consciência sobre a preservação.
 
-## Relevância global
+## Significado Global
 
-A experiência taiwanesa na conservação de endémicos serve de referência para a conservação insular global. Taiwan combina simultaneamente relevo verticalmente comprimido (montanha–planície) e gradiente climático tropical–polar, constituindo campo de estudo privilegiado para biogeografia insular e biologia evolutiva.
+A experiência de conservação das espécies endêmicas de Taiwan serve como referência para a conservação ecológica de ilhas em todo o mundo. Taiwan possui simultaneamente a compressão topográfica entre montanhas e planícies e um gradiente climático de tropical a frio, sendo um campo de estudo ideal para pesquisas em biogeografia insular e biologia evolutiva.
 
 ## Referências
 
-[^1]: [Faisão-de-mikado — Wikipédia](https://zh.wikipedia.org/wiki/%E5%B8%9D%E9%9B%89) — Confirma nome científico _Syrmaticus mikado_, sinónimo faisão-de-cauda-longa-preta, endémico de Taiwan, estampado na nota de mil novos dólares taiwaneses.
+[^1]: [Faisão-de-mikado — Wikipédia](https://zh.wikipedia.org/wiki/%E5%B8%9D%E9%9B%89) — Confirma o nome científico _Syrmaticus mikado_, também conhecido como faisão-de-cauda-longa-preta, espécie endêmica de Taiwan, representada na nota de NT$1.000.
 
-[^2]: [Taiwania — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%9D%89) — Confirma registo de altura da taiwania, exemplar mais alto conhecido com cerca de 84 m.
+[^2]: [Cipreste-de-Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%9D%89) — Confirma o registro de altura do cipreste-de-Taiwan, com o maior indivíduo conhecido atingindo cerca de 84 metros.
 
-[^3]: [Agência de Silvicultura e Conservação da Natureza — Sistema de Informação de Espécies Invasoras](https://invasive.forest.gov.tw/) — Lista taiwanesa de plantas e animais invasores geridos, levantamentos de distribuição e medidas de gestão.
+[^3]: [Departamento de Silvicultura e Conservação da Natureza — Sistema de Informação sobre Espécies Invasoras](https://invasive.forest.gov.tw/) — Listas de plantas e animais invasores controlados em Taiwan, investigações de distribuição e medidas de manejo.
 
-[^4]: [Academia Sinica — Catálogo de Espécies de Taiwan TaiCoL](https://taicol.tw/) — Base de dados de biodiversidade de Taiwan, fonte das estatísticas de endemismos por grupo.
+[^4]: [Academia Sinica — Catálogo de Espécies de Taiwan TaiCoL](https://taicol.tw/) — Banco de dados de biodiversidade de Taiwan, fonte de dados estatísticos para espécies endêmicas de diversos grupos.
 
-[^5]: [Papilio-de-cauda-larga — Agência de Silvicultura e Conservação da Natureza](https://conservation.forest.gov.tw/) — Envergadura, distribuição e planta-hospedeira _Machilus thunbergii_ do papilio-de-cauda-larga.
+[^5]: [Borboleta-cauda-larga — Departamento de Silvicultura e Conservação da Natureza](https://conservation.forest.gov.tw/) — Envergadura, distribuição e planta hospedeira (_Machilus tungstenbergii_) da borboleta-cauda-larga.
 
-## Leitura complementar
+## Leitura Adicional
 
-- [Espécies endémicas de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%89%B9%E6%9C%89%E7%A8%AE)
-- [Rede de Conservação da Natureza da Agência de Silvicultura e Conservação da Natureza](https://conservation.forest.gov.tw/)
-- [Robert Swinhoe](/pt/people/robert-swinhoe-naturalist) — Primeiro naturalista ocidental a documentar sistematicamente a fauna taiwanesa nos anos 1860; o galo-das-montanhas-de-barriga-azul e a tartaruga-de-carapaça-malhada, nomeados em sua honra, permanecem espécies-emblema da conservação de endémicos taiwaneses
-- [Ornitologia de Formosa](/pt/nature/the-ornithology-of-formosa) — Obra de Swinhoe de 1863, _The Ornithology of Formosa_, regista 201 espécies; mas o faisão-de-mikado, o timalia-de-coroa e o timalia-de-Taiwan, endémicos da Cordilheira Central, só foram descritos em 1906
-- [Garça-noturna-de-coroa-preta](/pt/nature/malayan-night-heron) — Não é endémica de Taiwan, mas a sua expansão populacional urbana em Taiwan é única em toda a sua distribuição global; os dados de anilhamento e recaptura acumulados pelo sistema taiwanês de ciência cidadã constituem amostra de nível mundial
+- [Espécies Endêmicas de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%89%B9%E6%9C%89%E7%A8%AE)
+- [Rede de Conservação da Natureza do Departamento de Silvicultura e Conservação da Natureza](https://conservation.forest.gov.tw/)
+- [Swainson (史溫侯)](/pt/people/robert-swinhoe-naturalist) — O primeiro naturalista ocidental a registrar sistematicamente as espécies de Taiwan na década de 1860; as aves e tartarugas nomeadas em sua homenagem continuam sendo espécies representativas da conservação endêmica de Taiwan.
+- [Ornitologia de Formosa](/pt/nature/the-ornithology-of-formosa) — A obra _The Ornithology of Formosa_, publicada por Swainson em 1863, registrou 201 espécies; no entanto, espécies endêmicas da Cordilheira Central, como o faisão-de-mikado e o pássaro-de-sobrancelha-preta, só foram nomeadas em 1906.
+- [Garça-de-coroa-preta](/pt/nature/malayan-night-heron) — Não é uma espécie endêmica de Taiwan, mas a escala de expansão de sua população urbana no país é única dentro de sua distribuição global; os dados de monitoramento acumulados pelo sistema de ciência cidadã de Taiwan são um exemplo de nível mundial.
 
-## Temas relacionados
+## Temas Relacionados

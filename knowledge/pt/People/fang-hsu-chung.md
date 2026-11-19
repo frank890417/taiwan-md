@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4657223bb8bff5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e962bbfdbb43a542'
 sourceBodyHash: 'sha256:5791cbc190a21f96'
-translatedAt: '2026-07-26T02:07:21+08:00'
+translatedAt: '2026-11-19T00:30:15.860589+00:00'
 ---
 
 # Fang Hsu-chung: Criança da aldeia militar de Pingtung, transforma os três prémios de ouro em memória de Taiwan
@@ -103,19 +105,19 @@ Essa participação local reflete-se também na sua presença em media pessoais.
 
 ## Referências
 
-[^1]: [Fang Hsu-chung — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biografia, formação e cronologia de obras de Fang Hsu-chung, incluindo nascimento em 1978 na Nova Aldeia Gonghe de Donggang, Pingtung, registos da Fuxing Vocacional e do curso noturno de ourivesaria da Universidade Nacional de Artes de Taiwan.
+[^1]: [Fang Xu-zhong — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%96%B9%E5%BA%8F%E4%B8%AD) — Biografia, formação e cronologia de obras de Fang Xu-zhong, incluindo nascimento em 1978 na Vila Republicana de Donggang, Pingtung, Escola Vocacional Fuxing e registro do departamento noturno de Metalurgia da Universidade Nacional de Artes de Taiwan.
 
-[^2]: [Jiu Fang She About](https://joefangstudio.com/?page_id=2) — Apresentação oficial da Jiu Fang She, incluindo data de fundação (2013) e escopo de atividade.
+[^2]: [Sobre a Jiufang Studio](https://joefangstudio.com/?page_id=2) — Apresentação oficial da Jiufang Studio, incluindo data de fundação do estúdio (2013) e escopo de atuação.
 
-[^3]: [Mirror Media: Branding dos três prémios, Fang Hsu-chung revitaliza direção visual principal](https://www.mirrormedia.mg/story/20190125insight001/) — Contexto da colaboração na direção visual principal dos três prémios e processo do convite de Chen Chen-chuan.
+[^3]: [Mirror Weekly: Gestão de marca das Três Premiações de Ouro — Fang Xu-zhong projeta identidade visual principal](https://www.mirrormedia.mg/story/20190125insight001/) — Contexto da colaboração na identidade visual principal das Três Premiações de Ouro e o processo de convite por Chen Zhen-chuan.
 
-[^4]: [Golden Horse oficial: Direção visual principal da 55.ª edição](https://www.goldenhorse.org.tw/) — Explicação do conceito «Coadjuvante» da direção visual principal do Golden Horse 55 de 2018.
+[^4]: [Golden Horse Awards Oficial: Identidade Visual Principal da 55ª Edição](https://www.goldenhorse.org.tw/) — Explicação do conceito da identidade visual principal 'Coadjuvante' do 55º Golden Horse 2018.
 
-[^5]: [Bureau of Audiovisual and Music Industry Development, Ministério da Cultura — Nomeados históricos do Golden Melody](https://www.bamid.gov.tw/) — Registo histórico de nomeações de Fang Hsu-chung ao Melhor Design de Encadernação do Golden Melody.
+[^5]: [Bureau do Audiovisual e da Indústria Musical, Ministério da Cultura — Indicados ao Golden Melody Awards ao Longo das Edições](https://www.bamid.gov.tw/) — Registro das indicações de Fang Xu-zhong ao prêmio de Melhor Design de Embalagem de Álbum do Golden Melody Awards ao longo das edições.
 
-[^6]: [Fang Hsu-chung, reinventar a impressão de Pingtung conferindo imaginação e expectativa — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Hsu-chung fala da infância na aldeia militar de Donggang, Pingtung, Projeto Pequena Flor e contexto de design.
+[^6]: [Fang Xu-zhong: Transformando a Imagem de Pingtung para Inspirar Imaginação e Esperança — The Affairs](https://www.theaffairs.com/%E6%96%B9%E5%BA%8F%E4%B8%AD%EF%BC%8C%E7%BF%BB%E8%BD%89%E5%B1%8F%E6%9D%B1%E5%8D%B0%E8%B1%A1%E8%B3%A6%E4%BA%88%E6%83%B3%E5%83%8F%E5%8A%9B%E5%8F%8A%E6%9C%9F%E5%BE%85/) — Fang Xu-zhong fala sobre infância na vila de dependentes militares de Donggang, Pingtung, o Projeto Pequena Flor e o contexto de design.
 
-[^7]: [Designers e os seus estúdios — Joe Fang Studio Jiu Fang She](http://brandingdesign.nccu.tilda.ws/fdwf3) — Registo de entrevista do projeto de design de marca da Universidade Nacional Chengchi, incluindo método de trabalho da Jiu Fang She e processo de assunção dos três prémios.
+[^7]: [Designers e Seus Estúdios — Joe Fang Studio (Jiufang Studio)](http://brandingdesign.nccu.tilda.ws/fdwf3) — Registro de entrevista do projeto de design de marca da Universidade Nacional de Chengchi, incluindo métodos de trabalho da Jiufang Studio e o processo de contratação para as Três Premiações de Ouro.
 
 ## Leitura complementar
 
