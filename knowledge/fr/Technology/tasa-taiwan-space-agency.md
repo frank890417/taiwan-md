@@ -1,25 +1,28 @@
 ---
-title: 'Le Centre spatial national : en trente-deux ans, assembler une agence spatiale pour un pays dont le nom n’était pas encore complet'
-description: 'En 1991, il s’appelait « Bureau de préparation », sans nom, sans fusée, sans territoire propre. Trente-deux ans plus tard, il a remis Taiwan dans son nom ; aujourd’hui, le centre de contrôle de Hsinchu suit en continu le rythme cardiaque de neuf satellites ; le jour du séisme de Hualien du 0403, il a réinitialisé la mission six minutes après le choc et pris des images en trois heures. Il est en train d’assembler la dernière pièce manquante — un lanceur orbital propre, ainsi qu’une mission lunaire déjà approuvée, dont le lancement est prévu dès 2028.'
+title: "Centre spatial national : trente-deux ans pour doter d'une agence spatiale un pays qui n'avait pas encore de nom"
+description: "En 1991, elle s'appelait le « Bureau de préparation », sans nom, sans fusée, sans terrain propre. Trente-deux ans plus tard, elle a remis Taiwan dans son nom ; aujourd'hui, le centre de contrôle de Hsinchu suit 24 heures sur 24 le pouls de neuf satellites. Le jour du séisme de Hualien du 3 avril, elle a révisé sa mission six minutes après le tremblement de terre et pris des images en trois heures. Elle est en train de combler la dernière pièce manquante — sa propre fusée orbitale — ainsi qu'une mission lunaire déjà approuvée, qui pourrait décoller dès 2028."
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '太空與前沿'
 tags:
   [
     'Centre spatial national',
     'TASA',
     'Technologie spatiale',
-    'Wu Zongxin',
-    'Formosat',
+    'Wu Tsung-hsin',
+    'FORMOSAT',
     'Souveraineté spatiale',
   ]
-readingTime: 28
+subcategory: '太空與前沿'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
-featured: true
+image: '/article-images/technology/formosat8-tasa-banner.webp'
+imageAlt: 'Visuel officiel du satellite de télédétection optique FORMOSAT-8 du Centre spatial national'
+imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary（©TASA）'
 imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
+readingTime: 28
 sporeLinks:
   - id: 122
     platform: 'threads'
@@ -29,13 +32,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T16:48:28.193097+00:00'
-image: '/article-images/technology/formosat8-tasa-banner.webp'
-imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
+translatedAt: '2026-11-19T02:35:21.655662+00:00'
 ---
 
 En 2016, dans le clip de la chanson _Wangu_ (Obstinés) de Mayday, on voit un homme d’âge mûr construire une fusée dans un terrain vague. Considéré comme un fou rêvant à une réalité impossible, il finit par s’envoler dans le ciel avec sa fusée artisanale. Pour la plupart des Taïwanais, la première connaissance de Wu Zongxin ne passe pas par une institution nationale, mais par ce clip : le « oncle fusée »[^1].
@@ -271,10 +274,11 @@ Zeppelin a vu Taïwan depuis un hélicoptère, ne l’a pas fini l’année de s
 
 ## Lectures complémentaires
 
-- [Développement de l'industrie spatiale taïwanaise](/fr/technology/taiwan-space-industry-development) — Cet article traite de la façon dont l'institution elle-même grandit ; celui-là traite de la chaîne d'approvisionnement derrière elle : quels fabricants fabriquent les composants des satellites, comment la semi-conducteur entre dans l'espace, comment l'écosystème des startups se forme.
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La base industrielle de l'« autonomie » spatiale de Taïwan est largement construite sur la capacité existante de semi-conducteurs et de fabrication de précision de cette île.
-- [Taipei chinois](/fr/society/chinese-taipei) — La ligne de souveraineté de « remettre Taiwan dans le nom » a une autre face sur les stades.
-- [Lin Qi'er](/fr/people/lin-chi-er-astronaut) — Portrait d'une autre figure travaillant pour Taïwan sur le terrain scientifique.
+- [Développement de l'industrie spatiale de Taïwan](/fr/technology/taiwan-space-industry-development) — Cet article décrit comment l'institution elle-même a grandi, tandis que celui-ci raconte la chaîne d'approvisionnement qui se cache derrière : quels fabricants produisent les composants des satellites, comment les semi-conducteurs s'intègrent dans l'espace, comment l'écosystème des start-ups s'est formé.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La base industrielle de l'« autonomie » spatiale de Taïwan repose en grande partie sur les capacités existantes de l'île en matière de semi-conducteurs et de fabrication de précision.
+- [Taipei chinois](/fr/society/chinese-taipei) — L'autre facette, sur le terrain sportif, de cette ligne de souveraineté qui consiste à « remettre Taiwan dans le nom ».
+- [Lin Chi-erh](/fr/people/lin-chi-er-astronaut) — Un portrait d'une autre figure qui œuvre pour Taïwan sur le terrain scientifique.
+- [Zeppelin](/fr/people/chi-po-lin) — Le premier satellite de Formosat-8 porte son nom : ancien fonctionnaire de la photogrammétrie aérienne du Bureau national de l'ingénierie, réalisateur de « Voir Taïwan », décédé en 2017 lors d'un repérage pour la suite.
 
 ## Sources des vidéos
 

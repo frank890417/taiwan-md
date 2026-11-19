@@ -10,11 +10,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:34:20.865251+00:00'
+translatedAt: '2026-11-19T02:18:44.972189+00:00'
 ---
 
 # L'art urbain et la culture du graffiti à Taïwan
@@ -71,17 +73,17 @@ Les technologies numériques ouvrent également de nouvelles possibilités. La p
 
 ## Références
 
-[^1]: [Village arc-en-ciel — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Histoire du village militaire arc-en-ciel de Nantun, Taichung, les débuts des peintures de Huang Yong-fu et les archives du mouvement de préservation.
+[^1]: [Rainbow Village — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Historique du Rainbow Village dans le district de Nantun à Taichung, détails sur les peintures de Huang Yung-fu et archives du mouvement de préservation.
 
-[^2]: [Parc de l'art de Pier-2 — Wikipédia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Évolution du développement et présentation des espaces d'exposition du parc de l'art de Pier-2 à Kaohsiung.
+[^2]: [Pier-2 Art Center — Wikipédia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Évolution du développement et présentation des espaces d'exposition du Pier-2 Art Center à Kaohsiung.
 
-[^3]: [Port de Zhengbin — Wikipédia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Projet de revitalisation du port de Zhengbin à Keelung et contexte de la formation des bâtiments colorés.
+[^3]: [Port de pêche de Zhengbin — Wikipédia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Projet de revitalisation du port de pêche de Zhengbin à Keelung et contexte de la formation des ensembles de bâtiments colorés.
 
-[^4]: [Carte de l'art urbain de Taïwan — Street Art Taiwan](https://streetarttaiwan.com/) — Base de données répertoriant l'emplacement des œuvres d'art urbain dans les villes de Taïwan et les informations sur les artistes.
+[^4]: [Carte de l'art urbain de Taïwan — Street Art Taiwan](https://streetarttaiwan.com/) — Base de données répertoriant l'emplacement des œuvres d'art urbain et les informations sur les artistes dans les différentes villes de Taïwan.
 
-[^5]: [Discussion sur le règlement municipal de gestion des graffitis à Taipei — Gouvernement de la ville de Taipei](https://www.gov.taipei/) — Évolution des politiques de gestion des graffitis par la municipalité de Taipei.
+[^5]: [Discussion sur le règlement municipal pour la gestion du graffiti à Taipei — Ville de Taipei](https://www.gov.taipei/) — Évolution des politiques de gestion du graffiti urbain par la ville de Taipei.
 
-[^6]: [Site officiel de Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Archives des activités annuelles du festival international d'art urbain de Taïwan.
+[^6]: [Site officiel de Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Archives des activités passées du festival international d'art urbain de Taïwan.
 
 ## Lectures complémentaires
 

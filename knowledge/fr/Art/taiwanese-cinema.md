@@ -28,11 +28,13 @@ imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T21:04:37.134736+00:00'
+translatedAt: '2026-11-19T02:59:35.058163+00:00'
 ---
 
 # Cinéma taïwanais : la voix à côté de l'écran, et l'histoire d'un cinéma mort, puis ressuscité
@@ -289,13 +291,14 @@ Cet article utilise 4 images, toutes mises en cache dans `public/article-images/
 
 ## Lectures complémentaires
 
-- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) : le maître du plan-séquence qui a décroché le Lion d'or à Venise et porté le 28 février 1947 à l'écran
-- [Edward Yang](/fr/people/yang-dechang) : l'observateur de la ville dont deux œuvres figurent au classement des cent plus grands films de tous les temps de Sight & Sound
-- [Tsai Ming-liang](/fr/people/tsai-ming-liang) : lauréat du Lion d'or à Venise, qui a fait entrer le cinéma lent au musée du Louvre
-- [Ang Lee](/fr/people/ang-lee) : de Taïwan à Hollywood, deux fois lauréat de l'Oscar du meilleur réalisateur
-- [Wei Te-sheng](/fr/people/wei-te-sheng-taiwanese-epic-filmmaker) : celui qui a tourné _Cape No. 7_ en cinq langues et ressuscité le cinéma national
-- [Le pays invisible](/fr/art/invisible-nation) : dans le documentaire de Vanessa Hope, une autre façon de voir Taïwan
-- [Sensibilité taïwanaise : faut-il que les Coréens valident d'abord, avant qu'on ose dire que nos vieilles maisons sont belles ?](/fr/culture/taiwanese-sensibility) : le Lion d'or de A City of Sadness en 1989 et son box-office à Taipei datent de la même année — reconnaissance internationale et résonance locale ne s'excluent pas forcément
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) : le maître du plan-séquence qui a remporté le Lion d'or à Venise et porté l'incident du 228 à l'écran
+- [Edward Yang](/fr/people/yang-dechang) : l'observateur urbain dont deux œuvres figurent dans le classement des cent meilleurs films de _Sight & Sound_
+- [Tsai Ming-liang](/fr/people/tsai-ming-liang) : lauréat du Lion d'or à Venise, dont les « slow films » ont trouvé leur place au Louvre
+- [Ang Lee](/fr/people/ang-lee) : de Taïwan à Hollywood, deux fois sacré meilleur réalisateur aux Oscars
+- [Wei Te-sheng](/fr/people/wei-te-sheng-taiwanese-epic-filmmaker) : celui qui a filmé 《海角七號》 (_Cape No. 7_) en cinq langues et a permis la renaissance du cinéma national
+- [Golden Horse Awards](/fr/art/golden-horse-awards) : d'une cérémonie dédiée aux films en mandarin à un prix du cinéma sinophone sans distinction de nationalité ; les films taïwanais y perdent souvent chez eux, mais la porte n'a jamais été refermée
+- [L'État invisible](/fr/art/invisible-nation) : une autre manière de voir Taïwan à travers le documentaire de Ge Jingwen
+- [Sensibilité taïwanaise : devons-nous attendre que les Coréens « likent » pour oser dire que notre vieille maison est belle ?](/fr/culture/taiwanese-sensibility) : le Lion d'or de 《悲情城市》 (_A City of Sadness_) en 1989 et le box-office de Taipei sont arrivés la même année ; la reconnaissance internationale et la résonance locale ne sont pas forcément mutuellement exclusives
 
 [^1]: [Le benshi de cinéma - Wikipédia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — En 1930, Taïwan comptait 41 benshi japonais et 19 benshi taïwanais, soit environ 60 au total ; l'exercice de la profession exigeait un permis obtenu par l'examen du bureau de police préfectoral.
 

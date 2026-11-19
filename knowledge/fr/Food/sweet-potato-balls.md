@@ -34,11 +34,13 @@ rationale:
   whats_excluded: '唐代煎堆、1970 年代台中夜市兩種起源說法與 130°C、15 秒的油溫說法找不到可掛腳註的出處，地瓜與番薯的省籍命名來源單一且中英版本不一致，劉在泓的人生史、收入與學費、加盟案的計算細節、名人與海外授權、砂炒澱粉的實驗室類比等岔題素材一併略去。'
   where_it_hedges: '中正橋故事以「據傳」的說法呈現，不當史實；芝麻球一說只標出處；起鍋油溫 170 度出自記者圖說，只寫他那一攤；地瓜球與 QQ 蛋的叫法、撒不撒梅粉來自街訪與網友推文，不是調查；各攤的做法與口感多出自部落客介紹；樹薯粉進口量是 2016 年文章的數字；加盟案判決依報導可上訴。'
   whos_pushing_back: '有人會說空心是配方自然膨出來的，炸一炸就好；也有網友認為叫 QQ 蛋的和叫地瓜球的是兩種東西，原味派則主張真正炸得好的地瓜球不需要撒粉。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/地瓜球.md'
-sourceCommitSha: '2ef99f287'
-sourceContentHash: 'sha256:7c999d826d55352a'
-sourceBodyHash: 'sha256:59284821ad1dd766'
-translatedAt: '2026-11-07T12:47:34+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:605ba99da79b7435'
+sourceBodyHash: 'sha256:2a3df7318f5c52b6'
+translatedAt: '2026-11-19T03:40:48.044289+00:00'
 ---
 
 ![Un plateau en inox contenant des boules de patate douce jaunes et violettes, à côté d'un sac en papier imprimé, photographié au marché de nuit touristique de Taitung](/article-images/food/digua-qiu-taitung-night-market-2021.webp)
@@ -174,8 +176,8 @@ _The Reporter_ a relevé sur son stand que la variété _Tainong 57_ (台農 57 
 - [Boules de patate douce du marché de nuit de Gongguan 2019](https://commons.wikimedia.org/wiki/File:%E5%85%AC%E9%A4%A8%E5%A4%9C%E5%B8%82%E5%9C%B0%E7%93%9C%E7%90%83_2019.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
 - [Stand de boules de patate douce du marché de nuit de Gongguan (IMG E0255 14)](https://commons.wikimedia.org/wiki/File:IMG_E0255_14.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
 - [Boules de patate douce (Taipei Muzha)](https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%93%9C%E7%90%83.jpg) — Photo: Ianbu, 2017-11-26, CC BY-SA 4.0
-- [Deux sachets de boules de patate douce du marché de nuit de Gongguan (IMG E0255 08)](https://commons.wikimedia.org/wiki/File:IMG_E0255_08.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
-- [GongGuan Night Market, Taipei 20191008 03](https://commons.wikimedia.org/wiki/File:GongGuan_Night_Market,_Taipei_20191008_03.jpg) — Photo: Giantmudcrab, 2019-10-08, CC BY-SA 4.0
+- [Deux paquets de boules de patate douce du marché de nuit de Gongguan (IMG E0255 08)](https://commons.wikimedia.org/wiki/File:IMG_E0255_08.jpg) — Photo: Maypollyanna, 2019-10-08, CC BY-SA 4.0
+- [Marché de nuit de Gongguan, Taipei 20191008 03](https://commons.wikimedia.org/wiki/File:GongGuan_Night_Market,_Taipei_20191008_03.jpg) — Photo: Giantmudcrab, 2019-10-08, CC BY-SA 4.0
 
 ## Références
 
