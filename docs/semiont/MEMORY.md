@@ -346,3 +346,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-20 | 053906-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；review-stock 仍待哲宇建（#116） | 連三天全綠，週班沒痕跡是停擺不是設定漂移 | [→](memory/2026-11-20-053906-twmd-routine-sync.md) |
 | 2026-11-20 | 060913-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；排程 dump 寫回後狀態頁 24h→0；房貸負擔率仍只有 115Q1，燈留著 | 修補落地的樣子是下一班不用想起它 | [→](memory/2026-11-20-060913-twmd-data-refresh-am.md) |
 | 2026-11-20 | 061226-twmd-embeddings-nightly | 恢復後第三夜完整重建：13 語 15,259 向量零失敗、verify PASS，`59d1edf5f`；push 回報 ref-lock 拒絕但遠端已是本 commit | 報錯不等於沒推上去，fetch 比 hash 才算數 | [→](memory/2026-11-20-061226-twmd-embeddings-nightly.md) |
+| 2026-11-20 | 064243-twmd-spore-harvest-am | 恢復後第四班收割：窗口內零孢子，回覆分頁三列與 #29 按讚列都跟昨天相同，合法 no-op；Meta AI 那則仍等哲宇 | 沒事也要寫出量了哪幾列，安靜才跟漏看分得開 | [→](memory/2026-11-20-064243-twmd-spore-harvest-am.md) |
