@@ -10,11 +10,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:33:59.507399+00:00'
+translatedAt: '2026-11-19T02:18:31.366641+00:00'
 ---
 
 # Arte callejero y cultura del graffiti en Taiwán
@@ -71,17 +73,17 @@ La tecnología digital también está abriendo nuevas posibilidades. Proyeccione
 
 ## Referencias
 
-[^1]: [Pueblo Arcoíris — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Historia del asentamiento militar arcoíris en el distrito de Nantun, Taichung, y registros sobre la pintura de Huang Yung-fu y el movimiento de preservación.
+[^1]: [Rainbow Village — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Historia de la Aldea Arcoíris en el distrito de Nantun, Taichung, y registros sobre el proceso de pintura de Huang Yung-fu y los movimientos de preservación.
 
-[^2]: [Distrito de Arte Pier-2 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Evolución del desarrollo y presentación de los espacios de exhibición del Distrito de Arte Pier-2 en Kaohsiung.
+[^2]: [Pier-2 Art Center — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Evolución del desarrollo y presentación de los espacios de exhibición del Centro de Arte Pier-2 en Kaohsiung.
 
-[^3]: [Puerto de Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — El plan de revitalización del puerto de Zhengbin en Keelung y el trasfondo de la formación de sus edificios coloridos.
+[^3]: [Puerto Pesquero de Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Plan de revitalización del puerto pesquero de Zhengbin en Keelung y el trasfondo de la formación de su conjunto de edificios coloridos.
 
-[^4]: [Mapa del Arte Callejero de Taiwán — Street Art Taiwan](https://streetarttaiwan.com/) — Base de datos que registra la ubicación de obras de arte callejero y datos de artistas en diversas ciudades de Taiwán.
+[^4]: [Mapa de Arte Callejero de Taiwán — Street Art Taiwan](https://streetarttaiwan.com/) — Base de datos que registra la ubicación de las obras de arte callejero y la información de los artistas en diversas ciudades de Taiwán.
 
-[^5]: [Discusión sobre las ordenanzas de gestión de graffiti de la ciudad de Taipéi — Gobierno Municipal de Taipéi](https://www.gov.taipei/) — Evolución de las políticas de gestión de graffiti en la ciudad de Taipéi.
+[^5]: [Discusión sobre el Reglamento de Gestión de Grafiti de la Ciudad de Taipei — Gobierno Municipal de Taipei](https://www.gov.taipei/) — Evolución de las políticas de gestión del grafiti callejero en la ciudad de Taipei.
 
-[^6]: [Sitio web oficial de Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros de actividades anuales del Festival Internacional de Arte Callejero de Taiwán.
+[^6]: [Sitio web oficial de Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Registros históricos de las actividades anuales del Festival Internacional de Arte Callejero de Taiwán.
 
 ## Lectura adicional
 

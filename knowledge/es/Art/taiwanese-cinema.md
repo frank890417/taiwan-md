@@ -28,11 +28,13 @@ imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T10:48:42.373016+00:00'
+translatedAt: '2026-11-19T02:34:36.993018+00:00'
 ---
 
 # El cine nacional de Taiwán: la persona que habla junto a la pantalla, y una historia de cine que murió y volvió a vivir
@@ -289,13 +291,14 @@ Este artículo utiliza 4 imágenes, todas almacenadas en caché en `public/artic
 
 ## Lecturas recomendadas
 
-- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien): maestro del plano secuencia que ganó el León de Oro de Venecia y llevó el 228 a la pantalla grande
-- [Edward Yang](/es/people/yang-dechang): observador urbano con dos obras entre las 100 mejores de la historia del cine según _Sight & Sound_
-- [Tsai Ming-liang](/es/people/tsai-ming-liang): ganador del León de Oro de Venecia, llevó el _slow cinema_ al Louvre
-- [Ang Lee](/es/people/ang-lee): de Taiwán a Hollywood, dos veces Oscar al mejor director
-- [Wei Te-sheng](/es/people/wei-te-sheng-taiwanese-epic-filmmaker): rodó _Cape No. 7_ en cinco idiomas y revivió el cine nacional
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien): ganador del León de Oro de Venecia, maestro del plano secuencia que llevó el 228 a la pantalla
+- [Edward Yang](/es/people/yang-dechang): observador urbano con dos obras en el Top 100 de Sight & Sound
+- [Tsai Ming-liang](/es/people/tsai-ming-liang): ganador del León de Oro de Venecia, quien llevó el cine lento al Louvre
+- [Ang Lee](/es/people/ang-lee): de Taiwán a Hollywood, dos veces ganador del Oscar a mejor director
+- [Wei Te-sheng](/es/people/wei-te-sheng-taiwanese-epic-filmmaker): rodó «Cape No. 7» en cinco idiomas, el hombre que revivió el cine nacional
+- [Premios Golden Horse](/es/art/golden-horse-awards): de aceptar solo películas en mandarín a un premio de cine sinohablante sin restricciones de nacionalidad, las películas taiwanesas a menudo pierden en su propia casa, y la puerta nunca se cerró de nuevo
 - [El país invisible](/es/art/invisible-nation): en el documental de Ko Ching-wen, otra forma de ver Taiwán
-- [La sensibilidad de Taiwán: ¿tenemos que esperar a que los coreanos den like para atrevernos a decir que nuestras casas antiguas son bellas?](/es/culture/taiwanese-sensibility): el León de Oro de 1989 de _La ciudad de la tristeza_ y su taquilla en Taipéi ocurrieron el mismo año; el reconocimiento internacional y la resonancia local no tienen por qué ser mutuamente excluyentes
+- [Sensibilidad taiwanesa: ¿tenemos que esperar a que los coreanos den «me gusta» antes de atrevernos a decir que nuestras casas antiguas son bellas?](/es/culture/taiwanese-sensibility): la victoria de «Ciudad triste» en el León de Oro de 1989 y su taquilla en Taipéi ocurrieron el mismo año: el reconocimiento internacional y la resonancia local no tienen por qué ser mutuamente excluyentes
 
 [^1]: [Benshi de cine - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — En 1930, Taiwán tenía 41 benshi japoneses, 19 benshi taiwaneses, unos 60 en total; para ejercer había que aprobar el examen de la sección de policía de la prefectura y obtener la licencia.
 

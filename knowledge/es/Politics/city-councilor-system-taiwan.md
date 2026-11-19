@@ -1,16 +1,16 @@
 ---
-title: 'Sistema de concejales: por qué es diferente al de los legisladores, los 30 años del SNTV en la política local'
-description: 'En 2008, las elecciones legislativas cambiaron al sistema de voto doble en distritos uninominales, pero las elecciones municipales de ese mismo año siguieron utilizando el antiguo sistema SNTV de la década de 1980. Un mismo país, los mismos votantes y diferentes cargos en la misma papeleta, pero con dos reglas de juego completamente distintas. Esto no es un error, sino uno de los asuntos pendientes más grandes en la historia de la reforma del sistema electoral de Taiwán, vinculado a facciones locales, intereses partidistas y costes de implementación. Un mapa institucional que desglosa cómo funcionan ambos sistemas, por qué se reformó uno pero no el otro, y qué significa esto para los partidos pequeños y la representatividad plural.'
+title: 'Sistema de concejales: ¿cómo difiere de los legisladores y por qué las elecciones locales aún utilizan el antiguo sistema SNTV?'
+description: 'Los legisladores entran al Yuan Legislativo, con 113 escaños a nivel nacional; desde 2008 cada distrito elige solo a una persona y se emite otro voto para un partido; los concejales de condados y ciudades entran a los 22 consejos de condados y ciudades, y hasta hoy cada distrito elige varios escaños, los votantes solo pueden marcar a una persona, sin voto de partido, este antiguo sistema se llama SNTV. La enmienda constitucional de 2005 cambió a los legisladores, pero el sistema electoral de concejales no ha seguido el ritmo durante dieciocho años, detrás están atadas las facciones locales, los intereses de los partidos y el costo de la redistribución de distritos, lo que también determina que los partidos pequeños en los consejos locales tengan más facilidad para obtener escaños que en el parlamento nacional.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'concejales',
-    'sistema electoral',
+    'Concejales',
+    'Sistema electoral',
     'SNTV',
-    'sistema de voto doble en distritos uninominales',
-    'legisladores',
-    'elecciones 2026',
+    'Sistema de distrito uninominal de dos votos',
+    'Legisladores',
+    'Elecciones 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -18,18 +18,22 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:07:02.393896+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-19T03:32:29.353197+00:00'
 ---
 
-# El sistema de los concejales: por qué es diferente al de los legisladores y los 30 años del SNTV en la política local
+# Sistema de concejales: ¿en qué se diferencia del de los legisladores y por qué las elecciones locales aún usan el antiguo sistema SNTV
 
-> **Resumen en 30 segundos:** El 12 de enero de 2008, las elecciones a la séptima legislatura de Taiwán adoptaron por primera vez el «sistema de dos votos en distritos uninominales» (un voto para el candidato y otro para el partido), reduciendo los escaños del Legislativo de 225 a 113 y reescribiendo por completo la forma de elegir. Sin embargo, en las elecciones a la decimosexta legislatura de concejales municipales y de condado celebradas antes de diciembre de ese mismo año, se siguió utilizando el «sistema de voto único no transferible en distritos plurinominales» (SNTV) heredado de la década de 1980: un distrito elegía entre cinco y diez escaños, el votante solo podía marcar a una persona y los votos sobrantes no podían transferirse a otros miembros del mismo partido. En el mismo año, para el mismo grupo de votantes y en el mismo boletín electoral, existían dos cargos que operaban bajo dos reglas de juego totalmente distintas. Esto no fue un error técnico, sino el resultado de una reforma institucional que se detuvo deliberadamente a mitad de camino. Detrás de esto se encuentran las facciones locales y los dos grandes partidos vinculados a la estructura del SNTV, el alto coste de las reformas complementarias y la dificultad para alcanzar un consenso bipartidista; es, asimismo, uno de los asuntos pendientes más subestimados en el camino de 30 años de profundización democrática en Taiwán.
-
----
+> **Resumen en 30 segundos:** El 12 de enero de 2008, la séptima elección de los miembros del Legislativo de Taiwán adoptó por primera vez el «sistema de distrito uninominal con dos votos» — un voto para la persona, otro para el partido; los escaños de legisladores se redujeron de 225 a 113, y el método electoral se reescribió por completo. En la decimosexta elección de concejales de condados y ciudades de diciembre de ese mismo año, se mantuvo el «sistema de voto único no transferible en distritos plurinominales» (SNTV) heredado de la década de 1980 — cada distrito elige de cinco a diez escaños, los votantes solo pueden marcar a una persona, y los votos excedentes no pueden transferirse a compañeros de partido. En el mismo año, con los mismos votantes y en el mismo boletín electoral para dos cargos, regían dos conjuntos de reglas de juego completamente distintos. Esto no es un fallo técnico, es el resultado de una reforma institucional que se detuvo deliberadamente a medio camino. Detrás están la vinculación de las facciones locales y los dos grandes partidos a la estructura del SNTV, el alto costo de las reformas complementarias, la dificultad de alcanzar consensos interpartidistas — y también uno de los asuntos pendientes más subestimados en los 30 años de profundización democrática de Taiwán.
 
 ## El mismo año, dos sistemas distintos
 
