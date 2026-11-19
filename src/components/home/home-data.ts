@@ -147,7 +147,7 @@ const DENSITY_CELL = 30;
 const BAND_ROWS = 2;
 
 /**
- * 地圖頁的落點（src/data/map-markers.json，中文那一份）依格子加總。
+ * 地圖頁的落點（src/data/map-markers.json，中文那一份，依文章連結去重）依格子加總。
  * 圖框涵蓋本島、澎湖、綠島、蘭嶼、龜山島；金門與馬祖離本島太遠，放進同一張圖
  * 會把本島縮得看不清楚，所以另外報數字，不畫點，也不混進由北到南的長條。
  */
@@ -155,13 +155,26 @@ export function getMapDensity(): MapDensity | null {
   return once('density', () => {
     const markers = readJson<any[]>('src/data/map-markers.json');
     if (!Array.isArray(markers)) return null;
-    const zh = markers.filter(
-      (m) =>
-        m &&
-        m.lang === 'zh-TW' &&
-        typeof m.lat === 'number' &&
-        typeof m.lng === 'number',
-    );
+    // 一篇文章只算一次：同一個 link 在資料裡可能出現好幾筆（各語言版本各一筆，
+    // lang 欄位卻都標成 zh-TW），不去重的話「有地點的文章」會比全站文章數還多。
+    const seen = new Set<string>();
+    const zh = markers.filter((m) => {
+      if (
+        !m ||
+        m.lang !== 'zh-TW' ||
+        typeof m.lat !== 'number' ||
+        typeof m.lng !== 'number' ||
+        typeof m.link !== 'string'
+      )
+        return false;
+      let link = m.link;
+      try {
+        link = decodeURIComponent(m.link);
+      } catch {}
+      if (seen.has(link)) return false;
+      seen.add(link);
+      return true;
+    });
     if (zh.length === 0) return null;
 
     // 圖框：輪廓外框往西多留到澎湖，其餘留一點邊

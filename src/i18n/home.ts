@@ -202,7 +202,7 @@ export const homeUI = {
     'home.hall.thumb3.caption':
       'The three subjects in this hall hold {count} articles today.',
     'home.hall.thumb4.caption':
-      'The {count} largest listed companies, sized by market value. {top} alone takes {pct}%.',
+      'The {count} largest listed companies, sized by market value. {top} alone is {pct}% of these {count} combined.',
     'home.hall.thumb4.cta': 'Open the company landscape',
     'home.start.eyebrow': 'Start here',
     'home.people.eyebrow': 'People',
@@ -1755,7 +1755,7 @@ export const homeUI = {
     'home.hall.thumb2.cta': '打開時間軸',
     'home.hall.thumb3.caption': '這一廳的三個分類，現在一共 {count} 篇。',
     'home.hall.thumb4.caption':
-      '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了 {pct}%。',
+      '市值前 {count} 大的上市公司，面積照市值畫。{top} 一家佔了這 {count} 家合計的 {pct}%。',
     'home.hall.thumb4.cta': '打開企業版圖',
     'home.start.eyebrow': '從這裡開始',
     'home.people.eyebrow': '人',
