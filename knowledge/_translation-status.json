@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T07:29:12+08:00",
-    "zhCommitHead": "2e0b9c1d52",
+    "lastUpdated": "2026-11-20T07:47:17+08:00",
+    "zhCommitHead": "36b7cb6918",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -20,48 +20,48 @@
     "summary": {
       "en": {
         "total_zh": 1191,
-        "fresh": 1175,
-        "stale": 10,
+        "fresh": 1176,
+        "stale": 9,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 1170,
+        "fresh": 1171,
         "stale": 11,
         "metadata_stale": 5,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 8,
         "metadata_stale": 3,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1191,
-        "fresh": 1155,
-        "stale": 23,
+        "fresh": 1156,
+        "stale": 22,
         "metadata_stale": 5,
         "missing": 8,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1191,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 8,
         "metadata_stale": 2,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "hi": {
@@ -100,16 +100,16 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1183,
+        "fresh": 1184,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 1145,
-        "stale": 29,
+        "fresh": 1146,
+        "stale": 28,
         "metadata_stale": 10,
         "missing": 7,
         "orphan": 0
@@ -8997,7 +8997,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T03:57:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 8516,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -16526,7 +16539,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-19T23:40:27.178753+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 27620,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/insured-salary-ceiling.md",
@@ -16551,7 +16577,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:57:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 23860,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -22314,18 +22353,18 @@
         "en": {
           "path": "en/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "32789bc38",
-          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
-          "sourceBodyHash": "sha256:4960f809ab64a615",
-          "translatedAt": "2026-10-23T10:28:45+08:00",
+          "sourceCommitSha": "2e1fef4f3e",
+          "sourceContentHash": "sha256:cb89a17fa1adb070",
+          "sourceBodyHash": "sha256:49187558c601365f",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
           "translationLastCommit": "ea153c50",
           "translationLastModified": "2026-10-23T10:39:55+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 22037,
+          "footnoteDefs": 21,
+          "bytes": 27968,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (21→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-electricity-pricing-and-taipower.md",
@@ -36765,20 +36804,18 @@
         "vi": {
           "path": "vi/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "1ec0df23",
-          "sourceContentHash": "sha256:8647f4437b5dfe36",
-          "sourceBodyHash": "sha256:d7402441fbb7f358",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "f024e87e7a",
+          "sourceContentHash": "sha256:a50aa44ff04babb9",
+          "sourceBodyHash": "sha256:729d7ab175048563",
+          "translatedAt": "2026-11-19T23:40:39.102297+00:00",
           "translationLastCommit": "78437db0",
           "translationLastModified": "2026-11-02T16:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 63211,
+          "bytes": 64694,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-semiconductor-industry.md",
@@ -66982,7 +67019,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 11365,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/indigenous-language-policy.md",
@@ -67013,7 +67063,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 18072,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -109503,7 +109566,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/li-szu-chuan.md",
+          "translatedFrom": "People/李四川.md",
+          "sourceCommitSha": "bcddba205e",
+          "sourceContentHash": "sha256:e59170d02fd5cb4e",
+          "sourceBodyHash": "sha256:4a3467792107ad07",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 18177,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/li-szu-chuan.md",
@@ -123408,8 +123484,8 @@
           "sourceContentHash": "sha256:8480ea87d83796bf",
           "sourceBodyHash": "sha256:e0560a69303d3715",
           "translatedAt": "2026-11-19T21:45:28.694029+00:00",
-          "translationLastCommit": "e042c5c7",
-          "translationLastModified": "2026-09-09T14:49:30+08:00",
+          "translationLastCommit": "36b7cb69",
+          "translationLastModified": "2026-11-20T07:29:12+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "bytes": 66323,
@@ -234595,20 +234671,18 @@
         "de": {
           "path": "de/Culture/archipelago-thinking.md",
           "translatedFrom": "Culture/群島思維.md",
-          "sourceCommitSha": "0c0b16686",
-          "sourceContentHash": "sha256:69f8f034dcafc5a6",
-          "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
-          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:da7a8eb43a26882e",
+          "sourceBodyHash": "sha256:3ca31f4ebc8ab851",
+          "translatedAt": "2026-11-19T23:34:49.920030+00:00",
           "translationLastCommit": "d9fb4ef6",
           "translationLastModified": "2026-10-10T23:28:21+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 40510,
+          "bytes": 41671,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
