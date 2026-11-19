@@ -1,0 +1,141 @@
+{
+  "asOf": "2026-11-19",
+  "generatedBy": "scripts/tools/about-growth-data.mjs",
+  "ref": "HEAD@0c577619b1",
+  "firstCommit": "2026-03-17T15:55:37+08:00",
+  "notes": {
+    "dayBoundary": "台北時間（+0800）當天 23:59:59",
+    "zhArticles": "knowledge/<14 分類>/*.md，排除 _ 開頭，當天最後一個 commit 的檔案樹",
+    "gitAuthors": "作者名（套 .mailmap）第一次出現日累計，不含機器帳號；git 作者不等於人",
+    "merges": "當天的 merge commit 數",
+    "stars": "GitHub stargazers API 的 starred_at 依日累計；只含現在仍按著星的人"
+  },
+  "daily": [
+    {
+      "date": "2026-03-17",
+      "zhArticles": 50,
+      "gitAuthors": 2,
+      "merges": 2,
+      "stars": 4
+    },
+    {
+      "date": "2026-03-18",
+      "zhArticles": 144,
+      "gitAuthors": 10,
+      "merges": 10,
+      "stars": 317
+    },
+    {
+      "date": "2026-03-19",
+      "zhArticles": 288,
+      "gitAuthors": 18,
+      "merges": 23,
+      "stars": 563
+    },
+    {
+      "date": "2026-03-20",
+      "zhArticles": 342,
+      "gitAuthors": 20,
+      "merges": 5,
+      "stars": 641
+    },
+    {
+      "date": "2026-03-21",
+      "zhArticles": 350,
+      "gitAuthors": 24,
+      "merges": 1,
+      "stars": 675
+    },
+    {
+      "date": "2026-03-22",
+      "zhArticles": 372,
+      "gitAuthors": 25,
+      "merges": 5,
+      "stars": 702
+    },
+    {
+      "date": "2026-03-23",
+      "zhArticles": 385,
+      "gitAuthors": 32,
+      "merges": 3,
+      "stars": 763
+    },
+    {
+      "date": "2026-03-24",
+      "zhArticles": 402,
+      "gitAuthors": 37,
+      "merges": 13,
+      "stars": 825
+    },
+    {
+      "date": "2026-03-25",
+      "zhArticles": 407,
+      "gitAuthors": 39,
+      "merges": 12,
+      "stars": 843
+    },
+    {
+      "date": "2026-03-26",
+      "zhArticles": 408,
+      "gitAuthors": 40,
+      "merges": 5,
+      "stars": 862
+    },
+    {
+      "date": "2026-03-27",
+      "zhArticles": 415,
+      "gitAuthors": 42,
+      "merges": 6,
+      "stars": 866
+    },
+    {
+      "date": "2026-03-28",
+      "zhArticles": 413,
+      "gitAuthors": 44,
+      "merges": 1,
+      "stars": 873
+    },
+    {
+      "date": "2026-03-29",
+      "zhArticles": 419,
+      "gitAuthors": 45,
+      "merges": 0,
+      "stars": 874
+    },
+    {
+      "date": "2026-03-30",
+      "zhArticles": 419,
+      "gitAuthors": 45,
+      "merges": 2,
+      "stars": 877
+    },
+    {
+      "date": "2026-03-31",
+      "zhArticles": 426,
+      "gitAuthors": 45,
+      "merges": 0,
+      "stars": 880
+    }
+  ],
+  "stars": {
+    "fetchedAt": "2026-11-19T09:55:34.273Z",
+    "total": 1250,
+    "daily": {
+      "2026-03-17": 4,
+      "2026-03-18": 317,
+      "2026-03-19": 563,
+      "2026-03-20": 641,
+      "2026-03-21": 675,
+      "2026-03-22": 702,
+      "2026-03-23": 763,
+      "2026-03-24": 825,
+      "2026-03-25": 843,
+      "2026-03-26": 862,
+      "2026-03-27": 866,
+      "2026-03-28": 873,
+      "2026-03-29": 874,
+      "2026-03-30": 877,
+      "2026-03-31": 880
+    }
+  }
+}
