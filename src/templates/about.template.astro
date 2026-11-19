@@ -125,6 +125,29 @@ const ctaBody = (_ctaParts.length > 1 ? _ctaParts.slice(1) : _ctaParts)
   .join(' ')
   .trim();
 
+// 個人支持者（2026-11-19 哲宇：名字要露在外面）。收合前就列出所有「不匿名」的人，
+// 順序跟展開後的 SupporterGrid 一致（依 tier_config 的等級順序，同一級照資料檔順序）；
+// 匿名的只在外面說一句「另有 N 位」，完整名單（含匿名與留言）在展開後。
+// 判斷一律看 anonymous 欄位，不比對名字。
+type _Sup = {
+  display_name: string;
+  anonymous: boolean;
+  tier: { id: string; emoji: string; label: string; label_en: string } | null;
+};
+const _supData = supportersData as {
+  tier_config?: Array<{ id: string }>;
+  supporters?: _Sup[];
+};
+const _supAll = _supData.supporters || [];
+const _tierOrder = (_supData.tier_config || []).map((c) => c.id);
+const namedSupporters = _tierOrder
+  .flatMap((id) => _supAll.filter((x) => x.tier?.id === id))
+  .filter((x) => !x.anonymous && x.display_name);
+const anonSupporterCount = _supAll.filter((x) => x.anonymous).length;
+const supInitial = (name: string) => Array.from(name.trim())[0] || '';
+const supTierLabel = (x: _Sup) =>
+  x.tier ? (lang === 'zh-TW' ? x.tier.label : x.tier.label_en) : '';
+
 const supporterCount =
   (supportersData as { supporter_count?: number }).supporter_count || 0;
 
@@ -1257,7 +1280,45 @@ const today = new Date().toISOString().slice(0, 10);
               {t('about.sponsors.tier.individual.perks')}
             </p>
             {
-              /* 名單預設收合（內容仍在原始碼裡）；沒有名單資料時照舊直接顯示元件的空狀態 */
+              /* 具名支持者直接列在外面；匿名的只說人數 */
+              (namedSupporters.length > 0 || anonSupporterCount > 0) && (
+                <div class="sup-names">
+                  {namedSupporters.length > 0 && (
+                    <ul
+                      class="sup-names__list"
+                      aria-label={s('about.sponsors.supporters.named')}
+                    >
+                      {namedSupporters.map((x) => (
+                        <li class="sup-names__item">
+                          <span class="sup-names__initial" aria-hidden="true">
+                            {supInitial(x.display_name)}
+                          </span>
+                          <span class="sup-names__name" dir="auto">
+                            {x.display_name}
+                          </span>
+                          {x.tier && (
+                            <span class="sup-names__tier" dir="auto">
+                              {x.tier.emoji} {supTierLabel(x)}
+                            </span>
+                          )}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  {anonSupporterCount > 0 && (
+                    <p class="sup-names__anon" dir="auto">
+                      {anonSupporterCount === 1
+                        ? s('about.sponsors.supporters.anon.one')
+                        : s('about.sponsors.supporters.anon', {
+                            count: anonSupporterCount,
+                          })}
+                    </p>
+                  )}
+                </div>
+              )
+            }
+            {
+              /* 完整名單（含匿名與留言）預設收合，內容仍在原始碼裡；沒有名單資料時照舊直接顯示元件的空狀態 */
               supporterCount > 0 ? (
                 <details class="supporters-more">
                   <summary
@@ -3845,6 +3906,66 @@ const today = new Date().toISOString().slice(0, 10);
     grid-template-columns: minmax(0, 1fr);
     grid-template-rows: none;
   }
+  /* 具名支持者：名牌一排，後面接一句匿名人數 */
+  .sup-names {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.625rem 0.75rem;
+    margin-block-start: var(--space-4);
+  }
+  .sup-names__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .sup-names__item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    min-block-size: 44px;
+    padding-block: 0.3125rem;
+    padding-inline: 0.3125rem 1rem;
+    border: 1px solid var(--ab-rule);
+    border-radius: 999px;
+    background: var(--ab-surface);
+  }
+  .sup-names__initial {
+    display: grid;
+    place-items: center;
+    inline-size: 2.125rem;
+    block-size: 2.125rem;
+    border-radius: 50%;
+    background: var(--ab-brand-soft);
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--ab-heading);
+  }
+  .sup-names__name {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--color-ink);
+    unicode-bidi: isolate;
+  }
+  .sup-names__tier {
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    line-height: 1.3;
+    color: var(--color-ink-soft);
+    unicode-bidi: isolate;
+  }
+  .sup-names__anon {
+    margin: 0;
+    padding-inline-start: 0.25rem;
+    font-size: 0.9375rem;
+    color: var(--color-ink-soft);
+  }
   .supporters-more {
     margin-top: var(--ab-gap-s);
   }
@@ -4369,6 +4490,61 @@ const today = new Date().toISOString().slice(0, 10);
     .organism-section
     .guide-card-cta {
     background: none;
+  }
+  /* 個人支持者完整名單（SupporterGrid，共用元件、樣式寫死淺色）：
+     關於頁的深色模式在這裡蓋掉卡片與留言泡泡的白底，元件本身不動 */
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card[data-anonymous='true']) {
+    border-color: var(--ab-rule);
+    border-inline-start-color: var(--tier-accent, var(--ab-rule));
+    background: var(--color-surface);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-bubble),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card[data-anonymous='true'] .supporter-bubble) {
+    background: color-mix(in srgb, var(--color-ink) 7%, transparent);
+    color: var(--color-ink-soft);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-name),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-tier-heading) {
+    color: var(--color-ink);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(
+      :is(.supporter-tier-legend, .supporter-legend-desc, .supporter-tier-count)
+    ) {
+    color: var(--color-ink-soft);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-avatar) {
+    border-color: var(--ab-rule);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-monthly-badge) {
+    border-color: var(--color-surface);
   }
   /* dark-polish.css 的規則還指著舊標籤（h4）；標題階層修正後補在這裡 */
   :global(:root[data-theme='dark']) .about-page .naming-card h3,

@@ -568,6 +568,9 @@ export const aboutUI = {
       'More: three facts, the signs-of-life table, the coral reef',
     'about.sponsors.supporters.summary':
       'See the individual supporters ({count})',
+    'about.sponsors.supporters.named': 'Named supporters',
+    'about.sponsors.supporters.anon': 'and {count} anonymous supporters',
+    'about.sponsors.supporters.anon.one': 'and 1 anonymous supporter',
     // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
     // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
     'about.why.title': 'Why Taiwan.md?',
@@ -5658,6 +5661,9 @@ export const aboutUI = {
     'about.organism.semiont.cta': '走進生命體頁',
     'about.organism.more.summary': '展開：三個事實、生命特徵對照表、珊瑚礁',
     'about.sponsors.supporters.summary': '看個人支持者名單（{count} 位）',
+    'about.sponsors.supporters.named': '具名支持者',
+    'about.sponsors.supporters.anon': '另有 {count} 位匿名支持者',
+    'about.sponsors.supporters.anon.one': '另有 1 位匿名支持者',
     // 「為什麼需要 Taiwan.md？」四張價值卡，自 home.ts（home.features.*）原樣抄來；
     // complete.desc 的寫死「12+」換成 {domains}，由分類設定算出。
     'about.why.title': '為什麼需要 Taiwan.md？',
