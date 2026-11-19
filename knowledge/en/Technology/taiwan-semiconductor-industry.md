@@ -28,15 +28,19 @@ imageCredit: '4300streetcar'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Silicon_vs_GaN_30W_USB-C_chargers.jpg'
 sporeLinks:
-  [
-    "{'id': 87, 'platform': 'threads', 'date': '2026-05-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DYvqEURgXm-'}",
-    "{'id': 88, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058735515021783190'}",
-  ]
+  - id: 87
+    platform: 'threads'
+    date: '2026-05-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYvqEURgXm-'
+  - id: 88
+    platform: 'x'
+    date: '2026-05-25'
+    url: 'https://x.com/taiwandotmd/status/2058735515021783190'
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8647f4437b5dfe36'
-sourceBodyHash: 'sha256:d7402441fbb7f358'
-translatedAt: '2026-08-03T15:01:44.482093+00:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:a50aa44ff04babb9'
+sourceBodyHash: 'sha256:729d7ab175048563'
+translatedAt: '2026-11-19T09:30:18.587116+00:00'
 ---
 
 # Semiconductor Industry: A 50-Year Materials Revolution from RCA Technology Transfer to GaN and Quantum Packaging
@@ -246,34 +250,36 @@ Established in 1980, Hsinchu Science Park has accumulated over 500 companies and
 
 What about competitors? South Korea's Samsung's vertical integration strategy invested $230 billion USD between 2022–2026, yet its advanced process yields still lag behind TSMC[^4]. Intel has been stuck at 10nm for years and proposed IDM 2.0 in 2021 to run both design and foundry, but by 2025, its foundry business has yet to secure major customers—most ironically, some of Intel's own high-end chips are now being manufactured by TSMC.
 
-## The Quantum Position Remains Vacant
+## The Quantum Slot Remains Empty
 
-A Nokia 3310 charger outputs 4.56 watts; a fast charger in 2025 delivers 240 watts. That is a 52-fold difference. Silicon took 30 years to traverse this path, while Gallium Nitride (GaN) completed it in just five.
+A Nokia 3310 charger delivers 4.56 watts; a fast charger in 2025 delivers 240 watts. That is a 52-fold difference. Silicon took 30 years to travel this path, while Gallium Nitride (GaN) completed it in just five.
 
-In the quantum laboratories of Academia Sinica, superconducting quantum chips must operate at 15 millikelvin (approximately -273°C). Using TSMC's 28nm process, ITRI has developed a control chip that compresses the "control instrumentation volume" required for these ultra-low temperatures from the size of an entire building into a small box. Taiwan's semiconductor capabilities are incrementally pushing the boundaries of quantum computing.
+In the quantum laboratories of Academia Sinica, superconducting quantum chips must operate at 15 millikelvins (approximately -273°C). Using TSMC's 28nm process, the Industrial Technology Research Institute (ITRI) has developed a control chip that compresses the "control instrument volume" required for these ultra-low temperatures from an entire building down to a small box. Taiwan's semiconductor capabilities are inching forward, steadily pushing the boundaries of quantum computing.
 
-But no one can say exactly where this boundary lies. Coherence times for qubits range from 15 microseconds to 530 microseconds, and this is only the beginning. The 19 engineers sent by RCA 50 years ago might not have known that their work in 1973 would crystallize into the 2nm technology of 2025.
+But no one can say exactly where that boundary lies. Quantum bit (qubit) coherence times range from 15 microseconds to 530 microseconds—and this is only the beginning. The 19 engineers sent out by RCA 50 years ago might not have known that their work in 1973 would crystallize into the 2nm technology of 2025.
 
-The "Protector of the Nation" (the semiconductor industry) has dominated the present through 50 years of foundry expertise. For the next 50 years, Taiwan has yet to secure its position in the era of quantum foundry services.
+The "Protector of the Nation" (TSMC) has dominated the present by relying on 50 years of foundry experience. For the next 50 years, Taiwan has yet to secure its position in the quantum era's foundry market.
 
-> ✦ Jensen Huang's Blackwell powering the cloud inference above your head; GlobalWafers' SiC wafers generating heat in the EV charging pile at your doorstep; the first ALD thin film produced by Suntora in Finland in 1974 sealing the gate dielectric in your smartphone chip—the 50-year history of semiconductors, where entire material lineages climb step-by-step along energy bandgap physics, does not belong to TSMC alone. Where the next stage lies, physics will tell us; but whether or not to climb is Taiwan's choice.
+> ✦ Jensen Huang's Blackwell powers the cloud inference above your head; GlobalWafers' SiC wafers generate heat inside the EV charging pile at your doorstep; Suntora's first ALD thin film produced in Finland in 1974 seals the gate dielectric layer in your smartphone chip—semiconductors have always been a 50-year climb up the material spectrum along energy gap physics, and it does not belong to TSMC alone. Physics will tell us where the next stage lies, but whether or not to make the climb is Taiwan's choice.
 
 ---
 
 **Further Reading**:
 
-- [Taiwan Enterprises: TSMC](/en/economy/tsmc) — Corporate governance, financial structure, and capital expenditure scale of the "Protector of the Nation."
-- [Taiwan Enterprises: MediaTek](/en/economy/mediatek) — How the IC design leader secures its position in smartphone chips and AI edge computing.
-  [Taiwan Enterprises: ASE Semiconductor](/en/economy/taiwan-enterprise-ase-semiconductor) — World leader in OSAT, the back-end process ecosystem beyond CoWoS.
-- [Mountain Makers: A Century's Gamble](/en/art/mountain-makers-tsmc-documentary) — Chiu Ju-chen's 2025 documentary; five years of interviews with over 80 semiconductor veterans, visiting CHIPS Act investment hubs in Purdue, Wisconsin, and Michigan in 2026.
-- [Wu Da-you](/en/people/tai-yu-wu) — While Taiwan fought for semiconductors in the 1980s, he served as President of Academia Sinica, insisting on the importance of basic science and laying the foundation for Taiwan's research system.
-- [Huang Chung-jen](/en/people/frank-huang-psmc) — Founder of VISium / VIS.\* (Note: refers to VPEC/VPEC-related entities) and VIS Corp; the path of building his own fabs while relying on others' process licenses—how market share dropped from 23.2% to 6.3%, a chapter of this industry least often discussed.
-- [Taiwan Robotics Industry](/en/technology/taiwan-robotics-industry) — Why an island that leads the semiconductor world is playing catch-up in the robotics era? Examining industrial gaps through the unveiling of NCAIR.
-- [Taiwan Stock and Capital Markets](/en/economy/taiwan-stock-market) — How the entire supply chain ecosystem, which supports Taiwan's 2026 identity as the world's 6th largest stock market, is presented in the capital markets.
-- [Taiwan Tungsten Supply Chain](/en/technology/taiwan-tungsten-supply-chain) — Tungsten hexafluoride fills contact windows and 3D NAND features; despite having no tungsten mines, Taiwan stands in the midstream of this material source through recycling and extraction.
-- [Taiwan AI Academy](/en/technology/taiwan-ai-academy) — How the 10,000 AI engineers trained by AIA over eight years are returning to the existing semiconductor ICT chain to strengthen Taiwan's software capabilities.
-- [Computex: Two of the three major international computer shows were captured; the remaining one grows in Taipei](/en/technology/computex) — TSMC's CoWoS and advanced processes shake hands with global AI giants every late May at this 45-year-old Taipei computer show.
-- [Taiwan Science Parks](/en/technology/science-park-development) — Hsinchu, Southern, and Central Science Parks: the physical carriers of semiconductor clusters and the geographic center of the "Silicon Shield."
+- [Taiwan Industry Special](/industry/) — Mapping industrial structures through official statistics: 70 years of exports and GDP, science parks, factories by county/city, top ten market caps over the years, plus six perspectives on public debates.
+- [Supply Chain Map](/industry/supply-chain-map/) — Examining three chains—semiconductors, AI servers, and tungsten—link by link to see which companies are in Taiwan and which links rely on foreign sources.
+- [Taiwanese Enterprise: TSMC](/en/economy/tsmc) — Corporate governance, financial structure, and capital expenditure scale of the "Protector of the Nation."
+- [Taiwanese Enterprise: MediaTek](/en/economy/mediatek) — How the IC design leader secures its position in smartphone chips and AI edge computing.
+- [Taiwanese Enterprise: ASE Group](/en/economy/taiwan-enterprise-ase-semiconductor) — The world leader in OSAT (Outsourced Semiconductor Assembly and Test), and the back-end process ecosystem beyond CoWoS.
+- [The Makers: A Century's Bet](/en/art/mountain-makers-tsmc-documentary) — Chang Chu-chen's 2025 documentary; featuring interviews with over 80 semiconductor veterans over five years, visiting CHIPS Act investment hubs in Purdue, Wisconsin, and Michigan in 2026.
+- [Wu Ta-you](/en/people/tai-yu-wu) — While Taiwan was fighting for its semiconductor foothold in the 1980s, he served as President of Academia Sinica, insisting on the importance of basic science and laying the foundation for Taiwan's research system.
+- [Huang Tsung-jen](/en/people/frank-huang-psmc) — Founder of Powerchip and PSMC; his path of building own fabs while relying on others' process licenses for Taiwan's DRAM—a period where market share dropped from 23.2% to 6.3%, one of the least discussed chapters in this industry.
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — Why an island that is number one in the semiconductor world is a "remedial student" in the robotics era? Looking at industrial gaps through the unveiling of NCAIR.
+- [Taiwan's Stock and Capital Markets](/en/economy/taiwan-stock-market) — How the entire supply chain ecosystem supporting Taiwan's status as the world's 6th largest stock market in 2026 is presented in the capital markets.
+- [Taiwan's Tungsten Supply Chain](/en/technology/taiwan-tungsten-supply-chain) — Tungsten hexafluoride fills contact windows and 3D NAND feature lines; despite having no tungsten mines, Taiwan has reached the midstream of this material source through recycling and refining.
+- [Taiwan AI Academy](/en/technology/taiwan-ai-academy) — How the thousands of AI engineers trained by AIA over eight years return to the existing semiconductor/ICT chain to strengthen Taiwan's software side.
+- [Computex: Of the three major international computer shows, two are elsewhere, and the remaining one grows in Taipei](/en/technology/computex) — TSMC's CoWoS and advanced processes shake hands with global AI giants every year at the end of May at this 45-year-old Taipei computer show.
+- [Taiwan Science Parks](/en/technology/science-park-development) — The Hsinchu, Southern, and Central Taiwan Science Parks: the physical carriers of semiconductor clusters and the geographic center of the "Silicon Shield."
 
 ## Image Sources
 

@@ -1,6 +1,6 @@
 ---
 title: 'What Are the Nine-in-One Elections? Nine Positions, Four Upgrades, Thirty Years of Local Self-Governance Evolution'
-description: 'The term "Nine-in-One" first saw widespread use in 2014, reflecting four waves of urban restructuring (1967 Taipei/Kaohsiung upgrades, 1979 Kaohsiung upgrade, 2010 Five Special Municipalities upgrade, 2014 Taoyuan upgrade) and three institutional milestones (1994 first direct election of special municipality mayors, 1999 Local Government Act consolidation, 2014 creation of mountain indigenous district chiefs). Same-day voting for nine positions — special municipality mayors, special municipality councilors, county/city mayors, county/city councilors, township/city mayors, township/city council representatives, mountain indigenous district chiefs, mountain indigenous district council representatives, and village/neighborhood chiefs — is the cumulative crystallization of Taiwan''s thirty years of local self-governance evolution.'
+description: "The Nine-in-One Elections are when nine types of local public offices are voted on the same day: special municipality mayors, special municipality councilors, county/city mayors, county/city councilors, township/city mayors, township/city citizen representatives, mountain indigenous district chiefs, district representatives, and village chiefs — all with four-year terms. The 2026 voting day is Saturday, November 28, with polls opening at 8:00 AM; voting hours are subject to Central Election Commission announcement. This framework only took shape in 2014, the result of thirty years of accumulation from the Taipei-Kaohsiung elevation, the five special municipalities, Taoyuan's upgrade, and the direct election of special municipality mayors."
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Special Municipality Mayors',
     'County/City Mayors',
     'Councilors',
-    'Village/Neighborhood Chiefs',
+    'Village Chiefs',
     'Local Government Act',
     '2026 Election',
   ]
@@ -20,11 +20,17 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-03T20:21:46+08:00'
+translatedAt: '2026-11-19T08:15:47.037344+00:00'
 ---
 
 # What Are the Nine-in-One Elections?

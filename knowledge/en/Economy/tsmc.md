@@ -19,9 +19,14 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
 factCorrectionLog:
-  [
-    "{'date': datetime.date(2026, 5, 9), 'triggered_by': '讀者社群指證', 'corrections': ['1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)', 'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)', '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)']}",
-  ]
+  - date: 2026-05-09
+    triggered_by: '讀者社群指證'
+    corrections:
+      [
+        '1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)',
+        'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)',
+        '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)',
+      ]
 lastHumanReview: false
 readingTime: 14
 researchReport: 'reports/research/2026-05/台灣企業：台積電.md'
@@ -30,15 +35,21 @@ imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 sporeLinks:
-  [
-    "{'id': 68, 'platform': 'threads', 'date': '2026-05-09', 'url': 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'}",
-    "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
-  ]
+  - id: 68
+    platform: 'threads'
+    date: '2026-05-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'
+  - id: 69
+    platform: 'x'
+    date: '2026-05-09'
+    url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-08-04T00:06:11+08:00'
+translatedAt: '2026-11-19T08:04:39.112628+00:00'
 ---
 
 # Taiwan Enterprises: TSMC
@@ -236,13 +247,15 @@ No one planned a transition of this magnitude. Yet, in the greatest drought in 5
 
 ## Further Reading
 
-- [Taiwan Enterprises: MediaTek](/en/economy/mediatek) — The world's third-largest mobile chip designer, a local representative of the fabless model, and the complementary twin to TSMC.
-- [Taiwan Enterprises: ASE Group](/en/economy/taiwan-enterprise-ase-semiconductor) — The world's largest OSAT (Outsourced Semiconductor Assembly and Test) provider, a critical downstream node in the same supply chain as TSTSMC.
-- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — TSMC's market cap accounts for approximately 35% of Taiwan's total market cap; to understand Taiwan's stocks, one must first understand TSMC.
-- [Taiwan Industrial Transformation](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is a concrete example of Taiwan's transformation from an OEM island to a technology island.
-- [Shi Zhen-rong](/en/people/stan-shih) — A director at TSMC for 21 years and the Acer founder whose largest wealth was tied to TSMC stock, yet he is the author of the "U-curve" that urged Taiwan not to rely solely on OEM.
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The 50-year materials revolution from RCA technology transfer to GaN and quantum packaging; the entire materials science battlefield where TSMC resides.
-- [Ho Chun-ren](/en/people/frank-huang-psmc) — Founder of VISium/VPEC; another path on the same island: also doing wafers, once facing massive debt and delisting, only to climb back into the stock market nine years later.
+- [Taiwan Industry Special Feature](/industry/) — Using official statistics to map industrial structures: 70 years of exports and GDP, science parks, factories by city/county, top ten market caps through the years, plus six perspectives on public debates.
+- [Supply Chain Map](/industry/supply-chain-map/) — Semiconductor, AI server, and tungsten chains: a step-by-step look at which companies are in Taiwan and which links rely on foreign sources.
+- [Taiwanese Companies: MediaTek](/en/economy/mediatek) — The world's third-largest mobile chip designer and a local representative of the fabless model; a complementary "twin" to TSMC.
+- [Taiwanese Companies: ASE Group](/en/economy/taiwan-enterprise-ase-semiconductor) — The world's largest OSAT (outsourced semiconductor assembly and test) provider and a critical downstream node in the same supply chain as TSMC.
+- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — TSMC accounts for approximately 35% of the total market capitalization of the Taiwan Stock Exchange; to understand the Taiwan stock market, one must first understand TSMC.
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC serves as a concrete case study of Taiwan's transition from an "OEM island" to a "tech island."
+- [Shi Chen-rong](/en/people/stan-shih) — A director at TSMC for 21 years and the Acer founder with the largest personal fortune tied up in TSMC stock; he is also the author of the "smile curve" that urged Taiwan not to rely solely on OEM manufacturing.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — From RCA technology transfers to Gallium Nitride (GaN) and quantum packaging: a 50-year materials revolution and the entire materials science battlefield where TSMC operates.
+- [Huang Chung-jen](/en/people/frank-huang-psmc) — Founder of PSMC/VIS; another path on the same island: also manufacturing wafers, once delisted due to NT$100 billion in debt, only to climb back into the stock market nine years later.
 
 ## Image Sources
 
