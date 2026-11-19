@@ -27,11 +27,13 @@ imageAlt: 'Imagem de satélite com vista aérea da ilha principal de Taiwan, ond
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: '756ab2957'
-sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:db3262e3722e67ea'
 sourceBodyHash: 'sha256:4da0398520125992'
-translatedAt: '2026-10-23T16:25:36.443216+00:00'
+translatedAt: '2026-11-19T17:49:20.485550+00:00'
 ---
 
 # Taiwan em números, 22 condados e cidades: a diferença de 151 vezes entre o mais lotado e o mais vazio; a proporção de idosos e crianças passando de 1 para 1 para quase 3 para 1
@@ -221,11 +223,12 @@ Reconhecer que Taiwan é tão heterogênea internamente serve para enxergar clar
 
 ## Leitura complementar
 
-- [Taipei](/pt/geography/taipei-city) — A cidade mais densamente povoada de Taiwan (8.975 pessoas por km²) e com a maior proporção de pessoas com 65 anos ou mais (24,18%); é o mesmo protagonista das duas tabelas sobre densidade e envelhecimento deste artigo.
-- [Condado de Taitung](/pt/geography/taitung-county) — O extremo oposto, sendo a área menos povoada de Taiwan (59 pessoas por km²); seus 3.515 km² representam o terceiro maior território do país, incluindo as ilhas de Green Island e Lanyu.
-- [Condado de Chiayi](/pt/geography/chiayi-county) — Possui o índice de envelhecimento mais alto de Taiwan (291,69), o que significa que para cada criança existem quase três idosos; sua proporção de pessoas com 65 anos ou mais (24,11%) é a segunda maior, atrás apenas de Taipei.
-- [Condado de Hsinchu](/pt/geography/hsinchu-county) — A região mais jovem de Taiwan, com uma taxa de envelhecimento de 15,08%; é o território onde o Parque Científico de Hsinchu (Hsinchu Science Park) impulsiona a estrutura demográfica para um perfil mais jovem.
-- [A crise da baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — O outro lado do retrato: o número de recém-nascidos caiu abaixo de 110.000, revelando a face sombria da demografia na ilha.
+- [Preços de imóveis, empréstimos hipotecários e o programa "Jovem de Segurança Habitacional" em Taiwan](/housing/) — Página especial: apresenta as taxas de carga de hipoteca e a relação preço da habitação/rendimento dos 22 condados e cidades no mesmo gráfico, incluindo os quatro níveis de padrões do Ministério do Interior e a data de corte dos dados.
+- [Taipei](/pt/geography/taipei-city) — A cidade mais densamente povoada de Taiwan (8.975 pessoas por km²) e com a maior proporção de pessoas com 65 anos ou mais (24,18%), sendo o mesmo protagonista das duas tabelas sobre densidade e envelhecimento neste artigo.
+- [Condado de Taitung](/pt/geography/taitung-county) — O extremo oposto, a área menos povoada de Taiwan (59 pessoas por km²); com 3.515 km², é o terceiro maior condado do país, incluindo as ilhas de Green Island e Lanyu.
+- [Condado de Chiayi](/pt/geography/chiayi-county) — Possui o índice de envelhecimento mais alto de Taiwan (291,69), onde cada criança corresponde a quase três idosos; sua proporção de pessoas com 65 anos ou mais (24,11%) é a segunda maior, atrás apenas de Taipei.
+- [Condado de Hsinchu](/pt/geography/hsinchu-county) — A região mais jovem de Taiwan, com uma taxa de envelhecimento de 15,08%, impulsionada pelo Parque Científico de Hsinchu que atrai uma população mais jovem para este território.
+- [A crise da baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — O outro lado deste "retrato": o número de recém-nascidos caiu abaixo de 110 mil, revelando a face sombria da demografia na ilha.
 
 ## Fontes das imagens
 
