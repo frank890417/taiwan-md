@@ -1,19 +1,19 @@
 ---
-title: 'Chim bách thanh xanh Đài Loan: Băng đảng màu xanh giữa rừng rậm đô thị và cuộc chiến bảo vệ gen kéo dài hơn một thế kỷ'
-description: 'Giành ngôi vị quốc điểu với 180.000 phiếu bầu vào năm 2007, viên ngọc quý của núi rừng này thực chất là một gia tộc mạnh mẽ với khả năng "đánh hội đồng". Đây là loài đặc hữu của Đài Loan; từ mẫu vật đầu tiên được Swinhoe thu thập vào năm 1862 cho đến việc tranh giành thức ăn từ thức ăn cho mèo tại các công viên đô thị ngày nay, chúng tồn tại nhờ hệ thống hỗ trợ quanh tổ lên tới 97% để giành chiến thắng trong cạnh tranh. Trong hơn một trăm năm qua, chúng cũng luôn giữ vững ranh giới di truyền với loài bách thanh xanh mỏ đỏ Trung Quốc. Đây là một câu chuyện về hòn đảo xoay quanh sự sinh tồn, tính gắn kết gia đình, cuộc chiến bảo vệ gen và trí tuệ cùng chung sống giữa người và chim.'
+title: 'Chim bách thanh Đài Loan: Băng đảng màu xanh giữa rừng đô thị và cuộc chiến bảo vệ gen kéo dài cả thế kỷ'
+description: 'Chim bách thanh Đài Loan là loài đặc hữu của Đài Loan, từng giành chiến thắng trong cuộc bình chọn quốc điểu vào năm 2007. Quần thể của chúng đang ở mức ổn định, được Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN) xếp vào nhóm "Chưa nguy cấp", và tại Đài Loan, chúng được xếp vào nhóm loài cần bảo tồn cấp độ III chủ yếu vì là loài đặc hữu. Những năm gần đây, số lượng loài này còn gia tăng tại các công viên đô thị và vùng thấp. Chúng sống theo đàn, với 97% các nhóm gia đình có sự hỗ trợ của các thành viên khác trong việc nuôi dưỡng chim non, đồng thời sẽ cùng nhau tấn công những kẻ xâm nhập; mối đe dọa đáng lo ngại nhất là sự lai tạp và ô nhiễm di truyền do loài bách thanh mỏ đỏ ngoại lai gây ra.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
     'Loài đặc hữu',
-    'Loài được bảo tồn',
-    'Chim',
+    'Loài cần bảo tồn',
+    'Các loài chim',
     'Sinh thái',
     'Trường vĩ sơn nương',
     'Hợp tác sinh sản',
-    'Tộc Tào',
+    'Tộc Tsou',
     'Tộc Bunun',
-    'Bách thanh xanh mỏ đỏ',
+    'Bách thanh mỏ đỏ',
     'Khoa học công dân',
     'Biến đổi khí hậu',
   ]
@@ -23,11 +23,17 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T02:47:25.116549+00:00'
+translatedAt: '2026-11-19T04:42:20.106045+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:**

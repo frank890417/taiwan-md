@@ -28,17 +28,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |-
+  whats_excluded: |
     - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
     - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
     - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:925c0f0fa8d0ba22'
-sourceBodyHash: 'sha256:e06cb9dbec5bce60'
-translatedAt: '2026-10-13T09:52:34.870702+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:944961172baec589'
+sourceBodyHash: 'sha256:a58d373686bc006c'
+translatedAt: '2026-11-19T03:33:37.341230+00:00'
 ---
 
 > **Tổng quan 30 giây:** Người Đài Loan dùng "lớp" (年級) để gọi chính mình, lấy chữ số hàng chục của năm sinh Dân quốc: lớp năm là Dân quốc 50 đến 59 (1961–1970), tiếp tục đến lớp chín (2001–2010). Từ "thế hệ dâu tây" đã bị chỉ trích ba mươi năm, khi lần đầu được in năm 1993, nó chỉ những bạn lúc đó hai mươi tuổi, ngày nay đã năm mươi tuổi, những bạn lớp năm[^1]; sau đó tiếp tục lan xuống lớp bảy, tám, chín. Những người bị chỉ trích thay đổi rất nhiều lần, nhưng nhãn dán không thay đổi một chữ. Thứ thực sự di chuyển giữa năm thế hệ là chiếc thang máy "nỗ lực sẽ được đền đáp" dưới chân: nó trở nên chậm chạp vào khoảng năm 2002, khi thực tế lương bị tách khỏi năng suất[^2]; đồng thời cánh cửa vào bị giá nhà kéo cao, tỷ lệ giá nhà so với thu nhập Đài Bắc từ 6,4 lần năm 2004 tăng lên 15,41 lần năm 2025[^3]; rồi nó bị nứt thành hai nhánh, nhánh chỉ dựa vào lương gần như dừng lại, nhánh dựa vào tiền trang bị từ cha mẹ vẫn còn hoạt động. Bài viết này muốn làm điều đó, là tách nhãn dán này ra để xem xét.
@@ -172,23 +174,26 @@ _Ngày 30 tháng 3 năm 2014, cuộc diễu hành phản đối dịch vụ đô
 > 📝 **Ghi chú của người quản lý**
 > Sự kết hợp "gần gũi văn hóa với Trung Quốc, từ chối chính trị Trung Quốc" có vẻ mâu thuẫn, thực ra chính là nơi Taiwan.md không nên kết luận thay thế độc giả. Một học sinh lớp chín yêu xem video ngắn của Đại lục, lại ủng hộ Đài Loan duy trì hiện trạng, có thể trong mắt anh ta hoàn toàn không mâu thuẫn, bởi tiêu dùng văn hóa và nhận dạng quốc gia vốn là hai chuyện. Những gì có thể làm ở đây, là lay tất cả những gì Đại học Chính trị Bầu cử, Pew, Trần Vĩ Kiệt, Bảo tàng Dân chủ Đài Loan từng thấy căng thẳng mở ra, để độc giả thấy thế hệ này phức tạp tới mức nào, còn mũ "gần gũi Trung Quốc" hay "từ chối Trung Quốc" thì để lâu. Dán nhãn thế hệ dưới, chính là thứ bài viết này muốn tháo gỡ.
 
-## Dâu tây không mềm, là đất dưới chân bị lệch
+## Cỏ dâu không mềm đi, mà đất đã nghiêng
 
-Xếp năm giấy chứng sinh lên nhau xem, sẽ thấy một điều rất yên tĩnh. Năm 1963 nhóm lớp năm, có 427.212 bạn cùng đi vào thế giới này; năm 2010 nhóm lớp chín, chỉ còn 166.886, không đến bốn mươi phần trăm cực đại lớp năm, thiếu hơn hai mươi ngàn người[^24].
+Xếp chồng năm giấy khai sinh lên nhau, sẽ thấy một điều rất lặng lẽ. Năm 1963, học sinh khối năm có 427.212 bạn cùng chào đời; năm 2010, học sinh khối chín chỉ còn 166.886 người, chưa đến bốn phần mười đỉnh cao của khối năm, thiếu hẳn hơn hai trăm ngàn người[^24].
 
-Người ít đi, bánh không to ra, tòa nhà lại càng cao. Trên địa hình như thế, thế hệ sau dùng cùng lực lượng, không trèo lên được vị trí thế hệ trước đã trèo được. Không phải bởi vì dâu tây mềm đi, mà bởi vì dất dưới chân bị lệch, và lệch không đều: có người dưới chân vẫn có một dốc mềm cha mẹ dựng, có người dưới chân chỉ còn một bức tường gần như thẳng đứng.
+Người ít đi, bánh không lớn hơn, mà nhà lại càng xây cao. Trên địa hình này, thế hệ sau dùng cùng sức lực, cũng không leo tới vị trí thế hệ trước đã đạt được. Đây không phải vì cỏ dâu mềm đi, mà vì đất dưới chân nghiêng, và nghiêng chẳng đều đâu: có người dưới chân vẫn có một đoạn dốc nhẹ do cha mẹ đã dàn dựng, có người chỉ còn một đoạn tường gần như thẳng đứng.
 
-"Lớp" này tọa độ cuối cùng chỉ là một cách vào. Nó tốt, vì nó giúp chúng ta thấy chiếc thang máy đó năm sau một năm dốc hơn; nó không nên là điểm cuối, bởi vì thứ thực sự quyết định một người trèo lên hay không, thường là chiếc thang máy dưới chân anh ta kết nối với lương hay thừa kế, và đường gãy này, vẽ bên trong mỗi lớp. Trung tâm Pew Research Center thậm chí năm 2023 công bố, từ đó sẽ ít dùng nhãn thế hệ để báo cáo, bởi vì rất nhiều sự khác biệt bị quy vào "thế hệ", thực ra nguyên nhân từ nhân khẩu học[^25]. Ngay cả tổ chức lần đầu tiên phát triển phân loại thế hệ, cũng bắt đầu gọi dừng dùng công cụ này.
+Tọa độ «khối lớp» chẳng qua là lối vào. Nó hữu dụng, vì nó giúp ta thấy cái thang cuốn ấy năm nào cũng dốc hơn năm trước; nó không nên là đích đến, vì điều thực sự quyết định một người leo lên được hay không, thường là thang cuốn dưới chân người ấy nối với lương hay với thừa kế, và vết nứt ấy, chạy ngay trong nội bộ mỗi khối lớp.
 
-✦ Vì vậy, lần tới muốn nói ra "thanh niên ngày nay chính là dâu tây" trước khi nói câu này, trước tiên hãy nghĩ một điều: từ này ban đầu chỉ trích, rất có thể chính là bạn lúc đó hai mươi tuổi. Còn ba mươi năm này thực sự thay đổi, là chiếc thang máy bạn khi đó đã giẫm lên, nó vẫn còn động, sau đó chậm lại, trở nên dốc hơn, cuối cùng nứt thành hai nhánh. Vô Danh câu "nếu không ai phát hiện ra tôi nữa" lý do khiến một thế hệ nhấn like, chính bởi vì mỗi thế hệ đều có một khu đất chỉ của mình, những người khác không ấn vào được, và tiền nhà của khu đất thanh xuân đó, một thế hệ so với một thế hệ đắt đỏ.
+Trung tâm Nghiên cứu Pew năm 2023 thậm chí tuyên bố, sau này sẽ ít dùng nhãn thế hệ để báo đạo, vì nhiều sự khác biệt bị gán cho «thế hệ», tận gốc rễ lại xuất phát từ đặc điểm dân số bản thân[^25]. Ngay tổ chức sớm nhất làm cho phân loại thế hệ phát huy quảng đại, cũng bắt đầu kêu dừng công cụ này.
 
-**Đọc thêm**:
+✦ Vậy, lần sau trước khi nói ra câu «giờ trẻ con chỉ là cỏ dâu», hãy nghĩ một việc: từ này xưa nhất chửi, rất có thể chính là bạn hai mươi và năm xưa. Mà điều thực sự thay đổi trong ba mươi năm nay, là cái thang cuốn bạn ngày nào đạp lên, lúc ấy nó còn chạy, sau chậm lại, dốc lại, cuối cùng nứt thành hai. Câu «không còn ai khám phá ra tôi» của Trạm Vô Danh khiến cả một thế hệ bấm thích, chính vì mỗi thế hệ đều có một mảnh thanh xuân chỉ thuộc về mình, người khác không nhुस進去, và tiền thuê mảnh thanh xuân ấy, một thế hệ đắt hơn một thế hệ.
 
-- [Thế hệ gạch chéo Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Lớp bảy, tám trong cấu trúc lương thấp, tách một lương thành ba công việc toán tồn tại
-- [Lạc hướng sự nghiệp thanh niên Đài Loan](/vi/society/taiwan-youth-career-confusion) — Học hành mười sáu năm, ngày tốt nghiệp thường hỏi nhất "tôi không biết tôi phải làm gì"
-- [Khủng hoảng giảm thiếu trẻ em Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Số lượng sinh từ 42 vạn sụp đổ xuống 16 vạn, bánh mỗi năm càng nhỏ
-- [Quang phổ thống nhất độc lập Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Toàn cảnh phân kỳ nhận dạng, từ "tôi là ai" đến "phải đi đâu"
-- [Vô Danh](/vi/culture/wretch) — Máy chủ thanh xuân của lớp bảy, năm 2013 đóng cửa, năm 2025 lại xuất hiện một lần trên Threads
+**Mở rộng đọc**:
+
+- [Tự kiểm tra khả năng gánh nặng giá nhà](/housing/affordability-check/) — Nhập thu nhập và giá nhà, tính tỷ lệ gánh nặng vay mua nhà của mình, đối chiếu với tiêu chuẩn bốn cấp của Bộ Nội vụ và số liệu chính thức các tỉnh thành
+- [Thế hệ slash Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Khối bảy, khối tám trong cấu trúc lương thấp, toán học sinh tồn chia một lương thành ba việc
+- [Cuộc đi lạc lối sự nghiệp của thanh niên Đài Loan](/vi/society/taiwan-youth-career-confusion) — Mười sáu năm đi học, ngày tốt nghiệp thường nhất hỏi «tôi không biết mình muốn làm gì»
+- [Nguy cơ ít con của Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Số lượng sinh từ 420 ngàn sụt xuống 160 ngàn, bánh sao năm nào cũng nhỏ lại
+- [Phổ thống nhất – độc lập của Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Toàn cảnh ranh giới nhận diện, từ «tôi là ai» đến «muốn đi đâu»
+- [Trạm Vô Danh](/vi/culture/wretch) — Máy chủ số hóa thanh xuân khối bảy, năm 2013 đóng cửa, năm 2025 trên Threads lại mọc lên một lần nữa
 
 ## Nguồn ảnh
 

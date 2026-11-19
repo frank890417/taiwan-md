@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:48dfc741c04506d7'
-sourceBodyHash: 'sha256:bbdf3516f36f033d'
-translatedAt: '2026-09-22T14:24:15.424057+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:e51f10ebc811063a'
+sourceBodyHash: 'sha256:c05673b5d97e7a66'
+translatedAt: '2026-11-19T03:58:48.077723+00:00'
 ---
 
 **30 giây tổng quan:** Năm 2003, SARS tại Đài Loan gây ra 73 cái chết, sự kiện phong tỏa Bệnh viện Hòa Bình trở thành tổn thương tập thể trong lịch sử y tế công cộng. Sau đó, Đài Loan gần như xây dựng lại toàn bộ hệ thống phòng dịch: Cục Kiểm soát Bệnh tật được nâng cấp, cơ chế Trung tâm Chỉ huy Dịch bệnh Trung ương được pháp chế hóa, quy trình kiểm soát nhiễm trùng được sửa đổi toàn diện. Năm 2020, khi COVID-19 lan rộng toàn cầu, Đài Loan trong 18 tháng đầu tiên duy trì gần như không có ca nhiễm cộng đồng, được cộng đồng quốc tế gọi là «mô hình Đài Loan». Tháng 4 năm 2026, Đài Loan ghi nhận ca đầu tiên H7N7 cúm gia cầm bản địa «lây từ gia cầm sang người» — hệ thống phòng dịch một lần nữa bị thử thách.
@@ -79,29 +81,31 @@ Hệ thống phòng dịch khởi động quy trình chuẩn: vẽ danh sách 33
 | Thiết bị thiếu hụt        | Chế độ khẩu trang thực danh thành lập trong 72 giờ | Bốn năm vạn khẩu trang phát ngay cho nông dân nuôi vịt |
 | Thông tin không minh bạch | Họp báo hàng ngày                                  | Công bố trình tự gene tức thời                         |
 
-## Bảo hiểm y tế: Cơ sở hạ tầng vô hình của phòng chống dịch
+## Bảo hiểm Y tế: Hạ tầng vô hình của phòng dịch
 
-Hệ thống phòng chống dịch của Đài Loan có nền tảng là [Bảo hiểm y tế toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance/) được triển khai năm 1995.
+Hạ tầng của hệ thống phòng dịch Đài Loan là [Bảo hiểm Y tế Toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance/) khai办 năm 1995.
 
-23,4 triệu người chung một cơ sở dữ liệu bảo hiểm y tế, một thẻ bảo hiểm y tế. Chiếc thẻ này trong đại dịch COVID-19 trở thành cơ sở hạ tầng phòng chống dịch: chế độ thực tên mua khẩu trang dựa trên thẻ bảo hiểm y tế để đăng ký, ghi chú tiền sử đi lại dựa trên thẻ bảo hiểm y tế để liên kết, hồ sơ tiêm chủng ghi trên thẻ bảo hiểm y tế. Nếu không có cơ sở dữ liệu bao phủ toàn dân này, "mô hình Đài Loan" không thể hình thành[^10].
+23,4 triệu người cùng sử dụng một cơ sở dữ liệu Bảo hiểm Y tế, một thẻ Bảo hiểm Y tế. Chiếc thẻ này trong giai đoạn COVID-19 trở thành hạ tầng phòng dịch: chế độ mua khẩu trang thực danh dựa trên thẻ Bảo hiểm Y tế xác nhận, ghi chú lịch sử đi lại nhờ thẻ Bảo hiểm Y tế liên kết, hồ sơ tiêm chủng ghi trong thẻ Bảo hiểm Y tế. Nếu không có cơ sở dữ liệu bao phủ toàn dân này, "mô hình Đài Loan" không thể hình thành[^10].
 
-> **✦** 「SARS là bài học đau đớn nhất trong lịch sử y tế công cộng của Đài Loan. Nhưng bài học đau đớn nhất, lại dạy ra học sinh tốt nhất.」
+> **✦** 「SARS là bài học đau đớn nhất trong lịch sử y tế công cộng Đài Loan. Nhưng bài học đau đớn nhất, lại dạy ra học sinh xuất sắc nhất.」
 
-Hai mươi ba năm sau khi Bệnh viện Hòa Bình bị phong tỏa, tòa nhà đó vẫn đứng vững trên đường Trung Hoa tại Đài Bắc. Những y bác sĩ bước vào phòng cấp cứu, một số vẫn nhớ những chuyện năm xưa. Hà Tống Dung nói ông không oán giận, nhưng vết thương ấy "chưa hẳn lành hẳn". Có lẽ không cần lành. Có lẽ cơ quan quan trọng nhất của một hệ thống phòng chống dịch, chính là nhớ đau.
+Hai mươi ba năm sau khi Bệnh viện Hòa Bình bị phong toa, tòa nhà đó vẫn vươn cao trên đại lộ Trung Hoa, thành phố Đài Bắc. Những y bác sĩ bước vào phòng cấp cứu, một số vẫn nhớ những chuyện năm xưa. Hà Tùng Dung nói ông không oán giận, nhưng vết sẹo đó "chưa hẳn lành". Có lẽ không cần lành. Có lẽ cơ quan quan trọng nhất của một hệ thống phòng dịch, chính là nhớ đau.
 
 **Mở rộng đọc**:
 
-- [Phòng hút thuốc lá Đài Bắc: Trong thành phố không khói, những hộp kính biết thở](/vi/society/taipei-smoking-room) — Chương mới nhất trong cuộc hành trình bốn mươi năm phòng chống hại thuốc lá, chiến trường từ trong nhà chuyển ra ngoài trời
+- [Phòng hút thuốc lá Đài Bắc: Trong thành phố không khói, những hộp kính biết thở](/vi/society/taipei-smoking-room) — Chương mới nhất trong hành trình bốn mươi năm phòng chống hại thuốc lá, chiến trường từ trong nhà chuyển ra ngoài trời
 
-- [Y tế Đài Loan và Bảo hiểm y tế toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cơ sở hạ tầng nền tảng của hệ thống phòng chống dịch: Cơ sở dữ liệu bảo hiểm y tế của 23,4 triệu người
+- [Y tế Đài Loan và Bảo hiểm Y tế Toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Hạ tầng nền tảng của hệ thống phòng dịch: Cơ sở dữ liệu Bảo hiểm Y tế của 23,4 triệu người
 
-- [Audrey Tang (Đường Phong)](/vi/people/audrey-tang) — Thứ trưởng số đứng sau bản đồ khẩu trang
+- [Đường Phong](/vi/people/audrey-tang) — Chính vụ số đứng sau bản đồ khẩu trang
 
-- [Hệ thống y tế ứng phó thảm họa của Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Từ 921 đến SARS, thảm họa như thế nào thúc đẩy y tế tiến hóa
+- [Hệ thống Y tế Thảm họa Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Từ 921 đến SARS, thảm họa như thế nào thúc đẩy y tế tiến hóa
 
-- [Đại dịch COVID-19 tại Đài Loan và vắc-xin](/vi/society/taiwan-covid-pandemic-and-vaccines) — Hệ thống được xây dựng sau SARS, trong năm 2020 đến 2023 đã được kiểm tra toàn diện: biên giới chặn đứng mười tám tháng, nhưng vắc-xin và mũi thứ ba cho người cao tuổi lại không kịp
+- [Chuyên đề Y tế và Chăm sóc Dài hạn](/health/) — Chế độ, lịch sử và thu chi của Bảo hiểm Y tế và Chăm sóc Dài hạn, kèm tính toán trợ cấp chăm sóc dài hạn và phí Bảo hiểm Y tế
 
-- [Hai luật y tế tái tạo × mRNA 30 năm](/vi/society/taiwan-regenerative-medicine-laws) — Mua vắc-xin BNT năm 2021 + lập pháp trị liệu tế bào, hai tuyến kể chuyện song song, góc nhìn mở rộng cho phòng chống COVID trong bài này
+- [Đại dịch COVID-19 tại Đài Loan và Vắc-xin](/vi/society/taiwan-covid-pandemic-and-vaccines) — Hệ thống này được xây dựng sau SARS, đã được kiểm tra hoàn chỉnh từ 2020 đến 2023: biên giới chặn đứng mười tám tháng, nhưng vắc-xin và mũi thứ ba cho người cao tuổi lại không kịp
+
+- [Luật đôi Y tế tái sinh × mRNA 30 năm](/vi/society/taiwan-regenerative-medicine-laws) — Mua BNT 2021 + lập pháp trị liệu tế bào: hai đường truyện song song, góc nhìn mở rộng cho phòng dịch COVID trong bài này
 
 ## Tài liệu tham khảo
 
