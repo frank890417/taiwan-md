@@ -346,7 +346,12 @@ const showLabel = lang !== 'zh-TW';
       position: absolute;
       inset-block-start: 0;
       inset-inline-end: 0;
-      inline-size: 5.5rem;
+      inline-size: auto;
+      block-size: 5.25rem;
+    }
+    .ab-pro__ridge :global(.ab-pro__ridge-svg) {
+      inline-size: auto;
+      block-size: 100%;
     }
     .ab-pro__now {
       margin-block-start: var(--space-5);
