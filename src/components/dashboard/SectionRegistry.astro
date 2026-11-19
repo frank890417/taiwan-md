@@ -6,6 +6,20 @@ import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+// 給 registry.js 用的標籤（客戶端腳本沒有 i18n 表，字串由這裡帶過去）
+const mediaLabels = {
+  coverYes: t('dashboard.registry.cover.yes'),
+  coverNo: t('dashboard.registry.cover.no'),
+  coverUnknown: t('dashboard.registry.cover.unknown'),
+  coverCreditGap: t('dashboard.registry.cover.credit-gap'),
+  coverFileMissing: t('dashboard.registry.cover.file-missing'),
+  modulesTotal: t('dashboard.registry.modules.total'),
+  statCover: t('dashboard.registry.stats.cover'),
+  statImages: t('dashboard.registry.stats.images'),
+  statDataModules: t('dashboard.registry.stats.data-modules'),
+  statByCategory: t('dashboard.registry.stats.by-category'),
+  statUnknownNote: t('dashboard.registry.stats.unknown-note'),
+};
 ---
 
 <!-- Article Registry -->
@@ -15,6 +29,13 @@ const t = useTranslations(lang);
     <span class="section-timestamp" data-source="articles"></span>
   </h2>
   <p class="section-subtitle">{t('dashboard.registry.subtitle')}</p>
+
+  <div
+    class="registry-media-stats"
+    id="registry-media-stats"
+    data-labels={JSON.stringify(mediaLabels)}
+  >
+  </div>
 
   <div class="registry-controls">
     <input
@@ -48,6 +69,18 @@ const t = useTranslations(lang);
         >
         <option value="missing-en"
           >{t('dashboard.registry.filter.translation.missing-en')}</option
+        >
+      </select>
+      <select id="filter-media" class="registry-filter">
+        <option value="">{t('dashboard.registry.filter.media')}</option>
+        <option value="no-cover"
+          >{t('dashboard.registry.filter.media.no-cover')}</option
+        >
+        <option value="no-image"
+          >{t('dashboard.registry.filter.media.no-image')}</option
+        >
+        <option value="credit-gap"
+          >{t('dashboard.registry.filter.media.credit-gap')}</option
         >
       </select>
     </div>
@@ -90,6 +123,15 @@ const t = useTranslations(lang);
           >
           <th class="sortable" data-sort="wordCount"
             >{t('dashboard.registry.col.words')}</th
+          >
+          <th class="sortable" data-sort="cover"
+            >{t('dashboard.registry.col.cover')}</th
+          >
+          <th class="sortable" data-sort="imageCount"
+            >{t('dashboard.registry.col.images')}</th
+          >
+          <th class="sortable" data-sort="dataModuleCount"
+            >{t('dashboard.registry.col.modules')}</th
           >
           <th class="sortable col-hideable" data-sort="tagCount"
             >{t('dashboard.registry.col.tags')}</th
